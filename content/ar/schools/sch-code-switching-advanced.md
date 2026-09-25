@@ -11,31 +11,41 @@ crumb: "علم اللغة"
 dates: "معاصر"
 active_start: 1980
 active_end: "مستمر"
-edges: []
-related: []
-gaps:
-  - "توسيع الروابط"
+edges:
+- rel: "evolved_from", target: "sch-sociolinguistics-variation", target_type: "مدرسة"
+related:
+- id: "thk-carol-myers-scotton", title: "كارول ميرز-سكوتون", type: "مفكر"
+- id: "thk-shana-poplack", title: "شانا بوبلاك (Shana Poplack)", type: "مفكر"
+- id: "thk-pieter-muysken", title: "بيتر مويسكن (Pieter Muysken)", type: "مفكر"
+- id: "con-matrix-language-frame-model", title: "نموذجُ اللغة الإطارية (Matrix Language Frame Model)", type: "مفهوم"
+- id: "con-code-switching-mixing", title: "التبديلُ والمزجُ الرمزي (Code-Switching & Code-Mixing)", type: "مفهوم"
+gaps: []
 ---
 
 # تبديل الأكواد المتقدم
 
-## Definition
+يمثّل هذا التيار البحثي المرحلة الثانية من دراسة تبديل الأكواد (Code-Switching)، إذ انتقل الاهتمام في الثمانينيات من الوصف الاجتماعي لدوافع التبديل بين اللغتين إلى البحث عن **قيودٍ نحوية صورية** تحكم أين يمكن أن يقع التبديل داخل الجملة الواحدة، ولماذا تُستبعد بعض نقاط التبديل بانتظامٍ عبر أزواج لغويةٍ مختلفة.
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+## قيود بوبلاك: التكافؤ والمورفيم الحر
 
-## Key Principles
+قدّمت اللغوية الكندية **شانا بوبلاك** سنة 1980 أحد أبكر النماذج الصورية المؤثرة، مقترحةً قيدين رئيسين: **قيد التكافؤ البنيوي** (Equivalence Constraint)، الذي ينصّ على أن التبديل يقع فقط عند نقاطٍ تتوافق فيها بنية الجملة في كلتا اللغتين نحوياً، بحيث يبقى كل جزءٍ أحادي اللغة سليماً وفق قواعد لغته؛ و**قيد المورفيم الحر** (Free Morpheme Constraint)، الذي يمنع التبديل بين جذعٍ من لغة ولاحقةٍ صرفية مقيَّدة من لغةٍ أخرى (كإلصاق لاحقة تصريفٍ من لغةٍ بجذرٍ من لغةٍ أخرى غير متوافق صوتياً معها).
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+## نموذج اللغة الإطارية عند ميرز-سكوتون
 
-## Evidence
+طوّرت اللغوية الأمريكية **كارول ميرز-سكوتون** بديلاً أكثر تأثيراً هو «نموذج اللغة الإطارية» (Matrix Language Frame Model)، الذي يفترض أن الجملة المتضمِّنة تبديلاً تُبنى دائماً على أساس **لغةٍ إطارية واحدة مهيمنة** (Matrix Language) تفرض البنية الصرفية النحوية العامة للجملة (ترتيب الكلمات واللواحق الوظيفية)، بينما تُدرَج عناصر من **اللغة المضمَّنة** (Embedded Language) — غالباً أسماء أو عباراتٍ اسمية — داخل هذا الإطار كوحداتٍ مفردة. يفسّر هذا النموذج عدم التناظر الملحوظ عملياً بين اللغتين في أغلب حالات التبديل داخل الجملة الواحدة.
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+## تصنيف مويسكن الثلاثي
 
-## References
+اقترح اللغوي الهولندي **بيتر مويسكن** أن التبديل بين الأكواد لا يخضع لنموذجٍ صوريٍّ واحد، بل يتخذ ثلاثة أنماطٍ بنيوية متمايزة بحسب الزوج اللغوي والسياق الاجتماعي: **الإدراج** (Insertion)، وهو أقرب إلى استعارة عنصرٍ معجمي مفرد ضمن إطارٍ نحوي واحد (يتوافق مع نموذج ميرز-سكوتون)؛ و**التناوب** (Alternation)، حيث تتبادل لغتان كاملتا البنية داخل الجملة عند حدودٍ نحوية واضحة (أقرب إلى قيد التكافؤ عند بوبلاك)؛ و**التقعيد المتوافق معجمياً** (Congruent Lexicalization)، حيث تتشارك اللغتان بنيةً نحوية متقاربة بما يسمح بمزج عناصرهما بحرية أكبر، كما يحدث بين لغاتٍ متقاربة تاريخياً أو اجتماعياً كالهولندية ولهجات الإنجليزية الكريولية القريبة منها.
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+## من الوصف إلى التفسير المعرفي
+
+مثّل هذا التحوّل نحو النمذجة الصورية للقيود النحوية انتقالاً منهجياً من السؤال الاجتماعي («لماذا يبدّل المتكلمون؟») إلى السؤال البنيوي («أين يمكن أن يقع التبديل نحوياً؟»)، ومهّد لاحقاً لأبحاثٍ معرفية تسأل كيف تُدار اللغتان في الذهن أثناء الإنتاج اللحظي للجملة المختلطة، بما يربط هذا التيار بأبحاث التحكم التنفيذي الثنائي اللغة والنمذجة الحاسوبية لمعالجة الكلام المختلط.
+
+## المصادر
+
+- Poplack, Shana. "Sometimes I'll Start a Sentence in Spanish y Termino en Español: Toward a Typology of Code-Switching." *Linguistics*, 18(7–8), 1980.
+- Myers-Scotton, Carol. *Duelling Languages: Grammatical Structure in Codeswitching*. Oxford University Press, 1993.
+- Muysken, Pieter. *Bilingual Speech: A Typology of Code-Mixing*. Cambridge University Press, 2000.
+- Deuchar, Margaret. "Code-Switching." In *The Cambridge Handbook of Bilingualism*, eds. Bhatia & Ritchie, 2013.
 

@@ -10,6 +10,7 @@ crumb: "anthropology"
 active_start: 1960
 active_end: "مستمر"
 edges:
+  - rel: "belongs_to", target: "sch-alliance-theory", target_type: "مدرسة"
   - rel: "related_to", target: "con-bride-price", target_type: "مفهوم"
 related:
   - id: "thk-jack-goody", title: "جاك غودي", type: "مفكر"

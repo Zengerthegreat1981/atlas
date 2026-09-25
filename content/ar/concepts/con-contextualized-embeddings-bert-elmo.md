@@ -22,31 +22,30 @@ gaps:
 
 # التمثيلاتُ المتّجهيةُ السياقية (ELMo وBERT)
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+التمثيلاتُ المتّجهيةُ السياقية (Contextualized Word Embeddings) جيلٌ من تمثيلات الكلمات الحاسوبية يمنح كلَّ ظهورٍ للكلمة متّجهاً مختلفاً بحسب سياقها الجملي الفعلي، خلافاً للتمثيلات الساكنة الأقدم كـWord2Vec وGloVe التي تُخصِّص متّجهاً واحداً ثابتاً لكل كلمة بصرف النظر عن معناها المقصود. جاء هذا التحوّلُ حلاً لمشكلة تعدّد المعنى (Polysemy): فكلمة "bank" تحصل على التمثيل المتجهي نفسِه في "نهر" و"مصرف" ضمن النماذج الساكنة، وهو ما تصححه النماذجُ السياقية.
 
-## Theoretical Framework
+## ELMo: التمثيلاتُ من نماذج اللغة
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+قدَّم ماثيو پيترز وزملاؤه نموذج ELMo (Embeddings from Language Models) عام 2018، الذي يشتقُّ تمثيلَ الكلمة من مجموع مرجَّحٍ لمخرجات طبقاتٍ متعدّدة من شبكاتِ LSTM ثنائية الاتجاه، مدرَّبةٍ للتنبؤ بالكلمة التالية والسابقة في السياق معاً. يمثّل هذا التمثيلُ خلاصةَ معالجة الجملة بأكملها لا الكلمة المفردة معزولةً، فيتغيّر متّجهُ الكلمة نفسِها بتغيّر الجملة المحيطة بها.
 
-## Key Principles
+## BERT: المحوِّلاتُ ثنائيةُ الاتجاه
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+طوّر جاكوب دِڤلن وفريقُه في غوغل نموذج BERT (Bidirectional Encoder Representations from Transformers) عام 2019، مستبدِلاً بنيةَ LSTM المتعاقبة عند ELMo بمشفِّر محوِّل (Transformer Encoder) قائمٍ على آلية الانتباه الذاتي (Self-Attention)، التي تحسب العلاقاتِ بين كل الكلمات في الجملة بالتوازي بدل التعاقب. دُرِّب BERT بمهمّتين ذاتيتَي الإشراف: نمذجةُ اللغة المقنَّعة (Masked Language Modeling)، حيث يُخفى جزءٌ من الكلمات ويُطلَب من النموذج توقّعها من السياق المحيط في الاتجاهين معاً، وتوقّعُ الجملة التالية (Next Sentence Prediction).
 
-## Evidence Sources
+## الفارقُ البنيوي والوظيفي
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+يمنح الانتباهُ الذاتي عند BERT ميزةً حاسمة على البنية المتعاقبة لـELMo: القدرةَ على ربط أي كلمتين في الجملة مباشرةً بصرف النظر عن المسافة بينهما، وبمعالجةٍ متوازية أسرع تدريباً. كما يُستخدَم BERT عادةً بطريقة "الضبط الدقيق" (Fine-Tuning)، إذ تُدرَّب كل أوزان النموذج المُدرَّب مسبقاً على مهمّةٍ لاحقة محدَّدة، بينما استُخدم ELMo غالباً بطريقة "قائمة على السمات" (Feature-Based) يُضاف فيها تمثيلُه جاهزاً إلى معمارية نموذجٍ مخصَّص للمهمّة.
 
-## Contemporary Applications
+## الأثر على معالجة اللغة الطبيعية
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+أحدثت هذه التمثيلاتُ السياقية نقلةً نوعية في أداء مهامِّ معالجة اللغة الطبيعية كافّة — من الإجابة عن الأسئلة إلى تحليل المشاعر والتعرّف على الكيانات المسمّاة — وأسّس BERT تحديداً نمطَ "التدريب المسبق ثم الضبط الدقيق" الذي صار المعيارَ السائد في الحقل، ومهّد الطريقَ مباشرةً لنماذج اللغة الكبرى اللاحقة القائمة على معمارية المحوِّل ذاتها.
 
-## References
+## المصادر
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+- Peters, M. E., et al. (2018). "Deep Contextualized Word Representations." *Proceedings of NAACL-HLT 2018*.
+- Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." *Proceedings of NAACL-HLT 2019*.
+- Vaswani, A., et al. (2017). "Attention Is All You Need." *Advances in Neural Information Processing Systems*.
+- Ethayarajh, K. (2019). "How Contextual are Contextualized Word Representations?" *Proceedings of EMNLP-IJCNLP 2019*.
 

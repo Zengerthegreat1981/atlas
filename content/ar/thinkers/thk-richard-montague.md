@@ -27,31 +27,28 @@ gaps:
 
 # ريتشارد مونتاغيو
 
-## Definition
+فيلسوفٌ ومنطقيّ أمريكي (1930-1971)، تلميذ الفيلسوف رودولف كارناب في جامعة كاليفورنيا في بيركلي، أحدث في سنواته الأخيرة القصيرة نقلةً نوعية في تاريخ الدلالة اللسانية بتطبيقه أدوات المنطق الرياضي الصارمة على تحليل معنى اللغة الطبيعية، قبل أن يُقتَل مقتولاً في ظروفٍ غامضة سنة 1971 عن واحدٍ وأربعين عاماً فقط.
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+## أطروحة الإنجليزية لغةً صورية
 
-## Theoretical Framework
+انطلق مونتاغيو من أطروحةٍ استفزازية في مقالته «English as a Formal Language» (1970): أنه «لا يوجد فرقٌ نظري مهم بين اللغات الطبيعية ولغات المنطقيين الصورية»، مخالفاً بذلك الرأي السائد آنذاك (ومنه عند بعض الفلاسفة التحليليين) بأن اللغة الطبيعية غامضةٌ وغير منظَّمة بما يمنع تحليلها منطقياً بالدقة نفسها التي تُحلَّل بها اللغات الصورية للمنطق الرياضي.
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+## PTQ: المعالجة السليمة للتكميم
 
-## Key Principles
+قدّم مونتاغيو في مقالته الأهم «The Proper Treatment of Quantification in Ordinary English» (المعروفة اختصاراً PTQ، 1973، نُشرت بعد وفاته) نموذجاً كاملاً يترجم شرائح من الإنجليزية الاعتيادية إلى صيغٍ في منطقٍ مكثَّفٍ عالي الرتبة (Higher-Order Intensional Logic)، معالجاً بدقةٍ ظواهرَ معقدة كنطاق الكمّيات المتعددة في الجملة الواحدة (كـ«كل رجلٍ يحب امرأةً ما») التي كانت تستعصي على المعالجات النحوية السابقة.
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+## مبدأ التركيبية والمنطق المكثَّف
 
-## Evidence Sources
+جعل مونتاغيو **مبدأ التركيبية** (Compositionality) حجر الزاوية في منهجه: معنى أي تعبيرٍ مركَّب يُشتقّ آلياً من معاني أجزائه وطريقة تركيبها فقط، بحيث يقابل كل قاعدة نحو قاعدةَ تفسيرٍ دلالي موازية. واستخدم **دلالات العوالم الممكنة** (Possible Worlds Semantics) للتمييز بين **الامتداد** و**الكثافة**، مما مكّنه من معالجة الأفعال الموجِّهة والسياقات غير الشفافة إحاليّاً (Opaque Contexts) بأداةٍ منطقية موحَّدة.
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+## الأثر بعد الوفاة
 
-## Contemporary Applications
+لم يعش مونتاغيو ليرى الأثر الهائل الذي أحدثه عمله؛ فقد نقلت **باربارا بارتة** أفكاره من دائرة الفلسفة المنطقية الضيقة إلى اللسانيات التداولية، فأصبحت «الدلالة الصورية» أو «نحو مونتاغيو» أحد الأطر المهيمنة في دراسة المعنى أكاديمياً، وتفرّعت عنه لاحقاً أعمال إيرين هايم وأنجيليكا كراتزر وهانز كامپ وغيرهم، ممن وسّعوا إطاره الأصلي لمعالجة الإحالة الضميرية عبر الجمل والوجهية والافتراض المسبَق.
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+## المصادر
 
-## References
-
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+- Montague, Richard. "English as a Formal Language." In *Linguaggi nella Società e nella Tecnica*, ed. Visentini et al. Edizioni di Comunità, 1970.
+- Montague, Richard. "The Proper Treatment of Quantification in Ordinary English." In *Approaches to Natural Language*, eds. Hintikka, Moravcsik & Suppes. Reidel, 1973.
+- Montague, Richard. *Formal Philosophy: Selected Papers of Richard Montague*, ed. Richmond Thomason. Yale University Press, 1974.
+- Partee, Barbara H. "Richard Montague (1930-1971)." In *Encyclopedia of Language and Linguistics*, 2nd ed., 2005.
 

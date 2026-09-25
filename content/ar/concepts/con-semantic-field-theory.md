@@ -19,35 +19,28 @@ gaps: []
 
 # نظريةُ الحقل الدلالي
 
-## Definition
+نظريةٌ في علم الدلالة تفترض أن مفردات اللغة لا تحمل معانيَ مستقلةً منعزلة، بل تنتظم في «حقولٍ» (Wortfelder) من الكلمات المترابطة بحيث يحدّد كلُّ لفظٍ حيّزَه الدلاليَّ بموقعه من جيرانه في الحقل نفسه، لا بذاته وحده. صاغ هذه الفكرةَ اللغويُّ الألمانيُّ **يوست ترير** (Jost Trier) في مقالته الشهيرة سنة 1931 عن حقل العقل والمعرفة في الألمانية الوسطى العليا، فأصبحت إحدى الركائز التأسيسية لعلم الدلالة البنيوي في القرن العشرين.
 
-Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
+## الفكرة المركزية عند ترير
 
-## Theoretical Approaches
+انطلق ترير من افتراضٍ بنيويٍّ مستمدٍّ من فرديناند دي سوسير: أن قيمة الكلمة (Valeur) لا تُدرَك إلا بالتقابل مع الكلمات الأخرى التي تقتسم معها المجال المفهومي ذاته. فحين يتغيّر معنى كلمةٍ واحدة في الحقل، تتغيّر تبعاً لذلك حدودُ الكلمات المجاورة لها، كقطعِ الفسيفساء التي تتلاءم حوافُّها لتغطي مساحةً واحدة بلا فراغٍ ولا تداخل. مثاله المعروف هو حقل «الحكمة/المعرفة» في الألمانية الوسطى العليا، حيث بيّن أن انتقال اللغة من نظامٍ ثلاثيّ الحدود إلى نظامٍ آخر أعاد رسم حدود كل لفظٍ فيه.
 
-Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
+## الافتراضات والانتقادات
 
-## Core Concepts
+افترضت صيغة ترير الأولى أن الحقول الدلالية مغلقةٌ ومحكمة، بلا تداخلٍ بين الألفاظ ولا ثغراتٍ بينها، وأن اللغة بكاملها تتوزّع في نسقٍ من هذه الحقول. وقد وُجِّهت إلى هذه الافتراضات انتقاداتٌ عديدة: فالحدود بين الألفاظ نادراً ما تكون حادّةً بهذا الوضوح، والمتكلمون الأفراد لا يمتلكون بالضرورة الحقل الدلاليَّ نفسه، كما أن معايير تحديد عضوية الحقل (تركيبية أم دلالية أم استعمالية) ظلّت غامضة. طوّر باحثون لاحقون، مثل والتر بورتسيغ ويوجينيو كوسيريو، صيغاً أكثر مرونة تميّز بين علاقات دلالية جزئية (كالتضاد والترادف والشمول) بدل افتراض نسقٍ كليٍّ مغلق.
 
-- Reference: What does a word refer to?
-- Sense: How does a word relate to other words?
-- Entailment: What must be true if a statement is true?
-- Presupposition: What background assumptions does a statement carry?
+## علاقتها بالحقل المعجمي والحقل الدلالي
 
-## Mechanisms
+يُميَّز أحياناً بين «الحقل المعجمي» (Lexical Field)، الذي يُعنى بالعلاقات الشكلية بين الألفاظ في لغةٍ بعينها، و«الحقل الدلالي» (Semantic Field) الأعمّ الذي يشمل أيضاً العلاقات المفهومية التي قد تتجاوز حدود اللغة الواحدة، كحقل ألفاظ القرابة أو الألوان أو الحركة. هذا التمييز مكّن الباحثين المقارنين من دراسة كيف تقسّم لغاتٌ مختلفة المجال المفهومي الواحد بطرقٍ متباينة، كما في تقسيم الألوان أو أفعال الحمل والنقل.
 
-Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
+## الأثر اللاحق
 
-## Cross-linguistic Evidence
+مهّدت نظرية الحقل الدلالي الطريقَ أمام تحليل السمات الدلالية (Componential Analysis) الذي طوّره لاحقاً باحثون كأوجين نايدا وجون لايونز، حيث تُفكَّك دلالة اللفظ إلى حزمةٍ من السمات المائزة (± حيّ، ± بشري، ± ذكر). كما أثّرت في الدلالة المعجمية الحاسوبية الحديثة وفي بناء الشبكات المعجمية مثل ووردنت (WordNet)، التي تنظّم الألفاظ في علاقات ترادفٍ وشمولٍ وتضاد أقرب إلى منطق الحقول الدلالية منها إلى القوائم المعجمية المفردة.
 
-Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
+## المصادر
 
-## Contemporary Applications
-
-Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
-
-## References
-
-- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
-- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+- Trier, Jost. *Der deutsche Wortschatz im Sinnbezirk des Verstandes*. Heidelberg: Winter, 1931.
+- Lyons, John. *Semantics*, Vol. 1. Cambridge University Press, 1977.
+- Lehrer, Adrienne. *Semantic Fields and Lexical Structure*. Amsterdam: North-Holland, 1974.
+- Geeraerts, Dirk. *Theories of Lexical Semantics*. Oxford University Press, 2010.
 

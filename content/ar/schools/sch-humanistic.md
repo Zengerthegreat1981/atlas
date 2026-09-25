@@ -63,7 +63,6 @@ related:
 - id: "thk-kkoch", title: "كينيث كوخ", type: "مفكر"
 - id: "thk-kmaclean", title: "كاثرين ماكْلِين", type: "مفكر"
 - id: "thk-kristin-buss", title: "كريستين بَس", type: "مفكر"
-- id: "thk-leehyungjun", title: "لي هيونغ-جون", type: "مفكر"
 - id: "thk-lhubbard", title: "ل. رون هوبارد", type: "مفكر"
 - id: "thk-mbogenschutz", title: "مايكل بوغِنشوتس", type: "مفكر"
 - id: "thk-minsungkil", title: "مين سونغ-كيل", type: "مفكر"

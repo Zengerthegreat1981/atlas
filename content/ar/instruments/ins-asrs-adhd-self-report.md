@@ -9,199 +9,199 @@ related_schools:
   - sch-cognitive-behavioral-therapy
 ---
 
-# ADHD Self-Report Scale (ASRS-v1.1)
+# مقياس التقرير الذاتي لاضطراب فرط الحركة ونقص الانتباه (ADHD Self-Report Scale (ASRS-v1.1))
 
-The ASRS is a brief, 6-item (or 18-item extended) screening tool for adult ADHD symptoms based on DSM-5 criteria. Developed by Kessler and colleagues for the WHO (2005), it identifies ADHD likelihood in adults and is widely used in primary care, occupational health, and mental health settings. The screening version takes 1-2 minutes.
+مقياس ASRS أداة فرز موجزة مكونة من 6 بنود (أو 18 بنداً في النسخة الموسّعة) لأعراض اضطراب فرط الحركة ونقص الانتباه (ADHD) لدى البالغين استناداً إلى معايير الدليل التشخيصي الخامس (DSM-5). طوّره كيسلر (Kessler) وزملاؤه لمنظمة الصحة العالمية (2005)، وهو يحدد احتمالية إصابة البالغ بالاضطراب، ويُستخدم على نطاق واسع في الرعاية الأولية والصحة المهنية والصحة النفسية. تستغرق نسخة الفرز 1-2 دقيقة.
 
-## Development
+## التطوير
 
-**Kessler et al. (2005):**
-- Created for WHO World Mental Health Survey Initiative
-- Specifically designed for adult ADHD screening (often missed)
-- Short version (6 items) for rapid screening in busy clinics
-- Full version (18 items) for detailed symptom assessment
-- Based on DSM-IV/DSM-5 ADHD criteria
+**كيسلر وآخرون (2005):**
+- أُنشئ لمبادرة المسح العالمي للصحة النفسية التابعة لمنظمة الصحة العالمية
+- صُمم خصيصاً لفرز اضطراب فرط الحركة ونقص الانتباه لدى البالغين (كثيراً ما يُغفل تشخيصه)
+- النسخة القصيرة (6 بنود) للفرز السريع في العيادات المزدحمة
+- النسخة الكاملة (18 بنداً) لتقييم مفصل للأعراض
+- مبني على معايير DSM-IV/DSM-5 للاضطراب
 
-**Rationale:**
-- Adult ADHD historically underdiagnosed
-- Few brief screening tools available
-- Need for office-based, self-administered tool
-- Links to impairment and functional outcomes
+**المسوّغ:**
+- تاريخياً، يُشخَّص اضطراب فرط الحركة ونقص الانتباه لدى البالغين تشخيصاً ناقصاً
+- قلة أدوات الفرز الموجزة المتاحة
+- الحاجة إلى أداة ذاتية التطبيق في العيادة
+- ربطه بالقصور الوظيفي والنتائج الوظيفية
 
-## Items & Format
+## البنود والصيغة
 
-**Screening version (6 items):**
+**نسخة الفرز (6 بنود):**
 
-| # | Item | ADHD Domain |
+| # | البند | مجال الاضطراب |
 |---|------|------------|
-| 1 | How often do you have trouble getting things in order when you have to do a task that requires organization? | Organization/Executive |
-| 2 | How often do you misplace or have difficulty finding things at home or at work? | Attention to detail |
-| 3 | How often do you have difficulty remembering appointments or obligations? | Working memory |
-| 4 | When you have a task that requires a lot of thought, how often do you avoid or delay getting started? | Task initiation |
-| 5 | How often are you fidgety or squirmy with your hands or feet when you have to sit down for a long time? | Hyperactivity/Restlessness |
-| 6 | How often do you feel overly active and compelled to do things, like you were driven by a motor? | Hyperactivity/Energy |
+| 1 | كم مرة تواجه صعوبة في ترتيب الأمور عندما يتطلب منك تنفيذ مهمة تحتاج إلى تنظيم؟ | التنظيم/الوظائف التنفيذية |
+| 2 | كم مرة تُضيّع أو تجد صعوبة في العثور على أشياء في المنزل أو العمل؟ | الانتباه للتفاصيل |
+| 3 | كم مرة تجد صعوبة في تذكر المواعيد أو الالتزامات؟ | الذاكرة العاملة |
+| 4 | عندما تواجه مهمة تتطلب تفكيراً كبيراً، كم مرة تتجنب أو تؤجل البدء بها؟ | بدء المهمة |
+| 5 | كم مرة تكون قلقاً أو متململاً بيديك أو قدميك عندما يتوجب عليك الجلوس لفترة طويلة؟ | فرط الحركة/التململ |
+| 6 | كم مرة تشعر بنشاط مفرط واندفاع للقيام بالأشياء، كما لو كان يدفعك محرك؟ | فرط الحركة/الطاقة |
 
-**Full version (18 items):**
-- Expands each domain with additional items
-- Provides more comprehensive symptom coverage
-- Better for detailed severity assessment
+**النسخة الكاملة (18 بنداً):**
+- توسّع كل مجال ببنود إضافية
+- توفر تغطية أشمل للأعراض
+- أفضل لتقييم الشدة بتفصيل
 
-**Response options:**
-- 5-point scale: Never/Rarely (0), Sometimes (1), Often (2), Very Often (3), All the Time (4)
-- Time frame: Current symptoms/past 6 months
-- Administration time: Screening 1-2 minutes, full 5 minutes
+**خيارات الاستجابة:**
+- مقياس من 5 درجات: أبداً/نادراً (0)، أحياناً (1)، غالباً (2)، غالباً جداً (3)، طوال الوقت (4)
+- الإطار الزمني: الأعراض الحالية/الأشهر الستة الماضية
+- زمن التطبيق: الفرز 1-2 دقيقة، الكاملة 5 دقائق
 
-## Scoring & Interpretation
+## التصحيح والتفسير
 
-**Screening version scoring:**
-- Sum items 1-6
-- Range: 0-24
-- Cutoff score ≥14: likely ADHD; recommend clinical evaluation
-- Sensitivity ~68%, specificity ~99% at cutoff 14
+**تصحيح نسخة الفرز:**
+- جمع البنود 1-6
+- المدى: 0-24
+- درجة القطع ≥14: احتمال الإصابة بالاضطراب؛ يُوصى بتقييم سريري
+- الحساسية نحو 68٪، النوعية نحو 99٪ عند درجة القطع 14
 
-**Full version scoring:**
-- Sum all 18 items
-- Range: 0-72
-- Higher scores suggest greater ADHD symptom burden
-- Use with cutoff guide (typically ≥38 suggests ADHD)
+**تصحيح النسخة الكاملة:**
+- جمع جميع البنود الثمانية عشر
+- المدى: 0-72
+- الدرجات الأعلى تشير إلى عبء أعراض أكبر
+- تُستخدم مع دليل درجة قطع (عادة ≥38 يشير إلى الاضطراب)
 
-**Diagnostic interpretation:**
-- Screen positive: does NOT diagnose ADHD
-- Indicates need for comprehensive diagnostic evaluation
-- Clinical interview, behavioral history, and psychological testing needed
-- Rule out bipolar disorder, anxiety, PTSD (similar presentations)
+**التفسير التشخيصي:**
+- الفرز الإيجابي لا يُشخّص الاضطراب
+- يشير إلى الحاجة إلى تقييم تشخيصي شامل
+- يلزم مقابلة سريرية وتاريخ سلوكي واختبار نفسي
+- استبعاد الاضطراب ثنائي القطب والقلق واضطراب ما بعد الصدمة (عروض مشابهة)
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-**Reliability:**
-- Internal consistency (screening version): α = 0.88
-- Test-retest reliability: r = 0.76-0.80
-- Reasonable stability across time
-- Consistent across demographic groups
+**الثبات:**
+- الاتساق الداخلي (نسخة الفرز): α = 0.88
+- ثبات الإعادة: r = 0.76-0.80
+- استقرار معقول عبر الزمن
+- متسق عبر الفئات الديموغرافية
 
-**Validity:**
-- Criterion validity: 68% sensitivity, 99% specificity for ADHD diagnosis
-- Convergent validity: correlates with CAADID interview (r = 0.75)
-- Discriminant validity: distinguishes ADHD from other psychiatric conditions
-- Clinical utility: identifies adults needing evaluation
+**الصدق:**
+- صدق المحك: حساسية 68٪ ونوعية 99٪ للتشخيص
+- الصدق التقاربي: يرتبط بمقابلة CAADID (r = 0.75)
+- الصدق التمييزي: يميّز الاضطراب عن حالات نفسية أخرى
+- الفائدة السريرية: يحدد البالغين الذين يحتاجون تقييماً
 
-**Cross-cultural:**
-- Translated and validated in 20+ languages
-- Generally stable psychometrics
-- Some cultural variation in symptom expression
-- Workplace vs. home manifestations variable
+**عبر الثقافات:**
+- تُرجم وتحقق منه في أكثر من 20 لغة
+- خصائص سيكومترية مستقرة عموماً
+- بعض التفاوت الثقافي في التعبير عن الأعراض
+- تفاوت في المظاهر بين مكان العمل والمنزل
 
-## Clinical & Research Applications
+## التطبيقات السريرية والبحثية
 
-**Adult ADHD screening:**
-- ADHD prevalence ~4-5% in adults (often undiagnosed)
-- Symptoms may be masked by achievement or coping strategies
-- Often presents with depression, anxiety as primary complaint
-- ASRS identifies those needing comprehensive evaluation
+**فرز الاضطراب لدى البالغين:**
+- معدل انتشار الاضطراب نحو 4-5٪ لدى البالغين (كثيراً ما يبقى دون تشخيص)
+- قد تُخفى الأعراض بالإنجاز أو استراتيجيات التكيف
+- كثيراً ما يظهر مصحوباً بالاكتئاب أو القلق كشكوى رئيسية
+- يحدد ASRS من يحتاجون تقييماً شاملاً
 
-**Primary care:**
-- Brief screening in busy practices
-- Identifies patients for specialist referral
-- Links to workplace functioning, healthcare utilization
+**الرعاية الأولية:**
+- فرز موجز في العيادات المزدحمة
+- يحدد المرضى المحتاجين للإحالة إلى أخصائي
+- يربط بالأداء الوظيفي واستخدام الرعاية الصحية
 
-**Occupational health:**
-- Performance management: identifies ADHD in underperforming employees
-- Accommodations planning
-- Stress-related underperformance differential diagnosis
+**الصحة المهنية:**
+- إدارة الأداء: يحدد الاضطراب لدى الموظفين ذوي الأداء المنخفض
+- تخطيط التسهيلات
+- التشخيص التفريقي لضعف الأداء المرتبط بالضغط
 
-**Research:**
-- ADHD prevalence studies
-- Screening accuracy research
-- Treatment outcomes
-- Comorbidity patterns
+**البحث:**
+- دراسات انتشار الاضطراب
+- بحوث دقة الفرز
+- نتائج العلاج
+- أنماط الاعتلال المصاحب
 
-**Special populations:**
-- Substance abuse treatment: high ADHD comorbidity
-- Depression/anxiety patients: screen for comorbid ADHD
-- Chronic illness patients: ADHD may worsen illness management
-- Academic underperformance: late-identified ADHD
+**فئات خاصة:**
+- علاج تعاطي المواد: اعتلال مصاحب مرتفع مع الاضطراب
+- مرضى الاكتئاب/القلق: فرز الاعتلال المصاحب بالاضطراب
+- مرضى الأمراض المزمنة: قد يُضعف الاضطراب إدارة المرض
+- ضعف الأداء الأكاديمي: اضطراب متأخر التشخيص
 
-## Strengths
+## نقاط القوة
 
-- **Brevity:** 6-item version takes 1-2 minutes
-- **Sensitivity:** good detection of likely ADHD cases
-- **Ease:** simple self-administered, no training needed
-- **Evidence:** WHO-developed, scientifically validated
-- **Free:** public domain, downloadable
-- **Practical:** useful in busy clinical/occupational settings
-- **Specificity:** very few false positives (99% specificity)
-- **Cross-cultural:** validated globally
+- **الإيجاز:** النسخة ذات 6 بنود تستغرق 1-2 دقيقة
+- **الحساسية:** كشف جيد للحالات المحتملة
+- **السهولة:** ذاتية التطبيق وبسيطة، لا تتطلب تدريباً
+- **الأساس البحثي:** طورته منظمة الصحة العالمية وتحقق منه علمياً
+- **مجانية:** في الملكية العامة وقابلة للتنزيل
+- **عملية:** مفيدة في السياقات السريرية والمهنية المزدحمة
+- **النوعية:** إيجابيات كاذبة قليلة جداً (نوعية 99٪)
+- **عبر الثقافات:** تحقق منها عالمياً
 
-## Limitations
+## أوجه القصور
 
-- **Sensitivity limitations:** 68% means ~32% of ADHD cases may be missed
-- **Screening only:** not diagnostic; clinical evaluation required
-- **Adult-specific:** poor validation for children (different tools used)
-- **Self-awareness:** requires insight into one's symptoms
-- **Time-frame ambiguity:** "how often" recent vs. lifetime sometimes unclear
-- **Symptom overlap:** ADHD symptoms overlap depression, anxiety, bipolar
-- **Gender differences:** may underidentify female ADHD (different presentation)
-- **Educational bias:** successful compensators may score low despite ADHD
+- **محدودية الحساسية:** 68٪ تعني أن نحو 32٪ من الحالات قد تُغفل
+- **فرز فقط:** ليست تشخيصية؛ يلزم تقييم سريري
+- **خاصة بالبالغين:** تحقق ضعيف للأطفال (تُستخدم أدوات مختلفة)
+- **الوعي الذاتي:** تتطلب بصيرة بأعراض الشخص نفسه
+- **غموض الإطار الزمني:** "كم مرة" قد يكون غامضاً بين الحديث والمدى العمري
+- **تداخل الأعراض:** أعراض الاضطراب تتداخل مع الاكتئاب والقلق واضطراب ثنائي القطب
+- **فروق جندرية:** قد يقصّر في تحديد الاضطراب لدى الإناث (مظهر مختلف)
+- **تحيز تعليمي:** الأشخاص ذوو التعويض الناجح قد يسجلون درجات منخفضة رغم إصابتهم بالاضطراب
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Related instruments:**
-- ASRS Full (18 items): more comprehensive
-- CAADID interview: clinician-administered detailed ADHD interview
-- Conners Rating Scales: child/adolescent ADHD
-- WURS (Wender Utah Rating Scale): retrospective childhood ADHD
-- DIVA (Diagnostic Interview for ADHD): structured clinical interview
-- BADDS (Brown Attention-Deficit Disorder Scales): executive function focus
+**أدوات ذات صلة:**
+- ASRS الكاملة (18 بنداً): أشمل
+- مقابلة CAADID: مقابلة مفصلة للاضطراب يديرها إكلينيكي
+- مقاييس كونرز: اضطراب فرط الحركة لدى الأطفال والمراهقين
+- WURS (مقياس ولاية يوتا الاستعادي): اضطراب طفولة استعادي
+- DIVA (المقابلة التشخيصية للاضطراب): مقابلة سريرية منظمة
+- BADDS (مقاييس براون لاضطراب نقص الانتباه): تركز على الوظائف التنفيذية
 
-**Population modifications:**
-- Workplace ASRS: occupational context emphasis
-- Academic ASRS: school/study performance focus
-- Gender-sensitive versions: adapted for female ADHD presentation
+**تعديلات خاصة بالفئات:**
+- ASRS لمكان العمل: تشديد على السياق المهني
+- ASRS الأكاديمي: تركيز على الأداء الدراسي
+- نسخ حساسة للجندر: مكيّفة لمظهر الاضطراب لدى الإناث
 
-## Clinical Interpretation
+## التفسير السريري
 
-**Score interpretation:**
-- <10: unlikely ADHD; minimal screening concern
-- 10-13: borderline; may warrant interview to clarify
-- ≥14: probable ADHD; refer for evaluation
+**تفسير الدرجة:**
+- أقل من 10: احتمال ضعيف للاضطراب؛ قلق فرزي طفيف
+- 10-13: حدّية؛ قد تستدعي مقابلة للتوضيح
+- 14 فأكثر: احتمال مرجح للاضطراب؛ يُحال للتقييم
 
-**Response pattern analysis:**
-- Item 1-3 (inattention) high: attention/organization primary deficit
-- Item 4-6 (hyperactivity) high: hyperactivity/impulsivity primary
-- Combined elevation: combined ADHD presentation (most common)
+**تحليل نمط الاستجابة:**
+- ارتفاع البنود 1-3 (نقص الانتباه): القصور الأساسي في الانتباه/التنظيم
+- ارتفاع البنود 4-6 (فرط الحركة): فرط الحركة/الاندفاعية أساسي
+- الارتفاع المشترك: عرض مشترك للاضطراب (الأكثر شيوعاً)
 
-**Clinical next steps:**
-- Positive screen: schedule comprehensive diagnostic assessment
-- Diagnostic interview: detailed childhood history, educational performance
-- Collateral information: family, teachers, or employers (behavior varies by context)
-- Rule-outs: bipolar mania, anxiety, PTSD may present similarly
-- Neuropsychological testing: if unclear, or comorbidity suspected
+**الخطوات السريرية التالية:**
+- الفرز الإيجابي: جدولة تقييم تشخيصي شامل
+- المقابلة التشخيصية: تاريخ مفصل للطفولة والأداء التعليمي
+- معلومات مساندة: من الأسرة أو المعلمين أو أصحاب العمل (يتفاوت السلوك حسب السياق)
+- الاستبعادات: قد يظهر الهوس الثنائي القطب والقلق واضطراب ما بعد الصدمة بشكل مشابه
+- الاختبار العصبي النفسي: عند الغموض أو الاشتباه بالاعتلال المصاحب
 
-**Treatment implications:**
-- ADHD diagnosis confirms: consider medication, coaching, structured treatment
-- Comorbidity likely: integrated treatment (e.g., depression + ADHD requires attention to both)
-- Workplace accommodations: extended deadlines, reduced distractions, structure
+**دلالات العلاج:**
+- تأكيد التشخيص: النظر في الدواء والتدريب المرافق والعلاج المنظم
+- احتمال الاعتلال المصاحب: علاج متكامل (مثال: الاكتئاب مع الاضطراب يتطلب الاهتمام بكليهما)
+- تسهيلات مكان العمل: مواعيد نهائية ممتدة، تقليل المشتتات، بنية منظمة
 
-## Integration with Other Assessment
+## التكامل مع تقييمات أخرى
 
-**Often used with:**
-- Depression screening (PHQ-9; ADHD + depression common)
-- Anxiety screening (GAD-7)
-- Substance abuse screening (AUDIT, DAST; ADHD + SUD very common)
-- Occupational/educational history
-- Comprehensive ADHD diagnostic interview
+**غالباً ما تُستخدم مع:**
+- فرز الاكتئاب (PHQ-9؛ اجتماع الاضطراب والاكتئاب شائع)
+- فرز القلق (GAD-7)
+- فرز تعاطي المواد (AUDIT، DAST؛ اجتماع الاضطراب مع اضطراب تعاطي المواد شائع جداً)
+- التاريخ المهني/التعليمي
+- المقابلة التشخيصية الشاملة للاضطراب
 
-## Primary Sources
+## المصادر
 
 1. Kessler, R.C., Adler, L., Ames, M., et al. (2005). The World Health Organization Adult ADHD Self-Report Scale (ASRS): A short screening scale for use in the general population. Psychological Medicine, 35(12), 1759-1766.
 2. Adler, L.A., Shaw, D.M., Spencer, T.J., et al. (2020). Diagnostic accuracy of the Adult ADHD Self-Report Scale screener (ASRS) v1.1 in individuals with ADHD. Annals of Clinical Psychiatry, 32(1), 3-13.
 3. Ustün, B., Adler, L.A., Rudin, C., et al. (2007). The World Health Organization Adult Attention-Deficit/Hyperactivity Disorder Self-Report Screening Scale for DSM-IV. ADHD Attention Deficit and Hyperactivity Disorders, 2(1), 12-13.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- ADHD symptoms and diagnosis
-- Executive function
-- Attention and organization
-- Hyperactivity and impulsivity
-- Childhood ADHD persistence
-- Workplace functioning
+- أعراض الاضطراب وتشخيصه
+- الوظائف التنفيذية
+- الانتباه والتنظيم
+- فرط الحركة والاندفاعية
+- استمرار اضطراب الطفولة إلى الرشد
+- الأداء في مكان العمل

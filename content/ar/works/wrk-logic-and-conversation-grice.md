@@ -24,43 +24,28 @@ gaps: []
 
 # المنطقُ والمحادثة (Logic and Conversation)
 
-## Definition
+المحاضرةُ المؤسِّسة للتداولية الغرايسية، ألقاها الفيلسوف البريطاني هربرت پول غرايس ضمن سلسلة محاضرات ويليام جيمس بجامعة هارفارد سنة 1967، ثم نُشرت نصاً مكتوباً سنة 1975 ضمن المجلد الثالث من سلسلة *Syntax and Semantics*. يُعدّ هذا النص أحد أكثر الأعمال تأثيراً في تاريخ التداولية اللسانية، إذ أسّس لفهمٍ جديد كلياً لكيفية تجاوز المعنى المتواصَل فعلياً حدود الدلالة الحرفية للجملة.
 
-Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
+## المشكلة: الفجوة بين القول والقصد
 
-## Grice's Theory
+ينطلق غرايس من ملاحظةٍ أساسية: أن ما يقصده المتكلم فعلياً غالباً ما يتجاوز المعنى الحرفي المباشر لكلماته، دون أن يكون هذا التجاوز اعتباطياً أو غامضاً، بل قابلاً للاستنتاج المنهجي من جانب السامع. يقدّم غرايس المثال الشهير: من يكتب خطاب توصية لطالبٍ يتقدّم لوظيفة أستاذ فلسفة ويقتصر فيه على القول إن خط الطالب جميل وحضوره منتظم، يُفهَم ضمناً أنه يوصي بعدم توظيفه فلسفياً، رغم أنه لم يقل ذلك صراحةً قط.
 
-Paul Grice identified four conversational maxims speakers follow:
-- Quantity: Be informative without being excessive
-- Quality: Be truthful and warranted
-- Relevance: Stay on topic
-- Manner: Be clear and brief
+## مبدأ التعاون والقواعد الأربع
 
-Flouting these maxims creates implicature—meaning inferred from the violation.
+يقترح غرايس أن هذا الاستنتاج ممكنٌ لأن التخاطب نشاطٌ تعاونيّ يفترض التزام الطرفين ضمنياً بـ**مبدأ التعاون** (Cooperative Principle)، المتفرِّع إلى أربع **قواعد محادثية** (Maxims): الكمّ (المعلومات الكافية لا أقل ولا أكثر)، والكيف (الصدق وامتلاك الدليل)، والعلاقة (الصلة بالموضوع)، والطريقة (الوضوح والإيجاز). حين يخالف المتكلم إحدى هذه القواعد ظاهرياً، مع افتراض بقائه ملتزماً بمبدأ التعاون في جوهر الأمر، ينشأ **الإفهام التخاطبي** (Conversational Implicature) الذي يستنتجه السامع تعويضاً عن هذه المخالفة الظاهرية.
 
-## Speech Acts
+## تصنيف الإفهام
 
-Utterances perform actions (Austin, Searle):
-- Locutionary: The words uttered
-- Illocutionary: The action performed (promising, requesting, commanding)
-- Perlocutionary: The effect on listener
+يميّز غرايس بين أنماطٍ من الإفهام: الإفهام الناشئ من **الالتزام** الصريح بالقواعد (كتوفير معلوماتٍ كافية تحديداً لأن المتكلم يفترض ضرورتها)، والإفهام الناشئ من **مخالفة القاعدة ظاهرياً** (Flouting) لتوليد أثرٍ ضمني مقصود (كالسخرية أو التلميح)، مفرِّقاً هذا كله عن **الإفهام الاصطلاحي** (Conventional Implicature) المرتبط بمعنى كلماتٍ محدَّدة (كـ«لكن») بصرف النظر عن السياق التخاطبي.
 
-"I promise to return the book" is a performative—the utterance creates an obligation.
+## الأثر
 
-## Politeness Strategies
+أصبح هذا العمل حجر الأساس الذي قامت عليه التداولية المعاصرة بأكملها: تفرّعت عنه التداولية النيوغرايسية عند لورنس هورن وستيفن ليفنسون، ونظرية الملاءمة عند دان سپربر وديردري ويلسون بوصفها محاولةً لاختزال قواعد غرايس الأربع إلى مبدأ استدلاليّ واحد، فضلاً عن تأثيره العميق في فلسفة اللغة ونظرية أفعال الكلام وتحليل الخطاب.
 
-Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+## المصادر
 
-## Presupposition
-
-Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
-
-## Contemporary Applications
-
-Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
-- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+- Grice, H. Paul. "Logic and Conversation." In *Syntax and Semantics 3: Speech Acts*, eds. Peter Cole & Jerry L. Morgan. Academic Press, 1975.
+- Grice, H. Paul. *Studies in the Way of Words*. Harvard University Press, 1989.
+- Levinson, Stephen C. *Pragmatics*. Cambridge University Press, 1983.
+- Neale, Stephen. "Paul Grice and the Philosophy of Language." *Linguistics and Philosophy*, 15(5), 1992.
 

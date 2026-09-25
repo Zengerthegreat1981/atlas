@@ -8,255 +8,255 @@ related_schools:
   - sch-cognitive-behavioral-therapy
 ---
 
-# Cognitive Restructuring
+# إعادة البناء المعرفي (Cognitive Restructuring)
 
-Cognitive restructuring is a core CBT procedure teaching clients to identify, evaluate, and modify unhelpful or distorted thoughts. Based on the principle that thoughts influence emotions and behavior, the procedure systematically guides clients through discovering automatic thoughts, examining evidence for and against them, and developing more balanced, realistic alternative thoughts.
+إعادة البناء المعرفي إجراء أساسي في العلاج المعرفي السلوكي يعلّم العملاء تحديد الأفكار غير المفيدة أو المشوّهة وتقييمها وتعديلها. يقوم على مبدأ أن الأفكار تؤثر في الانفعالات والسلوك، ويوجّه الإجراء العملاء منهجياً عبر اكتشاف الأفكار التلقائية، وفحص الأدلة المؤيدة والمعارضة لها، وتطوير أفكار بديلة أكثر توازناً وواقعية.
 
-## Historical Context
+## السياق التاريخي
 
-**Albert Ellis & Aaron Beck (1950s-1960s):**
-- Ellis: Rational-Emotive Behavior Therapy (REBT); ABC model (Activating event, Belief, Consequence)
-- Beck: Cognitive Therapy for depression; automatic thoughts, cognitive distortions
-- Both recognized thoughts as modifiable leverage point for emotional change
+**ألبرت إليس (Albert Ellis) وآرون بيك (Aaron Beck) (الخمسينيات-الستينيات):**
+- إليس: العلاج السلوكي الانفعالي العقلاني (REBT)؛ نموذج ABC (الحدث المنشِّط، المعتقد، النتيجة)
+- بيك: العلاج المعرفي للاكتئاب؛ الأفكار التلقائية والتشوهات المعرفية
+- أدرك كلاهما أن الأفكار نقطة ارتكاز قابلة للتعديل من أجل التغيير الانفعالي
 
-**Integration into CBT (1970s-present):**
-- Standard component of cognitive-behavioral therapy
-- Adapted for depression, anxiety, OCD, PTSD, eating disorders
-- Variations: thought records, thought challenging, cognitive disputation
+**الدمج في العلاج المعرفي السلوكي (السبعينيات حتى الآن):**
+- مكوّن معياري في العلاج المعرفي السلوكي
+- كُيّف للاكتئاب والقلق والوسواس القهري واضطراب ما بعد الصدمة واضطرابات الأكل
+- صيغ متنوعة: سجلات الفكر، تحدي الفكر، المجادلة المعرفية
 
-## Mechanism of Change
+## آلية التغيير
 
-**Thought-Emotion-Behavior connection:**
-- Activating event (situation) → Automatic thought → Emotion/Behavior consequence
-- Thoughts often automatic, unexamined ("I'm not good enough")
-- Distorted thinking perpetuates emotional problems
-- Changing thoughts creates emotional and behavioral shifts
+**علاقة الفكر بالانفعال والسلوك:**
+- الحدث المنشِّط (الموقف) ← الفكرة التلقائية ← نتيجة انفعالية/سلوكية
+- غالباً ما تكون الأفكار تلقائية وغير مفحوصة ("لستُ جيداً بما يكفي")
+- التفكير المشوّه يُديم المشكلات الانفعالية
+- تغيير الأفكار يُحدث تحولات انفعالية وسلوكية
 
-**Common cognitive distortions:**
-- Catastrophizing: overestimating badness ("This is the worst thing ever")
-- All-or-nothing thinking: binary evaluation ("I'm a total failure")
-- Overgeneralization: one incident predicts all future ("I'll always be alone")
-- Mind-reading: assuming thoughts of others ("They think I'm weird")
-- Personalization: taking responsibility for external events ("It's my fault they're sad")
-- Should statements: rigid rules ("I should be perfect")
+**التشوهات المعرفية الشائعة:**
+- التهويل: المبالغة في تقدير السوء ("هذا أسوأ شيء على الإطلاق")
+- التفكير الثنائي المطلق: تقييم ثنائي ("أنا فاشل تماماً")
+- التعميم المفرط: حادثة واحدة تتنبأ بكل المستقبل ("سأبقى وحيداً دائماً")
+- قراءة الأفكار: افتراض أفكار الآخرين ("يعتقدون أنني غريب")
+- التشخيص الذاتي: تحمّل مسؤولية أحداث خارجية ("حزنهم بسببي")
+- عبارات "ينبغي": قواعد جامدة ("ينبغي أن أكون مثالياً")
 
-## Step-by-Step Procedure
+## الإجراء خطوة بخطوة
 
-### Step 1: Identify Triggering Situation
+### الخطوة 1: تحديد الموقف المُثير
 
-**What happened:**
-- Specific event, conversation, or interaction
-- Concrete, observable (not interpretation yet)
-- "I made a mistake on a work project"
+**ما الذي حدث:**
+- حدث أو محادثة أو تفاعل محدد
+- ملموس وقابل للملاحظة (وليس تفسيراً بعد)
+- "ارتكبتُ خطأً في مشروع عمل"
 
-**Client describes:**
-- When did it happen?
-- What specifically occurred?
-- Who was involved?
+**يصف العميل:**
+- متى حدث ذلك؟
+- ماذا حدث تحديداً؟
+- من كان مشاركاً؟
 
-### Step 2: Notice Automatic Thought
+### الخطوة 2: ملاحظة الفكرة التلقائية
 
-**The immediate thought response:**
-- What popped into your head?
-- Not reasoning; immediate reaction
-- "I'm incompetent"
-- "Everyone will see how bad I am"
+**الاستجابة الفكرية الفورية:**
+- ما الذي خطر في ذهنك فوراً؟
+- ليس تفكيراً منطقياً؛ بل رد فعل فوري
+- "أنا غير كفء"
+- "سيرى الجميع كم أنا سيئ"
 
-**Characteristics:**
-- Automatic: spontaneous, undeliberate
-- Plausible to client: believable in moment
-- Often not fully conscious until pointed out
+**الخصائص:**
+- تلقائية: عفوية وغير متعمّدة
+- مقنعة للعميل: يُصدّقها في تلك اللحظة
+- غالباً ليست واعية تماماً حتى تُشار إليها
 
-### Step 3: Identify Resulting Emotion
+### الخطوة 3: تحديد الانفعال الناتج
 
-**How did you feel:**
-- Primary emotion(s): anxiety, sadness, shame, anger
-- Intensity (0-100 scale)
-- Physical sensations
+**كيف شعرت:**
+- الانفعال(ات) الأساسية: قلق، حزن، خجل، غضب
+- الشدة (مقياس 0-100)
+- الأحاسيس الجسدية
 
-**Connection:**
-- How did that thought make you feel?
-- Recognizing thought-emotion link
+**الربط:**
+- كيف جعلتك تلك الفكرة تشعر؟
+- التعرف على رابط الفكر بالانفعال
 
-### Step 4: Examine Evidence
+### الخطوة 4: فحص الأدلة
 
-**For the thought (what supports it):**
-- When have you seen evidence of this?
-- Specific past examples?
-- What would someone who agrees with you point to?
+**مع الفكرة (ما يدعمها):**
+- متى رأيت دليلاً على هذا؟
+- أمثلة سابقة محددة؟
+- بماذا سيستشهد من يتفق معك؟
 
-**Against the thought (what contradicts it):**
-- Times you didn't mess up?
-- Specific evidence contradicting?
-- What would someone who disagrees point to?
-- Alternative explanations?
+**ضد الفكرة (ما يناقضها):**
+- أوقات لم تُخطئ فيها؟
+- أدلة محددة تناقض الفكرة؟
+- بماذا سيستشهد من يختلف معك؟
+- تفسيرات بديلة؟
 
-**Balanced perspective:**
-- What's the actual likelihood (0-100%)?
-- Most realistic probability?
+**منظور متوازن:**
+- ما الاحتمال الفعلي (0-100٪)؟
+- الاحتمال الأكثر واقعية؟
 
-### Step 5: Develop Alternative Thought
+### الخطوة 5: تطوير فكرة بديلة
 
-**More balanced, realistic thought:**
-- Not forced positivity ("I'll be perfect!" usually not credible)
-- Acknowledges reality while being more balanced
-- "I made a mistake, but one mistake doesn't mean I'm incompetent; I've done good work; it's important and I can fix it"
+**فكرة أكثر توازناً وواقعية:**
+- ليست إيجابية مُقحمة ("سأكون مثالياً!" عادة غير مقنعة)
+- تعترف بالواقع مع كونها أكثر توازناً
+- "ارتكبتُ خطأً، لكن خطأً واحداً لا يعني أنني غير كفء؛ لقد أنجزتُ عملاً جيداً من قبل؛ الأمر مهم ويمكنني إصلاحه"
 
-**Alternative thought characteristics:**
-- Believable (client can actually believe it)
-- Realistic (acknowledges both concerns and strengths)
-- Helpful (reduces emotional distress)
-- Action-oriented (supports effective behavior)
+**خصائص الفكرة البديلة:**
+- قابلة للتصديق (يمكن للعميل أن يصدّقها فعلياً)
+- واقعية (تعترف بالمخاوف ونقاط القوة معاً)
+- مفيدة (تقلل الضيق الانفعالي)
+- موجّهة نحو الفعل (تدعم سلوكاً فعالاً)
 
-### Step 6: Re-rate Emotion
+### الخطوة 6: إعادة تقدير الانفعال
 
-**How do you feel now:**
-- Same emotion or different?
-- Intensity before vs. after (0-100 scale)
-- Often 20-30 point drop with practice
+**كيف تشعر الآن:**
+- نفس الانفعال أم مختلف؟
+- الشدة قبل مقابل بعد (مقياس 0-100)
+- غالباً انخفاض بمقدار 20-30 نقطة مع الممارسة
 
-**Observe:**
-- Thought-emotion shift visible
-- Reinforces connection
-- Builds belief in procedure
+**الملاحظة:**
+- تحول الفكر-الانفعال مرئي
+- يعزز الرابط
+- يبني الثقة بالإجراء
 
-## Common Thought Record Format
+## صيغة سجل الفكر الشائعة
 
-**Simple table:**
-| Situation | Automatic Thought | Emotion | Evidence For | Evidence Against | Alternative Thought | New Emotion |
+**جدول بسيط:**
+| الموقف | الفكرة التلقائية | الانفعال | الدليل المؤيد | الدليل المعارض | الفكرة البديلة | الانفعال الجديد |
 |-----------|-------------------|---------|--------------|------------------|---------------------|-------------|
-| Made mistake on project | I'm incompetent | Anxiety (70) | This mistake | Previous successes | I made a mistake; one error doesn't define me | Anxiety (30) |
+| ارتكاب خطأ في مشروع | أنا غير كفء | قلق (70) | هذا الخطأ | نجاحات سابقة | ارتكبتُ خطأً؛ خطأ واحد لا يحدد هويتي | قلق (30) |
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### Depression
+### الاكتئاب
 
-**Typical distortions:**
-- "I'm worthless"
-- "Nothing will improve"
-- "I'm a burden"
+**التشوهات النموذجية:**
+- "أنا عديم القيمة"
+- "لن يتحسن شيء"
+- "أنا عبء"
 
-**Restructuring:**
-- Examine evidence for/against
-- Develop: "I'm struggling now, but I have value; things have improved before"
+**إعادة البناء:**
+- فحص الأدلة المؤيدة والمعارضة
+- التطوير: "أنا أعاني الآن، لكن لديّ قيمة؛ تحسّنت الأمور من قبل"
 
-### Anxiety
+### القلق
 
-**Typical distortions:**
-- "Something bad will happen"
-- "I can't handle it"
-- "Everyone will judge me"
+**التشوهات النموذجية:**
+- "سيحدث شيء سيء"
+- "لا أستطيع تحمّل ذلك"
+- "سيحكم عليّ الجميع"
 
-**Restructuring:**
-- Probability examination
-- Resource review: "I've handled difficulties before"
+**إعادة البناء:**
+- فحص الاحتمالية
+- مراجعة الموارد: "تعاملتُ مع صعوبات من قبل"
 
-### OCD
+### الوسواس القهري
 
-**Obsessive thoughts:**
-- "If I don't check, something terrible will happen"
-- "Having this thought means I'll act on it"
+**الأفكار الوسواسية:**
+- "إن لم أتحقق، سيحدث شيء فظيع"
+- "امتلاك هذه الفكرة يعني أنني سأنفذها"
 
-**Restructuring:**
-- Distinguishing thought from reality
-- Probability of feared outcome without compulsion
+**إعادة البناء:**
+- التمييز بين الفكرة والواقع
+- احتمال النتيجة المخيفة دون القسر
 
-### Eating Disorders
+### اضطرابات الأكل
 
-**Distorted thoughts:**
-- "I'm fat" (body image distortion)
-- "I must restrict to be acceptable"
-- "One bite means I've failed"
+**الأفكار المشوّهة:**
+- "أنا سمين" (تشوه صورة الجسد)
+- "يجب أن أقيّد طعامي لأكون مقبولاً"
+- "قضمة واحدة تعني أنني فشلت"
 
-**Restructuring:**
-- Body image: objective vs. distorted perception
-- Worth: not dependent on weight/appearance
-- Progress: one meal not entire recovery
+**إعادة البناء:**
+- صورة الجسد: الإدراك الموضوعي مقابل المشوّه
+- القيمة: لا تعتمد على الوزن/المظهر
+- التقدم: وجبة واحدة ليست التعافي بأكمله
 
-## Therapist Skills
+## مهارات المعالج
 
-**Socratic questioning (not lecturing):**
-- "What evidence supports that thought?"
-- "Are there times when this hasn't been true?"
-- "What's another way to look at it?"
+**الأسئلة السقراطية (وليس المحاضرة):**
+- "ما الدليل الذي يدعم تلك الفكرة؟"
+- "هل هناك أوقات لم يكن فيها هذا صحيحاً؟"
+- "ما طريقة أخرى للنظر إلى الأمر؟"
 
-**Collaborative discovery:**
-- Client generates alternatives (not therapist telling)
-- More impactful when client-discovered
-- Respects client expertise in their life
+**الاكتشاف التعاوني:**
+- العميل يولّد البدائل (وليس المعالج يخبره بها)
+- أكثر تأثيراً عندما يكتشفه العميل بنفسه
+- يحترم خبرة العميل بحياته
 
-**Gentle challenge:**
-- Not dismissing thoughts
-- "I'm wondering..." / "Let's examine..."
-- Curiosity, not argument
+**التحدي اللطيف:**
+- عدم رفض الأفكار
+- "أتساءل..." / "لنفحص..."
+- الفضول، وليس الجدال
 
-**Measuring change:**
-- Emotion rating before/after
-- Demonstrates efficacy
-- Motivates continued practice
+**قياس التغيير:**
+- تقدير الانفعال قبل/بعد
+- يُظهر الفعالية
+- يحفّز الممارسة المستمرة
 
-## Homework & Practice
+## الواجبات والممارسة
 
-**Between-session work:**
-- Thought records on daily situations
-- Practice identifying automatic thoughts
-- Regular practice builds skill
-- Key to generalization beyond therapy
+**العمل بين الجلسات:**
+- سجلات الفكر للمواقف اليومية
+- ممارسة تحديد الأفكار التلقائية
+- الممارسة المنتظمة تبني المهارة
+- مفتاح التعميم خارج العلاج
 
-**Progressive difficulty:**
-- Start with clear-cut situations
-- Build toward more subtle distortions
-- Develop automatic application
+**تدرّج الصعوبة:**
+- البدء بمواقف واضحة
+- البناء نحو تشوهات أدق
+- تطوير التطبيق التلقائي
 
-## Strengths
+## نقاط القوة
 
-- **Empirically supported:** strong research base across disorders
-- **Practical:** concrete, teachable skill
-- **Empowering:** client learns to modify own thinking
-- **Immediate effects:** often see emotion change same session
-- **Generalizable:** skill transfers beyond therapy
-- **Accessible:** simple enough for most to learn
-- **Compatible:** works with other modalities
+- **مدعوم تجريبياً:** قاعدة بحثية قوية عبر الاضطرابات
+- **عملي:** مهارة ملموسة قابلة للتعليم
+- **تمكيني:** يتعلم العميل تعديل تفكيره الخاص
+- **آثار فورية:** غالباً ما يُلاحظ تغير الانفعال في الجلسة نفسها
+- **قابل للتعميم:** المهارة تنتقل خارج العلاج
+- **سهل الوصول:** بسيط بما يكفي ليتعلمه معظم الناس
+- **متوافق:** يعمل مع طرائق أخرى
 
-## Limitations
+## أوجه القصور
 
-- **Not enough alone:** severe depression/anxiety may need more
-- **Belief barrier:** "But it IS true" resistance common
-- **Oversimplification:** not all emotional distress is thought distortion
-- **Rumination risk:** excessive analysis without behavior change
-- **Trauma caution:** certain trauma thoughts need careful approach
-- **Cultural factors:** "distortion" culturally variable
-- **Avoidance risk:** intellectual understanding without emotional shift
+- **غير كافٍ وحده:** قد يحتاج الاكتئاب/القلق الشديد أكثر منه
+- **عائق الاعتقاد:** مقاومة شائعة من نوع "لكنه صحيح فعلاً"
+- **التبسيط المفرط:** ليس كل ضيق انفعالي تشوهاً فكرياً
+- **خطر الاجترار:** تحليل مفرط دون تغيير سلوكي
+- **حذر مع الصدمة:** بعض أفكار الصدمة تحتاج نهجاً حذراً
+- **عوامل ثقافية:** "التشوه" يتفاوت ثقافياً
+- **خطر التجنب:** فهم عقلي دون تحول انفعالي
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Thought challenging:** More direct disputation (Socratic questioning)
-**Behavioral experiments:** Testing thoughts through action
-**Metacognitive approach:** Observing thinking process itself
-**Schema-focused:** Deeper beliefs underlying automatic thoughts
-**Acceptance approach:** Noticing thoughts without changing them (ACT)
+**تحدي الفكر:** مجادلة أكثر مباشرة (أسئلة سقراطية)
+**التجارب السلوكية:** اختبار الأفكار عبر الفعل
+**النهج ما وراء المعرفي:** ملاحظة عملية التفكير نفسها
+**المرتكز على المخطط:** المعتقدات الأعمق الكامنة وراء الأفكار التلقائية
+**نهج القبول:** ملاحظة الأفكار دون تغييرها (ACT)
 
-## Integration with Other Techniques
+## التكامل مع تقنيات أخرى
 
-**Often combined with:**
-- Behavioral activation (acting despite distorted thoughts)
-- Exposure therapy (testing feared thoughts in vivo)
-- Relaxation (reducing physical arousal)
-- Mindfulness (observing thoughts without judgment)
-- Problem-solving (addressing actual problems vs. thoughts alone)
+**غالباً ما يُدمج مع:**
+- التنشيط السلوكي (التصرف رغم الأفكار المشوّهة)
+- العلاج بالتعرض (اختبار الأفكار المخيفة في الواقع)
+- الاسترخاء (تقليل التنشيط الجسدي)
+- اليقظة الذهنية (ملاحظة الأفكار دون حكم)
+- حل المشكلات (تناول المشكلات الفعلية وليس الأفكار فقط)
 
-## Primary Sources
+## المصادر
 
 1. Beck, A.T. (1963). Thinking and depression. Archives of General Psychiatry, 9(4), 324-333.
 2. Ellis, A. (1962). Reason and emotion in psychotherapy. Lyle Stuart.
 3. Clark, D.A., & Beck, A.T. (2010). Cognitive therapy of anxiety disorders: Science and practice. Guilford Press.
 4. Greenberger, D., & Padesky, C.A. (2016). Mind over mood: Change how you feel by changing the way you think (3rd ed.). Guilford Press.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Automatic thoughts and beliefs
-- Cognitive distortions and errors
-- Rational vs. irrational thinking
-- Thought-emotion-behavior connection
-- Evidence and belief examination
-- Schema and core beliefs
+- الأفكار التلقائية والمعتقدات
+- التشوهات والأخطاء المعرفية
+- التفكير العقلاني مقابل اللاعقلاني
+- علاقة الفكر بالانفعال والسلوك
+- فحص الأدلة والمعتقدات
+- المخطط والمعتقدات الجوهرية

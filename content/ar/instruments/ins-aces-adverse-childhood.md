@@ -9,212 +9,212 @@ related_schools:
   - sch-somatic-psychology
 ---
 
-# Adverse Childhood Experiences (ACE) Score
+# مقياس تجارب الطفولة السلبية (Adverse Childhood Experiences (ACE) Score)
 
-The ACE Score is a 10-item screening measure of childhood adversity and trauma exposure. Developed by Felitti, Anda, and colleagues for the CDC's Adverse Childhood Experiences Study (1998), it identifies history of abuse, neglect, household dysfunction, and trauma during childhood (ages 0-18). The tool predicts adult health, behavioral, and psychological problems.
+مقياس تجارب الطفولة السلبية (ACE) أداة فرز مكونة من 10 بنود لقياس شدائد الطفولة والتعرض للصدمة. طوّره فيليتي (Felitti) وآندا (Anda) وزملاؤهما لدراسة تجارب الطفولة السلبية التابعة لمراكز السيطرة على الأمراض الأمريكية (CDC) (1998)، وهو يحدد تاريخ التعرض للإيذاء والإهمال والخلل الأسري والصدمة خلال الطفولة (من سن 0 إلى 18 عاماً). تتنبأ الأداة بالمشكلات الصحية والسلوكية والنفسية في مرحلة الرشد.
 
-## Development
+## التطوير
 
-**Felitti et al. (1998):**
-- Original CDC Kaiser-Permanente study with 17,000+ adults
-- Discovered correlation between childhood trauma and adult health risks
-- Created brief screening tool to assess childhood exposure
-- Landmark finding: 60% of adults experienced ≥1 ACE; 25% experienced ≥4
+**فيليتي وآخرون (1998):**
+- دراسة أصلية أجرتها CDC بالتعاون مع مؤسسة كايزر-بيرماننتي شملت أكثر من 17,000 بالغ
+- اكتشاف ارتباط بين صدمة الطفولة ومخاطر الصحة في مرحلة الرشد
+- إنشاء أداة فرز موجزة لتقييم التعرض في الطفولة
+- نتيجة بارزة: 60٪ من البالغين مروا بتجربة سلبية واحدة على الأقل؛ و25٪ مروا بأربع تجارب أو أكثر
 
-**Findings:**
-- Each additional ACE increased risk for suicide, alcohol, drug abuse, smoking, obesity
-- ACE score predictive of chronic disease (heart disease, diabetes, cancer)
-- Dose-response relationship: more ACEs = higher health risk
-- Now used to understand impact of childhood trauma on lifespan
+**النتائج:**
+- كل تجربة سلبية إضافية تزيد من خطر الانتحار وإدمان الكحول والمخدرات والتدخين والسمنة
+- درجة ACE تتنبأ بالأمراض المزمنة (أمراض القلب، السكري، السرطان)
+- علاقة استجابة للجرعة: كلما زاد عدد التجارب السلبية، ارتفع الخطر الصحي
+- تُستخدم الآن لفهم أثر صدمة الطفولة عبر العمر
 
-## Items & Format
+## البنود والصيغة
 
-**10 items assessing childhood experiences (ages 0-18):**
+**10 بنود تقيّم تجارب الطفولة (من سن 0 إلى 18 عاماً):**
 
-| Category | Items | Content |
+| الفئة | البنود | المحتوى |
 |----------|-------|---------|
-| **Abuse** | 1-3 | Physical abuse, emotional abuse, sexual abuse |
-| **Neglect** | 4-5 | Physical neglect, emotional neglect |
-| **Household Dysfunction** | 6-10 | Mother treated violently, substance abuse parent, incarcerated parent, parental mental illness, parental separation/divorce |
+| **الإيذاء** | 1-3 | الإيذاء الجسدي، الإيذاء العاطفي، الإيذاء الجنسي |
+| **الإهمال** | 4-5 | الإهمال الجسدي، الإهمال العاطفي |
+| **الخلل الأسري** | 6-10 | معاملة الأم بعنف، إدمان أحد الوالدين، سجن أحد الوالدين، مرض نفسي لدى أحد الوالدين، انفصال/طلاق الوالدين |
 
-**Response format:**
-- Yes/No response for each item
-- Time frame: Childhood (before age 18)
-- Administration time: 1-2 minutes
-- Self-report questionnaire
+**صيغة الاستجابة:**
+- استجابة بنعم/لا لكل بند
+- الإطار الزمني: الطفولة (قبل سن 18)
+- زمن التطبيق: 1-2 دقيقة
+- استبيان تقرير ذاتي
 
-**Specific item examples:**
-1. Physical abuse: "Did a parent or other adult in the household ever hit, slap, kick, punch you, or push you hard?"
-2. Sexual abuse: "Did anyone ever touch you sexually?"
-3. Household substance abuse: "Did you live with anyone who was a problem drinker or alcoholic?"
-4. Parental separation: "Were your parents ever separated or divorced?"
-5. Parental mental illness: "Was a household member depressed or mentally ill?"
+**أمثلة على بنود محددة:**
+1. الإيذاء الجسدي: "هل قام أحد الوالدين أو شخص بالغ آخر في المنزل بضربك أو صفعك أو ركلك أو لكمك أو دفعك بقوة؟"
+2. الإيذاء الجنسي: "هل لمسك أحد جنسياً؟"
+3. إدمان أحد أفراد الأسرة: "هل عشت مع شخص يعاني مشكلة في الشرب أو إدمان الكحول؟"
+4. انفصال الوالدين: "هل انفصل والداك أو تطلّقا في أي وقت؟"
+5. مرض نفسي لدى أحد الوالدين: "هل كان أحد أفراد المنزل مصاباً بالاكتئاب أو مرض نفسي؟"
 
-## Scoring & Interpretation
+## التصحيح والتفسير
 
-**ACE Score calculation:**
-- Count number of "Yes" answers
-- Range: 0-10
-- Each item = 1 point
+**حساب درجة ACE:**
+- عد عدد إجابات "نعم"
+- المدى: 0-10
+- كل بند = نقطة واحدة
 
-**Risk stratification:**
-- ACE score 0: ~5% population; lowest risk baseline
-- ACE score 1-3: ~35% population; moderate risk elevation
-- ACE score 4+: ~25% population; significantly elevated risk
-- ACE score 6+: Very high risk for multiple health/behavioral problems
+**تصنيف الخطر:**
+- درجة 0: نحو 5٪ من السكان؛ أدنى خط أساس للخطر
+- درجة 1-3: نحو 35٪ من السكان؛ ارتفاع معتدل في الخطر
+- درجة 4 فأكثر: نحو 25٪ من السكان؛ ارتفاع كبير في الخطر
+- درجة 6 فأكثر: خطر مرتفع جداً لمشكلات صحية وسلوكية متعددة
 
-**Population distribution:**
-- No ACEs: 40% of adults
-- 1-2 ACEs: 35% of adults
-- 3-4 ACEs: 15% of adults
-- 5+ ACEs: 10% of adults (but driven by disadvantaged, minority populations; varies by demographics)
+**التوزيع السكاني:**
+- بلا تجارب سلبية: 40٪ من البالغين
+- 1-2 تجربة: 35٪ من البالغين
+- 3-4 تجارب: 15٪ من البالغين
+- 5 تجارب فأكثر: 10٪ من البالغين (لكنها أكثر شيوعاً بين الفئات المحرومة والأقليات؛ تتفاوت حسب الخصائص الديموغرافية)
 
-**Health risk associations (per additional ACE):**
-- ~50% increased likelihood of alcoholism
-- ~35% increased likelihood of illicit drug use
-- ~30% increased likelihood of smoking
-- Suicide risk increases ~4-5-fold with ACE 6+
+**ارتباطات الخطر الصحي (لكل تجربة إضافية):**
+- زيادة نحو 50٪ في احتمال إدمان الكحول
+- زيادة نحو 35٪ في احتمال تعاطي المخدرات غير المشروعة
+- زيادة نحو 30٪ في احتمال التدخين
+- يرتفع خطر الانتحار نحو 4-5 أضعاف عند درجة 6 فأكثر
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-**Reliability:**
-- Internal consistency: moderate (items somewhat heterogeneous by design)
-- Test-retest reliability: r = 0.76 (2-4 weeks)
-- Reasonable temporal stability
-- Self-report consistency reasonable
+**الثبات:**
+- الاتساق الداخلي: معتدل (البنود متباينة نسبياً بحكم التصميم)
+- ثبات الإعادة: r = 0.76 (خلال 2-4 أسابيع)
+- استقرار زمني معقول
+- اتساق معقول في التقرير الذاتي
 
-**Validity:**
-- Criterion validity: predicts health outcomes, behavioral problems, mortality
-- Convergent validity: correlates with trauma symptom measures
-- Discriminant validity: distinguishes low vs. high ACE groups on health outcomes
-- Predictive validity: ACE score at age 30 predicts health at age 50+
+**الصدق:**
+- صدق المحك: يتنبأ بالنتائج الصحية والمشكلات السلوكية والوفيات
+- الصدق التقاربي: يرتبط بمقاييس أعراض الصدمة
+- الصدق التمييزي: يميز بين المجموعات منخفضة وعالية الدرجة من حيث النتائج الصحية
+- الصدق التنبؤي: درجة ACE في سن 30 تتنبأ بالصحة في سن 50 فما فوق
 
-**Cross-cultural/demographic:**
-- Used in 60+ countries
-- General stability across cultures
-- Important difference: ACE predictive value varies by race/ethnicity
-  - For Black/minority populations: ACE + structural racism/discrimination = compounded effect
-  - Some ACE items (parental separation) culturally variable in impact
-- Socioeconomic disparities: ACE score higher in disadvantaged populations
+**عبر الثقافات والفئات الديموغرافية:**
+- استُخدم في أكثر من 60 دولة
+- استقرار عام عبر الثقافات
+- فرق مهم: القيمة التنبؤية لـACE تتفاوت حسب العرق/الإثنية
+  - لدى الفئات السوداء/الأقليات: تتضاعف الآثار عند اجتماع ACE مع العنصرية البنيوية/التمييز
+  - بعض بنود ACE (مثل انفصال الوالدين) يتفاوت أثرها ثقافياً
+- تفاوتات اجتماعية اقتصادية: درجة ACE أعلى لدى الفئات المحرومة
 
-## Clinical & Research Applications
+## التطبيقات السريرية والبحثية
 
-**Trauma-informed care:**
-- ACE score identifies childhood trauma history
-- Guides trauma-sensitive approach in healthcare/mental health
-- Explains origin of current symptoms/behaviors
-- Normalize impact of childhood adversity
+**الرعاية الواعية بالصدمة:**
+- تحدد درجة ACE تاريخ صدمة الطفولة
+- توجّه النهج الحساس للصدمة في الرعاية الصحية والنفسية
+- تفسر أصل الأعراض/السلوكيات الحالية
+- تطبّع أثر شدائد الطفولة
 
-**Health outcomes research:**
-- Links childhood trauma to adult chronic disease
-- Explains health disparities
-- Guides prevention and early intervention
-- Identifies populations needing targeted support
+**بحوث النتائج الصحية:**
+- تربط صدمة الطفولة بالأمراض المزمنة لدى البالغين
+- تفسر التفاوتات الصحية
+- توجّه الوقاية والتدخل المبكر
+- تحدد الفئات التي تحتاج دعماً موجهاً
 
-**Substance abuse treatment:**
-- Most individuals with SUD have ≥1 ACE
-- ACE 4+ strongly associated with substance abuse
-- Treatment must address underlying trauma
-- ACE history informs recovery planning
+**علاج تعاطي المواد:**
+- معظم المصابين باضطراب تعاطي المواد لديهم تجربة سلبية واحدة على الأقل
+- درجة 4 فأكثر مرتبطة بقوة بتعاطي المواد
+- يجب أن يعالج العلاج الصدمة الكامنة
+- تاريخ ACE يوجّه خطة التعافي
 
-**Mental health:**
-- PTSD, depression, anxiety strongly linked to ACE score
-- Childhood trauma predicts adult psychiatric disorder
-- ACE score helps understand symptom origins
-- Guides trauma-focused treatment selection
+**الصحة النفسية:**
+- اضطراب ما بعد الصدمة والاكتئاب والقلق مرتبطة بقوة بدرجة ACE
+- صدمة الطفولة تتنبأ بالاضطراب النفسي لدى البالغين
+- تساعد درجة ACE على فهم أصل الأعراض
+- توجّه اختيار العلاج المركّز على الصدمة
 
-**Child welfare/justice:**
-- Identifies children in high-risk households
-- Early intervention potential (before escalation)
-- ACE score of foster children often very high (multiple traumas)
-- Prevention program targeting
+**رعاية الطفولة والعدالة:**
+- تحدد الأطفال في الأسر عالية الخطورة
+- إمكانية التدخل المبكر (قبل التصعيد)
+- درجة ACE لدى أطفال الرعاية البديلة غالباً مرتفعة جداً (صدمات متعددة)
+- استهداف برامج الوقاية
 
-**Prevention & public health:**
-- ACE score identifies need for prevention programs
-- Guides Adverse Childhood Experiences prevention
-- Family support, parental stress reduction
-- Violence prevention, substance abuse prevention
+**الوقاية والصحة العامة:**
+- تحدد درجة ACE الحاجة إلى برامج وقائية
+- توجّه الوقاية من تجارب الطفولة السلبية
+- دعم الأسرة، تخفيف الضغط الوالدي
+- الوقاية من العنف وتعاطي المواد
 
-## Strengths
+## نقاط القوة
 
-- **Brevity:** 10 items, 1-2 minutes
-- **Predictive power:** strong association with health/behavioral outcomes
-- **Accessible:** simple yes/no format, no professional training needed
-- **Public health impact:** raised awareness of childhood trauma
-- **Evidence-base:** landmark study, 20+ years validation
-- **Free:** public domain, widely available
-- **Across lifespan:** explains childhood-to-adulthood connections
-- **Actionable:** identifies individuals for targeted intervention
+- **الإيجاز:** 10 بنود، 1-2 دقيقة
+- **القوة التنبؤية:** ارتباط قوي بالنتائج الصحية والسلوكية
+- **سهولة الوصول:** صيغة نعم/لا بسيطة، لا تتطلب تدريباً مهنياً
+- **الأثر في الصحة العامة:** رفعت الوعي بصدمة الطفولة
+- **الأساس البحثي:** دراسة بارزة وتحقق استمر أكثر من 20 عاماً
+- **مجانية:** في الملكية العامة ومتاحة على نطاق واسع
+- **عبر العمر:** تفسر الروابط من الطفولة إلى الرشد
+- **قابلة للتوظيف الإجرائي:** تحدد الأفراد للتدخل الموجه
 
-## Limitations
+## أوجه القصور
 
-- **Retrospective bias:** adult recall of childhood events subject to forgetting/distortion
-- **Missed trauma types:** only 10 categories; many forms of trauma excluded
-  - Community violence, bullying, racism, immigration trauma, accidents, medical trauma
-  - Cumulative low-grade stress/emotional neglect missed
-- **Binary scoring:** yes/no doesn't capture severity or frequency
-- **Survival bias:** those who didn't survive to adulthood can't report
-- **Limited specificity:** high ACE score doesn't predict which adult problem will emerge
-- **Structural factors underweighted:** poverty, discrimination, systemic racism not explicit
-- **Deterministic risk:** ACE score doesn't determine outcomes; resilience, protective factors crucial
-- **Socioeconomic confound:** ACE score correlated with poverty; causal pathway unclear
+- **تحيز الاسترجاع:** تذكر البالغ لأحداث الطفولة عرضة للنسيان والتشويه
+- **أنواع صدمة مفقودة:** 10 فئات فقط؛ كثير من أشكال الصدمة مستبعدة
+  - عنف المجتمع، التنمر، العنصرية، صدمة الهجرة، الحوادث، الصدمة الطبية
+  - الضغط المنخفض الدرجة المتراكم والإهمال العاطفي غير المرصودين
+- **تصحيح ثنائي:** نعم/لا لا يعكس الشدة أو التكرار
+- **تحيز البقاء:** من لم يعيشوا حتى الرشد لا يمكنهم الإبلاغ
+- **نوعية محدودة:** الدرجة المرتفعة لا تتنبأ بأي مشكلة تحديداً ستظهر لدى البالغ
+- **إغفال العوامل البنيوية:** الفقر والتمييز والعنصرية النظامية غير صريحة
+- **خطر غير حتمي:** درجة ACE لا تحدد النتائج؛ المرونة والعوامل الوقائية حاسمة
+- **تداخل اجتماعي اقتصادي:** درجة ACE ترتبط بالفقر؛ المسار السببي غير واضح
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Extended/modified versions:**
-- ACE-IQ (International Questionnaire): expanded items, global validation
-- Expanded ACE: additions like bullying, discrimination, community violence
-- ACE-related questionnaires: original 10 + additional traumas
-- Pediatric ACE: adapted for parents reporting child exposure
-- SEEK (Screening and Evaluation of Every Kid) at well-child visits
+**نسخ موسّعة/معدّلة:**
+- ACE-IQ (الاستبيان الدولي): بنود موسّعة وتحقق عالمي
+- ACE موسّع: إضافات مثل التنمر والتمييز وعنف المجتمع
+- استبيانات مرتبطة بـACE: العشرة الأصلية زائد صدمات إضافية
+- ACE للأطفال: مكيّف ليبلّغ عنه الوالدان بخصوص تعرض الطفل
+- SEEK (فرز وتقييم كل طفل) في زيارات الطفل السليم
 
-**Population-specific:**
-- Foster care/child welfare version
-- Refugee/immigrant adaptation
-- Racial trauma addition
-- LGBTQ+ trauma-specific items
+**نسخ خاصة بفئات معينة:**
+- نسخة الرعاية البديلة/رعاية الطفولة
+- تكييف للاجئين/المهاجرين
+- إضافة الصدمة العرقية
+- بنود خاصة بصدمة مجتمع الميم
 
-## Clinical Interpretation
+## التفسير السريري
 
-**ACE score and current presentation:**
-- High ACE (5+) with depression: likely trauma-related; trauma-focused treatment indicated
-- High ACE with substance use: trauma-informed addiction treatment essential
-- High ACE with health problem: mind-body connection; stress management crucial
-- High ACE with low current symptoms: resilience factors present; identify and strengthen
+**درجة ACE والعرض الحالي:**
+- درجة مرتفعة (5+) مع اكتئاب: على الأرجح مرتبطة بالصدمة؛ يُستطب العلاج المركّز على الصدمة
+- درجة مرتفعة مع تعاطي مواد: العلاج الواعي بالصدمة للإدمان أساسي
+- درجة مرتفعة مع مشكلة صحية: علاقة العقل بالجسد؛ إدارة الضغط أساسية
+- درجة مرتفعة مع أعراض حالية منخفضة: عوامل مرونة حاضرة؛ يجب تحديدها وتعزيزها
 
-**Protective factors discussion:**
-- High ACE ≠ inevitable poor outcome
-- Protective factors: at least one caring adult, good school experience, religious involvement, talents/skills, economic stability
-- Clinician should ask about resilience sources
-- Treatment may include building protective factors
+**مناقشة العوامل الوقائية:**
+- الدرجة المرتفعة لا تعني بالضرورة نتيجة سيئة حتمية
+- العوامل الوقائية: وجود بالغ واحد على الأقل يهتم، تجربة مدرسية جيدة، مشاركة دينية، مواهب/مهارات، استقرار اقتصادي
+- على الإكلينيكي أن يسأل عن مصادر المرونة
+- قد يشمل العلاج بناء العوامل الوقائية
 
-**Broader context:**
-- Individual ACE score important, but also systems context
-- Structural racism, poverty, discrimination amplify ACE effects
-- Public health response beyond individual screening needed
-- Prevention at population level critical
+**السياق الأوسع:**
+- درجة الفرد مهمة، لكن سياق الأنظمة مهم أيضاً
+- العنصرية البنيوية والفقر والتمييز تضخّم آثار ACE
+- الحاجة إلى استجابة صحية عامة تتجاوز الفرز الفردي
+- الوقاية على المستوى السكاني أمر حاسم
 
-## Integration with Assessment
+## التكامل مع التقييم
 
-**Often used with:**
-- PTSD screening (PCL-5; high ACE → higher PTSD risk)
-- Depression screening (PHQ-9; ACE + depression common)
-- Substance abuse screening (AUDIT, DAST; ACE strong risk factor)
-- Resilience measures (identifying strengths alongside trauma)
-- Comprehensive trauma history
+**غالباً ما تُستخدم مع:**
+- فرز اضطراب ما بعد الصدمة (PCL-5؛ درجة ACE المرتفعة ← خطر أعلى للاضطراب)
+- فرز الاكتئاب (PHQ-9؛ اجتماع ACE والاكتئاب شائع)
+- فرز تعاطي المواد (AUDIT، DAST؛ ACE عامل خطر قوي)
+- مقاييس المرونة (تحديد نقاط القوة إلى جانب الصدمة)
+- تاريخ شامل للصدمة
 
-## Primary Sources
+## المصادر
 
 1. Felitti, V.J., Anda, R.F., Nordenberg, D., et al. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. American Journal of Preventive Medicine, 14(4), 245-258.
 2. CDC-Kaiser ACE Study: https://www.cdc.gov/violenceprevention/aces/index.html
 3. Anda, R.F., Felitti, V.J., Bremner, J.D., et al. (2006). The enduring effects of abuse and related adverse experiences in childhood. European Archives of Psychiatry and Clinical Neuroscience, 256(3), 174-186.
 4. Finkelhor, D., Shattuck, A., Turner, H., & Hamby, S. (2015). A revised approach to measuring children's exposure to adverse childhood circumstances and other indicators of harm. Child Abuse & Neglect, 48, 13-21.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Childhood trauma and adversity
-- Resilience and protective factors
-- Health disparities and determinants
-- Trauma-informed care
-- Lifespan development
-- Prevention and early intervention
+- صدمة الطفولة والشدائد
+- المرونة والعوامل الوقائية
+- التفاوتات الصحية ومحدداتها
+- الرعاية الواعية بالصدمة
+- النمو عبر العمر
+- الوقاية والتدخل المبكر

@@ -29,23 +29,30 @@ gaps:
 
 # نموذجُ بروكا-فيرنيكه-ليختهايم
 
-## Definition
+## التعريف
 
-This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
+نموذجُ بروكا-فيرنيكه-ليختهايم هو النموذجُ التشريحي الوظيفي الكلاسيكي لمعالجة اللغة في الدماغ، تكوَّن تدريجياً بين 1861 و1885 من ثلاثة إسهامات متعاقبة: وصفُ پول بروكا عام 1861 ربطاً بين فقدان الكلام التعبيري وأذًى في التلفيف الجبهي السفلي الأيسر (المنطقة التي حملت اسمَه لاحقاً) عند مريضه الشهير "تان"؛ ثم وصفُ كارل فيرنيكه عام 1873 نمطاً مختلفاً من الحُبسة يصيب الفهمَ لا الإنتاج، مرتبطاً بأذًى في التلفيف الصدغي العلوي الخلفي؛ ثم صياغةُ لودفيغ ليختهايم عام 1885 نموذجاً رابطاً موحِّداً يجمع مساهمتَي بروكا وفيرنيكه في مخططٍ اتصالي واحد.
 
-## Key Principles
+## البنية التخطيطية
 
-- Language involves distributed brain networks
-- Cognitive processes are embodied (grounded in perception and action)
-- Language learning involves neural plasticity
-- Individual and group differences affect language abilities
+يفترض النموذجُ مركزين لغويين رئيسين متصلين بحزمةٍ عصبية (الحزمة القوسية): مركزُ الصور الحركية للكلمات (منطقة بروكا)، ومركزُ الصور السمعية للكلمات (منطقة فيرنيكه)، إضافةً إلى مركزٍ مفاهيمي ثالث يمثّل المعنى ويتصل بكليهما. من تخطيط هذه المراكز والوصلات بينها اشتُقّت سبعةُ أنماطٍ متوقَّعة من الحُبسة بحسب موضع القطع: حبسةٌ حركية (بروكا)، وحسّية (فيرنيكه)، وتوصيلية (قطع الحزمة القوسية)، وحبسةٌ تسموية تحت-قشرية، وأشكالٌ متعدّدة من العزلة القشرية (Transcortical Aphasias) حين يُقطَع المركزُ اللغوي عن المركز المفاهيمي دون أن يتأذّى المركز نفسه.
 
-## Evidence
+## القيمة التاريخية والتصنيفية
 
-Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
+مثّل هذا النموذجُ أولَ محاولةٍ منهجية لربط الوظيفة اللغوية بمواقعَ دماغية محدَّدة ولتفسير تنوّع الأعراض الحُبسية بمنطقٍ اتصاليٍّ واحد، وأسّس تقليداً بقي حياً حتى اليوم في العيادة تحت اسم "التصنيف الكلاسيكي للحُبسة"، الذي لا يزال يُستخدم لغته الوصفية (حبسةُ بروكا، حبسةُ فيرنيكه، حبسةُ التوصيل) في التواصل الإكلينيكي اليومي رغم تجاوز النظرياتِ الحديثة لتفاصيله.
 
-## References
+## حدودُ النموذج
 
-- Kemmerer, D. (2012). *Psychology of Language*. Springer.
-- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
+كشفت دراساتُ القرن العشرين، وبخاصة أبحاث نورمان غشفند في الستينيات، أن كثيراً من مرضى الحُبسة لا يطابقون توقعاتِ النموذج بدقة، إذ لا يرتبط موضعُ الأذى دائماً بالنمط السريري المتوقَّع، كما بيّنت أعمالُ نينا درونكرز لاحقاً أن حجمَ الآفة وامتدادَها تحت القشري أكثرُ تفسيراً من الموضع القشري وحده. دفعت هذه الثغراتُ إلى نماذجَ بديلة، أبرزُها النموذجُ ثنائي المسار عند هيكوك وپوپل الذي يستبدل التصنيفَ التشريحي بتقسيمٍ وظيفي إلى مسارٍ بطني لفهم المعنى ومسارٍ ظهري لترجمة الصوت إلى نطق.
+
+## الأثر المستمر
+
+رغم تجاوزه علمياً، بقي النموذجُ الكلاسيكي حجرَ الأساس الذي بُنيت عليه كل النظريات اللاحقة في علم اللغة العصبي، ومرجعاً تعليمياً أساسياً في تدريب أخصائيي أمراض النطق واللغة والأعصاب السلوكية.
+
+## المصادر
+
+- Lichtheim, L. (1885). "On Aphasia." *Brain*, 7(4), 433-484.
+- Dronkers, N. F., Plaisant, O., Iba-Zizen, M. T., & Cabanis, E. A. (2007). "Paul Broca's historic cases: high resolution MR imaging of the brains of Leborgne and Lelong." *Brain*, 130(5), 1432-1441.
+- Hickok, G., & Poeppel, D. (2007). "The cortical organization of speech processing." *Nature Reviews Neuroscience*, 8(5), 393-402.
+- Tesak, J., & Code, C. (2008). *Milestones in the History of Aphasia*. Psychology Press.
 

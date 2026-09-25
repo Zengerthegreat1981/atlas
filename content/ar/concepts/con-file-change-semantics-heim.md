@@ -21,35 +21,30 @@ gaps: []
 
 # دلالةُ تغيير الملفّ عند هايم
 
-## Definition
+## التعريف
 
-Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
+دلالةُ تغيير الملفّ (File Change Semantics) إطارٌ دلاليٌّ ديناميكي صاغته إيرين هايم في أطروحتها الدكتورية المرجعية "File Change Semantics and the Familiarity Theory of Definiteness" (1982)، يعيد تصوّرَ معنى الجملة لا بوصفه شرطاً حقّياً ساكناً (صادقاً أو كاذباً بمعزل عن السياق)، بل بوصفه تعليمةً (Instruction) لتحديث تمثيلٍ ذهني متراكم — استعارت هايم له صورةَ "الملفّ" (File) الذي يفتح بطاقةً جديدة مع كل اسمٍ نكرة يدخل الخطاب، وتُضاف إليها معلوماتٌ لاحقة كلما وردت إحالاتٌ جديدة إليه.
 
-## Theoretical Approaches
+## المشكلةُ: ضمائرُ الإحالة إلى نكرات
 
-Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
+صيغت هذه النظريةُ أساساً لحلّ مشكلةٍ دلالية عصيّة على الدلالة الصورية الساكنة الكلاسيكية: في جملة "دخلت قطّةٌ. كانت جائعة"، يحيل ضميرُ "كانت" إلى القطّة التي أدخلها الاسمُ النكرة "قطّة" في الجملة السابقة، رغم أن الاسمَ النكرة يُترجَم منطقياً غالباً بكمٍّ وجودي (∃x) محصورٍ داخل جملته وحدها، بحيث لا يُفترَض أن يبقى متغيّرُه (x) متاحاً لضميرٍ في جملةٍ لاحقة منفصلة. حلّت هايم هذه المعضلةَ بافتراض أن الاسمَ النكرة لا يُدخِل كمّاً وجودياً محصوراً، بل يفتح بطاقةَ ملفٍّ جديدة (تمثيلاً للفرد) تبقى متاحةً للإحالة عبر الخطاب اللاحق.
 
-## Core Concepts
+## آليةُ العمل: احتمالُ تغيير الملفّ
 
-- Reference: What does a word refer to?
-- Sense: How does a word relate to other words?
-- Entailment: What must be true if a statement is true?
-- Presupposition: What background assumptions does a statement carry?
+يُمثَّل معنى كل جملةٍ في هذا الإطار بدالّة "احتمال تغيير الملفّ" (File Change Potential)، تأخذ حالةَ الملفّ السابقة (المعرفةَ المشتركة المتراكمة حتى تلك اللحظة من الخطاب) وتُنتج حالةً جديدة محدَّثة. الأسماءُ النكرة تفتح بطاقاتٍ جديدة، والأسماءُ المعرَّفة والضمائرُ تصل إلى بطاقاتٍ موجودة مسبقاً وتضيف إليها معلومات، وهو ما يفسّر نظرياً "الألفة" (Familiarity) بوصفها الشرطَ الدلالي المحدِّد لاستخدام أداة التعريف.
 
-## Mechanisms
+## العلاقة بجمل الحمار
 
-Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
+قدّمت دلالةُ تغيير الملفّ حلاً لمشكلةٍ منطقية عريقة تُعرَف بجمل الحمار (Donkey Sentences، كجملة "كلُّ مزارعٍ يملك حماراً يضربه")، حيث يصعب على المنطق الكمّي الكلاسيكي تفسيرُ كيف يُربَط الضميرُ "ـه" بالحمار المُدخَل بكمٍّ وجودي داخل جملةٍ شرطية. سمح إطارُ هايم، إلى جانب المنطق الديناميكي الموازي عند هانز كامپ (نظرية تمثيل الخطاب - DRT)، بمعالجة هذه الظاهرة عبر آليات الإحالة الملفّية المتراكمة بدل الكمّ المنطقي الساكن التقليدي.
 
-## Cross-linguistic Evidence
+## الأثر على الدلالة الصورية
 
-Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
+أحدثت هذه المقاربةُ تحوّلاً جوهرياً في الدلالة الصورية، إذ حوّلت التركيزَ من دلالة الجملة المعزولة إلى دلالة الخطاب المتصل، وأسّست لِما يُعرف اليوم بالدلالة الديناميكية (Dynamic Semantics)، التي طوّرها لاحقاً هانز كامپ في نظرية تمثيل الخطاب، وأثّرت أيضاً في تحليل الافتراض المسبَق والتوجيه المنطقي (Modality) عند آنيتا كراتزر.
 
-## Contemporary Applications
+## المصادر
 
-Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
-
-## References
-
-- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
-- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+- Heim, I. (1982). *The Semantics of Definite and Indefinite Noun Phrases*. PhD dissertation, University of Massachusetts Amherst.
+- Heim, I. (1983). "File Change Semantics and the Familiarity Theory of Definiteness." In R. Bäuerle et al. (Eds.), *Meaning, Use, and Interpretation of Language*. De Gruyter.
+- Kamp, H. (1981). "A Theory of Truth and Semantic Representation." In *Formal Methods in the Study of Language*.
+- Heim, I., & Kratzer, A. (1998). *Semantics in Generative Grammar*. Blackwell.
 

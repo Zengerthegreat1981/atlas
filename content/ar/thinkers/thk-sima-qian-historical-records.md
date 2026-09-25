@@ -13,6 +13,7 @@ active_end: -91
 cultural_origin: "chinese"
 edges: []
 related:
+  - id: "con-chronology-ancient", title: "التأريخ الزمني في المصادر القديمة (Ancient Chronology)", type: "مفهوم"
   - id: "sch-ancient-historiography-foundations", title: "أسس التاريخ المكتوب", type: "school"
 gaps: []
 ---

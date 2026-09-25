@@ -16,7 +16,7 @@ related:
 - id: "thk-vasubandhu", title: "فاسوباندو", type: "مفكر"
 - id: "thk-dharmakirti", title: "دارماكيرتي", type: "مفكر"
 - id: "con-anikka-impermanence", title: "الأنيكا والتغير الدائم لجميع الظواهر (Anicca)", type: "مفهوم"
-- id: "con-shunyata-emptiness", title: "الشونيتا — الفراغ والنشوء المشروط (Shunyata)", type: "مفهوم"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
 - id: "dbt-bundle-theory-vs-substance-self", title: "نظرية الحزمة في الذات مقابل الجوهر النفسي الفردي", type: "جدل"
 - id: "dbt-presentism-vs-eternalism-time", title: "جدل الحاضرية مقابل الأبدية في فلسفة الزمان", type: "جدل"
 gaps:
@@ -30,7 +30,7 @@ gaps:
 
 ## روابط ذات صلة
 
-ينتمي هذا المفهوم إلى **sch-buddhism-early** التي صاغت عقيدة اللحظية ضمن الأبهيدارما. طوّره **thk-vasubandhu** في تحليله لتحلل الأركان لحظياً، وأسّس له منطقياً **thk-dharmakirti** عبر برهان الزوال الفوري. يرتبط بمفهوم **con-anikka-impermanence** بوصفه صياغة تجريدية-منطقية لفكرة الأنيكا نفسها، وبمفهوم **con-shunyata-emptiness** لأن اللاجوهرية الآنية تمهّد لخلو الأشياء من ذات ثابتة. يتقاطع مع جدل **dbt-bundle-theory-vs-substance-self** حول إنكار الذات الجوهرية، ومع جدل **dbt-presentism-vs-eternalism-time** لأنه يطرح موقفاً متطرفاً في حاضرية الزمان.
+ينتمي هذا المفهوم إلى **sch-buddhism-early** التي صاغت عقيدة اللحظية ضمن الأبهيدارما. طوّره **thk-vasubandhu** في تحليله لتحلل الأركان لحظياً، وأسّس له منطقياً **thk-dharmakirti** عبر برهان الزوال الفوري. يرتبط بمفهوم **con-anikka-impermanence** بوصفه صياغة تجريدية-منطقية لفكرة الأنيكا نفسها، وبمفهوم **con-shunyata** لأن اللاجوهرية الآنية تمهّد لخلو الأشياء من ذات ثابتة. يتقاطع مع جدل **dbt-bundle-theory-vs-substance-self** حول إنكار الذات الجوهرية، ومع جدل **dbt-presentism-vs-eternalism-time** لأنه يطرح موقفاً متطرفاً في حاضرية الزمان.
 
 ## المصادر
 

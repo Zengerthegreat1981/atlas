@@ -18,45 +18,40 @@ edges:
 related:
 - id: "sch-cognitive-linguistics", title: "اللسانياتُ المعرفية (Cognitive Linguistics)", type: "مدرسة"
 - id: "thk-george-lakoff", title: "جورج لاكوف", type: "مفكر"
-- id: "thk-mark-johnson-linguist", title: "مارك جونسون", type: "مفكر"
 gaps:
   - "جورج لاكوف موسومٌ `psychology` في الأطلس (`thk-george-lakoff`) بوصفه رائداً معرفياً؛ رُبط إليه هنا بـ`related` دون تكرار سيرته. **سُدَّ 2026-09-21 (الدفعة 30)**: أُنشئ `thk-mark-johnson-linguist` للشريك المؤلِّف مارك جونسون."
 ---
 
 # نظريةُ الاستعارة المفهومية
 
-## Definition
+## التعريف
 
-Metaphor is understanding one concept through another: "life is a journey." We use journey vocabulary to discuss life: "We're at a crossroads," "I've come a long way." Metaphor is not mere decoration but central to how we think and speak.
+نظريةُ الاستعارة المفهومية (Conceptual Metaphor Theory) إطارٌ في اللسانيات المعرفية صاغه جورج لاكوف ومارك جونسون في كتابهما التأسيسي *Metaphors We Live By* (1980)، يرى أن الاستعارةَ ليست زخرفاً بلاغياً هامشياً بل آليةٌ إدراكية جوهرية يُفهَم بها مجالٌ مفهوميٌّ مجرَّد (الهدف) من خلال مجالٍ آخر أكثر ملموسية (المصدر). جوهرُ النظرية، كما صاغه لاكوف لاحقاً: "فهمُ نوعٍ من الأشياء وتجربتُه بدلالة نوعٍ آخر".
 
-## Conceptual Metaphor Theory
+## البنيةُ الأساسية: خريطةُ المجالين
 
-Lakoff & Johnson argue conceptual metaphors structure how we think. LOVE-IS-A-JOURNEY structures love talk: relationships have destinations, obstacles, journeys. These metaphors are conventional, systematic, and largely unconscious.
+تفترض النظريةُ أن كل استعارةٍ مفهومية تُبنى على تخطيطٍ (Mapping) منظَّم من عناصر المجال المصدر إلى عناصر المجال الهدف. فاستعارةُ "الحبُّ رحلة" (LOVE IS A JOURNEY) تُسقِط عناصرَ الرحلة (المسافرون، الوجهة، العوائق، المفترقات) على عناصر العلاقة العاطفية، فتنتج تعبيراتٌ لغوية منظَّمة كـ"وصلنا إلى مفترق طرق" و"العلاقةُ تسير في طريقٍ مسدود" — وهذه التعبيراتُ ليست استعاراتٍ منفصلة بل انعكاساتٌ سطحية لتخطيطٍ مفهوميٍّ واحد كامن.
 
-## Common Metaphor Types
+## أنماطُ الاستعارة المفهومية
 
-- Structural: "Argument is war" (attack positions, defend claims, win arguments)
-- Ontological: "The mind is a container" (put thoughts into words, thoughts are in your head)
-- Orientational: "Happy is up" (up is good, down is bad)
+يميّز لاكوف وجونسون ثلاثةَ أنماط رئيسية: الاستعارةُ البنيوية (Structural)، حيث يُبنى مجالٌ كاملٌ على آخر كـ"الجدالُ حرب" (يهاجم المرءُ موقفَ خصمه ويدافع عن مواقفه)؛ والاستعارةُ الوجودية (Ontological)، التي تمنح الكياناتِ المجرَّدة (كالعقل أو الأفكار) حدوداً وكينونةً ماديةً، كـ"العقلُ وعاء"؛ والاستعارةُ الاتجاهية (Orientational)، التي تنظّم مفاهيمَ كاملة حول محاورَ مكانية جسدية، كـ"السعادةُ فوق، الحزنُ تحت".
 
-## Embodied Cognition
+## الأساسُ الجسدي (Embodiment)
 
-Metaphors ground in physical experience. "Up is good" relates to physical uprightness; "warm is friendly" relates to temperature/emotion association. This suggests metaphor emerges from how we experience the world.
+تستند النظريةُ إلى فرضية أن الاستعاراتِ المفهومية متجذّرةٌ في التجربة الجسدية المباشرة للإنسان مع بيئته، لا في اتفاقٍ ثقافيٍّ تعسّفي محض: فربطُ "الأعلى" بالإيجابية يرتبط بالوضعية الجسدية المنتصبة عند اليقظة والصحة، وربطُ "الدفء" بالودّ يرتبط بتجربة الاحتضان الجسدي في الطفولة. هذا الموقفُ يجعل الاستعارةَ المفهومية أحدَ الأعمدة الرئيسية لنظرية الإدراك المتجسِّد (Embodied Cognition).
 
-## Processing Evidence
+## اللاوعي والانتظام
 
-Brain imaging shows metaphors activate conceptual areas beyond linguistic areas. Metaphors are understood as rapidly as literal language. Novel metaphors take longer to process, showing metaphors aren't pre-computed but generated.
+يشدّد لاكوف وجونسون على أن هذه الاستعاراتِ عمليةٌ إدراكية غير واعية إلى حدٍّ كبير ومنظَّمة بشكل نسقي، لا تشبيهاتٍ خلّاقة عابرة يصنعها المتحدّث لحظياً؛ فحين يستخدم متحدّثٌ عبارة "دافعتُ عن رأيي" لا يشعر أنه يستعمل استعارة حربية، لأن الاستعارةَ صارت جزءاً بنيوياً من نظام التفكير نفسه لا زخرفاً لغوياً واعياً.
 
-## Metaphor and Language Change
+## الأثر والتنوّع بين اللغات
 
-Many words originally metaphorical are now literal: "Grasp" (literally grab) now means understand. Metaphor drives historical semantic change across languages.
+أحدثت هذه النظريةُ ثورةً في دراسة الدلالة والبلاغة معاً، ووسّعها زولتان كوڤيچش لاحقاً بدراساتٍ مقارِنة بيّنت أن بعض الاستعارات (كربط الغضب بالحرارة والضغط) قريبةٌ من العالمية لارتباطها بالتجربة الفيزيولوجية المشتركة، بينما تختلف استعاراتٌ أخرى اختلافاً ثقافياً واضحاً بحسب الممارسات والقيم المحلّية لكل جماعة لغوية.
 
-## Cross-linguistic Variation
-
-Metaphors differ across languages. Mandarin uses "enter the field" for academic work; English uses "enter the field" differently. This reflects cultural metaphoric conventions.
-
-## References
+## المصادر
 
 - Lakoff, G., & Johnson, M. (1980). *Metaphors We Live By*. University of Chicago Press.
-- Kövecses, Z. (2010). *Metaphor: A Practical Introduction*. Oxford University Press.
+- Lakoff, G. (1993). "The Contemporary Theory of Metaphor." In A. Ortony (Ed.), *Metaphor and Thought* (2nd ed.). Cambridge University Press.
+- Kövecses, Z. (2010). *Metaphor: A Practical Introduction* (2nd ed.). Oxford University Press.
+- Gibbs, R. W. (1994). *The Poetics of Mind: Figurative Thought, Language, and Understanding*. Cambridge University Press.
 

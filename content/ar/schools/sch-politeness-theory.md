@@ -42,31 +42,33 @@ gaps:
 
 # نظريةُ التأدّب ووجهُ المتكلّم
 
-## Definition
+تيارٌ تداوليّ يدرس كيف تُوظَّف اللغة لإدارة العلاقات الاجتماعية أثناء التخاطب، وتحديداً كيف يخفّف المتكلمون الأثر التهديدي المحتمَل لأفعالٍ كلاميةٍ معينة (كالطلب أو الرفض أو النقد) على «وجه» (Face) المخاطَب أو وجههم هم. أسّسه بصورةٍ منهجية **پنلوپي براون** و**ستيفن ليفنسون** في مقالتهما سنة 1978، الموسّعة لاحقاً في كتاب *Politeness: Some Universals in Language Usage* (1987)، مستندَين إلى مفهوم «الوجه» الذي طوّره عالم الاجتماع إرﭬنغ غوفمان في تحليله للتفاعل الاجتماعي وجهاً لوجه.
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+## الوجه الإيجابي والوجه السلبي
 
-## Theoretical Framework
+يميّز براون وليفنسون بين نوعين من الوجه لدى كل فردٍ متخاطِب: **الوجه الإيجابي** (Positive Face)، أي رغبة الفرد في أن يُقبَل ويُعجَب به ويُقدَّر اجتماعياً، و**الوجه السلبي** (Negative Face)، أي رغبته في حرية التصرف دون تقييدٍ أو فرضٍ من الآخرين. وتُعرَّف **الأفعال المهدِّدة للوجه** (Face-Threatening Acts) بأنها أي فعلٍ كلاميّ يهدد أحد هذين البعدين، كالطلب (يهدد الوجه السلبي للمخاطَب) أو النقد (يهدد وجهه الإيجابي).
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+## استراتيجيات التخفيف المتدرِّجة
 
-## Key Principles
+اقترح براون وليفنسون تسلسلاً من خمس استراتيجيات متدرِّجة في «التلطيف» يختار المتكلم بينها بحسب حجم التهديد المتوقَّع، وهو دالّةٌ لثلاثة عوامل: المسافة الاجتماعية بين المتخاطِبَين، وفارق القوة بينهما، ودرجة «فداحة» الفعل في تلك الثقافة. تتدرّج الاستراتيجيات من **الصراحة المباشرة** بلا تلطيف، إلى **التأدّب الإيجابي** (التأكيد على الألفة والتقدير)، إلى **التأدّب السلبي** (التلميح، التحوّط، الاعتذار المسبَق)، إلى **الغموض المقصود** (Off-Record)، وأخيراً الامتناع الكامل عن الفعل.
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+## دعوى الكونية والنقد الثقافي
 
-## Evidence Sources
+زعم براون وليفنسون أن هذه الاستراتيجيات **كليّةٌ** (Universal) عابرة للثقافات، لكن الادّعاء واجه نقداً واسعاً: فقد بيّن باحثون كماسايوشي شيباتاني ويوشيكو ماتسوموتو أن لغاتٍ كاليابانية تُلزِم بصيغ تبجيلٍ نحوية (Honorifics) مدمجة في النظام الصرفي نفسه لا خاضعةً لاختيارٍ استراتيجي حرّ، وأن مفهوم «الوجه الفردي» ذاته منحازٌ لفرضياتٍ فردانية غربية لا تنطبق بالسهولة نفسها على ثقافاتٍ جماعية التوجّه.
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+## البدائل: ليتش وسپنسر-أوتي وميلز
 
-## Contemporary Applications
+اقترح **جيفري ليتش** بديلاً تكميلياً بصياغة «مبادئ التأدّب» (Politeness Maxims) على غرار قواعد غرايس المحادثية (كمبدأ اللباقة ومبدأ التعاطف). وطوّرت **هيلين سپنسر-أوتي** إطار «إدارة الوئام» (Rapport Management) الذي يوسّع مفهوم التأدّب ليشمل إدارة العلاقة الاجتماعية ككل لا التخفيف من التهديد فقط. أما **سارة ميلز** فقدّمت نقداً نسوياً مؤثراً، معتبرةً أن التأدّب ليس خاصيةً ملازمة للعبارة بل حكمٌ اجتماعيّ يُقيَّم تفسيرياً في سياق جماعة ممارسةٍ بعينها، وأن التصورات المسبَقة عن «التأدّب الأنثوي» تحمل انحيازاتٍ جندرية ينبغي تفكيكها لا التسليم بها.
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+## الأثر
 
-## References
+رغم الانتقادات، ظلّ إطار براون وليفنسون المرجع المهيمن في دراسة التأدّب عبر اللغات، وأثّر في حقولٍ مجاورة كتحليل الخطاب المؤسّسي، وتعليم اللغة الأجنبية (حيث يُدرَّس تجنّب الفشل التداولي)، والتفاعل بين الإنسان والحاسوب في تصميم واجهاتٍ محادثية «مهذَّبة» اجتماعياً.
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+## المصادر
+
+- Brown, Penelope, & Levinson, Stephen C. *Politeness: Some Universals in Language Usage*. Cambridge University Press, 1987.
+- Goffman, Erving. *Interaction Ritual: Essays on Face-to-Face Behavior*. Doubleday, 1967.
+- Leech, Geoffrey. *Principles of Pragmatics*. Longman, 1983.
+- Mills, Sara. *Gender and Politeness*. Cambridge University Press, 2003.
+- Spencer-Oatey, Helen (ed.). *Culturally Speaking: Culture, Communication and Politeness Theory*. Continuum, 2008.
 

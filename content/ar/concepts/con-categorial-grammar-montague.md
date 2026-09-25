@@ -22,31 +22,31 @@ gaps: []
 
 # النحوُ الفئويُّ وأساسُه المنطقي في نحو مونتاغيو
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+النحوُ الفئويُّ (Categorial Grammar) صيغةٌ نحوية منطقية تُشتقُّ فيها فئاتُ الكلمات والعبارات من فئتين بدائيتين (كالاسم والجملة) عبر قواعدَ دالّية-حجّية (Function-Argument)، بحيث تحدِّد كلُّ فئةٍ نوعَ ما تحتاجه لتكتمل وما تُنتجه. صاغ أساسَها المنطقيَّ كازيمير أجدوكيفيتش عام 1935، وطوّرها يواكيم لامبك رياضياً عام 1958 (حساب لامبك)، لكن مكانتَها المركزية في اللسانيات الدلالية جاءت من تبنّي ريتشارد مونتاغيو لها إطاراً نحوياً موازياً لدلالته الصورية في مطلع السبعينيات.
 
-## Theoretical Framework
+## التوافق بين النحو والدلالة
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+الإسهامُ الحاسم لمونتاغيو هو مبدأُ التوافق التام بين الفئة النحوية والنوع الدلالي (Syntax-Semantics Homomorphism): لكل فئةٍ نحوية نوعٌ دلاليٌّ مقابل، ولكل قاعدةِ تركيبٍ نحوي عمليةُ تأليفٍ دلالي مقابلة (غالباً تطبيقُ دالةٍ على حجّةٍ عبر حساب لامبدا)، بحيث يُشتقُّ معنى الجملة تركيبياً من معاني أجزائها بالتوازي التام مع اشتقاق بنيتها النحوية. هذا ما سمّاه مونتاغيو في مقالته الشهيرة "English as a Formal Language" (1970) رفضَ الفارق الجوهري بين اللغات الطبيعية واللغات الصورية.
 
-## Key Principles
+## الفئات والاشتقاق
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+في النحو الفئوي، تُبنى الفئاتُ المركّبة من فئتين أوّليتين بمعاملين: `A/B` (عبارةٌ تصبح من النوع A إذا أُلحقت بعبارةٍ من النوع B على يمينها) و`A\B` (النمط نفسُه على اليسار). فالفعل اللازم مثلاً فئتُه `S\NP` (يحتاج اسماً على يساره لينتج جملة)، والصفةُ فئتُها `N/N`. يسمح هذا النظامُ باشتقاق البنية عبر قاعدتين بسيطتين فقط (التطبيق الأمامي والخلفي)، خلافاً لتعقيد قواعد إعادة الكتابة التوليدية.
 
-## Evidence Sources
+## من مونتاغيو إلى النحو الفئوي التوليفي
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+طوّر باحثون لاحقون، وبخاصة مارك ستيدمان، النحوَ الفئويَّ التوليفي (Combinatory Categorial Grammar - CCG) الذي يضيف عملياتِ تأليفٍ أعقد (كالتأليف الدالي والرفع) لمعالجة ظواهرَ كالتنسيق والاستخراج بعيد المدى، وصار من أكثر الصيغ النحوية استخداماً في معالجة اللغة الطبيعية الحاسوبية لسهولة برمجة التوافق الدلالي النحوي فيه آلياً.
 
-## Contemporary Applications
+## الأثر
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+أحيا نحوُ مونتاغيو الاهتمامَ باللسانيات الفئوية بعدما كادت تبقى أثراً منطقياً هامشياً، وأصبح الإطارُ المرجعي لكل الدلالة الصورية اللاحقة التي تشترط التأليفية الصارمة، كما امتدَّ أثرُه إلى نظرياتٍ نحوية أخرى كقواعد التركيب المعمَّمة للعبارة (GPSG) وقواعد بنية العبارة القائمة على الرأس (HPSG) التي استعارت مبدأ التوافق النحوي الدلالي دون الالتزام الكامل بصورية مونتاغيو.
 
-## References
+## المصادر
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+- Montague, R. (1970). "English as a Formal Language." In *Linguaggi nella Società e nella Tecnica*. Reprinted in Thomason (ed.), *Formal Philosophy* (1974), Yale University Press.
+- Ajdukiewicz, K. (1935). "Die syntaktische Konnexität." *Studia Philosophica*, 1, 1-27.
+- Lambek, J. (1958). "The Mathematics of Sentence Structure." *American Mathematical Monthly*, 65(3), 154-170.
+- Steedman, M. (2000). *The Syntactic Process*. MIT Press.
+- Partee, B. H. (2005). "Reflections of a Formal Semanticist." Ms., University of Massachusetts Amherst.
 

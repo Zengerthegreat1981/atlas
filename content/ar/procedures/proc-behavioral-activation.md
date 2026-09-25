@@ -9,262 +9,262 @@ related_schools:
   - sch-behavioral-psychology
 ---
 
-# Behavioral Activation
+# التنشيط السلوكي (Behavioral Activation)
 
-Behavioral activation is a CBT procedure for depression and anhedonia, based on the principle that activity level and mood are reciprocally related. By deliberately increasing engagement in valued, potentially pleasurable, or meaningful activities, clients break depression cycles, improve mood, increase sense of accomplishment, and rebuild social connection. Particularly effective for depressive withdrawal and motivation loss.
+التنشيط السلوكي إجراء من إجراءات العلاج المعرفي السلوكي (CBT) للاكتئاب وفقدان المتعة، يقوم على مبدأ أن مستوى النشاط والمزاج مرتبطان ارتباطاً تبادلياً. فبزيادة الانخراط بشكل متعمّد في أنشطة ذات قيمة، مُمتعة محتملاً، أو ذات معنى، يكسر العملاء دورات الاكتئاب، ويحسّنون المزاج، ويعززون الشعور بالإنجاز، ويعيدون بناء الاتصال الاجتماعي. فعّال بوجه خاص في الانسحاب الاكتئابي وفقدان الدافعية.
 
-## Mechanism
+## الآلية
 
-**Depression-inactivity cycle:**
-- Depression → low motivation, fatigue, withdrawal
-- Withdrawal → reduced pleasant experiences, isolation, hopelessness
-- Reduced positive reinforcement → worsening mood
-- Negative spiral perpetuates depression
+**دورة الاكتئاب والخمول:**
+- الاكتئاب ← دافعية منخفضة، إرهاق، انسحاب
+- الانسحاب ← تراجع الخبرات الممتعة، العزلة، اليأس
+- تراجع التعزيز الإيجابي ← تدهور المزاج
+- الدوامة السلبية تُديم الاكتئاب
 
-**Activation breaks cycle:**
-- Activity increases despite low motivation
-- Increased positive reinforcement
-- Mood gradually improves
-- Motivation rebuilds
-- Upward spiral emerges
+**التنشيط يكسر الدورة:**
+- يزداد النشاط رغم انخفاض الدافعية
+- يزداد التعزيز الإيجابي
+- يتحسن المزاج تدريجياً
+- تُعاد بناء الدافعية
+- تنشأ دوامة صاعدة
 
-**Key principle:** Action precedes motivation
-- Cannot wait to "feel like it" to act
-- Action changes mood, not vice versa
-- Motivation returns as a consequence of activity
+**المبدأ الأساسي:** الفعل يسبق الدافعية
+- لا يمكن الانتظار حتى "تشعر بالرغبة" لتتصرف
+- الفعل يغيّر المزاج، وليس العكس
+- تعود الدافعية كنتيجة للنشاط
 
-## Historical Development
+## التطور التاريخي
 
-**Behavioral foundation (1970s-1980s):**
-- Lewinsohn's behavioral theory of depression
-- Activity scheduling interventions
-- Recognition of withdrawal cycle
+**الأساس السلوكي (السبعينيات-الثمانينيات):**
+- نظرية لوينسون (Lewinsohn) السلوكية للاكتئاب
+- تدخلات جدولة النشاط
+- الاعتراف بدورة الانسحاب
 
-**Modern BA (1990s-present):**
-- Distilled to core active ingredient
-- Simplified protocols (short-term effectiveness)
-- Adapted for various presentations
+**التنشيط السلوكي الحديث (التسعينيات حتى الآن):**
+- تكثيف الإجراء إلى مكوّنه الفعّال الأساسي
+- بروتوكولات مبسّطة (فعالية قصيرة المدى)
+- تكييف لعروض متنوعة
 
-## Step-by-Step Procedure
+## الإجراء خطوة بخطوة
 
-### Phase 1: Assessment & Planning
+### المرحلة 1: التقييم والتخطيط
 
-**Evaluate current activity:**
-- What are you doing day-to-day?
-- Baseline of activity level
-- What avoidance patterns present?
+**تقييم النشاط الحالي:**
+- ماذا تفعل يومياً؟
+- خط أساس لمستوى النشاط
+- ما أنماط التجنب الحاضرة؟
 
-**Identify activity categories:**
-- **Mastery:** accomplishment, competence, skill-use (work, projects, learning)
-- **Pleasure:** enjoyable, fun, sensory (hobbies, entertainment, nature)
-- **Social:** connection, belonging (friends, family, groups)
-- **Meaning:** purpose, values, contribution (volunteer, spiritual, creative)
+**تحديد فئات النشاط:**
+- **الإتقان:** الإنجاز، الكفاءة، استخدام المهارة (العمل، المشاريع، التعلّم)
+- **المتعة:** ممتع، مسلٍّ، حسّي (الهوايات، الترفيه، الطبيعة)
+- **الاجتماعي:** الاتصال، الانتماء (الأصدقاء، الأسرة، الجماعات)
+- **المعنى:** الغاية، القيم، الإسهام (التطوع، الروحانية، الإبداع)
 
-**Rate importance & enjoyment:**
-- What activities are valued?
-- What previously brought pleasure?
-- What aligns with life values?
+**تقدير الأهمية والاستمتاع:**
+- ما الأنشطة ذات القيمة؟
+- ما الذي كان يجلب المتعة سابقاً؟
+- ما الذي يتماشى مع قيم الحياة؟
 
-### Phase 2: Schedule Activities
+### المرحلة 2: جدولة الأنشطة
 
-**Activity selection:**
-- Start small: achievable, not overwhelming
-- Mix categories: some pleasure, some mastery, some social
-- Include valued activities even if not currently enjoyable
-- Realistic timeframe: can complete despite low motivation
+**اختيار النشاط:**
+- البدء صغيراً: قابل للتحقيق وغير مُرهِق
+- مزج الفئات: بعض المتعة، بعض الإتقان، بعض الاجتماعي
+- تضمين أنشطة ذات قيمة حتى لو لم تكن ممتعة حالياً
+- إطار زمني واقعي: يمكن إتمامه رغم الدافعية المنخفضة
 
-**Schedule specifically:**
-- Day, time, duration
-- What you'll do
-- With whom if social
-- Written commitment (higher follow-through)
+**الجدولة بدقة:**
+- اليوم، الوقت، المدة
+- ما الذي ستفعله
+- مع من إذا كان اجتماعياً
+- التزام مكتوب (متابعة أعلى)
 
-**Difficulty progression:**
-- Week 1: easier, smaller activities
-- Week 2-3: increase difficulty, duration
-- Build momentum gradually
+**تدرّج الصعوبة:**
+- الأسبوع 1: أنشطة أسهل وأصغر
+- الأسبوعان 2-3: زيادة الصعوبة والمدة
+- بناء الزخم تدريجياً
 
-### Phase 3: Implementation
+### المرحلة 3: التنفيذ
 
-**Monitor without judgment:**
-- Track completion: did you do it?
-- Rate pleasure/mastery (0-10): even if low, note any improvement
-- Note mood before and after
+**الرصد دون حكم:**
+- تتبع الإنجاز: هل فعلتَه؟
+- تقدير المتعة/الإتقان (0-10): حتى لو منخفضاً، لاحظ أي تحسن
+- ملاحظة المزاج قبل وبعد
 
-**Expect low enjoyment initially:**
-- "Shouldn't feel good right away; that's depression talking"
-- Pleasure often returns gradually
-- Don't need to feel good to do activity
+**توقع متعة منخفضة في البداية:**
+- "لا ينبغي أن تشعر بتحسن فوري؛ هذا هو الاكتئاب يتحدث"
+- غالباً ما تعود المتعة تدريجياً
+- لا حاجة للشعور بالتحسن لتنفيذ النشاط
 
-**Problem-solve barriers:**
-- Can't motivate? Break into smaller steps
-- Too fatigued? Shorter activity, earlier in day
-- No ideas? Brainstorm list of past enjoyable activities
+**حل عوائق المشكلات:**
+- لا تستطيع الدافعية؟ قسّم النشاط إلى خطوات أصغر
+- مُرهَق جداً؟ نشاط أقصر وفي وقت مبكر من اليوم
+- لا أفكار؟ عصف ذهني لقائمة أنشطة ممتعة سابقة
 
-### Phase 4: Gradual Increase
+### المرحلة 4: الزيادة التدريجية
 
-**Week by week:**
-- Increase number of activities
-- Increase duration
-- Increase challenging nature
-- Increase social engagement
+**أسبوعاً بأسبوع:**
+- زيادة عدد الأنشطة
+- زيادة المدة
+- زيادة طبيعة التحدي
+- زيادة الانخراط الاجتماعي
 
-**Build momentum:**
-- Small wins accumulate
-- Sense of agency increases
-- Motivation gradually returns
-- Mood steadily improves
+**بناء الزخم:**
+- تتراكم الانتصارات الصغيرة
+- يزداد الشعور بالفاعلية
+- تعود الدافعية تدريجياً
+- يتحسن المزاج باطراد
 
-## Common Pitfalls & Solutions
+## العثرات الشائعة وحلولها
 
-**Pitfall: Waiting for motivation**
-- Solution: Schedule regardless; motivation follows action
+**العثرة: انتظار الدافعية**
+- الحل: الجدولة بصرف النظر عنها؛ الدافعية تتبع الفعل
 
-**Pitfall: All-or-nothing attempts**
-- Solution: Small achievable goals; consistency matters more than intensity
+**العثرة: محاولات الكل أو لا شيء**
+- الحل: أهداف صغيرة قابلة للتحقيق؛ الاتساق أهم من الشدة
 
-**Pitfall: Avoidance remains*
-- Solution: Include mildly difficult activities; gradually increase
+**العثرة: استمرار التجنب**
+- الحل: تضمين أنشطة صعبة قليلاً؛ الزيادة تدريجياً
 
-**Pitfall: Lack of variety**
-- Solution: Mix pleasure, mastery, social, meaning
+**العثرة: نقص التنوع**
+- الحل: مزج المتعة والإتقان والاجتماعي والمعنى
 
-**Pitfall: No monitoring/tracking**
-- Solution: Write down completed activities; see progress tangibly
+**العثرة: عدم الرصد/التتبع**
+- الحل: تدوين الأنشطة المُنجزة؛ رؤية التقدم بشكل ملموس
 
-## Sample Activity Schedule
+## نموذج جدول نشاط
 
-| Day | Time | Activity | Category | Completion | Pleasure (0-10) | Mood Before | Mood After |
+| اليوم | الوقت | النشاط | الفئة | الإنجاز | المتعة (0-10) | المزاج قبل | المزاج بعد |
 |-----|------|----------|----------|------------|-----------------|-------------|------------|
-| Mon | 10am | Walk 15 min | Pleasure | ✓ | 4 | 3 | 4 |
-| Mon | 3pm | Call friend | Social | ✓ | 5 | 3 | 5 |
-| Tue | 2pm | Shower, tidy room | Mastery | ✓ | 3 | 2 | 4 |
-| Wed | 6pm | Cooking hobby | Pleasure | ✓ | 6 | 4 | 6 |
+| الاثنين | 10 صباحاً | مشي 15 دقيقة | متعة | ✓ | 4 | 3 | 4 |
+| الاثنين | 3 عصراً | الاتصال بصديق | اجتماعي | ✓ | 5 | 3 | 5 |
+| الثلاثاء | 2 عصراً | الاستحمام، ترتيب الغرفة | إتقان | ✓ | 3 | 2 | 4 |
+| الأربعاء | 6 مساءً | هواية الطبخ | متعة | ✓ | 6 | 4 | 6 |
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### Depression
+### الاكتئاب
 
-**Primary use:** counteracting withdrawal, low motivation
-- Systematic activity increase
-- Mood monitoring
-- Progressive engagement
+**الاستخدام الأساسي:** مواجهة الانسحاب والدافعية المنخفضة
+- زيادة منهجية للنشاط
+- رصد المزاج
+- انخراط تدريجي
 
-### Anhedonia
+### فقدان المتعة (Anhedonia)
 
-**Loss of pleasure:** activity anyway
-- Pleasure often returns with engagement
-- Social connection particularly important
-- Meaning-focused activities help
+**فقدان المتعة: النشاط رغم ذلك**
+- غالباً ما تعود المتعة مع الانخراط
+- الاتصال الاجتماعي مهم بشكل خاص
+- الأنشطة المرتكزة على المعنى تساعد
 
-### Social Anxiety with Avoidance
+### القلق الاجتماعي مع التجنب
 
-**Social withdrawal:** graduated exposure to social activities
-- Small social steps initially
-- Positive experiences rebuild confidence
-- Connection reduces isolation-anxiety
+**الانسحاب الاجتماعي: تعرض متدرج للأنشطة الاجتماعية**
+- خطوات اجتماعية صغيرة في البداية
+- الخبرات الإيجابية تعيد بناء الثقة
+- الاتصال يقلل قلق العزلة
 
-### Chronic Pain
+### الألم المزمن
 
-**Activity avoidance:** graded activity increase
-- Not pain-driven, values-driven
-- Restore function despite pain
-- Similar to ACT values-based approach
+**تجنب النشاط: زيادة تدريجية للنشاط**
+- ليس مدفوعاً بالألم بل بالقيم
+- استعادة الوظيفة رغم الألم
+- مشابه لنهج القيم في علاج القبول والالتزام (ACT)
 
-### Substance Abuse
+### تعاطي المواد
 
-**Behavioral replacement:** meaningful activities vs. use
-- Occupy time and mind
-- Build accomplishment, connection
-- Reduce boredom/void substance filled
+**الاستبدال السلوكي: أنشطة ذات معنى بدلاً من التعاطي**
+- شغل الوقت والذهن
+- بناء الإنجاز والاتصال
+- تقليل الملل/الفراغ الذي كان التعاطي يملؤه
 
-## Therapist Skills
+## مهارات المعالج
 
-**Collaborative planning:**
-- Client selects activities
-- Therapist helps structure, problem-solve
-- Client drives commitment
+**التخطيط التعاوني:**
+- العميل يختار الأنشطة
+- المعالج يساعد في البنية وحل المشكلات
+- العميل يقود الالتزام
 
-**Motivational support:**
-- "Action first, feeling follows"
-- Normalize low mood/pleasure initially
-- Celebrate small completions
+**الدعم التحفيزي:**
+- "الفعل أولاً، ثم يتبعه الشعور"
+- تطبيع انخفاض المزاج/المتعة في البداية
+- الاحتفاء بالإنجازات الصغيرة
 
-**Persistent encouragement:**
-- Track progress systematically
-- Mood often improves by week 2-3
-- Motivation naturally increases
+**التشجيع المستمر:**
+- تتبع التقدم بشكل منهجي
+- غالباً ما يتحسن المزاج بحلول الأسبوعين 2-3
+- تزداد الدافعية طبيعياً
 
-**Problem-solving:**
-- What got in the way?
-- Adjust difficulty, timing, support
-- Learn from barriers
+**حل المشكلات:**
+- ما الذي أعاق الأمر؟
+- تعديل الصعوبة، التوقيت، الدعم
+- التعلم من العوائق
 
-## Homework & Practice
+## الواجبات والممارسة
 
-**Daily tracking:**
-- Activities completed
-- Pleasure/mastery ratings
-- Mood changes
+**التتبع اليومي:**
+- الأنشطة المُنجزة
+- تقديرات المتعة/الإتقان
+- تغيرات المزاج
 
-**Weekly review:**
-- Progress toward goals
-- Adjustments needed
-- Motivation building
+**المراجعة الأسبوعية:**
+- التقدم نحو الأهداف
+- التعديلات اللازمة
+- بناء الدافعية
 
-**Generalization:**
-- Build habit of engagement
-- Identify natural reinforcers
-- Sustain activity even after mood improves
+**التعميم:**
+- بناء عادة الانخراط
+- تحديد المعزّزات الطبيعية
+- استدامة النشاط حتى بعد تحسن المزاج
 
-## Strengths
+## نقاط القوة
 
-- **Simplicity:** easy to understand and implement
-- **Effectiveness:** strong evidence for depression, particularly early stages
-- **Rapid:** mood change often visible within 2-3 weeks
-- **Empowering:** client agency, self-directed change
-- **Cost-effective:** low-cost implementation
-- **Accessible:** works with various ages, abilities
-- **Compatible:** combines with other interventions
+- **البساطة:** سهل الفهم والتنفيذ
+- **الفعالية:** أدلة قوية للاكتئاب، خاصة في المراحل المبكرة
+- **السرعة:** غالباً ما يظهر تغير المزاج خلال 2-3 أسابيع
+- **التمكين:** فاعلية العميل، تغيير موجَّه ذاتياً
+- **فعال من حيث التكلفة:** تنفيذ منخفض التكلفة
+- **سهل الوصول:** يعمل مع أعمار وقدرات متنوعة
+- **متوافق:** يُدمج مع تدخلات أخرى
 
-## Limitations
+## أوجه القصور
 
-- **Severe depression:** motivation extremely low; may need medication first
-- **Anhedonia persistence:** pleasure may take longer to return
-- **Sustainability:** activity levels may drop after therapy
-- **Avoidance maintenance:** activity alone insufficient for some presentations
-- **Comorbidity:** anxiety/PTSD may need more intensive treatment
-- **Meaninglessness:** activity in value-vacuum less effective
-- **Insight gap:** depression may distort value/benefit perception
+- **الاكتئاب الشديد:** الدافعية منخفضة للغاية؛ قد يحتاج الدواء أولاً
+- **استمرار فقدان المتعة:** قد تستغرق المتعة وقتاً أطول للعودة
+- **الاستدامة:** قد تنخفض مستويات النشاط بعد العلاج
+- **استمرار التجنب:** النشاط وحده غير كافٍ لبعض العروض
+- **الاعتلال المصاحب:** قد يحتاج القلق/اضطراب ما بعد الصدمة علاجاً أكثر كثافة
+- **انعدام المعنى:** النشاط في فراغ من القيم أقل فعالية
+- **فجوة البصيرة:** قد يشوّه الاكتئاب إدراك القيمة/الفائدة
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Behavioral Scheduling:** detailed time-management approach
-**Values-Based Activation:** explicitly linked to life meaning (ACT-aligned)
-**Graded Exposure Activation:** combining with exposure for anxiety-driven avoidance
-**Social Activation:** friendship/relationship focus specifically
-**Pleasurable Activation:** emphasis on enjoyable activities initially
+**الجدولة السلوكية:** نهج مفصل لإدارة الوقت
+**التنشيط القائم على القيم:** مرتبط صراحة بمعنى الحياة (متوافق مع ACT)
+**التنشيط بالتعرض المتدرج:** الدمج مع التعرض للتجنب المدفوع بالقلق
+**التنشيط الاجتماعي:** تركيز خاص على الصداقة/العلاقات
+**التنشيط الممتع:** تشديد على الأنشطة الممتعة في البداية
 
-## Integration with Other Techniques
+## التكامل مع تقنيات أخرى
 
-**Often combined with:**
-- Cognitive restructuring: address thoughts while increasing activity
-- Exposure therapy: activity for anxiety-driven avoidance
-- Values clarification: identify meaningful activities
-- Mindfulness: present engagement in activities
-- Motivation enhancement: managing ambivalence about change
+**غالباً ما يُدمج مع:**
+- إعادة البناء المعرفي: تناول الأفكار مع زيادة النشاط
+- العلاج بالتعرض: نشاط للتجنب المدفوع بالقلق
+- توضيح القيم: تحديد الأنشطة ذات المعنى
+- اليقظة الذهنية: الانخراط الحاضر في الأنشطة
+- تعزيز الدافعية: إدارة التناقض الوجداني حيال التغيير
 
-## Primary Sources
+## المصادر
 
 1. Lewinsohn, P.M. (1974). A behavioral approach to depression. In R.J. Friedman & M.M. Katz (Eds.), The psychology of depression (pp. 157-186).
 2. Jacobson, N.S., Dobson, K.S., Truax, P.A., et al. (1996). A component analysis of cognitive-behavioral treatment for depression. Journal of Consulting and Clinical Psychology, 64(2), 295-304.
 3. Kanter, J.W., Mulick, P.S., Busch, A.M., Berlin, K.S., & Martell, C.R. (2007). The Behavioral Activation for Depression Scale (BADS): Psychometric properties and factor structure. Journal of Psychopathology and Behavioral Assessment, 29(3), 191-202.
 4. Martell, C.R., Addis, M.E., & Jacobson, N.S. (2001). Depression in context: Strategies for guided action. W.W. Norton.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Behavioral depression theory
-- Reinforcement and mood
-- Activity scheduling and mood
-- Anhedonia and engagement
-- Withdrawal cycles and activation
+- النظرية السلوكية للاكتئاب
+- التعزيز والمزاج
+- جدولة النشاط والمزاج
+- فقدان المتعة والانخراط
+- دورات الانسحاب والتنشيط

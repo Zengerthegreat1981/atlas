@@ -12,7 +12,7 @@ active_end: "مستمر"
 related:
 - id: "sch-tathagatagarbha", title: "تاثاغاتاغاربها (طبيعة البوذا)", type: "مدرسة"
 - id: "con-two-truths-doctrine-buddhist", title: "نظرية الحقيقتين: العرفية والمطلقة (Two Truths Doctrine)", type: "مفهوم"
-- id: "con-shunyata-emptiness", title: "الشونيتا — الفراغ والنشوء المشروط (Shunyata)", type: "مفهوم"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
 - id: "con-pratityasamutpada-dependent-origination", title: "النشوء بالاعتماد المشروط (Pratityasamutpada)", type: "مفهوم"
 - id: "con-mind-body", title: "مشكلة العقل والجسد", type: "مفهوم"
 gaps:
@@ -21,7 +21,7 @@ gaps:
 ---
 # العقل الواحد وباباه في فلسفة ونهيو الكورية (Wonhyo)
 
-التوفيق بين البعد المطلق النقي والبعد الحادث المتغير للوعي البشري، وهو توفيق يقارب في بنيته طبيعة البوذا الكامنة (con-tathagatagarbha-buddha-nature) بوصفها الوجه المطلق النقي، ونظرية الحقيقتين العرفية والمطلقة (con-two-truths-doctrine-buddhist) بوصفها الإطار المنطقي للتمييز بين الوجهين، ويرتكز ميتافيزيقياً على الشونيتا (con-shunyata-emptiness) والنشوء بالاعتماد المشروط (con-pratityasamutpada-dependent-origination) كخلفية بوذية عامة، كما يوازي من بعيد إشكالية العقل والجسد الغربية (con-mind-body) في سعيه لتوحيد بُعدين يبدوان متعارضين ضمن حقيقة واحدة.
+التوفيق بين البعد المطلق النقي والبعد الحادث المتغير للوعي البشري، وهو توفيق يقارب في بنيته طبيعة البوذا الكامنة (con-tathagatagarbha-buddha-nature) بوصفها الوجه المطلق النقي، ونظرية الحقيقتين العرفية والمطلقة (con-two-truths-doctrine-buddhist) بوصفها الإطار المنطقي للتمييز بين الوجهين، ويرتكز ميتافيزيقياً على الشونيتا (con-shunyata) والنشوء بالاعتماد المشروط (con-pratityasamutpada-dependent-origination) كخلفية بوذية عامة، كما يوازي من بعيد إشكالية العقل والجسد الغربية (con-mind-body) في سعيه لتوحيد بُعدين يبدوان متعارضين ضمن حقيقة واحدة.
 
 ## المصادر
 

@@ -1,0 +1,112 @@
+# Topics to Write (Round 4)
+
+Files below were deleted because their bodies were the same shared generic English
+template text (copy-pasted across many files, describing the general subfield rather
+than the specific title), confirmed by manual review of all 101 candidate files
+listed in `delete_candidates.txt` for this round. Grouped by `part`. Each row is
+`slug` — Arabic title / English title, so the topic can be written properly (with
+real, title-specific content) later.
+
+## part: linguistics
+
+- `con-additive-subtractive-bilingualism` — الثنائية الإضافية والطرحية / Additive & Subtractive Bilingualism
+- `con-aspectual-classes-vendler` — تصنيفاتُ الإتمامِ / Aspectual Classes
+- `con-bilingual-activation-languages` — تفعيلُ اللغاتِ عند الثنائيين / Bilingual Activation
+- `con-broca-area` — منطقة برّوكا / Broca's Area
+- `con-causative-semantics-agentivity` — دلالةُ السببيةِ والفعلية / Causative Semantics
+- `con-class-stratification-language` — الطبقة الاجتماعية واللغة / Class Stratification in Language
+- `con-code-switching-classroom` — تبديل الأكواد في الفصل / Code-Switching in Classroom
+- `con-code-switching-constraints` — تبديلُ الشيفرةِ والقيود / Code-Switching
+- `con-code-switching-turn-organization-interaction` — تنظيمُ الأدوارِ والتفاعلُ في التبديل الكودي / Turn Organization and Interaction in Code-Switching
+- `con-code-switching-types-constraints` — تصنيفُ التبديل الكودي وقيودُه / Types and Constraints of Code-Switching
+- `con-cognitive-linguistics-embodiment` — اللسانيات الإدراكية والتجسد / Cognitive Linguistics
+- `con-comparative-degree-semantics` — دلالةُ المقارنةِ والدرجات / Comparative Semantics
+- `con-conceptual-metaphor-theory-v2` — نظرية الاستعارة المفاهيمية / Conceptual Metaphor Theory
+- `con-diaspora-maintenance` — الحفاظ على اللغة في الشتات / Diaspora Language Maintenance
+- `con-eeg-meg-methods` — طرق EEG و MEG / EEG/MEG Methods
+- `con-event-related-potentials-erp-language` — الجهودُ المترابطةُ بالحدث / Event-Related Potentials
+- `con-fmri-pet-imaging` — التصوير الدماغي (fMRI, PET) / Brain Imaging Methods
+- `con-forensic-phonetics` — الصوتيات الشرعية / Forensic Phonetics
+- `con-frame-semantics-constructions` — دلالة الإطار والبنى / Frame Semantics
+- `con-gender-language-interaction` — النوع الاجتماعي واللغة / Gender & Language in Interaction
+- `con-genetic-classification-african-languages-greenberg` — تصنيفُ غرينبرغ الجيني للغات إفريقيا / Greenberg's Genetic Classification of African Languages
+- `con-gestural-phonology-browman` — النظريةُ الإيماءيةُ في الصواتة / Gestural Phonology
+- `con-gesture-speech-integration-multimodal` — الإيماءةُ والكلام / Gesture-Speech
+- `con-grammatical-gender-noun-classes` — الجنسُ النحويُّ وأصنافُ الأسماء (Grammatical Gender & Noun Classes) / Grammatical Gender & Noun Classes
+- `con-identity-language-self-presentation` — الهويةُ واللغة / Identity & Language
+- `con-image-schema-semantics` — مخطط الصور والدلالة / Image Schema & Semantics
+- `con-implicature-indirectness` — الاستلزام والمعاني غير المباشرة / Implicature & Indirectness
+- `con-inter-sentential-code-switching` — تبديل الأكواد بين الجمل / Inter-sentential Code-Switching
+- `con-intonation-phrasal-prosody` — التنغيمُ والنبرُ / Intonation
+- `con-intra-sentential-code-switching` — تبديل الأكواد داخل الجملة / Intra-sentential Code-Switching
+- `con-intra-sentential-vs-inter-sentential-switching` — التبديلُ داخل الجملة مقابل التبديلِ بين الجمل / Intra-Sentential vs. Inter-Sentential Code-Switching
+- `con-language-choice-identity-in-multilingual-communities` — اختيارُ اللغةِ والهويّةُ في المجتمعات متعدّدة اللغات / Language Choice and Identity in Multilingual Communities
+- `con-language-death-loss` — موت اللغة والفقدان / Language Death & Loss
+- `con-language-gender-performativity` — اللغةُ والنوعُ الاجتماعي / Gender & Language
+- `con-language-revival-revitalization` — إحياء اللغات / Language Revitalization
+- `con-laryngeal-voicing-features` — السماتُ الحنجرية / Laryngeal Features
+- `con-lexical-semantic-relations` — العلاقات الدلالية المعجمية / Lexical Semantic Relations
+- `con-machine-translation-neural` — الترجمة الآلية العصبية / Neural Machine Translation
+- `con-metaphor-cognitive-semantics` — الاستعارة والدلالات الإدراكية / Metaphor & Cognitive Semantics
+- `con-metaphor-conceptual-domains` — الاستعارةُ وتحويلُ المجالات / Metaphor
+- `con-metaphorical-extension` — التوسع الاستعاري الدلالي / Metaphorical Extension
+- `con-metonymy-conceptual-blending` — الكناية والمزج المفاهيمي / Metonymy & Conceptual Blending
+- `con-metonymy-part-whole-relations` — المجازُ المرسلُ والعلاقات / Metonymy
+- `con-metonymy-semantic-shift` — الكناية والتحول الدلالي / Metonymy & Semantic Shift
+- `con-morphological-processing-decomposition` — معالجةُ الصرفِ والتحليل / Morphological Processing
+- `con-multilingual-education-models` — نماذج التعليم متعدد اللغات / Multilingual Education Models
+- `con-n400-effect-semantic-violation` — تأثيرُ N400 الدلالي / N400 Effect
+- `con-natural-classes-phonology` — الفئاتُ الطبيعيةُ الصواتية / Natural Classes
+- `con-neural-plasticity-recovery` — اللدونة العصبية والتعافي / Neural Plasticity & Recovery
+- `con-optimality-principles-blending` — مبادئُ الأمثلية الحاكمة للمزج المفهومي / Governing (Optimality) Principles of Conceptual Blending
+- `con-palatalization-sound-shift` — الترقيق والتغيير الفونيتي / Palatalization & Sound Shifts
+- `con-phonetic-change` — التطور الفونيتي / Phonetic Change
+- `con-politeness-face-work` — التأدب والعمل الوجهي / Politeness & Face
+- `con-predictive-processing-language` — المعالجةُ التنبؤيةُ / Predictive Processing
+- `con-preference-organization` — تنظيم التفضيل في المحادثة / Preference Organization
+- `con-presupposition-entailment` — الافتراضات والاستتباع / Presupposition & Entailment
+- `con-presupposition-triggering` — تفعيلُ الافتراضات المسبقة / Presupposition Triggers
+- `con-prosody-intonation-rhythm` — النبرات والإيقاع والنبرة / Prosody & Intonation
+- `con-reference-chain-coreference` — إحالةُ الاسمِ والتطابق / Reference & Coreference
+- `con-scalar-implicature-gradient` — التضمينُ الدرجيُّ والتدرّج / Scalar Implicature
+- `con-semantic-change-bleaching` — تغيير الدلالة والتفريغ / Semantic Change & Bleaching
+- `con-semantic-priming-spreading-activation` — الإثاءةُ الدلاليةُ / Semantic Priming
+- `con-semantic-roles-theta-roles` — الأدوار الدلالية والثيتا / Semantic Roles
+- `con-semantics-reference-truth-conditions` — الدلالة والمرجعية / Semantics & Reference
+- `con-silence-pragmatics` — السكوتُ فعلاً تواصلياً (The Pragmatics of Silence) / The Pragmatics of Silence
+- `con-sociolinguistic-approach-code-switching` — النهجُ الاجتماعي-اللسانيّ للتبديل الكودي / Sociolinguistic Approach to Code-Switching
+- `con-sociolinguistic-variables` — المتغيرات السوسيولسانية / Sociolinguistic Variables
+- `con-spatial-semantics-talmy` — الدلالةُ المكانية / Spatial Semantics
+- `con-speaker-identification-forensic` — تحديد هوية المتحدث / Speaker Identification
+- `con-stress-rhythms-word-prosody` — الإجهادُ والإيقاعاتُ / Stress & Rhythm
+- `con-suprasemental-features` — السماتُ فوقَ المقطعية / Suprasegmental Features
+- `con-temporal-semantics-events` — الدلالةُ الزمنية والأحداث / Temporal Semantics
+- `con-tense-aspect-systems` — الزمنُ والإتمامُ والنسبة / Tense & Aspect
+- `con-three-types-code-switching-muysken` — ثلاثةُ أنواعٍ من التبديل الكودي (Three Types of Code-Mixing) / Three Types of Code-Switching: Insertion, Alternation, and Congruent Lexicalization
+- `con-variationist-sociolinguistics` — علم اللغة الاجتماعي التنويعي / Variationist Sociolinguistics
+- `con-wernicke-area` — منطقة ويرنيكه / Wernicke's Area
+- `ins-international-phonetic-alphabet` — الأبجديةُ الصوتيةُ الدولية (International Phonetic Alphabet, IPA) / International Phonetic Alphabet (IPA)
+- `sch-cognitive-anthropology-culture` — الأنثروبولوجياُ المعرفية / Cognitive Anthropology
+- `sch-embodied-metaphor-meaning` — الجسد والاستعارة والمعنى / Embodied Cognition & Metaphor
+- `sch-neurolinguistics-brain` — اللسانيات العصبية والدماغ / Neurolinguistics & Brain
+- `stu-metaphor-cognition-neuroscience-evidence` — الاستعارةُ والدماغُ / Metaphor Cognition Study
+- `stu-phonetic-variation-social-factors` — التنوّعُ الصوتيُّ الاجتماعيّ / Phonetic Variation
+- `stu-prosodic-timing-stress-patterns-world-lang` — أنماطُ الإجهادِ والتوقيتِ العالمية / Stress Patterns Study
+- `thk-broca-localization` — بول برّوكا / Paul Broca
+- `thk-haspelmath-comparative` — مارتن هاسبيلماث / Martin Haspelmath
+- `thk-keith-johnson-acoustic-phonetics` — كيثُ جونسون / Keith Johnson
+- `thk-kent-johnson-formant-tracking` — كينتُ جونسون / Kent Johnson
+- `thk-labov-sociolinguistic-method` — ويليام لابوف / William Labov
+- `thk-mark-johnson-linguist` — مارك جونسون / Mark Johnson
+- `thk-peter-ladefoged-acoustics` — بيترُ لادفوغد / Peter Ladefoged
+- `thk-wernicke-discovery` — كارل ويرنيكه / Carl Wernicke
+- `wrk-bilingual-speech-muysken` — الكلامُ الثنائيُّ اللغة: نموذجٌ نموذجيٌّ جديد / Bilingual Speech: A Typology of Code-Mixing
+- `wrk-code-switching-cambridge-handbook` — كتابُ كامبريدج للتبديل الكودي / The Cambridge Handbook of Linguistic Code-Switching
+- `wrk-code-switching-context-gardner-chloros` — التبديلُ الكودي في السياق: بحثٌ جماعيّ / Code-Switching in Context: A Community Study
+- `wrk-code-switching-intra-sentential-poplack` — التبديلُ الكودي داخل الجملة: دراسةٌ متغيّرية / Intra-Sentential Code-Switching: A Variationist Study
+- `wrk-kager-optimality-theory-1999` — نظريةُ الكفاية / Kager (1999)
+- `wrk-ladefoged-johnson-acoustic-phonetics-2010` — الصوتياتُ الأكوستيكية / Ladefoged & Johnson (2010)
+- `wrk-social-motivations-code-switching-myers-scotton` — الدوافعُ الاجتماعيةُ للتبديل الكودي / Social Motivations for Code-Switching
+- `wrk-sociolinguistic-patterns-labov` — أنماطٌ اجتماعيةٌ لغوية (Sociolinguistic Patterns) / Sociolinguistic Patterns
+- `wrk-sperber-wilson-relevance-1986` — نظريةُ الصلة والاتصال / Sperber & Wilson (1986)
+- `wrk-three-types-code-switching-muysken` — ثلاثةُ أنواعٍ من التبديل الكودي / Bilingual Speech: A Typology of Code-Mixing

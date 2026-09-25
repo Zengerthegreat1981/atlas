@@ -21,43 +21,28 @@ gaps: []
 
 # ثلاثيةُ التركيب والدلالة والتداول
 
-## Definition
+ثلاثيةٌ تصنيفية اقترحها الفيلسوف الأمريكي تشارلز موريس، أحد ورثة السيمياء البيرسية، لتقسيم دراسة العلامات (Semiotic) عموماً — واللغة بوصفها أهمّ نُظُمها — إلى ثلاثة فروعٍ متمايزة: **التركيب** (Syntactics)، و**الدلالة** (Semantics)، و**التداول** (Pragmatics). صاغ موريس هذا التقسيم أول مرة في مقالته «Foundations of the Theory of Signs» (1938) ضمن سلسلة «الموسوعة الموحدة للعلم» (International Encyclopedia of Unified Science)، ثم أعاد صياغته في كتابه *Signs, Language and Behavior* (1946)، وأصبح منذ ذلك الحين الإطار المعياري الذي يُستخدم لتحديد مجال كل فرعٍ من فروع دراسة اللغة والعلامات.
 
-Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
+## تعريف الفروع الثلاثة
 
-## Grice's Theory
+عرّف موريس **التركيب** بأنه دراسة العلاقات الصورية بين العلامات بعضها ببعض، بصرف النظر عن معناها أو مستعمليها — وهو ما يقابل النحو الصوري في اللسانيات. أما **الدلالة** فهي دراسة علاقة العلامات بالأشياء التي تدلّ عليها، أي علاقة الرمز بمرجعه في العالم أو في نسق المفاهيم. و**التداول** هو دراسة علاقة العلامات بمستعمليها ومفسّريها، أي كيف يوظّف المتكلمون العلامات في مواقف تخاطبٍ فعلية، وكيف يستدلّ السامعون على مقاصد لا تحملها العبارة صراحةً.
 
-Paul Grice identified four conversational maxims speakers follow:
-- Quantity: Be informative without being excessive
-- Quality: Be truthful and warranted
-- Relevance: Stay on topic
-- Manner: Be clear and brief
+## الجذور الفلسفية عند موريس وبيرس
 
-Flouting these maxims creates implicature—meaning inferred from the violation.
+استمدّ موريس هذا التقسيم من مشروعه الأوسع لبناء نظريةٍ شاملة للعلامة (Semiosis) متجذّرة في فلسفة تشارلز ساندرس بيرس والبراغماتية الأمريكية، التي شدّدت على الأثر العملي والاستعمالي للمعنى لا على صورته المجردة وحدها. وقد رأى موريس أن أيّ فعل «تعلّم» (Semiosis) يتضمّن بالضرورة أبعاده الثلاثة معاً: علامةً، وما تدلّ عليه، ومن يؤوّلها؛ فالفروع الثلاثة ليست مستقلةً استقلالاً تاماً بل أوجهٌ لظاهرةٍ واحدة يمكن عزل كلٍّ منها منهجياً للدراسة.
 
-## Speech Acts
+## أثرها في تنظيم علم اللغة الحديث
 
-Utterances perform actions (Austin, Searle):
-- Locutionary: The words uttered
-- Illocutionary: The action performed (promising, requesting, commanding)
-- Perlocutionary: The effect on listener
+تبنّت اللسانيات البنيوية والتوليدية هذا التقسيم أساساً لتنظيم فروعها: فالنحو التوليدي عند تشومسكي يُعنى بالتركيب مستقلاً نسبياً عن الدلالة، بينما طوّرت الدلالة الصورية (مونتاغيو وأتباعه) نماذج منطقية لعلاقة التعبير بمرجعه، وتطوّرت التداولية الغرايسية والتالية لها (أوستن، سيرل، غرايس) لدراسة الاستدلال التخاطبي والأفعال الكلامية والانغراس الحواري بوصفها مجالاً مستقلاً لا تفسّره القواعد الدلالية وحدها.
 
-"I promise to return the book" is a performative—the utterance creates an obligation.
+## نقد الحدود بين الفروع
 
-## Politeness Strategies
+واجهت الثلاثية نقداً بشأن صعوبة رسم حدودٍ حادّة بين الدلالة والتداول تحديداً، إذ تُظهر ظواهر مثل الإحالة الضمنية والافتراض المسبق (Presupposition) والاستلزام التخاطبي (Implicature) تداخلاً بين ما هو جزءٌ من المعنى الحرفي للجملة وما هو أثرٌ للسياق الاستعمالي؛ فطرح باحثون كستيفن ليفنسون نماذج «التداولية الجديدة» (Neo-Gricean Pragmatics) التي تعيد رسم هذه الحدود على أسسٍ تفسيرية أدقّ دون التخلي عن التقسيم الثلاثي أصلاً.
 
-Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+## المصادر
 
-## Presupposition
-
-Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
-
-## Contemporary Applications
-
-Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
-- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+- Morris, Charles W. "Foundations of the Theory of Signs." In *International Encyclopedia of Unified Science*, Vol. 1. University of Chicago Press, 1938.
+- Morris, Charles W. *Signs, Language and Behavior*. Prentice-Hall, 1946.
+- Levinson, Stephen C. *Pragmatics*. Cambridge University Press, 1983.
+- Carnap, Rudolf. *Introduction to Semantics*. Harvard University Press, 1942.
 

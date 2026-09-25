@@ -22,7 +22,6 @@ related:
 - id: "con-linguistic-variable-labov", title: "المتغيّرُ اللغوي (The Linguistic Variable)", type: "مفهوم"
 - id: "con-register-style-shifting", title: "السِّجلُّ اللغويُّ وتبدّلُ الأسلوب (Register & Style-Shifting)", type: "مفهوم"
 - id: "ins-matched-guise-technique", title: "تقنيةُ الهيئة المتطابقة (Matched-Guise Technique)", type: "منهج/أداة بحث"
-- id: "wrk-sociolinguistic-patterns-labov", title: "أنماطٌ اجتماعيةٌ لغوية (Sociolinguistic Patterns)", type: "عمل / كتاب"
 - id: "ins-dialect-atlas-geolinguistics", title: "الأطلسُ اللغويُّ والجغرافيا اللهجية (Dialect Atlas & Geolinguistics)", type: "منهج/أداة بحث"
 - id: "thk-peter-trudgill", title: "پيتر ترودجيل", type: "مفكر"
 - id: "thk-howard-giles", title: "هوارد جايلز", type: "مفكر"
@@ -37,28 +36,37 @@ gaps:
 
 # اللسانياتُ الاجتماعيةُ المتغيّرية
 
-## Definition
+تيارٌ في اللسانيات الاجتماعية أسّسه **وليم لابوف** سنة 1963، حوّل دراسة تنوّع اللغة من الوصف الانطباعي إلى منهجٍ كمّي صارم: جمع بياناتٍ ميدانية واسعة من كلامٍ طبيعي، وربط تواتر متغيراتٍ لغوية محددة إحصائياً بمتغيراتٍ اجتماعية (كالطبقة والعمر والجنس والعرق)، مثبتاً أن التنوّع اللغوي داخل المجتمع الواحد ليس عشوائياً أو «فساداً» بل نسقٌ منظَّم قابلٌ للتنبؤ.
 
-Sociolinguistics studies language in social context. How do social factors (class, gender, ethnicity, region) affect language variation? How does language mark and create social identity? How does language change through communities?
+## دراسة مارثا ﭬينيارد
 
-## Variation
+في دراسته الأولى الرائدة على جزيرة مارثا ﭬينيارد (1963)، رصد لابوف أن سكان الجزيرة الدائمين ينطقون صوائت ثنائية معينة (كما في price وmouth) بدرجة «مَرْكَزة» أعلى من السياح الصيفيين، وأن هذه المَرْكَزة كانت الأعلى بين الصيادين المحليين من عمر 30-40 سنة، الذين استخدموها لا وعياً للتمايز الهوياتي عن الوافدين الموسميين ورمزاً للانتماء الجزري الأصيل، لا لأسبابٍ صوتية بحتة.
 
-All languages vary: speakers use different forms in different contexts and communities. This variation is systematic, not random. Phonological variables (like r-dropping), grammatical variables (like subject-verb agreement), and lexical variables show social patterning.
+## دراسة المتاجر الكبرى في نيويورك
 
-## Social Stratification
+في دراسته الأشهر (1966)، اختبر لابوف نطق صوت الـ/r/ بعد الصائت (Post-Vocalic /r/) في ثلاثة متاجر نيويوركية تتفاوت مكانتها الاجتماعية، بسؤال الموظفين عبارة «Fourth Floor» عفوياً ثم بتكرارٍ متعمَّد، فوجد أن معدل نطق الـ/r/ يرتفع مع ارتفاع مكانة المتجر ومع درجة التأكيد الواعي في النطق، مما أثبت أن **المتغيّر اللغوي** (Linguistic Variable) — الصورة الصوتية القابلة للتبدّل لوحدةٍ لغوية واحدة — يحمل قيمةً اجتماعية رمزية مستقلة عن معناه الدلالي.
 
-Linguistic variation correlates with social variables: education, income, ethnicity, gender. Some variants have prestige (associated with power, education); others have stigma. Speech reveals social position.
+## المكانة الظاهرة والمكانة الخفية
 
-## Gender Differences
+ميّز الباحثون اللاحقون، وأبرزهم **پيتر ترودجيل**، بين **المكانة الظاهرة** (Overt Prestige)، المرتبطة بالصور اللغوية المعيارية المعترَف بها اجتماعياً علناً، و**المكانة الخفية** (Covert Prestige)، وهي قيمةٌ إيجابية ضمنية تحملها بعض الصور العامية أو غير المعيارية لدى متكلميها، إذ ترمز إلى التضامن الجماعي والصلابة الذكورية أو المحلية حتى مع وصمها اجتماعياً في السياق الرسمي العام.
 
-Women and men use language differently in systematic ways. Women use more prestige forms; men use more vernacular forms. In some communities, women lead linguistic change. Gender differences reflect and reinforce social roles.
+## السجلّ اللغوي وتبدّل الأسلوب
 
-## Language Change
+بيّن لابوف أيضاً أن الفرد الواحد لا يستخدم صورةً لغويةً واحدة ثابتة، بل يتنقّل بين **سجلاتٍ** (Registers) وأساليب حديثٍ متفاوتة الرسمية بحسب درجة انتباهه لكلامه (Attention to Speech)، من الحديث العفوي غير المراقَب إلى القراءة الجهرية الرسمية، وهو ما أسماه «تبدّل الأسلوب» (Style-Shifting)، واستخدمه أداةً منهجيةً لاستخلاص أنماط النطق الأكثر طبيعية من الحديث العفوي تحديداً.
 
-Languages change through communities. Sound changes (like vowel shifts) spread through generations. Older speakers use older forms; younger speakers use newer forms. Changes spread through social networks, not uniformly.
+## الموجات الثلاث عند إكرت
 
-## References
+نظّمت **پينيلوپي إكرت** لاحقاً تطوّر الحقل في «ثلاث موجات»: الموجة الأولى (اللابوفية الكلاسيكية) ربطت المتغيرات بفئاتٍ اجتماعية واسعة مسبقة التصنيف (الطبقة، الجنس)؛ والموجة الثانية، بقيادة باحثين كـج. ك. تشامبرز، ركّزت على شبكاتٍ اجتماعية محلية أدقّ؛ والموجة الثالثة، التي قادتها إكرت نفسها، تعامل المتغيرات اللغوية بوصفها موارد أسلوبية يوظِّفها المتكلمون فاعلياً لبناء هوياتٍ اجتماعية دقيقة ضمن «جماعات ممارسة» محلية، لا انعكاساتٍ سلبية لانتمائهم الطبقي فقط.
 
-- Labov, W. (1972). *Sociolinguistic Patterns*. University of Pennsylvania Press.
-- Eckert, P. (2000). *Linguistic Variation as Social Practice*. Blackwell.
+## الأثر المنهجي
+
+أسّست هذه المدرسة أيضاً لأدواتٍ بحثية معيارية في اللسانيات الاجتماعية، كـ«تقنية الهيئة المتطابقة» (Matched-Guise Technique) لقياس المواقف الضمنية تجاه اللهجات، والمسوح اللهجية الجغرافية الكمّية، وأثّرت في أبحاث هوارد جايلز حول التكيّف التخاطبي (Accommodation)، لتصبح المنهجية اللابوفية المرجع القياسي لأي دراسة ميدانية للتغيّر والتنوّع اللغوي حتى اليوم.
+
+## المصادر
+
+- Labov, William. *The Social Stratification of English in New York City*. Center for Applied Linguistics, 1966.
+- Labov, William. *Sociolinguistic Patterns*. University of Pennsylvania Press, 1972.
+- Trudgill, Peter. "Sex, Covert Prestige and Linguistic Change in the Urban British English of Norwich." *Language in Society*, 1(2), 1972.
+- Eckert, Penelope. "Three Waves of Variation Study." *Annual Review of Anthropology*, 41, 2012.
+- Chambers, J. K. *Sociolinguistic Theory*. Blackwell, 1995.
 

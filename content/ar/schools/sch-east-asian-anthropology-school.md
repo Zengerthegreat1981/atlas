@@ -15,7 +15,8 @@ cultural_origin: "east-asian"
 active_start: 1980
 active_end: "مستمر"
 region: "East Asia"
-edges: []
+edges:
+- rel: "comparable_to", target: "sch-american-cultural-anthropology", target_type: "مدرسة"
 related:
 - id: "thk-fei-xiaotong", title: "فاي شياوتونغ (Fei Xiaotong)", type: "مفكر"
 - id: "thk-nakane-chie", title: "ناكانة تشيه (Nakane Chie)", type: "مفكر"

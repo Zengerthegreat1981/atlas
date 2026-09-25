@@ -19,7 +19,6 @@ edges:
 related:
 - id: "sch-linguistic-typology", title: "النمطيةُ اللغويةُ والكلّياتُ اللغوية (Linguistic Typology & Universals)", type: "مدرسة"
 - id: "con-word-order-universals", title: "كلّياتُ ترتيب الكلمات", type: "مفهوم"
-- id: "con-genetic-classification-african-languages-greenberg", title: "تصنيفُ غرينبرغ الجيني للغات إفريقيا", type: "مفهوم"
 gaps:
   - "**سُدَّ 2026-09-22 (الدفعة 173)**: أُنشئ `con-genetic-classification-african-languages-greenberg` (العائلاتُ الأربع، منهجُ المقارنة الجماعية)."
   - "تصنيفُه المتأخر والمثيرُ للجدل للغات الأمريكتين في عائلةٍ واحدة (Amerind) رفضه أغلبُ اللغويين المقارنين المحترفين لعدم صرامته المنهجية؛ ذُكر في الملف كموقفٍ تاريخيٍّ لا كإجماعٍ علمي."

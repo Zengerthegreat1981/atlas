@@ -26,58 +26,27 @@ gaps:
 
 # أوتو يسبرسن
 
-## Definition and Overview
+لغويٌّ دنماركي (1860-1943)، أحد أعظم علماء اللغة في أواخر القرن التاسع عشر ومطلع العشرين، اشتُهر بوصفه النحوي الشامل للغة الإنجليزية، وبإسهاماته في الصوتيات التاريخية وتعليم اللغات الأجنبية، إلى جانب أطروحته المؤثرة عن دورات تجدّد أدوات النفي عبر تاريخ اللغات.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## دورة يسبرسن للنفي
 
-## Theoretical Framework
+قدّم يسبرسن في كتابه *Negation in English and Other Languages* (1917) وصفاً نمطياً تاريخياً لظاهرةٍ متكررة عبر لغاتٍ عديدة، عُرفت لاحقاً (منذ 1979) باسم **دورة يسبرسن** (Jespersen's Cycle): يبدأ التعبير عن النفي بأداةٍ واحدة تسبق الفعل، ثم تضعف هذه الأداة صوتياً بمرور الزمن فيُضاف إليها عنصرٌ نفيٌّ ثانٍ بعد الفعل لتعويض الضعف (فينشأ نفيٌ منقسم بجزأين قبل الفعل وبعده)، ثم قد تُحذَف الأداة الأصلية الأولى تدريجياً فيبقى عنصر النفي الثاني وحده أداةً جديدة للنفي، لتبدأ الدورة من جديد. مثاله الأشهر تطوّر النفي الفرنسي من «ne» وحدها إلى «ne...pas» ثم إلى «pas» وحدها في الفرنسية المحكية المعاصرة.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## فلسفة النحو
 
-## Key Mechanisms
+وسّع يسبرسن اهتمامه من الوصف التاريخي إلى التنظير العام في كتابه *The Philosophy of Grammar* (1924)، الذي ناقش فيه مقولاتٍ نحوية عامة كالزمن والوجه والنفي من منظورٍ يجمع بين المنطق والنفسية المعرفية، مقترحاً نظاماً من ثلاث مراتب لتحليل البنية النحوية (الأولية والثانوية والثالثية Primary/Secondary/Tertiary) يوضح علاقات التبعية بين عناصر الجملة، وهو ما استبق جزئياً بعض أفكار النحو التبعي (Dependency Grammar) اللاحقة.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## النحو الإنجليزي التاريخي الشامل
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+يُعدّ عمله الموسوعي *A Modern English Grammar on Historical Principles* (سبعة مجلدات، 1909-1949) أحد أضخم الأوصاف النحوية الشاملة للإنجليزية على الإطلاق، جامعاً بين الدقة الوصفية التزامنية والتفسير التاريخي التطوري لكل ظاهرةٍ نحوية، وظلّ مرجعاً أساسياً لدارسي الإنجليزية التاريخية والنحو الوصفي عقوداً طويلة بعد وفاته.
 
-## Experimental Evidence
+## الأثر في تعليم اللغة
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+إلى جانب أعماله النظرية، أسهم يسبرسن في تطوير مناهج تعليم اللغات الأجنبية، منتقداً الطرائق التقليدية القائمة على حفظ القواعد المجردة، وداعياً إلى مناهج أقرب لاكتساب اللغة الطبيعي، وهو ما جعله أيضاً شخصيةً مؤثرة في حركة إصلاح تدريس اللغات في أوروبا مطلع القرن العشرين.
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+## المصادر
 
-## Cross-Linguistic Applications
-
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Jespersen, Otto. *Negation in English and Other Languages*. A. F. Høst, 1917.
+- Jespersen, Otto. *The Philosophy of Grammar*. George Allen & Unwin, 1924.
+- Jespersen, Otto. *A Modern English Grammar on Historical Principles*, 7 vols. Carl Winter/George Allen & Unwin, 1909–1949.
+- van der Auwera, Johan. "Jespersen's Cycle." In *Cyclical Change*, ed. Elly van Gelderen. John Benjamins, 2009.

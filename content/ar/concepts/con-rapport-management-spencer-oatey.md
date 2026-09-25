@@ -20,58 +20,33 @@ gaps: []
 
 # إدارةُ الوئام عند سپنسر-أوتي
 
-## Definition and Overview
+## التعريف
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+إدارةُ الوئام (Rapport Management) إطارٌ نظري في التداولية بيّنطوّرته هيلين سپنسر-أوتي بديلاً وتوسيعاً لنموذج الوجه الكلاسيكي عند براون وليڤنسون، يفترض أن جودةَ العلاقة التفاعلية بين المتحاورين (الوئام Rapport) تتحدَّد باشتراك ثلاثة عناصرَ متداخلة لا عنصرٍ واحد فقط: الوجهُ (Face)، وحقوقُ التخاطب الاجتماعية (Sociality Rights)، والأهدافُ التفاعلية (Interactional Goals).
 
-## Theoretical Framework
+## الوجهُ: بُعدان لا بُعدٌ واحد
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+توسّع سپنسر-أوتي مفهومَ الوجه عند براون وليڤنسون (المنقسم إلى وجهٍ إيجابي وسلبي) بتمييزٍ مختلف جوهرياً: وجهُ الجودة (Quality Face)، وهو رغبةُ الفرد في أن تُقيَّم صفاتُه الشخصية وكفاءتُه وإنجازاتُه تقييماً إيجابياً من الآخرين؛ ووجهُ الهوية (Identity Face)، وهو حاجةُ الفرد إلى الاعتراف بأدواره الاجتماعية ذات الدلالة، وعضويته في جماعاتٍ بعينها، ومكانته المؤسسية أو العامّة. هذا التمييزُ يفصل بين البُعد الشخصي الفردي للوجه والبُعد الجماعي الهوياتي، وهو فصلٌ لم يكن حاضراً بالوضوح نفسِه في نموذج براون وليڤنسون الأصلي.
 
-## Key Mechanisms
+## حقوقُ التخاطب الاجتماعية
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+يضيف الإطارُ عنصراً غائباً عن النماذج السابقة: حقوقُ التخاطب الاجتماعية، وهي الاستحقاقاتُ الشخصية والاجتماعية الأساسية التي يفترضها الفردُ لنفسه في تفاعله مع الآخرين، وتنقسم إلى حقوقِ الترابط (Association Rights، كحقّ الفرد في مستوًى مناسب من التواصل الاجتماعي والاهتمام) وحقوقِ الإنصاف (Equity Rights، كحقّ الفرد في ألّا يُستغَلّ أو يُفرَض عليه عبءٌ غير عادل). خرقُ هذه الحقوق، لا تهديدُ الوجه فقط، قد يُخلّ بالوئام بين المتحاورين حتى دون أي تهديدٍ مباشر للصورة الذاتية.
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+## الأهدافُ التفاعلية والدوافعُ العملية
 
-## Experimental Evidence
+العنصرُ الثالث، الأهدافُ التفاعلية، يقرّ بأن التفاعلَ التواصلي غالباً ما يخدم غرضاً عملياً محدَّداً يتجاوز إدارةَ العلاقة الاجتماعية نفسها (كإنجاز معاملةٍ أو حلّ مشكلة)، وأن فشلَ تحقيق هذا الهدف قد يضرّ بالوئام أيضاً، مستقلاً عن أي تهديدٍ للوجه أو الحقوق الاجتماعية. بهذا، يتجاوز الإطارُ التركيزَ الحصري على "تجنّب الإساءة" الذي طبع نموذج براون وليڤنسون، ليشمل أبعاداً عملية وهوياتية أوسع من العلاقة التخاطبية.
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+## الحساسيةُ للسياق الثقافي
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+صُمِّم هذا الإطارُ خصيصاً ليكون أكثرَ قابليةً للتطبيق عبر ثقافاتٍ متنوّعة من نموذج براون وليڤنسون، الذي اتُّهم بتحيّزٍ ضمني لتصوّرٍ فردي غربي عن الذات؛ إذ تسمح مرونةُ مكوّنات الوئام الثلاثة (الوجه، الحقوق، الأهداف) بتفسير كيف تختلف أولوياتُ إدارة العلاقة باختلاف السياقات الثقافية دون افتراض معيارٍ عالمي واحد للتأدّب.
 
-## Cross-Linguistic Applications
+## الأثر
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
+قدّم هذا الإطارُ توسيعاً منهجياً مؤثِّراً لنظرية التأدّب، منتقلاً من التركيز الضيّق على "تجنّب تهديد الوجه" إلى تصوّرٍ أشمل لإدارة العلاقة التخاطبية بكل أبعادها، واستُخدم تحليلياً على نطاقٍ واسع في دراسات التواصل بين الثقافات وفي بيئات العمل المؤسسية متعدّدة الجنسيات.
 
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+## المصادر
 
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Spencer-Oatey, H. (2000). *Culturally Speaking: Managing Rapport through Talk across Cultures*. Continuum.
+- Spencer-Oatey, H. (2005). "(Im)Politeness, Face and Perceptions of Rapport." *Journal of Politeness Research*, 1(1), 95-119.
+- Spencer-Oatey, H. (2008). *Culturally Speaking: Culture, Communication and Politeness Theory* (2nd ed.). Continuum.
+- Brown, P., & Levinson, S. C. (1987). *Politeness: Some Universals in Language Usage*. Cambridge University Press.

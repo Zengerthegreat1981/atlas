@@ -11,191 +11,192 @@ related_schools:
 
 # PREPARE/ENRICH
 
-PREPARE/ENRICH is a comprehensive premarital and marital assessment and counseling program designed to help engaged and married couples communicate more effectively, resolve conflicts constructively, and strengthen their relationships. Developed by Dr. David H. Olson and colleagues, it combines a couple assessment inventory with structured counseling interventions based on cognitive-behavioral and systems approaches.
+PREPARE/ENRICH برنامج تقييمٍ واستشارةٍ شامل لما قبل الزواج والزواج، صُمِّم لمساعدة الخطيبين والمتزوجين على التواصل بفعاليةٍ أكبر، وحل النزاعات بطريقةٍ بنّاءة، وتقوية علاقاتهم. طوّره الدكتور ديفيد هـ. أولسون (David H. Olson) وزملاؤه، ويجمع بين مقياس تقييمٍ للزوجين وتدخلاتٍ استشاريةٍ منظَّمة قائمة على النهجين السلوكي المعرفي والنَّسَقي.
 
-## Development & History
+## التطور والتاريخ
 
-**Founded:** 1978 by David H. Olson at University of Minnesota
+**التأسيس:** عام 1978 على يد ديفيد هـ. أولسون في جامعة مينيسوتا
 
-**Evolution:**
-- PREPARE Inventory (1978) — premarital version
-- ENRICH Inventory (1986) — married couples version
-- Updated versions (PREPARE-G for gay/lesbian couples, 2005)
-- Adoption across 50+ countries; used in premarital counseling in churches, secular, and clinical settings
-- Research: extensive longitudinal studies tracking couples from premarital counseling through years 1, 3, 5
+**التطور:**
+- مقياس PREPARE (1978) — نسخة ما قبل الزواج
+- مقياس ENRICH (1986) — نسخة الأزواج المتزوجين
+- نسخٌ محدَّثة (PREPARE-G للأزواج المثليين، 2005)
+- تبنٍّ في أكثر من 50 بلداً؛ يُستخدم في الاستشارة لما قبل الزواج في الكنائس والسياقات العلمانية والسريرية
+- البحث: دراساتٌ طولية واسعة تتبّع الأزواج من الاستشارة لما قبل الزواج حتى السنوات 1 و3 و5
 
-## Theoretical Foundation
+## الأساس النظري
 
-### Circumplex Model (Olson)
-**Three core dimensions of couple functioning:**
+### النموذج الدائري (أولسون)
+**ثلاثة أبعادٍ جوهرية لأداء الزوجين:**
 
-1. **Cohesion** — emotional closeness and bonding between partners
-   - **Balanced:** interdependence, some alone time, shared decision-making
-   - **Disengaged:** too much emotional distance, separate activities, independent decisions
-   - **Enmeshed:** too much togetherness, few separate interests, consensus on all decisions
+1. **التماسك (Cohesion)** — القرب الانفعالي والترابط بين الشريكين
+   - **متوازن:** ترابطٌ، ووقتٌ منفرد أحياناً، واتخاذ قرارٍ مشترك
+   - **منفصل (Disengaged):** مسافةٌ انفعالية مفرطة، وأنشطةٌ منفصلة، وقراراتٌ مستقلة
+   - **متشابك (Enmeshed):** تلازمٌ مفرط، واهتماماتٌ منفصلة قليلة، وتوافقٌ على كل القرارات
 
-2. **Flexibility** — ability to adapt to change, balance stability with change
-   - **Balanced:** ability to shift roles, rules, leadership as situation demands
-   - **Rigid:** excessive structure, power struggles, minimal role negotiation
-   - **Chaotic:** inconsistent rules, unpredictable leadership, constant change
+2. **المرونة (Flexibility)** — القدرة على التكيف مع التغيير، وموازنة الاستقرار بالتغيير
+   - **متوازنة:** القدرة على تبديل الأدوار والقواعد والقيادة وفق ما يقتضيه الموقف
+   - **جامدة:** بنيةٌ مفرطة، وصراعاتُ قوة، وتفاوضٌ محدود على الأدوار
+   - **فوضوية:** قواعد غير متسقة، وقيادةٌ لا يمكن التنبؤ بها، وتغيّرٌ مستمر
 
-3. **Communication** — the glue holding the system together
-   - **Positive communication:** active listening, empathy, validation, respect
-   - **Negative communication:** criticism, defensiveness, contempt, stonewalling
+3. **التواصل (Communication)** — الغراء الذي يماسك النظام
+   - **التواصل الإيجابي:** الإصغاء الفعّال، والتعاطف، والإقرار بالمشاعر، والاحترام
+   - **التواصل السلبي:** النقد، والتبرير الدفاعي، والاحتقار، والتحصّن الصامت
 
-**Balanced relationships** on all three dimensions show highest satisfaction and stability.
+**العلاقات المتوازنة** على الأبعاد الثلاثة كلها تُظهر أعلى رضاً واستقراراً.
 
-### Cognitive-Behavioral Integration
-- Structured, skill-based approach combining assessment and behavioral intervention
-- Focus on communication skills, conflict resolution, role clarification
-- Expectation-setting: addressing unrealistic beliefs about marriage and partner
+### التكامل السلوكي المعرفي
+- نهجٌ منظَّم قائم على المهارات يجمع التقييم بالتدخل السلوكي
+- التركيز على مهارات التواصل، وحل النزاع، وتوضيح الأدوار
+- تحديد التوقعات: معالجة المعتقدات غير الواقعية حول الزواج والشريك
 
-## The PREPARE Inventory
+## مقياس PREPARE
 
-### Assessment Content (165 items)
-- **Relationship dynamics:** communication, conflict resolution, emotional expression
-- **Personality:** self-esteem, emotional expressiveness, dominance, avoidance of conflict
-- **Family background:** impact of family of origin on couple dynamics
-- **Life satisfaction:** work, finances, friends, health, spiritual/religious issues
-- **Life goals and values:** agreement on priorities, life direction
-- **Sexual relationship:** satisfaction, comfort, desire patterns
-- **Children and parenting:** plans for children, parenting approaches, discipline philosophy
-- **Finances:** money management, spending habits, financial goals, debt
+### محتوى التقييم (165 بنداً)
+- **ديناميكيات العلاقة:** التواصل، وحل النزاع، والتعبير الانفعالي
+- **الشخصية:** تقدير الذات، والتعبيرية الانفعالية، والسيطرة، وتجنّب النزاع
+- **الخلفية الأسرية:** أثر أسرة المنشأ على ديناميكيات الزوجين
+- **الرضا الحياتي:** العمل، والمال، والأصدقاء، والصحة، والقضايا الروحية/الدينية
+- **الأهداف والقيم الحياتية:** الاتفاق على الأولويات والاتجاه الحياتي
+- **العلاقة الجنسية:** الرضا، والراحة، وأنماط الرغبة
+- **الأطفال والتربية:** خطط الإنجاب، ونهج التربية، وفلسفة الانضباط
+- **المال:** إدارة المال، وعادات الإنفاق، والأهداف المالية، والديون
 
-### Scoring & Interpretation
-- Computerized scoring provides:
-  - **Couple's strengths** — areas of agreement and positive interaction
-  - **Growth areas** — areas of disagreement, mismatched expectations, skill deficits
-  - **Comparison to national norms** — how couple compares to other engaged couples
-  - **Predictive score** — likelihood of divorce (based on longitudinal research)
+### التصحيح والتفسير
+- يقدّم التصحيح الحاسوبي:
+  - **نقاط قوة الزوجين** — مجالات الاتفاق والتفاعل الإيجابي
+  - **مجالات النمو** — مجالات الاختلاف، والتوقعات غير المتطابقة، ونقص المهارات
+  - **المقارنة بالمعايير الوطنية** — كيف يقارَن الزوجان بأزواجٍ آخرين مخطوبين
+  - **درجة التنبؤ** — احتمالية الطلاق (استناداً إلى بحثٍ طولي)
 
-### Research-Based Predictive Power
-- Couples scoring in "at risk" category are 2-4x more likely to divorce within 5 years
-- Couples who do not take the assessment seriously (response inconsistency) tend to have poorer outcomes
-- Assessment accuracy improves with couple maturity and honesty
+### القوة التنبؤية المسنودة بالبحث
+- الأزواج الذين تقع درجتهم في فئة "المعرَّضين للخطر" أكثر عرضةً للطلاق بمقدار 2-4 أضعاف خلال 5 سنوات
+- الأزواج الذين لا يأخذون التقييم على محمل الجد (عدم اتساق الإجابات) تميل نتائجهم إلى أن تكون أسوأ
+- تتحسن دقة التقييم بنضج الزوجين وصدقهما
 
-## Counseling Format & Interventions
+## صيغة الاستشارة وتدخلاتها
 
-### Structure (Typical Program)
-- **4-8 sessions** of premarital counseling (3-6 couples counseling + clergy/counselor input)
-- **First session:** administer PREPARE; discuss results, identify growth areas
-- **Subsequent sessions:** skill-building and discussion guided by assessment results
-- **Final session:** review progress, establish maintenance plan
+### البنية (البرنامج النموذجي)
+- **4-8 جلسات** من الاستشارة لما قبل الزواج (3-6 جلسات للزوجين + مدخلات رجل دين/مستشار)
+- **الجلسة الأولى:** تطبيق PREPARE؛ مناقشة النتائج، وتحديد مجالات النمو
+- **الجلسات اللاحقة:** بناء مهاراتٍ ونقاشٌ موجَّه بنتائج التقييم
+- **الجلسة الختامية:** مراجعة التقدم، ووضع خطة حفاظ
 
-### Skill-Building Components
+### مكونات بناء المهارات
 
-**Communication Skills**
-- Structured communication exercises: speaker-listener technique
-- Active listening: paraphrasing, reflecting feelings, validating
-- "I" statements and expressing needs without blame
-- Practice in session with feedback
+**مهارات التواصل**
+- تمارين تواصلٍ منظَّمة: تقنية المتحدث-المستمع
+- الإصغاء الفعّال: إعادة الصياغة، وعكس المشاعر، والإقرار
+- عبارات "أنا" والتعبير عن الحاجات دون لوم
+- ممارسةٌ في الجلسة مع تغذيةٍ راجعة
 
-**Conflict Resolution**
-- Identifying communication patterns during disagreement
-- Steps: calm down, communicate positively, take turns speaking and listening, focus on problems not personalities
-- Problem-solving techniques: brainstorm, consider alternatives, agree on solution
-- Practice on real couple issues (finances, family involvement, children plans)
+**حل النزاع**
+- تحديد أنماط التواصل أثناء الخلاف
+- الخطوات: الهدوء، والتواصل الإيجابي، وتبادل الحديث والإصغاء، والتركيز على المشكلات لا الشخصيات
+- تقنيات حل المشكلات: العصف الذهني، والنظر في البدائل، والاتفاق على حل
+- ممارسةٌ على قضايا الزوجين الحقيقية (المال، مشاركة الأسرة، خطط الأطفال)
 
-**Expectation Clarification**
-- Discussing realistic vs. idealistic expectations
-- Impact of family of origin on couple patterns
-- Identifying potential areas of dissatisfaction
-- Revisiting "mission" and values alignment
+**توضيح التوقعات**
+- مناقشة التوقعات الواقعية مقابل المثالية
+- أثر أسرة المنشأ على أنماط الزوجين
+- تحديد مجالات عدم الرضا المحتملة
+- إعادة النظر في "الرسالة" وتوافق القيم
 
-**Role and Responsibility Discussion**
-- Household tasks and decision-making: who does what, is it fair?
-- Career and work-life balance priorities
-- Childrearing and parenting approach (if applicable)
-- Finances and money management
+**نقاش الأدوار والمسؤوليات**
+- المهام المنزلية واتخاذ القرار: من يفعل ماذا، وهل هو عادل؟
+- المسار المهني وأولويات التوازن بين العمل والحياة
+- نهج تربية الأطفال (إن كان ملائماً)
+- المال وإدارته
 
-**Intimacy and Sexuality**
-- Open discussion of sexual expectations and satisfaction
-- Addressing differences in desire, comfort, communication about sex
-- Education about normal sexual response, addressing myths
+**الحميمية والجنسانية**
+- نقاشٌ مفتوح للتوقعات والرضا الجنسيَّين
+- معالجة الاختلافات في الرغبة والراحة والتواصل حول الجنس
+- تثقيفٌ حول الاستجابة الجنسية الطبيعية، ومعالجة الخرافات
 
-### Counselor Role
-- **Non-directive on outcomes:** counselor doesn't tell couple what to decide, but guides exploration
-- **Psychoeducational:** teaching research-based skills and information
-- **Facilitative:** creating safe space for honest communication
-- **Strengths-focused:** acknowledging couple's positive qualities and existing agreement areas
+### دور المستشار
+- **غير توجيهي في النتائج:** لا يخبر المستشار الزوجين بما يقرران، بل يوجّه الاستكشاف
+- **تثقيفيٌّ نفسياً:** تعليم مهاراتٍ ومعلومات مسنودة بالبحث
+- **تيسيري:** خلق مساحةٍ آمنة للتواصل الصادق
+- **يركّز على نقاط القوة:** الإقرار بصفات الزوجين الإيجابية ومجالات الاتفاق القائمة
 
-## ENRICH for Married Couples
+## ENRICH للأزواج المتزوجين
 
-**Similar format to PREPARE but:**
-- **Additional assessment areas:** marital satisfaction, commitment, frequency of sexual relationship
-- **Different growth areas:** often reveals how satisfaction has changed since marriage
-- **Application:** marriage enrichment (improving already-functioning marriages), troubled couples seeking prevention-focused work, couples considering divorce
+**صيغةٌ مشابهة لـPREPARE لكن:**
+- **مجالات تقييمٍ إضافية:** الرضا الزواجي، والالتزام، وتكرار العلاقة الجنسية
+- **مجالات نموٍّ مختلفة:** غالباً ما تكشف كيف تغيّر الرضا منذ الزواج
+- **التطبيق:** إثراء الزواج (تحسين زيجاتٍ تعمل بالفعل)، والأزواج المضطربون الساعون لعملٍ وقائي، والأزواج المتأملون في الطلاق
 
-## Variants & Adaptations
+## الصيغ والتكييفات
 
 ### PREPARE-G/ENRICH-G
-- Adapted for gay and lesbian couples
-- Same core content but removes gendered assumptions
-- Research shows effectiveness for same-sex couples
+- مكيَّفةٌ للأزواج المثليين والسحاقيات
+- المحتوى الجوهري نفسه لكن دون افتراضاتٍ نوعية
+- يُظهر البحث فعاليةً للأزواج من الجنس نفسه
 
-### Religious & Secular Versions
-- Church-based PREPARE: incorporates spiritual values, may include religious counselor
-- Secular PREPARE: no religious content or framing; available in licensed counselor/therapist settings
-- Both versions effective in research
+### النسختان الدينية والعلمانية
+- PREPARE الكنسي: يدمج قيماً روحية، وقد يشمل مستشاراً دينياً
+- PREPARE العلماني: بلا محتوىً أو إطارٍ ديني؛ متوفرٌ في سياقات المستشارين/المعالجين المرخَّصين
+- كلتا النسختين فعّالة في البحث
 
-## Evidence Base
+## قاعدة الأدلة
 
-### Research Support
-- **Large-scale longitudinal studies** tracking engaged couples through marriage
-- **Longitudinal data:** couples completing PREPARE show better communication, conflict resolution, marital satisfaction at 1-, 3-, 5-year follow-ups
-- **Predictive validity:** PREPARE scores accurately predict which couples will divorce
-- **Protective effect:** premarital education itself associated with better outcomes (not just selection effect)
-- **Meta-analysis (Carroll & Doherty, 2003):** mean effect size d = .80 (couples in premarital programs doing better than 79% of control group)
+### الدعم البحثي
+- **دراساتٌ طولية واسعة النطاق** تتبّع الخطيبين حتى الزواج
+- **بيانات طولية:** يُظهر الأزواج الذين أكملوا PREPARE تواصلاً وحل نزاعٍ ورضاً زواجياً أفضل في متابعات 1 و3 و5 سنوات
+- **صدقٌ تنبؤي:** تتنبأ درجات PREPARE بدقةٍ بأيّ الأزواج سيطلَّقون
+- **أثرٌ وقائي:** ترتبط التربية لما قبل الزواج نفسها بنتائج أفضل (لا أثر اختيارٍ فقط)
+- **تحليلٌ تلوي (كارول ودوهرتي، 2003):** متوسط حجم الأثر د = 0.80 (الأزواج في برامج ما قبل الزواج أفضل حالاً من 79% من المجموعة الضابطة)
 
-### Limitations
-- **Selection bias:** couples self-selecting into premarital counseling may differ from general population
-- **Long-term follow-up:** less research on 10+ year outcomes; focus has been 1-5 years
-- **Implementation quality:** outcomes depend heavily on counselor skill and couple engagement
-- **Low-risk couples:** most research on engaged, low-risk couples; less known about high-conflict or high-distress couples
+### الحدود
+- **تحيّز الاختيار:** قد يختلف الأزواج الذين يختارون الاستشارة لما قبل الزواج عن عموم السكان
+- **المتابعة طويلة الأمد:** بحثٌ أقل حول نتائج أكثر من 10 سنوات؛ ركّز التركيز على 1-5 سنوات
+- **جودة التنفيذ:** تعتمد النتائج بشدة على مهارة المستشار وانخراط الزوجين
+- **الأزواج منخفضو الخطر:** معظم البحث على خطيبين منخفضي الخطر؛ معرفةٌ أقل عن الأزواج شديدي النزاع أو الضيق
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### Prevention-Focused Use
-- Premarital counseling: reducing divorce risk, building skills before problems develop
-- Engaged couple enrichment: strengthening already good relationships
+### الاستخدام الوقائي
+- الاستشارة لما قبل الزواج: تقليل خطر الطلاق، وبناء المهارات قبل نشوء المشكلات
+- إثراء الخطيبين: تقوية علاقاتٍ جيدة بالفعل
 
-### Intervention Use
-- Troubled marriages: identifying areas of disagreement, giving skills for repair
-- Couples considering divorce: assessment and targeted skill-building as last attempt at reconciliation
+### الاستخدام التدخّلي
+- الزيجات المضطربة: تحديد مجالات الخلاف، وإعطاء مهاراتٍ للإصلاح
+- الأزواج المتأملون في الطلاق: تقييمٌ وبناء مهاراتٍ مستهدف كمحاولةٍ أخيرة للمصالحة
 
-### Pastoral & Religious Settings
-- Church-based programs: PREPARE administered by clergy trained in the program
-- Values clarification aligned with religious tradition
-- Integration with religious marriage preparation
+### السياقات الرعوية والدينية
+- برامج كنسية: يطبّق PREPARE رجال دينٍ مدرَّبون على البرنامج
+- توضيح قيمٍ متسق مع التقليد الديني
+- تكاملٌ مع إعداد الزواج الديني
 
-## Related Interventions & Programs
+## تدخلات وبرامج ذات صلة
 
-- [[tec-symbis]] — shorter premarital model
-- [[tec-pick]] — premarital awareness and interpersonal choices
-- [[tec-foccus]] — alternative couple dialogue program
-- [[tec-prep-program]] — PREP (Prevention and Relationship Education Program)
-- [[tec-relationship-enhancement]] — skill-building for couples and families
+- [[tec-symbis]] — نموذجٌ أقصر لما قبل الزواج
+- [[tec-pick]] — الوعي ما قبل الزواج والخيارات التفاعلية
+- [[tec-foccus]] — برنامج حوار زوجين بديل
+- [[tec-prep-program]] — PREP (برنامج الوقاية وتربية العلاقة)
+- [[tec-relationship-enhancement]] — بناء مهاراتٍ للأزواج والأسر
 
-## Key Figures
+## الشخصيات الرئيسة
 
-- David H. Olson — developer of PREPARE/ENRICH and Circumplex Model
-- Douglas Sprenkle — outcome research on PREPARE
-- Joan Jackson — extensive research and dissemination
+- ديفيد هـ. أولسون (David H. Olson) — مطوِّر PREPARE/ENRICH والنموذج الدائري
+- دوغلاس سبرينكل (Douglas Sprenkle) — بحث نتائج PREPARE
+- جوان جاكسون (Joan Jackson) — بحثٌ ونشرٌ واسعان
 
-## Primary Sources & Resources
+## المصادر
 
 1. Olson, D.H. (1996). PREPARE/ENRICH: Marital success predicted by premarital evaluation. In F.M. Saba & B.P. Karpel (Eds.), The therapist's notebook: Homework, handouts, and activities for use in psychotherapy (pp. 60-68). Brunner/Mazel.
 2. Olson, D.H., Fournier, D.G., & Druckman, J.M. (1982). PREPARE/ENRICH: A couple's inventory for examining life together. In D.H. Olson, H.I. McCubbin, H. Barnes, A. Larsen, M. Muxen, & M. Wilson, Family inventories. University of Minnesota.
 3. Carroll, J.S., & Doherty, W.J. (2003). Evaluating the effectiveness of premarital prevention programs: A meta-analytic review of outcome research. Family Relations, 52(2), 105-118.
 4. Official PREPARE/ENRICH website: https://www.prepare-enrich.com
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Premarital counseling
-- Couple communication
-- Conflict resolution
-- Expectation management
-- Family systems and circumplex model
-- Marital satisfaction and stability
-- Relationship enrichment
-- Prevention-focused intervention
+- الاستشارة لما قبل الزواج
+- تواصل الزوجين
+- حل النزاع
+- إدارة التوقعات
+- الأنظمة الأسرية والنموذج الدائري
+- الرضا الزواجي واستقراره
+- إثراء العلاقة
+- التدخل الوقائي
+</content>

@@ -17,8 +17,10 @@ active_end: 1973
 language: "الإنجليزية"
 register: "academic"
 edges:
+- rel: "written_by", target: "thk-david-rosenhan", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-diagnostic-nosology", target_type: "مدرسة"
 related:
+- id: "thk-david-rosenhan", title: "ديفيد روزنهان", type: "مفكر"
 - id: "sch-diagnostic-nosology", title: "التصنيف والتشخيص النفسي (Nosology)", type: "مدرسة"
 gaps:
   - "تم إنشاء هذا الملف كجزء من Phase 3 (2026-09-24)."

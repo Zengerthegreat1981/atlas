@@ -13,7 +13,7 @@ active_end: "مستمر"
 part: "psychology"
 edges:
   []
-related:
+related: []
 - id: "thk-eschopler", title: "إريك شوبلر", type: "مفكر"
 - id: "thk-ereichelt", title: "روبرت جاي رايشلر", type: "مفكر"
 - id: "thk-gmesibov", title: "غاري ميسيبوف", type: "مفكر"
@@ -21,7 +21,6 @@ related:
 - id: "con-structured-teaching-teacch", title: "التدريس المنظم (Structured Teaching)", type: "مفهوم"
 - id: "con-aba-autism", title: "ABA للتوحد", type: "مفهوم"
 - id: "con-autonomy-homonomy", title: "الاستقلالية والهومونومي", type: "مفهوم"
-- id: "thk-jroddy", title: "[مدخل غير محقَّق — منسوب إلى TEACCH]", type: "مفكر"
 - id: "thk-cwhitaker-pt", title: "[مدخل غير محقَّق — منسوب إلى TEACCH]", type: "مفكر"
 gaps:
   - "**رُبطت عقدٌ معزولة 2026-09-08:** أُضيفت هنا إشارةٌ إلى عقدةٍ كانت لا يشير إليها أيُّ ملفّ، فكانت غيرَ قابلةٍ للوصول بالتنقّل. وكلُّ إشارةٍ عكسُ علاقةٍ يؤكّدها المستودعُ أصلاً (تأليفٌ أو انتماءٌ أو رابطٌ صادرٌ منها)، لم تُخترَع واحدةٌ منها."

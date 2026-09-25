@@ -23,31 +23,31 @@ gaps: []
 
 # علمُ الدلالة (أحمد مختار عمر)
 
-## Definition
+كتابٌ مرجعيّ للغوي المصري **أحمد مختار عمر** (1933-2003)، صدر سنة 1982، ويُعدّ أشهر مدخلٍ عربي شامل ومنهجي لعلم الدلالة (Semantics) الحديث، جامعاً بين عرض النظريات الغربية في دراسة المعنى وتطبيقها على مادةٍ لغوية عربية غنية، مما جعله المرجع الدراسي المعتمد في أقسام اللغة العربية بالجامعات العربية لعقود.
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+## نشأة علم الدلالة وموقعه
 
-## Theoretical Framework
+يفتتح الكتاب بتأصيلٍ تاريخي لعلم الدلالة، متتبعاً جذوره من اهتمامات الدارسين القدامى بالمعنى (في النحو العربي والبلاغة، وفي الفلسفة اليونانية) إلى تبلوره حقلاً مستقلاً في اللسانيات الغربية الحديثة على يد ميشيل بريال أواخر القرن التاسع عشر، ثم يحدّد موضوع علم الدلالة المعاصر: دراسة الشروط التي يجب توفّرها في الرمز اللغوي حتى يكون حاملاً للمعنى، والعلاقة بين اللفظ ومدلوله.
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+## الوحدة الدلالية وأنواع المعنى
 
-## Key Principles
+يناقش الكتاب مفهوم **الوحدة الدلالية** ويصنّف أنواع المعنى (المعنى المعجمي، والمعنى النحوي أو الوظيفي، والمعنى الإيحائي، وغيرها)، مقدِّماً إطاراً تصنيفياً يوازي بين تصنيفات علماء الدلالة الغربيين (كجيفري ليتش) ومصطلحاتٍ عربية مكافئة، بما يسهّل على القارئ العربي استيعاب هذه المفاهيم دون الاغتراب عن تراثه اللغوي.
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+## الظواهر الدلالية المعجمية
 
-## Evidence Sources
+يعالج الكتاب بالتفصيل الظواهر الدلالية الكلاسيكية التي شغلت اللغويين العرب قديماً (كالترادف والاشتراك اللفظي والتضاد والمجاز)، معيداً قراءتها بمصطلحات علم الدلالة الحديث (كالحقل الدلالي، والسمات الدلالية، وتحليل المكوّنات)، فيربط بذلك بين تراث المعجميين العرب القدامى (كابن فارس وابن دريد) وأدوات التحليل الدلالي المعاصرة.
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+## التغيّر الدلالي
 
-## Contemporary Applications
+يخصّص الكتاب فصولاً لدراسة **التغيّر الدلالي** (Semantic Change) عبر الزمن — كيف تتسع معاني الألفاظ أو تضيق أو تنحطّ أو ترتقي أو تنتقل مجازياً — مستشهداً بأمثلةٍ وفيرة من تطوّر الألفاظ العربية عبر العصور، من الاستخدام القرآني والجاهلي إلى الاستخدام المعاصر.
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+## الأثر
 
-## References
+أصبح هذا الكتاب، إلى جانب مؤلفاتٍ أخرى لأحمد مختار عمر (كـ*البحث اللغوي عند العرب* و*معجم اللغة العربية المعاصرة*)، من أكثر الكتب استخداماً في تدريس علم الدلالة بالجامعات العربية، لجمعه بين الدقة الأكاديمية والوضوح التعليمي، وبين النظرية الغربية والتطبيق على مادةٍ عربية أصيلة.
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+## المصادر
+
+- عمر، أحمد مختار. *علم الدلالة*. عالم الكتب، القاهرة، 1982.
+- عمر، أحمد مختار. *البحث اللغوي عند العرب*. عالم الكتب، القاهرة، 1971.
+- Versteegh, Kees. *The Arabic Language*. Edinburgh University Press, 1997.
 

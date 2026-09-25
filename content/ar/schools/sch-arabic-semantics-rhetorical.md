@@ -30,35 +30,33 @@ gaps:
 
 # الدلالةُ والبلاغةُ العربيّة
 
-## Definition
+مدرسةٌ في الفكر اللغوي العربي تدرس كيف يؤدّي التركيبُ اللغويُّ المعنى وأثره الجمالي والإقناعي، نشأت من رحم النحو العربي الكلاسيكي لكنها تجاوزت الاهتمام بصحة الإعراب إلى دراسة وظيفة الصياغة في إنتاج البلاغة والإعجاز، وبلغت ذروتها النظرية في القرن الخامس الهجري على يد **عبد القاهر الجرجاني**، مؤسّس علمي المعاني والبيان بوصفهما نظاماً دلالياً متماسكاً.
 
-Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
+## نظرية النظم عند الجرجاني
 
-## Theoretical Approaches
+قدّم الجرجاني في كتابيه «دلائل الإعجاز» و«أسرار البلاغة» أطروحته المركزية: أن بلاغة الكلام لا تكمن في الألفاظ المفردة ولا في «الصور البيانية» بمعزلٍ عن التركيب، بل في **النظم** (Naẓm)، أي طريقة ترتيب الألفاظ وفق معاني النحو (تقديمٍ وتأخيرٍ، تعريفٍ وتنكيرٍ، حذفٍ وذكرٍ، وصلٍ وفصل) بحيث يُبنى المعنى الثاني (الدلالة البلاغية) على المعنى الأول (الدلالة النحوية المجردة). فليس هناك «لفظٌ بليغ» في ذاته منفصلاً عن موقعه من الجملة ووظيفته الدلالية فيها، وهو ما جعل نظريته تُقرأ حديثاً بوصفها استباقاً مبكراً لفكرة أن المعنى وظيفة التركيب لا مجرد مجموع دلالات المفردات.
 
-Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
+## علما المعاني والبيان
 
-## Core Concepts
+تفرّع من هذا الأساس **علم المعاني**، الذي يبحث في أحوال التركيب العربي وما يطرأ عليه من صيغٍ (كالحذف والذكر، والتقديم والتأخير، وأساليب الخبر والإنشاء) بحسب مقتضى الحال ومقام الخطاب — وهو أقرب علوم البلاغة العربية إلى التداولية الحديثة (Pragmatics) — و**علم البيان**، الذي يدرس طرق التعبير عن المعنى الواحد بصورٍ مختلفة كالتشبيه والاستعارة والكناية والمجاز، مبيّناً أثر كل صورةٍ في الإيضاح والتخييل. أما **علم البديع**، فطوّره لاحقاً علماء كابن المعتز، وعُني بالمحسّنات اللفظية والمعنوية كالجناس والطباق.
 
-- Reference: What does a word refer to?
-- Sense: How does a word relate to other words?
-- Entailment: What must be true if a statement is true?
-- Presupposition: What background assumptions does a statement carry?
+## إعجاز القرآن كمحرّك نظري
 
-## Mechanisms
+كان الدافع اللاهوتي حاضراً بقوة: أراد الجرجاني تفسير «إعجاز القرآن» تفسيراً لغوياً لا يكتفي بالقول إن أسلوبه معجزٌ إجمالاً، بل يبيّن آلياً كيف يتفوّق نظمه على كل كلامٍ بشري، فربط بذلك بين علم الكلام وعلم اللغة، وجعل تحليل النظم القرآني مختبراً تطبيقياً لنظريته العامة في البلاغة.
 
-Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
+## التقنين اللاحق: السكاكي والقزويني
 
-## Cross-linguistic Evidence
+بعد الجرجاني، قنّن **السكاكي** (ت. 626هـ) في «مفتاح العلوم» أبواب البلاغة الثلاثة في نسقٍ منهجي صارم اقترب من الجفاف الاصطلاحي، ثم اختصر **الخطيب القزويني** (ت. 739هـ) هذا النسق في «تلخيص المفتاح»، الذي أصبح المتن المعتمد في تدريس البلاغة العربية قروناً طويلة، وإن أخذ عليه بعض الدارسين أنه حوّل نظرية الجرجاني الحيّة إلى تصنيفاتٍ جافّة بعيدة عن روحها التحليلية الأصلية.
 
-Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
+## الاستمرارية إلى العصر الحديث
 
-## Contemporary Applications
+ظلّ هذا التراث حيّاً في الدراسات البلاغية العربية الحديثة، وأعاد نقّادٌ ومفكرون معاصرون قراءة نظرية النظم الجرجانية بأدوات اللسانيات الحديثة (البنيوية والتداولية)، معتبرين إياها مقاربةً عربية أصيلة لمسألة العلاقة بين التركيب والدلالة سبقت كثيراً من أطروحات علم الدلالة الغربي الحديث في جوهرها، وإن اختلفت عنه في أدواتها ومصطلحها.
 
-Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+## المصادر
 
-## References
-
-- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
-- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+- الجرجاني، عبد القاهر. *دلائل الإعجاز*. تحقيق محمود محمد شاكر. مكتبة الخانجي، القاهرة.
+- الجرجاني، عبد القاهر. *أسرار البلاغة*. تحقيق محمود محمد شاكر.
+- Larkin, Margaret. *The Theology of Meaning: ʿAbd al-Qāhir al-Jurjānī's Theory of Discourse*. American Oriental Society, 1995.
+- Kane, Muhammad Ali. *ʿAbd al-Qāhir al-Jurjānī's Theory of Naẓm*. Brill, 2019.
+- Versteegh, Kees. *Landmarks in Linguistic Thought III: The Arabic Linguistic Tradition*. Routledge, 1997.
 

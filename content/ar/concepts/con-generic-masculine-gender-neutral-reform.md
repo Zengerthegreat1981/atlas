@@ -22,23 +22,30 @@ gaps:
 
 # المذكَّرُ التعميمي وإصلاحُ اللغة المحايدة جندرياً
 
-## Definition
+## التعريف
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+المذكَّرُ التعميمي (Generic Masculine) ظاهرةٌ لغوية واسعة الانتشار في كثيرٍ من اللغات (كالإنجليزية والألمانية والفرنسية والعربية) تستخدم فيها صيغةُ المذكّر النحوي لتعني مجموعةً مختلطة أو شخصاً غيرَ محدَّد الجنس، كضمير "he" الإنجليزي التعميمي أو صيغة الجمع المذكّر السالم العربية حين يُقصَد بها مجموعةٌ من الرجال والنساء معاً. يدور النقاشُ اللغوي والاجتماعي حول هذه الظاهرة على مستويين: هل هذا الاستخدامُ محايدٌ فعلياً في الإدراك الذهني كما يُفترَض نحوياً، وما البدائلُ المقترَحة لإصلاحه؟
 
-## Key Principles
+## أثرُ التحيّز الإدراكي
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+بيّنت دراساتٌ نفسية لغوية متعدّدة، بدءاً من أعمال آن بودين المبكّرة في السبعينيات، أن المذكّرَ التعميمي ليس محايداً إدراكياً كما تفترض القاعدةُ النحوية: حين يقرأ المشارِكون جملةً تستخدم ضميرَ "he" تعميمياً، تميل تصوراتُهم الذهنية إلى استحضار شخصيةٍ ذكرية تحديداً، حتى حين يُخبَرون صراحةً أن الضمير يشمل الجنسين. هذا التحيّزُ يتكرّر عبر لغاتٍ مختلفة وطرائقَ تجريبية متنوّعة، ويترتّب عليه أثرٌ عملي: تراجعُ تصوّر النساء أنفسهنّ مرشَّحاتٍ محتملات في إعلانات وظائف مصاغة بالمذكّر التعميمي مقارنةً بصياغاتٍ محايدة.
 
-## Evidence
+## استراتيجياتُ الإصلاح
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+تتوزّع محاولاتُ إصلاح اللغة المحايدة جندرياً بين مسارين رئيسين: استراتيجيةُ التحييد (Neutralization)، التي تستبدل صيغاً غيرَ موسومة جندرياً بالمذكّر التعميمي (كاستخدام "الشخص" بدل "الرجل" في السياقات التعميمية، أو ابتكار ضمائرَ محايدة جديدة)؛ واستراتيجيةُ التأنيث المزدوج أو إعادة التأنيث (Feminization)، التي تجعل الجنسين مرئيَّين صراحةً معاً (كصيغة "المعلّمون والمعلّمات" بدل الاكتفاء بصيغة المذكّر وحدها).
 
-## References
+## فعاليةُ الاستراتيجيات المختلفة
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+كشفت دراساتُ تقييم فعالية هذه الاستراتيجيات أن الصيغَ المحايدة تماماً وحدَها قد لا تكفي لإزالة التحيّز الذهني نحو الذكورة تماماً، بينما تنجح الصيغُ المزدوجة الصريحة (ذكرُ الجنسين معاً) في زيادة حضور النساء في التمثيل الذهني للمخاطَب بفعاليةٍ أوضح، وإن قوبلت هذه الصيغُ أحياناً بمقاومةٍ أسلوبية بحجّة الإطالة أو الثقل اللغوي.
+
+## المقاومةُ الاجتماعية والجدل المستمر
+
+تواجه مشاريعُ إصلاح اللغة الجندرية مقاومةً اجتماعية وسياسية متكرّرة، إذ يعارضها بعضُهم بحجّة أنها تدخّلٌ "غير طبيعي" في اللغة أو تسييسٌ لأداةٍ محايدة، بينما يرى مؤيّدوها أنها استجابةٌ ضرورية لأدلّةٍ تجريبية على أن اللغةَ ليست محايدةً فعلاً بل تعكس وتعيد إنتاج بنًى اجتماعية قائمة على هيمنة الذكورة الرمزية في التمثيل اللغوي.
+
+## المصادر
+
+- Bodine, A. (1975). "Androcentrism in Prescriptive Grammar." *Language in Society*, 4(2), 129-146.
+- Stahlberg, D., et al. (2007). "Representation of the Sexes in Language." In K. Fiedler (Ed.), *Social Communication*. Psychology Press.
+- Sczesny, S., Formanowicz, M., & Moser, F. (2016). "Can Gender-Fair Language Reduce Gender Stereotyping and Discrimination?" *Frontiers in Psychology*, 7.
+- Vergoossen, H. P., et al. (2020). "Four Dimensions of Criticism Against Gender-Fair Language." *Sex Roles*, 83, 328-337.
 

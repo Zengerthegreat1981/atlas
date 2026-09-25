@@ -21,35 +21,34 @@ gaps: []
 
 # الدلالةُ الإطارية عند فيلمور
 
-## Definition
+## التعريف
 
-Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
+الدلالةُ الإطارية (Frame Semantics) نظريةٌ في المعنى المعجمي طوّرها تشارلز فيلمور بدءاً من السبعينيات، تفترض أن فهمَ معنى كلمةٍ يستلزم أولاً معرفةَ "إطارٍ" مفاهيمي أوسع — بنيةٍ تخطيطية لموقفٍ أو حدثٍ أو علاقة — يمنح تلك الكلمةَ خلفيتَها ومسوِّغَ وجودها الدلالي. لا يمكن فهمُ كلمةٍ كـ"بائع" مثلاً بمعزل عن إطار "المعاملة التجارية" الذي يتضمّن بالضرورة بائعاً ومشترياً وبضاعةً وثمناً، حتى لو لم يُذكَر بعضُ هذه العناصر صراحةً في الجملة.
 
-## Theoretical Approaches
+## من إطار الحالة إلى الإطار الدلالي
 
-Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
+طوّر فيلمور هذا المفهومَ انطلاقاً من نظريته المبكّرة "نحو الحالة" (Case Grammar، 1968)، التي صنّفت العناصرَ النحوية بحسب أدوارها الدلالية العميقة (فاعل، مفعول، أداة...)، ثم اتّسع هذا التوجّهُ إلى مفهوم الإطار الأشمل: بنيةٌ معرفية كاملة تربط مجموعةً من الكلمات المترابطة دلالياً بموقفٍ نموذجي واحد، بحيث تستدعي كلُّ كلمةٍ في الإطار سائرَ عناصره ضمنياً حتى حين لا تُذكَر لفظاً.
 
-## Core Concepts
+## مشروعُ FrameNet
 
-- Reference: What does a word refer to?
-- Sense: How does a word relate to other words?
-- Entailment: What must be true if a statement is true?
-- Presupposition: What background assumptions does a statement carry?
+جسّد فيلمور نظريتَه عملياً بمشروع FrameNet، الذي أطلقه في مركز ICSI ببيركلي عام 1997، وهو قاعدةُ بياناتٍ معجمية حاسوبية ضخمة توثّق أكثرَ من 1200 إطارٍ دلالي في الإنجليزية، لكل إطارٍ منها عناصرُه الدلالية النموذجية (Frame Elements) والكلماتُ المعجمية (Lexical Units) التي تستدعيه، إضافةً إلى جملٍ حقيقية موسومة توضح كيفية تحقّق هذه العناصر نحوياً في الاستعمال الفعلي.
 
-## Mechanisms
+## مثالٌ توضيحي: إطار "التجارة"
 
-Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
+يوضّح فيلمور فكرتَه بإطار "المعاملة التجارية" (Commercial Transaction)، الذي تستدعيه أفعالٌ متعدّدة كـ"باع" و"اشترى" و"دفع" و"كلّف"، لكن كل فعلٍ منها يُبرِز عنصراً مختلفاً من الإطار نفسِه بوصفه الفاعلَ النحوي: "باع" يُبرز البائع، و"اشترى" يُبرز المشتري، و"كلّف" يُبرز الثمن — مع بقاء العناصر الأخرى (البضاعة، الطرف الآخر) حاضرةً ضمنياً في خلفية الإطار الواحد المشترك.
 
-## Cross-linguistic Evidence
+## العلاقة بنحو البُنى
 
-Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
+مثّلت الدلالةُ الإطارية أحدَ الروافد الأساسية لنحو البُنى (Construction Grammar)، الذي طوّره فيلمور نفسُه لاحقاً مع پول كاي وآخرين، إذ يتبنّى المبدأَ نفسَه بأن الوحدةَ اللغوية (كلمةً كانت أو بنيةً نحوية) لا تُفهَم بمعزل عن السياق المفاهيمي والاستعمالي الذي تنتمي إليه.
 
-## Contemporary Applications
+## الأثر
 
-Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+أثّرت الدلالةُ الإطارية تأثيراً عميقاً في علم المعاجم الحاسوبي، ومهّدت لتقنيات وسم الأدوار الدلالية (Semantic Role Labeling) في معالجة اللغة الطبيعية، كما أثّرت في دراسات التأطير المعرفي (Framing) خارج اللسانيات البحتة، وبخاصة في تحليل الخطاب السياسي والإعلامي عند جورج لاكوف.
 
-## References
+## المصادر
 
-- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
-- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+- Fillmore, C. J. (1982). "Frame Semantics." In *Linguistics in the Morning Calm*. Hanshin Publishing.
+- Fillmore, C. J. (1968). "The Case for Case." In E. Bach & R. Harms (Eds.), *Universals in Linguistic Theory*. Holt, Rinehart and Winston.
+- Fillmore, C. J., & Baker, C. (2010). "A Frames Approach to Semantic Analysis." In *The Oxford Handbook of Linguistic Analysis*.
+- Ruppenhofer, J., et al. (2016). *FrameNet II: Extended Theory and Practice*. ICSI Berkeley.
 

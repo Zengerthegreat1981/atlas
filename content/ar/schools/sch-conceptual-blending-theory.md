@@ -24,7 +24,6 @@ related:
 - id: "con-four-space-blending-network", title: "شبكةُ المزج الرباعية الفضاءات (Four-Space Blending Network)", type: "مفهوم"
 - id: "con-compression-vital-relations-blending", title: "الضغطُ والعلاقاتُ الحيوية في المزج المفهومي (Compression & Vital Relations)", type: "مفهوم"
 - id: "con-emergent-structure-blending", title: "البنيةُ الناشئةُ: التأليفُ والإكمالُ والتفصيلُ في المزج المفهومي", type: "مفهوم"
-- id: "con-optimality-principles-blending", title: "مبادئُ الأمثلية الحاكمة للمزج المفهومي", type: "مفهوم"
 - id: "thk-seana-coulson", title: "سيانا كولسون", type: "مفكر"
 - id: "thk-eve-sweetser", title: "إيڤ سويتسر", type: "مفكر"
 - id: "wrk-the-way-we-think-fauconnier-turner", title: "الطريقةُ التي نفكِّر بها (The Way We Think)", type: "أثر"

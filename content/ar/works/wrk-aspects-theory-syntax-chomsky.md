@@ -26,58 +26,26 @@ gaps:
 
 # جوانبُ نظرية النحو
 
-## Definition and Overview
+كتابُ نعوم تشومسكي الصادر سنة 1965 عن مطبعة معهد ماساتشوستس للتقنية، الذي قدّم صياغةً منقَّحة وأكثر نضجاً لنظريته النحوية بعد كتابه التأسيسي الأول *Syntactic Structures* (1957)، وأصبح يُعرَف بـ«النظرية المعيارية» (Standard Theory) للنحو التوليدي التحويلي، مرجعاً محورياً شكّل اتجاه البحث اللساني لعقودٍ تالية.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## الكفاءة مقابل الأداء
 
-## Theoretical Framework
+قدّم تشومسكي في الفصل الأول من الكتاب تمييزاً محورياً ظلّ من أهم مفاهيمه المؤثرة: **الكفاءة** (Competence)، أي المعرفة الضمنية المثالية التي يمتلكها المتكلم الأصلي بنظام لغته، مقابل **الأداء** (Performance)، أي الاستخدام الفعلي الملموس للغة في الكلام الحقيقي، الذي يتأثر بعوامل خارج النظام اللغوي نفسه (كالتعب، والتردد، وأخطاء الذاكرة). حدّد تشومسكي أن الموضوع الحقيقي للنظرية اللسانية هو الكفاءة لا الأداء، وهو موقفٌ نظري أثار جدلاً واسعاً حول علاقة اللسانيات بعلم النفس التجريبي.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## البنية العميقة والبنية السطحية
 
-## Key Mechanisms
+طوّر الكتاب نموذجاً اشتقاقياً ذا مستويين: **البنية العميقة** (Deep Structure)، التي تمثّل العلاقات الدلالية الأساسية بين مكوّنات الجملة (كمن يفعل ماذا لمن)، وتُشتقّ من قواعد بنية العبارة الأساسية والمكوّن المعجمي؛ و**البنية السطحية** (Surface Structure)، الصورة النحوية النهائية المنطوقة فعلياً، التي تنتج عن تطبيق قواعد التحويل (Transformations) على البنية العميقة. أدخل هذا النموذج أيضاً «المكوّن المعجمي» (Lexicon) بوصفه مكوّناً مستقلاً يزوّد الاشتقاق بالوحدات المعجمية وسماتها التركيبية.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## فقر المحفِّز والنحو الكلّي
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+عزّز تشومسكي في الكتاب حجته الفطرية (Nativist) حول اكتساب اللغة، معروفةً بـ«حجة فقر المحفِّز» (Poverty of the Stimulus): أن الأطفال يكتسبون نظاماً نحوياً بالغ التعقيد بسرعةٍ ومن مدخلٍ لغوي محدود وناقص، مما يستلزم افتراض معرفةٍ فطرية مسبقة بمبادئ عامة للغة الإنسانية («النحو الكلّي» Universal Grammar) تقيّد الفرضيات التي يفترضها الطفل أصلاً أثناء الاكتساب.
 
-## Experimental Evidence
+## الأثر والانتقادات
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+أصبح الكتاب المرجع القياسي للنحو التوليدي طوال الستينيات والسبعينيات، لكن بعض مفاهيمه (كالبنية العميقة الموحَّدة) أثارت خلافاتٍ داخلية حادة عُرفت بـ«حروب اللسانيات»، حين طالب دعاة «الدلالة التوليدية» (منهم جورج لاكوف) بدمج الدلالة مباشرةً في الاشتقاق النحوي، بخلاف فصل تشومسكي بينهما. ورغم أن تشومسكي نفسه تخلى لاحقاً عن كثيرٍ من أدوات هذا الكتاب في نظرية الحكم والربط ثم البرنامج الأدنوي، ظلّ يُعتبَر أحد أهم نصوص اللسانيات النظرية في القرن العشرين.
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+## المصادر
 
-## Cross-Linguistic Applications
-
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Chomsky, Noam. *Aspects of the Theory of Syntax*. MIT Press, 1965.
+- Newmeyer, Frederick J. *Linguistic Theory in America*. Academic Press, 1980 (2nd ed. 1986).
+- Di Sciullo, Anna Maria. "On Aspects of the Theory of Syntax." *Inference: International Review of Science*, 6(2), 2021.

@@ -21,58 +21,27 @@ gaps: []
 
 # العواملُ الثلاثةُ لنمو اللغة والأطروحةُ الأدنويةُ القوية عند تشومسكي
 
-## Definition and Overview
+إطارٌ تفسيريٌّ طرحه نعوم تشومسكي سنة 2005 في مقالته المرجعية «Three Factors in Language Design» بمجلة *Linguistic Inquiry*، لتفسير كيف تنشأ ملَكة اللغة البشرية بصورتها المحدَّدة عند كل فرد، ولإعادة توجيه البرنامج الأدنويّ نحو تفسيراتٍ أقلّ اعتماداً على افتراض «قواعد فطرية» خاصة باللغة (النحو الكوني بصيغته الغنية) وأكثر استناداً إلى مبادئ عامة تحكم الأنظمة الحوسبية والبيولوجية عموماً.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## العوامل الثلاثة
 
-## Theoretical Framework
+ميّز تشومسكي بين ثلاثة عواملَ تتضافر في تشكيل ملَكة اللغة عند الفرد: **العامل الأول** هو الموروث الجيني الخاص باللغة (Genetic Endowment)، أي ما يبقى من «النحو الكوني» بعد تقليصه إلى الحدّ الأدنى الضروري. **العامل الثاني** هو التجربة أو المدخل اللغوي (Experience) الذي يتلقاه الطفل من بيئته، والذي يحدّد أيّ لغةٍ بعينها يكتسبها. **العامل الثالث**، وهو محور الأطروحة، يضمّ مبادئ لا تخصّ اللغة ولا البيولوجيا وحدها، بل تحكم الأنظمة الحوسبية والطبيعية عموماً: كفاءة الحوسبة (Computational Efficiency)، والبحث المحلّي الأدنى (Minimal/Local Search)، وقوانين الصورة والنمو (Laws of Form) المشابهة لمبادئ الفيزياء والأحياء التطورية.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## الأطروحة الأدنوية القوية
 
-## Key Mechanisms
+يربط تشومسكي العامل الثالث بما يسمّيه «الأطروحة الأدنوية القوية» (Strong Minimalist Thesis، SMT)، وهي الفرضية القائلة بأن ملَكة اللغة (Faculty of Language) هي حلٌّ شبه أمثل لمتطلبات الربط بين نظامَي الصوت والمعنى (الواجهتان الصوتية PHON والدلالية SEM)، باستخدام عمليةٍ حوسبيةٍ واحدةٍ بسيطة هي «الدمج» (Merge). فبقدر ما تُفسَّر خصائص اللغة بمبادئ العامل الثالث العامة، يقلّ ما يجب أن يُعزى إلى موروثٍ جيني خاصٍّ باللغة وحدها (العامل الأول)، وهو ما يجعل نشوء ملَكة اللغة تطورياً أكثر قابليةً للتفسير، نظراً لقصر المدة الزمنية التي ظهرت فيها في تاريخ الإنسان.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## الدافع التطوري
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+من أبرز دوافع هذا التحوّل هو إشكال «القصر التطوري» (Evolutionary Suddenness): فملَكة اللغة، بحسب تشومسكي، نشأت حديثاً نسبياً وبسرعةٍ في تاريخ الإنسان العاقل (ربما خلال أقلّ من مئة ألف سنة)، وهي مدةٌ قصيرةٌ جداً لتراكم آلياتٍ فطرية معقدة عبر الانتقاء الطبيعي التدريجي. فإذا كان جوهر اللغة يعود إلى مبادئ عامة سابقة على اللغة نفسها (العامل الثالث) واقترنت طفرةٌ واحدة بسيطة (كنشوء عملية الدمج) بها، أمكن تفسير هذا الظهور المفاجئ بصورةٍ أكثر اتساقاً مع علم الأحياء التطوري.
 
-## Experimental Evidence
+## الأثر في البرنامج الأدنوي
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+أعاد هذا الإطار توجيه أبحاث البرنامج الأدنوي نحو البحث عن اشتقاق خصائص نحوية كانت تُفترض فطريةً (كشرط الإسقاط، أو قيود التنقّل النحوي) من مبادئ كفاءةٍ حوسبية عامة، مثل «البحث المحلي الأدنى» و«عدم التطفّل» (No-Tampering)؛ كما غذّى نقاشاتٍ في اللسانيات الحيوية (Biolinguistics) حول ما إذا كانت اللغة البشرية فريدةً حقاً بين أنظمة التواصل الحيوانية أم أنها إعادة توظيفٍ لقدراتٍ حوسبيةٍ عامة.
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+## المصادر
 
-## Cross-Linguistic Applications
-
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Chomsky, Noam. "Three Factors in Language Design." *Linguistic Inquiry*, 36(1), 2005.
+- Chomsky, Noam. "On Phases." In *Foundational Issues in Linguistic Theory*, eds. Freidin, Otero & Zubizarreta. MIT Press, 2008.
+- Boeckx, Cedric. *Bare Syntax*. Oxford University Press, 2008.
+- Hauser, Marc D., Chomsky, Noam, & Fitch, W. Tecumseh. "The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?" *Science*, 298(5598), 2002.

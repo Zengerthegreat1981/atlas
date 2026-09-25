@@ -20,28 +20,30 @@ gaps: []
 
 # الاحتياطيُّ المعرفيُّ والثنائيةُ اللغوية عند بياليستوك
 
-## Definition
+## التعريف
 
-Bilingualism is competence in two languages. Bilinguals manage two language systems, switching between them and sometimes mixing them. Bilingual cognition differs from monolingual cognition in systematic ways.
+الاحتياطيُّ المعرفي (Cognitive Reserve) مفهومٌ يصف القدرةَ التكيّفية للدماغ على تحمّل التلف العصبي المرتبط بالتقدّم في السن أو المرض دون ظهور أعراضٍ إكلينيكية مبكرة، عبر استخدام شبكاتٍ عصبية بديلة أو أكثر كفاءة. طبّقت إلين بياليستوك هذا المفهومَ على الثنائية اللغوية، مفترضةً أن الإدارةَ المستمرّة لنظامين لغويين نشطين طوال العمر تُدرِّب شبكاتِ التحكّم التنفيذي وتراكم احتياطياً معرفياً وقائياً.
 
-## Language Representation
+## الدراسةُ التأسيسية: تأخّرُ ظهور أعراض الخرف
 
-Bilinguals have separate phonological and syntactic systems for each language. Semantic representation may be shared or separate depending on language similarity and individual differences. Lexical access involves both languages; non-target language words can interfere.
+في دراستها الرائدة مع فيرغُس كريِك وموريس فريدمان (2007)، راجعت بياليستوك سجلّاتٍ طبية لمرضى في عيادة ذاكرة في تورنتو، نصفُهم ثنائيُّ اللغة، ووجدت أن عمرَ ظهور أعراض الخرف تأخّر لدى الثنائيين نحو 4.1 سنة مقارنةً بأحاديي اللغة، رغم تماثل الفئتين في المستوى التعليمي والوظيفي. فُسِّر هذا الفارقُ بأن الثنائية اللغوية لا تمنع المرضَ العصبي نفسَه بل تؤخّر ظهورَ أعراضه الإكلينيكية عبر احتياطيٍّ معرفي أكبر يُخفي التدهورَ لفترةٍ أطول.
 
-## Code-switching
+## الآليةُ المفترَضة: التحكّمُ التنفيذي
 
-Bilinguals strategically mix languages following systematic rules. They don't randomly mix; grammatical structure constrains mixing. Code-switching requires maintaining separation between systems while accessing both simultaneously.
+تربط بياليستوك هذا الأثرَ بضرورة إدارة تنافس اللغتين المفعَّلتين باستمرار لدى ثنائي اللغة (كما يصفه نموذجُ BIA+ ونموذجُ التحكّم الكابح عند غرين)، إذ يتطلّب اختيارُ اللغة الصحيحة وكبحُ تداخل الأخرى تدريباً مستمراً لدوائر التحكّم التنفيذي في الفص الجبهي، وهو ما ينعكس تحسّناً وظيفياً في مهامّ الكبح وتبديل المهمّات حتى خارج السياق اللغوي.
 
-## Cognitive Effects
+## التكرارُ والتحقّق عبر ثقافات مختلفة
 
-Bilinguals show executive control advantages: better inhibition and task-switching. Bilingual exposure delays some vocabulary growth initially but supports metalinguistic awareness. Long-term bilingualism supports cognitive reserve against aging.
+أُعيد اختبارُ هذا الأثر في عيّناتٍ من الهند وبلجيكا والصين وأماكنَ أخرى، وأكّدته تحليلاتٌ تجميعية لاحقة، وإن تفاوتت أحجامُ الأثر بحسب طبيعة العيّنة وشدّة الاستخدام اللغوي. وأشارت بياليستوك أيضاً إلى ملاحظةٍ مهمّة: رغم تأخّر ظهور الأعراض، يكون التدهورُ بعد التشخيص أسرعَ لدى الثنائيين، لأن الاحتياطيَّ المعرفي يُخفي شدّةَ المرض الفعلية لا يُبطئها بيولوجياً.
 
-## Neural Organization
+## أزمةُ التكرار والنقد
 
-Brain imaging shows bilinguals use overlapping regions for both languages. Language switching activates left prefrontal cortex (executive control). Proficiency and age of acquisition affect neural organization.
+تعرّض ادعاءُ "ميزة ثنائية اللغة" المعرفية العامة (لا فقط في تأخير الخرف) لنقدٍ منهجي واسع في العقد الأخير، إذ فشلت دراساتٌ عديدة كبيرة الحجم في تكرار أثر التفوّق التنفيذي لدى الثنائيين الأصحّاء الشباب، وأُثير احتمالُ تحيّز النشر (Publication Bias) في الأدبيات المبكرة. يبقى أثرُ تأخير أعراض الخرف تحديداً أكثرَ الادعاءات صموداً نسبياً أمام هذا النقد، لكنه لا يزال موضعَ نقاشٍ منهجي مستمر حول حجم الأثر ومصادر التداخل المحتملة (كالوضع الاجتماعي الاقتصادي وأنماط الهجرة).
 
-## References
+## المصادر
 
-- Kroll, J. F., & Tokowicz, N. (2005). "Models of bilingual representation." *Handbook of Bilingualism*, 531-553.
-- Bialystok, E. (2017). "The bilingual adaptation." *Current Directions in Psychological Science*, 26(3), 233-237.
+- Bialystok, E., Craik, F. I. M., & Freedman, M. (2007). "Bilingualism as a protection against the onset of symptoms of dementia." *Neuropsychologia*, 45(2), 459-464.
+- Craik, F. I. M., Bialystok, E., & Freedman, M. (2010). "Delaying the onset of Alzheimer disease: Bilingualism as a form of cognitive reserve." *Neurology*, 75(19), 1726-1729.
+- Berkes, M., & Bialystok, E. (2022). "Bilingualism as a Contributor to Cognitive Reserve." *Journal of Cognitive Enhancement*.
+- de Bruin, A., Treccani, B., & Della Sala, S. (2015). "Cognitive Advantage in Bilingualism: An Example of Publication Bias?" *Psychological Science*, 26(1), 99-107.
 

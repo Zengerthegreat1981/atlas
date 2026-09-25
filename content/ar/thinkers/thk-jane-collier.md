@@ -13,8 +13,11 @@ birth_country: "الولايات المتحدة"
 active_start: 1975
 active_end: "مستمر"
 edges:
+- rel: "belongs_to", target: "sch-gender-kinship-studies", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-feminist-anthropology", target_type: "مدرسة"
 related:
+- id: "con-kinship-political-economy", title: "القرابة والاقتصاد السياسي (Kinship and Political Economy)", type: "مفهوم"
+- id: "con-gender-kinship-intersection", title: "تقاطع الجندر والقرابة (Gender-Kinship Intersection)", type: "مفهوم"
 - id: "sch-feminist-anthropology", title: "الأنثروبولوجيا النسوية", type: "مدرسة"
 - id: "thk-sylvia-yanagisako", title: "سيلفيا يانجسكو", type: "مفكر"
 - id: "thk-david-schneider", title: "ديفيد شنايدر", type: "مفكر"

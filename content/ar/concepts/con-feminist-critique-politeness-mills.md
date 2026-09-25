@@ -20,31 +20,30 @@ gaps: []
 
 # النقدُ النسويُّ لنظرية التأدّب عند ميلز
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+قدّمت سارة ميلز، في كتابها المرجعي *Gender and Politeness* (2003)، نقداً نسوياً جذرياً لنظرية التأدّب الكلاسيكية عند براون وليڤنسون، يعترض على افتراضين أساسيين في الأدبيات السائدة عن اللغة والجندر: أن النساءَ أكثرُ تأدّباً من الرجال بطبيعتهنّ اللغوية، وأن أفعالاً كلامية بعينها "مؤدَّبة" أو "غير مؤدَّبة" بجوهرها بمعزل عن التفاعل الفعلي.
 
-## Theoretical Framework
+## نقدُ الافتراض الجوهري: "النساءُ أكثرُ تأدّباً"
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+ترى ميلز أن الزعمَ الشائع بأن النساء أكثرُ تأدّباً من الرجال مستمَدٌّ من صورةٍ نمطية عن "لغة النساء" لا من دراسةٍ منهجية دقيقة لسلوكهنّ اللغوي الفعلي. صحيحٌ أن متحدّثاتٍ يوظِّفن أحياناً أنماطاً تُقرأ اجتماعياً بوصفها "مؤدَّبة" استناداً إلى توقّعات الأنوثة السائدة، لكن هذا سلوكٌ سياقي مشروط لا سمةً جوهرية ثابتة، وتوجد سياقاتٌ كثيرة تتصرّف فيها المتحدّثاتُ بلا تأدّبٍ بالقدر نفسه الذي يتصرّف فيه الرجال.
 
-## Key Principles
+## نقدُ نموذج براون وليڤنسون: الفعلُ الكلامي بذاته ليس مؤدَّباً
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+تعترض ميلز على الافتراض البنيوي الذي يقوم عليه نموذجُ براون وليڤنسون، القائل بأن أنماطاً لغوية معيّنة (كصيغ التلطيف أو الأسئلة غير المباشرة) "مؤدَّبةٌ" بطبيعتها بصرف النظر عن سياق استعمالها. ترى ميلز أن التأدّبَ ليس خاصيةً كامنة في الفعل الكلامي نفسِه، بل حكمٌ تفاعليٌّ (Interactional Judgement) يُبنى بالاشتراك بين إنتاج المتكلّم واستقبال السامع وتأويله في موقفٍ بعينه، فالجملةُ نفسُها قد تُقرأ مؤدَّبةً في سياقٍ وساخرةً أو عدوانية في سياقٍ آخر.
 
-## Evidence Sources
+## البديلُ المقترَح: منظورٌ تفاعليٌّ سياقي
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+تقترح ميلز إطاراً بديلاً يعامل التأدّبَ والفظاظةَ بوصفهما أحكاماً اجتماعية تصدر عن المشارِكين أنفسهم حول شخصية المتكلّم وسلوكه الكلّي في التفاعل، لا تصنيفاً لأنماطَ لغوية بعينها بمعزل عن السياق. يستلزم هذا تحليلَ جماعاتِ الممارسة (Communities of Practice) المحدَّدة التي يجري فيها التفاعل، إذ تختلف معاييرُ ما يُعدُّ مؤدَّباً باختلاف الجماعة والسياق المؤسسي والعلاقات القائمة بين المتحاورين.
 
-## Contemporary Applications
+## الأثر على دراسات اللغة والجندر
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+مثّل هذا النقدُ منعطفاً مهماً في دراسات اللغة والجندر، إذ حوَّل السؤالَ البحثي من "هل النساء أكثرُ تأدّباً؟" إلى "كيف تُبنى توقّعاتُ التأدّب الجندرية اجتماعياً، ومتى تُستخدَم هذه التوقّعاتُ لتقييم سلوك النساء تقييماً مزدوج المعايير؟"، وأسهم في الانتقال من مقاربة "الفروق الجندرية" الساكنة إلى مقاربة "الأداء الجندري" (Performativity) الأكثر ديناميكية.
 
-## References
+## المصادر
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+- Mills, S. (2003). *Gender and Politeness*. Cambridge University Press.
+- Mills, S. (2005). "Gender and Impoliteness." *Journal of Politeness Research*, 1(2), 263-280.
+- Brown, P., & Levinson, S. C. (1987). *Politeness: Some Universals in Language Usage*. Cambridge University Press.
+- Holmes, J., & Meyerhoff, M. (Eds.) (2003). *The Handbook of Language and Gender*. Blackwell.
 

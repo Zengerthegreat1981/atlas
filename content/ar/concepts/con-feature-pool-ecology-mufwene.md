@@ -21,36 +21,30 @@ gaps: []
 
 # مجمعُ السمات والمقاربةُ البيئية-التطوّرية عند مفوين
 
-## Definition
+## التعريف
 
-Distinctive features decompose phonemes into minimal binary properties. /p/ and /b/ differ in voicing: /p/ = [-voice], /b/ = [+voice]. Features explain why sounds pattern together in rules and predict natural phonological classes.
+مجمعُ السمات (Feature Pool) مفهومٌ محوري في المقاربة البيئية-التطوّرية للغة عند سليكوكو مفوين، صاغه في كتابه المرجعي *The Ecology of Language Evolution* (2001)، مستعيراً استعارةً من علم الأحياء التطوّري (بالتوازي مع "مجمع المورِّثات" Gene Pool)، ليصف مجموعَ السماتِ اللغوية المتنوّعة — الصوتية والصرفية والمعجمية والنحوية — التي يسهم بها متحدّثون مختلفون في موقفِ تماسٍّ لغوي واحد، فتتنافس هذه السماتُ فيما بينها على البقاء والانتشار داخل النظام اللغوي الناشئ.
 
-## Historical Development
+## المنطقُ التطوّري: التنافسُ والانتقاء
 
-Trubetzkoy (1930s) first proposed feature-based analysis. Jakobson (1951) created comprehensive 12-feature system. SPE (Chomsky & Halle 1968) shifted to articulatory features. Modern Feature Geometry organizes features hierarchically.
+يطبّق مفوين منطقاً شبيهاً بالانتقاء الطبيعي الدارويني على تطوّر اللغة: كل مجمع سماتٍ يحتوي على بدائلَ متنافسة (صيغتَي نطقٍ لكلمةٍ واحدة، أو قاعدتين نحويتين متعارضتين)، وتُحدِّد العواملُ البيئية الاجتماعية — كثافةُ التماسّ، وموازينُ القوى بين المتحدّثين، وبنيةُ الشبكة الاجتماعية — أيَّ هذه السمات ينتشر ويُنتقى، وأيَّها يندثر. اكتسابُ اللغة عند المتعلّم الفرد، بحسب مفوين، ليس استقبالاً سلبياً لنظامٍ جاهز بل إعادةَ بناءٍ فردية (Idiolect Recreation) تنتقي فيها كلُّ ذات من مجمع السمات المتاح لها في محيطها الفعلي.
 
-## Feature Types and Examples
+## تطبيقُه على نشوء الكريول
 
-Place features: [±labial], [±coronal], [±dorsal]
-Manner features: [±nasal], [±continuant], [±strident]
-Laryngeal features: [±voice], [±spread glottis]
+طوّر مفوين هذا الإطارَ أساساً لتفسير نشوء لغات الكريول في سياقات الاستعمار والاسترقاق، رافضاً فرضيةَ البرنامج اللغوي الحيوي التي تُرجِع بنيةَ الكريول إلى قدرةٍ فطرية عالمية موحَّدة عند الأطفال. يرى مفوين بدلاً من ذلك أن بنيةَ كل كريول تُفسَّر ببيئته التاريخية الاجتماعية المحدَّدة: تركيبةُ اللغات المتاحة في مجمع السمات (لغاتُ المستعمِرين واللغات الإفريقية المختلفة)، ونسبةُ المتحدّثين الأصليين إلى المتعلّمين الجدد، وظروفُ التماسّ في بيئة المزرعة أو الحصن الاستعماري تحديداً.
 
-Each phoneme is a bundle: /p/ = [+consonantal, -sonorant, +labial, -continuant, -voice]
+## مبدأُ المؤسِّس
 
-## Natural Classes
+يرتبط مجمعُ السمات ارتباطاً وثيقاً بمبدأ المؤسِّس (Founder Principle) عند مفوين، الذي ينصّ على أن السماتِ اللغوية التي يحملها أوائلُ المتحدّثين المؤسِّسين لمجتمعٍ لغوي جديد تحظى بتأثيرٍ غير متناسب في تشكيل بنية اللغة الناشئة لاحقاً، حتى لو صار هؤلاء المؤسِّسون لاحقاً أقليةً عددية ضمن المجتمع الأوسع.
 
-Features predict natural classes—groups of sounds patterning together. All [+nasal] (m, n, ŋ) undergo identical rules. All [+continuant] share phonological behavior.
+## الأهمية النظرية
 
-## Experimental Evidence
+قدّمت هذه المقاربةُ بديلاً بيئياً-اجتماعياً لتفسيرات التماسّ اللغوي التي كانت تعتمد إما على تفسيراتٍ بنيوية بحتة أو على فرضياتٍ فطرية عالمية، وأكّدت أن التغيّرَ اللغوي عموماً — لا الكريول وحده — يمكن فهمُه بمنطقٍ تطوّري واحد يربط الاختيارَ الفردي بالبنية الاجتماعية الأوسع.
 
-ERPs show distinct neural signatures for different feature types. Developmental studies show children acquire feature distinctions gradually. Phonological rules across languages target same feature classes.
+## المصادر
 
-## Contemporary Applications
-
-Feature theory explains first language acquisition order. Speech pathology uses features to characterize disorders. Computational models learn feature systems from data.
-
-## References
-
-- Jakobson, R., Fant, G., & Halle, M. (1951). *Preliminaries to Speech Analysis*. MIT Press.
-- Chomsky, N., & Halle, M. (1968). *The Sound Pattern of English*. Harper and Row.
+- Mufwene, S. S. (2001). *The Ecology of Language Evolution*. Cambridge University Press.
+- Mufwene, S. S. (2008). *Language Evolution: Contact, Competition and Change*. Continuum.
+- Mufwene, S. S. (2001). "The Founder Principle in Creole Genesis." *Diachronica*, 13(1), 83-134.
+- Mufwene, S. S. (2013). "Language Ecology, Language Evolution, and the Actuation Question." In *Language Change: Approaches, Methods, and Applications*.
 

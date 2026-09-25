@@ -11,264 +11,264 @@ related_programs:
   - tec-relationship-enhancement
 ---
 
-# CSAT: Couples Sexual Satisfaction Scale
+# CSAT: مقياس الرضا الجنسي للأزواج (Couples Sexual Satisfaction Scale)
 
-The Couples Sexual Satisfaction Scale (CSAT) is a brief, self-report measure of sexual satisfaction, pleasure, and function within couples relationships. Designed to assess both subjective satisfaction and relationship quality specific to the sexual domain, the CSAT addresses a key component of couple well-being often overlooked in general marital satisfaction measures.
+مقياس الرضا الجنسي للأزواج (CSAT) أداة تقرير ذاتي موجزة تقيس الرضا الجنسي والمتعة والوظيفة الجنسية داخل علاقة الزوجين. صُمم لتقييم الرضا الذاتي وجودة العلاقة في المجال الجنسي تحديداً، ويتناول CSAT مكوناً أساسياً من رفاه الزوجين كثيراً ما تغفله مقاييس الرضا الزواجي العامة.
 
-## Development & Purpose
+## التطوير والغرض
 
-**Developers:** Stephanie D. Mondor and colleagues (Canadian research, 2011)
+**المطورون:** ستيفاني د. موندور (Stephanie D. Mondor) وزملاؤها (بحث كندي، 2011)
 
-**Original goal:** Create brief, validated measure of sexual satisfaction that captures both pleasure and relational quality
+**الهدف الأصلي:** إنشاء مقياس موجز ومتحقَّق منه للرضا الجنسي يلتقط المتعة وجودة العلاقة معاً
 
-**Motivation:** Sexual satisfaction is distinct from marital satisfaction; many couples have good marriages but sexual dissatisfaction or vice versa
+**الدافع:** الرضا الجنسي مختلف عن الرضا الزواجي؛ فكثير من الأزواج لديهم زواج جيد لكن عدم رضا جنسي، أو العكس
 
-**Application:** Couple counseling, premarital assessment, sex therapy, relationship education, research
+**التطبيق:** إرشاد الأزواج، التقييم قبل الزواج، العلاج الجنسي، التثقيف حول العلاقات، البحث
 
-**Advantages over single-item sexual satisfaction questions:** Multi-item structure provides better reliability and captures multiple aspects of sexual satisfaction
+**مزايا مقارنة بأسئلة الرضا الجنسي أحادية البند:** البنية متعددة البنود توفر ثباتاً أفضل وتلتقط جوانب متعددة من الرضا الجنسي
 
-## Format & Content
+## الصيغة والمحتوى
 
-**Number of items:** 5 items (brief version); 10 items (longer version available)
+**عدد البنود:** 5 بنود (النسخة الموجزة)؛ 10 بنود (نسخة أطول متاحة)
 
-**Item domains:**
-1. Sexual desire/interest
-2. Orgasm frequency and satisfaction
-3. Pleasure and enjoyment
-4. Sexual function (arousal, erection, lubrication as applicable)
-5. Overall sexual satisfaction
+**مجالات البنود:**
+1. الرغبة/الاهتمام الجنسي
+2. تكرار النشوة والرضا عنها
+3. المتعة والاستمتاع
+4. الوظيفة الجنسية (الإثارة، الانتصاب، الترطيب بحسب الحالة)
+5. الرضا الجنسي العام
 
-**Response scale:** Typically 0-8 or 1-8 scale (ranging from "not satisfied" to "very satisfied")
+**مقياس الاستجابة:** عادة مقياس من 0-8 أو 1-8 (يتراوح من "غير راضٍ" إلى "راضٍ جداً")
 
-**Administration time:** 2-3 minutes
+**زمن التطبيق:** 2-3 دقائق
 
-**Format:** Self-administered, anonymous (important given sexual sensitivity)
+**الصيغة:** ذاتي التطبيق ومجهول الهوية (مهم نظراً لحساسية الموضوع الجنسي)
 
-**Dyadic completion:** Both partners complete independently; allows comparison
+**التطبيق الثنائي:** يكمل كل من الشريكين الاستبيان بشكل مستقل؛ يتيح المقارنة
 
-## Scoring
+## التصحيح
 
-**Simple sum or mean of item responses:** Total score ranges from 0-40 (5-item) or 0-80 (10-item)
+**جمع بسيط أو متوسط استجابات البنود:** الدرجة الكلية تتراوح من 0-40 (5 بنود) أو 0-80 (10 بنود)
 
-**Score interpretation:**
-- **Higher scores:** greater sexual satisfaction
-- **Lower scores:** sexual dissatisfaction, problems
-- **Cutoff:** typically >20 indicates satisfaction; <15 suggests concerns
+**تفسير الدرجة:**
+- **الدرجات الأعلى:** رضا جنسي أكبر
+- **الدرجات الأدنى:** عدم رضا جنسي، مشكلات
+- **درجة القطع:** عادة أعلى من 20 تشير إلى الرضا؛ أقل من 15 تشير إلى مخاوف
 
-**Partner comparison:**
-- **Similar scores (gap <5):** agreement about sexual satisfaction
-- **Discrepant scores** (gap >8): one satisfied, one not; may indicate mismatched desires, communication problems, or one partner feeling pressured/unsatisfied
+**مقارنة الشريكين:**
+- **درجات متقاربة (فرق أقل من 5):** اتفاق حول الرضا الجنسي
+- **درجات متباينة (فرق أكبر من 8):** أحدهما راضٍ والآخر غير راضٍ؛ قد يشير إلى تباين في الرغبات أو مشكلات تواصل أو شعور أحد الشريكين بالضغط/عدم الرضا
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-### Reliability
-- **Internal consistency:** Cronbach's alpha typically .90+ (excellent)
-- **Test-retest:** correlation .80+, indicating stable measurement over time
-- **Factor structure:** primarily unidimensional (overall sexual satisfaction)
+### الثبات
+- **الاتساق الداخلي:** ألفا كرونباخ عادة 0.90 فأعلى (ممتاز)
+- **ثبات الإعادة:** ارتباط 0.80 فأعلى، يشير إلى قياس مستقر عبر الزمن
+- **البنية العاملية:** أحادية البعد بشكل أساسي (الرضا الجنسي العام)
 
-### Validity
-- **Concurrent validity:** correlates with other sexual satisfaction measures (r=.70+)
-- **Criterion validity:** distinguishes sexually satisfied from dissatisfied couples
-- **Discriminant validity:** sexual satisfaction distinct from marital satisfaction (correlate r=.40-.60)
-- **Sensitivity:** detects change with sexual therapy or couples work
+### الصدق
+- **الصدق التلازمي:** يرتبط بمقاييس رضا جنسي أخرى (r=0.70 فأعلى)
+- **صدق المحك:** يميّز الأزواج الراضين جنسياً عن غير الراضين
+- **الصدق التمييزي:** الرضا الجنسي متميز عن الرضا الزواجي (ارتباط r=0.40-0.60)
+- **الحساسية:** يكشف التغير مع العلاج الجنسي أو العمل مع الأزواج
 
-### Strengths
-- **Psychometrically sound:** reliable and valid
-- **Practical:** brief and easy to administer repeatedly
-- **Specific:** captures sexual satisfaction distinct from marital satisfaction
-- **Comprehensive enough:** captures multiple aspects (desire, pleasure, orgasm, function)
+### نقاط القوة
+- **سليم سيكومترياً:** ثابت وصادق
+- **عملي:** موجز وسهل التطبيق المتكرر
+- **نوعي:** يلتقط الرضا الجنسي متمايزاً عن الرضا الزواجي
+- **شامل بما يكفي:** يلتقط جوانب متعددة (الرغبة، المتعة، النشوة، الوظيفة)
 
-### Limitations
-- **Newer instrument:** less research history than decades-old measures
-- **Cultural variation:** sexual attitudes/norms vary; interpretation should consider cultural context
-- **Sample size in development:** developed in relatively small Canadian sample; may benefit from larger validation
-- **Sexuality assumes heteronormative model:** some items may need adaptation for LGBTQ+ couples
+### أوجه القصور
+- **أداة حديثة النشأة:** تاريخ بحثي أقصر من المقاييس العريقة
+- **التفاوت الثقافي:** المواقف/الأعراف الجنسية تتفاوت؛ يجب مراعاة السياق الثقافي في التفسير
+- **حجم العينة في التطوير:** طُوّرت في عينة كندية صغيرة نسبياً؛ قد تستفيد من تحقق أوسع
+- **يفترض نموذجاً غيريّاً:** قد تحتاج بعض البنود تكييفاً لأزواج مجتمع الميم
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### Premarital & Relationship Education
-- PREPARE/ENRICH and other premarital programs include sexual satisfaction assessment
-- Baseline measurement before counseling
-- Identifies sexual concerns to address in couple education
+### التثقيف قبل الزواج وحول العلاقات
+- تتضمن برامج PREPARE/ENRICH وغيرها من برامج ما قبل الزواج تقييم الرضا الجنسي
+- قياس خط أساس قبل الإرشاد
+- تحديد المخاوف الجنسية لتناولها في تثقيف الزوجين
 
-### Sex Therapy
-- Baseline assessment before therapy
-- Repeated measurement to track progress
-- Outcome evaluation for sexual dysfunction treatment
-- Motivational tool showing improvement
+### العلاج الجنسي
+- تقييم خط أساس قبل العلاج
+- قياس متكرر لتتبع التقدم
+- تقييم النتائج لعلاج الخلل الوظيفي الجنسي
+- أداة تحفيزية تُظهر التحسن
 
-### Couples Therapy
-- Sexual satisfaction is often not directly assessed in general couple therapy
-- CSAT provides focused measurement of sexual relationship
-- Many couples improve sexually when general communication improves; track this separately
+### علاج الأزواج
+- كثيراً ما لا يُقيَّم الرضا الجنسي مباشرة في علاج الأزواج العام
+- يوفر CSAT قياساً مركّزاً للعلاقة الجنسية
+- يتحسن الرضا الجنسي لدى كثير من الأزواج عند تحسن التواصل العام؛ يجب تتبع ذلك بشكل منفصل
 
-### Premarital Counseling
-- Identified sexual concerns can be addressed before marriage
-- Normalization that different desires and concerns are common
-- Skills training (communication about sex, intimacy building)
+### الإرشاد قبل الزواج
+- يمكن تناول المخاوف الجنسية المحددة قبل الزواج
+- تطبيع أن اختلاف الرغبات والمخاوف أمر شائع
+- تدريب المهارات (التواصل حول الجنس، بناء الحميمية)
 
-### Research
-- Outcome studies of couple interventions
-- Investigation of relationship between sexual satisfaction and marital quality
-- Cross-cultural research on sexual satisfaction norms
+### البحث
+- دراسات نتائج تدخلات الأزواج
+- بحث العلاقة بين الرضا الجنسي وجودة الزواج
+- بحث عبر ثقافي حول أعراف الرضا الجنسي
 
-## Interpretation & Clinical Use
+## التفسير والاستخدام السريري
 
-### Individual Scores
-- **High satisfaction (>25/40):** satisfied with sexual relationship; may maintain focus or explore how to deepen intimacy
-- **Moderate satisfaction (15-25):** some concerns; identify what could improve (communication, frequency, desire, arousal, stress management)
-- **Low satisfaction (<15):** significant sexual concerns; may warrant sex therapy referral or deeper assessment
+### الدرجات الفردية
+- **رضا مرتفع (أكثر من 25/40):** راضٍ عن العلاقة الجنسية؛ قد يُبقى التركيز أو يُستكشف تعميق الحميمية
+- **رضا متوسط (15-25):** بعض المخاوف؛ تحديد ما قد يُحسّن الوضع (التواصل، التكرار، الرغبة، الإثارة، إدارة الضغط)
+- **رضا منخفض (أقل من 15):** مخاوف جنسية كبيرة؛ قد تستدعي إحالة إلى علاج جنسي أو تقييماً أعمق
 
-### Common Issues Identified
+### المشكلات الشائعة المحددة
 
-**Low desire/interest (Item 1 low, others variable):**
-- Biological: hormonal, medication side effects, fatigue
-- Psychological: stress, depression, anxiety, past trauma
-- Relational: disconnection from partner, communication problems
-- Interventions: stress management, medical evaluation, intimacy building, therapy
+**انخفاض الرغبة/الاهتمام (انخفاض البند 1، الباقي متغير):**
+- بيولوجية: هرمونية، آثار جانبية للأدوية، الإرهاق
+- نفسية: الضغط، الاكتئاب، القلق، صدمة سابقة
+- علائقية: انفصال عن الشريك، مشكلات تواصل
+- التدخلات: إدارة الضغط، تقييم طبي، بناء الحميمية، العلاج
 
-**Arousal/function difficulties (Item 4 low):**
-- Erectile dysfunction, low arousal in women, pain with intercourse
-- May have biological (medical) or psychological roots
-- Intervention: medical evaluation, relaxation, sensate focus, communication
+**صعوبات الإثارة/الوظيفة (انخفاض البند 4):**
+- ضعف الانتصاب، انخفاض الإثارة لدى النساء، الألم أثناء الجماع
+- قد تكون لها جذور بيولوجية (طبية) أو نفسية
+- التدخل: تقييم طبي، الاسترخاء، التركيز الحسي، التواصل
 
-**Orgasm difficulties (Item 2 low):**
-- Frequency or ease of orgasm lower than desired
-- Psychological factors (performance anxiety, negative beliefs about pleasure)
-- Communication: partner doesn't know what stimulation is needed
-- Intervention: education, exploration, communication building
+**صعوبات النشوة (انخفاض البند 2):**
+- تكرار أو سهولة الوصول إلى النشوة أقل من المرغوب
+- عوامل نفسية (قلق الأداء، معتقدات سلبية عن المتعة)
+- التواصل: لا يعرف الشريك نوع التحفيز المطلوب
+- التدخل: التثقيف، الاستكشاف، بناء التواصل
 
-**Overall low pleasure (Item 3 low):**
-- Sex feels obligatory, rushed, disconnected
-- Relationship issues extending into sexual relationship
-- Time and stress factors
-- Intervention: priority time, relational work, stress reduction
+**انخفاض المتعة العام (انخفاض البند 3):**
+- يبدو الجنس إلزامياً أو متسرعاً أو منفصلاً
+- مشكلات العلاقة تمتد إلى العلاقة الجنسية
+- عوامل الوقت والضغط
+- التدخل: تخصيص وقت له أولوية، العمل العلائقي، تخفيف الضغط
 
-### Dyadic Patterns
-- **Both satisfied:** celebrate and maintain; assess if areas to deepen further
-- **Both dissatisfied:** identify common barrier (communication? stress? medical? relational distance?)
-- **Discrepant satisfaction:** explore why; one may want more frequency, different type of activity, feel pressured, or be withholding
+### الأنماط الثنائية
+- **كلاهما راضٍ:** الاحتفاء بذلك والحفاظ عليه؛ تقييم مجالات ممكن تعميقها أكثر
+- **كلاهما غير راضٍ:** تحديد العائق المشترك (التواصل؟ الضغط؟ طبي؟ بعد علائقي؟)
+- **رضا متباين:** استكشاف السبب؛ قد يرغب أحدهما في تكرار أكبر أو نشاط مختلف، أو يشعر بالضغط، أو يمتنع
 
-## Strengths & Limitations
+## نقاط القوة وأوجه القصور
 
-### Strengths
-- **Specific:** focuses on sexual satisfaction distinct from general marital satisfaction
-- **Brief:** quick to administer in busy clinical settings
-- **Reliable and valid:** good psychometric properties
-- **Practical:** easily repeated for progress monitoring
-- **Holistic:** captures desire, pleasure, function, satisfaction
-- **Sensitive:** detects change with intervention
-- **Sensitive topic handled well:** brief format reduces burden discussing intimate issues
+### نقاط القوة
+- **نوعي:** يركز على الرضا الجنسي متمايزاً عن الرضا الزواجي العام
+- **موجز:** سريع التطبيق في الأوساط السريرية المزدحمة
+- **ثابت وصادق:** خصائص سيكومترية جيدة
+- **عملي:** يسهل تكراره لرصد التقدم
+- **شامل:** يلتقط الرغبة والمتعة والوظيفة والرضا
+- **حساس:** يكشف التغير مع التدخل
+- **معالجة جيدة لموضوع حساس:** الصيغة الموجزة تقلل عبء مناقشة المسائل الحميمة
 
-### Limitations
-- **Newer instrument:** less extensive research history than older measures
-- **Cultural sensitivity required:** sexual norms and values vary; score interpretation needs cultural context
-- **Assumes sexual activity:** not designed for couples not having sex (may need different framing)
-- **Gender differences:** items may resonate differently for men vs. women due to physiological differences
-- **LGBTQ+ adaptation needed:** some items written with heterosexual assumptions; requires thoughtful language with LGBTQ+ couples
-- **Doesn't identify specific problems:** low score indicates dissatisfaction but not root cause
-- **Doesn't measure:** relational aspects like emotional intimacy, affection beyond sexual acts
-- **Limited medical information:** doesn't assess medical conditions affecting sexuality
+### أوجه القصور
+- **أداة حديثة النشأة:** تاريخ بحثي أقل شمولاً من المقاييس الأقدم
+- **حساسية ثقافية مطلوبة:** الأعراف والقيم الجنسية تتفاوت؛ يحتاج تفسير الدرجة إلى سياق ثقافي
+- **يفترض نشاطاً جنسياً:** غير مصمم للأزواج غير الممارسين للجنس (قد يحتاج صياغة مختلفة)
+- **فروق جندرية:** قد تتفاوت استجابة البنود بين الرجال والنساء بسبب الفروق الفسيولوجية
+- **يحتاج تكييفاً لمجتمع الميم:** كُتبت بعض البنود بافتراضات غيرية؛ يتطلب صياغة متأنية مع أزواج مجتمع الميم
+- **لا يحدد مشكلات بعينها:** الدرجة المنخفضة تشير إلى عدم الرضا لكن ليس السبب الجذري
+- **لا يقيس:** الجوانب العلائقية كالحميمية العاطفية والمودة خارج الفعل الجنسي
+- **معلومات طبية محدودة:** لا يقيّم الحالات الطبية المؤثرة في الجنسانية
 
-## Use in Couple Interventions
+## الاستخدام في تدخلات الأزواج
 
-### PREPARE/ENRICH Programs
-- Sexual satisfaction component of comprehensive assessment
-- Couple discussion about sexual relationship in premarital counseling
-- Identifies couples needing additional sexual education or therapy
+### برامج PREPARE/ENRICH
+- مكوّن الرضا الجنسي جزء من التقييم الشامل
+- نقاش الزوجين حول العلاقة الجنسية في الإرشاد قبل الزواج
+- تحديد الأزواج المحتاجين إلى تثقيف جنسي إضافي أو علاج
 
-### Gottman Method
-- Emphasizes physical affection and sexual satisfaction
-- CSAT aligns with attention to sexual relationship
+### طريقة غوتمان (Gottman)
+- تشدد على المودة الجسدية والرضا الجنسي
+- يتوافق CSAT مع الاهتمام بالعلاقة الجنسية
 
-### Emotionally Focused Therapy (EFT)
-- May use CSAT to measure sexual satisfaction improvement as emotional intimacy grows
-- Often sexual satisfaction improves when emotional connection increases
+### العلاج المركّز على الانفعال (Emotionally Focused Therapy - EFT)
+- قد يُستخدم CSAT لقياس تحسن الرضا الجنسي مع نمو الحميمية العاطفية
+- غالباً ما يتحسن الرضا الجنسي مع زيادة الاتصال العاطفي
 
-### Sex Therapy
-- Brief outcome measure for sexual dysfunction treatment
-- Tracks progress in treatment of orgasm, arousal, desire, or pain issues
+### العلاج الجنسي
+- مقياس نتائج موجز لعلاج الخلل الوظيفي الجنسي
+- يتتبع التقدم في علاج مشكلات النشوة أو الإثارة أو الرغبة أو الألم
 
-## Comparison with Other Sexual Satisfaction Measures
+## المقارنة مع مقاييس رضا جنسي أخرى
 
-**Similar measures:**
-- **Global Sexual Satisfaction Index (GSSI):** single-item global rating
-- **Index of Sexual Satisfaction (ISS):** 25-item detailed measure
-- **Sexual Satisfaction Scale for Women (SSS-W):** gender-specific for women
-- **Custom sexual satisfaction questions:** clinicians create own based on specific issues
+**مقاييس مشابهة:**
+- **مؤشر الرضا الجنسي العام (GSSI):** تقدير عام أحادي البند
+- **مؤشر الرضا الجنسي (ISS):** مقياس مفصل من 25 بنداً
+- **مقياس الرضا الجنسي للنساء (SSS-W):** خاص بالنساء
+- **أسئلة رضا جنسي مخصصة:** يُنشئها الإكلينيكيون بناءً على مشكلات محددة
 
-**CSAT advantages:**
-- Brief but comprehensive enough (5-10 items balances detail with practicality)
-- Psychometrically validated
-- Works for both men and women
-- Accessible language
+**مزايا CSAT:**
+- موجز لكنه شامل بما يكفي (5-10 بنود توازن بين التفصيل والعملية)
+- متحقَّق منه سيكومترياً
+- يصلح للرجال والنساء
+- لغة سهلة الفهم
 
-**CSAT limitations:**
-- Shorter than ISS but less detailed than comprehensive measures
-- Newer so less research history
+**أوجه قصور CSAT:**
+- أقصر من ISS لكنه أقل تفصيلاً من المقاييس الشاملة
+- حديث النشأة فتاريخه البحثي أقل
 
-## Cultural & Diverse Considerations
+## اعتبارات ثقافية وتنوعية
 
-### Language & Norms
-- Sexual desire, activity, and satisfaction vary by culture
-- Interpretation should consider cultural norms
-- Some cultures may have stigma around discussing sexuality
-- Frame assessment carefully with cultural sensitivity
+### اللغة والأعراف
+- تتفاوت الرغبة والنشاط والرضا الجنسي بحسب الثقافة
+- ينبغي أن يراعي التفسير الأعراف الثقافية
+- قد يكون هناك وصم في بعض الثقافات حول مناقشة الجنسانية
+- صياغة التقييم بعناية ومراعاة ثقافية
 
-### LGBTQ+ Couples
-- Language may need adaptation (e.g., "intercourse" not applicable)
-- Sexual satisfaction includes variety of activities; keep framing inclusive
-- Some items may need gendered rewording
+### أزواج مجتمع الميم
+- قد تحتاج اللغة تكييفاً (مثلاً، "الجماع" غير منطبق دائماً)
+- الرضا الجنسي يشمل أنشطة متنوعة؛ يجب إبقاء الصياغة شاملة
+- قد تحتاج بعض البنود إعادة صياغة غير مرتبطة بالجندر
 
-### Age-Specific Considerations
-- Younger couples: sexual desire often higher, less likely dysfunction
-- Older adults: sex may become less frequent but deeply meaningful
-- Interpretation and intervention differ by age
+### اعتبارات خاصة بالعمر
+- الأزواج الأصغر سناً: الرغبة الجنسية غالباً أعلى، احتمال الخلل الوظيفي أقل
+- كبار السن: قد يقل تكرار الجنس لكنه يصبح ذا معنى أعمق
+- يختلف التفسير والتدخل باختلاف العمر
 
-### Medical/Health Status
-- Sexual satisfaction affected by illness, medications, surgery
-- Assessment should consider health context
-- Referral to medical provider when indicated
+### الحالة الطبية/الصحية
+- يتأثر الرضا الجنسي بالمرض والأدوية والجراحة
+- ينبغي أن يراعي التقييم السياق الصحي
+- الإحالة إلى مقدم رعاية طبية عند الحاجة
 
-## Practical Guidelines for Clinicians
+## إرشادات عملية للإكلينيكيين
 
-**Administration:**
-- Normalize assessment: "We look at all parts of your relationship, including sexual relationship"
-- Ensure privacy: both partners complete independently
-- Can be paper, computer, or verbal (verbal may feel more natural for sensitive topic)
-- Reassure confidentiality
+**التطبيق:**
+- تطبيع التقييم: "ننظر إلى جميع جوانب علاقتكما، بما فيها العلاقة الجنسية"
+- ضمان الخصوصية: يكمل كل من الشريكين الاستبيان بشكل مستقل
+- يمكن أن يكون ورقياً أو حاسوبياً أو شفهياً (الشفهي قد يبدو أكثر طبيعية لموضوع حساس)
+- طمأنة السرية
 
-**Scoring:**
-- Quick calculation of mean or sum
-- Share results with couple together or separately depending on comfort
+**التصحيح:**
+- حساب سريع للمتوسط أو المجموع
+- مشاركة النتائج مع الزوجين معاً أو منفردين بحسب الراحة
 
-**Interpretation:**
-- Lead with strengths (what's working sexually)
-- Explore low scores: "What would help?" not "What's wrong?"
-- Non-judgmental curiosity about sexual experience
-- May refer to sex therapist if specialized issues
+**التفسير:**
+- البدء بنقاط القوة (ما الذي ينجح جنسياً)
+- استكشاف الدرجات المنخفضة: "ما الذي قد يساعد؟" وليس "ما الخطأ؟"
+- فضول غير قائم على الحكم حيال التجربة الجنسية
+- قد يُحال إلى معالج جنسي في المسائل المتخصصة
 
-**Follow-up:**
-- Repeated measurement after intervention
-- Graph showing improvement motivating
-- Celebrate progress
+**المتابعة:**
+- قياس متكرر بعد التدخل
+- رسم بياني يُظهر التحسن كعامل تحفيزي
+- الاحتفاء بالتقدم
 
-## Primary Sources & Resources
+## المصادر
 
 1. Mondor, S.D., McDuff, P., Labbé, A.A., & Arsenault, N. (2011). Couples Sexual Satisfaction Scale: A validation study. Sexual and Relationship Therapy, 26(2), 156-167.
 2. Meston, C.M., & Frohlich, P.F. (2000). The neurobiology of sexual function. Archives of General Psychiatry, 57(11), 1012-1030.
 3. Leiblum, S.R. (1998). An introduction to sex therapy. In A.S. Bellack & M. Hersen (Eds.), Comprehensive clinical psychology (pp. 367-383). Elsevier Science.
 4. Masters, W.H., & Johnson, V.E. (1966). Human sexual response. Little, Brown.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Sexual satisfaction
-- Marital satisfaction
-- Sexual function
-- Desire and arousal
-- Orgasm
-- Sexual communication
-- Intimacy
-- Sex therapy
-- Relational sexuality
-- Sexual health
+- الرضا الجنسي
+- الرضا الزواجي
+- الوظيفة الجنسية
+- الرغبة والإثارة
+- النشوة الجنسية
+- التواصل الجنسي
+- الحميمية
+- العلاج الجنسي
+- الجنسانية العلائقية
+- الصحة الجنسية

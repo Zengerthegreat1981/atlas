@@ -6,286 +6,286 @@ part: psychology
 parent: major schools
 ---
 
-# Evolutionary Psychology
+# علم النفس التطوري (Evolutionary Psychology)
 
-Evolutionary psychology applies principles of evolution and natural selection to understand human behavior, cognition, and emotion. It posits that psychological mechanisms evolved to solve adaptive problems faced by ancestors in ancestral environments, enabling survival and reproduction.
+يطبّق علم النفس التطوري مبادئ التطور والانتخاب الطبيعي لفهم السلوك البشري والإدراك والانفعال. ويفترض أن الآليات النفسية تطورت لحل مشكلات تكيّفية واجهها الأسلاف في البيئات السلفية، بما يتيح البقاء والتكاثر.
 
-## Historical Development
+## التطور التاريخي
 
-**Foundations (1859-1970s):**
-- Charles Darwin: Evolution and human descent (1859, 1871)
-- William James: Functionalism; habits, instincts as adaptive
-- Edward Thorndike, B.F. Skinner: Evolution of behavior through learning
+**الأسس (1859-السبعينيات):**
+- تشارلز داروين (Charles Darwin): التطور وأصل الإنسان (1859، 1871)
+- ويليام جيمس (William James): الوظيفية؛ العادات والغرائز كتكيّفات
+- إدوارد ثورندايك وب. ف. سكينر (Edward Thorndike, B.F. Skinner): تطور السلوك عبر التعلّم
 
-**Modern emergence (1970s-1990s):**
-- John Tooby & Leda Cosmides: "The Adapted Mind" (1992), computational theory of mind
-- David Buss: Sexual selection, mating psychology
-- Martin Daly & Margo Wilson: Murder and family violence from evolutionary perspective
-- Randy Thornhill, Craig Palmer: Rape as adaptation debate
-- Steven Pinker: How the Mind Works, evolutionary synthesis
+**الظهور الحديث (السبعينيات-التسعينيات):**
+- جون توبي وليدا كوزميدز (John Tooby & Leda Cosmides): "العقل المتكيّف" (1992)، النظرية الحاسوبية للعقل
+- ديفيد بَس (David Buss): الانتخاب الجنسي، سيكولوجيا التزاوج
+- مارتن دالي ومارغو ويلسون (Martin Daly & Margo Wilson): القتل والعنف الأسري من منظور تطوري
+- راندي ثورنهيل وكريغ بالمر (Randy Thornhill, Craig Palmer): جدل الاغتصاب بوصفه تكيّفاً
+- ستيفن بينكر (Steven Pinker): كيف يعمل العقل، التركيب التطوري
 
-**Contemporary (2000s-present):**
-- Evolutionary clinical psychology: dysfunction as malfunction or byproduct
-- Gene-culture coevolution approaches
-- Developmental evolutionary psychology: ontogeny and evolution
-- Cross-cultural validation of evolutionary predictions
+**المعاصر (العقد الأول من الألفية حتى الآن):**
+- علم النفس السريري التطوري: الخلل الوظيفي كعطل أو نتاج ثانوي
+- مناهج التطور المشترك للجينات والثقافة
+- علم النفس التطوري التطوّري: النمو الفردي والتطور
+- التحقق عبر الثقافات من التنبؤات التطورية
 
-## Core Theoretical Concepts
+## المفاهيم النظرية الأساسية
 
-### Natural Selection & Adaptation
+### الانتخاب الطبيعي والتكيّف
 
-**Selection pressures:**
-- Survival (predators, disease, starvation, climate)
-- Reproduction (mate attraction, fertility, parental investment)
-- Kin selection (helping relatives share genes)
-- Reciprocal altruism (cooperation with non-kin)
+**ضغوط الانتخاب:**
+- البقاء (المفترسات، المرض، المجاعة، المناخ)
+- التكاثر (جذب الشريك، الخصوبة، الاستثمار الوالدي)
+- انتخاب الأقارب (مساعدة الأقارب المشتركين في الجينات)
+- الإيثار التبادلي (التعاون مع غير الأقارب)
 
-**Adaptive mechanisms:**
-- Psychological traits that increased fitness in ancestral environment
-- May no longer be optimal in modern environment (evolutionary mismatch)
-- Specific domain modules vs. general-purpose learning
+**الآليات التكيّفية:**
+- سمات نفسية زادت من اللياقة في البيئة السلفية
+- قد لا تكون مثلى بعد الآن في البيئة الحديثة (عدم التطابق التطوري)
+- وحدات خاصة بمجال معين مقابل التعلّم العام الغرض
 
-### Environment of Evolutionary Adaptedness (EEA)
+### بيئة التكيّف التطوري (EEA)
 
-**Ancestral context:**
-- Pleistocene era: African savanna, small groups, high mortality
-- No antibiotics, modern medicine, technology, or institutional structures
-- Food scarcity, predation, disease, social hierarchy challenges
-- Reproductive competition, pair-bonding dilemmas, parental uncertainty
+**السياق السلفي:**
+- العصر البليستوسيني: السافانا الأفريقية، جماعات صغيرة، معدل وفيات مرتفع
+- لا مضادات حيوية ولا طب حديث ولا تكنولوجيا ولا بنى مؤسسية
+- ندرة الغذاء، الافتراس، المرض، تحديات التراتب الاجتماعي
+- التنافس التكاثري، معضلات الارتباط الزوجي، عدم اليقين الوالدي
 
-**EEA implications:**
-- We possess mechanisms adapted to ancestral, not modern, environment
-- Technology/culture far outpaced evolutionary change
-- Explains why modern stimuli trigger ancient responses (junk food cravings, social status anxiety)
+**دلالات بيئة التكيّف التطوري:**
+- نملك آليات متكيّفة مع البيئة السلفية، وليس الحديثة
+- التكنولوجيا/الثقافة سبقتا التغير التطوري بمراحل بعيدة
+- يفسر لماذا تُثير المثيرات الحديثة استجابات قديمة (الرغبة في الوجبات السريعة، قلق المكانة الاجتماعية)
 
-### Reproductive Success & Inclusive Fitness
+### النجاح التكاثري واللياقة الشاملة
 
-**Natural selection metric:**
-- Inclusive fitness: genes passed to offspring + genes shared with relatives
-- Sexual selection: traits increasing mating success (peacock tails, human status)
-- Parental investment theory: different selection pressures males vs. females
-- Intrasexual competition: same-sex rivalry for mates
-- Intersexual choice: mate selection strategies
+**مقياس الانتخاب الطبيعي:**
+- اللياقة الشاملة: الجينات المنقولة للنسل + الجينات المشتركة مع الأقارب
+- الانتخاب الجنسي: سمات تزيد نجاح التزاوج (ذيل الطاووس، مكانة الإنسان)
+- نظرية الاستثمار الوالدي: ضغوط انتخاب مختلفة بين الذكور والإناث
+- التنافس ضمن الجنس الواحد: منافسة على الشركاء
+- الاختيار بين الجنسين: استراتيجيات اختيار الشريك
 
-**Sex differences in mating psychology:**
-- Females: higher parental investment, choosier about mates, long-term commitment seeking
-- Males: lower investment, compelled to compete, quantity bias in mating
-- But: human mating highly flexible, biparental, culturally variable
+**الفروق الجنسية في سيكولوجيا التزاوج:**
+- الإناث: استثمار والدي أعلى، انتقائية أكبر بشأن الشركاء، سعي للالتزام طويل الأمد
+- الذكور: استثمار أقل، دافع للتنافس، ميل نحو الكمّ في التزاوج
+- لكن: التزاوج البشري مرن جداً وثنائي الوالدية ومتفاوت ثقافياً
 
-## Major Domains of Study
+## المجالات الرئيسية للدراسة
 
-### Mating & Sexual Psychology
+### سيكولوجيا التزاوج والجنس
 
-**Core mechanisms:**
-- Sexual jealousy (mate guarding, paternity uncertainty in males; emotional infidelity in females)
-- Attraction criteria (health indicators, status, fertility cues)
-- Parental investment asymmetries
-- Mate poaching and intrasexual competition
-- Offspring provisioning and childcare
+**الآليات الأساسية:**
+- الغيرة الجنسية (حراسة الشريك، عدم اليقين من الأبوة لدى الذكور؛ الخيانة العاطفية لدى الإناث)
+- معايير الجاذبية (مؤشرات الصحة، المكانة، إشارات الخصوبة)
+- تفاوتات الاستثمار الوالدي
+- استمالة الشريك والتنافس ضمن الجنس نفسه
+- إعالة النسل ورعاية الأطفال
 
-**Adaptive problems solved:**
-- Identifying reproductively valuable mates
-- Assessing mate commitment and quality
-- Ensuring genetic paternity
-- Competing with same-sex rivals
-- Maintaining pair bonds
+**المشكلات التكيّفية المحلولة:**
+- تحديد الشركاء ذوي القيمة التكاثرية
+- تقييم التزام الشريك وجودته
+- ضمان الأبوة الجينية
+- التنافس مع المنافسين من الجنس نفسه
+- الحفاظ على الروابط الزوجية
 
-### Aggression & Violence
+### العدوان والعنف
 
-**Evolutionary triggers:**
-- Intrasexual competition for mates/resources (male violence peaks in reproductive years)
-- Status seeking and dominance hierarchies
-- Kinship alliances and group conflict
-- Resource acquisition and defense
-- Female aggression: coalition-based, resource defense, mate guarding
+**المحفزات التطورية:**
+- التنافس ضمن الجنس نفسه على الشركاء/الموارد (يبلغ عنف الذكور ذروته في سنوات التكاثر)
+- السعي للمكانة والتراتب الهيمني
+- تحالفات القرابة وصراع المجموعات
+- الحصول على الموارد والدفاع عنها
+- عدوان الإناث: قائم على التحالف، دفاع عن الموارد، حراسة الشريك
 
-**Maladaptive violence:**
-- Modern mismatch: dominance violence in low-violence societies
-- Impulsive homicide often low-benefit (evolutionary cost/benefit model violated)
-- Sexual coercion debate: adaptation, byproduct, or social construct?
+**العنف غير التكيّفي:**
+- عدم التطابق الحديث: عنف الهيمنة في مجتمعات منخفضة العنف
+- القتل الاندفاعي غالباً ما يكون منخفض الفائدة (انتهاك نموذج التكلفة/الفائدة التطوري)
+- جدل الإكراه الجنسي: تكيّف، أم نتاج ثانوي، أم بناء اجتماعي؟
 
-### Fear & Anxiety
+### الخوف والقلق
 
-**Adaptive fears:**
-- Predators, snakes, heights, dark, strangers (ancient threats)
-- Social anxiety (status, rejection in group contexts)
-- Contamination fear (disease pathogen avoidance)
-- Separation anxiety (protection of young, maintaining proximity)
+**المخاوف التكيّفية:**
+- المفترسات، الثعابين، المرتفعات، الظلام، الغرباء (تهديدات قديمة)
+- القلق الاجتماعي (المكانة، الرفض في سياقات جماعية)
+- خوف التلوث (تجنب مسببات الأمراض)
+- قلق الانفصال (حماية الصغار، الحفاظ على القرب)
 
-**Modern phobias:**
-- Fear of modern dangers (cars, electricity) learned less readily
-- Preparedness theory: evolutionary history determines learning bias
-- Social anxiety persists despite lack of physical danger
-- Anxiety disorders as overactive threat-detection systems
+**الرهاب الحديث:**
+- يُتعلَّم الخوف من الأخطار الحديثة (السيارات، الكهرباء) بسهولة أقل
+- نظرية الاستعداد: التاريخ التطوري يحدد تحيّز التعلّم
+- يستمر القلق الاجتماعي رغم غياب الخطر الجسدي
+- اضطرابات القلق كأنظمة كشف تهديد مفرطة النشاط
 
-### Cooperation & Altruism
+### التعاون والإيثار
 
-**Kin selection:**
-- Hamilton's rule: help relatives proportional to shared genes
-- Nepotism universal, but magnitude varies culturally
-- Parental care obligate, kin aid conditional
+**انتخاب الأقارب:**
+- قاعدة هاملتون: مساعدة الأقارب بما يتناسب مع الجينات المشتركة
+- المحاباة القرابية عالمية، لكن مقدارها يتفاوت ثقافياً
+- الرعاية الوالدية إلزامية، مساعدة الأقارب مشروطة
 
-**Reciprocal altruism:**
-- Trivers' theory: help others expecting return benefit
-- Requires memory, cheater detection, delayed reciprocity
-- Reputation tracking, gossip as cheater detector
-- Explains human friendship, coalition, morality
+**الإيثار التبادلي:**
+- نظرية تريفرز: مساعدة الآخرين توقعاً لمقابل
+- يتطلب الذاكرة، كشف الغشاشين، التبادل المؤجل
+- تتبع السمعة، النميمة ككاشف للغشاشين
+- يفسر الصداقة البشرية والتحالف والأخلاق
 
-**Group selection (controversial):**
-- Multilevel selection: within-group cooperation, between-group competition
-- Parochialism: favor in-group, discriminate out-group
-- Moral systems: coalitional psychology, fairness enforcement
+**الانتخاب الجماعي (مثير للجدل):**
+- الانتخاب متعدد المستويات: تعاون داخل المجموعة، تنافس بين المجموعات
+- التعصب المحلي: تفضيل المجموعة الداخلية والتمييز ضد الخارجية
+- الأنظمة الأخلاقية: سيكولوجيا التحالف، إنفاذ العدالة
 
-### Attachment & Family
+### التعلق والأسرة
 
-**Parental-infant bonding:**
-- Infant signals (crying, cuteness) trigger caregiving
-- Separation distress (ensuring proximity maintenance)
-- Secure base for exploration (balancing safety and learning)
-- Critical periods debatable; flexibility higher than once thought
+**الترابط الوالدي-الطفلي:**
+- إشارات الرضيع (البكاء، اللطافة) تُثير الرعاية
+- ضيق الانفصال (ضمان الحفاظ على القرب)
+- القاعدة الآمنة للاستكشاف (موازنة الأمان والتعلّم)
+- الفترات الحرجة قابلة للنقاش؛ المرونة أعلى مما كان يُعتقد سابقاً
 
-**Sibling dynamics:**
-- Conflict over parental investment (individual reproductive interests diverge)
-- Coalitional alliance (especially opposite-sex siblings)
-- Order effects: firstborn privilege or later-born flexibility
+**ديناميكيات الأخوة:**
+- الصراع على الاستثمار الوالدي (تباعد المصالح التكاثرية الفردية)
+- التحالف (خاصة بين الأشقاء من الجنسين المختلفين)
+- آثار الترتيب: امتياز البكر أو مرونة المولودين لاحقاً
 
-**Family violence:**
-- Step-parent risk: Cinderella hypothesis (child abuse risk higher with unrelated parent)
-- Parental infanticide triggers: extreme burden, non-paternity, disability
-- Incest avoidance: Westermarck effect (co-rearing in childhood reduces sexual attraction)
+**العنف الأسري:**
+- خطر زوج الأب/زوجة الأب: فرضية سندريلا (خطر إساءة معاملة الطفل أعلى مع والد غير قرابي)
+- محفزات قتل الوالدين للرضيع: عبء شديد، عدم يقين من الأبوة، إعاقة
+- تجنب سفاح المحارم: أثر فيسترمارك (التربية المشتركة في الطفولة تقلل الجاذبية الجنسية)
 
-### Social Status & Dominance
+### المكانة الاجتماعية والهيمنة
 
-**Hierarchy seeking:**
-- Coalition politics: male alliances compete for status
-- Status acquisition through competence, generosity, toughness
-- Cultural variation: meritocratic vs. authoritarian hierarchies
-- Female status via other-alliances, nurturing, prestige
+**السعي إلى التراتب:**
+- سياسات التحالف: تحالفات الذكور تتنافس على المكانة
+- اكتساب المكانة عبر الكفاءة والسخاء والصلابة
+- التفاوت الثقافي: تراتبات جدارية مقابل سلطوية
+- مكانة الإناث عبر تحالفات أخرى، والرعاية، والهيبة
 
-**Conspicuous consumption:**
-- Fitness signaling through costly displays (resources, health, intelligence)
-- Fashion, luxury goods, physical training as status signals
-- Peacocking: exaggerated traits beyond practical function
+**الاستهلاك التفاخري:**
+- إشارة اللياقة عبر عروض مكلفة (الموارد، الصحة، الذكاء)
+- الموضة، السلع الفاخرة، التدريب البدني كإشارات مكانة
+- التبختر: سمات مبالغ فيها تتجاوز الوظيفة العملية
 
-### Moral Psychology & Justice
+### السيكولوجيا الأخلاقية والعدالة
 
-**Moral intuitions:**
-- Fairness/reciprocity detection (cheater detection)
-- Harm/care moral foundations
-- Loyalty/betrayal (in-group cohesion)
-- Authority/subversion (hierarchy respect)
-- Sanctity/degradation (contamination and purity)
+**الحدوس الأخلاقية:**
+- كشف الإنصاف/المعاملة بالمثل (كشف الغشاشين)
+- أسس أخلاقية الضرر/الرعاية
+- الولاء/الخيانة (تماسك المجموعة الداخلية)
+- السلطة/التخريب (احترام التراتب)
+- القداسة/الانحطاط (التلوث والطهارة)
 
-**Punishment & revenge:**
-- Preference for proportional justice (eye for an eye)
-- Cooperation enforcement (punishing free-riders)
-- Reputation restoration (escalating violence cycles)
-- Forgiveness conditional on repentance
+**العقاب والانتقام:**
+- تفضيل العدالة التناسبية (العين بالعين)
+- إنفاذ التعاون (معاقبة المستفيدين المجانيين)
+- استعادة السمعة (دورات تصعيد العنف)
+- الصفح مشروط بالندم
 
-## Therapeutic Applications
+## التطبيقات العلاجية
 
-### Evolutionary Clinical Psychology
+### علم النفس السريري التطوري
 
-**Disorder reframing:**
-- Psychopathology as malfunction (broken mechanism) vs. byproduct (spandrel)
-- Some disorders: overactivated ancestral mechanisms (anxiety, disgust, jealousy)
-- Others: modern mismatch problems (internet addiction, body image)
-- Evolutionary psychotherapy: normalize adaptive roots, manage maladaptive expression
+**إعادة صياغة الاضطراب:**
+- الاعتلال النفسي كعطل (آلية معطلة) مقابل نتاج ثانوي (تطفّل بنيوي)
+- بعض الاضطرابات: آليات سلفية مفرطة النشاط (القلق، الاشمئزاز، الغيرة)
+- أخرى: مشكلات عدم التطابق الحديث (إدمان الإنترنت، صورة الجسد)
+- العلاج النفسي التطوري: تطبيع الجذور التكيّفية وإدارة التعبير غير التكيّفي
 
-**Treatment implications:**
-- Anxiety: acknowledge ancestral fears valid but overactive; exposure therapy as disconfirmation
-- Depression: possible rank theory (surrendering costly competition); reassert agency
-- Sexual dysfunction: sex roles, cultural expectations vs. evolved preferences
-- Personality disorders: adaptive strategies in wrong context (callousness in ruthless environment adaptive, elsewhere pathological)
+**دلالات العلاج:**
+- القلق: الاعتراف بأن المخاوف السلفية صالحة لكنها مفرطة النشاط؛ العلاج بالتعرض كنفي للتوقعات
+- الاكتئاب: نظرية الرتبة المحتملة (الاستسلام في تنافس مكلف)؛ إعادة تأكيد الفاعلية
+- الخلل الوظيفي الجنسي: الأدوار الجنسية والتوقعات الثقافية مقابل التفضيلات المتطورة
+- اضطرابات الشخصية: استراتيجيات تكيّفية في سياق خاطئ (القسوة تكيّفية في بيئة قاسية، مرضية في غيرها)
 
-### Couples & Family Therapy
+### علاج الأزواج والأسرة
 
-**Mating conflicts:**
-- Sexual jealousy intervention: understand evolutionary triggers, build trust
-- Parental investment conflicts: partner expectations around child-rearing, division of labor
-- Infidelity: both biological drive and cultural rules; context matters
-- Communication: understanding divergent male/female reproductive interests
+**نزاعات التزاوج:**
+- تدخل الغيرة الجنسية: فهم المحفزات التطورية وبناء الثقة
+- نزاعات الاستثمار الوالدي: توقعات الشريك حول تربية الأطفال وتقسيم العمل
+- الخيانة الزوجية: دافع بيولوجي وقواعد ثقافية معاً؛ السياق مهم
+- التواصل: فهم المصالح التكاثرية المتباعدة بين الذكور والإناث
 
-**Parent-child therapy:**
-- Sibling rivalry: normative competition over parental investment
-- Discipline: balance affection (attachment) with boundaries (behavioral shaping)
-- Adolescent rebellion: coalitional politics with peers vs. family authority
+**علاج الوالدين والأطفال:**
+- تنافس الأخوة: تنافس معياري على الاستثمار الوالدي
+- الانضباط: موازنة المودة (التعلق) مع الحدود (التشكيل السلوكي)
+- تمرد المراهقين: سياسات تحالف مع الأقران مقابل سلطة الأسرة
 
-## Research Methods
+## مناهج البحث
 
-**Comparative approach:**
-- Cross-species behavior: primates, chimps, bonobos, other mammals
-- Cross-cultural human studies: testing predictions across societies
-- Historical analysis: polygyny rates, warfare, mating systems
+**النهج المقارن:**
+- السلوك عبر الأنواع: الرئيسيات، الشمبانزي، البونوبو، ثدييات أخرى
+- الدراسات البشرية عبر الثقافات: اختبار التنبؤات عبر المجتمعات
+- التحليل التاريخي: معدلات تعدد الزوجات، الحرب، أنظمة التزاوج
 
-**Experimental methods:**
-- Hypothetical vignettes: jealousy triggers, attraction criteria
-- Behavioral measures: time allocation, resource sharing, aggression
-- Neuroimaging: brain activity during morally relevant scenarios
-- Hormone correlations: testosterone-dominance, oxytocin-bonding
+**المناهج التجريبية:**
+- السيناريوهات الافتراضية: محفزات الغيرة، معايير الجاذبية
+- المقاييس السلوكية: تخصيص الوقت، تقاسم الموارد، العدوان
+- التصوير العصبي: نشاط الدماغ أثناء سيناريوهات ذات دلالة أخلاقية
+- ارتباطات هرمونية: التستوستيرون-الهيمنة، الأوكسيتوسين-الترابط
 
-**Computational modeling:**
-- Evolutionary game theory: strategies, arms races, stable equilibria
-- Agent-based models: simulating selection pressures across generations
-- Bayesian optimal agents: what rational decision-maker should do
+**النمذجة الحاسوبية:**
+- نظرية الألعاب التطورية: الاستراتيجيات، سباقات التسلح، التوازنات المستقرة
+- النماذج القائمة على الوكيل: محاكاة ضغوط الانتخاب عبر الأجيال
+- الوكلاء المثاليون البايزيون: ما ينبغي أن يفعله صانع قرار عقلاني
 
-## Strengths
+## نقاط القوة
 
-- **Unifying framework:** explains diverse behaviors through single principle
-- **Cross-cultural prediction:** testable, falsifiable hypotheses across populations
-- **Integration:** connects psychology, biology, anthropology, ecology
-- **Clinical relevance:** explains dysfunction origins, guides intervention
-- **Explanatory power:** accounts for otherwise puzzling biases and behaviors
+- **إطار موحِّد:** يفسر سلوكيات متنوعة عبر مبدأ واحد
+- **التنبؤ عبر الثقافات:** فرضيات قابلة للاختبار والدحض عبر الفئات السكانية
+- **التكامل:** يربط علم النفس بالبيولوجيا والأنثروبولوجيا والإيكولوجيا
+- **الصلة السريرية:** يفسر أصول الخلل الوظيفي ويوجّه التدخل
+- **القوة التفسيرية:** يفسر تحيزات وسلوكيات محيّرة لولا ذلك
 
-## Limitations & Criticisms
+## أوجه القصور والانتقادات
 
-**Philosophical:**
-- Just-so stories: post-hoc explanations unfalsifiable (adaptationist assumption)
-- Genetic determinism: overstates genetic influence, underestimates learning and culture
-- Moral implications: naturalistic fallacy (what is, is what should be)
+**فلسفية:**
+- قصص "لِمَ لا": تفسيرات بأثر رجعي غير قابلة للدحض (افتراض تكيّفي)
+- الحتمية الجينية: تبالغ في التأثير الجيني وتقلل من التعلّم والثقافة
+- الدلالات الأخلاقية: المغالطة الطبيعانية (ما هو كائن هو ما ينبغي أن يكون)
 
-**Methodological:**
-- EEA unknowable: actual ancestral pressures imperfectly reconstructed
-- Modularity assumption: domain-specific modules not empirically verified
-- Reverse inference problem: observing trait doesn't prove adaptation claim
-- Alternative explanations: byproducts, cultural evolution, development
+**منهجية:**
+- بيئة التكيّف التطوري غير معروفة: الضغوط السلفية الفعلية يُعاد بناؤها بشكل ناقص
+- افتراض النمطية: الوحدات الخاصة بمجال معين غير مُتحقَّق منها تجريبياً
+- مشكلة الاستدلال العكسي: ملاحظة السمة لا تثبت ادعاء التكيّف
+- تفسيرات بديلة: نواتج ثانوية، تطور ثقافي، النمو الفردي
 
-**Empirical:**
-- Cross-cultural variation sometimes contradicts universal predictions
-- Mating theory: oversimplifies human pair-bonds, ignores love and commitment
-- Sex differences: many predictions weak or contradicted by research
-- Modern behavior: not clearly ancestral adaptation (internet use, wealth accumulation)
+**تجريبية:**
+- التفاوت عبر الثقافات يناقض أحياناً التنبؤات العالمية
+- نظرية التزاوج: تبسط الروابط الزوجية البشرية وتغفل الحب والالتزام
+- الفروق الجنسية: كثير من التنبؤات ضعيفة أو يناقضها البحث
+- السلوك الحديث: ليس تكيّفاً سلفياً واضحاً (استخدام الإنترنت، تراكم الثروة)
 
-**Political:**
-- Misuse for gender inequality justification
-- Racism: evolutionary arguments used to defend ethnocentrism
-- Reductionism: flattens cultural meaning, historical contingency
+**سياسية:**
+- سوء الاستخدام لتبرير عدم المساواة الجندرية
+- العنصرية: استُخدمت الحجج التطورية للدفاع عن التمركز العرقي
+- الاختزالية: تُسطّح المعنى الثقافي والاحتمالية التاريخية
 
-## Contemporary Integration
+## التكامل المعاصر
 
-**Modern evolutionary psychology emphasizes:**
-- Gene-culture coevolution: genetic and cultural evolution interact
-- Developmental plasticity: ancestral mechanisms flexible, sensitive to input
-- Evoked vs. transmitted culture: behavior responds to local conditions
-- Pluralism: evolution one lens among many (not sole explanation)
+**يشدد علم النفس التطوري الحديث على:**
+- التطور المشترك للجينات والثقافة: يتفاعل التطور الجيني والثقافي
+- المرونة النمائية: الآليات السلفية مرنة وحساسة للمدخلات
+- الثقافة المُثارة مقابل المنقولة: يستجيب السلوك للظروف المحلية
+- التعددية: التطور عدسة واحدة من عدة عدسات (وليس التفسير الوحيد)
 
-**Interdisciplinary connections:**
-- Behavioral ecology: applying evolutionary logic across species
-- Anthropology: testing predictions in diverse societies
-- Neuroscience: mapping ancient mechanisms in modern brain
-- Medicine: evolutionary psychiatry, treating dysfunction as malfunction
+**روابط متعددة التخصصات:**
+- الإيكولوجيا السلوكية: تطبيق المنطق التطوري عبر الأنواع
+- الأنثروبولوجيا: اختبار التنبؤات في مجتمعات متنوعة
+- علم الأعصاب: رسم خرائط الآليات القديمة في الدماغ الحديث
+- الطب: الطب النفسي التطوري، معاملة الخلل كعطل
 
-## Major Contemporary Figures
+## الشخصيات المعاصرة الرئيسية
 
-- David Buss: Mating strategies, sexual psychology
-- Leda Cosmides & John Tooby: Computational approach, cheater detection
-- Martin Daly & Margo Wilson: Homicide, family violence
-- Randy Thornhill: Sexual conflict, parasite stress
-- David Salmon: Sibling conflict, family psychology
-- Paul Ekman: Emotion expression, face reading
-- Simon Baron-Cohen: Autism-spectrum, sex differences in systemizing
+- ديفيد بَس (David Buss): استراتيجيات التزاوج، سيكولوجيا الجنس
+- ليدا كوزميدز وجون توبي (Leda Cosmides & John Tooby): النهج الحاسوبي، كشف الغشاشين
+- مارتن دالي ومارغو ويلسون (Martin Daly & Margo Wilson): القتل، العنف الأسري
+- راندي ثورنهيل (Randy Thornhill): الصراع الجنسي، ضغط الطفيليات
+- ديفيد سالمون (David Salmon): صراع الأخوة، سيكولوجيا الأسرة
+- بول إيكمان (Paul Ekman): التعبير الانفعالي، قراءة الوجه
+- سايمون بارون-كوهين (Simon Baron-Cohen): طيف التوحد، الفروق الجنسية في التمنهج
 
-## Primary Sources
+## المصادر
 
 1. Tooby, J., & Cosmides, L. (1992). The adapted mind: Evolutionary psychology and the generation of culture. Oxford University Press.
 2. Buss, D.M. (2018). Evolutionary psychology: The new science of the mind (5th ed.). Routledge.
@@ -293,14 +293,14 @@ Evolutionary psychology applies principles of evolution and natural selection to
 4. Pinker, S. (1997). How the mind works. W.W. Norton.
 5. Barrett, H.C., & Broesch/Clarkson, M.E. (2014). Facing the future. Current Directions in Psychological Science, 23(2), 128-132.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Natural selection
-- Adaptation and fitness
-- Sexual selection
-- Parental investment
-- Kin selection
-- Mating psychology
-- Dominance hierarchies
-- Moral psychology
-- Gene-culture evolution
+- الانتخاب الطبيعي
+- التكيّف واللياقة
+- الانتخاب الجنسي
+- الاستثمار الوالدي
+- انتخاب الأقارب
+- سيكولوجيا التزاوج
+- تراتبات الهيمنة
+- السيكولوجيا الأخلاقية
+- تطور الجينات والثقافة

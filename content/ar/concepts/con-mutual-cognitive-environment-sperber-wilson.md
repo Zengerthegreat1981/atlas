@@ -20,31 +20,34 @@ gaps: []
 
 # البيئةُ المعرفيةُ المتبادَلة والظهورُ المشترَك عند سپربر وويلسون
 
-## Definition
+## التعريف
 
-Cognitive linguistics studies language as it relates to cognition. How do minds process language? How do linguistic structures reflect cognitive structures? The field bridges linguistics and cognitive science.
+البيئةُ المعرفية المتبادَلة (Mutual Cognitive Environment) مفهومٌ صاغه دان سپربر وديردري ويلسون ضمن نظرية الملاءمة في كتابهما التأسيسي *Relevance: Communication and Cognition* (1986)، بديلاً عن مفهوم "المعرفة المتبادَلة" (Mutual Knowledge) الإشكالي في التداولية الكلاسيكية، ليصف مجموعةَ الحقائق التي يمكن لكل طرفٍ من أطراف التفاعل التواصلي أن يدركها أو يتذكّرها أو يستدلّ عليها في لحظةٍ معيّنة، بحيث يكون ظاهراً لكل طرفٍ أن الطرفَ الآخر يشترك معه في القدرة على إدراك هذه الحقائق نفسِها.
 
-## Key Areas
+## الظهورُ (Manifestness) بديلاً عن المعرفة
 
-- Language comprehension: How do listeners parse sentences?
-- Language production: How do speakers formulate utterances?
-- Conceptual structure: How does language reflect thought?
-- Embodied cognition: How does physical experience shape language?
+الابتكارُ المفهومي الأساسي هو استبدال مفهوم "المعرفة" الصارم بمفهوم "الظهور" (Manifestness) الأضعف والأكثر واقعية: حقيقةٌ ما "ظاهرةٌ" لفردٍ إن كان قادراً على قبولها صادقةً أو محتملةَ الصدق في لحظةٍ معيّنة، سواءٌ كان واعياً بها فعلياً أم لا. هذا أوسع من "المعرفة" أو "الافتراض الفعلي"، إذ يشمل كل ما يمكن للفرد إدراكُه أو تذكّرُه أو استنتاجُه، لا فقط ما يعيه فعلياً في لحظة التواصل.
 
-## Processing
+## لماذا تتفادى النظريةُ "المعرفة المتبادَلة" الصريحة
 
-Readers and listeners incrementally build interpretations. Garden-path sentences temporarily mislead: "The horse raced past the barn fell" is difficult because "raced" initially seems like the main verb. Lexical ambiguity resolution shows context effects.
+انتقد سپربر وويلسون النماذجَ التداولية السابقة التي تشترط "معرفةً متبادَلة" صريحة (أن يعرف أ أن ب يعرف كذا، وأن يعرف ب أن أ يعرف أن ب يعرف، وهكذا في تسلسلٍ لا نهائي نظرياً) بوصفها متطلَّباً معرفياً غيرَ واقعي يصعب تحقيقُه فعلياً في أي تفاعلٍ بشري حقيقي. يحلّ مفهومُ "البيئة المعرفية المتبادَلة" هذه المعضلةَ باستبدال التسلسل اللانهائي الصريح بحالةٍ أضعف: يكفي أن تكون الحقيقةُ ظاهرةً لكلا الطرفين، وأن يكون ظاهراً لكليهما أنهما يتشاركان بيئةً معرفية واحدة تجعل هذا الظهورَ ممكناً، دون الحاجة إلى تأكيدٍ معرفي متسلسل صريح.
 
-## Acquisition
+## الوظيفةُ في التواصل الإشاري-الاستدلالي
 
-Children gradually develop linguistic competence through exposure. Early vocabulary relates to frequency and concreteness. Morphological rules are learned gradually, showing overgeneralization ("goed," "childs").
+تلعب البيئةُ المعرفية المتبادَلة دوراً محورياً في تفسير كيف ينجح التواصلُ الإشاري-الاستدلالي (Ostensive-Inferential Communication): حين يوجّه المتكلّمُ إشارةً تواصلية (لفظية أو غير لفظية)، يعتمد المخاطَبُ في استنتاج القصد المقصود على مجموعة الافتراضات الظاهرة المشترَكة بينهما، لا على معرفةٍ يقينية بما يدور بالضبط في ذهن المتكلّم، وهذا ما يفسّر كيف ينجح التواصلُ عملياً رغم استحالة الوصول المباشر إلى أذهان الآخرين.
 
-## Neural Substrate
+## العلاقةُ بمبدأ الملاءمة
 
-Brain areas: Broca's (speech production), Wernicke's (comprehension), left anterior language areas (grammar), right hemisphere (metaphor, discourse). Brain lesions affect language differently depending on location.
+يرتبط هذا المفهومُ ارتباطاً وثيقاً بمبدأ الملاءمة المعرفية نفسِه، إذ يفترض سپربر وويلسون أن المخاطَب يختار من بين الافتراضات الظاهرة في البيئة المعرفية المتبادَلة تلك التي تحقّق أكبرَ أثرٍ إدراكي بأقلّ جهدٍ معالجةٍ ممكن، فتوفّر البيئةُ المعرفية المتبادَلة "مساحةَ البحث" التي يعمل ضمنها الاستدلالُ التخاطبي، بينما يحدِّد مبدأ الملاءمة أيَّ الافتراضات ضمن هذه المساحة يُنتقى فعلياً.
 
-## References
+## الأثر
 
-- Culicover, P. W., & Jackendoff, R. (2005). *Simpler Syntax*. Oxford University Press.
-- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+قدّم هذا المفهومُ حلاً نظرياً مقنعاً لمشكلة "المعرفة المتبادَلة" العصيّة التي واجهت التداولية الفلسفية والحاسوبية طويلاً، وصار ركناً أساسياً في تفسير نظرية الملاءمة لكيفية ضبط التواصل الفعلي دون افتراض قدراتٍ معرفية استحالية الحدوث بشرياً.
+
+## المصادر
+
+- Sperber, D., & Wilson, D. (1986/1995). *Relevance: Communication and Cognition*. Blackwell.
+- Wilson, D., & Sperber, D. (2004). "Relevance Theory." In L. R. Horn & G. Ward (Eds.), *The Handbook of Pragmatics*. Blackwell.
+- Smith, N., & Wilson, D. (1992). "Introduction to Sperber and Wilson's Relevance." *Lingua*, 87.
+- Clark, H. H., & Marshall, C. R. (1981). "Definite Reference and Mutual Knowledge." In A. K. Joshi et al. (Eds.), *Elements of Discourse Understanding*.
 

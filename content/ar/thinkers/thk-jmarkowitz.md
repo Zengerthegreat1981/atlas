@@ -12,12 +12,11 @@ language: "الإنجليزية"
 active_start: 1990
 active_end: "مستمر"
 part: "psychology"
-edges:
+edges: []
 - rel: "belongs_to", target: "sch-ipt", target_type: "مدرسة"
-related:
+related: []
 - id: "thk-gklerman", title: "جيرالد كليرمان", type: "مفكر"
 - id: "thk-mweissman", title: "ميري وايسمان", type: "مفكر"
-- id: "thk-lhecker", title: "لويس هِكَر", type: "مفكر"
 gaps:
   - "السيرة الكاملة لم تُراجع من مصدر أولي."
   - "لا يوجد اقتباس مباشر موثوق من *Learning IPT: A Time-Limited Psychotherapy* (2010) بترجمة عربية معتمدة."

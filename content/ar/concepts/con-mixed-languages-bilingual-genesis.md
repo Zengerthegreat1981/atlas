@@ -23,28 +23,34 @@ gaps: []
 
 # اللغاتُ المختلطةُ ونشوؤها الثنائي
 
-## Definition
+## التعريف
 
-Bilingualism is competence in two languages. Bilinguals manage two language systems, switching between them and sometimes mixing them. Bilingual cognition differs from monolingual cognition in systematic ways.
+اللغاتُ المختلطة (Mixed Languages) فئةٌ من اللغات الناشئة عن التماسّ اللغوي تتميّز عن الكريول والبِجن بخاصيةٍ بنيوية محدَّدة: انقسامٌ نظامي واضح بين مصدر المعجم ومصدر النحو، بحيث تُستمَدّ المفرداتُ الأساسية من لغةٍ واحدة والبنيةُ النحوية (أو جزءٌ جوهري منها) من لغةٍ أخرى مختلفة تماماً، لا مزيجاً عشوائياً أو تبسيطاً كريولياً. صاغ پيتر باكر ومارتن موس هذه الفئةَ تصنيفاً مستقلاً في مجلَّدهما المرجعي *Mixed Languages: 15 Case Studies in Language Intertwining* (1994).
 
-## Language Representation
+## أمثلةٌ تأسيسية: ميشيف وميديا لِنغوا
 
-Bilinguals have separate phonological and syntactic systems for each language. Semantic representation may be shared or separate depending on language similarity and individual differences. Lexical access involves both languages; non-target language words can interfere.
+المثالُ الأشهر ميشيف (Michif)، لغةُ شعب المِيتي في كندا، التي تجمع نظاماً اسمياً كاملاً من الفرنسية (الأسماء وأدواتُ التعريف والصفات) بنظامٍ فعلي كامل من الكري (الأفعال وتصريفاتها المعقَّدة)، في انقسامٍ صرفي نحوي صارم غير مسبوق في لغات التماسّ الأخرى. المثالُ الثاني البارز ميديا لِنغوا (Media Lengua) في الإكوادور، التي تستمدّ معجمَها بالكامل تقريباً من الإسبانية بينما تحتفظ ببنيتها الصرفية النحوية الكيتشوية الأصلية كاملة.
 
-## Code-switching
+## التمييزُ عن الكريول والبِجن
 
-Bilinguals strategically mix languages following systematic rules. They don't randomly mix; grammatical structure constrains mixing. Code-switching requires maintaining separation between systems while accessing both simultaneously.
+تختلف اللغاتُ المختلطة جوهرياً عن الكريول: فالكريولُ ينشأ عادةً من تبسيط بِجن سابق في ظروف استعمارية قاسية عبر أجيال، منتجاً نظاماً نحوياً جديداً مبسَّطاً نسبياً، بينما تنشأ اللغاتُ المختلطة عادةً بسرعةٍ نسبية (أحياناً ضمن جيلٍ واحد) بين متحدّثين ثنائيي اللغة طليقين تماماً في كلتا اللغتين المصدرَين، فتحافظ على تعقيد النظامين الصرفي النحويين الأصليين دون تبسيطٍ جوهري، وهو ما يفرّق آلية نشوئها عن آلية نشوء الكريول.
 
-## Cognitive Effects
+## آليةُ النشوء: التطعيمُ لا التدرّج
 
-Bilinguals show executive control advantages: better inhibition and task-switching. Bilingual exposure delays some vocabulary growth initially but supports metalinguistic awareness. Long-term bilingualism supports cognitive reserve against aging.
+يصف باكر آليةَ نشوء اللغات المختلطة بمصطلح "التطعيم" أو "التداخل" (Intertwining)، إذ لا تنشأ هذه اللغاتُ عبر تدرّجٍ تاريخي بطيء كما في التغيّر اللغوي العادي، بل عبر عمليةٍ سريعة نسبياً يقوم بها متحدّثون ثنائيو الهوية الاجتماعية (كالمِيتي، أبناء آباءٍ فرنسيين وأمّهاتٍ كريّات) يبحثون عن علامةٍ لغوية مميِّزة لهويتهم الهجينة الجديدة، فيدمجون نظامين نحويين كاملين بدل ابتكار نظامٍ جديد مبسَّط.
 
-## Neural Organization
+## الجدلُ النظري حول التصنيف
 
-Brain imaging shows bilinguals use overlapping regions for both languages. Language switching activates left prefrontal cortex (executive control). Proficiency and age of acquisition affect neural organization.
+أثار مفهومُ اللغات المختلطة جدلاً مستمراً حول حدوده الدقيقة: هل هو فئةٌ نظرية مستقلّة فعلاً أم طيفٌ متصل مع ظواهر أخرى كالاستعارة المعجمية المكثَّفة أو إعادة المعجمة (Relexification)؟ ويعمل باحثون كيارون ماتراس على تطوير تصنيفاتٍ أدقّ تميّز بين أنماطٍ فرعية مختلفة من الاختلاط اللغوي بحسب طبيعة الانقسام البنيوي الفعلي في كل حالة.
 
-## References
+## الأثر
 
-- Kroll, J. F., & Tokowicz, N. (2005). "Models of bilingual representation." *Handbook of Bilingualism*, 531-553.
-- Bialystok, E. (2017). "The bilingual adaptation." *Current Directions in Psychological Science*, 26(3), 233-237.
+قدّمت دراسةُ اللغات المختلطة تحدّياً نظرياً لفرضياتٍ راسخة في لسانيات التماسّ، وبخاصة فرضيةَ أن النحوَ أكثرُ مقاومةً للاستعارة من المعجم، إذ تثبت حالاتٌ كميشيف إمكانَ استعارة نظامٍ نحوي كاملٍ حين تسمح الظروفُ الاجتماعية الهوياتية بذلك.
+
+## المصادر
+
+- Bakker, P., & Mous, M. (Eds.) (1994). *Mixed Languages: 15 Case Studies in Language Intertwining*. IFOTT.
+- Bakker, P. (1997). *A Language of Our Own: The Genesis of Michif*. Oxford University Press.
+- Matras, Y., & Bakker, P. (Eds.) (2003). *The Mixed Language Debate: Theoretical and Empirical Advances*. Mouton de Gruyter.
+- Muysken, P. (1997). "Media Lengua." In S. G. Thomason (Ed.), *Contact Languages: A Wider Perspective*. John Benjamins.
 

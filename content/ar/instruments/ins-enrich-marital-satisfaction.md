@@ -8,191 +8,191 @@ related_programs:
   - tec-prepare-enrich
 ---
 
-# ENRICH Marital Satisfaction Scale
+# مقياس ENRICH للرضا الزواجي (ENRICH Marital Satisfaction Scale)
 
-The ENRICH Marital Satisfaction Scale is a brief, self-report measure of overall marital satisfaction used in couple assessment, premarital counseling, and marital research. Derived from the ENRICH (Enriching Relationships Issues, Communication, Happiness) comprehensive inventory, the satisfaction scale provides a quick snapshot of couple's subjective well-being in the marriage.
+مقياس ENRICH للرضا الزواجي أداة تقرير ذاتي موجزة للرضا الزواجي العام تُستخدم في تقييم الأزواج والإرشاد قبل الزواج وبحوث الزواج. مستمد من قائمة ENRICH الشاملة (إثراء قضايا العلاقات والتواصل والسعادة - Enriching Relationships Issues, Communication, Happiness)، ويوفر مقياس الرضا لمحة سريعة عن الرفاه الذاتي للزوجين في الزواج.
 
-## Development
+## التطوير
 
-**Original program:** ENRICH comprehensive inventory (David Olson, 1986)
+**البرنامج الأصلي:** قائمة ENRICH الشاملة (ديفيد أولسون - David Olson، 1986)
 
-**Satisfaction scale:** Extracted and validated as a standalone measure for efficient assessment
+**مقياس الرضا:** استُخرج وتحقق منه كأداة قائمة بذاتها لتقييم سريع وفعال
 
-**Purpose:** Screen for marital distress; track satisfaction change over time; evaluate intervention outcomes
+**الغرض:** فرز الاضطراب الزواجي؛ تتبع تغير الرضا عبر الزمن؛ تقييم نتائج التدخل
 
-**Psychometric properties:** High internal consistency (Cronbach's alpha typically .80-.90); correlates with divorce risk and marital dysfunction
+**الخصائص السيكومترية:** اتساق داخلي مرتفع (ألفا كرونباخ عادة 0.80-0.90)؛ يرتبط بخطر الطلاق والخلل الزواجي
 
-## Format & Administration
+## الصيغة والتطبيق
 
-**Number of items:** Typically 4-10 items (varies slightly by version)
+**عدد البنود:** عادة 4-10 بنود (يتفاوت قليلاً حسب النسخة)
 
-**Item examples:**
-- "How satisfied are you with the love and affection in your marriage?"
-- "How satisfied are you with your overall marriage?"
-- "How satisfied are you with the amount of communication in your marriage?"
+**أمثلة على البنود:**
+- "ما مدى رضاك عن الحب والمودة في زواجك؟"
+- "ما مدى رضاك عن زواجك بشكل عام؟"
+- "ما مدى رضاك عن مقدار التواصل في زواجك؟"
 
-**Response scale:** Usually 5-point or 7-point Likert scale (e.g., "very dissatisfied" to "very satisfied")
+**مقياس الاستجابة:** عادة مقياس ليكرت من 5 أو 7 درجات (مثلاً، من "غير راضٍ جداً" إلى "راضٍ جداً")
 
-**Administration time:** 2-5 minutes
+**زمن التطبيق:** 2-5 دقائق
 
-**Format:** Self-administered, can be group administered or online
+**الصيغة:** ذاتي التطبيق، يمكن تطبيقه جماعياً أو عبر الإنترنت
 
-**Languages:** Available in 20+ languages reflecting international ENRICH adoption
+**اللغات:** متاح بأكثر من 20 لغة يعكس التبني الدولي لبرنامج ENRICH
 
-## Scoring
+## التصحيح
 
-**Simple sum or mean of items**
-- Higher scores = greater marital satisfaction
-- Lower scores = marital distress
-- Provides both couple's combined satisfaction and individual scores (allows comparison of satisfaction between partners)
+**جمع بسيط أو متوسط للبنود**
+- الدرجات الأعلى = رضا زواجي أكبر
+- الدرجات الأدنى = اضطراب زواجي
+- يوفر درجة رضا مشتركة للزوجين ودرجات فردية (يتيح مقارنة الرضا بين الشريكين)
 
-**Cutoff scores:**
-- 20+ (out of 28-35 depending on item count) = satisfied
-- Below 18 = dissatisfied
-- Gap between partners >4 points = significant dissatisfaction discrepancy
+**درجات القطع:**
+- 20 فأكثر (من أصل 28-35 حسب عدد البنود) = راضٍ
+- أقل من 18 = غير راضٍ
+- فرق بين الشريكين أكبر من 4 نقاط = تباين رضا ذو دلالة
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-### Reliability
-- **Internal consistency:** Cronbach's alpha .82-.90 (good to excellent)
-- **Test-retest:** correlation .70+, indicating stable measurement over weeks
-- **Item-total correlation:** items correlate strongly with overall scale
+### الثبات
+- **الاتساق الداخلي:** ألفا كرونباخ 0.82-0.90 (جيد إلى ممتاز)
+- **ثبات الإعادة:** ارتباط 0.70 فأعلى، يشير إلى قياس مستقر عبر أسابيع
+- **ارتباط البند بالدرجة الكلية:** ترتبط البنود بقوة بالمقياس الكلي
 
-### Validity
-- **Concurrent validity:** correlates with other marital satisfaction measures (DAS, MSI-R)
-- **Predictive validity:** satisfaction scores predict divorce (lower satisfaction = higher divorce risk)
-- **Sensitivity:** detects change in satisfaction before and after counseling
-- **Criterion validity:** distinguishes married satisfied vs. dissatisfied couples
+### الصدق
+- **الصدق التلازمي:** يرتبط بمقاييس رضا زواجي أخرى (DAS، MSI-R)
+- **الصدق التنبؤي:** درجات الرضا تتنبأ بالطلاق (رضا أقل = خطر طلاق أعلى)
+- **الحساسية:** يكشف تغير الرضا قبل الإرشاد وبعده
+- **صدق المحك:** يميّز الأزواج الراضين عن غير الراضين
 
-### Factor structure
-- **Unidimensional:** single overall satisfaction factor in most samples
-- **Alternative models:** some research suggests separate affection, communication, and overall satisfaction factors
+### البنية العاملية
+- **أحادية البعد:** عامل رضا عام واحد في معظم العينات
+- **نماذج بديلة:** تشير بعض الأبحاث إلى عوامل منفصلة للمودة والتواصل والرضا العام
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### Premarital Assessment
-- ENRICH program includes satisfaction scale
-- Baseline assessment before counseling
-- Post-counseling measurement to evaluate change
+### التقييم قبل الزواج
+- يتضمن برنامج ENRICH مقياس الرضا
+- تقييم خط أساس قبل الإرشاد
+- قياس بعد الإرشاد لتقييم التغير
 
-### Marital Therapy Outcome Assessment
-- Repeated measurement to track progress
-- Identifies when intervention is having impact
-- Flags when satisfaction is worsening despite treatment
+### تقييم نتائج العلاج الزواجي
+- قياس متكرر لتتبع التقدم
+- يحدد متى يُحدث التدخل أثراً
+- يشير إلى تدهور الرضا رغم العلاج
 
-### Research
-- Outcome studies of couple interventions
-- Longitudinal tracking of marital satisfaction predictors
-- International studies on marital satisfaction and culture
+### البحث
+- دراسات نتائج تدخلات الأزواج
+- تتبع طولي لمنبئات الرضا الزواجي
+- دراسات دولية عن الرضا الزواجي والثقافة
 
-### Couples Screening
-- Quick assessment when intake time is limited
-- Screen for marital distress
-- Refer for additional assessment if needed
+### فرز الأزواج
+- تقييم سريع عند ضيق وقت الاستقبال
+- فرز الاضطراب الزواجي
+- الإحالة لتقييم إضافي عند الحاجة
 
-## Interpretation
+## التفسير
 
-### Individual Scores
-- **Both partners high satisfaction:** strong marriage; focus on maintenance or specific growth areas
-- **Both partners low satisfaction:** marital distress; intervention recommended
-- **Discrepant scores** (one high, one low): different relationship perceptions; explore experiences; possible hidden resentment
+### الدرجات الفردية
+- **كلا الشريكين رضا مرتفع:** زواج قوي؛ التركيز على الحفاظ عليه أو مجالات نمو محددة
+- **كلا الشريكين رضا منخفض:** اضطراب زواجي؛ يُوصى بالتدخل
+- **درجات متباينة** (أحدهما مرتفع والآخر منخفض): تصورات مختلفة للعلاقة؛ استكشاف التجارب؛ احتمال استياء مخفي
 
-### Change Scores
-- **Increase post-intervention:** positive treatment outcome
-- **Stability:** maintaining satisfaction; prevention-focused work
-- **Decrease:** intervention not working; reassess approach; may indicate emerging issues
+### درجات التغير
+- **ارتفاع بعد التدخل:** نتيجة علاجية إيجابية
+- **الثبات:** الحفاظ على الرضا؛ عمل موجه للوقاية
+- **الانخفاض:** التدخل لا يعمل؛ إعادة تقييم النهج؛ قد يشير إلى مشكلات ناشئة
 
-### Cultural Considerations
-- **Satisfaction varies by culture:** Asian cultures may report lower satisfaction even in stable marriages (cultural norms about emotional expression)
-- **Western bias:** developed in US context; may require adaptation for other cultures
-- **Interpretation:** always contextualize within couple's cultural frame
+### الاعتبارات الثقافية
+- **يتفاوت الرضا حسب الثقافة:** قد تُبلغ الثقافات الآسيوية عن رضا أقل حتى في الزيجات المستقرة (أعراف ثقافية حول التعبير العاطفي)
+- **تحيز غربي:** طُوّر في السياق الأمريكي؛ قد يحتاج تكييفاً لثقافات أخرى
+- **التفسير:** يجب دائماً وضعه في سياق الإطار الثقافي للزوجين
 
-## Strengths & Limitations
+## نقاط القوة وأوجه القصور
 
-### Strengths
-- **Brief:** quick administration and scoring
-- **Psychometrically sound:** good reliability and validity
-- **Practical:** easy to use in clinical and research settings
-- **Internationally validated:** used cross-culturally
-- **Predictive:** satisfaction scores predict divorce risk
-- **Sensitive:** detects change in satisfaction
+### نقاط القوة
+- **موجز:** تطبيق وتصحيح سريعان
+- **سليم سيكومترياً:** ثبات وصدق جيدان
+- **عملي:** سهل الاستخدام في الأوساط السريرية والبحثية
+- **متحقَّق منه دولياً:** يُستخدم عبر الثقافات
+- **تنبؤي:** درجات الرضا تتنبأ بخطر الطلاق
+- **حساس:** يكشف تغير الرضا
 
-### Limitations
-- **Unidimensional:** captures global satisfaction but not specific dimensions (sexual, financial, etc.)
-- **Social desirability bias:** couples may inflate satisfaction to appear functional
-- **Snapshot only:** doesn't assess reasons for satisfaction or specific concerns
-- **Western-based:** developed in US; may not translate perfectly to other cultures
-- **Retrospective reflection:** asks people to evaluate relationships in abstract terms; can be influenced by current mood
-- **Doesn't measure:** other important aspects (commitment, trust, stability, conflict patterns)
+### أوجه القصور
+- **أحادي البعد:** يلتقط الرضا العام لكن ليس الأبعاد المحددة (الجنسية، المالية، إلخ)
+- **تحيز المرغوبية الاجتماعية:** قد يبالغ الأزواج في الرضا ليبدوا متوافقين
+- **لمحة فقط:** لا يقيّم أسباب الرضا أو المخاوف المحددة
+- **أساس غربي:** طُوّر في الولايات المتحدة؛ قد لا ينتقل بشكل مثالي إلى ثقافات أخرى
+- **تأمل استعادي:** يطلب من الأشخاص تقييم العلاقات بمصطلحات مجردة؛ يمكن أن يتأثر بالمزاج الحالي
+- **لا يقيس:** جوانب مهمة أخرى (الالتزام، الثقة، الاستقرار، أنماط النزاع)
 
-## Use in Couple Interventions
+## الاستخدام في تدخلات الأزواج
 
-### PREPARE/ENRICH Program
-- Administered as part of comprehensive assessment
-- Discussed with couple as one factor in overall relationship profile
-- Satisfaction improvement is one outcome in premarital education studies
+### برنامج PREPARE/ENRICH
+- يُطبَّق كجزء من التقييم الشامل
+- يُناقش مع الزوجين كعامل واحد في الصورة الكاملة للعلاقة
+- تحسن الرضا هو إحدى نتائج دراسات التثقيف قبل الزواج
 
-### PREP Program Research
-- Used in outcome studies (e.g., Fallahchai et al., 2020 on Iranian newlyweds)
-- Shows PREP training improves marital satisfaction at posttest and follow-up
+### بحث برنامج PREP
+- استُخدم في دراسات النتائج (مثال: فلاح‌چای وآخرون، 2020 حول المتزوجين حديثاً في إيران)
+- يُظهر أن تدريب PREP يحسّن الرضا الزواجي عند القياس البعدي والمتابعة
 
-### Marital Therapy
-- Baseline measurement before therapy begins
-- Regular remeasurement (every 4-8 sessions) to track progress
-- Identifies when satisfaction is improving or worsening
+### العلاج الزواجي
+- قياس خط أساس قبل بدء العلاج
+- إعادة القياس بانتظام (كل 4-8 جلسات) لتتبع التقدم
+- يحدد تحسن الرضا أو تدهوره
 
-## Relationship to Other Measures
+## العلاقة بمقاييس أخرى
 
-**Similar measures:**
-- Dyadic Adjustment Scale (DAS) — comprehensive measure including satisfaction, consensus, affection, cohesion
-- Couples Satisfaction Index (CSI) — brief single-item or multi-item satisfaction measures
-- Kansas Marital Satisfaction Scale (KMSS) — three-item measure of satisfaction
-- Marital Satisfaction Inventory-Revised (MSI-R) — comprehensive multi-dimensional assessment
+**مقاييس مشابهة:**
+- مقياس التوافق الثنائي (DAS) — مقياس شامل يشمل الرضا والتوافق والمودة والتماسك
+- مؤشر رضا الأزواج (CSI) — مقاييس رضا موجزة أحادية أو متعددة البنود
+- مقياس كنساس للرضا الزواجي (KMSS) — مقياس من ثلاثة بنود للرضا
+- قائمة الرضا الزواجي المنقحة (MSI-R) — تقييم شامل متعدد الأبعاد
 
-**Differences:**
-- ENRICH scale: part of comprehensive program, integrated into premarital counseling
-- DAS: more detailed, captures multiple dimensions
-- KMSS: even briefer (3 items) for ultra-quick screening
-- CSI: single-item option for convenience or lengthy item versions for detailed assessment
+**الفروق:**
+- مقياس ENRICH: جزء من برنامج شامل، مدمج في الإرشاد قبل الزواج
+- DAS: أكثر تفصيلاً، يلتقط أبعاداً متعددة
+- KMSS: أوجز حتى (3 بنود) للفرز الفائق السرعة
+- CSI: خيار أحادي البند للراحة أو نسخ أطول للتقييم المفصل
 
-## Cultural & Diverse Applications
+## التطبيقات الثقافية والتنوعية
 
-- **Multicultural couples:** satisfaction norms may differ; interpret with cultural competence
-- **Same-sex couples:** ENRICH-G adapted for gay/lesbian couples
-- **Remarriage:** may need adjustment for blended family considerations
-- **Across-culture couples:** cultural expectations about emotional expression, roles may affect responses
+- **الأزواج متعددو الثقافات:** قد تختلف أعراف الرضا؛ يجب التفسير بكفاءة ثقافية
+- **الأزواج من الجنس نفسه:** نسخة ENRICH-G مكيَّفة للأزواج المثليين
+- **الزواج الثاني:** قد يحتاج تعديلاً لاعتبارات الأسرة المدمجة
+- **الأزواج بين الثقافات:** التوقعات الثقافية حول التعبير العاطفي والأدوار قد تؤثر في الاستجابات
 
-## Practical Guidelines for Clinicians
+## إرشادات عملية للإكلينيكيين
 
-**When administering:**
-- Explain purpose: monitoring relationship health, not judgment
-- Ensure privacy: both partners complete independently
-- Compare scores: look at both individual and couple differences
+**عند التطبيق:**
+- شرح الغرض: رصد صحة العلاقة، وليس إصدار حكم
+- ضمان الخصوصية: يكمل كل من الشريكين الاستبيان بشكل مستقل
+- مقارنة الدرجات: النظر في الفروق الفردية والزوجية معاً
 
-**When interpreting:**
-- Discuss results with couple together
-- Explore discrepancies (why different satisfaction levels?)
-- Use as conversation starter, not sole determinant
+**عند التفسير:**
+- مناقشة النتائج مع الزوجين معاً
+- استكشاف التباينات (لماذا تختلف مستويات الرضا؟)
+- استخدامها كنقطة انطلاق للحوار، وليست المحدد الوحيد
 
-**When tracking change:**
-- Set baseline before intervention
-- Measure every 4-8 weeks in therapy
-- Look for trend, not single data point
-- Celebrate improvement; troubleshoot if declining
+**عند تتبع التغير:**
+- تحديد خط أساس قبل التدخل
+- القياس كل 4-8 أسابيع أثناء العلاج
+- النظر إلى الاتجاه العام وليس نقطة بيانات واحدة
+- الاحتفاء بالتحسن؛ معالجة الأسباب عند التراجع
 
-## Primary Sources & Resources
+## المصادر
 
 1. Olson, D.H., Fournier, D.G., & Druckman, J.M. (2006). PREPARE/ENRICH Program: Version 2000 (rev. ed.). Life Innovations, Inc.
 2. Fathi, E., et al. (2020). The effectiveness of the PREP model questionnaire validation and effectiveness of PREP education for Iranian couples. Marriage & Family Review, 56(1), 56-71.
 3. Fallahchai, R., et al. (2020). Two-year follow-up of the efficacy of PREP training on Iranian newlyweds: Marital satisfaction using ENRICH scale. Journal of Marital and Family Therapy.
 4. PREPARE/ENRICH official website and materials: https://www.prepare-enrich.com
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Marital satisfaction
-- Relationship quality
-- Couple assessment
-- Couple therapy outcomes
-- Premarital counseling
-- Marital stability and predictors of divorce
-- Relationship enrichment
+- الرضا الزواجي
+- جودة العلاقة
+- تقييم الأزواج
+- نتائج علاج الأزواج
+- الإرشاد قبل الزواج
+- الاستقرار الزواجي ومنبئات الطلاق
+- إثراء العلاقة

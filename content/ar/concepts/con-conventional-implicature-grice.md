@@ -22,43 +22,30 @@ gaps: []
 
 # الإفهامُ الاصطلاحي عند غرايس
 
-## Definition
+## التعريف
 
-Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
+الإفهامُ الاصطلاحي (Conventional Implicature) نوعٌ من المعنى المستلزَم صاغه پول غرايس في مقالته التأسيسية "Logic and Conversation" (1975)، يتميّز عن الإفهام التخاطبي بأنه لا يُشتقُّ من مبدأ التعاون وسياق المحادثة، بل يرتبط مباشرة بالمعنى الاصطلاحي لكلمةٍ أو أداةٍ بعينها، بحيث يُفهَم كلما استُخدمت تلك الكلمة بصرف النظر عن السياق.
 
-## Grice's Theory
+## المثالُ التأسيسي: "لذلك" و"لكن"
 
-Paul Grice identified four conversational maxims speakers follow:
-- Quantity: Be informative without being excessive
-- Quality: Be truthful and warranted
-- Relevance: Stay on topic
-- Manner: Be clear and brief
+استخدم غرايس مثالَ حرف العطف الإنجليزي "therefore" (لذلك) لتوضيح الفكرة: في جملة "الملكةُ إنجليزيةٌ، لذلك فهي شجاعة"، لا يقول المتكلّمُ صراحةً إن الشجاعةَ نتيجةٌ منطقية للإنجليزية، لكنه يستلزم ذلك اصطلاحاً بمجرّد استخدامه كلمةَ "لذلك"، اعتماداً على معنى الكلمة نفسِها في اللغة الإنجليزية لا على أي استدلالٍ تخاطبي من السياق. والمثالُ المشابه حرفُ العطف "but" (لكن)، الذي يحمل الشرطَ الحقّي (Truth-Conditional) نفسَه لحرف "and" (و) تماماً، لكنه يستلزم اصطلاحاً تبايناً أو مفاجأةً بين طرفَي الجملة.
 
-Flouting these maxims creates implicature—meaning inferred from the violation.
+## الفرقُ عن الإفهام التخاطبي
 
-## Speech Acts
+يختلف الإفهامُ الاصطلاحي عن الإفهام التخاطبي (Conversational Implicature) في نقطتين جوهريتين: أولاً، لا يعتمد على افتراض التزام المتكلّم بمبدأ التعاون أو قواعده المحادثية، بل هو جزءٌ ثابتٌ من المعنى المعجمي للكلمة ذاتها؛ وثانياً، لا يقبل الإلغاء (Non-Cancellable) بالطريقة نفسها التي يُلغى بها الإفهامُ التخاطبي، إذ يصعب نفيُ التباين المستلزَم من "لكن" دون تناقضٍ أسلوبي واضح، بخلاف إفهامٍ تخاطبي كـ"البعض" الذي يمكن إلغاؤه بسهولة ("بعضُ الطلاب نجحوا، بل كلُّهم فعلاً").
 
-Utterances perform actions (Austin, Searle):
-- Locutionary: The words uttered
-- Illocutionary: The action performed (promising, requesting, commanding)
-- Perlocutionary: The effect on listener
+## استقلاليتُه عن الشرط الحقّي
 
-"I promise to return the book" is a performative—the utterance creates an obligation.
+الخاصيةُ الأخرى المميّزة للإفهام الاصطلاحي أنه لا يؤثّر في القيمة الحقّية (Truth Value) للجملة: فجملة "الملكةُ إنجليزيةٌ لذلك فهي شجاعة" تبقى صادقةً منطقياً حتى لو لم تكن الشجاعةُ نتيجةً فعلية للإنجليزية، لأن الاستلزامَ الاصطلاحي يقع خارج محتوى القضية المُخبَر عنها (What Is Said)، فيصنَّف ضمن ما يسمّيه بعضُ الباحثين المتأخرين "المعنى الإجرائي" لا "المعنى المفهومي" للتعبير.
 
-## Politeness Strategies
+## الجدل النظري اللاحق
 
-Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+أثار هذا المفهومُ جدلاً مستمراً حول حدوده: هل هو فئةٌ مستقلّة فعلاً، أم يمكن اختزالُه إلى افتراضٍ مسبَق (Presupposition) أو إلى معنًى إجرائي بالمعنى الذي طوّرته ديردر ويلسون وديان بليكمور ضمن نظرية الملاءمة؟ يرى كثيرٌ من التداوليين المعاصرين أن الفئةَ التي حدّدها غرايس أضيقُ مما بدت عليه أصلاً، ويقتصر تطبيقُها الآمن على عددٍ محدود من الأدوات كـ"لكن" و"حتى" و"لذلك".
 
-## Presupposition
+## المصادر
 
-Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
-
-## Contemporary Applications
-
-Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
-- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+- Grice, H. P. (1975). "Logic and Conversation." In P. Cole & J. Morgan (Eds.), *Syntax and Semantics 3: Speech Acts*. Academic Press.
+- Grice, H. P. (1989). *Studies in the Way of Words*. Harvard University Press.
+- Potts, C. (2005). *The Logic of Conventional Implicatures*. Oxford University Press.
+- Bach, K. (1999). "The Myth of Conventional Implicature." *Linguistics and Philosophy*, 22(4), 327-366.
 

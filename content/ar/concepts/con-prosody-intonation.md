@@ -21,32 +21,34 @@ gaps: []
 
 # العروضُ الكلاميُّ والتنغيم
 
-## Definition
+## التعريف
 
-This concept is fundamental to phonological theory. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding structure is essential for linguistics, speech technology, and language teaching.
+العروضُ الكلامي (Prosody) مستوًى من التنظيم الصوتي يشمل خصائصَ تمتدّ فوق الأصوات الفردية المفردة (Suprasegmental)، كالنبر والإيقاع والتنغيم (Intonation) — نمط تغيّر طبقة الصوت (Pitch) عبر الجملة المنطوقة. يحمل التنغيمُ وظائفَ لغوية متعدّدة: تمييزَ الجملة الخبرية عن الاستفهامية دون تغيير الكلمات نفسِها، وتحديدَ موقع التركيز أو البؤرة المعلوماتية، والتعبيرَ عن الموقف الانفعالي للمتكلّم.
 
-## Theoretical Framework
+## نموذجُ پيرهامبرت: التونات المنفصلة
 
-Modern phonology combines insights from distinctive feature theory, autosegmental phonology, and constraint-based approaches. The framework accounts for universal patterns across all languages and language-specific variations.
+قدّمت جانيت پيرهامبرت في أطروحتها المرجعية (1980) إطاراً تحليلياً أحدث تحوّلاً جوهرياً في دراسة التنغيم، إذ استبدلت الوصفَ التقليدي القائم على منحنياتٍ لحنية متصلة كاملة بنموذجٍ يمثّل التنغيمَ سلسلةً من نغماتٍ منفصلة مرتفعة (H) ومنخفضة (L) تتوزّع على نقاطٍ محدَّدة في السلسلة الصوتية، ثم تُشتقّ خطوطُ التردّد الأساسي المنحنية الفعلية آلياً من هذه النقاط المنفصلة عبر قواعد تفسيرٍ صوتي، لا أن تُوصَف مباشرةً بوصفها منحنياتٍ لحنية كلّية.
 
-## Key Principles
+## اللكناتُ الطبقية والتونات الحدّية
 
-Phonological organization reflects both universal principles and language-specific choices. Features organize sounds into natural classes. Constraints rank differently across languages. Rules apply to well-defined structural units.
+يميّز هذا الإطارُ بين نوعين رئيسيين من الوحدات النغمية: اللكناتُ الطبقية (Pitch Accents)، التي ترتبط بمقاطعَ نبرية بارزة داخل الجملة وتحدِّد أيَّ الكلمات تحمل التركيزَ المعلوماتي (كاللكنة البسيطة *H أو المركَّبة L+H*)، والتوناتُ الحدّية (Boundary Tones)، التي تظهر عند حدود الوحدات النغمية الكبرى (كنهاية الجملة) وتُميَّز عادةً بالرمزين H% وL%، إذ تحدِّد مثلاً الفرقَ بين النغمة الصاعدة النموذجية لنهاية سؤالٍ عام (H%) والنغمة الهابطة لنهاية جملةٍ خبرية مكتملة (L%).
 
-## Experimental Methods
+## البنيةُ التراتبية للعبارة التنغيمية
 
-Research uses perception experiments, production studies, brain imaging (fMRI, EEG), corpus analysis, and computational modeling. These methods converge on the psychological reality of phonological structure.
+يفترض النموذجُ تراتباً هرمياً بين وحداتٍ عروضية: العبارةُ التنغيمية الكاملة (Intonational Phrase) تتألّف من عبارةٍ وسيطة واحدة أو أكثر (Intermediate Phrase)، وتنتهي دوماً بتونٍ حدّي، بينما تتألّف كل عبارةٍ وسيطة من لكنةٍ طبقية واحدة أو أكثر تليها نغمةُ عبارة (Phrase Accent)؛ هذا التراتبُ يربط التنظيمَ التنغيمي بالتنظيم النحوي والمعلوماتي للجملة في آنٍ واحد.
 
-## Cross-linguistic Evidence
+## الوظيفةُ في البنية المعلوماتية
 
-Patterns repeat across unrelated languages, suggesting universal principles. However, substantial variation exists, showing language-specific organization.
+يرتبط العروضُ الكلامي ارتباطاً وثيقاً بالبنية المعلوماتية للجملة (Information Structure)، إذ يُستخدَم موقعُ اللكنة الطبقية البارزة عادةً للإشارة إلى موقع البؤرة (Focus) — العنصر الحامل للمعلومة الجديدة الأهمّ — بينما يميل الموضوعُ (Topic) المعطى سلفاً إلى الوقوع خارج نطاق التركيز النبري القوي، وهو ما يربط دراسةَ التنغيم بدراسات التقطيع الوظيفي للجملة وبنية الموضوع والبؤرة النحوية الدلالية.
 
-## Contemporary Applications
+## الأثر
 
-Speech technology, language teaching, clinical phonology, and language documentation all rely on phonological frameworks.
+صار نموذجُ پيرهامبرت الأساسَ النظري لنظام ToBI (Tones and Break Indices) لترميز التنغيم، الذي صار معياراً قياسياً في أبحاث التنغيم التجريبية والتطبيقات الحاسوبية كتحويل النصّ إلى كلام، وأثّر عميقاً في دراسة النظم النغمية عبر لغاتٍ متنوّعة من الإنجليزية إلى اليابانية والهندية.
 
-## References
+## المصادر
 
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Pierrehumbert, J. B. (1980). *The Phonology and Phonetics of English Intonation*. PhD dissertation, MIT.
+- Pierrehumbert, J., & Hirschberg, J. (1990). "The Meaning of Intonational Contours in the Interpretation of Discourse." In P. Cohen et al. (Eds.), *Intentions in Communication*. MIT Press.
+- Ladd, D. R. (2008). *Intonational Phonology* (2nd ed.). Cambridge University Press.
+- Beckman, M. E., & Pierrehumbert, J. B. (1986). "Intonational Structure in Japanese and English." *Phonology Yearbook*, 3, 255-309.
 

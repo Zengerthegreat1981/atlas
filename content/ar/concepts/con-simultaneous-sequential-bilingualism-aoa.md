@@ -21,28 +21,28 @@ gaps:
 
 # الثنائيةُ اللغويةُ المتزامنة مقابل المتعاقبة وأثرُ عمر الاكتساب
 
-## Definition
+يميّز باحثو اكتساب اللغة بين نمطين رئيسين من الثنائية اللغوية بحسب عمر التعرّض للغة الثانية: **الثنائية المتزامنة** (Simultaneous Bilingualism)، حين يُخاطَب الطفل بلغتين منذ الولادة أو قبل سنّ الثالثة تقريباً فتُكتسَبان معاً كلغتين أوليين، و**الثنائية المتعاقبة** (Sequential أو Successive Bilingualism)، حين تُكتسَب اللغة الثانية بعد أن استقرّت الأولى جزئياً، في أيّ عمرٍ لاحق. حدّدت الباحثة الهولندية أنيك دي هاوَر (Annick De Houwer) الثنائية المتزامنة بأنها تخصّ الأطفال الذين يُخاطَبون بانتظامٍ بلغتين قبل سنّ الثانية ويستمرّ ذلك حتى المراحل الأخيرة من اكتساب اللغة.
 
-Bilingualism is competence in two languages. Bilinguals manage two language systems, switching between them and sometimes mixing them. Bilingual cognition differs from monolingual cognition in systematic ways.
+## عمر الاكتساب وفرضية الفترة الحرجة
 
-## Language Representation
+يرتبط هذا التمييز ارتباطاً وثيقاً بـ«فرضية الفترة الحرجة» (Critical Period Hypothesis)، التي تفترض وجود نافذةٍ نمائيةٍ محدودة تكون فيها قدرة الدماغ على اكتساب لغةٍ بمستوى الناطق الأصلي في أَوْجها، ثم تتراجع تدريجياً بعد البلوغ. أثبتت دراسة إليسا نيوپورت وجاكلين جونسون (1989) على متعلمي الإنجليزية الكوريين والصينيين علاقةً خطيّة سلبية بين عمر الوصول إلى الولايات المتحدة والأداء النهائي في اختبارات الحكم النحوي، وهي من أكثر الأدلة التجريبية استشهاداً في هذا المجال. غير أن باحثين لاحقين، مثل جورگن مايزل، ناقشوا ما إذا كان الانحدار تدريجياً مستمراً أم يعكس عتبةً حرجةً محدّدة، وما إذا كان يخصّ النحو دون غيره من مستويات اللغة.
 
-Bilinguals have separate phonological and syntactic systems for each language. Semantic representation may be shared or separate depending on language similarity and individual differences. Lexical access involves both languages; non-target language words can interfere.
+## الفروق البنيوية بين النمطين
 
-## Code-switching
+يميل الأطفال ثنائيو اللغة المتزامنون إلى تطوير نظامين صوتيين ونحويين منفصلين لكن متفاعلين منذ مراحل مبكرة، مع قدرةٍ على التمييز بين اللغتين قبل نطق الكلمات الأولى بكثير. أما الثنائيون المتعاقبون فيبنون اللغة الثانية استناداً إلى نظامٍ لغويٍّ أول مكتمل نسبياً، فتظهر عندهم آثار «النقل اللغوي» (Language Transfer) من اللغة الأولى إلى الثانية بوضوحٍ أكبر، سواء في الصوتيات (كاللكنة) أو في بنى نحوية بعينها.
 
-Bilinguals strategically mix languages following systematic rules. They don't randomly mix; grammatical structure constrains mixing. Code-switching requires maintaining separation between systems while accessing both simultaneously.
+## الأثر المعرفي والعصبي
 
-## Cognitive Effects
+تشير دراسات التصوير الدماغي إلى أن عمر الاكتساب يؤثر في التنظيم القشري للغتين: فالثنائيون المتزامنون، والمتعاقبون الذين اكتسبوا اللغة الثانية في الطفولة المبكرة، يميلون إلى تفعيل مناطق دماغية متداخلة إلى حدٍّ كبير بين اللغتين، بينما يُظهر من اكتسبوا اللغة الثانية متأخرين تنشيطاً أوسع وأقل تداخلاً، خصوصاً في مناطق الفص الجبهي المرتبطة بالتحكم التنفيذي. كما تربط بحوث إلين بياليستوك بين الخبرة الثنائية اللغوية المبكرة وتحسّناتٍ في التحكم التنفيذي (كالتثبيط والتبديل بين المهام)، وإن ظلّ حجم هذا الأثر ومدى تعميمه موضع نقاشٍ منهجي مستمر.
 
-Bilinguals show executive control advantages: better inhibition and task-switching. Bilingual exposure delays some vocabulary growth initially but supports metalinguistic awareness. Long-term bilingualism supports cognitive reserve against aging.
+## أهمية التمييز
 
-## Neural Organization
+لا يقتصر هذا التمييز على البحث النظري، بل يوجّه السياسات التعليمية وبرامج التقييم اللغوي للأطفال ثنائيي اللغة، إذ يساعد الإكلينيكيين على التفريق بين تأخرٍ لغويٍّ حقيقي وبين أنماطٍ نمائيةٍ طبيعية ناتجة عن توزّع التعرّض بين لغتين، كما يفسّر الاختلافات الفردية الواسعة في الكفاءة النهائية بين الثنائيين اللغويين.
 
-Brain imaging shows bilinguals use overlapping regions for both languages. Language switching activates left prefrontal cortex (executive control). Proficiency and age of acquisition affect neural organization.
+## المصادر
 
-## References
-
-- Kroll, J. F., & Tokowicz, N. (2005). "Models of bilingual representation." *Handbook of Bilingualism*, 531-553.
-- Bialystok, E. (2017). "The bilingual adaptation." *Current Directions in Psychological Science*, 26(3), 233-237.
+- De Houwer, Annick. *Bilingual First Language Acquisition*. Multilingual Matters, 2009.
+- Johnson, Jacqueline S., & Newport, Elissa L. "Critical Period Effects in Second Language Learning." *Cognitive Psychology*, 21(1), 1989.
+- Meisel, Jürgen M. *First and Second Language Acquisition: Parallels and Differences*. Cambridge University Press, 2011.
+- Bialystok, Ellen. "The Bilingual Adaptation: How Minds Accommodate Experience." *Psychological Bulletin*, 143(3), 2017.
 

@@ -9,182 +9,183 @@ related_schools:
   - sch-person-centered
 ---
 
-# FOCCUS: Facilitating Open Couple Communication, Understanding & Study
+# فوكَس: تيسير التواصل والفهم والدراسة المفتوحة للزوجين (FOCCUS)
 
-FOCCUS is a couple dialogue program designed to facilitate open communication, deepen mutual understanding, and strengthen couple relationships in premarital or early marital contexts. Originally developed within the Catholic tradition, FOCCUS has evolved into a secular, research-informed tool used across faith and non-faith settings to help couples explore their relationship and identify areas for growth.
+فوكَس (FOCCUS) برنامج حوارٍ للأزواج صُمِّم لتيسير التواصل المفتوح، وتعميق الفهم المتبادل، وتقوية علاقة الزوجين في سياقات ما قبل الزواج أو بداية الزواج. نشأ أصلاً في التقليد الكاثوليكي، ثم تطور إلى أداةٍ علمانية مسنودة بالبحث تُستخدم في السياقات الدينية وغير الدينية على السواء لمساعدة الأزواج على استكشاف علاقتهما وتحديد مجالات النمو.
 
-## Development & History
+## التطور والتاريخ
 
-**Founded:** 1987 by Fr. Dennis E. Cozzens and Fr. David Devine (Catholic Diocese of Cleveland)
+**التأسيس:** عام 1987 على يد الأب دينيس إ. كوزنز (Dennis E. Cozzens) والأب ديفيد ديفاين (David Devine) (أبرشية كليفلاند الكاثوليكية)
 
-**Original purpose:** Premarital assessment and counseling tool for Catholic couples preparing for marriage through the Church
+**الغرض الأصلي:** أداة تقييم واستشارة لما قبل الزواج للأزواج الكاثوليك المقبلين على الزواج عبر الكنيسة
 
-**Evolution:** Adapted for secular use, expanded to married couples, refined through research and clinical practice
+**التطور:** كُيِّف للاستخدام العلماني، وتوسّع ليشمل الأزواج المتزوجين، وصُقل عبر البحث والممارسة السريرية
 
-**Current use:** International adoption across faith communities and secular counseling; available in multiple languages
+**الاستخدام الحالي:** تبنٍّ دولي عبر الجماعات الدينية والاستشارة العلمانية؛ متوفر بلغاتٍ متعددة
 
-**Philosophy:** Dialogue-based, non-directive, strength-focused approach that supports couples in developing deeper understanding and communication
+**الفلسفة:** نهجٌ حواري غير توجيهي يركّز على نقاط القوة، ويدعم الأزواج في تنمية فهمٍ وتواصلٍ أعمق
 
-## Theoretical Foundations
+## الأسس النظرية
 
-### Person-Centered & Dialogical Approach
-- Carl Rogers' person-centered principles adapted to couples work
-- Emphasis on genuine understanding, acceptance, and reflection
-- Safe space for authentic conversation about hopes, values, and concerns
-- Non-pathologizing; assumes couples have capacity for growth
+### النهج المتمركز حول الشخص والحواري
+- مبادئ كارل روجرز (Carl Rogers) المتمركزة حول الشخص مُكيَّفة للعمل مع الأزواج
+- التشديد على الفهم الصادق والقبول والتأمل
+- مساحةٌ آمنة لحديثٍ أصيل عن الآمال والقيم والمخاوف
+- غير مصنِّف مرضياً؛ يفترض أن للأزواج قدرةً على النمو
 
-### Systems & Relational Perspective
-- Understanding couple as system with patterns and dynamics
-- Family of origin influences on couple relationship
-- Interdependence and mutual influence between partners
+### المنظور النَّسَقي والعلائقي
+- فهم الزوجين نظاماً له أنماطه وديناميكياته
+- تأثيرات أسرة المنشأ على علاقة الزوجين
+- الترابط والتأثير المتبادل بين الشريكين
 
-### Strengths-Based Focus
-- Building on couple's existing positive qualities and connection
-- Identifying strengths before addressing growth areas
-- Reframing challenges as opportunities for deeper understanding
+### التركيز على نقاط القوة
+- البناء على الصفات الإيجابية والاتصال القائمَين بين الزوجين
+- تحديد نقاط القوة قبل معالجة مجالات النمو
+- إعادة صياغة التحديات فرصاً لفهمٍ أعمق
 
-## The FOCCUS Program
+## برنامج فوكَس
 
-### Core Components
+### المكونات الجوهرية
 
-**1. FOCCUS Inventory**
-- 156 items covering:
-  - **Life experience:** background, family of origin, important life events
-  - **Values and beliefs:** spirituality, life goals, priorities
-  - **Relationship history:** previous relationships, attachment patterns
-  - **Communication style:** how couple communicates, conflict patterns
-  - **Expectations:** about marriage, roles, children, work, finances
-  - **Relationship quality:** intimacy, satisfaction, commitment
-  - **Personal functioning:** mental health, coping, resilience
+**1. مقياس فوكَس (FOCCUS Inventory)**
+- 156 بنداً تغطي:
+  - **الخبرة الحياتية:** الخلفية، وأسرة المنشأ، والأحداث الحياتية المهمة
+  - **القيم والمعتقدات:** الروحانية، والأهداف الحياتية، والأولويات
+  - **تاريخ العلاقة:** العلاقات السابقة، وأنماط التعلّق
+  - **أسلوب التواصل:** كيف يتواصل الزوجان، وأنماط النزاع
+  - **التوقعات:** حول الزواج، والأدوار، والأطفال، والعمل، والمال
+  - **جودة العلاقة:** الحميمية، والرضا، والالتزام
+  - **الأداء الشخصي:** الصحة النفسية، والتكيف، والمرونة
 
-**2. Couple Dialogue Format**
-- Guided conversation prompts derived from inventory results
-- Structured, safe format for discussing important topics
-- Speaker-listener dynamic with both partners having voice
-- Non-judgmental exploration of differences and similarities
+**2. صيغة حوار الزوجين**
+- توجيهاتٌ حوارية موجَّهة مستمدة من نتائج المقياس
+- صيغةٌ منظَّمة آمنة لمناقشة الموضوعات المهمة
+- ديناميكية المتحدث-المستمع بحيث يكون لكلا الشريكين صوت
+- استكشافٌ غير حاكم للاختلافات وأوجه التشابه
 
-**3. Facilitation Role**
-- Trained FOCCUS facilitators (typically clergy, counselors, couple educators)
-- Provide inventory, explain process, facilitate couple dialogue
-- Help couple identify strengths and growth areas
-- May provide skill-building if needed
+**3. دور الميسِّر**
+- ميسِّرو فوكَس المدرَّبون (عادةً رجال دين أو مستشارون أو مربّو أزواج)
+- يقدّمون المقياس، ويشرحون العملية، وييسّرون حوار الزوجين
+- يساعدون الزوجين على تحديد نقاط القوة ومجالات النمو
+- قد يقدّمون بناء مهاراتٍ عند الحاجة
 
-### Session Structure (Typical 4-6 Sessions)
+### بنية الجلسات (نموذجياً 4-6 جلسات)
 
-**Session 1:** Introduction, relationship history, strengths identification
+**الجلسة 1:** مقدمة، وتاريخ العلاقة، وتحديد نقاط القوة
 
-**Sessions 2-3:** Dialogue on major topics (communication, expectations, values, family patterns, sexuality, finances)
+**الجلستان 2-3:** حوارٌ حول الموضوعات الكبرى (التواصل، والتوقعات، والقيم، وأنماط الأسرة، والجنسانية، والمال)
 
-**Sessions 4-5:** Specific growth areas identified by couple or facilitator
+**الجلستان 4-5:** مجالات نموٍّ محددة يحددها الزوجان أو الميسِّر
 
-**Session 6:** Integration, commitment renewal, planning for ongoing couple growth
+**الجلسة 6:** التكامل، وتجديد الالتزام، والتخطيط لنموٍّ مستمر للزوجين
 
-## Variations
+## الصيغ المتنوعة
 
-### FOCCUS with Cohabiting Couples
-- Adapted for couples living together before marriage
-- Addresses unique questions about commitment and next steps
+### فوكَس للأزواج المتساكنين
+- مكيَّف للأزواج الذين يعيشون معاً قبل الزواج
+- يعالج أسئلةً خاصة بالالتزام والخطوات التالية
 
-### FOCCUS with Blended Families
-- Version addressing remarriage, stepfamily dynamics, previous children
+### فوكَس للأسر المدمجة
+- نسخةٌ تعالج الزواج الثاني، وديناميكيات أسرة الزوج/الزوجة غير البيولوجية، والأطفال السابقين
 
-### FOCCUS Catholic Version
-- Integrates Catholic theology of marriage
-- Explores spiritual dimensions and religious commitment
-- Often part of official Church marriage preparation
+### النسخة الكاثوليكية من فوكَس
+- تدمج لاهوت الزواج الكاثوليكي
+- تستكشف الأبعاد الروحية والالتزام الديني
+- غالباً جزءٌ من إعداد الكنيسة الرسمي للزواج
 
-### FOCCUS Secular Version
-- Removes religious content and framing
-- Suitable for non-religious couples or secular counseling contexts
+### النسخة العلمانية من فوكَس
+- تزيل المحتوى والإطار الديني
+- ملائمةٌ للأزواج غير الدينيين أو سياقات الاستشارة العلمانية
 
-## Research & Evidence
+## البحث والأدلة
 
-### General Research Support
-- **Longitudinal data:** couples using FOCCUS show improved communication and reduced conflict
-- **Satisfaction:** couples report increased understanding and connection
-- **Accessibility:** relatively low-cost, available in community and religious settings
-- **International use:** effectiveness demonstrated across cultures and settings
+### الدعم البحثي العام
+- **بيانات طولية:** يُظهر الأزواج الذين يستخدمون فوكَس تواصلاً محسَّناً ونزاعاً أقل
+- **الرضا:** يُبلغ الأزواج عن فهمٍ واتصالٍ متزايدَين
+- **سهولة الوصول:** منخفض التكلفة نسبياً، متوفر في السياقات المجتمعية والدينية
+- **الاستخدام الدولي:** فعاليةٌ مثبتة عبر ثقافاتٍ وسياقات متعددة
 
-### Limitations of Research Base
-- Limited large-scale randomized controlled trials in US
-- Much evidence is clinical observation and satisfaction surveys
-- Limited data comparing FOCCUS directly to other premarital programs
-- Research often conducted by FOCCUS developers/advocates (potential bias)
-- Limited long-term follow-up (most 1-2 years post-intervention)
+### حدود القاعدة البحثية
+- تجارب عشوائية محكومة واسعة النطاق محدودة في الولايات المتحدة
+- كثيرٌ من الأدلة ملاحظاتٌ سريرية واستطلاعات رضا
+- بياناتٌ محدودة تقارن فوكَس مباشرةً ببرامج ما قبل الزواج الأخرى
+- غالباً ما تُجرى الأبحاث من قِبل مطوّري فوكَس/داعميه (تحيّزٌ محتمل)
+- متابعةٌ طويلة الأمد محدودة (معظمها سنة إلى سنتين بعد التدخل)
 
-### Clinical Integration
-- Research shows couple dialogue and communication are key mechanisms of change
-- Benefit of structured, facilitated conversation appears robust
-- Strength-based approach aligns with positive psychology principles
+### التكامل السريري
+- يُظهر البحث أن حوار الزوجين والتواصل آليتان أساسيتان للتغيير
+- تبدو فائدة المحادثة المنظَّمة الميسَّرة قويةً
+- يتسق النهج القائم على نقاط القوة مع مبادئ علم النفس الإيجابي
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### Premarital Preparation
-- Church-based marriage preparation (Catholic, Protestant, interfaith)
-- Secular premarital counseling
-- Community mental health premarital services
+### الإعداد لما قبل الزواج
+- إعداد الزواج الكنسي (الكاثوليكي، البروتستانتي، بين الأديان)
+- الاستشارة العلمانية لما قبل الزواج
+- خدمات ما قبل الزواج في الصحة النفسية المجتمعية
 
-### Newlywed Enrichment
-- First-year marriage support
-- Prevention-focused early marriage counseling
-- Deepening couple connection
+### إثراء المتزوجين حديثاً
+- دعم السنة الأولى من الزواج
+- استشارةٌ وقائية مبكرة في الزواج
+- تعميق اتصال الزوجين
 
-### Couples in Conflict
-- Some couples use FOCCUS to understand and work through disagreements
-- Better suited for couples with some baseline communication ability
-- May be insufficient for high-conflict or abusive relationships
+### الأزواج في نزاع
+- يستخدم بعض الأزواج فوكَس لفهم خلافاتهم ومعالجتها
+- أنسب للأزواج ذوي قدرةٍ تواصلية أساسية
+- قد لا يكفي للعلاقات شديدة النزاع أو المسيئة
 
-### Interfaith Couples
-- Useful for couples from different religious backgrounds
-- Exploring spiritual dimensions and how to navigate differences
-- Building understanding and respect for different traditions
+### الأزواج بين الأديان
+- مفيدٌ للأزواج من خلفياتٍ دينية مختلفة
+- استكشاف الأبعاد الروحية وكيفية التعامل مع الاختلافات
+- بناء الفهم والاحترام لتقاليد مختلفة
 
-## Strengths & Limitations
+## نقاط القوة والحدود
 
-### Strengths
-- Dialogue-based, human-centered approach
-- Accessible format for diverse couples
-- Strength-focused and non-pathologizing
-- Adaptable to different religious and secular contexts
-- International adoption suggests cultural applicability
-- Addresses wide range of relationship topics
-- Research-informed refinement over decades
+### نقاط القوة
+- نهجٌ حواري متمركز حول الإنسان
+- صيغةٌ سهلة الوصول لأزواج متنوعين
+- يركّز على نقاط القوة ولا يصنِّف مرضياً
+- قابلٌ للتكيف مع سياقاتٍ دينية وعلمانية مختلفة
+- التبني الدولي يشير إلى قابلية التطبيق الثقافي
+- يعالج مجموعةً واسعة من موضوعات العلاقة
+- صقلٌ مسنود بالبحث عبر عقود
 
-### Limitations
-- Limited rigorous outcome research compared to PREPARE or PREP
-- Effectiveness depends on facilitator skill and training quality
-- May not adequately address severe issues (abuse, mental health, substance use)
-- Less emphasis on specific skill-building compared to some programs
-- Selection bias: couples seeking this intervention may differ from general population
+### الحدود
+- بحثُ نتائج صارم محدود مقارنةً ببرنامجي PREPARE أو PREP
+- تعتمد الفعالية على مهارة الميسِّر وجودة تدريبه
+- قد لا يعالج بشكلٍ كافٍ القضايا الشديدة (الإساءة، الصحة النفسية، تعاطي المواد)
+- تركيزٌ أقل على بناء مهاراتٍ محددة مقارنةً ببعض البرامج
+- تحيّز الاختيار: قد يختلف الأزواج الساعون لهذا التدخل عن عموم السكان
 
-## Related Interventions
+## تدخلات ذات صلة
 
-- [[tec-prepare-enrich]] — comprehensive assessment-based program with more detail on specific areas
-- [[tec-symbis]] — four-session skill-building program
-- [[tec-pick]] — premarital awareness program
-- [[tec-prep-program]] — PREP program emphasizing prevention and skill-building
-- [[tec-relationship-enhancement]] — structured skill-building approach
+- [[tec-prepare-enrich]] — برنامجٌ شامل قائم على التقييم بتفصيلٍ أكبر لمجالات محددة
+- [[tec-symbis]] — برنامج بناء مهاراتٍ من أربع جلسات
+- [[tec-pick]] — برنامج وعي ما قبل الزواج
+- [[tec-prep-program]] — برنامج PREP الذي يشدد على الوقاية وبناء المهارات
+- [[tec-relationship-enhancement]] — نهج بناء مهاراتٍ منظَّم
 
-## Key Figures
+## الشخصيات الرئيسة
 
-- Fr. Dennis E. Cozzens — co-founder
-- Fr. David Devine — co-founder
-- FOCCUS International and development team for ongoing refinement
+- الأب دينيس إ. كوزنز (Dennis E. Cozzens) — مؤسسٌ مشارك
+- الأب ديفيد ديفاين (David Devine) — مؤسسٌ مشارك
+- فريق فوكَس الدولي وفريق التطوير للصقل المستمر
 
-## Primary Sources & Resources
+## المصادر
 
 1. Cozzens, D.E., & Devine, D.M. (1994). FOCCUS: Facilitating Open Couple Communication, Understanding & Study. Catholic Diocese of Cleveland.
 2. FOCCUS International — official resource and training: https://www.foccusinc.com
 3. Consultation of religious leaders and marriage educators regarding FOCCUS efficacy
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Couple communication and dialogue
-- Premarital counseling and education
-- Values clarification
-- Family systems and family of origin
-- Relationship enrichment
-- Person-centered counseling
-- Facilitated conversation
-- Marital preparation
-- Interfaith marriage preparation
+- تواصل الزوجين وحوارهما
+- الاستشارة والتربية لما قبل الزواج
+- توضيح القيم
+- الأنظمة الأسرية وأسرة المنشأ
+- إثراء العلاقة
+- الاستشارة المتمركزة حول الشخص
+- المحادثة الميسَّرة
+- الإعداد للزواج
+- الإعداد للزواج بين الأديان
+</content>

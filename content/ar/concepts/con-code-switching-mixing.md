@@ -26,23 +26,30 @@ gaps:
 
 # التبديلُ والمزجُ الرمزي
 
-## Definition
+## التعريف
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+التبديلُ الرمزي (Code-Switching) تناوبُ المتحدّث بين لغتين أو أكثر (أو لهجتين) داخل الحديث الواحد أو حتى داخل الجملة الواحدة، بينما يُخصَّص مصطلحُ المزج الرمزي (Code-Mixing) أحياناً للتبديل الحادث داخل حدود الجملة (Intrasentential). أثبتت أبحاثُ جون گمپرز منذ الستينيات أن هذه الظاهرة ليست خللاً أو دليلَ نقصٍ لغوي بل سلوكٌ منظَّمٌ اجتماعياً ونحوياً يخدم وظائفَ تواصلية محدَّدة: الإشارة إلى الهوية، أو ضبط المسافة الاجتماعية، أو الاستشهاد، أو التأكيد.
 
-## Key Principles
+## القيود النحوية
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+بيّنت شانا پوپلاك في دراستها المرجعية عن ثنائيي اللغة الإسبانية-الإنجليزية (1980) أن التبديل لا يحدث عشوائياً بل يخضع لقيودٍ بنيوية، أبرزُها قيدُ التكافؤ البنيوي (Equivalence Constraint): يحدث التبديلُ في المواضع التي تتوافق فيها البنيةُ السطحية للغتين نحوياً، فلا يُتوقَّع تبديلٌ بين فعلٍ ومفعوله إن اختلف ترتيبُهما بين اللغتين. وقد أضافت أيضاً قيدَ المورفيم الحر (Free Morpheme Constraint) الذي يمنع التبديل داخل الكلمة الواحدة بين جذعٍ ولاحقةٍ من لغتين مختلفتين نحوياً غير متوافقتين.
 
-## Evidence
+## نموذج اللغة الإطارية عند ميرز-سكوتون
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+قدّمت كارول ميرز-سكوتون تفسيراً بديلاً في نموذج اللغة الإطارية (Matrix Language Frame Model)، الذي يميّز بين لغةٍ إطارية (Matrix Language) تفرض البنيةَ النحوية العامة للجملة (ترتيب الكلمات والمورفيمات الوظيفية)، ولغةٍ مضمَّنة (Embedded Language) تُدرِج عناصرَ معجمية داخل هذا الإطار دون أن تُخلّ ببنيته. يفسّر هذا النموذجُ عدمَ تناظر الدورين بين اللغتين المتبدَّلتين تفسيراً لا يعتمد فقط على التوافق السطحي كما عند پوپلاك.
 
-## References
+## الوظائف الاجتماعية التداولية
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+يخدم التبديلُ الرمزي، بحسب تحليل گمپرز للتلميح السياقي (Contextualization Cues)، وظائفَ تداولية متعدّدة: الاستشهاد المباشر بكلامٍ سابق، وتوجيهَ الخطاب لمخاطَبٍ بعينه، وتخفيفَ أو تشديدَ حدّة طلبٍ أو أمر، والتعبيرَ عن هوياتٍ متعدّدة متزامنة. هذا ما ميّز دراساتِ التبديل الرمزي عن النظرة القديمة التي اعتبرته "تلوّثاً" لغوياً أو ضعفَ كفاءة.
+
+## العلاقة بمفاهيم مجاورة
+
+يتقاطع التبديلُ الرمزي مع الازدواجية اللغوية (وضعُ توزيعٍ وظيفي ثابت بين صيغةٍ عالية وصيغةٍ عامّية)، ويختلف عن مفهوم التلغُّة المتداخلة (Translanguaging) عند أوفيليا غارسيا الذي يرفض التمييزَ بين "لغتين منفصلتين" أصلاً ويصف الممارسةَ اللغوية بوصفها نظاماً واحداً متكاملاً عند الفرد ثنائي اللغة. كما يستند نظرياً إلى نماذج المعالجة المعجمية كنموذج BIA+ الذي يفسّر التفعيلَ المتزامن للغتين أثناء الإنتاج والفهم.
+
+## المصادر
+
+- Poplack, S. (1980). "Sometimes I'll start a sentence in Spanish y termino en español." *Linguistics*, 18(7-8), 581-618.
+- Myers-Scotton, C. (1993). *Duelling Languages: Grammatical Structure in Codeswitching*. Oxford University Press.
+- Gumperz, J. J. (1982). *Discourse Strategies*. Cambridge University Press.
+- García, O., & Wei, L. (2014). *Translanguaging: Language, Bilingualism and Education*. Palgrave Macmillan.
 

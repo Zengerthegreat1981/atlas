@@ -26,7 +26,7 @@ related:
 - id: "thk-binswanger", title: "لودفيغ بينسوانغر", type: "مفكر"
 - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
 - id: "con-dasein-being-in-the-world", title: "الدازاين والوجود-في-العالم (Dasein)", type: "مفهوم"
-- id: "con-being-towards-death", title: "الكينونة-نحو-الموت والأصالة الوجودية (Sein-zum-Tode)", type: "مفهوم"
+- id: "con-being-toward-death", title: "الكينونة-نحو-الموت", type: "مفهوم"
 - id: "trm-sorge-care-heidegger", title: "الهم والعناية (Sorge): التحديد الأنطولوجي للدازاين", type: "مصطلح لغوي متنازع عليه"
 - id: "trm-verfallen-falling-heidegger", title: "السقوط والتهافت (Verfallenheit): تشتت الدازاين في شواغل اليومي", type: "مصطلح لغوي متنازع عليه"
 - id: "crt-adorno-jargon-authenticity-critique", title: "نقد أدورنو: رطانة الأصالة كأيديولوجيا تخديرية", type: "نقد خارجي موثَّق"

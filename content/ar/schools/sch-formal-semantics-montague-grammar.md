@@ -47,35 +47,33 @@ gaps:
 
 # الدلالةُ الصوريةُ ونحوُ مونتاغيو
 
-## Definition
+تيارٌ في الدلالة اللسانية أسّسه الفيلسوف والمنطقي الأمريكي **ريتشارد مونتاغيو** في أواخر الستينيات، يطبّق أدوات المنطق الرياضي والدلالة الصورية (Model-Theoretic Semantics) على تحليل معنى الجمل في اللغات الطبيعية بالدقة نفسها التي تُحلَّل بها اللغات الصورية في المنطق، منطلقاً من أطروحته الشهيرة بأنه «لا يوجد فرقٌ نظري مهم بين اللغات الطبيعية واللغات الصورية للمنطقيين» (English as a Formal Language، 1970).
 
-Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
+## مبدأ التركيبية
 
-## Theoretical Approaches
+يقوم نحو مونتاغيو على **مبدأ التركيبية** (Principle of Compositionality)، الذي صِيغ لاحقاً في عبارةٍ صارت شعاراً للحقل: «النحو جبر، والدلالة جبر، والمعنى تشاكلٌ (Homomorphism) بينهما». بموجب هذا المبدأ، يُشتقّ معنى أي تعبيرٍ مركّب آلياً من معاني مكوّناته وطريقة تركيبها النحوي فقط، بحيث تُقابل كل قاعدةٍ نحوية قاعدةَ تفسيرٍ دلالي موازية تعمل عليها تلقائياً — نُشرت هذه المعالجة الأشهر في مقالته «The Proper Treatment of Quantification in Ordinary English» (المعروفة اختصاراً بـPTQ، 1973).
 
-Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
+## المنطق المكثَّف والعوالم الممكنة
 
-## Core Concepts
+استعمل مونتاغيو منطقاً كثيفَ النمط (Intensional Logic) لمعالجة دلالة الجمل عبر **دلالات العوالم الممكنة** (Possible Worlds Semantics)، مميّزاً بين **الامتداد** (Extension) — مرجع التعبير في عالمٍ ولحظةٍ بعينهما — و**الكثافة** (Intension) — الدالّة التي تربط كل عالمٍ ممكن ولحظة بامتداد التعبير فيهما. مكّن هذا التمييز من تفسير ظواهر معقدة كانت تستعصي على الدلالة الامتدادية البسيطة، مثل الأفعال الموجِّهة (كـ«يعتقد» أو«يجب») والجمل الشرطية، بربطها بمجموعاتٍ من العوالم الممكنة بدل مرجعٍ واحدٍ ثابت.
 
-- Reference: What does a word refer to?
-- Sense: How does a word relate to other words?
-- Entailment: What must be true if a statement is true?
-- Presupposition: What background assumptions does a statement carry?
+## الكمّيات المعمَّمة والنحو الفئوي
 
-## Mechanisms
+استند مونتاغيو إلى **النحو الفئوي** (Categorial Grammar)، الذي طوّره سابقاً كازيمير أجدوكيفيتش ويواكيم لامبك، ليُخصِّص لكل مقولةٍ نحوية نوعاً دلالياً موازياً (فالاسم من نوع الأفراد، والفعل اللازم دالّةٌ من الأفراد إلى قيم الصدق، وهكذا). ومكّنت هذه الآلية من معالجة العبارات الكمّية («كل»، «بعض»، «معظم») بوصفها **كمّياتٍ معمَّمة** (Generalized Quantifiers)، وهو إطارٌ صاغه لاحقاً جون بارواز وروبِن كوبر بصورةٍ أعمّ، وأصبح أداةً معيارية في تحليل بنية الجملة الاسمية منطقياً.
 
-Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
+## التطور اللاحق: هايم وكراتزر وكامپ
 
-## Cross-linguistic Evidence
+طوّرت **باربارا بارتة** أعمال مونتاغيو وجعلتها متاحةً منهجياً للسانيين غير المتخصصين في المنطق، فربطتها بأدوات النحو التوليدي. ثم وسّعت **إيرين هايم** الإطار عبر «دلالة تغيير الملفّ» (File Change Semantics) لمعالجة الإحالة الضميرية عبر الجمل، خصوصاً في «جمل الحمار» (Donkey Sentences) المعضلة منطقياً، بالتوازي مع «نظرية تمثيل الخطاب» (DRT) التي طوّرها هانز كامپ لغرضٍ مشابه. وأضافت **أنجيليكا كراتزر** تحليلاً دلالياً دقيقاً للأفعال الموجِّهة عبر مفهومَي «القاعدة الموجِّهية» و«مصدر الترتيب».
 
-Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
+## الأثر والعلاقة بالتداولية
 
-## Contemporary Applications
+رغم استقلال الدلالة الصورية تاريخياً عن سلالة تشومسكي التوليدية النحوية (إذ نشأت من تقاطع المنطق الرياضي والفلسفة التحليلية لا من علم اللغة البنيوي)، أصبحت اليوم الإطار السائد في تحليل معنى الجملة أكاديمياً، وتفاعلت مع التداولية الغرايسية في معالجة ظواهر الافتراض المسبق وجسيمات التركيز وبنية المعلومة، مكوِّنةً حقلاً بينيّاً بين الدلالة الصورية والتداولية الصورية.
 
-Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+## المصادر
 
-## References
-
-- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
-- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+- Montague, Richard. "The Proper Treatment of Quantification in Ordinary English." In *Approaches to Natural Language*, eds. Hintikka et al. Reidel, 1973.
+- Partee, Barbara H. "Montague Grammar." In *Handbook of Logic and Language*, eds. van Benthem & ter Meulen. Elsevier, 1997.
+- Heim, Irene, & Kratzer, Angelika. *Semantics in Generative Grammar*. Blackwell, 1998.
+- Barwise, Jon, & Cooper, Robin. "Generalized Quantifiers and Natural Language." *Linguistics and Philosophy*, 4(2), 1981.
+- Dowty, David R., Wall, Robert E., & Peters, Stanley. *Introduction to Montague Semantics*. D. Reidel, 1981.
 

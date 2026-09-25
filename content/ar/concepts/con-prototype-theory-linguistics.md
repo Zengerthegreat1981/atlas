@@ -25,31 +25,34 @@ gaps:
 
 # النظريةُ النموذجيةُ في الدلالة اللسانية
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+النظريةُ النموذجية (Prototype Theory) نظريةٌ في التصنيف المفهومي طوّرتها عالمةُ النفس المعرفي إيلينور روش في سلسلة أبحاثٍ تجريبية بين 1973 و1975، وأحدثت ما وُصف بـ"ثورةٍ كوبرنيكية" في نظرية التصنيف، إذ ترفض الافتراضَ الأرسطي الكلاسيكي بأن عضوية أي مقولةٍ (Category) تُحدَّد بمجموعة شروطٍ ضرورية وكافية يشترك فيها كل أعضاء المقولة على قدم المساواة، وتقترح بدلاً من ذلك أن عضويةَ المقولة متدرِّجة: بعضُ الأعضاء أكثرُ مركزيةً وتمثيلاً نموذجياً للمقولة من أعضاءَ آخرين.
 
-## Theoretical Framework
+## المنهجيةُ التجريبية: تقييمُ جودة المثال
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+استخدمت روش منهجيةً تجريبية بسيطة وفعّالة، طالبةً من المشارِكين تقييمَ مدى تمثيل أفرادٍ معيّنين لمقولةٍ ما على مقياسٍ من سبع درجات (مثلاً: مدى كون "التفاحة" أو "الزيتونة" مثالاً جيداً لمقولة "فاكهة"). أظهرت النتائجُ باستمرارٍ أن أحكامَ المشارِكين متّسقة عبر الأفراد، وأن هذه الأحكامَ ترتبط ارتباطاً وثيقاً بسرعة الاستجابة في مهامّ التحقّق ("هل التفاحة فاكهة؟" أُجيبت أسرعَ من "هل الزيتونةُ فاكهة؟")، وبتأثيرات التمهيد المعرفي (Priming)، مما يدعم الواقعيةَ النفسية لهذا التدرّج لا كونه مجرّد أثرٍ منهجي للاستبيان.
 
-## Key Principles
+## التطبيقُ على الدلالة اللسانية
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+نُقلت نتائجُ روش إلى الدلالة اللسانية بوصفها تحدّياً جوهرياً للتعريف الكلاسيكي لمعنى الكلمة بالسمات الضرورية والكافية: فمقولةٌ كـ"طائر" لا تُعرَّف بمجموعة سماتٍ يشترك فيها كل الطيور بالتساوي (الطيران، الريش، المنقار)، إذ يوجد طيورٌ لا تطير (النعامة، البطريق) لكنها تبقى أعضاءً في المقولة، وإن كانت أعضاءً أقلَّ نموذجيةً من العصفور أو الحمامة، اللذين يمثّلان "النموذجَ المركزي" (Prototype) للمقولة.
 
-## Evidence Sources
+## تصنيفُ برلين وكاي للألوان: دعمٌ عبر لغوي
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+قدّم برنت برلين وپول كاي، في دراسةٍ سابقة زمنياً على أعمال روش لكنها انسجمت معها انسجاماً كبيراً، أدلّةً عبر لغوية من دراسة مصطلحات الألوان الأساسية في لغاتٍ متعدّدة، مبيّنَين أن مقولاتِ الألوان أيضاً تتمركز حول درجاتِ لونٍ "بؤرية" (Focal Colors) أكثرَ نموذجية من غيرها، حتى حين تختلف حدودُ المقولة اللونية نفسِها بين اللغات، مما دعم فكرةَ أن المركزيةَ النموذجية ظاهرةٌ إدراكية عامّة تتجاوز مقولاتٍ لغوية بعينها.
 
-## Contemporary Applications
+## التطوّرُ اللاحق: البنيةُ الإشعاعية عند لاكوف
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+طوّر جورج لاكوف هذه الأفكارَ لاحقاً في كتابه *Women, Fire, and Dangerous Things* (1987)، مقترحاً أن المقولاتِ اللغوية غالباً ما تتّخذ بنيةً إشعاعية (Radial Structure) تتفرّع من حالةٍ مركزية نموذجية إلى حالاتٍ هامشية مرتبطة بها بعلاقاتٍ استعارية أو مجازية، وهو ما فسّر ظواهرَ تعدّد المعنى (Polysemy) المنهجي التي عجزت النماذجُ الكلاسيكية عن تفسيرها بأدواتٍ صورية بسيطة.
 
-## References
+## الأثر
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+أحدثت النظريةُ النموذجية تحوّلاً جذرياً في الدلالة اللسانية المعاصرة، وصارت من الركائز التأسيسية للسانيات المعرفية عموماً، ودفعت الباحثين للتخلّي عن نمذجة معاني الكلمات بمجموعاتٍ منطقية صارمة من السمات لصالح نماذجَ تدرّجية أكثرَ واقعيةً نفسياً تعكس كيف يصنّف المتحدّثون فعلياً العالمَ من حولهم.
+
+## المصادر
+
+- Rosch, E. (1973). "Natural Categories." *Cognitive Psychology*, 4(3), 328-350.
+- Rosch, E. (1978). "Principles of Categorization." In E. Rosch & B. B. Lloyd (Eds.), *Cognition and Categorization*. Erlbaum.
+- Berlin, B., & Kay, P. (1969). *Basic Color Terms: Their Universality and Evolution*. University of California Press.
+- Lakoff, G. (1987). *Women, Fire, and Dangerous Things: What Categories Reveal about the Mind*. University of Chicago Press.
 

@@ -23,23 +23,30 @@ gaps: []
 
 # البنيةُ المنطقية وأصنافُ الأكتيونسآرت في نحو الدور والمرجع
 
-## Definition
+## التعريف
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+البنيةُ المنطقية (Logical Structure - LS) هي التمثيلُ الدلالي المعجمي المركزي في نحو الدور والمرجع (RRG)، صيغةٌ صورية موحَّدة تمثّل معنى كل مسنَد (فعلٍ أو صفة) بحسب صنفه من أصناف الأكتيونسآرت (Aktionsart) — التصنيف الدلالي الداخلي للأفعال بحسب بنيتها الزمنية والحدَثية الداخلية، لا بحسب زمنها النحوي الخارجي (ماضٍ/مضارع).
 
-## Key Principles
+## أصنافُ ﭬندلر الأربعة وتوسيعاتُها
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+يستند هذا التصنيفُ إلى أصناف الأفعال الأربعة التي صاغها الفيلسوفُ زينو ﭬندلر: الحالاتُ (States، كـ"يعرف")، التي لا تتطلّب طاقةً مستمرّة ولا تتغيّر داخلياً؛ والأنشطةُ (Activities، كـ"يجري")، التي تتضمّن نشاطاً مستمرّاً بلا نهايةٍ محدَّدة داخلياً؛ والإنجازاتُ (Accomplishments، كـ"يبني بيتاً")، التي تتضمّن عمليةً ممتدّة تنتهي بنقطة تحوّل نهائية؛ والتحقّقاتُ (Achievements، كـ"يصل")، التي تحدث لحظياً دون امتدادٍ زمني داخلي. أضاف ﭬان ﭬالِن ولابولا صنفاً خامساً: الإنجازاتُ النشطة (Active Accomplishments، كـ"يركض إلى المتجر")، التي تجمع خاصيةَ النشاط المستمرّ مع نهايةٍ محدَّدة.
 
-## Evidence
+## الصياغةُ الصورية بالعوامل البدائية
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+تُمثَّل هذه الأصنافُ في البنية المنطقية بعواملَ دلالية بدائية موحَّدة عبر اللغات: تُمثَّل الحالاتُ بمسنَدٍ بسيط (predicate')، وتُضاف علامةُ do' للأنشطة للدلالة على الفعل الإرادي المستمرّ، وعاملُ BECOME للإنجازات الممتدّة الدالِّ على تحوّلٍ تدريجي، وعاملُ INGR (اختصار Ingressive) للتحقّقات اللحظية الدالِّ على تحوّلٍ فوري، إضافةً إلى عامل CAUSE الذي يُضاف إلى أيٍّ من هذه الأصناف الأساسية لتمثيل البنية السببية حين يكون الفعلُ تسبيبياً (كـ"يكسر" مقابل "ينكسر").
 
-## References
+## الوظيفةُ في خوارزمية الربط
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+لا تُعدُّ البنيةُ المنطقية مجرّد تصنيفٍ وصفي، بل مدخلاً أساسياً في خوارزمية الربط الدلالي النحوي عند RRG: منها تُشتقّ الأدوارُ الدلالية الدقيقة لحجج الفعل، ومنها تُخصَّص الأدوارُ الكليّة (الفاعل والمتأثِّر) بحسب موقع كل حجّةٍ ضمن العوامل البدائية للبنية، بحيث يرتبط الوصفُ الدلالي الداخلي للفعل مباشرةً بالتحقّق النحوي الفعلي لحججه في الجملة.
+
+## الأثر عبر اللغات
+
+أثبت هذا الإطارُ قدرته على وصف ظواهرَ نحوية متنوّعة عبر لغاتٍ مختلفة بأدواتٍ دلالية موحَّدة، كتوزيع صيغ الجانب النحوي (Aspect) وقيود التوافق بين الأفعال وظروف الزمن، وصار أداةً تحليلية معيارية في دراسات النمطية اللغوية التي تقارن كيف تُشفِّر لغاتٌ مختلفة البنيةَ الزمنية الداخلية للأحداث.
+
+## المصادر
+
+- Vendler, Z. (1957). "Verbs and Times." *The Philosophical Review*, 66(2), 143-160.
+- Van Valin, R. D. Jr., & LaPolla, R. J. (1997). *Syntax: Structure, Meaning and Function*. Cambridge University Press.
+- Van Valin, R. D. Jr. (2005). *Exploring the Syntax-Semantics Interface*. Cambridge University Press.
+- Dowty, D. R. (1979). *Word Meaning and Montague Grammar*. D. Reidel.
 

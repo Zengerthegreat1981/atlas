@@ -22,23 +22,28 @@ gaps:
 
 # توك پيسِن: دراسةُ حالةٍ كلاسيكية في نشوء الكريول
 
-## Definition
+تُعدّ «توك پيسِن» (Tok Pisin)، إحدى اللغات الرسمية لبابوا غينيا الجديدة اليوم، من أكثر حالات نشوء لغات الاتصال (Pidgins) والكريول توثيقاً ودراسةً في اللسانيات، لأن تاريخها المكتوب يمتدّ منذ نشأتها في القرن التاسع عشر حتى تحوّلها الكامل إلى لغةٍ أمّ لملايين المتكلمين، مما مكّن الباحثين من رصد كل مراحل «دورة حياة» لغة الاتصال بأدلةٍ مباشرة لا استنتاجاتٍ نظرية بأثرٍ رجعي فقط.
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+## النشأة كلغة سُخرة استعمارية
 
-## Key Principles
+نشأت توك پيسِن في النصف الثاني من القرن التاسع عشر على مزارع جوز الهند وقصب السكر في كوينزلاند الأسترالية وساموا، حيث اختلط عمّالٌ مجلوبون من جزرٍ ميلانيزية متعددة لا تتشارك لغةً واحدة، فاضطروا إلى ابتكار لغة اتصالٍ مبسَّطة (بيجن) مستمَدّ معجمها الأكبر من الإنجليزية، مع مفرداتٍ من الألمانية (بحكم الاستعمار الألماني لغينيا الجديدة 1884-1914) ولغة توليل المحلية (Kuanua) وبيجن الصينية. في هذه المرحلة الأولى كانت اللغة **مقيَّدة وظيفياً**: معجمها محدود وبنيتها النحوية مبسَّطة إلى أقصى حد، تخدم فقط التواصل العملي الأساسي بين متكلمين لا لغة أمّ مشتركة بينهم.
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+## التوسّع البنيوي
 
-## Evidence
+مع استمرار استخدام اللغة عبر أجيالٍ من العمال المهاجرين وانتشارها عبر البعثات التبشيرية والإدارة الاستعمارية، خضعت توك پيسِن لما أسماه **پيتر موهلهويزلر** «التوسّع البنيوي» (Structural Expansion): نمو معجمها واتساع قواعدها النحوية تدريجياً لتغطية مجالاتٍ دلالية وتراكيب أكثر تعقيداً لم تكن ضرورية في طورها الأول كلغة سخرةٍ محدودة الوظيفة، فتطوّرت أدواتٌ نحوية صريحة (كلاحقة الجمع «ol» ولاحقة التعدية «-im») لم تكن موجودةً في المراحل الأولى.
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+## التكريل والتوطين
 
-## References
+بحلول منتصف القرن العشرين، ومع تحضّر بابوا غينيا الجديدة وتقدّمها نحو الاستقلال (1975)، بدأ أطفالٌ حضريون يكتسبون توك پيسِن **لغةً أمّاً أولى** بدل لغةٍ ثانية مكتسبة للتخاطب العملي فقط، وهي العلامة الحاسمة على تحوّل لغة الاتصال إلى **كريول** بالمعنى اللساني الدقيق (Nativization/Creolization): لغةٌ مكتملة البنية تكتسبها أجيال جديدة كلغةٍ أولى دون توسّطٍ من لغةٍ مصدرية. تُصنَّف توك پيسِن اليوم ضمن «البيجن الموسَّع» (Expanded Pidgin)، إذ تُستخدَم في المدن استخداماً يومياً كاملاً لا يقلّ تعقيداً عن أي كريول مكتمل.
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+## القيمة النظرية للحالة
+
+توفّر توك پيسِن حالةً اختباريةً نادرة لفرضية **اللغة المِرقاة واللغة الفوقية** (Substrate/Superstrate Hypothesis) في تفسير نشوء الكريول: إلى أي حدٍّ تعكس بنيتها تأثير اللغات الميلانيزية الركيزية (Substrate) التي تحدّث بها العمال أصلاً، مقابل تبسيط اللغة الفوقية (الإنجليزية) وحدها؟ كما أتاح توثيقها المستمر عبر أكثر من قرنٍ متابعة نشوء **متصل الكريول** (Creole Continuum) الذي يربط أصنافاً حضرية أقرب إلى الإنجليزية المعيارية بأصنافٍ ريفية أبعد عنها، وهي ظاهرةٌ محورية في دراسات لغات الاتصال عموماً.
+
+## المصادر
+
+- Mühlhäusler, Peter. *Pidgin and Creole Linguistics*. Blackwell, 1986.
+- Mühlhäusler, Peter. "Structural Expansion and the Process of Creolization." In *Theoretical Orientations in Creole Studies*, eds. Valdman & Highfield. Academic Press, 1980.
+- Verhaar, John W. M. *Toward a Reference Grammar of Tok Pisin*. University of Hawaii Press, 1995.
+- Romaine, Suzanne. "Pidgin and Creole Languages." In *The Handbook of Linguistics*, eds. Aronoff & Rees-Miller. Blackwell, 2001.
 

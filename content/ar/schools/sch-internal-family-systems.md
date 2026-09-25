@@ -6,263 +6,263 @@ part: psychology
 parent: major schools
 ---
 
-# Internal Family Systems (IFS) Therapy
+# علاج نظام الأسرة الداخلية (Internal Family Systems, IFS)
 
-Internal Family Systems (IFS) is a comprehensive, evidence-based psychotherapy model treating the mind as a system of relatively autonomous sub-personalities ("parts") and a central organizing presence ("Self"). Developed by Richard Schwartz in the 1980s, IFS integrates family systems theory, psychodynamic understanding, and mindfulness, offering both framework for understanding pathology and systematic procedures for healing trauma, complex disorders, and developmental wounds.
+نظامُ الأسرة الداخلية (Internal Family Systems - IFS) نموذجٌ علاجي نفسي شامل قائم على الأدلة، يعامل العقلَ بوصفه نظاماً من شخصيات فرعية مستقلة نسبياً ("أجزاء" - parts) وحضوراً مركزياً منظِّماً ("الذات" - Self). طوَّره ريتشارد شوارتز (Richard Schwartz) في ثمانينيات القرن العشرين، ويدمج نظريةَ الأسرة كنظام، والفهمَ النفسي الديناميّ، واليقظةَ الذهنية، فيقدِّم إطاراً لفهم الاضطراب وإجراءاتٍ منهجيةً لشفاء الصدمة والاضطرابات المركّبة والجراح النمائية معاً.
 
-## Historical Development
+## التطور التاريخي
 
-**Foundations (1970s-1980s):**
-- Family systems theory: Bowen, Minuchin (family as system, not individuals)
-- Psychodynamic parts psychology: Ego states, Internal Working Models
-- Richard Schwartz: Therapist working with eating disorder patients
-- Observation: clients describing "parts" (critic, protector, vulnerable child)
-- Realization: parts were adaptive; system needed leadership, not elimination
+**الأسس (السبعينيات-الثمانينيات):**
+- نظرية الأسرة كنظام: بوين ومينوشين (Bowen, Minuchin) (الأسرة نظامٌ لا أفراد)
+- علم نفس الأجزاء الديناميّ النفسي: حالات الأنا (Ego states)، النماذج الداخلية العاملة
+- ريتشارد شوارتز: معالجٌ عمل مع مرضى اضطرابات الأكل
+- الملاحظة: وصف المرضى "أجزاءً" (الناقد، الحامي، الطفل الجريح)
+- الإدراك: أن الأجزاء تكيّفية، وأن النظام يحتاج قيادةً لا إلغاءً
 
-**Formal development (1988-2000):**
-- "IFS" name and model formalized
-- Integration of systems perspective with parts work
-- Development of 6-step SFBT (Self-Focused, but distinct from solution-focused)
-- Training institutes, certification programs established
-- Expansion beyond trauma to complex PTSD, eating disorders, substance abuse
+**التطور الرسمي (1988-2000):**
+- ترسّخ اسم "IFS" والنموذج رسمياً
+- دمج منظور الأنظمة بالعمل على الأجزاء
+- تطوير علاج سلوكي معرفي موجَّه بالذات من 6 خطوات (Self-Focused)
+- إنشاء معاهد تدريب وبرامج اعتماد
+- التوسع من الصدمة إلى اضطراب كرب ما بعد الصدمة المركّب، واضطرابات الأكل، وإدمان المواد
 
-**Contemporary (2000s-present):**
-- Neuroscience integration (polyvagal, nervous system)
-- Trauma-informed development
-- Expansion to couples, families, organizations
-- Growing empirical support for effectiveness
+**العصر المعاصر (2000-الآن):**
+- دمج علم الأعصاب (نظرية العصب المبهم المتعدد - polyvagal، الجهاز العصبي)
+- تطوّر موجَّه بفهم الصدمة
+- التوسع إلى الأزواج والأسر والمؤسسات
+- تنامي الدعم التجريبي لفعاليته
 
-## Core Theory: Internal Systems
+## النظرية الجوهرية: الأنظمة الداخلية
 
-### The System Concept
+### مفهوم النظام
 
-**Multiple selves vs. fragmentation:**
-- Normal pluralism: different facets, contexts, roles
-- Not pathological multiplicity (DID) but functional differentiation
-- Each part has: history, beliefs, protective function, original positive intention
-- Self: core organizing presence, witnessed by parts
+**الذوات المتعددة مقابل التشظي:**
+- التعدد الطبيعي: أوجه وسياقات وأدوار مختلفة
+- ليس تعدداً مرضياً (اضطراب الهوية الانفصامي) بل تمايزاً وظيفياً
+- لكل جزء: تاريخه ومعتقداته ووظيفته الحمائية ونيّته الإيجابية الأصلية
+- الذات: الحضور المنظِّم الجوهري الذي تشهده الأجزاء
 
-**System properties:**
-- Organization: parts relate hierarchically, according to protective roles
-- Balance: healthy system has Self in leadership with parts cooperating
-- Imbalance: protective parts over-active when system threatened
-- Healing: restoring Self-leadership and part-System relationship
+**خصائص النظام:**
+- التنظيم: تترابط الأجزاء تراتبياً وفق أدوارها الحمائية
+- التوازن: في النظام السليم تقود الذاتُ وتتعاون الأجزاء
+- الاختلال: تنشط الأجزاءُ الحمائية أكثر من اللازم حين يتهدَّد النظام
+- الشفاء: استعادة قيادة الذات والعلاقة بين الأجزاء والنظام
 
-### The Eight Cs of Self-Leadership
+### السِمات الثماني لقيادة الذات
 
-**Self characteristics (when present):**
-- **Curiosity:** Genuine interest in parts without judgment
-- **Calm:** Peaceful, untroubled presence
-- **Clarity:** Clear seeing, understanding system dynamics
-- **Compassion:** Care and concern for all parts
-- **Confidence:** Trust in healing capacity
-- **Courage:** Willingness to face difficult material
-- **Creativity:** Ability to generate new solutions
-- **Connected:** Attuned to others and environment
+**خصائص الذات (عند حضورها):**
+- **الفضول (Curiosity):** اهتمامٌ صادق بالأجزاء دون حكم
+- **الهدوء (Calm):** حضورٌ ساكن غير مضطرب
+- **الوضوح (Clarity):** رؤيةٌ جليّة لديناميات النظام وفهمها
+- **الرحمة (Compassion):** الاهتمام بكل الأجزاء ورعايتها
+- **الثقة (Confidence):** الثقة بقدرة الشفاء
+- **الشجاعة (Courage):** الاستعداد لمواجهة المادة الصعبة
+- **الإبداع (Creativity):** القدرة على توليد حلول جديدة
+- **الاتصال (Connected):** التناغم مع الآخرين والبيئة
 
-**Self-led system:**
-- Parts feel heard, understood, not pathologized
-- Conflict resolution possible (parts cooperate)
-- Protective mechanisms transform rather than elimination
-- Trauma processing becomes possible
+**النظام بقيادة الذات:**
+- تشعر الأجزاء بأنها مسموعة ومفهومة لا مصنَّفة كمرضية
+- يصبح حلُّ النزاع ممكناً (تتعاون الأجزاء)
+- تتحول الآلياتُ الحمائية بدل أن تُلغى
+- تصبح معالجة الصدمة ممكنة
 
-### The Three Part Categories
+### فئات الأجزاء الثلاث
 
-**Protective parts (exiles' keepers):**
-- Managers: proactive control, prevention through organization, hypervigilance, people-pleasing
-- Firefighters: reactive escape/suppression, often substance abuse, risk-taking, dissociation
-- Goal: protect vulnerable exiles; overzealous protective strategies create problems
+**الأجزاء الحمائية (حرّاس المنفيين):**
+- المدراء (Managers): تحكّمٌ استباقي، ووقاية عبر التنظيم، وفرط يقظة، وإرضاء الآخرين
+- المطافئ (Firefighters): هروبٌ أو كبتٌ تفاعلي، غالباً إدمان مواد ومخاطرة وانفصال
+- الهدف: حماية المنفيين الجرحى؛ لكن الاستراتيجيات الحمائية المفرطة تخلق مشكلات
 
-**Exiled parts:**
-- Core wounded, vulnerable, often hold trauma memories, emotions, beliefs
-- Carry: shame, terror, grief, hopelessness
-- Often hidden, restricted from consciousness by protective parts
-- Need: compassionate retrieval, re-parenting, unburdening
+**الأجزاء المنفيّة (Exiled parts):**
+- جريحةٌ جوهرياً وهشّة، تحمل غالباً ذكرياتِ الصدمة ومشاعرها ومعتقداتها
+- تحمل: العار والرعب والحزن واليأس
+- غالباً مخفيّة، تقيّد الأجزاءُ الحمائية وصولها إلى الوعي
+- تحتاج: استعادةً رحيمة، وإعادة تنشئة، وتحرراً من العبء
 
-**System healing:**
-- Unburdening exiles: release traumatic beliefs, emotions
-- Moderating managers: allow more flexibility, spontaneity
-- Depowering firefighters: no longer needed extreme protection
-- Self-leadership: parts trust Self to handle challenges
+**شفاء النظام:**
+- تحرير المنفيين من العبء: إطلاق المعتقدات والمشاعر الصادمة
+- تلطيف المدراء: السماح بمزيد من المرونة والتلقائية
+- تجريد المطافئ من قوّتهم: لم تعد الحماية المفرطة لازمة
+- قيادة الذات: تثق الأجزاءُ بالذات لمواجهة التحديات
 
-## The IFS Process: Procedure
+## عملية IFS: الإجراء
 
-### Phase 1: Access & Understanding
+### المرحلة الأولى: الوصول والفهم
 
-**Identifying parts:**
-- Client notices reactions, patterns, polarities
-- "Part of me wants X, part of me wants Y"
-- Therapist helps distinguish different voices/perspectives
+**تحديد الأجزاء:**
+- يلاحظ المريض ردود الفعل والأنماط والاستقطابات
+- "جزءٌ مني يريد كذا، وجزءٌ آخر يريد كذا"
+- يساعد المعالجُ على تمييز الأصوات/المنظورات المختلفة
 
-**Getting to know parts:**
-- What is this part's role/job?
-- What is it protecting from (protecting which exiles)?
-- How old is this part? When did it develop?
-- What would it do differently if it didn't have to protect?
+**التعرف على الأجزاء:**
+- ما دور هذا الجزء/وظيفته؟
+- ممّ يحمي (أيّ المنفيين يحمي)؟
+- كم عمر هذا الجزء؟ متى نشأ؟
+- ماذا كان سيفعل لو لم يكن مضطراً للحماية؟
 
-### Phase 2: Developing Self-Leadership
+### المرحلة الثانية: تنمية قيادة الذات
 
-**Accessing Self:**
-- Noticing presence not caught in reactions
-- Calm, curious, compassionate observation point
-- May take time; trauma/dissociation may obscure Self initially
+**الوصول إلى الذات:**
+- ملاحظة حضورٍ لا تأسره ردودُ الفعل
+- نقطة مراقبةٍ هادئة فضولية رحيمة
+- قد يستغرق وقتاً؛ فالصدمة/الانفصال قد يحجبان الذات في البداية
 
-**Separation from parts:**
-- "I notice this anxious part" (not "I am anxious")
-- Creating psychological distance
-- Seeing part as distinct from core self
+**الانفصال عن الأجزاء:**
+- "ألاحظ هذا الجزء القلق" (لا "أنا قلق")
+- خلق مسافة نفسية
+- رؤية الجزء متمايزاً عن الذات الجوهرية
 
-### Phase 3: Unburdening Exiles
+### المرحلة الثالثة: تحرير المنفيين من العبء
 
-**Building relationship:**
-- Exiles often mistrustful of Self or therapist
-- Managers block access (fear of overwhelm)
-- Need patience, safety building, manager persuasion
+**بناء العلاقة:**
+- غالباً ما يرتاب المنفيّون بالذات أو المعالج
+- يحجب المدراءُ الوصولَ (خوفاً من الإغراق)
+- يلزم الصبرُ وبناء الأمان وإقناع المدراء
 
-**Understanding burden:**
-- What decision, belief, emotion carried?
-- "I'm worthless" (from abuse)
-- "Connection = danger" (from trauma)
-- "I caused this" (childhood guilt)
+**فهم العبء:**
+- أيّ قرارٍ أو معتقدٍ أو شعورٍ يُحمَل؟
+- "أنا عديم القيمة" (من الإساءة)
+- "الاتصال = خطر" (من الصدمة)
+- "أنا السبب" (شعور الذنب الطفولي)
 
-**Unburdening (retrieval):**
-- Various methods: visualization, dialogue, symbolic action
-- Releasing traumatic energy/emotion
-- New learning: "You were a child; it wasn't your fault"
-- Lightening burden, exile becoming younger/freer
+**التحرر من العبء (الاستعادة):**
+- طرقٌ متنوعة: التخيل، الحوار، الفعل الرمزي
+- إطلاق الطاقة/الانفعال الصادم
+- تعلّمٌ جديد: "كنت طفلاً؛ لم يكن هذا خطأك"
+- تخفيف العبء، وصيرورة المنفيّ أصغر وأكثر تحرراً
 
-### Phase 4: Transformation
+### المرحلة الرابعة: التحول
 
-**Parts becoming cooperative:**
-- Managers no longer need excessive control
-- Firefighters not activated without exiling
-- Exiles no longer carrying extreme affect
-- System reorganizes around Self-leadership
+**تعاون الأجزاء:**
+- لم يعد المدراء بحاجة إلى تحكّمٍ مفرط
+- لا ينشط المطافئ دون نفيٍ
+- لم تعد المنفيّات تحمل انفعالاً متطرفاً
+- يعيد النظامُ تنظيم نفسه حول قيادة الذات
 
-**Self-leadership increases:**
-- More presence, less reactivity
-- Choices available, not automatic patterns
-- Relationships improve (less protecting)
-- Creativity, presence, aliveness increase
+**تزايد قيادة الذات:**
+- حضورٌ أكبر وتفاعليةٌ أقل
+- خياراتٌ متاحة لا أنماطٌ تلقائية
+- تتحسن العلاقات (حمايةٌ أقل)
+- يتزايد الإبداع والحضور والحيوية
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### Complex PTSD & Trauma
+### اضطراب كرب ما بعد الصدمة المركّب والصدمة
 
-**Mechanism:** Trauma fragments system
-- Exiles: traumatic memory, terror, shame
-- Managers: hypervigilance, control, numbness
-- Firefighters: dissociation, rage, substance use
+**الآلية:** الصدمة تشظّي النظام
+- المنفيّون: ذكرى الصدمة والرعب والعار
+- المدراء: فرط اليقظة والتحكم والتبلد
+- المطافئ: الانفصال والغضب وتعاطي المواد
 
-**IFS approach:**
-- Access Self despite fragmentation
-- Understand protective role of symptoms
-- Retrieve exiles gradually
-- Process trauma without retraumatization
+**نهج IFS:**
+- الوصول إلى الذات رغم التشظي
+- فهم الدور الحمائي للأعراض
+- استعادة المنفيين تدريجياً
+- معالجة الصدمة دون إعادة صدمتها
 
-### Eating Disorders
+### اضطرابات الأكل
 
-**Mechanism:** Multiple protective purposes
-- Exile: grief, loss, abuse
-- Manager: Control, safety through body management
-- Firefighter: Numbness, escape through binging
+**الآلية:** أغراضٌ حمائية متعددة
+- المنفيّ: الحزن، الفقد، الإساءة
+- المدير: التحكم، الأمان عبر ضبط الجسد
+- المطفئ: التبلد، الهروب عبر النهم
 
-**IFS approach:**
-- Understand each protective part's role
-- Address underlying exiles
-- Managers learn new protection methods
-- Integration brings healing
+**نهج IFS:**
+- فهم دور كل جزء حمائي
+- معالجة المنفيين الكامنين
+- تعلّم المدراء طرقاً جديدة للحماية
+- يجلب التكاملُ الشفاء
 
-### Substance Abuse
+### إدمان المواد
 
-**Mechanism:** Escape from internal pain
-- Firefighter role: suppress, escape, numb
-- Exiles: trauma, shame, grief
-- Managers: denial, rationalization, control
+**الآلية:** الهروب من الألم الداخلي
+- دور المطفئ: الكبت والهروب والتبلد
+- المنفيّون: الصدمة والعار والحزن
+- المدراء: الإنكار والتبرير والتحكم
 
-**IFS approach:**
-- Compassionate understanding of firefighter's role
-- Access underlying exiles
-- Meet legitimate needs differently
-- Building Self-leadership capacity
+**نهج IFS:**
+- فهمٌ رحيم لدور المطفئ
+- الوصول إلى المنفيين الكامنين
+- تلبية الحاجات المشروعة بطرقٍ مختلفة
+- بناء قدرة قيادة الذات
 
-### Attachment Issues & Relationships
+### مشكلات التعلّق والعلاقات
 
-**Mechanism:** Early relationships create protective roles
-- Exiles: childhood wounds, unmet needs
-- Managers: people-pleasing, controlling
-- Firefighters: withdrawal, aggression, affairs
+**الآلية:** العلاقاتُ المبكرة تُنشئ أدواراً حمائية
+- المنفيّون: جراح الطفولة والحاجات غير الملبّاة
+- المدراء: إرضاء الآخرين والتحكم
+- المطافئ: الانسحاب والعدوان والخيانة
 
-**IFS approach:**
-- Heal internal family system
-- Internal parts become secure
-- Relationships improve naturally
-- Genuine relating possible
+**نهج IFS:**
+- شفاء نظام الأسرة الداخلية
+- تصبح الأجزاء الداخلية آمنة
+- تتحسن العلاقات طبيعياً
+- يصبح التواصل الأصيل ممكناً
 
-### Depression & Anhedonia
+### الاكتئاب وفقدان الشعور بالمتعة
 
-**Mechanism:** Numbing, shutdown
-- Exiles: hopelessness, despair, meaninglessness
-- Managers: shutdown, withdrawal, avoidance
-- System depression maintains protection
+**الآلية:** التبلد والانغلاق
+- المنفيّون: اليأس والقنوط وفقدان المعنى
+- المدراء: الانغلاق والانسحاب والتجنب
+- اكتئاب النظام يحافظ على الحماية
 
-**IFS approach:**
-- Access and understand hopelessness
-- Managers' protective function acknowledged
-- Exiles' material processed
-- Aliveness and meaning return
+**نهج IFS:**
+- الوصول إلى اليأس وفهمه
+- الإقرار بالوظيفة الحمائية للمدراء
+- معالجة مادة المنفيين
+- عودة الحيوية والمعنى
 
-## Strengths
+## نقاط القوة
 
-- **Comprehensive:** addresses trauma, attachment, complex disorders
-- **Respectful:** parts seen as helpful, not enemies
-- **Rapid:** many clients show significant change quickly
-- **Empirical:** growing research base, trauma treatment efficacy
-- **Integrative:** combines systems, depth, mindfulness, neurobiology
-- **Empowering:** Self-leadership, choice, agency emphasized
-- **Flexible:** individual, couple, family, organizational applications
-- **Hope-oriented:** genuine healing and transformation possible
+- **الشمول:** يعالج الصدمة والتعلّق والاضطرابات المركّبة
+- **الاحترام:** تُرى الأجزاءُ عوناً لا أعداءً
+- **السرعة:** يُظهر كثيرٌ من المرضى تغيّراً ملموساً بسرعة
+- **الدعم التجريبي:** قاعدة بحثية متنامية، وفعالية في علاج الصدمة
+- **التكامل:** يجمع الأنظمةَ والعمقَ واليقظةَ وعلمَ الأعصاب
+- **التمكين:** التشديد على قيادة الذات والاختيار والفاعلية
+- **المرونة:** تطبيقاتٌ فردية وزوجية وأسرية ومؤسسية
+- **التوجه نحو الأمل:** الشفاء والتحول الحقيقيان ممكنان
 
-## Limitations & Criticisms
+## الحدود والانتقادات
 
-- **Conceptual complexity:** multiple parts, roles, processes to understand
-- **Training time:** requires specific IFS training; not simple integration
-- **Research gaps:** still developing empirical base vs. CBT, DBT
-- **Dissociation risk:** parts work can activate dissociation if not handled carefully
-- **Therapist skill:** IFS requires particular orientation, training
-- **Cultural adaptation:** parts conceptualization may not fit all cultural frameworks
-- **Over-pathologizing:** not every difference of perspective is a "part"
-- **Access issues:** exiles may be heavily protected; slow, patient work needed
+- **التعقيد المفهومي:** أجزاءٌ وأدوارٌ وعملياتٌ متعددة يصعب فهمها
+- **وقت التدريب:** يتطلب تدريباً خاصاً بـIFS؛ لا يُدمَج ببساطة
+- **ثغرات بحثية:** ما زالت قاعدته التجريبية أقل تطوراً من العلاج السلوكي المعرفي والعلاج السلوكي الجدلي
+- **مخاطر الانفصال:** العمل على الأجزاء قد يحفّز الانفصال إن لم يُدَر بعناية
+- **مهارة المعالج:** يتطلب IFS توجهاً وتدريباً خاصين
+- **التكيف الثقافي:** قد لا يلائم تصوّرُ الأجزاء كلَّ الأطر الثقافية
+- **الإفراط في التصنيف المرضي:** ليس كل اختلاف منظور "جزءاً"
+- **صعوبة الوصول:** قد يُحمى المنفيّون بشدة؛ يلزم عملٌ بطيء وصبور
 
-## Theoretical Integration
+## التكامل النظري
 
-**IFS drawing from:**
-- Family systems theory: patterns, relationships, roles
-- Psychodynamic theory: unconscious material, defense mechanisms, internal relationships
-- Attachment theory: relational wounds, healing through relationship
-- Neurobiology: polyvagal, nervous system regulation
-- Buddhism/Mindfulness: compassionate observation, non-judgment
-- Ego-state therapy: internal plurality
+**يستمدّ IFS من:**
+- نظرية الأسرة كنظام: الأنماط والعلاقات والأدوار
+- النظرية الديناميّة النفسية: المادة اللاواعية وآليات الدفاع والعلاقات الداخلية
+- نظرية التعلّق: الجراح العلائقية والشفاء عبر العلاقة
+- علم الأعصاب: العصب المبهم المتعدد، تنظيم الجهاز العصبي
+- البوذية/اليقظة الذهنية: المراقبة الرحيمة، عدم الحكم
+- علاج حالات الأنا: التعدد الداخلي
 
-## Major Contemporary Figures
+## أبرز الشخصيات المعاصرة
 
-- Richard Schwartz: Founder, ongoing development
-- Martha Sweezy: IFS for trauma, neuroscience integration
-- Tori Olds: IFS for complex PTSD
-- Jay Earley: IFS and other modalities integration
-- Jackson Peterson: IFS and nervous system work
+- ريتشارد شوارتز (Richard Schwartz): المؤسس، وتطويرٌ مستمر
+- مارثا سويزي (Martha Sweezy): IFS للصدمة، ودمج علم الأعصاب
+- توري أولدز (Tori Olds): IFS لاضطراب كرب ما بعد الصدمة المركّب
+- جاي إيرلي (Jay Earley): دمج IFS بمناهج أخرى
+- جاكسون بيترسون (Jackson Peterson): IFS والعمل على الجهاز العصبي
 
-## Primary Sources
+## المصادر
 
 1. Schwartz, R.C. (2021). No bad parts: Healing trauma and restoring wholeness with the Internal Family Systems model (2nd ed.). Sounds True.
 2. Sweezy, M., & Herron, D. (2018). Attachment, trauma, and healing: Understanding neurobiology and building resilience through Internal Family Systems therapy. Sounds True.
 3. Earley, J. (2012). Self-therapy: A step-by-step guide to creating wholeness and healing your inner child using IFS. Trafford Publishing.
 4. Peterson, B.B. (2005). Internal family systems therapy (IFS) for trauma recovery. Psychotherapy Bulletin, 40(3), 38-41.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Parts psychology and internal plurality
-- Protective mechanisms and exile wounds
-- Self-leadership and nervous system regulation
-- Trauma processing and unburdening
-- Multiplicity as normal and adaptive
+- علم نفس الأجزاء والتعدد الداخلي
+- الآليات الحمائية وجراح المنفيين
+- قيادة الذات وتنظيم الجهاز العصبي
+- معالجة الصدمة والتحرر من العبء
+- التعدد بوصفه أمراً طبيعياً وتكيفياً

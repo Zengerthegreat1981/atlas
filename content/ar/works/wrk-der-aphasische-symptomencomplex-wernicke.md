@@ -24,23 +24,24 @@ gaps: []
 
 # المركَّبُ العرضيُّ للحُبسة (Der Aphasische Symptomencomplex)
 
-## Definition
+دراسةٌ مرجعية نشرها الطبيب الألماني كارل فيرنيكه سنة 1874 بعنوانٍ فرعي دالّ: «دراسةٌ نفسية على أساسٍ تشريحي» (Eine psychologische Studie auf anatomischer Basis)، قدّم فيها وصفاً إكلينيكياً وتشريحياً لنمطٍ جديد من فقدان اللغة يختلف جوهرياً عمّا وصفه پول بروكا قبل ثلاثة عشر عاماً، فأصبحت الدراسة إحدى الوثائق التأسيسية لعلم اللغة العصبي الحديث.
 
-This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
+## الوصف الإكلينيكي الجديد
 
-## Key Principles
+وثّق فيرنيكه في هذا العمل حالاتِ مرضى يتكلمون بطلاقةٍ ظاهرية وإيقاعٍ سليم، لكن كلامهم يفتقر إلى المعنى المتماسك، مليء بكلماتٍ مبتكَرة أو مستبدَلة («التلفيق اللفظي» Paraphasia)، مع عجزٍ شديد عن فهم كلام الآخرين، وهو نمطٌ يعاكس تماماً حبسة بروكا (كلامٌ غير طلق لكن فهمٌ سليم نسبياً). قدّمت الدراسة بذلك أول توثيقٍ منهجي لنمط «الحبسة الاستقبالية» الذي حمل اسم فيرنيكه لاحقاً.
 
-- Language involves distributed brain networks
-- Cognitive processes are embodied (grounded in perception and action)
-- Language learning involves neural plasticity
-- Individual and group differences affect language abilities
+## الربط التشريحي والنظري
 
-## Evidence
+ربط فيرنيكه هذا النمط بآفةٍ في الجزء الخلفي من التلفيف الصدغي العلوي الأيسر (منطقة فيرنيكه)، مغايرةً لمنطقة بروكا الجبهية. لكن أهمية العمل تتجاوز الوصف السريري إلى الأطروحة النظرية التي قدّمها: أن اللغة تعتمد على **شبكةٍ من مراكز متخصصة مترابطة**، لا مركزٍ توطيني واحد كما أوحى تفسير بروكا الأولي، وأن الاضطرابات اللغوية قد تنشأ أيضاً من قطع الوصل بين مراكز سليمة كلٌّ على حدة، لا من تلف أيٍّ منها بذاته — وهو ما تنبأ بحبسة التوصيل (Conduction Aphasia) قبل توثيقها إكلينيكياً بوضوح.
 
-Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
+## الأثر اللاحق
 
-## References
+مهّدت هذه الدراسة الأرضية لنموذج «بروكا-فيرنيكه-ليختهايم»، حين طوّر لودفيغ ليختهايم سنة 1885 مخططاً تفصيلياً موسَّعاً استناداً إلى المبدأ الترابطي الذي أرساه فيرنيكه هنا. وأحيا نورمان غيرشفيند هذا الإطار في الستينيات بمصطلحات «متلازمات الانفصال»، فبقي إرث هذا العمل حاضراً في التصنيف السريري المعياري للحبسة اللغوية حتى اليوم، رغم أن أبحاث التصوير الدماغي الحديثة نقّحت لاحقاً حدود الوظيفة التشريحية الدقيقة التي افترضها فيرنيكه أصلاً لمنطقته.
 
-- Kemmerer, D. (2012). *Psychology of Language*. Springer.
-- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
+## المصادر
+
+- Wernicke, Carl. *Der Aphasische Symptomencomplex: Eine psychologische Studie auf anatomischer Basis*. Cohn & Weigert, 1874.
+- Eggert, Gertrude H. (ed. & trans.). *Wernicke's Works on Aphasia: A Sourcebook and Review*. Mouton, 1977.
+- Lichtheim, Ludwig. "On Aphasia." *Brain*, 7(4), 1885.
+- Tesak, Jürgen, & Code, Chris. *Milestones in the History of Aphasia: Theories and Protagonists*. Psychology Press, 2008.
 

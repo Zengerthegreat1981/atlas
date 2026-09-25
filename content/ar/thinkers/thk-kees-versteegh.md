@@ -26,36 +26,29 @@ gaps:
 
 # كيس ﭬرستيخ
 
-## Definition
+مستشرقٌ ولغويٌّ هولندي، ولد سنة 1947 في أرنهم، وأستاذٌ فخريّ للغة العربية والدراسات الإسلامية في جامعة نايمخن، من أبرز الباحثين الغربيين المعاصرين في تاريخ التقليد اللغوي العربي ونشأته وتطوّره، وفي التماسّ اللغوي بين العربية ولغاتٍ أخرى.
 
-Neurolinguistics studies neural bases of language. Which brain areas process language? How do neural mechanisms support linguistic abilities? How do brain differences affect language?
+## التكوين الأكاديمي
 
-## Methods
+درس ﭬرستيخ اللغتين الكلاسيكيتين (اليونانية واللاتينية) ثم اللغات السامية (العربية والعبرية) في جامعة نايمخن، ونال الدكتوراه منها سنة 1977. عمل أستاذاً مساعداً ثم مشاركاً في قسم دراسات الشرق الأوسط بالجامعة نفسها (1973-1987)، ثم مديراً للمعهد الهولندي بالقاهرة (1987-1989)، قبل أن يتولى منذ 1989 كرسيّ اللغة العربية والإسلام ورئاسة قسم دراسات الشرق الأوسط في نايمخن.
 
-- fMRI: Imaging brain activity during language tasks
-- EEG: Recording electrical brain activity with high temporal resolution
-- Event-related potentials (ERPs): Timing of neural responses to linguistic stimuli
-- Lesion studies: Inferring function from brain damage
-- TMS: Temporarily disrupting brain areas to test function
+## نشأة النحو العربي والتماسّ اللغوي
 
-## Key Findings
+ركّز بحث ﭬرستيخ على قضيتين مترابطتين: نشأة النحو العربي المبكرة وتأثّره المحتمل بالمنطق اليوناني والتفسير القرآني المبكر، وهي القضية التي فصّلها في كتابه *Arabic Grammar and Qurʾanic Exegesis in Early Islam* (1993)؛ وظاهرة التماسّ اللغوي وتوليد لغات الاتصال (Pidginization) المرتبطة بالعربية، التي درسها في *Pidginization and Creolization: The Case of Arabic* (1984)، مقارناً نشوء أصنافٍ عربية مبسَّطة في سياقات التجارة والاستعمار بظواهر مشابهة في لغاتٍ أخرى حول العالم.
 
-Left hemisphere dominance for grammar and phonology; right hemisphere for prosody and metaphor. Specific regions: Broca's area (frontal) for grammar, Wernicke's area (temporal) for comprehension. Distributed networks rather than single regions control language.
+## المرجع الشامل: التقليد اللغوي العربي
 
-## Disorders
+قدّم ﭬرستيخ في كتابه المرجعي *The Arabic Linguistic Tradition* (1997، ضمن سلسلة Landmarks in Linguistic Thought) أول عرضٍ شامل بالإنجليزية لتاريخ الفكر اللغوي العربي من سيبويه إلى النحاة المتأخرين، موجَّهاً لجمهورٍ من اللسانيين الغربيين لا المستعربين المتخصصين وحدهم، بأسلوبٍ يربط أدوات التحليل النحوي العربي الكلاسيكي بمصطلحات اللسانيات الحديثة دون إسقاطٍ قسري لأحدهما على الآخر.
 
-Aphasia (language loss from brain injury) shows dissociations: some patients lose grammar but retain vocabulary. Dyslexia involves neural differences affecting reading. Stuttering involves neural timing differences.
+## دائرة معارف اللغة العربية واللسانيات
 
-## Development
+توّج ﭬرستيخ مسيرته بإشرافه رئيساً لتحرير *Encyclopedia of Arabic Language and Linguistics* (EALL) في خمسة مجلدات (2006-2009)، وهو أضخم مرجعٍ أكاديمي شامل صدر باللغة الإنجليزية عن اللغة العربية وعلومها ولهجاتها وتاريخها، وأصبح المرجع القياسي الذي يعتمد عليه الباحثون الغربيون في الدراسات العربية اللغوية حتى اليوم.
 
-Brain plasticity allows language recovery after injury, especially in children. Bilingual speakers show distributed language representation compared to monolinguals.
+## المصادر
 
-## Contemporary Research
-
-Modern neuroimaging reveals language uses widespread networks. Individual differences in brain structure predict language abilities. Neural signatures (like N400 ERP component) index semantic violations.
-
-## References
-
-- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34, 167-189.
-- Hagoort, P., & Levelt, W. J. (2009). "The speaking brain." *Science*, 326(5951), 372-373.
+- Versteegh, Kees. *The Arabic Linguistic Tradition*. Routledge, 1997.
+- Versteegh, Kees. *Arabic Grammar and Qurʾanic Exegesis in Early Islam*. Brill, 1993.
+- Versteegh, Kees. *Pidginization and Creolization: The Case of Arabic*. John Benjamins, 1984.
+- Versteegh, Kees (ed.-in-chief). *Encyclopedia of Arabic Language and Linguistics*, 5 vols. Brill, 2006–2009.
+- Versteegh, Kees. *The Arabic Language*. Edinburgh University Press, 1997 (2nd ed. 2014).
 

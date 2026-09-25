@@ -19,8 +19,6 @@ related:
 - id: "thk-john-gumperz", title: "جون غومبرز", type: "مفكر"
 - id: "con-code-switching-mixing", title: "التبديلُ والمزجُ الرمزي (Code-Switching & Code-Mixing)", type: "مفهوم"
 - id: "con-matrix-language-frame-model", title: "نموذج إطار اللغة المصفوفة (Matrix Language Frame)", type: "مفهوم"
-- id: "con-intra-sentential-code-switching", title: "التبديل داخل الجملة الواحدة", type: "مفهوم"
-- id: "con-inter-sentential-code-switching", title: "التبديل بين الجمل", type: "مفهوم"
 - id: "con-diglossia", title: "الازدواجية اللغوية (Diglossia)", type: "مفهوم"
 gaps:
   - "لا يوجد اقتباس مباشر موثوق من دراسة بوبلاك الأصلية (1980) في متن هذا الملف؛ العرض مبني على تلخيصات ثانوية موثوقة."

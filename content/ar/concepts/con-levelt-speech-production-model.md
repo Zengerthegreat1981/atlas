@@ -20,58 +20,37 @@ gaps: []
 
 # نموذجُ إنتاج الكلام عند ليڤلت: من المقصود إلى المنطوق
 
-## Definition and Overview
+## التعريف
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+نموذجُ ﭬيلم ليڤلت لإنتاج الكلام، الذي صاغه في كتابه المرجعي *Speaking: From Intention to Articulation* (1989)، أحدُ أكثر النماذج تأثيراً في علم اللغة النفسي لوصف كيف يتحوّل القصدُ التواصلي المجرَّد إلى كلامٍ منطوق فعلي، عبر ثلاث مراحل معالجة متعاقبة ومتخصِّصة وظيفياً: المفهّم (Conceptualizer)، والمصوِّغ (Formulator)، والناطق (Articulator)، إضافةً إلى نظام مراقبةٍ ذاتية يرافق العملية كلَّها.
 
-## Theoretical Framework
+## المفهّم: صياغةُ الرسالة قبل اللفظية
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+تبدأ العمليةُ في المفهّم، الذي يحوّل القصدَ التواصلي إلى "رسالةٍ قبل لفظية" (Preverbal Message) — تمثيلٍ مفاهيمي منظَّم يحدِّد ما يريد المتكلّم قولَه دون تحديد الصياغة اللغوية بعد. يشمل هذا المستوى تخطيطاً كلّياً (Macroplanning) يحدِّد المضمونَ العام والترتيبَ المنطقي للأفكار، وتخطيطاً جزئياً (Microplanning) يحدِّد المنظورَ الدقيق لكل مقطعٍ من الرسالة (كأيّ عنصرٍ يكون موضوعاً وأيّها بؤرة جديدة).
 
-## Key Mechanisms
+## المصوِّغ: من المفهوم إلى الصيغة اللغوية
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+يستقبل المصوِّغُ الرسالةَ القبل لفظية ويحوِّلها إلى بنيةٍ لغوية عبر ترميزين متعاقبين: الترميزُ النحوي المعجمي (Grammatical Encoding)، الذي يستدعي الوحداتِ المعجمية المناسبة (اللِّيماتLemmas) من المعجم الذهني ويرتّبها في بنيةٍ نحوية، والترميزُ الصوتي (Phonological Encoding)، الذي يحدِّد الشكلَ الصوتي الفعلي لهذه الوحدات ويبني الإطارَ المقطعي والنبري للنطق القادم.
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+## الناطق: التحويلُ إلى حركةٍ فعلية
 
-## Experimental Evidence
+يستقبل الناطقُ المخرَجاتِ الصوتية المصاغة من المصوِّغ في هيئة "برنامج نطقي" (Articulatory Program) مخزَّن مؤقّتاً في مخزنٍ نطقي (Articulatory Buffer)، ويصدر منه أوامرَ حركية فعلية للأعضاء النطقية (اللسان، الشفتان، الحبال الصوتية) لإنتاج الكلام المسموع الفعلي — وهي الخطوةُ الأخيرة التي تكتمل بها السلسلةُ من القصد المجرَّد إلى الصوت الملفوظ.
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+## التسلسليةُ والتراكب
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+يفترض ليڤلت أن هذه المراحلَ تعمل بتسلسلٍ أساسي (كل مرحلة تنتظر مخرجات سابقتها جزئياً)، لكنها تعمل أيضاً بتراكبٍ زمني تدريجي (Incremental Processing): يمكن أن يبدأ المصوِّغُ معالجةَ الجزء الأول من الرسالة بينما لا يزال المفهّم يخطّط للأجزاء التالية، وهذا ما يفسّر السرعةَ الفائقة للكلام الطبيعي المتدفّق رغم تعدّد المراحل المعقَّدة التي يمرّ بها.
 
-## Cross-Linguistic Applications
+## الأدلّةُ من زلّات اللسان
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
+استند ليڤلت جزئياً إلى تحليل زلّات اللسان (Speech Errors) بوصفها نافذةً على البنية الداخلية لنظام الإنتاج: فأخطاءٌ كتبديل أصوات كلمتين ("مماغ الدِّاغ" بدل "دماغ الماغ") تكشف عن وحدة معالجةٍ صوتية منفصلة عن المعالجة النحوية، وأخطاءٌ كاستبدال كلمةٍ بأخرى من الفئة النحوية نفسِها تدعم فرضيةَ وجود مرحلة ترميزٍ معجمي نحوي مستقلّة تماماً عن الترميز الصوتي اللاحق.
 
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+## الأثر
 
-## Contemporary Research Directions
+صار هذا النموذجُ الإطارَ المرجعي المهيمن في دراسة إنتاج الكلام لعقودٍ، ومحوراً لتراكمٍ بحثي واسع يختبر تنبؤاتِه بتجارب التسمية المصوَّرة (Picture Naming) وقياس أزمنة رد الفعل، وأثّر مباشرةً في النماذج الحاسوبية المعاصرة لإنتاج اللغة.
 
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
+## المصادر
 
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Levelt, W. J. M. (1989). *Speaking: From Intention to Articulation*. MIT Press.
+- Levelt, W. J. M., Roelofs, A., & Meyer, A. S. (1999). "A Theory of Lexical Access in Speech Production." *Behavioral and Brain Sciences*, 22(1), 1-38.
+- Levelt, W. J. M. (1999). "Producing Spoken Language: A Blueprint of the Speaker." In C. M. Brown & P. Hagoort (Eds.), *The Neurocognition of Language*. Oxford University Press.
+- Dell, G. S. (1986). "A Spreading-Activation Theory of Retrieval in Sentence Production." *Psychological Review*, 93(3), 283-321.

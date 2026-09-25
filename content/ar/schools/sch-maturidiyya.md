@@ -14,6 +14,7 @@ language: "العربية"
 active_start: 880
 active_end: "مستمر"
 related:
+- id: "thk-al-taftazani", title: "سعد الدين مسعود بن عمر التفتازاني", type: "مفكر"
 - id: "sch-ashariyya", title: "الأشعرية", type: "مدرسة"
 - id: "sch-mutazila", title: "المعتزلة", type: "مدرسة"
 - id: "sch-athariyya", title: "الأثرية الكلامية", type: "مدرسة"

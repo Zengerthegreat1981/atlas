@@ -12,8 +12,11 @@ dates: "1934 – 2021"
 birth_country: "المملكة المتحدة"
 active_start: 1965
 active_end: 2021
-edges: []
+edges:
+- rel: "belongs_to", target: "sch-evolutionary-anthropology", target_type: "مدرسة"
 related:
+- id: "thk-lionel-tiger", title: "ليونيل تايغر", type: "مفكر"
+- id: "con-kinship-universals", title: "العالميات في نظم القرابة (Kinship Universals)", type: "مفهوم"
 - id: "con-biogenetic-versus-cultural-kinship", title: "القرابةُ البيوجينية مقابل القرابة الثقافية", type: "مفهوم"
 - id: "thk-david-schneider", title: "ديفيد شنايدر", type: "مفكر"
 gaps:

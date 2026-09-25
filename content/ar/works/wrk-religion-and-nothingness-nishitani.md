@@ -20,7 +20,7 @@ related:
 - id: "sch-kyoto", title: "مدرسة كيوتو", type: "مدرسة"
 - id: "thk-nishida", title: "كيتارو نيشيدا", type: "مفكر"
 - id: "con-absolute-nothingness-zettai-mu", title: "العدم المطلق الإيجابي في مدرسة كيوتو (Zettai Mu)", type: "مفهوم"
-- id: "con-shunyata-emptiness", title: "الشونيتا — الفراغ والنشوء المشروط (Shunyata)", type: "مفهوم"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
 - id: "thk-nietzsche", title: "فريدريش نيتشه", type: "مفكر"
 - id: "wrk-an-inquiry-into-the-good-nishida", title: "بحث في الخير لكيتارو نيشيدا (Zen no Kenkyu)", type: "عمل / كتاب"
 gaps:

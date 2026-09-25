@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-maturidiyya", target_type: "مدرسة"
 related:
+- id: "thk-al-taftazani", title: "سعد الدين مسعود بن عمر التفتازاني", type: "مفكر"
 - id: "sch-maturidiyya", title: "الماتريدية", type: "مدرسة"
 - id: "thk-maturidi", title: "أبو منصور محمد بن محمد الماتريدي", type: "مفكر"
 - id: "wrk-matn-al-aqaid-al-nasafiyya", title: "العقائد النسفية لنجم الدين النسفي", type: "عمل / كتاب"

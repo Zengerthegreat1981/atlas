@@ -17,23 +17,5 @@ gaps: []
 
 # منهجية تحليل المصادر (Source Analysis Methodology)
 
-## Source Analysis Methodology
 
-Systematic approaches to analyzing primary sources; examines provenance, context, authorship, and reliability.
-
-### Key Aspects
-
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
-
-### Related Fields
-
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+مناهج منهجية لتحليل المصادر الأولية؛ تبحث في المنشأ والسياق والتأليف والموثوقية.

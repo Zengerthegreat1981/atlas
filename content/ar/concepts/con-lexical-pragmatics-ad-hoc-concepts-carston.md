@@ -21,43 +21,34 @@ gaps: []
 
 # التداوليةُ المعجمية والمفاهيمُ المخصَّصة عند كارستون
 
-## Definition
+## التعريف
 
-Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
+التداوليةُ المعجمية (Lexical Pragmatics) مجالٌ طوّرته روبِن كارستون ضمن نظرية الملاءمة، يدرس كيف يُعدَّل المعنى المشفَّر لغوياً لكلمةٍ عند استعمالها الفعلي في سياقٍ بعينه، منتِجاً "مفهوماً مخصَّصاً للمناسبة" (Ad Hoc Concept) يختلف عن المفهوم المعجمي الثابت المعطى في القاموس. جوهرُ الفكرة أن الكلمةَ في الاستعمال الفعلي نادراً ما تحمل معناها المعجمي "الحرفي" تماماً، بل تخضع دوماً لتعديلٍ استدلالي طفيف أو جوهري يلائم السياق التخاطبي المحدَّد.
 
-## Grice's Theory
+## التضييقُ (Narrowing)
 
-Paul Grice identified four conversational maxims speakers follow:
-- Quantity: Be informative without being excessive
-- Quality: Be truthful and warranted
-- Relevance: Stay on topic
-- Manner: Be clear and brief
+من أنماط التعديل الأساسية عند كارستون التضييقُ، حيث يُستعمَل مفهومٌ معجمي بمدلولٍ أضيق من مدلوله القاموسي الكامل: فكلمة "أعزب" حين تُستخدَم في سياق البحث عن شريك زواج تضيق لتعني "غيرَ متزوّج ومؤهَّل اجتماعياً للزواج"، لا مجرّد "غير متزوّج" بمعناها القاموسي الواسع الذي يشمل حتى الأطفال أو رجال الدين.
 
-Flouting these maxims creates implicature—meaning inferred from the violation.
+## التوسيعُ أو الاستعمالُ المرن (Broadening/Loosening)
 
-## Speech Acts
+النمطُ المقابل هو التوسيعُ، حيث يُستعمَل مفهومٌ معجمي بمدلولٍ أوسع من مدلوله الدقيق: فقولُ "فرنسا مربَّعةُ الشكل تقريباً" يوسّع مفهومَ "مربَّع" ليشمل أشكالاً تقترب منه تقريبياً لا مربَّعاً هندسياً دقيقاً بالمعنى الحرفي، وهو ما تسمّيه كارستون أيضاً "الكلام المرن" (Loose Talk)، الذي يمتدّ ليشمل حالاتٍ متطرِّفة كالاستعارة، إذ تُعامَل الاستعارةُ في هذا الإطار توسيعاً مفهومياً جذرياً لا انتهاكاً بلاغياً منفصلاً عن آليات التداول العادية.
 
-Utterances perform actions (Austin, Searle):
-- Locutionary: The words uttered
-- Illocutionary: The action performed (promising, requesting, commanding)
-- Perlocutionary: The effect on listener
+## إجراءٌ استدلاليٌّ واحد موحَّد
 
-"I promise to return the book" is a performative—the utterance creates an obligation.
+الابتكارُ النظري الأهم عند كارستون هو الزعمُ بأن التضييقَ والتوسيعَ والامتدادَ الاستعاري ليست عملياتٍ منفصلة ثلاث، بل نتائجُ متباينة لإجراءٍ تداولي واحد موحَّد: بناءُ مفهومٍ مخصَّص للمناسبة عبر التفاعل بين المفهوم المشفَّر معجمياً والمعلومات السياقية وتوقّعات الملاءمة (Relevance) التي يسعى المخاطَب لتحقيقها بأقلّ جهدٍ معرفي ممكن مقابل أكبر أثرٍ إدراكي. وقد يجتمع التضييقُ والتوسيعُ معاً في الكلمة نفسِها ضمن استعمالٍ واحد.
 
-## Politeness Strategies
+## الفرقُ عن المقاربة الغرايسية الكلاسيكية
 
-Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+يختلف هذا الإطارُ عن التصوّر الغرايسي الكلاسيكي الذي يعامل المعنى الحرفي المعجمي أساساً ثابتاً تُبنى فوقه طبقةُ الإفهام التخاطبي المنفصلة؛ فكارستون ترى أن التعديلَ التداولي يتدخّل في تشكيل المحتوى القضوي نفسِه (جزءاً من الإفهام الصريح) لا في طبقةٍ إضافية منفصلة تُضاف بعد تحديد "ما قيل" حرفياً، وهذا يوسّع الحدودَ التقليدية بين علمَي الدلالة والتداول.
 
-## Presupposition
+## الأثر
 
-Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+قدّم هذا الإطارُ تفسيراً موحَّداً لظواهرَ متفرِّقة كانت تُعامَل عادةً بأدواتٍ منفصلة (الاستعارة، والتقريب، والتضييق السياقي)، وأثّر عميقاً في دراسات الدلالة المعجمية التجريبية وفي نماذج معالجة اللغة الطبيعية الحاسوبية التي تسعى لتمثيل مرونة المعنى السياقي حاسوبياً.
 
-## Contemporary Applications
+## المصادر
 
-Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
-- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+- Carston, R. (2002). *Thoughts and Utterances: The Pragmatics of Explicit Communication*. Blackwell.
+- Carston, R. (2010). "Lexical Pragmatics, Ad Hoc Concepts and Metaphor: A Relevance Theory Perspective." *Italian Journal of Linguistics*, 22(1), 153-180.
+- Wilson, D., & Carston, R. (2007). "A Unitary Approach to Lexical Pragmatics: Relevance, Inference and Ad Hoc Concepts." In N. Burton-Roberts (Ed.), *Pragmatics*. Palgrave.
+- Sperber, D., & Wilson, D. (1995). *Relevance: Communication and Cognition* (2nd ed.). Blackwell.
 

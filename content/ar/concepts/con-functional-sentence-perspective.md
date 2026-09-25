@@ -21,58 +21,29 @@ gaps: []
 
 # التقطيعُ الوظيفيُّ للجملة
 
-## Definition and Overview
+## التعريف
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+التقطيعُ الوظيفيُّ للجملة (Functional Sentence Perspective - FSP) نظريةٌ في البنية المعلوماتية للجملة طوّرتها حلقةُ پراغ اللسانية، بدءاً من ﭬيليم ماتيسيوس في العقود الأولى من القرن العشرين وصولاً إلى صياغتها الناضجة عند يان فيربَس، تصف كيف تُنظَّم عناصرُ الجملة لا بحسب وظائفها النحوية وحدها (فاعل، مفعول) بل بحسب إسهامها في نقل المعلومة الجديدة داخل سياق الخطاب.
 
-## Theoretical Framework
+## الموضوعُ والمُخبَر عنه (Theme & Rheme)
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+يميّز هذا الإطارُ بين قطبين أساسيين في الجملة: الموضوعُ (Theme)، وهو الجزءُ الذي يشير إلى معلومةٍ معروفة مسبقاً أو معطاة من السياق، والمُخبَرُ عنه (Rheme)، وهو الجزءُ الذي يحمل المعلومةَ الجديدة. في اللغات ذات الترتيب النحوي الحرّ نسبياً (كالتشيكية أو العربية الفصحى)، يميل الموضوعُ إلى التقدّم على المُخبَر عنه بصرف النظر عن كون الموضوع فاعلاً نحوياً أم لا، وهو ما يفسّر أنماطاً في ترتيب الكلمات لا يفسّرها التحليلُ النحوي الصرف.
 
-## Key Mechanisms
+## الديناميكيةُ التخاطبية (Communicative Dynamism)
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+قدّم يان فيربَس مفهوماً أدقّ يتجاوز الثنائية الحادّة بين موضوعٍ ومُخبَرٍ عنه، هو الديناميكيةُ التخاطبية (Communicative Dynamism)، الذي يصف درجةً متدرِّجة يحملها كلُّ عنصرٍ في الجملة من "الإسهام في دفع التواصل قُدُماً" نحو تحقيق الهدف التخاطبي، بدل تصنيفٍ ثنائي صارم. فبعض العناصر تحمل ديناميكيةً تخاطبية منخفضة (قريبة من المعطى الظاهر)، وأخرى ديناميكيةً مرتفعة (قريبة من جوهر المعلومة الجديدة)، وتتدرّج بينها بقيةُ عناصر الجملة.
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+## العواملُ المحدِّدة للتوزيع
 
-## Experimental Evidence
+يحدَّد توزيعُ الديناميكية التخاطبية بعواملَ متعدّدة تتفاعل معاً: السياقُ اللغوي السابق (المعطياتية Givenness)، والترتيبُ الخطّي للعناصر، والدلالةُ المعجمية للفعل والاسم، والتنغيمُ في الكلام المنطوق (حيث تحمل النبرةُ الأعلى غالباً موقعَ المُخبَر عنه). هذا التداخلُ بين عواملَ متعدّدة، لا عاملٍ واحد بمفرده، هو ما يميّز نموذجَ فيربَس عن مقارباتٍ أبسط تعتمد على الترتيب الخطّي وحده.
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+## الأثر على اللسانيات الوظيفية
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+أثّر التقطيعُ الوظيفيُّ للجملة تأثيراً مباشراً في تطوّر اللسانيات الوظيفية المنهجية (Systemic Functional Linguistics) عند مايكل هاليداي، الذي طوّر مفهومَي الموضوع والبؤرة (Theme & Focus) ضمن الوظائف الفوقية الثلاث لنظريته، كما أثّر في دراسات البنية المعلوماتية المعاصرة (Information Structure) التي تُميّز اليوم بين الموضوع والبؤرة بأدواتٍ صورية أدقّ مستفيدة من هذا الإرث البنيوي الوظيفي المبكّر.
 
-## Cross-Linguistic Applications
+## المصادر
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Mathesius, V. (1929). "Zur Satzperspektive im modernen Englisch." *Archiv für das Studium der neueren Sprachen und Literaturen*, 155, 202-210.
+- Firbas, J. (1992). *Functional Sentence Perspective in Written and Spoken Communication*. Cambridge University Press.
+- Daneš, F. (1974). "Functional Sentence Perspective and the Organization of the Text." In F. Daneš (Ed.), *Papers on Functional Sentence Perspective*. Academia.
+- Halliday, M. A. K. (1985). *An Introduction to Functional Grammar*. Edward Arnold.

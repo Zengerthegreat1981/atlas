@@ -22,35 +22,34 @@ gaps: []
 
 # الدلالةُ التوزيعية وتمثيلاتُ الكلمات المتّجهية
 
-## Definition
+## التعريف
 
-Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
+الدلالةُ التوزيعية (Distributional Semantics) مقاربةٌ لدراسة معنى الكلمة تشتقُّه إحصائياً من سياقات استعمالها الفعلي في نصوصٍ ضخمة بدل تعريفه منطقياً أو مفهومياً، استناداً إلى الفرضية التوزيعية (Distributional Hypothesis) التي صاغها اللغوي جون روبرت فيرث في مقولته الشهيرة: "تُعرَف الكلمةُ برفقة الكلمات التي تصاحبها" (You shall know a word by the company it keeps)، ومهّد لها زلِيغ هاريس نظرياً في الخمسينيات أيضاً.
 
-## Theoretical Approaches
+## من الفرضية إلى التمثيل الحاسوبي
 
-Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
+تُترجَم هذه الفرضيةُ حاسوبياً بتمثيل كل كلمةٍ بمتّجه (Vector) رقمي مشتقٍّ من إحصاء تكرار ظهورها المشترك مع كلماتٍ أخرى عبر مدوَّنةٍ نصية ضخمة، بحيث تقترب الكلماتُ المتشابهة دلالياً من بعضها في الفضاء المتجهي، وتتباعد الكلماتُ غيرُ المرتبطة. صارت هذه الفكرةُ أساسَ تمثيلات الكلمات المتّجهية (Word Embeddings) الحديثة، التي تحوّل الوحدةَ اللغوية من رمزٍ منفصل إلى نقطةٍ في فضاءٍ هندسي متعدّد الأبعاد.
 
-## Core Concepts
+## Word2Vec وGloVe
 
-- Reference: What does a word refer to?
-- Sense: How does a word relate to other words?
-- Entailment: What must be true if a statement is true?
-- Presupposition: What background assumptions does a statement carry?
+قدَّم توماس ميكولوف وزملاؤه في غوغل عام 2013 خوارزميةَ Word2Vec، التي تتعلّم متّجهاتِ الكلمات بتدريب شبكةٍ عصبية بسيطة على التنبؤ بالكلمات المجاورة ضمن نافذة سياقية (نموذج Skip-gram) أو التنبؤ بالكلمة من سياقها (نموذج CBOW). قدّم فريقٌ في جامعة ستانفورد بديلاً موازياً اسمُه GloVe (Global Vectors)، يجمع بين إحصاءات التكرار المشترك الشاملة للمدوَّنة والتعلّم التوقّعي، منتجاً تمثيلاتٍ تلتقط العلاقاتِ السياقية المحلّية والإحصاءاتِ العالمية معاً.
 
-## Mechanisms
+## الخصائصُ الهندسية للفضاء الدلالي
 
-Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
+كشفت هذه التمثيلاتُ خصائصَ رياضية لافتة: العلاقاتُ الدلالية بين الكلمات تنعكس عملياتٍ حسابيةً متّجهية، فطرحُ متّجه "رجل" من متّجه "ملك" وإضافةُ متّجه "امرأة" ينتج متّجهاً قريباً من "ملكة" — دليلٌ على أن الفضاءَ المتجهي المتعلَّم يلتقط علاقاتٍ تناظرية (Analogies) دون توجيهٍ صريح، بل بالاعتماد فقط على أنماط التوزيع السياقي في المدوَّنة.
 
-## Cross-linguistic Evidence
+## القيدُ الأساسي: التمثيلُ الساكن
 
-Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
+الثغرةُ الجوهرية في هذه التمثيلات المبكّرة أنها ساكنة (Static): تُخصِّص متّجهاً واحداً ثابتاً لكل كلمة بصرف النظر عن معناها المقصود في كل استعمالٍ بعينه، فلا تميّز بين "bank" بمعنى مصرف و"bank" بمعنى ضفّة نهر. دفع هذا القيدُ إلى ظهور التمثيلات المتّجهية السياقية كـELMo وBERT، التي تشتقُّ متّجهاً مختلفاً لكل ظهورٍ فعلي للكلمة بحسب جملتها المحدَّدة.
 
-## Contemporary Applications
+## الأثر
 
-Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+أحدثت الدلالةُ التوزيعية ثورةً في معالجة اللغة الطبيعية الحاسوبية، إذ استبدلت التمثيلَ الرمزي المتقطِّع للكلمات (كترميز الوحدة الواحدة الفعّالة One-Hot) بفضاءٍ هندسي كثيف يلتقط التشابهَ الدلالي تلقائياً، وصارت الأساسَ الذي بُنيت عليه كل معماريات معالجة اللغة اللاحقة، من المحوِّلات إلى نماذج اللغة الكبرى.
 
-## References
+## المصادر
 
-- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
-- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+- Firth, J. R. (1957). "A Synopsis of Linguistic Theory 1930-1955." In *Studies in Linguistic Analysis*. Blackwell.
+- Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). "Efficient Estimation of Word Representations in Vector Space." *arXiv:1301.3781*.
+- Pennington, J., Socher, R., & Manning, C. D. (2014). "GloVe: Global Vectors for Word Representation." *Proceedings of EMNLP 2014*.
+- Harris, Z. S. (1954). "Distributional Structure." *Word*, 10(2-3), 146-162.
 

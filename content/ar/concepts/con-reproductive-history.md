@@ -17,23 +17,5 @@ gaps: []
 
 # تاريخ الإنجاب (Reproductive History)
 
-## Reproductive History
 
-Study of contraception, abortion, fertility, motherhood, and reproductive technologies as historical and political processes.
-
-### Key Aspects
-
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
-
-### Related Fields
-
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+دراسة موانع الحمل والإجهاض والخصوبة والأمومة وتقنيات الإنجاب بوصفها عمليات تاريخية وسياسية.

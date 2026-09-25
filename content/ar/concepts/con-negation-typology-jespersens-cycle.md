@@ -21,58 +21,33 @@ gaps: []
 
 # نمطيةُ النفي ودورةُ يسبرسن
 
-## Definition and Overview
+## التعريف
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+دورةُ يسبرسن (Jespersen's Cycle) نمطٌ تاريخي متكرِّر عبر لغاتٍ مختلفة في تطوّر أدوات النفي، صاغه اللغويُّ الدنماركي أوتو يسبرسن في كتابه *Negation in English and Other Languages* (1917)، ويصف مساراً تطوّرياً ثلاثيَّ المراحل: يبدأ بأداة نفيٍ سابقة للفعل بسيطة، ثم يتحوّل تدريجياً إلى علامة نفيٍ مزدوجة (أداةٌ قبل الفعل وأخرى بعده)، وينتهي أحياناً بفقدان الأداة الأصلية السابقة للفعل تماماً، بحيث تصبح الأداةُ التي كانت لاحقةً في الأصل هي علامةَ النفي الوحيدة المتبقّية.
 
-## Theoretical Framework
+## المثالُ التأسيسي: الفرنسية
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+يوضَّح النمطُ كلاسيكياً بتطوّر النفي في الفرنسية: بدأت المرحلةُ الأولى بأداة "ne" وحدها قبل الفعل (كاللاتينية "non")، ثم انضمّت إليها كلماتٌ تعزيزية أصلُها اسميٌّ ملموس مثل "pas" (بمعنى "خطوة") و"point" (بمعنى "نقطة") لتقوية معنى النفي تعبيرياً، فتحوّلت هذه الكلماتُ تدريجياً إلى جزءٍ إلزامي من بنية النفي المزدوجة "ne...pas"، وفي الفرنسية المحكية المعاصرة يتراجع عنصرُ "ne" الأول تراجعاً حاداً، تاركاً "pas" وحدَه علامةَ النفي الفعلية في كثيرٍ من السياقات الشفهية — وهو ما يمثّل المرحلةَ الثالثة من الدورة قيدَ الاكتمال.
 
-## Key Mechanisms
+## الآليةُ الدلالية والبراغماتية للدورة
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+يُفسَّر محرّكُ هذه الدورة بمنطقٍ تداولي: تفقد أداةُ النفي الأصلية تدريجياً قوّتها التعبيرية بسبب الاستعمال المتكرِّر (Semantic Bleaching)، فيلجأ المتحدّثون إلى عناصرَ تعزيزية إضافية (غالباً أسماءَ ملموسة تدلّ على كمّيةٍ ضئيلة، كـ"خطوة" أو "قطرة") لتقوية النفي تعبيرياً؛ ومع تكرار استخدام هذه العناصر التعزيزية، تفقد هي الأخرى قوّتَها التعبيرية الخاصة وتصبح جزءاً نحوياً إلزامياً من بنية النفي القياسية، فتبدأ الدورةُ من جديد أحياناً بعنصرٍ تعزيزي آخر.
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+## التوسيعُ النمطي عبر اللغات
 
-## Experimental Evidence
+وسّع باحثون لاحقون، وبخاصة يوهان ﭬان دِر آويرا، هذا النموذجَ ليشمل أنماطاً متعدّدة عبر عيّناتٍ نمطية واسعة من لغات العالم، فبيّنوا أن دورةَ يسبرسن الكلاسيكية (المسارُ الكامل من علامةٍ واحدة إلى مزدوجة ثم إلى علامةٍ واحدة جديدة) ليست الأكثرَ شيوعاً إحصائياً عبر اللغات؛ فأنماطُ النفي المزدوج المستقرّ (دون فقدان العنصر الأول لاحقاً) أكثرُ انتشاراً من إتمام الدورة الكاملة، بينما تظهر أنماطُ "التثليث" (Tripling) في عددٍ محدود جداً من اللغات فقط.
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+## العلاقةُ بالنحوية
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+ترتبط دورةُ يسبرسن ارتباطاً وثيقاً بمفهوم النحوية (Grammaticalization) الأشمل، إذ تجسّد نمطاً عاماً تمرّ فيه عناصرُ معجمية ملموسة (كأسماء الكمّية الضئيلة) بمسارٍ تدريجي من الاستقلالية المعجمية إلى الاندماج النحوي الإلزامي، فتفقد استقلاليتَها الدلالية الأصلية وتكتسب وظيفةً نحوية صرفة، وهو مسارٌ اتجاهي متكرِّر عبر ظواهرَ نحوية أخرى غير النفي أيضاً.
 
-## Cross-Linguistic Applications
+## الأثر
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
+قدّمت دورةُ يسبرسن نموذجاً مبكّراً ومؤثِّراً لدراسة التغيّر اللغوي الدوري (Cyclical Language Change)، وأثّرت في تطوّر نظرية النحوية الحديثة، وصارت اختباراً نمطياً معيارياً تُقاس عليه أنماطُ تطوّر النفي في لغاتٍ حول العالم ضمن حقل النمطية اللغوية المقارَنة.
 
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+## المصادر
 
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Jespersen, O. (1917). *Negation in English and Other Languages*. A.F. Høst.
+- van der Auwera, J. (2009). "The Jespersen Cycles." In E. van Gelderen (Ed.), *Cyclical Change*. John Benjamins.
+- van der Auwera, J., & Vossen, F. (2016). "Jespersen Cycles in the Bantu, Khoesan and Kadu Languages." In *Cyclical Change Continued*.
+- Willis, D., Lucas, C., & Breitbarth, A. (Eds.) (2013). *The History of Negation in the Languages of Europe and the Mediterranean*. Oxford University Press.

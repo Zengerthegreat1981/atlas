@@ -21,31 +21,34 @@ gaps: []
 
 # التماثلُ الدلاليُّ (الإيزوتوپيا) عند غريماس
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+التماثلُ الدلالي أو الإيزوتوپيا (Isotopy) مفهومٌ مركزي في السيمياء البنيوية عند ألجيرداس جوليان غريماس، قدّمه أولَ مرّة عام 1966 في كتابه *Sémantique Structurale*، ويصف تكرارَ مجموعةٍ من السمات الدلالية (Semes) المشتركة عبر وحداتٍ نصية متتالية، بحيث يخلق هذا التكرارُ مستوًى متماسكاً من المعنى يسمح بقراءةٍ موحَّدة متّسقة للنصّ، بدل تشتّته إلى تأويلاتٍ متضاربة عند كل جملة.
 
-## Theoretical Framework
+## الآليةُ: السماتُ المتكرِّرة
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+يستند المفهومُ إلى تحليل غريماس التحتي للدلالة المعجمية إلى وحداتٍ أصغر يسمّيها السماتِ (Semes)، وهي مكوّناتُ المعنى الدنيا المشترَكة بين كلماتٍ مختلفة (كسمة "+حي" المشترَكة بين "رجل" و"كلب" و"شجرة"). حين تتكرّر سمةٌ دلالية معيّنة (أو مجموعةُ سمات) عبر جملٍ أو فقراتٍ متعاقبة في النصّ، ينشأ خطٌّ دلاليٌّ متماسك (إيزوتوپيا) يوجّه القارئ نحو تأويلٍ موحَّد، ويحلّ الغموضَ المعجمي المحتمل لكل كلمةٍ بمفردها عبر ربطها بالسياق الدلالي العام السائد في النصّ.
 
-## Key Principles
+## أنماطُ التماثل الدلالي
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+ميّز غريماس بين أنماطٍ مختلفة من الإيزوتوپيا بحسب المستوى الذي تعمل فيه: الإيزوتوپيا الفاعلية (Actorial)، حين ترتبط مقاطعُ نصّية مختلفة بالشخصية السردية نفسِها؛ والإيزوتوپيا الخطابية (Discursive)، حين تحيل جملٌ متعدّدة إلى الموضوع نفسِه؛ والإيزوتوپيا التصويرية (Figurative)، حين يخفي النصُّ طبقةً استعارية أو رمزية موازية للمعنى الظاهر؛ والإيزوتوپيا الموضوعاتية (Thematic)، حين يحيل النصُّ إلى معرفةٍ أو قيمةٍ عامّة تتجاوز حدود السرد الظاهري المباشر.
 
-## Evidence Sources
+## الوظيفةُ في القراءة الموحَّدة
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+يقدّم مفهومُ الإيزوتوپيا حلاً نظرياً لمشكلة الغموض التأويلي في النصوص الطويلة: فبدل أن يُترَك القارئُ ليختار بين تأويلاتٍ متعدّدة محتملة لكل كلمةٍ غامضة على حدة، يوفّر تراكمُ السمات الدلالية المتكرِّرة عبر النصّ "مساراً" تأويلياً موحَّداً يرشّح قراءةً بعينها ويستبعد قراءاتٍ منافسة لا تتّسق مع الخيط الدلالي العام السائد.
 
-## Contemporary Applications
+## الموقعُ في البنية السيميائية الشاملة
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+يندرج مفهومُ الإيزوتوپيا ضمن منظومة غريماس النظرية الأشمل التي تشمل أيضاً المربّعَ السيميائي (أداةٌ لتمثيل العلاقات المنطقية بين المفاهيم المتقابلة) والبرنامجَ السردي (نموذجٌ لتحليل التحوّلات الأساسية بين الذات والموضوع في القصّ)، إذ يعمل التماثلُ الدلالي وسيطاً بين البنية العميقة المجرَّدة للمعنى وتجلّياتها السطحية الفعلية في النصّ.
 
-## References
+## الأثر
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+صار مفهومُ الإيزوتوپيا أداةً تحليلية أساسية في السيمياء السردية والنقد الأدبي البنيوي، وأثّر في تحليل الخطاب الأدبي والإعلامي على حدٍّ سواء بوصفه أداةً لكشف الخيوط الدلالية الخفية التي تمنح النصوصَ المعقَّدة تماسكَها رغم تعدّد مستوياتها الظاهرة.
+
+## المصادر
+
+- Greimas, A. J. (1966). *Sémantique Structurale: Recherche de Méthode*. Larousse.
+- Greimas, A. J., & Courtés, J. (1979). *Sémiotique: Dictionnaire Raisonné de la Théorie du Langage*. Hachette.
+- Greimas, A. J. (1983). *Du Sens II: Essais Sémiotiques*. Seuil.
+- Hébert, L. (2011). "The Actantial Model." In *Tools for Text and Image Analysis*. Signo.
 

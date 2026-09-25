@@ -17,7 +17,7 @@ related:
 - id: "sch-yogacara", title: "يوغاكارا / فيجنانافادا", type: "مدرسة"
 - id: "con-alaya-vijnana-storehouse-consciousness", title: "الوعي المخزني وبذور الكارما (Alaya-vijnana)", type: "مفهوم"
 - id: "con-vijnapti-matra-consciousness-only", title: "التمثل والوعي الخالص في اليوغاكارا (Vijnapti-matra)", type: "مفهوم"
-- id: "con-shunyata-emptiness", title: "الشونيتا — الفراغ والنشوء المشروط (Shunyata)", type: "مفهوم"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
 gaps:
   - "لا توجد ترجمة عربية مباشرة مراجَعة من نص Trisvabhāvanirdeśa الأصلي لفاسوباندو في هذا الملف."
   - "الفرق الدقيق بين قراءة اليوغاكارا الهندية للمفهوم وتطويره في الصين (شوان تسانغ، مدرسة فاشيانغ) غير مغطى هنا."

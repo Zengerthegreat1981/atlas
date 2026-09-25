@@ -46,36 +46,33 @@ gaps:
 
 # علمُ اللغة العصبيُّ الكلاسيكي
 
-## Definition
+تيارٌ بحثيّ تأسيسي في دراسة العلاقة بين الدماغ واللغة، نشأ من الطب العصبي السريري الفرنسي والألماني في القرن التاسع عشر واستمر حتى أواخر الستينيات، معتمداً على منهج «دراسة الآفة» (Lesion Studies): ربط موقع الإصابة الدماغية، الذي يُكشف عادةً بالتشريح بعد الوفاة، بنوع الخلل اللغوي الذي عانى منه المريض في حياته. أرسى هذا التيار الأساس الذي قامت عليه لاحقاً علوم اللغة العصبية الحديثة.
 
-Neurolinguistics studies neural bases of language. Which brain areas process language? How do neural mechanisms support linguistic abilities? How do brain differences affect language?
+## اكتشاف بروكا: توطين اللغة
 
-## Methods
+بدأ هذا التقليد سنة 1861 حين قدّم الجرّاح الفرنسي **پول بروكا** حالة مريضه الشهير الملقَّب بـ«تان» (Tan)، الذي فقد القدرة على الكلام الطلق مع بقاء فهمه سليماً نسبياً، فكشف التشريح بعد وفاته عن آفةٍ في الفَصّ الجبهي الأيسر (المنطقة التي حملت اسمه لاحقاً: منطقة بروكا). أثبتت هذه الحالة، ولأول مرة بدليلٍ تشريحي مباشر، أن وظائف اللغة **موطَّنة** في مناطق محددة من الدماغ لا موزَّعة بالتساوي فيه، وأسّست بذلك لعلم توطين الوظائف (Functional Localization).
 
-- fMRI: Imaging brain activity during language tasks
-- EEG: Recording electrical brain activity with high temporal resolution
-- Event-related potentials (ERPs): Timing of neural responses to linguistic stimuli
-- Lesion studies: Inferring function from brain damage
-- TMS: Temporarily disrupting brain areas to test function
+## اكتشاف فيرنيكه: الحبسة الاستقبالية
 
-## Key Findings
+بعد بروكا بثلاثة عشر عاماً، وصف الطبيب الألماني **كارل فيرنيكه** سنة 1874 في كتابه *Der Aphasische Symptomencomplex* نمطاً معاكساً من الحبسة: مرضى يتكلمون بطلاقةٍ ظاهرية لكن كلامهم خالٍ من المعنى، مع عجزٍ شديد في فهم الكلام، وربط ذلك بآفةٍ في الفَصّ الصدغي الأيسر الخلفي (منطقة فيرنيكه). واقترح فيرنيكه أن اللغة تعتمد على شبكةٍ من مناطق متخصصة مترابطة، لا على مركزٍ واحد، مما مهّد لفكرة «متلازمات الانفصال» بين مناطق دماغية متخصصة.
 
-Left hemisphere dominance for grammar and phonology; right hemisphere for prosody and metaphor. Specific regions: Broca's area (frontal) for grammar, Wernicke's area (temporal) for comprehension. Distributed networks rather than single regions control language.
+## نموذج ليختهايم والصياغة الوصلية
 
-## Disorders
+وسّع الطبيب السويسري **لودفيغ ليختهايم** سنة 1885 هذا الإطار في نموذجه التخطيطي الشهير («خطاطة ليختهايم»)، الذي أضاف مراكز افتراضية لمفاهيم الكلمات والتمثيل الصوتي ومسارات التوصيل بينها، فتنبأ بأنماط حبسةٍ إضافية لم تُوصف بعد، أبرزها **حبسة التوصيل** (Conduction Aphasia)، الناتجة نظرياً عن قطع الوصل بين منطقتَي بروكا وفيرنيكه، والحبسات «عبر القشرية» (Transcortical Aphasias). أصبح هذا النموذج يُعرف بنموذج **بروكا-فيرنيكه-ليختهايم**، وشكّل الإطار المرجعي القياسي للحبسة اللغوية طوال القرن التالي.
 
-Aphasia (language loss from brain injury) shows dissociations: some patients lose grammar but retain vocabulary. Dyslexia involves neural differences affecting reading. Stuttering involves neural timing differences.
+## إحياء النموذج على يد غيرشفيند
 
-## Development
+بعد عقودٍ من التراجع النسبي، أحيا الطبيب العصبي الأمريكي **نورمان غيرشفيند** في الستينيات هذا التقليد الكلاسيكي وأعاد صياغته بمصطلحات «متلازمات الانفصال» (Disconnection Syndromes)، مؤكداً أن كثيراً من الاضطرابات المعقدة تنتج عن قطع الألياف الرابطة بين مراكز سليمة لا عن تلف المراكز نفسها، فيما عُرف لاحقاً بنموذج «بروكا-فيرنيكه-غيرشفيند»، الذي هيمن على تدريس علم الحبسة حتى ظهور التصوير الدماغي الوظيفي (fMRI) في التسعينيات ونماذج المسارين المعاصرة التي نقّحت هذا الإرث الكلاسيكي دون إلغائه كلياً.
 
-Brain plasticity allows language recovery after injury, especially in children. Bilingual speakers show distributed language representation compared to monolinguals.
+## الإرث والحدود
 
-## Contemporary Research
+رغم أن الأبحاث الحديثة (كنموذج المسارين البطني والظهري عند هيكوك وپوپل) بيّنت أن التوطين الكلاسيكي مبسَّطٌ أكثر مما ينبغي، وأن مناطق بروكا وفيرنيكه ليست بالضرورة المسؤولة حصرياً عن الوظائف المنسوبة إليها تاريخياً، يبقى هذا التقليد الكلاسيكي أساس المفردات السريرية لتصنيف الحبسة (بروكا، فيرنيكه، التوصيل، التسموية، الشاملة) المستخدمة حتى اليوم في العيادة، وأول برهانٍ تجريبي منهجي على أن العمليات العقلية العليا، لا الحركية والحسية فقط، قابلةٌ للتوطين الدماغي.
 
-Modern neuroimaging reveals language uses widespread networks. Individual differences in brain structure predict language abilities. Neural signatures (like N400 ERP component) index semantic violations.
+## المصادر
 
-## References
-
-- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34, 167-189.
-- Hagoort, P., & Levelt, W. J. (2009). "The speaking brain." *Science*, 326(5951), 372-373.
+- Broca, Paul. "Remarques sur le siège de la faculté du langage articulé." *Bulletin de la Société Anatomique*, 6, 1861.
+- Wernicke, Carl. *Der Aphasische Symptomencomplex*. Cohn & Weigert, 1874.
+- Lichtheim, Ludwig. "On Aphasia." *Brain*, 7(4), 1885.
+- Geschwind, Norman. "Disconnexion Syndromes in Animals and Man." *Brain*, 88(2–3), 1965.
+- Goodglass, Harold. *Understanding Aphasia*. Academic Press, 1993.
 

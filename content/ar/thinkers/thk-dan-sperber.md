@@ -27,58 +27,27 @@ gaps:
 
 # دان سپربر
 
-## Definition and Overview
+عالمٌ فرنسيّ في الأنثروبولوجيا المعرفية والفلسفة واللسانيات التداولية، ولد سنة 1942، باحثٌ في معهد جان نيكو بباريس، اشتُهر بتأسيسه المشترك مع اللغوية البريطانية **ديردري ويلسون** لـ«نظرية الملاءمة» (Relevance Theory)، أحد أكثر أطر التداولية تأثيراً بعد التداولية الغرايسية نفسها.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## من الأنثروبولوجيا إلى التداولية
 
-## Theoretical Framework
+بدأ سپربر مسيرته أنثروبولوجياً، بأبحاثٍ ميدانية في مدغشقر، ونشر نقداً مؤثراً لمفهوم «العقلية البدائية» (La Mentalité Primitive) الذي طرحه لوسيان ليفي-بريل، مؤكداً أن الاختلافات الظاهرية بين أنساق الاعتقاد الثقافية لا تعكس فروقاً في الآليات المعرفية الأساسية بين البشر. من هذا الاهتمام بكيفية انتقال المعتقدات والتمثّلات عبر المجتمعات، انتقل تدريجياً نحو دراسة التواصل اللغوي نفسه بوصفه عملية استدلالٍ معرفي.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## نظرية الملاءمة
 
-## Key Mechanisms
+طوّر سپربر مع ويلسون في كتابهما المرجعي *Relevance: Communication and Cognition* (1986، مُنقَّح 1995) بديلاً معرفياً لقواعد غرايس المحادثية الأربع: بدل افتراض مبادئَ تعاونٍ متعددة يخضع لها المتكلم، اقترحا **مبدأ ملاءمةٍ** واحداً يحكم المعالجة الإدراكية البشرية عموماً، ينصّ على أن كل فعل تواصلٍ يحمل ضمناً «افتراض الملاءمة المثلى» (Optimal Relevance): أن ما يُقال يستحق مجهود المعالجة الذي يتطلبه، موازناً بين الأثر المعرفي الجديد وكلفة الجهد الاستدلالي المبذول لفهمه. بهذا اختزلت نظرية الملاءمة تفسير الإفهام التخاطبي (الذي احتاج عند غرايس قواعدَ متعددة) إلى آليةٍ استدلالية معرفية واحدة عامة.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## وبائية التمثّلات
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+طوّر سپربر لاحقاً في كتابه *Explaining Culture* (1996) نظرية «وبائية التمثّلات» (Epidemiology of Representations)، التي تُعرف أيضاً بـ«نظرية الجذب الثقافي» (Cultural Attraction Theory): مقاربةٌ لتفسير انتشار المعتقدات والممارسات الثقافية عبر المجتمعات بالقياس على انتشار الأوبئة، مع التركيز على كيف تُعاد صياغة كل تمثّلٍ ذهني جزئياً في كل مرة يُنقَل فيها بين الأفراد (لا نسخاً حرفياً)، بما يفسّر ثبات بعض الأنماط الثقافية وتحوّر أخرى.
 
-## Experimental Evidence
+## الأثر
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+أثّرت نظرية الملاءمة تأثيراً واسعاً في التداولية المعاصرة، وتفرّعت عنها أبحاثٌ في المجاز والسخرية والاستدلال غير الحرفي، كما امتدّ أثر سپربر إلى علم النفس المعرفي عبر «نظرية الاستدلال الحجاجي» (Argumentative Theory of Reasoning) التي طوّرها لاحقاً مع هوغو ميرسييه، والقائلة بأن وظيفة التفكير التحليلي البشري تطوّرت أساساً للإقناع والدفاع عن الحجج اجتماعياً لا للبحث المجرد عن الحقيقة.
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+## المصادر
 
-## Cross-Linguistic Applications
-
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Sperber, Dan, & Wilson, Deirdre. *Relevance: Communication and Cognition*. Blackwell, 1986 (2nd ed. 1995).
+- Sperber, Dan. *Rethinking Symbolism*. Cambridge University Press, 1975.
+- Sperber, Dan. *Explaining Culture: A Naturalistic Approach*. Blackwell, 1996.
+- Sperber, Dan, & Mercier, Hugo. *The Enigma of Reason*. Harvard University Press, 2017.

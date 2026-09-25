@@ -19,23 +19,34 @@ gaps: []
 
 # اللهجةُ الجندرية وحديثُ الوئام مقابل حديث التقرير عند تانن
 
-## Definition
+## التعريف
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+طرحت ديبورا تانن في كتابها الأكثر رواجاً *You Just Don't Understand: Women and Men in Conversation* (1990) نظريةَ "اللهجة الجندرية" (Genderlect)، التي تصف أسلوبَي تواصل الرجال والنساء بوصفهما شبيهين بلهجتين اجتماعيتين مختلفتين ينشأ كلٌّ منهما من تنشئةٍ ثقافية مختلفة منذ الطفولة، لا خللاً تواصلياً أو تفوّقاً لأحد الأسلوبين على الآخر.
 
-## Key Principles
+## حديثُ الوئام مقابل حديث التقرير
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+جوهرُ النظرية ثنائيةٌ محورية: حديثُ الوئام (Rapport Talk)، الذي تميل إليه النساء غالباً بحسب تانن، ووظيفتُه الأساسية بناءُ العلاقات وتوطيدُ الارتباط العاطفي وتفاوضُ الألفة؛ مقابلَ حديث التقرير (Report Talk)، الذي يميل إليه الرجالُ غالباً، ووظيفتُه الأساسية نقلُ المعلومات والحفاظُ على الاستقلالية وإثباتُ المكانة ضمن نظامٍ اجتماعي هرمي. بحسب تانن، اللغةُ عند معظم النساء وسيلةٌ للتواصل العاطفي أولاً، بينما هي عند معظم الرجال وسيلةٌ للحفاظ على المكانة والاستقلال أولاً.
 
-## Evidence
+## أصلُ الاختلاف: التنشئةُ لا البيولوجيا
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+تؤكّد تانن أن هذا الاختلافَ الأسلوبي متعلَّمٌ اجتماعياً منذ الطفولة المبكّرة لا فطريٌّ بيولوجياً، إذ يلعب الأولادُ والبناتُ غالباً في جماعاتٍ منفصلة بحسب الجنس منذ سنٍّ مبكّرة، فتتطوّر داخل كل جماعةٍ أعرافٌ تواصلية مختلفة: تميل جماعاتُ البنات إلى لعبٍ تعاوني يُبنى فيه الحديثُ حول التقارب والمشاركة، بينما تميل جماعاتُ الأولاد إلى لعبٍ تنافسي يُبنى فيه الحديثُ حول تأكيد المكانة والسيطرة على دفّة التفاعل.
 
-## References
+## سوءُ الفهم بين الجنسين
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+تفسّر تانن كثيراً من الاحتكاكات التواصلية الزوجية والمهنية بين الرجال والنساء بوصفها سوءَ فهمٍ بين لهجتين لا خللاً في العلاقة نفسِها: فحين تشارك امرأةٌ مشكلةً بحثاً عن تعاطفٍ (حديثُ وئام)، قد يستجيب الرجلُ بتقديم حلٍّ عملي مباشر (حديثُ تقرير)، فتشعر هي بأنه لم يُصغِ إليها فعلاً، بينما يظن هو أنه قدّم المساعدةَ المطلوبة تماماً — سوءُ فهمٍ ناتجٌ عن اختلاف الغاية الضمنية من الحديث نفسِه لا عن نيّةٍ سيئة من أيٍّ من الطرفين.
+
+## النقدُ المنهجي
+
+تعرّضت نظريةُ تانن لنقدٍ منهجي واسع، أبرزُه اتّهامُها بالتعميم المفرط الذي يُغفل تبايناتٍ داخل الجنس الواحد أكبرَ أحياناً من التباين بين الجنسين، وإهمالُها متغيّراتٍ متقاطعة كالطبقة الاجتماعية والعرق والهوية الجندرية غير الثنائية، كما اعترض باحثون كسارة ميلز على افتراض وجود أسلوبٍ "نسائي" ثابت بمعزل عن جماعة الممارسة المحدَّدة التي يحدث فيها التفاعل الفعلي.
+
+## الأثر
+
+رغم هذا النقد، أثّر عملُ تانن تأثيراً واسعاً خارج الأوساط الأكاديمية، إذ نقل نقاشَ اللغة والجندر إلى جمهورٍ عريض عبر إطارٍ سهل الفهم، وأسهم في تحويل التركيز البحثي من "من يتكلّم أكثر" إلى تحليل الوظيفة التواصلية الكامنة خلف أنماط الحديث المختلفة.
+
+## المصادر
+
+- Tannen, D. (1990). *You Just Don't Understand: Women and Men in Conversation*. William Morrow.
+- Tannen, D. (1994). *Gender and Discourse*. Oxford University Press.
+- Mills, S. (2003). *Gender and Politeness*. Cambridge University Press.
+- Cameron, D. (2007). *The Myth of Mars and Venus: Do Men and Women Really Speak Different Languages?* Oxford University Press.
 

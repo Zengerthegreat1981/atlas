@@ -51,7 +51,6 @@ related:
 - id: "con-zero-copula-verbless-sentences", title: "الرابطةُ الصفرية والجملُ الاسمية بلا فعل (Zero Copula & Verbless Sentences)", type: "مفهوم"
 - id: "con-comparative-constructions-typology", title: "نمطيةُ تراكيب المقارنة (Comparative Constructions Typology)", type: "مفهوم"
 - id: "con-negation-typology-jespersens-cycle", title: "نمطيةُ النفي ودورةُ يسبرسن (Negation Typology & Jespersen's Cycle)", type: "مفهوم"
-- id: "con-grammatical-gender-noun-classes", title: "الجنسُ النحويُّ وأصنافُ الأسماء (Grammatical Gender & Noun Classes)", type: "مفهوم"
 - id: "con-writing-systems-typology", title: "نمطيةُ أنظمة الكتابة (Writing Systems Typology)", type: "مفهوم"
 - id: "con-ideophones", title: "المفرداتُ التصويرية (Ideophones)", type: "مفهوم"
 - id: "con-switch-reference-systems", title: "أنظمةُ تبديل المرجع (Switch-Reference Systems)", type: "مفهوم"

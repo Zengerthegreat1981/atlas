@@ -23,43 +23,30 @@ gaps: []
 
 # الإفهامُ الصريح مقابل الإفهام الضمني
 
-## Definition
+## التعريف
 
-Implicature is meaning implied but not explicitly stated. "Can you pass the salt?" implies a request though literally asks a question. Implicatures are pragmatically inferred from context and discourse principles.
+الإفهامُ الصريح (Explicature) مفهومٌ صاغته ديردري ويلسون ودان سپربر ضمن نظرية الملاءمة (Relevance Theory)، على قياس مصطلح "الإفهام الضمني" (Implicature) الغرايسي، ليصف القضيةَ المعبَّر عنها فعلياً في الملفوظ بعد إثرائها استدلالياً — لا القضيةَ الحرفية المشفَّرة لغوياً وحدها، ولا المعنى الضمني المستلزَم خارج ما قيل. الإفهامُ الصريح هو "تفصيلٌ استدلالي للبنية المنطقية المشفَّرة في الملفوظ"، يجمع بين فك الترميز اللغوي والاستدلال التخاطبي معاً.
 
-## Grice's Framework
+## لماذا لا يكفي فكُّ الترميز وحده
 
-Conversational implicatures arise from apparent violations of Grice's maxims:
-- Saying less than required (Quantity): "Some students passed" implicates not all passed
-- Irrelevant contribution (Relation): Off-topic response implicates something unstated
-- Manner violation: "He went to the door and entered the room" (vs. "He entered the room") implicates sequentiality
+الفكرةُ المحورية عند سپربر وويلسون أن الجملةَ المنطوقة نادراً ما تحدِّد قضيةً كاملةً محدَّدة بذاتها؛ فجملةُ "لم آكل" ناقصةٌ زمنياً (لم آكل متى؟ اليوم؟ هذه الساعة؟)، وجملةُ "هو جاهز" غامضةٌ مرجعياً (جاهزٌ لماذا؟)، والصفةُ "أحمر" في "التفاحةُ حمراء" تحتاج تحديداً دقيقاً لدرجة الاحمرار المقصودة. يسمّي هذه الفجواتِ "عدمَ التحديد الدلالي" (Semantic Underdeterminacy)، وتُملأ بعمليات استدلالية تُنتج الإفهامَ الصريح: إتمامُ المرجع، وضبطُ الزمن، والتضييقُ أو التوسيعُ المفهومي.
 
-## Scalar Implicature
+## إسهامُ روبِن كارستون: التضييقُ والتوسيع
 
-Scalar implicature: "Some students passed" implicates "Not all students passed." This is because "all" is stronger on the scale; if all passed, one should say "all."
+طوّرت روبِن كارستون تفصيلاً دقيقاً لعمليات الإثراء المفهومي التي تُنتِج الإفهامَ الصريح، أبرزُها التضييقُ (Narrowing)، حيث تُستخدَم كلمةٌ بمعنًى أضيق من معناها المعجمي (كاستخدام "أعزب" للدلالة على رجلٍ مؤهَّل اجتماعياً للزواج لا كل غير متزوّج تقنياً)، والتوسيعُ أو الاستعمالُ المرن (Loose Use)، حيث تُستخدَم الكلمةُ بمعنًى أوسع أو تقريبي (كقول "فرنسا مربَّعةُ الشكل" استعمالاً تقريبياً لا حرفياً). ترى كارستون أن هذه العملياتِ إجراءً تداولياً واحداً موحَّداً يُنتِج مفاهيمَ مخصَّصة للمناسبة (Ad Hoc Concepts).
 
-- Some/All: "I ate some cookies" → "I didn't eat all cookies"
-- Or: "You can have tea or coffee" → "You can't have both"
-- Might/Must: "He might be late" → "It's not certain"
+## الحدُّ الفاصل بين الإفهامين
 
-## Conventional Implicature
+يقع الإفهامُ الصريح على تواصلٍ مع الإفهام الضمني في أن كليهما نتاجُ استدلالٍ تخاطبي لا فكِّ ترميزٍ صرف، لكنهما يختلفان في العلاقة ببنية الملفوظ: الإفهامُ الصريح تطويرٌ للبنية المنطقية المشفَّرة نفسِها (يبقى جزءاً مما "قيل")، بينما الإفهامُ الضمني اقتراحٌ إضافي مستقلّ عن هذه البنية تماماً (لا يمكن اعتبارُه جزءاً مما قيل مهما أُثري). هذا التمييزُ يتجاوز ثنائية غرايس الكلاسيكية بين "ما قيل" (What Is Said) الثابت و"ما استُلزم" (What Is Implicated) وحدها.
 
-Some implicatures are tied to words rather than context. "However" in "She's smart, however she failed" implicates contrast. The contrast is part of the word's meaning.
+## الأثر النظري
 
-## Non-cancellability Test
+أعاد هذا الإطارُ رسمَ الحدود التقليدية بين علم الدلالة (Semantics) وعلم التداول (Pragmatics)، إذ بيّن أن التداولَ يتدخّل في تحديد محتوى "ما قيل" نفسِه لا في إضافة طبقةٍ منفصلة فوقه فقط، وهو موقفٌ أثار جدلاً واسعاً مع الدلاليين الصوريين الذين يفضّلون إبقاء حدٍّ أوضح بين المستويين.
 
-Implicatures (unlike entailments) can be cancelled: "Some students passed—actually, all passed." But entailments cannot: "The king attended—he wasn't there" is contradictory.
+## المصادر
 
-## Experimental Evidence
-
-Processing studies show scalar implicatures take longer to process than literal meanings. Children acquire implicatures gradually. Non-native speakers struggle with implicature interpretation.
-
-## Contemporary Applications
-
-Virtual assistants recognize implicatures in user requests. Sarcasm detection requires understanding when implicatures are flouted. Chatbots must track conversational implicatures.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
-- Levinson, S. C. (1983). *Pragmatics*. Cambridge University Press.
+- Sperber, D., & Wilson, D. (1995). *Relevance: Communication and Cognition* (2nd ed.). Blackwell.
+- Carston, R. (2002). *Thoughts and Utterances: The Pragmatics of Explicit Communication*. Blackwell.
+- Wilson, D., & Sperber, D. (2004). "Relevance Theory." In L. R. Horn & G. Ward (Eds.), *The Handbook of Pragmatics*. Blackwell.
+- Carston, R. (2010). "Explicit Communication and 'Free' Pragmatic Enrichment." In B. Soria & E. Romero (Eds.), *Explicit Communication*. Palgrave Macmillan.
 

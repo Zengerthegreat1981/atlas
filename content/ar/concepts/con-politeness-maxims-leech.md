@@ -21,31 +21,34 @@ gaps:
 
 # مبادئُ التأدّب عند ليتش
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+طوّر جيفري ليتش في كتابه *Principles of Pragmatics* (1983) مبدأَ التأدّب (Politeness Principle) إطاراً موازياً لمبدأ التعاون الغرايسي، يفسّر لماذا يُخالف المتحدّثون أحياناً قواعدَ الكفاءة التخاطبية الصرفة (كقولٍ أقلَّ إفادةً أو غيرِ مباشر) رغم أن ذلك يبدو مخالفاً لمبدأ الكمّ أو الطريقة عند غرايس؛ يرى ليتش أن هذه المخالفاتِ الظاهرية مدفوعةٌ بمبدأ تداولي موازٍ يهدف إلى الحفاظ على العلاقة الاجتماعية بين المتحاورين، لا إلى نقل المعلومة بأقصى كفاءةٍ ممكنة فحسب.
 
-## Theoretical Framework
+## المبادئُ الستة
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+صاغ ليتش مبدأَ التأدّب في ستّ قواعدَ فرعية، كل واحدةٍ تنظّم توزيعَ التكلفة والمنفعة بين المتحدّث والمخاطَب في جانبٍ تفاعلي معيّن: مبدأُ اللباقة (Tact)، الذي يقتضي تقليلَ الكلفة على المخاطَب وزيادةَ منفعته؛ ومبدأُ الكرم (Generosity)، الذي يقتضي تقليلَ منفعة المتكلّم نفسِه وزيادةَ منفعة الآخرين؛ ومبدأُ الاستحسان (Approbation)، الذي يقتضي تقليلَ ذمّ الآخر وزيادةَ الثناء عليه؛ ومبدأُ التواضع (Modesty)، الذي يقتضي تقليلَ مدح الذات وزيادةَ ذمّها؛ ومبدأُ الاتفاق (Agreement)، الذي يقتضي تقليلَ الخلاف مع الآخر وزيادةَ الاتفاق معه؛ ومبدأُ التعاطف (Sympathy)، الذي يقتضي تقليلَ اللامبالاة تجاه الآخر وزيادةَ التعاطف معه.
 
-## Key Principles
+## المنطقُ الاقتصادي المشترَك
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+تشترك هذه المبادئُ الستة في منطقٍ اقتصادي واحد يشبه بنيةَ قواعد غرايس نفسِها: كل مبدأٍ يوازن بين "الكلفة" و"المنفعة" الموزَّعتين بين طرفَي المحادثة، ويوجّه المتحدّثين نحو تعظيم المنفعة للطرف الآخر وتقليل التكلفة عليه (أو العكس بالنسبة للذات)، بحيث يعمل التأدّبُ اللغوي بوصفه استراتيجيةَ إدارةٍ منهجية للعلاقات الاجتماعية عبر اختيارات لغوية محدَّدة.
 
-## Evidence Sources
+## العلاقةُ بمبدأ التعاون الغرايسي
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+يرى ليتش أن مبدأَ التأدّب ضروريٌّ لتفسير سلوكياتٍ لغوية يعجز مبدأُ التعاون الغرايسي وحده عن تفسيرها بشكلٍ كافٍ: فلماذا يستخدم المتحدّثون صيغاً غيرَ مباشرة أو تلميحاتٍ غامضة بدل قول ما يريدونه مباشرةً وبكفاءة، رغم أن هذا يبدو انتهاكاً لقاعدة الطريقة أو الكمّ؟ الجوابُ عند ليتش أن مبدأَ التأدّب يتدخّل هنا، إذ يقدّم أحياناً الحفاظَ على العلاقة الاجتماعية على الكفاءة التخاطبية الصرفة، فيفسّر التوترَ الظاهري بين مبدأين تداوليين متنافسين لا بانهيار التعاون.
 
-## Contemporary Applications
+## الجدلُ مع نموذج براون وليڤنسون
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+يمثّل إطارُ ليتش القائم على المبادئ بديلاً موازياً لإطار براون وليڤنسون القائم على مفهوم "الوجه" (Face)، ويبقى الجدلُ مفتوحاً حول أيُّ الإطارين أكثرُ تفسيراً وقابليةً للتعميم عبر الثقافات: يُنتقَد إطارُ ليتش أحياناً بأنه أقلُّ اقتصاداً نظرياً لتعدّد مبادئه الستة مقارنةً بمفهوم "الوجه" الموحَّد، بينما يُنتقَد إطارُ براون وليڤنسون بدوره باعتباره متحيّزاً ثقافياً لتصوّرٍ غربي فردي عن "الوجه" لا يعمّم بسهولة على ثقافاتٍ جماعية التوجّه.
 
-## References
+## الأثر
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+أثّر إطارُ ليتش تأثيراً واسعاً في دراسات التأدّب المقارَنة عبر اللغات والثقافات، واستُخدم تحليلياً في دراسة نصوصٍ متنوّعة من الحوار اليومي إلى الخطاب الديني والتعليمي، وبقي أحدَ الإطارين المرجعيين الرئيسيين في نظرية التأدّب اللغوية إلى جانب نموذج براون وليڤنسون.
+
+## المصادر
+
+- Leech, G. N. (1983). *Principles of Pragmatics*. Longman.
+- Leech, G. N. (2014). *The Pragmatics of Politeness*. Oxford University Press.
+- Brown, P., & Levinson, S. C. (1987). *Politeness: Some Universals in Language Usage*. Cambridge University Press.
+- Thomas, J. (1995). *Meaning in Interaction: An Introduction to Pragmatics*. Longman.
 

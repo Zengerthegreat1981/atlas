@@ -17,23 +17,5 @@ gaps: []
 
 # التاريخ الأوراسي (Eurasian History)
 
-## Eurasian History
 
-Regional historiography treating Eurasia as integrated system; examines Silk Roads, empires, and cross-continental flows.
-
-### Key Aspects
-
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
-
-### Related Fields
-
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+علم تأريخ إقليمي يعامل أوراسيا بوصفها نظاماً متكاملاً؛ يبحث في طرق الحرير والإمبراطوريات والتدفقات بين القارات.

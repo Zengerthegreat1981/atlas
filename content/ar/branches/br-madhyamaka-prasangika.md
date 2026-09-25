@@ -15,7 +15,7 @@ related:
 - id: "sch-madhyamaka", title: "مادهياماكا (بفرعيها برَسانغيكا وسفاتانتريكا)", type: "مدرسة"
 - id: "thk-nagarjuna", title: "ناغارجونا (مؤسس مادهياماكا)", type: "مفكر"
 - id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
-- id: "con-shunyata-emptiness", title: "الشونيتا — الفراغ والنشوء المشروط (Shunyata)", type: "مفهوم"
+- id: "con-shunyata", title: "شُونْياتا (الفراغ / العدمية الجوهرية)", type: "مفهوم"
 - id: "dbt-shunyata-vs-brahman", title: "شُونْياتا في مقابل براهمان: الفراغ ضد الجوهر", type: "جدل"
 - id: "thk-tsongkhapa", title: "جي تسونغكابا", type: "مفكر"
 - id: "thk-shantarakshita", title: "شانتاراكشيتا", type: "مفكر"

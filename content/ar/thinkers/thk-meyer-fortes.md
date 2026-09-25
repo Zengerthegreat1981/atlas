@@ -13,8 +13,10 @@ birth_country: "المملكة المتحدة"
 active_start: 1934
 active_end: 1973
 edges:
+- rel: "belongs_to", target: "sch-british-functionalism", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-descent-theory", target_type: "مدرسة"
 related:
+- id: "con-lineage-system", title: "نظام النسب الخطي (Lineage System)", type: "مفهوم"
 - id: "con-descent-theory", title: "نظريةُ النسب (Descent Theory)", type: "مفهوم"
 - id: "sch-descent-theory", title: "نظرية النسب في الأنثروبولوجيا (Descent Theory)", type: "مدرسة"
 - id: "thk-radcliffe-brown", title: "ألفرد رادكليف-براون", type: "مفكر"

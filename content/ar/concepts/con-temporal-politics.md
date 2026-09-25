@@ -17,23 +17,5 @@ gaps: []
 
 # السياسة الزمنية (Temporal Politics)
 
-## Temporal Politics
 
-Study of how temporal frameworks and concepts of time are politically constructed; examines time as political resource.
-
-### Key Aspects
-
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
-
-### Related Fields
-
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+دراسة الكيفية التي تُبنى بها الأطر الزمنية ومفاهيم الوقت سياسياً؛ تبحث في الزمن بوصفه مورداً سياسياً.

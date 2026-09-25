@@ -30,23 +30,24 @@ gaps:
 
 # كارل فيرنيكه
 
-## Definition
+طبيبُ أعصابٍ ألماني، ثاني أعمدة علم اللغة العصبي الكلاسيكي بعد پول بروكا، اشتهر باكتشافه سنة 1874 نمطاً من فقدان اللغة الناتج عن إصابة دماغية يختلف جوهرياً عن النمط الذي وصفه بروكا، فأسّس بذلك فكرة أن اللغة تعتمد على **شبكةٍ من مناطق دماغية متخصصة ومترابطة**، لا مركزٍ واحد.
 
-This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
+## الاكتشاف: حبسة فيرنيكه
 
-## Key Principles
+في كتابه *Der Aphasische Symptomencomplex* (المركَّب العرضي للحبسة، 1874)، وصف فيرنيكه مرضى يتكلمون بطلاقةٍ ظاهرية وتنغيمٍ سليم، لكن كلامهم يفتقر إلى معنىً متماسك (يتضمن كلماتٍ مبتكَرة أو مستبدَلة، فيما يُعرف بـ«التلفيق اللفظي»)، مع عجزٍ شديد عن فهم كلام الآخرين. ربط فيرنيكه هذا النمط، الذي حمل اسمه لاحقاً (حبسة فيرنيكه أو الحبسة الاستقبالية)، بآفةٍ في الجزء الخلفي من التلفيف الصدغي العلوي في نصف الدماغ الأيسر (منطقة فيرنيكه)، في مقابل منطقة بروكا الجبهية المسؤولة عن نمط الحبسة التعبيرية.
 
-- Language involves distributed brain networks
-- Cognitive processes are embodied (grounded in perception and action)
-- Language learning involves neural plasticity
-- Individual and group differences affect language abilities
+## النموذج الترابطي المبكر
 
-## Evidence
+لم يكتفِ فيرنيكه بالوصف السريري، بل اقترح تفسيراً نظرياً مبكراً: أن فهم الكلام ينشأ في منطقته الصدغية (كصورةٍ صوتية للكلمات)، بينما ينتج الكلام في منطقة بروكا الجبهية (كبرنامجٍ حركي للنطق)، وأن المنطقتين مترابطتان بحزمةٍ عصبية (الحزمة القوسية، Arcuate Fasciculus)، بحيث تنشأ **حبسة التوصيل** (Conduction Aphasia) — التي تنبأ بها نظرياً قبل رصدها إكلينيكياً بوضوح — عن قطع هذا الوصل بين منطقتين سليمتين كلٌّ على حدة، لا عن تلف أيٍّ منهما مباشرة.
 
-Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
+## أثره في تأسيس علم اللغة العصبي
 
-## References
+مثّل عمل فيرنيكه، إلى جانب بروكا، الأساس الذي بُني عليه لاحقاً **نموذج بروكا-فيرنيكه-ليختهايم**، حين طوّر لودفيغ ليختهايم مخططاً تفصيلياً موسَّعاً لشبكة اللغة الدماغية استناداً إلى مبدأ فيرنيكه الترابطي. وأحيا نورمان غيرشفيند هذا الإطار في الستينيات بمصطلحات «متلازمات الانفصال»، فأصبح ما يُعرف بنموذج «بروكا-فيرنيكه-غيرشفيند» المرجعية السائدة لتصنيف الحبسة اللغوية طوال القرن العشرين، ولا تزال تسميات فيرنيكه (منطقةً ومتلازمة) قيد الاستخدام السريري حتى اليوم رغم أن الأبحاث العصبية الحديثة نقّحت حدود الوظيفة التشريحية الدقيقة التي افترضها أصلاً.
 
-- Kemmerer, D. (2012). *Psychology of Language*. Springer.
-- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
+## المصادر
+
+- Wernicke, Carl. *Der Aphasische Symptomencomplex: Eine psychologische Studie auf anatomischer Basis*. Cohn & Weigert, 1874.
+- Eggert, Gertrude H. (ed. & trans.). *Wernicke's Works on Aphasia: A Sourcebook and Review*. Mouton, 1977.
+- Lichtheim, Ludwig. "On Aphasia." *Brain*, 7(4), 1885.
+- Tesak, Jürgen, & Code, Chris. *Milestones in the History of Aphasia: Theories and Protagonists*. Psychology Press, 2008.
 

@@ -10,210 +10,211 @@ related_schools:
   - sch-systemic-family
 ---
 
-# Relationship Enhancement (RE)
+# تعزيز العلاقة (Relationship Enhancement, RE)
 
-Relationship Enhancement is a skill-building program designed to improve interpersonal relationships through structured training in communication, problem-solving, and empathy skills. Originally developed for couples, the RE model has been adapted for families, parent-child relationships, and workplace relationships. Grounded in humanistic and person-centered psychology, RE emphasizes each person's capacity for growth and mutual support.
+تعزيز العلاقة برنامج بناء مهاراتٍ صُمِّم لتحسين العلاقات الشخصية عبر تدريبٍ منظَّم على التواصل وحل المشكلات ومهارات التعاطف. طوِّر أصلاً للأزواج، ثم كُيِّف نموذج RE للأسر، وعلاقات الوالدين بالأبناء، وعلاقات مكان العمل. يستند إلى علم النفس الإنساني والمتمركز حول الشخص، ويشدد على قدرة كل فردٍ على النمو والدعم المتبادل.
 
-## Development & Theory
+## التطور والنظرية
 
-**Founder:** Bernard G. Guerney Jr. (1960s-1970s, Penn State University)
+**المؤسِّس:** برنارد ج. غيرني الابن (Bernard G. Guerney Jr.) (الستينيات-السبعينيات، جامعة ولاية بنسلفانيا)
 
-**Philosophical roots:** 
-- Carl Rogers' person-centered psychology and conditions for growth
-- Humanistic emphasis on potential and self-actualization
-- Democratic, collaborative approach to relationships
-- Belief that people have capacity to help each other grow
+**الجذور الفلسفية:**
+- علم النفس المتمركز حول الشخص لكارل روجرز وشروط النمو
+- التشديد الإنساني على الإمكانات وتحقيق الذات
+- نهجٌ ديمقراطي تعاوني للعلاقات
+- الاعتقاد بأن للناس القدرة على مساعدة بعضهم بعضاً على النمو
 
-**Core premise:** Relationships improve when both partners develop specific skills in empathic listening, honest self-expression, and mutual problem-solving
+**الفرضية الجوهرية:** تتحسن العلاقات حين يطوّر الشريكان مهاراتٍ محددة في الإصغاء المتعاطف، والتعبير الذاتي الصادق، وحل المشكلات المتبادل
 
-## Theoretical Foundations
+## الأسس النظرية
 
-### Core Relationship Skills
+### المهارات العلائقية الجوهرية
 
-**1. Empathic Listening (Listening Skill)**
-- Fully attending to partner's message
-- Reflecting back understanding of feelings and content
-- Suspending judgment or problem-solving during listening phase
-- Validating partner's experience as legitimate
+**1. مهارة الإصغاء المتعاطف**
+- الانتباه الكامل لرسالة الشريك
+- عكس فهم المشاعر والمحتوى
+- تعليق الحكم أو حل المشكلة أثناء مرحلة الإصغاء
+- الإقرار بخبرة الشريك بوصفها مشروعة
 
-**2. Expressive Skill (Self-Disclosure)**
-- Speaking about own feelings, needs, desires clearly
-- Using "I" statements and owning feelings
-- Being direct but non-blaming
-- Expressing vulnerability appropriately
+**2. مهارة التعبير (الإفصاح الذاتي)**
+- التحدث عن مشاعر المرء وحاجاته ورغباته بوضوح
+- استخدام عبارات "أنا" وامتلاك المشاعر
+- المباشرة دون لوم
+- التعبير عن الهشاشة بشكلٍ ملائم
 
-**3. Negotiation/Problem-Solving Skill**
-- Taking turns as speaker and listener (alternating roles)
-- Clearly stating problem as each person sees it
-- Brainstorming solutions without criticism
-- Collaborating on win-win solutions
-- Following through on agreements
+**3. مهارة التفاوض/حل المشكلات**
+- تبادل دوري المتحدث والمستمع
+- بيان المشكلة بوضوح كما يراها كلٌّ منهما
+- العصف الذهني للحلول دون نقد
+- التعاون على حلولٍ يربح فيها الطرفان
+- المتابعة لتنفيذ الاتفاقات
 
-**4. Conflict Resolution**
-- Using listening and expression skills during disagreement
-- Staying with difficult emotions rather than avoiding
-- Finding underlying needs beneath positions
-- Seeking understanding before solving
+**4. حل النزاع**
+- استخدام مهارتَي الإصغاء والتعبير أثناء الخلاف
+- البقاء مع المشاعر الصعبة بدل تجنبها
+- إيجاد الحاجات الكامنة تحت المواقف
+- السعي إلى الفهم قبل الحل
 
-### Therapeutic Conditions (Rogers)
-- **Genuineness:** authenticity in interaction
-- **Unconditional positive regard:** acceptance despite disagreement
-- **Empathic understanding:** accurate perception of other's feelings and perspectives
-- **Congruence:** alignment between inner experience and external expression
+### الشروط العلاجية (روجرز)
+- **الصدق (Genuineness):** الأصالة في التفاعل
+- **التقدير الإيجابي غير المشروط:** القبول رغم الاختلاف
+- **الفهم المتعاطف:** إدراكٌ دقيق لمشاعر الآخر ومنظوره
+- **التطابق (Congruence):** الاتساق بين الخبرة الداخلية والتعبير الخارجي
 
-These conditions are cultivated through the RE skills training.
+تُنمَّى هذه الشروط عبر تدريب مهارات RE.
 
-## RE Program Structure
+## بنية برنامج RE
 
-### Training Format
+### صيغة التدريب
 
-**Initial assessment:**
-- Individual and/or couple meetings to understand concerns
-- Establishing goals for relationship improvement
-- Assessing readiness for skill-building
+**التقييم الأولي:**
+- لقاءاتٌ فردية و/أو للزوجين لفهم المخاوف
+- تحديد أهداف تحسين العلاقة
+- تقييم الاستعداد لبناء المهارات
 
-**Skill training (typical 8-12 sessions):**
-- **Session 1-2:** Empathic listening skill introduction and practice
-- **Session 3-4:** Expressive skill training and practice
-- **Session 5-6:** Negotiation and problem-solving skill building
-- **Session 7-8:** Application to specific relationship issues
-- **Session 9-12:** Consolidation, deeper issues, maintenance planning
+**تدريب المهارات (نموذجياً 8-12 جلسة):**
+- **الجلستان 1-2:** تقديم مهارة الإصغاء المتعاطف وممارستها
+- **الجلستان 3-4:** تدريب مهارة التعبير وممارستها
+- **الجلستان 5-6:** بناء مهارة التفاوض وحل المشكلات
+- **الجلستان 7-8:** التطبيق على قضايا علاقةٍ محددة
+- **الجلسات 9-12:** التوطيد، والقضايا الأعمق، وتخطيط الحفاظ
 
-**Practice & home assignments:**
-- Structured exercises between sessions
-- Written reflections or dialogues
-- Practice in safe context before applying to difficult issues
+**الممارسة والواجبات المنزلية:**
+- تمارين منظَّمة بين الجلسات
+- تأملاتٌ أو حواراتٌ مكتوبة
+- الممارسة في سياقٍ آمن قبل تطبيقها على قضايا صعبة
 
-### The RE Process (Cyclical)
+### عملية RE (الدورية)
 
-1. **Listener phase:** One person listens empathically while partner expresses
-2. **Validation phase:** Listener reflects and validates
-3. **Role reversal:** Switch roles; other person now speaks, first now listens
-4. **Problem-solving phase** (if negotiating): Both bring solutions, discuss, agree
+1. **مرحلة المستمع:** يستمع أحدهما متعاطفاً بينما يعبّر الشريك
+2. **مرحلة الإقرار:** يعكس المستمع ويقرّ بالمشاعر
+3. **تبادل الأدوار:** تبديل الأدوار؛ يتحدث الآخر الآن، ويستمع الأول
+4. **مرحلة حل المشكلة** (عند التفاوض): يقدّم كلاهما حلولاً، ويناقشان، ويتفقان
 
-This cycle can be repeated for same issue or different issues.
+يمكن تكرار هذه الدورة للقضية نفسها أو لقضايا مختلفة.
 
-## Applications
+## التطبيقات
 
-### Couples/Marital RE
-- **Goal:** improve communication, intimacy, conflict resolution
-- **Format:** couples sessions with homework
-- **Outcomes:** increased satisfaction, better conflict management, deeper connection
+### RE للأزواج/الزواج
+- **الهدف:** تحسين التواصل والحميمية وحل النزاع
+- **الصيغة:** جلساتٌ للزوجين مع واجبات منزلية
+- **النتائج:** رضاً متزايداً، وإدارةً أفضل للنزاع، واتصالاً أعمق
 
-### Family RE
-- **Goal:** improve parent-child, sibling relationships, whole family dynamics
-- **Format:** family sessions, sometimes separate parent/child modules
-- **Outcomes:** better communication, reduced conflict, more cohesive family
+### RE للأسرة
+- **الهدف:** تحسين علاقات الوالدين بالأبناء والإخوة وديناميكيات الأسرة كلها
+- **الصيغة:** جلساتٌ أسرية، وأحياناً وحداتٌ منفصلة للوالدين/الأبناء
+- **النتائج:** تواصلٌ أفضل، ونزاعٌ أقل، وأسرةٌ أكثر تماسكاً
 
-### Parent-Child RE
-- **Goal:** strengthen relationship, improve parenting, reduce behavioral problems
-- **Format:** parent training; sometimes with child involvement
-- **Content:** parent as listener, expressing disappointment without shaming, problem-solving with child
-- **Outcomes:** reduced child behavioral problems, improved attachment, less parental stress
+### RE للوالدين والأبناء
+- **الهدف:** تقوية العلاقة، وتحسين التربية، وتقليل المشكلات السلوكية
+- **الصيغة:** تدريب الوالدين؛ وأحياناً بمشاركة الطفل
+- **المحتوى:** الوالد بوصفه مستمعاً، والتعبير عن خيبة الأمل دون تعييرٍ، وحل المشكلات مع الطفل
+- **النتائج:** تقليل المشكلات السلوكية للطفل، وتحسين التعلّق، وتقليل توتر الوالدين
 
-### Parent-Adolescent RE
-- **Goal:** navigate increased independence, maintain connection, reduce conflict
-- **Format:** separate parent and teen training, sometimes conjoint sessions
-- **Content:** listening to teen perspective, expressing parental concerns respectfully, negotiating boundaries
-- **Outcomes:** better communication, reduced acting out, maintained family connection
+### RE للوالدين والمراهقين
+- **الهدف:** التعامل مع الاستقلالية المتزايدة، والحفاظ على الاتصال، وتقليل النزاع
+- **الصيغة:** تدريبٌ منفصل للوالدين والمراهقين، وأحياناً جلساتٌ مشتركة
+- **المحتوى:** الإصغاء لمنظور المراهق، والتعبير عن مخاوف الوالدين باحترام، والتفاوض على الحدود
+- **النتائج:** تواصلٌ أفضل، وتقليل السلوك المتمرد، والحفاظ على اتصال الأسرة
 
-### Workplace/Organizational RE
-- **Goal:** improve team communication, collaboration, conflict resolution
-- **Format:** team training in RE skills
-- **Content:** adapted for professional context
-- **Outcomes:** better teamwork, reduced conflict, increased satisfaction
+### RE لمكان العمل/المؤسسات
+- **الهدف:** تحسين تواصل الفريق والتعاون وحل النزاع
+- **الصيغة:** تدريب الفريق على مهارات RE
+- **المحتوى:** مكيَّفٌ للسياق المهني
+- **النتائج:** عملُ فريقٍ أفضل، ونزاعٌ أقل، ورضاً أعلى
 
-## Evidence Base
+## قاعدة الأدلة
 
-### Research Support
-- **Couple studies:** RE couples show improved communication, satisfaction, reduced divorce risk
-- **Family studies:** RE improves parent-child relationships, reduces child behavioral problems
-- **Meta-analyses:** moderate to large effect sizes across applications
-- **International use:** effective across cultures when adapted appropriately
+### الدعم البحثي
+- **دراسات الأزواج:** يُظهر أزواج RE تواصلاً ورضاً محسَّنَين، وخطر طلاقٍ أقل
+- **دراسات الأسرة:** يحسّن RE علاقات الوالدين بالأبناء، ويقلل المشكلات السلوكية للأطفال
+- **التحليلات التلوية:** أحجام أثرٍ متوسطة إلى كبيرة عبر التطبيقات
+- **الاستخدام الدولي:** فعّالٌ عبر الثقافات عند التكييف الملائم
 
-### Key Research
-- **Guerney & colleagues:** longitudinal studies of RE couples and families
-- **L'Abate & colleagues:** extensions to different populations
-- **Recent research:** applications to adolescents, parents, trauma recovery
+### أبحاث رئيسة
+- **غيرني وزملاؤه:** دراساتٌ طولية لأزواج RE وأسرهم
+- **لاباتي وزملاؤه (L'Abate):** توسيعاتٌ لفئاتٍ مختلفة
+- **بحثٌ حديث:** تطبيقاتٌ على المراهقين والوالدين والتعافي من الصدمة
 
-### Strength vs. Other Programs
-- **Strengths:** rooted in humanistic principles, applicable to many relationship types, emphasizes growth and capacity
-- **Limitations:** less structured than CBT-based programs like PREP or Gottman; fewer large RCTs; requires client engagement in humanistic growth model
+### القوة مقابل برامج أخرى
+- **نقاط القوة:** متجذّرٌ في مبادئ إنسانية، وقابلٌ للتطبيق على أنواعٍ عديدة من العلاقات، ويشدد على النمو والقدرة
+- **الحدود:** أقل تنظيماً من برامج قائمة على العلاج السلوكي المعرفي مثل PREP أو غوتمان؛ وتجارب عشوائية واسعة أقل؛ ويتطلب انخراط العميل في نموذج النمو الإنساني
 
-## Variants & Adaptations
+## الصيغ والتكييفات
 
-### Couple Relationship Enhancement
-- Premarital or marital couples
-- Prevention or intervention focus
+### تعزيز علاقة الزوجين
+- الخطيبون أو المتزوجون
+- تركيزٌ وقائي أو تدخّلي
 
-### Family Relationship Enhancement
-- Multi-person format with whole family or subsystems
-- Parent-focused or family-system focused
+### تعزيز علاقة الأسرة
+- صيغةٌ متعددة الأفراد مع الأسرة كلها أو أنظمتها الفرعية
+- تركيزٌ على الوالدين أو على نظام الأسرة
 
-### Teen Relationship Enhancement
-- Adolescent-specific material and issues
-- Often parent education + teen group
+### تعزيز علاقة المراهقين
+- مادةٌ وقضايا خاصة بالمراهقين
+- غالباً تعليم الوالدين + مجموعة المراهقين
 
-### Filial Therapy (Parent-Child Variant)
-- Parent trained in child-centered play and empathic responding
-- Parent becomes therapeutic agent for child
-- Used for behavioral problems, anxiety, trauma
+### العلاج البُنُوّي (صيغة الوالدين والأبناء)
+- تدريب الوالد على اللعب المتمركز حول الطفل والاستجابة المتعاطفة
+- يصبح الوالد عاملاً علاجياً للطفل
+- يُستخدم للمشكلات السلوكية والقلق والصدمة
 
-### RE for Couples Recovering from Affairs
-- Specialized application
-- Rebuilding trust, honesty, intimacy
-- Confronting shame and anger
-- Recommitment process
+### RE للأزواج المتعافين من الخيانة
+- تطبيقٌ متخصص
+- إعادة بناء الثقة والصدق والحميمية
+- مواجهة العار والغضب
+- عملية إعادة الالتزام
 
-## Strengths & Limitations
+## نقاط القوة والحدود
 
-### Strengths
-- **Humanistic foundation:** aligns with person-centered values of respect and capacity for growth
-- **Versatile:** adaptable to couples, families, parent-child, workplace
-- **Skill-based:** practical, teachable techniques
-- **Focuses on strengths:** assumes capacity for positive change rather than pathology
-- **Relational:** emphasizes mutual support and growth, not expert advice
-- **Prevention-focused:** can be used before problems become severe
+### نقاط القوة
+- **أساسٌ إنساني:** يتسق مع قيم الاحترام المتمركزة حول الشخص والقدرة على النمو
+- **متعدد الاستخدامات:** قابلٌ للتكيف مع الأزواج والأسر والوالدين-الأبناء ومكان العمل
+- **قائمٌ على المهارات:** تقنياتٌ عملية قابلة للتعلّم
+- **يركّز على نقاط القوة:** يفترض قدرةً على التغيير الإيجابي لا تصنيفاً مرضياً
+- **علائقي:** يشدد على الدعم المتبادل والنمو، لا نصيحة الخبير
+- **تركيزٌ وقائي:** يمكن استخدامه قبل تفاقم المشكلات
 
-### Limitations
-- **Less directive:** some couples or families benefit from more structured problem-solving
-- **Depends on client engagement:** humanistic approach assumes motivation and capacity for introspection
-- **Research base smaller:** fewer large RCTs compared to CBT programs (PREP, Gottman)
-- **Implementation variance:** outcomes depend on trainer skill in facilitating humanistic group process
-- **Time commitment:** typically longer program than brief interventions
-- **May not address severe issues:** couples with abuse, active substance use, untreated mental illness need additional intervention
+### الحدود
+- **أقل توجيهاً:** يستفيد بعض الأزواج أو الأسر من حل مشكلاتٍ أكثر تنظيماً
+- **يعتمد على انخراط العميل:** يفترض النهج الإنساني دافعيةً وقدرةً على التأمل الذاتي
+- **قاعدةٌ بحثية أصغر:** تجارب عشوائية واسعة أقل مقارنةً ببرامج العلاج السلوكي المعرفي (PREP، غوتمان)
+- **تفاوت التنفيذ:** تعتمد النتائج على مهارة المدرِّب في تيسير العملية الجماعية الإنسانية
+- **التزامٌ زمني:** برنامجٌ أطول عادةً من التدخلات المختصرة
+- **قد لا يعالج قضايا شديدة:** الأزواج ذوو الإساءة أو تعاطي المواد النشط أو المرض النفسي غير المعالَج يحتاجون تدخلاً إضافياً
 
-## Related Interventions
+## تدخلات ذات صلة
 
-- [[tec-prepare-enrich]] — assessment-based premarital program
-- [[tec-symbis]] — four-session premarital skills program
-- [[tec-prep-program]] — cognitive-behavioral couple education program
-- [[tec-imago-dialogue]] — another couples dialogue approach
+- [[tec-prepare-enrich]] — برنامجٌ لما قبل الزواج قائم على التقييم
+- [[tec-symbis]] — برنامج مهارات ما قبل الزواج من أربع جلسات
+- [[tec-prep-program]] — برنامج تربية الأزواج السلوكي المعرفي
+- [[tec-imago-dialogue]] — نهج حوارٍ آخر للأزواج
 
-## Key Figures
+## الشخصيات الرئيسة
 
-- Bernard G. Guerney Jr. — founder, person-centered approach
-- Louise F. Guerney — family systems integration
-- Luciano L'Abate — applications and extensions to diverse populations
-- Sue Johnson — integrating attachment and emotion-focused work (related field)
+- برنارد ج. غيرني الابن (Bernard G. Guerney Jr.) — المؤسِّس، النهج المتمركز حول الشخص
+- لويز ف. غيرني (Louise F. Guerney) — تكامل الأنظمة الأسرية
+- لوتشيانو لاباتي (Luciano L'Abate) — التطبيقات والتوسعات لفئاتٍ متنوعة
+- سو جونسون (Sue Johnson) — دمج التعلّق والعمل الموجَّه بالانفعال (حقلٌ ذو صلة)
 
-## Primary Sources & Resources
+## المصادر
 
 1. Guerney, B.G., Jr. (1977). Relationship enhancement: Skill-building programs for therapy, problem prevention and enrichment. Jossey-Bass.
 2. Guerney, B.G., Jr., Guerney, L.F., & Cooney, S. (1985). Kwiatek, E. (Ed.). Expanding avenues for evaluating the mental health dimensions of a contemporary woman's life. Women & Health, 10(2/3), 123-140.
 3. L'Abate, L. (2012). Relational theory and competency models: From a linear to a relational paradigm. Springer Publishing Company.
 4. Relationship Enhancement website and resources: https://www.refort.org/
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Couple communication and intimacy
-- Empathic listening
-- Non-violent communication
-- Humanistic counseling
-- Person-centered approach
-- Family systems
-- Parent-child attachment
-- Skill-building
-- Relational healing
-- Growth and self-actualization
-- Prevention-focused intervention
+- تواصل الزوجين والحميمية
+- الإصغاء المتعاطف
+- التواصل اللاعنفي
+- الاستشارة الإنسانية
+- النهج المتمركز حول الشخص
+- الأنظمة الأسرية
+- تعلّق الوالدين بالأبناء
+- بناء المهارات
+- الشفاء العلائقي
+- النمو وتحقيق الذات
+- التدخل الوقائي
+</content>

@@ -9,185 +9,185 @@ related_programs:
   - tec-prep-program
 ---
 
-# MAT: Marital Adjustment Test
+# MAT: اختبار التوافق الزواجي (Marital Adjustment Test)
 
-The Marital Adjustment Test (MAT) is a brief, self-report measure of overall marital adjustment and satisfaction. Developed by Locke and Wallace, the MAT is one of the foundational instruments in couple assessment, measuring how well partners adjust to marriage across multiple dimensions.
+اختبار التوافق الزواجي (MAT) مقياس تقرير ذاتي موجز للتوافق والرضا الزواجي العام. طوّره لوك (Locke) ووالاس (Wallace)، وهو من الأدوات التأسيسية في تقييم الأزواج، إذ يقيس مدى توافق الشريكين مع الزواج عبر أبعاد متعددة.
 
-## Development & History
+## التطوير والتاريخ
 
-**Developers:** Harvey J. Locke and Karl M. Wallace (1959)
+**المطوّران:** هارفي ج. لوك (Harvey J. Locke) وكارل م. والاس (Karl M. Wallace) (1959)
 
-**Original purpose:** Assess marital adjustment in research and clinical contexts
+**الغرض الأصلي:** تقييم التوافق الزواجي في سياقات البحث والممارسة السريرية
 
-**Significance:** One of the first standardized measures of marital adjustment; foundational for later measures like DAS
+**الأهمية:** أحد أول المقاييس المعيارية للتوافق الزواجي؛ أساس لمقاييس لاحقة مثل DAS
 
-**Continued use:** Despite age, widely used in research and premarital counseling programs
+**الاستمرار في الاستخدام:** رغم قِدمه، يُستخدم على نطاق واسع في البحث وبرامج الإرشاد قبل الزواج
 
-## Format & Content
+## الصيغة والمحتوى
 
-**Number of items:** 15 items covering key adjustment areas
+**عدد البنود:** 15 بنداً تغطي مجالات التوافق الرئيسية
 
-**Item domains:**
-- General happiness and satisfaction with marriage
-- Agreement on life goals and values
-- Amount of time spent together
-- Sexual adjustment
-- Financial management
-- Recreation and leisure
-- Affection and emotional expression
-- In-law relationships
-- Demonstration of love
+**مجالات البنود:**
+- السعادة العامة والرضا عن الزواج
+- الاتفاق على أهداف الحياة والقيم
+- مقدار الوقت المُقضى معاً
+- التوافق الجنسي
+- الإدارة المالية
+- الترفيه ووقت الفراغ
+- المودة والتعبير العاطفي
+- علاقات الأصهار
+- إظهار الحب
 
-**Response format:** Mostly categorical (yes/no, agree/disagree) with some continuous scales
+**صيغة الاستجابة:** غالبيتها تصنيفية (نعم/لا، أوافق/لا أوافق) مع بعض المقاييس المتصلة
 
-**Administration time:** 5-10 minutes
+**زمن التطبيق:** 5-10 دقائق
 
-**Format:** Self-administered questionnaire
+**الصيغة:** استبيان ذاتي التطبيق
 
-## Scoring
+## التصحيح
 
-**Sum of weighted items:** Items assigned different point values based on item content and endorsement
+**مجموع البنود المرجّحة:** تُمنح البنود قيماً نقطية مختلفة بناءً على محتوى البند والتأييد
 
-**Total score range:** Typically 0-100+ depending on scoring method
+**مدى الدرجة الكلية:** عادة 0-100 فأكثر حسب طريقة التصحيح
 
-**Score interpretation:**
-- Higher scores = better marital adjustment
-- Lower scores = marital maladjustment or distress
-- Cutoff scores distinguish happy from unhappy marriages (typically 50-51 as threshold)
+**تفسير الدرجة:**
+- الدرجات الأعلى = توافق زواجي أفضل
+- الدرجات الأدنى = سوء توافق زواجي أو اضطراب
+- تميّز درجات القطع بين الزيجات السعيدة وغير السعيدة (عادة 50-51 كعتبة)
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-### Reliability
-- **Test-retest reliability:** .84-.98 (high stability)
-- **Internal consistency:** Cronbach's alpha varies by sample, generally moderate to good
-- **Discriminant validity:** distinguishes divorced from married couples
+### الثبات
+- **ثبات الإعادة:** 0.84-0.98 (استقرار مرتفع)
+- **الاتساق الداخلي:** ألفا كرونباخ يتفاوت حسب العينة، عموماً معتدل إلى جيد
+- **الصدق التمييزي:** يميّز المطلقين عن المتزوجين
 
-### Validity
-- **Concurrent validity:** correlates with other marital measures (r = .60+)
-- **Predictive validity:** early MAT scores predict later divorce (lower scores = higher divorce risk)
-- **Criterion validity:** distinguishes happy from unhappy marriages effectively
-- **Known-groups validity:** successfully differentiates divorced vs. married couples
+### الصدق
+- **الصدق التلازمي:** يرتبط بمقاييس زواجية أخرى (r = 0.60 فأعلى)
+- **الصدق التنبؤي:** درجات MAT المبكرة تتنبأ بالطلاق لاحقاً (درجات أقل = خطر طلاق أعلى)
+- **صدق المحك:** يميّز بفعالية بين الزيجات السعيدة وغير السعيدة
+- **صدق المجموعات المعروفة:** يميّز بنجاح بين المطلقين والمتزوجين
 
-### Strengths of Psychometric Properties
-- **Well-validated:** decades of research
-- **Predictive:** adjustment scores predict divorce risk
-- **Responsive:** detects change in adjustment
+### نقاط قوة الخصائص السيكومترية
+- **متحقَّق منه جيداً:** عقود من البحث
+- **تنبؤي:** درجات التوافق تتنبأ بخطر الطلاق
+- **استجابي:** يكشف التغير في التوافق
 
-### Limitations
-- **Older instrument:** some items may be less relevant to contemporary relationships
-- **Modest internal consistency:** some studies show lower alphas than desired for modern standards
-- **Response method varies:** different scoring methods used in literature (can make comparison difficult)
+### أوجه القصور
+- **أداة أقدم:** قد تكون بعض البنود أقل صلة بالعلاقات المعاصرة
+- **اتساق داخلي متواضع:** تُظهر بعض الدراسات معاملات ألفا أقل من المرغوب وفق المعايير الحديثة
+- **تفاوت طريقة الاستجابة:** تُستخدم طرق تصحيح مختلفة في الأدبيات (قد يصعّب المقارنة)
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### Premarital Assessment
-- PREPARE/ENRICH programs include MAT or similar satisfaction measures
-- Baseline assessment of couple's satisfaction and adjustment
+### التقييم قبل الزواج
+- تتضمن برامج PREPARE/ENRICH اختبار MAT أو مقاييس رضا مشابهة
+- تقييم خط أساس لرضا الزوجين وتوافقهما
 
-### Premarital Counseling Outcome
-- Carlson et al. (2012) used MAT in PREPARE model outcome study:
-  - 120 premarital counseling participants using PREPARE
-  - Measured at pre-intervention and post-intervention
-  - 46 completed treatment (avg. 8 sessions); 74 did not complete
-  - **Results:** Significant improvements in relationship satisfaction for men and women who completed counseling vs. controls
+### نتائج الإرشاد قبل الزواج
+- استخدم كارلسون وآخرون (Carlson et al., 2012) اختبار MAT في دراسة نتائج نموذج PREPARE:
+  - 120 مشاركاً في إرشاد ما قبل الزواج باستخدام PREPARE
+  - القياس قبل التدخل وبعده
+  - أكمل العلاج 46 مشاركاً (بمعدل 8 جلسات)؛ ولم يكمله 74
+  - **النتائج:** تحسّنات ذات دلالة في الرضا عن العلاقة لدى الرجال والنساء الذين أكملوا الإرشاد مقارنة بالمجموعة الضابطة
 
-### Research
-- Historical outcome studies of couple interventions
-- Longitudinal research on marital satisfaction predictors
-- Cross-cultural comparisons of marital adjustment
+### البحث
+- دراسات نتائج تاريخية لتدخلات الأزواج
+- بحث طولي عن منبئات الرضا الزواجي
+- مقارنات عبر ثقافية للتوافق الزواجي
 
-### Couple Therapy
-- Baseline and progress monitoring in marital therapy
-- Quick assessment when detailed measures not feasible
+### علاج الأزواج
+- خط أساس ورصد تقدم في العلاج الزواجي
+- تقييم سريع عندما لا تكون المقاييس المفصلة ممكنة
 
-## Interpretive Guidelines
+## إرشادات التفسير
 
-### Individual Scores
-- **High adjustment (>50):** satisfied, well-adjusted marriage; focus on maintenance or specific growth areas
-- **Moderate adjustment (40-50):** some dissatisfaction; identify specific problem areas for intervention
-- **Low adjustment (<40):** significant distress; recommend individual or couple therapy before proceeding with premarital education
+### الدرجات الفردية
+- **توافق مرتفع (أكثر من 50):** زواج راضٍ ومتوافق جيداً؛ التركيز على الحفاظ على الوضع أو مجالات نمو محددة
+- **توافق متوسط (40-50):** بعض عدم الرضا؛ تحديد مجالات المشكلة المحددة للتدخل
+- **توافق منخفض (أقل من 40):** اضطراب كبير؛ يُوصى بعلاج فردي أو زواجي قبل المضي في التثقيف قبل الزواج
 
-### Change Scores
-- **Improvement:** intervention effective; continue focus
-- **Stability:** no change; reassess intervention approach
-- **Deterioration:** intervention not working; refer for additional assessment or different approach
+### درجات التغير
+- **التحسن:** التدخل فعّال؛ الاستمرار في التركيز
+- **الثبات:** لا تغيير؛ إعادة تقييم نهج التدخل
+- **التدهور:** التدخل لا يعمل؛ الإحالة لتقييم إضافي أو نهج مختلف
 
-### Couple Discrepancies
-- Large gaps between partners' scores may indicate differing perceptions of adjustment
-- Explore: Why does one partner report more satisfaction? Are there hidden resentments? Is one partner minimizing problems?
+### التباينات بين الزوجين
+- الفجوات الكبيرة بين درجات الشريكين قد تشير إلى تصورات مختلفة للتوافق
+- الاستكشاف: لماذا يُبلغ أحد الشريكين برضا أكبر؟ هل هناك استياء مخفي؟ هل يقلل أحدهما من شأن المشكلات؟
 
-## Strengths & Limitations
+## نقاط القوة وأوجه القصور
 
-### Strengths
-- **Brief:** quick to administer and score
-- **Long history:** extensive validation and use
-- **Predictive:** scores predict divorce
-- **Accessible:** public domain (no cost); no training required
-- **Well-researched:** abundant literature on reliability, validity, norms
+### نقاط القوة
+- **موجز:** سريع التطبيق والتصحيح
+- **تاريخ طويل:** تحقق واستخدام واسعان
+- **تنبؤي:** الدرجات تتنبأ بالطلاق
+- **سهل الوصول:** في الملكية العامة (بلا تكلفة)؛ لا يتطلب تدريباً
+- **مبحوث جيداً:** أدبيات وفيرة عن الثبات والصدق والمعايير
 
-### Limitations
-- **Older instrument:** developed in 1959; some items may feel dated
-- **Limited dimensionality:** captures global adjustment but not specific dimensions like sexual satisfaction, financial issues
-- **Internal consistency varies:** alpha coefficients lower than some modern instruments
-- **Response method:** mix of categorical and continuous items; scoring can be unclear
-- **Social desirability:** couples may overstate adjustment to appear functional
-- **Western/heterosexual bias:** developed for heterosexual married couples; may not be optimal for LGBTQ+ or contemporary relationships
+### أوجه القصور
+- **أداة أقدم:** طُوّرت عام 1959؛ قد تبدو بعض البنود عتيقة
+- **بعدية محدودة:** يلتقط التوافق العام لكن ليس أبعاداً محددة كالرضا الجنسي والمسائل المالية
+- **تفاوت الاتساق الداخلي:** معاملات ألفا أقل من بعض الأدوات الحديثة
+- **طريقة الاستجابة:** مزيج من بنود تصنيفية ومتصلة؛ قد يكون التصحيح غير واضح
+- **المرغوبية الاجتماعية:** قد يبالغ الأزواج في التوافق ليبدوا متوافقين
+- **تحيز غربي/غيري:** طُوّر لأزواج متزوجين من جنسين مختلفين؛ قد لا يكون الأمثل لمجتمع الميم أو العلاقات المعاصرة
 
-## Use in Major Studies
+## الاستخدام في دراسات كبرى
 
-### PREPARE Model Outcome Study (Carlson et al., 2012)
-- Premarital counseling participants (n=120)
-- Measured MAT and Outcomes Questionnaire 45.2 (distress)
-- **Finding:** Significant improvements in relationship satisfaction for couples completing premarital counseling
-- **Implication:** PREPARE premarital education effective in improving marital adjustment
+### دراسة نتائج نموذج PREPARE (كارلسون وآخرون، 2012)
+- مشاركون في إرشاد ما قبل الزواج (ن=120)
+- قياس MAT واستبيان النتائج 45.2 (الاضطراب)
+- **النتيجة:** تحسّنات ذات دلالة في الرضا عن العلاقة لدى الأزواج الذين أكملوا الإرشاد قبل الزواج
+- **الدلالة:** التثقيف قبل الزواج بنموذج PREPARE فعّال في تحسين التوافق الزواجي
 
-### Validity Studies
-- Predictive validity: lower MAT scores predict later divorce
-- Discriminant validity: distinguishes happy married from divorced samples
+### دراسات الصدق
+- الصدق التنبؤي: درجات MAT الأقل تتنبأ بالطلاق لاحقاً
+- الصدق التمييزي: يميّز عينات المتزوجين السعداء عن المطلقين
 
-## Comparison with Other Measures
+## المقارنة مع مقاييس أخرى
 
-**Similar measures:**
-- **Dyadic Adjustment Scale (DAS):** more detailed (32 items); captures multiple dimensions (satisfaction, consensus, affection, cohesion)
-- **ENRICH Marital Satisfaction Scale:** even briefer; focuses on global satisfaction
-- **Kansas Marital Satisfaction Scale (KMSS):** 3-item measure; ultra-brief
-- **Couples Satisfaction Index (CSI):** single-item or multi-item versions; modern development
+**مقاييس مشابهة:**
+- **مقياس التوافق الثنائي (DAS):** أكثر تفصيلاً (32 بنداً)؛ يلتقط أبعاداً متعددة (الرضا، التوافق، المودة، التماسك)
+- **مقياس ENRICH للرضا الزواجي:** أوجز حتى؛ يركز على الرضا العام
+- **مقياس كنساس للرضا الزواجي (KMSS):** مقياس من 3 بنود؛ فائق الإيجاز
+- **مؤشر رضا الأزواج (CSI):** نسخ أحادية أو متعددة البنود؛ تطوير حديث
 
-**MAT advantages:**
-- Longer history; more extensive research
-- Includes behavioral items not just satisfaction
-- Predictive of divorce
+**مزايا MAT:**
+- تاريخ أطول؛ بحث أوسع
+- يتضمن بنوداً سلوكية وليست الرضا فقط
+- تنبؤي بالطلاق
 
-**Disadvantages:**
-- Older development; less contemporary norms
-- Limited dimensions compared to DAS
-- Slightly lower internal consistency
+**سلبياته:**
+- تطوير أقدم؛ معايير أقل معاصرة
+- أبعاد محدودة مقارنة بـDAS
+- اتساق داخلي أقل قليلاً
 
-## Modern Use & Considerations
+## الاستخدام الحديث والاعتبارات
 
-**When MAT is appropriate:**
-- Quick screening when detailed assessment not needed
-- Research using historical instruments for consistency
-- Premarital counseling when needs assessment is brief
-- Education when cost-free instrument needed (public domain)
+**متى يكون MAT مناسباً:**
+- الفرز السريع عندما لا يلزم تقييم مفصل
+- البحث الذي يستخدم أدوات تاريخية من أجل الاتساق
+- الإرشاد قبل الزواج عندما يكون تقييم الاحتياجات موجزاً
+- التثقيف عند الحاجة إلى أداة مجانية (ملكية عامة)
 
-**When other measures might be better:**
-- Detailed couple assessment needed → use DAS
-- Ultra-brief screening → use KMSS or CSI single-item
-- Contemporary norms desired → use CSI
-- Specific dimension assessment (sexual, financial) → use dimensional instruments
+**متى قد تكون مقاييس أخرى أفضل:**
+- الحاجة إلى تقييم مفصل للزوجين ← استخدام DAS
+- الفرز فائق الإيجاز ← استخدام KMSS أو CSI ذي البند الواحد
+- الرغبة في معايير معاصرة ← استخدام CSI
+- تقييم بُعد محدد (جنسي، مالي) ← استخدام أدوات بعدية
 
-## Primary Sources & Resources
+## المصادر
 
 1. Carlson, R.G., et al. (2012). A comparison of cohabiting and noncohabiting couples who participated in premarital counseling using the PREPARE model. The Family Journal, 20(3), 273-286.
 2. Locke, H.J., & Wallace, K.M. (1959). Short marital adjustment and prediction tests: Their reliability and validity. Marriage & Family Living, 21(3), 251-255.
 3. Spanier, G.B. (1976). Measuring dyadic adjustment: New scales for assessing the quality of marriage and similar dyads. Journal of Marriage and the Family, 38, 15-28.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Marital adjustment and satisfaction
-- Couple assessment
-- Divorce prediction
-- Premarital counseling outcomes
-- Couple therapy progress monitoring
-- Marital quality dimensions
+- التوافق والرضا الزواجي
+- تقييم الأزواج
+- التنبؤ بالطلاق
+- نتائج الإرشاد قبل الزواج
+- رصد التقدم في علاج الأزواج
+- أبعاد الجودة الزواجية

@@ -22,31 +22,30 @@ gaps:
 
 # الافتراضُ المسبَق ومشكلةُ الانتقال
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+الافتراضُ المسبَق (Presupposition) معلومةٌ خلفية يعاملها المتكلّمُ باعتبارها مسلَّمةً مشترَكة قبل النطق بالجملة، لا معنًى يُخبَر به مباشرة؛ فجملةُ "متى توقّفتَ عن التدخين؟" تفترض مسبَقاً أن المخاطَب كان يدخّن، بصرف النظر عن الإجابة الفعلية. مشكلةُ الانتقال (Projection Problem)، التي بلورها لوري كارتونن في مقالته المرجعية "Presuppositions of Compound Sentences" (1973)، تسأل: كيف تتصرّف هذه الافتراضاتُ المسبَقة حين تُضمَّن الجملةُ البسيطة داخل جملةٍ مركَّبة أكبر (منفيّة، أو شرطية، أو مضمَّنة في فعل قول)؟ هل يبقى الافتراضُ ساريَ المفعول (يُسقَط أو "ينتقل" إلى الجملة الكبرى) أم يُلغى؟
 
-## Theoretical Framework
+## تصنيفُ كارتونن الثلاثي: السدّاداتُ والثغراتُ والمصافي
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+قدّم كارتونن تصنيفاً منهجياً للعناصر التي تُضمَّن الجملةَ حاملةَ الافتراض، مقسِّماً إياها إلى ثلاث فئات: السدّاداتُ (Plugs)، وهي أفعالٌ ومشغِّلاتٌ تمنع انتقالَ الافتراض المسبَق إلى الجملة الكاملة (كفعل "قال" — جملة "قال مريمُ إن ملكَ فرنسا أصلع" لا تفترض بالضرورة أن لفرنسا ملكاً فعلياً من منظور المتكلّم نفسِه، بل من منظور مريم فقط داخل قولها المنقول)؛ والثغراتُ (Holes)، وهي مشغِّلاتٌ تسمح بانتقال الافتراض بحرّية تامّة إلى الجملة الكلّية (كأداة "ربما" — جملة "ربما ملكُ فرنسا أصلع" تفترض مسبَقاً وجودَ ملكٍ لفرنسا من منظور المتكلّم نفسِه رغم الشكّ المعبَّر عنه)؛ والمصافي (Filters)، وهي الروابطُ المنطقية الثنائية ("إذا... فـ"، "و"، "أو")، التي تسمح بانتقال بعض الافتراضات وتحجب أخرى بحسب علاقتها المنطقية بالشرط أو الجزء الأول من الجملة المركَّبة.
 
-## Key Principles
+## آليةُ المصافي: الحجبُ الشرطي
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+تعمل المصافي بمنطقٍ أدقّ: في الجملة الشرطية، يُحجَب افتراضُ الجزء التالي للنتيجة إن كان مستلزَماً بالفعل من الشرط نفسِه أو من المعلومات السياقية المصاحبة له؛ فجملةٌ كـ"إذا كان لفرنسا ملكٌ، فملكُ فرنسا أصلع" لا تفترض مسبَقاً وجودَ ملكٍ لفرنسا (لأن الشرطَ نفسَه ينصّ على ذلك صراحةً)، بخلاف جملةٍ لا يتضمّن شرطُها هذه المعلومةَ صراحةً، حيث ينتقل الافتراضُ إلى الجملة الكاملة كما لو كانت جملةً بسيطة.
 
-## Evidence Sources
+## القيودُ على النظرية والتطوير اللاحق
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+اعترف كارتونن نفسُه بأن تصنيفَه لم ينجح في صياغة شروطٍ دقيقة كافية تفسّر سلوكَ المصافي بدقّة تامّة في كل الحالات، وهو ما دفع باحثين لاحقين، وبخاصة إيرين هايم ضمن إطار دلالة تغيير الملفّ الديناميكية، إلى إعادة صياغة مشكلة الانتقال بأدواتٍ أكثرَ صورية تعتمد على تحديث سياق الخطاب المتراكم تدريجياً، لا على تصنيف المشغِّلات النحوية وحده.
 
-## Contemporary Applications
+## الأهمية النظرية
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+تكشف مشكلةُ الانتقال عن تعقيدٍ جوهري في العلاقة بين الدلالة والتداول: فالافتراضُ المسبَق ليس خاصيةً ثابتة للجملة المعزولة، بل سلوكٌ ديناميكي يتغيّر بحسب البنية التركيبية المحيطة والمعلومات السياقية المتاحة، وهذا ما جعلها محوراً بحثياً مستمراً يربط الدلالةَ الصورية بنماذج تمثيل الخطاب المعاصرة.
 
-## References
+## المصادر
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+- Karttunen, L. (1973). "Presuppositions of Compound Sentences." *Linguistic Inquiry*, 4(2), 169-193.
+- Heim, I. (1990). "Presupposition Projection." In R. van der Sandt (Ed.), *Reader for the Nijmegen Workshop on Presupposition, Lexical Meaning, and Discourse Processes*.
+- Beaver, D. I. (1997). "Presupposition." In J. van Benthem & A. ter Meulen (Eds.), *Handbook of Logic and Language*. Elsevier.
+- von Fintel, K. (2008). "What Is Presupposition Accommodation, Again?" *Philosophical Perspectives*, 22(1), 137-170.
 

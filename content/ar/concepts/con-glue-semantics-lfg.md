@@ -20,35 +20,30 @@ gaps: []
 
 # دلالةُ الغراء في النحو المعجمي الوظيفي
 
-## Definition
+## التعريف
 
-Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
+دلالةُ الغراء (Glue Semantics) نظريةٌ في واجهة النحو-الدلالة طُوِّرت أساساً ضمن إطار النحو المعجمي الوظيفي (LFG)، أبرزُ مؤسِّسيها ماري دالرمپل وزملاؤها في مقالتهم المرجعية "Linear Logic for Meaning Assembly" (منتصف التسعينيات)، ثم في كتاب دالرمپل *Semantics and Syntax in Lexical Functional Grammar: The Resource Logic Approach* (1999). تفترض النظريةُ أن تأليفَ المعنى يُضبَط بمجموعة تعليماتٍ منطقية صورية مصاغة بالمنطق الخطّي (Linear Logic)، الذي "يُلصِق" (Glue) معاني الوحدات المعجمية بعضها ببعض لتكوين معنى الجملة كاملةً — ومن هنا الاسم.
 
-## Theoretical Approaches
+## الفكرةُ المركزية: الموارد المنطقية
 
-Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
+يعامل المنطقُ الخطّي كلَّ معنًى معجمي بوصفه "مورداً" (Resource) يُستهلَك مرّةً واحدة بالضبط أثناء بناء التمثيل الدلالي الكلّي، بخلاف المنطق الكلاسيكي الذي يسمح باستخدام قضيةٍ عدداً غيرَ محدود من المرّات. هذا القيدُ يضمن أن كل عنصرٍ معجمي في الجملة يُسهم بمعناه مرّةً واحدة بالضبط في الناتج النهائي، فلا يُهمَل معنى أي كلمة ولا يُستخدَم أكثرَ من مرّة، وهو ما يمنح عمليةَ التأليف الدلالي ضبطاً منطقياً صارماً.
 
-## Core Concepts
+## العلاقةُ ببنية f-structure
 
-- Reference: What does a word refer to?
-- Sense: How does a word relate to other words?
-- Entailment: What must be true if a statement is true?
-- Presupposition: What background assumptions does a statement carry?
+يستفيد إطارُ الغراء من التمثيل البنيوي الوظيفي عند LFG (تحديداً بنية f-structure، التي تمثّل العلاقاتِ الوظيفية النحوية كالفاعل والمفعول مستقلّةً عن ترتيب الكلمات السطحي)، فيربط كلَّ عنصرٍ معجمي بمعادلةٍ منطقية خطّية مشتقّة من موقعه في هذه البنية الوظيفية، ثم يُستنتَج التمثيلُ الدلالي الكلّي للجملة عبر استدلالٍ في المنطق الخطّي، لا عبر قواعد تركيبٍ نحوي شجري مباشرة كما في أطر أخرى.
 
-## Mechanisms
+## الاستقلاليةُ عن الصياغة النحوية السطحية
 
-Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
+من أبرز مزايا هذا الإطار أنه لا يفترض تطابقاً حرفياً بين البنية النحوية السطحية للجملة وترتيب عمليات التأليف الدلالي، بل يعتمد فقط على البنية الوظيفية المجرَّدة، مما يجعله قادراً على معالجة ظواهرَ يصعب على أطرٍ أخرى معالجتُها بأناقة، كمشاركة الموارد الدلالية في بنى التنسيق المعقَّدة، أو الجمل التي يتفرّق فيها معنى الفعل الواحد بين عدّة مواقع نحوية.
 
-## Cross-linguistic Evidence
+## الأثر
 
-Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
+أسهمت دلالةُ الغراء في تعميق التعاون بين اللسانيات النظرية والمنطق الرياضي، وأثارت اهتمام باحثين في المنطق الخطّي أنفسِهم بوصفها تطبيقاً لسانياً لمنطقهم، كما قدّمت بديلاً غيرَ تحويلي (Non-Transformational) صارماً لواجهة النحو-الدلالة يتماشى مع الفلسفة العامة للنحو المعجمي الوظيفي في رفض الاشتقاقات التحويلية المعقَّدة.
 
-## Contemporary Applications
+## المصادر
 
-Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
-
-## References
-
-- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
-- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+- Dalrymple, M., Lamping, J., Pereira, F., & Saraswat, V. (1999). "Linear Logic for Meaning Assembly." In M. Dalrymple (Ed.), *Semantics and Syntax in Lexical-Functional Grammar*. MIT Press.
+- Dalrymple, M. (Ed.) (1999). *Semantics and Syntax in Lexical Functional Grammar: The Resource Logic Approach*. MIT Press.
+- Asudeh, A. (2012). *The Logic of Pronominal Resumption*. Oxford University Press.
+- Crouch, R., & van Genabith, J. (2000). "Linear Logic for Linguists." Course notes, ESSLLI.
 

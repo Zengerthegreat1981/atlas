@@ -38,31 +38,32 @@ gaps:
 
 # النحوُ الوظيفيُّ ونحوُ الدور والمرجع
 
-## Definition
+تيارٌ وظيفيّ في النظرية النحوية نشأ بالتوازي: **نحو الدور والمرجع** (Role and Reference Grammar، RRG)، الذي طوّره **روبرت ﭬان ﭬالِن** بدءاً من أواخر السبعينيات، و**النحو الوظيفي** (Functional Grammar) عند اللغوي الهولندي **سيمون ديك**. يجمع هذان الإطاران التزاماً مشتركاً بأن البنية النحوية لا تُفهَم بمعزلٍ عن وظيفتها الدلالية والتداولية، خلافاً لاستقلالية النحو التي افترضها النحو التوليدي التشومسكي، وبأن أي نظرية نحوية صالحة يجب أن تُختبَر على تنوّع اللغات النمطي الواسع لا الإنجليزية وحدها.
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+## الدوران الكليّان: الفاعل والمتأثِّر
 
-## Theoretical Framework
+بدل الاعتماد على قائمةٍ طويلة من الأدوار الدلالية التفصيلية (كالفاعل والمتلقي والأداة)، يقترح نحو الدور والمرجع **دورين كليّين** (Macroroles) فحسب: **الفاعل** (Actor)، وهو المشارك الأكثر فاعليةً وتأثيراً في الحدث المعبَّر عنه بالفعل، و**المتأثِّر** (Undergoer)، وهو المشارك الأكثر تأثراً به. تُشتقّ هذه الأدوار الكلّية من بنيةٍ منطقية دلالية أعمّ (Logical Structure) قائمة على تصنيف أكتيونسآرت (Aktionsart) الذي طوّره زينو ﭬندلر (الحالات، والأنشطة، والإنجازات، والتحققات)، وتُستخدَم بوصفها الواجهة الوسيطة بين الدلالة والنحو.
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+## البنية الطبقية للجملة
 
-## Key Principles
+يفترض هذا الإطار أن بنية الجملة تنتظم في طبقاتٍ متداخلة كونية عبر اللغات: **النواة** (Nucleus)، وتضمّ المسنَد (الفعل)؛ و**النواة الموسَّعة** (Core)، وتضمّ النواة مع حِجَجها الدلالية؛ و**الطرَف** (Periphery)، ويضمّ الظروف الزمانية والمكانية غير الحجاجية. تتيح هذه البنية الطبقية معالجة لغاتٍ ذات ترتيب كلماتٍ حرّ (كلغات أستراليا الأصلية) بالكفاءة نفسها التي تُعالَج بها لغاتٌ ذات ترتيبٍ صارم كالإنجليزية.
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+## خوارزمية الربط
 
-## Evidence Sources
+يربط نحو الدور والمرجع بين التمثيل الدلالي (البنية المنطقية) والتمثيل النحوي (البنية الطبقية) عبر **خوارزمية ربطٍ** ثنائية الاتجاه (من الدلالة إلى النحو في الفهم، ومن النحو إلى الدلالة في الإنتاج)، مستغنياً عن مفهوم «التحويل النحوي» الذي مركزيّ في النحو التوليدي. ومن أدواته أيضاً **الحجّة النحوية المميَّزة** (Privileged Syntactic Argument)، البديل الوظيفي لمفهوم «الفاعل النحوي» التقليدي، القادر على تفسير أنماط الرفع والنصب والإرغاطية (Ergativity) عبر اللغات بإطارٍ موحَّد.
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+## النحو الوظيفي عند ديك
 
-## Contemporary Applications
+طوّر **سيمون ديك** بالتوازي «النحو الوظيفي»، الذي يبني الجملة انطلاقاً من **أُطُر المسنَد** (Predicate Frames) — مواصفات معجمية تحدد عدد حجج الفعل وأدوارها الدلالية — ثم يُسقِطها في «البنية التحتية للجملة» مضافاً إليها طبقات التداولية (كالموضوع والتركيز)، بمنهجيةٍ قريبة الروح من نحو الدور والمرجع وإن اختلفت في التفصيل الشكلي.
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+## الأثر والاستمرارية
 
-## References
+واصل **وليام فولي** و**راندي لابولا** تطوير الإطار وتطبيقه على لغاتٍ نمطياً متباعدة (كلغات جنوب شرق آسيا والفلبين)، مؤكدين التزامه المنهجي بالتنوع اللغوي الواسع، فيما ظلّ هذا التيار الوظيفي أحد البدائل الرئيسة الثلاثة (مع اللسانيات الوظيفية المنهجية الهاليدايية والنحو التوليدي) في النظرية النحوية المعاصرة.
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+## المصادر
+
+- Van Valin, Robert D., Jr., & LaPolla, Randy J. *Syntax: Structure, Meaning, and Function*. Cambridge University Press, 1997.
+- Van Valin, Robert D., Jr. *Exploring the Syntax-Semantics Interface*. Cambridge University Press, 2005.
+- Dik, Simon C. *Functional Grammar*. North-Holland, 1978.
+- Foley, William A., & Van Valin, Robert D., Jr. *Functional Syntax and Universal Grammar*. Cambridge University Press, 1984.
 

@@ -26,58 +26,22 @@ gaps:
 
 # كيث جونسون
 
-## Definition and Overview
+لغويٌّ أمريكي، أستاذٌ فخريّ في قسم اللسانيات بجامعة كاليفورنيا في بيركلي، نال الدكتوراه من جامعة أوهايو الحكومية سنة 1988 بأطروحةٍ عن «عمليات توحيد المتكلم في إدراك الصوائت» بإشراف ماري بيكمان، ومن أبرز الباحثين المعاصرين في الصوتيات الأكوستيكية وإدراك الكلام.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## القياس الصوتي الأكوستيكي
 
-## Theoretical Framework
+يتمحور عمل جونسون حول التحليل الأكوستيكي الدقيق للكلام: قياس الخصائص الفيزيائية للموجة الصوتية (كالفورمانتات، والتردد الأساسي، ومدة الصوت) واستخلاص دلالاتها الصوتية واللغوية منها. ألّف كتابه المرجعي التمهيدي *Acoustic and Auditory Phonetics* (1997، وطبعاتٌ لاحقة)، الذي أصبح النص الدراسي المعياري لتدريس الصوتيات الأكوستيكية للطلاب في برامج اللسانيات حول العالم، جامعاً بين الأسس الفيزيائية للصوت الكلامي وأسس إدراكه السمعي البشري.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## الوصف الصوتي عبر اللغات
 
-## Key Mechanisms
+قدّم جونسون إسهاماتٍ وصفيةً تفصيلية لعدة لغاتٍ متنوعة نمطياً، شملت أصوات النقر (Clicks) في لغة الخوسا، والنغمات في لغة الشيروكي، والسوائل في التاميلية، والوقفات في الكورية، فضلاً عن أبحاثٍ اجتماعية صوتية في كلام المتحدثين المثليين في كولومبوس بولاية أوهايو، موضّحاً كيف تتقاطع البنية الصوتية الدقيقة بالمتغيرات الاجتماعية والهوياتية.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## نظرية النموذج المثالي
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+طوّر جونسون أيضاً إسهاماً نظرياً مؤثراً في **نظرية النموذج المثالي** (Exemplar Theory) لتمثيل الأصوات ذهنياً، القائلة بأن المستمعين لا يختزنون تجريداً واحداً مثالياً لكل فونيم، بل يحتفظون بذاكرةٍ غنية بتفاصيل صوتية فعلية لعينات استماعٍ سابقة كثيرة (نماذج/أمثلة)، تُستخدَم عند الحاجة لتصنيف أصواتٍ جديدة استناداً إلى تشابهها بهذا المخزون التفصيلي، لا بقاعدةٍ مجردة واحدة. يقدّم هذا الطرح بديلاً معرفياً لنماذج التمثيل الصوتي التجريدية التقليدية، ويربط علم الصوتيات مباشرةً بنماذج الذاكرة في علم النفس المعرفي.
 
-## Experimental Evidence
+## المصادر
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
-
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
-
-## Cross-Linguistic Applications
-
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Johnson, Keith. *Acoustic and Auditory Phonetics*. Blackwell, 1997 (3rd ed. 2012).
+- Johnson, Keith. "Decisions and Mechanisms in Exemplar-Based Phonology." In *Experimental Approaches to Phonology*, eds. Solé, Beddor & Ohala. Oxford University Press, 2007.
+- Johnson, Keith, & Mullennix, John W. (eds.). *Talker Variability in Speech Processing*. Academic Press, 1997.

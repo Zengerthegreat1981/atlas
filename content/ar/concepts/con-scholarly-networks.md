@@ -17,23 +17,5 @@ gaps: []
 
 # شبكات العلماء (Scholarly Networks)
 
-## Scholarly Networks
 
-Study of intellectual communities, correspondence networks, and knowledge production through relationships among scholars.
-
-### Key Aspects
-
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
-
-### Related Fields
-
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+دراسة المجتمعات الفكرية وشبكات المراسلات وإنتاج المعرفة عبر العلاقات بين العلماء.

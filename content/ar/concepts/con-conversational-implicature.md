@@ -21,43 +21,34 @@ gaps: []
 
 # الإفهامُ التخاطبي
 
-## Definition
+## التعريف
 
-Implicature is meaning implied but not explicitly stated. "Can you pass the salt?" implies a request though literally asks a question. Implicatures are pragmatically inferred from context and discourse principles.
+الإفهامُ التخاطبي (Conversational Implicature) معنًى يستلزمه المتكلّمُ ضمنياً دون أن يُصرِّح به لفظاً، يستنتجه المخاطَبُ اعتماداً على افتراض أن المتكلّم ملتزمٌ بمبدأ التعاون وقواعده المحادثية الأربع كما صاغها پول غرايس (1975): الكمّ، والكيف، والصلة، والطريقة. حين يبدو ظاهرُ الكلام مخالفاً لإحدى هذه القواعد دون أن يفترض المخاطَبُ أن المتكلّم توقّف عن التعاون، يبحث عن معنًى إضافيٍّ يُعيد الاتساقَ — وهذا المعنى هو الإفهامُ التخاطبي.
 
-## Grice's Framework
+## آليةُ الاشتقاق من خرق القواعد
 
-Conversational implicatures arise from apparent violations of Grice's maxims:
-- Saying less than required (Quantity): "Some students passed" implicates not all passed
-- Irrelevant contribution (Relation): Off-topic response implicates something unstated
-- Manner violation: "He went to the door and entered the room" (vs. "He entered the room") implicates sequentiality
+ينشأ الإفهامُ التخاطبي من خرقٍ ظاهري لإحدى القواعد: فقولُ "بعضُ الطلاب نجحوا" حين يقول المتكلّمُ أقلَّ مما يقتضيه قدرُ المعلومات المطلوب (خرقٌ ظاهري لقاعدة الكمّ) يستلزم أن ليس كلَّ الطلاب نجحوا، وإلا لقال "كلُّهم"؛ وإجابةٌ خارجةٌ عن الموضوع ظاهرياً (خرقٌ لقاعدة الصلة) تستلزم معنًى ضمنياً يربطها بالسؤال؛ وقولُ "ذهب إلى الباب ثم دخل الغرفة" بدل "دخل الغرفة" مباشرة (خرقٌ لقاعدة الطريقة بالإطناب) يستلزم تتابعاً زمنياً بين الحدثين.
 
-## Scalar Implicature
+## الإفهامُ التدريجي (Scalar Implicature)
 
-Scalar implicature: "Some students passed" implicates "Not all students passed." This is because "all" is stronger on the scale; if all passed, one should say "all."
+من أشهر أنواع الإفهام التخاطبي المعمَّم الإفهامُ التدريجي، القائم على سلالمَ دلالية مرتّبة بالقوّة (بعض < كلّ، ممكن < واجب، أو < و): فاستخدامُ الحلقة الأضعف في السلّم ("بعض") يستلزم نفيَ الحلقة الأقوى ("كلّ")، لأن المتكلّم لو كان يقصد "كلّ" لاستخدمها مباشرةً امتثالاً لقاعدة الكمّ.
 
-- Some/All: "I ate some cookies" → "I didn't eat all cookies"
-- Or: "You can have tea or coffee" → "You can't have both"
-- Might/Must: "He might be late" → "It's not certain"
+## الإفهامُ المعمَّم والخاصّ
 
-## Conventional Implicature
+يميّز غرايس بين الإفهام التخاطبي المعمَّم (Generalized)، الذي يرتبط بكلماتٍ بعينها ويحدث في أغلب السياقات دون اعتمادٍ كبير على تفاصيل الموقف (كالإفهام التدريجي)، والإفهام التخاطبي الخاصّ (Particularized)، الذي يعتمد اعتماداً كلياً على خصوصيات الموقف التواصلي المحدَّد ولا يتكرّر بالنمط نفسه في سياقاتٍ أخرى.
 
-Some implicatures are tied to words rather than context. "However" in "She's smart, however she failed" implicates contrast. The contrast is part of the word's meaning.
+## اختبارُ قابلية الإلغاء
 
-## Non-cancellability Test
+الخاصيةُ الحاسمة التي تميّز الإفهامَ التخاطبي عن الاستلزام المنطقي (Entailment) هي قابليتُه للإلغاء: يمكن أن يضيف المتكلّم "بل كلُّهم نجحوا فعلاً" دون تناقضٍ منطقي بعد قوله "بعضُ الطلاب نجحوا"، لأن الإفهامَ استنتاجٌ احتمالي قابل للسحب، بخلاف الاستلزام المنطقي الذي يجعل نفيه تناقضاً صريحاً.
 
-Implicatures (unlike entailments) can be cancelled: "Some students passed—actually, all passed." But entailments cannot: "The king attended—he wasn't there" is contradictory.
+## الأثر
 
-## Experimental Evidence
+صار هذا الإطارُ حجرَ الأساس لكل التداولية المعاصرة، وطوّرته مدرستان رئيسيتان لاحقاً: النهجُ النيوغرايسي عند ستيڤن ليڤنسون الذي يختزل قواعدَ غرايس إلى مبادئ أقلّ عدداً، ونظريةُ الملاءمة عند سپربر وويلسون التي تستبدل القواعدَ الأربع كلَّها بمبدأ معرفي واحد للتوازن بين الجهد والفائدة الإدراكية.
 
-Processing studies show scalar implicatures take longer to process than literal meanings. Children acquire implicatures gradually. Non-native speakers struggle with implicature interpretation.
+## المصادر
 
-## Contemporary Applications
-
-Virtual assistants recognize implicatures in user requests. Sarcasm detection requires understanding when implicatures are flouted. Chatbots must track conversational implicatures.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
+- Grice, H. P. (1975). "Logic and Conversation." In P. Cole & J. Morgan (Eds.), *Syntax and Semantics 3: Speech Acts*. Academic Press.
 - Levinson, S. C. (1983). *Pragmatics*. Cambridge University Press.
+- Horn, L. R. (1984). "Toward a New Taxonomy for Pragmatic Inference." In D. Schiffrin (Ed.), *Meaning, Form, and Use in Context*. Georgetown University Press.
+- Sperber, D., & Wilson, D. (1995). *Relevance: Communication and Cognition* (2nd ed.). Blackwell.
 

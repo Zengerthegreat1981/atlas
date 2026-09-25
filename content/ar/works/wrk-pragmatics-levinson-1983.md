@@ -27,43 +27,27 @@ gaps: []
 
 # التداولية (Pragmatics)
 
-## Definition
+كتابٌ تأليفي مرجعي للغوي البريطاني **ستيفن ليفنسون**، صدر سنة 1983 ضمن سلسلة كامبريدج للكتب الدراسية في اللسانيات (Cambridge Textbooks in Linguistics)، وأصبح لعقودٍ الكتاب التمهيدي المعياري لتدريس التداولية في برامج اللسانيات الجامعية حول العالم، بفضل شموله وتنظيمه المنهجي الدقيق لحقلٍ كان لا يزال حديث التبلور نسبياً آنذاك.
 
-Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
+## بنية الكتاب وشموله
 
-## Grice's Theory
+يستعرض ليفنسون في هذا الكتاب أهم موضوعات التداولية اللسانية بصورةٍ منهجية متسلسلة: الإشارية (Deixis) — كيفية ارتباط تعابير كـ«هنا» و«الآن» و«أنا» بسياق النطق الفعلي؛ والإفهام التخاطبي عند غرايس بتفصيلٍ دقيق؛ والافتراض المسبَق (Presupposition)؛ وأفعال الكلام (Speech Acts) عند أوستن وسورل؛ وبنية المحادثة والتناوب في الحديث (Conversation Analysis). يجمع الكتاب هذه الموضوعات المتناثرة في أدبياتٍ متفرقة سابقاً في إطارٍ تعليمي واحد متماسك.
 
-Paul Grice identified four conversational maxims speakers follow:
-- Quantity: Be informative without being excessive
-- Quality: Be truthful and warranted
-- Relevance: Stay on topic
-- Manner: Be clear and brief
+## الإسهام الأصيل: نحو مبادئ نيوغرايسية
 
-Flouting these maxims creates implicature—meaning inferred from the violation.
+لا يقتصر الكتاب على العرض التلخيصي، بل يقدّم إسهاماً نظرياً أصيلاً، إذ يمهّد فيه ليفنسون لبرنامجه البحثي اللاحق في التداولية النيوغرايسية، مقترحاً تنقيح قواعد غرايس المحادثية الأربع ضمن مجموعةٍ أصغر من المبادئ التفسيرية الأكثر قابلية للتفعيل صورياً، وهو المشروع الذي أكمله لاحقاً بتفصيلٍ أكبر في كتابه *Presumptive Meanings* (2000) عبر «المبادئ النيوغرايسية الثلاثة» (Q/I/M Heuristics).
 
-## Speech Acts
+## المنهجية النقدية
 
-Utterances perform actions (Austin, Searle):
-- Locutionary: The words uttered
-- Illocutionary: The action performed (promising, requesting, commanding)
-- Perlocutionary: The effect on listener
+يتميّز الكتاب بموقفٍ نقدي واضح تجاه بعض الادّعاءات النظرية غير المدعومة تجريبياً بما يكفي في أدبيات التداولية المبكرة، مطالباً بمعاييرَ صارمة للتمييز بين ما هو معنًى دلالي حرفي (Semantic) وما هو أثرٌ تداولي مستنتَج من السياق (Pragmatic)، وهو تمييزٌ منهجي ظلّ محورياً في تطور الحقل بعد صدور الكتاب.
 
-"I promise to return the book" is a performative—the utterance creates an obligation.
+## الأثر
 
-## Politeness Strategies
+أصبح هذا الكتاب أحد أكثر الكتب التمهيدية استشهاداً في تاريخ التداولية اللسانية، ونقطة الدخول القياسية التي تعلّم منها أجيالٌ من طلاب اللسانيات أسس الحقل، مساهماً في ترسيخ التداولية بوصفها فرعاً أكاديمياً مستقلاً ومنظَّماً منهجياً داخل علم اللغة الحديث.
 
-Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+## المصادر
 
-## Presupposition
-
-Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
-
-## Contemporary Applications
-
-Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
-- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+- Levinson, Stephen C. *Pragmatics*. Cambridge University Press, 1983.
+- Levinson, Stephen C. *Presumptive Meanings: The Theory of Generalized Conversational Implicature*. MIT Press, 2000.
+- Huang, Yan. *Pragmatics*. Oxford University Press, 2007.
 

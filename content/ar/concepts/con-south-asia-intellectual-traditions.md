@@ -17,23 +17,5 @@ gaps: []
 
 # التقاليد الفكرية في جنوب آسيا (South Asian Intellectual Traditions)
 
-## South Asian Intellectual Traditions
 
-Study of philosophical, literary, and scientific traditions in South Asia; examines Hindu, Buddhist, Islamic scholarship.
-
-### Key Aspects
-
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
-
-### Related Fields
-
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+دراسة التقاليد الفلسفية والأدبية والعلمية في جنوب آسيا؛ تبحث في الدراسات الهندوسية والبوذية والإسلامية.

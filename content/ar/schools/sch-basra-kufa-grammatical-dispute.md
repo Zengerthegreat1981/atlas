@@ -17,6 +17,7 @@ active_end: 950
 edges:
 - rel: "evolved_from", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
 related:
+- id: "thk-ibn-al-sarraj", title: "أبو بكر محمد بن السرّاج", type: "مفكر"
 - id: "thk-al-mubarrad", title: "أبو العباس المبرِّد", type: "مفكر"
 - id: "thk-ibn-al-anbari", title: "أبو البركات ابن الأنباري", type: "مفكر"
 - id: "thk-al-farra", title: "الفرّاء", type: "مفكر"

@@ -12,6 +12,7 @@ active_start: 1895
 active_end: 2100
 edges: []
 related:
+- id: "thk-durkheim", title: "إميل دوركهايم", type: "مفكر"
 - id: "thk-marcel-mauss", title: "مارسيلُ موس", type: "مفكر"
 gaps: []
 ---

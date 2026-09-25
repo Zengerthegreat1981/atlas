@@ -22,31 +22,34 @@ gaps: []
 
 # خوارزميةُ الربط الدلاليِّ-النحويّ في نحو الدور والمرجع
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+خوارزميةُ الربط (Linking Algorithm) الآليةُ المحورية في نحو الدور والمرجع (Role and Reference Grammar - RRG)، النظرية التي طوّرها روبرت ﭬان ﭬالِن ووليام فولي، وتصف مجموعةَ إجراءاتٍ صريحة تربط التمثيلَ الدلالي العميق للجملة (البنية المنطقية للمسنَد وحججه) ببنيتها النحوية الظاهرة، مع مراعاة عوامل الخطاب والتداول أثناء هذا الربط، بدل معاملة التركيب النحوي بنيةً مستقلّة عن الدلالة كما تفترض النظريات التوليدية التقليدية.
 
-## Theoretical Framework
+## الافتراضُ التأسيسي: عدمُ استقلالية النحو
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+يقوم هذا الإطارُ على رفض صريح لفرضية استقلالية النحو (Autonomy of Syntax) التي تبنّتها التوليدية التشومسكية: يرى ﭬان ﭬالِن أن البنيةَ النحوية لا تُفهَم ولا تُفسَّر إلا بالرجوع إلى وظائفها الدلالية والتداولية، فالنحوُ عنده مدفوعٌ (Motivated) بعوامل الدلالة والتواصل، لا نسقاً صورياً مكتفياً بذاته يُشتقّ التركيبُ فيه بمعزل عن المعنى.
 
-## Key Principles
+## الخطواتُ الثلاث للخوارزمية
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+تعمل خوارزميةُ الربط في اتجاهين ممكنين (من الدلالة إلى النحو في الإنتاج، ومن النحو إلى الدلالة في الفهم)، وتتألّف من ثلاث خطواتٍ أساسية: أولاً، استخلاصُ كل المعلومات الممكنة من الصيغة الصرفية النحوية الظاهرة للجملة، كصيغة الفعل المبنية للمعلوم أو المجهول، وعلامات الإعراب، وترتيب الكلمات، وحروف الجر؛ ثانياً، استرجاعُ التمثيل الدلالي المعجمي (Logical Structure) للمسنَد من المعجم، وتخصيصُ الدورين الكليَّين (الفاعل والمتأثِّر) لحجج المسنَد بقدر الإمكان؛ ثالثاً، ربطُ المعلومات المستخرَجة من الخطوتين السابقتين ببعضها بعضاً عبر مبادئَ ربطٍ محدَّدة.
 
-## Evidence Sources
+## الدوران الكليّان: الفاعلُ والمتأثِّر
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+المفهومُ المحوري الذي تعتمد عليه الخوارزمية هو الدوران الكليّان (Macroroles): الفاعلُ (Actor) والمتأثِّر (Undergoer)، وهما تعميمان عبر لغويان لأدوارٍ دلالية أكثرَ تفصيلاً (كالمنفِّذ والمتلقّي والأداة)، يُشتقّان من البنية المنطقية للمسنَد بحسب تسلسلٍ هرمي دلالي (Actor-Undergoer Hierarchy) يحدِّد أيَّ حجّةٍ تُخصَّص لأيّ دورٍ كلّي حين يتعدّد المرشَّحون المحتمَلون.
 
-## Contemporary Applications
+## الطابعُ العابر للغات
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+صُمِّمت خوارزميةُ الربط لتكون قادرةً على التعامل مع تنوّع الأنماط اللغوية النحوية العالمية، بما فيها اللغاتُ ذات النظام الفاعلي-المفعولي (Nominative-Accusative) واللغاتُ ذات النظام الإرغاتيفي (Ergative-Absolutive)، إذ يفترض ﭬان ﭬالِن أن الفرقَ بين هذين النمطين يمكن تفسيرُه بمبادئ ربطٍ مختلفة تطبَّق على البنية الدلالية العميقة نفسِها المشتركة عالمياً، لا ببنًى نحوية عميقة مختلفة جوهرياً.
 
-## References
+## الأثر
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+قدّم هذا الإطارُ بديلاً وظيفياً متماسكاً للنظريات النحوية التحويلية، وأثّر في دراسات التنميط اللغوي (Linguistic Typology) عبر تقديم أدواتٍ تحليلية قادرة على وصف تنوّع اللغات النحوي دون افتراض بنًى عميقة عالمية شبيهة بالإنجليزية، وصار إطاراً مرجعياً مستخدَماً في وصف لغاتٍ عديدة قليلة التوثيق نظرياً.
+
+## المصادر
+
+- Van Valin, R. D. Jr., & LaPolla, R. J. (1997). *Syntax: Structure, Meaning and Function*. Cambridge University Press.
+- Van Valin, R. D. Jr. (2005). *Exploring the Syntax-Semantics Interface*. Cambridge University Press.
+- Foley, W. A., & Van Valin, R. D. Jr. (1984). *Functional Syntax and Universal Grammar*. Cambridge University Press.
+- Van Valin, R. D. Jr. (2007). "The Role and Reference Grammar Analysis of Three-Place Predicates." *Suvremena Lingvistika*, 33(63), 31-63.
 

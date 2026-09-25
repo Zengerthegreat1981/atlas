@@ -15,6 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-comparative-religious-family-kinship", target_type: "مدرسة"
 related:
+- id: "thk-radcliffe-brown", title: "ألفرد رادكليف-براون (A. R. Radcliffe-Brown)", type: "مفكر"
 - id: "sch-comparative-religious-family-kinship", title: "دراسةُ الدين والقرابةِ والأسرة المقارَنة", type: "مدرسة"
 - id: "thk-meyer-fortes", title: "مايير فورتس", type: "مفكر"
 - id: "wrk-kinship-religion-tallensi-fortes", title: "القرابةُ والدينُ عند الطالينسي", type: "عمل / كتاب"

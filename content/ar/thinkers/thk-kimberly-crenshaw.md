@@ -18,23 +18,17 @@ gaps: []
 
 # كيمبرلي كرينشو (Kimberlé Crenshaw)
 
-## Kimberlé Crenshaw
+## كيمبرلي كرينشو
 
-Legal scholar and critical race theorist; developed intersectionality framework now foundational to gender and sexuality history.
+باحثةٌ قانونية ومنظِّرة في نظرية العرق النقدية؛ طوّرت إطار التقاطعية (intersectionality) الذي أصبح أساسياً في تاريخ الجندر والجنسانية.
 
-### Key Aspects
+### أهم الجوانب
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثِّل هذه العقدةُ جزءاً من القسم 20: الأطر العابرة للتخصصات والتوليف، في مبحث التأريخ.
 
-### Related Fields
+### حقول ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- حقول التأريخ الناشئة

@@ -26,58 +26,27 @@ gaps:
 
 # پيتر لادفوگد
 
-## Definition and Overview
+لغويٌّ بريطانيّ-أمريكي (1925-2006)، يُعدّ أبرز عالم صوتياتٍ في القرن العشرين، أسّس وأدار حتى 1991 مختبر الصوتيات بجامعة كاليفورنيا في لوس أنجلس (UCLA)، الذي تحوّل تحت إدارته إلى أشهر مختبر صوتياتٍ لسانية في العالم ومركز تدريبٍ لأجيالٍ من الباحثين في الحقل.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## من إدنبرة إلى نيجيريا وUCLA
 
-## Theoretical Framework
+نال لادفوگد الدكتوراه من جامعة إدنبرة سنة 1959، ودرَّس في نيجيريا وإدنبرة قبل أن ينتقل إلى UCLA سنة 1962 أستاذاً مساعداً للصوتيات، ثم ترأس قسم اللسانيات فيها (1977-1980). جمعت مسيرته بين الدقة المخبرية الأكوستيكية والعمل الميداني المباشر مع متحدثي لغاتٍ نادرة حول العالم، بصورةٍ لم تكن شائعةً بالقدر نفسه في الصوتيات حتى ذلك الحين.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## توثيق اللغات المهدَّدة بالانقراض
 
-## Key Mechanisms
+وثّق لادفوگد بدقةٍ أكوستيكية الأصوات الكلامية لأكثر من خمسين لغة من اللغات «المهدَّدة بالانقراض» حول العالم، مسافراً شخصياً لتسجيل متحدثيها الأصليين وقياس خصائص أصواتهم الفيزيائية قبل فوات الأوان، بحيث تُحفَظ سجلاتٌ علمية دقيقة لهذه الأصوات حتى بعد اندثار اللغات نفسها. جمع هذا العمل بين الالتزام العلمي بالدقة القياسية والحسّ الأخلاقي بأهمية توثيق التنوع اللغوي البشري قبل ضياعه.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## المرجع الأشمل: أصوات لغات العالم
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+ألّف مع إيان ماديسون كتابهما المرجعي *The Sounds of the World's Languages* (1996)، الذي يقدّم مسحاً منهجياً شاملاً لكل الأصوات الكلامية الموثَّقة عبر لغات العالم وتوزيعها النمطي، وأصبح المرجع القياسي الذي لا غنى عنه لأي دراسةٍ صوتية مقارنة عبر اللغات، مكمِّلاً بذلك الأبجدية الصوتية الدولية (IPA) بقاعدة بياناتٍ تجريبية واسعة تسند تصنيفاتها.
 
-## Experimental Evidence
+## الأثر التعليمي والمنهجي
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+ألّف لادفوگد أيضاً كتبَ صوتياتٍ تمهيدية مؤثرة (كـ*A Course in Phonetics*)، درَّس بها أجيالاً من طلاب اللسانيات حول العالم، وأشرف على باحثين لاحقين بارزين في الحقل، منهم كيث جونسون، الذي واصل تطوير الصوتيات الأكوستيكية والإدراكية بعده، مما جعل مدرسة UCLA للصوتيات إرثاً منهجياً ممتداً يتجاوز أعماله الشخصية وحدها.
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+## المصادر
 
-## Cross-Linguistic Applications
-
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Ladefoged, Peter, & Maddieson, Ian. *The Sounds of the World's Languages*. Blackwell, 1996.
+- Ladefoged, Peter. *A Course in Phonetics*. Harcourt Brace Jovanovich, 1975 (طبعاتٌ لاحقة عديدة).
+- Ladefoged, Peter. *Vowels and Consonants: An Introduction to the Sounds of Languages*. Blackwell, 2001.
+- "Obituary: Peter Ladefoged." UCLA Newsroom, 2006.

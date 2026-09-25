@@ -18,6 +18,7 @@ edges:
 - rel: "belongs_to", target: "sch-bilingualism-cognitive-control", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-generative-grammar", target_type: "مدرسة"
 related:
+- id: "con-language-acquisition-second-language", title: "اكتسابُ اللغة الثانية (Second Language Acquisition)", type: "مفهوم"
 - id: "con-code-switching-bilingualism", title: "تبديل الأكواد عند ثنائيي اللغة (Code-Switching & Bilingualism)", type: "مفهوم"
 - id: "sch-generative-grammar", title: "النحوُ التوليديّ (Generative Grammar)", type: "مدرسة"
 - id: "sch-bilingualism-cognitive-control", title: "الثنائيةُ اللغويةُ والتحكّمُ المعرفيّ (Bilingualism)", type: "مدرسة"

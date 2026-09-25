@@ -39,43 +39,33 @@ gaps:
 
 # التداوليةُ الغرايسية
 
-## Definition
+تيارٌ تداوليّ أسّسه الفيلسوف البريطاني **هربرت پول غرايس** في محاضراته بجامعة هارفارد سنة 1967، المنشورة لاحقاً بعنوان «المنطق والمحادثة» (Logic and Conversation، 1975)، ويُعنى بتفسير كيف يستنتج السامع من عبارةٍ ما معنىً يتجاوز دلالتها الحرفية، معتمداً على افتراض أن التخاطب نشاطٌ تعاونيّ منظَّم بمبادئ ضمنية يشترك فيها المتكلم والسامع.
 
-Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
+## مبدأ التعاون والقواعد المحادثية
 
-## Grice's Theory
+يقوم إطار غرايس على **مبدأ التعاون** (Cooperative Principle): «اجعل مساهمتك التخاطبية بالقدر المطلوب، في اللحظة المناسبة، وفق الغرض المقبول للحوار الذي تشارك فيه»، ويتفرّع هذا المبدأ إلى أربع قواعد محادثية (Maxims): **الكمّ** (كن بقدر المعلومات المطلوبة لا أكثر ولا أقل)، و**الكيف** (قل ما تعتقد صحته وما لديك دليلٌ كافٍ عليه)، و**العلاقة** (كن ذا صلةٍ بالموضوع)، و**الطريقة** (كن واضحاً موجزاً غير غامض). حين يبدو أن المتكلم **يخالف** إحدى هذه القواعد ظاهرياً مع افتراض التزامه بمبدأ التعاون في العمق، ينشأ **الإفهام التخاطبي** (Conversational Implicature) — معنًى ضمنيّ يستنتجه السامع تعويضاً عن هذه المخالفة الظاهرية.
 
-Paul Grice identified four conversational maxims speakers follow:
-- Quantity: Be informative without being excessive
-- Quality: Be truthful and warranted
-- Relevance: Stay on topic
-- Manner: Be clear and brief
+## الإفهام الاصطلاحي مقابل التخاطبي
 
-Flouting these maxims creates implicature—meaning inferred from the violation.
+ميّز غرايس بين **الإفهام التخاطبي** (Conversational Implicature)، المرتبط بسياق الاستعمال وقابلٍ للإلغاء (Cancellable)، و**الإفهام الاصطلاحي** (Conventional Implicature)، المرتبط بمعنى كلماتٍ بعينها (كـ«لكن» التي تحمل تضاداً ضمنياً ثابتاً بصرف النظر عن السياق) وغير قابلٍ للإلغاء بالسياق. هذا التمييز مهّد لتطوير أدواتٍ تحليلية أدقّ في التداولية اللاحقة لفصل ما هو جزءٌ من المعنى الحرفي عمّا هو أثرٌ استدلاليّ للسياق.
 
-## Speech Acts
+## التطورات النيوغرايسية
 
-Utterances perform actions (Austin, Searle):
-- Locutionary: The words uttered
-- Illocutionary: The action performed (promising, requesting, commanding)
-- Perlocutionary: The effect on listener
+طوّر **لورنس هورن** برنامجاً نيوغرايسياً يختزل قواعد غرايس الأربع إلى مبدأين متنافسين: **مبدأ الكمّ** (Q-Principle)، الذي يدفع نحو أقصى قدرٍ من المعلومات، و**مبدأ العلاقة** (R-Principle)، الذي يدفع نحو الحدّ الأدنى الكافي، بحيث ينشأ **الإفهام المقياسي** (Scalar Implicature) — كاستنتاج «ليس الكل» من قول «بعض» — من توتّرٍ بين هذين المبدأين. وبالتوازي، صاغ **ستيفن ليفنسون** ثلاثةَ مبادئَ نيوغرايسية (Q/I/M Heuristics) بصورةٍ أكثر تفصيلاً وقابليةً للتطبيق على ظواهر تركيبية معقدة، ونُشرت في كتابه المرجعي *Pragmatics* (1983) ثم *Presumptive Meanings* (2000).
 
-"I promise to return the book" is a performative—the utterance creates an obligation.
+## امتدادات لاحقة: باخ والإضمار التتميمي
 
-## Politeness Strategies
+اقترح **كنت باخ** فئةً ثالثة بين ما يُقال حرفياً وما يُستلزَم تخاطبياً، أسماها **الإضمار التتميمي** (Impliciture): عناصر معنى ضمنية تُستكمَل بها الجملة المحذوفة الظاهر منطقياً (كفهم «لم آكل [اليوم]» رغم عدم ذكر القيد الزمني صراحةً)، معتبراً أنها جزءٌ من عملية إثراء المعنى الحرفي لا استلزاماً تخاطبياً كاملاً بالمعنى الغرايسي الصارم.
 
-Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+## الأثر والانتقال إلى بدائل أخرى
 
-## Presupposition
+شكّلت التداولية الغرايسية الإطار المرجعي الذي تفرّعت عنه لاحقاً نظرية الملاءمة (Relevance Theory) عند سپربر وويلسون، بوصفها محاولةً لاختزال قواعد غرايس الأربع إلى مبدأ استدلاليّ معرفيّ واحد، كما أثّرت مباشرةً في نظرية التأدّب عند براون وليفنسون التي فسّرت الانحراف عن الوضوح الغرايسي بدوافع اجتماعية لا استدلالية بحتة.
 
-Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+## المصادر
 
-## Contemporary Applications
-
-Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
-- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+- Grice, H. Paul. "Logic and Conversation." In *Syntax and Semantics 3: Speech Acts*, eds. Cole & Morgan. Academic Press, 1975.
+- Grice, H. Paul. *Studies in the Way of Words*. Harvard University Press, 1989.
+- Levinson, Stephen C. *Pragmatics*. Cambridge University Press, 1983.
+- Horn, Laurence R. "Toward a New Taxonomy for Pragmatic Inference: Q-Based and R-Based Implicature." In *Meaning, Form, and Use in Context*, ed. Schiffrin. Georgetown University Press, 1984.
+- Bach, Kent. "Conversational Impliciture." *Mind & Language*, 9(2), 1994.
 

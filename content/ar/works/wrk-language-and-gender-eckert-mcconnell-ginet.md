@@ -26,23 +26,27 @@ gaps: []
 
 # اللغةُ والجندر (إكرت ومكونل-جينيت)
 
-## Definition
+كتابٌ مرجعيّ ألّفته **پينيلوپي إكرت** و**سالي مكونل-جينيت** ونُشر سنة 2003 عن مطبعة جامعة كامبريدج، ويُعدّ أشمل تأليفٍ توليفي لحقل اللغة والجندر عند مطلع الألفية، حيث لا يكتفي بعرض المدارس السابقة بل يقدّم إطاراً نظرياً بديلاً متكاملاً أعاد تشكيل الحقل بأكمله.
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+## نقد الفئوية الثابتة
 
-## Key Principles
+ينطلق الكتاب من نقدٍ جذري للمقاربات السابقة (نموذج النقص عند لايكوف، ونموذج الاختلاف عند تانن) التي تعامل «النساء» و«الرجال» فئتين متجانستين ثابتتين لكلٍّ منهما «أسلوبٌ» لغوي موحَّد. ترى إكرت ومكونل-جينيت أن هذا الافتراض مضلِّل منهجياً: فالتنوّع داخل كل جنسٍ أكبر غالباً من التباين بين الجنسين، والجندر نفسه يتقاطع دوماً مع متغيراتٍ اجتماعية أخرى (الطبقة، العرق، العمر، التوجّه الجنسي) بحيث يستحيل عزل «تأثير الجندر» عزلاً نقياً عن هذا النسيج الاجتماعي المعقّد.
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+## جماعات الممارسة
 
-## Evidence
+يقترح الكتاب بديلاً تحليلياً هو مفهوم **جماعات الممارسة** (Communities of Practice)، المستعار من عالمة التعلّم الاجتماعي إيتيان وينجر: تجمّعاتٌ محلية من الأفراد ينخرطون معاً بانتظامٍ في نشاطٍ مشترك (فريق رياضي، مجموعة أصدقاء مدرسية، فريق عمل)، فيتفاوضون داخلها على ممارساتٍ لغوية دالّة تبني هوياتٍ اجتماعية متعددة ومتقاطعة، منها الجندر لكن ليس حصرياً. بهذا يُعاد تعريف «الأسلوب الجندري» ليس بوصفه معطًى مسبقاً، بل شيئاً يُبنى فعلياً ويُعاد تأويله باستمرار داخل سياقاتٍ اجتماعية محددة صغيرة.
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+## الجندر أداءً لا جوهراً
 
-## References
+يستند الكتاب إلى مفهوم **الأداء** (Performativity) الذي طوّرته الفيلسوفة جوديث بتلر، معتبراً أن الجندر ليس صفةً بيولوجية أو اجتماعية سابقة تُترجَم إلى سلوكٍ لغوي، بل هو ذاته يُنتَج ويُعاد إنتاجه عبر تكرار ممارساتٍ (لغوية وغير لغوية) بعينها؛ فالفرد لا «يعبّر» عن جندره القائم مسبقاً حين يتكلم، بل «يؤدّي» جندره جزئياً من خلال طريقة كلامه نفسها.
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+## الأثر
+
+أصبح هذا الكتاب المرجع الدراسي المعياري لتدريس حقل اللغة والجندر في برامج اللسانيات الاجتماعية حول العالم، ونقطة تحوّلٍ حاسمة حوّلت اتجاه البحث من رصد «فروقٍ» لغوية بين الجنسين إلى دراسة كيفية **بناء** الهوية الجندرية فعلياً عبر الممارسة اللغوية اليومية في سياقاتٍ اجتماعية محددة.
+
+## المصادر
+
+- Eckert, Penelope, & McConnell-Ginet, Sally. *Language and Gender*. Cambridge University Press, 2003 (2nd ed. 2013).
+- Eckert, Penelope, & McConnell-Ginet, Sally. "Communities of Practice: Where Language, Gender, and Power All Live." In *Locating Power*, eds. Hall & Bucholtz, 1992.
+- Butler, Judith. *Gender Trouble: Feminism and the Subversion of Identity*. Routledge, 1990.
 

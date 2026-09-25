@@ -17,23 +17,5 @@ gaps: []
 
 # التاريخ المضموني (Speculative History)
 
-## Speculative History
 
-Historiographical practice examining unrealized possibilities and roads not taken; explores counterfactuals thoughtfully.
-
-### Key Aspects
-
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
-
-### Related Fields
-
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+ممارسة تأريخية تبحث في الإمكانات غير المتحققة والمسارات غير المسلوكة؛ تستكشف الافتراضات المضادة للواقع بتأنٍ.

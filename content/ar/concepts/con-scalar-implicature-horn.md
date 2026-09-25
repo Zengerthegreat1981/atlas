@@ -20,43 +20,34 @@ gaps: []
 
 # الإفهامُ المقياسي
 
-## Definition
+## التعريف
 
-Implicature is meaning implied but not explicitly stated. "Can you pass the salt?" implies a request though literally asks a question. Implicatures are pragmatically inferred from context and discourse principles.
+الإفهامُ المقياسي (Scalar Implicature) نوعٌ من الإفهام التخاطبي المعمَّم يُشتقّ من استخدام المتكلّم عبارةً تقع في نقطةٍ وسطى أو ضعيفة على سلّمٍ دلالي مرتَّب بالقوّة، يستلزم به نفيَ الحلقات الأقوى في السلّم نفسِه؛ فقولُ "نجح بعضُ الطلاب" يستلزم "ليس كلُّهم نجح"، لأن "كلّ" أقوى دلالياً من "بعض" على السلّم نفسِه، ولو كان المتكلّمُ يقصد "كلّ" لاستخدمها مباشرةً. أرسى لورنس هورن أساسَ هذا التحليل نظرياً في أطروحته الدكتورية بجامعة كاليفورنيا (لوس أنجلوس) عام 1972.
 
-## Grice's Framework
+## السلالمُ الهورنية (Horn Scales)
 
-Conversational implicatures arise from apparent violations of Grice's maxims:
-- Saying less than required (Quantity): "Some students passed" implicates not all passed
-- Irrelevant contribution (Relation): Off-topic response implicates something unstated
-- Manner violation: "He went to the door and entered the room" (vs. "He entered the room") implicates sequentiality
+سمّيت السلالمُ الدلالية المرتَّبة التي يُبنى عليها الإفهامُ المقياسي "سلالمَ هورنية" تكريماً لعمله المؤسِّس، وهي مجموعاتٌ مرتَّبة من التعبيرات المتدرِّجة بالقوّة الدلالية ضمن حقلٍ دلالي واحد، كـ(دائماً، غالباً، أحياناً)، و(و، أو)، و(متيقَّن، محتمَل، ممكن). القاعدةُ العامّة: تأكيدُ حلقةٍ ضعيفة أو وسطى على السلّم يستلزم افتراضياً أن الحلقاتِ الأقوى لا تنطبق، لأن مبدأَ الكمّ الغرايسي يفترض أن المتكلّم يقدّم أقوى معلومةٍ صادقة متاحة له.
 
-## Scalar Implicature
+## التصنيفُ النيوغرايسي: Q-based وR-based
 
-Scalar implicature: "Some students passed" implicates "Not all students passed." This is because "all" is stronger on the scale; if all passed, one should say "all."
+طوّر هورن لاحقاً في مقالته "Toward a New Taxonomy for Pragmatic Inference" (1984) تصنيفاً ثنائياً للإفهام التخاطبي يميّز بين الإفهام القائم على مبدأ الكمّ (Q-based)، الذي يشمل الإفهامَ المقياسي نفسَه ويعمل بمنطق "ما لم يُقَل بقوّةٍ أكبر لم يحدث"، والإفهام القائم على مبدأ العلاقة (R-based)، الذي يعمل بمنطقٍ معاكس تقريباً: "ما وُصف بعبارةٍ أبسط يُفهَم وفق التفسير الأكثر توقّعاً واعتيادية". هذا التصنيفُ الثنائي مهّد لاحقاً لتطوير ستيڤن ليڤنسون مبادئَه الثلاثة (Q وI وM) الأكثرَ تفصيلاً.
 
-- Some/All: "I ate some cookies" → "I didn't eat all cookies"
-- Or: "You can have tea or coffee" → "You can't have both"
-- Might/Must: "He might be late" → "It's not certain"
+## الشرطُ التخاطبي على السلالم
 
-## Conventional Implicature
+أضاف هورن ومن جاء بعده شرطاً مهمّاً: لا تعمل السلالمُ الدلالية بمعزل عن السياق، بل يجب أن تكون العناصرُ المتنافسة على السلّم "مقارَنةً تخاطبياً" فعلياً في سياق الحديث، أي أن يكون استبدالُ الحلقة الأضعف بالأقوى ذا صلةٍ فعلية بغرض المحادثة، وإلا فقد لا ينشأ الإفهامُ المقياسي المتوقَّع أصلاً رغم توفّر السلّم الدلالي نظرياً.
 
-Some implicatures are tied to words rather than context. "However" in "She's smart, however she failed" implicates contrast. The contrast is part of the word's meaning.
+## الأدلّةُ التجريبية على المعالجة
 
-## Non-cancellability Test
+بيّنت دراساتُ علم اللغة النفسي أن معالجةَ الإفهام المقياسي تستغرق زمناً معالجةً أطول من المعنى الحرفي المنطقي البحت، وأن الأطفالَ يكتسبون القدرةَ على استنتاج هذا الإفهام تدريجياً وبتأخّرٍ نسبي مقارنةً بفهمهم للمعنى الحرفي للكلمات نفسِها، مما دعم فرضيةَ أن الإفهامَ المقياسي عمليةٌ استدلالية إضافية تُبنى فوق المعنى المنطقي الأساسي لا جزءاً منه مباشرةً.
 
-Implicatures (unlike entailments) can be cancelled: "Some students passed—actually, all passed." But entailments cannot: "The king attended—he wasn't there" is contradictory.
+## الأثر
 
-## Experimental Evidence
+صار الإفهامُ المقياسي أحدَ أكثر الظواهر دراسةً في التداولية التجريبية المعاصرة، إذ يوفّر حالةَ اختبارٍ نظيفة نسبياً لمقارنة النماذج التنافسية للاستدلال التخاطبي (النيوغرايسية مقابل نظرية الملاءمة)، وأثّر تأثيراً واسعاً في علم اللغة النفسي التجريبي واكتساب اللغة عند الأطفال.
 
-Processing studies show scalar implicatures take longer to process than literal meanings. Children acquire implicatures gradually. Non-native speakers struggle with implicature interpretation.
+## المصادر
 
-## Contemporary Applications
-
-Virtual assistants recognize implicatures in user requests. Sarcasm detection requires understanding when implicatures are flouted. Chatbots must track conversational implicatures.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
-- Levinson, S. C. (1983). *Pragmatics*. Cambridge University Press.
+- Horn, L. R. (1972). *On the Semantic Properties of Logical Operators in English*. PhD dissertation, UCLA.
+- Horn, L. R. (1984). "Toward a New Taxonomy for Pragmatic Inference: Q-based and R-based Implicature." In D. Schiffrin (Ed.), *Meaning, Form, and Use in Context*. Georgetown University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings: The Theory of Generalized Conversational Implicature*. MIT Press.
+- Noveck, I. A. (2001). "When Children Are More Logical than Adults." *Cognition*, 78(2), 165-188.
 

@@ -26,32 +26,34 @@ gaps: []
 
 # البراتيشاخيا: الرسائلُ الصوتية الفيدية
 
-## Definition
+## التعريف
 
-This concept is fundamental to phonological theory. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding structure is essential for linguistics, speech technology, and language teaching.
+البراتيشاخيا (Prātiśākhya)، وتُعرف أيضاً بالپارشادا (Pārṣada)، طائفةٌ من الرسائل الصوتية القديمة في التقليد الهندي، أُلِّفت لضبط النطق الدقيق والمتّسق لنصوص الفيدا الشفهية المقدَّسة، وتُعدُّ من أقدم أعمال شيكشا (Śikṣā، أي علم الصوتيات) في كل فرعٍ (شاخا Śākhā) من فروع الفيدا المتعدّدة، ومن هنا اشتُقّ اسمُها: نصٌّ خاصٌّ بكل فرعٍ (پراتي-شاخا) على حدة.
 
-## Theoretical Framework
+## الوظيفةُ: صيانةُ النطق الصحيح عبر الأجيال
 
-Modern phonology combines insights from distinctive feature theory, autosegmental phonology, and constraint-based approaches. The framework accounts for universal patterns across all languages and language-specific variations.
+نشأت هذه الرسائلُ من ضرورةٍ دينية حاسمة: يجب أن تُتلى التراتيلُ الفيدية بنطقٍ دقيق موروثٍ شفهياً دون أدنى تحريف، إذ يُعتقَد أن القوّةَ الطقسية للتلاوة تعتمد على دقّة النطق نفسِها لا على المعنى وحده. صيغت البراتيشاخيا استجابةً لهذه الضرورة، فوثّقت قواعدَ النطق الصحيح للأصوات الفردية، وقواعدَ التغيّر الصوتي التي تحدث حين تتّصل الكلماتُ المنفصلة في التلاوة المتّصلة (السندي Sandhi)، وأتاحت بذلك حفظَ النطق الصحيح آلياً عبر أجيالٍ متعاقبة من دون الاعتماد على الكتابة أصلاً في المراحل الأقدم.
 
-## Key Principles
+## المنهجيةُ: من الكلمة المنفردة إلى النصّ المتّصل
 
-Phonological organization reflects both universal principles and language-specific choices. Features organize sounds into natural classes. Constraints rank differently across languages. Rules apply to well-defined structural units.
+تتبع البراتيشاخيا منهجيةً تدريجية مميَّزة: تبدأ بتحليل النصّ كلمةً كلمةً منفصلة (پادا-پاثا Pada-pāṭha)، موضِّحةً نطقَ كل وحدةٍ معجمية بمعزل عن سياقها، ثم تنتقل إلى قواعد التلاوة المتّصلة (سامهيتا-پاثا Saṃhitā-pāṭha)، التي تصف التغيّراتِ الصوتية الطارئة حين تتلاصق الكلماتُ في تدفّق الكلام الفعلي، كتوليد أو حذف أو تعديل أصواتَ عند الحدود بين الكلمات.
 
-## Experimental Methods
+## أشهرُ النصوص وتوزيعُها بحسب الفروع
 
-Research uses perception experiments, production studies, brain imaging (fMRI, EEG), corpus analysis, and computational modeling. These methods converge on the psychological reality of phonological structure.
+من أقدم البراتيشاخيا وأشهرِها براتيشاخيا الرِّگ ﭬيدا (المنسوبة إلى شاكاليا)، وبراتيشاخيا التايتيريا، إضافةً إلى نصوصٍ مماثلة لفرعَي اليجور ﭬيدا والأتهارﭬا ﭬيدا؛ ولكل مدرسةٍ نصّية فيدية (شاخا) نصُّها الخاص، إذ اختلفت تقاليدُ النطق والتلاوة قليلاً بين الفروع المختلفة عبر مناطق الهند وأزمنتها.
 
-## Cross-linguistic Evidence
+## المكانةُ في تاريخ اللسانيات
 
-Patterns repeat across unrelated languages, suggesting universal principles. However, substantial variation exists, showing language-specific organization.
+تُعدُّ البراتيشاخيا من أقدم الوثائق اللغوية المنهجية في التاريخ الإنساني المعروف التي تصف الأصواتَ اللغوية وصفاً تحليلياً دقيقاً، وتصف كذلك عملياتٍ صوتية تُقارِب بدقّةٍ لافتة مفاهيمَ الصواتة الحديثة كالتمثيل التحتي والتغيّر السياقي، مما جعلها موضوعَ اهتمامٍ كبير من مؤرِّخي اللسانيات الذين يرونها سابقةً باكرة جداً لمفاهيمَ صواتية لم تتبلور غربياً إلا بعد آلاف السنين.
 
-## Contemporary Applications
+## الأثر
 
-Speech technology, language teaching, clinical phonology, and language documentation all rely on phonological frameworks.
+مهّدت البراتيشاخيا الأرضيةَ التحليلية التي بُني عليها لاحقاً نحوُ بانيني الأكثر تجريداً وصورية، بما في ذلك أدواتُه الصوتية الأساسية كسوترات شيڤا، وبقيت هذه الرسائلُ مصدراً أساسياً لفهم النطق الفيدي القديم بدقّةٍ تفصيلية يستحيل الوصولُ إليها من النصّ المكتوب وحده.
 
-## References
+## المصادر
 
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Whitney, W. D. (1862). "The Atharva-Veda Prātiśākhya." *Journal of the American Oriental Society*, 7.
+- Allen, W. S. (1953). *Phonetics in Ancient India*. Oxford University Press.
+- Cardona, G. (1994). "The Bhāṣika Accentuation System." *Studien zur Indologie und Iranistik*.
+- Renou, L. (1957). "Les Écoles Védiques et la Formation du Veda." Imprimerie Nationale de France.
 

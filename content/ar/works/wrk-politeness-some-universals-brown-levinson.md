@@ -27,31 +27,32 @@ gaps: []
 
 # التأدّب: بعضُ الكلّيات في استعمال اللغة
 
-## Definition
+العملُ التأسيسي لنظرية التأدّب في التداولية اللسانية، ألّفه **پنلوپي براون** و**ستيفن ليفنسون** أول مرة سنة 1978 مقالةً طويلة ضمن مجلدٍ محرَّر عن أنماط التخاطب الاجتماعي، ثم أُعيد نشره موسَّعاً ومنقَّحاً كتاباً مستقلاً سنة 1987 بمقدمةٍ جديدة تستجيب للنقد الذي تلقّته الصيغة الأولى. يُعدّ هذا العمل أكثر النصوص استشهاداً في تاريخ دراسة التأدّب اللغوي عبر الثقافات.
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+## مفهوم الوجه
 
-## Theoretical Framework
+يستعير براون وليفنسون من عالم الاجتماع إرﭬنغ غوفمان مفهوم **الوجه** (Face) — الصورة الذاتية العامة التي يريد كل فردٍ الحفاظ عليها أمام الآخرين — ويقسّمانه إلى بُعدين: **الوجه الإيجابي**، رغبة الفرد في أن يُقبَل ويُقدَّر، و**الوجه السلبي**، رغبته في حرية التصرف دون قيدٍ أو فرض. يفترض الكتاب أن هذين البعدين كلّيّان (Universal) عابران للثقافات، وإن اختلفت طرق التعبير عنهما وحمايتهما من ثقافةٍ لأخرى.
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+## الأفعال المهدِّدة للوجه واستراتيجيات التخفيف
 
-## Key Principles
+يحلّل الكتاب كيف تهدد أفعالٌ كلامية معينة (الطلب، النقد، الرفض) وجه المتكلم أو المخاطَب، ويقترح تسلسلاً من خمس استراتيجيات متدرِّجة في التلطيف يختار المتكلم بينها: من الصراحة المباشرة، إلى التأدّب الإيجابي (تأكيد الألفة)، إلى التأدّب السلبي (التحوّط والتلميح)، إلى الغموض المقصود، وأخيراً الامتناع الكامل عن الفعل. يفترض الكتاب أن اختيار الاستراتيجية دالّةٌ حسابية لثلاثة عوامل: المسافة الاجتماعية، وفارق القوة بين المتخاطبَين، ودرجة «فداحة» الفعل ثقافياً.
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+## المنهجية المقارنة عبر الثقافات
 
-## Evidence Sources
+استند براون وليفنسون إلى بياناتٍ ميدانية من ثلاث لغاتٍ متباعدة جغرافياً وثقافياً (الإنجليزية، وتزيلتال المكسيكية المايوية، وتاميل الهندية الجنوبية)، محاولَين إثبات أن الأنماط الأساسية لاستراتيجيات التأدّب تتكرر عبرها رغم اختلاف تفاصيلها السطحية، وهو ما شكّل الأساس التجريبي لدعوى الكونية التي طرحاها.
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+## الاستقبال النقدي
 
-## Contemporary Applications
+أثارت الطبعة الثانية (1987) نقاشاً نقدياً واسعاً استمر عقوداً: هل تصلح فرضية «الوجه الفردي» بصيغتها الغربية إطاراً عالمياً حقاً؟ فقد بيّن باحثون كماسايوشي شيباتاني أن لغاتٍ كاليابانية تُلزِم بصيغ تبجيلٍ نحوية مدمجة في النظام الصرفي لا خاضعة لاختيارٍ استراتيجي حر، بينما قدّمت سارة ميلز نقداً نسوياً لتحيّزات الإطار الضمنية.
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+## الأثر
 
-## References
+رغم هذه الانتقادات، ظلّ هذا العمل المرجع الأكثر تأثيراً في دراسة التأدّب اللغوي، مولِّداً حقلاً بحثياً كاملاً امتدّ لاحقاً عبر أعمال جيفري ليتش وهيلين سپنسر-أوتي وغيرهما، وأثّر في تصميم واجهات التفاعل بين الإنسان والحاسوب وتعليم اللغة الأجنبية.
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+## المصادر
+
+- Brown, Penelope, & Levinson, Stephen C. "Universals in Language Usage: Politeness Phenomena." In *Questions and Politeness*, ed. Esther N. Goody. Cambridge University Press, 1978.
+- Brown, Penelope, & Levinson, Stephen C. *Politeness: Some Universals in Language Usage*. Cambridge University Press, 1987.
+- Goffman, Erving. *Interaction Ritual: Essays on Face-to-Face Behavior*. Doubleday, 1967.
+- Eelen, Gino. *A Critique of Politeness Theories*. St. Jerome Publishing, 2001.
 

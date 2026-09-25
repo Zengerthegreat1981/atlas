@@ -20,23 +20,30 @@ gaps: []
 
 # المسنِداتُ التصنيفيةُ والاتفاقُ المكانيُّ في لغة الإشارة
 
-## Definition
+## التعريف
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+المسنِداتُ التصنيفية (Classifier Predicates) بِنًى فعليةٌ معقّدة في لغات الإشارة، يحمل فيها شكلُ اليد (Handshape) نفسُه معنًى صرفياً يصنّف نوعَ الكيان المشار إليه (إنسانٌ، مركبةٌ، جسمٌ مسطّحٌ رفيع...)، بينما تُشفِّر حركةُ اليد ومسارُها في الفضاء الإشاري معلوماتٍ عن طريقة الحركة واتجاهها وعلاقتها المكانية بكيانٍ آخر. أرسى توماس سوپالا أساسَ دراستها التحليلية في لغة الإشارة الأمريكية (ASL) مطلعَ الثمانينيات، وطوّرتها لاحقاً كارِن إيمُوري وزملاؤها بحثاً وتجريباً.
 
-## Key Principles
+## البنية الصرفية المتعدّدة
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+يتألّف المسنَدُ التصنيفي من مورفيمات متزامنة لا متعاقبة كما في اللغات المنطوقة: مورفيمُ الشكل/الصنف (Handshape) يمثّل الشخصية أو الشيء (Figure)، ومسارُ الحركة يمثّل نوعَ الحدث (مسار مستقيم، دائري، متكرّر)، وموقعُ اليد في الفضاء يمثّل العلاقةَ المكانية بكيانٍ مرجعي آخر (Ground). هذا التزامنُ البنيوي، الذي بيّنه سوپالا عبر اختبارات وصف أفلام حركة ألعاب، يفرض تشكيلاتٍ قطعية منضبطة نحوياً لا تنويعاتٍ تشبيهية حرّة، مما أثبت أن الظاهرة نحوية بالكامل لا مجرّد إيماء تصويري.
 
-## Evidence
+## الاتفاقُ المكاني بدل حروف الجر
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+حيث تستخدم الإنجليزية حروفَ جرٍّ وظروفاً مكانية لوصف العلاقات الفراغية (على، تحت، بجانب)، تستخدم لغةُ الإشارة الفضاءَ الإشاري نفسَه تمثيلاً مباشراً: يُحدَّد موضعُ كل كيان بنقطةٍ في الفضاء أمام الموقّع، وتُبنى العلاقاتُ المكانية بوضع المسنِدات التصنيفية في مواضعَ نسبية تعكس التخطيطَ الفعلي للمشهد الموصوف، فيعمل الفضاءُ الإشاري بوصفه نظاماً صرفياً نحوياً حقيقياً لا مجرّد خلفيةٍ بصرية.
 
-## References
+## الفرقُ عن الاتفاق الفعلي المعتاد
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+يختلف هذا الاتفاقُ المكاني عن اتفاق الأفعال الاتجاهية المعتاد في لغة الإشارة (كأفعال الإعطاء والسؤال التي تتحرّك بين موقعَي الفاعل والمفعول)، لأن مواضعَ المسنِدات التصنيفية تُحدَّد تحليلياً بحسب تخطيط المشهد لا بحسب أدوارٍ نحوية ثابتة (فاعل/مفعول)، وهو ما جعل بعض الباحثين يصنّفونها فئةً صرفية نحوية مستقلّة تماماً عن الاتفاق الفعلي القياسي.
+
+## الأهمية النظرية
+
+تقدّم المسنِداتُ التصنيفية دليلاً حاسماً على أن لغات الإشارة تمتلك نظماً صرفية نحوية مستقلّة معقّدة لا تُختزل إلى إيماءٍ تمثيلي، وأثارت نقاشاً نظرياً واسعاً حول حدود التصنيف الصرفي التقليدي (تصريفٌ أم اشتقاق؟) حين يُطبَّق على وسيطٍ مكانيٍّ-بصري لا يملك مقابلاً مباشراً في اللغات المنطوقة.
+
+## المصادر
+
+- Supalla, T. (1982). *Structure and Acquisition of Verbs of Motion and Location in American Sign Language*. PhD dissertation, UC San Diego.
+- Emmorey, K. (Ed.) (2003). *Perspectives on Classifier Constructions in Sign Languages*. Lawrence Erlbaum Associates.
+- Emmorey, K., & Herzig, M. (2003). "Categorical versus gradient properties of classifier constructions in ASL." In Emmorey (Ed.), *Perspectives on Classifier Constructions*.
+- Aronoff, M., Meir, I., & Sandler, W. (2005). "The paradox of sign language morphology." *Language*, 81(2), 301-344.
 

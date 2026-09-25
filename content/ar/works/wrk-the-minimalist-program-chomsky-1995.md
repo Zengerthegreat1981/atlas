@@ -27,58 +27,31 @@ gaps:
 
 # البرنامجُ الأدنويّ (كتاب 1995)
 
-## Definition and Overview
+كتابُ نعوم تشومسكي الصادر سنة 1995 عن مطبعة معهد ماساتشوستس للتقنية، الذي يجمع مقالاتٍ كتبها تشومسكي مطلع التسعينيات ليقدّم بها إعادة توجيهٍ جذرية للنظرية التوليدية بعد مرحلة «نظرية الحكم والربط» (Government and Binding)، مفتتحاً بذلك مرحلة **البرنامج الأدنوي** (Minimalist Program) التي هيمنت على النحو التوليدي منذ ذلك الحين.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## من الوفرة إلى الاقتصاد
 
-## Theoretical Framework
+يمثّل الكتاب قطيعةً منهجية مع نماذج تشومسكي السابقة التي راكمت أدواتٍ تحليلية عديدة (مستويات تمثيلٍ متعددة، ومبادئ وقيود متخصصة لكل ظاهرة). يقترح تشومسكي بدلاً من ذلك برنامج بحثٍ يسأل: ما أدنى الأدوات النظرية الضرورية فعلاً لتفسير حقائق اللغة، دون افتراض آلياتٍ زائدة عن الحاجة؟ هذا السؤال الأدنوي ليس نظريةً بذاته بل **برنامجاً بحثياً** يُعاد بموجبه تقييم كل أداةٍ نظرية سابقة: هل هي ضرورية حقاً أم يمكن استبدالها بمبدأٍ أبسط؟
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## عملية الدمج
 
-## Key Mechanisms
+يقدّم الكتاب **الدمج** (Merge) عمليةً حوسبية أولية واحدة تبني كل البنى النحوية بتكرار تطبيقها: تأخذ عنصرَين (كلمتين أو بنيتَين مبنيتَين مسبقاً) وتدمجهما في وحدةٍ أكبر. يستبدل هذا المفهوم البسيط الأدواتِ المتعددة التي كانت تُستخدَم سابقاً لبناء البنية العباراتية والتحويلات النحوية، فتُعامَل حتى الحركة النحوية (كحركة الفاعل أو أداة الاستفهام) نوعاً خاصاً من الدمج (Internal Merge) لا عملية منفصلة.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## البنية العباراتية المجرَّدة والاقتصاد الاشتقاقي
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+يطوّر الكتاب أيضاً «البنية العباراتية المجرَّدة» (Bare Phrase Structure)، التي تستغني عن الافتراضات الزائدة لنظرية X-bar التقليدية، ويقترح **مبادئ اقتصادٍ اشتقاقي** (Economy Principles) تفضّل الاشتقاقات الأقل تكلفةً حوسبياً بين البدائل الممكنة (كتفضيل الحركة الأقصر مسافةً، أو تأخير العمليات ما أمكن)، منطلقاً من افتراضٍ أوسع بأن اللغة نظامٌ يميل إلى **الكفاءة الحوسبية المثلى** في الربط بين الصوت والمعنى.
 
-## Experimental Evidence
+## واجهات الصوت والمعنى
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+يؤكد الكتاب أن التبرير الحقيقي لأي مبدأ نحوي يجب أن يأتي من **شروط الملاءمة للواجهة** (Interface Conditions): متطلبات النظامين الخارجيين اللذين تتفاعل معهما ملَكة اللغة، الواجهة الصوتية (PHON) والواجهة الدلالية (SEM)، لا من افتراضاتٍ نحوية داخلية معزولة، وهو ما مهّد لاحقاً لأطروحة تشومسكي عن «العوامل الثلاثة» (2005) وربط النحو بمبادئ الكفاءة الحوسبية العامة.
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+## الأثر
 
-## Cross-Linguistic Applications
+أصبح هذا الكتاب النص التأسيسي للمرحلة الحالية من النحو التوليدي، وأعاد تشكيل أجندة البحث النحوي بأكملها نحو أسئلةٍ أكثر تجريداً حول طبيعة الحوسبة اللغوية، وإن ظلّ نصاً صعب القراءة نسبياً استدعى شروحاً وتبسيطاتٍ لاحقة عديدة (كأعمال أندرو رادفورد وسيدريك بويكس) لتقريبه من طلاب اللسانيات.
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
+## المصادر
 
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Chomsky, Noam. *The Minimalist Program*. MIT Press, 1995.
+- Chomsky, Noam. "Three Factors in Language Design." *Linguistic Inquiry*, 36(1), 2005.
+- Radford, Andrew. *Minimalist Syntax: Exploring the Structure of English*. Cambridge University Press, 2004.
+- Boeckx, Cedric. *Bare Syntax*. Oxford University Press, 2008.

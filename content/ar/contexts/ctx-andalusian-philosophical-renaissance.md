@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-islamic-peripatetic", target_type: "مدرسة"
 related:
+- id: "thk-ibn-bajjah", title: "ابن باجة (أبو بكر بن الصائغ)", type: "مفكر"
 - id: "thk-ibn-tufayl", title: "أبو بكر محمد بن عبد الملك بن طفيل", type: "مفكر"
 - id: "thk-ibn-rushd", title: "أبو الوليد محمد بن أحمد بن رشد", type: "مفكر"
 - id: "ctx-damascus-umayyad-administration", title: "دمشق الأموية وبدايات تعريب الدواوين وتلاقح الحضارات المتوسطية", type: "سياق/تقليد"

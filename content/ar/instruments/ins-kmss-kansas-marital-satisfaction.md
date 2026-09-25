@@ -9,210 +9,210 @@ related_programs:
   - tec-prep-program
 ---
 
-# KMSS: Kansas Marital Satisfaction Scale
+# KMSS: مقياس كنساس للرضا الزواجي (Kansas Marital Satisfaction Scale)
 
-The Kansas Marital Satisfaction Scale (KMSS) is an ultra-brief, three-item self-report measure of overall marital satisfaction and quality. Developed as a quick screening tool for couple satisfaction and marital distress, the KMSS provides efficient assessment when time is limited or when brief repeated measurements are needed throughout therapy.
+مقياس كنساس للرضا الزواجي (KMSS) أداة تقرير ذاتي فائقة الإيجاز من ثلاثة بنود للرضا وجودة الزواج بشكل عام. طُوّر كأداة فرز سريعة لرضا الزوجين والاضطراب الزواجي، ويوفر KMSS تقييماً فعالاً عند ضيق الوقت أو الحاجة إلى قياسات موجزة متكررة عبر مراحل العلاج.
 
-## Development & Purpose
+## التطوير والغرض
 
-**Developers:** William Schumm (Kansas State University, 1985)
+**المطوّر:** ويليام شوم (William Schumm) (جامعة ولاية كنساس، 1985)
 
-**Original goal:** Create briefest possible reliable measure of marital satisfaction for research and clinical use
+**الهدف الأصلي:** إنشاء أوجز مقياس موثوق ممكن للرضا الزواجي للاستخدام البحثي والسريري
 
-**Philosophy:** Essential three core questions capture overall satisfaction without lengthy administration
+**الفلسفة:** ثلاثة أسئلة جوهرية تلتقط الرضا العام دون تطبيق مطوّل
 
-**Practical use:** Designed for repeated measurement, quick screening, and integration into longer assessments
+**الاستخدام العملي:** مصمم للقياس المتكرر والفرز السريع والدمج في تقييمات أطول
 
-## Format & Content
+## الصيغة والمحتوى
 
-**Number of items:** 3 items
+**عدد البنود:** 3 بنود
 
-**Items:**
-1. "How satisfied are you with your marriage?"
-2. "How satisfied are you with your spouse as a life partner?"
-3. "How satisfied are you with your relationship with your spouse?"
+**البنود:**
+1. "ما مدى رضاك عن زواجك؟"
+2. "ما مدى رضاك عن زوجك/زوجتك كشريك حياة؟"
+3. "ما مدى رضاك عن علاقتك بزوجك/زوجتك؟"
 
-**Response scale:** Typically 1-7 or 1-10 Likert scale (from "extremely dissatisfied" to "extremely satisfied")
+**مقياس الاستجابة:** عادة مقياس ليكرت من 1-7 أو 1-10 (من "غير راضٍ إطلاقاً" إلى "راضٍ للغاية")
 
-**Administration time:** <1 minute
+**زمن التطبيق:** أقل من دقيقة واحدة
 
-**Format:** Self-administered, paper, computer, or verbal
+**الصيغة:** ذاتي التطبيق، ورقي أو حاسوبي أو شفهي
 
-**Languages:** Validated in English; translations available in multiple languages
+**اللغات:** متحقَّق منه بالإنجليزية؛ ترجمات متاحة بلغات متعددة
 
-**Group vs. individual:** Can be administered to one partner or both (allows dyadic comparison)
+**جماعي مقابل فردي:** يمكن تطبيقه على أحد الشريكين أو كليهما (يتيح المقارنة الثنائية)
 
-## Scoring
+## التصحيح
 
-**Simple average of three items:** Sum divided by 3, or mean of three responses
+**متوسط بسيط للبنود الثلاثة:** المجموع مقسوماً على 3، أو متوسط الاستجابات الثلاث
 
-**Total score range:** 1-7 or 1-10 depending on response scale
+**مدى الدرجة الكلية:** 1-7 أو 1-10 حسب مقياس الاستجابة
 
-**Interpretation:**
-- **High scores (>5 on 7-point scale, >7 on 10-point):** satisfied with marriage
-- **Moderate scores (3-5):** ambivalent or mixed satisfaction
-- **Low scores (<3):** marital distress, dissatisfaction
-- **Dyadic discrepancy:** difference >2 points between partners significant
+**التفسير:**
+- **درجات مرتفعة** (أكثر من 5 على مقياس من 7، أكثر من 7 على مقياس من 10): راضٍ عن الزواج
+- **درجات متوسطة (3-5):** رضا متأرجح أو مختلط
+- **درجات منخفضة (أقل من 3):** اضطراب زواجي، عدم رضا
+- **التباين الثنائي:** فرق أكبر من نقطتين بين الشريكين ذو دلالة
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-### Reliability
-- **Internal consistency:** Cronbach's alpha typically .84-.92 (very good for 3-item measure)
-- **Test-retest:** correlation .70+, indicating stable measurement
-- **Inter-rater reliability:** consistent agreement between couple members (with expected differences)
+### الثبات
+- **الاتساق الداخلي:** ألفا كرونباخ عادة 0.84-0.92 (جيد جداً لمقياس من 3 بنود)
+- **ثبات الإعادة:** ارتباط 0.70 فأعلى، يشير إلى قياس مستقر
+- **ثبات بين المقيَّمين:** اتفاق متسق بين أفراد الزوجين (مع فروق متوقعة)
 
-### Validity
-- **Concurrent validity:** correlates well with longer marital satisfaction measures (r=.80+)
-- **Predictive validity:** satisfaction scores predict later divorce and marital stability
-- **Criterion validity:** distinguishes satisfied from dissatisfied couples
-- **Sensitivity:** detects change in satisfaction before and after intervention
+### الصدق
+- **الصدق التلازمي:** يرتبط جيداً بمقاييس رضا زواجي أطول (r=0.80 فأعلى)
+- **الصدق التنبؤي:** درجات الرضا تتنبأ بالطلاق لاحقاً والاستقرار الزواجي
+- **صدق المحك:** يميّز الأزواج الراضين عن غير الراضين
+- **الحساسية:** يكشف تغير الرضا قبل التدخل وبعده
 
-### Psychometric Advantages of Ultra-Brief Measure
-- **High reliability despite brevity:** three items sufficient for internal consistency
-- **Practical:** efficient for clinical use
-- **Repeated administration:** low burden for frequent measurement
-- **Comparable to longer measures:** correlates highly with comprehensive scales
+### المزايا السيكومترية للمقياس فائق الإيجاز
+- **ثبات مرتفع رغم الإيجاز:** ثلاثة بنود كافية للاتساق الداخلي
+- **عملي:** فعال للاستخدام السريري
+- **تطبيق متكرر:** عبء منخفض للقياس المتكرر
+- **قابل للمقارنة مع مقاييس أطول:** يرتبط ارتباطاً عالياً بالمقاييس الشاملة
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### Premarital Counseling Screening
-- Quick assessment of baseline satisfaction in engaged couples
-- Repeated measurement before and after PREPARE/ENRICH or PREP programs
-- Identifies couples at risk for dissatisfaction requiring additional attention
+### الفرز في الإرشاد قبل الزواج
+- تقييم سريع لخط أساس الرضا لدى الأزواج المخطوبين
+- قياس متكرر قبل برامج PREPARE/ENRICH أو PREP وبعدها
+- تحديد الأزواج المعرّضين لخطر عدم الرضا ممن يحتاجون اهتماماً إضافياً
 
-### Marital Therapy Progress Monitoring
-- Baseline before therapy begins
-- Repeated every 1-2 weeks or monthly to track satisfaction trajectory
-- Low-burden measurement allows frequent monitoring
-- Visible progress charts motivate couples
+### رصد التقدم في العلاج الزواجي
+- خط أساس قبل بدء العلاج
+- تكرار كل أسبوع أو أسبوعين أو شهرياً لتتبع مسار الرضا
+- القياس منخفض العبء يتيح رصداً متكرراً
+- الرسوم البيانية المرئية للتقدم تحفّز الأزواج
 
-### Research Applications
-- Outcome studies of couple interventions
-- Longitudinal studies with multiple measurement points
-- Feasible for lengthy studies when brief measure reduces burden
-- International research: simple measure translates well across cultures
+### التطبيقات البحثية
+- دراسات نتائج تدخلات الأزواج
+- دراسات طولية بنقاط قياس متعددة
+- ملائم للدراسات الطويلة حيث يقلل المقياس الموجز العبء
+- البحث الدولي: المقياس البسيط يُترجم جيداً عبر الثقافات
 
-### Quick Screening
-- Intake assessment when time limited
-- Emergency room or crisis situations
-- Community screening or public health contexts
-- Brief therapy or coaching settings
+### الفرز السريع
+- تقييم الاستقبال عند ضيق الوقت
+- غرفة الطوارئ أو حالات الأزمة
+- الفرز المجتمعي أو سياقات الصحة العامة
+- إعدادات العلاج الموجز أو التدريب
 
-### Couples Checking in on Relationship
-- Can be used between sessions as homework
-- Provides numerical tracking of satisfaction
-- Discussion starter ("Scores went down this week—what's happening?")
+### متابعة الأزواج لعلاقتهم
+- يمكن استخدامه بين الجلسات كواجب منزلي
+- يوفر تتبعاً رقمياً للرضا
+- نقطة انطلاق للنقاش ("انخفضت الدرجات هذا الأسبوع - ماذا يحدث؟")
 
-## Interpretation & Use in Therapy
+## التفسير والاستخدام في العلاج
 
-### Individual Scores
-- **Both partners high (>5):** satisfied couple; focus on maintenance or specific issues
-- **Both partners moderate (3-5):** some concerns; explore specifics to target intervention
-- **Both partners low (<3):** significant distress; assess safety and refer if needed
-- **Discrepant scores** (gap >1-2): differing perceptions; explore "Why the difference?"
+### الدرجات الفردية
+- **كلا الشريكين مرتفع (أكثر من 5):** زوجان راضيان؛ التركيز على الحفاظ على الوضع أو مسائل محددة
+- **كلا الشريكين متوسط (3-5):** بعض المخاوف؛ استكشاف التفاصيل لاستهداف التدخل
+- **كلا الشريكين منخفض (أقل من 3):** اضطراب كبير؛ تقييم السلامة والإحالة عند الحاجة
+- **درجات متباينة** (فرق 1-2 فأكثر): تصورات مختلفة؛ استكشاف "لماذا هذا الاختلاف؟"
 
-### Dyadic Patterns
-- **Parallel high scores:** happy couple
-- **Parallel low scores:** unhappy couple (shared perspective)
-- **Divergent scores:** one satisfied, one not—may signal hidden resentment, communication issues, or one partner minimizing
+### الأنماط الثنائية
+- **درجات مرتفعة متوازية:** زوجان سعيدان
+- **درجات منخفضة متوازية:** زوجان غير سعيدين (منظور مشترك)
+- **درجات متباعدة:** أحدهما راضٍ والآخر غير راضٍ - قد يشير إلى استياء مخفي، مشكلات تواصل، أو تقليل أحد الشريكين من شأن المشكلة
 
-### Change Patterns Over Time
-- **Steady increase:** positive therapy impact; intervention working
-- **Stable with small fluctuations:** maintenance; relationship stable but not improving
-- **Decrease:** intervention not helping; reassess approach
-- **Sudden drop:** something triggered upset; explore recent events
+### أنماط التغير عبر الزمن
+- **ارتفاع مطرد:** أثر إيجابي للعلاج؛ التدخل يعمل
+- **استقرار مع تذبذبات طفيفة:** حفاظ على الوضع؛ علاقة مستقرة لكن دون تحسن
+- **انخفاض:** التدخل لا يساعد؛ إعادة تقييم النهج
+- **انخفاض مفاجئ:** شيء أثار انزعاجاً؛ استكشاف الأحداث الأخيرة
 
-## Strengths & Limitations
+## نقاط القوة وأوجه القصور
 
-### Strengths
-- **Ultra-brief:** <1 minute administration and scoring
-- **Reliable:** excellent psychometric properties for 3-item measure
-- **Valid:** correlates with longer measures, predicts divorce
-- **Practical:** efficient for repeated measurement in therapy
-- **Low burden:** doesn't fatigue participants with lengthy questionnaires
-- **Free:** public domain, no cost
-- **Accessible:** simple language, easy to understand
-- **International:** translates well across cultures
+### نقاط القوة
+- **فائق الإيجاز:** تطبيق وتصحيح في أقل من دقيقة
+- **موثوق:** خصائص سيكومترية ممتازة لمقياس من 3 بنود
+- **صادق:** يرتبط بمقاييس أطول ويتنبأ بالطلاق
+- **عملي:** فعال للقياس المتكرر أثناء العلاج
+- **عبء منخفض:** لا يُرهق المشاركين باستبيانات مطوّلة
+- **مجاني:** في الملكية العامة، بلا تكلفة
+- **سهل الوصول:** لغة بسيطة وسهلة الفهم
+- **دولي:** يُترجم جيداً عبر الثقافات
 
-### Limitations
-- **Global only:** captures overall satisfaction but not specific dimensions (sexual, financial, communication satisfaction)
-- **Lacks detail:** doesn't identify why satisfaction is low or what needs work
-- **Floor/ceiling effects:** some evidence of bunching at extreme responses in highly satisfied or dissatisfied groups
-- **Missing dimensions:** doesn't assess commitment, stability, conflict patterns, intimacy separately
-- **Social desirability:** couples may inflate or understate satisfaction
-- **Momentary:** captures satisfaction "right now" which may fluctuate with recent events
-- **No diagnostic information:** tells you satisfaction level but not underlying problems
+### أوجه القصور
+- **عام فقط:** يلتقط الرضا الكلي لكن ليس الأبعاد المحددة (الجنسية، المالية، رضا التواصل)
+- **يفتقر إلى التفصيل:** لا يحدد سبب انخفاض الرضا أو ما يحتاج إلى عمل
+- **أثر الأرضية/السقف:** بعض الأدلة على التكتل عند الاستجابات المتطرفة لدى المجموعات شديدة الرضا أو عدم الرضا
+- **أبعاد مفقودة:** لا يقيّم الالتزام أو الاستقرار أو أنماط النزاع أو الحميمية بشكل منفصل
+- **المرغوبية الاجتماعية:** قد يبالغ الأزواج في الرضا أو يقللون منه
+- **آني:** يلتقط الرضا "الآن" الذي قد يتذبذب مع الأحداث الأخيرة
+- **لا معلومات تشخيصية:** يُخبرك بمستوى الرضا لكن ليس بالمشكلات الكامنة
 
-## Comparison with Other Brief Measures
+## المقارنة مع مقاييس موجزة أخرى
 
-**Similar brief satisfaction measures:**
-- **Couples Satisfaction Index (CSI):** 4-item, 12-item, or single-item versions; more recent development
-- **ENRICH Marital Satisfaction Scale:** 4-10 items; part of ENRICH comprehensive program
-- **Visual Analog Scale:** single rating on visual spectrum (very quick but less quantifiable)
+**مقاييس رضا موجزة مشابهة:**
+- **مؤشر رضا الأزواج (CSI):** نسخ من 4 بنود أو 12 بنداً أو بند واحد؛ تطوير أحدث
+- **مقياس ENRICH للرضا الزواجي:** 4-10 بنود؛ جزء من برنامج ENRICH الشامل
+- **المقياس التناظري البصري:** تقدير واحد على طيف بصري (سريع جداً لكن أقل قابلية للتكميم)
 
-**KMSS advantages:**
-- Three questions balanced for breadth
-- Excellent psychometric properties
-- Free and public domain
-- Extensive validation literature
+**مزايا KMSS:**
+- ثلاثة أسئلة متوازنة من حيث الشمول
+- خصائص سيكومترية ممتازة
+- مجاني وفي الملكية العامة
+- أدبيات تحقق واسعة
 
-**KMSS limitations:**
-- Older instrument (1985) vs. newer CSI
-- Less flexibility than CSI single-item option
-- No dimensional information
+**أوجه قصور KMSS:**
+- أداة أقدم (1985) مقارنة بـCSI الأحدث
+- مرونة أقل من خيار البند الواحد في CSI
+- لا معلومات بعدية
 
-## Use in Major Studies & Programs
+## الاستخدام في الدراسات والبرامج الكبرى
 
-### Couple Intervention Outcome Research
-- Frequently used in PREPARE/ENRICH outcome studies
-- Marital therapy effectiveness studies
-- Premarital education program evaluation
+### بحث نتائج تدخلات الأزواج
+- يُستخدم بكثرة في دراسات نتائج PREPARE/ENRICH
+- دراسات فعالية العلاج الزواجي
+- تقييم برامج التثقيف قبل الزواج
 
-### Repeated Measurement Design
-- Perfect for weekly or bi-weekly measurement
-- Tracks trajectory of satisfaction across months of therapy
-- Visualizes progress for couples
+### تصميم القياس المتكرر
+- مثالي للقياس الأسبوعي أو نصف الأسبوعي
+- يتتبع مسار الرضا عبر أشهر العلاج
+- يُظهر التقدم بصرياً للأزواج
 
-### Cross-Cultural Research
-- Simple language translates well
-- Used in international studies on marital satisfaction
-- Comparable scores across cultures when adapted appropriately
+### البحث عبر الثقافات
+- اللغة البسيطة تُترجم جيداً
+- يُستخدم في دراسات دولية عن الرضا الزواجي
+- درجات قابلة للمقارنة عبر الثقافات عند التكييف المناسب
 
-## Practical Guidelines for Clinicians
+## إرشادات عملية للإكلينيكيين
 
-**Administration:**
-- Explain: "This helps us track how you're doing together"
-- Both partners complete independently for comparison
-- Can be verbal or written
-- Takes seconds
+**التطبيق:**
+- الشرح: "هذا يساعدنا على تتبع كيف تسير الأمور بينكما"
+- يكمل كل من الشريكين الاستبيان بشكل مستقل للمقارنة
+- يمكن أن يكون شفهياً أو مكتوباً
+- يستغرق ثوانٍ
 
-**Scoring:**
-- Average the three responses
-- Or use sum if tracking that way; consistent method important
+**التصحيح:**
+- حساب متوسط الاستجابات الثلاث
+- أو استخدام المجموع إذا كان هذا هو أسلوب التتبع؛ الأهم هو الاتساق في الطريقة
 
-**Interpretation:**
-- Discuss results together
-- Ask about recent changes if scores shifted
-- Use low scores to identify specific concerns
+**التفسير:**
+- مناقشة النتائج معاً
+- السؤال عن التغيرات الأخيرة إذا تحولت الدرجات
+- استخدام الدرجات المنخفضة لتحديد مخاوف محددة
 
-**Tracking:**
-- Graph scores over time (visible progress motivating)
-- Watch for trends (generally up, down, or stable)
-- Celebrate improvement; problem-solve decline
+**التتبع:**
+- رسم بياني للدرجات عبر الزمن (التقدم المرئي محفّز)
+- مراقبة الاتجاهات (صاعدة عموماً، هابطة، أو مستقرة)
+- الاحتفاء بالتحسن؛ معالجة أسباب التراجع
 
-## Primary Sources & Resources
+## المصادر
 
 1. Schumm, W.R. (1985). Beyond dollars: The Kansas marital satisfaction scale. Kansas State University, Department of Human Services.
 2. Schumm, W.R., Paff-Bergen, L.A., Hatch, R.C., Obiaka, F.C., Copeland, J.M., Meens, L.D., & Bugaighis, M.A. (1986). Concurrent and discriminant validity of the Kansas Marital Satisfaction Scale. Journal of Marriage and Family, 48(2), 381-387.
 3. Funk, J.L., & Rogge, R.D. (2007). Testing the ruler with item response theory: Increasing precision of measurement for relationship satisfaction with the couples satisfaction index. Journal of Family Psychology, 21(4), 572-583.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Marital satisfaction
-- Relationship quality
-- Couple assessment
-- Progress monitoring
-- Repeated measurement
-- Intervention outcome
-- Dyadic assessment
-- Brief measures
+- الرضا الزواجي
+- جودة العلاقة
+- تقييم الأزواج
+- رصد التقدم
+- القياس المتكرر
+- نتائج التدخل
+- التقييم الثنائي
+- المقاييس الموجزة

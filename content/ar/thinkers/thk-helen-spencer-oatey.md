@@ -27,58 +27,26 @@ gaps:
 
 # هيلين سپنسر-أوتي
 
-## Definition and Overview
+لغويّةٌ تداوليةٌ بريطانية، أستاذةٌ فخرية في مركز اللسانيات التطبيقية بجامعة واريك، جمعت في تكوينها الأكاديمي بين علم النفس الاجتماعي والتداولية اللغوية، واشتهرت بتطوير إطار «إدارة الوئام» (Rapport Management)، أحد أهم الامتدادات النقدية لنظرية التأدّب الكلاسيكية عند براون وليفنسون.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## الخبرة الميدانية بين الثقافات
 
-## Theoretical Framework
+شكّلت خبرتها العملية الطويلة خارج بريطانيا — العمل في النمسا، ثم الإقامة والعمل في هونغ كونغ وشنغهاي — نقطة انطلاقٍ محورية لبحثها: لاحظت سپنسر-أوتي كيف ينشأ سوء الفهم بين المتخاطبين من خلفياتٍ ثقافية مختلفة لا بسبب أخطاءٍ لغوية صريحة، بل بسبب تباين توقعاتهم الضمنية حول كيفية إدارة العلاقة الاجتماعية أثناء التخاطب، وهو ما دفعها لاحقاً لتأسيس أول برنامج ماجستير بريطاني متخصص في التواصل بين الثقافات بجامعة لوتون (بيدفوردشير حالياً)، بعد إكمال دكتوراهها في جامعة لانكستر.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## نقد نظرية التأدّب الكلاسيكية
 
-## Key Mechanisms
+انطلقت سپنسر-أوتي من نقدٍ منهجي لإطار براون وليفنسون: رأت أنه يختزل التخاطب الاجتماعي إلى مجرد إدارة تهديدات «الوجه» الفردي في لحظاتٍ منعزلة، متجاهلاً أن التواصل الإنساني يخدم أيضاً أهدافاً علائقية أوسع لا ترتبط بالضرورة بتجنّب تهديدٍ ما، وأن مفهوم «الوجه» الفردي بصيغته الغربية لا يفسّر بالقدر الكافي أنماط التأدّب في ثقافاتٍ ذات توجّهٍ جماعي أكثر.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## إدارة الوئام
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+طرحت في كتابها *Culturally Speaking: Managing Rapport through Talk across Cultures* (2000) إطار «إدارة الوئام» (Rapport Management)، الذي يوسّع التحليل من التخفيف من تهديدات الوجه إلى العملية المستمرة الأشمل لإقامة العلاقة الاجتماعية وصونها وتعزيزها وإصلاحها عند تعطّلها. ميّزت في هذا الإطار بين عدة أبعادٍ متفاعلة تحدد نجاح التخاطب بين الثقافات: حساسية الوجه، والحقوق والالتزامات الاجتماعية المتوقَّعة، وأهداف التفاعل الخاصة بكل موقف، فقدّمت بذلك أداةً تحليلية أكثر مرونةً لدراسة التواصل بين الثقافات من الإطار الثنائي (وجهٌ إيجابي/سلبي) الأصلي.
 
-## Experimental Evidence
+## الأثر التطبيقي
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+وسّعت سپنسر-أوتي أبحاثها لاحقاً نحو الكفاءة بين الثقافية (Intercultural Competence) والعلاقات في بيئة العمل، وأدارت برنامج التعلّم الإلكتروني الصيني-البريطاني الممول من مجلس التمويل العالي الإنجليزي (2002)، قبل أن تتولى إدارة قسم اللسانيات التطبيقية بجامعة واريك حتى تقاعدها سنة 2020، تاركةً إرثاً بحثياً يُستخدَم اليوم على نطاقٍ واسع في تدريب الكفاءة بين الثقافية عملياً لا أكاديمياً فقط.
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+## المصادر
 
-## Cross-Linguistic Applications
-
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Spencer-Oatey, Helen (ed.). *Culturally Speaking: Managing Rapport through Talk across Cultures*. Continuum, 2000.
+- Spencer-Oatey, Helen. "Rapport Management: A Framework for Analysis." In *Culturally Speaking*, 2nd ed. Continuum, 2008.
+- Spencer-Oatey, Helen, & Franklin, Peter. *Intercultural Interaction: A Multidisciplinary Approach to Intercultural Communication*. Palgrave Macmillan, 2009.

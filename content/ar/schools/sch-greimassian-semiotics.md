@@ -36,35 +36,33 @@ gaps: []
 
 # سيمياءُ غريماس والمربّعُ السيميائي
 
-## Definition
+مدرسةٌ فرنسية في السيمياء البنيوية أسّسها اللغوي الليتواني الأصل **ألجيرداس غريماس**، أحد أبرز رواد «مدرسة باريس للسيمياء»، بهدف بناء نظريةٍ صورية شاملة للمعنى تتجاوز تحليل الجملة المفردة إلى تحليل بنية الخطاب والسرد بكامله، اعتماداً على أدوات البنيوية السوسيرية ونظرية الأصوات المتقابلة عند ياكوبسون، وبتأثرٍ مباشر من عالم الفولكلور الروسي ﭬلاديمير بروب ودراسته البنيوية للحكاية الشعبية.
 
-Semantics studies meaning in language. How do words and sentences refer to the world? How do speakers and listeners derive meaning? Semantics differs from phonetics (sound study) and syntax (structure study) by focusing on meaning-world relationships.
+## الدلالة البنيوية وأصل المشروع
 
-## Theoretical Approaches
+وضع غريماس أسس مشروعه في كتابه المؤسِّس *Sémantique Structurale* (الدلالة البنيوية، 1966)، حيث اقترح أن المعنى لا يُدرَك إلا بالتقابل، وأن «البنية الأولية للمعنى» (Structure Élémentaire de la Signification) تتشكّل من علاقات تضادٍ وتناقضٍ بسيطة بين وحداتٍ دلالية صغرى أسماها «السيمات» (Sèmes)، على غرار السمات المميِّزة في الصواتة البنيوية.
 
-Formal semantics (Montague, Frege) treats meaning compositionally: sentence meanings derive from word meanings and syntactic structure. Cognitive semantics (Lakoff) emphasizes embodied meaning shaped by how we experience the world. Pragmatic approaches add context dependence—meaning depends on speaker intention and listener inference.
+## المربّع السيميائي
 
-## Core Concepts
+أشهر أدوات غريماس هي **المربّع السيميائي** (Carré Sémiotique)، المستمَدّ من مربّع التقابل الأرسطي، ويُصوَّر بأربعة قطبٍ مترابطة منطقياً: حدّان متضادّان (كـ«الحياة» و«الموت»)، ونقيضاهما (كـ«اللاحياة» و«اللاموت»)، بحيث تنشأ من هذه العلاقات الأربع (التضاد، والتناقض، والتضمّن) بنيةٌ منطقية دقيقة يرى غريماس أنها «البنية الأولية للمعنى» الكامنة وراء أي نصٍّ أو خطاب، سرديّاً كان أو غير سردي.
 
-- Reference: What does a word refer to?
-- Sense: How does a word relate to other words?
-- Entailment: What must be true if a statement is true?
-- Presupposition: What background assumptions does a statement carry?
+## النموذج العاملي للسرد
 
-## Mechanisms
+طبّق غريماس أدواته على السرد فطوّر «النموذج العاملي» (Modèle Actantiel)، الذي يحلّل أي حكايةٍ إلى ست وظائف بنيوية («عوامل» Actants) بصرف النظر عن هوية الشخصيات الفعلية: الذات الساعية (Sujet) والموضوع المرغوب (Objet)، والمرسِل والمرسَل إليه (Destinateur/Destinataire)، والمساعد والمعارض (Adjuvant/Opposant). واستمدّ غريماس هذا النموذج من تنقيح «الوظائف السردية الواحدة والثلاثين» التي وضعها بروب لتحليل الحكاية الشعبية الروسية، مختزلاً إياها إلى بنيةٍ عامليةٍ أكثر تجريداً وقابلية للتعميم على أي خطاب.
 
-Meaning composition: "The dog chased the cat" means the same referent of "the dog" performed the action "chased" on the referent of "the cat." Extensions (what terms refer to) and intensions (abstract meanings) interact in deriving sentence meanings.
+## البرنامج السردي والإيزوتوپيا
 
-## Cross-linguistic Evidence
+طوّر غريماس أيضاً مفهوم «البرنامج السردي» (Programme Narratif) لوصف تحوّل الذات من حالة نقصٍ إلى حالة اكتمال عبر مراحل الكفاءة والأداء والجزاء، ومفهوم «الإيزوتوپيا» أو التماثل الدلالي (Isotopy)، أي تكرار سيماتٍ دلاليةٍ معينة عبر النص بما يضمن اتساقه وقابليته للتأويل الموحَّد. وفي مرحلةٍ لاحقة، أضاف «السيمياء الموجِّهية» (Sémiotique Modale)، التي تحلّل أفعال الذات السردية عبر أربعة أنماطٍ موجِّهة: الإرادة (Vouloir) والقدرة (Pouvoir) والمعرفة (Savoir) والوجوب (Devoir).
 
-Languages map meanings to forms differently. English "blue" covers colors distinguished in Russian (goluboy vs. siniy). Some languages lack count/mass distinction English marks with "a." These differences show how languages carve up semantic space.
+## الاستمرار مع فونتانيّ وكورتيس
 
-## Contemporary Applications
+طوّر تلامذة غريماس، وأبرزهم **جوزيف كورتيس**، الذي شاركه تأليف *Sémiotique: Dictionnaire raisonné* المرجع الاصطلاحي للمدرسة، و**جاك فونتانيّ**، الذي وسّع الإطار نحو «السيمياء الشِّعرية» (Sémiotique du Sensible) المعنية بالانفعال والجسد، مؤكدين استمرارية مدرسة باريس بعد غريماس مع انفتاحها على أبعادٍ لم تكن حاضرةً في صياغته الأولى الأكثر صورية وجفافاً منطقياً.
 
-Machine translation, question-answering, and dialog systems all rely on semantic frameworks. Understanding when "bank" means financial institution versus river bank requires semantic knowledge.
+## المصادر
 
-## References
-
-- Frege, G. (1892). "Über Sinn und Bedeutung." *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25-50.
-- Montague, R. (1974). *Formal Philosophy*. Yale University Press.
+- Greimas, Algirdas J. *Sémantique Structurale*. Larousse, 1966.
+- Greimas, Algirdas J., & Courtés, Joseph. *Sémiotique: Dictionnaire raisonné de la théorie du langage*. Hachette, 1979.
+- Propp, Vladimir. *Morphology of the Folktale*. University of Texas Press, 1968 (Russian original 1928).
+- Schleifer, Ronald. *A. J. Greimas and the Nature of Meaning*. Croom Helm, 1987.
+- Fontanille, Jacques. *Sémiotique du discours*. PULIM, 1998.
 

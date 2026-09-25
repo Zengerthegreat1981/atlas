@@ -36,31 +36,33 @@ gaps:
 
 # اللسانياتُ المعرفية
 
-## Definition
+تيارٌ في اللسانيات النظرية نشأ في أواخر السبعينيات وأوائل الثمانينيات في الولايات المتحدة، بوصفه ردة فعلٍ صريحة على النحو التوليدي التشومسكي وافتراضه استقلال البنية النحوية (Autonomy of Syntax) عن المعنى والإدراك العام. يفترض هذا التيار عكس ذلك تماماً: أن اللغة ليست ملَكةً معرفيةً منعزلة، بل انعكاسٌ مباشر لقدرات الإدراك العامة، وأن المعنى **متجسِّد** (Embodied)، أي متجذّرٌ في خبرة الجسد الحسية الحركية بالعالم لا في رموزٍ مجردة منفصلة عن الإدراك.
 
-Cognitive linguistics studies language as it relates to cognition. How do minds process language? How do linguistic structures reflect cognitive structures? The field bridges linguistics and cognitive science.
+## الانشقاق عن التوليدية: حروب اللسانيات
 
-## Key Areas
+نشأت اللسانيات المعرفية جزئياً من رحم ما عُرف بـ«حروب اللسانيات» (Linguistics Wars)، حين انشقّ عن تشومسكي في أواخر الستينيات باحثون تبنّوا «الدلالة التوليدية» (Generative Semantics)، وعلى رأسهم جورج لاكوف، الذي طالب بدمج الدلالة في صميم النحو بدل معاملتها مكوّناً تفسيرياً تابعاً. ومع انحسار الدلالة التوليدية كمدرسةٍ نحوية بحلول السبعينيات، أعاد لاكوف ومعه **رونالد لانغاكر** ولينارد تالمي توجيه هذا الاعتراض نحو مشروعٍ جديد كلياً يتجاوز الشكلنة التوليدية بأسرها.
 
-- Language comprehension: How do listeners parse sentences?
-- Language production: How do speakers formulate utterances?
-- Conceptual structure: How does language reflect thought?
-- Embodied cognition: How does physical experience shape language?
+## الاستعارة المفهومية
 
-## Processing
+قدّم لاكوف مع الفيلسوف مارك جونسون في كتابهما المحوري *Metaphors We Live By* (1980) أطروحة «الاستعارة المفهومية» (Conceptual Metaphor Theory): أن الاستعارة ليست زخرفاً بلاغياً بل آلية إدراكية أساسية نفهم بها المفاهيم المجردة عبر مجالاتٍ حسّية ملموسة (كفهم الزمن عبر المكان، والأهمية عبر الحجم، والحالات عبر الاحتواء)، وأن هذه «الخرائط» بين المجالات (Mappings) تنظّم جزءاً كبيراً من التفكير البشري نفسه لا اللغة وحدها.
 
-Readers and listeners incrementally build interpretations. Garden-path sentences temporarily mislead: "The horse raced past the barn fell" is difficult because "raced" initially seems like the main verb. Lexical ambiguity resolution shows context effects.
+## النحو المعرفي عند لانغاكر
 
-## Acquisition
+طوّر **رونالد لانغاكر** بالتوازي نموذجاً نحوياً بديلاً هو «النحو المعرفي» (Cognitive Grammar)، الذي يرفض الفصل بين المعجم والنحو ويعامل كل الوحدات اللغوية — من الفونيم إلى الجملة الكاملة — رموزاً ذات قطبٍ صوتي وقطبٍ دلالي معاً. ومن أدواته المركزية: **التأويل** (Construal)، وهو الطريقة التي يختار بها المتكلم تصوير المشهد الواحد؛ و**الملمح** (Profile) و**القاعدة** (Base)، وهما الجزء المُبرَز من المفهوم وخلفيته المعرفية الأوسع التي يُفهم على أساسها.
 
-Children gradually develop linguistic competence through exposure. Early vocabulary relates to frequency and concreteness. Morphological rules are learned gradually, showing overgeneralization ("goed," "childs").
+## النظرية النموذجية وعلم الدلالة الإدراكي
 
-## Neural Substrate
+استعارت اللسانيات المعرفية من عالمة النفس إليانور روش «نظرية النموذج» (Prototype Theory)، القائلة بأن فئات المعنى ليست حدوداً منطقية حادة بل تنتظم حول أمثلةٍ «نموذجية» أكثر تمثيلاً من غيرها (فالعصفور أقرب إلى نموذج «الطائر» من النعامة)، وهو ما فسّر ظواهر تصنيفية يصعب على الدلالة الصورية التقليدية تفسيرها.
 
-Brain areas: Broca's (speech production), Wernicke's (comprehension), left anterior language areas (grammar), right hemisphere (metaphor, discourse). Brain lesions affect language differently depending on location.
+## الأثر والامتداد
 
-## References
+توسّع هذا التيار ليشمل باحثين مثل **ستيفن ليفنسون** في دراسة العلاقة بين اللغة والمعرفة المكانية عبر الثقافات، و**ﭬيﭬيان إيڤانز** و**ميلاني غرين** في تأليف مراجع تأسيسية للحقل، كما أثّر في دراسات المحاكاة الصوتية الدلالية (كأثر بوبا-كيكي) التي تبحث عن روابط غير اعتباطية بين الصوت والمعنى، في مواجهة مبدأ اعتباطية العلامة اللغوية الذي أرسته البنيوية السوسيرية.
 
-- Culicover, P. W., & Jackendoff, R. (2005). *Simpler Syntax*. Oxford University Press.
-- Kemmerer, D. (2012). *Psychology of Language*. Springer.
+## المصادر
+
+- Lakoff, George, & Johnson, Mark. *Metaphors We Live By*. University of Chicago Press, 1980.
+- Langacker, Ronald W. *Foundations of Cognitive Grammar*, Vol. 1–2. Stanford University Press, 1987–1991.
+- Lakoff, George. *Women, Fire, and Dangerous Things: What Categories Reveal About the Mind*. University of Chicago Press, 1987.
+- Evans, Vyvyan, & Green, Melanie. *Cognitive Linguistics: An Introduction*. Edinburgh University Press, 2006.
+- Talmy, Leonard. *Toward a Cognitive Semantics*. MIT Press, 2000.
 

@@ -23,58 +23,33 @@ gaps:
 
 # وسمُ أقسام الكلام والتعليقُ النحوي على المدوّنات
 
-## Definition and Overview
+## التعريف
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+وسمُ أقسام الكلام (Part-of-Speech Tagging) عمليةٌ في لسانيات المدوّنات ومعالجة اللغة الطبيعية، تُلحِق بكل كلمةٍ في نصٍّ ما وسماً يحدِّد فئتَها النحوية (اسمٌ، فعلٌ، صفةٌ، حرفُ جرٍّ...) وأحياناً سماتٍ صرفية إضافية (زمنٌ، عددٌ، حالة)، مما يحوّل النصَّ الخام إلى مدوّنةٍ معلَّقة (Annotated Corpus) قابلة للبحث والتحليل اللغوي الكمّي المنهجي.
 
-## Theoretical Framework
+## البداياتُ اليدوية: مدوّنةُ براون
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+بدأت هذه الممارسةُ فعلياً مع مدوّنة براون (Brown Corpus)، أوّلِ مدوّنةٍ إلكترونية ممثِّلة للإنجليزية المعاصرة (1961)، التي وُسمت أقسامُ كلامها يدوياً على مدى سنواتٍ طويلة بمساعدة برنامجٍ حاسوبي أوّلي حقّق دقّةً أولية نحو 70% فقط، ثم صُحِّحت النتائجُ يدوياً بمراجعاتٍ متكرّرة حتى وصلت إلى دقّةٍ شبه كاملة بحلول أواخر السبعينيات، مستخدمةً مجموعةَ وسومٍ (Tagset) مفصَّلة بلغت نحو 87 وسماً.
 
-## Key Mechanisms
+## مشروعُ بنك الأشجار في پنسلڤانيا
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+طوّرت هذا الجهدَ لاحقاً مجموعةُ بنك الأشجار في جامعة پنسلڤانيا (Penn Treebank)، التي وسمت مدوّنةً ضخمة تضمّ أكثرَ من 4.5 مليون كلمة، مستخدمةً مجموعةَ وسومٍ أبسط بكثير (36 وسماً فقط مقارنةً بمئات الوسوم في مدوّنة براون)، سعياً وراء تقليل التكرار وزيادة الاتساق الإحصائي بين فئات الوسوم، إضافةً إلى وسمِ جزءٍ كبير من المدوّنة ببنيةٍ نحوية شجرية كاملة (Syntactic Parsing) لا مجرّد وسمٍ لفظي مفرد.
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+## من الوسم اليدوي إلى الوسم الآلي الإحصائي
 
-## Experimental Evidence
+مع تراكم المدوّنات الموسومة يدوياً، صارت هذه البياناتُ "بياناتِ تدريبٍ" (Training Data) لخوارزمياتٍ آلية للوسم التلقائي، بدءاً من نماذجَ إحصائية بسيطة كنماذج ماركوف الخفية (Hidden Markov Models)، التي تتنبّأ بوسم كل كلمةٍ اعتماداً على احتمالات التتابع بين الوسوم والكلمات المجاورة، وصولاً إلى نماذجَ تعلّمٍ عميق معاصرة تحقّق دقّةً تفوق 97% على الإنجليزية القياسية.
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+## الوظيفةُ في لسانيات المدوّنات والمعالجة الحاسوبية
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+يمثّل الوسمُ النحوي خطوةً تأسيسية لا غنى عنها لمعظم مهامّ معالجة اللغة الطبيعية اللاحقة، كتحليل البنية النحوية العميقة، واستخراج المعلومات، وترجمة اللغات الآلية، كما يوفّر للباحثين اللغويين أداةً للبحث الكمّي الدقيق في أنماط الاستعمال النحوي عبر مدوّناتٍ ضخمة يستحيل تحليلُها يدوياً، فيربط بذلك بين اللسانيات الوصفية النظرية والتطبيقات الحاسوبية العملية.
 
-## Cross-Linguistic Applications
+## الأثر
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
+صار وسمُ أقسام الكلام معياراً أساسياً في تقييم أداء أنظمة معالجة اللغة الطبيعية، وأسّس تقليداً منهجياً لبناء المدوّنات المعلَّقة امتدّ لاحقاً إلى مستوياتٍ لغوية أعمق كالتعليق الدلالي والتداولي، وصار حجرَ الأساس الذي بُنيت عليه أجيالٌ متعاقبة من أدوات المعالجة الحاسوبية للغة.
 
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+## المصادر
 
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Marcus, M. P., Santorini, B., & Marcinkiewicz, M. A. (1993). "Building a Large Annotated Corpus of English: The Penn Treebank." *Computational Linguistics*, 19(2), 313-330.
+- Francis, W. N., & Kučera, H. (1979). *Manual of Information to Accompany a Standard Corpus of Present-Day Edited American English*. Brown University.
+- Garside, R., Leech, G., & Sampson, G. (Eds.) (1987). *The Computational Analysis of English: A Corpus-Based Approach*. Longman.
+- McEnery, T., & Hardie, A. (2012). *Corpus Linguistics: Method, Theory and Practice*. Cambridge University Press.

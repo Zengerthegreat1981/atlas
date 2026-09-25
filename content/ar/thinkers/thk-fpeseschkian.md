@@ -16,7 +16,6 @@ edges:
 - rel: "belongs_to", target: "sch-positive-psychotherapy", target_type: "مدرسة"
 related:
 - id: "thk-npeseschkian", title: "نصرت بيسشكيان", type: "مفكر"
-- id: "thk-brueger", title: "بيرند رويغر", type: "مفكر"
 - id: "thk-mcierpka", title: "مانفريد شيربكا", type: "مفكر"
 gaps:
   - "سنة الميلاد لم تُوثّق بدقة بعد."

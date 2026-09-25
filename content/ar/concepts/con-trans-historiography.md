@@ -17,23 +17,5 @@ gaps: []
 
 # التاريخ العابر للنوع (Trans Historiography)
 
-## Trans Historiography
 
-Historical study of transgender experiences and gender nonconformity; examines historical figures and trans communities.
-
-### Key Aspects
-
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
-
-### Related Fields
-
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+دراسة تاريخية لتجارب الأشخاص العابرين جندرياً وعدم المطابقة النوعية؛ تبحث في الشخصيات التاريخية والمجتمعات العابرة.

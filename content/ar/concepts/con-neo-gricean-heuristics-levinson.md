@@ -21,43 +21,34 @@ gaps: []
 
 # المبادئُ النيوغرايسيةُ الثلاثة عند ليفنسون
 
-## Definition
+## التعريف
 
-Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
+طوّر ستيفن ليفنسون في كتابه المرجعي *Presumptive Meanings* (2000) مقاربةً نيوغرايسية تختزل القواعدَ المحادثية الأربع عند پول غرايس إلى ثلاثة مبادئَ استدلالية (Heuristics) أبسط وأكثرَ قابلية للتطبيق المنهجي المنضبط: مبدأ الكمّ (Q)، ومبدأ الإفادة (I)، ومبدأ الطريقة (M)، وكل مبدأٍ منها ينتج نمطاً مميَّزاً من الإفهام التخاطبي الافتراضي (Default Inference) الذي يحدث تلقائياً دون حاجةٍ إلى استدلالٍ معقَّد في كل مرّة.
 
-## Grice's Theory
+## مبدأُ الكمّ (Q-Principle): ما لم يُقَل لم يحدث
 
-Paul Grice identified four conversational maxims speakers follow:
-- Quantity: Be informative without being excessive
-- Quality: Be truthful and warranted
-- Relevance: Stay on topic
-- Manner: Be clear and brief
+ينصّ مبدأ الكمّ على أن استخدام تعبيرٍ أضعف من سلّمٍ دلالي مرتَّب يستلزم نفيَ التعبير الأقوى، لأن المتكلّم لو كان يقصد المعنى الأقوى لاستخدمه مباشرةً. هذا المبدأُ هو المحرّك الرئيسي للإفهام التدريجي (Scalar Implicature): قولُ "بعضُ الطلاب نجحوا" يستلزم "ليس كلُّهم"، لأن "بعض" أضعفُ من "كلّ" على السلّم الدلالي نفسِه، وسكوتُ المتكلّم عن الحلقة الأقوى يُفسَّر افتراضياً بأنها غيرُ محقَّقة.
 
-Flouting these maxims creates implicature—meaning inferred from the violation.
+## مبدأُ الإفادة (I-Principle): ما وُصف ببساطة يُفهَم نموذجياً
 
-## Speech Acts
+ينصّ مبدأ الإفادة على أن الوصفَ البسيط غيرَ المفصَّل يُفهَم افتراضياً وفق النمط النموذجي الأكثر شيوعاً وتوقّعاً (Stereotypical Interpretation) للحدث الموصوف، لا وفق أضعف تفسيرٍ ممكن منطقياً. فجملةٌ كـ"دخل جون وأشعل النار" تُفهَم افتراضياً على أن إشعالَ النار وقع بعد الدخول مباشرةً وبطريقةٍ سببية اعتيادية، رغم أن الجملةَ منطقياً لا تلزم هذا الترتيبَ أو هذه العلاقةَ صراحةً؛ هذا المبدأُ يعمل بالاتجاه المعاكس لمبدأ الكمّ من حيث إنه يدفع نحو تفسيرٍ أغنى لا أضعف.
 
-Utterances perform actions (Austin, Searle):
-- Locutionary: The words uttered
-- Illocutionary: The action performed (promising, requesting, commanding)
-- Perlocutionary: The effect on listener
+## مبدأُ الطريقة (M-Principle): الصياغةُ الشاذّة تدلّ على موقفٍ شاذّ
 
-"I promise to return the book" is a performative—the utterance creates an obligation.
+ينصّ مبدأ الطريقة على أن استخدام صياغةٍ أطول أو أكثرَ تعقيداً أو أقلَّ اعتيادية، حين توجد صياغةٌ أبسط بديلة، يستلزم افتراضياً أن الموقفَ الموصوف غيرُ نموذجي أو غيرُ اعتيادي بطريقةٍ ما. فجملةُ "جعل جون السيارةَ تتوقّف" (بدل الصيغة الأبسط "أوقف جون السيارة") تستلزم افتراضياً أن طريقةَ التوقّف كانت غيرَ مباشرة أو غيرَ اعتيادية (كأن يكون قد استخدم فرملة الطوارئ أو تسبّب في التوقّف بطريقةٍ غير مقصودة)، بخلاف التوقّف المباشر النموذجي الذي تستلزمه الصيغةُ البسيطة.
 
-## Politeness Strategies
+## التفاعلُ بين المبادئ الثلاثة
 
-Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+يفترض ليفنسون أن هذه المبادئَ الثلاثة تتفاعل وقد تتنافس فيما بينها بترتيب أولوية محدَّد (Q يتغلّب على M الذي يتغلّب على I عند التعارض)، وأنها تعمل بوصفها "معانيَ افتراضية" (Default Meanings) تُستنتَج تلقائياً وسريعاً دون حاجةٍ لحساب سياقي معقَّد في كل مرّة، خلافاً لتأكيد نظرية الملاءمة المنافِسة على أن كل استدلالٍ تخاطبي يتطلّب حساباً سياقياً كاملاً من الصفر في كل مرّة.
 
-## Presupposition
+## الأثر والجدل مع نظرية الملاءمة
 
-Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+قدّم هذا الإطارُ بديلاً منهجياً منظَّماً أكثرَ اقتصاداً حسابياً من نظرية الملاءمة عند سپربر وويلسون، وأثار جدلاً نظرياً مستمراً حول طبيعة الاستدلال التخاطبي: هل يعمل عبر معانٍ افتراضية سريعة قابلة للإلغاء كما يرى ليفنسون، أم عبر حسابٍ سياقي كامل في كل مرّة كما ترى نظرية الملاءمة؟ ويبقى هذا الجدلُ أحدَ المحاور النشطة في التداولية المعاصرة.
 
-## Contemporary Applications
+## المصادر
 
-Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
-- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings: The Theory of Generalized Conversational Implicature*. MIT Press.
+- Horn, L. R. (1984). "Toward a New Taxonomy for Pragmatic Inference." In D. Schiffrin (Ed.), *Meaning, Form, and Use in Context*. Georgetown University Press.
+- Huang, Y. (2007). *Pragmatics*. Oxford University Press.
+- Chierchia, G. (2004). "Scalar Implicatures, Polarity Phenomena, and the Syntax/Pragmatics Interface." In A. Belletti (Ed.), *Structures and Beyond*.
 

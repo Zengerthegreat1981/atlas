@@ -27,23 +27,32 @@ gaps:
 
 # وليم لابوف
 
-## Definition
+لغويٌّ أمريكي (1927-2024)، أستاذٌ بجامعة پنسلﭬانيا طوال معظم مسيرته الأكاديمية، ومؤسّس اللسانيات الاجتماعية المتغيّرية (Variationist Sociolinguistics) بوصفها حقلاً كمّياً منهجياً مستقلاً، غيّرت أبحاثه جذرياً كيفية دراسة تنوّع اللغة داخل المجتمع الواحد.
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+## البداية: مارثا ﭬينيارد
 
-## Key Principles
+بدأ لابوف مسيرته البحثية بدراسته الرائدة على جزيرة مارثا ﭬينيارد (1963)، حيث درس تحت إشراف أوريل ﭬاينرايخ في جامعة كولومبيا، فرصد أن السكان المحليين الدائمين يبالغون في «مَرْكَزة» نطق بعض الصوائت الثنائية تمييزاً هوياتياً عن السياح الصيفيين، مثبتاً منهجياً وللمرة الأولى أن التنوّع الصوتي داخل مجتمعٍ لغويٍّ واحد يحمل دلالةً اجتماعية رمزية منظَّمة، لا عشوائية.
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+## دراسة المتاجر الكبرى في نيويورك
 
-## Evidence
+وسّع لابوف منهجه في أطروحته للدكتوراه، المنشورة لاحقاً بعنوان *The Social Stratification of English in New York City* (1966)، التي تضمّنت دراسته الأشهر على الإطلاق: قياس معدل نطق صوت الـ/r/ بعد الصائت لدى موظفي ثلاثة متاجر نيويوركية متفاوتة المكانة الاجتماعية، فأثبت وجود علاقةٍ إحصائية مباشرة بين مكانة المتجر ومعدل نطق هذا الصوت، مؤسّساً بذلك مفهوم **المتغيّر اللغوي** (Linguistic Variable) بوصفه أداة القياس الأساسية للحقل الجديد.
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+## أنماط اجتماعية لغوية والمنهجية الكمّية
 
-## References
+قنّن لابوف منهجيته الكمّية بصورةٍ شاملة في كتابه المرجعي *Sociolinguistic Patterns* (1972)، الذي أرسى أسس جمع البيانات الميدانية من الكلام العفوي (بمواجهة «مفارقة المراقِب» Observer's Paradox، أي أثر وجود الباحث نفسه على طبيعية الكلام المرصود)، وتحليلها إحصائياً بربطها بمتغيراتٍ اجتماعية كالطبقة والعمر والجنس والعرق، بصرامةٍ منهجية لم تكن مسبوقة في دراسة اللهجات الاجتماعية.
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+## التغيّر اللغوي عبر الزمن
+
+وسّع لابوف لاحقاً اهتمامه نحو آليات **التغيّر اللغوي التاريخي** رصداً مباشراً في مجتمعاتٍ حيّة، لا استنتاجاً من نصوصٍ مكتوبة قديمة فقط، في مشروعه الموسَّع الذي توّج بثلاثية *Principles of Linguistic Change* (1994-2010)، مطوّراً نماذج تفسّر كيف تنطلق التغيرات الصوتية من مجموعاتٍ اجتماعية بعينها ثم تنتشر عبر الشبكات الاجتماعية للمجتمع.
+
+## الأثر المؤسِّس
+
+أرسى لابوف، إلى جانب منهجيته، مفاهيمَ محورية كـ«السجلّ اللغوي وتبدّل الأسلوب» (Register & Style-Shifting) و«المكانة الظاهرة»، وأثّر في أجيالٍ من الباحثين اللاحقين كپيتر ترودجيل وپينيلوپي إكرت وج. ك. تشامبرز، الذين طوّروا الحقل في اتجاهاتٍ جديدة (الشبكات الاجتماعية، والأسلوبية، والهوية) مع بقاء منهجيته الكمّية الأساسية حجر الزاوية لأي دراسة ميدانية للتنوّع اللغوي حتى اليوم.
+
+## المصادر
+
+- Labov, William. *The Social Stratification of English in New York City*. Center for Applied Linguistics, 1966.
+- Labov, William. *Sociolinguistic Patterns*. University of Pennsylvania Press, 1972.
+- Labov, William. *Principles of Linguistic Change*, 3 vols. Blackwell, 1994–2010.
+- Weinreich, Uriel, Labov, William, & Herzog, Marvin I. "Empirical Foundations for a Theory of Language Change." In *Directions for Historical Linguistics*, eds. Lehmann & Malkiel. University of Texas Press, 1968.
 

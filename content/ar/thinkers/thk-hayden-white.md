@@ -18,22 +18,16 @@ gaps: []
 
 # هايدن وايت (Hayden White)
 
-## Hayden White
+## هايدن وايت
 
-Theorist of historical narrative and representation; analyzed how historians impose narrative form on historical events.
+منظِّر السرد التاريخي والتمثيل؛ حلّل كيف يفرض المؤرخون شكلاً سردياً على الأحداث التاريخية.
 
-### Key Aspects
+### أهم الجوانب
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثِّل هذه العقدةُ جزءاً من القسم 20: الأطر العابرة للتخصصات والتوليف، في مبحث التأريخ.
 
-### Related Fields
+### حقول ذات صلة
 
-- Historiographical theory and practice
-- Historical knowledge and representation
-- Contemporary historical scholarship
-
-### See Also
-
-- Related historiographical concepts
-- Historical methodology
-
+- نظرية التأريخ وممارسته
+- المعرفة التاريخية والتمثيل
+- الدراسات التاريخية المعاصرة

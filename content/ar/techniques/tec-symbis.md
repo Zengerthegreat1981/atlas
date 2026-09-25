@@ -9,221 +9,222 @@ related_schools:
   - sch-systemic-family
 ---
 
-# SYMBIS: Saving Your Marriage Before It Starts
+# SYMBIS: إنقاذ زواجك قبل أن يبدأ
 
-SYMBIS is a four-session premarital counseling program designed to help engaged and newlywed couples identify potential areas of conflict, communicate more effectively, and strengthen their relationship foundation before or early in marriage. Developed by Les and Leslie Parrott, it emphasizes practical skills, emotional awareness, and intentional preparation for marital success.
+SYMBIS برنامج استشارةٍ لما قبل الزواج من أربع جلسات، صُمِّم لمساعدة الخطيبين والمتزوجين حديثاً على تحديد مجالات النزاع المحتملة، والتواصل بفعاليةٍ أكبر، وتقوية أساس علاقتهم قبل الزواج أو في بدايته. طوَّره ليس وليزلي باروت (Les and Leslie Parrott)، ويشدد على المهارات العملية، والوعي الانفعالي، والإعداد المتعمَّد لنجاح الزواج.
 
-## Development & Overview
+## التطور والنظرة العامة
 
-**Founded:** 1995 by Les and Leslie Parrott, pastoral counselors and marriage educators
+**التأسيس:** عام 1995 على يد ليس وليزلي باروت، مستشارَين رعويَّين ومربّيَي زواج
 
-**Philosophy:** Premarital education works best when delivered early, is practical and engaging, and focuses on real-world couple challenges
+**الفلسفة:** التربية لما قبل الزواج تعمل بأفضل صورةٍ حين تُقدَّم مبكراً، وتكون عملية وجاذبة، وتركّز على تحديات الزوجين الواقعية
 
-**Format:** 4-session program (can be condensed to 2-session or expanded based on needs)
+**الصيغة:** برنامج من 4 جلسات (يمكن اختصاره إلى جلستين أو توسيعه حسب الحاجة)
 
-**Delivery:** Couple-based counseling, typically with clergy or trained counselor; also group-based version available
+**التقديم:** استشارةٌ للزوجين، عادةً مع رجل دينٍ أو مستشارٍ مدرَّب؛ وتتوفر أيضاً نسخةٌ جماعية
 
-## Theoretical Foundations
+## الأسس النظرية
 
-### Gottman Research Integration
-- Drawing on John Gottman's research on what predicts divorce and marital success
-- Focus on reducing the "four horsemen" (criticism, defensiveness, contempt, stonewalling)
-- Emphasis on emotional connection and managing conflict
+### دمج بحث غوتمان
+- استناداً إلى بحث جون غوتمان (John Gottman) حول ما يتنبأ بالطلاق ونجاح الزواج
+- التركيز على تقليل "الفرسان الأربعة" (النقد، والتبرير الدفاعي، والاحتقار، والتحصّن الصامت)
+- التشديد على الاتصال الانفعالي وإدارة النزاع
 
-### Cognitive-Behavioral Approach
-- Skill-building: communication, conflict resolution, emotional expression
-- Expectation clarification and reality-checking
-- Homework assignments for practice between sessions
+### النهج السلوكي المعرفي
+- بناء المهارات: التواصل، وحل النزاع، والتعبير الانفعالي
+- توضيح التوقعات واختبار الواقع
+- تكليفاتٌ منزلية للممارسة بين الجلسات
 
-### Strength-Based Focus
-- Building on couple's existing strengths and positive qualities
-- "Before It Starts" implies proactive, preventive approach rather than crisis intervention
+### التركيز على نقاط القوة
+- البناء على نقاط قوة الزوجين وصفاتهما الإيجابية القائمة
+- "قبل أن يبدأ" يعني نهجاً استباقياً وقائياً لا تدخلاً في أزمة
 
-## Four-Session Structure
+## بنية الجلسات الأربع
 
-### Session 1: Your Marriage Personality
-**Goal:** Understand individual personalities and how they interact
+### الجلسة 1: شخصية زواجك
+**الهدف:** فهم الشخصيتين الفرديتين وكيفية تفاعلهما
 
-**Topics:**
-- Individual personality assessment (similar to introversion-extraversion, temperament)
-- How personalities complement or clash
-- Communication style differences
-- Expectations formed by family of origin
+**الموضوعات:**
+- تقييم الشخصية الفردية (شبيهٌ بالانطوائية-الانبساطية، والمزاج)
+- كيف تتكامل الشخصيتان أو تتصادمان
+- اختلافات أسلوب التواصل
+- التوقعات المتشكلة من أسرة المنشأ
 
-**Intervention:**
-- Discussion of personality profiles
-- Exploration of how personality differences have already shown up in their relationship
-- Normalizing that differences can strengthen or strain relationships depending on how they're handled
+**التدخل:**
+- مناقشة ملفات الشخصية
+- استكشاف كيف ظهرت اختلافات الشخصية بالفعل في علاقتهما
+- تطبيع فكرة أن الاختلافات قد تقوّي العلاقة أو تجهدها بحسب كيفية التعامل معها
 
-### Session 2: Expectations
-**Goal:** Clarify marital expectations and identify potential conflicts
+### الجلسة 2: التوقعات
+**الهدف:** توضيح التوقعات الزوجية وتحديد النزاعات المحتملة
 
-**Topics:**
-- Expectations around roles (household, career, finances)
-- Family involvement and boundaries
-- Sexual intimacy and frequency
-- Having children, parenting approach, discipline
-- Money management and financial goals
-- Work-life balance
-- Time together vs. apart
+**الموضوعات:**
+- التوقعات حول الأدوار (المنزل، والمسار المهني، والمال)
+- مشاركة الأسرة والحدود
+- الحميمية الجنسية وتكرارها
+- إنجاب الأطفال ونهج التربية والانضباط
+- إدارة المال والأهداف المالية
+- التوازن بين العمل والحياة
+- الوقت المشترك مقابل المنفرد
 
-**Intervention:**
-- Completing expectation inventory
-- Identifying areas of agreement and disagreement
-- Discussion of unrealistic expectations
-- Problem-solving for areas of conflict
+**التدخل:**
+- إكمال مقياس التوقعات
+- تحديد مجالات الاتفاق والاختلاف
+- مناقشة التوقعات غير الواقعية
+- حل المشكلات لمجالات النزاع
 
-### Session 3: Communication
-**Goal:** Build communication and conflict resolution skills
+### الجلسة 3: التواصل
+**الهدف:** بناء مهارات التواصل وحل النزاع
 
-**Topics:**
-- How couples currently handle disagreements
-- Communication patterns (one dominates, avoidance, aggressive, etc.)
-- Active listening and empathy
-- "I" statements and expressing needs
-- De-escalation techniques
-- Fair fighting rules
+**الموضوعات:**
+- كيف يتعامل الزوجان حالياً مع الخلافات
+- أنماط التواصل (سيطرة أحدهما، التجنب، العدوانية، إلخ)
+- الإصغاء الفعّال والتعاطف
+- عبارات "أنا" والتعبير عن الحاجات
+- تقنيات تهدئة التصعيد
+- قواعد النزاع العادل
 
-**Intervention:**
-- Practice exercises: speaker-listener role-play
-- Guided conversation about a real disagreement
-- Feedback on communication patterns
-- Skill rehearsal with feedback
+**التدخل:**
+- تمارين ممارسة: تمثيل أدوار المتحدث-المستمع
+- محادثةٌ موجَّهة حول خلافٍ حقيقي
+- تغذيةٌ راجعة حول أنماط التواصل
+- تدريبٌ على المهارة مع تغذيةٍ راجعة
 
-### Session 4: Commitment
-**Goal:** Strengthen emotional connection and reaffirm commitment
+### الجلسة 4: الالتزام
+**الهدف:** تقوية الاتصال الانفعالي وإعادة تأكيد الالتزام
 
-**Topics:**
-- Meaning of marriage commitment
-- Building emotional intimacy
-- Vision for marriage
-- Preventing affair risk
-- Spiritual/religious dimensions (if applicable)
-- Celebrating the relationship
+**الموضوعات:**
+- معنى الالتزام الزواجي
+- بناء الحميمية الانفعالية
+- رؤية الزواج
+- منع خطر الخيانة
+- الأبعاد الروحية/الدينية (إن كانت ملائمة)
+- الاحتفال بالعلاقة
 
-**Intervention:**
-- Reconnection activities
-- Sharing hopes and dreams
-- Commitment renewal
-- Discussion of how to maintain relationship investment
+**التدخل:**
+- أنشطة إعادة الاتصال
+- مشاركة الآمال والأحلام
+- تجديد الالتزام
+- مناقشة كيفية الحفاظ على استثمارٍ في العلاقة
 
-## Key Elements
+## العناصر الجوهرية
 
-### Assessment Tools
-- **Couple Inventory:** personality, expectations, communication, conflict style
-- **Homework assignments:** journal reflections, conversation starters, practice exercises
-- **Discussion guides:** structured questions to prompt couple conversation
+### أدوات التقييم
+- **مقياس الزوجين:** الشخصية، والتوقعات، والتواصل، وأسلوب النزاع
+- **الواجبات المنزلية:** تأملاتٌ في مذكرات، وأسئلةٌ بادئة للمحادثة، وتمارين ممارسة
+- **أدلة النقاش:** أسئلةٌ منظَّمة تحفّز محادثة الزوجين
 
-### Practical Skills Training
-- **Communication:** active listening, validation, "I" statements
-- **Conflict resolution:** calming techniques, problem-solving steps
-- **Emotional intimacy:** date nights, appreciation practices, affection
+### تدريب المهارات العملية
+- **التواصل:** الإصغاء الفعّال، والإقرار، وعبارات "أنا"
+- **حل النزاع:** تقنيات التهدئة، وخطوات حل المشكلة
+- **الحميمية الانفعالية:** ليالي المواعيد، وممارسات التقدير، والحنان
 
-### Psychoeducation
-- Information about common marital stressors
-- Research-based information about what predicts marital success
-- Normalizing disagreements and differences
-- Realistic expectations about marriage
+### التثقيف النفسي
+- معلوماتٌ حول ضغوط الزواج الشائعة
+- معلوماتٌ مسنودة بالبحث حول ما يتنبأ بنجاح الزواج
+- تطبيع الخلافات والاختلافات
+- توقعاتٌ واقعية حول الزواج
 
-## Research Evidence
+## أدلة البحث
 
-### Effectiveness Studies
-**Rostami et al. (2020)** — Quasi-experimental study in Iran
-- Experimental group: 10 couples in SYMBIS program
-- Control group: 10 couples (wait-list)
-- Outcomes: F-statistic and p-values for dysfunctional communication patterns (F=7.7, p=0.009), ineffective relationship management (F=6.91, p=0.013), couple value system improvement (F=4.54, p=0.040), schema mentality (F=4.49, p=0.040), core family damage reduction (F=10.62, p=0.003)
-- **Result:** SYMBIS showed significant improvements in all outcome areas, with effects sustained at 3-month follow-up
+### دراسات الفعالية
+**روستمي وآخرون (2020)** — دراسةٌ شبه تجريبية في إيران
+- المجموعة التجريبية: 10 أزواج في برنامج SYMBIS
+- المجموعة الضابطة: 10 أزواج (قائمة انتظار)
+- النتائج: إحصائية F وقيم p لأنماط التواصل المختل (F=7.7، p=0.009)، وإدارة العلاقة غير الفعّالة (F=6.91، p=0.013)، وتحسّن نظام قيم الزوجين (F=4.54، p=0.040)، وعقلية المخطط (schema) (F=4.49، p=0.040)، وتقليل ضرر الأسرة الأصلية (F=10.62، p=0.003)
+- **النتيجة:** أظهر SYMBIS تحسناتٍ دالة في جميع مجالات النتائج، مع استمرار الآثار عند متابعة ثلاثة أشهر
 
-**Hashemi et al. (2023)** — Comparison with PICK program
-- SYMBIS vs. PICK vs. control group (each n=15)
-- Measures: attitudes toward marriage (optimistic, pessimistic, idealistic)
-- **Result:** Both SYMBIS and PICK were effective; no significant difference between the two programs
-- **Conclusion:** Both are viable premarital interventions with similar effectiveness
+**هاشمي وآخرون (2023)** — مقارنةٌ ببرنامج بِك
+- SYMBIS مقابل بِك مقابل مجموعةٍ ضابطة (كلٌّ ن=15)
+- المقاييس: الاتجاهات نحو الزواج (متفائلة، متشائمة، مثالية)
+- **النتيجة:** كان كلٌّ من SYMBIS وبِك فعّالاً؛ دون فرقٍ دالّ بين البرنامجين
+- **الخلاصة:** كلاهما تدخلٌ ملائم لما قبل الزواج بفعاليةٍ متشابهة
 
-### Limitations
-- Most research from non-US samples (Iran, Middle East)
-- Limited large-scale randomized controlled trials in US context
-- Research focuses on 3-month follow-up; limited long-term data (1+ years post-intervention)
-- Selection bias: couples seeking premarital counseling may differ from general population
+### الحدود
+- معظم البحث من عيناتٍ غير أمريكية (إيران، الشرق الأوسط)
+- تجاربُ عشوائيةٌ محكومة واسعة النطاق محدودة في السياق الأمريكي
+- يركّز البحث على متابعة ثلاثة أشهر؛ بياناتٌ طويلة الأمد محدودة (أكثر من سنة بعد التدخل)
+- تحيّز الاختيار: قد يختلف الأزواج الساعون للاستشارة لما قبل الزواج عن عموم السكان
 
-## Variants & Adaptations
+## الصيغ والتكييفات
 
-### SYMBIS for Blended Families
-- Adapted version addressing unique challenges of remarriage and step-families
-- Focuses on building new family identity while respecting prior relationships
+### SYMBIS للأسر المدمجة
+- نسخةٌ مكيَّفة تعالج تحديات الزواج الثاني والأسر غير البيولوجية الفريدة
+- تركّز على بناء هويةٍ أسرية جديدة مع احترام العلاقات السابقة
 
-### Group SYMBIS
-- Can be delivered to multiple couples simultaneously
-- Interactive format with group discussion alongside couple work
-- Cost-effective alternative to individual couple counseling
+### SYMBIS الجماعي
+- يمكن تقديمه لعدة أزواج في وقتٍ واحد
+- صيغةٌ تفاعلية مع نقاشٍ جماعي إلى جانب عمل الزوجين
+- بديلٌ فعّالٌ من حيث التكلفة لاستشارة الزوجين الفردية
 
-### Online/Virtual SYMBIS
-- Video-based delivery of sessions
-- Workbook and discussion guides for remote completion
-- Increasingly accessible in post-COVID era
+### SYMBIS الإلكتروني/الافتراضي
+- تقديمٌ مصوَّر للجلسات
+- كتيّب عملٍ وأدلة نقاشٍ للإكمال عن بُعد
+- سهولة وصولٍ متزايدة في عصر ما بعد كوفيد
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### Premarital Counseling
-- Churches and faith communities
-- Secular counseling and therapy settings
-- Community mental health centers
-- For-profit marriage counseling services
+### الاستشارة لما قبل الزواج
+- الكنائس والجماعات الدينية
+- سياقات الاستشارة والعلاج العلمانية
+- مراكز الصحة النفسية المجتمعية
+- خدمات استشارة الزواج الربحية
 
-### Newlywed Support
-- First-year marriage enrichment
-- Prevention of early divorce/separation
-- Foundation-building before children and life stress
+### دعم المتزوجين حديثاً
+- إثراء السنة الأولى من الزواج
+- منع الطلاق/الانفصال المبكر
+- بناء الأساس قبل الأطفال وضغوط الحياة
 
-### Couples at Risk
-- High-conflict couples seeking prevention
-- Couples with mismatched expectations
-- Couples with trauma or difficult family backgrounds
+### الأزواج المعرَّضون للخطر
+- الأزواج شديدو النزاع الساعون للوقاية
+- الأزواج ذوو التوقعات غير المتطابقة
+- الأزواج ذوو الصدمة أو الخلفيات الأسرية الصعبة
 
-## Related Programs & Techniques
+## برامج وتقنيات ذات صلة
 
-- [[tec-prepare-enrich]] — comprehensive assessment-based program
-- [[tec-pick]] — premarital awareness program
-- [[tec-foccus]] — couple dialogue focused program
-- [[tec-prep-program]] — PREP program
-- [[tec-relationship-enhancement]] — skill-building approach
+- [[tec-prepare-enrich]] — برنامجٌ شامل قائم على التقييم
+- [[tec-pick]] — برنامج الوعي ما قبل الزواج
+- [[tec-foccus]] — برنامجٌ يركّز على حوار الزوجين
+- [[tec-prep-program]] — برنامج PREP
+- [[tec-relationship-enhancement]] — نهج بناء المهارات
 
-## Strengths & Limitations
+## نقاط القوة والحدود
 
-### Strengths
-- Short, focused, practical format
-- Engaging and accessible for couples
-- Research-informed (Gottman, cognitive-behavioral approaches)
-- Preventive focus on building skills before problems escalate
-- Adaptable to different settings (church, secular, clinical)
+### نقاط القوة
+- صيغةٌ قصيرة، ومركّزة، وعملية
+- جاذبةٌ وسهلة الوصول للأزواج
+- مسنودةٌ بالبحث (غوتمان، والنهج السلوكي المعرفي)
+- تركيزٌ وقائي على بناء المهارات قبل تفاقم المشكلات
+- قابلةٌ للتكيف مع سياقاتٍ مختلفة (كنسية، علمانية، سريرية)
 
-### Limitations
-- Limited long-term outcome research
-- Selection bias (couples choosing premarital counseling may have different characteristics)
-- Effectiveness depends on couple engagement and counselor skill
-- May not address severe underlying issues (trauma, mental illness, active substance use) adequately
-- Higher-risk couples (domestic violence, severe mental health) may need more intensive intervention
+### الحدود
+- بحث نتائج طويل الأمد محدود
+- تحيّز الاختيار (قد تختلف خصائص الأزواج الذين يختارون الاستشارة لما قبل الزواج)
+- تعتمد الفعالية على انخراط الزوجين ومهارة المستشار
+- قد لا يعالج بشكلٍ كافٍ القضايا الكامنة الشديدة (الصدمة، المرض النفسي، تعاطي المواد النشط)
+- قد تحتاج الأزواج الأعلى خطراً (العنف الأسري، الصحة النفسية الشديدة) تدخلاً أكثر كثافة
 
-## Key Figures
+## الشخصيات الرئيسة
 
-- Les and Leslie Parrott — developers, marriage educators, authors
-- John Gottman — research foundation for communication and conflict work
-- Gary Chapman — related work on love languages (couples may explore "love language" concepts)
+- ليس وليزلي باروت (Les and Leslie Parrott) — المطوِّران، ومربيا الزواج، والمؤلفان
+- جون غوتمان (John Gottman) — الأساس البحثي لعمل التواصل والنزاع
+- غاري تشابمان (Gary Chapman) — عملٌ ذو صلة حول لغات الحب (قد يستكشف الأزواج مفاهيم "لغة الحب")
 
-## Primary Sources
+## المصادر
 
 1. Parrott, L., & Parrott, L. (2006). Saving Your Marriage Before It Starts: Seven Questions to Ask Before (and After) You Marry. Zondervan.
 2. Parrott, L., & Parrott, L. (2002). Relationships: An Open and Honest Guide to Making Yours Healthier. Zondervan.
 3. Rostami, M., Navabi Nejad, S., & Farzad, V. (2020). The effectiveness of the SYMBIS premarital model on communication patterns and dyadic damages of engagement couples. Applied Family Therapy Journal, 1(3), 40-55.
 4. Hashemi, S., et al. (2023). Comparison of PICK and SYMBIS on girls' attitudes toward marriage. Journal of Assessment and Research in Applied Counseling.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Premarital education
-- Couple communication skills
-- Conflict resolution
-- Expectation management
-- Emotional intimacy
-- Marriage enrichment
-- Prevention-focused intervention
-- Family systems approach
+- التربية لما قبل الزواج
+- مهارات تواصل الزوجين
+- حل النزاع
+- إدارة التوقعات
+- الحميمية الانفعالية
+- إثراء الزواج
+- التدخل الوقائي
+- نهج الأنظمة الأسرية
+</content>

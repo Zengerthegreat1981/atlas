@@ -9,204 +9,204 @@ related_schools:
   - sch-clinical-neuropsychology
 ---
 
-# Mini-Mental State Examination (MMSE)
+# الفحص المصغر للحالة العقلية (Mini-Mental State Examination (MMSE))
 
-The MMSE is a brief, 30-point cognitive screening tool assessing orientation, memory, attention, language, and visuospatial skills. Developed by Folstein, Folstein, and McHugh (1975), it is the most widely used cognitive screening instrument globally, used to identify cognitive impairment in dementia, delirium, and other conditions affecting cognition.
+الفحص المصغر للحالة العقلية (MMSE) أداة فرز معرفي موجزة من 30 نقطة تقيّم التوجه والذاكرة والانتباه واللغة والمهارات البصرية المكانية. طوّره فولستين وفولستين وماك‌هيو (Folstein, Folstein, & McHugh) (1975)، وهو أكثر أدوات الفرز المعرفي استخداماً عالمياً، ويُستخدم لتحديد القصور المعرفي في الخرف والهذيان وحالات أخرى تؤثر في الإدراك.
 
-## Development
+## التطوير
 
-**Folstein, Folstein, & McHugh (1975):**
-- Created to assess cognitive function briefly in clinical settings
-- Needed fast screening tool to distinguish organic from functional impairment
-- Designed for medical patients, elderly, psychiatric populations
-- Brief (10 minutes), objective, reproducible
+**فولستين وفولستين وماك‌هيو (1975):**
+- أُنشئ لتقييم الوظيفة المعرفية بإيجاز في الأوساط السريرية
+- الحاجة إلى أداة فرز سريعة للتمييز بين القصور العضوي والوظيفي
+- صُمم للمرضى الطبيين وكبار السن والفئات النفسية
+- موجز (10 دقائق)، موضوعي، قابل للتكرار
 
-**Clinical rationale:**
-- Psychiatry historically vague about cognitive assessment
-- Needed systematic, quantifiable approach
-- Tool should be practical for busy clinics and hospitals
-- Distinguish dementia from depression ("pseudodementia")
+**المسوّغ السريري:**
+- كان الطب النفسي تاريخياً غامضاً بشأن التقييم المعرفي
+- الحاجة إلى نهج منهجي قابل للتكميم
+- ينبغي أن تكون الأداة عملية للعيادات والمستشفيات المزدحمة
+- التمييز بين الخرف والاكتئاب ("الخرف الكاذب")
 
-## Components & Scoring
+## المكونات والتصحيح
 
-**5 cognitive domains (30 total points):**
+**5 مجالات معرفية (30 نقطة إجمالاً):**
 
-| Domain | Items | Points | Content |
+| المجال | البنود | النقاط | المحتوى |
 |--------|-------|--------|---------|
-| **Orientation** | 1-10 | 10 | Month, date, day, year, season, country, state, city, hospital, floor |
-| **Registration** | 11-13 | 3 | Immediate recall of 3 words |
-| **Attention** | 14-18 | 5 | Serial 7s (subtracting 7 from 100 repeatedly) or spell WORLD backwards |
-| **Recall** | 19-21 | 3 | Delayed recall of 3 words from registration |
-| **Language** | 22-28 | 8 | Object naming (2), repeat phrase, 3-stage command, read/obey command, write sentence |
-| **Visuospatial** | 29-30 | 2 | Copy intersecting pentagons |
+| **التوجه** | 1-10 | 10 | الشهر، التاريخ، اليوم، السنة، الفصل، الدولة، الولاية/المحافظة، المدينة، المستشفى، الطابق |
+| **التسجيل** | 11-13 | 3 | التذكر الفوري لثلاث كلمات |
+| **الانتباه** | 14-18 | 5 | طرح 7 من 100 بالتتابع أو تهجئة كلمة إلى الخلف |
+| **الاستدعاء** | 19-21 | 3 | التذكر المؤجل للكلمات الثلاث من مرحلة التسجيل |
+| **اللغة** | 22-28 | 8 | تسمية أشياء (2)، إعادة عبارة، أمر من ثلاث خطوات، قراءة أمر وتنفيذه، كتابة جملة |
+| **البصري المكاني** | 29-30 | 2 | نسخ خماسيين متقاطعين |
 
-**Administration:**
-- Time: 5-10 minutes
-- Setting: clinical interview, medical record, bedside
-- No special equipment needed
-- Observer-administered (clinician reads items)
+**التطبيق:**
+- الزمن: 5-10 دقائق
+- السياق: مقابلة سريرية، السجل الطبي، جانب السرير
+- لا يتطلب معدات خاصة
+- يطبّقه ملاحظ (يقرأ الإكلينيكي البنود)
 
-## Scoring & Interpretation
+## التصحيح والتفسير
 
-**Total score:** Sum of all items
-- Range: 0-30 points
+**الدرجة الكلية:** مجموع كل البنود
+- المدى: 0-30 نقطة
 
-**Severity cutoffs (varying by age/education):**
-- 24-30: Normal cognition
-- 18-23: Mild cognitive impairment
-- 0-17: Severe cognitive impairment
+**درجات قطع الشدة (تتفاوت حسب العمر/التعليم):**
+- 24-30: إدراك طبيعي
+- 18-23: قصور معرفي خفيف
+- 0-17: قصور معرفي شديد
 
-**Population-specific cutoffs:**
-- Age <60: cutoff ≥27
-- Age 60+: cutoff ≥26
-- High school education: adjust lower
-- No formal education: adjust significantly lower
+**درجات قطع خاصة بالفئات:**
+- سن أقل من 60: درجة القطع ≥27
+- سن 60 فأكثر: درجة القطع ≥26
+- تعليم ثانوي: تعديل نحو الأدنى
+- بلا تعليم رسمي: تعديل كبير نحو الأدنى
 
-**Diagnostic interpretation:**
-- MMSE 20-24: possible mild cognitive impairment or dementia
-- MMSE <20: probable dementia or delirium
-- Acute change (serial MMSEs): suggests delirium
-- Baseline decline: suggests progressive dementia
+**التفسير التشخيصي:**
+- MMSE 20-24: قصور معرفي خفيف أو خرف محتمل
+- MMSE أقل من 20: خرف أو هذيان مرجح
+- تغيّر حاد (فحوصات MMSE متتالية): يشير إلى الهذيان
+- تراجع عن خط الأساس: يشير إلى خرف تدريجي
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-**Reliability:**
-- Internal consistency: α = 0.68 (moderate; heterogeneous domains by design)
-- Test-retest reliability: r = 0.89 (high; stable across days/weeks)
-- Inter-rater reliability: r = 0.99 (excellent; objective scoring)
-- Acceptable temporal stability
+**الثبات:**
+- الاتساق الداخلي: α = 0.68 (معتدل؛ مجالات متباينة بحكم التصميم)
+- ثبات الإعادة: r = 0.89 (مرتفع؛ مستقر عبر الأيام/الأسابيع)
+- الثبات بين المقيَّمين: r = 0.99 (ممتاز؛ تصحيح موضوعي)
+- استقرار زمني مقبول
 
-**Validity:**
-- Criterion validity: correlates with neuropsychological batteries (r = 0.66-0.82)
-- Sensitivity: 87% for dementia detection
-- Specificity: 82% for normal cognition
-- Varies by type of dementia (Alzheimer's more detectable than frontotemporal)
+**الصدق:**
+- صدق المحك: يرتبط ببطاريات عصبية نفسية (r = 0.66-0.82)
+- الحساسية: 87٪ لكشف الخرف
+- النوعية: 82٪ للإدراك الطبيعي
+- يتفاوت حسب نوع الخرف (الزهايمر أكثر قابلية للكشف من الخرف الجبهي الصدغي)
 
-**Limitations:**
-- Ceiling effect: insensitive to mild impairment in highly educated
-- Floor effect: limited discrimination at severe end
-- Language dependent: requires native language
-- Age/education effects: significant
-- Not diagnostic alone: requires neuropsychological testing
+**أوجه القصور:**
+- أثر السقف: غير حساس للقصور الخفيف لدى ذوي التعليم العالي
+- أثر الأرضية: تمييز محدود عند الطرف الشديد
+- يعتمد على اللغة: يتطلب اللغة الأم
+- آثار العمر/التعليم: ملموسة
+- ليس تشخيصياً وحده: يتطلب اختباراً عصبياً نفسياً
 
-**Cross-cultural:**
-- Translated in 80+ languages
-- Psychometrics vary by language/culture
-- Education effects pronounced in some cultures
-- Some items culturally specific (e.g., season distinctions)
+**عبر الثقافات:**
+- تُرجم إلى أكثر من 80 لغة
+- تتفاوت الخصائص السيكومترية حسب اللغة/الثقافة
+- آثار التعليم بارزة في بعض الثقافات
+- بعض البنود خاصة بثقافة معينة (مثل تمييز الفصول)
 
-## Clinical & Research Applications
+## التطبيقات السريرية والبحثية
 
-**Dementia screening:**
-- Prevalence ~3% in 65+, increases with age
-- MMSE primary screening tool in general medicine
-- Quick tool identifies need for further evaluation
-- Not diagnostic but gates referral for neuropsychological testing
+**فرز الخرف:**
+- الانتشار نحو 3٪ في سن 65 فأكثر، ويزداد مع العمر
+- MMSE أداة الفرز الأولى في الطب العام
+- أداة سريعة تحدد الحاجة إلى تقييم إضافي
+- ليس تشخيصياً لكنه بوابة للإحالة إلى اختبار عصبي نفسي
 
-**Hospital/medical settings:**
-- Delirium identification in hospitalized patients
-- Baseline cognitive function documentation
-- Post-operative cognitive decline tracking
-- Medication side-effect monitoring (cognitive)
+**الأوساط الطبية/المستشفيات:**
+- تحديد الهذيان لدى المرضى المقيمين بالمستشفى
+- توثيق الوظيفة المعرفية الأساسية
+- تتبع التدهور المعرفي بعد الجراحة
+- رصد الآثار الجانبية المعرفية للأدوية
 
-**Geriatric assessment:**
-- Routine screening in aging clinics
-- Independent living determination
-- Capacity/competency evaluation for legal matters
-- Baseline before starting medications affecting cognition
+**التقييم الجيرياتري:**
+- الفرز الروتيني في عيادات الشيخوخة
+- تحديد إمكانية العيش المستقل
+- تقييم الأهلية/الكفاءة للمسائل القانونية
+- خط أساس قبل بدء أدوية تؤثر في الإدراك
 
-**Research:**
-- Dementia epidemiology studies
-- Cognitive aging trajectories
-- Medication cognitive effects
-- Dementia progression tracking
+**البحث:**
+- دراسات وبائية عن الخرف
+- مسارات الشيخوخة المعرفية
+- الآثار المعرفية للأدوية
+- تتبع تقدم الخرف
 
-**Special populations:**
-- Stroke patients: early cognitive impairment detection
-- Depression-related cognitive impairment
-- Substance abuse: cognitive consequences
-- HIV/AIDS: opportunistic CNS infection screening
-- Parkinson's disease: cognitive decline tracking
+**فئات خاصة:**
+- مرضى السكتة الدماغية: كشف مبكر للقصور المعرفي
+- القصور المعرفي المرتبط بالاكتئاب
+- تعاطي المواد: العواقب المعرفية
+- فيروس نقص المناعة البشرية/الإيدز: فرز عدوى الجهاز العصبي المركزي الانتهازية
+- مرض باركنسون: تتبع التدهور المعرفي
 
-## Strengths
+## نقاط القوة
 
-- **Brevity:** 5-10 minutes, practical for busy settings
-- **Objectivity:** standardized administration, objective scoring
-- **Reliability:** excellent test-retest, inter-rater reliability
-- **Established:** 45+ years, thousands of studies
-- **Practical:** no special equipment, clinician-friendly
-- **Validated:** 80+ language translations
-- **Sensitivity:** 87% for dementia detection
-- **Utility:** widely recognized, results understood by colleagues
+- **الإيجاز:** 5-10 دقائق، عملي للأوساط المزدحمة
+- **الموضوعية:** تطبيق معياري وتصحيح موضوعي
+- **الثبات:** ثبات إعادة وثبات بين مقيَّمين ممتازان
+- **الرسوخ:** أكثر من 45 عاماً وآلاف الدراسات
+- **العملية:** لا يتطلب معدات خاصة، سهل الاستخدام للإكلينيكي
+- **التحقق:** ترجمات إلى أكثر من 80 لغة
+- **الحساسية:** 87٪ لكشف الخرف
+- **الفائدة:** معروف على نطاق واسع، النتائج مفهومة بين الزملاء
 
-## Limitations
+## أوجه القصور
 
-- **Limited sensitivity to mild impairment:** insensitive in well-educated, early mild cognitive impairment
-- **Ceiling effects:** many cognitively normal score 28-30
-- **Age/education confounds:** significant effects, adjustments needed
-- **Not diagnostic:** MMSE abnormal ≠ dementia diagnosis
-- **Language dependent:** requires speaking, writing in patient language
-- **Heterogeneous:** different domains with different psychometrics
-- **Serial 7s variability:** some examiners allow alternative (spelling WORLD backward; not equivalent)
-- **Visuospatial limited:** only 2 items; limited spatial assessment
-- **Missing domains:** executive function, processing speed not assessed
-- **Delirium sensitivity:** misses delirium in high-functioning individuals
+- **حساسية محدودة للقصور الخفيف:** غير حساس لدى ذوي التعليم العالي في المراحل المبكرة الخفيفة
+- **أثر السقف:** كثير من الأصحاء معرفياً يسجلون 28-30
+- **تداخل العمر/التعليم:** آثار ملموسة تتطلب تعديلات
+- **ليس تشخيصياً:** MMSE غير طبيعي لا يعني تشخيص خرف
+- **يعتمد على اللغة:** يتطلب الحديث والكتابة بلغة المريض
+- **متباين:** مجالات مختلفة بخصائص سيكومترية مختلفة
+- **تفاوت طرح 7 بالتتابع:** يسمح بعض الفاحصين ببديل (تهجئة كلمة إلى الخلف؛ ليست معادلة)
+- **البصري المكاني محدود:** بندان فقط؛ تقييم مكاني محدود
+- **مجالات مفقودة:** الوظائف التنفيذية وسرعة المعالجة غير مقيَّمة
+- **حساسية الهذيان:** يُغفل الهذيان لدى الأشخاص عالي الأداء
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Related instruments:**
-- MOCA (Montreal Cognitive Assessment): more sensitive to mild impairment
-- MMSE-2: revised version with improved psychometrics
-- 3MS (Modified Mini-Mental State): expanded version
-- MoCA: Alzheimer's screening variant
-- SMMSE (Standardized MMSE): clarified administration
-- MOCA: better visuospatial/executive function coverage
+**أدوات ذات صلة:**
+- MOCA (تقييم مونتريال المعرفي): أكثر حساسية للقصور الخفيف
+- MMSE-2: نسخة منقحة بخصائص سيكومترية محسّنة
+- 3MS (النسخة المعدّلة من الفحص المصغر): نسخة موسّعة
+- MoCA: نسخة لفرز الزهايمر
+- SMMSE (الفحص المصغر المعياري): تطبيق موضّح
+- MOCA: تغطية أفضل للوظائف البصرية المكانية والتنفيذية
 
-**Population adaptations:**
-- High education: use MOCA instead (more ceiling challenge)
-- Low education: simpler alternatives (6CIT)
-- Languages: validated translations available
-- Telephone administration: modified items (remove copy pentagon)
+**تكييفات خاصة بالفئات:**
+- التعليم العالي: استخدام MOCA بدلاً منه (تحدٍّ أكبر لأثر السقف)
+- التعليم المنخفض: بدائل أبسط (6CIT)
+- اللغات: ترجمات متحقَّق منها متاحة
+- التطبيق الهاتفي: بنود معدّلة (حذف نسخ الخماسيين)
 
-## Clinical Interpretation
+## التفسير السريري
 
-**Score patterns:**
-- Orientation intact, memory/attention low: depression, delirium possible
-- Orientation poor with other domains: dementia likely
-- Language/visuospatial disproportionately low: stroke/lesion possible
-- All domains equally low: dementia, severe delirium
+**أنماط الدرجات:**
+- التوجه سليم، الذاكرة/الانتباه منخفضان: احتمال اكتئاب أو هذيان
+- التوجه ضعيف مع مجالات أخرى: خرف مرجح
+- اللغة/البصري المكاني منخفضان بشكل غير متناسب: احتمال سكتة/آفة
+- كل المجالات منخفضة بالتساوي: خرف، هذيان شديد
 
-**Change tracking:**
-- MMSE decline 2+ points in 6 months: significant cognitive change
-- Serial MMSEs useful for monitoring progression
-- Acute change (days): suggests delirium, not dementia
+**تتبع التغير:**
+- تراجع MMSE بمقدار نقطتين فأكثر خلال 6 أشهر: تغير معرفي ذو دلالة
+- فحوصات MMSE المتتالية مفيدة لرصد التقدم
+- التغير الحاد (أيام): يشير إلى الهذيان وليس الخرف
 
-**Next steps if abnormal:**
-- Rule out delirium: medical evaluation, medication review
-- Neuropsychological testing: detailed cognitive mapping
-- Neuroimaging: MRI/CT for stroke, lesion, atrophy
-- Specialist referral: neurology, neuropsychology, geriatrics
+**الخطوات التالية عند وجود خلل:**
+- استبعاد الهذيان: تقييم طبي ومراجعة الأدوية
+- الاختبار العصبي النفسي: رسم معرفي مفصل
+- التصوير العصبي: رنين مغناطيسي/أشعة مقطعية للسكتة أو الآفة أو الضمور
+- الإحالة إلى أخصائي: طب الأعصاب، علم النفس العصبي، طب الشيخوخة
 
-## Integration with Cognitive Assessment
+## التكامل مع التقييم المعرفي
 
-**Often used with:**
-- Montreal Cognitive Assessment (MoCA): more comprehensive
-- Neuropsychological batteries: detailed assessment
-- Functional assessment: ADL/IADL
-- Depression screening: rule out pseudodementia
-- Medical workup: infection, metabolic, medication causes
+**غالباً ما يُستخدم مع:**
+- تقييم مونتريال المعرفي (MoCA): أكثر شمولاً
+- البطاريات العصبية النفسية: تقييم مفصل
+- التقييم الوظيفي: أنشطة الحياة اليومية الأساسية والمساعدة
+- فرز الاكتئاب: استبعاد الخرف الكاذب
+- الفحص الطبي: أسباب العدوى، الاستقلابية، الدوائية
 
-## Primary Sources
+## المصادر
 
 1. Folstein, M.F., Folstein, S.E., & McHugh, P.R. (1975). "Mini-Mental State": A practical method for grading the cognitive state of patients for the clinician. Journal of Psychiatric Research, 12(3), 189-198.
 2. Tombaugh, T.N., & McIntyre, N.J. (1992). The Mini-Mental State Examination: A comprehensive literature review. Journal of the American Geriatrics Society, 40(9), 922-935.
 3. Crum, R.M., Anthony, J.C., Bassett, S.S., & Folstein, M.F. (1993). Population-based norms for the Mini-Mental State Examination by age and educational level. JAMA, 269(18), 2386-2391.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Cognitive screening and assessment
-- Dementia and MCI detection
-- Delirium identification
-- Neuropsychological function
-- Capacity evaluation
-- Brain health assessment
+- الفرز والتقييم المعرفي
+- كشف الخرف والقصور المعرفي الخفيف
+- تحديد الهذيان
+- الوظيفة العصبية النفسية
+- تقييم الأهلية
+- تقييم صحة الدماغ

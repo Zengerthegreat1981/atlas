@@ -21,28 +21,30 @@ gaps: []
 
 # جماعاتُ الممارسة في اللسانيات الاجتماعية
 
-## Definition
+## التعريف
 
-Sociolinguistics studies language in social context. How do social factors (class, gender, ethnicity, region) affect language variation? How does language mark and create social identity? How does language change through communities?
+جماعةُ الممارسة (Community of Practice) مفهومٌ استعارته بينيلوپي إكرت وسالي مكونيل-جينيه من نظرية التعلّم الاجتماعي (جين ليڤ وإيتيان ونغر) وأدخلتاه إلى اللسانيات الاجتماعية في مقالتهما المرجعية "Think Practically and Look Locally" (1992)، ليصف تجمُّعاً من الأفراد يلتقون حول مسعًى مشترك، فتنشأ بينهم عبر التفاعل المتكرّر ممارساتٌ مشتركة — طرائقُ كلامٍ، وقيَمٌ، ومعتقداتٌ، وعلاقاتُ قوّة — تشكّل هويةً جماعية.
 
-## Variation
+## البديلُ عن الفئات الاجتماعية المجرَّدة
 
-All languages vary: speakers use different forms in different contexts and communities. This variation is systematic, not random. Phonological variables (like r-dropping), grammatical variables (like subject-verb agreement), and lexical variables show social patterning.
+جاء هذا المفهومُ نقداً لمنهج اللسانيات الاجتماعية المتغيّرية الكلاسيكية عند وليم لابوف، الذي يربط المتغيّراتِ اللغوية مباشرةً بفئاتٍ ديموغرافية مجرَّدة (الطبقة، الجنس، العمر) دون تفسير آلية الربط. رأت إكرت ومكونيل-جينيه أن هذا التجريدَ قد يُخفي أو يشوّه كيفيةَ تشكُّل المعنى الاجتماعي للمتغيّرات فعلياً على الأرض، واقترحتا دراسةَ اللغة عبر الممارسات الاجتماعية الملموسة داخل جماعاتٍ محدَّدة بدل الفئات الإحصائية الواسعة.
 
-## Social Stratification
+## دراسةُ إكرت في مدرسة "بلتواي"
 
-Linguistic variation correlates with social variables: education, income, ethnicity, gender. Some variants have prestige (associated with power, education); others have stigma. Speech reveals social position.
+طبّقت إكرت هذا الإطارَ في دراستها الإثنوغرافية المطوَّلة لمراهقين في ضاحيةٍ أمريكية (*Jocks and Burnouts*, 1989؛ ولاحقاً *Linguistic Variation as Social Practice*, 2000)، حيث بيّنت أن جماعتين متمايزتين اجتماعياً داخل المدرسة نفسها — "الجوكس" الموجَّهون نحو المؤسسة المدرسية و"البيرناوتس" الأقرب لثقافة الشارع خارجها — طوّرتا أنماطاً صوتيةً متمايزة (كموقعهما من تحوّل الصوائت الشمالي الأمريكي) لا تُفسَّر بالطبقة الاجتماعية وحدها بل بالممارسة اليومية والانتماء المحلي داخل الجماعة.
 
-## Gender Differences
+## بناءُ المعنى الاجتماعي محلياً
 
-Women and men use language differently in systematic ways. Women use more prestige forms; men use more vernacular forms. In some communities, women lead linguistic change. Gender differences reflect and reinforce social roles.
+يفترض هذا الإطارُ أن المتغيّرَ اللغوي لا يحمل معنًى اجتماعياً ثابتاً سلفاً (كأن يكون شكلٌ "مرموقاً" وآخر "شعبياً" بإطلاق)، بل يكتسب معناه من توظيفه المتكرّر داخل ممارسات جماعةٍ بعينها، فقد يصير المتغيّرُ نفسُه علامةَ تمرّدٍ في جماعةٍ وعلامةَ التزامٍ مؤسسي في أخرى. هذا ما يسمح بتفسير التبايناتِ الدقيقة التي تعجز الفئاتُ الديموغرافية الواسعة (كـ"النساء" أو "الطبقة العاملة") عن تفسيرها.
 
-## Language Change
+## الأثر على دراسات اللغة والجندر
 
-Languages change through communities. Sound changes (like vowel shifts) spread through generations. Older speakers use older forms; younger speakers use newer forms. Changes spread through social networks, not uniformly.
+أعاد هذا المفهومُ تشكيلَ دراسات اللغة والجندر تحديداً، إذ حوَّل السؤالَ من "كيف يتكلّم الرجال والنساء بشكل مختلف؟" إلى "كيف تُبنى الهوياتُ الجندرية عبر ممارساتٍ لغوية محلّية داخل جماعاتٍ بعينها؟"، وصار أساساً منهجياً لموجةٍ ثالثة من اللسانيات الاجتماعية المتغيّرية تركّز على المعنى الأسلوبي (Stylistic Meaning) بدل الارتباط الإحصائي المجرَّد بين متغيّرٍ وفئة.
 
-## References
+## المصادر
 
-- Labov, W. (1972). *Sociolinguistic Patterns*. University of Pennsylvania Press.
+- Eckert, P., & McConnell-Ginet, S. (1992). "Think Practically and Look Locally: Language and Gender as Community-Based Practice." *Annual Review of Anthropology*, 21, 461-490.
 - Eckert, P. (2000). *Linguistic Variation as Social Practice*. Blackwell.
+- Lave, J., & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press.
+- Eckert, P. (2006). "Communities of Practice." In *Encyclopedia of Language and Linguistics* (2nd ed.). Elsevier.
 

@@ -26,58 +26,23 @@ gaps:
 
 # روجر و. سپيري
 
-## Definition and Overview
+عالمُ أعصابٍ أمريكي (1913-1994)، حائزٌ على جائزة نوبل في الطب أو علم وظائف الأعضاء سنة 1981 (مشاركةً مع ديفيد هوبل وتورستن ﭬيزل)، اشتُهر بأبحاثه الرائدة على مرضى «الدماغ المشقوق» (Split-Brain)، التي قدّمت أقوى دليلٍ تجريبي مباشر على التخصّص الوظيفي المتمايز بين نصفَي الدماغ، وفي مقدمته وظائف اللغة.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## جراحة فصل الدماغين
 
-## Theoretical Framework
+عمل سپيري مع مرضى خضعوا لعملية «بضع الجسم الثفني» (Corpus Callosotomy) — قطع الحزمة العصبية الكثيفة (الجسم الثفني) التي تربط نصفَي الدماغ — بوصفها علاجاً جذرياً لحالات الصرع الشديد المستعصي على العلاج الدوائي. أتاحت هذه العمليات، النادرة الحدوث، فرصةً تجريبية استثنائية لدراسة كل نصف دماغٍ بمعزلٍ نسبي عن الآخر لأول مرة بصورةٍ منهجية.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## التخصّص الوظيفي بين النصفين
 
-## Key Mechanisms
+صمّم سپيري تجارب دقيقة لعرض منبهاتٍ بصرية أو لمسية على نصف دماغٍ واحد فقط لدى هؤلاء المرضى (مستغلاً تشريح مسارات الإبصار العصبية)، فأظهر أن النصف الأيسر يتفوّق بوضوحٍ في المهام اللغوية (الكلام والقراءة والكتابة)، بينما يتفوّق النصف الأيمن في مهامَ غير لفظية كالإدراك المكاني والتعرّف على الوجوه، وإن أثبت امتلاكه قدراتٍ فهمٍ لغوي محدودة لم تكن متوقَّعة قبل هذه التجارب. قدّمت هذه النتائج أدلةً تجريبية مباشرة على **التخصّص النصفي الدماغي للغة** (Hemispheric Lateralization)، الذي كان مستنتَجاً سابقاً بصورةٍ غير مباشرة فقط من دراسات آفات بروكا وفيرنيكه.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## الأثر الفلسفي والعلمي
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+أثارت نتائج سپيري تساؤلاتٍ فلسفية عميقة حول طبيعة الوعي والهوية الشخصية الموحَّدة: هل يملك مريض «الدماغ المشقوق» تيارَي وعيٍ منفصلين يعملان بالتوازي في نصفَي دماغٍ واحد؟ فتح هذا السؤال حقلاً بحثياً مستمراً في فلسفة العقل والأعصاب حتى اليوم، وجعل عمله مرجعاً أساسياً ليس فقط في علم اللغة العصبي، بل في دراسة الوعي والتكامل الإدراكي عموماً.
 
-## Experimental Evidence
+## المصادر
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
-
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
-
-## Cross-Linguistic Applications
-
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Sperry, Roger W. "Cerebral Organization and Behavior." *Science*, 133(3466), 1961.
+- Gazzaniga, Michael S., Bogen, Joseph E., & Sperry, Roger W. "Some Functional Effects of Sectioning the Cerebral Commissures in Man." *Proceedings of the National Academy of Sciences*, 48(10), 1962.
+- Gazzaniga, Michael S. *The Bisected Brain*. Appleton-Century-Crofts, 1970.
+- Sperry, Roger W. "Some Effects of Disconnecting the Cerebral Hemispheres" (Nobel Lecture). *Science*, 217(4566), 1982.

@@ -12,6 +12,7 @@ active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "sch-economic-anthropology-expanded", target_type: "مدرسة"
 related:
+  - id: "thk-durkheim", title: "إميل دوركهايم", type: "مفكر"
   - id: "thk-adam-smith", title: "آدم سميث", type: "مفكر"
 gaps:
   - "دراسةٌ محدودةٌ عن تقسيمِ العملِ الرقميّ والعملِ بالعمولة."

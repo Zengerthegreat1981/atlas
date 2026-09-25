@@ -17,7 +17,8 @@ active_end: 786
 active_source: "estimate"
 edges:
 - rel: "belongs_to", target: "sch-arabic-grammatical-tradition", target_type: "مدرسة"
-related: []
+related:
+- id: "thk-al-khalil-ibn-ahmad", title: "الخليل بن أحمد الفراهيدي", type: "مفكر"
 gaps: []
 ---
 

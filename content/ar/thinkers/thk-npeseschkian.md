@@ -14,7 +14,6 @@ active_end: 2010
 part: "psychology"
 edges: []
 related:
-- id: "thk-brueger", title: "بيرند رويغر", type: "مفكر"
 - id: "thk-mcierpka", title: "مانفريد شيربكا", type: "مفكر"
 - id: "thk-fpeseschkian", title: "فريد بيسشكيان", type: "مفكر"
 gaps:

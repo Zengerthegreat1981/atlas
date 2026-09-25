@@ -23,7 +23,6 @@ related:
 - id: "thk-sheila-blumstein", title: "شيلا بلومستين", type: "مفكر"
 - id: "thk-ludwig-lichtheim", title: "لودفيغ ليشتهايم", type: "مفكر"
 - id: "sch-classical-neurolinguistics", title: "علمُ اللغة العصبيُّ الكلاسيكي (Classical Neurolinguistics)", type: "مدرسة"
-- id: "sch-neurolinguistics-brain", title: "علم اللغة العصبي والدماغ", type: "مدرسة"
 - id: "syn-broca-aphasia", title: "حبسة بروكا", type: "متلازمة"
 - id: "syn-wernicke-aphasia", title: "حبسة فيرنيكه", type: "متلازمة"
 - id: "syn-conduction-aphasia", title: "الحبسة التوصيلية", type: "متلازمة"

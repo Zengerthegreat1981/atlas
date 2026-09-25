@@ -9,199 +9,199 @@ related_schools:
   - sch-trait-psychology
 ---
 
-# NEO Five-Factor Inventory (NEO-FFI)
+# قائمة NEO للعوامل الخمسة الكبرى (NEO Five-Factor Inventory (NEO-FFI))
 
-The NEO-FFI is a brief, 60-item personality assessment measuring the Big Five personality factors: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. Developed by Costa and McCrae (1992), it assesses stable personality traits across clinical, research, and occupational settings.
+قائمة NEO-FFI مقياس شخصية موجز من 60 بنداً يقيس عوامل الشخصية الخمسة الكبرى: الانفتاح، الضمير الحي، الانبساط، المقبولية، والعصابية. طوّره كوستا وماك‌كراي (Costa & McCrae) (1992)، ويقيّم سمات الشخصية المستقرة عبر الأوساط السريرية والبحثية والمهنية.
 
-## Development
+## التطوير
 
-**Costa & McCrae (1985-1992):**
-- Extended from NEO Personality Inventory (240 items)
-- Created brief 60-item version (12 items per factor)
-- Based on Five-Factor Model of personality
-- Extensive validation across cultures and populations
+**كوستا وماك‌كراي (1985-1992):**
+- امتداد من قائمة NEO للشخصية (240 بنداً)
+- إنشاء نسخة موجزة من 60 بنداً (12 بنداً لكل عامل)
+- مبنية على نموذج العوامل الخمسة للشخصية
+- تحقق واسع عبر الثقافات والفئات
 
-**Five-Factor Model foundation:**
-- Openness: curiosity, creativity, intellectual engagement
-- Conscientiousness: organization, discipline, goal-directedness
-- Extraversion: sociability, assertiveness, energy
-- Agreeableness: compassion, cooperativeness, empathy
-- Neuroticism: negative emotion, anxiety, stress reactivity
+**أساس نموذج العوامل الخمسة:**
+- الانفتاح: الفضول، الإبداع، الانخراط الفكري
+- الضمير الحي: التنظيم، الانضباط، التوجه نحو الأهداف
+- الانبساط: الاجتماعية، التوكيدية، الطاقة
+- المقبولية: التعاطف، التعاون، التراحم
+- العصابية: الانفعال السلبي، القلق، التفاعلية مع الضغط
 
-## Items & Format
+## البنود والصيغة
 
-**60 items total (12 per factor):**
+**60 بنداً إجمالاً (12 لكل عامل):**
 
-| Factor | Domain | Item Examples |
+| العامل | المجال | أمثلة على البنود |
 |--------|--------|----------------|
-| **O: Openness** | Imagination, aesthetics, ideas, values, actions, feelings | "I have wide, varied interests", "I like to try new things" |
-| **C: Conscientiousness** | Competence, order, dutifulness, achievement, discipline, deliberation | "I am a productive person", "I plan ahead" |
-| **E: Extraversion** | Warmth, assertiveness, activity, excitement-seeking, positive emotion, gregariousness | "I am outgoing", "I like being the center of attention" |
-| **A: Agreeableness** | Trust, altruism, cooperation, modesty, straightforwardness, tender-mindedness | "I am sympathetic", "I try to be kind to others" |
-| **N: Neuroticism** | Anxiety, hostility, depression, self-consciousness, impulsiveness, vulnerability | "I worry about things", "I get frustrated easily" |
+| **الانفتاح (O)** | الخيال، الجماليات، الأفكار، القيم، الأفعال، المشاعر | "لديّ اهتمامات واسعة ومتنوعة"، "أحب تجربة أشياء جديدة" |
+| **الضمير الحي (C)** | الكفاءة، النظام، الشعور بالواجب، الإنجاز، الانضباط، التروّي | "أنا شخص منتج"، "أخطط مسبقاً" |
+| **الانبساط (E)** | الدفء، التوكيدية، النشاط، السعي وراء الإثارة، الانفعال الإيجابي، الاجتماعية | "أنا منفتح اجتماعياً"، "أحب أن أكون مركز الاهتمام" |
+| **المقبولية (A)** | الثقة، الإيثار، التعاون، التواضع، الصراحة، الرقة | "أنا متعاطف"، "أحاول أن أكون لطيفاً مع الآخرين" |
+| **العصابية (N)** | القلق، العدائية، الاكتئاب، الوعي الذاتي المفرط، الاندفاعية، الهشاشة | "أقلق بشأن الأمور"، "أُحبَط بسهولة" |
 
-**Response format:**
-- 5-point Likert scale: Strongly Disagree (1) to Strongly Agree (5)
-- Time frame: Current personality/general tendencies
-- Administration time: 10-15 minutes
-- Self-report questionnaire
+**صيغة الاستجابة:**
+- مقياس ليكرت من 5 درجات: لا أوافق بشدة (1) إلى أوافق بشدة (5)
+- الإطار الزمني: الشخصية الحالية/النزعات العامة
+- زمن التطبيق: 10-15 دقيقة
+- استبيان تقرير ذاتي
 
-## Scoring & Interpretation
+## التصحيح والتفسير
 
-**Raw score calculation:**
-- Sum 12 items per factor
-- Range per factor: 12-60
+**حساب الدرجة الخام:**
+- جمع 12 بنداً لكل عامل
+- المدى لكل عامل: 12-60
 
-**T-score conversion:**
-- Convert raw scores to T-scores (M=50, SD=10) using norm tables
-- Allows comparison across factors
-- Normative comparison to reference group (by gender, age)
+**تحويل الدرجة المعيارية (T):**
+- تحويل الدرجات الخام إلى درجات معيارية (متوسط=50، انحراف معياري=10) باستخدام جداول المعايير
+- يتيح المقارنة عبر العوامل
+- مقارنة معيارية بمجموعة مرجعية (حسب الجنس والعمر)
 
-**Factor interpretation:**
-- T-score <40: Low on factor
-- T-score 40-60: Average on factor
-- T-score >60: High on factor
+**تفسير العامل:**
+- درجة معيارية أقل من 40: منخفض في العامل
+- درجة معيارية 40-60: متوسط في العامل
+- درجة معيارية أكثر من 60: مرتفع في العامل
 
-**Personality profile:**
-- Report profile showing all five factors
-- Consider combinations (e.g., high O + high C = creative perfectionist)
-- Extremes (very high or very low) vs. moderate scores
+**الملف الشخصي:**
+- تقرير يُظهر العوامل الخمسة جميعها
+- مراعاة التوليفات (مثال: انفتاح مرتفع + ضمير حي مرتفع = كمالي مبدع)
+- التطرف (مرتفع جداً أو منخفض جداً) مقابل الدرجات المعتدلة
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-**Reliability:**
-- Internal consistency (Cronbach's α): 0.72-0.77 per factor (moderate)
-- Test-retest reliability (3+ months): r = 0.83-0.86
-- Temporal stability good across years
-- Acceptable consistency within factors
+**الثبات:**
+- الاتساق الداخلي (ألفا كرونباخ): 0.72-0.77 لكل عامل (معتدل)
+- ثبات الإعادة (3 أشهر فأكثر): r = 0.83-0.86
+- استقرار زمني جيد عبر السنوات
+- اتساق مقبول داخل العوامل
 
-**Validity:**
-- Convergent validity: correlates with longer NEO-PI-R (r = 0.97)
-- Criterion validity: predicts life outcomes (job performance, relationship quality, health)
-- Discriminant validity: factors relatively independent (modest intercorrelations)
-- Cross-cultural validity: replicates in 50+ countries
+**الصدق:**
+- الصدق التقاربي: يرتبط بالنسخة الأطول NEO-PI-R (r = 0.97)
+- صدق المحك: يتنبأ بنتائج الحياة (الأداء الوظيفي، جودة العلاقات، الصحة)
+- الصدق التمييزي: العوامل مستقلة نسبياً (ارتباطات بينية متواضعة)
+- الصدق عبر الثقافات: يتكرر في أكثر من 50 دولة
 
-**Temporal stability:**
-- Personality relatively stable in adulthood
-- Small changes with therapy, life experiences
-- Increases in conscientiousness, decreases in neuroticism common with psychotherapy
+**الاستقرار الزمني:**
+- الشخصية مستقرة نسبياً في مرحلة الرشد
+- تغيرات صغيرة مع العلاج وتجارب الحياة
+- زيادة الضمير الحي وانخفاض العصابية أمران شائعان مع العلاج النفسي
 
-**Cross-cultural:**
-- Validated in 50+ countries and languages
-- Five-factor structure replicates across cultures
-- Mean level differences by culture/country
-- Generally stable psychometrics
+**عبر الثقافات:**
+- تحقق منه في أكثر من 50 دولة ولغة
+- بنية العوامل الخمسة تتكرر عبر الثقافات
+- فروق في المستوى المتوسط حسب الثقافة/الدولة
+- خصائص سيكومترية مستقرة عموماً
 
-## Clinical & Research Applications
+## التطبيقات السريرية والبحثية
 
-**Personality assessment:**
-- Baseline personality profile for clinical understanding
-- Treatment planning: personality influences therapy response
-- Prognosis: certain personality traits predict outcome
-- Change monitoring: shifts in personality with effective treatment
+**تقييم الشخصية:**
+- ملف شخصية أساسي للفهم السريري
+- تخطيط العلاج: الشخصية تؤثر في الاستجابة للعلاج
+- التكهن: سمات شخصية معينة تتنبأ بالنتيجة
+- رصد التغير: تحولات الشخصية مع العلاج الفعّال
 
-**Mental health:**
-- High neuroticism: risk factor for anxiety, depression, stress disorders
-- Low extraversion: associated with social anxiety, withdrawal
-- Low conscientiousness: risk for impulse control, substance abuse
-- High openness: sometimes associated with creativity but also psychotic-spectrum
+**الصحة النفسية:**
+- العصابية المرتفعة: عامل خطر للقلق والاكتئاب واضطرابات الضغط
+- الانبساط المنخفض: يرتبط بالقلق الاجتماعي والانسحاب
+- الضمير الحي المنخفض: خطر لضبط الاندفاع وتعاطي المواد
+- الانفتاح المرتفع: يرتبط أحياناً بالإبداع لكن أيضاً بطيف الذهان
 
-**Occupational/organizational:**
-- Hiring/selection: conscientiousness, agreeableness predict job performance
-- Leadership potential: extraversion, openness, emotional stability
-- Team fit: assess compatibility across factors
-- Career counseling: personality-occupation matching
+**المهني/التنظيمي:**
+- التوظيف/الاختيار: الضمير الحي والمقبولية يتنبآن بالأداء الوظيفي
+- إمكانات القيادة: الانبساط والانفتاح والاستقرار الانفعالي
+- الملاءمة الجماعية: تقييم التوافق عبر العوامل
+- الإرشاد المهني: مطابقة الشخصية بالمهنة
 
-**Research:**
-- Personality outcomes in various conditions
-- Therapy response predictors
-- Health outcomes linked to personality
-- Longitudinal personality change trajectories
+**البحث:**
+- نتائج الشخصية في حالات متنوعة
+- منبئات الاستجابة للعلاج
+- النتائج الصحية المرتبطة بالشخصية
+- مسارات تغير الشخصية الطولية
 
-**Special populations:**
-- Personality disorders: extreme high/low scores in certain factors
-- ADHD: often lower conscientiousness, higher neuroticism
-- Substance abuse: low conscientiousness, high neuroticism common
-- Depression: elevated neuroticism, reduced extraversion
-- Anxiety: high neuroticism, low extraversion/openness
+**فئات خاصة:**
+- اضطرابات الشخصية: درجات مرتفعة/منخفضة متطرفة في عوامل معينة
+- اضطراب فرط الحركة ونقص الانتباه: غالباً ضمير حي أقل وعصابية أعلى
+- تعاطي المواد: ضمير حي منخفض وعصابية مرتفعة شائعان
+- الاكتئاب: عصابية مرتفعة وانبساط منخفض
+- القلق: عصابية مرتفعة وانبساط/انفتاح منخفضان
 
-## Strengths
+## نقاط القوة
 
-- **Brevity:** 60 items, 10-15 minutes (vs. 240-item full version)
-- **Evidence-based:** Five-Factor Model extensively researched
-- **Reliability:** good test-retest stability, acceptable internal consistency
-- **Cross-cultural:** validated globally
-- **Practical:** easy to administer, score, interpret
-- **Outcome prediction:** personality traits predict therapy/life outcomes
-- **Normative:** can compare to reference groups
-- **Stability:** low test-retest variability (personality trait measure)
+- **الإيجاز:** 60 بنداً، 10-15 دقيقة (مقابل النسخة الكاملة من 240 بنداً)
+- **الأساس البحثي:** نموذج العوامل الخمسة مبحوث على نطاق واسع
+- **الثبات:** استقرار جيد في ثبات الإعادة، اتساق داخلي مقبول
+- **عبر الثقافات:** تحقق منه عالمياً
+- **العملية:** سهل التطبيق والتصحيح والتفسير
+- **التنبؤ بالنتائج:** سمات الشخصية تتنبأ بنتائج العلاج/الحياة
+- **معياري:** يمكن المقارنة بمجموعات مرجعية
+- **الاستقرار:** تباين منخفض في ثبات الإعادة (مقياس سمة شخصية)
 
-## Limitations
+## أوجه القصور
 
-- **Self-report bias:** personality self-perception, not objective behavior
-- **Social desirability:** some underreporting of neuroticism, overreporting of agreeableness/conscientiousness
-- **Factor independence:** factors not completely orthogonal (modest correlations)
-- **Short form limits:** only 12 items per factor; may miss nuance
-- **Stable trait assumption:** personality can change with major life events, therapy
-- **Cultural differences:** mean levels vary by country; interpretation needs cultural context
-- **Clinical utility debate:** personality traits stable; limited treatment implications directly
-- **Occupational bias:** FFM better predicts some jobs than others
+- **تحيز التقرير الذاتي:** تصور ذاتي للشخصية، وليس سلوكاً موضوعياً
+- **المرغوبية الاجتماعية:** تقليل الإبلاغ عن العصابية أحياناً، ومبالغة في المقبولية/الضمير الحي
+- **استقلالية العوامل:** العوامل ليست متعامدة تماماً (ارتباطات متواضعة)
+- **قيود النسخة القصيرة:** 12 بنداً فقط لكل عامل؛ قد تفوّت الدقائق
+- **افتراض السمة المستقرة:** يمكن أن تتغير الشخصية مع أحداث حياتية كبرى أو العلاج
+- **الفروق الثقافية:** تتفاوت المستويات المتوسطة حسب الدولة؛ يحتاج التفسير سياقاً ثقافياً
+- **جدل الفائدة السريرية:** سمات الشخصية مستقرة؛ دلالات علاجية مباشرة محدودة
+- **تحيز مهني:** يتنبأ نموذج العوامل الخمسة ببعض الوظائف أفضل من غيرها
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Related instruments:**
-- NEO-PI-R: full 240-item version (longer, more detailed)
-- NEO-PI-3: revised with updated norms
-- IPIP (International Personality Item Pool): free public-domain Five-Factor measure
-- BFI (Big Five Inventory): alternative 44-item measure
-- TDA (Ten-Item Personality Inventory): ultra-brief screening
+**أدوات ذات صلة:**
+- NEO-PI-R: النسخة الكاملة من 240 بنداً (أطول وأكثر تفصيلاً)
+- NEO-PI-3: نسخة منقحة بمعايير محدثة
+- IPIP (مجمع بنود الشخصية الدولي): مقياس عوامل خمسة مجاني في الملكية العامة
+- BFI (قائمة العوامل الخمسة الكبرى): مقياس بديل من 44 بنداً
+- TDA (قائمة الشخصية العشارية): فرز فائق الإيجاز
 
-**Domain-specific:**
-- FFM applied to various populations (children, cultures, languages)
-- Clinical interpretations for psychiatric conditions
-- Occupational variants (leadership, teamwork focus)
+**خاصة بمجال محدد:**
+- تطبيق نموذج العوامل الخمسة على فئات متنوعة (الأطفال، الثقافات، اللغات)
+- تفسيرات سريرية للحالات النفسية
+- نسخ مهنية (تركيز على القيادة والعمل الجماعي)
 
-## Clinical Interpretation
+## التفسير السريري
 
-**Factor combinations and clinical significance:**
-- High N + Low E: depression, social withdrawal risk
-- High N + Low C: impulsivity, substance abuse risk, poor treatment adherence
-- Low C + High O: creative but disorganized; structure needed
-- High A + Low C: conflict-avoidant; assertiveness training needed
-- Low A: difficult interpersonal patterns; relationship therapy focus
+**توليفات العوامل ودلالتها السريرية:**
+- عصابية مرتفعة + انبساط منخفض: خطر اكتئاب وانسحاب اجتماعي
+- عصابية مرتفعة + ضمير حي منخفض: اندفاعية، خطر تعاطي مواد، التزام ضعيف بالعلاج
+- ضمير حي منخفض + انفتاح مرتفع: مبدع لكن غير منظم؛ يحتاج بنية
+- مقبولية مرتفعة + ضمير حي منخفض: تجنب النزاع؛ يحتاج تدريباً على التوكيدية
+- مقبولية منخفضة: أنماط تفاعل صعبة؛ تركيز على علاج العلاقات
 
-**Therapy response prediction:**
-- High C: good medication/homework compliance; structure valued
-- High A: collaborative, good therapeutic alliance
-- Low C + Low A: resistance likely; motivational work needed
-- High E: may benefit from group, social interventions
-- High N: intensive support, symptom management needed
+**التنبؤ بالاستجابة للعلاج:**
+- ضمير حي مرتفع: التزام جيد بالدواء/الواجبات؛ يقدّر البنية
+- مقبولية مرتفعة: تعاوني، تحالف علاجي جيد
+- ضمير حي منخفض + مقبولية منخفضة: احتمال مقاومة؛ يحتاج عملاً تحفيزياً
+- انبساط مرتفع: قد يستفيد من التدخلات الجماعية والاجتماعية
+- عصابية مرتفعة: يحتاج دعماً مكثفاً وإدارة للأعراض
 
-**Occupational counseling:**
-- High C + High A + Low N: optimal traits for helping professions
-- High O + High C: innovation with reliability (valuable leadership)
-- High E + Low C: entrepreneurial, but needs organizational structure
-- Very low E: avoid high-visibility roles; technical paths better
+**الإرشاد المهني:**
+- ضمير حي مرتفع + مقبولية مرتفعة + عصابية منخفضة: سمات مثالية للمهن المساعِدة
+- انفتاح مرتفع + ضمير حي مرتفع: ابتكار مع موثوقية (قيادة قيّمة)
+- انبساط مرتفع + ضمير حي منخفض: ريادي لكن يحتاج بنية تنظيمية
+- انبساط منخفض جداً: تجنب الأدوار عالية الظهور؛ المسارات التقنية أفضل
 
-## Integration with Other Assessment
+## التكامل مع تقييمات أخرى
 
-**Often used with:**
-- Clinical interviews: personality context for current symptoms
-- Symptom measures (PHQ-9, GAD-7): personality risk factors for disorder
-- Psychotherapy process: personality guides treatment approach
-- Occupational testing: personality-job fit assessment
+**غالباً ما تُستخدم مع:**
+- المقابلات السريرية: سياق الشخصية للأعراض الحالية
+- مقاييس الأعراض (PHQ-9، GAD-7): عوامل خطر الشخصية للاضطراب
+- عملية العلاج النفسي: الشخصية توجّه نهج العلاج
+- الاختبار المهني: تقييم ملاءمة الشخصية للوظيفة
 
-## Primary Sources
+## المصادر
 
 1. Costa, P.T., & McCrae, R.R. (1992). Revised NEO Personality Inventory (NEO-PI-R) and NEO Five-Factor Inventory (NEO-FFI) professional manual. Psychological Assessment Resources.
 2. Costa, P.T., & McCrae, R.R. (1995). Domains and facets: Hierarchical personality assessment using the Revised NEO Personality Inventory. Journal of Personality Assessment, 64(1), 21-50.
 3. Roberts, B.W., Kuncel, N.R., Shiner, R., Caspi, A., & Goldberg, L.R. (2007). The power of personality: The comparative validity of personality traits, socioeconomic status, and cognitive ability for predicting important life outcomes. Perspectives on Psychological Science, 2(4), 313-345.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Five-Factor Model of personality
-- Personality traits and stability
-- Trait assessment and prediction
-- Personality-disorder relationships
-- Occupational personality fit
-- Treatment response and personality
+- نموذج العوامل الخمسة للشخصية
+- سمات الشخصية واستقرارها
+- تقييم السمات والتنبؤ
+- العلاقة بين الشخصية واضطراباتها
+- ملاءمة الشخصية للمهنة
+- الاستجابة للعلاج والشخصية

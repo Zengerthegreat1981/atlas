@@ -21,31 +21,28 @@ gaps: []
 
 # أنظمةُ تبديل المرجع
 
-## Definition
+أنظمة تبديل المرجع ظاهرةٌ صرفية نحوية توجد في عددٍ من لغات العالم، خصوصاً في أمريكا الشمالية وغينيا الجديدة وأستراليا، حيث يحمل الفعلُ في جملةٍ متصلة بجملةٍ أخرى (غالباً في سلاسل الجمل المتتابعة أو Clause Chaining) لاحقةً أو صيغةً صرفية تدلّ صراحةً على ما إذا كان فاعل الجملة التالية هو فاعل الجملة السابقة نفسه أم فاعلٌ مختلف، دون حاجةٍ إلى استخدام ضمائر أو أسماء صريحة لتتبّع المرجع.
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+## التمييز الأساسي: الفاعل نفسه مقابل فاعلٍ مختلف
 
-## Theoretical Framework
+يقوم النظام النموذجي (Canonical Switch-Reference) على تقابلٍ ثنائي: صيغة «الفاعل نفسه» (Same Subject، SS) تُستخدم حين يتطابق فاعل الجملتين المتتاليتين، وصيغة «الفاعل المختلف» (Different Subject، DS) حين يختلفان. ويكون هذا الترميز إلزامياً نحوياً في اللغات التي تملكه، خلافاً لضمائر الإحالة النصية (Anaphora) في لغاتٍ كالإنجليزية أو العربية، التي تعتمد على السياق أو تكرار الاسم لحلّ الغموض المرجعي.
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+## توزّعها اللغوي
 
-## Key Principles
+تشيع أنظمة تبديل المرجع بوضوحٍ في لغات السهول الأمريكية الشمالية (كلغات يوتو-أزتيكان ومسكوگي)، وفي عددٍ كبير من لغات غينيا الجديدة (كالتي تنتمي إلى أسرة تراسمونتاني)، وفي بعض لغات أستراليا الأصلية. ويلاحظ الباحثون ارتباطاً نمطياً وثيقاً بين وجود تبديل المرجع وبين بنية «سلسلة الجمل» التي تربط عدداً من الجمل المتوسطة (Medial Clauses) غير المكتملة صرفياً بجملةٍ ختامية تحمل علامات الزمن والوجه، إذ تُوسَم كل جملةٍ متوسطة بعلامة تبديل مرجعٍ تربطها بالجملة التالية لها في السلسلة.
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+## تبديل المرجع غير النموذجي
 
-## Evidence Sources
+بيّنت أبحاثٌ لاحقة، منها أعمال جون هايمان وپاميلا مونرو، أن وظيفة هذه العلامات لا تقتصر أحياناً على تتبّع الفاعل النحوي، بل تمتدّ إلى الإشارة إلى تطابقٍ أو اختلافٍ في معاملاتٍ أخرى كالزمن أو المكان أو واقعية الحدث (Realis/Irrealis)، وهو ما يُعرف بـ«تبديل المرجع غير النموذجي» (Non-Canonical Switch-Reference)؛ ففي بعض اللغات تُستخدم علامة «الفاعل المختلف» حتى مع تطابق الفاعل إن اختلف زمن أو مكان الحدثين، مما يوسّع وظيفة النظام من تتبّع المرجع الصرف إلى تنظيم تماسك الخطاب عموماً.
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+## الأهمية النظرية
 
-## Contemporary Applications
+تُستخدم أنظمة تبديل المرجع دليلاً مهماً في النقاش النمطي حول العلاقة بين البنية الصرفية وبنية الخطاب، إذ تُظهر أن بعض اللغات تُدمج آليات تماسك النص (Discourse Cohesion) مباشرةً في الصرف الإلزامي للفعل، خلافاً للافتراض الشائع بأن تتبّع المرجع وظيفةٌ تداولية بحتة تُترك للسياق. كما شكّلت اختباراً مهماً لنظريات الحدود الجملية والتراتب النحوي بين الجمل الرئيسة والمتوسطة والتابعة.
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+## المصادر
 
-## References
-
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+- Haiman, John, & Munro, Pamela (eds.). *Switch-Reference and Universal Grammar*. John Benjamins, 1983.
+- Stirling, Lesley. *Switch-Reference and Discourse Representation*. Cambridge University Press, 1993.
+- Roberts, John R. "Switch-Reference in Papua New Guinea: A Preliminary Survey." *Papers in New Guinea Linguistics*, 1988.
+- Van Gijn, Rik, et al. (eds.). *Switch Reference 2.0*. John Benjamins, 2015.
 

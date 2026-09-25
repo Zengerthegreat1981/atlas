@@ -17,23 +17,5 @@ gaps: []
 
 # تاريخ طرق الحرير (Silk Roads Historiography)
 
-## Silk Roads Historiography
 
-Study of interconnected trade and communication networks across Eurasia; examines goods, ideas, and people in motion.
-
-### Key Aspects
-
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
-
-### Related Fields
-
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+دراسة شبكات التجارة والاتصال المترابطة عبر أوراسيا؛ تبحث في حركة السلع والأفكار والناس.

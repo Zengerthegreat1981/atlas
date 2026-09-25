@@ -19,23 +19,17 @@ gaps: []
 
 # دليل الأرشيفات (A Manual of Archive Administration)
 
-## A Manual of Archive Administration
+## دليل الأرشيفات
 
-Foundational work on archival theory and practice; established principles of provenance and original order.
+عملٌ تأسيسي في نظرية الأرشفة وممارستها؛ أرسى مبادئ المصدرية (provenance) والترتيب الأصلي.
 
-### Key Aspects
+### أهم الجوانب
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثِّل هذه العقدةُ جزءاً من القسم 20: الأطر العابرة للتخصصات والتوليف، في مبحث التأريخ.
 
-### Related Fields
+### حقول ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- حقول التأريخ الناشئة

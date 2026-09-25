@@ -9,267 +9,268 @@ related_schools:
   - sch-cognitive-behavioral
 ---
 
-# PREP: Prevention and Relationship Enhancement Program
+# PREP: برنامج الوقاية وتعزيز العلاقة
 
-PREP is a research-based premarital and marital enrichment program designed to help couples develop communication skills, manage conflict constructively, and strengthen their relationships through prevention-focused education and skills training. Developed by Howard Markman and Scott Stanley at the University of Denver in the early 1980s, PREP has become one of the most extensively studied and widely implemented couple education programs internationally.
+PREP برنامجٌ قائمٌ على البحث لإثراء ما قبل الزواج والزواج، صُمِّم لمساعدة الأزواج على تنمية مهارات التواصل، وإدارة النزاع بطريقةٍ بنّاءة، وتقوية علاقاتهم عبر تربيةٍ وقائية وتدريبٍ على المهارات. طوَّره هوارد ماركمان (Howard Markman) وسكوت ستانلي (Scott Stanley) في جامعة دنفر أوائل الثمانينيات، وأصبح PREP من أكثر برامج تربية الأزواج دراسةً وتطبيقاً على مستوى العالم.
 
-## Development & History
+## التطور والتاريخ
 
-**Founded:** 1981 by Howard J. Markman and Scott M. Stanley at University of Denver
+**التأسيس:** عام 1981 على يد هوارد ج. ماركمان وسكوت م. ستانلي في جامعة دنفر
 
-**Motivation:** Recognition that premarital education and early intervention could prevent marital dissolution
+**الدافع:** إدراك أن التربية لما قبل الزواج والتدخل المبكر يمكن أن يمنعا انفصام الزواج
 
-**Evolution:** 
-- Original 5-session intensive format (weekends)
-- Adapted to 4-session, 8-session, and online formats
-- Refined based on extensive longitudinal research
-- International adoption and translation into 20+ languages
-- Applied to military couples, disadvantaged populations, and various cultural contexts
+**التطور:**
+- الصيغة المكثفة الأصلية من 5 جلسات (عطلات نهاية الأسبوع)
+- كُيِّف إلى صيغٍ من 4 جلسات و8 جلسات وصيغةٍ إلكترونية
+- صُقل استناداً إلى بحثٍ طولي واسع
+- تبنٍّ دولي وترجمةٌ إلى أكثر من 20 لغة
+- طُبِّق على أزواج عسكريين وفئاتٍ محرومة وسياقاتٍ ثقافية متنوعة
 
-**Research foundation:** Longitudinal studies tracking thousands of couples from engagement through marriage, predicting which couples divorce based on early relationship patterns
+**الأساس البحثي:** دراساتٌ طولية تتبعت آلاف الأزواج من الخطوبة حتى الزواج، متنبئةً بأيّ الأزواج سيطلَّقون استناداً إلى أنماط العلاقة المبكرة
 
-## Theoretical Foundations
+## الأسس النظرية
 
-### Systems & Relationship Theory
-- Couple as system with interdependent patterns
-- Communication and interaction patterns predict relationship stability
-- Early warning signs and risk factors can be identified and addressed
+### نظرية النَّسَق والعلاقة
+- الزوجان نظامٌ ذو أنماطٍ مترابطة
+- أنماط التواصل والتفاعل تتنبأ باستقرار العلاقة
+- يمكن تحديد علامات الإنذار المبكر وعوامل الخطر ومعالجتها
 
-### Prevention Model
-- Preventing problems is more effective than treating established dysfunction
-- Early intervention during engagement/early marriage most cost-effective
-- Universal prevention appropriate for all couples
+### نموذج الوقاية
+- الوقاية من المشكلات أنجع من علاج خللٍ راسخ
+- التدخل المبكر أثناء الخطوبة/بداية الزواج الأجدى اقتصادياً
+- الوقاية الشاملة ملائمةٌ لجميع الأزواج
 
-### Cognitive-Behavioral Approach
-- Skills-based: teaching specific techniques for communication and conflict management
-- Practice and homework: applying skills outside sessions
-- Problem-solving and decision-making frameworks
+### النهج السلوكي المعرفي
+- قائمٌ على المهارات: تعليم تقنياتٍ محددة للتواصل وإدارة النزاع
+- الممارسة والواجبات: تطبيق المهارات خارج الجلسات
+- أطر حل المشكلات واتخاذ القرار
 
-### Attachment & Connection
-- Maintaining emotional friendship and positive interaction
-- Managing conflict while preserving connection
-- Long-term commitment and dedication
+### التعلّق والاتصال
+- الحفاظ على الصداقة الانفعالية والتفاعل الإيجابي
+- إدارة النزاع مع الحفاظ على الاتصال
+- الالتزام والتفاني طويلا الأمد
 
-## PREP Curriculum Components
+## مكونات منهج PREP
 
-### 1. The Speaker-Listener Technique
-**Core communication tool:**
-- **Speaker role:** expresses feelings and perspective; avoids blaming, mind-reading, or defensiveness
-- **Listener role:** paraphrases without arguing, asks clarifying questions, gives non-verbal support
-- **Turn-taking:** structured alternation so both voices heard
-- **Goals:** ensure understanding, prevent escalation, maintain respect
+### 1. تقنية المتحدث-المستمع
+**أداة التواصل الجوهرية:**
+- **دور المتحدث:** يعبّر عن المشاعر والمنظور؛ يتجنب اللوم أو قراءة الأفكار أو التبرير الدفاعي
+- **دور المستمع:** يعيد الصياغة دون جدال، ويطرح أسئلة توضيحية، ويقدّم دعماً غير لفظي
+- **تبادل الأدوار:** تناوبٌ منظَّم بحيث يُسمَع الصوتان
+- **الأهداف:** ضمان الفهم، ومنع التصعيد، والحفاظ على الاحترام
 
-**Practice areas:** finances, children, family involvement, in-laws, sexual intimacy
+**مجالات الممارسة:** المال، الأطفال، مشاركة الأسرة، الأصهار، الحميمية الجنسية
 
-### 2. Identifying and Preventing the Four Patterns of Destruction
+### 2. تحديد أنماط التدمير الأربعة ومنعها
 
-**Escalation**
-- Negative pattern spiraling
-- Each partner responds negatively to partner's negativity
-- Pattern: attack → counterattack → increasing hostility
-- Intervention: caller time-out, speaker-listener technique, de-escalation
+**التصعيد (Escalation)**
+- نمطٌ سلبي يتصاعد حلزونياً
+- يرد كلُّ شريكٍ سلباً على سلبية الآخر
+- النمط: هجوم ← هجومٌ مضاد ← عداءٌ متزايد
+- التدخل: مهلة المتصل، تقنية المتحدث-المستمع، تهدئة التصعيد
 
-**Invalidation**
-- Partner's thoughts, feelings, or perspective minimized or criticized
-- Subtle contempt, mockery, dismissiveness
-- Undermines sense of being valued and understood
-- Intervention: speaker-listener technique, empathy practice, validation exercises
+**إبطال المشاعر (Invalidation)**
+- تُقلَّل أفكار الشريك أو مشاعره أو منظوره أو تُنتقَد
+- احتقارٌ خفي، وسخرية، وتجاهل
+- يقوّض الشعور بالتقدير والفهم
+- التدخل: تقنية المتحدث-المستمع، ممارسة التعاطف، تمارين الإقرار بالمشاعر
 
-**Negative Interpretation**
-- Attributing negative intent to partner's neutral or ambiguous actions
-- "She forgot dinner because she doesn't care about me" (vs. she got delayed at work)
-- **Thought stopping:** catching and challenging automatic negative thoughts
-- Intervention: reality-testing, benefit of the doubt, curiosity about intent
+**التفسير السلبي (Negative Interpretation)**
+- عزو نيّةٍ سلبية لأفعال الشريك المحايدة أو الغامضة
+- "نسيت العشاء لأنها لا تهتم بي" (بدل أنها تأخرت في العمل)
+- **إيقاف الفكر:** رصد الأفكار السلبية الآلية وتحديها
+- التدخل: اختبار الواقع، وحسن الظن، والفضول تجاه النيّة
 
-**Withdrawal/Avoidance**
-- Refusing to engage in discussion or problem-solving
-- Stonewalling: silent treatment, physical departure
-- Prevents resolution and deepens disconnection
-- Intervention: re-engagement skills, speaker-listener technique, identifying triggers
+**الانسحاب/التجنب (Withdrawal/Avoidance)**
+- رفض الانخراط في النقاش أو حل المشكلة
+- التحصّن الصامت (Stonewalling): الصمت المتعمَّد، والمغادرة الجسدية
+- يمنع الحلّ ويعمّق الانفصال
+- التدخل: مهارات إعادة الانخراط، تقنية المتحدث-المستمع، تحديد المحفزات
 
-### 3. Building and Maintaining Friendship
+### 3. بناء الصداقة والحفاظ عليها
 
-**Core activities:**
-- **Dates:** setting aside time for couple connection
-- **Shared experiences:** creating positive memories and shared goals
-- **Fun and laughter:** levity and playfulness
-- **Interest in partner's life:** showing genuine curiosity and support
-- **Physical affection:** touch, sex, intimacy maintenance
+**الأنشطة الجوهرية:**
+- **المواعيد:** تخصيص وقتٍ لاتصال الزوجين
+- **الخبرات المشتركة:** خلق ذكرياتٍ وأهدافٍ إيجابية مشتركة
+- **المرح والضحك:** الخفة والمرح
+- **الاهتمام بحياة الشريك:** إظهار فضولٍ ودعمٍ صادقَين
+- **الحنان الجسدي:** اللمس والجنس والحفاظ على الحميمية
 
-### 4. Clarifying Expectations & Shared Meaning
+### 4. توضيح التوقعات والمعنى المشترك
 
-**Topics explored:**
-- Roles and responsibilities: who does what, is division fair?
-- Money and finances: spending, saving, joint vs. separate accounts
-- Children and parenting: timing, number, parenting philosophy, discipline
-- Work and career: priorities, work-life balance, career advancement
-- Sexual and physical intimacy: frequency, satisfaction, preferences
-- Family involvement: boundaries with in-laws, extended family time
-- Spiritual and personal growth: values, meaning, purpose
+**الموضوعات المستكشَفة:**
+- الأدوار والمسؤوليات: من يفعل ماذا، وهل التقسيم عادل؟
+- المال والتمويل: الإنفاق، الادخار، الحسابات المشتركة مقابل المنفصلة
+- الأطفال والتربية: التوقيت، العدد، فلسفة التربية، الانضباط
+- العمل والمسار المهني: الأولويات، التوازن بين العمل والحياة، التقدم المهني
+- الحميمية الجنسية والجسدية: التكرار، الرضا، التفضيلات
+- مشاركة الأسرة: الحدود مع الأصهار، وقت الأسرة الممتدة
+- النمو الروحي والشخصي: القيم، المعنى، الغاية
 
-**Process:**
-- Open discussion without defensiveness
-- Understanding partner's perspective and background
-- Identifying areas of agreement and disagreement
-- Problem-solving for manageable differences
-- Accepting what cannot be changed
+**العملية:**
+- نقاشٌ مفتوح دون تبريرٍ دفاعي
+- فهم منظور الشريك وخلفيته
+- تحديد مجالات الاتفاق والاختلاف
+- حل المشكلات للاختلافات القابلة للإدارة
+- قبول ما لا يمكن تغييره
 
-### 5. Sexual Intimacy
+### 5. الحميمية الجنسية
 
-**Topics addressed:**
-- Sexual satisfaction and desire differences
-- Communication about sexual preferences
-- Impact of stress, children, work on sexual relationship
-- Maintaining physical affection and touch
-- Addressing sexual dysfunction if present
+**الموضوعات المعالَجة:**
+- الرضا الجنسي واختلافات الرغبة
+- التواصل حول التفضيلات الجنسية
+- أثر التوتر والأطفال والعمل على العلاقة الجنسية
+- الحفاظ على الحنان الجسدي واللمس
+- معالجة الخلل الجنسي إن وُجد
 
-## Session Formats
+## صيغ الجلسات
 
-### Intensive Weekend Retreat (5 sessions, 2-day format)
-- Original format
-- Immersive experience
-- High engagement but requires time commitment
+### معتكف عطلة نهاية أسبوع مكثف (5 جلسات، صيغة يومين)
+- الصيغة الأصلية
+- خبرةٌ غامرة
+- انخراطٌ عالٍ لكنه يتطلب التزاماً زمنياً
 
-### Standard Group Format (4-8 sessions, weekly)
-- More accessible schedule
-- Group interaction with other couples
-- Cost-effective
+### الصيغة الجماعية المعيارية (4-8 جلسات، أسبوعياً)
+- جدولٌ أسهل وصولاً
+- تفاعلٌ جماعي مع أزواج آخرين
+- فعّالٌ من حيث التكلفة
 
-### Enrichment Format (2-3 sessions)
-- Condensed version for couples without identified problems
-- Focus on maintaining good relationships
-- Prevention emphasis
+### صيغة الإثراء (2-3 جلسات)
+- نسخةٌ مكثفة للأزواج الذين لا مشكلات محددة لديهم
+- التركيز على الحفاظ على علاقاتٍ جيدة
+- تشديدٌ وقائي
 
-### Online/Virtual Format
-- Video lessons, worksheets, practice assignments
-- Self-paced or structured
-- Increased accessibility post-COVID
+### الصيغة الإلكترونية/الافتراضية
+- دروسٌ مصوَّرة، وأوراق عمل، وتكليفات ممارسة
+- ذاتية الوتيرة أو منظَّمة
+- سهولة وصولٍ متزايدة بعد جائحة كوفيد
 
-## Research Evidence
+## أدلة البحث
 
-### Large-Scale Longitudinal Studies
-**Markman et al. (1993-2003)** — Denver couples study:
-- Followed engaged couples from engagement through marriage
-- Assessed at regular intervals (baseline, 6 months, 1 year, 3 years, 5 years post-marriage)
-- Sample sizes: hundreds to thousands of couples
+### دراسات طولية واسعة النطاق
+**ماركمان وآخرون (1993-2003)** — دراسة أزواج دنفر:
+- تابعت الخطيبين من الخطوبة حتى الزواج
+- قُيِّمت بفتراتٍ منتظمة (الأساس، 6 أشهر، سنة، 3 سنوات، 5 سنوات بعد الزواج)
+- أحجام العينة: مئاتٌ إلى آلاف الأزواج
 
-**Key findings:**
-- PREP couples showed better communication, lower conflict, higher satisfaction at follow-ups
-- Early communication patterns (escalation, withdrawal) predicted divorce
-- Effects maintained through 5+ years post-intervention
-- Protective effect strongest for younger couples and those at higher risk
+**النتائج الرئيسة:**
+- أظهر أزواج PREP تواصلاً أفضل ونزاعاً أقل ورضاً أعلى في المتابعات
+- تنبأت أنماط التواصل المبكرة (التصعيد، الانسحاب) بالطلاق
+- استمرت الآثار لأكثر من 5 سنوات بعد التدخل
+- كان الأثر الوقائي أقوى للأزواج الأصغر سناً وذوي المخاطر الأعلى
 
-### Two-Year Iranian Follow-Up Study (Fallahchai et al., 2020)
-- **Design:** Randomized trial, 160 newlywed couples (320 participants)
-- **Groups:** experimental (PREP training, n=80) vs. wait-list control (n=68, analyzed)
-- **Measures:** 
-  - ENRICH Marital Satisfaction Scale
-  - Dyadic Adjustment Scale (DAS)
-- **Assessment points:** pretest, posttest, 1-year follow-up, 2-year follow-up
-- **Results:**
-  - Posttest: significant differences between experimental and control groups on both marital satisfaction (p<0.05) and dyadic adjustment (p<0.05)
-  - Interpretation: PREP training improved marital satisfaction and dyadic adjustment for Iranian newlyweds
-  - **Conclusion:** PREP is effective as relationship education program for newlyweds in non-US cultural context
+### دراسة متابعةٍ إيرانية لعامين (فلاح‌چای وآخرون، 2020)
+- **التصميم:** تجربةٌ عشوائية، 160 زوجاً حديث الزواج (320 مشاركاً)
+- **المجموعات:** تجريبية (تدريب PREP، ن=80) مقابل ضابطة قائمة انتظار (ن=68، حُلِّلت)
+- **المقاييس:**
+  - مقياس ENRICH للرضا الزواجي
+  - مقياس التوافق الزوجي (DAS)
+- **نقاط التقييم:** قبل الاختبار، بعده، متابعة سنة، متابعة سنتين
+- **النتائج:**
+  - بعد الاختبار: فروقٌ دالة بين المجموعتين التجريبية والضابطة في الرضا الزواجي (p<0.05) والتوافق الزوجي (p<0.05)
+  - التفسير: حسَّن تدريب PREP الرضا الزواجي والتوافق الزوجي للمتزوجين حديثاً في إيران
+  - **الخلاصة:** PREP فعّالٌ برنامج تربية علاقةٍ للمتزوجين حديثاً في سياقٍ ثقافي غير أمريكي
 
-### Meta-Analytic Evidence
-**Carroll & Doherty (2003)** — meta-analysis of premarital programs:
-- Mean effect size: d = .80
-- Interpretation: average person in premarital program better off than 79% of non-participating control group
-- Programs including communication skills show strongest effects
-- PREP identified as one of strongest empirical programs
+### أدلة التحليل التلوي
+**كارول ودوهرتي (2003)** — تحليلٌ تلويٌّ لبرامج ما قبل الزواج:
+- متوسط حجم الأثر: د = 0.80
+- التفسير: الشخص العادي في برنامج ما قبل الزواج أفضل حالاً من 79% من المجموعة الضابطة غير المشاركة
+- تُظهر البرامج التي تتضمن مهارات التواصل أقوى الآثار
+- حُدِّد PREP بوصفه أحد أقوى البرامج المسنودة تجريبياً
 
-### International Adaptations
-- Strong evidence in multiple countries: US, Iran, Australia, UK
-- Effective across cultural contexts with appropriate adaptation
-- Works with diverse populations: military, disadvantaged, LGBTQ+
+### التكييفات الدولية
+- أدلةٌ قوية في بلدانٍ متعددة: الولايات المتحدة، إيران، أستراليا، المملكة المتحدة
+- فعّالٌ عبر سياقاتٍ ثقافية مع تكييفٍ ملائم
+- يعمل مع فئاتٍ متنوعة: عسكريون، محرومون، مجتمع الميم
 
-### Limitations
-- Selection bias: couples choosing PREP may differ from general population
-- Most data from 1-5 year follow-ups; limited 10+ year data
-- Research primarily from program developers (potential bias, though external replications exist)
-- Dropout analysis limited in some studies
+### الحدود
+- تحيّز الاختيار: قد يختلف الأزواج الذين يختارون PREP عن عموم السكان
+- معظم البيانات من متابعاتٍ لسنة إلى 5 سنوات؛ بياناتٌ محدودة لأكثر من 10 سنوات
+- البحث أساساً من مطوّري البرنامج (تحيّزٌ محتمل، رغم وجود تكرارات خارجية)
+- تحليل الانسحاب محدودٌ في بعض الدراسات
 
-## Applications
+## التطبيقات
 
-### Premarital Preparation
-- Engaged couples seeking to prevent marital discord
-- Couples with high-risk factors (young age, parental divorce, conflict)
-- Churches and faith communities
+### الإعداد لما قبل الزواج
+- الخطيبون الساعون لمنع الخلاف الزواجي
+- الأزواج ذوو عوامل خطرٍ عالية (صغر السن، طلاق الوالدين، النزاع)
+- الكنائس والجماعات الدينية
 
-### Early Marriage Enrichment
-- Newlyweds (first 2-3 years)
-- Preventive intervention before problems establish
-- Maintenance and skills reinforcement
+### إثراء بداية الزواج
+- المتزوجون حديثاً (أول 2-3 سنوات)
+- تدخّلٌ وقائي قبل ترسّخ المشكلات
+- الحفاظ على المهارات وتعزيزها
 
-### Military Couples
-- Adapted version for military with deployment transitions
-- Special attention to communication during separations
-- Integration with military family services
+### الأزواج العسكريون
+- نسخةٌ مكيَّفة للعسكريين مع انتقالات الانتشار
+- اهتمامٌ خاص بالتواصل أثناء الانفصال
+- تكاملٌ مع خدمات الأسرة العسكرية
 
-### Diverse & At-Risk Populations
-- Low-income couples: adapted format, affordability
-- Young couples: relevant examples and developmental stage focus
-- LGBTQ+ couples: inclusive language and examples
+### الفئات المتنوعة والمعرَّضة للخطر
+- الأزواج منخفضو الدخل: صيغةٌ مكيَّفة، وقدرةٌ على تحمل التكلفة
+- الأزواج الشباب: أمثلةٌ ملائمة وتركيزٌ على المرحلة النمائية
+- أزواج مجتمع الميم: لغةٌ وأمثلة شاملة
 
-## Comparison with Other Programs
+## المقارنة ببرامج أخرى
 
-### vs. Gottman Method
-- **Gottman:** focus on intervention with troubled couples; assessment of physiological responses
-- **PREP:** prevention-focused on engaged/early couples; behavioral skill-building
-- **Similarity:** both research-based, focus on communication and conflict patterns
-- **Choice:** PREP for prevention, Gottman for intervention
+### مقابل طريقة غوتمان
+- **غوتمان:** يركّز على التدخل مع الأزواج المضطربين؛ وتقييم الاستجابات الفيزيولوجية
+- **PREP:** يركّز وقائياً على الخطيبين/بداية الزواج؛ وبناء المهارات السلوكية
+- **التشابه:** كلاهما قائمٌ على البحث ويركّز على أنماط التواصل والنزاع
+- **الاختيار:** PREP للوقاية، وغوتمان للتدخل
 
-### vs. PREPARE/ENRICH
-- **PREPARE/ENRICH:** couple assessment inventory (comprehensive profile); counselor-guided
-- **PREP:** skills training focus; can be group-based or couples-focused
-- **Similarity:** both premarital, research-supported, focus on communication
-- **Choice:** PREPARE for detailed assessment, PREP for intensive skills training
+### مقابل PREPARE/ENRICH
+- **PREPARE/ENRICH:** مقياس تقييم الزوجين (ملفٌّ شامل)؛ موجَّهٌ بالمستشار
+- **PREP:** تركيزٌ على تدريب المهارات؛ يمكن أن يكون جماعياً أو مخصصاً للزوجين
+- **التشابه:** كلاهما لما قبل الزواج، ومسنودٌ بالبحث، ويركّز على التواصل
+- **الاختيار:** PREPARE لتقييمٍ مفصَّل، وPREP لتدريبٍ مكثف على المهارات
 
-### vs. SYMBIS/PICK/FOCCUS
-- **These programs:** shorter formats (2-4 sessions), dialogue/awareness focus
-- **PREP:** longer format (4-8 sessions), intensive skills practice
-- **Similarity:** all research-informed, premarital education
-- **Choice:** shorter programs for time-constrained or lower-conflict couples; PREP for couples wanting deeper skills
+### مقابل SYMBIS/بِك/فوكَس
+- **هذه البرامج:** صيغٌ أقصر (2-4 جلسات)، تركيزٌ حواري/توعوي
+- **PREP:** صيغةٌ أطول (4-8 جلسات)، وممارسةٌ مكثفة للمهارات
+- **التشابه:** جميعها مسنودةٌ بالبحث، وتربيةٌ لما قبل الزواج
+- **الاختيار:** البرامج الأقصر للأزواج ضيقي الوقت أو الأقل نزاعاً؛ وPREP للأزواج الراغبين في مهاراتٍ أعمق
 
-## Strengths & Limitations
+## نقاط القوة والحدود
 
-### Strengths
-- **Extensive research base:** most studied couple education program
-- **Longitudinal evidence:** following couples over years, not just immediate effects
-- **Multiple formats:** adaptable to different settings and constraints
-- **International validation:** effective across cultures
-- **Prevention focus:** reduces long-term costs of divorce and marital discord
-- **Skill-based:** practical, teachable techniques couples can practice lifelong
+### نقاط القوة
+- **قاعدةٌ بحثية واسعة:** أكثر برامج تربية الأزواج دراسة
+- **أدلةٌ طولية:** تتبّع الأزواج عبر سنوات لا آثاراً فورية فقط
+- **صيغٌ متعددة:** قابلةٌ للتكيف مع سياقاتٍ وقيودٍ مختلفة
+- **تصديقٌ دولي:** فعّالٌ عبر الثقافات
+- **تركيزٌ وقائي:** يقلل التكاليف طويلة الأمد للطلاق والخلاف الزواجي
+- **قائمٌ على المهارات:** تقنياتٌ عملية قابلة للتعلّم يمارسها الأزواج مدى الحياة
 
-### Limitations
-- **Time commitment:** longer format than some alternatives
-- **Group format can feel vulnerable:** some couples uncomfortable in group setting
-- **Selection bias:** research involves couples choosing program
-- **Implementation dependent:** outcomes vary with facilitator skill and couple engagement
-- **Not for severe issues:** couples with abuse, active substance use, untreated mental illness need individual treatment first
-- **Facilitator training required:** not all counselors trained in PREP
+### الحدود
+- **التزامٌ زمني:** صيغةٌ أطول من بعض البدائل
+- **قد تبدو الصيغة الجماعية مكشوفة:** بعض الأزواج غير مرتاحين في إعدادٍ جماعي
+- **تحيّز الاختيار:** يشمل البحث أزواجاً اختاروا البرنامج
+- **يعتمد على التنفيذ:** تتفاوت النتائج بحسب مهارة الميسِّر وانخراط الزوجين
+- **ليس للقضايا الشديدة:** الأزواج ذوو الإساءة أو تعاطي المواد النشط أو المرض النفسي غير المعالَج يحتاجون علاجاً فردياً أولاً
+- **يتطلب تدريب الميسِّر:** لم يُدرَّب كل المستشارين على PREP
 
-## Key Figures
+## الشخصيات الرئيسة
 
-- **Howard J. Markman** — principal developer, longitudinal research
-- **Scott M. Stanley** — developer, research on commitment and dissolution
-- **Gary F. Blustein** — dissemination and adaptation
+- **هوارد ج. ماركمان (Howard J. Markman)** — المطوِّر الرئيس، والبحث الطولي
+- **سكوت م. ستانلي (Scott M. Stanley)** — مطوِّرٌ، وبحثٌ حول الالتزام والانفصام
+- **غاري ف. بلوستين (Gary F. Blustein)** — النشر والتكييف
 
-## Primary Sources & Resources
+## المصادر
 
 1. Fallahchai, R., et al. (2020). Two-year follow-up of the efficacy of PREP training on Iranian newlyweds. Journal of Marital and Family Therapy, 46(3), 593-605.
 2. Markman, H.J., Rhoades, G.K., Stanley, S.M., et al. (2010). The premarital communication roots of marital distress and divorce: The first five years of the marriage. Journal of Family Psychology, 24(3), 289-298.
 3. Stanley, S.M., Trathen, D.W., McCain, S.C., & Bryan, M. (1998). A lasting promise: A Christian guide to fighting for your marriage. Jossey-Bass.
 4. PREP online: https://www.prepinc.com (official PREP program and resources)
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Premarital education
-- Couple communication
-- Conflict resolution and de-escalation
-- Prevention-focused intervention
-- Marriage enrichment
-- Marital stability and satisfaction
-- Relationship education
-- Early intervention
-- Skill-based training
+- التربية لما قبل الزواج
+- تواصل الزوجين
+- حل النزاع وتهدئة التصعيد
+- التدخل الوقائي
+- إثراء الزواج
+- استقرار الزواج والرضا عنه
+- تربية العلاقة
+- التدخل المبكر
+- التدريب القائم على المهارات
+</content>

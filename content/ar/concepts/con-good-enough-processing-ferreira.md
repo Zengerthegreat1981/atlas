@@ -21,23 +21,34 @@ gaps: []
 
 # معالجةُ «الكفاية التقريبية» عند فيريرا
 
-## Definition
+## التعريف
 
-This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
+معالجةُ «الكفاية التقريبية» (Good-Enough Processing) نظريةٌ في علم اللغة النفسي طوّرتها فرناندا فيريرا وزملاؤها، وبخاصة في مقالتهم المرجعية "Good-Enough Representations in Language Comprehension" (2002)، تفترض أن نظامَ الفهم اللغوي البشري لا يبني دائماً تمثيلاً نحوياً ودلالياً كاملاً ودقيقاً للجملة المسموعة أو المقروءة، بل يكتفي غالباً بتمثيلٍ تقريبي "كافٍ بما يكفي" لأداء المهمّة الفورية، حتى لو كان هذا التمثيلُ غيرَ دقيق أو متناقضاً جزئياً مع البنية الفعلية للجملة.
 
-## Key Principles
+## الأدلّةُ التجريبية: بقاءُ التفسير الخاطئ
 
-- Language involves distributed brain networks
-- Cognitive processes are embodied (grounded in perception and action)
-- Language learning involves neural plasticity
-- Individual and group differences affect language abilities
+استندت فيريرا إلى تجارب على جمل المسار المُضلِّل (Garden-Path Sentences) وجملٍ مبنية للمجهول معقَّدة، فوجدت أن المشارِكين كثيراً ما يحتفظون بتفسيرٍ أوّلي خاطئ للجملة حتى بعد إعادة التحليل النحوي الصحيح ظاهرياً؛ ففي جملةٍ كـ"عضّ الكلبَ الرجلُ" (بمعنى قام الرجلُ بعضّ الكلب)، يميل كثيرٌ من القرّاء إلى الاحتفاظ بتفسيرٍ خاطئ يجعل الكلبَ هو الفاعل، معتمدين على ترتيبٍ نمطي شائع (فاعل-فعل-مفعول) بدل تحليلٍ نحوي دقيق للعلامات الإعرابية الفعلية.
 
-## Evidence
+## المنطقُ الاقتصادي: الموازنةُ بين الدقّة والكلفة
 
-Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
+يفترض هذا الإطارُ أن نظامَ المعالجة اللغوية يوازن باستمرار بين دقّة التمثيل وكلفتِه المعرفية: البناءُ الكامل لتمثيلٍ نحوي دلالي مفصَّل مكلفٌ معرفياً من حيث الموارد والوقت، بينما يكفي غالباً تمثيلٌ تقريبي مبنيٌّ على أنماطٍ نمطية شائعة (Heuristics) وإرشاداتٍ سياقية عامّة لإنتاج استجابةٍ مناسبة وسريعة تفي بالغرض التواصلي الفوري، فيميل النظامُ إلى الاكتفاء بهذا التمثيل التقريبي ما لم تتطلّب المهمّةُ دقّةً أعلى صراحةً.
 
-## References
+## العلاقةُ بالنماذج المقيَّدة المعجمياً
 
-- Kemmerer, D. (2012). *Psychology of Language*. Springer.
-- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
+يتقاطع هذا الإطارُ مع النموذج المقيَّد المعجمي التفاعلي عند ماكدونالد وزملائه، إذ يشترك الاثنان في افتراض أن المعالجةَ اللغوية تعتمد على إشاراتٍ احتمالية متعدّدة (تكرار الأنماط، توقّعات دلالية، ترتيبٌ نمطي) بدل خوارزميةٍ نحوية صارمة أحادية المسار، لكن نظرية فيريرا تضيف بُعداً حاسماً: أن هذه المعالجةَ التقريبية قد تُنتِج تمثيلاً نهائياً خاطئاً يبقى دون تصحيح، لا مجرّد تأخيرٍ مؤقّت في المعالجة يُحَلّ لاحقاً.
+
+## التطبيقاتُ خارج الجملة المعزولة
+
+امتدّ هذا الإطارُ لاحقاً إلى تفسير ظواهرَ أوسع، كطريقة معالجة الكلام غير الطلق (Disfluencies) في الحوار الطبيعي، وأثرِ البنية المعلوماتية والتوقّع السياقي في تحديد عمق المعالجة النحوية الفعلي، إذ يعتمد المستمعُ على توقّعاتٍ مبنية على السياق أكثرَ من اعتماده على تحليلٍ نحوي شامل مستقلّ عن التوقّع.
+
+## الأثر
+
+قدّمت نظريةُ الكفاية التقريبية تحدّياً جوهرياً للنماذج الكلاسيكية التي افترضت أن الفهمَ اللغوي يهدف دائماً إلى بناء تمثيلٍ دقيق وكامل للجملة، ودفعت الحقلَ نحو نماذجَ احتمالية أكثرَ واقعية تعترف بأن الفهمَ البشري "تقريبيٌّ" في كثيرٍ من الحالات اليومية العادية لا "مثالياً" بالضرورة.
+
+## المصادر
+
+- Ferreira, F., Bailey, K. G. D., & Ferraro, V. (2002). "Good-Enough Representations in Language Comprehension." *Current Directions in Psychological Science*, 11(1), 11-15.
+- Ferreira, F., & Patson, N. D. (2007). "The 'Good Enough' Approach to Language Comprehension." *Language and Linguistics Compass*, 1(1-2), 71-83.
+- Christianson, K., et al. (2001). "Thematic Roles Assigned Along the Garden Path Linger." *Cognitive Psychology*, 42(4), 368-407.
+- Karimi, H., & Ferreira, F. (2016). "Good-Enough Linguistic Representations and Online Cognitive Equilibrium in Language Processing." *Quarterly Journal of Experimental Psychology*, 69(5), 1013-1040.
 

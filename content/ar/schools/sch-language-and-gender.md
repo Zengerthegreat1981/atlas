@@ -37,23 +37,33 @@ gaps: []
 
 # اللغةُ والجندر
 
-## Definition
+فرعٌ من اللسانيات الاجتماعية يدرس العلاقة بين اللغة والجندر: كيف يشكّل الجندر أنماط الاستخدام اللغوي، وكيف تسهم اللغة نفسها في بناء الهوية الجندرية وإعادة إنتاج التراتب الاجتماعي بين الجنسين. نشأ هذا الحقل بصورةٍ منهجية في منتصف السبعينيات في الولايات المتحدة، متفرّعاً عن اللسانيات الاجتماعية التبايُنية، وتطوّر عبر ثلاث موجاتٍ نظرية متعاقبة.
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+## الموجة الأولى: النقص عند روبن لايكوف
 
-## Key Principles
+أطلقت **روبن لايكوف** الحقل بكتابها *Language and Woman's Place* (1975)، الذي وصف ما أسمته «لغة المرأة» بسماتٍ متكررة (كأسئلة الذيل، والتحوّطات، والتنغيم الاستفهامي في الجمل الخبرية)، مفسّراً إياها بوصفها انعكاساً لموقعٍ اجتماعي أضعف يفتقر إلى سلطة القول الحازم، فيما عُرف لاحقاً بـ«نموذج النقص» (Deficit Model)، الذي وُجِّه إليه نقدٌ لاحق بتهمة الافتراض المسبَق لدونية الأسلوب النسوي.
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+## الموجة الثانية: الاختلاف والهيمنة
 
-## Evidence
+تفرّعت مقاربتان بديلتان: **نموذج الاختلاف** (Difference Model) عند **ديبورا تانن**، الذي يرى أن الرجال والنساء ينتمون إلى «ثقافتين خطابيتين» متمايزتين نشآ فيهما منذ الطفولة (أسلوب «التقرير» التنافسي عند الرجال مقابل أسلوب «الوئام» التشاركي عند النساء، Report Talk/Rapport Talk)، دون افتراض تفوّق أحدهما؛ و**نموذج الهيمنة** (Dominance Model)، الذي يفسّر الفروق اللغوية بعلاقات القوة والتفاوت الاجتماعي بين الجنسين لا بثقافتين منفصلتين متكافئتين.
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+## الموجة الثالثة: الأداء والممارسة
 
-## References
+أحدثت **پينيلوپي إكرت** و**سالي مكونل-جينيت** تحوّلاً نظرياً جوهرياً برفض فكرة أن النساء والرجال فئتان متجانستان لهما «لغةٌ» موحدة، مستبدلتين بها مفهوم **جماعات الممارسة** (Communities of Practice): تجمّعاتٍ اجتماعية محلية يتفاوض أعضاؤها فيها على أساليب لغوية دالّة على هوياتٍ متعددة ومتقاطعة (لا الجندر وحده، بل الطبقة والعرق والعمر معاً)، متأثرين بمفهوم **الأداء اللغوي** (Performativity) الذي طوّرته الفيلسوفة جوديث بتلر، والذي يرى الجندر ليس صفةً ثابتة سابقة على اللغة بل شيئاً «يُؤدَّى» ويُعاد إنتاجه باستمرارٍ عبر الممارسات، ومنها الممارسة اللغوية.
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+## اللغة والرغبة والهوية الجنسانية
+
+وسّع **دون كوليك** الحقل نحو دراسة اللغة والرغبة الجنسانية (Language and Desire)، بينما طوّرت **ماري بوخولتس** مع زميلاتها إطاراً لتحليل الهوية بوصفها بنيةً علائقية ناشئة (Emergent) تتشكّل لحظياً في التفاعل لا معطى قبلياً ثابتاً، وهو ما ربط حقل اللغة والجندر بحقولٍ أوسع في أنثروبولوجيا اللغة ودراسات الهوية.
+
+## إصلاح اللغة والمذكَّر التعميمي
+
+ارتبط هذا الحقل أيضاً بنقاشاتٍ تطبيقية حول **المذكَّر التعميمي** (Generic Masculine)، كاستخدام ضمير «هو» للإشارة إلى جنسٍ غير محدَّد في الإنجليزية التقليدية، وحركات إصلاح اللغة نحو صيغٍ محايدة جندرياً، بحثت فيها آن بودين وديبورا كامرون تأثير هذه الصيغ اللغوية على الإدراك الاجتماعي للجندر لا كونها انعكاساً محايداً للواقع فحسب.
+
+## المصادر
+
+- Lakoff, Robin. *Language and Woman's Place*. Harper & Row, 1975.
+- Tannen, Deborah. *You Just Don't Understand: Women and Men in Conversation*. Ballantine, 1990.
+- Eckert, Penelope, & McConnell-Ginet, Sally. *Language and Gender*. Cambridge University Press, 2003.
+- Cameron, Deborah. *Feminism and Linguistic Theory*. Macmillan, 1985.
+- Bucholtz, Mary, & Hall, Kira. "Identity and Interaction: A Sociocultural Linguistic Approach." *Discourse Studies*, 7(4–5), 2005.
 

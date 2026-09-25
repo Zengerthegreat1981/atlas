@@ -9,225 +9,225 @@ related_schools:
   - sch-clinical-neuropsychology
 ---
 
-# Trail Making Test (TMT)
+# اختبار رسم المسار (Trail Making Test (TMT))
 
-The Trail Making Test is a neuropsychological assessment of processing speed (Part A) and executive function/cognitive flexibility (Part B). Developed by Reitan (1958), it is one of the most widely used brief neuropsych measures for screening brain dysfunction, dementia, ADHD, and other cognitive disorders.
+اختبار رسم المسار أداة تقييم عصبي نفسي لسرعة المعالجة (الجزء A) والوظائف التنفيذية/المرونة المعرفية (الجزء B). طوّره ريتان (Reitan) (1958)، وهو من أكثر المقاييس العصبية النفسية الموجزة استخداماً لفرز الخلل الدماغي والخرف واضطراب فرط الحركة ونقص الانتباه واضطرابات معرفية أخرى.
 
-## Development
+## التطوير
 
-**Reitan (1958):**
-- Simplified from earlier Army Individual Test Battery
-- Created brief measure of attention, processing speed, flexibility
-- Non-verbal, minimal language demands
-- Visual-motor task reflecting frontal/parietal function
+**ريتان (1958):**
+- نسخة مبسّطة من بطارية الاختبار الفردي للجيش السابقة
+- إنشاء مقياس موجز للانتباه وسرعة المعالجة والمرونة
+- غير لفظي، متطلبات لغوية ضئيلة
+- مهمة بصرية حركية تعكس وظيفة الفص الجبهي/الجداري
 
-**Design principle:**
-- Part A: simple psychomotor speed, attention
-- Part B: executive function, task switching, cognitive flexibility
-- Difference score (B-A): cognitive flexibility specific to B
+**مبدأ التصميم:**
+- الجزء A: سرعة حركية نفسية بسيطة، انتباه
+- الجزء B: وظائف تنفيذية، تبديل المهام، مرونة معرفية
+- درجة الفرق (B-A): مرونة معرفية خاصة بالجزء B
 
-## Test Components
+## مكونات الاختبار
 
-**Part A: Processing Speed & Attention**
-- 25 circled numbers (1-25) scattered on page
-- Task: Draw lines connecting numbers in order (1→2→3...→25)
-- Measures: Processing speed, visual scanning, motor speed
-- Normal adult: 20-30 seconds
-- Scoring: Time to complete (seconds)
+**الجزء A: سرعة المعالجة والانتباه**
+- 25 رقماً داخل دوائر (1-25) موزعة على الصفحة
+- المهمة: رسم خطوط تصل الأرقام بالترتيب (1←2←3...←25)
+- يقيس: سرعة المعالجة، المسح البصري، السرعة الحركية
+- البالغ الطبيعي: 20-30 ثانية
+- التصحيح: زمن الإنجاز (بالثواني)
 
-**Part B: Executive Function & Flexibility**
-- 25 circles with alternating numbers (1-13) and letters (A-M)
-- Task: Draw lines alternating number-letter (1→A→2→B...→M)
-- Measures: Cognitive flexibility, task switching, executive function
-- Normal adult: 30-50 seconds
-- Scoring: Time to complete (seconds)
+**الجزء B: الوظائف التنفيذية والمرونة**
+- 25 دائرة تتضمن أرقاماً متناوبة (1-13) وحروفاً (A-M)
+- المهمة: رسم خطوط بالتناوب بين الرقم والحرف (1←A←2←B...←M)
+- يقيس: المرونة المعرفية، تبديل المهام، الوظائف التنفيذية
+- البالغ الطبيعي: 30-50 ثانية
+- التصحيح: زمن الإنجاز (بالثواني)
 
-**Administration:**
-- Two separate trials
-- Verbal instructions and practice trial
-- Record time to completion
-- Note errors (crossing out, drawing outside circle, wrong order)
-- Stop at 300 seconds if incomplete (discontinue)
+**التطبيق:**
+- محاولتان منفصلتان
+- تعليمات شفهية ومحاولة تدريبية
+- تسجيل زمن الإنجاز
+- ملاحظة الأخطاء (الشطب، الرسم خارج الدائرة، الترتيب الخاطئ)
+- التوقف عند 300 ثانية إذا لم يكتمل (إيقاف المحاولة)
 
-## Scoring & Interpretation
+## التصحيح والتفسير
 
-**Raw scores:**
-- Time to completion for Part A and Part B
-- Both reported in seconds
+**الدرجات الخام:**
+- زمن الإنجاز للجزء A والجزء B
+- تُسجَّل كلاهما بالثواني
 
-**Derived scores:**
-- Part B - Part A (B-A difference): cognitive flexibility
-- B/A ratio: normalized for processing speed differences
+**الدرجات المشتقة:**
+- الجزء B - الجزء A (فرق B-A): المرونة المعرفية
+- نسبة B/A: مُسوّاة لفروق سرعة المعالجة
 
-**Interpretation guidelines (adult norms):**
-- **Part A:**
-  - <30 seconds: normal
-  - 30-40 seconds: mildly slow
-  - >40 seconds: significantly impaired
-- **Part B:**
-  - <50 seconds: normal
-  - 50-80 seconds: mildly impaired
-  - >80 seconds: significantly impaired
-- **B-A difference:**
-  - <30 seconds: normal executive function
-  - 30-50 seconds: mildly impaired
-  - >50 seconds: significantly impaired
+**إرشادات التفسير (معايير البالغين):**
+- **الجزء A:**
+  - أقل من 30 ثانية: طبيعي
+  - 30-40 ثانية: بطء خفيف
+  - أكثر من 40 ثانية: قصور ذو دلالة
+- **الجزء B:**
+  - أقل من 50 ثانية: طبيعي
+  - 50-80 ثانية: قصور خفيف
+  - أكثر من 80 ثانية: قصور ذو دلالة
+- **فرق B-A:**
+  - أقل من 30 ثانية: وظيفة تنفيذية طبيعية
+  - 30-50 ثانية: قصور خفيف
+  - أكثر من 50 ثانية: قصور ذو دلالة
 
-**Age effects:**
-- Performance slows with age (10-20 seconds per decade after 60)
-- Separate norms by age group essential
-- Education effects: higher education slightly faster
+**آثار العمر:**
+- يتباطأ الأداء مع التقدم في العمر (10-20 ثانية لكل عقد بعد سن 60)
+- معايير منفصلة حسب الفئة العمرية ضرورية
+- آثار التعليم: التعليم الأعلى أسرع قليلاً
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-**Reliability:**
-- Test-retest reliability: r = 0.78-0.90 (good across intervals)
-- Parallel forms: minimal (uses same layout both trials)
-- Practice effects: small (2-3 second improvement on retest)
-- Consistent across demographic groups
+**الثبات:**
+- ثبات الإعادة: r = 0.78-0.90 (جيد عبر الفترات الزمنية)
+- الصيغ المتوازية: ضئيلة (يُستخدم التخطيط نفسه في المحاولتين)
+- آثار الممارسة: صغيرة (تحسن 2-3 ثوانٍ عند إعادة التطبيق)
+- متسق عبر الفئات الديموغرافية
 
-**Validity:**
-- Criterion validity: correlates with other processing speed, executive function tests
-- Discriminant validity: distinguishes normal from brain-damaged individuals
-- Sensitivity: 85%+ for identifying cognitive impairment
-- Specificity: 70-80% (moderate; some false positives in medical illness)
+**الصدق:**
+- صدق المحك: يرتبط باختبارات أخرى لسرعة المعالجة والوظائف التنفيذية
+- الصدق التمييزي: يميّز الأصحاء عن ذوي التلف الدماغي
+- الحساسية: 85٪ فأكثر لتحديد القصور المعرفي
+- النوعية: 70-80٪ (معتدلة؛ بعض الإيجابيات الكاذبة في المرض الطبي)
 
-**Neuroanatomical correlates:**
-- Part A: diffuse cortical functioning, bilateral frontal-parietal
-- Part B: dorsolateral prefrontal cortex (executive function)
-- Elevated B-A: prefrontal dysfunction
-- Both elevated: diffuse slowing (general cognitive decline)
+**الارتباطات العصبية التشريحية:**
+- الجزء A: وظيفة قشرية منتشرة، جبهي جداري ثنائي الجانب
+- الجزء B: قشرة الفص الجبهي الظهرية الجانبية (الوظائف التنفيذية)
+- ارتفاع B-A: خلل في القشرة الجبهية
+- ارتفاع كلا الجزأين: تباطؤ منتشر (تدهور معرفي عام)
 
-**Cross-cultural:**
-- Relatively language-independent
-- Used globally
-- Processing speed varies by education, age, not much by culture
-- Visual-motor skills relatively universal
+**عبر الثقافات:**
+- مستقل نسبياً عن اللغة
+- يُستخدم عالمياً
+- تتفاوت سرعة المعالجة حسب التعليم والعمر، وليس كثيراً حسب الثقافة
+- المهارات البصرية الحركية شبه عالمية
 
-## Clinical & Research Applications
+## التطبيقات السريرية والبحثية
 
-**Dementia screening:**
-- Part A/B slowing common in Alzheimer's
-- Particularly sensitive to vascular dementia
-- Less specific than MMSE but complements cognitive assessment
-- Serial TMT tracks decline over months/years
+**فرز الخرف:**
+- تباطؤ الجزأين A/B شائع في مرض الزهايمر
+- حساس بشكل خاص للخرف الوعائي
+- أقل نوعية من MMSE لكنه يكمّل التقييم المعرفي
+- تكرار الاختبار يتتبع التدهور عبر الأشهر/السنوات
 
-**Executive function assessment:**
-- Frontal lobe dysfunction (including ADHD, TBI)
-- Task switching, flexibility required
-- Elevated B score or B-A difference suggests executive impairment
-- Useful in ADHD evaluation
+**تقييم الوظائف التنفيذية:**
+- خلل الفص الجبهي (بما في ذلك اضطراب فرط الحركة ونقص الانتباه وإصابة الدماغ الرضحية)
+- يتطلب تبديل المهام والمرونة
+- ارتفاع درجة B أو فرق B-A يشير إلى قصور تنفيذي
+- مفيد في تقييم اضطراب فرط الحركة ونقص الانتباه
 
-**Stroke/TBI assessment:**
-- Baseline cognitive function
-- Frontal/parietal stroke affects Part B more
-- Serial testing (weekly/monthly) tracks recovery
-- Executive function improvement often slower than motor
+**تقييم السكتة الدماغية/إصابة الدماغ الرضحية:**
+- الوظيفة المعرفية الأساسية
+- السكتة الجبهية/الجدارية تؤثر في الجزء B أكثر
+- الاختبار المتكرر (أسبوعياً/شهرياً) يتتبع التعافي
+- تحسن الوظائف التنفيذية غالباً أبطأ من الحركي
 
-**Neuropsychological batteries:**
-- Standard component of comprehensive batteries
-- Screening tool identifying need for more detailed testing
-- Quick (5 minutes), inexpensive
-- Non-verbal, low language demand
+**البطاريات العصبية النفسية:**
+- مكوّن معياري في البطاريات الشاملة
+- أداة فرز تحدد الحاجة إلى اختبار أكثر تفصيلاً
+- سريع (5 دقائق)، غير مكلف
+- غير لفظي، متطلبات لغوية منخفضة
 
-**Research:**
-- Brain-behavior relationships
-- Processing speed changes with aging
-- Executive function in various neuropsychiatric disorders
-- Cognitive reserve and education
+**البحث:**
+- علاقات الدماغ بالسلوك
+- تغيرات سرعة المعالجة مع الشيخوخة
+- الوظائف التنفيذية في اضطرابات نفسية عصبية متنوعة
+- الاحتياطي المعرفي والتعليم
 
-**Special populations:**
-- Substance abuse: processing speed/executive function often impaired
-- ADHD: Part B particularly affected
-- Depression: psychomotor slowing (Part A) common
-- Anxiety: often normal (distinguishes from dementia)
-- PTSD: mixed findings; usually normal unless severe
+**فئات خاصة:**
+- تعاطي المواد: كثيراً ما تكون سرعة المعالجة/الوظائف التنفيذية مضطربة
+- اضطراب فرط الحركة ونقص الانتباه: يتأثر الجزء B بشكل خاص
+- الاكتئاب: التباطؤ الحركي النفسي (الجزء A) شائع
+- القلق: غالباً طبيعي (يميّزه عن الخرف)
+- اضطراب ما بعد الصدمة: نتائج متباينة؛ عادة طبيعي ما لم يكن شديداً
 
-## Strengths
+## نقاط القوة
 
-- **Brevity:** 5 minutes total
-- **Non-verbal:** language-independent (useful for non-native speakers, aphasia)
-- **Objectivity:** clear right/wrong, easily scored
-- **Sensitivity:** detects cognitive impairment with good accuracy
-- **Established:** 65+ years research, thousands of studies
-- **Practical:** minimal equipment, clinician-friendly
-- **Cost-effective:** inexpensive, no licensing
-- **Multiple interpretations:** speed, flexibility, both cognitive domains
+- **الإيجاز:** 5 دقائق إجمالاً
+- **غير لفظي:** مستقل عن اللغة (مفيد لغير الناطقين الأصليين، وحالات الحبسة)
+- **الموضوعية:** صواب/خطأ واضح، سهل التصحيح
+- **الحساسية:** يكشف القصور المعرفي بدقة جيدة
+- **الرسوخ:** أكثر من 65 عاماً من البحث وآلاف الدراسات
+- **العملية:** حد أدنى من المعدات، سهل الاستخدام للإكلينيكي
+- **فعال من حيث التكلفة:** غير مكلف، بلا ترخيص
+- **تفسيرات متعددة:** السرعة، المرونة، مجالان معرفيان
 
-## Limitations
+## أوجه القصور
 
-- **Motor confounds:** impaired fine motor (arthritis, Parkinson's) affects results
-- **Vision requirements:** requires intact visual acuity, visual fields
-- **Language effects:** instructions require comprehension
-- **Ceiling effects:** healthy young adults often perfect/near-perfect
-- **Floor effects:** severely impaired may be unable to complete
-- **Limited discrimination:** moderate specificity; some false positives
-- **Executive function limited:** only one aspect of executive function (switching)
-- **Practice effects:** improvements on retest; serial testing limited
-- **Motivation:** poor effort affects validity
-- **Age sensitivity:** large age effects requiring age-stratified norms
+- **تداخل حركي:** يؤثر ضعف الحركة الدقيقة (التهاب المفاصل، باركنسون) في النتائج
+- **متطلبات بصرية:** يتطلب حدة بصرية وحقول رؤية سليمة
+- **آثار لغوية:** تتطلب التعليمات فهماً
+- **أثر السقف:** البالغون الأصحاء الشباب غالباً مثاليون أو شبه مثاليين
+- **أثر الأرضية:** قد لا يستطيع شديدو القصور إكماله
+- **تمييز محدود:** نوعية معتدلة؛ بعض الإيجابيات الكاذبة
+- **الوظائف التنفيذية محدودة:** جانب واحد فقط من الوظائف التنفيذية (التبديل)
+- **آثار الممارسة:** تحسّن عند إعادة التطبيق؛ الاختبار المتكرر محدود الفائدة
+- **الدافعية:** ضعف الجهد يؤثر في الصدق
+- **حساسية العمر:** آثار عمرية كبيرة تتطلب معايير مقسّمة حسب العمر
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**TMT variants:**
-- Verbal Trail Making: verbal numbers/letters instead of visual
-- Symbolic Trail Making: symbols instead of numbers/letters
-- Color Trail Test: colored numbers/letters
-- Visual Object and Space Perception Battery: simplified version
-- TMT-format versions: paper-and-pencil computerized adaptations
+**نسخ من TMT:**
+- رسم المسار اللفظي: أرقام/حروف لفظية بدلاً من البصرية
+- رسم المسار الرمزي: رموز بدلاً من الأرقام/الحروف
+- اختبار المسار الملوّن: أرقام/حروف ملوّنة
+- بطارية إدراك الأشياء والمكان البصري: نسخة مبسّطة
+- نسخ بصيغة TMT: تكييفات حاسوبية للورقة والقلم
 
-**Population modifications:**
-- Child versions: modified complexity, shorter trails
-- Low-vision adaptations: larger circles, higher contrast
-- Motor-impaired: alternative pointing method vs. drawing
+**تعديلات خاصة بالفئات:**
+- نسخ الأطفال: تعقيد معدّل، مسارات أقصر
+- تكييفات ضعف البصر: دوائر أكبر، تباين أعلى
+- ضعف الحركة: طريقة إشارة بديلة بدلاً من الرسم
 
-**Extended assessment:**
-- Three-category version: three sets to alternate among
-- Timed versions: measure accuracy at fixed time intervals
+**تقييم موسّع:**
+- نسخة ثلاثية الفئات: ثلاث مجموعات للتناوب بينها
+- نسخ مؤقتة: قياس الدقة عند فواصل زمنية ثابتة
 
-## Clinical Interpretation
+## التفسير السريري
 
-**Pattern recognition:**
-- Part A slow, Part B normal: processing speed impairment (diffuse, not frontal-specific)
-- Part A normal, Part B slow: frontal/executive impairment
-- Both slow, B-A normal: general cognitive slowing (diffuse disease, depression, medication)
-- Both normal: cognitive function intact
+**التعرف على النمط:**
+- الجزء A بطيء والجزء B طبيعي: قصور في سرعة المعالجة (منتشر، وليس خاصاً بالفص الجبهي)
+- الجزء A طبيعي والجزء B بطيء: قصور جبهي/تنفيذي
+- كلاهما بطيء وفرق B-A طبيعي: تباطؤ معرفي عام (مرض منتشر، اكتئاب، دواء)
+- كلاهما طبيعي: الوظيفة المعرفية سليمة
 
-**Change trajectory:**
-- Stroke/TBI: Part A faster recovery (motor relearning); Part B slower
-- Dementia: progressive slowing of both
-- Depression: Part A most affected (psychomotor slowing); Part B relatively spared
-- ADHD: Part B disproportionately elevated
+**مسار التغير:**
+- السكتة/إصابة الدماغ الرضحية: الجزء A يتعافى أسرع (إعادة تعلم حركي)؛ الجزء B أبطأ
+- الخرف: تباطؤ تدريجي لكليهما
+- الاكتئاب: الجزء A الأكثر تأثراً (تباطؤ حركي نفسي)؛ الجزء B سليم نسبياً
+- اضطراب فرط الحركة ونقص الانتباه: ارتفاع غير متناسب في الجزء B
 
-**Red flags:**
-- Errors (crossing out, wrong order): suggests perseveration, planning deficits
-- Stopping mid-test: motivation or ability concern
-- Gross impairment (>200 seconds Part A): severe cognitive dysfunction
+**علامات إنذار:**
+- الأخطاء (الشطب، الترتيب الخاطئ): تشير إلى المثابرة المرضية وقصور التخطيط
+- التوقف في منتصف الاختبار: مخاوف تتعلق بالدافعية أو القدرة
+- قصور جسيم (أكثر من 200 ثانية في الجزء A): خلل معرفي شديد
 
-## Integration with Assessment
+## التكامل مع التقييم
 
-**Often part of batteries:**
-- RBANS (Repeatable Battery for Neuropsych Status): including TMT
-- Halstead-Reitan Battery: comprehensive neuropsych
-- Mini neuropsych evaluations: quick screening
+**غالباً جزء من بطاريات:**
+- RBANS (البطارية القابلة للتكرار لتقييم الحالة العصبية النفسية): تتضمن TMT
+- بطارية هالستيد-ريتان: عصبية نفسية شاملة
+- تقييمات عصبية نفسية مصغّرة: فرز سريع
 
-**Paired with:**
-- MMSE: cognitive screening
-- Clock Drawing Test: visuospatial/executive
-- Verbal fluency: other executive functions
-- WAIS/WISC: comprehensive cognitive testing
+**يُقترن بـ:**
+- MMSE: فرز معرفي
+- اختبار رسم الساعة: بصري مكاني/تنفيذي
+- الطلاقة اللفظية: وظائف تنفيذية أخرى
+- WAIS/WISC: اختبار معرفي شامل
 
-## Primary Sources
+## المصادر
 
 1. Reitan, R.M. (1958). Validity of the Trail Making Test as an indicator of organic brain damage. Perceptual and Motor Skills, 8(3), 271-276.
 2. Sanchez-Cubillo, I., Perianez, J.A., Adrover-Roig, D., et al. (2009). Construct validity of the Trail Making Test: Role of task-switching, working memory, inhibition/interference control, and visuomotor abilities. Journal of the International Neuropsychological Society, 15(3), 438-450.
 3. Gaudino, E.A., Geisler, M.W., & Squires, N.K. (1995). Construct validity in the Trail Making Test: What makes Part B harder? Journal of Clinical and Experimental Neuropsychology, 17(4), 529-535.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Processing speed
-- Executive function and flexibility
-- Task switching
-- Neuropsychological assessment
-- Brain dysfunction detection
-- Cognitive aging
+- سرعة المعالجة
+- الوظائف التنفيذية والمرونة
+- تبديل المهام
+- التقييم العصبي النفسي
+- كشف الخلل الدماغي
+- الشيخوخة المعرفية

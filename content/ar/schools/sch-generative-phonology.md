@@ -24,7 +24,6 @@ related:
 - id: "con-syllable-structure-phonotactics", title: "بنيةُ المقطع الصوتي والقيودُ الصوتية التركيبية (Syllable Structure & Phonotactics)", type: "مفهوم"
 - id: "con-prosody-intonation", title: "العروضُ الكلاميُّ والتنغيم (Prosody & Intonation)", type: "مفهوم"
 - id: "wrk-sound-pattern-of-english-chomsky-halle", title: "The Sound Pattern of English", type: "أثر"
-- id: "ins-international-phonetic-alphabet", title: "الأبجديةُ الصوتيةُ الدولية (International Phonetic Alphabet, IPA)", type: "منهج/أداة بحث"
 - id: "thk-morris-halle", title: "مورّيس هالة", type: "مفكر"
 - id: "thk-john-goldsmith", title: "جون غولدسميث", type: "مفكر"
 - id: "con-autosegmental-phonology-goldsmith", title: "الصواتةُ متعدّدةُ الطبقات عند غولدسميث (Autosegmental Phonology)", type: "مفهوم"
@@ -43,58 +42,32 @@ gaps: []
 
 # الصرفُ التوليديُّ والصواتةُ التوليدية
 
-## Definition and Overview
+تيارٌ في الصواتة (علم الأصوات الوظيفي) نشأ ضمن البرنامج التوليدي الذي أسّسه نعوم تشومسكي، وتبلور نظرياً بصورةٍ كاملة في كتاب تشومسكي ومورّيس هالة المرجعي *The Sound Pattern of English* (المعروف اختصاراً بـSPE، 1968)، الذي انتقل بدراسة الصوت اللغوي من الوصف البنيوي الطرازي (كما عند حلقة براغ اللسانية) إلى صياغة **قواعد اشتقاقية** صريحة تحوّل تمثيلاً صوتياً كامناً (Underlying Representation) إلى تمثيلٍ سطحي منطوق عبر سلسلةٍ مرتَّبة من القواعد.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## السمات المميِّزة والاشتقاق القاعدي
 
-## Theoretical Framework
+ورث النموذج التوليدي فكرة **السمات المميِّزة** (Distinctive Features) من حلقة براغ (ياكوبسون وترُوبتسكوي)، لكنه أعاد صياغتها بمصطلحاتٍ ثنائية القيمة (+/-) قابلة للمعالجة الصورية، معتبراً كل فونيم حزمةً من هذه السمات (كـ[± صوتي]، [± أنفي]، [± مرتفع]). وتقوم آلية SPE على اشتقاق الصورة المنطوقة من التمثيل الكامن عبر قواعد إعادة كتابةٍ سياقية (A → B / X_Y)، تُطبَّق بترتيبٍ خطي صارم، بحيث يصبح مُخرَج كل قاعدة مُدخلاً للقاعدة التالية.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## الصواتة متعددة الطبقات عند غولدسميث
 
-## Key Mechanisms
+كشفت دراسة اللغات النغمية (كالأفريقية) عن قصور نموذج SPE الخطي، إذ يصعب تمثيل النغمة (Tone) بوصفها سمةً مرتبطة بشريحةٍ صوتية واحدة فحسب. طوّر **جون غولدسميث** في أطروحته سنة 1976 «الصواتة متعددة الطبقات» (Autosegmental Phonology)، التي تمثّل السمات (خصوصاً النغمة) في طبقاتٍ مستقلة موازية للطبقة القطاعية، مرتبطة بها عبر خطوط ربطٍ (Association Lines) تسمح بانتشار سمةٍ واحدة أو حذفها بمعزلٍ عن الوحدات الأخرى، وهو ما فسّر ظواهر «تعويم النغمة» ومطابقاتها المعقدة.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## هندسة السمات والتحديد الناقص
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+طوّر **جورج كليمنتس** لاحقاً «هندسة السمات» (Feature Geometry)، التي ترتّب السمات المميِّزة في شجرةٍ هرمية ذات عُقَدٍ وسيطة (كعقدة المكان الفموي التي تجمع سمات الشفة واللثة والحنك)، بحيث تنتشر مجموعاتٌ من السمات معاً بوصفها وحدة. وارتبط بهذا التطور مفهوم **التحديد الناقص** (Underspecification) عند ديانا أركانجلي ودونكا ستيرياد، القائل بأن بعض قيم السمات تُترَك غير محدَّدةٍ في التمثيل الكامن وتُشتقّ لاحقاً بقواعد افتراضية.
 
-## Experimental Evidence
+## التحوّل إلى نظرية الأمثلية
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+مثّلت **نظرية الأمثلية** (Optimality Theory)، التي طرحها آلان برنس وپول سمولنسكي سنة 1993، قطيعةً منهجية مع منطق الاشتقاق القاعدي المتسلسل: فبدل قواعد تحويلٍ مرتَّبة، تفترض النظرية مجموعةً من **القيود العامة المتنازعة** (Universal Constraints) القابلة للانتهاك، تُرتَّب بحسب أولويةٍ تختلف من لغةٍ لأخرى، وتُختار الصورة السطحية المثلى بوصفها أفضل توازنٍ ممكن بين هذه القيود المتضاربة، لا نتيجة تطبيق قواعد إلزامية بترتيبٍ ثابت.
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+## الأثر المستمر
 
-## Cross-Linguistic Applications
+ظل إرث SPE حاضراً حتى بعد ظهور نظرية الأمثلية، إذ استعارت معظم الأطر اللاحقة مفهوم السمات المميِّزة والتمثيل الكامن، بينما طوّرت باحثاتٌ مثل إليزابيث سلكيرك وإليزابيث هيوم وجوليَت بليڤِنز فروعاً متخصصة في البنية العروضية وتاريخ التغير الصوتي ضمن الإطار التوليدي الأوسع نفسه.
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
+## المصادر
 
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Chomsky, Noam, & Halle, Morris. *The Sound Pattern of English*. Harper & Row, 1968.
+- Goldsmith, John A. *Autosegmental Phonology*. PhD dissertation, MIT, 1976 (published by Garland, 1979).
+- Clements, George N. "The Geometry of Phonological Features." *Phonology Yearbook*, 2, 1985.
+- Prince, Alan, & Smolensky, Paul. *Optimality Theory: Constraint Interaction in Generative Grammar*. Blackwell, 2004 (circulated 1993).
+- Kenstowicz, Michael. *Phonology in Generative Grammar*. Blackwell, 1994.

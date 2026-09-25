@@ -21,58 +21,33 @@ gaps: []
 
 # لسانياتُ الإنترنت ولغةُ الشبكة
 
-## Definition and Overview
+## التعريف
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+لسانياتُ الإنترنت (Internet Linguistics) فرعٌ من اللسانيات الاجتماعية التطبيقية يدرس أنماطَ اللغة الناشئة في التواصل عبر الإنترنت، صاغ مصطلحَها المركزي "Netspeak" اللغويُّ البريطاني ديفيد كريستال في كتابه المرجعي *Language and the Internet* (2001)، ليصف مجموعةً من الممارسات اللغوية المميَّزة للتواصل الرقمي: الاختصارات، والمصطلحات المستحدَثة، والتقاليدُ الكتابية الجديدة (كاستخدام الأحرف الكبيرة للتعبير عن الصراخ، أو تكرار الحروف للتعبير عن التطويل الصوتي)، والرموزُ التعبيرية.
 
-## Theoretical Framework
+## بين الكتابة والكلام: وسيطٌ ثالث
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+يرى كريستال أن لغةَ الإنترنت لا تُختزل إلى "كلامٍ مكتوب" ولا إلى "كتابةٍ" تقليدية بالمعنى المعياري، بل تشكّل نمطاً وسيطاً ثالثاً يجمع خصائصَ من الاثنين معاً: فورية الكلام التفاعلية من جهة، وثباتَ الكتابة النصّي القابل للمراجعة والتحرير من جهة أخرى. هذا التصنيفُ يفسّر لماذا تخترع لغةُ الإنترنت أدواتٍ تعويضية (كالرموز التعبيرية ووسم النبرة الساخرة) لتعويض غياب الإشارات غير اللفظية (تعابير الوجه، النبرة الصوتية) التي يعتمد عليها الكلامُ الشفهي عادةً.
 
-## Key Mechanisms
+## إسهامُ غريتشن مكولوك: القواعدُ غير المكتوبة
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+طوّرت غريتشن مكولوك هذا الحقلَ لاحقاً في كتابها *Because Internet: Understanding the New Rules of Language* (2019)، مؤكّدةً أن لغةَ الإنترنت، رغم مظهرها الفوضوي ظاهرياً، تخضع لقواعدَ ضمنية منظَّمة بدقّة يتشاركها المتحدّثون دون تعليمٍ صريح، كالفروق الدلالية الدقيقة بين استخدام علامة الترقيم أو عدم استخدامها في الرسائل النصية، أو الدلالات التداولية المختلفة لتكرار الأحرف بأعدادٍ مختلفة (heyyy مقابل hey).
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+## التنوّعُ الجيلي والسياقي
 
-## Experimental Evidence
+بيّنت أبحاثُ هذا الحقل أن لغةَ الإنترنت ليست نمطاً واحداً موحَّداً، بل تتنوّع بحسب الجيل والمنصّة والسياق الاجتماعي: فالمستخدمون الأكبرُ سنّاً غالباً ما يوظّفون علاماتِ الترقيم القياسية بدلالاتٍ مختلفة عمّا يفعله المستخدمون الأصغر سنّاً (كاستخدام النقطة الختامية إشارةً إلى الجدّية أو حتى العدوانية لدى المستخدمين الأصغر سنّاً بدل كونها علامةَ ترقيمٍ محايدة)، مما يجعل لغةَ الإنترنت مجالاً خصباً لدراسة التغيّر اللغوي السريع عبر الأجيال.
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+## العلاقةُ بالوصفية اللغوية
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+يرتبط هذا الحقلُ ارتباطاً وثيقاً بالنقاش الأوسع بين الوصفية والمعيارية في علم اللغة، إذ يرفض الباحثون في لسانيات الإنترنت التعاملَ مع أنماط الكتابة الرقمية بوصفها "انحطاطاً" أو "إفساداً" للغة المعيارية، ويصفونها بدلاً من ذلك بوصفها نظاماً لغوياً مبتكَراً ومنظَّماً استجابةً لقيود الوسيط الرقمي وإمكاناته الجديدة.
 
-## Cross-Linguistic Applications
+## الأثر
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
+فتحت لسانياتُ الإنترنت مجالاً بحثياً واسعاً يتقاطع مع علم اللغة الاجتماعي، ومعالجة اللغة الطبيعية الحاسوبية (تحليل المشاعر في النصوص القصيرة، كشف السخرية)، ودراسات الأجيال الرقمية، وصارت مرجعاً أساسياً لفهم كيفية تكيّف اللغة البشرية مع وسائط تواصلٍ جديدة تتغيّر بوتيرةٍ متسارعة.
 
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+## المصادر
 
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Crystal, D. (2001). *Language and the Internet*. Cambridge University Press.
+- Crystal, D. (2011). *Internet Linguistics: A Student Guide*. Routledge.
+- McCulloch, G. (2019). *Because Internet: Understanding the New Rules of Language*. Riverhead Books.
+- Herring, S. C. (Ed.) (1996). *Computer-Mediated Communication: Linguistic, Social and Cross-Cultural Perspectives*. John Benjamins.

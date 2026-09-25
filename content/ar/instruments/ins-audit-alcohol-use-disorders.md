@@ -9,192 +9,192 @@ related_schools:
   - sch-cognitive-behavioral-therapy
 ---
 
-# Alcohol Use Disorders Identification Test (AUDIT)
+# اختبار تحديد اضطرابات تعاطي الكحول (Alcohol Use Disorders Identification Test (AUDIT))
 
-The AUDIT is a brief, 10-item screening and assessment tool for alcohol misuse, hazardous drinking, and alcohol use disorders. Developed by Babor, de la Fuente, Saunders, and Grant for the WHO (1989), it assesses three domains: alcohol consumption patterns, dependence symptoms, and consequences of use. Widely used in primary care, emergency departments, and addiction treatment settings.
+اختبار AUDIT أداة فرز وتقييم موجزة مكونة من 10 بنود لتعاطي الكحول وشرب الكحول الخطر واضطرابات تعاطي الكحول. طوّره باربور (Babor) ودي لا فوينتي (de la Fuente) وساندرز (Saunders) وغرانت (Grant) لمنظمة الصحة العالمية (1989)، ويقيّم ثلاثة مجالات: أنماط استهلاك الكحول، وأعراض الاعتماد، وعواقب الاستخدام. يُستخدم على نطاق واسع في الرعاية الأولية وأقسام الطوارئ ومراكز علاج الإدمان.
 
-## Development
+## التطوير
 
-**Babor et al. (1989):**
-- Developed for WHO as simple, brief alcohol screening tool
-- Combines quantity/frequency assessment with problem/consequence items
-- Validated across diverse populations and settings
-- Cross-culturally adapted in 50+ countries
+**باربور وآخرون (1989):**
+- طُوّر لمنظمة الصحة العالمية كأداة فرز بسيطة وموجزة للكحول
+- يجمع بين تقييم الكمية/التكرار وبنود المشكلات/العواقب
+- تحقق منه في فئات وأوساط متنوعة
+- كُيّف ثقافياً في أكثر من 50 دولة
 
-**Design rationale:**
-- Simple 10-item structure for busy clinics
-- Screens range from hazardous use to dependence
-- Population-based approach (vs. only identifying dependent individuals)
-- Actionable: identifies need for brief intervention or referral
+**مسوّغ التصميم:**
+- بنية بسيطة من 10 بنود للعيادات المزدحمة
+- يفرز نطاقاً من الاستخدام الخطر إلى الاعتماد
+- نهج قائم على السكان (وليس فقط تحديد المعتمدين)
+- قابل للتوظيف الإجرائي: يحدد الحاجة إلى تدخل موجز أو إحالة
 
-## Items & Format
+## البنود والصيغة
 
-**10 items assessing three domains (past year):**
+**10 بنود تقيّم ثلاثة مجالات (خلال العام الماضي):**
 
-| Domain | Items | Content |
+| المجال | البنود | المحتوى |
 |--------|-------|---------|
-| **Consumption** | 1-3 | Frequency, typical amount, binge drinking |
-| **Dependence** | 4-6 | Morning drinking, guilt, memory blackouts |
-| **Consequences** | 7-10 | Relationship problems, unsafe behavior, legal issues, injuries |
+| **الاستهلاك** | 1-3 | التكرار، الكمية المعتادة، الشرب المُفرط الدفعي |
+| **الاعتماد** | 4-6 | الشرب الصباحي، الشعور بالذنب، فقدان الذاكرة المؤقت |
+| **العواقب** | 7-10 | مشكلات العلاقات، السلوك غير الآمن، المسائل القانونية، الإصابات |
 
-**Response options:**
-- Items 1-8: 4-point Likert or frequency scale (0-4 points each)
-- Items 9-10: Yes/No or frequency (0-4 points)
-- Time frame: Past year
-- Administration time: 2-3 minutes
-- Self-report or clinician-administered
+**خيارات الاستجابة:**
+- البنود 1-8: مقياس ليكرت رباعي أو مقياس تكرار (0-4 نقاط لكل بند)
+- البندان 9-10: نعم/لا أو تكرار (0-4 نقاط)
+- الإطار الزمني: العام الماضي
+- زمن التطبيق: 2-3 دقائق
+- تقرير ذاتي أو يطبّقه إكلينيكي
 
-## Scoring & Interpretation
+## التصحيح والتفسير
 
-**Total score:**
-- Sum all items
-- Range: 0-40
+**الدرجة الكلية:**
+- جمع كل البنود
+- المدى: 0-40
 
-**Cutoff interpretation (by region):**
-- Men: 0-7 (low risk), 8-15 (medium risk), 16-19 (high risk), 20+ (dependence likely)
-- Women: 0-6 (low risk), 7-13 (medium risk), 14-17 (high risk), 18+ (dependence likely)
-- Some settings use unified 10+ cutoff for hazardous use
+**تفسير درجات القطع (حسب المنطقة):**
+- الرجال: 0-7 (خطر منخفض)، 8-15 (خطر متوسط)، 16-19 (خطر مرتفع)، 20 فأكثر (اعتماد مرجح)
+- النساء: 0-6 (خطر منخفض)، 7-13 (خطر متوسط)، 14-17 (خطر مرتفع)، 18 فأكثر (اعتماد مرجح)
+- تستخدم بعض الأوساط درجة قطع موحدة عند 10 فأكثر للاستخدام الخطر
 
-**Severity categories:**
-- Abstainer/Low risk: 0-7 (men) or 0-6 (women)
-- Hazardous use: medium-risk range (alcohol consumption pattern increases health risk)
-- Harmful use: high-risk range (demonstrated harmful consequences)
-- Likely dependence: 20+ (tolerance, withdrawal, continued use despite harm)
+**فئات الشدة:**
+- الامتناع/خطر منخفض: 0-7 (رجال) أو 0-6 (نساء)
+- الاستخدام الخطر: نطاق الخطر المتوسط (نمط استهلاك يزيد من الخطر الصحي)
+- الاستخدام الضار: نطاق الخطر المرتفع (عواقب ضارة ظاهرة)
+- الاعتماد المرجح: 20 فأكثر (تحمّل، انسحاب، استمرار الاستخدام رغم الضرر)
 
-**Sensitivity/Specificity:**
-- At cutoff 8+ for hazardous use: 95% sensitivity, 90% specificity
-- At cutoff 20+ for dependence: 85% sensitivity, 90% specificity
+**الحساسية/النوعية:**
+- عند درجة قطع 8 فأكثر للاستخدام الخطر: حساسية 95٪، نوعية 90٪
+- عند درجة قطع 20 فأكثر للاعتماد: حساسية 85٪، نوعية 90٪
 
-## Psychometric Properties
+## الخصائص السيكومترية
 
-**Reliability:**
-- Internal consistency (Cronbach's α): 0.83
-- Test-retest reliability (2-6 weeks): r = 0.86
-- Temporal stability good
-- Consistent across demographic groups
+**الثبات:**
+- الاتساق الداخلي (ألفا كرونباخ): 0.83
+- ثبات الإعادة (2-6 أسابيع): r = 0.86
+- استقرار زمني جيد
+- متسق عبر الفئات الديموغرافية
 
-**Validity:**
-- Criterion validity: identifies alcohol disorders with high accuracy
-- Convergent validity: correlates with biomarkers (liver enzymes, GGT)
-- Discriminant validity: distinguishes hazardous from dependence use
-- Responsiveness: changes with treatment
+**الصدق:**
+- صدق المحك: يحدد اضطرابات الكحول بدقة عالية
+- الصدق التقاربي: يرتبط بالواسمات الحيوية (إنزيمات الكبد، GGT)
+- الصدق التمييزي: يميز الاستخدام الخطر عن الاعتماد
+- الاستجابية: يتغير مع العلاج
 
-**Cross-cultural:**
-- Validated in 50+ countries and languages
-- Generally stable across cultures
-- Some countries use adjusted cutoffs
-- Binge drinking definition varies culturally
+**عبر الثقافات:**
+- تحقق منه في أكثر من 50 دولة ولغة
+- مستقر عموماً عبر الثقافات
+- تستخدم بعض الدول درجات قطع معدّلة
+- يتفاوت تعريف الشرب المُفرط الدفعي ثقافياً
 
-## Clinical & Research Applications
+## التطبيقات السريرية والبحثية
 
-**Primary care screening:**
-- Alcohol misuse prevalence 5-10% in primary care
-- Often undetected without systematic screening
-- AUDIT identifies at-risk drinking for intervention
-- Brief intervention: structured feedback + advice effective for hazardous use
+**الفرز في الرعاية الأولية:**
+- انتشار تعاطي الكحول 5-10٪ في الرعاية الأولية
+- غالباً ما يظل غير مكتشف دون فرز منهجي
+- يحدد AUDIT الشرب المعرّض للخطر من أجل التدخل
+- التدخل الموجز: تغذية راجعة منظمة + نصيحة فعّالة للاستخدام الخطر
 
-**Emergency department:**
-- Alcohol involved in 25-40% of ED visits
-- AUDIT identifies acute intoxication and chronic use patterns
-- Guides detoxification decision, referral intensity
+**قسم الطوارئ:**
+- الكحول متورط في 25-40٪ من زيارات الطوارئ
+- يحدد AUDIT التسمم الحاد وأنماط الاستخدام المزمن
+- يوجّه قرار إزالة السموم وكثافة الإحالة
 
-**Substance abuse treatment:**
-- Baseline alcohol use severity assessment
-- Monitoring compliance and abstinence
-- Treatment outcome measurement
-- Comorbid substance use assessment (with DAST)
+**علاج تعاطي المواد:**
+- تقييم خط أساس لشدة استخدام الكحول
+- رصد الالتزام والامتناع
+- قياس نتائج العلاج
+- تقييم تعاطي المواد المصاحب (مع DAST)
 
-**Research:**
-- Epidemiological studies on alcohol prevalence
-- Intervention trial outcomes
-- Health consequences of drinking patterns
-- Healthcare utilization linked to alcohol use
+**البحث:**
+- دراسات وبائية عن انتشار الكحول
+- نتائج التجارب التدخلية
+- العواقب الصحية لأنماط الشرب
+- استخدام الرعاية الصحية المرتبط بالكحول
 
-**Special populations:**
-- Pregnant women (absolute abstinence criterion)
-- Older adults (lower cutoffs sometimes used)
-- College/young adults (binge drinking focus)
-- Veterans (comorbid PTSD)
-- Liver disease patients (alcohol monitoring)
+**فئات خاصة:**
+- الحوامل (معيار الامتناع المطلق)
+- كبار السن (تُستخدم أحياناً درجات قطع أقل)
+- طلاب الجامعة/الشباب (التركيز على الشرب المُفرط الدفعي)
+- قدامى المحاربين (اعتلال مصاحب باضطراب ما بعد الصدمة)
+- مرضى أمراض الكبد (رصد الكحول)
 
-## Strengths
+## نقاط القوة
 
-- **Brevity:** 10 items, 2-3 minutes
-- **Evidence-based:** strong psychometric support
-- **Practical:** usable in primary care, EDs, quick screenings
-- **Cross-cultural:** validated globally
-- **Comprehensive:** covers consumption + consequences
-- **Free:** public domain, downloadable
-- **Sensitivity:** high detection of hazardous use
-- **Brief intervention link:** identifies need for counseling/treatment
+- **الإيجاز:** 10 بنود، 2-3 دقائق
+- **الأساس البحثي:** دعم سيكومتري قوي
+- **العملية:** قابل للاستخدام في الرعاية الأولية والطوارئ والفرز السريع
+- **عبر الثقافات:** تحقق منه عالمياً
+- **الشمول:** يغطي الاستهلاك والعواقب معاً
+- **مجاني:** في الملكية العامة وقابل للتنزيل
+- **الحساسية:** كشف مرتفع للاستخدام الخطر
+- **رابط بالتدخل الموجز:** يحدد الحاجة إلى الإرشاد/العلاج
 
-## Limitations
+## أوجه القصور
 
-- **Self-report bias:** alcohol use often underreported
-- **Timeframe:** past-year recall subject to forgetting
-- **Binge definition:** "6+ drinks on one occasion" culturally variable
-- **Female/male differences:** separate cutoffs needed
-- **Quantity underestimation:** drinks sizes imprecisely reported
-- **Dependence items:** only 3 items for dependence (limited assessment)
-- **Medical comorbidity:** liver disease, medication interactions not assessed
-- **False positives:** some medications, stress, or depression can mimic dependence items
-- **Pregnant/young populations:** different risk parameters
+- **تحيز التقرير الذاتي:** غالباً ما يُقلَّل الإبلاغ عن استخدام الكحول
+- **الإطار الزمني:** استرجاع العام الماضي عرضة للنسيان
+- **تعريف الشرب المُفرط الدفعي:** "6 مشروبات أو أكثر في مناسبة واحدة" يتفاوت ثقافياً
+- **فروق الإناث/الذكور:** تلزم درجات قطع منفصلة
+- **التقليل من تقدير الكمية:** أحجام المشروبات تُبلَّغ بدقة غير كافية
+- **بنود الاعتماد:** 3 بنود فقط للاعتماد (تقييم محدود)
+- **الاعتلال الطبي المصاحب:** أمراض الكبد والتفاعلات الدوائية غير مقيَّمة
+- **الإيجابيات الكاذبة:** بعض الأدوية أو الضغط أو الاكتئاب قد تحاكي بنود الاعتماد
+- **الحوامل/الفئات الشابة:** معايير خطر مختلفة
 
-## Variations & Adaptations
+## الصيغ والتكييفات
 
-**Related instruments:**
-- AUDIT-C: 3-item version (consumption focus) for rapid screening
-- AUDIT-10: full version
-- DAST (Drug Abuse Screening Test): drug use parallel to AUDIT
-- ASSISTS: broader substance use including alcohol
-- Alcohol Use Disorder Identification Test for Primary Care (AUDIT-PC)
+**أدوات ذات صلة:**
+- AUDIT-C: نسخة من 3 بنود (تركيز على الاستهلاك) للفرز السريع
+- AUDIT-10: النسخة الكاملة
+- DAST (اختبار فرز تعاطي المخدرات): موازٍ لـAUDIT لتعاطي المخدرات
+- ASSISTS: تعاطي مواد أوسع يشمل الكحول
+- اختبار تحديد اضطرابات تعاطي الكحول للرعاية الأولية (AUDIT-PC)
 
-**Population modifications:**
-- Pregnant women: modified scoring (lower/zero tolerance)
-- Older adults: adjusted cutoffs (age 60+)
-- Youth: binge definition adjusted to lower thresholds
-- Medical settings: emphasis on medication interactions
+**تعديلات خاصة بالفئات:**
+- الحوامل: تصحيح معدّل (تسامح منخفض/معدوم)
+- كبار السن: درجات قطع معدّلة (سن 60 فأكثر)
+- الشباب: تعريف الشرب المُفرط الدفعي معدّل بعتبات أقل
+- الأوساط الطبية: التشديد على التفاعلات الدوائية
 
-## Clinical Interpretation
+## التفسير السريري
 
-**Score pattern analysis:**
-- High consumption (items 1-3) + low dependence (items 4-6): hazardous use pattern
-- Low consumption + high dependence items: possible severe dependence despite low quantity
-- High consequences (items 7-10): suggests functional impairment regardless of amount
-- Items 9-10 (legal/injury): indicators of severe consequences
+**تحليل نمط الدرجة:**
+- استهلاك مرتفع (بنود 1-3) + اعتماد منخفض (بنود 4-6): نمط استخدام خطر
+- استهلاك منخفض + بنود اعتماد مرتفعة: احتمال اعتماد شديد رغم الكمية المنخفضة
+- عواقب مرتفعة (بنود 7-10): تشير إلى قصور وظيفي بصرف النظر عن الكمية
+- البندان 9-10 (القانوني/الإصابات): مؤشرات على عواقب شديدة
 
-**Treatment implications:**
-- Score 8-15: brief intervention often effective (15-20 minute counseling)
-- 16-19: referral for assessment and possible treatment
-- 20+: likely needs structured treatment, medical management, possible detoxification
-- Elevated items 4-6 (dependence): medical detoxification consideration
-- Elevated items 7-10 (consequences): psychosocial treatment + possible medication
+**دلالات العلاج:**
+- الدرجة 8-15: التدخل الموجز غالباً فعّال (إرشاد 15-20 دقيقة)
+- 16-19: إحالة للتقييم وعلاج محتمل
+- 20 فأكثر: يحتاج على الأرجح علاجاً منظماً وإدارة طبية وربما إزالة سموم
+- ارتفاع البنود 4-6 (الاعتماد): النظر في إزالة السموم الطبية
+- ارتفاع البنود 7-10 (العواقب): علاج نفسي اجتماعي + دواء محتمل
 
-**Change monitoring:**
-- Repeat AUDIT at regular intervals (monthly in treatment)
-- Decreasing score indicates reduced consumption, improving control
-- Plateau or increase: consider treatment adjustment, relapse risk
+**رصد التغير:**
+- إعادة تطبيق AUDIT على فترات منتظمة (شهرياً أثناء العلاج)
+- انخفاض الدرجة يشير إلى تراجع الاستهلاك وتحسن الضبط
+- الثبات أو الارتفاع: النظر في تعديل العلاج وخطر الانتكاس
 
-## Integration with Other Assessment
+## التكامل مع تقييمات أخرى
 
-**Often combined with:**
-- DAST (drug abuse screening)
-- Liver function tests (biomarker: GGT, AST, ALT)
-- Comprehensive medical evaluation
-- Depression/anxiety screening (comorbidity common)
-- Sleep assessment (alcohol affects quality)
+**غالباً ما يُجمع مع:**
+- DAST (فرز تعاطي المخدرات)
+- اختبارات وظائف الكبد (الواسم الحيوي: GGT، AST، ALT)
+- تقييم طبي شامل
+- فرز الاكتئاب/القلق (الاعتلال المصاحب شائع)
+- تقييم النوم (يؤثر الكحول على جودته)
 
-## Primary Sources
+## المصادر
 
 1. Babor, T.F., de la Fuente, J.R., Saunders, J.B., & Grant, M. (1992). The Alcohol Use Disorders Identification Test: Guidelines for use in primary care. WHO/MSD/MSB/92.4.
 2. Saunders, J.B., Aasland, O.G., Babor, T.F., de la Fuente, J.R., & Grant, M. (1993). Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO collaborative project. Addiction, 88(6), 791-804.
 3. Reinert, D.F., & Allen, J.P. (2007). The Alcohol Use Disorders Identification Test: An update of research findings. Alcoholism: Clinical and Experimental Research, 31(2), 185-199.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Alcohol use disorders
-- Hazardous drinking
-- Dependence and tolerance
-- Brief intervention
-- Substance abuse assessment
-- Medical consequences of alcohol
+- اضطرابات تعاطي الكحول
+- الشرب الخطر
+- الاعتماد والتحمّل
+- التدخل الموجز
+- تقييم تعاطي المواد
+- العواقب الطبية للكحول

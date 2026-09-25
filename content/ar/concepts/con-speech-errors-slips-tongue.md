@@ -19,58 +19,31 @@ gaps: []
 
 # زلّاتُ اللسان وأخطاءُ الكلام
 
-## Definition and Overview
+زلّاتُ اللسان أخطاءٌ عفويةٌ وغيرُ مقصودة تقع في الإنتاج الكلامي، كإبدال صوتٍ بآخر أو مقطعٍ بمقطع أو كلمةٍ بكلمة، وقد اتُّخذت منذ سبعينيات القرن العشرين مصدراً رئيساً من أدلة علم اللغة النفسي على البنية العقلية الكامنة وراء إنتاج الكلام، إذ إن الأخطاء لا تقع عشوائياً بل تتبع أنماطاً نسقية تكشف عن وحدات المعالجة اللغوية ومستوياتها.
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## عمل ﭬيكتوريا فرومكين التأسيسي
 
-## Theoretical Framework
+جمعت اللغوية الأمريكية ﭬيكتوريا فرومكين أكثر من اثني عشر ألف مثالٍ من زلّات اللسان، وحلّلتها في مقالتها المرجعية بمجلة *Language* سنة 1971 وفي كتابها المحرَّر *Speech Errors as Linguistic Evidence* (1973). وخلصت إلى مبدأٍ محوري: أن الوحدات اللغوية تتبادل مواقعها مع وحداتٍ من رتبتها نفسها؛ فالفونيمات تتبادل مع فونيمات، والمقاطع مع مقاطع، والجذور الصرفية مع جذور، وهو ما يدلّ على أن إنتاج الكلام يمرّ بمستويات تخطيطٍ متمايزة (المفهوم، والبنية النحوية، والتمثيل الصوتي) قبل النطق الفعلي.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## تصنيف الأخطاء بحسب المستوى اللغوي
 
-## Key Mechanisms
+تُصنَّف زلّات اللسان بحسب المستوى الذي تقع فيه: **على المستوى التمييزي** (Featural)، كنطق «نوب» بدل «نوپ» بتغيّر سمة الجهر وحدها مع بقاء المخرج والطريقة؛ **على المستوى الفونيمي**، كإبدال عنقودٍ صوتي بآخر («فلوك أوف باتس» بدل «بلوك أوف فلاتس»)؛ **على المستوى المقطعي**؛ **على مستوى الكلمة**، كنطق «الأدب» بدل «الحرارة» في سياقٍ دلاليٍّ متقارب؛ وأخيراً **على المستوى العباري**، حين تتبادل عبارتان كاملتان مواقعهما في الجملة.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## أنماط الخطأ الشائعة
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+من أبرز الأنماط المرصودة: **الاستباق** (Anticipation)، حين تظهر وحدةٌ لاحقة قبل أوانها؛ **التأخّر أو الاستمرار** (Perseveration)، حين تتكرر وحدةٌ سابقة في موضعٍ تالٍ؛ **التبادل** (Exchange أو Spoonerism)، وسُمّي نسبةً إلى القس ويليام سپونر الشهير بزلّاته، كقوله «you have hissed all my mystery lectures» بدل «missed all my history lectures»؛ و**المزج** (Blend)، حين تندمج كلمتان مترادفتان في صيغةٍ واحدة.
 
-## Experimental Evidence
+## الأهمية النظرية
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+توفّر زلّات اللسان دليلاً غير مباشر لكنه قوي على النماذج المعرفية لإنتاج الكلام، وأبرزها نموذج ﭬيلم ليڤلت المرحلي (Levelt's Speaking Model)، الذي يفصل بين التصوّر (Conceptualization) والصياغة (Formulation) والنطق (Articulation)، حيث تقع معظم الزلّات في مرحلة الصياغة، عند اختيار الوحدات المعجمية وترتيبها الصرفي الصوتي. كما تدعم فرضية «الواقعية النفسية» للوحدات اللغوية (الفونيم، المقطع، الجذر)، بوصفها ليست مجرد أدواتٍ تحليلية للغوي بل وحداتٍ فعليةً يتعامل معها الدماغ أثناء الإنتاج.
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+## الأثر اللاحق
 
-## Cross-Linguistic Applications
+أسهمت دراسة زلّات اللسان في تطوير نماذج حاسوبية لإنتاج الكلام، وفي تشخيص اضطراباتٍ لغويةٍ مكتسبة كالحبسة الكلامية (Aphasia)، إذ تتشابه بعض أنماط الأخطاء المرضية مع الزلّات السوية لكن بمعدلاتٍ أعلى، مما يفيد في فهم آليات التعطّل اللغوي بعد إصابات الدماغ.
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
+## المصادر
 
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Fromkin, Victoria A. "The Non-Anomalous Nature of Anomalous Utterances." *Language*, 47(1), 1971.
+- Fromkin, Victoria A. (ed.). *Speech Errors as Linguistic Evidence*. Mouton, 1973.
+- Levelt, Willem J. M. *Speaking: From Intention to Articulation*. MIT Press, 1989.
+- Garrett, Merrill F. "The Analysis of Sentence Production." In *Psychology of Learning and Motivation*, Vol. 9, 1975.

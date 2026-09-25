@@ -26,23 +26,26 @@ gaps:
 
 # تصنيفُ الحُبسة اللغوية
 
-## Definition
+## التعريف
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+تصنيفُ الحُبسة اللغوية هو المنظومةُ الإكلينيكية اللسانية التي تُصنِّف اضطراباتِ اللغة المكتسَبة الناجمة عن أذى دماغي (سكتة، رضّ، ورم) بحسب موقع الأذى وسِماتِ الأداء اللغوي: الطلاقةُ، الفهمُ، التكرارُ، والتسمية. نشأ هذا التصنيفُ من تراث بروكا وفيرنيكه وليختهايم في القرن التاسع عشر، وتبلور في القرن العشرين على يد نوربرت غشفند ومدرسة بوسطن (هارولد غودغلاس وإديث كاپلان) عبر اختبار بوسطن التشخيصي للحُبسة (Boston Diagnostic Aphasia Examination).
 
-## Key Principles
+## المبدأ التصنيفي
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+يقوم التصنيفُ الكلاسيكي على تقاطع ثلاثة محاور أداء: الطلاقةُ الكلامية (سليمة/متعذِّرة)، الفهمُ السمعي (سليم/معطوب)، والتكرارُ اللفظي (سليم/معطوب). من تقاطع هذه المحاور تُشتقُّ متلازماتٌ محدَّدة: حبسةُ بروكا (تعذّر طلاقة، فهمٌ نسبياً سليم، تكرارٌ معطوب)، وحبسةُ فيرنيكه (طلاقةٌ ظاهرية مع تلفيقٍ لفظي، فهمٌ معطوب، تكرارٌ معطوب)، وحبسةُ التوصيل (طلاقةٌ وفهمٌ سليمان نسبياً مع عجزٍ حادٍّ في التكرار المباشر)، والحبسةُ الشاملة (تعطّلُ كل المحاور)، والحبسةُ التسموية أو الأنومية (عجزٌ انتقائي في تسمية الأشياء مع سلامة سائر المحاور).
 
-## Evidence
+## الأساس التشريحي والنقد المعاصر
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+ربط النموذجُ الكلاسيكي كل متلازمة بموضعٍ قشري محدَّد: منطقةُ بروكا (التلفيف الجبهي السفلي الثالث) لحبسة بروكا، ومنطقةُ فيرنيكه (التلفيف الصدغي العلوي الخلفي) لحبسة فيرنيكه، والحزمةُ القوسية الواصلة بينهما لحبسة التوصيل. غير أن دراسات التصوير الوظيفي الحديثة، وبخاصة أعمال نينا درونكرز، بيّنت أن العلاقة بين الموضع التشريحي والمتلازمة أضعفُ وأعقد ممّا افترضه النموذجُ الكلاسيكي، وأن حجمَ الأذى وامتدادَه إلى ما تحت القشرة أكثرُ تفسيراً للنمط الحُبسي من موضع الآفة وحده. من هنا نشأت نماذجُ بديلة كالنموذج ثنائي المسار عند هيكوك وپوپل الذي يستبدل الثنائيةَ التشريحية بمسارين وظيفيين: بطنيٍّ لفهم المعنى، وظهريٍّ لترجمة الصوت إلى حركةٍ نطقية.
 
-## References
+## الاستخدام الإكلينيكي المعاصر
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+لا يزال التصنيفُ الكلاسيكي أداةً تواصليةً معياريةً بين الأطباء وأخصائيي أمراض النطق واللغة رغم قصوره النظري، إذ يوفّر مفرداتٍ مشتركةً سريعة لوصف النمط العرضي عند السرير، بينما تُستخدم بطارياتُ تقييمٍ أدقّ (كاختبار بوسطن أو اختبار وسترن للحبسة) لتوصيفٍ كمّي أدقّ يتجاوز التصنيف الثنائي البسيط، ولرصد التغيّر مع العلاج النطقي أو الشفاء التلقائي.
+
+## المصادر
+
+- Goodglass, H., & Kaplan, E. (1972). *The Assessment of Aphasia and Related Disorders*. Lea & Febiger.
+- Dronkers, N. F., et al. (2007). "Lesion analysis of the brain areas involved in language comprehension." *Cognition*, 92(1-2), 145-177.
+- Hickok, G., & Poeppel, D. (2007). "The cortical organization of speech processing." *Nature Reviews Neuroscience*, 8(5), 393-402.
+- Benson, D. F., & Ardila, A. (1996). *Aphasia: A Clinical Perspective*. Oxford University Press.
 

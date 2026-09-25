@@ -20,23 +20,34 @@ gaps: []
 
 # المصنِّفاتُ العددية
 
-## Definition
+## التعريف
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+المصنِّفاتُ العددية (Numeral Classifiers) مورفيماتٌ نحوية إلزامية تظهر في كثيرٍ من لغات العالم (أبرزُها الصينية واليابانية والكورية والتايلاندية والفيتنامية) بين العدد والاسم المعدود، ووظيفتُها تصنيفُ الاسم بحسب خصائصَ دلالية كالشكل أو الحيوية أو الحجم أو الوظيفة، بحيث لا يمكن ربطُ العدد بالاسم مباشرةً دون المرور بمصنِّفٍ وسيط مناسب لفئة ذلك الاسم.
 
-## Key Principles
+## آليةُ العمل: لا عددَ دون مصنِّف
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+في اللغات المصنِّفة كالصينية، لا يمكن قولُ ما يعادل "ثلاثة كتب" بربط العدد بالاسم مباشرةً، بل يجب إدراجُ مصنِّفٍ مناسب بينهما (三本书 — "ثلاثة [مصنِّف الأشياء المسطّحة الرقيقة] كتاب")، ويختلف المصنِّفُ باختلاف الفئة الدلالية للاسم المعدود: مصنِّفٌ للأشياء الطويلة الأسطوانية، وآخرُ للأشياء المسطّحة، وآخرُ للحيوانات، وآخرُ للأشخاص، وهكذا، بحيث يشكّل نظامُ المصنِّفات تصنيفاً معرفياً كاملاً لأنواع الكيانات في العالم يعكسه المتحدّثون في كل عملية عدٍّ يومية.
 
-## Evidence
+## العلاقةُ بتمييز الاسم المعدود والمعدود الكتلي
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+يرتبط وجودُ المصنِّفات العددية ارتباطاً وثيقاً بغياب التمييز الصرفي الصريح بين الأسماء المعدودة (Count Nouns) والأسماء الكتلية (Mass Nouns) في هذه اللغات: يذهب كثيرٌ من الباحثين إلى أن كل الأسماء المشتركة في اللغات المصنِّفة تُعامَل نحوياً معاملةَ الأسماء الكتلية، بحيث يحتاج أيُّ اسمٍ للعدِّ إلى "وحدةِ قياسٍ" يوفّرها المصنِّفُ، تماماً كما تحتاج الأسماءُ الكتلية في الإنجليزية (كـ"ماء") إلى وحدة قياسٍ صريحة للعدّ ("ثلاثة أكواب ماء") — وإن اعترض باحثون آخرون على هذا التعميم مستدلّين بأدلّةٍ نحوية دقيقة تفرّق بين نوعين من الأسماء حتى داخل هذه اللغات.
 
-## References
+## أنماطُ المصنِّفات
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+تتنوّع المصنِّفاتُ العددية بحسب وظيفتها: المصنِّفاتُ التصنيفية (Sortal Classifiers)، وهي الأكثرُ شيوعاً، تصنّف نوعَ الكيان المعدود بحسب خصائصَ ملازمة له (الشكل، الحيوية)؛ والمصنِّفاتُ القياسية (Mensural Classifiers)، التي تحدِّد وحدةَ قياسٍ أو كمّية (كوبٌ، كومةٌ) بصرف النظر عن نوع الكيان؛ والمصنِّفاتُ التصنيفية النوعية (Taxonomic Classifiers)، التي تحدِّد فئةً أو نوعاً عاماً (كمصنِّف "نوع" أو "صنف").
+
+## التوزيعُ النمطي العالمي
+
+تركّزت أبحاثُ ألكسندرا آيخنفالد وباحثين آخرين في النمطية اللغوية على رسم خريطةٍ عالمية لتوزيع لغات المصنِّفات، فبيّنت أن هذه الظاهرةَ منتشرة بكثافة في شرق آسيا وجنوب شرقها، وفي أجزاءٍ من أمريكا الوسطى والجنوبية، وفي بعض لغات أستراليا وأفريقيا، بينما تغيب تماماً في لغاتٍ كالإنجليزية والعربية والفرنسية التي تربط العدد بالاسم مباشرةً (أو عبر صيغةٍ صرفية للجمع فقط) دون مصنِّفٍ وسيط إلزامي.
+
+## الأثر
+
+فتحت دراسةُ المصنِّفات العددية نافذةً على العلاقة بين البنية النحوية والتصنيف المفاهيمي للعالم، وأثارت نقاشاتٍ نظرية مهمّة في فلسفة اللغة حول طبيعة العدّ والكمّية، وصارت مجالاً بحثياً نشطاً في النمطية اللغوية المقارَنة والدلالة الصورية معاً.
+
+## المصادر
+
+- Aikhenvald, A. Y. (2000). *Classifiers: A Typology of Noun Categorization Devices*. Oxford University Press.
+- Allan, K. (1977). "Classifiers." *Language*, 53(2), 285-311.
+- Chierchia, G. (1998). "Reference to Kinds Across Languages." *Natural Language Semantics*, 6(4), 339-405.
+- Yi, B.-U. (2011). "Numeral Classifiers and Mass/Count Distinctions." *Analytic Philosophy*, 52(1).
 

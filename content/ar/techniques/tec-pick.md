@@ -9,182 +9,183 @@ related_schools:
   - sch-systemic-family
 ---
 
-# PICK: Premarital Awareness and Interpersonal Choices
+# بِك: الوعي ما قبل الزواج والخيارات التفاعلية (PICK)
 
-PICK is a premarital awareness and decision-making program designed to help engaged couples develop self-awareness, understand their partner, and make informed choices about marriage commitment. Developed by Harriet Van Epp, the program emphasizes awareness of relationship patterns, personal and relational readiness, and intentional decision-making.
+بِك (PICK) برنامج وعيٍّ واتخاذ قرارٍ لما قبل الزواج، صُمِّم لمساعدة الخطيبين على تنمية الوعي الذاتي، وفهم شريكهما، واتخاذ خياراتٍ مدروسة بشأن الالتزام بالزواج. طوَّرته جون فان إيب (John Van Epp)، ويشدد البرنامج على الوعي بأنماط العلاقة، والاستعداد الشخصي والعلائقي، واتخاذ القرار المتعمَّد.
 
-## Development & Philosophy
+## التطور والفلسفة
 
-**Founder:** Harriet Van Epp, psychologist and relationship educator
+**المؤسِّسة:** جون فان إيب، عالمة نفسٍ ومربية علاقات
 
-**Core premise:** Many people marry without adequate awareness of themselves, their partner, or relationship dynamics; enhanced awareness leads to better decisions and more successful marriages
+**الفرضية الجوهرية:** كثيرٌ من الناس يتزوجون دون وعيٍ كافٍ بأنفسهم أو بشريكهم أو بديناميكيات العلاقة؛ والوعي المعزَّز يفضي إلى قراراتٍ أفضل وزيجاتٍ أنجح
 
-**Focus:** Premarital awareness and readiness assessment, not just skill-building
+**التركيز:** تقييم الوعي والاستعداد لما قبل الزواج، لا بناء المهارات فحسب
 
-**Target population:** Engaged couples, particularly those without clear awareness of relational patterns or potential conflicts
+**الفئة المستهدفة:** الخطيبون، لا سيما من ليس لديهم وعيٌ واضح بأنماط العلاقة أو النزاعات المحتملة
 
-## Theoretical Foundations
+## الأسس النظرية
 
-### Awareness & Readiness
-- **Personal awareness:** understanding own personality, values, family patterns, emotional functioning
-- **Partner awareness:** understanding partner's personality, background, values, patterns
-- **Relationship awareness:** understanding couple dynamics, communication patterns, areas of compatibility
-- **Readiness assessment:** Am I ready for marriage? Is my partner? Are we ready for this particular partnership?
+### الوعي والاستعداد
+- **الوعي الشخصي:** فهم شخصية المرء وقيمه وأنماط أسرته وأدائه الانفعالي
+- **الوعي بالشريك:** فهم شخصية الشريك وخلفيته وقيمه وأنماطه
+- **الوعي بالعلاقة:** فهم ديناميكيات الزوجين، وأنماط التواصل، ومجالات التوافق
+- **تقييم الاستعداد:** هل أنا مستعدٌّ للزواج؟ هل شريكي مستعد؟ هل نحن مستعدان لهذه الشراكة تحديداً؟
 
-### Cognitive-Behavioral Approach
-- Identifying thoughts, feelings, behaviors in relationship context
-- Making conscious choices rather than reactive patterns
-- Building on awareness to make intentional decisions
+### النهج السلوكي المعرفي
+- تحديد الأفكار والمشاعر والسلوكيات في سياق العلاقة
+- اتخاذ خياراتٍ واعية بدل أنماط رد الفعل
+- البناء على الوعي لاتخاذ قراراتٍ متعمَّدة
 
-### Developmental Perspective
-- Recognizing that individuals and couples develop over time
-- Early marriage readiness vs. long-term marriage success
-- Supporting ongoing growth and awareness
+### المنظور النمائي
+- إدراك أن الأفراد والأزواج يتطورون عبر الزمن
+- الاستعداد المبكر للزواج مقابل نجاح الزواج طويل الأمد
+- دعم النمو والوعي المستمرَّين
 
-## The PICK Process
+## عملية بِك
 
-### Focus Areas (The Five Key Questions)
+### مجالات التركيز (الأسئلة الخمسة الأساسية)
 
-1. **"Do you know yourself?"**
-   - Personal inventory: personality traits, values, life goals, emotional functioning
-   - Family of origin patterns: what you learned about relationships, love, conflict
-   - Personal strengths and challenges
-   - Readiness for partnership and commitment
+1. **"هل تعرف نفسك؟"**
+   - جردٌ شخصي: سمات الشخصية، والقيم، والأهداف الحياتية، والأداء الانفعالي
+   - أنماط أسرة المنشأ: ما تعلمته عن العلاقات والحب والنزاع
+   - نقاط القوة والتحديات الشخصية
+   - الاستعداد للشراكة والالتزام
 
-2. **"Do you know your partner?"**
-   - Partner's personality, values, life goals, emotional functioning
-   - Partner's family patterns and background
-   - How well do you actually know them vs. assumptions/projections?
-   - Partner's strengths and challenges
+2. **"هل تعرف شريكك؟"**
+   - شخصية الشريك وقيمه وأهدافه الحياتية وأداؤه الانفعالي
+   - أنماط أسرة الشريك وخلفيته
+   - إلى أيّ حدّ تعرفه فعلاً مقابل الافتراضات/الإسقاطات؟
+   - نقاط قوة الشريك وتحدياته
 
-3. **"Are your values aligned?"**
-   - Life goals: career, children, lifestyle
-   - Values: spirituality, family involvement, money, work-life balance
-   - Identification of fundamental agreements and misalignments
-   - Negotiability of differences
+3. **"هل قيمكما متوافقة؟"**
+   - الأهداف الحياتية: المسار المهني، والأطفال، ونمط الحياة
+   - القيم: الروحانية، ومشاركة الأسرة، والمال، والتوازن بين العمل والحياة
+   - تحديد الاتفاقات الجوهرية والتباينات
+   - قابلية الاختلافات للتفاوض
 
-4. **"Can you communicate effectively?"**
-   - Ability to discuss difficult topics
-   - Listening and understanding each other
-   - Managing conflict respectfully
-   - Building on strengths in communication
+4. **"هل تستطيعان التواصل بفعالية؟"**
+   - القدرة على مناقشة الموضوعات الصعبة
+   - الإصغاء وفهم كلٍّ منكما الآخر
+   - إدارة النزاع باحترام
+   - البناء على نقاط القوة في التواصل
 
-5. **"Is your relationship based on love?"**
-   - Distinguishing between love and lust, convenience, dependence
-   - Quality of emotional connection and intimacy
-   - Long-term sustainability of the relationship
-   - Mutual commitment and partnership
+5. **"هل تقوم علاقتكما على الحب؟"**
+   - التمييز بين الحب والشهوة والمصلحة والاعتمادية
+   - جودة الاتصال والحميمية الانفعاليَّين
+   - استدامة العلاقة طويلة الأمد
+   - الالتزام المتبادل والشراكة
 
-### Assessment & Intervention
+### التقييم والتدخل
 
-**Methods:**
-- Individual assessment inventories (each partner completes separately)
-- Couple dialogue and discussion guided by worksheets
-- Reflection on specific relationship scenarios
-- Counselor-facilitated discussion and feedback
+**الطرق:**
+- مقاييس تقييمٍ فردية (يكمل كل شريكٍ الخاص به منفرداً)
+- حوارٌ ونقاشٌ للزوجين موجَّه بأوراق عمل
+- التأمل في سيناريوهات علاقةٍ محددة
+- نقاشٌ وتغذيةٌ راجعة ييسّرهما المستشار
 
-**Counselor role:**
-- Non-judgmental facilitator
-- Raising awareness of patterns and dynamics
-- Supporting honest conversation between couple
-- Helping couple make informed decisions
+**دور المستشار:**
+- ميسِّرٌ غير حاكم
+- رفع الوعي بالأنماط والديناميكيات
+- دعم المحادثة الصادقة بين الزوجين
+- مساعدة الزوجين على اتخاذ قراراتٍ مدروسة
 
-## Research Evidence
+## أدلة البحث
 
-### Effectiveness Studies
+### دراسات الفعالية
 
-**Hashemi et al. (2023)** — Comparison with SYMBIS
-- **Design:** Quasi-experimental with 3 groups (PICK n=15, SYMBIS n=15, control n=15)
-- **Measures:** Attitudes toward marriage
-  - Optimistic attitudes toward marriage (F=32.86, P=0.001)
-  - Pessimistic attitudes toward marriage (F=91.51, P=0.001)
-  - Idealistic attitudes toward marriage (F=22.37, P=0.001)
-- **Results:** Both PICK and SYMBIS were effective in improving attitudes toward marriage
-- **Follow-up:** Effects sustained at one-month follow-up
-- **Conclusion:** No significant difference in effectiveness between PICK and SYMBIS; both are viable premarital interventions
+**هاشمي وآخرون (2023)** — مقارنةٌ مع SYMBIS
+- **التصميم:** شبه تجريبي بثلاث مجموعات (بِك ن=15، SYMBIS ن=15، ضابطة ن=15)
+- **المقاييس:** الاتجاهات نحو الزواج
+  - اتجاهاتٌ متفائلة نحو الزواج (F=32.86، P=0.001)
+  - اتجاهاتٌ متشائمة نحو الزواج (F=91.51، P=0.001)
+  - اتجاهاتٌ مثالية نحو الزواج (F=22.37، P=0.001)
+- **النتائج:** كان كلٌّ من بِك وSYMBIS فعّالاً في تحسين الاتجاهات نحو الزواج
+- **المتابعة:** استمرت الآثار عند متابعة شهرٍ واحد
+- **الخلاصة:** لا فرق دالّ في الفعالية بين بِك وSYMBIS؛ وكلاهما تدخلٌ ملائم لما قبل الزواج
 
-### Strengths
-- Effective in shifting unrealistic attitudes toward marriage
-- Promotes self-awareness and partner awareness
-- Supports informed decision-making
-- Research compares favorably to other premarital programs
+### نقاط القوة
+- فعّالٌ في تغيير الاتجاهات غير الواقعية نحو الزواج
+- يعزز الوعي الذاتي والوعي بالشريك
+- يدعم اتخاذ القرار المدروس
+- يقارَن البحث إيجابياً ببرامج أخرى لما قبل الزواج
 
-### Limitations
-- Limited large-scale randomized trials
-- Most research from non-US samples (Iran, Middle East)
-- Limited long-term follow-up (most studies 1-3 months post-intervention)
-- Limited data on divorce/separation outcomes vs. other programs
+### الحدود
+- تجاربُ عشوائيةٌ واسعة النطاق محدودة
+- معظم البحث من عيناتٍ غير أمريكية (إيران، الشرق الأوسط)
+- متابعةٌ طويلة الأمد محدودة (معظم الدراسات من شهرٍ إلى ثلاثة أشهر بعد التدخل)
+- بياناتٌ محدودة حول نتائج الطلاق/الانفصال مقارنةً ببرامج أخرى
 
-## Variants & Applications
+## الصيغ والتطبيقات
 
-### Individual vs. Couple Focus
-- Can include individual assessment (each partner separate) and couple dialogue
-- Flexibility in how assessment and discussion are structured
+### التركيز الفردي مقابل تركيز الزوجين
+- يمكن أن يشمل تقييماً فردياً (كل شريكٍ منفرداً) وحوار زوجين
+- مرونةٌ في كيفية تنظيم التقييم والنقاش
 
-### Group Formats
-- Can be delivered to multiple couples in group setting
-- Peer discussion alongside couple work
+### الصيغ الجماعية
+- يمكن تقديمه لعدة أزواج في إعدادٍ جماعي
+- نقاشٌ بين الأقران إلى جانب عمل الزوجين
 
-### Clinical vs. Preventive Settings
-- Premarital counseling (preventive)
-- Couples already showing conflict (intervention)
-- Newlywed enrichment
+### السياقات السريرية مقابل الوقائية
+- الاستشارة لما قبل الزواج (وقائي)
+- الأزواج الذين يُظهرون نزاعاً بالفعل (تدخّلي)
+- إثراء المتزوجين حديثاً
 
-## Related Interventions
+## تدخلات ذات صلة
 
-- [[tec-prepare-enrich]] — comprehensive assessment-based program
-- [[tec-symbis]] — four-session skill-building program
-- [[tec-foccus]] — couple dialogue program
-- [[tec-prep-program]] — PREP program
-- [[tec-relationship-enhancement]] — skill-building approach
+- [[tec-prepare-enrich]] — برنامجٌ شامل قائم على التقييم
+- [[tec-symbis]] — برنامج بناء مهاراتٍ من أربع جلسات
+- [[tec-foccus]] — برنامج حوار الزوجين
+- [[tec-prep-program]] — برنامج PREP
+- [[tec-relationship-enhancement]] — نهج بناء المهارات
 
-## Strengths & Limitations
+## نقاط القوة والحدود
 
-### Strengths
-- Emphasis on awareness and informed decision-making
-- Addresses fundamental compatibility and readiness
-- Research-supported effectiveness in improving attitudes
-- Flexible format adaptable to different settings
-- Accessible and engaging for couples
+### نقاط القوة
+- التشديد على الوعي واتخاذ القرار المدروس
+- يعالج التوافق الأساسي والاستعداد
+- فعاليةٌ مسنودة بالبحث في تحسين الاتجاهات
+- صيغةٌ مرنة قابلة للتكيف مع سياقاتٍ مختلفة
+- سهل الوصول وجاذب للأزواج
 
-### Limitations
-- Limited data on long-term marriage outcomes and divorce prevention
-- May not adequately address severe underlying issues (trauma, mental health, abuse)
-- Effectiveness depends on couple honesty and engagement
-- Selection bias in research samples
+### الحدود
+- بياناتٌ محدودة حول نتائج الزواج طويلة الأمد ومنع الطلاق
+- قد لا يعالج بشكلٍ كافٍ القضايا الكامنة الشديدة (الصدمة، الصحة النفسية، الإساءة)
+- تعتمد الفعالية على صدق الزوجين وانخراطهما
+- تحيّز اختيار في عينات البحث
 
-## Clinical Applications
+## التطبيقات السريرية
 
-### When PICK is Appropriate
-- Couples wanting to increase awareness before marriage commitment
-- Couples with different values or visions for their future
-- Couples questioning readiness for marriage
-- Engaged couples seeking preventive preparation
-- Couples in early marriage wanting to deepen understanding
+### متى يكون بِك ملائماً
+- الأزواج الراغبون في زيادة الوعي قبل الالتزام بالزواج
+- الأزواج ذوو القيم أو الرؤى المختلفة لمستقبلهم
+- الأزواج المتسائلون عن استعدادهم للزواج
+- الخطيبون الساعون لإعدادٍ وقائي
+- الأزواج في بداية الزواج الراغبون في تعميق الفهم
 
-### When Additional Intervention May Be Needed
-- Couples with active domestic violence
-- Couples with untreated mental health or substance use disorders
-- Couples with significant trauma histories
-- Couples with severe communication breakdown
+### متى قد يلزم تدخلٌ إضافي
+- الأزواج الذين يعانون عنفاً أسرياً نشطاً
+- الأزواج ذوو اضطراباتٍ نفسية أو تعاطي مواد غير معالَجة
+- الأزواج ذوو تاريخ صدمةٍ كبير
+- الأزواج ذوو انهيار تواصلٍ شديد
 
-## Key Figures
+## الشخصيات الرئيسة
 
-- Harriet Van Epp — developer and primary author
-- Marriage education researchers and advocates for premarital preparation
+- جون فان إيب (John Van Epp) — المطوِّرة والمؤلفة الرئيسة
+- باحثون ومناصرون في التربية الزوجية للإعداد لما قبل الزواج
 
-## Primary Sources
+## المصادر
 
 1. Van Epp, L. (2007). How to avoid falling in love with a jerk: The foolproof way to follow your heart without losing your mind. McGraw-Hill.
 2. Hashemi, S., et al. (2023). Comparison of the effectiveness of PICK and SYMBIS premarital models on girls' attitudes toward marriage. Journal of Assessment and Research in Applied Counseling.
 
-## Related Concepts
+## مفاهيم ذات صلة
 
-- Premarital counseling and education
-- Relationship awareness and readiness
-- Values clarification
-- Partner compatibility assessment
-- Informed decision-making
-- Communication skills
-- Marriage enrichment
-- Prevention-focused intervention
+- الاستشارة والتربية لما قبل الزواج
+- الوعي بالعلاقة والاستعداد لها
+- توضيح القيم
+- تقييم توافق الشريك
+- اتخاذ القرار المدروس
+- مهارات التواصل
+- إثراء الزواج
+- التدخل الوقائي
+</content>

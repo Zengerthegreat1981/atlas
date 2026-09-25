@@ -27,23 +27,24 @@ gaps:
 
 # پول بروكا
 
-## Definition
+جرّاحٌ وعالمُ أعصابٍ فرنسي، مؤسّس علم اللغة العصبي الحديث، اشتُهر باكتشافه سنة 1861 أول دليلٍ تشريحي مباشر على أن اللغة **موطَّنة** في منطقةٍ محددة من الدماغ، فاتحاً بذلك الباب أمام علم توطين الوظائف الدماغية العليا.
 
-This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
+## حالة «تان»
 
-## Key Principles
+في فبراير 1861، فحص بروكا مريضاً يُدعى لوبورن، اشتهر لاحقاً باسم «تان» نسبةً إلى المقطع الوحيد الذي كان قادراً على نطقه بتكراره («تان تان»)، إذ فَقَد قدرته على الكلام الطلق قبل ذلك بعدة سنوات إثر إصابةٍ عصبية، مع بقاء فهمه للكلام سليماً نسبياً وقدراته العقلية الأخرى محفوظة. توفي المريض بعد أيامٍ قليلة من فحص بروكا له، فأجرى بروكا تشريحاً بعد الوفاة كشف عن آفةٍ واضحة في الجزء الخلفي من التلفيف الجبهي الأسفل في نصف الدماغ الأيسر، وهي المنطقة التي حملت اسمه لاحقاً (منطقة بروكا).
 
-- Language involves distributed brain networks
-- Cognitive processes are embodied (grounded in perception and action)
-- Language learning involves neural plasticity
-- Individual and group differences affect language abilities
+## الإعلان أمام الجمعية الأنثروبولوجية
 
-## Evidence
+قدّم بروكا نتائجه أمام الجمعية الأنثروبولوجية بباريس، التي كان من مؤسّسيها، معلناً مبدأً صار محورياً: أن «ملَكة الكلام المفصَّل» (Faculté du Langage Articulé) موضعها الفص الجبهي الثالث الأيسر تحديداً. عزّز بروكا استنتاجه بدراسة حالاتٍ إضافية مشابهة، مؤكداً أن الإصابة في النصف الأيسر تحديداً، لا الأيمن، هي المسؤولة عن هذا النمط من فقدان الكلام، وهو ما مهّد لاحقاً لمفهوم **التخصّص النصفي الدماغي للغة** (Hemispheric Lateralization).
 
-Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
+## الأثر: من التوطين إلى الحبسة الحديثة
 
-## References
+فتح اكتشاف بروكا حقلاً بحثياً كاملاً: تبعه كارل فيرنيكه بعد ثلاثة عشر عاماً بوصف نمطٍ معاكس من فقدان اللغة، ثم طوّر لودفيغ ليختهايم ونورمان غيرشفيند نماذج أكثر تفصيلاً لشبكة اللغة الدماغية استناداً إلى المبدأ الذي أرساه بروكا أولاً. وحمل مصطلح «حبسة بروكا» (أو الحبسة التعبيرية) اسمه حتى اليوم في التصنيف السريري المعياري لاضطرابات اللغة الناتجة عن إصاباتٍ دماغية، رغم أن الأبحاث الحديثة بالتصوير الدماغي الوظيفي نقّحت لاحقاً حدود الوظيفة الدقيقة التي تؤديها منطقته وحدها، مبيّنةً أن إنتاج الكلام يعتمد على شبكةٍ أوسع من المناطق المترابطة.
 
-- Kemmerer, D. (2012). *Psychology of Language*. Springer.
-- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
+## المصادر
+
+- Broca, Paul. "Remarques sur le siège de la faculté du langage articulé, suivies d'une observation d'aphémie." *Bulletin de la Société Anatomique de Paris*, 6, 1861.
+- Broca, Paul. "Sur le siège de la faculté du langage articulé." *Bulletins de la Société d'Anthropologie de Paris*, 6, 1865.
+- Finger, Stanley. *Origins of Neuroscience: A History of Explorations into Brain Function*. Oxford University Press, 1994.
+- Tesak, Jürgen, & Code, Chris. *Milestones in the History of Aphasia: Theories and Protagonists*. Psychology Press, 2008.
 

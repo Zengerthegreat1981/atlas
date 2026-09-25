@@ -15,7 +15,6 @@ part: "psychology"
 edges: []
 related:
 - id: "thk-minsungkil", title: "مين سونغ-كيل", type: "مفكر"
-- id: "thk-leehyungjun", title: "لي هيونغ-جون", type: "مفكر"
 - id: "thk-parkjongik", title: "بارك جونغ-إيك", type: "مفكر"
 gaps:
   - "تاريخ الميلاد الدقيق والموقع الأكاديمي الحالي لم يُوثّق."

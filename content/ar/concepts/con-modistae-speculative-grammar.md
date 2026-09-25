@@ -22,58 +22,33 @@ gaps:
 
 # نحاةُ الأنماط والنحوُ التأمّلي
 
-## Definition and Overview
+## التعريف
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+نحاةُ الأنماط (Modistae) جماعةٌ من النحاة والفلاسفة اللاتينيين نشطوا في باريس وأماكنَ أخرى في أوروبا بين نحو 1270 و1330، أبرزُهم مارتن الدقيقي، ورادولفوس بريتو، وتوما الإربفوردي، طوّروا ما يُعرف بالنحو التأمّلي (Speculative Grammar، من اللاتينية speculum بمعنى "مرآة")، الذي حوّل دراسةَ النحو من ضبطٍ عملي لقواعد الكتابة اللاتينية إلى مبحثٍ فلسفي نظري يبحث عن قوانينَ عقلية كلّية تحكم اللغةَ الإنسانية كلَّها بوصفها انعكاساً للعقل والواقع معاً.
 
-## Theoretical Framework
+## نظريةُ الأنماط الثلاثة
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+يقوم فكرُهم على نظريةٍ ثلاثية للأنماط (Modi): أنماطُ الكينونة (Modi Essendi)، وهي خصائصُ موضوعية قائمة فعلاً في الأشياء نفسِها في العالم الخارجي؛ وأنماطُ الفهم (Modi Intelligendi)، وهي الوسائلُ التي يُمثِّل بها العقلُ البشري تلك الخصائصَ الموضوعية إدراكياً؛ وأنماطُ الدلالة (Modi Significandi)، وهي الوسائلُ التي تُمثِّل بها اللغةُ تلك التمثيلاتِ العقلية لفظياً. بهذا التسلسل الثلاثي، تصبح الكلمةُ مرآةً (ومن هنا اسمُ "التأمّلي") تعكس بنية الفهم التي تعكس بدورها بنية الوجود ذاته.
 
-## Key Mechanisms
+## أنماطُ الدلالة أساسَ التصنيف النحوي
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+استخدم نحاةُ الأنماط هذا الإطارَ الثلاثي لتفسير الفوارق بين المقولات النحوية (الاسم، الفعل، الصفة) لا بوصفها اصطلاحاتٍ تعسّفية أو تصنيفاتٍ صرفية سطحية، بل بوصفها انعكاساتٍ لأنماط دلالةٍ مختلفة جوهرياً: فالاسمُ يدلّ على الجوهر بنمط الثبات (Modus Entis)، بينما يدلّ الفعلُ على الحدَث بنمط الصيرورة (Modus Fieri)، وهذا الفرقُ في نمط الدلالة، لا الشكل الصرفي وحده، هو ما يفسّر عندهم لماذا تنتمي كلمةٌ إلى مقولةٍ نحوية بعينها دون أخرى.
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+## توما الإربفوردي وأشهر المؤلَّفات
 
-## Experimental Evidence
+يُعدُّ كتابُ *Grammatica Speculativa* المنسوب لتوما الإربفوردي (كُتب حوالي 1310) أنضجَ تعبيرٍ عن هذا التيار، وقد نُسب خطأً لفترةٍ طويلة إلى دونس سكوتس قبل أن يُثبت الباحثون نسبتَه الصحيحة إلى الإربفوردي. تعرّض هذا التيارُ لنقدٍ حادّ في أواخر القرن الرابع عشر من الإنسانويين الذين رأوا فيه تجريداً فلسفياً مفرطاً يبتعد عن الدراسة الفعلية للنصوص الأدبية الكلاسيكية.
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
+## السعيُ إلى كلّياتٍ نحوية عالمية
 
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
+يمثّل هذا المشروعُ أحدَ أبكر محاولاتٍ منهجية جادّة للبحث عن قواعدَ نحوية كلّية تتجاوز خصوصيةَ اللاتينية نفسِها، منطلقةً من افتراض أن العقلَ البشري واحدٌ في بنيته الإدراكية الأساسية، وبالتالي فبنيةُ اللغة "العقلانية" ينبغي أن تعكس بنيةً كلّية مشتركة، وهو ما يجعل هذا التيار سابقةً تاريخية بعيدة لمشاريعَ لاحقة في البحث عن الكلّيات اللغوية، وإن اختلفت أدواتُهما المنهجية اختلافاً جذرياً.
 
-## Cross-Linguistic Applications
+## الأثر
 
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
+رغم انقطاع التيار عملياً مع صعود النزعة الإنسانوية، أعاد باحثون في القرن العشرين، وبخاصة في تاريخ فلسفة اللغة، اكتشافَ نحاة الأنماط بوصفهم حلقةً مهمّة في تاريخ التفكير النظري باللغة، تربط المنطقَ الأرسطي الوسيط بمشاريعَ لاحقة للبحث عن أساسٍ عقلاني كلّي للنحو.
 
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
+## المصادر
 
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Bursill-Hall, G. L. (1972). *Speculative Grammars of the Middle Ages: The Doctrine of Partes Orationis of the Modistae*. Mouton.
+- Covington, M. A. (1984). *Syntactic Theory in the High Middle Ages*. Cambridge University Press.
+- Pinborg, J. (1982). "Speculative Grammar." In N. Kretzmann et al. (Eds.), *The Cambridge History of Later Medieval Philosophy*.
+- Rosier-Catach, I. (2003). "Modism." In *The Cambridge History of Medieval Philosophy*.

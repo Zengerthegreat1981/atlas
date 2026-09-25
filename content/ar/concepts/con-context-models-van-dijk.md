@@ -20,31 +20,34 @@ gaps: []
 
 # نماذجُ السياق الذهنية عند فان دايك
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+نماذجُ السياق (Context Models) مفهومٌ صاغه تون فان دايك ضمن مقاربته السوسيومعرفية (Sociocognitive Approach) لتحليل الخطاب، ويصف تمثيلاً ذهنياً ذاتياً يبنيه كل مشارِكٍ في موقف تواصلي داخل الذاكرة العرضية (Episodic Memory)، لا "السياقَ" بوصفه معطًى موضوعياً خارجياً ثابتاً. بحسب فان دايك، ما يؤثّر فعلياً في إنتاج الخطاب وفهمه ليس الموقفَ الاجتماعي بحدّ ذاته، بل تمثيلُ المتحدّث الذاتي لِما هو مناسبٌ وذو صلة في تلك اللحظة بعينها.
 
-## Theoretical Framework
+## الوظيفةُ الوسيطة بين المجتمع والخطاب
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+يحلّ مفهومُ نموذج السياق مشكلةً نظرية أساسية: كيف تؤثّر بِنًى اجتماعية مجرَّدة (كالطبقة أو السلطة أو الموقف الرسمي) في اختياراتٍ لغوية دقيقة (كدرجة الرسمية أو اختيار ضمير المخاطبة)؟ يرى فان دايك أن هذا التأثير لا يحدث مباشرة، بل يمرّ إلزامياً عبر نموذج السياق الذهني الذي يفسّر الموقفَ الاجتماعي ويحدِّد ما هو "مناسبٌ" فيه، فيكون هذا النموذجُ الذهني هو الوسيطَ الحقيقي بين البنية الاجتماعية والاختيار اللغوي، لا البنيةُ الاجتماعية نفسها.
 
-## Key Principles
+## عناصرُ نموذج السياق
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+يتضمّن نموذجُ السياق عند فان دايك مؤلِّفاتٍ (Categories) كتمثيل المشارِكين وأدوارهم الاجتماعية والتواصلية، والمكان والزمان، والهدف من التفاعل، والمعرفة المشتركة المفترَضة بين المتحاورين (Common Ground)، والقيَم والانفعالات ذات الصلة. تتفاعل هذه العناصرُ ديناميكياً أثناء الخطاب نفسه، فتُحدَّث لحظةً بلحظة مع تطوّر التفاعل، لا أن تُثبَّت مسبقاً قبل بدء الحديث.
 
-## Evidence Sources
+## العلاقة بالتداولية ونظرية الملاءمة
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+يقدّم هذا الإطارُ أساساً معرفياً لتفسير الملاءمة الموقفية للخطاب (Situational Appropriateness)، وهو ما تسعى إليه التداوليةُ الكلاسيكية بأدواتٍ مختلفة (كمبدأ التعاون عند غرايس)؛ لكن فان دايك يزعم أن النماذجَ الذهنية للسياق أساسٌ أعمق يفسّر لماذا تُعدُّ استجابةٌ معيّنة ملائمةً في موقفٍ بعينه، عبر ربط التداولية بعلم النفس المعرفي للذاكرة بدل الاكتفاء بالوصف المنطقي للاستدلال التخاطبي.
 
-## Contemporary Applications
+## المستوياتُ الثلاثة في نظرية فان دايك للخطاب
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+تندرج نماذجُ السياق ضمن بنيةٍ نظرية أشمل عند فان دايك تشمل أيضاً البنيةَ الكلّية (Macrostructure)، التي تلخّص الموضوعَ العام للنص، والبنيةَ الفوقية (Superstructure)، التي تصف التنظيمَ الشكلي النمطي (كبنية القصة الإخبارية)؛ بينما تُعنى نماذجُ السياق تحديداً بالبعد التداولي التفاعلي لا البنية الدلالية أو الشكلية للنص نفسه.
 
-## References
+## الأثر
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+أثّرت نماذجُ السياق تأثيراً واسعاً في تحليل الخطاب النقدي (Critical Discourse Analysis)، إذ وفّرت أداةً لتفسير كيف تُعاد إنتاجُ علاقات القوة والأيديولوجيا عبر خياراتٍ خطابية تبدو "طبيعية" و"ملائمة" للمشارِكين لأنها تنسجم مع نماذجهم الذهنية المكتسَبة اجتماعياً، لا لأنها محايدةٌ موضوعياً.
+
+## المصادر
+
+- van Dijk, T. A. (2008). *Discourse and Context: A Sociocognitive Approach*. Cambridge University Press.
+- van Dijk, T. A. (1997). "Cognitive Context Models and Discourse." In M. Stamenow (Ed.), *Language Structure, Discourse and the Access to Consciousness*. John Benjamins.
+- van Dijk, T. A. (2006). "Discourse, Context and Cognition." *Discourse Studies*, 8(1), 159-177.
+- van Dijk, T. A. (2009). *Society and Discourse: How Social Contexts Influence Text and Talk*. Cambridge University Press.
 

@@ -28,43 +28,34 @@ gaps: []
 
 # مبدأُ التعاون والقواعدُ المحادثية الأربع عند غرايس
 
-## Definition
+## التعريف
 
-Pragmatics studies how context affects meaning. "Can you pass the salt?" is literally a question about ability but pragmatically a request. Pragmatics explains why speakers say what they say and how listeners infer unstated meanings.
+مبدأُ التعاون (Cooperative Principle) هو المبدأُ المحوري الذي صاغه الفيلسوفُ اللغوي پول غرايس في محاضراته بجامعة هارڤارد عام 1967، ونشره لاحقاً في مقالته المرجعية "Logic and Conversation" (1975)، وينصّ على أن المتحدّثين يفترضون ضمناً التزامَ بعضهم بعضاً بأن يُسهِم كلُّ طرفٍ في المحادثة إسهاماً يناسب الغرضَ المشترك المتفَق عليه في اللحظة التي يحدث فيها التبادل الكلامي.
 
-## Grice's Theory
+## القواعدُ المحادثية الأربع
 
-Paul Grice identified four conversational maxims speakers follow:
-- Quantity: Be informative without being excessive
-- Quality: Be truthful and warranted
-- Relevance: Stay on topic
-- Manner: Be clear and brief
+يتفرّع من مبدأ التعاون أربعُ قواعدَ (Maxims) توجّه إنتاجَ الكلام وتفسيرَه: قاعدةُ الكمّ (Quantity)، وتقضي أن يكون الإسهامُ إعلامياً بالقدر المطلوب لا أقلَّ ولا أكثر؛ وقاعدةُ الكيف (Quality)، وتقضي بالصدق وعدم قول ما يعتقد المتكلّمُ أنه كاذبٌ أو يفتقر إلى دليل كافٍ؛ وقاعدةُ الصلة (Relation)، وتقضي بأن يكون الإسهامُ ذا صلةٍ بموضوع المحادثة؛ وقاعدةُ الطريقة (Manner)، وتقضي بالوضوح وتجنّب الغموض والإطناب غير الضروري.
 
-Flouting these maxims creates implicature—meaning inferred from the violation.
+## الخرقُ الظاهري ونشوءُ الإفهام
 
-## Speech Acts
+الفكرةُ الحاسمة عند غرايس أن هذه القواعدَ لا تُطاع حرفياً دائماً، بل يخرقها المتكلّمون ظاهرياً (Flouting) بانتظام مع بقاء افتراض التزامهم بمبدأ التعاون نفسِه على مستوًى أعمق. حين يواجه المخاطَبُ خرقاً ظاهرياً كهذا، يفترض أن المتكلّم لا يزال متعاوناً ويبحث عن معنًى إضافي يُعيد الاتساق — وهذا المعنى هو الإفهامُ التخاطبي (Conversational Implicature)، الذي يُعدُّ الناتجَ العملي الأهم لنظرية غرايس بأكملها.
 
-Utterances perform actions (Austin, Searle):
-- Locutionary: The words uttered
-- Illocutionary: The action performed (promising, requesting, commanding)
-- Perlocutionary: The effect on listener
+## أمثلةُ الخرق الوظيفي
 
-"I promise to return the book" is a performative—the utterance creates an obligation.
+خرقُ قاعدة الكمّ بقول أقلَّ مما يلزم، كقول "بعضُ الطلاب نجحوا"، يستلزم أن ليس الكلُّ نجح. خرقُ قاعدة الصلة بإجابةٍ تبدو خارجةً عن الموضوع يدفع المخاطَبَ للبحث عن رابطٍ ضمني. خرقُ قاعدة الطريقة بالإطناب المتعمَّد، كقول "أخرج صوتاً يشبه أغنية 'الوطن الجميل'" بدل "غنّى"، يستلزم غالباً سخريةً أو تحفّظاً من جودة الأداء.
 
-## Politeness Strategies
+## الفرقُ بين الخرق الخفي والصريح
 
-Brown & Levinson describe face-threatening acts and politeness strategies. Directness threatens negative face (freedom); indirectness preserves it. "Could you possibly help?" is indirect; "Help!" is direct.
+يميّز غرايس بين أنماطٍ مختلفة من عدم الالتزام بالقواعد: الخرقُ الخفي (كالكذب المتعمَّد الذي يهدف لتضليل المخاطَب دون علمه)، والتخلّي الصريح عن القاعدة (كقول "لا أستطيع قول المزيد" الذي يُعلن انسحاباً من قاعدة الكمّ صراحةً)، والخرقُ الظاهري الذي يولّد الإفهامَ التخاطبي وهو محورُ اهتمام النظرية الأساسي.
 
-## Presupposition
+## الأثر والتطوير اللاحق
 
-Presuppositions are background assumptions speakers treat as shared knowledge. "When did you stop smoking?" presupposes you smoked. If the presupposition is false, the sentence is odd, not false.
+أسّس هذا الإطارُ حقلَ التداولية المعاصر بأكمله تقريباً، وطوّره لاحقاً جيفري ليتش في قواعد التأدّب الموازية، وستيڤن ليڤنسون في المقاربة النيوغرايسية التي تختزل القواعدَ الأربع إلى مبادئ أقلَّ عدداً، وسپربر وويلسون في نظرية الملاءمة التي استبدلتها بمبدأٍ معرفي واحد.
 
-## Contemporary Applications
+## المصادر
 
-Virtual assistants must handle pragmatic requests: "Is there coffee?" might request coffee. Dialog systems track what has been established. Machine translation must preserve pragmatic force.
-
-## References
-
-- Grice, P. (1975). "Logic and conversation." In *Syntax and Semantics 3*, 41-58.
-- Austin, J. L. (1962). *How to Do Things with Words*. Oxford University Press.
+- Grice, H. P. (1975). "Logic and Conversation." In P. Cole & J. Morgan (Eds.), *Syntax and Semantics 3: Speech Acts*. Academic Press.
+- Grice, H. P. (1989). *Studies in the Way of Words*. Harvard University Press.
+- Levinson, S. C. (1983). *Pragmatics*. Cambridge University Press.
+- Leech, G. N. (1983). *Principles of Pragmatics*. Longman.
 

@@ -24,23 +24,34 @@ gaps:
 
 # نموذجُ المسارين البطنيّ والظهريّ لمعالجة اللغة
 
-## Definition
+## التعريف
 
-This concept is central to understanding language at the cognitive and neural level. How do brains process language? How does cognition shape language structure? These questions bridge linguistics and neuroscience.
+نموذجُ المسارين (Dual-Stream Model) إطارٌ معاصر لمعالجة اللغة في الدماغ، صاغه غريغوري هيكوك وديفيد پوپل في مقالتهما المرجعية "The Cortical Organization of Speech Processing" (2007)، ويستبدل الثنائيةَ التشريحية الكلاسيكية لنموذج بروكا-فيرنيكه (منطقتان محدَّدتان) بتقسيمٍ وظيفي إلى مسارين معالجة متوازيين مستعارين من نموذج الرؤية البصرية ثنائي المسار: مسارٌ بطنيٌّ (Ventral Stream) للفهم، ومسارٌ ظهريٌّ (Dorsal Stream) لربط الصوت بالحركة النطقية.
 
-## Key Principles
+## المسارُ البطني: من الصوت إلى المعنى
 
-- Language involves distributed brain networks
-- Cognitive processes are embodied (grounded in perception and action)
-- Language learning involves neural plasticity
-- Individual and group differences affect language abilities
+يعالج المسارُ البطني الإشارةَ الصوتية وصولاً إلى الفهم، عبر تحويل المدخل السمعي إلى تمثيلاتٍ معجمية ودلالية مركَّبة، ويشمل بنًى في الفص الصدغي على جانبي الدماغ. يفترض النموذجُ أن هذا المسارَ ثنائيُّ التمثيل نسبياً (لا يهيمن عليه نصفٌ كرويٌّ واحد بالكامل)، وإن وُجدت فروقٌ حسابية بين النصفين، بما يفسّر جزئياً بقاءَ فهمٍ لغويٍّ جزئي أحياناً حتى بعد أذًى في نصفٍ واحد.
 
-## Evidence
+## المسارُ الظهري: من الصوت إلى الحركة
 
-Brain imaging shows language activates networks beyond traditional language areas. Cognitive studies reveal systematic patterns in how people process and produce language. Developmental and clinical studies show how neural differences affect language.
+يربط المسارُ الظهري المدخلَ السمعي بشبكات التخطيط الحركي النطقي في الفص الجبهي، عبر منطقة وصلٍ حرجة بين الفصَّين الصدغي والجداري (Sylvian Parietal-Temporal Area - Spt)، ويهيمن عليه النصفُ الكرويُّ الأيسر بوضوح. وظيفتُه الأساسية دمجُ الإدراك السمعي بالإنتاج الحركي، وهو ما يفسّر ضرورتَه لمهامَّ كتكرار الكلام والتعلّم الصوتي الجديد أكثرَ من ضرورته للفهم الخالص.
 
-## References
+## إعادةُ تفسير المتلازمات الحُبسية
 
-- Kemmerer, D. (2012). *Psychology of Language*. Springer.
-- Friederici, A. D. (2011). "The brain basis of language processing." *Annual Review of Neuroscience*, 34.
+يعيد النموذجُ تصنيفَ الأنماط الحُبسية الكلاسيكية بمنطقٍ وظيفي: تُصنَّف حبسةُ بروكا وحبسةُ التوصيل اضطراباتٍ في المسار الظهري (خللٌ في ربط الصوت بالحركة النطقية رغم سلامة الفهم النسبية)، بينما تُصنَّف حبسةُ فيرنيكه وعمى الكلمات السمعي والحبسةُ الحسّية العابرة للقشرة اضطراباتٍ في المسار البطني (خللٌ في الوصول من الصوت إلى المعنى)، وهو تفسيرٌ وظيفي أدقّ من الربط التشريحي المباشر الذي اعتمده النموذجُ الكلاسيكي.
+
+## الأساسُ التجريبي
+
+استند النموذجُ إلى تراكم أدلّةٍ من التصوير الوظيفي بالرنين المغناطيسي وتحفيز الدماغ ودراسات الأذى، التي بيّنت أن فهمَ الكلام لا يتطلّب بالضرورة سلامةَ منطقة بروكا، وأن بعض مرضى الحُبسة الحركية يفهمون جيداً رغم عجزهم الإنتاجي الحادّ — نمطٌ يصعب تفسيرُه ضمن المخطط الاتصالي الخطّي الكلاسيكي.
+
+## الأثر
+
+صار نموذجُ المسارين الإطارَ المرجعي المهيمن في علم اللغة العصبي المعاصر، إذ يقدّم تفسيراً وظيفياً متوافقاً مع أدلّة التصوير الحديثة، ويشكّل امتداداً مباشراً لتراث بروكا-فيرنيكه-ليختهايم الكلاسيكي مع تصحيح افتراضاته التشريحية الجامدة.
+
+## المصادر
+
+- Hickok, G., & Poeppel, D. (2007). "The Cortical Organization of Speech Processing." *Nature Reviews Neuroscience*, 8(5), 393-402.
+- Hickok, G., & Poeppel, D. (2000). "Towards a Functional Neuroanatomy of Speech Perception." *Trends in Cognitive Sciences*, 4(4), 131-138.
+- Rauschecker, J. P., & Scott, S. K. (2009). "Maps and Streams in the Auditory Cortex." *Nature Neuroscience*, 12(6), 718-724.
+- Friederici, A. D. (2011). "The Brain Basis of Language Processing." *Physiological Reviews*, 91(4), 1357-1392.
 

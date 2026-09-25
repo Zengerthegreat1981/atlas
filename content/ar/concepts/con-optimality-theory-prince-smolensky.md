@@ -21,32 +21,34 @@ gaps: []
 
 # النظريةُ التفاؤلية عند برنس وسمولنسكي
 
-## Definition
+## التعريف
 
-This concept is fundamental to phonological theory. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding structure is essential for linguistics, speech technology, and language teaching.
+النظريةُ التفاؤلية (Optimality Theory - OT) إطارٌ نظري في الصواتة التوليدية، طرحه أولَ مرّة آلان برنس وپول سمولنسكي في محاضرةٍ عام 1991 ثم في مخطوطتهما المرجعية عام 1993 (نُشرت كتاباً عام 2004)، ويستبدل منطقَ القواعد الاشتقاقية المتعاقبة عند نموذج SPE الكلاسيكي (تشومسكي وهالة) بمنطقٍ مختلف جذرياً: توليدُ مجموعةٍ من المخرَجات المرشَّحة، ثم اختيارُ الأمثل بينها عبر تقييم قيودٍ عالمية قابلة للانتهاك ومرتَّبة ترتيباً هرمياً يختلف من لغةٍ لأخرى.
 
-## Theoretical Framework
+## المكوّناتُ الثلاثة: GEN وCON وEVAL
 
-Modern phonology combines insights from distinctive feature theory, autosegmental phonology, and constraint-based approaches. The framework accounts for universal patterns across all languages and language-specific variations.
+تعمل النظريةُ عبر ثلاثة مكوّنات أساسية: المولِّد (Gen)، الذي يأخذ مدخلاً لغوياً (تمثيلاً تحتياً) ويولّد قائمةً غيرَ محدودة نظرياً من المخرَجات المرشَّحة الممكنة؛ ومجموعةُ القيود (Con)، وهي مجموعةٌ عالمية من القيود المتاحة لكل لغات العالم دون استثناء؛ والمقيِّم (Eval)، الذي يختار من بين المرشَّحين المخرَجَ الأمثل (Optimal) بحسب أدائه أمام هذه القيود المرتَّبة.
 
-## Key Principles
+## القيودُ القابلة للانتهاك والترتيبُ الهرمي
 
-Phonological organization reflects both universal principles and language-specific choices. Features organize sounds into natural classes. Constraints rank differently across languages. Rules apply to well-defined structural units.
+الابتكارُ المحوري في هذه النظرية هو أن القيودَ قابلةٌ للانتهاك (Violable)، لا مطلقةً كما في القواعد الاشتقاقية الكلاسيكية، لكنها مرتَّبة هرمياً بحيث يكون انتهاكُ قيدٍ أعلى في الترتيب أسوأَ من أي عددٍ من انتهاكات قيدٍ أدنى منه رتبةً. يُعدُّ المخرَجُ الأمثل هو الذي ينتهك أقلَّ القيود ضرراً بحسب هذا الترتيب الهرمي، لا الذي لا ينتهك أيَّ قيدٍ إطلاقاً (وهو أمرٌ نادر الحدوث عملياً لأن القيود غالباً ما تتعارض فيما بينها).
 
-## Experimental Methods
+## تفسيرُ التنوّع بين اللغات
 
-Research uses perception experiments, production studies, brain imaging (fMRI, EEG), corpus analysis, and computational modeling. These methods converge on the psychological reality of phonological structure.
+تفترض النظريةُ أن مجموعةَ القيود نفسَها عالميةٌ مشتركة بين كل لغات العالم، وأن ما يميّز لغةً عن أخرى هو فقط الترتيبُ الهرمي المختلف لهذه القيود نفسِها؛ فقيدٌ يمنع انتهاءَ المقطع بصامت (مثلاً) قد يُرتَّب عالياً في لغةٍ تحظر المقاطعَ المغلَقة، بينما يُرتَّب منخفضاً في لغةٍ تسمح بها بحرّية، مما يفسّر التنوّعَ النمطي الواسع بين اللغات بأداةٍ واحدة موحَّدة دون الحاجة لافتراض قواعدَ منفصلة مختلفة جوهرياً لكل لغة.
 
-## Cross-linguistic Evidence
+## التطبيقُ الأول: الصواتة ثم ما بعدها
 
-Patterns repeat across unrelated languages, suggesting universal principles. However, substantial variation exists, showing language-specific organization.
+طُبِّقت النظريةُ أولَ الأمر على ظواهرَ صواتية كبنية المقطع، والتوافق الصوتي، وأنماط النبر، وحقّقت نجاحاً واسعاً في تفسير تفاعلاتٍ معقَّدة بين ظواهرَ متعدّدة بأداةٍ واحدة موحَّدة. طوّر جون مكارثي وآلان برنس لاحقاً نظريةَ التماثل (Correspondence Theory) ضمن هذا الإطار لتفسير العلاقة بين الأشكال الصرفية المرتبطة (كالجذر واللاحقة)، ثم امتدّ تطبيقُ النظرية لاحقاً إلى النحو والدلالة أيضاً، وإن ظلّ تأثيرُها الأعمق في حقل الصواتة.
 
-## Contemporary Applications
+## الأثر
 
-Speech technology, language teaching, clinical phonology, and language documentation all rely on phonological frameworks.
+أحدثت النظريةُ التفاؤلية تحوّلاً نموذجياً في الصواتة التوليدية، منتقلةً من منطق "القاعدة الاشتقاقية المتعاقبة" إلى منطق "التقييم التنافسي المتوازي"، وصارت الإطارَ المهيمن في الصواتة النظرية لعقودٍ منذ التسعينيات، وأثّرت اكتسابَ اللغة أيضاً بوصف تعلّم اللغة الأمّ عملية إعادة ترتيب تدريجي لقيودٍ عالمية فطرية بدل تعلّم قواعدَ من الصفر.
 
-## References
+## المصادر
 
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
+- Prince, A., & Smolensky, P. (1993/2004). *Optimality Theory: Constraint Interaction in Generative Grammar*. Blackwell.
+- McCarthy, J. J., & Prince, A. (1995). "Faithfulness and Reduplicative Identity." In *University of Massachusetts Occasional Papers in Linguistics 18*.
 - Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- McCarthy, J. J. (2002). *A Thematic Guide to Optimality Theory*. Cambridge University Press.
 

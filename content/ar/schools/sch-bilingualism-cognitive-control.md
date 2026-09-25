@@ -43,28 +43,33 @@ gaps:
 
 # ثنائيةُ اللغة والدماغ
 
-## Definition
+حقلُ بحثٍ في تقاطع علم اللغة النفسي وعلم النفس المعرفي، يدرس كيف تؤثّر إدارة لغتين نشطتين في آنٍ واحد على وظائف الدماغ التنفيذية العامة (كالتثبيط والتبديل بين المهام والذاكرة العاملة)، لا على اللغة وحدها. نشأ هذا التوجّه البحثي بصورةٍ منهجية في كندا والولايات المتحدة اعتباراً من أواخر الثمانينيات، وارتبط بأسماء مثل إلين بياليستوك وديفيد غرين، ليصبح أحد أنشط ميادين البحث في اللسانيات المعرفية منذ التسعينيات.
 
-Bilingualism is competence in two languages. Bilinguals manage two language systems, switching between them and sometimes mixing them. Bilingual cognition differs from monolingual cognition in systematic ways.
+## الفرضية المركزية: التنشيط المزدوج
 
-## Language Representation
+تنطلق هذه المدرسة من ملاحظةٍ تجريبية راسخة: أن لغتَي ثنائي اللغة تظلّان نشطتين معاً في الدماغ حتى عند استخدام واحدةٍ منهما فقط، بحيث تتنافس مفردات اللغة غير المستهدَفة على التفعيل وتتداخل معها، مما يفرض على الدماغ آلية اختيارٍ وتثبيطٍ مستمرة لتفادي التداخل. هذه الحاجة الدائمة إلى الانتقاء والتحكم، بحسب الفرضية، تدرّب الجهاز التنفيذي العام للدماغ وتقوّي أداءه حتى خارج السياق اللغوي.
 
-Bilinguals have separate phonological and syntactic systems for each language. Semantic representation may be shared or separate depending on language similarity and individual differences. Lexical access involves both languages; non-target language words can interfere.
+## نموذج التحكّم الكابح عند غرين
 
-## Code-switching
+صاغ **ديفيد غرين** سنة 1998 «نموذج التحكم الكابح» (Inhibitory Control Model)، الذي يفترض أن نظاماً إشرافياً عاماً ينظّم «مخططات المهمة» (Task Schemas) المرتبطة بكل لغة، فيكبح مخطط اللغة غير المستخدَمة أثناء الإنتاج أو الفهم باللغة الأخرى. وقد وسّع غرين ويوسف أبوطالبي لاحقاً هذا الإطار في «فرضية التحكم التكيّفي» (Adaptive Control Hypothesis)، التي تربط أنماط سياقات التخاطب الثنائي اللغة المختلفة (كالتبديل المفاجئ أو المخطط له) بأنماط مختلفة من الطلب على التحكم التنفيذي.
 
-Bilinguals strategically mix languages following systematic rules. They don't randomly mix; grammatical structure constrains mixing. Code-switching requires maintaining separation between systems while accessing both simultaneously.
+## «ميزة ثنائية اللغة» وأزمة التكرار
 
-## Cognitive Effects
+روّجت أبحاث بياليستوك المبكرة لفكرة «الميزة المعرفية الثنائية اللغوية» (Bilingual Advantage)، القائلة بأن الممارسة المستمرة لإدارة لغتين تمنح ثنائيي اللغة تفوقاً قابلاً للقياس في مهام التحكم التنفيذي، بل وتأخيراً في ظهور أعراض الخرف عند كبار السن (بوصفه «احتياطاً معرفياً» Cognitive Reserve). غير أن هذه النتائج واجهت منذ العقد الثاني من الألفية الثانية أزمة تكرارٍ حادة، إذ فشلت دراساتٌ عديدة، من بينها أعمال أنجيلا دي بروين وآخرين، في إعادة إنتاج الأثر بأحجام العينات نفسها أو بضوابط منهجية أدقّ (كضبط الوضع الاجتماعي الاقتصادي)، مما فتح نقاشاً منهجياً واسعاً حول حجم الأثر الحقيقي وشروط ظهوره.
 
-Bilinguals show executive control advantages: better inhibition and task-switching. Bilingual exposure delays some vocabulary growth initially but supports metalinguistic awareness. Long-term bilingualism supports cognitive reserve against aging.
+## نماذج التمثيل المعجمي المرتبطة
 
-## Neural Organization
+ارتبط هذا الحقل بنماذج تفسّر كيف تُدار اللغتان في الذاكرة المعجمية، أبرزها «النموذج الهرمي المنقَّح» عند جوديث كرول وأنيت ستيوارت، الذي يصف تطوّر الربط بين مفردات اللغة الثانية ومفاهيمها مع تنامي الكفاءة، و«نموذج التفعيل التفاعلي الثنائي اللغة الموسَّع» (BIA+) عند تون دايكسترا وﭬالتر ﭬان هويﭬن، الذي يصف كيف تتنافس كلمات اللغتين على التعرّف أثناء القراءة والاستماع.
 
-Brain imaging shows bilinguals use overlapping regions for both languages. Language switching activates left prefrontal cortex (executive control). Proficiency and age of acquisition affect neural organization.
+## العوامل المعدِّلة
 
-## References
+يؤكد الباحثون أن أثر الثنائية اللغوية على التحكم التنفيذي ليس موحّداً، بل يتفاوت بحسب عمر اكتساب اللغة الثانية، ودرجة الكفاءة فيها، وتواتر التبديل بين اللغتين، وسياقه الاجتماعي (كما يبيّن مبدأ التكامل عند فرانسوا غروجان، الذي يصف كيف يتموضع ثنائيو اللغة على طيفٍ بين «النمط الأحادي اللغة» و«النمط الثنائي اللغة» بحسب المحاور).
 
-- Kroll, J. F., & Tokowicz, N. (2005). "Models of bilingual representation." *Handbook of Bilingualism*, 531-553.
-- Bialystok, E. (2017). "The bilingual adaptation." *Current Directions in Psychological Science*, 26(3), 233-237.
+## المصادر
+
+- Green, David W. "Mental Control of the Bilingual Lexico-Semantic System." *Bilingualism: Language and Cognition*, 1(2), 1998.
+- Bialystok, Ellen. "The Bilingual Adaptation: How Minds Accommodate Experience." *Psychological Bulletin*, 143(3), 2017.
+- Abutalebi, Jubin, & Green, David W. "Control Mechanisms in Bilingual Language Production." *Journal of Cognitive Psychology*, 25(5), 2013.
+- de Bruin, Angela, Treccani, Barbara, & Della Sala, Sergio. "Cognitive Advantage in Bilingualism: An Example of Publication Bias?" *Psychological Science*, 26(1), 2015.
+- Kroll, Judith F., & Stewart, Erika. "Category Interference in Translation and Picture Naming." *Journal of Memory and Language*, 33(2), 1994.
 

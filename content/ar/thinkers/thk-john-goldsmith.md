@@ -26,58 +26,23 @@ gaps:
 
 # جون غولدسميث
 
-## Definition and Overview
+لغويٌّ أمريكي، أستاذٌ في جامعة شيكاغو، أحدث تحوّلاً جوهرياً في نظرية الصواتة التوليدية بأطروحته للدكتوراه في معهد ماساتشوستس للتقنية سنة 1976، التي قدّم فيها إطار «الصواتة متعددة الطبقات» (Autosegmental Phonology).
 
-This concept is fundamental to phonological theory and analysis. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding phonological structure is essential for linguistics, speech technology, and language teaching.
+## نقد النموذج الخطي لـ SPE
 
-## Theoretical Framework
+انطلق غولدسميث من رصد قصورٍ جوهري في نموذج تشومسكي وهالة الخطي (SPE، 1968)، الذي يمثّل الكلمة سلسلةً خطية واحدة من الشرائح الصوتية، كلُّ شريحةٍ تحمل حزمةً كاملةً من السمات المميِّزة معاً. أظهرت دراسته للغاتٍ نغمية (كلغات غرب أفريقيا) أن النغمة (Tone) غالباً ما تسلك سلوكاً مستقلاً عن باقي السمات القطاعية: فقد تنتشر النغمة عبر عدة مقاطع، أو تبقى «عائمة» (Floating) بلا شريحةٍ صوتية ثابتة تحملها، أو تنفصل تماماً عن الوحدة الصرفية التي نشأت معها أصلاً — وهي ظواهر يصعب تمثيلها بصورةٍ طبيعية ضمن سلسلةٍ خطية واحدة.
 
-The theoretical analysis of this concept reveals multiple layers of phonological organization. Modern phonology combines insights from distinctive feature theory, autosegmental framework, and optimality theory to create unified explanations. The framework accounts for both universal patterns found across all languages and language-specific variations.
+## الصواتة متعددة الطبقات
 
-## Key Mechanisms
+اقترح غولدسميث بدلاً من ذلك تمثيل التمثيل الصوتي في **طبقاتٍ متوازية مستقلة** (Autosegmental Tiers)، كطبقة النغمة وطبقة القطاعات الساكنة والصائتة، مرتبطة فيما بينها بخطوط ربطٍ (Association Lines) تحكمها قواعد نمطية (كمبدأ عدم تقاطع الخطوط)، بحيث يمكن لعنصرٍ واحد في طبقة (كنغمةٍ مرتفعة) أن يرتبط بعدة عناصر في طبقةٍ أخرى، أو العكس. أتاح هذا الابتكار تفسيراً أنيقاً لظواهر معقدة كالانتشار النغمي والتعويض الصوتي، وأصبح لاحقاً الأساس الذي بُنيت عليه «هندسة السمات» (Feature Geometry) عند جورج كليمنتس، التي وسّعت المنطق نفسه ليشمل كل السمات المميِّزة لا النغمة وحدها.
 
-The mechanisms underlying phonological processes involve:
-- Feature spreading and alignment
-- Constraint interaction and ranking
-- Syllable structure effects
-- Prosodic domain interactions
+## اهتماماتٌ لاحقة: اللسانيات الحاسوبية وتاريخ الحقل
 
-These mechanisms work together to create the rich phonological patterns we observe across the world's languages.
+وسّع غولدسميث اهتماماته لاحقاً نحو اللسانيات الحاسوبية، خصوصاً تعلّم الصرف آلياً من مدوّناتٍ غير موسومة (Unsupervised Morphology Learning)، كما كتب أعمالاً في تاريخ الفكر اللساني الأمريكي في القرن العشرين، ساهم فيها بنقدٍ لبعض السرديات السائدة حول تطور البنيوية الأمريكية قبل الثورة التشومسكية.
 
-## Experimental Evidence
+## المصادر
 
-Research in phonolinguistics uses multiple methods to test phonological theories:
-- Behavioral experiments measuring perception and production
-- Brain imaging (fMRI, EEG) showing neural correlates
-- Corpus analysis revealing frequency patterns
-- Longitudinal studies of language development
-- Computational modeling testing theoretical predictions
-
-Studies consistently show that phonological structure affects speech processing, revealing the psychological reality of phonological units.
-
-## Cross-Linguistic Applications
-
-The principles of this concept apply across diverse languages:
-- Tonal languages (Mandarin, Yoruba, Hausa)
-- Consonant-rich languages (Georgian, Xhosa)
-- Consonant-poor languages (Hawaiian, Rotuman)
-- Languages with complex prosodic systems (Japanese, Korean)
-
-Understanding these universal principles while respecting language-specific variation is central to modern phonology.
-
-## Contemporary Research Directions
-
-Current research explores:
-- Neural substrates of phonological processing
-- Computational learning of phonological systems
-- Language change through phonological mechanisms
-- Bilingual phonological organization
-- Development of phonological systems
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century: Theories of Rules and Theories of Representations*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
-- Ladefoged, P., & Maddieson, I. (1996). *The Sounds of the World's Languages*. Blackwell.
-- Pierrehumbert, J. B., & Beckman, M. E. (2000). "Japanese tone structure." *A Handbook of the IPA*, 368-400. Cambridge University Press.
-- Haspelmath, M. (2013). "Occurrence of nominal plurality." In M. Haspelmath et al., *World Atlas of Language Structures Online*. Max Planck Digital Library.
+- Goldsmith, John A. *Autosegmental Phonology*. PhD dissertation, MIT, 1976 (published Garland, 1979).
+- Goldsmith, John A. "Autosegmental Phonology." In *The Handbook of Phonological Theory*, 1st ed. Blackwell, 1995.
+- Goldsmith, John A. (ed.). *The Handbook of Phonological Theory*. Blackwell, 1995.
+- Goldsmith, John A., & Riggle, Jason (eds.). *The Handbook of Phonological Theory*, 2nd ed. Wiley-Blackwell, 2011.

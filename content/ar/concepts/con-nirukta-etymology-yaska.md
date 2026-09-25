@@ -20,31 +20,34 @@ gaps: []
 
 # النيروكتا: علمُ الاشتقاق الدلاليُّ عند ياسكا
 
-## Definition
+## التعريف
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+النيروكتا (Nirukta) أحدُ الفيدانغا الستة (Vedāṅgas)، أي العلوم المساعِدة الستة لدراسة الفيدا في التقليد الهندي القديم، وتعني كلمةُ "نيروكتا" حرفياً "الاشتقاق" أو "ما فُسِّر". ألّف هذا العلمَ في صيغته المنهجية الأولى ياسكا، الذي يُرجَّح أنه عاش بين القرنين السابع والخامس قبل الميلاد، أي قبل بانيني، ويُعدُّ أقدمَ من كتب في علم الاشتقاق والدلالة بوصفه علماً مستقلاً منهجياً في التاريخ المعروف.
 
-## Theoretical Framework
+## الدافعُ: صعوبةُ فهم المفردات الفيدية الغامضة
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+نشأ هذا العلمُ استجابةً لمشكلةٍ عملية ملحّة: كثيرٌ من المفردات الواردة في التراتيل الفيدية القديمة صارت غامضةً أو مبهَمةَ المعنى بحلول عصر ياسكا بسبب قِدَمِها وتطوّر اللغة، فألّف ياسكا كتابَ النيغهنتو (Nighaṇṭu)، وهو قائمةٌ مجمَّعة من الكلمات الفيدية الصعبة أو المتعدّدة المعاني، ثم ألّف النيروكتا شرحاً منهجياً يفسّر أصلَ هذه الكلمات ومعناها عبر ربطها باشتقاقاتها الجذرية والأفعال المرتبطة بها دلالياً.
 
-## Key Principles
+## المبدأُ المنهجي: كل اسمٍ مشتقٌّ من فعل
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+المبدأُ النظري المحوري عند ياسكا هو أن كل اسمٍ (Nāman) في اللغة مشتقٌّ في الأصل من فعلٍ (Ākhyāta)، أي أن الأسماء تحمل دلالتها من الأفعال أو الأفعال المرتبطة بها اشتقاقياً، لا من دلالةٍ اعتباطية مستقلّة. بهذا المبدأ، سعى ياسكا إلى تفسير معنى كل كلمةٍ غامضة بردِّها إلى جذرٍ فعلي يوضّح الفعلَ أو الحالةَ التي اشتُقّت منها التسميةُ أصلاً، حتى حين يبدو الاشتقاقُ بعيداً أو غيرَ ظاهرٍ سطحياً.
 
-## Evidence Sources
+## تصنيفُ أقسام الكلام
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+أسهم ياسكا أيضاً في تصنيفٍ مبكّر لأقسام الكلام في السنسكريتية إلى أربعة أصناف رئيسية: الاسمُ (Nāman)، والفعلُ (Ākhyāta)، وحرفُ الجرّ أو الأداة (Upasarga)، وأداةُ الربط (Nipāta)، وهو تصنيفٌ أثّر لاحقاً في تصنيفات بانيني النحوية الأكثر تفصيلاً وصرامة صورية.
 
-## Contemporary Applications
+## قواعدُ التأويل السياقي
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+قدّم ياسكا أيضاً قواعدَ منهجية لتأويل الكلمات الغامضة داخل سياقها النصّي الفعلي، مؤكّداً أن المعنى الدقيق لكلمةٍ متعدّدة الدلالات لا يُحسَم إلا بالرجوع إلى السياق الذي وردت فيه، وهو مبدأٌ منهجي سابقٌ لمبادئَ مشابهة ظهرت لاحقاً في تقاليد تفسيرية ولغوية أخرى حول العالم.
 
-## References
+## الأثر
 
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+أرسى ياسكا بعمله هذا أساسَ علم الاشتقاق والدلالة المنهجي في التقليد الهندي، ومهّد الطريقَ لنحو بانيني الصوري الأكثر تجريداً وصرامة، وبقيت النيروكتا مرجعاً أساسياً لدراسة النصوص الفيدية القديمة حتى اليوم، وتُدرَّس ضمن التقليد السنسكريتي التقليدي جنباً إلى جنب مع علوم الفيدانغا الأخرى.
+
+## المصادر
+
+- Sarup, L. (1920-1927). *The Nighaṇṭu and the Nirukta* (translation and critical edition). Oxford University Press.
+- Kahrs, E. (1998). *Indian Semantic Analysis: The Nirvacana Tradition*. Cambridge University Press.
+- Bronkhorst, J. (2001). "The Nirukta and the Origin of Linguistic Speculation in India." In *Studies in the History of the Sciences*.
+- Cardona, G. (1990). "On the Nirukta and the Origins of Indian Semantic Theory." *Journal of the American Oriental Society*.
 

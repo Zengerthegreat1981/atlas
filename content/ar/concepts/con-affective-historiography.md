@@ -17,23 +17,5 @@ gaps: []
 
 # التاريخ العاطفي (Affective Historiography)
 
-## Affective Historiography
 
-Historical approach examining emotions, sensations, and moods as historically significant; studies affective experience.
-
-### Key Aspects
-
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
-
-### Related Fields
-
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+منهج تاريخي يبحث في العواطف والأحاسيس والمزاج بوصفها ذات دلالة تاريخية؛ يدرس التجربة العاطفية.

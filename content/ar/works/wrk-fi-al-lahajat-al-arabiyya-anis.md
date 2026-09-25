@@ -25,23 +25,27 @@ gaps: []
 
 # في اللهجات العربية
 
-## Definition
+كتابٌ مرجعيّ للغويّ المصري **إبراهيم أنيس** (1906-1977)، أحد روّاد الدراسات اللغوية العربية الحديثة، نُشر أول مرة سنة 1952، ويُعدّ من أوائل المحاولات العربية المنهجية لدراسة اللهجات العربية القديمة والحديثة بأدواتٍ لسانية علمية حديثة، بدل الاكتفاء بجمعها الوصفي التقليدي كما كان شائعاً في التراث النحوي الكلاسيكي.
 
-This concept concerns language variation across social contexts and communities. Sociolinguistics asks: How do social factors shape language? How does language reflect and create social structure?
+## تعريف اللهجة ونشأتها
 
-## Key Principles
+يفتتح أنيس كتابه بمسألةٍ منهجية أساسية: تعريف مفهوم «اللهجة» (Dialect) نفسه وتمييزه عن «اللغة»، وكيف تنشأ اللهجات وتتمايز عن بعضها ضمن اللغة الواحدة بفعل عوامل جغرافية واجتماعية وتاريخية، مستعيناً بأطر اللسانيات الغربية الحديثة (كعلم اللهجات Dialectology) مطبَّقة على مادةٍ عربية تراثية.
 
-- Language variation is systematic and patterned
-- Variation correlates with social variables (class, gender, age, region)
-- Speakers have variable competence—multiple forms in their system
-- Language change proceeds through communities gradually
+## اللهجات العربية قبل الإسلام وبعده
 
-## Evidence
+يخصّص الكتاب فصولاً لدراسة اللغة العربية ولهجاتها في العصر الجاهلي وصدر الإسلام، معتمداً على مصادر التراث اللغوي العربي (كطبقات النحاة ومعاجم اللغة) وعلى القراءات القرآنية المتعددة بوصفها مصدراً غنياً لرصد الفروق اللهجية القديمة بين قبائل العرب، إذ تحفظ كتب القراءات اختلافاتٍ صوتية وصرفية ونحوية توثّق تنوّع اللهجات العربية قبل هيمنة الفصحى المعيارية الموحَّدة.
 
-Decades of sociolinguistic research show systematic relationships between linguistic forms and social factors. Language marks identity and social position. Community studies reveal variation within single communities.
+## السمات الصوتية والصرفية والدلالية
 
-## References
+يحلّل أنيس بالتفصيل السمات الصوتية المميِّزة للهجات القبائل العربية القديمة (كظاهرة «الكشكشة» و«العنعنة» وغيرها من الظواهر المسجَّلة في المصادر التراثية)، ويخصّص فصولاً لدراسة الترادف والاشتراك اللفظي والتضاد في اللهجات، رابطاً هذه الظواهر المعجمية بتنوّع القبائل ومناطقها الجغرافية المختلفة.
 
-- Labov, W. (2001). *Principles of Linguistic Change* (Vol. 2). Blackwell.
-- Milroy, L., & Gordon, M. J. (2003). *Sociolinguistics*. Blackwell.
+## المنهج والأثر
+
+يمثّل هذا الكتاب، إلى جانب كتاب أنيس الآخر *الأصوات اللغوية*، نقلةً منهجية في الدراسات اللغوية العربية في منتصف القرن العشرين: تطبيق أدوات الصوتيات واللسانيات التاريخية المقارنة الحديثة (التي تلقّى أنيس تكويناً فيها خلال دراسته بجامعة لندن) على مادةٍ عربية تراثية غنية لم تُدرَس من قبل بهذه الأدوات بصورةٍ منهجية، مما جعله مرجعاً أساسياً في مناهج الدراسات اللغوية العربية الجامعية حتى اليوم.
+
+## المصادر
+
+- أنيس، إبراهيم. *في اللهجات العربية*. مكتبة الأنجلو المصرية، القاهرة، 1952.
+- أنيس، إبراهيم. *الأصوات اللغوية*. مكتبة الأنجلو المصرية، القاهرة، 1947.
+- Versteegh, Kees. *The Arabic Language*. Edinburgh University Press, 1997.
 

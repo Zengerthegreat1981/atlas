@@ -24,31 +24,27 @@ gaps: []
 
 # الدلالةُ البنيوية (Sémantique Structurale)
 
-## Definition
+الكتابُ المؤسِّس للسيميائية الفرنسية الغريماسية، ألّفه اللغوي **ألجيرداس غريماس** ونشره سنة 1966، وقدّم فيه أول محاولةٍ منهجية شاملة لبناء نظريةٍ بنيوية صورية للمعنى تتجاوز تحليل الكلمة أو الجملة المفردة إلى تحليل بنية الخطاب والسرد بكامله، مستنداً إلى أدوات البنيوية السوسيرية ونظرية التقابلات الصوتية عند رومان ياكوبسون، مطبَّقةً هذه المرة على الدلالة لا الصوت.
 
-This concept concerns how meaning operates in language and communication. Semantics and pragmatics together explain how people extract meaning from utterances in context.
+## البنية الأولية للمعنى
 
-## Theoretical Framework
+يطرح غريماس في الكتاب فرضيته المركزية: أن المعنى، أيّاً كان مستواه، لا يُدرَك إلا عبر التقابل بين وحداتٍ دلالية صغرى أسماها «السيمات» (Sèmes)، على غرار السمات المميِّزة في الصواتة البنيوية. من هذه العلاقات التقابلية البسيطة تنشأ «البنية الأولية للمعنى» (Structure Élémentaire de la Signification)، التي طوّرها غريماس لاحقاً في هذا الكتاب نفسه إلى أداته الأشهر: **المربّع السيميائي** (Carré Sémiotique)، المستمَدّ من مربّع التقابل الأرسطي، الذي يصوغ العلاقات المنطقية الأربع الممكنة بين حدٍّ ونقيضه ومتناقضه ومتضمَّنه.
 
-Meaning operates at multiple levels: lexical (word meaning), compositional (how meanings combine), discourse (how utterances cohere), and interactive (how speaker and listener coordinate).
+## الحقل الدلالي والإيزوتوپيا
 
-## Key Principles
+يطبّق غريماس في الكتاب أدواته على تحليل الحقول الدلالية المعجمية، ويقدّم مفهوم **الإيزوتوپيا** (Isotopy)، أي تكرار سيماتٍ دلالية معينة عبر النص الواحد بما يضمن اتساقه الدلالي ويتيح تأويله تأويلاً موحَّداً متماسكاً، وهو مفهومٌ أصبح لاحقاً أداةً تحليلية أساسية في السيميائية السردية والنقد الأدبي البنيوي.
 
-- Meaning is systematic: Similar utterances have related meanings
-- Meaning is compositional: Sentence meaning derives from parts
-- Meaning is context-dependent: Context affects interpretation
-- Meaning is negotiated: Speaker and listener collaborate on interpretation
+## بذور النموذج العاملي
 
-## Evidence Sources
+يحمل الكتاب أيضاً البذرة الأولى للنموذج العاملي للسرد (Modèle Actantiel)، الذي طوّره غريماس لاحقاً بتفصيلٍ أكبر استناداً إلى تنقيح تصنيف ﭬلاديمير بروب للوظائف السردية في الحكاية الشعبية الروسية، مختزلاً إياها إلى بنيةٍ من ست وظائف عاملية أكثر تجريداً وقابلية للتعميم على أي نوعٍ من الخطاب السردي، لا الحكاية الشعبية وحدها.
 
-Linguistic universals suggest principles of meaning organization. Cross-linguistic variation shows language-specific choices within universal constraints. Psycholinguistic studies reveal how meaning is processed.
+## الأثر التأسيسي
 
-## Contemporary Applications
+أرسى هذا الكتاب الأساس النظري لما عُرف لاحقاً بـ«مدرسة باريس للسيميائية» (Paris School of Semiotics)، التي طوّرها غريماس مع تلامذته كجوزيف كورتيس وجاك فونتانيّ عبر عقودٍ لاحقة نحو السيميائية السردية والموجِّهية والحسّية، محافظين على المنهجية البنيوية الصارمة التي وضعها هذا العمل التأسيسي الأول، الذي ظلّ المرجعية الأولى التي يُقاس عليها أي تطويرٍ لاحق في هذا التيار.
 
-Speech technology requires semantic and pragmatic analysis. Machine translation must handle meaning at multiple levels. Dialog systems must understand speaker intent.
+## المصادر
 
-## References
-
-- Lyons, J. (1977). *Semantics*. Cambridge University Press.
-- Levinson, S. C. (2000). *Presumptive Meanings*. MIT Press.
+- Greimas, Algirdas J. *Sémantique Structurale: Recherche de Méthode*. Larousse, 1966 (ترجمة إنجليزية: *Structural Semantics: An Attempt at a Method*، University of Nebraska Press، 1983).
+- Greimas, Algirdas J., & Courtés, Joseph. *Sémiotique: Dictionnaire raisonné de la théorie du langage*. Hachette, 1979.
+- Schleifer, Ronald. *A. J. Greimas and the Nature of Meaning*. Croom Helm, 1987.
 

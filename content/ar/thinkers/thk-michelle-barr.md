@@ -18,23 +18,17 @@ gaps: []
 
 # ميشيل بار (Michelle Barr)
 
-## Michelle Barr
+## ميشيل بار
 
-Historian of ethics; works on archival justice and decolonial historiographical practice.
+مؤرِّخة الأخلاقيات؛ تعمل على العدالة الأرشيفية والممارسة التأريخية التحرّرية من الاستعمار.
 
-### Key Aspects
+### أهم الجوانب
 
-This node represents part of Section 20: Cross-Cutting Frameworks & Synthesis in historiography.
+تمثِّل هذه العقدةُ جزءاً من القسم 20: الأطر العابرة للتخصصات والتوليف، في مبحث التأريخ.
 
-### Related Fields
+### حقول ذات صلة
 
-- Historiographical theory and practice
-- Historiographical ethics and reflexivity
-- Regional and comparative historiography
-- Emerging historiographical fields
-
-### See Also
-
-- Related historiographical concepts and schools
-- Contemporary historical scholarship
-
+- نظرية التأريخ وممارسته
+- أخلاقيات التأريخ والتأمل الذاتي
+- التأريخ الإقليمي والمقارن
+- حقول التأريخ الناشئة

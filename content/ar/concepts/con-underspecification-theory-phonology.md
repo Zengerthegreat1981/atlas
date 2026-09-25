@@ -22,32 +22,28 @@ gaps: []
 
 # نظريةُ التحديد الناقص في الصواتة
 
-## Definition
+نظريةٌ في الصواتة التوليدية تقول بأن التمثيل الصوتي الكامن (Underlying Representation) للفونيمات لا يحتاج أن يحمل قيماً محدَّدةً لكل السمات المميّزة (Distinctive Features)، بل يكفي أن تُحدَّد فيه السمات التقابلية (الفارقة) وحدها، بينما تُترك السمات القابلة للتنبؤ بها بقواعد فونولوجية أو بمبادئ افتراضية (Default Rules) غير مُحدَّدةٍ أصلاً، لتُملأ لاحقاً عبر الاشتقاق. تنطلق النظرية من فرضيةٍ اقتصادية: أن التمثيل المعجمي ينبغي ألّا يكرّر معلوماتٍ يمكن اشتقاقها آلياً من النظام الصوتي للغة.
 
-This concept is fundamental to phonological theory. Phonology studies sound systems—which sounds languages use, how they combine, how they change. Understanding structure is essential for linguistics, speech technology, and language teaching.
+## المبدأ الأساسي
 
-## Theoretical Framework
+المثال الكلاسيكي هو سمة الشفيف (Aspiration) في الإنجليزية: لا يوجد تقابلٌ معجمي بين الوقفة المشفوفة وغير المشفوفة (كما في [pʰ] بداية pin مقابل [p] بعد s في spin)، إذ تحكمها قاعدةٌ سياقية تامة التنبؤ. تفترض نظرية التحديد الناقص أن سمة الشفيف غير محدَّدةٍ أصلاً في التمثيل الكامن لفونيم /p/، وأن قاعدةً لاحقة (بعد المعجمية) هي التي تُدخل قيمة هذه السمة حسب الموقع الصوتي. بهذا يُختزل التمثيل الكامن إلى الحدّ الأدنى الضروري من المعلومات التمييزية.
 
-Modern phonology combines insights from distinctive feature theory, autosegmental phonology, and constraint-based approaches. The framework accounts for universal patterns across all languages and language-specific variations.
+## التحديد الناقص القابل للتغير والجذري
 
-## Key Principles
+ميّز الباحثون بين نمطين رئيسين: **التحديد الناقص القابل للتغير** (Contrastive Underspecification)، الذي يترك غير محدَّدةً السمةَ التي تُشتقّ قيمتها بقاعدةٍ افتراضية عامة تسري على أغلب الحالات (كسمة الجهر [-voice] بوصفها القيمة الافتراضية في لغاتٍ كثيرة)؛ و**التحديد الناقص الجذري** (Radical Underspecification)، الذي طوّره ديانا أركانجلي وآخرون، ويذهب إلى أن قيمةً واحدة فقط من كل سمةٍ ثنائية (كـ[+صوتي] دون [-صوتي]) تُحدَّد كامنةً في اللغة كلها، وتُشتقّ القيمة المقابلة عالمياً بقاعدةٍ افتراضية شاملة لا تراعي خصوصية الفونيم.
 
-Phonological organization reflects both universal principles and language-specific choices. Features organize sounds into natural classes. Constraints rank differently across languages. Rules apply to well-defined structural units.
+## الحجج الداعمة والانتقادات
 
-## Experimental Methods
+استند مؤيدو النظرية، كدونكا ستيرياد وموريس هال وجون ماكارثي، إلى أدلةٍ من «شفافية» بعض السمات في قواعد انتشار الملامح (Feature Spreading) وعمليات الاستيعاب (Assimilation)، حيث تتصرف بعض الأصوات كأنها لا تحمل قيمةً لسمةٍ معينة فتسمح بانتشار سمة الجوار عبرها بحرية. غير أن التحديد الناقص الجذري بالذات واجه انتقاداتٍ منهجية حادة، أبرزها من جون ماكارثي وأرملينكا ستيرياد أنفسهم في مراحل لاحقة، إذ إن اختيار أيّ قيمةٍ تُترك محدَّدةً وأيّها تُشتقّ افتراضياً كثيراً ما بدا اعتباطياً أو مصمَّماً خصيصاً (Ad Hoc) لتوليد النتيجة المرغوبة، مما أضعف القوة التفسيرية للنظرية.
 
-Research uses perception experiments, production studies, brain imaging (fMRI, EEG), corpus analysis, and computational modeling. These methods converge on the psychological reality of phonological structure.
+## علاقتها بهندسة السمات ونظرية الأمثلية
 
-## Cross-linguistic Evidence
+تفاعلت نظرية التحديد الناقص مع «هندسة السمات» (Feature Geometry) التي طوّرها جورج كليمنتس، إذ يمكن أن يعكس غياب عقدةٍ كاملة من شجرة السمات (لا سمةٍ مفردة فقط) تحديداً ناقصاً بنيوياً. ومع ظهور نظرية الأمثلية (Optimality Theory) في التسعينيات، تراجع الاعتماد المباشر على قواعد ملء القيم الافتراضية التتابعية، إذ أصبح بالإمكان معالجة كثيرٍ من آثار التحديد الناقص عبر تفاعل القيود المرتَّبة (Constraint Ranking) دون افتراض تمثيلٍ كامنٍ ناقصٍ صريح، وإن ظلّ مفهوم التحديد الناقص حاضراً في نقاشات التمثيل المعجمي حتى اليوم.
 
-Patterns repeat across unrelated languages, suggesting universal principles. However, substantial variation exists, showing language-specific organization.
+## المصادر
 
-## Contemporary Applications
-
-Speech technology, language teaching, clinical phonology, and language documentation all rely on phonological frameworks.
-
-## References
-
-- Anderson, S. R. (1985). *Phonology in the Twentieth Century*. University of Chicago Press.
-- Kager, R. (1999). *Optimality Theory*. Cambridge University Press.
+- Archangeli, Diana. "Aspects of Underspecification Theory." *Phonology*, 5(2), 1988.
+- Steriade, Donca. "Underspecification and Markedness." In *The Handbook of Phonological Theory*, ed. John Goldsmith. Blackwell, 1995.
+- Kiparsky, Paul. "Lexical Morphology and Phonology." In *Linguistics in the Morning Calm*, ed. I.-S. Yang. Hanshin, 1982.
+- Mohanan, K. P. *The Theory of Lexical Phonology*. D. Reidel, 1986.
 
