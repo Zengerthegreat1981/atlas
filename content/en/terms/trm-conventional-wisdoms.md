@@ -1,6 +1,6 @@
 ---
 slug: "trm-conventional-wisdoms"
-id: "TRM-ENG-37655"
+id: "TRM-ENG-66713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conventional wisdoms"

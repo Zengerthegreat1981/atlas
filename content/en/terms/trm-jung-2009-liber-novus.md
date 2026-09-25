@@ -1,6 +1,6 @@
 ---
 slug: "trm-jung-2009-liber-novus"
-id: "TRM-ENG-36984"
+id: "TRM-ENG-66042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jung, (2009). Liber Novus"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-dependence-may-include-tolerance"
-id: "TRM-ENG-36773"
+id: "TRM-ENG-65831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of dependence may include tolerance"

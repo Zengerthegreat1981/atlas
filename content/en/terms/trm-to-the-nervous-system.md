@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-the-nervous-system"
-id: "TRM-ENG-35096"
+id: "TRM-ENG-64154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to the nervous system"

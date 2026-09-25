@@ -1,6 +1,6 @@
 ---
 slug: "trm-university-of-pennsylvania-1"
-id: "TRM-ENG-51136"
+id: "TRM-ENG-65665"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "University of Pennsylvania, 1"

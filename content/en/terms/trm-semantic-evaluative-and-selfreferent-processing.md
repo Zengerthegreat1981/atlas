@@ -1,6 +1,6 @@
 ---
 slug: "trm-semantic-evaluative-and-selfreferent-processing"
-id: "TRM-ENG-35557"
+id: "TRM-ENG-64615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Semantic, evaluative, and self-referent processing"

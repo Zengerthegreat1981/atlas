@@ -1,6 +1,6 @@
 ---
 slug: "trm-out-a-concept-is-liked-universally"
-id: "TRM-ENG-45981"
+id: "TRM-ENG-60510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "out a concept, is liked universally”"

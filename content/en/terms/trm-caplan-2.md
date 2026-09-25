@@ -1,6 +1,6 @@
 ---
 slug: "trm-caplan-2"
-id: "TRM-ENG-37384"
+id: "TRM-ENG-51913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Caplan), 2"

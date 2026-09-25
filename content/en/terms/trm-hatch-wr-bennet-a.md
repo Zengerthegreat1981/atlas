@@ -1,6 +1,6 @@
 ---
 slug: "trm-hatch-wr-bennet-a"
-id: "TRM-ENG-40939"
+id: "TRM-ENG-55468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hatch WR, Bennet A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethical-value-of-personal-autonomy"
-id: "TRM-ENG-40094"
+id: "TRM-ENG-54623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethical value of personal autonomy"

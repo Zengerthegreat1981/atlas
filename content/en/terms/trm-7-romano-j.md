@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-romano-j"
-id: "TRM-ENG-39338"
+id: "TRM-ENG-53867"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Romano J"

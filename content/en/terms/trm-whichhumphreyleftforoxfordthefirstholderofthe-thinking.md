@@ -1,6 +1,6 @@
 ---
 slug: "trm-whichhumphreyleftforoxfordthefirstholderofthe-thinking"
-id: "TRM-ENG-38446"
+id: "TRM-ENG-52975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "whichHumphreyleftforOxford.Thefirstholderofthe Thinking"

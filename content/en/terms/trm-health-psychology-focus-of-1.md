@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-psychology-focus-of-1"
-id: "TRM-ENG-40361"
+id: "TRM-ENG-54890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "health psychology focus of, 1"

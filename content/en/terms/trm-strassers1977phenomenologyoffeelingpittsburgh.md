@@ -1,6 +1,6 @@
 ---
 slug: "trm-strassers1977phenomenologyoffeelingpittsburgh"
-id: "TRM-ENG-37325"
+id: "TRM-ENG-51854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strasser,S.(1977).Phenomenologyoffeeling.Pittsburgh"

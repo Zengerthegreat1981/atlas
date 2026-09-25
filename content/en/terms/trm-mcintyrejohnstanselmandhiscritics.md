@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcintyrejohnstanselmandhiscritics"
-id: "TRM-ENG-45741"
+id: "TRM-ENG-60270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McIntyre,John.St.AnselmandHisCritics"

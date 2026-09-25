@@ -1,6 +1,6 @@
 ---
 slug: "trm-americansociologicalassociation-visitation"
-id: "TRM-ENG-48885"
+id: "TRM-ENG-63414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "AmericanSociologicalAssociation. visitation"

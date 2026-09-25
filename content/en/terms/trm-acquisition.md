@@ -1,6 +1,6 @@
 ---
 slug: "trm-acquisition"
-id: "TRM-ENG-44040"
+id: "TRM-ENG-58569"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "acquisition"

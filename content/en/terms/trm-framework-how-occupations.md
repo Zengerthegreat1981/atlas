@@ -1,6 +1,6 @@
 ---
 slug: "trm-framework-how-occupations"
-id: "TRM-ENG-40253"
+id: "TRM-ENG-54782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "framework, how occupations"

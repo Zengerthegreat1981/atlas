@@ -1,6 +1,6 @@
 ---
 slug: "trm-exclusively-in-the-tactile-modality"
-id: "TRM-ENG-45016"
+id: "TRM-ENG-59545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "exclusively in the tactile modality"

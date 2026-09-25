@@ -1,6 +1,6 @@
 ---
 slug: "trm-sample-j-pers-81"
-id: "TRM-ENG-48566"
+id: "TRM-ENG-63095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sample. J Pers 81"

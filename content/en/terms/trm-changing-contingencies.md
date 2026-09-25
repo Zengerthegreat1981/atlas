@@ -1,6 +1,6 @@
 ---
 slug: "trm-changing-contingencies"
-id: "TRM-ENG-36267"
+id: "TRM-ENG-50796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "changing contingencies"

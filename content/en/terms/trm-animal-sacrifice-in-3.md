@@ -1,6 +1,6 @@
 ---
 slug: "trm-animal-sacrifice-in-3"
-id: "TRM-ENG-39204"
+id: "TRM-ENG-53733"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "animal sacrifice in, 3"

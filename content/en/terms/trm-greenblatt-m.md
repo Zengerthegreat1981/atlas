@@ -1,6 +1,6 @@
 ---
 slug: "trm-greenblatt-m"
-id: "TRM-ENG-40808"
+id: "TRM-ENG-55337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greenblatt M"

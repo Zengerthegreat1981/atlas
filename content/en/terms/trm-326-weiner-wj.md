@@ -1,6 +1,6 @@
 ---
 slug: "trm-326-weiner-wj"
-id: "TRM-ENG-38889"
+id: "TRM-ENG-53418"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "326. Weiner WJ"

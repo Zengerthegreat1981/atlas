@@ -1,6 +1,6 @@
 ---
 slug: "trm-different-levels-of-functioning"
-id: "TRM-ENG-44984"
+id: "TRM-ENG-59513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "different levels of functioning"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-d-m-buss-ed-the-handbook-of-evolutionary-psychology-chology"
-id: "TRM-ENG-36716"
+id: "TRM-ENG-65774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "D. M. Buss (Ed.), The handbook of evolutionary psychology chology"

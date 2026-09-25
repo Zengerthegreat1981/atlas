@@ -1,6 +1,6 @@
 ---
 slug: "trm-waskow-ie-parloff-mb-eds"
-id: "TRM-ENG-42717"
+id: "TRM-ENG-57246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Waskow IE, Parloff MB (eds)"

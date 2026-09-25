@@ -1,6 +1,6 @@
 ---
 slug: "trm-statistic"
-id: "TRM-ENG-44148"
+id: "TRM-ENG-58677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "statistic"

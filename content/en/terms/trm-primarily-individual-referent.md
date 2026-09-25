@@ -1,6 +1,6 @@
 ---
 slug: "trm-primarily-individual-referent"
-id: "TRM-ENG-45252"
+id: "TRM-ENG-59781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "primarily individual referent"

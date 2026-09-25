@@ -1,6 +1,6 @@
 ---
 slug: "trm-illuminating"
-id: "TRM-ENG-45093"
+id: "TRM-ENG-59622"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "illuminating"

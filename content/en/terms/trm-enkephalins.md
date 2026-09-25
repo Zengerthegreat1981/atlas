@@ -1,6 +1,6 @@
 ---
 slug: "trm-enkephalins"
-id: "TRM-ENG-45094"
+id: "TRM-ENG-59623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "enkephalins"

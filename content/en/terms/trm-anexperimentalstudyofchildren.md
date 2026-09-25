@@ -1,6 +1,6 @@
 ---
 slug: "trm-anexperimentalstudyofchildren"
-id: "TRM-ENG-36555"
+id: "TRM-ENG-65613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anexperimentalstudyofchildren"

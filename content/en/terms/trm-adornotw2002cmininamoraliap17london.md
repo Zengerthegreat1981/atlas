@@ -1,6 +1,6 @@
 ---
 slug: "trm-adornotw2002cmininamoraliap17london"
-id: "TRM-ENG-36538"
+id: "TRM-ENG-65596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adorno,T.W.(2002c).MininaMoralia(p.17).London"

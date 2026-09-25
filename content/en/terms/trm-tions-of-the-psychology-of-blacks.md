@@ -1,6 +1,6 @@
 ---
 slug: "trm-tions-of-the-psychology-of-blacks"
-id: "TRM-ENG-41978"
+id: "TRM-ENG-56507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions of The Psychology of Blacks"

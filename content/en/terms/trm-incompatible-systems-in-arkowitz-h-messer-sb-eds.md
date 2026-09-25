@@ -1,6 +1,6 @@
 ---
 slug: "trm-incompatible-systems-in-arkowitz-h-messer-sb-eds"
-id: "TRM-ENG-43078"
+id: "TRM-ENG-57607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "incompatible systems, in Arkowitz H, Messer SB (eds)"

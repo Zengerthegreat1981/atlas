@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolinsky-stephen-quantum-consciousness"
-id: "TRM-ENG-46000"
+id: "TRM-ENG-60529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolinsky, Stephen. Quantum Consciousness"

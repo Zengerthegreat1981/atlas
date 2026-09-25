@@ -1,6 +1,6 @@
 ---
 slug: "trm-law-95605-1978-lollows"
-id: "TRM-ENG-34736"
+id: "TRM-ENG-63794"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Law 95-605 (1978). l’ollows"

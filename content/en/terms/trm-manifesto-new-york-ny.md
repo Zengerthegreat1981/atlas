@@ -1,6 +1,6 @@
 ---
 slug: "trm-manifesto-new-york-ny"
-id: "TRM-ENG-48314"
+id: "TRM-ENG-62843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "manifesto. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-maguire-gp-goldberg-dp-hobson-rf-margison-f-moss-s"
-id: "TRM-ENG-41552"
+id: "TRM-ENG-56081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maguire GP, Goldberg DP, Hobson RF, Margison F, Moss S"

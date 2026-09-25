@@ -1,6 +1,6 @@
 ---
 slug: "trm-shlien-jm-mosak-hm-driekers-r"
-id: "TRM-ENG-42339"
+id: "TRM-ENG-56868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shlien JM, Mosak HM, Driekers R"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-experiences-new-york-ny"
-id: "TRM-ENG-51449"
+id: "TRM-ENG-65978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "experiences. New York, NY"

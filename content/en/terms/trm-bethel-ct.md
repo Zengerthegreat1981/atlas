@@ -1,6 +1,6 @@
 ---
 slug: "trm-bethel-ct"
-id: "TRM-ENG-50165"
+id: "TRM-ENG-64694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bethel, CT"

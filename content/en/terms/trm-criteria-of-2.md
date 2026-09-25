@@ -1,6 +1,6 @@
 ---
 slug: "trm-criteria-of-2"
-id: "TRM-ENG-39785"
+id: "TRM-ENG-54314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "criteria of, 2"

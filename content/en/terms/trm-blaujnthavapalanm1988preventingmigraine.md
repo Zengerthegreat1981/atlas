@@ -1,6 +1,6 @@
 ---
 slug: "trm-blaujnthavapalanm1988preventingmigraine"
-id: "TRM-ENG-46435"
+id: "TRM-ENG-60964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blau,J.N.,&Thavapalan,M.(1988).Preventingmigraine"

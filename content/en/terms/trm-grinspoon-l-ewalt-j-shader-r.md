@@ -1,6 +1,6 @@
 ---
 slug: "trm-grinspoon-l-ewalt-j-shader-r"
-id: "TRM-ENG-40835"
+id: "TRM-ENG-55364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grinspoon L, Ewalt J, Shader R"

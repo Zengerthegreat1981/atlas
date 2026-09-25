@@ -1,6 +1,6 @@
 ---
 slug: "trm-shweder-r-a-1996-quanta-and-qualia"
-id: "TRM-ENG-35560"
+id: "TRM-ENG-64618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shweder, R. A. (1996). Quanta and qualia"

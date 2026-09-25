@@ -1,6 +1,6 @@
 ---
 slug: "trm-national-institute-for-multicultural-competence-1"
-id: "TRM-ENG-38485"
+id: "TRM-ENG-53014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "National Institute for Multicultural Competence, 1"

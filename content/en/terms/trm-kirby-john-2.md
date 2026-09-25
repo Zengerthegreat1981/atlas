@@ -1,6 +1,6 @@
 ---
 slug: "trm-kirby-john-2"
-id: "TRM-ENG-38328"
+id: "TRM-ENG-52857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kirby, John, 2"

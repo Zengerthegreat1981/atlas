@@ -1,6 +1,6 @@
 ---
 slug: "trm-howald-disability-difference-discrimination"
-id: "TRM-ENG-45919"
+id: "TRM-ENG-60448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "howald. Disability, Difference, Discrimination"

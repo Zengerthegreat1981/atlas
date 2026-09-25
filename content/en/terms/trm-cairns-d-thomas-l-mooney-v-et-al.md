@@ -1,6 +1,6 @@
 ---
 slug: "trm-cairns-d-thomas-l-mooney-v-et-al"
-id: "TRM-ENG-40093"
+id: "TRM-ENG-54622"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cairns D, Thomas L, Mooney V, et al"

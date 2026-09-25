@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-of-adult-personalitynew-york"
-id: "TRM-ENG-36691"
+id: "TRM-ENG-65749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment of adult personality.New York"

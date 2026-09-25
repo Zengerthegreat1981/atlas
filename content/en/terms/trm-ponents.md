@@ -1,6 +1,6 @@
 ---
 slug: "trm-ponents"
-id: "TRM-ENG-41192"
+id: "TRM-ENG-55721"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ponents"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-focusedontwolinesofresearch"
-id: "TRM-ENG-37769"
+id: "TRM-ENG-66827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "focusedontwolinesofresearch"

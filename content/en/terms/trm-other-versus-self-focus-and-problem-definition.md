@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-versus-self-focus-and-problem-definition"
-id: "TRM-ENG-38548"
+id: "TRM-ENG-53077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Other Versus Self Focus, and Problem Definition"

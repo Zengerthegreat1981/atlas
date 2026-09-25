@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-drug-abuse-include"
-id: "TRM-ENG-35171"
+id: "TRM-ENG-49700"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of drug abuse include"

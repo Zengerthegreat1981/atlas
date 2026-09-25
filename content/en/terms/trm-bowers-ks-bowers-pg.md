@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowers-ks-bowers-pg"
-id: "TRM-ENG-40006"
+id: "TRM-ENG-54535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bowers KS, Bowers PG"

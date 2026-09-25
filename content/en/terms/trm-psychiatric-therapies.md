@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatric-therapies"
-id: "TRM-ENG-44806"
+id: "TRM-ENG-59335"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Psychiatric Therapies"

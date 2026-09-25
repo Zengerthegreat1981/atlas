@@ -1,6 +1,6 @@
 ---
 slug: "trm-pratt-jh-et-al"
-id: "TRM-ENG-42007"
+id: "TRM-ENG-56536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pratt JH, et al"

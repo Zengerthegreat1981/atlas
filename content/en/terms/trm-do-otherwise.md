@@ -1,6 +1,6 @@
 ---
 slug: "trm-do-otherwise"
-id: "TRM-ENG-45075"
+id: "TRM-ENG-59604"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "do otherwise"

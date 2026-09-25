@@ -1,6 +1,6 @@
 ---
 slug: "trm-stressful-experiences-give"
-id: "TRM-ENG-35345"
+id: "TRM-ENG-64403"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stressful experiences give"

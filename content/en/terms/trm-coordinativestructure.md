@@ -1,6 +1,6 @@
 ---
 slug: "trm-coordinativestructure"
-id: "TRM-ENG-43600"
+id: "TRM-ENG-58129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coordinativestructure."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-widely-in-their-evaluation-of-psychoanalysis-there-can-be-see-also"
-id: "TRM-ENG-37318"
+id: "TRM-ENG-66376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "widely in their evaluation of psychoanalysis, there can be See also"

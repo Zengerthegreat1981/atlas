@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-new-york-ny"
-id: "TRM-ENG-47932"
+id: "TRM-ENG-62461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-strean-hs"
-id: "TRM-ENG-42498"
+id: "TRM-ENG-57027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strean HS"

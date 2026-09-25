@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-constellation-therapy-1"
-id: "TRM-ENG-50388"
+id: "TRM-ENG-64917"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Family constellation therapy, 1"

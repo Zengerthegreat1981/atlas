@@ -1,6 +1,6 @@
 ---
 slug: "trm-et-al-2007-1"
-id: "TRM-ENG-47992"
+id: "TRM-ENG-62521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "et al. (2007), 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-meichenbaum-dh-cameron-r"
-id: "TRM-ENG-41675"
+id: "TRM-ENG-56204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meichenbaum DH, Cameron R"

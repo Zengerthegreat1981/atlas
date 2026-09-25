@@ -1,6 +1,6 @@
 ---
 slug: "trm-inform-29"
-id: "TRM-ENG-47747"
+id: "TRM-ENG-62276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Inform 29"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-conceptualizationandinterventionnewyork"
-id: "TRM-ENG-46477"
+id: "TRM-ENG-61006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Conceptualizationandintervention.NewYork"

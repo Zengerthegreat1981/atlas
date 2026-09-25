@@ -1,6 +1,6 @@
 ---
 slug: "trm-acamprosate-for-alcoholism-treatment"
-id: "TRM-ENG-36080"
+id: "TRM-ENG-50609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "acamprosate for alcoholism treatment"

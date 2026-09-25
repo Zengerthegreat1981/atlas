@@ -1,6 +1,6 @@
 ---
 slug: "trm-rejection"
-id: "TRM-ENG-44813"
+id: "TRM-ENG-59342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Rejection"

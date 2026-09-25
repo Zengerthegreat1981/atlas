@@ -1,6 +1,6 @@
 ---
 slug: "trm-pacella-bl"
-id: "TRM-ENG-41905"
+id: "TRM-ENG-56434"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pacella BL"

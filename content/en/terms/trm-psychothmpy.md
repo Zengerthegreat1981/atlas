@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychothmpy"
-id: "TRM-ENG-35272"
+id: "TRM-ENG-64330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychothmpy"

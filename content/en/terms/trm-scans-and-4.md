@@ -1,6 +1,6 @@
 ---
 slug: "trm-scans-and-4"
-id: "TRM-ENG-37426"
+id: "TRM-ENG-66484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(SCANS) and, 4"

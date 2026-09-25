@@ -1,6 +1,6 @@
 ---
 slug: "trm-106-merton-rk"
-id: "TRM-ENG-38560"
+id: "TRM-ENG-53089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "106. Merton RK"

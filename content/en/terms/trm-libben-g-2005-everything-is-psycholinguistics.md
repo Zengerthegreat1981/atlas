@@ -1,6 +1,6 @@
 ---
 slug: "trm-libben-g-2005-everything-is-psycholinguistics"
-id: "TRM-ENG-44588"
+id: "TRM-ENG-59117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Libben, G. (2005). Everything is psycholinguistics"

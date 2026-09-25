@@ -1,6 +1,6 @@
 ---
 slug: "trm-postcolonialism-1"
-id: "TRM-ENG-48568"
+id: "TRM-ENG-63097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "postcolonialism, 1"

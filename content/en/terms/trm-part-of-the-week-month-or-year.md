@@ -1,6 +1,6 @@
 ---
 slug: "trm-part-of-the-week-month-or-year"
-id: "TRM-ENG-41111"
+id: "TRM-ENG-55640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "part of the week, month, or year"

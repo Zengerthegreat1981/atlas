@@ -1,6 +1,6 @@
 ---
 slug: "trm-torgersen-s-lygren-s-oien-pa-et-al"
-id: "TRM-ENG-48128"
+id: "TRM-ENG-62657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Torgersen S, Lygren S, Oien PA, et al"

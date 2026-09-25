@@ -1,6 +1,6 @@
 ---
 slug: "trm-intake"
-id: "TRM-ENG-47060"
+id: "TRM-ENG-61589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intake"

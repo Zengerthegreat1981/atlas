@@ -1,6 +1,6 @@
 ---
 slug: "trm-palazzoli-mara-selvini-1"
-id: "TRM-ENG-50829"
+id: "TRM-ENG-65358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Palazzoli, Mara Selvini, 1"

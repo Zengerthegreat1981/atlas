@@ -1,6 +1,6 @@
 ---
 slug: "trm-briggs-j-l-1970-never-in-anger"
-id: "TRM-ENG-43396"
+id: "TRM-ENG-57925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Briggs, J. L. (1970). Never in anger"

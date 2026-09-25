@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogy-pp-433452-new-york"
-id: "TRM-ENG-38051"
+id: "TRM-ENG-67109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogy (pp. 433–452). New York"

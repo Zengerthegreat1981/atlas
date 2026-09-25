@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-intelligence"
-id: "TRM-ENG-38198"
+id: "TRM-ENG-52727"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Human Intelligence"

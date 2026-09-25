@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-multipotentiality-seetylerleona-e"
-id: "TRM-ENG-38200"
+id: "TRM-ENG-52729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Human multipotentiality. SeeTyler,Leona E."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lazarus-aa-abramovitz-a"
-id: "TRM-ENG-41375"
+id: "TRM-ENG-55904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lazarus AA, Abramovitz A"

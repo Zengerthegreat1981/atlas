@@ -1,6 +1,6 @@
 ---
 slug: "trm-niagara-movement-and-3"
-id: "TRM-ENG-38507"
+id: "TRM-ENG-53036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Niagara movement and, 3"

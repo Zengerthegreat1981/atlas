@@ -1,6 +1,6 @@
 ---
 slug: "trm-ratio-is-2"
-id: "TRM-ENG-36059"
+id: "TRM-ENG-50588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ratio is 2"

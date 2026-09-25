@@ -1,6 +1,6 @@
 ---
 slug: "trm-saying"
-id: "TRM-ENG-45292"
+id: "TRM-ENG-59821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "saying"

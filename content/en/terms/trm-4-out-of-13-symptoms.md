@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-out-of-13-symptoms"
-id: "TRM-ENG-49870"
+id: "TRM-ENG-64399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "– 4 out of 13 symptoms"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-127-becker-g"
-id: "TRM-ENG-38593"
+id: "TRM-ENG-53122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "127. Becker G"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-choosing-a-vocationparsons-and-4"
-id: "TRM-ENG-37815"
+id: "TRM-ENG-52344"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Choosing a Vocation(Parsons) and, 4"

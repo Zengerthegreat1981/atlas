@@ -1,6 +1,6 @@
 ---
 slug: "trm-stringer-la"
-id: "TRM-ENG-42501"
+id: "TRM-ENG-57030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stringer LA"

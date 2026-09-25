@@ -1,6 +1,6 @@
 ---
 slug: "trm-blountjm2005fittoteach"
-id: "TRM-ENG-36624"
+id: "TRM-ENG-65682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blount,J.M.(2005).Fittoteach"

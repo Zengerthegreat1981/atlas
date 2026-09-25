@@ -1,6 +1,6 @@
 ---
 slug: "trm-grounds"
-id: "TRM-ENG-45568"
+id: "TRM-ENG-60097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "grounds"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bratman-m-1999-f-aces-of-intention-cambridge-ma"
-id: "TRM-ENG-44342"
+id: "TRM-ENG-58871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bratman, M. (1999). F aces of intention. Cambridge, MA"

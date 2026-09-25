@@ -1,6 +1,6 @@
 ---
 slug: "trm-ety-a-major-difference-however-rests-in-the-start-society"
-id: "TRM-ENG-47997"
+id: "TRM-ENG-62526"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ety. A major difference, however, rests in the start- society"

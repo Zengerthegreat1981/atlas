@@ -1,6 +1,6 @@
 ---
 slug: "trm-through-on"
-id: "TRM-ENG-48657"
+id: "TRM-ENG-63186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "through on"

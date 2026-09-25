@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-microethnography"
-id: "TRM-ENG-47663"
+id: "TRM-ENG-62192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as “micro-ethnography”"

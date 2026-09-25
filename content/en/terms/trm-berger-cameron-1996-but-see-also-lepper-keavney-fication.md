@@ -1,6 +1,6 @@
 ---
 slug: "trm-berger-cameron-1996-but-see-also-lepper-keavney-fication"
-id: "TRM-ENG-36206"
+id: "TRM-ENG-65264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "berger & Cameron, 1996; but see also Lepper, Keavney, & fication”"

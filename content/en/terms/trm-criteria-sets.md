@@ -1,6 +1,6 @@
 ---
 slug: "trm-criteria-sets"
-id: "TRM-ENG-48282"
+id: "TRM-ENG-62811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "criteria sets"

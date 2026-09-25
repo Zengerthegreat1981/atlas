@@ -1,6 +1,6 @@
 ---
 slug: "trm-measurement-assumptions-regarding-4"
-id: "TRM-ENG-40798"
+id: "TRM-ENG-55327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "measurement assumptions regarding, 4"

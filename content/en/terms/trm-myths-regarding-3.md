@@ -1,6 +1,6 @@
 ---
 slug: "trm-myths-regarding-3"
-id: "TRM-ENG-40919"
+id: "TRM-ENG-55448"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "myths regarding, 3"

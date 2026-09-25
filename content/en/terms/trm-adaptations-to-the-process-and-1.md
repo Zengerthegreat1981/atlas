@@ -1,6 +1,6 @@
 ---
 slug: "trm-adaptations-to-the-process-and-1"
-id: "TRM-ENG-39104"
+id: "TRM-ENG-53633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adaptations to the process and, 1"

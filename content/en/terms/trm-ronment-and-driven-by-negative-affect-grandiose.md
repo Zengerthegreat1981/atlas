@@ -1,6 +1,6 @@
 ---
 slug: "trm-ronment-and-driven-by-negative-affect-grandiose"
-id: "TRM-ENG-43824"
+id: "TRM-ENG-58353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ronment and driven by negative affect; grandiose"

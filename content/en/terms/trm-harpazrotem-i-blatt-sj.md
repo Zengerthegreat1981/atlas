@@ -1,6 +1,6 @@
 ---
 slug: "trm-harpazrotem-i-blatt-sj"
-id: "TRM-ENG-47713"
+id: "TRM-ENG-62242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Harpaz-Rotem I, Blatt SJ"

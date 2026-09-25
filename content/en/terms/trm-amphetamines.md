@@ -1,6 +1,6 @@
 ---
 slug: "trm-amphetamines"
-id: "TRM-ENG-34858"
+id: "TRM-ENG-63916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "amphetamines"

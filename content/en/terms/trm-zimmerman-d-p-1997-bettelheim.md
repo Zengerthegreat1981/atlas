@@ -1,6 +1,6 @@
 ---
 slug: "trm-zimmerman-d-p-1997-bettelheim"
-id: "TRM-ENG-37460"
+id: "TRM-ENG-51989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zimmerman, D. P. (1997). Bettelheim"

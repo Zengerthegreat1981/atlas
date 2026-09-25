@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotion-coaching-2"
-id: "TRM-ENG-46572"
+id: "TRM-ENG-61101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Emotion coaching, 2"

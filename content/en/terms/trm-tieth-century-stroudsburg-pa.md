@@ -1,6 +1,6 @@
 ---
 slug: "trm-tieth-century-stroudsburg-pa"
-id: "TRM-ENG-35400"
+id: "TRM-ENG-64458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tieth century. Stroudsburg, PA"

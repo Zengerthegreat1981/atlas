@@ -1,6 +1,6 @@
 ---
 slug: "trm-geist-j-gerber-nm"
-id: "TRM-ENG-40679"
+id: "TRM-ENG-55208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Geist J, Gerber NM"

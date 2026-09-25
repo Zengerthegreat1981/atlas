@@ -1,6 +1,6 @@
 ---
 slug: "trm-lehrer-p-schiff-l-kris-a"
-id: "TRM-ENG-41395"
+id: "TRM-ENG-55924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lehrer P, Schiff L, Kris A"

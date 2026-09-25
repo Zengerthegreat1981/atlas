@@ -1,6 +1,6 @@
 ---
 slug: "trm-costello-cg"
-id: "TRM-ENG-40245"
+id: "TRM-ENG-54774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Costello CG"

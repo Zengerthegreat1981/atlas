@@ -1,6 +1,6 @@
 ---
 slug: "trm-satir-virginia-1"
-id: "TRM-ENG-38725"
+id: "TRM-ENG-53254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Satir, Virginia, 1"

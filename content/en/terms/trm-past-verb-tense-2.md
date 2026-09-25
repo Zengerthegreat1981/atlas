@@ -1,6 +1,6 @@
 ---
 slug: "trm-past-verb-tense-2"
-id: "TRM-ENG-44674"
+id: "TRM-ENG-59203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Past verb tense, 2"

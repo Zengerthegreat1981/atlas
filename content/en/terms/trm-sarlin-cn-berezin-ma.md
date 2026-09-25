@@ -1,6 +1,6 @@
 ---
 slug: "trm-sarlin-cn-berezin-ma"
-id: "TRM-ENG-42240"
+id: "TRM-ENG-56769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sarlin CN, Berezin MA"

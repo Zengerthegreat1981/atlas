@@ -1,6 +1,6 @@
 ---
 slug: "trm-equality"
-id: "TRM-ENG-47975"
+id: "TRM-ENG-62504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "equality"

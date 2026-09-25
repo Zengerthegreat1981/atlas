@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-psychology-pp-3776-east-sussex-england"
-id: "TRM-ENG-43717"
+id: "TRM-ENG-58246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity psychology (pp. 37–76). East Sussex, England"

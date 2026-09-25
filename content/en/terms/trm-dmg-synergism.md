@@ -1,6 +1,6 @@
 ---
 slug: "trm-dmg-synergism"
-id: "TRM-ENG-44051"
+id: "TRM-ENG-58580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dmg synergism,"

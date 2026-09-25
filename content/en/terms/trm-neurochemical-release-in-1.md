@@ -1,6 +1,6 @@
 ---
 slug: "trm-neurochemical-release-in-1"
-id: "TRM-ENG-40945"
+id: "TRM-ENG-55474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neurochemical release in, 1"

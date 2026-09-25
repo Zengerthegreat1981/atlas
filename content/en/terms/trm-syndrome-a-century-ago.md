@@ -1,6 +1,6 @@
 ---
 slug: "trm-syndrome-a-century-ago"
-id: "TRM-ENG-35064"
+id: "TRM-ENG-64122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "syndrome a century ago"

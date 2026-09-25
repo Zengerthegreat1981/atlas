@@ -1,6 +1,6 @@
 ---
 slug: "trm-1990-apaconvention-and-1"
-id: "TRM-ENG-37477"
+id: "TRM-ENG-66535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1990 APAconvention and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-185chichesteruk"
-id: "TRM-ENG-46369"
+id: "TRM-ENG-60898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "185).Chichester,UK"

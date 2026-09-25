@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-of-work-adjustment-of-4"
-id: "TRM-ENG-41924"
+id: "TRM-ENG-56453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory of work adjustment of, 4"

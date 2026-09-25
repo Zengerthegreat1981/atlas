@@ -1,6 +1,6 @@
 ---
 slug: "trm-model-minority-myth-and-1"
-id: "TRM-ENG-40868"
+id: "TRM-ENG-55397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "model minority myth and, 1"

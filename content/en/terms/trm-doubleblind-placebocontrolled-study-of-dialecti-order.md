@@ -1,6 +1,6 @@
 ---
 slug: "trm-doubleblind-placebocontrolled-study-of-dialecti-order"
-id: "TRM-ENG-42381"
+id: "TRM-ENG-56910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Double-blind, placebo-controlled study of dialecti- order"

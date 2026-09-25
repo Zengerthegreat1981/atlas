@@ -1,6 +1,6 @@
 ---
 slug: "trm-articulation-of-an-erroneous-utterance-quickly"
-id: "TRM-ENG-44927"
+id: "TRM-ENG-59456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "articulation of an erroneous utterance quickly"

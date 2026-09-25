@@ -1,6 +1,6 @@
 ---
 slug: "trm-138-mednick-sa-christianson-ko"
-id: "TRM-ENG-38607"
+id: "TRM-ENG-53136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "138. Mednick SA, Christianson KO"

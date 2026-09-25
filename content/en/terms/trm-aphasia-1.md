@@ -1,6 +1,6 @@
 ---
 slug: "trm-aphasia-1"
-id: "TRM-ENG-44298"
+id: "TRM-ENG-58827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aphasia , 1"

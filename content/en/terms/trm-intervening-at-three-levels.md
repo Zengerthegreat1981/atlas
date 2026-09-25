@@ -1,6 +1,6 @@
 ---
 slug: "trm-intervening-at-three-levels"
-id: "TRM-ENG-40626"
+id: "TRM-ENG-55155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intervening at three levels"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-staughan-r-2"
-id: "TRM-ENG-47333"
+id: "TRM-ENG-61862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Staughan, R., 2"

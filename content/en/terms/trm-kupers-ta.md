@@ -1,6 +1,6 @@
 ---
 slug: "trm-kupers-ta"
-id: "TRM-ENG-41331"
+id: "TRM-ENG-55860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kupers TA"

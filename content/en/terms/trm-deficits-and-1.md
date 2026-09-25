@@ -1,6 +1,6 @@
 ---
 slug: "trm-deficits-and-1"
-id: "TRM-ENG-39869"
+id: "TRM-ENG-54398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "deficits and, 1"

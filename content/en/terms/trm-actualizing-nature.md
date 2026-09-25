@@ -1,6 +1,6 @@
 ---
 slug: "trm-actualizing-nature"
-id: "TRM-ENG-36090"
+id: "TRM-ENG-65148"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "actualizing nature"

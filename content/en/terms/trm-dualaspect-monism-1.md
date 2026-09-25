@@ -1,6 +1,6 @@
 ---
 slug: "trm-dualaspect-monism-1"
-id: "TRM-ENG-44446"
+id: "TRM-ENG-58975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dual-aspect monism, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-worthyofloveonthebasisofparentalapproval"
-id: "TRM-ENG-43981"
+id: "TRM-ENG-58510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "worthyofloveonthebasisofparentalapproval"

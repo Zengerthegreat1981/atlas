@@ -1,6 +1,6 @@
 ---
 slug: "trm-frank-jd-gliedman-lh-imber-sd-et-al"
-id: "TRM-ENG-40586"
+id: "TRM-ENG-55115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frank JD, Gliedman LH, Imber SD, et al"

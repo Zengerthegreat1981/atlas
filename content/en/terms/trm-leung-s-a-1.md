@@ -1,6 +1,6 @@
 ---
 slug: "trm-leung-s-a-1"
-id: "TRM-ENG-38369"
+id: "TRM-ENG-52898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leung, S. A., 1"

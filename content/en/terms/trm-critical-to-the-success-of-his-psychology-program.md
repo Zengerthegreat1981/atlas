@@ -1,6 +1,6 @@
 ---
 slug: "trm-critical-to-the-success-of-his-psychology-program"
-id: "TRM-ENG-37664"
+id: "TRM-ENG-66722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "critical to the success of his psychology program"

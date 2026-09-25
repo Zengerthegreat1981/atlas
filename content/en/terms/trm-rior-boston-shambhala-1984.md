@@ -1,6 +1,6 @@
 ---
 slug: "trm-rior-boston-shambhala-1984"
-id: "TRM-ENG-46208"
+id: "TRM-ENG-60737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rior. Boston: Shambhala, 1984."

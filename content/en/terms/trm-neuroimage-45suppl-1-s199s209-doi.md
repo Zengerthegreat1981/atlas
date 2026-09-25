@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuroimage-45suppl-1-s199s209-doi"
-id: "TRM-ENG-35459"
+id: "TRM-ENG-49988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "NeuroImage, 45(Suppl 1), S199–S209. doi"

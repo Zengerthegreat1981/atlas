@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-handbook-of-solutionfocused-brief-therapy"
-id: "TRM-ENG-49920"
+id: "TRM-ENG-64449"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), Handbook of solution-focused brief therapy"

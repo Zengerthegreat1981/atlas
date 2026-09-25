@@ -1,6 +1,6 @@
 ---
 slug: "trm-iinnvvittinngg-tthhee-ccllieennttss-too-ddoo-client"
-id: "TRM-ENG-38213"
+id: "TRM-ENG-52742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IInnvvittinngg tthhee CCllieennttss too DDoo Client"

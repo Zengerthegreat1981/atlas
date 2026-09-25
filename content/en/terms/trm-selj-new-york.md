@@ -1,6 +1,6 @@
 ---
 slug: "trm-selj-new-york"
-id: "TRM-ENG-35304"
+id: "TRM-ENG-49833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "selJ New York"

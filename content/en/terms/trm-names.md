@@ -1,6 +1,6 @@
 ---
 slug: "trm-names"
-id: "TRM-ENG-42473"
+id: "TRM-ENG-57002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Names"

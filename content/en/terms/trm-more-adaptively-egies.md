@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-adaptively-egies"
-id: "TRM-ENG-43025"
+id: "TRM-ENG-57554"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "more adaptively. egies"

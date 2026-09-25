@@ -1,6 +1,6 @@
 ---
 slug: "trm-form-eidetic-images-under-two-conditions"
-id: "TRM-ENG-35031"
+id: "TRM-ENG-64089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "form eidetic images under two conditions"

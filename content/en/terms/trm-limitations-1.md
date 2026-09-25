@@ -1,6 +1,6 @@
 ---
 slug: "trm-limitations-1"
-id: "TRM-ENG-45275"
+id: "TRM-ENG-59804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "limitations, 1"

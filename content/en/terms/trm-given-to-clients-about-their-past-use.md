@@ -1,6 +1,6 @@
 ---
 slug: "trm-given-to-clients-about-their-past-use"
-id: "TRM-ENG-35041"
+id: "TRM-ENG-64099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "given to clients about their past use"

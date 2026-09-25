@@ -1,6 +1,6 @@
 ---
 slug: "trm-text-counselors-are-skilled-at-empathy"
-id: "TRM-ENG-41867"
+id: "TRM-ENG-56396"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "text. Counselors are skilled at empathy"

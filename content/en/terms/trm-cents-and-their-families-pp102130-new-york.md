@@ -1,6 +1,6 @@
 ---
 slug: "trm-cents-and-their-families-pp102130-new-york"
-id: "TRM-ENG-36250"
+id: "TRM-ENG-50779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cents, and their families (pp.102–130). New York"

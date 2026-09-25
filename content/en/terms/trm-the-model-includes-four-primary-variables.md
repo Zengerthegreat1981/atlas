@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-model-includes-four-primary-variables"
-id: "TRM-ENG-38901"
+id: "TRM-ENG-53430"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The model includes four primary variables"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-organization-and-pathology-of-thoughtpp95153-new-york"
-id: "TRM-ENG-35876"
+id: "TRM-ENG-64934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Organization and pathology of thought(pp.95–153). New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-childhood-were-minimal"
-id: "TRM-ENG-42993"
+id: "TRM-ENG-57522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "childhood were minimal"

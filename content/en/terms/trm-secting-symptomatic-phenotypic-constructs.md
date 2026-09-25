@@ -1,6 +1,6 @@
 ---
 slug: "trm-secting-symptomatic-phenotypic-constructs"
-id: "TRM-ENG-43199"
+id: "TRM-ENG-57728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "secting symptomatic (phenotypic) constructs"

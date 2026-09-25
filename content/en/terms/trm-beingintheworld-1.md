@@ -1,6 +1,6 @@
 ---
 slug: "trm-beingintheworld-1"
-id: "TRM-ENG-51996"
+id: "TRM-ENG-66525"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“being-in-the-world,” 1"

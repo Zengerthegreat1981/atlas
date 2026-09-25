@@ -1,6 +1,6 @@
 ---
 slug: "trm-behaviors-8-interpersonal-learning"
-id: "TRM-ENG-36201"
+id: "TRM-ENG-65259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behaviors; (8) interpersonal learning"

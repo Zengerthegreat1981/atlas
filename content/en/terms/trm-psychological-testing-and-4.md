@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-testing-and-4"
-id: "TRM-ENG-41339"
+id: "TRM-ENG-55868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychological testing and, 4"

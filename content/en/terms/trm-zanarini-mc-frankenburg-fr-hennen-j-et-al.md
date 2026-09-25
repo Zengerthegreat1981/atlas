@@ -1,6 +1,6 @@
 ---
 slug: "trm-zanarini-mc-frankenburg-fr-hennen-j-et-al"
-id: "TRM-ENG-48159"
+id: "TRM-ENG-62688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zanarini MC, Frankenburg FR, Hennen J, et al"

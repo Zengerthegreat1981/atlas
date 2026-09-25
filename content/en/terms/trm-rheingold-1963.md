@@ -1,6 +1,6 @@
 ---
 slug: "trm-rheingold-1963"
-id: "TRM-ENG-36291"
+id: "TRM-ENG-50820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rheingold (1963)"

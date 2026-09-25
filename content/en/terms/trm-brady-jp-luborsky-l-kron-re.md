@@ -1,6 +1,6 @@
 ---
 slug: "trm-brady-jp-luborsky-l-kron-re"
-id: "TRM-ENG-40021"
+id: "TRM-ENG-54550"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brady JP, Luborsky L, Kron RE"

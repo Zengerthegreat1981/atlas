@@ -1,6 +1,6 @@
 ---
 slug: "trm-different-from-that-of-the-second"
-id: "TRM-ENG-47886"
+id: "TRM-ENG-62415"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "different from that of the second"

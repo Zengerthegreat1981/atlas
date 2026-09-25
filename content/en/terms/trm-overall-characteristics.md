@@ -1,6 +1,6 @@
 ---
 slug: "trm-overall-characteristics"
-id: "TRM-ENG-45213"
+id: "TRM-ENG-59742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "overall characteristics"

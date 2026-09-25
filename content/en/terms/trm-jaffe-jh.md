@@ -1,6 +1,6 @@
 ---
 slug: "trm-jaffe-jh"
-id: "TRM-ENG-41108"
+id: "TRM-ENG-55637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jaffe JH"

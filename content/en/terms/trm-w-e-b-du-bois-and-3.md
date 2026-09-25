@@ -1,6 +1,6 @@
 ---
 slug: "trm-w-e-b-du-bois-and-3"
-id: "TRM-ENG-38993"
+id: "TRM-ENG-53522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "W. E. B. Du Bois and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-related-functional-mri"
-id: "TRM-ENG-36068"
+id: "TRM-ENG-50597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "related functional MRI"

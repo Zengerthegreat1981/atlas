@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-new-haven-ct"
-id: "TRM-ENG-41926"
+id: "TRM-ENG-56455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory. New Haven, CT"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-impact-of-3"
-id: "TRM-ENG-40453"
+id: "TRM-ENG-54982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impact of, 3"

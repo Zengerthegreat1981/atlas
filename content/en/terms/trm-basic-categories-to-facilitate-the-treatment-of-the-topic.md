@@ -1,6 +1,6 @@
 ---
 slug: "trm-basic-categories-to-facilitate-the-treatment-of-the-topic"
-id: "TRM-ENG-39314"
+id: "TRM-ENG-53843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "basic categories to facilitate the treatment of the topic"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-880-dohrenwend-dp-dohrenwend-bs"
-id: "TRM-ENG-39544"
+id: "TRM-ENG-54073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "880. Dohrenwend DP, Dohrenwend BS"

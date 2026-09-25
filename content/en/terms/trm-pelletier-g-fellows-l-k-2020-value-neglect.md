@@ -1,6 +1,6 @@
 ---
 slug: "trm-pelletier-g-fellows-l-k-2020-value-neglect"
-id: "TRM-ENG-34663"
+id: "TRM-ENG-63721"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pelletier, G., & Fellows, L. K. (2020) Value neglect"

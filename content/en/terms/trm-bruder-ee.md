@@ -1,6 +1,6 @@
 ---
 slug: "trm-bruder-ee"
-id: "TRM-ENG-40057"
+id: "TRM-ENG-54586"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bruder EE"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cosmidesltoobyj1992bcognitiveadaptationsforsocial-into-thought"
-id: "TRM-ENG-36706"
+id: "TRM-ENG-65764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cosmides,L.,&Tooby,J.(1992b).Cognitiveadaptationsforsocial into thought"

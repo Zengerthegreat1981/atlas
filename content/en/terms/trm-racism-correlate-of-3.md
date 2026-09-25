@@ -1,6 +1,6 @@
 ---
 slug: "trm-racism-correlate-of-3"
-id: "TRM-ENG-41419"
+id: "TRM-ENG-55948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racism correlate of, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-was-used-by-the-institute-in-its-efforts-to-inform-the-amer-three-reasons"
-id: "TRM-ENG-37301"
+id: "TRM-ENG-51830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "was used by the Institute in its efforts to inform the Amer- three reasons"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-touch-in-clinical-practice"
-id: "TRM-ENG-51939"
+id: "TRM-ENG-66468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "touch in clinical practice"

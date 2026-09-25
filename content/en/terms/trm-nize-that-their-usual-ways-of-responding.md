@@ -1,6 +1,6 @@
 ---
 slug: "trm-nize-that-their-usual-ways-of-responding"
-id: "TRM-ENG-51628"
+id: "TRM-ENG-66157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nize that their usual ways of responding"

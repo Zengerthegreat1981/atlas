@@ -1,6 +1,6 @@
 ---
 slug: "trm-heyder-dw"
-id: "TRM-ENG-40988"
+id: "TRM-ENG-55517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heyder DW"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-structured-clinical-interview-for-the-dsmiv-2"
-id: "TRM-ENG-38831"
+id: "TRM-ENG-53360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Structured Clinical Interview for the DSM-IV, 2"

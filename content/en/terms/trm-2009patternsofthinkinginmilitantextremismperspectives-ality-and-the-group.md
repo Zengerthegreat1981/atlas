@@ -1,6 +1,6 @@
 ---
 slug: "trm-2009patternsofthinkinginmilitantextremismperspectives-ality-and-the-group"
-id: "TRM-ENG-36400"
+id: "TRM-ENG-65458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2009).Patternsofthinkinginmilitantextremism.Perspectives ality and the group"

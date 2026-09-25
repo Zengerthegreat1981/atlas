@@ -1,6 +1,6 @@
 ---
 slug: "trm-4960-doi"
-id: "TRM-ENG-43336"
+id: "TRM-ENG-57865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "49–60. doi"

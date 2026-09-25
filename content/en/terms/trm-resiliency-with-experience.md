@@ -1,6 +1,6 @@
 ---
 slug: "trm-resiliency-with-experience"
-id: "TRM-ENG-45284"
+id: "TRM-ENG-59813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "resiliency with experience"

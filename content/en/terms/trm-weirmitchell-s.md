@@ -1,6 +1,6 @@
 ---
 slug: "trm-weirmitchell-s"
-id: "TRM-ENG-42744"
+id: "TRM-ENG-57273"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Weir-Mitchell S"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-316-vogel-f-motulsky-ag"
-id: "TRM-ENG-38877"
+id: "TRM-ENG-53406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "316. Vogel F, Motulsky AG"

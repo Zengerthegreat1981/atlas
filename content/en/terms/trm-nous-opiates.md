@@ -1,6 +1,6 @@
 ---
 slug: "trm-nous-opiates"
-id: "TRM-ENG-35160"
+id: "TRM-ENG-64218"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nous opiates"

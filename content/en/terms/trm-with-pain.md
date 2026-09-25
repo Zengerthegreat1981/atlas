@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-pain"
-id: "TRM-ENG-47383"
+id: "TRM-ENG-61912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with pain"

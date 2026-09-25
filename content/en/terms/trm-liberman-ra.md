@@ -1,6 +1,6 @@
 ---
 slug: "trm-liberman-ra"
-id: "TRM-ENG-41449"
+id: "TRM-ENG-55978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Liberman RA"

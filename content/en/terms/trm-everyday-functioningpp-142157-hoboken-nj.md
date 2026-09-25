@@ -1,6 +1,6 @@
 ---
 slug: "trm-everyday-functioningpp-142157-hoboken-nj"
-id: "TRM-ENG-40121"
+id: "TRM-ENG-54650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "everyday functioning(pp. 142–157). Hoboken, NJ"

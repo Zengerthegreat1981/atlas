@@ -1,6 +1,6 @@
 ---
 slug: "trm-licht-s"
-id: "TRM-ENG-41450"
+id: "TRM-ENG-55979"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Licht S"

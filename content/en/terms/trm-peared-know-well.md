@@ -1,6 +1,6 @@
 ---
 slug: "trm-peared-know-well"
-id: "TRM-ENG-36840"
+id: "TRM-ENG-65898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "peared. know well"

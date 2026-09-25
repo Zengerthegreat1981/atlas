@@ -1,6 +1,6 @@
 ---
 slug: "trm-his-surgery"
-id: "TRM-ENG-34860"
+id: "TRM-ENG-49389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "his surgery"

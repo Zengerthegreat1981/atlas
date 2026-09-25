@@ -1,6 +1,6 @@
 ---
 slug: "trm-change-producing-mechanisms-of-2"
-id: "TRM-ENG-39470"
+id: "TRM-ENG-53999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "change producing mechanisms of, 2"

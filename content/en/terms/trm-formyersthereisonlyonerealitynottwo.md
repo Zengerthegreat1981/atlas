@@ -1,6 +1,6 @@
 ---
 slug: "trm-formyersthereisonlyonerealitynottwo"
-id: "TRM-ENG-36799"
+id: "TRM-ENG-65857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ForMyers,thereisonlyonereality,nottwo"

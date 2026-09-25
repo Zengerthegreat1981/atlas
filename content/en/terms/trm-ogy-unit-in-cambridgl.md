@@ -1,6 +1,6 @@
 ---
 slug: "trm-ogy-unit-in-cambridgl"
-id: "TRM-ENG-35187"
+id: "TRM-ENG-64245"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ogy Unit in Cambridgl"

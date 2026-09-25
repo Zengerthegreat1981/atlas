@@ -1,6 +1,6 @@
 ---
 slug: "trm-types-of-organization"
-id: "TRM-ENG-35107"
+id: "TRM-ENG-64165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "types of organization"

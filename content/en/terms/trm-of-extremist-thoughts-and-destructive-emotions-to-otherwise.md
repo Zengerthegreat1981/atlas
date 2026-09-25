@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-extremist-thoughts-and-destructive-emotions-to-otherwise"
-id: "TRM-ENG-48431"
+id: "TRM-ENG-62960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of extremist thoughts and destructive emotions to otherwise"

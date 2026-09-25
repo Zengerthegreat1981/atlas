@@ -1,6 +1,6 @@
 ---
 slug: "trm-lesions"
-id: "TRM-ENG-35808"
+id: "TRM-ENG-64866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lesions"

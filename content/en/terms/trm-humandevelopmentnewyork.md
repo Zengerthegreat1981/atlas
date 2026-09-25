@@ -1,6 +1,6 @@
 ---
 slug: "trm-humandevelopmentnewyork"
-id: "TRM-ENG-37826"
+id: "TRM-ENG-66884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "humandevelopment.NewYork"

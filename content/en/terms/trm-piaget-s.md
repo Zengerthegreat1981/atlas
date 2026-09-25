@@ -1,6 +1,6 @@
 ---
 slug: "trm-piaget-s"
-id: "TRM-ENG-41972"
+id: "TRM-ENG-56501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Piaget S"

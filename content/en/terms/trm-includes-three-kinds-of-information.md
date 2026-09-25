@@ -1,6 +1,6 @@
 ---
 slug: "trm-includes-three-kinds-of-information"
-id: "TRM-ENG-49488"
+id: "TRM-ENG-64017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "includes three kinds of information"

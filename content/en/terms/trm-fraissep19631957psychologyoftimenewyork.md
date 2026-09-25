@@ -1,6 +1,6 @@
 ---
 slug: "trm-fraissep19631957psychologyoftimenewyork"
-id: "TRM-ENG-36809"
+id: "TRM-ENG-51338"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fraisse,P.(1963/1957).Psychologyoftime.NewYork"

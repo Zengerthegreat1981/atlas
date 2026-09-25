@@ -1,6 +1,6 @@
 ---
 slug: "trm-couples-and-couple-therapy"
-id: "TRM-ENG-43654"
+id: "TRM-ENG-58183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "couples and couple therapy"

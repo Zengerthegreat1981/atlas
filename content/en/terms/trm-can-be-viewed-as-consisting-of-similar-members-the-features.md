@@ -1,6 +1,6 @@
 ---
 slug: "trm-can-be-viewed-as-consisting-of-similar-members-the-features"
-id: "TRM-ENG-44987"
+id: "TRM-ENG-59516"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "can be viewed as consisting of similar members, the features"

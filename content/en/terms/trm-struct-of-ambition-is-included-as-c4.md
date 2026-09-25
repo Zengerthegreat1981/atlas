@@ -1,6 +1,6 @@
 ---
 slug: "trm-struct-of-ambition-is-included-as-c4"
-id: "TRM-ENG-43849"
+id: "TRM-ENG-58378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "struct of ambition is included as C4"

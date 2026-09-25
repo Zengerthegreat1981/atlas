@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-76-15451586-doi"
-id: "TRM-ENG-43515"
+id: "TRM-ENG-58044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality, 76, 1545–1586. doi"

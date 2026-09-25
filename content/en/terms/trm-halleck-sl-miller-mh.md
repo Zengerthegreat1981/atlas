@@ -1,6 +1,6 @@
 ---
 slug: "trm-halleck-sl-miller-mh"
-id: "TRM-ENG-40890"
+id: "TRM-ENG-55419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Halleck SL, Miller MH"

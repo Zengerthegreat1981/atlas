@@ -1,6 +1,6 @@
 ---
 slug: "trm-were-common-to-all"
-id: "TRM-ENG-38434"
+id: "TRM-ENG-52963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "were common to all"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-inpatient-group-psychotherapy-philadelphia-pa"
-id: "TRM-ENG-51545"
+id: "TRM-ENG-66074"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inpatient group psychotherapy. Philadelphia, PA"

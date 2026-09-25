@@ -1,6 +1,6 @@
 ---
 slug: "trm-meanings-can-be-understood-and-generalizations-from-sto-see-also"
-id: "TRM-ENG-36682"
+id: "TRM-ENG-65740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "meanings can be understood, and generalizations from sto- See also"

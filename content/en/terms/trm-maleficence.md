@@ -1,6 +1,6 @@
 ---
 slug: "trm-maleficence"
-id: "TRM-ENG-48309"
+id: "TRM-ENG-62838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "maleficence"

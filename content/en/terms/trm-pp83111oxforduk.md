@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp83111oxforduk"
-id: "TRM-ENG-46362"
+id: "TRM-ENG-60891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.83±111).Oxford,UK"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-evidencebased-psychotherapy-1"
-id: "TRM-ENG-51443"
+id: "TRM-ENG-65972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "evidence-based psychotherapy, 1"

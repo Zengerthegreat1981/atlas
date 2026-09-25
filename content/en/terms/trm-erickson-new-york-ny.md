@@ -1,6 +1,6 @@
 ---
 slug: "trm-erickson-new-york-ny"
-id: "TRM-ENG-50362"
+id: "TRM-ENG-64891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erickson. New York, NY"

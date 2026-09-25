@@ -1,6 +1,6 @@
 ---
 slug: "trm-ter-schools-accountable-for-outcomes"
-id: "TRM-ENG-48808"
+id: "TRM-ENG-63337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ter schools accountable for outcomes"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-626-sholevar-gp-ed"
-id: "TRM-ENG-39250"
+id: "TRM-ENG-53779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "626. Sholevar GP (ed)"

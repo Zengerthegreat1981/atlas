@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldenruleoccursinleviticus19"
-id: "TRM-ENG-45702"
+id: "TRM-ENG-60231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "GOLDENRULE,occursinLeviticus19"

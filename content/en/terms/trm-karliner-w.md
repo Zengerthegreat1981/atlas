@@ -1,6 +1,6 @@
 ---
 slug: "trm-karliner-w"
-id: "TRM-ENG-41197"
+id: "TRM-ENG-55726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Karliner W"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnosing-personality-disorder"
-id: "TRM-ENG-44086"
+id: "TRM-ENG-58615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diagnosing personality disorder"

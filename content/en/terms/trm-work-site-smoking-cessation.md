@@ -1,6 +1,6 @@
 ---
 slug: "trm-work-site-smoking-cessation"
-id: "TRM-ENG-46770"
+id: "TRM-ENG-61299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Work site smoking cessation"

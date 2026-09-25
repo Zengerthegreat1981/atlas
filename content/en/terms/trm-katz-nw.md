@@ -1,6 +1,6 @@
 ---
 slug: "trm-katz-nw"
-id: "TRM-ENG-41211"
+id: "TRM-ENG-55740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Katz NW"

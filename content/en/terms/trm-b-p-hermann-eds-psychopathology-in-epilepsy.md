@@ -1,6 +1,6 @@
 ---
 slug: "trm-b-p-hermann-eds-psychopathology-in-epilepsy"
-id: "TRM-ENG-46417"
+id: "TRM-ENG-60946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "B. P. Hermann (Eds.), Psychopathology in epilepsy"

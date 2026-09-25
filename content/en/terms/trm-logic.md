@@ -1,6 +1,6 @@
 ---
 slug: "trm-logic"
-id: "TRM-ENG-52267"
+id: "TRM-ENG-66796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Logic"

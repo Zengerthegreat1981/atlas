@@ -1,6 +1,6 @@
 ---
 slug: "trm-yankura-j-dryden-w-1990-doing-ret"
-id: "TRM-ENG-51199"
+id: "TRM-ENG-65728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yankura, J., & Dryden, W. (1990). Doing RET"

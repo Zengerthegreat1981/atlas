@@ -1,6 +1,6 @@
 ---
 slug: "trm-argues-that-the-only-real"
-id: "TRM-ENG-44925"
+id: "TRM-ENG-59454"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "argues that the only “real”"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-payne-h-1992-dance-movement-therapy"
-id: "TRM-ENG-50845"
+id: "TRM-ENG-65374"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Payne, H. (1992). Dance movement therapy"

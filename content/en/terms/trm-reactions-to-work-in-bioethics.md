@@ -1,6 +1,6 @@
 ---
 slug: "trm-reactions-to-work-in-bioethics"
-id: "TRM-ENG-45773"
+id: "TRM-ENG-60302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reactions to work in bioethics"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-spivack-g-platt-jj-shure-mb"
-id: "TRM-ENG-42433"
+id: "TRM-ENG-56962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spivack G, Platt JJ, Shure MB"

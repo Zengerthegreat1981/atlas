@@ -1,6 +1,6 @@
 ---
 slug: "trm-ebersole-gd-leiderman-ph-yalom-id"
-id: "TRM-ENG-40406"
+id: "TRM-ENG-54935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ebersole GD, Leiderman PH, Yalom ID"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoretical-entities"
-id: "TRM-ENG-45594"
+id: "TRM-ENG-60123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoretical entities"

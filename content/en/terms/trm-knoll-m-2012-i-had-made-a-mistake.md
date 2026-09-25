@@ -1,6 +1,6 @@
 ---
 slug: "trm-knoll-m-2012-i-had-made-a-mistake"
-id: "TRM-ENG-46888"
+id: "TRM-ENG-61417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Knoll, M. (2012). “I had made a mistake”"

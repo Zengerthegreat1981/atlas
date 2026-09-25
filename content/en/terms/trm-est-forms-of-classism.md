@@ -1,6 +1,6 @@
 ---
 slug: "trm-est-forms-of-classism"
-id: "TRM-ENG-40079"
+id: "TRM-ENG-54608"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "est forms of classism"

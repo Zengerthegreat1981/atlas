@@ -1,6 +1,6 @@
 ---
 slug: "trm-linguistic-nativism-1"
-id: "TRM-ENG-46932"
+id: "TRM-ENG-61461"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linguistic nativism, 1"

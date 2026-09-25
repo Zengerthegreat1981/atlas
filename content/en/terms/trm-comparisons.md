@@ -1,6 +1,6 @@
 ---
 slug: "trm-comparisons"
-id: "TRM-ENG-36302"
+id: "TRM-ENG-65360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "comparisons"

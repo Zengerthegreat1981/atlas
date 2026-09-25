@@ -1,6 +1,6 @@
 ---
 slug: "trm-sierra-m-berrios-ge"
-id: "TRM-ENG-48068"
+id: "TRM-ENG-62597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sierra M, Berrios GE"

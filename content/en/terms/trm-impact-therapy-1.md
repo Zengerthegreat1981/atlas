@@ -1,6 +1,6 @@
 ---
 slug: "trm-impact-therapy-1"
-id: "TRM-ENG-51524"
+id: "TRM-ENG-66053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "impact therapy, 1"

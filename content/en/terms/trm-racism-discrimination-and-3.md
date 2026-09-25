@@ -1,6 +1,6 @@
 ---
 slug: "trm-racism-discrimination-and-3"
-id: "TRM-ENG-41422"
+id: "TRM-ENG-55951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "racism, discrimination and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-revised-and-expanded-by-j-l-geddie-edinburgh"
-id: "TRM-ENG-36434"
+id: "TRM-ENG-50963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Revised and expanded by J. L. Geddie). Edinburgh"

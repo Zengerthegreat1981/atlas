@@ -1,6 +1,6 @@
 ---
 slug: "trm-wittgenstein-ludwig-1"
-id: "TRM-ENG-47504"
+id: "TRM-ENG-62033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wittgenstein, Ludwig, 1"

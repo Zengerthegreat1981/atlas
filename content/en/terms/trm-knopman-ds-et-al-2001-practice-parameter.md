@@ -1,6 +1,6 @@
 ---
 slug: "trm-knopman-ds-et-al-2001-practice-parameter"
-id: "TRM-ENG-35794"
+id: "TRM-ENG-50323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Knopman, D.S., et al. (2001). Practice parameter"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-borsboom-d-2005-measuring-the-mind"
-id: "TRM-ENG-43395"
+id: "TRM-ENG-57924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Borsboom, D. (2005). Measuring the mind"

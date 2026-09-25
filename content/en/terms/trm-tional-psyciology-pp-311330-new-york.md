@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-psyciology-pp-311330-new-york"
-id: "TRM-ENG-35411"
+id: "TRM-ENG-64469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional psyc/iology (pp. 311-330). New York"

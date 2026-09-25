@@ -1,6 +1,6 @@
 ---
 slug: "trm-2002-parentchild-interaction-therapy"
-id: "TRM-ENG-49895"
+id: "TRM-ENG-64424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2002). Parent-child interaction therapy"

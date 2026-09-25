@@ -1,6 +1,6 @@
 ---
 slug: "trm-following-stages-of-career-counseling"
-id: "TRM-ENG-40226"
+id: "TRM-ENG-54755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "following stages of career counseling"

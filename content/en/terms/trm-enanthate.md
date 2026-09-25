@@ -1,6 +1,6 @@
 ---
 slug: "trm-enanthate"
-id: "TRM-ENG-40441"
+id: "TRM-ENG-54970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Enanthate"

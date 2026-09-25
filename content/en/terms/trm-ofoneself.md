@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofoneself"
-id: "TRM-ENG-43771"
+id: "TRM-ENG-58300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofoneself"

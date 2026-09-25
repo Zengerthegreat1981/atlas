@@ -1,6 +1,6 @@
 ---
 slug: "trm-835-benson-h-proctor-w"
-id: "TRM-ENG-39496"
+id: "TRM-ENG-54025"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "835. Benson H, Proctor W"

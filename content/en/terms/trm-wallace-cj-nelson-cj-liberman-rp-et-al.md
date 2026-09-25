@@ -1,6 +1,6 @@
 ---
 slug: "trm-wallace-cj-nelson-cj-liberman-rp-et-al"
-id: "TRM-ENG-42699"
+id: "TRM-ENG-57228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wallace CJ, Nelson CJ, Liberman RP, et al"

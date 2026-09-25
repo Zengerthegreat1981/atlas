@@ -1,6 +1,6 @@
 ---
 slug: "trm-abiding-way"
-id: "TRM-ENG-47530"
+id: "TRM-ENG-62059"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "abiding way"

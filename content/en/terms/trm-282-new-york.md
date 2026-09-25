@@ -1,6 +1,6 @@
 ---
 slug: "trm-282-new-york"
-id: "TRM-ENG-35549"
+id: "TRM-ENG-50078"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "282). New York"

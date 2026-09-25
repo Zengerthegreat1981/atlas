@@ -1,6 +1,6 @@
 ---
 slug: "trm-hav-sci-law-18"
-id: "TRM-ENG-48372"
+id: "TRM-ENG-62901"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hav Sci Law 18"

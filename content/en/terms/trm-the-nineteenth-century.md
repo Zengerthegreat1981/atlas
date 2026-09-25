@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-nineteenth-century"
-id: "TRM-ENG-45360"
+id: "TRM-ENG-59889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the nineteenth century"

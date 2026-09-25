@@ -1,6 +1,6 @@
 ---
 slug: "trm-midpoint-of-relaxation"
-id: "TRM-ENG-34935"
+id: "TRM-ENG-63993"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "midpoint of relaxation"

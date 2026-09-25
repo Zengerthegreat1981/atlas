@@ -1,6 +1,6 @@
 ---
 slug: "trm-ders-section"
-id: "TRM-ENG-42760"
+id: "TRM-ENG-57289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ders section"

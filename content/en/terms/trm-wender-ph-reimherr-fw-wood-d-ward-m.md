@@ -1,6 +1,6 @@
 ---
 slug: "trm-wender-ph-reimherr-fw-wood-d-ward-m"
-id: "TRM-ENG-42758"
+id: "TRM-ENG-57287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wender PH, Reimherr FW, Wood D, Ward M"

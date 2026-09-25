@@ -1,6 +1,6 @@
 ---
 slug: "trm-justiceanddealingwithonesownprivileges"
-id: "TRM-ENG-37903"
+id: "TRM-ENG-66961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "justiceanddealingwithone’sownprivileges"

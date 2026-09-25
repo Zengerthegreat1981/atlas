@@ -1,6 +1,6 @@
 ---
 slug: "trm-scale-1"
-id: "TRM-ENG-41559"
+id: "TRM-ENG-56088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scale, 1"

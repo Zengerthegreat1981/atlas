@@ -1,6 +1,6 @@
 ---
 slug: "trm-leagues-have-adopted-the-same-position"
-id: "TRM-ENG-40694"
+id: "TRM-ENG-55223"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "leagues have adopted the same position"

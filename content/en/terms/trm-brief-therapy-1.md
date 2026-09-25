@@ -1,6 +1,6 @@
 ---
 slug: "trm-brief-therapy-1"
-id: "TRM-ENG-51315"
+id: "TRM-ENG-65844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "brief therapy, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-orabushacarfeelsnothingwhileadogiscapable-one"
-id: "TRM-ENG-45978"
+id: "TRM-ENG-60507"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orabush.Acarfeelsnothing,whileadogiscapable one"

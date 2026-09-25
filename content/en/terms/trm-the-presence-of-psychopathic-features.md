@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-presence-of-psychopathic-features"
-id: "TRM-ENG-43306"
+id: "TRM-ENG-57835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the presence of psychopathic features"

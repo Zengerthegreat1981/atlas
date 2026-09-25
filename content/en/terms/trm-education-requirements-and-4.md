@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-requirements-and-4"
-id: "TRM-ENG-40005"
+id: "TRM-ENG-54534"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education requirements and, 4"

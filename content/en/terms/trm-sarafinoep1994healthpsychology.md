@@ -1,6 +1,6 @@
 ---
 slug: "trm-sarafinoep1994healthpsychology"
-id: "TRM-ENG-46703"
+id: "TRM-ENG-61232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sarafino,E.P.(1994).Healthpsychology"

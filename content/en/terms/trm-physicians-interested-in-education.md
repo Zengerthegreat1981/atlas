@@ -1,6 +1,6 @@
 ---
 slug: "trm-physicians-interested-in-education"
-id: "TRM-ENG-43144"
+id: "TRM-ENG-57673"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physicians interested in education"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dividualsego"
-id: "TRM-ENG-43618"
+id: "TRM-ENG-58147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dividual’sego"

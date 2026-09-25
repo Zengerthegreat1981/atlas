@@ -1,6 +1,6 @@
 ---
 slug: "trm-events-as-follows"
-id: "TRM-ENG-46971"
+id: "TRM-ENG-61500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "events as follows"

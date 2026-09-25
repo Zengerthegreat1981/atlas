@@ -1,6 +1,6 @@
 ---
 slug: "trm-order-world-psychiatry-9"
-id: "TRM-ENG-48500"
+id: "TRM-ENG-63029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "order. World Psychiatry 9"

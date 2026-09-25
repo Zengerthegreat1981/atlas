@@ -1,6 +1,6 @@
 ---
 slug: "trm-educid"
-id: "TRM-ENG-37711"
+id: "TRM-ENG-52240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "edu/(cid"

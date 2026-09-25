@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitivebehavioral-family-therapy-and-1"
-id: "TRM-ENG-51344"
+id: "TRM-ENG-65873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive-behavioral family therapy and, 1"

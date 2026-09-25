@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-patients-usually-are"
-id: "TRM-ENG-48639"
+id: "TRM-ENG-63168"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the patients usually are"

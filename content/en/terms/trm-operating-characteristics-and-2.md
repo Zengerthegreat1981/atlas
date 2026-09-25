@@ -1,6 +1,6 @@
 ---
 slug: "trm-operating-characteristics-and-2"
-id: "TRM-ENG-41047"
+id: "TRM-ENG-55576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "operating characteristics and, 2"

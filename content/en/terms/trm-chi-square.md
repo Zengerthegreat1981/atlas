@@ -1,6 +1,6 @@
 ---
 slug: "trm-chi-square"
-id: "TRM-ENG-52102"
+id: "TRM-ENG-66631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chi Square"

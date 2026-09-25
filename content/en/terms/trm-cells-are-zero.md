@@ -1,6 +1,6 @@
 ---
 slug: "trm-cells-are-zero"
-id: "TRM-ENG-35711"
+id: "TRM-ENG-64769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cells are zero"

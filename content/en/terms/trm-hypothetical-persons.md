@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypothetical-persons"
-id: "TRM-ENG-43701"
+id: "TRM-ENG-58230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hypothetical persons"

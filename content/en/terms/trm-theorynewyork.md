@@ -1,6 +1,6 @@
 ---
 slug: "trm-theorynewyork"
-id: "TRM-ENG-38335"
+id: "TRM-ENG-52864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory.NewYork"

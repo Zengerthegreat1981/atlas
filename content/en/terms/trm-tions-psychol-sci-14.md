@@ -1,6 +1,6 @@
 ---
 slug: "trm-tions-psychol-sci-14"
-id: "TRM-ENG-48680"
+id: "TRM-ENG-63209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions. Psychol Sci 14"

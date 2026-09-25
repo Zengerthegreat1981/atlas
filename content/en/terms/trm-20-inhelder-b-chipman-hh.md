@@ -1,6 +1,6 @@
 ---
 slug: "trm-20-inhelder-b-chipman-hh"
-id: "TRM-ENG-38710"
+id: "TRM-ENG-53239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "20. Inhelder B, Chipman HH"

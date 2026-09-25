@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-counseling-models-and-4"
-id: "TRM-ENG-39414"
+id: "TRM-ENG-53943"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career counseling models and, 4"

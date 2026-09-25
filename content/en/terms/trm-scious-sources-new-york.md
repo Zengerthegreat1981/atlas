@@ -1,6 +1,6 @@
 ---
 slug: "trm-scious-sources-new-york"
-id: "TRM-ENG-43192"
+id: "TRM-ENG-57721"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scious sources. New York"

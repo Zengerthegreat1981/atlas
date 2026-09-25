@@ -1,6 +1,6 @@
 ---
 slug: "trm-values-and-frames-pp-693708-new-york-ny"
-id: "TRM-ENG-45673"
+id: "TRM-ENG-60202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "values, and frames ( pp. 693–708). New York, NY"

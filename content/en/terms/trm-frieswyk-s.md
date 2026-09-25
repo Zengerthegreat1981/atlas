@@ -1,6 +1,6 @@
 ---
 slug: "trm-frieswyk-s"
-id: "TRM-ENG-40632"
+id: "TRM-ENG-55161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frieswyk S"

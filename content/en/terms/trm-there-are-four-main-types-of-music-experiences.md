@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-are-four-main-types-of-music-experiences"
-id: "TRM-ENG-51104"
+id: "TRM-ENG-65633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "There are four main types of music experiences"

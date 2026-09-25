@@ -1,6 +1,6 @@
 ---
 slug: "trm-chopathy-and-brain-function"
-id: "TRM-ENG-42724"
+id: "TRM-ENG-57253"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chopathy and brain function"

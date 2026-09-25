@@ -1,6 +1,6 @@
 ---
 slug: "trm-reauthorizations-of-1"
-id: "TRM-ENG-41438"
+id: "TRM-ENG-55967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reauthorizations of, 1"

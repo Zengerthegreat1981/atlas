@@ -1,6 +1,6 @@
 ---
 slug: "trm-transparency"
-id: "TRM-ENG-42034"
+id: "TRM-ENG-56563"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transparency"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-freedom"
-id: "TRM-ENG-45050"
+id: "TRM-ENG-59579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "freedom"

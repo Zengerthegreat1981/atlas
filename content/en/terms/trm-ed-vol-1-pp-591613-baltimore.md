@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-vol-1-pp-591613-baltimore"
-id: "TRM-ENG-42796"
+id: "TRM-ENG-57325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ed., Vol. 1, pp. 591–613). Baltimore"

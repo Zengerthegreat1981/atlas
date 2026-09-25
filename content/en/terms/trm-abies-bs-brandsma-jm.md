@@ -1,6 +1,6 @@
 ---
 slug: "trm-abies-bs-brandsma-jm"
-id: "TRM-ENG-39623"
+id: "TRM-ENG-54152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abies BS, Brandsma JM"

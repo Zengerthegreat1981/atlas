@@ -1,6 +1,6 @@
 ---
 slug: "trm-olis"
-id: "TRM-ENG-45973"
+id: "TRM-ENG-60502"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "olis"

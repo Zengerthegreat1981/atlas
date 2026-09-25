@@ -1,6 +1,6 @@
 ---
 slug: "trm-science-310"
-id: "TRM-ENG-34685"
+id: "TRM-ENG-49214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Science 310"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-social-brain"
-id: "TRM-ENG-34699"
+id: "TRM-ENG-63757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Social Brain"

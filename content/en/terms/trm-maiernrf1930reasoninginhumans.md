@@ -1,6 +1,6 @@
 ---
 slug: "trm-maiernrf1930reasoninginhumans"
-id: "TRM-ENG-37047"
+id: "TRM-ENG-66105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maier,N.R.F.(1930).Reasoninginhumans"

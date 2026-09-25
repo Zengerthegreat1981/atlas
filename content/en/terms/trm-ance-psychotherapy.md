@@ -1,6 +1,6 @@
 ---
 slug: "trm-ance-psychotherapy"
-id: "TRM-ENG-48182"
+id: "TRM-ENG-62711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ance. Psychotherapy"

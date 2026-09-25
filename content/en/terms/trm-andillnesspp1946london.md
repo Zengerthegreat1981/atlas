@@ -1,6 +1,6 @@
 ---
 slug: "trm-andillnesspp1946london"
-id: "TRM-ENG-46815"
+id: "TRM-ENG-61344"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andIllness(pp.19±46).London"

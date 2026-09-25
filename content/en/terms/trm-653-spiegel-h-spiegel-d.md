@@ -1,6 +1,6 @@
 ---
 slug: "trm-653-spiegel-h-spiegel-d"
-id: "TRM-ENG-39281"
+id: "TRM-ENG-53810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "653. Spiegel H, Spiegel D"

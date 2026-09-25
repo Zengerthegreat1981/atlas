@@ -1,6 +1,6 @@
 ---
 slug: "trm-arrival-pattern-factor-in-3"
-id: "TRM-ENG-39252"
+id: "TRM-ENG-53781"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "arrival pattern factor in, 3"

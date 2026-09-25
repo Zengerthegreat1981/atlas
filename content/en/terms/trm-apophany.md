@@ -1,6 +1,6 @@
 ---
 slug: "trm-apophany"
-id: "TRM-ENG-52057"
+id: "TRM-ENG-66586"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Apophany"

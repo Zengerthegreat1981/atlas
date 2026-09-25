@@ -1,6 +1,6 @@
 ---
 slug: "trm-see-also-coping-learned-helplessness"
-id: "TRM-ENG-34833"
+id: "TRM-ENG-63891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "[See also Coping; Learned Helplessness"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-underuncertainty"
-id: "TRM-ENG-47368"
+id: "TRM-ENG-61897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "underuncertainty"

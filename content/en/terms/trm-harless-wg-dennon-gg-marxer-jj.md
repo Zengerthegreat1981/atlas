@@ -1,6 +1,6 @@
 ---
 slug: "trm-harless-wg-dennon-gg-marxer-jj"
-id: "TRM-ENG-40911"
+id: "TRM-ENG-55440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Harless WG, Dennon GG, Marxer JJ"

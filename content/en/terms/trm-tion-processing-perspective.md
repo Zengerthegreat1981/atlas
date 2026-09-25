@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-processing-perspective"
-id: "TRM-ENG-37183"
+id: "TRM-ENG-66241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion processing perspective"

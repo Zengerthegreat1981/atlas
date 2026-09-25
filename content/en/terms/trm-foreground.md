@@ -1,6 +1,6 @@
 ---
 slug: "trm-foreground"
-id: "TRM-ENG-43047"
+id: "TRM-ENG-57576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "foreground"

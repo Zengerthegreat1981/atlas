@@ -1,6 +1,6 @@
 ---
 slug: "trm-formulated-argumentation"
-id: "TRM-ENG-48050"
+id: "TRM-ENG-62579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "formulated argumentation"

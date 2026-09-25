@@ -1,6 +1,6 @@
 ---
 slug: "trm-radiation-therapy-can-cause-fatigue-some-ques-cid"
-id: "TRM-ENG-45929"
+id: "TRM-ENG-60458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Radiation therapy can cause fatigue. Some ques- (cid"

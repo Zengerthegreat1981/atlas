@@ -1,6 +1,6 @@
 ---
 slug: "trm-progressioninmeninfectedwithhiv"
-id: "TRM-ENG-47222"
+id: "TRM-ENG-61751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "progressioninmeninfectedwithHIV"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-thoughts-inventorycti-4"
-id: "TRM-ENG-37786"
+id: "TRM-ENG-66844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Career Thoughts Inventory(CTI), 4"

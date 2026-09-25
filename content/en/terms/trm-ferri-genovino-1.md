@@ -1,6 +1,6 @@
 ---
 slug: "trm-ferri-genovino-1"
-id: "TRM-ENG-50400"
+id: "TRM-ENG-64929"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ferri, Genovino, 1"

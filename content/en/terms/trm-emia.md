@@ -1,6 +1,6 @@
 ---
 slug: "trm-emia"
-id: "TRM-ENG-43631"
+id: "TRM-ENG-58160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emia."

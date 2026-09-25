@@ -1,6 +1,6 @@
 ---
 slug: "trm-ulation-one-needs-to-go-through-six-steps"
-id: "TRM-ENG-36226"
+id: "TRM-ENG-65284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ulation, one needs to go through six steps"

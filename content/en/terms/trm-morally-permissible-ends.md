@@ -1,6 +1,6 @@
 ---
 slug: "trm-morally-permissible-ends"
-id: "TRM-ENG-48373"
+id: "TRM-ENG-62902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "morally permissible ends"

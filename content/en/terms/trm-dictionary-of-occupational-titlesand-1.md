@@ -1,6 +1,6 @@
 ---
 slug: "trm-dictionary-of-occupational-titlesand-1"
-id: "TRM-ENG-37958"
+id: "TRM-ENG-52487"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dictionary of Occupational Titlesand, 1"

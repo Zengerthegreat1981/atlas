@@ -1,6 +1,6 @@
 ---
 slug: "trm-klebedenken"
-id: "TRM-ENG-52255"
+id: "TRM-ENG-66784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Klebedenken"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ality-disorders-study-i"
-id: "TRM-ENG-48173"
+id: "TRM-ENG-62702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ality Disorders Study, I"

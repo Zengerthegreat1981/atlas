@@ -1,6 +1,6 @@
 ---
 slug: "trm-so-here-we-get-to-the-nub-of-the-matter"
-id: "TRM-ENG-47300"
+id: "TRM-ENG-61829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "So here we get to the nub of the matter"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dasein-1"
-id: "TRM-ENG-46484"
+id: "TRM-ENG-61013"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dasein, 1"

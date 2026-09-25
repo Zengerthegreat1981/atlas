@@ -1,6 +1,6 @@
 ---
 slug: "trm-antidepressants-los-angeles"
-id: "TRM-ENG-45751"
+id: "TRM-ENG-60280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Antidepressants. Los Angeles"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-relativism"
-id: "TRM-ENG-48647"
+id: "TRM-ENG-63176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relativism"

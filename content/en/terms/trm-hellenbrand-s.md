@@ -1,6 +1,6 @@
 ---
 slug: "trm-hellenbrand-s"
-id: "TRM-ENG-40967"
+id: "TRM-ENG-55496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hellenbrand S"

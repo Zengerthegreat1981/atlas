@@ -1,6 +1,6 @@
 ---
 slug: "trm-spurzheim-jg-1827-outlines-of-phrenology"
-id: "TRM-ENG-35974"
+id: "TRM-ENG-50503"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spurzheim, J.G. (1827). Outlines of phrenology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-verger-d-m-and-camp-w-l-early-recollections"
-id: "TRM-ENG-44683"
+id: "TRM-ENG-59212"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Verger, D. M., and Camp, W. L., “Early Recollections"

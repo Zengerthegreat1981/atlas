@@ -1,6 +1,6 @@
 ---
 slug: "trm-adventure-therapy-and-1"
-id: "TRM-ENG-39124"
+id: "TRM-ENG-53653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adventure therapy and, 1"

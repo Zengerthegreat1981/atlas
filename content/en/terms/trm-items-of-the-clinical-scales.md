@@ -1,6 +1,6 @@
 ---
 slug: "trm-items-of-the-clinical-scales"
-id: "TRM-ENG-36604"
+id: "TRM-ENG-65662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "items of the clinical scales"

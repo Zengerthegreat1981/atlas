@@ -1,6 +1,6 @@
 ---
 slug: "trm-giovacchini-pl"
-id: "TRM-ENG-47673"
+id: "TRM-ENG-62202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Giovacchini PL"

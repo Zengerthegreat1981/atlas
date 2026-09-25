@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-item-response-theory-tradition-tkcid"
-id: "TRM-ENG-35590"
+id: "TRM-ENG-64648"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The iTeM resPonse Theory TraDiTion T(k|(cid"

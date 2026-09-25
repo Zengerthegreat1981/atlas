@@ -1,6 +1,6 @@
 ---
 slug: "trm-logram-meg-rather-than"
-id: "TRM-ENG-35914"
+id: "TRM-ENG-64972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "logram [MEG]) rather than"

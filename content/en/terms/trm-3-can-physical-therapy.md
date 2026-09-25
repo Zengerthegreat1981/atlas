@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-can-physical-therapy"
-id: "TRM-ENG-44207"
+id: "TRM-ENG-58736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Can physical therapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodall-j-1986-the-chimpanzees-of-gombe"
-id: "TRM-ENG-34622"
+id: "TRM-ENG-63680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodall, J. (1986). The chimpanzees of Gombe"

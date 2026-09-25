@@ -1,6 +1,6 @@
 ---
 slug: "trm-soloff-ph-fabio-a-kelly-tm-et-al"
-id: "TRM-ENG-48091"
+id: "TRM-ENG-62620"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Soloff PH, Fabio A, Kelly TM, et al"

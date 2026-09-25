@@ -1,6 +1,6 @@
 ---
 slug: "trm-golan-se-eisdorfer-c"
-id: "TRM-ENG-40741"
+id: "TRM-ENG-55270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Golan SE, Eisdorfer C"

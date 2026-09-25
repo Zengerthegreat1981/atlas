@@ -1,6 +1,6 @@
 ---
 slug: "trm-average"
-id: "TRM-ENG-45541"
+id: "TRM-ENG-60070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "average"

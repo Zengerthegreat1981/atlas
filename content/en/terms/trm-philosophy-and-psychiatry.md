@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy-and-psychiatry"
-id: "TRM-ENG-45240"
+id: "TRM-ENG-59769"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "philosophy and psychiatry"

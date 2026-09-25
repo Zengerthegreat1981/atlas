@@ -1,6 +1,6 @@
 ---
 slug: "trm-so-self-evident"
-id: "TRM-ENG-45306"
+id: "TRM-ENG-59835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "so self- evident"

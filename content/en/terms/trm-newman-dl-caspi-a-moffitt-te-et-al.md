@@ -1,6 +1,6 @@
 ---
 slug: "trm-newman-dl-caspi-a-moffitt-te-et-al"
-id: "TRM-ENG-47899"
+id: "TRM-ENG-62428"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newman DL, Caspi A, Moffitt TE, et al"

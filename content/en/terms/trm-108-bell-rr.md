@@ -1,6 +1,6 @@
 ---
 slug: "trm-108-bell-rr"
-id: "TRM-ENG-38562"
+id: "TRM-ENG-53091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "108. Bell RR"

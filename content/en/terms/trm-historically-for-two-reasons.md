@@ -1,6 +1,6 @@
 ---
 slug: "trm-historically-for-two-reasons"
-id: "TRM-ENG-52571"
+id: "TRM-ENG-67100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "historically for two reasons"

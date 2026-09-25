@@ -1,6 +1,6 @@
 ---
 slug: "trm-forer-b-1949-the-fallacy-of-personal-validation"
-id: "TRM-ENG-52505"
+id: "TRM-ENG-67034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Forer, B. (1949). The fallacy of personal validation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-now-available-us-trade-name"
-id: "TRM-ENG-43759"
+id: "TRM-ENG-58288"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "now available. U.S. trade name"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-integrative-approaches-and-1"
-id: "TRM-ENG-51548"
+id: "TRM-ENG-66077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "integrative approaches and, 1"

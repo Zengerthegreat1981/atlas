@@ -1,6 +1,6 @@
 ---
 slug: "trm-counselordirected-intervention-outcomes-and-4"
-id: "TRM-ENG-39768"
+id: "TRM-ENG-54297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "counselor-directed intervention outcomes and, 4"

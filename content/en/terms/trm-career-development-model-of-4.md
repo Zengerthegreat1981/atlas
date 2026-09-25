@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-development-model-of-4"
-id: "TRM-ENG-39427"
+id: "TRM-ENG-53956"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career development model of, 4"

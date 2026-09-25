@@ -1,6 +1,6 @@
 ---
 slug: "trm-holmes-j-2001-the-search-for-the-secure-base"
-id: "TRM-ENG-50544"
+id: "TRM-ENG-65073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Holmes, J. (2001). The search for the secure base"

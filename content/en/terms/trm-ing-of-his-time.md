@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-of-his-time"
-id: "TRM-ENG-48196"
+id: "TRM-ENG-62725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing of his time"

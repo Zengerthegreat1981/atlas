@@ -1,6 +1,6 @@
 ---
 slug: "trm-encedperson"
-id: "TRM-ENG-43635"
+id: "TRM-ENG-58164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "encedperson"

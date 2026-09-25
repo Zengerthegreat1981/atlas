@@ -1,6 +1,6 @@
 ---
 slug: "trm-jones-a-1999-the-limits-of-crosscultural-dialogue"
-id: "TRM-ENG-46851"
+id: "TRM-ENG-61380"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jones, A. (1999). The limits of cross-cultural dialogue"

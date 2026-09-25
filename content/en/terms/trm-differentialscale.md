@@ -1,6 +1,6 @@
 ---
 slug: "trm-differentialscale"
-id: "TRM-ENG-46501"
+id: "TRM-ENG-61030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DifferentialScale"

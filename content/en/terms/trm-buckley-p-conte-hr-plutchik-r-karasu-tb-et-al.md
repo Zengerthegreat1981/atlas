@@ -1,6 +1,6 @@
 ---
 slug: "trm-buckley-p-conte-hr-plutchik-r-karasu-tb-et-al"
-id: "TRM-ENG-40068"
+id: "TRM-ENG-54597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buckley P, Conte HR, Plutchik R, Karasu TB, et al"

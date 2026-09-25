@@ -1,6 +1,6 @@
 ---
 slug: "trm-92-belkin-gs"
-id: "TRM-ENG-39595"
+id: "TRM-ENG-54124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "92. Belkin GS"

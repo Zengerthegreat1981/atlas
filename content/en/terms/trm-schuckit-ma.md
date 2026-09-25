@@ -1,6 +1,6 @@
 ---
 slug: "trm-schuckit-ma"
-id: "TRM-ENG-42280"
+id: "TRM-ENG-56809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schuckit MA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilson-g-group-work-and-case-work"
-id: "TRM-ENG-42817"
+id: "TRM-ENG-57346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilson G: Group Work and Case Work"

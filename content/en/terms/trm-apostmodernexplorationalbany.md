@@ -1,6 +1,6 @@
 ---
 slug: "trm-apostmodernexplorationalbany"
-id: "TRM-ENG-36561"
+id: "TRM-ENG-65619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Apostmodernexploration.Albany"

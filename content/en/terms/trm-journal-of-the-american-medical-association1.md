@@ -1,6 +1,6 @@
 ---
 slug: "trm-journal-of-the-american-medical-association1"
-id: "TRM-ENG-38305"
+id: "TRM-ENG-52834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Journal of the American Medical Association,1"

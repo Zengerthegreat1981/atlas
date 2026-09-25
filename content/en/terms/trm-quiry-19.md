@@ -1,6 +1,6 @@
 ---
 slug: "trm-quiry-19"
-id: "TRM-ENG-48553"
+id: "TRM-ENG-63082"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "quiry 19"

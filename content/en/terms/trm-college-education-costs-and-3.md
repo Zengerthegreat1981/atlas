@@ -1,6 +1,6 @@
 ---
 slug: "trm-college-education-costs-and-3"
-id: "TRM-ENG-39580"
+id: "TRM-ENG-54109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "college education costs and, 3"

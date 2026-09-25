@@ -1,6 +1,6 @@
 ---
 slug: "trm-hammons-hg-ed"
-id: "TRM-ENG-40901"
+id: "TRM-ENG-55430"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hammons HG (ed)"

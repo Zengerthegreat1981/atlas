@@ -1,6 +1,6 @@
 ---
 slug: "trm-tiating-normal-and-disordered-personality-using-ity"
-id: "TRM-ENG-43332"
+id: "TRM-ENG-57861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tiating normal and disordered personality using ity"

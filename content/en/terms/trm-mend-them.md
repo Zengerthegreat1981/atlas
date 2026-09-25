@@ -1,6 +1,6 @@
 ---
 slug: "trm-mend-them"
-id: "TRM-ENG-48331"
+id: "TRM-ENG-62860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mend them"

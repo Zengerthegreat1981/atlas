@@ -1,6 +1,6 @@
 ---
 slug: "trm-standarderrorofestimatesymbol"
-id: "TRM-ENG-43881"
+id: "TRM-ENG-58410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "standarderrorofestimate(symbol"

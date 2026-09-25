@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-in-severe-cases-congestive-heart-failure-can-to-1994"
-id: "TRM-ENG-46024"
+id: "TRM-ENG-60553"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and, in severe cases, congestive heart failure can to 1994)"

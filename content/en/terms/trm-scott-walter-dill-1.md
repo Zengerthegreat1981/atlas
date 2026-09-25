@@ -1,6 +1,6 @@
 ---
 slug: "trm-scott-walter-dill-1"
-id: "TRM-ENG-38735"
+id: "TRM-ENG-53264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scott, Walter Dill, 1"

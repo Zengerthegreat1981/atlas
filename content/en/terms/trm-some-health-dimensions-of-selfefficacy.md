@@ -1,6 +1,6 @@
 ---
 slug: "trm-some-health-dimensions-of-selfefficacy"
-id: "TRM-ENG-46723"
+id: "TRM-ENG-61252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Some health dimensions of self-efficacy"

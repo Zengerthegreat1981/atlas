@@ -1,6 +1,6 @@
 ---
 slug: "trm-careerlife-paradigm-and-4"
-id: "TRM-ENG-39449"
+id: "TRM-ENG-53978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career/life paradigm and, 4"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kinsbourne-marcel-1"
-id: "TRM-ENG-44570"
+id: "TRM-ENG-59099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kinsbourne, Marcel, 1"

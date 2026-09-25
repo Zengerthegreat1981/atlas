@@ -1,6 +1,6 @@
 ---
 slug: "trm-bandura-a-ross-d-ross-sa"
-id: "TRM-ENG-39799"
+id: "TRM-ENG-54328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bandura A, Ross D, Ross SA"

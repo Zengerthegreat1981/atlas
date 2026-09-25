@@ -1,6 +1,6 @@
 ---
 slug: "trm-than-a-reduced-feedback-frequency"
-id: "TRM-ENG-45564"
+id: "TRM-ENG-60093"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "than a reduced feedback frequency"

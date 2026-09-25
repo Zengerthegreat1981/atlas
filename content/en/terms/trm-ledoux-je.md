@@ -1,6 +1,6 @@
 ---
 slug: "trm-ledoux-je"
-id: "TRM-ENG-47819"
+id: "TRM-ENG-62348"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "LeDoux JE"

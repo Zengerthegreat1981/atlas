@@ -1,6 +1,6 @@
 ---
 slug: "trm-fenses"
-id: "TRM-ENG-48352"
+id: "TRM-ENG-62881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fenses"

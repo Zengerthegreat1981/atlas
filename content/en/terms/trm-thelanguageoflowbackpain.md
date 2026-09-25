@@ -1,6 +1,6 @@
 ---
 slug: "trm-thelanguageoflowbackpain"
-id: "TRM-ENG-46744"
+id: "TRM-ENG-61273"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thelanguageoflowbackpain"

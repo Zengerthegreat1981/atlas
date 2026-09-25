@@ -1,6 +1,6 @@
 ---
 slug: "trm-internal-dialogues"
-id: "TRM-ENG-43087"
+id: "TRM-ENG-57616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "internal dialogues"

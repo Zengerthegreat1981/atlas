@@ -1,6 +1,6 @@
 ---
 slug: "trm-reich-w-1973-ether-god-and-devil-new-york-ny"
-id: "TRM-ENG-50942"
+id: "TRM-ENG-65471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reich, W. (1973). Ether, god and devil. New York, NY"

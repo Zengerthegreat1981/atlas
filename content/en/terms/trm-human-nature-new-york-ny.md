@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-nature-new-york-ny"
-id: "TRM-ENG-43700"
+id: "TRM-ENG-58229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human nature. New York, NY"

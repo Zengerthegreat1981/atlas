@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolcotts-data-analysis-strategy-and-1"
-id: "TRM-ENG-39048"
+id: "TRM-ENG-53577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolcott’s data analysis strategy and, 1"

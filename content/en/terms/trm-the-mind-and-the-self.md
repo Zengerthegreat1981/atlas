@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-mind-and-the-self"
-id: "TRM-ENG-48845"
+id: "TRM-ENG-63374"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the mind and the self"

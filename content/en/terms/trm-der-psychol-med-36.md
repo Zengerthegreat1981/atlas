@@ -1,6 +1,6 @@
 ---
 slug: "trm-der-psychol-med-36"
-id: "TRM-ENG-48299"
+id: "TRM-ENG-62828"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "der. Psychol Med 36"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-imagery-mnemonics"
-id: "TRM-ENG-44537"
+id: "TRM-ENG-59066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Imagery Mnemonics"

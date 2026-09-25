@@ -1,6 +1,6 @@
 ---
 slug: "trm-populationswashington-dc"
-id: "TRM-ENG-41196"
+id: "TRM-ENG-55725"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "populations.Washington, DC"

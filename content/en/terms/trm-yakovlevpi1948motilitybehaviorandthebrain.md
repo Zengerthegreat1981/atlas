@@ -1,6 +1,6 @@
 ---
 slug: "trm-yakovlevpi1948motilitybehaviorandthebrain"
-id: "TRM-ENG-37453"
+id: "TRM-ENG-51982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yakovlev,P.I.(1948).Motility,behaviorandthebrain"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-subtests"
-id: "TRM-ENG-41958"
+id: "TRM-ENG-56487"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three subtests"

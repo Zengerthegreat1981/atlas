@@ -1,6 +1,6 @@
 ---
 slug: "trm-educationalpsychology"
-id: "TRM-ENG-36765"
+id: "TRM-ENG-51294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Educationalpsychology"

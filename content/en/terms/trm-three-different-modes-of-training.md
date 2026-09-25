@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-different-modes-of-training"
-id: "TRM-ENG-45606"
+id: "TRM-ENG-60135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three different modes of training"

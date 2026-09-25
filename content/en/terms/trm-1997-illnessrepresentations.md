@@ -1,6 +1,6 @@
 ---
 slug: "trm-1997-illnessrepresentations"
-id: "TRM-ENG-46316"
+id: "TRM-ENG-60845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1997). Illnessrepresentations"

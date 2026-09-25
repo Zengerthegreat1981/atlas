@@ -1,6 +1,6 @@
 ---
 slug: "trm-skinner-b-f-1974-about-behaviorismnew-york"
-id: "TRM-ENG-38782"
+id: "TRM-ENG-53311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Skinner, B. F. (1974). About behaviorism.New York"

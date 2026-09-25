@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-brain-damage"
-id: "TRM-ENG-46993"
+id: "TRM-ENG-61522"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from brain damage"

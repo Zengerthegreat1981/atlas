@@ -1,6 +1,6 @@
 ---
 slug: "trm-new-york-state-counselors-association"
-id: "TRM-ENG-41832"
+id: "TRM-ENG-56361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "New York State Counselors Association"

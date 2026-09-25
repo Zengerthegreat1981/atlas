@@ -1,6 +1,6 @@
 ---
 slug: "trm-explained-without-reference-to-anything-outside-it-if-thing"
-id: "TRM-ENG-45121"
+id: "TRM-ENG-59650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "explained without reference to anything outside it. If thing"

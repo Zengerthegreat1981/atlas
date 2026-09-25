@@ -1,6 +1,6 @@
 ---
 slug: "trm-family-new-york-free-press-bell-nw-vogel-ef-eds"
-id: "TRM-ENG-40490"
+id: "TRM-ENG-55019"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Family. New York, Free Press Bell NW, Vogel EF (eds)"

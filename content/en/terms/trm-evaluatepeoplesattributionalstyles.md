@@ -1,6 +1,6 @@
 ---
 slug: "trm-evaluatepeoplesattributionalstyles"
-id: "TRM-ENG-43642"
+id: "TRM-ENG-58171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "evaluatepeople’sattributionalstyles"

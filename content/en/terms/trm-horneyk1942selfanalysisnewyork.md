@@ -1,6 +1,6 @@
 ---
 slug: "trm-horneyk1942selfanalysisnewyork"
-id: "TRM-ENG-36920"
+id: "TRM-ENG-51449"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Horney,K.(1942).Self-analysis.NewYork"

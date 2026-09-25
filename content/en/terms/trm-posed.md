@@ -1,6 +1,6 @@
 ---
 slug: "trm-posed"
-id: "TRM-ENG-38106"
+id: "TRM-ENG-52635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "posed"

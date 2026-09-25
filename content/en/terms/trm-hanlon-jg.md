@@ -1,6 +1,6 @@
 ---
 slug: "trm-hanlon-jg"
-id: "TRM-ENG-40905"
+id: "TRM-ENG-55434"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hanlon JG"

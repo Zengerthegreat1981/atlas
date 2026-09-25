@@ -1,6 +1,6 @@
 ---
 slug: "trm-atric-diagnoses-am-j-psychiatry-160"
-id: "TRM-ENG-48211"
+id: "TRM-ENG-62740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "atric diagnoses. Am J Psychiatry 160"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jacobson-n-s-truax-p-1991-clinical-significance"
-id: "TRM-ENG-38274"
+id: "TRM-ENG-52803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jacobson, N. S., & Truax, P. (1991). Clinical significance"

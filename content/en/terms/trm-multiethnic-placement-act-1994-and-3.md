@@ -1,6 +1,6 @@
 ---
 slug: "trm-multiethnic-placement-act-1994-and-3"
-id: "TRM-ENG-38460"
+id: "TRM-ENG-52989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Multiethnic Placement Act (1994) and, 3"

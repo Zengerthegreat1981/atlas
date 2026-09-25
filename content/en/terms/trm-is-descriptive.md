@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-descriptive"
-id: "TRM-ENG-40645"
+id: "TRM-ENG-55174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is descriptive"

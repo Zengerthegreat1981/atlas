@@ -1,6 +1,6 @@
 ---
 slug: "trm-prototypes-1"
-id: "TRM-ENG-44719"
+id: "TRM-ENG-59248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Prototypes, 1"

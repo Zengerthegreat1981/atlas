@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-clinical-handbook-pp-336-washington-dc"
-id: "TRM-ENG-42305"
+id: "TRM-ENG-56834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A clinical handbook (pp. 3–36). Washington, DC"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-s-s-z-cid"
-id: "TRM-ENG-35542"
+id: "TRM-ENG-64600"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "S −S =z  (cid"

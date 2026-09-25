@@ -1,6 +1,6 @@
 ---
 slug: "trm-b-industry"
-id: "TRM-ENG-44910"
+id: "TRM-ENG-59439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "b. Industry"

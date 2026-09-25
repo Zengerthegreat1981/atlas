@@ -1,6 +1,6 @@
 ---
 slug: "trm-strauss-a-ed-1964-george-herbert-mead"
-id: "TRM-ENG-47352"
+id: "TRM-ENG-61881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strauss, A. (Ed.). (1964). George Herbert Mead"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-deep-democracy-2"
-id: "TRM-ENG-50302"
+id: "TRM-ENG-64831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deep democracy, 2"

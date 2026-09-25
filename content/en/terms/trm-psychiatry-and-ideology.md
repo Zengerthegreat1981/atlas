@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatry-and-ideology"
-id: "TRM-ENG-44807"
+id: "TRM-ENG-59336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Psychiatry and Ideology"

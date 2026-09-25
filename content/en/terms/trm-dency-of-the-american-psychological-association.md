@@ -1,6 +1,6 @@
 ---
 slug: "trm-dency-of-the-american-psychological-association"
-id: "TRM-ENG-47875"
+id: "TRM-ENG-62404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dency of the American Psychological Association"

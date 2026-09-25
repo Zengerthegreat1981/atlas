@@ -1,6 +1,6 @@
 ---
 slug: "trm-bergin-ii"
-id: "TRM-ENG-39899"
+id: "TRM-ENG-54428"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bergin II"

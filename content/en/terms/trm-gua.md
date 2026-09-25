@@ -1,6 +1,6 @@
 ---
 slug: "trm-gua"
-id: "TRM-ENG-37801"
+id: "TRM-ENG-52330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gua"

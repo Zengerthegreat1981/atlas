@@ -1,6 +1,6 @@
 ---
 slug: "trm-noshpitz-jd"
-id: "TRM-ENG-41852"
+id: "TRM-ENG-56381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Noshpitz, JD"

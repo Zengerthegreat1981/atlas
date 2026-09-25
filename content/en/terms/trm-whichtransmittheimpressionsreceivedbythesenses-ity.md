@@ -1,6 +1,6 @@
 ---
 slug: "trm-whichtransmittheimpressionsreceivedbythesenses-ity"
-id: "TRM-ENG-38447"
+id: "TRM-ENG-52976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "whichtransmittheimpressionsreceivedbythesenses, ity"

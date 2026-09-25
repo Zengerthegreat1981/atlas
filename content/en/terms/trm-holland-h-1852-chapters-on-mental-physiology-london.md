@@ -1,6 +1,6 @@
 ---
 slug: "trm-holland-h-1852-chapters-on-mental-physiology-london"
-id: "TRM-ENG-36908"
+id: "TRM-ENG-51437"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Holland, H. (1852). Chapters on Mental Physiology. London"

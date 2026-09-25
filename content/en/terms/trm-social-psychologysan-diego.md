@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-psychologysan-diego"
-id: "TRM-ENG-37010"
+id: "TRM-ENG-66068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social psychology.San Diego"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-33-277294-doi"
-id: "TRM-ENG-43536"
+id: "TRM-ENG-58065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology, 33, 277–294. doi"

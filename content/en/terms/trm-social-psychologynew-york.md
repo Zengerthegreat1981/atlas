@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-psychologynew-york"
-id: "TRM-ENG-37009"
+id: "TRM-ENG-66067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social psychology.New York"

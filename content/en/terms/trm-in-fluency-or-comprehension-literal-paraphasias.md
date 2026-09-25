@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-fluency-or-comprehension-literal-paraphasias"
-id: "TRM-ENG-36550"
+id: "TRM-ENG-65608"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in fluency or comprehension. Literal paraphasias"

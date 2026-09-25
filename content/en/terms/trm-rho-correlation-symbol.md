@@ -1,6 +1,6 @@
 ---
 slug: "trm-rho-correlation-symbol"
-id: "TRM-ENG-45593"
+id: "TRM-ENG-60122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rho correlation (symbol"

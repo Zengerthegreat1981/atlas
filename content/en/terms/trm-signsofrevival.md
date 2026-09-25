@@ -1,6 +1,6 @@
 ---
 slug: "trm-signsofrevival"
-id: "TRM-ENG-47284"
+id: "TRM-ENG-61813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "signsofrevival"

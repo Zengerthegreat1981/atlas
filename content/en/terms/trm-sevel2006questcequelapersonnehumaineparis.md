@@ -1,6 +1,6 @@
 ---
 slug: "trm-sevel2006questcequelapersonnehumaineparis"
-id: "TRM-ENG-37273"
+id: "TRM-ENG-51802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Se`ve,L.(2006).Qu’est-cequelapersonnehumaine?Paris"

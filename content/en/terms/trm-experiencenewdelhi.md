@@ -1,6 +1,6 @@
 ---
 slug: "trm-experiencenewdelhi"
-id: "TRM-ENG-37751"
+id: "TRM-ENG-66809"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "experience.NewDelhi"

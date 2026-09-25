@@ -1,6 +1,6 @@
 ---
 slug: "trm-172-dollard-j"
-id: "TRM-ENG-38651"
+id: "TRM-ENG-53180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "172. Dollard J"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-argylem1958religiousbehaviourlondon"
-id: "TRM-ENG-36568"
+id: "TRM-ENG-65626"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Argyle,M.(1958).Religiousbehaviour.London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-esting-topics-can-only-extend-and-the-powerful-system"
-id: "TRM-ENG-42810"
+id: "TRM-ENG-57339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "esting topics can only extend, and the powerful system"

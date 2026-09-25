@@ -1,6 +1,6 @@
 ---
 slug: "trm-holzkampk1973sinnlicheerkenntnis"
-id: "TRM-ENG-36916"
+id: "TRM-ENG-65974"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Holzkamp,K.(1973).SinnlicheErkenntnis"

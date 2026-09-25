@@ -1,6 +1,6 @@
 ---
 slug: "trm-tigious-journals"
-id: "TRM-ENG-43337"
+id: "TRM-ENG-57866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tigious journals"

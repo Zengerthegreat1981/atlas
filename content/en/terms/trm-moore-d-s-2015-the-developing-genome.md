@@ -1,6 +1,6 @@
 ---
 slug: "trm-moore-d-s-2015-the-developing-genome"
-id: "TRM-ENG-42470"
+id: "TRM-ENG-56999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Moore, D. S. (2015). The developing genome"

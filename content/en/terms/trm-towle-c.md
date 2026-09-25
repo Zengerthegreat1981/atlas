@@ -1,6 +1,6 @@
 ---
 slug: "trm-towle-c"
-id: "TRM-ENG-42613"
+id: "TRM-ENG-57142"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Towle C"

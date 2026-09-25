@@ -1,6 +1,6 @@
 ---
 slug: "trm-continue-to-expand-and-biofeedback-is-in-fact-the-method-bio"
-id: "TRM-ENG-36313"
+id: "TRM-ENG-65371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "continue to expand, and biofeedback is, in fact, the method bio)"

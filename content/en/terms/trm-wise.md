@@ -1,6 +1,6 @@
 ---
 slug: "trm-wise"
-id: "TRM-ENG-37319"
+id: "TRM-ENG-66377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "wise"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-evolution"
-id: "TRM-ENG-34961"
+id: "TRM-ENG-49490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of evolution"

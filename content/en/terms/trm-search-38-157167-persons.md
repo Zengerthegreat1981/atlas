@@ -1,6 +1,6 @@
 ---
 slug: "trm-search-38-157167-persons"
-id: "TRM-ENG-35302"
+id: "TRM-ENG-64360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "search, 38, 157-167. persons"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1994conductingclinicalresearchinthenewnhs"
-id: "TRM-ENG-46313"
+id: "TRM-ENG-60842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1994).ConductingclinicalresearchinthenewNHS"

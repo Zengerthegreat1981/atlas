@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-of-borderline-personality-disorder-new-york"
-id: "TRM-ENG-42997"
+id: "TRM-ENG-57526"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment of borderline personality disorder. New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-oxidase-inhibitors"
-id: "TRM-ENG-36351"
+id: "TRM-ENG-50880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "oxidase inhibitors"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-white-r"
-id: "TRM-ENG-42776"
+id: "TRM-ENG-57305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "White R"

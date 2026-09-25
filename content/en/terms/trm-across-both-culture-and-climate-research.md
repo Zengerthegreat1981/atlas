@@ -1,6 +1,6 @@
 ---
 slug: "trm-across-both-culture-and-climate-research"
-id: "TRM-ENG-36081"
+id: "TRM-ENG-65139"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "across both culture and climate research"

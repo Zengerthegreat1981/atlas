@@ -1,6 +1,6 @@
 ---
 slug: "trm-binger-c"
-id: "TRM-ENG-39937"
+id: "TRM-ENG-54466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Binger C"

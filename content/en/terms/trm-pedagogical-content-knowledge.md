@@ -1,6 +1,6 @@
 ---
 slug: "trm-pedagogical-content-knowledge"
-id: "TRM-ENG-47121"
+id: "TRM-ENG-61650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pedagogical Content Knowledge"

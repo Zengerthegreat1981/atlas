@@ -1,6 +1,6 @@
 ---
 slug: "trm-handbook-for-psychosocial-research-new-york-ny"
-id: "TRM-ENG-45160"
+id: "TRM-ENG-59689"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "handbook for psychosocial research. New York, NY"

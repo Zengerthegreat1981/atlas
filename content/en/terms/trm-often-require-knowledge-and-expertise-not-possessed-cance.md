@@ -1,6 +1,6 @@
 ---
 slug: "trm-often-require-knowledge-and-expertise-not-possessed-cance"
-id: "TRM-ENG-36007"
+id: "TRM-ENG-50536"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "often require knowledge and expertise not possessed cance"

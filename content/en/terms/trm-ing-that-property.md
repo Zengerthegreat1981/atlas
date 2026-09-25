@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-that-property"
-id: "TRM-ENG-45214"
+id: "TRM-ENG-59743"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing that property"

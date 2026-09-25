@@ -1,6 +1,6 @@
 ---
 slug: "trm-496-money-j-musaph-h-eds"
-id: "TRM-ENG-39091"
+id: "TRM-ENG-53620"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "496. Money J, Musaph H (eds)"

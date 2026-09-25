@@ -1,6 +1,6 @@
 ---
 slug: "trm-stances-associated-w"
-id: "TRM-ENG-35338"
+id: "TRM-ENG-64396"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stances. associated w"

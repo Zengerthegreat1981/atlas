@@ -1,6 +1,6 @@
 ---
 slug: "trm-christophedsunderstandingtransference"
-id: "TRM-ENG-48934"
+id: "TRM-ENG-63463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Christoph(Eds.),Understandingtransference"

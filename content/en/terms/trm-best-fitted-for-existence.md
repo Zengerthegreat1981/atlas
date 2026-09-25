@@ -1,6 +1,6 @@
 ---
 slug: "trm-best-fitted-for-existence"
-id: "TRM-ENG-47697"
+id: "TRM-ENG-62226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "best fitted for existence"

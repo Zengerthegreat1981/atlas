@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychopathol-20"
-id: "TRM-ENG-47981"
+id: "TRM-ENG-62510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychopathol 20"

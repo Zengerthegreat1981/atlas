@@ -1,6 +1,6 @@
 ---
 slug: "trm-rimm-dc-masters-jc"
-id: "TRM-ENG-42121"
+id: "TRM-ENG-56650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rimm DC, Masters JC"

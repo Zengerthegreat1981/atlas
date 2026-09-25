@@ -1,6 +1,6 @@
 ---
 slug: "trm-iatrochemistry"
-id: "TRM-ENG-45087"
+id: "TRM-ENG-59616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "iatrochemistry"

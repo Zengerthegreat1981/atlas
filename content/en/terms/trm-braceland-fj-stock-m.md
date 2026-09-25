@@ -1,6 +1,6 @@
 ---
 slug: "trm-braceland-fj-stock-m"
-id: "TRM-ENG-40013"
+id: "TRM-ENG-54542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Braceland FJ, Stock M"

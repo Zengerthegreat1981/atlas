@@ -1,6 +1,6 @@
 ---
 slug: "trm-cronbach-l-j-1980-validity-on-parole"
-id: "TRM-ENG-35355"
+id: "TRM-ENG-49884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cronbach, L. J. (1980). Validity on parole"

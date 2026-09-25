@@ -1,6 +1,6 @@
 ---
 slug: "trm-applied-ethics-includes-traditional-casuistry"
-id: "TRM-ENG-45647"
+id: "TRM-ENG-60176"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Applied ethics includes traditional CASUISTRY"

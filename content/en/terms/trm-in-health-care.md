@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-health-care"
-id: "TRM-ENG-47035"
+id: "TRM-ENG-61564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in health care"

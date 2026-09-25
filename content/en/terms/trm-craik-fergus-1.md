@@ -1,6 +1,6 @@
 ---
 slug: "trm-craik-fergus-1"
-id: "TRM-ENG-44404"
+id: "TRM-ENG-58933"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Craik, Fergus, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-moore-ge"
-id: "TRM-ENG-41757"
+id: "TRM-ENG-56286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Moore GE"

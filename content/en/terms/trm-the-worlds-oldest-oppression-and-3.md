@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-worlds-oldest-oppression-and-3"
-id: "TRM-ENG-41904"
+id: "TRM-ENG-56433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the world’s oldest oppression and, 3"

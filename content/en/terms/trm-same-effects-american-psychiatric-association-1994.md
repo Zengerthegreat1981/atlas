@@ -1,6 +1,6 @@
 ---
 slug: "trm-same-effects-american-psychiatric-association-1994"
-id: "TRM-ENG-35295"
+id: "TRM-ENG-64353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "same effect(s) (American Psychiatric Association, 1994"

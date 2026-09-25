@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultivation"
-id: "TRM-ENG-47850"
+id: "TRM-ENG-62379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultivation"

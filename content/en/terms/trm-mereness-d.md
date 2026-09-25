@@ -1,6 +1,6 @@
 ---
 slug: "trm-mereness-d"
-id: "TRM-ENG-41695"
+id: "TRM-ENG-56224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mereness D"

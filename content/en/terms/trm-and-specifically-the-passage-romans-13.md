@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-specifically-the-passage-romans-13"
-id: "TRM-ENG-47624"
+id: "TRM-ENG-62153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and specifically the passage (Romans 13"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-feinberg-t-e-2001-a-ltered-egos"
-id: "TRM-ENG-44485"
+id: "TRM-ENG-59014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feinberg, T. E. (2001). A ltered egos"

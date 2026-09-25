@@ -1,6 +1,6 @@
 ---
 slug: "trm-adoxphilosophyandpublicaffairs16no21987"
-id: "TRM-ENG-45823"
+id: "TRM-ENG-60352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adox.”PhilosophyandPublicAffairs16,no.2(1987)"

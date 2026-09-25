@@ -1,6 +1,6 @@
 ---
 slug: "trm-handedness"
-id: "TRM-ENG-34848"
+id: "TRM-ENG-49377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "handedness"

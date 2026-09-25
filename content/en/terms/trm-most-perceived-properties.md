@@ -1,6 +1,6 @@
 ---
 slug: "trm-most-perceived-properties"
-id: "TRM-ENG-35852"
+id: "TRM-ENG-64910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Most perceived properties"

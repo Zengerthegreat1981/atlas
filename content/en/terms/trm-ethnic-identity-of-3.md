@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethnic-identity-of-3"
-id: "TRM-ENG-40100"
+id: "TRM-ENG-54629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethnic identity of, 3"

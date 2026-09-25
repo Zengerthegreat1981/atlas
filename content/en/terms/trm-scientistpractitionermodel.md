@@ -1,6 +1,6 @@
 ---
 slug: "trm-scientistpractitionermodel"
-id: "TRM-ENG-38238"
+id: "TRM-ENG-52767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scientist-practitionermodel"

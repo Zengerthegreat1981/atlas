@@ -1,6 +1,6 @@
 ---
 slug: "trm-tulvinge1983elementsofepisodicmemorynewyork"
-id: "TRM-ENG-37386"
+id: "TRM-ENG-51915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tulving,E.(1983).Elementsofepisodicmemory.NewYork"

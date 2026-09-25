@@ -1,6 +1,6 @@
 ---
 slug: "trm-glasscote-rm-sussex-jn-cumming-e-smith-lh"
-id: "TRM-ENG-40721"
+id: "TRM-ENG-55250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Glasscote RM, Sussex JN, Cumming E, Smith LH"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-spero-mh"
-id: "TRM-ENG-42417"
+id: "TRM-ENG-56946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spero MH"

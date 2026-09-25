@@ -1,6 +1,6 @@
 ---
 slug: "trm-buchanan-dr-dubbssiroka-j"
-id: "TRM-ENG-40065"
+id: "TRM-ENG-54594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buchanan DR, Dubbs-Siroka J"

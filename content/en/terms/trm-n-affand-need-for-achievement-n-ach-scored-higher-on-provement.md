@@ -1,6 +1,6 @@
 ---
 slug: "trm-n-affand-need-for-achievement-n-ach-scored-higher-on-provement"
-id: "TRM-ENG-36735"
+id: "TRM-ENG-65793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "n Affand need for achievement (n Ach) scored higher on provement"

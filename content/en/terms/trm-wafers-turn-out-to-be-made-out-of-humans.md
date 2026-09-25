@@ -1,6 +1,6 @@
 ---
 slug: "trm-wafers-turn-out-to-be-made-out-of-humans"
-id: "TRM-ENG-38424"
+id: "TRM-ENG-52953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "wafers turn out to be made out of humans"

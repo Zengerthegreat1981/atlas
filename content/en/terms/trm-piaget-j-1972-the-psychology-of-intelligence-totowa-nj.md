@@ -1,6 +1,6 @@
 ---
 slug: "trm-piaget-j-1972-the-psychology-of-intelligence-totowa-nj"
-id: "TRM-ENG-35900"
+id: "TRM-ENG-64958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Piaget, J. (1972). The psychology of intelligence. Totowa, NJ"

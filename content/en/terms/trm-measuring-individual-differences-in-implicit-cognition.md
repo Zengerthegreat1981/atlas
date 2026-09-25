@@ -1,6 +1,6 @@
 ---
 slug: "trm-measuring-individual-differences-in-implicit-cognition"
-id: "TRM-ENG-37070"
+id: "TRM-ENG-66128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Measuring individual differences in implicit cognition"

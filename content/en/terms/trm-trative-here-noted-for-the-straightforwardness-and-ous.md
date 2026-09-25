@@ -1,6 +1,6 @@
 ---
 slug: "trm-trative-here-noted-for-the-straightforwardness-and-ous"
-id: "TRM-ENG-48970"
+id: "TRM-ENG-63499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trative here. Noted for the straightforwardness and ous"

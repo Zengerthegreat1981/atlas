@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnosticcriteria"
-id: "TRM-ENG-46947"
+id: "TRM-ENG-61476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diagnosticcriteria"

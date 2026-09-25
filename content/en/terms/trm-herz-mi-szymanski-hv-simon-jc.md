@@ -1,6 +1,6 @@
 ---
 slug: "trm-herz-mi-szymanski-hv-simon-jc"
-id: "TRM-ENG-40984"
+id: "TRM-ENG-55513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herz MI, Szymanski HV, Simon JC"

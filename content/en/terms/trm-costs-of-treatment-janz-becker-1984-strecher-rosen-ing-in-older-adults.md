@@ -1,6 +1,6 @@
 ---
 slug: "trm-costs-of-treatment-janz-becker-1984-strecher-rosen-ing-in-older-adults"
-id: "TRM-ENG-36315"
+id: "TRM-ENG-50844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "costs of treatment (Janz & Becker, 1984; Strecher & Rosen- ing in older adults"

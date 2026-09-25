@@ -1,6 +1,6 @@
 ---
 slug: "trm-ekmanp5aug2003aconversationwith"
-id: "TRM-ENG-36771"
+id: "TRM-ENG-65829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ekman,P.(5Aug2003)Aconversationwith"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-yale-university-1"
-id: "TRM-ENG-36066"
+id: "TRM-ENG-65124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yale University 1"

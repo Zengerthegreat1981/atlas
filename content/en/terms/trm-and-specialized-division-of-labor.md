@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-specialized-division-of-labor"
-id: "TRM-ENG-47623"
+id: "TRM-ENG-62152"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and specialized division of labor"

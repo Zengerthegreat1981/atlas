@@ -1,6 +1,6 @@
 ---
 slug: "trm-lundin-lh-aranov-bm"
-id: "TRM-ENG-41526"
+id: "TRM-ENG-56055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lundin LH, Aranov BM"

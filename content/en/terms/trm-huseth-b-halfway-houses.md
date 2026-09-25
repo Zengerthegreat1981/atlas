@@ -1,6 +1,6 @@
 ---
 slug: "trm-huseth-b-halfway-houses"
-id: "TRM-ENG-41060"
+id: "TRM-ENG-55589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Huseth B: Half-way houses"

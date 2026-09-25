@@ -1,6 +1,6 @@
 ---
 slug: "trm-failing-health-or-impotence"
-id: "TRM-ENG-43036"
+id: "TRM-ENG-57565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "failing health, or impotence"

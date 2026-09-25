@@ -1,6 +1,6 @@
 ---
 slug: "trm-royalcollegeofphysicians1983obesity"
-id: "TRM-ENG-46696"
+id: "TRM-ENG-61225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "RoyalCollegeofPhysicians.(1983).Obesity"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tomkins-s-s-1995-exoloring-affect"
-id: "TRM-ENG-34815"
+id: "TRM-ENG-63873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tomkins. S. S. (1995). Exoloring affect"

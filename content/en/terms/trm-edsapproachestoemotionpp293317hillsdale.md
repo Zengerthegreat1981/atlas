@@ -1,6 +1,6 @@
 ---
 slug: "trm-edsapproachestoemotionpp293317hillsdale"
-id: "TRM-ENG-36423"
+id: "TRM-ENG-50952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.),Approachestoemotion(pp.293–317).Hillsdale"

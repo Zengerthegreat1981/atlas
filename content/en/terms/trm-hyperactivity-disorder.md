@@ -1,6 +1,6 @@
 ---
 slug: "trm-hyperactivity-disorder"
-id: "TRM-ENG-35847"
+id: "TRM-ENG-64905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hyperactivity disorder"

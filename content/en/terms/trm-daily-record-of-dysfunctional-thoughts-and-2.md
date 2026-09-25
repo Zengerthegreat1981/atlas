@@ -1,6 +1,6 @@
 ---
 slug: "trm-daily-record-of-dysfunctional-thoughts-and-2"
-id: "TRM-ENG-37921"
+id: "TRM-ENG-52450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Daily Record of Dysfunctional Thoughts and, 2"

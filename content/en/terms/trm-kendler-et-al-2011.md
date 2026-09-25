@@ -1,6 +1,6 @@
 ---
 slug: "trm-kendler-et-al-2011"
-id: "TRM-ENG-47778"
+id: "TRM-ENG-62307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kendler et al. 2011)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-151-lifton-rj"
-id: "TRM-ENG-38627"
+id: "TRM-ENG-53156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "151. Lifton RJ"

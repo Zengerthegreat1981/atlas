@@ -1,6 +1,6 @@
 ---
 slug: "trm-abramsonlyalloylbmetalskygi1989-dialysis"
-id: "TRM-ENG-46395"
+id: "TRM-ENG-60924"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abramson,L.Y.,Alloy,L.B.,&Metalsky,G.I.(1989). dialysis"

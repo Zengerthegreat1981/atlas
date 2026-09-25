@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-class-influences-and-4"
-id: "TRM-ENG-41685"
+id: "TRM-ENG-56214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social class influences and, 4"

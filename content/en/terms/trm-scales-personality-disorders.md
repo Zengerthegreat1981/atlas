@@ -1,6 +1,6 @@
 ---
 slug: "trm-scales-personality-disorders"
-id: "TRM-ENG-43828"
+id: "TRM-ENG-58357"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scales. Personality Disorders"

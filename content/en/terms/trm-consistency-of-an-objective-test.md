@@ -1,6 +1,6 @@
 ---
 slug: "trm-consistency-of-an-objective-test"
-id: "TRM-ENG-35734"
+id: "TRM-ENG-50263"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consistency of an objective test"

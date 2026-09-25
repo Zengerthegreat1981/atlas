@@ -1,6 +1,6 @@
 ---
 slug: "trm-out"
-id: "TRM-ENG-38074"
+id: "TRM-ENG-67132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "out"

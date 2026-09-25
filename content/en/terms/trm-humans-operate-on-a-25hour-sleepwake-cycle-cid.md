@@ -1,6 +1,6 @@
 ---
 slug: "trm-humans-operate-on-a-25hour-sleepwake-cycle-cid"
-id: "TRM-ENG-46111"
+id: "TRM-ENG-60640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "humans operate on a 25-hour sleep-wake cycle. (cid"

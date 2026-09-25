@@ -1,6 +1,6 @@
 ---
 slug: "trm-shorr-je"
-id: "TRM-ENG-42344"
+id: "TRM-ENG-56873"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shorr JE"

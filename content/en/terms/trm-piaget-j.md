@@ -1,6 +1,6 @@
 ---
 slug: "trm-piaget-j"
-id: "TRM-ENG-47939"
+id: "TRM-ENG-62468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Piaget J"

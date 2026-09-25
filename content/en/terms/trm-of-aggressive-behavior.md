@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-aggressive-behavior"
-id: "TRM-ENG-43051"
+id: "TRM-ENG-57580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of aggressive behavior"

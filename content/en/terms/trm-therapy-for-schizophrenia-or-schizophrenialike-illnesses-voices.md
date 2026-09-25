@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-for-schizophrenia-or-schizophrenialike-illnesses-voices"
-id: "TRM-ENG-41940"
+id: "TRM-ENG-56469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy for schizophrenia or schizophrenia-like illnesses. Voices"

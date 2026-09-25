@@ -1,6 +1,6 @@
 ---
 slug: "trm-item-response-theory-irt-and-2"
-id: "TRM-ENG-40652"
+id: "TRM-ENG-55181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "item response theory (IRT) and, 2"

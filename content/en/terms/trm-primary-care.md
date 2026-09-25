@@ -1,6 +1,6 @@
 ---
 slug: "trm-primary-care"
-id: "TRM-ENG-47215"
+id: "TRM-ENG-61744"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "primary care"

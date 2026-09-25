@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoon-e-wincze-j-hoon-p-1976a-the-sai"
-id: "TRM-ENG-49026"
+id: "TRM-ENG-63555"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hoon, E., Wincze, J., & Hoon, P. (1976a). The SAI"

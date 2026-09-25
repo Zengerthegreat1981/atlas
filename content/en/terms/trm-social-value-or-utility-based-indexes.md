@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-value-or-utility-based-indexes"
-id: "TRM-ENG-47297"
+id: "TRM-ENG-61826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social value or utility based indexes"

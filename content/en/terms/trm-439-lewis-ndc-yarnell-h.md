@@ -1,6 +1,6 @@
 ---
 slug: "trm-439-lewis-ndc-yarnell-h"
-id: "TRM-ENG-39028"
+id: "TRM-ENG-53557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "439. Lewis NDC, Yarnell H"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-rey-1941-b"
-id: "TRM-ENG-34842"
+id: "TRM-ENG-63900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from Rey, 1941. B"

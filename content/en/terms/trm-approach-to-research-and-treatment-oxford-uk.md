@@ -1,6 +1,6 @@
 ---
 slug: "trm-approach-to-research-and-treatment-oxford-uk"
-id: "TRM-ENG-42652"
+id: "TRM-ENG-57181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "approach to research and treatment. Oxford, UK"

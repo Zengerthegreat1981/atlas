@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-group-membership"
-id: "TRM-ENG-37498"
+id: "TRM-ENG-66556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Group membership"

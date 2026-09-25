@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-stimulus"
-id: "TRM-ENG-47526"
+id: "TRM-ENG-62055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a stimulus"

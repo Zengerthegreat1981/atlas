@@ -1,6 +1,6 @@
 ---
 slug: "trm-phillips-js-kanfer-fh"
-id: "TRM-ENG-41971"
+id: "TRM-ENG-56500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Phillips JS, Kanfer FH"

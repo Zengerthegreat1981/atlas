@@ -1,6 +1,6 @@
 ---
 slug: "trm-scientist"
-id: "TRM-ENG-48688"
+id: "TRM-ENG-63217"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scientist"

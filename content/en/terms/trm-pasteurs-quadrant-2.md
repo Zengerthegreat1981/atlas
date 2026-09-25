@@ -1,6 +1,6 @@
 ---
 slug: "trm-pasteurs-quadrant-2"
-id: "TRM-ENG-47112"
+id: "TRM-ENG-61641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pasteur’s Quadrant, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-4th-ed-amsterdam"
-id: "TRM-ENG-35486"
+id: "TRM-ENG-64544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(4th ed.). Amsterdam"

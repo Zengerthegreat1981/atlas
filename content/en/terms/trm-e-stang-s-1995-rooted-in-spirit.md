@@ -1,6 +1,6 @@
 ---
 slug: "trm-e-stang-s-1995-rooted-in-spirit"
-id: "TRM-ENG-50328"
+id: "TRM-ENG-64857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "E., & Stang, S. (1995). Rooted in spirit"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-opportunism"
-id: "TRM-ENG-48487"
+id: "TRM-ENG-63016"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "opportunism"

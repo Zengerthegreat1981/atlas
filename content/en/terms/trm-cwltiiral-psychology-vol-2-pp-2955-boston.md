@@ -1,6 +1,6 @@
 ---
 slug: "trm-cwltiiral-psychology-vol-2-pp-2955-boston"
-id: "TRM-ENG-34959"
+id: "TRM-ENG-49488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cwltiiral psychology (Vol. 2, pp. 29-55). Boston"

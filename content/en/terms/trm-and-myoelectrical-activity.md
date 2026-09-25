@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-myoelectrical-activity"
-id: "TRM-ENG-46805"
+id: "TRM-ENG-61334"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and myoelectrical activity"

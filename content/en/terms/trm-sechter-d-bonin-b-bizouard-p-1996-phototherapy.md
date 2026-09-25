@@ -1,6 +1,6 @@
 ---
 slug: "trm-sechter-d-bonin-b-bizouard-p-1996-phototherapy"
-id: "TRM-ENG-35952"
+id: "TRM-ENG-65010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sechter, D., Bonin, B., & Bizouard, P. (1996). Phototherapy"

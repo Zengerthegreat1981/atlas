@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodman-m"
-id: "TRM-ENG-40770"
+id: "TRM-ENG-55299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodman M"

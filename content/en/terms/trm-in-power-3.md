@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-power-3"
-id: "TRM-ENG-40489"
+id: "TRM-ENG-55018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in power, 3"

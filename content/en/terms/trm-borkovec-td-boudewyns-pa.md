@@ -1,6 +1,6 @@
 ---
 slug: "trm-borkovec-td-boudewyns-pa"
-id: "TRM-ENG-39988"
+id: "TRM-ENG-54517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Borkovec TD, Boudewyns PA"

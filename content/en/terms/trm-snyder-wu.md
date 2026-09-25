@@ -1,6 +1,6 @@
 ---
 slug: "trm-snyder-wu"
-id: "TRM-ENG-42389"
+id: "TRM-ENG-56918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Snyder WU"

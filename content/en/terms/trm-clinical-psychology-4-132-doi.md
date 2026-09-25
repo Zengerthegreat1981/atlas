@@ -1,6 +1,6 @@
 ---
 slug: "trm-clinical-psychology-4-132-doi"
-id: "TRM-ENG-35342"
+id: "TRM-ENG-64400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clinical Psychology, 4, 1–32. doi"

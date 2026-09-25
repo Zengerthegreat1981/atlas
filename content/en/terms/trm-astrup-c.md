@@ -1,6 +1,6 @@
 ---
 slug: "trm-astrup-c"
-id: "TRM-ENG-39737"
+id: "TRM-ENG-54266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Astrup C"

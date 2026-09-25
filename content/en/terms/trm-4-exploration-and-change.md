@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-exploration-and-change"
-id: "TRM-ENG-42290"
+id: "TRM-ENG-56819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Exploration and change"

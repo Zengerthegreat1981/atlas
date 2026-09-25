@@ -1,6 +1,6 @@
 ---
 slug: "trm-loulakaki-s-1996-migraine-with-aura"
-id: "TRM-ENG-46615"
+id: "TRM-ENG-61144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loulakaki, S. (1996). Migraine with aura"

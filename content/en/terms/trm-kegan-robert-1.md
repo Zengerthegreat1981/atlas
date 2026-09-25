@@ -1,6 +1,6 @@
 ---
 slug: "trm-kegan-robert-1"
-id: "TRM-ENG-50633"
+id: "TRM-ENG-65162"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kegan, Robert, 1"

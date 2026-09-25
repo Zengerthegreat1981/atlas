@@ -1,6 +1,6 @@
 ---
 slug: "trm-spencerh1904anautobiographyvol2newyork"
-id: "TRM-ENG-37316"
+id: "TRM-ENG-51845"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spencer,H.(1904).Anautobiography(Vol.2).NewYork"

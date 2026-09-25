@@ -1,6 +1,6 @@
 ---
 slug: "trm-supplanted"
-id: "TRM-ENG-35060"
+id: "TRM-ENG-64118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "supplanted"

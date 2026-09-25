@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-cell"
-id: "TRM-ENG-35076"
+id: "TRM-ENG-64134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the cell"

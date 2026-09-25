@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-by-the-ancient-greeks"
-id: "TRM-ENG-47921"
+id: "TRM-ENG-62450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education by the ancient Greeks"

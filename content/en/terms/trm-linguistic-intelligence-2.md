@@ -1,6 +1,6 @@
 ---
 slug: "trm-linguistic-intelligence-2"
-id: "TRM-ENG-46931"
+id: "TRM-ENG-61460"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linguistic intelligence, 2"

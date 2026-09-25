@@ -1,6 +1,6 @@
 ---
 slug: "trm-polytechnical-education-2"
-id: "TRM-ENG-47138"
+id: "TRM-ENG-61667"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Polytechnical education, 2"

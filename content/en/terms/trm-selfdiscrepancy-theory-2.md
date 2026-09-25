@@ -1,6 +1,6 @@
 ---
 slug: "trm-selfdiscrepancy-theory-2"
-id: "TRM-ENG-41601"
+id: "TRM-ENG-56130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self-discrepancy theory, 2"

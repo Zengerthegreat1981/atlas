@@ -1,6 +1,6 @@
 ---
 slug: "trm-gottschalk-la-mayerson-p-gottlieb-aa"
-id: "TRM-ENG-40785"
+id: "TRM-ENG-55314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gottschalk LA, Mayerson P, Gottlieb AA"

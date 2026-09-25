@@ -1,6 +1,6 @@
 ---
 slug: "trm-link-concepts-in-statements-that-are-either-true-or-memory"
-id: "TRM-ENG-45276"
+id: "TRM-ENG-59805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "link concepts in statements that are either true or memory"

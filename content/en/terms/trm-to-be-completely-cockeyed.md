@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-be-completely-cockeyed"
-id: "TRM-ENG-45631"
+id: "TRM-ENG-60160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to be completely cockeyed"

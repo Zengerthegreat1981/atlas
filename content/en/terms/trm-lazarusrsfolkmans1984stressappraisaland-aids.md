@@ -1,6 +1,6 @@
 ---
 slug: "trm-lazarusrsfolkmans1984stressappraisaland-aids"
-id: "TRM-ENG-46602"
+id: "TRM-ENG-61131"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lazarus,R.S.,&Folkman,S.(1984).Stress,appraisaland AIDS"

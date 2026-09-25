@@ -1,6 +1,6 @@
 ---
 slug: "trm-theories-in-psychoanalysis"
-id: "TRM-ENG-48646"
+id: "TRM-ENG-63175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theories, in Psychoanalysis"

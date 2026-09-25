@@ -1,6 +1,6 @@
 ---
 slug: "trm-many-ego-functions"
-id: "TRM-ENG-45146"
+id: "TRM-ENG-59675"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "many ego functions"

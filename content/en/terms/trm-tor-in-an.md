@@ -1,6 +1,6 @@
 ---
 slug: "trm-tor-in-an"
-id: "TRM-ENG-37218"
+id: "TRM-ENG-51747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tor in AN"

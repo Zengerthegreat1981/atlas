@@ -1,6 +1,6 @@
 ---
 slug: "trm-ill-elderly-patients"
-id: "TRM-ENG-36539"
+id: "TRM-ENG-51068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ill elderly patients"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-job-security-and-marginalization-of-organized-labor"
-id: "TRM-ENG-40663"
+id: "TRM-ENG-55192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "job security, and marginalization of organized labor"

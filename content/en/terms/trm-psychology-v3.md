@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-v3"
-id: "TRM-ENG-38641"
+id: "TRM-ENG-53170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology (v3)"

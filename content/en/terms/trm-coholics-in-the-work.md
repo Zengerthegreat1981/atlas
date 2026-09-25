@@ -1,6 +1,6 @@
 ---
 slug: "trm-coholics-in-the-work"
-id: "TRM-ENG-34948"
+id: "TRM-ENG-64006"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coholics in the work"

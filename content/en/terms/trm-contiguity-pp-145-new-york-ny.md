@@ -1,6 +1,6 @@
 ---
 slug: "trm-contiguity-pp-145-new-york-ny"
-id: "TRM-ENG-45035"
+id: "TRM-ENG-59564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contiguity (pp. 1–45). New York, NY"

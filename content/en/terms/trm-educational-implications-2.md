@@ -1,6 +1,6 @@
 ---
 slug: "trm-educational-implications-2"
-id: "TRM-ENG-47938"
+id: "TRM-ENG-62467"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "educational implications, 2"

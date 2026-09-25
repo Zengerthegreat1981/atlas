@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-decision-making-tive"
-id: "TRM-ENG-44515"
+id: "TRM-ENG-59044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Group Decision Making tive"

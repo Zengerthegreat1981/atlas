@@ -1,6 +1,6 @@
 ---
 slug: "trm-iconic-memory-1"
-id: "TRM-ENG-44533"
+id: "TRM-ENG-59062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Iconic memory, 1"

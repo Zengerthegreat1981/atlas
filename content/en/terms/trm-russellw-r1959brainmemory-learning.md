@@ -1,6 +1,6 @@
 ---
 slug: "trm-russellw-r1959brainmemory-learning"
-id: "TRM-ENG-37247"
+id: "TRM-ENG-66305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Russell,W. R.(1959).Brainmemory learning"

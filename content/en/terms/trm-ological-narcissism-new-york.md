@@ -1,6 +1,6 @@
 ---
 slug: "trm-ological-narcissism-new-york"
-id: "TRM-ENG-43080"
+id: "TRM-ENG-57609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ological narcissism. New York"

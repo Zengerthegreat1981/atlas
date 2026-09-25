@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-disorder"
-id: "TRM-ENG-43234"
+id: "TRM-ENG-57763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality disorder"

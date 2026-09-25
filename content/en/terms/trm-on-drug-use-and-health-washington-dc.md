@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-drug-use-and-health-washington-dc"
-id: "TRM-ENG-46180"
+id: "TRM-ENG-60709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on Drug Use and Health. Washington, DC"

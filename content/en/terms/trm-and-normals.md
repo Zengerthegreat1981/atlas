@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-normals"
-id: "TRM-ENG-48193"
+id: "TRM-ENG-62722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and normals"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-spiel-o-discipline-without-punishment"
-id: "TRM-ENG-44642"
+id: "TRM-ENG-59171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spiel, O., Discipline without Punishment"

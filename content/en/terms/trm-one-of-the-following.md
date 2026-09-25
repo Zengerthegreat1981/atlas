@@ -1,6 +1,6 @@
 ---
 slug: "trm-one-of-the-following"
-id: "TRM-ENG-49882"
+id: "TRM-ENG-64411"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "– One of the following"

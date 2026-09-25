@@ -1,6 +1,6 @@
 ---
 slug: "trm-developmentofcardiovasculardisordersmany-mind"
-id: "TRM-ENG-46943"
+id: "TRM-ENG-61472"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "developmentofcardiovasculardisorders.Many mind"

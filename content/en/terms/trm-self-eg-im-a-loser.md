@@ -1,6 +1,6 @@
 ---
 slug: "trm-self-eg-im-a-loser"
-id: "TRM-ENG-43201"
+id: "TRM-ENG-57730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "self (e.g., “I’m a loser”"

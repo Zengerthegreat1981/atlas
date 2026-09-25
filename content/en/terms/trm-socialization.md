@@ -1,6 +1,6 @@
 ---
 slug: "trm-socialization"
-id: "TRM-ENG-41717"
+id: "TRM-ENG-56246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "socialization"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-338-prugh-dg"
-id: "TRM-ENG-38902"
+id: "TRM-ENG-53431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "338. Prugh DG"

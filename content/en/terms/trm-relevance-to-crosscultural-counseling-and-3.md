@@ -1,6 +1,6 @@
 ---
 slug: "trm-relevance-to-crosscultural-counseling-and-3"
-id: "TRM-ENG-41481"
+id: "TRM-ENG-56010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relevance to cross-cultural counseling and, 3"

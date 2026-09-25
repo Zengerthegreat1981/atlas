@@ -1,6 +1,6 @@
 ---
 slug: "trm-onset-of-an-attack-as-a-hesitation-at-a-boundary"
-id: "TRM-ENG-46182"
+id: "TRM-ENG-60711"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "onset of an attack as a hesitation at a boundary"

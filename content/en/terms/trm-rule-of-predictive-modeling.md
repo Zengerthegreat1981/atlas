@@ -1,6 +1,6 @@
 ---
 slug: "trm-rule-of-predictive-modeling"
-id: "TRM-ENG-45489"
+id: "TRM-ENG-60018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rule of predictive modeling”"

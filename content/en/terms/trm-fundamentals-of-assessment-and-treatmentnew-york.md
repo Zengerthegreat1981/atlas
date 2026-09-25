@@ -1,6 +1,6 @@
 ---
 slug: "trm-fundamentals-of-assessment-and-treatmentnew-york"
-id: "TRM-ENG-35691"
+id: "TRM-ENG-50220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fundamentals of assessment and treatment.New York"

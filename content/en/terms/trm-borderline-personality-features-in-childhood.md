@@ -1,6 +1,6 @@
 ---
 slug: "trm-borderline-personality-features-in-childhood"
-id: "TRM-ENG-42337"
+id: "TRM-ENG-56866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Borderline personality features in childhood"

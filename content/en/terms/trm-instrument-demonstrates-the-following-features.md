@@ -1,6 +1,6 @@
 ---
 slug: "trm-instrument-demonstrates-the-following-features"
-id: "TRM-ENG-35879"
+id: "TRM-ENG-50408"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "instrument demonstrates the following features"

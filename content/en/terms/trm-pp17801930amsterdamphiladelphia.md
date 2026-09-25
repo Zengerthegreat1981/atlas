@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp17801930amsterdamphiladelphia"
-id: "TRM-ENG-36461"
+id: "TRM-ENG-50990"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.1780–1930).Amsterdam/Philadelphia"

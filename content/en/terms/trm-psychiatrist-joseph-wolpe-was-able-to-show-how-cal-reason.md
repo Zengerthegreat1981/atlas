@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatrist-joseph-wolpe-was-able-to-show-how-cal-reason"
-id: "TRM-ENG-46203"
+id: "TRM-ENG-60732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychiatrist Joseph Wolpe was able to show, how- cal reason"

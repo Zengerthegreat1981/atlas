@@ -1,6 +1,6 @@
 ---
 slug: "trm-194-greenspan-si"
-id: "TRM-ENG-38681"
+id: "TRM-ENG-53210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "194. Greenspan, SI"

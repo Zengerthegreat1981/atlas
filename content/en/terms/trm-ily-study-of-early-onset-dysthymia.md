@@ -1,6 +1,6 @@
 ---
 slug: "trm-ily-study-of-early-onset-dysthymia"
-id: "TRM-ENG-48387"
+id: "TRM-ENG-62916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ily study of early onset dysthymia"

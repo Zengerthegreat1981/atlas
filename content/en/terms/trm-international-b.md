@@ -1,6 +1,6 @@
 ---
 slug: "trm-international-b"
-id: "TRM-ENG-42422"
+id: "TRM-ENG-56951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "International B"

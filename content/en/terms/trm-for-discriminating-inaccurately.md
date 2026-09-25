@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-discriminating-inaccurately"
-id: "TRM-ENG-43045"
+id: "TRM-ENG-57574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for discriminating inaccurately"

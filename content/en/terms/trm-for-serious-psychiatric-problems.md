@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-serious-psychiatric-problems"
-id: "TRM-ENG-35030"
+id: "TRM-ENG-49559"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for serious psychiatric problems"

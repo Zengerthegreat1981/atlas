@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-production-1"
-id: "TRM-ENG-47923"
+id: "TRM-ENG-62452"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "education production, 1"

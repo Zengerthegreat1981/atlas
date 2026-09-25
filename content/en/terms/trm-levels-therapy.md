@@ -1,6 +1,6 @@
 ---
 slug: "trm-levels-therapy"
-id: "TRM-ENG-51571"
+id: "TRM-ENG-66100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "levels therapy"

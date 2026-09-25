@@ -1,6 +1,6 @@
 ---
 slug: "trm-pend-upon-a-number-of-factors"
-id: "TRM-ENG-36842"
+id: "TRM-ENG-65900"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pend upon a number of factors"

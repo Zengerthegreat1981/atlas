@@ -1,6 +1,6 @@
 ---
 slug: "trm-witkin-georgia-the-female-stress-syndrome"
-id: "TRM-ENG-45999"
+id: "TRM-ENG-60528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Witkin, Georgia. The Female Stress Syndrome"

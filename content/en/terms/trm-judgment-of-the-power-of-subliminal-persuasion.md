@@ -1,6 +1,6 @@
 ---
 slug: "trm-judgment-of-the-power-of-subliminal-persuasion"
-id: "TRM-ENG-36610"
+id: "TRM-ENG-65668"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "judgment of the power of subliminal persuasion"

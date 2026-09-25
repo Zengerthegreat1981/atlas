@@ -1,6 +1,6 @@
 ---
 slug: "trm-barch-dm-carter-cs"
-id: "TRM-ENG-47489"
+id: "TRM-ENG-62018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barch DM, Carter CS"

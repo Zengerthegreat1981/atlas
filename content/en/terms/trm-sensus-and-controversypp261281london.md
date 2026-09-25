@@ -1,6 +1,6 @@
 ---
 slug: "trm-sensus-and-controversypp261281london"
-id: "TRM-ENG-36972"
+id: "TRM-ENG-66030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sensus and controversy(pp.261–281).London"

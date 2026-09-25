@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychology-94-824838-doi"
-id: "TRM-ENG-35513"
+id: "TRM-ENG-50042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology, 94, 824–838. doi"

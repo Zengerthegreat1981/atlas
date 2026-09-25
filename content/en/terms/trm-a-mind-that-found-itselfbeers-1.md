@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-mind-that-found-itselfbeers-1"
-id: "TRM-ENG-37499"
+id: "TRM-ENG-66557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A Mind That Found Itself(Beers), 1"

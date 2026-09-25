@@ -1,6 +1,6 @@
 ---
 slug: "trm-adjusted-types"
-id: "TRM-ENG-44862"
+id: "TRM-ENG-59391"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adjusted types"

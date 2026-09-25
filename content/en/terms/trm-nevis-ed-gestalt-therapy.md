@@ -1,6 +1,6 @@
 ---
 slug: "trm-nevis-ed-gestalt-therapy"
-id: "TRM-ENG-50796"
+id: "TRM-ENG-65325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nevis (Ed.), Gestalt therapy"

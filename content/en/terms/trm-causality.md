@@ -1,6 +1,6 @@
 ---
 slug: "trm-causality"
-id: "TRM-ENG-52099"
+id: "TRM-ENG-66628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Causality"

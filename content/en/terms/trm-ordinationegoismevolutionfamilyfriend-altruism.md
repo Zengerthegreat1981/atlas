@@ -1,6 +1,6 @@
 ---
 slug: "trm-ordinationegoismevolutionfamilyfriend-altruism"
-id: "TRM-ENG-45755"
+id: "TRM-ENG-60284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ORDINATION;EGOISM;EVOLUTION;FAMILY;FRIEND- altruism"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-definitions-of-target-behaviors-and-controlling-fac-servation"
-id: "TRM-ENG-35410"
+id: "TRM-ENG-49939"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional definitions of target behaviors and controlling fac- servation"

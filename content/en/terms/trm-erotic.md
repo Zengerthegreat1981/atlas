@@ -1,6 +1,6 @@
 ---
 slug: "trm-erotic"
-id: "TRM-ENG-52169"
+id: "TRM-ENG-66698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erotic"

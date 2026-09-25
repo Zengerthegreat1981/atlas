@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologischermethodeninderklinikleipzig"
-id: "TRM-ENG-38142"
+id: "TRM-ENG-52671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychologischerMethodeninderKlinik.Leipzig"

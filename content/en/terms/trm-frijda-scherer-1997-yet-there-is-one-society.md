@@ -1,6 +1,6 @@
 ---
 slug: "trm-frijda-scherer-1997-yet-there-is-one-society"
-id: "TRM-ENG-43432"
+id: "TRM-ENG-57961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frijda, & Scherer, 1997). Yet, there is one society"

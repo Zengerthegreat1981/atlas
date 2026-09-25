@@ -1,6 +1,6 @@
 ---
 slug: "trm-bruner-j-s-1967-on-knowing"
-id: "TRM-ENG-46335"
+id: "TRM-ENG-60864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bruner, J. S. (1967). On knowing"

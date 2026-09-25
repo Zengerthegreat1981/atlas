@@ -1,6 +1,6 @@
 ---
 slug: "trm-regression-therapy-2"
-id: "TRM-ENG-50940"
+id: "TRM-ENG-65469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Regression therapy, 2"

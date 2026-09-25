@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-mind-new-york-ny"
-id: "TRM-ENG-45584"
+id: "TRM-ENG-60113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the mind. New York, NY"

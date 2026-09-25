@@ -1,6 +1,6 @@
 ---
 slug: "trm-enlightenments-the-german-aufklrer"
-id: "TRM-ENG-46589"
+id: "TRM-ENG-61118"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Enlightenments. The German Aufklärer"

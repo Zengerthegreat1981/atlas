@@ -1,6 +1,6 @@
 ---
 slug: "trm-hand-cues-to-improve-communication"
-id: "TRM-ENG-35050"
+id: "TRM-ENG-49579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hand cues to improve communication"

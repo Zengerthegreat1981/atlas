@@ -1,6 +1,6 @@
 ---
 slug: "trm-after-the-death-of-prophet-muhammad-in-632-ce"
-id: "TRM-ENG-47560"
+id: "TRM-ENG-62089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "after the death of Prophet Muhammad in 632 CE"

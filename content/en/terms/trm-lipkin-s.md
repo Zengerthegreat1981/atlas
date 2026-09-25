@@ -1,6 +1,6 @@
 ---
 slug: "trm-lipkin-s"
-id: "TRM-ENG-41479"
+id: "TRM-ENG-56008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lipkin S"

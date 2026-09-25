@@ -1,6 +1,6 @@
 ---
 slug: "trm-wachtel-pl"
-id: "TRM-ENG-42686"
+id: "TRM-ENG-57215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wachtel PL"

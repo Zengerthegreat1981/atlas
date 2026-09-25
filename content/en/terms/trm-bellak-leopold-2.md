@@ -1,6 +1,6 @@
 ---
 slug: "trm-bellak-leopold-2"
-id: "TRM-ENG-37683"
+id: "TRM-ENG-66741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bellak, Leopold, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-munetz-mr-roth-lh"
-id: "TRM-ENG-41792"
+id: "TRM-ENG-56321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Munetz MR, Roth LH"

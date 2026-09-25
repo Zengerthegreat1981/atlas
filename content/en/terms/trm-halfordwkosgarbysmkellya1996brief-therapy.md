@@ -1,6 +1,6 @@
 ---
 slug: "trm-halfordwkosgarbysmkellya1996brief-therapy"
-id: "TRM-ENG-49011"
+id: "TRM-ENG-63540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Halford,W.K.,Osgarby,S.M.,&Kelly,A.(1996).Brief therapy"

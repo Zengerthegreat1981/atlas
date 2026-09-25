@@ -1,6 +1,6 @@
 ---
 slug: "trm-gray-ja-1987-the-psychology-of-fear-and-stresslondon"
-id: "TRM-ENG-35714"
+id: "TRM-ENG-64772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gray, J.A. (1987). The psychology of fear and stress.London"

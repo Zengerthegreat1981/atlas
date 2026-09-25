@@ -1,6 +1,6 @@
 ---
 slug: "trm-dren-new-york"
-id: "TRM-ENG-46077"
+id: "TRM-ENG-60606"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dren. New York"

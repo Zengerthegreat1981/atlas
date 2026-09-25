@@ -1,6 +1,6 @@
 ---
 slug: "trm-processing-new-york-ny"
-id: "TRM-ENG-45446"
+id: "TRM-ENG-59975"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "processing. New York, NY"

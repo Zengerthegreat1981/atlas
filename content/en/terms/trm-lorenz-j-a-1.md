@@ -1,6 +1,6 @@
 ---
 slug: "trm-lorenz-j-a-1"
-id: "TRM-ENG-38381"
+id: "TRM-ENG-52910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lorenz, J. A., 1"

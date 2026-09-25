@@ -1,6 +1,6 @@
 ---
 slug: "trm-1996-scales-of-independent-behaviorrevisedchicago"
-id: "TRM-ENG-37349"
+id: "TRM-ENG-66407"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1996). Scales of Independent Behavior-Revised.Chicago"

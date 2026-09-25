@@ -1,6 +1,6 @@
 ---
 slug: "trm-complex-cases-washington-dc"
-id: "TRM-ENG-39621"
+id: "TRM-ENG-54150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "complex cases. Washington, DC"

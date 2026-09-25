@@ -1,6 +1,6 @@
 ---
 slug: "trm-m-1984-stress-and-metabolic-control-in-diabetes"
-id: "TRM-ENG-46618"
+id: "TRM-ENG-61147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "M. (1984). Stress and metabolic control in diabetes"

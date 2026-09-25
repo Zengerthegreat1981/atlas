@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-suicide-science"
-id: "TRM-ENG-42251"
+id: "TRM-ENG-56780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), Suicide science"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-426456-thousand-oaks-ca"
-id: "TRM-ENG-46139"
+id: "TRM-ENG-60668"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 426–456). Thousand Oaks, CA"

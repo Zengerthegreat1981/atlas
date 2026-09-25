@@ -1,6 +1,6 @@
 ---
 slug: "trm-violence-and-resistance"
-id: "TRM-ENG-51959"
+id: "TRM-ENG-66488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "violence and resistance"

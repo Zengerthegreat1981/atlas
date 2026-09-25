@@ -1,6 +1,6 @@
 ---
 slug: "trm-professorslewes1856"
-id: "TRM-ENG-38130"
+id: "TRM-ENG-52659"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "professors”(Lewes1856"

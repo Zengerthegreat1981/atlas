@@ -1,6 +1,6 @@
 ---
 slug: "trm-were-expected-of-them"
-id: "TRM-ENG-49036"
+id: "TRM-ENG-63565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "were expected of them"

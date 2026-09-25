@@ -1,6 +1,6 @@
 ---
 slug: "trm-primary-care-thousand-oaks-ca"
-id: "TRM-ENG-51724"
+id: "TRM-ENG-66253"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "primary care. Thousand Oaks, CA"

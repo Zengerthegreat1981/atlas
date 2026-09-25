@@ -1,6 +1,6 @@
 ---
 slug: "trm-greist-jh-klein-mh-gutman-as-van-cura-lj"
-id: "TRM-ENG-40825"
+id: "TRM-ENG-55354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greist JH, Klein MH, Gutman AS, Van Cura LJ"

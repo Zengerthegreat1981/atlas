@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilson-eo-on-human-nature-cambridge"
-id: "TRM-ENG-45812"
+id: "TRM-ENG-60341"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilson, E.O. On Human Nature. Cambridge"

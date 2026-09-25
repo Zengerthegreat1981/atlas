@@ -1,6 +1,6 @@
 ---
 slug: "trm-aron-kw-smith-s"
-id: "TRM-ENG-39723"
+id: "TRM-ENG-54252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Aron KW, Smith S"

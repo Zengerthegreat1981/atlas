@@ -1,6 +1,6 @@
 ---
 slug: "trm-dispositions"
-id: "TRM-ENG-36321"
+id: "TRM-ENG-50850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dispositions"

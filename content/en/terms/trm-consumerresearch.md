@@ -1,6 +1,6 @@
 ---
 slug: "trm-consumerresearch"
-id: "TRM-ENG-46913"
+id: "TRM-ENG-61442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consumerresearch"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dimensional-approach-to-pd-assessment"
-id: "TRM-ENG-42768"
+id: "TRM-ENG-57297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dimensional approach to PD assessment"

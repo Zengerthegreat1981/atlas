@@ -1,6 +1,6 @@
 ---
 slug: "trm-predominant-political-ideology-free"
-id: "TRM-ENG-48576"
+id: "TRM-ENG-63105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "predominant political ideology. free"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-shor-re"
-id: "TRM-ENG-42342"
+id: "TRM-ENG-56871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shor RE"

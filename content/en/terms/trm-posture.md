@@ -1,6 +1,6 @@
 ---
 slug: "trm-posture"
-id: "TRM-ENG-52340"
+id: "TRM-ENG-66869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Posture"

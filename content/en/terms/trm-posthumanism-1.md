@@ -1,6 +1,6 @@
 ---
 slug: "trm-posthumanism-1"
-id: "TRM-ENG-47147"
+id: "TRM-ENG-61676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Posthumanism, 1"

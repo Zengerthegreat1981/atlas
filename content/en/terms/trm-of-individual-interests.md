@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-individual-interests"
-id: "TRM-ENG-44110"
+id: "TRM-ENG-58639"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of individual interests."

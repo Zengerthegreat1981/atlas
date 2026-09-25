@@ -1,6 +1,6 @@
 ---
 slug: "trm-ivey-a-ivey-m-1998-reframing-dsmiv"
-id: "TRM-ENG-50588"
+id: "TRM-ENG-65117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ivey, A., & Ivey, M. (1998). Reframing DSM-IV"

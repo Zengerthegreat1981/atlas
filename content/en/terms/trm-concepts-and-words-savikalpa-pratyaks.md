@@ -1,6 +1,6 @@
 ---
 slug: "trm-concepts-and-words-savikalpa-pratyaks"
-id: "TRM-ENG-37648"
+id: "TRM-ENG-66706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concepts and words (savikalpa pratyaks"

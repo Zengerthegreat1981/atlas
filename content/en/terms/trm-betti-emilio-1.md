@@ -1,6 +1,6 @@
 ---
 slug: "trm-betti-emilio-1"
-id: "TRM-ENG-46309"
+id: "TRM-ENG-60838"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Betti, Emilio, 1"

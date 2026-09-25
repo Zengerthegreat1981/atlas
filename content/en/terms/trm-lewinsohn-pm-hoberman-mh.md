@@ -1,6 +1,6 @@
 ---
 slug: "trm-lewinsohn-pm-hoberman-mh"
-id: "TRM-ENG-41441"
+id: "TRM-ENG-55970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lewinsohn PM, Hoberman MH"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-newman-m-berkowitz-b"
-id: "TRM-ENG-41835"
+id: "TRM-ENG-56364"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newman M, Berkowitz B"

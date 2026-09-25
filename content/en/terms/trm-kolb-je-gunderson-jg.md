@@ -1,6 +1,6 @@
 ---
 slug: "trm-kolb-je-gunderson-jg"
-id: "TRM-ENG-47800"
+id: "TRM-ENG-62329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kolb JE, Gunderson JG"

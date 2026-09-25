@@ -1,6 +1,6 @@
 ---
 slug: "trm-coeruleusnoradrenergic-system"
-id: "TRM-ENG-42736"
+id: "TRM-ENG-57265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coeruleus–noradrenergic system"

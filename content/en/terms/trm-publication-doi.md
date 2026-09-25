@@ -1,6 +1,6 @@
 ---
 slug: "trm-publication-doi"
-id: "TRM-ENG-43812"
+id: "TRM-ENG-58341"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "publication. doi"

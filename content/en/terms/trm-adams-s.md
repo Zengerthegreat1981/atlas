@@ -1,6 +1,6 @@
 ---
 slug: "trm-adams-s"
-id: "TRM-ENG-39638"
+id: "TRM-ENG-54167"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adams S"

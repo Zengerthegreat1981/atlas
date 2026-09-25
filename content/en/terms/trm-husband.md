@@ -1,6 +1,6 @@
 ---
 slug: "trm-husband"
-id: "TRM-ENG-38203"
+id: "TRM-ENG-52732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Husband"

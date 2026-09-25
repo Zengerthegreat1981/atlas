@@ -1,6 +1,6 @@
 ---
 slug: "trm-influencing-western-approaches-to-counseling-and-anxiety"
-id: "TRM-ENG-51542"
+id: "TRM-ENG-66071"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "influencing Western approaches to counseling and anxiety"

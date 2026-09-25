@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-more-than-one-race"
-id: "TRM-ENG-44169"
+id: "TRM-ENG-58698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with more than one race,"

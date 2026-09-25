@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutics-in-psychiatry"
-id: "TRM-ENG-43877"
+id: "TRM-ENG-58406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutics in psychiatry"

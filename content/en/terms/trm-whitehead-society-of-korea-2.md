@@ -1,6 +1,6 @@
 ---
 slug: "trm-whitehead-society-of-korea-2"
-id: "TRM-ENG-47481"
+id: "TRM-ENG-62010"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whitehead Society of Korea, 2"

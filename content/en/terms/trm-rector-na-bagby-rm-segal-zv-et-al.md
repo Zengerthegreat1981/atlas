@@ -1,6 +1,6 @@
 ---
 slug: "trm-rector-na-bagby-rm-segal-zv-et-al"
-id: "TRM-ENG-47999"
+id: "TRM-ENG-62528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rector NA, Bagby RM, Segal ZV, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-play-therapy-with-children-exposure-therapy"
-id: "TRM-ENG-37144"
+id: "TRM-ENG-66202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy, play therapy (with children), exposure therapy"

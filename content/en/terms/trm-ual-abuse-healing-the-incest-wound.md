@@ -1,6 +1,6 @@
 ---
 slug: "trm-ual-abuse-healing-the-incest-wound"
-id: "TRM-ENG-42066"
+id: "TRM-ENG-56595"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ual abuse. Healing the Incest Wound"

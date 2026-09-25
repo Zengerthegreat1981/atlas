@@ -1,6 +1,6 @@
 ---
 slug: "trm-jung-r-f-c-hull-trans-new-york-ny"
-id: "TRM-ENG-50615"
+id: "TRM-ENG-65144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jung (R. F. C. Hull, Trans.). New York, NY"

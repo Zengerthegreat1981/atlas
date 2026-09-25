@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-two-principles"
-id: "TRM-ENG-37215"
+id: "TRM-ENG-66273"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to two principles"

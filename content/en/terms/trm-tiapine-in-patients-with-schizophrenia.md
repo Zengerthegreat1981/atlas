@@ -1,6 +1,6 @@
 ---
 slug: "trm-tiapine-in-patients-with-schizophrenia"
-id: "TRM-ENG-48659"
+id: "TRM-ENG-63188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tiapine in patients with schizophrenia"

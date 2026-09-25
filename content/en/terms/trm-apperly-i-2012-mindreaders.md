@@ -1,6 +1,6 @@
 ---
 slug: "trm-apperly-i-2012-mindreaders"
-id: "TRM-ENG-46239"
+id: "TRM-ENG-60768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Apperly, I. (2012). Mindreaders"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ensuring-generalization"
-id: "TRM-ENG-44100"
+id: "TRM-ENG-58629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ensuring generalization"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-power-and-3"
-id: "TRM-ENG-41010"
+id: "TRM-ENG-55539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of power and, 3"

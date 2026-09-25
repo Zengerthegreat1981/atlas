@@ -1,6 +1,6 @@
 ---
 slug: "trm-nigra"
-id: "TRM-ENG-43755"
+id: "TRM-ENG-58284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nigra."

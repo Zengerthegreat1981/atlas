@@ -1,6 +1,6 @@
 ---
 slug: "trm-eitheror-dichotomies"
-id: "TRM-ENG-47951"
+id: "TRM-ENG-62480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "either/or dichotomies"

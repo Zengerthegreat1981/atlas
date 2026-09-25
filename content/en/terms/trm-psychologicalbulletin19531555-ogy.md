@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologicalbulletin19531555-ogy"
-id: "TRM-ENG-37200"
+id: "TRM-ENG-66258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PsychologicalBulletin,19,531–555. ogy"

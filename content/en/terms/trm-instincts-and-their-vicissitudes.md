@@ -1,6 +1,6 @@
 ---
 slug: "trm-instincts-and-their-vicissitudes"
-id: "TRM-ENG-43084"
+id: "TRM-ENG-57613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "instincts and their vicissitudes"

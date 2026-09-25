@@ -1,6 +1,6 @@
 ---
 slug: "trm-offer-d-psychological-world-of-the-teenager"
-id: "TRM-ENG-44554"
+id: "TRM-ENG-59083"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Offer, D., Psychological World of the Teenager"

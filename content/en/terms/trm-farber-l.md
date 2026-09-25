@@ -1,6 +1,6 @@
 ---
 slug: "trm-farber-l"
-id: "TRM-ENG-40492"
+id: "TRM-ENG-55021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Farber L"

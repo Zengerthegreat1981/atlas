@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-seven-types-of-add-new-york-ny"
-id: "TRM-ENG-51880"
+id: "TRM-ENG-66409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the seven types of ADD. New York, NY"

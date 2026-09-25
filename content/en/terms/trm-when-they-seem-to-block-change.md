@@ -1,6 +1,6 @@
 ---
 slug: "trm-when-they-seem-to-block-change"
-id: "TRM-ENG-45429"
+id: "TRM-ENG-59958"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "when they seem to block change"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-1441158n-ew-york"
-id: "TRM-ENG-34588"
+id: "TRM-ENG-49117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 144-1158)N, ew York"

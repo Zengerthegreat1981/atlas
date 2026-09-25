@@ -1,6 +1,6 @@
 ---
 slug: "trm-tries-that-relate-to-or-affect-dreams"
-id: "TRM-ENG-35430"
+id: "TRM-ENG-64488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tries that relate to or affect dreams"

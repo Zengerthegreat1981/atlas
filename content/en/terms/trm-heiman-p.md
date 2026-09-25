@@ -1,6 +1,6 @@
 ---
 slug: "trm-heiman-p"
-id: "TRM-ENG-40963"
+id: "TRM-ENG-55492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heiman P"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-beardsmorerwartandmoralitylondon"
-id: "TRM-ENG-45658"
+id: "TRM-ENG-60187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beardsmore,R.W.ArtandMorality.London"

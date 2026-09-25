@@ -1,6 +1,6 @@
 ---
 slug: "trm-catastrophizing-of-1"
-id: "TRM-ENG-39453"
+id: "TRM-ENG-53982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "catastrophizing of, 1"

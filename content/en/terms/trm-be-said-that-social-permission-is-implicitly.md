@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-said-that-social-permission-is-implicitly"
-id: "TRM-ENG-39319"
+id: "TRM-ENG-53848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be said that “social permission” is implicitly"

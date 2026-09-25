@@ -1,6 +1,6 @@
 ---
 slug: "trm-will-change-their-attitudes-to-become-more-favorable-cept"
-id: "TRM-ENG-45691"
+id: "TRM-ENG-60220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "will change their attitudes to become more favorable cept"

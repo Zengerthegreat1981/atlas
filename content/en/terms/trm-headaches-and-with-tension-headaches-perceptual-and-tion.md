@@ -1,6 +1,6 @@
 ---
 slug: "trm-headaches-and-with-tension-headaches-perceptual-and-tion"
-id: "TRM-ENG-47008"
+id: "TRM-ENG-61537"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "headaches and with tension headaches. Perceptual and tion"

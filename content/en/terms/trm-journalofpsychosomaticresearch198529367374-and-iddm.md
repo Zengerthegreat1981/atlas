@@ -1,6 +1,6 @@
 ---
 slug: "trm-journalofpsychosomaticresearch198529367374-and-iddm"
-id: "TRM-ENG-46581"
+id: "TRM-ENG-61110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "JournalofPsychosomaticResearch,1985,29,367±374. and IDDM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-paul-gl-shannon-dt"
-id: "TRM-ENG-41945"
+id: "TRM-ENG-56474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paul GL, Shannon DT"

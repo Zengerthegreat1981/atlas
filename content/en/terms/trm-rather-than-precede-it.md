@@ -1,6 +1,6 @@
 ---
 slug: "trm-rather-than-precede-it"
-id: "TRM-ENG-47245"
+id: "TRM-ENG-61774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rather than precede it"

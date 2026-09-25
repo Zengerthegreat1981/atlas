@@ -1,6 +1,6 @@
 ---
 slug: "trm-sullivanhs1954thepsychiatricinterviewnewyork"
-id: "TRM-ENG-49190"
+id: "TRM-ENG-63719"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sullivan,H.S.(1954).Thepsychiatricinterview.NewYork"

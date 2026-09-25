@@ -1,6 +1,6 @@
 ---
 slug: "trm-scientist-and-psychologist"
-id: "TRM-ENG-44143"
+id: "TRM-ENG-58672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scientist, and psychologist"

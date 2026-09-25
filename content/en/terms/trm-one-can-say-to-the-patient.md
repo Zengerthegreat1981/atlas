@@ -1,6 +1,6 @@
 ---
 slug: "trm-one-can-say-to-the-patient"
-id: "TRM-ENG-41872"
+id: "TRM-ENG-56401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "One can say to the patient"

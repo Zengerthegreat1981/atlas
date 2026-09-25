@@ -1,6 +1,6 @@
 ---
 slug: "trm-includes-a-behavioral-symptoms-index-and-four-com-assessment"
-id: "TRM-ENG-40505"
+id: "TRM-ENG-55034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "includes a Behavioral Symptoms Index and four com- assessment"

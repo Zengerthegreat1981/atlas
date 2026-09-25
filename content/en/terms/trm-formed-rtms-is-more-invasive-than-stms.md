@@ -1,6 +1,6 @@
 ---
 slug: "trm-formed-rtms-is-more-invasive-than-stms"
-id: "TRM-ENG-35819"
+id: "TRM-ENG-64877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "formed. rTMS is more invasive than sTMS"

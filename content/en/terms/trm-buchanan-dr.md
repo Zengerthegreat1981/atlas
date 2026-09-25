@@ -1,6 +1,6 @@
 ---
 slug: "trm-buchanan-dr"
-id: "TRM-ENG-40064"
+id: "TRM-ENG-54593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Buchanan DR"

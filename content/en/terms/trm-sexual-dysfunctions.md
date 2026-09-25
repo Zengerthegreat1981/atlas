@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexual-dysfunctions"
-id: "TRM-ENG-36982"
+id: "TRM-ENG-51511"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sexual dysfunctions"

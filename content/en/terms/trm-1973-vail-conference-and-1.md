@@ -1,6 +1,6 @@
 ---
 slug: "trm-1973-vail-conference-and-1"
-id: "TRM-ENG-37476"
+id: "TRM-ENG-52005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1973 Vail conference and, 1"

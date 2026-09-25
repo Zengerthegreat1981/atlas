@@ -1,6 +1,6 @@
 ---
 slug: "trm-cumplex-and-dsm5"
-id: "TRM-ENG-42748"
+id: "TRM-ENG-57277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cumplex, and DSM-5"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pose-the-question-in-the-following-way"
-id: "TRM-ENG-36038"
+id: "TRM-ENG-65096"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pose the question in the following way"

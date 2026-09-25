@@ -1,6 +1,6 @@
 ---
 slug: "trm-schooling-san-francisco-ca"
-id: "TRM-ENG-48677"
+id: "TRM-ENG-63206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "schooling. San Francisco, CA"

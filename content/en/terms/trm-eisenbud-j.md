@@ -1,6 +1,6 @@
 ---
 slug: "trm-eisenbud-j"
-id: "TRM-ENG-40419"
+id: "TRM-ENG-54948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Eisenbud J"

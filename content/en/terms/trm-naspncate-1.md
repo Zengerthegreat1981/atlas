@@ -1,6 +1,6 @@
 ---
 slug: "trm-naspncate-1"
-id: "TRM-ENG-37417"
+id: "TRM-ENG-66475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(NASP/NCATE), 1"

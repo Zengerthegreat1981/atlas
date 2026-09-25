@@ -1,6 +1,6 @@
 ---
 slug: "trm-rather-different"
-id: "TRM-ENG-35008"
+id: "TRM-ENG-64066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rather different"

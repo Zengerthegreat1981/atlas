@@ -1,6 +1,6 @@
 ---
 slug: "trm-statistical-difference-within-group-and-2"
-id: "TRM-ENG-41770"
+id: "TRM-ENG-56299"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "statistical difference within group and, 2"

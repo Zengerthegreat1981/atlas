@@ -1,6 +1,6 @@
 ---
 slug: "trm-ological-and-practical-issuesamsterdam"
-id: "TRM-ENG-36803"
+id: "TRM-ENG-51332"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ological, and practical issues.Amsterdam"

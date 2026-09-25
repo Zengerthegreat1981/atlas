@@ -1,6 +1,6 @@
 ---
 slug: "trm-electrode-sites-and"
-id: "TRM-ENG-35775"
+id: "TRM-ENG-64833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "electrode sites and"

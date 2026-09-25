@@ -1,6 +1,6 @@
 ---
 slug: "trm-scious-material-such-as-defenses-or-transference-sug-treatment"
-id: "TRM-ENG-41579"
+id: "TRM-ENG-56108"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scious material (such as defenses or transference), sug- treatment"

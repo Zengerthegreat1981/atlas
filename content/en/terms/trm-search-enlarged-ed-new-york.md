@@ -1,6 +1,6 @@
 ---
 slug: "trm-search-enlarged-ed-new-york"
-id: "TRM-ENG-35300"
+id: "TRM-ENG-49829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "search (enlarged ed.). New York"

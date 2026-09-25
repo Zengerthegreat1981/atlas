@@ -1,6 +1,6 @@
 ---
 slug: "trm-organizational-scientists"
-id: "TRM-ENG-44728"
+id: "TRM-ENG-59257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Organizational Scientists"

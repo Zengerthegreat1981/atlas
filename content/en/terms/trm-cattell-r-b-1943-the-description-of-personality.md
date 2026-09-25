@@ -1,6 +1,6 @@
 ---
 slug: "trm-cattell-r-b-1943-the-description-of-personality"
-id: "TRM-ENG-34652"
+id: "TRM-ENG-49181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cattell, R. B. (1943). The description of personality"

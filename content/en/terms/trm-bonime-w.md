@@ -1,6 +1,6 @@
 ---
 slug: "trm-bonime-w"
-id: "TRM-ENG-39984"
+id: "TRM-ENG-54513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bonime W"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bell-curve-1"
-id: "TRM-ENG-47694"
+id: "TRM-ENG-62223"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bell curve, 1"

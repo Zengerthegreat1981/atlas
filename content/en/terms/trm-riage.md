@@ -1,6 +1,6 @@
 ---
 slug: "trm-riage"
-id: "TRM-ENG-35290"
+id: "TRM-ENG-49819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "riage"

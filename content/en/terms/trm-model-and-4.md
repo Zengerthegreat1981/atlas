@@ -1,6 +1,6 @@
 ---
 slug: "trm-model-and-4"
-id: "TRM-ENG-40865"
+id: "TRM-ENG-55394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "model and, 4"

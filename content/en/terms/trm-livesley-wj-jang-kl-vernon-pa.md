@@ -1,6 +1,6 @@
 ---
 slug: "trm-livesley-wj-jang-kl-vernon-pa"
-id: "TRM-ENG-47847"
+id: "TRM-ENG-62376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Livesley WJ, Jang KL, Vernon PA"

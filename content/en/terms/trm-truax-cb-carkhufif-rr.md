@@ -1,6 +1,6 @@
 ---
 slug: "trm-truax-cb-carkhufif-rr"
-id: "TRM-ENG-42625"
+id: "TRM-ENG-57154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Truax CB, Carkhufif RR"

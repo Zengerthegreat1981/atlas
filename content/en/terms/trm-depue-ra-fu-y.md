@@ -1,6 +1,6 @@
 ---
 slug: "trm-depue-ra-fu-y"
-id: "TRM-ENG-47608"
+id: "TRM-ENG-62137"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Depue RA, Fu Y"

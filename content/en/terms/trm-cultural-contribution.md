@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-contribution"
-id: "TRM-ENG-47852"
+id: "TRM-ENG-62381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural contribution"

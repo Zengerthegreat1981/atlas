@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-life-cycle"
-id: "TRM-ENG-40870"
+id: "TRM-ENG-55399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HUMAN LIFE CYCLE"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-reasoning2dedbelmontca"
-id: "TRM-ENG-45775"
+id: "TRM-ENG-60304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reasoning.2ded.Belmont,CA"

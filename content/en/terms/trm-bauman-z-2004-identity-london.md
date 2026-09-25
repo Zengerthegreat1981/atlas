@@ -1,6 +1,6 @@
 ---
 slug: "trm-bauman-z-2004-identity-london"
-id: "TRM-ENG-42323"
+id: "TRM-ENG-56852"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bauman, Z. (2004). Identity. London"

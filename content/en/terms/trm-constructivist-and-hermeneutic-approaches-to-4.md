@@ -1,6 +1,6 @@
 ---
 slug: "trm-constructivist-and-hermeneutic-approaches-to-4"
-id: "TRM-ENG-39667"
+id: "TRM-ENG-54196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "constructivist and hermeneutic approaches to, 4"

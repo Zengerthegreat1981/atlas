@@ -1,6 +1,6 @@
 ---
 slug: "trm-2nd-edprinceton-nj"
-id: "TRM-ENG-35482"
+id: "TRM-ENG-64540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2nd ed.).Princeton, NJ"

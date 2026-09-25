@@ -1,6 +1,6 @@
 ---
 slug: "trm-carrea-e-tononi-g-2014-diaschisis"
-id: "TRM-ENG-34594"
+id: "TRM-ENG-49123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carrea, E., & Tononi, G. (2014). Diaschisis"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-data"
-id: "TRM-ENG-35747"
+id: "TRM-ENG-64805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "data"

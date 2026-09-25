@@ -1,6 +1,6 @@
 ---
 slug: "trm-withingroup-diversity-of-jews-and-3"
-id: "TRM-ENG-42165"
+id: "TRM-ENG-56694"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "within-group diversity of Jews and, 3"

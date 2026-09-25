@@ -1,6 +1,6 @@
 ---
 slug: "trm-eliminating-dependent-personality-disorder-and-other-sample"
-id: "TRM-ENG-43676"
+id: "TRM-ENG-58205"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eliminating dependent personality disorder and other sample"

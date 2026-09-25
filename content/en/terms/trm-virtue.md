@@ -1,6 +1,6 @@
 ---
 slug: "trm-virtue"
-id: "TRM-ENG-49017"
+id: "TRM-ENG-63546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "virtue"

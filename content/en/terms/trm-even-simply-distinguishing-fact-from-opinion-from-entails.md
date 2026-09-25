@@ -1,6 +1,6 @@
 ---
 slug: "trm-even-simply-distinguishing-fact-from-opinion-from-entails"
-id: "TRM-ENG-48000"
+id: "TRM-ENG-62529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "even simply distinguishing fact from opinion from entails"

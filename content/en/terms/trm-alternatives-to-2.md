@@ -1,6 +1,6 @@
 ---
 slug: "trm-alternatives-to-2"
-id: "TRM-ENG-47575"
+id: "TRM-ENG-62104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alternatives to, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-childrens-coping-strategies-checklist-ccsc-2"
-id: "TRM-ENG-37813"
+id: "TRM-ENG-52342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Children’s Coping Strategies Checklist (CCSC), 2"

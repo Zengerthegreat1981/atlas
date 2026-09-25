@@ -1,6 +1,6 @@
 ---
 slug: "trm-bollinger-ar-riggs-ds-blake-dd-et-al"
-id: "TRM-ENG-47518"
+id: "TRM-ENG-62047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bollinger AR, Riggs DS, Blake DD, et al"

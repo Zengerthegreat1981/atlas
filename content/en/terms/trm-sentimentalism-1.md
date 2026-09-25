@@ -1,6 +1,6 @@
 ---
 slug: "trm-sentimentalism-1"
-id: "TRM-ENG-44758"
+id: "TRM-ENG-59287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sentimentalism, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rawlsjohnjusticeasfairness"
-id: "TRM-ENG-45772"
+id: "TRM-ENG-60301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rawls,John.“JusticeasFairness"

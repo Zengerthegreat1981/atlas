@@ -1,6 +1,6 @@
 ---
 slug: "trm-689-isaacs-ssf"
-id: "TRM-ENG-39320"
+id: "TRM-ENG-53849"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "689. Isaacs SSF"

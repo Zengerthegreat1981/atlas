@@ -1,6 +1,6 @@
 ---
 slug: "trm-havior-21"
-id: "TRM-ENG-48376"
+id: "TRM-ENG-62905"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "havior 21"

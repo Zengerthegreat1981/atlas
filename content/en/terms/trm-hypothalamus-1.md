@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypothalamus-1"
-id: "TRM-ENG-44531"
+id: "TRM-ENG-59060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hypothalamus, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dupaul-g-j-stoner-g-2003-adhd-in-the-schools"
-id: "TRM-ENG-37980"
+id: "TRM-ENG-67038"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DuPaul, G. J., & Stoner, G. (2003). ADHD in the schools"

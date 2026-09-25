@@ -1,6 +1,6 @@
 ---
 slug: "trm-mind-and-body-when-one-meditates-the-alpha-cid"
-id: "TRM-ENG-46149"
+id: "TRM-ENG-60678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mind and body. When one meditates, the alpha (cid"

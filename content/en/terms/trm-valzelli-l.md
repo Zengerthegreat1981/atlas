@@ -1,6 +1,6 @@
 ---
 slug: "trm-valzelli-l"
-id: "TRM-ENG-48143"
+id: "TRM-ENG-62672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Valzelli L"

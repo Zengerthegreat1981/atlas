@@ -1,6 +1,6 @@
 ---
 slug: "trm-tial-hypertension-at-the-worksite"
-id: "TRM-ENG-46244"
+id: "TRM-ENG-60773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tial Hypertension at the Worksite"

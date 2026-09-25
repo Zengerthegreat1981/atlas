@@ -1,6 +1,6 @@
 ---
 slug: "trm-ivey-a-e-authier-j-1978-microcounseling"
-id: "TRM-ENG-38266"
+id: "TRM-ENG-52795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ivey, A. E., & Authier, J. (1978). Microcounseling"

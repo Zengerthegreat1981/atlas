@@ -1,6 +1,6 @@
 ---
 slug: "trm-promote-the-interpretation-of-general-linear-models-york"
-id: "TRM-ENG-35269"
+id: "TRM-ENG-64327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "promote the interpretation of general linear models, York"

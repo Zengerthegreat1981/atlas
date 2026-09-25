@@ -1,6 +1,6 @@
 ---
 slug: "trm-test-zulliger"
-id: "TRM-ENG-52422"
+id: "TRM-ENG-66951"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Test, Zulliger"

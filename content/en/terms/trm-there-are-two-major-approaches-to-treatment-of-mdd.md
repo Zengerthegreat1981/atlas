@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-are-two-major-approaches-to-treatment-of-mdd"
-id: "TRM-ENG-36014"
+id: "TRM-ENG-65072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "There are two major approaches to treatment of MDD"

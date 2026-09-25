@@ -1,6 +1,6 @@
 ---
 slug: "trm-philadelphia-prenological-society-1822-and-1"
-id: "TRM-ENG-38597"
+id: "TRM-ENG-53126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philadelphia Prenological Society (1822) and, 1"

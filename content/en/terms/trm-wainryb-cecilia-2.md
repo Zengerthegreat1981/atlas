@@ -1,6 +1,6 @@
 ---
 slug: "trm-wainryb-cecilia-2"
-id: "TRM-ENG-44843"
+id: "TRM-ENG-59372"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wainryb, Cecilia, 2"

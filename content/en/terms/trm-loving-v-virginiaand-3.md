@@ -1,6 +1,6 @@
 ---
 slug: "trm-loving-v-virginiaand-3"
-id: "TRM-ENG-38385"
+id: "TRM-ENG-52914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loving v. Virginiaand, 3"

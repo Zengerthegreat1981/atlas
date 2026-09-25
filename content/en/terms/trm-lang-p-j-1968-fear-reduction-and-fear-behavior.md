@@ -1,6 +1,6 @@
 ---
 slug: "trm-lang-p-j-1968-fear-reduction-and-fear-behavior"
-id: "TRM-ENG-49059"
+id: "TRM-ENG-63588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lang, P. J. (1968). Fear reduction and fear behavior"

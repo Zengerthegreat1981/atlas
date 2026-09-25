@@ -1,6 +1,6 @@
 ---
 slug: "trm-mentalization-psychopathy-checklist"
-id: "TRM-ENG-42462"
+id: "TRM-ENG-56991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mentalization Psychopathy Checklist"

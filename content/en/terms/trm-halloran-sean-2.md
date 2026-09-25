@@ -1,6 +1,6 @@
 ---
 slug: "trm-halloran-sean-2"
-id: "TRM-ENG-38137"
+id: "TRM-ENG-52666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Halloran, Sean, 2"

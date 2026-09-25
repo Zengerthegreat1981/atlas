@@ -1,6 +1,6 @@
 ---
 slug: "trm-gallese-v"
-id: "TRM-ENG-47657"
+id: "TRM-ENG-62186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gallese V"

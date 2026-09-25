@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-more-physically-active-lifestyle"
-id: "TRM-ENG-46772"
+id: "TRM-ENG-61301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a more physically active lifestyle"

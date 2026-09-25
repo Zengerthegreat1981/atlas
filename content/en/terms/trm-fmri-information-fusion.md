@@ -1,6 +1,6 @@
 ---
 slug: "trm-fmri-information-fusion"
-id: "TRM-ENG-35805"
+id: "TRM-ENG-64863"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fMRI information fusion"

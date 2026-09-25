@@ -1,6 +1,6 @@
 ---
 slug: "trm-pocampus-in-normal-humans"
-id: "TRM-ENG-36874"
+id: "TRM-ENG-65932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pocampus in normal humans"

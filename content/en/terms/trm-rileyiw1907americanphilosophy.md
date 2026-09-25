@@ -1,6 +1,6 @@
 ---
 slug: "trm-rileyiw1907americanphilosophy"
-id: "TRM-ENG-37233"
+id: "TRM-ENG-66291"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Riley,I.W.(1907).Americanphilosophy"

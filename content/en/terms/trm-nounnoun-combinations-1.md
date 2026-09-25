@@ -1,6 +1,6 @@
 ---
 slug: "trm-nounnoun-combinations-1"
-id: "TRM-ENG-44655"
+id: "TRM-ENG-59184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Noun-noun combinations, 1"

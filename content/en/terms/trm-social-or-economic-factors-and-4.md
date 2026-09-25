@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-or-economic-factors-and-4"
-id: "TRM-ENG-41707"
+id: "TRM-ENG-56236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social or economic factors and, 4"

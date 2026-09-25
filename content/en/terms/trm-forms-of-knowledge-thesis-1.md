@@ -1,6 +1,6 @@
 ---
 slug: "trm-forms-of-knowledge-thesis-1"
-id: "TRM-ENG-46636"
+id: "TRM-ENG-61165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Forms of knowledge thesis, 1"

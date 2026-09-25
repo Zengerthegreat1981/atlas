@@ -1,6 +1,6 @@
 ---
 slug: "trm-roberts-bw-caspi-a-moffitt-te"
-id: "TRM-ENG-48021"
+id: "TRM-ENG-62550"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Roberts BW, Caspi A, Moffitt TE"

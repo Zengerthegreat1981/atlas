@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-therapist-may-need-to-elevate-the-temperature-ily"
-id: "TRM-ENG-51881"
+id: "TRM-ENG-66410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the therapist may need to elevate the temperature ily"

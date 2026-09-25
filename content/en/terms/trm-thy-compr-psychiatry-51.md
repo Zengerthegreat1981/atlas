@@ -1,6 +1,6 @@
 ---
 slug: "trm-thy-compr-psychiatry-51"
-id: "TRM-ENG-48658"
+id: "TRM-ENG-63187"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thy. Compr Psychiatry 51"

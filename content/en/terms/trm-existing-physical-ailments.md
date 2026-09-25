@@ -1,6 +1,6 @@
 ---
 slug: "trm-existing-physical-ailments"
-id: "TRM-ENG-43031"
+id: "TRM-ENG-57560"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "existing physical ailments"

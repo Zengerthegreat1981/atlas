@@ -1,6 +1,6 @@
 ---
 slug: "trm-paideia-2"
-id: "TRM-ENG-47093"
+id: "TRM-ENG-61622"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paideia, 2"

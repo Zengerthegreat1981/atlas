@@ -1,6 +1,6 @@
 ---
 slug: "trm-newcombs-problem-1"
-id: "TRM-ENG-44649"
+id: "TRM-ENG-59178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Newcomb’s problem, 1"

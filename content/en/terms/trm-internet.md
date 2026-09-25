@@ -1,6 +1,6 @@
 ---
 slug: "trm-internet"
-id: "TRM-ENG-38253"
+id: "TRM-ENG-52782"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Internet"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-els"
-id: "TRM-ENG-35002"
+id: "TRM-ENG-64060"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "els"

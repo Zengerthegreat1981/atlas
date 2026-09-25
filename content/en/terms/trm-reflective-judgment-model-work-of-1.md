@@ -1,6 +1,6 @@
 ---
 slug: "trm-reflective-judgment-model-work-of-1"
-id: "TRM-ENG-41447"
+id: "TRM-ENG-55976"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reflective judgment model work of, 1"

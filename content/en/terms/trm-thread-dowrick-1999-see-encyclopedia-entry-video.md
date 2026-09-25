@@ -1,6 +1,6 @@
 ---
 slug: "trm-thread-dowrick-1999-see-encyclopedia-entry-video"
-id: "TRM-ENG-37157"
+id: "TRM-ENG-66215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thread (Dowrick, 1999; see encyclopedia entry “Video"

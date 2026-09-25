@@ -1,6 +1,6 @@
 ---
 slug: "trm-sixtynine"
-id: "TRM-ENG-52390"
+id: "TRM-ENG-66919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sixty-nine"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolpe-j-1993-commentary"
-id: "TRM-ENG-36061"
+id: "TRM-ENG-65119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolpe, J. (1993). Commentary"

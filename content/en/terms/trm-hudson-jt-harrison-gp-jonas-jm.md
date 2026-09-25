@@ -1,6 +1,6 @@
 ---
 slug: "trm-hudson-jt-harrison-gp-jonas-jm"
-id: "TRM-ENG-41048"
+id: "TRM-ENG-55577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hudson JT, Harrison GP, Jonas JM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1998-stress-reductior-for-family-caregivers"
-id: "TRM-ENG-34566"
+id: "TRM-ENG-63624"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1998). Stress reductior for family caregivers"

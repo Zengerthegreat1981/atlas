@@ -1,6 +1,6 @@
 ---
 slug: "trm-line-patients-am-j-psychiatry-143"
-id: "TRM-ENG-48430"
+id: "TRM-ENG-62959"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "line patients. Am J Psychiatry 143"

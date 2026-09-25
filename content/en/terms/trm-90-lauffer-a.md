@@ -1,6 +1,6 @@
 ---
 slug: "trm-90-lauffer-a"
-id: "TRM-ENG-39573"
+id: "TRM-ENG-54102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "90. Lauffer A"

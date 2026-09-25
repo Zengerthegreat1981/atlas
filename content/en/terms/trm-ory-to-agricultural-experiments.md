@@ -1,6 +1,6 @@
 ---
 slug: "trm-ory-to-agricultural-experiments"
-id: "TRM-ENG-36022"
+id: "TRM-ENG-65080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ory to agricultural experiments"

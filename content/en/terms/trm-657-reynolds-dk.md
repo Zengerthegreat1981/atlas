@@ -1,6 +1,6 @@
 ---
 slug: "trm-657-reynolds-dk"
-id: "TRM-ENG-39285"
+id: "TRM-ENG-53814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "657. Reynolds DK"

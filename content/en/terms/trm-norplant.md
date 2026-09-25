@@ -1,6 +1,6 @@
 ---
 slug: "trm-norplant"
-id: "TRM-ENG-45902"
+id: "TRM-ENG-60431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Norplant"

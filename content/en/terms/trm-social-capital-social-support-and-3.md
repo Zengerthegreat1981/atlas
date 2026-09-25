@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-capital-social-support-and-3"
-id: "TRM-ENG-41682"
+id: "TRM-ENG-56211"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social capital, social support and, 3"

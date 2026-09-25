@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-dynamic-processing-system"
-id: "TRM-ENG-43227"
+id: "TRM-ENG-57756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social dynamic processing system"

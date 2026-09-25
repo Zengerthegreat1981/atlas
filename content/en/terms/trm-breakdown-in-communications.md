@@ -1,6 +1,6 @@
 ---
 slug: "trm-breakdown-in-communications"
-id: "TRM-ENG-46047"
+id: "TRM-ENG-60576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "breakdown in communications"

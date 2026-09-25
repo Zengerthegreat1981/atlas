@@ -1,6 +1,6 @@
 ---
 slug: "trm-academic-press-doi"
-id: "TRM-ENG-43365"
+id: "TRM-ENG-57894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Academic Press. doi"

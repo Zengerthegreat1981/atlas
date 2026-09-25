@@ -1,6 +1,6 @@
 ---
 slug: "trm-wells-f-l-1924-pleasure-and-behavior-new-york"
-id: "TRM-ENG-37423"
+id: "TRM-ENG-51952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wells, F. L. (1924). Pleasure and behavior. New York"

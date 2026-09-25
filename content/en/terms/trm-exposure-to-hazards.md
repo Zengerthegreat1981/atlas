@@ -1,6 +1,6 @@
 ---
 slug: "trm-exposure-to-hazards"
-id: "TRM-ENG-35666"
+id: "TRM-ENG-50195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Exposure to hazards"

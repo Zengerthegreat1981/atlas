@@ -1,6 +1,6 @@
 ---
 slug: "trm-dychtwald-k-bodymind-los-angeles"
-id: "TRM-ENG-45799"
+id: "TRM-ENG-60328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dychtwald, K. Bodymind. Los Angeles"

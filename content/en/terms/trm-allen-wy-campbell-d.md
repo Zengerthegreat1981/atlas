@@ -1,6 +1,6 @@
 ---
 slug: "trm-allen-wy-campbell-d"
-id: "TRM-ENG-39668"
+id: "TRM-ENG-54197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allen WY, Campbell D"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-punishment"
-id: "TRM-ENG-45263"
+id: "TRM-ENG-59792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "punishment"

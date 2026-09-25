@@ -1,6 +1,6 @@
 ---
 slug: "trm-bility-is-momentary-sampling"
-id: "TRM-ENG-35693"
+id: "TRM-ENG-64751"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bility is momentary sampling"

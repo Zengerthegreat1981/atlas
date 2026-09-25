@@ -1,6 +1,6 @@
 ---
 slug: "trm-problemsolving-appraisal-and-2"
-id: "TRM-ENG-41277"
+id: "TRM-ENG-55806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "problem-solving appraisal and, 2"

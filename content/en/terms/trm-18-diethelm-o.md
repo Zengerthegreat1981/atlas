@@ -1,6 +1,6 @@
 ---
 slug: "trm-18-diethelm-o"
-id: "TRM-ENG-38659"
+id: "TRM-ENG-53188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "18. Diethelm O"

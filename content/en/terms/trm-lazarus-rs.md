@@ -1,6 +1,6 @@
 ---
 slug: "trm-lazarus-rs"
-id: "TRM-ENG-41377"
+id: "TRM-ENG-55906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lazarus RS"

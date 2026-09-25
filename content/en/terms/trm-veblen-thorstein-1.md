@@ -1,6 +1,6 @@
 ---
 slug: "trm-veblen-thorstein-1"
-id: "TRM-ENG-47456"
+id: "TRM-ENG-61985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Veblen, Thorstein, 1"

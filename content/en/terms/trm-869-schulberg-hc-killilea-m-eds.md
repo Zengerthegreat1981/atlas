@@ -1,6 +1,6 @@
 ---
 slug: "trm-869-schulberg-hc-killilea-m-eds"
-id: "TRM-ENG-39532"
+id: "TRM-ENG-54061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "869. Schulberg HC, Killilea M (eds)"

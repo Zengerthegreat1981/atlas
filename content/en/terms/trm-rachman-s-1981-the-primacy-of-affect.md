@@ -1,6 +1,6 @@
 ---
 slug: "trm-rachman-s-1981-the-primacy-of-affect"
-id: "TRM-ENG-49135"
+id: "TRM-ENG-63664"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rachman, S. (1981). The primacy of affect"

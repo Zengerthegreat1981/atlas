@@ -1,6 +1,6 @@
 ---
 slug: "trm-shays2004theshahids"
-id: "TRM-ENG-37287"
+id: "TRM-ENG-66345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shay,S.(2004).TheShahids"

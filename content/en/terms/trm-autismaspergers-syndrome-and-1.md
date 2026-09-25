@@ -1,6 +1,6 @@
 ---
 slug: "trm-autismaspergers-syndrome-and-1"
-id: "TRM-ENG-39295"
+id: "TRM-ENG-53824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "autism/Asperger’s syndrome and, 1"

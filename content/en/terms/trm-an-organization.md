@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-organization"
-id: "TRM-ENG-39151"
+id: "TRM-ENG-53680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "an organization"

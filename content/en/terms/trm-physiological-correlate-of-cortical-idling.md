@@ -1,6 +1,6 @@
 ---
 slug: "trm-physiological-correlate-of-cortical-idling"
-id: "TRM-ENG-36861"
+id: "TRM-ENG-65919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physiological correlate of cortical idling"

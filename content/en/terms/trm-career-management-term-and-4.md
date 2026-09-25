@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-management-term-and-4"
-id: "TRM-ENG-39434"
+id: "TRM-ENG-53963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career management term and, 4"

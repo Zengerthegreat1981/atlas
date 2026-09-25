@@ -1,6 +1,6 @@
 ---
 slug: "trm-kennedy-n"
-id: "TRM-ENG-41226"
+id: "TRM-ENG-55755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kennedy N"

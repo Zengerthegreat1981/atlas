@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-hypnotic-suggestion-on-fibromyalgic-pain"
-id: "TRM-ENG-38022"
+id: "TRM-ENG-67080"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of hypnotic suggestion on fibromyalgic pain"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-542-szara-si-ludford-jp-eds"
-id: "TRM-ENG-39153"
+id: "TRM-ENG-53682"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "542. Szara SI, Ludford JP (eds)"

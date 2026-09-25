@@ -1,6 +1,6 @@
 ---
 slug: "trm-steketee-g-foa-eb-grayson-jb"
-id: "TRM-ENG-42460"
+id: "TRM-ENG-56989"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Steketee G, Foa EB, Grayson JB"

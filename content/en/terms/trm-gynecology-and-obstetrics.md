@@ -1,6 +1,6 @@
 ---
 slug: "trm-gynecology-and-obstetrics"
-id: "TRM-ENG-45064"
+id: "TRM-ENG-59593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gynecology and obstetrics"

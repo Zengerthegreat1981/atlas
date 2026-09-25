@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-need"
-id: "TRM-ENG-44121"
+id: "TRM-ENG-58650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human need"

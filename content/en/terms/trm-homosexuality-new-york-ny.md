@@ -1,6 +1,6 @@
 ---
 slug: "trm-homosexuality-new-york-ny"
-id: "TRM-ENG-51516"
+id: "TRM-ENG-66045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "homosexuality. New York, NY"

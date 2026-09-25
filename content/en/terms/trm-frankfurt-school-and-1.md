@@ -1,6 +1,6 @@
 ---
 slug: "trm-frankfurt-school-and-1"
-id: "TRM-ENG-46644"
+id: "TRM-ENG-61173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frankfurt school and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dispositional-structure"
-id: "TRM-ENG-39957"
+id: "TRM-ENG-54486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dispositional structure"

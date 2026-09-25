@@ -1,6 +1,6 @@
 ---
 slug: "trm-values-of-certainty-and-truth"
-id: "TRM-ENG-43237"
+id: "TRM-ENG-57766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "values of certainty and truth"

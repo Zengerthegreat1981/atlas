@@ -1,6 +1,6 @@
 ---
 slug: "trm-dunbar-h-f-emotions-and-bodily-changes"
-id: "TRM-ENG-44360"
+id: "TRM-ENG-58889"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dunbar, H. F., Emotions and Bodily Changes"

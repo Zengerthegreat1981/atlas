@@ -1,6 +1,6 @@
 ---
 slug: "trm-rosenzweig-saul-1"
-id: "TRM-ENG-38704"
+id: "TRM-ENG-53233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rosenzweig, Saul, 1"

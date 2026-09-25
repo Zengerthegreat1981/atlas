@@ -1,6 +1,6 @@
 ---
 slug: "trm-relaxationtraining"
-id: "TRM-ENG-47251"
+id: "TRM-ENG-61780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relaxationtraining"

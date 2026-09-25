@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-any-class-of-person"
-id: "TRM-ENG-45387"
+id: "TRM-ENG-59916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to any class of person"

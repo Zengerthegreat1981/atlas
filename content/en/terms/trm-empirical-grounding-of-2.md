@@ -1,6 +1,6 @@
 ---
 slug: "trm-empirical-grounding-of-2"
-id: "TRM-ENG-40043"
+id: "TRM-ENG-54572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "empirical grounding of, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-analgesiaforinvasivemedicalprocedures"
-id: "TRM-ENG-37507"
+id: "TRM-ENG-66565"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analgesiaforinvasivemedicalprocedures"

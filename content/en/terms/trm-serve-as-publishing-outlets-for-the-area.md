@@ -1,6 +1,6 @@
 ---
 slug: "trm-serve-as-publishing-outlets-for-the-area"
-id: "TRM-ENG-41632"
+id: "TRM-ENG-56161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "serve as publishing outlets for the area"

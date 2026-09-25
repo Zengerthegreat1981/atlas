@@ -1,6 +1,6 @@
 ---
 slug: "trm-andphantomlimbpain"
-id: "TRM-ENG-46824"
+id: "TRM-ENG-61353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andphantomlimbpain"

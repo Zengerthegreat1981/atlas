@@ -1,6 +1,6 @@
 ---
 slug: "trm-which-comprises"
-id: "TRM-ENG-48725"
+id: "TRM-ENG-63254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "which comprises"

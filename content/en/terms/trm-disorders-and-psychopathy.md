@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-and-psychopathy"
-id: "TRM-ENG-48321"
+id: "TRM-ENG-62850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorders and psychopathy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-zurif-e-1974-auditory-lateralization"
-id: "TRM-ENG-34722"
+id: "TRM-ENG-63780"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zurif, E. (1974). Auditory lateralization"

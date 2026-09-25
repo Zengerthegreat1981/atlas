@@ -1,6 +1,6 @@
 ---
 slug: "trm-r-according-to-the-spearmanbrown-formula"
-id: "TRM-ENG-35524"
+id: "TRM-ENG-50053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "R , according to the Spearman–Brown formula"

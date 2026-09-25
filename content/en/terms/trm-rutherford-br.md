@@ -1,6 +1,6 @@
 ---
 slug: "trm-rutherford-br"
-id: "TRM-ENG-42208"
+id: "TRM-ENG-56737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rutherford BR"

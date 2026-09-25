@@ -1,6 +1,6 @@
 ---
 slug: "trm-adlerian-and-constructive-therapies"
-id: "TRM-ENG-50087"
+id: "TRM-ENG-64616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Adlerian and constructive therapies"

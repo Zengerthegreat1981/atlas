@@ -1,6 +1,6 @@
 ---
 slug: "trm-mothers-and-fathers"
-id: "TRM-ENG-45162"
+id: "TRM-ENG-59691"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mothers and fathers"

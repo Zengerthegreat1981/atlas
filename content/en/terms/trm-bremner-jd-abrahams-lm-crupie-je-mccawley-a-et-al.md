@@ -1,6 +1,6 @@
 ---
 slug: "trm-bremner-jd-abrahams-lm-crupie-je-mccawley-a-et-al"
-id: "TRM-ENG-40024"
+id: "TRM-ENG-54553"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bremner JD, Abrahams LM, Crupie JE, McCawley A, et al"

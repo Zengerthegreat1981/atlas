@@ -1,6 +1,6 @@
 ---
 slug: "trm-journal-of-counseling-psychologyrankings-and-3"
-id: "TRM-ENG-38303"
+id: "TRM-ENG-52832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Journal of Counseling Psychologyrankings and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-william-jamesselfconcept-theory-and-2"
-id: "TRM-ENG-39045"
+id: "TRM-ENG-53574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "William James’self-concept theory and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-organized-under-three-clusters"
-id: "TRM-ENG-36819"
+id: "TRM-ENG-65877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "organized under three clusters"

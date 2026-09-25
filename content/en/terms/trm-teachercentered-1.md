@@ -1,6 +1,6 @@
 ---
 slug: "trm-teachercentered-1"
-id: "TRM-ENG-48793"
+id: "TRM-ENG-63322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "teacher-centered, 1"

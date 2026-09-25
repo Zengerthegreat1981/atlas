@@ -1,6 +1,6 @@
 ---
 slug: "trm-indigenous-models-of-helping-in-nonwestern-countries"
-id: "TRM-ENG-38235"
+id: "TRM-ENG-52764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indigenous models of helping in non-Western countries"

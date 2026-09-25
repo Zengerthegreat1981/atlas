@@ -1,6 +1,6 @@
 ---
 slug: "trm-their-perfectionism"
-id: "TRM-ENG-44212"
+id: "TRM-ENG-58741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "their perfectionism"

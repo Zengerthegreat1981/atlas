@@ -1,6 +1,6 @@
 ---
 slug: "trm-vienna-circle-and-2"
-id: "TRM-ENG-38975"
+id: "TRM-ENG-53504"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vienna Circle and, 2"

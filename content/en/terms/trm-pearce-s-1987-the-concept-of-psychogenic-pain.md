@@ -1,6 +1,6 @@
 ---
 slug: "trm-pearce-s-1987-the-concept-of-psychogenic-pain"
-id: "TRM-ENG-46652"
+id: "TRM-ENG-61181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pearce, S. (1987). The concept of psychogenic pain"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-clark-dh-cooper-lw"
-id: "TRM-ENG-40186"
+id: "TRM-ENG-54715"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark DH, Cooper LW"

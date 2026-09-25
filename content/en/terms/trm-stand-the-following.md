@@ -1,6 +1,6 @@
 ---
 slug: "trm-stand-the-following"
-id: "TRM-ENG-48748"
+id: "TRM-ENG-63277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stand the following"

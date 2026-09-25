@@ -1,6 +1,6 @@
 ---
 slug: "trm-walzer-h"
-id: "TRM-ENG-42713"
+id: "TRM-ENG-57242"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walzer H"

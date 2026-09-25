@@ -1,6 +1,6 @@
 ---
 slug: "trm-grieving-a-loss-does-exactly-the-opposite"
-id: "TRM-ENG-51492"
+id: "TRM-ENG-66021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "grieving a loss does exactly the opposite"

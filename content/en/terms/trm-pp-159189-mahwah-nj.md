@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-159189-mahwah-nj"
-id: "TRM-ENG-35162"
+id: "TRM-ENG-64220"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 159–189). Mahwah, NJ"

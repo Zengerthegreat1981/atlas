@@ -1,6 +1,6 @@
 ---
 slug: "trm-whitaker-c-a-malone-tp"
-id: "TRM-ENG-42771"
+id: "TRM-ENG-57300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whitaker C A, Malone TP"

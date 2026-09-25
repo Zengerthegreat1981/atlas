@@ -1,6 +1,6 @@
 ---
 slug: "trm-ential-approach-to-behavioral-change-new-york"
-id: "TRM-ENG-42807"
+id: "TRM-ENG-57336"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ential approach to behavioral change. New York"

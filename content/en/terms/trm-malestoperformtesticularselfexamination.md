@@ -1,6 +1,6 @@
 ---
 slug: "trm-malestoperformtesticularselfexamination"
-id: "TRM-ENG-47090"
+id: "TRM-ENG-61619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "malestoperformtesticularself-examination"

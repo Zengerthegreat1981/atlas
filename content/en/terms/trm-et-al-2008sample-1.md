@@ -1,6 +1,6 @@
 ---
 slug: "trm-et-al-2008sample-1"
-id: "TRM-ENG-43679"
+id: "TRM-ENG-58208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "et al., 2008—sample 1"

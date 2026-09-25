@@ -1,6 +1,6 @@
 ---
 slug: "trm-fine-r-1979-a-history-of-psychoanalysis-new-york"
-id: "TRM-ENG-36794"
+id: "TRM-ENG-51323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fine, R. (1979). A history of psychoanalysis. New York"

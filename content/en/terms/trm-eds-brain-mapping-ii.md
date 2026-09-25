@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-brain-mapping-ii"
-id: "TRM-ENG-44254"
+id: "TRM-ENG-58783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), Brain mapping II"

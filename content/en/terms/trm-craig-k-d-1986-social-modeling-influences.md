@@ -1,6 +1,6 @@
 ---
 slug: "trm-craig-k-d-1986-social-modeling-influences"
-id: "TRM-ENG-48953"
+id: "TRM-ENG-63482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Craig, K. D. (1986). Social modeling influences"

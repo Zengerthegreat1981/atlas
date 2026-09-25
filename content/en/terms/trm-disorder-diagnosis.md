@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorder-diagnosis"
-id: "TRM-ENG-43666"
+id: "TRM-ENG-58195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorder diagnosis"

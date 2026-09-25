@@ -1,6 +1,6 @@
 ---
 slug: "trm-focuses-of-specific-processes-and-4"
-id: "TRM-ENG-40220"
+id: "TRM-ENG-54749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "focuses of specific processes and, 4"

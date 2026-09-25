@@ -1,6 +1,6 @@
 ---
 slug: "trm-slezak-p-1994a-laboratory-life-under-the-microscope"
-id: "TRM-ENG-47298"
+id: "TRM-ENG-61827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Slezak, P. (1994a). Laboratory life under the microscope"

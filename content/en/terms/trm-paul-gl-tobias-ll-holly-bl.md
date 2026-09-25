@@ -1,6 +1,6 @@
 ---
 slug: "trm-paul-gl-tobias-ll-holly-bl"
-id: "TRM-ENG-41946"
+id: "TRM-ENG-56475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paul GL, Tobias LL, Holly BL"

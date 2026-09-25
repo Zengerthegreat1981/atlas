@@ -1,6 +1,6 @@
 ---
 slug: "trm-action-theory-and-4"
-id: "TRM-ENG-39097"
+id: "TRM-ENG-53626"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "action theory and, 4"

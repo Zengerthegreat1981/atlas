@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp264375-boston"
-id: "TRM-ENG-35512"
+id: "TRM-ENG-64570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.264–375). Boston"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bernstein-and-1"
-id: "TRM-ENG-46303"
+id: "TRM-ENG-60832"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bernstein and, 1"

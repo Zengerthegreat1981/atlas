@@ -1,6 +1,6 @@
 ---
 slug: "trm-anthony-s-the-childs-discovery-of-death"
-id: "TRM-ENG-44256"
+id: "TRM-ENG-58785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anthony, S., The Child’s Discovery of Death"

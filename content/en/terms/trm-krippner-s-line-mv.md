@@ -1,6 +1,6 @@
 ---
 slug: "trm-krippner-s-line-mv"
-id: "TRM-ENG-41314"
+id: "TRM-ENG-55843"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krippner S, Line MV"

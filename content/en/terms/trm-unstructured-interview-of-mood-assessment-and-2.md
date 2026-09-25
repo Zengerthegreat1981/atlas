@@ -1,6 +1,6 @@
 ---
 slug: "trm-unstructured-interview-of-mood-assessment-and-2"
-id: "TRM-ENG-42088"
+id: "TRM-ENG-56617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unstructured interview of mood assessment and, 2"

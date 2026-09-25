@@ -1,6 +1,6 @@
 ---
 slug: "trm-reside"
-id: "TRM-ENG-45283"
+id: "TRM-ENG-59812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reside"

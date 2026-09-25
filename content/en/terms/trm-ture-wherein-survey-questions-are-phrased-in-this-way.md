@@ -1,6 +1,6 @@
 ---
 slug: "trm-ture-wherein-survey-questions-are-phrased-in-this-way"
-id: "TRM-ENG-42053"
+id: "TRM-ENG-56582"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ture, wherein survey questions are phrased in this way"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-aptitude-test-2"
-id: "TRM-ENG-39242"
+id: "TRM-ENG-53771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aptitude test, 2"

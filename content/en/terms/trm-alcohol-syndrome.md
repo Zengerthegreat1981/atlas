@@ -1,6 +1,6 @@
 ---
 slug: "trm-alcohol-syndrome"
-id: "TRM-ENG-36101"
+id: "TRM-ENG-65159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alcohol syndrome"

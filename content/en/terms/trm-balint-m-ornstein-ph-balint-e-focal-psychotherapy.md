@@ -1,6 +1,6 @@
 ---
 slug: "trm-balint-m-ornstein-ph-balint-e-focal-psychotherapy"
-id: "TRM-ENG-39786"
+id: "TRM-ENG-54315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Balint M, Ornstein PH, Balint E: Focal Psychotherapy"

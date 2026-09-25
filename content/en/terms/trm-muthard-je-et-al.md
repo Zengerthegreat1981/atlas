@@ -1,6 +1,6 @@
 ---
 slug: "trm-muthard-je-et-al"
-id: "TRM-ENG-41808"
+id: "TRM-ENG-56337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Muthard JE, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-r-m-doctor-major-results-of-a-largescale-survey-of-agoraphobics-in-duponts-ed-phobia"
-id: "TRM-ENG-45927"
+id: "TRM-ENG-60456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "R. M. Doctor, “Major Results of a Large-scale Survey of Agoraphobics,” in DuPont’s (ed.) Phobia"

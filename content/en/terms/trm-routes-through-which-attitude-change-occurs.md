@@ -1,6 +1,6 @@
 ---
 slug: "trm-routes-through-which-attitude-change-occurs"
-id: "TRM-ENG-45487"
+id: "TRM-ENG-60016"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "routes through which attitude change occurs"

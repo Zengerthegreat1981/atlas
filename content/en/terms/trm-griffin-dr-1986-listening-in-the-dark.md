@@ -1,6 +1,6 @@
 ---
 slug: "trm-griffin-dr-1986-listening-in-the-dark"
-id: "TRM-ENG-35717"
+id: "TRM-ENG-50246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Griffin, D.R. (1986). Listening in the dark"

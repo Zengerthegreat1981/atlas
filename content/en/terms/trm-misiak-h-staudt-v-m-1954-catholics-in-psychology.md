@@ -1,6 +1,6 @@
 ---
 slug: "trm-misiak-h-staudt-v-m-1954-catholics-in-psychology"
-id: "TRM-ENG-37086"
+id: "TRM-ENG-66144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Misiak, H., & Staudt, V. M. (1954). Catholics in psychology"

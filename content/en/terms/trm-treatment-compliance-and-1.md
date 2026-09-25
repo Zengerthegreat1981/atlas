@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-compliance-and-1"
-id: "TRM-ENG-42041"
+id: "TRM-ENG-56570"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment compliance and, 1"

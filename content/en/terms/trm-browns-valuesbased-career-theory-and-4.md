@@ -1,6 +1,6 @@
 ---
 slug: "trm-browns-valuesbased-career-theory-and-4"
-id: "TRM-ENG-37733"
+id: "TRM-ENG-52262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown’s values-based career theory and, 4"

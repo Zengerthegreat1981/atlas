@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychophysiology-45-173187-doi"
-id: "TRM-ENG-35519"
+id: "TRM-ENG-50048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychophysiology, 45, 173–187. doi"

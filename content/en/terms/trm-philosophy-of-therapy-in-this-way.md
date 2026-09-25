@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy-of-therapy-in-this-way"
-id: "TRM-ENG-43142"
+id: "TRM-ENG-57671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "philosophy of therapy in this way"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-property"
-id: "TRM-ENG-45449"
+id: "TRM-ENG-59978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "property"

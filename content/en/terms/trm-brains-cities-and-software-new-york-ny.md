@@ -1,6 +1,6 @@
 ---
 slug: "trm-brains-cities-and-software-new-york-ny"
-id: "TRM-ENG-47710"
+id: "TRM-ENG-62239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "brains, cities, and software. New York, NY"

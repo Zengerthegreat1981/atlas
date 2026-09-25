@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-people-in-rural-communities-are-as-follows"
-id: "TRM-ENG-40555"
+id: "TRM-ENG-55084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing people in rural communities are as follows"

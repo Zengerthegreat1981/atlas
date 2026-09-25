@@ -1,6 +1,6 @@
 ---
 slug: "trm-item-response-theory-and-2"
-id: "TRM-ENG-40654"
+id: "TRM-ENG-55183"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "item response theory and, 2"

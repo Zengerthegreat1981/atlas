@@ -1,6 +1,6 @@
 ---
 slug: "trm-patient-who-lies-on-the-couch"
-id: "TRM-ENG-45224"
+id: "TRM-ENG-59753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patient who lies on the couch"

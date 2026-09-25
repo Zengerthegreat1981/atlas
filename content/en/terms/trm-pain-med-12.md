@@ -1,6 +1,6 @@
 ---
 slug: "trm-pain-med-12"
-id: "TRM-ENG-47927"
+id: "TRM-ENG-62456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pain Med 12"

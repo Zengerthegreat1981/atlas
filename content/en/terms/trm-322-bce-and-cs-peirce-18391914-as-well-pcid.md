@@ -1,6 +1,6 @@
 ---
 slug: "trm-322-bce-and-cs-peirce-18391914-as-well-pcid"
-id: "TRM-ENG-45635"
+id: "TRM-ENG-60164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "322 B.C.E.) and C.S. PEIRCE (1839–1914), as well P(cid"

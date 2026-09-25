@@ -1,6 +1,6 @@
 ---
 slug: "trm-greist-jh-klein-jh"
-id: "TRM-ENG-40824"
+id: "TRM-ENG-55353"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greist JH, Klein JH"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-positive-discourse-analysis-1"
-id: "TRM-ENG-47142"
+id: "TRM-ENG-61671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Positive discourse analysis, 1"

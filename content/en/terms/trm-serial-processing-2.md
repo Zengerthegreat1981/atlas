@@ -1,6 +1,6 @@
 ---
 slug: "trm-serial-processing-2"
-id: "TRM-ENG-44763"
+id: "TRM-ENG-59292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Serial processing, 2"

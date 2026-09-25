@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-the-basis-of-two-modes-of-manifestation"
-id: "TRM-ENG-48472"
+id: "TRM-ENG-63001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on the basis of two modes of manifestation"

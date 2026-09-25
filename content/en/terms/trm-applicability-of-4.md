@@ -1,6 +1,6 @@
 ---
 slug: "trm-applicability-of-4"
-id: "TRM-ENG-39233"
+id: "TRM-ENG-53762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "applicability of, 4"

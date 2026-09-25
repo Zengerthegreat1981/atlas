@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-and-psychology-11-3544-doi"
-id: "TRM-ENG-35594"
+id: "TRM-ENG-64652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Theory and Psychology, 11, 35–44. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-snap-minneapolis"
-id: "TRM-ENG-43500"
+id: "TRM-ENG-58029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality (SNAP). Minneapolis"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-occurrence-are-coded-and-entered-into-the-computer-con-mo"
-id: "TRM-ENG-36758"
+id: "TRM-ENG-65816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "occurrence are coded and entered into the computer. Con- MO"

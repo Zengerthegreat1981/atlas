@@ -1,6 +1,6 @@
 ---
 slug: "trm-commission-on-rehabilitation-education-core-1"
-id: "TRM-ENG-37850"
+id: "TRM-ENG-52379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Commission on Rehabilitation Education (CORE), 1"

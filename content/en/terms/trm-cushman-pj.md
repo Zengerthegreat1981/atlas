@@ -1,6 +1,6 @@
 ---
 slug: "trm-cushman-pj"
-id: "TRM-ENG-40287"
+id: "TRM-ENG-54816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cushman PJ"

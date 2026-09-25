@@ -1,6 +1,6 @@
 ---
 slug: "trm-sion-of-six-personality-disorder-types"
-id: "TRM-ENG-43838"
+id: "TRM-ENG-58367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sion of six personality disorder types"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-leake-cd"
-id: "TRM-ENG-41385"
+id: "TRM-ENG-55914"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leake CD"

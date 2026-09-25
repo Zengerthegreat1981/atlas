@@ -1,6 +1,6 @@
 ---
 slug: "trm-youngofotherdomesticspeciestotakeoneexample"
-id: "TRM-ENG-38472"
+id: "TRM-ENG-53001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "youngofotherdomesticspecies.Totakeoneexample"

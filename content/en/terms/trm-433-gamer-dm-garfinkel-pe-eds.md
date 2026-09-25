@@ -1,6 +1,6 @@
 ---
 slug: "trm-433-gamer-dm-garfinkel-pe-eds"
-id: "TRM-ENG-39022"
+id: "TRM-ENG-53551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "433. Gamer DM, Garfinkel PE (eds)"

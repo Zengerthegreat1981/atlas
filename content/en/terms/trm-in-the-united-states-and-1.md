@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-the-united-states-and-1"
-id: "TRM-ENG-40494"
+id: "TRM-ENG-55023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in the United States and, 1"

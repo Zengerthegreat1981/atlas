@@ -1,6 +1,6 @@
 ---
 slug: "trm-consists-of-26-items-and-four-factors-a-dif"
-id: "TRM-ENG-43652"
+id: "TRM-ENG-58181"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consists of 26 items and four factors: (a) DIF"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lescence"
-id: "TRM-ENG-42970"
+id: "TRM-ENG-57499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lescence"

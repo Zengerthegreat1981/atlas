@@ -1,6 +1,6 @@
 ---
 slug: "trm-journal-of-3"
-id: "TRM-ENG-40667"
+id: "TRM-ENG-55196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "journal of, 3"

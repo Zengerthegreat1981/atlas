@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-attitudes"
-id: "TRM-ENG-36497"
+id: "TRM-ENG-65555"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group attitudes"

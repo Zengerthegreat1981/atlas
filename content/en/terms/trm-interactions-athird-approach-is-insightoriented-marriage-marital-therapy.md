@@ -1,6 +1,6 @@
 ---
 slug: "trm-interactions-athird-approach-is-insightoriented-marriage-marital-therapy"
-id: "TRM-ENG-36586"
+id: "TRM-ENG-65644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interactions. Athird approach is insight-oriented marriage marital therapy"

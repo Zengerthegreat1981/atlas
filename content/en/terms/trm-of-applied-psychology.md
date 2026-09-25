@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-applied-psychology"
-id: "TRM-ENG-44106"
+id: "TRM-ENG-58635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of applied psychology"

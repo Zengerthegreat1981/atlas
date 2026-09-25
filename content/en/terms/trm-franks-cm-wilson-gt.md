@@ -1,6 +1,6 @@
 ---
 slug: "trm-franks-cm-wilson-gt"
-id: "TRM-ENG-40595"
+id: "TRM-ENG-55124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Franks CM, Wilson GT"

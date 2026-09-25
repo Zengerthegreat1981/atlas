@@ -1,6 +1,6 @@
 ---
 slug: "trm-craig-gary-1"
-id: "TRM-ENG-50295"
+id: "TRM-ENG-64824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Craig, Gary, 1"

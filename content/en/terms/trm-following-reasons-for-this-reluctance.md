@@ -1,6 +1,6 @@
 ---
 slug: "trm-following-reasons-for-this-reluctance"
-id: "TRM-ENG-43044"
+id: "TRM-ENG-57573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "following reasons for this reluctance"

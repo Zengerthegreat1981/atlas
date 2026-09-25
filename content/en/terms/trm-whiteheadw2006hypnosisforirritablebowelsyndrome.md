@@ -1,6 +1,6 @@
 ---
 slug: "trm-whiteheadw2006hypnosisforirritablebowelsyndrome"
-id: "TRM-ENG-37434"
+id: "TRM-ENG-66492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whitehead,W.(2006).Hypnosisforirritablebowelsyndrome"

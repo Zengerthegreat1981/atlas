@@ -1,6 +1,6 @@
 ---
 slug: "trm-differencesstanfordca"
-id: "TRM-ENG-37695"
+id: "TRM-ENG-66753"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "differences.Stanford,CA"

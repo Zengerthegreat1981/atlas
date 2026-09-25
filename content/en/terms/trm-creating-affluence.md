@@ -1,6 +1,6 @@
 ---
 slug: "trm-creating-affluence"
-id: "TRM-ENG-46278"
+id: "TRM-ENG-60807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———. Creating Affluence"

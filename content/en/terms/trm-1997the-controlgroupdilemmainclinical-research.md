@@ -1,6 +1,6 @@
 ---
 slug: "trm-1997the-controlgroupdilemmainclinical-research"
-id: "TRM-ENG-46318"
+id: "TRM-ENG-60847"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1997).The controlgroupdilemmainclinical research"

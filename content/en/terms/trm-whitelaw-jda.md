@@ -1,6 +1,6 @@
 ---
 slug: "trm-whitelaw-jda"
-id: "TRM-ENG-42782"
+id: "TRM-ENG-57311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whitelaw JDA"

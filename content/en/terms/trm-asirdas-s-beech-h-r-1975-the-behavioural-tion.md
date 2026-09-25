@@ -1,6 +1,6 @@
 ---
 slug: "trm-asirdas-s-beech-h-r-1975-the-behavioural-tion"
-id: "TRM-ENG-48891"
+id: "TRM-ENG-63420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Asirdas, S., & Beech, H. R. (1975). The behavioural tion"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-first-m-gibbon-m-spitzer-rl-et-al"
-id: "TRM-ENG-47645"
+id: "TRM-ENG-62174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "First M, Gibbon M, Spitzer RL, et al"

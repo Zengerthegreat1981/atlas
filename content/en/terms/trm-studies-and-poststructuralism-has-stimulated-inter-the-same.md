@@ -1,6 +1,6 @@
 ---
 slug: "trm-studies-and-poststructuralism-has-stimulated-inter-the-same"
-id: "TRM-ENG-48772"
+id: "TRM-ENG-63301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "studies and poststructuralism, has stimulated inter- the same"

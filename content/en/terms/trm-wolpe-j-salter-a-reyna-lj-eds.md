@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolpe-j-salter-a-reyna-lj-eds"
-id: "TRM-ENG-42860"
+id: "TRM-ENG-57389"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolpe J, Salter A, Reyna LJ (eds)"

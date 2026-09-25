@@ -1,6 +1,6 @@
 ---
 slug: "trm-lieberman-ej-peck-e"
-id: "TRM-ENG-41458"
+id: "TRM-ENG-55987"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lieberman EJ & Peck E"

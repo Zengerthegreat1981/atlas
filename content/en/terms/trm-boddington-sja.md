@@ -1,6 +1,6 @@
 ---
 slug: "trm-boddington-sja"
-id: "TRM-ENG-47515"
+id: "TRM-ENG-62044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Boddington SJA"

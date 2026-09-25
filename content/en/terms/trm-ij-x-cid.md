@@ -1,6 +1,6 @@
 ---
 slug: "trm-ij-x-cid"
-id: "TRM-ENG-35849"
+id: "TRM-ENG-50378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ij x =(cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-fault-that-he-wont-work"
-id: "TRM-ENG-51456"
+id: "TRM-ENG-65985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fault that he won’t work"

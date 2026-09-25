@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorder-factitious-disorders-including-munchausen-syn-plex"
-id: "TRM-ENG-35645"
+id: "TRM-ENG-64703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Disorder); factitious disorders (including Munchausen Syn- plex"

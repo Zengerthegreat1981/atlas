@@ -1,6 +1,6 @@
 ---
 slug: "trm-kohut-calls-the-grandiose-self"
-id: "TRM-ENG-47799"
+id: "TRM-ENG-62328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kohut calls the grandiose self"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-landy-d-greenblatt-m"
-id: "TRM-ENG-41358"
+id: "TRM-ENG-55887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Landy D, Greenblatt M"

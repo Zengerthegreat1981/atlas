@@ -1,6 +1,6 @@
 ---
 slug: "trm-101-coser-la-rosenberg-b"
-id: "TRM-ENG-38555"
+id: "TRM-ENG-53084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "101. Coser LA, Rosenberg B"

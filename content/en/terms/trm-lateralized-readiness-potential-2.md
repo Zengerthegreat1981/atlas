@@ -1,6 +1,6 @@
 ---
 slug: "trm-lateralized-readiness-potential-2"
-id: "TRM-ENG-44584"
+id: "TRM-ENG-59113"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lateralized readiness potential, 2"

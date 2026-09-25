@@ -1,6 +1,6 @@
 ---
 slug: "trm-dreamofasciencenewyork"
-id: "TRM-ENG-37703"
+id: "TRM-ENG-66761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dreamofascience.NewYork"

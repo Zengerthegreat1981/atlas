@@ -1,6 +1,6 @@
 ---
 slug: "trm-martineauj1885typesofethicaltheoryoxford"
-id: "TRM-ENG-37053"
+id: "TRM-ENG-66111"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Martineau,J.(1885).Typesofethicaltheory.Oxford"

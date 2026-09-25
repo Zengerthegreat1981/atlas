@@ -1,6 +1,6 @@
 ---
 slug: "trm-watterson-dj"
-id: "TRM-ENG-42725"
+id: "TRM-ENG-57254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Watterson DJ"

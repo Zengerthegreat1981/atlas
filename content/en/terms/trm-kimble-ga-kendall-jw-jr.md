@@ -1,6 +1,6 @@
 ---
 slug: "trm-kimble-ga-kendall-jw-jr"
-id: "TRM-ENG-41239"
+id: "TRM-ENG-55768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kimble GA, Kendall JW, Jr"

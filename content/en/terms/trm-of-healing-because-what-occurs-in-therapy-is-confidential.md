@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-healing-because-what-occurs-in-therapy-is-confidential"
-id: "TRM-ENG-36776"
+id: "TRM-ENG-65834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of healing. Because what occurs in therapy is confidential"

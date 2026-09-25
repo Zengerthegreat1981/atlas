@@ -1,6 +1,6 @@
 ---
 slug: "trm-daly-am-llewellyn-s-mcdougall-e-2010-apy"
-id: "TRM-ENG-42370"
+id: "TRM-ENG-56899"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Daly, A.-M., Llewellyn, S., & McDougall, E. (2010). apy"

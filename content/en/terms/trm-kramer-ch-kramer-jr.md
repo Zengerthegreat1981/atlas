@@ -1,6 +1,6 @@
 ---
 slug: "trm-kramer-ch-kramer-jr"
-id: "TRM-ENG-41302"
+id: "TRM-ENG-55831"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kramer CH, Kramer JR"

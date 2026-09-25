@@ -1,6 +1,6 @@
 ---
 slug: "trm-ads"
-id: "TRM-ENG-37473"
+id: "TRM-ENG-52002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a.d.S"

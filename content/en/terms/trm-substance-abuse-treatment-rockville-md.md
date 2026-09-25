@@ -1,6 +1,6 @@
 ---
 slug: "trm-substance-abuse-treatment-rockville-md"
-id: "TRM-ENG-51852"
+id: "TRM-ENG-66381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "substance abuse treatment. Rockville, MD"

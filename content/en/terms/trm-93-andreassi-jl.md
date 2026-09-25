@@ -1,6 +1,6 @@
 ---
 slug: "trm-93-andreassi-jl"
-id: "TRM-ENG-39605"
+id: "TRM-ENG-54134"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "93. Andreassi JL"

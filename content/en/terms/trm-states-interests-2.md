@@ -1,6 +1,6 @@
 ---
 slug: "trm-states-interests-2"
-id: "TRM-ENG-48752"
+id: "TRM-ENG-63281"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "states’ interests, 2"

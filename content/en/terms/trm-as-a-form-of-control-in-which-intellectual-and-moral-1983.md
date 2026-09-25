@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-a-form-of-control-in-which-intellectual-and-moral-1983"
-id: "TRM-ENG-47659"
+id: "TRM-ENG-62188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as a form of control in which intellectual and moral 1983"

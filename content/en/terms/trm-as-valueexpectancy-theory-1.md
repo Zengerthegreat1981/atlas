@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-valueexpectancy-theory-1"
-id: "TRM-ENG-39259"
+id: "TRM-ENG-53788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as value-expectancy theory, 1"

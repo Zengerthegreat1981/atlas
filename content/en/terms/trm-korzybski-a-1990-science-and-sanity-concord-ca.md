@@ -1,6 +1,6 @@
 ---
 slug: "trm-korzybski-a-1990-science-and-sanity-concord-ca"
-id: "TRM-ENG-50644"
+id: "TRM-ENG-65173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Korzybski, A. (1990). Science and sanity. Concord, CA"

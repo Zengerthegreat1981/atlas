@@ -1,6 +1,6 @@
 ---
 slug: "trm-hiltner-s-et-al"
-id: "TRM-ENG-40994"
+id: "TRM-ENG-55523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hiltner S, et al"

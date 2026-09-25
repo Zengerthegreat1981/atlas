@@ -1,6 +1,6 @@
 ---
 slug: "trm-borderline-patients-new-york-ny"
-id: "TRM-ENG-51313"
+id: "TRM-ENG-65842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "borderline patients. New York, NY"

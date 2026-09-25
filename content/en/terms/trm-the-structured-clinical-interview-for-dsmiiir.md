@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-structured-clinical-interview-for-dsmiiir"
-id: "TRM-ENG-36010"
+id: "TRM-ENG-50539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The structured clinical interview for DSM-III-R"

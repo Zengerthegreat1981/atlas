@@ -1,6 +1,6 @@
 ---
 slug: "trm-inferences"
-id: "TRM-ENG-35867"
+id: "TRM-ENG-64925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inferences"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-galenic-syndromes"
-id: "TRM-ENG-43992"
+id: "TRM-ENG-58521"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Galenic syndromes"

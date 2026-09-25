@@ -1,6 +1,6 @@
 ---
 slug: "trm-ebbinghaus-hermann-2"
-id: "TRM-ENG-46539"
+id: "TRM-ENG-61068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ebbinghaus, Hermann, 2"

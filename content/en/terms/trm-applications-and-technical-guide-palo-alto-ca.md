@@ -1,6 +1,6 @@
 ---
 slug: "trm-applications-and-technical-guide-palo-alto-ca"
-id: "TRM-ENG-37606"
+id: "TRM-ENG-66664"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Applications and technical guide. Palo Alto, CA"

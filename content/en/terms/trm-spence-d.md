@@ -1,6 +1,6 @@
 ---
 slug: "trm-spence-d"
-id: "TRM-ENG-42413"
+id: "TRM-ENG-56942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spence D"

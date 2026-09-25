@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-ultimately-practical"
-id: "TRM-ENG-47651"
+id: "TRM-ENG-62180"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are ultimately practical"

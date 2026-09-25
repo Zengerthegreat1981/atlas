@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-capacities"
-id: "TRM-ENG-47594"
+id: "TRM-ENG-62123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and capacities"

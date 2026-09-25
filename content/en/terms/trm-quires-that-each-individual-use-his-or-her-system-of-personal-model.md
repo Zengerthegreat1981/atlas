@@ -1,6 +1,6 @@
 ---
 slug: "trm-quires-that-each-individual-use-his-or-her-system-of-personal-model"
-id: "TRM-ENG-36919"
+id: "TRM-ENG-65977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "quires that each individual use his or her system of personal model"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jackson-s-w-galen"
-id: "TRM-ENG-44453"
+id: "TRM-ENG-58982"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jackson, S. W., “Galen"

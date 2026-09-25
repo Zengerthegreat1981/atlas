@@ -1,6 +1,6 @@
 ---
 slug: "trm-explanatory-factors"
-id: "TRM-ENG-37754"
+id: "TRM-ENG-66812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "explanatory factors"

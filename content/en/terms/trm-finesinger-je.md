@@ -1,6 +1,6 @@
 ---
 slug: "trm-finesinger-je"
-id: "TRM-ENG-40529"
+id: "TRM-ENG-55058"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Finesinger JE"

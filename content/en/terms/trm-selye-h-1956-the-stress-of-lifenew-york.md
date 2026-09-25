@@ -1,6 +1,6 @@
 ---
 slug: "trm-selye-h-1956-the-stress-of-lifenew-york"
-id: "TRM-ENG-35954"
+id: "TRM-ENG-50483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Selye, H. (1956). The stress of life.New York"

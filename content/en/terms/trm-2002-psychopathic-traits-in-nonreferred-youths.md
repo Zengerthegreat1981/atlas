@@ -1,6 +1,6 @@
 ---
 slug: "trm-2002-psychopathic-traits-in-nonreferred-youths"
-id: "TRM-ENG-42233"
+id: "TRM-ENG-56762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2002). Psychopathic traits in non-referred youths"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tangney-j-p-pischer-ic"
-id: "TRM-ENG-34804"
+id: "TRM-ENG-63862"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tangney, J. P. & Pischer. Ic"

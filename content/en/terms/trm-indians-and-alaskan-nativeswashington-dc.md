@@ -1,6 +1,6 @@
 ---
 slug: "trm-indians-and-alaskan-nativeswashington-dc"
-id: "TRM-ENG-38233"
+id: "TRM-ENG-52762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Indians and Alaskan Natives.Washington, DC"

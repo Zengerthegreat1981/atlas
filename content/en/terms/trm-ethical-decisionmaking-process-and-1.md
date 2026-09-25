@@ -1,6 +1,6 @@
 ---
 slug: "trm-ethical-decisionmaking-process-and-1"
-id: "TRM-ENG-40089"
+id: "TRM-ENG-54618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ethical decision-making process and, 1"

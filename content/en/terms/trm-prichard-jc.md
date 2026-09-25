@@ -1,6 +1,6 @@
 ---
 slug: "trm-prichard-jc"
-id: "TRM-ENG-47945"
+id: "TRM-ENG-62474"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Prichard JC"

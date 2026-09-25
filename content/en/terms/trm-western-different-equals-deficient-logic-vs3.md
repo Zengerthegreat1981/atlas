@@ -1,6 +1,6 @@
 ---
 slug: "trm-western-different-equals-deficient-logic-vs3"
-id: "TRM-ENG-39023"
+id: "TRM-ENG-53552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Western “different equals deficient” logic vs.,3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-severity-indices-of-personality-problems-sipp118"
-id: "TRM-ENG-42528"
+id: "TRM-ENG-57057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Severity Indices of Personality Problems (SIPP-118)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-has-four-stages"
-id: "TRM-ENG-41869"
+id: "TRM-ENG-56398"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that has four stages"

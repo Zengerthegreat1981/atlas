@@ -1,6 +1,6 @@
 ---
 slug: "trm-rado-s-daniels-g"
-id: "TRM-ENG-42054"
+id: "TRM-ENG-56583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rado S, Daniels G"

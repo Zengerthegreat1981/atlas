@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-morey-survey"
-id: "TRM-ENG-48631"
+id: "TRM-ENG-63160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Morey survey"

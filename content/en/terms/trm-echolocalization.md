@@ -1,6 +1,6 @@
 ---
 slug: "trm-echolocalization"
-id: "TRM-ENG-34822"
+id: "TRM-ENG-63880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "echolocalization"

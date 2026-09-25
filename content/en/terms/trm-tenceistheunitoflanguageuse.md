@@ -1,6 +1,6 @@
 ---
 slug: "trm-tenceistheunitoflanguageuse"
-id: "TRM-ENG-38291"
+id: "TRM-ENG-52820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tenceistheunitoflanguageuse"

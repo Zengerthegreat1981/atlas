@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-days-speakers-and-4"
-id: "TRM-ENG-39419"
+id: "TRM-ENG-53948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "career days, speakers and, 4"

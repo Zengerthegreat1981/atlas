@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-group-and-its-members"
-id: "TRM-ENG-51205"
+id: "TRM-ENG-65734"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a group and its members"

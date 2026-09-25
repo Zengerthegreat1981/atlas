@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-sexual-revolution"
-id: "TRM-ENG-44669"
+id: "TRM-ENG-59198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The sexual revolution"

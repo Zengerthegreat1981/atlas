@@ -1,6 +1,6 @@
 ---
 slug: "trm-challenging-to-treat"
-id: "TRM-ENG-46884"
+id: "TRM-ENG-61413"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "challenging to treat"

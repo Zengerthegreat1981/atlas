@@ -1,6 +1,6 @@
 ---
 slug: "trm-hypodescent-concept-3"
-id: "TRM-ENG-38206"
+id: "TRM-ENG-52735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hypodescent concept, 3"

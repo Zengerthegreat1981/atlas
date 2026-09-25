@@ -1,6 +1,6 @@
 ---
 slug: "trm-japanese-internment-camps-and-3"
-id: "TRM-ENG-38285"
+id: "TRM-ENG-52814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Japanese internment camps and, 3"

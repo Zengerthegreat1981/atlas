@@ -1,6 +1,6 @@
 ---
 slug: "trm-essentialhypertension"
-id: "TRM-ENG-46968"
+id: "TRM-ENG-61497"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "essentialhypertension"

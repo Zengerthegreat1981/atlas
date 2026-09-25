@@ -1,6 +1,6 @@
 ---
 slug: "trm-problem-solving"
-id: "TRM-ENG-43151"
+id: "TRM-ENG-57680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "problem solving"

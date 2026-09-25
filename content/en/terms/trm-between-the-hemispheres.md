@@ -1,6 +1,6 @@
 ---
 slug: "trm-between-the-hemispheres"
-id: "TRM-ENG-34765"
+id: "TRM-ENG-63823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "between the hemispheres"

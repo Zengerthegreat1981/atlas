@@ -1,6 +1,6 @@
 ---
 slug: "trm-culturefree-testing3"
-id: "TRM-ENG-37910"
+id: "TRM-ENG-66968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Culture-free testing,3"

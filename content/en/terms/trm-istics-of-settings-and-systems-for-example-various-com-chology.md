@@ -1,6 +1,6 @@
 ---
 slug: "trm-istics-of-settings-and-systems-for-example-various-com-chology"
-id: "TRM-ENG-36601"
+id: "TRM-ENG-51130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "istics of settings and systems. For example, various com- chology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bavelas-a"
-id: "TRM-ENG-39829"
+id: "TRM-ENG-54358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bavelas A"

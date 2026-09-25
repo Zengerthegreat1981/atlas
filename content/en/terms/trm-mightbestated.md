@@ -1,6 +1,6 @@
 ---
 slug: "trm-mightbestated"
-id: "TRM-ENG-37963"
+id: "TRM-ENG-67021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mightbestated"

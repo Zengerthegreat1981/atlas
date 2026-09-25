@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-learning"
-id: "TRM-ENG-35652"
+id: "TRM-ENG-64710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and learning"

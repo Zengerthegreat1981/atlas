@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-rhythmic-cycles-of-growth"
-id: "TRM-ENG-48902"
+id: "TRM-ENG-63431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three rhythmic cycles of growth"

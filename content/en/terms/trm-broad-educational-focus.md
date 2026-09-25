@@ -1,6 +1,6 @@
 ---
 slug: "trm-broad-educational-focus"
-id: "TRM-ENG-47711"
+id: "TRM-ENG-62240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "broad educational focus"

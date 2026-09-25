@@ -1,6 +1,6 @@
 ---
 slug: "trm-metaphysics"
-id: "TRM-ENG-46991"
+id: "TRM-ENG-61520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Metaphysics"

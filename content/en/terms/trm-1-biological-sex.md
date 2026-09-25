@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-biological-sex"
-id: "TRM-ENG-44188"
+id: "TRM-ENG-58717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Biological sex"

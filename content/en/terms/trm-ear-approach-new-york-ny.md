@@ -1,6 +1,6 @@
 ---
 slug: "trm-ear-approach-new-york-ny"
-id: "TRM-ENG-35773"
+id: "TRM-ENG-50302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ear approach. New York, NY"

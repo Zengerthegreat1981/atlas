@@ -1,6 +1,6 @@
 ---
 slug: "trm-relationships-and-1"
-id: "TRM-ENG-41475"
+id: "TRM-ENG-56004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "relationships and, 1"

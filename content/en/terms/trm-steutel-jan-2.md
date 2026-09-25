@@ -1,6 +1,6 @@
 ---
 slug: "trm-steutel-jan-2"
-id: "TRM-ENG-47339"
+id: "TRM-ENG-61868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Steutel, Jan, 2"

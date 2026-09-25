@@ -1,6 +1,6 @@
 ---
 slug: "trm-common-in-rheumatoid-arthritis"
-id: "TRM-ENG-46903"
+id: "TRM-ENG-61432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "common in rheumatoid arthritis"

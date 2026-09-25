@@ -1,6 +1,6 @@
 ---
 slug: "trm-van-vreckem-e-vanderycken-w-1994-a-sexual-disorders"
-id: "TRM-ENG-49213"
+id: "TRM-ENG-63742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Van Vreckem, E., & Vanderycken, W. (1994). A sexual disorders"

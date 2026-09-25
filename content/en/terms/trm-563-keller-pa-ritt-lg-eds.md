@@ -1,6 +1,6 @@
 ---
 slug: "trm-563-keller-pa-ritt-lg-eds"
-id: "TRM-ENG-39174"
+id: "TRM-ENG-53703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "563. Keller PA, Ritt LG (eds)"

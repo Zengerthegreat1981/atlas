@@ -1,6 +1,6 @@
 ---
 slug: "trm-abouttreatmentinrlansdownedvisiblydifferent"
-id: "TRM-ENG-46776"
+id: "TRM-ENG-61305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "abouttreatment.InR.Lansdown(Ed.),Visiblydifferent"

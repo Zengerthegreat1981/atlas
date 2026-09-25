@@ -1,6 +1,6 @@
 ---
 slug: "trm-2044-doi"
-id: "TRM-ENG-35210"
+id: "TRM-ENG-64268"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "20–44. doi"

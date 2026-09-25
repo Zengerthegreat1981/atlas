@@ -1,6 +1,6 @@
 ---
 slug: "trm-ventory-tci"
-id: "TRM-ENG-43416"
+id: "TRM-ENG-57945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ventory (TCI)"

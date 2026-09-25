@@ -1,6 +1,6 @@
 ---
 slug: "trm-confabulation-1"
-id: "TRM-ENG-45028"
+id: "TRM-ENG-59557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "confabulation, 1"

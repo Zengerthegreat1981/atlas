@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatric-disabilities-retrieved-from-http"
-id: "TRM-ENG-41321"
+id: "TRM-ENG-55850"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychiatric disabilities. Retrieved from http"

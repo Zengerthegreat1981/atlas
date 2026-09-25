@@ -1,6 +1,6 @@
 ---
 slug: "trm-provinerrkrosnowskikabrocatonw2009tearing"
-id: "TRM-ENG-37195"
+id: "TRM-ENG-51724"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Provine,R.R.,Krosnowski,K.A.,&Brocato,N.W.(2009).Tearing"

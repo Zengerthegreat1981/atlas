@@ -1,6 +1,6 @@
 ---
 slug: "trm-nitsun-m-2006-the-group-as-an-object-of-desire"
-id: "TRM-ENG-50802"
+id: "TRM-ENG-65331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nitsun, M. (2006). The group as an object of desire"

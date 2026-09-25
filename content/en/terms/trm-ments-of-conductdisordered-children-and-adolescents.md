@@ -1,6 +1,6 @@
 ---
 slug: "trm-ments-of-conductdisordered-children-and-adolescents"
-id: "TRM-ENG-36711"
+id: "TRM-ENG-51240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ments of Conduct-Disordered children and adolescents"

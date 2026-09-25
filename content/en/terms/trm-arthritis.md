@@ -1,6 +1,6 @@
 ---
 slug: "trm-arthritis"
-id: "TRM-ENG-46836"
+id: "TRM-ENG-61365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "arthritis"

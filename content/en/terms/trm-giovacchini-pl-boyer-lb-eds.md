@@ -1,6 +1,6 @@
 ---
 slug: "trm-giovacchini-pl-boyer-lb-eds"
-id: "TRM-ENG-40710"
+id: "TRM-ENG-55239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Giovacchini PL, Boyer LB (eds)"

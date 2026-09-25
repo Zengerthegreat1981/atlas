@@ -1,6 +1,6 @@
 ---
 slug: "trm-uses-of-anthropology"
-id: "TRM-ENG-44679"
+id: "TRM-ENG-59208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Uses of Anthropology"

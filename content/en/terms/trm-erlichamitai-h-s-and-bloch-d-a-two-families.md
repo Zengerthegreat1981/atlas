@@ -1,6 +1,6 @@
 ---
 slug: "trm-erlichamitai-h-s-and-bloch-d-a-two-families"
-id: "TRM-ENG-44375"
+id: "TRM-ENG-58904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Erlich-Amitai, H. S., and Bloch, D. A., “Two Families"

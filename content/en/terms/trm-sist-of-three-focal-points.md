@@ -1,6 +1,6 @@
 ---
 slug: "trm-sist-of-three-focal-points"
-id: "TRM-ENG-41669"
+id: "TRM-ENG-56198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sist of three focal points"

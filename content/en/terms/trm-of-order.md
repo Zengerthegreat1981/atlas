@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-order"
-id: "TRM-ENG-36782"
+id: "TRM-ENG-51311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of order"

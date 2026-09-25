@@ -1,6 +1,6 @@
 ---
 slug: "trm-posner-m-1973-cognition"
-id: "TRM-ENG-52532"
+id: "TRM-ENG-67061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Posner, M. (1973). Cognition"

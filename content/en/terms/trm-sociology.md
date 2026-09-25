@@ -1,6 +1,6 @@
 ---
 slug: "trm-sociology"
-id: "TRM-ENG-52397"
+id: "TRM-ENG-66926"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sociology"

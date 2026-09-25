@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-to-another"
-id: "TRM-ENG-45625"
+id: "TRM-ENG-60154"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion to another"

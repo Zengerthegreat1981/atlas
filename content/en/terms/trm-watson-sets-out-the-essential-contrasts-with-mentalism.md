@@ -1,6 +1,6 @@
 ---
 slug: "trm-watson-sets-out-the-essential-contrasts-with-mentalism"
-id: "TRM-ENG-36042"
+id: "TRM-ENG-65100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Watson sets out the essential contrasts with mentalism"

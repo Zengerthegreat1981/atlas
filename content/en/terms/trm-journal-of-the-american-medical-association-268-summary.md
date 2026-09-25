@@ -1,6 +1,6 @@
 ---
 slug: "trm-journal-of-the-american-medical-association-268-summary"
-id: "TRM-ENG-46578"
+id: "TRM-ENG-61107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Journal of the American Medical Association, 268, summary"

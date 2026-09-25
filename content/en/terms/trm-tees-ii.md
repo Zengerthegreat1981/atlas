@@ -1,6 +1,6 @@
 ---
 slug: "trm-tees-ii"
-id: "TRM-ENG-43287"
+id: "TRM-ENG-57816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tees II"

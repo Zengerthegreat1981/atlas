@@ -1,6 +1,6 @@
 ---
 slug: "trm-singer-e"
-id: "TRM-ENG-42363"
+id: "TRM-ENG-56892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Singer E"

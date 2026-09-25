@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-the-etiology-of-anxiety-and-depression"
-id: "TRM-ENG-42912"
+id: "TRM-ENG-57441"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing the etiology of anxiety and depression"

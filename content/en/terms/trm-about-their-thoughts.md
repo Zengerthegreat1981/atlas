@@ -1,6 +1,6 @@
 ---
 slug: "trm-about-their-thoughts"
-id: "TRM-ENG-44867"
+id: "TRM-ENG-59396"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "about their thoughts"

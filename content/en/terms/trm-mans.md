@@ -1,6 +1,6 @@
 ---
 slug: "trm-mans"
-id: "TRM-ENG-35128"
+id: "TRM-ENG-64186"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "man’s"

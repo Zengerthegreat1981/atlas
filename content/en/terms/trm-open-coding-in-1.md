@@ -1,6 +1,6 @@
 ---
 slug: "trm-open-coding-in-1"
-id: "TRM-ENG-41044"
+id: "TRM-ENG-55573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "open coding in, 1"

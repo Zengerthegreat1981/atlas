@@ -1,6 +1,6 @@
 ---
 slug: "trm-cissism"
-id: "TRM-ENG-43645"
+id: "TRM-ENG-58174"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cissism"

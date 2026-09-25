@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-in-moments-of-connection-new-york-ny"
-id: "TRM-ENG-51509"
+id: "TRM-ENG-66038"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "health in moments of connection. New York, NY"

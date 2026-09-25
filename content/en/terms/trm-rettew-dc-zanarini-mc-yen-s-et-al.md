@@ -1,6 +1,6 @@
 ---
 slug: "trm-rettew-dc-zanarini-mc-yen-s-et-al"
-id: "TRM-ENG-48010"
+id: "TRM-ENG-62539"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rettew DC, Zanarini MC, Yen S, et al"

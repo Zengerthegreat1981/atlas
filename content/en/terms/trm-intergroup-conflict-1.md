@@ -1,6 +1,6 @@
 ---
 slug: "trm-intergroup-conflict-1"
-id: "TRM-ENG-44546"
+id: "TRM-ENG-59075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Intergroup conflict , 1"

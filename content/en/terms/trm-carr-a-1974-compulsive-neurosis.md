@@ -1,6 +1,6 @@
 ---
 slug: "trm-carr-a-1974-compulsive-neurosis"
-id: "TRM-ENG-48926"
+id: "TRM-ENG-63455"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carr, A. (1974). Compulsive neurosis"

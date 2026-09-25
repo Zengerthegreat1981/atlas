@@ -1,6 +1,6 @@
 ---
 slug: "trm-7-braceland-f-j-kraepelin"
-id: "TRM-ENG-44228"
+id: "TRM-ENG-58757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "7. Braceland, F. J., “Kraepelin"

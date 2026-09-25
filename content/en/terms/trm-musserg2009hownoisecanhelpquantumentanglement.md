@@ -1,6 +1,6 @@
 ---
 slug: "trm-musserg2009hownoisecanhelpquantumentanglement"
-id: "TRM-ENG-37107"
+id: "TRM-ENG-66165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Musser,G.(2009).Hownoisecanhelpquantumentanglement"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gunderson-jg-lyonsruth-k"
-id: "TRM-ENG-47702"
+id: "TRM-ENG-62231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gunderson JG, Lyons-Ruth K"

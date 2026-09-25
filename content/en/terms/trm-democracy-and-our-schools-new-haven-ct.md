@@ -1,6 +1,6 @@
 ---
 slug: "trm-democracy-and-our-schools-new-haven-ct"
-id: "TRM-ENG-46499"
+id: "TRM-ENG-61028"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Democracy and our schools. New Haven, CT"

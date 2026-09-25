@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-disinhibition"
-id: "TRM-ENG-48185"
+id: "TRM-ENG-62714"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Disinhibition"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tersubjectivity-int-j-psychoanal-88"
-id: "TRM-ENG-48630"
+id: "TRM-ENG-63159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tersubjectivity. Int J Psychoanal 88"

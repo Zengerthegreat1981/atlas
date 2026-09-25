@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-they-include-1-the-imparting-of-information"
-id: "TRM-ENG-36499"
+id: "TRM-ENG-65557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group. They include (1) the imparting of information"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-analysis-work-of-2"
-id: "TRM-ENG-39326"
+id: "TRM-ENG-53855"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior analysis work of, 2"

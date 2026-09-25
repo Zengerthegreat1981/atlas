@@ -1,6 +1,6 @@
 ---
 slug: "trm-smith-j-c-1989-relaxation-dynamics"
-id: "TRM-ENG-49178"
+id: "TRM-ENG-63707"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smith, J. C. (1989). Relaxation dynamics"

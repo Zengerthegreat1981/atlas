@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-disorders-j-abnorm-psychol-103"
-id: "TRM-ENG-48415"
+id: "TRM-ENG-62944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity disorders. J Abnorm Psychol 103"

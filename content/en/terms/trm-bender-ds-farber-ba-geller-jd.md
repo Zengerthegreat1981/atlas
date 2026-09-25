@@ -1,6 +1,6 @@
 ---
 slug: "trm-bender-ds-farber-ba-geller-jd"
-id: "TRM-ENG-47500"
+id: "TRM-ENG-62029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bender DS, Farber BA, Geller JD"

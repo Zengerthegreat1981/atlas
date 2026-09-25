@@ -1,6 +1,6 @@
 ---
 slug: "trm-profile19922002"
-id: "TRM-ENG-41308"
+id: "TRM-ENG-55837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "profile,1992–2002"

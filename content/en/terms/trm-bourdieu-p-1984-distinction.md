@@ -1,6 +1,6 @@
 ---
 slug: "trm-bourdieu-p-1984-distinction"
-id: "TRM-ENG-46329"
+id: "TRM-ENG-60858"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bourdieu, P. (1984). Distinction"

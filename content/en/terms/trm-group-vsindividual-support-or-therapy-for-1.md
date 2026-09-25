@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-vsindividual-support-or-therapy-for-1"
-id: "TRM-ENG-40334"
+id: "TRM-ENG-54863"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group vs.individual support or therapy for, 1"

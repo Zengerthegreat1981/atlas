@@ -1,6 +1,6 @@
 ---
 slug: "trm-groups-of-participants-as-follows"
-id: "TRM-ENG-45570"
+id: "TRM-ENG-60099"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "groups of participants as follows"

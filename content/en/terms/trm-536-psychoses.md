@@ -1,6 +1,6 @@
 ---
 slug: "trm-536-psychoses"
-id: "TRM-ENG-48857"
+id: "TRM-ENG-63386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "536 Psychoses"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-dualism-1"
-id: "TRM-ENG-44448"
+id: "TRM-ENG-58977"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dualism, 1"

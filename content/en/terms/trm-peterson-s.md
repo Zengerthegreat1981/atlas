@@ -1,6 +1,6 @@
 ---
 slug: "trm-peterson-s"
-id: "TRM-ENG-41965"
+id: "TRM-ENG-56494"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Peterson S"

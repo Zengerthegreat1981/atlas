@@ -1,6 +1,6 @@
 ---
 slug: "trm-immigration-act-1924-and-3"
-id: "TRM-ENG-38216"
+id: "TRM-ENG-52745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Immigration Act (1924) and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cardasis-w-hochman-ja-silk-kr"
-id: "TRM-ENG-47535"
+id: "TRM-ENG-62064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cardasis W, Hochman JA, Silk KR"

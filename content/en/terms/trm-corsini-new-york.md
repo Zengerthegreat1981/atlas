@@ -1,6 +1,6 @@
 ---
 slug: "trm-corsini-new-york"
-id: "TRM-ENG-45785"
+id: "TRM-ENG-60314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Corsini (New York"

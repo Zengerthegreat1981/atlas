@@ -1,6 +1,6 @@
 ---
 slug: "trm-traxler-ae"
-id: "TRM-ENG-42619"
+id: "TRM-ENG-57148"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Traxler AE"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-berkowitz-l-1962-aggression"
-id: "TRM-ENG-52487"
+id: "TRM-ENG-67016"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Berkowitz, L. (1962). Aggression"

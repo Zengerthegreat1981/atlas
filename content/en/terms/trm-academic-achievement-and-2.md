@@ -1,6 +1,6 @@
 ---
 slug: "trm-academic-achievement-and-2"
-id: "TRM-ENG-39072"
+id: "TRM-ENG-53601"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "academic achievement and, 2"

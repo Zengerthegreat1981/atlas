@@ -1,6 +1,6 @@
 ---
 slug: "trm-krankheitenstuttgart"
-id: "TRM-ENG-35797"
+id: "TRM-ENG-64855"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krankheiten.Stuttgart"

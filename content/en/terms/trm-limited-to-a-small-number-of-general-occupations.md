@@ -1,6 +1,6 @@
 ---
 slug: "trm-limited-to-a-small-number-of-general-occupations"
-id: "TRM-ENG-48288"
+id: "TRM-ENG-62817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "limited to a small number of general occupations"

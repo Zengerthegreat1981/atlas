@@ -1,6 +1,6 @@
 ---
 slug: "trm-andsciencesandtheroyalsocietyofcanadaaddress"
-id: "TRM-ENG-37527"
+id: "TRM-ENG-66585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andSciences,andtheRoyalsocietyofCanada.Address"

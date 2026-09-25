@@ -1,6 +1,6 @@
 ---
 slug: "trm-gelb-la"
-id: "TRM-ENG-40680"
+id: "TRM-ENG-55209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gelb LA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-ideas-do-not-govern-and-overthrow-the-world"
-id: "TRM-ENG-38298"
+id: "TRM-ENG-52827"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that “Ideas do not govern and overthrow the world"

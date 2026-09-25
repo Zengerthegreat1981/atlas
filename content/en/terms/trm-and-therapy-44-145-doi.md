@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-therapy-44-145-doi"
-id: "TRM-ENG-51226"
+id: "TRM-ENG-65755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Therapy, 44, 1–45. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-idea-and-1"
-id: "TRM-ENG-37398"
+id: "TRM-ENG-66456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(IDEA) and, 1"

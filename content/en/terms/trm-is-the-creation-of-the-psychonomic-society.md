@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-the-creation-of-the-psychonomic-society"
-id: "TRM-ENG-37890"
+id: "TRM-ENG-66948"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is the creation of the Psychonomic Society"

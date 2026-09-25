@@ -1,6 +1,6 @@
 ---
 slug: "trm-nationalacademyofsciencesretrievedfromhttp"
-id: "TRM-ENG-37109"
+id: "TRM-ENG-51638"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "NationalAcademyofSciences.Retrievedfromhttp"

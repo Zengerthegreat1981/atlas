@@ -1,6 +1,6 @@
 ---
 slug: "trm-regime-of-truth"
-id: "TRM-ENG-48642"
+id: "TRM-ENG-63171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "regime of truth"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-simon-r-2001-psychiatry-and-the-law-washington-dc"
-id: "TRM-ENG-38776"
+id: "TRM-ENG-53305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simon, R. (2001). Psychiatry and the law. Washington, DC"

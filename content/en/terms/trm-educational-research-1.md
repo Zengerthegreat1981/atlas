@@ -1,6 +1,6 @@
 ---
 slug: "trm-educational-research-1"
-id: "TRM-ENG-47941"
+id: "TRM-ENG-62470"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "educational research, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-developmental-health-and-the-wealth-of-nations"
-id: "TRM-ENG-46502"
+id: "TRM-ENG-61031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Developmental health and the wealth of nations"

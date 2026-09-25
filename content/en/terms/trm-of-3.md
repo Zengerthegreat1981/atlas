@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-3"
-id: "TRM-ENG-41023"
+id: "TRM-ENG-55552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of, 3"

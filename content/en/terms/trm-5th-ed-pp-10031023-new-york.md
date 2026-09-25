@@ -1,6 +1,6 @@
 ---
 slug: "trm-5th-ed-pp-10031023-new-york"
-id: "TRM-ENG-34570"
+id: "TRM-ENG-63628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(5th ed., pp. 1003-1023). New York"

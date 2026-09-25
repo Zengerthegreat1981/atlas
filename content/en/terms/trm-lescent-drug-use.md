@@ -1,6 +1,6 @@
 ---
 slug: "trm-lescent-drug-use"
-id: "TRM-ENG-36629"
+id: "TRM-ENG-51158"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lescent drug use"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-leedy-j"
-id: "TRM-ENG-41390"
+id: "TRM-ENG-55919"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leedy J"

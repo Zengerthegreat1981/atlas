@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy"
-id: "TRM-ENG-48540"
+id: "TRM-ENG-63069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "philosophy"

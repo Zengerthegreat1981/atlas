@@ -1,6 +1,6 @@
 ---
 slug: "trm-kendell-pc-clarkin-jf"
-id: "TRM-ENG-47773"
+id: "TRM-ENG-62302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kendell PC, Clarkin JF"

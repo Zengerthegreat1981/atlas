@@ -1,6 +1,6 @@
 ---
 slug: "trm-may-be-taught-relaxation-strategies-and-the-use-of-pos-outcomes"
-id: "TRM-ENG-40788"
+id: "TRM-ENG-55317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "may be taught relaxation strategies and the use of pos- outcomes"

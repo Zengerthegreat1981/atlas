@@ -1,6 +1,6 @@
 ---
 slug: "trm-ology-and-maintenance-eg-urticaria-or-hives"
-id: "TRM-ENG-35192"
+id: "TRM-ENG-64250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ology and maintenance (eg, urticaria or hives)"

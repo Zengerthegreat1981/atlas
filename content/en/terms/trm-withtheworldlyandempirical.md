@@ -1,6 +1,6 @@
 ---
 slug: "trm-withtheworldlyandempirical"
-id: "TRM-ENG-46084"
+id: "TRM-ENG-60613"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "withtheworldlyandempirical"

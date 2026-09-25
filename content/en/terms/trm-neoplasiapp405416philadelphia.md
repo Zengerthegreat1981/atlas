@@ -1,6 +1,6 @@
 ---
 slug: "trm-neoplasiapp405416philadelphia"
-id: "TRM-ENG-47143"
+id: "TRM-ENG-61672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neoplasia(pp.405±416).Philadelphia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nigrescence-model-origins-3"
-id: "TRM-ENG-38511"
+id: "TRM-ENG-53040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nigrescence Model origins, 3"

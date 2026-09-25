@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-lashley"
-id: "TRM-ENG-38015"
+id: "TRM-ENG-67073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Lashley"

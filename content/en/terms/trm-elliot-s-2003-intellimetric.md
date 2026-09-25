@@ -1,6 +1,6 @@
 ---
 slug: "trm-elliot-s-2003-intellimetric"
-id: "TRM-ENG-35378"
+id: "TRM-ENG-64436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Elliot, S. (2003). IntelliMetric"

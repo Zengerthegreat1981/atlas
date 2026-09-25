@@ -1,6 +1,6 @@
 ---
 slug: "trm-iskusstvathepsychologyofartmoscow"
-id: "TRM-ENG-37892"
+id: "TRM-ENG-66950"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "iskusstva[Thepsychologyofart].Moscow"

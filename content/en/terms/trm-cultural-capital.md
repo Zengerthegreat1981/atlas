@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-capital"
-id: "TRM-ENG-46474"
+id: "TRM-ENG-61003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cultural Capital"

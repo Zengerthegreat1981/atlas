@@ -1,6 +1,6 @@
 ---
 slug: "trm-stein-a"
-id: "TRM-ENG-42449"
+id: "TRM-ENG-56978"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stein A"

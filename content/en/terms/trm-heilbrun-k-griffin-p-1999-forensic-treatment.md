@@ -1,6 +1,6 @@
 ---
 slug: "trm-heilbrun-k-griffin-p-1999-forensic-treatment"
-id: "TRM-ENG-35735"
+id: "TRM-ENG-50264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heilbrun, K., & Griffin, P. (1999). Forensic treatment"

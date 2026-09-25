@@ -1,6 +1,6 @@
 ---
 slug: "trm-assimilation"
-id: "TRM-ENG-39273"
+id: "TRM-ENG-53802"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "assimilation"

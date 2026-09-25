@@ -1,6 +1,6 @@
 ---
 slug: "trm-young-man-luther"
-id: "TRM-ENG-44754"
+id: "TRM-ENG-59283"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Young Man Luther"

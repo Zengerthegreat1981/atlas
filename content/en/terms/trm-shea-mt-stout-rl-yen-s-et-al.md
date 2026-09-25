@@ -1,6 +1,6 @@
 ---
 slug: "trm-shea-mt-stout-rl-yen-s-et-al"
-id: "TRM-ENG-48064"
+id: "TRM-ENG-62593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shea MT, Stout RL, Yen S, et al"

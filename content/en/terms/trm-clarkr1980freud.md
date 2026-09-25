@@ -1,6 +1,6 @@
 ---
 slug: "trm-clarkr1980freud"
-id: "TRM-ENG-36700"
+id: "TRM-ENG-51229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark,R.(1980).Freud"

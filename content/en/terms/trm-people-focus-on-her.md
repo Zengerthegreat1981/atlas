@@ -1,6 +1,6 @@
 ---
 slug: "trm-people-focus-on-her"
-id: "TRM-ENG-45227"
+id: "TRM-ENG-59756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "people focus on her"

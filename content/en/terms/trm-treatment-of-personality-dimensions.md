@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatment-of-personality-dimensions"
-id: "TRM-ENG-48697"
+id: "TRM-ENG-63226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatment of personality dimensions"

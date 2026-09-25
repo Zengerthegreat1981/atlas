@@ -1,6 +1,6 @@
 ---
 slug: "trm-sures-of-brain-activity"
-id: "TRM-ENG-36146"
+id: "TRM-ENG-65204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sures of brain activity"

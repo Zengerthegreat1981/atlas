@@ -1,6 +1,6 @@
 ---
 slug: "trm-shankara-adi-1"
-id: "TRM-ENG-47271"
+id: "TRM-ENG-61800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shankara, Adi, 1"

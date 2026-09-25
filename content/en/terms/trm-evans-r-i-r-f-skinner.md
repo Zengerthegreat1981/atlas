@@ -1,6 +1,6 @@
 ---
 slug: "trm-evans-r-i-r-f-skinner"
-id: "TRM-ENG-44377"
+id: "TRM-ENG-58906"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Evans, R. I., R. F. Skinner"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-denoted-as-x-in-the-p-i-dstudy-for-the-single-of-items-cid"
-id: "TRM-ENG-35754"
+id: "TRM-ENG-64812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "denoted as X in the p × I D-study for the single- of items, (cid"

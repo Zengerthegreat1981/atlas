@@ -1,6 +1,6 @@
 ---
 slug: "trm-cosin-lz"
-id: "TRM-ENG-40244"
+id: "TRM-ENG-54773"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cosin LZ"

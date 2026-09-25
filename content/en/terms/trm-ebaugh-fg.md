@@ -1,6 +1,6 @@
 ---
 slug: "trm-ebaugh-fg"
-id: "TRM-ENG-40405"
+id: "TRM-ENG-54934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ebaugh FG"

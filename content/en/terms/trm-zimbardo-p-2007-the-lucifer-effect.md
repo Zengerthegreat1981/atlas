@@ -1,6 +1,6 @@
 ---
 slug: "trm-zimbardo-p-2007-the-lucifer-effect"
-id: "TRM-ENG-45495"
+id: "TRM-ENG-60024"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zimbardo, P. (2007) The Lucifer Effect"

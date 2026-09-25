@@ -1,6 +1,6 @@
 ---
 slug: "trm-maybenomoresuccessfulthannotreatmentatallin-http"
-id: "TRM-ENG-37947"
+id: "TRM-ENG-52476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "maybenomoresuccessfulthannotreatmentatall.In http"

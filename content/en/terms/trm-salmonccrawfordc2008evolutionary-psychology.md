@@ -1,6 +1,6 @@
 ---
 slug: "trm-salmonccrawfordc2008evolutionary-psychology"
-id: "TRM-ENG-37252"
+id: "TRM-ENG-66310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Salmon,C.,&Crawford,C.(2008).Evolutionary psychology"

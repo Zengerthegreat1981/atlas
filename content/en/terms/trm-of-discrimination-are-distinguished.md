@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-discrimination-are-distinguished"
-id: "TRM-ENG-35169"
+id: "TRM-ENG-49698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of discrimination are distinguished"

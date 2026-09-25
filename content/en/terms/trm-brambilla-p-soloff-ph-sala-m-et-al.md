@@ -1,6 +1,6 @@
 ---
 slug: "trm-brambilla-p-soloff-ph-sala-m-et-al"
-id: "TRM-ENG-47527"
+id: "TRM-ENG-62056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brambilla P, Soloff PH, Sala M, et al"

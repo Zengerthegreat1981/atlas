@@ -1,6 +1,6 @@
 ---
 slug: "trm-addictivebehaviorspp3344newyork"
-id: "TRM-ENG-49234"
+id: "TRM-ENG-63763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "addictivebehaviors(pp.33±44).NewYork"

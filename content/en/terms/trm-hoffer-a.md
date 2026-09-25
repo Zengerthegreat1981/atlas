@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoffer-a"
-id: "TRM-ENG-41009"
+id: "TRM-ENG-55538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hoffer A"

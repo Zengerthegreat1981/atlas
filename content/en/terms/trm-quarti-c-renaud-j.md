@@ -1,6 +1,6 @@
 ---
 slug: "trm-quarti-c-renaud-j"
-id: "TRM-ENG-42037"
+id: "TRM-ENG-56566"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Quarti C, Renaud J"

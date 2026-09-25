@@ -1,6 +1,6 @@
 ---
 slug: "trm-makingofthethirdworldlondon"
-id: "TRM-ENG-37941"
+id: "TRM-ENG-66999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "makingofthethirdworld.London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-swendsen-j-burstein-m-case-b-et-al"
-id: "TRM-ENG-48115"
+id: "TRM-ENG-62644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Swendsen J, Burstein M, Case B, et al"

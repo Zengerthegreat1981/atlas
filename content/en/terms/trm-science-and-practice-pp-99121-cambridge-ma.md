@@ -1,6 +1,6 @@
 ---
 slug: "trm-science-and-practice-pp-99121-cambridge-ma"
-id: "TRM-ENG-42525"
+id: "TRM-ENG-57054"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Science and practice (pp. 99–121). Cambridge, MA"

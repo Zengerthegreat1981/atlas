@@ -1,6 +1,6 @@
 ---
 slug: "trm-estelle-v-gamble1"
-id: "TRM-ENG-38034"
+id: "TRM-ENG-67092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Estelle v. Gamble,1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bookofpsychologycolumbia"
-id: "TRM-ENG-37595"
+id: "TRM-ENG-52124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bookofpsychology.Columbia"

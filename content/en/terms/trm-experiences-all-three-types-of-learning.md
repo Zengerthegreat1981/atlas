@@ -1,6 +1,6 @@
 ---
 slug: "trm-experiences-all-three-types-of-learning"
-id: "TRM-ENG-45114"
+id: "TRM-ENG-59643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "experiences all three types of learning"

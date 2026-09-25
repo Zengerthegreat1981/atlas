@@ -1,6 +1,6 @@
 ---
 slug: "trm-we-should-distinguish-between-two-questions"
-id: "TRM-ENG-45684"
+id: "TRM-ENG-60213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "we should distinguish between two questions"

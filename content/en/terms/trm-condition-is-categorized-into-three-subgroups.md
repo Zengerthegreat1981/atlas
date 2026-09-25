@@ -1,6 +1,6 @@
 ---
 slug: "trm-condition-is-categorized-into-three-subgroups"
-id: "TRM-ENG-46912"
+id: "TRM-ENG-61441"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "condition is categorized into three subgroups"

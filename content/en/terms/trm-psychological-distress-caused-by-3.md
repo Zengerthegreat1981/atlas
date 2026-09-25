@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-distress-caused-by-3"
-id: "TRM-ENG-41332"
+id: "TRM-ENG-55861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychological distress caused by, 3"

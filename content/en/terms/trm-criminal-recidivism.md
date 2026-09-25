@@ -1,6 +1,6 @@
 ---
 slug: "trm-criminal-recidivism"
-id: "TRM-ENG-44074"
+id: "TRM-ENG-58603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "criminal recidivism"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kalis-bl-freeman-eh-harris-mr"
-id: "TRM-ENG-41176"
+id: "TRM-ENG-55705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kalis BL, Freeman EH, Harris MR"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp233248mahwah"
-id: "TRM-ENG-36466"
+id: "TRM-ENG-65524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.233–248).Mahwah"

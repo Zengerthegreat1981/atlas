@@ -1,6 +1,6 @@
 ---
 slug: "trm-dsmiii"
-id: "TRM-ENG-42368"
+id: "TRM-ENG-56897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DSM-III"

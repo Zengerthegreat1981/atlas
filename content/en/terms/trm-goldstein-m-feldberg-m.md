@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldstein-m-feldberg-m"
-id: "TRM-ENG-40760"
+id: "TRM-ENG-55289"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldstein M & Feldberg M"

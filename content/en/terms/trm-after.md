@@ -1,6 +1,6 @@
 ---
 slug: "trm-after"
-id: "TRM-ENG-46789"
+id: "TRM-ENG-61318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "after"

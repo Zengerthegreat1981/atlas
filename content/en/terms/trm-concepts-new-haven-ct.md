@@ -1,6 +1,6 @@
 ---
 slug: "trm-concepts-new-haven-ct"
-id: "TRM-ENG-51357"
+id: "TRM-ENG-65886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concepts. New Haven, CT"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-all-members-of-the-community"
-id: "TRM-ENG-46064"
+id: "TRM-ENG-60593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to all members of the community"

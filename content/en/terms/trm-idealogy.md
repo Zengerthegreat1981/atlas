@@ -1,6 +1,6 @@
 ---
 slug: "trm-idealogy"
-id: "TRM-ENG-52230"
+id: "TRM-ENG-66759"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Idealogy"

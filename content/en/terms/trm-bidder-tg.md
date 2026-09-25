@@ -1,6 +1,6 @@
 ---
 slug: "trm-bidder-tg"
-id: "TRM-ENG-39927"
+id: "TRM-ENG-54456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bidder TG"

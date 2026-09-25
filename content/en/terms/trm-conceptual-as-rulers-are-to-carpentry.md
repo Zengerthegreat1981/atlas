@@ -1,6 +1,6 @@
 ---
 slug: "trm-conceptual-as-rulers-are-to-carpentry"
-id: "TRM-ENG-35729"
+id: "TRM-ENG-64787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "conceptual. As rulers are to carpentry"

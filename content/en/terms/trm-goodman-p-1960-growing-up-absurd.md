@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodman-p-1960-growing-up-absurd"
-id: "TRM-ENG-46689"
+id: "TRM-ENG-61218"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodman, P. (1960). Growing up absurd"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-personality-disorder-zanbpd"
-id: "TRM-ENG-47936"
+id: "TRM-ENG-62465"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Personality Disorder (ZAN-BPD)"

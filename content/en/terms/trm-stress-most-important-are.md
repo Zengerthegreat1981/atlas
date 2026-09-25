@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-most-important-are"
-id: "TRM-ENG-43189"
+id: "TRM-ENG-57718"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress. Most important are"

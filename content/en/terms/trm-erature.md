@@ -1,6 +1,6 @@
 ---
 slug: "trm-erature"
-id: "TRM-ENG-36406"
+id: "TRM-ENG-50935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "erature"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gions"
-id: "TRM-ENG-44064"
+id: "TRM-ENG-58593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gions"

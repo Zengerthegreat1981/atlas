@@ -1,6 +1,6 @@
 ---
 slug: "trm-ytrehus-a"
-id: "TRM-ENG-42901"
+id: "TRM-ENG-57430"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ytrehus A"

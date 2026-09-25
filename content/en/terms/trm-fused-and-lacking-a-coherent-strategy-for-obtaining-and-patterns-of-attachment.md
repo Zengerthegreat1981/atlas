@@ -1,6 +1,6 @@
 ---
 slug: "trm-fused-and-lacking-a-coherent-strategy-for-obtaining-and-patterns-of-attachment"
-id: "TRM-ENG-36476"
+id: "TRM-ENG-51005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fused and lacking a coherent strategy for obtaining and Patterns of attachment"

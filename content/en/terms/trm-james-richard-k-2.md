@@ -1,6 +1,6 @@
 ---
 slug: "trm-james-richard-k-2"
-id: "TRM-ENG-38279"
+id: "TRM-ENG-52808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "James, Richard K., 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-taggert-m"
-id: "TRM-ENG-42537"
+id: "TRM-ENG-57066"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Taggert M"

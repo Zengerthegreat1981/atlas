@@ -1,6 +1,6 @@
 ---
 slug: "trm-hawtonk1992sextherapy"
-id: "TRM-ENG-49019"
+id: "TRM-ENG-63548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hawton,K.(1992).Sextherapy"

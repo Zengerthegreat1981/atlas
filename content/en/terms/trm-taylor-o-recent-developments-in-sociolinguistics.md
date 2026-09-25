@@ -1,6 +1,6 @@
 ---
 slug: "trm-taylor-o-recent-developments-in-sociolinguistics"
-id: "TRM-ENG-44664"
+id: "TRM-ENG-59193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Taylor, O., “Recent Developments in Sociolinguistics"

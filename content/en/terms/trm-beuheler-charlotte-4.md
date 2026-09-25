@@ -1,6 +1,6 @@
 ---
 slug: "trm-beuheler-charlotte-4"
-id: "TRM-ENG-37690"
+id: "TRM-ENG-66748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beuheler, Charlotte, 4"

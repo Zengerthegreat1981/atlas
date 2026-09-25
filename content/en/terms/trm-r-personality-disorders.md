@@ -1,6 +1,6 @@
 ---
 slug: "trm-r-personality-disorders"
-id: "TRM-ENG-42506"
+id: "TRM-ENG-57035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "R Personality Disorders"

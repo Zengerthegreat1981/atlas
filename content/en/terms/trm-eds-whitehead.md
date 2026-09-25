@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-whitehead"
-id: "TRM-ENG-46118"
+id: "TRM-ENG-60647"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), Whitehead"

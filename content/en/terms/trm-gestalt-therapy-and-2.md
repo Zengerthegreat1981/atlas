@@ -1,6 +1,6 @@
 ---
 slug: "trm-gestalt-therapy-and-2"
-id: "TRM-ENG-38107"
+id: "TRM-ENG-52636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gestalt therapy and, 2"

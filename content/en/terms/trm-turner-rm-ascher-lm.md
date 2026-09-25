@@ -1,6 +1,6 @@
 ---
 slug: "trm-turner-rm-ascher-lm"
-id: "TRM-ENG-42629"
+id: "TRM-ENG-57158"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Turner RM, Ascher LM"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-young-oran-r-ed-bargaining-urbana"
-id: "TRM-ENG-45816"
+id: "TRM-ENG-60345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Young, Oran R., ed. Bargaining. Urbana"

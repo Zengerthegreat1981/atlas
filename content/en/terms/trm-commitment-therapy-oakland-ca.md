@@ -1,6 +1,6 @@
 ---
 slug: "trm-commitment-therapy-oakland-ca"
-id: "TRM-ENG-51353"
+id: "TRM-ENG-65882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "commitment therapy. Oakland, CA"

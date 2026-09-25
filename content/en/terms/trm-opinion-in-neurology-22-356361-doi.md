@@ -1,6 +1,6 @@
 ---
 slug: "trm-opinion-in-neurology-22-356361-doi"
-id: "TRM-ENG-35470"
+id: "TRM-ENG-64528"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Opinion in Neurology, 22, 356–361. doi"

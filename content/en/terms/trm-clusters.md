@@ -1,6 +1,6 @@
 ---
 slug: "trm-clusters"
-id: "TRM-ENG-46063"
+id: "TRM-ENG-60592"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clusters"

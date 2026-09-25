@@ -1,6 +1,6 @@
 ---
 slug: "trm-ketal-rm"
-id: "TRM-ENG-41232"
+id: "TRM-ENG-55761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ketal RM"

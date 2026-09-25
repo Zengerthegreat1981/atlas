@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-theory-1"
-id: "TRM-ENG-48169"
+id: "TRM-ENG-62698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in theory, 1"

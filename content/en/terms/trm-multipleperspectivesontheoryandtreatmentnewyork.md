@@ -1,6 +1,6 @@
 ---
 slug: "trm-multipleperspectivesontheoryandtreatmentnewyork"
-id: "TRM-ENG-49098"
+id: "TRM-ENG-63627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Multipleperspectivesontheoryandtreatment.NewYork"

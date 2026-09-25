@@ -1,6 +1,6 @@
 ---
 slug: "trm-power-1"
-id: "TRM-ENG-48572"
+id: "TRM-ENG-63101"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "power, 1"

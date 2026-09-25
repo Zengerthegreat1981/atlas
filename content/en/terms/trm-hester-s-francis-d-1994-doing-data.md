@@ -1,6 +1,6 @@
 ---
 slug: "trm-hester-s-francis-d-1994-doing-data"
-id: "TRM-ENG-35398"
+id: "TRM-ENG-64456"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hester, S., & Francis, D. (1994). Doing data"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-freuds1935autobiographytrans"
-id: "TRM-ENG-36821"
+id: "TRM-ENG-51350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freud,S.(1935).Autobiography(trans"

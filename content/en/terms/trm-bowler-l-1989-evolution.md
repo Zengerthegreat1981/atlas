@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowler-l-1989-evolution"
-id: "TRM-ENG-34642"
+id: "TRM-ENG-63700"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bowler, l? (1989). Evolution"

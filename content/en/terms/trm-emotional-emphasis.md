@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotional-emphasis"
-id: "TRM-ENG-47956"
+id: "TRM-ENG-62485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotional emphasis"

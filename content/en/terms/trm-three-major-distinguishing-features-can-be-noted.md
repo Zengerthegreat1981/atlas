@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-major-distinguishing-features-can-be-noted"
-id: "TRM-ENG-36021"
+id: "TRM-ENG-65079"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Three major distinguishing features can be noted"

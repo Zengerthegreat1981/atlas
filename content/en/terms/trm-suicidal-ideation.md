@@ -1,6 +1,6 @@
 ---
 slug: "trm-suicidal-ideation"
-id: "TRM-ENG-44023"
+id: "TRM-ENG-58552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Suicidal ideation"

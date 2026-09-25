@@ -1,6 +1,6 @@
 ---
 slug: "trm-jeannerod-m-2006-m-otor-cognition-oxford-uk"
-id: "TRM-ENG-44553"
+id: "TRM-ENG-59082"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jeannerod, M. (2006). M otor cognition. Oxford, UK"

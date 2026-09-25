@@ -1,6 +1,6 @@
 ---
 slug: "trm-assumptions-is-often-unconscious-as-illustrated-by-because"
-id: "TRM-ENG-47668"
+id: "TRM-ENG-62197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "assumptions is often unconscious, as illustrated by because"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-slaughter-ed-perspectives-in-black-child-development"
-id: "TRM-ENG-34792"
+id: "TRM-ENG-49321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Slaughter (Ed.), Perspectives in Black child development"

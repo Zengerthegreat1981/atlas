@@ -1,6 +1,6 @@
 ---
 slug: "trm-waldinger-rs-frank-af"
-id: "TRM-ENG-48145"
+id: "TRM-ENG-62674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Waldinger RS, Frank AF"

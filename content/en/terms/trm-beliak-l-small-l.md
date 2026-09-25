@@ -1,6 +1,6 @@
 ---
 slug: "trm-beliak-l-small-l"
-id: "TRM-ENG-39853"
+id: "TRM-ENG-54382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beliak L, Small L"

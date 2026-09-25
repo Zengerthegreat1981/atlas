@@ -1,6 +1,6 @@
 ---
 slug: "trm-irresponsibility-disregard-for"
-id: "TRM-ENG-47751"
+id: "TRM-ENG-62280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Irresponsibility Disregard for"

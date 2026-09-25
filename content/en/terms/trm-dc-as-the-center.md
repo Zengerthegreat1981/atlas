@@ -1,6 +1,6 @@
 ---
 slug: "trm-dc-as-the-center"
-id: "TRM-ENG-37912"
+id: "TRM-ENG-66970"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "D.C.) as The Center"

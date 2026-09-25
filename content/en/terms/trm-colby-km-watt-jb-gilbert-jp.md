@@ -1,6 +1,6 @@
 ---
 slug: "trm-colby-km-watt-jb-gilbert-jp"
-id: "TRM-ENG-40212"
+id: "TRM-ENG-54741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Colby KM, Watt JB, Gilbert JP"

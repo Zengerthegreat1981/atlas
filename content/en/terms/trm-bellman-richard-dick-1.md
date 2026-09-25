@@ -1,6 +1,6 @@
 ---
 slug: "trm-bellman-richard-dick-1"
-id: "TRM-ENG-44332"
+id: "TRM-ENG-58861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bellman, Richard (Dick), 1"

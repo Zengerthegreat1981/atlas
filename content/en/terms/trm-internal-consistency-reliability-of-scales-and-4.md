@@ -1,6 +1,6 @@
 ---
 slug: "trm-internal-consistency-reliability-of-scales-and-4"
-id: "TRM-ENG-40603"
+id: "TRM-ENG-55132"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "internal consistency reliability of scales and, 4"

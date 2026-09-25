@@ -1,6 +1,6 @@
 ---
 slug: "trm-common-issues-of-1"
-id: "TRM-ENG-39592"
+id: "TRM-ENG-54121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "common issues of, 1"

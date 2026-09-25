@@ -1,6 +1,6 @@
 ---
 slug: "trm-graham-c-1965-color"
-id: "TRM-ENG-52508"
+id: "TRM-ENG-67037"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Graham, C. (1965). Color"

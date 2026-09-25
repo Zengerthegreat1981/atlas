@@ -1,6 +1,6 @@
 ---
 slug: "trm-myth-5"
-id: "TRM-ENG-38473"
+id: "TRM-ENG-53002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Myth 5"

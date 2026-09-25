@@ -1,6 +1,6 @@
 ---
 slug: "trm-parenthood-as-a-developmental-phase"
-id: "TRM-ENG-44802"
+id: "TRM-ENG-59331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Parenthood as a Developmental Phase"

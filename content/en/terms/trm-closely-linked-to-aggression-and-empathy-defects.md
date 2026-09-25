@@ -1,6 +1,6 @@
 ---
 slug: "trm-closely-linked-to-aggression-and-empathy-defects"
-id: "TRM-ENG-34943"
+id: "TRM-ENG-64001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "closely linked to aggression and empathy defects)"

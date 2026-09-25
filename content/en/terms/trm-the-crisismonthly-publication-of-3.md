@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-crisismonthly-publication-of-3"
-id: "TRM-ENG-38883"
+id: "TRM-ENG-53412"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Crisismonthly publication of, 3"

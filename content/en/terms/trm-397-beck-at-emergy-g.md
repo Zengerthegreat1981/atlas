@@ -1,6 +1,6 @@
 ---
 slug: "trm-397-beck-at-emergy-g"
-id: "TRM-ENG-38969"
+id: "TRM-ENG-53498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "397. Beck AT, Emergy G"

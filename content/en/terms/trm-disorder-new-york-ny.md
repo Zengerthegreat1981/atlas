@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorder-new-york-ny"
-id: "TRM-ENG-43669"
+id: "TRM-ENG-58198"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorder. New York, NY"

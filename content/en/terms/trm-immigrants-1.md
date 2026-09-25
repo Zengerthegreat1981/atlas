@@ -1,6 +1,6 @@
 ---
 slug: "trm-immigrants-1"
-id: "TRM-ENG-48144"
+id: "TRM-ENG-62673"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "immigrants, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-able-sam-is-bumped-the-stimulus-sam-thinks-george-see-also"
-id: "TRM-ENG-36078"
+id: "TRM-ENG-65136"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "able. Sam is bumped (the stimulus); Sam thinks, “George See also"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-used-to-describe-the-family-environment"
-id: "TRM-ENG-37270"
+id: "TRM-ENG-66328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "used to describe the family environment"

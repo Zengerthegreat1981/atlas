@@ -1,6 +1,6 @@
 ---
 slug: "trm-mentalizationbased-treatment-2"
-id: "TRM-ENG-50729"
+id: "TRM-ENG-65258"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mentalization-based treatment, 2"

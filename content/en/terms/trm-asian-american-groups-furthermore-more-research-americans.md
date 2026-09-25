@@ -1,6 +1,6 @@
 ---
 slug: "trm-asian-american-groups-furthermore-more-research-americans"
-id: "TRM-ENG-37625"
+id: "TRM-ENG-66683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Asian American groups. Furthermore, more research Americans"

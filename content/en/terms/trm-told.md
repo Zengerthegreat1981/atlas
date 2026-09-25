@@ -1,6 +1,6 @@
 ---
 slug: "trm-told"
-id: "TRM-ENG-46068"
+id: "TRM-ENG-60597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "told"

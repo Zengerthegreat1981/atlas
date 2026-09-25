@@ -1,6 +1,6 @@
 ---
 slug: "trm-ash-we-mahoney-jd"
-id: "TRM-ENG-39730"
+id: "TRM-ENG-54259"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ash WE, Mahoney JD"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoffer-a-osmond-h-1967-the-hallucinogens-assumption"
-id: "TRM-ENG-50536"
+id: "TRM-ENG-65065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hoffer, A., & Osmond, H. (1967). The hallucinogens. assumption"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-globalization-cambridge-ma"
-id: "TRM-ENG-48078"
+id: "TRM-ENG-62607"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "globalization. Cambridge, MA"

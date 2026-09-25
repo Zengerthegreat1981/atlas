@@ -1,6 +1,6 @@
 ---
 slug: "trm-ative-treatments-for-adult-disorders-pp1733-new-york"
-id: "TRM-ENG-36178"
+id: "TRM-ENG-65236"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ative treatments for adult disorders (pp.17–33). New York"

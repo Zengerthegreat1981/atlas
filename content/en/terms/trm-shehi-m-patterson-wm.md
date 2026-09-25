@@ -1,6 +1,6 @@
 ---
 slug: "trm-shehi-m-patterson-wm"
-id: "TRM-ENG-42335"
+id: "TRM-ENG-56864"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shehi M, Patterson WM"

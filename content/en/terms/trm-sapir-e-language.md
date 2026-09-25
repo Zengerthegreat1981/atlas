@@ -1,6 +1,6 @@
 ---
 slug: "trm-sapir-e-language"
-id: "TRM-ENG-44615"
+id: "TRM-ENG-59144"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sapir, E., Language"

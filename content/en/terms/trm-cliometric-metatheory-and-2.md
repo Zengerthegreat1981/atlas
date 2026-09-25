@@ -1,6 +1,6 @@
 ---
 slug: "trm-cliometric-metatheory-and-2"
-id: "TRM-ENG-39539"
+id: "TRM-ENG-54068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cliometric metatheory and, 2"

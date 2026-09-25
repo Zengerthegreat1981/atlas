@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-not-b-error-2"
-id: "TRM-ENG-44281"
+id: "TRM-ENG-58810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "A not B error, 2"

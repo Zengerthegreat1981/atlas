@@ -1,6 +1,6 @@
 ---
 slug: "trm-morin-c-m-1993-insomnia"
-id: "TRM-ENG-46634"
+id: "TRM-ENG-61163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Morin, C. M. (1993). Insomnia"

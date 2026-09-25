@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-courts"
-id: "TRM-ENG-44208"
+id: "TRM-ENG-58737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the courts"

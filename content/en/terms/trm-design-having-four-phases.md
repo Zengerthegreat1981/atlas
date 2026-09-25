@@ -1,6 +1,6 @@
 ---
 slug: "trm-design-having-four-phases"
-id: "TRM-ENG-45526"
+id: "TRM-ENG-60055"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DESIGN having four phases"

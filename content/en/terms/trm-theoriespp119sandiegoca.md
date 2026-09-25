@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoriespp119sandiegoca"
-id: "TRM-ENG-49755"
+id: "TRM-ENG-64284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theories(pp.1±19).SanDiego,CA"

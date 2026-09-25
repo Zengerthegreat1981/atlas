@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-a-patient-to-this-effect"
-id: "TRM-ENG-45179"
+id: "TRM-ENG-59708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of a patient to this effect"

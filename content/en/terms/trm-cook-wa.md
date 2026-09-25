@@ -1,6 +1,6 @@
 ---
 slug: "trm-cook-wa"
-id: "TRM-ENG-40237"
+id: "TRM-ENG-54766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cook WA"

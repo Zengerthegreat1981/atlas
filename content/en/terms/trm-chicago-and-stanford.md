@@ -1,6 +1,6 @@
 ---
 slug: "trm-chicago-and-stanford"
-id: "TRM-ENG-46389"
+id: "TRM-ENG-60918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chicago, and Stanford"

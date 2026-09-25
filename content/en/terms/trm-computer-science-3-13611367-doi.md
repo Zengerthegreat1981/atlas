@@ -1,6 +1,6 @@
 ---
 slug: "trm-computer-science-3-13611367-doi"
-id: "TRM-ENG-35346"
+id: "TRM-ENG-64404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Computer Science, 3, 1361–1367. doi"

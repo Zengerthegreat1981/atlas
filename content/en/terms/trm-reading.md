@@ -1,6 +1,6 @@
 ---
 slug: "trm-reading"
-id: "TRM-ENG-36062"
+id: "TRM-ENG-65120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reading"

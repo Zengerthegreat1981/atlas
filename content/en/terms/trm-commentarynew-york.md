@@ -1,6 +1,6 @@
 ---
 slug: "trm-commentarynew-york"
-id: "TRM-ENG-39588"
+id: "TRM-ENG-54117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "commentary.New York"

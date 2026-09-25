@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy-of-education"
-id: "TRM-ENG-47128"
+id: "TRM-ENG-61657"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Philosophy of Education"

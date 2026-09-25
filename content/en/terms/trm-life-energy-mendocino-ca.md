@@ -1,6 +1,6 @@
 ---
 slug: "trm-life-energy-mendocino-ca"
-id: "TRM-ENG-51574"
+id: "TRM-ENG-66103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "life energy. Mendocino, CA"

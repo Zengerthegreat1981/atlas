@@ -1,6 +1,6 @@
 ---
 slug: "trm-light"
-id: "TRM-ENG-48285"
+id: "TRM-ENG-62814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "light"

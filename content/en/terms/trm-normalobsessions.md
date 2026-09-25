@@ -1,6 +1,6 @@
 ---
 slug: "trm-normalobsessions"
-id: "TRM-ENG-49563"
+id: "TRM-ENG-64092"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "normalobsessions"

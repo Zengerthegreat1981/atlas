@@ -1,6 +1,6 @@
 ---
 slug: "trm-stochastic-frontier-estimation-1"
-id: "TRM-ENG-47343"
+id: "TRM-ENG-61872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stochastic frontier estimation, 1"

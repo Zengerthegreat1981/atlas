@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwab-jj-schwab-rb"
-id: "TRM-ENG-42287"
+id: "TRM-ENG-56816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwab JJ, Schwab RB"

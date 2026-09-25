@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp185211baltimore"
-id: "TRM-ENG-46343"
+id: "TRM-ENG-60872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.185±211).Baltimore"

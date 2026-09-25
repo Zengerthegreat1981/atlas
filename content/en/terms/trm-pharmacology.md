@@ -1,6 +1,6 @@
 ---
 slug: "trm-pharmacology"
-id: "TRM-ENG-36855"
+id: "TRM-ENG-51384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pharmacology"

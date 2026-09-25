@@ -1,6 +1,6 @@
 ---
 slug: "trm-negotiations-and-working-consensus-section-of-4"
-id: "TRM-ENG-38498"
+id: "TRM-ENG-53027"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Negotiations and Working Consensus section of, 4"

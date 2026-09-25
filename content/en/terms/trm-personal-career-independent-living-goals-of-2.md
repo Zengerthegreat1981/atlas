@@ -1,6 +1,6 @@
 ---
 slug: "trm-personal-career-independent-living-goals-of-2"
-id: "TRM-ENG-41147"
+id: "TRM-ENG-55676"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "personal, career, independent living goals of, 2"

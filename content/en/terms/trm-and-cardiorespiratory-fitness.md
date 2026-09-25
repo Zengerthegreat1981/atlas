@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-cardiorespiratory-fitness"
-id: "TRM-ENG-39168"
+id: "TRM-ENG-53697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and cardiorespiratory fitness"

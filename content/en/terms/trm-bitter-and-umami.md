@@ -1,6 +1,6 @@
 ---
 slug: "trm-bitter-and-umami"
-id: "TRM-ENG-34768"
+id: "TRM-ENG-63826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bitter, and umami"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-hold-sway"
-id: "TRM-ENG-36377"
+id: "TRM-ENG-65435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to hold sway"

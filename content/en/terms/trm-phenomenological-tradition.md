@@ -1,6 +1,6 @@
 ---
 slug: "trm-phenomenological-tradition"
-id: "TRM-ENG-48535"
+id: "TRM-ENG-63064"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "phenomenological tradition"

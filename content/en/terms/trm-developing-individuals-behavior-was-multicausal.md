@@ -1,6 +1,6 @@
 ---
 slug: "trm-developing-individuals-behavior-was-multicausal"
-id: "TRM-ENG-39907"
+id: "TRM-ENG-54436"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "developing individual’s behavior was multicausal"

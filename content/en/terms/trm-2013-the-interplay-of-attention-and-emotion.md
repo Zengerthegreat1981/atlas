@@ -1,6 +1,6 @@
 ---
 slug: "trm-2013-the-interplay-of-attention-and-emotion"
-id: "TRM-ENG-42239"
+id: "TRM-ENG-56768"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2013). The interplay of attention and emotion"

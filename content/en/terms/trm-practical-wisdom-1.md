@@ -1,6 +1,6 @@
 ---
 slug: "trm-practical-wisdom-1"
-id: "TRM-ENG-44704"
+id: "TRM-ENG-59233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Practical wisdom, 1"

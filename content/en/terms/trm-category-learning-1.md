@@ -1,6 +1,6 @@
 ---
 slug: "trm-category-learning-1"
-id: "TRM-ENG-44990"
+id: "TRM-ENG-59519"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "category learning, 1"

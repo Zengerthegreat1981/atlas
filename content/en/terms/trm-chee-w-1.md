@@ -1,6 +1,6 @@
 ---
 slug: "trm-chee-w-1"
-id: "TRM-ENG-37808"
+id: "TRM-ENG-66866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chee, W., 1"

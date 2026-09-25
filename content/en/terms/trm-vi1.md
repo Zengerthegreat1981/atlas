@@ -1,6 +1,6 @@
 ---
 slug: "trm-vi1"
-id: "TRM-ENG-37393"
+id: "TRM-ENG-51922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "VI.1)"

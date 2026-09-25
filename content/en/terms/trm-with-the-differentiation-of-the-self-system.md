@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-the-differentiation-of-the-self-system"
-id: "TRM-ENG-43433"
+id: "TRM-ENG-57962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with the differentiation of the self system"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-rescripting-and-chairwork"
-id: "TRM-ENG-44237"
+id: "TRM-ENG-58766"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with rescripting and chairwork"

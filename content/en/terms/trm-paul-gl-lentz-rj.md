@@ -1,6 +1,6 @@
 ---
 slug: "trm-paul-gl-lentz-rj"
-id: "TRM-ENG-41944"
+id: "TRM-ENG-56473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paul GL, Lentz RJ"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-shoben-edward-1"
-id: "TRM-ENG-44768"
+id: "TRM-ENG-59297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shoben, Edward, 1"

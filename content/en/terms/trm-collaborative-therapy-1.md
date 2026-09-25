@@ -1,6 +1,6 @@
 ---
 slug: "trm-collaborative-therapy-1"
-id: "TRM-ENG-50264"
+id: "TRM-ENG-64793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Collaborative therapy, 1"

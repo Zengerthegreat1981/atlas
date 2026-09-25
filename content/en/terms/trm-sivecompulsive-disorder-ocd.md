@@ -1,6 +1,6 @@
 ---
 slug: "trm-sivecompulsive-disorder-ocd"
-id: "TRM-ENG-43225"
+id: "TRM-ENG-57754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sive–compulsive disorder (OCD)"

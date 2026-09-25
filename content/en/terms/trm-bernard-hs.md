@@ -1,6 +1,6 @@
 ---
 slug: "trm-bernard-hs"
-id: "TRM-ENG-47505"
+id: "TRM-ENG-62034"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bernard HS"

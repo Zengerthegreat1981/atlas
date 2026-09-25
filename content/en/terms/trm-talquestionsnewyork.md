@@ -1,6 +1,6 @@
 ---
 slug: "trm-talquestionsnewyork"
-id: "TRM-ENG-38283"
+id: "TRM-ENG-52812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "talquestions.NewYork"

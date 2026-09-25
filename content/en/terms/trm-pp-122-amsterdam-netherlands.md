@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-122-amsterdam-netherlands"
-id: "TRM-ENG-46132"
+id: "TRM-ENG-60661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 1–22). Amsterdam, Netherlands"

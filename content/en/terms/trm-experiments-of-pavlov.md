@@ -1,6 +1,6 @@
 ---
 slug: "trm-experiments-of-pavlov"
-id: "TRM-ENG-43032"
+id: "TRM-ENG-57561"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "experiments of Pavlov"

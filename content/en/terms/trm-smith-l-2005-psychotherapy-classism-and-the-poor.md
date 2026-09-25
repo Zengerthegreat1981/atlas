@@ -1,6 +1,6 @@
 ---
 slug: "trm-smith-l-2005-psychotherapy-classism-and-the-poor"
-id: "TRM-ENG-38785"
+id: "TRM-ENG-53314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Smith, L. (2005). Psychotherapy, classism, and the poor"

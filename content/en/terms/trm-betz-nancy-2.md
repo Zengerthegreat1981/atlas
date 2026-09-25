@@ -1,6 +1,6 @@
 ---
 slug: "trm-betz-nancy-2"
-id: "TRM-ENG-37689"
+id: "TRM-ENG-66747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Betz, Nancy, 2"

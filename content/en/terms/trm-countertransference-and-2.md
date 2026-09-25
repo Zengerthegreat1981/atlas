@@ -1,6 +1,6 @@
 ---
 slug: "trm-countertransference-and-2"
-id: "TRM-ENG-39773"
+id: "TRM-ENG-54302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "countertransference and, 2"

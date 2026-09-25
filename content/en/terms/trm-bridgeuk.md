@@ -1,6 +1,6 @@
 ---
 slug: "trm-bridgeuk"
-id: "TRM-ENG-46870"
+id: "TRM-ENG-61399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bridge,UK"

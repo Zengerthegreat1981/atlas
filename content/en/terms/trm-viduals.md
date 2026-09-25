@@ -1,6 +1,6 @@
 ---
 slug: "trm-viduals"
-id: "TRM-ENG-43970"
+id: "TRM-ENG-58499"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "viduals"

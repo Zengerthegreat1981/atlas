@@ -1,6 +1,6 @@
 ---
 slug: "trm-more-ol-the-following-behaviors"
-id: "TRM-ENG-35148"
+id: "TRM-ENG-64206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "more ol the following behaviors"

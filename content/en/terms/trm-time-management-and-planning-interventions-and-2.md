@@ -1,6 +1,6 @@
 ---
 slug: "trm-time-management-and-planning-interventions-and-2"
-id: "TRM-ENG-41969"
+id: "TRM-ENG-56498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "time management and planning interventions and, 2"

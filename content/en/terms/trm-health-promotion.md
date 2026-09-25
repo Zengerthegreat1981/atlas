@@ -1,6 +1,6 @@
 ---
 slug: "trm-health-promotion"
-id: "TRM-ENG-46544"
+id: "TRM-ENG-61073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Health Promotion"

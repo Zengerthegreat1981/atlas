@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-disorder-ptsd"
-id: "TRM-ENG-35052"
+id: "TRM-ENG-64110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress disorder (PTSD)"

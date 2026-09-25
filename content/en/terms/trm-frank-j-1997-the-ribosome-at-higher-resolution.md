@@ -1,6 +1,6 @@
 ---
 slug: "trm-frank-j-1997-the-ribosome-at-higher-resolution"
-id: "TRM-ENG-35682"
+id: "TRM-ENG-64740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frank, J. (1997). The ribosome at higher resolution"

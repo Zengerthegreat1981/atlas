@@ -1,6 +1,6 @@
 ---
 slug: "trm-weisberg-r-w-1993-creativity"
-id: "TRM-ENG-47473"
+id: "TRM-ENG-62002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Weisberg, R. W. (1993). Creativity"

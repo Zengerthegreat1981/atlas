@@ -1,6 +1,6 @@
 ---
 slug: "trm-hillclara-e2"
-id: "TRM-ENG-38176"
+id: "TRM-ENG-52705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hill,Clara E.,2"

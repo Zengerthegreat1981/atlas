@@ -1,6 +1,6 @@
 ---
 slug: "trm-piotrowski-z-schreiber-m"
-id: "TRM-ENG-41984"
+id: "TRM-ENG-56513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Piotrowski Z, Schreiber M"

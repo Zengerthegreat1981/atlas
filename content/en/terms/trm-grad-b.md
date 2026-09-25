@@ -1,6 +1,6 @@
 ---
 slug: "trm-grad-b"
-id: "TRM-ENG-40790"
+id: "TRM-ENG-55319"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grad B"

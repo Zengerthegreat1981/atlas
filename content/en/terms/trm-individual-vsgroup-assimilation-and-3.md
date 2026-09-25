@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-vsgroup-assimilation-and-3"
-id: "TRM-ENG-40524"
+id: "TRM-ENG-55053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual vs.group assimilation and, 3"

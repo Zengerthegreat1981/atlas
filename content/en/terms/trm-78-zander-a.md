@@ -1,6 +1,6 @@
 ---
 slug: "trm-78-zander-a"
-id: "TRM-ENG-39431"
+id: "TRM-ENG-53960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "78. Zander A"

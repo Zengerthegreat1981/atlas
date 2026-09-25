@@ -1,6 +1,6 @@
 ---
 slug: "trm-developmental-and-comparative-neuroscience"
-id: "TRM-ENG-34608"
+id: "TRM-ENG-63666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Developmental and comparative neuroscience"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-gaylin-w"
-id: "TRM-ENG-40673"
+id: "TRM-ENG-55202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gaylin W"

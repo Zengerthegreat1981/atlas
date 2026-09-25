@@ -1,6 +1,6 @@
 ---
 slug: "trm-control-emotional-states-and-so-on"
-id: "TRM-ENG-35737"
+id: "TRM-ENG-64795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "control, emotional states, and so on"

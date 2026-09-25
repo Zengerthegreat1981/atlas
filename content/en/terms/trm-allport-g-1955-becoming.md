@@ -1,6 +1,6 @@
 ---
 slug: "trm-allport-g-1955-becoming"
-id: "TRM-ENG-52475"
+id: "TRM-ENG-67004"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allport, G. (1955). Becoming"

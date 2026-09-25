@@ -1,6 +1,6 @@
 ---
 slug: "trm-levitt-ee"
-id: "TRM-ENG-41428"
+id: "TRM-ENG-55957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levitt EE"

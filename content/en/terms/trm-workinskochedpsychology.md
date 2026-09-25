@@ -1,6 +1,6 @@
 ---
 slug: "trm-workinskochedpsychology"
-id: "TRM-ENG-38455"
+id: "TRM-ENG-52984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "work.InS.Koch(Ed.),Psychology"

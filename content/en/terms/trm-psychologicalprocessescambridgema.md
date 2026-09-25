@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologicalprocessescambridgema"
-id: "TRM-ENG-38140"
+id: "TRM-ENG-52669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychologicalprocesses.Cambridge,MA"

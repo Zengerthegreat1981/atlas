@@ -1,6 +1,6 @@
 ---
 slug: "trm-bergin-ae-lambert-mj"
-id: "TRM-ENG-39898"
+id: "TRM-ENG-54427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bergin AE, Lambert MJ"

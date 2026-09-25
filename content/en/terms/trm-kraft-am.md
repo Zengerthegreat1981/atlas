@@ -1,6 +1,6 @@
 ---
 slug: "trm-kraft-am"
-id: "TRM-ENG-41297"
+id: "TRM-ENG-55826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kraft AM"

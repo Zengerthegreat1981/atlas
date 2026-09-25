@@ -1,6 +1,6 @@
 ---
 slug: "trm-stresswise-in-the-90s-new-york"
-id: "TRM-ENG-45967"
+id: "TRM-ENG-60496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stress-Wise in the ’90s. New York"

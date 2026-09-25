@@ -1,6 +1,6 @@
 ---
 slug: "trm-gray-ja-1982-the-neuropsychology-of-anxiety"
-id: "TRM-ENG-35713"
+id: "TRM-ENG-64771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gray, J.A. (1982). The neuropsychology of anxiety"

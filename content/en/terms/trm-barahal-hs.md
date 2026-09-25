@@ -1,6 +1,6 @@
 ---
 slug: "trm-barahal-hs"
-id: "TRM-ENG-39802"
+id: "TRM-ENG-54331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barahal HS"

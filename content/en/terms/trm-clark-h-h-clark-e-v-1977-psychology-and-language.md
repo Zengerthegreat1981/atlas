@@ -1,6 +1,6 @@
 ---
 slug: "trm-clark-h-h-clark-e-v-1977-psychology-and-language"
-id: "TRM-ENG-36698"
+id: "TRM-ENG-65756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark, H. H., & Clark, E. V. (1977). Psychology and language"

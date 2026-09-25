@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofchange"
-id: "TRM-ENG-49585"
+id: "TRM-ENG-64114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofchange"

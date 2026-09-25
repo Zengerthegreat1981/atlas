@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-often-cast-in-antiscientific-terms"
-id: "TRM-ENG-45125"
+id: "TRM-ENG-59654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is often cast in antiscientific terms"

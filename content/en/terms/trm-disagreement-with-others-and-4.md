@@ -1,6 +1,6 @@
 ---
 slug: "trm-disagreement-with-others-and-4"
-id: "TRM-ENG-39946"
+id: "TRM-ENG-54475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disagreement with others and, 4"

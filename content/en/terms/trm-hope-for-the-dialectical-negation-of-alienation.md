@@ -1,6 +1,6 @@
 ---
 slug: "trm-hope-for-the-dialectical-negation-of-alienation"
-id: "TRM-ENG-48125"
+id: "TRM-ENG-62654"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hope for the dialectical negation of alienation"

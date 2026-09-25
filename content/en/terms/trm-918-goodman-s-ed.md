@@ -1,6 +1,6 @@
 ---
 slug: "trm-918-goodman-s-ed"
-id: "TRM-ENG-39593"
+id: "TRM-ENG-54122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "918. Goodman S (ed)"

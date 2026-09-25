@@ -1,6 +1,6 @@
 ---
 slug: "trm-wiener-n-1948-cybernetics"
-id: "TRM-ENG-45493"
+id: "TRM-ENG-60022"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wiener, N. (1948) Cybernetics"

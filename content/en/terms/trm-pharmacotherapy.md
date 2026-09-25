@@ -1,6 +1,6 @@
 ---
 slug: "trm-pharmacotherapy"
-id: "TRM-ENG-35895"
+id: "TRM-ENG-64953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pharmacotherapy"

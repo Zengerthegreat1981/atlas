@@ -1,6 +1,6 @@
 ---
 slug: "trm-mood-episodes-j-affect-disord-136"
-id: "TRM-ENG-48455"
+id: "TRM-ENG-62984"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mood episodes. J Affect Disord 136"

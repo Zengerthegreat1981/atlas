@@ -1,6 +1,6 @@
 ---
 slug: "trm-barriers-to-crosscultural-counseling3"
-id: "TRM-ENG-37673"
+id: "TRM-ENG-66731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barriers to cross-cultural counseling,3"

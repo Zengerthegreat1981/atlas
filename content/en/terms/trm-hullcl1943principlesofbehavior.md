@@ -1,6 +1,6 @@
 ---
 slug: "trm-hullcl1943principlesofbehavior"
-id: "TRM-ENG-36928"
+id: "TRM-ENG-51457"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hull,C.L.(1943).Principlesofbehavior"

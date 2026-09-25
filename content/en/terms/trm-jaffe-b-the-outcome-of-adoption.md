@@ -1,6 +1,6 @@
 ---
 slug: "trm-jaffe-b-the-outcome-of-adoption"
-id: "TRM-ENG-44454"
+id: "TRM-ENG-58983"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jaffe, B., “The Outcome of Adoption"

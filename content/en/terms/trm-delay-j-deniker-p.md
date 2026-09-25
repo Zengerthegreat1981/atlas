@@ -1,6 +1,6 @@
 ---
 slug: "trm-delay-j-deniker-p"
-id: "TRM-ENG-40328"
+id: "TRM-ENG-54857"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Delay J, Deniker P"

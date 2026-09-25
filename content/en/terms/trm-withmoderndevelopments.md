@@ -1,6 +1,6 @@
 ---
 slug: "trm-withmoderndevelopments"
-id: "TRM-ENG-38451"
+id: "TRM-ENG-52980"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "withmoderndevelopments"

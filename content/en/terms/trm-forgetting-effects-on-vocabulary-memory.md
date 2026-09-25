@@ -1,6 +1,6 @@
 ---
 slug: "trm-forgetting-effects-on-vocabulary-memory"
-id: "TRM-ENG-45143"
+id: "TRM-ENG-59672"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "forgetting effects on vocabulary memory"

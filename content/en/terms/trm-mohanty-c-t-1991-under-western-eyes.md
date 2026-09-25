@@ -1,6 +1,6 @@
 ---
 slug: "trm-mohanty-c-t-1991-under-western-eyes"
-id: "TRM-ENG-47011"
+id: "TRM-ENG-61540"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mohanty, C. T. (1991). Under Western eyes"

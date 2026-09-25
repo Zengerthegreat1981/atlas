@@ -1,6 +1,6 @@
 ---
 slug: "trm-teacher-education-pp-119-mahwah-nj"
-id: "TRM-ENG-48792"
+id: "TRM-ENG-63321"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "teacher education (pp. 1–19). Mahwah, NJ"

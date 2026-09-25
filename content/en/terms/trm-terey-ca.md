@@ -1,6 +1,6 @@
 ---
 slug: "trm-terey-ca"
-id: "TRM-ENG-35366"
+id: "TRM-ENG-49895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "terey, CA"

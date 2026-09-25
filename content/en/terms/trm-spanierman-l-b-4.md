@@ -1,6 +1,6 @@
 ---
 slug: "trm-spanierman-l-b-4"
-id: "TRM-ENG-38800"
+id: "TRM-ENG-53329"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spanierman, L. B., 4"

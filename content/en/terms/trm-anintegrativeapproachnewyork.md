@@ -1,6 +1,6 @@
 ---
 slug: "trm-anintegrativeapproachnewyork"
-id: "TRM-ENG-48888"
+id: "TRM-ENG-63417"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anintegrativeapproach.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-processesinfearappealsandattitudechange"
-id: "TRM-ENG-47219"
+id: "TRM-ENG-61748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "processesinfearappealsandattitudechange"

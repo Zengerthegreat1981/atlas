@@ -1,6 +1,6 @@
 ---
 slug: "trm-kazdin-ae"
-id: "TRM-ENG-41218"
+id: "TRM-ENG-55747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kazdin AE"

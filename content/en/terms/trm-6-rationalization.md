@@ -1,6 +1,6 @@
 ---
 slug: "trm-6-rationalization"
-id: "TRM-ENG-39219"
+id: "TRM-ENG-53748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "6. Rationalization"

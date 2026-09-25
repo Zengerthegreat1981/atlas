@@ -1,6 +1,6 @@
 ---
 slug: "trm-viewofsexualmatters"
-id: "TRM-ENG-43971"
+id: "TRM-ENG-58500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "viewofsexualmatters."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-troversial"
-id: "TRM-ENG-44164"
+id: "TRM-ENG-58693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "troversial"

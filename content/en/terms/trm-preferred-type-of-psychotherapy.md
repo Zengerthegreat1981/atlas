@@ -1,6 +1,6 @@
 ---
 slug: "trm-preferred-type-of-psychotherapy"
-id: "TRM-ENG-43149"
+id: "TRM-ENG-57678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "preferred type of psychotherapy"

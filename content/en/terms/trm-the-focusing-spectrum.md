@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-focusing-spectrum"
-id: "TRM-ENG-49857"
+id: "TRM-ENG-64386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Focusing Spectrum"

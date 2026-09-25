@@ -1,6 +1,6 @@
 ---
 slug: "trm-satir-v-1967-conjoint-family-therapy"
-id: "TRM-ENG-35943"
+id: "TRM-ENG-65001"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Satir, V. (1967). Conjoint family therapy"

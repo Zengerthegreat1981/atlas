@@ -1,6 +1,6 @@
 ---
 slug: "trm-salzman-l-thaler-fh"
-id: "TRM-ENG-42226"
+id: "TRM-ENG-56755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Salzman L, Thaler FH"

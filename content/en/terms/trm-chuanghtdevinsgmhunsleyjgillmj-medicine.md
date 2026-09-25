@@ -1,6 +1,6 @@
 ---
 slug: "trm-chuanghtdevinsgmhunsleyjgillmj-medicine"
-id: "TRM-ENG-46467"
+id: "TRM-ENG-60996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chuang,H.T.,Devins,G.M.,Hunsley,J.,&Gill,M.J. medicine"

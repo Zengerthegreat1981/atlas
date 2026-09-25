@@ -1,6 +1,6 @@
 ---
 slug: "trm-posium-on-motivation-vol-17-pp-237307-lincoln"
-id: "TRM-ENG-35244"
+id: "TRM-ENG-64302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "posium on Motivation (Vol. 17, pp. 237-307). Lincoln"

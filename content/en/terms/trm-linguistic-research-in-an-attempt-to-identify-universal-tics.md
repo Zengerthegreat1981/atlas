@@ -1,6 +1,6 @@
 ---
 slug: "trm-linguistic-research-in-an-attempt-to-identify-universal-tics"
-id: "TRM-ENG-37930"
+id: "TRM-ENG-66988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "linguistic research in an attempt to identify “universal tics"

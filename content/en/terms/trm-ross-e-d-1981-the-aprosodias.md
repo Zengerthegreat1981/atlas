@@ -1,6 +1,6 @@
 ---
 slug: "trm-ross-e-d-1981-the-aprosodias"
-id: "TRM-ENG-34682"
+id: "TRM-ENG-63740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ross, E. D. (1981). The aprosodias"

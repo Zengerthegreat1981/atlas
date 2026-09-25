@@ -1,6 +1,6 @@
 ---
 slug: "trm-150-chagnon-n-irons-w-eds"
-id: "TRM-ENG-38626"
+id: "TRM-ENG-53155"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "150. Chagnon N, Irons W (eds)"

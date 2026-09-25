@@ -1,6 +1,6 @@
 ---
 slug: "trm-freeman-rw-friedman-i"
-id: "TRM-ENG-40608"
+id: "TRM-ENG-55137"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freeman RW, Friedman I"

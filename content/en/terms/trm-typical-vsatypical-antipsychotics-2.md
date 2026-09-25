@@ -1,6 +1,6 @@
 ---
 slug: "trm-typical-vsatypical-antipsychotics-2"
-id: "TRM-ENG-42063"
+id: "TRM-ENG-56592"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "typical vs.atypical antipsychotics, 2"

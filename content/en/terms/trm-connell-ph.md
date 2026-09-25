@@ -1,6 +1,6 @@
 ---
 slug: "trm-connell-ph"
-id: "TRM-ENG-40229"
+id: "TRM-ENG-54758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Connell PH"

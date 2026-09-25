@@ -1,6 +1,6 @@
 ---
 slug: "trm-womens-health-and-health-care-pp-225248-london"
-id: "TRM-ENG-47387"
+id: "TRM-ENG-61916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "women's health and health care (pp. 225±248). London"

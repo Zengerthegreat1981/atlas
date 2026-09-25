@@ -1,6 +1,6 @@
 ---
 slug: "trm-olfactory-experience-2"
-id: "TRM-ENG-45366"
+id: "TRM-ENG-59895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "olfactory experience, 2"

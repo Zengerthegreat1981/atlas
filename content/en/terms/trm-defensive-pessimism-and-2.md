@@ -1,6 +1,6 @@
 ---
 slug: "trm-defensive-pessimism-and-2"
-id: "TRM-ENG-39864"
+id: "TRM-ENG-54393"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defensive pessimism and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ated-bylearning-from-the-oppressed"
-id: "TRM-ENG-37568"
+id: "TRM-ENG-52097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ated bylearning from the oppressed"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatry-167"
-id: "TRM-ENG-47957"
+id: "TRM-ENG-62486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychiatry 167"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jaretzki-a"
-id: "TRM-ENG-41117"
+id: "TRM-ENG-55646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jaretzki A"

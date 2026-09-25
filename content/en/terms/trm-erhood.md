@@ -1,6 +1,6 @@
 ---
 slug: "trm-erhood"
-id: "TRM-ENG-45890"
+id: "TRM-ENG-60419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "erhood"

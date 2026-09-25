@@ -1,6 +1,6 @@
 ---
 slug: "trm-preparation-for-surgery"
-id: "TRM-ENG-47208"
+id: "TRM-ENG-61737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "preparation for surgery"

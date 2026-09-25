@@ -1,6 +1,6 @@
 ---
 slug: "trm-de-is-also-theory-oriented"
-id: "TRM-ENG-46476"
+id: "TRM-ENG-61005"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "DE is also theory oriented"

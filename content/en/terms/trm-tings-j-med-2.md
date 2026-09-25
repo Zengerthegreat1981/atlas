@@ -1,6 +1,6 @@
 ---
 slug: "trm-tings-j-med-2"
-id: "TRM-ENG-48667"
+id: "TRM-ENG-63196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tings. J Med 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-primary-medication-used-in-treating-bipolar-disorder"
-id: "TRM-ENG-37124"
+id: "TRM-ENG-51653"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the primary medication used in treating bipolar disorder"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rx"
-id: "TRM-ENG-46289"
+id: "TRM-ENG-60818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“RX"

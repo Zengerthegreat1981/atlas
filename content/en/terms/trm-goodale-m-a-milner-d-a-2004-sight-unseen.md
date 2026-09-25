@@ -1,6 +1,6 @@
 ---
 slug: "trm-goodale-m-a-milner-d-a-2004-sight-unseen"
-id: "TRM-ENG-34621"
+id: "TRM-ENG-63679"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goodale, M. A., & Milner, D. A. (2004). Sight unseen"

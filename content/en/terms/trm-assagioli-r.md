@@ -1,6 +1,6 @@
 ---
 slug: "trm-assagioli-r"
-id: "TRM-ENG-39733"
+id: "TRM-ENG-54262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Assagioli R"

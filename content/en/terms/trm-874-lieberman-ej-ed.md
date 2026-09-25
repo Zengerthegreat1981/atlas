@@ -1,6 +1,6 @@
 ---
 slug: "trm-874-lieberman-ej-ed"
-id: "TRM-ENG-39538"
+id: "TRM-ENG-54067"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "874. Lieberman EJ (ed)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tients-to-follow-prescriptions-for-medications-cochrane-re-compliance"
-id: "TRM-ENG-37172"
+id: "TRM-ENG-66230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tients to follow prescriptions for medications. (Cochrane Re- compliance"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ricouer-p-freud-and-philosophy"
-id: "TRM-ENG-44597"
+id: "TRM-ENG-59126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ricouer, P., Freud and Philosophy"

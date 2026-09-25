@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-constructivist-therapists-employ-narrative-ap-see-also"
-id: "TRM-ENG-35878"
+id: "TRM-ENG-64936"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Other constructivist therapists employ narrative ap- See also"

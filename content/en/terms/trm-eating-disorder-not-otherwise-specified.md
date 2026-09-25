@@ -1,6 +1,6 @@
 ---
 slug: "trm-eating-disorder-not-otherwise-specified"
-id: "TRM-ENG-48334"
+id: "TRM-ENG-62863"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eating disorder not otherwise specified"

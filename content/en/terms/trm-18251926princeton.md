@@ -1,6 +1,6 @@
 ---
 slug: "trm-18251926princeton"
-id: "TRM-ENG-36485"
+id: "TRM-ENG-65543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1825–1926.Princeton"

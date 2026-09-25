@@ -1,6 +1,6 @@
 ---
 slug: "trm-criticisms-of-4"
-id: "TRM-ENG-39798"
+id: "TRM-ENG-54327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "criticisms of, 4"

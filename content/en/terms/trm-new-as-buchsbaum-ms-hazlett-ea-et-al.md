@@ -1,6 +1,6 @@
 ---
 slug: "trm-new-as-buchsbaum-ms-hazlett-ea-et-al"
-id: "TRM-ENG-47896"
+id: "TRM-ENG-62425"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "New AS, Buchsbaum MS, Hazlett EA, et al"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp321lancasteruk"
-id: "TRM-ENG-46351"
+id: "TRM-ENG-60880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp.3±21).Lancaster,UK"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-meichenbaum-dh"
-id: "TRM-ENG-41674"
+id: "TRM-ENG-56203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meichenbaum DH"

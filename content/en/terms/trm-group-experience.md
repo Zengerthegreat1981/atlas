@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-experience"
-id: "TRM-ENG-48368"
+id: "TRM-ENG-62897"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group experience"

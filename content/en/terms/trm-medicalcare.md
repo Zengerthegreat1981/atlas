@@ -1,6 +1,6 @@
 ---
 slug: "trm-medicalcare"
-id: "TRM-ENG-47103"
+id: "TRM-ENG-61632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "medicalcare"

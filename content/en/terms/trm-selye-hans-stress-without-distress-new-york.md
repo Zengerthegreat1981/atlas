@@ -1,6 +1,6 @@
 ---
 slug: "trm-selye-hans-stress-without-distress-new-york"
-id: "TRM-ENG-45957"
+id: "TRM-ENG-60486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Selye, Hans, Stress Without Distress (New York"

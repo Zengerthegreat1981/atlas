@@ -1,6 +1,6 @@
 ---
 slug: "trm-scriptions-of-mediated-learning-experiences-have-influ-sessment"
-id: "TRM-ENG-36960"
+id: "TRM-ENG-66018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scriptions of “mediated learning experiences” have influ- sessment"

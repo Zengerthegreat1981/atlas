@@ -1,6 +1,6 @@
 ---
 slug: "trm-singular-thought-1"
-id: "TRM-ENG-45515"
+id: "TRM-ENG-60044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "singular thought, 1"

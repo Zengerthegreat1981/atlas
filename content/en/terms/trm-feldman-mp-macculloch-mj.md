@@ -1,6 +1,6 @@
 ---
 slug: "trm-feldman-mp-macculloch-mj"
-id: "TRM-ENG-40507"
+id: "TRM-ENG-55036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Feldman MP, MacCulloch MJ"

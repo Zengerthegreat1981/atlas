@@ -1,6 +1,6 @@
 ---
 slug: "trm-physician-attitudes-toward-lithium"
-id: "TRM-ENG-36860"
+id: "TRM-ENG-65918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physician attitudes toward lithium"

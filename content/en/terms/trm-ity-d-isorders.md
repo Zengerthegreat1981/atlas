@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-d-isorders"
-id: "TRM-ENG-42940"
+id: "TRM-ENG-57469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity D isorders"

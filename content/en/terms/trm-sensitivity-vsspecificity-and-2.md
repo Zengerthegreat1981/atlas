@@ -1,6 +1,6 @@
 ---
 slug: "trm-sensitivity-vsspecificity-and-2"
-id: "TRM-ENG-41627"
+id: "TRM-ENG-56156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sensitivity vs.specificity and, 2"

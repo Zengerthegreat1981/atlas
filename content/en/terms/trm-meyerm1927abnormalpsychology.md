@@ -1,6 +1,6 @@
 ---
 slug: "trm-meyerm1927abnormalpsychology"
-id: "TRM-ENG-37074"
+id: "TRM-ENG-51603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Meyer,M.(1927).Abnormalpsychology"

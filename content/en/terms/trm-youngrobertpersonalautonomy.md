@@ -1,6 +1,6 @@
 ---
 slug: "trm-youngrobertpersonalautonomy"
-id: "TRM-ENG-45817"
+id: "TRM-ENG-60346"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Young,Robert.PersonalAutonomy"

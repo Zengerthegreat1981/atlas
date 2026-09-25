@@ -1,6 +1,6 @@
 ---
 slug: "trm-valla-lorenzo-1"
-id: "TRM-ENG-47443"
+id: "TRM-ENG-61972"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Valla, Lorenzo, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-and-problem-solving-second-edition"
-id: "TRM-ENG-42947"
+id: "TRM-ENG-57476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity and Problem Solving (Second Edition)"

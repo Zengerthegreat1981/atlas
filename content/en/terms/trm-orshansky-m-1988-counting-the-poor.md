@@ -1,6 +1,6 @@
 ---
 slug: "trm-orshansky-m-1988-counting-the-poor"
-id: "TRM-ENG-38544"
+id: "TRM-ENG-53073"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Orshansky, M. (1988). Counting the poor"

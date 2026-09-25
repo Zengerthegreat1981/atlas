@@ -1,6 +1,6 @@
 ---
 slug: "trm-womans-guide-to-selfesteem-new-york"
-id: "TRM-ENG-46001"
+id: "TRM-ENG-60530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Woman’s Guide to Self-Esteem (New York"

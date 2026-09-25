@@ -1,6 +1,6 @@
 ---
 slug: "trm-popular-sovereignty-1"
-id: "TRM-ENG-47140"
+id: "TRM-ENG-61669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Popular sovereignty, 1"

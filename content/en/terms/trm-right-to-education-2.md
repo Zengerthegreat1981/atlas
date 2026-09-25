@@ -1,6 +1,6 @@
 ---
 slug: "trm-right-to-education-2"
-id: "TRM-ENG-48670"
+id: "TRM-ENG-63199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "right to education, 2"

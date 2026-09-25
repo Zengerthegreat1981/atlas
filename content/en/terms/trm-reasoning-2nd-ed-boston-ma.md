@@ -1,6 +1,6 @@
 ---
 slug: "trm-reasoning-2nd-ed-boston-ma"
-id: "TRM-ENG-45462"
+id: "TRM-ENG-59991"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reasoning (2nd ed.). Boston, MA"

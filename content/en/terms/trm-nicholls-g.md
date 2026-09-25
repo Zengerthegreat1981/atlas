@@ -1,6 +1,6 @@
 ---
 slug: "trm-nicholls-g"
-id: "TRM-ENG-41837"
+id: "TRM-ENG-56366"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nicholls G"

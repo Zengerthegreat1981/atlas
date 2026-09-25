@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-birth-of-the-nationfilm-3"
-id: "TRM-ENG-38878"
+id: "TRM-ENG-53407"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Birth of the Nationfilm, 3"

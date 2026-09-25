@@ -1,6 +1,6 @@
 ---
 slug: "trm-responses-and-their-antecedents"
-id: "TRM-ENG-45285"
+id: "TRM-ENG-59814"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "responses and their antecedents"

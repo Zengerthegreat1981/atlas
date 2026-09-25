@@ -1,6 +1,6 @@
 ---
 slug: "trm-la-culturu-y-sus-artfices-of-culture-and-its-artifices"
-id: "TRM-ENG-35103"
+id: "TRM-ENG-49632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "la culturu y sus artfices (Of culture and its artifices"

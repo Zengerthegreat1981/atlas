@@ -1,6 +1,6 @@
 ---
 slug: "trm-naturalistic-observations"
-id: "TRM-ENG-36740"
+id: "TRM-ENG-65798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "naturalistic observations"

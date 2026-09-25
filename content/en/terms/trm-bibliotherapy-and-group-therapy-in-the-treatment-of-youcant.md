@@ -1,6 +1,6 @@
 ---
 slug: "trm-bibliotherapy-and-group-therapy-in-the-treatment-of-youcant"
-id: "TRM-ENG-49319"
+id: "TRM-ENG-63848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bibliotherapy and group therapy in the treatment of youcan't"

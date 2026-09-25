@@ -1,6 +1,6 @@
 ---
 slug: "trm-influence-subsequent-severity-of-ptsd"
-id: "TRM-ENG-49491"
+id: "TRM-ENG-64020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "influence subsequent severity of PTSD"

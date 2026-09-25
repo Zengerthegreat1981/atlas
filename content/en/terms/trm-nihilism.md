@@ -1,6 +1,6 @@
 ---
 slug: "trm-nihilism"
-id: "TRM-ENG-52304"
+id: "TRM-ENG-66833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nihilism"

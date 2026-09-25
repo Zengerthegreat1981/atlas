@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcguigan-f-j-1993-progressive-relaxation"
-id: "TRM-ENG-49090"
+id: "TRM-ENG-63619"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McGuigan, F. J. (1993). Progressive relaxation"

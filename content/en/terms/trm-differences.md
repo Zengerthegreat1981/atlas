@@ -1,6 +1,6 @@
 ---
 slug: "trm-differences"
-id: "TRM-ENG-39930"
+id: "TRM-ENG-54459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "differences"

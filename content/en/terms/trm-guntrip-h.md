@@ -1,6 +1,6 @@
 ---
 slug: "trm-guntrip-h"
-id: "TRM-ENG-40857"
+id: "TRM-ENG-55386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Guntrip H"

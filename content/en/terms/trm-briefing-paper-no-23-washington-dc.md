@@ -1,6 +1,6 @@
 ---
 slug: "trm-briefing-paper-no-23-washington-dc"
-id: "TRM-ENG-46114"
+id: "TRM-ENG-60643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Briefing Paper No. 23). Washington, DC"

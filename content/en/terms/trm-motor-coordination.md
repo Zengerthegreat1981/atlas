@@ -1,6 +1,6 @@
 ---
 slug: "trm-motor-coordination"
-id: "TRM-ENG-38452"
+id: "TRM-ENG-52981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Motor Coordination"

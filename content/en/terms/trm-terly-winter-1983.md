@@ -1,6 +1,6 @@
 ---
 slug: "trm-terly-winter-1983"
-id: "TRM-ENG-46028"
+id: "TRM-ENG-60557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "terly (Winter 1983)"

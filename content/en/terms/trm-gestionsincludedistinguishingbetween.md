@@ -1,6 +1,6 @@
 ---
 slug: "trm-gestionsincludedistinguishingbetween"
-id: "TRM-ENG-45912"
+id: "TRM-ENG-60441"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gestionsincludedistinguishingbetween"

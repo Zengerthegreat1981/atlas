@@ -1,6 +1,6 @@
 ---
 slug: "trm-ache-patients"
-id: "TRM-ENG-46781"
+id: "TRM-ENG-61310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ache patients"

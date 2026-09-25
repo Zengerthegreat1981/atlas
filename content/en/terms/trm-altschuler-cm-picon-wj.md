@@ -1,6 +1,6 @@
 ---
 slug: "trm-altschuler-cm-picon-wj"
-id: "TRM-ENG-39675"
+id: "TRM-ENG-54204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Altschuler CM, Picon WJ"

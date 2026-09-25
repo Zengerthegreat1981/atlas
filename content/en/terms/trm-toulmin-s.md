@@ -1,6 +1,6 @@
 ---
 slug: "trm-toulmin-s"
-id: "TRM-ENG-42611"
+id: "TRM-ENG-57140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Toulmin S"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ivey-allen-e"
-id: "TRM-ENG-38268"
+id: "TRM-ENG-52797"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ivey, Allen E."

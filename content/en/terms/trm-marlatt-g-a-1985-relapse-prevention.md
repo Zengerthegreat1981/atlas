@@ -1,6 +1,6 @@
 ---
 slug: "trm-marlatt-g-a-1985-relapse-prevention"
-id: "TRM-ENG-49086"
+id: "TRM-ENG-63615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marlatt, G. A. (1985). Relapse prevention"

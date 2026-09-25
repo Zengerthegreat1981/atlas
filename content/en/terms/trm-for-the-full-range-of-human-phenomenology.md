@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-the-full-range-of-human-phenomenology"
-id: "TRM-ENG-51473"
+id: "TRM-ENG-66002"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for the full range of human phenomenology"

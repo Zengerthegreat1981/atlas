@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-anxiety-fall-into-two-categories"
-id: "TRM-ENG-46174"
+id: "TRM-ENG-60703"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of anxiety fall into two categories"

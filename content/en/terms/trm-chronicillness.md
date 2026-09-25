@@ -1,6 +1,6 @@
 ---
 slug: "trm-chronicillness"
-id: "TRM-ENG-46891"
+id: "TRM-ENG-61420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chronicillness"

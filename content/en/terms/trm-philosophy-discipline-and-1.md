@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophy-discipline-and-1"
-id: "TRM-ENG-41171"
+id: "TRM-ENG-55700"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "philosophy discipline and, 1"

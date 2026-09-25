@@ -1,6 +1,6 @@
 ---
 slug: "trm-block-ma"
-id: "TRM-ENG-39967"
+id: "TRM-ENG-54496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Block MA"

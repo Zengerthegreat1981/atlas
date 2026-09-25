@@ -1,6 +1,6 @@
 ---
 slug: "trm-nomenon"
-id: "TRM-ENG-36752"
+id: "TRM-ENG-65810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nomenon"

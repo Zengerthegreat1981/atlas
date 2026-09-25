@@ -1,6 +1,6 @@
 ---
 slug: "trm-antihypertensive-medicationtaking-investigation-of-a-simple-ication-regimens"
-id: "TRM-ENG-35583"
+id: "TRM-ENG-50112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Antihypertensive medication-taking. Investigation of a simple ication regimens"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-restructuring-of-experience"
-id: "TRM-ENG-45287"
+id: "TRM-ENG-59816"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "restructuring of experience"

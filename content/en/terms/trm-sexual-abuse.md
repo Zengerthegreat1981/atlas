@@ -1,6 +1,6 @@
 ---
 slug: "trm-sexual-abuse"
-id: "TRM-ENG-43209"
+id: "TRM-ENG-57738"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sexual abuse"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nees-would-not-be-affected-by-selecting-a-single-cid"
-id: "TRM-ENG-35962"
+id: "TRM-ENG-65020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nees would not be affected by selecting a single (cid"

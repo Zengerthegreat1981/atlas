@@ -1,6 +1,6 @@
 ---
 slug: "trm-blum-l-2010-racialized-groups"
-id: "TRM-ENG-46325"
+id: "TRM-ENG-60854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blum, L. (2010). Racialized groups"

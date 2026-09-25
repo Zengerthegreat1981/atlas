@@ -1,6 +1,6 @@
 ---
 slug: "trm-score-shifts-to-830-at-a-3"
-id: "TRM-ENG-36106"
+id: "TRM-ENG-50635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "score shifts to 830. At a 3"

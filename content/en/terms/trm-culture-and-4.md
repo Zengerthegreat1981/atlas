@@ -1,6 +1,6 @@
 ---
 slug: "trm-culture-and-4"
-id: "TRM-ENG-39833"
+id: "TRM-ENG-54362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "culture and, 4"

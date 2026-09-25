@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-two-variables"
-id: "TRM-ENG-45580"
+id: "TRM-ENG-60109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on two variables"

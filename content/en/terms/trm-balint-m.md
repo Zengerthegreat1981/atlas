@@ -1,6 +1,6 @@
 ---
 slug: "trm-balint-m"
-id: "TRM-ENG-39781"
+id: "TRM-ENG-54310"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Balint M"

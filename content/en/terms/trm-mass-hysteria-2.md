@@ -1,6 +1,6 @@
 ---
 slug: "trm-mass-hysteria-2"
-id: "TRM-ENG-44604"
+id: "TRM-ENG-59133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mass hysteria, 2"

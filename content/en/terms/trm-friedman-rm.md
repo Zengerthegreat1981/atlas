@@ -1,6 +1,6 @@
 ---
 slug: "trm-friedman-rm"
-id: "TRM-ENG-40630"
+id: "TRM-ENG-55159"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Friedman RM"

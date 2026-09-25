@@ -1,6 +1,6 @@
 ---
 slug: "trm-assessing-perceptions-of-careerrelated-barriers"
-id: "TRM-ENG-37629"
+id: "TRM-ENG-66687"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Assessing perceptions of career-related barriers"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-theanalyst2ndedlondon"
-id: "TRM-ENG-49750"
+id: "TRM-ENG-64279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theanalyst.(2nded.).London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-texts-to-which-a-scholar-turns-have-some-authority"
-id: "TRM-ENG-48811"
+id: "TRM-ENG-63340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "texts to which a scholar turns have some authority"

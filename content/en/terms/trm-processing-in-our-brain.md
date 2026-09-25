@@ -1,6 +1,6 @@
 ---
 slug: "trm-processing-in-our-brain"
-id: "TRM-ENG-45444"
+id: "TRM-ENG-59973"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "processing in our brain"

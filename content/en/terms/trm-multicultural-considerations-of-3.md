@@ -1,6 +1,6 @@
 ---
 slug: "trm-multicultural-considerations-of-3"
-id: "TRM-ENG-40896"
+id: "TRM-ENG-55425"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multicultural considerations of, 3"

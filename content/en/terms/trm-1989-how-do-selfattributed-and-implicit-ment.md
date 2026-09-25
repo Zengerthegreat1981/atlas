@@ -1,6 +1,6 @@
 ---
 slug: "trm-1989-how-do-selfattributed-and-implicit-ment"
-id: "TRM-ENG-35133"
+id: "TRM-ENG-49662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1989). How do self-attributed and implicit ment"

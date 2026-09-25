@@ -1,6 +1,6 @@
 ---
 slug: "trm-jolicoeur-pierre-1"
-id: "TRM-ENG-44557"
+id: "TRM-ENG-59086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jolicoeur, Pierre, 1"

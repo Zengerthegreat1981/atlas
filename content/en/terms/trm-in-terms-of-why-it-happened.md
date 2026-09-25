@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-terms-of-why-it-happened"
-id: "TRM-ENG-45200"
+id: "TRM-ENG-59729"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in terms of why it happened"

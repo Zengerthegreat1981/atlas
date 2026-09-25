@@ -1,6 +1,6 @@
 ---
 slug: "trm-major-contributions-by-3"
-id: "TRM-ENG-40755"
+id: "TRM-ENG-55284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "major contributions by, 3"

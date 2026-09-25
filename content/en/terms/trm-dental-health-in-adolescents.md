@@ -1,6 +1,6 @@
 ---
 slug: "trm-dental-health-in-adolescents"
-id: "TRM-ENG-46934"
+id: "TRM-ENG-61463"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dental health in adolescents"

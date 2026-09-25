@@ -1,6 +1,6 @@
 ---
 slug: "trm-traitlike-categories-of-deciders-and-4"
-id: "TRM-ENG-42013"
+id: "TRM-ENG-56542"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trait-like categories of deciders and, 4"

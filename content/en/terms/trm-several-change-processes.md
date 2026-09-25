@@ -1,6 +1,6 @@
 ---
 slug: "trm-several-change-processes"
-id: "TRM-ENG-43207"
+id: "TRM-ENG-57736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "several change processes"

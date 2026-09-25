@@ -1,6 +1,6 @@
 ---
 slug: "trm-client-vspatient-athlete-selfconcept-and-1"
-id: "TRM-ENG-42211"
+id: "TRM-ENG-56740"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“client” vs.“patient” athlete self-concept and, 1"

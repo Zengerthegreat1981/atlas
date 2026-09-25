@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-variable-taken-over-time"
-id: "TRM-ENG-45536"
+id: "TRM-ENG-60065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a variable taken over time"

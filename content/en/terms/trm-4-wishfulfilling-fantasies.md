@@ -1,6 +1,6 @@
 ---
 slug: "trm-4-wishfulfilling-fantasies"
-id: "TRM-ENG-38985"
+id: "TRM-ENG-53514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "4. Wish-fulfilling fantasies"

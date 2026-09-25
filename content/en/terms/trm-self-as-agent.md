@@ -1,6 +1,6 @@
 ---
 slug: "trm-self-as-agent"
-id: "TRM-ENG-35518"
+id: "TRM-ENG-64576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(self as agent"

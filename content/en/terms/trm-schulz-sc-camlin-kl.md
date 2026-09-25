@@ -1,6 +1,6 @@
 ---
 slug: "trm-schulz-sc-camlin-kl"
-id: "TRM-ENG-48051"
+id: "TRM-ENG-62580"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schulz SC, Camlin KL"

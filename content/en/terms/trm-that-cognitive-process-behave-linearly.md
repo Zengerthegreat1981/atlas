@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-cognitive-process-behave-linearly"
-id: "TRM-ENG-37099"
+id: "TRM-ENG-51628"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that cognitive process behave linearly"

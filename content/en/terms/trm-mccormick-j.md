@@ -1,6 +1,6 @@
 ---
 slug: "trm-mccormick-j"
-id: "TRM-ENG-41636"
+id: "TRM-ENG-56165"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McCormick J"

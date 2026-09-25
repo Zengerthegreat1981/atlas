@@ -1,6 +1,6 @@
 ---
 slug: "trm-freud-wrote-in-the-economic-problem-of-masochism"
-id: "TRM-ENG-35684"
+id: "TRM-ENG-64742"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freud wrote in The Economic Problem of Masochism"

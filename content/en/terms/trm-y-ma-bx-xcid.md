@@ -1,6 +1,6 @@
 ---
 slug: "trm-y-ma-bx-xcid"
-id: "TRM-ENG-36065"
+id: "TRM-ENG-65123"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Y =m+a +b(X –X(cid"

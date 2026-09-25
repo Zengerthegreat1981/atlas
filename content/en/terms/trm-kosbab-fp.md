@@ -1,6 +1,6 @@
 ---
 slug: "trm-kosbab-fp"
-id: "TRM-ENG-41292"
+id: "TRM-ENG-55821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kosbab FP"

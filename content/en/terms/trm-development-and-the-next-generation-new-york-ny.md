@@ -1,6 +1,6 @@
 ---
 slug: "trm-development-and-the-next-generation-new-york-ny"
-id: "TRM-ENG-51394"
+id: "TRM-ENG-65923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "development and the next generation. New York, NY"

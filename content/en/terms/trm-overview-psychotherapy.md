@@ -1,6 +1,6 @@
 ---
 slug: "trm-overview-psychotherapy"
-id: "TRM-ENG-51675"
+id: "TRM-ENG-66204"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "overview. Psychotherapy"

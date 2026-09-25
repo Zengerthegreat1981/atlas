@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-neurologist-is-usually-the-specialist-who-diagno-cid"
-id: "TRM-ENG-46014"
+id: "TRM-ENG-60543"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a neurologist is usually the specialist who diagno- (cid"

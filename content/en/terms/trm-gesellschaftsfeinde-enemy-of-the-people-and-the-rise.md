@@ -1,6 +1,6 @@
 ---
 slug: "trm-gesellschaftsfeinde-enemy-of-the-people-and-the-rise"
-id: "TRM-ENG-43434"
+id: "TRM-ENG-57963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gesellschaftsfeinde (enemy of the people), and the rise"

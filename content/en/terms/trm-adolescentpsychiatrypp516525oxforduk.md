@@ -1,6 +1,6 @@
 ---
 slug: "trm-adolescentpsychiatrypp516525oxforduk"
-id: "TRM-ENG-49238"
+id: "TRM-ENG-63767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adolescentpsychiatry(pp.516±525).Oxford,UK"

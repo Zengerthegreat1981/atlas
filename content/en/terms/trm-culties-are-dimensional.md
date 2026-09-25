@@ -1,6 +1,6 @@
 ---
 slug: "trm-culties-are-dimensional"
-id: "TRM-ENG-48283"
+id: "TRM-ENG-62812"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "culties are dimensional"

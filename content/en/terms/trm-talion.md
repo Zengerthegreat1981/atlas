@@ -1,6 +1,6 @@
 ---
 slug: "trm-talion"
-id: "TRM-ENG-52416"
+id: "TRM-ENG-66945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Talion"

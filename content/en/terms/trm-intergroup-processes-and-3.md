@@ -1,6 +1,6 @@
 ---
 slug: "trm-intergroup-processes-and-3"
-id: "TRM-ENG-40599"
+id: "TRM-ENG-55128"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intergroup processes and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-jones-ee-davis-ke-1965-from-acts-to-dispositions"
-id: "TRM-ENG-35777"
+id: "TRM-ENG-64835"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jones, E.E., & Davis, K.E. (1965). From acts to dispositions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-harpersbyplayingtheharpcfwollock1997"
-id: "TRM-ENG-37807"
+id: "TRM-ENG-66865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "harpersbyplayingtheharp”[cf.Wollock1997"

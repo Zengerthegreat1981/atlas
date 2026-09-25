@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-relativism-and-3"
-id: "TRM-ENG-39823"
+id: "TRM-ENG-54352"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural relativism and, 3"

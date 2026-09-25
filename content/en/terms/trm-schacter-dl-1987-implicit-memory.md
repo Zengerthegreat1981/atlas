@@ -1,6 +1,6 @@
 ---
 slug: "trm-schacter-dl-1987-implicit-memory"
-id: "TRM-ENG-35945"
+id: "TRM-ENG-65003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schacter, D.L. (1987). Implicit memory"

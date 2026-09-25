@@ -1,6 +1,6 @@
 ---
 slug: "trm-itarianism"
-id: "TRM-ENG-45939"
+id: "TRM-ENG-60468"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "itarianism"

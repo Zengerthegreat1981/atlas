@@ -1,6 +1,6 @@
 ---
 slug: "trm-explain-how-a-thought-such-as-cid"
-id: "TRM-ENG-45120"
+id: "TRM-ENG-59649"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "explain how a thought such as (cid"

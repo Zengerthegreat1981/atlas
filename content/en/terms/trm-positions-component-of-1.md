@@ -1,6 +1,6 @@
 ---
 slug: "trm-positions-component-of-1"
-id: "TRM-ENG-41201"
+id: "TRM-ENG-55730"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "positions component of, 1"

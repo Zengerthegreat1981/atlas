@@ -1,6 +1,6 @@
 ---
 slug: "trm-fanshel-d-far-from-the-reservation"
-id: "TRM-ENG-44380"
+id: "TRM-ENG-58909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fanshel, D., Far from the Reservation"

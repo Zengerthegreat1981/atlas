@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-function"
-id: "TRM-ENG-35616"
+id: "TRM-ENG-64674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a function"

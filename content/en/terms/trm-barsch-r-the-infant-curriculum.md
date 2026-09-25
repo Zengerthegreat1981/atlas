@@ -1,6 +1,6 @@
 ---
 slug: "trm-barsch-r-the-infant-curriculum"
-id: "TRM-ENG-44272"
+id: "TRM-ENG-58801"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barsch, R., “The Infant Curriculum"

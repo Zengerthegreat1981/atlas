@@ -1,6 +1,6 @@
 ---
 slug: "trm-reviewedineachconsultancysession"
-id: "TRM-ENG-47267"
+id: "TRM-ENG-61796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reviewedineachconsultancysession"

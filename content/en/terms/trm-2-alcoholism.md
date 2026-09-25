@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-alcoholism"
-id: "TRM-ENG-38709"
+id: "TRM-ENG-53238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2. alcoholism"

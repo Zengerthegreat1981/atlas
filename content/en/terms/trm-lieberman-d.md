@@ -1,6 +1,6 @@
 ---
 slug: "trm-lieberman-d"
-id: "TRM-ENG-41457"
+id: "TRM-ENG-55986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lieberman D"

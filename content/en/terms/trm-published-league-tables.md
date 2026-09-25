@@ -1,6 +1,6 @@
 ---
 slug: "trm-published-league-tables"
-id: "TRM-ENG-48601"
+id: "TRM-ENG-63130"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "published “league tables”"

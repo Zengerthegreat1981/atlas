@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-personality-disorders-in-childhood"
-id: "TRM-ENG-48482"
+id: "TRM-ENG-63011"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of personality disorders in childhood"

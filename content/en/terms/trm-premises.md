@@ -1,6 +1,6 @@
 ---
 slug: "trm-premises"
-id: "TRM-ENG-45250"
+id: "TRM-ENG-59779"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "premises"

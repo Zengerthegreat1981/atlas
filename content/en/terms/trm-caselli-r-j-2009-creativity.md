@@ -1,6 +1,6 @@
 ---
 slug: "trm-caselli-r-j-2009-creativity"
-id: "TRM-ENG-46380"
+id: "TRM-ENG-60909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Caselli, R. J. (2009). Creativity"

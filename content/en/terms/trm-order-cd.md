@@ -1,6 +1,6 @@
 ---
 slug: "trm-order-cd"
-id: "TRM-ENG-43092"
+id: "TRM-ENG-57621"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "order (CD)"

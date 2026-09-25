@@ -1,6 +1,6 @@
 ---
 slug: "trm-wheelwright-j"
-id: "TRM-ENG-42767"
+id: "TRM-ENG-57296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wheelwright J"

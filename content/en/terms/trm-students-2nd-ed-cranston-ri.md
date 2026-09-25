@@ -1,6 +1,6 @@
 ---
 slug: "trm-students-2nd-ed-cranston-ri"
-id: "TRM-ENG-51849"
+id: "TRM-ENG-66378"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "students (2nd ed.). Cranston, RI"

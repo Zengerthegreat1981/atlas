@@ -1,6 +1,6 @@
 ---
 slug: "trm-gonzalez-c-vanyukov-p-martin-m"
-id: "TRM-ENG-47680"
+id: "TRM-ENG-62209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gonzalez C, Vanyukov P, Martin M"

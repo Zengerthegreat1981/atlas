@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-in-early-adolescence"
-id: "TRM-ENG-48600"
+id: "TRM-ENG-63129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality in early adolescence"

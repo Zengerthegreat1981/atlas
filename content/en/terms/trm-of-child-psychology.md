@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-child-psychology"
-id: "TRM-ENG-36769"
+id: "TRM-ENG-51298"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of child psychology"

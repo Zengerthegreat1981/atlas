@@ -1,6 +1,6 @@
 ---
 slug: "trm-young-h"
-id: "TRM-ENG-42897"
+id: "TRM-ENG-57426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Young H"

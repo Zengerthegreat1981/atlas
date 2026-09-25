@@ -1,6 +1,6 @@
 ---
 slug: "trm-obvious-help-financial-and-other-is-needed"
-id: "TRM-ENG-43123"
+id: "TRM-ENG-57652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "obvious, help, financial and other, is needed"

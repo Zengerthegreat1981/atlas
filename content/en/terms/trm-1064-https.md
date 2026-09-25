@@ -1,6 +1,6 @@
 ---
 slug: "trm-1064-https"
-id: "TRM-ENG-43929"
+id: "TRM-ENG-58458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1064. https"

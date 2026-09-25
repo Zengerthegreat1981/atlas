@@ -1,6 +1,6 @@
 ---
 slug: "trm-ryle-g-1949-t-he-concept-of-mind-london-uk"
-id: "TRM-ENG-44743"
+id: "TRM-ENG-59272"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ryle, G. (1949). T he concept of mind. London, UK"

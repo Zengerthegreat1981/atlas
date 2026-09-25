@@ -1,6 +1,6 @@
 ---
 slug: "trm-archicalstatesofbuganda"
-id: "TRM-ENG-45842"
+id: "TRM-ENG-60371"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "archicalstatesofBuganda"

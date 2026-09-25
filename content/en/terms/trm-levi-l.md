@@ -1,6 +1,6 @@
 ---
 slug: "trm-levi-l"
-id: "TRM-ENG-41418"
+id: "TRM-ENG-55947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levi L"

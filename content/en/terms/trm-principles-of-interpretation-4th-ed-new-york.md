@@ -1,6 +1,6 @@
 ---
 slug: "trm-principles-of-interpretation-4th-ed-new-york"
-id: "TRM-ENG-41267"
+id: "TRM-ENG-55796"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "principles of interpretation (4th ed.). New York"

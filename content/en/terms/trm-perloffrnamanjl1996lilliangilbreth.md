@@ -1,6 +1,6 @@
 ---
 slug: "trm-perloffrnamanjl1996lilliangilbreth"
-id: "TRM-ENG-37170"
+id: "TRM-ENG-66228"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perloff,R.,&Naman,J.L.(1996).LillianGilbreth"

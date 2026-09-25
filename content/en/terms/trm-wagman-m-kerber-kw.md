@@ -1,6 +1,6 @@
 ---
 slug: "trm-wagman-m-kerber-kw"
-id: "TRM-ENG-42689"
+id: "TRM-ENG-57218"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wagman M, Kerber KW"

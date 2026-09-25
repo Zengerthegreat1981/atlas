@@ -1,6 +1,6 @@
 ---
 slug: "trm-10-states"
-id: "TRM-ENG-37462"
+id: "TRM-ENG-66520"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "10 states"

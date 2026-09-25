@@ -1,6 +1,6 @@
 ---
 slug: "trm-synucleinopathies"
-id: "TRM-ENG-34696"
+id: "TRM-ENG-49225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Synucleinopathies"

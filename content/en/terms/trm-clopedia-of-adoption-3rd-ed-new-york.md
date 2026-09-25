@@ -1,6 +1,6 @@
 ---
 slug: "trm-clopedia-of-adoption-3rd-ed-new-york"
-id: "TRM-ENG-46060"
+id: "TRM-ENG-60589"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "clopedia of Adoption, 3rd ed. (New York"

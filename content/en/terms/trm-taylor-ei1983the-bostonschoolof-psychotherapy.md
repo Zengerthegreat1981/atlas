@@ -1,6 +1,6 @@
 ---
 slug: "trm-taylor-ei1983the-bostonschoolof-psychotherapy"
-id: "TRM-ENG-37339"
+id: "TRM-ENG-66397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Taylor, E.I.(1983).The Bostonschoolof psychotherapy"

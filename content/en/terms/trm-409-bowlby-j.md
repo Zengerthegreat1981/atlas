@@ -1,6 +1,6 @@
 ---
 slug: "trm-409-bowlby-j"
-id: "TRM-ENG-38996"
+id: "TRM-ENG-53525"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "409. Bowlby J"

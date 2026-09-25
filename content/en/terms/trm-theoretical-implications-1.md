@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoretical-implications-1"
-id: "TRM-ENG-48875"
+id: "TRM-ENG-63404"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoretical implications, 1"

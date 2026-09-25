@@ -1,6 +1,6 @@
 ---
 slug: "trm-adhd-comorbidity-with-1"
-id: "TRM-ENG-37516"
+id: "TRM-ENG-52045"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "AD/HD comorbidity with, 1"

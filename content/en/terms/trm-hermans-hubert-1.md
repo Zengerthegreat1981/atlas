@@ -1,6 +1,6 @@
 ---
 slug: "trm-hermans-hubert-1"
-id: "TRM-ENG-50527"
+id: "TRM-ENG-65056"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hermans, Hubert, 1"

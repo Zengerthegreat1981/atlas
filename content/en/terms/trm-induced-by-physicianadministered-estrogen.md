@@ -1,6 +1,6 @@
 ---
 slug: "trm-induced-by-physicianadministered-estrogen"
-id: "TRM-ENG-36565"
+id: "TRM-ENG-65623"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "induced by physician-administered estrogen"

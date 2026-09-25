@@ -1,6 +1,6 @@
 ---
 slug: "trm-stress-intervention-points-2"
-id: "TRM-ENG-41796"
+id: "TRM-ENG-56325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stress intervention points, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-between-two-people-in-three-different-ways"
-id: "TRM-ENG-35692"
+id: "TRM-ENG-64750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "between two people in three different ways"

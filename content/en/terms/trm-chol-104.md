@@ -1,6 +1,6 @@
 ---
 slug: "trm-chol-104"
-id: "TRM-ENG-48259"
+id: "TRM-ENG-62788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chol 104"

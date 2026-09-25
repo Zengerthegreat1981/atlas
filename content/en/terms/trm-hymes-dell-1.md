@@ -1,6 +1,6 @@
 ---
 slug: "trm-hymes-dell-1"
-id: "TRM-ENG-46785"
+id: "TRM-ENG-61314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hymes, Dell, 1"

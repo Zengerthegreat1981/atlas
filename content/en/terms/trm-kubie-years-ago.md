@@ -1,6 +1,6 @@
 ---
 slug: "trm-kubie-years-ago"
-id: "TRM-ENG-44480"
+id: "TRM-ENG-59009"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kubie years ago"

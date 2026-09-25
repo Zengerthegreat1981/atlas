@@ -1,6 +1,6 @@
 ---
 slug: "trm-essence-of-selfhood-is-arguably-the-core-of-upanis"
-id: "TRM-ENG-37737"
+id: "TRM-ENG-52266"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "essence of selfhood is arguably the core of Upanis"

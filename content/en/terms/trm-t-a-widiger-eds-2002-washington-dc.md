@@ -1,6 +1,6 @@
 ---
 slug: "trm-t-a-widiger-eds-2002-washington-dc"
-id: "TRM-ENG-43566"
+id: "TRM-ENG-58095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "T. A. Widiger (Eds.), 2002, Washington, DC"

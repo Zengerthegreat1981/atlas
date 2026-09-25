@@ -1,6 +1,6 @@
 ---
 slug: "trm-treatments-should-also-be-considered-and-phobia"
-id: "TRM-ENG-49808"
+id: "TRM-ENG-64337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "treatments should also be considered and phobia"

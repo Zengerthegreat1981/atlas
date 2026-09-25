@@ -1,6 +1,6 @@
 ---
 slug: "trm-hardiness-definition-of-2"
-id: "TRM-ENG-40347"
+id: "TRM-ENG-54876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hardiness, definition of, 2"

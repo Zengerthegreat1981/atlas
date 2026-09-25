@@ -1,6 +1,6 @@
 ---
 slug: "trm-ithou"
-id: "TRM-ENG-52225"
+id: "TRM-ENG-66754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "I-Thou"

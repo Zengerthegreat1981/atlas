@@ -1,6 +1,6 @@
 ---
 slug: "trm-crapse-trinity-1"
-id: "TRM-ENG-44406"
+id: "TRM-ENG-58935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Crapse, Trinity, 1"

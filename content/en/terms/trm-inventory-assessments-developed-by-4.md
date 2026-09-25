@@ -1,6 +1,6 @@
 ---
 slug: "trm-inventory-assessments-developed-by-4"
-id: "TRM-ENG-40641"
+id: "TRM-ENG-55170"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inventory assessments developed by, 4"

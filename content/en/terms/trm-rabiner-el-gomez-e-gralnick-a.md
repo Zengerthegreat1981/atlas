@@ -1,6 +1,6 @@
 ---
 slug: "trm-rabiner-el-gomez-e-gralnick-a"
-id: "TRM-ENG-42044"
+id: "TRM-ENG-56573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rabiner EL, Gomez E, Gralnick A"

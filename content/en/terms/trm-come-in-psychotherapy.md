@@ -1,6 +1,6 @@
 ---
 slug: "trm-come-in-psychotherapy"
-id: "TRM-ENG-36300"
+id: "TRM-ENG-50829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "come in psychotherapy"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-heifer-r-hess-j"
-id: "TRM-ENG-40959"
+id: "TRM-ENG-55488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heifer R, Hess J"

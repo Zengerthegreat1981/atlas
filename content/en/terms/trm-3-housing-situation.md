@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-housing-situation"
-id: "TRM-ENG-38847"
+id: "TRM-ENG-53376"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Housing situation"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hampton-va"
-id: "TRM-ENG-34711"
+id: "TRM-ENG-49240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hampton, VA"

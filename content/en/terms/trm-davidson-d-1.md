@@ -1,6 +1,6 @@
 ---
 slug: "trm-davidson-d-1"
-id: "TRM-ENG-46487"
+id: "TRM-ENG-61016"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davidson, D., 1"

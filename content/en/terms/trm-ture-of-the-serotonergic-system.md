@@ -1,6 +1,6 @@
 ---
 slug: "trm-ture-of-the-serotonergic-system"
-id: "TRM-ENG-37242"
+id: "TRM-ENG-66300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ture of the serotonergic system"

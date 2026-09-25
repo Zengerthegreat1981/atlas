@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-conflict-underlying-morbid-traits"
-id: "TRM-ENG-42956"
+id: "TRM-ENG-57485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and conflict. Underlying morbid traits"

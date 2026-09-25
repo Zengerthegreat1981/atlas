@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognition-pp-193206-mahwah-nj"
-id: "TRM-ENG-45006"
+id: "TRM-ENG-59535"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognition (pp. 193–206) . Mahwah, NJ"

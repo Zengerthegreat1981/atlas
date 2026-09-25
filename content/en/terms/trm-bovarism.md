@@ -1,6 +1,6 @@
 ---
 slug: "trm-bovarism"
-id: "TRM-ENG-52085"
+id: "TRM-ENG-66614"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bovarism"

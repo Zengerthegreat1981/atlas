@@ -1,6 +1,6 @@
 ---
 slug: "trm-chapter-6-discusses-a-core-issue"
-id: "TRM-ENG-42245"
+id: "TRM-ENG-56774"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Chapter 6) discusses a core issue"

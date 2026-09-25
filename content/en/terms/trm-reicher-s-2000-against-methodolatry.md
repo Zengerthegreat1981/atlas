@@ -1,6 +1,6 @@
 ---
 slug: "trm-reicher-s-2000-against-methodolatry"
-id: "TRM-ENG-35530"
+id: "TRM-ENG-64588"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reicher, S. (2000). Against methodolatry"

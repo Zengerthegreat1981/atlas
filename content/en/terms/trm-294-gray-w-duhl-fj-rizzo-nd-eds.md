@@ -1,6 +1,6 @@
 ---
 slug: "trm-294-gray-w-duhl-fj-rizzo-nd-eds"
-id: "TRM-ENG-38832"
+id: "TRM-ENG-53361"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "294. Gray W, Duhl FJ, Rizzo ND (eds)"

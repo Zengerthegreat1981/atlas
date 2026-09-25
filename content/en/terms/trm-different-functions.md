@@ -1,6 +1,6 @@
 ---
 slug: "trm-different-functions"
-id: "TRM-ENG-47887"
+id: "TRM-ENG-62416"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "different functions"

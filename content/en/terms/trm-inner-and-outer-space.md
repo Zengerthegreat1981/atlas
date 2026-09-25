@@ -1,6 +1,6 @@
 ---
 slug: "trm-inner-and-outer-space"
-id: "TRM-ENG-44794"
+id: "TRM-ENG-59323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Inner and Outer Space"

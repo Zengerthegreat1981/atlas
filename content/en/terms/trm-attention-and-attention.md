@@ -1,6 +1,6 @@
 ---
 slug: "trm-attention-and-attention"
-id: "TRM-ENG-44313"
+id: "TRM-ENG-58842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Attention and Attention"

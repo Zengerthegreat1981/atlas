@@ -1,6 +1,6 @@
 ---
 slug: "trm-alism-three-leaders-emerged-from-this-group"
-id: "TRM-ENG-37500"
+id: "TRM-ENG-52029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "alism. Three leaders emerged from this group"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-disciplinary-diabetes-team"
-id: "TRM-ENG-46951"
+id: "TRM-ENG-61480"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disciplinary diabetes team"

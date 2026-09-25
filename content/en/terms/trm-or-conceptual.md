@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-conceptual"
-id: "TRM-ENG-43783"
+id: "TRM-ENG-58312"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or conceptual"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-r-eds-2008-the-transformation-of-learning"
-id: "TRM-ENG-47168"
+id: "TRM-ENG-61697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "R. (Eds.). (2008). The transformation of learning"

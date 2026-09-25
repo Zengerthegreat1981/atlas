@@ -1,6 +1,6 @@
 ---
 slug: "trm-cohen-p-chen-h-crawford-tn-et-al"
-id: "TRM-ENG-47567"
+id: "TRM-ENG-62096"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cohen P, Chen H, Crawford TN, et al"

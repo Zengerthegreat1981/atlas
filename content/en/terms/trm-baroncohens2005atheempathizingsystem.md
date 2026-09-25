@@ -1,6 +1,6 @@
 ---
 slug: "trm-baroncohens2005atheempathizingsystem"
-id: "TRM-ENG-36594"
+id: "TRM-ENG-65652"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baron-Cohen,S.(2005a).Theempathizingsystem"

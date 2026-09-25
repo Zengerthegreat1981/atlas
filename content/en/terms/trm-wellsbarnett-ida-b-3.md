@@ -1,6 +1,6 @@
 ---
 slug: "trm-wellsbarnett-ida-b-3"
-id: "TRM-ENG-39018"
+id: "TRM-ENG-53547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wells-Barnett, Ida B., 3"

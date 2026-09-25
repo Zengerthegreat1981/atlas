@@ -1,6 +1,6 @@
 ---
 slug: "trm-jim-crow-laws-and-3"
-id: "TRM-ENG-38290"
+id: "TRM-ENG-52819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jim Crow laws and, 3"

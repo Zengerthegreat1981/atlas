@@ -1,6 +1,6 @@
 ---
 slug: "trm-discussed-earlier"
-id: "TRM-ENG-47891"
+id: "TRM-ENG-62420"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "discussed earlier"

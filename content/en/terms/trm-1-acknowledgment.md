@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-acknowledgment"
-id: "TRM-ENG-44186"
+id: "TRM-ENG-58715"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Acknowledgment"

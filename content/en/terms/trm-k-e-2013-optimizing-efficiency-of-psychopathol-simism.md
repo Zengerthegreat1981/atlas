@@ -1,6 +1,6 @@
 ---
 slug: "trm-k-e-2013-optimizing-efficiency-of-psychopathol-simism"
-id: "TRM-ENG-42432"
+id: "TRM-ENG-56961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "K. E. (2013). Optimizing efficiency of psychopathol- simism"

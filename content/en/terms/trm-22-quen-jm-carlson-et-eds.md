@@ -1,6 +1,6 @@
 ---
 slug: "trm-22-quen-jm-carlson-et-eds"
-id: "TRM-ENG-38736"
+id: "TRM-ENG-53265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "22. Quen JM, Carlson ET (eds)"

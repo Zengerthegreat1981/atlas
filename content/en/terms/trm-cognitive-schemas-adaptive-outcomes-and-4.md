@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-schemas-adaptive-outcomes-and-4"
-id: "TRM-ENG-39558"
+id: "TRM-ENG-54087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive schemas, adaptive outcomes and, 4"

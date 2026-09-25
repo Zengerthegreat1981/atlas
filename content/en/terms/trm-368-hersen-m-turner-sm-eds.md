@@ -1,6 +1,6 @@
 ---
 slug: "trm-368-hersen-m-turner-sm-eds"
-id: "TRM-ENG-38936"
+id: "TRM-ENG-53465"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "368. Hersen M, Turner SM (eds)"

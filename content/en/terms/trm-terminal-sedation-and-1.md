@@ -1,6 +1,6 @@
 ---
 slug: "trm-terminal-sedation-and-1"
-id: "TRM-ENG-42217"
+id: "TRM-ENG-56746"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "“terminal sedation” and, 1"

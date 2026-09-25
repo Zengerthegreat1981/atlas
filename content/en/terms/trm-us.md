@@ -1,6 +1,6 @@
 ---
 slug: "trm-us"
-id: "TRM-ENG-47433"
+id: "TRM-ENG-61962"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "U.S."

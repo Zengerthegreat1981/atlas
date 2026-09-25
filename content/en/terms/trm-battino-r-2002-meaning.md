@@ -1,6 +1,6 @@
 ---
 slug: "trm-battino-r-2002-meaning"
-id: "TRM-ENG-50142"
+id: "TRM-ENG-64671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Battino, R. (2002). Meaning"

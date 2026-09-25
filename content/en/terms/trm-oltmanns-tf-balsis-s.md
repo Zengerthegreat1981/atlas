@@ -1,6 +1,6 @@
 ---
 slug: "trm-oltmanns-tf-balsis-s"
-id: "TRM-ENG-47918"
+id: "TRM-ENG-62447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oltmanns TF, Balsis S"

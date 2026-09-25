@@ -1,6 +1,6 @@
 ---
 slug: "trm-nnnlysis"
-id: "TRM-ENG-35158"
+id: "TRM-ENG-64216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nnnlysis"

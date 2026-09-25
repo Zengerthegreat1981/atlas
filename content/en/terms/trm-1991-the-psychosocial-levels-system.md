@@ -1,6 +1,6 @@
 ---
 slug: "trm-1991-the-psychosocial-levels-system"
-id: "TRM-ENG-46304"
+id: "TRM-ENG-60833"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1991). The psychosocial levels system"

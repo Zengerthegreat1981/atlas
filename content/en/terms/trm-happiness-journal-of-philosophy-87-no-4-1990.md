@@ -1,6 +1,6 @@
 ---
 slug: "trm-happiness-journal-of-philosophy-87-no-4-1990"
-id: "TRM-ENG-45714"
+id: "TRM-ENG-60243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Happiness.” Journal of Philosophy 87, no. 4 (1990)"

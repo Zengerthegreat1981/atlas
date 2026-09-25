@@ -1,6 +1,6 @@
 ---
 slug: "trm-researchinthefollowingway"
-id: "TRM-ENG-38215"
+id: "TRM-ENG-52744"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "researchinthefollowingway"

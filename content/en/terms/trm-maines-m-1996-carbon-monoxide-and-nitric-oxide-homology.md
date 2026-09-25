@@ -1,6 +1,6 @@
 ---
 slug: "trm-maines-m-1996-carbon-monoxide-and-nitric-oxide-homology"
-id: "TRM-ENG-35827"
+id: "TRM-ENG-50356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Maines, M. (1996). Carbon monoxide and nitric oxide homology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-binghamtom-ny"
-id: "TRM-ENG-37697"
+id: "TRM-ENG-66755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Binghamtom, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-in-prison-contemporary-family-therapy"
-id: "TRM-ENG-41941"
+id: "TRM-ENG-56470"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy in prison. Contemporary Family Therapy"

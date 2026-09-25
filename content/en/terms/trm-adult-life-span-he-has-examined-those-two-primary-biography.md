@@ -1,6 +1,6 @@
 ---
 slug: "trm-adult-life-span-he-has-examined-those-two-primary-biography"
-id: "TRM-ENG-37486"
+id: "TRM-ENG-66544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adult life span. He has examined those two primary Biography"

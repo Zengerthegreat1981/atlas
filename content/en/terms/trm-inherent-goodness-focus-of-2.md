@@ -1,6 +1,6 @@
 ---
 slug: "trm-inherent-goodness-focus-of-2"
-id: "TRM-ENG-40562"
+id: "TRM-ENG-55091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inherent goodness focus of, 2"

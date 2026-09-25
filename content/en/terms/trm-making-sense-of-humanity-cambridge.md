@@ -1,6 +1,6 @@
 ---
 slug: "trm-making-sense-of-humanity-cambridge"
-id: "TRM-ENG-46087"
+id: "TRM-ENG-60616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———. Making Sense of Humanity. Cambridge"

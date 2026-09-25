@@ -1,6 +1,6 @@
 ---
 slug: "trm-apaand-1"
-id: "TRM-ENG-37519"
+id: "TRM-ENG-66577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "APAand, 1"

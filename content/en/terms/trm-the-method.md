@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-method"
-id: "TRM-ENG-45358"
+id: "TRM-ENG-59887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the method"

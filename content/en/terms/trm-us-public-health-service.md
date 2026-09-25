@@ -1,6 +1,6 @@
 ---
 slug: "trm-us-public-health-service"
-id: "TRM-ENG-42637"
+id: "TRM-ENG-57166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "U.S. Public Health Service"

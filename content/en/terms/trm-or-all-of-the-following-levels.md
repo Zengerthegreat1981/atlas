@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-all-of-the-following-levels"
-id: "TRM-ENG-36815"
+id: "TRM-ENG-51344"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or all of the following levels"

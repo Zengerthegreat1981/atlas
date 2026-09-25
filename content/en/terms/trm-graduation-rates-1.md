@@ -1,6 +1,6 @@
 ---
 slug: "trm-graduation-rates-1"
-id: "TRM-ENG-48083"
+id: "TRM-ENG-62612"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "graduation rates, 1"

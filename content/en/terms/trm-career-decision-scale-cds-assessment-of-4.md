@@ -1,6 +1,6 @@
 ---
 slug: "trm-career-decision-scale-cds-assessment-of-4"
-id: "TRM-ENG-37771"
+id: "TRM-ENG-66829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Career Decision Scale (CDS) assessment of, 4"

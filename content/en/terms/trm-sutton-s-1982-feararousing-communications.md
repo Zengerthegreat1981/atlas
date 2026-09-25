@@ -1,6 +1,6 @@
 ---
 slug: "trm-sutton-s-1982-feararousing-communications"
-id: "TRM-ENG-46733"
+id: "TRM-ENG-61262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sutton, S. (1982). Fear-arousing communications"

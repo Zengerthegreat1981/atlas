@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-proteins"
-id: "TRM-ENG-44112"
+id: "TRM-ENG-58641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of proteins."

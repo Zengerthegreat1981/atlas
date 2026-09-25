@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-reduced-occurrence-of-noninsulindependent-dia-diagnosis"
-id: "TRM-ENG-46808"
+id: "TRM-ENG-61337"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and reduced occurrence of non-insulin-dependent dia- diagnosis"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-drug-alcohol-depend-30"
-id: "TRM-ENG-48650"
+id: "TRM-ENG-63179"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapy. Drug Alcohol Depend 30"

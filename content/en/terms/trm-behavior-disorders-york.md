@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-disorders-york"
-id: "TRM-ENG-34896"
+id: "TRM-ENG-63954"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior disorders. York"

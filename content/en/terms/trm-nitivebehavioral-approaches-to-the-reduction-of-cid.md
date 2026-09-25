@@ -1,6 +1,6 @@
 ---
 slug: "trm-nitivebehavioral-approaches-to-the-reduction-of-cid"
-id: "TRM-ENG-46162"
+id: "TRM-ENG-60691"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nitive-Behavioral Approaches to the Reduction of (cid"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-is-a-domainspecific-selfconcepts"
-id: "TRM-ENG-45233"
+id: "TRM-ENG-59762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "is (a) domain-specific self-concepts"

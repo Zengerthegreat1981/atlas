@@ -1,6 +1,6 @@
 ---
 slug: "trm-kuder-career-planning-system-and-4"
-id: "TRM-ENG-38343"
+id: "TRM-ENG-52872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kuder Career Planning System and, 4"

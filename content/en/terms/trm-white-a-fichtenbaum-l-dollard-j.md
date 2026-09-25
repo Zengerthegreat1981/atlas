@@ -1,6 +1,6 @@
 ---
 slug: "trm-white-a-fichtenbaum-l-dollard-j"
-id: "TRM-ENG-42774"
+id: "TRM-ENG-57303"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "White A, Fichtenbaum L, Dollard J"

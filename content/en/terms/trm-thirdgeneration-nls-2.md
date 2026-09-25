@@ -1,6 +1,6 @@
 ---
 slug: "trm-thirdgeneration-nls-2"
-id: "TRM-ENG-48894"
+id: "TRM-ENG-63423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "third-generation NLS, 2"

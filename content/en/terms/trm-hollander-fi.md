@@ -1,6 +1,6 @@
 ---
 slug: "trm-hollander-fi"
-id: "TRM-ENG-41017"
+id: "TRM-ENG-55546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hollander FI"

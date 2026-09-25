@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-observed"
-id: "TRM-ENG-45362"
+id: "TRM-ENG-59891"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the observed"

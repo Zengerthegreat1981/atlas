@@ -1,6 +1,6 @@
 ---
 slug: "trm-shea-mt-edelen-mo-pinto-a-et-al"
-id: "TRM-ENG-48062"
+id: "TRM-ENG-62591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shea MT, Edelen MO, Pinto A, et al"

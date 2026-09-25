@@ -1,6 +1,6 @@
 ---
 slug: "trm-integral"
-id: "TRM-ENG-35881"
+id: "TRM-ENG-64939"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "integral"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-isocrates"
-id: "TRM-ENG-46825"
+id: "TRM-ENG-61354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Isocrates"

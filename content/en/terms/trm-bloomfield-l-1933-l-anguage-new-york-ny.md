@@ -1,6 +1,6 @@
 ---
 slug: "trm-bloomfield-l-1933-l-anguage-new-york-ny"
-id: "TRM-ENG-44339"
+id: "TRM-ENG-58868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bloomfield, L. (1933). L anguage. New York, NY"

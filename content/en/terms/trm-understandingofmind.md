@@ -1,6 +1,6 @@
 ---
 slug: "trm-understandingofmind"
-id: "TRM-ENG-38408"
+id: "TRM-ENG-52937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "understandingofmind"

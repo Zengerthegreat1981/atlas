@@ -1,6 +1,6 @@
 ---
 slug: "trm-totton-n-2003-body-psychotherapy"
-id: "TRM-ENG-51112"
+id: "TRM-ENG-65641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Totton, N. (2003). Body psychotherapy"

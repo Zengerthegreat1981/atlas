@@ -1,6 +1,6 @@
 ---
 slug: "trm-basset-eds-handbook-of-hypertension"
-id: "TRM-ENG-46426"
+id: "TRM-ENG-60955"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Basset (Eds.), Handbook of hypertension"

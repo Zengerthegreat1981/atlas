@@ -1,6 +1,6 @@
 ---
 slug: "trm-dstudy-design-to-distinguish-it-from-a-lower-case-i-defined-as-cid"
-id: "TRM-ENG-35357"
+id: "TRM-ENG-49886"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "D-study design to distinguish it from a lower case i defined as (cid"

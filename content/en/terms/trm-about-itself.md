@@ -1,6 +1,6 @@
 ---
 slug: "trm-about-itself"
-id: "TRM-ENG-47533"
+id: "TRM-ENG-62062"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "about itself"

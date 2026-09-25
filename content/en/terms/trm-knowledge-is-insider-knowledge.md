@@ -1,6 +1,6 @@
 ---
 slug: "trm-knowledge-is-insider-knowledge"
-id: "TRM-ENG-35902"
+id: "TRM-ENG-64960"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "knowledge is insider knowledge"

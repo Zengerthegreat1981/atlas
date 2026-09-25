@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-the-stress-response-is-triggered-cid"
-id: "TRM-ENG-46023"
+id: "TRM-ENG-60552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and the stress response is triggered. (cid"

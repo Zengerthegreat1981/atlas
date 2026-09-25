@@ -1,6 +1,6 @@
 ---
 slug: "trm-educational-thought-2"
-id: "TRM-ENG-47947"
+id: "TRM-ENG-62476"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "educational thought, 2"

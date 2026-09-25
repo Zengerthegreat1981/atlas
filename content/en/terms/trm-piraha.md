@@ -1,6 +1,6 @@
 ---
 slug: "trm-piraha"
-id: "TRM-ENG-37175"
+id: "TRM-ENG-51704"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Piraha˜"

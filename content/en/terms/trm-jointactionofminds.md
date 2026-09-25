@@ -1,6 +1,6 @@
 ---
 slug: "trm-jointactionofminds"
-id: "TRM-ENG-37899"
+id: "TRM-ENG-52428"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "jointactionofminds..."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-partly-blind-patients"
-id: "TRM-ENG-34981"
+id: "TRM-ENG-49510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "partly blind patients"

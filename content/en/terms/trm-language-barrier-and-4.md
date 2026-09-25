@@ -1,6 +1,6 @@
 ---
 slug: "trm-language-barrier-and-4"
-id: "TRM-ENG-40686"
+id: "TRM-ENG-55215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "language barrier and, 4"

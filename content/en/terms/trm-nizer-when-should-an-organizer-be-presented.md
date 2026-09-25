@@ -1,6 +1,6 @@
 ---
 slug: "trm-nizer-when-should-an-organizer-be-presented"
-id: "TRM-ENG-48405"
+id: "TRM-ENG-62934"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nizer? When should an organizer be presented"

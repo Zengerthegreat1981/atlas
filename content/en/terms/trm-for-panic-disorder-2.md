@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-panic-disorder-2"
-id: "TRM-ENG-40234"
+id: "TRM-ENG-54763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for panic disorder, 2"

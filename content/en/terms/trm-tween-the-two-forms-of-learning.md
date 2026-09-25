@@ -1,6 +1,6 @@
 ---
 slug: "trm-tween-the-two-forms-of-learning"
-id: "TRM-ENG-37249"
+id: "TRM-ENG-66307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tween the two forms of learning"

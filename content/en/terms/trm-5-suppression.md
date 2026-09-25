@@ -1,6 +1,6 @@
 ---
 slug: "trm-5-suppression"
-id: "TRM-ENG-39102"
+id: "TRM-ENG-53631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "5. Suppression"

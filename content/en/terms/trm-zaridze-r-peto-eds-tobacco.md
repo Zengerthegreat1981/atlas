@@ -1,6 +1,6 @@
 ---
 slug: "trm-zaridze-r-peto-eds-tobacco"
-id: "TRM-ENG-46771"
+id: "TRM-ENG-61300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zaridze, & R. Peto (Eds.), Tobacco"

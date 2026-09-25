@@ -1,6 +1,6 @@
 ---
 slug: "trm-23-tension-states"
-id: "TRM-ENG-38752"
+id: "TRM-ENG-53281"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "23. tension states"

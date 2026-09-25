@@ -1,6 +1,6 @@
 ---
 slug: "trm-white-american-male-masculinity-and-3"
-id: "TRM-ENG-39033"
+id: "TRM-ENG-53562"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "White American male masculinity and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mann-ec"
-id: "TRM-ENG-41574"
+id: "TRM-ENG-56103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mann EC"

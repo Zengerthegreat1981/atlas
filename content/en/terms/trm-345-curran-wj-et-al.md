@@ -1,6 +1,6 @@
 ---
 slug: "trm-345-curran-wj-et-al"
-id: "TRM-ENG-38911"
+id: "TRM-ENG-53440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "345. Curran WJ, et al"

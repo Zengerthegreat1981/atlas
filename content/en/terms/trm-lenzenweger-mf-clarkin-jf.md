@@ -1,6 +1,6 @@
 ---
 slug: "trm-lenzenweger-mf-clarkin-jf"
-id: "TRM-ENG-47826"
+id: "TRM-ENG-62355"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lenzenweger MF, Clarkin JF"

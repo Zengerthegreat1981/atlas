@@ -1,6 +1,6 @@
 ---
 slug: "trm-millon-t-1997-the-millon-inventories"
-id: "TRM-ENG-42466"
+id: "TRM-ENG-56995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Millon, T. (1997). The Millon Inventories"

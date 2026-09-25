@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-psychological-association-munity"
-id: "TRM-ENG-42313"
+id: "TRM-ENG-56842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Psychological Association. munity"

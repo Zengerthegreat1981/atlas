@@ -1,6 +1,6 @@
 ---
 slug: "trm-janowitzn2006lustingfordeath"
-id: "TRM-ENG-36970"
+id: "TRM-ENG-66028"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Janowitz,N.(2006).Lustingfordeath"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-childhood-and-bulimia"
-id: "TRM-ENG-49337"
+id: "TRM-ENG-63866"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "childhood and bulimia"

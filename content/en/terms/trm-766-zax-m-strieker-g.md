@@ -1,6 +1,6 @@
 ---
 slug: "trm-766-zax-m-strieker-g"
-id: "TRM-ENG-39416"
+id: "TRM-ENG-53945"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "766. Zax M, Strieker G"

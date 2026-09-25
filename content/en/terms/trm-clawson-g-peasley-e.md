@@ -1,6 +1,6 @@
 ---
 slug: "trm-clawson-g-peasley-e"
-id: "TRM-ENG-40194"
+id: "TRM-ENG-54723"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clawson G, Peasley E"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-baddeleyad1986workingmemoryoxford"
-id: "TRM-ENG-36583"
+id: "TRM-ENG-51112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Baddeley,A.D.(1986).Workingmemory.Oxford"

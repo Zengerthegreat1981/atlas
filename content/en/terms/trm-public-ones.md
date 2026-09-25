@@ -1,6 +1,6 @@
 ---
 slug: "trm-public-ones"
-id: "TRM-ENG-44133"
+id: "TRM-ENG-58662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "public ones."

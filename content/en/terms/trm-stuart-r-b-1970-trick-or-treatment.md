@@ -1,6 +1,6 @@
 ---
 slug: "trm-stuart-r-b-1970-trick-or-treatment"
-id: "TRM-ENG-38833"
+id: "TRM-ENG-53362"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stuart, R. B. (1970). Trick or treatment"

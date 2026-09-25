@@ -1,6 +1,6 @@
 ---
 slug: "trm-sic-personality-schedule-minnesota"
-id: "TRM-ENG-43212"
+id: "TRM-ENG-57741"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sic personality schedule (Minnesota)"

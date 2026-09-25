@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-infantile-neurosis"
-id: "TRM-ENG-44852"
+id: "TRM-ENG-59381"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "______, “The Infantile Neurosis"

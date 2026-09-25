@@ -1,6 +1,6 @@
 ---
 slug: "trm-pack-gt"
-id: "TRM-ENG-41906"
+id: "TRM-ENG-56435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pack GT"

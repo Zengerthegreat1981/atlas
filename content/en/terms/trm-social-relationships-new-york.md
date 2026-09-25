@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-relationships-new-york"
-id: "TRM-ENG-41710"
+id: "TRM-ENG-56239"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social relationships. New York"

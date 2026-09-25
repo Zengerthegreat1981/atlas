@@ -1,6 +1,6 @@
 ---
 slug: "trm-gelsocharles-j2"
-id: "TRM-ENG-38102"
+id: "TRM-ENG-52631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gelso,Charles J.,2"

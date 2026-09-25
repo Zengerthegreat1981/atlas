@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoneuroendocrinology15185192-illness"
-id: "TRM-ENG-46674"
+id: "TRM-ENG-61203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychoneuroendocrinology,15,185±192. illness"

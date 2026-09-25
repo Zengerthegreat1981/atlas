@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotional-networks-1"
-id: "TRM-ENG-45086"
+id: "TRM-ENG-59615"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotional networks, 1"

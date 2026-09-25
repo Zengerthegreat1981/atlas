@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-neuroses"
-id: "TRM-ENG-45841"
+id: "TRM-ENG-60370"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Human Neuroses"

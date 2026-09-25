@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-approach"
-id: "TRM-ENG-35042"
+id: "TRM-ENG-64100"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social approach"

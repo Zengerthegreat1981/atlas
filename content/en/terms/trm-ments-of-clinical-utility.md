@@ -1,6 +1,6 @@
 ---
 slug: "trm-ments-of-clinical-utility"
-id: "TRM-ENG-43733"
+id: "TRM-ENG-58262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ments of clinical utility"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-cooperation"
-id: "TRM-ENG-45519"
+id: "TRM-ENG-60048"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social cooperation"

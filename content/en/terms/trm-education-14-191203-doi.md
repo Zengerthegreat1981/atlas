@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-14-191203-doi"
-id: "TRM-ENG-35372"
+id: "TRM-ENG-64430"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Education, 14, 191–203. doi"

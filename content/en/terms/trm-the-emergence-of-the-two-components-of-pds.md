@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-emergence-of-the-two-components-of-pds"
-id: "TRM-ENG-43301"
+id: "TRM-ENG-57830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the emergence of the two components of PDs"

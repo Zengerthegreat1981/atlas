@@ -1,6 +1,6 @@
 ---
 slug: "trm-lilli-alanen-et-al-17796-new-york"
-id: "TRM-ENG-45735"
+id: "TRM-ENG-60264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lilli Alanen, et al., 177–96. New York"

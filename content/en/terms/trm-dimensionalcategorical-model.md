@@ -1,6 +1,6 @@
 ---
 slug: "trm-dimensionalcategorical-model"
-id: "TRM-ENG-48313"
+id: "TRM-ENG-62842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dimensional-categorical model"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tors"
-id: "TRM-ENG-37219"
+id: "TRM-ENG-66277"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tors"

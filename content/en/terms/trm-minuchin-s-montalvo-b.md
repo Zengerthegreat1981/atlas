@@ -1,6 +1,6 @@
 ---
 slug: "trm-minuchin-s-montalvo-b"
-id: "TRM-ENG-41738"
+id: "TRM-ENG-56267"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Minuchin S, Montalvo B"

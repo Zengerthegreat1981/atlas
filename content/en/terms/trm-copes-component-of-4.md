@@ -1,6 +1,6 @@
 ---
 slug: "trm-copes-component-of-4"
-id: "TRM-ENG-37381"
+id: "TRM-ENG-51910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(COPES) component of, 4"

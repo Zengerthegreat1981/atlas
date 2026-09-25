@@ -1,6 +1,6 @@
 ---
 slug: "trm-function-in-neuropsychiatry-disorders"
-id: "TRM-ENG-36472"
+id: "TRM-ENG-65530"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "function in neuropsychiatry disorders"

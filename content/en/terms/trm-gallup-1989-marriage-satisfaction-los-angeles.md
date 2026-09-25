@@ -1,6 +1,6 @@
 ---
 slug: "trm-gallup-1989-marriage-satisfaction-los-angeles"
-id: "TRM-ENG-48997"
+id: "TRM-ENG-63526"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gallup (1989). Marriage satisfaction. Los Angeles"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-uals-level-on-the-latent-variable-is-relative-to-the-px-1cid"
-id: "TRM-ENG-36225"
+id: "TRM-ENG-65283"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ual’s level on the latent variable is relative to the P(x =1|(cid"

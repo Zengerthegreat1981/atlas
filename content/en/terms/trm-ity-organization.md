@@ -1,6 +1,6 @@
 ---
 slug: "trm-ity-organization"
-id: "TRM-ENG-42944"
+id: "TRM-ENG-57473"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ity Organization"

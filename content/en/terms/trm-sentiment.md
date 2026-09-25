@@ -1,6 +1,6 @@
 ---
 slug: "trm-sentiment"
-id: "TRM-ENG-52384"
+id: "TRM-ENG-66913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sentiment"

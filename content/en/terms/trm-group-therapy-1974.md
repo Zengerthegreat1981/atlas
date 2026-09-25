@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-therapy-1974"
-id: "TRM-ENG-40844"
+id: "TRM-ENG-55373"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Group Therapy 1974"

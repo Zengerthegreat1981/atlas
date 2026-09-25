@@ -1,6 +1,6 @@
 ---
 slug: "trm-bilu-y-1994-the-other-as-nightmare"
-id: "TRM-ENG-34634"
+id: "TRM-ENG-49163"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bilu, Y. (1994). The other as nightmare"

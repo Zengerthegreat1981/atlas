@@ -1,6 +1,6 @@
 ---
 slug: "trm-shortterm-dynamic-psychotherapy-theory-of-2"
-id: "TRM-ENG-41659"
+id: "TRM-ENG-56188"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "short-term dynamic psychotherapy, theory of, 2"

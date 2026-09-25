@@ -1,6 +1,6 @@
 ---
 slug: "trm-defense-mechanisms-manual-and-2"
-id: "TRM-ENG-37937"
+id: "TRM-ENG-66995"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Defense Mechanisms Manual and, 2"

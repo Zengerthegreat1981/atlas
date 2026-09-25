@@ -1,6 +1,6 @@
 ---
 slug: "trm-dermine-motivation-under-three-conditions"
-id: "TRM-ENG-36352"
+id: "TRM-ENG-65410"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dermine motivation under three conditions"

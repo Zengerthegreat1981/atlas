@@ -1,6 +1,6 @@
 ---
 slug: "trm-place-of-articulation"
-id: "TRM-ENG-45243"
+id: "TRM-ENG-59772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "place of articulation"

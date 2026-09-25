@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-english-trans-london"
-id: "TRM-ENG-42795"
+id: "TRM-ENG-57324"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ed., English trans.). London"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-anosognosia-after-stroke"
-id: "TRM-ENG-44296"
+id: "TRM-ENG-58825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anosognosia after stroke"

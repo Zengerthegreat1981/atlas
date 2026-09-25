@@ -1,6 +1,6 @@
 ---
 slug: "trm-chirac-jacques-2"
-id: "TRM-ENG-46391"
+id: "TRM-ENG-60920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chirac, Jacques, 2"

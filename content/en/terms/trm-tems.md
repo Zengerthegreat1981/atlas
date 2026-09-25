@@ -1,6 +1,6 @@
 ---
 slug: "trm-tems"
-id: "TRM-ENG-46227"
+id: "TRM-ENG-60756"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tems"

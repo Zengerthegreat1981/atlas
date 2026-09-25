@@ -1,6 +1,6 @@
 ---
 slug: "trm-329-hirano-a"
-id: "TRM-ENG-38892"
+id: "TRM-ENG-53421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "329. Hirano A"

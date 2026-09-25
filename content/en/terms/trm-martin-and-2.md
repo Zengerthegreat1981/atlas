@@ -1,6 +1,6 @@
 ---
 slug: "trm-martin-and-2"
-id: "TRM-ENG-46965"
+id: "TRM-ENG-61494"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Martin and, 2"

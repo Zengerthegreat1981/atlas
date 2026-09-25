@@ -1,6 +1,6 @@
 ---
 slug: "trm-jd-markel-d-cadieux-r-1980-nightmares"
-id: "TRM-ENG-35768"
+id: "TRM-ENG-50297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J.D., Markel, D., & Cadieux, R. (1980). Nightmares"

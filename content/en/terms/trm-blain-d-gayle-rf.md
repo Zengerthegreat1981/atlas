@@ -1,6 +1,6 @@
 ---
 slug: "trm-blain-d-gayle-rf"
-id: "TRM-ENG-39952"
+id: "TRM-ENG-54481"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blain D, Gayle RF"

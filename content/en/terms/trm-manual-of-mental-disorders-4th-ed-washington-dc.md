@@ -1,6 +1,6 @@
 ---
 slug: "trm-manual-of-mental-disorders-4th-ed-washington-dc"
-id: "TRM-ENG-45872"
+id: "TRM-ENG-60401"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Manual of Mental Disorders, 4th ed. (Washington, DC"

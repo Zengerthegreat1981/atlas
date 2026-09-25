@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-wellbeing-questionnaire"
-id: "TRM-ENG-46741"
+id: "TRM-ENG-61270"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Well-being Questionnaire"

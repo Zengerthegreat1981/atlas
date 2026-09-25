@@ -1,6 +1,6 @@
 ---
 slug: "trm-ellis-a-1985-overcoming-resistance"
-id: "TRM-ENG-48969"
+id: "TRM-ENG-63498"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ellis, A. (1985). Overcoming resistance"

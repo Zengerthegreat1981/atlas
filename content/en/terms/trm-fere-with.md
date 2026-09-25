@@ -1,6 +1,6 @@
 ---
 slug: "trm-fere-with"
-id: "TRM-ENG-40203"
+id: "TRM-ENG-54732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fere with"

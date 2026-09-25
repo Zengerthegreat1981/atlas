@@ -1,6 +1,6 @@
 ---
 slug: "trm-survey-and-3"
-id: "TRM-ENG-38853"
+id: "TRM-ENG-53382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Survey and, 3"

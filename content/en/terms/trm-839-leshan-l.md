@@ -1,6 +1,6 @@
 ---
 slug: "trm-839-leshan-l"
-id: "TRM-ENG-39500"
+id: "TRM-ENG-54029"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "839. LeShan L"

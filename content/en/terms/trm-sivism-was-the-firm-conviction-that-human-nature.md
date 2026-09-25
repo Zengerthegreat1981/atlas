@@ -1,6 +1,6 @@
 ---
 slug: "trm-sivism-was-the-firm-conviction-that-human-nature"
-id: "TRM-ENG-48720"
+id: "TRM-ENG-63249"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sivism was the firm conviction that human nature"

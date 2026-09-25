@@ -1,6 +1,6 @@
 ---
 slug: "trm-vestigation"
-id: "TRM-ENG-37284"
+id: "TRM-ENG-66342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vestigation"

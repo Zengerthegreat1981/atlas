@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-social-exchange-cosmides-1989"
-id: "TRM-ENG-35074"
+id: "TRM-ENG-49603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in social exchange (Cosmides, 1989)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thunderstorms"
-id: "TRM-ENG-48906"
+id: "TRM-ENG-63435"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thunderstorms"

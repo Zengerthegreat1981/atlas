@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-research-process"
-id: "TRM-ENG-36177"
+id: "TRM-ENG-65235"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the research process"

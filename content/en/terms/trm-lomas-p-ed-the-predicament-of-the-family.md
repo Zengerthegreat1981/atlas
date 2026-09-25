@@ -1,6 +1,6 @@
 ---
 slug: "trm-lomas-p-ed-the-predicament-of-the-family"
-id: "TRM-ENG-44502"
+id: "TRM-ENG-59031"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lomas, P. (Ed.), The Predicament of the Family"

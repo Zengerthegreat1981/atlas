@@ -1,6 +1,6 @@
 ---
 slug: "trm-tu-fu-1"
-id: "TRM-ENG-47428"
+id: "TRM-ENG-61957"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tu Fu, 1"

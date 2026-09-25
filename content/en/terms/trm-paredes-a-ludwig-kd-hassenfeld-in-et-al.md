@@ -1,6 +1,6 @@
 ---
 slug: "trm-paredes-a-ludwig-kd-hassenfeld-in-et-al"
-id: "TRM-ENG-41921"
+id: "TRM-ENG-56450"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Paredes A, Ludwig KD, Hassenfeld IN, et al"

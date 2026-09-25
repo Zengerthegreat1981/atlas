@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorders-study-clps"
-id: "TRM-ENG-42380"
+id: "TRM-ENG-56909"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Disorders Study (CLPS)"

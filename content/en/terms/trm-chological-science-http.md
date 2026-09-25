@@ -1,6 +1,6 @@
 ---
 slug: "trm-chological-science-http"
-id: "TRM-ENG-37620"
+id: "TRM-ENG-52149"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chological Science. http"

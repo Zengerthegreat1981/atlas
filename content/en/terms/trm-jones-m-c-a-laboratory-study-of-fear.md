@@ -1,6 +1,6 @@
 ---
 slug: "trm-jones-m-c-a-laboratory-study-of-fear"
-id: "TRM-ENG-44457"
+id: "TRM-ENG-58986"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jones, M. C., “A Laboratory Study of Fear"

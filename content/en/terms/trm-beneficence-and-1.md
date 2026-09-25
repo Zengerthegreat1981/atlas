@@ -1,6 +1,6 @@
 ---
 slug: "trm-beneficence-and-1"
-id: "TRM-ENG-39350"
+id: "TRM-ENG-53879"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beneficence and, 1"

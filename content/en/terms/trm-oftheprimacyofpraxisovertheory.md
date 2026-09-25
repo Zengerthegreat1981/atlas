@@ -1,6 +1,6 @@
 ---
 slug: "trm-oftheprimacyofpraxisovertheory"
-id: "TRM-ENG-38046"
+id: "TRM-ENG-67104"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "oftheprimacyofpraxisovertheory"

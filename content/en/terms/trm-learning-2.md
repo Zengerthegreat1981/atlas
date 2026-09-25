@@ -1,6 +1,6 @@
 ---
 slug: "trm-learning-2"
-id: "TRM-ENG-46920"
+id: "TRM-ENG-61449"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Learning, 2"

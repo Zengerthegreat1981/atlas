@@ -1,6 +1,6 @@
 ---
 slug: "trm-descriptive-thought-as-exemplified-by-cid"
-id: "TRM-ENG-45062"
+id: "TRM-ENG-59591"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "descriptive thought, as exemplified by (cid"

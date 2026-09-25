@@ -1,6 +1,6 @@
 ---
 slug: "trm-consideration-or-choice"
-id: "TRM-ENG-37651"
+id: "TRM-ENG-66709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "consideration or choice"

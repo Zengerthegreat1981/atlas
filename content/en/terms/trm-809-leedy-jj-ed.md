@@ -1,6 +1,6 @@
 ---
 slug: "trm-809-leedy-jj-ed"
-id: "TRM-ENG-39468"
+id: "TRM-ENG-53997"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "809. Leedy JJ (ed)"

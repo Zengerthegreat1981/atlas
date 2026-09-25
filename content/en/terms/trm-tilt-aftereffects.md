@@ -1,6 +1,6 @@
 ---
 slug: "trm-tilt-aftereffects"
-id: "TRM-ENG-37176"
+id: "TRM-ENG-66234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tilt aftereffects"

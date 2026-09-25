@@ -1,6 +1,6 @@
 ---
 slug: "trm-insulindependent-diabetes-mellitus-in-young-adults"
-id: "TRM-ENG-46334"
+id: "TRM-ENG-60863"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(insulin-dependent) diabetes mellitus in young adults"

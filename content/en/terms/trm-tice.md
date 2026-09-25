@@ -1,6 +1,6 @@
 ---
 slug: "trm-tice"
-id: "TRM-ENG-45617"
+id: "TRM-ENG-60146"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tice"

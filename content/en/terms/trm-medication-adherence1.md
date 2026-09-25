@@ -1,6 +1,6 @@
 ---
 slug: "trm-medication-adherence1"
-id: "TRM-ENG-38417"
+id: "TRM-ENG-52946"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Medication adherence,1"

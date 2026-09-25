@@ -1,6 +1,6 @@
 ---
 slug: "trm-physicsandassertedthatmindandmatterwereknown-edinburgh"
-id: "TRM-ENG-38098"
+id: "TRM-ENG-52627"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physics,andassertedthatmindandmatterwereknown Edinburgh"

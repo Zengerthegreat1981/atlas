@@ -1,6 +1,6 @@
 ---
 slug: "trm-kiesler-d"
-id: "TRM-ENG-47785"
+id: "TRM-ENG-62314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kiesler D"

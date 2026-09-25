@@ -1,6 +1,6 @@
 ---
 slug: "trm-frontotemporal-disorders-ftds"
-id: "TRM-ENG-34618"
+id: "TRM-ENG-49147"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frontotemporal disorders (FTDs)"

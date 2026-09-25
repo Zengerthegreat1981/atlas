@@ -1,6 +1,6 @@
 ---
 slug: "trm-socialism-2"
-id: "TRM-ENG-47311"
+id: "TRM-ENG-61840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Socialism, 2"

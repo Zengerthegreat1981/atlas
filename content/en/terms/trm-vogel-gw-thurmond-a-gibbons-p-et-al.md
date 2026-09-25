@@ -1,6 +1,6 @@
 ---
 slug: "trm-vogel-gw-thurmond-a-gibbons-p-et-al"
-id: "TRM-ENG-42682"
+id: "TRM-ENG-57211"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vogel GW, Thurmond A, Gibbons P, et al"

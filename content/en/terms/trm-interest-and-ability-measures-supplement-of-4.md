@@ -1,6 +1,6 @@
 ---
 slug: "trm-interest-and-ability-measures-supplement-of-4"
-id: "TRM-ENG-40590"
+id: "TRM-ENG-55119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interest and ability measures supplement of, 4"

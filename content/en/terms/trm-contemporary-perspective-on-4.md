@@ -1,6 +1,6 @@
 ---
 slug: "trm-contemporary-perspective-on-4"
-id: "TRM-ENG-39679"
+id: "TRM-ENG-54208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "contemporary perspective on, 4"

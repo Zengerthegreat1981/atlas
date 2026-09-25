@@ -1,6 +1,6 @@
 ---
 slug: "trm-withdrawalinprimarycare"
-id: "TRM-ENG-49838"
+id: "TRM-ENG-64367"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "withdrawalinprimarycare"

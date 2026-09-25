@@ -1,6 +1,6 @@
 ---
 slug: "trm-disclose"
-id: "TRM-ENG-51406"
+id: "TRM-ENG-65935"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disclose"

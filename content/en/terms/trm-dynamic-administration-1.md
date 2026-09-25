@@ -1,6 +1,6 @@
 ---
 slug: "trm-dynamic-administration-1"
-id: "TRM-ENG-50325"
+id: "TRM-ENG-64854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dynamic administration, 1"

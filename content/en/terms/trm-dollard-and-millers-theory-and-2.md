@@ -1,6 +1,6 @@
 ---
 slug: "trm-dollard-and-millers-theory-and-2"
-id: "TRM-ENG-37974"
+id: "TRM-ENG-67032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dollard and Miller’s theory and, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ist-sprengart-porter-1997"
-id: "TRM-ENG-36600"
+id: "TRM-ENG-65658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ist (Sprengart & Porter, 1997)"

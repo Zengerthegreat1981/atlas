@@ -1,6 +1,6 @@
 ---
 slug: "trm-compareautonoeticnoetic"
-id: "TRM-ENG-43465"
+id: "TRM-ENG-57994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Compareautonoetic;noetic."

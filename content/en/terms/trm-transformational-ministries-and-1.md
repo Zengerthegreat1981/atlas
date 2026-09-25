@@ -1,6 +1,6 @@
 ---
 slug: "trm-transformational-ministries-and-1"
-id: "TRM-ENG-42027"
+id: "TRM-ENG-56556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transformational ministries and, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-assessment-tool-cultural-bias-and-3"
-id: "TRM-ENG-39269"
+id: "TRM-ENG-53798"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "assessment tool cultural bias and, 3"

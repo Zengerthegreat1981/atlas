@@ -1,6 +1,6 @@
 ---
 slug: "trm-silverstein-c"
-id: "TRM-ENG-42355"
+id: "TRM-ENG-56884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Silverstein C"

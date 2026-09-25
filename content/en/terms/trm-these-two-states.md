@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-two-states"
-id: "TRM-ENG-51918"
+id: "TRM-ENG-66447"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "these two states"

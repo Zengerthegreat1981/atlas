@@ -1,6 +1,6 @@
 ---
 slug: "trm-walters-m-j-psychic-death"
-id: "TRM-ENG-44686"
+id: "TRM-ENG-59215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Walters, M. J., “Psychic Death"

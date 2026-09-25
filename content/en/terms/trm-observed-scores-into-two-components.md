@@ -1,6 +1,6 @@
 ---
 slug: "trm-observed-scores-into-two-components"
-id: "TRM-ENG-43761"
+id: "TRM-ENG-58290"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "observed scores into two components"

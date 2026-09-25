@@ -1,6 +1,6 @@
 ---
 slug: "trm-gohlmanalbany"
-id: "TRM-ENG-45705"
+id: "TRM-ENG-60234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gohlman.Albany"

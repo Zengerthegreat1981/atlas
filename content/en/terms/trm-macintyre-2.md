@@ -1,6 +1,6 @@
 ---
 slug: "trm-macintyre-2"
-id: "TRM-ENG-46954"
+id: "TRM-ENG-61483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "MacIntyre, 2"

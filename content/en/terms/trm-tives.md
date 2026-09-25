@@ -1,6 +1,6 @@
 ---
 slug: "trm-tives"
-id: "TRM-ENG-43937"
+id: "TRM-ENG-58466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tives."

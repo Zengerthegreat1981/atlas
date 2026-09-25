@@ -1,6 +1,6 @@
 ---
 slug: "trm-brentanosreformedphilosophywascentral"
-id: "TRM-ENG-36648"
+id: "TRM-ENG-65706"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brentano’sreformedphilosophywascentral"

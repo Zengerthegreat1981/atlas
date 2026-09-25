@@ -1,6 +1,6 @@
 ---
 slug: "trm-enced-by-voluntary-action"
-id: "TRM-ENG-35776"
+id: "TRM-ENG-64834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "enced by voluntary action"

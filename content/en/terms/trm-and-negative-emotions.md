@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-negative-emotions"
-id: "TRM-ENG-44901"
+id: "TRM-ENG-59430"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and negative emotions"

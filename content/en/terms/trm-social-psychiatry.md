@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-psychiatry"
-id: "TRM-ENG-42393"
+id: "TRM-ENG-56922"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Social Psychiatry"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cluster-aoddeccentric-and-2"
-id: "TRM-ENG-39540"
+id: "TRM-ENG-54069"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cluster A(odd-eccentric) and, 2"

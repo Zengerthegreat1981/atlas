@@ -1,6 +1,6 @@
 ---
 slug: "trm-facet-may-be-considered-as-fixed"
-id: "TRM-ENG-35807"
+id: "TRM-ENG-64865"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "facet may be considered as fixed"

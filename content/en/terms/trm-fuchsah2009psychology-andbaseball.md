@@ -1,6 +1,6 @@
 ---
 slug: "trm-fuchsah2009psychology-andbaseball"
-id: "TRM-ENG-36825"
+id: "TRM-ENG-65883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fuchs,A.H.(2009).Psychology andbaseball"

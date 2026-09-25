@@ -1,6 +1,6 @@
 ---
 slug: "trm-moghaddam-f-m-2007-the-staircase-to-terrorism"
-id: "TRM-ENG-37087"
+id: "TRM-ENG-51616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Moghaddam, F. M. (2007). The staircase to terrorism"

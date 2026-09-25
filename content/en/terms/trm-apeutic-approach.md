@@ -1,6 +1,6 @@
 ---
 slug: "trm-apeutic-approach"
-id: "TRM-ENG-39232"
+id: "TRM-ENG-53761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apeutic approach"

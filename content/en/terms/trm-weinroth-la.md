@@ -1,6 +1,6 @@
 ---
 slug: "trm-weinroth-la"
-id: "TRM-ENG-42742"
+id: "TRM-ENG-57271"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Weinroth LA"

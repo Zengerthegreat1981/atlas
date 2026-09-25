@@ -1,6 +1,6 @@
 ---
 slug: "trm-texts-of-collecting-responses-among-these-facets-cid"
-id: "TRM-ENG-36160"
+id: "TRM-ENG-65218"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "texts of collecting responses. Among these facets, (cid"

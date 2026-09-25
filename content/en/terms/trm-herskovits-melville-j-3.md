@@ -1,6 +1,6 @@
 ---
 slug: "trm-herskovits-melville-j-3"
-id: "TRM-ENG-38169"
+id: "TRM-ENG-52698"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Herskovits, Melville J., 3"

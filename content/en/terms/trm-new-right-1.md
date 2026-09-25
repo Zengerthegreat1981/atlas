@@ -1,6 +1,6 @@
 ---
 slug: "trm-new-right-1"
-id: "TRM-ENG-47056"
+id: "TRM-ENG-61585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "New Right, 1"

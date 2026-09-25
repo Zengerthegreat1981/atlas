@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-each-other"
-id: "TRM-ENG-45632"
+id: "TRM-ENG-60161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to each other"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-simeon-d-bartz-j-hamilton-h-et-al"
-id: "TRM-ENG-48073"
+id: "TRM-ENG-62602"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simeon D, Bartz J, Hamilton H, et al"

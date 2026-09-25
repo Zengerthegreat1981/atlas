@@ -1,6 +1,6 @@
 ---
 slug: "trm-ory-store"
-id: "TRM-ENG-36826"
+id: "TRM-ENG-65884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ory store"

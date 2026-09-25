@@ -1,6 +1,6 @@
 ---
 slug: "trm-whybrow-peter-c-a-mood-apart"
-id: "TRM-ENG-45996"
+id: "TRM-ENG-60525"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Whybrow, Peter C. A Mood Apart"

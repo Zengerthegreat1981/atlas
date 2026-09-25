@@ -1,6 +1,6 @@
 ---
 slug: "trm-925c-schwartz-md-ed"
-id: "TRM-ENG-39604"
+id: "TRM-ENG-54133"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "925c. Schwartz MD (ed.)"

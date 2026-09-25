@@ -1,6 +1,6 @@
 ---
 slug: "trm-tine-wl-2000-peer-functioning-family-dysfunction-and-rockville-md"
-id: "TRM-ENG-37180"
+id: "TRM-ENG-66238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tine, W.L. (2000). Peer functioning, family dysfunction, and Rockville, MD"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-indicator"
-id: "TRM-ENG-48176"
+id: "TRM-ENG-62705"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "indicator"

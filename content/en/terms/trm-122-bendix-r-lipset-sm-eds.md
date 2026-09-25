@@ -1,6 +1,6 @@
 ---
 slug: "trm-122-bendix-r-lipset-sm-eds"
-id: "TRM-ENG-38588"
+id: "TRM-ENG-53117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "122. Bendix R, Lipset SM (eds)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lectivism"
-id: "TRM-ENG-40701"
+id: "TRM-ENG-55230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lectivism"

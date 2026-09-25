@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-one-can-add-the-growing-attention-of-political-scien-see-also"
-id: "TRM-ENG-36703"
+id: "TRM-ENG-65761"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment, one can add the growing attention of political scien- See also"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwarcz-ga"
-id: "TRM-ENG-42288"
+id: "TRM-ENG-56817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwarcz, GA"

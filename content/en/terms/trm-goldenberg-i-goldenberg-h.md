@@ -1,6 +1,6 @@
 ---
 slug: "trm-goldenberg-i-goldenberg-h"
-id: "TRM-ENG-40747"
+id: "TRM-ENG-55276"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goldenberg I, Goldenberg H"

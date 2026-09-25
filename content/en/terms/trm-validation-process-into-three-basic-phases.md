@@ -1,6 +1,6 @@
 ---
 slug: "trm-validation-process-into-three-basic-phases"
-id: "TRM-ENG-36237"
+id: "TRM-ENG-65295"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "validation process into three basic phases"

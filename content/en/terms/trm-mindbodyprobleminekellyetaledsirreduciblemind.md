@@ -1,6 +1,6 @@
 ---
 slug: "trm-mindbodyprobleminekellyetaledsirreduciblemind"
-id: "TRM-ENG-37965"
+id: "TRM-ENG-67023"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mind-bodyProblem.InE.Kellyetal.(Eds.),Irreduciblemind"

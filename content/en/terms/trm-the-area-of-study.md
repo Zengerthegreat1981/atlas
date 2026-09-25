@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-area-of-study"
-id: "TRM-ENG-36369"
+id: "TRM-ENG-65427"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the area of study"

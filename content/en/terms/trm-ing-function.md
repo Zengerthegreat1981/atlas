@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-function"
-id: "TRM-ENG-36571"
+id: "TRM-ENG-65629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing function"

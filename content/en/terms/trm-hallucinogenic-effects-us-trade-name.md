@@ -1,6 +1,6 @@
 ---
 slug: "trm-hallucinogenic-effects-us-trade-name"
-id: "TRM-ENG-43674"
+id: "TRM-ENG-58203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hallucinogenic effects. U.S. trade name"

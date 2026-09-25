@@ -1,6 +1,6 @@
 ---
 slug: "trm-theoretical-principles-of-1"
-id: "TRM-ENG-41913"
+id: "TRM-ENG-56442"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theoretical principles of, 1"

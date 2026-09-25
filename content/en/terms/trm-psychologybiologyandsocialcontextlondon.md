@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychologybiologyandsocialcontextlondon"
-id: "TRM-ENG-46672"
+id: "TRM-ENG-61201"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychology,biologyandsocialcontext.London"

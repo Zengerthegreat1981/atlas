@@ -1,6 +1,6 @@
 ---
 slug: "trm-deixis"
-id: "TRM-ENG-52126"
+id: "TRM-ENG-66655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deixis"

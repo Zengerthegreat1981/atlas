@@ -1,6 +1,6 @@
 ---
 slug: "trm-have-different-implications-for-theorizing-education"
-id: "TRM-ENG-48107"
+id: "TRM-ENG-62636"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "have different implications for theorizing education"

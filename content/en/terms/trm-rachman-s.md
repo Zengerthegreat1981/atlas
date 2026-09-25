@@ -1,6 +1,6 @@
 ---
 slug: "trm-rachman-s"
-id: "TRM-ENG-42047"
+id: "TRM-ENG-56576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rachman S"

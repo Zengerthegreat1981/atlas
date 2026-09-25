@@ -1,6 +1,6 @@
 ---
 slug: "trm-linguistic-theory-1"
-id: "TRM-ENG-44593"
+id: "TRM-ENG-59122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linguistic theory, 1"

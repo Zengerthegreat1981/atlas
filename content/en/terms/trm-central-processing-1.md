@@ -1,6 +1,6 @@
 ---
 slug: "trm-central-processing-1"
-id: "TRM-ENG-44370"
+id: "TRM-ENG-58899"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Central processing, 1"

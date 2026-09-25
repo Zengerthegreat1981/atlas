@@ -1,6 +1,6 @@
 ---
 slug: "trm-sarwerfoner-gj"
-id: "TRM-ENG-42241"
+id: "TRM-ENG-56770"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sarwer-Foner GJ"

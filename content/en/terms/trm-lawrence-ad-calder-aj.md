@@ -1,6 +1,6 @@
 ---
 slug: "trm-lawrence-ad-calder-aj"
-id: "TRM-ENG-47818"
+id: "TRM-ENG-62347"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lawrence AD, Calder AJ"

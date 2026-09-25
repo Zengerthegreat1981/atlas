@@ -1,6 +1,6 @@
 ---
 slug: "trm-optimal-learning-environments-and-4"
-id: "TRM-ENG-41058"
+id: "TRM-ENG-55587"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "optimal learning environments and, 4"

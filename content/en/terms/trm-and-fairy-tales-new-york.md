@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-fairy-tales-new-york"
-id: "TRM-ENG-46018"
+id: "TRM-ENG-60547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Fairy Tales (New York"

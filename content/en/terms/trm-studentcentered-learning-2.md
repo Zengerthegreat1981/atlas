@@ -1,6 +1,6 @@
 ---
 slug: "trm-studentcentered-learning-2"
-id: "TRM-ENG-48767"
+id: "TRM-ENG-63296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "student-centered learning, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-raine-a-lencz-t-bihrle-s-et-al"
-id: "TRM-ENG-47994"
+id: "TRM-ENG-62523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Raine A, Lencz T, Bihrle S, et al"

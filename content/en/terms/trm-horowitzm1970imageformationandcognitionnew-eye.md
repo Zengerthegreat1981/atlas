@@ -1,6 +1,6 @@
 ---
 slug: "trm-horowitzm1970imageformationandcognitionnew-eye"
-id: "TRM-ENG-49028"
+id: "TRM-ENG-63557"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Horowitz,M.(1970).Imageformationandcognition.New eye"

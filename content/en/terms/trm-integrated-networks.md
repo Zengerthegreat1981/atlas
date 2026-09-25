@@ -1,6 +1,6 @@
 ---
 slug: "trm-integrated-networks"
-id: "TRM-ENG-34894"
+id: "TRM-ENG-49423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "integrated networks"

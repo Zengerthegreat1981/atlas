@@ -1,6 +1,6 @@
 ---
 slug: "trm-responsessuchaseyeblinkinghiscoauthoredwork-hypnosis"
-id: "TRM-ENG-38218"
+id: "TRM-ENG-52747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "responses–suchaseyeblinking.Hisco-authoredwork Hypnosis"

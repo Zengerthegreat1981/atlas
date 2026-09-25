@@ -1,6 +1,6 @@
 ---
 slug: "trm-universescore-variance-and-cid"
-id: "TRM-ENG-35174"
+id: "TRM-ENG-64232"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(universe-score variance) and (cid"

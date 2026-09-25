@@ -1,6 +1,6 @@
 ---
 slug: "trm-beta-symbol"
-id: "TRM-ENG-43558"
+id: "TRM-ENG-58087"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beta (symbol"

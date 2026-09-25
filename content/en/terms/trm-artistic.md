@@ -1,6 +1,6 @@
 ---
 slug: "trm-artistic"
-id: "TRM-ENG-37616"
+id: "TRM-ENG-66674"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Artistic"

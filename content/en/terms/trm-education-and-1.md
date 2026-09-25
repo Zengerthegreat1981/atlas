@@ -1,6 +1,6 @@
 ---
 slug: "trm-education-and-1"
-id: "TRM-ENG-38007"
+id: "TRM-ENG-67065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Education and, 1"

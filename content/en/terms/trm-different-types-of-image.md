@@ -1,6 +1,6 @@
 ---
 slug: "trm-different-types-of-image"
-id: "TRM-ENG-49389"
+id: "TRM-ENG-63918"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "different types of image"

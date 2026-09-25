@@ -1,6 +1,6 @@
 ---
 slug: "trm-focusing-technique-1"
-id: "TRM-ENG-50414"
+id: "TRM-ENG-64943"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Focusing technique, 1"

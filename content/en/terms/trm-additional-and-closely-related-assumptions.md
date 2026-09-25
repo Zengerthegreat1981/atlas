@@ -1,6 +1,6 @@
 ---
 slug: "trm-additional-and-closely-related-assumptions"
-id: "TRM-ENG-47552"
+id: "TRM-ENG-62081"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "additional and closely related assumptions"

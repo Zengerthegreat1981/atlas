@@ -1,6 +1,6 @@
 ---
 slug: "trm-los-angeles"
-id: "TRM-ENG-38383"
+id: "TRM-ENG-52912"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Los Angeles"

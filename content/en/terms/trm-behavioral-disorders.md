@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-disorders"
-id: "TRM-ENG-51296"
+id: "TRM-ENG-65825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioral disorders"

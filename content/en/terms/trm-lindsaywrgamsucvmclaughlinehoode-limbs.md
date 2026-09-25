@@ -1,6 +1,6 @@
 ---
 slug: "trm-lindsaywrgamsucvmclaughlinehoode-limbs"
-id: "TRM-ENG-49064"
+id: "TRM-ENG-63593"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lindsay,W.R.,Gamsu,C.V.,McLaughlin,E.,Hood,E. limbs"

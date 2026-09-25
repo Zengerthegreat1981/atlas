@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-1-thch-andbook-of-education-and-human-development"
-id: "TRM-ENG-34573"
+id: "TRM-ENG-63631"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds. 1, Thc~h andbook of’ education and human development"

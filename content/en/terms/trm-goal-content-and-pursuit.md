@@ -1,6 +1,6 @@
 ---
 slug: "trm-goal-content-and-pursuit"
-id: "TRM-ENG-44111"
+id: "TRM-ENG-58640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "goal content and pursuit"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-relations-and-4-graduate-programs"
-id: "TRM-ENG-37220"
+id: "TRM-ENG-66278"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Relations, and 4 graduate programs"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-f-ostendorf-eds-personality-psychology-in-europe"
-id: "TRM-ENG-43426"
+id: "TRM-ENG-57955"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "F. Ostendorf (Eds.), Personality psychology in Europe"

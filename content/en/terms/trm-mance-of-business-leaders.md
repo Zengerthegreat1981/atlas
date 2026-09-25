@@ -1,6 +1,6 @@
 ---
 slug: "trm-mance-of-business-leaders"
-id: "TRM-ENG-36667"
+id: "TRM-ENG-51196"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mance of business leaders"

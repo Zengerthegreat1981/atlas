@@ -1,6 +1,6 @@
 ---
 slug: "trm-figure-2-left"
-id: "TRM-ENG-44489"
+id: "TRM-ENG-59018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Figure 2 Left"

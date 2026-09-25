@@ -1,6 +1,6 @@
 ---
 slug: "trm-perspective-1"
-id: "TRM-ENG-44681"
+id: "TRM-ENG-59210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perspective, 1"

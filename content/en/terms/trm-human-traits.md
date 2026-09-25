@@ -1,6 +1,6 @@
 ---
 slug: "trm-human-traits"
-id: "TRM-ENG-40420"
+id: "TRM-ENG-54949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "human traits"

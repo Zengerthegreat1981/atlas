@@ -1,6 +1,6 @@
 ---
 slug: "trm-trum-of-capacities"
-id: "TRM-ENG-43391"
+id: "TRM-ENG-57920"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "trum of capacities"

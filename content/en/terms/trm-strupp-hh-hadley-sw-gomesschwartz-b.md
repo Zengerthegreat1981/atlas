@@ -1,6 +1,6 @@
 ---
 slug: "trm-strupp-hh-hadley-sw-gomesschwartz-b"
-id: "TRM-ENG-42510"
+id: "TRM-ENG-57039"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strupp HH, Hadley SW, Gomes-Schwartz B"

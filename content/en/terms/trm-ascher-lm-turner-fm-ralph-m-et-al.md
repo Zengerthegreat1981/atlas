@@ -1,6 +1,6 @@
 ---
 slug: "trm-ascher-lm-turner-fm-ralph-m-et-al"
-id: "TRM-ENG-39728"
+id: "TRM-ENG-54257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ascher LM, Turner FM, Ralph M, et al"

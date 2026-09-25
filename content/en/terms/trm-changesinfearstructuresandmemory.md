@@ -1,6 +1,6 @@
 ---
 slug: "trm-changesinfearstructuresandmemory"
-id: "TRM-ENG-48930"
+id: "TRM-ENG-63459"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Changesinfearstructuresandmemory"

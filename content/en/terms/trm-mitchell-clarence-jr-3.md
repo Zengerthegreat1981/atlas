@@ -1,6 +1,6 @@
 ---
 slug: "trm-mitchell-clarence-jr-3"
-id: "TRM-ENG-38439"
+id: "TRM-ENG-52968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mitchell, Clarence, Jr., 3"

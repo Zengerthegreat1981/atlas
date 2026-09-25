@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophicalreview271918"
-id: "TRM-ENG-45763"
+id: "TRM-ENG-60292"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PhilosophicalReview27(1918)"

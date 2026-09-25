@@ -1,6 +1,6 @@
 ---
 slug: "trm-22236-cambridge"
-id: "TRM-ENG-45629"
+id: "TRM-ENG-60158"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(222–36). Cambridge"

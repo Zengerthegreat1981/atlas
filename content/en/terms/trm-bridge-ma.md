@@ -1,6 +1,6 @@
 ---
 slug: "trm-bridge-ma"
-id: "TRM-ENG-34913"
+id: "TRM-ENG-63971"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bridge, MA"

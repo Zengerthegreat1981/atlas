@@ -1,6 +1,6 @@
 ---
 slug: "trm-jaeger-w-1945-paideia"
-id: "TRM-ENG-46839"
+id: "TRM-ENG-61368"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jaeger, W. (1945). Paideia"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-pacity-for-understanding-mental-states"
-id: "TRM-ENG-48511"
+id: "TRM-ENG-63040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pacity for understanding mental states"

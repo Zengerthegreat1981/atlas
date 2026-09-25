@@ -1,6 +1,6 @@
 ---
 slug: "trm-linellp1998approachingdialogue"
-id: "TRM-ENG-37037"
+id: "TRM-ENG-66095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Linell,P.(1998).Approachingdialogue"

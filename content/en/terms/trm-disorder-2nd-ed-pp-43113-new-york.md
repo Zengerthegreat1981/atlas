@@ -1,6 +1,6 @@
 ---
 slug: "trm-disorder-2nd-ed-pp-43113-new-york"
-id: "TRM-ENG-42772"
+id: "TRM-ENG-57301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disorder (2nd ed., pp. 43–113). New York"

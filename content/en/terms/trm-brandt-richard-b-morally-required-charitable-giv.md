@@ -1,6 +1,6 @@
 ---
 slug: "trm-brandt-richard-b-morally-required-charitable-giv"
-id: "TRM-ENG-45665"
+id: "TRM-ENG-60194"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brandt, Richard B. “Morally Required Charitable Giv-"

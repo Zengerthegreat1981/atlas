@@ -1,6 +1,6 @@
 ---
 slug: "trm-ouimette-pc-gima-k-moos-rh-et-al"
-id: "TRM-ENG-47924"
+id: "TRM-ENG-62453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ouimette PC, Gima K, Moos RH, et al"

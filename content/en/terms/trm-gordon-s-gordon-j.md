@@ -1,6 +1,6 @@
 ---
 slug: "trm-gordon-s-gordon-j"
-id: "TRM-ENG-40777"
+id: "TRM-ENG-55306"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gordon S & Gordon J"

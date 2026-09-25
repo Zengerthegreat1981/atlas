@@ -1,6 +1,6 @@
 ---
 slug: "trm-individualism-vscollectivism-elements-and-3"
-id: "TRM-ENG-40528"
+id: "TRM-ENG-55057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individualism vs.collectivism elements and, 3"

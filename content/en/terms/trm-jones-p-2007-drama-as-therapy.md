@@ -1,6 +1,6 @@
 ---
 slug: "trm-jones-p-2007-drama-as-therapy"
-id: "TRM-ENG-50611"
+id: "TRM-ENG-65140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jones, P. (2007). Drama as therapy"

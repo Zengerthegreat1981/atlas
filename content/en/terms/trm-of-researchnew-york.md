@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-researchnew-york"
-id: "TRM-ENG-41012"
+id: "TRM-ENG-55541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of research.New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cognitive-development"
-id: "TRM-ENG-36296"
+id: "TRM-ENG-65354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cognitive development"

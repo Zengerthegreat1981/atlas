@@ -1,6 +1,6 @@
 ---
 slug: "trm-reti-im-samuels-jf-eaton-ww-et-al"
-id: "TRM-ENG-48009"
+id: "TRM-ENG-62538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reti IM, Samuels JF, Eaton WW, et al"

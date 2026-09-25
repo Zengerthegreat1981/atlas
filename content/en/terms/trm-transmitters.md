@@ -1,6 +1,6 @@
 ---
 slug: "trm-transmitters"
-id: "TRM-ENG-35102"
+id: "TRM-ENG-64160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transmitters"

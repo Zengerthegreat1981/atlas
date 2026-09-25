@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-delinquents"
-id: "TRM-ENG-49573"
+id: "TRM-ENG-64102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of delinquents"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-patient-motivation-for-change-in-fact-one-of-ed"
-id: "TRM-ENG-43117"
+id: "TRM-ENG-57646"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patient motivation for change. In fact, one of ed"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-his-texts"
-id: "TRM-ENG-48156"
+id: "TRM-ENG-62685"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in his texts"

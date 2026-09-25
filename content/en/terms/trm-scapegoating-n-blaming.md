@@ -1,6 +1,6 @@
 ---
 slug: "trm-scapegoating-n-blaming"
-id: "TRM-ENG-44141"
+id: "TRM-ENG-58670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "scapegoating n. blaming"

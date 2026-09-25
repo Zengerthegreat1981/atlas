@@ -1,6 +1,6 @@
 ---
 slug: "trm-practice-16-814-doi"
-id: "TRM-ENG-35487"
+id: "TRM-ENG-64545"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Practice, 16, 8–14. doi"

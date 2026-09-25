@@ -1,6 +1,6 @@
 ---
 slug: "trm-brown-sr-1980-political-subjectivity"
-id: "TRM-ENG-35608"
+id: "TRM-ENG-50137"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brown, S.R. (1980). Political subjectivity"

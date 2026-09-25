@@ -1,6 +1,6 @@
 ---
 slug: "trm-390-post-r-ballenger-j-eds"
-id: "TRM-ENG-38962"
+id: "TRM-ENG-53491"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "390. Post R, Ballenger J (eds)"

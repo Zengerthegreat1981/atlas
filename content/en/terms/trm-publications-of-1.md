@@ -1,6 +1,6 @@
 ---
 slug: "trm-publications-of-1"
-id: "TRM-ENG-41379"
+id: "TRM-ENG-55908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "publications of, 1"

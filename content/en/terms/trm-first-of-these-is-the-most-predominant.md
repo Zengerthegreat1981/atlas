@@ -1,6 +1,6 @@
 ---
 slug: "trm-first-of-these-is-the-most-predominant"
-id: "TRM-ENG-37767"
+id: "TRM-ENG-66825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "first of these is the most predominant"

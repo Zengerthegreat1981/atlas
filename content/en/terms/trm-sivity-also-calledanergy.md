@@ -1,6 +1,6 @@
 ---
 slug: "trm-sivity-also-calledanergy"
-id: "TRM-ENG-43865"
+id: "TRM-ENG-58394"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sivity. Also calledanergy."

@@ -1,6 +1,6 @@
 ---
 slug: "trm-studies-of-reading-10-241255-doi"
-id: "TRM-ENG-35576"
+id: "TRM-ENG-64634"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Studies of Reading, 10, 241–255. doi"

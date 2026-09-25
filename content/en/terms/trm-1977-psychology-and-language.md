@@ -1,6 +1,6 @@
 ---
 slug: "trm-1977-psychology-and-language"
-id: "TRM-ENG-36393"
+id: "TRM-ENG-65451"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1977) Psychology and language"

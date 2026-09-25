@@ -1,6 +1,6 @@
 ---
 slug: "trm-van-de-wall-w"
-id: "TRM-ENG-42662"
+id: "TRM-ENG-57191"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Van De Wall W"

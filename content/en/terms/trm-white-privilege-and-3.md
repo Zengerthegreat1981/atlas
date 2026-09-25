@@ -1,6 +1,6 @@
 ---
 slug: "trm-white-privilege-and-3"
-id: "TRM-ENG-39037"
+id: "TRM-ENG-53566"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "White privilege and, 3"

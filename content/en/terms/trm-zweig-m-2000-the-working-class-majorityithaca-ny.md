@@ -1,6 +1,6 @@
 ---
 slug: "trm-zweig-m-2000-the-working-class-majorityithaca-ny"
-id: "TRM-ENG-39063"
+id: "TRM-ENG-53592"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zweig, M. (2000). The working class majority.Ithaca, NY"

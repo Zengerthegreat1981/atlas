@@ -1,6 +1,6 @@
 ---
 slug: "trm-assessment-of-stress-and-1"
-id: "TRM-ENG-39266"
+id: "TRM-ENG-53795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "assessment of stress and, 1"

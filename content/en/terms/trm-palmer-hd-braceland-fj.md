@@ -1,6 +1,6 @@
 ---
 slug: "trm-palmer-hd-braceland-fj"
-id: "TRM-ENG-41908"
+id: "TRM-ENG-56437"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Palmer HD, Braceland FJ"

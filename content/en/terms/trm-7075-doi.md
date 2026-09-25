@@ -1,6 +1,6 @@
 ---
 slug: "trm-7075-doi"
-id: "TRM-ENG-43349"
+id: "TRM-ENG-57878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "70–75. doi"

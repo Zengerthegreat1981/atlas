@@ -1,6 +1,6 @@
 ---
 slug: "trm-sportscouncil1990peopleinsport"
-id: "TRM-ENG-46725"
+id: "TRM-ENG-61254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "SportsCouncil(1990).Peopleinsport"

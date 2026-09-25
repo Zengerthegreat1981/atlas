@@ -1,6 +1,6 @@
 ---
 slug: "trm-what-auspices-and-supervision"
-id: "TRM-ENG-43242"
+id: "TRM-ENG-57771"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "what auspices and supervision"

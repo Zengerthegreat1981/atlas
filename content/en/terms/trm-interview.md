@@ -1,6 +1,6 @@
 ---
 slug: "trm-interview"
-id: "TRM-ENG-52246"
+id: "TRM-ENG-66775"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Interview"

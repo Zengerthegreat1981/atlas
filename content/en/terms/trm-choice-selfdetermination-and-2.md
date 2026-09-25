@@ -1,6 +1,6 @@
 ---
 slug: "trm-choice-selfdetermination-and-2"
-id: "TRM-ENG-50234"
+id: "TRM-ENG-64763"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Choice, self-determination and, 2"

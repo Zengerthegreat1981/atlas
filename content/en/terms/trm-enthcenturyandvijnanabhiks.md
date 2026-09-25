@@ -1,6 +1,6 @@
 ---
 slug: "trm-enthcenturyandvijnanabhiks"
-id: "TRM-ENG-37728"
+id: "TRM-ENG-52257"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "enthcentury),andVijn˜a¯naBhiks"

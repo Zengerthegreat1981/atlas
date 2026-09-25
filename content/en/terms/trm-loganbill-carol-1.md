@@ -1,6 +1,6 @@
 ---
 slug: "trm-loganbill-carol-1"
-id: "TRM-ENG-38379"
+id: "TRM-ENG-52908"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Loganbill, Carol, 1"

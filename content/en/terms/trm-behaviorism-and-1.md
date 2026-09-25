@@ -1,6 +1,6 @@
 ---
 slug: "trm-behaviorism-and-1"
-id: "TRM-ENG-44961"
+id: "TRM-ENG-59490"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behaviorism and, 1"

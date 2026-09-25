@@ -1,6 +1,6 @@
 ---
 slug: "trm-al-2009-venables-et-al-2014"
-id: "TRM-ENG-42597"
+id: "TRM-ENG-57126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "al., 2009; Venables et al., 2014)"

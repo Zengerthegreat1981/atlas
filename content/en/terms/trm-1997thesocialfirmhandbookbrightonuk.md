@@ -1,6 +1,6 @@
 ---
 slug: "trm-1997thesocialfirmhandbookbrightonuk"
-id: "TRM-ENG-48768"
+id: "TRM-ENG-63297"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1997).Thesocialfirmhandbook.Brighton,UK"

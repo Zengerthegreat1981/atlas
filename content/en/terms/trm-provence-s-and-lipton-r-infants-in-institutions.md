@@ -1,6 +1,6 @@
 ---
 slug: "trm-provence-s-and-lipton-r-infants-in-institutions"
-id: "TRM-ENG-44581"
+id: "TRM-ENG-59110"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Provence, S., and Lipton, R., Infants in Institutions"

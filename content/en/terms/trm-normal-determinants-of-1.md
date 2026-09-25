@@ -1,6 +1,6 @@
 ---
 slug: "trm-normal-determinants-of-1"
-id: "TRM-ENG-48408"
+id: "TRM-ENG-62937"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "normal, determinants of, 1"

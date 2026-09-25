@@ -1,6 +1,6 @@
 ---
 slug: "trm-as-emotions"
-id: "TRM-ENG-44929"
+id: "TRM-ENG-59458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "as emotions"

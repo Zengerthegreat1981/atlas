@@ -1,6 +1,6 @@
 ---
 slug: "trm-political"
-id: "TRM-ENG-41191"
+id: "TRM-ENG-55720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "political”"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-neurosciences-17-299305-doi"
-id: "TRM-ENG-35858"
+id: "TRM-ENG-64916"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in Neurosciences, 17, 299–305. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-triandis-h-brislin-r-hui-ch-1988-crosscultural-train-emic-analysis"
-id: "TRM-ENG-36031"
+id: "TRM-ENG-65089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Triandis, H., Brislin, R., & Hui, C.H. (1988). Cross-cultural train- emic analysis"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-adult-day-care-use-joiirnal-of-gerontology"
-id: "TRM-ENG-34850"
+id: "TRM-ENG-49379"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adult day care use. Joiirnal of Gerontology"

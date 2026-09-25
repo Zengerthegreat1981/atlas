@@ -1,6 +1,6 @@
 ---
 slug: "trm-form-of-socialism"
-id: "TRM-ENG-48047"
+id: "TRM-ENG-62576"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "form of socialism"

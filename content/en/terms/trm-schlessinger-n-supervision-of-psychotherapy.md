@@ -1,6 +1,6 @@
 ---
 slug: "trm-schlessinger-n-supervision-of-psychotherapy"
-id: "TRM-ENG-44621"
+id: "TRM-ENG-59150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schlessinger, N., “Supervision of Psychotherapy"

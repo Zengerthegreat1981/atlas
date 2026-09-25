@@ -1,6 +1,6 @@
 ---
 slug: "trm-evaluation-3rd-ed-pp-493530-san-francisco-ca"
-id: "TRM-ENG-47998"
+id: "TRM-ENG-62527"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "evaluation (3rd ed., pp. 493–530). San Francisco, CA"

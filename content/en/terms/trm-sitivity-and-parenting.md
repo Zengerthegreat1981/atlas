@@ -1,6 +1,6 @@
 ---
 slug: "trm-sitivity-and-parenting"
-id: "TRM-ENG-43221"
+id: "TRM-ENG-57750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sitivity and parenting"

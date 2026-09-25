@@ -1,6 +1,6 @@
 ---
 slug: "trm-sequel"
-id: "TRM-ENG-44628"
+id: "TRM-ENG-59157"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sequel"

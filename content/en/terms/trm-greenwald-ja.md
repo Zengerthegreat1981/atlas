@@ -1,6 +1,6 @@
 ---
 slug: "trm-greenwald-ja"
-id: "TRM-ENG-40821"
+id: "TRM-ENG-55350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Greenwald JA"

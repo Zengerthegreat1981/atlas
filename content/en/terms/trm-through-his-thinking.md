@@ -1,6 +1,6 @@
 ---
 slug: "trm-through-his-thinking"
-id: "TRM-ENG-48904"
+id: "TRM-ENG-63433"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "through his thinking"

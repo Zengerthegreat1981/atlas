@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-same-reasons-as-in-any-other-therapy"
-id: "TRM-ENG-43203"
+id: "TRM-ENG-57732"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the same reasons as in any other therapy"

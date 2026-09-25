@@ -1,6 +1,6 @@
 ---
 slug: "trm-beatty-b-1998-from-laws-of-learning-to-a-science-of-values"
-id: "TRM-ENG-36602"
+id: "TRM-ENG-65660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beatty, B. (1998). From laws of learning to a science of values"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-two-forms-of-such-validity-1-internal-validity"
-id: "TRM-ENG-48985"
+id: "TRM-ENG-63514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "two forms of such validity: (1) internal validity"

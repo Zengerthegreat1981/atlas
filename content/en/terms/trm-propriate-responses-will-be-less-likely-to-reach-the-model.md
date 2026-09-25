@@ -1,6 +1,6 @@
 ---
 slug: "trm-propriate-responses-will-be-less-likely-to-reach-the-model"
-id: "TRM-ENG-45452"
+id: "TRM-ENG-59981"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "propriate responses will be less likely to reach the model"

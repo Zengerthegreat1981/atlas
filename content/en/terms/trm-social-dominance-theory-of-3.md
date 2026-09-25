@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-dominance-theory-of-3"
-id: "TRM-ENG-41696"
+id: "TRM-ENG-56225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social dominance theory of, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-reports-68-13631367-doi"
-id: "TRM-ENG-50893"
+id: "TRM-ENG-65422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological Reports, 68, 1363–1367. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-cient"
-id: "TRM-ENG-45870"
+id: "TRM-ENG-60399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cient"

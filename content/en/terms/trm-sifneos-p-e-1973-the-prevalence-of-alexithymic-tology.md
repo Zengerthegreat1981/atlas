@@ -1,6 +1,6 @@
 ---
 slug: "trm-sifneos-p-e-1973-the-prevalence-of-alexithymic-tology"
-id: "TRM-ENG-46712"
+id: "TRM-ENG-61241"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sifneos, P. E. (1973). The prevalence of ªalexithymicº tology"

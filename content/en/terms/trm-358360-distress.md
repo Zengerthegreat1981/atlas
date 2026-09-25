@@ -1,6 +1,6 @@
 ---
 slug: "trm-358360-distress"
-id: "TRM-ENG-46373"
+id: "TRM-ENG-60902"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "358±360. distress"

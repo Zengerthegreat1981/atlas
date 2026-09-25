@@ -1,6 +1,6 @@
 ---
 slug: "trm-heritability-in-the-genomic-era"
-id: "TRM-ENG-44524"
+id: "TRM-ENG-59053"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Heritability in the genomic era"

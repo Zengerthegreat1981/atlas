@@ -1,6 +1,6 @@
 ---
 slug: "trm-783-dennis-h-ed"
-id: "TRM-ENG-39435"
+id: "TRM-ENG-53964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "783. Dennis H (ed)"

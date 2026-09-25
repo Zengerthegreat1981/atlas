@@ -1,6 +1,6 @@
 ---
 slug: "trm-traits-of-3"
-id: "TRM-ENG-42017"
+id: "TRM-ENG-56546"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "traits of, 3"

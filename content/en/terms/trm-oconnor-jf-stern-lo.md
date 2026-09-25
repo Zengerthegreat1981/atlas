@@ -1,6 +1,6 @@
 ---
 slug: "trm-oconnor-jf-stern-lo"
-id: "TRM-ENG-41895"
+id: "TRM-ENG-56424"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "O’Connor JF, Stern LO"

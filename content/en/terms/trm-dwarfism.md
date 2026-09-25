@@ -1,6 +1,6 @@
 ---
 slug: "trm-dwarfism"
-id: "TRM-ENG-35651"
+id: "TRM-ENG-64709"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dwarfism"

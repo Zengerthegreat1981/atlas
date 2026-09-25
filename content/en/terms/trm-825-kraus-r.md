@@ -1,6 +1,6 @@
 ---
 slug: "trm-825-kraus-r"
-id: "TRM-ENG-39485"
+id: "TRM-ENG-54014"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "825. Kraus R"

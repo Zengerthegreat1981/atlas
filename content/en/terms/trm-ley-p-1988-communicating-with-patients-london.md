@@ -1,6 +1,6 @@
 ---
 slug: "trm-ley-p-1988-communicating-with-patients-london"
-id: "TRM-ENG-46606"
+id: "TRM-ENG-61135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ley, P. (1988). Communicating with patients. London"

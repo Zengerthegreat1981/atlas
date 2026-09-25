@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcfallrm1976behavioraltraining"
-id: "TRM-ENG-49089"
+id: "TRM-ENG-63618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McFall,R.M.(1976).Behavioraltraining"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-green-t-f-1"
-id: "TRM-ENG-46714"
+id: "TRM-ENG-61243"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Green, T. F., 1"

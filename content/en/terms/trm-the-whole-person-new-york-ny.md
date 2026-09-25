@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-whole-person-new-york-ny"
-id: "TRM-ENG-43874"
+id: "TRM-ENG-58403"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the whole person. New York, NY"

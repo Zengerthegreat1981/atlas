@@ -1,6 +1,6 @@
 ---
 slug: "trm-an-example"
-id: "TRM-ENG-35289"
+id: "TRM-ENG-49818"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "An example"

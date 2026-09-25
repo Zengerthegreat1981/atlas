@@ -1,6 +1,6 @@
 ---
 slug: "trm-katz-mm-lyerly-sb"
-id: "TRM-ENG-41210"
+id: "TRM-ENG-55739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Katz MM, Lyerly SB"

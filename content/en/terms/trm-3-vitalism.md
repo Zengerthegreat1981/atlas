@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-vitalism"
-id: "TRM-ENG-44173"
+id: "TRM-ENG-58702"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(3) vitalism"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wolpe-j-rowan-v-c-1988-panic-disorder"
-id: "TRM-ENG-39049"
+id: "TRM-ENG-53578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wolpe, J., & Rowan, V. C. (1988). Panic disorder"

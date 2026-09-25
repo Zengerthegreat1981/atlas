@@ -1,6 +1,6 @@
 ---
 slug: "trm-congruency"
-id: "TRM-ENG-47810"
+id: "TRM-ENG-62339"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "congruency"

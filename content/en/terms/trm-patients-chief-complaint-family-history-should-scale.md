@@ -1,6 +1,6 @@
 ---
 slug: "trm-patients-chief-complaint-family-history-should-scale"
-id: "TRM-ENG-41120"
+id: "TRM-ENG-55649"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "patient’s chief complaint. Family history should Scale"

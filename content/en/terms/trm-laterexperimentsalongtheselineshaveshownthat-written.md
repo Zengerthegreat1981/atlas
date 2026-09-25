@@ -1,6 +1,6 @@
 ---
 slug: "trm-laterexperimentsalongtheselineshaveshownthat-written"
-id: "TRM-ENG-37026"
+id: "TRM-ENG-66084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Laterexperimentsalongtheselineshaveshownthat written"

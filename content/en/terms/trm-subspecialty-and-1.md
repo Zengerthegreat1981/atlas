@@ -1,6 +1,6 @@
 ---
 slug: "trm-subspecialty-and-1"
-id: "TRM-ENG-41813"
+id: "TRM-ENG-56342"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "subspecialty and, 1"

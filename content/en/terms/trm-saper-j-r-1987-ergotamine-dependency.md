@@ -1,6 +1,6 @@
 ---
 slug: "trm-saper-j-r-1987-ergotamine-dependency"
-id: "TRM-ENG-46702"
+id: "TRM-ENG-61231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Saper, J. R. (1987). Ergotamine dependency"

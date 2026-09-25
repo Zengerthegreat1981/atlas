@@ -1,6 +1,6 @@
 ---
 slug: "trm-healthcare-inequities-example-of-3"
-id: "TRM-ENG-40365"
+id: "TRM-ENG-54894"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "healthcare inequities example of, 3"

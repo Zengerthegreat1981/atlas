@@ -1,6 +1,6 @@
 ---
 slug: "trm-cits-associated-with-specific-dimensions-of-bpd-der"
-id: "TRM-ENG-42733"
+id: "TRM-ENG-57262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cits associated with specific dimensions of BPD der"

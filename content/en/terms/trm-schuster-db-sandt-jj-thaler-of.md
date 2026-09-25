@@ -1,6 +1,6 @@
 ---
 slug: "trm-schuster-db-sandt-jj-thaler-of"
-id: "TRM-ENG-42284"
+id: "TRM-ENG-56813"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schuster DB, Sandt JJ, Thaler OF"

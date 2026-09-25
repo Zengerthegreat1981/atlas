@@ -1,6 +1,6 @@
 ---
 slug: "trm-pecially-the-following"
-id: "TRM-ENG-36841"
+id: "TRM-ENG-65899"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "pecially the following"

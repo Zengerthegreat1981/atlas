@@ -1,6 +1,6 @@
 ---
 slug: "trm-autism"
-id: "TRM-ENG-52069"
+id: "TRM-ENG-66598"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Autism"

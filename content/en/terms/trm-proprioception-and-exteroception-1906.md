@@ -1,6 +1,6 @@
 ---
 slug: "trm-proprioception-and-exteroception-1906"
-id: "TRM-ENG-38133"
+id: "TRM-ENG-52662"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "proprioception and exteroception (1906"

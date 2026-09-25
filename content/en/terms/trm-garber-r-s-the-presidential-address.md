@@ -1,6 +1,6 @@
 ---
 slug: "trm-garber-r-s-the-presidential-address"
-id: "TRM-ENG-44399"
+id: "TRM-ENG-58928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Garber, R. S., “The Presidential Address"

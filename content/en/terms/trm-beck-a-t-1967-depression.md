@@ -1,6 +1,6 @@
 ---
 slug: "trm-beck-a-t-1967-depression"
-id: "TRM-ENG-37677"
+id: "TRM-ENG-66735"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Beck, A. T. (1967). Depression"

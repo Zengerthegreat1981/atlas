@@ -1,6 +1,6 @@
 ---
 slug: "trm-visual-objects-and-visual-scenes-such-as-their-color-the-brain"
-id: "TRM-ENG-45679"
+id: "TRM-ENG-60208"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "visual objects and visual scenes, such as their color, the brain"

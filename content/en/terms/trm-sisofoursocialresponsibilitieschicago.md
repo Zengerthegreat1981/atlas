@@ -1,6 +1,6 @@
 ---
 slug: "trm-sisofoursocialresponsibilitieschicago"
-id: "TRM-ENG-46012"
+id: "TRM-ENG-60541"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sisofOurSocialResponsibilities.Chicago"

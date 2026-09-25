@@ -1,6 +1,6 @@
 ---
 slug: "trm-tive-strategies"
-id: "TRM-ENG-43372"
+id: "TRM-ENG-57901"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tive strategies"

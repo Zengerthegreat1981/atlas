@@ -1,6 +1,6 @@
 ---
 slug: "trm-tive"
-id: "TRM-ENG-48929"
+id: "TRM-ENG-63458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tive"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-schwartz-ek-wolf-a"
-id: "TRM-ENG-42294"
+id: "TRM-ENG-56823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schwartz EK, Wolf A"

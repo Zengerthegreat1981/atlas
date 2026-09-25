@@ -1,6 +1,6 @@
 ---
 slug: "trm-area"
-id: "TRM-ENG-44924"
+id: "TRM-ENG-59453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "area"

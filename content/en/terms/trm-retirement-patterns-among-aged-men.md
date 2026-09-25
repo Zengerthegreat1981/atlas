@@ -1,6 +1,6 @@
 ---
 slug: "trm-retirement-patterns-among-aged-men"
-id: "TRM-ENG-44814"
+id: "TRM-ENG-59343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, “Retirement Patterns among Aged Men"

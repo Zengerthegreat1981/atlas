@@ -1,6 +1,6 @@
 ---
 slug: "trm-science-san-francisco-ca"
-id: "TRM-ENG-48686"
+id: "TRM-ENG-63215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "science. San Francisco, CA"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-often-think-about-cows-in-the-absence-of-cows"
-id: "TRM-ENG-45364"
+id: "TRM-ENG-59893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "often think about cows in the absence of cows"

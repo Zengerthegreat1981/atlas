@@ -1,6 +1,6 @@
 ---
 slug: "trm-medical-news"
-id: "TRM-ENG-41668"
+id: "TRM-ENG-56197"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Medical news"

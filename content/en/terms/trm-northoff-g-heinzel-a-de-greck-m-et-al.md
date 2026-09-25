@@ -1,6 +1,6 @@
 ---
 slug: "trm-northoff-g-heinzel-a-de-greck-m-et-al"
-id: "TRM-ENG-47911"
+id: "TRM-ENG-62440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Northoff G, Heinzel A, de Greck M, et al"

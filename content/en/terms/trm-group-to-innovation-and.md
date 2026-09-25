@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-to-innovation-and"
-id: "TRM-ENG-35044"
+id: "TRM-ENG-49573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "group to innovation and"

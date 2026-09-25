@@ -1,6 +1,6 @@
 ---
 slug: "trm-limit-of-liabilitydisclaimer-of-warranty"
-id: "TRM-ENG-35814"
+id: "TRM-ENG-64872"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Limit of Liability/Disclaimer of Warranty"

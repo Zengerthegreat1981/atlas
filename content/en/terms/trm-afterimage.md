@@ -1,6 +1,6 @@
 ---
 slug: "trm-afterimage"
-id: "TRM-ENG-52024"
+id: "TRM-ENG-66553"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Afterimage"

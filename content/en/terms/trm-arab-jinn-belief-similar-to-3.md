@@ -1,6 +1,6 @@
 ---
 slug: "trm-arab-jinn-belief-similar-to-3"
-id: "TRM-ENG-37611"
+id: "TRM-ENG-52140"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arab jinn belief similar to, 3"

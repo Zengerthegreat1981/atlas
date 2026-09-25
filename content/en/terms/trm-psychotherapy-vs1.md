@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-vs1"
-id: "TRM-ENG-41369"
+id: "TRM-ENG-55898"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy vs.,1"

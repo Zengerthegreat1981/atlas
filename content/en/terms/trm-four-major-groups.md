@@ -1,6 +1,6 @@
 ---
 slug: "trm-four-major-groups"
-id: "TRM-ENG-36324"
+id: "TRM-ENG-50853"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "four major groups"

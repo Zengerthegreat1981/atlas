@@ -1,6 +1,6 @@
 ---
 slug: "trm-stetter-f-kupper-s-2002-autogenic-training"
-id: "TRM-ENG-51068"
+id: "TRM-ENG-65597"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stetter, F., & Kupper, S. (2002). Autogenic training"

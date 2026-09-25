@@ -1,6 +1,6 @@
 ---
 slug: "trm-applicationnew-york"
-id: "TRM-ENG-36152"
+id: "TRM-ENG-50681"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "application.New York"

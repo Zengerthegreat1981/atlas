@@ -1,6 +1,6 @@
 ---
 slug: "trm-cortex"
-id: "TRM-ENG-34801"
+id: "TRM-ENG-63859"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cortex"

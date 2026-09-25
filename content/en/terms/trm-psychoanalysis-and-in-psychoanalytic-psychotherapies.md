@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychoanalysis-and-in-psychoanalytic-psychotherapies"
-id: "TRM-ENG-36910"
+id: "TRM-ENG-65968"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychoanalysis and in psychoanalytic psychotherapies"

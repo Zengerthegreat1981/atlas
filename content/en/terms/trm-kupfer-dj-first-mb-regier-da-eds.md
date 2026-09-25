@@ -1,6 +1,6 @@
 ---
 slug: "trm-kupfer-dj-first-mb-regier-da-eds"
-id: "TRM-ENG-47814"
+id: "TRM-ENG-62343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kupfer DJ, First MB, Regier DA (eds)"

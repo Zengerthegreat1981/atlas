@@ -1,6 +1,6 @@
 ---
 slug: "trm-brownmiller-susan-3"
-id: "TRM-ENG-37732"
+id: "TRM-ENG-66790"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brownmiller, Susan, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-pedagogical-encounter"
-id: "TRM-ENG-48848"
+id: "TRM-ENG-63377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the pedagogical encounter"

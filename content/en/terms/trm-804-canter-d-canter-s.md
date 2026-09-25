@@ -1,6 +1,6 @@
 ---
 slug: "trm-804-canter-d-canter-s"
-id: "TRM-ENG-39463"
+id: "TRM-ENG-53992"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "804. Canter D, Canter S"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-weiskrantz-lawrence-larry-1"
-id: "TRM-ENG-44848"
+id: "TRM-ENG-59377"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Weiskrantz, Lawrence (Larry), 1"

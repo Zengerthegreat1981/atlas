@@ -1,6 +1,6 @@
 ---
 slug: "trm-physiological-mechanisms-that-underlie-them"
-id: "TRM-ENG-45418"
+id: "TRM-ENG-59947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physiological mechanisms that underlie them"

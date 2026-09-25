@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-drug-paraphernalia"
-id: "TRM-ENG-34972"
+id: "TRM-ENG-64030"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or drug paraphernalia"

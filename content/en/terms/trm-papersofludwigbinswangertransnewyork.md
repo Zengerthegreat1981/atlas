@@ -1,6 +1,6 @@
 ---
 slug: "trm-papersofludwigbinswangertransnewyork"
-id: "TRM-ENG-38077"
+id: "TRM-ENG-67135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "papersofLudwigBinswanger(trans).NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-one-is-the-bodys-surface"
-id: "TRM-ENG-34655"
+id: "TRM-ENG-63713"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "One is the body’s surface"

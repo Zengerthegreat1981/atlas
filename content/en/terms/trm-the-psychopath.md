@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-psychopath"
-id: "TRM-ENG-48632"
+id: "TRM-ENG-63161"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Psychopath"

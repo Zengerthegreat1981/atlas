@@ -1,6 +1,6 @@
 ---
 slug: "trm-fink-p-goldman-m-levick-m"
-id: "TRM-ENG-40532"
+id: "TRM-ENG-55061"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fink P, Goldman M, Levick M"

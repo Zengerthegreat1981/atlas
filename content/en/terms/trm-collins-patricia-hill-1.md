@@ -1,6 +1,6 @@
 ---
 slug: "trm-collins-patricia-hill-1"
-id: "TRM-ENG-46423"
+id: "TRM-ENG-60952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Collins, Patricia Hill, 1"

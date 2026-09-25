@@ -1,6 +1,6 @@
 ---
 slug: "trm-feminism-and-1"
-id: "TRM-ENG-40197"
+id: "TRM-ENG-54726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "feminism and, 1"

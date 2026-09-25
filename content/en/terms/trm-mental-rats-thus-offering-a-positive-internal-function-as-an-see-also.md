@@ -1,6 +1,6 @@
 ---
 slug: "trm-mental-rats-thus-offering-a-positive-internal-function-as-an-see-also"
-id: "TRM-ENG-36709"
+id: "TRM-ENG-51238"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mental rats, thus offering a positive internal function as an See also"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-scheffler-i-1985-of-human-potential"
-id: "TRM-ENG-47226"
+id: "TRM-ENG-61755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scheffler, I. (1985). Of human potential"

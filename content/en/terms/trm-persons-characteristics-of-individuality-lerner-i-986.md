@@ -1,6 +1,6 @@
 ---
 slug: "trm-persons-characteristics-of-individuality-lerner-i-986"
-id: "TRM-ENG-35224"
+id: "TRM-ENG-64282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "person’s characteristics of individuality (Lerner, I 986"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-spock-b"
-id: "TRM-ENG-42434"
+id: "TRM-ENG-56963"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spock B"

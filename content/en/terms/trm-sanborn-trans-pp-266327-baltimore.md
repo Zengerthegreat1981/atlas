@@ -1,6 +1,6 @@
 ---
 slug: "trm-sanborn-trans-pp-266327-baltimore"
-id: "TRM-ENG-37255"
+id: "TRM-ENG-51784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sanborn, Trans.) (pp. 266–327). Baltimore"

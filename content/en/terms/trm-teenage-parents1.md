@@ -1,6 +1,6 @@
 ---
 slug: "trm-teenage-parents1"
-id: "TRM-ENG-38870"
+id: "TRM-ENG-53399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Teenage parents,1"

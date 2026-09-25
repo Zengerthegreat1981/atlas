@@ -1,6 +1,6 @@
 ---
 slug: "trm-hucker-sj-1997-sexual-sadism"
-id: "TRM-ENG-35749"
+id: "TRM-ENG-64807"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hucker, S.J. (1997). Sexual sadism"

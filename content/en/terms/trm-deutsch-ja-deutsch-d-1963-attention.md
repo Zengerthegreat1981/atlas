@@ -1,6 +1,6 @@
 ---
 slug: "trm-deutsch-ja-deutsch-d-1963-attention"
-id: "TRM-ENG-35643"
+id: "TRM-ENG-64701"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Deutsch, J.A., & Deutsch, D. (1963). Attention"

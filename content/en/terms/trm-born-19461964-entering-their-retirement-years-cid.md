@@ -1,6 +1,6 @@
 ---
 slug: "trm-born-19461964-entering-their-retirement-years-cid"
-id: "TRM-ENG-45719"
+id: "TRM-ENG-60248"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(born 1946–1964) entering their retirement years. (cid"

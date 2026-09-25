@@ -1,6 +1,6 @@
 ---
 slug: "trm-room"
-id: "TRM-ENG-41548"
+id: "TRM-ENG-56077"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "room"

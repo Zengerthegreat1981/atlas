@@ -1,6 +1,6 @@
 ---
 slug: "trm-transparence-et-lobstacle-jeanjacques-rousseau"
-id: "TRM-ENG-48967"
+id: "TRM-ENG-63496"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "transparence et l’obstacle [Jean-Jacques Rousseau"

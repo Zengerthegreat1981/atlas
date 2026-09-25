@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-social-and-comcnunity-roles-of-persons-with-mental-syndrome"
-id: "TRM-ENG-35382"
+id: "TRM-ENG-64440"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the social and comcnunity roles of persons with mental syndrome"

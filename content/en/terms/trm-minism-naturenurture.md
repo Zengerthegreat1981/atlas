@@ -1,6 +1,6 @@
 ---
 slug: "trm-minism-naturenurture"
-id: "TRM-ENG-43736"
+id: "TRM-ENG-58265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "minism; nature–nurture."

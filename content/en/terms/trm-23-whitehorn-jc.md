@@ -1,6 +1,6 @@
 ---
 slug: "trm-23-whitehorn-jc"
-id: "TRM-ENG-38750"
+id: "TRM-ENG-53279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "23. Whitehorn JC"

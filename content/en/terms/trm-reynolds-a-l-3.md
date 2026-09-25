@@ -1,6 +1,6 @@
 ---
 slug: "trm-reynolds-a-l-3"
-id: "TRM-ENG-38677"
+id: "TRM-ENG-53206"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Reynolds, A. L., 3"

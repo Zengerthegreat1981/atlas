@@ -1,6 +1,6 @@
 ---
 slug: "trm-life-siraations"
-id: "TRM-ENG-45574"
+id: "TRM-ENG-60103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "life siraations"

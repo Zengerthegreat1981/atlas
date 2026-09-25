@@ -1,6 +1,6 @@
 ---
 slug: "trm-anarchism-1"
-id: "TRM-ENG-46235"
+id: "TRM-ENG-60764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anarchism, 1"

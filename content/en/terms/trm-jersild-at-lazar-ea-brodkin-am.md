@@ -1,6 +1,6 @@
 ---
 slug: "trm-jersild-at-lazar-ea-brodkin-am"
-id: "TRM-ENG-41129"
+id: "TRM-ENG-55658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jersild AT, Lazar EA, Brodkin AM"

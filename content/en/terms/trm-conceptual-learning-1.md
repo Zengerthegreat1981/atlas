@@ -1,6 +1,6 @@
 ---
 slug: "trm-conceptual-learning-1"
-id: "TRM-ENG-44394"
+id: "TRM-ENG-58923"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Conceptual learning, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-streampsycholinguistics"
-id: "TRM-ENG-38275"
+id: "TRM-ENG-52804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "streampsycholinguistics"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-oxford"
-id: "TRM-ENG-45757"
+id: "TRM-ENG-60286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Oxford"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-editors-note"
-id: "TRM-ENG-44702"
+id: "TRM-ENG-59231"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "[1] Editor’s Note"

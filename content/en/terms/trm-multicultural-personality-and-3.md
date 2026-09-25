@@ -1,6 +1,6 @@
 ---
 slug: "trm-multicultural-personality-and-3"
-id: "TRM-ENG-40902"
+id: "TRM-ENG-55431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "multicultural personality and, 3"

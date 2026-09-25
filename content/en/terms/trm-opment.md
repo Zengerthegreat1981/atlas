@@ -1,6 +1,6 @@
 ---
 slug: "trm-opment"
-id: "TRM-ENG-36349"
+id: "TRM-ENG-50878"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "opment"

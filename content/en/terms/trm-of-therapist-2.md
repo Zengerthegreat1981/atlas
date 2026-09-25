@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-therapist-2"
-id: "TRM-ENG-41018"
+id: "TRM-ENG-55547"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of therapist, 2"

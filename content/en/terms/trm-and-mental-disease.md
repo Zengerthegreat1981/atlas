@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-mental-disease"
-id: "TRM-ENG-42954"
+id: "TRM-ENG-57483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and Mental Disease"

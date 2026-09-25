@@ -1,6 +1,6 @@
 ---
 slug: "trm-j-med-342"
-id: "TRM-ENG-47755"
+id: "TRM-ENG-62284"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "J Med 342"

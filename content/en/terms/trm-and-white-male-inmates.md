@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-white-male-inmates"
-id: "TRM-ENG-42644"
+id: "TRM-ENG-57173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and white male inmates"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-768-landgarten-hb"
-id: "TRM-ENG-39418"
+id: "TRM-ENG-53947"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "768. Landgarten HB"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-themselvesbytheconstructionofanonwhiteother"
-id: "TRM-ENG-38326"
+id: "TRM-ENG-52855"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "themselvesbytheconstructionofanon-white“other”"

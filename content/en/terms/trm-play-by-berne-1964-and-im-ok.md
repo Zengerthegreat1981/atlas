@@ -1,6 +1,6 @@
 ---
 slug: "trm-play-by-berne-1964-and-im-ok"
-id: "TRM-ENG-41986"
+id: "TRM-ENG-56515"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Play by Berne (1964) and I’m OK"

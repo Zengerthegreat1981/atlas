@@ -1,6 +1,6 @@
 ---
 slug: "trm-carducci-bj-1999-shyness"
-id: "TRM-ENG-35615"
+id: "TRM-ENG-64673"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carducci, B.J. (1999). Shyness"

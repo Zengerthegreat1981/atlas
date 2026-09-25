@@ -1,6 +1,6 @@
 ---
 slug: "trm-replicate-it-if-desired"
-id: "TRM-ENG-45591"
+id: "TRM-ENG-60120"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "replicate it if desired."

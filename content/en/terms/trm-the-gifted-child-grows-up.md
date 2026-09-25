@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-gifted-child-grows-up"
-id: "TRM-ENG-37352"
+id: "TRM-ENG-51881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The gifted child grows up"

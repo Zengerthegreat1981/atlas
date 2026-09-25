@@ -1,6 +1,6 @@
 ---
 slug: "trm-kinsbourne-m-hicks-re-1978-functional-cerebral-space"
-id: "TRM-ENG-35790"
+id: "TRM-ENG-64848"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kinsbourne, M., & Hicks, R.E. (1978). Functional cerebral space"

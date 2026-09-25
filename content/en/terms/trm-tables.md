@@ -1,6 +1,6 @@
 ---
 slug: "trm-tables"
-id: "TRM-ENG-48782"
+id: "TRM-ENG-63311"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tables"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-chein-i-gerard-dl-lee-rs-rosenfeld-e"
-id: "TRM-ENG-40167"
+id: "TRM-ENG-54696"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chein I, Gerard DL, Lee RS, Rosenfeld E"

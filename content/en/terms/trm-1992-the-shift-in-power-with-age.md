@@ -1,6 +1,6 @@
 ---
 slug: "trm-1992-the-shift-in-power-with-age"
-id: "TRM-ENG-37347"
+id: "TRM-ENG-51876"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1992). The shift in power with age"

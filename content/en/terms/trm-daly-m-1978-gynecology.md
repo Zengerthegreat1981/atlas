@@ -1,6 +1,6 @@
 ---
 slug: "trm-daly-m-1978-gynecology"
-id: "TRM-ENG-46488"
+id: "TRM-ENG-61017"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Daly, M. (1978). Gyn/Ecology"

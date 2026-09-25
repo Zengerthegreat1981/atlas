@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-psychiatric-association"
-id: "TRM-ENG-39684"
+id: "TRM-ENG-54213"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Psychiatric Association"

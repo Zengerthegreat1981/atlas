@@ -1,6 +1,6 @@
 ---
 slug: "trm-illumination-of-a-large-surface-area-cf"
-id: "TRM-ENG-52573"
+id: "TRM-ENG-67102"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "illumination of a large surface area (cf"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-atkinson-paul-1"
-id: "TRM-ENG-46254"
+id: "TRM-ENG-60783"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Atkinson, Paul, 1"

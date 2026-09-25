@@ -1,6 +1,6 @@
 ---
 slug: "trm-equivalence-of-target-populations"
-id: "TRM-ENG-46592"
+id: "TRM-ENG-61121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Equivalence of target populations"

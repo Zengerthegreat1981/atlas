@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-possess-them"
-id: "TRM-ENG-45569"
+id: "TRM-ENG-60098"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that possess them"

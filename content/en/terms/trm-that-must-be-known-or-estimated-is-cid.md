@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-must-be-known-or-estimated-is-cid"
-id: "TRM-ENG-36163"
+id: "TRM-ENG-50692"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that must be known or estimated is (cid"

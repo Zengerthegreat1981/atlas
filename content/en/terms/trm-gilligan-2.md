@@ -1,6 +1,6 @@
 ---
 slug: "trm-gilligan-2"
-id: "TRM-ENG-46685"
+id: "TRM-ENG-61214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gilligan, 2"

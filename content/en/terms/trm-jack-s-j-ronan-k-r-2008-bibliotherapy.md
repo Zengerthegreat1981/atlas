@@ -1,6 +1,6 @@
 ---
 slug: "trm-jack-s-j-ronan-k-r-2008-bibliotherapy"
-id: "TRM-ENG-50593"
+id: "TRM-ENG-65122"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jack, S. J., & Ronan, K. R. (2008). Bibliotherapy"

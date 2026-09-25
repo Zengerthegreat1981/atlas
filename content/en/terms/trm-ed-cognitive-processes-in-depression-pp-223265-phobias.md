@@ -1,6 +1,6 @@
 ---
 slug: "trm-ed-cognitive-processes-in-depression-pp-223265-phobias"
-id: "TRM-ENG-48773"
+id: "TRM-ENG-63302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Ed.), Cognitive processes in depression (pp. 223±265). phobias"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-be-inherited"
-id: "TRM-ENG-34761"
+id: "TRM-ENG-63819"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "be inherited"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hyler-s-skodol-a-kellman-d-oldham-j-ros-amination"
-id: "TRM-ENG-42412"
+id: "TRM-ENG-56941"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hyler, S., Skodol, A., Kellman, D., Oldham, J., & Ros- amination"

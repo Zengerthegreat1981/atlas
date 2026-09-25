@@ -1,6 +1,6 @@
 ---
 slug: "trm-donald-g-patersons-work-in-4"
-id: "TRM-ENG-37976"
+id: "TRM-ENG-52505"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Donald G. Paterson’s work in, 4"

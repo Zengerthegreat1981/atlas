@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-vulnerable-narcissism"
-id: "TRM-ENG-43619"
+id: "TRM-ENG-58148"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and vulnerable narcissism"

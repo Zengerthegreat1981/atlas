@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-clinicians-typically-consider-in-treatment"
-id: "TRM-ENG-43295"
+id: "TRM-ENG-57824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that clinicians typically consider in treatment"

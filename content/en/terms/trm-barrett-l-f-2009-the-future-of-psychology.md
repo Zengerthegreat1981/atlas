@@ -1,6 +1,6 @@
 ---
 slug: "trm-barrett-l-f-2009-the-future-of-psychology"
-id: "TRM-ENG-44325"
+id: "TRM-ENG-58854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barrett, L. F. (2009). The future of psychology"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-within-the-framework-of-classical-conditioning"
-id: "TRM-ENG-42164"
+id: "TRM-ENG-56693"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "within the framework of classical conditioning"

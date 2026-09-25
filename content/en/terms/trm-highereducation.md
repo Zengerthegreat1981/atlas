@@ -1,6 +1,6 @@
 ---
 slug: "trm-highereducation"
-id: "TRM-ENG-36897"
+id: "TRM-ENG-65955"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "HigherEducation"

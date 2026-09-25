@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavioral-impairment"
-id: "TRM-ENG-46037"
+id: "TRM-ENG-60566"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavioral impairment"

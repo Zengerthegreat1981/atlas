@@ -1,6 +1,6 @@
 ---
 slug: "trm-goal-direction-2"
-id: "TRM-ENG-44507"
+id: "TRM-ENG-59036"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Goal direction, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rights-bloomsburys-prophet"
-id: "TRM-ENG-45779"
+id: "TRM-ENG-60308"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rights; Bloomsbury’s Prophet"

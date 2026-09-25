@@ -1,6 +1,6 @@
 ---
 slug: "trm-cluster-aoddeccentric-and-comorbidity-of-2"
-id: "TRM-ENG-39541"
+id: "TRM-ENG-54070"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cluster A(odd-eccentric) and, comorbidity of, 2"

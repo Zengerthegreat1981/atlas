@@ -1,6 +1,6 @@
 ---
 slug: "trm-have-led-to-a-paradoxical-state-of-affairs"
-id: "TRM-ENG-36506"
+id: "TRM-ENG-65564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "have led to a paradoxical state of affairs"

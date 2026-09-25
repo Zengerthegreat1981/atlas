@@ -1,6 +1,6 @@
 ---
 slug: "trm-brett-ea-ostroff-r"
-id: "TRM-ENG-40027"
+id: "TRM-ENG-54556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brett EA, Ostroff R"

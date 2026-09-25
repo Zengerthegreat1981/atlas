@@ -1,6 +1,6 @@
 ---
 slug: "trm-nents"
-id: "TRM-ENG-36742"
+id: "TRM-ENG-65800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nents"

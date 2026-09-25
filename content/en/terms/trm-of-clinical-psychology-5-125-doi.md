@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-clinical-psychology-5-125-doi"
-id: "TRM-ENG-43758"
+id: "TRM-ENG-58287"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of Clinical Psychology, 5, 1–25. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hence-motivating-their-multimodal-combination-alpha"
-id: "TRM-ENG-35840"
+id: "TRM-ENG-50369"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hence motivating their multimodal combination. alpha"

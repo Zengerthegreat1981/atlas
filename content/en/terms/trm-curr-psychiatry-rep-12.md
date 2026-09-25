@@ -1,6 +1,6 @@
 ---
 slug: "trm-curr-psychiatry-rep-12"
-id: "TRM-ENG-47588"
+id: "TRM-ENG-62117"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Curr Psychiatry Rep 12"

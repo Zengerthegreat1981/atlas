@@ -1,6 +1,6 @@
 ---
 slug: "trm-disconnection-and-cerebral-function-pp-260285-springfield"
-id: "TRM-ENG-37696"
+id: "TRM-ENG-52225"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disconnection and cerebral function (pp. 260–285). Springfield"

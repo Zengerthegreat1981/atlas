@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapeutic-self-2"
-id: "TRM-ENG-51897"
+id: "TRM-ENG-66426"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "therapeutic self, 2"

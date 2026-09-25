@@ -1,6 +1,6 @@
 ---
 slug: "trm-soul-the-film-has-reversed-the-natural-order"
-id: "TRM-ENG-38265"
+id: "TRM-ENG-52794"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "soul.” The film has reversed the natural order"

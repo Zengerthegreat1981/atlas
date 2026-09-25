@@ -1,6 +1,6 @@
 ---
 slug: "trm-turalpoliticsofselfunderstandingnewhaven"
-id: "TRM-ENG-38398"
+id: "TRM-ENG-52927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "turalpoliticsofself-understanding.NewHaven"

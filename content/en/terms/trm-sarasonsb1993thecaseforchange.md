@@ -1,6 +1,6 @@
 ---
 slug: "trm-sarasonsb1993thecaseforchange"
-id: "TRM-ENG-49168"
+id: "TRM-ENG-63697"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sarason,S.B.(1993).Thecaseforchange"

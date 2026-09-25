@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-5562-princeton-nj"
-id: "TRM-ENG-46140"
+id: "TRM-ENG-60669"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 55–62). Princeton, NJ"

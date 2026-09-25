@@ -1,6 +1,6 @@
 ---
 slug: "trm-9-actingout"
-id: "TRM-ENG-39566"
+id: "TRM-ENG-54095"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "9. Acting-out"

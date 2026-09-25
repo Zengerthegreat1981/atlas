@@ -1,6 +1,6 @@
 ---
 slug: "trm-russell-mah-raw-m-jarvis-mj"
-id: "TRM-ENG-42207"
+id: "TRM-ENG-56736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Russell MAH, Raw M, Jarvis MJ"

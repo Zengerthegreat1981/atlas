@@ -1,6 +1,6 @@
 ---
 slug: "trm-gold-s-severino-eds-premenstrual-dysphorias"
-id: "TRM-ENG-46528"
+id: "TRM-ENG-61057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gold & S. Severino (Eds.), Premenstrual Dysphorias"

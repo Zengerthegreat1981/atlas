@@ -1,6 +1,6 @@
 ---
 slug: "trm-motives"
-id: "TRM-ENG-43740"
+id: "TRM-ENG-58269"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "motives."

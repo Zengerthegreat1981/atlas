@@ -1,6 +1,6 @@
 ---
 slug: "trm-pumpianmindlin-e"
-id: "TRM-ENG-42035"
+id: "TRM-ENG-56564"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Pumpian-Mindlin E"

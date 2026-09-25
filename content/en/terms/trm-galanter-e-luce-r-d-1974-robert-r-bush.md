@@ -1,6 +1,6 @@
 ---
 slug: "trm-galanter-e-luce-r-d-1974-robert-r-bush"
-id: "TRM-ENG-36830"
+id: "TRM-ENG-51359"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Galanter, E., & Luce, R. D. (1974). Robert R. Bush"

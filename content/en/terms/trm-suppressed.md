@@ -1,6 +1,6 @@
 ---
 slug: "trm-suppressed"
-id: "TRM-ENG-35061"
+id: "TRM-ENG-64119"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "suppressed"

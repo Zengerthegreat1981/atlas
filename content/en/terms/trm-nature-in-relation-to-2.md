@@ -1,6 +1,6 @@
 ---
 slug: "trm-nature-in-relation-to-2"
-id: "TRM-ENG-48396"
+id: "TRM-ENG-62925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nature in relation to, 2"

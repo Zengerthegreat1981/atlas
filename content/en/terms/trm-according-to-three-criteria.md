@@ -1,6 +1,6 @@
 ---
 slug: "trm-according-to-three-criteria"
-id: "TRM-ENG-47536"
+id: "TRM-ENG-62065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "according to three criteria"

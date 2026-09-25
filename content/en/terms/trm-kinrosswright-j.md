@@ -1,6 +1,6 @@
 ---
 slug: "trm-kinrosswright-j"
-id: "TRM-ENG-41243"
+id: "TRM-ENG-55772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kinross-Wright J"

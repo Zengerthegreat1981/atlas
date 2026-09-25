@@ -1,6 +1,6 @@
 ---
 slug: "trm-serrano-v-priest-1971-2"
-id: "TRM-ENG-47264"
+id: "TRM-ENG-61793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Serrano v. Priest (1971), 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-totypes-exemplars-and-theories"
-id: "TRM-ENG-45646"
+id: "TRM-ENG-60175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "totypes, exemplars, and theories"

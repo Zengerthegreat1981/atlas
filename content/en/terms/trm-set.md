@@ -1,6 +1,6 @@
 ---
 slug: "trm-set"
-id: "TRM-ENG-36115"
+id: "TRM-ENG-50644"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "set"

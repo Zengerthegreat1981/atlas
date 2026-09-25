@@ -1,6 +1,6 @@
 ---
 slug: "trm-readjustment-counseling-outreach-services-of-1"
-id: "TRM-ENG-41432"
+id: "TRM-ENG-55961"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "readjustment counseling, outreach services of, 1"

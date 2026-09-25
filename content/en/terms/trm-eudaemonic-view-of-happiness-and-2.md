@@ -1,6 +1,6 @@
 ---
 slug: "trm-eudaemonic-view-of-happiness-and-2"
-id: "TRM-ENG-40111"
+id: "TRM-ENG-54640"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "eudaemonic view of happiness and, 2"

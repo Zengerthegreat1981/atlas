@@ -1,6 +1,6 @@
 ---
 slug: "trm-research-ideas-into-concise-problem-statements-the-effect"
-id: "TRM-ENG-36079"
+id: "TRM-ENG-65137"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "research ideas into concise problem statements. The effect"

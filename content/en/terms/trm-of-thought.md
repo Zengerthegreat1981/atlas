@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-thought"
-id: "TRM-ENG-48456"
+id: "TRM-ENG-62985"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of thought"

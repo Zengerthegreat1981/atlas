@@ -1,6 +1,6 @@
 ---
 slug: "trm-mechanical-walkers"
-id: "TRM-ENG-45154"
+id: "TRM-ENG-59683"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mechanical walkers"

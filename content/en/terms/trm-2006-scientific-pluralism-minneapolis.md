@@ -1,6 +1,6 @@
 ---
 slug: "trm-2006-scientific-pluralism-minneapolis"
-id: "TRM-ENG-42235"
+id: "TRM-ENG-56764"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2006). Scientific pluralism. Minneapolis"

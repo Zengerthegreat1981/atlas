@@ -1,6 +1,6 @@
 ---
 slug: "trm-beneficial-to-users"
-id: "TRM-ENG-34764"
+id: "TRM-ENG-49293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beneficial to users"

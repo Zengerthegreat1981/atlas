@@ -1,6 +1,6 @@
 ---
 slug: "trm-merlis-s-beyel-v-fiorentino-d-et-al"
-id: "TRM-ENG-41697"
+id: "TRM-ENG-56226"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Merlis S, Beyel V, Fiorentino D, et al"

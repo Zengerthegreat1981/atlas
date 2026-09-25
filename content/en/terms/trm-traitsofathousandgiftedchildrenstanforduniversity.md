@@ -1,6 +1,6 @@
 ---
 slug: "trm-traitsofathousandgiftedchildrenstanforduniversity"
-id: "TRM-ENG-38392"
+id: "TRM-ENG-52921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "traitsofathousandgiftedchildren.StanfordUniversity"

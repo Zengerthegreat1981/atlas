@@ -1,6 +1,6 @@
 ---
 slug: "trm-variance-components-cid"
-id: "TRM-ENG-36242"
+id: "TRM-ENG-65300"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "variance components (cid"

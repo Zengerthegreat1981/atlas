@@ -1,6 +1,6 @@
 ---
 slug: "trm-code-washington-dc"
-id: "TRM-ENG-49346"
+id: "TRM-ENG-63875"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "code. Washington, DC"

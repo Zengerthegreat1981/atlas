@@ -1,6 +1,6 @@
 ---
 slug: "trm-parenting-to-foster-an-attachment-relationship-lands"
-id: "TRM-ENG-43113"
+id: "TRM-ENG-57642"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "parenting to foster an attachment relationship. lands"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-murraydj1990acanadianpioneerofcomparativepsychology"
-id: "TRM-ENG-37103"
+id: "TRM-ENG-51632"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Murray,D.J.(1990).ACanadianpioneerofcomparativepsychology"

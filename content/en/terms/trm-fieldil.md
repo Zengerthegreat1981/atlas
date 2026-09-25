@@ -1,6 +1,6 @@
 ---
 slug: "trm-fieldil"
-id: "TRM-ENG-37763"
+id: "TRM-ENG-66821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "field,IL"

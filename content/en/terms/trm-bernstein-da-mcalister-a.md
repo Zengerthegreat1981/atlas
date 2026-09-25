@@ -1,6 +1,6 @@
 ---
 slug: "trm-bernstein-da-mcalister-a"
-id: "TRM-ENG-39915"
+id: "TRM-ENG-54444"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bernstein DA, McAlister A"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-jacobins"
-id: "TRM-ENG-48825"
+id: "TRM-ENG-63354"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Jacobins"

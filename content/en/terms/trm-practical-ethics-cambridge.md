@@ -1,6 +1,6 @@
 ---
 slug: "trm-practical-ethics-cambridge"
-id: "TRM-ENG-46089"
+id: "TRM-ENG-60618"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———. Practical Ethics. Cambridge"

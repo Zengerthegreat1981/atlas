@@ -1,6 +1,6 @@
 ---
 slug: "trm-first-generation"
-id: "TRM-ENG-34615"
+id: "TRM-ENG-63673"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "First generation"

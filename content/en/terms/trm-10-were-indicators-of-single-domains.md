@@ -1,6 +1,6 @@
 ---
 slug: "trm-10-were-indicators-of-single-domains"
-id: "TRM-ENG-43271"
+id: "TRM-ENG-57800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "10 were indicators of single domains"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-thinking-called-anvks"
-id: "TRM-ENG-38352"
+id: "TRM-ENG-52881"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "thinking called A¯nv¯ıks"

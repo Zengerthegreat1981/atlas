@@ -1,6 +1,6 @@
 ---
 slug: "trm-scale-gais-baltimore"
-id: "TRM-ENG-46705"
+id: "TRM-ENG-61234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Scale (GAIS). Baltimore"

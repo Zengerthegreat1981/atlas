@@ -1,6 +1,6 @@
 ---
 slug: "trm-fect"
-id: "TRM-ENG-36427"
+id: "TRM-ENG-65485"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "fect"

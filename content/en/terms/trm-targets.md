@@ -1,6 +1,6 @@
 ---
 slug: "trm-targets"
-id: "TRM-ENG-35066"
+id: "TRM-ENG-64124"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "targets"

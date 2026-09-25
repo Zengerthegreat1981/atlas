@@ -1,6 +1,6 @@
 ---
 slug: "trm-gressive-decline-that-a-therapist-is-unable-to-stop-there-prizes"
-id: "TRM-ENG-40325"
+id: "TRM-ENG-54854"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "gressive decline that a therapist is unable to stop. There prizes”"

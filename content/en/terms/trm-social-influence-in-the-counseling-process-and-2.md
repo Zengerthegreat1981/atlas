@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-influence-in-the-counseling-process-and-2"
-id: "TRM-ENG-41701"
+id: "TRM-ENG-56230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social influence in the counseling process and, 2"

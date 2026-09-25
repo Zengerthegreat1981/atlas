@@ -1,6 +1,6 @@
 ---
 slug: "trm-there-are-three-kinds-of-memory"
-id: "TRM-ENG-38340"
+id: "TRM-ENG-52869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "there are three kinds of memory"

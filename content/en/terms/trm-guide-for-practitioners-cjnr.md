@@ -1,6 +1,6 @@
 ---
 slug: "trm-guide-for-practitioners-cjnr"
-id: "TRM-ENG-35835"
+id: "TRM-ENG-64893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "guide for practitioners. CJNR"

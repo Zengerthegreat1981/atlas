@@ -1,6 +1,6 @@
 ---
 slug: "trm-on-the-right-from-the-forces-of-reductionism"
-id: "TRM-ENG-48474"
+id: "TRM-ENG-63003"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "on the right from the forces of reductionism"

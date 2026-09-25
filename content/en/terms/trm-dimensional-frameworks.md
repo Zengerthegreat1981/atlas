@@ -1,6 +1,6 @@
 ---
 slug: "trm-dimensional-frameworks"
-id: "TRM-ENG-42378"
+id: "TRM-ENG-56907"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dimensional Frameworks"

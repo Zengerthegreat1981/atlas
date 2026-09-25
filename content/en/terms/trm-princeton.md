@@ -1,6 +1,6 @@
 ---
 slug: "trm-princeton"
-id: "TRM-ENG-34767"
+id: "TRM-ENG-63825"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Princeton"

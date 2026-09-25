@@ -1,6 +1,6 @@
 ---
 slug: "trm-bandura-a-2001-social-cognitive-theory"
-id: "TRM-ENG-46276"
+id: "TRM-ENG-60805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bandura, A. (2001). Social cognitive theory"

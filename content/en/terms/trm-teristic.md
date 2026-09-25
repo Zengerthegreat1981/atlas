@@ -1,6 +1,6 @@
 ---
 slug: "trm-teristic"
-id: "TRM-ENG-46027"
+id: "TRM-ENG-60556"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "teristic"

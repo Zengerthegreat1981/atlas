@@ -1,6 +1,6 @@
 ---
 slug: "trm-andobsessivecompulsivedisorder"
-id: "TRM-ENG-49271"
+id: "TRM-ENG-63800"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andobsessivecompulsivedisorder"

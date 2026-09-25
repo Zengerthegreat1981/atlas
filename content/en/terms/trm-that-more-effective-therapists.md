@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-more-effective-therapists"
-id: "TRM-ENG-41870"
+id: "TRM-ENG-56399"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that more effective therapists"

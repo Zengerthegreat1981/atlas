@@ -1,6 +1,6 @@
 ---
 slug: "trm-disease-canadian-family-physician-45-april-1999"
-id: "TRM-ENG-46074"
+id: "TRM-ENG-60603"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "disease.” Canadian Family Physician 45 (April 1999)"

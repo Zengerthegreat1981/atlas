@@ -1,6 +1,6 @@
 ---
 slug: "trm-dexes-from-lifehistory-data-are-the-following"
-id: "TRM-ENG-36358"
+id: "TRM-ENG-50887"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dexes from life-history data are the following"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1996-disorders-of-personality"
-id: "TRM-ENG-43256"
+id: "TRM-ENG-57785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1996). Disorders of personality"

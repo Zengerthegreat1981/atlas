@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-example-through-words-and-sounds"
-id: "TRM-ENG-43655"
+id: "TRM-ENG-58184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for example, through words and sounds"

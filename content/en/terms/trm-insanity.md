@@ -1,6 +1,6 @@
 ---
 slug: "trm-insanity"
-id: "TRM-ENG-52243"
+id: "TRM-ENG-66772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Insanity"

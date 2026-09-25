@@ -1,6 +1,6 @@
 ---
 slug: "trm-weakland-jh"
-id: "TRM-ENG-42735"
+id: "TRM-ENG-57264"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Weakland JH"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-wilkinsoriginalworkpublished1905-newyork"
-id: "TRM-ENG-37437"
+id: "TRM-ENG-51966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wilkins(Originalworkpublished1905). NewYork"

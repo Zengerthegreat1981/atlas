@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-its-main-tasks"
-id: "TRM-ENG-36778"
+id: "TRM-ENG-65836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of its main tasks"

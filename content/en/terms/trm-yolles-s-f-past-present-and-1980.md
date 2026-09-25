@@ -1,6 +1,6 @@
 ---
 slug: "trm-yolles-s-f-past-present-and-1980"
-id: "TRM-ENG-44700"
+id: "TRM-ENG-59229"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Yolles, S. F., “Past, Present and 1980"

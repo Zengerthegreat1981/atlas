@@ -1,6 +1,6 @@
 ---
 slug: "trm-integration-of-human-knowledge"
-id: "TRM-ENG-51547"
+id: "TRM-ENG-66076"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "integration of human knowledge"

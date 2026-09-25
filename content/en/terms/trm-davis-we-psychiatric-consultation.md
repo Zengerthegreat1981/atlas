@@ -1,6 +1,6 @@
 ---
 slug: "trm-davis-we-psychiatric-consultation"
-id: "TRM-ENG-40310"
+id: "TRM-ENG-54839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davis WE: Psychiatric consultation"

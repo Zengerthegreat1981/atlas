@@ -1,6 +1,6 @@
 ---
 slug: "trm-memory-codes-2"
-id: "TRM-ENG-44619"
+id: "TRM-ENG-59148"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Memory codes, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-leavy-sa"
-id: "TRM-ENG-41386"
+id: "TRM-ENG-55915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Leavy SA"

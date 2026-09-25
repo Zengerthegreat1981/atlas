@@ -1,6 +1,6 @@
 ---
 slug: "trm-newsynthesisnewyork"
-id: "TRM-ENG-49559"
+id: "TRM-ENG-64088"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "newsynthesis.NewYork"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sists-primarily-of-clinical-case-examples-and-theoretical-gories"
-id: "TRM-ENG-35324"
+id: "TRM-ENG-64382"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sists primarily of clinical case examples and theoretical gories"

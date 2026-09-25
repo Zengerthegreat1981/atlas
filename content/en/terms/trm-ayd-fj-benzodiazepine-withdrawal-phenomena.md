@@ -1,6 +1,6 @@
 ---
 slug: "trm-ayd-fj-benzodiazepine-withdrawal-phenomena"
-id: "TRM-ENG-39751"
+id: "TRM-ENG-54280"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ayd FJ: Benzodiazepine withdrawal phenomena"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-rhinejb1947thereachofthemindnewyork"
-id: "TRM-ENG-37224"
+id: "TRM-ENG-66282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rhine,J.B.(1947).Thereachofthemind.NewYork"

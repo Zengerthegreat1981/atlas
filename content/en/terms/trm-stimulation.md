@@ -1,6 +1,6 @@
 ---
 slug: "trm-stimulation"
-id: "TRM-ENG-36137"
+id: "TRM-ENG-65195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "stimulation"

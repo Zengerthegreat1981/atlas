@@ -1,6 +1,6 @@
 ---
 slug: "trm-pp-329351-madison-ct"
-id: "TRM-ENG-48794"
+id: "TRM-ENG-63323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(pp. 329±351). Madison, CT"

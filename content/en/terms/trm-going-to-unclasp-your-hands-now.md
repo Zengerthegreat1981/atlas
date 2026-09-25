@@ -1,6 +1,6 @@
 ---
 slug: "trm-going-to-unclasp-your-hands-now"
-id: "TRM-ENG-43054"
+id: "TRM-ENG-57583"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "going to unclasp your hands now"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-88-drenth-pj-et-al-eds"
-id: "TRM-ENG-39543"
+id: "TRM-ENG-54072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "88. Drenth PJ, et al (eds)"

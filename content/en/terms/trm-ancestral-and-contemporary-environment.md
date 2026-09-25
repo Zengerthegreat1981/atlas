@@ -1,6 +1,6 @@
 ---
 slug: "trm-ancestral-and-contemporary-environment"
-id: "TRM-ENG-42621"
+id: "TRM-ENG-57150"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ancestral and contemporary environment"

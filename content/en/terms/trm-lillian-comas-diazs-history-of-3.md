@@ -1,6 +1,6 @@
 ---
 slug: "trm-lillian-comas-diazs-history-of-3"
-id: "TRM-ENG-38375"
+id: "TRM-ENG-52904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lillian Comas Diaz’s history of, 3"

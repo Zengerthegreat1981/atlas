@@ -1,6 +1,6 @@
 ---
 slug: "trm-upon-perception"
-id: "TRM-ENG-35443"
+id: "TRM-ENG-64501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "upon perception"

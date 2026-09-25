@@ -1,6 +1,6 @@
 ---
 slug: "trm-entirely-new-set-of-possibilities"
-id: "TRM-ENG-37730"
+id: "TRM-ENG-66788"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "entirely new set of possibilities"

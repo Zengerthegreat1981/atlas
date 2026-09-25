@@ -1,6 +1,6 @@
 ---
 slug: "trm-strunk-o-jr"
-id: "TRM-ENG-42504"
+id: "TRM-ENG-57033"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strunk O, Jr"

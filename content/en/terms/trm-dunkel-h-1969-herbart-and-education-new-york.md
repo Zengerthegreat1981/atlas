@@ -1,6 +1,6 @@
 ---
 slug: "trm-dunkel-h-1969-herbart-and-education-new-york"
-id: "TRM-ENG-36748"
+id: "TRM-ENG-65806"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dunkel, H. (1969). Herbart and education. New York"

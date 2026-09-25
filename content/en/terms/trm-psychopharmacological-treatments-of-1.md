@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychopharmacological-treatments-of-1"
-id: "TRM-ENG-41354"
+id: "TRM-ENG-55883"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychopharmacological treatments of, 1"

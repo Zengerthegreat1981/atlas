@@ -1,6 +1,6 @@
 ---
 slug: "trm-a-psychophysicist-that-troland-lives-on"
-id: "TRM-ENG-37470"
+id: "TRM-ENG-51999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "a psychophysicist that Troland lives on"

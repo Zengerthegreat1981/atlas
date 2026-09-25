@@ -1,6 +1,6 @@
 ---
 slug: "trm-such-questions-as-what-the-major-sources-of-mea-cid"
-id: "TRM-ENG-36142"
+id: "TRM-ENG-65200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "such questions as what the major sources of mea- (cid"

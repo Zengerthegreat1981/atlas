@@ -1,6 +1,6 @@
 ---
 slug: "trm-polemic-against-associationism"
-id: "TRM-ENG-48556"
+id: "TRM-ENG-63085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "polemic against associationism"

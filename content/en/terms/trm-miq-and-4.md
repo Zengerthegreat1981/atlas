@@ -1,6 +1,6 @@
 ---
 slug: "trm-miq-and-4"
-id: "TRM-ENG-37412"
+id: "TRM-ENG-66470"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(MIQ) and, 4"

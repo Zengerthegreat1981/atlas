@@ -1,6 +1,6 @@
 ---
 slug: "trm-protestantism-1"
-id: "TRM-ENG-47158"
+id: "TRM-ENG-61687"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Protestantism, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-mail"
-id: "TRM-ENG-35122"
+id: "TRM-ENG-49651"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mail"

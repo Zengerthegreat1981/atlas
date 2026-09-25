@@ -1,6 +1,6 @@
 ---
 slug: "trm-hardin-r-1982-c-ollective-action-baltimore-md"
-id: "TRM-ENG-44518"
+id: "TRM-ENG-59047"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hardin, R. (1982). C ollective action. Baltimore, MD"

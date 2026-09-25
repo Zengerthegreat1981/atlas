@@ -1,6 +1,6 @@
 ---
 slug: "trm-statement"
-id: "TRM-ENG-46022"
+id: "TRM-ENG-60551"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "statement"

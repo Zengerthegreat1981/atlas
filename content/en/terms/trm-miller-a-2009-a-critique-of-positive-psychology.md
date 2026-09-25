@@ -1,6 +1,6 @@
 ---
 slug: "trm-miller-a-2009-a-critique-of-positive-psychology"
-id: "TRM-ENG-46994"
+id: "TRM-ENG-61523"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller, A. (2009). A critique of positive psychology"

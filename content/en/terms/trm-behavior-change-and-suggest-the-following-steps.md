@@ -1,6 +1,6 @@
 ---
 slug: "trm-behavior-change-and-suggest-the-following-steps"
-id: "TRM-ENG-39329"
+id: "TRM-ENG-53858"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "behavior change and suggest the following steps"

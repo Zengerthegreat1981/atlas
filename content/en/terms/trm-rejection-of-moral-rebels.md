@@ -1,6 +1,6 @@
 ---
 slug: "trm-rejection-of-moral-rebels"
-id: "TRM-ENG-45469"
+id: "TRM-ENG-59998"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rejection of moral rebels"

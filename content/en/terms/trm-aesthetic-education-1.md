@@ -1,6 +1,6 @@
 ---
 slug: "trm-aesthetic-education-1"
-id: "TRM-ENG-47555"
+id: "TRM-ENG-62084"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "aesthetic education, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-tors-personality-disorders"
-id: "TRM-ENG-43381"
+id: "TRM-ENG-57910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tors. Personality Disorders"

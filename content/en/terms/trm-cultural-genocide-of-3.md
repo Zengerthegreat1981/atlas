@@ -1,6 +1,6 @@
 ---
 slug: "trm-cultural-genocide-of-3"
-id: "TRM-ENG-39816"
+id: "TRM-ENG-54345"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cultural genocide of, 3"

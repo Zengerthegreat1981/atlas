@@ -1,6 +1,6 @@
 ---
 slug: "trm-mission-gelso-fret"
-id: "TRM-ENG-35142"
+id: "TRM-ENG-64200"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mission (Gelso & Fret"

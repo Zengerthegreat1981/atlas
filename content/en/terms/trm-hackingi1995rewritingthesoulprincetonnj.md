@@ -1,6 +1,6 @@
 ---
 slug: "trm-hackingi1995rewritingthesoulprincetonnj"
-id: "TRM-ENG-36873"
+id: "TRM-ENG-65931"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hacking,I.(1995).Rewritingthesoul.Princeton,NJ"

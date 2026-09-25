@@ -1,6 +1,6 @@
 ---
 slug: "trm-tondc"
-id: "TRM-ENG-38384"
+id: "TRM-ENG-52913"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ton,DC"

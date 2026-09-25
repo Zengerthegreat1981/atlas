@@ -1,6 +1,6 @@
 ---
 slug: "trm-therapy-aamft-and-1"
-id: "TRM-ENG-38910"
+id: "TRM-ENG-53439"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Therapy (AAMFT) and, 1"

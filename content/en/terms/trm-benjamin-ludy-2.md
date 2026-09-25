@@ -1,6 +1,6 @@
 ---
 slug: "trm-benjamin-ludy-2"
-id: "TRM-ENG-46291"
+id: "TRM-ENG-60820"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Benjamin, Ludy, 2"

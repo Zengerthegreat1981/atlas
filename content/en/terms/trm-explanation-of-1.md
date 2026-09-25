@@ -1,6 +1,6 @@
 ---
 slug: "trm-explanation-of-1"
-id: "TRM-ENG-40141"
+id: "TRM-ENG-54670"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "explanation of, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-licensure-and-1"
-id: "TRM-ENG-40715"
+id: "TRM-ENG-55244"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "licensure and, 1"

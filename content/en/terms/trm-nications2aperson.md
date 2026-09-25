@@ -1,6 +1,6 @@
 ---
 slug: "trm-nications2aperson"
-id: "TRM-ENG-43754"
+id: "TRM-ENG-58283"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nications.2.aperson"

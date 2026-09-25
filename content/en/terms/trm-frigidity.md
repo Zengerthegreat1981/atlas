@@ -1,6 +1,6 @@
 ---
 slug: "trm-frigidity"
-id: "TRM-ENG-52191"
+id: "TRM-ENG-66720"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Frigidity"

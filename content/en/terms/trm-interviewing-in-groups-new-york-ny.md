@@ -1,6 +1,6 @@
 ---
 slug: "trm-interviewing-in-groups-new-york-ny"
-id: "TRM-ENG-51557"
+id: "TRM-ENG-66086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interviewing in groups. New York, NY"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-spiegelberg-h"
-id: "TRM-ENG-42423"
+id: "TRM-ENG-56952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spiegelberg H"

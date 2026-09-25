@@ -1,6 +1,6 @@
 ---
 slug: "trm-leader"
-id: "TRM-ENG-45131"
+id: "TRM-ENG-59660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "leader"

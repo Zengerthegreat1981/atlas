@@ -1,6 +1,6 @@
 ---
 slug: "trm-ptsd-symptoms-and-2"
-id: "TRM-ENG-38557"
+id: "TRM-ENG-53086"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PTSD symptoms and, 2"

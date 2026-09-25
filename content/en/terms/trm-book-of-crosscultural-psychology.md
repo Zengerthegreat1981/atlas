@@ -1,6 +1,6 @@
 ---
 slug: "trm-book-of-crosscultural-psychology"
-id: "TRM-ENG-34908"
+id: "TRM-ENG-63966"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "book of cross-cultural psychology"

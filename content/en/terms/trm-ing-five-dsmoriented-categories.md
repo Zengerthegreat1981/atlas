@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-five-dsmoriented-categories"
-id: "TRM-ENG-40553"
+id: "TRM-ENG-55082"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing five DSM-oriented categories"

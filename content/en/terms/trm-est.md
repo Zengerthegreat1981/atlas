@@ -1,6 +1,6 @@
 ---
 slug: "trm-est"
-id: "TRM-ENG-42809"
+id: "TRM-ENG-57338"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "est"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-kimble-ga"
-id: "TRM-ENG-41238"
+id: "TRM-ENG-55767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kimble GA"

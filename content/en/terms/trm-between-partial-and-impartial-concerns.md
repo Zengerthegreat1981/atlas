@@ -1,6 +1,6 @@
 ---
 slug: "trm-between-partial-and-impartial-concerns"
-id: "TRM-ENG-45857"
+id: "TRM-ENG-60386"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "between partial and impartial concerns"

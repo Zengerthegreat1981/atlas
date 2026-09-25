@@ -1,6 +1,6 @@
 ---
 slug: "trm-der-personality-disorders"
-id: "TRM-ENG-42753"
+id: "TRM-ENG-57282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "der. Personality Disorders"

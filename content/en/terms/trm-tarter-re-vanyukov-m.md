@@ -1,6 +1,6 @@
 ---
 slug: "trm-tarter-re-vanyukov-m"
-id: "TRM-ENG-48118"
+id: "TRM-ENG-62647"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tarter RE, Vanyukov M"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-keller-mb-mccullough-jp-klein-dn-et-al"
-id: "TRM-ENG-47772"
+id: "TRM-ENG-62301"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Keller MB, McCullough JP, Klein DN, et al"

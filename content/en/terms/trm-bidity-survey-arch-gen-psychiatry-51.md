@@ -1,6 +1,6 @@
 ---
 slug: "trm-bidity-survey-arch-gen-psychiatry-51"
-id: "TRM-ENG-48220"
+id: "TRM-ENG-62749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bidity Survey. Arch Gen Psychiatry 51"

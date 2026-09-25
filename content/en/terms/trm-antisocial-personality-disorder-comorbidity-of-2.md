@@ -1,6 +1,6 @@
 ---
 slug: "trm-antisocial-personality-disorder-comorbidity-of-2"
-id: "TRM-ENG-39220"
+id: "TRM-ENG-53749"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "antisocial personality disorder, comorbidity of, 2"

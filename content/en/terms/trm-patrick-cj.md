@@ -1,6 +1,6 @@
 ---
 slug: "trm-patrick-cj"
-id: "TRM-ENG-47933"
+id: "TRM-ENG-62462"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Patrick CJ"

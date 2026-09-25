@@ -1,6 +1,6 @@
 ---
 slug: "trm-murphy-m"
-id: "TRM-ENG-41798"
+id: "TRM-ENG-56327"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Murphy M"

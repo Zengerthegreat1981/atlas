@@ -1,6 +1,6 @@
 ---
 slug: "trm-chologists-nurses-and-psychiatric-social-workers"
-id: "TRM-ENG-36275"
+id: "TRM-ENG-50804"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "chologists, nurses, and psychiatric social workers"

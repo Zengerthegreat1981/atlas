@@ -1,6 +1,6 @@
 ---
 slug: "trm-spatial-mental-representations-2"
-id: "TRM-ENG-44788"
+id: "TRM-ENG-59317"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spatial mental representations, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-sciencesofmemoryprinceton"
-id: "TRM-ENG-38236"
+id: "TRM-ENG-52765"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sciencesofmemory.Princeton"

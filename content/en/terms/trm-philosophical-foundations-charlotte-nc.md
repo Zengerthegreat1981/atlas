@@ -1,6 +1,6 @@
 ---
 slug: "trm-philosophical-foundations-charlotte-nc"
-id: "TRM-ENG-48539"
+id: "TRM-ENG-63068"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "philosophical foundations. Charlotte, NC"

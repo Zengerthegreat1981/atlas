@@ -1,6 +1,6 @@
 ---
 slug: "trm-neuropathologist"
-id: "TRM-ENG-44097"
+id: "TRM-ENG-58626"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "neuropathologist"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-attitudes-toward-the-behaviors-themselves"
-id: "TRM-ENG-36464"
+id: "TRM-ENG-50993"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from attitudes toward the behaviors themselves"

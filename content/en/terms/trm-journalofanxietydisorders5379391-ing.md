@@ -1,6 +1,6 @@
 ---
 slug: "trm-journalofanxietydisorders5379391-ing"
-id: "TRM-ENG-49049"
+id: "TRM-ENG-63578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "JournalofAnxietyDisorders,5,379±391. ing"

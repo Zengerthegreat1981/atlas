@@ -1,6 +1,6 @@
 ---
 slug: "trm-rahe-rh-arthur-rj"
-id: "TRM-ENG-42057"
+id: "TRM-ENG-56586"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rahe RH, Arthur RJ"

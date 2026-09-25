@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcgrath-je-ed"
-id: "TRM-ENG-41642"
+id: "TRM-ENG-56171"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McGrath JE (ed)"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-havepsychologiststreatpatientsinpublichospitalsand-solidated-it"
-id: "TRM-ENG-37811"
+id: "TRM-ENG-52340"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "havepsychologiststreatpatientsinpublichospitalsand solidated it"

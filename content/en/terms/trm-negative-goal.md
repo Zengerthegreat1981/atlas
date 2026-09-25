@@ -1,6 +1,6 @@
 ---
 slug: "trm-negative-goal"
-id: "TRM-ENG-52299"
+id: "TRM-ENG-66828"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Negative goal"

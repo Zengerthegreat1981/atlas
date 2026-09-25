@@ -1,6 +1,6 @@
 ---
 slug: "trm-katz-jl-weiner-h-gallagher-tf-heilman-l"
-id: "TRM-ENG-41208"
+id: "TRM-ENG-55737"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Katz JL, Weiner H, Gallagher TF, Heilman L"

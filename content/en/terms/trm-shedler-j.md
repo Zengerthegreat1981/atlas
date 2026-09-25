@@ -1,6 +1,6 @@
 ---
 slug: "trm-shedler-j"
-id: "TRM-ENG-48067"
+id: "TRM-ENG-62596"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Shedler J"

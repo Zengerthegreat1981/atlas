@@ -1,6 +1,6 @@
 ---
 slug: "trm-allen-j-sieleni-b-2008-stepps"
-id: "TRM-ENG-42311"
+id: "TRM-ENG-56840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Allen, J., & Sieleni, B. (2008). STEPPS"

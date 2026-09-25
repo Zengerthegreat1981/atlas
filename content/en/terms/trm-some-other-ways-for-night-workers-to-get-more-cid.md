@@ -1,6 +1,6 @@
 ---
 slug: "trm-some-other-ways-for-night-workers-to-get-more-cid"
-id: "TRM-ENG-45960"
+id: "TRM-ENG-60489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Some other ways for night workers to get more (cid"

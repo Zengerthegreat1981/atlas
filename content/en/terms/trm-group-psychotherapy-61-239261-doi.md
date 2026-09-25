@@ -1,6 +1,6 @@
 ---
 slug: "trm-group-psychotherapy-61-239261-doi"
-id: "TRM-ENG-50503"
+id: "TRM-ENG-65032"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Group Psychotherapy, 61, 239–261. doi"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1982-assessing-pain-behaviour"
-id: "TRM-ENG-46295"
+id: "TRM-ENG-60824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1982). Assessing pain behaviour"

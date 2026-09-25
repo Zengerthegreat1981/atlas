@@ -1,6 +1,6 @@
 ---
 slug: "trm-de-moivre-abraham-1"
-id: "TRM-ENG-46492"
+id: "TRM-ENG-61021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "De Moivre, Abraham, 1"

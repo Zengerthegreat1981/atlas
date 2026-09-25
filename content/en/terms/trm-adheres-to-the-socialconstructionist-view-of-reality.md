@@ -1,6 +1,6 @@
 ---
 slug: "trm-adheres-to-the-socialconstructionist-view-of-reality"
-id: "TRM-ENG-51215"
+id: "TRM-ENG-65744"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "adheres to the social-constructionist view of reality"

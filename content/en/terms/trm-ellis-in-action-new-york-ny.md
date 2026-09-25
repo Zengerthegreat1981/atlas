@@ -1,6 +1,6 @@
 ---
 slug: "trm-ellis-in-action-new-york-ny"
-id: "TRM-ENG-50340"
+id: "TRM-ENG-64869"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ellis in action. New York, NY"

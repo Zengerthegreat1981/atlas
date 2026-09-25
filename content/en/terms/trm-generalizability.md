@@ -1,6 +1,6 @@
 ---
 slug: "trm-generalizability"
-id: "TRM-ENG-37789"
+id: "TRM-ENG-52318"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "generalizability"

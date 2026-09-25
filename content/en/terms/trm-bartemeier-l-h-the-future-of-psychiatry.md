@@ -1,6 +1,6 @@
 ---
 slug: "trm-bartemeier-l-h-the-future-of-psychiatry"
-id: "TRM-ENG-44274"
+id: "TRM-ENG-58803"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bartemeier, L. H., “The Future of Psychiatry"

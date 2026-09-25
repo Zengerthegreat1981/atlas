@@ -1,6 +1,6 @@
 ---
 slug: "trm-are-ahead-for-schools-and-education-is-certain"
-id: "TRM-ENG-36157"
+id: "TRM-ENG-50686"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "are ahead for schools and education is certain"

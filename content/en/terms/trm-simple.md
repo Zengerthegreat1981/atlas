@@ -1,6 +1,6 @@
 ---
 slug: "trm-simple"
-id: "TRM-ENG-49704"
+id: "TRM-ENG-64233"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "simple"

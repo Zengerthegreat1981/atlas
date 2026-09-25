@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-furtmuller-c-eds-heilen-und-bilden"
-id: "TRM-ENG-44764"
+id: "TRM-ENG-59293"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, and Furtmuller, C. (Eds.), Heilen und Bilden"

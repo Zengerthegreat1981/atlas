@@ -1,6 +1,6 @@
 ---
 slug: "trm-dax-ec"
-id: "TRM-ENG-40311"
+id: "TRM-ENG-54840"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Dax EC"

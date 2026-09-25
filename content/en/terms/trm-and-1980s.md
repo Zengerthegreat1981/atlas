@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-1980s"
-id: "TRM-ENG-47587"
+id: "TRM-ENG-62116"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and 1980s"

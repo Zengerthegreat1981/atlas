@@ -1,6 +1,6 @@
 ---
 slug: "trm-der-biol-psychiatry-66"
-id: "TRM-ENG-48294"
+id: "TRM-ENG-62823"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "der. Biol Psychiatry 66"

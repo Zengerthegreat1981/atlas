@@ -1,6 +1,6 @@
 ---
 slug: "trm-marshall-t-h-1"
-id: "TRM-ENG-46963"
+id: "TRM-ENG-61492"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Marshall, T. H., 1"

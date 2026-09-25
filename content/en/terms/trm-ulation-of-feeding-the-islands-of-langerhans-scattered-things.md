@@ -1,6 +1,6 @@
 ---
 slug: "trm-ulation-of-feeding-the-islands-of-langerhans-scattered-things"
-id: "TRM-ENG-37262"
+id: "TRM-ENG-66320"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ulation of feeding. The islands of Langerhans scattered things"

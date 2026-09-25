@@ -1,6 +1,6 @@
 ---
 slug: "trm-metals"
-id: "TRM-ENG-46148"
+id: "TRM-ENG-60677"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "metals"

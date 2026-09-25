@@ -1,6 +1,6 @@
 ---
 slug: "trm-attribute-inheritance-model-1"
-id: "TRM-ENG-44317"
+id: "TRM-ENG-58846"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Attribute inheritance model, 1"

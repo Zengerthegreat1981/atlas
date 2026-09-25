@@ -1,6 +1,6 @@
 ---
 slug: "trm-acancerdiagnosis"
-id: "TRM-ENG-46778"
+id: "TRM-ENG-61307"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "acancerdiagnosis"

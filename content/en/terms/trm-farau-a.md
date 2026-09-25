@@ -1,6 +1,6 @@
 ---
 slug: "trm-farau-a"
-id: "TRM-ENG-40491"
+id: "TRM-ENG-55020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Farau A"

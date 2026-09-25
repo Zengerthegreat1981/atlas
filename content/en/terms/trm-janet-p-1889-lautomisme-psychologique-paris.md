@@ -1,6 +1,6 @@
 ---
 slug: "trm-janet-p-1889-lautomisme-psychologique-paris"
-id: "TRM-ENG-49043"
+id: "TRM-ENG-63572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Janet, P. (1889). L'Automisme psychologique. Paris"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-patients-physical-appearance"
-id: "TRM-ENG-42574"
+id: "TRM-ENG-57103"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The patient’s physical appearance"

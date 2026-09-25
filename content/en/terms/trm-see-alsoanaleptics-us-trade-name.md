@@ -1,6 +1,6 @@
 ---
 slug: "trm-see-alsoanaleptics-us-trade-name"
-id: "TRM-ENG-43492"
+id: "TRM-ENG-58021"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "See alsoanaleptics. U.S. trade name"

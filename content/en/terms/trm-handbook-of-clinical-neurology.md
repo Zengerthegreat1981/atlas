@@ -1,6 +1,6 @@
 ---
 slug: "trm-handbook-of-clinical-neurology"
-id: "TRM-ENG-46536"
+id: "TRM-ENG-61065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Handbook of clinical neurology"

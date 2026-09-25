@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-hence-so-emotionally"
-id: "TRM-ENG-44885"
+id: "TRM-ENG-59414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and hence so emotionally"

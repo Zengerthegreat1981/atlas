@@ -1,6 +1,6 @@
 ---
 slug: "trm-ptsd-and-2"
-id: "TRM-ENG-38556"
+id: "TRM-ENG-53085"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "PTSD and, 2"

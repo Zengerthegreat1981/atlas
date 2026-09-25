@@ -1,6 +1,6 @@
 ---
 slug: "trm-retical-perspectivesnew-york"
-id: "TRM-ENG-36941"
+id: "TRM-ENG-65999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "retical perspectives.New York"

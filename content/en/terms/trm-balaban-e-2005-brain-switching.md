@@ -1,6 +1,6 @@
 ---
 slug: "trm-balaban-e-2005-brain-switching"
-id: "TRM-ENG-34580"
+id: "TRM-ENG-49109"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Balaban, E. (2005). Brain switching"

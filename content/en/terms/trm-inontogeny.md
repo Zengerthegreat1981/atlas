@@ -1,6 +1,6 @@
 ---
 slug: "trm-inontogeny"
-id: "TRM-ENG-37867"
+id: "TRM-ENG-66925"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "inontogeny"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-spencer-h-1864-education"
-id: "TRM-ENG-47322"
+id: "TRM-ENG-61851"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spencer, H. (1864). Education"

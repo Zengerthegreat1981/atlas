@@ -1,6 +1,6 @@
 ---
 slug: "trm-apparent-refutation"
-id: "TRM-ENG-47637"
+id: "TRM-ENG-62166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "apparent refutation"

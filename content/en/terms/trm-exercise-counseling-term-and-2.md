@@ -1,6 +1,6 @@
 ---
 slug: "trm-exercise-counseling-term-and-2"
-id: "TRM-ENG-40131"
+id: "TRM-ENG-54660"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "exercise counseling term and, 2"

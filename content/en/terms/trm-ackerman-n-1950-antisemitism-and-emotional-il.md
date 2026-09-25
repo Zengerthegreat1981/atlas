@@ -1,6 +1,6 @@
 ---
 slug: "trm-ackerman-n-1950-antisemitism-and-emotional-il"
-id: "TRM-ENG-50081"
+id: "TRM-ENG-64610"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ackerman, N. (1950). Anti-Semitism and emotional IL"

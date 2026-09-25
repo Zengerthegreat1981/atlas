@@ -1,6 +1,6 @@
 ---
 slug: "trm-arieti-s"
-id: "TRM-ENG-39717"
+id: "TRM-ENG-54246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Arieti S"

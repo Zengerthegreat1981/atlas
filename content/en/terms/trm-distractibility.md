@@ -1,6 +1,6 @@
 ---
 slug: "trm-distractibility"
-id: "TRM-ENG-52137"
+id: "TRM-ENG-66666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Distractibility"

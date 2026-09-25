@@ -1,6 +1,6 @@
 ---
 slug: "trm-different-situation"
-id: "TRM-ENG-44050"
+id: "TRM-ENG-58579"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "different situation"

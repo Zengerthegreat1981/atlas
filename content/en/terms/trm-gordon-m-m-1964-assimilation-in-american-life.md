@@ -1,6 +1,6 @@
 ---
 slug: "trm-gordon-m-m-1964-assimilation-in-american-life"
-id: "TRM-ENG-38121"
+id: "TRM-ENG-52650"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gordon, M. M. (1964). Assimilation in American life"

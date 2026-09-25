@@ -1,6 +1,6 @@
 ---
 slug: "trm-ditionoxford"
-id: "TRM-ENG-45884"
+id: "TRM-ENG-60413"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "dition.Oxford"

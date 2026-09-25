@@ -1,6 +1,6 @@
 ---
 slug: "trm-for-the-forgetting-of-names-for-accidents"
-id: "TRM-ENG-36455"
+id: "TRM-ENG-65513"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "for the forgetting of names, for accidents"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-entsspeech"
-id: "TRM-ENG-36401"
+id: "TRM-ENG-50930"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ents’speech"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-analytic-philosophy-1"
-id: "TRM-ENG-47583"
+id: "TRM-ENG-62112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analytic philosophy, 1"

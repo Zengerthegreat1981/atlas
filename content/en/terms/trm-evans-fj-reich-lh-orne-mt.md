@@ -1,6 +1,6 @@
 ---
 slug: "trm-evans-fj-reich-lh-orne-mt"
-id: "TRM-ENG-40479"
+id: "TRM-ENG-55008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Evans FJ, Reich LH, Orne MT"

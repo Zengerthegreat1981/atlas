@@ -1,6 +1,6 @@
 ---
 slug: "trm-roughly-translated-as-mensch-krippner-met-rolling-manism"
-id: "TRM-ENG-38229"
+id: "TRM-ENG-52758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "roughly translated as “mensch.” Krippner met Rolling manism"

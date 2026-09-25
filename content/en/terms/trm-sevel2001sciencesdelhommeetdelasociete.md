@@ -1,6 +1,6 @@
 ---
 slug: "trm-sevel2001sciencesdelhommeetdelasociete"
-id: "TRM-ENG-37272"
+id: "TRM-ENG-66330"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Se`ve,L.(2001).Sciencesdel’hommeetdelasocie´te´"

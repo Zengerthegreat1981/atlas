@@ -1,6 +1,6 @@
 ---
 slug: "trm-andthenewrealism"
-id: "TRM-ENG-37528"
+id: "TRM-ENG-52057"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andTheNewRealism"

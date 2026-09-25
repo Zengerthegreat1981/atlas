@@ -1,6 +1,6 @@
 ---
 slug: "trm-ability-the-international-journal-of-clinical-and-experimental-thesia"
-id: "TRM-ENG-37474"
+id: "TRM-ENG-66532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ability. The International Journal of Clinical and Experimental thesia"

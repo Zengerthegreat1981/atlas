@@ -1,6 +1,6 @@
 ---
 slug: "trm-detachment"
-id: "TRM-ENG-43985"
+id: "TRM-ENG-58514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Detachment"

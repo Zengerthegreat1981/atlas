@@ -1,6 +1,6 @@
 ---
 slug: "trm-tal-psychiatry-8-1977"
-id: "TRM-ENG-46225"
+id: "TRM-ENG-60754"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tal Psychiatry 8 (1977)"

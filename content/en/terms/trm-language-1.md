@@ -1,6 +1,6 @@
 ---
 slug: "trm-language-1"
-id: "TRM-ENG-45264"
+id: "TRM-ENG-59793"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "language, 1"

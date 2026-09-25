@@ -1,6 +1,6 @@
 ---
 slug: "trm-islamicpsychology"
-id: "TRM-ENG-36955"
+id: "TRM-ENG-51484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IslamicPsychology"

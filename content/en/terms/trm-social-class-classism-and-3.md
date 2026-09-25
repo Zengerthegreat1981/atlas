@@ -1,6 +1,6 @@
 ---
 slug: "trm-social-class-classism-and-3"
-id: "TRM-ENG-41687"
+id: "TRM-ENG-56216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "social class, classism and, 3"

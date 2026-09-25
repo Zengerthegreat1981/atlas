@@ -1,6 +1,6 @@
 ---
 slug: "trm-shortcomings"
-id: "TRM-ENG-36363"
+id: "TRM-ENG-50892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "shortcomings"

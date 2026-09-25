@@ -1,6 +1,6 @@
 ---
 slug: "trm-eventrelated-potentials-erps-1"
-id: "TRM-ENG-44470"
+id: "TRM-ENG-58999"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Event-related potentials (ERPs), 1"

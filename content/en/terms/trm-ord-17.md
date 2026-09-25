@@ -1,6 +1,6 @@
 ---
 slug: "trm-ord-17"
-id: "TRM-ENG-48489"
+id: "TRM-ENG-63018"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ord 17"

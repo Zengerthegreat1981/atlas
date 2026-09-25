@@ -1,6 +1,6 @@
 ---
 slug: "trm-search-methodsnew-york"
-id: "TRM-ENG-36962"
+id: "TRM-ENG-66020"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "search methods.New York"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nesbit-john-1"
-id: "TRM-ENG-47046"
+id: "TRM-ENG-61575"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Nesbit, John, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-found"
-id: "TRM-ENG-45045"
+id: "TRM-ENG-59574"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "found"

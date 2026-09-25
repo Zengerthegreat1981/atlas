@@ -1,6 +1,6 @@
 ---
 slug: "trm-colbert-j"
-id: "TRM-ENG-40210"
+id: "TRM-ENG-54739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Colbert J"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-exploration-and-assessment-section-of-4"
-id: "TRM-ENG-38056"
+id: "TRM-ENG-67114"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Exploration and Assessment section of, 4"

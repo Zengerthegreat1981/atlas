@@ -1,6 +1,6 @@
 ---
 slug: "trm-999-confidence-limits"
-id: "TRM-ENG-35565"
+id: "TRM-ENG-50094"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "99.9% confidence limits"

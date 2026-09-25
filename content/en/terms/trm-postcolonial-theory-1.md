@@ -1,6 +1,6 @@
 ---
 slug: "trm-postcolonial-theory-1"
-id: "TRM-ENG-48567"
+id: "TRM-ENG-63096"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "postcolonial theory, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-1-birth"
-id: "TRM-ENG-38536"
+id: "TRM-ENG-53065"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "1. Birth"

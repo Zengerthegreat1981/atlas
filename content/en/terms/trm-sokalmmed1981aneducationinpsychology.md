@@ -1,6 +1,6 @@
 ---
 slug: "trm-sokalmmed1981aneducationinpsychology"
-id: "TRM-ENG-37310"
+id: "TRM-ENG-51839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sokal,M.M.(Ed.).(1981).Aneducationinpsychology"

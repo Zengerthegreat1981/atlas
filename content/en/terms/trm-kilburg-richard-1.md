@@ -1,6 +1,6 @@
 ---
 slug: "trm-kilburg-richard-1"
-id: "TRM-ENG-38323"
+id: "TRM-ENG-52852"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Kilburg, Richard, 1"

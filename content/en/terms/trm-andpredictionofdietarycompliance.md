@@ -1,6 +1,6 @@
 ---
 slug: "trm-andpredictionofdietarycompliance"
-id: "TRM-ENG-46827"
+id: "TRM-ENG-61356"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "andpredictionofdietarycompliance"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-nents-brain-topography-6-6578-doi"
-id: "TRM-ENG-35966"
+id: "TRM-ENG-50495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "nents. Brain Topography, 6, 65–78. doi"

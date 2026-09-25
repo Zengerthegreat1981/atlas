@@ -1,6 +1,6 @@
 ---
 slug: "trm-james-w-1902-the-varieties-of-religious-experience"
-id: "TRM-ENG-38281"
+id: "TRM-ENG-52810"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "James, W. (1902). The varieties of religious experience"

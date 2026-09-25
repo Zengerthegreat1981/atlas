@@ -1,6 +1,6 @@
 ---
 slug: "trm-carlin-as-armstrong-he"
-id: "TRM-ENG-40127"
+id: "TRM-ENG-54656"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Carlin AS, Armstrong HE"

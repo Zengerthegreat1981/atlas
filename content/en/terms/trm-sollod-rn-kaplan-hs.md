@@ -1,6 +1,6 @@
 ---
 slug: "trm-sollod-rn-kaplan-hs"
-id: "TRM-ENG-42398"
+id: "TRM-ENG-56927"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sollod RN, Kaplan HS"

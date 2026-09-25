@@ -1,6 +1,6 @@
 ---
 slug: "trm-gough-hg"
-id: "TRM-ENG-40786"
+id: "TRM-ENG-55315"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gough HG"

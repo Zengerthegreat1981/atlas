@@ -1,6 +1,6 @@
 ---
 slug: "trm-blaine-gh-et-al"
-id: "TRM-ENG-39953"
+id: "TRM-ENG-54482"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Blaine GH, et al"

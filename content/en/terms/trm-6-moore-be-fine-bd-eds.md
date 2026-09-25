@@ -1,6 +1,6 @@
 ---
 slug: "trm-6-moore-be-fine-bd-eds"
-id: "TRM-ENG-39218"
+id: "TRM-ENG-53747"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "6. Moore BE, Fine BD (eds)"

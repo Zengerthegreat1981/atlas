@@ -1,6 +1,6 @@
 ---
 slug: "trm-ist-n"
-id: "TRM-ENG-44076"
+id: "TRM-ENG-58605"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ist n."

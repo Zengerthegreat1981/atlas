@@ -1,6 +1,6 @@
 ---
 slug: "trm-davidson-r-1998-the-process-of-change"
-id: "TRM-ENG-48957"
+id: "TRM-ENG-63486"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Davidson, R. (1998). The process of change"

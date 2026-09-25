@@ -1,6 +1,6 @@
 ---
 slug: "trm-sity-student-sample-assessment-20"
-id: "TRM-ENG-48583"
+id: "TRM-ENG-63112"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sity student sample. Assessment 20"

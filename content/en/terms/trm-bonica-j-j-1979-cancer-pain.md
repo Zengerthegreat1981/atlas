@@ -1,6 +1,6 @@
 ---
 slug: "trm-bonica-j-j-1979-cancer-pain"
-id: "TRM-ENG-46438"
+id: "TRM-ENG-60967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bonica, J. J. (1979). Cancer pain"

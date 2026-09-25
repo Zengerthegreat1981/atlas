@@ -1,6 +1,6 @@
 ---
 slug: "trm-divided-attention-and-memory-1"
-id: "TRM-ENG-44438"
+id: "TRM-ENG-58967"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Divided attention and memory , 1"

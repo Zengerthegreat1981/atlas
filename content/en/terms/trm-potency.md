@@ -1,6 +1,6 @@
 ---
 slug: "trm-potency"
-id: "TRM-ENG-52342"
+id: "TRM-ENG-66871"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Potency"

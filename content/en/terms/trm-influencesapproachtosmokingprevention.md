@@ -1,6 +1,6 @@
 ---
 slug: "trm-influencesapproachtosmokingprevention"
-id: "TRM-ENG-47049"
+id: "TRM-ENG-61578"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "influencesapproachtosmokingprevention"

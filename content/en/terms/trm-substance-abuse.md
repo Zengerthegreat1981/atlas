@@ -1,6 +1,6 @@
 ---
 slug: "trm-substance-abuse"
-id: "TRM-ENG-44015"
+id: "TRM-ENG-58544"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "SUBSTANCE ABUSE."

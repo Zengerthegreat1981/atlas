@@ -1,6 +1,6 @@
 ---
 slug: "trm-raj"
-id: "TRM-ENG-42040"
+id: "TRM-ENG-56569"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "RAJ"

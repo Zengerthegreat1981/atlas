@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-behavior"
-id: "TRM-ENG-37515"
+id: "TRM-ENG-66573"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and behavior"

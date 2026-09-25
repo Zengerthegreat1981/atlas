@@ -1,6 +1,6 @@
 ---
 slug: "trm-edsmodelsofachievementvol1pp266277newyork"
-id: "TRM-ENG-36424"
+id: "TRM-ENG-50953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.),Modelsofachievement(Vol.1,pp.266–277).NewYork"

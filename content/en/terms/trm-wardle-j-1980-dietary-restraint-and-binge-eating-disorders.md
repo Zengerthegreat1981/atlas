@@ -1,6 +1,6 @@
 ---
 slug: "trm-wardle-j-1980-dietary-restraint-and-binge-eating-disorders"
-id: "TRM-ENG-49221"
+id: "TRM-ENG-63750"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wardle, J. (1980). Dietary restraint and binge eating. disorders"

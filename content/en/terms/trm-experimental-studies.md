@@ -1,6 +1,6 @@
 ---
 slug: "trm-experimental-studies"
-id: "TRM-ENG-35799"
+id: "TRM-ENG-50328"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "experimental studies"

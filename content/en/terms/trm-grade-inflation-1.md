@@ -1,6 +1,6 @@
 ---
 slug: "trm-grade-inflation-1"
-id: "TRM-ENG-46701"
+id: "TRM-ENG-61230"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Grade inflation, 1"

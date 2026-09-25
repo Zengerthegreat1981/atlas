@@ -1,6 +1,6 @@
 ---
 slug: "trm-524-levi-l-ed"
-id: "TRM-ENG-39132"
+id: "TRM-ENG-53661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "524. Levi L (ed)"

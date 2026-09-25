@@ -1,6 +1,6 @@
 ---
 slug: "trm-focusing-on-a-particular-aspect-of-utility"
-id: "TRM-ENG-43686"
+id: "TRM-ENG-58215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "focusing on a particular aspect of utility"

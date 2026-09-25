@@ -1,6 +1,6 @@
 ---
 slug: "trm-psicologapp553565santodomingo"
-id: "TRM-ENG-37196"
+id: "TRM-ENG-66254"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psicologı`a,pp.553–565.SantoDomingo"

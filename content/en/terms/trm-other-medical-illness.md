@@ -1,6 +1,6 @@
 ---
 slug: "trm-other-medical-illness"
-id: "TRM-ENG-43104"
+id: "TRM-ENG-57633"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "other medical illness"

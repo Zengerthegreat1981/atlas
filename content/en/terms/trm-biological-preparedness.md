@@ -1,6 +1,6 @@
 ---
 slug: "trm-biological-preparedness"
-id: "TRM-ENG-50171"
+id: "TRM-ENG-64700"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Biological preparedness"

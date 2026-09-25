@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-nature-in-mind-pp-92103-san-francisco-ca"
-id: "TRM-ENG-51966"
+id: "TRM-ENG-66495"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with nature in mind (pp. 92–103). San Francisco, CA"

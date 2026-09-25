@@ -1,6 +1,6 @@
 ---
 slug: "trm-analysis-new-york-ny"
-id: "TRM-ENG-44893"
+id: "TRM-ENG-59422"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "analysis. New York, NY"

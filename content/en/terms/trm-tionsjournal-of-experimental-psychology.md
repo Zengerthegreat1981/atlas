@@ -1,6 +1,6 @@
 ---
 slug: "trm-tionsjournal-of-experimental-psychology"
-id: "TRM-ENG-37194"
+id: "TRM-ENG-66252"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tions.Journal of Experimental Psychology"

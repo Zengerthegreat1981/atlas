@@ -1,6 +1,6 @@
 ---
 slug: "trm-clark-d-m-1996-panic-disorder"
-id: "TRM-ENG-48935"
+id: "TRM-ENG-63464"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Clark, D. M. (1996). Panic disorder"

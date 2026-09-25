@@ -1,6 +1,6 @@
 ---
 slug: "trm-iq-intelligence-quotient"
-id: "TRM-ENG-44000"
+id: "TRM-ENG-58529"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "IQ intelligence quotient"

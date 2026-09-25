@@ -1,6 +1,6 @@
 ---
 slug: "trm-defense-mechanisms-and-2"
-id: "TRM-ENG-39862"
+id: "TRM-ENG-54391"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "defense mechanisms and, 2"

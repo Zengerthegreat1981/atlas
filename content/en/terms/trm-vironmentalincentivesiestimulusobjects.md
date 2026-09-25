@@ -1,6 +1,6 @@
 ---
 slug: "trm-vironmentalincentivesiestimulusobjects"
-id: "TRM-ENG-43972"
+id: "TRM-ENG-58501"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "vironmentalincentives(i.e.,stimulusobjects)"

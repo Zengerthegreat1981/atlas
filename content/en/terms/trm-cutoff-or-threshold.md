@@ -1,6 +1,6 @@
 ---
 slug: "trm-cutoff-or-threshold"
-id: "TRM-ENG-35356"
+id: "TRM-ENG-64414"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cutoff (or Threshold)"

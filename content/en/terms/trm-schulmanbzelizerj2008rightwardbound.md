@@ -1,6 +1,6 @@
 ---
 slug: "trm-schulmanbzelizerj2008rightwardbound"
-id: "TRM-ENG-37265"
+id: "TRM-ENG-66323"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schulman,B.,&Zelizer,J.(2008).Rightwardbound"

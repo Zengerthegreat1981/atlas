@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-character"
-id: "TRM-ENG-36768"
+id: "TRM-ENG-65826"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of character"

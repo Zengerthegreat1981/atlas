@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-following-components"
-id: "TRM-ENG-45576"
+id: "TRM-ENG-60105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the following components"

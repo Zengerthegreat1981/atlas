@@ -1,6 +1,6 @@
 ---
 slug: "trm-barlowdh1988anxietyanditsdisorders"
-id: "TRM-ENG-46424"
+id: "TRM-ENG-60953"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barlow,D.H.(1988).Anxietyanditsdisorders"

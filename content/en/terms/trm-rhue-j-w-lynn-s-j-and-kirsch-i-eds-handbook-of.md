@@ -1,6 +1,6 @@
 ---
 slug: "trm-rhue-j-w-lynn-s-j-and-kirsch-i-eds-handbook-of"
-id: "TRM-ENG-45940"
+id: "TRM-ENG-60469"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rhue, J. W., Lynn, S. J. and Kirsch, I., eds. Handbook of"

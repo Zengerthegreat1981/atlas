@@ -1,6 +1,6 @@
 ---
 slug: "trm-ization-another-strand-of-social-theory"
-id: "TRM-ENG-48243"
+id: "TRM-ENG-62772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ization. Another strand of social theory"

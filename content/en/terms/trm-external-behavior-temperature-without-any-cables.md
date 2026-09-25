@@ -1,6 +1,6 @@
 ---
 slug: "trm-external-behavior-temperature-without-any-cables"
-id: "TRM-ENG-37757"
+id: "TRM-ENG-52286"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "external behavior, temperature) without any cables"

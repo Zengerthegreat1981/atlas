@@ -1,6 +1,6 @@
 ---
 slug: "trm-cooper-aj"
-id: "TRM-ENG-40238"
+id: "TRM-ENG-54767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cooper AJ"

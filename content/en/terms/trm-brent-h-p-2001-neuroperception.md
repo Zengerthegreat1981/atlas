@@ -1,6 +1,6 @@
 ---
 slug: "trm-brent-h-p-2001-neuroperception"
-id: "TRM-ENG-44243"
+id: "TRM-ENG-58772"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "& Brent, H. P. (2001). Neuroperception"

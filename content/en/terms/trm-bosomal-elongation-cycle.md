@@ -1,6 +1,6 @@
 ---
 slug: "trm-bosomal-elongation-cycle"
-id: "TRM-ENG-36219"
+id: "TRM-ENG-50748"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bosomal elongation cycle"

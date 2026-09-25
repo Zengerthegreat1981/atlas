@@ -1,6 +1,6 @@
 ---
 slug: "trm-ciency"
-id: "TRM-ENG-46894"
+id: "TRM-ENG-61423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ciency"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-lego-s"
-id: "TRM-ENG-41392"
+id: "TRM-ENG-55921"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lego S"

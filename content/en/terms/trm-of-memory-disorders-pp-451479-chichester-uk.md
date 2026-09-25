@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-memory-disorders-pp-451479-chichester-uk"
-id: "TRM-ENG-47155"
+id: "TRM-ENG-61684"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of memory disorders (pp. 451±479). Chichester, UK"

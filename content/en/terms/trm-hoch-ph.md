@@ -1,6 +1,6 @@
 ---
 slug: "trm-hoch-ph"
-id: "TRM-ENG-41003"
+id: "TRM-ENG-55532"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hoch PH"

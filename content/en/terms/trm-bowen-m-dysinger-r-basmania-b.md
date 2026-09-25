@@ -1,6 +1,6 @@
 ---
 slug: "trm-bowen-m-dysinger-r-basmania-b"
-id: "TRM-ENG-40002"
+id: "TRM-ENG-54531"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bowen M, Dysinger R, Basmania B"

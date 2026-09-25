@@ -1,6 +1,6 @@
 ---
 slug: "trm-neisseru1967cognitivepsychologynewyork"
-id: "TRM-ENG-37114"
+id: "TRM-ENG-51643"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Neisser,U.(1967).Cognitivepsychology.NewYork"

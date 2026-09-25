@@ -1,6 +1,6 @@
 ---
 slug: "trm-barron-f-learly-tf"
-id: "TRM-ENG-39815"
+id: "TRM-ENG-54344"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Barron F, Learly TF"

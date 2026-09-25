@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-and-lossnew-york"
-id: "TRM-ENG-36688"
+id: "TRM-ENG-65746"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment and loss.New York"

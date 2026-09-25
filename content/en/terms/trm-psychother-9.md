@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychother-9"
-id: "TRM-ENG-47987"
+id: "TRM-ENG-62516"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychother 9"

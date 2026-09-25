@@ -1,6 +1,6 @@
 ---
 slug: "trm-collaboration-2"
-id: "TRM-ENG-50263"
+id: "TRM-ENG-64792"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Collaboration, 2"

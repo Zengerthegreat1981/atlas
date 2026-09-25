@@ -1,6 +1,6 @@
 ---
 slug: "trm-body-weight-mgkg-ratio"
-id: "TRM-ENG-36217"
+id: "TRM-ENG-65275"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "body weight (mg/kg) ratio"

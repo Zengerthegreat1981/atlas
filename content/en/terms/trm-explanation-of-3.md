@@ -1,6 +1,6 @@
 ---
 slug: "trm-explanation-of-3"
-id: "TRM-ENG-40142"
+id: "TRM-ENG-54671"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "explanation of, 3"

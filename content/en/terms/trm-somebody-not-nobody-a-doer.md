@@ -1,6 +1,6 @@
 ---
 slug: "trm-somebody-not-nobody-a-doer"
-id: "TRM-ENG-48736"
+id: "TRM-ENG-63265"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "somebody, not nobody; a doer"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-dsmiiir"
-id: "TRM-ENG-43597"
+id: "TRM-ENG-58126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and DSM–III–R"

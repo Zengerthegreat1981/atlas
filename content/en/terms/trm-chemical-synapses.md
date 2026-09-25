@@ -1,6 +1,6 @@
 ---
 slug: "trm-chemical-synapses"
-id: "TRM-ENG-35620"
+id: "TRM-ENG-64678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Chemical synapses"

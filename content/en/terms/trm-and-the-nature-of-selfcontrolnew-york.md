@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-the-nature-of-selfcontrolnew-york"
-id: "TRM-ENG-36145"
+id: "TRM-ENG-65203"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and the nature of self-control.New York"

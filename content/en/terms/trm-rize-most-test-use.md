@@ -1,6 +1,6 @@
 ---
 slug: "trm-rize-most-test-use"
-id: "TRM-ENG-36091"
+id: "TRM-ENG-50620"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "rize most test use"

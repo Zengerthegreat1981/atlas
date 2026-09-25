@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-aware"
-id: "TRM-ENG-49255"
+id: "TRM-ENG-63784"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and aware"

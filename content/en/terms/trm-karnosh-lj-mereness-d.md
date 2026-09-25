@@ -1,6 +1,6 @@
 ---
 slug: "trm-karnosh-lj-mereness-d"
-id: "TRM-ENG-41199"
+id: "TRM-ENG-55728"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Karnosh LJ, Mereness D"

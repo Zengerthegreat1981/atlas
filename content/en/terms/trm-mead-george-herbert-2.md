@@ -1,6 +1,6 @@
 ---
 slug: "trm-mead-george-herbert-2"
-id: "TRM-ENG-46988"
+id: "TRM-ENG-61517"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mead, George Herbert, 2"

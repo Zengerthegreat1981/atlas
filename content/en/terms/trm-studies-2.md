@@ -1,6 +1,6 @@
 ---
 slug: "trm-studies-2"
-id: "TRM-ENG-47361"
+id: "TRM-ENG-61890"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Studies, 2"

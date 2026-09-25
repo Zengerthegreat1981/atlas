@@ -1,6 +1,6 @@
 ---
 slug: "trm-semans-jh-1956-premature-ejaculation"
-id: "TRM-ENG-35955"
+id: "TRM-ENG-50484"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Semans, J.H. (1956). Premature ejaculation"

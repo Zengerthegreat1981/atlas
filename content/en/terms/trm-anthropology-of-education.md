@@ -1,6 +1,6 @@
 ---
 slug: "trm-anthropology-of-education"
-id: "TRM-ENG-46238"
+id: "TRM-ENG-60767"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Anthropology of Education"

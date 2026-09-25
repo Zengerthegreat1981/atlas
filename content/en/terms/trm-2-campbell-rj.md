@@ -1,6 +1,6 @@
 ---
 slug: "trm-2-campbell-rj"
-id: "TRM-ENG-38695"
+id: "TRM-ENG-53224"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "2. Campbell RJ"

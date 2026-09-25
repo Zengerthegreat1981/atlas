@@ -1,6 +1,6 @@
 ---
 slug: "trm-infertility-treatment"
-id: "TRM-ENG-47048"
+id: "TRM-ENG-61577"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "infertility treatment"

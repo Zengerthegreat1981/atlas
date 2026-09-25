@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-change-in-children"
-id: "TRM-ENG-45600"
+id: "TRM-ENG-60129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory change in children"

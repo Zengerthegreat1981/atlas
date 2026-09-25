@@ -1,6 +1,6 @@
 ---
 slug: "trm-diagnosis-note"
-id: "TRM-ENG-39924"
+id: "TRM-ENG-54453"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diagnosis. (Note"

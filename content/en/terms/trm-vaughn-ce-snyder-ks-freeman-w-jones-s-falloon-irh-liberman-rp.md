@@ -1,6 +1,6 @@
 ---
 slug: "trm-vaughn-ce-snyder-ks-freeman-w-jones-s-falloon-irh-liberman-rp"
-id: "TRM-ENG-42673"
+id: "TRM-ENG-57202"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vaughn CE, Snyder KS, Freeman W, Jones S, Falloon IRH, Liberman RP"

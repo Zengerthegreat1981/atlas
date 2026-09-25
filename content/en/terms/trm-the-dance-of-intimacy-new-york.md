@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-dance-of-intimacy-new-york"
-id: "TRM-ENG-46282"
+id: "TRM-ENG-60811"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "———. The Dance of Intimacy. New York"

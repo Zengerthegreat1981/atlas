@@ -1,6 +1,6 @@
 ---
 slug: "trm-key-and-1"
-id: "TRM-ENG-46868"
+id: "TRM-ENG-61397"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Key and, 1"

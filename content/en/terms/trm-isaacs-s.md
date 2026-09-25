@@ -1,6 +1,6 @@
 ---
 slug: "trm-isaacs-s"
-id: "TRM-ENG-41087"
+id: "TRM-ENG-55616"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Isaacs S"

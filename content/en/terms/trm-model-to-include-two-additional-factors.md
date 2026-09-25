@@ -1,6 +1,6 @@
 ---
 slug: "trm-model-to-include-two-additional-factors"
-id: "TRM-ENG-47129"
+id: "TRM-ENG-61658"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "model to include two additional factors"

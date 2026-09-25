@@ -1,6 +1,6 @@
 ---
 slug: "trm-from-american-psychiatry"
-id: "TRM-ENG-45052"
+id: "TRM-ENG-59581"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "from American psychiatry"

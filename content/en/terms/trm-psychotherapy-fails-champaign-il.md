@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychotherapy-fails-champaign-il"
-id: "TRM-ENG-41363"
+id: "TRM-ENG-55892"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychotherapy fails. Champaign, IL"

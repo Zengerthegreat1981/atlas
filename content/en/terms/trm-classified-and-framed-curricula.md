@@ -1,6 +1,6 @@
 ---
 slug: "trm-classified-and-framed-curricula"
-id: "TRM-ENG-47775"
+id: "TRM-ENG-62304"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "classified and framed curricula"

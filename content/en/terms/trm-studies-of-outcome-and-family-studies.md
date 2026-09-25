@@ -1,6 +1,6 @@
 ---
 slug: "trm-studies-of-outcome-and-family-studies"
-id: "TRM-ENG-43266"
+id: "TRM-ENG-57795"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "studies of outcome, and family studies"

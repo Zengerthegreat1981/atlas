@@ -1,6 +1,6 @@
 ---
 slug: "trm-will-also-help-overcome-specific-fears-such-as-the-cid"
-id: "TRM-ENG-46270"
+id: "TRM-ENG-60799"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "will also help overcome specific fears, such as the (cid"

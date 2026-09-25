@@ -1,6 +1,6 @@
 ---
 slug: "trm-introspection-1"
-id: "TRM-ENG-45228"
+id: "TRM-ENG-59757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "introspection, 1"

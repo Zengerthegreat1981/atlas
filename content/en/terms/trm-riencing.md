@@ -1,6 +1,6 @@
 ---
 slug: "trm-riencing"
-id: "TRM-ENG-35292"
+id: "TRM-ENG-64350"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "riencing"

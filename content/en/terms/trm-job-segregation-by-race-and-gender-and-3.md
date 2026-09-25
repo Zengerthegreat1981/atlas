@@ -1,6 +1,6 @@
 ---
 slug: "trm-job-segregation-by-race-and-gender-and-3"
-id: "TRM-ENG-40664"
+id: "TRM-ENG-55193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "job segregation by race and gender and, 3"

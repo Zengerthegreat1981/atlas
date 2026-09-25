@@ -1,6 +1,6 @@
 ---
 slug: "trm-art-and-literature"
-id: "TRM-ENG-46247"
+id: "TRM-ENG-60776"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Art and literature"

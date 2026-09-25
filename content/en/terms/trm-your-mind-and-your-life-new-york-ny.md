@@ -1,6 +1,6 @@
 ---
 slug: "trm-your-mind-and-your-life-new-york-ny"
-id: "TRM-ENG-51981"
+id: "TRM-ENG-66510"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "your mind and your life. New York, NY"

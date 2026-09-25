@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-change-psychol-bull-88"
-id: "TRM-ENG-48479"
+id: "TRM-ENG-63008"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of change. Psychol Bull 88"

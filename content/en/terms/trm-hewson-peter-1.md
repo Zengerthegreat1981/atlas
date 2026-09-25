@@ -1,6 +1,6 @@
 ---
 slug: "trm-hewson-peter-1"
-id: "TRM-ENG-46767"
+id: "TRM-ENG-61296"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hewson, Peter, 1"

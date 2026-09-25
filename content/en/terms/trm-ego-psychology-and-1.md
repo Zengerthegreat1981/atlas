@@ -1,6 +1,6 @@
 ---
 slug: "trm-ego-psychology-and-1"
-id: "TRM-ENG-51423"
+id: "TRM-ENG-65952"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ego psychology and, 1"

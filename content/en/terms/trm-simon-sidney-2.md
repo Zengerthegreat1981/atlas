@@ -1,6 +1,6 @@
 ---
 slug: "trm-simon-sidney-2"
-id: "TRM-ENG-47295"
+id: "TRM-ENG-61824"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Simon, Sidney, 2"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ior-change-4th-ed-pp-143189-new-york"
-id: "TRM-ENG-42929"
+id: "TRM-ENG-57458"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ior change (4th ed., pp. 143–189). New York"

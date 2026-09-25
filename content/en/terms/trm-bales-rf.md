@@ -1,6 +1,6 @@
 ---
 slug: "trm-bales-rf"
-id: "TRM-ENG-39780"
+id: "TRM-ENG-54309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bales RF"

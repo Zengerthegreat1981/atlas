@@ -1,6 +1,6 @@
 ---
 slug: "trm-tion-to-acute-spinal-cord-injury"
-id: "TRM-ENG-47345"
+id: "TRM-ENG-61874"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tion to acute spinal cord injury"

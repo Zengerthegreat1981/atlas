@@ -1,6 +1,6 @@
 ---
 slug: "trm-oped-the-concept-of-habitus-to-exemplify-the-ways-in-market"
-id: "TRM-ENG-48484"
+id: "TRM-ENG-63013"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "oped the concept of habitus to exemplify the ways in market"

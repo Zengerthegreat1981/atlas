@@ -1,6 +1,6 @@
 ---
 slug: "trm-5-withdrawal-an-aspect-of-detachment"
-id: "TRM-ENG-47440"
+id: "TRM-ENG-61969"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "5. Withdrawal (an aspect of Detachment)"

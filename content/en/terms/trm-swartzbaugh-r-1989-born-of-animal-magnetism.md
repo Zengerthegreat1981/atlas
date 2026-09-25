@@ -1,6 +1,6 @@
 ---
 slug: "trm-swartzbaugh-r-1989-born-of-animal-magnetism"
-id: "TRM-ENG-35579"
+id: "TRM-ENG-64637"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Swartzbaugh, R. (1989). Born of animal magnetism"

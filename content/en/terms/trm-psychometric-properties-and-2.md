@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychometric-properties-and-2"
-id: "TRM-ENG-41353"
+id: "TRM-ENG-55882"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychometric properties and, 2"

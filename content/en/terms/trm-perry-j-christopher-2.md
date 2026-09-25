@@ -1,6 +1,6 @@
 ---
 slug: "trm-perry-j-christopher-2"
-id: "TRM-ENG-38582"
+id: "TRM-ENG-53111"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perry, J. Christopher, 2"

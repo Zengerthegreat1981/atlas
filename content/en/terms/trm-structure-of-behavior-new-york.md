@@ -1,6 +1,6 @@
 ---
 slug: "trm-structure-of-behavior-new-york"
-id: "TRM-ENG-38276"
+id: "TRM-ENG-52805"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "structure of behavior. New York"

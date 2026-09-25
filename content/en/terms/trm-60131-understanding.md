@@ -1,6 +1,6 @@
 ---
 slug: "trm-60131-understanding"
-id: "TRM-ENG-48861"
+id: "TRM-ENG-63390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "6.01.3.1 Understanding"

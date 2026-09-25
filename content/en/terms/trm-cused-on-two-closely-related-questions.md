@@ -1,6 +1,6 @@
 ---
 slug: "trm-cused-on-two-closely-related-questions"
-id: "TRM-ENG-36333"
+id: "TRM-ENG-65391"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cused on two closely related questions"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-miller-jg"
-id: "TRM-ENG-41721"
+id: "TRM-ENG-56250"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Miller JG"

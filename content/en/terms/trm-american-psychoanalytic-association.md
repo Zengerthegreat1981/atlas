@@ -1,6 +1,6 @@
 ---
 slug: "trm-american-psychoanalytic-association"
-id: "TRM-ENG-39687"
+id: "TRM-ENG-54216"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "American Psychoanalytic Association"

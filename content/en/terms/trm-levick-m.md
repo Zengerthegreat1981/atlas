@@ -1,6 +1,6 @@
 ---
 slug: "trm-levick-m"
-id: "TRM-ENG-41420"
+id: "TRM-ENG-55949"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levick M"

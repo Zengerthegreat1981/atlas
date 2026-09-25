@@ -1,6 +1,6 @@
 ---
 slug: "trm-l-1990-carbamazepine-prophylaxis-in-refractory-symptoms"
-id: "TRM-ENG-49057"
+id: "TRM-ENG-63586"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "L. (1990). Carbamazepine prophylaxis in refractory symptoms"

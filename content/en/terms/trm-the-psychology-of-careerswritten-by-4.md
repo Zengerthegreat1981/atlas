@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-psychology-of-careerswritten-by-4"
-id: "TRM-ENG-38890"
+id: "TRM-ENG-53419"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "The Psychology of Careerswritten by, 4"

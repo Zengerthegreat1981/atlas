@@ -1,6 +1,6 @@
 ---
 slug: "trm-68-lindzey-g-aronson-e-eds"
-id: "TRM-ENG-39310"
+id: "TRM-ENG-53839"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "68. Lindzey G, Aronson E (eds)"

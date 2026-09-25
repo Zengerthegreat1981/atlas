@@ -1,6 +1,6 @@
 ---
 slug: "trm-science"
-id: "TRM-ENG-34785"
+id: "TRM-ENG-49314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Science"

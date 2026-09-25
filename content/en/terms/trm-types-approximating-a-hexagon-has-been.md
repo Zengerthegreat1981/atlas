@@ -1,6 +1,6 @@
 ---
 slug: "trm-types-approximating-a-hexagon-has-been"
-id: "TRM-ENG-38403"
+id: "TRM-ENG-52932"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "types approximating a hexagon has been"

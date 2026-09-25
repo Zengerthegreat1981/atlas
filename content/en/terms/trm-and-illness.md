@@ -1,6 +1,6 @@
 ---
 slug: "trm-and-illness"
-id: "TRM-ENG-36132"
+id: "TRM-ENG-65190"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "and illness"

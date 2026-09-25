@@ -1,6 +1,6 @@
 ---
 slug: "trm-13th-amendment-3"
-id: "TRM-ENG-37466"
+id: "TRM-ENG-66524"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "13th Amendment, 3"

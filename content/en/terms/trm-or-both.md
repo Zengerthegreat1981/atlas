@@ -1,6 +1,6 @@
 ---
 slug: "trm-or-both"
-id: "TRM-ENG-45202"
+id: "TRM-ENG-59731"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "or both"

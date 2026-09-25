@@ -1,6 +1,6 @@
 ---
 slug: "trm-zazzor1960lesjumeauxlecoupleetlapersonneparis"
-id: "TRM-ENG-37456"
+id: "TRM-ENG-66514"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Zazzo,R.(1960).Lesjumeaux,lecoupleetlapersonne.Paris"

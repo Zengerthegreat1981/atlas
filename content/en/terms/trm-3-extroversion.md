@@ -1,6 +1,6 @@
 ---
 slug: "trm-3-extroversion"
-id: "TRM-ENG-38846"
+id: "TRM-ENG-53375"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "3. Extroversion"

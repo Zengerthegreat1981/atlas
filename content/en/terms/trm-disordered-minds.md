@@ -1,6 +1,6 @@
 ---
 slug: "trm-disordered-minds"
-id: "TRM-ENG-44717"
+id: "TRM-ENG-59246"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "_____, Disordered Minds"

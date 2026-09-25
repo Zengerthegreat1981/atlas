@@ -1,6 +1,6 @@
 ---
 slug: "trm-frustrating-in-effectively-counseling-parishioners"
-id: "TRM-ENG-51484"
+id: "TRM-ENG-66013"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "frustrating in effectively counseling parishioners"

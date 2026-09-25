@@ -1,6 +1,6 @@
 ---
 slug: "trm-levinepa1997wakingthetigerhealingtrauma"
-id: "TRM-ENG-37031"
+id: "TRM-ENG-66089"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Levine,P.A.(1997).Wakingthetiger–healingtrauma"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ofanoxseyeright"
-id: "TRM-ENG-38033"
+id: "TRM-ENG-67091"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ofanox’seye.Right"

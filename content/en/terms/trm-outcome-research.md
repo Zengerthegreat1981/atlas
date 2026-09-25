@@ -1,6 +1,6 @@
 ---
 slug: "trm-outcome-research"
-id: "TRM-ENG-49600"
+id: "TRM-ENG-64129"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "outcome research"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-that-therapists-consider-the-following"
-id: "TRM-ENG-41871"
+id: "TRM-ENG-56400"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "that therapists consider the following"

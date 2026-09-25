@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-ethical-aspects-of-the-problem"
-id: "TRM-ENG-35373"
+id: "TRM-ENG-64431"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the ethical aspects of the problem"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-krumboltz-j-d-1999-career-beliefs-inventory"
-id: "TRM-ENG-38339"
+id: "TRM-ENG-52868"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krumboltz, J. D. (1999). Career Beliefs Inventory"

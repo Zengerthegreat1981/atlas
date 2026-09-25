@@ -1,6 +1,6 @@
 ---
 slug: "trm-martin-aj"
-id: "TRM-ENG-41596"
+id: "TRM-ENG-56125"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Martin AJ"

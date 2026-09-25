@@ -1,6 +1,6 @@
 ---
 slug: "trm-though-the-specific-agent-that-caused-cholera-was-not-yet-ease"
-id: "TRM-ENG-37156"
+id: "TRM-ENG-66214"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "though the specific agent that caused cholera was not yet ease"

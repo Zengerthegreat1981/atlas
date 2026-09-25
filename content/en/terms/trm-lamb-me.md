@@ -1,6 +1,6 @@
 ---
 slug: "trm-lamb-me"
-id: "TRM-ENG-41351"
+id: "TRM-ENG-55880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lamb ME"

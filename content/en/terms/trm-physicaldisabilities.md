@@ -1,6 +1,6 @@
 ---
 slug: "trm-physicaldisabilities"
-id: "TRM-ENG-47197"
+id: "TRM-ENG-61726"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physicaldisabilities"

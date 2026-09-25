@@ -1,6 +1,6 @@
 ---
 slug: "trm-thorne-fc"
-id: "TRM-ENG-42592"
+id: "TRM-ENG-57121"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Thorne FC"

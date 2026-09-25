@@ -1,6 +1,6 @@
 ---
 slug: "trm-stephenson-w-1953-the-study-of-behavior"
-id: "TRM-ENG-35979"
+id: "TRM-ENG-65037"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stephenson, W. (1953). The study of behavior"

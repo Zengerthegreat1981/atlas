@@ -1,6 +1,6 @@
 ---
 slug: "trm-factors-and-1"
-id: "TRM-ENG-40159"
+id: "TRM-ENG-54688"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "factors and, 1"

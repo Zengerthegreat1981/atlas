@@ -1,6 +1,6 @@
 ---
 slug: "trm-advances-in-intelligent-tutoring-systems"
-id: "TRM-ENG-35285"
+id: "TRM-ENG-64343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Advances in intelligent tutoring systems"

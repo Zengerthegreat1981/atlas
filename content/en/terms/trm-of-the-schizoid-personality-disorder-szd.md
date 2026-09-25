@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-the-schizoid-personality-disorder-szd"
-id: "TRM-ENG-43780"
+id: "TRM-ENG-58309"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of the schizoid personality disorder (SZD)"

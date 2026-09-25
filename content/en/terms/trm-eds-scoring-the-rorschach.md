@@ -1,6 +1,6 @@
 ---
 slug: "trm-eds-scoring-the-rorschach"
-id: "TRM-ENG-35155"
+id: "TRM-ENG-49684"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Eds.), Scoring the Rorschach"

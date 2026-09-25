@@ -1,6 +1,6 @@
 ---
 slug: "trm-coccaro-ef-kavoussi-rj"
-id: "TRM-ENG-47561"
+id: "TRM-ENG-62090"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coccaro EF, Kavoussi RJ"

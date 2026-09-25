@@ -1,6 +1,6 @@
 ---
 slug: "trm-disease-181-475484-doi"
-id: "TRM-ENG-43415"
+id: "TRM-ENG-57944"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Disease, 181, 475–484. doi"

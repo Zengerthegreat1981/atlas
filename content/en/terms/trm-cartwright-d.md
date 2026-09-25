@@ -1,6 +1,6 @@
 ---
 slug: "trm-cartwright-d"
-id: "TRM-ENG-40139"
+id: "TRM-ENG-54668"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Cartwright D"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-reacting-to-them"
-id: "TRM-ENG-43829"
+id: "TRM-ENG-58358"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "reacting to them."

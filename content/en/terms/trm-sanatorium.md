@@ -1,6 +1,6 @@
 ---
 slug: "trm-sanatorium"
-id: "TRM-ENG-52370"
+id: "TRM-ENG-66899"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Sanatorium"

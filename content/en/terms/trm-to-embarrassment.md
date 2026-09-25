@@ -1,6 +1,6 @@
 ---
 slug: "trm-to-embarrassment"
-id: "TRM-ENG-46256"
+id: "TRM-ENG-60785"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "to embarrassment"

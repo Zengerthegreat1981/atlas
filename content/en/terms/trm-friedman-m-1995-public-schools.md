@@ -1,6 +1,6 @@
 ---
 slug: "trm-friedman-m-1995-public-schools"
-id: "TRM-ENG-46649"
+id: "TRM-ENG-61178"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Friedman, M. (1995). Public schools"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-of-addictions"
-id: "TRM-ENG-48478"
+id: "TRM-ENG-63007"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "of addictions"

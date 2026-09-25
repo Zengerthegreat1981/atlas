@@ -1,6 +1,6 @@
 ---
 slug: "trm-schorer-ce-lowinger-p-sullivan-t-hartlaub-gh"
-id: "TRM-ENG-42279"
+id: "TRM-ENG-56808"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Schorer CE, Lowinger P, Sullivan T, Hartlaub GH"

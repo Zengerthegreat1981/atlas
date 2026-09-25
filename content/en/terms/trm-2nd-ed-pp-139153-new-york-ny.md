@@ -1,6 +1,6 @@
 ---
 slug: "trm-2nd-ed-pp-139153-new-york-ny"
-id: "TRM-ENG-43258"
+id: "TRM-ENG-57787"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2nd ed., pp. 139–153). New York, NY"

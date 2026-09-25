@@ -1,6 +1,6 @@
 ---
 slug: "trm-rogoff-barbara-1"
-id: "TRM-ENG-47210"
+id: "TRM-ENG-61739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rogoff, Barbara, 1"

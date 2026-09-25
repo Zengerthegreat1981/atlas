@@ -1,6 +1,6 @@
 ---
 slug: "trm-suppl-1"
-id: "TRM-ENG-47399"
+id: "TRM-ENG-61928"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(suppl 1)"

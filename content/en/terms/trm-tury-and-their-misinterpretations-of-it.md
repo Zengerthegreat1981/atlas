@@ -1,6 +1,6 @@
 ---
 slug: "trm-tury-and-their-misinterpretations-of-it"
-id: "TRM-ENG-48980"
+id: "TRM-ENG-63509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tury and their misinterpretations of it"

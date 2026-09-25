@@ -1,6 +1,6 @@
 ---
 slug: "trm-krantz-c-jr-truitt-eb-jr-speer-l-ling-asc"
-id: "TRM-ENG-41305"
+id: "TRM-ENG-55834"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Krantz C, Jr, Truitt EB, Jr, Speer L, Ling ASC"

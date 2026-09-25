@@ -1,6 +1,6 @@
 ---
 slug: "trm-freud-s-19621930-civilization-and-its-discontentsnew-york"
-id: "TRM-ENG-35687"
+id: "TRM-ENG-64745"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freud, S. (1962/1930). Civilization and its discontents.New York"

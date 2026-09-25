@@ -1,6 +1,6 @@
 ---
 slug: "trm-1984a-personality-and-headache-type"
-id: "TRM-ENG-46300"
+id: "TRM-ENG-60829"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(1984a). Personality and headache type"

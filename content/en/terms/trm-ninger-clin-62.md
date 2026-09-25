@@ -1,6 +1,6 @@
 ---
 slug: "trm-ninger-clin-62"
-id: "TRM-ENG-48465"
+id: "TRM-ENG-62994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ninger Clin 62"

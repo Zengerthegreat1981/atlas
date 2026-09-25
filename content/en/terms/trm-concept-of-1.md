@@ -1,6 +1,6 @@
 ---
 slug: "trm-concept-of-1"
-id: "TRM-ENG-47802"
+id: "TRM-ENG-62331"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "concept of, 1"

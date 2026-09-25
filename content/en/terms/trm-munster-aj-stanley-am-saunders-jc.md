@@ -1,6 +1,6 @@
 ---
 slug: "trm-munster-aj-stanley-am-saunders-jc"
-id: "TRM-ENG-41793"
+id: "TRM-ENG-56322"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Munster AJ, Stanley AM, Saunders JC"

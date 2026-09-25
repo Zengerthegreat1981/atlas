@@ -1,6 +1,6 @@
 ---
 slug: "trm-brill-nq-glass-jf"
-id: "TRM-ENG-40034"
+id: "TRM-ENG-54563"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Brill NQ, Glass JF"

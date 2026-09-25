@@ -1,6 +1,6 @@
 ---
 slug: "trm-biobehavioral-responses-to-stress-in-females"
-id: "TRM-ENG-42331"
+id: "TRM-ENG-56860"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Biobehavioral responses to stress in females"

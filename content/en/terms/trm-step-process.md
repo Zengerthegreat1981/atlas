@@ -1,6 +1,6 @@
 ---
 slug: "trm-step-process"
-id: "TRM-ENG-36135"
+id: "TRM-ENG-65193"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "step process"

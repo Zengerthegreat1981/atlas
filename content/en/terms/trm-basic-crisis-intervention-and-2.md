@@ -1,6 +1,6 @@
 ---
 slug: "trm-basic-crisis-intervention-and-2"
-id: "TRM-ENG-39315"
+id: "TRM-ENG-53844"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "basic crisis intervention and, 2"

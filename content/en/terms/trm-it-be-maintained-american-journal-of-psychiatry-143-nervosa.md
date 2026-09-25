@@ -1,6 +1,6 @@
 ---
 slug: "trm-it-be-maintained-american-journal-of-psychiatry-143-nervosa"
-id: "TRM-ENG-49511"
+id: "TRM-ENG-64040"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "it be maintained? American Journal of Psychiatry, 143, nervosa"

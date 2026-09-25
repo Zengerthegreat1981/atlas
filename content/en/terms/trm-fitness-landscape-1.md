@@ -1,6 +1,6 @@
 ---
 slug: "trm-fitness-landscape-1"
-id: "TRM-ENG-46624"
+id: "TRM-ENG-61153"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fitness landscape, 1"

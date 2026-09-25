@@ -1,6 +1,6 @@
 ---
 slug: "trm-samplesboth-among-outpatients-131"
-id: "TRM-ENG-43188"
+id: "TRM-ENG-57717"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "samples—both among outpatients (13.1%"

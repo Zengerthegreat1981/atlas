@@ -1,6 +1,6 @@
 ---
 slug: "trm-analysis-11-255274-doi"
-id: "TRM-ENG-46233"
+id: "TRM-ENG-60762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Analysis, 11, 255–274. doi"

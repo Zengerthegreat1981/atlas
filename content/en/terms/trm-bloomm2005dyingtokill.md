@@ -1,6 +1,6 @@
 ---
 slug: "trm-bloomm2005dyingtokill"
-id: "TRM-ENG-36622"
+id: "TRM-ENG-65680"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bloom,M.(2005).Dyingtokill"

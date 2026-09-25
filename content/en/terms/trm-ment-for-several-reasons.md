@@ -1,6 +1,6 @@
 ---
 slug: "trm-ment-for-several-reasons"
-id: "TRM-ENG-48332"
+id: "TRM-ENG-62861"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ment for several reasons"

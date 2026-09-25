@@ -1,6 +1,6 @@
 ---
 slug: "trm-approach-behaviors-1"
-id: "TRM-ENG-44301"
+id: "TRM-ENG-58830"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Approach behaviors, 1"

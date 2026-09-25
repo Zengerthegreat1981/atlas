@@ -1,6 +1,6 @@
 ---
 slug: "trm-malcolm-j"
-id: "TRM-ENG-41568"
+id: "TRM-ENG-56097"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Malcolm, J"

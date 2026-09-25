@@ -1,6 +1,6 @@
 ---
 slug: "trm-light-r-j-pillemer-d-b-1984-summing-up"
-id: "TRM-ENG-35431"
+id: "TRM-ENG-64489"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Light, R. J., & Pillemer, D. B. (1984). Summing up"

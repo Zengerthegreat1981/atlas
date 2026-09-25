@@ -1,6 +1,6 @@
 ---
 slug: "trm-watson-as"
-id: "TRM-ENG-42722"
+id: "TRM-ENG-57251"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Watson AS"

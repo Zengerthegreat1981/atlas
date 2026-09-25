@@ -1,6 +1,6 @@
 ---
 slug: "trm-physical-wellbeing-affected-by-4"
-id: "TRM-ENG-41179"
+id: "TRM-ENG-55708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "physical well-being affected by, 4"

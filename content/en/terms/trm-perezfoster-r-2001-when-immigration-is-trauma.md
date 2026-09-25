@@ -1,6 +1,6 @@
 ---
 slug: "trm-perezfoster-r-2001-when-immigration-is-trauma"
-id: "TRM-ENG-38578"
+id: "TRM-ENG-53107"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Perez-Foster, R. (2001). When immigration is trauma"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-autre-in-french"
-id: "TRM-ENG-49937"
+id: "TRM-ENG-64466"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(autre in French)"

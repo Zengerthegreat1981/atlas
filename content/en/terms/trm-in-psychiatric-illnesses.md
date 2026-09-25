@@ -1,6 +1,6 @@
 ---
 slug: "trm-in-psychiatric-illnesses"
-id: "TRM-ENG-36553"
+id: "TRM-ENG-65611"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "in psychiatric illnesses"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-ington"
-id: "TRM-ENG-37861"
+id: "TRM-ENG-52390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ington"

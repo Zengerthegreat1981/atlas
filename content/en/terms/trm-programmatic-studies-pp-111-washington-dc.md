@@ -1,6 +1,6 @@
 ---
 slug: "trm-programmatic-studies-pp-111-washington-dc"
-id: "TRM-ENG-49646"
+id: "TRM-ENG-64175"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "programmatic studies (pp. 1±11). Washington, DC"

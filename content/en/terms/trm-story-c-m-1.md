@@ -1,6 +1,6 @@
 ---
 slug: "trm-story-c-m-1"
-id: "TRM-ENG-47348"
+id: "TRM-ENG-61877"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Story, C. M., 1"

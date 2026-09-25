@@ -1,6 +1,6 @@
 ---
 slug: "trm-amplified-nationalism-and-3"
-id: "TRM-ENG-39149"
+id: "TRM-ENG-53678"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "amplified nationalism and, 3"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-colemanfrancisxjtheharmonyofreason"
-id: "TRM-ENG-45670"
+id: "TRM-ENG-60199"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Coleman,FrancisX.J.TheHarmonyofReason"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-60-beats-per-minute"
-id: "TRM-ENG-48877"
+id: "TRM-ENG-63406"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "60 beats per minute"

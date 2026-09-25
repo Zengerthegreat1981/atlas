@@ -1,6 +1,6 @@
 ---
 slug: "trm-koller-j-1996-the-indian-way"
-id: "TRM-ENG-46892"
+id: "TRM-ENG-61421"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Koller, J. (1996). The Indian way"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-field-trials-in-the-united-states-and-canada"
-id: "TRM-ENG-42831"
+id: "TRM-ENG-57360"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "field trials in the United States and Canada"

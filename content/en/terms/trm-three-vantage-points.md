@@ -1,6 +1,6 @@
 ---
 slug: "trm-three-vantage-points"
-id: "TRM-ENG-41959"
+id: "TRM-ENG-56488"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "three vantage points"

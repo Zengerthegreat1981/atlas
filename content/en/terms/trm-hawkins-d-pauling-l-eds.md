@@ -1,6 +1,6 @@
 ---
 slug: "trm-hawkins-d-pauling-l-eds"
-id: "TRM-ENG-40946"
+id: "TRM-ENG-55475"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hawkins D, Pauling L (eds)"

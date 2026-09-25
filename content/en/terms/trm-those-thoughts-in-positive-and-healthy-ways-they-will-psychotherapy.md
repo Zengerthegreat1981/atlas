@@ -1,6 +1,6 @@
 ---
 slug: "trm-those-thoughts-in-positive-and-healthy-ways-they-will-psychotherapy"
-id: "TRM-ENG-41954"
+id: "TRM-ENG-56483"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "those thoughts in positive and healthy ways, they will psychotherapy"

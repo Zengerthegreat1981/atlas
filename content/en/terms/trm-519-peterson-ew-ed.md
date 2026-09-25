@@ -1,6 +1,6 @@
 ---
 slug: "trm-519-peterson-ew-ed"
-id: "TRM-ENG-39126"
+id: "TRM-ENG-53655"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "519. Peterson EW (ed)"

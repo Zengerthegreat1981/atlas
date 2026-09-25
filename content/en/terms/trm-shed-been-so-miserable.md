@@ -1,6 +1,6 @@
 ---
 slug: "trm-shed-been-so-miserable"
-id: "TRM-ENG-43179"
+id: "TRM-ENG-57708"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "she’d been so miserable"

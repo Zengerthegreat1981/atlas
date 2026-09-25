@@ -1,6 +1,6 @@
 ---
 slug: "trm-coping-and-2"
-id: "TRM-ENG-39705"
+id: "TRM-ENG-54234"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "coping and, 2"

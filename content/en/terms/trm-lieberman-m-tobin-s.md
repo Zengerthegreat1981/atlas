@@ -1,6 +1,6 @@
 ---
 slug: "trm-lieberman-m-tobin-s"
-id: "TRM-ENG-41459"
+id: "TRM-ENG-55988"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Lieberman M & Tobin S"

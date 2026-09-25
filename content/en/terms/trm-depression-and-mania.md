@@ -1,6 +1,6 @@
 ---
 slug: "trm-depression-and-mania"
-id: "TRM-ENG-43009"
+id: "TRM-ENG-57538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "depression and mania"

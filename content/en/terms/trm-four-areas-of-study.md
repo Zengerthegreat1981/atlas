@@ -1,6 +1,6 @@
 ---
 slug: "trm-four-areas-of-study"
-id: "TRM-ENG-37779"
+id: "TRM-ENG-66837"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "four areas of study"

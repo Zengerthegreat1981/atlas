@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-self-1"
-id: "TRM-ENG-48855"
+id: "TRM-ENG-63384"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the self, 1"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-the-adapted-child-all-three-ego-states"
-id: "TRM-ENG-41876"
+id: "TRM-ENG-56405"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "the Adapted Child. All three ego states"

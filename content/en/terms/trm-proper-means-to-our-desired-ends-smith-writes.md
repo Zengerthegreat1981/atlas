@@ -1,6 +1,6 @@
 ---
 slug: "trm-proper-means-to-our-desired-ends-smith-writes"
-id: "TRM-ENG-38132"
+id: "TRM-ENG-52661"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "proper means” to our “desired ends.” Smith writes"

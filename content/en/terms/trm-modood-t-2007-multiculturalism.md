@@ -1,6 +1,6 @@
 ---
 slug: "trm-modood-t-2007-multiculturalism"
-id: "TRM-ENG-47009"
+id: "TRM-ENG-61538"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Modood, T. (2007). Multiculturalism"

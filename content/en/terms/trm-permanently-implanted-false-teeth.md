@@ -1,6 +1,6 @@
 ---
 slug: "trm-permanently-implanted-false-teeth"
-id: "TRM-ENG-47193"
+id: "TRM-ENG-61722"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "permanently implanted false teeth"

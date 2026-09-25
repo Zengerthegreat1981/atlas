@@ -1,6 +1,6 @@
 ---
 slug: "trm-hawthorne-effect-workplace-psychology-and-1"
-id: "TRM-ENG-38155"
+id: "TRM-ENG-52684"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hawthorne effect, workplace psychology and, 1"

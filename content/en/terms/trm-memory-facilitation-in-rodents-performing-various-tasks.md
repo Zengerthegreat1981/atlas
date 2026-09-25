@@ -1,6 +1,6 @@
 ---
 slug: "trm-memory-facilitation-in-rodents-performing-various-tasks"
-id: "TRM-ENG-36686"
+id: "TRM-ENG-51215"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "memory facilitation in rodents performing various tasks"

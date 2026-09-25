@@ -1,6 +1,6 @@
 ---
 slug: "trm-than-would-a-neutral-or-novel-stimulus-paired-with-the-ditioning"
-id: "TRM-ENG-37098"
+id: "TRM-ENG-66156"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "than would a neutral or novel stimulus paired with the ditioning"

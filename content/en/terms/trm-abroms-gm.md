@@ -1,6 +1,6 @@
 ---
 slug: "trm-abroms-gm"
-id: "TRM-ENG-39633"
+id: "TRM-ENG-54162"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Abroms GM"

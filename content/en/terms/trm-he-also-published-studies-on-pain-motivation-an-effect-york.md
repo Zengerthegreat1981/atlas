@@ -1,6 +1,6 @@
 ---
 slug: "trm-he-also-published-studies-on-pain-motivation-an-effect-york"
-id: "TRM-ENG-35057"
+id: "TRM-ENG-64115"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "he also published studies on pain, motivation, an effect York"

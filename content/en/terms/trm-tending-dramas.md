@@ -1,6 +1,6 @@
 ---
 slug: "trm-tending-dramas"
-id: "TRM-ENG-35365"
+id: "TRM-ENG-64423"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tending dramas"

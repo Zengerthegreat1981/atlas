@@ -1,6 +1,6 @@
 ---
 slug: "trm-vocational-development-attitude-scale-of-4"
-id: "TRM-ENG-38980"
+id: "TRM-ENG-53509"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Vocational Development Attitude Scale of, 4"

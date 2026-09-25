@@ -1,6 +1,6 @@
 ---
 slug: "trm-strauss-js"
-id: "TRM-ENG-42497"
+id: "TRM-ENG-57026"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Strauss JS"

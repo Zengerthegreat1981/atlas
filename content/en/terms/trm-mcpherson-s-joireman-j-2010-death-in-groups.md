@@ -1,6 +1,6 @@
 ---
 slug: "trm-mcpherson-s-joireman-j-2010-death-in-groups"
-id: "TRM-ENG-37068"
+id: "TRM-ENG-66126"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "McPherson, S., & Joireman, J. (2010). Death in groups"

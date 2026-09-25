@@ -1,6 +1,6 @@
 ---
 slug: "trm-stuart-rb"
-id: "TRM-ENG-42513"
+id: "TRM-ENG-57042"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Stuart RB"

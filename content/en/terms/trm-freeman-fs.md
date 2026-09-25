@@ -1,6 +1,6 @@
 ---
 slug: "trm-freeman-fs"
-id: "TRM-ENG-40606"
+id: "TRM-ENG-55135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Freeman FS"

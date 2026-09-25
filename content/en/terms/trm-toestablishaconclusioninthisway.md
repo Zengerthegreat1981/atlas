@@ -1,6 +1,6 @@
 ---
 slug: "trm-toestablishaconclusioninthisway"
-id: "TRM-ENG-43942"
+id: "TRM-ENG-58471"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "toestablishaconclusioninthisway."

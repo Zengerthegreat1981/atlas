@@ -1,6 +1,6 @@
 ---
 slug: "trm-approval-on-the-brief-treatment-of-depression"
-id: "TRM-ENG-42653"
+id: "TRM-ENG-57182"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "approval on the brief treatment of depression"

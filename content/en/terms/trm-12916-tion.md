@@ -1,6 +1,6 @@
 ---
 slug: "trm-12916-tion"
-id: "TRM-ENG-46366"
+id: "TRM-ENG-60895"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "12,9±16. tion"

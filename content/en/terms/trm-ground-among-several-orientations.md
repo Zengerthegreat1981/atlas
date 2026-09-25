@@ -1,6 +1,6 @@
 ---
 slug: "trm-ground-among-several-orientations"
-id: "TRM-ENG-48088"
+id: "TRM-ENG-62617"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ground among several orientations"

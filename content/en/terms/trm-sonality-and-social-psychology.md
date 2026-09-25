@@ -1,6 +1,6 @@
 ---
 slug: "trm-sonality-and-social-psychology"
-id: "TRM-ENG-43233"
+id: "TRM-ENG-57762"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "sonality and social psychology"

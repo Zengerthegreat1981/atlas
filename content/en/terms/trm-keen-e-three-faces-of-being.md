@@ -1,6 +1,6 @@
 ---
 slug: "trm-keen-e-three-faces-of-being"
-id: "TRM-ENG-44467"
+id: "TRM-ENG-58996"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Keen, E., Three Faces of Being"

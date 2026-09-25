@@ -1,6 +1,6 @@
 ---
 slug: "trm-tyhurst-js-the-role-of-transition-states"
-id: "TRM-ENG-42631"
+id: "TRM-ENG-57160"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Tyhurst JS: The role of transition states"

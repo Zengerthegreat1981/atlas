@@ -1,6 +1,6 @@
 ---
 slug: "trm-effect-ms-gstudycid"
-id: "TRM-ENG-35375"
+id: "TRM-ENG-49904"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Effect (α) MS G-study(cid"

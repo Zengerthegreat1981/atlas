@@ -1,6 +1,6 @@
 ---
 slug: "trm-hirsch-e-jr-2009-the-making-of-americans"
-id: "TRM-ENG-46773"
+id: "TRM-ENG-61302"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hirsch, E., Jr. (2009). The making of Americans"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hyperphagia"
-id: "TRM-ENG-43680"
+id: "TRM-ENG-58209"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "hyperphagia."

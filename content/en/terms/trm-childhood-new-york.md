@@ -1,6 +1,6 @@
 ---
 slug: "trm-childhood-new-york"
-id: "TRM-ENG-43643"
+id: "TRM-ENG-58172"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "childhood. New York"

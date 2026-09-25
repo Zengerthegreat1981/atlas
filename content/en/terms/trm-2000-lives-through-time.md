@@ -1,6 +1,6 @@
 ---
 slug: "trm-2000-lives-through-time"
-id: "TRM-ENG-42231"
+id: "TRM-ENG-56760"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(2000). Lives through time"

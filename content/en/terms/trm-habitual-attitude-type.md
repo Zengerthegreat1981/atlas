@@ -1,6 +1,6 @@
 ---
 slug: "trm-habitual-attitude-type"
-id: "TRM-ENG-45065"
+id: "TRM-ENG-59594"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "habitual attitude type"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-academy-of-sciences-biographical-memoirs-washington-dc"
-id: "TRM-ENG-36527"
+id: "TRM-ENG-65585"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Academy of Sciences Biographical Memoirs. Washington, DC"

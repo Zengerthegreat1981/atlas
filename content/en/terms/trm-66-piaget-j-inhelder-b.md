@@ -1,6 +1,6 @@
 ---
 slug: "trm-66-piaget-j-inhelder-b"
-id: "TRM-ENG-39288"
+id: "TRM-ENG-53817"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "66. Piaget J, Inhelder B"

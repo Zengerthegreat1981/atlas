@@ -1,6 +1,6 @@
 ---
 slug: "trm-ayllon-t-houghton-e"
-id: "TRM-ENG-39753"
+id: "TRM-ENG-54282"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Ayllon T, Houghton E"

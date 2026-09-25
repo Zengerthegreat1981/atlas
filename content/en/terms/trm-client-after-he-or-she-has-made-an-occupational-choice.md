@@ -1,6 +1,6 @@
 ---
 slug: "trm-client-after-he-or-she-has-made-an-occupational-choice"
-id: "TRM-ENG-39515"
+id: "TRM-ENG-54044"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "client after he or she has made an occupational choice"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-bell-r-et-al"
-id: "TRM-ENG-39861"
+id: "TRM-ENG-54390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Bell R et al"

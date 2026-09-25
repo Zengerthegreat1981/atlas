@@ -1,6 +1,6 @@
 ---
 slug: "trm-gurman-as-razin-am"
-id: "TRM-ENG-40861"
+id: "TRM-ENG-55390"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Gurman AS, Razin AM"

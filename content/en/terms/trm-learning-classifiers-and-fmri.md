@@ -1,6 +1,6 @@
 ---
 slug: "trm-learning-classifiers-and-fmri"
-id: "TRM-ENG-35906"
+id: "TRM-ENG-64964"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "learning classifiers and fMRI"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-these-refer-to-two-ways-of-living"
-id: "TRM-ENG-47386"
+id: "TRM-ENG-61915"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "These refer to two ways of living"

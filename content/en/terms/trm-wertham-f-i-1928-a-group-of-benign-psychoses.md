@@ -1,6 +1,6 @@
 ---
 slug: "trm-wertham-f-i-1928-a-group-of-benign-psychoses"
-id: "TRM-ENG-49226"
+id: "TRM-ENG-63755"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Wertham, F. I. (1928). A group of benign psychoses"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-hibbert-g-a-1984-ideational-componentsof-anxiety"
-id: "TRM-ENG-49023"
+id: "TRM-ENG-63552"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Hibbert, G. A. (1984). Ideational componentsof anxiety"

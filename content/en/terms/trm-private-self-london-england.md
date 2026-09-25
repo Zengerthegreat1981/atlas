@@ -1,6 +1,6 @@
 ---
 slug: "trm-private-self-london-england"
-id: "TRM-ENG-48582"
+id: "TRM-ENG-63111"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "private self. London, England"

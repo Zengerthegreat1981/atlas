@@ -1,6 +1,6 @@
 ---
 slug: "trm-ness-also-called-ataraxia"
-id: "TRM-ENG-43750"
+id: "TRM-ENG-58279"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ness. Also called ataraxia."

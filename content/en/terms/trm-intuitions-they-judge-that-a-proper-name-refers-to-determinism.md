@@ -1,6 +1,6 @@
 ---
 slug: "trm-intuitions-they-judge-that-a-proper-name-refers-to-determinism"
-id: "TRM-ENG-45229"
+id: "TRM-ENG-59758"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "intuitions (they judge that a proper name refers to determinism"

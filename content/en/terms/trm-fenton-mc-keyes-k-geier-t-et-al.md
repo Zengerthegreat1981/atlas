@@ -1,6 +1,6 @@
 ---
 slug: "trm-fenton-mc-keyes-k-geier-t-et-al"
-id: "TRM-ENG-47644"
+id: "TRM-ENG-62173"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Fenton MC, Keyes K, Geier T, et al"

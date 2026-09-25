@@ -1,6 +1,6 @@
 ---
 slug: "trm-term-memory"
-id: "TRM-ENG-44019"
+id: "TRM-ENG-58548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "TERM MEMORY,"

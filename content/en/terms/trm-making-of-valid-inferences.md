@@ -1,6 +1,6 @@
 ---
 slug: "trm-making-of-valid-inferences"
-id: "TRM-ENG-48307"
+id: "TRM-ENG-62836"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "making of valid inferences"

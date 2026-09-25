@@ -1,6 +1,6 @@
 ---
 slug: "trm-homosexuality-and-psychopolitics"
-id: "TRM-ENG-50546"
+id: "TRM-ENG-65075"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Homosexuality and psychopolitics"

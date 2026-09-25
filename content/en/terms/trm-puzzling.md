@@ -1,6 +1,6 @@
 ---
 slug: "trm-puzzling"
-id: "TRM-ENG-48606"
+id: "TRM-ENG-63135"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "puzzling"

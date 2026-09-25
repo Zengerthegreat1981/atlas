@@ -1,6 +1,6 @@
 ---
 slug: "trm-limitation-which-may-lead-to-anxieties-and-fears-cid"
-id: "TRM-ENG-46137"
+id: "TRM-ENG-60666"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "limitation, which may lead to anxieties and fears. (cid"

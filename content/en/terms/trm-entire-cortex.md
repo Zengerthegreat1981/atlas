@@ -1,6 +1,6 @@
 ---
 slug: "trm-entire-cortex"
-id: "TRM-ENG-34826"
+id: "TRM-ENG-63884"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "entire cortex"

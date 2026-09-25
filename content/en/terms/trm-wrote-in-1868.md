@@ -1,6 +1,6 @@
 ---
 slug: "trm-wrote-in-1868"
-id: "TRM-ENG-38465"
+id: "TRM-ENG-52994"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "wrote in 1868"

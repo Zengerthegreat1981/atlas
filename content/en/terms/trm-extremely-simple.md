@@ -1,6 +1,6 @@
 ---
 slug: "trm-extremely-simple"
-id: "TRM-ENG-34836"
+id: "TRM-ENG-49365"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "extremely simple"

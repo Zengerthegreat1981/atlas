@@ -1,6 +1,6 @@
 ---
 slug: "trm-information-processing"
-id: "TRM-ENG-45210"
+id: "TRM-ENG-59739"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "information processing"

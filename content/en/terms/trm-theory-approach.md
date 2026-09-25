@@ -1,6 +1,6 @@
 ---
 slug: "trm-theory-approach"
-id: "TRM-ENG-36182"
+id: "TRM-ENG-65240"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "theory approach"

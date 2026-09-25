@@ -1,6 +1,6 @@
 ---
 slug: "trm-transcendentalism-american-1"
-id: "TRM-ENG-47413"
+id: "TRM-ENG-61942"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Transcendentalism, American, 1"

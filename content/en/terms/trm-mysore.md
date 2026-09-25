@@ -1,6 +1,6 @@
 ---
 slug: "trm-mysore"
-id: "TRM-ENG-37108"
+id: "TRM-ENG-66166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Mysore"

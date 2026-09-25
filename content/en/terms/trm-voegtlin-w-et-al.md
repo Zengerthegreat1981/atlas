@@ -1,6 +1,6 @@
 ---
 slug: "trm-voegtlin-w-et-al"
-id: "TRM-ENG-42681"
+id: "TRM-ENG-57210"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Voegtlin W, et al"

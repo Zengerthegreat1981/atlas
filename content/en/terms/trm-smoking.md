@@ -1,6 +1,6 @@
 ---
 slug: "trm-smoking"
-id: "TRM-ENG-47292"
+id: "TRM-ENG-61821"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "smoking"

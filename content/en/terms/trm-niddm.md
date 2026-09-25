@@ -1,6 +1,6 @@
 ---
 slug: "trm-niddm"
-id: "TRM-ENG-46637"
+id: "TRM-ENG-61166"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "NIDDM"

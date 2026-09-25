@@ -1,6 +1,6 @@
 ---
 slug: "trm-medical-tribune"
-id: "TRM-ENG-41666"
+id: "TRM-ENG-56195"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Medical Tribune"

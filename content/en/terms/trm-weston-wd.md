@@ -1,6 +1,6 @@
 ---
 slug: "trm-weston-wd"
-id: "TRM-ENG-42765"
+id: "TRM-ENG-57294"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Weston WD"

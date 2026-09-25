@@ -1,6 +1,6 @@
 ---
 slug: "trm-taussig-f-abortionspontaneous-and-induced"
-id: "TRM-ENG-44663"
+id: "TRM-ENG-59192"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Taussig, F., Abortion—Spontaneous and Induced"

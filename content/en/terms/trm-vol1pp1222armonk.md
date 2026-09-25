@@ -1,6 +1,6 @@
 ---
 slug: "trm-vol1pp1222armonk"
-id: "TRM-ENG-36442"
+id: "TRM-ENG-65500"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "(Vol.1,pp.12–22).Armonk"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-through-life"
-id: "TRM-ENG-51922"
+id: "TRM-ENG-66451"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "through life"

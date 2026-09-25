@@ -1,6 +1,6 @@
 ---
 slug: "trm-beliefmodel"
-id: "TRM-ENG-46862"
+id: "TRM-ENG-61391"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beliefmodel"

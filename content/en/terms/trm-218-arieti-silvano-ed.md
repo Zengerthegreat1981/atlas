@@ -1,6 +1,6 @@
 ---
 slug: "trm-218-arieti-silvano-ed"
-id: "TRM-ENG-38733"
+id: "TRM-ENG-53262"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "218. Arieti Silvano (ed)"

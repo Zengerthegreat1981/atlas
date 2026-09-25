@@ -1,6 +1,6 @@
 ---
 slug: "trm-rational-psychology-1"
-id: "TRM-ENG-47181"
+id: "TRM-ENG-61710"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Rational psychology, 1"

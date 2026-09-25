@@ -1,6 +1,6 @@
 ---
 slug: "trm-interactions2ndednewyork"
-id: "TRM-ENG-47063"
+id: "TRM-ENG-61592"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "interactions(2nded.).NewYork"

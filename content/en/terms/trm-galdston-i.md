@@ -1,6 +1,6 @@
 ---
 slug: "trm-galdston-i"
-id: "TRM-ENG-40655"
+id: "TRM-ENG-55184"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Galdston I"

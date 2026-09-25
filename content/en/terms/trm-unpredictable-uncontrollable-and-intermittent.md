@@ -1,6 +1,6 @@
 ---
 slug: "trm-unpredictable-uncontrollable-and-intermittent"
-id: "TRM-ENG-37267"
+id: "TRM-ENG-66325"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "unpredictable, uncontrollable, and intermittent"

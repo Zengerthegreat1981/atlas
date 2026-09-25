@@ -1,6 +1,6 @@
 ---
 slug: "trm-depressivity"
-id: "TRM-ENG-44080"
+id: "TRM-ENG-58609"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "depressivity"

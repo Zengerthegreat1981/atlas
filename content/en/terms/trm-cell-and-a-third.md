@@ -1,6 +1,6 @@
 ---
 slug: "trm-cell-and-a-third"
-id: "TRM-ENG-34784"
+id: "TRM-ENG-63842"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "cell, and a third"

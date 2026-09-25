@@ -1,6 +1,6 @@
 ---
 slug: "trm-prison-experiment"
-id: "TRM-ENG-50880"
+id: "TRM-ENG-65409"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Prison Experiment"

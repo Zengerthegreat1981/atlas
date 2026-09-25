@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychiatryedinburgh"
-id: "TRM-ENG-47228"
+id: "TRM-ENG-61757"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "psychiatry.Edinburgh"

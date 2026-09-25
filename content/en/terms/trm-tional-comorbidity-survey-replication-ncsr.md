@@ -1,6 +1,6 @@
 ---
 slug: "trm-tional-comorbidity-survey-replication-ncsr"
-id: "TRM-ENG-43351"
+id: "TRM-ENG-57880"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "tional Comorbidity Survey Replication (NCS-R)"

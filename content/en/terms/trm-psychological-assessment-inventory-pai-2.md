@@ -1,6 +1,6 @@
 ---
 slug: "trm-psychological-assessment-inventory-pai-2"
-id: "TRM-ENG-38635"
+id: "TRM-ENG-53164"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Psychological Assessment Inventory (PAI), 2"

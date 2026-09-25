@@ -1,6 +1,6 @@
 ---
 slug: "trm-115-lewis-ra-salt-re-eds"
-id: "TRM-ENG-38576"
+id: "TRM-ENG-53105"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "115. Lewis RA, Salt RE (eds)"

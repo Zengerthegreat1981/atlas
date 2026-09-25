@@ -1,6 +1,6 @@
 ---
 slug: "trm-inattentional-amnesia-2"
-id: "TRM-ENG-44543"
+id: "TRM-ENG-59072"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Inattentional amnesia, 2"

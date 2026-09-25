@@ -1,6 +1,6 @@
 ---
 slug: "trm-lar-erp-component"
-id: "TRM-ENG-35903"
+id: "TRM-ENG-50432"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "lar ERP component"

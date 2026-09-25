@@ -1,6 +1,6 @@
 ---
 slug: "trm-jameison-gr-mcniel-ee"
-id: "TRM-ENG-41112"
+id: "TRM-ENG-55641"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Jameison GR, McNiel EE"

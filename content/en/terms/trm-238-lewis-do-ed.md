@@ -1,6 +1,6 @@
 ---
 slug: "trm-238-lewis-do-ed"
-id: "TRM-ENG-38761"
+id: "TRM-ENG-53290"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "238. Lewis DO (ed)"

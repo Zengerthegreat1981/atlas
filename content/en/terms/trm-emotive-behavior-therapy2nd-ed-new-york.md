@@ -1,6 +1,6 @@
 ---
 slug: "trm-emotive-behavior-therapy2nd-ed-new-york"
-id: "TRM-ENG-40038"
+id: "TRM-ENG-54567"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "emotive behavior therapy(2nd ed.). New York"

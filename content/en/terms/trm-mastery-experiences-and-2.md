@@ -1,6 +1,6 @@
 ---
 slug: "trm-mastery-experiences-and-2"
-id: "TRM-ENG-40776"
+id: "TRM-ENG-55305"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "mastery experiences and, 2"

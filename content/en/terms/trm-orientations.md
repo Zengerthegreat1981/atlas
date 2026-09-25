@@ -1,6 +1,6 @@
 ---
 slug: "trm-orientations"
-id: "TRM-ENG-45207"
+id: "TRM-ENG-59736"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "orientations"

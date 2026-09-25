@@ -1,6 +1,6 @@
 ---
 slug: "trm-expression-with-vertical"
-id: "TRM-ENG-45019"
+id: "TRM-ENG-59548"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "expression with vertical"

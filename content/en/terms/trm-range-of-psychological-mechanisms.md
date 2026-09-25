@@ -1,6 +1,6 @@
 ---
 slug: "trm-range-of-psychological-mechanisms"
-id: "TRM-ENG-43814"
+id: "TRM-ENG-58343"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "range of psychological mechanisms"

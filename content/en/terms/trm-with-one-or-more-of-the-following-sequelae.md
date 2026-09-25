@@ -1,6 +1,6 @@
 ---
 slug: "trm-with-one-or-more-of-the-following-sequelae"
-id: "TRM-ENG-47381"
+id: "TRM-ENG-61910"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "with one or more of the following sequelae"

@@ -1,6 +1,6 @@
 ---
 slug: "trm-narrative-therapy-2"
-id: "TRM-ENG-50785"
+id: "TRM-ENG-65314"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Narrative therapy, 2"

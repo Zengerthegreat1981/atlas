@@ -1,6 +1,6 @@
 ---
 slug: "trm-individual-alienation"
-id: "TRM-ENG-45106"
+id: "TRM-ENG-59635"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "individual alienation"

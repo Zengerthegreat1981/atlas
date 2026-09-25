@@ -1,6 +1,6 @@
 ---
 slug: "trm-bibliotherapy-and-2"
-id: "TRM-ENG-39364"
+id: "TRM-ENG-53893"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "bibliotherapy and, 2"

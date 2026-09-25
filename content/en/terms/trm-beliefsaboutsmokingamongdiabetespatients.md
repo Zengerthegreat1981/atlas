@@ -1,6 +1,6 @@
 ---
 slug: "trm-beliefsaboutsmokingamongdiabetespatients"
-id: "TRM-ENG-46863"
+id: "TRM-ENG-61392"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "beliefsaboutsmokingamongdiabetespatients"

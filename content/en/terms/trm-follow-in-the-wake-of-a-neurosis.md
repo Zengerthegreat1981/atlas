@@ -1,6 +1,6 @@
 ---
 slug: "trm-follow-in-the-wake-of-a-neurosis"
-id: "TRM-ENG-43043"
+id: "TRM-ENG-57572"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "follow in the wake of a neurosis"

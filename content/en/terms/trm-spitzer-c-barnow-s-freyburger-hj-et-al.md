@@ -1,6 +1,6 @@
 ---
 slug: "trm-spitzer-c-barnow-s-freyburger-hj-et-al"
-id: "TRM-ENG-48100"
+id: "TRM-ENG-62629"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "Spitzer C, Barnow S, Freyburger HJ, et al"

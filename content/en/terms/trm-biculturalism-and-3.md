@@ -1,6 +1,6 @@
 ---
 slug: "trm-biculturalism-and-3"
-id: "TRM-ENG-39367"
+id: "TRM-ENG-53896"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "biculturalism and, 3"

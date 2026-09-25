@@ -1,6 +1,6 @@
 ---
 slug: "trm-diction"
-id: "TRM-ENG-34977"
+id: "TRM-ENG-64035"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "diction"

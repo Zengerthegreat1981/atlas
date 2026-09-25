@@ -1,6 +1,6 @@
 ---
 slug: "trm-ing-principles-of-clinical-assessment-of-patients-ity"
-id: "TRM-ENG-42908"
+id: "TRM-ENG-57437"
 type: "مصطلح نفسي"
 level: "مقدمة"
 title: "ing principles of clinical assessment of patients ity"
