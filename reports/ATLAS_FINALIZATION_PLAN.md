@@ -127,3 +127,5 @@ Size: about 190 batches of 40.
 | 2026-09-26 | worker: political-economy 11 (20 currents, 15 critiques) | +35 (20 br, 15 crt), 35/35 pass; 59 orphans from batches 11-12 linked in 0a573d4f2. **political-economy measured: 419** | 61da6d5a6 |
 | 2026-09-26 | worker: political-economy 14 (35 post-1945 thinkers) | +35, 35/35 pass | 47dfb45a0 |
 | 2026-09-26 | worker: political-economy 13 (35 pre-1950 thinkers) | +35, 35/35 pass; 2 small fixes; 35 orphans linked and 5 related titles fixed in 428d2e301. **political-economy measured: 489** | 97955548d |
+| 2026-09-26 | worker: political-economy 16 (35 core concepts) | +35, 35/35 pass | 395b4ecd1 |
+| 2026-09-26 | worker: political-economy 15 (20 schools, 13 works, 2 thinkers) | +35, 35/35 pass after 3 fixes (dangling link, title translation, reversed lineage edge); 27 orphans linked in e27a50f42. **political-economy measured: 559** | 0eb699522 |
