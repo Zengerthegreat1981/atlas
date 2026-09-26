@@ -36,7 +36,12 @@ gaps:
 
 ترتبط هذه الفرضيةُ بنموذج "المسارين المزدوجين" (Dual-Route Model) في قراءة القارئ الماهر: مسارٌ "صوتي" يُركِّب نطقَ الكلمة تدريجياً من حروفها (أساسيٌّ للكلمات الجديدة غير المألوفة)، ومسارٌ "معجميٌّ مباشر" يتعرَّف على الكلمة المألوفة ككلٍّ بصريٍّ متكامل مباشرةً دون تركيبٍ صوتي — وتعتمد الأنظمةُ العميقة على المسار الثاني أكثرَ بكثير من الأنظمة الشفّافة.
 
+## تطبيقٌ على العربية
+
+تمثّل العربية حالةً خاصة تستحق دراسةً مستقلة، إذ تُكتَب عادةً دون تشكيل (حركات قصيرة) في النصوص اليومية للبالغين المتمرّسين، ما يجعلها عميقةً في هذا السياق (يعتمد القارئُ على السياق والمعرفة المعجمية لتحديد النطق الصحيح)، بينما تُكتَب بتشكيلٍ كامل في نصوص تعليم الأطفال والنصّ القرآني، ما يجعلها شفافةً تماماً في هذا السياق البديل — فالعربية الواحدة تتحرك عملياً على طرفَي متصل العمق الكتابي بحسب وجود التشكيل أو غيابه، وهي ظاهرةٌ فريدة لا نظيرَ مباشرَ لها في أغلب اللغات الأوروبية المدروسة تقليدياً.
+
 ## المصادر
 
 - Frost, Ram; Katz, Leonard; Bentin, Shlomo (1987). "Strategies for Visual Word Recognition and Orthographical Depth." *Journal of Experimental Psychology: Human Perception and Performance* 13(1).
 - Seymour, Philip H. K.; Aro, Mikko; Erskine, Jane M. (2003). "Foundation Literacy Acquisition in European Orthographies." *British Journal of Psychology* 94(2).
+- Abu-Rabia, Salim (1997). "Reading in Arabic Orthography: The Effect of Vowels and Context on Reading Accuracy of Poor and Skilled Native Arabic Readers." *Reading and Writing* 9(1).
