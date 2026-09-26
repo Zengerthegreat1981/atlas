@@ -69,4 +69,3 @@ gaps:
 - Schumpeter, Joseph A. *History of Economic Analysis*. Edited by Elizabeth Boody Schumpeter, Oxford University Press, 1954.
 - Heilbroner, Robert L. *The Worldly Philosophers*. Simon and Schuster, 1953.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.
-</content>

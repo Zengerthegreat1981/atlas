@@ -69,4 +69,3 @@ gaps:
 - Galbraith, John Kenneth. *The Affluent Society*. Houghton Mifflin, 1958.
 - Galbraith, John Kenneth. *American Capitalism: The Concept of Countervailing Power*. Houghton Mifflin, 1952.
 - Galbraith, John Kenneth. *The New Industrial State*. Houghton Mifflin, 1967.
-</content>

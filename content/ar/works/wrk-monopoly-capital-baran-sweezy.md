@@ -66,4 +66,3 @@ gaps:
 - Baran, Paul A., and Paul M. Sweezy. *Monopoly Capital: An Essay on the American Economic and Social Order*. Monthly Review Press, 1966.
 - Sweezy, Paul M. *The Theory of Capitalist Development*. Monthly Review Press, 1942.
 - Foster, John Bellamy. *The Theory of Monopoly Capitalism*. Monthly Review Press, 1986.
-</content>

@@ -17,6 +17,13 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "ins-propensity-score-matching", title: "المطابقةُ عبر درجة الميل (Propensity Score Matching)", type: "منهج/أداة بحث"
+- id: "ins-panel-data-methods", title: "مناهجُ بيانات اللوحة (Panel Data Methods)", type: "منهج/أداة بحث"
+- id: "ins-foster-greer-thorbecke-poverty-measures", title: "مقاييسُ فوستر-غرير-ثوربيك للفقر (Foster-Greer-Thorbecke Poverty Measures)", type: "منهج/أداة بحث"
+- id: "thk-justin-yifu-lin", title: "جاستن يي فو لين (Justin Yifu Lin)", type: "مفكر"
+- id: "thk-atul-kohli", title: "أتول كوهلي (Atul Kohli)", type: "مفكر"
+- id: "thk-kaushik-basu", title: "كاوشيك باسو (Kaushik Basu)", type: "مفكر"
+- id: "thk-dambisa-moyo", title: "دامبيسا مويو (Dambisa Moyo)", type: "مفكر"
 - id: "evt-bengal-famine-1943", title: "المجاعةُ البنغالية (1943)", type: "حدث تاريخي"
 - id: "con-poverty-trap", title: "مصيدةُ الفقر (Poverty Trap)", type: "مفهوم"
 - id: "con-middle-income-trap", title: "فخُّ الدخل المتوسط (Middle-Income Trap)", type: "مفهوم"

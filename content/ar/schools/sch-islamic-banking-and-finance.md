@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-modern-islamic-economics", target_type: "مدرسة"
 related:
+- id: "thk-abbas-mirakhor", title: "عباس ميراخور (Abbas Mirakhor)", type: "مفكر"
+- id: "thk-mahmoud-el-gamal", title: "محمود الجمل (Mahmoud El-Gamal)", type: "مفكر"
+- id: "thk-rodney-wilson-islamic-finance", title: "رودني ويلسون (Rodney Wilson)", type: "مفكر"
 - id: "sch-modern-islamic-economics", title: "الاقتصادُ الإسلاميُّ المعاصر (Modern Islamic Economics)", type: "مدرسة"
 - id: "thk-ahmad-al-naggar", title: "أحمد النجار", type: "مفكر"
 - id: "thk-muhammad-anas-zarqa", title: "محمد أنس الزرقا", type: "مفكر"

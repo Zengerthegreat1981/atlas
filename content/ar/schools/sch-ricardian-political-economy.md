@@ -17,6 +17,7 @@ active_end: 1870
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "thk-thomas-hodgskin", title: "توماس هودجسكن (Thomas Hodgskin)", type: "مفكر"
 - id: "con-theories-of-profit", title: "نظرياتُ الربح (Theories of Profit)", type: "مفهوم"
 - id: "thk-nassau-william-senior", title: "ناسو وليم سينيور (Nassau William Senior)", type: "مفكر"
 - id: "br-ricardian-socialism", title: "الاشتراكيةُ الريكاردية: العملُ مصدرَ القيمة وحقُّ العامل في كامل الناتج", type: "تيار"

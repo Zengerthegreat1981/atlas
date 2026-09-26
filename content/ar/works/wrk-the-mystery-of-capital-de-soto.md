@@ -65,4 +65,3 @@ gaps:
 - De Soto, Hernando. *The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else*. Basic Books, 2000.
 - North, Douglass C. *Institutions, Institutional Change and Economic Performance*. Cambridge University Press, 1990.
 - Acemoglu, Daron, and James A. Robinson. *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. Crown Business, 2012.
-</content>

@@ -15,7 +15,7 @@ policy_orientation: "لا مركزيّ-تعدّديّ: حوكمةٌ ذاتيةٌ
 active_start: 1973
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-new-institutional-economics", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-new-institutional-economics", target_type: "مدرسة"
 related:
 - id: "thk-elinor-ostrom", title: "إلينور أوستروم (Elinor Ostrom)", type: "مفكر"
 - id: "thk-vincent-ostrom", title: "ڤنسنت أوستروم (Vincent Ostrom)", type: "مفكر"

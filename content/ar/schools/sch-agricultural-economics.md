@@ -14,7 +14,7 @@ economic_school: "اقتصاديات الزراعة"
 policy_orientation: "تحليلُ أسواق السلع الزراعية المتقلّبة العرض والطلب، ودراسةُ سياسات الدعم الحكومي والأمن الغذائي وتقنيات الثورة الخضراء في رفع الإنتاجية"
 active_start: 1920
 edges:
-- rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-development-economics", target_type: "مدرسة"
 related:
 - id: "thk-ester-boserup", title: "إستر بوسيروب (Ester Boserup)", type: "مفكر"
 - id: "con-remittance-economies-arab-region", title: "اقتصاداتُ التحويلات المالية في المنطقة العربية", type: "مفهوم"
@@ -62,4 +62,3 @@ gaps:
 
 - Schultz, Theodore W. *Transforming Traditional Agriculture*. Yale University Press, 1964.
 - Evenson, Robert E., and Douglas Gollin. "Assessing the Impact of the Green Revolution, 1960 to 2000." *Science*, vol. 300, no. 5620, 2003, pp. 758–762.
-</content>

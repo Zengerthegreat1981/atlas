@@ -17,6 +17,7 @@ active_end: 1991
 edges:
 - rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
+- id: "sch-post-socialist-transition-economics", title: "اقتصادُ الانتقال ما بعد الاشتراكي (Post-Socialist Transition Economics)", type: "مدرسة"
 - id: "evt-soviet-first-five-year-plan-1928", title: "الخطةُ الخمسية السوفياتية الأولى (1928)", type: "حدث تاريخي"
 - id: "sch-comparative-economic-systems", title: "اقتصادُ الأنظمةِ المقارنة (Comparative Economic Systems)", type: "مدرسة"
 - id: "con-state-capitalism", title: "رأسماليةُ الدولة (State Capitalism)", type: "مفهوم"
@@ -71,4 +72,3 @@ gaps:
 - Nove, Alec. *The Soviet Economic System*. 3rd ed., Allen and Unwin, 1986.
 - Lange, Oskar, and Fred M. Taylor. *On the Economic Theory of Socialism*. University of Minnesota Press, 1938.
 - Gregory, Paul R., and Robert C. Stuart. *Russian and Soviet Economic Performance and Structure*. 7th ed., Addison-Wesley, 2001.
-</content>

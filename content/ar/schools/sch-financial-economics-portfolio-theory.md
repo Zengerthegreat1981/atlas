@@ -64,4 +64,3 @@ gaps:
 - Markowitz, Harry. "Portfolio Selection." *Journal of Finance*, vol. 7, no. 1, 1952, pp. 77–91.
 - Fama, Eugene F. "Efficient Capital Markets: A Review of Theory and Empirical Work." *Journal of Finance*, vol. 25, no. 2, 1970, pp. 383–417.
 - Black, Fischer, and Myron Scholes. "The Pricing of Options and Corporate Liabilities." *Journal of Political Economy*, vol. 81, no. 3, 1973, pp. 637–654.
-</content>

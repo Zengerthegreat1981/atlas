@@ -11,7 +11,7 @@ economic_school: "الاقتصادُ الكينزي"
 active_start: 1933
 active_end: 1980
 edges:
-- rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "evt-new-deal-1933", title: "صفقةُ روزفلت الجديدة (1933)", type: "حدث تاريخي"
 gaps: []

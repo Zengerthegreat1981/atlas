@@ -63,4 +63,3 @@ gaps:
 - Chiswick, Barry R. "The Effect of Americanization on the Earnings of Foreign-born Men." *Journal of Political Economy*, vol. 86, no. 5, 1978, pp. 897–921.
 - Borjas, George J. "Self-Selection and the Earnings of Immigrants." *American Economic Review*, vol. 77, no. 4, 1987, pp. 531–553.
 - Card, David. "The Impact of the Mariel Boatlift on the Miami Labor Market." *Industrial and Labor Relations Review*, vol. 43, no. 2, 1990, pp. 245–257.
-</content>

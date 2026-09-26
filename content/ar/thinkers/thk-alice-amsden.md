@@ -62,4 +62,3 @@ gaps:
 
 - Amsden, Alice H. *Asia's Next Giant: South Korea and Late Industrialization*. Oxford University Press, 1989.
 - Amsden, Alice H. *The Rise of "the Rest": Challenges to the West from Late-Industrializing Economies*. Oxford University Press, 2001.
-</content>

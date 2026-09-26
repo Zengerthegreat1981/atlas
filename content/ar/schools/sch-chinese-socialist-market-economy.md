@@ -65,4 +65,3 @@ gaps:
 - Naughton, Barry. *The Chinese Economy: Adaptation and Growth*. 2nd ed., MIT Press, 2018.
 - Lin, Justin Yifu. *Demystifying the Chinese Economy*. Cambridge University Press, 2012.
 - Rodrik, Dani. *One Economics, Many Recipes: Globalization, Institutions, and Economic Growth*. Princeton University Press, 2007.
-</content>

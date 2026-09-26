@@ -16,6 +16,7 @@ active_start: 1930
 edges:
 - rel: "evolved_from", target: "sch-soviet-planning-economics", target_type: "مدرسة"
 related:
+- id: "ins-synthetic-control-method", title: "أسلوبُ الرقابة التركيبية (Synthetic Control Method)", type: "منهج/أداة بحث"
 - id: "sch-soviet-planning-economics", title: "اقتصادُ التخطيط السوفياتي (Soviet Planning Economics)", type: "مدرسة"
 - id: "sch-east-asian-developmental-state", title: "نموذجُ الدولة التنموية في شرق آسيا (East Asian Developmental State)", type: "مدرسة"
 - id: "sch-rentier-state-theory", title: "نظريةُ الدولة الريعية (Rentier State Theory)", type: "مدرسة"
@@ -66,4 +67,3 @@ gaps:
 
 - Gregory, Paul R., and Robert C. Stuart. *Comparing Economic Systems in the Twenty-First Century*. 7th ed., South-Western, 2004.
 - Lange, Oskar, and Fred M. Taylor. *On the Economic Theory of Socialism*. University of Minnesota Press, 1938.
-</content>

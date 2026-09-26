@@ -66,4 +66,3 @@ gaps:
 - Keynes, John Maynard. *A Treatise on Money*. 2 vols., Macmillan, 1930.
 - Keynes, John Maynard. *The General Theory of Employment, Interest and Money*. Macmillan, 1936.
 - Skidelsky, Robert. *John Maynard Keynes: 1883-1946: Economist, Philosopher, Statesman*. Penguin, 2003.
-</content>

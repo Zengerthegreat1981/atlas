@@ -68,4 +68,3 @@ gaps:
 - Myrdal, Gunnar. *Economic Theory and Under-developed Regions*. Duckworth, 1957.
 - Alonso, William. *Location and Land Use*. Harvard University Press, 1964.
 - Krugman, Paul. "Increasing Returns and Economic Geography." *Journal of Political Economy*, vol. 99, no. 3, 1991.
-</content>

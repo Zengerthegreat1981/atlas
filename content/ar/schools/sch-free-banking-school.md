@@ -65,4 +65,3 @@ gaps:
 - Selgin, George A. *The Theory of Free Banking: Money Supply under Competitive Note Issue*. Rowman and Littlefield, 1988.
 - Hayek, Friedrich A. *Denationalisation of Money*. Institute of Economic Affairs, 1976.
 - White, Lawrence H. *Free Banking in Britain: Theory, Experience, and Debate, 1800-1845*. 2nd ed., Institute of Economic Affairs, 1995.
-</content>

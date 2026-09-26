@@ -65,4 +65,3 @@ gaps:
 
 - Mahalanobis, Prasanta Chandra. "The Approach of Operational Research to Planning in India." *Sankhyā: The Indian Journal of Statistics*, vol. 16, no. 1/2, 1955, pp. 3–130.
 - Rudra, Ashok. *Prasanta Chandra Mahalanobis: A Biography*. Oxford University Press, 1996.
-</content>

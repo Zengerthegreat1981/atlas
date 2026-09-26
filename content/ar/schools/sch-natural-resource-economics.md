@@ -65,4 +65,3 @@ gaps:
 - Hotelling, Harold. "The Economics of Exhaustible Resources." *Journal of Political Economy*, vol. 39, no. 2, 1931, pp. 137–175.
 - Auty, Richard M. *Sustaining Development in Mineral Economies: The Resource Curse Thesis*. Routledge, 1993.
 - Dasgupta, Partha, and Geoffrey Heal. *Economic Theory and Exhaustible Resources*. Cambridge University Press, 1979.
-</content>

@@ -63,4 +63,3 @@ gaps:
 
 - Yergin, Daniel. *The Prize: The Epic Quest for Oil, Money, and Power*. Simon & Schuster, 1991.
 - Adelman, Morris A. *The Genie Out of the Bottle: World Oil since 1970*. MIT Press, 1995.
-</content>

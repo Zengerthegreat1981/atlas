@@ -60,4 +60,3 @@ gaps:
 
 - Patnaik, Utsa. "Ricardo's Fallacy: Nutritional Entitlements of Pre-Colonial India." In *Agrarian Relations*, edited by V. K. Ramachandran and Madhura Swaminathan, Tulika Books, 2003.
 - Patnaik, Utsa, and Prabhat Patnaik. *A Theory of Imperialism*. Columbia University Press, 2016.
-</content>

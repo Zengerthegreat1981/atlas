@@ -60,4 +60,3 @@ gaps:
 
 - Perez, Carlota. *Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages*. Edward Elgar, 2002.
 - Perez, Carlota. "Technological Revolutions and Techno-Economic Paradigms." *Cambridge Journal of Economics*, vol. 34, no. 1, 2010, pp. 185–202.
-</content>

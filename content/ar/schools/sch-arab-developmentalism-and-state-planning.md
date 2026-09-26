@@ -15,7 +15,7 @@ policy_orientation: "تصنيعٌ بالإحلال محلّ الواردات، �
 active_start: 1920
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
 related:
 - id: "evt-egyptian-land-reform-1952", title: "الإصلاحُ الزراعي المصري (1952)", type: "حدث تاريخي"
 - id: "evt-bank-misr-founding-1920", title: "تأسيسُ بنك مصر (1920)", type: "حدث تاريخي"

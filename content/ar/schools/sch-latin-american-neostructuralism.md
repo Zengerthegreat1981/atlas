@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
 related:
+- id: "thk-osvaldo-sunkel", title: "أوسفالدو سونكل (Osvaldo Sunkel)", type: "مفكر"
+- id: "thk-jose-antonio-ocampo", title: "خوسيه أنطونيو أوكامپو (José Antonio Ocampo)", type: "مفكر"
 - id: "sch-latin-american-structuralism-cepal", title: "البنيويةُ الأمريكية اللاتينية - سيبال (Latin American Structuralism - CEPAL)", type: "مدرسة"
 - id: "thk-raul-prebisch", title: "راؤول بريبيش (Raúl Prebisch)", type: "مفكر"
 - id: "crt-stiglitz-critique-of-washington-consensus", title: "نقدُ ستيغليتز لإجماع واشنطن: التحريرُ المتسرّع بلا مؤسساتٍ كافية", type: "نقد خارجي موثَّق"
@@ -64,4 +66,3 @@ gaps:
 - Sunkel, Osvaldo, editor. *Development from Within: Toward a Neostructuralist Approach for Latin America*. Lynne Rienner, 1993.
 - Stiglitz, Joseph E. *Globalization and Its Discontents*. W. W. Norton, 2002.
 - Bielschowsky, Ricardo. "Sixty Years of ECLAC: Structuralism and Neo-Structuralism." *CEPAL Review*, no. 97, 2009.
-</content>

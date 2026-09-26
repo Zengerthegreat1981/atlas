@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
 related:
+- id: "thk-thandika-mkandawire", title: "ثانديكا مكاندواير (Thandika Mkandawire)", type: "مفكر"
+- id: "thk-adebayo-adedeji", title: "أديبايو أديدجي (Adebayo Adedeji)", type: "مفكر"
+- id: "thk-claude-ake", title: "كلود آكي (Claude Ake)", type: "مفكر"
 - id: "con-comprador-bourgeoisie", title: "البرجوازيةُ الكمبرادورية (Comprador Bourgeoisie)", type: "مفهوم"
 - id: "wrk-unequal-development-amin", title: "التنميةُ غيرُ المتكافئة (Le Développement Inégal)", type: "عمل / كتاب"
 - id: "thk-walter-rodney", title: "والتر رودني (Walter Rodney)", type: "مفكر"
@@ -67,4 +70,3 @@ gaps:
 - Rodney, Walter. *How Europe Underdeveloped Africa*. Bogle-L'Ouverture Publications, 1972.
 - Amin, Samir. *Unequal Development: An Essay on the Social Formations of Peripheral Capitalism*. Monthly Review Press, 1976.
 - Nkrumah, Kwame. *Neo-Colonialism: The Last Stage of Imperialism*. Thomas Nelson, 1965.
-</content>

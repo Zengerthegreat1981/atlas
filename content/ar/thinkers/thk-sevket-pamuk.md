@@ -61,4 +61,3 @@ gaps:
 - Pamuk, Şevket. *A Monetary History of the Ottoman Empire*. Cambridge University Press, 2000.
 - Pamuk, Şevket. *The Ottoman Empire and European Capitalism, 1820–1913: Trade, Investment, and Production*. Cambridge University Press, 1987.
 - Owen, Roger, and Şevket Pamuk. *A History of Middle East Economies in the Twentieth Century*. Harvard University Press, 1998.
-</content>

@@ -67,4 +67,3 @@ gaps:
 - Buchanan, James M. "'La Scienza delle Finanze': The Italian Tradition in Fiscal Theory." *Fiscal Theory and Political Economy*, University of North Carolina Press, 1960.
 - De Viti de Marco, Antonio. *First Principles of Public Finance*. Jonathan Cape, 1936 (ترجمة إنجليزية).
 - McLure, Michael. *Pareto, Economics and Society: The Mechanical Analogy*. Routledge, 2001.
-</content>

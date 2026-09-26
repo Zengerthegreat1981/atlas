@@ -65,4 +65,3 @@ gaps:
 - George, Henry. *Progress and Poverty*. D. Appleton and Company, 1879.
 - George, Henry. *Social Problems*. Kegan Paul, Trench and Co., 1883.
 - Barker, Charles Albro. *Henry George*. Oxford University Press, 1955.
-</content>

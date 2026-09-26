@@ -61,4 +61,3 @@ gaps:
 
 - Nurkse, Ragnar. *Problems of Capital Formation in Underdeveloped Countries*. Oxford University Press, 1953.
 - Hirschman, Albert O. *The Strategy of Economic Development*. Yale University Press, 1958.
-</content>

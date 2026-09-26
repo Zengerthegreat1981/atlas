@@ -63,4 +63,3 @@ gaps:
 - Schultz, Theodore W. "Investment in Human Capital." *American Economic Review*, vol. 51, no. 1, 1961, pp. 1–17.
 - Spence, Michael. "Job Market Signaling." *Quarterly Journal of Economics*, vol. 87, no. 3, 1973, pp. 355–374.
 - Psacharopoulos, George, and Harry A. Patrinos. "Returns to Investment in Education: A Further Update." *Education Economics*, vol. 12, no. 2, 2004, pp. 111–134.
-</content>

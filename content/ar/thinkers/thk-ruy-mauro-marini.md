@@ -19,7 +19,7 @@ edges:
 related:
 - id: "sch-latin-american-dependency-theory", title: "نظرية التبعية السوسيولوجية اللاتينية", type: "مدرسة"
 - id: "thk-theotonio-dos-santos", title: "ثيوتونيو دوس سانتوس", type: "مفكر"
-- id: "dbt-cardoso-dependent-development-vs-classical-dependency", title: "جدلُ التنمية التابعة عند كاردوسو مقابل التبعية الكلاسيكية", type: "جدل"
+- id: "dbt-cardoso-dependent-development-vs-classical-dependency", title: "جدل داخل مدرسة التبعية: التنمية التابعة عند كاردوسو مقابل تنمية التخلف الكلاسيكية", type: "جدل"
 gaps:
   - "تفاصيلُ منفاه المتنقّل بين تشيلي والمكسيك بعد الانقلاب العسكري البرازيلي 1964 موثّقةٌ إجمالاً فقط في المصادر الإنجليزية المتاحة."
 ---

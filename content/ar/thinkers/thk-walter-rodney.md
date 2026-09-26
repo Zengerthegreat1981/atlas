@@ -67,4 +67,3 @@ gaps:
 - Rodney, Walter. *How Europe Underdeveloped Africa*. Bogle-L'Ouverture Publications, 1972.
 - Lewis, Rupert. *Walter Rodney's Intellectual and Political Thought*. University of the West Indies Press, 1998.
 - Rodney, Walter. *The Groundings with My Brothers*. Bogle-L'Ouverture Publications, 1969.
-</content>

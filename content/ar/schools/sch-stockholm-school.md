@@ -73,4 +73,3 @@ gaps:
 - Myrdal, Gunnar. *Monetary Equilibrium*. William Hodge, 1939.
 - Wicksell, Knut. *Interest and Prices*. Macmillan, 1936 (ترجمة إنجليزية لعملٍ نُشر أصلاً 1898).
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.
-</content>

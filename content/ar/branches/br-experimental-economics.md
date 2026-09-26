@@ -13,6 +13,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-homo-economicus-rational-choice-economics", target_type: "مدرسة"
 related:
+- id: "ins-laboratory-experiments-in-economics", title: "التجاربُ المختبرية في الاقتصاد (Laboratory Experiments in Economics)", type: "منهج/أداة بحث"
 - id: "thk-kahneman", title: "دانيال كانمان", type: "مفكر"
 gaps: []
 ---

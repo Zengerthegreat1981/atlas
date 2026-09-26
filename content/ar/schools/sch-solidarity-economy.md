@@ -65,4 +65,3 @@ gaps:
 
 - Laville, Jean-Louis. *L'économie solidaire: une perspective internationale*. Desclée de Brouwer, 1994.
 - Singer, Paul. *Introdução à economia solidária*. Editora Fundação Perseu Abramo, 2002.
-</content>

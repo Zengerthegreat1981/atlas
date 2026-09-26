@@ -60,4 +60,3 @@ gaps:
 - Walicki, Andrzej. *The Controversy over Capitalism: Studies in the Social Philosophy of the Russian Populists*. Clarendon Press, 1969.
 - Chayanov, Alexander V. *The Theory of Peasant Economy*. Edited by Daniel Thorner et al., American Economic Association, 1966 (كتابات أصلية من عشرينيات القرن العشرين).
 - Venturi, Franco. *Roots of Revolution: A History of the Populist and Socialist Movements in Nineteenth Century Russia*. Grosset and Dunlap, 1966.
-</content>

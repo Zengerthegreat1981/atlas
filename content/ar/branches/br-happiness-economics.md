@@ -11,7 +11,7 @@ economic_school: "الاقتصادُ الإيكولوجيُّ واللانمو"
 active_start: 1974
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-ecological-and-degrowth-economics", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-ecological-and-degrowth-economics", target_type: "مدرسة"
 related:
 - id: "stu-easterlin-paradox-1974", title: "مفارقةُ إيسترلين (1974)", type: "دراسة وبحث"
 gaps: []

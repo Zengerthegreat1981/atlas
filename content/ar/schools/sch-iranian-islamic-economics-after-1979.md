@@ -62,4 +62,3 @@ gaps:
 
 - Al-Sadr, Muhammad Baqir. *Iqtisaduna (Our Economics)*. World Organization for Islamic Services, 1982 (ترجمة إنجليزية لعملٍ نُشر أصلاً 1961).
 - Amuzegar, Jahangir. *Iran's Economy under the Islamic Republic*. I.B. Tauris, 1993.
-</content>

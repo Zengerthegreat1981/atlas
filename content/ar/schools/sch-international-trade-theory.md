@@ -68,4 +68,3 @@ gaps:
 - Ricardo, David. *On the Principles of Political Economy and Taxation*. John Murray, 1817.
 - Ohlin, Bertil. *Interregional and International Trade*. Harvard University Press, 1933.
 - Leontief, Wassily. "Domestic Production and Foreign Trade: The American Capital Position Re-Examined." *Proceedings of the American Philosophical Society*, vol. 97, no. 4, 1953.
-</content>

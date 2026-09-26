@@ -56,4 +56,3 @@ gaps:
 
 - Krueger, Anne O. "The Political Economy of the Rent-Seeking Society." *American Economic Review*, vol. 64, no. 3, 1974, pp. 291–303.
 - Krueger, Anne O. *Trade and Employment in Developing Countries: Liberalization Attempts and Consequences*. National Bureau of Economic Research, 1978.
-</content>

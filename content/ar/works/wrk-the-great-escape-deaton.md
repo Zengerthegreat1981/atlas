@@ -65,4 +65,3 @@ gaps:
 - Deaton, Angus. *The Great Escape: Health, Wealth, and the Origins of Inequality*. Princeton University Press, 2013.
 - Deaton, Angus. *The Analysis of Household Surveys: A Microeconometric Approach to Development Policy*. Johns Hopkins University Press, 1997.
 - Sen, Amartya. *Development as Freedom*. Alfred A. Knopf, 1999.
-</content>

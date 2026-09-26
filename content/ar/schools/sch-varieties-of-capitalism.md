@@ -64,4 +64,3 @@ gaps:
 - Hall, Peter A., and David Soskice, editors. *Varieties of Capitalism: The Institutional Foundations of Comparative Advantage*. Oxford University Press, 2001.
 - Streeck, Wolfgang. *Re-Forming Capitalism: Institutional Change in the German Political Economy*. Oxford University Press, 2009.
 - Amable, Bruno. *The Diversity of Modern Capitalism*. Oxford University Press, 2003.
-</content>

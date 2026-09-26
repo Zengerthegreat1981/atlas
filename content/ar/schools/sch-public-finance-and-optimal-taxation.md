@@ -65,4 +65,3 @@ gaps:
 - Pigou, Arthur C. *The Economics of Welfare*. 4th ed., Macmillan, 1932.
 - Mirrlees, James A. "An Exploration in the Theory of Optimum Income Taxation." *The Review of Economic Studies*, vol. 38, no. 2, 1971.
 - George, Henry. *Progress and Poverty*. D. Appleton and Company, 1879.
-</content>

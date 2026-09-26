@@ -68,4 +68,3 @@ gaps:
 - Galbraith, John Kenneth. *The Affluent Society*. Houghton Mifflin, 1958.
 - Galbraith, John Kenneth. *The New Industrial State*. Houghton Mifflin, 1967.
 - Parker, Richard. *John Kenneth Galbraith: His Life, His Politics, His Economics*. Farrar, Straus and Giroux, 2005.
-</content>

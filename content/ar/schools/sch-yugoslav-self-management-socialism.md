@@ -64,4 +64,3 @@ gaps:
 - Ward, Benjamin. "The Firm in Illyria: Market Syndicalism." *The American Economic Review*, vol. 48, no. 4, 1958.
 - Estrin, Saul. *Self-Management: Economic Theory and Yugoslav Practice*. Cambridge University Press, 1983.
 - Woodward, Susan L. *Socialist Unemployment: The Political Economy of Yugoslavia, 1945-1990*. Princeton University Press, 1995.
-</content>

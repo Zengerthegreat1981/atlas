@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-monetarism-chicago-school", target_type: "مدرسة"
 related:
+- id: "ins-structural-estimation", title: "التقديرُ الهيكلي (Structural Estimation)", type: "منهج/أداة بحث"
 - id: "stu-kydland-prescott-rules-rather-than-discretion-1977", title: "دراسةُ كيدلاند وبريسكوت عن القواعد بدل السلطة التقديرية (1977)", type: "دراسة وبحث"
 - id: "stu-barro-are-government-bonds-net-wealth-1974", title: "دراسةُ بارو عن السندات الحكومية وتكافؤ ريكاردو (1974)", type: "دراسة وبحث"
 - id: "stu-lucas-expectations-and-neutrality-of-money-1972", title: "دراسةُ لوكاس عن التوقعات وحياد النقود (1972)", type: "دراسة وبحث"

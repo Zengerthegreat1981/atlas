@@ -16,6 +16,7 @@ active_start: 1375
 active_end: "مستمر"
 edges: []
 related:
+- id: "sch-ottoman-classical-economic-mind", title: "الذهنيةُ الاقتصاديةُ العثمانية الكلاسيكية (Ottoman Classical Economic Mind)", type: "مدرسة"
 - id: "wrk-al-muqaddimah-ibn-khaldun", title: "مقدمة ابن خلدون في علم العمران البشري", type: "عمل / كتاب"
 - id: "sch-khaldunian-ilm-al-umran", title: "علم العمران البشري الخلدوني", type: "مدرسة"
 - id: "con-asabiyyah-ibn-khaldun", title: "العصبية عند ابن خلدون", type: "مفهوم"

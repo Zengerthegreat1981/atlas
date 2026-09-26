@@ -17,6 +17,7 @@ active_end: 1975
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "thk-arthur-okun", title: "آرثر أوكن (Arthur Okun)", type: "مفكر"
 - id: "dbt-pigou-effect-real-balances", title: "جدلُ أثرِ بيغو والأرصدة الحقيقية (The Pigou Effect and Real Balances Debate)", type: "جدل"
 - id: "thk-ben-bernanke", title: "بن برنانكي (Ben Bernanke)", type: "مفكر"
 - id: "thk-john-hicks", title: "جون هيكس (John Hicks)", type: "مفكر"

@@ -63,4 +63,3 @@ gaps:
 - Arrow, Kenneth J. "Uncertainty and the Welfare Economics of Medical Care." *American Economic Review*, vol. 53, no. 5, 1963, pp. 941–973.
 - Cutler, David M. *Your Money or Your Life: Strong Medicine for America's Health Care System*. Oxford University Press, 2004.
 - Folland, Sherman, et al. *The Economics of Health and Health Care*. 7th ed., Pearson, 2013.
-</content>

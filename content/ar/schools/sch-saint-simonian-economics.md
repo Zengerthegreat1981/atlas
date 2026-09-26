@@ -66,4 +66,3 @@ gaps:
 
 - Charléty, Sébastien. *Histoire du saint-simonisme (1825–1864)*. Hachette, 1896.
 - Autin, Jean. *Les frères Pereire: le bonheur d'entreprendre*. Perrin, 1984.
-</content>

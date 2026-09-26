@@ -61,4 +61,3 @@ gaps:
 
 - Penrose, Edith T. *The Theory of the Growth of the Firm*. Basil Blackwell, 1959.
 - Penrose, Edith T. *The Large International Firm in Developing Countries: The International Petroleum Industry*. George Allen & Unwin, 1968.
-</content>

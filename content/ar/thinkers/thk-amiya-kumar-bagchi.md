@@ -61,4 +61,3 @@ gaps:
 
 - Bagchi, Amiya Kumar. *The Political Economy of Underdevelopment*. Cambridge University Press, 1982.
 - Bagchi, Amiya Kumar. *Private Investment in India, 1900–1939*. Cambridge University Press, 1972.
-</content>

@@ -15,7 +15,7 @@ policy_orientation: "حرّيةُ التجارة والصناعة الطبيعي
 active_start: 1750
 active_end: 1790
 edges:
-- rel: "evolved_from", target: "br-scottish-enlightenment-common-sense", target_type: "تيار"
+- rel: "relates_to", target: "br-scottish-enlightenment-common-sense", target_type: "تيار"
 related:
 - id: "br-scottish-enlightenment-common-sense", title: "تنوير اسكتلندا وفلسفة الحس المشترك — الحس المشترك", type: "تيار"
 - id: "ctx-edinburgh-scottish-enlightenment", title: "التنوير الاسكتلندي وفلسفة الأخلاق والحس المشترك", type: "سياق/تقليد"
@@ -73,4 +73,3 @@ gaps:
 - Smith, Adam. *An Inquiry into the Nature and Causes of the Wealth of Nations*. 1776.
 - Steuart, James. *An Inquiry into the Principles of Political Oeconomy*. 1767.
 - Skinner, Andrew S. *A System of Social Science: Papers Relating to Adam Smith*. Oxford University Press, 1979.
-</content>

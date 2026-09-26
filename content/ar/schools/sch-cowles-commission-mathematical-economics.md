@@ -70,4 +70,3 @@ gaps:
 - Haavelmo, Trygve. "The Probability Approach in Econometrics." *Econometrica*, vol. 12, Supplement, 1944.
 - Koopmans, Tjalling C. *Three Essays on the State of Economic Science*. McGraw-Hill, 1957.
 - Christ, Carl F. "History of the Cowles Commission, 1932-1952." *Economic Theory and Measurement*, Cowles Commission, 1952.
-</content>

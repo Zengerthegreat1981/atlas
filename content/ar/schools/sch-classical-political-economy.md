@@ -16,6 +16,10 @@ active_start: 1776
 active_end: 1870
 edges: []
 related:
+- id: "sch-british-historical-economics", title: "المدرسةُ التاريخيةُ البريطانية في الاقتصاد (British Historical Economics)", type: "مدرسة"
+- id: "sch-monetary-economics-tradition", title: "تقليدُ الاقتصاد النقدي (Monetary Economics Tradition)", type: "مدرسة"
+- id: "thk-walter-bagehot", title: "والتر باجت (Walter Bagehot)", type: "مفكر"
+- id: "thk-thomas-tooke", title: "توماس توك (Thomas Tooke)", type: "مفكر"
 - id: "con-scarcity-and-economic-choice", title: "الندرةُ والاختيارُ الاقتصادي (Scarcity and Economic Choice)", type: "مفهوم"
 - id: "wrk-principles-of-political-economy-mill", title: "مبادئُ الاقتصاد السياسي (Principles of Political Economy)", type: "عمل / كتاب"
 - id: "wrk-harmonies-economiques-bastiat", title: "الهارمونياتُ الاقتصادية (Harmonies Économiques)", type: "عمل / كتاب"

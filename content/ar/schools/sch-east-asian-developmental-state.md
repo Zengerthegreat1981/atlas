@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "sch-flying-geese-development-model", title: "نموذجُ الإوَزّ الطائر للتنمية (Flying Geese Development Model)", type: "مدرسة"
+- id: "thk-robert-wade", title: "روبرت ويد (Robert Wade)", type: "مفكر"
+- id: "thk-peter-evans", title: "پيتر إيفانز (Peter Evans)", type: "مفكر"
 - id: "wrk-bad-samaritans-chang", title: "السامريّون الأشرار (Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism)", type: "عمل / كتاب"
 - id: "dbt-developmental-state-industrial-policy", title: "جدلُ الدولة التنموية والسياسة الصناعية (Developmental State and Industrial Policy)", type: "جدل"
 - id: "sch-neo-schumpeterian-national-innovation-systems", title: "النيوشومبيترية وأنظمةُ الابتكار الوطنية (Neo-Schumpeterian National Innovation Systems)", type: "مدرسة"
@@ -66,4 +69,3 @@ gaps:
 - Johnson, Chalmers. *MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925-1975*. Stanford University Press, 1982.
 - Evans, Peter. *Embedded Autonomy: States and Industrial Transformation*. Princeton University Press, 1995.
 - Amsden, Alice H. *Asia's Next Giant: South Korea and Late Industrialization*. Oxford University Press, 1989.
-</content>

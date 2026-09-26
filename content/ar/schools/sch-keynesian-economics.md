@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "sch-french-indicative-planning", title: "التخطيطُ التأشيري الفرنسي (French Indicative Planning)", type: "مدرسة"
+- id: "sch-neoclassical-growth-theory-solow-swan", title: "نظريةُ النمو النيوكلاسيكية عند سولو وسوان (Neoclassical Growth Theory: Solow-Swan)", type: "مدرسة"
 - id: "evt-uk-return-to-gold-1925", title: "عودةُ بريطانيا إلى معيار الذهب بسعر ما قبل الحرب (1925)", type: "حدث تاريخي"
 - id: "stu-blanchard-leigh-growth-forecast-errors-2013", title: "دراسةُ بلانشار وليه عن أخطاء توقعات النمو ومضاعف التقشف (2013)", type: "دراسة وبحث"
 - id: "br-open-economy-macroeconomics", title: "اقتصادُ الكليات المفتوح: الثالوثُ المستحيل بين الصرف والمال ورأس المال", type: "تيار"

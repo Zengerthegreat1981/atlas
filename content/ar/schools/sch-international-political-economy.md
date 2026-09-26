@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "sch-neo-gramscian-international-political-economy", title: "الاقتصادُ السياسيُّ الدولي الغرامشي الجديد (Neo-Gramscian International Political Economy)", type: "مدرسة"
 - id: "con-exchange-rate-overshooting", title: "فرطُ استجابة سعر الصرف (Exchange Rate Overshooting)", type: "مفهوم"
 - id: "thk-charles-kindleberger", title: "تشارلز كيندلبرغر (Charles Kindleberger)", type: "مفكر"
 - id: "thk-michael-hudson-economist", title: "مايكل هدسون (Michael Hudson)", type: "مفكر"
@@ -72,4 +73,3 @@ gaps:
 - Strange, Susan. *States and Markets*. 2nd ed., Pinter, 1994.
 - Keohane, Robert O., and Joseph S. Nye. *Power and Interdependence*. 2nd ed., Scott, Foresman, 1989.
 - Stiglitz, Joseph E. *Globalization and Its Discontents*. W. W. Norton, 2002.
-</content>

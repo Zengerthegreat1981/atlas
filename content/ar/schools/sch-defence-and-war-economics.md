@@ -14,7 +14,7 @@ economic_school: "اقتصاديات الدفاع والحرب"
 policy_orientation: "تحليلُ تخصيص الموارد الوطنية بين الاستهلاك المدني والإنفاق العسكري وقت الحرب والسلم، وتقييمُ الكلفة الاقتصادية للصراعات المسلّحة وإعادة الإعمار اللاحقة"
 active_start: 1939
 edges:
-- rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-development-economics", target_type: "مدرسة"
 related:
 - id: "con-rent-seeking", title: "السعيُ وراء الريع (Rent-Seeking)", type: "مفهوم"
 - id: "sch-rentier-state-theory", title: "نظريةُ الدولة الريعية (Rentier State Theory)", type: "مدرسة"
@@ -63,4 +63,3 @@ gaps:
 - Richardson, Lewis Fry. *Arms and Insecurity: A Mathematical Study of the Causes and Origins of War*. Boxwood Press, 1960.
 - Collier, Paul, and Anke Hoeffler. "Greed and Grievance in Civil War." *Oxford Economic Papers*, vol. 56, no. 4, 2004, pp. 563–595.
 - Stiglitz, Joseph E., and Linda J. Bilmes. *The Three Trillion Dollar War: The True Cost of the Iraq Conflict*. W. W. Norton, 2008.
-</content>

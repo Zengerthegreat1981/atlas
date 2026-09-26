@@ -69,4 +69,3 @@ gaps:
 - Say, Jean-Baptiste. *Traité d'économie politique*. 1803.
 - Bastiat, Frédéric. *Sophismes économiques*. 1845.
 - Breton, Yves, and Michel Lutfalla, editors. *L'économie politique en France au XIXe siècle*. Economica, 1991.
-</content>

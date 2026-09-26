@@ -65,4 +65,3 @@ gaps:
 
 - Furtado, Celso. *The Economic Growth of Brazil: A Survey from Colonial to Modern Times*. University of California Press, 1963 (ترجمة إنجليزية لعمل نُشر أصلاً بالبرتغالية 1959).
 - Furtado, Celso. *Development and Underdevelopment*. University of California Press, 1964.
-</content>

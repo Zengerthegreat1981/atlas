@@ -68,4 +68,3 @@ gaps:
 - Pigou, Arthur C. *The Economics of Welfare*. Macmillan, 1920.
 - Hotelling, Harold. "The Economics of Exhaustible Resources." *Journal of Political Economy*, vol. 39, no. 2, 1931, pp. 137–175.
 - Coase, Ronald H. "The Problem of Social Cost." *Journal of Law and Economics*, vol. 3, 1960, pp. 1–44.
-</content>

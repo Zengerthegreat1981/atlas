@@ -63,4 +63,3 @@ gaps:
 - Issawi, Charles, editor. *The Economic History of the Middle East, 1800–1914: A Book of Readings*. University of Chicago Press, 1966.
 - Owen, Roger. *The Middle East in the World Economy, 1800–1914*. Methuen, 1981.
 - Owen, Roger, and Şevket Pamuk. *A History of Middle East Economies in the Twentieth Century*. Harvard University Press, 1998.
-</content>

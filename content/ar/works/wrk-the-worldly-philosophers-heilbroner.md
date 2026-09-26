@@ -67,4 +67,3 @@ gaps:
 - Heilbroner, Robert L. *The Worldly Philosophers: The Lives, Times, and Ideas of the Great Economic Thinkers*. Simon and Schuster, 1953.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.
 - Schumpeter, Joseph A. *History of Economic Analysis*. Oxford University Press, 1954.
-</content>

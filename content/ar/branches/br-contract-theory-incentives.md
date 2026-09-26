@@ -11,7 +11,7 @@ economic_school: "المؤسسانيةُ الاقتصاديةُ الجديدة"
 active_start: 1970
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-new-institutional-economics", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-new-institutional-economics", target_type: "مدرسة"
 related:
 - id: "con-principal-agent-problem", title: "مشكلةُ الوكيل والأصيل (Principal-Agent Problem)", type: "مفهوم"
 - id: "thk-oliver-hart-economist", title: "أوليفر هارت (Oliver Hart)", type: "مفكر"

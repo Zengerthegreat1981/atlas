@@ -11,7 +11,7 @@ economic_school: "الاقتصادُ ما بعد الكينزي"
 active_start: 1943
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-post-keynesian-economics", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-post-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "thk-michal-kalecki", title: "ميخال كاليتسكي (Michał Kalecki)", type: "مفكر"
 - id: "crt-kalecki-political-aspects-of-full-employment-1943", title: "الجوانبُ السياسية للتوظيف الكامل عند كاليتسكي (1943): لماذا يقاوم أصحابُ الأعمال الرخاءَ الدائم", type: "نقد خارجي موثَّق"

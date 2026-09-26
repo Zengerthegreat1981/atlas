@@ -17,6 +17,11 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "thk-paul-davidson", title: "پول ديفيدسون (Paul Davidson)", type: "مفكر"
+- id: "thk-pierangelo-garegnani", title: "پيير أنجيلو گاريگناني (Pierangelo Garegnani)", type: "مفكر"
+- id: "thk-geoffrey-harcourt", title: "جيفري هاركورت (Geoffrey Harcourt)", type: "مفكر"
+- id: "thk-marc-lavoie", title: "مارك لافوا (Marc Lavoie)", type: "مفكر"
+- id: "thk-luigi-pasinetti", title: "لويجي باسينيتي (Luigi Pasinetti)", type: "مفكر"
 - id: "br-stock-flow-consistent-modelling", title: "النمذجةُ المتّسقة تدفّقاً ورصيداً: محاسبةُ القطاعات الشاملة في الاقتصاد الكلي", type: "تيار"
 - id: "thk-steve-keen", title: "ستيف كين (Steve Keen)", type: "مفكر"
 - id: "thk-wynne-godley", title: "وين غودلي (Wynne Godley)", type: "مفكر"

@@ -70,4 +70,3 @@ gaps:
 - Becker, Gary S. *Human Capital: A Theoretical and Empirical Analysis*. 3rd ed., University of Chicago Press, 1993.
 - Spence, Michael. "Job Market Signaling." *The Quarterly Journal of Economics*, vol. 87, no. 3, 1973.
 - Doeringer, Peter B., and Michael J. Piore. *Internal Labor Markets and Manpower Analysis*. D.C. Heath, 1971.
-</content>

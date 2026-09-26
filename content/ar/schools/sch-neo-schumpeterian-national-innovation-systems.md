@@ -71,4 +71,3 @@ gaps:
 - Lundvall, Bengt-Åke, editor. *National Systems of Innovation: Towards a Theory of Innovation and Interactive Learning*. Pinter, 1992.
 - Nelson, Richard R., editor. *National Innovation Systems: A Comparative Analysis*. Oxford University Press, 1993.
 - Mazzucato, Mariana. *The Entrepreneurial State: Debunking Public vs. Private Sector Myths*. Anthem Press, 2013.
-</content>

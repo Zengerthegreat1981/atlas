@@ -15,7 +15,7 @@ policy_orientation: "ليبرالي مقيَّد مؤسسياً: دولةٌ قو
 active_start: 1932
 active_end: "مستمر"
 edges:
-- rel: "evolved_from", target: "sch-mont-pelerin-neoliberalism", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-mont-pelerin-neoliberalism", target_type: "مدرسة"
 related:
 - id: "thk-walter-eucken", title: "فالتر أويكن (Walter Eucken)", type: "مفكر"
 - id: "thk-wilhelm-ropke", title: "ڤيلهلم روپكه (Wilhelm Röpke)", type: "مفكر"

@@ -65,4 +65,3 @@ gaps:
 - Acemoglu, Daron, and James A. Robinson. *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. Crown Business, 2012.
 - North, Douglass C. *Institutions, Institutional Change and Economic Performance*. Cambridge University Press, 1990.
 - Acemoglu, Daron, Simon Johnson, and James A. Robinson. "The Colonial Origins of Comparative Development." *The American Economic Review*, vol. 91, no. 5, 2001.
-</content>

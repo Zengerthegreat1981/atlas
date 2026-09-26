@@ -61,4 +61,3 @@ gaps:
 
 - Rosenstein-Rodan, Paul N. "Problems of Industrialisation of Eastern and South-Eastern Europe." *Economic Journal*, vol. 53, no. 210/211, 1943, pp. 202–211.
 - Murphy, Kevin M., Andrei Shleifer, and Robert W. Vishny. "Industrialization and the Big Push." *Journal of Political Economy*, vol. 97, no. 5, 1989, pp. 1003–1026.
-</content>

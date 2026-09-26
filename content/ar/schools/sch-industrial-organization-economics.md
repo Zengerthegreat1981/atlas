@@ -66,4 +66,3 @@ gaps:
 - Bain, Joe S. *Industrial Organization*. Wiley, 1959.
 - Stigler, George J. *The Organization of Industry*. Richard D. Irwin, 1968.
 - Tirole, Jean. *The Theory of Industrial Organization*. MIT Press, 1988.
-</content>

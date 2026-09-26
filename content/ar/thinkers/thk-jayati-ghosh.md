@@ -60,4 +60,3 @@ gaps:
 
 - Ghosh, Jayati, and C. P. Chandrasekhar. *The Market That Failed: A Decade of Neoliberal Economic Reforms in India*. LeftWord Books, 2002.
 - Ghosh, Jayati. "Never Done and Poorly Paid: Women's Work in Globalising India." Women Unlimited, 2009.
-</content>

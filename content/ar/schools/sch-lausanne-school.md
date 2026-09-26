@@ -15,7 +15,7 @@ policy_orientation: "تحليليٌّ رياضي بحت: بناءُ نماذج �
 active_start: 1870
 active_end: 1920
 edges:
-- rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
 - id: "thk-leon-walras", title: "ليون والراس (Léon Walras)", type: "مفكر"
 - id: "thk-pareto", title: "فيلفريدو باريتو", type: "مفكر"
@@ -66,4 +66,3 @@ gaps:
 - Walras, Léon. *Elements of Pure Economics*. Translated by William Jaffé, Allen and Unwin, 1954 (عملٌ أصلي 1874).
 - Pareto, Vilfredo. *Manual of Political Economy*. Translated ed., Augustus M. Kelley, 1971 (عملٌ أصلي 1906).
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.
-</content>

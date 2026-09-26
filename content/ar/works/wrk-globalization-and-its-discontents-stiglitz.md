@@ -65,4 +65,3 @@ gaps:
 - Stiglitz, Joseph E. *Globalization and Its Discontents*. W. W. Norton, 2002.
 - Stiglitz, Joseph E. "Information and the Change in the Paradigm in Economics." *The American Economic Review*, vol. 92, no. 3, 2002.
 - Rodrik, Dani. *One Economics, Many Recipes: Globalization, Institutions, and Economic Growth*. Princeton University Press, 2007.
-</content>

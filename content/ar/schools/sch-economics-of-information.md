@@ -62,4 +62,3 @@ gaps:
 - Akerlof, George A. "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism." *The Quarterly Journal of Economics*, vol. 84, no. 3, 1970.
 - Spence, Michael. "Job Market Signaling." *The Quarterly Journal of Economics*, vol. 87, no. 3, 1973.
 - Stiglitz, Joseph E. "Information and the Change in the Paradigm in Economics." *The American Economic Review*, vol. 92, no. 3, 2002.
-</content>

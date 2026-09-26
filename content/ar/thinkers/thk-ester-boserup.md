@@ -61,4 +61,3 @@ gaps:
 
 - Boserup, Ester. *The Conditions of Agricultural Growth: The Economics of Agrarian Change under Population Pressure*. George Allen & Unwin, 1965.
 - Boserup, Ester. *Woman's Role in Economic Development*. George Allen & Unwin, 1970.
-</content>

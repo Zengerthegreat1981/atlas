@@ -61,4 +61,3 @@ gaps:
 
 - McCloskey, Deirdre N. *The Rhetoric of Economics*. University of Wisconsin Press, 1985.
 - McCloskey, Deirdre N. *Bourgeois Dignity: Why Economics Can't Explain the Modern World*. University of Chicago Press, 2010.
-</content>

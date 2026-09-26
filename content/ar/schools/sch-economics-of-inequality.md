@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "ins-distributional-national-accounts", title: "الحساباتُ القومية التوزيعية (Distributional National Accounts)", type: "منهج/أداة بحث"
 - id: "thk-emmanuel-saez", title: "إيمانويل سايز (Emmanuel Saez)", type: "مفكر"
 - id: "thk-gabriel-zucman", title: "غابرييل زوكمان (Gabriel Zucman)", type: "مفكر"
 - id: "wrk-capital-and-ideology-piketty", title: "رأسُ المال والأيديولوجيا (Capital et Idéologie)", type: "عمل / كتاب"

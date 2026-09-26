@@ -15,7 +15,7 @@ policy_orientation: "ملكيةٌ حكومية مباشرة للصناعات ا�
 active_start: 1930
 active_end: 1950
 edges:
-- rel: "evolved_from", target: "sch-economic-history-of-the-middle-east", target_type: "مدرسة"
+- rel: "relates_to", target: "sch-economic-history-of-the-middle-east", target_type: "مدرسة"
 related:
 - id: "sch-economic-history-of-the-middle-east", title: "التأريخُ الاقتصاديُّ للشرق الأوسط (Economic History of the Middle East)", type: "مدرسة"
 - id: "sch-soviet-planning-economics", title: "اقتصادُ التخطيط السوفياتي (Soviet Planning Economics)", type: "مدرسة"
@@ -63,4 +63,3 @@ gaps:
 
 - Owen, Roger, and Şevket Pamuk. *A History of Middle East Economies in the Twentieth Century*. Harvard University Press, 1998.
 - Hershlag, Zvi Yehuda. *Turkey: The Challenge of Growth*. E.J. Brill, 1968.
-</content>

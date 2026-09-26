@@ -17,6 +17,9 @@ active_end: 1980
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "thk-ruy-mauro-marini", title: "روي ماورو ماريني (Ruy Mauro Marini)", type: "مفكر"
+- id: "thk-aldo-ferrer", title: "ألدو فيرير (Aldo Ferrer)", type: "مفكر"
+- id: "thk-maria-da-conceicao-tavares", title: "ماريا دا كونسيساو تافاريس (Maria da Conceição Tavares)", type: "مفكر"
 - id: "dbt-structuralism-vs-monetarism-latin-american-inflation", title: "جدلُ البنيوية مقابل المونيتارية حول التضخّم في أمريكا اللاتينية (Structuralism vs. Monetarism on Latin American Inflation)", type: "جدل"
 - id: "thk-celso-furtado", title: "سيلسو فورتادو (Celso Furtado)", type: "مفكر"
 - id: "sch-latin-american-neostructuralism", title: "البنيويةُ الجديدة الأمريكية اللاتينية (Latin American Neostructuralism)", type: "مدرسة"

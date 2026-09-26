@@ -64,4 +64,3 @@ gaps:
 - Amsden, Alice H. *Asia's Next Giant: South Korea and Late Industrialization*. Oxford University Press, 1989.
 - Wade, Robert. *Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization*. Princeton University Press, 1990.
 - Johnson, Chalmers. *MITI and the Japanese Miracle: The Growth of Industrial Policy, 1925–1975*. Stanford University Press, 1982.
-</content>
