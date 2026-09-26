@@ -63,4 +63,3 @@ gaps: []
 - Mintz, Sidney W. *Tasting Food, Tasting Freedom: Excursions into Eating, Culture, and the Past*. Beacon Press, 1996.
 - Appadurai, Arjun (ed.). *The Social Life of Things: Commodities in Cultural Perspective*. Cambridge University Press, 1986.
 - Tsing, Anna Lowenhaupt. *Friction: An Ethnography of Global Connection*. Princeton University Press, 2005.
-</content>

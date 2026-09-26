@@ -176,4 +176,3 @@ gaps:
 - [حلقة براغ اللسانية](/ar/مدرسة/sch-prague-linguistic-circle)
 - [رومان ياكوبسون](/ar/مفكر/thk-roman-jakobson)
 - [مبادئ الصواتة](/ar/أثر/wrk-grundzuge-der-phonologie-trubetzkoy)
-</content>

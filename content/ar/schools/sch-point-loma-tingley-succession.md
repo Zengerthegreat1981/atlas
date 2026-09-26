@@ -45,4 +45,3 @@ gaps:
 
 - Greenwalt, Emmett A. *The Point Loma Community in California, 1897–1942: A Theosophical Experiment*. Berkeley: University of California Press, 1955. (Open Library: `/works/OL1356187W`).
 - Ashcraft, W. Michael. *The Dawn of the New Cycle: Point Loma Theosophists and American Culture*. Knoxville: University of Tennessee Press, 2002. (Open Library: `/works/OL8920819W`).
-</content>

@@ -40,4 +40,3 @@ gaps:
 
 - Steiner, Rudolf, and Ita Wegman. *Extending Practical Medicine: Fundamental Principles Based on the Science of the Spirit*. Translated by A. R. Meuss. London: Rudolf Steiner Press, 1996. (Open Library: `/works/OL618243W`).
 - Kienle, Gunver S., Hans-Ulrich Albonico, Erik Baars, Harald J. Hamre, Peter Zimmermann, and Helmut Kiene. "Anthroposophic Medicine: An Integrative Medical System Originating in Europe." *Global Advances in Health and Medicine* 2, no. 6 (2013): 20–31. DOI: 10.7453/gahmj.2012.087.
-</content>

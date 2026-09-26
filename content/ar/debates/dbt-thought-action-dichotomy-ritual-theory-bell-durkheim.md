@@ -48,4 +48,3 @@ gaps:
 
 - Bell, C. (1992). *Ritual Theory, Ritual Practice*. Oxford University Press.
 - Asad, T. (1993). "Examining the Theoretical Discourse on Ritual: Ritual Theory, Ritual Practice." *American Journal of Sociology*, 98(6). DOI: 10.1086/204146. (مراجعةٌ نقديةٌ أكاديمية معاصرة تناقش أطروحة بيل).
-</content>

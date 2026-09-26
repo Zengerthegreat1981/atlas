@@ -39,4 +39,3 @@ gaps:
 
 - Bell, C. (1992). *Ritual Theory, Ritual Practice*. Oxford University Press.
 - Bell, C. (1997). *Ritual: Perspectives and Dimensions*. Oxford University Press.
-</content>

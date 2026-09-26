@@ -63,4 +63,3 @@ gaps: []
 - Guyer, Jane I. (ed.). *Seizing the Fish: Theories and Ideologies, Peoples and Spaces in African Livelihoods*. Journal of the International African Institute, 2014.
 - Guyer, Jane I. *Legacies, Logics, Logistics: Essays in the Anthropology of the Platform Economy*. University of Chicago Press, 2016.
 - Hart, Keith. *Money in an Unequal World: The Political Economy of Money and Its Future*. Profile Books, 2000.
-</content>

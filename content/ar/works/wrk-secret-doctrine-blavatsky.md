@@ -36,4 +36,3 @@ gaps:
 
 - Blavatsky, H. P. *The Secret Doctrine: The Synthesis of Science, Religion, and Philosophy*. London: Theosophical Publishing Company, 1888. (Open Library: `/works/OL2604017W`).
 - Hammer, Olav. *Claiming Knowledge: Strategies of Epistemology from Theosophy to the New Age*. Leiden: Brill, 2001. (Open Library: `/works/OL9090714W`).
-</content>

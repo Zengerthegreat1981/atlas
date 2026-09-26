@@ -48,4 +48,3 @@ gaps:
 
 - Hammer, Olav. "Schism and Consolidation: The Case of the Theosophical Movement." In *Sacred Schisms: How Religions Divide*, edited by James R. Lewis and Sarah M. Lewis. Cambridge: Cambridge University Press, 2009. DOI: 10.1017/cbo9780511581038.010.
 - Barber, X. Theodore. "Judge, William Quan (1851–1896), Theosophist." *American National Biography Online*. Oxford University Press, 2000. DOI: 10.1093/anb/9780198606697.article.0800786.
-</content>

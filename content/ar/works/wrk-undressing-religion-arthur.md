@@ -28,4 +28,3 @@ gaps:
 ## المصادر
 
 - Arthur, Linda B. (ed.). *Undressing Religion: Commitment and Conversion from a Cross-Cultural Perspective*. Berg Publishers, 2000.
-</content>

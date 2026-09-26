@@ -63,4 +63,3 @@ gaps: []
 - Weiner, Annette B. *Unearthing Gender: Women and Archaeology*. Oxford University Press, 1997.
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific*. Routledge, 1922.
 - Godelier, Maurice. *The Enigma of the Gift*. University of Chicago Press, 1999.
-</content>

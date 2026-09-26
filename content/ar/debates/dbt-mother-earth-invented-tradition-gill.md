@@ -41,4 +41,3 @@ gaps:
 ## المصادر
 - Gill, Sam D. *Mother Earth: An American Story*. University of Chicago Press, 1987.
 - Martin, Joel W. *The Land Looks After Us: A History of Native American Religion*. Oxford University Press, 2001.
-</content>

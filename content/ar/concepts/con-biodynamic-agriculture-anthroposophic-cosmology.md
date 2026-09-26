@@ -42,4 +42,3 @@ gaps:
 
 - LeVasseur, Todd Jared. "Biodynamic Agriculture." In *Encyclopedia of Food and Agricultural Ethics*, edited by Paul B. Thompson and David M. Kaplan. Dordrecht: Springer, 2014. DOI: 10.1007/978-94-007-0929-4_238.
 - Stehlik, Thomas. *Waldorf Schools and the History of Steiner Education: An International View*. London: Palgrave Macmillan, 2019. (Open Library: `/works/OL20850123W`).
-</content>

@@ -67,4 +67,3 @@ gaps:
 - Mauss, Marcel. *Sociology and Anthropology*. Ed. Claude Lévi-Strauss, trans. John Cunison, Routledge, 1979.
 - Fournier, Marcel. *Marcel Mauss: A Biography*. Princeton University Press, 2006.
 - Weiner, Annette B. *Women of Value, Men of Renown: New Perspectives in Trobriand Exchange*. University of Texas Press, 1976.
-</content>

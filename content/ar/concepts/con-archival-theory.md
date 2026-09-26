@@ -42,4 +42,3 @@ gaps: []
 - Stoler, Ann Laura. *Along the Archival Grain: Epistemic Anxieties and Colonial Common Sense*. Princeton: Princeton University Press, 2009.
 - Burton, Antoinette (ed.). *Archive Stories: Facts, Fictions, and the Writing of History*. Durham: Duke University Press, 2005.
 - Schwartz, Joan M., and Terry Cook. "Archives, Records, and Power: The Making of Modern Memory." *Archival Science* 2 (2002): 1–19.
-</content>

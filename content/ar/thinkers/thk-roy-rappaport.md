@@ -49,4 +49,3 @@ gaps:
 
 - Rappaport, R. A. (1968). *Pigs for the Ancestors: Ritual in the Ecology of a New Guinea People*. Yale University Press.
 - Rappaport, R. A. (1999). *Ritual and Religion in the Making of Humanity*. Cambridge University Press.
-</content>

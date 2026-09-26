@@ -63,4 +63,3 @@ gaps: []
 - Strathern, Marilyn. *Property, Substance and Effect: Anthropological Essays on Persons and Things*. Athlone Press, 1999.
 - Strathern, Marilyn. *After Property: Remapping Kinship*. Journal of the Royal Anthropological Institute, 2016.
 - Strathern, Marilyn. *The Relation: Issues in Complexity and Ethnography*. Prickly Paradigm Press, 2020.
-</content>

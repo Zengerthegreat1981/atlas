@@ -43,4 +43,3 @@ gaps:
 
 - Judge, William Quan. *The Ocean of Theosophy*. New York: Path Office, 1893. (Open Library: `/works/OL4989133W`).
 - Barber, X. Theodore. "Judge, William Quan (1851–1896), Theosophist." *American National Biography Online*. Oxford University Press, 2000. DOI: 10.1093/anb/9780198606697.article.0800786.
-</content>

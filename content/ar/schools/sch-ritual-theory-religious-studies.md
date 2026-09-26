@@ -67,4 +67,3 @@ gaps:
 
 - Robertson Smith, W. (1889). *Lectures on the Religion of the Semites: The Fundamental Institutions*. Adam and Charles Black.
 - Hubert, H. & Mauss, M. (1899). "Essai sur la nature et la fonction du sacrifice." *L'Année Sociologique*, 2, 29–138. (Trans. W. D. Halls, 1964, *Sacrifice: Its Nature and Function*, Cohen & West.)
-</content>

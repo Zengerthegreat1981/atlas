@@ -33,4 +33,3 @@ gaps:
 ## المصادر
 - Martin, Joel W. *Sacred Revolt: The Muskogees' Struggle for a New World*. Beacon Press, 1991.
 - Martin, Joel W. *The Land Looks After Us: A History of Native American Religion*. Oxford University Press, 2001.
-</content>

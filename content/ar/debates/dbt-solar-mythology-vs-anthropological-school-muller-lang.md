@@ -47,4 +47,3 @@ gaps:
 
 - Müller, F. M. (1856). *Comparative Mythology* (مقالة)؛ و(1873). *Introduction to the Science of Religion*. Longmans, Green (تواريخُ نشرٍ محقَّقةٌ سابقاً في ملفّ مولر عبر Open Library).
 - Lang, A. (1887). *Myth, Ritual, and Religion*. Longmans, Green (محقَّقٌ عبر Open Library، مذكورٌ سابقاً في ملفّ لانغ).
-</content>

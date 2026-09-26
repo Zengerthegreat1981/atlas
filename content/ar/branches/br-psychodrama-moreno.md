@@ -83,4 +83,3 @@ featured: true
 
 1. Moreno, J.L. (1987). The essential Moreno: Writings on psychodrama, group method, and spontaneity. Springer.
 2. Kellermann, P.F. (2007). Sociodrama and collective trauma. Jessica Kingsley.
-</content>

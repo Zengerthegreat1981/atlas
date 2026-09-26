@@ -35,4 +35,3 @@ gaps:
 ## المصادر
 
 - Judge, William Quan. *The Ocean of Theosophy*. New York: Path Office, 1893. (Open Library: `/works/OL4989133W`).
-</content>

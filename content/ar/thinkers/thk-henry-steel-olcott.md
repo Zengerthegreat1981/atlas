@@ -40,4 +40,3 @@ gaps:
 
 - Campbell, Bruce F. *Ancient Wisdom Revived: A History of the Theosophical Movement*. Berkeley: University of California Press, 1980. (Open Library: `/works/OL6577285W`).
 - Prothero, Stephen. *The White Buddhist: The Asian Odyssey of Henry Steel Olcott*. Bloomington: Indiana University Press, 1996.
-</content>

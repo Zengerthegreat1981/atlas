@@ -35,4 +35,3 @@ gaps:
 ## المصادر
 - Gill, Sam D. *Native American Religions: An Introduction*. Wadsworth, 1982.
 - Gill, Sam D. *Mother Earth: An American Story*. University of Chicago Press, 1987.
-</content>

@@ -41,4 +41,3 @@ gaps:
 
 - Smith, Jonathan Z. (1990). *Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity*. University of Chicago Press.
 - Open Library: عملٌ برقم OL4308199W (طبعة 1990، University of Chicago Press).
-</content>

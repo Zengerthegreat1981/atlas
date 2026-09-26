@@ -67,4 +67,3 @@ gaps:
 - Polanyi, Karl. *The Livelihood of Man*. Ed. Harry W. Pearson, Academic Press, 1977.
 - Granovetter, Mark. "Economic Action and Social Structure: The Problem of Embeddedness." *American Journal of Sociology*, vol. 91, no. 3, 1985, pp. 481–510.
 - Stanfield, J. Ronald. *The Economic Thought of Karl Polanyi: Lives and Livelihood*. St. Martin's Press, 1986.
-</content>

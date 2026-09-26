@@ -46,4 +46,3 @@ gaps:
 - Steiner, Rudolf. *An Outline of Occult Science*. 1910. (Open Library: `/works/OL618606W`).
 - Zander, Helmut. *Anthroposophie in Deutschland: Theosophische Weltanschauung und gesellschaftliche Praxis 1884–1945*. Göttingen: Vandenhoeck & Ruprecht, 2007. (Open Library: `/works/OL3183636W`).
 - Zander, Helmut. *Rudolf Steiner: Die Biographie*. München: Piper, 2011. (Open Library: `/works/OL33033443W`).
-</content>

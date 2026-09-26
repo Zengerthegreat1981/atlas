@@ -32,4 +32,3 @@ gaps:
 
 - Arthur, Linda B. (ed.). *Religion, Dress and the Body*. Berg Publishers, 1999.
 - Arthur, Linda B. (ed.). *Undressing Religion: Commitment and Conversion from a Cross-Cultural Perspective*. Berg Publishers, 2000.
-</content>

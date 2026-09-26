@@ -47,4 +47,3 @@ gaps:
 
 - Zander, Helmut. *Anthroposophie in Deutschland: Theosophische Weltanschauung und gesellschaftliche Praxis 1884–1945*. Göttingen: Vandenhoeck & Ruprecht, 2007. (Open Library: `/works/OL3183636W`).
 - Zander, Helmut. *Die Anthroposophie: Rudolf Steiners Ideen zwischen Esoterik, Weltanschauung und Wissenschaft*. Paderborn: Ferdinand Schöningh, 2019. (Open Library: `/works/OL44414160W`).
-</content>

@@ -46,4 +46,3 @@ gaps:
 
 - Robertson Smith, W. (1889). *Lectures on the Religion of the Semites: The Fundamental Institutions*. Adam and Charles Black.
 - Beidelman, T. O. (1974). *W. Robertson Smith and the Sociological Study of Religion*. University of Chicago Press.
-</content>

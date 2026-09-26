@@ -41,4 +41,3 @@ gaps: ["مصادرُ محدودة — يحتاجُ لمزيدِ استقصاء"]
 ## المصادر
 
 - Frazier, L., & Rayner, K. (1982). "Making and correcting errors during sentence comprehension." *Cognitive Psychology*, 14, 178-210.
-</content>

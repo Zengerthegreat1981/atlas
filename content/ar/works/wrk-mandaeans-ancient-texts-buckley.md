@@ -39,4 +39,3 @@ gaps:
 
 - Buckley, J. J. (2002). *The Mandaeans: Ancient Texts and Modern People*. Oxford University Press.
 - Drower, E. S. (1937). *The Mandaeans of Iraq and Iran: Their Cults, Customs, Magic, Legends, and Folklore*. Clarendon Press.
-</content>

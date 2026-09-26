@@ -47,4 +47,3 @@ gaps: ["متنُ هذا الملف عام عن الدلالة والتداولي
 
 - حسّان، تمّام. اللغة العربية معناها ومبناها.
 - Lyons, J. (1977). *Semantics*. Cambridge University Press.
-</content>

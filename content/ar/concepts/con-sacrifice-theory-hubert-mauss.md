@@ -42,4 +42,3 @@ gaps:
 
 - Hubert, H. & Mauss, M. (1899). "Essai sur la nature et la fonction du sacrifice." *L'Année Sociologique*, 2, 29–138.
 - Hubert, H. & Mauss, M. (trans. Halls, W. D., 1964). *Sacrifice: Its Nature and Function*. Cohen & West.
-</content>

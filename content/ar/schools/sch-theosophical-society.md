@@ -55,4 +55,3 @@ gaps:
 
 - Campbell, Bruce F. *Ancient Wisdom Revived: A History of the Theosophical Movement*. Berkeley: University of California Press, 1980. (Open Library: `/works/OL6577285W`).
 - Hammer, Olav. *Claiming Knowledge: Strategies of Epistemology from Theosophy to the New Age*. Leiden: Brill, 2001. (Open Library: `/works/OL9090714W`).
-</content>

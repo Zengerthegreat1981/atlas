@@ -64,4 +64,3 @@ gaps: []
 - Sahlins, Marshall. *Culture and Practical Reason*. University of Chicago Press, 1976.
 - Sahlins, Marshall. *Apologies to Thucydides*. University of Chicago Press, 1994.
 - Lee, Richard B. *The Dobe Ju/'hoansi*. Holt, Rinehart & Winston, 1984.
-</content>

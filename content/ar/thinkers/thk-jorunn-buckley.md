@@ -40,4 +40,3 @@ gaps:
 
 - Buckley, J. J. (2002). *The Mandaeans: Ancient Texts and Modern People*. Oxford University Press.
 - Buckley, J. J. (2005). *The Great Stem of Souls: Reconstructing Mandaean History*. Gorgias Press.
-</content>

@@ -66,4 +66,3 @@ gaps: []
 - Wolf, Eric R. *Envisioning Power: Ideologies of Dominance and Crisis*. University of California Press, 1999.
 - Wolf, Eric R. *Anthropology*. New Jersey: Prentice Hall, 1994.
 - Taussig, Michael T. *Shamanism, Colonialism, and the Wild Man: A Study in Terror and Healing*. University of Chicago Press, 1987.
-</content>

@@ -39,4 +39,3 @@ gaps:
 
 - Lindsell, Harold. *Park Street Prophet: A Life of Harold John Ockenga*. Wilde, 1951.
 - Rosell, Garth M. *The Surprising Work of God: Harold John Ockenga, Billy Graham, and the Rebirth of Evangelicalism*. Baker Academic, 2008.
-</content>
