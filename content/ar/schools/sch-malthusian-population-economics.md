@@ -17,6 +17,7 @@ active_end: 1870
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "dbt-malthus-godwin-population-and-perfectibility", title: "جدلُ مالتوس وغودوين حول السكان وكمالِ الإنسان (Malthus vs. Godwin on Population and Perfectibility)", type: "جدل"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 - id: "thk-thomas-robert-malthus", title: "توماس روبرت مالتوس (Thomas Robert Malthus)", type: "مفكر"
 - id: "wrk-essay-on-the-principle-of-population-malthus", title: "مقالةٌ في مبدأ السكان (An Essay on the Principle of Population)", type: "عمل / كتاب"

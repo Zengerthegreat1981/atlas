@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
+- id: "dbt-public-debt-sustainability", title: "جدلُ استدامة الدَّين العام (Public Debt Sustainability)", type: "جدل"
 - id: "thk-arthur-cecil-pigou", title: "آرثر سيسل بيغو (Arthur Cecil Pigou)", type: "مفكر"
 - id: "thk-henry-george", title: "هنري جورج (Henry George)", type: "مفكر"
 - id: "br-georgism-land-value-tax", title: "الجورجية وضريبةُ قيمة الأرض: الريعُ العام حلاً وحيداً", type: "تيار"

@@ -17,6 +17,8 @@ active_end: 1980
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "dbt-structuralism-vs-monetarism-latin-american-inflation", title: "جدلُ البنيوية مقابل المونيتارية حول التضخّم في أمريكا اللاتينية (Structuralism vs. Monetarism on Latin American Inflation)", type: "جدل"
+- id: "thk-celso-furtado", title: "سيلسو فورتادو (Celso Furtado)", type: "مفكر"
 - id: "sch-latin-american-neostructuralism", title: "البنيويةُ الجديدة الأمريكية اللاتينية (Latin American Neostructuralism)", type: "مدرسة"
 - id: "con-terms-of-trade", title: "معدلاتُ التبادل التجاري (Terms of Trade)", type: "مفهوم"
 - id: "thk-raul-prebisch", title: "راؤول بريبيش (Raúl Prebisch)", type: "مفكر"

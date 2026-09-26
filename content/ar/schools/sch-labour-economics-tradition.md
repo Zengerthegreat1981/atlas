@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
+- id: "sch-economics-of-migration", title: "اقتصادياتُ الهجرة (Economics of Migration)", type: "مدرسة"
 - id: "thk-george-akerlof", title: "جورج أكرلوف (George Akerlof)", type: "مفكر"
 - id: "thk-michael-spence", title: "مايكل سبنس (Michael Spence)", type: "مفكر"
 - id: "sch-economics-of-information", title: "اقتصادياتُ المعلومات (Economics of Information)", type: "مدرسة"

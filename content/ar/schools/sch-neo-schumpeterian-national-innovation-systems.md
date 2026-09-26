@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-schumpeterian-evolutionary-economics", target_type: "مدرسة"
 related:
+- id: "thk-carlota-perez", title: "كارلوتا بيريز (Carlota Perez)", type: "مفكر"
 - id: "wrk-the-entrepreneurial-state-mazzucato", title: "الدولةُ الريادية: دحضُ أساطير القطاعين العام والخاص (The Entrepreneurial State: Debunking Public vs. Private Sector Myths)", type: "عمل / كتاب"
 - id: "thk-joseph-schumpeter", title: "جوزيف شومبيتر (Joseph Schumpeter)", type: "مفكر"
 - id: "thk-mariana-mazzucato", title: "ماريانا مازوكاتو (Mariana Mazzucato)", type: "مفكر"

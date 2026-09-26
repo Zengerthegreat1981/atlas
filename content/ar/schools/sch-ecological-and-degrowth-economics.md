@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related:
+- id: "dbt-green-growth-vs-degrowth", title: "جدلُ النموّ الأخضر مقابل اللانمو (Green Growth vs. Degrowth)", type: "جدل"
 - id: "br-happiness-economics", title: "اقتصادُ السعادة: قياسُ الرفاه الذاتي بديلاً عن الناتج المحلي", type: "تيار"
 - id: "stu-meadows-limits-to-growth-1972", title: "دراسةُ ميدوز: حدودُ النمو (1972)", type: "دراسة وبحث"
 - id: "thk-herman-daly", title: "هيرمان دالي (Herman Daly)", type: "مفكر"
