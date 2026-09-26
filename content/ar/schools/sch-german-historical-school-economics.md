@@ -17,6 +17,7 @@ active_end: 1917
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "wrk-the-national-system-of-political-economy-list", title: "النظامُ القومي للاقتصاد السياسي (Das Nationale System der Politischen Ökonomie)", type: "عمل / كتاب"
 - id: "thk-johann-heinrich-von-thunen", title: "يوهان هاينريش فون تونن (Johann Heinrich von Thünen)", type: "مفكر"
 - id: "thk-friedrich-list", title: "فريدريش ليست (Friedrich List)", type: "مفكر"
 - id: "thk-wilhelm-roscher", title: "ڤيلهلم روشر (Wilhelm Roscher)", type: "مفكر"

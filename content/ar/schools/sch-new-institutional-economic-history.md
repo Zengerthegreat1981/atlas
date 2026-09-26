@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-big-history", target_type: "مدرسة"
 related:
+- id: "wrk-this-time-is-different-reinhart-rogoff", title: "هذه المرّةُ مختلفة: ثمانيةُ قرونٍ من الحماقة المالية (This Time Is Different: Eight Centuries of Financial Folly)", type: "عمل / كتاب"
 - id: "sch-big-history", title: "التاريخُ الكبير (ديفيد كريستيان وفريد شپير)", type: "مدرسة"
 - id: "sch-cliometrics-quantitative-economic-history", title: "التاريخُ الكمّيُّ والتاريخُ الاقتصاديُّ القياسيّ (Cliometrics)", type: "مدرسة"
 - id: "thk-robert-fogel", title: "روبرت فوگل", type: "مفكر"

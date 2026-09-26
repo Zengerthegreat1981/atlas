@@ -17,6 +17,10 @@ active_end: 1991
 edges:
 - rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
+- id: "con-state-capitalism", title: "رأسماليةُ الدولة (State Capitalism)", type: "مفهوم"
+- id: "wrk-the-theory-of-peasant-economy-chayanov", title: "نظريةُ الاقتصاد الفلاحي (Организация крестьянского хозяйства / The Theory of Peasant Economy)", type: "عمل / كتاب"
+- id: "wrk-the-new-economics-preobrazhensky", title: "الاقتصادُ الجديد (Новая экономика / The New Economics)", type: "عمل / كتاب"
+- id: "wrk-the-major-economic-cycles-kondratiev", title: "الدوراتُ الاقتصاديةُ الكبرى (Большие циклы конъюнктуры / The Major Economic Cycles)", type: "عمل / كتاب"
 - id: "thk-oskar-lange", title: "أوسكار لانغه (Oskar Lange)", type: "مفكر"
 - id: "br-market-socialism", title: "الاشتراكيةُ السوقية: الملكيةُ العامة وآليةُ السوق في نموذج لانغه", type: "تيار"
 - id: "sch-yugoslav-self-management-socialism", title: "الاشتراكيةُ الذاتيةُ الإدارة اليوغوسلافية (Yugoslav Self-Management Socialism)", type: "مدرسة"

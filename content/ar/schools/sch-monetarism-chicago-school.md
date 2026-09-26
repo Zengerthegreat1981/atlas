@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "wrk-a-theory-of-the-consumption-function-friedman", title: "نظريةٌ في دالّة الاستهلاك (A Theory of the Consumption Function)", type: "عمل / كتاب"
+- id: "wrk-risk-uncertainty-and-profit-knight", title: "المخاطرةُ وعدمُ اليقين والربح (Risk, Uncertainty, and Profit)", type: "عمل / كتاب"
 - id: "con-money-and-its-functions", title: "النقودُ ووظائفُها (Money and Its Functions)", type: "مفهوم"
 - id: "con-crowding-out", title: "مزاحمةُ الاستثمار الخاص (Crowding Out)", type: "مفهوم"
 - id: "thk-frank-knight", title: "فرانك نايت (Frank Knight)", type: "مفكر"

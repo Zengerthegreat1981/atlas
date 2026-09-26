@@ -17,6 +17,7 @@ active_end: 1917
 edges:
 - rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
+- id: "wrk-imperialism-a-study-hobson", title: "الإمبريالية: دراسة (Imperialism: A Study)", type: "عمل / كتاب"
 - id: "con-unequal-exchange", title: "التبادلُ غيرُ المتكافئ (Unequal Exchange)", type: "مفهوم"
 - id: "con-hegemonic-stability-theory", title: "نظريةُ الاستقرار الهيمني (Hegemonic Stability Theory)", type: "مفهوم"
 - id: "thk-arghiri-emmanuel", title: "أرغيري إيمانويل (Arghiri Emmanuel)", type: "مفكر"

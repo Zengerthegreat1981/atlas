@@ -18,6 +18,8 @@ edges:
 - rel: "split_into", target: "sch-marxism-structuralist", target_type: "مدرسة"
 - rel: "split_into", target: "sch-marxism-humanist", target_type: "مدرسة"
 related:
+- id: "wrk-the-political-economy-of-growth-baran", title: "الاقتصادُ السياسيُّ للنمو (The Political Economy of Growth)", type: "عمل / كتاب"
+- id: "wrk-late-capitalism-mandel", title: "الرأسماليةُ المتأخرة (Der Spätkapitalismus / Late Capitalism)", type: "عمل / كتاب"
 - id: "sch-frankfurt-school", title: "النظرية النقدية / مدرسة فرانكفورت (Frankfurter Schule)", type: "مدرسة"
 - id: "sch-marxism-structuralist", title: "الماركسية البنيوية (Structuralist Marxism / Marxisme structuraliste)", type: "مدرسة"
 - id: "sch-marxism-humanist", title: "الماركسية الإنسانية (Humanist Marxism / Marxisme humaniste)", type: "مدرسة"

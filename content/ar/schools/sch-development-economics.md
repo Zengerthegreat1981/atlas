@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "wrk-the-end-of-poverty-sachs", title: "نهايةُ الفقر (The End of Poverty: Economic Possibilities for Our Time)", type: "عمل / كتاب"
+- id: "wrk-development-as-freedom-sen", title: "التنميةُ حرّية (Development as Freedom)", type: "عمل / كتاب"
+- id: "wrk-the-white-mans-burden-easterly", title: "عبءُ الرجل الأبيض (The White Man's Burden: Why the West's Efforts to Aid the Rest Have Done So Much Ill and So Little Good)", type: "عمل / كتاب"
 - id: "con-sovereign-debt-and-default", title: "الدَّينُ السيادي والتعثّر (Sovereign Debt and Default)", type: "مفهوم"
 - id: "wrk-the-great-escape-deaton", title: "الهروبُ الكبير: الصحة والثروة وأصولُ التفاوت (The Great Escape: Health, Wealth, and the Origins of Inequality)", type: "عمل / كتاب"
 - id: "thk-simon-kuznets", title: "سيمون كوزنتس (Simon Kuznets)", type: "مفكر"

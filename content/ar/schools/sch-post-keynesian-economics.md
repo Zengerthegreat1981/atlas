@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "wrk-irrational-exuberance-shiller", title: "الوفرةُ اللاعقلانية (Irrational Exuberance)", type: "عمل / كتاب"
 - id: "con-lender-of-last-resort", title: "مقرِضُ الملاذ الأخير (Lender of Last Resort)", type: "مفهوم"
 - id: "thk-yanis-varoufakis", title: "يانيس فاروفاكيس (Yanis Varoufakis)", type: "مفكر"
 - id: "evt-argentine-default-2001", title: "التعثرُ السيادي الأرجنتيني (2001)", type: "حدث تاريخي"

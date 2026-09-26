@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "wrk-bad-samaritans-chang", title: "السامريّون الأشرار (Bad Samaritans: The Myth of Free Trade and the Secret History of Capitalism)", type: "عمل / كتاب"
 - id: "dbt-developmental-state-industrial-policy", title: "جدلُ الدولة التنموية والسياسة الصناعية (Developmental State and Industrial Policy)", type: "جدل"
 - id: "sch-neo-schumpeterian-national-innovation-systems", title: "النيوشومبيترية وأنظمةُ الابتكار الوطنية (Neo-Schumpeterian National Innovation Systems)", type: "مدرسة"
 - id: "sch-varieties-of-capitalism", title: "أنماطُ الرأسمالية (Varieties of Capitalism)", type: "مدرسة"

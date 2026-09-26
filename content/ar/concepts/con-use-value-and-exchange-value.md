@@ -15,7 +15,7 @@ edges:
 related:
 - id: "sch-marx-critique-of-political-economy", title: "نقدُ الاقتصاد السياسي عند ماركس (Marx's Critique of Political Economy)", type: "مدرسة"
 - id: "con-labour-theory-of-value", title: "نظريةُ قيمة العمل (The Labour Theory of Value)", type: "مفهوم"
-- id: "con-commodity-fetishism", title: "صنميةُ السلعة والتشيؤ (Commodity Fetishism)", type: "مفهوم"
+- id: "con-commodity-fetishism", title: "صنمية السلعة والتشيؤ (Commodity Fetishism)", type: "مفهوم"
 - id: "con-abstract-labour", title: "العملُ المجرَّد (Abstract Labour)", type: "مفهوم"
 gaps: []
 ---

@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
 related:
+- id: "con-comprador-bourgeoisie", title: "البرجوازيةُ الكمبرادورية (Comprador Bourgeoisie)", type: "مفهوم"
+- id: "wrk-unequal-development-amin", title: "التنميةُ غيرُ المتكافئة (Le Développement Inégal)", type: "عمل / كتاب"
 - id: "thk-walter-rodney", title: "والتر رودني (Walter Rodney)", type: "مفكر"
 - id: "wrk-how-europe-underdeveloped-africa-rodney", title: "كيف أفقرت أوروبا أفريقيا (How Europe Underdeveloped Africa)", type: "عمل / كتاب"
 - id: "thk-samir-amin", title: "سمير أمين (Samir Amin)", type: "مفكر"

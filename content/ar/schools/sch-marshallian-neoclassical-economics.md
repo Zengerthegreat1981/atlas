@@ -17,6 +17,8 @@ active_end: 1930
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "wrk-theory-of-games-and-economic-behavior", title: "نظريةُ الألعاب والسلوك الاقتصادي (Theory of Games and Economic Behavior)", type: "عمل / كتاب"
+- id: "wrk-the-structure-of-american-economy-leontief", title: "بنيةُ الاقتصاد الأمريكي (The Structure of American Economy, 1919-1929)", type: "عمل / كتاب"
 - id: "sch-urban-and-regional-economics", title: "اقتصادياتُ المدن والأقاليم (Urban and Regional Economics)", type: "مدرسة"
 - id: "con-heckscher-ohlin-model", title: "نموذجُ هكشر-أولين (Heckscher-Ohlin Model)", type: "مفهوم"
 - id: "thk-bertil-ohlin", title: "بيرتيل أولين (Bertil Ohlin)", type: "مفكر"

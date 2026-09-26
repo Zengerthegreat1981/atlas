@@ -16,6 +16,9 @@ active_start: 1776
 active_end: 1870
 edges: []
 related:
+- id: "wrk-principles-of-political-economy-mill", title: "مبادئُ الاقتصاد السياسي (Principles of Political Economy)", type: "عمل / كتاب"
+- id: "wrk-harmonies-economiques-bastiat", title: "الهارمونياتُ الاقتصادية (Harmonies Économiques)", type: "عمل / كتاب"
+- id: "wrk-the-theory-of-moral-sentiments-smith", title: "نظريةُ العواطف الأخلاقية (The Theory of Moral Sentiments)", type: "عمل / كتاب"
 - id: "sch-international-trade-theory", title: "نظريةُ التجارة الدولية (International Trade Theory)", type: "مدرسة"
 - id: "con-circular-flow-of-income", title: "الدورةُ الدائرية للدخل (Circular Flow of Income)", type: "مفهوم"
 - id: "thk-henry-george", title: "هنري جورج (Henry George)", type: "مفكر"

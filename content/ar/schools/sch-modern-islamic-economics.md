@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-islamic-fiscal-thought-kharaj-hisba", target_type: "مدرسة"
 related:
+- id: "con-zakat-as-fiscal-instrument", title: "الزكاةُ كأداةٍ مالية (Zakat as a Fiscal Instrument)", type: "مفهوم"
 - id: "br-islamic-moral-economy", title: "الاقتصادُ الأخلاقيُّ الإسلامي: العدالةُ التوزيعية قبل التقنين الفقهي", type: "تيار"
 - id: "crt-kuran-critique-of-islamic-economics", title: "نقدُ كوران للاقتصاد الإسلامي: حِيَلٌ تعاقدية تُعيد إنتاجَ الربا شكلياً", type: "نقد خارجي موثَّق"
 - id: "sch-islamic-fiscal-thought-kharaj-hisba", title: "الفكرُ المالي الإسلامي (الخراج والحسبة)", type: "مدرسة"

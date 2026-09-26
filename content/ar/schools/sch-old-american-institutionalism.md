@@ -17,6 +17,7 @@ active_end: 1945
 edges:
 - rel: "evolved_from", target: "sch-veblenian-institutional-sociology", target_type: "مدرسة"
 related:
+- id: "wrk-the-new-industrial-state-galbraith", title: "الدولةُ الصناعيةُ الجديدة (The New Industrial State)", type: "عمل / كتاب"
 - id: "thk-veblen", title: "ثورستين فيبلن", type: "مفكر"
 - id: "sch-veblenian-institutional-sociology", title: "سوسيولوجيا الاستهلاك والمؤسسية التطورية", type: "مدرسة"
 - id: "thk-john-r-commons", title: "جون ر. كومونز (John R. Commons)", type: "مفكر"
