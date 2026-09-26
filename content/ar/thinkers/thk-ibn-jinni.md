@@ -18,6 +18,7 @@ related:
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "con-qiyas-sama-illa-arabic-grammar", title: "القياسُ والسماعُ والعلّةُ النحوية: أصولُ منهج النحو العربي", type: "مفهوم"
 - id: "wrk-al-khasais-ibn-jinni", title: "الخصائص", type: "عمل / كتاب"
+- id: "wrk-sirr-sinaat-al-irab-ibn-jinni", title: "سر صناعة الإعراب", type: "عمل / كتاب"
 - id: "thk-abu-ali-al-farisi", title: "أبو علي الفارسي", type: "مفكر"
 - id: "thk-sibawayh", title: "سيبويه (عمرو بن عثمان بن قنبر)", type: "مفكر"
 - id: "thk-al-jurjani", title: "عبد القاهر الجرجاني", type: "مفكر"

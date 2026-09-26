@@ -17,6 +17,7 @@ edges:
 related:
 - id: "sch-arabic-grammatical-tradition", title: "التقليد النحوي واللغوي العربي الكلاسيكي", type: "مدرسة"
 - id: "wrk-maqayis-al-lugha-ibn-faris", title: "مقاييس اللغة", type: "عمل / كتاب"
+- id: "wrk-al-sahibi-fi-fiqh-al-lugha", title: "الصاحبي في فقه اللغة", type: "عمل / كتاب"
 - id: "thk-ibn-jinni", title: "أبو الفتح عثمان بن جنّي", type: "مفكر"
 gaps:
   - "تفاصيل نشأته المبكرة في قزوين وانتقاله إلى همذان غير مسندة بدقة تاريخية قاطعة في المصادر المتوفرة."
