@@ -16,6 +16,7 @@ active_start: 1776
 active_end: 1870
 edges: []
 related:
+- id: "con-scarcity-and-economic-choice", title: "الندرةُ والاختيارُ الاقتصادي (Scarcity and Economic Choice)", type: "مفهوم"
 - id: "wrk-principles-of-political-economy-mill", title: "مبادئُ الاقتصاد السياسي (Principles of Political Economy)", type: "عمل / كتاب"
 - id: "wrk-harmonies-economiques-bastiat", title: "الهارمونياتُ الاقتصادية (Harmonies Économiques)", type: "عمل / كتاب"
 - id: "wrk-the-theory-of-moral-sentiments-smith", title: "نظريةُ العواطف الأخلاقية (The Theory of Moral Sentiments)", type: "عمل / كتاب"

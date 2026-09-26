@@ -17,6 +17,7 @@ active_end: 1951
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "con-social-welfare-function", title: "دالةُ الرفاه الاجتماعي (Social Welfare Function)", type: "مفهوم"
 - id: "sch-marginal-revolution", title: "الثورةُ الحدّية (Marginal Revolution)", type: "مدرسة"
 - id: "thk-pareto", title: "فيلفريدو باريتو", type: "مفكر"
 - id: "thk-arthur-cecil-pigou", title: "آرثر سيسل بيغو (Arthur Cecil Pigou)", type: "مفكر"

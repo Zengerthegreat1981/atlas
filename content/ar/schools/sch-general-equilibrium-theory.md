@@ -17,6 +17,8 @@ active_end: 1954
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "stu-mankiw-romer-weil-empirics-of-growth-1992", title: "دراسةُ مانكيو ورومر وويل عن تجريبيات نموذج سولو (1992)", type: "دراسة وبحث"
+- id: "stu-arrow-debreu-existence-of-equilibrium-1954", title: "دراسةُ آرو ودوبرو عن وجود التوازن العام (1954)", type: "دراسة وبحث"
 - id: "sch-cowles-commission-mathematical-economics", title: "لجنةُ كاولز والاقتصادُ الرياضي (Cowles Commission and Mathematical Economics)", type: "مدرسة"
 - id: "thk-vernon-smith", title: "فيرنون سميث (Vernon Smith)", type: "مفكر"
 - id: "thk-wassily-leontief", title: "فاسيلي ليونتييف (Wassily Leontief)", type: "مفكر"

@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "evt-uk-return-to-gold-1925", title: "عودةُ بريطانيا إلى معيار الذهب بسعر ما قبل الحرب (1925)", type: "حدث تاريخي"
+- id: "stu-blanchard-leigh-growth-forecast-errors-2013", title: "دراسةُ بلانشار وليه عن أخطاء توقعات النمو ومضاعف التقشف (2013)", type: "دراسة وبحث"
 - id: "br-open-economy-macroeconomics", title: "اقتصادُ الكليات المفتوح: الثالوثُ المستحيل بين الصرف والمال ورأس المال", type: "تيار"
 - id: "br-green-new-deal-economics", title: "اقتصادُ الصفقة الخضراء الجديدة: التمويلُ العام لتحوّلٍ مناخي سريع", type: "تيار"
 - id: "br-new-deal-liberalism", title: "ليبراليةُ الصفقة الجديدة: الدولةُ ضامنةً للأمن الاقتصادي", type: "تيار"

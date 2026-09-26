@@ -17,6 +17,7 @@ active_end: 1991
 edges:
 - rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
+- id: "evt-soviet-first-five-year-plan-1928", title: "الخطةُ الخمسية السوفياتية الأولى (1928)", type: "حدث تاريخي"
 - id: "sch-comparative-economic-systems", title: "اقتصادُ الأنظمةِ المقارنة (Comparative Economic Systems)", type: "مدرسة"
 - id: "con-state-capitalism", title: "رأسماليةُ الدولة (State Capitalism)", type: "مفهوم"
 - id: "wrk-the-theory-of-peasant-economy-chayanov", title: "نظريةُ الاقتصاد الفلاحي (Организация крестьянского хозяйства / The Theory of Peasant Economy)", type: "عمل / كتاب"

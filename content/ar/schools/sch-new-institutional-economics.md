@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "stu-coase-nature-of-the-firm-1937", title: "دراسةُ كوز عن «طبيعة الشركة» وتكاليف المعاملات (1937)", type: "دراسة وبحث"
+- id: "stu-la-porta-et-al-law-and-finance-1998", title: "دراسةُ لا پورتا وآخرين عن القانون والتمويل (1998)", type: "دراسة وبحث"
 - id: "br-contract-theory-incentives", title: "نظريةُ العقود والحوافز: تصميمُ الاتفاق حين تتفاوت المعلومة", type: "تيار"
 - id: "br-market-design", title: "تصميمُ الأسواق: هندسةُ المطابقة حين يفشل السعر", type: "تيار"
 - id: "crt-coase-critique-of-blackboard-economics", title: "نقدُ كوز لاقتصاد السبورة: تحليلٌ بلا شركاتٍ ولا تكاليفَ معاملات", type: "نقد خارجي موثَّق"

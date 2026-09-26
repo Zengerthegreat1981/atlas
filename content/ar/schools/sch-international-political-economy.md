@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "con-exchange-rate-overshooting", title: "فرطُ استجابة سعر الصرف (Exchange Rate Overshooting)", type: "مفهوم"
 - id: "thk-charles-kindleberger", title: "تشارلز كيندلبرغر (Charles Kindleberger)", type: "مفكر"
 - id: "thk-michael-hudson-economist", title: "مايكل هدسون (Michael Hudson)", type: "مفكر"
 - id: "sch-varieties-of-capitalism", title: "أنماطُ الرأسمالية (Varieties of Capitalism)", type: "مدرسة"

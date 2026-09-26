@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
 related:
+- id: "evt-egyptian-land-reform-1952", title: "الإصلاحُ الزراعي المصري (1952)", type: "حدث تاريخي"
 - id: "evt-bank-misr-founding-1920", title: "تأسيسُ بنك مصر (1920)", type: "حدث تاريخي"
 - id: "br-arab-socialism-economic-policy", title: "الاشتراكيةُ العربية كسياسةٍ اقتصادية: التأميم والتخطيط في مصر عبد الناصر وسوريا والعراق البعثيين", type: "تيار"
 - id: "sch-latin-american-structuralism-cepal", title: "البنيويةُ الأمريكية اللاتينية - سيبال (Latin American Structuralism - CEPAL)", type: "مدرسة"

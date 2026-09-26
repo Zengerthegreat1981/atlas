@@ -12,11 +12,11 @@ active_start: 1974
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-public-finance-and-optimal-taxation", target_type: "مدرسة"
-- rel: "related_to", target: "br-supply-side-economics", target_type: "فرع"
+- rel: "related_to", target: "br-supply-side-economics", target_type: "تيار"
 - rel: "related_to", target: "con-ibn-khaldun-tax-curve", target_type: "مفهوم"
 related:
 - id: "sch-public-finance-and-optimal-taxation", title: "الماليةُ العامةُ ونظريةُ الضريبة المثلى (Public Finance and Optimal Taxation)", type: "مدرسة"
-- id: "br-supply-side-economics", title: "اقتصادُ جانب العرض: تخفيضُ الضرائب ومنحنى لافر", type: "فرع"
+- id: "br-supply-side-economics", title: "اقتصادُ جانب العرض: تخفيضُ الضرائب ومنحنى لافر", type: "تيار"
 - id: "con-ibn-khaldun-tax-curve", title: "منحنى الضرائب عند ابن خلدون (Ibn Khaldun's Tax Curve)", type: "مفهوم"
 gaps:
   - "لا يوجد إجماعٌ تجريبي على موقع «نقطة الذروة» الفعلية لمنحنى لافر في أي اقتصاد بعينه؛ التقديرات تختلف اختلافاً كبيراً حسب البلد والضريبة، وهذا يُذكر صراحةً تجنباً لتوظيفٍ سياسي مبسّط للمفهوم."

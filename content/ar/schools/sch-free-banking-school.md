@@ -17,6 +17,7 @@ active_end: "مستمر (إحياء نظري)"
 edges:
 - rel: "relates_to", target: "sch-austrian-school-of-economics", target_type: "مدرسة"
 related:
+- id: "evt-bank-of-england-founding-1694", title: "تأسيسُ بنك إنجلترا (1694)", type: "حدث تاريخي"
 - id: "thk-friedrich-august-von-hayek", title: "فريدريش أوغست فون هايك (Friedrich August von Hayek)", type: "مفكر"
 - id: "sch-austrian-school-of-economics", title: "المدرسةُ النمساوية في الاقتصاد (Austrian School of Economics)", type: "مدرسة"
 - id: "con-quantity-theory-of-money-monetarism", title: "نظريةُ كمية النقود المونيتارية (Quantity Theory of Money)", type: "مفهوم"

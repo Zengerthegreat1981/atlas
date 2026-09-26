@@ -17,6 +17,10 @@ active_end: 1976
 edges:
 - rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
+- id: "con-prisoners-dilemma-in-economics", title: "مأزقُ السجينين في الاقتصاد (Prisoner's Dilemma in Economics)", type: "مفهوم"
+- id: "stu-madrian-shea-power-of-suggestion-2001", title: "دراسةُ مادريان وشيا عن «قوة الاقتراح» والخيار الافتراضي (2001)", type: "دراسة وبحث"
+- id: "stu-gneezy-rustichini-a-fine-is-a-price-2000", title: "دراسةُ غنيزي وروستيكيني عن «الغرامةُ سعرٌ» وحضانات الأطفال (2000)", type: "دراسة وبحث"
+- id: "stu-thaler-benartzi-save-more-tomorrow-2004", title: "دراسةُ ثالر وبيناتزي عن برنامج «ادّخر أكثر غداً» (2004)", type: "دراسة وبحث"
 - id: "thk-lloyd-shapley", title: "لويد شابلي (Lloyd Shapley)", type: "مفكر"
 - id: "br-experimental-economics", title: "الاقتصادُ التجريبي: اختبارُ الفرضيات النظرية في المختبر", type: "تيار"
 - id: "crt-feminist-critique-of-homo-economicus", title: "النقدُ النسويُّ للإنسان الاقتصادي: العملُ الرعائيُّ غير المرئي في النموذج", type: "نقد خارجي موثَّق"

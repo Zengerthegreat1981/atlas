@@ -16,6 +16,7 @@ active_start: 1930
 edges:
 - rel: "relates_to", target: "thk-harold-hotelling", target_type: "مفكر"
 related:
+- id: "con-natural-resource-rent", title: "ريعُ الموارد الطبيعية (Natural Resource Rent)", type: "مفهوم"
 - id: "thk-harold-hotelling", title: "هارولد هوتلنغ (Harold Hotelling)", type: "مفكر"
 - id: "sch-rentier-state-theory", title: "نظريةُ الدولة الريعية (Rentier State Theory)", type: "مدرسة"
 - id: "evt-opec-founding-1960", title: "تأسيسُ أوپيك (1960)", type: "حدث تاريخي"

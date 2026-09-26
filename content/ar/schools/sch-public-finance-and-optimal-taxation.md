@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
+- id: "con-laffer-curve", title: "منحنى لافر (Laffer Curve)", type: "مفهوم"
+- id: "con-fiscal-federalism", title: "الفيدراليةُ المالية (Fiscal Federalism)", type: "مفهوم"
+- id: "stu-samuelson-pure-theory-of-public-expenditure-1954", title: "دراسةُ سامويلسون عن «النظرية الخالصة للإنفاق العام» (1954)", type: "دراسة وبحث"
 - id: "dbt-public-debt-sustainability", title: "جدلُ استدامة الدَّين العام (Public Debt Sustainability)", type: "جدل"
 - id: "thk-arthur-cecil-pigou", title: "آرثر سيسل بيغو (Arthur Cecil Pigou)", type: "مفكر"
 - id: "thk-henry-george", title: "هنري جورج (Henry George)", type: "مفكر"

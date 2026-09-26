@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
+- id: "con-dual-labour-markets", title: "أسواقُ العمل الثنائية (Dual Labour Markets)", type: "مفهوم"
+- id: "stu-lalonde-evaluating-training-programs-1986", title: "دراسةُ لالوند عن تقييم برامج التدريب المهني (1986)", type: "دراسة وبحث"
+- id: "stu-autor-dorn-hanson-china-shock-2013", title: "دراسةُ أوتور ودورن وهانسون عن «صدمة الصين» (2013)", type: "دراسة وبحث"
+- id: "stu-angrist-krueger-quarter-of-birth-1991", title: "دراسةُ أنغريست وكروغر عن ربع السنة الميلادي وعائد التعليم (1991)", type: "دراسة وبحث"
 - id: "sch-economics-of-migration", title: "اقتصادياتُ الهجرة (Economics of Migration)", type: "مدرسة"
 - id: "thk-george-akerlof", title: "جورج أكرلوف (George Akerlof)", type: "مفكر"
 - id: "thk-michael-spence", title: "مايكل سبنس (Michael Spence)", type: "مفكر"

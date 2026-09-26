@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
+- id: "con-price-discrimination", title: "التمييزُ السعري (Price Discrimination)", type: "مفهوم"
+- id: "con-antitrust-and-competition-policy", title: "سياسةُ مكافحة الاحتكار والمنافسة (Antitrust and Competition Policy)", type: "مفهوم"
 - id: "br-monopoly-capital-school", title: "مدرسةُ رأس المال الاحتكاري: الفائضُ الاقتصادي في زمن الاحتكار", type: "تيار"
 - id: "sch-new-institutional-economics", title: "المؤسسانيةُ الاقتصاديةُ الجديدة (New Institutional Economics)", type: "مدرسة"
 - id: "sch-economics-of-information", title: "اقتصادياتُ المعلومات (Economics of Information)", type: "مدرسة"

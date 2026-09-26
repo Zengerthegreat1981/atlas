@@ -12,11 +12,11 @@ active_start: 1945
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-international-trade-theory", target_type: "مدرسة"
-- rel: "related_to", target: "ins-balance-of-payments-accounting", target_type: "أداة"
+- rel: "related_to", target: "ins-balance-of-payments-accounting", target_type: "منهج/أداة بحث"
 - rel: "related_to", target: "con-global-imbalances", target_type: "مفهوم"
 related:
 - id: "sch-international-trade-theory", title: "نظريةُ التجارة الدولية (International Trade Theory)", type: "مدرسة"
-- id: "ins-balance-of-payments-accounting", title: "محاسبةُ ميزان المدفوعات (Balance of Payments Accounting)", type: "أداة"
+- id: "ins-balance-of-payments-accounting", title: "محاسبةُ ميزان المدفوعات (Balance of Payments Accounting)", type: "منهج/أداة بحث"
 - id: "con-global-imbalances", title: "الاختلالاتُ العالمية (Global Imbalances)", type: "مفهوم"
 gaps: []
 ---

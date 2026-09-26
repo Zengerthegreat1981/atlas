@@ -17,6 +17,12 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "evt-bengal-famine-1943", title: "المجاعةُ البنغالية (1943)", type: "حدث تاريخي"
+- id: "con-poverty-trap", title: "مصيدةُ الفقر (Poverty Trap)", type: "مفهوم"
+- id: "con-middle-income-trap", title: "فخُّ الدخل المتوسط (Middle-Income Trap)", type: "مفهوم"
+- id: "stu-nunn-long-term-effects-of-slave-trades-2008", title: "دراسةُ نان عن الآثار الممتدة لتجارة الرقيق الأفريقية (2008)", type: "دراسة وبحث"
+- id: "stu-duflo-indonesia-school-construction-2001", title: "دراسةُ دوفلو عن بناء المدارس الإندونيسي وعائد التعليم (2001)", type: "دراسة وبحث"
+- id: "stu-banerjee-iyer-colonial-land-tenure-india-2005", title: "دراسةُ بانرجي وآير عن أنظمة الحيازة الاستعمارية في الهند (2005)", type: "دراسة وبحث"
 - id: "br-behavioural-development-economics", title: "اقتصادياتُ التنمية السلوكية: الفقرُ كضغطٍ إدراكي لا خللاً في الحساب", type: "تيار"
 - id: "br-neo-developmentalism-brazil", title: "التنمويةُ الجديدة البرازيلية: توازنُ سعر الصرف قبل التصنيع", type: "تيار"
 - id: "crt-stiglitz-sen-fitoussi-commission-2009", title: "لجنةُ ستيغليتز-سين-فيتوسي (2009): الناتجُ المحلي ليس مقياسَ الرفاه", type: "نقد خارجي موثَّق"

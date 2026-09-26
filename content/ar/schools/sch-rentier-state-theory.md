@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "evt-lebanese-financial-collapse-2019", title: "الانهيارُ المالي اللبناني (2019)", type: "حدث تاريخي"
+- id: "evt-algerian-hydrocarbons-nationalization-1971", title: "تأميمُ المحروقات الجزائرية (1971)", type: "حدث تاريخي"
+- id: "evt-saudi-vision-2030-launch-2016", title: "إطلاقُ رؤية السعودية 2030 (2016)", type: "حدث تاريخي"
 - id: "dbt-subsidy-reform-and-cash-transfers-arab-states", title: "جدلُ إصلاح الدعم والتحويلات النقدية في الدول العربية (Subsidy Reform and Cash Transfers in Arab States)", type: "جدل"
 - id: "evt-gulf-war-oil-shock-1990", title: "صدمةُ أسعار النفط وحرب الخليج (1990)", type: "حدث تاريخي"
 - id: "stu-ross-does-oil-hinder-democracy-2001", title: "دراسةُ روس: هل يعيق النفط الديمقراطية؟ (2001)", type: "دراسة وبحث"

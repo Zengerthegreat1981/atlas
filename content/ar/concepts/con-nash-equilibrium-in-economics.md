@@ -13,12 +13,12 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-homo-economicus-rational-choice-economics", target_type: "مدرسة"
 - rel: "related_to", target: "thk-john-forbes-nash", target_type: "مفكر"
-- rel: "related_to", target: "ins-game-theory-in-economics", target_type: "أداة"
+- rel: "related_to", target: "ins-game-theory-in-economics", target_type: "منهج/أداة بحث"
 - rel: "related_to", target: "con-oligopoly-and-strategic-competition", target_type: "مفهوم"
 related:
 - id: "sch-homo-economicus-rational-choice-economics", title: "الإنسانُ الاقتصاديُّ واقتصادُ الاختيار العقلاني (Homo Economicus and Rational Choice Economics)", type: "مدرسة"
 - id: "thk-john-forbes-nash", title: "جون فوربس ناش (John Forbes Nash)", type: "مفكر"
-- id: "ins-game-theory-in-economics", title: "نظريةُ الألعاب في الاقتصاد (Game Theory in Economics)", type: "أداة"
+- id: "ins-game-theory-in-economics", title: "نظريةُ الألعاب في الاقتصاد (Game Theory in Economics)", type: "منهج/أداة بحث"
 - id: "con-oligopoly-and-strategic-competition", title: "احتكارُ القلة والمنافسةُ الاستراتيجية (Oligopoly and Strategic Competition)", type: "مفهوم"
 gaps: []
 ---

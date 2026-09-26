@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "evt-federal-reserve-founding-1913", title: "تأسيسُ نظام الاحتياطي الفيدرالي الأمريكي (1913)", type: "حدث تاريخي"
+- id: "evt-uk-imf-crisis-1976", title: "أزمةُ بريطانيا مع صندوق النقد الدولي (1976)", type: "حدث تاريخي"
 - id: "br-market-monetarism", title: "المونيتاريةُ السوقية: استهدافُ الناتج الاسمي بدل التضخم", type: "تيار"
 - id: "dbt-cryptocurrency-as-money", title: "جدلُ العملات الرقمية بوصفها نقوداً (Cryptocurrency as Money)", type: "جدل"
 - id: "thk-deirdre-mccloskey", title: "ديردري ماكلوسكي (Deirdre McCloskey)", type: "مفكر"

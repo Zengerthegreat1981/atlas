@@ -13,11 +13,11 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-homo-economicus-rational-choice-economics", target_type: "مدرسة"
 - rel: "related_to", target: "con-nash-equilibrium-in-economics", target_type: "مفهوم"
-- rel: "related_to", target: "ins-game-theory-in-economics", target_type: "أداة"
+- rel: "related_to", target: "ins-game-theory-in-economics", target_type: "منهج/أداة بحث"
 related:
 - id: "sch-homo-economicus-rational-choice-economics", title: "الإنسانُ الاقتصاديُّ واقتصادُ الاختيار العقلاني (Homo Economicus and Rational Choice Economics)", type: "مدرسة"
 - id: "con-nash-equilibrium-in-economics", title: "توازنُ ناش في الاقتصاد (Nash Equilibrium in Economics)", type: "مفهوم"
-- id: "ins-game-theory-in-economics", title: "نظريةُ الألعاب في الاقتصاد (Game Theory in Economics)", type: "أداة"
+- id: "ins-game-theory-in-economics", title: "نظريةُ الألعاب في الاقتصاد (Game Theory in Economics)", type: "منهج/أداة بحث"
 gaps: []
 ---
 
