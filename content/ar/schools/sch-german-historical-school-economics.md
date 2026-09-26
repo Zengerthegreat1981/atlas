@@ -17,6 +17,7 @@ active_end: 1917
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "thk-johann-heinrich-von-thunen", title: "يوهان هاينريش فون تونن (Johann Heinrich von Thünen)", type: "مفكر"
 - id: "thk-friedrich-list", title: "فريدريش ليست (Friedrich List)", type: "مفكر"
 - id: "thk-wilhelm-roscher", title: "ڤيلهلم روشر (Wilhelm Roscher)", type: "مفكر"
 - id: "thk-gustav-von-schmoller", title: "غوستاف فون شمولر (Gustav von Schmoller)", type: "مفكر"

@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "thk-simon-kuznets", title: "سيمون كوزنتس (Simon Kuznets)", type: "مفكر"
+- id: "thk-dani-rodrik", title: "داني رودريك (Dani Rodrik)", type: "مفكر"
+- id: "thk-mariana-mazzucato", title: "ماريانا مازوكاتو (Mariana Mazzucato)", type: "مفكر"
+- id: "thk-jeffrey-sachs", title: "جيفري ساكس (Jeffrey Sachs)", type: "مفكر"
 - id: "evt-china-reform-and-opening-1978", title: "الإصلاحُ والانفتاحُ الصيني (1978)", type: "حدث تاريخي"
 - id: "evt-arab-spring-economic-roots-2011", title: "الجذورُ الاقتصادية للربيع العربي (2011)", type: "حدث تاريخي"
 - id: "ins-social-accounting-matrix", title: "مصفوفةُ الحسابات الاجتماعية (Social Accounting Matrix)", type: "منهج/أداة بحث"

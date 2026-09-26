@@ -16,6 +16,9 @@ active_start: 1776
 active_end: 1870
 edges: []
 related:
+- id: "thk-henry-george", title: "هنري جورج (Henry George)", type: "مفكر"
+- id: "thk-frederic-bastiat", title: "فريدريك باستيا (Frédéric Bastiat)", type: "مفكر"
+- id: "thk-simonde-de-sismondi", title: "سيسموندي (Jean Charles Léonard de Sismondi)", type: "مفكر"
 - id: "evt-repeal-of-the-corn-laws-1846", title: "إلغاءُ قوانين الحبوب البريطانية (1846)", type: "حدث تاريخي"
 - id: "crt-keynes-economic-consequences-of-the-peace-1919", title: "نقدُ كينز لمعاهدة فرساي: تعويضاتٌ اقتصادياً مستحيلة تزرع كارثةً مقبلة", type: "نقد خارجي موثَّق"
 - id: "crt-keynes-critique-of-says-law", title: "نقدُ كينز لقانون ساي: العرضُ لا يخلق طلبَه بالضرورة", type: "نقد خارجي موثَّق"

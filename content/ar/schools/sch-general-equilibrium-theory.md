@@ -17,6 +17,12 @@ active_end: 1954
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "thk-vernon-smith", title: "فيرنون سميث (Vernon Smith)", type: "مفكر"
+- id: "thk-wassily-leontief", title: "فاسيلي ليونتييف (Wassily Leontief)", type: "مفكر"
+- id: "thk-gustav-cassel", title: "غوستاف كاسل (Gustav Cassel)", type: "مفكر"
+- id: "thk-john-von-neumann", title: "جون فون نيومان (John von Neumann)", type: "مفكر"
+- id: "thk-alvin-roth", title: "ألفن روث (Alvin Roth)", type: "مفكر"
+- id: "thk-jean-tirole", title: "جان تيرول (Jean Tirole)", type: "مفكر"
 - id: "ins-auction-theory-and-mechanism-design", title: "نظريةُ المزادات وتصميمُ الآليات (Auction Theory and Mechanism Design)", type: "منهج/أداة بحث"
 - id: "ins-input-output-analysis-leontief", title: "تحليلُ المدخلات والمخرجات عند ليونتييف (Input-Output Analysis)", type: "منهج/أداة بحث"
 - id: "ins-game-theory-in-economics", title: "نظريةُ الألعاب في الاقتصاد (Game Theory in Economics)", type: "منهج/أداة بحث"

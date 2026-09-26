@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "thk-edmund-phelps", title: "إدموند فيلبس (Edmund Phelps)", type: "مفكر"
+- id: "thk-paul-krugman", title: "بول كروغمان (Paul Krugman)", type: "مفكر"
+- id: "thk-harry-dexter-white", title: "هاري ديكستر وايت (Harry Dexter White)", type: "مفكر"
+- id: "thk-olivier-blanchard", title: "أوليفييه بلانشار (Olivier Blanchard)", type: "مفكر"
 - id: "evt-covid-19-economic-shock-2020", title: "الصدمةُ الاقتصادية لجائحة كوفيد-19 (2020)", type: "حدث تاريخي"
 - id: "br-new-keynesian-economics", title: "الاقتصادُ الكينزي الجديد: جمودُ الأسعار وتوقّعاتٌ رشيدة", type: "تيار"
 - id: "crt-lucas-critique-1976", title: "نقدُ لوكاس (1976): العلاقاتُ الإحصائية الماضية تنهار مع تغيّر السياسة", type: "نقد خارجي موثَّق"

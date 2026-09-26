@@ -17,6 +17,8 @@ active_end: 1917
 edges:
 - rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
+- id: "thk-arghiri-emmanuel", title: "أرغيري إيمانويل (Arghiri Emmanuel)", type: "مفكر"
+- id: "thk-john-atkinson-hobson", title: "جون أتكينسون هوبسون (John Atkinson Hobson)", type: "مفكر"
 - id: "sch-marx-critique-of-political-economy", title: "نقدُ الاقتصاد السياسي عند ماركس (Marx's Critique of Political Economy)", type: "مدرسة"
 - id: "thk-rosa-luxemburg", title: "روزا لوكسمبورغ (Rosa Luxemburg)", type: "مفكر"
 - id: "thk-rudolf-hilferding", title: "رودولف هيلفردنغ (Rudolf Hilferding)", type: "مفكر"

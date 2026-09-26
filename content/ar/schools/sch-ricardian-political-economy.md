@@ -17,6 +17,7 @@ active_end: 1870
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "thk-nassau-william-senior", title: "ناسو وليم سينيور (Nassau William Senior)", type: "مفكر"
 - id: "br-ricardian-socialism", title: "الاشتراكيةُ الريكاردية: العملُ مصدرَ القيمة وحقُّ العامل في كامل الناتج", type: "تيار"
 - id: "br-georgism-land-value-tax", title: "الجورجية وضريبةُ قيمة الأرض: الريعُ العام حلاً وحيداً", type: "تيار"
 - id: "br-sraffian-neo-ricardian-economics", title: "الاقتصادُ السرافي-الريكاردي الجديد: إنتاجُ السلع بواسطة السلع", type: "تيار"

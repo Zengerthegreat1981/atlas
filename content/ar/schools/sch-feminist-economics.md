@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related:
+- id: "thk-claudia-goldin", title: "كلوديا غولدن (Claudia Goldin)", type: "مفكر"
 - id: "thk-marilyn-waring", title: "مارلين وارينغ (Marilyn Waring)", type: "مفكر"
 - id: "thk-nancy-folbre", title: "نانسي فولبر (Nancy Folbre)", type: "مفكر"
 - id: "con-unpaid-care-work-economics", title: "عملُ الرعاية غير المدفوع في التحليل الاقتصادي (Unpaid Care Work)", type: "مفهوم"

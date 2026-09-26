@@ -17,6 +17,10 @@ active_end: 1883
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "thk-mikhail-tugan-baranovsky", title: "ميخائيل توغان-بارانوفسكي (Mikhail Tugan-Baranovsky)", type: "مفكر"
+- id: "thk-karl-kautsky", title: "كارل كاوتسكي (Karl Kautsky)", type: "مفكر"
+- id: "thk-ernest-mandel", title: "إرنست مانديل (Ernest Mandel)", type: "مفكر"
+- id: "thk-paul-baran", title: "بول باران (Paul Baran)", type: "مفكر"
 - id: "br-market-socialism", title: "الاشتراكيةُ السوقية: الملكيةُ العامة وآليةُ السوق في نموذج لانغه", type: "تيار"
 - id: "br-agrarian-question-political-economy", title: "المسألةُ الزراعية في الاقتصاد السياسي: مصيرُ الفلاحين تحت الرأسمالية الزاحفة", type: "تيار"
 - id: "br-monopoly-capital-school", title: "مدرسةُ رأس المال الاحتكاري: الفائضُ الاقتصادي في زمن الاحتكار", type: "تيار"

@@ -16,6 +16,8 @@ active_start: 1500
 active_end: 1776
 edges: []
 related:
+- id: "thk-james-steuart", title: "جيمس ستيوارت (James Steuart)", type: "مفكر"
+- id: "thk-william-petty", title: "وليم پيتي (William Petty)", type: "مفكر"
 - id: "evt-tulip-mania-1637", title: "حُمّى التوليب الهولندية (1637)", type: "حدث تاريخي"
 - id: "thk-thomas-mun", title: "توماس مَن (Thomas Mun)", type: "مفكر"
 - id: "wrk-englands-treasure-by-forraign-trade-mun", title: "كنزُ إنجلترا من التجارة الخارجية", type: "عمل / كتاب"

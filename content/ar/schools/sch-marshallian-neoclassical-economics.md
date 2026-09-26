@@ -17,6 +17,8 @@ active_end: 1930
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "thk-bertil-ohlin", title: "بيرتيل أولين (Bertil Ohlin)", type: "مفكر"
+- id: "thk-edward-chamberlin", title: "إدوارد تشامبرلين (Edward Chamberlin)", type: "مفكر"
 - id: "br-new-economic-geography", title: "الجغرافيا الاقتصاديةُ الجديدة: التكتّلُ الصناعي والعوائدُ المتزايدة في المكان", type: "تيار"
 - id: "br-endogenous-growth-theory", title: "نظريةُ النموّ الداخلي: المعرفةُ والابتكارُ محرّكاً ذاتياً للنمو", type: "تيار"
 - id: "crt-schumacher-small-is-beautiful-1973", title: "نقدُ شوماخر «الصِّغَرُ جميل»: هوسُ الحجم الكبير وإهمالُ الإنسان والمقياس المحلي", type: "نقد خارجي موثَّق"
