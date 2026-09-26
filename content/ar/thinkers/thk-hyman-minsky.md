@@ -19,7 +19,7 @@ related:
 - id: "sch-post-keynesian-economics", title: "الاقتصادُ ما بعد الكينزي (Post-Keynesian Economics)", type: "مدرسة"
 - id: "con-financial-instability-hypothesis", title: "فرضيةُ عدم الاستقرار المالي (Financial Instability Hypothesis)", type: "مفهوم"
 - id: "wrk-stabilizing-an-unstable-economy-minsky", title: "تثبيتُ اقتصادٍ غير مستقر (Stabilizing an Unstable Economy)", type: "عمل / كتاب"
-- id: "ctx-financial-crisis-2008-occupy", title: "الأزمة المالية العالمية (2008) وحركة احتلوا وول ستريت", type: "سياق"
+- id: "ctx-financial-crisis-2008-occupy", title: "الأزمة المالية العالمية (2008) وحركة احتلوا وول ستريت", type: "سياق/تقليد"
 - id: "thk-john-maynard-keynes", title: "جون مينارد كينز (John Maynard Keynes)", type: "مفكر"
 gaps:
   - "مصطلح 'لحظة مينسكي' (Minsky Moment) الذي شاع إعلامياً بعد أزمة 2008 صاغه اقتصاديون لاحقون (بول ماكولي) استلهاماً من أفكار مينسكي، وليس مصطلحاً استخدمه مينسكي نفسُه حرفياً في كتاباته؛ التمييزُ موثَّقٌ هنا صراحةً."

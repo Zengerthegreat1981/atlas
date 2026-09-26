@@ -16,7 +16,7 @@ related:
 - id: "sch-post-keynesian-economics", title: "الاقتصادُ ما بعد الكينزي (Post-Keynesian Economics)", type: "مدرسة"
 - id: "thk-abba-lerner", title: "أبا ليرنر (Abba Lerner)", type: "مفكر"
 - id: "con-effective-demand", title: "الطلبُ الفعّال (Effective Demand)", type: "مفهوم"
-- id: "ctx-financial-crisis-2008-occupy", title: "الأزمة المالية العالمية (2008) وحركة احتلوا وول ستريت", type: "سياق"
+- id: "ctx-financial-crisis-2008-occupy", title: "الأزمة المالية العالمية (2008) وحركة احتلوا وول ستريت", type: "سياق/تقليد"
 gaps:
   - "هذه النظريةُ موضعُ نقاشٍ أكاديمي حادّ ومستمر وليست إجماعاً؛ اقتصاديون رئيسيون من مدارسَ متعددة (بمن فيهم بعضُ ما بعد الكينزيين أنفسِهم) وجّهوا انتقاداتٍ لصياغاتها الأحدث. الملفُّ يعرض ادّعاءاتِها بصفتها كذلك دون تبنّيها موقفاً للأطلس."
 ---

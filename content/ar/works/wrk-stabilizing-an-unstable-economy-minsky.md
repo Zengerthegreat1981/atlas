@@ -21,7 +21,7 @@ related:
 - id: "thk-hyman-minsky", title: "هايمن مينسكي (Hyman Minsky)", type: "مفكر"
 - id: "sch-post-keynesian-economics", title: "الاقتصادُ ما بعد الكينزي (Post-Keynesian Economics)", type: "مدرسة"
 - id: "con-financial-instability-hypothesis", title: "فرضيةُ عدم الاستقرار المالي (Financial Instability Hypothesis)", type: "مفهوم"
-- id: "ctx-financial-crisis-2008-occupy", title: "الأزمة المالية العالمية (2008) وحركة احتلوا وول ستريت", type: "سياق"
+- id: "ctx-financial-crisis-2008-occupy", title: "الأزمة المالية العالمية (2008) وحركة احتلوا وول ستريت", type: "سياق/تقليد"
 gaps:
   - "مصطلح 'لحظة مينسكي' الذي شاع إعلامياً بعد أزمة 2008 لم يستخدمه مينسكي نفسُه حرفياً في هذا الكتاب؛ صِيغ لاحقاً من قِبل معلّقين ماليين استلهاماً من أطروحته، وهو تمييزٌ موثَّقٌ صراحةً هنا."
 ---

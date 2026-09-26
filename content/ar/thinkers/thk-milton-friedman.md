@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-monetarism-chicago-school", target_type: "مدرسة"
 related:
 - id: "sch-monetarism-chicago-school", title: "المونيتاريةُ ومدرسةُ شيكاغو (Monetarism and the Chicago School)", type: "مدرسة"
-- id: "wrk-a-monetary-history-of-the-united-states", title: "تاريخٌ نقديٌّ للولايات المتحدة (A Monetary History of the United States)", type: "عمل / كتاب"
+- id: "wrk-a-monetary-history-of-the-united-states", title: "تاريخٌ نقديٌّ للولايات المتحدة، 1867-1960 (A Monetary History of the United States, 1867-1960)", type: "عمل / كتاب"
 - id: "con-quantity-theory-of-money-monetarism", title: "نظريةُ كمية النقود المونيتارية (Quantity Theory of Money)", type: "مفهوم"
 - id: "con-phillips-curve", title: "منحنى فيليبس (Phillips Curve)", type: "مفهوم"
 - id: "thk-john-maynard-keynes", title: "جون مينارد كينز (John Maynard Keynes)", type: "مفكر"

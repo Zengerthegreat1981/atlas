@@ -16,7 +16,7 @@ related:
 - id: "sch-neoclassical-keynesian-synthesis", title: "التركيبُ النيوكلاسيكي-الكينزي (Neoclassical-Keynesian Synthesis)", type: "مدرسة"
 - id: "thk-milton-friedman", title: "ميلتون فريدمان (Milton Friedman)", type: "مفكر"
 - id: "sch-monetarism-chicago-school", title: "المونيتاريةُ ومدرسةُ شيكاغو (Monetarism and the Chicago School)", type: "مدرسة"
-- id: "ctx-oil-crisis-1973-end-golden-age", title: "أزمة النفط (1973) ونهاية العقود الثلاثة المجيدة للاقتصاد الغربي", type: "سياق"
+- id: "ctx-oil-crisis-1973-end-golden-age", title: "أزمة النفط (1973) ونهاية العقود الثلاثة المجيدة للاقتصاد الغربي", type: "سياق/تقليد"
 gaps:
   - "الدراسةُ الأصلية لوليام فيليبس اعتمدت على بياناتٍ بريطانية بين 1861 و1957 وربطت التضخّمَ في الأجور تحديداً بالبطالة، لا التضخّمَ في أسعار السلع مباشرةً؛ التمييزُ بين الصيغتين موثَّقٌ هنا باختصار."
 ---

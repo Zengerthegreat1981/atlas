@@ -18,7 +18,7 @@ edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
 - id: "thk-milton-friedman", title: "ميلتون فريدمان (Milton Friedman)", type: "مفكر"
-- id: "wrk-a-monetary-history-of-the-united-states", title: "تاريخٌ نقديٌّ للولايات المتحدة (A Monetary History of the United States)", type: "عمل / كتاب"
+- id: "wrk-a-monetary-history-of-the-united-states", title: "تاريخٌ نقديٌّ للولايات المتحدة، 1867-1960 (A Monetary History of the United States, 1867-1960)", type: "عمل / كتاب"
 - id: "con-quantity-theory-of-money-monetarism", title: "نظريةُ كمية النقود المونيتارية (Quantity Theory of Money)", type: "مفهوم"
 - id: "con-phillips-curve", title: "منحنى فيليبس (Phillips Curve)", type: "مفهوم"
 - id: "sch-keynesian-economics", title: "الاقتصادُ الكينزي (Keynesian Economics)", type: "مدرسة"

@@ -25,7 +25,7 @@ related:
 - id: "con-financial-instability-hypothesis", title: "فرضيةُ عدم الاستقرار المالي (Financial Instability Hypothesis)", type: "مفهوم"
 - id: "dbt-cambridge-capital-controversy", title: "جدلُ كامبريدج حول رأس المال (Cambridge Capital Controversy)", type: "جدل"
 - id: "sch-keynesian-economics", title: "الاقتصادُ الكينزي (Keynesian Economics)", type: "مدرسة"
-- id: "ctx-financial-crisis-2008-occupy", title: "الأزمة المالية العالمية (2008) وحركة احتلوا وول ستريت", type: "سياق"
+- id: "ctx-financial-crisis-2008-occupy", title: "الأزمة المالية العالمية (2008) وحركة احتلوا وول ستريت", type: "سياق/تقليد"
 gaps:
   - "المدرسةُ ليست كتلةً واحدةً بل تضمّ فروعاً متمايزةً (كامبريدج البريطانية، الكاليتسكية، السرافية، النقديةُ ما بعد الكينزية الأمريكية حول مينسكي)؛ عُرضت هنا العناصرُ المشتركة العامة دون الخوض في تفاصيل الخلافات الداخلية بين هذه الفروع."
 ---

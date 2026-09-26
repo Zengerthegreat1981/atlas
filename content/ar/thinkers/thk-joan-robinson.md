@@ -17,7 +17,7 @@ edges:
 - rel: "belongs_to", target: "sch-post-keynesian-economics", target_type: "مدرسة"
 related:
 - id: "sch-post-keynesian-economics", title: "الاقتصادُ ما بعد الكينزي (Post-Keynesian Economics)", type: "مدرسة"
-- id: "wrk-the-accumulation-of-capital-joan-robinson", title: "تراكمُ رأس المال (The Accumulation of Capital)", type: "عمل / كتاب"
+- id: "wrk-the-accumulation-of-capital-joan-robinson", title: "تراكمُ رأس المال — جوان روبنسون (The Accumulation of Capital, 1956)", type: "عمل / كتاب"
 - id: "dbt-cambridge-capital-controversy", title: "جدلُ كامبريدج حول رأس المال (Cambridge Capital Controversy)", type: "جدل"
 - id: "thk-piero-sraffa", title: "بيرو سرافا (Piero Sraffa)", type: "مفكر"
 - id: "thk-john-maynard-keynes", title: "جون مينارد كينز (John Maynard Keynes)", type: "مفكر"

@@ -4,7 +4,7 @@ id: "WRK-20392"
 type: "عمل / كتاب"
 part: "political-economy"
 level: "متقدم"
-title: "تراكمُ رأس المال (The Accumulation of Capital)"
+title: "تراكمُ رأس المال — جوان روبنسون (The Accumulation of Capital, 1956)"
 author: "جوان روبنسون"
 author_slug: "thk-joan-robinson"
 publication_year: 1956

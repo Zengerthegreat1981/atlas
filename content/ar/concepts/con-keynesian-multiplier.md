@@ -16,7 +16,7 @@ related:
 - id: "sch-keynesian-economics", title: "الاقتصادُ الكينزي (Keynesian Economics)", type: "مدرسة"
 - id: "thk-john-maynard-keynes", title: "جون مينارد كينز (John Maynard Keynes)", type: "مفكر"
 - id: "con-effective-demand", title: "الطلبُ الفعّال (Effective Demand)", type: "مفهوم"
-- id: "ctx-oil-crisis-1973-end-golden-age", title: "أزمة النفط (1973) ونهاية العقود الثلاثة المجيدة للاقتصاد الغربي", type: "سياق"
+- id: "ctx-oil-crisis-1973-end-golden-age", title: "أزمة النفط (1973) ونهاية العقود الثلاثة المجيدة للاقتصاد الغربي", type: "سياق/تقليد"
 gaps:
   - "القيمةُ الرقمية الدقيقة لحجم المضاعِف في اقتصاداتٍ واقعية معيّنة موضوعُ جدلٍ تجريبي (قياسي) مستمر بين الاقتصاديين، ولا يمكن الجزمُ برقمٍ عام واحد صالح لكل اقتصاد وزمن؛ الملفُّ يعرض المبدأَ النظري لا تقديراً رقمياً محدَّداً."
 ---
