@@ -17,6 +17,11 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "wrk-the-triumph-of-injustice-saez-zucman", title: "انتصارُ الظلم (The Triumph of Injustice)", type: "عمل / كتاب"
+- id: "wrk-the-price-of-inequality-stiglitz", title: "ثمنُ اللامساواة (The Price of Inequality)", type: "عمل / كتاب"
+- id: "wrk-the-hidden-wealth-of-nations-zucman", title: "الثروةُ الخفية للأمم (The Hidden Wealth of Nations)", type: "عمل / كتاب"
+- id: "dbt-inequality-and-growth", title: "جدلُ اللامساواة والنمو الاقتصادي (Inequality and Growth)", type: "جدل"
+- id: "dbt-rising-markups-and-market-power", title: "جدلُ تصاعد هوامش الربح والقوة السوقية (Rising Markups and Market Power)", type: "جدل"
 - id: "ins-distributional-national-accounts", title: "الحساباتُ القومية التوزيعية (Distributional National Accounts)", type: "منهج/أداة بحث"
 - id: "thk-emmanuel-saez", title: "إيمانويل سايز (Emmanuel Saez)", type: "مفكر"
 - id: "thk-gabriel-zucman", title: "غابرييل زوكمان (Gabriel Zucman)", type: "مفكر"

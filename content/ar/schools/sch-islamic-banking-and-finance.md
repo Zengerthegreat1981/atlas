@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-modern-islamic-economics", target_type: "مدرسة"
 related:
+- id: "wrk-fiqh-al-zakat-qaradawi", title: "فقهُ الزكاة (Fiqh al-Zakat)", type: "عمل / كتاب"
+- id: "wrk-islamic-finance-law-economics-practice-el-gamal", title: "التمويلُ الإسلامي: القانونُ والاقتصادُ والممارسة (Islamic Finance)", type: "عمل / كتاب"
+- id: "wrk-towards-a-just-monetary-system-chapra", title: "نحو نظامٍ نقديٍّ عادل (Towards a Just Monetary System)", type: "عمل / كتاب"
 - id: "thk-abbas-mirakhor", title: "عباس ميراخور (Abbas Mirakhor)", type: "مفكر"
 - id: "thk-mahmoud-el-gamal", title: "محمود الجمل (Mahmoud El-Gamal)", type: "مفكر"
 - id: "thk-rodney-wilson-islamic-finance", title: "رودني ويلسون (Rodney Wilson)", type: "مفكر"

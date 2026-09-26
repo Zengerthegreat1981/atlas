@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "wrk-the-value-of-everything-mazzucato", title: "قيمةُ كل شيء (The Value of Everything)", type: "عمل / كتاب"
 - id: "thk-paul-davidson", title: "پول ديفيدسون (Paul Davidson)", type: "مفكر"
 - id: "thk-pierangelo-garegnani", title: "پيير أنجيلو گاريگناني (Pierangelo Garegnani)", type: "مفكر"
 - id: "thk-geoffrey-harcourt", title: "جيفري هاركورت (Geoffrey Harcourt)", type: "مفكر"

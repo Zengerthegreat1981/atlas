@@ -17,6 +17,8 @@ active_end: 1883
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "wrk-the-theory-of-capitalist-development-sweezy", title: "نظريةُ التطوّر الرأسمالي (The Theory of Capitalist Development)", type: "عمل / كتاب"
+- id: "wrk-dialectics-of-dependency-marini", title: "جدليةُ التبعية (Dialéctica de la Dependencia)", type: "عمل / كتاب"
 - id: "thk-ellen-meiksins-wood", title: "إلين ميكسينز وود (Ellen Meiksins Wood)", type: "مفكر"
 - id: "thk-anwar-shaikh", title: "أنور شيخ (Anwar Shaikh)", type: "مفكر"
 - id: "sch-narodnik-agrarian-populism", title: "الشعبويةُ الزراعيةُ الناردنيكية (Narodnik Agrarian Populism)", type: "مدرسة"

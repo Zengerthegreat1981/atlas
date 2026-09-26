@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "wrk-the-oil-curse-ross", title: "لعنةُ النفط (The Oil Curse)", type: "عمل / كتاب"
+- id: "dbt-gulf-economic-diversification", title: "جدلُ التنويع الاقتصادي الخليجي (Gulf Economic Diversification)", type: "جدل"
 - id: "evt-lebanese-financial-collapse-2019", title: "الانهيارُ المالي اللبناني (2019)", type: "حدث تاريخي"
 - id: "evt-algerian-hydrocarbons-nationalization-1971", title: "تأميمُ المحروقات الجزائرية (1971)", type: "حدث تاريخي"
 - id: "evt-saudi-vision-2030-launch-2016", title: "إطلاقُ رؤية السعودية 2030 (2016)", type: "حدث تاريخي"

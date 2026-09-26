@@ -16,6 +16,8 @@ active_start: 1776
 active_end: 1870
 edges: []
 related:
+- id: "wrk-paper-credit-of-great-britain-thornton", title: "بحثٌ في طبيعة الائتمان الورقي البريطاني وآثاره (Paper Credit of Great Britain)", type: "عمل / كتاب"
+- id: "wrk-lombard-street-bagehot", title: "شارعُ لومبارد (Lombard Street)", type: "عمل / كتاب"
 - id: "sch-british-historical-economics", title: "المدرسةُ التاريخيةُ البريطانية في الاقتصاد (British Historical Economics)", type: "مدرسة"
 - id: "sch-monetary-economics-tradition", title: "تقليدُ الاقتصاد النقدي (Monetary Economics Tradition)", type: "مدرسة"
 - id: "thk-walter-bagehot", title: "والتر باجت (Walter Bagehot)", type: "مفكر"

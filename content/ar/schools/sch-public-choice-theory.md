@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-austrian-school-of-economics", target_type: "مدرسة"
 related:
+- id: "wrk-the-rise-and-decline-of-nations-olson", title: "صعودُ الأمم وانحدارُها (The Rise and Decline of Nations)", type: "عمل / كتاب"
 - id: "br-constitutional-economics-buchanan", title: "الاقتصادُ الدستوري البيوكاناني: قواعدُ اللعبة قبل اللعب نفسه", type: "تيار"
 - id: "thk-james-m-buchanan", title: "جيمس إم بيوكانان (James M. Buchanan)", type: "مفكر"
 - id: "thk-gordon-tullock", title: "غوردون تولوك (Gordon Tullock)", type: "مفكر"

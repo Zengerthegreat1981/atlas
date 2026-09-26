@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
 related:
+- id: "wrk-challenging-colonialism-bank-misr-davis", title: "تحدّي الاستعمار: بنكُ مصر والتصنيع المصري (Challenging Colonialism)", type: "عمل / كتاب"
+- id: "wrk-the-egypt-of-nasser-and-sadat-waterbury", title: "مصرُ ناصر والسادات (The Egypt of Nasser and Sadat)", type: "عمل / كتاب"
+- id: "wrk-arab-human-development-report-2002", title: "تقريرُ التنمية الإنسانية العربية 2002 (Arab Human Development Report 2002)", type: "عمل / كتاب"
+- id: "dbt-privatization-in-the-arab-world", title: "جدلُ الخصخصة في العالم العربي (Privatization in the Arab World)", type: "جدل"
 - id: "evt-egyptian-land-reform-1952", title: "الإصلاحُ الزراعي المصري (1952)", type: "حدث تاريخي"
 - id: "evt-bank-misr-founding-1920", title: "تأسيسُ بنك مصر (1920)", type: "حدث تاريخي"
 - id: "br-arab-socialism-economic-policy", title: "الاشتراكيةُ العربية كسياسةٍ اقتصادية: التأميم والتخطيط في مصر عبد الناصر وسوريا والعراق البعثيين", type: "تيار"

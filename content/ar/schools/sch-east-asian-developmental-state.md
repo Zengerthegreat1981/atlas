@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "wrk-miti-and-the-japanese-miracle-johnson", title: "ميتي والمعجزةُ اليابانية (MITI and the Japanese Miracle)", type: "عمل / كتاب"
+- id: "wrk-embedded-autonomy-evans", title: "الاستقلاليةُ المُدمَجة (Embedded Autonomy)", type: "عمل / كتاب"
+- id: "wrk-asias-next-giant-amsden", title: "عملاقُ آسيا القادم (Asia's Next Giant)", type: "عمل / كتاب"
+- id: "wrk-governing-the-market-wade", title: "حوكمةُ السوق (Governing the Market)", type: "عمل / كتاب"
 - id: "sch-flying-geese-development-model", title: "نموذجُ الإوَزّ الطائر للتنمية (Flying Geese Development Model)", type: "مدرسة"
 - id: "thk-robert-wade", title: "روبرت ويد (Robert Wade)", type: "مفكر"
 - id: "thk-peter-evans", title: "پيتر إيفانز (Peter Evans)", type: "مفكر"

@@ -16,6 +16,7 @@ active_start: 1960
 edges:
 - rel: "relates_to", target: "con-human-capital", target_type: "مفهوم"
 related:
+- id: "con-kafala-labour-system-gulf", title: "نظامُ الكفالة في الخليج (Kafala Labour System (Gulf))", type: "مفهوم"
 - id: "con-human-capital", title: "رأسُ المال البشري (Human Capital)", type: "مفهوم"
 - id: "con-remittance-economies-arab-region", title: "اقتصاداتُ التحويلات المالية في المنطقة العربية", type: "مفهوم"
 - id: "sch-rentier-state-theory", title: "نظريةُ الدولة الريعية (Rentier State Theory)", type: "مدرسة"

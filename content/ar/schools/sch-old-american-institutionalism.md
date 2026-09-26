@@ -17,6 +17,7 @@ active_end: 1945
 edges:
 - rel: "evolved_from", target: "sch-veblenian-institutional-sociology", target_type: "مدرسة"
 related:
+- id: "wrk-the-great-crash-1929-galbraith", title: "الانهيارُ الكبير 1929 (The Great Crash 1929)", type: "عمل / كتاب"
 - id: "wrk-the-new-industrial-state-galbraith", title: "الدولةُ الصناعيةُ الجديدة (The New Industrial State)", type: "عمل / كتاب"
 - id: "thk-veblen", title: "ثورستين فيبلن", type: "مفكر"
 - id: "sch-veblenian-institutional-sociology", title: "سوسيولوجيا الاستهلاك والمؤسسية التطورية", type: "مدرسة"

@@ -17,6 +17,13 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "wrk-the-theory-of-economic-growth-lewis", title: "نظريةُ النمو الاقتصادي (The Theory of Economic Growth)", type: "عمل / كتاب"
+- id: "wrk-the-bottom-billion-collier", title: "المليارُ الأسفل (The Bottom Billion)", type: "عمل / كتاب"
+- id: "wrk-economic-backwardness-in-historical-perspective-gerschenkron", title: "التخلّفُ الاقتصاديُّ في منظورٍ تاريخي (Economic Backwardness in Historical Perspective)", type: "عمل / كتاب"
+- id: "wrk-dead-aid-moyo", title: "المعونةُ الميتة (Dead Aid)", type: "عمل / كتاب"
+- id: "dbt-deglobalization-and-reshoring", title: "جدلُ إزالةِ العولمة وإعادةِ التصنيع للداخل (Deglobalization and Reshoring)", type: "جدل"
+- id: "dbt-population-growth-and-development-simon-ehrlich", title: "جدلُ النمو السكاني والتنمية (سايمون مقابل إيرليخ)", type: "جدل"
+- id: "dbt-do-trade-deficits-matter", title: "جدلُ هل تهمّ عجوزاتُ التجارة؟ (Do Trade Deficits Matter?)", type: "جدل"
 - id: "ins-propensity-score-matching", title: "المطابقةُ عبر درجة الميل (Propensity Score Matching)", type: "منهج/أداة بحث"
 - id: "ins-panel-data-methods", title: "مناهجُ بيانات اللوحة (Panel Data Methods)", type: "منهج/أداة بحث"
 - id: "ins-foster-greer-thorbecke-poverty-measures", title: "مقاييسُ فوستر-غرير-ثوربيك للفقر (Foster-Greer-Thorbecke Poverty Measures)", type: "منهج/أداة بحث"

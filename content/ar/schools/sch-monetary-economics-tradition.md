@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "con-fiscal-dominance", title: "الهيمنةُ المالية (Fiscal Dominance)", type: "مفهوم"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 - id: "sch-monetarism-chicago-school", title: "المونيتاريةُ ومدرسةُ شيكاغو (Monetarism and the Chicago School)", type: "مدرسة"
 - id: "sch-stockholm-school", title: "مدرسةُ ستوكهولم (Stockholm School)", type: "مدرسة"
