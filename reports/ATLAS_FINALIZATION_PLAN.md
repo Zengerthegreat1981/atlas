@@ -123,3 +123,5 @@ Size: about 190 batches of 40.
 | 2026-09-26 | worker: political-economy 7 (development, inequality, feminist, ecological) | +35 (5 sch, 14 thk, 7 wrk, 8 con, 1 dbt), 35/35 pass; 2 factual fixes (Waring). Audit diff found 21 new orphans, linked from their schools in 3c0400b63. **political-economy measured: 279** | f5bb2c021 |
 | 2026-09-26 | worker: political-economy 9 (20 debates, 15 studies) | +35, 35/35 pass; gender agreement fix, al-Azhar 2002 / Jeddah 1985 positions added to the Islamic banking debate | d2af59403 |
 | 2026-09-26 | worker: political-economy 10 (Arab political economy) | +35 (3 sch, 18 thk, 6 wrk, 8 con), 35/35 pass; Beblawi offices made precise. Audit diff: 16 related-title mismatches and 13 orphans fixed in a01183f61. **political-economy measured: 349** | 6952c8bbf |
+| 2026-09-26 | worker: political-economy 12 (15 events, 10 studies, 10 methods) | +35, 35/35 pass | 2c73561e5 |
+| 2026-09-26 | worker: political-economy 11 (20 currents, 15 critiques) | +35 (20 br, 15 crt), 35/35 pass; 59 orphans from batches 11-12 linked in 0a573d4f2. **political-economy measured: 419** | 61da6d5a6 |
