@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
+- id: "sch-segmented-labor-market-theory", title: "نظريةُ سوق العمل المجزَّأ (Segmented Labor Market Theory)", type: "مدرسة"
 - id: "thk-philip-mirowski", title: "فيليب ميروفسكي (Philip Mirowski)", type: "مفكر"
 - id: "sch-marx-critique-of-political-economy", title: "نقدُ الاقتصاد السياسي عند ماركس (Marx's Critique of Political Economy)", type: "مدرسة"
 - id: "sch-social-structure-of-accumulation", title: "مدرسةُ البنية الاجتماعية للتراكم (Social Structure of Accumulation)", type: "مدرسة"

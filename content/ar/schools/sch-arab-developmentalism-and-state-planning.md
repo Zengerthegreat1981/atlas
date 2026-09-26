@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
 related:
+- id: "wrk-overstating-the-arab-state-ayubi", title: "المبالغةُ في الدولة العربية (Over-stating the Arab State)", type: "عمل / كتاب"
 - id: "crt-galal-amin-development-discourse-egypt", title: "نقدُ جلال أمين لخطاب التنمية في مصر: النموُّ بلا تنمية حقيقية", type: "نقد خارجي موثَّق"
 - id: "thk-fawzy-mansour", title: "فوزي منصور (Fawzy Mansour)", type: "مفكر"
 - id: "wrk-challenging-colonialism-bank-misr-davis", title: "تحدّي الاستعمار: بنكُ مصر والتصنيع المصري (Challenging Colonialism)", type: "عمل / كتاب"

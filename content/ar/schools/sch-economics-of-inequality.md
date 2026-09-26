@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "wrk-inequality-what-can-be-done-atkinson", title: "اللامساواة: ما الذي يمكن فعله؟ (Inequality: What Can Be Done?)", type: "عمل / كتاب"
 - id: "wrk-the-triumph-of-injustice-saez-zucman", title: "انتصارُ الظلم (The Triumph of Injustice)", type: "عمل / كتاب"
 - id: "wrk-the-price-of-inequality-stiglitz", title: "ثمنُ اللامساواة (The Price of Inequality)", type: "عمل / كتاب"
 - id: "wrk-the-hidden-wealth-of-nations-zucman", title: "الثروةُ الخفية للأمم (The Hidden Wealth of Nations)", type: "عمل / كتاب"

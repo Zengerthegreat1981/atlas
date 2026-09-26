@@ -16,6 +16,7 @@ active_start: 1500
 active_end: 1776
 edges: []
 related:
+- id: "sch-currency-banking-school-debate", title: "جدلُ مدرسة العملة ومدرسة المصارف (Currency School vs. Banking School Debate)", type: "مدرسة"
 - id: "br-neo-mercantilism", title: "المركنتيليةُ الجديدة: فائضٌ تجاري كأداةِ قوةٍ لا مجرّد ثروة", type: "تيار"
 - id: "wrk-an-inquiry-into-the-principles-of-political-oeconomy-steuart", title: "بحثٌ في مبادئ الاقتصاد السياسي (An Inquiry into the Principles of Political Oeconomy)", type: "عمل / كتاب"
 - id: "thk-james-steuart", title: "جيمس ستيوارت (James Steuart)", type: "مفكر"

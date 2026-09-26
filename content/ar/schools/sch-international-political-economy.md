@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "dbt-imf-conditionality-egypt-tunisia-jordan", title: "جدلُ مشروطية صندوق النقد في مصر وتونس والأردن (IMF Conditionality in Egypt, Tunisia, and Jordan)", type: "جدل"
+- id: "dbt-odious-debt-doctrine", title: "جدلُ مبدأ الدَّين الكريه (The Odious Debt Doctrine)", type: "جدل"
+- id: "dbt-dollar-hegemony-and-dedollarization", title: "جدلُ هيمنة الدولار وإزالة الدولرة (Dollar Hegemony and De-dollarization)", type: "جدل"
 - id: "crt-rodrik-hyperglobalization-critique", title: "نقدُ رودريك للعولمة المفرطة (2011): تناقضُ الديمقراطية والدولة القومية والعولمة", type: "نقد خارجي موثَّق"
 - id: "con-economic-sanctions", title: "العقوباتُ الاقتصادية (Economic Sanctions)", type: "مفهوم"
 - id: "sch-neo-gramscian-international-political-economy", title: "الاقتصادُ السياسيُّ الدولي الغرامشي الجديد (Neo-Gramscian International Political Economy)", type: "مدرسة"

@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "wrk-essays-on-the-great-depression-bernanke", title: "مقالاتٌ في الكساد الكبير (Essays on the Great Depression)", type: "عمل / كتاب"
+- id: "dbt-currency-board-vs-dollarization", title: "جدلُ مجلس العملة مقابل الدولرة الكاملة (Currency Board vs. Full Dollarization)", type: "جدل"
 - id: "con-exchange-rate-pass-through", title: "انتقالُ أثر سعر الصرف (Exchange Rate Pass-Through)", type: "مفهوم"
 - id: "con-financial-deepening", title: "التعمّقُ المالي (Financial Deepening)", type: "مفهوم"
 - id: "thk-ronald-mckinnon", title: "رونالد مكينون (Ronald McKinnon)", type: "مفكر"

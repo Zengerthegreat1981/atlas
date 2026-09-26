@@ -16,6 +16,7 @@ active_start: 1930
 edges:
 - rel: "relates_to", target: "thk-harold-hotelling", target_type: "مفكر"
 related:
+- id: "dbt-resource-nationalism-vs-foreign-investment", title: "جدلُ القومية الموردية مقابل الاستثمار الأجنبي (Resource Nationalism vs. Foreign Investment)", type: "جدل"
 - id: "con-commodity-super-cycle", title: "الدورةُ الفائقة للسلع الأولية (Commodity Super-Cycle)", type: "مفهوم"
 - id: "thk-julian-simon", title: "جوليان سايمون (Julian L. Simon)", type: "مفكر"
 - id: "con-natural-resource-rent", title: "ريعُ الموارد الطبيعية (Natural Resource Rent)", type: "مفهوم"

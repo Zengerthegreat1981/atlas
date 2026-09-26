@@ -13,6 +13,9 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-rentier-state-theory", target_type: "مدرسة"
 related:
+- id: "thk-raymond-hinnebusch", title: "ريموند هينبوش (Raymond Hinnebusch)", type: "مفكر"
+- id: "thk-melani-cammett", title: "ميلاني كاميت (Melani Cammett)", type: "مفكر"
+- id: "thk-timothy-mitchell", title: "تيموثي ميتشل (Timothy Mitchell)", type: "مفكر"
 - id: "sch-rentier-state-theory", title: "نظريةُ الدولة الريعية (Rentier State Theory)", type: "مدرسة"
 - id: "sch-economic-history-of-the-middle-east", title: "التأريخُ الاقتصاديُّ للشرق الأوسط (Economic History of the Middle East)", type: "مدرسة"
 - id: "con-crony-capitalism", title: "رأسماليةُ المحاسيب (Crony Capitalism)", type: "مفهوم"

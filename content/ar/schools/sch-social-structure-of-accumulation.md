@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-radical-political-economy-urpe", target_type: "مدرسة"
 related:
+- id: "dbt-financialization-and-investment", title: "جدلُ الفَيْنَنَة والاستثمار الإنتاجي (Financialization and Investment)", type: "جدل"
 - id: "sch-radical-political-economy-urpe", title: "الاقتصادُ السياسيُّ الراديكالي واتحادُ URPE (Radical Political Economics / URPE)", type: "مدرسة"
 - id: "sch-marxist-crisis-theory", title: "نظريةُ الأزمة الماركسية (Marxist Crisis Theory)", type: "مدرسة"
 - id: "sch-varieties-of-capitalism", title: "أنماطُ الرأسمالية (Varieties of Capitalism)", type: "مدرسة"

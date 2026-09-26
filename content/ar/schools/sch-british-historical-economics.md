@@ -17,6 +17,9 @@ active_end: 1900
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "wrk-a-farewell-to-alms-clark", title: "وداعاً للصدقات (A Farewell to Alms)", type: "عمل / كتاب"
+- id: "wrk-a-culture-of-growth-mokyr", title: "ثقافةُ النمو (A Culture of Growth)", type: "عمل / كتاب"
+- id: "wrk-the-british-industrial-revolution-in-global-perspective-allen", title: "الثورةُ الصناعية البريطانية في منظورٍ عالمي (The British Industrial Revolution in Global Perspective)", type: "عمل / كتاب"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 - id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية في الاقتصاد (German Historical School of Economics)", type: "مدرسة"
 - id: "sch-manchester-school", title: "مدرسةُ مانشستر وتحليلُ الموقف (Manchester School)", type: "مدرسة"

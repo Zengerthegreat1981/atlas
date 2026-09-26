@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "wrk-institutions-and-the-path-to-the-modern-economy-greif", title: "المؤسساتُ ومسارُ الاقتصاد الحديث (Institutions and the Path to the Modern Economy)", type: "عمل / كتاب"
+- id: "thk-avner-greif", title: "أفنر غريف (Avner Greif)", type: "مفكر"
 - id: "br-cliometrics-new-economic-history", title: "الكليومتريا وتاريخُ الاقتصاد الجديد: قياسُ الماضي بأدوات الاقتصاد القياسي", type: "تيار"
 - id: "thk-mushtaq-khan", title: "مشتاق خان (Mushtaq Khan)", type: "مفكر"
 - id: "stu-coase-nature-of-the-firm-1937", title: "دراسةُ كوز عن «طبيعة الشركة» وتكاليف المعاملات (1937)", type: "دراسة وبحث"

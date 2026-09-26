@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
+- id: "dbt-tax-competition-race-to-the-bottom", title: "جدلُ المنافسة الضريبية والانحدار نحو القاع (Tax Competition and the Race to the Bottom)", type: "جدل"
 - id: "con-laffer-curve", title: "منحنى لافر (Laffer Curve)", type: "مفهوم"
 - id: "con-fiscal-federalism", title: "الفيدراليةُ المالية (Fiscal Federalism)", type: "مفهوم"
 - id: "stu-samuelson-pure-theory-of-public-expenditure-1954", title: "دراسةُ سامويلسون عن «النظرية الخالصة للإنفاق العام» (1954)", type: "دراسة وبحث"

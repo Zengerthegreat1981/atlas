@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
+- id: "sch-post-fordism-analysis", title: "تحليلُ الفوردية وما بعد الفوردية (Fordism/Post-Fordism Analysis)", type: "مدرسة"
 - id: "sch-marx-critique-of-political-economy", title: "نقدُ الاقتصاد السياسي عند ماركس (Marx's Critique of Political Economy)", type: "مدرسة"
 - id: "thk-michel-aglietta", title: "ميشيل أغليتا (Michel Aglietta)", type: "مفكر"
 - id: "thk-robert-boyer-economist", title: "روبير بوايي (Robert Boyer)", type: "مفكر"

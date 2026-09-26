@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "sch-modern-monetary-theory", title: "النظريةُ النقديةُ الحديثة (Modern Monetary Theory)", type: "مدرسة"
+- id: "dbt-mmt-vs-mainstream-macroeconomics", title: "جدلُ النظرية النقدية الحديثة مقابل الاقتصاد الكلي التقليدي (MMT vs. Mainstream Macroeconomics)", type: "جدل"
+- id: "dbt-wage-led-vs-profit-led-growth", title: "جدلُ النمو المقاد بالأجور مقابل النمو المقاد بالأرباح (Wage-Led vs. Profit-Led Growth)", type: "جدل"
 - id: "con-capital-controls", title: "قيودُ رأس المال (Capital Controls)", type: "مفهوم"
 - id: "thk-tony-lawson", title: "توني لوسون (Tony Lawson)", type: "مفكر"
 - id: "thk-victoria-chick", title: "فيكتوريا تشيك (Victoria Chick)", type: "مفكر"

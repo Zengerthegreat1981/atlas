@@ -16,6 +16,9 @@ active_start: 1930
 edges:
 - rel: "evolved_from", target: "sch-soviet-planning-economics", target_type: "مدرسة"
 related:
+- id: "wrk-economics-of-shortage-kornai", title: "اقتصادُ الندرة (Economics of Shortage)", type: "عمل / كتاب"
+- id: "wrk-economics-of-feasible-socialism-nove", title: "اقتصادُ الاشتراكية الممكنة (The Economics of Feasible Socialism)", type: "عمل / كتاب"
+- id: "thk-alec-nove", title: "أليك نوف (Alec Nove)", type: "مفكر"
 - id: "ins-synthetic-control-method", title: "أسلوبُ الرقابة التركيبية (Synthetic Control Method)", type: "منهج/أداة بحث"
 - id: "sch-soviet-planning-economics", title: "اقتصادُ التخطيط السوفياتي (Soviet Planning Economics)", type: "مدرسة"
 - id: "sch-east-asian-developmental-state", title: "نموذجُ الدولة التنموية في شرق آسيا (East Asian Developmental State)", type: "مدرسة"

@@ -17,6 +17,12 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "sch-neopatrimonialism-crony-capitalism", title: "النيوبطريركيةُ ورأسماليةُ المحاسيب (Neopatrimonialism and Crony Capitalism)", type: "مدرسة"
+- id: "wrk-capitalism-and-class-in-the-gulf-hanieh", title: "الرأسماليةُ والطبقة في دول الخليج العربي (Capitalism and Class in the Gulf Arab States)", type: "عمل / كتاب"
+- id: "wrk-carbon-democracy-mitchell", title: "ديمقراطيةُ الكربون (Carbon Democracy)", type: "عمل / كتاب"
+- id: "wrk-the-price-of-wealth-chaudhry", title: "ثمنُ الثروة (The Price of Wealth)", type: "عمل / كتاب"
+- id: "dbt-fuel-subsidy-removal-gulf-egypt", title: "جدلُ إزالة دعم الوقود في الخليج ومصر (Fuel Subsidy Removal in the Gulf and Egypt)", type: "جدل"
+- id: "thk-kiren-aziz-chaudhry", title: "كيرن عزيز شودري (Kiren Aziz Chaudhry)", type: "مفكر"
 - id: "br-mena-political-economy", title: "الاقتصادُ السياسيُّ للشرق الأوسط وشمال أفريقيا: العقدُ الاجتماعي الاستبدادي والريعُ المُدار", type: "تيار"
 - id: "con-petrodollar-recycling", title: "تدويرُ البترودولار (Petrodollar Recycling)", type: "مفهوم"
 - id: "con-resource-curse", title: "لعنةُ الموارد (Resource Curse)", type: "مفهوم"

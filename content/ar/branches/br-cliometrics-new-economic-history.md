@@ -13,6 +13,8 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-new-institutional-economics", target_type: "مدرسة"
 related:
+- id: "thk-gregory-clark", title: "غريغوري كلارك (Gregory Clark)", type: "مفكر"
+- id: "thk-jeffrey-g-williamson", title: "جيفري ويليامسون (Jeffrey G. Williamson)", type: "مفكر"
 - id: "sch-new-institutional-economics", title: "المؤسسانيةُ الاقتصاديةُ الجديدة (New Institutional Economics)", type: "مدرسة"
 - id: "sch-british-historical-economics", title: "المدرسةُ التاريخيةُ البريطانية في الاقتصاد (British Historical Economics)", type: "مدرسة"
 gaps:

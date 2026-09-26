@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "thk-james-meade", title: "جيمس ميد (James Meade)", type: "مفكر"
 - id: "con-okuns-law", title: "قانونُ أوكن (Okun's Law)", type: "مفهوم"
 - id: "sch-french-indicative-planning", title: "التخطيطُ التأشيري الفرنسي (French Indicative Planning)", type: "مدرسة"
 - id: "sch-neoclassical-growth-theory-solow-swan", title: "نظريةُ النمو النيوكلاسيكية عند سولو وسوان (Neoclassical Growth Theory: Solow-Swan)", type: "مدرسة"
