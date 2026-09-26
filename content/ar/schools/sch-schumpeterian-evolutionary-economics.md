@@ -25,7 +25,7 @@ related:
 - id: "wrk-an-evolutionary-theory-of-economic-change-nelson-winter", title: "نظريةٌ تطوريةٌ للتغيّر الاقتصادي (An Evolutionary Theory of Economic Change)", type: "عمل / كتاب"
 - id: "con-creative-destruction", title: "التدميرُ الخلّاق (Creative Destruction)", type: "مفهوم"
 - id: "con-organizational-routines-evolutionary", title: "الروتيناتُ التنظيميةُ التطورية (Organizational Routines)", type: "مفهوم"
-- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية (German Historical School)", type: "مدرسة"
+- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية في الاقتصاد (German Historical School of Economics)", type: "مدرسة"
 gaps:
   - "تصنيفُ نشأة شومبيتر الفكرية موضوعُ نقاشٍ: تتلمذ على النمسويين (بوم-باڤرك) وتأثّر جزئياً بمناخ الجدل مع المدرسة التاريخية الألمانية في فيينا، لكنه لم ينتمِ حصراً لأيٍّ من المدرستين، وطوّر منهجاً ديناميكياً مستقلاً؛ يُذكر ارتباطُه بالحدّية النمسوية عبر أستاذه لا بوصفه عضواً حزبياً في مدرسةٍ واحدة."
 ---

@@ -16,7 +16,7 @@ active_end: 1846
 edges:
 - rel: "belongs_to", target: "sch-german-historical-school-economics", target_type: "مدرسة"
 related:
-- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية (German Historical School)", type: "مدرسة"
+- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية في الاقتصاد (German Historical School of Economics)", type: "مدرسة"
 - id: "con-infant-industry-argument", title: "حجّةُ الصناعة الناشئة (Infant Industry Argument)", type: "مفهوم"
 - id: "thk-wilhelm-roscher", title: "ڤيلهلم روشر (Wilhelm Roscher)", type: "مفكر"
 gaps:

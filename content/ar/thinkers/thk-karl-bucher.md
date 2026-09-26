@@ -16,7 +16,7 @@ active_end: 1930
 edges:
 - rel: "belongs_to", target: "sch-german-historical-school-economics", target_type: "مدرسة"
 related:
-- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية (German Historical School)", type: "مدرسة"
+- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية في الاقتصاد (German Historical School of Economics)", type: "مدرسة"
 - id: "thk-wilhelm-roscher", title: "ڤيلهلم روشر (Wilhelm Roscher)", type: "مفكر"
 - id: "thk-gustav-von-schmoller", title: "غوستاف فون شمولر (Gustav von Schmoller)", type: "مفكر"
 gaps:

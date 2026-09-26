@@ -16,7 +16,7 @@ active_end: 1894
 edges:
 - rel: "belongs_to", target: "sch-german-historical-school-economics", target_type: "مدرسة"
 related:
-- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية (German Historical School)", type: "مدرسة"
+- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية في الاقتصاد (German Historical School of Economics)", type: "مدرسة"
 - id: "thk-gustav-von-schmoller", title: "غوستاف فون شمولر (Gustav von Schmoller)", type: "مفكر"
 - id: "thk-karl-bucher", title: "كارل بوخر (Karl Bücher)", type: "مفكر"
 gaps:

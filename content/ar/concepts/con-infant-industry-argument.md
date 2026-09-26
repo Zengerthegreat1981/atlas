@@ -13,7 +13,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "sch-german-historical-school-economics", target_type: "مدرسة"
 related:
-- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية (German Historical School)", type: "مدرسة"
+- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية في الاقتصاد (German Historical School of Economics)", type: "مدرسة"
 - id: "thk-friedrich-list", title: "فريدريش ليست (Friedrich List)", type: "مفكر"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 gaps:

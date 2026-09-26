@@ -24,7 +24,7 @@ related:
 - id: "thk-clarence-ayres", title: "كلارنس إيرز (Clarence Ayres)", type: "مفكر"
 - id: "wrk-institutional-economics-commons", title: "الاقتصادُ المؤسسي: مكانتُه في الاقتصاد السياسي (Institutional Economics: Its Place in Political Economy)", type: "عمل / كتاب"
 - id: "sch-new-institutional-economics", title: "المؤسسانيةُ الاقتصاديةُ الجديدة (New Institutional Economics)", type: "مدرسة"
-- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية (German Historical School)", type: "مدرسة"
+- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية في الاقتصاد (German Historical School of Economics)", type: "مدرسة"
 gaps:
   - "الحدُّ الفاصل بين 'المؤسسانية القديمة' بوصفها مدرسةً متماسكة الأطروحات وبين كونها تسميةً لاحقةً تجمع باحثين متبايني المنهج (فيبلن الناقد الثقافي، كومونز المصلح القانوني، ميتشل الإحصائي) موضوعُ خلافٍ تأريخيّ لم يُحسم؛ يُعرض هنا التصنيفُ الشائع في تاريخ الفكر الاقتصادي دون ادّعاء وحدةٍ نظريةٍ صارمة بين روّادها."
   - "أفولُ المدرسة بعد الحرب العالمية الثانية أمام صعود التركيب النيوكلاسيكي-الكينزي المُرَمْزَن رياضياً يُعرض هنا إجمالاً؛ تفاصيلُ استمرار بعض خيوطها ضمن ما يُعرف لاحقاً بـ'المؤسسانية التطورية' (نيلسون ووينتر) تُفصَّل في عقدةٍ مستقلة."

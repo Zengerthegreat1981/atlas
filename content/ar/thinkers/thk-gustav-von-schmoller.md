@@ -16,7 +16,7 @@ active_end: 1917
 edges:
 - rel: "belongs_to", target: "sch-german-historical-school-economics", target_type: "مدرسة"
 related:
-- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية (German Historical School)", type: "مدرسة"
+- id: "sch-german-historical-school-economics", title: "المدرسةُ التاريخيةُ الألمانية في الاقتصاد (German Historical School of Economics)", type: "مدرسة"
 - id: "dbt-methodenstreit-menger-schmoller", title: "جدلُ المناهج بين مِنغِر وشمولر (Methodenstreit)", type: "جدل"
 - id: "thk-carl-menger", title: "كارل مِنغِر (Carl Menger)", type: "مفكر"
 - id: "thk-wilhelm-roscher", title: "ڤيلهلم روشر (Wilhelm Roscher)", type: "مفكر"
