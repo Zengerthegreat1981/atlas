@@ -106,3 +106,5 @@ Size: about 190 batches of 40.
 | 2026-09-26 | worker: legal-theory F (Western, international, comparative) | +30 (14 thk, 7 wrk, 9 con), 30/30 pass after 21 expansions; factual fixes in Welzel and P. J. Williams after reads. **legal-theory measured: 506** (target 700) | 816114c87 |
 | 2026-09-26 | worker: legal-theory G (modern Arab & Islamic law) | +30 (14 thk, 7 wrk, 9 con), 30/30 pass; 1 citation fix (al-Bishri title) after reads | 8d21c4cee |
 | 2026-09-26 | worker: legal-theory H (comparative, legal history, public law, law & society) | +30 (14 thk, 7 wrk, 9 con), 30/30 pass; David/UNIDROIT fix, name spelling normalized, Macaulay filler removed. **legal-theory measured: 566** (target 700) | d69957af5 |
+| 2026-09-26 | worker: legal-theory J (criminal-law philosophy, international-law theory) | +35 (16 thk, 8 wrk, 11 con), 35/35 pass; 1 factual fix (Christie) after reads | d2c75df41 |
+| 2026-09-26 | worker: legal-theory I (classical fiqh procedure, non-Western traditions) | +35 (16 thk, 8 wrk, 11 con), 35/35 pass after source fixes in 19 files. **legal-theory measured: 636** (target 700) | 5911f2d98 |
