@@ -17,6 +17,7 @@ active_end: 1890
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "thk-knut-wicksell", title: "كنوت فيكسل (Knut Wicksell)", type: "مفكر"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 - id: "thk-william-stanley-jevons", title: "ويليام ستانلي جيفونز (William Stanley Jevons)", type: "مفكر"
 - id: "thk-carl-menger", title: "كارل مِنغِر (Carl Menger)", type: "مفكر"

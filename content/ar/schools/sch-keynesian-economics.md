@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "evt-marshall-plan-1948", title: "خطةُ مارشال (1948)", type: "حدث تاريخي"
+- id: "ins-national-accounts-and-gdp", title: "الحساباتُ القومية والناتجُ المحلي الإجمالي (National Accounts and GDP)", type: "منهج/أداة بحث"
 - id: "thk-john-maynard-keynes", title: "جون مينارد كينز (John Maynard Keynes)", type: "مفكر"
 - id: "wrk-the-general-theory-of-employment-interest-and-money", title: "النظريةُ العامةُ للتوظيف والفائدة والنقود (The General Theory of Employment, Interest and Money)", type: "عمل / كتاب"
 - id: "con-effective-demand", title: "الطلبُ الفعّال (Effective Demand)", type: "مفهوم"

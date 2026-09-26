@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-monetarism-chicago-school", target_type: "مدرسة"
 related:
+- id: "ins-difference-in-differences", title: "أسلوبُ الفروق في الفروق (Difference-in-Differences)", type: "منهج/أداة بحث"
+- id: "ins-instrumental-variables", title: "المتغيراتُ الأداتية (Instrumental Variables)", type: "منهج/أداة بحث"
+- id: "ins-econometrics-and-causal-identification", title: "الاقتصادُ القياسي وتحديدُ العلاقة السببية (Econometrics and Causal Identification)", type: "منهج/أداة بحث"
+- id: "ins-dsge-models", title: "نماذجُ التوازن العام الديناميكي العشوائي (DSGE Models)", type: "منهج/أداة بحث"
 - id: "thk-robert-lucas-jr", title: "روبرت لوكاس الابن (Robert Lucas Jr.)", type: "مفكر"
 - id: "thk-thomas-sargent", title: "توماس سارجنت (Thomas Sargent)", type: "مفكر"
 - id: "con-phillips-curve", title: "منحنى فيليبس (Phillips Curve)", type: "مفهوم"

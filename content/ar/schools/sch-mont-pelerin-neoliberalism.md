@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-austrian-school-of-economics", target_type: "مدرسة"
 related:
+- id: "evt-asian-financial-crisis-1997", title: "الأزمةُ المالية الآسيوية (1997)", type: "حدث تاريخي"
 - id: "thk-friedrich-august-von-hayek", title: "فريدريش أوغست فون هايك (Friedrich August von Hayek)", type: "مفكر"
 - id: "thk-milton-friedman", title: "ميلتون فريدمان (Milton Friedman)", type: "مفكر"
 - id: "thk-wilhelm-ropke", title: "ڤيلهلم روپكه (Wilhelm Röpke)", type: "مفكر"

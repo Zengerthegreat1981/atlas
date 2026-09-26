@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "con-principal-agent-problem", title: "مشكلةُ الوكيل والأصيل (Principal-Agent Problem)", type: "مفهوم"
+- id: "ins-randomized-controlled-trials-in-economics", title: "التجاربُ المعشّاة المضبوطة في الاقتصاد (Randomized Controlled Trials in Economics)", type: "منهج/أداة بحث"
 - id: "thk-ronald-coase", title: "رونالد كوز (Ronald H. Coase)", type: "مفكر"
 - id: "con-coase-theorem", title: "نظريةُ كوز (Coase Theorem)", type: "مفهوم"
 - id: "thk-oliver-williamson", title: "أوليڤر ويليامسون (Oliver Williamson)", type: "مفكر"

@@ -17,6 +17,9 @@ active_end: 1954
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "ins-input-output-analysis-leontief", title: "تحليلُ المدخلات والمخرجات عند ليونتييف (Input-Output Analysis)", type: "منهج/أداة بحث"
+- id: "ins-game-theory-in-economics", title: "نظريةُ الألعاب في الاقتصاد (Game Theory in Economics)", type: "منهج/أداة بحث"
+- id: "ins-computable-general-equilibrium-models", title: "نماذجُ التوازن العام الحاسوبية (Computable General Equilibrium Models)", type: "منهج/أداة بحث"
 - id: "sch-marginal-revolution", title: "الثورةُ الحدّية (Marginal Revolution)", type: "مدرسة"
 - id: "thk-leon-walras", title: "ليون والراس (Léon Walras)", type: "مفكر"
 - id: "thk-kenneth-arrow", title: "كينيث آرو (Kenneth Arrow)", type: "مفكر"

@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "ins-consumer-price-index", title: "الرقمُ القياسي لأسعار المستهلك (Consumer Price Index)", type: "منهج/أداة بحث"
+- id: "ins-purchasing-power-parity", title: "تعادلُ القوة الشرائية (Purchasing Power Parity)", type: "منهج/أداة بحث"
 - id: "thk-milton-friedman", title: "ميلتون فريدمان (Milton Friedman)", type: "مفكر"
 - id: "wrk-a-monetary-history-of-the-united-states", title: "تاريخٌ نقديٌّ للولايات المتحدة، 1867-1960 (A Monetary History of the United States, 1867-1960)", type: "عمل / كتاب"
 - id: "con-quantity-theory-of-money-monetarism", title: "نظريةُ كمية النقود المونيتارية (Quantity Theory of Money)", type: "مفهوم"

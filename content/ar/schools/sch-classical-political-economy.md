@@ -16,6 +16,9 @@ active_start: 1776
 active_end: 1870
 edges: []
 related:
+- id: "evt-panic-of-1873-long-depression", title: "أزمةُ 1873 و«الكسادُ الطويل» (Long Depression)", type: "حدث تاريخي"
+- id: "evt-south-sea-bubble-1720", title: "فقاعةُ بحر الجنوب (1720)", type: "حدث تاريخي"
+- id: "ins-history-of-economic-thought-as-method", title: "تاريخُ الفكر الاقتصادي بوصفه منهجاً (History of Economic Thought as Method)", type: "منهج/أداة بحث"
 - id: "thk-adam-smith", title: "آدم سميث", type: "مفكر"
 - id: "wrk-the-wealth-of-nations-smith", title: "ثروةُ الأمم (The Wealth of Nations)", type: "عمل / كتاب"
 - id: "thk-david-ricardo", title: "ديفيد ريكاردو (David Ricardo)", type: "مفكر"

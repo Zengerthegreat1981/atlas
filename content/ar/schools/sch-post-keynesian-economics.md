@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "ins-human-development-index", title: "مؤشرُ التنمية البشرية (Human Development Index)", type: "منهج/أداة بحث"
 - id: "thk-joan-robinson", title: "جوان روبنسون (Joan Robinson)", type: "مفكر"
 - id: "thk-michal-kalecki", title: "ميخال كاليتسكي (Michał Kalecki)", type: "مفكر"
 - id: "thk-hyman-minsky", title: "هايمن مينسكي (Hyman Minsky)", type: "مفكر"

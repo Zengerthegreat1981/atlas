@@ -17,6 +17,8 @@ active_end: 1930
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "ins-cost-benefit-analysis", title: "تحليلُ التكلفة والعائد (Cost-Benefit Analysis)", type: "منهج/أداة بحث"
+- id: "ins-gini-coefficient-and-lorenz-curve", title: "معاملُ جيني ومنحنى لورنز (Gini Coefficient and Lorenz Curve)", type: "منهج/أداة بحث"
 - id: "sch-marginal-revolution", title: "الثورةُ الحدّية (Marginal Revolution)", type: "مدرسة"
 - id: "thk-alfred-marshall-economist", title: "ألفريد مارشال (Alfred Marshall)", type: "مفكر"
 - id: "thk-francis-ysidro-edgeworth", title: "فرانسيس إيزيدرو إدجورث (Francis Ysidro Edgeworth)", type: "مفكر"
