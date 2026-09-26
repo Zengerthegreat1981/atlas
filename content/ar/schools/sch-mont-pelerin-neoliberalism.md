@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-austrian-school-of-economics", target_type: "مدرسة"
 related:
+- id: "con-embedded-liberalism", title: "الليبراليةُ المُجذَّرة (Embedded Liberalism)", type: "مفهوم"
 - id: "br-supply-side-economics", title: "اقتصادُ جانب العرض: تخفيضُ الضرائب ومنحنى لافر", type: "تيار"
 - id: "crt-stiglitz-critique-of-washington-consensus", title: "نقدُ ستيغليتز لإجماع واشنطن: التحريرُ المتسرّع بلا مؤسساتٍ كافية", type: "نقد خارجي موثَّق"
 - id: "crt-polanyi-critique-of-self-regulating-market", title: "نقدُ بولاني للسوق ذاتية التنظيم: الأرضُ والعملُ والنقودُ سلعٌ وهمية", type: "نقد خارجي موثَّق"

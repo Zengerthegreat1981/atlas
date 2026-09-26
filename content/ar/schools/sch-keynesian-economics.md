@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "con-accelerator-principle", title: "مبدأُ المعجِّل (Accelerator Principle)", type: "مفهوم"
+- id: "con-paradox-of-thrift", title: "مفارقةُ التقتير (Paradox of Thrift)", type: "مفهوم"
+- id: "con-liquidity-trap", title: "مصيدةُ السيولة (Liquidity Trap)", type: "مفهوم"
+- id: "wrk-a-treatise-on-money-keynes", title: "رسالةٌ في النقود (A Treatise on Money)", type: "عمل / كتاب"
 - id: "thk-edmund-phelps", title: "إدموند فيلبس (Edmund Phelps)", type: "مفكر"
 - id: "thk-paul-krugman", title: "بول كروغمان (Paul Krugman)", type: "مفكر"
 - id: "thk-harry-dexter-white", title: "هاري ديكستر وايت (Harry Dexter White)", type: "مفكر"

@@ -17,6 +17,8 @@ active_end: 1980
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "sch-latin-american-neostructuralism", title: "البنيويةُ الجديدة الأمريكية اللاتينية (Latin American Neostructuralism)", type: "مدرسة"
+- id: "con-terms-of-trade", title: "معدلاتُ التبادل التجاري (Terms of Trade)", type: "مفهوم"
 - id: "thk-raul-prebisch", title: "راؤول بريبيش (Raúl Prebisch)", type: "مفكر"
 - id: "con-prebisch-singer-hypothesis", title: "فرضيةُ بريبيش-سينغر (Prebisch-Singer Hypothesis)", type: "مفهوم"
 - id: "sch-dependency-theory", title: "نظرية التبعية", type: "مدرسة"

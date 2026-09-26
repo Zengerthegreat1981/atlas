@@ -15,7 +15,7 @@ edges:
 related:
 - id: "sch-monetarism-chicago-school", title: "المونيتاريةُ ومدرسةُ شيكاغو (Monetarism and the Chicago School)", type: "مدرسة"
 - id: "thk-irving-fisher", title: "إرفينغ فيشر (Irving Fisher)", type: "مفكر"
-- id: "con-inflation", title: "التضخم (Inflation)", type: "مفهوم"
+- id: "con-inflation", title: "التضخّم (Inflation)", type: "مفهوم"
 - id: "con-adaptive-expectations", title: "التوقعاتُ التكيفية (Adaptive Expectations)", type: "مفهوم"
 gaps:
   - "مدى انتشار وهم النقود فعلياً في القرارات الاقتصادية الكبرى (مقابل العقود الصغيرة) موضوعُ نقاشٍ سلوكي مستمر."

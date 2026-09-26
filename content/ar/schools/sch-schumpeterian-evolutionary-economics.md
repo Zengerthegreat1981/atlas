@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "wrk-history-of-economic-analysis-schumpeter", title: "تاريخُ التحليل الاقتصادي (History of Economic Analysis)", type: "عمل / كتاب"
 - id: "thk-joseph-schumpeter", title: "جوزيف شومبيتر (Joseph Schumpeter)", type: "مفكر"
 - id: "thk-richard-r-nelson", title: "ريتشارد نيلسون (Richard R. Nelson)", type: "مفكر"
 - id: "thk-sidney-winter", title: "سيدني وينتر (Sidney Winter)", type: "مفكر"

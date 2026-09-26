@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "con-money-and-its-functions", title: "النقودُ ووظائفُها (Money and Its Functions)", type: "مفهوم"
+- id: "con-crowding-out", title: "مزاحمةُ الاستثمار الخاص (Crowding Out)", type: "مفهوم"
 - id: "thk-frank-knight", title: "فرانك نايت (Frank Knight)", type: "مفكر"
 - id: "evt-weimar-hyperinflation-1923", title: "التضخمُ المفرط في جمهورية فايمار (1923)", type: "حدث تاريخي"
 - id: "stu-fama-efficient-markets-1970", title: "دراسةُ فاما عن فرضية كفاءة الأسواق (1970)", type: "دراسة وبحث"

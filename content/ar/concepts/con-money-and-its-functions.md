@@ -16,7 +16,7 @@ related:
 - id: "sch-monetarism-chicago-school", title: "المونيتاريةُ ومدرسةُ شيكاغو (Monetarism and the Chicago School)", type: "مدرسة"
 - id: "con-quantity-theory-of-money-monetarism", title: "نظريةُ كمية النقود المونيتارية (Quantity Theory of Money)", type: "مفهوم"
 - id: "con-money-illusion", title: "وهمُ النقود (Money Illusion)", type: "مفهوم"
-- id: "con-inflation", title: "التضخم (Inflation)", type: "مفهوم"
+- id: "con-inflation", title: "التضخّم (Inflation)", type: "مفهوم"
 gaps:
   - "التمييزُ الدقيق بين تعريفات عرض النقود M1 وM2 وM3 عبر البلدان يختلف مؤسسياً، وقد عُرض هنا بإيجاز مفهومي عام."
 ---

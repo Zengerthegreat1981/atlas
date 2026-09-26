@@ -16,7 +16,7 @@ related:
 - id: "sch-mont-pelerin-neoliberalism", title: "مونت بيلران والنيوليبراليةُ التأسيسية (Mont Pelerin and Founding Neoliberalism)", type: "مدرسة"
 - id: "evt-bretton-woods-conference-1944", title: "مؤتمرُ بريتون وودز (1944)", type: "حدث تاريخي"
 - id: "evt-nixon-shock-1971", title: "صدمةُ نيكسون (1971)", type: "حدث تاريخي"
-- id: "con-embeddedness-polanyi", title: "التجذّرُ الاجتماعي عند بولاني (Embeddedness)", type: "مفهوم"
+- id: "con-embeddedness-polanyi", title: "التجذر والسلع الوهمية (Embeddedness & Fictitious Commodities)", type: "مفهوم"
 gaps:
   - "حدةُ القطيعة الفعلية بين حقبة الليبرالية المجذّرة والنيوليبرالية اللاحقة (تدرّجٌ أم انقطاعٌ حاد) موضوعُ نقاشٍ تاريخي لم يُحسم."
 ---

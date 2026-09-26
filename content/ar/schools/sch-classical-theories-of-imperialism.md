@@ -17,6 +17,8 @@ active_end: 1917
 edges:
 - rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
+- id: "con-unequal-exchange", title: "التبادلُ غيرُ المتكافئ (Unequal Exchange)", type: "مفهوم"
+- id: "con-hegemonic-stability-theory", title: "نظريةُ الاستقرار الهيمني (Hegemonic Stability Theory)", type: "مفهوم"
 - id: "thk-arghiri-emmanuel", title: "أرغيري إيمانويل (Arghiri Emmanuel)", type: "مفكر"
 - id: "thk-john-atkinson-hobson", title: "جون أتكينسون هوبسون (John Atkinson Hobson)", type: "مفكر"
 - id: "sch-marx-critique-of-political-economy", title: "نقدُ الاقتصاد السياسي عند ماركس (Marx's Critique of Political Economy)", type: "مدرسة"

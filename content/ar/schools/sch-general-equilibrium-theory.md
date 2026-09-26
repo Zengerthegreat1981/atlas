@@ -17,6 +17,7 @@ active_end: 1954
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "sch-cowles-commission-mathematical-economics", title: "لجنةُ كاولز والاقتصادُ الرياضي (Cowles Commission and Mathematical Economics)", type: "مدرسة"
 - id: "thk-vernon-smith", title: "فيرنون سميث (Vernon Smith)", type: "مفكر"
 - id: "thk-wassily-leontief", title: "فاسيلي ليونتييف (Wassily Leontief)", type: "مفكر"
 - id: "thk-gustav-cassel", title: "غوستاف كاسل (Gustav Cassel)", type: "مفكر"

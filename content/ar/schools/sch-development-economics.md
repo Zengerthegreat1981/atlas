@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "con-sovereign-debt-and-default", title: "الدَّينُ السيادي والتعثّر (Sovereign Debt and Default)", type: "مفهوم"
+- id: "wrk-the-great-escape-deaton", title: "الهروبُ الكبير: الصحة والثروة وأصولُ التفاوت (The Great Escape: Health, Wealth, and the Origins of Inequality)", type: "عمل / كتاب"
 - id: "thk-simon-kuznets", title: "سيمون كوزنتس (Simon Kuznets)", type: "مفكر"
 - id: "thk-dani-rodrik", title: "داني رودريك (Dani Rodrik)", type: "مفكر"
 - id: "thk-mariana-mazzucato", title: "ماريانا مازوكاتو (Mariana Mazzucato)", type: "مفكر"

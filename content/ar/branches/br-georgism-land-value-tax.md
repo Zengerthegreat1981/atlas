@@ -13,6 +13,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-ricardian-political-economy", target_type: "مدرسة"
 related:
+- id: "wrk-progress-and-poverty-george", title: "التقدّمُ والفقر (Progress and Poverty)", type: "عمل / كتاب"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 gaps:
   - "الجورجيةُ تيارٌ سياسي-اقتصادي مستمر حتى اليوم بأشكالٍ محدودة (بلدياتٌ أمريكية، مقترحات ضريبة الأرض في أستراليا ونيوزيلندا)، لكن تأثيرَه العملي الفعلي على السياسات المعاصرة هامشيٌّ قياساً بأثره الفكري التاريخي؛ هذا تمييزٌ يجب عدم طمسه."

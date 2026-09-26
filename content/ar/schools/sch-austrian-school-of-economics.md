@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "sch-free-banking-school", title: "مدرسةُ الصيرفة الحرّة (Free Banking School)", type: "مدرسة"
 - id: "thk-carl-menger", title: "كارل مِنغِر (Carl Menger)", type: "مفكر"
 - id: "thk-eugen-von-bohm-bawerk", title: "أويغن فون بُوم-باڤرك (Eugen von Böhm-Bawerk)", type: "مفكر"
 - id: "thk-friedrich-von-wieser", title: "فريدريش فون ڤيزر (Friedrich von Wieser)", type: "مفكر"

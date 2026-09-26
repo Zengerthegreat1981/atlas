@@ -17,6 +17,7 @@ active_end: 1883
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "sch-narodnik-agrarian-populism", title: "الشعبويةُ الزراعيةُ الناردنيكية (Narodnik Agrarian Populism)", type: "مدرسة"
 - id: "thk-mikhail-tugan-baranovsky", title: "ميخائيل توغان-بارانوفسكي (Mikhail Tugan-Baranovsky)", type: "مفكر"
 - id: "thk-karl-kautsky", title: "كارل كاوتسكي (Karl Kautsky)", type: "مفكر"
 - id: "thk-ernest-mandel", title: "إرنست مانديل (Ernest Mandel)", type: "مفكر"

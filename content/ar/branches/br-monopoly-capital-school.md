@@ -13,6 +13,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marx-critique-of-political-economy", target_type: "مدرسة"
 related:
+- id: "wrk-monopoly-capital-baran-sweezy", title: "رأسُ المال الاحتكاري: مقالٌ في النظام الاقتصادي والاجتماعي الأمريكي (Monopoly Capital: An Essay on the American Economic and Social Order)", type: "عمل / كتاب"
 - id: "wrk-labor-monopoly-capital-braverman", title: "العمل ورأس المال الاحتكاري", type: "عمل / كتاب"
 gaps: []
 ---

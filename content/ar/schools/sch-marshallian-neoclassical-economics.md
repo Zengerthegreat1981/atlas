@@ -17,6 +17,8 @@ active_end: 1930
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "sch-urban-and-regional-economics", title: "اقتصادياتُ المدن والأقاليم (Urban and Regional Economics)", type: "مدرسة"
+- id: "con-heckscher-ohlin-model", title: "نموذجُ هكشر-أولين (Heckscher-Ohlin Model)", type: "مفهوم"
 - id: "thk-bertil-ohlin", title: "بيرتيل أولين (Bertil Ohlin)", type: "مفكر"
 - id: "thk-edward-chamberlin", title: "إدوارد تشامبرلين (Edward Chamberlin)", type: "مفكر"
 - id: "br-new-economic-geography", title: "الجغرافيا الاقتصاديةُ الجديدة: التكتّلُ الصناعي والعوائدُ المتزايدة في المكان", type: "تيار"

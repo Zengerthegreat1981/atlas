@@ -16,6 +16,8 @@ active_start: 1776
 active_end: 1870
 edges: []
 related:
+- id: "sch-international-trade-theory", title: "نظريةُ التجارة الدولية (International Trade Theory)", type: "مدرسة"
+- id: "con-circular-flow-of-income", title: "الدورةُ الدائرية للدخل (Circular Flow of Income)", type: "مفهوم"
 - id: "thk-henry-george", title: "هنري جورج (Henry George)", type: "مفكر"
 - id: "thk-frederic-bastiat", title: "فريدريك باستيا (Frédéric Bastiat)", type: "مفكر"
 - id: "thk-simonde-de-sismondi", title: "سيسموندي (Jean Charles Léonard de Sismondi)", type: "مفكر"
