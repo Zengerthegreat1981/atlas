@@ -260,7 +260,7 @@ def main():
     alld = [(s, e[0], e[1]) for s, n in d.items() for e in n.get("edges", []) if e[1] not in slugs]
     bad("حرفٌ هدفُه ليس ملفاً قائماً", len(alld), [f"{a} —{b}→ {c}" for a, b, c in alld]) if alld \
         else ok("كلُّ حرفٍ في `edges` هدفُه ملفٌّ قائم")
-    mm = [(s, e[1], e[2], d[e[1]]["type"]) for s, n in d.items() for e in n.get("edges", [])
+    mm = [(s, e[1], e[2], d[e[1]].get("type")) for s, n in d.items() for e in n.get("edges", [])
           if e[1] in slugs and e[2] and e[2] != d[e[1]].get("type")]
     bad("`target_type` يخالف نوعَ الهدف", len(mm), [f"{a}→{b}: «{c}» ≠ «{e}»" for a, b, c, e in mm]) \
         if mm else ok("`target_type` مطابقٌ لنوع الهدف في كلِّ حرف")
@@ -417,7 +417,7 @@ def main():
     bad("بادئةٌ خارجَ المعجم", len(op), op, fatal=False) if op else ok("كلُّ بادئةٍ من المعجم")
     lv = [f"{s}: «{d[s].get('level')}»" for s in d if d[s].get("level") not in ("مبتدئ", "متوسط", "متقدم")]
     bad("`level` خارجَ المعجم", len(lv), lv) if lv else ok("`level` من المعجم في كلِّ عقدة")
-    pt = [f"{s}: «{d[s].get('part')}»" for s in d if d[s].get("part") not in ("philosophy", "psychology", "bridge", "sociology", "linguistics", "anthropology", "historiography", "religious-studies", "legal-theory")]
+    pt = [f"{s}: «{d[s].get('part')}»" for s in d if d[s].get("part") not in ("philosophy", "psychology", "bridge", "sociology", "linguistics", "anthropology", "historiography", "religious-studies", "legal-theory", "political-economy")]
     bad("`part` خارجَ المعجم", len(pt), pt, fatal=False) if pt else ok("`part` من المعجم في كلِّ عقدة")
     # `evidence_level` معجمُ فعاليةِ علاجٍ لا وصفٌ حرّ — وكان 51 ملفاً يكتب فيه
     # جملةً نثريةً كاملة. وأدواتُ القياس لا ينطبق عليها هذا المعجم أصلاً، فنُقلت
