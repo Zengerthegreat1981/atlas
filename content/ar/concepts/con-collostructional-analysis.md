@@ -35,6 +35,16 @@ gaps: []
 
 أصبح هذا التحليلُ أداةً معياريةً في الأبحاث المعاصرة التي تجمع بين نحو البُنى ولسانيات المدوّنات، وأتاح دراسةً كمّيةً دقيقة للعلاقة بين المعجم والنحو التي يفترضها نحو البُنى نظرياً.
 
+## تطويراتٌ لاحقة للمنهج
+
+طُوِّرت صيغٌ إضافيةٌ من هذا التحليل بعد الصيغة الأصلية، منها "التحليلُ التلازمي التمييزي" (Distinctive Collexeme Analysis) الذي يقارن جذبَ كلمةٍ معجميةٍ بعينها إلى بنيتين متشابهتين دلالياً (كبنيتَي المستقبل المختلفتين في الإنجليزية)، بدل مقارنتها بالتوزيع العشوائي المفترَض فحسب — ما يتيح تمييزاً أدقّ للفروق الدلالية الدقيقة بين بُنى تبدو مترادفة. استُعمِلت هذه الأداةُ أيضاً في دراسة الأفعال العربية وتلازماتها التركيبية، وإن كان معظمُ التطبيقات الأصلية موجَّهاً للإنجليزية والألمانية.
+
+## نقدٌ منهجي
+
+وُجِّه نقدٌ إحصائيٌّ لبعض التطبيقات المبكرة، من أبرزه استعمالُ اختبار احتمالٍ دقيق (Fisher Exact Test) على بياناتٍ لا تحقّق افتراضاتٍ إحصائيةً دقيقة دوماً، ما دفع باحثين لاحقين لاقتراح مقاييسَ بديلة (كمعامل لوغاريتم الأرجحية) أكثرَ متانةً إحصائية.
+
 ## المصادر
 
 - Stefanowitsch, Anatol; Gries, Stefan Th. (2003). "Collostructions: Investigating the Interaction of Words and Constructions." *International Journal of Corpus Linguistics* 8(2).
+- Gries, Stefan Th.; Stefanowitsch, Anatol (2004). "Extending Collostructional Analysis." *International Journal of Corpus Linguistics* 9(1).
+- Goldberg, Adele E. (1995). *Constructions: A Construction Grammar Approach to Argument Structure*. University of Chicago Press.
