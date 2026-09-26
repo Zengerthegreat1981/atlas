@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "br-market-monetarism", title: "المونيتاريةُ السوقية: استهدافُ الناتج الاسمي بدل التضخم", type: "تيار"
 - id: "dbt-cryptocurrency-as-money", title: "جدلُ العملات الرقمية بوصفها نقوداً (Cryptocurrency as Money)", type: "جدل"
 - id: "thk-deirdre-mccloskey", title: "ديردري ماكلوسكي (Deirdre McCloskey)", type: "مفكر"
 - id: "wrk-a-theory-of-the-consumption-function-friedman", title: "نظريةٌ في دالّة الاستهلاك (A Theory of the Consumption Function)", type: "عمل / كتاب"

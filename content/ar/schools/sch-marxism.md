@@ -17,6 +17,7 @@ edges:
 - rel: "evolved_into", target: "sch-western-marxism", target_type: "مدرسة"
 - rel: "belongs_to", target: "sch-hegel-left", target_type: "مدرسة"
 related:
+- id: "crt-marx-poverty-of-philosophy-1847", title: "بؤسُ الفلسفة عند ماركس (1847): ردٌّ على فلسفة البؤس لبرودون", type: "نقد خارجي موثَّق"
 - id: "wrk-grundrisse-marx", title: "غروندريسه: أسسُ نقد الاقتصاد السياسي (Grundrisse der Kritik der Politischen Ökonomie)", type: "عمل / كتاب"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"
 - id: "thk-engels", title: "فريدريش إنغلز", type: "مفكر"

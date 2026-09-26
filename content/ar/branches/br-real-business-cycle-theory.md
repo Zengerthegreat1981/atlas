@@ -13,6 +13,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-new-classical-rational-expectations", target_type: "مدرسة"
 related:
+- id: "crt-romer-trouble-with-macroeconomics-2016", title: "المشكلةُ في الاقتصاد الكلي عند رومر (2016): صدماتٌ وهمية تفسّر كل شيء", type: "نقد خارجي موثَّق"
 - id: "thk-robert-lucas-jr", title: "روبرت لوكاس الابن (Robert Lucas Jr.)", type: "مفكر"
 gaps: []
 ---

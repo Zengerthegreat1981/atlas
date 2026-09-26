@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "thk-emmanuel-saez", title: "إيمانويل سايز (Emmanuel Saez)", type: "مفكر"
+- id: "thk-gabriel-zucman", title: "غابرييل زوكمان (Gabriel Zucman)", type: "مفكر"
 - id: "wrk-capital-and-ideology-piketty", title: "رأسُ المال والأيديولوجيا (Capital et Idéologie)", type: "عمل / كتاب"
 - id: "ins-household-income-and-expenditure-surveys", title: "مسوحُ دخل الأسرة وإنفاقها (Household Income and Expenditure Surveys)", type: "منهج/أداة بحث"
 - id: "stu-alvaredo-assouad-piketty-middle-east-inequality-2019", title: "دراسةُ ألفاريدو وأسعد وبيكيتي عن اللامساواة في الشرق الأوسط (2019)", type: "دراسة وبحث"

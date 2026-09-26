@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "br-heterogeneous-firms-trade-theory", title: "نظريةُ التجارة بالشركات غيرِ المتجانسة: لماذا لا تصدّر كل الشركات", type: "تيار"
 - id: "thk-bertil-ohlin", title: "بيرتيل أولين (Bertil Ohlin)", type: "مفكر"
 - id: "thk-eli-heckscher", title: "إيلي هكشر (Eli Heckscher)", type: "مفكر"
 - id: "stu-leontief-paradox-1953", title: "مفارقةُ ليونتييف في نظرية التجارة (1953)", type: "دراسة وبحث"

@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "br-stock-flow-consistent-modelling", title: "النمذجةُ المتّسقة تدفّقاً ورصيداً: محاسبةُ القطاعات الشاملة في الاقتصاد الكلي", type: "تيار"
+- id: "thk-steve-keen", title: "ستيف كين (Steve Keen)", type: "مفكر"
+- id: "thk-wynne-godley", title: "وين غودلي (Wynne Godley)", type: "مفكر"
 - id: "wrk-irrational-exuberance-shiller", title: "الوفرةُ اللاعقلانية (Irrational Exuberance)", type: "عمل / كتاب"
 - id: "con-lender-of-last-resort", title: "مقرِضُ الملاذ الأخير (Lender of Last Resort)", type: "مفهوم"
 - id: "thk-yanis-varoufakis", title: "يانيس فاروفاكيس (Yanis Varoufakis)", type: "مفكر"

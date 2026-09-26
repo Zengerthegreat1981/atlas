@@ -16,6 +16,7 @@ active_start: 1952
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "thk-raghuram-rajan", title: "راغورام راجان (Raghuram Rajan)", type: "مفكر"
 - id: "sch-italian-public-finance-school", title: "المدرسةُ الإيطاليةُ في المالية العامة (Italian School of Public Finance)", type: "مدرسة"
 - id: "con-rent-seeking", title: "السعيُ وراء الريع (Rent-Seeking)", type: "مفهوم"
 gaps:

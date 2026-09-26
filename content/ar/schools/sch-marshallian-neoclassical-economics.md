@@ -17,6 +17,12 @@ active_end: 1930
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "br-evolutionary-game-theory-economics", title: "نظريةُ الألعاب التطورية في الاقتصاد: التوازناتُ من دون عقلانيةٍ كاملة", type: "تيار"
+- id: "crt-galbraith-critique-of-consumer-sovereignty", title: "نقدُ غالبريث لسيادة المستهلك: الرغبةُ تُصنَع لا تُكتشَف", type: "نقد خارجي موثَّق"
+- id: "crt-veblen-why-is-economics-not-an-evolutionary-science-1898", title: "لماذا ليس الاقتصادُ علماً تطورياً؟ عند فيبلن (1898): سجينُ اللذة والألم", type: "نقد خارجي موثَّق"
+- id: "crt-keen-debunking-economics-2001", title: "تفنيدُ الاقتصاد عند ستيف كين (2001): الأخطاءُ الرياضية داخل النموذج النيوكلاسيكي نفسه", type: "نقد خارجي موثَّق"
+- id: "crt-leontief-critique-of-academic-economics-1982", title: "نقدُ ليونتييف للاقتصاد الأكاديمي (1982): افتراضاتٌ لا تُختبر أبداً", type: "نقد خارجي موثَّق"
+- id: "crt-simon-critique-of-perfect-rationality", title: "نقدُ سايمون للعقلانية الكاملة: الرضا الكافي بدل التعظيم المطلق", type: "نقد خارجي موثَّق"
 - id: "sch-neoclassical-environmental-economics", title: "الاقتصادُ البيئيُّ النيوكلاسيكي (Neoclassical Environmental Economics)", type: "مدرسة"
 - id: "wrk-theory-of-games-and-economic-behavior", title: "نظريةُ الألعاب والسلوك الاقتصادي (Theory of Games and Economic Behavior)", type: "عمل / كتاب"
 - id: "wrk-the-structure-of-american-economy-leontief", title: "بنيةُ الاقتصاد الأمريكي (The Structure of American Economy, 1919-1929)", type: "عمل / كتاب"

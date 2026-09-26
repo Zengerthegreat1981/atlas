@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "br-open-economy-macroeconomics", title: "اقتصادُ الكليات المفتوح: الثالوثُ المستحيل بين الصرف والمال ورأس المال", type: "تيار"
+- id: "br-green-new-deal-economics", title: "اقتصادُ الصفقة الخضراء الجديدة: التمويلُ العام لتحوّلٍ مناخي سريع", type: "تيار"
+- id: "br-new-deal-liberalism", title: "ليبراليةُ الصفقة الجديدة: الدولةُ ضامنةً للأمن الاقتصادي", type: "تيار"
+- id: "thk-janet-yellen", title: "جانيت يلين (Janet Yellen)", type: "مفكر"
 - id: "con-accelerator-principle", title: "مبدأُ المعجِّل (Accelerator Principle)", type: "مفهوم"
 - id: "con-paradox-of-thrift", title: "مفارقةُ التقتير (Paradox of Thrift)", type: "مفهوم"
 - id: "con-liquidity-trap", title: "مصيدةُ السيولة (Liquidity Trap)", type: "مفهوم"

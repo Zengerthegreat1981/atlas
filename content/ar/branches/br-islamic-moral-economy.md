@@ -13,6 +13,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-modern-islamic-economics", target_type: "مدرسة"
 related:
+- id: "br-islamic-social-finance-waqf-zakat", title: "التمويلُ الاجتماعي الإسلامي: الوقفُ والزكاةُ أدواتِ تنميةٍ معاصرة", type: "تيار"
 - id: "thk-muhammad-baqir-al-sadr", title: "محمد باقر الصدر", type: "مفكر"
 - id: "wrk-islam-and-mammon-kuran", title: "الإسلامُ والمامون (Islam and Mammon)", type: "عمل / كتاب"
 gaps:

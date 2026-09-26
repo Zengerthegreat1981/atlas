@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-general-equilibrium-theory", target_type: "مدرسة"
 related:
+- id: "thk-lars-peter-hansen", title: "لارس بيتر هانسن (Lars Peter Hansen)", type: "مفكر"
 - id: "sch-general-equilibrium-theory", title: "نظريةُ التوازن العام (General Equilibrium Theory)", type: "مدرسة"
 - id: "sch-cliometrics-quantitative-economic-history", title: "التاريخُ الكمّيُّ والتاريخُ الاقتصاديُّ القياسيّ (Cliometrics)", type: "مدرسة"
 - id: "dbt-keynes-tinbergen-econometrics", title: "جدلُ كينز وتنبرغن حول الاقتصاد القياسي (Keynes vs. Tinbergen on Econometrics)", type: "جدل"

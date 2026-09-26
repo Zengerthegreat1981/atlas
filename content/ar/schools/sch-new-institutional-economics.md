@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "br-contract-theory-incentives", title: "نظريةُ العقود والحوافز: تصميمُ الاتفاق حين تتفاوت المعلومة", type: "تيار"
+- id: "br-market-design", title: "تصميمُ الأسواق: هندسةُ المطابقة حين يفشل السعر", type: "تيار"
+- id: "crt-coase-critique-of-blackboard-economics", title: "نقدُ كوز لاقتصاد السبورة: تحليلٌ بلا شركاتٍ ولا تكاليفَ معاملات", type: "نقد خارجي موثَّق"
 - id: "wrk-the-mystery-of-capital-de-soto", title: "لغزُ رأس المال: لماذا ينتصر الرأسماليةُ في الغرب وتفشل في كل مكانٍ آخر (The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else)", type: "عمل / كتاب"
 - id: "thk-hernando-de-soto", title: "هرناندو دي سوتو (Hernando de Soto)", type: "مفكر"
 - id: "evt-gatt-1947-and-wto-1995", title: "الغاتّ (1947) ومنظمةُ التجارة العالمية (1995)", type: "حدث تاريخي"

@@ -15,6 +15,8 @@ active_end: 1980
 edges:
 - rel: "evolved_from", target: "sch-marxism", target_type: "مدرسة"
 related:
+- id: "br-post-development-critique", title: "نقدُ ما بعد التنمية: حين تكون «التنميةُ» نفسُها هي المشكلة", type: "تيار"
+- id: "crt-amin-eurocentrism-1988", title: "نقدُ سمير أمين لمركزية أوروبا (1988): أسطورةُ الخصوصية الأوروبية الرأسمالية", type: "نقد خارجي موثَّق"
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "sch-liberation-philosophy", title: "فلسفة التحرير اللاتينية الأمريكية", type: "مدرسة"
 - id: "sch-postcolonial-philosophy", title: "ما بعد الاستعمار الفلسفي", type: "مدرسة"

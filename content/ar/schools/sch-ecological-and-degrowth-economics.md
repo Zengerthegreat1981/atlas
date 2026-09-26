@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related:
+- id: "br-circular-economy", title: "الاقتصادُ الدائري: إغلاقُ حلقة المادة بدل الاستخراج والطرح", type: "تيار"
+- id: "thk-kenneth-boulding", title: "كينيث بولدينغ (Kenneth Boulding)", type: "مفكر"
+- id: "thk-ernst-friedrich-schumacher", title: "إرنست فريدريش شوماخر (E. F. Schumacher)", type: "مفكر"
+- id: "thk-nicholas-georgescu-roegen", title: "نيكولاس جورجسكو-روجن (Nicholas Georgescu-Roegen)", type: "مفكر"
 - id: "dbt-green-growth-vs-degrowth", title: "جدلُ النموّ الأخضر مقابل اللانمو (Green Growth vs. Degrowth)", type: "جدل"
 - id: "br-happiness-economics", title: "اقتصادُ السعادة: قياسُ الرفاه الذاتي بديلاً عن الناتج المحلي", type: "تيار"
 - id: "stu-meadows-limits-to-growth-1972", title: "دراسةُ ميدوز: حدودُ النمو (1972)", type: "دراسة وبحث"

@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "thk-charles-kindleberger", title: "تشارلز كيندلبرغر (Charles Kindleberger)", type: "مفكر"
+- id: "thk-michael-hudson-economist", title: "مايكل هدسون (Michael Hudson)", type: "مفكر"
 - id: "sch-varieties-of-capitalism", title: "أنماطُ الرأسمالية (Varieties of Capitalism)", type: "مدرسة"
 - id: "sch-latin-american-structuralism-cepal", title: "البنيويةُ الأمريكية اللاتينية - سيبال (Latin American Structuralism - CEPAL)", type: "مدرسة"
 - id: "thk-samir-amin", title: "سمير أمين (Samir Amin)", type: "مفكر"

@@ -18,6 +18,7 @@ edges:
 - rel: "evolved_from", target: "sch-enlightenment", target_type: "مدرسة"
 - rel: "evolved_from", target: "sch-british-empiricism", target_type: "مدرسة"
 related:
+- id: "crt-hirschman-rhetoric-of-reaction-1991", title: "بلاغةُ الرجعية عند هيرشمان (1991): ثلاثُ حججَ متكرّرة ضد الإصلاح", type: "نقد خارجي موثَّق"
 - id: "sch-lockeanism", title: "اللوكية (اللوكية التجريبية)", type: "مدرسة"
 - id: "sch-social-contract", title: "العقد الاجتماعي (كتيار فلسفي سياسي)", type: "مدرسة"
 - id: "sch-enlightenment", title: "فلسفة التنوير (كمظلة عامة)", type: "مدرسة"

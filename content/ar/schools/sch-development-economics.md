@@ -17,6 +17,11 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "br-behavioural-development-economics", title: "اقتصادياتُ التنمية السلوكية: الفقرُ كضغطٍ إدراكي لا خللاً في الحساب", type: "تيار"
+- id: "br-neo-developmentalism-brazil", title: "التنمويةُ الجديدة البرازيلية: توازنُ سعر الصرف قبل التصنيع", type: "تيار"
+- id: "crt-stiglitz-sen-fitoussi-commission-2009", title: "لجنةُ ستيغليتز-سين-فيتوسي (2009): الناتجُ المحلي ليس مقياسَ الرفاه", type: "نقد خارجي موثَّق"
+- id: "thk-paul-romer", title: "پول رومر (Paul Romer)", type: "مفكر"
+- id: "thk-michael-kremer", title: "مايكل كريمر (Michael Kremer)", type: "مفكر"
 - id: "sch-solidarity-economy", title: "اقتصادُ التضامن (Solidarity Economy)", type: "مدرسة"
 - id: "sch-defence-and-war-economics", title: "اقتصادياتُ الدفاع والحرب (Defence and War Economics)", type: "مدرسة"
 - id: "thk-utsa-patnaik", title: "أوتسا باتنايك (Utsa Patnaik)", type: "مفكر"

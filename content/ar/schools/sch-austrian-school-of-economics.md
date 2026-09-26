@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "br-anarcho-capitalism-rothbardian", title: "الرأسماليةُ اللاسلطوية الروثباردية: حلُّ الدولة في السوق الحرة", type: "تيار"
+- id: "crt-hayek-mirage-of-social-justice-1976", title: "سرابُ العدالة الاجتماعية عند هايك (1976): مفهومٌ بلا معنى في نظامٍ عفوي", type: "نقد خارجي موثَّق"
 - id: "sch-free-banking-school", title: "مدرسةُ الصيرفة الحرّة (Free Banking School)", type: "مدرسة"
 - id: "thk-carl-menger", title: "كارل مِنغِر (Carl Menger)", type: "مفكر"
 - id: "thk-eugen-von-bohm-bawerk", title: "أويغن فون بُوم-باڤرك (Eugen von Böhm-Bawerk)", type: "مفكر"

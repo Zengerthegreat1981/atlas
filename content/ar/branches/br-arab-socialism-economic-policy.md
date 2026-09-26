@@ -13,6 +13,7 @@ active_end: 1991
 edges:
 - rel: "evolved_from", target: "sch-arab-developmentalism-and-state-planning", target_type: "مدرسة"
 related:
+- id: "br-arab-marxist-political-economy", title: "الاقتصادُ السياسي الماركسي العربي: التبعيةُ والتراكمُ من موقع الأطراف", type: "تيار"
 - id: "con-arab-subsidy-state-and-social-contract", title: "دولةُ الدعم والعقدُ الاجتماعي العربي", type: "مفهوم"
 - id: "thk-samir-amin", title: "سمير أمين (Samir Amin)", type: "مفكر"
 gaps:

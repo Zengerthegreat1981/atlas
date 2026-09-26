@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-monetarism-chicago-school", target_type: "مدرسة"
 related:
+- id: "crt-krugman-how-did-economists-get-it-so-wrong-2009", title: "كيف أخطأ الاقتصاديون كل هذا الخطأ؟ عند كروغمان (2009): جمالُ الرياضيات خدع المهنة", type: "نقد خارجي موثَّق"
+- id: "crt-romer-mathiness-2015", title: "الرياضاتيةُ عند رومر (2015): حين تُستخدم الرياضياتُ للتمويه لا للتوضيح", type: "نقد خارجي موثَّق"
+- id: "thk-robert-barro", title: "روبرت بارو (Robert Barro)", type: "مفكر"
 - id: "br-real-business-cycle-theory", title: "نظريةُ الدورة الاقتصادية الحقيقية: الصدماتُ التقنية مصدرَ التقلّب", type: "تيار"
 - id: "ins-vector-autoregression-models", title: "نماذجُ الانحدار الذاتي المتجه (Vector Autoregression Models)", type: "منهج/أداة بحث"
 - id: "ins-difference-in-differences", title: "أسلوبُ الفروق في الفروق (Difference-in-Differences)", type: "منهج/أداة بحث"
