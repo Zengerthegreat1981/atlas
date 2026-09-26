@@ -139,3 +139,5 @@ Size: about 190 batches of 40.
 | 2026-09-26 | worker: political-economy 24 (25 studies, 10 events) | +35, 35/35 pass; Lebanon sources fixed; 46 orphans, 5 titles, 4 edge types fixed in 3087e71c6. **political-economy measured: 839** | 99f7eb324 |
 | 2026-09-26 | worker: political-economy 25 (35 thinkers) | +35, 35/35 pass; fixes: Khurshid Ahmad death year, Berg Report year, Marini re-parented | d64236d4c |
 | 2026-09-26 | worker: political-economy 26 (25 schools, 10 methods) | +35, 35/35 pass. Cleanup in 12436b1c3: stray </content> stripped from 106 committed files, 15 reversed lineage edges fixed, 46 orphans linked. **political-economy measured: 909** | 14dd58eed |
+| 2026-09-26 | worker: political-economy 27 (35 concepts) | +35, 35/35 pass; original-sin coinage dated to 1999 | 5b53eab34 |
+| 2026-09-26 | worker: political-economy 28 (27 works, 8 debates) | +35, 35/35 after re-parenting Marini and Sweezy to a political-economy school; 40 orphans linked in f3262037f; audit diff vs baseline clean. **political-economy measured: 979** | 0070dc02d |
