@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "stu-banerjee-duflo-microfinance-hyderabad-2015", title: "تجربةُ بانرجي ودوفلو للتمويل الأصغر في حيدر أباد (2015)", type: "دراسة وبحث"
 - id: "thk-w-arthur-lewis", title: "و. آرثر لويس (W. Arthur Lewis)", type: "مفكر"
 - id: "thk-albert-o-hirschman", title: "ألبرت أو. هيرشمان (Albert O. Hirschman)", type: "مفكر"
 - id: "thk-gunnar-myrdal", title: "غونار ميردال (Gunnar Myrdal)", type: "مفكر"

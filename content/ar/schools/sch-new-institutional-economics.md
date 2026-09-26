@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "stu-acemoglu-johnson-robinson-colonial-origins-2001", title: "دراسةُ أسيموغلو وجونسون وروبنسون عن الأصول الاستعمارية للتنمية (2001)", type: "دراسة وبحث"
 - id: "con-principal-agent-problem", title: "مشكلةُ الوكيل والأصيل (Principal-Agent Problem)", type: "مفهوم"
 - id: "ins-randomized-controlled-trials-in-economics", title: "التجاربُ المعشّاة المضبوطة في الاقتصاد (Randomized Controlled Trials in Economics)", type: "منهج/أداة بحث"
 - id: "thk-ronald-coase", title: "رونالد كوز (Ronald H. Coase)", type: "مفكر"

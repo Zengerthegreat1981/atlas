@@ -17,6 +17,7 @@ active_end: 1976
 edges:
 - rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
+- id: "dbt-efficient-markets-vs-behavioral-finance", title: "جدلُ كفاءة الأسواق مقابل التمويل السلوكي (Efficient Markets vs. Behavioral Finance)", type: "جدل"
 - id: "sch-marshallian-neoclassical-economics", title: "الاقتصادُ النيوكلاسيكيُّ المارشالي (Marshallian Neoclassical Economics)", type: "مدرسة"
 - id: "thk-lionel-robbins", title: "ليونيل روبنز (Lionel Robbins)", type: "مفكر"
 - id: "thk-gary-becker", title: "غاري بيكر (Gary Becker)", type: "مفكر"

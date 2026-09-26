@@ -16,6 +16,8 @@ active_start: 1776
 active_end: 1870
 edges: []
 related:
+- id: "dbt-corn-laws-free-trade-vs-protection", title: "جدلُ قوانين الحبوب: التجارةُ الحرة مقابل الحماية (The Corn Laws: Free Trade vs. Protection)", type: "جدل"
+- id: "dbt-say-malthus-general-glut", title: "جدلُ ساي ومالتوس حول إمكان الغلوّ العام (Say vs. Malthus on General Gluts)", type: "جدل"
 - id: "evt-panic-of-1873-long-depression", title: "أزمةُ 1873 و«الكسادُ الطويل» (Long Depression)", type: "حدث تاريخي"
 - id: "evt-south-sea-bubble-1720", title: "فقاعةُ بحر الجنوب (1720)", type: "حدث تاريخي"
 - id: "ins-history-of-economic-thought-as-method", title: "تاريخُ الفكر الاقتصادي بوصفه منهجاً (History of Economic Thought as Method)", type: "منهج/أداة بحث"

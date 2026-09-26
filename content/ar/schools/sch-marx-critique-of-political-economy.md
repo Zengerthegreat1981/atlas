@@ -17,6 +17,7 @@ active_end: 1883
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "dbt-marx-transformation-problem", title: "مشكلةُ التحويل عند ماركس (The Transformation Problem)", type: "جدل"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"
 - id: "thk-marx", title: "كارل ماركس", type: "مفكر"

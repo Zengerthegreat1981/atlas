@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "dbt-keynes-tinbergen-econometrics", title: "جدلُ كينز وتنبرغن حول الاقتصاد القياسي (Keynes vs. Tinbergen on Econometrics)", type: "جدل"
+- id: "dbt-secular-stagnation", title: "جدلُ الركود المزمن (Secular Stagnation)", type: "جدل"
+- id: "stu-phillips-1958-unemployment-wages", title: "دراسةُ فيليبس عن البطالة والأجور (1958)", type: "دراسة وبحث"
 - id: "evt-marshall-plan-1948", title: "خطةُ مارشال (1948)", type: "حدث تاريخي"
 - id: "ins-national-accounts-and-gdp", title: "الحساباتُ القومية والناتجُ المحلي الإجمالي (National Accounts and GDP)", type: "منهج/أداة بحث"
 - id: "thk-john-maynard-keynes", title: "جون مينارد كينز (John Maynard Keynes)", type: "مفكر"
