@@ -16,6 +16,8 @@ active_start: 1930
 edges:
 - rel: "relates_to", target: "thk-harold-hotelling", target_type: "مفكر"
 related:
+- id: "con-commodity-super-cycle", title: "الدورةُ الفائقة للسلع الأولية (Commodity Super-Cycle)", type: "مفهوم"
+- id: "thk-julian-simon", title: "جوليان سايمون (Julian L. Simon)", type: "مفكر"
 - id: "con-natural-resource-rent", title: "ريعُ الموارد الطبيعية (Natural Resource Rent)", type: "مفهوم"
 - id: "thk-harold-hotelling", title: "هارولد هوتلنغ (Harold Hotelling)", type: "مفكر"
 - id: "sch-rentier-state-theory", title: "نظريةُ الدولة الريعية (Rentier State Theory)", type: "مدرسة"

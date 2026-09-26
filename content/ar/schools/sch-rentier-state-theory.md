@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "br-mena-political-economy", title: "الاقتصادُ السياسيُّ للشرق الأوسط وشمال أفريقيا: العقدُ الاجتماعي الاستبدادي والريعُ المُدار", type: "تيار"
+- id: "con-petrodollar-recycling", title: "تدويرُ البترودولار (Petrodollar Recycling)", type: "مفهوم"
+- id: "con-resource-curse", title: "لعنةُ الموارد (Resource Curse)", type: "مفهوم"
+- id: "thk-michael-ross", title: "مايكل روس (Michael L. Ross)", type: "مفكر"
 - id: "wrk-the-oil-curse-ross", title: "لعنةُ النفط (The Oil Curse)", type: "عمل / كتاب"
 - id: "dbt-gulf-economic-diversification", title: "جدلُ التنويع الاقتصادي الخليجي (Gulf Economic Diversification)", type: "جدل"
 - id: "evt-lebanese-financial-collapse-2019", title: "الانهيارُ المالي اللبناني (2019)", type: "حدث تاريخي"

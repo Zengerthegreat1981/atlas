@@ -16,6 +16,7 @@ active_start: 1960
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "thk-eric-davis", title: "إريك ديفيس (Eric Davis)", type: "مفكر"
 - id: "wrk-a-history-of-middle-east-economies-owen-pamuk", title: "تاريخُ اقتصادات الشرق الأوسط في القرن العشرين (A History of Middle East Economies in the Twentieth Century)", type: "عمل / كتاب"
 - id: "wrk-a-political-economy-of-the-middle-east-richards-waterbury", title: "اقتصادٌ سياسيٌّ للشرق الأوسط (A Political Economy of the Middle East)", type: "عمل / كتاب"
 - id: "thk-charles-issawi", title: "تشارلز عيساوي (Charles Issawi)", type: "مفكر"

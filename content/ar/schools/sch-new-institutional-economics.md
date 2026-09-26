@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "br-cliometrics-new-economic-history", title: "الكليومتريا وتاريخُ الاقتصاد الجديد: قياسُ الماضي بأدوات الاقتصاد القياسي", type: "تيار"
 - id: "thk-mushtaq-khan", title: "مشتاق خان (Mushtaq Khan)", type: "مفكر"
 - id: "stu-coase-nature-of-the-firm-1937", title: "دراسةُ كوز عن «طبيعة الشركة» وتكاليف المعاملات (1937)", type: "دراسة وبحث"
 - id: "stu-la-porta-et-al-law-and-finance-1998", title: "دراسةُ لا پورتا وآخرين عن القانون والتمويل (1998)", type: "دراسة وبحث"

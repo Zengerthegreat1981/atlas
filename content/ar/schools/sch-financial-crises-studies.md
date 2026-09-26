@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-post-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "con-sovereign-default", title: "التعثّرُ السيادي (Sovereign Default)", type: "مفهوم"
 - id: "con-debt-overhang", title: "عبءُ الدَّين الزائد (Debt Overhang)", type: "مفهوم"
 - id: "sch-post-keynesian-economics", title: "الاقتصادُ ما بعد الكينزي (Post-Keynesian Economics)", type: "مدرسة"
 - id: "thk-hyman-minsky", title: "هايمن مينسكي (Hyman Minsky)", type: "مفكر"

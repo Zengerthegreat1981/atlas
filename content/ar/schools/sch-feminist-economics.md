@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related:
+- id: "br-feminist-economics-current", title: "اقتصادُ الرعاية النسوي: العملُ غير المدفوع بوصفه أساسَ الاقتصاد المرئي", type: "تيار"
 - id: "dbt-wages-for-housework", title: "جدلُ الأجرِ مقابل العمل المنزلي (Wages for Housework)", type: "جدل"
 - id: "thk-claudia-goldin", title: "كلوديا غولدن (Claudia Goldin)", type: "مفكر"
 - id: "thk-marilyn-waring", title: "مارلين وارينغ (Marilyn Waring)", type: "مفكر"

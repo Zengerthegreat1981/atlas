@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "thk-jagdish-bhagwati", title: "جاغديش بهاغواتي (Jagdish Bhagwati)", type: "مفكر"
 - id: "stu-krugman-increasing-returns-and-trade-1979", title: "دراسةُ كروغمان عن العوائد المتزايدة والتجارة الدولية (1979)", type: "دراسة وبحث"
 - id: "stu-mundell-optimum-currency-areas-1961", title: "دراسةُ موندل عن مناطق العملة المثلى (1961)", type: "دراسة وبحث"
 - id: "br-heterogeneous-firms-trade-theory", title: "نظريةُ التجارة بالشركات غيرِ المتجانسة: لماذا لا تصدّر كل الشركات", type: "تيار"

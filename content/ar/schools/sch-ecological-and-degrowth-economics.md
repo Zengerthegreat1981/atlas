@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-economics-of-inequality", target_type: "مدرسة"
 related:
+- id: "br-ecological-limits-to-growth", title: "حدودُ النمو الإيكولوجية: الاقتصادُ منظومةً فرعية داخل الأنظمة البيئية لا فوقها", type: "تيار"
 - id: "br-circular-economy", title: "الاقتصادُ الدائري: إغلاقُ حلقة المادة بدل الاستخراج والطرح", type: "تيار"
 - id: "thk-kenneth-boulding", title: "كينيث بولدينغ (Kenneth Boulding)", type: "مفكر"
 - id: "thk-ernst-friedrich-schumacher", title: "إرنست فريدريش شوماخر (E. F. Schumacher)", type: "مفكر"

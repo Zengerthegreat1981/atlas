@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "con-special-economic-zones", title: "المناطقُ الاقتصادية الخاصة (Special Economic Zones)", type: "مفهوم"
 - id: "wrk-miti-and-the-japanese-miracle-johnson", title: "ميتي والمعجزةُ اليابانية (MITI and the Japanese Miracle)", type: "عمل / كتاب"
 - id: "wrk-embedded-autonomy-evans", title: "الاستقلاليةُ المُدمَجة (Embedded Autonomy)", type: "عمل / كتاب"
 - id: "wrk-asias-next-giant-amsden", title: "عملاقُ آسيا القادم (Asia's Next Giant)", type: "عمل / كتاب"

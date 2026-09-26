@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-islamic-fiscal-thought-kharaj-hisba", target_type: "مدرسة"
 related:
+- id: "thk-rafic-yunus-al-masri", title: "رفيق يونس المصري (Rafic Yunus al-Masri)", type: "مفكر"
 - id: "thk-khurshid-ahmad", title: "خورشيد أحمد (Khurshid Ahmad)", type: "مفكر"
 - id: "sch-iranian-islamic-economics-after-1979", title: "الاقتصادُ الإسلاميُّ الإيرانيُّ بعد 1979 (Iranian Islamic Economics after 1979)", type: "مدرسة"
 - id: "con-zakat-as-fiscal-instrument", title: "الزكاةُ كأداةٍ مالية (Zakat as a Fiscal Instrument)", type: "مفهوم"

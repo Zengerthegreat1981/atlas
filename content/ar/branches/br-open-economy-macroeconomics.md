@@ -12,7 +12,8 @@ active_start: 1962
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
-related: []
+related:
+- id: "con-twin-deficits", title: "العجزانِ التوأمانِ (Twin Deficits)", type: "مفهوم"
 gaps: []
 ---
 

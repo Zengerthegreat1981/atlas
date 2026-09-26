@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "con-capital-controls", title: "قيودُ رأس المال (Capital Controls)", type: "مفهوم"
+- id: "thk-tony-lawson", title: "توني لوسون (Tony Lawson)", type: "مفكر"
+- id: "thk-victoria-chick", title: "فيكتوريا تشيك (Victoria Chick)", type: "مفكر"
 - id: "wrk-the-value-of-everything-mazzucato", title: "قيمةُ كل شيء (The Value of Everything)", type: "عمل / كتاب"
 - id: "thk-paul-davidson", title: "پول ديفيدسون (Paul Davidson)", type: "مفكر"
 - id: "thk-pierangelo-garegnani", title: "پيير أنجيلو گاريگناني (Pierangelo Garegnani)", type: "مفكر"

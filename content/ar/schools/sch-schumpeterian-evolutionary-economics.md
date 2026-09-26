@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "crt-mazzucato-entrepreneurial-state-2013", title: "نقدُ مازوكاتو (2013): أسطورةُ القطاع الخاص الريادي والدولةُ الخفية وراء الابتكار", type: "نقد خارجي موثَّق"
 - id: "stu-romer-endogenous-technological-change-1990", title: "دراسةُ رومر عن التغير التقني الداخلي (1990)", type: "دراسة وبحث"
 - id: "thk-giovanni-dosi", title: "جيوفاني دوسي (Giovanni Dosi)", type: "مفكر"
 - id: "thk-w-brian-arthur", title: "و. برايان آرثر (W. Brian Arthur)", type: "مفكر"

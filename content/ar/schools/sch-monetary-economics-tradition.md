@@ -17,6 +17,9 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "con-exchange-rate-pass-through", title: "انتقالُ أثر سعر الصرف (Exchange Rate Pass-Through)", type: "مفهوم"
+- id: "con-financial-deepening", title: "التعمّقُ المالي (Financial Deepening)", type: "مفهوم"
+- id: "thk-ronald-mckinnon", title: "رونالد مكينون (Ronald McKinnon)", type: "مفكر"
 - id: "con-fiscal-dominance", title: "الهيمنةُ المالية (Fiscal Dominance)", type: "مفهوم"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 - id: "sch-monetarism-chicago-school", title: "المونيتاريةُ ومدرسةُ شيكاغو (Monetarism and the Chicago School)", type: "مدرسة"

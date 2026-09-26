@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "sch-latin-american-structuralism-cepal", target_type: "مدرسة"
 related:
+- id: "crt-galal-amin-development-discourse-egypt", title: "نقدُ جلال أمين لخطاب التنمية في مصر: النموُّ بلا تنمية حقيقية", type: "نقد خارجي موثَّق"
+- id: "thk-fawzy-mansour", title: "فوزي منصور (Fawzy Mansour)", type: "مفكر"
 - id: "wrk-challenging-colonialism-bank-misr-davis", title: "تحدّي الاستعمار: بنكُ مصر والتصنيع المصري (Challenging Colonialism)", type: "عمل / كتاب"
 - id: "wrk-the-egypt-of-nasser-and-sadat-waterbury", title: "مصرُ ناصر والسادات (The Egypt of Nasser and Sadat)", type: "عمل / كتاب"
 - id: "wrk-arab-human-development-report-2002", title: "تقريرُ التنمية الإنسانية العربية 2002 (Arab Human Development Report 2002)", type: "عمل / كتاب"

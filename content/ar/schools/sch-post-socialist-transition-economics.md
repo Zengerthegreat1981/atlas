@@ -17,6 +17,7 @@ active_end: 2004
 edges:
 - rel: "evolved_from", target: "sch-soviet-planning-economics", target_type: "مدرسة"
 related:
+- id: "con-shock-therapy", title: "العلاجُ بالصدمة (Shock Therapy)", type: "مفهوم"
 - id: "sch-soviet-planning-economics", title: "اقتصادُ التخطيط السوفياتي (Soviet Planning Economics)", type: "مدرسة"
 - id: "sch-comparative-economic-systems", title: "اقتصادُ الأنظمةِ المقارنة (Comparative Economic Systems)", type: "مدرسة"
 gaps:
