@@ -108,3 +108,6 @@ Size: about 190 batches of 40.
 | 2026-09-26 | worker: legal-theory H (comparative, legal history, public law, law & society) | +30 (14 thk, 7 wrk, 9 con), 30/30 pass; David/UNIDROIT fix, name spelling normalized, Macaulay filler removed. **legal-theory measured: 566** (target 700) | d69957af5 |
 | 2026-09-26 | worker: legal-theory J (criminal-law philosophy, international-law theory) | +35 (16 thk, 8 wrk, 11 con), 35/35 pass; 1 factual fix (Christie) after reads | d2c75df41 |
 | 2026-09-26 | worker: legal-theory I (classical fiqh procedure, non-Western traditions) | +35 (16 thk, 8 wrk, 11 con), 35/35 pass after source fixes in 19 files. **legal-theory measured: 636** (target 700) | 5911f2d98 |
+| 2026-09-26 | worker: legal-theory K (usul, fiqh of transactions, Arab public law) | +32 (14 thk, 7 wrk, 11 con), 32/32 pass; 1 source replaced after reads | 49492542e |
+| 2026-09-26 | worker: legal-theory L (European private law, constitutional theory) | +32 (14 thk, 7 wrk, 11 con), 32/32 pass; 4 factual fixes after reads. **legal-theory measured: 700 — Phase 1 legal-theory target reached.** Next: political-economy batch 0 | a27462df6 |
+| 2026-09-26 | worker: Phase 0 hygiene | stripped stray trailing `</content>` artifact from 70 AR files | e561dfc64 |
