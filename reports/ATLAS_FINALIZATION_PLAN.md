@@ -125,3 +125,5 @@ Size: about 190 batches of 40.
 | 2026-09-26 | worker: political-economy 10 (Arab political economy) | +35 (3 sch, 18 thk, 6 wrk, 8 con), 35/35 pass; Beblawi offices made precise. Audit diff: 16 related-title mismatches and 13 orphans fixed in a01183f61. **political-economy measured: 349** | 6952c8bbf |
 | 2026-09-26 | worker: political-economy 12 (15 events, 10 studies, 10 methods) | +35, 35/35 pass | 2c73561e5 |
 | 2026-09-26 | worker: political-economy 11 (20 currents, 15 critiques) | +35 (20 br, 15 crt), 35/35 pass; 59 orphans from batches 11-12 linked in 0a573d4f2. **political-economy measured: 419** | 61da6d5a6 |
+| 2026-09-26 | worker: political-economy 14 (35 post-1945 thinkers) | +35, 35/35 pass | 47dfb45a0 |
+| 2026-09-26 | worker: political-economy 13 (35 pre-1950 thinkers) | +35, 35/35 pass; 2 small fixes; 35 orphans linked and 5 related titles fixed in 428d2e301. **political-economy measured: 489** | 97955548d |
