@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "evt-covid-19-economic-shock-2020", title: "الصدمةُ الاقتصادية لجائحة كوفيد-19 (2020)", type: "حدث تاريخي"
+- id: "br-new-keynesian-economics", title: "الاقتصادُ الكينزي الجديد: جمودُ الأسعار وتوقّعاتٌ رشيدة", type: "تيار"
+- id: "crt-lucas-critique-1976", title: "نقدُ لوكاس (1976): العلاقاتُ الإحصائية الماضية تنهار مع تغيّر السياسة", type: "نقد خارجي موثَّق"
+- id: "crt-hayek-pretence-of-knowledge-1974", title: "نقدُ هايك لـ«ادّعاء المعرفة»: تقليدُ الفيزياء يُضلّل الاقتصادَ الكلي", type: "نقد خارجي موثَّق"
 - id: "dbt-keynes-tinbergen-econometrics", title: "جدلُ كينز وتنبرغن حول الاقتصاد القياسي (Keynes vs. Tinbergen on Econometrics)", type: "جدل"
 - id: "dbt-secular-stagnation", title: "جدلُ الركود المزمن (Secular Stagnation)", type: "جدل"
 - id: "stu-phillips-1958-unemployment-wages", title: "دراسةُ فيليبس عن البطالة والأجور (1958)", type: "دراسة وبحث"

@@ -17,6 +17,10 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "evt-argentine-default-2001", title: "التعثرُ السيادي الأرجنتيني (2001)", type: "حدث تاريخي"
+- id: "br-complexity-economics", title: "اقتصادُ التعقيد: الأسواقُ نظماً تكيّفية غيرَ متوازنة", type: "تيار"
+- id: "br-heterodox-pluralism-movement", title: "حركةُ التعدّدية غير الأرثوذكسية: نقدُ احتكار المنهج الرياضي الواحد", type: "تيار"
+- id: "br-monetary-circuit-theory", title: "نظريةُ الدورة النقدية: خلقُ النقود المصرفي كأصل التحليل الكلي", type: "تيار"
 - id: "ins-human-development-index", title: "مؤشرُ التنمية البشرية (Human Development Index)", type: "منهج/أداة بحث"
 - id: "thk-joan-robinson", title: "جوان روبنسون (Joan Robinson)", type: "مفكر"
 - id: "thk-michal-kalecki", title: "ميخال كاليتسكي (Michał Kalecki)", type: "مفكر"

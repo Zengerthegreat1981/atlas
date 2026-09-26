@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "evt-weimar-hyperinflation-1923", title: "التضخمُ المفرط في جمهورية فايمار (1923)", type: "حدث تاريخي"
+- id: "stu-fama-efficient-markets-1970", title: "دراسةُ فاما عن فرضية كفاءة الأسواق (1970)", type: "دراسة وبحث"
 - id: "ins-consumer-price-index", title: "الرقمُ القياسي لأسعار المستهلك (Consumer Price Index)", type: "منهج/أداة بحث"
 - id: "ins-purchasing-power-parity", title: "تعادلُ القوة الشرائية (Purchasing Power Parity)", type: "منهج/أداة بحث"
 - id: "thk-milton-friedman", title: "ميلتون فريدمان (Milton Friedman)", type: "مفكر"

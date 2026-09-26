@@ -17,6 +17,9 @@ active_end: 1976
 edges:
 - rel: "evolved_from", target: "sch-marshallian-neoclassical-economics", target_type: "مدرسة"
 related:
+- id: "br-experimental-economics", title: "الاقتصادُ التجريبي: اختبارُ الفرضيات النظرية في المختبر", type: "تيار"
+- id: "crt-feminist-critique-of-homo-economicus", title: "النقدُ النسويُّ للإنسان الاقتصادي: العملُ الرعائيُّ غير المرئي في النموذج", type: "نقد خارجي موثَّق"
+- id: "stu-kahneman-knetsch-thaler-endowment-effect-1990", title: "دراسةُ كانمان وكنيتش وثالر عن أثر الامتلاك واختبار نظرية كوز (1990)", type: "دراسة وبحث"
 - id: "dbt-efficient-markets-vs-behavioral-finance", title: "جدلُ كفاءة الأسواق مقابل التمويل السلوكي (Efficient Markets vs. Behavioral Finance)", type: "جدل"
 - id: "sch-marshallian-neoclassical-economics", title: "الاقتصادُ النيوكلاسيكيُّ المارشالي (Marshallian Neoclassical Economics)", type: "مدرسة"
 - id: "thk-lionel-robbins", title: "ليونيل روبنز (Lionel Robbins)", type: "مفكر"

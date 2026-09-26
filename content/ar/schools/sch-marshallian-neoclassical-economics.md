@@ -17,6 +17,15 @@ active_end: 1930
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "br-new-economic-geography", title: "الجغرافيا الاقتصاديةُ الجديدة: التكتّلُ الصناعي والعوائدُ المتزايدة في المكان", type: "تيار"
+- id: "br-endogenous-growth-theory", title: "نظريةُ النموّ الداخلي: المعرفةُ والابتكارُ محرّكاً ذاتياً للنمو", type: "تيار"
+- id: "crt-schumacher-small-is-beautiful-1973", title: "نقدُ شوماخر «الصِّغَرُ جميل»: هوسُ الحجم الكبير وإهمالُ الإنسان والمقياس المحلي", type: "نقد خارجي موثَّق"
+- id: "crt-mccloskey-rhetoric-of-economics-1983", title: "نقدُ ماكلوسكي لبلاغة الاقتصاد: الإقناعُ الأدبي خلف قناع الموضوعية الرياضية", type: "نقد خارجي موثَّق"
+- id: "crt-lawson-critical-realist-critique-of-mathematical-economics", title: "نقدُ لوسون الواقعي النقدي: النمذجةُ الرياضية المغلقة في عالمٍ مفتوح", type: "نقد خارجي موثَّق"
+- id: "crt-veblen-critique-of-hedonistic-economic-man", title: "نقدُ فيبلن لـ«الإنسان الاقتصادي اللذّي»: العادةُ والغريزة لا الحساب", type: "نقد خارجي موثَّق"
+- id: "crt-sraffa-laws-of-returns-1926", title: "نقدُ سرافا لقوانين العائد (1926): تناقضُ المنافسة الكاملة مع العوائد المتغيّرة", type: "نقد خارجي موثَّق"
+- id: "crt-mirowski-physics-envy-more-heat-than-light", title: "نقدُ ميروفسكي «حرارةٌ أكثر من الضوء»: استعارةُ الفيزياء بلا فهم جوهرها", type: "نقد خارجي موثَّق"
+- id: "ins-index-numbers-laspeyres-paasche", title: "الأرقامُ القياسية: لاسبيرس وباشيه (Laspeyres and Paasche Index Numbers)", type: "منهج/أداة بحث"
 - id: "ins-cost-benefit-analysis", title: "تحليلُ التكلفة والعائد (Cost-Benefit Analysis)", type: "منهج/أداة بحث"
 - id: "ins-gini-coefficient-and-lorenz-curve", title: "معاملُ جيني ومنحنى لورنز (Gini Coefficient and Lorenz Curve)", type: "منهج/أداة بحث"
 - id: "sch-marginal-revolution", title: "الثورةُ الحدّية (Marginal Revolution)", type: "مدرسة"

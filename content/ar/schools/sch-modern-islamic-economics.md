@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-islamic-fiscal-thought-kharaj-hisba", target_type: "مدرسة"
 related:
+- id: "br-islamic-moral-economy", title: "الاقتصادُ الأخلاقيُّ الإسلامي: العدالةُ التوزيعية قبل التقنين الفقهي", type: "تيار"
+- id: "crt-kuran-critique-of-islamic-economics", title: "نقدُ كوران للاقتصاد الإسلامي: حِيَلٌ تعاقدية تُعيد إنتاجَ الربا شكلياً", type: "نقد خارجي موثَّق"
 - id: "sch-islamic-fiscal-thought-kharaj-hisba", title: "الفكرُ المالي الإسلامي (الخراج والحسبة)", type: "مدرسة"
 - id: "thk-muhammad-baqir-al-sadr", title: "محمد باقر الصدر", type: "مفكر"
 - id: "wrk-iqtisaduna-baqir-al-sadr", title: "اقتصادُنا", type: "عمل / كتاب"

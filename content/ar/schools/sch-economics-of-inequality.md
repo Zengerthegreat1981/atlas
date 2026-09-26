@@ -17,6 +17,7 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "ins-household-income-and-expenditure-surveys", title: "مسوحُ دخل الأسرة وإنفاقها (Household Income and Expenditure Surveys)", type: "منهج/أداة بحث"
 - id: "stu-alvaredo-assouad-piketty-middle-east-inequality-2019", title: "دراسةُ ألفاريدو وأسعد وبيكيتي عن اللامساواة في الشرق الأوسط (2019)", type: "دراسة وبحث"
 - id: "stu-mani-et-al-poverty-impedes-cognition-2013", title: "دراسةُ ماني وآخرين: الفقرُ يعيق الإدراكَ المعرفي (2013)", type: "دراسة وبحث"
 - id: "stu-chetty-intergenerational-mobility-2014", title: "دراسةُ تشيتي عن الحراك الاجتماعي بين الأجيال (2014)", type: "دراسة وبحث"

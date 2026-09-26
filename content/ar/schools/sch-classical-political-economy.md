@@ -16,6 +16,10 @@ active_start: 1776
 active_end: 1870
 edges: []
 related:
+- id: "evt-repeal-of-the-corn-laws-1846", title: "إلغاءُ قوانين الحبوب البريطانية (1846)", type: "حدث تاريخي"
+- id: "crt-keynes-economic-consequences-of-the-peace-1919", title: "نقدُ كينز لمعاهدة فرساي: تعويضاتٌ اقتصادياً مستحيلة تزرع كارثةً مقبلة", type: "نقد خارجي موثَّق"
+- id: "crt-keynes-critique-of-says-law", title: "نقدُ كينز لقانون ساي: العرضُ لا يخلق طلبَه بالضرورة", type: "نقد خارجي موثَّق"
+- id: "ins-balance-of-payments-accounting", title: "محاسبةُ ميزان المدفوعات (Balance of Payments Accounting)", type: "منهج/أداة بحث"
 - id: "dbt-corn-laws-free-trade-vs-protection", title: "جدلُ قوانين الحبوب: التجارةُ الحرة مقابل الحماية (The Corn Laws: Free Trade vs. Protection)", type: "جدل"
 - id: "dbt-say-malthus-general-glut", title: "جدلُ ساي ومالتوس حول إمكان الغلوّ العام (Say vs. Malthus on General Gluts)", type: "جدل"
 - id: "evt-panic-of-1873-long-depression", title: "أزمةُ 1873 و«الكسادُ الطويل» (Long Depression)", type: "حدث تاريخي"

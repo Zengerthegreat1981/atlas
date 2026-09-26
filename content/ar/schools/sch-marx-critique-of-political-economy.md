@@ -17,6 +17,9 @@ active_end: 1883
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "br-market-socialism", title: "الاشتراكيةُ السوقية: الملكيةُ العامة وآليةُ السوق في نموذج لانغه", type: "تيار"
+- id: "br-agrarian-question-political-economy", title: "المسألةُ الزراعية في الاقتصاد السياسي: مصيرُ الفلاحين تحت الرأسمالية الزاحفة", type: "تيار"
+- id: "br-monopoly-capital-school", title: "مدرسةُ رأس المال الاحتكاري: الفائضُ الاقتصادي في زمن الاحتكار", type: "تيار"
 - id: "dbt-marx-transformation-problem", title: "مشكلةُ التحويل عند ماركس (The Transformation Problem)", type: "جدل"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 - id: "sch-marxism", title: "الماركسية الكلاسيكية", type: "مدرسة"

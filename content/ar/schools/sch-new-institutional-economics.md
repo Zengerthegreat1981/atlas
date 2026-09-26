@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "evt-gatt-1947-and-wto-1995", title: "الغاتّ (1947) ومنظمةُ التجارة العالمية (1995)", type: "حدث تاريخي"
+- id: "stu-akerlof-market-for-lemons-1970", title: "دراسةُ أكرلوف عن «سوق الليمون» وعدم تماثل المعلومات (1970)", type: "دراسة وبحث"
 - id: "stu-acemoglu-johnson-robinson-colonial-origins-2001", title: "دراسةُ أسيموغلو وجونسون وروبنسون عن الأصول الاستعمارية للتنمية (2001)", type: "دراسة وبحث"
 - id: "con-principal-agent-problem", title: "مشكلةُ الوكيل والأصيل (Principal-Agent Problem)", type: "مفهوم"
 - id: "ins-randomized-controlled-trials-in-economics", title: "التجاربُ المعشّاة المضبوطة في الاقتصاد (Randomized Controlled Trials in Economics)", type: "منهج/أداة بحث"

@@ -17,6 +17,8 @@ active_end: 1850
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "br-fabian-economics", title: "الاقتصادُ الفابي: الاشتراكيةُ التدرّجية عبر الإصلاح المؤسسي", type: "تيار"
+- id: "br-catholic-social-teaching-economics", title: "التعليمُ الاجتماعيُّ الكاثوليكي في الاقتصاد: الكرامةُ والتضامن بين الرأسمالية والاشتراكية", type: "تيار"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 - id: "thk-robert-owen", title: "روبرت أوين (Robert Owen)", type: "مفكر"
 - id: "thk-charles-fourier", title: "شارل فورييه (Charles Fourier)", type: "مفكر"

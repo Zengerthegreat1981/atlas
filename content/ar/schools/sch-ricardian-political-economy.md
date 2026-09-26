@@ -17,6 +17,9 @@ active_end: 1870
 edges:
 - rel: "evolved_from", target: "sch-classical-political-economy", target_type: "مدرسة"
 related:
+- id: "br-ricardian-socialism", title: "الاشتراكيةُ الريكاردية: العملُ مصدرَ القيمة وحقُّ العامل في كامل الناتج", type: "تيار"
+- id: "br-georgism-land-value-tax", title: "الجورجية وضريبةُ قيمة الأرض: الريعُ العام حلاً وحيداً", type: "تيار"
+- id: "br-sraffian-neo-ricardian-economics", title: "الاقتصادُ السرافي-الريكاردي الجديد: إنتاجُ السلع بواسطة السلع", type: "تيار"
 - id: "sch-classical-political-economy", title: "الاقتصادُ السياسيُّ الكلاسيكي (Classical Political Economy)", type: "مدرسة"
 - id: "thk-david-ricardo", title: "ديفيد ريكاردو (David Ricardo)", type: "مفكر"
 - id: "wrk-principles-of-political-economy-and-taxation-ricardo", title: "مبادئُ الاقتصاد السياسي والضريبة (Principles of Political Economy and Taxation)", type: "عمل / كتاب"

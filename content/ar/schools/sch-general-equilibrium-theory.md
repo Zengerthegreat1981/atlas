@@ -17,6 +17,7 @@ active_end: 1954
 edges:
 - rel: "evolved_from", target: "sch-marginal-revolution", target_type: "مدرسة"
 related:
+- id: "ins-auction-theory-and-mechanism-design", title: "نظريةُ المزادات وتصميمُ الآليات (Auction Theory and Mechanism Design)", type: "منهج/أداة بحث"
 - id: "ins-input-output-analysis-leontief", title: "تحليلُ المدخلات والمخرجات عند ليونتييف (Input-Output Analysis)", type: "منهج/أداة بحث"
 - id: "ins-game-theory-in-economics", title: "نظريةُ الألعاب في الاقتصاد (Game Theory in Economics)", type: "منهج/أداة بحث"
 - id: "ins-computable-general-equilibrium-models", title: "نماذجُ التوازن العام الحاسوبية (Computable General Equilibrium Models)", type: "منهج/أداة بحث"

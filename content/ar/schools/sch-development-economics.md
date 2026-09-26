@@ -17,6 +17,13 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-keynesian-economics", target_type: "مدرسة"
 related:
+- id: "evt-china-reform-and-opening-1978", title: "الإصلاحُ والانفتاحُ الصيني (1978)", type: "حدث تاريخي"
+- id: "evt-arab-spring-economic-roots-2011", title: "الجذورُ الاقتصادية للربيع العربي (2011)", type: "حدث تاريخي"
+- id: "ins-social-accounting-matrix", title: "مصفوفةُ الحسابات الاجتماعية (Social Accounting Matrix)", type: "منهج/أداة بحث"
+- id: "ins-regression-discontinuity-design", title: "تصميمُ الانحدار غير المتصل (Regression Discontinuity Design)", type: "منهج/أداة بحث"
+- id: "ins-multidimensional-poverty-index", title: "المؤشرُ متعددُ الأبعاد للفقر (Multidimensional Poverty Index)", type: "منهج/أداة بحث"
+- id: "stu-miguel-kremer-deworming-2004", title: "دراسةُ ميغيل وكريمر عن علاج الديدان المعوية في كينيا (2004)", type: "دراسة وبحث"
+- id: "stu-jensen-kerala-fishermen-mobile-phones-2007", title: "دراسةُ جنسن عن الهواتف المحمولة وصيادي كيرالا (2007)", type: "دراسة وبحث"
 - id: "stu-banerjee-duflo-microfinance-hyderabad-2015", title: "تجربةُ بانرجي ودوفلو للتمويل الأصغر في حيدر أباد (2015)", type: "دراسة وبحث"
 - id: "thk-w-arthur-lewis", title: "و. آرثر لويس (W. Arthur Lewis)", type: "مفكر"
 - id: "thk-albert-o-hirschman", title: "ألبرت أو. هيرشمان (Albert O. Hirschman)", type: "مفكر"

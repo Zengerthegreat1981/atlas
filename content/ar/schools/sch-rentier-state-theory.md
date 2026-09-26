@@ -17,6 +17,8 @@ active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "sch-development-economics", target_type: "مدرسة"
 related:
+- id: "evt-gulf-war-oil-shock-1990", title: "صدمةُ أسعار النفط وحرب الخليج (1990)", type: "حدث تاريخي"
+- id: "stu-ross-does-oil-hinder-democracy-2001", title: "دراسةُ روس: هل يعيق النفط الديمقراطية؟ (2001)", type: "دراسة وبحث"
 - id: "sch-development-economics", title: "اقتصادياتُ التنمية (Development Economics)", type: "مدرسة"
 - id: "thk-hazem-el-beblawi", title: "حازم الببلاوي", type: "مفكر"
 - id: "thk-giacomo-luciani", title: "جياكومو لوتشياني (Giacomo Luciani)", type: "مفكر"
