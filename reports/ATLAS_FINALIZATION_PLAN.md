@@ -133,3 +133,5 @@ Size: about 190 batches of 40.
 | 2026-09-26 | worker: political-economy 17 (35 classic works) | +35, 35/35 pass; 5 works re-parented (cross-part belongs_to); 28 orphans linked in 7acd6e522. **political-economy measured: 629** | 9d4892e06 |
 | 2026-09-26 | worker: political-economy 19 (35 debates) | +35, 35/35 pass; Wages for Housework authorship fixed, 1 doubtful citation dropped | 377c4623c |
 | 2026-09-26 | worker: political-economy 20 (20 schools, 15 thinkers) | +35, 35/35 pass; 1 re-parent, 1 softened date, 6 lineage edges fixed; orphans linked in 752c40a14. **political-economy measured: 699** | 88dcbdd38 |
+| 2026-09-26 | worker: political-economy 21 (35 thinkers) | +35, 35/35 pass | 4702def3a |
+| 2026-09-26 | worker: political-economy 22 (20 currents, 15 critiques) | +35, 35/35 pass; 1 attribution fix; 50 orphans linked in e5c07008c. **political-economy measured: 769** | d83779e64 |
