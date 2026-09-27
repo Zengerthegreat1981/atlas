@@ -38,7 +38,12 @@ gaps:
 
 يُدرَس هذا المفهومُ ضمن الإطار المنهجيّ نفسِه المطبَّق على الأنثروبوصوفيا الأمّ ومدارس والدورف — تتبُّعُ الاستمرارية العقائدية بين النظرية الروحية الأصلية وتطبيقها العمليّ اللاحق دون حكمٍ معياريٍّ على نجاعته الزراعية، وهو ما يميّزه عن أدبيّات الترويج الزراعيّ من جهة وأدبيّات النقد العلميّ الصرف من جهةٍ أخرى.
 
+## الانتشارُ العالمي
+
+انتشرت الشهادةُ العالميةُ Demeter (تأسّست 1928) لتصبح المعيارَ التجاريَّ الأوسع اعتماداً للزراعة الحيوية-الديناميكية، وتُستخدَم اليوم في مزارعَ وكرومِ عنبٍ حول العالم (فرنسا، الولايات المتحدة، نيوزيلندا، جنوب أفريقيا) دون أن يشترط المعيارُ نفسُه اعتناقَ المزارع لعقيدة الأنثروبوصوفيا، بل التقيّدَ بالممارسات الموصوفة في "الدورة الزراعية" فحسب. هذا الانفصالُ التدريجي بين الممارسة والعقيدة الأصلية هو ما يجعل الحالةَ مثالاً دراسياً بارزاً لكيفية "علمنة" ممارسةٍ باطنيةٍ الأصل حتى تصبح مقبولةً في سوقٍ زراعيةٍ عالمية.
+
 ## المصادر
 
 - LeVasseur, Todd Jared. "Biodynamic Agriculture." In *Encyclopedia of Food and Agricultural Ethics*, edited by Paul B. Thompson and David M. Kaplan. Dordrecht: Springer, 2014. DOI: 10.1007/978-94-007-0929-4_238.
-- Stehlik, Thomas. *Waldorf Schools and the History of Steiner Education: An International View*. London: Palgrave Macmillan, 2019. (Open Library: `/works/OL20850123W`).
+- Stehlik, Thomas. *Waldorf Schools and the History of Steiner Education: An International View*. London: Palgrave Macmillan, 2019..
+- Paull, John. (2011). "Attending the First Organic Agriculture Course: Rudolf Steiner's Agriculture Course at Koberwitz, 1924." *European Journal of Social Sciences*, 21(1), 64–70.
