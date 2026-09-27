@@ -42,7 +42,12 @@ gaps:
 
 يمثّل هذا الجدل نموذجاً لكيفية تطوّر نظريةٍ نفسيةٍ تجريبية عن الدين من فرضيةٍ بسيطة قابلة للدحض إلى نموذجٍ أكثر شرطيةً وتعقيداً يراعي سياق نشأة التديّن الفرديّ، بدل الاكتفاء بتعميمٍ خطيٍّ واحد.
 
+## القيود المنهجية للحقل
+
+يعتمد معظم البحث التجريبيّ في هذا الجدل على عيّناتٍ من طلّاب جامعيّين أمريكيّين ينتمون غالباً إلى خلفياتٍ بروتستانتية، وهو ما يحدّ من قابلية تعميم النتائج على تقاليدَ دينيةٍ أخرى ذات تصوّراتٍ مختلفة جذرياً عن العلاقة الفردية بالإله (كالتقليد الإسلامي الذي يشدِّد على العبودية والطاعة أكثر من الحميمية العاطفية المباشرة التي تفترضها أدواتُ قياس التعلّق المصمَّمة أصلاً على النموذج المسيحي). كما أن قياس "أسلوب التعلّق بالله" يعتمد استبياناتٍ ذاتية التقرير عرضةً لتحيّزاتِ الذاكرة والتنشئة الدينية اللاحقة، لا رصداً مباشراً لتفاعل الطفل بمقدِّم رعايته وقت حدوثه.
+
 ## المصادر
 
 - Kirkpatrick, Lee A. (2005). *Attachment, Evolution, and the Psychology of Religion*. Guilford Press.
 - Granqvist, P. (2002). "Attachment and Religiosity in Adolescence: Cross-Sectional and Longitudinal Evaluations." *Personality and Social Psychology Bulletin*, 28(2).
+- Granqvist, Pehr, & Kirkpatrick, Lee A. (2004). "Religious Conversion and Perceived Childhood Attachment: A Meta-Analysis." *The International Journal for the Psychology of Religion*, 14(4).
