@@ -27,7 +27,7 @@ gaps:
 
 # دراسةُ بوييه ورامبل (2001): قوالبُ معرفيةٌ للمفاهيم الدينية — شاهدٌ عبرَ ثقافيّ
 
-دراسةٌ تجريبيةٌ نشرها پاسكال بوييه مع تشارلز رامبل (Charles Ramble) في مجلة *Cognitive Science* عام 2001 بعنوان "Cognitive Templates for Religious Concepts: Cross-Cultural Evidence for Recall of Counter-Intuitive Representations"، وهي التوسيعُ العابر للثقافات الذي تفتقر إليه دراسةُ بارت ونيهوف الأمريكية أحاديةَ الثقافة (`stu-spreading-nonnatural-concepts-barrett-nyhof-2001`) لاختبار الفرضية نفسها: أن المفاهيمَ "المضادّةَ للحدس قليلاً" (`con-minimally-counterintuitive-concepts`) تُحفَظ وتُستدعى من الذاكرة بدقّةٍ أعلى من المفاهيم الحدسية العادية أو المضادّة للحدس بإفراط.
+دراسةٌ تجريبيةٌ نشرها پاسكال بوييه مع تشارلز رامبل (Charles Ramble) في مجلة *Cognitive Science* عام 2001 بعنوان "Cognitive Templates for Religious Concepts: Cross-Cultural Evidence for Recall of Counter-Intuitive Representations"، وهي التوسيعُ العابر للثقافات الذي تفتقر إليه دراسةُ بارت ونيهوف الأمريكية أحاديةَ الثقافة لاختبار الفرضية نفسها: أن المفاهيمَ "المضادّةَ للحدس قليلاً" تُحفَظ وتُستدعى من الذاكرة بدقّةٍ أعلى من المفاهيم الحدسية العادية أو المضادّة للحدس بإفراط.
 
 ## التصميم عبر الثقافي
 
@@ -41,7 +41,12 @@ gaps:
 
 مع دراسة بارت ونيهوف (1996، 2001)، تشكّل هذه الدراسةُ الركيزةَ التجريبيةَ المزدوجة (أحاديةَ الثقافة ثم عابرةَ الثقافات) التي بنى عليها بوييه حجّته المركزية في *Religion Explained* (2001) بأن انتشار المفاهيم الدينية نتاجٌ ثانويٌّ (byproduct) لبنيةٍ معرفيةٍ عامة لا تكيّفٌ تطوّريٌّ خاصٌّ بالدين.
 
+## تفصيلُ نتائج المواقع الثلاثة
+
+في كل موقعٍ من المواقع الثلاثة، صمّم الباحثان قوائمَ مفاهيم محليّة الطابع بدل استيراد قائمةٍ غربية واحدة مباشرةً: ففي غابون استُخدمت كائناتٌ مستوحاةٌ من كوزمولوجيا شعب الفانغ المحلّية، وفي نيبال استُخدمت مفاهيمُ مستوحاةٌ من البيئة البوذية-الهندوسية الهيمالايية المحلّية، بينما استُخدمت في فرنسا مفاهيمُ محايدةٌ ثقافياً نسبياً. هذا الحرصُ المنهجيّ على تكييف المادة التجريبية مع كل سياقٍ ثقافيّ حاول تفادي انتقادٍ شائعٍ يُوجَّه لتجارب علم النفس المعرفيّ عبر الثقافات، وهو خطرُ فرض مفاهيمَ غربية المنشأ على مشاركين من ثقافاتٍ أخرى بلغةٍ أو صورٍ لا تحمل المعنى الثقافيّ نفسَه لديهم.
+
 ## المصادر
 
 - Boyer, P. & Ramble, C. (2001). "Cognitive Templates for Religious Concepts: Cross-Cultural Evidence for Recall of Counter-Intuitive Representations." *Cognitive Science*, 25(4), 535–564. DOI: 10.1207/s15516709cog2504_2.
-- Boyer, P. (2001). *Religion Explained: The Evolutionary Origins of Religious Thought*. Basic Books.
+- Boyer, P. (2001). *Religion Explained: The Evolutionary Origins of Religious Thought*. New York: Basic Books.
+- Barrett, Justin L., & Nyhof, Melanie. "Spreading Non-Natural Concepts." *Journal of Cognition and Culture*, 1(1), 2001.
