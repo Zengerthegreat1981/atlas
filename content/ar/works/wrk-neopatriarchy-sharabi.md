@@ -54,4 +54,4 @@ gaps:
 
 - Sharabi, Hisham. *Neopatriarchy: A Theory of Distorted Change in Arab Society*. Oxford University Press, 1988.
 - Sharabi, Hisham. *Embers and Ashes: Memoirs of an Arab Intellectual*. Interlink Books, 2008.
-- شرابي، هشام. *البنية البطريركية: بحث في المجتمع العربي المحتلف*. مركز دراسات الوحدة العربية، 1992.
+- شرابي، هشام. *البنية البطريركية: بحث في المجتمع العربي المعاصر*. مركز دراسات الوحدة العربية، 1992.
