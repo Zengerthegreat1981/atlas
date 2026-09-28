@@ -35,7 +35,7 @@ gaps:
 
 ## الاستخدام الإكلينيكي والبحثي
 
-يُعد ركيزة أساسية في تقييم الفص الجبهي، وتشخيص الخرف والزهايمر المبكر، وتقييم اللياقة لقيادة السيارات بعد إصابات الدماغ، وتقييم اضطراب فرط الحركة وتشتت الانتباه.
+يُعد ركيزة أساسية في تقييم الفص الجبهي، وتشخيص الخرف والزهايمر المبكر، وتقييم اللياقة لقيادة السيارات بعد إصابات الدماغ، وتقييم اضطراب فرط الحركة وتشتت الانتباه. ويُستخدم الفارق الزمني بين الجزأين (TMT B ناقص TMT A) على نطاق واسع كمؤشر أكثر نقاءً نسبياً على المرونة المعرفية والتبديل التنفيذي بين المهام، بعد عزل مكون السرعة الحركية والبصرية الأساسية الذي يشترك فيه الجزءان معاً.
 
 ## من صمّمها ومتى، وعيّنة التقنين
 
@@ -51,4 +51,6 @@ gaps:
 
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Ralph M. Reitan, "Validity of the Trail Making Test as an Indicator of Organic Brain Damage", Perceptual and Motor Skills, 1958.
+- Robert K. Heaton, Miller, Taylor & Grant, Revised Comprehensive Norms for an Expanded Halstead-Reitan Battery, Psychological Assessment Resources, 2004.
+- Ward Halstead, Brain and Intelligence: A Quantitative Study of the Frontal Lobes, 1947.

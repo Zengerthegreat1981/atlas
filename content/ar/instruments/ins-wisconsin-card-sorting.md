@@ -44,6 +44,12 @@ gaps:
 
 لا يُكرر الاختبار بسهولة على نفس المفحوص لفقدان عنصر المفاجأة بمجرد فهم فكرة التغير الدوري للقواعد، ويتأثر بإحباط المفحوص عند تكرار التغذية الراجعة بالخطأ. كما يُنتقد لضعف اختصاصيته الجبهية الصرفة، إذ تظهر استجابات غير سوية فيه أيضاً لدى مرضى بإصابات خارج الفص الجبهي، مما يحد من قيمته التشخيصية التمييزية حين يُستخدم منفرداً.
 
+## النسخ المحوسبة والأثر البحثي
+
+تتوفر اليوم نسخ محوسبة تحلل تلقائياً أنماط الخطأ الدقيقة (كالفشل في الحفاظ على المجموعة Failure to Maintain Set)، وقد استُخدم الاختبار على نطاق واسع في أبحاث الفصام لدعم "فرضية نقص الوظيفة الجبهية الأمامية" (hypofrontality)، حيث أظهر مرضى الفصام أداءً ضعيفاً منتظماً مقترناً بانخفاض التنشيط في قشرة الفص الجبهي الظهرية الوحشية أثناء التصوير الوظيفي.
+
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- David A. Grant & Esta A. Berg, "A Behavioral Analysis of Degree of Reinforcement and Ease of Shifting to New Responses in a Weigl-Type Card-Sorting Problem", Journal of Experimental Psychology, 1948.
+- Robert K. Heaton, Chelune, Talley, Kay & Curtiss, Wisconsin Card Sorting Test Manual: Revised and Expanded, Psychological Assessment Resources, 1993.
+- Daniel R. Weinberger, Berman & Zec, "Physiologic Dysfunction of Dorsolateral Prefrontal Cortex in Schizophrenia", Archives of General Psychiatry, 1986.

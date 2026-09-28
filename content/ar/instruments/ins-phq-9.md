@@ -45,8 +45,14 @@ gaps:
 
 ## القيود والنقد
 
-كأداة فرز ذاتية، قد تظهر درجات إيجابية كاذبة لدى مرضى الآلام المزمنة أو من يمرون بأحداث حداد طبيعية، مما يتطلب تقييماً إكلينيكياً تكميلياً.
+كأداة فرز ذاتية، قد تظهر درجات إيجابية كاذبة لدى مرضى الآلام المزمنة أو من يمرون بأحداث حداد طبيعية، مما يتطلب تقييماً إكلينيكياً تكميلياً. كما أن البند التاسع الخاص بأفكار إيذاء النفس أو الموت لا يُغني عن تقييم مخاطر انتحارية مفصّل، ويوصى بمتابعته دوماً بأداة متخصصة كمقياس كولومبيا (C-SSRS) عند الإيجابية. ويظل الاعتماد الحصري على PHQ-9 دون مقابلة إكلينيكية مصدر جدل في تشخيص حالات الاكتئاب المصاحبة لأمراض جسدية مزمنة تتشابه أعراضها الجسدية (التعب، اضطراب النوم) مع أعراض الاكتئاب نفسه.
+
+## التصميم والتطوير
+
+اشتُق PHQ-9 من أداة أوسع هي Primary Care Evaluation of Mental Disorders (PRIME-MD) التي طوّرها روبرت سبيتزر وزملاؤه في التسعينيات بدعم من شركة Pfizer، ونُشر تقنينه المستقل في مقالة "The PHQ-9: Validity of a Brief Depression Severity Measure" في مجلة Journal of General Internal Medicine سنة 2001، اعتماداً على عينة من أكثر من 6000 مريض في ثماني عيادات رعاية أولية وعيادات نسائية أمريكية.
 
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Kurt Kroenke, Robert L. Spitzer & Janet B. W. Williams, "The PHQ-9: Validity of a Brief Depression Severity Measure", Journal of General Internal Medicine, 2001.
+- Robert L. Spitzer, Kroenke & Williams, "Validation and Utility of a Self-Report Version of PRIME-MD: The PHQ Primary Care Study", JAMA, 1999.
+- American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders (DSM-IV/DSM-5), 1994/2013.

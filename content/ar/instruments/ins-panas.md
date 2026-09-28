@@ -37,8 +37,14 @@ gaps:
 
 ## القيود والنقد
 
-يركز المقياس على حالات الاستثارة العالية (High Arousal Affect) ويغفل بعض المشاعر الهادئة منخفضة الاستثارة كالسكينة والاسترخاء. وعلى الرغم من ترجمته واستخدامه في دراسات عربية متفرقة، لا يوجد توثيق منشور موثوق لتقنين عربي معياري موحّد ذي معايير مرجعية واسعة الانتشار.
+يركز المقياس على حالات الاستثارة العالية (High Arousal Affect) ويغفل بعض المشاعر الهادئة منخفضة الاستثارة كالسكينة والاسترخاء. وعلى الرغم من ترجمته واستخدامه في دراسات عربية متفرقة، لا يوجد توثيق منشور موثوق لتقنين عربي معياري موحّد ذي معايير مرجعية واسعة الانتشار. كما ينتقد بعض الباحثين اعتماد المقياس على مفردات صفات معزولة عن سياق سلوكي أو موقفي، ما قد يجعل الاستجابة عرضة لتأثير التحيز الاجتماعي المرغوب فيه، خصوصاً في القياس اللحظي (state) مقارنة بالقياس السماتي (trait) الذي يفصل بينهما الإطار الزمني المستخدم عند التطبيق.
+
+## التصميم والتطوير
+
+نشر الباحثون الثلاثة أداتهم في مقالة مرجعية بعنوان "Development and Validation of Brief Measures of Positive and Negative Affect: The PANAS Scales" في مجلة Journal of Personality and Social Psychology سنة 1988، وقد استندوا فيها إلى نموذج تيليغن السابق للانفعال ثنائي الأبعاد (bipolar factors)، وأثبتوا عبر التحليل العاملي أن الانفعال الإيجابي والسلبي بُعدان شبه مستقلين إحصائياً وليسا طرفي متصل واحد كما افترضت نماذج سابقة. لاحقاً طُوّرت النسخة الموسّعة PANAS-X (واتسون وكلارك، 1994) لتغطي مقاييس فرعية أدق كالخوف والحزن والذنب والعداء والانخراط والدهشة.
 
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- David Watson, Lee Anna Clark & Auke Tellegen, "Development and Validation of Brief Measures of Positive and Negative Affect: The PANAS Scales", Journal of Personality and Social Psychology, 1988.
+- David Watson & Lee Anna Clark, "The PANAS-X: Manual for the Positive and Negative Affect Schedule - Expanded Form", University of Iowa, 1994.
+- Auke Tellegen, "Structures of Mood and Personality and Their Relevance to Assessing Anxiety, with an Emphasis on Self-Report", ضمن Anxiety and the Anxiety Disorders، تحرير Tuma & Maser، 1985.

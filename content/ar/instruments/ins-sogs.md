@@ -40,8 +40,14 @@ gaps:
 
 ## القيود والنقد
 
-يعاني من ميل لتضخيم الإيجابية الكاذبة في المجتمع العام، ولا يقيس التغيرات الأسبوعية الطفيفة أثناء العلاج بنفس دقة مقاييس PGSI الأحدث.
+يعاني من ميل لتضخيم الإيجابية الكاذبة في المجتمع العام، ولا يقيس التغيرات الأسبوعية الطفيفة أثناء العلاج بنفس دقة مقاييس PGSI (Problem Gambling Severity Index) الأحدث. كما أن اعتماده على معايير DSM-III القديمة نسبياً في صياغة بعض بنوده يجعله أقل تطابقاً مع التصور المعاصر لـ"اضطراب القمار" في DSM-5، الذي أعاد تصنيفه ضمن الاضطرابات الإدمانية السلوكية وقلّص عدد المعايير التشخيصية المطلوبة، ما دفع بعض الباحثين لتفضيل أدوات أحدث مبنية مباشرة على معايير DSM-5.
+
+## الأثر التاريخي
+
+يُعد SOGS أول أداة فرز واسعة الانتشار للقمار المرضي عالمياً، وقد مهّد الطريق أمام إدراج "القمار المرضي" رسمياً ضمن الأدلة التشخيصية، كما استُخدم في مئات الدراسات الوبائية لتقدير معدلات انتشار إدمان القمار عبر دول ومجتمعات متعددة قبل ظهور أدوات منافسة له.
 
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Henry R. Lesieur & Sheila B. Blume, "The South Oaks Gambling Screen (SOGS): A New Instrument for the Identification of Pathological Gamblers", American Journal of Psychiatry, 1987.
+- American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders, Third Edition Revised (DSM-III-R), 1987.
+- Jamie Ferris & Harold Wynne, The Canadian Problem Gambling Index (PGSI), Canadian Centre on Substance Abuse, 2001.

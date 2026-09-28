@@ -40,8 +40,14 @@ gaps:
 
 ## القيود والنقد
 
-يتضمن مقياس SIAS بعض البنود العكسية التي أظهرت تحليلات سيكومترية لاحقة أنها قد تشكل عاملاً منفصلاً، مما حدا ببعض الباحثين لاستبعادها في النسخ المنقحة.
+يتضمن مقياس SIAS بعض البنود العكسية التي أظهرت تحليلات سيكومترية لاحقة أنها قد تشكل عاملاً منفصلاً، مما حدا ببعض الباحثين لاستبعادها في النسخ المنقحة. كما طُوِّرت نسخ مختصرة (SIAS-6 وSPS-6) للفرز السريع في الرعاية الأولية، لكن دقتها التمييزية تبقى أقل قليلاً من النسختين الكاملتين عند الحاجة لتوصيف دقيق لشدة الأعراض في السياقات البحثية والعلاجية المتخصصة.
+
+## الأثر على العلاج المعرفي السلوكي
+
+يستخدم المعالجون درجتي SIAS وSPS معاً لتحديد ما إذا كان قلق المريض ناجماً بشكل أساسي عن الخوف من التفاعل المتبادل (كبدء حديث أو مواعدة) أو من الخوف من الملاحظة أثناء أداء مهمة (كالتحدث أمام جمهور أو الأكل في مكان عام)، وهو تمييز يوجه اختيار سيناريوهات التعرض التدريجي في بروتوكولات العلاج.
 
 ## المصادر
 
-لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.
+- Richard P. Mattick & J. Christopher Clarke, "Development and Validation of Measures of Social Phobia Scrutiny Fear and Social Interaction Anxiety", Behaviour Research and Therapy, 1998.
+- Michael J. Peters, Sunderland, Andrews, Rapee & Mattick, "Development of a Short Form Social Interaction Anxiety (SIAS) and Social Phobia Scale (SPS)", Psychological Assessment, 2012.
+- Michael R. Liebowitz, "Social Phobia", Modern Problems of Pharmacopsychiatry, 1987.

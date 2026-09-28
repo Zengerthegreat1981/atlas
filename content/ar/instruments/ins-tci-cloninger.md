@@ -33,7 +33,7 @@ gaps:
 
 ## التطبيقات في علاج اضطرابات الشخصية والإدمان
 
-تحديد الاستعداد البيولوجي للإدمان واضطرابات الشخصية وتخصيص العلاج النفسي والدوائي المناسب.
+تحديد الاستعداد البيولوجي للإدمان واضطرابات الشخصية وتخصيص العلاج النفسي والدوائي المناسب. ويرى كلونينغر أن انخفاض بُعد "التوجيه الذاتي" تحديداً هو المؤشر الأقوى عبر أبعاد الطباع الثلاثة على وجود اضطراب شخصية من أي نوع، بصرف النظر عن نمطه الفئوي، وهو ما جعل الأداة مرجعاً في نقاشات الانتقال إلى النماذج البعدية لاضطرابات الشخصية.
 
 ## من صممه ومتى
 
@@ -49,4 +49,6 @@ gaps:
 
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+- C. Robert Cloninger, Przybeck, Svrakic & Wetzel, The Temperament and Character Inventory (TCI): A Guide to Its Development and Use, Washington University, 1994.
+- C. Robert Cloninger, Svrakic & Przybeck, "A Psychobiological Model of Temperament and Character", Archives of General Psychiatry, 1993.
+- C. Robert Cloninger, "A Systematic Method for Clinical Description and Classification of Personality Variants: A Proposal", Archives of General Psychiatry, 1987.

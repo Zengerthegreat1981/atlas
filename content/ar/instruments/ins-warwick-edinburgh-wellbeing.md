@@ -48,8 +48,10 @@ gaps:
 
 ## القيود والنقد
 
-يركز حصرياً على الجوانب الإيجابية ولا يقيس الأعراض المَرَضية، مما يجعله مكملاً للمقاييس التشخيصية وليس بديلاً عنها. كما يظل قياسه لمفهوم "الرفاه" متأثراً بالسياق الثقافي البريطاني الذي صيغت فيه البنود أصلاً، وهو ما يستدعي حذراً عند تعميم التفسير على ثقافات مختلفة.
+يركز حصرياً على الجوانب الإيجابية ولا يقيس الأعراض المَرَضية، مما يجعله مكملاً للمقاييس التشخيصية وليس بديلاً عنها. كما يظل قياسه لمفهوم "الرفاه" متأثراً بالسياق الثقافي البريطاني الذي صيغت فيه البنود أصلاً، وهو ما يستدعي حذراً عند تعميم التفسير على ثقافات مختلفة. ويستخدم عدد متزايد من الحكومات والبلديات المقياس ضمن مؤشرات مركّبة لتقييم "العائد الاجتماعي على الاستثمار" في برامج الصحة النفسية المجتمعية والتنموية، إذ يوفر رقماً كمياً موحداً يمكن مقارنته قبل التدخل وبعده.
 
 ## المصادر
 
-لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.
+- Sarah Stewart-Brown, Tennant, Tennant, Platt, Parkinson & Weich, "The Warwick-Edinburgh Mental Well-being Scale (WEMWBS): Development and UK Validation", Health and Quality of Life Outcomes, 2007.
+- Ruth Tennant, Hiller, Fishwick, Platt, Joseph, Weich, Parkinson, Secker & Stewart-Brown, "The Warwick-Edinburgh Mental Well-being Scale (WEMWBS): Development and UK Validation", Health and Quality of Life Outcomes, 2007.
+- NHS Health Scotland, University of Warwick & University of Edinburgh, Warwick-Edinburgh Mental Well-being Scale (WEMWBS) User Guide, 2008.
