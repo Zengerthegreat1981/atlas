@@ -40,6 +40,16 @@ gaps:
 
 أعادت APS تركيز الاهتمام العالمي على جودة المنهجية التجريبية، وأصدرت مجلات علمية مرموقة ذات معامل تأثير فائق (مثل Psychological Science وPerspectives on Psychological Science). وقادت الجمعية لاحقاً حركة الإصلاح المنهجي، والشفافية، ومواجهة أزمة التكرار العلمي، مجسدة التمايز المؤسسي بين 'العلم الصرف' و'الممارسة المهنية'.
 
+## تغيير الاسم إلى جمعية العلوم النفسية
+
+في عام 2006، غيّرت المنظمة اسمها من «الجمعية النفسية الأمريكية» (American Psychological Society) إلى «جمعية العلوم النفسية» (Association for Psychological Science, APS) لتعكس طموحها العالمي المتنامي وتوسيع عضويتها خارج الولايات المتحدة، مع الاحتفاظ بالاختصار APS نفسه لتفادي إرباك الهوية المؤسسية المتراكمة منذ 1988.
+
+## دور مجلة Psychological Science في حركة العلوم المفتوحة
+
+أصبحت مجلة *Psychological Science*، التي أطلقتها APS عام 1990، لاحقاً إحدى أوائل المجلات النفسية الكبرى التي تبنّت معايير الشفافية والانفتاح (TOP Guidelines) والتسجيل المسبق للدراسات (Preregistration) استجابة لأزمة التكرار العلمي التي انفجرت مطلع العقد الثاني من الألفية الثالثة، مؤكدة دور APS المؤسسي في قيادة إصلاح الممارسة البحثية لا الاكتفاء بتأسيسها التاريخي فقط.
+
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Association for Psychological Science, "History of APS" (psychologicalscience.org/about/history).
+- Cacioppo, J. T. (2007). "The Structure of APS: Made for These Times." *Observer*, 20(6).
+- Spellman, B. A. (2015). "A Short (Personal) Future History of Revolution 2.0." *Perspectives on Psychological Science*, 10(6).
