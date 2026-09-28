@@ -64,6 +64,12 @@ gaps:
 - **محدودية القوة**: مديرو الحالات كثيراً ما يفتقرون للسلطة الكافية لتنسيق النظام.
 - **تضارب الأدوار**: عندما يكون المعالج ومدير الحالة شخصاً واحداً، تنشأ أسئلة أخلاقية.
 
+## الفروق التطبيقية بين النماذج
+
+يختار الفريق العلاجي النموذج المناسب بحسب شدّة الحالة وتوفر الموارد: فبينما يُستخدم نموذج الوساطة (Broker) لعملاء أكثر استقلالية يحتاجون فقط توجيهاً بسيطاً للخدمات المتاحة، يُخصَّص نموذج ACT المكثّف للحالات الأشدّ (كالفصام المصاحب لتعاطي المواد أو التشرّد المزمن) حيث يثبت هذا التمييز في التوزيع أنَّ «إدارة الحالات» ليست نموذجاً واحداً موحَّداً بل طيفاً من التدخلات يتدرَّج بحسب كثافة الحاجة الفعلية للمستفيد.
+
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+- Rapp, Charles A. & Goscha, Richard J. *The Strengths Model: A Recovery-Oriented Approach to Mental Health Services*. Oxford University Press, 2011.
+- Test, Mary Ann & Stein, Leonard I. "Alternative to Mental Hospital Treatment." *Archives of General Psychiatry*, vol. 37, no. 4, 1980, pp. 392–397.
+- Bond, Gary R. "Assertive Community Treatment for People with Severe Mental Illness." *Disease Management and Health Outcomes*, vol. 9, no. 3, 2001, pp. 141–159.

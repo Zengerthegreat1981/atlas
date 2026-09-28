@@ -43,6 +43,12 @@ gaps:
 - **لا يحلّ محل المعالج البشري**: حتى الشركات المُطوِّرة تصرّح بأن منتجاتها «لا تقيّم ولا تشخّص ولا تعالج اضطرابات الصحة النفسية».
 - **الخصوصية**: حساسية بيانات الصحة النفسية الرقمية.
 
+## السلائف التاريخية: إليزا
+
+يعود التاريخ الفكري لهذا التيار إلى برنامج «إليزا» (ELIZA) الذي طوَّره جوزيف وايزنباوم في معهد MIT عام 1966، والذي حاكى أسلوب المعالج الروجرزي غير التوجيهي عبر إعادة صياغة كلام المستخدم في صورة أسئلة، فيما فوجئ وايزنباوم نفسه لاحقاً بأنَّ كثيراً من مستخدميه طوَّروا تعلّقاً عاطفياً حقيقياً بالبرنامج رغم علمهم ببساطته الشديدة، وهي ظاهرةٌ عُرفت لاحقاً باسم «تأثير إليزا» وأصبحت نقطة انطلاقٍ لكل النقاش اللاحق حول التحالف العلاجي مع الآلة.
+
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Weizenbaum, Joseph. "ELIZA—A Computer Program for the Study of Natural Language Communication Between Man and Machine." *Communications of the ACM*, vol. 9, no. 1, 1966, pp. 36–45.
+- Fitzpatrick, Kathleen Kara, Darcy, Alison & Vierhile, Molly. "Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot)." *JMIR Mental Health*, vol. 4, no. 2, 2017.
+- Inkster, Becky, Sarda, Shubhankar & Subramanian, Vinod. "An Empathy-Driven, Conversational Artificial Intelligence Agent (Wysa) for Digital Mental Well-Being." *JMIR mHealth and uHealth*, vol. 6, no. 11, 2018.

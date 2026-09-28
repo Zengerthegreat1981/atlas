@@ -63,6 +63,12 @@ gaps:
 - **Lovaas 1987**: أقدم وأشهر دراسة.
 - **ABA I/II/III**: مستوى الإسناد لدراسات متعدد (EBP).
 
+## تاريخ مشروع لوفاس
+
+بدأ إيفار لوفاس مشروعه البحثي الشهير «UCLA Young Autism Project» أوائل الستينيات، مطبِّقاً بروتوكولاً مكثفاً من التدريب السلوكي الفردي المبكر على مجموعاتٍ صغيرة من الأطفال التوحديين، واستمر في تطوير المنهج وتوثيق نتائجه على مدى عقدين قبل نشر دراسته الأشهر عام 1987 التي أظهرت نتائج تفوق التوقعات لدى نسبة كبيرة من الأطفال الذين خضعوا للتدريب المكثف قبل سنّ الرابعة.
+
 ## المصادر
 
-لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.
+- Lovaas, O. Ivar. "Behavioral Treatment and Normal Educational and Intellectual Functioning in Young Autistic Children." *Journal of Consulting and Clinical Psychology*, vol. 55, no. 1, 1987, pp. 3–9.
+- Baer, Donald M., Wolf, Montrose M. & Risley, Todd R. "Some Current Dimensions of Applied Behavior Analysis." *Journal of Applied Behavior Analysis*, vol. 1, no. 1, 1968, pp. 91–97.
+- Kapp, Steven K. (ed). *Autistic Community and the Neurodiversity Movement*. Palgrave Macmillan, 2020.

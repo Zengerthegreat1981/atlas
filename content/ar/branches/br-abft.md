@@ -49,6 +49,16 @@ gaps:
 - **يناسب العائلات المنفصلة لكنه يعقّدها** في بعض الحالات.
 - **محدودية مع الأسر المهمّشة ثقافياً** (يُنصح بالتكيف).
 
+## السياق المؤسسي
+
+طوَّر غاي دايموند نموذج ABFT في جامعة كلارك (Clark University) في ماساتشوستس متأثراً بأبحاث جون بولبي المؤسِّسة في نظرية التعلّق، وسعى إلى صياغة بروتوكولٍ علاجي منظَّم وقابل للتكرار يمكن تدريب المعالجين عليه بدقة، بدل الاعتماد على الحدس السريري وحده كما كان شائعاً في العلاج الأسري التقليدي، وهو ما ميَّز ABFT عن نماذج العلاج الأسري الأقدم كالعلاج البنائي عند سلفادور مينوتشين.
+
+## الفرق عن نماذج مشابهة
+
+يختلف ABFT عن العلاج الانفعالي المرتكز على الأسرة (EFT for adolescents) الذي طوَّره سو جونسون وزملاؤها بكونه أكثر تحديداً في بروتوكوله العلاجي الخمسي المراحل وأكثر تركيزاً حصرياً على مراهقين يعانون اكتئاباً وأفكاراً انتحارية، بينما يتسع EFT ليشمل أنماطاً أوسع من الاضطراب الأسري العام دون التقيّد بالبروتوكول الصارم نفسه أو باستهداف فئة المراهقين المكتئبين والمعرَّضين للخطر الانتحاري تحديداً كما يفعل ABFT تحديداً بحسب بروتوكوله الأصلي.
+
 ## المصادر
 
-لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.
+- Diamond, Guy S., Diamond, Gary M. & Levy, Suzanne A. *Attachment-Based Family Therapy for Depressed Adolescents*. American Psychological Association, 2014.
+- Bowlby, John. *Attachment and Loss, Vol. 1: Attachment*. Basic Books, 1969.
+- Diamond, Guy S., Reis, Barbara F., Diamond, Gary M., Siqueland, Lynne & Isaacs, Lisa. "Attachment-Based Family Therapy for Depressed Adolescents: A Treatment Development Study." *Journal of the American Academy of Child & Adolescent Psychiatry*, vol. 41, no. 10, 2002, pp. 1190–1196.
