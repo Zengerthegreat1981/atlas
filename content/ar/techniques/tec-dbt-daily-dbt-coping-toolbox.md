@@ -65,6 +65,12 @@ gaps:
 - قد يبقى الصندوق «على الورق» دون استخدام فعلي.
 - الإفراط في الاختيار قد يشتت المريض في الأزمة (لا يعرف أي مهارة يختار).
 
+## موقع المهارة ضمن الأدلة العلمية لـDBT
+
+لا توجد تجربة معشاة تعزل أثر «صندوق الأدوات» بمفرده عن باقي حزمة مهارات DBT، لكن البرنامج ككل يحظى بأقوى الأدلة التجريبية بين العلاجات النفسية لاضطراب الشخصية الحدّية: التجربة الأصلية للينهان وزملائها (Linehan et al., 1991) أظهرت انخفاضاً دالاً في تكرار السلوك الانتحاري وإيذاء الذات مقارنة بالعلاج المعتاد، وأكّد التحليل التلوي لكليم وكروغر وكوسفيلدر (Kliem, Kröger, & Kosfelder, 2010) حجم أثر معتدل للبرنامج عبر ست عشرة دراسة مستقلة. هذا هو أساس تصنيف evidence_level هنا كـ«تجريبي» على مستوى المهارة الفردية رغم قوة الأدلة على مستوى الحزمة الكاملة.
+
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. New York: Guilford Press.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060–1064.
+- Kliem, S., Kröger, C., & Kosfelder, J. (2010). Dialectical behavior therapy for borderline personality disorder: A meta-analysis using mixed-effects modeling. *Journal of Consulting and Clinical Psychology*, 78(6), 936–951.

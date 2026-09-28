@@ -67,6 +67,12 @@ gaps:
 - قد تتحول إلى «مهمة روتينية» ميكانيكية دون تأمل حقيقي.
 - الإفراط في التوثيق قد يعزز «فرط المراقبة» الذي يُضعف الانخراط في الحياة.
 
+## موقع المهارة ضمن الأدلة العلمية لـDBT
+
+لا توجد تجربة معشاة تعزل أثر «بطاقة اليوميات» بمفردها عن باقي بروتوكول DBT، لكن البرنامج ككل يحظى بأقوى الأدلة التجريبية بين العلاجات النفسية لاضطراب الشخصية الحدّية: التجربة الأصلية للينهان وزملائها (Linehan et al., 1991) أظهرت انخفاضاً دالاً في تكرار السلوك الانتحاري وإيذاء الذات مقارنة بالعلاج المعتاد، وأكّد التحليل التلوي لكليم وكروغر وكوسفيلدر (Kliem, Kröger, & Kosfelder, 2010) حجم أثر معتدل للبرنامج عبر ست عشرة دراسة مستقلة. هذا هو أساس تصنيف البطاقة هنا كـ«محتمَل الفعالية» بوصفها أداة توثيق أساسية داخل بروتوكول مثبَت الفعالية، لا كتقنية اختُبرت بمعزل عنه.
+
 ## المصادر
 
-لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. New York: Guilford Press.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060–1064.
+- Kliem, S., Kröger, C., & Kosfelder, J. (2010). Dialectical behavior therapy for borderline personality disorder: A meta-analysis using mixed-effects modeling. *Journal of Consulting and Clinical Psychology*, 78(6), 936–951.

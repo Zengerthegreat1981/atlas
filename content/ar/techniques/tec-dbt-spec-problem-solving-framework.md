@@ -58,7 +58,12 @@ DBT تتبنى إطار حل المشكلات المعرفي السلوكي (CBT
 - قد تستخدم كتجنب للتعامل مع الانفعالات («سأحل المشكلة بدلاً من الشعور بها»).
 - بعض المشاكل لا حل لها، وتحتاج «التقبل الجذري» بدلاً من «الحل» — وهنا يتقاطع الإطار مع حدود مهارة «التقبل الجذري» في نفس الحزمة.
 
+## موقع المهارة ضمن الأدلة العلمية لـDBT
+
+لا توجد تجربة معشاة تعزل أثر «إطار حل المشكلات» بمفرده عن باقي حزمة مهارات DBT، لكن البرنامج ككل يحظى بأقوى الأدلة التجريبية بين العلاجات النفسية لاضطراب الشخصية الحدّية: التجربة الأصلية للينهان وزملائها (Linehan et al., 1991) أظهرت انخفاضاً دالاً في تكرار السلوك الانتحاري وإيذاء الذات مقارنة بالعلاج المعتاد. يستعير الإطار جذوره المنهجية من نموذج حل المشكلات الاجتماعي الذي وضعه دورزيلا وغولدفريد (1971) في العلاج المعرفي السلوكي العام، وطبّقته لينهان بتعديلات خاصة تراعي اضطراب تنظيم الانفعال لدى مريضات BPD.
+
 ## المصادر
 
 - Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. New York: Guilford Press.
 - D'Zurilla, T. J., & Goldfried, M. R. (1971). Problem solving and behavior modification. *Journal of Abnormal Psychology*, 78(1), 107–126.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060–1064.

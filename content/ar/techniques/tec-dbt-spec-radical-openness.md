@@ -57,6 +57,12 @@ gaps:
 - بروتوكول متخصص لا يُستبدل بمهارات DBT القياسية لدى مرضى نقص الضبط.
 - يتطلب تدريباً منفصلاً عن تدريب DBT التقليدي، لاختلاف الفرضية النظرية الأساسية.
 
+## الجذور والتطور البحثي
+
+بنى لينش نموذجه على سلسلة تجارب سابقة له مع كبار السن المصابين باكتئاب مصحوب باضطراب شخصية، أظهرت جدوى دمج مبادئ القبول الجذري مع تدريب الانفتاح الاجتماعي، قبل أن يصوغ لاحقاً البروتوكول المتكامل RO-DBT الموجّه خصيصاً لاضطرابات فرط الضبط.
+
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+- Lynch, T. R. (2018). *Radically Open Dialectical Behavior Therapy: Theory and Practice for Treating Disorders of Overcontrol*. Oakland: New Harbinger Publications.
+- Lynch, T. R., Morse, J. Q., Mendelson, T., & Robins, C. J. (2003). Dialectical behavior therapy for depressed older adults: A randomized pilot study. *American Journal of Geriatric Psychiatry*, 11(1), 33–45.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. New York: Guilford Press.

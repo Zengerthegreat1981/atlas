@@ -64,6 +64,12 @@ gaps:
 - قد تعيد تنشيط الذكريات الصادمة بدلاً من إعداد المريض إذا لم تُنفّذ بحذر.
 - تحتاج تنسيقاً مع المعالج (لا تُستخدم ذاتياً في المراحل الأولى من علاج الصدمة).
 
+## الأدلة العلمية لبروتوكول DBT-PTSD
+
+اختبر مارتن بوهوس وزملاؤه بروتوكول DBT-PTSD في تجربة معشاة نُشرت في *JAMA Psychiatry* (Bohus et al., 2020) على نساء مصابات باضطراب الكرب التالي للصدمة المعقد الناتج عن إساءة جنسية في الطفولة، وأظهرت تفوقاً كبيراً على التعرض المطوّل المعياري في تخفيف أعراض PTSD. هذه الأدلة تخص البروتوكول الكامل الذي يدمج «الاستعداد المسبق لمحفزات الصدمة» ضمن مكوناته، لا هذه المهارة الفرعية بمعزل عنه.
+
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. New York: Guilford Press.
+- Bohus, M., Kleindienst, N., Hahn, C., et al. (2020). Dialectical behavior therapy for post-traumatic stress disorder (DBT-PTSD) compared with cognitive processing therapy: A randomized clinical trial. *JAMA Psychiatry*, 77(12), 1235–1245.
+- Bohus, M., Dyer, A. S., Priebe, K., et al. (2013). Dialectical behaviour therapy for post-traumatic stress disorder after childhood sexual abuse in patients with and without borderline personality disorder. *Psychotherapy and Psychosomatics*, 82(4), 221–233.

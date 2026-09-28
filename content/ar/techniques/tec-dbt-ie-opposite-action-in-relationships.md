@@ -59,6 +59,12 @@ gaps:
 - قد تستخدم في علاقات مؤذية حيث الفعل المعاكس (الصبر مع المسيء) قد يفاقم الإساءة.
 - في بعض المواقف، «الانسحاب» فعل معاكس صحيح (مثلاً: من علاقة عنيفة).
 
+## موقع المهارة ضمن الأدلة العلمية لـDBT
+
+لا توجد تجربة معشاة تعزل أثر هذا التطبيق العلائقي لـ«الفعل المعاكس» بمفرده عن باقي حزمة مهارات العلاقات، لكن البرنامج ككل يحظى بأقوى الأدلة التجريبية بين العلاجات النفسية لاضطراب الشخصية الحدّية: التجربة الأصلية للينهان وزملائها (Linehan et al., 1991) أظهرت انخفاضاً دالاً في تكرار السلوك الانتحاري وإيذاء الذات مقارنة بالعلاج المعتاد، وأكّد التحليل التلوي لكليم وكروغر وكوسفيلدر (Kliem, Kröger, & Kosfelder, 2010) حجم أثر معتدل للبرنامج عبر ست عشرة دراسة مستقلة، وهو ما يبرر تصنيف evidence_level هنا كـ«محتمَل الفعالية» على مستوى المهارة الفردية.
+
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. New York: Guilford Press.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060–1064.
+- Kliem, S., Kröger, C., & Kosfelder, J. (2010). Dialectical behavior therapy for borderline personality disorder: A meta-analysis using mixed-effects modeling. *Journal of Consulting and Clinical Psychology*, 78(6), 936–951.

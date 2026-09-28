@@ -60,6 +60,12 @@ gaps:
 - قد تستخدم مع مرضى الإدمان كبديل عن الفعل («أنا أعرف الإيجابيات والسلبيات، لكنني لا أستطيع التوقف»)، وهي حالة تستدعي تدخلاً إضافياً.
 - الإفراط في التحليل قد يؤخر الفعل في مواقف تتطلب سرعة.
 
+## موقع المهارة ضمن الأدلة العلمية لـDBT
+
+لا توجد تجربة معشاة تعزل أثر «الإيجابيات والسلبيات» بمفردها عن باقي حزمة مهارات تحمل الضغوط، لكن البرنامج ككل يحظى بأقوى الأدلة التجريبية بين العلاجات النفسية لاضطراب الشخصية الحدّية: التجربة الأصلية للينهان وزملائها (Linehan et al., 1991) أظهرت انخفاضاً دالاً في تكرار السلوك الانتحاري وإيذاء الذات مقارنة بالعلاج المعتاد، وأكّد التحليل التلوي لكليم وكروغر وكوسفيلدر (Kliem, Kröger, & Kosfelder, 2010) حجم أثر معتدل للبرنامج عبر ست عشرة دراسة مستقلة، وهو ما يبرر تصنيف evidence_level هنا كـ«تقليدي» على مستوى المهارة الفردية.
+
 ## المصادر
 
-لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. New York: Guilford Press.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060–1064.
+- Kliem, S., Kröger, C., & Kosfelder, J. (2010). Dialectical behavior therapy for borderline personality disorder: A meta-analysis using mixed-effects modeling. *Journal of Consulting and Clinical Psychology*, 78(6), 936–951.

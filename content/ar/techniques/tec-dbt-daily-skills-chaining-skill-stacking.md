@@ -69,6 +69,12 @@ gaps:
 
 التقنية جزء من منهج **العلاج الجدلي السلوكي (DBT)** الذي وضعته **مارشا لينهان** سنة 1993 أصلاً لعلاج **اضطراب الشخصية الحدّية (BPD)**، حيث السلوك المتهور غالباً نتاج فشل في تسلسل عدة مهارات معاً لا نقص مهارة واحدة فقط. تنافسها في بناء سلسلة استجابة للأزمة تقنية **منع الانتكاس (RP)** من مارلات، التي تبني خطة متعددة الخطوات لكن حول تجنّب الانتكاس في الإدمان تحديداً، لا حول الأزمة الانفعالية العامة.
 
+## موقع المهارة ضمن الأدلة العلمية لـDBT
+
+لا توجد تجربة معشاة تعزل أثر «تسلسل المهارات» بمفرده عن باقي حزمة مهارات DBT، لكن البرنامج ككل يحظى بأقوى الأدلة التجريبية بين العلاجات النفسية لاضطراب الشخصية الحدّية: التجربة الأصلية للينهان وزملائها (Linehan et al., 1991) أظهرت انخفاضاً دالاً في تكرار السلوك الانتحاري وإيذاء الذات مقارنة بالعلاج المعتاد، وأكّد التحليل التلوي لكليم وكروغر وكوسفيلدر (Kliem, Kröger, & Kosfelder, 2010) حجم أثر معتدل للبرنامج عبر ست عشرة دراسة مستقلة، وهو ما يبرر تصنيف evidence_level هنا كـ«تجريبي» على مستوى المهارة الفردية.
+
 ## المصادر
 
-لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. New York: Guilford Press.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060–1064.
+- Kliem, S., Kröger, C., & Kosfelder, J. (2010). Dialectical behavior therapy for borderline personality disorder: A meta-analysis using mixed-effects modeling. *Journal of Consulting and Clinical Psychology*, 78(6), 936–951.
