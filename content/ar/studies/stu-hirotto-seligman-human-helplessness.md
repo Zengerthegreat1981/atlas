@@ -42,10 +42,16 @@ gaps:
 
 ## مداخلُ الأطلس المتّصلة
 
-مداخلُ الأطلس المتّصلةُ بهذا المدخل (من حقل `related`) — وهي إحالاتٌ داخلية، لا مصادرُ خارجية:
+مداخلُ الأطلس المتّصلةُ بهذا المدخل — وهي إحالاتٌ داخلية، لا مصادرُ خارجية:
 
 - *العجز المكتسب (Helplessness)*
 
+## الخلفية التجريبية على الحيوان
+
+بنى هيروتو وسليجمان دراستهما البشرية على تجارب مارتن سليجمان الأصلية على الكلاب في الستينيات، حيث لاحظ أن الكلاب التي تعرضت لصدمات كهربائية لا يمكنها تجنبها فشلت لاحقاً في القفز فوق حاجز بسيط للهروب من صدمة جديدة يمكن تفاديها بسهولة، بخلاف كلاب لم تتعرض للصدمة الأولى غير القابلة للسيطرة. جاءت دراسة عام 1975 لاختبار ما إذا كانت هذه الظاهرة - "العجز المتعلم" - تنطبق أيضاً على البشر وتتعمم عبر أنواع مختلفة كلياً من المهام لا مجرد نفس نوع المثير.
+
 ## المصادر
 
-- Hiroto, D. S., & Seligman, M. E. P. (1975). "Generality of Learned Helplessness in Man." *Journal of Personality and Social Psychology*, 31(2), 311–327. DOI: 10.1037/h0076270
+- Hiroto, D. S., & Seligman, M. E. P., "Generality of Learned Helplessness in Man"، Journal of Personality and Social Psychology، 1975.
+- Martin E. P. Seligman، العجز المكتسب (Helplessness: On Depression, Development, and Death)، 1975.
+- Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D., "Learned Helplessness in Humans: Critique and Reformulation"، Journal of Abnormal Psychology، 1978.

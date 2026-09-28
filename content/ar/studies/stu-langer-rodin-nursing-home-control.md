@@ -41,6 +41,12 @@ gaps:
 
 تُعد الدراسة شاهداً تأسيسياً في علم النفس الصحي والوجودي، حيث برهنت على أن سلب الإرادة والاختيار يسرع التدهور البيولوجي والنفسي لدى الإنسان.
 
+## الأثر على علم النفس الصحي
+
+شكلت هذه الدراسة، إلى جانب أبحاث مارتن سليجمان عن العجز المكتسب، أساس ما يُعرف اليوم بـ"نموذج التحكم-الإجهاد" في علم النفس الصحي، والذي يفسر جزءاً كبيراً من الفروق في التدهور الصحي بين كبار السن بمدى شعورهم بالفاعلية والاختيار في بيئتهم اليومية، لا بعوامل طبية بحتة فقط. أثّرت النتائج لاحقاً في إعادة تصميم كثير من دور الرعاية لتشمل خيارات يومية حقيقية للنزلاء (وقت الأكل، ترتيب الغرفة، الأنشطة) بدل الروتين الموحد المفروض الذي كان سائداً في مؤسسات الرعاية التقليدية.
+
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+- Langer, E. J., & Rodin, J., "The Effects of Choice and Enhanced Personal Responsibility for the Aged: A Field Experiment in an Institutional Setting"، Journal of Personality and Social Psychology، 1976.
+- Rodin, J., & Langer, E. J., "Long-Term Effects of a Control-Relevant Intervention with the Institutionalized Aged"، Journal of Personality and Social Psychology، 1977.
+- Martin E. P. Seligman، العجز المكتسب (Helplessness: On Depression, Development, and Death)، 1975.
