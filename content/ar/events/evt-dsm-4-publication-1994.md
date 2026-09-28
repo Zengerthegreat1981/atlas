@@ -51,6 +51,16 @@ gaps:
 
 أصبح DSM-IV المرجع العالمي المعتمد لأكثر من عقدين في التجارب السريرية وتراخيص الأدوية والأنظمة القضائية والتأمينية الدولية.
 
+## نقد فرانسيس اللاحق لتضخم التشخيص
+
+من المفارقات اللافتة أن آلان فرانسيس نفسه، رئيس فريق عمل DSM-IV، أصبح لاحقاً من أشد منتقدي 'تضخم التشخيص النفسي' (diagnostic inflation) في كتابه Saving Normal (2013)، محذراً من أن بعض إضافات دليله الخاص (كاضطراب فرط الحركة ونقص الانتباه لدى البالغين واضطراب ثنائي القطب لدى الأطفال) أسهمت لاحقاً في توسع مفرط لاستخدام التشخيص والدواء في الممارسة اليومية أكثر مما توقعه فريقه الأصلي.
+
+## المراجعة النصية والانتقال إلى DSM-5
+
+صدرت مراجعة نصية لدليل DSM-IV (المعروفة بـ DSM-IV-TR) عام 2000 دون تغيير جوهري في المعايير التشخيصية، اقتصرت على تحديث النصوص الوصفية والبيانات الوبائية المرافقة لكل تشخيص. ظل هذا الإصدار المرجع الرسمي حتى حل محله DSM-5 عام 2013 بتغيير منهجي أعمق، شمل التخلي عن نظام المحاور الخمسة (Multiaxial System) الذي اعتمده DSM-III وDSM-IV منذ 1980.
+
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+- American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV), 1994.
+- Frances, A., Saving Normal: An Insider's Revolt Against Out-of-Control Psychiatric Diagnosis, DSM-5, Big Pharma, and the Medicalization of Ordinary Life, 2013.
+- Kirk, S. A., & Kutchins, H., The Selling of DSM: The Rhetoric of Science in Psychiatry, 1992.
