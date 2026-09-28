@@ -51,6 +51,10 @@ gaps:
 
 التدخلات السلوكية المعرفية (CBT) للقلق الرياضي لها دليل قوي. التصور الذهني (imagery) والكلام الذاتي (self-talk) لهما دعم تجريبي. علاج اضطرابات الأكل عند الرياضيين لا يزال تحدياً.
 
+## أدوات ومفاهيم شائعة
+
+يُستخدم التصور الذهني (Mental Imagery) لتمرين الأداء الحركي ذهنياً قبل التنفيذ الفعلي، بالاستناد إلى أبحاث النمذجة العصبية-العضلية. كما يُعتمد تحديد الأهداف وفق مبدأ SMART (محددة، قابلة للقياس، قابلة للتحقيق، واقعية، محددة زمنياً)، وتقنيات تنظيم الاستثارة (Arousal Regulation) للوصول إلى «منطقة الأداء الأمثل» التي وصفها يوري هانين بنظرية IZOF (Individual Zones of Optimal Functioning).
+
 ## نقد
 
 - **ممارسة غير مرخّصة**: كثير من «علماء نفس الرياضة» يعملون بدون رخصة إكلينيكية، ما يثير مخاوف أخلاقية.
@@ -59,4 +63,7 @@ gaps:
 
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- Ogilvie, B. C. & Tutko, T. A., Problem Athletes and How to Handle Them، 1966.
+- Nideffer, R. M., "Test of attentional and interpersonal style"، Journal of Personality and Social Psychology، 1976.
+- Weinberg, R. S. & Gould, D., Foundations of Sport and Exercise Psychology، 1995.
+- Hanin, Y. L., "Emotions in Sport"، 2000.

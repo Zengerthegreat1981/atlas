@@ -64,6 +64,12 @@ gaps:
 - **الإضرار الأخلاقي بالتسجيل**: متطلبات إشعار الجمهور (Megan's Law) قد تضر إعادة التأهيل.
 - **تعميم المعالجات**: برامج مُعتمدة تجارياً قد لا تستجيب لخصوصيات الحالة.
 
+## الأدلة التجريبية
+
+قدّم كارل هانسون مع مونيك بوسيير تحليلاً تلوياً واسعاً عام 1998 شمل عشرات الدراسات على معدلات الانتكاس الجنسي، محدداً عوامل الخطر الديناميكية والثابتة التي بُنيت عليها أدوات تقييم لاحقة مثل Static-99. كما طرح ويليام مارشال وهوارد بارباري نظرية متكاملة لنشأة الجرم الجنسي عام 1990 تربط بين التعلق المبكر المضطرب والعجز عن التنظيم الانفعالي وتشوهات معرفية محددة تبرر السلوك.
+
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- Hanson, R. K. & Bussière, M. T., "Predicting relapse: A meta-analysis of sexual offender recidivism studies"، Journal of Consulting and Clinical Psychology، 1998.
+- Marshall, W. L. & Barbaree, H. E., "An integrated theory of the etiology of sexual offending"، في Handbook of Sexual Assault، 1990.
+- Ward, T. & Stewart, C. A., "The relationship between human needs and offending: The Good Lives Model"، 2003.

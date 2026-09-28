@@ -41,10 +41,16 @@ gaps:
 - **صعوبة قراءة لغة الجسد**: خصوصاً في الجلسات النصّية.
 - **متطلبات تقنية**: اتصال إنترنت، خصوصية مكانية، إلمام المريض بالتقنية.
 
+## الاعتبارات الأخلاقية والتقنية
+
+تستوجب الممارسة عن بُعد إجراءات إضافية للتحقق من هوية المريض، وخطة طوارئ واضحة في حال حدوث أزمة أثناء الجلسة عن بعد (كتحديد أقرب رقم طوارئ محلي للمريض)، والتأكد من امتثال منصة الفيديو لمعايير حماية البيانات الصحية مثل HIPAA في الولايات المتحدة أو GDPR في أوروبا. كما تختلف الأنظمة القانونية بين الدول والولايات في اشتراط ترخيص المعالج في مكان إقامة المريض لا مكان إقامة المعالج فقط.
+
 ## النقاش المهني
 
 أصدرت APA وAPA Society of Clinical Psychology إرشاداتها للعلاج عن بُعد منذ 2013 (محدّثة في 2020 ثم 2024). الجدل المركزي: هل يمكن إنشاء «تحالف علاجي» (therapeutic alliance) فعّال عبر الشاشة؟ أغلب الأبحاث الحديثة تشير إلى تكافؤ في الفعالية مع العلاج الحضوري لمعظم الحالات، مع استثناءات (الأزمات الحادّة، الأطفال الصغار).
 
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Barak, A. et al., "A comprehensive review and a meta-analysis of the effectiveness of internet-based psychotherapeutic interventions"، Journal of Technology in Human Services، 2008.
+- APA, "Guidelines for the Practice of Telepsychology"، American Psychologist، 2013.
+- Fernandez, E. et al., "Live psychotherapy by video versus in-person: A meta-analysis of efficacy and its relationship to types and targets of treatment"، Clinical Psychology & Psychotherapy، 2021.

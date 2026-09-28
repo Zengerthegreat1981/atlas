@@ -56,16 +56,19 @@ gaps:
 - فان دورزن تتبنى الظاهراتية مع قبول اللاهوت اللاهوتي والهرمنيوطيقا.
 - سبينيلّي أكثر راديكالية: ظاهراتية صارمة، لا هرمنيوطيقا.
 
+## الصلة بالتراث الفلسفي
+
+يعود تشدد سبينيلّي المنهجي إلى مبدأ «الرجوع إلى الأشياء ذاتها» (Zu den Sachen selbst) الذي صاغه إدموند هوسرل مؤسس الفينومينولوجيا، ورفضه لأي تأويل يسبق الوصف المباشر للظاهرة كما تتبدى للوعي. بهذا المعنى يقترب سبينيلّي من الشق الوصفي لمشروع هوسرل أكثر من قربه من التأويلية الوجودية لدى هايدغر أو سارتر، وهو ما يفسر تسميته «ظاهراتياً» صرفاً لا «وجودياً-ظاهراتياً».
+
 ## الأثر
 
 - تأسيس «جمعية لندن للعلاج الظاهراتي» (London Association for the Practice of Phenomenological Psychology).
 - تأثير في البحوث النفسية النوعية (Qualitative Research).
 - تأثير في «العلاج التفسيري» (Interpretative Therapy) المعاصر.
 
-## المصدر
-
-سبينيلّي: *The Interpreted World* (1989) و*Demystifying Therapy* (1994) و*Tales Unfolding* (1999) و*Practising Existential Psychotherapy* (2007).
-
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- Spinelli, E., The Interpreted World: An Introduction to Phenomenological Psychology، 1989.
+- Spinelli, E., Demystifying Therapy، 1994.
+- Spinelli, E., Tales of Un-knowing: Therapeutic Encounters from an Existential Perspective، 1997.
+- Spinelli, E., Practising Existential Psychotherapy: The Relational World، 2007.

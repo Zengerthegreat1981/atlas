@@ -49,6 +49,12 @@ gaps:
 - **الاستقطاب**: بعض المرضى ينجذبون وبعضهم يرفضون شكل اللعب.
 - **الاعتماد التنظيمي**: SPARX حالياً class I medical device (CE mark)، ليست FDA-approved.
 
+## السياق الأوسع
+
+يندرج هذا التيار ضمن حركة أوسع لتوظيف التقنية الرقمية في الصحة النفسية، إلى جانب العلاج بالواقع الافتراضي والتطبيقات العلاجية الرقمية (Digital Therapeutics). ما يميّزه هو الاعتماد على آليات اللعب (نقاط، مستويات، سرد تفاعلي) كحاملٍ للمحتوى العلاجي بدل تقديمه في قالب تعليمي مباشر، بما يخفّف من وصمة طلب العلاج النفسي لدى المراهقين خصوصاً.
+
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- Merry, S. N. et al., "The effectiveness of SPARX, a computerised self help intervention for adolescents seeking help for depression: randomised controlled non-inferiority trial", BMJ، 2012.
+- Fleming, T. M. et al., "Serious Games and Gamification for Mental Health: Current Status and Promising Directions", Frontiers in Psychiatry، 2017.
+- Gazzaley, A. & Rosen, L. D., The Distracted Mind: Ancient Brains in a High-Tech World، 2016.

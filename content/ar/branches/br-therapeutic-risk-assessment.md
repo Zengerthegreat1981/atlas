@@ -49,10 +49,13 @@ gaps:
 
 ## المؤثرون
 
-- **James Hance** (لم أتحقق من مسيرته).
 - **Kirk Heilbrun** (Drexel University): تطوير SVP/NGRI.
 - **Randy Borum** (USF): منهجية SPJ.
-- **John Monahan**: أقدم منظّر علمي لتقييم المخاطر.
+- **John Monahan**: أقدم منظّر علمي لتقييم المخاطر، وقاد مشروع MacArthur لتقييم مخاطر العنف في التسعينيات.
+
+## مبدأ المخاطرة والحاجة والاستجابة
+
+يُعدّ إطار Risk-Need-Responsivity الذي صاغه دون أندروز وجيمس بونتا مرجعية مركزية في تصميم برامج التدخل: مبدأ المخاطرة يوجب مطابقة شدة العلاج بمستوى خطورة الفرد، ومبدأ الحاجة يوجه التدخل نحو العوامل الديناميكية القابلة للتغيير المرتبطة مباشرة بالسلوك الإجرامي (كالتفكير المؤيد للجريمة أو الارتباط بأقران منحرفين)، ومبدأ الاستجابة يقتضي تكييف أسلوب التدخل مع القدرات المعرفية والثقافية للفرد لضمان استيعابه للمحتوى العلاجي.
 
 ## نقد
 
@@ -63,4 +66,6 @@ gaps:
 
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- Webster, C. D., Douglas, K. S., Eaves, D. & Hart, S. D., HCR-20: Assessing Risk for Violence، Simon Fraser University، 1997.
+- Monahan, J. et al., Rethinking Risk Assessment: The MacArthur Study of Mental Disorder and Violence، 2001.
+- Hanson, R. K. & Thornton, D., "Static 99: Improving actuarial risk assessments for sex offenders"، 1999.

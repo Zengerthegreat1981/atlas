@@ -53,6 +53,15 @@ gaps:
 - **نزعة التحقق الذاتي ≠ الأنانية**: روجرز أصرّ أن التحقق الذاتي الصحي يأخذ بالضرورة شكل «الخدمة» و«المسؤولية الاجتماعية» (Social Responsibility).
 - **العقبات أمام التحقق الذاتي**: «شروط القبول» (Conditions of Worth) المفروضة من الأسرة والمجتمع، التي تُجبر الفرد على إنكار خبرة الفعلية للحفاظ على قبوله.
 
+## التطبيق الإكلينيكي
+
+يبني روجرز على هذا المفهوم أسلوبه في «العلاج المتمركز حول العميل» (Client-Centered Therapy): بما أن النزعة نحو التحقق موجودة أصلاً لدى كل عميل، فإن مهمة المعالج ليست توجيه العميل نحو حل بعينه، بل توفير الشروط الميسّرة الثلاثة — التطابق (Congruence)، والتقدير الإيجابي غير المشروط (Unconditional Positive Regard)، والفهم التعاطفي الدقيق (Accurate Empathic Understanding) — التي تتيح للنزعة الفطرية أن تعمل من تلقاء ذاتها دون عوائق دفاعية.
+
 ## المصادر
 
-- Rogers, C. (1951). *Client-Centered Therapy*.
+- Rogers, C. R., Client-Centered Therapy: Its Current Practice, Implications, and Theory، 1951.
+- Rogers, C. R., On Becoming a Person: A Therapist's View of Psychotherapy، 1961.
+- Rogers, C. R., A Way of Being، 1980.
+- Rogers, C. R., "A theory of therapy, personality, and interpersonal relationships"، في Psychology: A Study of a Science، Vol. 3، 1959.
+
+يبقى مفهوم نزعة التحقق الذاتي عند روجرز افتراضاً فلسفياً عن الطبيعة البشرية أكثر منه فرضية قابلة للاختبار التجريبي المباشر، وهو ما عرّضه لنقد من التوجهات التجريبية في علم النفس التي تشكك في وجود نزعة نمو فطرية موحدة، مقابل تعدد الدوافع البشرية المتصارعة أحياناً.

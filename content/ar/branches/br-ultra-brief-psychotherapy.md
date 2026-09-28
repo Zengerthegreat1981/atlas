@@ -54,6 +54,10 @@ gaps:
 - **Schleider (2019) في Journal of Clinical Child & Adolescent Psychology**: انخفاض في الاكتئاب وقلق الانفصال بعد جلسة واحدة موجهة بـself-compassion + growth mindset.
 - **Cully et al. (2017) في JAMA Psychiatry**: Ultra-brief CBT للمرضى الداخليين خفّف القلق والاكتئاب، وقلل زيارات الطوارئ.
 
+## آلية العمل المفترضة
+
+يفترض هذا التيار أن التغيير النفسي لا يتطلب بالضرورة تفكيك أسباب المشكلة بعمق، بل يكفي أحياناً تدخل مركّز في «نقطة حرجة» يعيد فيها الفرد تأطير مشكلته أو يكتسب مهارة تأقلم محددة، بالاستناد إلى فكرة «نظرية التغيير الحرج» المستعارة من نماذج العلاج المختصر الأسبق مثل نموذج مركز العلاج القصير في MRI بالو ألتو.
+
 ## نقد
 
 - **ليس لجميع الحالات**: المرضى مع اضطرابات شخصية أو تاريخ طويل من الصدمة يحتاجون أكثر.
@@ -62,4 +66,6 @@ gaps:
 
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- Schleider, J. L. & Weisz, J. R., "A single-session growth mindset intervention for adolescent anxiety and depression"، Journal of Child Psychology and Psychiatry، 2018.
+- Cully, J. A. et al., "Brief cognitive behavioral therapy in primary care: A hybrid type 2 patient-randomized effectiveness-implementation design"، Implementation Science، 2017.
+- Hofmann, S. G., "One-session treatments for specific phobias"، ضمن Handbook of Evidence-Based Practice، 2013.
