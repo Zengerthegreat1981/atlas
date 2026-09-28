@@ -38,9 +38,12 @@ gaps:
 
 سياسات «التبييض» لم تكن مجرد هندسة ديموغرافية، بل شكّلت أيديولوجيا نفسية-اجتماعية رسّخت تراتبية عرقية داخلية (تفضيل الأصل الأوروبي، ووصم الهوية الهندية والأفريقية بالتخلف البيولوجي)؛ وهو ما يجعل هذا السياق أقرب في تفسيره النفسي إلى دراسات التماهي الجمعي والتحيز الداخلي (in-group bias) وعلم نفس الاستعمار الداخلي منه إلى نظرية وضعية صارمة، وهي نقطة يجب أخذها بحذر عند تصنيف هذا السياق ضمن مدرسة "علم النفس الاجتماعي".
 
+## التجربة البرازيلية والمكسيكية في التعليم والجيش
+
+في البرازيل، تبنى الجيش والنخبة الجمهورية التي أطاحت بالإمبراطورية عام 1889 الوضعية الكونتية كعقيدة تأسيسية للجمهورية الوليدة، فصيغ شعار "النظام والتقدم" حرفياً على العلم الجديد، واعتُمدت الوضعية إطاراً لإصلاح التعليم والصحة العامة بوصفهما أداتي هندسة اجتماعية لضبط سكان بلد شاسع حديث العهد بإلغاء الرق (1888). وفي المكسيك، وظّف "العلمانيون" المحيطون بدياز إحصاءات النمو الاقتصادي وخطوط السكك الحديدية بوصفها برهاناً على نجاعة حكمهم الاستبدادي، مقابل قمع منظم لتمردات الفلاحين والشعوب الأصلية في يوكاتان وأواكساكا.
+
 ## المصادر
 
-- Zea, Leopoldo. *Positivism in Mexico*. University of Texas Press.
-- Library of Brown University, "Positivism," *Brazil: Five Centuries of Change* — https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-4/positivism/
-- "Flag of Brazil," Wikipedia — https://en.wikipedia.org/wiki/Flag_of_Brazil
-- Stanford Encyclopedia of Philosophy, "Latin American Philosophy" — https://plato.stanford.edu/entries/latin-american-philosophy/
+- Zea, Leopoldo. *Positivism in Mexico: Origin, Duration, and Doctrine* (ترجمة إنجليزية). University of Texas Press, 1974.
+- Skidmore, Thomas E. *Black into White: Race and Nationality in Brazilian Thought*. Oxford University Press, 1974.
+- Hale, Charles A. *The Transformation of Liberalism in Late Nineteenth-Century Mexico*. Princeton University Press, 1989.
