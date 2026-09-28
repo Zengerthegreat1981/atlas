@@ -39,6 +39,16 @@ gaps:
 
 يُقارَن TF-CBT غالباً بـ EMDR كبديل قائم على الأدلة لعلاج صدمة الأطفال. دراسة ديهله وزملاؤها (Diehle et al., 2015، نُشرت في European Child & Adolescent Psychiatry) قارنت البروتوكولين في عينة أطفال ومراهقين مصابين بـ PTSD، ووجدت فعالية متقاربة بين الطريقتين دون تفوق حاسم لأحدهما، مع كون TF-CBT الأوسع اعتماداً في الأدلة الإرشادية الدولية لعمقه في مكون الوالدية والتعرض التدريجي المهيكل.
 
+## دور الوالد غير المعتدي
+
+من السمات المميزة لـ TF-CBT، مقارنة بكثير من بروتوكولات صدمة الكبار، إشراكُ الوالد أو مقدّم الرعاية غير المعتدي في جلسات موازية منتظمة: يتلقى الوالد نفس مكونات التثقيف النفسي ومهارات إدارة السلوك وتنظيم الانفعال التي يتلقاها الطفل، ثم تُعقد جلسات مشتركة يشارك فيها الطفل قصته الصادمة مباشرة مع الوالد بإشراف المعالج. أظهرت الأبحاث أن دعم الوالد المُطَّلع والمتفهم يتنبأ بتحسّن أكبر في أعراض الطفل، لأن غياب هذا الدعم أو عدم تصديق الوالد للطفل من أقوى عوامل استمرار الأعراض بعد الكشف عن الاعتداء.
+
+## نطاق الانتشار والتكييف الثقافي
+
+انتشر TF-CBT دولياً عبر مبادرة National Child Traumatic Stress Network الأمريكية التي أشرفت على تدريب آلاف المعالجين، كما طُوّرت نسخ مُكيَّفة ثقافياً منه في بلدان عدة (منها تجارب في مناطق نزاع بأفريقيا وآسيا) للتعامل مع صدمات جماعية كالحروب والنزوح، مع تعديل أمثلة السردية الصادمة والتثقيف النفسي لتناسب السياق الاجتماعي والديني المحلي دون المساس ببنية البروتوكول الأساسية.
+
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Cohen, J. A., Mannarino, A. P., & Deblinger, E. (2006). *Treating Trauma and Traumatic Grief in Children and Adolescents*. Guilford Press.
+- Cohen, J. A., Deblinger, E., Mannarino, A. P., & Steer, R. A. (2004). "A Multisite, Randomized Controlled Trial for Children with Sexual Abuse-Related PTSD Symptoms." *Journal of the American Academy of Child and Adolescent Psychiatry*, 43(4), 393–402.
+- Diehle, J., Opmeer, B. C., Boer, F., Mannarino, A. P., & Lindauer, R. J. L. (2015). "Trauma-Focused Cognitive Behavioral Therapy or Eye Movement Desensitization and Reprocessing: What Works in Children with Posttraumatic Stress Symptoms?" *European Child & Adolescent Psychiatry*, 24(2), 227–236.

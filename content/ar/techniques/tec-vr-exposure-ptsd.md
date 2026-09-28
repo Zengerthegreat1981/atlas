@@ -44,6 +44,16 @@ gaps:
 - **Cybersickness**: نحو 5-10% من المستخدمين يعانون من غثيان أو صداع.
 - **ليست للجميع**: بعض المرضى يجدون المشهد الافتراضي «غير حقيقي بما يكفي» ليشعروا بالانغماس.
 
+## من رهاب الطيران إلى صدمة القتال
+
+سبق نظامَ Bravemind العسكري تطبيقُ VR في علاج رهاب الطيران والمرتفعات في التسعينيات على يد باربارا روثباوم وزملائها، وهو ما أثبت جدوى مبدأ "التعرض المتحكَّم افتراضياً" قبل أن يطوّر ألبرت ريزو النسخة العسكرية المتخصصة بعد حربي أفغانستان والعراق، حين تبيّن أن كثيراً من قدامى المحاربين يعانون صعوبة استحضار تفاصيل حسية كافية للمشهد القتالي أثناء التعرض التخيلي التقليدي (Imaginal Exposure)، فجاء التمثيل البصري والسمعي والاهتزازي (منصات تهتز، رائحة البارود المحاكاة) ليعوّض هذا القصور.
+
+## اعتماد الجيش الأمريكي والتوسع المؤسسي
+
+تبنّت وزارة الدفاع الأمريكية ومراكز طب الأسرة العسكرية نظام Bravemind ضمن برامج علاج قدامى المحاربين، ونُشرت دراسات متابعة إضافية بعد McLay وزملائه وسّعت العينات ضمن منشآت طبية عسكرية متعددة، وإن ظلت التجارب العشوائية الكبيرة محدودة العدد مقارنة بحجم اعتماد PE التقليدي.
+
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Rizzo, A. A., Difede, J., Rothbaum, B. O., et al. (2010). "Development and Early Evaluation of the Virtual Iraq/Afghanistan Exposure Therapy System for Combat-Related PTSD." *Annals of the New York Academy of Sciences*, 1208(1), 114–125.
+- McLay, R. N., Wood, D. P., Webb-Murphy, J. A., et al. (2011). "A Randomized, Controlled Trial of Virtual Reality-Graded Exposure Therapy for Post-Traumatic Stress Disorder in Active Duty Service Members." *Journal of Traumatic Stress*, 24(6), 640–648.
+- Foa, E. B., Hembree, E. A., & Rothbaum, B. O. (2007). *Prolonged Exposure Therapy for PTSD: Emotional Processing of Traumatic Experiences*. Oxford University Press.

@@ -46,6 +46,17 @@ gaps:
 - **اضطراب الاكتئاب الجسيم (حجر — انظر dis-mdd)** — الاضطراب المستهدف الأبرز في أبحاث فعالية هذه التقنية، خصوصاً في حالات الاكتئاب المصحوب بجلد ذات حاد.
 - **العلاج المرتكز على الشفقة (CFT)** — التقنية المنافسة من مدرسة مختلفة: CFT تعالج نفس ظاهرة النقد الذاتي القاسي عبر بناء «الذات المتراحمة» تدريجياً بدل مواجهة الجزء الناقد مباشرة كما في حوار الكرسيين.
 
+## من الجشطلت إلى نموذج المهام العلاجية
+
+طوّر فريتز بيرلز تقنية "الكرسي الفارغ" وحوار الكراسي في العلاج الجشطلتي كأداة عامة لتجسيد الانقسامات الداخلية وتحقيق "الوعي التام" (Awareness) بالتجربة الحاضرة. أعاد ليزلي غرينبرغ وزملاؤه صياغتها منهجياً ضمن ما يسمى "تحليل المهام" (Task Analysis)، بحيث تحوّلت من تدخل جشطلتي انطباعي إلى بروتوكول محدد الخطوات يُستدعى فقط حين يُبدي المسترشد "علامة مهمة" (Task Marker) واضحة تدل على انقسام ذاتي نقدي، ثم يُقيَّم نجاح الجلسة وفق معايير حل محددة (مثل ظهور تعاطف ذاتي أصيل أو تليين موقف الناقد الداخلي) بدل الاكتفاء بالانطباع العام.
+
+## الدليل التجريبي
+
+إلى جانب دراسات واتسون وزملائه (2003) التي قارنت EFT بالـ CBT في الاكتئاب، فحصت دراسات غرينبرغ وواتسون (Greenberg & Watson, 1998) والعمل التحليلي لغولدمان وغرينبرغ وأنغوس (2006) تتبعاً دقيقاً لجلسات حوار الكرسيين، ووجدت ارتباطاً بين حل الانقسام الذاتي داخل الجلسة وتحسّن أعراض الاكتئاب وتراجع النقد الذاتي على مقاييس ما بعد العلاج.
+
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- Perls, F. S. (1969). *Gestalt Therapy Verbatim*. Real People Press.
+- Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating Emotional Change: The Moment-by-Moment Process*. Guilford Press.
+- Watson, J. C., Gordon, L. B., Stermac, L., Kalogerakos, F., & Steckley, P. (2003). "Comparing the Effectiveness of Process-Experiential with Cognitive-Behavioral Psychotherapy in the Treatment of Depression." *Journal of Consulting and Clinical Psychology*, 71(4), 773–781.
+- Goldman, R. N., Greenberg, L. S., & Angus, L. (2006). "The Effects of Adding Emotion-Focused Interventions to the Client-Centered Relationship in the Treatment of Depression." *Psychotherapy Research*, 16(5), 537–549.
