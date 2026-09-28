@@ -39,6 +39,16 @@ gaps:
 
 قارنت دراسة غرينبرغ وواطسون (Greenberg & Watson, 1998) في مجلة *Psychotherapy Research* بين العلاج التجريبي-العملياتي والعلاج المتمركز حول العميل غير التوجيهي في علاج الاكتئاب الجسيم، ووجدت تفوقاً للمجموعة الأولى في خفض الأعراض وتحسين تقدير الذات عند المتابعة.
 
+## مفهوم "العلامات الإجرائية" (Markers)
+
+الفكرة المنهجية المركزية عند غرينبرغ ورايس وإليوت هي أن العميل يصدر أثناء الجلسة "علامات" لفظية أو غير لفظية تدل على نوع معين من الصراع الداخلي جاهز للمعالجة الآن (كتناقض واضح بين شقين من الذات، أو تعبير غامض عن مشاعر غير مكتملة تجاه شخص مهم)؛ ومهارة المعالج الأساسية هي التقاط هذه العلامة وتقديم "المهمة" التجريبية المطابقة لها بدل تطبيق تقنية موحدة بصرف النظر عن حالة العميل اللحظية — وهو ما يميّز هذا النموذج عن كثير من بروتوكولات CBT ذات الخطوات الثابتة.
+
+## من غرينبرغ إلى EFT
+
+بحلول أواخر التسعينيات ومطلع الألفية أعاد ليزلي غرينبرغ تسمية مقاربته إلى "العلاج المرتكز على العاطفة" (Emotion-Focused Therapy - EFT)، موسّعاً تطبيقها من الفرد إلى علاج الأزواج (EFT for Couples بالتعاون مع سو جونسون بمسار موازٍ)، مع الحفاظ على نفس الجهاز التقني للكرسيين والكرسي الفارغ ونظرية "المعالجة الانفعالية" التي تفترض أن تحويل الانفعال يحدث بالانفعال لا بالحديث عنه فقط.
+
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+- Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating Emotional Change: The Moment-by-Moment Process*. Guilford Press.
+- Greenberg, L. S., & Watson, J. C. (1998). *Experiential Therapy of Depression: Differential Effects of Client-Centered Relationship Conditions and Process Experiential Interventions*. Psychotherapy Research.
+- Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2004). *Learning Emotion-Focused Therapy: The Process-Experiential Approach to Change*. American Psychological Association.

@@ -40,6 +40,16 @@ gaps:
 
 في دراسة فوا وزملائها المنشورة عام 1999 (Foa, Dancu, Hembree, Jaycox, Meadows & Street) في *Journal of Consulting and Clinical Psychology* على ضحايا اعتداء جنسي وجسدي من النساء، تفوّق PE وحده وبالجمع مع تدريب التلقيح ضد الضغط (Stress Inoculation Training) على قائمة الانتظار في خفض أعراض PTSD، دون تفوق واضح للجمع بين التقنيتين على PE منفرداً — وهو ما رسّخ استخدام PE بمفرده كبروتوكول قائم بذاته. توسّعت مراجعات لاحقة معتمدة من جمعية علم النفس الأمريكية لتصنّف PE ضمن العلاجات «راسخة الفعالية جيداً» (well-established) لـPTSD، بالتوازي مع علاج المعالجة المعرفية (tec-cpt) الذي يركّز على تصحيح المعتقدات بدل التعرض المباشر، وEMDR الذي يستبدل السرد المطوّل بالتحفيز الثنائي.
 
+## بنية الجلسات
+
+يمتد البروتوكول القياسي بين 8 إلى 15 جلسة أسبوعية مدة كل منها 90 دقيقة تقريباً، وتشمل: التثقيف النفسي حول طبيعة PTSD وآلية التعافي، تدريباً على التنفس الاسترخائي، التعرض التخيلي المتكرر (سرد الذكرى الصادمة بصوت عالٍ وعينين مغمضتين لمدة تصل إلى 45 دقيقة داخل الجلسة مع تسجيلها للاستماع كواجب منزلي)، والتعرض الحي المتدرج (In Vivo) للمواقف والأماكن المتجنبة يومياً بين الجلسات وفق تسلسل هرمي للصعوبة يبنيه المريض والمعالج معاً.
+
+## القيود والانتقادات
+
+يُعاب على PE ارتفاع معدلات الانقطاع المبكر عن العلاج (Dropout) لدى بعض المرضى بسبب شدة الانزعاج المصاحب لاستعادة الذكرى الصادمة بتفصيل، وهو ما دفع لتطوير بدائل أقل اعتماداً على السرد المباشر مثل EMDR وعلاج المعالجة المعرفية، رغم أن الأدلة التجريبية المجمّعة لا تُظهر عموماً تفوقاً حاسماً لأي من هذه البروتوكولات على الأخرى في متوسط النتائج النهائية.
+
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Foa, E. B., Hembree, E. A., & Rothbaum, B. O. (2007). *Prolonged Exposure Therapy for PTSD: Emotional Processing of Traumatic Experiences*. Oxford University Press.
+- Foa, E. B., & Kozak, M. J. (1986). *Emotional Processing of Fear: Exposure to Corrective Information*. Psychological Bulletin.
+- Foa, E. B., et al. (1999). *A Comparison of Exposure Therapy, Stress Inoculation Training, and Their Combination for Reducing Posttraumatic Stress Disorder in Female Assault Victims*. Journal of Consulting and Clinical Psychology.
