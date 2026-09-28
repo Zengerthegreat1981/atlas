@@ -5,8 +5,8 @@ type: "دراسة وبحث"
 part: "anthropology"
 ethnographic_region: "various"
 level: "متقدم"
-title: "طقوسُ اللّيلي (The Forest of Symbols Among the Lele)"
-en: "The Forest of Symbols Among the Lele"
+title: "غابةُ الرموز: طقوسُ الندمبو (The Forest of Symbols: Ndembu Ritual)"
+en: "The Forest of Symbols: Aspects of Ndembu Ritual"
 publication_year: 1967
 study_year: 1965
 design: "دراسةٌ إثنوغرافيةٌ أساسية في تاريخِ الأنثروبولوجيا."
@@ -17,7 +17,7 @@ edges: []
 related: []
 gaps: []
 ---
-# طقوسُ اللّيلي (The Forest of Symbols Among the Lele)
+# غابةُ الرموز: طقوسُ الندمبو (The Forest of Symbols: Ndembu Ritual)
 
 ## التعريف
 
