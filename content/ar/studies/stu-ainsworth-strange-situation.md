@@ -43,6 +43,13 @@ gaps:
 
 أكدت الأبحاث اللاحقة أن الموقف الغريب يعكس أسلوب التعلّق الفعلي بدقة، لكنه يحتاج مراعاة للفروق الثقافية ومزاج الطفل الفطري (Temperament) الذي قد يؤثر في شدة استجابته للضغط.
 
+## التطور اللاحق: النمط الرابع وأثره العابر للأجيال
+
+أضافت ماري مين (Mary Main) وزميلتها جودي سولومون عام 1986 نمطاً رابعاً هو "التعلّق غير المنظم/المربك" (Disorganized/Disoriented Attachment - Type D)، إذ لاحظتا أن بعض الرضع يُظهرون سلوكيات متناقضة ومتجمدة (اقتراب ثم تجمد مفاجئ، أو تعبيرات خوف من الوالد نفسه الذي يُفترض أن يكون مصدر الأمان)، وربطتا هذا النمط لاحقاً بتاريخ إساءة أو اضطراب نفسي حاد لدى مقدم الرعاية. كما طورت ماري مين "مقابلة التعلّق للبالغين" (Adult Attachment Interview) لقياس "الحالة الذهنية" للوالدين تجاه تعلّقهم الخاص في طفولتهم، وأثبتت أبحاثها الانتقال البيّن للأنماط عبر الأجيال (Intergenerational Transmission of Attachment).
+
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). *Patterns of Attachment: A Psychological Study of the Strange Situation*. Lawrence Erlbaum.
+- Ainsworth, M. D. S., & Wittig, B. A. (1969). "Attachment and Exploratory Behavior of One-Year-Olds in a Strange Situation." In B. M. Foss (Ed.), *Determinants of Infant Behaviour IV*. Methuen.
+- Main, M., & Solomon, J. (1986). "Discovery of a New, Insecure-Disorganized/Disoriented Attachment Pattern." In T. B. Brazelton & M. Yogman (Eds.), *Affective Development in Infancy*. Ablex.
+- Van IJzendoorn, M. H., & Kroonenberg, P. M. (1988). "Cross-Cultural Patterns of Attachment: A Meta-Analysis of the Strange Situation." *Child Development*, 59(1), 147–156.

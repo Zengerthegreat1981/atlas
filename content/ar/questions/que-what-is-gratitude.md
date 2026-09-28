@@ -60,6 +60,13 @@ gaps:
 - **علاقات** (Relationships): امتنان يعزز اتصال.
 - **مرونة** (Resilience): امتنان يزيد مرونة «بعد صدمة».
 
+## الامتنان والحمد في التراث العربي الإسلامي
+
+يحتل "الشكر" مكانة مركزية في التراث الإسلامي بوصفه أعلى من مجرد انفعال عابر: يفرّق الغزالي في *إحياء علوم الدين* بين ثلاثة أركان للشكر — العلم بالنعمة ومصدرها، والحال الوجداني (الفرح والابتهاج بها)، والعمل (توظيف النعمة فيما خلقت له) — وهو تقسيم يوازي تقريباً تفريق علم النفس المعاصر بين المكون المعرفي والانفعالي والسلوكي للامتنان. ويُفتتح القرآن بـ"الحمد لله رب العالمين"، ويرد التحذير من كفران النعمة في آيات عديدة، مما يجعل الشكر فضيلة دينية وأخلاقية مركزية لا حالة نفسية عارضة فحسب، بخلاف بعض الطرح الغربي الذي يعامله كمهارة قابلة للتدريب المعزول عن سياقها الغائي.
+
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ ينصح بإضافته عند إتاحة مراجع أولية موثوقة.
+- Emmons, R. A., & McCullough, M. E. (2003). "Counting Blessings versus Burdens: An Experimental Investigation of Gratitude and Subjective Well-Being in Daily Life." *Journal of Personality and Social Psychology*, 84(2), 377–389.
+- McCullough, M. E., Kilpatrick, S. D., Emmons, R. A., & Larson, D. B. (2001). "Is Gratitude a Moral Affect?" *Psychological Bulletin*, 127(2), 249–266.
+- Fredrickson, B. L. (2004). "Gratitude, Like Other Positive Emotions, Broadens and Builds." In R. A. Emmons & M. E. McCullough (Eds.), *The Psychology of Gratitude*. Oxford University Press.
+- أبو حامد الغزالي، *إحياء علوم الدين*، كتاب الصبر والشكر، (طبعة دار المعرفة، بيروت، 1982).
