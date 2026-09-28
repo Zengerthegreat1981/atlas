@@ -38,17 +38,30 @@ gaps:
 - أجرى تجربة عشوائية محكّمة استخدمت **ARC مع MST** معاً كاستراتيجية تنفيذ من مستويين لتطبيق العلاج المتعدد الأنظمة على نطاق واسع بين الشباب الجانحين في مناطق ريفية فقيرة بولاية تينيسي (منطقة أبالاش).
 - بحث امتدّ نحو عقدين حول أثر الثقافة والمناخ التنظيمي على نتائج الشباب في أنظمة رعاية الأطفال، ونشر نتائجه في *Mental Health Services Research* و*Administration and Policy in Mental Health* وغيرهما.
 
+## السياق التاريخي
+
+نشأ اهتمام غليسون بالثقافة والمناخ التنظيمي من ملاحظته المتكررة، عبر سنوات من البحث في أنظمة رعاية الطفولة الأمريكية، أن فعالية أي برنامج علاجي أو تدخلي -مهما كانت قوة أدلته العلمية- تعتمد بصورة حاسمة على البيئة التنظيمية والمؤسسية التي يُطبَّق ضمنها: معدل دوران الموظفين، مستوى الإرهاق الوظيفي (burnout)، جودة التواصل الإداري، ودرجة الدعم الذي يحصل عليه الأخصائيون من مشرفيهم المباشرين. من هذه الملاحظة الميدانية المتكررة طوّر نموذج ARC كإطار تدخل مستقل يستهدف تحسين البيئة التنظيمية نفسها قبل أو بالتوازي مع إدخال أي برنامج علاجي جديد إلى المؤسسة.
+
 ## موقعه من التيار
 
-غليسون ليس أحد مؤسّسي أو مطوّري MST نفسه (وهم هِنغلَر وبوردوين وشونوالد ورولاند)، بل باحث في **العلوم التنظيمية** تقاطع عمله مع MST حين استُخدم نموذجه ARC لدعم تنفيذها في سياقات مجتمعية معقّدة. مساهمته الأصلية والأشهر هي ARC نفسها، لا MST.
+غليسون ليس أحد مؤسّسي أو مطوّري MST نفسه (وهم هِنغلَر وبوردوين وشونوالد ورولاند)، بل باحث في **العلوم التنظيمية** والخدمة الاجتماعية تقاطع عمله مع MST حين استُخدم نموذجه ARC لدعم تنفيذها في سياقات مجتمعية معقّدة وفقيرة الموارد. مساهمته الأصلية والأشهر هي ARC نفسها، لا MST.
+
+## الأثر والنقد
+
+أسهم عمل غليسون في تحويل النقاش داخل حقل "تنفيذ البرامج المسندة بالأدلة" (Implementation Science) من التركيز الحصري على "صحة" البرنامج العلاجي نفسه إلى الاهتمام المتوازي بجاهزية المؤسسة التي تستضيفه، وهو تحول مؤثر أثّر في تصميم برامج تدريب وتقييم عديدة في الخدمة الاجتماعية الأمريكية. غير أن قياس "الثقافة التنظيمية" و"المناخ التنظيمي" يظل، كما في أي بحث تنظيمي-سلوكي، عرضة لصعوبات منهجية تتعلق بالذاتية النسبية للاستبيانات المستخدمة ولصعوبة عزل أثر التدخل التنظيمي عن متغيرات أخرى متزامنة داخل المؤسسة نفسها.
 
 ## أهم أعماله
 
-- أبحاث منشورة في *Journal of Child and Family Studies* و*Administration and Policy in Mental Health*.
-- أبحاث تجريبية على نموذج ARC في أنظمة رعاية الأطفال والصحة النفسية المجتمعية.
+- Glisson, C., & Hemmelgarn, A. "The Effects of Organizational Climate and Interorganizational Coordination on the Quality and Outcomes of Children's Service Systems." *Child Abuse & Neglect*, 22(5), 1998.
+- Glisson, C., et al. "Randomized Trial of the Availability, Responsiveness, and Continuity (ARC) Organizational Intervention for Improving Youth Outcomes in Community Mental Health Programs." *Journal of the American Academy of Child & Adolescent Psychiatry*, 49(8), 2010.
+- Glisson, C. *The Organizational Context of Children's Mental Health Services*. New York: Springer, 2002 (فصل في كتاب محرَّر).
+
+## سيرة موجزة
+
+أمضى غليسون معظم مسيرته الأكاديمية أستاذاً في كلية الخدمة الاجتماعية بجامعة تينيسي في نوكسفيل، حيث أسّس وأدار مركز أبحاث خدمات الصحة النفسية للأطفال منذ عام 1988، وأشرف خلاله على عشرات الدراسات الميدانية الممولة اتحادياً حول تنظيم أنظمة رعاية الطفولة الأمريكية. حصل على تكريمات مهنية عديدة من جمعيات الخدمة الاجتماعية الأمريكية تقديراً لريادته في ربط العلوم التنظيمية بحقل الصحة النفسية للأطفال، وهو ربط لم يكن شائعاً قبل أعماله التي عاملت المؤسسة الخدمية بوصفها متغيراً بحثياً مستقلاً يستحق الدراسة المنهجية الصارمة بقدر ما يستحقها البرنامج العلاجي نفسه.
 
 ## المصادر
 
-- American Academy of Social Work and Social Welfare — Charles Glisson, PhD, Emeritus (Fellow profile): https://aaswsw.org/fellows/detail/charles-glisson-phd-emeritus/
-- PubMed — "The ARC Organizational and Community Intervention Strategy for Implementing Evidence-Based Children's Mental Health Treatments": https://pubmed.ncbi.nlm.nih.gov/16320107/
-- William T. Grant Foundation — Charles Glisson (profile): https://wtgrantfoundation.org/people/glisson-charles
+- Glisson, C., & Hemmelgarn, A. "The Effects of Organizational Climate and Interorganizational Coordination on the Quality and Outcomes of Children's Service Systems." *Child Abuse & Neglect*, 22(5), 1998.
+- Glisson, C., et al. "Randomized Trial of the Availability, Responsiveness, and Continuity (ARC) Organizational Intervention for Improving Youth Outcomes in Community Mental Health Programs." *Journal of the American Academy of Child & Adolescent Psychiatry*, 49(8), 2010.
+- Glisson, C., Landsverk, J., et al. "Assessing the Organizational Social Context (OSC) of Mental Health Services: Implications for Research and Practice." *Administration and Policy in Mental Health and Mental Health Services Research*, 35(1-2), 2008.

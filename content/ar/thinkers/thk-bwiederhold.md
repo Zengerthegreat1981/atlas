@@ -25,30 +25,40 @@ gaps:
 
 # بريندا فيدرهولد
 
-أخصائية نفسية إكلينيكية (دكتوراه في علم النفس الصحّي الإكلينيكي، وليست طبيبة بمعنى حائزة درجة MD)، مؤسسة "Interactive Media Institute" (معهد غير ربحي) و"International CyberPsychology, CyberTherapy & Social Networking Conference"، ورئيسة تحرير مجلة "Cyberpsychology, Behavior, and Social Networking" (المجلة الرئيسية في الحقل، تصدر عن Mary Ann Liebert / SAGE). اشتُهرت بدورها في تأسيس VR العلاجية كحقل بحثي وأكاديمي مستقل، وهي أيضاً المديرة التنفيذية لـ"Virtual Reality Medical Center" (VRMC) ومحاضِرة إكلينيكية في قسم الطب النفسي بجامعة UCSD.
+باحثة أمريكية وأخصائية نفسية إكلينيكية (دكتوراه في علم النفس الصحّي الإكلينيكي، وليست طبيبة بمعنى حائزة درجة MD)، مؤسسة "Interactive Media Institute" (معهد غير ربحي) و"International CyberPsychology, CyberTherapy & Social Networking Conference"، ورئيسة تحرير مجلة "Cyberpsychology, Behavior, and Social Networking" (المجلة الرئيسية في الحقل، تصدر عن Mary Ann Liebert / SAGE). اشتُهرت بدورها في تأسيس VR العلاجية كحقل بحثي وأكاديمي مستقل، وهي أيضاً المديرة التنفيذية لـ"Virtual Reality Medical Center" (VRMC) ومحاضِرة إكلينيكية في قسم الطب النفسي بجامعة UCSD.
+
+## السياق التاريخي
+
+نشأ العلاج بالواقع الافتراضي (VRT) في تسعينيات القرن العشرين حين بدأت مختبرات جامعية أمريكية (جورجيا، واشنطن) تختبر محاكاة رقمية لمواقف مثيرة للقلق (كالطيران أو المرتفعات) بديلاً عن التعرض التخيّلي التقليدي في العلاج السلوكي المعرفي. دخلت فيدرهولد هذا الحقل في أواخر التسعينيات من خلفية بحثية في علم النفس الصحي، وأسّست عام 1997 مع مارك فيدرهولد مركز VRMC في سان دييغو، ثم المعهد التفاعلي للإعلام (Interactive Media Institute) الذي صار منصة رئيسية لتمويل أبحاث VR العلاجية ونشرها. جاء هذا التأسيس في سياق تحوّل أوسع في التسعينيات نقل تقنيات المحاكاة من الاستخدامات العسكرية والطيرانية إلى التطبيقات الطبية والنفسية، إذ استعارت الفرق البحثية الأولى معدّات محاكاة الطيران والألعاب لبناء بيئات علاجية مضبوطة يمكن التحكم في متغيراتها بدقة أكبر من التعرض الواقعي.
 
 ## ما أعطته
 
-- **"CyberPsychology, Behavior & Social Networking"**: مجلة محورية نشرت مئات الأبحاث في VR العلاجي.
+- **"CyberPsychology, Behavior & Social Networking"**: مجلة محورية نشرت مئات الأبحاث في VR العلاجي وأثر الشبكات الاجتماعية والألعاب الرقمية على السلوك.
 - **كتب مرجعية**: *Virtual Reality Therapy for Anxiety Disorders: Advances in Evaluation and Treatment* (2004/2005، مع مارك فيدرهولد)، *Virtual Healing* (2003).
-- **"Annual CyberPsychology Conference"** وفعاليات أخرى ضخمة لتأسيس شبكة الباحثين.
-- **بحوث في تطبيقات الواقع الافتراضي**: العلاج الرقمي، واضطراب الألعاب، وإدارة الألم.
+- **"Annual CyberPsychology Conference"** وفعاليات أخرى لتأسيس شبكة باحثين دولية تربط الأطباء النفسيين بمهندسي البرمجيات ومصممي المحاكاة.
+- **بحوث تطبيقية**: توظيف الواقع الافتراضي في علاج اضطرابات القلق والرهاب (الطيران، القيادة، الأماكن المرتفعة)، وفي إدارة الألم المزمن أثناء الإجراءات الطبية، وفي دراسة اضطراب الألعاب الرقمية المفرطة.
+- **دعم القياسات الحيوية** (biofeedback) داخل جلسات التعرض الافتراضي، بحيث يتابع المعالج معدل ضربات القلب والتوتر العضلي أثناء التعرض المتدرّج.
+- **تدريب إكلينيكيين** على دمج أدوات القياس الفسيولوجي مع بيئات المحاكاة، ونشر بروتوكولات عملية موجهة للممارسين خارج الدوائر الأكاديمية الضيقة.
 
 ## موقعها من التيار
 
-تقف فيدرهولد عند ملتقى الطب النفسي، التكنولوجيا، والنشر الأكاديمي. تأثيرها مؤسسي أكثر منه سريري: هيمنت على إنشاء البنية التحتية للنشر والمؤتمرات في الحقل.
+تقف فيدرهولد عند ملتقى الطب النفسي الإكلينيكي، وهندسة التفاعل الرقمي المعاصرة، والنشر الأكاديمي المتخصص. تأثيرها مؤسسي أكثر منه سريري: هيمنت على إنشاء البنية التحتية للنشر والمؤتمرات في حقل نشأ متأخراً وكان يفتقر إلى دورية مرجعية موحّدة قبل أن تتولى تحرير سايكولوجيا الفضاء الإلكتروني. ساعد هذا الدور المؤسسي على تحويل VR العلاجي من تجارب مختبرية متفرقة إلى مجال بحثي معترف به له مؤتمراته ومعاييره الخاصة في التقييم والفعالية.
 
 ## أهم أعمالها
 
-- *Virtual Reality Therapy for Anxiety Disorders* (2005).
-- *Virtual Healing* (2003) — لا يوجد كتاب موثَّق بعنوان "3DV: 3D Virtual Healing" كما كان مكتوباً سابقاً؛ العنوان الصحيح المتوفر في السجلات هو "Virtual Healing".
-- مقالات متعددة في CyberPsychology.
+- *Virtual Reality Therapy for Anxiety Disorders: Advances in Evaluation and Treatment* (2005، مع مارك فيدرهولد).
+- *Virtual Healing* (2003).
+- مقالات محررة ومراجَعة عديدة في مجلة Cyberpsychology, Behavior, and Social Networking منذ تأسيسها.
 
 ## القيد
-- **مجلة CyberPsychology** تتطلب تقييم أمانة تحريري دقيق، خاصة مع التوسّع التجاري.
+
+مجلة CyberPsychology تتطلب تقييم أمانة تحريري دقيق، خاصة مع التوسّع التجاري لمؤتمرات الحقل، وقد وُجّه لبعض هذه الفعاليات نقد بسبب طابعها الترويجي أكثر من كونها منصات بحثية صرفة. كما أن كثيراً من أبحاث الحقل يعتمد على عيّنات صغيرة ودراسات حالة أكثر من التجارب العشوائية المحكمة واسعة النطاق، وهو ما يجعل الحكم على فعالية VR العلاجي أضعف مقارنة بالتعرض التخيّلي أو الحيّ الكلاسيكيين رغم انتشاره الواسع.
+
+## الأثر والنقد
+
+أسهم عمل فيدرهولد المؤسسي في دفع هيئات مهنية أمريكية (كجمعية علم النفس الأمريكية APA) إلى الاعتراف تدريجياً بالواقع الافتراضي أداة تعرّض مساعدة (Adjunct Exposure Tool) داخل العلاج السلوكي المعرفي، لا بديلاً مستقلاً عنه. ويُنسب إليها أيضاً دور في تعميم مصطلح "الطب النفسي السيبراني" (Cyberpsychiatry/CyberTherapy) في الأدبيات الإنجليزية، عبر سلسلة مؤتمرات CyberTherapy السنوية التي جمعت باحثين من أكثر من ثلاثين دولة. ومع ذلك، ظل النقد الأكاديمي يشير إلى أن كثيراً من الأدوات التي روّجت لها المؤتمرات (نظارات الواقع الافتراضي المنزلية، تطبيقات الهاتف العلاجية) سبقت الأدلة السريرية القوية على فعاليتها، وهو ما يفرض حذراً منهجياً عند تقييم مساهمتها بمعزل عن سياقها التجاري.
 
 ## المصادر
-- Cyberpsychology, Behavior, and Social Networking — صفحة الناشر SAGE: https://us.sagepub.com/en-us/nam/cyberpsychology-behavior-and-social-networking/journal204073
-- APA Psychologist Locator — ملف بريندا فيدرهولد: https://locator.apa.org/profile/brenda-wiederhold
-- Virtual Reality Medical Center (VRMC) — صفحة المتحدثة: https://awexr.com/usa-2024/speakers/1063-dr-brenda-wiederhold
-- Interactive Media Institute — صفحة كتاب *Virtual Healing*: https://interactivemediainstitute.com/product/virtual-healing/
+- Wiederhold, B. K., & Wiederhold, M. D. *Virtual Reality Therapy for Anxiety Disorders: Advances in Evaluation and Treatment*. Washington, DC: American Psychological Association, 2005.
+- Wiederhold, B. K. *Virtual Healing: Using Virtual Reality to Help Treat Real Diseases*. San Diego: Interactive Media Institute, 2003.
+- Riva, G., & Wiederhold, B. K. "What the Metaverse Is (Really) and Why We Need to Know About It." *Cyberpsychology, Behavior, and Social Networking*, 2022.
