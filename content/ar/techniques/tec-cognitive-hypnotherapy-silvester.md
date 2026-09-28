@@ -52,9 +52,15 @@ gaps:
 
 - **موجه علمياً** (Logic-Based Therapy): سيلفستر يقول إنه "CBT + Erickson" لا "CBT في التنويم".
 - **القاعدة**: "Only use suggestion if it's true."
-- **الدراسات**: نسبة 92٪ نجاح ذُكرت في دراسة داخلية غير منشورة (2011)، لم تُنشر في مجلة محكّمة ولا تتوفر تفاصيل منهجها أو عينتها — لذا لا تُحتسب دليلاً كافياً على الفعالية (`evidence_level: experimental`).
-- يندرج ضمن التيار الأوسع للتنويم العلاجي السريري (`br-clinical-hypnotherapy`)، ويتمايز عن التنويم الإيحائي الإريكسوني الصرف (`tec-ericksonian-hypnotherapy`) بدمجه المباشر لتقنيات CBT، وعن التنويم الإيحائي المعرفي العام (`tec-cognitive-hypnotherapy`) بكونه نموذجاً مسمّى ومملوكاً تجارياً (MIND model) لسيلفستر تحديداً.
+- **الدراسات**: نسبة 92٪ نجاح ذُكرت في دراسة داخلية غير منشورة (2011)، لم تُنشر في مجلة محكّمة ولا تتوفر تفاصيل منهجها أو عينتها — لذا لا تُحتسب دليلاً كافياً على الفعالية (evidence_level: experimental).
+- يندرج ضمن التيار الأوسع للتنويم العلاجي السريري (br-clinical-hypnotherapy)، ويتمايز عن التنويم الإيحائي الإريكسوني الصرف (tec-ericksonian-hypnotherapy) بدمجه المباشر لتقنيات CBT، وعن التنويم الإيحائي المعرفي العام (tec-cognitive-hypnotherapy) بكونه نموذجاً مسمّى ومملوكاً تجارياً (MIND model) لسيلفستر تحديداً.
+
+## السياق المؤسسي والحدود المهنية
+
+أسس تريفور سيلفستر أكاديمية Quest Institute في بريطانيا لتدريب المعالجين على نموذج MIND، ويُسوَّق النموذج تجارياً كعلامة مسجَّلة ضمن دورات معتمدة من الأكاديمية نفسها لا من هيئة صحية نفسية مستقلة معترف بها دولياً (كالجمعية الأمريكية لعلم النفس)، وهو ما يميّزه عن التقنيات الأخرى المدرجة في هذا الأطلس التي راكمت اعتماداً أكاديمياً مستقلاً. يبقى تصنيف الأدلة هنا "experimental" لغياب أي دراسة محكّمة منشورة في مجلة علمية مستقلة تختبر بروتوكول MIND تحديداً مقارنة بمجموعة ضبط، بخلاف التنويم الإيحائي المعرفي العام (tec-cognitive-hypnotherapy) الذي راكم أدلة أوسع عبر باحثين مستقلين عن مطوّريه.
 
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Silvester, T. (2013). *Second Chance: How Cognitive Hypnotherapy Can Change Your Life*. Rodale.
+- Kirsch, I., Montgomery, G., & Sapirstein, G. (1995). "Hypnosis as an adjunct to cognitive-behavioral psychotherapy: A meta-analysis." *Journal of Consulting and Clinical Psychology*, 63(2).
+- Yapko, M. D. (2012). *Trancework: An Introduction to the Practice of Clinical Hypnosis*. Routledge.

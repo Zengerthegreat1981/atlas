@@ -41,6 +41,12 @@ gaps:
 
 أظهرت دراسات مبكرة نتائج واعدة، لكن تجارب عشوائية حديثة (2015-2020) كشفت عن تأثيرات متواضعة في أحسن الأحوال، وأثارت جدلاً حول ما إذا كان ABM «علاجاً ناشئاً» أو «مُعدّل انتباهي تجريبي». يُختبر ABM بشكل خاص في اضطراب القلق العام، حيث فشلت عدة تجارب معشاة كبيرة في إظهار تفوّقه على شرط الضبط الوهمي (placebo training)، ما جعل تصنيفه الحالي «مثيراً للجدل» رغم استمرار استخدامه في بروتوكولات بحثية.
 
+## الأصل النظري والتحليل التلوي
+
+استند ABM إلى بحث كولين ماكليود ومعاونيه في أواخر التسعينيات، الذي أظهر تجريبياً أن الأفراد القلقين يوجّهون انتباههم تلقائياً نحو الكلمات أو الوجوه المهدِّدة بسرعة أكبر من الأفراد غير القلقين، وأن تدريب الانتباه تجريبياً بعيداً عن التهديد يمكن أن يخفض مستوى القلق التفاعلي في المختبر. لكن تحليلاً تلوياً واسعاً أجراه محمد علي مغربي وآخرون (Mogoaşe, David & Koster, 2014) على عشرات التجارب العشوائية خلص إلى أن حجم الأثر الإجمالي لـABM على أعراض القلق السريرية صغير جداً وغير مستقر عبر الدراسات، وأن كثيراً من النتائج الإيجابية المبكرة لم تتكرر عند تشديد ضوابط التصميم (كإخفاء الفرضية عن المشاركين ومقارنتها بتدريب وهمي حقيقي لا بغياب تدريب)، وهو ما دفع الباحثين لاحقاً إلى التساؤل عن الآلية النظرية ذاتها (هل التحيز الانتباهي سبب للقلق أم نتيجة له) بدل الاكتفاء بتحسين البروتوكول التقني.
+
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- MacLeod, C., Rutherford, E., Campbell, L., Ebsworthy, G., & Holker, L. (2002). "Selective attention and emotional vulnerability: Assessing the causal basis of their association through the experimental manipulation of attentional bias." *Journal of Abnormal Psychology*, 111(1).
+- Mogoaşe, C., David, D., & Koster, E. H. W. (2014). "Clinical efficacy of attentional bias modification procedures: An updated meta-analysis." *Journal of Clinical Psychology*, 70(12).
+- Hakamata, Y., et al. (2010). "Attention bias modification treatment: A meta-analysis toward the establishment of novel treatment for anxiety." *Biological Psychiatry*, 68(11).

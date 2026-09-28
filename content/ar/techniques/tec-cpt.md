@@ -37,7 +37,12 @@ gaps:
 
 في تجربة معشاة نُشرت عام 2002 في *Journal of Consulting and Clinical Psychology* (المجلد 70، العدد 4، ص 867–879)، قارنت ريسيك وزملاؤها بين CPT والتعرض المطوّل (PE) وقائمة انتظار ضابطة لدى ناجيات من الاغتصاب مصابات بـPTSD مزمن؛ تفوّق كلا العلاجين على قائمة الانتظار، بينما لم يظهر فرق ثابت بين CPT وPE في متابعات لاحقة — وهو ما رسّخ الاثنين معاً كخطي علاج معتمدين من الرابطة الأمريكية لعلم النفس، ويفسّر إدراج التعرض المطوّل هنا كتقنية منافسة موازية له لا بديلاً متفوقاً عليه. يتمايز CPT عن العلاج المعرفي الكلاسيكي لبيك (Beck) في كونه بروتوكولاً مقنناً محدد الجلسات ومخصصاً للصدمة تحديداً، بخلاف صياغة بيك العامة للتشوهات المعرفية عبر الاضطرابات.
 
+## المجالات المعرفية الخمسة
+
+يركّز دليل ريسيك المعياري لـ CPT على خمسة مجالات معرفية يفترض أن الصدمة تُخلّ بها بشكل خاص: الأمان (Safety)، والثقة (Trust)، والقوة والتحكم (Power/Control)، والتقدير (Esteem)، والحميمية (Intimacy)؛ ويوجَّه المريض عبر الجلسات لفحص كيف شوّهت الصدمة معتقداته في كل مجال - سواء بإفراط في التعميم («لا أحد يمكن الوثوق به إطلاقاً») أو بإنكار الأثر تماماً - وصولاً إلى معتقدات أكثر توازناً وواقعية دون إنكار حقيقة الصدمة أو المبالغة في تعميم خطرها.
+
 ## المصادر
 
 - Resick, P. A., & Schnicke, M. K. (1992). "Cognitive processing therapy for sexual assault victims." *Journal of Consulting and Clinical Psychology*, 60(5), 748–756.
 - Resick, P. A., Nishith, P., Weaver, T. L., Astin, M. C., & Feuer, C. A. (2002). "A comparison of cognitive-processing therapy with prolonged exposure and a waiting condition for the treatment of chronic posttraumatic stress disorder in female rape victims." *Journal of Consulting and Clinical Psychology*, 70(4), 867–879.
+- Resick, P. A., Monson, C. M., & Chard, K. M. (2016). *Cognitive Processing Therapy for PTSD: A Comprehensive Manual*. Guilford Press.

@@ -34,6 +34,10 @@ gaps:
 
 التثقيف الطبي لتجنب سوء الفهم القانوني واحترام الرعاية التقليدية مع علاج الأعراض العضوية.
 
+## التوثيق الإكلينيكي والصلة بأعراض الهلع
+
+أدرجت الباحثة ديفون هينتون (Devon Hinton)، المتخصصة في الطب النفسي الثقافي للاجئين الفيتناميين والكمبوديين، «ترونغ جيو» ونظائرها (مثل نوبات «هجوم الريح» Cambodian Wind Attacks) ضمن سلسلة أبحاثها التي نُشرت في مجلات الطب النفسي عبر الثقافي، موضحة أن هذه النوبات تتشارك آلية فيزيولوجية-معرفية قريبة من نوبة الهلع الغربية (خفقان، دوخة، ضيق تنفس)، لكنها تُفسَّر عبر نموذج تفسيري محلي (اختراق الريح للجسم) بدل نموذج «كيمياء الدماغ» الغربي، وقد تفاقم الخوف من الريح ذاته النوبةَ عبر آلية تضخيم جسدي (Somatic Amplification) شبيهة بحلقة الخوف من الخوف في اضطراب الهلع.
+
 ## السقف الإكلينيكي
 
 هذا وصف معرفي أنثروبولوجي-إكلينيكي لمفهوم ثقافي فيتنامي محدد لتفسير الضيق الجسدي، لا تشخيصاً بمعيار طبي رسمي ولا حكماً على صحة المعتقد الشعبي نفسه.
@@ -48,4 +52,6 @@ gaps:
 
 ## المصادر
 
-لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.
+- Hinton, D. E., Pich, V., Marques, L., Nickerson, A., & Pollack, M. H. (2010). "Khyâl attacks: A key idiom of distress among traumatized Cambodia refugees." *Culture, Medicine, and Psychiatry*, 34(2).
+- American Psychiatric Association (2013). *Diagnostic and Statistical Manual of Mental Disorders (DSM-5)*. Glossary of Cultural Concepts of Distress.
+- Gould, W. (2005). "Cao Gio (Coining) and Hot Water Treatment: Cultural Practices and Their Clinical Presentation." *Pediatric Emergency Care*, 21(6).

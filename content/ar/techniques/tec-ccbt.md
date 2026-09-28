@@ -42,6 +42,16 @@ gaps:
 - **SilverCloud Health** — برنامج تجاري واسع الانتشار طوّرته مجموعة بحثية في كلية ترينيتي دبلن.
 - **Deprexis، MoodGYM، ThisWayUp** الأسترالية.
 
+## الاستخدام في منظومات الصحة العامة
+
+اعتمدت هيئة الخدمات الصحية الوطنية البريطانية (NHS) برامج cCBT الموجَّهة ذاتياً ضمن برنامج «تحسين الوصول إلى العلاجات النفسية» (IAPT) كخط تدخل منخفض الكثافة (Low-Intensity) لحالات القلق والاكتئاب الخفيفة إلى المتوسطة، قبل الإحالة لعلاج وجهاً لوجه أكثر كثافة عند الحاجة، وهو نموذج «الرعاية المتدرجة» (Stepped Care) الذي صمم أساساً لتوسيع نطاق الخدمة النفسية بأقل تكلفة ممكنة. يبقى الفارق الحاسم بين cCBT وبين العلاج المعرفي السلوكي التقليدي وجهاً لوجه (tec-beck-cognitive-therapy) هو غياب أو تقلص العلاقة العلاجية المباشرة، وهو عامل علاجي مؤثر بحد ذاته وفق كثير من الأدبيات الإكلينيكية.
+
+## القيود والفجوة الرقمية
+
+يظل الجدل قائماً حول معدلات الانسحاب المرتفعة من برامج cCBT غير الموجَّهة (Unguided) مقارنة بالجلسات وجهاً لوجه، إذ يميل كثير من المستخدمين لترك البرنامج قبل إكماله دون متابعة بشرية تحفّزهم على الاستمرار؛ كما لا يزال الوصول لهذه البرامج مرهوناً بتوفر اتصال إنترنت موثوق ومهارة رقمية أساسية، ما يطرح أسئلة عن عدالة توزيع هذا النوع من الرعاية بين الفئات السكانية الأكثر احتياجاً والأقل تمكناً رقمياً في آن واحد.
+
 ## المصادر
 
-لا تتوفر حتى الآن قائمة مصادر منفصلة موثّقة لهذا المدخل خارج ما ورد ضمن المتن أعلاه.
+- National Institute for Health and Care Excellence (NICE) (2006). "Computerised cognitive behaviour therapy for depression and anxiety." Technology Appraisal Guidance.
+- Proudfoot, J., et al. (2004). "Clinical efficacy of computerised cognitive-behavioural therapy for anxiety and depression in primary care: randomised controlled trial." *British Journal of Psychiatry*, 185(1).
+- Marks, I. M., Kenwright, M., McDonough, M., Whittaker, M., & Mataix-Cols, D. (2004). "Saving clinicians' time by delegating routine aspects of therapy to a computer: a randomized controlled trial in phobia/panic disorder." *Psychological Medicine*, 34(1).

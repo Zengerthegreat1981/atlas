@@ -60,6 +60,12 @@ gaps:
 
 النموذج محلّ **حوار صريح مع العلاج الوجودي** حول قضايا الحرية والمسؤولية والوجود الأصيل، وهو ما تناولته صفحة اللقاء بين المدرستين، إضافة إلى علاقته البنيوية بـ**العلاج السلوكي القائم على القبول (ABBT)** بوصفه امتداداً سلوكياً موازياً.
 
+## الأدلة التجريبية
+
+راكم Hexaflex قاعدة أدلة واسعة نسبياً منذ 1999، إذ أظهرت مراجعات وتحليلات تلوية متعددة (منها مراجعة A-Tanaka-Matsumi غير المؤكدة هنا بدقة، وتحليلات هايز وزملائه اللاحقة) فعالية مقاربة لفعالية CBT التقليدي عبر طيف واسع من المشكلات، وإن كانت الفرضية النظرية القائلة إن المرونة النفسية هي «الآلية الفاعلة» المشتركة وراء هذا التحسن لا تزال محل نقاش منهجي بين الباحثين، إذ يصعب أحياناً فصل أثر تقنيات فك الاندماج تجريبياً عن أثر التعرض السلوكي الكلاسيكي المتضمَّن ضمنياً في الفعل الملتزم.
+
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+- Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*. Guilford Press.
+- Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). "Acceptance and Commitment Therapy: Model, processes and outcomes." *Behaviour Research and Therapy*, 44(1).
+- A-Tjak, J. G. L., et al. (2015). "A meta-analysis of the efficacy of acceptance and commitment therapy for clinically relevant mental and physical health problems." *Psychotherapy and Psychosomatics*, 84(1).

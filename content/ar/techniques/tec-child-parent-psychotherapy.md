@@ -38,6 +38,12 @@ gaps:
 
 يستهدف CPP اضطراب التعلق التفاعلي (dis-reactive-attachment) وأعراض اضطراب الكرب التالي للصدمة (dis-ptsd) لدى الأطفال دون الخامسة المعرَّضين للعنف المنزلي أو سوء المعاملة. اختبرت ليبرمان وفان هورن وغوش إبن (Lieberman, Van Horn & Ghosh Ippen, 2005) في تجربة عشوائية مضبوطة نُشرت في Journal of the American Academy of Child & Adolescent Psychiatry فعالية CPP لدى أطفال ما قبل المدرسة المعرَّضين للعنف الزوجي، ووجدت تراجعاً في أعراض الكرب الصدمي والمشكلات السلوكية مقارنة بالمجموعة الضابطة، وهو ما يبرر تصنيفه هنا ضمن "probably-efficacious" لا "well-established" لمحدودية عدد التجارب المستقلة المكرِّرة. التقنية المنافسة المباشرة هي العلاج المعرفي السلوكي المرتكز على الصدمة للأطفال (tec-tf-cbt)، والذي يعالج نفس الفئة العمرية الأكبر سناً (عادة من سن ثلاث سنوات فأكثر مع قدرة لفظية) عبر بروتوكول معرفي سلوكي مباشر مع الطفل والوالد منفصلين جزئياً، بخلاف CPP الذي يعمل بالكامل في الجلسة المشتركة عبر اللعب والسرد الثنائي دون فصل الطفل عن الوالد.
 
+## الممارسة العلاجية
+
+تجري جلسات CPP عادة في المنزل أو العيادة بحضور الطفل ومقدم الرعاية معاً، معتمدة على اللعب الحر الموجَّه كوسيط رئيسي يتيح للطفل الصغير التعبير غير اللفظي عن تجربته الصادمة، بينما يتدخل المعالج بتعليقات تفسيرية بسيطة تربط سلوك اللعب بالخبرة الواقعية أو بمشاعر الوالد المصاحبة، دون فصل الطفل عن مقدم رعايته في أي مرحلة من العلاج.
+
 ## المصادر
 
-لم يُدرج بعد قسم مصادر مستقل لهذا الملف؛ ينبغي استكمال التوثيق البيبليوغرافي عند مراجعته لاحقاً.
+- Lieberman, A. F., & Van Horn, P. (2008). *Psychotherapy with Infants and Young Children: Repairing the Effects of Stress and Trauma on Early Attachment*. Guilford Press.
+- Lieberman, A. F., Van Horn, P., & Ghosh Ippen, C. (2005). "Toward evidence-based treatment: Child-parent psychotherapy with preschoolers exposed to marital violence." *Journal of the American Academy of Child & Adolescent Psychiatry*, 44(12).
+- Fraiberg, S., Adelson, E., & Shapiro, V. (1975). "Ghosts in the nursery." *Journal of the American Academy of Child Psychiatry*, 14(3).
