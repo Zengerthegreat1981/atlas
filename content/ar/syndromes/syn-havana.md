@@ -40,6 +40,12 @@ gaps:
 
 إعادة التأهيل العصبي الدهليزي، علاج التوتر الحاد، والدعم النفسي للدبلوماسيين المصابين.
 
+## الوضع التشخيصي
+
+خلصت مراجعة الأكاديمية الوطنية للعلوم الأمريكية عام 2020 إلى أن "الطاقة الكهرومغناطيسية النبضية الموجهة" هي التفسير الأكثر ترجيحاً لدى بعض الحالات، بينما خلص تقييم استخباراتي أمريكي مشترك عام 2023 إلى أنه من غير المرجح أن يكون خصم أجنبي مسؤولاً عن غالبية الحالات المبلغ عنها. لا تحمل "متلازمة هافانا" رمزاً تشخيصياً موحداً في DSM-5-TR أو ICD-11؛ إذ تبقى حالة مصطلح إعلامي يغطي مجموعة أعراض متنوعة المنشأ المحتمل لدى أفراد مختلفين.
+
 ## المصادر
 
-لم تُستكمل بعد مراجعة المصادر البيبليوغرافية لهذا المدخل بشكل منفصل عن المتن.
+- National Academies of Sciences, Engineering, and Medicine, An Assessment of Illness in U.S. Government Employees and Their Families at Overseas Embassies (The "Havana Syndrome" Report), National Academies Press, 2020.
+- Office of the Director of National Intelligence, Intelligence Community Assessment: Anomalous Health Incidents, 2023.
+- Swanson, R.L. et al., "Neurological Manifestations Among US Government Personnel Reporting Directional Audible and Sensory Phenomena in Havana, Cuba", JAMA, 2018.

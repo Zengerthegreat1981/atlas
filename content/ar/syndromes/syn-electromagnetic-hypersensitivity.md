@@ -42,10 +42,12 @@ gaps:
 
 يجب عدم الخلط بين الحساسية الكهرومغناطيسية الوهمية وبين التمييز الفينومينولوجي بين «الجسد المعيش» (Leib) و«الجسد الموضوعي» (Körper) كما طوّره هوسرل ومِرلو-بونتي (con-lived-body) — فذلك المفهوم يصف بنية عامة للخبرة الجسدية الذاتية لدى كل إنسان بصرف النظر عن صحة معتقداته عن سببها، بينما EHS حالة سريرية محددة يُعزى فيها إحساس جسدي فعلي (Leib) خطأً إلى مؤثر خارجي (كهرومغناطيسي) لا يُظهر أثراً موضوعياً قابلاً للقياس (Körper) في التجارب المُعمّاة.
 
-## اقتباسات مختارة
+## السياق التاريخي
 
-القسم محذوف حتى يُعثر على اقتباس موثّق بمصدر وسنة (انظر gaps).
+ظهر المصطلح أول مرة في السويد عام 1991 لدى مستخدمي شاشات الحاسوب القديمة الذين اشتكوا من أعراض جلدية وعصبية، قبل أن ينتشر عالمياً مع تزايد الهواتف المحمولة وشبكات الواي فاي. أجرت منظمة الصحة العالمية عام 2005 مراجعة دولية موسّعة حول الحالة، وأجرى الباحث البريطاني جيمس روبن وزملاؤه سلسلة من التجارب المزدوجة التعمية (Double-Blind Provocation Studies) لاختبار قدرة المصابين على تمييز التعرض الفعلي من الوهمي للحقول الكهرومغناطيسية.
 
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+- World Health Organization, "Electromagnetic Fields and Public Health: Electromagnetic Hypersensitivity", Fact Sheet No. 296, 2005.
+- Rubin, G.J., Das Munshi, J., Wessely, S., "Electromagnetic Hypersensitivity: A Systematic Review of Provocation Studies", Psychosomatic Medicine, 2005.
+- Rubin, G.J., Nieto-Hernandez, R., Wessely, S., "Idiopathic Environmental Intolerance Attributed to Electromagnetic Fields: A Systematic Review of Provocation Studies (Updated)", Bioelectromagnetics, 2010.

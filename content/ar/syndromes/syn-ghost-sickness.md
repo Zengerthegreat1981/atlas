@@ -43,6 +43,12 @@ gaps:
 
 يختلف هذا المرض الثقافي عن con-grief (الحزن كمسار للتفريد في علم النفس التحليلي اليونغي) في أن الأخير إطار نظري فردي عن نضج نفسي داخلي عبر مواجهة الفقد، بينما «مرض الأشباح» ظاهرة جماعية-ثقافية تُفسَّر بوجود فاعل خارجي (روح المتوفى) يهدد الحي، لا بديناميات نفسية داخلية بحتة — الفارق جوهري بين تفسير كوني-روحي وتفسير نفسي-تحليلي لنفس تجربة الفقد.
 
+## الوضع التشخيصي
+
+"مرض الأشباح" ليس تشخيصاً في ICD-11 ولا في DSM-5-TR الحالي بصيغته المستقلة، لكنه ورد اسماً ووصفاً في ملحق "متلازمات مرتبطة بثقافة معينة" في DSM-IV (1994)، ويُعاد تناوله اليوم ضمن إطار "المفاهيم الثقافية للضيق" في DSM-5-TR كنموذج على تعبيرات الحزن والصدمة المتجذرة ثقافياً لدى بعض شعوب أمريكا الشمالية الأصلية، لا كفئة تشخيصية عالمية موحدة المعايير.
+
 ## المصادر
 
-يفتقر هذا الملف إلى قسم مصادر مستقل؛ يُنصح بإضافته عند إتاحة مراجع أولية موثوقة.
+- American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV), Glossary of Culture-Bound Syndromes, 1994.
+- Putsch, R.W., "Ghost Illness: A Cross-Cultural Experience with the Expression of a Non-Western Tradition in Clinical Practice", American Indian and Alaska Native Mental Health Research, 1988.
+- Simons, R.C., Hughes, C.C. (eds.), The Culture-Bound Syndromes: Folk Illnesses of Psychiatric and Anthropological Interest, D. Reidel Publishing, 1985.
