@@ -27,29 +27,39 @@ gaps:
 
 عالمة نفس أمريكية من أصول أفريقية وأمريكية أصلية، أستاذة فخرية (Academy Professor Emerita) في قسم الدراسات الأفريقية-الأمريكية والأفريقية بجامعة ولاية أوهايو، ورئيسة سابقة لرابطة علماء النفس السود (Association of Black Psychologists)، ومن أبرز منظّري "علم النفس الأمثل" (Optimal Psychology) في تيار علم النفس الأفريقي-المتمركز (African-centered psychology).
 
+## السياق: علم نفس أسود في مواجهة المعيار الغربي
+
+ظهرت رابطة علماء النفس السود في أواخر الستينيات داعيةً إلى أن يكفّ علم النفس الأمريكي عن قياس الأمريكيين السود بمعيار الأبيض بوصفه «العادي». وتفرّع عن ذلك تيار ينادي بعلم نفس أفريقي-المتمركز يبدأ من تصوّرات الأفارقة وأحفادهم عن الإنسان والكون لا من تصوّرات أوروبية. وفي هذا التيار حاولت مايرز أن تنتقل من الاحتجاج إلى بناء نظري منظّم: بدل أن تقول إن علم النفس السائد متحيّز، سعت إلى وصف **رؤية للعالم** بديلة وبناء مقاييس لها.
+
 ## ما أعطته
 
-- **النظرية المفهومية المثلى (Optimal Conceptual Theory / Optimal Psychology)**: صاغتها في كتابها التأسيسي *Understanding an Afrocentric World View: Introduction to an Optimal Psychology* (1988). تقوم النظرية على التمييز بين **رؤية للعالم "مثلى" (Optimal)** متجذّرة في الفكر الأفريقي القديم — تقوم على الترابط الكلي بين الذات والآخرين والكون، وعلى وحدة المادي والروحي — و**رؤية "دون المثلى" (Suboptimal)** تقوم على الفصل الثنائي (المادة/الروح، الذات/الآخر) وتنتجه الثقافة الغربية المهيمنة في نظرها.
-- **تحليل النسق العقدي (Belief Systems Analysis)**: مقاربتها العلاجية التي تسعى إلى تحويل وعي الفرد من الإطار "دون الأمثل" إلى الإطار "الأمثل" بوصف ذلك مساراً للشفاء النفسي والروحي.
+- **النظرية المفهومية المثلى (Optimal Conceptual Theory / Optimal Psychology)**: صاغتها في كتابها التأسيسي *Understanding an Afrocentric World View: Introduction to an Optimal Psychology* (1988). تقوم النظرية على التمييز بين **رؤية للعالم "مثلى" (Optimal)** متجذّرة في الفكر الأفريقي القديم — تقوم على الترابط الكلي بين الذات والآخرين والكون، وعلى وحدة المادي والروحي — و**رؤية "دون المثلى" (Suboptimal)** تقوم على الفصل الثنائي (المادة/الروح، الذات/الآخر) وتنتجه الثقافة الغربية المهيمنة في نظرها. وقد كانت قبل ذلك قد نشرت سنة 1985 مقالاً عن علم النفس العابر للشخص وموقع المنظور الأفريقي المتمركز منه في *Journal of Black Psychology*.
+- **تحليل النسق العقدي (Belief Systems Analysis)**: مقاربتها العلاجية التي تسعى إلى تحويل وعي الفرد من الإطار "دون الأمثل" إلى الإطار "الأمثل" بوصف ذلك مساراً للشفاء النفسي والروحي. ومن أدواتها مقياس **تحليل النسق العقدي**، وقد قُنّن أولاً في دراسة لمونتغمري وفاين وجيمس-مايرز (1990).
+- **نماذج النمو الهوياتي**: شاركت في صياغة نموذج لنمو الهوية يقوم على الرؤية الكونية، نُشر سنة 1991 في *Journal of Counseling and Development* مع سبايت وهايلن وآخرين، وهو يخالف نماذج الهوية السوداء التي تتوقف عند تجاوز الإحساس بالدونية أمام الأبيض لأنه يتحدث عن تجاوز التمييز بين الذات والآخر أصلاً.
 - **الربط بعلاج NTU النفسي**: عملها متقاطع مع تقاليد علاجية أفريقية-متمركزة أخرى (مثل NTU Psychotherapy) التي تجعل الانسجام مع الروح الكونية الجامعة أساساً للصحة النفسية.
 - **النقد المنهجي**: دعت في أبحاث لاحقة (مع تانيا لودج وسوزيت سبايت وآخرين) إلى ضرورة مقاربة "إيميّة" (emic) في علم النفس تنطلق من مفاهيم الثقافات المدروسة نفسها لا من مقولات غربية مسقطة عليها.
 
 ## موقعها من التيار
 
-تنتمي مايرز إلى الجيل الذي بنى **علم النفس الأفريقي-المتمركز** كبديل نظري من علم النفس الغربي السائد، إلى جانب أسماء مثل **ويد نوبلز** و**نا'يم أكبر**، وقد ركّزت تحديداً على البُعد الفلسفي-الروحي للرؤية الكونية الأفريقية وأثره في بناء الهوية والصحة النفسية.
+تنتمي مايرز إلى الجيل الذي بنى **علم النفس الأفريقي-المتمركز** كبديل نظري من علم النفس الغربي السائد، إلى جانب أسماء مثل **ويد نوبلز** و**نا'يم أكبر**، وقد ركّزت تحديداً على البُعد الفلسفي-الروحي للرؤية الكونية الأفريقية وأثره في بناء الهوية والصحة النفسية. وتميّزها عن نوبلز أنها تقدّم نظرية في الوعي والرؤية الكونية أكثر مما تقدّم مقاربة في الأسرة والثقافة.
+
+## الاستقبال والنقد
+
+أثّرت أفكار مايرز في المجتمع الأكاديمي الأسود، وأُدخلت في مقررات الإرشاد النفسي المتعدد الثقافات، وصارت مرجعاً في نقاش الاستجابة الثقافية للعلاج. وفي الوقت نفسه يتكرّر نقدان: الأول أن مفهوم «الرؤية الأفريقية الواحدة» يختزل تنوّع الثقافات الأفريقية والشتات الأفريقي في نمط واحد، ويقترب من الجوهرانية؛ والثاني أن الأدلة التجريبية على صدق المقاييس وعلى فعالية التدخل المنبثق عنها محدودة في الأدبيات المنشورة، وكثيرٌ منها أنجزه باحثون من التيار نفسه. وتردّ هي ومن معها بأن معيار «الدليل» المتداول نفسه صيغ داخل الرؤية التي تنتقدها، ولذلك دعت إلى الأساليب الإيميّة.
 
 ## أهم أعمالها
 
 - *Understanding an Afrocentric World View: Introduction to an Optimal Psychology* (1988؛ ط2 1993) — كتابها التأسيسي.
 - *Optimal Theory's Contributions to Understanding and Surmounting Global Challenges to Humanity* (مع ميشيل أندرسون وتانيا لودج وسوزيت سبايت وجون كوينر، 2018).
-- *The Necessity of an Emic Paradigm in Psychology* (مع تانيا لودج وسوزيت سبايت وكريستي هاغينز، 2022).
+- *The Necessity of an Emic Paradigm in Psychology* (مع تانيا لودج وسوزيت سبايت وكريستي هاغينز، نُشر على الإنترنت 2021 وصدر في عدد 2022).
+
+## حدود هذا الملف
+
+تاريخ الميلاد (4 نوفمبر 1948 في هيوغوتن بكنساس) مأخوذ من مرجع سيرة عام ولم يُقابَل بسيرة رسمية من الجامعة. ولا يوجد اقتباس مباشر موثوق من الكتاب التأسيسي بترجمة عربية معتمدة، ولم أقف على دراسة عربية مخصّصة لها. وسنة صدور الدراسات المتأخرة قد تختلف بين النشر الإلكتروني وعدد المجلة. وكتاب *The Deepest Well* لا علاقة موثَّقة لها به، وقد حُذف من المتن.
 
 ## المصادر
 
-- [Featured Psychologist: Linda James Myers, PhD — American Psychological Association](https://www.apa.org/pi/oema/resources/ethnicity-health/psychologists/linda-james-myers)
-- [Linda James Myers — Department of African American and African Studies, Ohio State University](https://aaas.osu.edu/people/myers.19)
-- [Linda James Myers — Wikipedia](https://en.wikipedia.org/wiki/Linda_James_Myers)
-- [Understanding an Afrocentric World View: Introduction to an Optimal Psychology — Google Books](https://books.google.com/books/about/Understanding_an_Afrocentric_World_View.html?id=YN52AAAAMAAJ)
-- [Optimal Theory's Contributions to Understanding and Surmounting Global Challenges to Humanity — SAGE Journals](https://journals.sagepub.com/doi/abs/10.1177/0095798418813240)
-- [The Necessity of an Emic Paradigm in Psychology — SAGE Journals](https://journals.sagepub.com/doi/abs/10.1177/00221678211048568)
-- [Linda Bernice James Myers — Prabook / World Biographical Encyclopedia](https://prabook.com/web/linda_bernice_james.myers/3473755)
+- Myers, Linda James. *Understanding an Afrocentric World View: Introduction to an Optimal Psychology*. Dubuque, IA: Kendall/Hunt, 1988.
+- Myers, L. J., Speight, S. L., Highlen, P. S., et al. (1991). "Identity Development and Worldview: Toward an Optimal Conceptualization." *Journal of Counseling and Development*, 70(1), 54–63.
+- Montgomery, D. E., Fine, M. A., & James-Myers, L. (1990). "The Development and Validation of an Instrument to Assess an Optimal Afrocentric World View." *Journal of Black Psychology*, 17(1), 37–54.
+- Myers, L. J., Anderson, M., Lodge, T., Speight, S., & Queener, J. (2018). "Optimal Theory's Contributions to Understanding and Surmounting Global Challenges to Humanity." *Journal of Black Psychology*.

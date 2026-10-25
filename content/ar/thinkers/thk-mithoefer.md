@@ -33,41 +33,44 @@ gaps:
 
 # مايكل ميثوفر
 
-طبيب نفسي أمريكي ومتخصص في علاج الصدمات، يقود **الفريق الطبي السريري** لـ**«الجمعية متعددة التخصصات لدراسات السيكوديلك»** (MAPS) في تجارب العلاج بمساعدة MDMA لـ PTSD.
+طبيب نفسي أمريكي يعمل في تشارلستون بولاية ساوث كارولاينا، وهو من أبرز الباحثين السريريين الذين اختبروا العلاج النفسي بمساعدة عقار MDMA لدى مصابي اضطراب كرب ما بعد الصدمة. عمل مع زوجته آن ميثوفر، وهي ممرضة ومعالجة، في إجراء التجارب وتطوير دليل العلاج الذي استعملته الجمعية متعددة التخصصات لدراسات السايكديليك (MAPS). لا تتوفر لدي سنة ميلاده، ونشاطه المنشور يبدأ منذ مطلع الألفية الثانية.
+
+## السياق: من الأبحاث المحظورة إلى تجربة محكمة
+
+كان MDMA يُستخدم في العلاج النفسي في الولايات المتحدة سراً بعد منتصف السبعينيات، ثم صُنّف مادة محظورة عام 1985. وفي التسعينيات أسّس [ريك دوبلن](thk-rmdoblin) جمعية MAPS لتمويل التجارب السريرية، وعرض عام 2002 في مجلة Journal of Psychoactive Drugs خطة سريرية لاختبار MDMA في علاج اضطراب الكرب ما بعد الصدمة. وانضم ميثوفر إلى المشروع طبيباً مشرفاً وباحثاً رئيسياً في موقع تشارلستون، وكان قبل ذلك طبيباً للطوارئ ثم طبيباً نفسياً، وتدرّب على أساليب التنفّس الذي يرتبط بـ[ستانيسلاف غروف](thk-sgrof).
 
 ## ما أعطاه
 
-قاد **المرحلة الثانية** (2011) و**المرحلة الثالثة** (2018-2020) من التجارب السريرية المعشاة حول فعالية وسلامة MDMA في علاج PTSD المقاوم للعلاج. أظهر مع زوجته **آن ميثوفر** (المعالجة النفسية المرافقة) أن:
+التجربة التجريبية الأولى. نشر ميثوفر وزملاؤه عام 2011 في مجلة Journal of Psychopharmacology أول تجربة عشوائية مضبوطة صغيرة على مصابين مقاومين للعلاج: عشرون مشاركاً، تحسّن 10 من 12 (83%) في مجموعة MDMA مقابل 2 من 8 (25%) في مجموعة الدواء الوهمي. وتبع ذلك عام 2013 تقرير متابعة طويلة الأمد في المجلة نفسها. وقد ورد في الملف القديم عنوان المتابعة منسوباً إلى ورقة 2011، وصحّح هنا.
 
-- **67%** من المرضى في المجموعة المعالجة بـ MDMA **لم يعودوا يستوفون معايير PTSD** بعد ثلاث جلسات (مقارنة بـ 32% في المجموعة الضابطة).
-- النتائج مستقرة بعد 12 شهراً.
+الدراسة على المحاربين القدامى. نشر مع آن ميثوفر وفيدوتشيا وآخرين عام 2018 في مجلة Lancet Psychiatry تجربة مرحلة ثانية لمقارنة جرعات مختلفة من MDMA لدى المحاربين القدامى ورجال الإطفاء والشرطة، وأظهرت تحسناً أكبر مع الجرعات الأعلى. وفي الملف القديم أن الدراسة نُشرت في Psychother Psychosom عام 2020؛ والمرجع الذي أعرفه هو ورقة Lancet Psychiatry.
 
-نُشرت نتائج المرحلة الثالثة في **Nature Medicine** عام 2021.
+المرحلة الثالثة. شارك بوصفه باحثاً في موقعه ضمن التجربتين الكبيرتين: التجربة الأولى (2021، مجلة Nature Medicine، بقيادة ميتشل وبوغنشوتز) أظهرت أن 67% من مجموعة MDMA لم يعودوا يستوفون معايير الاضطراب مقابل 32% في الدواء الوهمي، بعد ثلاث جلسات مع علاج نفسي، والتجربة الثانية (2023، المجلة نفسها). وليس ميثوفر هو قائد المرحلة الثالثة كما قد يُفهم من الصيغة القديمة، بل أحد الباحثين فيها.
 
-من أهم أعماله:
-- «Manual for MDMA-Assisted Psychotherapy in the Treatment of PTSD» (2017، MAPS).
-- «3,4-Methylenedioxymethamphetamine (MDMA)-Assisted Psychotherapy for Post-Traumatic Stress Disorder in Military Veterans, Firefighters, and Police Officers» (2020، مع زوجته، *Psychother Psychosom*).
-- «MDMA-assisted psychotherapy: clinical and research perspectives» (تحرير).
+دليل العلاج. كتب «دليل العلاج النفسي بمساعدة MDMA لاضطراب الكرب ما بعد الصدمة» (2017، MAPS)، وفيه بنية المعالجين المزدوجين، وثلاث جلسات ممتدة مع جلسات إعداد وتكامل. ويُعدّ هذا الدليل من وثائق المنهج في الحقل.
 
 ## موقعه من التيار
 
-يعدّ ميثوفر أبرز الأسماء السريرية في **«العلاج بمساعدة السيكوديلك»** (PAP)، وأثّر بعمق في صياغة **بروتوكول «الإعداد-الجلسة-التكامل»** (Prepare-Experience-Integrate) المعتمد في التجارب السريرية. يلتقي مع [ريك دابلن](thk-rmdoblin) (مؤسس MAPS) و[رولاند غريفيثز](thk-griffiths) (Johns Hopkins).
+يمثّل ميثوفر الجانب السريري في إحياء العلاج بمساعدة السايكديليك، ويلتقي مع [ريك دوبلن](thk-rmdoblin) المسؤول عن تمويل MAPS، ومع [وليام ريتشاردز](thk-wrichards) في المنهج الذي يقوم على إعداد المراجع وتهيئة المكان والتكامل بعد الجلسة. ويرتبط بـ[اضطراب كرب ما بعد الصدمة](dis-ptsd) وبعلاج [EMDR](sch-emdr) من جهة المقارنة بعلاجات الصدمة الأخرى.
 
-## علاقته بالمفاهيم والمدارس
+## التلقّي والنقد
 
-يرتبط بالعلاج بمساعدة MDMA و[بـPTSD](dis-ptsd) وبالإعداد-الجلسة-التكامل كمفاهيم مركزية.
+مُنح العلاج صفة «علاج رائد» من إدارة الغذاء والدواء الأمريكية عام 2017، لكن المسار التنظيمي انتهى بتعثر: ففي يونيو 2024 صوّتت لجنة استشارية للإدارة ضد فعالية العلاج وضد أن تفوق فوائده مخاطره، وفي أغسطس من العام نفسه أصدرت الإدارة رسالة رفض تطلب تجربة إضافية. وأثار نقّاد، ومنهم تقرير معهد المراجعة الاقتصادية والسريرية (2024)، مشكلة فقدان التعمية الفعلية، لأن المشاركين يدركون سريعاً ما إذا كانوا قد تناولوا العقار، فتتضخم النتائج بسبب التوقع. وأُثيرت كذلك أسئلة عن الإبلاغ عن الأحداث الضارة وعن سلوك المعالجين في بعض المواقع، وعن تضارب المصالح بين جهة مموِّلة داعية وجهة تقيّم. ومعظم المشاركين من البيض وذوي التعليم العالي. فالحال العلمية: نتائج مبكرة واعدة لم تُترجم إلى اعتماد، والأسئلة المنهجية ما زالت مطروحة.
 
 ## أهم أعماله
 
-- Mithoefer, M. C., et al. (2011). "Durability of improvement in post-traumatic stress disorder symptoms and absence of harmful effects or drug dependency after 3,4-methylenedioxymethamphetamine-assisted psychotherapy: a prospective long-term follow-up study." *J Psychopharmacol*, 25(4), 439–452.
-- Mithoefer, M. C., et al. (2019). "MDMA-assisted psychotherapy for treatment of PTSD: study design and rationale for phase 3 trials based on pooled analysis of six phase 2 randomized controlled trials." *Neuropsychopharmacology*, 44(2), 273–283.
-- Mitchell, J. M., et al. (2021). "MDMA-assisted therapy for severe PTSD: a randomized, double-blind, placebo-controlled phase 3 study." *Nature Medicine*, 27(6), 1025–1033.
-- Mithoefer, M. C. (2017). *A Manual for MDMA-Assisted Psychotherapy in the Treatment of PTSD*. MAPS.
+- «سلامة وفعالية العلاج النفسي بمساعدة MDMA لدى مصابين مقاومين: أول تجربة عشوائية مضبوطة» (2011، مع آخرين).
+- «المتابعة بعد التجربة الأولى» (2013).
+- «دليل العلاج النفسي بمساعدة MDMA» (2017).
+- «العلاج بمساعدة MDMA لدى المحاربين القدامى ورجال الإطفاء والشرطة: تجربة المرحلة الثانية» (2018، مع آخرين).
+
+## حدود هذا الملف
+
+سنة الميلاد غير موثقة. وصُحّحت عناوين وسنوات وردت سابقاً: ورقة المتابعة، وورقة Psychother Psychosom 2020، وتصوير المرحلة الثالثة بأنها بقيادته، وورقة تصميم المرحلة الثالثة المنسوبة إلى Neuropsychopharmacology (2019). وذكر الملف القديم احتمال أن يكون في الأطلس ملف مكرر باسم آخر لا أعالجه هنا. ولا أعرف ترجمة عربية.
 
 ## المصادر
 
-- Mithoefer, M. C. (2017). *MDMA-Assisted Psychotherapy Manual*. MAPS Press.
-- Mitchell, J. M., Bogenschutz, M., et al. (2021). "MDMA-assisted therapy for severe PTSD." *Nature Medicine*, 27(6), 1025–1033.
-- MAPS (Multidisciplinary Association for Psychedelic Studies) — Clinical Trials Database.
-- Doblin, R. (2002). "A Clinical Plan for MDMA (Ecstasy) in the Treatment of Post-Traumatic Stress Disorder (PTSD)." *J Psychoactive Drugs*, 34(2), 185–194.
-- Multidisciplinary Association for Psychedelic Studies — Faculty and Research Archives.
+- Doblin, R. (2002). "A Clinical Plan for MDMA (Ecstasy) in the Treatment of Posttraumatic Stress Disorder (PTSD): Partnering with the FDA." *Journal of Psychoactive Drugs*, 34(2), 185–194.
+- Mithoefer, M. C., Wagner, M. T., Mithoefer, A. T., Jerome, L., & Doblin, R. (2011). "The Safety and Efficacy of ±3,4-Methylenedioxymethamphetamine-Assisted Psychotherapy in Subjects with Chronic, Treatment-Resistant Posttraumatic Stress Disorder: The First Randomized Controlled Pilot Study." *Journal of Psychopharmacology*, 25(4), 439–452.
+- Mithoefer, M. C., Mithoefer, A. T., Feduccia, A. A., et al. (2018). "3,4-Methylenedioxymethamphetamine (MDMA)-Assisted Psychotherapy for Post-Traumatic Stress Disorder in Military Veterans, Firefighters, and Police Officers: A Randomised, Double-Blind, Dose-Response, Phase 2 Clinical Trial." *Lancet Psychiatry*, 5(6), 486–497.
+- Mitchell, J. M., Bogenschutz, M., Lilienstein, A., et al. (2021). "MDMA-Assisted Therapy for Severe PTSD: A Randomized, Double-Blind, Placebo-Controlled Phase 3 Study." *Nature Medicine*, 27(6), 1025–1033.
