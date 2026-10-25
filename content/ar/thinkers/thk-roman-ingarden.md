@@ -31,7 +31,11 @@ gaps:
 
 # رومان إنغاردن (ظاهراتي الأدب والجمال)
 
-فيلسوف بولندي، من أهم تلاميذ إدموند هوسرل، ومن «مؤسِّسي» الظاهراتية الأنطولوجية (Ontological Phenomenology) في القرن 20. تعلّم على هوسرل في غوتنغن (1918-1921)، ثم طوّر «مذهباً مستقلاً» يختلف عن معلمه في نقطتين جوهريتين: «واقعية الأشياء المُثالية» و«تعدّد طبقات الكائن الأدبي».
+فيلسوف بولندي، من أهم تلاميذ إدموند هوسرل، ومن «مؤسِّسي» الظاهراتية الأنطولوجية (Ontological Phenomenology) في القرن 20. تعلّم على هوسرل في غوتنغن ثم فرايبورغ (1912–1918)، ثم طوّر «مذهباً مستقلاً» يختلف عن معلمه في نقطتين جوهريتين: «واقعية الأشياء المُثالية» و«تعدّد طبقات الكائن الأدبي».
+
+## الحياة والمسار
+
+وُلد إنغاردن في كراكوف عام 1893، ودرس في غوتنغن عند هوسرل منذ 1912، وتبع أستاذه إلى فرايبورغ حيث نال الدكتوراه عام 1918 برسالة عن الحدس والعقل عند برغسون. وعاد إلى بولندا فدرّس الفلسفة في جامعة لفوف منذ عام 1933 حتى الحرب العالمية الثانية، وكتب في سنوات الاحتلال الألماني معظم «الجدل حول وجود العالم» وهو يعمل سراً. وفي كراكوف بعد الحرب شغل كرسي الفلسفة في جامعة ياغيلونيا، ثم عزلته السلطات الشيوعية عن التدريس بين عامي 1950 و1957 لأسباب سياسية وفلسفية، فتفرغ للكتابة، وعاد بعد عام 1956 وتوفي في كراكوف عام 1970.
 
 ## ما أعطاه
 
@@ -41,13 +45,17 @@ gaps:
   - **الطبقة الموضوعية الممثَّلة** (Dargestellte Gegenstandsschicht): العالم المُتخيَّل الذي يُقدِّمه العمل.
   - **الطبقة الأيقونية** (Schicht der schematisierten Ansichten): المناظر «المُتخلَّلة» للقارئ.
   هذا التحليل أثّر بشكل عميق في «النقد الأدبي الظاهراتي» لدى Wolfgang Iser وHans Robert Jauss (مدرسة Constance).
-- **«الجدل حول وجود العالم» (Der Streit um die Existenz der Welt, 1925-1948, مجلدان)**: نقد «المثالية الظاهراتية» عند Husserl ودفاع عن «الواقعية المعتدلة». رأى إنغاردن أن «العالم» (العالم الخارجي) «موجود استقلالاً» عن الوعي، لكنه «لا يُدرك بشكل مستقل»، بل «يتشكّل» عبر القصدية.
+- **«الجدل حول وجود العالم» (Spór o istnienie świata، بالبولندية 1947–1948؛ بالألمانية 1964–1974)**: نقد «المثالية الظاهراتية» عند Husserl ودفاع عن «الواقعية المعتدلة». رأى إنغاردن أن «العالم» (العالم الخارجي) «موجود استقلالاً» عن الوعي، لكنه «لا يُدرك بشكل مستقل»، بل «يتشكّل» عبر القصدية.
 - **«الأخلاق» (Über die Verantwortung, الستينيات من القرن العشرين، لم يُنشر في حياته)**: رسالة في المسؤولية الأخلاقية. قال إنغاردن إن الفعل الأخلاقي «لا يمكن اختزاله» إلى «الواجب» (Sollen) أو «النفع» (Nutzen)، بل هو «موقف» (Stellungnahme) من «القيمة» (Wert).
-- **«الجمال» (Studia z estetyki, 1957-1966, 3 مجلدات)**: في «الجمال»، طوّر إنغاردن «نظرية القيمة الجمالية»، حيث ميّز بين:
+- **«الجمال» (Studia z estetyki، 1957–1970، ثلاثة مجلدات)**: في «الجمال»، طوّر إنغاردن «نظرية القيمة الجمالية»، حيث ميّز بين:
   - **الجمال الموضوعي** (Aesthetischer Wert): سمات الشيء التي تجعله «مُهيَّأ» لإيقاظ تجربة جمالية.
   - **الجمال المُدرك** (Aesthetischer Wertempfänger): التجربة الجمالية في الوعي.
   هذا التمييز قُرئ من قبل Mikel Dufrenne (Phénoménologie de l'expérience esthétique, 1953) وH.G. Gadamer (في Wahrheit und Methode).
 - **«حدود التأويل» (Vom Erkennen des literarischen Kunstwerks, 1968)**: عرض لِ«هرمنيوطيقا النصّ الأدبي»، حيث رأى أن النص «نصف كائن» (unbestimmter Gegenstand) يُتمَّم «من قِبَل» القارئ. هذا قُرئ من قبل Umberto Eco (Opera aperta, 1962).
+
+## مفاهيم الاستقبال والتعيّن
+
+من أخصب مفاهيم إنغاردن في نظرية الأدب «مواضع اللاتعيّن» (Unbestimmtheitsstellen)، أي المواضع التي لا يحددها النص في العالم الذي يعرضه، كلون عيني بطل لم يُذكر أو ما يحدث بين مشهدين. ويكمل القارئ هذه المواضع بخياله في عملية سماها «التحقّق» (Konkretisation)، فالعمل الأدبي عنده بنية قصدية مشتركة بين النص والقارئ، وهو لا يتطابق مع النص بوصفه أصواتاً مكتوبة ولا مع تجربة القارئ في لحظة معينة. وقد بنى فولفغانغ إيزر على هذين المفهومين «جماليات التلقي» في «فعل القراءة» (1976)، وتأثر بهما هانس روبرت ياوس وغيره من مدرسة كونستانس.
 
 ## موقعه من التيار
 
@@ -65,15 +73,18 @@ gaps:
 ## أهم أعماله
 
 - *Das literarische Kunstwerk* (العمل الفني الأدبي، 1931).
-- *Der Streit um die Existenz der Welt* (الجدل حول وجود العالم، 1925-1948، مجلدان).
-- *Essentiale Fragen* (الأسئلة الجوهرية، 1925، أطروحة دكتوراه).
-- *Studia z estetyki* (دراسات جمالية، 1957-1966، 3 مجلدات).
+- *Spór o istnienie świata* (الجدل حول وجود العالم، بالبولندية 1947–1948؛ بالألمانية *Der Streit um die Existenz der Welt*، 1964–1974).
+- *Essentiale Fragen* (الأسئلة الجوهرية، 1925)، وهو نص تأهيلي (هابيليتاسيون) نُشر في «حولية الفلسفة والبحث الظاهراتي».
+- *Studia z estetyki* (دراسات في الجمالية، 1957–1970، ثلاثة مجلدات).
 - *Vom Erkennen des literarischen Kunstwerks* (عن معرفة العمل الأدبي، 1968).
 - *Über die Verantwortung* (عن المسؤولية، أطروحته الأخلاقية، نُشرت بعد وفاته سنة 1970).
 - *Man and Value* (الإنسان والقيمة، مجموعة نُشرت بعد وفاته سنة 1983، إنجليزية).
 
 ## المصادر
 
-- Ingarden, R. (1931). *Das literarische Kunstwerk*. Max Niemeyer Verlag.
-- Ingarden, R. (1973). *The Cognition of the Literary Work of Art* (ترجمة إنجليزية لـVom Erkennen des literarischen Kunstwerks, 1968). Northwestern University Press.
-- Ingarden, R. (1964–1965). *Der Streit um die Existenz der Welt* (المجلدان الأول والثاني). Max Niemeyer Verlag.
+- Ingarden, R. (1931). *Das literarische Kunstwerk: Eine Untersuchung aus dem Grenzgebiet der Ontologie, Logik und Literaturwissenschaft*. Halle: Max Niemeyer Verlag.
+- Ingarden, R. (1973). *The Literary Work of Art*, trans. G. G. Grabowicz. Evanston: Northwestern University Press.
+- Ingarden, R. (1973). *The Cognition of the Literary Work of Art*, trans. R. A. Crowley & K. R. Olson. Evanston: Northwestern University Press.
+- Ingarden, R. (1964–1974). *Der Streit um die Existenz der Welt*. Tübingen: Max Niemeyer Verlag.
+- Iser, W. (1976). *Der Akt des Lesens: Theorie ästhetischer Wirkung*. Munich: Wilhelm Fink.
+- Mitscherling, J. (1997). *Roman Ingarden's Ontology and Aesthetics*. Ottawa: University of Ottawa Press.

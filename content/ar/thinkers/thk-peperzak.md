@@ -30,26 +30,38 @@ gaps:
 
 # أدريان بيبرزاك
 
-فيلسوف وظاهراتي هولندي-أمريكي بارز (1923-2021)، أستاذ الفلسفة في **جامعة لويولا بشيكاغو** (Loyola University Chicago) وأحد أبرز الشراح والمطورين لفينومينولوجيا **إيمانويل ليفيناس** الأخلاقية والوجودية.
+فيلسوف وظاهراتي هولندي-أمريكي بارز، وُلد في جاوة ضمن الهند الشرقية الهولندية، وعمل أستاذ الفلسفة في **جامعة لويولا بشيكاغو** (Loyola University Chicago) وكان من أبرز الشراح والمطورين لفينومينولوجيا **إيمانويل ليفيناس** الأخلاقية والوجودية، ومن كبار مؤرخي الفلسفة الهيغلية.
+
+## السيرة والسياق
+
+درس بيبرزاك الفلسفة واللاهوت في هولندا، ثم أتم دراسته العليا في لوفان وباريس، ونشر أطروحته عن هيغل الشاب في كتاب «هيغل الشاب والرؤية الأخلاقية للعالم» (Le jeune Hegel et la vision morale du monde, 1960). ودرّس في الجامعات الهولندية (أمستردام، أوتريخت، نايميخن) قبل أن ينتقل إلى الولايات المتحدة ويشغل كرسي آرثر شميت للفلسفة في لويولا بشيكاغو منذ 1991، وزار جامعات أمريكية عدة منها ستانفورد وبوسطن كوليج. وجاء عمله في سياق عودة الفلسفة القارية إلى الحياة الأكاديمية الأمريكية، فقدّم لجمهورها الناطق بالإنجليزية قراءة دقيقة لهيغل ولليفيناس وللتقليد الأفلاطوني، وجمع بين الفينومينولوجيا وتاريخ الفلسفة والتأمل في الإيمان.
 
 ## ما أعطاه
 
 طوّر **دراسات تأسيسية في فلسفة الوجه**، والمسؤولية اللانهائية تجاه الآخر، وأخلاقيات اللقاء الإنساني، مبيّناً كيف تؤسس **الفينومينولوجيا الأخلاقية** لإعادة فهم العلاقات الإرشادية والنفسية كالتزام وجودي وأخلاقي بالآخر الضعيف.
 
 أهم أعماله:
-- **«إلى الآخر: دراسات في فكر ليفيناس»** (*To the Other: An Introduction to the Philosophy of Emmanuel Levinas*, 1993، Purdue University Press): أطروحته الأولى في شرح ليفيناس.
-- **«أسس الأخلاق الفينومينولوجية»** (*Elements of Ethics*, 2003، University of Chicago Press).
-- **«العالم: همّ الفلسفة»** (*The World: A Concern of Philosophy*, 1999).
-- **«ما بعد: الاعتراف بالمسؤولية»** (*Beyond: The Philosophy of Emmanuel Levinas*, 1997).
-- **«الحرية الأخلاقية»** (*Ethical Freedom*, 2005).
+- **«إلى الآخر: مدخل إلى فلسفة إيمانويل ليفيناس»** (*To the Other: An Introduction to the Philosophy of Emmanuel Levinas*, 1993، Purdue University Press): أطروحته الأولى في شرح ليفيناس.
+- **«ما وراء: فلسفة إيمانويل ليفيناس»** (*Beyond: The Philosophy of Emmanuel Levinas*, 1997، Northwestern University Press): دراسة معمّقة في بناء «الكلية واللانهاية» و«ما وراء الجوهر».
+- **«تحولات أفلاطونية: مع هيغل وهايدغر وليفيناس وبعدهم»** (*Platonic Transformations*, 1997).
+- **«الحرية الحديثة: الفلسفة القانونية والأخلاقية والسياسية عند هيغل»** (*Modern Freedom*, 2001).
+- **«البحث عن المعنى: أصدقاء الحكمة من أفلاطون إلى ليفيناس»** (*The Quest for Meaning*, 2003).
+
+## الأفكار المركزية
+
+- **الأخلاق قبل الأنطولوجيا**: يعرض بيبرزاك عند ليفيناس أن اللقاء بالآخر يسبق كل معرفة وكل فهم للوجود، وأن وجه الآخر يخاطب الأنا قبل أن تقرر شيئاً، فتنشأ المسؤولية قبل الحرية. وقد بيّن أن ليفيناس لا يلغي الفلسفة الغربية، بل يعيد ترتيب أولوياتها.
+- **الحرية والعلاقة**: في قراءته لهيغل يؤكد أن الحرية الحديثة لا تقوم على الاستقلال المنعزل، بل على الاعتراف المتبادل في مؤسسات الأسرة والمجتمع المدني والدولة، وأن الفرد يصير حراً حين يتحقق في هذه الصلات.
+- **الفلسفة بين الإيمان واللاهوت**: كتب عن العلاقة بين التفكير الفلسفي والتجربة الدينية، ورأى أن الفلسفة لا تستغني عن أسئلة المعنى والخير الأقصى، وإن ظلت مستقلة بمناهجها عن اللاهوت.
 
 ## موقعه من التيار
 
 يُمثل أحد أهم **جسور انتقال الفينومينولوجيا الأخلاقية القارية** (ليفيناس وبول ريكور) إلى الفلسفة وعلم النفس الأخلاقي في العالم الناطق بالإنجليزية. تأثيره في علم النفس السريري محدود، لكنه مرجع أساسي في الأخلاقيات التطبيقية وفلسفة الرعاية.
 
+وقد كرّمه مركز هانك للفلسفة والتقليد الكاثوليكي في لويولا بجائزة «التقليد الحي» سنة 2015 تقديراً لعمله في الجمع بين الفلسفة والتقليد الديني، وظلّ يُقرأ في الدوائر الأكاديمية الأوروبية والأمريكية بوصفه صلة بين تقليدين فلسفيين متباعدين.
+
 ## القيد
 
-طبيعة عمله **فلسفية وأخلاقية أنطولوجية أكاديمية** متخصصة وليست ممارسة إكلينيكية مباشرة. تأثيره في علم النفس يتم عبر القراء الذين يطبّقون ليفيناس في العلاج (مثل أعمال ستيفن ميتشل في العلاج الأسري).
+طبيعة عمله **فلسفية وأخلاقية أنطولوجية أكاديمية** متخصصة وليست ممارسة إكلينيكية مباشرة. تأثيره في علم النفس يتم عبر القراء الذين يطبّقون ليفيناس في الرعاية والعلاج. وقد يؤخذ على شروحه أنها تقرأ ليفيناس قراءة منسجمة تخفّف من توتراته الداخلية، وأن كتابته الأكاديمية الكثيفة تجعل نصوصه أقل انتشاراً خارج الدوائر المتخصصة.
 
 ## علاقته بالمفاهيم والمدارس
 
@@ -57,21 +69,19 @@ gaps:
 
 ## أهم أعماله
 
+- *Le jeune Hegel et la vision morale du monde* (1960).
+- *Philosophy and Politics: A Commentary on the Preface to Hegel's Philosophy of Right* (1987).
 - *To the Other: An Introduction to the Philosophy of Emmanuel Levinas* (1993).
 - *Beyond: The Philosophy of Emmanuel Levinas* (1997).
-- *The World: A Concern of Philosophy* (1999).
-- *Elements of Ethics* (2003).
-- *Ethical Freedom* (2005).
-- *Plato's Forms: Varieties of Interpretation* (1991، مع Plato scholars).
-- *Heidegger's Apology* (2000، مع آخرين).
-- *The Quest for Meaning* (2002).
+- *Platonic Transformations* (1997).
+- *Modern Freedom: Hegel's Legal, Moral, and Political Philosophy* (2001).
+- *The Quest for Meaning: Friends of Wisdom from Plato to Levinas* (2003).
+- *Thinking: From Solitude to Dialogue and Contemplation* (2006).
 
 ## المصادر
 
-- Peperzak, A. (1993). *To the Other*. Purdue University Press.
-- Peperzak, A. (2003). *Elements of Ethics*. University of Chicago Press.
-- Levinas, E. (1961). *Totalité et Infini*. Martinus Nijhoff.
-- Levinas, E. (1974). *Autrement qu'être ou au-delà de l'essence*. Martinus Nijhoff.
-- Ricoeur, P. (1990). *Soi-même comme un autre*. Seuil.
-- Critchley, S. (1992). *The Ethics of Deconstruction*. Edinburgh University Press.
-- Loyola University Chicago, Department of Philosophy — Faculty Archives.
+- Peperzak, A. (1993). *To the Other: An Introduction to the Philosophy of Emmanuel Levinas*. Purdue University Press.
+- Peperzak, A. (1997). *Beyond: The Philosophy of Emmanuel Levinas*. Northwestern University Press.
+- Peperzak, A. (1960). *Le jeune Hegel et la vision morale du monde*. La Haye: Martinus Nijhoff.
+- Levinas, E. (1961). *Totalité et Infini*. La Haye: Martinus Nijhoff.
+- Ricoeur, P. (1990). *Soi-même comme un autre*. Paris: Seuil.
