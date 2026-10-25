@@ -36,11 +36,7 @@ gaps:
 
 ### 1. أبحاث MDMA الأولى (التسعينيات من القرن العشرين)
 
-أجرى غروب أول **تجربة سريرية محكّمة** على MDMA في تاريخ الأبحاث الأمريكية الحديثة:
-- **دراسة 1996** (*Journal of Psychoactive Drugs*): تجربة على مرضى سرطان مُنهيين.
-- **دراسة 1998** (*Archives of General Psychiatry*): نتائج واعدة لتخفيف القلق الوجودي.
-
-هذه الدراسات مهدت لـ **استئناف** أبحاث MDMA التي قادها لاحقاً **Michael Mithoefer**.
+كان غروب من أوائل من حصلوا في الولايات المتحدة على إذن لدراسة MDMA على البشر بعد إدراجه في الجدول الأول للمواد الخاضعة للرقابة (1985). ونشر مع زملائه في 1996 ورقة في *Behavioural Brain Research* عن آثاره النفسية والبيولوجية لدى متطوعين، مع اعتبارات منهجية. ثم كتب في *Heffter Review of Psychedelic Research* (1998) مراجعة بعنوان «البحث النفسي بالمهلوسات: ماذا تعلّمنا؟». وظلّت تجربته مرجعاً لمن جاء بعده، ومنهم الباحثون في العلاج بمساعدة MDMA لاضطراب ما بعد الصدمة.
 
 ### 2. مشروع هواسكا (The Hoasca Project، 1993)
 
@@ -62,19 +58,17 @@ gaps:
 
 شارك في تحرير:
 - *Hallucinogens: A Reader* (2002) — قراءات أساسية في المجال.
-- *Psychedelic Medicine* (محرّر مشارك، 2017) — كتاب يلخّص التطور الحديث.
 
 ## المؤلفات
 
 - *Hallucinogens: A Reader* (2002).
-- *Psychedelic Medicine: New Evidence for Hallucinogenic Substances as Treatments* (2007, 2017).
-- *A Primer of Drug Action* (محرّر مشارك).
-- أكثر من **100 ورقة بحثية** في الطب النفسي.
+- *Pilot study of psilocybin treatment for anxiety in patients with advanced-stage cancer* (2011، *Archives of General Psychiatry*).
+- *Human psychopharmacology of hoasca* (1996، *Journal of Nervous and Mental Disease*).
 
 ## الأثر والإرث
 
 - **رائد أكاديمي** في إحياء الأبحاث السايكديلية بعد عقود من الحظر.
-- أثّر في **جيل من الباحثين** مثل Griffiths وCarhart-Harris.
+- عُدّ مع باحثين آخرين في الحقل نفسه، منهم رولاند غريفيث وروبن كارهارت-هاريس، من الأسماء التي أعادت الاعتبار للبحث السريري في المهلوسات.
 - أسهم في **تطبيع** السايكديلية كأداة بحثية مشروعة.
 - **مدرّب أجيال** من طلاب الطب النفسي في UCLA على مقاربة متكاملة للصحة النفسية.
 
@@ -87,7 +81,8 @@ gaps:
 
 ## المصادر
 
-- Wikipedia, "Charles Grob" — https://en.wikipedia.org/wiki/Charles_Grob
-- UCLA Semel Institute, "Charles S. Grob, M.D." — https://teams.semel.ucla.edu/psychedelic-assisted-therapy/team/charles-s-grob-md
-- Heffter Research Institute, "Charles S. Grob, MD" — https://www.heffter.org/charles-s-grob-md/
-- UCLA Newsroom, "The psychedelic Rx: Hallucinogens and mental health" — https://newsroom.ucla.edu/stories/hallucinogens-and-mental-health-therapy
+- Charles S. Grob et al., "Human Psychopharmacology of Hoasca, a Plant Hallucinogen Used in Ritual Context in Brazil", *Journal of Nervous and Mental Disease*, 184(2), 1996.
+- Charles S. Grob, Russell E. Poland, Linda Chang & Thomas Ernst, "Psychobiological Effects of 3,4-Methylenedioxymethamphetamine in Humans: Methodological Considerations and Preliminary Observations", *Behavioural Brain Research*, 73(1-2), 1996.
+- Charles S. Grob, "Psychiatric Research with Hallucinogens: What Have We Learned?", *Heffter Review of Psychedelic Research*, 1, 1998.
+- Charles S. Grob (ed.), *Hallucinogens: A Reader*, Tarcher/Putnam, 2002.
+- Charles S. Grob et al., "Pilot Study of Psilocybin Treatment for Anxiety in Patients with Advanced-Stage Cancer", *Archives of General Psychiatry*, 68(1), 2011.

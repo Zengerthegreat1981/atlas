@@ -36,6 +36,14 @@ gaps:
 
 من «علماء نفس الأنا التطبيقيين» الذين نقلوا التحليل النفسي إلى المؤسسات العلاجية، حلقة وصل بين Anna Freud (نظرياً) وعلم نفس الأطفال المعاصر.
 
+## السيرة والمسار
+
+وُلد بِتِّلهايم في فيينا عام 1903 ونال في 1938 دكتوراه في الفلسفة (الجماليات وتاريخ الفن) من جامعة فيينا. وبعد ضمّ النمسا اعتُقل واحتُجز في داخاو ثم بوخنفالد، وأُفرج عنه في 1939 فهاجر إلى الولايات المتحدة. ودرّس في جامعة شيكاغو، وتولى في 1944 إدارة المدرسة الأورثوجينية التي بقي فيها حتى 1973. وانتحر في ولاية ماريلاند في مارس 1990. وفي عمله اقترح أن علاج الطفل المضطرب لا يتم في جلسة علاجية قصيرة بل في بيئة كاملة تعيد بناء الثقة: غرف مفتوحة، وطاقم يعيش مع الأطفال، وتفسير كل سلوك بما يحمله من معنى للطفل. ويظهر تصوره في *Love Is Not Enough* (1950) و*Truants from Life* (1955).
+
+## عمله عن فرويد وعن الحكايات
+
+نشر في 1983 *Freud and Man's Soul* انتقد فيه الترجمة الإنجليزية الرسمية لفرويد لأنها حوّلت لغته الإنسانية («الروح» Seele، و«الأنا» Ich) إلى مصطلحات طبية باردة (mind، ego)، وبذلك نزعت عن التحليل النفسي بعده الروحي والأخلاقي. وكان هذا الانتقاد من أكثر أعماله قبولاً عند أهل الاختصاص. أما *The Uses of Enchantment* فقد نال جوائز أدبية كبيرة منها جائزة حلقة نقّاد الكتاب (1976) والجائزة الوطنية للكتاب في أمريكا (1977)، ويقوم على قراءة تحليلية للحكايات تؤكد أن الطفل يواجه بها صراعات الاعتماد والمنافسة والانفصال بصورة رمزية آمنة. وكان رد المختصين بالفولكلور أن قراءاته تعمّم تأويلاً تحليلياً على نصوص لها تاريخ متنوع.
+
 ## القيد
 مُدرج هنا لأهميته الشعبية الواسعة، مع **تحذير جوهري مزدوج**:
 
@@ -50,7 +58,10 @@ gaps:
 
 ## المصادر
 
-- [Bruno Bettelheim, Wikipedia](https://en.wikipedia.org/wiki/Bruno_Bettelheim)
-- [Lies the Doctor Told Us — Slate (1997)](https://slate.com/culture/1997/02/lies-the-doctor-told-us.html)
-- [Folklorist Accuses Bettelheim of Plagiarism — The Chronicle of Higher Education](https://www.chronicle.com/article/folklorist-accuses-bettelheim-of-plagiarism/)
-- [Bettelheim Accused of Plagiarism — The Washington Post (1991)](https://www.washingtonpost.com/archive/lifestyle/1991/02/07/bettelheim-accused-of-plagiarism/3f6f6d81-adce-4d5f-b7f0-da728625ccf8/)
+- Bruno Bettelheim, "Individual and Mass Behavior in Extreme Situations", *Journal of Abnormal and Social Psychology*, 38(4), 1943.
+- Bruno Bettelheim, *The Informed Heart: Autonomy in a Mad World*, Free Press, 1960.
+- Bruno Bettelheim, *The Empty Fortress: Infantile Autism and the Birth of the Self*, Free Press, 1967.
+- Bruno Bettelheim, *The Uses of Enchantment: The Meaning and Importance of Fairy Tales*, Knopf, 1976.
+- Bruno Bettelheim, *Freud and Man's Soul*, Knopf, 1983.
+- Alan Dundes, "Bruno Bettelheim's Uses of Enchantment and Abuses of Scholarship", *Journal of American Folklore*, 104(411), 1991.
+- Richard Pollak, *The Creation of Dr. B: A Biography of Bruno Bettelheim*, Simon & Schuster, 1997.

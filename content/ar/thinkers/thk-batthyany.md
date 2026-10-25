@@ -41,6 +41,18 @@ gaps:
 
 **التمييز الحاسم في هذا الملف**: العلاج بالمعنى، ومقولة «إرادة المعنى»، وكل ما في *Man's Search for Meaning* — **لفيكتور فرانكل (1905–1997)**، لا لباتياني. ما يُنسب إلى باتياني هو (أ) استمرار المؤسسة والأرشيف بعد فرانكل، (ب) إخراج نصوص فرانكل غير المنشورة، (ج) اشتغاله الخاص بمسألة الوعي والإرادة الحرة في حوار مع الفلسفة التحليلية وعلوم الأعصاب.
 
+## تراث فرانكل الذي يعمل عليه
+
+يقوم العلاج بالمعنى عند فرانكل على ثلاث مقولات: حرية الإرادة، وإرادة المعنى، ومعنى الحياة. ويرى أن المعنى يُكتشف عبر ثلاثة طرق: بالعمل أو الإبداع، وبالتجربة والحب، وبالموقف الذي يتخذه الإنسان من المعاناة التي لا مفرّ منها. وكان قد نشر في 1946 كتابه الذي عُرف بالإنجليزية بعنوان *Man's Search for Meaning*، ثم ألقى في السنة نفسها محاضرات في فيينا طُبعت لاحقاً. وقد خرجت مخطوطات فرانكل ومراسلاته من الأرشيف إلى القراء بفضل أعمال التحرير في المعهد، وتشمل محاضرات 1946 التي أخرجها باتياني وعلّق عليها في الكتاب المنشور بالإنجليزية عام 2020 (*Yes to Life*).
+
+## البحث في الوعي والظواهر الحدّية
+
+يسير باتياني في خط بحثي ثانٍ هو فلسفة الوعي وما يتصل بالتجارب الحدّية. فقد شارك أفشالوم إليتزور في تحرير كتاب *Mind and Its Place in the World: Non-Reductionist Approaches to the Ontology of Consciousness* (2006) و*Irreducibly Conscious* (2009)، وهما مجموعتان من أوراق تدافع عن مواقف لا اختزالية في الوعي. ثم اتجه إلى دراسة «الصفاء الحدّي» (terminal lucidity)، أي عودة قدرات مفاجئة عند مرضى الخرف أو الأمراض العصبية قبيل الوفاة، وكتب في الموضوع مع الطبيب النفسي بروس غريسون ورقة في مجلة *Psychology of Consciousness* (2021) ثم كتاباً للجمهور العام هو *Threshold* (2023). وتقع هذه الأبحاث في منطقة جدلية، لأن تفسير الظاهرة موضع نقاش بين تفسير عصبي يرده إلى أسباب فسيولوجية في الدماغ المحتضر وتفسير يراها دليلاً ضد الاختزالية، ويقتصر ما يثبته البحث الإحصائي عنده على وجود ظاهرة تحتاج إلى تفسير.
+
+## الأثر
+
+يتجلى أثر باتياني في أنه ربط معهد فرانكل بمنابر النشر الأكاديمي، فصارت أبحاث العلاج بالمعنى تُنشر في سلاسل محكّمة وتُقدَّم في مؤتمرات دولية بدل أن تبقى في أدبيات المدرسة وحدها، كما أتاح للباحثين وصولاً إلى وثائق المؤسس الأصلية. ويمتد حضوره في الأدبيات إلى مجالات مجاورة للفلسفة وعلم النفس، لكنه يظل في الأساس مشرفاً على مؤسسة وباحثاً في أسئلة الوعي.
+
 ## القيد
 
 القيد هو حدّ الاستدلال من الموقع: إدارةُ معهدٍ وتحريرُ تراث مؤسِّسه لا تُنتج بنفسها إسهاماً نظرياً مستقلاً، وأكثر ما يُنسب إلى باتياني في الكتابة العربية عنه هو في الحقيقة مقولات فرانكل منقولة عبره. والقيد الثاني أن أعماله المتحقَّقة هنا كتبٌ محرَّرة ووقائع مؤتمرات، وهي صيغة نشر تُثبت الموقع المؤسسي أكثر مما تُثبت أطروحة قابلة للاختبار.
@@ -52,5 +64,8 @@ gaps:
 
 ## المصادر
 
-- Batthyány, Alexander & Elitzur, Avshalom C. (eds.). *Irreducibly Conscious: Selected Papers on Consciousness*. Heidelberg: Universitätsverlag Winter, 2009.
-- Batthyány, Alexander (ed.). *Logotherapy and Existential Analysis: Proceedings of the Viktor Frankl Institute Vienna, Volume 1*. Cham: Springer, 2016.
+- Alexander Batthyány & Avshalom C. Elitzur (eds.), *Mind and Its Place in the World: Non-Reductionist Approaches to the Ontology of Consciousness*, Frankfurt: Ontos Verlag, 2006.
+- Alexander Batthyány & Avshalom C. Elitzur (eds.), *Irreducibly Conscious: Selected Papers on Consciousness*, Heidelberg: Universitätsverlag Winter, 2009.
+- Alexander Batthyány (ed.), *Logotherapy and Existential Analysis: Proceedings of the Viktor Frankl Institute Vienna, Volume 1*, Cham: Springer, 2016.
+- Viktor E. Frankl, *Yes to Life: In Spite of Everything*, ed. Alexander Batthyány, Beacon Press, 2020.
+- Alexander Batthyány & Bruce Greyson, "Spontaneous remission of dementia before death: Results from a study on paradoxical lucidity", *Psychology of Consciousness: Theory, Research, and Practice*, 8(1), 2021.

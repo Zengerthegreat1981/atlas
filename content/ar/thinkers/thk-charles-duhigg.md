@@ -38,6 +38,14 @@ gaps:
 - **بعض الشواهد المؤسسية سردية**: قصص ألكوا وستاربكس وتارغت **أمثلة توضيحية** لا أدلّة سببية، ويصعب فصل أثر «العادة المحورية» عن عوامل أخرى في تلك الحالات.
 - **مقارنةً بالأدبيات الأكاديمية**: عمل **وِندي وود** (*Good Habits, Bad Habits*) أدقّ منهجياً في تعريف العادة وقياسها، ويرى أن **تغيير السياق** أنجع من تغيير الروتين وحده — وهو ما يقلّل من مركزية «الحلقة».
 
+## السيرة والعمل الصحفي
+
+وُلد دوهيغ عام 1974 ودرس التاريخ في جامعة ييل ثم نال ماجستير إدارة الأعمال من هارفارد، وانضم إلى «نيويورك تايمز» حيث عمل في الصحافة الاستقصائية عن الأعمال والتقنية. وفاز مع فريق الصحيفة بجائزة بوليتزر للتقارير التفسيرية عام 2013 عن سلسلة «اقتصاد آي» (The iEconomy) التي بحثت ظروف إنتاج أجهزة آبل وقضايا العمالة والضرائب. وجاء كتاب *The Power of Habit* (2012) بعد مقال له في مجلة التايمز عن قدرة الشركات على استنتاج عادات الشراء، ثم تبعته *Smarter Faster Better* (2016) في الإنتاجية و*Supercommunicators* (2024) في التواصل.
+
+## ما يقوله البحث عن العادات
+
+استند الكتاب الأول إلى أعمال آن غرايبيل وزملائها في معهد ماساتشوستس للتقنية عن دور العقد القاعدية في تكوين السلوك الروتيني (غرايبيل، 2008)، وإلى حالة يوجين باولي التي درسها لاري سكواير. وتبيّن أبحاث لاحقة أن تعريف العادة عند علماء النفس أضيق من صيغة «الإشارة-الروتين-المكافأة»: فهي استجابة تُستدعى بسياق مستقر بعد تكرار كافٍ، ولا تتطلب بالضرورة توقعاً للمكافأة، ومن هنا اعتراض ويندي وود (2007، مع نيل؛ 2019). وتبيّن دراسة لالي وزملائها (2010) أن مدة تكوّن العادة تتفاوت بين الأفراد والسلوكيات وأن متوسطها نحو ستة وستين يوماً، لا الأسابيع الثلاثة التي شاعت في الثقافة الشعبية، ولم يتبنّ دوهيغ هذا الرقم الأخير.
+
 ## موقعه من التيار
 
 تشارلز دوهيغ صحفي في «نيويورك تايمز» حاصل على جائزة بوليتزر. وموقعه في هذا الأطلس موقع **الوسيط**: نقل أبحاث **التعلّم الإجرائي** و**السلوك الآلي** — وهي تقليد يمتدّ من ثورندايك وسكينر إلى علم أعصاب العقد القاعدية — إلى صيغة تطبيقية بلغت ملايين القرّاء. ويتقاطع عمله مع **بي جيه فوغ** (العادات الصغيرة) و**جيمس كلير** (العادات الذرّية) في أدب تغيير السلوك، وهم ثلاثتهم يستندون إلى القاعدة البحثية نفسها بصياغات متفاوتة الدقّة.
@@ -50,6 +58,10 @@ gaps:
 
 ## المصادر
 
-- "Charles Duhigg Biography," charlesduhigg.com: https://charlesduhigg.com/about/
-- "Charles Duhigg," *Wikipedia* (قاد فريق نيويورك تايمز الحائز على جائزة بوليتزر 2013 عن سلسلة "The iEconomy"): https://en.wikipedia.org/wiki/Charles_Duhigg
-
+- Charles Duhigg, *The Power of Habit: Why We Do What We Do in Life and Business*, Random House, 2012.
+- Charles Duhigg, *Smarter Faster Better: The Secrets of Being Productive in Life and Business*, Random House, 2016.
+- Charles Duhigg, *Supercommunicators: How to Unlock the Secret Language of Connection*, W. W. Norton, 2024.
+- Wendy Wood & David T. Neal, "A New Look at Habits and the Habit-Goal Interface", *Psychological Review*, 114(4), 2007.
+- Wendy Wood, *Good Habits, Bad Habits: The Science of Making Positive Changes That Stick*, Farrar, Straus and Giroux, 2019.
+- Phillippa Lally et al., "How Are Habits Formed: Modelling Habit Formation in the Real World", *European Journal of Social Psychology*, 40(6), 2010.
+- Ann M. Graybiel, "Habits, Rituals, and the Evaluative Brain", *Annual Review of Neuroscience*, 31, 2008.

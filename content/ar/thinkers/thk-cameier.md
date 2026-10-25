@@ -48,9 +48,21 @@ gaps:
 - *Soul and Body: Essays on the Theories of C.G. Jung* (Lapis Press، 1986)، و*Personality: The Individuation Process in the Light of C.G. Jung's Typology* (1995).
 - **العمل التوثيقي**: أسهم في إتاحة مراسلات فرويد–يونغ للنشر، وحرّر مراسلات يونغ مع الفيزيائي **فولفغانغ باولي** (1992).
 
+## ماير وباولي: علم النفس والفيزياء
+
+كان من أبرز مظاهر دور ماير علاقته بالفيزيائي فولفغانغ باولي. فقد دخل باولي في بداية الثلاثينيات في علاقة علاجية مع محلّلين من حلقة يونغ، ونشأت بينه وبين ماير صداقة طويلة وتعاون، وكانت سلسلة أحلام باولي هي المادة التي حلّلها يونغ في *Psychologie und Alchemie* (1944) دون ذكر اسمه. وحرّر ماير مراسلات يونغ وباولي (1932–1958)، وصدرت بالألمانية عام 1992 وبالإنجليزية بعنوان *Atom and Archetype* (برنستون، 2001)، وهي من أهم الوثائق في تاريخ الحوار بين التحليل النفسي والفيزياء الحديثة، وتتصل بنظرية يونغ في التزامن (1952).
+
+## الدين والمنهج
+
+في *Jung's Analytical Psychology and Religion* (1977) عرض ماير تصور يونغ للدين بوصفه وظيفة نفسية ورأى فيه أساساً لفهم العلاقة بين العلاج والتجربة الدينية. وفي الأعمال المتأخرة اشتغل على مفهوم «الحلم الشافي» ومقارنته بتراث العلاج في معابد أسكليبيوس. وقد حاول في كتاب الدرس الجامعي *Lehrbuch der Komplexen Psychologie* أن يقدّم أطروحات يونغ في إطار منهجي يصلح للتدريس، فكان بذلك الجسر بين نصوص متفرقة وبين تعليم منظم، وهو دور المنظّم لا المبدع. وخلاصة أثره أنه حفظ للمدرسة اليونغية مؤسساتها في المرحلة التي تلت وفاة مؤسسها (1961)، ومكّنها من الانتقال من حلقة تلاميذ إلى معهد تدريب مهني معترف به.
+
 ## موقعه من التيار
 
 العمود الإداري–الأكاديمي للمدرسة اليونغية بعد يونغ: مقابل **ماري-لويز فون فرانز** التي حملت الخط التفسيري في الحكايات والخيمياء، اشتغل ماير على تثبيت المؤسسة والعلاج الداخلي (مصحّة 1964) وعلى الوصل بين علم النفس التحليلي والطب النفسي التجريبي. ومعهد زيورخ الذي أسّس رئاسته هو الجهة التي تأهّل فيها **هياو كاواي** أوّل محلّل يونغي ياباني (1965).
+
+## الأثر المؤسسي بعد ماير
+
+بعد رئاسته المعهد أسهم ماير في توحيد برنامج تدريب المحللين: دراسة نظرية في نصوص يونغ، وتحليل شخصي، وإشراف على الحالات، وهي بنية بقيت قالباً لمعاهد التدريب اليونغية في أوروبا وخارجها. وكان تعليمه الجامعي في المدرسة التقنية العليا في زيورخ يُعرّف طلاب العلوم والهندسة بعلم النفس العميق، وهو ما جعل جزءاً من تلاميذه من غير الأطباء.
 
 ## القيد
 
@@ -58,7 +70,8 @@ gaps:
 
 ## المصادر
 
-- C. A. Meier, *Antike Inkubation und moderne Psychotherapie*, Rascher, 1949.
-- C. A. Meier, *Die Empirie des Unbewussten* (Lehrbuch der Komplexen Psychologie C.G. Jungs, Bd. 1), 1968.
-- C. A. Meier, *Soul and Body: Essays on the Theories of C.G. Jung*, Lapis Press, 1986.
-- «Professor C.A. Meier: Scientist and Healer of Souls» — سيرة عنه في سلسلة Remembering Jung (IRSJA).
+- C. A. Meier, *Antike Inkubation und moderne Psychotherapie*, Zürich: Rascher, 1949.
+- C. A. Meier, *Die Empirie des Unbewussten* (Lehrbuch der Komplexen Psychologie C. G. Jungs, Bd. 1), Zürich: Rascher/Walter, 1968.
+- C. A. Meier, *Soul and Body: Essays on the Theories of C. G. Jung*, Lapis Press, 1986.
+- C. A. Meier (ed.), *Wolfgang Pauli und C. G. Jung: Ein Briefwechsel 1932-1958*, Berlin: Springer, 1992.
+- C. A. Meier, *Jung's Analytical Psychology and Religion*, Southern Illinois University Press, 1977.

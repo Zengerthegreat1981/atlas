@@ -37,6 +37,18 @@ gaps:
 - **تطبيقات موسّعة**: امتد نموذجها لاحقاً ليشمل التعامل مع الاضطراب ثنائي القطب واضطرابات الأكل والخرف.
 - **الإدارة الأكاديمية**: تولّت مناصب إدارية في WPIC (نائبة مدير 1987–1989، مديرة 1989–1994)، ثم نائبة رئيس UPMC لخدمات الطب النفسي للمرضى وأسرهم.
 
+## السياق: من لوم الأسرة إلى شراكة معها
+
+حين بدأت أندرسون عملها كانت الأدبيات النفسية في الفصام لا تزال متأثرة بفكرة «الأم المولّدة للفصام» وبنظرية «الرباط المزدوج»، وكانت الأسر تُعامل بوصفها سبباً للمرض أو عائقاً أمام العلاج. وجاء الاتجاه التثقيفي ليعكس هذا الموقف: فالأسرة شريك في العلاج لا مسؤولة عن المرض، والمرض اضطراب بيولوجي يزيده الضغط الانفعالي سوءاً. وتستند الفكرة إلى بحوث «الانفعال المعبَّر عنه» التي أجراها براون وبيرلي ووينغ في بريطانيا (1972) وأظهرت أن المرضى العائدين إلى أسر عالية النقد أو التدخل المفرط أكثر عرضة للانتكاس.
+
+## البرنامج وبنيته
+
+صمّمت أندرسون وهوغارتي العلاج على أربع مراحل. الأولى تقوم على بناء علاقة مع الأسرة قبل خروج المريض من المستشفى وتقدّم لها تفهّماً لما مرّت به. والثانية «ورشة مهارات البقاء» التي تُقدَّم فيها معلومات عن المرض والدواء والأعراض وأساليب التعامل مع الضغوط. والثالثة مرحلة «إعادة الدخول» التي تُعاد فيها بنية حياة المريض داخل الأسرة تدريجياً بتوقعات واقعية. والرابعة مرحلة صيانة طويلة الأمد تهدف إلى تثبيت المكتسبات. وقد اختُبر هذا البرنامج في تجربة عشوائية مضبوطة في بيتسبرغ، ونشرت نتائج سنتها الأولى في *Archives of General Psychiatry* (هوغارتي وزملاؤه، 1986): كان معدل الانتكاس نحو 19% في مجموعة العلاج الأسري مع الدواء مقابل نحو 41% عند الاكتفاء بالدواء. وقد ضعف الفارق جزئياً في المتابعة بعد سنتين.
+
+## الأثر والنقد
+
+صار التثقيف النفسي للأسرة توصية قياسية في إرشادات علاج الفصام في بلدان كثيرة، وانتقل إلى الاضطراب ثنائي القطب والاكتئاب. وتجارب أخرى في بريطانيا (ليف وزملاؤه، 1982) والولايات المتحدة (فالون، 1982) أيّدت النتائج العامة. ومن حدود هذا العمل أن الأدلة تعتمد على المرضى الذين يعيشون مع أسر قريبة، وأن مكاسب الانتكاس ترتبط بالاستمرار في العلاج وقد تتراجع بعد انتهائه، وأن تطبيقه الواسع في العيادات المعتادة بقي أقل من النماذج البحثية بسبب كلفة التدريب والوقت.
+
 ## موقعها من التيار
 
 تُعدّ أندرسون، إلى جانب هوغارتي، من الرواد المؤسسين لـ"التثقيف النفسي" كأسلوب علاجي قائم بذاته في التعامل مع الفصام والأسرة، ومن أوائل من قدّم أدلة تجريبية على فعاليته. ترأست الأكاديمية الأمريكية للعلاج الأسري (American Family Therapy Academy) عام 1988–1989، وحرّرت مجلة *Family Process* بين 1999 و2003.
@@ -45,11 +57,13 @@ gaps:
 
 - *Family Treatment of Adult Schizophrenic Patients: A Psycho-educational Approach*، Schizophrenia Bulletin، 1980 (مع Hogarty وزملاء).
 - *Schizophrenia and the Family: A Practitioner's Guide to Psychoeducation and Management* (مع Douglas J. Reiss وGerard E. Hogarty، 1986).
-- *Mastering Resistance: A Practical Guide to Family Therapy* (1986).
-- *Flying Solo: Single Women in Midlife* (1994).
+- *Mastering Resistance: A Practical Guide to Family Therapy* (1983، مع سوزان ستيوارت).
+- *Flying Solo: Single Women in Midlife* (1994، مع سوزان ستيوارت).
 
 ## المصادر
 
-- [Anderson, C.M. et al., "Family Treatment of Adult Schizophrenic Patients: A Psycho-educational Approach", Schizophrenia Bulletin 6(3), 1980](https://academic.oup.com/schizophreniabulletin/article/6/3/490/1908411)
-- [Schizophrenia and the Family: A Practitioner's Guide to Psychoeducation and Management (Google Books)](https://books.google.com/books/about/Schizophrenia_and_the_Family.html?id=y5sQuJwrErsC)
-- [The Social Work Podcast: Family Psychoeducation – Interview with Carol Anderson, Ph.D.](https://socialworkpodcast.blogspot.com/2007/10/family-psychoeducation-interview-with.html)
+- Carol M. Anderson, Gerard E. Hogarty & Douglas J. Reiss, "Family Treatment of Adult Schizophrenic Patients: A Psycho-educational Approach", *Schizophrenia Bulletin*, 6(3), 1980.
+- Carol M. Anderson, Douglas J. Reiss & Gerard E. Hogarty, *Schizophrenia and the Family: A Practitioner's Guide to Psychoeducation and Management*, Guilford Press, 1986.
+- Gerard E. Hogarty et al., "Family Psychoeducation, Social Skills Training, and Maintenance Chemotherapy in the Aftercare Treatment of Schizophrenia. I. One-year Effects of a Controlled Study on Relapse and Expressed Emotion", *Archives of General Psychiatry*, 43(7), 1986.
+- Carol M. Anderson & Susan Stewart, *Mastering Resistance: A Practical Guide to Family Therapy*, Guilford Press, 1983.
+- George W. Brown, James L. T. Birley & John K. Wing, "Influence of Family Life on the Course of Schizophrenic Disorders: A Replication", *British Journal of Psychiatry*, 121, 1972.

@@ -34,6 +34,19 @@ gaps:
 
 قدّم دراسات فينومينولوجية تجريبية رائدة حول بنية الخبرة المعيشة لـ«الملل المزمن»، انطلاقاً من أطروحته للدكتوراه *Being Bored with One's Life: An Empirical Phenomenological Study* (دوكين، 1999)، والتي نُشرت نسخة منها كمقال بعنوان *A Phenomenological Investigation of Being Bored with Life* (مجلة *Psychological Reports*، 2000). بيّن بارغديل أن الملل المزمن يمثل أزمة وجودية في المعنى والحرية واستسلاماً سلبياً أمام إمكانيات الحياة، محدِّداً خمسة مواضيع نفسية متداخلة تصف تجربة الملل المزمن (منها التناقض الوجداني، وموقف التجنّب السلبي، والأمل السلبي، وارتباك الهوية، والخجل)، وطرح لاحقاً في مقاله النظري *Toward a Theory of Habitual Boredom* (مجلة *Janus Head*) محاولة لصياغة نظرية عامة للظاهرة، وسبلاً لتحويل الملل إلى دافع للإبداع والأصالة.
 
+## الخلفية: الملل في الفلسفة الوجودية وعلم النفس
+
+لم يكن الملل موضوعاً مألوفاً في علم النفس التجريبي، بينما أخذته الفلسفة الوجودية مأخذاً جاداً: فقد حلّل هايدغر في محاضراته *Die Grundbegriffe der Metaphysik* (1929–1930) ثلاثة أشكال من الملل، من الانتظار في محطة القطار إلى الملل العميق الذي يكشف أن الوجود كله لا يعني شيئاً. ومن قبله وصف كيركغارد الملل أصلاً للشر وبحث عن مخرج منه في الاختيار. ومن هذا الإرث الفلسفي انطلق بارغديل ليسأل عن شكل الملل حين يصير حالة مستمرة في حياة شخص معين، لا عارضاً يزول بتغيّر الموقف.
+
+## المنهج: ظاهراتية وصفية تجريبية
+
+يعمل بارغديل داخل تقليد دوكين الذي أسسه أماديو جيورجي: يجمع الباحث أوصافاً مكتوبة أو شفوية لتجربة محددة من أشخاص عاشوها، ثم يحلّلها إلى «وحدات معنى» ويبني منها بنية عامة للتجربة، من غير أن يفرض عليها نظرية مسبقة أو يختبر فرضية سببية. وتتميز النتائج بأنها تصف كيف تُعاش الظاهرة لا أسبابها، فيسهل أن تتفق مع ما يعرفه المعالجون وتصعب مقارنتها بنتائج الدراسات الكمية. ومن ثمّ فإن دراسة بارغديل لا تقدّر نسبة انتشار الملل المزمن ولا ترسم له علاجاً، بل توضح ما يعنيه أن يشعر المرء بأن حياته نفسها مملة.
+
+## الأثر
+
+النتيجة العملية لهذا البحث للمعالج أن الملل المزمن لا يُختزل في اكتئاب خفيف ولا في ضعف الإرادة، بل يستدعي سؤالاً عن المعنى الذي يعطيه المريض لاختياراته. 
+تناولت أبحاثه، ومنها دراسة 2000 المنشورة في *Journal of Phenomenological Psychology* عن «الملل من الحياة»، العلاقة بين الملل المزمن وتحمّل المسؤولية عن اختيارات الحياة والوعي بالإمكانات المتاحة، وسعت لاحقاً إلى مقارنته بالاكتئاب في بحث نشره في *Journal of Humanistic Psychology*، فتناول الفروق النوعية بين الحالتين لا الفروق الكمية في الشدة. ويستدلّ من تنوع المنابر التي نشر فيها (علم النفس الظاهراتي والإنساني والتقارير النفسية) على أن عمله يقع عند تقاطع الفلسفة الوجودية والبحث النفسي. وصارت أعماله مرجعاً في الأدبيات النوعية عن الملل، وتُقرأ مع أبحاث الملل التجريبية التي تقيسه بمقاييس سمة ومقاييس حالة.
+
 ## موقعه من التيار
 
 باحث ومنظّر في علم النفس الفينومينولوجي-الإنساني الأمريكي المعاصر، عضو في المجلس التنفيذي لقسم علم النفس الإنساني بالجمعية الأمريكية لعلم النفس (APA Division 32: Society for Humanistic Psychology)، حيث ترأّس لجنة استقطاب الأعضاء والاحتفاظ بهم، وأسّس برنامج «سفراء الطلبة» فيه عام 2008.
@@ -52,8 +65,8 @@ gaps:
 
 ## المصادر
 
-- Bargdill, R. W. (2000). "A Phenomenological Investigation of Being Bored with Life." *Psychological Reports*, 86(2). https://journals.sagepub.com/doi/10.2466/pr0.2000.86.2.493
-- Bargdill, R. W. "Toward a Theory of Habitual Boredom." *Janus Head*. http://janushead.org/wp-content/uploads/2020/07/Bargdill.pdf
-- Bargdill, R. W. "Habitual Boredom and Depression: Some Qualitative Differences." *Journal of Humanistic Psychology*. https://doi.org/10.1177/0022167816637948
-- الصفحة الرسمية لبارغديل في قسم علم النفس بجامعة فرجينيا كومنولث: https://psychology.vcu.edu/directory/faculty/bargdill.html
-- نشرة قسم علم النفس الإنساني (APA Division 32) حول برنامج «سفراء الطلبة»: apadivisions.org/division-32/publications/newsletters/humanistic/2022/08/updates
+- Bargdill, R. W., "A Phenomenological Investigation of Being Bored with Life", *Psychological Reports*, 86(2), 2000.
+- Bargdill, R. W., "The Study of Life Boredom", *Journal of Phenomenological Psychology*, 31, 2000.
+- Bargdill, R. W., "Habitual Boredom and Depression: Some Qualitative Differences", *Journal of Humanistic Psychology*, 2016.
+- Bargdill, R. W., "Being Bored with One's Life: An Empirical Phenomenological Study", أطروحة دكتوراه، جامعة دوكين، 1999.
+- Heidegger, M., *Die Grundbegriffe der Metaphysik: Welt - Endlichkeit - Einsamkeit* (محاضرات 1929-1930)، Frankfurt am Main: Klostermann، الطبعة الكاملة 1983.

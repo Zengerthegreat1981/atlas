@@ -38,6 +38,14 @@ gaps:
 
 **تكييف PCIT للمعلّمين.** بدأت عام 2006 تجريب صيغة TCIT-U (تدريب تفاعل المعلّم-الطفل، النسخة الشاملة) بوصفها تكييفاً لـPCIT يستخدمه معلّمو مرحلة الطفولة المبكرة داخل الصف بوصفه برنامج وقاية عامّاً لا علاجاً فردياً.
 
+## خلفية PCIT وطريقة العمل
+
+طوّرت شيلا إيبرغ في جامعة فلوريدا علاج تفاعل الوالد-الطفل في سبعينيات القرن الماضي وثمانينياته لعلاج اضطرابات السلوك لدى الأطفال الصغار. ويجري العلاج في غرفة فيها مرآة أحادية الاتجاه، ويراقب المعالج الوالد وهو يلعب مع طفله ويدرّبه فوراً عبر سماعة في الأذن. وللعلاج مرحلتان: مرحلة التفاعل الموجَّه من الطفل التي يُدرَّب فيها الوالد على مهارات مثل المديح والتعليق على اللعب وتقليد الطفل والتعبير عن الاستمتاع، ومرحلة التفاعل الموجَّه من الوالد التي تُدرَّب فيها الأسرة على إصدار الأوامر الواضحة والمتابعة الثابتة. ولذلك فإن بَد تعمل داخل بروتوكول معروف الأركان، وجهدها في تهيئة ظروف تطبيقه خارج الجامعة.
+
+## التقييم الوالدي في سياق الحماية
+
+يمتد اهتمامها بالتقييم الوالدي إلى أعمال أسبق، منها ورقتها مع هولدسوورث في *Journal of Clinical Child Psychology* (1996) عن مسائل التقييم الإكلينيكي للحدّ الأدنى من كفاءة الوالدين. وتنطلق هذه الأعمال من أن المحاكم تطلب من الأخصائي النفسي حكماً على قدرة الوالد على رعاية الطفل، بينما تفتقر الأدوات المتاحة إلى معايير مضبوطة، فاقترحت التركيز على ما يفعله الوالد في الواقع وما يتعلمه عند التدريب، لا على أنماط الشخصية. ويظهر في هذا التوجه تأثير المقاربة السلوكية في علم النفس الإكلينيكي للطفل.
+
 ## موقعها من التيار
 
 PCIT صيغة علاجية ظهرت في مختبرات جامعية، وموقع بَد فيها هو طرف التطبيق: العيادة المجتمعية، وقاعة المحكمة في قضايا حماية الطفل، وصف الحضانة — لا تعديل بروتوكول العلاج نفسه.
@@ -54,6 +62,8 @@ PCIT صيغة علاجية ظهرت في مختبرات جامعية، وموق�
 
 ## المصادر
 
+- Budd, K. S. & Holdsworth, M. J., "Issues in clinical assessment of minimal parenting competence", *Journal of Clinical Child Psychology*, 25(1), 1996.
+- Eyberg, S. M., Nelson, M. M. & Boggs, S. R., "Evidence-based psychosocial treatments for children and adolescents with disruptive behavior", *Journal of Clinical Child and Adolescent Psychology*, 37(1), 2008.
 - Budd, K. S., "Assessing Parenting Competence in Child Protection Cases: A Clinical Practice Model", *Clinical Child and Family Psychology Review*, 4(1), 2001, pp. 1–18.
 - Budd, K. S., Hella, B., Bae, H., Meyerson, D. A., & Watkin, S. C., "Delivering Parent-Child Interaction Therapy in an Urban Community Clinic", *Cognitive and Behavioral Practice*, 18(4), 2011, pp. 502–514.
 - Lyon, A. R., & Budd, K. S., "A Community Mental Health Implementation of Parent–Child Interaction Therapy (PCIT)", *Journal of Child and Family Studies*, 2010.

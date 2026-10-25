@@ -28,10 +28,18 @@ gaps:
 
 ## ما أعطاه
 
-- **توثيق وتنظيم DDP كحقل بحثي وسريري**: نشر أكثر من عشر أوراق محكَّمة عن DDP، من بينها ورقته "Dyadic Developmental Psychotherapy: An Evidence-Based Treatment for Complex Trauma and Attachment Disorders" (*Child & Family Social Work*، 2008)، التي ساهمت في تقديم DDP كنموذج قائم على الأدلة لعلاج الصدمة المعقدة واضطرابات التعلق.
+- **توثيق وتنظيم DDP كحقل بحثي وسريري**: نشر أوراقاً محكَّمة عن DDP، من بينها ورقته المشتركة مع دانيال هيوز عن DDP بوصفه علاجاً قائماً على الأدلة لدى الأطفال ذوي الصدمة المعقدة واضطرابات التعلق (*Child & Family Social Work*، 2008)، التي ساهمت في تقديم DDP كنموذج قائم على الأدلة لعلاج الصدمة المعقدة واضطرابات التعلق.
 - **تحرير مرجع جماعي مبكر عن DDP**: شارك في تحرير *Creating Capacity for Attachment: Dyadic Developmental Psychotherapy in the Treatment of Trauma-Attachment Disorders* (2005، مع Deborah Shell)، وهو من المراجع المبكرة المهمة في الحقل.
 - **مؤلفات لاحقة**: منها *Dyadic Developmental Psychotherapy: Essential Practices and Methods*، و*The Dyadic Developmental Psychotherapy Casebook* (بالاشتراك مع معالجين آخرين)، و*Attachment Parenting: Developing Connections and Healing Children* (2010).
 - **بناء مؤسسي مواز**: أسّس Attachment-Focused Treatment Institute (AFTI) الذي يمنح شهادات اعتماد كمعالجين قائمين على التعلق، إلى جانب دوره المبكر في الهيئة التأسيسية لمعهد DDPI (Dyadic Developmental Psychotherapy Institute) المرتبط بدانيال هيوز.
+
+## أسس الطريقة في كتاباته
+
+يعرض بيكر-ويدمان DDP بوصفه علاجاً يقوم على علاقة المعالج بالطفل ومقدّم الرعاية في الجلسة نفسها (علاج ثنائي). والفكرة المركزية فيه أن اضطراب التعلق عند الطفل المصاب بصدمة في بيت أسري سابق لا يُعالَج بالتحليل اللفظي وحده، بل بتجربة تواصل آمن تتكرر في حضور الوالد البديل أو المتبنّي. ويستند إلى ما ينسبه هيوز إلى الاتجاه التفاعلي من موقف المعالج: اللعب والقبول والفضول والتعاطف (PACE)، وهو إطار يميّز العلاج من الاتجاهات القسرية التي ظهرت في ثمانينيات القرن الماضي وتسمّى «علاج التعلق» أو «العلاج بالإمساك». وفي كتابه *Attachment Parenting* (2010) ينقل هذه المبادئ إلى الآباء بالتبني ومقدّمي الرعاية، مع تركيز على الاستجابة لسلوك الطفل المتحدّي بوصفه تعبيراً عن الخوف لا عناداً.
+
+## الأثر والنقد
+
+أسهم بيكر-ويدمان في أن يدخل DDP في الأدبيات المحكّمة، لكنه يبقى موضع جدل بسبب قلة الدراسات المستقلة عنه. فمعظم النتائج المنشورة عن فعالية DDP جاءت من دراسات غير عشوائية صغيرة أو من نتائج مراكز يديرها مؤسسوها أنفسهم، ولذلك تُعدّ أدلته في المراجعات المنهجية أضعف مما يوحي به عنوان «العلاج القائم على الأدلة». وقد ناقش تقرير فريق عمل الجمعية الأمريكية المهنية لإساءة معاملة الأطفال (APSAC، 2006) ما سُمّي «علاج التعلق» وحذّر من الأساليب القسرية، وكان هذا التقرير سبباً في اهتمام الحقل بتمييز DDP صراحة من تلك الممارسات. وقد أيّد الباحثون في مجال التعلق هذا التمييز مع إبقاء المطالبة بدراسات مضبوطة.
 
 ## موقعه من التيار
 
@@ -44,10 +52,14 @@ gaps:
 - Becker-Weidman, A. *Dyadic Developmental Psychotherapy: Essential Practices and Methods*.
 - Becker-Weidman, A. (2010). *Attachment Parenting: Developing Connections and Healing Children*.
 
+## القيد
+
+يقتصر حضور بيكر-ويدمان على أدبيات العلاج بالتعلق عند الأطفال المتبنّين، ولا يملك الملف مصدراً مستقلاً يؤكد تفاصيل المؤهلات والعضويات المذكورة في سيرته (وهي من سيرة منشورة عنه). ويظلّ DDP نموذجاً سريرياً مرتبطاً بمؤسسه وبمعاهد تدريب بعينها، ولا يُطبَّق الاستنتاج من نتائجه على علاجات التعلق عامّة.
+
 ## المصادر
 
-- Wiley Online Library، Becker-Weidman (2008)، *Child & Family Social Work*: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2206.2008.00557.x
-- Center for Family Development، السيرة الرسمية: https://www.center4familydevelop.com/staff.html
-- Attachment-Focused Treatment Institute، صفحة عن آرثر بيكر-ويدمان: https://attachment-focusedtreatmentinstitute.com/about.html
-- DDP Network، "About DDPI Worldwide" و"Dan Hughes, Founder": https://ddpnetwork.org/ddpi/about-ddpi/ ، https://ddpnetwork.org/about-ddp/dan-hughes-founder/
-- Amazon، صفحة مؤلَّفات آرثر بيكر-ويدمان: https://www.amazon.com/Arthur-Becker-Weidman/e/B005GMSHHK
+- Becker-Weidman, A. & Hughes, D., "Dyadic Developmental Psychotherapy: an evidence-based treatment for children with complex trauma and disorders of attachment", *Child & Family Social Work*, 13(3), 2008.
+- Becker-Weidman, A., "Treatment for Children with Trauma-Attachment Disorders: Dyadic Developmental Psychotherapy", *Child and Adolescent Social Work Journal*, 23(2), 2006.
+- Becker-Weidman, A. & Shell, D. (eds.), *Creating Capacity for Attachment: Dyadic Developmental Psychotherapy in the Treatment of Trauma-Attachment Disorders*, Wood N Barnes Publishing, 2005.
+- Becker-Weidman, A., *Attachment Parenting: Developing Connections and Healing Children*, Jason Aronson, 2010.
+- Chaffin, M. et al., "Report of the APSAC Task Force on Attachment Therapy, Reactive Attachment Disorder, and Attachment Problems", *Child Maltreatment*, 11(1), 2006.

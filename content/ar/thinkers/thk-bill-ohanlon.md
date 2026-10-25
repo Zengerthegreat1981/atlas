@@ -44,6 +44,22 @@ gaps:
 
 هدسون من أهم **الجسور بين التنويم الإريكسوني والعلاج الموجز**، وهو من الجيل الذي أرسى **«العلاج بالموارد»** (Resource-Oriented Therapy) في السياق الأمريكي. تلتقي أعماله مع [ستيف دي شيزر](thk-sdeshacer) في SFBT، ومع [ميلتون إريكسون](thk-merickson) في الإرث، ومع [بول واتزلاويك](thk-pwatzlawick) في مدرسة بالو ألتو.
 
+## التكوين والاتجاه
+
+تتلمذ بيل أوهانلون في سبعينيات القرن الماضي على ميلتون إريكسون وعلى أعماله، وكان من الجيل الذي نقل منهج إريكسون من التقليد الشفوي والحالات إلى مبادئ يمكن تعليمها. وهذا هو عمله في *Taproots* (1987): فقد جمع المبادئ الضمنية في ممارسة إريكسون، مثل الاعتماد على موارد المريض بدل نقصه، واستخدام ما يقدّمه المريض في الجلسة، والتركيز على الحاضر والمستقبل بدل الماضي. ثم أعاد في *In Search of Solutions* (1989، مع ميشيل واينر-ديفيس) تقديم العلاج الموجز في صيغة تعليمية: يبحث المعالج عن «الاستثناءات» حين لا تظهر المشكلة ويبني عليها، ويفترض أن التغيير ممكن ومتوقع. وفي المرحلة اللاحقة طوّر ما سمّاه «علاج الاحتمال» (Possibility Therapy)، وهو صيغة تقوم على ثلاث خطوات: الإقرار بمعاناة المريض، ثم تصديق تجربته، ثم فتح باب الاحتمال بلغة تنتقل من «لا أستطيع» إلى «لم أستطع حتى الآن».
+
+## الفرق بينه وبين العلاج الموجز عند دي شيزر
+
+يختلف أوهانلون عن فريق ميلووكي (دي شيزر وكيم بيرغ) في أنه لا يتجنب الحديث عن المشاعر والصدمات، بل يعدّ التصديق والتعاطف شرطاً لقبول المريض الحلّ. وأضاف إلى المنهج مواد من التنويم الإريكسوني، فكتب مع زملائه كتباً في التنويم الموجّه للحل. ويقوم الفرق بين المدرستين على مسألة العلاقة بين المشكلة والحل: في مدرسة ميلووكي لا يلزم فهم المشكلة، أما أوهانلون فيسمح بمقدار من الحديث عن الماضي إذا كان يخدم الحل.
+
+## الأثر
+
+كان أوهانلون من أكثر المعالجين المعاصرين إنتاجاً وتدريباً، وكتب في الصدمات والعلاقات الزوجية وأعاد صياغة أفكاره في كتب للجمهور العام، مثل *Do One Thing Different* (1999)، ويقدّم ورشاً في أنحاء كثيرة من العالم.
+
+## كتبه التطبيقية
+
+اشتغل أوهانلون في أوراق وكتب على تطبيق الفكرة نفسها في ميادين مختلفة: العلاج الزوجي في *Rewriting Love Stories* (1991، مع جيمس هدسون)، والتنويم الموجّه نحو الحلول في *Solution-Oriented Hypnosis* (1992، مع ريتشارد مارتن)، وعلاج الصدمة في *Quick Steps to Resolving Trauma* (2002)، ثم التدريب المهني في *Coaching Possibilities* (2010). وفي هذه الكتب ثبات في أسلوب واحد: تحويل مبادئ إريكسون والعلاج الموجز إلى خطوات وجمل يستطيع المعالج أن يجرّبها. وقد حدّ ذلك من عمقه النظري لكنه زاد في قبوله عند الممارسين.
+
 ## القيد
 
 موقعه في الأدبيات الأكاديمية الدولية ضعيف نسبياً، لأن معظم إنتاجه في شكل تدريبي (برامج، ورش) لا كتباً أكاديمية. أسلوبه في الكتابة «شبه جماهيري» يُقلّل من قبوله في الأوساط الأكاديمية.
@@ -62,9 +78,8 @@ gaps:
 
 ## المصادر
 
-- O'Hanlon, W. H., & Weiner-Davis, M. (1989). *In Search of Solutions*. Norton.
-- O'Hanlon, B., & Beadle, S. (1997). *A Guide to Possibility Land*. Norton.
-- O'Hanlon, B. (1987). *Taproots: Underlying Principles of Milton Erickson's Therapy and Hypnosis*. Norton.
-- de Shazer, S. (1985). *Keys to Solution in Brief Therapy*. Norton.
-- Erickson Foundation — Faculty Archives.
-- Brief Therapy Center of Denver — Bill O'Hanlon Archives.
+- O'Hanlon, W. H. (1987). *Taproots: Underlying Principles of Milton H. Erickson's Therapy and Hypnosis*. New York: Norton.
+- O'Hanlon, W. H., & Weiner-Davis, M. (1989). *In Search of Solutions: A New Direction in Psychotherapy*. New York: Norton.
+- O'Hanlon, B., & Beadle, S. (1997). *A Guide to Possibility Land: Fifty-one Methods for Doing Brief, Respectful Therapy*. New York: Norton.
+- O'Hanlon, B. (1999). *Do One Thing Different: Ten Simple Ways to Change Your Life*. New York: William Morrow.
+- de Shazer, S. (1985). *Keys to Solution in Brief Therapy*. New York: Norton.

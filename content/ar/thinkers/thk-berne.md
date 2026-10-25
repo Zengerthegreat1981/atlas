@@ -42,10 +42,18 @@ gaps:
 - **"الألعاب الناس يلعبونها" (Games People Play, 1964)**: كتابه الأكثر شعبية والأطول بقاءً على قائمة الأكثر مبيعاً في نيويورك تايمز (أكثر من عامين). يصف "الألعاب النفسية" (Psychological Games) عبر "صيغة اللعبة" (Formula G): "الطُّعم + نقطة الضعف = استجابة ← تحوُّل ← ارتباك ← مَكسَب" (Con + Gimmick = Response → Switch → Crossup → Payoff). صاغ فيها ألعاباً مثل "Rapo" (لعبة إغواء ثم رفض)، "NIGYYSOB" (Now I've Got You, You Son of a Bitch) و"Why Don't You, Yes But" (لمَ لا، نعم، لكن).
 - **"ماذا تقول بعد أن تقول مرحباً؟" (What Do You Say After You Say Hello?، نُشر بعد وفاته عام 1972)**: الكتاب الذي يُكمل فيه نموذج "الـ'Scripts'" (المخطوطات الحياتية) — وهي "قصة غير واعية" تحدّد مسار حياة الفرد.
 - "حالات الـ'Ego'": تبنّى "حالات الأنا" الثلاث (الوالد/الراشد/الوُلد) بوصفها "حالات ظاهرية" (Phenomenological) لا "مُتعارَض عليها" في علم النفس.
-- "التصويت (Strokes)": مفهوم "التربيتة" (Stroke) بوصفها الوحدة الأساسية للتواصل البشري. صاغ "The Five Hunger" (الجوع الخمسة): (1) الاعتراف (Recognition)، (2) التحفيز (Stimulation)، (3) الهيكل (Structure)، (4) التضمين (Inclusion)، (5) الحبّ (Love).
-- "تقنية OK Corral": "الجدار الذي يَحكم" كلّ علاقة: "أنا موافق، أنت موافق" (I'm OK, You're OK)، وهو عنوان كتابه اللاحق.
+- "التربيتات" (Strokes): مفهوم "التربيتة" بوصفها الوحدة الأساسية للاعتراف بالآخر، وقد استعاره بيرن من أعمال رينيه سبيتز عن حرمان الرضّع من اللمس. وربط بها ثلاثة "جوعات": جوع الاعتراف، وجوع التنبيه، وجوع البنية (أي الحاجة إلى تنظيم الوقت).
+- "مواقف الحياة": تحدّث بيرن عن مواقف أساسية يتخذها الطفل من نفسه ومن الآخرين، وهي أساس فكرة "الـScript"؛ أما عبارة "أنا موافق، أنت موافق" (I'm OK, You're OK) فهي عنوان كتاب توماس هاريس (1967) لا كتاب بيرن، وأما جدول "OK Corral" فيعود إلى فرانكلين إرنست (1971).
 - "المعاملة المتبادلة" (Transaction): تمييز بين "معاملة مُكمِّلة" (Complementary)، "مُتقاطعة" (Crossed)، و"ضمنية" (Ulterior).
 - "الجمعية الدولية للتحليل التفاعلي" (ITAA): تأسّست عام 1964 على يد بيرن وزملائه في ندوات سان فرانسيسكو للطبّ النفسي الاجتماعي، وهي منظمة لا تزال نشطة.
+
+## السيرة والتأسيس
+
+تدرّب بيرن في التحليل النفسي عند باول فيديرن، ثم عند إريك إريكسون في سان فرانسيسكو، وخدم في الجيش الأمريكي أثناء الحرب العالمية الثانية. وفي مطلع الخمسينيات نشر سلسلة أوراق عن الحدس (*Psychiatric Quarterly*، 1949–1962) ومنها بدأت فكرة حالات الأنا. ورُفض طلب عضويته في معهد التحليل النفسي في سان فرانسيسكو في 1956، فاتجه إلى تطوير نموذجه الخاص: عقد منذ 1958 «ندوات سان فرانسيسكو للطب النفسي الاجتماعي»، وأصدر في 1962 *Transactional Analysis Bulletin*، ثم أسّس في 1964 الجمعية الدولية للتحليل التفاعلي. وتوفي في يوليو 1970، قبل أن يرى شيوع مدرسته.
+
+## اللغة التي صنعها
+
+قدّم بيرن في *Games People Play* ستة أساليب لتنظيم الوقت بين الناس: الانسحاب، والطقوس، والتسلية، والنشاط، واللعب، والحميمية، ورأى أن الألعاب نوع من التواصل المزدوج يخفي رسالة خفية تحت الرسالة الظاهرة. وقد سمّى المعاملة «ضمنية» حين يختلف الظاهر عن الخفي. وقدّم نظريته عن السيناريو الحياتي بوصفها خطة وضعها الطفل مبكراً بتأثير رسائل الوالدين ثم يعيش بها دون وعي. وتحول هذا الإطار إلى مدارس لاحقة داخل التحليل التفاعلي: مدرسة «الكاثكسيس» (جاكي شيف)، ومدرسة «إعادة القرار» (روبرت وماري غولدينغ)، والمدرسة الكلاسيكية. وعلى الرغم من أن لغته تيسّر الفهم، فقد وُجّه له نقد بسبب قلة الأدلة التجريبية على حالات الأنا بوصفها بنى نفسية مستقلة، وبسبب الاستعمال الشائع لمصطلحاته في الإدارة والتنمية الذاتية بعيداً عن الإطار العلاجي.
 
 ## موقعه من التيار
 
@@ -58,15 +66,15 @@ gaps:
 - *Games People Play: The Psychology of Human Relationships* (1964).
 - *The Happy Valley* (كتاب حكائي/أُقصوصة رمزية غير سريرية، 1968).
 - *Principles of Group Treatment* (1966).
-- *A Layman's Guide to Psychiatry and Psychoanalysis* (محرر مع Holt، 1967).
+- *A Layman's Guide to Psychiatry and Psychoanalysis* (1957، وهو الصيغة المنقّحة من *The Mind in Action* 1947).
 - *Sex in Human Loving* (1970).
 - *What Do You Say After You Say Hello?* (نُشر بعد وفاته عام 1972).
-- *Beyond Games and Scripts* (محرر مع Steiner، صدر بعد وفاته عام 1972).
+- *Beyond Games and Scripts* (مختارات حرّرها كلود شتاينر، صدرت بعد وفاته عام 1976).
 
 ## المصادر
 
-- Eric Berne, official biography — ericberne.com/eric_berne_biography
-- "Eric Berne", Wikipedia (en.wikipedia.org/wiki/Eric_Berne)
-- International Transactional Analysis Association (ITAA) — About ITAA, itaaworld.com/about-itaa
-- "Games People Play (book)", Wikipedia (en.wikipedia.org/wiki/Games_People_Play_(book))
-- The Happy Valley — ericberne.com/the-happy-valley
+- Eric Berne, *Transactional Analysis in Psychotherapy: A Systematic Individual and Social Psychiatry*, Grove Press, 1961.
+- Eric Berne, *Games People Play: The Psychology of Human Relationships*, Grove Press, 1964.
+- Eric Berne, *Principles of Group Treatment*, Oxford University Press, 1966.
+- Eric Berne, *What Do You Say After You Say Hello? The Psychology of Human Destiny*, Grove Press, 1972.
+- Thomas A. Harris, *I'm OK - You're OK*, Harper & Row, 1967.
