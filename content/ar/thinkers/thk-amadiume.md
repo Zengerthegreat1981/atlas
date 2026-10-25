@@ -46,9 +46,25 @@ gaps:
 
 بنات ذكور، أزواج إناث (Male Daughters, Female Husbands: Gender and Sex in an African Society, 1987 — حازت جائزة Choice Outstanding Academic Book عام 1989) · إعادة اختراع أفريقيا: الأمومة، الدين، والثقافة (Re-Inventing Africa: Matriarchy, Religion and Culture, 1997) · بنات الإلهة، بنات الاستعمار (Daughters of the Goddess, Daughters of Imperialism: African Women Struggle for Culture, Power and Democracy, 2000).
 
-## المصادر
+## السيرة والتكوين
 
-- Amadiume, Ifi. *Male Daughters, Female Husbands: Gender and Sex in an African Society*. Zed Books, 1987.
-- Amadiume, Ifi. *Re-Inventing Africa: Matriarchy, Religion and Culture*. Zed Books, 1997.
-- Amadiume, Ifi. *Daughters of the Goddess, Daughters of Imperialism: African Women Struggle for Culture, Power and Democracy*. Zed Books, 2000.
-- ملف WRK ذو الصلة بأعمالها لم يُنشأ بعد في الأطلس — راجع gap أعلاه بخصوص thk-nnaemeka.
+وُلدت إيفي أماديومي في نيجيريا سنة 1947 لأسرة من الإيغبو في منطقة نّوبي، وتلقّت تعليمها العالي في بريطانيا حيث درست الأنثروبولوجيا الاجتماعية وحصلت على الدكتوراه من جامعة لندن. وعملت في الأكاديميات الأفريقية والبريطانية قبل أن تنتقل إلى كلية دارتموث. وهي أيضاً شاعرة، ويتصل شعرها بتأملها في الجسد والأمومة والإلهة. وبذلك جمعت بين الحقل الإثنوغرافي والتفكير النظري والكتابة الأدبية.
+
+## مقولة الازدواج الجنسي ونظام الأدوار المرنة
+
+تبيّن دراستها في نّوبي أن العلاقة بين الجنس البيولوجي والدور الاجتماعي لم تكن ثابتة في مجتمع الإيغبو قبل الاستعمار. ففي نظام «البنات الذكور» تُعيَّن ابنة لتقوم مقام الابن في الأسرة التي لا وريث ذكراً لها فتتصرف باعتبارها ذكراً داخل خط النسب، وفي نظام «الأزواج الإناث» تستطيع امرأة ثرية أن تتزوج امرأة أخرى لتزيد عدد أفراد بيتها وتصبح رأسه. وتصف أماديومي مجتمعاً مرن الأدوار، أي أن للنساء مؤسسات خاصة بهن ومنظمات وأسواقاً ومجالس، تقابل مؤسسات الرجال، وبهذا لا تكون المرأة تابعة لمؤسسة الرجل. وتربط ذلك بعبادة الإلهة إيديميلي التي تمنح للمرأة مكانة دينية.
+
+## نقد النسوية الغربية والاستعمار
+
+ترى أماديومي أن الاستعمار البريطاني والتبشير المسيحي قوّضا مؤسسات النساء، لأن الإدارة الاستعمارية خاطبت الرجال دون النساء وفرضت نموذج الأسرة الأوروبية. ولذلك تنتقد النسوية الغربية التي تقرأ المجتمعات الأفريقية بمقياس الاضطهاد الجاهز، وتدعو إلى تحليل يبدأ من أطر المعنى المحلية. وفي كتابها «إعادة اختراع أفريقيا» (1997) تتتبع اختلاط مفهوم الأمومة والدين بأسئلة السلطة والاقتصاد. وفي «بنات الإلهة، بنات الاستعمار» (2000) توسع النقد إلى أسئلة الديمقراطية والدولة ما بعد الاستعمار.
+
+## الجدل حولها
+
+ترتبط أماديومي في الدرس النقدي بأوييرونكي أوييوومي، صاحبة «اختراع النساء» (1997)، التي رأت أن مقولة الجندر نفسها غربية الأصل ولا تصلح لقراءة مجتمع اليوروبا. وقد ناقشت الاثنتان الفكرة نفسها بطرق مختلفة. ومع ذلك فقد رأى بعض الباحثين أن الفصل بين المرحلة السابقة على الاستعمار والمرحلة اللاحقة قد يغفل عن وجود أشكال من التمييز قبل الاستعمار، وأن الاستناد إلى حالات استثنائية كـ«الزوجة الزوج» لا يكفي لتعميم نظام مساواة، وأن قضية المصادر الشفهية والذاكرة الجماعية تحتاج إلى حذر منهجي. كما أن مفهوم «الأمومية» عندها أثار جدلاً حول معنى الأمومة بوصفه أساساً للسلطة.
+
+## المصادر
+- Ifi Amadiume, Male Daughters, Female Husbands: Gender and Sex in an African Society, London: Zed Books, 1987.
+- Ifi Amadiume, Re-Inventing Africa: Matriarchy, Religion and Culture, London: Zed Books, 1997.
+- Ifi Amadiume, Daughters of the Goddess, Daughters of Imperialism: African Women Struggle for Culture, Power and Democracy, London: Zed Books, 2000.
+- Oyèrónkẹ́ Oyěwùmí, The Invention of Women: Making an African Sense of Western Gender Discourses, Minneapolis: University of Minnesota Press, 1997.
+- Gwendolyn Mikell (ed.), African Feminism: The Politics of Survival in Sub-Saharan Africa, Philadelphia: University of Pennsylvania Press, 1997.
