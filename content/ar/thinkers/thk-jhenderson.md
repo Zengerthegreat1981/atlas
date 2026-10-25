@@ -46,8 +46,29 @@ gaps:
 
 حكمة الحية (The Wisdom of the Serpent, 1963 مع Oakes) · عتبات البدء (Thresholds of Initiation, 1967) · الظلّ والذات (Shadow and Self, 1990) · تحوّل النفس (Transformation of the Psyche, 2003 مع Sherwood).
 
+## الحضور العربي
+
+أقرب ما يصل به هندرسون إلى القارئ العربي فصله «الأساطير القديمة والإنسان الحديث» الذي كتبه لكتاب يونغ الأخير *Man and His Symbols* (1964)، وهو الكتاب الذي يُتداول بالعربية تحت عنوان «الإنسان ورموزه». أما كتبه المنفردة فلم نقف لها على ترجمة عربية معتمدة، ولذلك لا تتوافر في العربية صيغة مستقرة لمصطلحه «اللاوعي الثقافي». وهنا يستحق التنبيه أن مادته الأنثروبولوجية، من طقوس البلوغ عند قبائل أمريكا الشمالية إلى أساطير القيامة، ليست من المنطقة العربية.
+
+## فكرة الاتجاه الثقافي
+
+لم يقدّم هندرسون «اللاوعي الثقافي» في رسالة نظرية منفصلة، بل عرضه في كتابه *Cultural Attitudes in Psychological Perspective* (1984) ومقالاته المبكرة. وفحواه أن لكل ثقافة وضعاً نفسياً غالباً يتخذ شكل «اتجاه ثقافي» يتحكم في ما يقبله أفرادها من صور رمزية، وأن لهذا الاتجاه حدوداً تظهر في لحظات الأزمة، فيصعد من أعماق الجماعة ما كان مقصياً. وقد أعاد توماس سينغر وساموئيل كيمبلز تطوير الفكرة في كتاب *The Cultural Complex* (2004) بلغة المركّب النفسي المشترك بين أفراد جماعة معينة، فصار يُستعمل في تحليل الصراعات القومية والعرقية.
+
+أما سلسلة الأعمال عن طقوس العبور فتقوم على قراءة الأنماط في مراسم البلوغ والموت والبعث، وفي كتاب *The Wisdom of the Serpent* (1963، مع مود أوكس) تتبع صورة الحية من الموت إلى الولادة الجديدة. وفي *Thresholds of Initiation* (1967، دار Wesleyan University Press) رأى أن مراسم العبور تؤدي وظيفة نفسية يفتقر إليها الإنسان الحديث حين يتدرج من مرحلة إلى أخرى دون طقس.
+
+ويضاف إلى ذلك جانب مؤسسي: فأرشيف ARAS الذي اتصل به اسمه هو مجموعة مصوّرة للرموز والأنماط في الفنون والأساطير والطقوس، مصحوبة بتعليقات تفسيرية، ويستعمله الباحثون والمحللون مرجعاً بصرياً في دراسة الرمزية، وهو ما جعل لعمله أثراً يتجاوز كتبه إلى بنية معرفية تخدم من جاؤوا بعده.
+
+## حدود وانتقادات
+
+يعدّ نقاد التحليل اليونغي أن ربط الصور الأركيتيبية بثقافات بعينها، «الهندية» و«اليابانية» مثلاً، يخاطر بالنزعة الجوهرانية: كأن لكل شعب نفساً ثابتة، وهو نقد تناولته كتابات مثل كتاب أندرو صامويلز «النفس السياسية» (1993). ومن الناحية المنهجية، تعتمد قراءاته على الأسطورة والفن والطقس لا على بيانات قابلة للاختبار، فتبقى فكرة «الاتجاه الثقافي» تفسيراً يصعب نفيه. أما كونه آخر من تحلل مباشرة عند يونغ فهو تقدير تاريخي يُنقل بحذر.
+
 ## المصادر
 
-- Kirsch, T. (2008). "Joseph Lewis Henderson 1903–2007: A Biography". *Jung Journal*, 2(1). https://www.tandfonline.com/doi/abs/10.1525/jung.2008.2.1.78
-- "Joseph L. Henderson", Wikipedia. https://en.wikipedia.org/wiki/Joseph_L._Henderson
-- "Finding Aid for the Joseph L. Henderson Papers (1901–2003)", C.G. Jung Institute of San Francisco / Online Archive of California. https://oac.cdlib.org/findaid/ark:/13030/c8pr81cp/
+- Henderson, J. L., & Oakes, M. (1963). *The Wisdom of the Serpent: The Myths of Death, Rebirth, and Resurrection*. New York: George Braziller.
+- Henderson, J. L. (1964). "Ancient myths and modern man". In C. G. Jung (Ed.), *Man and His Symbols* (pp. 95–156). Garden City, NY: Doubleday.
+- Henderson, J. L. (1967). *Thresholds of Initiation*. Middletown, CT: Wesleyan University Press.
+- Henderson, J. L. (1984). *Cultural Attitudes in Psychological Perspective*. Toronto: Inner City Books.
+- Henderson, J. L. (1990). *Shadow and Self: Selected Papers in Analytical Psychology*. Wilmette, IL: Chiron Publications.
+- Henderson, J. L., & Sherwood, D. N. (2003). *Transformation of the Psyche: The Symbolic Alchemy of the Splendor Solis*. London: Brunner-Routledge.
+- Singer, T., & Kimbles, S. L. (Eds.). (2004). *The Cultural Complex: Contemporary Jungian Perspectives on Psyche and Society*. London: Brunner-Routledge.
+- Kirsch, T. (2008). "Joseph Lewis Henderson 1903–2007: A biography". *Jung Journal*, 2(1).

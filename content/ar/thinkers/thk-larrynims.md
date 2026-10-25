@@ -45,9 +45,29 @@ BSFF، كسائر تقنيات علم نفس الطاقة، تفتقر إلى ق
 
 - *Be Set Free Fast!: A Revolutionary New Way to Eliminate Your Discomforts* (مع Joan Sotkin).
 
+## السياق: علم نفس الطاقة وجذوره
+
+نشأ علم نفس الطاقة في الولايات المتحدة في ثمانينيات القرن العشرين على يد روجر كالاهان الذي ابتكر «نظرية حقل الفكر» وادّعى أن النقر على نقاط معينة من الجسم بتسلسل محدد يزيل الاضطراب الانفعالي في دقائق. وقد دخل هذا الحقل سريعاً في خلاف علمي: فقد نشر غودييانو وهربرت في مجلة *Applied and Preventive Psychology* عام 2000 تحليلاً نقدياً بعنوان «هل يمكننا فعلاً أن ننقر مشكلاتنا بعيداً؟» خلص إلى أن دعاوى نظرية حقل الفكر تفتقر إلى أساس تجريبي كاف، وأن ما قد يعمل فيها هو عناصر معروفة من العلاج المعرفي السلوكي مثل التعرّض والانتباه والإيحاء. ثم تفرع من هذا الأصل تيار عريض، ومنه تقنية الحرية الانفعالية (EFT) لغاري كريغ، ومنه أيضاً الطريق الذي سلكه نيمز.
+
+## أين يقع BSFF؟
+
+يتميز BSFF عن نظائره بأنه ينقل مركز الثقل من الجسد إلى اللغة: فبدل النقر على نقاط، يوجّه المعالج والمتعالج تعليمات لفظية إلى العقل الباطن بوساطة كلمة إشارة. وهذا يجعله أقرب شكلياً إلى الإيحاء والعلاج بالتنويم الإيحائي منه إلى تقنيات النقر. وإن صحّت مقارنته بذلك، فإن ما يفسر أثره المحتمل هو الإيحاء والتوقع والانتباه الموجّه لا جهاز طاقة خفي. وهذا تحليل مقارن لا يقدمه نيمز نفسه، وهو يستند إلى ما هو معروف عن آليات الاستجابة للعلاجات القصيرة.
+
+## ما قالته المراجعات البحثية
+
+نشر فينستاين عام 2012 في *Review of General Psychology* مراجعة بعنوان «تحفيز نقاط الوخز في علاج الاضطرابات النفسية: دليل على الفعالية»، رأى فيها أن تجارب عدة، منها تجارب على اضطراب ما بعد الصدمة والرهاب، تدعم فعالية بروتوكولات النقر. وقدمت دراسة تشرتش وزملائه في *Journal of Nervous and Mental Disease* عام 2012 دليلاً على أن EFT خفضت الكورتيزول لدى المشاركين أكثر من الحديث العلاجي وحده. غير أن هذه الأعمال صدرت في معظمها عن باحثين منتمين إلى الحقل، ويرى المشككون أنها لا تعزل العنصر الفعال المحتمل، وأن معظم الدراسات صغيرة. ولا نعرف تجارب معشاة مستقلة مخصوصة بـ BSFF.
+
+## الصدى العربي
+
+لم نجد ترجمة عربية لأعمال نيمز ولا حضوراً مؤسسياً لـ BSFF في الدراسات العربية. أما علم نفس الطاقة بوجه عام فيتناقله ممارسون عرب في دورات تنمية بشرية وعلاج بديل، وهي سياقات لا تخضع غالباً لمراجعة علمية، ويتداخل فيها هذا الحقل مع الرقية والعلاج الروحي بما يستدعي حذراً من المبالغة في الدعاوى.
+
+## حدود وانتقادات إضافية
+
+تتعلق الملاحظات الأساسية بإثبات الفعالية: فآلية «إزالة المصدر السببي» لا يمكن اختبارها لأنها لا تحدد مؤشرات قابلة للقياس. وتتصل ملاحظة ثانية بالمبالغة التسويقية، فادعاء إزالة اضطرابات عميقة في جلسات قصيرة يخالف ما تعرفه الأدبيات عن علاج الصدمة المعقدة، وقد يؤدي إلى ترك العلاجات الموثقة. وملاحظة ثالثة أخلاقية: فالتدريب على التقنية يتم عبر مراكز خاصة غير خاضعة لمعايير الاعتماد المهني الأكاديمي، ما يترك للمريض عبء التمييز بين الادعاء والدليل.
+
 ## المصادر
 
-- [Larry Nims Ph.D. Celebration of Life — virtualmemorialgatherings.com](https://virtualmemorialgatherings.com/larry-nims/)
-- [The Official Be Set Free Fast™ Website — A Message from Dr. Nims](https://web.archive.org/web/20230616235751/https://www.besetfreefast.com/a-message-from-dr-nims)
-- [Be Set Free Fast! — Google Books](https://books.google.com/books/about/Be_Set_Free_Fast.html?id=axV_PQAACAAJ)
-- [History of Tapping (Including EFT) — Thriving Now](https://www.thrivingnow.com/history-of-tapping-eft/)
+- Gaudiano, B. A. & Herbert, J. D. (2000). "Can we really tap our problems away? A critical analysis of thought field therapy". *Applied and Preventive Psychology*, 9(1), 29–44.
+- Feinstein, D. (2012). "Acupoint stimulation in treating psychological disorders: Evidence of efficacy". *Review of General Psychology*, 16(4), 364–380.
+- Church, D., Yount, G., & Brooks, A. J. (2012). "The effect of Emotional Freedom Techniques on stress biochemistry: A randomized controlled trial". *Journal of Nervous and Mental Disease*, 200(10), 891–896.
+- Lilienfeld, S. O., Lynn, S. J., & Lohr, J. M. (eds.) (2015). *Science and Pseudoscience in Clinical Psychology* (2nd ed.). New York: Guilford Press.

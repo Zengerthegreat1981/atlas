@@ -56,10 +56,24 @@ gaps:
 
 كان فرانك ناشطاً بارزاً ضدّ **السلاح النووي**، وطبّق تحليلَه النفسيَّ نفسَه — الإدراكُ المتبادَل، والتصعيدُ، وصورةُ العدو — على سباق التسلُّح في ***Sanity and Survival: Psychological Aspects of War and Peace*** (1967).
 
+## سيرته وموقعه
+
+وُلد جيروم فرانك في نيويورك عام 1909 وتوفي في بالتيمور عام 2005، وتكوّن في علم النفس ثم في الطب في هارفارد، وخدم في الحرب العالمية الثانية طبيباً نفسياً في الجيش الأمريكي، ثم استقرّ في جونز هوبكنز منذ نهاية الأربعينيات. وهو بذلك ينتمي إلى جيل أمريكي جمع بين التدريب الأكاديمي والعمل في المستشفى، ولم يؤسس مدرسة علاجية خاصة به، وإنما كان ناقداً لمدارس غيره. وقبل كتاب 1961 درس مع زملائه الجماعاتِ العلاجية وسؤالَ لماذا ينسحب المرضى من العلاج، وكتب مع روزنثال عام 1956 في *Psychological Bulletin* عن العلاج النفسي وأثر الدواء الوهمي، وهي الورقة التي مهّدت لفكرة أن التوقع نفسه عنصر علاجي.
+
+## العوامل المشتركة والجدل بعده
+
+سبقه ساول روزنزفايغ عام 1936 إلى فكرة العوامل المشتركة، لكن فرانك أعطاها بناءً مقارناً بين الثقافات. وفي 1975 نشر لوبورسكي وسينغر وزميلهما في *Archives of General Psychiatry* مراجعة بعنوان هل صحيح أن الجميع فاز وأن لكل منهم جائزة، فنقلت المسألة إلى لغة المراجعات الكمية. ثم جاءت الطبعة الثالثة من كتابه عام 1991 مع جوليا فرانك لتضيف أدلة جديدة. ويصلح إطاره اليوم لقراءة أشكال الاستشفاء التقليدي، ومنها ما يقوم على الرقية والطقوس الجماعية في العالم العربي، دون أن يكون فرانك قد كتب عنها: فالعناصر الأربعة، من علاقة وإطار وتفسير وطقس، تقدّم أداة تحليل لا حكماً على صحة تلك الممارسات.
+
+## حدود وانتقادات
+
+أولها أخلاقي: إذا كان المخطط التفسيري لا يُشترط صدقه بل قبول الطرفين له، فكيف يُوفَّق بين هذا وبين واجب المعالج في الصدق مع المريض؟ لقد أحسّ فرانك بالإشكال، لكنه لم يحسمه، والمبدأ لا يصلح قاعدة سلوك مهني. وثانيها أن الفكرة صيغت في زمن لم تتوافر فيه بعد معطيات العلاجات القائمة على أدلة، فالعوامل المشتركة تفسّر جزءاً من التباين، لكنها لا تلغي الفروق الواضحة في اضطرابات بعينها. وثالثها غياب ترجمة عربية معتمدة للكتاب في ما أمكن التثبت منه، فمصطلح الإحباط المعنوي يُتداول بصيغ متعددة.
+
 ## المصادر
 
-- Frank, Jerome D. *Persuasion and Healing: A Comparative Study of Psychotherapy*. Johns Hopkins University Press, 1961. [الطبعةُ الثالثة مع Julia B. Frank، 1991.]
-- Frank, Jerome D. *Sanity and Survival: Psychological Aspects of War and Peace*. Random House, 1967.
-- Frank, Jerome D. "Psychotherapy: The Restoration of Morale." *American Journal of Psychiatry*, 131(3), 1974, 271–274.
-- Wampold, Bruce E. & Imel, Zac E. *The Great Psychotherapy Debate*. 2nd ed., Routledge, 2015. [الامتدادُ الكمّيُّ لأطروحة فرانك.]
-- Rosenzweig, Saul. "Some Implicit Common Factors in Diverse Methods of Psychotherapy." *American Journal of Orthopsychiatry*, 6(3), 1936, 412–415. [السابقُ الذي صاغ حكمَ الطائر الدودو.]
+- Frank, J. D. (1961). *Persuasion and Healing: A Comparative Study of Psychotherapy*. Baltimore: Johns Hopkins University Press. (الطبعة الثالثة مع Julia B. Frank، 1991.)
+- Frank, J. D. (1967). *Sanity and Survival: Psychological Aspects of War and Peace*. New York: Random House.
+- Frank, J. D. (1974). "Psychotherapy: The restoration of morale". *American Journal of Psychiatry*, 131(3), 271–274.
+- Rosenthal, D., & Frank, J. D. (1956). "Psychotherapy and the placebo effect". *Psychological Bulletin*, 53(4), 294–302.
+- Rosenzweig, S. (1936). "Some implicit common factors in diverse methods of psychotherapy". *American Journal of Orthopsychiatry*, 6(3), 412–415.
+- Luborsky, L., Singer, B., & Luborsky, L. (1975). "Comparative studies of psychotherapies: Is it true that everyone has won and all must have prizes?". *Archives of General Psychiatry*, 32(8), 995–1008.
+- Wampold, B. E., & Imel, Z. E. (2015). *The Great Psychotherapy Debate* (2nd ed.). New York: Routledge.

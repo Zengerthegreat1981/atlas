@@ -27,6 +27,10 @@ gaps:
 
 عالم نفس ألماني، مؤسّس **علم النفس النقدي** (Kritische Psychologie) في الجامعة الحرّة ببرلين، وطوّره مع **أوته أوسترْكامب**. بدأ باحثاً تجريبياً تقليدياً في الإدراك، ثم انقلب على منهجه هو بعد حركة الطلاب عام 1968، وأمضى بقيّة عمره في إعادة تأسيس علم النفس من قاعدته.
 
+## السيرة والتكوين
+
+وُلد كلاوس هولتسكامب عام 1927 في برلين وتوفي فيها عام 1995. وبدأ باحثاً تجريبياً في الإدراك، وصار أستاذاً في الجامعة الحرة ببرلين في منتصف الستينيات، وكان في ذلك الوقت من أصحاب المنهج التجريبي المقبول في الحقل. ثم جاءت حركة الطلاب في عام 1968 فاصطدم بأسئلة طلابه عن علاقة علم النفس بالمجتمع والسلطة، وانتقل إلى مراجعة الأسس: ما المقصود بالإنسان في علم النفس؟ ولمصلحة من تُصاغ نتائجه؟ ونتج عن هذا التحول كتاب «علم النفس النقدي» (1972)، وبعده «المعرفة الحسية» (Sinnliche Erkenntnis، 1973) الذي قرأ فيه الإدراك بوصفه نتاجاً تاريخياً واجتماعياً، ثم المؤلف النسقي الكبير «أسس علم النفس» (1983). وقد ظل في برلين يشرف على مشروع جماعي، وقاد حوله حلقة من الباحثين،. ولا توجد ترجمة عربية معتمدة لأعماله.
+
 ## ما أعطاه
 
 - **القدرة على الفعل** (Handlungsfähigkeit): مقولته المركزية، ولها عنده **صيغتان** والتمييز بينهما هو لبّ مشروعه السياسي:
@@ -41,7 +45,7 @@ gaps:
 
 يقف هولتسكامب على تقاطع الماركسية ونظرية النشاط السوفييتية (**ليونتييف** و**فيغوتسكي**) وعلم النفس الاجتماعي، ومنه انتقلت أفكاره إلى بريطانيا عبر **إيان باركر** وإلى الدنمارك عبر أوله دراير.
 
-## القيد
+## حدود وانتقادات
 ثلاثة قيود:
 
 **الأول — العزلة اللغوية والسياسية.** كُتب المشروع كلّه بألمانية اصطلاحية عسيرة، وتُرجم منه القليل، فبقي شبه مجهول في العالم الناطق بالإنجليزية رغم ضخامته. ويضاف إلى ذلك أنه نشأ في برلين الغربية في ذروة الحرب الباردة وبمرجعية ماركسية صريحة، فقُرئ سياسياً قبل أن يُقرأ منهجياً — واتُّهم أصحابه بأنهم يقدّمون موقفاً أيديولوجياً في صورة نظرية.
@@ -59,9 +63,8 @@ gaps:
 
 ## المصادر
 
-- "Klaus Holzkamp", Wikipedia (بالإنجليزية). https://en.wikipedia.org/wiki/Klaus_Holzkamp
-- "Kritische Psychologie", Wikipedia (بالألمانية). https://de.wikipedia.org/wiki/Kritische_Psychologie
-- "Ute Osterkamp", Wikipedia (بالألمانية). https://de.wikipedia.org/wiki/Ute_Osterkamp
-- Tolman, C. (ed.), "Introduction: Klaus Holzkamp and the Development of Psychology from the Standpoint of the Subject", in *Critical Psychology: Contributions to an Historical Science of the Subject*, Springer/Palgrave. https://link.springer.com/chapter/10.1057/9781137296436_1
-- Lexikon der Psychologie — "Holzkamp", Spektrum. https://www.spektrum.de/lexikon/psychologie/holzkamp/6642
-
+- Holzkamp, K. (1972). Kritische Psychologie: Vorbereitende Arbeiten. Fischer Taschenbuch Verlag.
+- Holzkamp, K. (1973). Sinnliche Erkenntnis: Historischer Ursprung und gesellschaftliche Funktion der Wahrnehmung. Athenaeum Verlag.
+- Holzkamp, K. (1983). Grundlegung der Psychologie. Campus Verlag.
+- Holzkamp, K. (1993). Lernen: Subjektwissenschaftliche Grundlegung. Campus Verlag.
+- Tolman, C. W. & Maiers, W. (eds.) (1991). Critical Psychology: Contributions to an Historical Science of the Subject. Cambridge University Press.

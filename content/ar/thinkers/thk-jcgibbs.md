@@ -53,9 +53,17 @@ gaps:
 
 البرامج التي أسهم فيها — ART وEQUIP — تُظهر أثراً على التفكير الأخلاقي المُقاس بالأدوات التي وضعها هو نفسه (SRM-SF وHIT)، وأثراً أضعف بكثير على **السلوك** وعلى معدّلات العَود، وهو ما تكرّر في التقويمات المستقلّة. والسؤال الذي لم يُحسم في هذا التقليد كلّه: هل نقص نضج التفكير الأخلاقي سببٌ للجنوح أم أثرٌ مصاحب له؟ ويزيد الإشكال أن الأداة والنظرية والبرنامج من صاحب واحد، فالدائرة مغلقة على نفسها قياسياً.
 
+## حدود وانتقادات
+
+أبرز الاعتراضات على مشروع غيبز تأتي من خارجه. فسلّم كولبرغ نفسه، الذي يعيد غيبز بناءه، تعرّض لنقد كارول غيليغان بأنه يقيس أخلاق العدالة المجرّدة ويُهمل أخلاق الرعاية والعلاقة، ويدافع غيبز في كتابه عن مركزية التفكير في الحقوق والمعاملة بالمثل دون أن ينفي أهمية التعاطف الذي يستعيره من هوفمان. أما دعوى الكونية، أي أن المراحل الأولى إلى الرابعة تظهر في الثقافات كلها، فقد راجعها مع باسنغر وغرايم وسناري في دراسة نُشرت في *Developmental Review* سنة 2007، وانتهت إلى أن المراحل الدنيا والوسطى كونية عبر الثقافات بينما تتغيّر صور المرحلتين العليَين بتغيّر السياق الثقافي، وهو تعديل يقرّ بحدود التعميم الأصلي ولا يتخلى عنه.
+
+وثمة حدّ عملي آخر: برامج مثل EQUIP تحتاج إلى مؤسسة مغلقة وجماعة أقران مستقرة ومدرّبين ملتزمين بدليل البرنامج، فإذا غابت هذه الشروط ضعف الأثر. ثم إن الأدوات المعتمدة في هذا التقليد صُمّمت لمجتمع ناطق بالإنجليزية، ولا تتوافر لها معايير مقنّنة عربية، فلا يصحّ نقل درجاتها إلى السياق العربي دون دراسة مستقلة لصدقها وثباتها.
+
 ## المصادر
 
 - Gibbs, J. C. (2003). *Moral Development and Reality: Beyond the Theories of Kohlberg and Hoffman*. Thousand Oaks: Sage.
 - Gibbs, J. C., Basinger, K. S., & Fuller, D. (1992). *Moral Maturity: Measuring the Development of Sociomoral Reflection*. Hillsdale, NJ: Erlbaum.
+- Gibbs, J. C., Potter, G. B., & Goldstein, A. P. (1995). *The EQUIP Program: Teaching Youth to Think and Act Responsibly Through a Peer-Helping Approach*. Champaign, IL: Research Press.
 - Barriga, A. Q., & Gibbs, J. C. (1996). "Measuring cognitive distortion in antisocial youth". *Aggressive Behavior*, 22(4), 333–343.
 - Leeman, L. W., Gibbs, J. C., & Fuller, D. (1993). "Evaluation of a multi-component group treatment program for juvenile delinquents". *Aggressive Behavior*, 19(4), 281–292.
+- Gibbs, J. C., Basinger, K. S., Grime, R. L., & Snarey, J. R. (2007). "Moral judgment development across cultures: Revisiting Kohlberg's universality claims". *Developmental Review*, 27(4), 443–500.

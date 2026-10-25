@@ -41,8 +41,21 @@ gaps:
 
 من أهم أصوات ما بعد البنيوية في التحليل النفسي النسوي. عملت أستاذة للعلوم السياسية في جامعة هاوارد (Howard University)، ومارست التحليل/العلاج النفسي في عيادة خاصة إلى جانب عملها الأكاديمي.
 
+## سياق الكتاب وتكوينه
+
+ظهر كتاب «شذرات مفكَّر فيها» في 1990 بعد عقد من نقاشات النسوية الأمريكية حول سؤال كيف تُبنى نظرية في الجندر، وفي مرحلة وصلت فيها ما بعد البنيوية الفرنسية، من فوكو ودريدا ولاكان، إلى الجامعات الأمريكية. وسبقت جين فلاكس إليه بمقالات، منها «النزاع بين الرعاية والاستقلال في علاقات الأم بالابنة وداخل النسوية» (*Feminist Studies*، 1978) و«الفلسفة السياسية واللاوعي الأبوي» (1983) في كتاب هاردنغ وهنتيكا، و«ما بعد الحداثة والعلاقات الجندرية في النظرية النسوية» (*Signs*، 1987). وفي المقال الأخير قرأت النظرية النسوية بوصفها واحدة من أنواع التفكير ما بعد الحداثي، لأنها تشك مثلها في الحقيقة الواحدة والذات الموحدة والتاريخ الخطي. وفي مقال 1978 استعملت مفاهيم مدرسة العلاقات بالموضوع لتقرأ التوتر بين رغبة الأم في رعاية ابنتها ورغبة الابنة في الاستقلال، وكيف ينتقل هذا التوتر إلى داخل الحركة النسوية نفسها حين تتعامل النساء مع بعضهن بوصفهن أمهات وبنات. وتدربت إلى جانب ذلك على التحليل والعلاج النفسي، فجاءت أفكارها من خبرة سريرية لا من النظرية وحدها، وهو ما يميزها عن أغلب منظّري ما بعد الحداثة الذين كتبوا عن اللاوعي دون أن يجلسوا مع مريض.
+
+وحين تقول إن التحليل النفسي والنسوية وما بعد الحداثة «خطابات انتقالية» فهي تستعمل التحليل النفسي لتقرأ به أزمة الغرب: فكل منها يحاول إحلال يقين جديد بعد أن تصدّع اليقين القديم الذي كان يربط المعرفة بالعقل الواحد والتاريخ الخطي والذات الموحدة. ثم تنتقل في 1993 إلى «ذوات متنازع عليها» لتبحث السؤال السياسي نفسه، وفي 1998 تنشر كتاباً عن جلسات الاستماع لكلارنس توماس بعنوان «الحلم الأمريكي بالأبيض والأسود»، وفيه تقرأ سياسة العرق والجنس في أمريكا باستعمال التحليل النفسي. ثم تعود في 2010 إلى العلاقة بين العبودية وعلاقات العرق والجنس في السياسة الأمريكية.
+
+## حدود وانتقادات
+
+وجّهت سيلا بنحبيب نقداً لما بعد الحداثة النسوية عموماً في كتاب «مجادلات نسوية» (1995)، وهو نقد يمسّ الموقف الذي تمثله فلاكس، بأن تفكيك الذات والتاريخ والمعايير الكلية يضعف الأساس الذي تقوم عليه المطالبة بالمساواة. وردّ آخرون بأن فلاكس لا تدعو إلى التفكيك بل إلى التفكير في التشظي من داخله. وثمة نقد من الجهة التحليلية: أنها تستعمل التحليل النفسي لتقرأ الثقافة في غياب المرضى والجلسات، فتغدو النتيجة تأملاً فلسفياً. ولا نعرف ترجمة عربية معتمدة لأعمالها، وهو ما يترك السؤال مفتوحاً عن كيفية تلقي الأدبيات النسوية العربية، التي تنشغل بقضايا مختلفة، لهذا الاتجاه.
+
 ## المصادر
 
-- [Thinking Fragments — Internet Archive (نسخة كاملة قابلة للاستعارة)](https://archive.org/details/thinkingfragment0000flax)
-- [Thinking Fragments — University of California Press / UC Press E-Books Collection](https://publishing.cdlib.org/ucpressebooks/public/book/thinking-fragments-psychoanalysis-feminism-and-postmodernism-in-the-contemporary-west.html)
-- [مراجعة الكتاب — Postmodern Culture](https://www.pomoculture.org/2013/09/26/review-of-flax-jane-thinking-fragments-psychoanalysis-feminism-and-postmodernism-in-the-contemporary-west-berkeley-california-up-1990/)
+- Flax, J. (1990). *Thinking Fragments: Psychoanalysis, Feminism, and Postmodernism in the Contemporary West*. Berkeley: University of California Press.
+- Flax, J. (1993). *Disputed Subjects: Essays on Psychoanalysis, Politics and Philosophy*. New York: Routledge.
+- Flax, J. (1998). *The American Dream in Black and White: The Clarence Thomas Hearings*. Ithaca: Cornell University Press.
+- Flax, J. (1987). "Postmodernism and gender relations in feminist theory". *Signs*, 12(4), 621–643.
+- Flax, J. (1978). "The conflict between nurturance and autonomy in mother-daughter relationships and within feminism". *Feminist Studies*, 4(2), 171–189.
+- Benhabib, S., Butler, J., Cornell, D., & Fraser, N. (1995). *Feminist Contentions: A Philosophical Exchange*. New York: Routledge.

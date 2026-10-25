@@ -45,8 +45,25 @@ gaps:
 - *Participation and the Mystery: Transpersonal Essays in Psychology, Education, and Religion* (2017).
 - *Love and Freedom* (2021) — عمل لاحق لم تُراجع تفاصيله (الناشر/العنوان الفرعي الدقيق) في هذه المسودة.
 
+## سيرة وسياق
+
+وُلد خورخي فيرير في برشلونة عام 1968 كما تذكر السير المتاحة، ويكتب بالإسبانية والإنجليزية. تكوّن في علم النفس وفي دراسات الدين، ودرّس في معهد كاليفورنيا للدراسات التكاملية في سان فرانسيسكو حيث ترأس قسم علم نفس الشرق والغرب. وهذا المعهد هو أحد المراكز الأمريكية لعلم النفس المتجاوز للشخص، وهو حقل نشأ في الستينيات مع ماسلو وغروف وسوتيتش ليدرس الخبرات التي تتخطى حدود الأنا. وفي هذا الحقل كان نموذج ويلبر في التسعينيات هو الإطار الأوسع انتشاراً، ثم أتى كتاب فيرير ليقدّم نقداً من داخل الحقل نفسه.
+
+## الأطروحة وبنيتها
+
+في كتاب 2002 قدّم فيرير ثلاثة أسس لما سماه المنظور التشاركي. الأول أن الخبرة الروحية تحدث في تشارك بين مكوّنات متعددة هي الفرد والجماعة والمكان وما يسميه الغموض (Mystery) أو القوة الخلاقة التي لا تُختزل في تصور. والثاني أن للمعرفة الروحية أبعاداً متعددة تتجاوز العقل: الجسد والقلب والغريزة والحدس. والثالث أنها تتجلى في «عوالم روحية» متعددة لا في عالم واحد، فلا تعبّر التقاليد عن وصف مختلف للحقيقة نفسها بل عن حقائق متمايزة صاغتها المشاركة. ومن هنا ما يسميه التعددية الروحية الراديكالية، وهو أنه لا يلزم أن يلتقي طريق بوذي وطريق مسيحي في مقصد واحد.
+
+وفي 2008 حرّر مع جيكوب شيرمان كتاب «المنعطف التشاركي» الذي جمع باحثين في الدراسات الدينية والتصوف ممن ناقشوا أطروحته من زوايا مختلفة. ونشر مع رومرو وألباريدا ورقة في *Journal of Transpersonal Psychology* (2005) عن «الممارسة التحويلية التكاملية» من منظور تشاركي، وورقة في *ReVision* (2004) عن المشاركة المتجسدة في الغموض. وفي كتاب 2017 جمع مقالات عن علم النفس والتعليم والدين.
+
+## حدود وانتقادات
+
+أبرز الاعتراضات تأتي من أنصار النموذج التكاملي: أن رفض الترتيب التقييمي بين التقاليد قد ينطوي على ترتيب ضمني، فمن يقول إن التعددية أصح من الجوهرانية يضع تعدديته فوق غيرها. ويشكك آخرون في أن عبارة «الغموض» تعمل بوصفها مفهوماً تفسيرياً، لأنها تستوعب كل تجربة دون أن تحدد ما يقصيه. ثم إن الأدلة التي يعتمد عليها فيرير نصية وفينومينولوجية، من دون اختبار تجريبي. وأخيراً لا نعرف ترجمة عربية معتمدة لأي من كتبه، وفي المقابل يحسن بالقارئ العربي أن يقرأ تعدديته الروحية في ضوء تراث صوفي متنوع، دون أن يُنسب إلى فيرير ما لم يكتبه عن هذا التراث.
+
 ## المصادر
 
-- Jorge Ferrer, Wikipedia: <https://en.wikipedia.org/wiki/Jorge_Ferrer> (تاريخ الميلاد 30 أكتوبر 1968، منصبه في CIIS كأستاذ سابق ورئيس سابق لقسم علم نفس الشرق-الغرب).
-- Jorge N. Ferrer، الموقع الرسمي: <https://jorgenferrer.com/> و<https://www.jorgenferrer.com/about>.
-- SUNY Press، صفحة المؤلف: <https://sunypress.edu/Contributors/F/Ferrer-Jorge-N> (قائمة أعماله المنشورة).
+- Ferrer, J. N. (2002). *Revisioning Transpersonal Theory: A Participatory Vision of Human Spirituality*. Albany: State University of New York Press.
+- Ferrer, J. N., & Sherman, J. H. (Eds.). (2008). *The Participatory Turn: Spirituality, Mysticism, Religious Studies*. Albany: State University of New York Press.
+- Ferrer, J. N. (2017). *Participation and the Mystery: Transpersonal Essays in Psychology, Education, and Religion*. Albany: State University of New York Press.
+- Ferrer, J. N., Romero, M. T., & Albareda, R. V. (2005). "Integral transformative practice: A participatory perspective". *Journal of Transpersonal Psychology*, 37(1), 3–24.
+- Ferrer, J. N., Albareda, R. V., & Romero, M. T. (2004). "Embodied participation in the mystery: Implications for the individual, interpersonal relationships, and society". *ReVision*, 27(1), 10–17.
+- Wilber, K. (2000). *Integral Psychology: Consciousness, Spirit, Psychology, Therapy*. Boston: Shambhala.

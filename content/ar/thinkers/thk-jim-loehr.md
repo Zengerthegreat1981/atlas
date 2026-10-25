@@ -46,8 +46,24 @@ gaps:
 - *The Corporate Athlete* (مع جاك غروبل، 1998).
 - *Leading with Character: 10 Minutes a Day to a Brilliant Legacy* (مع كارين كيني، 2020).
 
+## من علم النفس الرياضي إلى أداء الأعمال
+
+بدأ لور مساره بكتاب *Mental Toughness Training for Sports* (1982) الذي عرض فيه ما سماه حالة الأداء المثالية، أي الحالة النفسية الجسدية التي يكون فيها اللاعب هادئاً، واثقاً، قادراً على التركيز وتجنّب التفكير الزائد. ثم صاغ في *The New Toughness Training for Sports* (1994) مفهوم الصلابة بوصفه مجموعة قدرات انفعالية: المرونة والاستجابة والقوة والتحمل، ورأى أن هذه القدرات قابلة للتدريب كما تُدرَّب العضلات. وفي تسعينيات القرن الماضي عمل مع لاعبي تنس ومتزلجين وحراس مرمى هوكي، منهم من ذُكر في الملف، قبل أن ينقل المبدأ نفسه إلى الإدارة التنفيذية.
+
+## مفهوم الرياضي المؤسسي والطاقة
+
+نشر لور وتوني شوارتز عام 2001 في *Harvard Business Review* مقالاً بعنوان صناعة الرياضي المؤسسي، وقد قدّما فيه الفكرة التي صارت علامة المعهد: أن المدير يؤدي كما يؤدي الرياضي ويحتاج إلى دورات من الإنفاق والتعافي، لا إلى مجرد إدارة الوقت. وفي كتاب 2003 *The Power of Full Engagement* جعلا إدارة الطاقة بدل الوقت قاعدة، وقسّما الطاقة إلى أربعة أبعاد: الجسدية والانفعالية والعقلية والروحية. ويقوم الدليل العملي على تذبذب منتظم بين فترات الجهد والراحة، وعلى طقوس صغيرة تعزز العادة. ثم عاد لور إلى موضوع الأخلاق والقيم في كتاب *Leading with Character* (2020، مع كارين كيني).
+
+وفي كتابه *Stress for Success* (1997) طرح لور فكرة أن الضغط ليس عدواً في ذاته: فالعضلة تنمو حين يُحمَّل عليها ثم تُترك لتتعافى، والنفس كذلك، والمشكلة في الضغط الذي لا تعقبه راحة، أو في الراحة التي لا يسبقها جهد. ومن هنا جاء اهتمامه بالإيقاع بدل الاستمرار، وهو ما شكّل لاحقاً الفقرة المركزية في برنامج معهد الأداء البشري عن التدرّب على التذبذب بين الإنفاق والتجديد.
+
+## حدود وانتقادات
+
+أهم الاعتراضات أن الإطار منتشر في الأدبيات التجارية أكثر منه في الأدبيات المحكّمة، فلا توجد لبروتوكولات معهد الأداء البشري دراسات مستقلة كبيرة تقيس أثرها. والمقارنة بين المدير والرياضي مجازية، فالرياضي يتدرب على حدث محدد في موسم معلوم، والمدير يعمل في ظروف لا تتيح غالباً دورة التعافي. ثم إن التركيز على إدارة الفرد لطاقته يميل إلى تحويل مشكلة الإرهاق من بنية العمل إلى مسؤولية العامل. أما الجانب العربي، فلا نعرف ترجمة عربية معتمدة لكتبه، وتحتاج مفاهيمه، كالطقوس الروحية والأداء الذروي، إلى مراعاة اختلاف سياقات العمل والعطلة في المنطقة.
+
 ## المصادر
 
-- James Loehr, Who Showed Athletes the Power of the Mind, Dies at 83 — https://dnyuz.com/2026/05/06/james-loehr-who-showed-athletes-the-power-of-the-mind-dies-at-83/
-- Jim Loehr — الصفحة الرسمية — https://www.jim-loehr.com/about
-- The Making of a Corporate Athlete, Harvard Business Review (2001) — https://hbr.org/2001/01/the-making-of-a-corporate-athlete
+- Loehr, J. E. (1982). *Mental Toughness Training for Sports: Achieving Athletic Excellence*. Lexington, MA: Stephen Greene Press.
+- Loehr, J. E. (1994). *The New Toughness Training for Sports*. New York: Dutton.
+- Loehr, J., & Schwartz, T. (2001). "The making of a corporate athlete". *Harvard Business Review*, 79(1), 120–128.
+- Loehr, J., & Schwartz, T. (2003). *The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal*. New York: Free Press.
+- Loehr, J., & Kenney, C. (2020). *Leading with Character: 10 Minutes a Day to a Brilliant Legacy*. Hoboken, NJ: Wiley.

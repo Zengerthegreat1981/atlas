@@ -43,10 +43,23 @@ gaps:
 
 يُعدّ لوبار، إلى جانب م. باري ستيرمان (الذي طوّر موجات SMR في سياق الصرع)، أحد الأبوين المؤسسين لحقل التغذية الراجعة العصبية الإكلينيكي المعاصر. مختبره في جامعة تينيسي كان أول من نشر منهجية ونتائج **LORETA neurofeedback** عام 2004، ما فتح الباب أمام التصوير الوظيفي الموجّه للعلاج العصبي.
 
+## المسار البحثي: من القطط إلى الأطفال
+
+لم يبدأ لوبار من العيادة بل من المختبر الفسيولوجي. فقد جاءت أولى أعماله من متابعة ما أظهره ستيرمان على القطط، إذ تبيّن أن تدريب القطط على إنتاج إيقاع كهربائي معيّن فوق القشرة الحسية الحركية (SMR) يُحدث تغييراً في عتبة النوبات. ورأى لوبار أن النمط نفسه من التدريب قد يخفّف فرط الحركة عند الأطفال، فنشر مع شوس (1976) تقريراً أولياً عن طفل مفرط الحركة تغيّر سلوكه وتخطيطه الكهربائي أثناء تدريب SMR، وهو المنشور الذي يُعدّ البداية السريرية لاستعمال التغذية الراجعة العصبية في اضطراب نقص الانتباه. وكان التقرير فردياً وغير مضبوط، لكنه فتح الباب لتجارب لاحقة.
+
+## من التقرير الأول إلى العيادة
+
+في التسعينيات نشر لوبار وزملاؤه (1995) تقويماً للتدريب بالتغذية الراجعة في عيادة تطبيقية، واستعملوا فيه اختبار تقييم انتباه (TOVA) وتقديرات سلوكية ومقياس وكسلر للأطفال، وانتهوا إلى تحسّن لدى جزء من الأطفال. ثم عرض لوبار (1991) إطاراً لتشخيص اضطرابات الانتباه بالتخطيط الكمي للدماغ وتحديد أي الأطفال يظهر عندهم فائض في الموجات البطيئة، وهو ما صار أساس بروتوكول خفض ثيتا ورفع بيتا. وهكذا حُوِّل الفحص الكهربائي من وسيلة استكشافية إلى أداة اختيار تدخّل، وإن بقي هذا الانتقال موضع نقاش بين من يرون التخطيط الكمي وسيلة تشخيص مستقلة ومن يرونه أداة مساعدة فقط.
+
+## حدود وانتقادات
+
+أقوى انتقاد وُجّه إلى هذا الخط مصدره التجارب الأحدث. فقد خلص تحليل آرنز وزملائه (2009) إلى أثر مفيد على عدم الانتباه والاندفاعية، لكنّ مراجعة كورتيزي وزملائه (2016) التي اقتصرت على تجارب ذات تقييمات «شبه معماة» لم تجد أثراً دالاً، وكذلك لم تجد تجربة شونينبرغ وزملائه (2017) على البالغين فرقاً بين التغذية الراجعة الحقيقية والزائفة. ويُضاف إلى ذلك أن التعمية صعبة بطبيعتها، وأن للجلسات المتكررة وللانتباه الذي يتلقاه الطفل أثراً غير نوعي. وانتقد المشككون عدداً من الدراسات المبكرة لضعف الضبط وصغر العينات واعتماد الوالدين مصدراً وحيداً للتقدير. ودافع لوبار وتلاميذه بأن الدراسات اللاحقة لم تلتزم ببروتوكول التدريب الأصلي ولا بعدد جلساته. وظلّ الحقل منقسماً: هيئات علمية ترى الدليل غير كافٍ لتوصية بالتغذية الراجعة العصبية علاجاً أول لاضطراب نقص الانتباه، وعيادات ترى فيها بديلاً يتحاشى الدواء، وتبقى أفضل قراءة لعمل لوبار أنه فتح سؤالاً بحثياً وجيهاً لم تُحسم إجابته بعد.
+
 ## المصادر
 
-- "Joel F. Lubar," Wikipedia, تاريخ الاطلاع 2026-09-25.
-- "In Memoriam: Joel F. Lubar, PhD," The Future of Neurofeedback Research (thefnnr.org), 2024-03-04.
-- Lubar, J.F. et al. "Discriminating between children with ADHD and normal controls using quantitative EEG," *Pediatric Neurology*, 1992.
-- International QEEG Certification Board, صفحة "Joel Lubar" (qeegcertificationboard.org).
-- Joel F. Lubar profile, ResearchGate / جامعة تينيسي.
+- Lubar, J. F., & Shouse, M. N. (1976). "EEG and Behavioral Changes in a Hyperkinetic Child Concurrent with Training of the Sensorimotor Rhythm (SMR): A Preliminary Report". *Biofeedback and Self-Regulation*, 1(3), 293–306.
+- Lubar, J. F. (1991). "Discourse on the Development of EEG Diagnostics and Biofeedback for Attention-Deficit/Hyperactivity Disorders". *Biofeedback and Self-Regulation*, 16(3), 201–225.
+- Lubar, J. F., Swartwood, M. O., Swartwood, J. N., & O'Donnell, P. H. (1995). "Evaluation of the Effectiveness of EEG Neurofeedback Training for ADHD in a Clinical Setting as Measured by Changes in T.O.V.A. Scores, Behavioral Ratings, and WISC-R Performance". *Biofeedback and Self-Regulation*, 20(1), 83–99.
+- Arns, M., de Ridder, S., Strehl, U., Breteler, M., & Coenen, A. (2009). "Efficacy of Neurofeedback Treatment in ADHD: The Effects on Inattention, Impulsivity and Hyperactivity: A Meta-Analysis". *Clinical EEG and Neuroscience*, 40(3), 180–189.
+- Cortese, S., Ferrin, M., Brandeis, D., et al. (2016). "Neurofeedback for Attention-Deficit/Hyperactivity Disorder: Meta-Analysis of Clinical and Neuropsychological Outcomes from Randomized Controlled Trials". *Journal of the American Academy of Child and Adolescent Psychiatry*, 55(6), 444–455.
+- Schönenberg, M., Wiedemann, E., Schneidt, A., et al. (2017). "Neurofeedback, Sham Neurofeedback, and Cognitive-Behavioural Group Therapy in Adults with Attention-Deficit Hyperactivity Disorder: A Triple-Blind, Randomised, Controlled Trial". *The Lancet Psychiatry*, 4(9), 673–684.

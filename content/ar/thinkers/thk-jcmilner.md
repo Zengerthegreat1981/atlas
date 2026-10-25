@@ -44,9 +44,25 @@ gaps:
 
 > **تصحيح:** كانت التواريخ في هذا الملف خاطئة (1978 لا 2011، و1983 لا 2003)، و«Les Noms indistincts» مترجَماً «الأسماء البيضاء» وهو «الأسماء غير المتمايزة»؛ وكتاب «Le Périphérique (2021)» لم يُعثر له على وجود. كما أن **«الاسم-الأب» مفهوم لاكان** لا ميلنر — وإسهام ميلنر في قراءته لسانياً لا في وضعه.
 
+## مسار فكري بين ثلاثة حقول
+
+وُلد ميلنر في باريس عام 1941، وانتمى في الستينيات إلى الحلقة الشابة من طلاب لويس ألتوسير في مدرسة المعلمين العليا، وهي الحلقة التي أصدرت مجلة *Cahiers pour l'analyse* (1966–1969) وجمعت قراءة البنيوية بالاهتمام بالتحليل النفسي والمنطق. وفي تلك المرحلة كان قريباً من جاك-ألان ميلِّر الذي صار لاحقاً محرّر ندوات لاكان. ثم عمل أستاذاً للسانيات في جامعة باريس السابعة، وأدّى دوراً مهماً في إدخال النحو التوليدي إلى فرنسا من خلال كتبه الأولى مثل *Arguments linguistiques* (1973) و*Ordres et raisons de langue* (1982) و*De la syntaxe à l'interprétation* (1978)، قبل أن يبتعد عن اللسانيات الصورية ويعيد النظر في أسسها من موقع فلسفي.
+
+وفي كتابه *L'Œuvre claire: Lacan, la science, la philosophie* (1995) عرض قراءته الخاصة للاكان: لاكان عنده صاحب «عمل واضح» يعيد الاعتبار لعلم الحديث (العلم بالمعنى الغاليلي والرياضي)، ويقيم التحليل النفسي على أساس مقارب للعلم لا للتأويل. ويُعدّ هذا الكتاب أشهر ما كتبه عن لاكان، ويُقرأ إلى جانب *Le Périple structural* (2002) الذي أرّخ فيه للبنيوية من اللسانيات إلى الأنثروبولوجيا والتحليل. وبعد 2000 اتجه إلى الكتابة السياسية والثقافية، فنشر *Les Penchants criminels de l'Europe démocratique* (2003) و*Le Juif de savoir* (2006)، وفيهما موقف حادّ من أوروبا ما بعد الحرب ومن معاداة السامية، وهما كتابان خلافيان استقبلهما الجمهور بين مؤيد ومعارض.
+
+## موضع اللغة عنده
+
+الفكرة التي تجمع أعماله المتعددة أن اللغة ليست مجرد نسق من الاختلافات كما أراد سوسير، بل فيها ما يُفلت من الصياغة: التباس لا يُحلّ، وأخطاء لا تنتظم، وشعر. وبهذا المعنى يقدّم ميلنر قراءة للاكان تجعل «اللالغة» (lalangue) حداً على العلم لا مادة له، فيبقى التحليل النفسي عند حدود ما يستطيع الكلام العلمي أن يمسكه. وهذا يفسّر ظهور مالارميه في كتاباته، إذ يرى في الشعر المثال الأوضح لمقاومة اللغة للتنظيم الصوري.
+
+## حدود وانتقادات
+
+يعترض اللسانيون الصوريون على قراءته من الداخل: فهو عندهم يحمّل مفاهيم النحو التوليدي أكثر مما تحتمل حين يربطها بالتحليل. ويعترض المحللون على الجهة الأخرى بأنه لم يمارس التحليل، فتبقى قراءته نظرية لا إكلينيكية. أما كتبه السياسية فتحمل أحكاماً عامة على أوروبا يعدّها كثيرون مبالغة، ولا تُعدّ مرجعاً علمياً في التاريخ. وفي العربية لم نقف على ترجمة معتمدة لأي من كتبه، فالمصطلحات مثل «اللالغة» لم تستقر.
+
 ## المصادر
 
-- [Jean-Claude Milner — Wikipedia (EN)](https://en.wikipedia.org/wiki/Jean-Claude_Milner)
-- [Jean-Claude Milner — Encyclopédie Universalis](https://www.universalis.fr/encyclopedie/jean-claude-milner/)
-- [L'amour de la langue — Internet Archive (بيانات النشر 1978، دار Seuil)](https://archive.org/details/lamourdelalangue0000miln)
-- [Jean-Claude Milner — No Subject: Encyclopedia of Lacanian Psychoanalysis](https://nosubject.com/Jean-Claude_Milner)
+- Milner, J.-C. (1978). *L'Amour de la langue*. Paris: Éditions du Seuil.
+- Milner, J.-C. (1989). *Introduction à une science du langage*. Paris: Éditions du Seuil.
+- Milner, J.-C. (1995). *L'Œuvre claire: Lacan, la science, la philosophie*. Paris: Éditions du Seuil.
+- Milner, J.-C. (2002). *Le Périple structural: Figures et paradigme*. Paris: Éditions du Seuil.
+- Milner, J.-C. (2003). *Les Penchants criminels de l'Europe démocratique*. Lagrasse: Éditions Verdier.
+- Milner, J.-C. (1983). *Les Noms indistincts*. Paris: Éditions du Seuil.

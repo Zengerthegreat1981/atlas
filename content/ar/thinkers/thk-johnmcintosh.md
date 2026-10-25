@@ -40,9 +40,28 @@ gaps:
 
 كتاب "الحزن بعد الانتحار: فهم العواقب ورعاية الناجين" (Grief After Suicide: Understanding the Consequences and Caring for the Survivors)، الذي حرره بالاشتراك مع جون آر. جوردان (2011).
 
+## من الانتحار لدى كبار السن إلى الفجيعة
+
+بدأ ماكنتوش اهتمامه بعلم الانتحار من زاوية العمر، فشارك مع سانتوس وهوبارد وأوفرهولسر في كتاب «الانتحار عند المسنين: بحث ونظرية وعلاج» (1994) الذي جمع ما عُرف حتى ذلك الحين عن ارتفاع معدلات الانتحار بين كبار السن، خصوصاً الذكور البيض، وعن العوامل الصحية والاجتماعية المرتبطة به. ومن هذا المسار نفسه جاء اهتمامه بمن يبقون بعد الوفاة: الأقارب والأصدقاء الذين يواجهون حداداً مختلفاً عن حداد الموت الطبيعي. وقد راجع في أوائل التسعينيات الدراسات التي قارنت ناجين من الانتحار بمجموعات ضابطة، ونبّه إلى ضعف التصميم المنهجي في كثير منها (1993)، وكان لهذه المراجعة أثر في تحسين تصميم البحوث التالية.
+
+## الحداد بعد الانتحار: هل هو مختلف؟
+
+ظلّ سؤال هل الحداد بعد الانتحار نوعي في طبيعته موضع نقاش في الحقل. فقد رأى جوردان (2001) أن الصورة المنتشرة عن حداد أشد وأطول عند أسر المنتحرين لا تدعمها الدراسات المضبوطة كاملةً، وأن ما تتفرد به هذه الفجيعة هو مضمون المعاناة: الوصم، والبحث عن السبب، والمسؤولية، وليس مجرد شدتها. وفي المجلد الذي حرره ماكنتوش وجوردان (2011) جُمعت فصول عن الأطفال والمراهقين والأزواج وعن دور المجموعات الداعمة، وهو من المراجع التي يُرجَع إليها في هذا الميدان. ثم أظهر بيتمان وزملاؤه (2014) في مراجعة منهجية أن خطر الانتحار والدخول إلى المصحة النفسية يرتفع عند بعض فئات المفجوعين بالانتحار، وأن الدعم الاجتماعي عنصر ضروري في رعايتهم.
+
+## مصطلح «الناجي» وأعداد المتأثرين
+
+انتشر في الحقل مصطلح «ناجي من الانتحار» للدلالة على المفجوع، وهو مصطلح يلتبس بمن نجوا من محاولة، ولذلك تتحوّل الأدبيات الحديثة إلى عبارات مثل «المتأثرون بالانتحار». والأرقام التي أشرنا إليها في هذا الملف تدور حول سؤال تقديري: كم شخصاً يتأثر بوفاة واحدة؟ وقد اقترح بيرمان (2011) تقديرات لعدد السكان المفجوعين، ثم جاءت دراسة سيريل وزملائها التي رأت أن العدد أكبر بكثير إذا قيس بالتعرض الفعلي لا بالقرابة. ولا تُنسب هذه الدراسة إلى ماكنتوش، كما أُصلح سابقاً في هذا الملف.
+
+## حدود وانتقادات
+
+تتعلق أول الحدود بالقياس: فالتقديرات العددية تعتمد على استبيانات سكانية يصعب التحقق منها، وعلى تعريفات واسعة للتأثر قد تضم من تأثر تأثراً طفيفاً. وتتعلق ثانيتها بالسياق الثقافي: فأغلب أبحاث ماكنتوش والحقل أمريكية، والوصم الديني والاجتماعي المحيط بالانتحار في المجتمعات العربية والإسلامية يجعل الاستفادة المباشرة منها مشروطة بدراسات محلية، وما نُشر بالعربية في هذا الموضوع قليل، ولا تُعرف ترجمة عربية معتمدة لأعماله. وتتعلق ثالثتها بأن مجموعات الدعم والتدخلات بعد الانتحار نادراً ما خضعت لتجارب عشوائية، فالأدلة على فعاليتها مبنية في الغالب على تقارير المشاركين.
+
 ## المصادر
 
-- [John L. McIntosh: Faculty & Staff — Indiana University South Bend](https://clas.iusb.edu/psychology/faculty-and-staff/jmcintosh.html)
-- [John L. McIntosh, PhD — WebMD bio](https://www.webmd.com/bio/john-l-mcintosh)
-- [Cerel, J. et al. (2018), "How Many People Are Exposed to Suicide? Not Six" — Suicide and Life-Threatening Behavior](https://onlinelibrary.wiley.com/doi/abs/10.1111/sltb.12450)
-- [How many people are affected by one suicide? — Centre for Suicide Prevention (summary incl. Drapeau & McIntosh 2017 estimate)](https://www.suicideinfo.ca/how-many-people-are-affected-by-one-suicide/)
+- McIntosh, J. L. (1993). "Control Group Studies of Suicide Survivors: A Review and Critique". *Suicide and Life-Threatening Behavior*, 23(2), 146–161.
+- McIntosh, J. L., Santos, J. F., Hubbard, R. W., & Overholser, J. C. (1994). *Elder Suicide: Research, Theory, and Treatment*. American Psychological Association.
+- Jordan, J. R. (2001). "Is Suicide Bereavement Different? A Reassessment of the Literature". *Suicide and Life-Threatening Behavior*, 31(Suppl.), 91–102.
+- Jordan, J. R., & McIntosh, J. L. (Eds.) (2011). *Grief After Suicide: Understanding the Consequences and Caring for the Survivors*. Routledge.
+- Berman, A. L. (2011). "Estimating the Population of Survivors of Suicide: Seeking an Evidence Base". *Suicide and Life-Threatening Behavior*, 41(1), 110–116.
+- Pitman, A., Osborn, D., King, M., & Erlangsen, A. (2014). "Effects of Suicide Bereavement on Mental Health and Suicide Risk". *The Lancet Psychiatry*, 1(1), 86–94.
+- Cerel, J., Brown, M. M., Maple, M., et al. (2019). "How Many People Are Exposed to Suicide? Not Six". *Suicide and Life-Threatening Behavior*, 49(2), 529–534.

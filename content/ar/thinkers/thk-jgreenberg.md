@@ -48,10 +48,23 @@ gaps:
 
 > **تصحيح:** كان يُنسب إليه كتاب «The Process of Psychoanalytic Change (1996) مع Sandler وRosenblatt» — ولم يُعثر له على وجود؛ وساندلر وروزنبلات مؤلّفا نصّ آخر مختلف تماماً هو «مفهوم عالم التمثيل» (1962).
 
+## بنية الكتاب المؤسس
+
+قام كتاب 1983 على تصنيف ثنائي صار مألوفاً في الأدبيات: «نموذج الغريزة/البنية» الذي يرى الإنسان كائناً تدفعه دوافع تطلب التفريغ وتتحول بها البنية النفسية، و«نموذج العلاقة/البنية» الذي يرى الإنسان كائناً يتشكل داخل علاقاته ولا يُفهم دافعه بمعزل عنها. وجمع الكتاب تحت الثاني أسماء متباينة، من سوليفان في أمريكا إلى فيربيرن وونيكوت وغنتريب في بريطانيا، وقرأهم قراءة نقدية متوازية على حقل واحد. وكان تأثيره على جيل من المحللين الأمريكيين كبيراً لأنه أتاح لهم رؤية تقاليد متفرقة بوصفها حقلاً واحداً، فجاء كتاب ميتشل «المفاهيم العلائقية في التحليل النفسي» (1988) بعده بخطوة.
+
+## ما بعد التأسيس
+
+اهتم غرينبرغ في أعماله اللاحقة بسؤال الحياد التحليلي ودور المحلل. ففي مقال 1986 في *Contemporary Psychoanalysis* عن النماذج النظرية وحياد المحلل ناقش أن مفهوم الحياد يتغير بتغير النموذج الذي يُحمل: فالحياد في نموذج الغريزة غير الحياد في نموذج العلاقة. وفي 1995 نشر في *Psychoanalytic Quarterly* مقالة «التقنية التحليلية والمصفوفة التفاعلية» عرض فيها أن ما يجري في الجلسة نتاج تفاعل بين المحلل والمريض لا انعكاس لما في المريض وحده. وفي 2001 نشر في *Journal of the American Psychoanalytic Association* «مشاركة المحلل: نظرة جديدة»، وفيها تأمل في مقدار ما يجب أن يعطيه المحلل من نفسه في الجلسة. ويظهر في هذه الأعمال اهتمام ثابت بالسؤال العملي: كيف يحدّد المحلل علاقته بما يجري بينه وبين مريضه من دون أن يعتصم بنظرية مسبقة.
+
+## حدود وانتقادات
+
+اعتُرض على كتاب 1983 بأن التقسيم الثنائي مبسّط: فالتحليل الغريزي عند فرويد نفسه يتضمن بُعداً علائقياً، وفيربيرن وسوليفان يختلفان اختلافاً كبيراً عن بعضهما، فجمعهما في فئة واحدة يخفي فروقاً جوهرية. وعاد غرينبرغ نفسه فوصف هذه التصنيفات بأنها أدوات للقراءة لا حقائق عن النظريات. كما أن تحوله من «المؤسس» إلى «الناقد» جعل بعض أنصار التيار العلائقي يعدونه خارجاً عنه. وثمة مشكلة معرفية لا تخص غرينبرغ وحده: لا يوجد في هذا الحقل ما يُجرّب به أي النموذجين أصحّ، فتبقى المفاضلة نظرية وسريرية لا تجريبية. ولا نعرف ترجمة عربية معتمدة لأعماله، ويصعب نقل مصطلحات مثل «الفاعلية» (effectance) التي استعارها من روبرت وايت.
+
 ## المصادر
 
-- Wikipedia (EN): [Jay Greenberg (psychoanalyst)](https://en.wikipedia.org/wiki/Jay_Greenberg_(psychoanalyst))
-- The Psychoanalytic Quarterly, هيئة التحرير: [Editorial Board](https://onlinelibrary.wiley.com/page/journal/21674086/homepage/editorialboard.html)
-- CyberPsych، سيرة موجزة للمحرر: [psychoanalytic quarterly - editor: Jay Greenberg](https://www.cyberpsych.org/archives/psaq/JG_bio.html)
-- Confer Online، سيرة المتحدث: [Dr Jay Greenberg](https://www.confer.uk.com/biogs/biog_greenberg.html)
-- Google Books: [Object Relations in Psychoanalytic Theory](https://books.google.com/books/about/Object_Relations_in_Psychoanalytic_Theor.html?id=4IKTF_sLf74C)
+- Greenberg, J. R., & Mitchell, S. A. (1983). *Object Relations in Psychoanalytic Theory*. Cambridge, MA: Harvard University Press.
+- Greenberg, J. (1991). *Oedipus and Beyond: A Clinical Theory*. Cambridge, MA: Harvard University Press.
+- Greenberg, J. (1986). "Theoretical models and the analyst's neutrality". *Contemporary Psychoanalysis*, 22(1), 87–106.
+- Greenberg, J. (1995). "Psychoanalytic technique and the interactive matrix". *Psychoanalytic Quarterly*, 64(1), 1–22.
+- Greenberg, J. (2001). "The analyst's participation: A new look". *Journal of the American Psychoanalytic Association*, 49(2), 359–381.
+- Mitchell, S. A. (1988). *Relational Concepts in Psychoanalysis: An Integration*. Cambridge, MA: Harvard University Press.

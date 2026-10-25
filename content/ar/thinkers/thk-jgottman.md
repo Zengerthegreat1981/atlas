@@ -52,10 +52,25 @@ gaps:
 - *And Baby Makes Three* (2007).
 - *The Science of Trust* (2011).
 
+## تكوينه ومنهجه
+
+درس غوتمان الرياضيات في معهد ماساتشوستس للتقنية (بكالوريوس 1964) ثم الدكتوراه في علم النفس من جامعة ويسكونسن-ماديسون (1971)، وعمل في إنديانا وإلينوي قبل أن يستقر في جامعة واشنطن بسياتل عام 1986. وهذا التكوين الرياضي ظاهر في أسلوبه: يرمّز التفاعل ثانية بثانية بنظام ترميز للانفعال، ويقيس في الوقت نفسه معدل النبض وتوصيل الجلد وحركة الجسد، ثم يبني منحنيات احتمالية للتفاعل. ومن دراساته الأولى الشهيرة ورقة غوتمان وكروكوف (1989) في *Journal of Consulting and Clinical Psychology* التي وجدت أن بعض أنماط الخلاف التي تبدو مزعجة، كالتعبير عن الغضب، قد لا تتنبأ بسوء العلاقة على المدى الطويل، بينما يتنبأ بها الانسحاب والدفاعية، وهو ما عارض الحكمة الشائعة في الإرشاد الزواجي آنذاك.
+
+## الأنماط الخمسة والتنبؤ
+
+في ورقة 1993 في المجلة نفسها اقترح غوتمان خمسة أنماط من الأزواج: ثلاثة مستقرة (المتوافقون الذين يتبادلون التصديق، والمتقلبون الذين يتخاصمون بحدة ويتصالحون بحرارة، والمتجنبون للخلاف) واثنان غير مستقرين (العدائيون، والعدائيون المنسحبون). وتحمل النسبة الخماسية الشهيرة هذا المنطق: إن لم تتوازن الإيجابية والسلبية بنحو خمسة إلى واحد في الخلاف، فاحتمال التدهور أعلى. وجاءت دراسة غوتمان وليفنسون (1992) في *Journal of Personality and Social Psychology* عن العمليات الزواجية التي تنبئ بالانفصال، ثم ورقة كاريه وغوتمان (1999) في *Family Process* عن التنبؤ بالطلاق من الدقائق الثلاث الأولى من نقاش الخلاف، وهي الورقة التي بُنيت عليها صورة «التنبؤ من لقطة قصيرة».
+
+## حدود وانتقادات
+
+إضافة إلى التحفظ المنهجي المذكور أعلاه، وقد فصّله هايمان وسميث سليب في *Journal of Marriage and Family* (2001) تحت عنوان مخاطر التنبؤ بالطلاق دون تحقق متقاطع، فإن العينات الأصلية أمريكية في الغالب، من أزواج في سياتل وإنديانا ومنطقتهما، مغايرون في الجنس ومتوسطو الدخل، ولذلك تُطرح أسئلة حول انتقال العتبات الرقمية إلى ثقافات يكون فيها التعبير عن الغضب والانسحاب مفهوماً بشكل مختلف. وقد درس غوتمان وليفنسون وزملاؤهما أزواجاً من المثليين والمثليات (2003)، لكن ذلك لا يغطي الثقافات غير الغربية. أما عربياً فلم نقف على ترجمة عربية معتمدة لكتبه، ويحتاج كل استعمال لمفاهيمه في الإرشاد الأسري العربي إلى اختبار محلي، لأن الاحتقار والحجب قد يحملان دلالات اجتماعية مختلفة حين تتدخل الأسرة الممتدة.
+
 ## المصادر
 
-- The Gottman Institute, "Frequently Asked Questions – Research," gottman.com/about/research/faq.
-- John M. Gottman & Julie Schwartz Gottman, "Predicting Marital Stability and Divorce in Newlywed Couples," johngottman.net.
-- Wikipedia, "John Gottman" (سيرة ذاتية: وُلد 26 أبريل 1942، أستاذ فخري بجامعة واشنطن منذ 2002).
-- نقد الاستنتاج بأثر رجعي (postdiction): ريتشارد هايمان وآمي سميث سليب في الأدبيات الأكاديمية، ولوري أبراهام، "Love in the Time of Algorithms" / تغطية صحفية 2010 حول حدود دقة نماذج غوتمان على عيّنات مستقلة.
-- John M. Gottman, *The Science of Trust: Emotional Attunement for Couples* (W. W. Norton, 2011).
+- Gottman, J. M. (1994). *What Predicts Divorce? The Relationship Between Marital Processes and Marital Outcomes*. Hillsdale, NJ: Erlbaum.
+- Gottman, J. M., & Silver, N. (1999). *The Seven Principles for Making Marriage Work*. New York: Crown.
+- Gottman, J. M., & Krokoff, L. J. (1989). "Marital interaction and satisfaction: A longitudinal view". *Journal of Consulting and Clinical Psychology*, 57(1), 47–52.
+- Gottman, J. M., & Levenson, R. W. (1992). "Marital processes predictive of later dissolution: Behavior, physiology, and health". *Journal of Personality and Social Psychology*, 63(2), 221–233.
+- Gottman, J. M. (1993). "The roles of conflict engagement, escalation, and avoidance in marital interaction: A longitudinal view of five types of couples". *Journal of Consulting and Clinical Psychology*, 61(1), 6–15.
+- Carrère, S., & Gottman, J. M. (1999). "Predicting divorce among newlyweds from the first three minutes of a marital conflict discussion". *Family Process*, 38(3), 293–301.
+- Heyman, R. E., & Smith Slep, A. M. (2001). "The hazards of predicting divorce without cross-validation". *Journal of Marriage and Family*, 63(2), 473–479.
+- Gottman, J. M. (2011). *The Science of Trust: Emotional Attunement for Couples*. New York: W. W. Norton.

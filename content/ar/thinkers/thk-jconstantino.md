@@ -33,7 +33,7 @@ gaps:
 
 ## قيد التصنيف
 
-كان هذا الملف مصنَّفاً سابقاً تحت «العلاج التكاملي-النمائي (DIR/Floortime)» بلا سند: عمل كونستانتينو وراثيّ ووبائيّ وقياسيّ، ولا صلة له بمنهج غرينسبان العلاجي، ولا تسند نتائجُه هذا المنهج بعينه دون غيره. أُفرغ الرابط من `edges` هنا لعدم وجود مدرسة/تيار حقيقي يسند التصنيف، ويحتاج القرار مراجعة تحريرية — وهو الخطأ نفسه المتكرّر في ملف فولكمار.
+كان هذا الملف مصنَّفاً سابقاً تحت «العلاج التكاملي-النمائي (DIR/Floortime)» بلا سند: عمل كونستانتينو وراثيّ ووبائيّ وقياسيّ، ولا صلة له بمنهج غرينسبان العلاجي، ولا تسند نتائجُه هذا المنهج بعينه دون غيره. أُفرغ الرابط من edges هنا لعدم وجود مدرسة/تيار حقيقي يسند التصنيف، ويحتاج القرار مراجعة تحريرية — وهو الخطأ نفسه المتكرّر في ملف فولكمار.
 
 ## موقعه من التيار
 
@@ -44,9 +44,21 @@ gaps:
 - *Social Responsiveness Scale* (SRS، 2005؛ والنسخة الثانية SRS-2، 2012).
 - مقالات في *Journal of the American Academy of Child and Adolescent Psychiatry*.
 
+## من الأداة إلى الأطروحة
+
+نُشر الأساس التجريبي لفكرة المتصل في ورقة كونستانتينو وتود عام 2003 في *Archives of General Psychiatry* عن السمات التوحدية في عموم السكان باستعمال دراسة توائم، وفيها وُجد أن توزيع هذه السمات متصل لا ثنائي، وأن لها مكوناً وراثياً قوياً. وفي عام 2005 نشر الباحثان في *Biological Psychiatry* دراسة عن الانتقال بين الأجيال للسمات التوحدية دون العتبة، أي أن السمات الخفيفة عند الوالدين ترتبط بسمات الأبناء. وفي هذا السياق ظهر مقياس الاستجابة الاجتماعية (SRS): استبيان قصير يملأه الوالد أو المعلم، يُعطي درجة كمية للضعف الاجتماعي المتصل بالتوحد. وقد قُورنت أداته بمقابلة التشخيص المعيارية ADI-R في دراسة نُشرت في *Journal of Autism and Developmental Disorders* عام 2003، وقد وُجد فيها ارتباط جيد بين الدرجتين. وأما الطبعة الثانية SRS-2 فصدرت عام 2012، وصدر الدليل الأول عن دار Western Psychological Services مع غروبر.
+
+ومن أعماله اللاحقة دراسة عن تكرار التوحد بين الأشقاء نشرها مع آخرين في *American Journal of Psychiatry* عام 2010، وجدت أن احتمال إصابة شقيق ثان أعلى كثيراً مما كان يُظن في دراسات سابقة. وفي *The Lancet Neurology* عام 2016 نشر مع توني تشارمان مراجعة بعنوان تشخيص اضطراب طيف التوحد: التوفيق بين المتلازمة ومنابعها المتنوعة وتفاوت تعبيرها، دافعا فيها عن فكرة أن التوحد متلازمة سلوكية تتفرع من أسباب كثيرة، لا مرضاً واحداً له سبب واحد.
+
+## حدود وانتقادات
+
+أول الحدود أن SRS أداة فحص لا تشخيص: تقيس شدة السمات الاجتماعية، لكن درجاتها المرتفعة لا تخصّ التوحد وحده، إذ تُرفع كذلك عند أطفال لديهم اضطرابات مثل فرط الحركة وتشتت الانتباه أو القلق، ولذلك لا يصلح رقمها وحده قراراً سريرياً. وثانيها أن اعتبار السمات متصلاً لا يجيب عن سؤال أين يوضع الحد العلاجي، فالانتقال من الكمّ إلى الحاجة إلى الدعم قرار سريري واجتماعي أكثر منه قياسياً. وثالثها أن بحث الجينات والبيئة في هذا الاتجاه ينتقده بعض دعاة حقوق المصابين، لأنه يركّز على العجز والوراثة ولا يلتفت إلى حاجاتهم اليومية. ورابعها أن الأداة نشأت في سياق أمريكي، ولا نعرف نسخة عربية مقنّنة عليها معايير سكانية معتمدة في ما أمكن التثبت منه، فنقل درجاتها الأمريكية إلى سياق عربي غير مأمون.
+
 ## المصادر
 
-- John Constantino – Wikipedia, https://en.wikipedia.org/wiki/John_Constantino
-- John N. Constantino, M.D. – The Source, WashU, https://source.washu.edu/2006/02/john-n-constantino-md/
-- Social Responsiveness Scale – Wikipedia, https://en.wikipedia.org/wiki/Social_Responsiveness_Scale
-- John Constantino: Educating communities about autism's complexities – The Transmitter, https://www.thetransmitter.org/spectrum/john-constantino-educating-communities-about-autisms-complexities/
+- Constantino, J. N., & Todd, R. D. (2003). "Autistic traits in the general population: A twin study". *Archives of General Psychiatry*, 60(5), 524–530.
+- Constantino, J. N., & Todd, R. D. (2005). "Intergenerational transmission of subthreshold autistic traits in the general population". *Biological Psychiatry*, 57(6), 655–660.
+- Constantino, J. N., Davis, S. A., Todd, R. D., et al. (2003). "Validation of a brief quantitative measure of autistic traits: Comparison of the Social Responsiveness Scale with the Autism Diagnostic Interview-Revised". *Journal of Autism and Developmental Disorders*, 33(4), 427–433.
+- Constantino, J. N., & Gruber, C. P. (2005). *Social Responsiveness Scale (SRS)*. Los Angeles: Western Psychological Services.
+- Constantino, J. N., Zhang, Y., Frazier, T., Abbacchi, A. M., & Law, P. (2010). "Sibling recurrence and the genetic epidemiology of autism". *American Journal of Psychiatry*, 167(11), 1349–1356.
+- Constantino, J. N., & Charman, T. (2016). "Diagnosis of autism spectrum disorder: Reconciling the syndrome, its diverse origins, and variation in expression". *The Lancet Neurology*, 15(3), 279–291.

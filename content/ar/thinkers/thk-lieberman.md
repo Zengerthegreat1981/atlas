@@ -54,9 +54,32 @@ gaps:
 ## القيد
 نموذج CPP يتطلب تدريباً مكثفاً (سنة على الأقل) ومكلفاً، مما يحدّ من انتشاره رغم فعاليته الموثّقة. كما أن البُعد الثقافي مهم جداً لتطبيقه، خاصة في السياقات غير الغربية، إذ الافتراضات الضمنية حول «الأمومة الجيدة» قد تختلف.
 
+## الجذور: من فرايبرغ إلى برنامج صدمة الطفولة
+
+تنتمي ليبرمان إلى خط بدأ بسيلما فرايبرغ التي صاغت مع زميليها عام 1975 في *Journal of the American Academy of Child Psychiatry* مقالة «أشباح في غرفة الحضانة»، وفيها أن ما لم يُعالج من علاقات الوالد القديمة يزور العلاقة الحالية مع الطفل. وقد أخذت ليبرمان هذا الخط وطورته في برنامج مع الأسر منخفضة الدخل والمهاجرة. وفي دراسة عام 1991 مع ويستون وباول في *Child Development* قارنت بين ثنائيات (أم وطفل) ذات تعلّق قلق تلقت تدخلاً وبين مجموعة ضابطة، فوجدت تحسناً في الشراكة والتواصل لدى المجموعة المتدخل معها، وكانت من أولى الدراسات المضبوطة في هذا النمط من العلاج. وفي عام 2005 نشرت مع زملائها «ملائكة في غرفة الحضانة»، الذي يضيف إلى «الأشباح» الذكريات الرعائية الإيجابية التي تدعم الوالد.
+
+## الأدلة على CPP
+
+نشرت ليبرمان وزملاؤها في *Journal of the American Academy of Child and Adolescent Psychiatry* عام 2006 متابعة بعد ستة أشهر لتجربة معشاة أجريت على أطفال في سن ما قبل المدرسة شهدوا عنفاً أسرياً، فوجدت أن الأطفال الذين تلقوا CPP قلّت لديهم أعراض الصدمة وأعراض السلوك مقارنة بمن تلقوا الإحالة والرعاية المعتادة. وجاءت مراجعة عام 2011 في *Development and Psychopathology* بعنوان «الصدمة في الطفولة المبكرة: أدلة تجريبية وانعكاسات إكلينيكية» لتؤكد أن الأطفال الصغار يعانون صدمة حقيقية وإن لم يتكلموا عنها، وأن التقديرات التشخيصية القديمة التي تفترض أن الصغار لا يتأثرون بما لا يفهمونه خاطئة.
+
+## أمهات وأطفال من ثقافات متعددة
+
+ولدت ليبرمان في الأرجنتين وعملت في الولايات المتحدة، وأدخلت في العمل التزاماً بالحساسية الثقافية: فالتدريب في CPP يشدد على أن تفهم المعالجة معنى الأمومة والعنف والحماية في سياق الأسرة، لا أن تفرض معياراً واحداً. وأسهمت تشاندرا غوش إبِن، مطوّرة النموذج المشاركة، في تعميق هذا الجانب.
+
+## الصدى العربي
+
+لا نعرف ترجمة عربية لأعمال ليبرمان ولا برامج تدريب عربية معتمدة على CPP. وللطفولة المبكرة وعناية الأم بها حضور قديم في الأدب العربي، منه «تحفة المودود بأحكام المولود» لابن قيم الجوزية، وهو يتناول رعاية الرضيع وتنشئته، وإن كان بمقاييس عصره لا بنظرية التعلق. ويطرح تطبيق CPP في السياقات العربية سؤالاً عن تكييفه مع بنية الأسرة الممتدة، وعن مشاركة الجدات والأعمام في الرعاية، وهو ما يتجاوز النموذج الثنائي للأم والطفل.
+
+## حدود وانتقادات إضافية
+
+تعتمد معظم التجارب على عينات من الولايات المتحدة، وبخاصة من الأسر منخفضة الدخل واللاتينية، ما يحدّ من تعميم النتائج. وتأتي أغلب الدراسات من الفريق المطوّر للنموذج، وتحتاج إلى تكرار مستقل. ويضاف أن حجم الأثر في بعض النتائج متوسط، وأن غياب مجموعة تتلقى علاجاً بديلاً مكافئاً في بعض الدراسات يجعل من الصعب تحديد العنصر الفعال. وأخيراً فإن التركيز على العلاقة بين الوالد والطفل قد يغفل عوامل بنيوية، مثل الفقر والعنف في الحي، وهي تحتاج إلى تدخل اجتماعي لا علاجي فقط.
+
 ## المصادر
-- Lieberman, A. F. *The Emotional Life of the Toddler*. Free Press, 1993.
-- Lieberman, A. F., & Van Horn, P. *Psychotherapy with Infants and Young Children: Repairing the Effects of Stress and Trauma on Early Attachment*. Guilford Press.
-- Lieberman, A. F., Van Horn, P., & Ghosh Ippen, C. *Don't Hit My Mommy! A Manual for Child-Parent Psychotherapy with Young Witnesses of Family Violence*. Zero to Three.
-- صفحة "Developers" في childparentpsychotherapy.com (تُعرّف ليبرمان بوصفها المطوّرة الرئيسية وفان هورن المطوّرة المشاركة).
-- صفحة تاريخ Child Trauma Research Program، جامعة كاليفورنيا-سان فرانسيسكو (childtrauma.ucsf.edu).
+
+- Fraiberg, S., Adelson, E., & Shapiro, V. (1975). "Ghosts in the nursery: A psychoanalytic approach to the problems of impaired infant-mother relationships". *Journal of the American Academy of Child Psychiatry*, 14(3), 387–421.
+- Lieberman, A. F. (1993). *The Emotional Life of the Toddler*. New York: Free Press.
+- Lieberman, A. F., Weston, D. R., & Pawl, J. H. (1991). "Preventive intervention and outcome with anxiously attached dyads". *Child Development*, 62(1), 199–209.
+- Lieberman, A. F., Padrón, E., Van Horn, P., & Harris, W. W. (2005). "Angels in the nursery: The intergenerational transmission of benevolent parental influences". *Infant Mental Health Journal*, 26(6), 504–520.
+- Lieberman, A. F., Ghosh Ippen, C., & Van Horn, P. (2006). "Child-parent psychotherapy: 6-month follow-up of a randomized controlled trial". *Journal of the American Academy of Child and Adolescent Psychiatry*, 45(8), 913–918.
+- Lieberman, A. F., Chu, A., Van Horn, P., & Harris, W. W. (2011). "Trauma in early childhood: Empirical evidence and clinical implications". *Development and Psychopathology*, 23(2), 397–410.
+- Lieberman, A. F. & Van Horn, P. (2008). *Psychotherapy with Infants and Young Children: Repairing the Effects of Stress and Trauma on Early Attachment*. New York: Guilford Press.

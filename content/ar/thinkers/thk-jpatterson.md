@@ -54,10 +54,20 @@ gaps:
 - *A Social Learning Approach, Vol. 3: Coercive Family Process* (1982) — عرضه النظري الكامل.
 - *Antisocial Boys* (1992، مع جون ريد وتوم ديشِن).
 
+## مسارا الجنوح المبكر والمتأخر
+
+وسّع باترسون نظريته من الأسرة إلى مسار النمو، فنشر مع ديباريشي ورامزي (1989) نموذجاً نمائياً للسلوك المعادي للمجتمع يقول إن الطفل الذي يتعلم الإكراه في البيت يدخل المدرسة بمهارات اجتماعية ضعيفة، فيرفضه أقرانه ويتجه إلى جماعات مشابهة، وإن هذا الطريق المبكر يتنبأ بجنوح أطول وأشد من الجنوح الذي يبدأ في المراهقة. وفي هذا الإطار جاء اكتشاف التدريب المتبادل على الانحراف الذي بيّنه ديشين وماكورد وبولان (1999) في مقالتهم «حين تضرّ التدخلات»، ومفادها أن جمع المراهقين المنحرفين في مجموعات علاجية قد يزيد المشكلات.
+
+## انتشار PMTO
+
+أُجريت اختبارات على تدريب إدارة الوالدين في أوريغون خارج مركز باترسون، فبيّن فورغاتش وديغارمو (1999) أثراً للبرنامج عند أمهات أُسر مفككة بعد الطلاق، وفي النرويج بيّن أوغدن وهاغن (2008) في تجربة عشوائية تحسناً في المشكلات السلوكية عند أطفال المدارس الذين تلقى آباؤهم التدريب. وتُعدّ هذه الدراسات من أقوى الأدلة التي استُند إليها في تعميم البرنامج على مستوى الدول.
+
 ## المصادر
 
-- [In Memoriam: Gerald Roy Patterson (1926–2016) — Perspectives on Behavior Science (Springer)](https://link.springer.com/article/10.1007/s40614-017-0084-y)
-- [Gerald Roy Patterson (1926-2016) — PubMed](https://pubmed.ncbi.nlm.nih.gov/29016181/)
-- [Gerald Roy Patterson — Obituary, The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)31925-0/fulltext)
-- [Gerald R. Patterson, Ph.D. — Oregon Social Learning Center](https://www.oslc.org/blog/scientist/gerald-r-patterson/)
-- [VITA: Gerald R. Patterson — Oregon Social Learning Center (PDF)](https://www.oslc.org/wp-content/uploads/2014/08/patterson.pdf)
+- Patterson, G. R., & Gullion, M. E. (1968). *Living with Children: New Methods for Parents and Teachers*. Research Press.
+- Patterson, G. R. (1982). *Coercive Family Process*. Castalia.
+- Patterson, G. R., Reid, J. B., & Dishion, T. J. (1992). *Antisocial Boys*. Castalia.
+- Patterson, G. R., DeBaryshe, B. D., & Ramsey, E. (1989). "A Developmental Perspective on Antisocial Behavior". *American Psychologist*, 44(2), 329–335.
+- Dishion, T. J., McCord, J., & Poulin, F. (1999). "When Interventions Harm: Peer Groups and Problem Behavior". *American Psychologist*, 54(9), 755–764.
+- Forgatch, M. S., & DeGarmo, D. S. (1999). "Parenting Through Change: An Effective Prevention Program for Single Mothers". *Journal of Consulting and Clinical Psychology*, 67(5), 711–724.
+- Ogden, T., & Amlund Hagen, K. (2008). "Treatment Effectiveness of Parent Management Training in Norway: A Randomized Controlled Trial of Children with Conduct Problems". *Journal of Consulting and Clinical Psychology*, 76(4), 607–621.

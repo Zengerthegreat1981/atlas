@@ -44,9 +44,24 @@ gaps:
 - *Father-Daughter Incest* (1981).
 - *Truth and Repair: How Trauma Survivors Envision Justice* (2023).
 
+## سيرة موجزة وسياق الكتب
+
+ولدت جوديث لويس هيرمان عام 1942، وعملت أستاذة سريرية في الطب النفسي بكلية الطب في هارفارد، وقادت لسنوات برنامج «ضحايا العنف» في مستشفى كامبريدج في ماساتشوستس، وهو برنامج عيادي وبحثي للناجين من العنف الأسري والجنسي. وكتابها الأول *Father-Daughter Incest* (1981، مع ليزا هيرشمان، Harvard University Press) صدر عندما كان الحديث العلني عن سفاح القربى شبه محرم في المهنة الطبية، ونقل حالات النساء من الهامش إلى الأدبيات الإكلينيكية. أما *Trauma and Recovery* (1992، Basic Books) فبنى حجته التاريخية على أن دراسة الصدمة تزدهر ثم تُنسى في دورات يرتبط كل منها بحركة سياسية: الهستيريا في فرنسا في القرن التاسع عشر مع الحركة الجمهورية المناهضة للكنيسة، وعصاب الحرب بعد الحرب العالمية الأولى، وحركة النساء في السبعينيات التي جعلت الاغتصاب والعنف المنزلي موضوعاً علنياً.
+
+## الاضطراب المعقد بعد الصدمة
+
+كتبت هيرمان في *Journal of Traumatic Stress* عام 1992 ورقة عن متلازمة الناجين من الصدمة المطولة والمتكررة، ورأت أن تشخيص اضطراب ما بعد الصدمة بصيغته الأصلية لا يستوعب من تعرضوا لسنوات من الأسر أو الإساءة، لأن آثارهم تتناول الهوية والعلاقات والتنظيم الانفعالي لا أعراض الاجترار والتجنب وحدها. وسبق ذلك دراسة هيرمان وبيري وفان دير كولك (*American Journal of Psychiatry*، 1989) عن الصدمة الطفولية عند مرضى الشخصية الحدّية، وفيها وُجد أن أغلب المرضى كانت لديهم قصص إساءة، وهو ما أعاد النقاش حول ما يُسمى اضطراباً في الشخصية. وقد حاول فريق فان دير كولك في 2005 التحقق من البنية التجريبية لهذا المفهوم لدى تحضير DSM-IV. وصار المفهوم في تصنيف ICD-11 تشخيصاً مستقلاً.
+
+## حدود وانتقادات
+
+انتقد بعض الباحثين تسلسل المراحل الثلاث (الأمان، التذكّر والحداد، إعادة الاتصال) بأنه يؤخر العلاج المركز على الصدمة لدى من يستطيعون تحمله، وهو ما ناقشه دي يونغ وزملاؤه في مقال تحليلي في *Depression and Anxiety* (2016) عن إرشادات علاج الاضطراب المعقد، مع أن هيرمان نفسها تقول إن المراحل ليست خطية صارمة. وحمل الكتاب في التسعينيات نصيباً من الجدل حول الذاكرة المستعادة، إذ اتهمه المشككون بأنه يعتمد على روايات يصعب التحقق منها. وفي السياق العربي تتقاطع مفاهيمها مع أدبيات الصدمة الناتجة عن الحروب واللجوء، لكننا لم نقف على ترجمة عربية معتمدة لكتبها، فمصطلح الاضطراب المعقد بعد الصدمة يُتداول بترجمات متفاوتة.
+
 ## المصادر
 
-- Judith Lewis Herman, Wikipedia (بيانات السيرة، التاريخ، الجوائز): https://en.wikipedia.org/wiki/Judith_Lewis_Herman
-- "Truth and Repair: How Trauma Survivors Envision Justice", Hachette Book Group / Basic Books (تاريخ النشر: مارس 2023): https://www.hachettebookgroup.com/titles/judith-lewis-herman-md/truth-and-repair/9781541600546/
-- WBUR Here & Now, "Psychiatrist Judith Herman on trauma, justice for survivors" (2023): https://www.wbur.org/hereandnow/2023/05/16/judith-herman-abuse-survivors
-- APA Monitor on Psychology, "When trauma becomes complex" (على وضع Complex PTSD في ICD-11 مقابل DSM-5): https://www.apa.org/monitor/2025/03/ce-complex-ptsd
+- Herman, J. L., & Hirschman, L. (1981). *Father-Daughter Incest*. Cambridge, MA: Harvard University Press.
+- Herman, J. L. (1992). *Trauma and Recovery: The Aftermath of Violence—From Domestic Abuse to Political Terror*. New York: Basic Books.
+- Herman, J. L. (1992). "Complex PTSD: A syndrome in survivors of prolonged and repeated trauma". *Journal of Traumatic Stress*, 5(3), 377–391.
+- Herman, J. L., Perry, J. C., & van der Kolk, B. A. (1989). "Childhood trauma in borderline personality disorder". *American Journal of Psychiatry*, 146(4), 490–495.
+- van der Kolk, B. A., Roth, S., Pelcovitz, D., Sunday, S., & Spinazzola, J. (2005). "Disorders of extreme stress: The empirical foundation of a complex adaptation to trauma". *Journal of Traumatic Stress*, 18(5), 389–399.
+- De Jongh, A., et al. (2016). "Critical analysis of the current treatment guidelines for complex PTSD in adults". *Depression and Anxiety*, 33(5), 359–369.
+- Herman, J. L. (2023). *Truth and Repair: How Trauma Survivors Envision Justice*. New York: Basic Books.

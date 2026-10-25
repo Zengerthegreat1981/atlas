@@ -52,10 +52,31 @@ gaps:
 - *Fierce Self-Compassion* (2021).
 - *Development and Validation of a Scale to Measure Self-Compassion* (2003).
 
+## الرحمة بالنفس في التراث العربي الإسلامي
+
+لا يعرف القارئ العربي لكريستين نيف كتاباً مترجماً معتمداً بحسب ما أمكن التحقق منه، غير أن مقياسها نُقل إلى لغات عدة، ومنها العربية في دراسات التحقق القياسي النفسي على عينات جامعية. وتجد فكرتها صدى في مفردات التراث، فقد قامت الرحمة في الإسلام على أنها من صفات الله ومن أخلاق المؤمن، وتذكر الأحاديث المأثورة الرحمة بمن في الأرض، كما عُرف في أدب الزهد والتزكية، عند الغزالي وابن القيم مثلاً، تمييز بين محاسبة النفس المطلوبة وبين القنوط واحتقار النفس المذموم، وهو تمييز قريب في روحه من فرق نيف بين المسؤولية والجلد الذاتي. ويبقى هذا التقريب تأويلاً من القارئ، لا ادعاء من نيف التي استمدت مرجعيتها من البوذية.
+
+## السيرة والتكوين
+
+وُلدت نيف عام 1966 ونالت الدكتوراه من جامعة كاليفورنيا في بيركلي في مجال النمو الأخلاقي، قبل أن تتحول إلى دراسة علاقة الإنسان بنفسه. وتروي في كتبها أنها اكتشفت أهمية الشفقة بالذات في فترة صعبة من حياتها، بالتوازي مع تدربها على التأمل البوذي. وفي كتاباتها اللاحقة تستعيد تجربة تربية ابنها المصاب بالتوحد بوصفها اختباراً شخصياً للمفهوم. وتتوزع كتبها بين العمل الأكاديمي الذي أسسته منذ بحث عام 2003 المنشور في مجلة *Self and Identity*، وبين الكتب الموجهة إلى الجمهور العام.
+
+## التطور البحثي
+
+صدرت في عام 2003 مقالتان لنيف في المجلة نفسها، الأولى تقدم المفهوم نظرياً بوصفه بديلاً لتقدير الذات، والثانية تعرض المقياس وخصائصه السيكومترية. ثم توسعت الدراسات: ففي عام 2013 نشرت مع جيرمر دراسة أولية وتجربة معشّاة على برنامج التعاطف الواعي مع الذات في *Journal of Clinical Psychology*، وفي عام 2023 قدّمت في *Annual Review of Psychology* مراجعة شاملة للنظرية والمنهج والتدخلات. وأظهرت المراجعات الميدانية أن لها أثراً في الاكتئاب والقلق والإجهاد عند المقارنة بجماعات ضابطة، مع تحفظات على حجم الأثر وعلى جودة بعض التجارب.
+
+## أثرها في الممارسة
+
+لم تبق الفكرة في مجال البحث، فقد أدمجتها برامج المدارس والرعاية الصحية والتدريب المهني، وجرى استعمالها مع العاملين في الرعاية الصحية الذين يتعرضون للإرهاق. وسهّلت الصياغة المبسطة بثلاثة مكونات استعمالها في العيادات والجلسات الجماعية. وأسهم ذلك في تقريب تيار اليقظة الذهنية من علم النفس التجريبي دون أن تفقد المفاهيم أصولها التأملية بالكامل.
+
+## حدود وانتقادات إضافية
+
+تقدّم مراجعة موريس وبيتروكي عام 2017 دليلاً على أن المكونات «السلبية» في المقياس ترتبط بالاضطراب النفسي ارتباطاً أقوى من ارتباط المكونات «الإيجابية» بالسلامة النفسية، ما يعني أن الدرجة الكلية قد تعكس غياب الاضطراب أكثر مما تعكس وجود الرحمة. ويعترض آخرون على أن المفهوم مأخوذ من سياق بوذي ثم أُعيدت صياغته بعبارات فردية تتناسب مع الثقافة الغربية، وأن الأبحاث على عينات من ثقافات أخرى لا تقدّم تطابقاً كاملاً في بنية المقياس. وأخيراً، فإن تقارير المشاركين الذاتية عن لطفهم بأنفسهم تتأثر بالرغبة الاجتماعية، وهو تحدٍّ عام في هذا النوع من المقاييس.
+
 ## المصادر
 
-- [Kristin Neff — Wikipedia](https://en.wikipedia.org/wiki/Kristin_Neff)
-- [The Self-Compassion Scale — Kristin D. Neff, University of Texas at Austin (PDF)](https://self-compassion.org/wp-content/uploads/2019/09/Neff.inpress.pdf)
-- [Neff, K. D. (2003). Development and validation of a scale to measure self-compassion — Self and Identity](https://www.tandfonline.com/doi/abs/10.1080/15298860309027)
-- [Self-Compassion: Theory, Method, Research, and Intervention — Annual Review of Psychology](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032420-031047)
-- [Fierce Self-Compassion — Kristin Neff, publisher page (HarperWave)](https://web.archive.org/web/20221205214209/https://www.harperwave.com/book/9780062991065/Fierce-Self-Compassion-Kristin-Neff/)
+- Neff, K. D. (2003). "Self-compassion: An alternative conceptualization of a healthy attitude toward oneself". *Self and Identity*, 2(2), 85–101.
+- Neff, K. D. (2003). "The development and validation of a scale to measure self-compassion". *Self and Identity*, 2(3), 223–250.
+- Neff, K. D. & Germer, C. K. (2013). "A pilot study and randomized controlled trial of the Mindful Self-Compassion program". *Journal of Clinical Psychology*, 69(1), 28–44.
+- Muris, P. & Petrocchi, N. (2017). "Protection or vulnerability? A meta-analysis of the relations between the positive and negative components of self-compassion and psychopathology". *Clinical Psychology & Psychotherapy*, 24(2), 373–383.
+- Neff, K. D. (2011). *Self-Compassion: The Proven Power of Being Kind to Yourself*. New York: William Morrow.
+- Neff, K. D. (2023). "Self-compassion: Theory, method, research, and intervention". *Annual Review of Psychology*, 74, 193–218.

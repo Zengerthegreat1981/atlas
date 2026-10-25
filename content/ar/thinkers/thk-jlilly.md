@@ -49,9 +49,29 @@ gaps:
 - *Programming and Metaprogramming in the Human Biocomputer* (1968).
 - *The Dyadic Cyclone* (1976).
 
+## التكوين والمعهد القومي للصحة العقلية
+
+نال لِلي شهادة الطب من جامعة بنسلفانيا عام 1942 وتخصّص في الفسيولوجيا العصبية والفيزياء الحيوية، وعمل في خمسينيات القرن الماضي في المعهد القومي للصحة العقلية في بيثيسدا بولاية ماريلاند، وفيه صمّم عام 1954 أول خزان طفو للعزل الحسي. وكان السؤال الذي يعالجه فيزيولوجياً بحتاً: هل يظل الدماغ نشطاً حين تُزال عنه المنبهات الخارجية، أم يخمد؟ وسبق ذلك أن كانت مجموعة دونالد هيب في ماكغيل قد نشرت (1954) تجارب على العزل الحسي لدى طلاب جامعيين، لكن لِلي سلك طريقاً مختلفاً: غمر جسمه في ماء ملحي بدرجة حرارة الجلد في ظلمة وصمت، ليقلّل أي مدخلات خارجية، ونشر نتائجه الأولى في «تقارير البحث النفسي» (1956) تحت عنوان الآثار العقلية لاختزال المنبهات الجسدية المعتادة.
+
+## الدلافين والبحث عن ذكاء غير بشري
+
+ثم انتقل إلى دراسة الدلافين بعد رؤيته لحجم دماغها، فأسس عام 1959 «معهد أبحاث التواصل»، ونشر «الإنسان والدلفين» (1961) و«عقل الدلفين: ذكاء غير بشري» (1967). ويصعب فصل هذا المشروع عن سياق الحرب الباردة وبرامج الفضاء، إذ ساد في تلك الحقبة اهتمام بإمكان التواصل مع ذكاء غير بشري، وقد حضر لِلي اللقاء الشهير في غرين بانك عام 1961 الذي ناقش فيه علماء بينهم فرانك دريك ما يُعرف اليوم بمعادلة دريك. ومن أشهر تجاربه المثيرة للجدل تجربة عام 1965 التي عاشت فيها مساعِدة بحثية في بيت مغمور بالماء مع دلفين لتعليمه الكلام، وهي تجربة عُدّت لاحقاً مثالاً على تداخل البحث بالتجاوز الأخلاقي.
+
+## التجربة الذاتية وما كتبه عنها
+
+بعد أن ترك المؤسسة البحثية الرسمية تحوّل لِلي إلى استكشاف شخصي للوعي بالخزان وبالعقاقير المهلوسة. وكتب «البرمجة وما وراء البرمجة في الحاسوب الحيوي البشري» (1968) و«مركز الإعصار» (1972) ثم «العالِم: سيرة ذاتية روائية» (1978). وتشكّل هذه الكتب شهادات ذاتية يصعب التحقق منها، لكنها كانت المصدر الذي استقت منه الثقافة المضادة صورة الخزان. ومن الأعمال التي يُقال إنها تأثرت به فيلم «حالات متبدلة» (1980) الذي بنى مشاهده على تجارب الخزان والعقاقير.
+
+## حدود وانتقادات
+
+أهم تقييم لعمل لِلي أن ما بقي منه علمياً هو الخزان وما نشأ منه من أبحاث البيئة المحدودة التحفيز، وقد لخّصها سويدفلد في كتابه عن «التحفيز البيئي المقيّد» (1980) بأن الحرمان الحسي النسبي قد يغيّر المزاج والتنبيه وقابلية الإيحاء لدى بعض المفحوصين، وإن اختلفت النتائج وتأثرت بما يتوقعه المفحوص. أما مشاريعه عن اللغة بين الأنواع فلم تفضِ إلى لغة مشتركة، وقد وجّه باحثو الحيوان لاحقاً انتقادات إلى فرضية أن الدلافين تتعلم اللغة البشرية. ثم إن ما قدّمه في السبعينيات عن كيانات وراء الإنسان بعيد عن إمكان الفحص، وكتاباته المتأخرة تُقرأ شهادةً على رحلة الرجل أكثر مما تُقرأ نظريةً. وتجارب إعطاء عقاقير مهلوسة لدلافين وكتابته عن حقن نفسه بالكيتامين تقع خارج معايير البحث المضبوط حتى بمقاييس زمنه.
+
 ## المصادر
 
-- John C. Lilly, Wikipedia: https://en.wikipedia.org/wiki/John_C._Lilly
-- "John C. Lilly: When Dolphins, Drugs, and the Deep End of Consciousness Collided in the Psychedelic '70s": https://gettherapybirmingham.com/blog/john-c-lilly-when-dolphins-drugs-and-the-deep-end-of-consciousness-collided-in-the-psychedelic-70s/
-- "John C. Lilly: The pioneer of floating", Floatworks Journal: https://floatworks.com/journal/john-c-lilly-the-pioneer-of-floating
-- Kabil, A., "Meet the psychedelics-obsessed scientist who wanted to learn dolphins' language", Medium/Timeline: https://medium.com/timeline/neuroscience-doctor-drugs-lsd-c17d5e84c653
+- Lilly, J. C. (1956). "Mental Effects of Reduction of Ordinary Levels of Physical Stimuli on Intact, Healthy Persons". *Psychiatric Research Reports*, 5, 1–9.
+- Lilly, J. C. (1961). *Man and Dolphin*. Doubleday.
+- Lilly, J. C. (1967). *The Mind of the Dolphin: A Nonhuman Intelligence*. Doubleday.
+- Lilly, J. C. (1968). *Programming and Metaprogramming in the Human Biocomputer*. Julian Press.
+- Lilly, J. C. (1972). *The Center of the Cyclone: An Autobiography of Inner Space*. Julian Press.
+- Lilly, J. C. (1978). *The Scientist: A Novel Autobiography*. Lippincott.
+- Suedfeld, P. (1980). *Restricted Environmental Stimulation: Research and Clinical Applications*. Wiley.
+- Bexton, W. H., Heron, W., & Scott, T. H. (1954). "Effects of Decreased Variation in the Sensory Environment". *Canadian Journal of Psychology*, 8(2), 70–76.

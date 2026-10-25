@@ -45,10 +45,24 @@ gaps:
 
 نفسية سي. جي. يونغ (Die Psychologie von C.G. Jung, 1940) · العقدة / الأركيتيب / الرمز (Complex/Archetype/Symbol in the Psychology of C.G. Jung, 1957) · طريق التفرّد (Der Weg zur Individuation, 1965) · أقنعة الروح (Masks of the Soul) · من عالم صور النفس (Vom Bilderreich der Seele, 1969).
 
+## بعد الحرب: من العرض إلى التأسيس
+
+بعد نيلها الدكتوراه من فيينا استقرت في زيورخ حيث تابعت عملها مع يونغ وحلقته، وهنا بدأ تحولها من متلقية إلى معلّمة ومنظّمة. أما سيرتها المبكرة في بودابست قبل زواجها، حين كانت تحمل اسم سيكاتش، فتبقى موضع بحث ولا يدّعي هذا الملف أنه سدّ هذه الفجوة، ولذلك يقتصر وصف مسارها على ما تدعمه مؤلفاتها وسجلات المعهد.
+
+لم يكن كتاب 1940 بداية مسارها الكتابي فقط، بل بداية دورها وسيطةً بين يونغ وجمهور لا يقرأ أعماله الأصلية الوعرة. وكان لهذا الدور أبعاد مؤسسية: ففي 1948 شاركت في تأسيس معهد يونغ في زيورخ الذي صار مركز تدريب المحللين اليونغيين، وعملت مدرّسة فيه حتى سنواتها الأخيرة. وإلى جانب عروضها لنظرية يونغ حرّرت مختارات من كتابات باراسلسوس (*Paracelsus: Selected Writings*، سلسلة بولنغن، 1951)، وهي نقطة التقاء مع اهتمام يونغ بالكيمياء الرمزية، وإن لم يكن هذا الميدان محور عملها.
+
+وفي كتاب 1957 *Complex/Archetype/Symbol* رتّبت المفاهيم الثلاثة من حيث الأصل واللغة: فالعقدة تجمّع انفعالي يتشكل حول نواة خبرة، والأركيتيب نمط فطري يمنح الصور القدرة على أن تتكرر عبر الثقافات، والرمز تعبير مرئي عن ما لا يمكن قوله مباشرة. وقد ظهرت ترجمته الإنجليزية في سلسلة بولنغن عام 1959، وأعادت Princeton University Press طباعته لاحقاً. وفي كتاب *The Way of Individuation* (1965 بالألمانية) خصصت الحديث للمسار العملي: كيف يتعرف المرء إلى ظله وإلى الأنيما أو الأنيموس، ثم إلى الذات.
+
+وقد صدر كتاب 1940 بالإنجليزية عام 1942 في لندن، ثم أعادت Yale University Press نشره في طبعة منقحة عام 1973، وهذا ما يفسّر أنه يُقرأ إلى اليوم مدخلاً تعليمياً إلى يونغ أكثر منه وثيقة تاريخية في تطور فكره.
+
+## حدود وانتقادات
+
+أولاً: يعدّ كثير من الباحثين عملها شرحاً أكثر منه إسهاماً نظرياً، وهي نفسها لم تدّعِ غير ذلك، فالمعيار الذي يُحكم به عليها هو أمانة العرض ووضوحه، وهو ما نجحت فيه. وثانياً: عرضها يحمل ما عند يونغ من تصورات جندرية ثابتة عن الأنيما والأنيموس، وقد أعادت المدارس النسوية اليونغية قراءتها. وثالثاً: لأن كتابها الأول صدر في 1940 فإنه يعكس مرحلة من تطور يونغ ولا يتناول أعماله اللاحقة. والمسألة الأخيرة تخص الحضور العربي: لم نقف على ترجمة عربية معتمدة لكتبها، فيبقى القارئ العربي في الغالب أمام عرض يونغ المباشر.
+
 ## المصادر
 
-- Jolande Jacobi, *Encyclopædia entry*, in: Wikipedia, "Jolande Jacobi" (تاريخ الميلاد/الوفاة، المسار الأكاديمي، تأسيس معهد زيورخ 1948).
-- Jolande Jacobi, *The Psychology of C.G. Jung* (Yale University Press edition), مبني على *Die Psychologie von C.G. Jung*, 1940.
-- Jolande Jacobi, *Complex/Archetype/Symbol in the Psychology of C.G. Jung*, Princeton University Press (Bollingen Series LVII), ترجمة لـ *Komplex/Archetypus/Symbol in der Psychologie C.G. Jungs*, Rascher Verlag, 1957.
-- Jolande Jacobi, *Der Weg zur Individuation*, Rascher, Zürich, 1965 (translated as *The Way of Individuation*).
-- ETH Zürich Research Collection, ملف "Jolande Jacobi (1890–1973)".
+- Jacobi, J. (1940). *Die Psychologie von C. G. Jung: Eine Einführung in das Gesamtwerk*. Zürich: Rascher Verlag.
+- Jacobi, J. (1957). *Komplex, Archetypus, Symbol in der Psychologie C. G. Jungs*. Zürich: Rascher Verlag. (الترجمة الإنجليزية: *Complex/Archetype/Symbol in the Psychology of C. G. Jung*, Bollingen Series LVII, New York: Pantheon Books, 1959.)
+- Jacobi, J. (1965). *Der Weg zur Individuation*. Zürich: Rascher Verlag. (الترجمة الإنجليزية: *The Way of Individuation*, New York: Harcourt, Brace & World, 1967.)
+- Jacobi, J. (Ed.). (1951). *Paracelsus: Selected Writings*. Bollingen Series XXVIII. New York: Pantheon Books.
+- Jacobi, J. (1969). *Vom Bilderreich der Seele*. Olten: Walter-Verlag.

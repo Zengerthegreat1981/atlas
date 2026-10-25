@@ -54,9 +54,30 @@ gaps:
 
 *Social Learning and Clinical Psychology* (1954) · "Generalized Expectancies for Internal Versus External Control of Reinforcement" (1966)، *Psychological Monographs* · "A New Scale for the Measurement of Interpersonal Trust" (1967) · *Applications of a Social Learning Theory of Personality* (1972، مع جون تشانس وجيري فيرس).
 
+## السيرة والمنهج
+
+وُلد روتر في بروكلين عام 1916، ونال الدكتوراه من جامعة إنديانا عام 1941، وعمل بعد الحرب في جامعة ولاية أوهايو حيث كان زميلاً لجورج كيلي، صاحب نظرية البناءات الشخصية، وتتلمذ عليه والتر ميشيل. وانتقل عام 1963 إلى جامعة كونيتيكت وبقي فيها حتى تقاعده، وتوفي عام 2014. وكان إسهامه المنهجي الأول أداة «استكمال الجمل غير التامة» (روتر ورافرتي، 1950) التي صارت من وسائل التقييم الإسقاطي نصف المنظمة، ثم انتقل إلى المقاييس الكمية للتوقعات العامة.
+
+## نظرية التعلم الاجتماعي كما صاغها
+
+يسمّي روتر نظريته التعلم الاجتماعي لأنه يؤكد أن التعلم الإنساني الأهم يحدث في التفاعل مع الآخرين وبتوسط التوقعات والقيم. وتقوم على أربعة متغيرات: إمكان السلوك، والتوقع، وقيمة التعزيز، والموقف النفسي. وهي مبنية على أن الناس يتعلمون بالتجربة ما يؤدي إلى ما يريدونه، لكنها تشدد على أن اختلاف الأشخاص يرجع إلى ما توقعوه لا إلى ما حدث فقط. ووقف باندورا لاحقاً عند فكرة أن التعلم يحدث بالملاحظة، فسمّى مدرسته التعلم الاجتماعي كذلك، مما يوجب التمييز بين نظرية روتر ونظرية باندورا اللتين تحملان الاسم نفسه ولا تتطابقان.
+
+## الامتداد إلى الصحة والتحصيل
+
+انتشر مفهوم مركز الضبط خارج علم النفس الشخصي، فبنى والستون ووالستون وديفيليس (1978) مقياس مركز الضبط الصحي متعدد الأبعاد الذي يميّز بين الاعتقاد في أن الصحة بيد الفرد أو بيد المختصين أو الحظ، وبنى ليفكورت (1982) أدبيات واسعة عن مركز الضبط والتكيف. ووضع جادج وبونو (2001) مركز الضبط ضمن «سمات التقييم الذاتي الجوهرية» مع تقدير الذات والاستقرار الانفعالي والكفاءة الذاتية، وأظهرا ارتباطها بالرضا الوظيفي والأداء.
+
+## حدود وانتقادات
+
+إضافةً إلى ما سبق في قسم القيد، يؤخذ على مقياس 1966 أنه يصوغ العبارات بصيغة الاختيار الإجباري بين خيارين، وهو ما يجعله متأثراً بالرغبة في الاستحسان الاجتماعي. وتختلف دلالة الداخلية والخارجية باختلاف الثقافة، فالمجتمعات التي تقوم على القدر أو على الجماعة لا تعني فيها الخارجية بالضرورة العجز، وقد يكون القبول بالأقدار شكلاً من التكيف. وحين يُقاس مركز الضبط في الجماعات المضطهدة، تعكس الدرجات الخارجية واقعاً يتحكم فيه الآخرون فعلاً، فلا تصحّ قراءتها سمةً مرضية. وهذه كلها ملاحظات قبلها روتر في مقاله لعام 1990 الذي راجع فيه تاريخ المتغير.
+
 ## المصادر
 
-- Wikipedia, "Julian Rotter": https://en.wikipedia.org/wiki/Julian_Rotter
-- Wikipedia, "Locus of control": https://en.wikipedia.org/wiki/Locus_of_control
-- Zimbardo.com, "Life and Legacy of Psychologist Julian Rotter": https://www.zimbardo.com/life-and-legacy-of-psychologist-julian-rotter/
-- Pearson Assessments, "Julian B. Rotter": https://www.pearsonassessments.com/professional-assessments/products/authors/rotter-julian.html
+- Rotter, J. B., & Rafferty, J. E. (1950). *Manual: The Rotter Incomplete Sentences Blank, College Form*. Psychological Corporation.
+- Rotter, J. B. (1954). *Social Learning and Clinical Psychology*. Prentice-Hall.
+- Rotter, J. B. (1966). "Generalized Expectancies for Internal Versus External Control of Reinforcement". *Psychological Monographs*, 80(1), 1–28.
+- Rotter, J. B. (1967). "A New Scale for the Measurement of Interpersonal Trust". *Journal of Personality*, 35(4), 651–665.
+- Rotter, J. B., Chance, J. E., & Phares, E. J. (Eds.) (1972). *Applications of a Social Learning Theory of Personality*. Holt, Rinehart and Winston.
+- Wallston, K. A., Wallston, B. S., & DeVellis, R. (1978). "Development of the Multidimensional Health Locus of Control (MHLC) Scales". *Health Education Monographs*, 6(2), 160–170.
+- Lefcourt, H. M. (1982). *Locus of Control: Current Trends in Theory and Research* (2nd ed.). Lawrence Erlbaum Associates.
+- Rotter, J. B. (1990). "Internal Versus External Control of Reinforcement: A Case History of a Variable". *American Psychologist*, 45(4), 489–493.
+- Judge, T. A., & Bono, J. E. (2001). "Relationship of Core Self-Evaluations Traits—Self-Esteem, Generalized Self-Efficacy, Locus of Control, and Emotional Stability—with Job Satisfaction and Job Performance: A Meta-Analysis". *Journal of Applied Psychology*, 86(1), 80–92.

@@ -61,10 +61,23 @@ gaps:
 - **التوجيهية والمناورة**: بناء العلاج على مهامّ يعطيها المعالج دون أن يشرح مبرّرها يجعله عرضةً لاتهام المناورة، وهو نقد موجّه إليه من التقاليد التي تجعل بصيرة العميل ورضاه المستنير شرطاً للعلاج.
 - **قابلية الاختبار**: معظم ما كتبه هالي عرضٌ لحالات وتقنيات لا تجارب مضبوطة؛ فاعلية العلاج الاستراتيجي في صيغته الهاليية ليست مقيسة في تجارب معشّاة بحجم ما لُقّي به من انتشار.
 
+## من فريق باتسون إلى إريكسون
+
+بعد ورقة الرباط المزدوج سار هالي في اتجاه خاص: ففي ورقته «أسرة الفصامي: نموذج نسقي» (*Journal of Nervous and Mental Disease*، 1959) وصف الأسرة بوصفها نسقاً يتفاوض أفراده على من يملك حق تعريف العلاقة، وهي الفكرة التي جعلت السلطة مدخله الدائم. وفي الفترة نفسها زار مع جون ويكلاند ميلتون إريكسون في فينيكس مراراً، ثم حرّر مجموعة أوراقه عن التنويم في *Advanced Techniques of Hypnosis and Therapy* (1967). وفي *Strategies of Psychotherapy* (1963) قدّم تصوّر العلاج بوصفه صراعاً تكتيكياً على تعريف العلاقة بين المعالج والمريض، حيث يتجنب المعالج أن يقع في المنزلة الأدنى التي يفرضها العَرَض. وفي كتاب *Techniques of Family Therapy* (1967، مع لين هوفمان) جمع نصوصاً ومقابلات مصوّرة لمعالجين مختلفين ليُظهر كيف يعمل كلٌّ منهم.
+
+وفي *The Power Tactics of Jesus Christ and Other Essays* (1969) وسّع هالي النظر إلى السلطة خارج العيادة، فحلّل كيف تتحرك الشخصيات والمؤسسات في مواقف القوة. وهذا الكتاب مؤشر على أن مشروعه كان نظرية في التأثير الاجتماعي أكثر منه نظرية في علاج الاضطراب.
+
+## حدود وانتقادات إضافية
+
+وجّه علماء النفس النسويون، منذ ورقة هير-موستين (*Family Process*، 1978) عن مقاربة نسوية للعلاج الأسري، نقداً للمقاربات الاستراتيجية والنسقية عموماً بأنها تعامل الأسرة بوصفها نسقاً محايداً وتتجاهل التفاوت الفعلي في السلطة بين الرجل والمرأة، فقد يُطلب من المرأة المعنَّفة «تعديل نمط التفاعل» كأنها طرف متكافئ. وقد عمل هالي طويلاً مع كلوي مادانس، التي طوّرت لاحقاً صيغة تراعي هذا الإشكال. ولا نعرف ترجمة عربية معتمدة لكتبه، ومن ثمّ تتفاوت ترجمة مصطلحات مثل «التوجيه المتناقض» و«العلاج بالمحن».
+
 ## المصادر
 
-- Haley, J. *Strategies of Psychotherapy*. Grune & Stratton, 1963.
-- Bateson, G., Jackson, D. D., Haley, J., & Weakland, J. "Toward a Theory of Schizophrenia". *Behavioral Science*, 1(4), 1956.
-- Haley, J. *Uncommon Therapy: The Psychiatric Techniques of Milton H. Erickson, M.D.* W. W. Norton, 1973.
-- Haley, J. *Problem-Solving Therapy*. Jossey-Bass, 1976.
-- Haley, J. *Leaving Home: The Therapy of Disturbed Young People*. McGraw-Hill, 1980.
+- Bateson, G., Jackson, D. D., Haley, J., & Weakland, J. (1956). "Toward a theory of schizophrenia". *Behavioral Science*, 1(4), 251–264.
+- Haley, J. (1959). "The family of the schizophrenic: A model system". *Journal of Nervous and Mental Disease*, 129(4), 357–374.
+- Haley, J. (1963). *Strategies of Psychotherapy*. New York: Grune & Stratton.
+- Haley, J. (Ed.). (1967). *Advanced Techniques of Hypnosis and Therapy: Selected Papers of Milton H. Erickson, M.D.* New York: Grune & Stratton.
+- Haley, J. (1973). *Uncommon Therapy: The Psychiatric Techniques of Milton H. Erickson, M.D.* New York: W. W. Norton.
+- Haley, J. (1976). *Problem-Solving Therapy*. San Francisco: Jossey-Bass.
+- Haley, J. (1980). *Leaving Home: The Therapy of Disturbed Young People*. New York: McGraw-Hill.
+- Hare-Mustin, R. T. (1978). "A feminist approach to family therapy". *Family Process*, 17(2), 181–194.

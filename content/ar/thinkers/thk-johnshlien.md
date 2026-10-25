@@ -51,8 +51,27 @@ gaps:
 
 الإشكال في ملفّ شلين أنه معروف بورقة واحدة أساساً (1984)، وأن أوراقه ظلّت متفرّقة في كتب جماعية ودوريات حتى جُمعت بعد وفاته عام 2003؛ فليس له كتاب مؤلَّف منفرد يُحاكم عليه مثل *On Becoming a Person* عند روجرز. ونقدُه للتحويل نقدٌ تصوّري لا تجريبي: لا يقدّم تنبّؤاً قابلاً للاختبار يفرّق بين «التحويل ظاهرة في العميل» و«التحويل بناءٌ عند المعالج».
 
+## السياق: مركز الإرشاد في شيكاغو
+
+عمل شلين في الخمسينيات في مركز الإرشاد بجامعة شيكاغو الذي أدار روجرز فيه برنامج البحث في العلاج المتمركز على العميل، وكان المركز يجمع بين الممارسة والتجريب، إذ كان يُسجَّل الكلام وتُقدَّر النتائج بمقاييس منظمة. وفي هذا الإطار نُشرت دراسة روجرز وديموند «العلاج النفسي وتغيّر الشخصية» (1954) التي قارنت عملاء تلقوا العلاج بمجموعات انتظار، وهي من أكثر نتائج المدرسة استشهاداً. ومن هذا المناخ البحثي خرج اهتمام شلين بسؤال عملي: ما أثر المدة المحددة للعلاج؟
+
+## تجربة المدة المحددة
+
+نشر شلين عام 1957 تقريراً عن العلاج محدد المدة في «مجلة الإرشاد النفسي»، وفيه أن العملاء الذين أُبلغوا أن العلاج سينتهي بعد عدد معلوم من الجلسات حققوا نتائج لا تقل عن الذين لم يحدَّد لهم أمد، بل يُنظر إليها أحياناً أفضل. ثم جاءت دراسة 1962 مع موساك ودرايكورس التي ذكرناها، وقد أضافت المقارنة بين علاجين متمركز على العميل وأدلري. وتكمن أهمية هذه النتائج في أنها عالجت مدة العلاج متغيراً قابلاً للتجريب، ولأنها جاءت قبل نشوء حركة العلاج القصير في الثمانينيات التي صارت جزءاً من الرعاية الصحية الحديثة.
+
+## المعنى النظري لنقد التحويل
+
+يعيد شلين في «نظرية مضادة للتحويل» طرح السؤال عمّا يعنيه المعالج حين يقول إن مشاعر العميل «تحويل». وفي تصوره أن هذا التفسير قد يستعمله المعالج حين يتعذر عليه الاعتراف بأن ما يفعله هو، أو ما فاته، هو الذي أثار ردّ العميل. وبهذا يصير الإيحاء بأن مشاعر العميل تعود إلى الماضي طريقة لتجنّب مسؤولية الحاضر في الغرفة. وهذا يلتقي مع تقاليد المدرسة المتمركزة على الشخص في التأكيد على أن العلاقة الفعلية بين الشخصين هي ميدان التغيير، لا ما يُفترض أنها تعيد إنتاجه.
+
+## حدود وانتقادات
+
+وإلى جانب ما ذُكر في قسم القيد، يمكن ملاحظة أن تجارب المدة المحددة في الخمسينيات أُجريت على عيّنات طلابية وعلى عدد صغير من المعالجين، فلا يمكن فصل أثر المدة عن أثر المعالج. كما أن قياس النتائج في تلك الفترة اعتمد على تقدير العميل والمعالج، وهو أضعف من القياس المستقل. وفي شأن «نظرية مضادة للتحويل»، فإن التحليليين لا يقبلون الحجة، إذ يرون أن التحويل ظاهرة مدروسة في السلوك الإنساني خارج غرفة العلاج، وأن تفسير المعالج لا يلغي أن يكون العميل يعيد أنماطاً قديمة. وهذا الخلاف ما يزال مفتوحاً بين مدرستين تختلفان في تعريف ما يُعدّ دليلاً.
+
 ## المصادر
 
-- Shlien, J. M., Mosak, H. H., & Dreikurs, R. (1962). *Effect of time limits: A comparison of two psychotherapies*. Journal of Counseling Psychology.
-- Levant, R. F., & Shlien, J. M. (Eds.) (1984). *Client-Centered Therapy and the Person-Centered Approach: New Directions in Theory, Research and Practice*. Praeger. (وفيه فصله «A Countertheory of Transference»)
-- (نُشرت بعد وفاته) Shlien, J. M. (2003). *To Lead an Honorable Life: Invitations to Think about Client-Centered Therapy and the Person-Centered Approach*. PCCS Books.
+- Rogers, C. R., & Dymond, R. F. (Eds.) (1954). *Psychotherapy and Personality Change: Co-ordinated Studies in the Client-Centered Approach*. University of Chicago Press.
+- Shlien, J. M. (1957). "Time-Limited Psychotherapy: An Experimental Investigation of Practical Values and Theoretical Implications". *Journal of Counseling Psychology*, 4(4).
+- Shlien, J. M., Mosak, H. H., & Dreikurs, R. (1962). "Effect of Time Limits: A Comparison of Two Psychotherapies". *Journal of Counseling Psychology*, 9(1).
+- Shlien, J. M. (Ed.) (1968). *Research in Psychotherapy, Volume III*. American Psychological Association.
+- Levant, R. F., & Shlien, J. M. (Eds.) (1984). *Client-Centered Therapy and the Person-Centered Approach: New Directions in Theory, Research and Practice*. Praeger.
+- Shlien, J. M. (2003). *To Lead an Honorable Life: Invitations to Think about Client-Centered Therapy and the Person-Centered Approach*. PCCS Books.

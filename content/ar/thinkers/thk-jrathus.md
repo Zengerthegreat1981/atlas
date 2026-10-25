@@ -35,7 +35,7 @@ gaps:
 
 ## ما أعطته
 
-قادت مع **أليك ميلر** تطوير بروتوكول DBT للمراهقين، وشاركته تأليف «العلاج الجدلي السلوكي مع المراهقين الانتحاريين» (2007) الذي صار المرجع التدريبي المعتمد.
+قادت مع **أليك ميلر** تطوير بروتوكول DBT للمراهقين، وشاركته تأليف «العلاج الجدلي السلوكي مع المراهقين الانتحاريين» (2007، مع مارشا لينهان أيضاً) الذي صار المرجع التدريبي المعتمد.
 
 وأهمّ ما أضافاه ليس تبسيط بروتوكول لينهان بل **وحدة مهارات خامسة** لم تكن فيه: **«السير في الطريق الوسط»** (Walking the Middle Path). وموضوعها ثلاث **معضلات جدلية** تخصّ الأسرة لا الفرد، يتأرجح فيها الوالدان بين طرفين كلاهما مُضرّ:
 - بين **التساهل المفرط** و**التحكّم السلطوي**؛
@@ -57,11 +57,25 @@ gaps:
 
 ## أهم أعمالها
 
-- «العلاج الجدلي السلوكي للمراهقين: دليل التدريب على المهارات» (Dialectical Behavior Therapy with Suicidal Adolescents, 2007) — مع أليك ميلر.
+- «العلاج الجدلي السلوكي مع المراهقين الانتحاريين» (Dialectical Behavior Therapy with Suicidal Adolescents, 2007) — مع أليك ميلر ومارشا لينهان.
+- «دليل مهارات DBT-A» (DBT Skills Manual for Adolescents, 2015) — مع أليك ميلر.
+
+## من الدراسة الأولى إلى التجارب العشوائية
+
+نشرت راثوس وميلر عام 2002 في «مجلة الانتحار والسلوك المهدِّد للحياة» ورقة بعنوان العلاج الجدلي السلوكي المكيَّف للمراهقين الانتحاريين، وصفا فيها تعديلات البروتوكول: إشراك الأسرة في المجموعة، وتقصير المدة، وإضافة وحدة الطريق الوسط. وكان الاختبار الأول في عيادة بنيويورك على عدد محدود من المراهقين، فقارنا بين من تلقوا العلاج ومن تلقوا علاجاً معتاداً، ووجدا انخفاضاً في الإدخال إلى المستشفى، لكن التصميم لم يكن عشوائياً. ثم صدر كتاب «العلاج الجدلي السلوكي مع المراهقين الانتحاريين» (2007) بالاشتراك مع أليك ميلر ومارشا لينهان، وأتبعاه بـ«دليل مهارات DBT-A» (2015). وتتالت بعد ذلك تجارب عشوائية: تجربة ميلوم وزملائه في النرويج (2014) التي ذُكرت، وتجربة مكولي وزملائه في سياتل (2018) في «جاما للطب النفسي» التي قارنت DBT-A بعلاج فردي وجماعي داعم، فوجدت أن الأول خفّض إيذاء الذات والأفكار الانتحارية أكثر خلال العلاج وبعده بمدة قصيرة.
+
+## كيف تتناول وحدة الطريق الوسط الأسرة
+
+الوحدة الخامسة التي أضافتها راثوس وميلر مستمدة من منطق الجدلية عند لينهان: إذا كان الحقيقي أن ما يفعله المراهق مفهوم في ضوء تاريخه، وأنه في الوقت نفسه مضرّ ولا بدّ أن يتغير، فإن على الأسرة أن تتعلم قول الأمرين معاً. ولذلك يتدرب الوالد على عبارات تصديق من قبيل: أفهم لماذا فعلت ذلك، وأراه يؤذيك، ويتدرب المراهق على تقبّل أن الوالد يقيّده بدافع القلق لا العداء. وهذه المهارات ليست إضافة شكلية، إذ تُعدّ ما يميّز DBT-A عن علاجات المراهقين الفردية.
+
+## حدود وانتقادات
+
+أول الحدود هو الكلفة: إذ يقتضي البرنامج التزام الأسرة وفريقاً مدرّباً ومجموعة أسبوعية، وهو ما لا يتوافر في كثير من العيادات العامة، وقد درس باحثون صيغاً أقصر وأرخص. والثاني أن الفروق بين DBT-A وعلاجات المقارنة قد تتناقص مع طول المتابعة، كما لاحظت دراسات المتابعة بعد التجربة النرويجية. والثالث أن أغلب التجارب أُجريت في أمريكا الشمالية وشمال أوروبا، فلا يُعرف كيف تعمل مهارات الطريق الوسط في ثقافات تقوم فيها العلاقة بين الوالدين والمراهق على مفاهيم مختلفة للسلطة والاستقلال. وأخيراً يتساءل المراجعون عن مدى كون فائدة البرنامج ناتجة عن مكوناته الجدلية تحديداً أم عن كثافته وانتظامه.
 
 ## المصادر
 
-- [Jill Rathus, Ph.D. — Behavioral Tech Institute](https://behavioraltech.org/trainers/jill-rathus-ph-d-jill-rathus-ph-d/)
-- [Jill H. Rathus — Guilford Press](https://www.guilford.com/author/Jill-H-Rathus)
-- [Jill Rathus — صفحة الباحثة على ResearchGate (Long Island University)](https://www.researchgate.net/profile/Jill-Rathus)
-- [Mehlum, L. et al. (2014), "Dialectical Behavior Therapy for Adolescents With Repeated Suicidal and Self-harming Behavior: A Randomized Trial", *Journal of the American Academy of Child & Adolescent Psychiatry*, 53(10), 1082–1091](https://www.sciencedirect.com/science/article/abs/pii/S0890856714004997)
+- Rathus, J. H., & Miller, A. L. (2002). "Dialectical Behavior Therapy Adapted for Suicidal Adolescents". *Suicide and Life-Threatening Behavior*, 32(2), 146–157.
+- Miller, A. L., Rathus, J. H., & Linehan, M. M. (2007). *Dialectical Behavior Therapy with Suicidal Adolescents*. Guilford Press.
+- Mehlum, L., Tørmoen, A. J., Ramberg, M., et al. (2014). "Dialectical Behavior Therapy for Adolescents with Repeated Suicidal and Self-Harming Behavior: A Randomized Trial". *Journal of the American Academy of Child and Adolescent Psychiatry*, 53(10), 1082–1091.
+- Rathus, J. H., & Miller, A. L. (2015). *DBT Skills Manual for Adolescents*. Guilford Press.
+- McCauley, E., Berk, M. S., Asarnow, J. R., et al. (2018). "Efficacy of Dialectical Behavior Therapy for Adolescents at High Risk for Suicide: A Randomized Clinical Trial". *JAMA Psychiatry*, 75(8), 777–785.

@@ -51,11 +51,31 @@ gaps:
 
 ## أهم أعماله
 
-العلاج النفسي والبوذية: نحو تكامل (Psychotherapy and Buddhism: Toward an Integration، 1996) · فنّ الازدهار (The Art of Flourishing، 2012) · *A Psychoanalysis for Our Time* (1998).
+العلاج النفسي والبوذية: نحو تكامل (Psychotherapy and Buddhism: Toward an Integration، 1996) · فنّ الازدهار (The Art of Flourishing، 2011) · *A Psychoanalysis for Our Time* (1998).
+
+## حوار قديم بين التحليل والتأمل
+
+لم يكن لقاء التحليل النفسي بالبوذية جديداً حين كتب روبين. ففي عام 1960 نُشر «بوذية الزن والتحليل النفسي» الذي جمع محاضرات إريك فروم وسوزوكي ودي مارتينو، وأقام المقابلة بين مفهوم الأنا في التحليل ومفهوم اللاأنا في الزن. وفي التسعينيات قدّم مارك إبستين في «أفكار بلا مفكّر» (1995) قراءة تحليلية للبوذية بلغة وينيكوت. وجاء كتاب روبين «العلاج النفسي والبوذية» (1996) ليقدّم عرضاً أكثر تفصيلاً يتناول مشكلات تتجاوز الإعجاب المتبادل: ما الذي يمكن أن يتعلمه المحلل من التأمل، وما الذي يمكن أن يكشفه التحليل في ممارسي التأمل؟ وهو يبني على ذلك كله أطروحته في أن لكل تقليد عمى لا يراه الآخر.
+
+## الانتباه المعلّق والانتباه المجرّد
+
+من أوضح ما يعرضه روبين نقطة التقاء عملية: فرويد أوصى المحلل بـ«الانتباه المعلّق بالتساوي» وهو أن يصغي دون أن يعطي أفضلية لجزء من كلام المريض على غيره، ويقابله في البوذية ما سمّاه نياناپونيكا ثيرا «الانتباه المجرّد» (1962) في «قلب التأمل البوذي». وفي كلتا الحالتين تُعلَّق الأحكام المسبقة، لكن الغاية تختلف: التحليل يريد فهم معنى ما يُقال، والتأمل يريد ملاحظة أن الظواهر تنشأ وتزول. ويرى روبين أن هذا التشابه مغرٍ بالتطابق، وأن الأمانة تقتضي إبراز الفرق.
+
+## كتبه اللاحقة
+
+تابع روبين في «الحياة الطيبة: تأملات تحليلية نفسية في الحب والأخلاق والإبداع والروحانية» (2004) بحث مسألة المعنى، ثم نشر لجمهور أوسع «فن الازدهار» (2011) الذي قدّم فيه خطوات عملية مستمدة من التحليل والتأمل. وسبقهما «تحليل نفسي لزماننا» (1998) الذي بحث فيه عمى الذات الرائية في الثقافة الحديثة. وهذه الأعمال المتأخرة أقرب إلى الكتابة الإرشادية، بينما يحتفظ كتاب 1996 بصفته الأكاديمية.
+
+## حدود وانتقادات
+
+يعترض باحثون بوذيون على استعمال البوذية أداة علاجية، فيرون أن الممارسة جزء من مسار أخلاقي وديني كامل، وأن اقتطاع التأمل منه يغيّر معناه، وهو اعتراض يتفق معه روبين جزئياً في تحذيره من «التجاوز الروحي». ويعترض المحللون التقليديون من جهة أخرى على قبول مفهوم اللاأنا، لأن العمل التحليلي يفترض بناء ذات تتحمل المسؤولية والعلاقات. وفي الميدان التجريبي، لا تجارب ضابطة تدعم نموذج روبين نفسه، وتتركز الأدلة المتاحة على اليقظة الذهنية بصيغتها المعيارية. وأخيراً، تبقى إحالاته إلى الشرق مأخوذة من البوذية في سياقها الأمريكي، فلا تعكس بالضرورة التنوع الواسع للتقاليد الآسيوية.
 
 ## المصادر
-- [Psychotherapy and Buddhism: Toward an Integration — Amazon (Jeffrey B. Rubin, 1996)](https://www.amazon.com/Psychotherapy-Buddhism-Integration-Practice-Psychology/dp/0306454416)
-- [The Art of Flourishing: A New East-West Approach... — Amazon (Jeffrey B. Rubin, PhD)](https://www.amazon.com/Art-Flourishing-East-West-Approach-Staying/dp/0307718891)
-- [Meditative Psychotherapy and Psychoanalysis — Routledge (Jeffrey Rubin)](https://www.routledge.com/Meditative-Psychotherapy-and-Psychoanalysis-Pathways-to-Healing-and-Transformation/BRubin/p/book/9781032982977)
-- [John Welwood on coining "spiritual bypassing" (1984), *Toward a Psychology of Awakening*](https://www.goodreads.com/quotes/9319601-spiritual-bypassing-is-a-term-i-coined-to-describe-a)
-- [Spiritual bypass — Wikipedia (EN)](https://en.wikipedia.org/wiki/Spiritual_bypass)
+
+- Fromm, E., Suzuki, D. T., & De Martino, R. (1960). *Zen Buddhism and Psychoanalysis*. Harper & Brothers.
+- Nyanaponika Thera. (1962). *The Heart of Buddhist Meditation*. Rider.
+- Epstein, M. (1995). *Thoughts Without a Thinker: Psychotherapy from a Buddhist Perspective*. Basic Books.
+- Rubin, J. B. (1996). *Psychotherapy and Buddhism: Toward an Integration*. Plenum Press.
+- Rubin, J. B. (1998). *A Psychoanalysis for Our Time: Exploring the Blindness of the Seeing I*. New York University Press.
+- Rubin, J. B. (2004). *The Good Life: Psychoanalytic Reflections on Love, Ethics, Creativity, and Spirituality*. State University of New York Press.
+- Rubin, J. B. (2011). *The Art of Flourishing: A New East-West Approach to Staying Sane and Finding Love in an Insane World*. Harmony Books.
+- Welwood, J. (1984). "Principles of Inner Work: Psychological and Spiritual". *Journal of Transpersonal Psychology*, 16(1), 63–73.

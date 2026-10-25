@@ -49,9 +49,23 @@ gaps:
 ## القيد
 - **جلسات "Family of Origin"** تتطلب استعداداً عاطفياً عالياً من المشاركين، وتثير تساؤلات أخلاقية حول الحدود.
 
+## الإطار التاريخي لعمله
+
+عمل فرامو في مطلع حياته المهنية في فيلادلفيا إلى جانب إيفان بوسورميني-ناجي في معهد شرق بنسلفانيا للطب النفسي، وهو الموقع الذي صارت فيه تجربة العلاج الأسري المكثف تُدرَس وتُنشر. وكان المجلد الذي حرّره مع بوسورميني-ناجي عام 1965 بعنوان *Intensive Family Therapy* من الكتب المؤسسة للحقل، وضم نصوصاً لمعالجين شاركوا في تحويل نظر العيادة من الفرد إلى الأسرة. ثم أصدر عام 1972 مجلد *Family Interaction* الذي جمع حواراً بين باحثي الأسرة ومعالجيها، وهو مؤشر على اهتمامه ببناء جسر بين البحث والممارسة. وتتداخل التواريخ المذكورة في السيرة أعلاه (1956–1969 و1960)، والمؤكد أنه جمع بين العمل الإكلينيكي والتدريس الجامعي في فيلادلفيا قبل استقراره لاحقاً في سان دييغو.
+
+## ورقة «يمكنك أن تعود إلى بيتك»
+
+ظهرت أشهر ورقاته عام 1976 في مجلة *Family Process* بعنوان أسرة المنشأ مورداً علاجياً للراشدين في العلاج الزواجي والأسري: يمكنك ويجب أن تعود إلى البيت من جديد. جاءت الورقة جواباً عن اعتراض كان شائعاً في المهنة وقتها: أن إحضار الأهل إلى جلسة مع راشد فيه تراجع إلى الطفولة. فجادل بأن الراشد الذي يلتقي أهله بإعداد مسبق وبمرافقة معالج يحصل على فرصة تعديل ما كان يستمر في العلاقة الزوجية بصورة لا واعية. وفي 1981 كتب فصلاً في «دليل العلاج الأسري» لغورمان وكنيسكرن عن دمج العلاج الزوجي بجلسات أسرة المنشأ، فصار التسلسل التقني الذي وصفه، من التقييم إلى تحضير الجلسة وحصر الأهداف بما يقوله الزوج لأهله وما يسمعه منهم، مرجعاً لمن جاء بعده.
+
+## حدود وانتقادات
+
+سبق في «القيد» أن الجلسات تتطلب استعداداً عاطفياً عالياً. ويضاف إلى ذلك أنها تفترض أن الأهل أحياء وقادرون على الحضور ومستعدون للتعاون، وهو شرط لا يتوافر دائماً، وأن العودة إلى الأسرة قد تعيد إنتاج إيذاء حقيقي حين تكون العلاقة عنيفة أو مسيئة، إذ لا يكفي فيها حسن النية. وقد انتقد المعالجون النسويون في العلاج الأسري عموماً نماذج الأجيال لأنها قد تُحمّل الأم مسؤولية ما ينشأ في الأبناء، وهو نقد يصيب جزءاً من هذا الاتجاه. وفي السياق العربي، حيث للأسرة الممتدة وزن كبير في القرارات الزوجية، يمكن أن يبدو النموذج مألوفاً من حيث حضور الأهل، لكنه يتناقض مع افتراضه تكلّم الراشد مع أهله بندّية، وهو أمر قد يُنظر إليه هناك على أنه خروج على التراتب. ولم نقف على ترجمة عربية معتمدة لكتبه.
+
 ## المصادر
 
-- James Lawrence Framo (1922–2001): Obituary, *American Psychologist*, 57(6/7), 2002, p. 441 — APA PsycNET: https://psycnet.apa.org/doiLanding?doi=10.1037/0003-066X.57.6-7.441
-- Woolley, S., "In Memory of James L. Framo: A Personal Note," *Journal of Marital and Family Therapy*, 2002 — Wiley Online Library: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1752-0606.2002.tb01164.x
-- "James Framo," European Family Therapy Association (EFTA): https://europeanfamilytherapy.eu/james-framo/
-- "James Framo Biography: Who they are and their contribution," GoodTherapy: https://www.goodtherapy.org/famous-psychologists/james-framo.html
+- Boszormenyi-Nagy, I., & Framo, J. L. (Eds.). (1965). *Intensive Family Therapy: Theoretical and Practical Aspects*. New York: Harper & Row.
+- Framo, J. L. (Ed.). (1972). *Family Interaction: A Dialogue Between Family Researchers and Family Therapists*. New York: Springer.
+- Framo, J. L. (1976). "Family of origin as a therapeutic resource for adults in marital and family therapy: You can and should go home again". *Family Process*, 15(2), 193–210.
+- Framo, J. L. (1982). *Explorations in Marital and Family Therapy: Selected Papers of James L. Framo*. New York: Springer.
+- Framo, J. L. (1992). *Family-of-Origin Therapy: An Intergenerational Approach*. New York: Brunner/Mazel.
+- Obituary: James Lawrence Framo (1922–2001). *American Psychologist*, 57(6–7), 2002, 441.

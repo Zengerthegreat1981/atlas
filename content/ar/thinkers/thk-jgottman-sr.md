@@ -44,8 +44,24 @@ gaps:
 - *And Baby Makes Three* (مع جون، 2007).
 - *Eight Dates* (مع جون، 2019) و*The Love Prescription* (مع جون، 2022) و*Fight Right* (مع جون، 2024).
 
+## من التدريب السريري إلى طريقة معتمدة
+
+الدور الذي لعبته جولي غوتمان في المعهد هو دور المترجمة بين لغتين: لغة المختبر التي يتكلمها جون، ولغة الغرفة العلاجية التي يحتاجها المعالج الذي يرى زوجين غاضبين. وقد ظهر هذا في كتاب *The Marriage Clinic Casebook* الذي حرّرته ونشرته Norton عام 2004، وجمعت فيه أعمال معالجين وصفوا كيف يُطبَّق البحث الزواجي على حالات متنوعة، ثم في فصل مشترك مع جون عن «العلاج الزواجي بطريقة غوتمان» في *Clinical Handbook of Couple Therapy* الذي حرّره غورمان (الطبعة الرابعة، 2008). وفي هذا الفصل صيغت مراحل الطريقة: التقييم أولاً ثم التدخل. أما كتاب *Ten Principles for Doing Effective Couples Therapy* (2015) فهو عرض عملي يتجه إلى المعالجين.
+
+وفي 2017 نشر الزوجان في *Journal of Family Theory & Review* مقالة بعنوان «المبادئ الطبيعية للحب»، قدّما فيها نظرية تفسّر نتائج العقود الأربعة بلغة الثقة والالتزام والانسجام الانفعالي. وفي الجانب التجريبي، نشر بابكوك وغوتمان وريان وغوتمان (2013) في *Journal of Family Therapy* دراسة عن تحليل مكونات ورشة قصيرة للأزواج مع متابعة سنة، وجدت أن ما يُدرَّب عليه الأزواج في الورشة يحدث تغييراً في طريقة إدارة الخلاف.
+
+## مشروع العمل مع العنف
+
+تركز جولي على مشكلة يتجنبها كثير من المعالجين وهي وجود عنف بين الزوجين. ومن هنا جاء الفرز المسبق الذي تتحدث عنه، فيُفرَّق بين عنف الموقف الذي ينشأ في لحظة تصاعد وعنف الطبع الذي ينطوي على سيطرة وترهيب، ولا يُعالَج الثاني بالعلاج الزواجي المشترك، لأن الجلوس مع المعتدي في جلسة واحدة قد يعرّض الطرف الآخر للخطر. وتُعدّ هذه القاعدة من أكثر ما يُنصح به في الحقل اليوم، وإن ظلّ تطبيقها اجتهادياً: كيف يُقيَّم العنف في الحالات الملتبسة، وما الذي يُسأل عنه كل طرف على حدة؟
+
+## حدود وانتقادات
+
+أول الحدود أن معظم الدراسات التجريبية عن الطريقة صادرة من المعهد نفسه أو من باحثين مرتبطين به، فيقلّ وجود تجارب مستقلة كبرى تقارن الطريقة بعلاجات أخرى مثل العلاج المرتكز على الانفعال. وثانيها تجارية: فالتدريب المعتمد والمنتجات مرتبطة بعلامة المعهد، وقد يؤثر ذلك في الحياد. وثالثها أن النموذج وُلد في أزواج أمريكيين مغايري الجنس في الأساس، ولذلك فإن تطبيقه في ثقافات أخرى يحتاج تكييفاً لا يتوافر له توثيق منشور. ورابعها أن ما نُشر عنها بالعربية مقتصر على ما نقله غيرها، ولا نعرف ترجمة معتمدة لأعمالها المنفردة. وبعض ما ورد في هذا الملف من تفاصيل سيرية، كالمناصب وتواريخ الجوائز، نُقل من صفحات المعهد التعريفية ولم نتحقق منه من مصدر مستقل.
+
 ## المصادر
 
-- [John & Julie Gottman — About, The Gottman Institute](https://www.gottman.com/about/john-julie-gottman/)
-- [Julie Schwartz Gottman, Wikipedia](https://en.wikipedia.org/wiki/Julie_Schwartz_Gottman)
-- [Dr. Julie Schwartz Gottman — Psychotherapy Networker](https://catalog.psychotherapynetworker.org/speaker/julie-schwartz-gottman-7076/18)
+- Gottman, J. S. (Ed.). (2004). *The Marriage Clinic Casebook*. New York: W. W. Norton.
+- Gottman, J. M., & Gottman, J. S. (2008). "Gottman Method Couple Therapy". In A. S. Gurman (Ed.), *Clinical Handbook of Couple Therapy* (4th ed., pp. 138–164). New York: Guilford Press.
+- Gottman, J. S., & Gottman, J. M. (2015). *10 Principles for Doing Effective Couples Therapy*. New York: W. W. Norton.
+- Gottman, J. S., & Gottman, J. M. (2017). "The natural principles of love". *Journal of Family Theory & Review*, 9(1), 7–26.
+- Babcock, J. C., Gottman, J. M., Ryan, K. D., & Gottman, J. S. (2013). "A component analysis of a brief psycho-educational couples' workshop: One-year follow-up results". *Journal of Family Therapy*, 35(3), 252–280.

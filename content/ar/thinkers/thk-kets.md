@@ -26,6 +26,10 @@ gaps:
 
 أستاذ كرسي Raoul de Vitry d'Avaucourt في INSEAD، ومدير INSEAD Global Leadership Centre، ومن أبرز ممارسي «علم نفس القيادة» المعاصر، ومحلّل نفسي معتمد.
 
+## السيرة والتكوين
+
+وُلد مَنفرِد كِتس دي فريس عام 1942 في هولندا، ودرس الاقتصاد في أمستردام، ثم أكمل دراساته العليا في كلية هارفارد للأعمال، وتدرّب بعد ذلك محلّلاً نفسياً في مونتريال وباريس. وعمل أستاذاً في ماكغيل وفي كلية الدراسات التجارية العليا بمونتريال وفي هارفارد قبل أن يستقر في إنسياد (INSEAD) في أوروبا، حيث شغل كرسياً مخصصاً لتطوير القيادة وأنشأ مركزاً للقيادة العالمية. ويجمع هذا المسار بين ثلاثة عوالم نادراً ما تجتمع: الاقتصاد والإدارة، والتحليل النفسي الإكلينيكي، وتدريب المديرين التنفيذيين. ولا يُعرف لأعماله حضور عربي أو ترجمة عربية معتمدة، وإن كانت لغة القيادة النرجسية والمؤسِّس العاجز عن التنحّي مألوفة للقارئ العربي من الشركات العائلية والمؤسسات المرتبطة بزعيمها.
+
 ## ما أعطاه
 
 - **المنظمة العُصابية** (The Neurotic Organization، 1984، مع **داني ميلر**): أطروحته المؤسِّسة. أن أنماط الاضطراب المعروفة في الأفراد لها **نظائر في بنية المنظمات**، لأن شخصية من في القمّة تتسرّب إلى الهيكل والإجراءات والثقافة. وأحصى خمسة أنماط:
@@ -42,22 +46,20 @@ gaps:
 
 يمثّل كِتس دي فريس **المدرسة الإكلينيكية في دراسة المنظمات**، وهي فرع من تقليد أوسع يضمّ **معهد تافيستوك** في لندن (ويلفريد بيون في ديناميات المجموعة، وإليوت جاك، وإيزابيل مِنزيس لِيث في «الدفاعات المؤسسية ضدّ القلق»). وموقعه فيه أنه نقل هذا التقليد من الاستشارة المؤسسية إلى **قلب التعليم الإداري النخبوي**.
 
-## القيد
+## حدود وانتقادات
 الاعتراض الأساسي **منهجي**: النموذج الإكلينيكي في المنظمات يقوم على **دراسات حالة وتأويل**، لا على قياس ولا على مجموعات مقارنة. فنسبة نمط المنظمة إلى شخصية قائدها تفسيرٌ **بأثر رجعي** يصعب تكذيبه: إذا نجحت الشركة قيل إن نرجسية القائد كانت دافعاً، وإذا أخفقت قيل إنها كانت السبب. ويقابله في الحقل نفسه تيّارٌ كمّي (علم النفس الصناعي-التنظيمي) يشتغل بالمقاييس النفسية والبيانات الطولية ويستبعد التأويل الديناميكي.
 
 ويُضاف إليه اعتراضان: أن **التشخيص عن بُعد** لقادةٍ لم يجلسوا على أريكة أحد ممارسةٌ إشكالية أخلاقياً ومنهجياً؛ وأن العمل في هذا الحقل يجري في الغالب داخل برامج تدريب تنفيذي مدفوعة الأجر — أي أن الزبون هو من يُقيَّم، وهو ما يُضعف استقلال الحكم.
 
+ومن مظاهر الاعتراض كذلك أن لغته الإكلينيكية تميل إلى وصف القادة بنماذج نمطية (الدرامي، الارتيابي، القهري)، وهو تصنيف يعيد إنتاج تحيزات المشخِّص أكثر مما يكشف حقيقة الفرد، وأن الأدلة التي تقدّمها الدراسة الأصلية عن «المنظمة العُصابية» تأتي من حالات منتقاة يصعب تعميمها على قطاعات وثقافات مختلفة.
+
 ## أهم أعماله
 
-«غموض القيادة» (The Leadership Mystique, 2001) · «القائد على الأريكة» (The Leader on the Couch, 2006) · «الحياة التنظيمية» (Organizational Lives, 2014).
+«غموض القيادة» (The Leadership Mystique, 2001) · «القائد على الأريكة» (The Leader on the Couch, 2006) · «الجنس والمال والسعادة والموت» (Sex, Money, Happiness, and Death, 2009) · «المدرّب والأريكة» (Coach and Couch, 2007، مع كوروتوف وفلورنت-تريسي).
 
 ## المصادر
 
-- [INSEAD Faculty — Manfred F. R. Kets de Vries](https://www.insead.edu/faculty/manfred-f-r-kets-de-vries)
-- [INSEAD CV (سيرة رسمية رقمية)](https://sites.insead.edu/facultyresearch/faculty/cv.cfm?cid=1232)
-- [Wikipedia — Manfred F.R. Kets de Vries](https://en.wikipedia.org/wiki/Manfred_F._R._Kets_de_Vries)
-- [Kets de Vries Institute (KDVI) — عنه](https://kdvi.com/people/manfred-kets-de-vries/)
-- [International Leadership Association — Manfred Kets de Vries](https://ilaglobalnetwork.org/awards/leadership-legacy-program/manfred-kets-de-vries/)
-- [ISPSO — Manfred Kets de Vries (Distinguished Member)](https://ispso.org/Distinguished-Members-Post/Manfred-Kets-de-Vries-exist)
-- [Sage Journals — مراجعة كتاب The Neurotic Organization (1986)](https://journals.sagepub.com/doi/abs/10.1177/017084068600700106)
-- [Amazon — The Neurotic Organization (بيانات النشر، Kets de Vries & Miller, 1984)](https://www.amazon.com/Neurotic-Organization-Manfred-Kets-Vries/dp/0887304885)
+- Kets de Vries, M. F. R. & Miller, D. (1984). The Neurotic Organization: Diagnosing and Changing Counterproductive Styles of Management. Jossey-Bass.
+- Kets de Vries, M. F. R. (2001). The Leadership Mystique: A User's Manual for the Human Enterprise. Financial Times/Prentice Hall.
+- Kets de Vries, M. F. R. (2006). The Leader on the Couch: A Clinical Approach to Changing People and Organizations. Jossey-Bass.
+- Kets de Vries, M. F. R. (2009). Sex, Money, Happiness, and Death: The Quest for Authenticity. Palgrave Macmillan.

@@ -54,9 +54,23 @@ gaps:
 - **الإيجابيات الكاذبة** تبقى المشكلة البنيوية: العنف الشديد حدثٌ **نادر**، وكلّ أداة تتنبّأ بحدث نادر تُنتج بالضرورة عدداً كبيراً من الإنذارات الخاطئة مهما بلغت دقّتها. وثمن الخطأ هنا ليس إحصائياً: حرمان شخص من حرّيته بناءً على ما **قد** يفعله.
 - **الأداة والقاضي**: توسّع استعمال أدوات الخطر الاكتوارية في المحاكم الأمريكية — في الكفالة والحكم والإفراج المشروط — أثار سؤالاً لم يكن في حساب موناهان الأصلي: أن الأداة تتنبّأ بالاعتقال لا بالجريمة، فتَرِث ما في الشرطة من تحيّز وتُخرجه في صورة رقم محايد. وقد كتب موناهان نفسه لاحقاً في حدود ما يجوز استعماله من هذه الأدوات قضائياً.
 
+## المسار المؤسسي والأثر القضائي
+
+لم يبقَ أثر موناهان في المجلات العلمية وحدها؛ فقد ترأّس شبكة ماك آرثر للبحث في الصحة العقلية والقانون، وهي الإطار الذي أتاح تمويل دراسة العنف وغيرها من الدراسات عن الكفاءة والإكراه العلاجي. وبفضل انتمائه إلى كلية القانون في فرجينيا اكتسبت أبحاثه حضوراً في المحاكم: ففي قضايا الاحتجاز المدني، وفي المحاكمات التي تُسأل فيها الخبرة عن احتمال العنف مستقبلاً، صار يُرجَع إلى ما بيّنه من ضعف دقة التنبؤ السريري. وجاء مقاله في «المجلة الأمريكية للطب النفسي» (1984) عن «جيل ثانٍ» من نظرية التنبؤ وسياساته ليرسم الاتجاه: أن يُنتقل من سؤال هل يستطيع الطبيب أن يتنبأ، إلى سؤال أي العوامل تزيد الاحتمال وما الذي يمكن أن يغيّره الإجراء.
+
+## مجالات امتدت إليها أدواته
+
+وسّع موناهان وسكيم وآخرون استعمال هذه الأدوات في سياقات أخرى، منها تقدير الخطر في الأحكام الجنائية والإفراج المشروط، فنشرا (2016) مراجعة عن الأدوات الاكتوارية في الحكم الجنائي ناقشت فيها شروط استعمالها. وعالج موناهان أيضاً مسألة التنبؤ بالإرهاب الفردي (2012)، فبيّن أن ندرة الحدث تجعل أي أداة تتنبأ به مولّدة لعدد هائل من الإنذارات الكاذبة. وفي مقاله مع ستيدمان عن العواصف والعنف (1996) استعار تشبيه التنبؤ الجوي ليقول إن نقل احتمال إلى الجمهور بأسلوب يشبه تقدير الطقس أصلح من الحكم الثنائي بأن شخصاً «خطر» أو لا.
+
+## حدود وانتقادات
+
+إضافة إلى ما سبق، تُوجَّه إلى عمله ملاحظة منهجية: أن دراسة ماك آرثر اعتمدت مرضى من ثلاث مدن أمريكية خرجوا من أقسام حادّة، فتعميمها على من يُحتجزون سنوات في مؤسسات الطب الشرعي أو على بلدان أخرى غير مضمون. وثمة ملاحظة نقدية ثانية من الاتجاه الحقوقي: أن الحديث عن «العنف» بوصفه متغيراً يمكن حسابه يغفل من يُعرَّف أصلاً بالخطر ومن يقرر ذلك، وأن الأدوات تُطبَّق على من يُحتجزون أصلاً. ويرد موناهان بأن بديل الأداة المهيكلة هو حكم سريري بلا ضوابط أسوأ دقة وأشدّ تحيّزاً، وهو رد وجيه لكنه لا يمنع حاجة النقاش المستمرة حول المعايير والإنصاف.
+
 ## المصادر
 
-- Monahan, J. (1981). *Predicting Violent Behavior: An Assessment of Clinical Techniques*. Beverly Hills: Sage. (بقلمه)
-- Monahan, J., & Steadman, H. J. (eds.) (1994). *Violence and Mental Disorder: Developments in Risk Assessment*. University of Chicago Press. (بتحريره)
-- Monahan, J., Steadman, H. J., Silver, E., Appelbaum, P. S., et al. (2001). *Rethinking Risk Assessment: The MacArthur Study of Mental Disorder and Violence*. Oxford University Press. (بقلمه، وهو التقرير المرجعي لدراسة ماك آرثر)
-- Steadman, H. J., Mulvey, E. P., Monahan, J., et al. (1998). «Violence by people discharged from acute psychiatric inpatient facilities and by others in the same neighborhoods», *Archives of General Psychiatry*, 55(5), 393–401. (الورقة التي فيها نتيجة الجيرة المذكورة في المتن، بمشاركته)
+- Monahan, J. (1984). "The Prediction of Violent Behavior: Toward a Second Generation of Theory and Policy". *American Journal of Psychiatry*, 141(1), 10–15.
+- Monahan, J., & Steadman, H. J. (1996). "Violent Storms and Violent People: How Meteorology Can Inform Risk Communication in Mental Health Law". *American Psychologist*, 51(9), 931–938.
+- Monahan, J., Steadman, H. J., Appelbaum, P. S., et al. (2005). "An Actuarial Model of Violence Risk Assessment for Persons with Mental Disorders". *Psychiatric Services*, 56(7), 810–815.
+- Skeem, J. L., & Monahan, J. (2011). "Current Directions in Violence Risk Assessment". *Current Directions in Psychological Science*, 20(1), 38–42.
+- Monahan, J. (2012). "The Individual Risk Assessment of Terrorism". *Psychology, Public Policy, and Law*, 18(2), 167–205.
+- Monahan, J., & Skeem, J. L. (2016). "Risk Assessment in Criminal Sentencing". *Annual Review of Clinical Psychology*, 12, 489–513.

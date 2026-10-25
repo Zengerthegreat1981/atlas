@@ -47,8 +47,8 @@ gaps:
 ## أهم أعمالها
 
 - *Women's Growth in Connection* (1991، محررة مشاركة مع كابلان وآخرين).
-- *The Complexity of Connection* (2004، محررة مشاركة مع ولكر) — توسيع للنظرية.
-- *Relational-Cultural Therapy* (2018، مع ولكر) — الكتاب المرجعي للتقنية العلاجية.
+- *The Complexity of Connection* (2004، محررة مشاركة مع ووكر وهارتلينغ) — توسيع للنظرية.
+- *Relational-Cultural Therapy* (2010؛ طبعة ثانية 2018، بقلمها وحدها) — الكتاب المرجعي للتقنية العلاجية.
 
 ## القيد
 كثيراً ما تُذكر بوصفها تلميذةً لجين بيكر ميلر — وهي كذلك — فيُحجب إسهامها المستقلّ في نظرية التعاطف وفي ترجمة النموذج إلى تدريبٍ عملي للمعالجين.
@@ -57,9 +57,28 @@ gaps:
 
 والثاني أن صياغاتها الأولى — بما فيها صياغات ميلر — بُنيت على مقابلةٍ بين «نموٍّ ذكوري نحو الاستقلال» و«نموٍّ أنثوي نحو الاتصال»، وهي مقابلة تُعيد إنتاج التنميط الجندري الذي جاءت لنقضه، وتفترض تجربةً نسائية واحدة عابرة للطبقة والعرق. وقد استجابت المدرسة لهذا النقد لاحقاً — وكتاب *The Complexity of Connection* (2004) مع مورين ووكر وليندا هارتلينغ هو محلّ تلك الاستجابة، إذ أدخل العرق والطبقة والقوة في صلب النموذج بدل أن يكونوا سياقاً له.
 
+## خلفية المدرسة العلائقية-الثقافية
+
+ظهر هذا التيار من نقد الأساس الذي بُنيت عليه نظريات النمو النفسي السائدة: أن النضج يعني الانفصال والاستقلال. وقد وضعت جين بيكر ميلر في «نحو علم نفس جديد للمرأة» (1976) الفرضية التي حملها الباحثون في مركز ستون، وهي أن الاتصال لا الانفصال هو الأفق الأساسي للنمو. وانضمت جوردان إلى مجموعة صغيرة مع كابلان وستايفر وسوري وميلر في أواخر السبعينيات، وصدرت أوراق المركز الأولى في سلسلة «عمل قيد الإنجاز»، ومنها ورقة جوردان عن «التعاطف وحدود الذات» (1984)، ثم جمعت مجموعة منها في «نمو المرأة في الاتصال» (1991).
+
+## التوسّع في التسعينيات وما بعدها
+
+حرّرت جوردان «نمو المرأة في التنوع: كتابات أخرى من مركز ستون» (1997) الذي أضاف بعد الثقافات والفروق الاجتماعية، ثم شاركت في «تعقيد الاتصال» (2004) مع ووكر وهارتلينغ، ثم كتبت بمفردها «العلاج العلائقي-الثقافي» (2010) في سلسلة نظريات العلاج النفسي لدى الجمعية الأمريكية لعلم النفس (طبعة ثانية 2018). وتولّت إدارة معهد جين بيكر ميلر للتدريب في كلية ويليسلي، ودرّست في كلية الطب بهارفارد وعملت في مستشفى ماكلين، فحملت النظرية من مجموعة بحثية إلى تدريب سريري واسع.
+
+## تصحيح
+
+ورد في المتن السابق أن كتاب «العلاج العلائقي-الثقافي» (2018) كُتب «مع ولكر». والصحيح أن مؤلفته جوردان وحدها، ضمن سلسلة تحريرها الجمعية الأمريكية لعلم النفس، وأن «تعقيد الاتصال» (2004) هو الذي شاركت فيه ووكر وهارتلينغ تحريراً.
+
+## حدود وانتقادات
+
+أضيف إلى ما سبق أن الاعتماد على «الاتصال» معياراً للصحة قد يُفسَّر بما يخفي ما في بعض العلاقات من إساءة؛ فالنظرية تفرّق بين الاتصال الذي يعزّز النمو والاتصال الذي يجرح، لكن التفريق في الممارسة يتطلب حكماً من المعالج. وقد تعرضت صياغة التعاطف المتبادل لتحفظ من معالجين يرون أن إظهار تأثر المعالج يعرّض العميل لعبء إضافي، وردّت جوردان بأن ذلك مشروط بوعي المعالج بحدوده وبهدف العلاقة. وفي الحقل البحثي تظل الدراسات التجريبية الخاصة بالنموذج قليلة، وإن ظهرت مقاييس كمؤشرات الصحة العلائقية التي وضعتها ليانغ وزملاؤها (2002)، وهي حديثة نسبياً.
+
 ## المصادر
 
-- [Judith V. Jordan, Ph.D. — Wellesley Centers for Women](https://www.wcwonline.org/JBMTI-Site/Founding-Scholars/judith-v-jordan)
-- [Relational–Cultural Theory: The Power of Connection to Transform Our Lives — Jordan (2017), Journal of Humanistic Counseling](https://onlinelibrary.wiley.com/doi/abs/10.1002/johc.12055)
-- [Relational-Cultural Theory (كتاب Jordan، سلسلة APA Theories of Psychotherapy)](https://www.amazon.com/Relational-Cultural-Therapy-Theories-Psychotherapy-Judith/dp/1433804638)
-- [Relational-Cultural Theory — Beyond Intractability](https://www.beyondintractability.org/essay/relational-cultural-theory)
+- Miller, J. B. (1976). *Toward a New Psychology of Women*. Beacon Press.
+- Jordan, J. V., Kaplan, A. G., Miller, J. B., Stiver, I. P., & Surrey, J. L. (Eds.) (1991). *Women's Growth in Connection: Writings from the Stone Center*. Guilford Press.
+- Jordan, J. V. (Ed.) (1997). *Women's Growth in Diversity: More Writings from the Stone Center*. Guilford Press.
+- Jordan, J. V., Walker, M., & Hartling, L. M. (Eds.) (2004). *The Complexity of Connection: Writings from the Stone Center's Jean Baker Miller Training Institute*. Guilford Press.
+- Jordan, J. V. (2010). *Relational-Cultural Therapy*. American Psychological Association.
+- Liang, B., Tracy, A. J., Taylor, C. A., et al. (2002). "The Relational Health Indices: A Study of Women's Relationships". *Psychology of Women Quarterly*, 26(1), 25–35.
+- Jordan, J. V. (2017). "Relational–Cultural Theory: The Power of Connection to Transform Our Lives". *Journal of Humanistic Counseling*, 56(3), 228–243.

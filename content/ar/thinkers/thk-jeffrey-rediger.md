@@ -47,9 +47,26 @@ gaps:
 
 - *Cured: Strengthen Your Immune System and Heal Your Life* (2020)
 
+## جذر عربي-إسلامي لفكرة أثر النفس في الجسد
+
+لم يكتشف الطب الحديث الصلة بين الانفعال والمرض. ففي الطب العربي الإسلامي الكلاسيكي، وعلى رأسه «القانون في الطب» لابن سينا، تُعدّ «الأعراض النفسانية»، أي الغضب والحزن والفرح والخوف، من الأسباب الستة الضرورية للصحة والمرض إلى جانب الهواء والغذاء والحركة والنوم والاستفراغ، وهي قائمة موروثة عن جالينوس. وهذا السياق لا يجعل ريديجر امتداداً لابن سينا، لكنه يبيّن أن المسألة التي يعالجها قديمة، وأن الجديد عنده هو محاولة جمع حالات معاصرة موثقة بالصور والتحاليل لدراسة ما يشترك فيه المتعافون.
+
+## المنهج والمسألة العلمية
+
+الشفاء التلقائي، أو التراجع التلقائي للسرطان، ظاهرة موثقة نادرة في الأدبيات الطبية: فقد جمع إيفرسون وكول كتاباً عن التراجع التلقائي للسرطان عام 1966، ونشر تشاليس وستام عام 1990 في *Acta Oncologica* مراجعة لحالات من 1900 إلى 1987، وصدر عام 1993 عن معهد العلوم الاستبطانية بيبليوغرافيا شارحة لحالات الشفاء التلقائي من أوريغان وهيرشبرغ. ومن جهة أخرى بدأت المناعة العصبية النفسية مع آدر وكوهين (*Psychosomatic Medicine*، 1975) حين أظهرا أن المناعة يمكن أن تخضع للتكييف السلوكي في الفئران. وريديجر يقف في تقاطع الظاهرتين: ينطلق من الحالات النادرة ويفسرها باستعمال أبحاث المناعة والالتهاب والتوتر.
+
+وقد ظهر كتابه في الولايات المتحدة بعنوان فرعي مختلف هو العلم المغيّر للحياة للشفاء التلقائي، وفي المملكة المتحدة بالعنوان الوارد في الملف. ويستند الكتاب إلى مقابلات مع مرضى ودراسة سجلاتهم الطبية، ويبني منها خلاصاته الأربع.
+
+## حدود وانتقادات إضافية
+
+إلى جانب مشكلة الاختيار بأثر رجعي المذكورة، لم يصدر عن العمل نفسه، حسب ما أمكن التثبت منه، تقرير محكّم يعرض عدد الحالات ومعايير تحققها، فيصعب على القارئ فحص الادعاء. ومن جهة أخرى حذّرت سوزان سونتاغ في كتابها «المرض كاستعارة» (1978) من أن تفسير السرطان بسمات نفسية يحمّل المريض لوماً على مرضه، وهذا خطر يلازم أدبيات الشفاء الذاتي حتى حين يقصد مؤلفها خلافه. ولا نعرف ترجمة عربية معتمدة لكتابه.
+
 ## المصادر
 
-- Kripalu, "Jeffrey D. Rediger, MD, MDiv" — https://kripalu.org/people/jeffrey-d-rediger-md-mdiv
-- Penguin Books, "Cured" by Dr Jeff Rediger — https://www.penguin.co.uk/books/307387/cured-by-rediger-dr-jeff/9780241327593
-- Macmillan / St. Martin's Press, author page — https://us.macmillan.com/author/jeffreyrediger
-- Global Wellness Summit, "Jeffrey Rediger, M.D." — https://www.globalwellnesssummit.com/person/jeffrey-rediger-m-d/
+- Rediger, J. (2020). *Cured: The Life-Changing Science of Spontaneous Healing*. New York: Flatiron Books. (الطبعة البريطانية: *Cured: Strengthen Your Immune System and Heal Your Life*, London: Penguin Life, 2020.)
+- Everson, T. C., & Cole, W. H. (1966). *Spontaneous Regression of Cancer*. Philadelphia: W. B. Saunders.
+- Challis, G. B., & Stam, H. J. (1990). "The spontaneous regression of cancer: A review of cases from 1900 to 1987". *Acta Oncologica*, 29(5), 545–550.
+- O'Regan, B., & Hirshberg, C. (1993). *Spontaneous Remission: An Annotated Bibliography*. Sausalito, CA: Institute of Noetic Sciences.
+- Ader, R., & Cohen, N. (1975). "Behaviorally conditioned immunosuppression". *Psychosomatic Medicine*, 37(4), 333–340.
+- Sontag, S. (1978). *Illness as Metaphor*. New York: Farrar, Straus and Giroux.
+- Ibn Sina (Avicenna). *Al-Qanun fi al-Tibb* (القانون في الطب), Book I.

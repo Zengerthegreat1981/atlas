@@ -49,9 +49,28 @@ gaps:
 
 الذات في مرحلة التحول (The Self in Transition, 1990) · الأنظمة الدافعية والتحليل النفسي الإكلينيكي (Self and Motivational Systems, 1992 مع Lichtenberg & Fosshage) · تحويل العدوانية (Transforming Aggression, 2000) · أبحاث الرضّع والعلاج عند الكبار (Infant Research and Adult Treatment: Co-Constructing Interactions, مع Beatrice Beebe، 2002) · أصول التعلّق (The Origins of Attachment: Infant Research and Adult Treatment، مع Beatrice Beebe، 2013).
 
+## الأعمال المبكرة مع ستولورو: اضطرابات النمو وعلم نفس الذات
+
+قبل تعاونه مع بيبي، اشتهر لاشمان بكتاب «التحليل النفسي لتوقفات النمو» (1980) الذي ألّفه مع روبرت ستولورو، وفيه طُبّقت أفكار هاينز كوهوت عن التحويل النرجسي والتوجهات التطورية على مرضى يعانون توقفاً في تكوين الذات. وتكمن أهمية الكتاب في أنه يرى الاضطراب النفسي بوصفه توقفاً في نمو بنية الذات لا مجرد صراع بين دوافع، ويرى في العلاقة العلاجية فرصة لاستئناف النمو. وقد مثّل هذا الاتجاه مدخلاً إلى علم نفس الذات في نيويورك، قبل أن ينتقل لاشمان بحوار مع أبحاث الرضّع إلى صياغة أكثر تجريبية.
+
+## بحوث الرضّع والعلاج التحليلي
+
+جاءت مقالة بيبي ولاشمان في *Psychoanalytic Psychology* عام 1988 عن إسهام التأثير المتبادل بين الأم والرضيع في أصول تمثيلات الذات والموضوع لتشكل مرجعاً في هذا الاتجاه. وفي عام 1996 نشر لاشمان وبيبي في المجلة نفسها «ثلاثة مبادئ للبروز في تنظيم التفاعل بين المريض والمحلل»، وهي: التنظيم المستمر، والانقطاع والإصلاح، ولحظات الانفعال المرتفع. وتقدّم المبادئ أدوات لقراءة ما يحدث في الجلسة: فالمحلل لا يكتفي بتأويل المضمون بل ينتبه إلى الإيقاع، والتوقيت، والتناغم بين الطرفين. وتتصل هذه الفكرة بنتائج أبحاث التعلق عند الرضّع مثل نموذج الوجه الجامد لإدوارد ترونيك الذي يُظهر كيف يتأثر الرضيع بانقطاع التناغم.
+
+## التلقي والصدى
+
+لا نعرف ترجمات عربية لأعمال لاشمان ولا حضوراً خاصاً لعلم النفس الذاتي التبادلي في الأدبيات العربية، فالتحليل النفسي العربي ظل متأثراً أكثر بالفرويدية والمدرسة الفرنسية. ومع ذلك فإن ما يدور حول التناغم المبكر بين الأم والرضيع يتصل بأبحاث التعلق التي دخلت علم النفس العربي عبر الكتب التمهيدية.
+
+## حدود وانتقادات
+
+تقوم ملاحظات بيبي ولاشمان على عينات مخبرية صغيرة من الأمهات والرضع الأمريكيين، ومن الصعب تعميم النتائج على ثقافات تختلف في ممارسات الرعاية. ويرى نقّاد أن نقل نتائج الرضّع إلى الراشدين مبني على التشابه والتمثيل، لا على دليل مباشر، وأن لغة «النظم التنظيمية» قد تحوّل العلاقة إلى ميكانيكا. كما أن نظرية الأنساق الدافعية الخمسة تقترح تصنيفاً مرناً يصعب اختباره، وقد جرى تقديمها في كتب تعتمد على دراسات حالة. أخيراً، فإن ضم علم نفس الذات مع نظرية النظم الدينامية أثار اعتراض أنصار كوهوت التقليديين الذين يرون في التعاطف والاستبطان جوهر الطريقة.
+
 ## المصادر
-- Confer Online — نبذة سيرة فرانك لاشمان: https://www.confer.uk.com/biogs/biog_lachmann.html
-- IssueWire (2024-06-13) — إعلان تقاعد فرانك م. لاشمان بعد أكثر من أربعة عقود من العمل الإكلينيكي: https://www.issuewire.com/frank-m-lachmann-phd-renowned-clinical-psychologist-retires-1801779212810487
-- Prabook — Frank Michael Lachmann، World Biographical Encyclopedia (تاريخ ومكان الميلاد): https://prabook.com/web/frank_michael.lachmann/1698161
-- Routledge — صفحة الكتاب *Infant Research and Adult Treatment: Co-constructing Interactions* (Beebe & Lachmann): https://www.routledge.com/Infant-Research-and-Adult-Treatment-Co-constructing-Interactions/Beebe-Lachmann/p/book/9780881634471
-- Springer — مراجعة *The Origins of Attachment: Infant Research and Adult Treatment*، American Journal of Psychoanalysis: https://link.springer.com/article/10.1057/ajp.2015.48
+
+- Stolorow, R. D. & Lachmann, F. M. (1980). *Psychoanalysis of Developmental Arrests: Theory and Treatment*. New York: International Universities Press.
+- Lichtenberg, J. D., Lachmann, F. M., & Fosshage, J. L. (1992). *Self and Motivational Systems: Toward a Theory of Psychoanalytic Technique*. Hillsdale, NJ: Analytic Press.
+- Lachmann, F. M. (2000). *Transforming Aggression: Psychotherapy with the Difficult-to-Treat Patient*. Northvale, NJ: Jason Aronson.
+- Beebe, B. & Lachmann, F. M. (1988). "The contribution of mother-infant mutual influence to the origins of self- and object representations". *Psychoanalytic Psychology*, 5(4), 305–337.
+- Lachmann, F. M. & Beebe, B. (1996). "Three principles of salience in the organization of the patient-analyst interaction". *Psychoanalytic Psychology*, 13(1), 1–22.
+- Beebe, B. & Lachmann, F. M. (2002). *Infant Research and Adult Treatment: Co-constructing Interactions*. Hillsdale, NJ: Analytic Press.
+- Beebe, B. & Lachmann, F. M. (2014). *The Origins of Attachment: Infant Research and Adult Treatment*. New York: Routledge.

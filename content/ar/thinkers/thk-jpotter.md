@@ -58,10 +58,16 @@ gaps:
 
 وقيدٌ ثانٍ عملي: المنهج يقتضي تفريغاً دقيقاً لتسجيلات تفاعل **طبيعي** غير مصطنع، وهو مكلف وبطيء، ويجعل التعميم من عيّنات صغيرة مسألةً غير محسومة في الحقل.
 
+## نقد المقابلة البحثية وتحليل الخطاب اليوم
+
+انتقد بوتر مع ماري هيبورن (2005) في «البحث النوعي في علم النفس» ممارسة المقابلة التي يعتمدها كثير من الباحثين النوعيين، إذ رأيا أن المقابلة ليست نافذة محايدة على آراء المشاركين، بل حدث تفاعلي يصنع الباحث أسئلته ويوجّه إجاباته. ودعيا إلى استعمال «المادة الطبيعية» (تسجيلات تفاعل لم يُصمَّم لأجل البحث) كلما أمكن. وفي مجال آخر شارك مع ويذريل في «رسم خريطة لغة العنصرية» (1992) الذي حلّل كيف يتحدث بيض في نيوزيلندا عن الماوري بلغة تبدو منصفة وتبرّر عدم المساواة. ويُعدّ هذا الكتاب من أوضح التطبيقات الاجتماعية للمنهج.
+
 ## المصادر
 
-- Potter, J., & Wetherell, M. (1987). *Discourse and Social Psychology: Beyond Attitudes and Behaviour*. London: Sage.
-- Edwards, D., & Potter, J. (1992). *Discursive Psychology*. London: Sage.
-- Potter, J. (1996). *Representing Reality: Discourse, Rhetoric and Social Construction*. London: Sage.
-- Puchta, C., & Potter, J. (2004). *Focus Group Practice*. London: Sage.
-- te Molder, H., & Potter, J. (Eds.) (2005). *Conversation and Cognition*. Cambridge: Cambridge University Press.
+- Potter, J., & Wetherell, M. (1987). *Discourse and Social Psychology: Beyond Attitudes and Behaviour*. Sage.
+- Edwards, D., & Potter, J. (1992). *Discursive Psychology*. Sage.
+- Wetherell, M., & Potter, J. (1992). *Mapping the Language of Racism: Discourse and the Legitimation of Exploitation*. Harvester Wheatsheaf.
+- Potter, J. (1996). *Representing Reality: Discourse, Rhetoric and Social Construction*. Sage.
+- Puchta, C., & Potter, J. (2004). *Focus Group Practice*. Sage.
+- te Molder, H., & Potter, J. (Eds.) (2005). *Conversation and Cognition*. Cambridge University Press.
+- Potter, J., & Hepburn, A. (2005). "Qualitative Interviews in Psychology: Problems and Possibilities". *Qualitative Research in Psychology*, 2(4), 281–307.

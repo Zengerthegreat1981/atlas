@@ -42,8 +42,24 @@ gaps:
 - *Narrative Therapy: The Social Construction of Preferred Realities* (1996، مع جين كومبز) — عملهما المرجعي.
 - *Narrative Therapy with Couples… and a Whole Lot More!* (2002، معه).
 
+## الجذور الفكرية للعلاج السردي
+
+نشأ العلاج السردي في ثمانينيات القرن الماضي على يد مايكل وايت في أديلايد وديفيد إبستون في أوكلاند، وصدر كتابهما المؤسس *Narrative Means to Therapeutic Ends* عام 1990. وتستند فكرته إلى ثلاثة مصادر: أنثروبولوجيا الثقافة عند كليفورد غيرتز الذي أعار فكرة الوصف الكثيف في مقابل الوصف الرقيق، ونظرية السلطة والمعرفة عند ميشيل فوكو، وأعمال برونر في السرد. وتقول الفكرة الأولى إن الناس يحيون بحكايات تنتظم تجاربهم، وإن بعض هذه الحكايات، التي تفرضها الثقافة أو التشخيص، تُضيّق عليهم ما يرون في أنفسهم. فيُدعى الشخص إلى أن يضع بينه وبين المشكلة مسافة بصيغة «الاستنطاق الخارجي»، أي أن تُعامَل المشكلة كشيء خارجي لا كصفة في الشخص، ثم يُبحث عن «النتائج الاستثنائية» التي لا تتفق مع قصة المشكلة، فتتحول إلى مدخل لقصة بديلة.
+
+## جهد فريدمان وكومبز
+
+التقت فريدمان بكومبز في شيكاغو، وأسسا معاً مركز إيفانستون للعلاج الأسري، ونشرا عام 1990 كتاب *Symbol, Story, and Ceremony: Using Metaphor in Individual and Family Therapy* عن Norton، وهو أسبق من كتابهما السردي، ثم كتاب 1996 الذي صار من أكثر ما يُستعمل في تدريس هذا العلاج في العالم الناطق بالإنجليزية لأنه يترجم أفكار وايت إلى خطوات يمكن تدريسها. وفي 2002 جمعا مقالات وتمارين عن العلاج الزوجي السردي في كتاب نشرته Dulwich Centre Publications في أديلايد، وهي الدار المرتبطة بوايت. ويلحّ عملهما على جانب سياسي: أن القصص السائدة، عن الجنس والطبقة والعِرق، تتسرب إلى الناس بوصفها حقائق، وأن مهمة المعالج أن يسأل عن أصلها وأثرها بدل أن يعتبرها طبيعية.
+
+ومن أفكار وايت التي تتكرر في ممارستهما أن القصة تُبنى على بعدين استعارهما من برونر: «مشهد الفعل» الذي يضم الأحداث وتسلسلها وأطرافها، و«مشهد الهوية» الذي يضم ما تعنيه الأحداث عن الشخص وقيمه ونواياه. ويسأل المعالج السردي أسئلة تتنقل بين المشهدين، فتحوّل الواقعة المنفردة إلى معنى أوسع وتربط ما يحدث بما يعدّه الشخص مهماً في حياته. وتؤكد فريدمان أن هذه الأسئلة لا تُطبَّق آلياً بل تنبع من فضول حقيقي إلى جواب الشخص.
+
+## حدود وانتقادات
+
+الاعتراض الأول أن قاعدة الأدلة التجريبية للعلاج السردي ضعيفة نسبياً؛ فأغلب ما نُشر دراسات حالة وتقارير جودة محدودة، مقارنة بما يتوافر للعلاج المعرفي السلوكي. وأخذ بعض المعالجين على النموذج أنه يقلّل من أهمية الانفعال والجسد والعالم اللاواعي، إذ يتركّز على اللغة والمعنى. وأخذ آخرون عليه أن ادّعاء «المعالج غير الخبير» ينطوي على مفارقة، فالمعالج الذي يوجّه الأسئلة نحو القصة البديلة يمارس سلطة في اختيار الأسئلة. ولا ينكر المنتمون إلى هذا التقليد الإشكال، ويقولون إن المطلوب هو تتبع أثر هذه السلطة وشفافيتها. وفي العربية لم نقف على ترجمة معتمدة لأعمال فريدمان وكومبز، وتتفاوت ترجمات مصطلحات مثل الاستنطاق الخارجي.
+
 ## المصادر
 
-- [Jill Freedman & Gene Combs — Evanston Family Therapy Center](https://www.narrativetherapychicago.com/jill-freedman-and-gene-combs)
-- [Interview with Jill Freedman — Family Journal, ERIC](https://eric.ed.gov/?id=EJ840800)
-- [Jill Freedman — Goodreads](https://www.goodreads.com/author/show/5003574.Jill_Freedman/)
+- Freedman, J., & Combs, G. (1996). *Narrative Therapy: The Social Construction of Preferred Realities*. New York: W. W. Norton.
+- Combs, G., & Freedman, J. (1990). *Symbol, Story, and Ceremony: Using Metaphor in Individual and Family Therapy*. New York: W. W. Norton.
+- Freedman, J., & Combs, G. (2002). *Narrative Therapy with Couples... and a Whole Lot More! A Collection of Papers, Essays, and Exercises*. Adelaide: Dulwich Centre Publications.
+- White, M., & Epston, D. (1990). *Narrative Means to Therapeutic Ends*. New York: W. W. Norton.
+- Freedman, J., & Combs, G. (1993). "Invitations to new stories: Using questions to explore alternative possibilities". In S. Gilligan & R. Price (Eds.), *Therapeutic Conversations*. New York: W. W. Norton.

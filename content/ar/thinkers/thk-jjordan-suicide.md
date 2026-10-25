@@ -43,7 +43,21 @@ gaps:
 - \"Is Suicide Bereavement Different? A Reassessment of the Literature\" (2001)، *Suicide and Life-Threatening Behavior*.
 - *Devastating Losses: How Parents Cope with the Death of a Child to Suicide or Drugs* (2012، مع ويليام فيغل وآخرين).
 
+## بين المصطلح والممارسة
+
+مصطلح «ما بعد الانتحار» (postvention) صاغه في السبعينيات إدوين شنيدمان، رائد علم الانتحار الأمريكي، ليصف الجهد المبذول بعد حدوث الوفاة لتخفيف الأثر على الباقين، وجعل جوردان من هذا المفهوم مجالاً سريرياً مفصلاً. وفي ورقته «هل الحداد على المنتحر مختلف؟ إعادة تقييم للأدبيات» (*Suicide and Life-Threatening Behavior*، 2001) لم يقف عند المقارنة بل أبرز ما يميز هذا الحداد في المحتوى. ثم عاد في ورقة 2008 في *Psychiatric Annals* إلى المسألة نفسها بصيغة موجّهة للأطباء، وفي ورقة 2020 في *Frontiers in Psychology* بعنوان «دروس مستفادة: أربعون سنة من العمل السريري مع الناجين من فقدان بالانتحار» جمع خلاصة تجربته الطويلة.
+
+وله مع روبرت نيماير ورقة منشورة في *Death Studies* عام 2003 بعنوان هل ينفع إرشاد الحزن؟ راجعا فيها الأدبيات وانتهيا إلى أن الإرشاد لا يفيد كثيراً من يمر بحزن غير معقد، وأن فائدته تظهر أكثر عند من يعانون حزناً شديداً أو مطولاً. وهذه الخلاصة، التي تبدو معارضة لمصلحة المهنة، تفسّر لماذا يشدد جوردان على تحديد من يحتاج فعلاً إلى تدخل. وفي 2012 شارك فيغلمان وماكنتوش في كتاب *Devastating Losses* عن الآباء الذين فقدوا ابناً بالانتحار أو بالمخدرات، وهو يقارن بين نوعين من الفقد يحملان وصماً مشتركاً.
+
+## حدود وانتقادات
+
+إلى جانب ضعف الأدلة المذكور في «القيد»، فإن تعميم النتائج يحتاج حذراً: فمعظم العينات أمريكية وغربية، وبعضها يعتمد على متطوعين يحضرون مجموعات الدعم، وهؤلاء قد يختلفون عمن لا يطلبون المساعدة. وتزداد الصعوبة في السياقات التي يُحرَّم فيها الانتحار دينياً أو يُجرَّم قانونياً، إذ يُرجَّح أن يبلغ الوصم الذي يصفه جوردان حدّاً أشد، وأن تُخفى الأسباب في التقارير الرسمية؛ وهذا استنتاج منا لا ورد في كتاباته، ويقتضي بحثاً عربياً ميدانياً لم نقف عليه. ولا نعلم ترجمة عربية معتمدة لكتابه المشترك، ولذلك لا تتوافر مفردات عربية مستقرة لمصطلحات مثل «الناجي من فقدان بالانتحار».
+
 ## المصادر
-- Proviso Partners, "Dr. John (Jack) Jordan is a licensed psychologist" (نبذة سيرية) — https://www.provisopartners.com/uploads/5/8/9/3/58938449/flyer_-_suicide_bereavement_clinician_training.pdf
-- Frontiers in Psychology, "Lessons Learned: Forty Years of Clinical Work With Suicide Loss Survivors" — https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00766/full
-- Routledge، صفحة الكتاب *Grief After Suicide* — https://www.routledge.com/Grief-After-Suicide-Understanding-the-Consequences-and-Caring-for-the-Survivors/Jordan-McIntosh/p/book/9781138871663
+
+- Jordan, J. R. (2001). "Is suicide bereavement different? A reassessment of the literature". *Suicide and Life-Threatening Behavior*, 31(Suppl.), 91–102.
+- Jordan, J. R., & Neimeyer, R. A. (2003). "Does grief counseling work?". *Death Studies*, 27(9), 765–786.
+- Jordan, J. R. (2008). "Bereavement after suicide". *Psychiatric Annals*, 38(10), 679–685.
+- Jordan, J. R., & McIntosh, J. L. (Eds.). (2011). *Grief After Suicide: Understanding the Consequences and Caring for the Survivors*. New York: Routledge.
+- Feigelman, W., Jordan, J. R., McIntosh, J. L., & Feigelman, B. (2012). *Devastating Losses: How Parents Cope with the Death of a Child to Suicide or Drugs*. New York: Springer.
+- Jordan, J. R. (2020). "Lessons learned: Forty years of clinical work with suicide loss survivors". *Frontiers in Psychology*, 11, 766.

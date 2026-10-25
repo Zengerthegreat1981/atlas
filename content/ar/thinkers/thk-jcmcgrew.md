@@ -40,8 +40,27 @@ gaps:
 - McGrew, J. H., & Bond, G. R., "Critical ingredients of assertive community treatment: Judgments of the experts" (1995).
 - McGrew, J. H., Bond, G. R., et al., "Measuring the fidelity of implementation of a mental health program model" (1994) — الورقة المرجعية في قياس الالتزام بالنماذج العلاجية.
 
+## خلفية المشكلة التي عالجها
+
+يعود نموذج «العلاج المجتمعي الحازم» إلى برنامج ستاين وتست في ماديسون بولاية ويسكونسن في السبعينيات، وقد نشرا نتائج تجربته الأولى سنة 1980 في *Archives of General Psychiatry* تحت عنوان بديل للعلاج في المستشفى النفسي. فريق متعدد التخصصات يتحمل مسؤولية عدد محدود من المرضى، ويذهب إليهم في بيوتهم وأحيائهم بدل انتظارهم في العيادة، ولا يغلق الملف بانتهاء الأزمة. انتشر النموذج في الولايات المتحدة في الثمانينيات والتسعينيات، لكن انتشار الاسم سبق انتشار الممارسة: فكثير من البرامج رفعت لافتة ACT وهي تعمل بنسبة طاقم إلى مرضى مختلفة، أو تدير حالات عادية بلا خروج ميداني. وهنا يقع إسهام مكغري: لقد رأى أن مقارنة نتائج البرامج لا معنى لها ما لم نعرف أيّها يطبق النموذج فعلاً.
+
+## مفهوم الأمانة للنموذج
+
+وُلد المفهوم من قلب بحث ماكغري وبوند، ففي ورقة 1994 المنشورة في *Journal of Consulting and Clinical Psychology* (مع ديتزن وسالييرز) بنوا مقياساً يقيّم مدى مطابقة برنامج فعلي للمكونات البنيوية التي يعدّها النموذج الأصلي أساسية. ثم أظهرت دراسة متعددة المواقع نشرها مع زملائه في *Psychiatric Services* سنة 1995 أن البرامج الأقرب إلى النموذج أنتجت نتائج أفضل في تقليل الاستشفاء. وفي السنة نفسها نشر مع بوند «المكونات الحاسمة في العلاج المجتمعي الحازم: أحكام الخبراء»، وفيه سُئل الخبراء عن العناصر التي لا يستقيم النموذج دونها، فتحوّل الاتفاق التقريبي بين الممارسين إلى قائمة قابلة للقياس. ولاحقاً صارت مقاييس أمانة التنفيذ ركناً في ما سُمّي الممارسات المبنية على الأدلة، وامتدّ المنهج إلى برامج التوظيف المدعوم، وفيها نشر ماكغري مع غريس دراسة عن الصدق المتزامن والتنبؤي لمقياسين لقياس تنفيذ ذلك النموذج في *Psychiatric Rehabilitation Journal* سنة 2005.
+
+## موقعه في الحقل
+
+يقع ماكغري عند ملتقى بحوث البرامج وعلم النفس الإكلينيكي: لا يقدم علاجاً جديداً بل أداة تجعل الادعاء بالتطبيق قابلاً للفحص، وبذلك تغيّر السؤال من فعالية الفكرة إلى جودة تنفيذها. وقد ارتبط عمله بمركز ACT في ولاية إنديانا الذي ينشر هذه المقاربة.
+
+## حدود وانتقادات
+
+أول الحدود أن مقاييس الأمانة تقيس البنية والإجراءات، لا جودة العلاقة العلاجية ولا مهارة الفريق. وثانيها أن العلاقة بين الأمانة والنتائج ارتباطية، فربما أثّرت عوامل أخرى كجودة الإدارة والموارد في الاثنين معاً. وثالثها أن أثر النموذج يتوقف على الخدمات المحيطة: فتجربة UK700 في بريطانيا (*The Lancet*، 1999) لم تجد فرقاً يُذكر بين الإدارة المكثفة للحالات والرعاية المعيارية، وتجربة REACT في شمال لندن (*BMJ*، 2006) لم تجد تفوقاً واضحاً في الاستشفاء، وفسّر مراجعون ذلك بأن الرعاية المعيارية في بريطانيا كانت أصلاً مجتمعية القاعدة. ورابعها أن المفهوم نشأ في نظام صحي أمريكي، ولا حضور معروفاً له في أدبيات الخدمات النفسية العربية، فنقله إلى سياق مختلف يتطلب بحثاً في ما يعنيه «الخروج الميداني» حيث لا شبكة خدمات مجتمعية.
+
 ## المصادر
 
-- [John McGrew, Ph.D. — ACT Center of Indiana, IUPUI](https://web.archive.org/web/20240604042616/https://act.psych.iupui.edu/people/faculty/mcgrew-john.html)
-- [John McGrew — ResearchGate profile, IUPUI](https://www.researchgate.net/profile/John-Mcgrew)
-- [McGrew & Bond, "Critical ingredients of assertive community treatment: Judgments of the experts" — Springer](https://link.springer.com/article/10.1007/BF02518752)
+- McGrew, J. H., Bond, G. R., Dietzen, L., & Salyers, M. (1994). "Measuring the fidelity of implementation of a mental health program model". *Journal of Consulting and Clinical Psychology*, 62(4), 670–678.
+- McGrew, J. H., & Bond, G. R. (1995). "Critical ingredients of assertive community treatment: Judgments of the experts". *Journal of Mental Health Administration*, 22(2), 113–125.
+- McGrew, J. H., Bond, G. R., Dietzen, L., McKasson, M., & Miller, L. D. (1995). "A multisite study of client outcomes in assertive community treatment". *Psychiatric Services*, 46(7), 696–701.
+- Stein, L. I., & Test, M. A. (1980). "Alternative to mental hospital treatment: I. Conceptual model, treatment program, and clinical evaluation". *Archives of General Psychiatry*, 37(4), 392–397.
+- McGrew, J. H., & Griss, M. E. (2005). "Concurrent and predictive validity of two scales to assess the fidelity of implementation of supported employment". *Psychiatric Rehabilitation Journal*, 29(1), 41–47.
+- Killaspy, H., et al. (2006). "The REACT study: randomised evaluation of assertive community treatment in north London". *BMJ*, 332, 815–820.

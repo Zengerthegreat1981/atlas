@@ -41,8 +41,30 @@ gaps:
 
 كتاب "التنويم والإيحاء في علاج الألم: دليل إكلينيكي" (Hypnosis and Suggestion in the Treatment of Pain: A Clinical Guide).
 
+## تقنية الاستحثاث السريع للتسكين
+
+أشهر ما ارتبط باسم باربر تقنية «التسكين بالاستحثاث السريع» (Rapid Induction Analgesia)، وقد وصفها في ورقة في «المجلة الأمريكية للتنويم الإكلينيكي» (1977)، وبحث أثرها مع ماير في دراسة نُشرت في مجلة «الألم» (1977) على ألم الأسنان التجريبي والسريري. والفكرة الأساسية فيها أن المنوِّم لا ينتظر حالة استرخاء عميقة، بل يوجّه المريض في دقائق إلى تركيز الانتباه وإلى تصور تحوّل الإحساس، ويعطيه أسلوباً ذاتياً يستطيع تكراره خارج العيادة. وهذا يخالف الصورة الشائعة للتنويم بوصفه حالة غيبوبة طويلة؛ فتقنية باربر تنظر إلى التنويم أداةً عملية يتعلمها المريض ويستعملها في مواجهة الألم، وهو اتجاه يلتقي مع الانتقال في الأدبيات إلى تعليم المريض التنويم الذاتي.
+
+## الأدلة المعاصرة على التنويم في الألم
+
+شهد العقدان الأخيران تراكماً في الأدلة المحيطة بهذا المجال. فقد راجع باترسون وجنسن (2003) في «النشرة النفسية» الدراسات التي استعملت التنويم في الألم، وخلصا إلى أثر معتبر ومقارَب لأثر بعض التدخلات الأخرى، ثم راجع إلكينز وجنسن وباترسون (2007) الألم المزمن بصفة خاصة، وانتهى جنسن وباترسون (2014) إلى أن التنويم تدخل فعّال لعدد من أنواع الألم المزمن مع بقاء الحاجة إلى تجارب أكبر. وفي المقابل، أظهر لانغ وزملاؤه (2000) في «ذا لانسيت» أن الإيحاء المقترن بالتنويم يخفف الألم والقلق أثناء الإجراءات التداخلية. أما التفسير العصبي فقد قدّمه رينفيل وزملاؤه (1997) في «ساينس» حين بيّنوا أن تعديل الإيحاء لدرجة الانزعاج من الألم يظهر في نشاط القشرة الحزامية الأمامية دون أن يغيّر نشاط القشرة الحسية، فاتضح أن التنويم يؤثر في البعد الوجداني للألم أكثر من البعد الحسي.
+
+## تمييز لازم
+
+يُخلَط في بعض المراجع بين جوزيف باربر وثيودور إكس. باربر (T. X. Barber) الذي اشتهر في الستينيات بنقده للتنويم بوصفه حالة خاصة وبتقديم تفسير قائم على الاتجاهات والتوقعات؛ وهما شخصان مختلفان لا صلة بينهما في المقاربة. فجوزيف باربر يعمل في إطار سريري تطبيقي ينتمي إلى تقليد إريكسون في المرونة والإيحاء، لا إلى المدرسة المشككة.
+
+## حدود وانتقادات
+
+أول ما ينبغي ملاحظته أن كثيراً من الأدلة على التسكين بالتنويم يعتمد على قياس ذاتي للألم، وأن الدراسات تختلف في طول الجلسة وطبيعة الإيحاء ومعايير اختيار المرضى، فيصعب مقارنة التقنيات. وتبقى مسألة الفروق في القابلية للتنويم قائمة، إذ لا يستفيد منه الجميع بالقدر نفسه. ويضاف إلى ذلك تحفظ منهجي أشار إليه كينستروم وغيره من أن التنويم لا يزيد دقة الذاكرة، فلا يُنصح باستعماله في استحضار الذكريات الصادمة تحت غطاء علاج الألم. وأخيراً فإن ممارسته تتطلب تدريباً مناسباً وتقديراً طبياً سابقاً للألم، لأن تسكينه بالإيحاء قد يحجب عرضاً يحتاج إلى فحص.
+
 ## المصادر
 
-- Barber, J. (Ed.). (1996). *Hypnosis and Suggestion in the Treatment of Pain: A Clinical Guide*. W. W. Norton.
-- Montgomery, G. H., DuHamel, K. N., & Redd, W. H. (2000). A meta-analysis of hypnotically induced analgesia: How effective is hypnosis? *International Journal of Clinical and Experimental Hypnosis*, 48(2), 138–153.
-- صفحة السيرة المؤسسية لجوزيف باربر ضمن هيئة التدريس الإكلينيكي في كلية طب جامعة واشنطن، ومؤسسة ميلتون إريكسون (بيانات المتحدثين المعتمدين).
+- Barber, J. (1977). "Rapid Induction Analgesia: A Clinical Report". *American Journal of Clinical Hypnosis*, 19(3), 138–147.
+- Barber, J., & Mayer, D. (1977). "Evaluation of the Efficacy and Neural Mechanism of a Hypnotic Analgesia Procedure in Experimental and Clinical Dental Pain". *Pain*, 4, 41–48.
+- Barber, J., & Adrian, C. (Eds.) (1982). *Psychological Approaches to the Management of Pain*. Brunner/Mazel.
+- Barber, J. (Ed.) (1996). *Hypnosis and Suggestion in the Treatment of Pain: A Clinical Guide*. W. W. Norton.
+- Rainville, P., Duncan, G. H., Price, D. D., Carrier, B., & Bushnell, M. C. (1997). "Pain Affect Encoded in Human Anterior Cingulate but Not Somatosensory Cortex". *Science*, 277(5328), 968–971.
+- Montgomery, G. H., DuHamel, K. N., & Redd, W. H. (2000). "A Meta-Analysis of Hypnotically Induced Analgesia: How Effective Is Hypnosis?". *International Journal of Clinical and Experimental Hypnosis*, 48(2), 138–153.
+- Lang, E. V., Benotsch, E. G., Fick, L. J., et al. (2000). "Adjunctive Non-Pharmacological Analgesia for Invasive Medical Procedures: A Randomised Trial". *The Lancet*, 355(9214), 1486–1490.
+- Patterson, D. R., & Jensen, M. P. (2003). "Hypnosis and Clinical Pain". *Psychological Bulletin*, 129(4), 495–521.
+- Jensen, M. P., & Patterson, D. R. (2014). "Hypnotic Approaches for Chronic Pain Management: Clinical Implications of Recent Research Findings". *American Psychologist*, 69(2), 167–177.

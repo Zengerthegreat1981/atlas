@@ -36,7 +36,7 @@ gaps:
 
 ## ما أعطاه
 
-ابتكر MBSR عام 1979 كبرنامج جماعي مؤسسي من 8 أسابيع لذوي الألم المزمن والمرضى الإكلينيكيين الذين لم يستفيدوا من العلاجات التقليدية، ثم عرّف «اليقظة الذهنية» (Mindfulness) تعريفاً علمانياً-تجريبياً في عام 1990 في كتابه «العيش بوحشية تامة» (Full Catastrophe Living) بأنها «الوعي الذي ينشأ من خلال الانتباه المتعمَّد، في اللحظة الراهنة، وبغير حكم» — تعريف غدا المعيار المرجعي في الأدبيات النفسية. كتابه «أينما تذهب، هناك تكون» (Wherever You Go, There You Are, 1994) عرّف الجمهور العام بالممارسة.
+ابتكر MBSR عام 1979 كبرنامج جماعي مؤسسي من 8 أسابيع لذوي الألم المزمن والمرضى الإكلينيكيين الذين لم يستفيدوا من العلاجات التقليدية، ثم عرّف «اليقظة الذهنية» (Mindfulness) تعريفاً علمانياً-تجريبياً بأنها الانتباه المتعمَّد، في اللحظة الراهنة، وبغير حكم — وهو تعريف غدا المعيار المرجعي في الأدبيات النفسية (صيغته المختصرة في كتابه عام 1994، وصيغته الموسّعة في مقال عام 2003). كتابه «أينما تذهب، هناك تكون» (Wherever You Go, There You Are, 1994) عرّف الجمهور العام بالممارسة.
 
 ## الأثر المباشر على التيار
 
@@ -47,17 +47,39 @@ gaps:
 - «العيش بوحشية تامة» (Full Catastrophe Living, 1990) — الكتاب التأسيسي لـ MBSR.
 - «أينما تذهب، هناك تكون» (Wherever You Go, There You Are, 1994).
 - «العودة إلى حواسنا» (Coming to Our Senses, 2005).
-- «البوذية العملية» (The Healing Power of Mindfulness, 2018) — مع Rich Rollins.
+- *The Healing Power of Mindfulness: A New Way of Being* (2018).
 
 ## الانتقادات
 
 - **"العلمنة" (Secularization)**: انتقدته حركة "McMindfulness" (بورسر Purser، 2019) بدعوى تسليع اليقظة الذهنية وتجريدها من سياقها البوذي الروحي عند نقلها إلى الشركات.
 - الأدلة على أثر MBSR في التجارب العشوائية المضبوطة (RCTs) توصف غالباً بأنها متوسطة الحجم، لا "مذهلة".
 
+## الترجمة العربية والتراث
+
+يتردد في العربية للمصطلح عدة ترجمات، منها «اليقظة الذهنية» و«الوعي الذهني» و«الانتباه الواعي»، ولا يوجد اتفاق عليها. ويقارن بعض الباحثين المسلمين اليقظة الذهنية بما في التراث الصوفي من «المراقبة» و«المحاسبة»، أي ملاحظة النفس والقلب في اللحظة الراهنة، وهي مقارنة اجتهادية لا يقدمها كابات-زين نفسه. وتختلف الغاية: فالمراقبة في التراث موجهة نحو الله وتسير في إطار عبادي، بينما صيغة كابات-زين علمانية تقصد خفض الضغط وتحسين الصحة. ولا نعرف ترجمة عربية معتمدة لكتبه.
+
+## من البيولوجيا الجزيئية إلى العيادة
+
+نال كابات-زين الدكتوراه في البيولوجيا الجزيئية من معهد ماساتشوستس للتقنية عام 1971، ودرس التأمل مع معلمين بوذيين، منهم فيليب كابلو في روتشستر وتيك نات هان، وعبر جماعة التأمل في بار بولاية ماساتشوستس. وفي ورقته المبكرة في *General Hospital Psychiatry* (1982) عرض نتائج برنامجه الأول لمرضى الألم المزمن، وفي ورقة 1985 المنشورة في *Journal of Behavioral Medicine* مع ليبورث وبورني عرض النتائج لمجموعة أكبر. وبعد ذلك نشر دافيدسون وزملاؤه في *Psychosomatic Medicine* (2003) دراسة قارنت بين متدربين في MBSR وقائمة انتظار في نشاط الدماغ واستجابة اللقاح، فصارت من أكثر ما يُستشهد به لدعم البرنامج.
+
+أما التعريف الذي يُنسب إلى «العيش بوحشية تامة» (1990) فقد صيغ في صورته المشهورة في كتابه الثاني *Wherever You Go, There You Are* (1994): الانتباه بطريقة خاصة، عن قصد، في اللحظة الراهنة، وبلا أحكام. ثم أعاد في مقال 2003 في *Clinical Psychology: Science and Practice* صوغه بوصفه الوعي الذي ينشأ من الانتباه المقصود وغير الحكمي لانكشاف التجربة لحظة بلحظة. وقد جاء بعد ذلك تطوير سيغال وويليامز وتيزديل لـ MBCT (2002) الذي كيّف البرنامج للوقاية من انتكاس الاكتئاب.
+
+## تصحيحات وملاحظات
+
+صُحّح أعلاه عنوان كتابه الصادر عام 2018: *The Healing Power of Mindfulness: A New Way of Being*، وهو من تأليف كابات-زين وحده، ولا صلة له بعنوان «البوذية العملية». وقد أُسّس مركز اليقظة الذهنية في الطب والرعاية الصحية والمجتمع في جامعة ماساتشوستس عام 1995، بعد عيادة تقليل التوتر عام 1979.
+
+## حدود وانتقادات إضافية
+
+لخّص غويال وزملاؤه في *JAMA Internal Medicine* (2014) مراجعة منهجية لبرامج التأمل، ووجدوا أدلة متوسطة على تحسن القلق والاكتئاب والألم، وأدلة ضعيفة على غيرها، وليس أفضل من العلاجات الأخرى النشطة. وفي مقال فان دام وزملائه «انتبه إلى الضجة» (*Perspectives on Psychological Science*، 2018) نُقدت مشاكل التعريف والقياس وتجارب العينات الصغيرة، وهو نقد يشمل حتى المؤيدين للبحث. ويضاف إلى نقد بورسر لـ«ماكمايندفلنس» نقدٌ مفاده أن العلمنة غيّرت طبيعة الممارسة، وهو ما يردّ عليه كابات-زين بأن لباب البوذية، أي الدارما، لا تتناقض مع الصياغة المحايدة.
+
 ## المصادر
 
-- Kabat-Zinn, Jon. *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*. Delacorte Press, 1990.
-- Kabat-Zinn, Jon. *Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life*. Hyperion, 1994.
-- Kabat-Zinn, Jon. *Coming to Our Senses: Healing Ourselves and the World Through Mindfulness*. Hyperion, 2005.
-- Purser, Ronald. *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*. Repeater Books, 2019 — مصدر نقد "McMindfulness" المذكور أعلاه.
-- تحتاج مراجعة إضافية من مصدر فلسفي أولي (انظر `gaps` أعلاه): أثر دراسة كابات-زين مع تيك نات هان وسوزوكي روشي، وتفاصيل تعاونه مع Sara Lazar في أبحاث fMRI.
+- Kabat-Zinn, J. (1982). "An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation: Theoretical considerations and preliminary results". *General Hospital Psychiatry*, 4(1), 33–47.
+- Kabat-Zinn, J., Lipworth, L., & Burney, R. (1985). "The clinical use of mindfulness meditation for the self-regulation of chronic pain". *Journal of Behavioral Medicine*, 8(2), 163–190.
+- Kabat-Zinn, J. (1990). *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*. New York: Delacorte Press.
+- Kabat-Zinn, J. (1994). *Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life*. New York: Hyperion.
+- Kabat-Zinn, J. (2003). "Mindfulness-based interventions in context: Past, present, and future". *Clinical Psychology: Science and Practice*, 10(2), 144–156.
+- Davidson, R. J., et al. (2003). "Alterations in brain and immune function produced by mindfulness meditation". *Psychosomatic Medicine*, 65(4), 564–570.
+- Goyal, M., et al. (2014). "Meditation programs for psychological stress and well-being: A systematic review and meta-analysis". *JAMA Internal Medicine*, 174(3), 357–368.
+- Van Dam, N. T., et al. (2018). "Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation". *Perspectives on Psychological Science*, 13(1), 36–61.
+- Purser, R. (2019). *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*. London: Repeater Books.

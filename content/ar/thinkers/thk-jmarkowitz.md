@@ -29,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-- **كتب تدريبية لـIPT** في اضطرابات الأكل، اضطرابات الشخصية، اضطراب الكرب التالي للصدمة، الاضطراب الثنائي القطب.
+- **توسيع IPT** إلى عسر المزاج واضطراب الكرب التالي للصدمة واضطراب الشخصية الحدّية وغيرها، مع كتب ومقالات تدريبية.
 - **مفهوم "التشخيص البيني"**: ربط الأعراض بمشكلات بينية (الحداد، الصراع، تغير الدور، العزلة) كمدخل سريري ثابت في IPT.
 - **تجربة IPT في اضطراب ما بعد الصدمة** (2015، *American Journal of Psychiatry*): أهمّ أعماله وأكثرها إثارةً للجدل. قارن IPT بـ**التعرّض المطوَّل** — العلاج المرجعي للصدمة — فوجده **غير أدنى منه**، مع معدّل انقطاع أقلّ. وأهمية النتيجة أنها تنازع الأطروحة السائدة بأن علاج الصدمة يستلزم **مواجهة الذكرى**؛ فIPT لا يُعرّض المريض لصدمته أصلاً، بل يشتغل على علاقاته الحاضرة. وقد قُوبلت بنقد منهجي واسع ولم تُحسم.
 - **الفارق مع CBT**: يصرّ ماركويتز على أن IPT ليس نسخةً ألطف من العلاج المعرفي: لا واجبات بيتية، ولا سجلّ أفكار، ولا مناقشة لصحّة المعتقد. المريض يُعطى **دور المريض** صراحةً — أي يُقال له إن ما به اضطراب معروف مؤقّت لا فشل شخصي — ثم يُربط العرَض بحدثٍ في علاقاته: حداد، أو نزاع على الدور، أو انتقال في الدور، أو عزلة.
@@ -40,15 +40,35 @@ gaps:
 
 ## أهم أعماله
 
-- *Interpersonal Psychotherapy for Dysthymic Disorder* (1994).
-- *Interpersonal Psychotherapy for Depressed Older Adults* (2000، مساعد).
+- *Interpersonal Psychotherapy for Dysthymic Disorder* (1998).
 - *Learning IPT: A Time-Limited Psychotherapy* (2010).
 - *Comprehensive Guide to Interpersonal Psychotherapy* (2000، مع وايسمان وكليرمان).
 - *Casebook of Interpersonal Psychotherapy* (2012، تحرير مع وايسمان).
 - "Is Exposure Necessary? A Randomized Clinical Trial of Interpersonal Psychotherapy for PTSD" (2015)، *American Journal of Psychiatry*.
 
+## أصل النموذج والجيل الثاني
+
+يعود العلاج البيني-الشخصي إلى عمل جيرالد كليرمان وميرنا وايسمان في نيوهيفن وبوسطن في السبعينيات، حين صُمّم مقاربةً قصيرة الأمد لاكتئاب البالغين تُختبر في تجارب مقارنة مع الدواء. وقد توضّحت أسسه في كتاب «العلاج البيني-الشخصي للاكتئاب» (كليرمان وزملاؤه، 1984) الذي حدد أربعة مجالات لمشكلات العلاقات: الحزن على فقد، والنزاع على الأدوار، والانتقال في الأدوار، والعجز عن إقامة العلاقات. وانضم ماركويتز إلى هذه المدرسة في مؤسسة نيويورك للطب النفسي في جامعة كولومبيا، وبقي متصلاً بوايسمان في وضع الأدلة العلمية وتدريب المعالجين.
+
+## أعماله في الاكتئاب المزمن واضطراب الصدمة
+
+وجّه ماركويتز جانباً كبيراً من بحثه إلى ما يُسمّى عسر المزاج، وهو اكتئاب مزمن خفيف نسبياً تتسم صورته بتجنّب العلاقات، فأفرد له كتاباً في تكييف العلاج (1998). وهناك أدخل مفهوم «دور المريض» ليحوّل العرض من حكم على شخصية المريض إلى حالة مرضية يمكن علاجها، ويصل هذا بإعادة بناء العلاقات بدل إعادة تفسير الماضي. ثم انتقل إلى الصدمة، فكانت تجربته الكبرى (2015) مقارنة العلاج بالتعرض المطوّل بالعلاج البيني-الشخصي وبالاسترخاء، وهو عمل أعاد طرح السؤال هل يجب مواجهة الذكرى الصادمة لتحقيق الشفاء. وقد أعقبه بمقالات عن أهمية الاستجابة للوجدان السلبي في العلاجات النفسية (ماركويتز وميلرود، 2011)، وكلها تدعو إلى النظر في ما يحدث بين المعالج والمريض وليس إلى مجرد تطبيق بروتوكول.
+
+## السياق الأوسع للنموذج
+
+ويُظهر التحليل البُعدي الذي أجراه كويبرس وزملاؤه (2016) لنحو تسعين تجربة أن للعلاج البيني-الشخصي أثراً معتبراً في الاكتئاب والقلق واضطراب الأكل، مقارنةً بغياب العلاج، وأثراً مماثلاً لعلاجات أخرى كالمعرفي السلوكي في عدد من الاضطرابات. وهذا ما يجعل أعمال ماركويتز جزءاً من نقاش أوسع: هل فاعلية العلاجات المنظمة ناتجة عن تقنيات بعينها أم عن عوامل مشتركة كالتحالف والتوقعات؟
+
+## حدود وانتقادات
+
+أول الحدود أن تجربة الصدمة (2015) أُجريت في مركز واحد على عينة محدودة، ولم تتكرر بالصورة نفسها، ومن ثمّ لا تكفي لتغيير التوصيات المرجعية للتعرض المطوّل. وأن معدّل الانقطاع المنخفض لا يعني بالضرورة تحسناً مساوياً في جميع النتائج الثانوية. كما يُؤخذ على النموذج أنه لا يعالج أسباباً بنيوية للمشكلات العلائقية كالفقر والعنف المستمر، وأنه يفترض أن في حياة المريض علاقات يمكن العمل عليها. ويرى منتقدون آخرون أن الحديث عن «دور المريض» قد يقرأ حالة مزمنة بوصفها عارضاً، وإن كان ماركويتز نفسه يميّز بين الحالتين. أما تقارير ماركويتز عن تجارب لم تبيّن تفوقاً، فهي من أوضح ما يُحمد له في الحقل.
+
 ## المصادر
 
-- Markowitz, J. C., et al. (2015). "Is Exposure Necessary? A Randomized Clinical Trial of Interpersonal Psychotherapy for PTSD". *American Journal of Psychiatry*, 172(5), 430–440. https://pubmed.ncbi.nlm.nih.gov/25677355/
-- "John Caleb Markowitz, MD", Columbia University Department of Psychiatry. https://www.columbiapsychiatry.org/profile/john-c-markowitz-md
-- "Interpersonal Therapy Found as Effective as Exposure Therapy for PTSD", Columbia University Department of Psychiatry News. https://www.columbiapsychiatry.org/news/interpersonal-therapy-found-effective-exposure-therapy-ptsd-findings-suggest-new-avenue
+- Klerman, G. L., Weissman, M. M., Rounsaville, B. J., & Chevron, E. S. (1984). *Interpersonal Psychotherapy of Depression*. Basic Books.
+- Markowitz, J. C. (1998). *Interpersonal Psychotherapy for Dysthymic Disorder*. American Psychiatric Press.
+- Weissman, M. M., Markowitz, J. C., & Klerman, G. L. (2000). *Comprehensive Guide to Interpersonal Psychotherapy*. Basic Books.
+- Markowitz, J. C., & Weissman, M. M. (2004). "Interpersonal Psychotherapy: Principles and Applications". *World Psychiatry*, 3(3), 136–139.
+- Markowitz, J. C., & Milrod, B. L. (2011). "The Importance of Responding to Negative Affect in Psychotherapies". *American Journal of Psychiatry*, 168(2), 124–128.
+- Markowitz, J. C., & Weissman, M. M. (Eds.) (2012). *Casebook of Interpersonal Psychotherapy*. Oxford University Press.
+- Markowitz, J. C., Petkova, E., Neria, Y., et al. (2015). "Is Exposure Necessary? A Randomized Clinical Trial of Interpersonal Psychotherapy for PTSD". *American Journal of Psychiatry*, 172(5), 430–440.
+- Cuijpers, P., Donker, T., Weissman, M. M., Ravitz, P., & Cristea, I. A. (2016). "Interpersonal Psychotherapy for Mental Health Problems: A Comprehensive Meta-Analysis". *American Journal of Psychiatry*, 173(7), 680–687.

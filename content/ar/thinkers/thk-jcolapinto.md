@@ -44,8 +44,23 @@ gaps:
 - *The Intersubjective Mirror in Family Therapy* (2017).
 - *Working with Families of the Poor* (مع سلفادور مينوشين وباتريسيا مينوشين).
 
+## من الدراسة النقدية إلى النموذج
+
+تبدأ مساهمات كولابينتو المنشورة بنقد منهجي: فقد كتب في *Family Process* عام 1979 مقالاً بعنوان «القيمة النسبية للدليل التجريبي»، ناقش فيه حدود ما يمكن أن يقدمه البحث الكمي لمعالج الأسرة. وجاء هذا مبكراً في تاريخ الحقل حين كان معالجو الأسرة مولعين بالبراهين التجريبية. ثم صار من أبرز من كتبوا في عرض النموذج البنيوي ومبادئه: ففصله «العلاج الأسري البنيوي» في كتاب هورن وأولسن (1982) وفصله في *Handbook of Family Therapy* لغورمان وكنيسكرن (1991) من المراجع المعتمدة في تدريس هذا النموذج، ثم مقاله عن تدريب المعالجين على الطريقة البنيوية في كتاب ليدل وبرونلن وشوارتز (1988).
+
+## الأسرة والمؤسسات: التخفيف من عملية الأسرة
+
+أشهر ما كتب في مجلة *Family Process* عام 1995 بعنوان «تخفيف عملية الأسرة في الخدمات الاجتماعية: انعكاسات على علاج الأسر المهملة». فكرته أن الخدمات الاجتماعية حين تتدخل في أسرة تعاني الإهمال تميل إلى توزيع وظائف الرعاية الأبوية على مهنيين مختلفين: أخصائي للأم، وآخر للطفل، وثالث للحضانة. فتتشظى الوظيفة الأبوية بدل أن تُقوّى، وتنحلّ الأسرة بوصفها وحدة تعمل. وهنا يصبح عمل المعالج البنيوي إعادة جمع هذه الوظائف في الوالد: يضع الحدود بين النسق الأسري ونسق المؤسسات، ويعيد للوالد موقعه التنفيذي، بدل أن يتحول المعالج إلى فاعل إضافي في السلسلة. وقد جمع هذه الأفكار لاحقاً مع سلفادور مينوشين وباتريسيا مينوشين في كتاب *Working with Families of the Poor* (1998، Guilford)، الذي صار مرجعاً في العمل مع الأسر الفقيرة المتشابكة مع المؤسسات.
+
+## حدود وانتقادات
+
+وجّهت النسويات في العلاج الأسري إلى النموذج البنيوي عموماً نقداً بأنه يفترض بنية تراتبية صحيحة للأسرة (والدان على رأسها وأولاد في الأسفل) قد تبدو معيارية وتتجاهل أنماط الأسر المتنوعة وعلاقات القوة بين الرجل والمرأة. ويُنتقد في مقاربة كولابينتو للأسر الفقيرة أنها قد تُحمّل الأسرة الاستجابة لتشظي الخدمات، وهي بنية أكبر منها. والحجة التجريبية للنموذج أضعف مما يتطلبه الاعتراف به، وهي مسألة تناولها كولابينتو نفسه بالنقد في مقاله المبكر عن قيمة الدليل التجريبي. ولا نعرف ترجمة عربية معتمدة لأعماله، وتحتاج مفاهيم مثل «الاقتفاء» و«المحاكاة» إلى تدقيق عند نقلها، مع أن الأسرة الممتدة والمؤسسات الدينية والاجتماعية في العالم العربي توفر مادة مهمة لتطبيق فكرة الحدود بين الأسرة والنسق المحيط بها.
+
 ## المصادر
 
-- [Jorge Colapinto, LMFT — Center for Family Based Training](https://familybasedtraining.com/faculty/jorge-colapinto/)
-- [Jorge Colapinto — Structural Family Therapy (1982), colapinto.com](https://colapinto.com/files/SFT1982.pdf)
-- [Minuchin Center for the Family — Publications](https://minuchincenter.org/publications/)
+- Colapinto, J. (1979). "The relative value of empirical evidence". *Family Process*, 18(4), 427–441.
+- Colapinto, J. (1982). "Structural family therapy". In A. M. Horne & M. M. Ohlsen (Eds.), *Family Counseling and Therapy* (pp. 112–140). Itasca, IL: F. E. Peacock.
+- Colapinto, J. (1988). "Teaching the structural way". In H. A. Liddle, D. C. Breunlin, & R. C. Schwartz (Eds.), *Handbook of Family Therapy Training and Supervision* (pp. 17–37). New York: Guilford Press.
+- Colapinto, J. (1991). "Structural family therapy". In A. S. Gurman & D. P. Kniskern (Eds.), *Handbook of Family Therapy* (Vol. 2, pp. 417–443). New York: Brunner/Mazel.
+- Colapinto, J. (1995). "Dilution of family process in social services: Implications for treatment of neglectful families". *Family Process*, 34(1), 59–74.
+- Minuchin, S., Colapinto, J., & Minuchin, P. (1998). *Working with Families of the Poor*. New York: Guilford Press.

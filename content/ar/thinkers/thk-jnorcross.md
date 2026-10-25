@@ -49,9 +49,29 @@ gaps:
 - يُوجَّه إلى أعمال نوركروس نفسها الاعتراض المنهجي الأثقل: أن أدلّة **العلاقة** ارتباطية في أغلبها لا تجريبية. فتلازُم التحالف القوي مع النتيجة الجيدة لا يثبت أن التحالف **سبب** التحسّن — إذ يُحتمل أن المريض الذي بدأ يتحسّن هو الذي يصف تحالفه بالقوّة. وقد أقرّ نوركروس بذلك ودعا إلى تصاميم تجريبية للعلاقة، وهي قليلة وصعبة لأن التلاعب المتعمّد بجودة التحالف غير جائز أخلاقياً.
 - ويُؤخذ على «التفصيل على المريض» أنه سهل القول صعب التطبيق: يفترض في المعالج مرونةً عبر مدارس متعدّدة، والتدريب الفعلي أحاديّ المدرسة في معظم البرامج.
 
+## نتائج أبحاثه في التغيير الذاتي
+
+لم تقتصر أبحاث نوركروس على العلاج المهني، بل شملت التغيير الذاتي خارج العيادة. وأشهر هذه الدراسات تتبعه (مع مرايكالو وبلاغيس، 2002) لأشخاص قرروا أهدافاً في رأس السنة ولأشخاص أرادوا التغيير نفسه ولم يعلنوا قراراً، فوجد أن نسبة أعلى بكثير ممن أعلنوا قراراً حافظوا على التغيير بعد ستة أشهر، وأن العلامات المبكرة للنجاح تشمل الثقة في القدرة والالتزام بعمليات التغيير. وتُظهر هذه الدراسة المنطق العام في عمله: أن التغيير عملية متدرجة لها مراحل وأدوات، لا حدثاً فجائياً، وأن الدعم المنظّم يرفع احتماله.
+
+## الإجماع والتحفظ في أبحاث العلاقة
+
+اعتمدت مشاريع «علاقات العلاج التي تعمل» على تصنيف العناصر بحسب قوة الأدلة. فخلص التقرير الأحدث (نوركروس ولامبرت، 2018) إلى أن التحالف العلاجي والتعاطف والتماسك في العلاج الجماعي وجمع آراء المريض وتوافق الأهداف والتعاون عناصر «فعّالة بوضوح»، بينما صُنّفت عناصر أخرى بوصفها «واعدة» أو «غير كافية الدليل». والنقطة المنهجية المهمة هنا أن اللجان فصلت بين ما يعتمد على المعالج وما يعتمد على التقنية، وبيّنت أن جزءاً معتبراً من التباين بين النتائج يعود إلى فروق بين المعالجين لا بين الأساليب، وهو ما صاغه نوركروس وونبولد (2011) في مقال للممارسين.
+
+## عناية المعالج بنفسه
+
+وفي مسار آخر عالج نوركروس مسألة اعتناء المعالجين بأنفسهم، ونشر مع فاندنبوس «تركه في المكتب: دليل إلى عناية المعالج النفسي بنفسه» (2018)، حيث عرض أن الإنهاك والوحدة والاكتئاب شائعة في المهنة، وأن العناية بالنفس شرط للقدرة على العلاقة العلاجية لا ترفاً.
+
+## حدود وانتقادات
+
+وُجّه إلى مفهوم «التفصيل على المريض» نقد من أنصار البروتوكولات المهيكلة، إذ يخشون أن يتحول إلى تبرير لممارسة غير منضبطة. كما أن دراسة قرارات رأس السنة اعتمدت على تقارير ذاتية في عيّنة متطوعة، فلا تُعمَّم على أنواع التغيير الإلزامي. أما النموذج عبر-النظري لمراحل التغيير فقد تعرض لنقد منهجي من باحثين مثل ويست (2005) الذي رأى أن تقسيم الأفراد إلى مراحل متمايزة لا تدعمه البيانات، وأن التدخلات المصمّمة وفقاً للمراحل لم تتفوق على غيرها تفوقاً ثابتاً في مراجعات منهجية. وهذا نقد وجيه يعترف به معظم المتخصصين، وإن ظلّ النموذج مفيداً بوصفه لغة وصفية لدى كثير من الممارسين.
+
 ## المصادر
-- السيرة الرسمية والسيرة الذاتية (Vita): [University of Scranton — John C. Norcross](https://www.scranton.edu/faculty/norcross/biographical-sketch.shtml)
-- *Psychotherapy Relationships that Work*, 3rd ed. (مجلدان)، أكسفورد: [Oxford University Press — Vol. 1 (مع لامبرت)](https://global.oup.com/academic/product/psychotherapy-relationships-that-work-9780190843953) و[Vol. 2 (مع وامبولد)](https://global.oup.com/academic/product/psychotherapy-relationships-that-work-9780190843960)
-- *Handbook of Psychotherapy Integration* (مع مارفن غولدفريد)، أكسفورد: [Oxford University Press](https://global.oup.com/academic/product/handbook-of-psychotherapy-integration-9780190690465)
-- سلسلة *Treatments That Work* (David H. Barlow، رئيس تحرير)، أكسفورد: [Oxford University Press — Treatments That Work series](https://global.oup.com/academic/content/series/t/treatments-that-work-ttw/)
-- صفحة ويكيبيديا: [John C. Norcross](https://en.wikipedia.org/wiki/John_C._Norcross)
+
+- Norcross, J. C. (Ed.) (2002). *Psychotherapy Relationships That Work: Therapist Contributions and Responsiveness to Patients*. Oxford University Press.
+- Norcross, J. C., Mrykalo, M. S., & Blagys, M. D. (2002). "Auld Lang Syne: Success Predictors, Change Processes, and Self-Reported Outcomes of New Year's Resolvers and Nonresolvers". *Journal of Clinical Psychology*, 58(4), 397–405.
+- Norcross, J. C., & Wampold, B. E. (2011). "Evidence-Based Therapy Relationships: Research Conclusions and Clinical Practices". *Psychotherapy*, 48(1), 98–102.
+- Norcross, J. C., & Lambert, M. J. (2018). "Psychotherapy Relationships That Work III". *Psychotherapy*, 55(4), 303–315.
+- Norcross, J. C., & VandenBos, G. R. (2018). *Leaving It at the Office: A Guide to Psychotherapist Self-Care* (2nd ed.). Guilford Press.
+- Prochaska, J. O., & Norcross, J. C. (2018). *Systems of Psychotherapy: A Transtheoretical Analysis* (9th ed.). Oxford University Press.
+- Prochaska, J. O., Norcross, J. C., & DiClemente, C. C. (1994). *Changing for Good*. William Morrow.
+- West, R. (2005). "Time for a Change: Putting the Transtheoretical (Stages of Change) Model to Rest". *Addiction*, 100(8), 1036–1039.

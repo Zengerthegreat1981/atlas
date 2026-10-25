@@ -27,6 +27,10 @@ gaps:
 
 عالم نفس أمريكي، أستاذ في **جامعة مسيسيبي**، وأحد **الثلاثة المؤسّسين للعلاج بالقبول والالتزام** (ACT) مع **ستيفن هايز** و**كيرك ستروسال** — وهم مؤلّفو النصّ المؤسِّس عام 1999. وهو في هذا الثلاثي الصوت الأوثق صلةً بـ**عمل القيم**.
 
+## السيرة والتكوين
+
+وُلد كِلّي غ. ويلسون عام 1960 في الولايات المتحدة، وتدرّب في علم النفس في جامعة نيفادا رينو على يد ستيفن هايز، ثم عمل أستاذاً في جامعة مسيسيبي، وبذلك ينتمي إلى الجيل الأول الذي نشأ مع العلاج بالقبول والالتزام وساعد على بنائه من داخل المختبر السلوكي. وتجمع كتاباته بين نبرة أدبية ونبرة سلوكية: فهو يكتب عن التجربة اليومية للقلق والخجل والخسارة بلغة تقترب من الأمثال والصور، ثم يربطها بمفاهيم التعلّم والسياق. وهذا الجمع ما يفسّر أن اسمه صار مرتبطاً بالجانب الأخلاقي والوجودي في ACT أكثر من الجانب التجريبي الصرف. ولا توجد ترجمة عربية معتمدة لأعماله.
+
 ## ما أعطاه
 
 - **القيم في ACT**: أوضح إسهاماته. القيمة عنده ليست هدفاً ولا شعوراً ولا قاعدة أخلاقية، بل **اتّجاه مختار للحركة** — «أن أكون أباً حاضراً» ليس شيئاً يُبلَغ فيُشطَب من القائمة، بل بوصلة تُقاس بها كلّ خطوة. ومن هنا تفريقه الحادّ بين **القيمة** و**الهدف**: الهدف يُنجَز فينتهي، والقيمة تُعاش ولا تنتهي؛ ومن جعل قيمته هدفاً حكم على نفسه بالإخفاق الدائم.
@@ -35,13 +39,13 @@ gaps:
 
 - **استبيان العيش بالقيم** (Valued Living Questionnaire): أداته المقنَّنة — يُسأل المفحوص عن عشرة مجالات في حياته (الأسرة، والعمل، والصحّة، والصداقة…) فيقدّر **أهمّية** كلٍّ منها ثم **مدى اتّساق سلوكه الفعلي** معها. والفجوة بين الرقمين هي المعطى العلاجي، لا أيٌّ منهما وحده.
 - **«اليقظة لاثنين»** (Mindfulness for Two، 2009): أطروحته أن اليقظة في ACT ليست تمريناً فردياً يُعطى للمريض كواجب، بل **حالة تقع بين اثنين في الغرفة** — وأن على المعالج أن يكون حاضراً بالقدر نفسه المطلوب من المريض، وأن يستعمل ما ينشأ بينهما مادّةً للعمل. وهذا أقرب ما اقترب به ACT من العلاجات العلائقية.
-- **المرونة النفسية**: شارك في صياغة النموذج السداسي المعروف بـ«مسدّس الشفل» (Hexaflex)، وموقع القيم فيه هو **محرّك** العملية كلّها — إذ لا معنى للقبول ولا للانفصال المعرفي إن لم يكن ثمّة اتّجاه يُمضى إليه.
+- **المرونة النفسية**: شارك في صياغة النموذج السداسي المعروف بـ«الشكل السداسي» (Hexaflex)، وموقع القيم فيه هو **محرّك** العملية كلّها — إذ لا معنى للقبول ولا للانفصال المعرفي إن لم يكن ثمّة اتّجاه يُمضى إليه.
 
 ## موقعه من التيار
 
 أحد ثلاثة أسّسوا ACT، وموقعه بينهم مميّز: **هايز** صاحب الأساس النظري (نظرية الأطر العلائقية) والمشروع الفلسفي (السياقية الوظيفية)؛ و**ستروسال** صاحب النقل إلى الرعاية الأوّلية والتدخّلات القصيرة؛ و**ويلسون** صاحب البُعد الوجودي-القِيَمي والعلاقة العلاجية. وقد قرّبه ذلك من العلاجات الإنسانية أكثر من زميليه، ومن هنا يُقرأ عمله جسراً بين الفرع السلوكي المعرفي الثالث والتقليد الوجودي.
 
-## القيد
+## حدود وانتقادات
 يُوجَّه إلى **عمل القيم** في ACT اعتراضان:
 
 **الأول** أنه يقترب من **الوعظ الأخلاقي** بلغةٍ سلوكية: فرغم إصرار ويلسون على أن القيم **اختيار** لا يُبرَّر ولا يُقيَّم من خارج، تبقى في الممارسة قيمٌ يشجّعها المعالج ضمناً (الصلة، والإسهام، والنموّ) وأخرى لا يشجّعها — دون أن يملك النموذج أساساً يبرّر التمييز.
@@ -52,11 +56,11 @@ gaps:
 
 ## أهم أعماله
 
-*Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change* (1999، مع ستيفن هايز وكيرك ستروسال) — النصّ المؤسِّس · *Mindfulness for Two: An Acceptance and Commitment Therapy Approach to Mindfulness in Psychotherapy* (2009) · *Things Might Go Terribly, Horribly Wrong* (2010، مع تروي ديفريز).
+*Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change* (1999، مع ستيفن هايز وكيرك ستروسال) — النصّ المؤسِّس · *Mindfulness for Two: An Acceptance and Commitment Therapy Approach to Mindfulness in Psychotherapy* (2009) · *Things Might Go Terribly, Horribly Wrong* (2010، مع تروي دوفرين).
 
 ## المصادر
 
-- [Kelly G. Wilson — University of Mississippi (academia.edu)](https://olemiss.academia.edu/KellyWilson)
-- [Kelly G. Wilson, PhD — Praxis Continuing Education and Training](https://www.praxiscet.com/trainers/kelly-g-wilson/)
-- Wilson, K. G., Sandoz, E. K., Kitchens, J., & Roberts, M. (2010). "The Valued Living Questionnaire: Defining and Measuring Valued Action within a Behavioral Framework." *The Psychological Record*.
-- Wilson, K. G., & DuFrene, T. (2009). *Mindfulness for Two: An Acceptance and Commitment Therapy Approach to Mindfulness in Psychotherapy*.
+- Hayes, S. C., Strosahl, K. D. & Wilson, K. G. (1999). Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change. Guilford Press.
+- Wilson, K. G. & DuFrene, T. (2009). Mindfulness for Two: An Acceptance and Commitment Therapy Approach to Mindfulness in Psychotherapy. New Harbinger.
+- Wilson, K. G., Sandoz, E. K., Kitchens, J. & Roberts, M. (2010). "The Valued Living Questionnaire: Defining and measuring valued action within a behavioral framework." The Psychological Record, 60.
+- Wilson, K. G. & DuFrene, T. (2010). Things Might Go Terribly, Horribly Wrong: A Guide to Life Liberated from Anxiety. New Harbinger.

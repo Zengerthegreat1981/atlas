@@ -54,9 +54,31 @@ gaps:
 ## القيد
 - **موقع الأقران داخل النظم الأكاديمية** تظل محل نقاش — إذ يبقى ثمن التبنّي الرسمي خطر تحييد البعد التحرّكي.
 
+## من الشفاء المرضي إلى التعافي الشخصي
+
+انطلق ديفيدسون من ملاحظة أن الأدبيات السريرية عن الفصام ظلت طويلاً تفترض مساراً تدهورياً مزمناً، بينما تُظهر دراسات المتابعة الطويلة، ومنها أبحاث هاردنغ وزملائها في فيرمونت، أن نسبة معتبرة من المرضى تتحسن تحسناً كبيراً مع الزمن. وفي هذا السياق نشر مع جون ستراوس عام 1992 مقالة «الإحساس بالذات في التعافي من المرض النفسي الشديد» بمجلة *British Journal of Medical Psychology*، وفيها قدّم التعافي بوصفه عملية يستعيد فيها الشخص دوراً فاعلاً في حياته، لا مجرد اختفاء أعراض. وعلى هذا الأساس ميّز مع ديفيد رو عام 2007 في *Journal of Mental Health* بين «التعافي من» المرض، أي الشفاء السريري، و«التعافي في» المرض، أي بناء حياة ذات معنى مع بقاء الأعراض، وهو تمييز خفف التباساً شائعاً في الحديث عن التعافي.
+
+## دعم الأقران
+
+في مراجعة معروفة نُشرت عام 1999 في *Clinical Psychology: Science and Practice* مع تشينمان وكلوس وفاينغارتن وستاينر وتيبس، فحص ديفيدسون الأدلة المتاحة عن دعم الأقران لدى المصابين باضطرابات شديدة، ووجد أن الأدلة آنذاك واعدة لكنها ضعيفة منهجياً. وقد أسهمت هذه المراجعة في وضع جدول بحث لتقييم الأقران بوصفهم مقدمي خدمة، وهو ما فتح لاحقاً الباب لإدماجهم في فرق العمل. وتتميز هذه المقاربة بأن تعتبر خبرة المعاناة مصدراً للمعرفة المهنية لا مجرد حالة تُعالج.
+
+## الدليل العملي
+
+يمثل «دليل عملي للممارسة الموجهة نحو التعافي» (2009)، وهو من تأليفه مع تندورا ولولس وأوكونل ورو، محاولة لترجمة المبادئ إلى أدوات: كيف يُجرى التقييم القائم على القوة، وكيف يُصاغ خطة العلاج بمشاركة المريض، وكيف يُدار القرار المشترك. وتبرز في الكتاب صرامة مؤسسية تجعل منه مرجعاً لبرامج الولايات المتحدة التي تبنّت التعافي سياسة رسمية في الصحة النفسية.
+
+## التلقي العربي
+
+لا ترجمة عربية معروفة لأعمال ديفيدسون. ويتصل موضوعه بنقاش عربي ناشئ حول الرعاية المجتمعية وإشراك الأسر والمرضى في الخدمات النفسية، في بيئة تحتل فيها الأسرة موقعاً مركزياً في رعاية المريض، ولا يزال الوصم مشكلة كبرى. وتبدو فكرة التعافي بوصفه عودة إلى الدور الاجتماعي قريبة من تقاليد الرعاية القديمة في البيمارستانات التي كانت تعنى بإعادة المريض إلى مجتمعه، لكن تأريخ هذا الوجه يحتاج إلى بحث موثق.
+
+## حدود وانتقادات
+
+أول الانتقادات أن مصطلح التعافي صار فضفاضاً حتى استُعمل لتبرير تقليص الخدمات، فتُترك المسؤولية على عاتق الفرد وتضعف الرعاية. وثانيها أن معظم الأدلة على فعالية البرامج الموجهة نحو التعافي مستمدة من دراسات نوعية أو تجارب صغيرة، مع حاجة إلى تجارب معشاة أكبر. وثالثها أن حركة الأقران يتهددها خطر التحييد حين تدخل النظام المؤسسي، فتتحول من فعل تحرري إلى وظيفة مهنية، وهو ما أشار إليه ديفيدسون نفسه. ورابعها أن التمييز بين التعافي السريري والشخصي يستدعي أسئلة حول من يملك تعريف التعافي: المريض أم المؤسسة.
+
 ## المصادر
-- [Larry Davidson – Henry Koerner Center for Emeritus Faculty, Yale](https://emeritus.yale.edu/fellows/larry-davidson)
-- [Larry Davidson Ph.D. – Psychology Today](https://www.psychologytoday.com/us/contributors/larry-davidson-phd)
-- [The Roots of the Recovery Movement in Psychiatry: Lessons Learned – Wiley](https://www.wiley.com/en-us/The+Roots+of+the+Recovery+Movement+in+Psychiatry:+Lessons+Learned-p-9780470777633)
-- [Mental Health, Social Mirror – Avison, McLeod, Pescosolido (Springer)](https://www.amazon.com/Mental-Health-Social-Mirror-William/dp/038736319X)
-- [Larry Davidson (Author of Living Outside Mental Illness) – Goodreads](https://www.goodreads.com/author/show/1405204.Larry_Davidson)
+
+- Davidson, L. & Strauss, J. S. (1992). "Sense of self in recovery from severe mental illness". *British Journal of Medical Psychology*, 65(2), 131–145.
+- Davidson, L., Chinman, M., Kloos, B., Weingarten, R., Stayner, D., & Tebes, J. K. (1999). "Peer support among individuals with severe mental illness: A review of the evidence". *Clinical Psychology: Science and Practice*, 6(2), 165–187.
+- Davidson, L. (2003). *Living Outside Mental Illness: Qualitative Studies of Recovery in Schizophrenia*. New York: New York University Press.
+- Davidson, L. & Roe, D. (2007). "Recovery from versus recovery in serious mental illness: One strategy for lessening confusion plaguing recovery". *Journal of Mental Health*, 16(4), 459–470.
+- Davidson, L., Tondora, J., Lawless, M. S., O'Connell, M. J., & Rowe, M. (2009). *A Practical Guide to Recovery-Oriented Practice: Tools for Transforming Mental Health Care*. New York: Oxford University Press.
+- Davidson, L., Rakfeldt, J., & Strauss, J. (2010). *The Roots of the Recovery Movement in Psychiatry: Lessons Learned*. Chichester: Wiley-Blackwell.

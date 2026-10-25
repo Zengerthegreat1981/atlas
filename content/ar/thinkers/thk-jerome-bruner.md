@@ -56,11 +56,27 @@ gaps:
 
 وأثرُ هذا الطورِ في العلاج ظاهرٌ في **العلاج السردي** وفي التيارات البنائية عموماً، وإن لم يكن برونر معالِجاً ولا كتب في العلاج.
 
+## الحضور العربي
+
+جاء برونر إلى القارئ العربي من باب التربية قبل علم النفس: فمصطلحا «التعلّم بالاكتشاف» و«المنهج الحلزوني» مألوفان في كتب علم النفس التربوي وطرائق التدريس العربية، وكثيراً ما يُذكر معهما تمثيله للمعرفة في ثلاث صور. أما المنعطف السردي، أي الكتب التي ربطت النفس بالثقافة والحكاية، فأقلّ حضوراً في الدراسات العربية، ولا نعرف ترجمة عربية معتمدة لكتبه الأخيرة تحمل فيها المصطلحات صيغة مستقرة.
+
+## سيرة وسياق
+
+وُلد في نيويورك عام 1915 وتوفي في المدينة نفسها عام 2016، ونال الدكتوراه في علم النفس من هارفارد عام 1941، وعمل في الحرب العالمية الثانية في أبحاث الدعاية والرأي العام لدى الحلفاء. هذا الاهتمام المبكر بكيف يرى الناس الأشياء وبكيف يُقنَعون يفسّر إلى حد بعيد ورقة «الإدراك الجديد». ثم أدار مشروعاً تربوياً كبيراً في الستينيات هو المنهج الاجتماعي «الإنسان: مقرّر دراسي» (MACOS) الذي عرض على التلاميذ مادة أنثروبولوجية عن الإنسان والثقافة، وأثار جدلاً سياسياً في الكونغرس الأمريكي في السبعينيات بسبب محتواه. وفي 1972 انتقل أستاذاً في أكسفورد، حيث اهتم باكتساب اللغة عند الأطفال، ونشر *Child's Talk* (1983) الذي وصف فيه كيف تقدّم الأم لطفلها «قوالب» متكررة من التفاعل تكون سقالة لتعلم الكلام. وكلمة السقالة نفسها صيغت في ورقة وود وبرونر وروس عام 1976 المذكورة بين المصادر.
+
+## حدود وانتقادات
+
+لم يسلم المشروع التربوي من نقد الأدلة التجريبية. ففي ورقة «الإدراك الجديد» لم تثبت نتيجة العملات حين أعادها كارتر وشولر عام 1949 بشروط أضبط، وتبقى مسألة أثر القيم في الإدراك محل جدل منهجي. أما التعلّم بالاكتشاف فقد حاجّ ضدّه كيرشنر وسويلر وكلارك في مقال شهير في *Educational Psychologist* عام 2006، ورأوا أن التوجيه الضئيل لا ينفع المبتدئين، وفرّق مايير عام 2004 في *American Psychologist* بين الاكتشاف المحض والاكتشاف الموجَّه، وهذا الأخير هو الذي دافع عنه برونر في صيغته الناضجة. وأما المنعطف السردي فيُؤخذ عليه أنه يصعب اختباره: ما الذي يُعدّ دليلاً ضد أن النفس بناء سردي؟ ويرى بعض الباحثين أن التمييز الحاد بين النمطين المنطقي والسردي يبالغ في الفصل بينهما.
+
 ## المصادر
 
-- Bruner, J. S. & Goodman, C. C. "Value and Need as Organizing Factors in Perception." *Journal of Abnormal and Social Psychology*, 42(1), 1947, 33–44.
-- Bruner, J. S., Goodnow, J. J. & Austin, G. A. *A Study of Thinking*. Wiley, 1956.
-- Bruner, J. S. *The Process of Education*. Harvard University Press, 1960.
-- Wood, D., Bruner, J. S. & Ross, G. "The Role of Tutoring in Problem Solving." *Journal of Child Psychology and Psychiatry*, 17(2), 1976, 89–100.
-- Bruner, J. S. *Actual Minds, Possible Worlds*. Harvard University Press, 1986.
-- Bruner, J. S. *Acts of Meaning*. Harvard University Press, 1990.
+- Bruner, J. S., & Goodman, C. C. (1947). "Value and need as organizing factors in perception". *Journal of Abnormal and Social Psychology*, 42(1), 33–44.
+- Bruner, J. S., Goodnow, J. J., & Austin, G. A. (1956). *A Study of Thinking*. New York: Wiley.
+- Bruner, J. S. (1960). *The Process of Education*. Cambridge, MA: Harvard University Press.
+- Wood, D., Bruner, J. S., & Ross, G. (1976). "The role of tutoring in problem solving". *Journal of Child Psychology and Psychiatry*, 17(2), 89–100.
+- Bruner, J. S. (1983). *Child's Talk: Learning to Use Language*. New York: W. W. Norton.
+- Bruner, J. S. (1986). *Actual Minds, Possible Worlds*. Cambridge, MA: Harvard University Press.
+- Bruner, J. S. (1990). *Acts of Meaning*. Cambridge, MA: Harvard University Press.
+- Carter, L. F., & Schooler, K. (1949). "Value, need, and other factors in perception". *Psychological Review*, 56(4), 200–207.
+- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). "Why minimal guidance during instruction does not work". *Educational Psychologist*, 41(2), 75–86.
+- Mayer, R. E. (2004). "Should there be a three-strikes rule against pure discovery learning?". *American Psychologist*, 59(1), 14–19.
