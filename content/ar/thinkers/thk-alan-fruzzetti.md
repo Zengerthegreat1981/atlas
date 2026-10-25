@@ -41,7 +41,7 @@ gaps:
 
 طوّر فروزّيتي مع **بيري د. هوفمان** برنامج «Family Connections» التثقيفي لأسر مرضى اضطراب الشخصية الحدّية (Fruzzetti & Hoffman, 2005)، والذي:
 - يُعلّم أفراد الأسرة **مهارات DBT** للانتباه الذهني، تحمل الضيق، التنظيم الانفعالي.
-- يساعد الأهل على **تقليل السلوك المسهّل للبشاعة** (BPD-enabling behaviors).
+- يساعد الأهل على **تقليل السلوك المُديم للاضطراب** (BPD-enabling behaviors).
 - يُركّز على **بناء بيئة أسرية داعمة** للتعافي.
 
 ### 2. التركيز على البيئة الأسرية
@@ -58,6 +58,10 @@ gaps:
 - تقنيات العلاج الزوجي (Gottman، Johnson).
 - التركيز على **العلاقة كمنظومتين انفعاليتين** تتفاعلان.
 
+### 4. التصديق (Validation) بوصفه محور العمل
+
+يتقاطع كل ما سبق عند مفهوم «التصديق»، وهو أن يُظهر الشخص لمن أمامه أن مشاعره وأفكاره مفهومة ومنطقية في سياقها، وهو ما ركّز عليه فروزّيتي في الأزواج والأسر أكثر من لينهان في العلاج الفردي. ويرى مع شينك وهوفمان (2005، *Development and Psychopathology*) أن اضطراب الانفعال لدى الفرد وبيئة التبخيس الأسرية يتبادلان التأثير عبر الزمن: فالحساسية الانفعالية العالية تثير ردود أفعال متقلبة من المحيطين، وهذه الردود تزيد حدة الانفعال، وهكذا يتحول النمط إلى دائرة تعزّز نفسها. ولذلك لا يكفي علاج الفرد وحده، بل ينبغي تدريب أسرته على التصديق وتنظيم انفعالاتها هي. وعرض هذا الموقف في فصله مع إيفرسون (2004) عن العلاقات الزوجية وفي *The High-Conflict Couple* (2006) بصورة موجهة للقارئ العام.
+
 ## المؤلفات
 
 - *The High-Conflict Couple: A Dialectical Behavior Therapy Guide to Finding Peace, Intimacy, and Validation* (2006).
@@ -67,9 +71,11 @@ gaps:
 
 ## المصادر
 
-- [Alan Fruzzetti — Department of Psychology, University of Nevada, Reno](https://www.unr.edu/psychology/alan-fruzzetti)
-- [Alan E. Fruzzetti, PhD — BioMed Well-Being Program, Brown University](https://well-being.biomed.brown.edu/people/alan-e-fruzzetti-phd)
-- [Center for DBT and Families — Meet Our Team](https://www.centerfordbtandfamilies.com/meet-our-team)
+
+- Hoffman, P. D., Fruzzetti, A. E., Buteau, E., et al. (2005). Family Connections: A program for relatives of persons with borderline personality disorder. *Family Process*, 44(2), 217–225.
+- Fruzzetti, A. E., Shenk, C., & Hoffman, P. D. (2005). Family interaction and the development of borderline personality disorder: A transactional model. *Development and Psychopathology*, 17(4), 1007–1030.
+- Fruzzetti, A. E. (2006). *The High-Conflict Couple: A Dialectical Behavior Therapy Guide to Finding Peace, Intimacy, and Validation*. New Harbinger Publications.
+- Fruzzetti, A. E. & Iverson, K. M. (2004). Mindfulness, acceptance, validation, and "individual" psychopathology in couples. In S. C. Hayes, V. M. Follette, & M. M. Linehan (eds.), *Mindfulness and Acceptance*. Guilford Press.
 
 ## الأثر والإرث
 
@@ -77,3 +83,5 @@ gaps:
 - شارك في تأسيس **«مركز DBT والعائلات» (Center for DBT and Families)**، وهو مركز تدريبي وسريري مستقل، وليس تابعاً لجامعة نيفادا كما ورد سابقاً بشكل غير دقيق.
 - ألهم أجيالاً من الباحثين لتطبيق **مبادئ DBT في السياقات الأسرية والاجتماعية**.
 - ساهم في **تقليل وصمة العار** عن BPD من خلال تثقيف الأسر عبر برنامج Family Connections الذي تبنّته NEA-BPD.
+
+- أظهرت أولى دراسات «Family Connections» (هوفمان وفروزّيتي وبوتو وآخرون، 2005، *Family Process*) انخفاض الشعور بالعبء والحزن لدى أفراد الأسرة وزيادة تمكّنهم بعد جلسات جماعية قصيرة، وقد جرى تقييمه بعد ذلك في دراسات في السويد وأيرلندا. ومع ذلك تقتصر الأدلة الأولى على عينات صغيرة ومقارنات قبل الدورة وبعدها، وتحتاج إلى تجارب ضابطة أوسع.

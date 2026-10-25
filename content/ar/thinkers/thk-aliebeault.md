@@ -43,9 +43,13 @@ gaps:
 - **التطبيق العلاجي المجاني الممنهج للتنويم**: من أوائل من مارسوا التنويم كأداة علاجية يومية داخل عيادة طبية عادية، لا كعرض علني أو تجربة معملية.
 - **تأسيس "مدرسة نانسي"**: مع برنهايم وليجوا وبونيس، في مواجهة نظرية شاركو المرضية للتنويم — نزاع نظري أثّر مباشرة في تكوّن فرويد المبكر قبل تحوّله عن التنويم إلى التداعي الحر.
 
+وأخرج ليبو لاحقاً أعمالاً أخرى تُوسّع النظرية والتطبيق، منها *Le sommeil provoqué et les états analogues* (1889) و*Thérapeutique suggestive* (1891) الذي يجمع الآلية والتقنية ونتائج العلاج، كما كتب *Étude sur le zoomagnétisme* (1883) الذي أظهر فيه اهتماماً بظواهر أبعد من التنويم العلاجي. وكان يؤمن بأن التركيز الذهني على الفكرة المقترحة هو شرط التنويم، وبأن الإيحاء في اليقظة وفي النوم المستحث يختلف في الدرجة لا في النوع، وهي الفكرة التي طوّرها برنهايم في *De la suggestion* (1884، 1886).
+
 ## موقعه من التيار
 
 يمثّل الحلقة المؤسِّسة لمدرسة نانسي، التي ركّزت على الإيحاء والتطبيق العلاجي العملي، في مقابل "مدرسة باريس" (شاركو) التي ربطت التنويم بالاستعداد الهستيري. تلمذة برنهايم عنده، ثم تفوّق برنهايم النظري لاحقاً، جعلا اسم ليبو يُذكر غالباً بوصفه "المؤسس العملي" الذي مهّد لتنظير برنهايم الأشمل.
+
+وقد انتهى الجدل بين المدرستين لصالح نانسي في نظر أكثر المؤرخين، فالمظاهر الدرامية المنتظمة التي وصفها شاركو في «مراحل» التنويم الثلاث بدت نتاج إيحاء مسبق وتدريب المريضات في السالبتريير، لا ظاهرة عصبية ثابتة. ويؤخذ على ليبو وبرنهايم في المقابل أن تقاريرهما العلاجية لم تكن تجارب ضابطة، وأن قدراً من المبالغة في ما نسباه إلى الإيحاء من شفاء أمراض عضوية كان شائعاً، وأن نظرية الإيحاء بقيت عامة لا تفسّر كيف يحدث التغير ولا لماذا يستجيب بعض الناس أكثر من غيرهم.
 
 ## أهم أعماله
 
@@ -53,7 +57,8 @@ gaps:
 
 ## المصادر
 
-- Ambroise-Auguste Liébeault, *Du sommeil et des états analogues considérés surtout au point de vue de l'action du moral sur le physique* (Paris: Masson, 1866).
-- "Ambroise-Auguste Liébeault", Wikipedia (en.wikipedia.org/wiki/Ambroise-Auguste_Liébeault).
-- "Nancy School", Wikipedia (en.wikipedia.org/wiki/Nancy_School).
-- Henri F. Ellenberger, *The Discovery of the Unconscious* (New York: Basic Books, 1970) — للسياق العام لتاريخ التنويم ومدرستَي نانسي وباريس (مرجع خلفية، لم يُقتبس منه حرفياً هنا).
+
+- Liébeault, A.-A. (1866). *Du sommeil et des états analogues considérés surtout au point de vue de l'action du moral sur le physique*. Masson.
+- Liébeault, A.-A. (1891). *Thérapeutique suggestive: son mécanisme, propriétés diverses du sommeil provoqué et des états analogues*. Octave Doin.
+- Bernheim, H. (1886). *De la suggestion et de ses applications à la thérapeutique*. Octave Doin.
+- Ellenberger, H. F. (1970). *The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry*. Basic Books.

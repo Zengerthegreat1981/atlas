@@ -35,19 +35,30 @@ gaps:
 - **برنامج "Couple CARE" للتثقيف الزوجي**: هالفورد هو المؤلف الرئيسي لهذا البرنامج الوقائي/التثقيفي (وحداته الست: التغيير الذاتي، التواصل، الحميمية والرعاية، إدارة الاختلافات، الجنسانية، والنظر إلى الأمام)، الذي يوجَّه لأزواج ما قبل ظهور الأزمات، بخلاف برنامج PREP الأمريكي (Markman وStanley) الذي يشتغل على مسار مواز في هذا الحقل.
 - **أبحاث عن فعالية التدخلات الزوجية في السياق الواسع (تدريب مهنيين، تحويل نتائج البحث إلى ممارسة)**: من أبرز اهتماماته المتأخرة الفجوة بين "الفعالية التجريبية" (efficacy) و"الفعالية الواقعية" (effectiveness) في العلاج الزوجي.
 
+وفي العلاج الذاتي التنظيمي يطلب المعالج من كل شريك أن يضع هدفاً لتغيير نفسه لا لتغيير الآخر، وأن يراقب سلوكه، ويختار ما يجرّبه، ثم يقيّم نتيجته، ويعمل المعالج مدرّباً يساعد على هذه الدورة بدل أن يكون من يقرّر. ويُراد بهذا أن يتعلم الزوجان أسلوباً يطبقانه بعد انتهاء العلاج، فلا يعتمد التحسن على حضور المعالج. وفي الجانب البحثي شارك هالفورد مع ساندرز وبيهرنز في دراسة (1993، *Journal of Consulting and Clinical Psychology*) قارنت العلاج السلوكي الزوجي بصيغة معززة منه بشأن تعميم المكاسب خارج الجلسات، وهي من الأعمال التي ربطت اسمه بمسألة استدامة التحسن.
+
 ## موقعه من التيار
 
 يقف هالفورد عند تقاطع تقاليد العلاج المعرفي-السلوكي الزوجي الأمريكية (إبستين، بيكوم) وتطبيقها وتكييفها في السياق الأسترالي، مع تحوّل تدريجي في مسيرته من العلاج العلاجي البحت إلى برامج التثقيف والوقاية الزوجية على نطاق واسع (تدريب مهنيين في عدة دول).
 
+أما برنامج «Couple CARE» فقد قُيّم في دراسة هالفورد وزملائه (2004، *Family Relations*) على أزواج تلقوه بصيغة مرنة عن بُعد أو بالمجموعات، وفحصت أبحاثه ما يبقى من أثر التثقيف العلاقي. وفي مراجعة مع بودنمان (2013، *Clinical Psychology Review*) وجد أن مكاسب الرضا تحتفظ بأثر صغير إلى متوسط بعد التدخل لكنه يضعف مع الوقت. وأشار مع ماركمان وكلاين وستانلي (2003) إلى معايير «أفضل الممارسات» في تثقيف الأزواج، ومنها أن يكون المحتوى مبنياً على الدليل وأن يتدرّب القائمون عليه.
+
+ومن حدود هذا الإنتاج أن أكثر أبحاث تثقيف الأزواج تجذب أزواجاً أصحاء نسبياً ومرتفعي التعليم، بينما الأزواج الأعلى خطراً هم الأقل مشاركة، وأن نتائج الرضا بعد التدخل متواضعة ومتناقصة مع الوقت، وأن قياس النجاح بالرضا عن العلاقة لا يغطي معنى الاستقرار أو العنف الأسري.
+
 ## أهم أعماله
 
 - *Brief Therapy for Couples: Helping Partners Help Themselves* (Guilford Press، 2001).
-- *Marriage and Relationship Education: What Works and How to Provide It* (Guilford Press، مع بندت F. Markman وآخرين في مجاله البحثي، مع مؤلفين مشاركين حسب الطبعة).
+- *Marriage and Relationship Education: What Works and How to Provide It* (Guilford Press، 2011).
 - مقالات بحثية عديدة، منها في *Journal of Family Psychology*.
+
+وفي مقال «الفجوة بين فاعلية بحوث علاج الأزواج وفعاليتها في الممارسة» (هالفورد وبيبينغ وبيتش، 2016) أوضح أن أغلب التجارب تتم في ظروف مضبوطة على أزواج مختارين وأن نتائج العيادات الفعلية قد تكون أضعف، فدعا إلى تدريب أفضل للمعالجين وبحث في الظروف الواقعية. وهو ما يضع هالفورد في موضع الباحث الذي يراجع حدود حقله بنفسه.
+
+وقد كتب مع ماركمان وستانلي (2008، *Journal of Family Psychology*) عن تثقيف الأزواج بوصفه شأناً للسياسات الاجتماعية والصحة العامة لا خدمة خاصة فقط.
 
 ## المصادر
 
-- الصفحة الرسمية لهالفورد، مدرسة علم النفس، جامعة كوينزلاند: https://psychology.uq.edu.au/profile/3460/kim-halford
-- Guilford Press، صفحة المؤلف: https://www.guilford.com/author/W-Kim-Halford
-- Routledge، صفحة كتاب *Marriage and Relationship Education*: https://www.routledge.com/Marriage-and-Relationship-Education-What-Works-and-How-to-Provide-It/Halford/p/book/9781462503322
-- AACBT، ترشيح الزمالة: https://www.aacbt.org.au/fellows-awards/kim-halford/
+
+- Halford, W. K. (2001). *Brief Therapy for Couples: Helping Partners Help Themselves*. Guilford Press.
+- Halford, W. K. (2011). *Marriage and Relationship Education: What Works and How to Provide It*. Guilford Press.
+- Halford, W. K., Markman, H. J., Kline, G. H., & Stanley, S. M. (2003). Best practice in couple relationship education. *Journal of Marital and Family Therapy*, 29(3), 385–406.
+- Halford, W. K., Pepping, C. A., & Petch, J. (2016). The gap between couple therapy research efficacy and practice effectiveness. *Journal of Marital and Family Therapy*, 42(1), 32–44.

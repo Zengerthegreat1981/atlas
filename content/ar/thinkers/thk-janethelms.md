@@ -24,7 +24,7 @@ gaps:
 
 # جانيت هيلمز
 
-أستاذة علم نفس أمريكية، حصلت على الدكتوراه من جامعة ولاية آيوا عام 1975، وعملت في جامعة واشنطن ستيت ثم جامعة إلينوي الجنوبية، فجامعة ماريلاند (College Park) بين 1981 و1999، قبل أن تنتقل إلى كلية بوسطن (Boston College) عام 2000، حيث شغلت كرسي «أوغسطس لونغ» في قسم الإرشاد والتربية وعلم النفس التطوري، وأدارت «معهد دراسة العرق والثقافة وترقيته»، وهي الآن أستاذة متفرغة (Professor Emeritus). من أبرز المنظّرات في **نموذج الهوية العرقية** (Racial Identity) وتطبيقه على الاستشارات والعلاج النفسي.
+أستاذة علم نفس أمريكية، حصلت على الدكتوراه من جامعة ولاية آيوا عام 1975، وعملت في جامعة إلينوي الجنوبية، فجامعة ماريلاند (College Park) بين 1981 و1999، قبل أن تنتقل إلى كلية بوسطن (Boston College) عام 2000، حيث شغلت كرسي «أوغسطس لونغ» في قسم الإرشاد والتربية وعلم النفس التطوري، وأدارت «معهد دراسة العرق والثقافة وترقيته»، وهي الآن أستاذة متفرغة (Professor Emeritus). من أبرز المنظّرات في **نموذج الهوية العرقية** (Racial Identity) وتطبيقه على الاستشارات والعلاج النفسي.
 
 ## ما أعطته
 
@@ -35,16 +35,31 @@ gaps:
 
 ## موقعها من التيار
 
-هيلمز من أهم الأصوات التي وسّعت تعريف «الكفاءة الثقافية» ليشمل **وعي المعالج بهويته العرقية-الثقافية الخاصة**، وليس فقط معرفته بثقافة العميل.
+هيلمز من أهم الأصوات التي وسّعت تعريف «الكفاءة الثقافية» ليشمل **وعي المعالج بهويته العرقية-الثقافية الخاصة**، وليس فقط معرفته بثقافة العميل؛ فبينما ركّزت أدبيات الكفاءة الثقافية السابقة على تدريب المعالج على فهم خلفية العميل الثقافية، أضافت هيلمز بُعداً غائباً: أن المعالج الأبيض نفسه يمرّ بمراحل تطوّر في وعيه بعرقه (من الإنكار إلى المواجهة فالاندماج) تؤثر مباشرة في جودة عمله الإكلينيكي، تماماً كما يمرّ العميل من خلفية عرقية مختلفة بمراحل مماثلة في تشكّل هويته.
+
+ومن إسهاماتها في الاستشارة «نموذج التفاعل» (1984) الذي يحلّل العلاقة العلاجية على أساس مرحلة هوية المعالج ومرحلة هوية العميل معاً: فإن تشابهت الحالتان فالتفاعل «متوازٍ»، وإن كان العميل أكثر تقدماً من المعالج فالتفاعل «تراجعي» ويؤدي غالباً إلى انسحاب العميل، وإن كان المعالج أكثر تقدماً فالتفاعل «تقدمي»، وإن تباعدت وجهتاهما فالتفاعل «متقاطع». وفي نقد القياس كتبت هيلمز (1992، *American Psychologist*) أن اختبارات القدرة المعرفية المقنّنة لا تثبت تكافؤها الثقافي بين الجماعات العرقية، وهو من أكثر مقالاتها استشهاداً.
+
+## نموذج مراحل الهوية العرقية بالتفصيل
+
+بنت هيلمز نموذجها للهوية العرقية السوداء على خمس مراحل تطوّرية غير خطية بالضرورة: الانغماس المسبق (تبنّي قيم المجتمع الأبيض المهيمن دون مساءلة)، فالمواجهة (صدمة إدراك التمييز العنصري)، فالانغماس-الخروج (انغماس مضاد في الهوية السوداء مع رفض كل ما هو أبيض)، فالاستدخال (استقرار هوية سوداء آمنة)، فالاستدخال-الالتزام (توسيع الالتزام نحو العدالة الاجتماعية الأوسع). وقد طوّرت نموذجاً موازياً للهوية العرقية البيضاء يفترض أن البيض أيضاً يمرّون بمسار تطوّري من العمى تجاه عرقهم إلى وعي نقدي به، بدل افتراض أن "البياض" حالة افتراضية محايدة لا تحتاج تفسيراً.
+
+وفي صيغتها المعدَّلة (1995) فضّلت هيلمز لفظ «الحالات الأنوية» (ego statuses) على «المراحل» لأن الشخص قد يعمل من أكثر من حالة في الوقت نفسه ولا يمرّ بتسلسل صارم. وللنموذج الأبيض ست حالات: التماس (عدم الوعي بالامتياز)، فالتفكك (إدراك الصراع الأخلاقي)، فإعادة الاندماج (تحوّل الارتباك إلى لوم الضحية أو الدفاع عن البياض)، فالاستقلال الزائف (التعاطف الفكري مع غير البيض دون تغيير الذات)، فالانغماس-الانبثاق (البحث عن معنى جديد للبياض)، فالاستقلال (هوية غير عنصرية مبنية على الوعي والعمل).
 
 ## أهم أعمالها
 
 - *Black and White Racial Identity: Theory, Research, and Practice* (1990).
-- *A Race Is a Nice Thing to Have: A Guide to Being a White Person or Understanding the White Persons in Your Life* (طبعة أولى 2000؛ طبعات لاحقة منقّحة حتى 2020).
+- *A Race Is a Nice Thing to Have: A Guide to Being a White Person or Understanding the White Persons in Your Life* (طبعة أولى 1992، ثم طبعات منقّحة لاحقة).
+
+- Helms, J. E. & Cook, D. A. (1999). *Using Race and Culture in Counseling and Psychotherapy: Theory and Process*. Allyn & Bacon.
+- Helms, J. E. (1984). Toward a theoretical explanation of the effects of race on counseling: A Black and White model. *The Counseling Psychologist*, 12(4), 153–165.
+
+
+## النقد
+ومن الانتقادات الموجّهة إلى مقاييسها أن ثبات بعض المقاييس الفرعية في مقاييس اتجاهات الهوية العرقية السوداء والبيضاء جاء متواضعاً، وأن تصنيف الأفراد إلى مراحل أو حالات يختزل تعقيد التجربة، وهي انتقادات دفعت إلى مراجعات لاحقة لنموذج كروس (1991) من باحثين آخرين.
 
 ## المصادر
 
-- Janet E. Helms, Wikipedia — https://en.wikipedia.org/wiki/Janet_E._Helms
-- Janet Helms, History of Counseling, iResearchNet — https://psychology.iresearchnet.com/counseling-psychology/history-of-counseling/janet-helms/
-- Janet Helms, Lynch School of Education and Human Development, Boston College — https://www.bc.edu/bc-web/schools/lynch-school/faculty-research/faculty-directory/janet-helms.html
-- Boston College Psychologist Janet E. Helms Honored With Two Lifetime Achievement Awards, Journal of Blacks in Higher Education (2018) — https://jbhe.com/2018/09/boston-college-psychologist-janet-e-helms-honored-with-two-lifetime-achievement-awards/
+- Helms, J. E. (1984). Toward a theoretical explanation of the effects of race on counseling: A Black and White model. *The Counseling Psychologist*, 12(4), 153–165.
+- Helms, J. E. (ed.). (1990). *Black and White Racial Identity: Theory, Research, and Practice*. Greenwood Press.
+- Helms, J. E. & Cook, D. A. (1999). *Using Race and Culture in Counseling and Psychotherapy: Theory and Process*. Allyn & Bacon.
+- Helms, J. E. (1992). Why is there no study of cultural equivalence in standardized cognitive ability testing? *American Psychologist*, 47(9), 1083–1101.

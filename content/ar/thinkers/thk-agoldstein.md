@@ -38,9 +38,13 @@ gaps:
 - **The Prepare Curriculum** (1988): منهج موسّع يضمّ عشرة مكوّنات تدريبية تكميلية (منها التدريب على حل المشكلات والتفاوض) موجَّه للمراهقين العدوانيين، صدر بالاشتراك مع فريق من الباحثين.
 - **مفهوم "Skill Deficits"**: إعادة تأطير العدوانية كنقص في مهارات اجتماعية قابلة للتعلّم لا كضعف أخلاقي أو سمة شخصية ثابتة — الأساس النظري الذي يقوم عليه المنهج بأكمله.
 
+وقد بدأ غولدشتاين باحثاً في العلاج النفسي نفسه، فكتب *Psychotherapeutic Attraction* (1966، دار Pergamon) عن شروط جاذبية العلاقة العلاجية ونجاحها، وشارك هيلر وسيكرست في *Psychotherapy and the Psychology of Behavior Change* (1966، دار Wiley). ثم نقل اهتمامه إلى المرضى والفئات الفقيرة التي لا تستفيد من العلاج الحواري التقليدي فبنى «العلاج بالتعلم المنظّم» (Structured Learning Therapy، 1973) المستند إلى نظرية التعلم الاجتماعي عند باندورا. وهو يعلّم المهارة عبر أربع خطوات: النمذجة (يرى المتدرّب نموذجاً يؤدي المهارة)، ولعب الدور (يمارسها)، والتغذية الراجعة من المدرّب والمجموعة، ونقل التدريب (واجبات تطبّقها في الواقع). وعلى هذا الأساس قامت وحدات ART، ويستند التحكم في الغضب إلى برنامج نوفاكو (1975)، أما وحدة التفكير الأخلاقي فتعتمد على أعمال كولبرغ وتطويرات جون غيبز في مستويات التفكير الاجتماعي-الأخلاقي.
+
 ## موقعه من التيار
 
 يقف غولدشتاين عند ملتقى علم النفس السريري، علم النفس التربوي، والعدالة الجنائية. أسّس مركز أبحاث العدوانية (Center for Research on Aggression) في جامعة سيراكيوز (Syracuse University)، وفي أواخر مسيرته أسّس المركز الدولي لتدريب استبدال العدوانية (ICART) لنشر البرنامج عالمياً، والذي يرعى مؤتمراً دولياً دورياً في مالمو بالسويد. يُعدّ ART اليوم من أكثر البرامج المعتمدة في المؤسسات الإصلاحية حول العالم.
+
+وقد صدرت بعد وفاته طبعة ثالثة من *Aggression Replacement Training* (2011، دار Research Press) حرّرها غليك وغيبز، فاستمر البرنامج في التطور بإشراف زملائه.
 
 ## أهم أعماله
 
@@ -51,7 +55,13 @@ gaps:
 ## القيد
 - **نقد ART**: يرى بعض النقاد أن إقحام البعد الأخلاقي داخل البرنامج يحوّله إلى أيديولوجيا أكثر منه تقنية.
 
+- **تقييم الأثر**: خلصت مراجعة منهجية لبرانستروم وزملائه (2016) إلى أن الدراسات المنشورة عن ART قليلة الجودة وأن الأدلة على خفض العدوان والعود إلى الجريمة محدودة وغير حاسمة، مع أن بعض الدراسات تذكر تحسناً في مهارات الغضب والمهارات الاجتماعية؛ ويجعل ذلك ART برنامجاً شائع الاستعمال أكثر مما هو مثبت.
+- **تعدد المؤلفات**: ألّف غولدشتاين أعمالاً أخرى عن العصابات والعنف الجماعي، منها *Delinquent Gangs* (1991) و*The Psychology of Group Aggression* (2002)، وطبّق فيها منظوراً نفسياً اجتماعياً على ظواهر لا يغطيها ART وحده.
+
 ## المصادر
-- مقالة "Arnold P. Goldstein" في ويكيبيديا الإنجليزية (تواريخ الميلاد/الوفاة، جامعة سيراكيوز، ICART).
-- صفحات Research Press وAmazon الخاصة بطبعتي *Aggression Replacement Training* (1987 و1998) وسلسلة *Skillstreaming*، لضبط قوائم المؤلفين وسنوات النشر.
-- موقع aggressionreplacementtraining.com ووثيقة ملخّص أبحاث ART (uscart.org) للتحقق من بنية البرنامج الثلاثية.
+
+- Goldstein, A. P., Heller, K., & Sechrest, L. B. (1966). *Psychotherapy and the Psychology of Behavior Change*. Wiley.
+- Goldstein, A. P. (1973). *Structured Learning Therapy: Toward a Psychotherapy for the Poor*. Academic Press.
+- Goldstein, A. P. & Glick, B. (1987). *Aggression Replacement Training: A Comprehensive Intervention for Aggressive Youth*. Research Press.
+- Goldstein, A. P., Glick, B., & Gibbs, J. C. (1998). *Aggression Replacement Training* (rev. ed.). Research Press.
+- Brännström, L., Kaunitz, C., Andershed, A.-K., South, S., & Smedslund, G. (2016). Aggression replacement training (ART) for reducing antisocial behavior in adolescents and adults: A systematic review. *Aggression and Violent Behavior*, 27, 30–41.
