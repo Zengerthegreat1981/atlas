@@ -51,8 +51,14 @@ gaps:
 
 أكثر ما نوقش في PCIT **إجراء الانضباط في مرحلة PDI**: كرسي المهلة ثم الغرفة الاحتياطية للطفل الذي يرفض المهلة. الإجراء مقنّن ومحسوب بالثواني في الدليل، ومع ذلك يرفضه جزء من ممارسي الرعاية المستنيرة بالصدمة كإجراء قسري على طفل قد يكون هو نفسه ناجياً من إساءة — وهي مسألة قيمة لا مسألة نتيجة، إذ إن نتائج الأداة (ECBI) تتحسّن فعلاً. ومصدر توتّر ثانٍ أن المُخرَج الأساسي في معظم تجارب PCIT هو تقرير الوالد نفسه على ECBI، أي أن المُقاس قد يكون تغيّر تحمّل الوالد بقدر ما يكون تغيّر سلوك الطفل.
 
+## الأدلة والتطبيق الإكلينيكي
+
+لم يبقَ PCIT نموذجاً أكاديمياً بل دُرس في تجارب عديدة. فقد قارنت مراجعة منهجية وتحليل بعدي لتوماس وزيمر-جيمبك (2007) في «مجلة علم نفس الطفل الشاذ» بين PCIT وبرنامج «ترايبل بي» لتدريب الوالدين، وخلصت إلى تحسن واضح في سلوك الأطفال في كليهما. وفي تجربة شافين وزملائه (2004) في «مجلة الاستشارة والعلاج النفسي الإكلينيكي» قُورن PCIT بالخدمة المعتادة مع آباء مسيئين جسدياً، فكانت معدلات تكرار البلاغات عن الإساءة أقل في مجموعة PCIT. وصدر عن إيبِرغ وفاندربنك «بروتوكول العلاج التفاعلي بين الوالد والطفل» (2011) الذي يضبط خطوات العلاج ومعايير الانتقال بين مرحلتيه، ويستعمله المعالجون المعتمدون عبر شبكة PCIT الدولية.
+
 ## المصادر
 
 - Eyberg, S. M., & Ross, A. W. (1978). "Assessment of child behavior problems: The validation of a new inventory". *Journal of Clinical Child Psychology*, 7(2), 113–116.
 - Eyberg, S. M., & Pincus, D. (1999). *ECBI & SESBI-R: Professional Manual*. Lutz, FL: Psychological Assessment Resources.
 - Eyberg, S. M., Nelson, M. M., & Boggs, S. R. (2008). "Evidence-based psychosocial treatments for children and adolescents with disruptive behavior". *Journal of Clinical Child and Adolescent Psychology*, 37(1), 215–237.
+- Eyberg, S. M., & Funderburk, B. W. (2011). *Parent-Child Interaction Therapy Protocol*. Gainesville, FL: PCIT International.
+- Chaffin, M., et al. (2004). "Parent-Child Interaction Therapy with Physically Abusive Parents: Efficacy for Reducing Future Abuse Reports." *Journal of Consulting and Clinical Psychology*, 72(3), 500–510.

@@ -29,8 +29,8 @@ gaps:
 ## ما أعطاه
 
 - **أداة MacCAT-T (MacArthur Competence Assessment Tool for Treatment)**: أداة مرجعية في تقييم قدرة المريض على فهم العلاج واتخاذ قراره.
-- **كتب تأسيسية**: *Competence to Stand Trial* (1988)، *Evaluating Competencies* (2003، مع S. L. Gottdiener).
-- **إسهامات في فهم "التواطؤ العلاجي"** (Therapeutic Misconception) في أبحاث الطب النفسي.
+- **كتب تأسيسية**: *Competency to Stand Trial Evaluations: A Manual for Practice* (1988)، و*Evaluating Competencies: Forensic Assessments and Instruments* (طبعة أولى 1986، وثانية 2003، بتأليفه منفرداً).
+- **دراسات القدرة على الموافقة**: مع بول أبلباوم أرسى إطاراً تجريبياً لقياس قدرة المرضى على فهم المعلومة وتقديرها والتفكير فيها والتعبير عن اختيار، وهو إطار تلتقي مخرجاته مع نقاش «التواطؤ العلاجي» الذي صاغه أبلباوم ورفاقه، وإن لم يكن غريسو صاحب المصطلح.
 
 ## موقعه من التيار
 
@@ -38,15 +38,36 @@ gaps:
 
 ## أهم أعماله
 
-- *Competence to Stand Trial* (1988).
-- *A Developing Field: Empirical Research on the Assessment of Competence* (محرر، مع A. M. Wells).
-- *Evaluating Competencies: Forensic Assessments and Instruments* (2003).
+- *Competency to Stand Trial Evaluations: A Manual for Practice* (1988).
+- *Evaluating Competencies: Forensic Assessments and Instruments* (1986، ثم طبعة ثانية 2003).
+- *Double Jeopardy: Adolescent Offenders with Mental Disorders* (2004).
 
 ## القيد
 - **بعض أدواته** (مثل MacCAT-T) تتطلب إجادة اللغة والثقافة، واستخدامها في سياقات غير غربية يحتاج تكييفاً.
 
+## المسار البحثي من الراشدين إلى الأحداث
+
+بدأ غريسو من سؤال عملي يواجهه كل قاضٍ ومعالج: كيف يُعرف أن إنساناً قادر فعلاً على أن يفهم ما يُقال له ويتخذ قراراً؟ ففي كتابه عن «تنازل الأحداث عن حقوقهم» (*Juveniles' Waiver of Rights: Legal and Psychological Competence*، دار نشر Plenum، 1981) بحث في فهم المراهقين لتحذيرات ميراندا، فوجد أن كثيراً منهم، خصوصاً الأصغر سناً وذوي القدرات العقلية المنخفضة، لا يستوعبون معنى الحق في الصمت وفي المحامي استيعاباً يبرر اعتبار التنازل «طوعياً وواعياً». وقد ترجم ذلك لاحقاً إلى أدوات لقياس فهم تحذيرات ميراندا نشرها في تسعينيات القرن العشرين.
+
+وفي ميدان الأهلية للمحاكمة ميّز غريسو بين ثلاث وظائف: فهم الإجراءات القضائية، وتقدير الموقف الشخصي للمتهم فيها، والقدرة على التعاون مع محاميه. وهذا التفكيك نقل التقييم من حكم انطباعي عام على «سلامة العقل» إلى عدة قدرات تُقاس كلٌّ على حدة، وهو ما جعل كتابه *Evaluating Competencies* مرجعاً دراسياً في برامج علم النفس الشرعي.
+
+## دراسات ماك آرثر
+
+شارك غريسو في شبكات البحث التي موّلتها مؤسسة ماك آرثر. ففي دراسة ماك آرثر لأهلية العلاج، التي نُشرت نتائجها في مجلة *Law and Human Behavior* عام 1995 مع أبلباوم وآخرين، قورنت قدرة مرضى الفصام والاكتئاب ومرضى القلب على فهم معلومات العلاج، فتبيّن أن مرضى الفصام ليسوا جميعاً قاصرين عن اتخاذ القرار، وإنما يتفاوتون تفاوتاً كبيراً، وأن كثيراً من الأداء يتحسن حين يُعاد شرح المعلومة بوضوح. ومن هذه الدراسة وُلدت أداة MacCAT-T، ثم نظيرتها المخصصة لأبحاث التجريب السريري. وفي برنامج بحث الأحداث الجانحين أجرى مع زملائه مقارنة بين أهلية المراهقين والراشدين للمحاكمة نُشرت عام 2003، وخلصت إلى أن نسبة معتبرة من المراهقين دون السادسة عشرة يظهرون قصوراً في القدرات ذات الصلة بمحاكمة عادلة، وهي نتيجة استُدل بها في نقاشات السياسة الجنائية للأحداث.
+
+## الأحداث والاضطراب النفسي
+
+في *Double Jeopardy* (مطبعة جامعة شيكاغو، 2004) تناول الأحداث المحتجزين ممن يعانون اضطرابات نفسية، مبيناً أن نسبتهم في مراكز الاحتجاز أعلى بكثير من نسبتهم في عموم المراهقين، وأن النظام القضائي لا يهيّئ لهم خدمة علاجية كافية، فهم يتعرضون لعقوبة وإهمال علاجي معاً. وشارك في تطوير أداة المسح MAYSI-2 التي صُممت لتحديد الحاجات النفسية للأحداث عند دخولهم مؤسسات الاحتجاز، وهي تُستخدم في ولايات أمريكية عديدة. وقاد كذلك المركز الوطني للصحة النفسية وقضاء الأحداث المرتبط بكلية الطب بجامعة ماساتشوستس.
+
+## الحدود والنقد
+
+اعتمدت أدوات غريسو وأبلباوم على مقابلات منظمة ومفاهيم قانونية أمريكية، فاحتاجت في السياقات الأخرى إلى تكييف لغوي وثقافي ومراجعة لمعايير القانون المحلي. ثم إن قياس «القدرة» يظل قراراً قيمياً قبل أن يكون قراراً علمياً، فالعتبة التي تفصل بين الأهلية وعدمها لا تستخلصها الأداة من البيانات، وإنما تحددها المحكمة أو الأخلاق المهنية. ويرى نقاد آخرون أن التركيز على القدرات المعرفية يهمل عوامل مثل الثقة بالمحامي والضغط المؤسسي والخوف، وهي تؤثر في قرار المتهم أكثر مما يؤثر فيه الفهم المجرد. وقد أقرّ غريسو نفسه بأن نتائج الدراسات المعيارية لا تغني عن تقييم فردي دقيق لكل حالة.
+
 ## المصادر
 
 - Grisso, T. (1988). *Competency to Stand Trial Evaluations: A Manual for Practice*. Professional Resource Exchange.
+- Grisso, T. (1981). *Juveniles' Waiver of Rights: Legal and Psychological Competence*. Plenum Press.
+- Grisso, T. (2003). *Evaluating Competencies: Forensic Assessments and Instruments* (2nd ed.). Kluwer Academic/Plenum Publishers.
+- Grisso, T. (2004). *Double Jeopardy: Adolescent Offenders with Mental Disorders*. University of Chicago Press.
 - Grisso, T., & Appelbaum, P. S. (1998). *Assessing Competence to Consent to Treatment: A Guide for Physicians and Other Health Professionals*. Oxford University Press.
-- University of Massachusetts Medical School — صفحة السيرة الأكاديمية الرسمية (National Center for Mental Health and Juvenile Justice).
+- Grisso, T., Steinberg, L., Woolard, J., et al. (2003). Juveniles' competence to stand trial: A comparison of adolescents' and adults' capacities as trial defendants. *Law and Human Behavior*, 27(4), 333–363.

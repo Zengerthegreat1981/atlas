@@ -29,13 +29,13 @@ gaps:
 
 # تاتيانا شنيل
 
-عالمة نفس وباحثة تجريبية ألمانية-نمساوية معاصرة، أستاذة **علم نفس الوجود والمعنى** في **جامعة إنسبروك** وجامعة إم إف يو في أوسلو، ومبتكرة **استبيان مصادر المعنى** (SoMe) واستبيان **MLQ**.
+عالمة نفس وباحثة تجريبية ألمانية-نمساوية معاصرة، أستاذة **علم نفس الوجود والمعنى** في **جامعة إنسبروك** وجامعة إم إف يو في أوسلو، ومبتكرة **استبيان مصادر المعنى** (SoMe) وأحد أبرز مستخدمي استبيان **MLQ** لستيغر وزملائه.
 
 ## ما أعطتها
 
 قدّمت صياغة **تجريبية معاصرة دقيقة** لبحوث **المعنى في الحياة** (Meaning in Life)، مع:
 - **استبيان مصادر المعنى** (Sources of Meaning and Meaning in Life Questionnaire, SoMe، 2009): أداة قياس تقيس 26 مصدراً محتملاً للمعنى (العمل، الأسرة، الفن، الطبيعة، الالتزام، إلخ).
-- **استبيان المعنى في الحياة** (Meaning in Life Questionnaire, MLQ): مقياس ثنائي البُعد يقيس:
+- **استبيان المعنى في الحياة** (Meaning in Life Questionnaire, MLQ، وضعه ستيغر وزملاؤه عام 2006 وتوظفه شنيل في أبحاثها): مقياس ثنائي البُعد يقيس:
   - **«المعنى الإيجابي»** (Presence of Meaning): وجود معنى في الحياة.
   - **«البحث عن المعنى»** (Search for Meaning): البحث عن معنى أعمق.
 
@@ -46,7 +46,7 @@ gaps:
 
 ## موقعها من التيار
 
-تقود **حركة البحث التجريبي الكمي المعاصر** في **علم النفس الوجودي** في أوروبا والعالم. مؤسسة **«المؤتمرات الدولية لسيكولوجيا المعنى»** (Meaning Conference).
+تقود **حركة البحث التجريبي الكمي المعاصر** في **علم النفس الوجودي** في أوروبا والعالم. من الباحثين المشاركين في الحقل الدولي لسيكولوجيا المعنى.
 
 ## القيد
 
@@ -54,15 +54,31 @@ gaps:
 
 ## علاقتها بالمفاهيم والمدارس
 
-ترتبط [بالمعنى](con-meaning) و[بالفراغ الوجودي](con-existential-vacuum) و[بمصادر المعنى](con-sources-of-meaning) و[بـMLQ](ins-mlq) و[بـSoMe](ins-some) و[بـLogotherapy](br-logotherapy) و[بـExistential Psychology](sch-existential-therapy) كمفاهيم مركزية.
+ترتبط [بالمعنى](con-meaning) و[بالفراغ الوجودي](con-existential-vacuum) وبمصادر المعنى و[بـMLQ](ins-mlq) وبـSoMe و[بـLogotherapy](br-logotherapy) و[بـExistential Psychology](sch-existential-therapy) كمفاهيم مركزية.
 
 ## أهم أعمالها
 
-- Schnell, T. (2009). *The Sources of Meaning and Meaning in Life Questionnaire (SoMe)*. Hogrefe.
-- Schnell, T. (2010). "Existential Indifference: A Distinctive Coping Strategy?" *Journal of Humanistic Psychology*, 50(3), 351–369.
+- Schnell, T. (2009). "The Sources of Meaning and Meaning in Life Questionnaire (SoMe): Relations to Demographics and Well-Being." *Journal of Positive Psychology*, 4(6), 483–499.
+- Schnell, T. (2010). "Existential Indifference: Another Quality of Meaning in Life." *Journal of Humanistic Psychology*, 50(3), 351–373.
 - Schnell, T. (2020). *The Psychology of Meaning in Life*. Routledge.
 - Schnell, T., & Becker, P. (2006). "Personality and Meaning in Life." *Personality and Individual Differences*, 41(1), 117–129.
 - مقالات في *Journal of Positive Psychology* و *Frontiers in Psychology*.
+
+## الأصل الألماني للقياس
+
+سبقت استبيانَ مصادر المعنى أداةٌ ألمانية الأصل وضعتها شنيل مع بيتر بيكر، هي «استبيان دلالات الحياة ومعنى الحياة» (LeBe)، وتطورت عنها الصيغة الدولية. ويستند التصميم إلى فرضية أن المعنى لا يُحصر في إحساس عام بأن الحياة ذات معنى، بل يتحصّل من مصادر محددة، كل منها حقل التزام: العمل، والعلاقات الاجتماعية، والتنمية الذاتية، والتجارب الجمالية، والتعالي الأفقي كخدمة المجتمع، والتعالي العمودي كالإيمان بما يفوق العالم المادي. وتُجمع المصادر في أبعاد كبرى، منها التعالي الذاتي والتحقق الذاتي والنظام والرفاه والانتماء، ما يتيح رسم «ملف» معنى لكل فرد أو جماعة.
+
+## تصنيف من يفتقدون المعنى
+
+تميّز شنيل في مقال 2010 بين أنماط أربعة بحسب مستوى المعنى والأزمة: أصحاب المعنى الذين يجدون في حياتهم معنى ولا يعانون أزمة، وأصحاب الأزمة الوجودية الذين يفتقدون المعنى ويعانون من ذلك، والمتشككون الذين يشعرون بالحيرة ويبحثون، والمتبلّدون وجودياً الذين لا يجدون معنى ولا يهتمون بغيابه. وأهمية هذا التصنيف أن اللامبالاة تختلف عن اليأس: فالمتبلد لا يشكو من الفراغ الوجودي، بل يعيش بلا سؤال، وهذا يضع حدوداً على النظرية التي ترى في غياب المعنى مصدراً حتمياً للمعاناة عند فرانكل.
+
+## البحث في العمل والتديّن
+
+طبّقت شنيل منظورها على ميادين محددة. ففي دراسة عن المعنى في العمل مع هوغه وبوليت (2013) في «مجلة علم النفس الإيجابي» بحثت العوامل التي تتنبأ بإحساس العاملين بالمعنى في وظائفهم، وفق إطار نظري يميز أبعاد المعنى في العمل. وفي دراستها مع كينان (2011) تناولت صور المعنى لدى من لا يؤمنون بإله في عالم علماني. وفي دراسة 2011 عن الفروق الفردية في بناء المعنى درست كثافة المصادر وتنوعها بوصفهما خاصيتين تتجاوزان مضمون كل مصدر على حدة.
+
+## الحدود والنقد
+
+تعتمد هذه البحوث على استبيانات ذاتية، مما يجعل القياس عرضة لتأثير الرغبة الاجتماعية ولاختلاف فهم الأسئلة بين الثقافات. وتبقى العلاقة السببية بين المعنى والرفاه غير محسومة في الدراسات المقطعية، إذ قد يكون الرفاه سبباً للإحساس بالمعنى لا نتيجة له. ويؤخذ على المقاربة الكمية بعدها عن الوصف الفينومينولوجي عند فرانكل ولانغله، وإن كانت شنيل تؤكد أنها تكمّل ولا تحل محل التحليل الوجودي. كما أن أهمية فئة المتبلدين وجودياً وحجمها في السكان تحتاجان إلى تكرار البحث خارج العينات الأوروبية.
 
 ## المصادر
 
@@ -70,7 +86,6 @@ gaps:
 - Frankl, V. E. (1946). *Ärztliche Seelsorge*. Deuticke.
 - Längle, A. (2003). *Existenzanalyse und Logotherapie*. LIT.
 - Steger, M. F., et al. (2006). "The Meaning in Life Questionnaire." *Journal of Counseling Psychology*, 53(1), 80–93.
-- University of Innsbruck, Department of Psychology — Faculty Archives.
-- MFU Oslo — Faculty Archives.
-- International Meaning Conference — Conference Archives.
-- Existential Psychology — Conference Archives.
+- Schnell, T., Höge, T., & Pollet, E. (2013). "Predicting Meaning in Work: Theory, Data, Implications." *Journal of Positive Psychology*, 8(6), 543–554.
+- Schnell, T., & Keenan, W. J. F. (2011). "Meaning-Making in an Atheist World." *Archive for the Psychology of Religion*, 33(1), 55–78.
+- Schnell, T. (2011). "Individual Differences in Meaning-Making: Considering the Variety of Sources of Meaning, Their Density and Diversity." *Personality and Individual Differences*, 51(5), 667–673.

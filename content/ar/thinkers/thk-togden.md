@@ -47,8 +47,27 @@ gaps:
 - *This Art of Psychoanalysis: Dreaming Undreamt Dreams and Interrupted Cries* (2005).
 - *Reclaiming Unlived Life: Experiences in Psychoanalysis* (2016).
 
+## من التماهي الإسقاطي إلى «الحافة البدائية»
+
+بدأ أوغدن إنتاجه المنشور بكتاب *Projective Identification and Psychotherapeutic Technique* (جيسون أرونسون، 1982) الذي فصّل فيه مفهوم ميلاني كلاين عن التماهي الإسقاطي بوصفه عملية بين شخصية، يُسقِط فيها المريض جزءاً من خبرته في المحلل ويضغط عليه ليشعر به، فيستخدم المحلل ما يشعر به أداةً للفهم. وفي *The Matrix of the Mind* (1986) درس العلاقة بين نظريات كلاين وفيربيرن ووينيكوت وبيون، وسعى إلى صياغة لغة مشتركة لها. ثم قدّم في *The Primitive Edge of Experience* (1989) مفهوم «الوضع التوحدي الملاصق» (Autistic-Contiguous Position)، وهو نمط أولي من تنظيم الخبرة يقوم على الإحساس بالسطح الجلدي والإيقاع والتماس، سابق على الوضعين اللذين وصفتهما كلاين: الفصامي-الهذياني والاكتئابي. واستند فيه إلى أعمال إستر بيك عن «الجلد الثاني» وفرانسيس تَستن عن الأطفال المتوحدين.
+
+## الثالث التحليلي
+
+بلغت أفكار أوغدن ذروتها في مقاله المنشور في *International Journal of Psychoanalysis* سنة 1994 بعنوان «الثالث التحليلي: العمل مع وقائع سريرية بينذاتية». ويقول فيه إن الجلسة تنشئ كياناً ثالثاً هو الخبرة المشتركة التي لا تعود إلى الطرفين وحدهما، وإن المحلل يلتقطها بما يسميه «الاستغراق الحالم» (Reverie)، أي أفكاره العابرة وصوره وأحلام يقظته أثناء الجلسة، وهي مادة ينبغي أن تُحترم لا أن تُطرد بوصفها تشتتاً. ومعنى ذلك أن ما يفكر فيه المحلل بلا قصد قد يكون أصدق وسيلة للوصول إلى ما لم يستطع المريض أن يحلم به.
+
+## الحلم والتفكير
+
+في كتبه اللاحقة مثل *Conversations at the Frontier of Dreaming* (2001) و*This Art of Psychoanalysis* (روتلدج، 2005) رأى أن وظيفة التحليل ليست تفسير الأحلام فحسب، بل مساعدة المريض على أن يحلم أحلاماً لم يستطع أن يحلمها. وهي صياغة معاصرة لفكرة بيون عن «وظيفة ألفا»، إذ تتحول فيها الانطباعات الحسية الخام إلى خبرة قابلة للتفكير. وقد اتسع اهتمامه إلى القراءة النقدية للنصوص التحليلية، ففي *Rediscovering Psychoanalysis* (2009) و*Creative Readings* (2012) أعاد قراءة نصوص فرويد وبيون وفيربيرن وهانز لويفالد ووينيكوت، بحثاً عن ما يمكن أن يستعاد منها اليوم. وكتب كذلك رواية وقصصاً أدبية، وهو ما ينعكس في اهتمامه باللغة والأسلوب في الكتابة التحليلية.
+
+## الحدود والنقد
+
+تُنتقد فكرة «الثالث التحليلي» من وجهات نظر متعددة. فمن جهة الفكر العلائقي رأت جيسيكا بنيامين أن «الثالثية» عندها تنبني على الاعتراف المتبادل لا على كيان غامض يتولد في الجلسة، وأن صورة أوغدن تبقي سلطة التفسير بيد المحلل. ومن جهة التحليل الكلاسيكي رُفض المفهوم لأنه يغيّر الإطار التقليدي الذي يفترض حياد المحلل. ثم إن اعتماده على رواية جلساته وأحلام يقظته يعني أن الحجة لا تقبل التحقق من خارج السرد السريري. وأخيراً فإن أسلوبه الأدبي المتأنق يجعل بعض نصوصه عسيرة على القارئ المبتدئ.
+
 ## المصادر
 
-- Wikipedia (en), "Thomas Ogden".
-- Ogden, Thomas. "The Analytic Third: Implications for Psychoanalytic Theory and Technique." *International Journal of Psychoanalysis*, 1994.
-- PeoplePill, "Thomas H. Ogden — American psychiatrist, psychoanalyst & novelist".
+- Ogden, T. H. (1994). The analytic third: Working with intersubjective clinical facts. *International Journal of Psychoanalysis*, 75, 3–19.
+- Ogden, T. H. (1994). *Subjects of Analysis*. Jason Aronson.
+- Ogden, T. H. (1989). *The Primitive Edge of Experience*. Jason Aronson.
+- Ogden, T. H. (2005). *This Art of Psychoanalysis: Dreaming Undreamt Dreams and Interrupted Cries*. Routledge.
+- Ogden, T. H. (2016). *Reclaiming Unlived Life: Experiences in Psychoanalysis*. Routledge.
+- Benjamin, J. (2004). Beyond doer and done to: An intersubjective view of thirdness. *Psychoanalytic Quarterly*, 73(1), 5–46.

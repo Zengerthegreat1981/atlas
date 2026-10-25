@@ -25,59 +25,48 @@ gaps:
   - "تفاصيل 'جودة التنفيذ' (Quality of Implementation, QoI) موثّقة في مقالاتها."
   - "**أُزيلت 1 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-pfisher`. كلُّها ملفاتٌ متنُها يعلن أنّه لا يمكن توثيقُ صاحبها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
+
 # سونيا ك. شونوالد
 
-عالمة نفس أمريكية، أستاذة في **كلية الطب في جامعة كارولاينا الجنوبية (MUSC)**، ومن المساهمين المؤسِّسين لـ**MST (Multisystemic Therapy)** كأداة بحثية ومنهجية.
+عالمة نفس أمريكية، أستاذة في **كلية الطب بجامعة كارولاينا الجنوبية (MUSC)**، ومن أبرز مطوّري **MST (Multisystemic Therapy)** وأبحاث نقله من مواقع التجريب إلى الممارسة الميدانية، ومن الأسماء المؤسسة لما صار يُعرف بعلم التطبيق (implementation science) في الصحة النفسية للأطفال.
+
+## السياق والتكوين
+
+عملت شونوالد مع **سكوت هنغلر** منذ التسعينيات في مركز بحوث خدمات الأسرة بالجامعة، حيث انتقل MST من تجارب جامعية إلى برنامج يُدرَّب عليه الممارسون في مواقع متعددة. وكان السؤال الذي استقرّ عندها: لماذا تنجح علاجات مثبتة في التجارب حين يديرها مطوّروها، ثم تتراجع نتائجها حين تُنقل إلى عيادات ومؤسسات عادية؟ ومن هذا السؤال تفرّع عملها في «جودة التنفيذ» و«الأمانة العلاجية» (treatment fidelity) وفي الإشراف السريري.
 
 ## ما أعطتها
 
-- **«Multisystemic Therapy for Antisocial Behavior in Children and Adolescents»** (2002، 2009): الكتاب المرجعي لـMST، شارك في تأليفه مع **هنغلر** و**بوردوين** و**رولاند** و**كَننغهام**.
-- **«Multisystemic Therapy»** (مساهم في كتب أخرى): تطبيقات MST في سياقات دولية.
-- **«MST Quality of Implementation» (QoI)**: أبحاث عن «جودة التنفيذ» في MST، وكيفية ضمان تطابق تطبيق MST مع النموذج الأصلي.
-- **«MST Implementation Research»**: دراسات عن «تنفيذ» MST في 40+ ولاية أمريكية و15+ دولة.
-- **«Building Effective Research Networks» (BERN)**: منهجية لتقييم شبكات البحث في العلاج النفسي.
-- **«Treatment Adherence in Community Settings»**: دراسات عن «التزام العلاج» في سياقات المجتمع.
-
-## «جودة التنفيذ» (Quality of Implementation, QoI)
-
-مفهوم مركزي في عمل شونوالد. الفكرة: **النموذج العلاجي** (MST في هذه الحالة) **لا يعمل في الواقع إلا إذا طُبِّق بجودة عالية**. «الجودة» تُقاس عبر:
-- **«الالتزام بالبروتوكول»** (Protocol Adherence).
-- **«الكفاءة في التنفيذ»** (Competence).
-- **«التميّز في التسليم»** (Fidelity).
-
-## «شبكة بحث MST» (MST Research Network)
-
-شونوالد من المساهمين في **MST Research Network**، وهي شبكة من الباحثين والممارسين في MST. الشبكة:
-- **15+ دولة** (أمريكا، هولندا، الدنمارك، أستراليا، إلخ).
-- **40+ ولاية أمريكية**.
-- **1,000+ ممارس MST معتمد**.
+- **«Multisystemic Treatment of Antisocial Behavior in Children and Adolescents»** (1998؛ طبعة ثانية 2009): الكتاب المرجعي لـMST، شاركت في تأليفه مع **هنغلر** و**بوردوين** و**رولاند** و**كننغهام**، وهو دليل مفصّل لمبادئ النموذج وإجراءاته.
+- **قياس الأمانة العلاجية**: شاركت مع هنغلر وبروندينو ورولاند في ورقة «العلاج متعدد الأنظمة: مراقبة أمانة العلاج» (*Family Process*، 2000)، التي قدّمت مقياس التزام المعالج (TAM) كأداة لقياس مدى التزام المعالج بمبادئ النموذج، وأُلحق به لاحقاً مقياس التزام المشرف ومقياس التزام المستشار.
+- **الإشراف والتطبيق**: أظهرت ورقة هنغلر وشونوالد وليو ولوتورنو وإدواردز (2002) أن ممارسات الإشراف ترتبط بأمانة المعالج في تطبيق MST، وأن المعالجين الأكثر التزاماً يحققون نتائج أفضل مع الأسر. ثم نشرت مع شيدو ولوتورنو (2004) دراسة عن الصلة بين استشارة الخبراء وأمانة المعالج ونتائج الأطفال.
+- **من الفعالية إلى النشر**: كتبت مع كيمبرلي هواغود (2001، *Psychiatric Services*) ورقة «الفعالية والنقل والنشر للتدخلات: ما الذي يهم ومتى؟» التي صارت من النصوص التأسيسية في علم التطبيق، وحدّدت مراحل بين التجارب الخاضعة للضبط والممارسة اليومية.
+- **البنية التحتية لخدمات الأطفال**: شاركت مع هواغود وآخرين (2008) في مسح للبنية التحتية لخدمات الصحة النفسية للأطفال، وناقشت ما يعنيه ذلك لتطبيق العلاجات المدعومة بالأدلة.
+- **السياسات**: نشرت مع هنغلر (2011) في *Social Policy Report* تقريراً عن التدخلات المثبتة للجانحين وسياسات القضاء على الأحداث التي تدعمها، دعت فيه صانعي السياسات إلى تمويل برامج ذات أدلة قوية بدل الإيداع المؤسسي.
+- **الإشراف السريري في أبحاث التطبيق**: درست مع ميهتا وفرازير وشيرنوف (2013) كيف يؤدي الإشراف دوراً في تطبيق العلاج ونتائجه.
 
 ## موقعها من التيار
 
 تنتمي إلى:
-- **«MST»** مع **سكوت هنغلر** و**تشارلز بوردوين** و**ميليسا رولاند**.
-- **«علاج أسري قائم على الأدلة»** (Evidence-Based Family Therapy) مع **Littell, Alexander & Ornstein**.
-- **«بحوث التطبيق»** (Implementation Science) مع **Enola Proctor** (Washington University) و**Bridget Gaglio** (RAND).
+- **MST**: مع **سكوت هنغلر** و**تشارلز بوردوين** و**ميليسا رولاند**، وتعدّ الطرف المنهجي المعنيّ بالتنفيذ والجودة في المجموعة.
+- **علم التطبيق** (Implementation Science): مع باحثين مثل كيمبرلي هواغود وإينولا بروكتور الذين درسوا كيف تنتقل الممارسات المثبتة إلى الخدمات اليومية.
 
-## شُبَكُها العلمية
+وتعتمد نظرتها على أن النموذج العلاجي الفعال لا يظل فعالاً إذا تغيرت شروط تطبيقه، فتجعل الجودة جزءاً من التدخل نفسه، لا إجراءً إدارياً لاحقاً.
 
-- **سكوت هنغلر (Scott Henggeler, 1950–)**: مؤسِّس MST.
-- **تشارلز بوردوين (Charles Borduin, 1950–)**: أستاذ ميسوري، صاحب أدلة MST.
-- **ميليسا رولاند (Melisa D. Rowland)**: زميلتها في MUSC.
-- **بيتر فيشر (Peter Fisher)**: زميل في MST International.
-- **تشارلز كارني (Charles Carney)**: زميل في MST International.
-- **إريك بينس (Eric Pineus, 1957–)**: منظِّر آخر في سياقات MST.
+## الحدود والنقد
 
-## إرثها
+- جاء كثير من الأدلة على فعالية MST من فرق مطوّريه، وهو ما يسمى «ولاء الباحث»، وقد أشار نقّاد مثل ليتل (مراجعة كامبل 2005) إلى أن النتائج أضعف في التجارب المستقلة.
+- أظهرت تجربة START البريطانية (فوناغي وآخرون، 2018) أن MST لم يتفوق في الحد من الإيداع خارج المنزل مقارنة بالخدمات المعتادة، وتعدّ هذه النتيجة اختباراً لفرضية أن الأمانة العلاجية وحدها تحمي النتائج في بيئات مختلفة.
+- يعتمد جزء من قياس الأمانة على تقارير مقدّمي الرعاية، ما يعرّض القياس لتحيز الاستجابة، ويرفع كلفة النموذج في الخدمات ذات الميزانيات المحدودة.
 
-- **MST International**: أنجبت **MST في 15+ دولة**، مع **5,000+ ممارس معتمد**، و**100,000+ أسرة خدمتها**.
-- **«QoI»** كنموذج: اعتُمد من قبل **NREPP (National Registry of Evidence-based Programs and Practices)** و**NICE (UK)**.
+## أهم أعمالها
+
+- *Multisystemic Treatment of Antisocial Behavior in Children and Adolescents* (1998، 2009).
+- «Multisystemic therapy: Monitoring treatment fidelity» (2000، *Family Process*).
+- «Effectiveness, transportability, and dissemination of interventions: What matters when?» (2001، *Psychiatric Services*).
 
 ## المصادر
 
-- Henggeler, S. W., Schoenwald, S. K., Borduin, C. M., Rowland, M. D. & Cunningham, P. B. (2009). *Multisystemic Therapy for Antisocial Behavior in Children and Adolescents* (2nd ed.). Guilford.
-- Schoenwald, S. K. (2008). «Toward Evidence-Based Interventions for Multiproblem Youth: An Introduction to the Special Issue», *Journal of Child & Adolescent Substance Abuse* 17(1): 1–4.
-- Schoenwald, S. K. & Hoagwood, K. (2001). «Effectiveness, Transportability, and Dissemination of Interventions», *Clinical Child Psychology and Psychiatry* 6(4): 525–536.
-- Proctor, E. K. et al. (2009). «Implementation Research in Mental Health Services: An Emerging Science», *Administration and Policy in Mental Health and Mental Health Services Research* 36(1): 24–34.
-- Henggeler, S. W. & Schoenwald, S. K. (2011). *Society of Clinical Child and Adolescent Psychology*. APA.
-- MST Services: https://www.mstservices.com/
+- Henggeler, S. W., Schoenwald, S. K., Borduin, C. M., Rowland, M. D. & Cunningham, P. B. (2009). *Multisystemic Therapy for Antisocial Behavior in Children and Adolescents* (2nd ed.). New York: Guilford Press.
+- Schoenwald, S. K., Henggeler, S. W., Brondino, M. J., & Rowland, M. D. (2000). Multisystemic therapy: Monitoring treatment fidelity. *Family Process*, 39(1), 83–103.
+- Schoenwald, S. K. & Hoagwood, K. (2001). Effectiveness, transportability, and dissemination of interventions: What matters when? *Psychiatric Services*, 52(9), 1190–1197.
+- Proctor, E. K. et al. (2009). Implementation research in mental health services: An emerging science with conceptual, methodological, and training challenges. *Administration and Policy in Mental Health and Mental Health Services Research*, 36(1), 24–34.

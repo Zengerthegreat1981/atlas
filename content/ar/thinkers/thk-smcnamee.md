@@ -26,33 +26,47 @@ gaps:
 
 # شيلا ماكنامي
 
-عالمة نفس أمريكية، أستاذة كرسي في الاتصال في جامعة نيو هامبشاير (UNH). مؤسسة مشاركة ونائب رئيس مجلس إدارة **معهد تاوس (Taos Institute)**، الذي أسّسه مع كينيث جيرغن (Kenneth Gergen) في أواخر التسعينيات.
+عالمة اتصال وعلاج نفسي أمريكية، أستاذة الاتصال في جامعة نيو هامبشاير (UNH). مؤسسة مشاركة ونائب رئيس مجلس إدارة **معهد تاوس (Taos Institute)**، الذي أُسّس عام 1993 مع كينيث جيرغن (Kenneth Gergen) وهارلن أندرسون وآخرين، ليكون منصة لتطوير البنائية الاجتماعية وتطبيقاتها.
+
+## السياق والتكوين
+
+بدأت ماكنامي مسارها من العلاج الأسري النسقي، ودرّست ودرّبت في أجواء مدرسة ميلانو (بوسكولو وسيكين) التي علّمت المعالجين الفضول والحياد والفرضيات الدائرية، ثم انتقلت إلى علم الاتصال الذي يرى أن اللغة والتفاعل هما ما يُنتج المعنى. وفي بداية التسعينيات كانت من أوائل من حاولوا أن يقرأوا ممارسة العلاج من خلال البنائية الاجتماعية، أي الفكرة القائلة إن معرفتنا بالنفس والعالم تتكوّن داخل العلاقات والحوار لا داخل الرأس المنعزل. وهذا ما جعلها شريكة جيرغن في مشروع يمتد من العلاج إلى التنظيم والتعليم والبحث.
 
 ## ما أعطته
 
-- **«Therapy as Social Construction»** (محرِّرة مشاركة مع Gergen, Sage 1992): الكتاب المؤسِّس للعلاج بوصفه بنائية اجتماعية. ضمّ مساهمات من هارلان أندرسون، وأرثر فريدمان، وآخرين.
-- **«Relational Responsibility: Resources for Sustainable Dialogue»** (مع Gergen, Sage 1999): نقد لمفهوم المسؤولية الفردية لصالح المسؤولية العلائقية.
-- **«Research and Social Change: A Relational Constructionist Approach»** (مع Dian Marie Hosking, Routledge 2012): ربط بين أشكال البحث العلمي المختلفة (الإثباتي، التفسيري، البنائي) لصالح مقاربة تحويلية.
-- **«Education as Social Construction»** (محرِّرة مشاركة، Taos 2015).
-- **«The Appreciative Organization»** (2008) مع Gergen وآخرين: تطبيق البنائية في المنظمات.
-- **«The Social Construction of Psychotherapy»** (1996): ورقة مفاهيمية في مجلة H. Rosen & K. T. Kuehlwein (eds.), *Constructing Realities*.
+- **«Therapy as Social Construction»** (محرِّرة مشاركة مع جيرغن، Sage 1992): الكتاب المؤسِّس لقراءة العلاج بوصفه بنائية اجتماعية. ضمّ مساهمات من هارلن أندرسون وآخرين، وطرح أن المعالج لا يكتشف «حقيقة» المريض بل يشارك في إنتاج المعنى معه.
+- **«Relational Responsibility: Resources for Sustainable Dialogue»** (مع جيرغن، Sage 1999): نقد لمفهوم المسؤولية الفردية، واقتراح مسؤولية علائقية ينظر فيها إلى الحوار بوصفه ممارسة مشتركة لا يحتكرها طرف.
+- **«From Disordering Discourse to Transformative Dialogue»** (مع جيرغن، 2000): فصل في كتاب *Constructions of Disorder* لنيماير وراسكين، يقدّم فيه المؤلفان بدائل عن لغة الاضطراب التشخيصية.
+- **«Research and Social Change: A Relational Constructionist Approach»** (مع Dian Marie Hosking, Routledge 2012): ربط بين أشكال البحث العلمي المختلفة (الإثباتي، التفسيري، البنائي) لصالح مقاربة تحويلية، ورفض افتراض أن الباحث خارج ما يدرسه.
+- **«The Appreciative Organization»** (2001، وطبعة منقحة 2008) مع جيرغن وآخرين: تطبيق البنائية في المنظمات عبر الاستقصاء التقديري.
+- **«Education as Social Construction»** (محرِّرة مشاركة، Taos 2015): عن التعليم بوصفه حواراً يبني المعنى لا نقلاً للمعلومات.
+- **«Psychotherapy as a Social Construction»** (1996): ورقة مفاهيمية في كتاب Rosen & Kuehlwein (eds.), *Constructing Realities*.
 
 ## موقعها من التيار
 
-مؤسِّسة مشاركة لـ**«الحركة البنائية الاجتماعية» (Social Constructionism Movement)** في العلاج والبحث. مع هارلن أندرسون طوَّرت «النموذج البنائي العلاجي» كأداة علمية للبحث-التدخُّل، ركّزت فيه على تحويل ممارسات البحث من منطق «قياس» إلى منطق «إعادة البناء الحواري».
+مؤسِّسة مشاركة لـ**«الحركة البنائية الاجتماعية» (Social Constructionism Movement)** في العلاج والبحث. وتعمل في الجانب التطبيقي من المشروع: فجيرغن صاغ الإطار الفلسفي والنفسي الاجتماعي، وماكنامي نقلته إلى الجلسة العلاجية وغرفة الصف والمنظمة. ومع هارلن أندرسون ناقشت ممارسات «العلاج الحواري» و«العلاج التعاوني»، وركّزت على تحويل ممارسات البحث من منطق «القياس» إلى منطق «إعادة البناء الحواري».
+
+## معهد تاوس ومنشوراته
+
+يُدير المعهد برامج تدريب وإصدارات تحت اسم Taos Institute Publications، وتتضمن سلسلة كتب في «التعاون والتغيير» تجمع بين الباحثين والممارسين في الاستشارة والتعليم والتنظيم. وتحيل أعمال ماكنامي المشتركة مع جيرغن إلى مرجعيته الأوسع، مثل *Realities and Relationships* (1994) و*An Invitation to Social Construction* (1999) لجيرغن وحده، التي تشرح الأساس الفلسفي الذي تبني عليه ماكنامي ممارساتها. وهكذا يتشكل المشروع من طبقتين: نظرية يقودها جيرغن، وتطبيق يقوده معها فريق من الممارسين في أمريكا وأوروبا وأمريكا اللاتينية.
 
 ## شُبَكُها العلمية
 
-- **كينيث جيرغن (Kenneth J. Gergen)**: شريكها الفكري، مؤسِّس الحركة البنائية الاجتماعية. رئيس مجلس إدارة Taos.
-- **هارلان أندرسون (Harlene Anderson)**: زميلتها في تطوير العلاج الحواري.
+- **كينيث جيرغن (Kenneth J. Gergen)**: شريكها الفكري، مؤسِّس الحركة البنائية الاجتماعية، وأحد مؤسسي Taos.
+- **هارلن أندرسون (Harlene Anderson)**: زميلتها في تطوير العلاج الحواري.
 - **ماري جيرغن (Mary Gergen)**: رائدة في البنائية النسوية، زميلة في Taos.
 - **معهد تاوس (Taos Institute)**: منظمة غير ربحية لتطوير النظرية البنائية وممارستها.
 
+## الحدود والنقد
+
+- تواجه البنائية الاجتماعية اتهاماً مزمناً بالنسبية: إذا كانت المعاني تُبنى في الحوار فكيف نفرّق بين فهم أصح وآخر أضعف؟ ويردّ أنصارها بأن السؤال لا يتعلق بنفي الواقع بل بالتشديد على أن وصفه دائماً مشروط بعلاقة وسياق.
+- تُنتقد المقاربة البنائية في العلاج لقلة التجارب المضبوطة المقارنة، فالمدرسة تفضّل التقييم التشاركي والنوعي على القياسات المعيارية.
+- ينتقدها بعض الباحثين لأن التركيز على اللغة والعلاقة قد يغفل البعد الجسدي والعصبي والاقتصادي للمعاناة، أي ما لا يتغير بمجرد إعادة وصفه.
+
 ## المصادر
 
-- Wikipedia (Sheila McNamee): https://en.wikipedia.org/wiki/Sheila_McNamee
-- McNamee, S. & Gergen, K. J. (eds.) (1992). *Therapy as Social Construction*. Sage.
-- McNamee, S. & Gergen, K. J. (1999). *Relational Responsibility*. Sage.
-- McNamee, S. & Hosking, D. M. (2012). *Research and Social Change*. Routledge.
-- McNamee, S. (1996). «The Social Construction of Psychotherapy» in Rosen & Kuehlwein (eds.), *Constructing Realities*. Jossey-Bass.
-- Taos Institute: https://www.taosinstitute.net/
+- McNamee, S. & Gergen, K. J. (eds.) (1992). *Therapy as Social Construction*. London: Sage.
+- McNamee, S. & Gergen, K. J. (1999). *Relational Responsibility: Resources for Sustainable Dialogue*. Thousand Oaks, CA: Sage.
+- McNamee, S. & Hosking, D. M. (2012). *Research and Social Change: A Relational Constructionist Approach*. New York: Routledge.
+- Gergen, K. J. & McNamee, S. (2000). From disordering discourse to transformative dialogue. In R. A. Neimeyer & J. D. Raskin (Eds.), *Constructions of Disorder*. Washington, DC: American Psychological Association.
+- McNamee, S. (1996). Psychotherapy as a social construction. In H. Rosen & K. T. Kuehlwein (eds.), *Constructing Realities*. San Francisco: Jossey-Bass.

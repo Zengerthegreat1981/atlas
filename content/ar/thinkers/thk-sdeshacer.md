@@ -34,7 +34,7 @@ gaps:
 
 # ستيف دي شيزر
 
-معالج نفسي أمريكي (من أصل نمساوي)، مؤسّس **العلاج المختصر القائم على الحل** (Solution-Focused Brief Therapy, SFBT) مع إنسو كيم بيرغ. يُعدّ من أهم المساهمين في الموجة الثانية من العلاج الأسري (ما بعد مينوشين/بياتسون).
+معالج نفسي أمريكي (وُلد في ميلووكي بولاية ويسكونسن عام 1940 وتوفي في فيينا عام 2005)، مؤسّس **العلاج المختصر القائم على الحل** (Solution-Focused Brief Therapy, SFBT) مع إنسو كيم بيرغ. يُعدّ من أهم المساهمين في الموجة الثانية من العلاج الأسري (ما بعد مينوشين/بياتسون).
 
 ## ما أعطاه
 
@@ -76,11 +76,12 @@ SFBT أسس فلسفة براغماتية:
 - **"مفاتيح الحل في العلاج المختصر" (Keys to Solution in Brief Therapy, 1985)** — عمله المؤسِّس.
 - **"وضع الفرق للعمل" (Putting Difference to Work, 1991)** — فلسفة الاختلاف.
 - **"أكثر من المعجزات" (More Than Miracles, بعد وفاته، 2007)** — مع جولدنبرغ، وآخرين.
-- **"الحبكة في العمل" (Clues, 1988)**.
+- **"دلائل: استقصاء الحلول في العلاج المختصر" (Clues: Investigating Solutions in Brief Therapy, 1988)**.
+- **"الكلمات كانت سحراً في الأصل" (Words Were Originally Magic, 1994)**.
 
 ## الأبحاث (لاحقة، بعضها بعد وفاته)
 
-- **Gingerich & Eisengart (2000)**: تحليل ميتا-تحليلي أظهر فعالية SFBT.
+- **Gingerich & Eisengart (2000)**: مراجعة منهجية لأبحاث النتائج أظهرت أن الدراسات المضبوطة تشير إلى فعالية SFBT.
 - **Franklin، بعد وفاته (2012، 2015)**: دراسات عن SFBT في سياقات العمل الاجتماعي.
 - **Cockburn، بعد وفاته (2011)**: تقييم شامل لـ SFBT.
 
@@ -107,10 +108,16 @@ SFBT من أهم المقاربات التي:
 - أثبتت أن **جلسات قليلة** قد تكون كافية لكثير من الحالات.
 - أنتجت **تقنيات قابلة للتطبيق** خارج العيادة (في التعليم، العمل، العلاقات).
 
+## الأسس الفلسفية المتأخرة
+
+انتقل دي شيزر في أعماله بعد «مفاتيح الحل» من وصف الأسلوب إلى تأمل أساسه اللغوي. ففي «الكلمات كانت سحراً في الأصل» (1994) استند إلى فيتغنشتاين المتأخر وإلى نقد دريدا للمعنى، ليقرر أن العلاج حديث وأن ما يحدث فيه هو تغيّر في لعبة اللغة بين المعالج والعميل، لا اكتشاف لحقيقة كامنة في الأسرة. ومن هنا جاء تأكيده أن الحديث عن الحل يحدث تغييراً بحدّ ذاته، وأن المعالج لا يحتاج إلى نظرية في أسباب المشكلة. وتلخصت قواعده العملية في أن يُكثر العميل مما ينجح، وأن يتوقف عما لا ينجح ويجرب شيئاً آخر، وألا يُصلح ما لا يشكو منه.
+
 ## المصادر
 
 - de Shazer, S. (1985). *Keys to Solution in Brief Therapy*. W. W. Norton.
 - de Shazer, S. (1991). *Putting Difference to Work*. W. W. Norton.
-- de Shazer, S., et al. (بعد وفاته، 2007). *More Than Miracles: The State of the Art of Solution-Focused Brief Therapy*. Routledge.
+- de Shazer, S., et al. (بعد وفاته، 2007). *More Than Miracles: The State of the Art of Solution-Focused Brief Therapy*. New York: Haworth Press.
 - Berg, I. K., & Szabo, P. (2005). *Brief Coaching for Lasting Solutions*. W. W. Norton.
 - O'Hanlon, W. H., & Weiner-Davis, M. (2003). *In Search of Solutions*. W. W. Norton.
+- de Shazer, S. (1994). *Words Were Originally Magic*. New York: W. W. Norton.
+- Gingerich, W. J., & Eisengart, S. (2000). "Solution-Focused Brief Therapy: A Review of the Outcome Research." *Family Process*, 39(4), 477–498.

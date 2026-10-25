@@ -45,8 +45,24 @@ gaps:
 - *The Art of Choosing* (2010) — «فنّ الاختيار».
 - *Think Bigger* (2023).
 
+## الباحثون عن الأفضل والمكتفون بالكافي
+
+وسّعت إينغار نطاق بحثها بدراسة نشرتها مع ويلز وشوارتز عام 2006 عن خريجي الجامعات الباحثين عن وظيفة. فقد ميّزت بين «العظّميين» (maximizers) الذين يسعون إلى أفضل خيار ممكن، و«المكتفين» (satisficers) الذين يقبلون أول خيار يستوفي معايير مقبولة. وجدت أن العظّميين حصلوا على رواتب ابتدائية أعلى بنحو 20% لكنهم كانوا أقل رضاً عن وظائفهم وأكثر تشاؤماً وقلقاً، وهو ما فسّرته بكثرة المقارنات وتوقع الندم. وقدمت بهذا بعداً للأطروحة: لا يضر الاختيار الكثير بالقرار فقط، بل بطريقة تقييم الشخص لقراره بعده.
+
+## الأطفال والثقافة
+
+وكانت دراسة نشرتها مع ليبر عام 1999 في «مجلة الشخصية وعلم النفس الاجتماعي» بعنوان «إعادة النظر في قيمة الاختيار: منظور ثقافي للدافعية الداخلية» الأساس لما ورد عن الأطفال، وفيها وُجد أن أطفالاً أمريكيين من أصول أنغلوسكسونية يؤدون أفضل حين يختارون المهمة بأنفسهم، بينما يؤدي أطفال أمريكيون من أصول آسيوية أفضل حين تختار لهم أمهاتهم أو يُنسب الاختيار إلى جماعة يثقون بها. وهذه النتيجة هي التي دعتها إلى توسيع كتابها الأشهر «فن الاختيار» (2010) ليتناول الثقافات المختلفة للاختيار.
+
+## الحدود والنقد
+
+يُنتقد تعميم نتيجة «المربى». فقد راجع شايبيهنه وزملاؤه (2010) في «مجلة بحوث المستهلك» عشرات التجارب فلم يجدوا أثراً كلياً مستقراً لفرط الاختيار، وقدّر تحليل بعدي أحدث لتشيرنيف وبوكنهولت وغودمان (2015) في «مجلة علم نفس المستهلك» أن الأثر يظهر في ظروف محددة: حين تكون مجموعة الخيارات معقدة وحين لا يكون لدى الشخص تفضيل واضح مسبق وحين تكون المهمة صعبة. وتبقى دراسة المربى مثالاً ميدانياً شهيراً لكنه اعتمد على متجر واحد وعلى نوعين من المربى وعلى مجرد الشراء مقياساً، ولم تتكرر نتيجته بالقوة نفسها في كل المحاولات. وبالمثل، يُنتقد التعميم الثقافي في دراسة الأطفال بأنه يقارن مجموعتين صغيرتين ويتجاهل الفروق داخل كل مجموعة.
+
 ## المصادر
 
 - Sheena S. Iyengar & Mark R. Lepper, "When Choice is Demotivating: Can One Desire Too Much of a Good Thing?", *Journal of Personality and Social Psychology* 79(6), 2000.
 - Sheena S. Iyengar, Wei Jiang & Gur Huberman, "How Much Choice is Too Much? Contributions to 401(k) Retirement Plans", *Pension Research Council Working Paper*, 2004.
 - Sheena Iyengar, *The Art of Choosing* (Twelve, 2010).
+- Iyengar, S. S., & Lepper, M. R. (1999). "Rethinking the Value of Choice: A Cultural Perspective on Intrinsic Motivation." *Journal of Personality and Social Psychology*, 76(3), 349–366.
+- Iyengar, S. S., Wells, R. E., & Schwartz, B. (2006). "Doing Better but Feeling Worse: Looking for the 'Best' Job Undermines Satisfaction." *Psychological Science*, 17(2), 143–150.
+- Scheibehenne, B., Greifeneder, R., & Todd, P. M. (2010). "Can There Ever Be Too Many Options? A Meta-Analytic Review of Choice Overload." *Journal of Consumer Research*, 37(3), 409–425.
+- Chernev, A., Böckenholt, U., & Goodman, J. (2015). "Choice Overload: A Conceptual Review and Meta-Analysis." *Journal of Consumer Psychology*, 25(2), 333–358.

@@ -26,44 +26,47 @@ gaps:
   - "روابط con-brt وcon-decisive-moment وcon-rupture-repair وthk-khayes أُزيلت لعدم وجود ملفات لها في الأطلس؛ سُجِّلت كطلبات في requests-minimax.md."
   - "حُذف رابطٌ ميّت (404) من سطرٍ في المتن: https://en.wikipedia.org/wiki/Stanley_Messer"
 ---
+
 # جيريمي د. سافران
 
-محلّل نفسي أمريكي بارز، أستاذ في **جامعة أديلفي** (Adelphi University)، ومن أهمّ ممثّلي **«العلاج العلائقي الموجز»** (Brief Relational Therapy, BRT).
+محلّل نفسي ومعالج وباحث في العلاج النفسي، أستاذ علم النفس في **المدرسة الجديدة للبحث الاجتماعي** (The New School for Social Research) في نيويورك، ومن أهمّ ممثّلي **العلاج العلائقي الموجز** (Brief Relational Therapy, BRT) وبحوث **تمزقات التحالف العلاجي وإصلاحها**، التي أجراها مع جيريمي موران في برنامج أبحاث العلاج النفسي بمركز بيث إسرائيل الطبي.
+
+## السياق والتكوين
+
+بدأ سافران مساره في العلاج المعرفي، فكتب مع زيندل سيغال كتاب *Interpersonal Process in Cognitive Therapy* (1990) الذي أدخل العلاقة العلاجية والمخططات بين الشخصية إلى قلب العلاج المعرفي، وكان يومها يتعامل مع العلاقة بوصفها ملحقاً بالتقنية. وفي الفترة نفسها عمل مع ليزلي غرينبرغ في الاتجاه المرتكز على الانفعال، فصدر عام 1987 كتابهما *Emotion in Psychotherapy*، ثم *Emotion, Psychotherapy, and Change* (1991). ثم انتقل في التسعينيات إلى التحليل النفسي العلائقي متأثراً بستيفن ميتشل، وانتهى إلى بناء مقاربة تدمج العلاج المعرفي والمعالجة الانفعالية والتحليل العلائقي والتأمل الذهني.
+
+## الأساس النظري: المخططات العلائقية
+
+في ورقتين نُشرتا عام 1990 في *Clinical Psychology Review* أعاد سافران قراءة العلاج المعرفي في ضوء النظرية الشخصية-البينية عند ساليفان وبولبي، فاقترح أن لكل فرد «مخططات علائقية» (interpersonal schemas) تتكون من توقعات عن كيفية استجابة الآخرين له، وأن هذه التوقعات تقوده إلى سلوك يستدعي من الآخرين استجابات تؤكدها، فتتكوّن «دورات معرفية-بينية» (cognitive-interpersonal cycles). ومن ثم فإن علاقة المعالج بالمريض ليست خلفية للعلاج، بل هي المكان الذي تظهر فيه الدورة ذاتها، ويمكن العمل عليها مباشرة. وهذه الفكرة هي التي مهّدت لاحقاً لتركيزه على تمزقات التحالف.
 
 ## ما أعطاه
 
-ألّف **«العلاج العلائقي الموجز»** (*Brief Relational Therapy*, 2002، مع [S. Messer])، وهو الكتاب الذي يركّز على **«اللحظة الحاسمة»** (*Decisive Moment*) في العلاج: **«اللحظة»** التي يختبر فيها المريض **«نمط»** العلاقة ثم **«يتجاوزه»**.
-
-تقنيتان رئيسيتان في BRT:
-- **التحقيق** (Mindfulness): «ملاحظة» اللحظة.
-- **الإصلاح** (Repair): «إصلاح» التمزق في العلاقة العلاجية (*Rupture Repair*).
+- **تمزقات التحالف وإصلاحها**: صاغ مع موران (2000) في *Negotiating the Therapeutic Alliance: A Relational Treatment Guide* نموذجاً يرى أن التحالف العلاجي ليس حالة ثابتة بل عملية تفاوض متواصلة بين المعالج والمريض حول المهام والأهداف والرابطة. وتتعرّض هذه العملية لتمزقات، يقسّمها النموذج إلى تمزقات «انسحاب» (المريض ينسحب أو يجامل) وتمزقات «مواجهة» (المريض يهاجم أو يشكو)، ويرى أن العمل على إصلاحها هو في ذاته جوهر التغيير.
+- **التواصل الميتا (metacommunication)**: يعني أن يتوقف المعالج ليتحدث عما يجري بينه وبين المريض في اللحظة نفسها، ويعترف بدوره في التمزق، فتتحول اللحظة إلى فرصة لخبرة علائقية جديدة. وهذه تقنية مركزية في BRT، وقد وُضع لها نظام تقدير (3RS) لتدريب المعالجين.
+- **الأدلة التجريبية**: عرض مع موران وزملائهما (2001، *Psychotherapy*) أدلة على أن حل التمزقات يرتبط بنتائج أفضل، وأن تدريب المعالجين على إصلاح التمزقات يحسّن النتائج، ونُشرت دراسة تجريبية لثلاثة علاجات محددة المدة للاضطرابات الشخصية (موران وآخرون، 2009).
+- **التوليف بين المعرفي والعلائقي**: نشر مع ميسر (1997) مقالة «تكامل العلاج النفسي: نقد ما بعد حداثي» في *Clinical Psychology: Science and Practice*، دعا فيها إلى رؤية مرنة بين المدارس.
+- **التحليل النفسي والبوذية**: حرّر *Psychoanalysis and Buddhism: An Unfolding Dialogue* (2003)، وجمع فيه مساهمات عن ملاقاة التراثين، مدخلاً مفهوم الذهن الحاضر (mindfulness) إلى التفكير التحليلي.
 
 ## موقعه من التيار
 
-حلقة وصل بين [ستيفن ميتشل](thk-mitchell) (العلائقي) و[جاي غرينبرغ](thk-jgreenberg) (EFT).
+حلقة وصل بين [ستيفن ميتشل](thk-mitchell) (العلائقي) وبين العلاج المرتكز على الانفعال عند غرينبرغ، ومن الذين جعلوا موضوع «التحالف العلاجي» في قلب بحوث العلاج النفسي في العقدين الأولين من القرن الحادي والعشرين، وكتابه مع موران من المراجع الأساسية للمشرفين السريريين.
 
-## القيد
+## الحدود والنقد
 
-موقعه في الأدبيات الدولية ضعيف، لأن تأثيره الأكبر في السياقات السريرية التدريبية، ومعظم كتبه موجّهة للممارسين.
-
-## علاقته بالمفاهيم والمدارس
-
-يرتبط بالعلاج العلائقي الموجز (BRT) و[بالذهن الحاضر](con-mindfulness) كمفاهيم مركزية في عمله.
+- موقعه في الأدبيات الدولية أضعف في بعض الأوساط، لأن تأثيره الأكبر في السياقات السريرية التدريبية الأمريكية، ومعظم كتبه موجّهة للممارسين.
+- الأدلة على فعالية التدريب على إصلاح التمزقات ما زالت متفاوتة: فبعض التجارب أظهرت فائدة وأخرى لم تُظهر فروقاً جوهرية مع التدريب الاعتيادي.
+- يتطلب النموذج مستوى عالياً من الانتباه الذاتي والجرأة العلائقية من المعالج، وقد يصعب على المبتدئين، كما أن تسجيل الجلسات وتقدير التمزقات يرفعان كلفة التدريب.
 
 ## أهم أعماله
 
-- *Brief Relational Therapy* (2002، مع S. Messer).
-- *Emotion in Therapy* (مع Messer، 1998).
-- *Repair in Relational Therapy* (مقالات).
-- *Negotiating the Therapeutic Alliance* (مع Muran، 2000).
+- *Emotion in Psychotherapy* (1987، مع غرينبرغ).
+- *Interpersonal Process in Cognitive Therapy* (1990، مع سيغال).
+- *Negotiating the Therapeutic Alliance* (2000، مع موران).
+- *Psychoanalysis and Buddhism: An Unfolding Dialogue* (2003، تحرير).
 
 ## المصادر
 
-- Safran, J. D., & Messer, S. B. (2002). *Brief Relational Therapy*. Guilford.
-- Safran, J. D., & Muran, J. C. (2000). *Negotiating the Therapeutic Alliance*. Guilford.
-- Mitchell, S. A. (1988). *Relational Concepts in Psychoanalysis*. Harvard University Press.
-- Greenberg, L. S., & Safran, J. D. (1987). *Emotion in Psychotherapy*. Guilford.
-- Hayes, S. C. (2004). *Acceptance and Commitment Therapy*. New Harbinger.
-- Watzlawick, P., Weakland, J. H., & Fisch, R. (1974). *Change*. Norton.
-- Adelphi University, Derner Institute — Faculty Archives.
-- International Journal of Psychoanalysis — Editorial Board.
+- Safran, J. D., & Muran, J. C. (2000). *Negotiating the Therapeutic Alliance: A Relational Treatment Guide*. New York: Guilford Press.
+- Safran, J. D., & Segal, Z. V. (1990). *Interpersonal Process in Cognitive Therapy*. New York: Basic Books.
+- Greenberg, L. S., & Safran, J. D. (1987). *Emotion in Psychotherapy: Affect, Cognition, and the Process of Change*. New York: Guilford Press.
+- Safran, J. D., Muran, J. C., Samstag, L. W., & Stevens, C. (2001). Repairing alliance ruptures. *Psychotherapy*, 38(4), 406–412.

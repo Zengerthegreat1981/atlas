@@ -27,20 +27,32 @@ gaps:
 
 ## ما أعطاه
 
-- في *The Inner World: A Psycho-analytic Study of Childhood and Society in India* (1978) طبّق أدوات التحليل النفسي الفرويدي على الطفولة والأسرة الهندية، مستنداً إلى الأساطير والملاحم الهندوسية.
-- في *Shamans, Mystics and Doctors* (1982) قارن بين الشفاء التقليدي الهندي والممارسة التحليلية النفسية الغربية.
-- كتب روايات وأعمالاً غير أكاديمية تجمع بين السيرة والتحليل النفسي، منها *The Indians: Portrait of a People* (2007، مع كاثرين كاكار).
+- في *The Inner World: A Psycho-analytic Study of Childhood and Society in India* (1978) طبّق أدوات التحليل النفسي الفرويدي على الطفولة والأسرة الهندية، مستنداً إلى الأساطير والملاحم الهندوسية. وجادل بأن الطفل الهندي يعيش تجربة مبكرة مع الأم تمتاز بالقرب الجسدي الطويل والاستجابة الدائمة، ثم يدخل شبكة الأسرة الممتدة التي تخفف الصراع الأوديبي وتبدله بقيم الاحترام والاعتماد المتبادل. ومن هنا تصوّر ذاتاً هندية تقوم على الانتماء («الذات-نحن») بدل الذات المستقلة التي يفترضها علم النفس الغربي. وقد صدر الكتاب عن دار أكسفورد في دلهي وصار مرجعاً في دراسات الطفولة الجنوب آسيوية.
+- في *Shamans, Mystics and Doctors* (1982) قارن بين الشفاء التقليدي الهندي، من الطب الأيورفيدي إلى الشفاء الديني والمزارات، والممارسة التحليلية النفسية الغربية، ورأى أن فعالية المعالج التقليدي مرتبطة بقدرته على صياغة المعاناة داخل نظام رموز يعترف به المريض وعائلته.
+- في *The Analyst and the Mystic* (1991) قرأ تجربة راماكريشنا الصوفية بعدسة التحليل النفسي، متسائلاً هل يمكن اختزال التجربة الدينية في الانكفاء إلى حالة الطفولة المبكرة، ومنتهياً إلى أن التحليل يستطيع أن يفهم شروط التجربة لكنه لا يستنفد دلالتها.
+- في *Intimate Relations: Exploring Indian Sexuality* (1989) تناول الجنسانية والزواج والعلاقات في الثقافة الهندية، وترجم مع ويندي دونيغر «الكاماسوترا» إلى الإنجليزية (2002، أكسفورد).
+- في *The Colors of Violence* (1996) حلّل العنف الطائفي بين الهندوس والمسلمين، ورأى أن الهويات الدينية الجماعية تتصلب حين تقترن بذاكرة إذلال وتهديد، فتصير العداوة جزءاً من احترام الذات الجماعية.
+- كتب روايات وأعمالاً غير أكاديمية تجمع بين السيرة والتحليل النفسي، منها *The Indians: Portrait of a People* (2007، مع كاثرين كاكار) و*Young Tagore* (2013) عن سيرة طاغور في سنواته الأولى.
 
 ## موقعه من التيار
 
-من أوائل من طبّقوا التحليل النفسي الفرويدي على المادة الثقافية الهندية (الأساطير، الطقوس، العلاقات الأسرية)، وربط بين التحليل النفسي الغربي والتقاليد الشفائية المحلية في الهند.
+من أوائل من طبّقوا التحليل النفسي الفرويدي على المادة الثقافية الهندية (الأساطير، الطقوس، العلاقات الأسرية)، وربط بين التحليل النفسي الغربي والتقاليد الشفائية المحلية في الهند. ويُعدّ من مؤسسي ما يُسمى علم النفس الثقافي في جنوب آسيا، ويلتقي مع أعمال تاكيو دوي عن مفهوم الاعتماد في اليابان في الاعتراض على الادعاء بأن الشخصية الغربية هي المعيار الكوني.
+
+## الحدود والنقد
+
+- **تعميم الهندوسية على الهند**: يأخذ عليه نقاد أنه استخرج صورة للنفس الهندية من نصوص هندوسية عليا وأسرة هندوسية متوسطة، وأن هذه الصورة لا تعبّر عن تنوع الهند الدينية والطبقية.
+- **الفرويدية الأولى**: بقي في كتبه الأولى أميناً لإطار فرويدي-أنا نفسي، ورأى منافسوه، مثل الأنثروبولوجي السريلانكي غاناناث أوبيسيكيري في «عمل الثقافة» (1990)، أن الرموز الشخصية تتشكل في سياقات اجتماعية أكثر مرونة مما تتسع له نظريته.
+- **الوصف مقابل الاختبار**: لا تقوم صورته للذات الهندية على بحث مقارن كمي، فهو تفسير تحليلي مستمد من الحالات والنصوص، ولذلك يصعب اختباره.
 
 ## أهم أعماله
 
-The Inner World: A Psycho-analytic Study of Childhood and Society in India (1978) · Shamans, Mystics and Doctors (1982) · The Indians: Portrait of a People (2007، مع كاثرين كاكار).
+The Inner World: A Psycho-analytic Study of Childhood and Society in India (1978) · Shamans, Mystics and Doctors (1982) · The Analyst and the Mystic (1991) · The Colors of Violence (1996) · The Indians: Portrait of a People (2007، مع كاثرين كاكار).
 
 ## المصادر
 
-- Wikipedia (en), "Sudhir Kakar."
-- Psychology Today, "How Sudhir Kakar Redefined the Inner World" (2024).
-- University of Chicago Press، صفحة المؤلف سودير كاكار.
+- Kakar, S. (1978). *The Inner World: A Psycho-analytic Study of Childhood and Society in India*. Oxford University Press.
+- Kakar, S. (1982). *Shamans, Mystics and Doctors: A Psychological Inquiry into India and Its Healing Traditions*. Alfred A. Knopf.
+- Kakar, S. (1991). *The Analyst and the Mystic: Psychoanalytic Reflections on Religion and Mysticism*. University of Chicago Press.
+- Kakar, S. (1996). *The Colors of Violence: Cultural Identities, Religion, and Conflict*. University of Chicago Press.
+- Kakar, S., & Kakar, K. (2007). *The Indians: Portrait of a People*. Viking.
+- Obeyesekere, G. (1990). *The Work of Culture: Symbolic Transformation in Psychoanalysis and Anthropology*. University of Chicago Press.
