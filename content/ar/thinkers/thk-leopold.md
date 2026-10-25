@@ -37,6 +37,14 @@ gaps:
 - **«التفكير كجبل»:** مقالة في الكتاب نفسه يروي فيها قتْله ذئبةً في شبابه ورؤيته «النار الخضراء الشرسة» تنطفئ في عينيها — ومنها استخلص أن إبادة المفترسات تُفقر الجبل نفسه.
 - **نقل الإنسان من سيد إلى عضو:** الأخلاق عنده تتوسّع تاريخياً حتى تشمل التربة والماء والنبات والحيوان بوصفها **مجتمعاً حيوياً** (biotic community).
 
+## التكوين والمسار
+
+وُلد ليوبولد في بيرلنغتون بولاية أيوا سنة 1887، ونشأ على الصيد وملاحظة الطيور، ثم درس في مدرسة ييل للغابات. وفي أريزونا ونيومكسيكو عمل في إدارة الغابات، وكان يصطاد الحيوانات المفترسة ضمن سياسة ذلك الوقت قبل أن يغيّر رأيه. وانتقل إلى ماديسون سنة 1924، وسافر سنة 1935 إلى ألمانيا ليدرس إدارة الغابات والصيد هناك. وتزوج إستيلا بيرغير وأنجبا خمسة أبناء صار أغلبهم علماء في الإيكولوجيا والحياة البرية والهيدرولوجيا.
+
+## «رمل المقاطعة»
+
+صدر الكتاب في 1949 عن مطبعة جامعة أكسفورد بعد وفاة مؤلفه، وحرره ابنه لونا ليوبولد. ويضمّ أقساماً موسمية عن مزرعته في ويسكنسن، ورسوماً من أماكن عمل فيها، وفصولاً فلسفية ختامية. وقد حقق الكتاب انتشاراً واسعاً صار به مرجع الحركة البيئية. وجاء بعده كتاب «النهر المستدير» (1953) الذي جمع مقالات أخرى، وفيه فكرة «صحة الأرض» التي رأى فيها ليوبولد معياراً لقدرة الأرض على تجديد نفسها.
+
 ## سيرته العملية
 
 انتقل سنة 1924 إلى مختبر منتجات الغابات في ماديسون بويسكونسن. سنة 1935 شارك في تأسيس **جمعية البرية (The Wilderness Society)**، واشترى في العام ذاته مزرعة مُنهَكة على نهر ويسكونسن عُرف كوخها بـ«الشاك» — ومنه كُتبت مشاهدات القسم الأول من *A Sand County Almanac*. مات في 21 أبريل 1948 بنوبة قلبية وهو يساعد في إطفاء حريق عشب قرب مزرعته.
@@ -56,7 +64,8 @@ gaps:
 
 ## المصادر
 
-- Leopold, Aldo. *Game Management*. New York: Charles Scribner's Sons, 1933.
-- Leopold, Aldo. *A Sand County Almanac, and Sketches Here and There*. New York: Oxford University Press, 1949.
-- Meine, Curt. *Aldo Leopold: His Life and Work*. Madison: University of Wisconsin Press, 1988.
-- Callicott, J. Baird (ed.). *Companion to A Sand County Almanac: Interpretive and Critical Essays*. Madison: University of Wisconsin Press, 1987.
+- Leopold, Aldo. Game Management. New York: Charles Scribner's Sons, 1933.
+- Leopold, Aldo. A Sand County Almanac, and Sketches Here and There. New York: Oxford University Press, 1949.
+- Leopold, Aldo. Round River: From the Journals of Aldo Leopold, ed. Luna B. Leopold. New York: Oxford University Press, 1953.
+- Meine, Curt. Aldo Leopold: His Life and Work. Madison: University of Wisconsin Press, 1988.
+- Callicott, J. Baird (ed.). Companion to A Sand County Almanac: Interpretive and Critical Essays. Madison: University of Wisconsin Press, 1987.

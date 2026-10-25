@@ -29,6 +29,18 @@ gaps:
 
 عالمة نبات أمريكية من أصل **بوتاواتومي** (Potawatomi)، وُلدت عام 1953، أستاذة متميّزة في التدريس (Distinguished Teaching Professor) بجامعة SUNY College of Environmental Science and Forestry (ESF)، والمؤسِّسة والمديرة لِـ**مركز الشعوب الأصلية والبيئة** (Center for Native Peoples and the Environment) الذي شاركت في تأسيسه هناك عام 2006. حازت على **منحة ماك آرثر** (MacArthur Fellowship) عام 2022 تقديراً لعملها. تُمثّل صَوتاً فلسفياً فريداً في **العلاقة بين العلم والإيكولوجيا والروحانية الأصلية**.
 
+## السيرة والتكوين
+
+وُلدت كيميرير سنة 1953 في ولاية نيويورك، وهي عضو في أمة بوتاواتومي المواطِنة. درست علم النبات في جامعة ولاية نيويورك لعلوم البيئة والغابات، ثم نالت الدكتوراه من جامعة ويسكنسن-ماديسون، وعادت إلى مؤسستها الأولى أستاذة. وتجمع أبحاثها العلمية بين بيئة الطحالب وإعادة ترميم النظم البيئية والمعرفة البيئية التقليدية. وتصف في كتبها انقساماً شعرت به بين تدريب علمي يطلب منها أن تتكلم عن النبات بوصفه موضوعاً، ومعرفة بوتاواتومية ترى فيه كائناً يُخاطَب.
+
+## حكايات الكتاب المؤسِّسة
+
+يبدأ «ضفر عشب الحلوى» بحكاية «المرأة السماوية» من تراث شعوب الهودينوشوني، وهي امرأة تهبط من السماء فتستقبلها الحيوانات وتنقل الطين على ظهر سلحفاة فتبدأ الأرض، وتجعل منها كيميرير نموذجاً للعلاقة بين الإنسان والأرض بوصفه ضيفاً مَدِيناً. ثم تعرض في فصل «الأخوات الثلاث» زراعة الذرة والفاصولياء والقرع معاً، حيث تسند الذرة الفاصولياء وتخصب الفاصولياء التربة ويحمي القرع الجذور، فتجعل ذلك مثالاً على التكافل الذي يقابل الزراعة الأحادية. وفي فصل «آثار الويندغو» تستعمل وحش الشعوب الأنيشيناابية الذي لا يشبع، لتفسّر الاستهلاك المفرط بوصفه مرضاً أخلاقياً. وتختتم بخطاب الشكر الذي يتلوه الهودينوشوني في بداية اجتماعاتهم، فتجعله ممارسة يومية تذكّر بما يعطيه العالم.
+
+## القيمة العلمية والحدود
+
+يتميز عمل كيميرير بأن الجانب العلمي فيه حقيقي: فهي تنشر في الدوريات المحكّمة وتدرّب طلاباً على البحث. لكن مقالاتها الأدبية تعتمد أحياناً على تعميم ممارسات شعب بعينه على «الشعوب الأصلية» كلها، مع أن لكل أمة لغتها وتقاليدها. وقد دعت هي نفسها إلى حذر من ينقل هذه المعارف خارج سياقها. كما أن مقترح الضمير «كي/كين» وجد تأييداً في أوساط وأثار تحفظاً عند آخرين رأوه حلاً لغوياً لا يغني عن قضايا الأرض.
+
 ## ما أعطته
 
 - في *Braiding Sweetgrass* (2013) قَدَّمت **فلسفة العطاء** (Gift Economy) كنَقيض لـ«اقتصاد السوق»: في تقاليد بوتاواتومي، **الأرض تُعطي ولا تُملك**.
@@ -52,7 +64,6 @@ gaps:
 ## الأثر
 
 - شكّلت **مرجعاً** لِحركة البيئة الأصلية في أمريكا الشمالية.
-- أثّرت في **حركة Land Back** و**حركة حماية الأنهار المقدسة**.
 - أثّرت في **منهج Two-Eyed Seeing** (Bartlett، Marshall): رؤية العالم بِعيني العلم والأصالة.
 - شكّلت أرضيةً لمفهوم **التبادل الإيكولوجي** (Ecological Reciprocity).
 
@@ -64,8 +75,8 @@ gaps:
 
 ## المصادر
 
-- صفحتها الرسمية: https://www.robinwallkimmerer.com/about
-- الملف التعريفي في جامعة SUNY ESF: https://www.esf.edu/faculty/kimmerer/index.php
-- Britannica — "Robin Wall Kimmerer": https://www.britannica.com/biography/Robin-Wall-Kimmerer
-- ويكيبيديا (الإنجليزية) — "Robin Wall Kimmerer": https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer
-- MacArthur Foundation — إعلان منحة 2022: https://www.macfound.org/fellows/class-of-2022/robin-wall-kimmerer
+- Kimmerer, Robin Wall. Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants. Minneapolis: Milkweed Editions, 2013.
+- Kimmerer, Robin Wall. Gathering Moss: A Natural and Cultural History of Mosses. Corvallis: Oregon State University Press, 2003.
+- Kimmerer, Robin Wall. The Serviceberry: Abundance and Reciprocity in the Natural World. New York: Scribner, 2024.
+- Smith, Linda Tuhiwai. Decolonizing Methodologies: Research and Indigenous Peoples. London: Zed Books, 1999.
+- Bartlett, Cheryl, Murdena Marshall, and Albert Marshall. «Two-Eyed Seeing and Other Lessons Learned within a Co-Learning Journey of Bringing Together Indigenous and Mainstream Knowledges and Ways of Knowing». Journal of Environmental Studies and Sciences 2/4 (2012).

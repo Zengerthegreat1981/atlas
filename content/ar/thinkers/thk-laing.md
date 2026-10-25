@@ -35,6 +35,14 @@ gaps:
 
 أشهر أهل المدرسة جماهيرياً، وأثقلهم على سمعتها العلمية.
 
+## السيرة
+
+وُلد رونالد ديفيد لاينغ في غلاسكو في 7 أكتوبر 1927، ودرس الطب في جامعتها، ثم خدم طبيباً نفسياً في الجيش البريطاني في مطلع الخمسينيات. وعمل بعد ذلك في عيادة تافيستوك بلندن حيث كتب «الذات المنقسمة» (1960)، وهو كتاب استند فيه إلى سارتر وكيركغارد وبوبر وبينسوانغر. وأسّس سنة 1965 الجمعية الفيلادلفية وأقام كينغزلي هول. وسافر في أوائل السبعينيات إلى سيلان والهند ليتعلم التأمل، ثم عاد إلى بريطانيا. وتوفي في 23 أغسطس 1989 في سان تروبيه بفرنسا أثناء لعبه التنس.
+
+## فكرة اللاأمن الوجودي
+
+تحمل «الذات المنقسمة» مفهوماً صار من أكثر ما يُنسب إليه، وهو «انعدام الأمن الوجودي». يصف لاينغ شخصاً لا يشعر بأن وجوده حقيقي وثابت بذاته، فيعيش كل علاقة تهديداً: إما بالابتلاع أو بالانفجار أو بالتحوّل إلى شيء. ويدفع هذا الإحساس الشخص إلى أن ينقسم بين «ذات باطنة» لا يظهرها و«ذات زائفة» تؤدي ما يُنتظر منها. وبهذا يفسّر لاينغ بعض أعراض الفصام بوصفها استراتيجية بقاء لا تعطّلاً عشوائياً. وقد بقي هذا الوصف مؤثراً في الأوساط السريرية بعد أن تراجعت سمعة نظرياته الأسرية.
+
 ## أطروحته
 
 أن الخبرة الذهانية قد تكون مفهومة إن قُرئت في سياقها الأسري والاجتماعي، وأن ما يبدو بلا معنى قد يكون له منطق داخلي.
@@ -74,9 +82,9 @@ gaps:
 
 ## المصادر
 
-- R. D. Laing, *The Divided Self: An Existential Study in Sanity and Madness* (1960).
-- R. D. Laing, *Self and Others* (1961).
-- R. D. Laing and A. Esterson, *Sanity, Madness and the Family* (1964).
-- R. D. Laing, *The Politics of Experience* (1967).
-- R. D. Laing, *Knots* (1970).
-- مقالة "R. D. Laing" في موسوعة ويكيبيديا الإنجليزية، تتضمن تفاصيل انسحابه الطوعي من السجلّ الطبّي البريطاني عام 1987 بعد تحقيق الهيئة الطبية العامة (GMC).
+- Laing, R. D. The Divided Self: An Existential Study in Sanity and Madness. London: Tavistock Publications, 1960.
+- Laing, R. D. Self and Others. London: Tavistock Publications, 1961.
+- Laing, R. D., and A. Esterson. Sanity, Madness and the Family. London: Tavistock Publications, 1964.
+- Laing, R. D. The Politics of Experience. Harmondsworth: Penguin, 1967.
+- Laing, R. D. Knots. London: Tavistock Publications, 1970.
+- Barnes, Mary, and Joseph Berke. Mary Barnes: Two Accounts of a Journey through Madness. London: MacGibbon & Kee, 1971.

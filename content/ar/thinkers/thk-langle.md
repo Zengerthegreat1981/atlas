@@ -53,8 +53,12 @@ gaps:
 
 استقال فرانكل من الرئاسة الفخرية لـ GLE نحو عام 1990–1991، وهو ما مثّل الانفصال العلني بين الرجلين. أسّس معارضون لتوجه لانغله عام 1994 جمعية بديلة (ABILE) بقيت أقرب إلى صيغة فرانكل الأصلية، بينما استمرت GLE بقيادة لانغله في تطوير ما يُعرف اليوم بـ«التحليل الوجودي الشخصي» — وهو تيار لا يزال بعض الباحثين (تبعاً لمعهد فيكتور فرانكل نفسه) يعدّونه متمايزاً عن «اللوغوثيرابي والتحليل الوجودي» الأصلي بسبب اختلاف تصوّره للوجود الإنساني ونزوعه لتذويت مفهوم المعنى.
 
+## الموافقة الداخلية غايةً للعلاج
+
+يعرّف لانغله الوجود الناجح بأنه حياة تُعاش بـ«موافقة داخلية» (Zustimmung)، أي أن يقول الإنسان «نعم» لما يفعله ولما يعيشه عن فهم وشعور، لا عن إكراه أو عادة. وبهذا المعيار يصير هدف العلاج أن يستعيد الشخص قدرته على الحضور مع نفسه ومع الآخرين، وعلى الجواب عما تطلبه الحياة منه، لا أن يزيل العَرَض فقط. وعدّ الشخص قدرة على أن يكون مع نفسه ويتخذ موقفاً، ورأى أن الاضطراب النفسي يظهر حين تعجز هذه القدرة عن العمل.
+
 ## القيد
-قاعدة الأدلّة على التحليل الوجودي بصيغته اللانغلية **محدودة**: منشوراتها في أغلبها بالألمانية وفي دوريات المدرسة نفسها، والتجارب المضبوطة قليلة وعيّناتها صغيرة. وهذا يفسّر المفارقة التي يشير إليها هذا الملف: أنه **أكثر تيّارات المعنى تطوّراً إكلينيكياً وأقلّها حضوراً** في المراجعات الدولية للأدلّة.
+قاعدة الأدلّة على التحليل الوجودي بصيغته اللانغلية **محدودة**: منشوراتها في أغلبها بالألمانية وفي دوريات المدرسة نفسها، والتجارب المضبوطة قليلة وعيّناتها صغيرة. وهذا يفسّر المفارقة: أنه **أكثر تيّارات المعنى تطوّراً إكلينيكياً وأقلّها حضوراً** في المراجعات الدولية للأدلّة.
 
 ## موقعه
 
@@ -66,7 +70,7 @@ gaps:
 
 ## المصادر
 
-- Alfried Längle, "Biography," International Network on Personal Meaning: https://www.meaning.ca/influential-therapist/alfried-langle/
-- Alfried Längle, official biography page, GLE UK: https://www.gle-uk.com/alfried-laengle
-- Viktor Frankl Institute Vienna, "Logotherapy and Existential Analysis": https://www.viktorfrankl.org/logotherapy.html
-- "Broken Lineage: Viktor Frankl, Alfried Längle, and the Division of Logotherapy and Existential Analysis," Meaning in Ministry: https://www.meaninginministry.com/articles-home/broken-lineage-viktor-frankl-alfried-lngle-and-the-division-of-logotherapy-and-existential-analysis
+- Frankl, Viktor E. The Will to Meaning: Foundations and Applications of Logotherapy. New York: World Publishing Company, 1969.
+- Frankl, Viktor E. From Death-Camp to Existentialism. Boston: Beacon Press, 1959.
+- Längle, Alfried (ed.). Entscheidung zum Sein: Viktor E. Frankls Logotherapie in der Praxis. München: Piper, 1988.
+- Längle, Alfried. Viktor Frankl: Ein Porträt. München: Piper, 1998.

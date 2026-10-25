@@ -26,7 +26,7 @@ gaps:
 
 # نيل نودينغز
 
-فيلسوفة أمريكية، وُلدت في 19 يناير 1929 في إيرفينغتون (نيو جيرسي). تُوفيت في 25 أغسطس 2022. أستاذة فلسفة التربية في **كلية ستانفورد** (Stanford University School of Education). أستاذة فخرية في كولومبيا وNYU.
+فيلسوفة أمريكية، وُلدت في 19 يناير 1929 في إيرفينغتون (نيو جيرسي). تُوفيت في 25 أغسطس 2022. أستاذة فلسفة التربية في **كلية التربية بجامعة ستانفورد** (Stanford University School of Education)، وأستاذة فخرية فيها، وشغلت كرسياً في كلية المعلمين بجامعة كولومبيا (Teachers College).
 
 ## ما أعطتها
 
@@ -36,10 +36,9 @@ gaps:
 - **«Philosophy of Education»** (1995، Westview Press): كتاب مدرسي.
 - **«Educating Moral People»** (2002).
 - **«Starting at Home: Caring and Social Policy»** (2002، University of California Press): عن أخلاق الرعاية في السياسة الاجتماعية.
-- **«Happiness and Education»** (2003، Harvard UP).
+- **«Happiness and Education»** (2003، Cambridge University Press).
 - **«Critical Lessons: What Our Schools Should Teach»** (2006).
-- **«Moral Education? Yes — But What?»** (2010).
-- **«Education and Democracy in the 21st Century»** (2013).
+- **«Education and Democracy in the 21st Century»** (2013، Teachers College Press).
 
 ## «أخلاق الرعاية» (Ethics of Care)
 
@@ -63,6 +62,10 @@ gaps:
 - **«الحوار»** (Dialogue) أهم من «المنهج» (Curriculum).
 - **«التربية على الرعاية» (Caring Education)** هدف قائم بذاته.
 
+## نقد أخلاق الرعاية وحدودها
+
+لقيت أخلاق الرعاية عند نودينغز نقداً من فلاسفة نسويين رأوا أنها قد تعيد إنتاج الصورة النمطية للمرأة بوصفها راعية، وتدفع إلى تحميل النساء عبء الرعاية. وانتقدها آخرون لأنها تصعّب الحكم على من لا نقيم معهم علاقة مباشرة، فتضعف القدرة على بناء حجة للعدالة العالمية. وقد حاولت في كتابها «Starting at Home» الاستجابة لهذا الاعتراض بتوسيع الرعاية إلى السياسة الاجتماعية، غير أن الخلاف بقي قائماً بين من يرى الرعاية مكمّلة للعدالة ومن يراها بديلاً منها.
+
 ## موقعها من التيار
 
 تنتمي إلى:
@@ -81,23 +84,23 @@ gaps:
 ## حياتها
 
 - **1929**: وُلدت في نيو جيرسي.
-- **1950s**: عملت في التعليم الابتدائي، الإعدادي، الثانوي (15 سنة).
-- **1960s**: حصلت على M.A. من جامعة Rutgers.
-- **1972**: حصلت على Ed.D. من جامعة Stanford.
-- **1975–1998**: أستاذة في Columbia Teachers College.
-- **1992–2000**: أستاذة في Stanford.
+- **قبل 1972**: درست الرياضيات وعملت معلمة في المدارس الأمريكية سنوات طويلة، ثم نالت درجة الماجستير من جامعة Rutgers.
+- **1973**: حصلت على الدكتوراه (Ph.D.) في فلسفة التربية من Stanford.
+- **من أواخر السبعينيات**: أستاذة في Stanford، وعملت أيضاً في Teachers College بجامعة كولومبيا، وتولّت رئاسة جمعية فلسفة التربية (Philosophy of Education Society).
 - **2022**: تُوفيت في 25 أغسطس.
 
 ## إرثها
 
-- **«Noddings Reading Group»**: ظاهرياً وفعلياً في الكليات الأمريكية.
-- **«Care-Centered Ethics»** في الرعاية الصحية والخدمة الاجتماعية.
-- **«Stanford CARE Lab»**: أسَّسته مع تلاميذها.
+- **«أخلاق الرعاية»** في الرعاية الصحية والتمريض والخدمة الاجتماعية، حيث استُخدمت مفاهيمها في تأطير العلاقة بين المقدِّم والمتلقي.
+- **تربية المعلمين**: ما يزال كتابها «The Challenge to Care in Schools» يُقرأ في برامج إعداد المعلمين.
+
 
 ## المصادر
 
-- Wikipedia (Nel Noddings): https://en.wikipedia.org/wiki/Nel_Noddings
-- Noddings, N. (1984). *Caring*. University of California Press.
+- Noddings, N. (1984). *Caring: A Feminine Approach to Ethics and Moral Education*. University of California Press.
+- Noddings, N. (1992). *The Challenge to Care in Schools: An Alternative Approach to Education*. Teachers College Press.
+- Gilligan, C. (1982). *In a Different Voice: Psychological Theory and Women's Development*. Harvard University Press.
+- Noddings, N. (2002). *Starting at Home: Caring and Social Policy*. University of California Press.
 - Noddings, N. (1992). *The Challenge to Care in Schools*. Teachers College Press.
 - Noddings, N. (2002). *Starting at Home*. University of California Press.
 - Noddings, N. (2003). *Happiness and Education*. Harvard UP.

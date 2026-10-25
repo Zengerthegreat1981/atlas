@@ -30,7 +30,7 @@ gaps:
 
 # دونالد موس
 
-عالم نفس إكلينيكي وظاهراتي أمريكي معاصر، **عميد كلية علم النفس التكاملي** (College of Integrative Health Sciences) في **جامعة سايبورك** (Saybrook University)، و**رئيس سابق لقسم علم النفس الإنساني** (APA Division 32).
+عالم نفس إكلينيكي وظاهراتي أمريكي معاصر، **عميد كلية الطب التكاملي وعلوم الصحة** (College of Integrative Medicine and Health Sciences) في **جامعة سايبورك** (Saybrook University)، و**رئيس سابق لقسم علم النفس الإنساني** (APA Division 32).
 
 ## ما أعطاه
 
@@ -38,9 +38,23 @@ gaps:
 
 أهم أعماله:
 - **«علم النفس الإنساني والعابر للشخصية: دليل تاريخي وسير ذاتية»** (*Humanistic and Transpersonal Psychology: A Historical and Biographical Sourcebook*, 1999، حرره).
-- **«الفينومينولوجيا والطب التكاملي»** (*Mind-Body Medicine*, 2003).
-- **«عشر وجهات نظر في الوجودية»** (Ten Perspectives on Existentialism).
+- **«دليل الطب الذهني-الجسدي للرعاية الأولية»** (*Handbook of Mind-Body Medicine for Primary Care*, 2003، تحرير مشترك).
+- فصل «جذور علم النفس الإنساني ونسبه» في *The Handbook of Humanistic Psychology* (2001).
 - مقالات في *Journal of Humanistic Psychology* و *The Humanistic Psychologist*.
+
+## السياق التاريخي لعلم النفس الإنساني
+
+يتناول موس في كتابه «علم النفس الإنساني والعابر للشخصية» (1999) نشأة التيار الذي عُرف بـ«القوة الثالثة» في مقابل السلوكية والتحليل النفسي. وقد بدأ هذا التيار في الولايات المتحدة نحو 1960 حول أبراهام ماسلو وكارل روجرز ورولو ماي وجيمس بوغنتال، ثم أُسّست «جمعية علم النفس الإنساني» سنة 1961، وصدرت «مجلة علم النفس الإنساني» سنة 1961، وأُنشئ القسم 32 (جمعية علم النفس الإنساني) داخل الجمعية الأمريكية لعلم النفس سنة 1971. ويضم الكتاب سيراً لشخصيات هذا التيار وللأطراف التي أثّرت فيه من الفلسفة الوجودية والظاهراتية والتقاليد الروحية الشرقية، ويقدّم كلّ واحد منهم مع نصه التأسيسي.
+
+وفي فصله عن الجذور والأنساب في «دليل علم النفس الإنساني» (2001) يرسم موس صلات التيار بالرومانسية والبراغماتية وفلسفة ويليام جيمس والظاهراتية، وهي مرجعيات تلتقي عند تصوّر الإنسان كلاً متكاملاً لا يُختزل في سلوك أو غريزة.
+
+## الطب الذهني-الجسدي والارتجاع البيولوجي
+
+يتميز موس بأنه عمل في الميدان الإكلينيكي إلى جانب العمل الأكاديمي، وتخصّص في الارتجاع البيولوجي وعلاج الإجهاد، وهما تقنيتان تُمكّنان المريض من متابعة وظائفه الفسيولوجية كنبض القلب والتنفس والتوتر العضلي لتعلّم تنظيمها. وقد جمع في «دليل الطب الذهني-الجسدي للرعاية الأولية» (2003) مع زملائه أبحاثاً عن علاج الألم والأمراض المزمنة بتقنيات الاسترخاء والتأمل والتخيل الموجّه، ليستعملها أطباء الرعاية الأولية. ويستند موقفه إلى أن تجربة المريض المعيشة جزء من العلاج لا ملحق به، وهذا ما يربطه بالخط الظاهراتي الوجودي الذي يرى الجسد معيشاً لا مجرد آلة.
+
+## حدود إنتاجه ونقده
+
+أقرّ الباحثون بأن الأدلة التجريبية على بعض ممارسات الطب الذهني-الجسدي متفاوتة القوة، فبعضها (كالارتجاع البيولوجي للصداع) مدعوم جيداً، وبعضها الآخر ما زال ضعيف التوثيق. ومن جهة التاريخ الفكري أُخذ على الكتاب التاريخي أنه يتبنّى سرداً مؤسسياً للتيار يغلب فيه صوت أنصاره. وقد صدرت الطبعة الثانية من «دليل علم النفس الإنساني» سنة 2015 بتحرير شنايدر وبيرسون وبوغنتال، وهي تعكس اتساع التيار نحو البحث التجريبي والممارسة الاجتماعية. وأخيراً فإن تنوع عمله بين التاريخ والتنظيم والعيادة يجعل مساهمته الفلسفية الخالصة محدودة، وهو ما يتسق مع ما ورد في قسم «القيد».
 
 ## موقعه من التيار
 
@@ -57,16 +71,13 @@ gaps:
 ## أهم أعماله
 
 - *Humanistic and Transpersonal Psychology: A Historical and Biographical Sourcebook* (1999، تحرير).
-- *Mind-Body Medicine* (2003).
-- *The Other Self* (مقالات في الفينومينولوجيا الإكلينيكية).
+- *Handbook of Mind-Body Medicine for Primary Care* (2003، تحرير مشترك).
 - مقالات في *Journal of Humanistic Psychology* و *The Humanistic Psychologist* و *Explore*.
 
 ## المصادر
 
 - Moss, D. (ed.) (1999). *Humanistic and Transpersonal Psychology*. Greenwood.
-- Moss, D. (2003). *Mind-Body Medicine, the Arts of Transformation*. In *Oxford Textbook of Palliative Care*.
-- Moss, D. (2001). "The Roots and Genealogy of Humanistic Psychology." In *Humanistic Psychology: Current Trends and Future Perspectives*. Sage.
-- Schneider, K. J., & Bugental, J. F. T. (eds.) (2014). *The Handbook of Humanistic Psychology*. Sage.
-- Saybrook University, College of Integrative Health Sciences — Faculty Archives.
-- APA Division 32 (Society for Humanistic Psychology) — Presidential Archives.
-- Association for Humanistic Psychology (AHP) — Conference Archives.
+- Moss, D. (ed.) (1999). *Humanistic and Transpersonal Psychology: A Historical and Biographical Sourcebook*. Greenwood Press.
+- Moss, D., McGrady, A., Davies, T. C. & Wickramasekera, I. (eds.) (2003). *Handbook of Mind-Body Medicine for Primary Care*. Sage.
+- Moss, D. (2001). "The Roots and Genealogy of Humanistic Psychology." In K. J. Schneider, J. F. T. Bugental & J. F. Pierson (eds.), *The Handbook of Humanistic Psychology: Leading Edges in Theory, Research, and Practice*. Sage.
+- Schneider, K. J., Pierson, J. F. & Bugental, J. F. T. (eds.) (2015). *The Handbook of Humanistic Psychology* (2nd ed.). Sage.

@@ -31,6 +31,10 @@ gaps:
 
 طبيب نفسي وباحث سويسري، رائد في التحليل الوجودي (Daseinsanalysis) ومترجم وشارح لأعمال لودفيغ بينسوانغر، اشتُهر عالمياً بكونه مكتشف أول مضاد اكتئاب ثلاثي الحلقات (Imipramine).
 
+## السيرة
+
+وُلد رولاند كون في بيل بسويسرا سنة 1912، ودرس الطب، وعمل منذ 1939 في المستشفى النفسي في مونسترلينغن على بحيرة كونستانس حتى تقاعده سنة 1980، وتوفي سنة 2005 في شيرتسينغن. وكان قريباً مكانياً وفكرياً من لودفيغ بينسوانغر الذي كان يدير عيادة بيلفو في كروزلينغن المجاورة، فتعلّم منه التحليل الوجودي وجمع بين النظر الإكلينيكي والعمل الدوائي طوال حياته.
+
 ## ما أعطاه
 
 - **اكتشاف الإيميبرامين** (1957): من أكثر الأحداث أثراً في تاريخ الطبّ النفسي، وقد وقع بالملاحظة السريرية لا بالبحث المخبري. أعطته شركة **غايغي** مركّباً فاشلاً (G22355) كانت قد طوّرته مضادّاً للهيستامين ثم جرّبته مضادّاً للذهان، لعلّه يصلح بديلاً أرخص للكلوربرومازين. فجرّبه كون على مرضى الفصام في مستشفى **مونسترلينغن** — **ففشل**، بل ازداد بعضهم هياجاً. وكان يمكن أن ينتهي الأمر هنا. لكنه لاحظ أن قلّةً من المرضى تحسّنوا تحسّناً لافتاً، وأن ما يجمعهم أنهم **مكتئبون** لا ذهانيّون. فطلب من الشركة أن يجرّبه على الاكتئاب — وترددت — ثم جرّبه على نحو أربعين مريضاً، فتحسّن أكثرهم بعد أسبوعين إلى ثلاثة.
@@ -54,13 +58,18 @@ gaps:
 
 **والثاني** أن تجارب الأدوية في مستشفى **مونسترلينغن** في الخمسينيات والستّينيات صارت موضوع **تحقيق رسمي في سويسرا** (تقرير صدر بعد وفاته سنة 2019): تبيّن أن مئات المرضى — ومنهم أطفال وقُصَّر ونزلاء محتجزون قسراً — أُعطوا مركّبات تجريبية دون موافقة مستنيرة ودون توثيق كافٍ، وفق معايير حقبةٍ لم تكن فيها أخلاقيات البحث قد تقنّنت بعد. وكون كان مديراً طبّياً في تلك الفترة. ولا يُلغي هذا قيمة الاكتشاف، ولا يجوز حذفه من روايته.
 
+## الوثائق الأولى للاكتشاف
+
+نشر كون ملاحظاته الأولى بالألمانية في «المجلة الطبية السويسرية» سنة 1957 تحت عنوان «في معالجة الحالات الاكتئابية بمشتقّ إمينوديبنزيل (G 22355)»، ثم ظهرت صيغتها الإنجليزية في «المجلة الأمريكية للطب النفسي» سنة 1958. وقد دوّن فيها وصفاً لأعراض المرضى وللتغير الذي رآه، وحذّر من أن الدواء لا يناسب كل مكتئب. وأعاد مؤرخو الطب النفسي مثل ديفيد هيلي سرد القصة بوصفها نموذجاً لاكتشاف جاء من الملاحظة الإكلينيكية قبل أن تكون هناك نظرية كيميائية عصبية.
+
 ## أهم أعماله
 
 تأويلات القناع في اختبار رورشاخ (Maskendeutungen im Rorschach'schen Versuch، 1944) · "The treatment of depressive states with G22355 (imipramine hydrochloride)" (1958)، *American Journal of Psychiatry* — الورقة التي أعلنت الاكتشاف · فصله في *Existence: A New Dimension in Psychiatry and Psychology* (1958).
 
 ## المصادر
 
-- Wikipedia, "Roland Kuhn" — https://en.wikipedia.org/wiki/Roland_Kuhn
-- "Roland Kuhn, 1912–2005", *Neuropsychopharmacology* — https://www.nature.com/articles/1301026
-- "The Clinical Discovery of Imipramine", *American Journal of Psychiatry* — https://psychiatryonline.org/doi/10.1176/appi.ajp.2015.14101336
-- "Everyday transgressions of borderlines: the scandalization of clinical drug trials of the psychiatrist Roland Kuhn" — https://pmc.ncbi.nlm.nih.gov/articles/PMC9992051/
+- Kuhn, Roland. «Über die Behandlung depressiver Zustände mit einem Iminodibenzylderivat (G 22355)». Schweizerische Medizinische Wochenschrift 87 (1957).
+- Kuhn, Roland. «The Treatment of Depressive States with G 22355 (Imipramine Hydrochloride)». American Journal of Psychiatry 115 (1958).
+- May, Rollo, Ernest Angel, and Henri F. Ellenberger (eds.). Existence: A New Dimension in Psychiatry and Psychology. New York: Basic Books, 1958.
+- Healy, David. The Antidepressant Era. Cambridge, MA: Harvard University Press, 1997.
+- Meier, Marietta, Mario König, and Magaly Tornay. Testfall Münsterlingen: Klinische Versuche in der Psychiatrie, 1940–1980. Zürich: Chronos, 2019.
