@@ -60,17 +60,23 @@ gaps:
 
 مارتن-بارو المرجع الأول لـLiberation Psychology، ويُذكر في فهرس المفكرين نظراً لأنه مؤسس نظري لمجال كامل.
 
+وتتجلى أهمية مارتن-بارو في تحوله من الباحث الأكاديمي إلى الفاعل الاجتماعي، إذ لم يعد يرى علم النفس محايداً؛ فقد كان يعتقد أن كل نظرية في الإنسان تحمل موقفاً سياسياً من النظام القائم، وأن المهمة الأولى للعالم الاجتماعي هي كشف هذه المواقف لا إخفاؤها خلف لغة الموضوعية. ومن هذا الموقف جاء اقتراحه الأهم: أن يتعلّم علم النفس من الناس الذين يدرسهم، وأن يُعاد تعريف المريض بوصفه فاعلاً في تاريخ جماعته.
+
+وقد توسّع المشروع في السلفادور بعد الحرب الأهلية (1980–1992)، حين صار علم النفس نفسه أحد مجالات الصراع، إذ كانت الأسر تبحث عن أبنائها المختفين، وكانت الجماعات المهمّشة تواجه صدمة جماعية لا تفهمها المعايير الفردية للتشخيص. وقد دفعه ذلك إلى تطوير مفهوم «الصدمة النفسية-الاجتماعية» (Trauma psychosocial)، وهو مفهوم ما زال حاضراً في برامج الدعم النفسي لما بعد النزاعات.
+
+## القيد
+
+أهم ما يُؤخذ على مشروعه أنه استند إلى تحليل سياسي واجتماعي تفوق قيمته العملية ما يمكن أن يقدمه للتدخل السريري المباشر، وأن مفهوم «الوعي» كما صاغه يفترض وجود مرجعية حقيقية تُكشف للمستضعفين، وهو افتراض يُنتقد من أنصار الاختلاف الثقافي وما بعد الاستعمار. كما أن استطلاعاته، رغم جرأتها، لم تُختبر بمعايير المنهج التجريبي المعاصر، لأنها كانت أدوات عمل ميداني في سياق مضطرب.
+
 ## أهم أعماله
 
 - *Acción e Ideología: Psicología Social desde Centroamérica* (1983).
-- *Psicología de la Liberación* (1986) — ترجمة إنجليزية بعد وفاته، سنة 1994.
+- *Psicología de la Liberación* (مدريد: Trotta، 1998، جُمعت مقالاته بعد وفاته)، وتُرجمت مختاراته إلى الإنجليزية في *Writings for a Liberation Psychology* (1994).
 - *Sistema, grupo y poder: Psicología social desde Centroamérica II* (1989).
-- *Writings for a Liberation Psychology* — صدرت بعد وفاته سنة 1994، المختارات الإنجليزية، تحرير أدريان آرون وشون كورن، وهي التي عرّفت العالم الناطق بالإنجليزية عليه.
+- *Writings for a Liberation Psychology* (1994)، مختارات إنجليزية حررها أدريان آرون وشون كورن، وهي التي عرّفت العالم الناطق بالإنجليزية عليه.
 
 ## المصادر
 
-- Ignatian Solidarity Network, "Ignacio Martín-Baró, S.J. | 1989 | El Salvador": https://ignatiansolidarity.net/blog/portfolio-item/ignacio-martin-baro-s-j-1989-el-salvador/
-- Universidad Centroamericana José Simeón Cañas (UCA), "Colección Digital Ignacio Martín-Baró — Biografía": https://www.uca.edu.sv/coleccion-digital-IMB/biografia/
-- Wikipedia, "Ignacio Martín-Baró": https://en.wikipedia.org/wiki/Ignacio_Mart%C3%ADn-Bar%C3%B3
-- The Spanish Journal of Psychology, "A Psychology of Liberation for Central America: The Unfinished Work of Ignacio Martín-Baró (1942–1989)" (PubMed): https://pubmed.ncbi.nlm.nih.gov/23866226/
-- Loyola University Chicago Digital Special Collections, "The Ellacuría Tapes: A Martyr at Loyola — Fr. Martín-Baró": http://libapps.luc.edu/specialcollections/exhibits/show/ellacuria-tapes/the-martyrs/martin-baro
+- Martín-Baró, Ignacio. *Acción e ideología: Psicología social desde Centroamérica*. San Salvador: UCA Editores, 1983.
+- Martín-Baró, Ignacio. *Sistema, grupo y poder: Psicología social desde Centroamérica II*. San Salvador: UCA Editores, 1989.
+- Aron, Adrianne, and Shawn Corne, eds. *Writings for a Liberation Psychology*. Cambridge, MA: Harvard University Press, 1994.
