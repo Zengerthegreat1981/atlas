@@ -172,3 +172,29 @@ Size: about 190 batches of 40.
 | 2026-09-28 | worker 4-agent round IB0–IB3 (psychology syndromes) | 158 syndromes expanded, each with an explicit diagnostic-status section (DSM-5-TR / ICD-11 / culture-bound / informal); repeated boilerplate blocks removed; 2 undocumented 'syndromes' held back (ahfa-arabian, bebes-enchilados); contested entries balanced (Havana: NASEM 2020 and the 2023 US intelligence assessment). data.json rebuilt | 97cde00b1 … |
 | 2026-09-28 | worker 4-agent round JB0–JB3 (psychology syndromes tail + techniques) | 160 nodes expanded; the syndromes category is complete; techniques state their evidence level honestly (DBT skills draw on whole-programme RCTs; past-life regression, primal and provocative therapy lack controlled evidence; mesmerism covers the 1784 commission; wind-turbine syndrome covers nocebo). data.json rebuilt | 918cecbfe … 920742e86 |
 | 2026-09-28 | worker 4-agent round KB0–KB3 (psychology terms/techniques/thinkers) | 142 nodes expanded; garbled machine-translated term bodies rewritten (transference, repression, defense mechanisms, empathy, neurosis); URL/Wikipedia source lists replaced with dated published works (rule added to the cron SKILL); 18 unverifiable thinkers held back; Adil Najam flagged as a real non-psychologist (IR/policy scholar), a candidate for re-parting. **all parts: 1913 (philosophy 1174, psychology 537)**. data.json rebuilt | 7928e0ce2 … 89b34f06f |
+
+## 4. Resume point — 2026-10-25 (measured from files at HEAD 8a01519ad)
+
+Work stopped on 2026-09-28 08:52 because the `atlas-worker` scheduled task no longer exists in the scheduler (its SKILL.md is still at `~/.claude/scheduled-tasks/atlas-worker/`). Nothing ran for 4 weeks.
+
+### Measured state
+| item | value |
+|---|---|
+| AR live nodes (excl. drafts, _merged, redirect stubs) | **14,237** (baseline 12,803) |
+| Phase 1 coverage targets | **all reached**: legal-theory 700, political-economy 1,101, linguistics 1,200, anthropology 1,201 |
+| AR integrity checker | **0 errors** (all 229 reported issues are in frozen `content/en`) |
+| `audit_atlas.py` | exit 1, **25 failing checks**, atlas-wide and pre-existing: 66 proc-/org- nodes with no title/level, 665 with no crumb, 908 crumbs with <2 parts, 2,220 unreferenced live nodes (1,174 of them carry relational data), 307 edges to missing files, 2,327 related-title mismatches, 194 related-type mismatches, 40 duplicate titles, 107 `en` fields in Arabic, 34 wiki links, 13 belongs_to cycles, 10 duplicate frontmatter keys |
+| Nodes under 300 words | **1,931**: philosophy 1,174 · psychology 452 · bridge 126 · anthropology 81 · arab-thought 42 · psychiatry 35 · religious-studies 13 · linguistics 7 · historiography 1 · sociology/legal/ethics/PE 0 |
+| thinkers/schools/works under 600 words | **3,242** of 7,541: philosophy 1,320 · psychology 1,278 · anthropology 151 · religious-studies 126 · historiography 123 · sociology 92 · linguistics 64 · psychiatry 31 · arab-thought 29 · bridge 18 · legal 6 · ethics 3 |
+| **Files still below their depth target (union)** | **4,184**: philosophy 2,070 · psychology 1,280 · anthropology 156 · bridge 142 · religious-studies 126 · historiography 123 · sociology 92 · linguistics 64 · arab-thought 63 · psychiatry 59 · legal 6 · ethics 3 → ~105 batches of 40 |
+| Uncommitted tree | 105 psychology thinkers modified 2026-09-28 08:55 by the last worker run (died mid-round). 42 pass the gate (≥600 w, ≥2 sources), 63 are at 373–599 w. Plus `.claude/settings.local.json` |
+| Git | **274 commits on main not pushed** (origin/main = 7f7de3dc9, 2026-09-25). Remote reachable. 2 agent worktree branches from 2026-09-25 touch only `content/en` (12 + 16 files; EN is frozen). 1 stash (Evans-Pritchard partial) |
+| EN | 945 files, frozen; `data-en.json`/`index-en.html` stale (2026-08-19). Phase 3 scope decision still pending |
+| Stale docs | `TRANSLATION_RULE.md` and `PHASE4_OCR_SUMMARY.json` still describe the reverted 65,529-term DB |
+
+### Remaining phases
+- **Phase 0b (control chat, before agents start):** adopt the 42 passing uncommitted files and hand the 63 short ones to batch 1; push main; drop the two EN worktree branches and the stash (user decision); scriptable audit fixes (titles/levels for 66 proc-/org- nodes, 665 crumbs, 13 cycles, 5 related self/dup items, 34 wiki links, 10 dup keys); link the 1,174 isolated nodes that carry relations; delete stale translation docs.
+- **Phase 2 (agents, ~105 batches):** order psychology thinkers tail → philosophy (largest) → bridge/arab-thought/psychiatry → remaining thinkers/schools/works tails (anthropology, religious-studies, historiography, sociology, linguistics). Same gate as before (body words, ≥2 dated sources, near-dup check, unique headings, no backticks, phantom skip list, 3 full reads per batch).
+- **Phase 2b:** audit to exit 0 (related-title/type mismatches are scriptable; 40 duplicate titles need a decision each).
+- **Phase 3 (EN):** user chooses scope (full 14k vs core ~4k) → same-slug translation → `data_extras.json` → `build_atlas.py en`.
+- **Phase 4:** full audit both languages, build, push, tag, closeout.
