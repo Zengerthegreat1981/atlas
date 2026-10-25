@@ -27,29 +27,33 @@ gaps:
 
 # فرانك أندرسون
 
-معالج نفسي أمريكي، من أهم المتعاونين مع **ريتشارد شوارتز** في تطوير **IFS**، ومتخصّص في **علاج الصدمة** بنموذج الأنساق الأسرية الداخلية.
+طبيب نفسي أمريكي، تدرّب في جامعة هارفارد وعمل محاضراً إكلينيكياً فيها، وهو أحد أهم المتعاونين مع **ريتشارد شوارتز** في المرحلة الثانية من تطوير نموذج **الأنساق الأسرية الداخلية** (Internal Family Systems – IFS)، ومتخصّص إكلينيكياً في **علاج الصدمة النفسية المعقّدة** بهذا النموذج. افتتح عيادته الخاصة لعلاج الصدمة عام 1994، والتقى شوارتز بعد ذلك وبدأ تعاوناً استمر عقدين، جمع فيه بين تكوينه الطبي النفسي الكلاسيكي (تشخيص واضطراب ما بعد الصدمة والاضطرابات التفارقية) وبين لغة IFS العلاجية القائمة على تعدّد «الأجزاء» الداخلية وقيادة «الذات».
 
-## ما أعطاه
+## الأفكار والمنهج الرئيسي
 
-- تأليف *Transcending Trauma: Using IFS to Heal the Exhausted Self* (مع سوان وشوارتز، 2021)، وهو من أهم كتب IFS عن علاج الصدمة.
-- تطوير **بروتوكولات** لعلاج الصدمة المعقّدة ضمن إطار IFS.
-- شغل منصب رئيس مجلس إدارة (chair) **مؤسسة Foundation for Self Leadership**، وهي منظمة غير ربحية داعمة لـ IFS (بحث وتدريب ومنح)، اعتباراً من 2013، ومدرّب رئيسي (lead trainer) في IFS Institute — وليس مؤسِّساً لـ IFS Institute نفسها (التي أسّسها ريتشارد شوارتز).
-- مساهمات في **«العلاج العلائقي بـ IFS»** (IFS-Informed Couples Therapy) مع شوارتز وسوان.
-- طبيب نفسي تدرّب في جامعة هارفارد، ومحاضر إكلينيكي سابق فيها.
+أسهم أندرسون في توسيع IFS من نموذج علاجي عام للشخصية والانفعال إلى بروتوكول متخصص في علاج الصدمة المعقّدة (Complex PTSD)، عبر دمج مفاهيمه الطبية النفسية عن الذاكرة الصادمة وتفكّك الوعي مع لغة «الأجزاء المنفَاة» (Exiles) و«الحرّاس» (Protectors) التي صاغها شوارتز أصلاً. حجّته المركزية أن أعراض الصدمة — الاسترجاع القسري، والتخدّر الوجداني، وفرط اليقظة — ليست خللاً عصبياً منعزلاً، بل تعبير عن أجزاء داخلية تحمل ذكريات مؤلمة لم يُسمح لها بالتكامل مع بقية الشخصية، وأن الشفاء يمرّ عبر وصول «الذات» القيادية إلى هذه الأجزاء بالفضول والرأفة بدل قمعها أو التماهي معها. طوّر مع كاثي سوان وريتشارد شوارتز بروتوكولات إجرائية لمرافقة الأجزاء المنفاة عبر مراحل الاستدعاء والشهادة والفكّ من العبء (Unburdening)، مع مراعاة خاصة لأمان الجهاز العصبي أثناء العملية — وهي نقطة الوصل التي حاول من خلالها التقريب بين IFS وأبحاث علم أعصاب الصدمة (مثل عمل بيسيل فان دير كولك وستيفن بورجيز عن التنظيم العصبي اللاإرادي)، دون أن يكون هذا التكامل نظرياً صارماً بقدر ما هو استعارة سريرية توجّه الممارسة.
 
-## موقعه من التيار
+على الصعيد المؤسسي، شغل أندرسون منصب رئيس مجلس إدارة (Board Chair) مؤسسة Foundation for Self Leadership — وهي منظمة غير ربحية داعمة لأبحاث IFS وتدريبها ومنحها، وليست IFS Institute نفسها التي أسّسها شوارتز — اعتباراً من 2013، كما عمل مدرّباً رئيسياً (Lead Trainer) في IFS Institute. من خلال هذين الموقعين ساهم في نشر النموذج عالمياً وتوحيد مناهج تدريب المعالجين على تطبيقاته في الصدمة، إلى جانب مساهمات مشتركة مع شوارتز وسوان في تطبيق IFS على علاج الأزواج (IFS-Informed Couples Therapy)، حيث يُنظر إلى الخلاف الزوجي بوصفه تفاعلاً بين أجزاء حارسة لدى الطرفين أكثر من كونه خلافاً بين «شخصين كاملين».
 
-أندرسون من أهم **الجيل الثاني** في مؤسسة IFS، ومُسهم رئيسي في **تطوير النموذج ليشمل الصدمة المعقّدة**. وهو ما يُنتج **تكاملاً** بين IFS وعلم أعصاب الصدمة (بورجيز، فان دير كولك).
+ولا يزال سند هذا التطبيق في طور التراكم. فقد أُجريت تجربة عشوائية مضبوطة على IFS لدى مريضات التهاب المفاصل الرثياوي (شاديك وزملاؤها، 2013، في «مجلة الروماتيزم»)، ونشر أندرسون مع هودغدون وساوثويل وهروبيك وشوارتز (2022) دراسة تجريبية أولية عن فعالية IFS في اضطراب ما بعد الصدمة لدى ناجين من صدمات طفولة متعددة، في «مجلة العدوان وسوء المعاملة والصدمة»، وهي دراسة صغيرة العينة بلا مجموعة ضابطة، فتصلح مؤشراً أولياً لا برهاناً حاسماً. أما التأصيل النظري للنموذج فقد بلغ صيغته الأحدث في الطبعة الثانية من كتاب «علاج الأنساق الأسرية الداخلية» (شوارتز وسويزي، 2020).
 
-## أهم أعماله
+## القيد
 
-- *Transcending Trauma* (2021، مع سوان وشوارتز).
-- *Internal Family Systems Skills Training Manual* (مع سوان، 2017).
-- *To Be Loved: A Memoir* — مذكّرات شخصية عن الصدمة والتعافي.
+عمل أندرسون تطبيقي وسريري بالدرجة الأولى؛ فهو لم يضع بنية IFS النظرية الأصلية (وهي من صياغة شوارتز في الثمانينيات) بل طوّر تطبيقاتها في حقل الصدمة، وقاعدة الأدلة التجريبية المستقلة على IFS في علاج الصدمة المعقّدة لا تزال أضيق مقارنة بمقاربات أخرى كـ EMDR أو العلاج المعرفي السلوكي المرتكز على الصدمة.
+
+ويعدّ مفهوم «الذات» في IFS، بوصفها جوهراً سليماً لا يصيبه الأذى، أكثر مواضع النموذج التي يُسأل عنها نقدياً، لأنه افتراض فلسفي أقرب إلى الميتافيزيقا منه إلى فرضية تجريبية يمكن دحضها، ويتبنّاه أندرسون في عمله من دون أن يقدّم له دليلاً مستقلاً. وكذلك فإن تفسير الأعراض بوصفها «أجزاء» استعارة علاجية مفيدة، لكن لا يوجد دليل على أن الأجزاء كيانات نفسية متمايزة لها وجود مستقل عن الخطاب العلاجي.
+
+## أبرز الأعمال
+
+- *Transcending Trauma: Using IFS to Heal the Exhausted Self* (مع كاثي سوان وريتشارد شوارتز، PESI Publishing, 2021).
+- *Internal Family Systems Skills Training Manual* (مع كاثي سوان، PESI Publishing, 2017).
+- *To Be Loved: A Story of Truth, Trauma, and Transformation* (مذكّرات شخصية، Hachette Go, 2023).
 
 ## المصادر
 
-- [Frank Anderson, MD — IFS, Trauma & Neuroscience Training (therapywisdom.com)](https://therapywisdom.com/frank-anderson/)
-- [Letter from Board Chair Frank Anderson, MD — Foundation for Self Leadership](https://foundationifs.org/news-articles/30-letter-from-board-chair-frank-anderson-md)
-- [Transcending Trauma: Healing Complex PTSD with Internal Family Systems — Goodreads](https://www.goodreads.com/book/show/57564438-transcending-trauma)
-- [To Be Loved: A Memoir — Morgenstern Books](https://morgensternbooks.com/book/9781962305112)
+- Anderson, F. G., Sweezy, M., & Schwartz, R. C. (2017). *Internal Family Systems Skills Training Manual*. PESI Publishing.
+- Sweezy, M., Schwartz, R. C., & Anderson, F. G. (2021). *Transcending Trauma: Using IFS to Heal the Exhausted Self*. PESI Publishing.
+- Anderson, F. G. (2023). *To Be Loved: A Story of Truth, Trauma, and Transformation*. Hachette Go.
+- Schwartz, R. C. (1995). *Internal Family Systems Therapy*. Guilford Press.
+- Shadick, Nancy A., Sowell, Nancy F., Frits, Michelle L. et al. «A Randomized Controlled Trial of an Internal Family Systems-Based Psychotherapeutic Intervention on Outcomes in Rheumatoid Arthritis». *Journal of Rheumatology*. 2013.
+- Hodgdon, Hilary B., Anderson, Frank G., Southwell, Elizabeth, Hrubec, Wendy and Schwartz, Richard. «Internal Family Systems (IFS) Therapy for Posttraumatic Stress Disorder (PTSD) Among Survivors of Multiple Childhood Trauma: A Pilot Effectiveness Study». *Journal of Aggression, Maltreatment & Trauma*. 2022.

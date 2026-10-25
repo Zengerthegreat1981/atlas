@@ -28,26 +28,41 @@ gaps:
 
 # غاري بوند
 
-عالم نفس أمريكي، أستاذ في جامعة Dartmouth، من أهم الباحثين في إدارة الحالة والتوظيف المدعوم.
+عالم نفس أمريكي، أستاذ الطب النفسي في مركز دارتموث للأبحاث النفسية (Dartmouth Psychiatric Research Center)، من أهم الباحثين في إدارة الحالة والتوظيف المدعوم للأشخاص ذوي الاضطرابات النفسية الشديدة.
 
-## ما أعطاه
+## السياق التاريخي
 
-- **نموذج IPS للتوظيف المدعوم** (Individual Placement and Support): قلبَ الترتيب السائد في التأهيل المهني. بدل «درِّب ثم وظِّف» — أي إعداد المريض في ورشة محمية حتى يصير «جاهزاً» — صار المبدأ **«وظِّف ثم درِّب»**: البحث عن عمل تنافسي حقيقي فوراً بحسب تفضيل الشخص، والتدريب يجري داخل العمل نفسه. وحدّد ثمانية مبادئ إجرائية للنموذج جعلته قابلاً للقياس.
-- **مقياس الالتزام بالنموذج** (Fidelity Scale): أداته المنهجية الأهم — مقياس يحدّد كم يقترب برنامجٌ ما من IPS الأصلي. أثبتت دراساته أن النتائج تتناسب طرداً مع درجة الالتزام، وهو ما حوّل «هل يعمل النموذج؟» إلى «هل هذا البرنامج هو النموذج أصلاً؟».
-- **قاعدة الأدلة**: قاد وشارك في مراجعات منهجية على أكثر من عشرين تجربة عشوائية مضبوطة، خلصت إلى أن IPS يحقّق معدّلات توظيف تنافسي تفوق البرامج التقليدية بنحو الضِّعف، عبر بلدان وأنظمة رعاية مختلفة.
+جاء عمل بوند في سياق «حركة إلغاء المأسسة» (Deinstitutionalization) التي أفرغت المصحّات النفسية الأمريكية الكبرى منذ الستينيات، تاركةً فجوة ضخمة بين خروج المرضى إلى المجتمع وقدرتهم على العمل والاندماج فعلياً. كانت النماذج السائدة للتأهيل المهني تعتمد على «ورش العمل المحمية» (Sheltered Workshops) وبرامج تدرّجية طويلة قبل الانتقال إلى سوق العمل الحقيقي، بنتائج توظيف ضعيفة جداً. مثّل عمل بوند مع روبرت دريك وزملائهما في دارتموث قطيعة منهجية مع هذا النموذج التدرّجي.
+
+## الأفكار الرئيسية
+
+- **نموذج IPS للتوظيف المدعوم** (Individual Placement and Support): قلبَ الترتيب السائد في التأهيل المهني. بدل «درِّب ثم وظِّف» — أي إعداد المريض في ورشة محمية حتى يصير «جاهزاً» — صار المبدأ **«وظِّف ثم درِّب»**: البحث عن عمل تنافسي حقيقي فوراً بحسب تفضيل الشخص، والتدريب يجري داخل العمل نفسه لا قبله. وحدّد بوند ثمانية مبادئ إجرائية للنموذج (منها: التوظيف السريع، عدم استبعاد أحد بحجّة عدم الجاهزية، الدمج بين خدمات التوظيف والعلاج النفسي، ودعم غير محدود بالزمن) جعلته قابلاً للقياس والتكرار عبر برامج مختلفة.
+- **مقياس الالتزام بالنموذج** (IPS Fidelity Scale): أداته المنهجية الأهم — مقياس مقنَّن يحدّد كم يقترب برنامجٌ ما فعلياً من نموذج IPS الأصلي بدل الاكتفاء بادّعاء تبنّيه. أثبتت دراساته أن نتائج التوظيف تتناسب طرداً مع درجة الالتزام بالمقياس، وهو ما حوّل السؤال البحثي من «هل يعمل النموذج؟» إلى «هل هذا البرنامج المعيَّن هو النموذج أصلاً أم نسخة مخفَّفة منه؟».
+- **قاعدة الأدلة**: قاد وشارك في مراجعات منهجية على أكثر من عشرين تجربة عشوائية مضبوطة عبر الولايات المتحدة وأوروبا، خلصت إلى أن IPS يحقّق معدّلات توظيف تنافسي تفوق البرامج التقليدية بنحو الضِّعف، عبر بلدان وأنظمة رعاية صحية مختلفة، ما جعله أحد أفضل التدخلات النفسية الاجتماعية توثيقاً بالأدلة في مجال إعادة تأهيل الاضطرابات النفسية الشديدة.
+
+- **مقياس الصدق التنفيذي الأول**: ظهر مقياس الالتزام بنموذج IPS لأول مرة في ورقة بوند وبيكر ودريك وفوغلر (1997) في «نشرة الإرشاد التأهيلي»، ثم نشر بوند وزملاؤه (2001) في «الخدمات النفسية» ورقة عن تطبيق التوظيف المدعوم بوصفه ممارسة مسندة بالأدلة، فصار هذا المسار مرجعاً للسياسات الصحية.
+- **التجارب الدولية**: أظهرت تجربة أوروبية متعددة المراكز (بيرنز وزملاؤه، 2007، في «لانسيت») أن IPS يتفوق على الخدمات المهنية التقليدية في ست دول أوروبية، وإن اختلفت النسب بحسب سوق العمل. وراجع بوند ودريك وبيكر (2012) في «الطب النفسي العالمي» مدى تعميم النموذج خارج الولايات المتحدة، مؤكدين أن النتائج ظلت إيجابية في سياقات مختلفة.
 
 ## موقعه من التيار
 
-من المساهمين البارزين في تطوير إدارة الحالة القائمة على الأدلة. تكامل مع راب ودريك.
+من المساهمين البارزين في تطوير إدارة الحالة القائمة على الأدلة إلى جانب روبرت إي. دريك، وتكامل عمله مع أطر إدارية أوسع كنموذج تشارلز راب القائم على نقاط القوة (Strengths Model)، مع تمايز بوند في تركيزه الدقيق على القياس التجريبي الصارم لجودة تطبيق البرنامج لا فقط على مبادئه النظرية.
 
-## أهم أعماله
+## القيد
 
-- Bond, G. R., Drake, R. E., & Becker, D. R., "An update on randomized controlled trials of evidence-based supported employment" (2008).
-- *Individual Placement and Support: An Evidence-Based Approach to Supported Employment* (2012، مع دريك وبيكر).
+انصبّ عمل بوند على التوظيف المهني تحديداً ضمن إدارة الحالة الأوسع، وقاعدة أدلته الأقوى مبنية على سياقات الرعاية الصحية الغربية (أمريكا الشمالية وأوروبا)، مع تحديات معروفة في نقل النموذج إلى أنظمة صحية واقتصادية مختلفة جذرياً.
+
+ومن القيود الفعلية على النموذج، وهي مما يُقرّ به الباحثون أنفسهم، أن كثيراً من الوظائف التي يحصل عليها المشاركون تكون بدوام جزئي وبأجور منخفضة ومدة قصيرة، وأن نسب التوظيف في بعض الدول الأوروبية ذات البطالة المرتفعة أدنى من نظيراتها الأمريكية. وبهذا فإن معدلات التوظيف التنافسي التي تتضاعف في التجارب لا تعني بالضرورة تحسناً مماثلاً في الدخل أو الاستقلال الاقتصادي.
+
+## أبرز الأعمال
+
+- Bond, G. R., Drake, R. E., & Becker, D. R. (2008). An update on randomized controlled trials of evidence-based supported employment. *Psychiatric Rehabilitation Journal*, 31(4), 280–290.
+- Drake, R. E., Bond, G. R., & Becker, D. R. (2012). *Individual Placement and Support: An Evidence-Based Approach to Supported Employment*. Oxford University Press.
+- Bond, G. R. (2004). Supported employment: Evidence for an evidence-based practice. *Psychiatric Rehabilitation Journal*, 27(4), 345–359.
 
 ## المصادر
 
-- EEOC, "Written Testimony of Dr. Gary Bond, Professor of Psychiatry, Dartmouth Psychiatric Research Center" (2011): https://www.eeoc.gov/meetings/meeting-march-15-2011-employment-people-mental-disabilities/bond
-- Oxford University Press, *Individual Placement and Support* — Robert E. Drake; Gary R. Bond; Deborah R. Becker: https://global.oup.com/academic/product/individual-placement-and-support-9780199734016
-- Center for Evidence-Based Practices, Case Western Reserve University, "Supported Employment/Individual Placement & Support": https://www.centerforebp.case.edu/practices/se
-- Drake, R. E. et al. (2023), "Individual placement and support: History, current status, and future directions," *Psychiatry and Clinical Neurosciences Reports*: https://onlinelibrary.wiley.com/doi/full/10.1002/pcn5.122
+- Drake, R. E., Bond, G. R., & Becker, D. R. (2012). *Individual Placement and Support: An Evidence-Based Approach to Supported Employment*. Oxford University Press.
+- Bond, G. R., Drake, R. E., & Becker, D. R. (2008). An update on randomized controlled trials of evidence-based supported employment. *Psychiatric Rehabilitation Journal*, 31(4), 280–290.
+- Drake, R. E., Bond, G. R., et al. (2023). Individual placement and support: History, current status, and future directions. *Psychiatry and Clinical Neurosciences Reports*, 2(1), e56.
+- Bond, Gary R., Becker, Deborah R., Drake, Robert E. and Vogler, Kim M. «A Fidelity Scale for the Individual Placement and Support Model of Supported Employment». *Rehabilitation Counseling Bulletin*. 1997.
+- Burns, Tom, Catty, Jocelyn, Becker, Thomas et al. «The Effectiveness of Supported Employment for People with Severe Mental Illness: A Randomised Controlled Trial». *The Lancet*. 2007.
