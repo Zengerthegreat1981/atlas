@@ -50,13 +50,29 @@ gaps:
 - *Play Therapy with Adults* (محرَّر، Wiley، 2003) — يمدّ العلاج باللعب إلى الراشدين بفصول لخبراء دوليين.
 - *The Therapeutic Powers of Play: 20 Core Agents of Change* (محرَّر مع أثينا أ. دروز، Wiley، 2014).
 
+## السيرة والمسار البحثي
+
+بدأ شيفر مساره العلمي في علم نفس الإبداع، فنشر مع آنّ أناستازي عام 1968 في Journal of Educational Psychology دراسة بعنوان «A biographical inventory for identifying creativity in adolescent boys»، وبقي اهتمامه بالإبداع والخيال حاضراً في أعماله اللاحقة عن اللعب. ثم انتقل إلى علم النفس الإكلينيكي للأطفال والأسرة في جامعة فيرلي ديكنسون، وكتب في موضوعات متنوعة منها تربية الأطفال وتدريب الوالدين والعلاج الجماعي للأطفال. ويُلاحظ أن إنتاجه الأوسع في العلاج باللعب كان تحريرياً وتنسيقياً: جمع فيه ممارسين وباحثين من مدارس مختلفة في مجلدات واحدة، ما جعله حلقة وصل بين المدارس بدل أن يكون صاحب مدرسة منفردة.
+
+## أبرز أفكاره وتقنياته
+
+إلى جانب «القوى العلاجية للعب» والعلاج الوصفي، ساهم شيفر في ترويج استخدام **ألعاب الطفولة** المنظَّمة في العلاج. ففي كتاب *Game Play: Therapeutic Use of Childhood Games* (مع ستيفن ريد، Wiley، 1986) عرض كيف يمكن للألعاب ذات القواعد، كالألعاب اللوحية وألعاب البطاقات، أن تفيد في التقييم وبناء العلاقة وتعليم المهارات الاجتماعية وضبط الانفعال والتعامل مع الفوز والخسارة، لا سيما مع الأطفال الذين يتحفظون أمام اللعب الحر. وفي كتابه المشترك مع ديان كانجيلوسي *Play Therapy Techniques* (Jason Aronson، 1993) جمع مجموعة واسعة من التقنيات المنظمة بحسب المشكلة. وتبع ذلك *101 Favorite Play Therapy Techniques* (مع هيذر كادوسون، Jason Aronson، 1997).
+
+وفي ميدان الأسرة، كتب مع دوروثي دي جيرونيمو *Ages and Stages: A Parent's Guide to Normal Childhood Development* (Wiley، 2000)، وهو كتاب موجّه إلى الآباء يربط بين مراحل النمو والأساليب التربوية، وقد عكس اهتمامه بنقل نتائج علم النفس النمائي إلى القارئ العام. وفي 2011 حرّر *Foundations of Play Therapy* (Wiley) وهو عرض للأسس النظرية والتطبيقية.
+
+## الأثر والنقد
+
+أثره الأكبر مؤسسي ومنهجي: فقد ساهم عبر الرابطة الأمريكية للعلاج باللعب في تحويل مجال متناثر من ممارسين يعملون بمدارس منفصلة إلى مهنة منظمة لها مؤتمرات وتدريب وشهادات، وأرسى لغة مشتركة هي «عوامل التغيير» التي يمكن أن يتفق عليها أتباع مدارس مختلفة. وقد جعلت هذه المقاربة الانتقائية الحقل أكثر قابلية للمقارنة مع الأدلة التجريبية، وإن ظل بعض المدافعين عن العلاج اللاتوجيهي يرون في الانتقائية مساومة تُفرّغ العلاج من جوهره العلائقي.
+
 ## القيد
 
 الحصيلة النظرية لشيفر **تصنيفية لا تفسيرية**: قائمة القوى العشرين حصر لما يُعتقد أنه يعمل، مستخلَص من مراجعة أدبيات وخبرة إكلينيكية، لا من تجارب تعزل كل قوة على حدة. ولأن ثقله في الحقل ثقل محرِّر — أكثر من خمسين مجلَّداً — فإن نسبة أي فكرة داخل كتبه إليه شخصياً تحتاج التحقق من كاتب الفصل نفسه.
 
 ## المصادر
 
-- Schaefer, C. E., & O'Connor, K. J. (Eds.). *Handbook of Play Therapy*. John Wiley & Sons, 1983.
-- Schaefer, C. E. (Ed.). *The Therapeutic Powers of Play*. Jason Aronson, 1993.
-- Schaefer, C. E. (Ed.). *Play Therapy with Adults*. John Wiley & Sons, 2003.
-- Schaefer, C. E., & Drewes, A. A. (Eds.). *The Therapeutic Powers of Play: 20 Core Agents of Change* (2nd ed.). Wiley, 2014.
+- Schaefer, C. E., & O'Connor, K. J. (Eds.). *Handbook of Play Therapy*. New York: John Wiley & Sons, 1983.
+- Schaefer, C. E., & Reid, S. E. (Eds.). *Game Play: Therapeutic Use of Childhood Games*. New York: John Wiley & Sons, 1986.
+- Schaefer, C. E. (Ed.). *The Therapeutic Powers of Play*. Northvale, NJ: Jason Aronson, 1993.
+- Schaefer, C. E. (Ed.). *Play Therapy with Adults*. Hoboken, NJ: John Wiley & Sons, 2003.
+- Schaefer, C. E., & Drewes, A. A. (Eds.). *The Therapeutic Powers of Play: 20 Core Agents of Change* (2nd ed.). Hoboken, NJ: Wiley, 2014.
+- Schaefer, C. E., & Anastasi, A. "A biographical inventory for identifying creativity in adolescent boys." *Journal of Educational Psychology* 59, 1968.

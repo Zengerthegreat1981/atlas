@@ -73,6 +73,22 @@ gaps:
 
 داماسيو يقول إن **الانفعالات والشعور سابقة للثقافة** — هي من اختراع الحياة نفسها، وليست من اختراع الدماغ البشري.
 
+## السيرة والتكوين
+
+وُلد أنطونيو داماسيو في لشبونة في 25 فبراير 1944، ونال الدكتوراه في الطب من جامعة لشبونة عام 1969 ثم الدكتوراه في العلوم الطبية عام 1974، وانتقل إلى الولايات المتحدة عام 1976. عمل أستاذاً ورئيساً لقسم الأعصاب في جامعة آيوا حتى عام 2005، ثم انتقل إلى جامعة جنوب كاليفورنيا حيث يدير «معهد الدماغ والإبداع» ويشغل منصب أستاذ علم الأعصاب وعلم النفس والفلسفة. وتعاون طوال مسيرته مع زوجته هانّا داماسيو، المتخصصة في التصوير العصبي، ومع أدريان بيتشارا ودانيال ترانل. وقد انطلق عمله من ملاحظة المرضى الذين أصيبوا بتلف دماغي محدد، وهي مدرسة الأعصاب السريري التي تستنتج وظيفة المنطقة من العجز الناتج عن إصابتها.
+
+## الأساس السريري: المرضى والتجارب
+
+بدأت فرضية العلامة الجسدية بمرضى مثل «إليوت»، وهو رجل نجح في عمله وفقد بعد استئصال ورم في الفص الجبهي القدرة على اتخاذ قرارات يومية بسيطة رغم سلامة ذكائه وذاكرته وكلامه، وقد وصفته دراسة إسلنجر وداماسيو في مجلة Neurology عام 1985. وكانت لدى داماسيو إعادة قراءة لحالة فينياس غيج الشهيرة، المنشورة في مجلة Science عام 1994 تحت عنوان «The return of Phineas Gage»، حيث أعاد تركيب مسار القضيب الحديدي في جمجمته ليخلص إلى أن الإصابة مست القشرة الجبهية الإنسية البطنية. ثم أتت التجربة الأشهر مع بيتشارا وترانل في Science عام 1997 بعنوان «Deciding advantageously before knowing the advantageous strategy»، وهي «مهمة المقامرة في آيوا»: يسحب المشاركون بطاقات من أربع حزم، اثنتان منها مربحة على المدى الطويل واثنتان خاسرة. فتعلّم الأصحاء تجنّب الحزم الخاسرة وأظهروا استجابة جلدية استباقية قبل أن يستطيعوا شرح الاستراتيجية، بينما واصل مرضى القشرة الجبهية الإنسية البطنية اختيار الحزم الخاسرة دون أن تظهر عليهم تلك الاستجابات. وقد عُدّت التجربة دليلاً على أن الإشارات الانفعالية تعمل قبل الوعي الصريح.
+
+## الأثر
+
+أثّر داماسيو في تأسيس حقل «علم الأعصاب الانفعالي والاجتماعي» وفي اقتصاد الأعصاب والتسويق العصبي وفلسفة العقل، وصار مرجعاً في النقاش عن دور الانفعال في العقلانية. وتُرجمت كتبه إلى عشرات اللغات، وترك أثراً في قراء من خارج التخصص، ومنها *Looking for Spinoza* (2003) الذي ربط فيه بين أفكار سبينوزا عن الانفعال والجسد وبين علم الأعصاب الحديث. وفي *Feeling & Knowing: Making Minds Conscious* (2021) لخّص تصوره عن أن المشاعر هي أساس الوعي، وأن الإحساس الداخلي يسبق المعرفة.
+
+## النقد
+
+وجّه نقاد كثيرون الاعتراض إلى التفسير لا إلى الظاهرة: فقد جادل مايا ومكليلاند (PNAS، 2004) بأن المشاركين في مهمة آيوا يعرفون الاستراتيجية الصحيحة أبكر مما ظنّ داماسيو، فلا حاجة إلى افتراض إشارات لاواعية. وراجع دان ودالغليش ولورنس عام 2006 في Neuroscience & Biobehavioral Reviews الأدلة وخلصوا إلى أن الفرضية غير محددة بما يكفي لتُختبر، وأن التفاعل بين الجسد والقرار أعقد مما تفترض. كما اعترض باحثون في علم الأعصاب مثل جوزيف ليدو وجاك بانكسيب على نظرية الشعور بوصفه خريطة جسدية، فرأوا أن الدوائر الانفعالية تعمل بمعزل عن الإدراك الواعي للإشارات الجسدية. ويضاف إلى ذلك أن صياغات داماسيو الأخيرة، عن الاستتباب وأصل الثقافة، أقرب إلى الفلسفة التأملية منها إلى فرضيات تجريبية.
+
 ## موقعه من التيار
 
 - **مقابل ديكارت**: رفض ثنائية العقل/الجسد. قال إن العقل متجسِّد (embodied) في الجسد.
@@ -89,7 +105,10 @@ gaps:
 
 ## المصادر
 
-- Antonio Damasio, *Descartes' Error: Emotion, Reason, and the Human Brain* (1994).
-- "Somatic marker hypothesis", *Wikipedia*: https://en.wikipedia.org/wiki/Somatic_marker_hypothesis
-- Damasio, A. & Damasio, H. (1996), "The somatic marker hypothesis and the possible functions of the prefrontal cortex", *Phil. Trans. R. Soc. Lond. B*: https://pubmed.ncbi.nlm.nih.gov/8941953/
-- "Descartes' Error", *Wikipedia*: https://en.wikipedia.org/wiki/Descartes'_Error
+- Damasio, A. R. *Descartes' Error: Emotion, Reason, and the Human Brain*. New York: G. P. Putnam's Sons, 1994.
+- Damasio, A. R. *The Feeling of What Happens: Body and Emotion in the Making of Consciousness*. New York: Harcourt Brace, 1999.
+- Damasio, A. R. *Self Comes to Mind: Constructing the Conscious Brain*. New York: Pantheon, 2010.
+- Damasio, A. R. *The Strange Order of Things: Life, Feeling, and the Making of Cultures*. New York: Pantheon, 2018.
+- Bechara, A., Damasio, H., Tranel, D., & Damasio, A. R. "Deciding advantageously before knowing the advantageous strategy." *Science* 275, 1997.
+- Damasio, H., Grabowski, T., Frank, R., Galaburda, A. M., & Damasio, A. R. "The return of Phineas Gage: Clues about the brain from the skull of a famous patient." *Science* 264, 1994.
+- Damasio, A. R., & Damasio, H. "The somatic marker hypothesis and the possible functions of the prefrontal cortex." *Philosophical Transactions of the Royal Society B* 351, 1996.

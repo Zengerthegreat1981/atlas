@@ -44,13 +44,27 @@ gaps:
 - **حدود التعميم**: معظم أدلّة 1998–2010 من عيّنات جامعية أمريكية، ومقاييس السعادة شديدة الحساسية للسياق الثقافي.
 - **الالتباس التطبيقي**: تُقرأ نتائجه أحياناً بوصفها دعوةً إلى اللامبالاة بالمستقبل، وخلاصته أن **الحدس رديء الدقّة** لا أن الاختيار لا يهمّ؛ واقتراحه العملي أن نستشير من مرّ بالتجربة فعلاً بدل أن نتخيّلها.
 
+## السيرة والتكوين
+
+وُلد دانيال جيلبرت عام 1957 في لوس أنجلوس، ونال الدكتوراه في علم النفس الاجتماعي من جامعة برينستون عام 1985 على يد إدوارد جونز، ثم عمل في جامعة تكساس في أوستن قبل أن ينتقل عام 1996 إلى هارفارد. وكانت بدايته في أبحاث العزو والاستدلال عن الآخرين: وصف مع بيلهام وكرول عام 1988 في JPSP كيف يؤدي الانشغال الذهني إلى «خطأ العزو الأساسي» (On cognitive busyness)، ثم كتب مع مالون عام 1995 مراجعة مرجعية عن «انحياز المطابقة» في Psychological Bulletin. وفي مقال عام 1991 بعنوان «How mental systems believe» في American Psychologist جادل بأن الفهم والتصديق عملية واحدة على طريقة سبينوزا لا عمليتان، وأن رفض الفكرة يحتاج جهداً إضافياً. ثم انتقل في التسعينيات إلى سؤال السعادة والتنبؤ بها، فصار عنوانه الأشهر.
+
+## ما بعد التنبؤ الوجداني
+
+طوّر مع ويلسون مفاهيم مرتبطة بالتنبؤ منها «سوء الرغبة» (miswanting)، أي أن نرغب في ما لن يسعدنا، و«التصحيح الزمني» الذي درسه مع غيل وويلسون عام 2002 في Organizational Behavior and Human Decision Processes. وفي مراجعة نشرها مع ويلسون في Science عام 2007 بعنوان «Prospection: Experiencing the future» ناقش كيف يصنع الدماغ محاكاة للمستقبل، وكيف تعتمد المحاكاة على الذاكرة والحاضر بصورة تجعلها متحيزة. وفي ورقة عام 2004 بعنوان «The peculiar longevity of things not so bad» في Psychological Science وصف مع زملائه ظاهرة أن المصائب الصغيرة، لأنها لا تُنشّط «جهاز المناعة النفسي»، قد تؤلم أطول من المصائب الكبيرة. كما شارك في تقديم برنامج وثائقي أمريكي عن العاطفة على قناة PBS عام 2010، وصارت محاضرته على منصة TED من أكثر المحاضرات مشاهدة.
+
+## الأثر والنقد
+
+أثّر جيلبرت في الاقتصاد السلوكي وفي أبحاث القرارات وفي نقاش السياسات العامة عن قياس الرفاه. ومن الاعتراضات المهمة ما كتبه دينر ولوكاس وسكولون عام 2006 في American Psychologist («Beyond the hedonic treadmill») من أن التكيف اللذائذي ليس تاماً: فبعض الأحداث، كفقدان الوظيفة المطوّل وبعض الإعاقات، تترك أثراً دائماً في مستوى الرضا، ولا يعود الناس دائماً إلى خط الأساس. وبذلك يخفف النقدُ من التعميم القائل إن الجميع يتكيف، ويقترح أن الخطأ التنبؤي حقيقي لكن حجمه يتفاوت بحسب نوع الحدث.
+
 ## موقعه من التيار
 
 يقع جيلبرت عند تقاطع علم النفس الاجتماعي وعلم نفس السعادة والاقتصاد السلوكي. ويتقاطع عمله مع **دانيال كانمان** في التمييز بين الذات المُختبِرة والذات المتذكّرة: كانمان يسائل دقّة **تذكُّر** اللذّة، وجيلبرت يسائل دقّة **توقُّعها**. ونتيجة انحياز الأثر هي الوجه التنبّؤي لظاهرة **التكيّف اللذائذي** التي جاءت من قياس بريكمان 1978.
 
 ## المصادر
 
-- Gilbert, D. T., Pinel, E. C., Wilson, T. D., Blumberg, S. J., & Wheatley, T. P. "Immune Neglect: A Source of Durability Bias in Affective Forecasting", *Journal of Personality and Social Psychology*, 75(3), 1998.
-- Wilson, T. D., & Gilbert, D. T. "Affective Forecasting", *Advances in Experimental Social Psychology*, vol. 35, 2003.
-- Gilbert, D. T. *Stumbling on Happiness*, New York: Knopf, 2006.
-- Killingsworth, M. A., & Gilbert, D. T. "A Wandering Mind Is an Unhappy Mind", *Science*, 330(6006), 2010.
+- Gilbert, D. T., Pinel, E. C., Wilson, T. D., Blumberg, S. J., & Wheatley, T. P. "Immune Neglect: A Source of Durability Bias in Affective Forecasting." *Journal of Personality and Social Psychology* 75(3), 1998.
+- Wilson, T. D., & Gilbert, D. T. "Affective Forecasting." *Advances in Experimental Social Psychology* 35, 2003.
+- Gilbert, D. T. *Stumbling on Happiness*. New York: Knopf, 2006.
+- Killingsworth, M. A., & Gilbert, D. T. "A Wandering Mind Is an Unhappy Mind." *Science* 330(6006), 2010.
+- Gilbert, D. T., & Malone, P. S. "The correspondence bias." *Psychological Bulletin* 117, 1995.
+- Brickman, P., Coates, D., & Janoff-Bulman, R. "Lottery winners and accident victims: Is happiness relative?" *Journal of Personality and Social Psychology* 36, 1978.

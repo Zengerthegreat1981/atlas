@@ -40,6 +40,16 @@ gaps:
 
 اعتُبر الكتاب، الذي تُرجم إلى نحو سبع لغات ودُرِّس على نطاق واسع في برامج الدراسات النسوية، أحد الأعمال التأسيسية في **التحليل النفسي النسوي** إلى جانب أعمال نانسي تشودورو التي طرحت في العام نفسه تقريباً أطروحة موازية عن «إعادة إنتاج الأمومة». أسهمت أطروحة دينرشتاين في الجدل السياسي والأكاديمي حول **الأبوة المشتركة** (Co-Parenting) ورعاية الطفولة الجماعية كسياسة اجتماعية لا خيار فردي فحسب.
 
+## السياق والخلفية
+
+كتبت دينرشتاين كتابها في سبعينيات القرن العشرين بين موجتين: الموجة النسوية الثانية التي كانت تسائل الأسرة والأمومة، وقلق عالمي من الحرب النووية والتدمير البيئي. وهذا ما يفسّر اتساع طموح الكتاب: فهو لا يكتفي بتفسير عدم المساواة بين الجنسين، بل يقول إن الترتيبات الجنسية القائمة، أي احتكار النساء لرعاية الطفولة المبكرة وغياب الرجال عنها، جزء من «الوعكة الإنسانية» التي تدفع الإنسان إلى الإفراط في السيطرة على الطبيعة وتهديد بقائه. فالاستياء من الأمومة الأولى الشاملة ينتقل، في قراءتها، إلى العلاقة مع الطبيعة نفسها، التي تُصوَّر في الثقافة بوصفها «أماً» ينبغي إخضاعها. وقد طرحت هذا الربط في مقال كتبته للمجموعة التي حرّرتها تشارلين سبريتناك *The Politics of Women's Spirituality* (1982) بعنوان «Survival on Earth: The meaning of feminism»، ونشطت في حركة مناهضة السلاح النووي.
+
+وظهر الكتاب في طبعة بريطانية بعنوان *The Rocking of the Cradle, and the Ruling of the World*، وأعادت دار Other Press نشره بعنوانه الأصلي عام 1999، مما أبقاه حاضراً في المقررات بعد وفاتها.
+
+## الاستقبال والنقد
+
+لقي الكتاب اهتماماً واسعاً لأنه ربط التحليل النفسي بسؤال السياسة، لكنه أثار اعتراضات متنوعة. فقد ركّزت جيسيكا بنجامين في *The Bonds of Love: Psychoanalysis, Feminism, and the Problem of Domination* (Pantheon، 1988) على أن نظرية دينرشتاين تجعل الأم كلية القدرة في عيني الطفل وتتجاهل الطفل بوصفه فاعلاً ينشئ علاقة تبادلية مع أمه، واقترحت بدل ذلك مفهوم الاعتراف المتبادل. واعترض بعض النسويين على التعميم من الغرب إلى الإنسان عموماً، ونبّه آخرون إلى أن المساواة في رعاية الأطفال، على أهميتها، قد لا تكفي لإزالة التفاوت الاجتماعي ما لم تتغير البنية الاقتصادية والسياسية. أما من جانب التحليل النفسي، فقد رأى كثيرون أن التفسير النفسي-الواحد لظواهر معقدة كالعدوان والحرب مبالغ فيه ولا يمكن اختباره.
+
 ## القيد
 
 يُنتقد الكتاب بأنه يعمم من نموذج أسري غربي متوسط الطبقة (حيث الأم هي مقدمة الرعاية الحصرية) إلى نظرية كونية عن الطبيعة البشرية، متجاهلاً تنوع ترتيبات رعاية الطفولة عبر الثقافات (الرعاية الجماعية الممتدة، تعدد مقدمي الرعاية) التي لا تُظهر بالضرورة النمط النفسي ذاته الذي وصفته.
@@ -50,7 +60,8 @@ gaps:
 
 ## المصادر
 
-- Dinnerstein, Dorothy. *The Mermaid and the Minotaur: Sexual Arrangements and Human Malaise*. New York: Harper & Row, 1976.
-- "Dorothy Dinnerstein." Jewish Women's Archive, *Encyclopedia of Jewish Women*.
+- Dinnerstein, Dorothy. *The Mermaid and the Minotaur: Sexual Arrangements and Human Malaise*. New York: Harper & Row, 1976 (أعيد نشره: New York: Other Press, 1999).
+- Dinnerstein, Dorothy. "Survival on Earth: The meaning of feminism." In Charlene Spretnak (ed.), *The Politics of Women's Spirituality*. Garden City, NY: Anchor Books, 1982.
 - Chodorow, Nancy. *The Reproduction of Mothering: Psychoanalysis and the Sociology of Gender*. Berkeley: University of California Press, 1978 (للمقارنة مع أطروحة موازية).
-- "Dorothy Dinnerstein (1923–1992)." Encyclopedia.com biographical entry.
+- Benjamin, Jessica. *The Bonds of Love: Psychoanalysis, Feminism, and the Problem of Domination*. New York: Pantheon, 1988.
+- "Dorothy Dinnerstein." Jewish Women's Archive, *Encyclopedia of Jewish Women*.

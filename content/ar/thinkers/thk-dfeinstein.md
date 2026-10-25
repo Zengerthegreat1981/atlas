@@ -44,6 +44,18 @@ gaps:
 
 يقع عمل فاينشتاين عند تقاطع ثلاثة تيارات: علم نفس الأسطورة والخيال الفعّال (متأثراً بيونغ عبر كريبنر)، وحركة "الطب بالطاقة" البديلة (عبر شراكته مع دونا إيدن)، وحركة "علم نفس الطاقة" الأوسع التي أطلقها روجر كالاهان (TFT) وطوّرها غاري كريغ (EFT). لم يُوثَّق أن فاينشتاين هو مبتكر TFT أو EFT أنفسهما؛ دوره الموثَّق هو في صياغة الإطار النظري والبحثي المصاحب لهذا الحقل، لا في اختراع تقنياته الأصلية.
 
+## الميثولوجيا الشخصية
+
+انطلق فاينشتاين في السبعينيات من ملاحظة أن لكل شخص «أساطير» داخلية تنظّم سلوكه وتتحكم في استجابته لأحداث حياته، وأن هذه الأساطير تتحول مع النمو أو تتصلب. فصاغ مع كريبنر منهجاً يتألف من خمس مراحل يعمل فيها الشخص على التعرف على الأسطورة السائدة، وفحص تعارضاتها، وتخيّل أسطورة بديلة، ثم تجسيدها في طقوس وسلوك يومي. وجمعا ذلك في *Personal Mythology* (Tarcher، 1988؛ ثم طبعة منقّحة)، وفي *The Mythic Path* (Tarcher، 1997)، وكتب فاينشتاين مع ستيفن ماير *Rituals for Living and Dying* (HarperSanFrancisco، 1990) عن الطقوس الشخصية في مواجهة المرض والفقد. وهذا الجانب من عمله أقل إثارة للجدل من علم نفس الطاقة، لأنه ينتمي إلى تقليد الأساطير عند يونغ وكامبل، ويتعامل مع الأسطورة بوصفها استعارة نفسية لا ادعاء علمياً عن العالم.
+
+## الطب بالطاقة وعلم نفس الطاقة
+
+شارك فاينشتاين عام 1998 مع دونا إيدن في تأليف *Energy Medicine* (Tarcher)، ثم *The Energies of Love* (Tarcher، 2008) عن العلاقة بين الشريكين. وفي الأدبيات الأكاديمية نشر مراجعة بعنوان «Energy psychology: A review of the preliminary evidence» في *Psychotherapy: Theory, Research, Practice, Training* عام 2008، ثم مراجعة أخرى في *Review of General Psychology* عام 2012 بعنوان «Acupoint stimulation in treating psychological disorders: Evidence of efficacy»، وفيها جمع تجارب مضبوطة عن تحفيز نقاط الوخز مع التعريض، ورأى أن الأدلة تدعم فعاليتها. وطرح عام 2010 فرضية في مجلة *Psychotherapy* بعنوان «Rapid treatment of PTSD: Why psychological exposure with acupoint tapping may be effective»، وهي أن تحفيز النقاط يخفض نشاط اللوزة الدماغية أثناء التعريض ويسرّع الانطفاء الشرطي.
+
+## النقد
+
+يتركز النقد على ثلاثة أمور. الأول أن مقارنة العلاج بقوائم الانتظار أو بدون علاج لا تثبت أن النقر على نقاط الوخز هو العنصر الفعّال، وهو ما أكدته دراسات مقارنة بين النقر على النقاط الحقيقية والزائفة. والثاني أن الآلية المقترحة (خطوط الطاقة) لا سند لها في علم الأحياء المعروف، وأن الآلية العصبية التي اقترحها فاينشتاين نفسه فرضية لم تُختبر مباشرة. وقد صنّف جيف ديفيلي عام 2005 في *Australian & New Zealand Journal of Psychiatry* هذه العلاجات ضمن «العلاجات القوية» التي يخشى أن تهدد علمية الطب النفسي. والثالث أن جانباً من المنشورات صدر في منابر ترتبط بالحقل نفسه، وأن للمؤلفين مصلحة في التدريب والكتب. ولذلك يظل موقعه الأدق في الأطلس هو موقع منظّر يدافع عن حقل لم يحسم علمياً بعد.
+
 ## موقعه من التيار
 
 من أبرز المنظِّرين المدافعين عن "علم نفس الطاقة" أكاديمياً، ويُعدّ صوتاً رئيسياً في محاولة إكساب هذا الحقل شرعية علمية عبر النشر المحكَّم والتدريس الجامعي، رغم أن الحقل ذاته يبقى محل شكّ واسع في الأوساط الأكاديمية السائدة بخصوص الآلية العصبية المزعومة لـ"نقاط الوخز".
@@ -56,7 +68,9 @@ gaps:
 
 ## المصادر
 
-- Feinstein, D., Eden, D., & Craig, G. *The Promise of Energy Psychology: Revolutionary Tools for Dramatic Personal Change*. Tarcher/Penguin, 2005.
-- Feinstein, D. & Krippner, S. *Personal Mythology: The Psychology of Your Evolving Self*.
-- Feinstein, D. (1979). "Personal Mythology as a Paradigm for a Holistic Public Psychology". *American Journal of Orthopsychiatry*.
-- صفحات السيرة المهنية: Eden Energy Medicine (edenenergymedicine.com)، Energy Psychology (energytapping.com)، EFT International (eftinternational.org).
+- Feinstein, D., Eden, D., & Craig, G. *The Promise of Energy Psychology: Revolutionary Tools for Dramatic Personal Change*. New York: Tarcher/Penguin, 2005.
+- Feinstein, D., & Krippner, S. *Personal Mythology: The Psychology of Your Evolving Self*. Los Angeles: Jeremy P. Tarcher, 1988.
+- Feinstein, D. "Personal Mythology as a Paradigm for a Holistic Public Psychology." *American Journal of Orthopsychiatry* 49, 1979.
+- Feinstein, D. "Energy psychology: A review of the preliminary evidence." *Psychotherapy: Theory, Research, Practice, Training* 45(2), 2008.
+- Feinstein, D. "Acupoint stimulation in treating psychological disorders: Evidence of efficacy." *Review of General Psychology* 16(4), 2012.
+- Devilly, G. J. "Power therapies and possible threats to the science of psychology and psychiatry." *Australian & New Zealand Journal of Psychiatry* 39, 2005.

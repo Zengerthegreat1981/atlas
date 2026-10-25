@@ -31,36 +31,40 @@ gaps:
 
 معالج نفسي وعالم سلوكي أمريكي، مُطوِّر منهج "TRE" (Tension & Trauma Releasing Exercises، تمارين إطلاق التوتر والصدمة). عاش في القاهرة لسنوات عدّة وعمل مع سَكّان منكوبين في الشرق الأوسط وأفريقيا، بما في ذلك مع اللاجئين وضحايا الحروب. يُوصف عمله بأنه "جسدي-صدموي" (Somatic-Trauma)، ويستقي من "النموذج الجسدي" الذي طوّره Peter Levine.
 
+## السياق التاريخي
+
+نشأ العلاج الجسدي للصدمة من مراجعة تقليد المعالجة بالكلام وحده. فقد رأى باحثون وممارسون أن الصدمة تترك أثراً في الجسد والجهاز العصبي لا يزول بالحديث وحده، ومنهم بيتر ليفين الذي عرض في *Waking the Tiger: Healing Trauma* (North Atlantic Books، 1997) فكرة أن الحيوانات تُفرغ استجابة التهديد بالارتجاف بعد النجاة، وأن الإنسان قد يحتجز هذه الطاقة فتتحول إلى أعراض. وجاء بيسل فان دير كولك لاحقاً في *The Body Keeps the Score* (Viking، 2014) ليجعل الفكرة جزءاً من الثقافة النفسية العامة، وأضاف ستيفن بورجس نظرية العصب المبهم المتعدد (*The Polyvagal Theory*، Norton، 2011). في هذا المناخ طرح بيرسيلي منهجه ليكون وسيلة بسيطة يمارسها الفرد بنفسه.
+
 ## ما أعطاه
 
-- **"تمارين إطلاق التوتر والصدمة" (TRE, أوائل العقد الأول من الألفية الثانية، وأُضفيت عليها صياغة أكاديمية عبر أطروحة دكتوراه بيرسيلي في جامعة أريزونا ستيت عام 2009)**: منهج علاجي من سبع تمارين يستهدف إيقاع "الرجفة العصبية" (Neurogenic Tremors) في الجسم، يُعتقد أنّها تساعد الجهاز العصبي على "تصريف" الطاقة المحبوسة بسبب الصدمة. يختلف عن الـEMDR في كونه لا يحتاج معالجاً مُشرفاً.
-- **"نظرية الرجفة العصبية"**: تطوير فرضيّة أنّ "الرُّجفان" هو آلية تطوّرية لتنظيم الجهاز العصبي الودي (Sympathetic)، يربط بين علم النفس الجسدي وعلم الأعصاب.
-- **"إطار 'القلق غير المُفَعَّل'"**: تمييزه بين "القلق الفعّال" (حركة) و"القلق المُحبَس" (توتّر ثابت)، حيث يعمل TRE على تحويل الأول إلى الثاني بأمان.
-- **"TRE في سياقات الصدمة الجماعية"**: تطبيقات موثّقة مع لاجئين وناجين في مناطق نزاع بالشرق الأوسط وأفريقيا (لبنان، فلسطين/إسرائيل، السودان، أوغندا، كينيا، اليمن، مصر)؛ العلاقة برواندا تحديداً لم تُوثَّق بمصدر مستقل.
-- **"الطبّ الجسدي في الشرق الأوسط"**: تكليف برنامج تدريب للمعالجين المحليين على TRE في المنطقة العربية.
-- **"نموذج الصدمة المزمنة vs الصدمة الحادّة"**: تمييز بين "الصدمة التطويرية" (Developmental Trauma) و"الصدمة الحادّة"، مع تنويع بروتوكول TRE لكلّ منهما.
-- **"بروتوكول TRE للفرق الطبية"**: تطبيق TRE على العاملين في الرعاية الصحية في مناطق الأزمات (نشره في 2015).
+- **"تمارين إطلاق التوتر والصدمة" (TRE)**: منهج من سبع تمارين تُجهد عضلات الساق والورك، ويقال إنها تستثير ارتجافاً لا إرادياً يُسمّى "الرجفة العصبية" (Neurogenic Tremors)، يُعتقد أنه يساعد الجهاز العصبي على تفريغ التوتر المتراكم. وقد شرح الفكرة في كتابه *Trauma Releasing Exercises (TRE): A Revolutionary New Method for Stress/Trauma Recovery* (BookSurge، 2005) ثم في *The Revolutionary Trauma Release Process: Transcend Your Toughest Times* (Namaste Publishing، 2008). يختلف عن الـEMDR في كونه لا يحتاج معالجاً مُشرفاً بعد التدريب الأول.
+- **"نظرية الرجفة العصبية"**: فرضيّة أنّ الرُّجفان آلية تطوّرية لتنظيم الجهاز العصبي، تربط بين علم النفس الجسدي وعلم الأعصاب. وتنسب الفكرة جانباً من الدور إلى عضلة البسواس (psoas) باعتبارها حلقة بين الجذع والساقين ترتبط باستجابة الخوف والتجمّد.
+- **تطبيقات الصدمة الجماعية**: عمل بيرسيلي مع لاجئين وناجين في مناطق نزاع بالشرق الأوسط وأفريقيا بحسب سيرته المنشورة (لبنان، فلسطين/إسرائيل، السودان، أوغندا، كينيا، اليمن، مصر)، وذكر أنه أدخل البرنامج في برامج لتدريب معالجين محليين؛ أما علاقته برواندا تحديداً فلم تُوثَّق بمصدر مستقل.
+- **الوقاية لدى المهنيين**: نشر مع ناپولي عام 2006 في *Complementary Health Practice Review* مقالاً بعنوان «A proposal for a mindfulness-based trauma prevention program for social work professionals» اقترحا فيه برنامجاً وقائياً للعاملين الاجتماعيين المعرّضين للصدمة الثانوية.
+- **دراسات الجدوى**: شارك في دراسة تجريبية صغيرة نُشرت عام 2014 في *Global Advances in Health and Medicine* عن أثر الرجفات العلاجية المستحثّة ذاتياً على جودة حياة مقدّمي الرعاية غير المهنيين، وهي من الدراسات القليلة المنشورة عن المنهج.
 
 ## موقعه من التيار
 
-يقع بيرسيلي على الحدود بين "العلاج الجسدي" (Somatic Therapy) و"علم النفس الصدموي" (Trauma Psychology). تأثّر بـPeter Levine (مؤسِّس Somatic Experiencing) وBessel van der Kolk (The Body Keeps the Score)، لكنه اختار منهجاً أكثر استقلالية عن المعالج (Self-Help Model). خلافاً لـEMDR (Francine Shapiro) التي تتطلّب مشرفاً متخصّصاً، صُمِّم TRE بحيث يستطيع الفرد ممارسته بعد تدريب قصير. يُدرج أحياناً في إطار "العلاجات الجسدية من الموجة الثالثة" (Third-Wave Somatic Interventions) مع Pat Ogden (Sensorimotor Psychotherapy)، Stephen Porges (Polyvagal Theory)، وBabette Rothschild (The Body Remembers).
+يقع بيرسيلي على الحدود بين "العلاج الجسدي" (Somatic Therapy) و"علم النفس الصدموي" (Trauma Psychology). تأثّر بـPeter Levine (مؤسِّس Somatic Experiencing) وBessel van der Kolk، لكنه اختار منهجاً أكثر استقلالية عن المعالج (Self-Help Model). خلافاً لـEMDR (Francine Shapiro) التي تتطلّب مشرفاً متخصّصاً، صُمِّم TRE بحيث يستطيع الفرد ممارسته بعد تدريب قصير. يُدرج أحياناً مع Pat Ogden (Sensorimotor Psychotherapy) وStephen Porges (Polyvagal Theory) وBabette Rothschild (The Body Remembers) في إطار العلاجات الجسدية.
+
+## الأثر والنقد
+
+انتشر TRE في أوروبا وأمريكا وأفريقيا عبر شبكة من الممارسين المعتمدين، ووجد جمهوراً من الأفراد الباحثين عن وسيلة ذاتية لتخفيف التوتر. غير أن الأدلة الكمية محدودة جداً: دراسات صغيرة وبلا مجموعات ضابطة كافية، ويأتي بعضها من الدائرة المرتبطة بالمنهج. كما أن التفسير العصبي للرجفة وربطها بتفريغ «طاقة محبوسة» وبعضلة البسواس فرضية لم تُختبر بدقة، ولا يوجد اتفاق على أن الرجفات التي تستثيرها التمارين هي الظاهرة نفسها التي يصفها ليفين في الحيوانات. وينبّه الممارسون أنفسهم إلى أن الاستثارة الجسدية قد تُنشّط ذكريات صادمة عند من يعانون صدمة شديدة، فيحتاجون إلى مرافقة مختصة.
+
+## القيد
+
+سنة الميلاد وتفاصيل المسار الأكاديمي غير موثَّقة علناً بما يكفي، فلا تُذكر هنا. ومعظم ما يُعرف عن عمله الميداني مصدره سيرته المنشورة من جهة المنهج نفسه ومن تقارير صحفية، وليس من تقييمات مستقلة. ولا يصلح TRE بديلاً عن علاج الصدمة المثبَت (العلاج المعرفي السلوكي المركَّز على الصدمة أو EMDR) بالنسبة للأشخاص المصابين باضطراب ما بعد الصدمة.
 
 ## أهم أعماله
 
-- *TRE: Tension & Trauma Releasing Exercises* (دليل تدريب).
-- *Shaking & Tremoring: The Healing Power of Neurogenic Tremors* (مقالات وكتيّبات).
-- *TRE Provider Certification Manual* (إصدار متعدّد، العقد الثاني من القرن الحادي والعشرين).
-- *Trauma Releasing Exercises for Stress, Tension, and Trauma* (مجلّة علمية، دراسات).
-- *TRE in Conflict Zones* (تقرير ميداني، 2017).
-
-## اقتباسات مختارة
-
-لا يوجد اقتباس مباشر موثّق في هذا الملف.
+- *Trauma Releasing Exercises (TRE): A Revolutionary New Method for Stress/Trauma Recovery* (2005).
+- *The Revolutionary Trauma Release Process: Transcend Your Toughest Times* (2008).
+- Berceli, D., & Napoli, M. "A proposal for a mindfulness-based trauma prevention program for social work professionals" (2006).
 
 ## المصادر
 
-- [Tension and Trauma Releasing Exercises — Wikipedia](https://en.wikipedia.org/wiki/Tension_and_Trauma_Releasing_Exercises)
-- [About Dr. David Berceli — TRE Global](https://treglobal.org/about-dr-david-berceli/)
-- [Founder David Berceli, PhD — tre-online.com](https://tre-online.com/what-is-tre/founder-david-berceli/)
-- [TRE® Founder History of TRE by David Berceli — TRE Scotland](https://trescotland.com/trefounder/)
-- [Tremor vs. trauma — News24](https://www.news24.com/life/archive/Tremor-vs-trauma-20120721)
+- Berceli, D. *Trauma Releasing Exercises (TRE): A Revolutionary New Method for Stress/Trauma Recovery*. BookSurge, 2005.
+- Berceli, D. *The Revolutionary Trauma Release Process: Transcend Your Toughest Times*. Vancouver: Namaste Publishing, 2008.
+- Berceli, D., & Napoli, M. "A proposal for a mindfulness-based trauma prevention program for social work professionals." *Complementary Health Practice Review* 11(3), 2006.
+- Levine, P. A. *Waking the Tiger: Healing Trauma*. Berkeley: North Atlantic Books, 1997.
+- van der Kolk, B. *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. New York: Viking, 2014.

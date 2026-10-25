@@ -45,6 +45,22 @@ gaps:
 
 فيشر من أهم **الأكاديميين-النشطاء** في حركة التعافي، وهو من الجيل الذي ربط **البحث الأكاديمي** بموقع **«ذوي الخبرة»** (Peer Specialists)، وهو ما أعطى الحركة موضعاً داخل المؤسسة الطبية نفسها لا خارجها فقط.
 
+## السياق التاريخي: من المريض إلى المتعافي
+
+ظهرت حركة التعافي من أوساط من استعملوا الخدمات النفسية ونقدوها. فقد صدر عام 1978 كتاب جودي تشامبرلين *On Our Own: Patient-Controlled Alternatives to the Mental Health System* الذي دعا إلى بدائل يديرها المرضى السابقون أنفسهم، ثم كتبت باتريشيا ديغان عام 1988 مقالها «Recovery: The lived experience of rehabilitation» في *Psychosocial Rehabilitation Journal* وصفت فيه التعافي بأنه عملية شخصية لا تعني اختفاء الأعراض بل استعادة حياة ذات معنى. وفي 1993 عرض ويليام أنثوني في المجلة نفسها التعافي بوصفه «الرؤية الموجّهة» لنظام خدمات الصحة النفسية في التسعينيات. في هذا المناخ جاء فيشر بخبرة مزدوجة: عالم أعصاب تدرّب على بيولوجيا الدماغ، وشخص عاش الذهان، فجمع بين اللغة الأكاديمية والخبرة المعيشية.
+
+## ما يميّز نهجه
+
+يرى فيشر أن الفصام ليس مصيراً ثابتاً، وأن الأمل والعلاقة الإنسانية والمشاركة في اتخاذ القرار عناصر أساسية في الشفاء، وأن النظام الطبي الذي يتعامل مع المريض بوصفه مجموعة أعراض يعطّل قدرته على التعافي. وقد دافع عن حق الأشخاص في اختيار العلاج، بما في ذلك تقليل الدواء أو إيقافه بالتدريج وبمرافقة مختصين، وعن أهمية **الحوار** بين المعالج والمريض بدل المواجهة. ونشأ من هذا الاتجاه مشروع **eCPR** (الإسعاف الانفعالي) الذي شارك في تطويره: تدريب قصير يعلّم الناس كيف يتعاملون مع من يمرّ بأزمة نفسية بالانتباه والتواصل وإعادة الصلة، على غرار الإسعاف الأولي. وقد أيّد كذلك الاهتمام بنهج «الحوار المفتوح» الفنلندي في الأزمات الذهانية.
+
+## الأثر والنقد
+
+ساهم عمل فيشر في إدخال «الأقران» (peers) إلى الخدمات الرسمية، فصار «اختصاصي الدعم بالأقران» وظيفة معتمدة في عدة ولايات أمريكية، وأصبح التعافي مصطلحاً سياسياً في وثائق الصحة النفسية الفدرالية. غير أنه لقي نقداً من جانبين: أطباء نفسيون رأوا أن التقليل من الدواء قد يعرّض مرضى لانتكاسات، وأن التركيز على التعافي الشخصي قد يهمّش من لا يحقق تعافياً كاملاً؛ ونقاد من داخل الحركة رأوا أن إدماجها في المؤسسة الطبية يحوّل التعافي من مطلب تحرري إلى برنامج خدمي تحكمه الميزانيات.
+
+## القيد
+
+سيرة فيشر المهنية معروفة في معظمها من نصوصه ونصوص المركز الذي أسسه، ولا توجد دراسات مستقلة تقيس أثر نموذج PACE وeCPR على نتائج الأفراد بمقاييس مضبوطة، فتبقى الأدلة وصفية وشهادات. كما أن مزج الدور الأكاديمي والدور الناشط يجعل من الصعب الفصل بين الأدلة والدعوة. وسنة ميلاده المذكورة هنا تقريبية.
+
 ## أهم أعماله
 
 - «Health care reform based on an empowerment model of recovery by people with psychiatric disabilities»، *Hospital and Community Psychiatry* 45 (1994).
@@ -52,6 +68,8 @@ gaps:
 
 ## المصادر
 
-- Fisher, Daniel B. "Health care reform based on an empowerment model of recovery by people with psychiatric disabilities." *Hospital and Community Psychiatry* 45 (1994).
-- New Freedom Commission on Mental Health. *Achieving the Promise: Transforming Mental Health Care in America*. 2003.
-- National Empowerment Center. سيرة رسمية منشورة على موقع المركز الذي أسّسه (power2u.org) — لتأسيس المركز ودوره فيه.
+- Fisher, D. B. "Health care reform based on an empowerment model of recovery by people with psychiatric disabilities." *Hospital and Community Psychiatry* 45, 1994.
+- Ahern, L., & Fisher, D. "Recovery at your own PACE." *Journal of Psychosocial Nursing and Mental Health Services* 39(4), 2001.
+- New Freedom Commission on Mental Health. *Achieving the Promise: Transforming Mental Health Care in America*. Rockville, MD: U.S. Department of Health and Human Services, 2003.
+- Chamberlin, J. *On Our Own: Patient-Controlled Alternatives to the Mental Health System*. New York: McGraw-Hill, 1978.
+- Deegan, P. E. "Recovery: The lived experience of rehabilitation." *Psychosocial Rehabilitation Journal* 11(4), 1988.

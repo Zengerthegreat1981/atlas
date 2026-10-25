@@ -37,6 +37,22 @@ gaps:
 - **العلاج السردي في اضطرابات الأكل** وعلاج الأطفال.
 - **"تسمية المشكلة"** (Naming the Problem) و**"إخراج المشكلة من الذات"** (Externalizing).
 
+## السيرة والتكوين
+
+وُلد ديفيد إبستون عام 1944 في كندا، ودرس الأنثروبولوجيا قبل أن ينتقل إلى نيوزيلندا ويعمل في أوكلاند مشاركاً في إدارة مركز العلاج الأسري هناك. وقد جاءه العلاج الأسري من باب الأنثروبولوجيا لا الطب النفسي، فاهتم بكيفية صنع المعنى داخل الجماعات وبدور اللغة والطقوس. والتقى في مطلع الثمانينيات بالأسترالي مايكل وايت، وكان وايت يعمل في أديلايد، فنشأت بينهما شراكة طويلة أنتجت العلاج السردي. وتأثرا بأفكار غريغوري باتيسون عن المعلومات والفروق، وبميشيل فوكو عن العلاقة بين المعرفة والسلطة، وبجيروم برونر في كتابه *Acts of Meaning* (Harvard University Press، 1990) عن الحياة بوصفها قصة.
+
+## الفكرة الأساسية
+
+يقوم العلاج السردي على أن الناس يفسّرون حياتهم عبر قصص، وأن القصة «المشبعة بالمشكلة» تُخفي الجوانب التي لا تطابقها. فيعمل المعالج على **أنسنة المشكلة خارج الشخص** (externalizing)، بصياغة مثل «المشكلة هي المشكلة، والشخص ليس المشكلة»، ثم يبحث عن «النتائج الفريدة»، أي اللحظات التي لم تهيمن فيها المشكلة، ويبني منها قصة بديلة. ويُعدّ إبستون من أشد من ركّزوا على **الكتابة** بوصفها وسيلة علاجية: فكان يرسل لعملائه رسائل بعد الجلسات تلخص ما قيل وتسجّل التحولات، ويصدر لهم شهادات وإعلانات لتوثيق إنجازاتهم، مؤمناً بأن الكلمة المكتوبة تدوم بعد الجلسة وتُقرأ مرة بعد مرة.
+
+## «رابطة مناهضة فقدان الشهية» وأرشيف المقاومة
+
+من أشهر مشاريعه العملية مع أطفال ومراهقين مصابين باضطرابات الأكل: «رابطة مناهضة فقدان الشهية والنهم» (Anti-Anorexia/Anti-Bulimia League)، وهي جماعة تضم أشخاصاً يتبادلون قصص مقاومتهم ويكتبون للمصابين الجدد رسائل تحثّهم على المقاومة. وقد عرض هذا الجهد في كتاب *Biting the Hand that Starves You* (مع ماريسول وبوردن، 2004). ويقوم على نقل المشكلة من «أنا مريضة» إلى «الفقدان يسيطر عليّ»، بحيث يصير المريض عضواً في جماعة مقاومة لا حالة تحت العلاج.
+
+## الأثر والنقد
+
+انتشر العلاج السردي في أستراليا ونيوزيلندا وكندا وأوروبا وأمريكا الشمالية، وصار أحد أهم مدارس العلاج الأسري ما بعد الحداثية، وترك أثراً في العمل المجتمعي وفي الدراسات الثقافية للصحة النفسية. وقد قارنه نقاد بنماذج العلاج الأخرى من حيث الأدلة: فراجع إتشيسون وكلايست عام 2000 في *The Family Journal* الأبحاث المتاحة ووجدا دراسات قليلة وغير ضابطة في الغالب، ونشر فرومانز وشفايتزر عام 2011 في *Psychotherapy Research* تجربة على البالغين المصابين بالاكتئاب أظهرت تحسناً في الأعراض، لكن الأدلة العامة ما زالت أقل من النماذج الأخرى. كما وُجّه إليه نقد بأن الإصرار على أن المعالج «غير خبير» قد يخفي سلطته الفعلية في توجيه الأسئلة.
+
 ## موقعه من التيار
 
 يقف إبستون عند ملتقى العلاج السردي، الأنثروبولوجيا التطبيقية، والعدالة الاجتماعية.
@@ -53,7 +69,9 @@ gaps:
 
 ## المصادر
 
-- David Epston, Wikipedia (EN): https://en.wikipedia.org/wiki/David_Epston
-- David Epston — Re-Authoring Teaching (سيرة رسمية): https://reauthoringteaching.com/bio-david-epston/
-- The Taos Institute — David Epston: https://www.taosinstitute.net/about-us/people/honorary-associates/david-epston
-- Catching up with David Epston — WorldCat: https://search.worldcat.org/title/'Catching-up'-with-David-Epston-:-a-collection-of-narrative-practice-based-papers-published-between-1991-and-1996/oclc/46711216
+- White, M., & Epston, D. (1990). *Narrative Means to Therapeutic Ends*. New York: W. W. Norton.
+- Epston, D. (1998). *'Catching up' with David Epston: A Collection of Narrative Practice-Based Papers Published between 1991 and 1996*. Adelaide: Dulwich Centre Publications.
+- Freeman, J., Epston, D., & Lobovits, D. (1997). *Playful Approaches to Serious Problems: Narrative Therapy with Children and their Families*. New York: W. W. Norton.
+- Maisel, R., Epston, D., & Borden, A. (2004). *Biting the Hand that Starves You: Inspiring Resistance to Anorexia/Bulimia*. New York: W. W. Norton.
+- Etchison, M., & Kleist, D. M. (2000). "Review of narrative therapy: Research and utility." *The Family Journal* 8.
+- Vromans, L. P., & Schweitzer, R. D. (2011). "Narrative therapy for adults with major depressive disorder: Improved symptom and interpersonal outcomes." *Psychotherapy Research* 21.

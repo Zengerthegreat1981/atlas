@@ -51,6 +51,18 @@ gaps:
 - **"New Age"** في صياغتها الأمريكية.
 - **علم النفس الإيجابي الباكر** (قبل أن يُسمّى بهذا الاسم).
 
+## المسار والسياق
+
+بعد تخرجه من AIIMS هاجر شوبرا إلى الولايات المتحدة مطلع السبعينيات، وتدرّب في الطب الباطني ثم في الغدد الصمّاء، وصار في مطلع الثمانينيات رئيساً للهيئة الطبية في مستشفى بولاية ماساتشوستس. ومع منتصف الثمانينيات التقى بماهاريشي ماهيش يوغي وتخلّى عن العمل المستشفوي ليتولى إدارة مركز «مهاريشي أيورفيدا» للصحة، فقدّم نفسه طبيباً يجمع بين الطب الحديث والتقليد الهندي. وبعد أن غادر هذه الحركة في أوائل التسعينيات أسّس شركته المستقلة وصار كاتباً ومتحدثاً عالمياً.
+
+كان السياق التاريخي لصعوده سنوات ازدهار الطب التكاملي والبديل في أمريكا. فقد انتشر الاهتمام بالتأمل بعد دراسات هربرت بنسون في السبعينيات عن «استجابة الاسترخاء»، ورأى جمهور واسع في كتب شوبرا لغة جديدة تجمع العلم والروحانية. وفي 1991 نشرت *JAMA* تحقيقاً نقدياً لريتشارد سكولنيك عن تسويق «مهاريشي أيورفيدا» وما صاحبه من ادعاءات، وكان شوبرا من الشخصيات المشار إليها في الجدل. ثم تابع الكتابة، ومنها *The Seven Spiritual Laws of Success* (Amber-Allen، 1994) الذي صار من أكثر كتبه مبيعاً، ثم *Super Brain* (مع رودولف تانزي، Harmony، 2012) في الصلة بين الدماغ والوعي.
+
+## المسار الأكاديمي والنقد العلمي
+
+يقوم أشد النقد العلمي على استعماله مفردات فيزياء الكم (الحقل الكمي، الوعي الكمي) خارج معناها الفيزيائي. وقد حصل شوبرا عام 1998 على جائزة إيغ نوبل في الفيزياء ساخرة من «تفسيره الفريد للفيزياء الكمية فيما يتعلق بالحياة والحرية والسعي إلى السعادة الاقتصادية». وفي دراسة نشرها بينيكوك وزملاؤه عام 2015 في مجلة *Judgment and Decision Making* بعنوان «On the reception and detection of pseudo-profound bullshit» اختبروا عبارات تبدو عميقة ومولّدة عشوائياً ومعها تغريدات من حسابه، ووجدوا أن بعض الناس يميلون إلى تقدير العبارات الغامضة بوصفها عميقة. ودعوى الشفاء من أمراض خطيرة بالممارسة الروحية لا تدعمها تجارب مضبوطة، ولا تُصنَّف الأيورفيدا بوصفها طباً قائماً على الأدلة في المراجعات الطبية.
+
+وفي مقابل ذلك فإن بعض ما يدعو إليه من تأمل وتغذية متوازنة ونوم ونشاط بدني له سند من الأبحاث العامة عن الصحة النمطية، وإن لم يكن مرتبطاً بالإطار الأيورفيدي الذي يقدّمه. وقد أنشأ مؤسسة تشوبرا وموّل أبحاثاً عن التأمل، لكن استقلالية هذه الأبحاث تحتاج إلى تدقيق.
+
 ## الجدل
 
 - **التقييم العلمي**: مقاربات شوبرا الطبية موضع خلاف كبير. المجتمع العلمي ينتقد:
@@ -71,7 +83,9 @@ gaps:
 
 ## المصادر
 
-- "Deepak Chopra", Wikipedia (en.wikipedia.org/wiki/Deepak_Chopra)
-- "Deepak Chopra, M.D.", World Business Academy (worldbusiness.org/fellows/deepak-chopra-m-d)
-- "Soul On Fire: The roots of The Chopra Center", The Coast News Group
-- "You Are the Universe (book)", Wikipedia
+- Chopra, D. *Quantum Healing: Exploring the Frontiers of Mind/Body Medicine*. New York: Bantam Books, 1989.
+- Chopra, D. *Perfect Health: The Complete Mind/Body Guide*. New York: Harmony Books, 1991.
+- Chopra, D. *Ageless Body, Timeless Mind: The Quantum Alternative to Growing Old*. New York: Harmony Books, 1993.
+- Chopra, D. *The Seven Spiritual Laws of Success*. San Rafael, CA: Amber-Allen Publishing, 1994.
+- Skolnick, A. "Maharishi Ayur-Veda: Guru's marketing scheme promises the world eternal 'perfect health'." *JAMA* 266, 1991.
+- Pennycook, G., Cheyne, J. A., Barr, N., Koehler, D. J., & Fugelsang, J. A. "On the reception and detection of pseudo-profound bullshit." *Judgment and Decision Making* 10, 2015.

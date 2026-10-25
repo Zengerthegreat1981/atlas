@@ -36,6 +36,20 @@ gaps:
 - **المخطَّط التنبؤي للعنف** (*The Violence Prediction Scheme*، 1994، مع غرانت هاريس ومارني ريس وكاثرين كورمييه وفرنون كوينزي): الكتاب الذي عرض فيه الفريق الكندي المدرستين معاً — الاكتوارية والمنظَّمة — في مجلّد واحد، قبل أن يفترق مساراهما.
 - **START** (Short-Term Assessment of Risk and Treatability، 2004، مع ماري-لو مارتن وجوهان برينك وتونيا نيكولز): امتداد منطقه إلى المدى القصير، وتوسيع الخطر من العنف نحو الغير إلى سبعة نواتج تشمل إيذاء الذات والانتحار والإهمال الذاتي والهروب، مع تقدير **مواطن القوة** لا العوامل الخَطِرة فقط.
 
+## السياق والمسار
+
+ظهر الاهتمام بتقييم خطورة العنف في الطب النفسي الشرعي الكندي والأمريكي في السبعينيات والثمانينيات. وكانت ورقة جون موناهان عام 1981 قد خلصت إلى أن تنبؤ الأطباء النفسيين بالعنف أقرب إلى الصدفة منه إلى الدقة، فتشكك الحقل في قيمة الحكم الإكلينيكي الحر، وصعدت المقاربة الإحصائية. عمل ويبستر في هذا السياق بين مؤسسات الطب النفسي الشرعي في تورونتو، ثم ارتبط عمله على HCR-20 بجامعة سايمون فريزر في كولومبيا البريطانية، حيث صدرت النسختان الأوليان عن معهد الصحة العقلية والقانون والسياسة. وشارك في أبحاث ميدانية مبكرة على مرضى المستشفيات الشرعية، منها مع مينزيز وسيبياك دراسة «أبعاد الخطورة» (Law and Human Behavior، 1985) التي قاست دقة التنبؤ النفسي بالعنف عند مرضى شرعيين. وأسهم في الكتب الجامعية، فحرّر مع مارغريت جاكسون *Impulsivity: Theory, Assessment, and Treatment* (Guilford Press، 1997)، وألّف مع مينزيز وجاكسون *Clinical Assessment Before Trial* (Charles C. Thomas، 1982) عن التقييم النفسي قبل المحاكمة.
+
+## الجيل الثالث: HCR-20V3
+
+صدرت النسخة الثالثة عام 2013 بتعديلات جوهرية: أبقت البنود العشرين لكنها أعادت صياغتها وغيّرت طريقة استخدامها. فبدلاً من أن يكتفي الفاحص بترميز كل بند ثم الوصول إلى حكم إجمالي، تطلب النسخة الثالثة صياغة **تصوّر للحالة** (case formulation) يفسر لماذا وقع العنف سابقاً، ثم بناء **سيناريوهات** محتملة للعنف المستقبلي تتناول طبيعته وشدته وقرب وقوعه وتكراره واحتماله، وربط خطط الإدارة بتلك السيناريوهات. وبذلك انتقلت الأداة من «تقدير الخطر» العام إلى «تخطيط الوقاية» الخاص بالشخص، وهو ما يعكس تأثير مفهوم تقييم الخطر والإدارة معاً بدل التنبؤ المجرد.
+
+وجمع ويبستر وهاكر في *Violence Risk — Assessment and Management: Advances Through Structured Professional Judgment and Sequential Redirections* (Wiley، 2007) خلاصة التجربة بتأكيد أن الخطر ليس صفة ثابتة في الشخص بل يتغير مع السياق والعلاج، وأن الإدارة تحتاج إلى «إعادة توجيه» متتابعة للمسار لا إلى حكم واحد.
+
+## الأدلة والنقد
+
+أظهرت المراجعات المنهجية أن HCR-20 من الأدوات الأكثر دراسة. ومنها مراجعة سينغ وغران وفازل عام 2011 في Clinical Psychology Review التي شملت 68 دراسة ونحو 26 ألف مشارك، وانتهت إلى أن الأدوات المختلفة، ومنها HCR-20، تتقارب في دقتها التنبؤية، وأن الفروق بين الأدوات الاكتوارية والمنظَّمة أقل مما ظنه المدافعون عن كل جانب. وقد عزّز ذلك رأي من يرى أن الاختيار بين المنهجين يرجع إلى هدف التقييم: الفرز الإحصائي أم تخطيط الإدارة الفردية.
+
 ## موقعه من التيار
 
 يُقرأ ويبستر عادةً في الصفّ الذي ينتمي إليه جون موناهان وهنري ستيدمان — أي من انتقلوا من السؤال «هل يستطيع الطبيب النفسي التنبّؤ بالعنف؟» الذي طرحه موناهان في *Predicting Violent Behavior* (1981)، إلى بناء أدوات تجعل الحكم قابلاً للتفنيد. وقربه من بول أبلباوم في هذا المحور محدود بمسألة واحدة: الحدّ الذي عنده يصير التقدير الشرعي التزاماً قانونياً على المعالج.
@@ -53,3 +67,5 @@ gaps:
 - Webster, C. D., Harris, G. T., Rice, M. E., Cormier, C., & Quinsey, V. L. (1994). *The Violence Prediction Scheme: Assessing Dangerousness in High Risk Men*. Toronto: Centre of Criminology, University of Toronto.
 - Webster, C. D., Martin, M.-L., Brink, J., Nicholls, T. L., & Middleton, C. (2004). *Short-Term Assessment of Risk and Treatability (START)*. Hamilton & Port Coquitlam: St. Joseph's Healthcare & Forensic Psychiatric Services Commission.
 - Douglas, K. S., Hart, S. D., Webster, C. D., & Belfrage, H. (2013). *HCR-20V3: Assessing Risk for Violence — User Guide*. Burnaby: Mental Health, Law, and Policy Institute, Simon Fraser University.
+- Webster, C. D., & Hucker, S. J. (2007). *Violence Risk — Assessment and Management: Advances Through Structured Professional Judgment and Sequential Redirections*. Chichester: John Wiley & Sons.
+- Singh, J. P., Grann, M., & Fazel, S. (2011). "A comparative study of violence risk assessment tools: A systematic review and metaregression analysis of 68 studies involving 25,980 participants." *Clinical Psychology Review* 31.

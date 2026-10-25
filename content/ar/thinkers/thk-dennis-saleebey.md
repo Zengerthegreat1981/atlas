@@ -52,6 +52,18 @@ gaps:
 
 وأثرُه العمليُّ الأوضحُ في **إدارة الحالة بنقاط القوّة** لمرضى الذهان المزمن، وهو نموذجٌ طُوِّر في كانساس وطُبِّق على نطاقٍ واسع في خدمات الصحّة النفسية المجتمعية.
 
+## السياق التاريخي
+
+ظلّت مهنة الخدمة الاجتماعية منذ نشأتها مشدودة بين مهمتين: إصلاح الأوضاع الاجتماعية، ومعالجة الأفراد. ومع مطلع القرن العشرين صارت الممارسة الفردية تعتمد على «التشخيص الاجتماعي» الذي صاغته ماري ريتشموند في كتابها *Social Diagnosis* (Russell Sage Foundation، 1917)، وصار العمل يقوم على جمع الأدلة عن مشكلة العميل وتسميتها. وحين تأثرت المهنة لاحقاً بالنموذج الطبي والتحليل النفسي في منتصف القرن، تعمّق التركيز على ما هو مختل. وكانت المهنة تعاني قلق المكانة منذ أن سأل أبراهام فلكسنر عام 1915 هل الخدمة الاجتماعية مهنة، فاتجهت إلى نماذج «علمية» تشبه الطب. وفي هذا الجو قدّمت أبحاث المرونة النفسية مادة معاكسة: فقد تتبّعت إيمي فيرنر وروث سميث أطفال جزيرة كاواي في هاواي عقوداً، ونشرتا *Vulnerable but Invincible* (McGraw-Hill، 1982)، وبيّنتا أن كثيراً من الأطفال المعرّضين لأخطار شديدة نشأوا أصحاء، وأن وجود راشد داعم واحد كان عاملاً حاسماً.
+
+## نشأة منظور القوة في كانساس
+
+نشأ المنظور في كلية الرعاية الاجتماعية بجامعة كانساس في أواخر الثمانينيات. فنشرت آن ويك وتشارلز راب وويليام سوليفان ووالتر كيسثاردت عام 1989 في مجلة *Social Work* ورقة بعنوان «A strengths perspective for social work practice» اقترحت أن تبني المهنة ممارستها على قدرات الناس وموارد بيئتهم بدل أوجه عجزهم، وتجلّى ذلك عملياً في نموذج «إدارة الحالة بنقاط القوة» الذي طوّره راب مع المصابين بأمراض نفسية شديدة. ثم جمع ساليبي المنظور في كتاب *The Strengths Perspective in Social Work Practice* (Longman، 1992) الذي حرّره، وصدرت منه طبعات متعاقبة، وأعطى له مبادئ وحدوداً. وقد كتب مقالاً نقدياً ذاتياً عام 1996 بعنوان «Extensions and cautions» حذّر فيه من أن يتحول المنظور إلى تفاؤل ساذج أو إلى إنكار للألم والظلم البنيوي، وأكد أن الاعتراف بالأذى جزء من الصورة.
+
+## كتبه ومقالاته الأخرى
+
+كتب ساليبي عن علاقة الثقافة والنظرية والسرد في الممارسة (مقال في *Social Work* عام 1994)، وعن «القوة في الناس: القوة والأمل» (*Advances in Social Work* عام 2000)، وعن أهمية المكان والبيئة في «The power of place» (*Families in Society* عام 2004)، وحرّر *Human Behavior and Social Environments: A Biopsychosocial Approach* (Columbia University Press، 2001). وتظهر في هذه الأعمال الفكرة نفسها: أن العميل خبير بحياته، وأن اللغة التي يستعملها المهني تصنع الواقع، فتسمية الشخص بتشخيصه تحصره فيه.
+
 ## النقد
 
 - **خطرُ التجميل**: أن يُستعمل المنظورُ في تحويل الأنظار عن الفقر والعنصرية والعنف إلى «صمود» الفرد — أي أن يُحمَّل الفردُ عبءَ ما تُنتجه البنى. وقد كان ساليبي نفسُه يُحذِّر من ذلك ويُصرُّ على الشقّ البنيوي، لكنّ الاستعمالَ الشائعَ يميل إلى الوجه الفردي.
@@ -59,7 +71,9 @@ gaps:
 
 ## المصادر
 
-- Saleebey, Dennis (ed.). *The Strengths Perspective in Social Work Practice*. Longman, 1992. [وطبعاتٌ لاحقةٌ حتى السادسة، 2013.]
-- Saleebey, Dennis. "The Strengths Perspective in Social Work Practice: Extensions and Cautions." *Social Work*, 41(3), 1996, 296–305.
-- Rapp, Charles A. & Goscha, Richard J. *The Strengths Model: A Recovery-Oriented Approach to Mental Health Services*. 3rd ed., Oxford University Press, 2012.
-- Weick, A., Rapp, C., Sullivan, W. P. & Kisthardt, W. "A Strengths Perspective for Social Work Practice." *Social Work*, 34(4), 1989, 350–354.
+- Saleebey, Dennis (ed.). *The Strengths Perspective in Social Work Practice*. New York: Longman, 1992 (طبعات لاحقة حتى السادسة، Pearson، 2013).
+- Saleebey, Dennis. "The Strengths Perspective in Social Work Practice: Extensions and Cautions." *Social Work* 41(3), 1996, 296–305.
+- Weick, A., Rapp, C., Sullivan, W. P., & Kisthardt, W. "A Strengths Perspective for Social Work Practice." *Social Work* 34(4), 1989, 350–354.
+- Rapp, Charles A., & Goscha, Richard J. *The Strengths Model: A Recovery-Oriented Approach to Mental Health Services*. 3rd ed., New York: Oxford University Press, 2012.
+- Werner, E. E., & Smith, R. S. *Vulnerable but Invincible: A Longitudinal Study of Resilient Children and Youth*. New York: McGraw-Hill, 1982.
+- Richmond, M. E. *Social Diagnosis*. New York: Russell Sage Foundation, 1917.

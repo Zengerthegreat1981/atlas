@@ -43,7 +43,21 @@ gaps:
 
 ## موقعها من التيار
 
-الفرق بينها وبين **شيلا إيبِرغ** — صاحبة PCIT، المُدرَجة في الأطلس تحت `thk-ieyberg` — فرق في وحدة العلاج لا في المدرسة: PCIT يعالج ثنائياً واحداً (والد وطفله) بتوجيه مباشر للمعالج عبر أذن سامعة أثناء اللعب، وبرنامج ويبستر-ستراتون يعالج **مجموعة والدين** والطفل غائب عن جلسة BASIC. ومع **راسِل باركلي**، الذي بنى تدريباً والدياً لأطفال العناد وفرط الحركة، تتقاسم المرجعية السلوكية نفسها وتختلف في الوسيط: مجموعة وفيديو عندها، وتتبّعٌ عيادي للخطوات عنده.
+الفرق بينها وبين **شيلا إيبِرغ** — صاحبة PCIT، المُدرَجة في الأطلس — فرق في وحدة العلاج لا في المدرسة: PCIT يعالج ثنائياً واحداً (والد وطفله) بتوجيه مباشر للمعالج عبر أذن سامعة أثناء اللعب، وبرنامج ويبستر-ستراتون يعالج **مجموعة والدين** والطفل غائب عن جلسة BASIC. ومع **راسِل باركلي**، الذي بنى تدريباً والدياً لأطفال العناد وفرط الحركة، تتقاسم المرجعية السلوكية نفسها وتختلف في الوسيط: مجموعة وفيديو عندها، وتتبّعٌ عيادي للخطوات عنده.
+
+## السياق والتكوين
+
+جاءت ويبستر-ستراتون إلى بحث تدريب الوالدين من الممارسة التمريضية النفسية لا من علم النفس الأكاديمي وحده، فقد بدأت بعلاج أطفال ذوي مشكلات سلوك في العيادة، ولاحظت أن الوالدين هما الوسيلة الأكثر فعالية والأقل كلفة. وفي ذلك الوقت كان تدريب الوالدين يقوم على جلسات فردية مع المعالج، فيصعب توسيعه، فاتجهت إلى تصميم برنامج جماعي يعتمد النمذجة المصوّرة. وصدرت دراستها المبكرة «Modification of mothers' behaviors and attitudes through a videotape modeling group discussion program» في مجلة Behavior Therapy عام 1981، أي قبل تجربة 1984 المضبوطة التي ثبّتت الفكرة.
+
+## تطور البرنامج والأدلة
+
+تتابعت التجارب في الثمانينيات والتسعينيات بمقارنة صيغ التقديم. ففي دراسة نُشرت في JCCP عام 1988 مع كولباكوف وهولنزورث قارنت بين الفيديو الذاتي الاستخدام بدون معالج وبين الصيغ المعتمدة على معالج، ووجدت أن الأسر التي تلقّت أشرطة الفيديو وحدها حققت مكاسب مهمة مع كلفة أقل. وفي عام 1997 قارنت مع هاموند بين تدريب الوالدين وتدريب الأطفال والجمع بينهما، فظهر أن تدريب الوالدين يعدّل سلوك الطفل في البيت، وأن إضافة تدريب الطفل على حل المشكلات والمهارات الاجتماعية تحسّن أداءه مع أقرانه. أما دراسة عام 1998 في JCCP فقد طبّقت البرنامج على أسر الأطفال في برنامج «هيد ستارت» للأسر منخفضة الدخل، وأظهرت إمكان استخدامه وقائياً لا علاجياً فقط. وبعد ذلك صارت المناهج الثلاثة، للوالدين والأطفال والمعلمين، موضوع تجارب مستقلة في بلدان مختلفة.
+
+وفي كتاب مشترك مع جميلة رايد في موسوعة *Evidence-Based Psychotherapies for Children and Adolescents* (Guilford، 2003) لخّصتا البرنامج متعدد المكونات بوصفه علاجاً لمشكلات السلوك لدى الأطفال الصغار، وقدّمتا ما أسمتاه «هرم الوالدية» الذي يبدأ من اللعب والتعزيز والثناء وينتقل إلى وضع الحدود وعواقب السلوك، لأن الحدود المبكرة بلا علاقة دافئة تُنتج مقاومة.
+
+## الاستقبال
+
+انتشر البرنامج في الولايات المتحدة وبريطانيا والنرويج والسويد وكندا وغيرها، وأدرجته هيئات الصحة العامة ضمن البرامج الموصى بها لعلاج اضطراب التحدي المعارض واضطراب المسلك عند الأطفال الصغار، لما أظهرته التجارب من نتائج في المجموعات المعالجة مقارنة بقوائم الانتظار.
 
 ## الخلاف حولها
 
@@ -61,6 +75,8 @@ gaps:
 
 ## المصادر
 
-- Webster-Stratton, Carolyn. *The Incredible Years: A Trouble-Shooting Guide for Parents of Children Aged 2–8 Years*, 1992.
-- Webster-Stratton, C. "Randomized trial of two parent-training programs for families with conduct-disordered children", *Journal of Consulting and Clinical Psychology*, 1984.
-- Webster-Stratton, C., Reid, M. J., & Hammond, M. "Treating children with early-onset conduct problems: intervention outcomes for parent, child, and teacher training", *Journal of Clinical Child and Adolescent Psychology*, 2004.
+- Webster-Stratton, C. *The Incredible Years: A Trouble-Shooting Guide for Parents of Children Aged 2–8 Years*. Seattle: Umbrella Press, 1992.
+- Webster-Stratton, C. "Randomized trial of two parent-training programs for families with conduct-disordered children." *Journal of Consulting and Clinical Psychology* 52, 1984.
+- Webster-Stratton, C., & Hammond, M. "Treating children with early-onset conduct problems: A comparison of child and parent training interventions." *Journal of Consulting and Clinical Psychology* 65, 1997.
+- Webster-Stratton, C., Reid, M. J., & Hammond, M. "Treating children with early-onset conduct problems: Intervention outcomes for parent, child, and teacher training." *Journal of Clinical Child and Adolescent Psychology* 33, 2004.
+- Hutchings, J., et al. "Parenting intervention in Sure Start services for children at risk of developing conduct disorder: Pragmatic randomised controlled trial." *BMJ* 334, 2007.
