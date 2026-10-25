@@ -65,7 +65,19 @@ gaps:
 - *Making Marriage Simple* (2013، مع هندريكس).
 - *And The Spirit Moved Them: The Lost Radical History of America's First Feminists* (2017).
 
+## الإطار العلاجي والنقاش حوله
+
+تتفق صياغة إيماغو مع فكرة شائعة في التحليل الأسري مفادها أن اختيار الشريك يتأثر بخبرات الطفولة، لكنها تضيف أن الاختيار نفسه يتم لاواعياً بحثاً عن شريك يشبه الوالدين في صفاتهما المؤلمة، وأن الصراع الزوجي فرصة لإتمام ما لم يتم في الطفولة. ولم تحظَ هذه الدعوى الأخيرة بدعم من دراسات الاختيار الزوجي، كما أن الدراسات المنشورة على علاج إيماغو قليلة وصغيرة. وبالمقارنة، قدمت مراجعة ويب وجونسون (2016) عدداً أكبر من التجارب على العلاج الزوجي المركّز على الانفعال المبني على نظرية التعلق، وهو علاج مختلف عن إيماغو وإن اشترك معه في الاهتمام بالانفعال والتعلق. ولذلك تُقرأ دعاوى إيماغو بوصفها إطاراً إكلينيكياً لا نظرية مثبتة.
+
+## حدود ونقد
+
+يتعلق جزء من النقد باسم المنتج التجاري لإيماغو، فقد انتشر عبر تدريب وشهادات مدفوعة، وهو ما يضعف الفصل بين التقييم العلمي والتسويق. أما مسار هانت في تاريخ النسوية الدينية فهو عمل تاريخي وليس علمياً نفسياً، وأهميته في هذا الأطلس أنه يظهر تنوع مسارها خارج العلاج. ولا ينبغي افتراض أن كل ما ينسب إلى إيماغو يعود إليها، فالصياغة النظرية الأساسية ارتبطت بهندريكس.
+
 ## المصادر
 
-- بيانات السيرة والزواج والعمل الخيري: مصادر سيرية عامة على الإنترنت (منها مداخل Wikipedia وPsychology Today)، وُثِّقت خارجياً في تدقيق سابق ضمن هذه الجلسة (Task 3.17، 2026-08-27، مسجَّل في `agents_specs/requests-spark.md`) — لم تُعَد مراجعتها مباشرة هنا.
-- عناوين الكتب وتواريخ نشرها: أغلفة الطبعات المذكورة (Getting the Love You Want، 1988؛ Giving the Love That Heals، 1997؛ Faith and Feminism: A Holy Alliance، 2004؛ Receiving Love، 2004؛ Making Marriage Simple، 2013؛ And The Spirit Moved Them، 2017).
+- Hendrix, H. (1988). Getting the Love You Want: A Guide for Couples. New York: Henry Holt. (وفي الطبعات اللاحقة بمشاركة هيلين لاكيلي هانت.)
+- Hendrix, H., & Hunt, H. L. (1997). Giving the Love That Heals: A Guide for Parents. New York: Pocket Books.
+- Hunt, H. L. (2004). Faith and Feminism: A Holy Alliance. New York: Atria Books/Beyond Words.
+- Hendrix, H., & Hunt, H. L. (2013). Making Marriage Simple: 10 Relationship-Saving Truths. New York: Harmony Books.
+- Hunt, H. L. (2017). And the Spirit Moved Them: The Lost Radical History of America's First Feminists. Boston: Beacon Press.
+- Wiebe, S. A., & Johnson, S. M. (2016). A review of the research in emotionally focused therapy for couples. Family Process, 55(3), 390–407.

@@ -38,12 +38,29 @@ gaps:
 - *Tight Corners in Pastoral Counselling* (1981).
 - *Mutual Caring* (1982).
 
+## السيرة والمسار
+
+وُلد فرانك ليك عام 1914 وتوفي عام 1982. بدأ حياته المهنية طبيباً مبشِّراً في الهند، ثم عاد إلى بريطانيا وتخصص في الطب النفسي، فجمع بين التدريب الطبي والاهتمام الرعوي بالكنيسة الأنجليكانية. وفي هذا الجمع كان انطلاق مشروعه: فقد رأى أن رجال الدين يلتقون يومياً بأناس في أزمات نفسية وروحية دون تدريب نفسي كافٍ، وأن الأطباء النفسيين يتجاهلون البعد اللاهوتي في تجربة مرضاهم. وأسس عام 1962 جمعية اللاهوت الإكلينيكي في نوتنغهام لتقديم ندوات تدريبية للقساوسة والمرشدين، وصارت الندوات تنتشر في بريطانيا وخارجها، ثم تحولت الجمعية لاحقاً إلى مؤسسة بريدج الرعوية.
+
+## بنية كتاب اللاهوت الإكلينيكي
+
+كتاب *Clinical Theology* (1966) ضخم الحجم، وهو أقرب إلى دليل تدريبي منه إلى كتاب نظري مصقول، فيه فصول عن الاكتئاب والقلق والشخصية الفصامية والهستيرية وعن أنماط الاضطراب من منظور علاقات الموضوع، مع محاولات لربطها بالمفاهيم اللاهوتية عن الخطيئة والنعمة والتجسد. وقد اعتمد فيه على ما قرأه عند فيربيرن وكلاين ووينيكوت، وجعل المستمع الراعوي مثل الأم الكافية التي تحتوي قلق الشخص دون أن تذوب فيه. ولم يكن يهدف إلى جعل القس معالجاً نفسياً، بل إلى منحه معرفة تمكّنه من فهم ما يسمعه ومن معرفة وقت الإحالة.
+
+## من العلاج بالعقاقير إلى التنفس
+
+استخدم ليك في الخمسينيات والستينيات جرعات صغيرة منظمة من عقار إل إس دي داخل جلسات علاجية، وكان ذلك قانونياً في بريطانيا آنذاك. وقد أدى ما أبلغه المرضى عن استعادة خبرات يربطونها بالحمل والولادة إلى بناء ما سماه «متلازمة كرب الجنين الأمومي»، ثم انتقل في أواخر الستينيات إلى التنفس العميق المنظم بعد تقييد استعمال العقار، وسمّى هذه الطريقة «التكامل الأولي». وفي كتابه *Tight Corners in Pastoral Counselling* (1981) عرض فرضيته بأوضح صورة: أن ما يحمله الجنين من انفعال أمه وضغطها يترك أثراً في ميله إلى الاكتئاب أو الانسحاب أو الإفراط في الاعتماد.
+
+## الأثر
+
+بقي أثر ليك الأوسع في تدريب رجال الدين والمرشدين الرعويين على الإصغاء، لا في الأطروحة الجنينية. فقد ساعدت ندواته على إدخال لغة التحليل النفسي في الإرشاد الكنسي البريطاني، وأسهم ميخائيل جاكوبس في تقديمه لجمهور واسع في *Frank Lake's Clinical Theology: An Introduction* (1988). وما زالت مؤسسات الإرشاد الرعوي التي خرجت من عمله تستعمل لغة الاحتواء والاستماع. أما أطروحته عن ما قبل الولادة فتبقى ذات حضور محدود خارج أوساط العلاج الجنيني، وتقترن في الأدبيات باسم غروف ويانوف.
+
+## حدود ونقد إضافية
+
+يتصل أول القيود بمنهج التحقق: فالمادة التي بنى عليها فرضيته جاءت من استرجاعات في حالات تغيّر الوعي، وهي حالات معروفة بتوليد صور حية لا يمكن الاعتماد عليها مصدراً للحقائق التاريخية. وثانيها أن نظرية الكرب الجنيني نسبت إلى الأم تأثيراً سببياً مباشراً وثقيلاً، وهو نمط من التفسير الأمومي الذي تراجعت الثقة به في الأدبيات اللاحقة. وثالثها اللغة اللاهوتية التي تضيف طبقة تفسيرية قد لا تنسجم مع مراجعين من خلفيات غير مسيحية. ويبقى سؤال دائم عن الحد بين الإرشاد الرعوي والعلاج النفسي، وعن مسؤولية المرشد حين تتجاوز المادة التي يتعامل معها ما هو مدرَّب عليه.
+
 ## المصادر
 
 - Lake, F. (1966). *Clinical Theology: A Theological and Psychological Basis to Clinical Pastoral Care*. Darton, Longman & Todd.
+- Lake, F. (1981). *Tight Corners in Pastoral Counselling*. Darton, Longman & Todd.
 - Jacobs, M. (1988). *Frank Lake's Clinical Theology: An Introduction*. Darton, Longman & Todd.
-- [Frank Lake — Wikipedia](https://en.wikipedia.org/wiki/Frank_Lake)
-- [Frank Lake — Bridge Pastoral Foundation (تاريخ الجمعية)](https://www.bridgepastoral.org.uk/history/frank-lake/)
-- House, S. H. (2000). "Primal Integration Therapy — School of Dr Frank Lake MB, MRC Psych, DPM (1914–1982)". *Journal of Prenatal & Perinatal Psychology & Health*, 14(3/4). [نص عبر Birth Psychology](https://birthpsychology.com/wp-content/uploads/2024/09/jnluhdKE-1.pdf)
-- Lake, F. "Birth Trauma, Claustrophobia and LSD Therapy". [primals.org](https://www.primals.org/articles/lake.html)
-- Lake, F. (1981). *Tight Corners in Pastoral Counselling*. Darton, Longman & Todd. [مراجعة الكتاب — Cambridge Core](https://www.cambridge.org/core/journals/new-blackfriars/article/abs/tight-corners-in-pastoral-counselling-by-frenk-lake-darton-longman-todd-lid-1981-pp-xvii-187-494-crisis-in-counselling-an-essential-guide-for-nonprofessional-counsellors-by-eugene-kennedy-gill-macmillan-1981-pp-xii-179-595/93E85931F5E6ACF196643FC13AA84216)
+- House, S. H. (2000). "Primal Integration Therapy: School of Dr Frank Lake." *Journal of Prenatal & Perinatal Psychology & Health*, 14(3/4).

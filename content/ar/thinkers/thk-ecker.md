@@ -56,8 +56,29 @@ gaps:
 - *Unlocking the Emotional Brain: Eliminating Symptoms at Their Roots Using Memory Reconsolidation*، مع روبين تيتشيتش ولوريل هولي، Routledge، 2012 (وطبعة ثانية موسَّعة بعنوان فرعي *Memory Reconsolidation and the Psychotherapy of Transformational Change*).
 - *Coherence Therapy Practice Manual and Training Guide*، مع لوريل هولي.
 
+## خطوات علاج التماسك
+
+يصف إيكر وزملاؤه العمل في علاج التماسك بسلسلة مراحل. تبدأ بـ**الاكتشاف**: لا يسأل المعالج «كيف نتخلص من العَرَض؟» بل «ما الذي يجعل العَرَض ضرورياً؟»، فيستكشف مع العميل الاعتقاد الضمني الذي يستلزم العَرَض ويحميه (ما يسميه «بنية تتطلب العَرَض»). ثم يتحقق العميل من أن هذا الاعتقاد حقيقي في شعوره، وأن العَرَض منطقي من داخله. وبعد ذلك تأتي مرحلة **التجاور**: يُعرَّض العميل لتجربة معاشة تتناقض مع الاعتقاد القديم فيعيشهما معاً (التعلّم القديم والخبرة الجديدة المنافية له)، على أمل أن يُفتح بذلك تعلم العاطفة الأصلي ويُعاد كتابته. وأخيراً يتم التحقق من أن العَرَض لم يعد يحتاج إلى الظهور وأن الاستجابة القديمة لا تعود بسهولة. ويفرق إيكر بين هذا وبين ما يسميه «تعارضاً» مجرّداً بين التفكير والشعور، فالمنهج عنده لا يجادل المريض ولا يصحح أفكاره، بل يعمل في المستوى الذي تعلمت فيه النفس ما تعلمته.
+
+## العلاقة بأبحاث الذاكرة
+
+يستند أنصار هذا المنهج إلى ما يُعرف بـ«إعادة توطيد الذاكرة»: فقد بيّن نادر وشافي ولودو (2000) في *Nature* أن ذاكرة الخوف عند الفئران حين تُستدعى تدخل مرحلة عدم استقرار مؤقتة تحتاج إلى تركيب بروتين جديد كي تُثبّت من جديد. وفي دراسة بشرية نُشرت في *Nature* (2010) أظهر شيلر وزملاؤه أن تقديم الإخماد خلال هذه النافذة بعد الاستدعاء قد يمنع عودة الخوف. ويقترح إيكر أن علاج التماسك يوفر شروط هذه النافذة بتفعيل التعلم الانفعالي ثم إدخال خبرة مناقضة. وقد عرض هذه القراءة في مقالة 2015 «إعادة توطيد الذاكرة: مفهومة وسوء مفهومة» في *International Journal of Neuropsychotherapy*، وفي مقالة 2018 عن الترجمة السريرية للبحث. كما ناقش لين وزملاؤه (2015) في *Behavioral and Brain Sciences* الجسر بين أبحاث إعادة التوطيد والتغيير في العلاج النفسي.
+
+## الاستقبال
+
+وجد العلاج صدى بين المعالجين الذين يبحثون عن تفسير عصبي للتغيير السريع، ويُقدَّم في ورش التدريب والمؤتمرات. وفي الأدبيات العربية لا يُوثَّق في هذا الأطلس ترجمة لأعماله، وإن تظهر فكرة «وظيفة العَرَض» في بعض الاتجاهات النفسية العربية.
+
+## حدود ونقد إضافي
+
+- يعتمد علاج التماسك على دراسات حالة وملاحظات المعالجين، ولا توجد تجربة معشّاة منشورة لحزمة العلاج كاملة، كما ذكر الملف في الفجوات.
+- الربط بين أبحاث الفئران وتأثير الجلسة العلاجية يتخطى مرحلة لم تُختبر مباشرة: لا تُعرف شروط أن تكون الذكريات المعقدة، كالتعلم العلائقي، قابلة لإعادة الكتابة بالطريقة نفسها.
+- مصادر المنهج الأساسية منشورة عن معهد المؤلفين ذاته، وأغلب المراجعات الناقدة المستقلة لا تزال قليلة.
+
 ## المصادر
 
-- Bruce Ecker & Laurel Hulley, *Depth Oriented Brief Therapy*, Jossey-Bass, 1996.
-- Bruce Ecker, Robin Ticic & Laurel Hulley, *Unlocking the Emotional Brain*, Routledge, 2012.
-- AEDP Institute — صفحة هيئة التدريس: Bruce Ecker, LMFT (المؤهّل والجهة والأعمال).
+- Ecker, B., & Hulley, L. (1996). *Depth Oriented Brief Therapy: How to Be Brief When You Were Trained to Be Deep — and Vice Versa*. San Francisco: Jossey-Bass.
+- Ecker, B., Ticic, R., & Hulley, L. (2012). *Unlocking the Emotional Brain: Eliminating Symptoms at Their Roots Using Memory Reconsolidation*. New York: Routledge.
+- Nader, K., Schafe, G. E., & LeDoux, J. E. (2000). "Fear Memories Require Protein Synthesis in the Amygdala for Reconsolidation after Retrieval." *Nature*, 406, 722–726.
+- Schiller, D., et al. (2010). "Preventing the Return of Fear in Humans Using Reconsolidation Update Mechanisms." *Nature*, 463, 49–53.
+- Lane, R. D., Ryan, L., Nadel, L., & Greenberg, L. (2015). "Memory Reconsolidation, Emotional Arousal, and the Process of Change in Psychotherapy: New Insights from Brain Science." *Behavioral and Brain Sciences*, 38, e1.
+- Ecker, B. (2015). "Memory Reconsolidation Understood and Misunderstood." *International Journal of Neuropsychotherapy*, 3(1), 2–46.

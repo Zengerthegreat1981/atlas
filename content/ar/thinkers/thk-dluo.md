@@ -25,18 +25,41 @@ gaps:
 
 ## الإبداع والقيادة التمكينية
 
-نشر ليو دراسات موسعة في مجلتي *Academy of Management Journal* (2012, 2016) و*Journal of Applied Psychology* (2017) حول أثر «القيادة التمكينية» (Empowering Leadership) في تعزيز الإبداع الفردي والجماعي. وبحث في كيفية تفاعل المتغيرات الثقافية مثل التوازن الديناميكي والتوجه الجمعي في تحفيز الأفراد على الابتكار وإدارة ضغوط العمل في الشركات الصينية والدولية.
+نشر ليو دراسات في مجلات الإدارة وعلم النفس التطبيقي الكبرى، منها *Journal of Applied Psychology* و*Academy of Management Journal* و*Organizational Behavior and Human Decision Processes*، تناولت الإبداع في العمل وأثر القيادة والاستقلالية وبيئة الفريق في سلوك الموظفين. ومن أمثلتها مقالة 2011 في *Journal of Applied Psychology* عن الطريق من الاستقلالية إلى الإبداع عبر «الشغف المنسجم»، ومقالة 2012 في *Academy of Management Journal* عن الجانب المظلم للقيادة وانتقال الإشراف التعسفي بين مستويات المنظمة.
 
 ## ما قدمه
 
-- نماذج نظرية متعددة المستويات تفسر آليات انتقال التحفيز الذاتي والأمان النفسي داخل فرق العمل.
-- تحليلات إحصائية شمولية (Meta-analyses) لأثر برامج التدخل الإيجابي في تحسين الرضا الوظيفي والإنتاجية.
+- نماذج متعددة المستويات تربط بين ما يحدث للفرد وما يحدث للفريق والمنظمة.
+- تحليل بَعدي (Meta-analysis) عام 2016 للآليات الدافعية للإبداع الوظيفي، مع توسيع نظري في أدبيات الإبداع.
+- نظرية «نظام الأحداث» التي صاغها مع مورغيسون وميتشل.
+
+## نظرية نظام الأحداث
+
+أبرز إسهام نظري لليو مقالة 2015 في *Academy of Management Review* التي كتبها مع فريدريك مورغيسون وتيرينس ميتشل. تنطلق من ملاحظة أن البحث التنظيمي يهتم بالسمات الثابتة (الشخصية، الثقافة، البنية) أكثر مما يهتم بـ**الأحداث** التي تقطع المجرى المعتاد للعمل: صفقة تنهار، مدير جديد، حادث، ترقية مفاجئة. وتقترح النظرية أن قوة الحدث تُقاس بثلاث خصائص: **الجدّة** (مقدار اختلافه عمّا اعتيد)، و**الاضطراب** (مقدار قطعه للروتين)، و**الحرجية** (أهميته لأهداف الكيان). وعلى هذا الأساس يؤثر الحدث في الأفراد والفرق والمنظمات، وقد يمتد أثره صعوداً أو نزولاً بين المستويات. وقد وُصفت المقالة باعتبارها إطاراً يحوّل الانتباه من «ما هو الموظف» إلى «ما جرى له»، وهي مقالة اختيرت ضمن المرشحين لجائزة أفضل ورقة في المجلة نفسها بحسب ما أثبته ملف التحقق.
+
+## البحث في الدوران الوظيفي والتفاوت بين الزملاء
+
+اهتم ليو أيضاً بسؤال عملي: لماذا يترك الموظفون أعمالهم؟ وفي دراسة 2012 مع ميتشل وتوماس لي وآخرين (*Academy of Management Journal*) فحص كيف يؤثر **مسار** الرضا الوظيفي، لا مستواه وحده، وتفاوته بين الزملاء، في احتمال ترك الفرد ووحدة العمل. ومعنى ذلك أن من يتراجع رضاه بينما يتقدم زملاؤه أكثر عرضة للمغادرة من رضا منخفض ثابت. وقد أسهم هذا في توجيه الباحثين نحو القياس الطولي بدل اللقطات المفردة.
+
+## الصلة بعلم النفس الإيجابي
+
+يرد ليو في هذا الأطلس تحت علم النفس الإيجابي، لكنّ عمله ينتمي في الأساس إلى علم النفس التنظيمي والسلوك التنظيمي. وتتقاطع موضوعاته مع الحقل الإيجابي في اهتمامه بالإبداع والشغف والدافعية الذاتية، وهي موضوعات دارت في الحقلين معاً. ولا يُعرف أنه صاغ نظرية في السعادة أو الفضائل على غرار سليغمان، فيُفضَّل قراءته باعتباره باحثاً يعالج بيئة العمل بأدوات علم النفس.
+
+## الاستقبال
+
+يظهر أثره في الاستشهادات الكثيرة بدراساته في أدبيات الإبداع والقيادة، وفي تكريمه بزمالتي الجمعية الأمريكية لعلم النفس وجمعية علم النفس الصناعي والتنظيمي عام 2023 بحسب صفحات كلية شيلر. وتشير الصفحات نفسها إلى شغله كرسي توماس ر. ويليامز للإدارة. أما الأدبيات العربية فلا يُوثَّق فيها اشتغال مباشر بأعماله، وإن كانت موضوعات الإبداع والقيادة الأخلاقية حاضرة في أدبيات الإدارة العربية.
+
+## حدود ونقد
+
+- أغلب بياناته آتية من استبيانات للموظفين والمشرفين، وهو أسلوب يحمل خطر التحيز المشترك في القياس، وإن عالجه الباحثون بتصاميم متعددة المصادر والمستويات.
+- التحليل البَعدي لا يتجاوز جودة الدراسات المدرجة فيه، وأغلبها مقطعي، فتبقى الاستنتاجات السببية حذرة.
+- السياق الغالب على عينات الباحث شركات في الصين والولايات المتحدة، فلا يصحّ تعميم النتائج على بيئات العمل العربية دون اختبار محلي.
+- لا توجد عن ليو سيرة مستقلة، ويعتمد هذا الملف على صفحات الكلية والمنشورات.
 
 ## المصادر
 
-- Liu, D., Jiang, K., Shalley, C. E., & Keem, S. (2016). Motivational mechanisms of employee creativity: A meta-analytic examination and theoretical extension. *Academy of Management Journal*, 59(4), 1159–1182.
-- Liu, D., Zhang, S., Wang, L., & Strauss, J. P. (2012). Does team leader empowering behavior promote team creativity? *Journal of Applied Psychology*, 97(5), 1072–1082.
-- الصفحة الرسمية: [Dong Liu — Scheller College of Business, Georgia Tech](https://www.scheller.gatech.edu/directory/faculty/liu/index.html)
-- [Dong Liu — Google Scholar](https://scholar.google.com/citations?user=FFDH8mIAAAAJ&hl=en)
-- [Dong Liu Named Fellow by APA and SIOP — Scheller College News](https://www.scheller.gatech.edu/news/2023/dong-liu-named-fellow-by-the-american-psychological-association-and-the-society-for-industrial-and-organizational-psychology.html)
-- [2017 Best 40 Under 40 Professors: Dong Liu — Poets&Quants](https://poetsandquants.com/2017/03/26/2017-best-40-40-professors-dong-liu-georgia-tech-scheller/)
+- Morgeson, F. P., Mitchell, T. R., & Liu, D. (2015). "Event System Theory: An Event-Oriented Approach to the Organizational Sciences." *Academy of Management Review*, 40(4), 515–537.
+- Liu, D., Jiang, K., Shalley, C. E., Keem, S., & Zhou, J. (2016). "Motivational Mechanisms of Employee Creativity: A Meta-Analytic Examination and Theoretical Extension of the Creativity Literature." *Organizational Behavior and Human Decision Processes*, 137, 236–263.
+- Liu, D., Liao, H., & Loi, R. (2012). "The Dark Side of Leadership: A Three-Level Investigation of the Cascading Effect of Abusive Supervision on Employee Creativity." *Academy of Management Journal*, 55(5), 1187–1212.
+- Liu, D., Chen, X.-P., & Yao, X. (2011). "From Autonomy to Creativity: A Multilevel Investigation of the Mediating Role of Harmonious Passion." *Journal of Applied Psychology*, 96(2), 294–309.
+- صفحة الهيئة التدريسية في كلية شيلر للأعمال بمعهد جورجيا التقني، وخبر الكلية عن اختياره زميلاً في APA وSIOP (2023).

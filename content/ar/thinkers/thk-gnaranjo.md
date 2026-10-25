@@ -51,10 +51,24 @@ gaps:
 - *Gestalt Therapy: The Attitude and Practice of an Atheoretical Experientialism* (1993).
 - *The Enneagram of Society: Healing the Soul to Heal the World* (1995).
 
+## السيرة والبحث المبكر
+
+وُلد نارانخو في فالبارايسو بتشيلي عام 1932، ودرس الطب في جامعة تشيلي، وانتقل إلى الولايات المتحدة في الستينيات. وفي كتابه «الرحلة الشافية» (1973) سجّل عمله العلاجي بمواد مغيّرة للوعي، كالهرمالين وMDA والإيبوغائين، حين كانت هذه الأبحاث مشروعة قبل حظرها. وفي إيسالن عمل إلى جانب فريتز بيرلز، وبعد رحيل بيرلز أصدر «الجشطالت: موقف وممارسة لتجريبية لا نظرية» (1993) متأثراً بمنظور بيرلز التجريبي. وشدد في ممارسته على أن العلاج ليس مجرد تقنية بل نقد للأسرة والتعليم، فأسّس في العقود الأخيرة برامج تدريب تربوي، وكتب بالإسبانية عن «تغيير التعليم لتغيير العالم» وعن أزمة المجتمع الأبوي.
+
+## من أريكا إلى التساعية
+
+التقى نارانخو بإيتشاثو في أريكا عام 1970، وتعلم منه رسم الأنماط التسعة، ثم أضاف إليها تحليلاً نفسياً في دروس ألقاها في بيركلي. ويعدّ كتابه «بنى الأنماط التساعية» (1990) و«الطابع والعصاب» (1994) أوضح عرض لربط الأنماط بتصنيفات الطب النفسي. وعبر تلاميذه انتقل هذا العرض إلى أدبيات التدريب والأعمال، ثم إلى كتب شعبية لم يكن راضياً عنها دوماً.
+
+## حدود ونقد إضافية
+
+أظهرت أبحاث أُجريت على مقاييس التساعية، كدراسة نيوجنت وزملائه (2004)، ثباتاً مقبولاً في بعضها وصدقاً ضعيفاً، وخلصت مراجعة منهجية لهوك وزملائه (2021) إلى أن الأدبيات قليلة وغير متجانسة ولا تدعم المزاعم العريضة للنظرية. والتساعية في مقاييس السمات تتداخل كثيراً مع نموذج العوامل الخمسة، وتحمل خطر التسمية الذاتية، أي أن يتبنى المرء الوصف الذي يعجبه. أما مشاركته في الأبحاث المبكرة على المواد المغيرة للوعي، فتُقرأ اليوم في سياق إحياء بحثي لهذه المواد، لكنها ظلت دراسات غير مضبوطة بمعايير التجارب الحديثة.
+
 ## المصادر
 
-- [Claudio Naranjo — Wikipedia](https://en.wikipedia.org/wiki/Claudio_Naranjo)
-- [Claudio Naranjo — Autobiography (claudionaranjo.net)](https://www.claudionaranjo.net/navbar_english/autobiography_english.html)
-- [Central to Claudio Naranjo's thought: a living bibliography](https://www.naranjo-sat.com/en/claudio-naranjo/bibliography/)
-- [The Enneagram Wars — Osho News](https://www.oshonews.com/2017/10/21/the-enneagram-wars/)
-- [Arica — World Religions and Spirituality Project](https://wrldrels.org/2021/01/07/arica/)
+- Naranjo, C. (1972). The One Quest. New York: Viking Press.
+- Naranjo, C. (1973). The Healing Journey: New Approaches to Consciousness. New York: Pantheon Books.
+- Naranjo, C. (1990). Ennea-type Structures: Self-Analysis for the Seeker. Nevada City, CA: Gateways/IDHHB.
+- Naranjo, C. (1993). Gestalt Therapy: The Attitude and Practice of an Atheoretical Experientialism. Nevada City, CA: Gateways/IDHHB.
+- Naranjo, C. (1994). Character and Neurosis: An Integrative View. Nevada City, CA: Gateways/IDHHB.
+- Newgent, R. A., Parr, P. E., Newman, I., & Higgins, K. K. (2004). The Riso-Hudson Enneagram Type Indicator: Estimates of reliability and validity. Measurement and Evaluation in Counseling and Development, 36(4), 226–237.
+- Hook, J. N., Hall, T. W., Davis, D. E., Van Tongeren, D. R., & Conner, M. (2021). The Enneagram: A systematic review of the literature and directions for future research. Journal of Clinical Psychology, 77(4), 865–883.

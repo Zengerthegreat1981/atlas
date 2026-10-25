@@ -40,9 +40,29 @@ gaps:
 - *The Secret Life of Families* (1998).
 - *Rituals for Our Times* (مع جانين روبرتس).
 
+## العائلة والأنظمة الأكبر
+
+قبل كتب الأسرار والطقوس، كتبت إمبير-بلاك كتاب *Families and Larger Systems: A Family Therapist's Guide Through the Labyrinth* (Guilford، 1988)، وهو أحد أهم أعمالها. تنطلق فيه من ملاحظة أن العائلات التي تأتي إلى العلاج غالباً مرتبطة بشبكة من المؤسسات، كالمدرسة والمستشفى ومؤسسات الرعاية والمحاكم، وأن هذه المؤسسات تتفاعل مع العائلة وتشكل مع الأخصائيين نظاماً أكبر قد يُعيد إنتاج المشكلة. وتقترح أن ينتبه المعالج لهذا النظام الكبير، وأن يرى نفسه جزءاً منه لا خارجه، وهو ما يسمى «العمل مع الأنظمة الأكبر». وقد جاء ذلك منسجماً مع عملها في معهد الأسر الحضرية في البرونكس، حيث يخدم المعالجون عائلات تواجه فقراً ومؤسسات متعددة.
+
+## الطقوس: أكثر من مناسبات
+
+مع جانين روبرتس وريتشارد وايتنغ حرّرت *Rituals in Families and Family Therapy* (Norton، 1988). وفكرتها أن الطقوس، من أعياد وجنائز وزواج ووجبات يومية، ليست زخرفة بل وسيلة تنظم بها العائلة معنى الانتماء والتغيير. فإذا غابت الطقوس أو فقدت مضمونها، قد تتعثر العائلة في الانتقال من مرحلة إلى أخرى. ثم كتبت مع روبرتس *Rituals for Our Times* (1992) في صيغة موجهة إلى القراء العامين، تعرض كيف يُنشئ الناس طقوساً جديدة للحظات لا تغطيها التقاليد، كالطلاق وإعادة الزواج والتقاعد. ويلتقي هذا مع حاجة معروفة في المجتمعات العربية أيضاً حين تتغير بنية الأسرة وتفقد بعض الطقوس التقليدية وظيفتها.
+
+## من السر إلى «الحياة السرية»
+
+في *Secrets in Families and Family Therapy* (1993) جمعت مقالات لمعالجين عن أنواع الأسرار، ومنها أسرار الأمراض والتبني والعلاقات. وفي *The Secret Life of Families* (1998) خاطبت القارئ العام في مجتمع يبالغ في الإفصاح، فميزت بين السر الذي يؤذي والخصوصية التي تحمي، ودعت إلى «الصدق مع الحماية»: أي أن يُقال ما ينبغي أن يُقال بطريقة لا تجرح. وهذه المفاضلة بين الكتمان والبوح ترتبط بعلم الأخلاق في الثقافات المختلفة: ففي الثقافة العربية للستر قيمة أخلاقية معروفة، والعمل الإكلينيكي بحاجة إلى تمييز دقيق بين الستر الذي يحفظ الكرامة والكتمان الذي يخنق. وللملف أن يضع هذه المقارنة دون أن يدّعي أن إمبير-بلاك ناقشتها.
+
+## حدود ونقد
+
+- تقوم أغلب كتبها على الخبرة السريرية والحالات والتحرير، ولا توجد دراسات تجريبية مضبوطة عن فاعلية «طقوس العلاج» التي دعت إليها.
+- نظرتها إلى الطقوس والأسرار انطلقت من عائلات أمريكية، وتحتاج إلى تعديل عند نقلها إلى سياقات يكون فيها للجماعة والعائلة الممتدة وزن أكبر.
+- أدبيات الأنظمة الأكبر تطرح تحدياً عملياً: كيف يتعامل المعالج مع مؤسسات ليست في يده، وإلى أي حدّ يتجاوز دوره المهني.
+
 ## المصادر
 
-- "In Memory of Evan Imber-Black" — Ackerman Institute for the Family: https://www.ackerman.org/in-memoriam/in-memory-of-evan-imber-black/
-- "Evan Imber-Black Obituary (1944–2024)" — Legacy.com.
-- "Memorial: Evan Imber-Black, Ph.D., May 19, 1944–May 29, 2024" — Journal of Systemic Therapies (Guilford Press).
-- "The Ackerman Institute: a journey of culture and diversity over six decades. A conversation with Evan Imber-Black" — Australian and New Zealand Journal of Family Therapy (2024), Wiley Online Library.
+- Imber-Black, E. (1988). *Families and Larger Systems: A Family Therapist's Guide Through the Labyrinth*. New York: Guilford Press.
+- Imber-Black, E., Roberts, J., & Whiting, R. A. (Eds.). (1988). *Rituals in Families and Family Therapy*. New York: W. W. Norton.
+- Imber-Black, E. (Ed.). (1993). *Secrets in Families and Family Therapy*. New York: W. W. Norton.
+- Imber-Black, E. (1998). *The Secret Life of Families: Truth-Telling, Privacy, and Reconciliation in a Tell-All Society*. New York: Bantam Books.
+- Imber-Black, E., & Roberts, J. (1992). *Rituals for Our Times: Celebrating, Healing, and Changing Our Lives and Our Relationships*. New York: HarperCollins.
+- "Memorial: Evan Imber-Black, Ph.D., May 19, 1944–May 29, 2024." *Journal of Systemic Therapies* (2024).

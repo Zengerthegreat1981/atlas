@@ -57,8 +57,24 @@ gaps:
 - *The Four Tendencies* (2017).
 - *Life in Five Senses* (2023).
 
+## السيرة والمنصة
+
+وُلدت روبين عام 1965، ودرست القانون في ييل، وعملت كاتبة قضائية لدى القاضية ساندرا داي أوكونور قبل أن تترك المحاماة إلى الكتابة. وتتصل شهرتها بمنصة رقمية تضم مدونة وبرنامجاً إذاعياً بعنوان «أسعد مع غريتشين روبين» منذ 2015، ما جعل حضورها في الثقافة الشعبية أوسع من حضور كثير من الباحثين. وتشتغل في الغالب على اختبارات سريعة يستطيع القارئ أن يجريها، وأشهرها اختبار الاتجاهات الأربعة.
+
+## موقع أفكارها من البحث
+
+يقترب تصنيف الاتجاهات من مفاهيم موثقة دون أن يطابقها: فنظرية التنظيم الذاتي والتحفيز عند ريان وديسي (2000) تميز بين التنظيم الخارجي والداخلي للسلوك، ويشبه ذلك محوري التوقع الداخلي والخارجي. وتُقارب فئة المتمرد نظرية الارتياح النفسي لبريم (1966)، أي الميل إلى مقاومة ما يُحس تقييداً للحرية. أما التوصية بالاستراتيجيات الفردية فتتفق مع ما ورد عند وود ونيل (2007) في أن العادات تتشكل بالتكرار في سياق ثابت، وعند لالي وزملائه (2010) في أن مدة تكوّن العادة تختلف كثيراً بين الأفراد، وهي دراسة تُظهر ما يبرر شعارها في مراعاة الفروق. ويبقى أن روبين لم تستنتج هذه المفاهيم من اختبار نموذجها، بل ربطتها بملاحظاتها.
+
+## حدود ونقد إضافية
+
+إضافة إلى ما سبق، فإن مفاهيم السعادة التي تتناولها تعتمد على أدبيات ليوبوميرسكي وزملائها (2005) التي ترى أن جزءاً من السعادة يخضع لنشاطات إرادية، لكن حجم الأثر المتحقق في المتابعة الطويلة متواضع. والعبارات العامة في الكتب تسمح لكل قارئ بالتعرف على نفسه في أي فئة، وهو ما يجعل التصنيف مقبولاً دون أن يكون دقيقاً. ومن الأفضل أن يُستعمل الكتاب مدخلاً للتأمل في العادات، لا علاجاً للاكتئاب أو القلق.
+
 ## المصادر
 
-- [Gretchen Rubin — Wikipedia](https://en.wikipedia.org/wiki/Gretchen_Rubin)
-- [The Four Tendencies — الموقع الرسمي](https://gretchenrubin.com/books/the-four-tendencies/)
-- [Goodreads: The Four Tendencies](https://www.goodreads.com/book/show/33566873-the-four-tendencies)
+- Rubin, G. (2009). The Happiness Project: Or, Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More Fun. New York: Harper.
+- Rubin, G. (2015). Better Than Before: Mastering the Habits of Our Everyday Lives. New York: Crown.
+- Rubin, G. (2017). The Four Tendencies: The Indispensable Personality Profiles That Reveal How to Make Your Life Better. New York: Harmony Books.
+- Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68–78.
+- Wood, W., & Neal, D. T. (2007). A new look at habits and the habit-goal interface. Psychological Review, 114(4), 843–863.
+- Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. European Journal of Social Psychology, 40(6), 998–1009.
+- Lyubomirsky, S., Sheldon, K. M., & Schkade, D. (2005). Pursuing happiness: The architecture of sustainable change. Review of General Psychology, 9(2), 111–131.

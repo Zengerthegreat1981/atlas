@@ -65,9 +65,23 @@ gaps:
 - *Relational Freedom: Emergent Properties of the Interpersonal Field* (2015).
 - *The Infinity of the Unsaid: Unformulated Experience, Language, and the Nonverbal* (2019).
 
+## جذور الفكرة وتطورها
+
+لم تولد فكرة «الخبرة غير المصوغة» في كتاب 1997، فقد بدأت مقالة عام 1983 بعنوان «الخبرة غير المصوغة: من الفوضى المألوفة إلى اضطراب مبدع» نشرتها *Contemporary Psychoanalysis*. وفيها بدأ سترن يقترح أن المعنى لا يكون جاهزاً داخل المريض ينتظر من يكشفه، بل يتكوّن في اللقاء. ثم أخذ يعمّق الفكرة عبر مقالات وكتب، ومنها مقالة 2004 «العين ترى نفسها: التفارق والتمثيل بالفعل وتحقيق الصراع» التي عالج فيها كيف يتحول ما لم يصغ إلى صراع يمكن التفكير فيه. وفي مواضع عدة يؤكد أن عمل المحلل هو تهيئة الظروف التي يصير فيها الغامض قابلاً للصياغة، بالانفتاح على أن يتغيّر هو نفسه في اللقاء.
+
+## الإسهام التحريري
+
+إلى جانب كتبه، أسّس سترن وأشرف على سلسلة «التحليل النفسي في مفتاح جديد» لدى دار روتلدج، وهي سلسلة ضمت أعمالاً بارزة للتحليل العلائقي وما قاربه، فكان له أثر في تشكيل الحقل لا يقل عن أثر كتبه. ويُنسب إليه أيضاً تدريب أجيال من المحللين في معهد وايت. ولا يُوثَّق في هذا الأطلس ترجمة عربية لأعماله، فتبقى مصطلحاته («غير المصوغ»، «التمثيل بالفعل») مقترحات ترجمة من الملف.
+
+## الصلة بالفكر العربي
+
+يمكن للقارئ العربي أن يلحظ ما بين فكرة «غير المصوغ» وبين تراث عربي قديم في الفرق بين المعنى القائم في النفس والعبارة التي تحمله، كما عند عبد القاهر الجرجاني في «معنى المعنى» وعلاقة المعنى باللفظ. ولا تقوم علاقة تأثير بين الاثنين، ويُذكر الجرجاني هنا للمقارنة فحسب، لأن السؤال عن كيفية انتقال المعنى الداخلي إلى صيغة لغوية سؤال قديم في التراث العربي.
+
 ## المصادر
 
-- Stern, Donnel B. *Unformulated Experience: From Dissociation to Imagination in Psychoanalysis*. Hillsdale, NJ: The Analytic Press, 1997.
-- Stern, Donnel B. *Partners in Thought: Working with Unformulated Experience, Dissociation, and Enactment*. New York: Routledge, 2010.
-- Stern, Donnel B. *Relational Freedom: Emergent Properties of the Interpersonal Field*. New York: Routledge, 2015.
-- Stern, Donnel B. *The Infinity of the Unsaid: Unformulated Experience, Language, and the Nonverbal*. New York: Routledge, 2019.
+- Stern, D. B. (1983). "Unformulated Experience: From Familiar Chaos to Creative Disorder." *Contemporary Psychoanalysis*, 19(1), 71–99.
+- Stern, D. B. (1997). *Unformulated Experience: From Dissociation to Imagination in Psychoanalysis*. Hillsdale, NJ: The Analytic Press.
+- Stern, D. B. (2004). "The Eye Sees Itself: Dissociation, Enactment, and the Achievement of Conflict." *Contemporary Psychoanalysis*, 40(2), 197–237.
+- Stern, D. B. (2010). *Partners in Thought: Working with Unformulated Experience, Dissociation, and Enactment*. New York: Routledge.
+- Stern, D. B. (2015). *Relational Freedom: Emergent Properties of the Interpersonal Field*. New York: Routledge.
+- Stern, D. B. (2019). *The Infinity of the Unsaid: Unformulated Experience, Language, and the Nonverbal*. New York: Routledge.

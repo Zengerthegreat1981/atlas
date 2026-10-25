@@ -48,8 +48,25 @@ gaps:
 - *Bread & Spirit: Therapy with the New Poor — Diversity of Race, Culture, and Values*. New York: W. W. Norton, 1994.
 - *The Person of the Therapist Training Model: Mastering the Use of Self* (مع كارني كيسيل / Karni Kissil). New York: Routledge, 2016.
 
+## الخلفية البنيوية
+
+نشأ أبونت داخل مدرسة مينوشين التي عرضت أركانها في «العائلات والعلاج الأسري» (1974): الأسرة نسق ذو أنظمة فرعية وحدود، والعلاج يعيد ترتيب العلاقات عبر «التمثيل» (enactment) في الجلسة نفسها، أي أن يتفاعل أفراد الأسرة أمام المعالج فيتدخل في الحدود لا في الأقوال. وقد شارك أبونت في عرض هذا الإطار مع فاندوسن في فصل «العلاج الأسري البنيوي» ضمن كتيب العلاج الأسري (1981)، وطبّق منهجه في أسر ذات احتياجات مركبة تتعامل مع مؤسسات متعددة. وفي «المقابلة الأسرية-المدرسية» (1976) عرض كيف يدخل المعالج المدرسة عاملاً في بنية المشكلة.
+
+## تدريب شخص المعالج
+
+بدأ أبونت يطرح فكرة تدريب شخص المعالج في ثمانينيات القرن العشرين مع وينتر (1987)، ثم نشر مقالة عن تدريب شخص المعالج في العلاج الأسري البنيوي (1992)، قبل أن يتبلور النموذج في دراسة أبونت وزملائه (2009) عن تدريب المعالجين في برامج العلاج الزوجي والأسري. ويعتمد التدريب على سؤال يطرحه المتدرب على نفسه: ما العقد التي تحملها حياتي وتعيق حضوري أمام هذه الأسرة؟ ثم يعمل على تحويلها إلى مورد للتعاطف.
+
+## حدود إضافية
+
+يتقاطع ما يقدمه أبونت مع الأدلة العامة على أهمية التحالف العلاجي وخصائص المعالج، لكن خصوصية نموذجه في الكتابة عن المسألة الأساسية لم تُختبر بمقارنة مع تدريب بديل. كما أن تركيزه على الفقر والروحانية في «خبز وروح» يقوم على خبرة سريرية في فيلادلفيا ونيويورك، ولا يقدم دراسات نتائج. ويرى بعض المنتقدين أن العمل على سيرة المتدرب قد يختلط بالعلاج الشخصي، ما يستلزم حدوداً أخلاقية واضحة في التدريب.
+
 ## المصادر
 
-- Aponte, Harry J. "Underorganization in the Poor Family." In Philip J. Guerin (ed.), *Family Therapy: Theory and Practice*. New York: Gardner Press, 1976. (فصل بقلمه، ومصدر مفهوم «نقص التنظيم».)
-- Aponte, Harry J. *Bread & Spirit: Therapy with the New Poor*. New York: W. W. Norton, 1994.
-- Aponte, Harry J. and Karni Kissil. *The Person of the Therapist Training Model: Mastering the Use of Self*. New York: Routledge, 2016. (المصدر المرجعي لنموذج POTT و«المسألة الأساسية».)
+- Minuchin, S. (1974). Families and Family Therapy. Cambridge, MA: Harvard University Press.
+- Aponte, H. J. (1976). Underorganization in the poor family. In P. J. Guerin (Ed.), Family Therapy: Theory and Practice. New York: Gardner Press.
+- Aponte, H. J. (1976). The family-school interview: An eco-structural approach. Family Process, 15(3), 303–311.
+- Aponte, H. J., & VanDeusen, J. M. (1981). Structural family therapy. In A. S. Gurman & D. P. Kniskern (Eds.), Handbook of Family Therapy. New York: Brunner/Mazel.
+- Aponte, H. J. (1992). Training the person of the therapist in structural family therapy. Journal of Marital and Family Therapy, 18(3), 269–281.
+- Aponte, H. J. (1994). Bread and Spirit: Therapy with the New Poor. New York: W. W. Norton.
+- Aponte, H. J., Powell, F. D., Brooks, S., Watson, M. F., Litzke, C., Lawless, J., & Johnson, E. (2009). Training the person of the therapist in marriage and family therapy programs. Journal of Marital and Family Therapy, 35(4), 381–394.
+- Aponte, H. J., & Kissil, K. (2016). The Person of the Therapist Training Model: Mastering the Use of Self. New York: Routledge.

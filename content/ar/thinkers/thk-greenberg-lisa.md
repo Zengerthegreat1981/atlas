@@ -63,11 +63,27 @@ gaps:
 
 ## اقتراحات ربط (ملاحظة تحريرية)
 
-- "النظرية البنائية للانفعالات" تستحق عنصر `con-` أو `wrk-` مستقل.
-- "مهام علاجية بالانفعال" تستحق عنصر `tec-` مستقل يميّزها عن تقنية الكرسي الفارغ الجشطلتية.
+- "النظرية البنائية للانفعالات" تستحق عنصر con- أو wrk- مستقل.
+- "مهام علاجية بالانفعال" تستحق عنصر tec- مستقل يميّزها عن تقنية الكرسي الفارغ الجشطلتية.
+
+## التكوين والبحث
+
+تلقى غرينبرغ تدريبه الأكاديمي في كندا، وعمل أستاذاً في جامعة يورك بتورنتو، وبدأ مسيرته بدراسة تجريبية لتقنيات جشطلتية، فنشر مع هيغينز (1980) تجربة قارنت حوار الكرسيين والتركيز بغيرهما في حل الصراع الداخلي، ثم عرض (1979) تقنية حوار الكرسيين لحل الانقسام النفسي. وكتب مع سافران مقالة «الانفعال في العلاج النفسي» (1989) في المجلة الأمريكية لعلم النفس ينادي فيها بإعادة الانفعال إلى مركز النظرية العلاجية بعد أن همّشته المقاربات المعرفية. وتبلور برنامجه في كتاب «تعلّم العلاج المركّز على الانفعال» (2004، مع إليوت وواتسون وغولدمان) الذي يعدّ دليل التدريب الأساس.
+
+## المبادئ العلاجية
+
+يرى غرينبرغ أن الانفعالات الأولية التكيفية، كالحزن عند الفقد والغضب عند الظلم، تحمل معلومات عن الحاجات، وأن الانفعالات الثانوية، كاليأس الذي يغطي غضباً مكبوتاً، هي ما يتطلب التفكيك. وعليه فالمعالج يميّز بين أنواع الانفعال ويقود العميل إلى الوصول إليها وتسميتها وتحويلها، وفي كتابه الأخير «تغيير الانفعال بالانفعال» (2021) يلخص مبدأ تغيير انفعال مؤلم بانفعال تكيفي آخر يُستحضر بالتجربة.
+
+## الأدلة والحدود
+
+اعتمدت مراجعة إليوت وزملائه (2013) في كتيب بيرغين وغارفيلد على دراسات من العلاجات الإنسانية-التجريبية فوجدت أن فعاليتها قريبة من فعالية العلاجات الأخرى، وأنها قوية في الاكتئاب، لكن عدد التجارب المضبوطة أقل بكثير من العلاج المعرفي السلوكي، وجزء كبير منها من فريق المؤسسين، ما يثير مشكلة الولاء للنموذج. ويتطلب العلاج تدريباً مكثفاً، ولا يُنصح بتطبيق تقنياته بلا إشراف، لأن استثارة الانفعال الشديد قد تضر بمن لا يملك مهارات التنظيم الكافية. ولا يغني العمل الانفعالي عن التدخلات الدوائية أو السلوكية في الحالات الشديدة.
 
 ## المصادر
 
-- [Les Greenberg — Wikipedia](https://en.wikipedia.org/wiki/Les_Greenberg)
-- [Leslie Greenberg Biography — GoodTherapy](https://www.goodtherapy.org/famous-psychologists/leslie-greenberg.html)
-- [Emotion-Focused Therapy: An Interview with Leslie Greenberg — Journal of Contemporary Psychotherapy](https://link.springer.com/article/10.1023/B:JOCP.0000022310.34573.b7)
+- Greenberg, L. S. (1979). Resolving splits: Use of the two chair technique. Psychotherapy: Theory, Research and Practice, 16(3), 316–324.
+- Greenberg, L. S., & Safran, J. D. (1989). Emotion in psychotherapy. American Psychologist, 44(1), 19–29.
+- Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). Facilitating Emotional Change: The Moment-by-Moment Process. New York: Guilford Press.
+- Greenberg, L. S. (2002). Emotion-Focused Therapy: Coaching Clients to Work Through Their Feelings. Washington, DC: American Psychological Association.
+- Elliott, R., Watson, J. C., Goldman, R. N., & Greenberg, L. S. (2004). Learning Emotion-Focused Therapy: The Process-Experiential Approach to Change. Washington, DC: American Psychological Association.
+- Elliott, R., Greenberg, L. S., Watson, J., Timulak, L., & Freire, E. (2013). Research on humanistic-experiential psychotherapies. In M. J. Lambert (Ed.), Bergin and Garfield's Handbook of Psychotherapy and Behavior Change (6th ed.). Hoboken, NJ: Wiley.
+- Greenberg, L. S. (2021). Changing Emotion with Emotion: A Practitioner's Guide. Washington, DC: American Psychological Association.

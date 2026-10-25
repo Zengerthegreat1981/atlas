@@ -36,17 +36,35 @@ gaps:
 
 ## موقعه من التيار
 
-تُمثّل فوا جناح «العلاج بالتعرض الصارم» داخل CBT — مقابل النموذج المعرفي التحليلي لـ CPT لريسك أو العلاجات القائمة على المعنى. كتابها مع ريتشارد مكنالي «علاج اضطراب الكرب التالي للصدمة» يُعدّ المرجع الكلاسيكي للمجال.
+تُمثّل فوا جناح «العلاج بالتعرض الصارم» داخل CBT — مقابل النموذج المعرفي التحليلي لـ CPT لريسك أو العلاجات القائمة على المعنى. وشاركت في تحرير *Effective Treatments for PTSD* (2000)، دليل الممارسة الصادر عن الجمعية الدولية لدراسة الكرب الصدمي.
 
 ## أهم أعماله
 
-- علاج اضطراب الكرب التالي للصدمة (Treating PTSD, 2000) مع باربرا روثباوم وماتيو فريدمان.
-- المرجع الكلاسيكي لـ OCD (Obsessive Compulsive Disorder, 1998) مع فيكتور ماير.
-- التعرض المطوّل لـ PTSD: بروتوكول (Prolonged Exposure Therapy for PTSD, 2007) مع باربرا روثباوم وأنجيلا غي.
-- أطلس إدارة القلق (Atlas of Anxiety, 2005).
+- *Effective Treatments for PTSD* (2000، تحرير مع تيرينس كين وماتيو فريدمان).
+- *Stop Obsessing! How to Overcome Your Obsessions and Compulsions* (1991، مع ريد ويلسون).
+- التعرض المطوّل لـ PTSD: بروتوكول (Prolonged Exposure Therapy for PTSD, 2007) مع إليزابيث هيمبري وباربرا روثباوم.
+- *Treating the Trauma of Rape: Cognitive-Behavioral Therapy for PTSD* (1998، مع باربرا روثباوم).
+
+## نظرية المعالجة الانفعالية بالتفصيل
+
+صاغت فوا مع مايكل كوزاك ورقة 1986 في *Psychological Bulletin* بعنوان «المعالجة الانفعالية للخوف: التعرض لمعلومات مصحِّحة». وفحوى الرأي أن الخوف يُخزَّن في ذاكرة على هيئة بنية تضم مثيرات واستجابات ومعاني، وأن البنية المرضية تختلف عن الطبيعية بأنها تربط مثيرات آمنة بخطر، وتربط الاستجابة الجسدية بمعنى الكارثة. ولكي تتغير هذه البنية يلزم أمران: تنشيطها بأن يعيش الشخص الذكرى أو الموقف بما يكفي لاستثارة الخوف، ثم تزويدها بمعلومات تتعارض معها، كأن يلاحظ أن الخوف يخفّ من تلقاء نفسه وأن الكارثة المتوقعة لم تحدث. ومن ثم فإن التعرض ليس حقنة تعويد فقط، بل تعلّم جديد. وفي ورقتها المتأخرة مع هوبرت وكاهيل عام 2006 توسعت في تفسير سبب إخفاق بعض المرضى، فذكرت التجنب والانفصال الانفعالي المفرط والاستغراق الزائد في الخوف.
+
+## البروتوكول والأدلة
+
+يتألف بروتوكول التعرض المطوّل من نحو تسع إلى اثنتي عشرة جلسة، تشمل شرح المنطق العلاجي وتدريب التنفس، ثم التعرض الواقعي، أي مواجهة مواقف تجنّبها المريض بتدرج، ثم التعرض التخيّلي، وهو أن يروي المريض الحادثة بصيغة المضارع ويُسجَّل الحديث ليستمع إليه بين الجلسات، مع معالجة ما ظهر بعد كل جلسة. وكانت دراسة فوا وزملائها عام 1991 على ضحايا الاغتصاب من أوائل التجارب التي قارنت العلاج المعرفي السلوكي بالإرشاد، ثم دراسة 2005 التي بيّنت أن إضافة إعادة البناء المعرفي إلى التعرض لا تزيد النتائج. وأتت المراجعة التحليلية التي نشرها باورز وزملاؤه عام 2010 بحجم أثر كبير مقارنة بالانتظار والعلاجات الداعمة.
+
+## الوسواس القهري
+
+سبقت أبحاثها في الصدمة سلسلة دراسات على اضطراب الوسواس القهري، منها دراسة 1984 مع ستيكيتي وزملائه عن التعرض ومنع الطقوس، وتجربة 2005 المنشورة في *American Journal of Psychiatry* التي قارنت التعرض ومنع الاستجابة بعقار كلوميبرامين وبالجمع بينهما، ووجدت أن العلاج السلوكي وحده أو معه كان أفضل من الدواء وحده. وبهذا كانت من الأصوات التي رسّخت مكانة التعرض كعلاج أول.
+
+## حدود ونقد إضافية
+
+أول ما يؤخذ على العلاج نسب الانسحاب: فنسبة من يتركون التعرض قبل الإكمال ليست قليلة في بعض الدراسات، وكثير من المعالجين يتحفظون عن استعماله في حالات الصدمة المتعددة أو الانفصال الشديد خشية الانهيار. وثانيها أن مقارنات لاحقة وجدت أن العلاجات المعرفية الأخرى، كعلاج المعالجة المعرفية، تحقق أثراً مقارباً، فلم يثبت تفوق واضح لأحدهما. وثالثها أن تفسير النجاح بنظرية المعالجة الانفعالية موضع جدل، إذ تقترح نماذج أخرى أن ما يتغير هو التعلم التثبيطي لا محو بنية الخوف.
 
 ## المصادر
 
-- Edna B. Foa obituary, The Philadelphia Inquirer (2026): https://www.inquirer.com/obituaries/edna-foa-obituary-penn-philadelphia-psychology-20260331.html
-- "Edna Foa, who pioneered exposure therapy to treat PTSD, dies at 88", The Spokesman-Review: https://web.archive.org/web/20260517190157/https://www.spokesman.com/stories/2026/apr/12/edna-foa-who-pioneered-exposure-therapy-to-treat-p/
-- In Memoriam: Edna B. Foa, PhD — International OCD Foundation: https://iocdf.org/blog/2026/04/09/in-memoriam-edna-b-foa-phd/
+- Foa, E. B., & Kozak, M. J. (1986). "Emotional processing of fear: Exposure to corrective information." *Psychological Bulletin*, 99(1), 20–35.
+- Foa, E. B., Rothbaum, B. O., Riggs, D. S., & Murdock, T. B. (1991). "Treatment of posttraumatic stress disorder in rape victims: A comparison between cognitive-behavioral procedures and counseling." *Journal of Consulting and Clinical Psychology*, 59(5), 715–723.
+- Foa, E. B., Hembree, E. A., & Rothbaum, B. O. (2007). *Prolonged Exposure Therapy for PTSD: Emotional Processing of Traumatic Experiences, Therapist Guide*. Oxford University Press.
+- Foa, E. B., et al. (2005). "Randomized, placebo-controlled trial of exposure and ritual prevention, clomipramine, and their combination in the treatment of obsessive-compulsive disorder." *American Journal of Psychiatry*, 162(1), 151–161.
+- Powers, M. B., Halpern, J. M., Ferenschak, M. P., Gillihan, S. J., & Foa, E. B. (2010). "A meta-analytic review of prolonged exposure for posttraumatic stress disorder." *Clinical Psychology Review*, 30(6), 635–641.

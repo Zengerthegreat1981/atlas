@@ -51,9 +51,24 @@ gaps:
 - *On Rational and Irrational Action* (1947).
 - *Essays on Ego Psychology* (1964).
 
+## السيرة
+
+وُلد هارتمان في فيينا عام 1894، ونال الطب من جامعتها عام 1920، وتحلّل عند سانْدور رادو ثم عند فرويد نفسه. وغادر النمسا بعد الضم عام 1938 إلى سويسرا ثم باريس، ووصل إلى نيويورك عام 1941، حيث صار من قادة معهد نيويورك للتحليل النفسي. وتولى رئاسة الرابطة الدولية للتحليل النفسي بين 1951 و1957. وفي مقالتهم المشتركة «تعليقات على تكوين البنية النفسية» (1946) صاغ هو وكريس ولوفنشتاين اللغة المشتركة لعلم نفس الأنا في الفترة اللاحقة.
+
+## الصلة بعلم النفس التجريبي
+
+كان لتأكيده على أن الإدراك والذاكرة والتفكير تنمو في «مجال خالٍ من الصراع» أثر في تقارب التحليل النفسي مع علم نفس النمو المعرفي، فقد بنى عليه رابابورت في «تنظيم الفكر وأمراضه» (1951) جهوده لصياغة التحليل صياغة قابلة للاختبار. وفي كتابه «التحليل النفسي والقيم الأخلاقية» (1960) تناول مسألة القيم الأخلاقية وعلاقتها بالأنا الأعلى، رافضاً أن يقدّم التحليل نفسه بديلاً عن الأخلاق.
+
+## حدود ونقد إضافية
+
+عرض غرينبرغ وميتشل (1983) وميتشل وبلاك (1995) نقداً مؤثراً لعلم نفس الأنا بوصفه نظرية ظلت أسيرة نموذج الغريزة رغم توسعها، وبينت أبحاث نمو التعلق، كما عرضها فوناغي وتارغت (2003)، أن العلاقة المبكرة تلعب في البنية النفسية دوراً أكبر مما أتاحته نظرية الأنا. كما أن مفهوم «التكيف» الذي يعطيه معنى التوافق مع بيئة متوقعة، يصعب استعماله في سياقات يكون فيها المجتمع نفسه ظالماً، وهو ما جعل نقاد التيار العلائقي يرونه معياراً محافظاً.
+
 ## المصادر
 
-- [Heinz Hartmann — Wikipedia](https://en.wikipedia.org/wiki/Heinz_Hartmann)
-- [Ego Psychology and the Problem of Adaptation — Internet Archive](https://archive.org/details/egopsychologypr00hart)
-- [Hartmann's "Ego Psychology and the Problem of Adaptation" — PubMed](https://pubmed.ncbi.nlm.nih.gov/2587683/)
-- [Ego Psychology and the Problem of Adaptation — Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/ego-psychology-and-problem-adaptation)
+- Hartmann, H. (1939). Ich-Psychologie und Anpassungsproblem. Internationale Zeitschrift für Psychoanalyse und Imago, 24, 62–135. (الترجمة الإنجليزية: Ego Psychology and the Problem of Adaptation, trans. D. Rapaport, New York: International Universities Press, 1958).
+- Hartmann, H., Kris, E., & Loewenstein, R. M. (1946). Comments on the formation of psychic structure. The Psychoanalytic Study of the Child, 2, 11–38.
+- Hartmann, H. (1947). On rational and irrational action. In G. Róheim (Ed.), Psychoanalysis and the Social Sciences, Vol. 1. New York: International Universities Press.
+- Hartmann, H. (1960). Psychoanalysis and Moral Values. New York: International Universities Press.
+- Hartmann, H. (1964). Essays on Ego Psychology: Selected Problems in Psychoanalytic Theory. New York: International Universities Press.
+- Greenberg, J. R., & Mitchell, S. A. (1983). Object Relations in Psychoanalytic Theory. Cambridge, MA: Harvard University Press.
+- Mitchell, S. A., & Black, M. J. (1995). Freud and Beyond: A History of Modern Psychoanalytic Thought. New York: Basic Books.

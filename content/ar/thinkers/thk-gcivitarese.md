@@ -61,10 +61,19 @@ gaps:
 
 *The Intimate Room* (2010) · *The Violence of Emotions* (2012) · *The Analytic Field and Its Transformations* (مع أنطونينو فيرّو، 2015) · *Sublime Subjects* (2021) · *Psychoanalytic Field Theory: A Contemporary Introduction* (2022).
 
+## الجذور النظرية
+
+يقوم الخط الذي ينتمي إليه سيفيتارِس على ثلاثة مصادر: عمل مادلين وويلي باراناجير في أوروغواي حول الحقل الدينامي الذي يتشكل بين المحلل والمريض، وكتب بيون الأساسية، أي التعلّم من الخبرة (1962) وعناصر التحليل النفسي (1963) والتحولات (1965)، وفكرة الثالث التحليلي عند توماس أوغدن (1994) التي تشترك مع الحقل في الموقف البينذاتي. وما يميّز سيفيتارِس عن أوغدن أنه يربط الحقل بتقليد إيطالي يقرأ الجلسة بوصفها حلماً يحلمه الاثنان معاً، ويضيف إليه بُعداً جمالياً.
+
+## حدود إضافية
+
+يبقى هذا المشروع نظرية في التقنية التحليلية لا بحثاً تجريبياً: فالتحليل النفسي الحقلي لم يُختبر في تجارب معشّاة، وتقوم حجته على الاتساق التأويلي ووضوح التنظير. كما أن لغته المكثفة بالاستعارات البيونية تجعل تعليمها عسيراً على من لم يتدرب في التقليد نفسه، وهو اعتراض يتكرر في نقد التحليل البيوني عامة.
+
 ## المصادر
 
-- Civitarese, G. (2010). *The Intimate Room: Theory and Technique of the Analytic Field*. London: Routledge (New Library of Psychoanalysis).
-- Civitarese, G. (2012). *The Violence of Emotions: Bion and Post-Bionian Psychoanalysis*. London: Routledge (New Library of Psychoanalysis).
-- Ferro, A., & Civitarese, G. (2015). *The Analytic Field and Its Transformations*. London: Karnac.
-- Civitarese, G. (2022). *Psychoanalytic Field Theory: A Contemporary Introduction*. London: Routledge.
-- Katz, S. M. (2017). Post-Bionian developments in psychoanalytic field theory: The contributions of Antonino Ferro and Giuseppe Civitarese. *The Psychoanalytic Quarterly*, 86(2), 451–462.
+- Civitarese, G. (2010). The Intimate Room: Theory and Technique of the Analytic Field. London: Routledge.
+- Civitarese, G. (2012). The Violence of Emotions: Bion and Post-Bionian Psychoanalysis. London: Routledge.
+- Ferro, A., & Civitarese, G. (2015). The Analytic Field and Its Transformations. London: Karnac Books.
+- Civitarese, G. (2022). Psychoanalytic Field Theory: A Contemporary Introduction. London: Routledge.
+- Katz, S. M. (2017). Post-Bionian developments in psychoanalytic field theory: The contributions of Antonino Ferro and Giuseppe Civitarese. The Psychoanalytic Quarterly, 86(2), 451–462.
+- Ogden, T. H. (1994). The analytic third: Working with intersubjective clinical facts. International Journal of Psychoanalysis, 75, 3–19.

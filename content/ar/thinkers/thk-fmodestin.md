@@ -47,9 +47,31 @@ gaps:
 - *The Stigma Effect: Unintended Consequences of Mental Health Campaigns* (2018).
 - *Principles and Practice of Psychiatric Rehabilitation* (2008، مع مويزر وبوند).
 
+## نموذج العزو وبنية الوصمة
+
+انطلق كوريغان في دراسته للوصمة العامة من نموذج في علم النفس الاجتماعي يُعرف بنموذج العزو. فقد بيّن مع زملائه في دراسة نُشرت عام 2003 في *Journal of Health and Social Behavior* أن موقف الناس من المصاب بمرض نفسي يتحدد بما يعزونه إلى المرض: فإذا ظنّوا أن الشخص مسؤول عن حالته غلب الغضب والرغبة في العقاب، وإذا ظنّوه ضحية غلبت الشفقة والرغبة في المساعدة، وإذا ظنّوه خطراً غلب الخوف والرغبة في الإبعاد. وهذا التحليل ينتقل بالوصمة من وصف شعور إلى سلسلة قابلة للتدخل، لأن تغيير نقطة في السلسلة، كاعتقاد الخطر، قد يغيّر ما يليها.
+
+## الوصمة الذاتية وأثر «لماذا أحاول؟»
+
+كتب كوريغان مع واطسون ورقة عن مفارقة الوصمة الذاتية، ثم صاغ مع لارسون وروش عام 2009 مفهوم أثر «لماذا أحاول؟»، وفيه أن الشخص الذي يتبنى الصورة النمطية يشعر بأن لا قيمة له وأنه غير مؤهل للعمل أو السكن المستقل، فيتخلى عن أهدافه قبل أن يُرفض من الخارج. وهذا ما يجعل الوصمة عائقاً أمام التعافي أبعد من الحرمان الظاهر، لأنها تدخل في تقييم الشخص لقدرته. وعلى هذا الأساس صُمم برنامج «الصادق المنفتح الفخور» الذي يساعد المشاركين على تقرير متى وكيف وأين يفصحون عن تجربتهم، ثم برنامج «الخروج بفخر» الذي نُشر أثره في *American Journal of Public Health* سنة 2013.
+
+## مراجعات التدخلات
+
+قدمت مراجعته مع زملائه عام 2012 في *Psychiatric Services*، وهي تحليل بعدي لدراسات تدخلات تغيير الوصمة العامة، خلاصة رئيسية: الاتصال المباشر بأشخاص لديهم تجربة مرض نفسي أنفع في الغالب من الاحتجاج أو من التثقيف وحده عند البالغين، بينما يبدو التثقيف أكثر فائدة عند المراهقين. ويرتبط هذا الاستنتاج بتصنيفه الذي ميّز ثلاث استراتيجيات: الاحتجاج على الصور المسيئة، والتثقيف، والاتصال. وبهذا بنى كثير من حملات مكافحة الوصمة في الولايات المتحدة وأوروبا.
+
+## ما بعد الحملات
+
+كتابه *The Stigma Effect* (2018) أقرب إلى مراجعة ذاتية لمجال عمل فيه عقوداً. فهو يتساءل عما إذا كانت بعض الحملات قد أنتجت نتائج عكسية، منها الرسالة التي تصوّر المرض النفسي «مرضاً كسائر الأمراض» بتفسير بيولوجي، إذ أظهرت دراسات مثل دراسة بيسكوسيدو وزملائه عام 2010 أن الناس صاروا أميل إلى قبول العلاج الدوائي دون أن يخف تحفظهم الاجتماعي تجاه المريض. وهذا يوضح أن نجاح حملة في رفع الوعي لا يعني تقليل التمييز.
+
+## حدود ونقد إضافية
+
+تتصل أول القيود بمدة الأثر: فمعظم دراسات الاتصال تقيس التغير بعد اللقاء بوقت قصير، ولا تعرف هل يستمر. وثانيها أن قياس الوصمة يعتمد في الغالب على مواقف معلنة واستبيانات، لا على سلوك فعلي كاستئجار شخص أو توظيفه. وثالثها أن إطار الوصمة يعتبر المشكلة في مواقف الأفراد، فقد لا يلتقط الحواجز البنيوية، كقوانين التأمين وبنية سوق العمل، ومن هنا انتقد بعض الباحثين التركيز على الاتجاهات وطالبوا بإصلاح السياسات. وأخيراً لا يمكن تعميم نتائج دراسات أجريت في الولايات المتحدة وأوروبا على ثقافات تعطي للمرض النفسي معاني دينية أو أسرية مختلفة.
+
 ## المصادر
 
-- [Patrick Corrigan — Illinois Institute of Technology](https://www.iit.edu/community-affairs/community-engaged-research-coalition-cerc/patrick-corrigan)
-- [Patrick CORRIGAN — ResearchGate profile](https://www.researchgate.net/profile/Patrick-Corrigan-3)
-- [On the stigma of mental illness: Practical strategies for research and social change — ResearchGate](https://www.researchgate.net/publication/232519658_On_the_stigma_of_mental_illness_Practical_strategies_for_research_and_social_change)
-- [Fighting the stigma of mental illness, with Patrick Corrigan, PsyD — APA podcast](https://www.apa.org/news/podcasts/speaking-of-psychology/mental-illness-stigma)
+- Corrigan, P. W. (Ed.) (2005). *On the Stigma of Mental Illness: Practical Strategies for Research and Social Change*. American Psychological Association.
+- Corrigan, P. W. (2018). *The Stigma Effect: Unintended Consequences of Mental Health Campaigns*. Columbia University Press.
+- Corrigan, P. W., Markowitz, F. E., Watson, A., Rowan, D., & Kubiak, M. A. (2003). "An attribution model of public discrimination towards persons with mental illness." *Journal of Health and Social Behavior*, 44(2), 162–179.
+- Corrigan, P. W., Larson, J. E., & Rüsch, N. (2009). "Self-stigma and the 'why try' effect: Impact on life goals and evidence-based practices." *World Psychiatry*, 8(2), 75–81.
+- Corrigan, P. W., Morris, S. B., Michaels, P. J., Rafacz, J. D., & Rüsch, N. (2012). "Challenging the public stigma of mental illness: A meta-analysis of outcome studies." *Psychiatric Services*, 63(10), 963–973.
+- Corrigan, P. W., Mueser, K. T., Bond, G. R., Drake, R. E., & Solomon, P. (2008). *Principles and Practice of Psychiatric Rehabilitation: An Empirical Approach*. Guilford Press.

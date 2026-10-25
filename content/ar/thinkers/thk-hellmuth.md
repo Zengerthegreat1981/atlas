@@ -44,9 +44,24 @@ gaps:
 
 «يوميات فتاة صغيرة» (Tagebuch eines halbwüchsigen Mädchens, 1919، بتقديم فرويد — وأصالته موضع شكّ راجح) · «في تقنية تحليل الأطفال» (Zur Technik der Kinderanalyse, 1921) · «من الحياة النفسية للطفل» (Aus dem Seelenleben des Kindes, 1913).
 
+## السيرة
+
+وُلدت هوغ-هيلموث في فيينا عام 1871، وعملت معلمة، ثم نالت الدكتوراه عام 1909، وهي من أوائل النساء في النمسا اللواتي حصلن على الدكتوراه في الفيزياء، قبل أن تتجه إلى التحليل النفسي وتنضم إلى جمعية فيينا للتحليل النفسي عام 1913. وصدر كتابها «من الحياة النفسية للطفل» (1913)، ثم عرضت «تقنية تحليل الأطفال» في مؤتمر لاهاي للرابطة الدولية للتحليل النفسي عام 1920، ونُشرت الورقة عام 1921 في المجلة الدولية للتحليل النفسي وبالإنجليزية في العام نفسه.
+
+## تقنيتها وموقعها من أنا فرويد وكلاين
+
+كانت هوغ-هيلموث حذرة في تطبيق التحليل على الأطفال: فقد رأت أن الطفل الصغير دون السادسة أو السابعة لا يصلح عادة لتحليل كامل، وأن للمحلل دوراً تربوياً يوجه فيه الطفل ووالديه، وهي نقطة اتجهت إليها آنا فرويد لاحقاً في «مدخل إلى تقنية تحليل الأطفال» (1927). أما ميلاني كلاين فسارت في الاتجاه المعاكس، فجعلت اللعب مقابلاً مباشراً للتداعي الحر وفسّرته تفسيراً عميقاً منذ البداية، كما في «التحليل النفسي للأطفال» (1932). ولهذا فإن وصف هوغ-هيلموث بأنها مؤسسة تقنية اللعب يحتاج تدقيقاً: إسهامها أنها أدخلت اللعب والرسم إلى غرفة التحليل وفتحت الباب أمام التحليل المباشر للأطفال، لا أنها صاغت التقنية التي ارتبطت باسم كلاين.
+
+## الإرث والجدل
+
+تناول كتاب غراف-نولد (1988) عن حالة هوغ-هيلموث سيرتها وسياق عملها، وتناولت جيسمان وجيسمان (1998) في «تاريخ التحليل النفسي للأطفال» موقعها بين الرائدات، وناقش بلاستو (2011) إرثها والمعضلات المتصلة به. ومسألة «اليوميات» تحديداً مثال مبكر على إشكال النشر السريري: إن صحّت نسبة الكتاب إليها، فهو يطرح سؤال الأمانة في عرض المادة الإكلينيكية، وهو سؤال لم تتمكن الوثائق المتاحة من حسمه بصورة قاطعة. ولا يمكن إثبات أثر مباشر لها في كلاين من وثائق متاحة، ولذلك يبقى القول بتأثيرها مرجحاً لا مؤكداً.
+
 ## المصادر
 
-- [Hermine Hug-Hellmuth — Wikipedia](https://en.wikipedia.org/wiki/Hermine_Hug-Hellmuth)
-- Plastow, M. (2011). "Hermine Hug-Hellmuth, the first child psychoanalyst: legacy and dilemmas". *Australasian Psychiatry*. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21682616)
-- [Hug-Hellmuth, Hermine (1871–1924) — Encyclopedia.com](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/hug-hellmuth-hermine-1871-1924)
-- [A Young Girl's Diary — Encyclopedia.com](https://www.encyclopedia.com/psychology/dictionaries-thesauruses-pictures-and-press-releases/young-girls-diary)
+- Hug-Hellmuth, H. (1913). Aus dem Seelenleben des Kindes. Leipzig und Wien: Franz Deuticke.
+- Hug-Hellmuth, H. (1921). On the technique of child-analysis. International Journal of Psycho-Analysis, 2, 287–305.
+- Freud, A. (1927). Einführung in die Technik der Kinderanalyse. Leipzig: Internationaler Psychoanalytischer Verlag.
+- Klein, M. (1932). The Psycho-Analysis of Children. London: Hogarth Press.
+- Graf-Nold, A. (1988). Der Fall Hermine Hug-Hellmuth: Eine Geschichte der frühen Kinder-Psychoanalyse. München: Verlag Internationale Psychoanalyse.
+- Geissmann, C., & Geissmann, P. (1998). A History of Child Psychoanalysis. London: Routledge.
+- Plastow, M. (2011). Hermine Hug-Hellmuth, the first child psychoanalyst: Legacy and dilemmas. Australasian Psychiatry.

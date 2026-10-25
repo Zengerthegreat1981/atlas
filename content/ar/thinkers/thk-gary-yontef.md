@@ -53,10 +53,21 @@ gaps:
 
 مع **لين جيكوبس** أسّس **معهد لوس أنجلوس للعلاج الجشطلتي**. وأثرُه أنّ الجشطلتَ الأكاديميَّ اليومَ يُدرَّس في هذا الإطار الحواريّ لا في إطار الستينيات، وأنه صار قابلاً للحوار مع **التحليل النفسي العلائقي** ومع نظرية التعلُّق — وهو حوارٌ كان مستحيلاً في صورة إيسالن.
 
+## موقعه من الجشطلت الحواري
+
+يمثل يونتيف ما سُمّي في الحقل «المنعطف العلائقي» في العلاج الجشطلتي. ومن مساهماته المنهجية أنه دعا إلى دمج التشخيص والفهم التحليلي في الممارسة الجشطلتية حين رأى أن الجشطلت الأول رفض الاثنين رفضاً مبالغاً فيه، ومن ذلك مقالته عن استيعاب المنظورات التشخيصية والتحليلية في العلاج الجشطلتي (1988). ثم كتب مقاله عن الموقف العلائقي (2002) في المجلة الدولية للجشطلت، وأكد أن الحوار موقف يتخذه المعالج لا تقنية يطبقها. وشارك مع جيكوبس في عرض العلاج الجشطلتي ضمن كتاب العلاجات النفسية الحالية.
+
+وفي مجال التدريب أسهم في برامج لوس أنجلوس لتأهيل المعالجين الجشطلتيين، وفيها يُدرَّس النموذج الحواري بوصفه مدخلاً أول، قبل التقنيات التجريبية كالكرسي الفارغ التي يحذّر يونتيف من تحويلها إلى حيلة تُنفَّذ بمعزل عن العلاقة. وهو يرى أن التجريب الجشطلتي المشروع هو ما ينشأ من لحظة اللقاء لا ما يُقدَّم سلفاً بوصفه خطوات، ولذلك يربط بين الحوار والتجريب بدل أن يفصل بينهما.
+
+## حدود ونقد
+
+يثير مشروعه اعتراضات من داخل الحقل: يرى بعض الجشطلتيين أن إعادة تعريف الجشطلت على أنه حواري تقلل من الطابع التجريبي والجسدي الذي ميّز العمل الأول، وأنها تقرّبه من العلاج التحليلي أكثر مما ينبغي. ومن خارج الحقل، تبقى أدلة نتائج العلاج الجشطلتي أقل من أدلة العلاج المعرفي السلوكي، ومعظم الأبحاث المتاحة تخص الصيغ التجريبية المنبثقة عن الحقل، كالعلاج المركّز على الانفعال، لا الجشطلت الحواري بحد ذاته. كما أن مفاهيمه المركزية، كالحضور والإدماج، يصعب ضبطها بمقاييس موضوعية، ولذلك يتكل الحقل على التدريب والإشراف أكثر من الأدلة المقارنة.
+
 ## المصادر
 
-- Yontef, Gary M. *Awareness, Dialogue and Process: Essays on Gestalt Therapy*. The Gestalt Journal Press, 1993.
-- Yontef, Gary M. "Relational Gestalt Therapy: What It Is and What It Is Not." In Woldt, A. & Toman, S. (eds.), *Gestalt Therapy: History, Theory, and Practice*. SAGE, 2005.
-- Perls, F., Hefferline, R. & Goodman, P. *Gestalt Therapy: Excitement and Growth in the Human Personality*. Julian Press, 1951.
-- Beisser, Arnold. "The Paradoxical Theory of Change." In Fagan, J. & Shepherd, I. (eds.), *Gestalt Therapy Now*. Science and Behavior Books, 1970.
-- Jacobs, Lynne & Hycner, Rich (eds.). *Relational Approaches in Gestalt Therapy*. GestaltPress, 2009.
+- Perls, F., Hefferline, R., & Goodman, P. (1951). Gestalt Therapy: Excitement and Growth in the Human Personality. New York: Julian Press.
+- Yontef, G. M. (1988). Assimilating diagnostic and psychoanalytic perspectives into Gestalt therapy. Gestalt Journal, 11(1).
+- Yontef, G. M. (1993). Awareness, Dialogue and Process: Essays on Gestalt Therapy. Highland, NY: The Gestalt Journal Press.
+- Yontef, G. M. (2002). The relational attitude in Gestalt therapy theory and practice. International Gestalt Journal, 25(1), 15–34.
+- Woldt, A. L., & Toman, S. M. (Eds.). (2005). Gestalt Therapy: History, Theory, and Practice. Thousand Oaks: SAGE.
+- Jacobs, L., & Hycner, R. (Eds.). (2009). Relational Approaches in Gestalt Therapy. Santa Cruz: GestaltPress.

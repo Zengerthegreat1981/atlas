@@ -47,9 +47,23 @@ gaps:
 
 أسس التصوّف التبتي (Foundations of Tibetan Mysticism, 1959) · الموقف النفسي للفلسفة البوذية المبكّرة (The Psychological Attitude of Early Buddhist Philosophy, 1961) · طريق الغيوم البيضاء (The Way of the White Clouds, 1966) · التأمل الخلّاق والوعي متعدّد الأبعاد (Creative Meditation and Multi-Dimensional Consciousness, 1976).
 
+## التكوين والمسار
+
+درس هوفمان الفلسفة والفن والآثار في ألمانيا وإيطاليا، وانجذب مبكراً إلى البوذية، فسافر إلى سيلان عام 1928. ثم انتقل إلى الهند وسيكيم، حيث لقي معلماً تبتياً، تومو غيشي رينبوتشي، حسب روايته، فأخذ صفة لاما. وفي الثلاثينيات درّس في مؤسسات هندية، منها مركز تاغور في شانتينيكيتان. وكان رساماً أيضاً، وارتبطت أعماله الكتابية بإحساس جمالي واضح. وفي سنواته الأخيرة استقر في كاليفورنيا وتوفي فيها عام 1985.
+
+## القراءة النفسية للبوذية
+
+يعود تقليد قراءة الأبهيدهارما نفسياً إلى كارولين ريس ديفيدز في «علم النفس البوذي» (1914)، وفي هذا الخط جاء غوفيندا فجعل الوعي التبتي موضوع تحليل لبنية التجربة. غير أنه تميّز بالتركيز على الرموز المرئية وعلى الممارسة التأملية بدل التركيز على الفهرسة العقائدية. ولذلك صار كتابه عن الستوبا قراءة لشكل معماري بوصفه خريطة لمراحل الوعي، وهي قراءة يصعب إثباتها تاريخياً، لكنها تُظهر منهجه في استعمال الرمز مدخلاً للفهم.
+
+## حدود ونقد إضافية
+
+انتقد دونالد لوبيز في «سجناء شانغريلا» (1998) الكتابة الغربية عن التبت لأنها تصوّر التقليد التبتي روحانياً صافياً بمعزل عن بنيته المؤسسية والسياسية، وهو نقد يمسّ جانباً من أدبيات التعريف الغربي بالتبت التي ينتمي إليها غوفيندا، كما انتقد لوبيز لاحقاً قراءة يونغ النفسية لكتاب الموتى التبتي لأنها ألبست النص مفهوماً غريباً عنه. وغوفيندا نفسه لم يكن عالماً أكاديمياً في الدراسات البوذية، وتأويلاته نفسية لا فيلولوجية، فليس فيها ما يغني عن الدراسة النصية الدقيقة. وعليه فإن موقعه في هذا الأطلس موقع المفسر الذي سهّل التقاء مفاهيم التأمل التبتي بالخطاب النفسي الغربي، لا موقع المؤسس لمدرسة علاجية.
+
 ## المصادر
 
-- Govinda, Lama Anagarika. *Foundations of Tibetan Mysticism*. London: Rider, 1959.
-- Govinda, Lama Anagarika. *The Psychological Attitude of Early Buddhist Philosophy*. London: Rider, 1961.
-- Govinda, Lama Anagarika. *The Way of the White Clouds: A Buddhist Pilgrim in Tibet*. London: Hutchinson, 1966. (سيرته بقلمه، وهي المصدر الأساسي لروايته عن سنواته التبتية.)
-- Govinda, Lama Anagarika. *Creative Meditation and Multi-Dimensional Consciousness*. Wheaton: Theosophical Publishing House, 1976.
+- Govinda, L. A. (1959). Foundations of Tibetan Mysticism. London: Rider.
+- Govinda, L. A. (1961). The Psychological Attitude of Early Buddhist Philosophy. London: Rider.
+- Govinda, L. A. (1966). The Way of the White Clouds: A Buddhist Pilgrim in Tibet. London: Hutchinson.
+- Govinda, L. A. (1976). Creative Meditation and Multi-Dimensional Consciousness. Wheaton, IL: Theosophical Publishing House.
+- Rhys Davids, C. A. F. (1914). Buddhist Psychology: An Inquiry into the Analysis and Theory of Mind in Pali Literature. London: G. Bell and Sons.
+- Lopez, D. S. (1998). Prisoners of Shangri-La: Tibetan Buddhism and the West. Chicago: University of Chicago Press.

@@ -47,11 +47,31 @@ gaps:
 - "The Strengths Perspective in Social Work Practice: Extensions and Cautions"، *Social Work* 41(3) (1996).
 - *Human Behavior and Social Environments: A Biopsychosocial Approach* (2001، Columbia University Press).
 
+## مبادئ منظور القوة
+
+قدّم ساليبي المنظور في صيغة مبادئ قليلة يسهل تدريسها. أولها أن لكل فرد وجماعة وأسرة ومجتمع قوى. وثانيها أن الصدمة والمرض والمعاناة قد تضر، لكنها قد تكون أيضاً مصدر تحدٍّ وفرصة. وثالثها ألّا يُفترض أن نعرف الحد الأعلى لقدرة الشخص على النمو. ورابعها أن الأخصائي يخدم العميل أفضل ما يكون حين يتعاون معه. وخامسها أن كل بيئة مليئة بالموارد. وهذا ما يجعل المنظور اتجاهاً أخلاقياً-معرفياً أكثر منه تقنية: فهو لا يحدد خطوات علاج بقدر ما يغيّر السؤال الذي يطرحه الأخصائي، من «ما الخلل؟» إلى «ما المتاح؟ وما الذي يهم هذا الشخص؟».
+
+## الجذور: كانساس وما قبلها
+
+لم ينشأ المنظور عند ساليبي وحده. ففي جامعة كانساس طوّر زملاء له، منهم آن ويك وتشارلز راب، بداية من أواخر الثمانينيات، تصوراً لممارسة خدمة اجتماعية تبدأ من قدرات العميل، فنشروا عام 1989 ورقة «منظور القوة للممارسة في الخدمة الاجتماعية» في مجلة *Social Work*. وجاء ساليبي بعد ذلك ليجمع هذه الجهود في كتاب جامع وليخرجها من دائرة العمل مع المصابين بأمراض نفسية شديدة إلى الخدمة الاجتماعية عامة. وكان قد كتب في التسعينيات عن الثقافة والسرد في الممارسة (1994)، فربط منظور القوة بالتحول السردي الذي كان يتصاعد في الحقل.
+
+## الاستقبال
+
+انتشر المنظور في برامج تدريب الأخصائيين الاجتماعيين وصار جزءاً من لغة المهنة، كما ظهر أثره في برامج الأحياء والتعليم والصحة النفسية. وأسهم كتابه في عودة الاعتبار إلى الموارد المحلية في التدخل. أما بين علم النفس والخدمة الاجتماعية فيلتقي المنظور مع علم النفس الإيجابي في فكرة أن دراسة القوة لا تقل أهمية عن دراسة العجز، لكنه يختلف عنه في بعده الاجتماعي المؤكد على البيئة والمجتمع. ولم يُوثَّق في هذا الأطلس ترجمة عربية لكتابه، وإن شاع مصطلح «منظور القوة» في أدبيات الخدمة الاجتماعية العربية.
+
+## حدود ونقد
+
+- نبّه ساليبي نفسه في مقالته 1996 («امتدادات وتحفظات») إلى أن التركيز على القوة قد يتحول إلى إنكار للمعاناة الحقيقية، أو إلى لوم ضمني للعميل الذي لا يستفيد من قوته.
+- راجع ستاودت وهاورد ودريك (2001) الأدلة التجريبية وخلصوا إلى أن المنظور أكثر اتساقاً كفلسفة منه كتدخل مُختبَر، وأن الدراسات التي تقيس فاعليته محدودة.
+- انتقد ماري غراي (2011) المنظور بأنه قد يحجب القضايا البنيوية، كالفقر وعدم المساواة، إذا اقتصر على قوة الفرد ومجتمعه.
+- لم يُعثر على دراسات عربية محكّمة تقيس تطبيق المنظور في الثقافة العربية، فنقله إلى هذا السياق يحتاج اختباراً.
+
 ## المصادر
 
-- KU News, "University remembers Professor Emeritus Dennis Saleebey" (2014) — news.ku.edu.
-- Warren-McElwain Mortuary, نعي مايكل دينس ساليبي (2014).
-- Wikipedia, "Dennis Saleebey".
-- Pearson, صفحة الطبعة السادسة لـ *The Strengths Perspective in Social Work Practice* (2013).
-- Saleebey, D. (1996). "The Strengths Perspective in Social Work Practice: Extensions and Cautions." *Social Work*, 41(3), 296–305 (PubMed/Oxford Academic).
-- Kretzmann, J. & McKnight, J. (1993). *Building Communities from the Inside Out*؛ ABCD Institute — للتمييز بين منظوري ساليبي وكريتزمان/مكنايت.
+- Saleebey, D. (Ed.). (1992). *The Strengths Perspective in Social Work Practice*. New York: Longman.
+- Saleebey, D. (1996). "The Strengths Perspective in Social Work Practice: Extensions and Cautions." *Social Work*, 41(3), 296–305.
+- Weick, A., Rapp, C., Sullivan, W. P., & Kisthardt, W. (1989). "A Strengths Perspective for Social Work Practice." *Social Work*, 34(4), 350–354.
+- Saleebey, D. (1994). "Culture, Theory, and Narrative: The Intersection of Meanings in Practice." *Social Work*, 39(4), 351–359.
+- Staudt, M., Howard, M. O., & Drake, B. (2001). "The Operationalization, Implementation, and Effectiveness of the Strengths Perspective: An Empirical Review." *Journal of Social Service Research*, 27(3), 1–21.
+- Gray, M. (2011). "Back to Basics: A Critique of the Strengths Perspective in Social Work." *Families in Society*, 92(1), 5–11.
+- University remembers Professor Emeritus Dennis Saleebey — خبر جامعة كانساس (2014).

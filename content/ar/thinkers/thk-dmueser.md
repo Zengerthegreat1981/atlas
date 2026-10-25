@@ -37,14 +37,38 @@ gaps:
 
 ## موقعه من التيار
 
-من أهم المساهمين المعاصرين في التثقيف النفسي. تكامل مع كاولي وأندرسون في تطوير الإطار.
+من أهم المساهمين المعاصرين في التثقيف النفسي، ويلتقي عمله مع عمل كارول أندرسون في برامج الأسرة.
 
 ## أهم أعماله
 
 - *Family Psychoeducation Workbook* (مساهم، 2003).
 
+## المسار البحثي
+
+تركّز عمل ميوزر على الأشخاص ذوي الاضطرابات النفسية الشديدة، وفي مقدمتها الفصام، وعلى كيفية تحويل نتائج البحث إلى برامج عملية قابلة للتطبيق في الخدمات المجتمعية. ويمكن تتبّع هذا المسار في ثلاثة محاور مترابطة.
+
+**الأول: العلاج الأسري السلوكي والتثقيف.** كتب مع غلين (Glynn) *Behavioral Family Therapy for Psychiatric Disorders* (1995)، وهو دليل يقوم على تعليم الأسرة مهارات التواصل وحلّ المشكلات وتثقيفها عن المرض. وأصدر مع غينغريتش *Coping with Schizophrenia: A Guide for Families* (1994) ثم *The Complete Family Guide to Schizophrenia* (2006)، وهما كتابان موجهان إلى أسر المرضى. وشارك في مراجعة عام 2001 نشرتها *Psychiatric Services* عن الممارسات المبنية على الدليل في خدمات الأسر، وهي من أهم ما يُستشهد به في دعم التثقيف الأسري.
+
+**الثاني: تدريب المهارات الاجتماعية.** شارك بيلاك وغينغريتش وأغريستا في *Social Skills Training for Schizophrenia: A Step-by-Step Guide* (الطبعة الأولى 1997، والثانية 2004)، وهو دليل منهجي لتعليم مرضى الفصام مهارات التواصل عبر النمذجة ولعب الأدوار والتغذية الراجعة.
+
+**الثالث: الاضطرابات المصاحبة وإدارة المرض.** مع درايك وزملائه من مركز داتموث للبحوث النفسية، طوّر نماذج للعلاج المتكامل للتعاطي المصاحب للاضطراب النفسي الشديد، ووثّق ذلك في *Integrated Treatment for Dual Disorders* (2003). كما أسهم في برنامج «إدارة المرض والتعافي» (Illness Management and Recovery)، وهو برنامج يعلّم المريض معلومات عن مرضه واستراتيجيات الوقاية من الانتكاس وتحقيق أهدافه، وقد نُشرت أسسه ونتائجه الأولية في *Schizophrenia Bulletin* (2006). وكتب مع ماكغيرك مراجعة عن الفصام في *The Lancet* (2004).
+
+## الاستقبال
+
+صار ميوزر أحد أكثر الباحثين استشهاداً به في إعادة التأهيل النفسي الاجتماعي، وأُدمجت برامجه في مبادرات تطبيق الممارسات المبنية على الدليل في الولايات المتحدة. ومن أثره أن مفهوم التعافي لم يعد حكراً على الخطاب الإنساني، بل دخل بروتوكولات منضبطة قابلة للقياس. ولم يُوثَّق في هذا الأطلس ترجمة عربية لكتبه، مع أن مفاهيم التثقيف الأسري تتصل بمشكلة حقيقية في الخدمات العربية التي تعتمد كثيراً على الأسرة.
+
+## حدود ونقد
+
+- نتائج التثقيف النفسي الأسري في خفض الانتكاس قوية في الدراسات المضبوطة، لكنها تحتاج إلى مرافقة ممتدة وموارد بشرية قد لا تتوفر في الخدمات العادية، ويظهر ذلك في الفجوة بين التجارب والتطبيق الميداني.
+- تدريب المهارات الاجتماعية يحسّن الأداء داخل الجلسات، لكن انتقال المهارة إلى الحياة اليومية أضعف، وهو ما أقرّت به الأدبيات.
+- يعتمد جزء كبير من أدلة «إدارة المرض والتعافي» على دراسات أولية أو غير معشّاة، وقد تفاوتت نتائج التجارب اللاحقة.
+- يقوم الملف على صفحات الجامعات والناشرين، ولم تُراجع سنة ميلاده.
+
 ## المصادر
 
-- Boston University Center for Psychiatric Rehabilitation, "Kim T. Mueser, Ph.D." — https://cpr.bu.edu/bio/kim-t-mueser-ph-d/
-- Geisel School of Medicine at Dartmouth, Faculty Expertise Database — https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=1400
-- Guilford Press, صفحة المؤلف Kim T. Mueser — https://www.guilford.com/author/Kim-T-Mueser
+- Bellack, A. S., Mueser, K. T., Gingerich, S., & Agresta, J. (2004). *Social Skills Training for Schizophrenia: A Step-by-Step Guide* (2nd ed.). New York: Guilford Press.
+- Mueser, K. T., & Glynn, S. M. (1995). *Behavioral Family Therapy for Psychiatric Disorders*. Boston: Allyn & Bacon.
+- Mueser, K. T., Noordsy, D. L., Drake, R. E., & Fox, L. (2003). *Integrated Treatment for Dual Disorders: A Guide to Effective Practice*. New York: Guilford Press.
+- Mueser, K. T., Meyer, P. S., Penn, D. L., Clancy, R., Clancy, D. M., & Salyers, M. P. (2006). "The Illness Management and Recovery Program: Rationale, Development, and Preliminary Findings." *Schizophrenia Bulletin*, 32(Suppl. 1), S32–S43.
+- Mueser, K. T., & McGurk, S. R. (2004). "Schizophrenia." *The Lancet*, 363(9426), 2063–2072.
+- Dixon, L., McFarlane, W. R., et al. (2001). "Evidence-Based Practices for Services to Families of People with Psychiatric Disabilities." *Psychiatric Services*, 52(7), 903–910.

@@ -69,11 +69,24 @@ gaps:
 
 موقعُ كريغر في هذا الأطلس موقعُ **الجدّة لا العضو**: هي وكونز واضعتا الممارسة التي انحدر منها — بعد سبعةَ عشرَ عاماً، على يد [جانيت منتغن](thk-jmentgen) — برنامجُ **«اللمسة الشافية»**، ومنه جاءت [دوروثيا هوفر-كرامر](thk-dhoverkramer) لتشارك في تأسيس الذراع المؤسسيِّ لـ[علم نفس الطاقة](br-energy-psychology). **فكريغر سابقةٌ على هذا الحقل بستّة عشرَ عاماً على الأقلّ، لا فردٌ فيه.**
 
+## كتبها وأبحاثها المنشورة
+
+عرضت كريغر الممارسة في كتب موجّهة للجمهور وللممرّضات معاً: *The Therapeutic Touch: How to Use Your Hands to Help or to Heal* (1979)، ثم *Living the Therapeutic Touch: Healing as a Lifestyle* (1987)، ثم *Accepting Your Power to Heal* (1993). وتنتمي هذه الكتب إلى الخطاب الإرشادي أكثر مما تنتمي إلى الأدبيات التجريبية. أما الأبحاث التي أجرتها هي نفسها في السبعينيات فكانت دراسات صغيرة حول أثر اللمسة في مؤشرات مثل الهيموغلوبين، ولم تمثّل بحثاً بمقاييس التجارب المعشّاة المعاصرة، كما لم تُراجَع نصوصها الأصلية في هذا الملف.
+
+## واقعة روزا بوصفها حالة منهجية
+
+كان من أبرز ما يميّز اختبار 1998 أن صاحبته إميلي روزا كانت طفلة تعدّه مشروعاً علمياً مدرسياً، وأنها كانت أصغر مؤلف يظهر في *JAMA*. وقد لخّص التصميم فكرة اختبار قابلية الدعوى للتكذيب: إذا كان الممارس يستشعر حقل الطاقة، فعليه أن يميّز يد الباحثة من وراء حاجز. وفشل المشاركون في ذلك. ويتصل هذا بكريغر لأنها كانت الصيغة المنظِّرة للممارسة حين تقول إن الممارس يمكنه أن «يدرك» الحقل، فصار الدليل المضاد موجَّهاً إلى لبّ ما علّمته.
+
+## حدود ونقد إضافي
+
+- يعاد في الأدبيات التمريضية طرح سؤال: هل كانت اللمسة العلاجية أثراً علاجياً بسبب الحضور والعناية والاسترخاء، لا الطاقة؟ وإن صحّ ذلك فهو يفسّر الرضا دون تأييد الدعوى النظرية.
+- لم تنشر كريغر رداً مفصّلاً على اختبار 1998 بحسب ما تيسّر لهذا الملف، فبقي الاعتراض بلا جواب منشور منها.
+
 ## المصادر
 
 - Rosa, L., Rosa, E., Sarner, L., & Barrett, S. (1998). "A Close Look at Therapeutic Touch." *JAMA*, 279(13), 1005–1010.
-- "Dolores (Dee) Krieger (1921-2019)" — Nursology.net (2019). **مصدرٌ متعاطف.**
-- "Dr. Dolores 'Dee' Krieger August 1, 1921 – June 16, 2019" — British Columbia Therapeutic Touch Network Society (2019). **مصدرٌ متعاطف.**
-- نعيُ Buffalo Hill Funeral Home & Crematory، مونتانا (2019).
-- Simon & Schuster / Inner Traditions — صفحاتُ المؤلِّفة الرسمية.
-- Kunz, D., & Krieger, D. *The Spiritual Dimension of Therapeutic Touch*. Rochester: Bear & Company.
+- Krieger, D. (1979). *The Therapeutic Touch: How to Use Your Hands to Help or to Heal*. Englewood Cliffs, NJ: Prentice-Hall.
+- Kunz, D., & Krieger, D. (2004). *The Spiritual Dimension of Therapeutic Touch*. Rochester, VT: Bear & Company.
+- "Dolores (Dee) Krieger (1921-2019)" — Nursology.net (2019). مصدر متعاطف.
+- "Dr. Dolores Dee Krieger August 1, 1921 – June 16, 2019" — British Columbia Therapeutic Touch Network Society (2019). مصدر متعاطف.
+- نعي Buffalo Hill Funeral Home & Crematory، مونتانا (2019).

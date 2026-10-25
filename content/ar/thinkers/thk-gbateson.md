@@ -56,10 +56,23 @@ gaps:
 - *Steps to an Ecology of Mind* (1972).
 - *Mind and Nature: A Necessary Unity* (1979).
 
+## التعلّم والمنطق
+
+في مقالة «الفئات المنطقية للتعلّم والتواصل» ضمن خطوات نحو إيكولوجيا العقل (1972) ميّز باتسون بين مستويات للتعلّم: تعلّم أول يتمثّل في اكتساب استجابة صحيحة، وتعلّم ثانٍ هو تعلّم السياق أي أن يتعلّم الكائن نمط تفسير المواقف، وتعلّم ثالث نادر يتغيّر فيه نمط التعلّم نفسه. واستعار من نظرية الأنماط المنطقية عند راسل ووايتهد مبدأ أن الفئة ليست عضواً في نفسها، فرأى أن الخلط بين مستويات الرسالة، أي المحتوى وما يقال عن المحتوى، هو أصل المفارقة التي وصفها في الرباط المزدوج.
+
+## الخلفية والتكوين
+
+وُلد في غرانتشستر بإنجلترا عام 1904 لعالم الوراثة ويليام باتسون، ودرس العلوم الطبيعية في كامبريدج قبل أن يتجه إلى الأنثروبولوجيا. كتب مع مارغريت ميد «الطبع البالي: تحليل فوتوغرافي» (1942). وشارك في مؤتمرات ماسي حول السيبرنطيقا في الأربعينيات والخمسينيات التي جمعت فينر وفون نويمان وغيرهما، فتشكّل عنده التفكير في التغذية الراجعة. وكتب مع يورغن رويش «التواصل: المصفوفة الاجتماعية للطب النفسي» (1951). وتتجلى سمته الفريدة في رفضه الانحياز إلى مجال واحد، وهو ما جعله مؤثراً في الجميع وغير منتمٍ إلى أي مدرسة.
+
+## حدود ونقد إضافية
+
+إضافة إلى سقوط الدعوى السببية للرباط المزدوج، رأى نقاد أن طابعه الاستعاري في بعض كتاباته المتأخرة، ولا سيما الحديث عن العقل والمقدّس، يصعب اختباره تجريبياً. وانتقد بعض النسويين العلاج الأسري النظامي المتأثر به لأنه يعالج العنف الأسري بوصفه تفاعلاً دائرياً يساهم فيه الطرفان، فيطمس مسؤولية الفاعل.
+
 ## المصادر
 
-- Bateson, Gregory. *Naven: A Survey of the Problems suggested by a Composite Picture of the Culture of a New Guinea Tribe*. Cambridge University Press, 1936.
-- Bateson, Gregory. *Steps to an Ecology of Mind*. Chandler Publishing, 1972.
-- Bateson, Gregory. *Mind and Nature: A Necessary Unity*. E. P. Dutton, 1979.
-- Britannica, "Gregory Bateson | Cybernetics, Anthropology, Communication."
-- Wikipedia contributors, "Gregory Bateson," Wikipedia.
+- Bateson, G. (1936). Naven: A Survey of the Problems Suggested by a Composite Picture of the Culture of a New Guinea Tribe Drawn from Three Points of View. Cambridge: Cambridge University Press.
+- Bateson, G., Jackson, D. D., Haley, J., & Weakland, J. (1956). Toward a theory of schizophrenia. Behavioral Science, 1(4), 251–264.
+- Bateson, G., & Mead, M. (1942). Balinese Character: A Photographic Analysis. New York: New York Academy of Sciences.
+- Bateson, G. (1972). Steps to an Ecology of Mind. San Francisco: Chandler Publishing.
+- Bateson, G. (1979). Mind and Nature: A Necessary Unity. New York: E. P. Dutton.
+- Ruesch, J., & Bateson, G. (1951). Communication: The Social Matrix of Psychiatry. New York: W. W. Norton.

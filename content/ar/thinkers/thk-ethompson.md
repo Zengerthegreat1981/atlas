@@ -52,9 +52,28 @@ gaps:
 
 العقل المتجسّد (*The Embodied Mind*, 1991، مع فاريلا وروش) · إدراك الألوان (*Colour Vision*, 1995) · الذهن في الحياة (*Mind in Life*, 2007) · يقظةً وحلماً ووجوداً (*Waking, Dreaming, Being*, 2015) · لماذا لستُ بوذياً (*Why I Am Not a Buddhist*, 2020).
 
+## الفينومينولوجيا العصبية
+
+يعود جزء كبير من حضور تومسون في علم النفس والعلوم المعرفية إلى مشروع «الفينومينولوجيا العصبية» الذي صاغه فاريلا عام 1996 في مجلة *Journal of Consciousness Studies* بوصفه علاجاً منهجياً لما سماه ديفيد تشالمرز «المشكلة الصعبة». فكرة المشروع أن بيانات الدماغ وحدها لا تكفي، وأن تقارير الخبرة المعيشية، إذا دُرّب أصحابها على وصفها بدقة، تصبح قيوداً متبادلة مع القياس العصبي. وقد واصل تومسون هذا الخط بعد وفاة فاريلا عام 2001، ومن ثمراته ورقة «التجسيد الجذري: الديناميات العصبية والوعي» (Thompson & Varela, 2001) في مجلة *Trends in Cognitive Sciences*، التي ترى أن الوعي لا يقتصر على نشاط داخل الرأس، وإنما يتشكل من حلقات تربط الدماغ بالجسد وبالمحيط. ومن مآلاته العملية دخول تقنيات الوصف الدقيق للخبرة في بحوث التأمل واليقظة الذهنية، وإن بقيت منهجيتها محل نقاش.
+
+## الغيرية والتعاطف
+
+عني تومسون كذلك بمسألة الآخر، فحرّر كتاب *Between Ourselves: Second-Person Issues in the Study of Consciousness* (2001) الذي جمع باحثين رأوا أن دراسة الوعي من منظور ضمير المتكلم أو الغائب وحدهما تُغفل التفاعل المباشر بين شخصين. وفي هذا الاتجاه استفاد من تقليد الفينومينولوجيا عند هوسرل وإديث شتاين في وصف التعاطف، وعدّه تجربة مباشرة بالآخر لا استدلالاً على ذهنه. وقد غذّى هذا الخط تصوراً لما بات يسمى «صناعة المعنى التشاركية» عند باحثين مثل هانه دي ياغر وإزكيل دي باولو في السنوات اللاحقة، وهي امتدادات قام بها هؤلاء لا تومسون نفسه.
+
+## التلقي في العلاجات والتدريب
+
+لم يؤسس تومسون مدرسة علاجية، لكن مفاهيمه دخلت في تصور كثير من الممارسين الذين رأوا أن الذهن ليس محدّداً بجمجمة المريض، فالعَرَض يُفهم داخل شبكة من الجسد والعلاقات والبيئة. وهذا ما يفسر وجوده في أطلس مرتبط بالإدراك المتجسّد وعلاجاته. وفي المقابل، ظل تحفظ علماء الأعصاب الإكلينيكيين قائماً حول قابلية التفسير الإدراكي المفعَّل للاختبار في دراسات العلاج.
+
+## حدود ونقد إضافية
+
+وجّه باحثون من داخل الاتجاه الإدراكي المفعَّل نفسه نقداً إلى مفهوم «المعنى» عند تومسون: فقد رأى دانيال هاتو وإريك ميين في *Radicalizing Enactivism* (2013) أن الاحتفاظ بفكرة المحتوى والتمثيل في الأوساط الحيوية يتناقض مع الطرح المفعَّل، ودعوا إلى نسخة أشد. وخارج الاتجاه يرى المدافعون عن المقاربات الحسابية أن النموذج المفعَّل يقدّم وصفاً مفيداً لكنه لا يولّد تنبؤات قابلة للاختبار بالقدر الذي تولّده النماذج الحسابية. وهذه النقطة تخص الاتجاه عموماً، وتومسون من أبرز من حاولوا الجواب عنها.
+
 ## المصادر
 
-- Varela, F., Thompson, E., & Rosch, E. — *The Embodied Mind: Cognitive Science and Human Experience*, MIT Press, 1991.
-- Thompson, E. — *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*, Harvard University Press, 2007.
-- Thompson, E. — *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*, Columbia University Press, 2015.
-- Thompson, E. — *Why I Am Not a Buddhist*, Yale University Press, 2020.
+- Varela, F. J., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
+- Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
+- Thompson, E. (2015). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+- Thompson, E. (2020). *Why I Am Not a Buddhist*. Yale University Press.
+- Thompson, E., & Varela, F. J. (2001). "Radical embodiment: Neural dynamics and consciousness." *Trends in Cognitive Sciences*, 5(10), 418–425.
+- Varela, F. J. (1996). "Neurophenomenology: A methodological remedy for the hard problem." *Journal of Consciousness Studies*, 3(4), 330–349.
+- Hutto, D. D., & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds without Content*. MIT Press.

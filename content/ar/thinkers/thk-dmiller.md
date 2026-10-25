@@ -31,7 +31,7 @@ gaps:
 
 ## ما أعطاه
 
-كتب «التعددية الإلهية الجديدة» (The New Polytheism, 1974) و«الأشباح المقدّسة وغير المقدّسة» (Hells and Holy Ghosts, 1989)، اللذان مهّدا لاستقبال الأركيتايبية في السياق الديني المسيحي. ميّز بين «الإله الواحد» الديني و«الآلهة المتعددة» الأركيتايبية، وأعاد قراءة «العذراء» و«المسيح» و«الشيطان» كأشكال «للنفس» لا ككيانات فوق-طبيعية.
+كتب «التعددية الإلهية الجديدة» (The New Polytheism, 1974) و«جحيمات وأرواح قدس: شعريات لاهوتية للإيمان المسيحي» (Hells and Holy Ghosts, 1989)، اللذان مهّدا لاستقبال الأركيتايبية في السياق الديني المسيحي. ميّز بين «الإله الواحد» الديني و«الآلهة المتعددة» الأركيتايبية، وأعاد قراءة «العذراء» و«المسيح» و«الشيطان» كأشكال «للنفس» لا ككيانات فوق-طبيعية.
 
 ## موقعه من التيار
 
@@ -42,12 +42,35 @@ gaps:
 
 ## أهم أعماله
 
-«التعددية الإلهية الجديدة: استعادة الآلهة» (The New Polytheism, 1974) · «مسحاء: تأملات في الصور الأركيتايبية في اللاهوت المسيحي» (Christs: Meditations on Archetypal Images in Christian Theology, 1981) · «وجوه الله الثلاثة: آثار التثليث في الأدب والحياة» (Three Faces of God: Traces of the Trinity in Literature and Life, 1986) · «الأشباح المقدّسة وغير المقدّسة» (Hells and Holy Ghosts, 1989).
+«التعددية الإلهية الجديدة: استعادة الآلهة» (The New Polytheism, 1974) · «مسحاء: تأملات في الصور الأركيتايبية في اللاهوت المسيحي» (Christs: Meditations on Archetypal Images in Christian Theology, 1981) · «وجوه الله الثلاثة: آثار التثليث في الأدب والحياة» (Three Faces of God: Traces of the Trinity in Literature and Life, 1986) · «جحيمات وأرواح قدس» (Hells and Holy Ghosts, 1989).
+
+## من اللاهوت إلى التعددية الإلهية
+
+بدأ ميلر مساره من اللاهوت والدراسات الدينية لا من التحليل النفسي. وصدر كتابه الأول *Gods and Games: Toward a Theology of Play* (1970) في سياق «لاهوت اللعب» الذي ازدهر في ستينيات القرن العشرين. ثم جاء *The New Polytheism* (1974) ليبني على مقالة جيمس هيلمان «علم النفس: توحيدي أم تعددي؟» (1971) وعلى قراءته الخاصة لمعنى الآلهة المتعددة: فكرته أن الثقافة الغربية استبدلت بالإله الواحد نظاماً مرجعياً أحادياً للقيم، وأن عودة الآلهة اليونانية في صور نفسية تعيد الاعتبار إلى تعدد الصور داخل الإنسان. ومعنى ذلك أن التعددية ليست دعوة إلى عبادة آلهة قديمة، بل منهج في التخيل يرفض اختزال النفس في مبدأ واحد.
+
+## ثلاثية الصور المسيحية
+
+في الثمانينيات والتسعينيات كتب ميلر سلسلة تدور حول الصور الأركيتيبية في العقيدة المسيحية: *Christs* (1981) عن صور المسيح، و*Three Faces of God* (1986) عن التثليث في الأدب والحياة، و*Hells and Holy Ghosts* (1989) عن الجحيم والروح القدس. وفي كتاب 1989 يستعمل مفهوم «الشعريات اللاهوتية» (theopoetics) الذي يقرأ العقيدة بوصفها لغة صور لا مجرد قضايا منطقية. وهذا هو إسهامه المميز: نقل النقاش من «هل العقيدة صحيحة» إلى «ماذا تفعل الصورة الدينية بالنفس».
+
+## الصلة بالتقليد الإسلامي
+
+يتقاطع هذا التوجّه مع تقليد إسلامي في التأمل في الصورة والخيال: فمفهوم «عالم المثال» عند ابن عربي والسهروردي، الذي أعاد هنري كوربان تقديمه إلى الغرب بوصفه «العالم التخيّلي»، من المصادر التي استفاد منها هيلمان وحلقة أرانوس. ولم يُوثَّق في هذا الملف أن ميلر اشتغل على هذا التراث مباشرة، فالصلة صلة مفهومية يضعها الملف للمقارنة لا ادعاءً بتأثير.
+
+## الاستقبال
+
+استُقبلت كتب ميلر في الدوائر اليونغية التي ترى فيها رافداً لدراسة الدين، وفي دراسات الأديان التي ضمّت التحليل النفسي إلى أدواتها. وقد منحته الرابطة الدولية لعلم النفس التحليلي عضوية فخرية عام 2004، وفق ما جاء في ترويستها. أما حضوره في الأدبيات العربية فلا يُعرف له ترجمة منشورة موثقة.
+
+## حدود ونقد
+
+- يُؤخذ على القراءة الأركيتيبية للأديان أنها تحوّل العقيدة إلى مادة نفسية، وقد ينتقدها اللاهوتيون بأنها تفرّغ الإيمان من مضمونه الوجودي والتاريخي.
+- منهجه تأويلي أدبي، ولا يقدّم معايير لقياس ما يقوله عن الصور، فتبقى نتائجه مسألة ذوق وحجة لا دليل.
+- لا تُوثَّق في هذا الملف سنة الميلاد ولا تفاصيل التعليم ولا التواريخ الدقيقة للمناصب، واقتُصر على ما يُسنده مصدر.
 
 ## المصادر
 
-- [David L. Miller — College of Arts & Sciences, Syracuse University](https://artsandsciences.syracuse.edu/people/faculty/miller-david-l/)
-- [Honorary Members of the IAAP — International Association for Analytical Psychology](https://iaap.org/about-the-iaap/honorary-members-of-the-iaap/)
-- [David L. Miller — Oregon Friends of Jung (speaker bio)](https://ofj.org/speaker/david-l-miller/)
-- [Hells and Holy Ghosts: A Theopoetics of Christian Belief — Amazon/bibliographic record](https://www.amazon.com/Hells-Holy-Ghosts-Theopoetics-Christian/dp/1882670973)
-- [Christs: Meditations on Archetypal Images in Christian Theology — AbeBooks bibliographic record](https://www.abebooks.com/9780816404926/Christs-Meditations-archetypal-images-Christian-0816404925/plp)
+- Miller, D. L. (1970). *Gods and Games: Toward a Theology of Play*. New York: World Publishing.
+- Miller, D. L. (1974). *The New Polytheism: Rebirth of the Gods and Goddesses*. New York: Harper & Row.
+- Miller, D. L. (1981). *Christs: Meditations on Archetypal Images in Christian Theology*. New York: Seabury Press.
+- Miller, D. L. (1986). *Three Faces of God: Traces of the Trinity in Literature and Life*. Philadelphia: Fortress Press.
+- Miller, D. L. (1989). *Hells and Holy Ghosts: A Theopoetics of Christian Belief*. Nashville: Abingdon Press.
+- Hillman, J. (1971). "Psychology: Monotheistic or Polytheistic?" *Spring: An Annual of Archetypal Psychology and Jungian Thought*.

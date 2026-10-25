@@ -37,13 +37,13 @@ gaps:
 
 نشأت فوشا في سياق التحليل النفسي ما بعد كلاسيكي. تأثرت بأعمال هايكو كوهوت (Heinz Kohut) في تنظيم الذات (Self Psychology)، وبأعمال ليزلي غرينبرغ (Leslie S. Greenberg) في جامعة يورك (تورونتو) حول العلاج المرتكز على العاطفة (Emotion-Focused Therapy)، وبيتر فوناغي في Mentalization.
 
-تبلورت أطروحتها في ثمانينيات القرن العشرين، وصدر كتابها التأسيسي *The Transforming Power of Affect* عام 2000، ثم تعاونت لاحقاً في *Transforming the Living Legacy of Trauma* (2021).
+تبلورت أطروحتها في ثمانينيات القرن العشرين، وصدر كتابها التأسيسي *The Transforming Power of Affect* عام 2000، ثم صدر كتابها *Undoing Aloneness and the Transformation of Suffering Into Flourishing: AEDP 2.0* (2021).
 
 ## ما أعطته
 
 - **العلاج الديناميكي التجريبي المعجَّل (Accelerated Experiential Dynamic Psychotherapy — AEDP)**: أسلوب علاجي قصير نسبياً يركّز على الاستفادة من قدرة «التعافي الطبيعي الفطري» في الجهاز العصبي، عوضاً عن التركيز على المقاومة والتكرار القهري فقط.
 - **التنظيم الثنائي للانفعال (Dyadic Affect Regulation)**: أطروحة تقول إن الانفعال لا يُنظَّم داخل الفرد فقط، بل بين المعالج والمتعالج. المعالج يشترك في تنظيم الانفعال، لا يقتصر على ملاحظته.
-- **التجربة المُصحِّحة (Corrective Emotional Experience)**: إعادة إحياء مفهوم كلاسيكي من Franz Alexander و Franz Rosenzweig، لكن فوشا تصفه بدقة: تجربة مع المريض «يختبر فيها الأمان» ثم «التنظيم» ثم «التواصل» قبل «المعالجة» للصدمة.
+- **التجربة المُصحِّحة (Corrective Emotional Experience)**: إعادة إحياء مفهوم كلاسيكي من فرانز ألكسندر وتوماس فرينش (1946)، لكن فوشا تصفه بدقة: تجربة مع المريض «يختبر فيها الأمان» ثم «التنظيم» ثم «التواصل» قبل «المعالجة» للصدمة.
 - **«إزالة العزلة» (Undoing Aloneness)**: مفهوم محوري عند فوشا. الصدمة الأساسية ليست الحدث نفسه، بل «الوحدة» الناجمة عنه. المعالج يكسر هذه العزلة بوجوده المنظِّم.
 - **العملية الميتا (Metaprocessing)**: قدرة المتعالج على «تأمُّل» ما حدث في الجلسة علاجياً، فينتقل من «التجربة» إلى «التفكير في التجربة»، ما يعزّز التحوُّل.
 - **«التعلُّق بالذات» (Attachment-to-Self)**: امتداد لمفهوم التعلُّق بين الأشخاص. فوشا تقول إن للفرد علاقة بنفسه، والصدمة تكسر هذه العلاقة. العلاج يستعيدها.
@@ -56,9 +56,9 @@ gaps:
 
 ## أهم أعمالها
 
-- *The Transforming Power of Affect: A Guide for Self-Healing* (2000). كتابها التأسيسي.
-- *Healing the Living Legacy of Trauma* (محرِّرة، 2002، مجموعة فصول جماعية).
-- *Transforming the Living Legacy of Trauma: Healing the Heart, Mind, and Body* (محرِّرة مشاركة، 2021).
+- *The Transforming Power of Affect: A Model for Accelerated Change* (2000). كتابها التأسيسي.
+- *The Healing Power of Emotion: Affective Neuroscience, Development and Clinical Practice* (2009، تحرير مع دانيال سيغل وماريون سولومون).
+- *Undoing Aloneness and the Transformation of Suffering Into Flourishing: AEDP 2.0* (2021).
 - *AEDP at Work*، سلسلة مقالات تطبيقية في مجلات *Psychotherapy* و*Journal of Clinical Psychology*.
 
 ## حدود الإدراج والنقد
@@ -68,8 +68,22 @@ gaps:
 - جذور فوشا في مدرسة كوهوت الذّاتية (Self Psychology) تجعلها أقرب إلى تقاليد الانفصال (Transference-Focused) في بعض الجوانب، ما يستلزم حساسية في التعامل مع الاختلافات الفِرَق بين فوناغي وكوهوت.
 - ثمة تداخل شائع (غير دقيق) بين مسيرتها الأكاديمية الفعلية (NYU، أدلفي، CUNY) وانتماءات أخرى تُنسب إليها خطأً في مصادر ثانوية غير موثّقة؛ ينبغي التحقق من أي انتماء مؤسسي جديد يُذكر لها قبل اعتماده.
 
+## الأصول في العلاج الديناميكي المكثف
+
+يستند AEDP إلى تقليد العلاج الديناميكي القصير الذي ارتبط بحبيب دافانلو، وقد تدرّبت فوشا في هذا التقليد، ثم ابتعدت عنه في نقطة حاسمة: فبينما يقوم العلاج المكثف عند دافانلو على مواجهة دفاعات المريض وكسر مقاومته مباشرة، جعلت فوشا السلامة العلاقية والتطمين شرطين قبل كل استكشاف، ورأت أن الدفاعات تُفهم بوصفها محاولات لحماية الذات لا عقبات تُزاح. وجمعت إلى ذلك مادة من نظرية التعلق وأبحاث التفاعل بين الأم والرضيع، وخصوصاً ما كتبه إدوارد ترونيك عن تنظيم الانفعال المتبادل، ومن علم الأعصاب الانفعالي كما عرضه يعقوب بانكسيب.
+
+## الحالات الثلاث و«التحوّلية»
+
+تقوم النظرية الإكلينيكية في AEDP على تتبع ما تسميه «الحالات» التي يمر بها المريض في الجلسة. تبدأ بحالة أولى يغلب عليها القلق والدفاع والتثبيط، ثم حالة ثانية تنفتح فيها انفعالات أساسية وتجارب تلقٍّ للدفء والرعاية، ثم حالة ثالثة تسمى «الحالة الجوهرية» يصفها المرضى بالهدوء والانفتاح وبشعور بالحقيقة والتماسك. والانتقال بين هذه الحالات هو ما تعدّه المعالجة علامة تقدم. وتقابلها فكرة «التحوّلية» (transformance)، أي الميل الفطري الذي يدفع الإنسان نحو الشفاء والنمو إذا توفرت له الظروف، وهي مقدمة تشبه ما قاله روجرز عن نزعة التحقق لكنها تُبنى هنا على علم الأعصاب الانفعالي. ويضاف إلى ذلك ما تسميه «المعالجة الفوقية»، أي أن يتوقف المعالج والمريض بعد كل تحول ليتأمل ما جرى، فتتحول التجربة الجيدة نفسها إلى مادة يتعلمان منها.
+
+## الانتشار
+
+وسّع عمل فوشا نطاق التأثير عبر التدريب الدولي والكتب المحررة، ومنها *The Healing Power of Emotion* (2009) الذي جمع أبحاثاً عن علم أعصاب الانفعال والنمو والعيادة. وبرز المنهج بين العلاجات التي تضع التجربة الانفعالية في المركز، وصارت له مجتمعات تدريب في أمريكا الشمالية وأوروبا.
+
 ## المصادر
 
-- Wikipedia (English): [Diana Fosha](https://en.wikipedia.org/wiki/Diana_Fosha)
-- AEDP Institute: [Diana Fosha, PhD, Developer of AEDP](https://aedpinstitute.org/diana-fosha/)
-- GoodTherapy: [Diana Fosha Biography](https://www.goodtherapy.org/famous-psychologists/diana-fosha.html)
+- Fosha, D. (2000). *The Transforming Power of Affect: A Model for Accelerated Change*. Basic Books.
+- Fosha, D., Siegel, D. J., & Solomon, M. F. (Eds.) (2009). *The Healing Power of Emotion: Affective Neuroscience, Development and Clinical Practice*. W. W. Norton.
+- Fosha, D. (2001). "The dyadic regulation of affect." *Journal of Clinical Psychology*, 57(2), 227–242.
+- Fosha, D. (2021). *Undoing Aloneness and the Transformation of Suffering Into Flourishing: AEDP 2.0*. American Psychological Association.
+- Alexander, F., & French, T. M. (1946). *Psychoanalytic Therapy: Principles and Application*. Ronald Press.

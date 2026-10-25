@@ -52,9 +52,23 @@ EFT من أوضح الأمثلة على الفجوة بين الانتشار و�
 - *EFT Manual* (2001).
 - *The EFT Mini-Manual* (2003).
 
+## من العلاج بالنقر إلى حركة جماهيرية
+
+تعود جذور الطريقة إلى روجر كالاهان الذي ابتكر في ثمانينيات القرن العشرين علاج حقل الفكر، وعرضه في كتابه «علاج الفوبيا في خمس دقائق» (1985)، وزعم فيه أن اضطراب الانفعال ينشأ من اضطراب في «حقل الفكر» يُصلح بنقر نقاط محددة بتسلسل محدد. تعلّم كريغ هذا الأسلوب ثم طرح تبسيطه، وأتاح دليله على الشبكة، فتكوّنت حول الطريقة جمعيات للممارسين ومؤتمرات وتدريبات. وتتبنى الطريقة اليوم تسميات متعددة مثل «علم النفس الطاقي»، وهي تسمية تثير حذر الباحثين لأنها توحي بأساس فيزيائي غير موجود.
+
+## قراءة الأدلة
+
+ظهرت دراسات منشورة تشير إلى انخفاض أعراض القلق والاكتئاب بعد جلسات النقر، منها مراجعة منهجية مع تحليل تلوي للقلق (كلوند، 2016) وجدت أثراً أكبر من قوائم الانتظار، ومراجعة 2022 نشرها باحثون يعملون في الحقل نفسه. غير أن هذه التجارب في معظمها مقارنة مع قائمة انتظار، وهي مقارنة لا تفصل بين أثر النقر وأثر الانتباه والتعرض والتوقع. وحين جُرّبت المقارنة الأدق، فإن دراسة وايت وهولدر (2003) عن الخوف من الحيوانات الصغيرة وجدت أن النقر على نقاط الطاقة لم يتفوق على النقر على نقاط مختلفة أو على أشياء بدل الجسد. ويُضاف أن أغلب الدراسات الإيجابية صغيرة، ويكتبها مؤيدون للطريقة، وأن بعض التجارب تقيس الكورتيزول دون ربط واضح بنتيجة إكلينيكية.
+
+## حدود ونقد إضافية
+
+نقد غاوديانو وهربرت (2000) علاج حقل الفكر في دورية المتشكك مبكراً، واعتبر أن النظرية لا تفسر شيئاً لم يكن يفسره التعرض والاسترخاء. وبوجه عام، فإن مقولة «الصدمة تُشفى بالنقر» خطر إذا حلّت محل علاج موصى به لاضطراب ما بعد الصدمة، كالعلاج بالتعرض الممتد أو إزالة الحساسية بحركة العين وإعادة المعالجة. ولا ينبغي أن يُفهم هذا الملف توصية علاجية.
+
 ## المصادر
 
-- Wikipedia, "Emotional Freedom Techniques": https://en.wikipedia.org/wiki/Emotional_Freedom_Techniques
-- The Tapping Solution, "The Man Who Gave Tapping to the World: Remembering Gary Craig, 1940–2026": https://www.thetappingsolution.com/blog/the-man-who-gave-tapping-to-the-world-remembering-gary-craig-1940-2026/
-- Guild of Energists (GoE), "In Memoriam: Gary Craig, The Founder of Emotional Freedom Techniques (EFT)": https://goe.ac/gary_craig_founder_eft_obituary.htm
-- International Journal of Healing and Caring, "Obituary – Goodbye to Gary" (مايو 2026): https://ijhc.org/2026/05/01/obituary-craig-t-goodbye-to-gary/
+- Callahan, R. J. (1985). Five Minute Phobia Cure: Dr. Callahan's Treatment for Fears, Phobias and Self-Sabotage. Wilmington: Enterprise Publishing.
+- Craig, G. (2001). EFT Manual: Emotional Freedom Techniques. Fulton, CA: Energy Psychology Press.
+- Gaudiano, B. A., & Herbert, J. D. (2000). Can we really tap our problems away? A critical analysis of thought field therapy. Skeptical Inquirer, 24(4), 29–33.
+- Waite, W. L., & Holder, M. D. (2003). Assessment of the Emotional Freedom Technique: An alternative treatment for fear. The Scientific Review of Mental Health Practice, 2(1), 20–26.
+- Clond, M. (2016). Emotional Freedom Techniques for anxiety: A systematic review with meta-analysis. Journal of Nervous and Mental Disease, 204(5), 388–395.
+- Church, D., Stapleton, P., Vasudevan, A., & O'Keefe, T. (2022). Clinical EFT as an evidence-based practice for the treatment of psychological and physiological conditions: A systematic review. Frontiers in Psychology, 13, 951451.

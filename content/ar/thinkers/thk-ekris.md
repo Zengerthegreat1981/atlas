@@ -55,9 +55,32 @@ gaps:
 
 *Meister und Meisterwerke der Steinschneidekunst in der italienischen Renaissance* (1929) · *Die Legende vom Künstler* (مع أوتو كورتس، 1934) · «The Principles of Caricature» (مع إرنست غومبريش، 1938) · *Caricature* (1940) · *German Radio Propaganda* (مع هانس شبايير، 1944) · *Psychoanalytic Explorations in Art* (1952) · تحرير *The Psychoanalytic Study of the Child* (1945–1957).
 
+## مسار المنفى والعمل في الحرب
+
+نال كريس الدكتوراه في تاريخ الفن في فيينا (1922) وعمل أميناً في المتحف، ثم تحوّل إلى التحليل النفسي في أواخر العشرينيات وتدرّب مع هيلين دويتش، وتزوج ماريان ريه التي صارت محللة نفسية. وفي 1938 غادر فيينا إلى لندن ثم إلى نيويورك عام 1940، حيث عمل في الجامعة الجديدة للبحث الاجتماعي. ومع هانس شبايير أدار مشروعاً لتحليل الدعاية الإذاعية الألمانية في الحرب، وصدر عنه *German Radio Propaganda* (1944). وبهذا مارس كريس تحليل المضمون وقراءة الرسائل الجماهيرية بأدوات التحليل النفسي والفن، وهو اهتمام مبكر بالتحليل النفسي للجمهور.
+
+## من الفن إلى الأنا: ما كتبه خلال الخمسينيات
+
+في الخمسينيات نشر أوراقاً من أهم ما كُتب في تقنية التحليل: «علم نفس الأنا والتأويل في العلاج التحليلي» (1951)، و«في العمليات العقلية ما قبل الواعية» (1950)، و«استرجاع ذكريات الطفولة في التحليل النفسي» (1956)، و«الأسطورة الشخصية: مشكلة في تقنية التحليل النفسي» (1956). وفي الورقة الأخيرة قال إن المريض كثيراً ما يحمل رواية جاهزة لسيرته تصبح حاجزاً، وإن مهمة المحلل أن يعامل هذه الرواية بوصفها «أسطورة» لها وظيفة نفسية، لا سجلاً دقيقاً للماضي. وهذه الأفكار تجعل منه جسراً بين النظرية والتقنية في سيكولوجيا الأنا.
+
+## الفنان والأسطورة
+
+في *Die Legende vom Künstler* (1934) مع أوتو كورتس درس كريس الصورة النمطية للفنان في التاريخ، وكيف تتكرر حكايات متشابهة عن موهبة تظهر مبكراً وعن الفنان بوصفه ساحراً. وقد ترجم الكتاب إلى الإنجليزية عام 1979 بعنوان «الأسطورة والخرافة والسحر في صورة الفنان». ويبقى هذا العمل من أولى المحاولات لتحليل الصور الثقافية للفنان بأدوات نفسية، وأثّر في ما بعد على حقول مثل علم اجتماع الفن.
+
+## الاستقبال
+
+أثّر كريس في جيل لاحق من المحللين، منهم ماريان كريس وألبرت سولنيت وغيرهما في مركز ييل لدراسة الطفل، وصدرت أوراقه المختارة عن ييل عام 1975. ويبقى مفهوم «التراجع في خدمة الأنا» أشهر ما يُنسب إليه. ولا يُوثَّق في هذا الأطلس ترجمة عربية لأعماله.
+
+## حدود ونقد إضافي
+
+- ضيق الفضاء التجريبي: اعتمد كريس في فكرته عن الإبداع على أمثلة سريرية وأدبية، فلا تتوفر قياسات تكشف متى يكون التراجع «في خدمة الأنا» ومتى يكون مرضياً.
+- ربط الأسطورة الشخصية بالتقنية يوحي بأن المحلل قادر على التمييز بين الحقيقة والأسطورة، وهو ما ناقشه التحليل المعاصر الذي يرى أن الذاكرة والسرد يتداخلان.
+
 ## المصادر
 
 - Kris, E. (1952). *Psychoanalytic Explorations in Art*. New York: International Universities Press.
 - Kris, E., & Kurz, O. (1934). *Die Legende vom Künstler: Ein geschichtlicher Versuch*. Wien: Krystall.
-- Kris, E., & Gombrich, E. (1938). "The Principles of Caricature". *British Journal of Medical Psychology*, 17.
-- Speier, H., & Kris, E. (1944). *German Radio Propaganda: Report on Home Broadcasts During the War*. London/New York: Oxford University Press.
+- Kris, E., & Gombrich, E. H. (1938). "The Principles of Caricature." *British Journal of Medical Psychology*, 17, 319–342.
+- Speier, H., & Kris, E. (Eds.). (1944). *German Radio Propaganda: Report on Home Broadcasts During the War*. New York: Oxford University Press.
+- Kris, E. (1956). "The Personal Myth: A Problem in Psychoanalytic Technique." *Journal of the American Psychoanalytic Association*, 4, 653–681.
+- Kris, E. (1975). *Selected Papers of Ernst Kris*. New Haven: Yale University Press.

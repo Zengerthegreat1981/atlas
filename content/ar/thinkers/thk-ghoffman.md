@@ -46,8 +46,22 @@ gaps:
 - *Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture Your Child's Attachment, Emotional Resilience, and Freedom to Explore* (2017، مع غلين كوبر وبيرت باول).
 - *The Circle of Security Intervention: Enhancing Attachment in Early Parent–Child Relationships* (2013، مع باول وكوبر ومارفن).
 
+## كيف نشأ البرنامج
+
+تكوّنت دائرة الأمان في مطلع التسعينيات حين اجتمع هوفمان وكوبر وباول، وهم معالجون إكلينيكيون، مع روبرت مارفن، عالم نمو متخصص في نظرية التعلق، لبناء تدخل يترجم أبحاث التعلق إلى عمل مع الأسرة. واستند النموذج إلى مفاهيم ماري أينسورث التي وصفت الأمان بوصفه قاعدة آمنة يستكشف منها الطفل وملاذاً آمناً يعود إليه، في «أنماط التعلق» (1978)، وإلى أعمال جون بولبي في «التعلق والفقد». ونشر مارفن وكوبر وهوفمان وباول (2002) مقالة في مجلة التعلق والنمو الإنساني تصف مشروع دائرة الأمان مع ثنائيات المربّي والطفل في سن ما قبل المدرسة.
+
+## برنامج التربية
+
+من التطورات اللاحقة صيغة قصيرة موجهة للآباء بلا معالج هي برنامج «دائرة الأمان للأبوة» (COS-P) المؤلف من ثمانية فصول مبنية على فيديو تعليمي، وهي الصيغة التي انتشرت على نطاق أوسع من البروتوكول العلاجي الأصلي. وفي كتاب «تربية طفل آمن» (2017) نقل هوفمان مع زميليه الفكرة إلى جمهور القرّاء غير المتخصصين.
+
+## حدود ونقد
+
+اقتصرت الأدلة المبكرة على دراسات صغيرة، وكان لأصحاب النموذج دور فيها. درس كاسيدي وزملاؤه (2011) أثر التدخل في أمان تعلق الرضّع مع تفاوت الاستفادة بحسب خصائص الطفل، وكانت النتائج مشجعة لكن عينتها محدودة وتتركز في أسر منخفضة الدخل. وخلصت مراجعة تحليلية لياهولوسكي وهيرل وثيول (2016) إلى أن عدد الدراسات الصالحة للدمج قليل وأن الدليل يحتاج إلى مزيد من التجارب المستقلة. وتبقى استعارات مثل موسيقى القرش وسيلة تعليمية جذابة، لكن ليس هناك اختبار منفصل لفاعليتها، كما أن معظم عينات الدراسة من مجتمعات غربية.
+
 ## المصادر
 
-- Circle of Security International, "The Co-originators" — https://www.circleofsecurityinternational.com/pages/the-co-originators
-- LinkedIn, Kent Hoffman (Co-Founder, Circle of Security International) — https://www.linkedin.com/in/kent-hoffman-b328267/
-- Guilford Press, صفحة *Raising a Secure Child* — https://www.guilford.com/books/Raising-a-Secure-Child/Hoffman-Cooper-Powell/9781462527632/authors
+- Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). Patterns of Attachment: A Psychological Study of the Strange Situation. Hillsdale, NJ: Lawrence Erlbaum.
+- Marvin, R., Cooper, G., Hoffman, K., & Powell, B. (2002). The Circle of Security project: Attachment-based intervention with caregiver–pre-school child dyads. Attachment and Human Development, 4(1), 107–124.
+- Cassidy, J., Woodhouse, S. S., Sherman, L. J., Stupica, B., & Lejuez, C. W. (2011). Enhancing infant attachment security: An examination of treatment efficacy and differential susceptibility. Development and Psychopathology, 23(1), 131–148.
+- Yaholkoski, A., Hurl, K., & Theule, J. (2016). Efficacy of the Circle of Security intervention: A meta-analysis. Journal of Infant, Child, and Adolescent Psychotherapy, 15(2), 95–103.
+- Hoffman, K. T., Cooper, G., & Powell, B. (2017). Raising a Secure Child: How Circle of Security Parenting Can Help You Nurture Your Child's Attachment, Emotional Resilience, and Freedom to Explore. New York: Guilford Press.

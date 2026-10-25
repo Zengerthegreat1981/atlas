@@ -50,9 +50,22 @@ gaps:
 - *Attachment-Based Family Therapy for Depressed Adolescents* (2014، مع غاري م. دايموند وسوزان أ. ليڤي، American Psychological Association).
 - عشرات المقالات المحكَّمة وتجربتان عشوائيتان مضبوطتان على مراهقين ذوي ميول انتحارية، وهما أساس إدراج ABFT في سجلّات البرامج القائمة على الأدلة.
 
+## الأدلة التجريبية
+
+بدأ البحث بدراسة تطوير للعلاج (دايموند وزملاؤه، 2002) نُشرت في مجلة الأكاديمية الأمريكية لطب نفس الأطفال والمراهقين، ثم تبعتها تجربة عشوائية (2010) على مراهقين يعانون أفكاراً انتحارية قارنت ABFT بالرعاية المعتادة المحسّنة، وأظهرت انخفاضاً أكبر في الأفكار الانتحارية ومزيداً من التحسن في العلاقة مع الوالدين. وجاءت تجربة أحدث (2019) تقارن ABFT بعلاج داعم غير موجَّه. وراجع دايموند وروسون وليفي (2016) الأدلة الداعمة للنموذج في دورية العملية الأسرية، كما شارك دايموند وجوزفسون في مراجعة عشرية للأبحاث المبنية على الأسرة (2005).
+
+## موقعه في العلاج الأسري للمراهقين
+
+تتصل أعماله بتيار أوسع يعطي للأسرة دوراً في علاج اضطرابات المراهقين، كالعلاج الأسري الوظيفي والعلاج الأسري متعدد الأبعاد. وما يميّز ABFT أنه يضع في صدارته سؤال الأمان والثقة بين المراهق والوالدين، ويستند إلى نظرية بولبي التي ترى أن الارتباط الآمن يوفر قاعدة للاستكشاف وتنظيم الانفعال، ثم يترجمها إلى مهام قصيرة محددة.
+
+## حدود ونقد
+
+أغلب الدراسات التي دعمت العلاج أجراها مطوّرو النموذج أو فريقه، وهو ما يجعل أثر الولاء للنموذج محتملاً. وعينات التجارب محدودة نسبياً وتتركز في عيادات أمريكية حضرية، فالتعميم على سياقات أسرية وثقافية أخرى، كالأسر العربية التي تختلف فيها سلطة الوالدين ومعنى المصارحة، يحتاج إلى دراسة. كما أن فرضية الانقطاع التعلقي بوصفه أصلاً للاكتئاب تبقى إحدى الفرضيات، فالاكتئاب عند المراهقين متعدد العوامل، ولا يغني العلاج الأسري عن تقييم المخاطر والدواء عند الحاجة.
+
 ## المصادر
-- Diamond, G., Diamond, G. M., & Levy, S. A. (2014). *Attachment-Based Family Therapy for Depressed Adolescents*. American Psychological Association. https://www.apa.org/pubs/books/attachment-based-family-therapy-for-depressed-adolescents
-- "Our Team", ABFT International Training Institute: https://abftinternational.com/our-team/
-- Diamond, G., Russon, J., & Levy, S. (2016). Attachment-based family therapy: A review of the empirical support. *Family Process*, 55(3), 595–610. (PubMed: https://pubmed.ncbi.nlm.nih.gov/25778674/)
-- "US Honors Israeli Professor For Work On Suicide Prevention" (على تكريم غاري وغي دايموند معاً)، NoCamels (2014): https://nocamels.com/2014/04/us-honors-israeli-professor-for-work-on-suicide-prevention/
-- The Social Work Podcast, "Attachment-Based Family Therapy (ABFT) for Depressed and Suicidal Youth: Interview with Guy Diamond and Suzanne Levy": https://socialworkpodcast.blogspot.com/2015/03/ABFT.html
+
+- Diamond, G. S., Diamond, G. M., & Levy, S. A. (2014). Attachment-Based Family Therapy for Depressed Adolescents. Washington, DC: American Psychological Association.
+- Diamond, G. S., Reis, B. F., Diamond, G. M., Siqueland, L., & Isaacs, L. (2002). Attachment-based family therapy for depressed adolescents: A treatment development study. Journal of the American Academy of Child and Adolescent Psychiatry, 41(10), 1190–1196.
+- Diamond, G. S., Wintersteen, M. B., Brown, G. K., Diamond, G. M., Gallop, R., Shelef, K., & Levy, S. (2010). Attachment-based family therapy for adolescents with suicidal ideation: A randomized controlled trial. Journal of the American Academy of Child and Adolescent Psychiatry, 49(2), 122–131.
+- Diamond, G., Russon, J., & Levy, S. (2016). Attachment-based family therapy: A review of the empirical support. Family Process, 55(3), 595–610.
+- Diamond, G., & Josephson, A. (2005). Family-based treatment research: A 10-year update. Journal of the American Academy of Child and Adolescent Psychiatry, 44(9), 872–887.

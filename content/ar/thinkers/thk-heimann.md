@@ -46,8 +46,25 @@ gaps:
 - «حول التحويل المقابل» (On Counter-Transference)، *International Journal of Psychoanalysis* 31 (1950): 81–84.
 - *About Children and Children-No-Longer* (نُشر بعد وفاتها عام 1989): أوراق ومقالات إكلينيكية مجموعة.
 
+## سياق الورقة وصداها
+
+جاءت ورقة هايمان في سياق كان فيه التحويل المقابل يُعدّ في الأغلب عائقاً يدل على نقص في تحليل المحلل. وقد ظهرت في الفترة نفسها أعمال تفتح الباب نفسه من زوايا أخرى، منها «الكراهية في التحويل المقابل» لوينيكوت (1949) الذي أقرّ فيه بأن المحلل يكره مريضه أحياناً وأن هذا مفيد إن وعاه، و«التحويل المقابل واستجابة المريض له» لمارغريت ليتل (1951)، ثم مقالة راكر «معاني التحويل المقابل واستعمالاته» (1957) التي ميّز فيها بين أشكال التماهي عند المحلل. وصاغ بيون بعد ذلك مفهوم الاحتواء في «التعلّم من الخبرة» (1962)، وهو يستعمل قدرة المحلل على تلقي إسقاطات المريض وتحويلها إلى معنى.
+
+## ما بعد 1950
+
+لم تكن هايمان منعزلة عن النقاش اللاحق: فقد راجعت موقفها في مقالة «التحويل المقابل» (1960) في المجلة البريطانية للعلوم النفسية الطبية، محذرة من التعميم الذي قد يُفهم من ورقتها الأولى، أي أن كل ما يشعر به المحلل هو من صنع المريض. وكتبت «ديناميات تفسيرات التحويل» (1956). ولها مع سوزان آيزاكس إسهامات في مناقشات الخلاف بين فرويد وكلاين (1941–1945)، وكتبت عن الاستدخال والإسقاط في النمو المبكر، وعن غريزتي الحياة والموت (1952) ضمن كتاب «تطورات في التحليل النفسي».
+
+## حدود ونقد
+
+أُخذ على ورقة 1950 أن إطلاقها يهمل مساهمة شخصية المحلل وتاريخه في استجابته، فيجعل مشاعره تفسيراً جاهزاً لما في المريض، وهو ما أقرّت هي بحدوده لاحقاً. ويرى مؤرخو التحليل، ومنهم غروسكورت في سيرتها لكلاين (1986)، أن الخلاف بين هايمان وكلاين لم يكن نظرياً فحسب، بل شخصياً وتنظيمياً داخل الجمعية البريطانية. وتبقى أفكار التحويل المقابل موضع جدل في الممارسة بين من يرى فيها أداة معرفية ومن يرى أنها تفتح باباً للتأويل الذاتي غير القابل للاختبار، وليست هناك تجارب مضبوطة تحسم القضية.
+
 ## المصادر
 
-- Heimann, Paula. "On Counter-Transference." *International Journal of Psychoanalysis* 31 (1950): 81–84.
-- Heimann, Paula. *About Children and Children-No-Longer: Collected Papers 1942–80*. London: Tavistock/Routledge, 1989 (نُشر بعد وفاتها).
-- "Paula Heimann." *Encyclopedia.com* / سير مرجعية للجمعية البريطانية للتحليل النفسي — للتفاصيل الترجمية والتدريبية (تدريب برلين، الهجرة 1933، العلاقة بكلاين والمجموعة المستقلة).
+- Heimann, P. (1950). On counter-transference. International Journal of Psychoanalysis, 31, 81–84.
+- Heimann, P. (1956). Dynamics of transference interpretations. International Journal of Psychoanalysis, 37, 303–310.
+- Heimann, P. (1960). Counter-transference. British Journal of Medical Psychology, 33, 9–15.
+- Heimann, P. (1989). About Children and Children-No-Longer: Collected Papers 1942–80. London: Tavistock/Routledge.
+- Winnicott, D. W. (1949). Hate in the counter-transference. International Journal of Psychoanalysis, 30, 69–74.
+- Little, M. (1951). Counter-transference and the patient's response to it. International Journal of Psychoanalysis, 32, 32–40.
+- Racker, H. (1957). The meanings and uses of countertransference. Psychoanalytic Quarterly, 26, 303–357.
+- Grosskurth, P. (1986). Melanie Klein: Her World and Her Work. New York: Alfred A. Knopf.

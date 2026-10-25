@@ -33,28 +33,43 @@ gaps:
 
 عالم نفس بريطاني (وُلد 1956)، أحد أهم منظري **علم النفس النقدي** (Critical Psychology) ومنسقي الحركة الدولية له. شارك في تأسيس "وحدة الخطاب" (Discourse Unit) عام 1991 وما يزال أحد مديريها. درّس في مانشستر بوليتكنيك ثم جامعة مانشستر متروبوليتان منذ 1985، وعُيّن أستاذاً لعلم النفس هناك عام 2000. تعرّض للإيقاف عن العمل عام 2012 على خلفية نشاطه النقابي (ممثل نقابة موظفي الجامعات UCU) بشأن أعباء العمل وإجراءات التعيين، وأُعيد إلى منصبه بعد جلسة تأديبية في ديسمبر 2012، لكنه استقال في يناير 2013 قائلاً إن عمله الأكاديمي "قُوِّض إلى درجة لم يعد فيها ما يستحق العودة إليه". انتقل بعدها إلى جامعة ليستر حيث شغل منصب أستاذ الإدارة (Professor of Management) في كلية إدارة الأعمال، وهو الآن أستاذ فخري (Emeritus) هناك.
 
+## الخلفية الفكرية
+
+جاء باركر إلى الحقل في لحظة «أزمة علم النفس الاجتماعي» التي أعلنها في السبعينيات كينيث غيرغن وغيره، حين طُرح السؤال عمّا إذا كان علم النفس علماً طبيعياً أم تاريخياً. وأخذ من هذا الجو كتابه الأول *The Crisis in Modern Social Psychology, and How to End It* (1989)، الذي جادل فيه بأن العلم النفسي ليس محايداً بل ينتج أنماطاً من الذات تخدم أشكال الضبط الاجتماعي. وأضاف إلى ذلك مصادر من ميشال فوكو في تحليل الخطاب، ومن ماركس في نقد الاغتراب، ومن لاكان في تفكيك الذات. وقد بنى هذا التركيب مشروعاً يقرأ علم النفس بوصفه ممارسة اجتماعية لا مجرد علم.
+
 ## ما أعطاه
 
 - **"علم النفس النقدي"** كأداة: تحليل جذر علم النفس السائد بوصفه جزءاً من النظام النيوليبرالي، مع التركيز على القوة، الإيديولوجيا، والإقصاء.
-- **"تحليل الخطاب"** في علم النفس: تطبيق منهجيات فوكو في تفكيك "الموضوعية" المزعومة لعلم النفس.
+- **"تحليل الخطاب"** في علم النفس: تطبيق منهجيات فوكو في تفكيك "الموضوعية" المزعومة لعلم النفس. وقد كتب *Discourse Dynamics* (1992) الذي صار مرجعاً في تحليل الخطاب في علم النفس البريطاني، وحرّر مع إريكا بيرمان *Discourse Analytic Research* (1993)، ثم أتبعهما بـ*Deconstructing Psychopathology* (1995) الذي حلّل بنية التشخيص النفسي بوصفه خطاباً.
 - **"التفكيك"** (Deconstruction) كمنهجية نقدية: تفكيك البنى الثنائية (طبيعي/مرضي، عقل/جسد) في علم النفس.
 - **"الذات كمُنتَج اجتماعي"**: نقد مفهوم "الذات الفردية" لصالح رؤيتها كإنتاج للعلاقات الاجتماعية.
 - **إحياء نقد الطب النفسي** (Anti-Psychiatry): إعادة صياغة نقد لينغ وساس في سياق معاصر — لا بوصفه إنكاراً للمعاناة بل بوصفه سؤالاً عمّن يملك سلطة تسميتها.
+- **منهجية البحث الكيفي**: دعا في *Qualitative Psychology: Introducing Radical Research* (2005) إلى بحث كيفي يتحمّل مسؤوليته السياسية بدل أن يقلّد كمّية الاستبيانات.
 
 ## موقعه من التيار
 
-يُعدّ باركر من أهم منظري علم النفس النقدي في بريطانيا وأوروبا، مع تأثير على حركة "الطب النفسي المناهض" (Anti-Psychiatry) في نسختها المعاصرة، وعلى دراسات ما بعد الاستعمار في علم النفس.
+يُعدّ باركر من أهم منظري علم النفس النقدي في بريطانيا وأوروبا، مع تأثير على حركة "الطب النفسي المناهض" (Anti-Psychiatry) في نسختها المعاصرة، وعلى دراسات ما بعد الاستعمار في علم النفس. وهو يجمع بين الانتماء الأكاديمي والعمل في التحليل النفسي اللاكاني، فهو في الوقت نفسه ناقد لعلم النفس وممارس للتحليل. وقد أسهم في «Annual Review of Critical Psychology» التي كانت منبراً دولياً لهذا التيار. وفي السياق العربي لا نعرف ترجمة معتمدة لأعماله، وإن كان علم النفس النقدي وعلم نفس التحرير (مارتين-بارو) يتقاطعان معه في نقد الاستعمال الاجتماعي للمعرفة النفسية.
+
+## حدود ونقد
+
+يوجَّه إلى مشروعه اعتراضان معروفان في الأدبيات. الأول أنه أقوى في الهدم منه في البناء: فالنقد الخطابي للتشخيص والمؤسسات يوضح كيف تُصنع الفئات، لكنه لا يقدّم دائماً بديلاً سريرياً أو بحثياً يُغني عنها، وكثيراً ما تُرك السؤال عن المريض الذي يعاني فعلاً ويحتاج رعاية. والثاني أن اعتماده على فوكو ولاكان يتطلّب لغة نظرية كثيفة تحدّ من وصوله إلى المعالجين والمرضى. ويضاف إلى ذلك أن بعض الباحثين التجريبيين يرون في النقد الخطابي نسبوية تقلّل من أثر الأدلة الكمية. وهذه الحدود لا تلغي أثره في فتح سؤال الإيديولوجيا داخل علم النفس، لكنها تفرض قراءته بوصفه نقداً لا مدرسة علاجية.
 
 ## أهم أعماله
 
-- *The Crisis in Modern Social Psychology* (1989).
-- *Discourse Analytic Research* (1992).
-- *Critical Psychology: Critical Concepts in Psychology* (2011، تحرير، أربعة مجلدات).
+- *The Crisis in Modern Social Psychology, and How to End It* (1989).
+- *Discourse Dynamics: Critical Analysis for Social and Individual Psychology* (1992).
+- *Discourse Analytic Research: Repertoires and Readings of Texts in Action* (1993، تحرير مع إريكا بيرمان؛ كان الملف يؤرّخه 1992).
+- *Deconstructing Psychopathology* (1995، مع آخرين).
+- *Qualitative Psychology: Introducing Radical Research* (2005).
+- *Revolution in Psychology: Alienation to Emancipation* (2007).
 - *Lacanian Psychoanalysis: Revolutions in Subjectivity* (2011) — وجهه الآخر: قراءة لاكان أداةً نقدية لا مذهباً علاجياً.
+- *Critical Psychology: Critical Concepts in Psychology* (2011، تحرير).
 
 ## المصادر
 
-- [Ian Parker (psychologist) — Wikipedia](https://en.wikipedia.org/wiki/Ian_Parker_(psychologist))
-- [Suspended MMU Prof offered job back — The Mancunion](https://mancunion.com/2012/12/03/suspended-mmu-prof-offered-job-back/)
-- [Ian Parker — Google Scholar profile](https://scholar.google.com/citations?user=ghcmHScAAAAJ&hl=en)
-- [Ian Parker — الموقع الشخصي](https://parkerian.com/)
+- Ian Parker — *The Crisis in Modern Social Psychology, and How to End It*. London: Routledge, 1989.
+- Ian Parker — *Discourse Dynamics: Critical Analysis for Social and Individual Psychology*. London: Routledge, 1992.
+- Ian Parker, Eugenie Georgaca, David Harper, Terence McLaughlin & Mark Stowell-Smith — *Deconstructing Psychopathology*. London: Sage, 1995.
+- Ian Parker — *Revolution in Psychology: Alienation to Emancipation*. London: Pluto Press, 2007.
+- Ian Parker — *Lacanian Psychoanalysis: Revolutions in Subjectivity*. London: Routledge, 2011.
+- «Suspended MMU Prof offered job back» — *The Mancunion*، ديسمبر 2012.

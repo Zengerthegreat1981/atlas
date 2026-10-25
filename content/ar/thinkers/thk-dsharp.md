@@ -49,10 +49,29 @@ gaps:
 
 The Secret Raven: Conflict and Transformation in the Life of Franz Kafka (1980) · Personality Types: Jung's Model of Typology (1987) · Jung Lexicon: A Primer of Terms and Concepts (1991).
 
+## أعماله الشخصية في الكتابة
+
+إلى جانب النشر، كتب شارب سلسلة من الكتب القصيرة بأسلوبه المباشر. من أبرزها *The Survival Papers: Anatomy of a Midlife Crisis* (1988) التي تناول فيها أزمة منتصف العمر من خلال مفاهيم يونغ، وبعدها *Personality Types* (1987) الذي شرح فيه نموذج يونغ في الأنماط (الانطواء والانبساط والوظائف الأربع) في صورة موجزة. ثم توالت كتب مثل *Getting to Know You: The Inside Out of Relationship* (1992) و*Chicken Little: The Inside Story* (1993) التي قدّم فيها قصة مألوفة بقراءة يونغية و*Who Am I Really? Personality, Soul and Individuation* (1995) و*Digesting Jung* (2001). وتتميز هذه الكتب بصغر الحجم ووضوح العبارة وكثرة الإحالة إلى المجلدات الكاملة ليونغ، فهي تعمل دليلاً للقارئ غير المتخصص أكثر مما تعمل كمساهمة نظرية جديدة.
+
+## نموذج التحرير: سلسلة محللين يونغيين
+
+كان تصور شارب لدار Inner City Books أن تنشر كتباً صغيرة الحجم، كل كتاب فيها يعالج موضوعاً يونغياً واحداً من يد محلل ممارس. وقد صدرت عن الدار أعمال مؤثرة منها *The Owl Was a Baker's Daughter* لماريون وودمان (1980)، و*Narcissism and Character Transformation* لناثان شوارتز-سالانت (1982)، و*The Creation of Consciousness* لإدوارد إدينغر (1984)، و*The Middle Passage* لجيمس هوليس (1993). ولو لم تكن الدار لظل كثير من هذه الكتب مبعثراً في دوريات أو حبيس دور نشر لا تتخصص في الحقل. وبهذا شكّل شارب جزءاً من البنية التحتية للتحليل اليونغي في أمريكا الشمالية: لم يصنع نظرية، لكنه أتاح لمن صنعوها أن يصلوا إلى قرائهم.
+
+## «معجم يونغ» بوصفه أداة
+
+يُقدَّم معجم 1991 بوصفه دليلاً تمهيدياً مرتباً هجائياً يعرض المفهوم ويشير إلى مواضعه في مؤلفات يونغ، وهي طريقة تفيد قارئاً يواجه مصطلحات مثل «الظل» و«الأنيما» و«الفردانية» دون خلفية تحليلية. ولا يوجد، بحسب ما أثبته هذا الأطلس، نقل عربي معتمد للمعجم، وإن عُرفت ترجمات عربية لبعض أعمال يونغ، فيبقى القارئ العربي بحاجة إلى مرجع مماثل يراعي اختلاف المصطلحات بين المترجمين.
+
+## حدود ونقد إضافي
+
+- طابع كتب شارب تبسيطي، وقد يرى الأكاديميون أنها تقدّم يونغ كنسق متماسك مغلق ولا تظهر الجدل الداخلي في المدرسة.
+- أثر الدار محصور في الدائرة اليونغية، ولم يخضع لتقييم مستقل في الأدبيات.
+- جمع شارب بين وظيفتي الناشر والمحرر في دار بطاقم صغير، وهو وضع قد يثير سؤالاً عن معايير الاختيار، وإن لم يُوثَّق في هذا الملف شيء عن ذلك.
+
 ## المصادر
 
-- IAAP, "Daryl Sharp 1936–2019" — iaap.org.
-- Inner City Books, "In Memoriam: Daryl Sharp 1936–2019" — innercitybooks.net.
-- Speaking of Jung, "Who is Daryl Sharp?" (2015) — speakingofjung.com.
-- Inner City Books، صفحات الكتب: Jung Lexicon، The Secret Raven، Personality Types — innercitybooks.net.
-- Internet Archive، نسخة Personality Types: Jung's Model of Typology.
+- Sharp, D. (1980). *The Secret Raven: Conflict and Transformation in the Life of Franz Kafka*. Toronto: Inner City Books.
+- Sharp, D. (1987). *Personality Types: Jung's Model of Typology*. Toronto: Inner City Books.
+- Sharp, D. (1988). *The Survival Papers: Anatomy of a Midlife Crisis*. Toronto: Inner City Books.
+- Sharp, D. (1991). *Jung Lexicon: A Primer of Terms and Concepts*. Toronto: Inner City Books.
+- Edinger, E. F. (1984). *The Creation of Consciousness: Jung's Myth for Modern Man*. Toronto: Inner City Books.
+- IAAP، «Daryl Sharp 1936–2019» (نعي)؛ Inner City Books، «In Memoriam: Daryl Sharp 1936–2019» (2019).

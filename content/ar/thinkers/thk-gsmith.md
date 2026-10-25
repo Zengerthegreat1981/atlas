@@ -43,7 +43,6 @@ gaps:
 
 سميث يُعدّ من الجيل المؤسّس لـKaupapa Māori كحقل أكاديمي. تأثيره امتد إلى:
 - تطوير المناهج الجامعية في نيوزيلندا.
-- تأسيس *Journal of Māori Education* (محرر).
 - تدريب جيل من الباحثين الماوروريين.
 - تأثير على "Decolonizing Methodologies" لتيشامين (Linda Tuhiwai Smith).
 
@@ -57,9 +56,22 @@ gaps:
 - "Mai i te Maramatanga, ki te Putanga Mai o te Ture: A Maori Perspective of Tino Rangatiratanga" (1994).
 - مساهمات في *AlterNative: An International Journal of Indigenous Peoples*.
 
+## المبادئ كما صاغها في أطروحته
+
+في أطروحته للدكتوراه (1997) عن تطور «كاوباها ماوري» حدّد سميث مجموعة مبادئ تشكّل ما يُعرف بالمقاربة: السيادة الذاتية (تينو رانغاتيراتانغا)، والتطلعات الثقافية الموروثة (تاونغا توكو إيهو)، والتربية المنسجمة مع الثقافة الماورية (آكو ماوري)، ومعالجة العوائق الاجتماعية والاقتصادية التي تعيق الأسرة، وبنية الأسرة الممتدة (فانو)، والفلسفة الجماعية المشتركة (كاوباها). وهي مبادئ تتعامل مع البحث بوصفه فعلاً سياسياً وثقافياً، لا نشاطاً محايداً. ويدين ذلك لحركات الإحياء الماوري منذ الثمانينيات، ومنها مدارس الغمر اللغوي (كورا كاوباها ماوري) وأعشاش اللغة (كوهانغا ريو)، وقد ارتبط عمله بالتفكير في نظرية تقف وراء هذه التجارب العملية.
+
+## علاقته بالصحة النفسية والبحث
+
+اتصل مشروع سميث بجهود في الصحة الماورية عمل فيها باحثون مثل ماسون دوري في «واياورا: تطوير الصحة الماورية» (1994) الذي طرح نموذج الصحة الرباعية الأبعاد (Te Whare Tapa Whā، أي «بيت الجوانب الأربعة»: الجسد والروح والأسرة والعقل)، وفي منهجيات البحث التشاركي عند راسل بيشوب (1996) وفي «تفكيك المنهجيات» لليندا توهيواي سميث (1999). وهذه الصلة تُظهر أن كاوباها ماوري لم تنشأ مفصولة عن الحاجات الصحية والتعليمية الفعلية للمجتمع الماوري، وأنها حاولت أن تعطي لقضايا الصحة النفسية والتعلم لغة تشرح أسباب التفاوت بالتاريخ الاستعماري لا بالعجز الفردي. وأثر هذا الخط في علم النفس النيوزيلندي أنه دفع إلى مراجعة المقاييس والتدخلات التي طُورت في سياقات أوروبية ثم طُبّقت على الماوريين، وإلى إشراك المجتمع في تحديد الأسئلة.
+
+## حدود ونقد
+
+انتقدت باحثات ماوريات، ومنهن ليوني بيهاما في أطروحتها (2001)، النسخ الأولى من كاوباها ماوري لأنها لم تعطِ البعد الجنسي حقه، فنشأ إطار «مانا واهيني» بوصفه كاوباها نسوية. ويرى آخرون أن الحدّ بين الباحث الداخلي والخارجي ليس قاطعاً، وأن الحاجة إلى عرض المنهج على جماعة قد تثقل بعض البحوث، وأن توسيع المقاربة خارج التربية إلى علم النفس الإكلينيكي يحتاج إلى أدلة نتائج لا تتوافر بعد. وينبغي في هذا الملف تذكّر أن سميث باحث تربوي لا عالم نفس، وأن إدراجه في قسم علم النفس يعكس صلة مقاربته بالبحث النفسي والاجتماعي لا تخصصه الأكاديمي.
+
 ## المصادر
 
-- Graham Smith (Māori academic) — Wikipedia: https://en.wikipedia.org/wiki/Graham_Smith_(M%C4%81ori_academic)
-- "The development of kaupapa Maori: theory and praxis" (PhD thesis, 1997), University of Auckland ResearchSpace: https://researchspace.auckland.ac.nz/items/28750ecc-500b-48ad-8003-daa4c2d104b0
-- NZ Herald, "Whanganui-born academic Graham Hingangaroa Smith appointed deputy vice-chancellor Māori at Massey University": https://www.nzherald.co.nz/whanganui-chronicle/news/whanganui-born-academic-graham-hingangaroa-smith-appointed-deputy-vice-chancellor-maori-at-massey-university/4A4TFX33ZPNRFJ5ZOLZFRDD6LY/
-- Ngā Pae o te Māramatanga, صفحة السيرة: https://maramatanga.ac.nz/index.php/person/distinguished-professor-graham-hingangaroa-smith
+- Smith, G. H. (1997). The development of Kaupapa Māori: Theory and praxis (Doctoral thesis). University of Auckland.
+- Smith, L. T. (1999). Decolonizing Methodologies: Research and Indigenous Peoples. London: Zed Books; Dunedin: University of Otago Press.
+- Durie, M. (1994). Whaiora: Māori Health Development. Auckland: Oxford University Press.
+- Bishop, R. (1996). Collaborative Research Stories: Whakawhanaungatanga. Palmerston North: Dunmore Press.
+- Pihama, L. (2001). Tihei Mauri Ora: Honouring our voices: Mana wahine as a Kaupapa Māori theoretical framework (Doctoral thesis). University of Auckland.

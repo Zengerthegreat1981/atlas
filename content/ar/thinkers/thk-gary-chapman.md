@@ -56,9 +56,19 @@ gaps:
 - *The Five Languages of Apology* (2006، مع جينيفر توماس).
 - *The 5 Languages of Appreciation in the Workplace* (2011).
 
+## الدراسات التجريبية اللاحقة
+
+تناولت دراسات محدودة النموذج بالاختبار المباشر. فقد فحص إغبرت وبولك (2006) صلاحية مقياس لغات الحب الذي وضعه تشابمان، وانتهيا إلى أن بنيته لا تتطابق تماماً مع الفئات الخمس المعلنة. وفي دراسة بنت وهازلوود (2017) على أزواج، لم يرتبط تطابق لغات الشريكين برضا العلاقة، بينما ارتبط بالرضا عوامل أخرى كضبط الذات والمودة العامة. وتتسق هذه النتائج مع مراجعة 2024 المذكورة أعلاه، فالصورة التي تظهر أن الأداة تصلح مدخلاً للحديث عن الحاجات أكثر مما تصلح تشخيصاً أو تنبؤاً.
+
+## كيف يُقرأ النموذج
+
+الاستعمال المعقول لأطروحته أن يُنظر إليها فرضيةً عملية تساعد على الإصغاء لما يطلبه الشريك، لا وصفاً لنمط ثابت في شخصيته. ولذلك ينبغي ألا يُفهم الكتاب بديلاً عن العلاج الزواجي المبني على أدلة في حالات العنف أو الخيانة أو الاكتئاب، لأن شكوى الشريك في تلك الحالات لا تحلّها لغة الحب. وتنبّه كتبه نفسها إلى أن الحب قرار والتزام يتجاوز الشعور الأول، وهي نقطة تتفق مع أبحاث علاقات أخرى وإن لم تنبع منها.
+
 ## المصادر
 
-- Wikipedia, "Gary Chapman (author)": https://en.wikipedia.org/wiki/Gary_Chapman_(author)
-- Wikipedia, "The Five Love Languages": https://en.wikipedia.org/wiki/The_Five_Love_Languages
-- Impett, E. A., Park, H. G., & Muise, A. (2024), "Popular Psychology Through a Scientific Lens: Evaluating Love Languages From a Relationship Science Perspective", *Current Directions in Psychological Science*, 33(2), 87–92: https://journals.sagepub.com/doi/10.1177/09637214231217663
-- Equipping the Church, "Meet The Author – Gary Chapman": https://equippingthechurch.com/post/meet-the-author-gary-chapman
+- Chapman, G. (1992). The Five Love Languages: How to Express Heartfelt Commitment to Your Mate. Chicago: Northfield Publishing.
+- Chapman, G., & Campbell, R. (1997). The Five Love Languages of Children. Chicago: Northfield Publishing.
+- Chapman, G., & Thomas, J. (2006). The Five Languages of Apology. Chicago: Northfield Publishing.
+- Egbert, N., & Polk, D. (2006). Speaking the language of relational maintenance: A validity test of Chapman's five love languages. Communication Research Reports, 23(1), 19–26.
+- Bunt, S., & Hazelwood, D. (2017). Walking the walk, talking the talk: Love languages, self-regulation, and relationship satisfaction. Personal Relationships, 24(2), 280–290.
+- Impett, E. A., Park, H. G., & Muise, A. (2024). Popular psychology through a scientific lens: Evaluating love languages from a relationship science perspective. Current Directions in Psychological Science, 33(2), 87–92.

@@ -55,9 +55,25 @@ gaps:
 - *Social Intelligence* (2006).
 - *Focus* (2013)، *Altered Traits* (2017، مع ريتشارد ديفيدسون).
 
+## السيرة والأعمال الأولى
+
+وُلد غولمان عام 1946 في كاليفورنيا، ونال الدكتوراه من هارفارد في علم نفس الشخصية والنمو، وكان قبل صعوده الشعبي مهتماً بالتأمل، فكتب «العقل التأملي» (1977) عن تقنيات التأمل الشرقية واستكشافاتها النفسية. وعمل محرراً علمياً في نيويورك تايمز من 1984 إلى 1998، وفي تلك الفترة نشر «أكاذيب حيوية وحقائق بسيطة» (1985) عن خداع الذات. وقد وصلت «الذكاء العاطفي» إلى القارئ العربي بترجمة ليلى الجبالي ضمن سلسلة عالم المعرفة (2000)، ما جعله أحد أشهر المراجع النفسية الشعبية بالعربية.
+
+## تقييم الأدلة
+
+ميّزت الأدبيات الأكاديمية بين نموذج القدرة الذي قدّمه سالوفي وماير (1990) ونموذج غولمان المختلط. وفي كتاب «الذكاء العاطفي: علم وأسطورة» (2002) عرض ماثيوز وزيدنر وروبرتس مراجعة نقدية رأت أن كثيراً من الادعاءات الشعبية لا يسندها قياس صالح. وأظهر تحليل تلوي لجوزيف ونيومان (2010) أن الذكاء العاطفي يتنبأ بالأداء الوظيفي في وظائف تتطلب عملاً انفعالياً، لكن الأثر يتقلص كثيراً بعد ضبط الشخصية والذكاء المعرفي. وفي التربية، وجد دورلاك وزملاؤه (2011) أن برامج التعلم الاجتماعي الانفعالي في المدارس تحسّن المهارات والسلوك والتحصيل بدرجة معتدلة، وهذا هو الجزء الأقوى من الإرث العملي المنسوب إلى المفهوم.
+
+## الاختطاف اللوزي والنقد العصبي
+
+يعتمد مصطلح الاختطاف اللوزي على أبحاث لودو عن الخوف، لكن لودو نفسه انتقد في مراجعته (2012) تصوير اللوزة مركزاً للخوف، ورأى أن الخوف الواعي ينشأ عبر شبكات أوسع، فالمصطلح تبسيط لوصف عصبي أعقد. ويبقى قيّماً بوصفه استعارة تعليمية، لا نموذجاً عصبياً دقيقاً.
+
 ## المصادر
 
-- Wikipedia, "Daniel Goleman" — https://en.wikipedia.org/wiki/Daniel_Goleman
-- EBSCO Research Starters, "Daniel Goleman" — https://www.ebsco.com/research-starters/biography/daniel-goleman
-- الموقع الرسمي لدانيال غولمان — https://www.danielgoleman.info/
-
+- غولمان، دانيال (2000). الذكاء العاطفي. ترجمة ليلى الجبالي. الكويت: المجلس الوطني للثقافة والفنون والآداب، سلسلة عالم المعرفة، العدد 262.
+- Goleman, D. (1995). Emotional Intelligence: Why It Can Matter More Than IQ. New York: Bantam Books.
+- Goleman, D., & Davidson, R. J. (2017). Altered Traits: Science Reveals How Meditation Changes Your Mind, Brain, and Body. New York: Avery.
+- Salovey, P., & Mayer, J. D. (1990). Emotional intelligence. Imagination, Cognition and Personality, 9(3), 185–211.
+- Matthews, G., Zeidner, M., & Roberts, R. D. (2002). Emotional Intelligence: Science and Myth. Cambridge, MA: MIT Press.
+- Joseph, D. L., & Newman, D. A. (2010). Emotional intelligence: An integrative meta-analysis and cascading model. Journal of Applied Psychology, 95(1), 54–78.
+- Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. Child Development, 82(1), 405–432.
+- LeDoux, J. E. (2012). Rethinking the emotional brain. Neuron, 73(4), 653–676.

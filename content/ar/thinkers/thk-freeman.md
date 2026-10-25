@@ -31,7 +31,7 @@ gaps:
 
 ## ما أعطاه
 
-أسهم فريمان في تأسيس الدليل التجريبي على أن CBT يُحدث تغييراً في الأعراض الإيجابية للذهان (الهلاوس، الضلالات) وليس فقط الأعراض الاكتئابية المصاحبة. أظهرت تجاربه ومحاكمات التجارب المضبوطة الكبيرة فعالية CBTp كعلاج مساعد بعد الأدوية. نشر أبحاثاً رائدة عن «البارانويا» و«الأفكار الاجترارية الذهانية» وكيف تتفاعل مع قلة النوم وانعدام الأمن، كما اقترحت إحدى دراساته أن الواقع الافتراضي يمكن أن يساعد في علاج البارانويا. ألّف كتباً ذات شعبية كُتبت للعموم مثل «بارانويا: الفكرة الزائفة التي تكاد تسيطر عليك» (Paranoia, 2012) مع جيسون فريمان. حصل سنة 2020 على جائزة رئاسة الجمعية البريطانية لعلم النفس للإسهامات المتميزة في المعرفة النفسية.
+أسهم فريمان في تأسيس الدليل التجريبي على أن CBT يُحدث تغييراً في الأعراض الإيجابية للذهان (الهلاوس، الضلالات) وليس فقط الأعراض الاكتئابية المصاحبة. أظهرت تجاربه ومحاكمات التجارب المضبوطة الكبيرة فعالية CBTp كعلاج مساعد بعد الأدوية. نشر أبحاثاً رائدة عن «البارانويا» و«الأفكار الاجترارية الذهانية» وكيف تتفاعل مع قلة النوم وانعدام الأمن، كما اقترحت إحدى دراساته أن الواقع الافتراضي يمكن أن يساعد في علاج البارانويا. ألّف كتباً ذات شعبية كُتبت للعموم مثل «بارانويا: الفكرة الزائفة التي تكاد تسيطر عليك» (Paranoia: The 21st Century Fear، 2008) مع جيسون فريمان. حصل سنة 2020 على جائزة رئاسة الجمعية البريطانية لعلم النفس للإسهامات المتميزة في المعرفة النفسية.
 
 ## موقعه من التيار
 
@@ -39,16 +39,33 @@ gaps:
 
 ## أهم أعماله
 
-- علاج الفصام (Schizophrenia, 1995) مع ديفيد كينغدون ونيكولاس تاريير.
-- تلافي أعراض الذهان: النموذج المعرفي (Tackling the Symptoms of Psychosis, 2001).
-- بارانويا: الفكرة الزائفة التي تكاد تسيطر عليك (Paranoia: The 21st Century Fear, 2012) مع جيسون فريمان.
+- *Overcoming Paranoid and Suspicious Thoughts* (2006، مع جيسون فريمان وفيليبا غاريتي).
+- *The Stressed Sex: Uncovering the Truth About Men, Women, and Mental Health* (2013، مع جيسون فريمان).
+- بارانويا: الفكرة الزائفة التي تكاد تسيطر عليك (Paranoia: The 21st Century Fear, 2008) مع جيسون فريمان.
 - CBTp كدليل إكلينيكي متقدم: أوراق متعددة في Schizophrenia Bulletin وPsychological Medicine.
 - بارانويا: حياتي في فهم ومعالجة انعدام الثقة المفرط (Paranoia: My Life Understanding and Treating Extreme Mistrust, 2024).
 
+## نموذج الضلالات الاضطهادية
+
+أشهر ما أنجزه فريمان على المستوى النظري نموذج معرفي للضلالات الاضطهادية نشره مع غاريتي وكويبرز وفاولر وبيبنغتون عام 2002 في *British Journal of Clinical Psychology*، ثم عرضه بتفصيل أوسع في مراجعة عام 2007 بعنوان «عقول مرتابة». ويقوم النموذج على أن الاعتقاد بأن آخرين يريدون إيذاء المرء لا ينشأ من فراغ، فهو يتغذى من عوامل تعمل معاً: استعداد للقلق والانفعال السلبي، وأحداث تُحدث توتراً، وتفسير خاطئ لتجارب غريبة، وانعدام ثقة بالنفس يجعل الأذى متوقعاً، وسلوكيات «حماية» مثل التجنب تمنع المريض من اكتشاف أن الخطر المتوقع لم يقع. وهذا الأخير هو ما يحافظ على الضلالة: فمن يتجنب الأماكن العامة خوفاً من الأذى لا يختبر أنها آمنة. وقد حوّل فريمان هذا التفسير إلى تدخلات تعتمد على اختبار الاعتقاد عملياً بدل مناقشته نظرياً.
+
+## الواقع الافتراضي والنوم
+
+من الإضافات التي ميّزت عمل فريمان استعمال الواقع الافتراضي في وضع المريض داخل مواقف اجتماعية مضبوطة، كمصعد أو مكتبة، يمكنه فيها أن يترك سلوكيات الحماية وأن يلاحظ أن لا أحد يؤذيه. وقد عرض في مراجعة عام 2017 في *Psychological Medicine* أبعاد هذا الاستعمال في التقييم والعلاج. ومن مساراته كذلك دراسة النوم: فتجربة «أوازيس» التي نُشرت عام 2017 في *Lancet Psychiatry* على طلاب جامعيين يعانون أرقاً بيّنت أن علاج الأرق عبر الإنترنت خفّض أعراض البارانويا والهلوسة، وهذا يدعم فرضية أن اضطراب النوم ليس مجرد نتيجة بل عامل مساهم في الأعراض الذهانية.
+
+## برنامج الشعور بالأمان
+
+في عام 2021 نُشرت في *Lancet Psychiatry* تجربة مضبوطة قارنت برنامجاً علاجياً مبنياً على نموذجه، سُمي «الشعور بالأمان»، بعلاج المصادقة لمرضى لديهم ضلالات اضطهادية مستمرة، ووجدت أن البرنامج حقق نتائج أفضل في خفض شدة الضلالات. وتتمثل أهمية هذه التجربة في أنها استهدفت مرضى لم يتحسنوا بالعلاجات المعتادة، وأن التدخل أُعدّ ليكون قابلاً للتدريب والتعميم.
+
+## حدود ونقد إضافية
+
+في المقابل، تحتاج النتائج إلى قراءة متأنية. فكثير من التجارب اعتمدت على عيّنات متوسطة الحجم وعلى معالجين مدرَّبين تدريباً مكثفاً في موقع بحثي واحد، ولا يُعرف إلى أي حد تتكرر النتائج في الخدمات الروتينية. كما أن حجم الأثر في العلاج المعرفي السلوكي للذهان معتدل في المراجعات التحليلية، وقد شكك بعض الباحثين في الاختلاف الحقيقي بين هذا العلاج وغيره عند ضبط تحيز المقيِّمين. وأخيراً يرى منتقدون من منظور نقدي أن التركيز على تفسير الضلالات بنموذج معرفي فردي قد يُهمل دور الظروف الاجتماعية والصدمة المبكرة.
+
 ## المصادر
 
-- [Professor Daniel Freeman | Oxford University](https://www.ox.ac.uk/news/find-an-expert/professor-daniel-freeman)
-- [Daniel Freeman — Department of Experimental Psychology, University of Oxford](https://www.psy.ox.ac.uk/people/daniel-freeman-1)
-- [Daniel Freeman (psychologist) — Wikipedia](https://en.wikipedia.org/wiki/Daniel_Freeman_(psychologist))
-- [Professor Daniel Freeman — Magdalen College, Oxford](https://www.magd.ox.ac.uk/people/professor-daniel-freeman/)
-- ['The book is to help demystify paranoia' — The British Psychological Society](https://www.bps.org.uk/psychologist/book-help-demystify-paranoia)
+- Freeman, D., Garety, P. A., Kuipers, E., Fowler, D., & Bebbington, P. E. (2002). "A cognitive model of persecutory delusions." *British Journal of Clinical Psychology*, 41(4), 331–347.
+- Freeman, D. (2007). "Suspicious minds: The psychology of persecutory delusions." *Clinical Psychology Review*, 27(4), 425–457.
+- Freeman, D., & Freeman, J. (2008). *Paranoia: The 21st Century Fear*. Oxford University Press.
+- Freeman, D., Sheaves, B., Goodwin, G. M., et al. (2017). "The effects of improving sleep on mental health (OASIS): A randomised controlled trial with mediation analysis." *The Lancet Psychiatry*, 4(10), 749–758.
+- Freeman, D., et al. (2017). "Virtual reality in the assessment, understanding, and treatment of mental health disorders." *Psychological Medicine*, 47(14), 2393–2400.
+- Freeman, D., et al. (2021). "Comparison of a theoretically driven cognitive therapy (the Feeling Safe Programme) with befriending for the treatment of persistent persecutory delusions." *The Lancet Psychiatry*, 8(8), 696–707.

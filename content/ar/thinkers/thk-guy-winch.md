@@ -48,11 +48,21 @@ gaps:
 - محاضرة TED: *Why We All Need to Practice Emotional First Aid* (TEDxLinnaeusUniversity، 2014).
 - محاضرة TED: *How to Fix a Broken Heart* (TED2017).
 
+## الأدلة التي استند إليها
+
+استند وينش في ربط الرفض بالألم إلى دراسة أيزنبرغر وليبرمان وويليامز (2003) في مجلة ساينس، التي استعملت التصوير الدماغي أثناء لعبة كرة افتراضية يُستبعد فيها المشارك، فنشطت مناطق ترتبط بالجانب الانفعالي للألم. ثم أظهر ديوال وزملاؤه (2010) أن الباراسيتامول قلّل مؤشرات الألم الاجتماعي، وهي دراسة صغيرة يلزمها تكرار مستقل قبل بناء توصية عليها. وفي موضوع الاجترار، تعود مراجعة نولن-هوكسيما وويسكو وليوبوميرسكي (2008) إلى بيان العلاقة بين الاجترار والاكتئاب، وتفرق بين التأمل الذي يؤدي إلى حل والاجترار الذي يكرر الألم. أما نقد التأكيدات الإيجابية فتسنده دراسة وود وبيروفنيتش ولي (2009) التي وجدت أن ترديد عبارات إيجابية رفع المزاج لدى ذوي التقدير المرتفع وخفضه لدى ذوي التقدير المنخفض. والتعاطف مع الذات مفهوم صاغته نيف (2003).
+
+## حدود ونقد
+
+لا تتوافر تجارب مضبوطة تختبر برنامج وينش بحد ذاته، فالكتب تقدم تعميمات من أبحاث مختلفة الجودة، وكثير منها دراسات مخبرية قصيرة على طلاب جامعيين. وتحمل صيغة الإسعاف الأولي خطر الإيحاء بأن الجروح النفسية الثقيلة، كالصدمة والاكتئاب الشديد، تعالج بمجرد تمارين ذاتية، بينما هي تحتاج إلى مختص. ويكمن الاستعمال المفيد لأفكاره في الوقاية والعادات اليومية، لا في بديل عن العلاج.
+
 ## المصادر
 
-- [About — Guy Winch](https://www.guywinch.com/about/)
-- [Guy Winch | Speaker | TED](https://www.ted.com/speakers/guy_winch)
-- [Guy Winch: Why we all need to practice emotional first aid | TED Talk](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid)
-- [Guy Winch: How to fix a broken heart | TED Talk](https://www.ted.com/talks/guy_winch_how_to_fix_a_broken_heart)
-- [Taking psychology to the people — American Psychological Association](https://www.apa.org/members/content/winch-effective-strategies)
-- [How to Fix a Broken Heart — Simon & Schuster (publisher page)](https://www.simonandschuster.com/books/How-to-Fix-a-Broken-Heart/Guy-Winch/TED-Books/9781501120121)
+- Winch, G. (2011). The Squeaky Wheel: Complaining the Right Way to Get Results, Improve Your Relationships, and Enhance Self-Esteem. New York: Walker & Company.
+- Winch, G. (2013). Emotional First Aid: Healing Rejection, Guilt, Failure, and Other Everyday Hurts. New York: Hudson Street Press.
+- Winch, G. (2018). How to Fix a Broken Heart. New York: Simon & Schuster/TED Books.
+- Eisenberger, N. I., Lieberman, M. D., & Williams, K. D. (2003). Does rejection hurt? An fMRI study of social exclusion. Science, 302(5643), 290–292.
+- DeWall, C. N., MacDonald, G., Webster, G. D., et al. (2010). Acetaminophen reduces social pain: Behavioral and neural evidence. Psychological Science, 21(7), 931–937.
+- Nolen-Hoeksema, S., Wisco, B. E., & Lyubomirsky, S. (2008). Rethinking rumination. Perspectives on Psychological Science, 3(5), 400–424.
+- Wood, J. V., Perunovic, W. Q. E., & Lee, J. W. (2009). Positive self-statements: Power for some, peril for others. Psychological Science, 20(7), 860–866.
+- Neff, K. D. (2003). Self-compassion: An alternative conceptualization of a healthy attitude toward oneself. Self and Identity, 2(2), 85–101.

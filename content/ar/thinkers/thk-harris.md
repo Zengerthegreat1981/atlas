@@ -44,9 +44,28 @@ gaps:
 
 النوع بوصفه تشكيلاً مرناً (Gender as Soft Assembly, 2005) · أشباح في غرفة العلاج: عن الصدمة العابرة للأجيال (Ghosts in the Consulting Room, 2016، تحرير مع مارغري كالب وسوزان كليبانوف) · تحرير «سلسلة المنظورات العلائقية» في التحليل النفسي، وهي القناة التي نُشر فيها معظم أدبيات التيار العلائقي.
 
+## الخلفية والإطار
+
+تنتمي هاريس إلى التحليل النفسي العلائقي الذي نشأ في نيويورك في الثمانينيات والتسعينيات متجاوزاً نموذج الغريزة، وعملت محررة في سلسلة «المنظورات العلائقية» التي نشرتها دار أناليتيك برس. ومن أوائل مقالاتها المعروفة «النوع بوصفه تناقضاً» (1991) في مجلة الحوارات التحليلية، حيث تساءلت عن الأنماط التي يقبلها التحليل النفسي والمتناقضات التي يخفيها في حديثه عن الذكورة والأنوثة. وكتبت مع لويس آرون (1997) عن النظرية الدلالية عند فيرنتزي ورأت فيها استباقاً لما بعد الحداثة، وشاركت في تحرير «إرث ساندور فيرنتزي: من شبح إلى سلف» (2015).
+
+## فكرة التشكيل المرن
+
+تستعير هاريس مفهوم «التجميع المرن» من ثيلن وسميث في «مقاربة النظم الديناميكية لنمو الإدراك والفعل» (1994)، وفكرته أن السلوك المنتظم، كالمشي، لا يصدر عن برنامج داخلي ثابت بل عن تجميع مرن لعناصر الجسم والبيئة والمهمة في لحظة معينة. فتنقل هذا إلى النوع الاجتماعي: الهوية الجنسية لا تتحدد بعامل واحد، بل تتشكل من تجميع تتغير عناصره بالمرحلة والسياق، فيبقى ثابتاً لدى بعضهم ومرناً لدى آخرين. وهي بذلك ترفض القول بنموذج واحد للأنوثة والذكورة وترفض أيضاً أن يُختزل التنوع في تجربة فرد.
+
+## الصدمة العابرة للأجيال
+
+يستعير عنوان «أشباح في غرفة العلاج» (2016) صورة وردت في مقالة فريبرغ وأدلسون وشابيرو «أشباح في الحضانة» (1975) في مجلة الأكاديمية الأمريكية لطب نفس الأطفال، وفحواها أن الوالد قد يكرر مع طفله علاقات مؤلمة من ماضيه دون وعي. ويوسّع الكتاب المحرَّر هذه الصورة إلى الصدمات الجماعية، كالمحرقة والعنف السياسي، ويعرض كيف ينتقل أثرها إلى الأجيال اللاحقة وكيف تظهر في غرفة التحليل عبر المحلل والمريض معاً. وتقرأ هاريس هذا الانتقال في ضوء العلاقة لا الوراثة، أي بالتلقين غير الواعي والصمت الأسري، دون ادعاء آلية بيولوجية محددة، وهي قراءة لا تنفي أن لبعض الباحثين تفسيرات ظاهرية أو وراثية مختلفة لانتقال أثر الصدمة.
+
+## حدود ونقد
+
+يرى ناقدون أن استعارة التجميع المرن مستعارة من علم النمو الحركي، وأن نقلها إلى الهوية الجندرية استعارة نظرية لم تُختبر تجريبياً، وأن لغة كتابتها الكثيفة تجعل نقل أفكارها إلى الممارسة غير يسير. ومن جهة أخرى، فإن التركيز على التفكيك قد يغفل ما تتفق عليه الدراسات التجريبية من فروق بين الجنسين في بعض الأبعاد. ويقتصر حضور أعمالها في العربية على ما ينقله القراء من الإنجليزية، ولا ترجمات عربية معتمدة لها.
+
 ## المصادر
 
-- Adrienne Harris, *Gender as Soft Assembly* (Hillsdale, NJ: The Analytic Press, 2005). Routledge: https://www.routledge.com/Gender-as-Soft-Assembly/Harris/p/book/9780881634983
-- Adrienne Harris, Margery Kalb, Susan Klebanoff (eds.), *Ghosts in the Consulting Room: Echoes of Trauma in Psychoanalysis* (Routledge, 2016). https://www.routledge.com/Ghosts-in-the-Consulting-Room-Echoes-of-Trauma-in-Psychoanalysis/Harris-Kalb-Klebanoff/p/book/9780415728676
-- سيرتها الرسمية، NYU Postdoctoral Program in Psychotherapy and Psychoanalysis؛ ملف Confer Online: https://www.confer.uk.com/biogs/biog_aharris.html
-- IARPP, صفحة "من نحن" وأعضاء المجلس الاستشاري: https://iarpp.net/who-we-are/committee-members/
+- Harris, A. (1991). Gender as contradiction. Psychoanalytic Dialogues, 1(2), 197–224.
+- Harris, A., & Aron, L. (1997). Ferenczi's semiotic theory: Previews of postmodernism. Psychoanalytic Inquiry, 17(4), 522–534.
+- Harris, A. (2005). Gender as Soft Assembly. Hillsdale, NJ: The Analytic Press.
+- Thelen, E., & Smith, L. B. (1994). A Dynamic Systems Approach to the Development of Cognition and Action. Cambridge, MA: MIT Press.
+- Harris, A., & Kuchuck, S. (Eds.). (2015). The Legacy of Sándor Ferenczi: From Ghost to Ancestor. New York: Routledge.
+- Fraiberg, S., Adelson, E., & Shapiro, V. (1975). Ghosts in the nursery: A psychoanalytic approach to the problems of impaired infant–mother relationships. Journal of the American Academy of Child Psychiatry, 14(3), 387–421.
+- Harris, A., Kalb, M., & Klebanoff, S. (Eds.). (2016). Ghosts in the Consulting Room: Echoes of Trauma in Psychoanalysis. New York: Routledge.

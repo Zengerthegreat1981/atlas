@@ -59,10 +59,24 @@ gaps:
 
 منهجُ غوفمان وصفيٌّ تأويليٌّ يعتمد الملاحظةَ والمثالَ المُنتَقى، ولا يقدّم فروضاً قابلةً للاختبار الكمّيّ — وهذا مأخذٌ متكرّرٌ عليه: تحليلاتُه أنيقةٌ ومقنعةٌ ويصعب تكذيبُها. ومصطلحاتُه (الواجهة، الإطار، الوجه) تُستعمل اليومَ استعمالاً أوسعَ بكثيرٍ من تحديده لها. وأطروحةُ *الملاجئ* عن المؤسّسة الكلّية بُنيت على حالةٍ واحدةٍ سنةَ 1955–1956، فتعميمُها على المؤسّسات النفسيةِ المعاصرة لا يصحّ بلا تحقُّق. وليس في هذا المدخل توجيهٌ سريريٌّ ولا تقييمٌ تشخيصي.
 
+## السيرة والمنهج
+
+وُلد غوفمان في مانفيل بألبرتا عام 1922، ونال الدكتوراه من جامعة شيكاغو عام 1953 بأطروحة حول سلوك التواصل في جماعة جزرية في شتلاند، وهي المادة الأولى لكتاب تقديم الذات. وعمل في بيركلي منذ 1958 ثم في جامعة بنسلفانيا منذ 1968 حتى وفاته عام 1982. واعتمد في عمله على الملاحظة المشاركة، وعلى مواد متنوعة من الصحافة وكتب الآداب والسير، فبدا منهجه أقرب إلى جمع أمثلة مفتوحة منه إلى تصميم دراسة. ولا يخفى أن هذا ما جعل كتبه مقروءة خارج علم الاجتماع.
+
+## الأثر في علم النفس والطب النفسي
+
+كان لمفهوم الوصمة أثر كبير في دراسات الاضطراب النفسي والعار والإخفاء، وفي مراجعة طرق التعامل مع المرضى في المستشفيات، كما صار مرجعاً في حركات الدفاع عن المرضى. وأعطى عمله عن الإيداع في «الملاجئ» لغة تحليل لما يسمى اليوم «المؤسسية»، أي فقدان المبادرة بعد إقامة طويلة في مكان يدير حياة النزيل في جميع تفاصيلها. وتتصل أفكاره عن الإطار بدراسات التأطير في علم النفس الاجتماعي والإعلام، وإن كان معناه عنده تنظيمياً للخبرة لا معرفياً.
+
+## حدود ونقد إضافية
+
+اتهمه ألفين غولدنر (1970) بأن علم اجتماعه يعكس عالم الطبقة الوسطى المتحركة، حيث يُدار الانطباع بلا انشغال بالسلطة والبنية الاقتصادية. وجادل كثيرون بأن تركيزه على التفاعل يحجب العوامل المؤسسية الأوسع. وفي الطب النفسي، رأى ناقدون أن «الملاجئ» لم يميز بين آثار الإيداع وآثار المرض نفسه، وأن إغلاق المصحات الذي ألهمه ترك كثيراً من المرضى بلا رعاية كافية في المجتمع، وإن لم يكن هذا الإغلاق نتيجة كتابه وحده.
+
 ## المصادر
 
-- Wikipedia (English), "Erving Goffman" — التواريخُ (1922–1982)، ورئاسةُ الجمعية الأمريكية لعلم الاجتماع 1981–1982: https://en.wikipedia.org/wiki/Erving_Goffman
-- Encyclopædia Britannica, "Erving Goffman": https://www.britannica.com/biography/Erving-Goffman
-- Erving Goffman, *Asylums: Essays on the Social Situation of Mental Patients and Other Inmates* (1961) — للمؤسّسة الكلّية وتجريدِ الذات و«المسيرة الأخلاقية».
-- Erving Goffman, *Stigma: Notes on the Management of Spoiled Identity* (1963) — لتمييز discredited / discreditable وأنواعِ الوصم الثلاثة.
-- Erving Goffman, *The Presentation of Self in Everyday Life* (1959) — للواجهة والكواليس وإدارةِ الانطباع.
+- Goffman, E. (1959). The Presentation of Self in Everyday Life. New York: Doubleday Anchor.
+- Goffman, E. (1961). Asylums: Essays on the Social Situation of Mental Patients and Other Inmates. New York: Doubleday Anchor.
+- Goffman, E. (1963). Stigma: Notes on the Management of Spoiled Identity. Englewood Cliffs, NJ: Prentice-Hall.
+- Goffman, E. (1967). Interaction Ritual: Essays on Face-to-Face Behavior. New York: Doubleday.
+- Goffman, E. (1974). Frame Analysis: An Essay on the Organization of Experience. Cambridge, MA: Harvard University Press.
+- Gouldner, A. W. (1970). The Coming Crisis of Western Sociology. New York: Basic Books.
+- Burns, T. (1992). Erving Goffman. London: Routledge.

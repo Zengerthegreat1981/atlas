@@ -61,9 +61,27 @@ gaps:
 
 *Emotional Understanding* (1995) · *Working Intersubjectively* (مع أتوود وستولورو، 1997) · *Worlds of Experience* (مع ستولورو وأتوود، 2002) · *Thinking for Clinicians* (2010) · *The Suffering Stranger* (2011) · *Nourishing the Inner Life of Clinicians and Humanitarians* (2016) · *Climate Crisis, Psychoanalysis, and Radical Ethics* (2017).
 
+## الواقعية المنظورية
+
+أبرز مفاهيم أورانج الفلسفية في كتابها الأول مفهوم «الواقعية المنظورية» (perspectival realism). تذهب فيه إلى أن للخبرة الإنسانية حقيقة، لكن كل فهم لها يصدر عن موقع ومنظور، فلا يملك المحلّل نظرة من لا مكان، ولا يتحول الأمر إلى نسبية مطلقة تساوي بين كل التأويلات. ويترتب على ذلك أن المعالج يقترب من مريضه بوصفه شريكاً في فهم مشترك قابل للخطأ، لا بوصفه خبيراً يملك المفتاح. وهذه الفكرة هي ما تربط بين الجانب الإبستمولوجي في كتابها (كيف نفهم) والجانب الأخلاقي في كتبها اللاحقة (كيف نعامل من نفهم).
+
+## من الإبستمولوجيا إلى الأخلاق
+
+في كتبها بعد 2010 انتقل التركيز من سؤال «كيف أعرف خبرة غيري؟» إلى سؤال «ما واجبي تجاهه؟». وهنا تدخل فلسفة ليفيناس التي ترى أن وجه الآخر يفرض مسؤولية سابقة على أي نظرية. وقد استعملت هذا الإطار في كتاب 2016 لمعالجة مشكلة محددة: العاملون في الرعاية، من معالجين وعاملين إنسانيين، يتعرضون للإرهاق، ويحتاجون إلى ما «يغذي حياتهم الداخلية» كي يستمروا في العطاء. ثم في كتاب 2017 عن أزمة المناخ مدّت المنطق نفسه إلى مسؤولية جماعية تجاه الأجيال القادمة وتجاه الكوكب، مستنكرة أن يبقى التحليل النفسي منشغلاً بالفرد وحده.
+
+## ملاحظة عن التأويل
+
+يحمل مفهوم التأويل (الهرمنيوطيقا) الذي ورثته من غادامير قرابة مع تراث عربي إسلامي واسع في تفسير النصوص وفهم المعنى، وهو تراث لم تدرسه أورانج ولا يوجد في هذا الأطلس رصد لتلقيها العربي. والمقارنة هنا من وضع الملف: ففي التراث العربي يبحث التأويل عن معنى النص عبر شروط ومقاصد، بينما تنقل أورانج الفكرة إلى فهم الإنسان المتألم بوصفه «نصاً حياً» لا يُحاط به.
+
+## الاستقبال
+
+اشتهرت أورانج في دوائر التحليل العلائقي وسيكولوجيا الذات والبين-ذاتية، وخصوصاً بين المعالجين الباحثين عن إطار فلسفي لأخلاقيات العمل. وصدر كتاباها 2011 و2016 عن دار Routledge، ووُجّها إلى الممارسين والباحثين الإنسانيين معاً، وهذا يفسر انتشارها خارج الحلقة التحليلية الضيقة.
+
 ## المصادر
 
-1. Donna M. Orange, *Emotional Understanding: Studies in Psychoanalytic Epistemology*, Guilford Press, 1995.
-2. Donna M. Orange, *Thinking for Clinicians*, Routledge, 2010.
-3. Donna M. Orange, *The Suffering Stranger: Hermeneutics for Everyday Clinical Practice*, Routledge, 2011.
-4. Donna M. Orange, *Nourishing the Inner Life of Clinicians and Humanitarians*, Routledge, 2016.
+- Orange, D. M. (1995). *Emotional Understanding: Studies in Psychoanalytic Epistemology*. New York: Guilford Press.
+- Orange, D. M., Atwood, G. E., & Stolorow, R. D. (1997). *Working Intersubjectively: Contextualism in Psychoanalytic Practice*. Hillsdale, NJ: The Analytic Press.
+- Stolorow, R. D., Atwood, G. E., & Orange, D. M. (2002). *Worlds of Experience: Interweaving Philosophical and Clinical Dimensions in Psychoanalysis*. New York: Basic Books.
+- Orange, D. M. (2010). *Thinking for Clinicians: Philosophical Resources for Contemporary Psychoanalysis and the Humanistic Psychotherapies*. New York: Routledge.
+- Orange, D. M. (2011). *The Suffering Stranger: Hermeneutics for Everyday Clinical Practice*. New York: Routledge.
+- Orange, D. M. (2016). *Nourishing the Inner Life of Clinicians and Humanitarians: The Ethical Turn in Psychoanalysis*. New York: Routledge.

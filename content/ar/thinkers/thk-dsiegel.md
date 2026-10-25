@@ -54,9 +54,30 @@ gaps:
 - *The Whole-Brain Child* (2011، مع تينا باين برايسون).
 - *Aware* (2018).
 
+## تعريف العقل ومثلث العافية
+
+قلب مشروع سيغل تعريف يقترحه للعقل: «عملية متجسدة وعلائقية تنظّم تدفق الطاقة والمعلومات». وبحسب هذا التعريف لا يقتصر العقل على الدماغ ولا على الوعي، بل يشمل الجسد (الجهاز العصبي بأكمله) والعلاقات (تبادل الطاقة والمعلومات مع الآخرين). ومن هنا جاء «مثلث العافية» الذي يربط العقل والدماغ والعلاقات بوصفها أضلاعاً يؤثر كل منها في الآخرين. ويقول سيغل إن الصحة العقلية تظهر حين يتكامل تدفق هذه العناصر، وإن الاختلال يظهر في اتجاهين: **الفوضى** (غياب التنظيم) و**الجمود** (انغلاق التنظيم). ويصور ذلك بصورة نهر بين ضفتين، وبصفات يلخصها بالأحرف FACES (مرن، متكيّف، متماسك، نشط، مستقر).
+
+## كتبه الرئيسية
+
+بدأ بكتاب *The Developing Mind* (Guilford، 1999) الذي عرض فيه الأسس النظرية لعلم الأعصاب البيني-الشخصي، ونُقّح في طبعتين لاحقتين. ثم توجه إلى القراء العامين في *Parenting from the Inside Out* (2003) مع ماري هارتزل، وإلى المعالجين في *The Mindful Brain* (2007) و*The Mindful Therapist* (2010). وفي *Mindsight* (2010) عرض مفهوم البصيرة الذهنية بحالات ومثال. أما *The Whole-Brain Child* (2011) و*No-Drama Discipline* (2014) مع تينا باين برايسون فحوّلا النظرية إلى توجيهات للوالدين، مثل صيغة «سمِّه لتروّضه» التي تدعو إلى تسمية الانفعال لتخفيف حدته. وفي *Aware* (2018) قدّم تمرين «عجلة الوعي». وأشرف مع ألان شور على «سلسلة نورتون في علم الأعصاب البيني-الشخصي» التي نشرت أعمالاً كثيرة في الحقل.
+
+## الاستقبال
+
+انتشر عمل سيغل انتشاراً غير معتاد بين الأكاديميين، فدخلت مفاهيمه في تدريب المعالجين ومدارس الآباء وبرامج التعليم. وساعدت استعاراته البصرية البسيطة، ومنها نموذج اليد، في نقل فكرة التنظيم الانفعالي إلى غير المتخصصين. وللكتاب 2011 ترجمة عربية مسجلة في الأطلس عنواناً (طفل المخ الكامل)، أما سائر مؤلفاته فلا تتوفر عنها في هذا الأطلس بيانات عن ترجمة معتمدة.
+
+## حدود ونقد
+
+- يرى باحثون في علم الأعصاب أن نموذج اليد وعبارات «الدماغ العلوي والسفلي» و«الدماغ الأيمن والأيسر» تبسّط وظائف الدماغ بما يفوق ما تسنده الأدلة، وقد يوحي ذلك بدقة أعلى من الحقيقة.
+- تعريفه للعقل واسع بحيث يصعب تحديد ما يدحضه، وهو أقرب إلى إطار تركيبي يوحد معارف مختلفة منه إلى نظرية تُختبر تجريبياً.
+- تقوم بعض مفاهيمه على استقراء من أبحاث التعلق والتنظيم الانفعالي لباحثين آخرين، فيُقرأ إسهامه بوصفه تركيباً وصياغة لا اكتشافاً تجريبياً مباشراً.
+- استعمال لغة الأعصاب في التعليم الشعبي قد يمنح الأفكار سلطة «علمية» أكبر مما تستحق، وهي ظاهرة وصفتها الأدبيات بـ«سحر الدماغ».
+
 ## المصادر
 
-- Daniel J. Siegel — Wikipedia: https://en.wikipedia.org/wiki/Daniel_J._Siegel
-- السيرة الذاتية الرسمية (Mindsight Institute / drdansiegel.com): https://drdansiegel.com/
-- Curriculum Vitae الرسمية: https://drdansiegel.com/wp-content/uploads/2020/10/Daniel-J.-Siegel-CV.pdf
-- Child Mind Institute — نبذة رسمية: https://childmind.org/bio/daniel-j-siegel-md/
+- Siegel, D. J. (1999). *The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are*. New York: Guilford Press.
+- Siegel, D. J. (2007). *The Mindful Brain: Reflection and Attunement in the Cultivation of Well-Being*. New York: W. W. Norton.
+- Siegel, D. J. (2010). *Mindsight: The New Science of Personal Transformation*. New York: Bantam Books.
+- Siegel, D. J., & Bryson, T. P. (2011). *The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind*. New York: Delacorte Press.
+- Siegel, D. J. (2018). *Aware: The Science and Practice of Presence*. New York: TarcherPerigee.
+- Siegel, D. J., & Hartzell, M. (2003). *Parenting from the Inside Out*. New York: Jeremy P. Tarcher/Putnam.

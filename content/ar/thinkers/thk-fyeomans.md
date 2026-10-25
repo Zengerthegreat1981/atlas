@@ -48,8 +48,28 @@ gaps:
 
 *A Primer of Transference-Focused Psychotherapy for the Borderline Patient* (2002، مع كلاركين وكيرنبرغ) · *Psychotherapy for Borderline Personality: Focusing on Object Relations* (2006، مع كلاركين وكيرنبرغ) · *Transference-Focused Psychotherapy for Borderline Personality Disorder: A Clinical Guide* (2015، مع كلاركين وكيرنبرغ).
 
+## الكتاب الأول: العقد والإطار
+
+سبق كتاب *Primer* كتاباً آخر شارك فيه يومانز مع سيلزر وكلاركين، هو *Treating the Borderline Patient: A Contract-Based Approach* (1992)، وهو أول عرض مفصل لفكرة العقد العلاجي لدى المرضى الحديين: أن يتفق المعالج والمريض في البداية على شروط العلاج وأولوياته والمخاطر المحتملة، كي لا تتحول الجلسات إلى استجابات لأزمات متتالية. وتفسّر هذه البنية لماذا يعطي TFP قدراً كبيراً من الاهتمام لما قبل العلاج: فالمريض الذي يغلب عليه الاندفاع والتهديد بإيذاء النفس يحتاج إلى إطار يحمي العلاج نفسه. وفي هذا السجل يظهر دور يومانز المنهجي، إذ حوّل ما كان فنّ إدارة حالات صعبة إلى إجراء مكتوب.
+
+## ما الذي يجري في الجلسة؟
+
+بحسب ما يعرضه الدليل، يتتبع المعالج في TFP ما يسميه «ثنائيات علاقة الموضوع المسيطرة»، أي أنماط متكررة تربط صورة للذات بصورة للآخر بانفعال يجمعهما، كأن يرى المريض نفسه ضحية عاجزة ويرى المعالج متسلطاً مهملاً، ثم يتبدل الدوران فيصير هو القاسي والمعالج العاجز. وتُعالَج هذه الأنماط بثلاث خطوات متتالية: التوضيح، أي مساعدة المريض على وصف ما يعيشه بدقة، ثم المواجهة، أي لفت انتباهه إلى تناقضات في تجربته كانت مفصولة، ثم التفسير، أي ربط ما يحدث هنا والآن بتاريخ المريض. ويتجنب المعالج النصح المباشر ويحتفظ بما يسمى «الحياد التقني»، أي أنه لا ينحاز لأي جانب من صراع المريض الداخلي. وتوضح هذه الصورة ما الذي تعلمه المتدربون من كتب يومانز: مهارة الملاحظة والتدرج أكثر من نظرية جاهزة.
+
+## الأدلة التجريبية
+
+أسهمت تجربة كلاركين وليفي وليننزفيغر وكيرنبرغ المنشورة في *American Journal of Psychiatry* عام 2007 في ترسيخ مكانة العلاج، إذ قارنت TFP بعلاج جدلي سلوكي وبعلاج نفسي داعم، وأظهرت تحسناً في عدة مجالات. ثم جاءت تجربة دورينغ وزملائه عام 2010 في فيينا، ونشرت في *British Journal of Psychiatry*، التي قارنت TFP بعلاج يقدمه معالجون مجتمعيون خبراء، فخرج TFP بنتائج أفضل في بعض المقاييس. أما مقارنة جيزن-بلو وزملائها عام 2006 بين TFP وعلاج المخططات، فقد أشارت لصالح علاج المخططات، وقد انتقد مؤيدو TFP جوانب من منهج تلك التجربة. ويعكس هذا السجل أن الأدلة موجودة لكنها لم تحسم التفوق.
+
+## حدود ونقد إضافية
+
+إضافة إلى ما سبق، يبقى TFP علاجاً طويلاً، يمتد عادة عاماً أو أكثر بجلستين أسبوعياً، وهو ما يحدّ من إتاحته في الخدمات العامة ويرفع كلفته. كما أن التدريب عليه طويل ويحتاج إلى إشراف مكثف، وهذا يقلّل عدد المعالجين القادرين على تقديمه. ومعظم التجارب جاءت من مراكز ترتبط بمطوري الطريقة أو بمن يدرّبون عليها، ما يثير سؤال «ولاء الباحث» الذي تحدثت عنه الأدبيات في مقارنات العلاجات. وأخيراً يظل دور يومانز في هذا كله دور المنهج والتدريب، لا دور صاحب النظرية.
+
 ## المصادر
 
-- Yeomans, Frank E., John F. Clarkin, and Otto F. Kernberg. *A Primer of Transference-Focused Psychotherapy for the Borderline Patient*. Northvale, NJ: Jason Aronson, 2002.
-- Clarkin, John F., Frank E. Yeomans, and Otto F. Kernberg. *Psychotherapy for Borderline Personality: Focusing on Object Relations*. Washington, DC: American Psychiatric Publishing, 2006.
-- Yeomans, Frank E., John F. Clarkin, and Otto F. Kernberg. *Transference-Focused Psychotherapy for Borderline Personality Disorder: A Clinical Guide*. Washington, DC: American Psychiatric Publishing, 2015.
+- Yeomans, F. E., Selzer, M. A., & Clarkin, J. F. (1992). *Treating the Borderline Patient: A Contract-Based Approach*. Basic Books.
+- Yeomans, F. E., Clarkin, J. F., & Kernberg, O. F. (2002). *A Primer of Transference-Focused Psychotherapy for the Borderline Patient*. Jason Aronson.
+- Clarkin, J. F., Yeomans, F. E., & Kernberg, O. F. (2006). *Psychotherapy for Borderline Personality: Focusing on Object Relations*. American Psychiatric Publishing.
+- Yeomans, F. E., Clarkin, J. F., & Kernberg, O. F. (2015). *Transference-Focused Psychotherapy for Borderline Personality Disorder: A Clinical Guide*. American Psychiatric Publishing.
+- Clarkin, J. F., Levy, K. N., Lenzenweger, M. F., & Kernberg, O. F. (2007). "Evaluating three treatments for borderline personality disorder: A multiwave study." *American Journal of Psychiatry*, 164(6), 922–928.
+- Doering, S., et al. (2010). "Transference-focused psychotherapy v. treatment by community psychotherapists for borderline personality disorder: Randomised controlled trial." *British Journal of Psychiatry*, 196(5), 389–395.
+- Giesen-Bloo, J., et al. (2006). "Outpatient psychotherapy for borderline personality disorder: Randomized trial of schema-focused therapy vs transference-focused psychotherapy." *Archives of General Psychiatry*, 63(6), 649–658.

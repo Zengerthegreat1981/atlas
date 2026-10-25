@@ -54,8 +54,27 @@ gaps:
 
 مبادئ العلاج النفسي المكثف (Principles of Intensive Psychotherapy, 1950) · «ملاحظات على تطوّر علاج الفُصاميين بالعلاج النفسي التحليلي» (*Psychiatry*, 1948).
 
+## المستشفى بوصفه بيئة علاجية
+
+تحتاج مرحلة تشستنت لودج إلى وصف أدق مما يُقال عادة. كان المستشفى مؤسسة خاصة صغيرة يعيش فيها عدد محدود من المرضى القادرين على دفع تكلفة الإقامة الطويلة، ما سمح لأطبائه بما لا تسمح به المستشفيات العامة من لقاءات متكررة وطويلة وفرص لعلاج امتد سنوات. وكان الجو الفكري فيه متأثراً بسوليفان الذي يتعامل مع الفصام بوصفه اضطراباً في العلاقات الإنسانية لا مرضاً دماغياً صرفاً، وهو ما سمّته فروم-رايخمان «احترام المريض» بوصفه شرطاً لا غنى عنه. وتكتب في *Principles of Intensive Psychotherapy* (1950) عن موقف المعالج: أن يصغي بصبر حتى إلى كلام يبدو بلا معنى، وأن يفترض أن له معنى، وأن يتحمل ما قد يثيره المريض فيه من انفعال دون أن ينسحب. وتشدد على صدق المعالج: فالمريض الذهاني، في رأيها، حساس لأي ادعاء زائف أو مجاملة.
+
+## الكتابة عن الوحدة
+
+نُشرت بعد وفاتها ورقتها عن الوحدة في مجلة *Psychiatry* (1959)، كما صدر كتاب *Psychoanalysis and Psychotherapy: Selected Papers* (1959) بتحرير ديكستر بولارد. وفي ورقة الوحدة رأت أن الوحدة قد تتجاوز الشعور العابر لتصل إلى حالة من الانقطاع تهدد البناء النفسي، وبذلك تقترب من الفكرة التي صارت لاحقاً مألوفة في أدبيات التعلق، أي أن الحاجة إلى القرب إنسانية أساسية، لا مجرد غريزة ثانوية.
+
+## الأدب والتلقي
+
+لو لم تُكتب رواية *I Never Promised You a Rose Garden* (1964) لبقي حضور فروم-رايخمان محصوراً في الدوائر التحليلية. فقد رسمت جوان غرينبرغ، باسم مستعار هو هانا غرين، علاقتها مع «الدكتورة فريد» رسماً أدبياً مؤثراً، فصار اسم المعالجة وصورتها معروفين لدى جمهور لا يقرأ المراجع المتخصصة. غير أن العمل رواية تستعمل مادة سيرية، لا وثيقة إكلينيكية، ولا يصح أن يُقاس به أثر العلاج على المرضى عموماً.
+
+## حدود ونقد إضافية
+
+يتصل أول القيود بنتائج المستشفى. فدراسة متابعة نشرها ماكغلاشان عام 1984 في *Archives of General Psychiatry* (في جزئه الثاني عن النتائج بعيدة المدى) بيّنت أن نتائج المرضى بعد سنوات طويلة كانت متفاوتة، ولم تُثبت تفوقاً حاسماً للعلاج التحليلي المكثف. وثانيها أن الحكم على فعالية العلاج مرتبط بنوع المرضى الذين اختارهم المستشفى، وبقدرة أسرهم على تحمل التكلفة، فلا يمكن تعميم النتائج. وثالثها أن مصطلح «الأم المولِّدة للفصام» ظل مرتبطاً باسمها في الأدبيات حتى بعد أن تراجعت الثقة فيه. وفي المقابل يبقى ما قدمته عن موقف المعالج من المريض الذهاني، أي الاحترام والصدق والصبر، من أبقى ما تركته، لأنه لا يعتمد على نظرية السببية التي سقطت.
+
 ## المصادر
 
-- Fromm-Reichmann, F. *Principles of Intensive Psychotherapy*. Chicago: University of Chicago Press, 1950.
-- Fromm-Reichmann, F. "Notes on the Development of Treatment of Schizophrenics by Psychoanalytic Psychotherapy". *Psychiatry*, 11(3), 1948.
-- Hornstein, G. A. *To Redeem One Person Is to Redeem the World: The Life of Frieda Fromm-Reichmann*. New York: Free Press — سيرة صدرت بعد وفاتها، 2000.
+- Fromm-Reichmann, F. (1950). *Principles of Intensive Psychotherapy*. University of Chicago Press.
+- Fromm-Reichmann, F. (1948). "Notes on the development of treatment of schizophrenics by psychoanalytic psychotherapy." *Psychiatry*, 11(3), 263–273.
+- Fromm-Reichmann, F. (1959). *Psychoanalysis and Psychotherapy: Selected Papers*, ed. D. M. Bullard. University of Chicago Press.
+- Hornstein, G. A. (2000). *To Redeem One Person Is to Redeem the World: The Life of Frieda Fromm-Reichmann*. Free Press.
+- McGlashan, T. H. (1984). "The Chestnut Lodge follow-up study: II. Long-term outcome of schizophrenia and the affective disorders." *Archives of General Psychiatry*, 41(6), 586–601.
+- Greenberg, J. (as Hannah Green) (1964). *I Never Promised You a Rose Garden*. Holt, Rinehart and Winston.

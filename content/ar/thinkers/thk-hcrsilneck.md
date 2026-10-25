@@ -34,8 +34,28 @@ gaps:
 ## القيد
 تصنيف هذا الملف سابقاً تحت «التنويم المعرفي (Cognitive Hypnotherapy — سيلفستر)» كان خطأً زمنياً ومذهبياً: عمل كراسيلنيك تنويمٌ إكلينيكي طبّي كلاسيكي في الخمسينيات والستينيات، ومدرسة تريفور سيلفستر المعرفية نشأت بعد ذلك بأربعة عقود. صُحِّح التصنيف إلى الفرع العام للتنويم العلاجي السريري.
 
+## التنويم السريري في جيله
+
+نشأ كراسيلنيك في الفترة التي انتقل فيها التنويم من حلقات الاستعراض إلى العيادة والمستشفى، بعد أن أُقرّ التنويم الطبي عام 1958 من الجمعية الطبية الأمريكية، وتأسست جمعيات للتنويم السريري، وبدأ البحث الأكاديمي في قابلية الأفراد للإيحاء، كما في مقاييس ستانفورد للقابلية للتنويم التي وضعها وايتزنهوفر وهيلغارد (1959). وجاء كتابه مع هول «التنويم الإكلينيكي» (1975) ليجمع الأساليب العملية في دليل للأطباء وأطباء الأسنان والأخصائيين النفسيين، ودرّس بتوجه مباشر يقوم على الاسترخاء والإيحاء المحدد، لا على الأسلوب غير المباشر الذي ارتبط باسم إريكسون.
+
+## الميادين السريرية
+
+نشر مع زملائه في منتصف خمسينيات القرن العشرين دراسة عن استعمال التنويم في علاج مرضى الحروق (1955) في مجلة الجمعية الطبية الأمريكية، وكتب مع هول مراجعة للتغيرات الفسيولوجية المصاحبة للتنويم (1959). وتناول لاحقاً الألم المزمن في أسفل الظهر (1979)، وعرض ما سماه تقنية القصف في علاج الألم العضوي المستعصي (1995)، وكتب عن علاج العجز الجنسي النفسي المنشأ بالتنويم (1982). وتتوزع هذه الأعمال بين تقارير حالات ومتابعات، وهي ما يميز أدبيات التنويم السريري في ذلك الجيل.
+
+## وضع الأدلة اليوم
+
+في مجال الألم تحديداً، رجحت المراجعات اللاحقة فعالية التنويم بوصفه مسكّناً مساعداً، فوجد تحليل مونتغمري ودوهاميل وريد (2000) أثراً متوسطاً إلى كبير في تخفيف الألم عبر دراسات مختلفة، وخلصت مراجعة باترسون وجنسن (2003) إلى أن التنويم يخفف الألم الحاد والمزمن بدرجات تتفاوت بحسب قابلية الشخص. وهذه الأدلة تؤيد الجزء الأقوى من عمل كراسيلنيك، ولا تؤيد كل ما نُسب إلى التنويم في الثقافة الشعبية.
+
+## حدود ونقد
+
+كانت معظم دراسات كراسيلنيك سلاسل حالات غير مضبوطة بمجموعات مقارنة، فلا تفصل أثر الإيحاء عن أثر الانتباه والتوقع والعلاقة العلاجية. وتتفاوت قابلية الناس للتنويم تفاوتاً كبيراً، فلا ينفع التنويم الجميع بالقدر نفسه. وفي الاستعمال القضائي وتحسين الذاكرة، حذّر أورن (1979) من أن الشهادة تحت التنويم لا تزداد دقة بل ثقة، وقد تنتج ذكريات زائفة، وهو تحذير بات معتمداً عند أغلب الجمعيات المهنية. ولا يجوز أن يمارس التنويم من لا يملك تدريباً سريرياً، ولا يفيد في علاج الاضطرابات الشديدة وحده.
+
 ## المصادر
 
-- [In memoriam: Harold B. Crasilneck, Ph.D., ABPH — APA PsycNET](https://psycnet.apa.org/record/2008-11623-003)
-- [Harold Crasilneck Obituary (2008) — Dallas Morning News](https://obits.dallasnews.com/us/obituaries/dallasmorningnews/name/harold-crasilneck-obituary?id=25330866)
-- [Clinical Hypnosis: Principles and Applications — Internet Archive (تسجيل ببليوغرافي: Crasilneck, Harold B., 1921-)](https://archive.org/details/clinicalhypnosis00cras)
+- Crasilneck, H. B., Stirman, J. A., Wilson, B. J., McCranie, E. J., & Fogelman, M. J. (1955). Use of hypnosis in the management of patients with burns. Journal of the American Medical Association, 158(2), 103–106.
+- Crasilneck, H. B., & Hall, J. A. (1959). Physiological changes associated with hypnosis: A review of the literature since 1948. International Journal of Clinical and Experimental Hypnosis, 7(1), 9–50.
+- Crasilneck, H. B., & Hall, J. A. (1975). Clinical Hypnosis: Principles and Applications. New York: Grune & Stratton.
+- Weitzenhoffer, A. M., & Hilgard, E. R. (1959). Stanford Hypnotic Susceptibility Scale, Forms A and B. Palo Alto: Consulting Psychologists Press.
+- Montgomery, G. H., DuHamel, K. N., & Redd, W. H. (2000). A meta-analysis of hypnotically induced analgesia: How effective is hypnosis? International Journal of Clinical and Experimental Hypnosis, 48(2), 138–153.
+- Patterson, D. R., & Jensen, M. P. (2003). Hypnosis and clinical pain. Psychological Bulletin, 129(4), 495–521.
+- Orne, M. T. (1979). The use and misuse of hypnosis in court. International Journal of Clinical and Experimental Hypnosis, 27(4), 311–341.

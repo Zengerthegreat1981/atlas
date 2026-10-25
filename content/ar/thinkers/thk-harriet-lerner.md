@@ -52,9 +52,25 @@ gaps:
 
 لم يُعثر على اقتباس مباشر موثَّق من أعمالها بالعربية أو الإنجليزية يمكن نسبته بدقّة إلى صفحة ومصدر محدَّدين؛ تُرك هذا القسم فارغاً بدل تأليف اقتباس.
 
+## الجذور النظرية
+
+تنطلق ليرنر من نظرية الأنظمة الأسرية عند موراي بوين في «العلاج الأسري في الممارسة السريرية» (1978)، وخصوصاً مفهوم التمايز، أي القدرة على أن يحتفظ المرء بموقفه الخاص داخل الأسرة دون قطيعة ودون ذوبان. لكنها أخذت على النظرية الأسرية التقليدية أنها لا تلتفت إلى اختلاف مواقع الرجل والمرأة، وهو نقد شاركتها فيه باحثات مثل هير-موستين (1978) وغولدنر (1985)، وكتبت هي مقالة تتساءل فيها إن كانت نظرية الأنظمة الأسرية نسقية حقاً بما يكفي (1988). وبدأت قبل ذلك بنقد التحليل النفسي للمرأة، فنشرت (1974) مقالة عن أصول الحسد وازدراء المرأة في مجلة عيادة مينينغر، رافضة تفسير فرويد لما سماه حسد القضيب.
+
+## ما أضافته في كتبها اللاحقة
+
+في «رقصة الأم» (1998) تناولت العلاقة بين الأمهات والبنات، ومواجهة اللوم الذي تحمله الأمهات في الثقافة. وفي «رقصة الخداع» (1993) عالجت الكذب والسرية في العلاقات. وكتبت في «قواعد الزواج» (2012) نصائح موجزة مبنية على ممارستها.
+
+## حدود ونقد
+
+ليست كتب ليرنر أبحاثاً تجريبية، بل نتاج خبرة إكلينيكية طويلة، ولم يخضع إطار «رقصة الغضب» لتجربة مضبوطة. وقد يُساء فهم دعوتها إلى التعبير عن الغضب بوصفها دعوة إلى التنفيس، بينما دلت أبحاث، كدراسة بوشمان (2002)، على أن التنفيس الانفعالي بالصراخ أو الضرب لا يقلل الغضب ويزيده أحياناً، والواقع أن ليرنر نفسها تميّز بين التعبير الاستراتيجي عن الموقف وبين الانفجار. ويحدّ من تعميم أفكارها أنها موجهة أساساً إلى نساء من الطبقة الوسطى في سياقات علاقات غربية، وأنها تعطي الأولوية لتغيير الفرد داخل نسق تظل شروطه الاجتماعية خارج متناوله، ولا تحلّ حالات العنف الأسري التي تحتاج حماية قبل أي حديث عن الرقص.
+
 ## المصادر
 
-- Harriet Lerner — Wikipedia: https://en.wikipedia.org/wiki/Harriet_Lerner
-- Encyclopedia.com, "Lerner, Harriet 1944-": https://www.encyclopedia.com/arts/educational-magazines/lerner-harriet-1944
-- Forbes, "What Selling 3 Million Copies Of 'The Dance Of Anger' Has Taught Renowned Psychologist Harriet Lerner" (2014): https://www.forbes.com/sites/kathycaprino/2014/04/23/what-selling-3-million-copies-of-the-dance-of-anger-has-taught-renowned-psychologist-harriet-lerner/
-- Washburn University, "Harriet Lerner, Kansas author": https://www.washburn.edu/reference/cks/mapping/lernerh/index.html
+- Lerner, H. G. (1974). Early origins of envy and devaluation of women: Implications for sex-role stereotypes. Bulletin of the Menninger Clinic, 38(6), 538–553.
+- Lerner, H. G. (1985). The Dance of Anger: A Woman's Guide to Changing the Patterns of Intimate Relationships. New York: Harper & Row.
+- Lerner, H. G. (1989). The Dance of Intimacy: A Woman's Guide to Courageous Acts of Change in Key Relationships. New York: Harper & Row.
+- Lerner, H. (2017). Why Won't You Apologize? Healing Big Betrayals and Everyday Hurts. New York: Touchstone.
+- Bowen, M. (1978). Family Therapy in Clinical Practice. New York: Jason Aronson.
+- Hare-Mustin, R. T. (1978). A feminist approach to family therapy. Family Process, 17(2), 181–194.
+- Goldner, V. (1985). Feminism and family therapy. Family Process, 24(1), 31–47.
+- Bushman, B. J. (2002). Does venting anger feed or extinguish the flame? Catharsis, rumination, distraction, anger, and aggressive responding. Personality and Social Psychology Bulletin, 28(6), 724–731.

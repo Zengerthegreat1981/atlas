@@ -62,9 +62,27 @@ gaps:
 - *Sexuality, Intimacy, Power* (2003).
 - *With Culture in Mind: Psychoanalytic Stories* (2011، محرِّرة).
 
+## التحليل النفسي والنسوية: ما اشتغلت عليه بالتفصيل
+
+بعد الكتب الكبرى، تتوزع مساهمتها على سلسلة مقالات لا تقل أهمية عن كتبها. ففي «المال والحب والكراهية: التناقض والمفارقة في التحليل النفسي» (*Psychoanalytic Dialogues*، 1994) تناولت واقعة تحرجها الثقافة التحليلية: أن العلاقة العلاجية علاقة مدفوعة الأجر. فقد رأت أن التحليل يميل إلى تجاهل المال بوصفه «واقعاً خارجياً» لا شأن للتأويل به، بينما يحمل المال في الغرفة التحليلية معاني الحب والامتنان والاستغلال والكراهية، ولا يمكن فصله عن دينامية اللقاء. وفي «الانحراف نحن؟ ثماني ملاحظات» (*Psychoanalytic Dialogues*، 2001) واصلت نقد فئة «الانحراف» (perversion) بوصفها حكماً معيارياً مقنّعاً بلغة التشخيص، متسائلة عن موقع كل ممارس من الرغبة التي يسميها «شاذة» في غيره. وفي تقرير «اللقاء بين التحليل النفسي والنسوية: تقرير من الجبهة» (*Contemporary Psychoanalysis*، 1997) سجّلت حصيلة العلاقة المتوترة بين الحقلين ورأت أنها ما تزال غير محسومة.
+
+وتجمع هذه المقالات فكرة واحدة تعود إلى كتابها الأول: التناقض ليس عارضاً يُزال، بل هو **المادة التي يُبنى منها الذات**. فالمرأة، والمعالج، والمريض يعيشون كلهم بين مطالب متعارضة، والمحلل الجيد لا يسعى إلى حلّها قسراً بل إلى تحمّلها والتفكير فيها. وهذه النغمة التي تفضّل «الاحتمال» على «الحسم» هي ما تقارب به ديمن أسلوب العلائقيين عموماً، وتضيف إليه حساسية لقضايا الجسد والجندر والمال.
+
+## الاستقبال
+
+نالت أعمالها حضوراً في المقررات الدراسية للتحليل النفسي العلائقي والنسوي، وتكرر ذكر مقالة 1991 في المراجع التي تعالج الجندر في التحليل. وتُذكر مع أدريان هاريس في سياق إحياء قراءة نقدية لحالة «الهستيريا» عند فرويد، إذ جمعت مع هاريس مختارات تعيد قراءة الظاهرة بوصفها لغة جسد وسياسة معاً. ولم يُوثَّق في هذا الأطلس ترجمة عربية لأعمالها، فيبقى الوصول إليها عبر الإنجليزية.
+
+## حدود ونقد
+
+- قلة الأدلة التجريبية في عملها سبقت الإشارة إليها، لكنها تتصل بحدّ آخر: أن مفاهيم مثل «الانشقاق» أو «الفضاء الانتقالي» تُستعمل عندها استعمالاً نظرياً مرناً، فيصعب أن يُعلَم متى تُدحَض.
+- نقدها للحياد التحليلي يترك سؤالاً عملياً مفتوحاً: إذا كان الحياد وهماً يخفي السلطة، فما بديله المنضبط أخلاقياً؟ وقد عدّه بعض المعقّبين تفكيكاً بلا تركيب.
+- حضورها في مجال الإنسانيات أقوى منه في الممارسة المنظّمة، إذ لم تقدّم بروتوكولاً علاجياً قابلاً للتدريب بقدر ما قدّمت طريقة في القراءة والإصغاء.
+
 ## المصادر
 
-- Dimen, Muriel. *Surviving Sexual Contradictions*. New York: Macmillan, 1986.
-- Dimen, Muriel. "Deconstructing Difference: Gender, Splitting, and Transitional Space." *Psychoanalytic Dialogues*, 1991.
-- Dimen, Muriel. *Sexuality, Intimacy, Power*. Hillsdale, NJ: The Analytic Press, 2003.
-- Dimen, Muriel (ed.). *With Culture in Mind: Psychoanalytic Stories*. New York: Routledge, 2011.
+- Dimen, M. (1986). *Surviving Sexual Contradictions: A Startling and Different Look at a Day in the Life of a Contemporary Professional Woman*. New York: Macmillan.
+- Dimen, M. (1991). "Deconstructing Difference: Gender, Splitting, and Transitional Space." *Psychoanalytic Dialogues*, 1(3), 335–352.
+- Dimen, M. (1994). "Money, Love, and Hate: Contradiction and Paradox in Psychoanalysis." *Psychoanalytic Dialogues*, 4(1), 69–100.
+- Dimen, M. (2003). *Sexuality, Intimacy, Power*. Hillsdale, NJ: The Analytic Press.
+- Dimen, M., & Harris, A. (Eds.). (2001). *Storms in Her Head: Freud and the Construction of Hysteria*. New York: Other Press.
+- Dimen, M. (Ed.). (2011). *With Culture in Mind: Psychoanalytic Stories*. New York: Routledge.

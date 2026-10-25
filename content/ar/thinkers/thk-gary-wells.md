@@ -88,11 +88,24 @@ gaps:
 
 ## أهم أعماله
 
-- «Eyewitness Identification» (1988) — كتاب تحرير.
-- «Applied Eyewitness Testimony Theory and Practice» (2008) — مع Elizabeth Loftus.
+- «Applied eyewitness-testimony research: system variables and estimator variables» (1978) — المقالة التي صاغت التمييز بين المتغيّرات المنهجية ومتغيّرات التقدير.
+- «Eyewitness Testimony: Psychological Perspectives» (1984) — كتاب محرَّر مع إليزابيث لوفتوس.
+
+## الجدل حول الطابور المتسلسل وثقة الشاهد
+
+أسهم ويلز في ترسيخ العرض المتسلسل بعد دراسة مع ليندساي (1985) أظهرت أن تقديم الوجوه واحداً بعد آخر يقلّل اختيار شخص بريء مقارنة بالعرض المتزامن. غير أن إعادة تحليل البيانات بأسلوب منحنيات الخاصية التشغيلية للمستقبِل (ROC) في أبحاث لاحقة، لم تثبت تفوق التسلسل في التمييز بين المذنب والبريء، وقد أقرّ ويلز وزملاؤه بأن الفرق الأصلي يعكس تحفّظ الشاهد في الاختيار أكثر مما يعكس دقة الذاكرة. وفي المقابل ظل توصيته بالإجراء المزدوج التعمية، أي أن يجري الطابور شخص لا يعرف من هو المشتبه به، موضع إجماع واسع لأنه يمنع التلميح غير المقصود.
+
+وفي مراجعة مع ويكستد (2017) انتهى إلى أن ثقة الشاهد في أول تعرّف يُجرى في ظروف نقية، أي طابور عادل وتعليمات محايدة وقبل أي تغذية راجعة، مؤشر جيد على الدقة، بينما تتضخم الثقة اللاحقة في المحكمة بتأثير التأكيد والتلقين. وهذا تعديل مهم لموقف سابق كان يرى أن الثقة والدقة لا ترتبطان.
+
+## حدود ونقد
+
+تقوم معظم تجاربه على مشاركين طلاب يشاهدون جريمة مصطنعة قصيرة، والانتقال من المختبر إلى الواقع موضع نقاش. وتتفاوت التوصيات بين الولايات القضائية، ولا تزال بعض أقسام الشرطة لا تعتمدها. كما أن نسبة الإدانات الخاطئة التي يُعزى جزء منها إلى التعرّف الخاطئ تأتي من قضايا أُلغيت بعد الحمض النووي، وهي عينة منتقاة لا تعمم على كل القضايا.
 
 ## المصادر
 
-- Wells, Gary L., et al. "Eyewitness Identification Procedures: Recommendations for Lineups and Photospreads." *Law and Human Behavior*, 1998.
-- Wells, Gary L., and Elizabeth F. Loftus (eds.). *Eyewitness Testimony: Psychological Perspectives*. Cambridge University Press, 1984 (وطبعات لاحقة بعنوان معدّل).
-- Wixted, John T., and Gary L. Wells. "The Relationship Between Eyewitness Confidence and Identification Accuracy." *Psychological Science in the Public Interest*, 2017.
+- Wells, G. L. (1978). Applied eyewitness-testimony research: System variables and estimator variables. Journal of Personality and Social Psychology, 36(12), 1546–1557.
+- Wells, G. L., & Loftus, E. F. (Eds.). (1984). Eyewitness Testimony: Psychological Perspectives. Cambridge: Cambridge University Press.
+- Lindsay, R. C. L., & Wells, G. L. (1985). Improving eyewitness identifications from lineups: Simultaneous versus sequential lineup presentation. Journal of Applied Psychology, 70(3), 556–564.
+- Wells, G. L., Small, M., Penrod, S., Malpass, R. S., Fulero, S. M., & Brimacombe, C. A. E. (1998). Eyewitness identification procedures: Recommendations for lineups and photospreads. Law and Human Behavior, 22(6), 603–647.
+- Wells, G. L., Memon, A., & Penrod, S. D. (2006). Eyewitness evidence: Improving its probative value. Psychological Science in the Public Interest, 7(2), 45–75.
+- Wixted, J. T., & Wells, G. L. (2017). The relationship between eyewitness confidence and identification accuracy. Psychological Science in the Public Interest, 18(1), 10–65.

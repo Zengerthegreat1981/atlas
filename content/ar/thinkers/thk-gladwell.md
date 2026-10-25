@@ -56,10 +56,25 @@ gaps:
 - *David and Goliath* (2013).
 - *Talking to Strangers* (2019).
 
+## السيرة والموقع الصحفي
+
+وُلد غلادويل في إنجلترا عام 1963 ونشأ في أونتاريو بكندا، وعمل صحفياً في الواشنطن بوست بين 1987 و1996، ثم انتقل إلى نيويوركر. وجاءت كتبه امتداداً لمقالاته الطويلة التي تقدم نتيجة بحثية واحدة بوصفها مفتاحاً لظاهرة اجتماعية. ويصرّح هو نفسه بأنه يروي قصصاً لا يجري أبحاثاً، فالمقارنة بينه وبين الباحثين الذين يعتمد عليهم تُظهر الفرق بين الخطاب العلمي والخطاب الصحفي.
+
+## مراجعة الأدلة لكتبه الرئيسة
+
+في «خارقون» اعتمد غلادويل على أثر العمر النسبي في الرياضة، الذي وصفته دراسة بارنزلي وطومسون وبارنزلي (1985) في الهوكي الكندي، وهو أثر موثق في الأدبيات. أما قاعدة العشرة آلاف ساعة فمأخوذة من دراسة إريكسون وكرامبه وتيش-رومر (1993) على عازفي الكمان في أكاديمية برلين، وهي عينة صغيرة من مجال واحد. وفي «نقطة التحوّل» يتصل قانون القلة بنظرية المؤثرين، غير أن واتس ودودس (2007) أظهرا بمحاكاة حاسوبية أن انتشار الأفكار كثيراً ما يحدث عبر جمهور واسع من الناس العاديين سريعي التأثر لا عبر قلة مؤثرة. وفي «ومضة» أقرّ كانمان وكلاين (2009) بأن الحدس موثوق في بيئات منتظمة تتيح التغذية الراجعة، لكنه ليس كذلك في بيئات عشوائية، وهو تحفظ يغيب عن العرض الشعبي.
+
+## تقييم عام
+
+تفيد كتب غلادويل في فتح النقاش لدى القارئ العربي حول الأسباب الاجتماعية للنجاح والعيوب المعرفية في الحكم على الآخرين، لكنها لا تصلح مرجعاً علمياً، ولذلك ينبغي أن يرجع القارئ إلى الدراسات الأصلية قبل بناء قرار على أطروحة منها.
+
 ## المصادر
 
-- Malcolm Gladwell — Wikipedia: https://en.wikipedia.org/wiki/Malcolm_Gladwell
-- Britannica, "Malcolm Gladwell": https://www.britannica.com/biography/Malcolm-Gladwell
-- Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). "Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis." *Psychological Science*.
-- Salon (2016), "Malcolm Gladwell got us wrong: Our research was key to the 10,000-hour rule, but here's what got oversimplified" (تصريح أندرس إريكسون وزملائه): https://www.salon.com/2016/04/10/malcolm_gladwell_got_us_wrong_our_research_was_key_to_the_10000_hour_rule_but_heres_what_got_oversimplified/
-
+- Gladwell, M. (2000). The Tipping Point: How Little Things Can Make a Big Difference. Boston: Little, Brown.
+- Gladwell, M. (2005). Blink: The Power of Thinking Without Thinking. New York: Little, Brown.
+- Gladwell, M. (2008). Outliers: The Story of Success. New York: Little, Brown.
+- Gladwell, M. (2019). Talking to Strangers: What We Should Know About the People We Don't Know. New York: Little, Brown.
+- Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363–406.
+- Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate practice and performance in music, games, sports, education, and professions: A meta-analysis. Psychological Science, 25(8), 1608–1618.
+- Watts, D. J., & Dodds, P. S. (2007). Influentials, networks, and public opinion formation. Journal of Consumer Research, 34(4), 441–458.
+- Kahneman, D., & Klein, G. (2009). Conditions for intuitive expertise: A failure to disagree. American Psychologist, 64(6), 515–526.

@@ -24,31 +24,41 @@ gaps:
 
 # هنتر هوفمان
 
-عالم نفس في جامعة واشنطن، من أوائل الباحثين في "SnowWorld" — تطبيق VR لتخفيف الألم أثناء إجراءات تنظيف الجروح عند مرضى الحروق. أسهم في تأسيس VR كتقنية سريرية مستقلة في إدارة الألم.
+عالم نفس في جامعة واشنطن، من أوائل الباحثين في "SnowWorld" — تطبيق VR لتخفيف الألم أثناء إجراءات تنظيف الجروح عند مرضى الحروق. أسهم في تأسيس VR كتقنية سريرية مستقلة في إدارة الألم. وعمل في مختبر تقنية الواجهات البشرية بجامعة واشنطن (Human Interface Technology Laboratory) وفي مركز الحروق بمستشفى هاربورفيو في سياتل، بالشراكة مع عالم النفس ديفيد باترسون.
+
+## السياق: الألم والانتباه
+
+ينطلق عمل هوفمان من مبدأ قديم في علم النفس العصبي للألم: أن الإحساس بالألم لا يتحدد بالإشارة العصبية الواردة وحدها، بل يتأثر بالانتباه والتوقّع والحالة الانفعالية. وقد بنت نظرية البوابة التي عرضها ميلزاك ووال (1965) هذه الفكرة على أساس عصبي. ولأن الانتباه موردٌ محدود، فإن شغل الانتباه بتجربة غامرة تتطلب تفاعلاً مستمراً يترك أقل مما يلزم لمعالجة إشارة الألم. وكانت مشكلة مرضى الحروق ملحّة: فتنظيف الجروح وتغيير الضمادات من أشدّ الإجراءات إيلاماً، وتخفيف الألم فيها بالمواد الأفيونية وحدها محدود ويحمل مخاطر الاعتماد والآثار الجانبية. ومن هنا جاءت فكرة استعمال الواقع الافتراضي وسيلة تشتيت قوية.
 
 ## ما أعطاه
 
-- **"SnowWorld"**: تطبيق VR يُعرَض على مرضى الحروق أثناء تغيير الضمادات، يُنقص الإحساس بالألم بشكل ملحوظ.
+- **"SnowWorld"**: تطبيق VR يُعرَض على مرضى الحروق أثناء تغيير الضمادات، يُنقص الإحساس بالألم بشكل ملحوظ. وقد صُمّم عالماً ثلجياً يرمي فيه المريض كرات الثلج على بطاريق وإنسان ثلج، ويقوم على فكرة أن بيئة باردة تتعارض مع الإحساس بالحرارة والحرق.
 - **"VR Analgesia"**: أبحاث رائدة في فهم كيف ينقص الانغماس في VR إدراك الألم.
-- **"Virtual Graded Exposure"** لتقليل القلق العلاجي.
+- **"Virtual Graded Exposure"** لتقليل القلق العلاجي. وتجلّى ذلك في دراسات رهاب العناكب التي شارك فيها هوفمان مع آنّا غارسيا-بالاسيوس وزملائها (2002)، وفيها تعرّض المرضى لعناكب افتراضية ثم لعنكبوت حقيقي بصورة تدريجية.
 - **دراسات تصوير عصبي** على تأثير VR على معالجة الألم في الدماغ.
 
 ## موقعه من التيار
 
-يقف هوفمان عند ملتقى علم النفس العصبي، إدارة الألم، والتكنولوجيا العلاجية. تأثيره كبير في نقل VR من أداة ترفيهية إلى أداة طبية.
+يقف هوفمان عند ملتقى علم النفس العصبي، إدارة الألم، والتكنولوجيا العلاجية. تأثيره كبير في نقل VR من أداة ترفيهية إلى أداة طبية. وقد قدّم أعماله إلى جمهور واسع في مقال بمجلة *Scientific American* (2004) عن العلاج بالواقع الافتراضي.
 
 ## أهم أعماله
 
-- "Virtual Reality as an Adjunctive Non-pharmacologic Analgesic" (مع Chambers وآخرين, 2004).
-- مراجعات ودراسات في التصوير العصبي الوظيفي (fMRI) أظهرت انخفاضاً فعلياً في نشاط مناطق معالجة الألم أثناء الانغماس في الواقع الافتراضي — لا مجرّد تقرير ذاتي بانخفاض الألم.
-- أبحاث في *Pain* و*Neuropsychologia*.
+- "Virtual Reality as an Adjunctive Non-pharmacologic Analgesic for Acute Burn Pain During Medical Procedures" (هوفمان وتشامبرز وآخرون، *Annals of Behavioral Medicine*، 2011) — تصحيح: كان الملف يؤرّخه 2004.
+- مراجعات ودراسات في التصوير العصبي الوظيفي (fMRI) أظهرت انخفاضاً فعلياً في نشاط مناطق معالجة الألم أثناء الانغماس في الواقع الافتراضي — لا مجرّد تقرير ذاتي بانخفاض الألم، ومنها دراسة هوفمان وزملائه في *NeuroReport* (2004).
+- أبحاث في *Pain* و*Neuropsychologia*، منها دراسة هوفمان وزملائه عن المراهقين المحروقين في *Pain* (2000).
 
-## القيد
+## حدود ونقد
+
 - **"SnowWorld"** يعتمد على معدات قديمة، وانتشاره في المستشفيات الفعلية لا يزال محدوداً.
+- **حجم العيّنات والتعمية**: أغلب الدراسات الأولى صغيرة وتصميمها داخل المريض نفسه (يقارن ألمه مع الواقع الافتراضي وبدونه)، ولا يمكن تعمية المريض عن كونه يرتدي خوذة. وقد خلصت المراجعة المنهجية لموريس ولو وغريمر-سومرز (2009) إلى أن النتائج واعدة لكن جودة الأدلة محدودة وتحتاج تجارب أكبر.
+- **أثر الجِدّة**: يحتمل أن يتناقص الأثر مع تكرار الاستعمال وزوال الدهشة، ولم تُدرس بما يكفي فعالية التطبيق عبر جلسات علاجية متكررة طويلة.
+- **الكلفة والتحكم بالعدوى**: تتطلب الأجهزة تعقيماً ودعماً تقنياً، وهي عقبات عملية أمام التعميم، وخاصة في المستشفيات ذات الموارد المحدودة.
 
 ## المصادر
 
-- [Virtual reality significantly reduces pain-related brain activity — UW News (2004)](https://www.washington.edu/news/2004/06/21/virtual-reality-significantly-reduces-pain-related-brain-activity/)
-- [Virtual Reality as an Adjunctive Non-pharmacologic Analgesic for Acute Burn Pain During Medical Procedures — PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4465767/)
-- [SnowWorld melts away pain for burn patients — GeekWire](https://www.geekwire.com/2018/snowworld-melts-away-pain-burn-patients-using-virtual-reality-snowballs/)
-- [Hunter Hoffman, Ph.D. — Sedation and Anesthesia Outside the O.R.](https://snowandsedation.com/hunter-hoffman-ph-d/)
+- Melzack, R. & Wall, P. D. — "Pain mechanisms: A new theory." *Science*, 150(3699), 1965, 971–979.
+- Hoffman, H. G., Doctor, J. N., Patterson, D. R., Carrougher, G. J. & Furness, T. A. — "Virtual reality as an adjunctive pain control during burn wound care in adolescent patients." *Pain*, 85(1–2), 2000, 305–309.
+- Hoffman, H. G., Richards, T. L., Coda, B. et al. — "Modulation of thermal pain-related brain activity with virtual reality: Evidence from fMRI." *NeuroReport*, 15(8), 2004, 1245–1248.
+- Hoffman, H. G., Chambers, G. T., Meyer, W. J. et al. — "Virtual reality as an adjunctive non-pharmacologic analgesic for acute burn pain during medical procedures." *Annals of Behavioral Medicine*, 41(2), 2011, 183–191.
+- Garcia-Palacios, A., Hoffman, H., Carlin, A., Furness, T. A. & Botella, C. — "Virtual reality in the treatment of spider phobia: A controlled study." *Behaviour Research and Therapy*, 40(9), 2002, 983–993.
+- Morris, L. D., Louw, Q. A. & Grimmer-Somers, K. — "The effectiveness of virtual reality on reducing pain and anxiety in burn injury patients: A systematic review." *Clinical Journal of Pain*, 25(9), 2009, 815–826.
