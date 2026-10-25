@@ -24,21 +24,44 @@ gaps:
   - "تصحيح واقعي: الملف كان يصفها بأنها «شريكة في تأسيس EGS»؛ التحقق يُظهر أن European Graduate School تأسست سنة 1994 على يد باولو كنيل (بمشاركة كانتون فاليه السويسري)، وأن إيلين وستيفن ليفين عميدان (Deans) فيها لا مؤسِّسان — صُحِّح النص. هما مؤسِّسا برنامج ISIS-Canada للتدريب في الفنون التعبيرية، وإيلين شاركت في تأسيس The CREATE Institute في تورونتو (1991)."
   - "«إطار دورة الجمال والدمار» (Beauty-Destruction Cycle) لم يُعثر له على مصدر مستقل يؤكد نسبته لإيلين ليفين بهذا الاسم؛ الأقرب الموثَّق هو مفهوم «التفكيك» (destructuring) في نظرية الـpoiesis عند كنيل وزملائه. يبقى بندًا يحتاج تحققاً إضافياً ولم يُحذف احتياطاً من التسرع، لكنه لا يُعتمد كحقيقة مؤكدة."
 ---
-
 # إيلين ليفين
 
 معالِجة بالفنون وأخصائية عمل اجتماعي (Ellen G. Levine)، وممارِسة في **الفنون التعبيرية التعددية**. عميدة الدراسة المستقلة في الفنون التعبيرية بـEuropean Graduate School (EGS)، ومؤسِّسة مشاركة (مع زوجها ستيفن ليفين) لبرنامج ISIS-Canada للتدريب في الفنون التعبيرية، وشريكة في تأسيس The CREATE Institute في تورونتو (1991). لم تكن من مؤسِّسي EGS نفسها؛ فالمدرسة أسّسها باولو كنيل سنة 1994.
 
+## السياق: العلاج بالفنون التعبيرية
+
+ظهر العلاج بالفنون في أربعينيات القرن العشرين وخمسينياته على يد أدريان هيل ومارغريت نومبرغ وإديث كريمر، وتمحور حول الرسم والتصوير بوصفهما وسيلة لكشف المحتوى النفسي. ثم نشأ في السبعينيات والثمانينيات اتجاه «الفنون التعبيرية» الذي يستخدم أشكالاً فنية متعددة في الجلسة الواحدة: الرسم والموسيقى والحركة والكتابة والدراما. وارتبط هذا الاتجاه بأسماء مثل ناتالي روجرز في تقليد العلاج المتمركز على الشخص، وشون ماكنيف في الولايات المتحدة، وباولو كنيل الذي طوّر الصيغة «بين الوسائط» (intermodal) وأسّس مدرسة الدراسات العليا الأوروبية. وفي هذا السياق عملت إيلين ليفين، ومعها زوجها ستيفن ليفين، على تأسيس الممارسة والتدريس في كندا وسويسرا.
+
 ## ما أعطته
 
-- **«Principles and Practice of Expressive Arts Therapy»** (مع باولو كنيل وستيفن ليفين): الكتاب المنهجي للحقل.
+- **«Principles and Practice of Expressive Arts Therapy»** (مع باولو كنيل وستيفن ليفين، 2005): الكتاب المنهجي للحقل، وعنوانه الفرعي «نحو جماليات علاجية».
 - **Intermodal Therapy**: نقل التعبير بين وسائط فنية متعدّدة (رسم، موسيقى، حركة، دراما).
-- **مفهوم «التفكيك» (destructuring)** في العلاج بالفن التعبيري (نسبته الدقيقة لإيلين ليفين تحديداً غير مؤكدة بمصدر مستقل؛ انظر gaps).
+- **مفهوم «التفكيك» (destructuring)** في العلاج بالفن التعبيري، إلى جانب مفهوم «اللامركزة» (decentering) الذي طرحه كنيل بمعنى ترك المعالج والمشارك للمركز المألوف والانتقال بين وسائط التعبير.
+- **كتاب «رعاية النار» (Tending the Fire: Studies in Art, Therapy and Creativity, 1995)**: تناولت فيه علاقة الفن بالعلاج والإبداع.
+- **التدريس والتأسيس**: تدريب المعالجين في كندا عبر برنامج ISIS-Canada ثم في تورونتو عبر The CREATE Institute الذي أُسس عام 1991.
+
+## المبادئ الأساسية للممارسة
+
+تقوم الفنون التعبيرية، في الأدبيات التي شاركت ليفين في كتابتها، على أن الاستجابة الجمالية فعل شفائي في ذاتها. فالمشارك لا يحتاج إلى مهارة فنية، لأن المعيار ليس جودة العمل بل عمق الاستجابة، وهذا ما يسمّى مبدأ «قلة المهارة وكثرة الحساسية». ويتحرك المعالج بين الوسائط حين يصل التعبير في وسيط معين إلى طريق مسدود، فيدعو إلى الانتقال من الرسم إلى الحركة أو من الكتابة إلى الصوت. ويُعدّ الانفتاح على الخيال ومنح الأعمال الفنية صوتاً مستقلاً، بحيث يحاور المشارك لوحته أو قصيدته، جزءاً من المنهج. وتؤكد التدريبات على أن العمل مع الجماعة والمجتمع جزء أصيل من الحقل، لا يقتصر على العلاج الفردي.
+
+## موقعها من التيار
+
+تنتمي ليفين إلى الجيل الذي رسّخ الفنون التعبيرية التعددية كتخصص دراسي جامعي مستقل عن العلاج بالفن التقليدي وعن العلاج بالموسيقى والدراما، ولها دور خاص في التدريس والتنظيم المهني في كندا. وقد اشتغلت، مع زوجها ستيفن ليفين الذي كتب «الشعرية: لغة علم النفس وكلام الروح» (Poiesis, 1997) و«الصدمة والمأساة والعلاج» (2009)، على ربط الحقل بالفلسفة الظاهراتية والنظرية الجمالية. وشاركا في تحرير «أسس العلاج بالفنون التعبيرية: منظورات نظرية وإكلينيكية» (1999).
+
+## أهم أعمالها
+
+- *Principles and Practice of Expressive Arts Therapy: Toward a Therapeutic Aesthetics* (مع كنيل وس. ليفين، 2005).
+- *Foundations of Expressive Arts Therapy: Theoretical and Clinical Perspectives* (تحرير مع ستيفن ليفين، 1999).
+- *Tending the Fire: Studies in Art, Therapy and Creativity* (1995).
+
+## الحدود والنقد
+
+يعاني حقل الفنون التعبيرية ككل من محدودية البحث التجريبي المنشور في دوريات محكّمة، ومعظم التوثيق سردي ومبني على دراسات الحالة والتجربة التدريبية. كما أن المهنة تواجه غموضاً في الهوية: فالحدود بينها وبين العلاج بالفن والعلاج بالموسيقى والعلاج بالدراما غير واضحة قانونياً في بلدان كثيرة، ويختلف الاعتراف بالشهادات من بلد إلى آخر. ويؤخذ عليها أن أدبياتها تتكئ على مفاهيم فلسفية عالية الغموض مثل «الشعرية» و«الجمالية العلاجية» دون تعريف تشغيلي. أما سيرة إيلين ليفين فتتوفر معلوماتها في الأغلب من التعريفات المؤسسية التي تنشرها المؤسسات المرتبطة بها، فلا تتوفر دراسة مستقلة لمسيرتها.
 
 ## المصادر
 
-- [Ellen G. Levine — EGS Biography](https://ahs.egs.edu/biography/ellen-g-levine/)
-- [Stephen K. Levine — EGS Biography](https://ahs.egs.edu/biography/stephen-k-levine/)
-- [European Graduate School — Wikipedia](https://en.wikipedia.org/wiki/European_Graduate_School)
-- [Principles and Practice of Expressive Arts Therapy — Google Books](https://books.google.com/books/about/Principles_and_Practice_of_Expressive_Ar.html?id=SsusL9MZGkMC)
-- [Ellen Levine, Co-Founder and Faculty — The CREATE Institute](https://www.thecreateinstitute.org/faculty.html)
+- Knill, Paolo J., Ellen G. Levine & Stephen K. Levine. *Principles and Practice of Expressive Arts Therapy: Toward a Therapeutic Aesthetics*. London: Jessica Kingsley Publishers, 2005.
+- Levine, Stephen K. & Ellen G. Levine (eds.). *Foundations of Expressive Arts Therapy: Theoretical and Clinical Perspectives*. London: Jessica Kingsley Publishers, 1999.
+- Levine, Ellen G. *Tending the Fire: Studies in Art, Therapy and Creativity*. Toronto: Palmerston Press, 1995.
+- Knill, Paolo J., Helen Nienhaus Barba & Margo N. Fuchs. *Minstrels of Soul: Intermodal Expressive Therapy*. Toronto: Palmerston Press, 1995.
+- Levine, Stephen K. *Poiesis: The Language of Psychology and the Speech of the Soul*. London: Jessica Kingsley Publishers, 1997.

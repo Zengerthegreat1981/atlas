@@ -37,10 +37,31 @@ gaps:
 
 يُعدّ دي كليمنتي الصوت السريري التطبيقي الأكثر ارتباطاً ببروتوكولات العلاج التحفيزي ومنع الانتكاس، وأثّر بعمق في دمج مفهوم «الاستعداد للتغيير» (Readiness to Change) في كل برامج العلاج من الإدمان.
 
+## نشأة النموذج وأصوله
+
+نشأ النموذج العابر للنظريات من بحوث أجراها بروتشاسكا ودي كليمنتي في جامعة رود آيلاند في أواخر السبعينيات حول كيف يقلع المدخنون عن التدخين بأنفسهم أو بمساعدة العلاج. ولاحظا أن الأشخاص الذين يغيرون سلوكهم لا يمرون بحدث واحد بل بعملية تتكون من مراحل، وأن كل مرحلة تتطلب تدخلات مختلفة. وقد نشرا الصيغة الأولى في مقال «العلاج العابر للنظريات» (1982) في مجلة «العلاج النفسي: النظرية والبحث والممارسة»، ثم في مقال «مراحل وعمليات التغيير الذاتي للتدخين» (1983) في «مجلة الاستشارة والعلاج الإكلينيكي»، وهو من أكثر المقالات استشهاداً في هذا الميدان.
+
+## مراحل التغيير وعملياته
+
+يميّز النموذج خمس مراحل هي ما قبل التفكير (precontemplation) حيث لا يعتزم الشخص التغيير، والتفكير (contemplation) حيث يدرس التغيير دون التزام، والتحضير (preparation) حيث يتخذ خطوات أولى ويضع خطة، والفعل (action) حيث يطبق التغيير في سلوكه، والاستمرار (maintenance) حيث يعمل على تثبيته ومنع الانتكاس. وإلى جانب المراحل يصف النموذج عمليات تغيير، منها رفع الوعي والتحرر العاطفي وإعادة التقويم البيئي والتحكم بالمثيرات وإدارة التعزيز، ويضيف مفاهيم أخرى هي الموازنة بين فوائد التغيير وكلفته والكفاءة الذاتية والإغراء. وقدّم دي كليمنتي مع بروتشاسكا ونوركروس عام 1992 في «علماء النفس الأمريكيين» نموذج الحلزون الذي يصوّر أن أغلب الناس يعودون إلى مراحل سابقة ثم يتقدمون بدرجة أعلى من الخبرة.
+
+## التطبيق في الإدمان
+
+ركّز دي كليمنتي في عمله على الإدمان والتدخين والكحول، وطبّق التقسيم المرحلي في تقييم المرضى وتخصيص العلاج، فجعل المعالج يتواءم مع مرحلة المريض بدل مطالبته بالفعل الفوري. وارتبط هذا مع «المقابلة التحفيزية» التي طورها ميلر ورولنيك (1991)، وصار الاثنان معاً أساساً لممارسة قائمة على احترام الدافع الداخلي. وشاركه في هذا الاتجاه كتاب «التغيير من أجل الخير» (1994) الذي كتبه مع بروتشاسكا ونوركروس للجمهور العام.
+
+## الأثر والتلقّي
+
+انتشر النموذج في مجال الصحة العامة والتدخين والتغذية والنشاط البدني والإدمان، وفي برامج التثقيف الصحي والتدخلات السلوكية، وأصبح مصطلح «مراحل التغيير» عاماً في الخطاب الصحي. ويظهر دي كليمنتي في الأدبيات بوصفه الوجه السريري والبحثي للنموذج، فقد جمع بين البحث وتدريب الممارسين.
+
+## الحدود والنقد
+
+كتب روبرت ويست عام 2005 في مجلة «Addiction» مقالاً بعنوان «حان وقت التغيير: إراحة نموذج المراحل»، رأى فيه أن النموذج يقسّم المتصل إلى مراحل اعتباطية، وأن الأدلة على أن التدخلات المطابقة للمراحل أنجع ضعيفة. ووصلت مراجعة سوتون (2001) إلى أن النتائج في تعاطي المواد ليست حاسمة. ويقول النقاد إن التمييز بين المراحل يعتمد على فترات زمنية محددة بشكل تحكّمي وعلى استبيانات تقيس النية لا السلوك، وإن الناس لا يتقدمون في تسلسل خطي. وتستمر مناقشات حول إمكان اختباره تجريبياً بصيغة قابلة للدحض.
+
 ## المصادر
 
-- Guilford Press — صفحة المؤلف: https://www.guilford.com/author/Carlo-C-DiClemente
-- Center for Evidence-Based Practices, Case Western Reserve University — لقاء مع دي كليمنتي حول النموذج العابر للنظريات: https://www.centerforebp.case.edu/stories/stages-of-change-co-creator-carlo-diclemente-discusses-practical-applications-of-his-transtheoretical-model-for-health-wellness-and-recovery
-- Guilford Press — صفحة كتاب «Addiction and Change» (الطبعة الأولى 2003 والثانية): https://www.guilford.com/books/Addiction-and-Change/Carlo-DiClemente/9781462533237
-- Case Western Reserve University — صفحة كتاب «Addiction and Change»: https://case.edu/socialwork/centerforebp/resources/addiction-and-change-how-addictions-develop-and-addicted-people-recover
-- Wikipedia — James O. Prochaska (خلفية عن تطوير TTM المشترك): https://en.wikipedia.org/wiki/James_O._Prochaska
+- James O. Prochaska and Carlo C. DiClemente, Transtheoretical Therapy: Toward a More Integrative Model of Change, Psychotherapy: Theory, Research and Practice, 1982.
+- James O. Prochaska and Carlo C. DiClemente, Stages and Processes of Self-Change of Smoking: Toward an Integrative Model of Change, Journal of Consulting and Clinical Psychology, 1983.
+- James O. Prochaska, Carlo C. DiClemente and John C. Norcross, In Search of How People Change: Applications to Addictive Behaviors, American Psychologist, 1992.
+- Carlo C. DiClemente, Addiction and Change: How Addictions Develop and Addicted People Recover, Guilford Press, 2003.
+- Robert West, Time for a Change: Putting the Transtheoretical (Stages of Change) Model to Rest, Addiction, 2005.
+- Stephen Sutton, Back to the Drawing Board? A Review of Applications of the Transtheoretical Model to Substance Use, Addiction, 2001.
