@@ -24,40 +24,39 @@ gaps:
   - "لم يُعثر على ملف مستقل لـ«ر. كينزلر» في الأطلس، ولا على ملفات مستقلة لـ«العلاج المتعدد الأنظمة (MST)» أو أنواعه الفرعية (CAN، PSB) كمفاهيم منفصلة؛ الروابط إليها أُزيلت."
   - "**أُزيلت 1 إشارةً إلى ملفاتٍ محجورة 2026-09-13:** `thk-pfisher`. كلُّها ملفاتٌ متنُها يعلن أنّه لا يمكن توثيقُ صاحبها من مصدرٍ مستقلّ، فالرابطُ يقود القارئَ إلى طريقٍ مسدود. تُعاد إن رُفع الحجر."
 ---
+
 # فيليب كَننغهام
 
-عالم نفس إكلينيكي أمريكي بارز، من أهم المساهمين في **العلاج المتعدد الأنظمة** (MST) وتطوير **بروتوكولاته** للمشكلات السلوكية للأطفال والمراهقين.
+عالم نفس إكلينيكي أمريكي يعمل في ميدان العلاج متعدد الأنظمة (Multisystemic Therapy، ويُختصر MST) ضمن مركز أبحاث الخدمات الأسرية في جامعة ساوث كارولاينا الطبية (Medical University of South Carolina)، ويرد اسمه في المنشورات أحياناً بصيغة Phillippe. يُعدّ من الجيل الثاني من المؤسسين الذين رافقوا سكوت هِنغلَر في توسيع نموذج MST من فكرة بحثية إلى برنامج منتشر في بلدان كثيرة، وهو أحد المؤلفين الخمسة للنص المرجعي لهذا العلاج. وتميّز بين زملائه باهتمامه بالكفاءة الثقافية وبإشراك الأسر الفقيرة المتعددة المشكلات في العلاج، وبتطبيقاته في المدارس وفي حالات الصحة الجسدية للمراهقين.
+
+## السياق: MST وجذوره
+
+نشأ العلاج متعدد الأنظمة في السبعينيات والثمانينيات على يد هِنغلَر وتشارلز بوردوين وزملائهما، متأثراً بنظرية برونفنبرينر في الأنظمة البيئية (Ecological Systems Theory)، التي ترى أن سلوك الطفل ينشأ في تفاعل مستويات متداخلة: الأسرة والأقران والمدرسة والحي. ومن هنا افترض النموذج أن السلوك المعادي للمجتمع لدى المراهق مُحدَّد بعوامل متعددة، وأن العلاج الفعال يتدخل في المستويات كلها معاً: تقوية مهارات الوالدين، وإبعاد المراهق عن الأقران المنحرفين، وتحسين الانتظام المدرسي، وتفعيل شبكات الدعم المجتمعي. ويقدَّم العلاج في البيت والمدرسة والحي لا في العيادة، ويتولاه فريق صغير متاح على مدار الساعة لعدة أشهر. وقد أثبتت تجارب عشوائية، منها دراسة بوردوين وزملائه عام 1995 في Journal of Consulting and Clinical Psychology، تفوق MST على العلاج المعتاد في خفض الجنوح والاحتجاز.
 
 ## ما أعطاه
 
-- تطوير **بروتوكولات MST** للأطفال والمراهقين الذين يعانون من **اضطرابات السلوك** ومشاكل الصحة النفسية، بما في ذلك:
-  - **MST-PSB** (MST for Problem Sexual Behavior).
-  - **MST-CAN** (MST for Child Abuse and Neglect).
-- إجراء **تجارب عشوائية مضبوطة** (RCTs) على فعالية MST في فئات متعددة.
-- مساهمات في **تطوير MST للشباب العائدين من مؤسسات الإصلاح** (Aftercare).
-- فصول في كتب عن **«MST والانتقال إلى الرشد»**.
+- **المشاركة في النص المرجعي**: شارك كَننغهام في تأليف كتاب «العلاج متعدد الأنظمة للسلوك المعادي للمجتمع لدى الأطفال والمراهقين» الذي صدر أول مرة عام 1998 عن دار غيلفورد، مع هِنغلَر وشونوالد وبوردوين وراولاند، وصدرت منه طبعة ثانية محدّثة عام 2009، وهو الدليل الذي يعتمده المدربون والمشرفون في تنفيذ النموذج.
+- **إشراك الأسر في العلاج**: نشر مع هِنغلَر عام 1999 في مجلة Family Process ورقة «إشراك الأسر المتعددة المشكلات في العلاج: دروس مستفادة من تطوير MST»، وعرض فيها استراتيجيات للتغلب على العقبات العملية والنفسية، ومنها الشك في المؤسسات وضيق الوقت والتجارب السلبية مع الخدمات، وأكدا أن الفشل في الاستجابة قد يعود إلى النموذج وليس إلى الأسرة.
+- **التطبيق في المدارس**: نشر مع هِنغلَر عام 2001 في Journal of Clinical Child Psychology وصفاً لتنفيذ برنامج مبني على الأدلة للوقاية من المخدرات والعنف في مدارس عامة.
+- **الكفاءة الثقافية**: شارك مع فوستر وهِنغلَر في ورقة عام 2002 بعنوان «مفهوم الكفاءة الثقافية المراوغ»، دعا فيها إلى ربط الكفاءة الثقافية بنتائج العلاج وبالتكيف الميداني، بدل الاكتفاء بالتدريب على الوعي الثقافي.
+- **توسيع النطاق السريري**: أسهم في تكييف MST لفئات مثل المراهقين المصابين بأمراض مزمنة أو بفيروس نقص المناعة البشرية ممن يواجهون صعوبات في الالتزام بالدواء، وفي دراسات عن العائدين من مؤسسات الإصلاح.
 
 ## موقعه من التيار
 
-كَننغهام من أهم **الجيل الثاني** في مؤسسة MST، ساعد في **توسيع نطاق النموذج** ليشمل فئات إكلينيكية متخصصة. تعاون مع [تشارلز بوردوين](thk-cborduin) و[بيتر فيشر](thk-pfisher) و[سونيا شونوالد](thk-sschoenwald) في الأبحاث الأولى لـ MST.
+يمثل كَننغهام حلقة تطبيقية في تيار العلاج متعدد الأنظمة الذي يجمع بين العلاج الأسري البنيوي والاستراتيجي والعلاج السلوكي المعرفي في إطار بيئي. وهو قريب من بوردوين في البحث التجريبي ومن شونوالد في نقل النموذج إلى المجتمعات. وتتعلق قيمته بالنقطة الحساسة في النموذج: كيف يُحافظ على الإخلاص في التنفيذ حين يتسع الانتشار.
 
-## علاقته بالمفاهيم والمدارس
+## حدود ونقد
 
-يرتبط [بإيذاء الطفولة](dis-child-abuse) و[باضطرابات السلوك عند المراهقين](dis-conduct-disorder) و[بعلاج السلوك الإشكالي](con-csb-treatment) كمفاهيم مركزية.
-
-## أهم أعماله
-
-- Cunningham, P. B., & Henggeler, S. W. (1999). "MST with Juvenile Offenders."
-- Henggeler, S. W., & Cunningham, P. B. (2001). *Multisystemic Therapy for Antisocial Behavior in Children and Adolescents*. Guilford Press.
-- مقالات في *Journal of Clinical Child and Adolescent Psychology* و *Journal of Consulting and Clinical Psychology*.
-- Henggeler, S. W., et al. (1998). "Multisystemic Therapy for Antisocial Children and Adolescents." *Journal of Consulting and Clinical Psychology*, 66(2), 266–277.
+- **الأدلة المستقلة**: كثير من التجارب الإيجابية أجراها مطوّرو النموذج أنفسهم، أما التجارب المستقلة فجاءت نتائجها أضعف، ومنها تجربة سوندل وزملائه في السويد عام 2008 التي لم تجد تفوقاً واضحاً على العلاج المعتاد، ومراجعة كوكرين التي أجراها ليتل وبوبا وفورسايث عام 2005 والتي رأت أن الأدلة لا تكفي لتأكيد تفوق ثابت.
+- **الكلفة والتنفيذ**: يحتاج البرنامج إلى فرق مكثفة وإشراف مستمر، وتتراجع النتائج حين لا يُنفَّذ بإخلاص، كما يقر المطورون.
+- **الفروق الثقافية**: ما زال الجدل قائماً حول ما إذا كانت التكييفات الثقافية تغير جوهر النموذج أم تغطيه فقط.
+- **الاستمرار**: تتفاوت نتائج المتابعة الطويلة بين الدراسات، ويبقى سؤال المتابعة بعد انتهاء العلاج مفتوحاً.
 
 ## المصادر
 
-- Henggeler, S. W., & Cunningham, P. B. (2001). *Multisystemic Therapy for Antisocial Behavior in Children and Adolescents*. Guilford Press.
-- Borduin, C. M., et al. (1995). "Multisystemic Treatment of Serious Juvenile Offenders." *Journal of Consulting and Clinical Psychology*, 63(4), 569–578.
-- Henggeler, S. W., et al. (2009). *Multisystemic Therapy for Children and Adolescents*. Guilford.
-- MST Services — Faculty and Research Archives.
-- McGill University, Department of Psychology — Faculty Archives.
-- Blueprints for Healthy Youth Development — MST Program Profile.
-- *Journal of Clinical Child and Adolescent Psychology* — Editorial Archives.
+- Henggeler, S. W., Schoenwald, S. K., Borduin, C. M., Rowland, M. D., & Cunningham, P. B. (1998). Multisystemic Treatment of Antisocial Behavior in Children and Adolescents. Guilford Press.
+- Cunningham, P. B., & Henggeler, S. W. (1999). Engaging multiproblem families in treatment: Lessons learned throughout the development of multisystemic therapy. Family Process, 38(3), 265–281.
+- Cunningham, P. B., & Henggeler, S. W. (2001). Implementation of an empirically based drug and violence prevention and intervention program in public school settings. Journal of Clinical Child Psychology, 30(2), 221–232.
+- Cunningham, P. B., Foster, S. L., & Henggeler, S. W. (2002). The elusive concept of cultural competence. Children's Services: Social Policy, Research, and Practice, 5(3), 231–243.
+- Sundell, K., Hansson, K., Löfholm, C. A., Olsson, T., Gustle, L. H., & Kadesjö, C. (2008). The transportability of multisystemic therapy to Sweden: Short-term results from a randomized trial of conduct-disordered youths. Journal of Family Psychology, 22(4), 550–560.
+- Borduin, C. M., Mann, B. J., Cone, L. T., Henggeler, S. W., Fucci, B. R., Blaske, D. M., & Williams, R. A. (1995). Multisystemic treatment of serious juvenile offenders: Long-term prevention of criminality and violence. Journal of Consulting and Clinical Psychology, 63(4), 569–578.

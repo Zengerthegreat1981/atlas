@@ -29,46 +29,38 @@ gaps:
 
 # راسِل باركلي
 
-عالم نفس أمريكي بارز (1949-)، أستاذ فخري في **جامعة ماساتشوستس Chan** (UMass Chan Medical School)، من أهم الباحثين في **اضطراب نقص الانتباه وفرط الحركة (ADHD)** في العالم.
+عالم نفس سريري أمريكي، وُلد عام 1949، وهو أستاذ فخري في كلية الطب بجامعة ماساتشوستس (UMass Chan Medical School) وعمل أيضاً في جامعة فرجينيا كومنولث وغيرها من الجامعات الطبية الأمريكية. يُعدّ من أكثر الباحثين تأثيراً في دراسة اضطراب نقص الانتباه وفرط الحركة (ADHD) تشخيصاً وعلاجاً، وقد جمع بين البحوث الطولية الكبرى والنماذج النظرية والكتب المرجعية للمهنيين والأسر. اشتهر بأطروحة ترى أن الاضطراب ليس نقصاً في الانتباه في جوهره، بل اضطراب في الكف السلوكي والتنظيم الذاتي والوظائف التنفيذية، وهو تصور غيّر طريقة فهم الاضطراب في الأوساط الإكلينيكية.
+
+## السياق: من فرط الحركة إلى التنظيم الذاتي
+
+كان الاضطراب يُسمى في منتصف القرن العشرين فرط الحركة أو الخلل الدماغي الطفيف، وارتبط في الدليل التشخيصي الأمريكي بتسميات تغيرت من النسخة الثانية إلى الثالثة إلى الرابعة. وتميزت أبحاث الثمانينيات بالتركيز على الانتباه، ثم جاءت أعمال باركلي لتنقل الثقل إلى الكف السلوكي. وكانت الأسر ومعلموها يُعاملون الأطفال غالباً بإجراءات تأديبية عامة، فعمل باركلي على تطوير برامج لتدريب الآباء على إدارة السلوك، مستفيداً من نموذج وضعته عالمة النفس كونستانس هانف في جامعة أوريغون، وهو النموذج الذي خرج منه أيضاً العلاج بتفاعل الوالد-الطفل (PCIT) عند شيلا إيبرغ، أي أن عمله وعمل إيبرغ ينتميان إلى جذر واحد.
 
 ## ما أعطاه
 
-- **«ADHD في البالغين»** (ADHD in Adults, 1995): أول دراسة معمّقة ومنهجية لاضطراب ADHD في البالغين، مع تحدّي الافتراض السائد بأن ADHD «اضطراب طفولي» يختفي مع البلوغ.
-- **«نموذج التنظيم الذاتي»** (Self-Regulation Model): نظرته الخاصة لـ ADHD بوصفه **اضطراب في التنظيم الذاتي**، لا مجرد «نقص انتباه». ترتبط ADHD بصعوبات:
-  - **التثبيط السلوكي** (Behavioral Inhibition).
-  - **الوظائف التنفيذية** (Executive Function).
-  - **الذاكرة العاملة** (Working Memory).
-  - **تنظيم الوقت** (Time Management).
-- **«التقييم السريري»** (Clinical Assessment): تطوير أدوات تقييمية متعددة:
-  - **مقاييس باركلي** (Barkley Scales): مقاييس تقييمية متعددة لـ ADHD عند الأطفال والبالغين.
-  - **مقابلة ADHD السريرية** (ADHD Clinical Interview).
-- **«التدريب الإكلينيكي»**: برنامج تدريبي للممارسين عبر موقعه الرسمي russellbarkley.org، من أكبر المصادر المجانية على الإنترنت.
-- **«Taking Charge of ADHD»** (1995، 2000، 2005، 2010، 2021): كتب مرجعية للأهل والممارسين.
+- **نموذج الكف السلوكي**: نشر عام 1997 في Psychological Bulletin ورقة «الكف السلوكي والانتباه المستمر والوظائف التنفيذية: بناء نظرية موحِّدة لـ ADHD»، ثم كتاب «ADHD وطبيعة ضبط النفس» (Guilford، 1997)، ورأى أن العجز الأساسي في الكف يعطل أربع وظائف تنفيذية هي الذاكرة العاملة وتنظيم الانفعال والكلام الداخلي وإعادة التركيب، فيعجز الشخص عن تنظيم سلوكه بالنسبة إلى المستقبل.
+- **الدراسات الطولية**: تابع مع فيشر وسمالش وفليتشر أطفالاً شُخّصوا بفرط الحركة منذ الطفولة إلى الرشد، ونشروا في Journal of the American Academy of Child and Adolescent Psychiatry (2006) نتائج الأداء في سن الشباب، وأظهرت استمرار الصعوبات في التعليم والعمل والعلاقات والسواقة.
+- **ADHD عند الراشدين**: ألّف مع ميرفي وفيشر «ADHD عند البالغين: ما يقوله العلم» (Guilford، 2008)، وقدّم فيه أدلة على استمرار الاضطراب وأثره في الحياة المهنية والسلامة.
+- **تدريب الوالدين**: ألّف «الأطفال المتحدّون» (Defiant Children: A Clinician's Manual for Assessment and Parent Training، 1987، وطبعات لاحقة) و«طفلك المتحدي» (Your Defiant Child، 1998، مع بنتون) وهو دليل للأسر.
+- **الكتب المرجعية**: ألّف «اضطراب نقص الانتباه وفرط الحركة: دليل للتشخيص والعلاج» (Guilford، 1990، وطبعات لاحقة) و«تولَّ زمام ADHD» (Taking Charge of ADHD، 1995 وما بعده)، و«الوظائف التنفيذية: ما هي وكيف تعمل ولماذا تطورت» (Executive Functions، 2012)، ووضع مقياس باركلي لعجز الأداء التنفيذي (BDEFS).
+- **الإيقاع المعرفي البطيء**: دعا في ورقة 2014 في Journal of Abnormal Child Psychology إلى تغيير اسم الإيقاع المعرفي البطيء (Sluggish Cognitive Tempo) إلى «اضطراب قصور التركيز»، بوصفه نمطاً متميزاً من التشتت والحلم والبطء.
+- **البيان الإجماعي**: كان من أبرز المشاركين في «بيان الإجماع الدولي حول ADHD» (Clinical Child and Family Psychology Review، 2002) الذي أكد أن الاضطراب حقيقي وله أسس بيولوجية.
 
 ## موقعه من التيار
 
-من أهم المساهمين في فهم ADHD، مع **نموذج عصبي-نفسي** للاضطراب. تكامل مع [كارولين ويبستر-ستراتون](thk-cwebster-stratton) في تطوير برامج إدارة السلوك (Incredible Years)، ومع [تشارلز زيناه](thk-czeanah) في أبحاثه حول «الطفل الصعب».
+يقف باركلي عند ملتقى علم النفس السريري للأطفال والطب النفسي العصبي، وأسهم في جعل ADHD موضوعاً رئيساً في الصحة النفسية. وقد دافع عن النموذج الطبي للاضطراب في مواجهة التشكيك الإعلامي، وفي الوقت نفسه شجّع العلاج السلوكي للأسر إلى جانب الدواء، وظهرت كتبه مرجعاً للمعالجين والآباء في بلدان كثيرة.
 
-## علاقته بالمفاهيم والمدارس
+## حدود ونقد
 
-يرتبط [باضطراب ADHD](dis-adhd) بالتنظيم الذاتي وبالوظائف التنفيذية كمفاهيم مركزية. يلتقي مع [شيلا إم. إيبِرغ](thk-ieyberg) في تطوير PCIT.
-
-## أهم أعماله
-
-- *Taking Charge of ADHD* (1995، وما بعده، Guilford Press).
-- *ADHD in Adults* (1995، مع Murphy وFischer).
-- *Your Defiant Child* (1998، مع Benton).
-- *Defiant Children* (2013).
-- *Executive Functions* (2012).
-- *Attention-Deficit Hyperactivity Disorder* (النسخة الرابعة، 2022، Guilford).
-- *Barkley Deficits in Executive Functioning Scale (BDEFS)*.
+- **عمومية العجز التنفيذي**: بيّنت دراسة ويلكوت وزملائه عام 2005 في Biological Psychiatry أن عجز الوظائف التنفيذية موجود لدى كثير من المصابين لكنه ليس شاملاً ولا كافياً لتفسير الاضطراب، وطرح نيغ وآخرون أن هناك مسارات سببية متعددة لا يختزلها نموذج واحد.
+- **الطبعنة**: يرى نقاد من الطب النفسي النقدي أن الحديث عن ADHD يوسّع حدود الاضطراب ويحوّل تنوع السلوك الطفولي إلى مرض، ويدفع إلى علاج دوائي مفرط، وهو نقد يتعلق بأفق الحقل كله.
+- **تضارب المصالح**: كغيره من قادة هذا الميدان تلقى أموالاً استشارية من جهات دوائية وناشرين، ولذلك يطلب النقاد النظر إلى ما يقوله الباحثون عن العلاج الدوائي في ضوء هذه العلاقات.
+- **الإيقاع المعرفي البطيء**: ما زال الحقل منقسماً حول اعتبار الإيقاع المعرفي البطيء كياناً مستقلاً أم بُعداً من أبعاد الانتباه.
 
 ## المصادر
 
-- Barkley, R. A. (1995). *Taking Charge of ADHD*. Guilford Press.
-- Barkley, R. A. (2012). *Executive Functions*. Guilford Press.
-- Barkley, R. A. (2022). *Attention-Deficit Hyperactivity Disorder*. Guilford Press.
-- UMass Chan Medical School — Faculty Archives.
-- RussellBarkley.org — Training Resources.
-- Barkley, R. A., & Murphy, K. R. (2006). *Attention-Deficit Hyperactivity Disorder: A Clinical Workbook*. Guilford.
-- CHADD (Children and Adults with ADHD) — Scientific Advisory Board.
+- Barkley, R. A. (1997). Behavioral inhibition, sustained attention, and executive functions: Constructing a unifying theory of ADHD. Psychological Bulletin, 121(1), 65–94.
+- Barkley, R. A. (1997). ADHD and the Nature of Self-Control. New York: Guilford Press.
+- Barkley, R. A. (2012). Executive Functions: What They Are, How They Work, and Why They Evolved. New York: Guilford Press.
+- Barkley, R. A., Murphy, K. R., & Fischer, M. (2008). ADHD in Adults: What the Science Says. New York: Guilford Press.
+- Barkley, R. A., Fischer, M., Smallish, L., & Fletcher, K. (2006). Young adult outcome of hyperactive children: Adaptive functioning in major life activities. Journal of the American Academy of Child and Adolescent Psychiatry, 45(2), 192–202.
+- Willcutt, E. G., Doyle, A. E., Nigg, J. T., Faraone, S. V., & Pennington, B. F. (2005). Validity of the executive function theory of attention-deficit/hyperactivity disorder: A meta-analytic review. Biological Psychiatry, 57(11), 1336–1346.

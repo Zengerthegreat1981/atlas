@@ -27,37 +27,42 @@ gaps:
 
 # روبن ووفيت
 
-عالم نفس اجتماعي بريطاني وأستاذ في **جامعة إيست أنغليا** (University of East Anglia). اشتُهر بتطبيق علم النفس الخطابي على ظواهر «الروحانية» و«الباراسيكولوجيا»، مع التركيز على كيفية إنتاج هذه التصنيفات في الكلام.
+عالم اجتماع بريطاني وأحد أبرز ممثلي **تحليل المحادثة** و**تحليل الخطاب**، يعمل أستاذاً في علم الاجتماع بجامعة يورك. اشتُهر بدراسة الكلام عن «الروحانية» و«الباراسيكولوجيا»، مع التركيز على كيفية إنتاج هذه التصنيفات والتجارب في الحديث اليومي. ويقع عمله على تخوم علم النفس الخطابي وعلم الاجتماع، فهو يتقاطع مع الاتجاه الذي أسسه بوتر وويذرل وإدواردز، دون أن يكون أحد أعضاء مجموعته الأولى.
 
 ## ما أعطاه
 
-- **«علم النفس الخطابي والروحانية»**: تحليل لكيفية إنتاج «التجارب الروحية» في الكلام، وكيف تتحقق «الأحداث الخارقة» عبر الخطاب (لا عبر قوى خارقة).
-- **«الباراسيكولوجيا كإنجاز خطابي»** (Parapsychology as Discursive Accomplishment): دراسات لكيفية بناء «الأدلة» على الأحداث الخارقة في الجلسات الروحانية، بما في ذلك كيفية «تأكيد» الوسطاء النفسيين لإيحاءات الحاضرين.
-- **«الأسئلة البلاغية في الكلام اليومي»** (Rhetorical Questions in Everyday Talk): دراسات لكيفية عمل الأسئلة كـ «إقناع» لا «استفهام»، مع تطبيقات على الجلسات العلاجية والحوارات العامة.
+- **تحليل رواية التجارب الخارقة**: في كتابه *Telling Tales of the Unexpected: The Organization of Factual Discourse* (1992) درس كيف يروي الناس تجاربهم الغريبة، مثل رؤية شبح أو سماع صوت، بطريقة تجعل الرواية معقولة وواقعية في وجه الشك. وبيّن أن للراوي أدوات، منها صيغة «كنت أفعل كذا حين حدث كذا»، التي تقدّم الراوي بوصفه شاهداً عادياً كان منشغلاً بعمل مألوف حين وقع الحدث الغريب، وهو ما يدعم مصداقيته. فالتحليل لا يبحث في صحة التجربة، بل في الوسائل التي يبني بها الكلام واقعيتها.
+- **لغة الوسطاء والعرافين**: في *The Language of Mediums and Psychics* (2006) حلل جلسات يقدّمها وسطاء وعرافون، وبيّن كيف يبنون المعلومات التي يعطونها للحاضرين بصياغات عامة تدعوهم إلى التعرف عليها، وكيف تُنتج الجلسة بالتعاون بين الوسيط والعميل، فيعطي كلٌّ إشارات تسهم في ظهور «المعرفة الخارقة».
+- **المنهج**: *Conversation Analysis and Discourse Analysis: A Comparative and Critical Introduction* (2005) مقارنة بين تقليدين في دراسة الكلام: تحليل المحادثة، الذي ينطلق من تتابع الأدوار في الحديث، وتحليل الخطاب بصيغته النفسية والاجتماعية. وقد شارك أيضاً مع إيان هاتشبي في كتاب *Conversation Analysis* (1998، وطبعة ثانية 2008)، وهو من المداخل المعتمدة في الحقل.
+
+## الخلفية المنهجية
+
+تقوم مدرسة تحليل المحادثة على أعمال هارفي ساكس وإيمانويل شيجلوف وغيل جيفرسون، التي بيّنت في ورقة شهيرة عام 1974 أن الحديث اليومي ينتظم بقواعد دقيقة لتبادل الأدوار، وأن الانقطاع والصمت والتصحيح ليست أحداثاً عشوائية بل لها وظائف. ويستفيد ووفيت من هذه الخلفية فيتتبع كيف يبني المتكلم حديثه بحيث ينال التصديق من المستمع، وكيف يتوقع الاعتراض فيصوغ كلامه سلفاً لدفعه. ويمتاز عمله بالتحليل المفصل لتسجيلات حقيقية بدل الاعتماد على استبيانات أو تجارب مصطنعة.
 
 ## موقعه من التيار
 
-تميّز ووفيت بتطبيق علم النفس الخطابي على ظواهر تبدو «خارج اللغة»، وهو ما يوسّع حدود التيار. تلتقي أعماله مع [ألكسا هِبِرن](thk-ahepburn) و[سوزان سبيير](thk-sspeer) في تطوير علم النفس الخطابي التطبيقي.
+يتميز ووفيت بتطبيق منهج الخطاب على ظواهر تبدو «خارج اللغة»، وهو ما يوسّع حدود التيار. وهو أقرب إلى تحليل المحادثة، المنسوب إلى ساكس وشيجلوف وجيفرسون، منه إلى علم النفس الخطابي الذي ارتبط بحلقة لافبره مع [جوناثان بوتر](thk-jpotter) و[ديرِك إدواردز](thk-dedwards). ويلتقي مع [ألكسا هِبِرن](thk-ahepburn) و[سوزان سبيير](thk-sspeer) في تطبيق التحليل الخطابي على الحياة اليومية.
 
-## القيد
+## الأثر
 
-موقعه في الأدبيات النفسية-السريرية ضعيف، لأنه يعمل في التقاطع بين علم النفس الخطابي وعلم الاجتماع المعرفي. تأثيره أكبر في «STS» (Science and Technology Studies) و«Sociology of Religion» منه في علم النفس السريري.
+أثّرت أعماله في دراسة الإيمان والتجربة الدينية والروحية بمنظور اجتماعي، وفي علم اجتماع المعرفة العلمية، وفي دراسات العلم والتقنية، فقد صار أسلوبه في تتبع بناء المصداقية في الكلام نموذجاً. وانتقل بعض ما استعمله إلى دراسة الطب النفسي، فكتب مع نيك هولت كتاب *Looking In and Speaking Out* (2011) عن الاستبطان والوعي بوصفها أنشطة تتحقق في التفاعل، ومنه ما يتصل بتجارب سماع الأصوات. ولا يُعرف لأعماله ترجمات عربية، وإن كانت مفاهيمها قابلة للتطبيق على روايات الجن والحسد والرؤى في المجتمعات العربية.
 
-## علاقته بالمفاهيم والمدارس
+## حدود ونقد
 
-يرتبط بعلم النفس الخطابي وبالباراسيكولوجيا وبالأسئلة البلاغية كمفاهيم مركزية. يلتقي مع [جوناثان بوتر](thk-jpotter) و[ديرِك إدواردز](thk-dedwards) في «مدرسة لانكستر» لعلم النفس الخطابي.
+يرى منتقدون أن ووفيت، بإحجامه عن الحكم على صحة التجارب التي يدرسها، يتجنب السؤال الذي يشغل القراء والمؤمنين وعلماء النفس: هل ما يُروى حقيقي؟ ويرى آخرون أن إصراره على التحليل الدقيق للمحادثة يقتصر على المقتطفات الصغيرة ولا يفسّر السياق الاجتماعي والثقافي الأوسع. كما تعرض منهجه لنقد علماء النفس التجريبيين، الذين يرون أن تحليل الكلام لا يغني عن دراسة الإدراك والذاكرة. ولا يظهر لدراساته أثر في علم النفس السريري إلا بشكل غير مباشر.
 
 ## أهم أعماله
 
-- *Recording the Soul: The Sociology of Psychical Research* (1992).
+- *Telling Tales of the Unexpected: The Organization of Factual Discourse* (1992).
+- *Conversation Analysis: Principles, Practices and Applications* (1998، مع إيان هاتشبي).
 - *Conversation Analysis and Discourse Analysis: A Comparative and Critical Introduction* (2005).
-- *Investigating the Supernatural: The Sociology of Psychical Research and Parapsychology* (في الإعداد).
-- مقالات في *Sociological Review* و *Discourse Studies* و *Sociology of Health & Illness*.
+- *The Language of Mediums and Psychics: The Social Organization of Everyday Miracles* (2006).
+- *Looking In and Speaking Out: Introspection, Consciousness, Communication* (2011، مع نيك هولت).
 
 ## المصادر
 
-- Wooffitt, R. (1992). *Recording the Soul: The Sociology of Psychical Research*. Routledge.
-- Wooffitt, R. (2005). *Conversation Analysis and Discourse Analysis*. Sage.
-- Potter, J., & Wetherell, M. (1987). *Discourse and Social Psychology*. Sage.
-- Hepburn, A., & Wiggins, S. (eds.) (2007). *Discursive Research in Practice*. Cambridge University Press.
-- University of East Anglia, Department of Psychology — Faculty Profile.
+- Wooffitt, R. (1992). *Telling Tales of the Unexpected: The Organization of Factual Discourse*. Hemel Hempstead: Harvester Wheatsheaf.
+- Wooffitt, R. (2005). *Conversation Analysis and Discourse Analysis: A Comparative and Critical Introduction*. London: Sage.
+- Wooffitt, R. (2006). *The Language of Mediums and Psychics: The Social Organization of Everyday Miracles*. Aldershot: Ashgate.
+- Potter, J., & Wetherell, M. (1987). *Discourse and Social Psychology: Beyond Attitudes and Behaviour*. London: Sage.
+- Sacks, H., Schegloff, E. A., & Jefferson, G. (1974). "A simplest systematics for the organization of turn-taking for conversation." *Language*, 50(4), 696–735.

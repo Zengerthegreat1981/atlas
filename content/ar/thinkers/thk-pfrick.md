@@ -25,29 +25,35 @@ gaps:
 
 # بول فريك
 
-عالم نفس أمريكي، من أهم الباحثين في التقييم الفارقي للسلوك المعادي للمجتمع عند الأطفال. اشتغل في تقسيم "Callous-Unemotional" (CU) في البُعد الانفعالي، وأعاد تأطير المعالجة حول هذه الفئة.
+عالم نفس سريري أمريكي، أستاذ في جامعة ولاية لويزيانا (Louisiana State University) وعمل سابقاً في جامعة نيو أورلينز، وهو من أبرز الباحثين المعاصرين في اضطرابات السلوك لدى الأطفال والمراهقين. اشتهر بإسهامه في ما صار يُعرف بالسمات القاسية وغير الانفعالية (Callous-Unemotional Traits، وتُختصر CU)، أي نقص التعاطف والذنب والاهتمام بمشاعر الآخرين، وبأنها تحدد مساراً فرعياً داخل السلوك المعادي للمجتمع يختلف في أسبابه ونذره وطرق علاجه عن المسار الغالب. وقد أصبح هذا المفهوم عنصراً في نظام التصنيف التشخيصي الأمريكي، وانعكس على الأبحاث الجنائية والتربوية والعلاجية.
+
+## السياق: اضطراب السلوك وتنوّعه
+
+كان تشخيص اضطراب السلوك (Conduct Disorder) في ثمانينيات القرن العشرين يجمع تحت اسم واحد أطفالاً مختلفين في الأعراض والمسار: بعضهم يظهر عدوانه استجابة لتهديد أو استفزاز ويصاحبه انفعال شديد، وبعضهم يتصرف ببرود وتخطيط وقلة اكتراث. ورأى فريك، متأثراً بأعمال روبرت هير في السيكوباتية لدى الراشدين، أن هناك بعداً انفعالياً يستحق أن يُستخرج ويُدرس منفصلاً، وأن الطفولة هي الفترة التي يمكن فيها تتبع جذوره قبل أن يتحول إلى نمط ثابت في الرشد. وقد جمع هذا الخط بين علم النفس التنموي المرضي وعلم النفس السريري للأطفال والطب النفسي الشرعي.
 
 ## ما أعطاه
 
-- **مفهوم "Callous-Unemotional Traits" (CU)**: البُعد البارز في اضطراب السلوك، الذي يميّز فئة تنذر بمسار أطول وأقسى.
-- **أداة APSD (Antisocial Process Screening Device)**: أداة تقييم لسمات CU والعدوانية النرجسية.
-- **إسهامات في DSM-5**: صياغة محدد "Limited Prosocial Emotions" ضمن اضطراب السلوك.
-- **كتب مرجعية**: *Antisocial Behavior in Children and Adolescents* (مع J. E. Lochman وD. J. Loney، 2003).
+- **أداة APSD**: وضع مع روبرت هير جهاز فحص عمليات المعاداة للمجتمع (Antisocial Process Screening Device) الصادر عن Multi-Health Systems عام 2001، وهو مقياس يملؤه الوالد أو المعلم عن الطفل ويقيس أبعاد القسوة وعدم الانفعال والنرجسية والاندفاعية، ثم طوّر لاحقاً قائمة السمات القاسية وغير الانفعالية (Inventory of Callous-Unemotional Traits)، وهي من المقاييس الأكثر انتشاراً في البحث.
+- **تحديد مسار فرعي ذي أسباب مختلفة**: بيّنت دراساته أن الأطفال المرتفعين في CU يتميزون بضعف الاستجابة للإشارات العاطفية كالخوف والحزن في وجوه الآخرين، وبتفضيل المكافأة على العقاب، وبعدوان أكثر تعمداً ونفعية، وبمسار أطول عبر الزمن، وقد وُثّق ذلك في ورقة فريك ووايت عام 2008 في Journal of Child Psychology and Psychiatry بعنوان «مراجعة بحثية: أهمية السمات القاسية وغير الانفعالية للنماذج التنموية للسلوك العدواني والمعادي للمجتمع».
+- **مستوى الاستقرار**: أظهرت دراسة فريك ودانتاغنان عام 2005 ودراسات أخرى أن CU تتنبأ بشدة المشكلات واستمرارها حتى بعد ضبط مستوى الأعراض السلوكية.
+- **معيار التشخيص**: شارك مع آخرين في اقتراح موصِّف «العاطفة الاجتماعية المحدودة» (Limited Prosocial Emotions) لاضطراب السلوك، وقدّم هو وموفيت مقترحاً بهذا المعنى لفرق العمل في النسخة الخامسة من الدليل التشخيصي والإحصائي، وقد اعتُمد الموصِّف في DSM-5 عام 2013.
+- **الآثار العلاجية**: أشارت مراجعة فريك وراي وثورنتون وكان عام 2014 في Psychological Bulletin إلى أن مرتفعي CU يستجيبون بدرجة أقل لأساليب العقاب المعتادة وأفضل لبرامج تقوم على المكافأة والدفء الأبوي، ما يستوجب تكييف التدخل وفق السمات.
 
 ## موقعه من التيار
 
-يقف فريك عند ملتقى علم النفس السريري للأطفال، علم النفس التنموي، والطب النفسي الشرعي. تأثيره امتدّ إلى DSM-5 في صياغة المعايير الفرعية لاضطراب السلوك.
+يقف فريك عند تقاطع ثلاثة حقول: علم نفس الطفل السريري، وعلم النفس التنموي، والطب النفسي الشرعي. وهو بهذا ينتمي إلى مقاربة تقول إن العدوان ليس ظاهرة واحدة، وإن علاجه يحتاج إلى تشخيص فارق. ويلتقي عمله مع أبحاث أدريان راين في الأساس العصبي لعدوان الأطفال، ومع ما أنجزه فيدنغ وهاوز وداد في أستراليا وبريطانيا عن علاج الأطفال ذوي السمات القاسية.
 
-## أهم أعماله
+## حدود ونقد
 
-- *Antisocial Behavior in Children and Adolescents: A Developmental Perspective* (2003).
-- مقالات محورية في *Journal of Child Psychology and Psychiatry* و*Journal of Abnormal Child Psychology*.
-
-## القيد
-- **محدد "Limited Prosocial Emotions"** في DSM-5 موضع نقاش بين من يراه تنميطاً مبكراً ومن يراه فائدة سريرية.
+- **الوصم والتنبؤ المبكر**: يخشى منتقدون من أن وسم طفل بأنه قليل التعاطف قد يرسّخ التوقعات السلبية ويقلل من استعداد المربين لاستثماره، وهو ما يردّ عليه الباحثون بأن السمات تتغير بالتدخل، وأن ما تقيسه الأدوات ليس قدراً ثابتاً.
+- **صلاحية الموصِّف**: ما زال النقاش قائماً حول ما إذا كانت CU تصلح موصِّفاً تشخيصياً مستقلاً أم بعداً متصلاً، وحول مدى ثباتها بين مصادر المعلومات (الوالد، المعلم، الذات)، ولم تحسم الدراسات الطولية موضوع الاستقرار على المدى الطويل.
+- **البعد الثقافي**: أغلب العينات من أوروبا وأمريكا الشمالية، والمعايير الاجتماعية للتعاطف والبرود تختلف بين الثقافات، وهو ما يستدعي تحققاً محلياً من الأدوات قبل استعمالها في سياقات أخرى.
+- **حدود التدخل**: الأدلة على فعالية العلاج لدى مرتفعي CU قليلة نسبياً، وتُجرى على عينات صغيرة، كما في دراسة هاوز وداد عام 2005 في Journal of Consulting and Clinical Psychology.
 
 ## المصادر
 
-- Frick, Paul J., and Hare, Robert D. *The Antisocial Process Screening Device (APSD)*. Multi-Health Systems, 2001.
-- Frick, Paul J., and White, Stuart F. "Research Review: The Importance of Callous-Unemotional Traits for Developmental Models of Aggressive and Antisocial Behavior." *Journal of Child Psychology and Psychiatry*, 2008.
-- Frick, Paul J., Ray, James V., Thornton, Laura C., and Kahn, Rachel E. "Can Callous-Unemotional Traits Enhance the Understanding, Diagnosis, and Treatment of Serious Conduct Problems in Children and Adolescents?" *Psychological Bulletin*, 2014.
+- Frick, P. J., & Hare, R. D. (2001). Antisocial Process Screening Device (APSD). Multi-Health Systems.
+- Frick, P. J., & White, S. F. (2008). Research review: The importance of callous-unemotional traits for developmental models of aggressive and antisocial behavior. Journal of Child Psychology and Psychiatry, 49(4), 359–375.
+- Frick, P. J., Ray, J. V., Thornton, L. C., & Kahn, R. E. (2014). Can callous-unemotional traits enhance the understanding, diagnosis, and treatment of serious conduct problems in children and adolescents? A comprehensive review. Psychological Bulletin, 140(1), 1–57.
+- Frick, P. J., & Dantagnan, A. L. (2005). Predicting the stability of conduct problems in children with and without callous-unemotional traits. Journal of Child and Family Studies, 14(4), 469–485.
+- Hawes, D. J., & Dadds, M. R. (2005). The treatment of conduct problems in children with callous-unemotional traits. Journal of Consulting and Clinical Psychology, 73(4), 737–741.

@@ -52,14 +52,16 @@ gaps:
 - *Social Style/Management Style* (1984، مع دوروثي غروفر بولتون).
 - *People Styles at Work* (1996، معها).
 
-## مداخلُ الأطلس المتّصلة
+## السياق التاريخي والتلقي
 
-مداخلُ الأطلس المتّصلةُ بهذا المدخل (من حقل `related`) — وهي إحالاتٌ داخلية، لا مصادرُ خارجية:
+ظهر كتاب بولتون في سياق انتقال تقنيات العلاج النفسي إلى التدريب المهني. فقد نشر كارل روجرز وريتشارد فارسون عام 1957 دراسة «الإصغاء النشط» لمركز العلاقات الصناعية بجامعة شيكاغو، وطبّقها توماس غوردون في «التدريب على فعالية الوالدين» (1970) و«التدريب على فعالية القادة» (1977). وجاء بولتون بعد ذلك ليجمع هذا التراث مع أدبيات التوكيدية في برنامج واحد للتدريب على مهارات التواصل، وبأمثلة من بيئات العمل والأسرة. وقد استُخدم الكتاب في برامج تدريب المديرين والممرضين والمعلمين، ولم نقف في هذه المراجعة على ترجمة عربية موثقة له.
 
-- *مهارات التعامل مع الناس*
+وفي الأدبيات البحثية اللاحقة جاءت نتائج أكثر تحفظاً حول أثر التقنيات الصغيرة. فقد وجد ويغر وكاسل وإيمت (2010) أن إعادة الصياغة لا تحسّن بالضرورة شعور المتحدث بأن مستمعه يصغي، وأن المهم هو الانتباه الحقيقي ومظاهر الاهتمام العامة. ويعزز هذا ما يؤكده بولتون نفسه من أن الصيغ لا تغني عن النية الصادقة.
 
 ## المصادر
 
-**أعمالٌ أوّليةٌ يستند إليها المتن:**
-
-- روبرت بولتون — *مهارات التعامل مع الناس: كيف تؤكد ذاتك وتستمع للآخرين وتحل النزاعات* (1979، بالإنجليزية)
+- Bolton, R. (1979). People Skills: How to Assert Yourself, Listen to Others, and Resolve Conflicts. Englewood Cliffs, NJ: Prentice-Hall.
+- Bolton, R., & Bolton, D. G. (1984). Social Style/Management Style: Developing Productive Work Relationships. New York: AMACOM.
+- Gordon, T. (1970). Parent Effectiveness Training. New York: Peter H. Wyden.
+- Rogers, C. R., & Farson, R. E. (1957). Active Listening. Chicago: Industrial Relations Center, University of Chicago.
+- Weger, H., Castle, G. R., & Emmett, M. C. (2010). "Active listening in peer interviews: The influence of message paraphrasing on perceptions of listening skill." International Journal of Listening, 24(1), 34–49.

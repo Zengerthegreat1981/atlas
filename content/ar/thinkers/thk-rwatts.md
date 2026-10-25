@@ -29,7 +29,7 @@ gaps:
 
 ## ما أعطاه
 
-شارك جون كارلسون (Jon Carlson) ومايكل مانياتشي (Michael Maniacci) وألفريد أدلر بالتراث النظري في تأليف «Adlerian Therapy: Theory and Practice» (2006)، وهو من أهم مراجع العلاج الأدلري المعاصر باللغة الإنجليزية. كما ألّف مع كارلسون «Intervention & Strategies in Counseling and Psychotherapy»، ونشر فصولاً وأبحاثاً في «Journal of Individual Psychology» حول تقنيات الإرشاد الأدلري وتوسيع تقنية «التصرّف كأنّ» (Acting "As If").
+شارك جون كارلسون (Jon Carlson) ومايكل مانياتشي (Michael Maniacci) في تأليف «Adlerian Therapy: Theory and Practice» (2006)، وهو من أهم مراجع العلاج الأدلري المعاصر باللغة الإنجليزية. كما ألّف مع كارلسون «Interventions and Strategies in Counseling and Psychotherapy» (2010)، ونشر فصولاً وأبحاثاً في «Journal of Individual Psychology» حول تقنيات الإرشاد الأدلري وتوسيع تقنية «التصرّف كأنّ» (Acting "As If").
 
 ## موقعه من التيار
 
@@ -41,10 +41,32 @@ gaps:
 
 ## أهم أعماله
 
-Adlerian Therapy: Theory and Practice (2006، مع J. Carlson وM. Maniacci) · Intervention & Strategies in Counseling and Psychotherapy (مع J. Carlson).
+Adlerian Therapy: Theory and Practice (2006، مع J. Carlson وM. Maniacci) · Interventions and Strategies in Counseling and Psychotherapy (2010، مع J. Carlson).
+
+## موقعه في الإرشاد الأدلري
+
+يعمل ريتشارد واتس أستاذاً في الإرشاد النفسي، وقد كرّس جزءاً كبيراً من حياته الأكاديمية لإبقاء علم النفس الفردي حاضراً في تدريب المرشدين الأمريكيين. ويعرف الأدلريون بأنه كان من المحررين البارزين في *Journal of Individual Psychology*، وهي الدورية التي حررها هاينز وروينا آنسْباخِر سنوات طويلة وحافظت على استمرار المدرسة وإنتاجها العلمي. وتأتي أهميته من أنه ينتمي إلى جيل يريد أن يضع علم النفس الفردي في حوار مع تيارات حديثة، لا أن يكتفي بتكرار نصوص أدلر، وأن يُظهر لطلاب الإرشاد أن ما كتبه قبل قرن يلامس مسائل يطرحونها اليوم.
+
+## الحوار مع العلاجات الأخرى
+
+دافع واتس في مقالة عام 1998 عن أن بين شروط روجرز الجوهرية والاهتمام الاجتماعي عند أدلر تشابهاً لافتاً، فالقبول والتعاطف والأصالة عند روجرز تقابل ما سمّاه أدلر الشعور بالانتماء إلى الإنسانية. وبيّن بهذا أن الخلاف بين المدرستين في الصياغة أكثر منه في الجوهر. وفي مقالة عام 2000 مع بيتزاك قارن بين التشجيع الأدلري والعلاج المختصر المتمركز على الحل، ورأى أن الأخير يقوم على ممارسات قريبة مما دعا إليه أدلر من توجيه الانتباه إلى القدرات والاستثناءات. وفي كتابه الذي حرّره عام 2003 عن الأدلرية والعلاجات المعرفية والبنائية، حاول الجمع بين تقاليد ثلاثة تتشارك في فكرة أن الإنسان يصنع معنى لخبرته ويتصرف بحسبه.
+
+## التشجيع والتصرف كأنّ
+
+تحتل فكرة **التشجيع** موقعاً مركزياً في العمل الأدلري: فالمرشد يبني الثقة بقدرة الشخص على التغيير عبر ملاحظة جهوده لا نتائجه. وطوّر واتس شرح تقنية **التصرف كأنّ**، التي يطلب فيها المرشد من العميل أن يتصرف أياماً كما لو كان قد حقق ما يريد، فيكتشف قدرته ويختبر معتقداته عن نفسه. ويرى أن هذه التقنية تتفق مع اتجاه بنائي يعدّ المعتقدات فروضاً تُختبر في السلوك. وقد جعل من هذه الفكرة جسراً بين الأدلرية والمنظور البنائي.
+
+## التعليم والتدريب
+
+الكتاب الذي شارك فيه كارلسون ومانياتشي عام 2006 تعليمي بامتياز، فهو يقدّم النظرية وتقنيات المقابلة ويعرض حالات تطبيقية، وجاء في سلسلة نظريات العلاج التي تصدرها جمعية علم النفس الأمريكية، فصار مرجعاً لطلاب الدراسات العليا. ثم كتب مع كارلسون دليلاً عن التدخلات والاستراتيجيات في الإرشاد والعلاج، يجمع تقنيات من مدارس مختلفة ويشرح متى تُستعمل.
+
+## حدود ونقد
+
+يلاحظ أن واتس أقرب إلى الشارح الجامع منه إلى المنظّر المجدّد، وأن مساهمته في بنية النظرية الأدلرية محدودة قياساً إلى تأثيره في تعليمها. وتعاني مقارباته التوفيقية من خطر تذويب هوية المدرسة فيما تقارن به، وينبه نقاد أدلريون إلى أن بعض ما يُقرّب إلى البنائية يقلل من البعد الاجتماعي والأخلاقي في أدلر. كما أن الأدلة التجريبية على تقنية التصرف كأنّ وعلى التشجيع الأدلري تبقى قليلة، وأكثرها دراسات حالة. أما أثره العربي فلا يتحدد بتوثيق في ترجمات.
 
 ## المصادر
 
-- ResearchGate — Richard E. Watts profile, "Adlerian Counseling": https://www.researchgate.net/profile/Richard-Watts-2
 - Carlson, J., Watts, R.E., & Maniacci, M. (2006). *Adlerian Therapy: Theory and Practice*. American Psychological Association.
-- Watts, R.E. & Carlson, J. *Intervention & Strategies in Counseling and Psychotherapy*. Routledge.
+- Carlson, J., & Watts, R. E. (2010). *Interventions and Strategies in Counseling and Psychotherapy*. Routledge.
+- Watts, R. E. (1998). "The remarkable similarity between Rogers's core conditions and Adler's social interest." *Journal of Individual Psychology*, 54(1), 4–10.
+- Watts, R. E., & Pietrzak, D. (2000). "Adlerian 'encouragement' and the therapeutic process of solution-focused brief therapy." *Journal of Counseling and Development*, 78(4), 442–447.
+- Watts, R. E. (Ed.) (2003). *Adlerian, Cognitive, and Constructivist Therapies: An Integrative Dialogue*. New York: Springer.

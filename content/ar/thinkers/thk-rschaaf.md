@@ -35,7 +35,7 @@ gaps:
 - **نموذج التكامل الحسي القائم على الأدلة** (ASI-EBP): قادت شاف تطوير «إطار أَيرس للتكامل الحسي» (Ayres Sensory Integration) بوصفه ممارسة قائمة على الأدلة (EBP)، مع تجارب سريرية عشوائية محكّمة (RCTs) في التوحد واضطرابات المعالجة الحسية.
 - **«DataDriven» ومنهجية البحث التطبيقي**: أشرفت على تطوير بروتوكولات علاجية قائمة على البيانات (Data-Driven Decision Making) في العلاج المهني.
 - **التكامل الحسي والتوحد**: نشرت دراسات تجريبية (منها تجربة 2014 في *Journal of Autism and Developmental Disorders*) أظهرت أثر التكامل الحسي على الأطفال التوحديين.
-- **الأبحاث السريرية**: قادت تجارب سريرية محكّمة لفعالية التكامل الحسي مع أطفال التوحد، وحصلت على تمويل من NICHD و AOTA لهذه الأبحاث.
+- **الأبحاث السريرية**: قادت تجارب سريرية محكّمة لفعالية التكامل الحسي مع أطفال التوحد، وتلقّت تمويلاً بحثياً لهذه الأبحاث.
 - **مختبر الأبحاث الانتقالية** (Translational Research Lab): أسّست في جامعة توماس جيفرسون مختبراً متخصصاً في نقل الأبحاث إلى الممارسة السريرية.
 
 ## موقعها من التيار
@@ -52,15 +52,33 @@ gaps:
 
 ## أهم أعمالها
 
-- *Sensory Integration: Theory and Practice* (2020، مع لوسيا ميلر وآخرين) — المرجع الأهم في الحقل حالياً.
-- Schaaf, R. C., et al. (2014). "An Intervention for Sensory Difficulties in Children with Autism: A Randomized Trial." *Journal of Autism and Developmental Disorders*, 44(7), 1679–1688.
+- Schaaf, R. C., et al. (2014). "An Intervention for Sensory Difficulties in Children with Autism: A Randomized Trial." *Journal of Autism and Developmental Disorders*, 44(7), 1493–1506.
 - Schaaf, R. C., & Mailloux, Z. (2015). "A Clinician's Guide for Implementing Ayres Sensory Integration." AOTA Press.
-- *Sensory Integration and the Child* (فصول متعددة).
+
+## الإطار النظري: من أيرس إلى الدليل
+
+ولدت نظرية التكامل الحسي في ستينيات القرن العشرين على يد المعالجة المهنية آنا جين أيرس، التي افترضت أن الدماغ ينظّم المعلومات الحسية من اللمس والحركة والتوازن لينتج سلوكاً تكيفياً، وأن اضطراب هذا التنظيم عند بعض الأطفال يؤثر في التعلم والسلوك. وظلت النظرية زمناً طويلاً موضع جدل لأن أدلتها الأولى جاءت من الملاحظة السريرية ودراسات صغيرة، وانتقدتها أوساط طبية وتربوية. وجاءت شاف في جيل أخذ على عاتقه أن يبرهن بالمنهج التجريبي على ما كانت الممارسة تدّعيه، وأن يفصل بين ما يمكن اختباره وما يبقى فرضية. ومن هنا أهمية تعريف الممارسة بدقة، فشاركت في عمل جماعي عام 2007 وضع مقياساً للأمانة العلاجية يحدد العناصر التي تجعل التدخل تكاملاً حسياً حقيقياً، حتى لا تُنسب إلى المنهج ممارسات لا تمتّ إليه.
+
+## التجربة المضبوطة على التوحد
+
+مثّلت تجربة 2014 في *Journal of Autism and Developmental Disorders* أهم أعمال شاف، وهي تجربة عشوائية قارنت بين علاج مهني قائم على تكامل أيرس الحسي ومعالجة بالرعاية المعتادة لأطفال من ذوي طيف التوحد وصعوبات حسية. واعتمدت على دليل علاج مفصّل ومقاييس لأهداف الأسرة، وأظهرت تحسناً أكبر في تحقيق الأهداف لدى المجموعة المعالجة. وتبعتها مراجعة منهجية عام 2018 مع زملاء لها قيّمت الأدلة على فعالية العلاج المهني بتكامل أيرس الحسي لدى الأطفال، وخلصت إلى أن الأدلة تدعم التدخل في فئات محددة.
+
+## الأسرة والروتين اليومي
+
+لم تقتصر شاف على قياس الأعراض، بل درست أثر الصعوبات الحسية على حياة الأسرة. ففي دراسة عام 2011 مع زملاء لها وصفت كيف تتأثر روتينات الأسر التي لديها أطفال مصابون بالتوحد بالحساسية الحسية، مثل صعوبة الأكل والنوم والخروج إلى الأماكن العامة، وكيف تغيّر الأسر عاداتها لتتجنب المثيرات. ويعكس ذلك اتجاه العلاج المهني إلى المشاركة في الحياة اليومية لا إلى الوظيفة العصبية وحدها.
+
+## الأثر
+
+أسهمت أعمالها في أن يعامل الحقل المهني التكامل الحسي بوصفه ممارسة تُختبر، وفي أن تُعتمد معايير الأمانة في البحث. وتنتشر في البلدان العربية خدمات العلاج المهني للأطفال، وتستعمل فيها مقاييس حسية عالمية، لكن الأدبيات المنشورة عن التكامل الحسي بالعربية قليلة ومتصلة في الغالب بأبحاث ترجمة المقاييس وتكييفها.
+
+## حدود ونقد
+
+ما زال بعض الباحثين يرى أن حجم الأثر في التجارب المنشورة متواضع، وأن العينات صغيرة، وأن الأهداف التي حددتها الأسر قد تتأثر بتوقعات الوالدين لأنهم يعرفون التدخل الذي يتلقاه أطفالهم. وأصدرت جمعيات طبية، منها الأكاديمية الأمريكية لطب الأطفال في مراجعتها لعام 2012، توصيات متحفظة تقول بوجوب التحفظ في وصف العلاج الحسي بوصفه علاجاً راسخاً. كما يشتكي ممارسون كثر من أن توحيد البروتوكول يفقد المنهج مرونته. وبين الأمرين يتحرك عمل شاف: الدفاع عن النظرية بأدوات خصومها.
 
 ## المصادر
 
 - Schaaf, R. C., & Miller, L. J. (2005). "Occupational Therapy Using a Sensory Integrative Approach for Children with Developmental Disabilities." *Mental Retardation and Developmental Disabilities Research Reviews*, 11(2), 143–148.
-- Schaaf, R. C., et al. (2014). "An Intervention for Sensory Difficulties in Children with Autism." *J Autism Dev Disord*, 44(7), 1679–1688.
-- American Occupational Therapy Association (AOTA) — Sensory Integration Special Interest Section.
-- Thomas Jefferson University, Department of Occupational Therapy — Faculty Profile.
-- Ayres Sensory Integration (ASI) Certification Program — Program Materials.
+- Schaaf, R. C., et al. (2014). "An Intervention for Sensory Difficulties in Children with Autism." *Journal of Autism and Developmental Disorders*, 44(7), 1493–1506.
+- Schaaf, R. C., Dumont, R. L., Arbesman, M., & May-Benson, T. A. (2018). "Efficacy of occupational therapy using Ayres Sensory Integration: A systematic review." *American Journal of Occupational Therapy*, 72(1), 7201190010.
+- Schaaf, R. C., Toth-Cohen, S., Johnson, S. L., Outten, G., & Benevides, T. W. (2011). "The everyday routines of families of children with autism: Examining the impact of sensory processing difficulties on the family." *Autism*, 15(3), 373–389.
+- Parham, L. D., et al. (2007). "Fidelity in sensory integration intervention research." *American Journal of Occupational Therapy*, 61(2), 216–227.
