@@ -24,18 +24,24 @@ gaps:
 
 ## مداخلة غادامير: «نص وتأويل»
 
-افتتح غادامير بورقة بعنوان «Text und Interpretation» عرض فيها موقفه من أن كل قراءة هي محاولة تفاهم (Verständigung) تفترض حسن نية مشترك بين القارئ والنص، وأن التأويل — مهما تعدد — يظل مشدوداً إلى أفق اندماج (Horizontverschmelzung) ممكن مع معنى النص.
+افتتح غادامير بورقة بعنوان «Text und Interpretation» عرض فيها موقفه من أن كل قراءة هي محاولة تفاهم (Verständigung) تفترض حسن نية مشترك بين القارئ والنص، وأن التأويل، مهما تعدد، يظل مشدوداً إلى أفق اندماج (Horizontverschmelzung) ممكن مع معنى النص. وجعل شرط الفهم الإرادة الجادة في الإصغاء، فإذا غابت انقطع الحوار.
 
 ## اعتراض دريدا: «إرادات القوة الطيبة»
 
-رد دريدا بمداخلة بعنوان «Bonnes volontés de puissance» (إرادات القوة الطيبة)، شكك فيها في افتراض غادامير أن التفاهم ينبني على «حسن نية» مشترك، معتبراً أن هذا الافتراض يخفي بقايا ميتافيزيقا الحضور، وأن أي نص ينفتح على قراءات متصارعة لا يحكمها أفق اندماج بل تصدّع بنيوي (différance) لا يُرَدّ إلى تفاهم نهائي.
+رد دريدا بمداخلة بعنوان «Bonnes volontés de puissance» (إرادات القوة الطيبة)، وهو عنوان يلعب على «الإرادة الطيبة» عند كانط و«إرادة القوة» عند نيتشه. شكك فيها في افتراض غادامير أن التفاهم ينبني على «حسن نية» مشترك، فسأل هل يمكن جعل الإرادة الطيبة شرطاً للتواصل دون العودة إلى ميتافيزيقا الذاتية والحضور، وهل يفترض التفاهم استمرار الصلة والوحدة بين المتحاورين. واعتبر أن أي نص ينفتح على قراءات متصارعة لا يحكمها أفق اندماج بل تصدّع بنيوي (différance) لا يُردّ إلى تفاهم نهائي.
 
 ## غياب التقاطع الفعلي
 
-لاحظ الحضور والمعلقون لاحقاً (منهم مانفريد فرانك) أن المتحاورين لم يتبادلا رداً مباشراً على أسئلة بعضهما البعض خلال الجلسة نفسها؛ نُشرت المداخلات لاحقاً منفصلة في الألمانية والفرنسية، وجُمعت مع تعليقات لاحقة (بينها رد غادامير «Und dennoch: Macht des guten Willens») في المجلد الإنجليزي *Dialogue and Deconstruction: The Gadamer-Derrida Encounter* (تحرير Diane P. Michelfelder وRichard E. Palmer، 1989).
+لاحظ الحضور والمعلقون لاحقاً أن المتحاورين لم يتبادلا رداً مباشراً على أسئلة بعضهما البعض خلال الجلسة نفسها؛ نُشرت المداخلات لاحقاً منفصلة في الألمانية والفرنسية، ونُشر معها رد غادامير المتأخر «Und dennoch: Macht des guten Willens» (ومع ذلك: قوة الإرادة الطيبة)، وجُمعت في المجلد الإنجليزي Dialogue and Deconstruction: The Gadamer-Derrida Encounter (تحرير Diane P. Michelfelder وRichard E. Palmer، 1989). وفي ردّه رأى غادامير أن دريدا نفسه، وهو يكتب ليُفهم، يفترض إرادة التفاهم التي يشكك فيها، وأن الكلام الجاد يقتضي افتراض أن الآخر يريد أن يفهمنا.
+
+## الأثر وقراءات لاحقة
+
+انقسم الشراح في تقدير اللقاء: رأى بعضهم أن الخلاف أقل من ظاهره، وأن في فكر كل منهما ما يقرّب إلى الآخر، كاهتمامهما بتاريخية المعنى وبحدود الذات. ورأى آخرون أن الخلاف جوهري بين أنطولوجيا الحوار وأنطولوجيا الاختلاف. وكتب دريدا بعد وفاة غادامير سنة 2002 نصاً تأبينياً بعنوان Béliers: Le dialogue ininterrompu (2003) وصف فيه الحوار بينهما بأنه حوار لم ينقطع. وقد ترجم كتاب غادامير الحقيقة والمنهج إلى العربية، وصار المقارنة بين التأويل والتفكيك موضوعاً متداولاً في الدراسات العربية للنص.
 
 ## المصادر
 
-- Michelfelder, Diane P. and Palmer, Richard E. (eds.), *Dialogue and Deconstruction: The Gadamer-Derrida Encounter*, State University of New York Press, 1989.
-- Forget, Philippe (ed.), *Text und Interpretation*, Wilhelm Fink Verlag, München, 1984.
-- Frank, Manfred, "The Text and Its Style: Schleiermacher's Hermeneutic Theory of Language" (تعليق على وقائع الندوة).
+- Michelfelder, Diane P. and Palmer, Richard E. (eds.). *Dialogue and Deconstruction: The Gadamer-Derrida Encounter*. Albany: State University of New York Press, 1989.
+- Forget, Philippe (ed.). *Text und Interpretation*. München: Wilhelm Fink Verlag, 1984.
+- Gadamer, Hans-Georg. *Gesammelte Werke*, Bd. 2: *Hermeneutik II*. Tübingen: Mohr Siebeck, 1986.
+- Derrida, Jacques. *Béliers: Le dialogue ininterrompu: entre deux infinis, le poème*. Paris: Galilée, 2003.
+- غادامير، هانس-جورج. *الحقيقة والمنهج*، ترجمة حسن ناظم وعلي حاكم صالح. طرابلس: دار أويا، 2007.

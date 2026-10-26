@@ -39,9 +39,24 @@ gaps:
 
 في *ظاهراتية الإدراك* (Phénoménologie de la perception، 1945) يذهب مرلو-بونتي أبعد من هوسرل: إدراكي للآخر يحدث عبر «الجسد الحي» (corps vécu) مباشرة في التفاعل السلوكي والحركي المشترك — كابتسامة الطفل التي تُدرَك كتعبير لا كإشارة يُستدل منها على حالة داخلية خفية، فتسقط ثنائية الداخل/الخارج التي تولّد المشكلة أصلاً.
 
+## نظرية المحاكاة والأعصاب المرآتية
+
+ظهرت في علم النفس الفلسفي المعاصر بدائل عن الاستدلال بالمماثلة: «نظرية النظرية» التي ترى أننا نفسر الآخرين بنظرية شعبية ضمنية عن العقل، و«نظرية المحاكاة» التي صاغها روبرت غوردون في «علم النفس الشعبي بوصفه محاكاة» (١٩٨٦) وتقول إننا نضع أنفسنا ذهنياً في موضع الآخر. وربط غاليزي وغولدمان في «الخلايا العصبية المرآتية ونظرية المحاكاة في قراءة العقول» (١٩٩٨) هذه المحاكاة بنشاط عصبي يتكرر عند الفعل ومشاهدة الفعل، وإن ظل تفسير دلالته محل خلاف.
+
+## الشخص مفهوماً أولياً
+
+يرى بيتر ستروسون في «الأفراد» (١٩٥٩) أن مفهوم «الشخص» أولي: نحن ننسب إلى الشيء نفسه حالات وعي وخصائص جسدية، ولا يمكن اشتقاق هذا المفهوم من تجربة الحالات الداخلية وحدها. وفي ظاهرات سارتر «الكينونة والعدم» (١٩٤٣) تنكشف الآخرية في «النظرة» التي تجعلني موضوعاً للآخر.
+
+## حدود الحلول
+
+يُعاب على حجة المماثلة أنها استقراء من حالة واحدة هي حالتي، وهو ضعيف إحصائياً. ويُعاب على الحلول الظاهراتية أنها لا تعالج الشك في حالات الأجهزة الذكية أو الحيوانات أو البشر المصابين بالغيبوبة، حيث يضعف السلوك المعلن. ويدلّ انتشار نقاش الزومبي الفلسفي على بقاء الفجوة بين السلوك والخبرة.
+
 ## المصادر
 
-- Mill, John Stuart. *An Examination of Sir William Hamilton's Philosophy*. 1865.
-- Wittgenstein, Ludwig. *Philosophical Investigations*. 1953.
-- Husserl, Edmund. *Cartesian Meditations* (Cartesianische Meditationen). 1931 (Fifth Meditation).
-- Merleau-Ponty, Maurice. *Phenomenology of Perception* (Phénoménologie de la perception). 1945.
+
+- Mill, J. S. (1865). An Examination of Sir William Hamilton's Philosophy. London: Longmans, Green.
+- Wittgenstein, L. (1953). Philosophical Investigations. Oxford: Basil Blackwell.
+- Husserl, E. (1950). Cartesianische Meditationen (الخامسة)، Husserliana I. Den Haag: Martinus Nijhoff (الترجمة الفرنسية الأولى: Méditations cartésiennes، 1931).
+- Merleau-Ponty, M. (1945). Phénoménologie de la perception. Paris: Gallimard.
+- Strawson, P. F. (1959). Individuals: An Essay in Descriptive Metaphysics. London: Methuen.
+- Gallese, V. & Goldman, A. (1998). "Mirror neurons and the simulation theory of mind-reading". Trends in Cognitive Sciences, 2(12).

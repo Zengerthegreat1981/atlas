@@ -34,7 +34,19 @@ gaps:
 
 النقد أسّس لمدرسة أخلاقيات الرعاية (Care Ethics) كتيار مستقل في الفلسفة الأخلاقية النسوية، وأثار جدلاً واسعاً حول ما إذا كان الفارق الذي رصدته غيليغان جندرياً بيولوجياً أم نتاج تنشئة اجتماعية أم افتراضاً منهجياً في تصميم أداة كولبرغ نفسها؛ الجدل استمر عبر ثمانينيات وتسعينيات القرن العشرين في علم النفس التنموي وفلسفة الأخلاق كليهما.
 
+## الاختبار التجريبي لأطروحة غيليغان
+
+أعادت دراسات لاحقة فحص الفرق بين الجنسين: فقد راجع لورنس ووكر سنة 1984 عشرات الدراسات في دورية «تطور الطفل» ولم يجد فرقاً ثابتاً في مراتب كولبرغ بين الذكور والإناث بعد ضبط التعليم والمهنة، ثم وجد جافي وهايد في تحليل شمولي سنة 2000 فروقاً صغيرة في اتجاه توجه الرعاية عند النساء والعدالة عند الرجال. وقد أوضحت غيليغان نفسها في ردودها أن الصوتين يتميزان بالموضوع لا بالجنس، وأن كثيراً من الرجال والنساء يستعملون الاثنين. ورد كولبرغ في كتابه «مقالات في النمو الأخلاقي» (1984) بتعديلات منهجية في أسلوب التقدير.
+
+## من النقد إلى أخلاقيات الرعاية
+
+طوّرت نل نودينغز في «الرعاية» (1984) تصوراً للأخلاق ينطلق من العلاقة بين راعٍ ومرعيّ، وكتبت إيفا كيتاي في «عمل الحب» (1999) عن التبعية والعناية بوصفهما أساساً للعدالة. ويرى منتقدون أن أخلاق الرعاية تخاطر بتثبيت أدوار نسائية تقليدية وبعجزها عن معالجة القضايا الكبرى للعدالة الاجتماعية، بينما ترى نصيرات التيار أنها تكمّل العدالة ولا تلغيها.
+
 ## المصادر
 
-- Carol Gilligan, *In a Different Voice: Psychological Theory and Women's Development*, Harvard University Press, 1982.
-- Lawrence Kohlberg, *The Philosophy of Moral Development: Moral Stages and the Idea of Justice*, Harper & Row, 1981.
+- Gilligan, Carol. In a Different Voice: Psychological Theory and Women's Development. Cambridge, MA: Harvard University Press, 1982.
+- Kohlberg, Lawrence. The Philosophy of Moral Development: Moral Stages and the Idea of Justice. San Francisco: Harper and Row, 1981.
+- Kohlberg, Lawrence. Essays on Moral Development, vol. 2: The Psychology of Moral Development. San Francisco: Harper and Row, 1984.
+- Walker, Lawrence J. "Sex Differences in the Development of Moral Reasoning: A Critical Review." Child Development 55, no. 3 (1984).
+- Jaffee, Sara and Janet Shibley Hyde. "Gender Differences in Moral Orientation: A Meta-Analysis." Psychological Bulletin 126, no. 5 (2000).
+- Noddings, Nel. Caring: A Feminine Approach to Ethics and Moral Education. Berkeley: University of California Press, 1984.

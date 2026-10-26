@@ -26,7 +26,7 @@ gaps:
 
 ## الموقف الأول: النسوية الراديكالية (TERF)
 
-«المرأة» فئة بيولوجية محددة (XX كروموسومات، رحم، إلخ). «الترانس» (Trans) — خاصة النساء الترانس (Trans Women) — لا ينتمين إلى هذه الفئة حتى لو اخترن هويتهن. «حركة الترانس» تهدد «المرأة» كـ«فئة سياسية» (Political Category). Janice Raymond في «عالم الترانس» (The Transsexual Empire, 1979) ومؤخراً في «الجنس المرفوض» (Gender Hurts, 2012) قدّمت أطروحة تستبعد الترانس من النسوية.
+«المرأة» فئة بيولوجية محددة (XX كروموسومات، رحم، إلخ). «الترانس» (Trans) — خاصة النساء الترانس (Trans Women) — لا ينتمين إلى هذه الفئة حتى لو اخترن هويتهن. «حركة الترانس» تهدد «المرأة» كـ«فئة سياسية» (Political Category). جانيس ريموند في «إمبراطورية المتحوّلين جنسياً» (The Transsexual Empire, 1979) قدّمت أطروحة تستبعد الترانس من النسوية، وتبعتها شيلا جيفريز في «الجندر يؤذي» (Gender Hurts, 2014).
 
 ## الموقف الثاني: النسوية الشاملة (Butler، Stryker، Serano)
 
@@ -44,9 +44,24 @@ gaps:
 - في بريطانيا تحديداً، تحوّل الخلاف من نقاش أكاديمي إلى نزاع سياسي مباشر حول تعديل قانون الاعتراف بالجندر (Gender Recognition Act) بعد 2018، حين انقسمت جمعيات نسوية علنية بين تأييد ومعارضة توسيع التعريف القانوني لـ«المرأة».
 - استمرار الخلاف حول عضوية النساء الترانس في المساحات النسوية المخصّصة للنساء وفي المسابقات الرياضية النسائية.
 
+## المصطلح وتسميات الأطراف
+
+يُنسب انتشار اختصار TERF إلى مدونة نسوية سنة 2008، وكانت غايته وصف تيار داخل النسوية الراديكالية، لكن من يُوصفون به يرفضونه ويفضلون تسمية «النقد الجندري» (gender-critical)، ويرونه كلمة تحقير. ولذلك فالتعبير الأدق في العرض الأكاديمي أن يُسمّى كل طرف بما يصف به نفسه مع بيان ذلك. ولم يكن الخلاف بدأ بين نسويات راديكاليات وترانسفيمينيات فحسب، فمنذ 1991 جاء رد سندي ستون في «الإمبراطورية تضرب من جديد: بيان ما بعد التحوّل الجنسي» على ريموند، وأثار مهرجان ميشيغان للموسيقى النسائية (1976–2015) جدلاً طويلاً بسبب سياسته القاصرة على «النساء المولودات نساء» قبل أن يُغلق.
+
+## الجدل القانوني حديثاً
+
+انتقل الخلاف في المملكة المتحدة من الأكاديمية إلى القضاء: ففي أبريل 2025 قضت المحكمة العليا في قضية «من أجل النساء في اسكتلندا ضد الوزراء الاسكتلنديين» بأن كلمة «امرأة» في قانون المساواة لسنة 2010 تعني المرأة بيولوجياً، وأثارت الحكم ردود فعل متباينة بين من رآه توضيحاً قانونياً ومن رآه تضييقاً على حقوق الترانس. وفي الفلسفة دافعت كاثلين ستوك في «بنات من مادة» (2021) عن أولوية الجنس البيولوجي في تعريف المرأة، بينما قدّمت بتلر في «تفكيك الجندر» (2004) قراءة تجعل الجندر ممارسة لا جوهراً.
+
+## حدود الجدل
+
+تتفاوت المواقف داخل كل معسكر، فبعض الباحثين يميز بين النقاش الفلسفي حول الفئات وبين حملات الخطاب العدائي التي تضر بأشخاص حقيقيين، وتنبّه دراسات إلى أن الجدل الإعلامي يصور الطرفين بصورة أكثر استقطاباً مما في الأدبيات الأكاديمية. ويصعب في هذا الموضوع عزل المحاججة الفلسفية عن الرهانات الحياتية للمعنيين، وهو ما يفسّر حدة الجدل.
+
 ## المصادر
 
-- Raymond, Janice. *The Transsexual Empire: The Making of the She-Male*. 1979.
-- Butler, Judith. *Gender Trouble: Feminism and the Subversion of Identity*. 1990.
-- Stryker, Susan. *Transgender History*. 2008.
-- Serano, Julia. *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity*. 2007.
+- Raymond, Janice. The Transsexual Empire: The Making of the She-Male. Boston: Beacon Press, 1979.
+- Butler, Judith. Gender Trouble: Feminism and the Subversion of Identity. New York: Routledge, 1990.
+- Stone, Sandy. "The Empire Strikes Back: A Posttranssexual Manifesto." In Body Guards: The Cultural Politics of Gender Ambiguity, ed. Julia Epstein and Kristina Straub. New York: Routledge, 1991.
+- Serano, Julia. Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity. Emeryville: Seal Press, 2007.
+- Stryker, Susan. Transgender History. Berkeley: Seal Press, 2008.
+- Jeffreys, Sheila. Gender Hurts: A Feminist Analysis of the Politics of Transgenderism. London: Routledge, 2014.
+- Stock, Kathleen. Material Girls: Why Reality Matters for Feminism. London: Fleet, 2021.

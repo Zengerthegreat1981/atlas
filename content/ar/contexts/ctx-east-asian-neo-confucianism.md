@@ -36,7 +36,19 @@ gaps:
 
 استند عالم النفس التايواني كوانغ-كوو هوانغ (Kwang-Kuo Hwang) في كتابه "Foundations of Chinese Psychology" (2012) إلى إطار "الذات المترابطة" (Interdependent Self-Construal) الذي صاغه هازل ماركوس وشينوبو كيتاياما (1991) لتفسير كيف يشكّل التزكية الأخلاقية الكونفوشيوسية وشبكة العلاقات الخمس نمطاً معرفياً وسلوكياً يميل إلى إعطاء أولوية للانسجام الجماعي والالتزامات المتبادلة على حساب التعبير الفردي المستقل، بخلاف نموذج "الذات المستقلة" (Independent Self) السائد نظرياً في الثقافات الغربية. هذا الربط بين ممارسة تاريخية (صقل الفضائل ضمن العلاقات الخمس) ومفهوم نفسي معاصر (بناء الذات الثقافي) مدعوم بأبحاث تجريبية مقارنة، لا مجرد قياس تأملي.
 
+## وانغ يانغمينغ والمدرسة الكورية
+
+لم تكن الكونفوشيوسية الجديدة مذهباً واحداً: فقد رأى وانغ يانغمينغ (1472–1529) في «تعليمات للحياة العملية» أن العلم والعمل شيء واحد وأن الحدس الأخلاقي في القلب يغني عن استقصاء الأشياء الخارجية، فخالف تشو شي. وفي كوريا ناقش يي هوانغ (توغيه، 1501–1570) وكي دايسونغ العلاقة بين المشاعر الأربعة والسبعة والمبدأ والطاقة، في أشهر مناظرة فلسفية في تاريخ كوريا، وتبنت اليابان في عهد توكوغاوا مدرسة تشو شي بوصفها عقيدة رسمية.
+
+## الإسلام الصيني ونقد النظام
+
+وفي الصين الحديثة المبكرة كتب مسلمون هان، منهم وانغ دايو (نحو 1570–1660) وليو تشي (نحو 1660–1730)، نصوصاً بلغة الكونفوشيوسية الجديدة لشرح الإسلام، فجمعوا بين المبدأ والطاقة وبين التوحيد والتصوف، وتدرس ساتشيكو موراتا هذا التراث. ووجّه داي تشن (1724–1777) نقداً لاذعاً لمبدأ «المبدأ» عند تشو شي، متهماً الموظفين باستعماله لقتل الناس بالحكم الأخلاقي القاسي، وهاجمت حركة 4 مايو 1919 «الأخلاق الآكلة للبشر» كما في قصة لو شون «يوميات مجنون» (1918).
+
 ## المصادر
+
 - Zhu Xi & Lü Zuqian, *Jinsi lu (Reflections on Things at Hand)*, 1175.
 - Wm. Theodore de Bary (ed.), *Sources of Chinese Tradition*, Columbia University Press, 1999.
 - Markus, H. R., & Kitayama, S., "Culture and the Self", *Psychological Review*, 1991.
+- de Bary, Wm. Theodore. Neo-Confucian Orthodoxy and the Learning of the Mind-and-Heart. New York: Columbia University Press, 1981.
+- Murata, Sachiko. Chinese Gleams of Sufi Light: Wang Tai-yu's Great Learning of the Pure and Real and Liu Chih's Displaying the Concealment of the Real Realm. Albany: SUNY Press, 2000.
+- Wang Yangming. Instructions for Practical Living and Other Neo-Confucian Writings. Trans. Wing-tsit Chan. New York: Columbia University Press, 1963.

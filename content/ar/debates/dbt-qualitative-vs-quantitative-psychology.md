@@ -37,7 +37,23 @@ gaps:
 
 الجدل يحدد ما يُقبل كدليل علمي صالح في الأبحاث النفسية والإكلينيكية: المجلات ذات التوجه الطبي الحيوي تشترط غالباً تصاميم كمية عشوائية منضبطة، بينما تنشر مجلات العلاج النفسي والصحة النفسية الاجتماعية دراسات حالة كيفية معمقة. التوجه المعاصر نحو "المناهج المختلطة" (Mixed Methods) يحاول تجاوز الاستقطاب بدمج التصميمين في الدراسة الواحدة، دون أن يحسم أياً من الخلافين الإبستمولوجي (طبيعة المعرفة النفسية) أو المنهجي (أولوية أيهما).
 
+## الجذور: التفسير مقابل الفهم
+
+يعود الانقسام إلى نقاش القرن التاسع عشر الألماني: ففيلهلم دلتاي ميّز في «أفكار حول علم نفس وصفي وتحليلي» (1894) بين علوم الطبيعة التي تفسّر (Erklären) وعلوم الروح التي تفهم (Verstehen). والمفارقة أن فونت نفسه لم يكن كمياً خالصاً، فقد رأى أن التجريب يصلح للعمليات الحسية البسيطة، وأن اللغة والأسطورة والعادات تُدرس بمنهج تاريخي-ثقافي في عمله الضخم «سيكولوجيا الشعوب» (1900–1920). وبعد ذلك ساد ما سُمّي في الولايات المتحدة بالعملياتية والسلوكية، فصار القياس شرطاً للعلمية.
+
+## أطروحات الطرفين اليوم
+
+يستند الكميون إلى القدرة على التعميم والضبط والتكرار، ويرون أن أزمة إعادة الإنتاج التي كشفها مشروع التعاون المفتوح في مجلة ساينس (2015) تقتضي تشديد المنهج لا التخلي عنه. ويستند الكيفيون إلى أن المعنى والسياق لا يُختزلان في متغيرات، وقد نظّم براون وكلارك التحليل الموضوعي (2006) وطوّر سميث وزميلاه التحليل الظاهراتي التفسيري في كتاب (2009)، وأصدرت الرابطة الأمريكية لعلم النفس معايير للإبلاغ عن البحث الكيفي (2018)، ما يدل على اعتراف مؤسسي متزايد.
+
+## حدود الجدل
+
+من الاعتراضات المتبادلة أن الكمي كثيراً ما يقيس ما يسهل قياسه لا ما يهم، وأن الكيفي يواجه سؤال الصدق والتعميم، وأن تفسير الباحث قد يغلب على كلام المشاركين. وأن اسم الظاهراتية يُستعمل أحياناً دون التزام بالتعليق الهوسرلي، ما يجعل بعض الدراسات وصفية سطحية. ولذلك يميل المنهجيون إلى التمييز بين أسئلة تتطلب التقدير الكمي وأسئلة تتطلب الفهم، لا إلى انتصار منهج واحد.
+
 ## المصادر
 
-- Giorgi, A. (1970). *Psychology as a Human Science: A Phenomenologically Based Approach*
-- Smith, J. A. (1996). "Beyond the divide between cognition and discourse: Using interpretative phenomenological analysis in health psychology." *Psychology and Health*
+- Giorgi, Amedeo. Psychology as a Human Science: A Phenomenologically Based Approach. New York: Harper and Row, 1970.
+- Smith, Jonathan A. "Beyond the Divide between Cognition and Discourse: Using Interpretative Phenomenological Analysis in Health Psychology." Psychology and Health 11, no. 2 (1996).
+- Smith, Jonathan A., Paul Flowers and Michael Larkin. Interpretative Phenomenological Analysis: Theory, Method and Research. London: Sage, 2009.
+- Braun, Virginia and Victoria Clarke. "Using Thematic Analysis in Psychology." Qualitative Research in Psychology 3, no. 2 (2006).
+- Open Science Collaboration. "Estimating the Reproducibility of Psychological Science." Science 349 (2015).
+- Dilthey, Wilhelm. Ideen über eine beschreibende und zergliedernde Psychologie. Berlin: Akademie der Wissenschaften, 1894.

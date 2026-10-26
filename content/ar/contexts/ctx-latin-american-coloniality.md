@@ -37,8 +37,15 @@ gaps:
 
 مهدت هذه الأطروحات -مقترنة بإرث الطبيب النفسي والمفكر المارتينيكي فرانز فانون في تحليله للأثر النفسي للاستعمار على الذات المستعمَرة- لتيار «نزع الاستعمار من علم النفس» (decolonial psychology) المعاصر، الذي يعيد قراءة الاضطراب النفسي والهوية الجمعية في ضوء إرث التصنيف العرقي والاستلاب الثقافي بدل اختزالهما في أطر إكلينيكية غربية محايدة مفترضة.
 
+## جذور أسبق ونقد داخلي
+
+سبقت هذه الموجات كتابات خوسيه كارلوس مارياتيغي، ومنها «سبعة مقالات تأويلية عن الواقع البيروي» (1928) التي جعل فيها مسألة الأرض والهنود أساس فهم البلد. وتلتقي أطروحات التيار مع تفكير مغاربي: فقد دعا الكاتب المغربي عبد الكبير الخطيبي في «المغرب المتعدد» (1983) إلى «نقد مزدوج» و«فكر آخر»، وهو ما يستشهد به ميغنولو حين يعرّف «التفكير الحدّي». ويوجه نقاد انتقاداً للتيار من داخل المنطقة، منهم سيلفيا ريفيرا كوسيكانكي التي ترى أنه يعيد إنتاج خطاب أكاديمي يصدر من الجامعات الأمريكية ويتجاهل الحركات الأصلية التي سبقته، كما ينتقد آخرون غموض مفهوم «الحداثة» ومبالغته في وحدة أوروبا.
+
 ## المصادر
 
-- Global Social Theory, "Quijano, Aníbal": https://globalsocialtheory.org/thinkers/quijano-anibal/
-- Duke University Press, "Aníbal Quijano: Foundational Essays on the Coloniality of Power": https://web.archive.org/web/20240806072554/https://www.dukeupress.edu/anibal-quijano
-- Wikipedia, "Paulo Freire": https://en.wikipedia.org/wiki/Paulo_Freire
+- Quijano, Aníbal. "Colonialidad del poder, eurocentrismo y América Latina." In La colonialidad del saber: eurocentrismo y ciencias sociales, ed. Edgardo Lander. Buenos Aires: CLACSO, 2000.
+- Dussel, Enrique. Filosofía de la liberación. México: Edicol, 1977.
+- Freire, Paulo. Pedagogy of the Oppressed. New York: Herder and Herder, 1970.
+- Mignolo, Walter. Local Histories/Global Designs: Coloniality, Subaltern Knowledges, and Border Thinking. Princeton: Princeton University Press, 2000.
+- Khatibi, Abdelkebir. Maghreb pluriel. Paris: Denoël, 1983.
+- Martín-Baró, Ignacio. Writings for a Liberation Psychology. Cambridge, MA: Harvard University Press, 1994.
