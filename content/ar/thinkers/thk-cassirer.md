@@ -51,6 +51,18 @@ gaps:
 
 بعد 1933 كتب كاسيرر في المنفى، و*The Myth of the State* في جزئه الأخير رد مباشر على النازية؛ فقراءة أعماله المتأخرة بمعزل عن هذا الموقع تُفقدها معناها. وفي الاتجاه المقابل: نسبة نظريات التمثيل في علم النفس المعرفي بعد الستينيات إلى تأثيره غير قابلة للإثبات عبر سلسلة استشهادات محددة، فلا تُدَّعى هنا.
 
+## الحياة والمسار
+
+وُلد كاسيرر في بريسلاو سنة 1874 لأسرة يهودية ميسورة، ودرس في ماربورغ على هرمان كوهين وباول ناتورب، ثم عمل مدرساً غير متفرغ في برلين من 1906. وفي هامبورغ، حيث صار أستاذاً سنة 1919، التقى بمكتبة آبي فاربورغ ودائرته، وفي 1929 صار رئيساً لجامعتها، وكان من أوائل اليهود في هذا المنصب في ألمانيا. بعد 1933 رحل إلى أكسفورد ثم غوتنبرغ ثم ييل وكولومبيا، وتوفي في نيويورك في 13 أبريل 1945.
+
+## من الجوهر إلى الوظيفة
+
+بدأ كاسيرر بسؤال فلسفة العلم: في «مفهوم الجوهر ومفهوم الوظيفة» (Substanzbegriff und Funktionsbegriff، 1910) رأى أن العلم الحديث يحل العلاقات والدوال الرياضية محل الجواهر الثابتة، فالمفهوم العلمي قاعدة للسلسلة لا تجريد من الأشياء. ثم عمّم هذه الفكرة على الثقافة كلها في الأشكال الرمزية، وكتب كذلك عن «نظرية النسبية لأينشتاين» (1921)، و«حياة كانط وفكره» (1918)، و«فلسفة التنوير» (1932).
+
+## الصلة بعلم النفس
+
+في المجلد الثالث من «فلسفة الأشكال الرمزية» استفاد كاسيرر من الحالات المرضية التي درسها طبيب الأعصاب كورت غولدشتاين، وهو من أقاربه، في اضطرابات الحبسة، ليبين أن فقد القدرة الرمزية يغيّر علاقة الإنسان بالعالم كله لا الكلام وحده. وتطور هذا الخط في علم نفس النمو عند هاينز فيرنر الذي عمل في هامبورغ، وظهر في كتاب «تكوين الرمز» لفيرنر وكابلان (Wiley، 1963). وهذا ما يجعل كاسيرر جسراً بين الفلسفة وعلم النفس لا بالتأثير في مدرسة نفسية معينة، بل بجعل الرمز موضوعاً مشتركاً لهما.
+
 ## أهم أعماله
 
 *Leibniz' System in seinen wissenschaftlichen Grundlagen* (1902) · *Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit* (المجلدات 1902–1920؛ المجلد الرابع صدر بعد وفاته سنة 1957) · *Die Philosophie der symbolischen Formen* (3 مجلدات، 1923–1929) · *Die Platonische Renaissance in England und die Schule von Cambridge* (1932) · *Zur Logik der Kulturwissenschaften* (1942) · *An Essay on Man* (1944) · *The Myth of the State*، الصادر بعد وفاته سنة 1946.
@@ -60,5 +72,6 @@ gaps:
 - Cassirer, Ernst. *Die Philosophie der symbolischen Formen*. 3 vols. Berlin: Bruno Cassirer, 1923–1929.
 - Cassirer, Ernst. *An Essay on Man: An Introduction to a Philosophy of Human Culture*. New Haven: Yale University Press, 1944.
 - Cassirer, Ernst. *The Myth of the State*. New Haven: Yale University Press, 1946.
+- Werner, Heinz, and Bernard Kaplan. *Symbol Formation*. New York: Wiley, 1963.
 - Krois, John Michael. *Cassirer: Symbolic Forms and History*. New Haven: Yale University Press, 1987.
 - Gordon, Peter E. *Continental Divide: Heidegger, Cassirer, Davos*. Cambridge, MA: Harvard University Press, 2010.
