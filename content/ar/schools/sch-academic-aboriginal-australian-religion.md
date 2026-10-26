@@ -47,7 +47,7 @@ gaps:
 
 ## الأثر
 
-- أثّر في إعادة تعريف "الأرض المقدَّسة" (Sacred Land) في القانون الأسترالي، عبر شهادات أنثروبولوجية استندت إلى تحليل ستانر، وصولاً إلى حكم مابو (Mabo v. Queensland، 1992).
+- أثّر في صياغة مفهوم الأرض المقدَّسة (Sacred Land) في القانون الأسترالي، عبر شهادات أنثروبولوجية قُدّمت في دعاوى الأرض منذ سبعينيات القرن العشرين.
 - أسّس تقليداً بحثياً استمرّ مع أ.پ. إلكين ولاحقاً باحثين مثل ديبورا بيرد روز.
 - شكّل نموذجاً مبكراً لنقد مركزية "الدين" كمقولةٍ عالمية صالحة لكلّ الثقافات — نقاشٌ يتقاطع مع أطروحات طلال أسد اللاحقة عن بناء مفهوم "الدين" تاريخياً.
 
@@ -56,7 +56,32 @@ gaps:
 - الحقلُ ما زال يعمل غالباً بعدسةٍ أنثروبولوجية غربية رغم نيّته النقدية؛ وقد وُجِّه إليه نقدٌ من باحثين أصليين لكونه يصف "من الخارج" رغم تحفّظاته المنهجية.
 - تنوّع اللغات والتقاليد الأسترالية الأصلية (أكثر من 250 لغة قبل الاستعمار) يجعل أيَّ تعميمٍ أكاديمي معرَّضاً لتسطيح فروقٍ محلية جوهرية.
 
+## من سبنسر وجيلن إلى ستانر: مسار المادة الإثنوغرافية
+
+بدأت المادة الميدانية بعمل بالدوين سبنسر وفرانسيس جيلن «القبائل الأصلية في وسط أستراليا» (Macmillan، 1899) عن الأرونتا، وقد استعان به دوركايم ليبني فكرة أن الطوطمية أبسط صور الدين. ثم قدّم لويد وارنر دراسة عن الموريغن في أرنهم لاند بعنوان «حضارة سوداء» (Harper، 1937)، وكتب تيودور ستريهلو، ابن مبشر لوثري نشأ بين الأرونتا ويتقن لغتهم، «تقاليد أرنتا» (Melbourne University Press، 1947) و«أغاني وسط أستراليا» (Angus and Robertson، 1971). وبذلك انتقل الحقل من وصف جاء من الخارج إلى مادة لغوية وشعائرية مفصلة. وألقى ستانر عام 1953 محاضرته «الحُلم» التي نُشرت بعد ثلاث سنوات، ثم كتب «في دين السكان الأصليين» (Oceania Monograph 11، 1966)، وجمعت مقالاته في «لا حلم للرجل الأبيض» (Australian National University Press، 1979).
+
+## الحُلم والقانون والأرض
+
+يرى هذا الحقل أن الموضع في الأرض ليس مكاناً ماديّاً فقط بل هو سجل لأفعال الأسلاف، فالتل أو البئر أو الصخرة أثر لما فعله كائن من كائنات الحلم حين شكّل العالم، ومن هنا يُلزم أهل هذه الأرض بحفظ الأغاني والرسوم وأداء الطقوس التي تحييها. ويسمّي كثير من الباحثين ذلك الشريعة (the Law) لأنه يجمع بين الأخلاق والملكية والقرابة والطقس في كل متصل. ويقرّب ذلك من الفهم العربي لكلمة الدين، التي تدل على الجزاء والشريعة وطريقة العيش معاً، من فهم أن المصطلح الأوروبي «religion» أضيق من أن يغطي هذا النسق. وقد ناقش طلال أسد في «سلالات الدين» (Johns Hopkins University Press، 1993) كيف تشكّل مفهوم الدين الأوروبي تاريخياً بوصفه حقلاً من المعتقدات الخاصة المنفصلة عن السياسة والقانون، وهو نقد ينطبق بصورة واضحة على هذا الحقل.
+
+## القانون في المحاكم
+
+أثّرت هذه الدراسات في قانون الأرض، إذ أتاح قانون حقوق أرض السكان الأصليين في الإقليم الشمالي (1976) للجماعات المطالبة بالأرض أن تثبت صلتها بموضعها عبر الرواية الدينية والقرابة، فاستُدعي الأنثروبولوجيون ليشرحوا للمحاكم معنى ذلك. وفي الثمانينيات والتسعينيات وسّع فريد مايرز في «بنتوبي أرض، بنتوبي ذات» (Smithsonian Institution Press، 1986) وهوارد مورفي في «روابط الأسلاف» (University of Chicago Press، 1991) ودبورا بيرد روز في «الدنغو يجعلنا بشراً» (Cambridge University Press، 1992) مفهوم الارتباط بالأرض بوصفه علاقة اجتماعية وبيئية وأخلاقية.
+
+## نقد النوع الاجتماعي والنقد الأصلي
+
+أظهرت ديان بل في «بنات الحلم» (1983) أن الدراسات السابقة عنيت بطقوس الرجال وتجاهلت عمل النساء الديني المستقل، وأن ذلك أضعف قدرة الباحثين على فهم النظام الكلي. وشكّكت لينده توهيواي سميث في «مناهج مفككة للاستعمار» (Zed Books، 1999) في سلطة الباحث الخارجي، ودعت إلى أبحاث يملكها أهل الأرض ويوجهونها. وفرض ذلك قيوداً على نشر المواد السرية وعرض الأغاني والرسوم المقدسة خارج جماعاتها.
+
 ## المصادر
 
-- Stanner, W.E.H. *The Dreaming and Other Essays*. Black Inc. Agenda, 2009 (essays originally published/delivered 1953–1968; first collected edition 1979).
+
+- Stanner, W.E.H. *White Man Got No Dreaming: Essays 1938–1973*. Canberra: Australian National University Press, 1979.
+- Stanner, W.E.H. *On Aboriginal Religion*. Sydney: University of Sydney, Oceania Monograph 11, 1966.
+- Spencer, Baldwin, and F. J. Gillen. *The Native Tribes of Central Australia*. London: Macmillan, 1899.
 - Durkheim, Émile. *The Elementary Forms of Religious Life*. Translated by Karen E. Fields, Free Press, 1995 (French original 1912).
+- Asad, Talal. *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*. Baltimore: Johns Hopkins University Press, 1993.
+- Myers, Fred R. *Pintupi Country, Pintupi Self*. Washington, DC: Smithsonian Institution Press, 1986.
+- Morphy, Howard. *Ancestral Connections: Art and an Aboriginal System of Knowledge*. Chicago: University of Chicago Press, 1991.
+- Rose, Deborah Bird. *Dingo Makes Us Human: Life and Land in an Aboriginal Australian Culture*. Cambridge: Cambridge University Press, 1992.
+- Bell, Diane. *Daughters of the Dreaming*. Melbourne: McPhee Gribble, 1983.
+- Smith, Linda Tuhiwai. *Decolonizing Methodologies: Research and Indigenous Peoples*. London: Zed Books, 1999.

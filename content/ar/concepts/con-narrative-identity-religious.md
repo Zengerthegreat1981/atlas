@@ -10,8 +10,8 @@ title: "الهويةُ السَّرديةُ الدينية"
 en: "Narrative Identity in Religious Context"
 crumb: "علمُ الأديان المقارن ← النَّصوصُ والتفسيرُ ← لاهوتُ السَّرد ← الهويةُ السَّرديةُ الدينية"
 related:
-- id: "sch-narrative-theology-frei-lindbeck", title: "لاهوتُ السَّرد (Narrative Theology): فاينز وليندبيك والمنهجُ الحكائيُّ", type: "مدرسة"
-- id: "thk-hans-frei", title: "هانز فاينز (Hans Frei)", type: "مفكر"
+- id: "sch-narrative-theology-frei-lindbeck", title: "لاهوتُ السَّرد (Narrative Theology): فراي وليندبيك والمنهجُ الحكائيُّ", type: "مدرسة"
+- id: "thk-hans-frei", title: "هانز فراي (Hans Frei)", type: "مفكر"
 - id: "wrk-eclipse-biblical-narrative-frei", title: "كُسوفُ السَّردِ التوراتيِّ (The Eclipse of Biblical Narrative)", type: "عمل / كتاب"
 - id: "con-textual-theology-narratival", title: "اللاهوتُ النَّصيُّ والحكائيُّ (Textual Theology)", type: "مفهوم"
 gaps:

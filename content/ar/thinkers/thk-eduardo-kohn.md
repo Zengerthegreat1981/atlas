@@ -40,9 +40,27 @@ gaps:
 
 - *How Forests Think: Toward an Anthropology Beyond the Human*. Berkeley: University of California Press, 2013.
 
+## السياق والمسار
+
+تخصص كون في إثنوغرافيا الأمازون الإكوادورية، وعمل ميدانياً في قرية آفيلا قرب مدينة تينا في مقاطعة نابو. ومنذ انتقاله إلى جامعة ماكغيل صار الاتجاه الذي يمثله جزءاً من حوار أوسع في الأنثروبولوجيا عن علاقة الإنسان بالحيوان والنبات. وقبل كتابه الكبير نشر مقالة «كيف تحلم الكلاب: طبائع الأمازون وسياسات التفاعل بين الأنواع» (American Ethnologist، 2007) التي عالج فيها تأويل الرونا لأحلام كلابهم بوصفها علامات تنبئ بما سيلقاه الصياد في الغابة.
+
+## بيرس والعلامة: لماذا تفكر الغابة
+
+يستند كون إلى مثلث بيرس: الأيقون الذي يدل بالمشابهة، والمؤشر الذي يدل بالتجاور السببي، والرمز الذي يدل بالعرف. يرى أن الرمز، وهو ما تختص به اللغة الإنسانية، ينشأ من التواصل بالمؤشرات والأيقونات المنتشر في العالم الحي، فيحرر النقد من فرضية أن المعنى حكر على البشر. ومن هنا عبارته عن التفكير الحي: الغابة تفكر لأن الكائنات فيها تؤوّل علامات بعضها، فالطائر يقرأ حركة القرد، والقرد يقرأ الجاغوار. ويستخدم مفهوم الشكل والقيود في مسار نشوء الأنماط، مستفيداً من أفكار غريغوري بيتسون وتيرنس ديكون عن نشوء الأنماط والمعنى.
+
+## الإنصات للرونا
+
+يقول كون إن الرونا يعدّون الجاغوار وسواه ذواتاً تنظر إلى البشر، ويوصون الصياد بالنوم على ظهره لا على بطنه كي لا يظنه الجاغوار فريسة، ومعنى ذلك أن الإنسان نفسه علامة يقرؤها الآخرون. وهذه التفصيلات تمثّل إثنوغرافيا تتعلم من أهلها لا مجرد مادة تُمحى من أجل نظرية.
+
+## حدود المقاربة
+
+استدعت قراءة بيرس عند كون اعتراضات: فبعض المختصين في سيميائية بيرس يرون أنه يتجاوز حدود المصطلح، وأن مفهوم الذات عنده مفرط التوسع بحيث تشمل كل عملية تأويل. وأشار مانغوس كورس إلى أن النص يظل نتاج وعي بشري يفسّر لقارئ بشري. ويرى نقاد أن النزعة النظرية تغلب على تحليل التاريخ الاستعماري للرونا وعلاقتهم بالدولة وبشركات النفط والتنقيب.
+
 ## المصادر
 
+
 - Kohn, Eduardo. *How Forests Think: Toward an Anthropology Beyond the Human*. Berkeley: University of California Press, 2013.
-- Course, Magnus. "All Too Human (Still): A Comment on Eduardo Kohn's *How Forests Think*." *HAU: Journal of Ethnographic Theory* 4, no. 2 (2014): 321–328.
-- Kohn, Eduardo. "Anthropology of Ontologies." *Annual Review of Anthropology* 44 (2015): 311–327.
-- McGill University, Department of Anthropology, faculty profile: Eduardo Kohn.
+- Kohn, Eduardo. "How Dogs Dream: Amazonian Natures and the Politics of Transspecies Engagement." *American Ethnologist* 34(1), 2007.
+- Kohn, Eduardo. "Anthropology of Ontologies." *Annual Review of Anthropology* 44, 2015.
+- Course, Magnus. "All Too Human (Still): A Comment on Eduardo Kohn's *How Forests Think*." *HAU: Journal of Ethnographic Theory* 4(2), 2014.
+- Deacon, Terrence W. *The Symbolic Species: The Co-evolution of Language and the Brain*. New York: W. W. Norton, 1997.

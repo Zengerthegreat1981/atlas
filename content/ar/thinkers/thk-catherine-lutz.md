@@ -22,7 +22,7 @@ gaps:
 
 ### «عواطف غير طبيعية» (Unnatural Emotions, 1988)
 
-عملها الأشهر، ثمرة عمل ميداني أنجزته في الثمانينيات بين سكان جزيرة إيفالوك، وهي جزيرة مرجانية صغيرة (نحو نصف ميل طولاً) لا يتجاوز عدد سكانها 430 نسمة. جادلت لوتز بأن **العاطفة ليست معطى بيولوجياً كونياً** كما افترضت نظريات علم النفس الغربي السائدة، بل **بناء ثقافي** يتشكّل عبر اللغة والقيم وصراعات القوة المحلية والبيئة المادية للمجتمع. حلّلت بالتفصيل ثلاث مشاعر إيفالوكية محورية لا تقابلها ترجمة إنجليزية دقيقة واحدة: **فاغو** (fago، مزيج من الشفقة والحب والحزن)، و**سونغ** (song، غضب مبرَّر أخلاقياً موجَّه ضد خرق معياري)، و**ميتاغو** (metagu، خوف/قلق اجتماعي). العنوان "عواطف غير طبيعية" ساخر عمداً: فالعواطف الإيفالوكية لا تبدو "غير طبيعية" إلا من منظور غربي يفترض خطأً أن مفهومه الخاص للعاطفة هو المعيار الطبيعي الكوني.
+عملها الأشهر، ثمرة عمل ميداني بدأته في أواخر السبعينيات (1977-1978) وتلته زيارات لاحقة بين سكان جزيرة إيفالوك، وهي جزيرة مرجانية صغيرة (نحو نصف ميل طولاً) لا يتجاوز عدد سكانها 430 نسمة. جادلت لوتز بأن **العاطفة ليست معطى بيولوجياً كونياً** كما افترضت نظريات علم النفس الغربي السائدة، بل **بناء ثقافي** يتشكّل عبر اللغة والقيم وصراعات القوة المحلية والبيئة المادية للمجتمع. حلّلت بالتفصيل ثلاث مشاعر إيفالوكية محورية لا تقابلها ترجمة إنجليزية دقيقة واحدة: **فاغو** (fago، مزيج من الشفقة والحب والحزن)، و**سونغ** (song، غضب مبرَّر أخلاقياً موجَّه ضد خرق معياري)، و**ميتاغو** (metagu، خوف/قلق اجتماعي). العنوان "عواطف غير طبيعية" ساخر عمداً: فالعواطف الإيفالوكية لا تبدو "غير طبيعية" إلا من منظور غربي يفترض خطأً أن مفهومه الخاص للعاطفة هو المعيار الطبيعي الكوني.
 
 ### نقد الأنثروبولوجيا الغربية للعاطفة
 
@@ -49,9 +49,21 @@ gaps:
 - *Homefront: A Military City and the American Twentieth Century* (2001).
 - *Carjacked: The Culture of the Automobile and Its Effect on Our Lives* (2010، مع Anne Lutz Fernandez).
 
+## الصلة بدراسات العاطفة في العالم العربي
+
+أسهم كتاب لوتز المحرَّر مع الأنثروبولوجية الفلسطينية الأمريكية ليلى أبو لغد «اللغة وسياسات العاطفة» (Cambridge University Press، 1990) في توسيع الحقل نحو أدب المشاعر في المجتمعات الشفهية. وفي السنوات ذاتها نشرت أبو لغد «مشاعر محجوبة: الشرف والشعر في مجتمع بدوي» (University of California Press، 1986)، عن أولاد علي في الصحراء الغربية المصرية، فبيّنت أن القصيدة القصيرة (الغِنّاوة) تتيح التعبير عن حب وضعف يحجبهما الخطاب العلني للشرف والحياء. هذا المثال العربي كان أحد الأدلة التي استند إليها لوتز وأبو لغد على أن العاطفة تُنتج وتُدار بالخطاب لا بوصفها فيضاً داخلياً فحسب.
+
+## ما بعد إيفالوك: الجندر والعاطفة
+
+في مقالتها «العاطفة والفكر والاغتراب: العاطفة بوصفها مقولة ثقافية» (Cultural Anthropology، 1986) وفصلها «العاطفة المؤنثة: الجندر والسلطة وبلاغة ضبط العاطفة في الخطاب الأمريكي» ضمن مجلد 1990 عالجت لوتز كيف تُنسب العاطفة إلى النساء ويُنسب العقل إلى الرجال داخل الثقافة الأمريكية نفسها، وبذلك لم تكتفِ بتحليل ثقافة بعيدة بل جعلت الأنثروبولوجيا تنظر في مقولاتها. وكتبت مع جين كولينز «قراءة ناشيونال جيوغرافيك» (University of Chicago Press، 1993) عن صور المجلة وكيف تصنع المتلقي والآخر. وعن العسكرة حرّرت «قواعد الإمبراطورية: النضال العالمي ضد القواعد العسكرية الأمريكية» (New York University Press، 2009)، وشاركت في تأسيس مشروع «كلفة الحرب» في معهد واتسون بجامعة براون.
+
 ## المصادر
 
+
 - Lutz, Catherine A. *Unnatural Emotions: Everyday Sentiments on a Micronesian Atoll and Their Challenge to Western Theory*. Chicago: University of Chicago Press, 1988.
-- Lutz, Catherine A. *Homefront: A Military City and the American Twentieth Century*. Boston: Beacon Press, 2001.
 - Lutz, Catherine A., and Lila Abu-Lughod (eds.). *Language and the Politics of Emotion*. Cambridge: Cambridge University Press, 1990.
-- Brown University, Watson Institute, faculty profile: "Catherine Lutz."
+- Abu-Lughod, Lila. *Veiled Sentiments: Honor and Poetry in a Bedouin Society*. Berkeley: University of California Press, 1986.
+- Lutz, Catherine A., and Geoffrey M. White. "The Anthropology of Emotions." *Annual Review of Anthropology* 15, 1986.
+- Lutz, Catherine A. *Homefront: A Military City and the American Twentieth Century*. Boston: Beacon Press, 2001.
+- Lutz, Catherine A., and Jane L. Collins. *Reading National Geographic*. Chicago: University of Chicago Press, 1993.
+- Lutz, Catherine A., ed. *The Bases of Empire: The Global Struggle against U.S. Military Posts*. New York University Press, 2009.

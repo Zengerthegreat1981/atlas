@@ -36,9 +36,30 @@ gaps:
 - *Knowledge and Passion: Ilongot Notions of Self and Social Life*. Cambridge: Cambridge University Press, 1980.
 - "The Use and Abuse of Anthropology: Reflections on Feminism and Cross-Cultural Understanding." *Signs* 5, no. 3 (1980): 389–417.
 
+## الإيلونغوت: المعرفة والعاطفة
+
+كتابها «المعرفة والعاطفة: تصورات الإيلونغوت للذات والحياة الاجتماعية» (Cambridge University Press، 1980) يجعل الذات محور التحليل الأنثروبولوجي. فالإيلونغوت، وهم صيادو رؤوس وزراع متنقلون في سفوح سييرا مادري بلوزون، يستعملون كلمة ليغيت للدلالة على الطاقة والغضب والحماس، وكلمة بيتان للدلالة على المعرفة والمهارة والسيطرة. ورأت روسالدو أن الرجال يمارسون ضبط الليغيت بتوجيهه نحو الصيد وقطع الرؤوس لا بكتمانه، وأن الكلام نفسه فعل اجتماعي يبني المنزلة والتساوي بين الرجال. ومن هنا اهتمامها بخطابات الخطابة الإيلونغوتية في مقالتها «ليس لدي ما أخفيه: لغة الخطابة عند الإيلونغوت» (Language in Society، 1982). وقد ارتبطت هذه الدراسة بتحول عام في الأنثروبولوجيا النفسية نحو العاطفة بوصفها نتاجاً ثقافياً لغوياً، وجاء امتدادها في مقالها بعد وفاتها «نحو أنثروبولوجيا للذات والشعور» (في كتاب «نظرية الثقافة»، Cambridge University Press، 1984).
+
+## من العالمية إلى النقد الذاتي
+
+في «المرأة والثقافة والمجتمع» اقترحت مع لامفير أن في كل مجتمع تقريباً يرتبط الرجال بالمجال العام والنساء بالمجال المنزلي، وهو ما يمنح الرجال سلطة أكبر. لكن عملها الميداني بين الإيلونغوت، حيث لا يُغلق المنزل على النساء وحدهن ولا تُمنع النساء من الخطابة والمشاركة في القرارات، جعلها تشك في أن هذا التقسيم تفسير كوني. وفي مقالتها المنشورة في Signs عام 1980 تقول إن الاعتماد على ثنائية واحدة يفرض قراءة غربية على مجتمعات تعرّف الجندر بطرق أخرى، ودعت إلى دراسة الجندر في سياق تاريخي محدد بدل البحث عن سبب واحد للخضوع. وكان هذا الموقف مقدمة للأنثروبولوجيا النسوية اللاحقة.
+
+## التلقي في دراسات العالم العربي
+
+اختُبرت فكرة تقسيم المجال إلى عام وخاص في دراسات المجتمعات الإسلامية، ومنها كتاب فاطمة المرنيسي «ما وراء الحجاب: ديناميات الجنسين في المجتمع الإسلامي» (Schenkman، 1975) الذي ربط بين تنظيم المكان والعلاقة بين الجنسين، وكتاب ليلى أبو لغد «مشاعر محجوبة» (University of California Press، 1986) الذي أظهر أن النساء البدويات يعشن بين أماكن مفصولة لكن بقدرة على التعبير الشعري والمقاومة الرمزية. وقد وجدت المقاربة النقدية المتأخرة لروسالدو صدى في هذه الأعمال التي ترفض النظر إلى فصل الأمكنة على أنه دليل مباشر على الخضوع.
+
+## الحدود
+
+رأى باحثون أن مقالة روسالدو الأخيرة بقيت غير مكتملة لأنها كُتبت قبل أن يتبلور بديل نظري واضح، وأن إشارتها إلى تاريخ المجتمعات لم تصاحبها أدلة وافية. وأخذ آخرون على «المعرفة والعاطفة» أنه يقدم صورة الإيلونغوت قبل حركات الإنجيليين وتحولات ما بعد الحرب، بينما بيّن رينالدو روسالدو لاحقاً في «الحزن وغضب صائد الرؤوس» (1989) كيف أن الغضب المرتبط بفقد الأقارب يفسّر قطع الرؤوس على نحو أعمق مما رأته ميشيل.
+
 ## المصادر
 
-- Rosaldo, Michelle Z. "The Use and Abuse of Anthropology: Reflections on Feminism and Cross-Cultural Understanding." *Signs* 5, no. 3 (1980): 389–417.
+
 - Rosaldo, Michelle Z., and Louise Lamphere (eds.). *Woman, Culture, and Society*. Stanford: Stanford University Press, 1974.
 - Rosaldo, Michelle Z. *Knowledge and Passion: Ilongot Notions of Self and Social Life*. Cambridge: Cambridge University Press, 1980.
-- Sage Reference, *Theory in Social and Cultural Anthropology: An Encyclopedia*, entry "Rosaldo, Michelle Zimbalist."
+- Rosaldo, Michelle Z. "The Use and Abuse of Anthropology: Reflections on Feminism and Cross-Cultural Understanding." *Signs* 5(3), 1980.
+- Rosaldo, Michelle Z. "I Have Nothing to Hide: The Language of Ilongot Oratory." *Language in Society* 11(2), 1982.
+- Rosaldo, Michelle Z. "Toward an Anthropology of Self and Feeling." In *Culture Theory: Essays on Mind, Self, and Emotion*, ed. Richard A. Shweder and Robert A. LeVine. Cambridge: Cambridge University Press, 1984.
+- Mernissi, Fatima. *Beyond the Veil: Male-Female Dynamics in Muslim Society*. Cambridge, MA: Schenkman, 1975.
+- Abu-Lughod, Lila. *Veiled Sentiments: Honor and Poetry in a Bedouin Society*. Berkeley: University of California Press, 1986.
+- Rosaldo, Renato. "Grief and a Headhunter's Rage." In *Culture and Truth*. Boston: Beacon Press, 1989.

@@ -57,10 +57,31 @@ gaps:
 - **The Decline of Males** (1999)
 - **The Pursuit of Pleasure** (1992)
 
+## الخلفية العلمية: الصيد والذكورة والتطور
+
+ظهر كتاب «رجال في جماعات» في سياق مؤتمر «الإنسان الصيّاد» (Man the Hunter) الذي نظّمه ريتشارد لي وإرفن ديفور في شيكاغو عام 1966 وصدر عنه كتاب Aldine عام 1968، وفيه ساد تصور أن الصيد الجماعي كان محرك التطور الاجتماعي للإنسان. بنى تايغر على ذلك أن تاريخاً طويلاً من الصيد التعاوني ترك استعداداً نفسياً عند الذكور لتكوين جماعات مغلقة تستبعد النساء وتقوم على تراتب غير رسمي وعلى عداء لجماعات أخرى. ولم يكن مصدره الوحيد الإثنوغرافيا بل أيضاً علم سلوك الرئيسيات، وبخاصة ملاحظات عن القردة العليا والبابون.
+
+## النساء في الكيبوتس
+
+مع الباحث الإسرائيلي يوسف شيفر ألّف تايغر «النساء في الكيبوتس» (Harcourt Brace Jovanovich، 1975)، وهو دراسة لحركة كيبوتسية سعت إلى المساواة بين الجنسين وتربية الأطفال جماعياً، ثم لاحظ المؤلفان أن النساء عدن تدريجياً إلى الأدوار الأسرية والخدمية. رآه تايغر دليلاً على قوة الاستعدادات البيولوجية في وجه البرامج الأيديولوجية. وفي الدراسة نفسها استند إلى ملاحظة شيفر عن أن الأطفال الذين تربّوا معاً في جماعة الكيبوتس نادراً ما تزوجوا بعضهم، وهي نتيجة وافقت فرضية إدوارد وسترمارك (صاحب «تاريخ الزواج البشري» 1891، والباحث لاحقاً في المغرب) عن نفور جنسي بين من نشأوا معاً. وهذا الجزء من عمله ما زال يُناقش في دراسات تجنب السفاح.
+
+## تلقي الأعمال والنقد
+
+انتقدت الأنثروبولوجية النسوية سالي سلوكوم في «المرأة الجامعة» (Woman the Gatherer، 1975) تصور الصيد بوصفه محرك التطور، مبيّنة أن جمع النباتات مثّل مورداً غذائياً أساسياً في مجتمعات كثيرة، وهو عمل نسائي غالباً، وأن الباحثين الذكور اختاروا ما يلائم صورتهم. وأظهرت دراسات إثنوغرافية لاحقة، منها أعمال عن صيادات في بعض الجماعات، أن التقسيم الجنسي للعمل أكثر تنوعاً مما رسمه تايغر. ويضيف المختصون أن مفهوم الترابط الذكوري يحتاج إلى تمييز بين علاقات ذكورية تضامنية وأخرى استبعادية، وبين البيولوجي والمؤسسي، وهو تمييز لم يضعه المؤلف بدقة. ومع ذلك استمر مصطلحه حياً في دراسات الرياضة والجيش والسياسة.
+
+## كتب أخرى
+
+كتب «التفاؤل: بيولوجيا الأمل» (Simon & Schuster، 1979) عن التفاؤل بوصفه سمة تطورية، و«السعي إلى المتعة» (Little, Brown، 1992) عن اللذة والتطور والحياة الحديثة، وبقيت هذه الأعمال أقرب إلى الكتابة العامة منها إلى البحث الأكاديمي المحكّم.
+
 ## المصادر
 
-- Tiger, Lionel. *Men in Groups*. Random House, 1969.
-- Tiger, Lionel, and Robin Fox. *The Imperial Animal*. Holt, Rinehart and Winston, 1971.
-- Tiger, Lionel. *The Decline of Males*. Golden Books, 1999.
+
+- Tiger, Lionel. *Men in Groups*. New York: Random House, 1969.
+- Tiger, Lionel, and Robin Fox. *The Imperial Animal*. New York: Holt, Rinehart and Winston, 1971.
+- Tiger, Lionel, and Joseph Shepher. *Women in the Kibbutz*. New York: Harcourt Brace Jovanovich, 1975.
+- Tiger, Lionel. *Optimism: The Biology of Hope*. New York: Simon & Schuster, 1979.
+- Lee, Richard B., and Irven DeVore, eds. *Man the Hunter*. Chicago: Aldine, 1968.
+- Slocum, Sally. "Woman the Gatherer: Male Bias in Anthropology." In *Toward an Anthropology of Women*, ed. Rayna R. Reiter. New York: Monthly Review Press, 1975.
+- Tiger, Lionel. *The Decline of Males*. New York: Golden Books, 1999.
 - Wilson, Edward O. *Sociobiology: The New Synthesis*. Harvard University Press, 1975.
 - Kuper, Adam. *The Chosen Primate: Human Nature and Cultural Diversity*. Harvard University Press, 1994.

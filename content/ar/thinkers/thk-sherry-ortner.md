@@ -54,10 +54,27 @@ gaps: []
 - *Making Gender: The Politics and Erotics of Culture* (1996).
 - *Life and Death on Mt. Everest: Sherpas and Himalayan Mountaineering* (1999).
 
+## جدل الطبيعة والثقافة وردود النسويات
+
+في كتاب «الطبيعة والثقافة والجندر» (Cambridge University Press، 1980) الذي حرّرته كارول ماكورماك وماريلين ستراذرن، نشرت ستراذرن مقالة «لا طبيعة ولا ثقافة: حالة الهاغن» (1980) حللت فيها مجتمع الهاغن في غينيا الجديدة، ورأت أنه لا يقسّم العالم إلى طبيعة وثقافة بالمعنى الغربي، فلا يصح أن تُبنى عليه نظرية في خضوع المرأة. وقدّم هذا النقد، مع غيره، سبباً لإعادة أورتنر صياغة موقفها فيما بعد، ونشرت مع هارييت وايتهيد كتاب «معان جنسية: البناء الثقافي للجندر والجنسانية» (Cambridge University Press، 1981) الذي نقل التركيز من البحث عن علة كونية إلى دراسة أنظمة المكانة والهيبة وكيف تُنتَج فيها الفروق بين الجنسين.
+
+## المقاومة والرفض الإثنوغرافي
+
+في مقالتها «المقاومة ومشكلة الرفض الإثنوغرافي» (Comparative Studies in Society and History، 1995) ناقشت ما رأته نزعة في الدراسات إلى رومنسة المقاومة، وسجّلت أن الباحثين يرسمون الجماعات المقهورة وكأنها بلا سياسات داخلية، فتختفي الصراعات داخلها وتضيع التعقيدات. ومن الأعمال التي ناقشتها مقالة ليلى أبو لغد «رومانسية المقاومة: تتبع تحولات السلطة من خلال نساء بدويات» (American Ethnologist، 1990)، وهو عمل قائم على دراسة نساء بدويات في مصر، يرى أن أفعال المقاومة تكشف عن بنى القوة التي تواجهها ولا تُختزل في تمجيدها، وقد تناولته أورتنر ضمن النقاش الذي أعادت فيه ربط المقاومة بتحليل السلطة. ثم أنتجت في «الأنثروبولوجيا والنظرية الاجتماعية: الثقافة والسلطة والذات الفاعلة» (Duke University Press، 2006) تصورها لـ«المشاريع» و«الألعاب الجادة»، أي الأهداف التي يسعى الفاعلون إلى تحقيقها داخل عوالم ثقافية ذات قواعد ومواقع متفاوتة.
+
+## الطبقة والأمريكيون
+
+وفي «أحلام نيوجيرسي: الرأسمال والثقافة وطلاب دفعة 1958» (Duke University Press، 2003) تتبعت مصير خريجي ثانوية في بلدة نيوجرسي، رابطة مشاريعهم الفردية بتحولات الطبقة والامتيازات في أمريكا ما بعد الحرب. وفي مقالتها «الأنثروبولوجيا المظلمة وما يقابلها: النظرية منذ الثمانينيات» (HAU، 2016) رصدت اتجاه الأنثروبولوجيا نحو دراسة العنف وعدم المساواة، ودعت إلى إعادة الاعتبار إلى ما يسميه الفاعلون الخير والمعنى.
+
 ## المصادر
 
+
 - Ortner, Sherry B. "Is Female to Male as Nature Is to Culture?" In *Woman, Culture, and Society*, ed. Michelle Zimbalist Rosaldo and Louise Lamphere. Stanford: Stanford University Press, 1974.
-- Ortner, Sherry B. "Theory in Anthropology since the Sixties." *Comparative Studies in Society and History* 26, no. 1 (1984): 126–166.
+- Ortner, Sherry B. "Theory in Anthropology since the Sixties." *Comparative Studies in Society and History* 26(1), 1984.
 - Ortner, Sherry B. *High Religion: A Cultural and Political History of Sherpa Buddhism*. Princeton: Princeton University Press, 1989.
+- Ortner, Sherry B. "Resistance and the Problem of Ethnographic Refusal." *Comparative Studies in Society and History* 37(1), 1995.
 - Ortner, Sherry B. *Making Gender: The Politics and Erotics of Culture*. Boston: Beacon Press, 1996.
 - Ortner, Sherry B. *Life and Death on Mt. Everest: Sherpas and Himalayan Mountaineering*. Princeton: Princeton University Press, 1999.
+- Ortner, Sherry B. *Anthropology and Social Theory: Culture, Power, and the Acting Subject*. Durham: Duke University Press, 2006.
+- Abu-Lughod, Lila. "The Romance of Resistance: Tracing Transformations of Power through Bedouin Women." *American Ethnologist* 17(1), 1990.
+- Ortner, Sherry B., and Harriet Whitehead, eds. *Sexual Meanings: The Cultural Construction of Gender and Sexuality*. Cambridge: Cambridge University Press, 1981.

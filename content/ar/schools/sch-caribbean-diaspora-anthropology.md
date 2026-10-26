@@ -24,6 +24,14 @@ gaps:
 - **اقتصاد السكر والرأسمالية العالمية**: في عمله الأشهر *Sweetness and Power: The Place of Sugar in Modern History* (1985)، تتبّع منتز — اعتماداً على عمله الميداني الأول بين عمال قصب السكر في بورتوريكو — كيف حوّلت زراعة السكر الكاريبية المستعبِدة أنماطاً استهلاكية بريطانية بأكملها، رابطاً الأنثروبولوجيا بالتاريخ الاقتصادي العالمي في دراسة سلعة واحدة.
 - **الخلْقنة (Creolization)**: صار مفهوم "الخَلقنة" — عملية تشكّل ثقافات ولغات ومجتمعات جديدة هجينة من التقاء عناصر أفريقية وأوروبية وأصلية أمريكية وأحياناً آسيوية في بيئة الكاريبي الاستعمارية — إطاراً مركزياً يتجاوز اللسانيات (اللغات الكريولية) إلى تحليل الثقافة والهوية ككل.
 
+## المسلمون والحضور العربي في الكاريبي
+
+يمثل الإسلام أحد الخيوط المنسية في حكاية الكاريبي. فقد وثّقت سيلفيان ديوف في Servants of Allah: African Muslims Enslaved in the Americas (مطبعة جامعة نيويورك، 1998) أن نسبة معتبرة من المستعبَدين الأفارقة القادمين من السنغال وغامبيا وغينيا كانوا مسلمين يقرؤون العربية، وأن بعضهم كتب بها أدعية ومذكرات في جامايكا والبرازيل والولايات المتحدة، وأن السلطات في جزر عدة كانت تخشى هذه المعرفة. وأضاف العمال المتعاقدون الهنود بعد إلغاء الرق، منذ منتصف القرن التاسع عشر، حضوراً إسلامياً جديداً في ترينيداد وغيانا وسورينام. ومن أبرز مظاهره موكب حسّاي (Hosay) في ترينيداد، الذي يحيي ذكرى استشهاد الحسين في عاشوراء بنعوش وأبراج ورقية، والذي درسه فرانك كوروم في Hosay Trinidad: Muharram Performances in an Indo-Caribbean Diaspora (مطبعة جامعة بنسلفانيا، 2003)، فبيّن كيف صار الاحتفال موضع تفاوض بين الدولة الاستعمارية والجماعة. وقد قمعت السلطات البريطانية موكب 1884 في سان فرناندو بالنار، فقُتل نحو عشرين من المتظاهرين فيما سُمّي مذبحة الجامبوري. ويضاف إلى ذلك مهاجرون من بلاد الشام، سوريون ولبنانيون وفلسطينيون، استقروا منذ أواخر القرن التاسع عشر في هايتي وجامايكا وترينيداد وجمهورية الدومينيكان، وعملوا في التجارة، ثم شكّلوا جماعات دخلت بدورها في سؤال الهوية والانتماء.
+
+## الشتات وما وراء الجزيرة
+
+اتسع الحقل مع الهجرة الكاريبية الكبيرة إلى بريطانيا وأمريكا الشمالية بعد الحرب العالمية الثانية. فقد كتب ستيوارت هول، الجامايكي المقيم في بريطانيا، مقالته الشهيرة Cultural Identity and Diaspora (1990) التي رأى فيها أن الهوية الكاريبية ليست أصلاً ثابتاً نعود إليه، بل عملية تشكّل مستمرة في المنفى، ورأى بول جيلروي في The Black Atlantic: Modernity and Double Consciousness (فيرسو، 1993) أن ثقافات السود عبر الأطلسي تكوّن فضاء حداثياً قائماً بذاته لا يختزل في الدولة القومية. وأضاف ميشيل-رولف تروييّو في Silencing the Past: Power and the Production of History (مطبعة بيكون، 1995) أن الثورة الهايتية لم تُفكَّر في زمانها لأن إطار الفكر الأوروبي عجز عن تصور عبيد يصنعون حرية، فصارت الأنثروبولوجيا مدعوة إلى مساءلة الأرشيف ذاته. أما إدوار غليسان فقدّم في Poetics of Relation فكرة العلائقية بديلاً عن الجوهر الجذري، وقدّم فرناندو أورتيس مفهوم التثاقف (Transculturation) في دراسته عن التبغ والسكر في كوبا، سابقاً مفهوم الخلقنة.
+
 ## القيد
 
 - ظلّ الجدل بين "البقاء الأفريقي" (هرسكوفيتس) و"إعادة البناء البنيوي" (منتز وبرايس) نقاشاً مفتوحاً: يرى بعض الباحثين أن نموذج منتز وبرايس، رغم دقته المنهجية، يُقلّل أحياناً من استمراريات أفريقية موثّقة تجريبياً بوضوح أكبر في بعض المناطق (كهايتي والبرازيل) مقارنة بمناطق أخرى.
@@ -35,4 +43,7 @@ gaps:
 - Mintz, Sidney W., and Richard Price. *The Birth of African-American Culture: An Anthropological Perspective*. Boston: Beacon Press, 1976 (rev. ed. 1992).
 - Mintz, Sidney W. *Sweetness and Power: The Place of Sugar in Modern History*. New York: Viking, 1985.
 - Trouillot, Michel-Rolph. *Peasants and Capital: Dominica in the World Economy*. Baltimore: Johns Hopkins University Press, 1988.
-- Yelvington, Kevin A. "Sidney W. Mintz: Charting an Anthropology of the Caribbean." *Journal of Peasant Studies* 46, no. 5 (2019): 1075–1091.
+- Diouf, Sylviane A. *Servants of Allah: African Muslims Enslaved in the Americas*. New York: New York University Press, 1998.
+- Korom, Frank J. *Hosay Trinidad: Muharram Performances in an Indo-Caribbean Diaspora*. Philadelphia: University of Pennsylvania Press, 2003.
+- Trouillot, Michel-Rolph. *Silencing the Past: Power and the Production of History*. Boston: Beacon Press, 1995.
+- Gilroy, Paul. *The Black Atlantic: Modernity and Double Consciousness*. London: Verso, 1993.

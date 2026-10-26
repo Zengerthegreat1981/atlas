@@ -50,10 +50,29 @@ gaps:
 - *A Casa e a Rua: Espaço, Cidadania, Mulher e Morte no Brasil* (1985).
 - *O que Faz o Brasil, Brasil?* (1984).
 
+## هل تعرف مع من تتكلم؟
+
+من أشهر تحليلات دا ماتا مقالته في «الكرنفالات والمحتالين والأبطال» عن العبارة البرازيلية «Você sabe com quem está falando؟» (أتعرف مع من تتكلم؟)، وهي عبارة يلجأ إليها شخص في موقف قاعدة عامة ينطبق على الجميع، ليذكّر الطرف الآخر بأن مكانته الخاصة تعفيه من تلك القاعدة. اعتبرها دا ماتا طقساً من طقوس التراتب: يحاول المتكلم تحويل علاقة غير شخصية في الشارع إلى علاقة شخصية يحكمها الهرم الاجتماعي، فتظهر الازدواجية بين القانون المكتوب للجميع وشبكات الولاء والمعارف. وبذلك أبرز كيف يتعايش في البرازيل منطق المواطنة الفردية ومنطق الشخص صاحب الحظوة.
+
+## المنهج: تحويل المألوف إلى غريب
+
+في «التنسيب النسبي: مدخل إلى الأنثروبولوجيا الاجتماعية» (Relativizando، 1981) صاغ دا ماتا مبدأ مزدوجاً: على الأنثروبولوجي أن يجعل الغريب مألوفاً بتفسيره، وأن يجعل المألوف غريباً بإخضاعه للسؤال. وقد طبّق الشق الثاني على مجتمعه، فاعتبر الكرنفال والمباراة والموكب الديني والأعياد الوطنية طقوساً تمثّل بنية العلاقات. أما الشق الأول فتجلى في عمله الميداني مع شعب الأبينايي في وسط البرازيل، الذي أنتج كتاب «عالم منقسم: البنية الاجتماعية لهنود الأبينايي» (1976)، وهو تحليل لنظام القرابة والتنظيم الثنائي على خطى ليفي شتراوس وديفيد مايبوري-لويس الذي أشرف على رسالته في هارفارد.
+
+## الخرافة الثلاثية والعنصرية
+
+في «ما الذي يجعل البرازيل برازيلاً؟» (1984) ناقش دا ماتا ما سمّاه خرافة الأعراق الثلاثة، أي تصوّر أن البرازيل تشكلت من اندماج سلس بين الهنود والأفارقة والبرتغاليين، وهي صورة ارتبطت بكتاب غيلبرتو فريري «السادة والعبيد» (1933). رأى أن هذه الصورة تؤدي وظيفة أيديولوجية: تخفي العنصرية بتصوير المجتمع مندمجاً، وتبقي التراتب قائماً بمنطق الجميع في مكانه. وتبعه باحثون برازيليون ناقشوا ما يعرف بالديمقراطية العرقية.
+
+## تأملات نقدية
+
+بقيت حجته عن «البيت والشارع» أدق في وصف الطبقات الوسطى الحضرية في ريو وساو باولو من وصفها المجتمعات الريفية والأصلية، كما لاحظ نقاد أن اهتمامه بالطقس يقدّم صورة منسجمة عن مجتمع يعج بالصراع الطبقي والعنف.
+
 ## المصادر
+
 
 - DaMatta, Roberto. *Carnivals, Rogues, and Heroes: An Interpretation of the Brazilian Dilemma*. Translated by John Drury. Notre Dame: University of Notre Dame Press, 1991 [1979].
 - DaMatta, Roberto. *A Casa e a Rua: Espaço, Cidadania, Mulher e Morte no Brasil*. São Paulo: Brasiliense, 1985.
+- DaMatta, Roberto. *O que Faz o Brasil, Brasil?* Rio de Janeiro: Rocco, 1984.
+- DaMatta, Roberto. *Relativizando: Uma Introdução à Antropologia Social*. Petrópolis: Vozes, 1981.
+- DaMatta, Roberto. *Um Mundo Dividido: A Estrutura Social dos Índios Apinayé*. Petrópolis: Vozes, 1976.
 - Hess, David J., and Roberto A. DaMatta (eds.). *The Brazilian Puzzle: Culture on the Borderlands of the Western World*. New York: Columbia University Press, 1995.
-- "Roberto DaMatta and the Anthropology of Brazil." *Social Anthropology* 27, no. 3 (2019).
-- University of Notre Dame, Department of Anthropology, faculty profile: "Roberto DaMatta."
+- Freyre, Gilberto. *Casa-Grande e Senzala*. Rio de Janeiro: Maia & Schmidt, 1933.

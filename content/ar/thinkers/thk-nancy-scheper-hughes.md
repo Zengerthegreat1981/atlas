@@ -49,10 +49,25 @@ gaps: []
 - *Saints, Scholars, and Schizophrenics: Mental Illness in Rural Ireland* (1979).
 - "The Primacy of the Ethical: Propositions for a Militant Anthropology." *Current Anthropology* (1995).
 
+## أيرلندا والبرازيل: العلاقة بين الفقر والتفسير الثقافي
+
+بدأت شيبر-هيوز مسيرتها بكتاب «قديسون وعلماء ومصابون بالفصام: المرض العقلي في أيرلندا الريفية» (University of California Press، 1979)، وهو دراسة لقرية في مقاطعة كيري ربطت بين ارتفاع حالات الفصام بين الرجال العزّاب والبنية الاقتصادية للوراثة والزواج المتأخر والهجرة. ومن هناك انتقلت إلى البرازيل، حيث عملت في ألتو دو كروزيرو بدءاً من منتصف الستينيات متطوعة في فيلق السلام ثم باحثة، وتابعت الحي أكثر من ثلاثين عاماً. وفي مقالتها «جنون الجوع: المرض والهذيان والجوع في شمال شرق البرازيل» (Culture, Medicine and Psychiatry، 1988) بيّنت كيف يُترجم المرض الاجتماعي إلى مصطلح محلي هو العصبية، وكيف تعالجه العيادات بالمهدئات بدل معالجة الجوع.
+
+## الأعضاء والتبادل بين الأجساد
+
+في مقالتها «التجارة العالمية بالأعضاء البشرية» (Current Anthropology، 2000) رسمت خرائط تتدفق فيها الكلى من الفقراء في دول الجنوب إلى مرضى في الشمال والخليج وإسرائيل وغيرها، تتوسطها شبكات سماسرة وجراحين ومستشفيات. وناقش كتاب «تسليع الأجساد» (SAGE، 2002) الذي حرّرته مع لويك فاكان الفرق بين الهبة والبيع والسرقة في هذه الصفقات. ومن زاوية التقاليد الإسلامية، تتفق مجامع فقهية معاصرة على منع بيع الأعضاء مع إجازة التبرع بشروط، وهو إطار أخلاقي يلتقي مع قلق شيبر-هيوز من تحويل الجسد إلى سلعة، وإن كانت دراستها ميدانية لا فقهية.
+
+## العنف اليومي والحرب والسلم
+
+حرّرت مع فيليب بورجوا «العنف في الحرب والسلم» (Blackwell، 2004)، وفيه مفهوم استمرارية العنف: ما يظهر في الحرب يمتد في أشكال أخفى داخل حياة السلم، من الإهمال الصحي إلى العنف الأسري. وهذا الجمع بين العنف اليومي والعنف الظاهر هو ما يربط بين دراستها للبرازيل ودراستها للأعضاء.
+
 ## المصادر
+
 
 - Scheper-Hughes, Nancy. *Death Without Weeping: The Violence of Everyday Life in Brazil*. Berkeley: University of California Press, 1992.
 - Scheper-Hughes, Nancy. *Saints, Scholars, and Schizophrenics: Mental Illness in Rural Ireland*. Berkeley: University of California Press, 1979.
-- Scheper-Hughes, Nancy. "The Primacy of the Ethical: Propositions for a Militant Anthropology." *Current Anthropology* 36, no. 3 (1995): 409–440.
+- Scheper-Hughes, Nancy. "The Primacy of the Ethical: Propositions for a Militant Anthropology." *Current Anthropology* 36(3), 1995.
+- Scheper-Hughes, Nancy. "The Global Traffic in Human Organs." *Current Anthropology* 41(2), 2000.
+- Scheper-Hughes, Nancy. "The Madness of Hunger: Sickness, Delirium, and Human Needs." *Culture, Medicine and Psychiatry* 12, 1988.
 - Scheper-Hughes, Nancy, and Loïc Wacquant (eds.). *Commodifying Bodies*. London: SAGE, 2002.
-- University of California, Berkeley, Department of Anthropology, faculty profile: "Nancy Scheper-Hughes."
+- Scheper-Hughes, Nancy, and Philippe Bourgois (eds.). *Violence in War and Peace: An Anthology*. Oxford: Blackwell, 2004.

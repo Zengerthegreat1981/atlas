@@ -47,10 +47,30 @@ gaps:
 - *Making PCR: A Story of Biotechnology*. Chicago: University of Chicago Press, 1996.
 - *Anthropos Today: Reflections on Modern Equipment*. Princeton: Princeton University Press, 2003.
 
+## صفرو والسيطرة الرمزية
+
+بعد تكوينه في جامعة شيكاغو ذهب رابينو في أواخر الستينيات إلى بلدة صفرو في المغرب، الميدان الذي سبق أن درسه كليفورد غيرتز، وعمل مع مخبرين مغاربة اعتمد عليهم في فهم المدينة، ثم صاغ عن هذه الفترة كتاب «السيطرة الرمزية: الشكل الثقافي والتغير التاريخي في المغرب» (University of Chicago Press، 1975)، وهو دراسة لمعاني السلطة في المجتمع المغربي من خلال الدين والعلاقات بين الجماعات. ثم جاء «تأملات في العمل الميداني في المغرب» ليروي ما لم تقله الدراسة العلمية: كيف تعرّف على أفراد مثل إبراهيم وعلي ومالك الذين أصبحوا مفاتيح معرفته، وكيف أن ما جمعه كان نتاج لقاء لا ملاحظة صرفة. وفي هذا السرد يتجاور الحوار مع الأفراد في الأسواق والمنازل مع إدراكه أنه، بوصفه أمريكياً، يُنظر إليه في سياق ما بعد الاستعمار الفرنسي، فيتلقى من محاوريه أجوبة تحمل تقديرهم لموقعه.
+
+## مقالة التمثيلات حقائق اجتماعية
+
+شارك رابينو في كتاب «الكتابة الثقافية» بمقالة «التمثيلات حقائق اجتماعية: الحداثة وما بعد الحداثة في الأنثروبولوجيا»، وفيها اعتبر أن الأنثروبولوجيا نفسها تنتمي إلى الحداثة التي تدرسها، وأن العلاقة بين الدارس والمدروس لا تُستغنى عن تاريخها، وانتقد استعمال الذات الكاتبة أو الذات الحوارية بديلاً سهلاً عن السلطة التمثيلية. وكانت هذه الحجة أكثر حذراً من بعض معاصريه، إذ رفض أن تُحوَّل الانعكاسية إلى غاية في ذاتها.
+
+## فوكو ورابينو وأنثروبولوجيا العقل
+
+مع هوبرت دريفوس كتب رابينو «ميشيل فوكو: ما وراء البنيوية والتأويلية» (University of Chicago Press، 1982)، وهو مدخل ساهم في تقديم فوكو إلى القراء الأنجلوفونيين بمفاهيم الأركيولوجيا والجينيالوجيا. ثم في «مقالات في أنثروبولوجيا العقل» (Princeton University Press، 1996) جمع دراسات عن العقل بوصفه تاريخاً لأشكال التفكير والممارسة. وفي «تحديد الوقت: عن أنثروبولوجيا الراهن» (Princeton University Press، 2008) طرح تصور الباحث بوصفه صاحب مختبر يعيد تشكيل أسئلته، وفي «تصميم الممارسات الإنسانية» مع غايمون بينيت (University of Chicago Press، 2012) جرّب العمل مع علماء البيولوجيا التركيبية.
+
+## حدود المقاربة
+
+رأى نقاد أن كتابه عن المغرب بقي رهين تجربة باحث أمريكي في موقف التبعية، وأنه قدّم محاوريه المغاربة أدوات في سرد الباحث أكثر منهم أصحاب رؤى مستقلة، وهي تهمة وُجّهت لجنس التأمل الذاتي كله. وقال آخرون إن مشاريعه المتأخرة في البيولوجيا التركيبية صارت قريبة من مؤسسات التقنية بحيث يصعب معها النقد الخارجي الذي تبناه في بداياته.
+
 ## المصادر
 
+
 - Rabinow, Paul. *Reflections on Fieldwork in Morocco*. Berkeley: University of California Press, 1977.
-- Rabinow, Paul. *Anthropos Today: Reflections on Modern Equipment*. Princeton: Princeton University Press, 2003.
+- Rabinow, Paul. *Symbolic Domination: Cultural Form and Historical Change in Morocco*. Chicago: University of Chicago Press, 1975.
+- Rabinow, Paul. "Representations Are Social Facts: Modernity and Post-Modernity in Anthropology." In *Writing Culture*, ed. James Clifford and George E. Marcus. Berkeley: University of California Press, 1986.
+- Dreyfus, Hubert L., and Paul Rabinow. *Michel Foucault: Beyond Structuralism and Hermeneutics*. Chicago: University of Chicago Press, 1982.
 - Rabinow, Paul (ed.). *The Foucault Reader*. New York: Pantheon Books, 1984.
-- "World-renowned anthropologist Paul Rabinow dies at 76." *Berkeley News*, April 23, 2021.
-- UC Berkeley Department of Anthropology, faculty memorial page: Paul M. Rabinow.
+- Rabinow, Paul. *Making PCR: A Story of Biotechnology*. Chicago: University of Chicago Press, 1996.
+- Rabinow, Paul. *Anthropos Today: Reflections on Modern Equipment*. Princeton: Princeton University Press, 2003.
+- Rabinow, Paul. *Marking Time: On the Anthropology of the Contemporary*. Princeton: Princeton University Press, 2008.

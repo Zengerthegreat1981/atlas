@@ -20,10 +20,10 @@ edges:
 - rel: "belongs_to", target: "thk-george-lindbeck", target_type: "مفكر"
 related:
 - id: "thk-george-lindbeck", title: "جورج ليندبيك (George Lindbeck)", type: "مفكر"
-- id: "sch-narrative-theology-frei-lindbeck", title: "لاهوتُ السَّرد (Narrative Theology): فاينز وليندبيك والمنهجُ الحكائيُّ", type: "مدرسة"
+- id: "sch-narrative-theology-frei-lindbeck", title: "لاهوتُ السَّرد (Narrative Theology): فراي وليندبيك والمنهجُ الحكائيُّ", type: "مدرسة"
 - id: "con-textual-theology-narratival", title: "اللاهوتُ النَّصيُّ والحكائيُّ (Textual Theology)", type: "مفهوم"
 - id: "wrk-eclipse-biblical-narrative-frei", title: "كُسوفُ السَّردِ التوراتيِّ (The Eclipse of Biblical Narrative)", type: "عمل / كتاب"
-- id: "thk-hans-frei", title: "هانز فاينز (Hans Frei)", type: "مفكر"
+- id: "thk-hans-frei", title: "هانز فراي (Hans Frei)", type: "مفكر"
 gaps:
   - "لم يُطبَّق النموذجُ اللغويُّ-الحكائيُّ لليندبيك مباشرةً على دراسةِ العقائدِ الإسلاميةِ (التوحيد، النبوة) وكيف تعملُ داخل السياق اللغويّ والسرديّ الإسلاميّ."
 ---

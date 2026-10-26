@@ -54,10 +54,31 @@ gaps: []
 - *Being Alive: Essays on Movement, Knowledge and Description* (2011).
 - *Making: Anthropology, Archaeology, Art and Architecture* (2013).
 
+## من الرعاة الشماليين إلى منظور السكن
+
+بدأ إنغولد عمله الميداني في بيئة شمالية: درس قبيلة السكولت لاب في فنلندا الشمالية في «السكولت لاب اليوم» (Cambridge University Press، 1976)، وتابع بحثه في رعاة الرنة بوصفه مدخلاً إلى مسألة العلاقة بين الإنسان والحيوان، فكتب «الصيادون والرعاة وأصحاب المزارع» (Cambridge University Press، 1980) وبيّن فيه أن مفهوم التدجين وما يرتبط به من ملكية يخفي تغيراً في علاقة الثقة بين البشر والحيوانات. وفي «التطور والحياة الاجتماعية» (Cambridge University Press، 1986) ناقش حدود البيولوجيا الاجتماعية، ومن ثم نقل اهتمامه إلى ظاهراتية الإدراك.
+
+## الصناعة والمادة
+
+انتقد في «نسيجية الصناعة» (Cambridge Journal of Economics، 2010) مبدأ الهيلومورفية الأرسطي الذي يرى في الصنع إسقاط شكل ذهني على مادة، واقترح مبدأ التشكل الذي تبرز فيه الأشكال من تفاعل القوى والمواد، كما في سلة تُحاك أو حجر يُنحت أو خشب يُقطع بمسار حبيباته. وشبّه الصانع بمن يتتبع خيطاً أو يُصاحب مجرى. ورأى في «حين تلتقي نظرية الفاعل-الشبكة بالعنكبوت: نظرية اجتماعية للمفصليات» (في مجلد «الفاعلية المادية»، Springer، 2008) أن نظرية الفاعل-الشبكة تُصلب الأشياء في شبكة بينما الحياة تتحرك عبر خطوط وأشرطة.
+
+## الأرض بوصفها نسيجاً من مسالك
+
+في «حياة الخطوط» (Routledge، 2015) وسّع إنغولد حجته إلى كون الكائنات ليست كتلاً متجاورة بل خطوط نمو وحركة تتشابك، وأن ما يسمى مكاناً هو عقدة تتجمع فيها المسالك. وفي «أن تكون حياً» (2011) جمع مقالات في الحركة والمعرفة والوصف تدافع عن أنثروبولوجيا تتعلم من الناس لا تدرسهم، حتى عدّ الأنثروبولوجيا ممارسة تعليمية. ثم طوّر هذا التصور في «الأنثروبولوجيا بوصفها تعليماً» (2018) و«مراسلات» (Polity، 2021).
+
+## ما يُؤخذ عليه
+
+أخذ إيان هودر في «متشابك» (Wiley-Blackwell، 2012) على إنغولد أنه يقلل من أهمية خصائص الأشياء الفريدة والاعتماد المتبادل بين البشر والأشياء. ويقول باحثون يتبنون الاقتصاد السياسي إن لغته عن السكن والنمو تتجنب التحليل المباشر للطبقة والملكية، وإن مفهوم الصنع الحر قد لا يلائم العمل الصناعي المغترب. أما انتقاده لمفهوم الثقافة فيرى فيه بعضهم أنه يهمل ما تتيحه المقارنة والتصنيف من معرفة.
+
 ## المصادر
 
+
 - Ingold, Tim. *The Perception of the Environment: Essays on Livelihood, Dwelling and Skill*. London: Routledge, 2000.
+- Ingold, Tim. *Hunters, Pastoralists and Ranchers: Reindeer Economies and Their Transformations*. Cambridge: Cambridge University Press, 1980.
+- Ingold, Tim. *Evolution and Social Life*. Cambridge: Cambridge University Press, 1986.
 - Ingold, Tim. *Lines: A Brief History*. London: Routledge, 2007.
 - Ingold, Tim. *Being Alive: Essays on Movement, Knowledge and Description*. London: Routledge, 2011.
 - Ingold, Tim. *Making: Anthropology, Archaeology, Art and Architecture*. London: Routledge, 2013.
-- University of Aberdeen, Department of Anthropology, faculty profile: "Tim Ingold."
+- Ingold, Tim. *The Life of Lines*. London: Routledge, 2015.
+- Ingold, Tim. "The Textility of Making." *Cambridge Journal of Economics* 34(1), 2010.
+- Hodder, Ian. *Entangled: An Archaeology of the Relationships between Humans and Things*. Oxford: Wiley-Blackwell, 2012.

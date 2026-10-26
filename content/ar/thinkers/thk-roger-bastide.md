@@ -47,12 +47,31 @@ gaps: []
 - *Les Religions africaines au Brésil* (1960).
 - *Sociologie des maladies mentales* (1965).
 - *Le Candomblé de Bahia* (1958).
-- *African Civilisations in the New World* (1967، ترجمة إنجليزية).
+- *Les Amériques noires* (1967؛ ترجمتها الإنجليزية *African Civilizations in the New World*، 1971).
+
+## البحث مع فلورستان فرناندس والعلاقات العرقية
+
+بين 1951 و1955 شارك باستيد مع الباحث البرازيلي فلورستان فرناندس في دراسة اليونسكو عن العلاقات العرقية في البرازيل، ونتج عنها كتاب «البيض والسود في ساو باولو» (1955)، الذي كشف التمييز العنصري الفعلي في المدينة ونقد صورة الديمقراطية العرقية التي رسمها غيلبرتو فريري. وشكّل هذا العمل مدرسة ساو باولو في دراسة العنصرية، وتخرج فيها باحثون مثل فرناندو هنريكي كاردوسو وأوكتافيو إياني، وكلاهما أصبح من أبرز علماء الاجتماع في البرازيل.
+
+## الإسلام في باهيا
+
+من الجوانب المتصلة بالتقليد العربي الإسلامي أن بين الأفارقة المستعبدين في باهيا مسلمين عُرفوا باسم المالي (malês)، ينتمي معظمهم إلى الهوسا واليوروبا، واحتفظوا بعربية مكتوبة في التمائم والألواح، وقادوا انتفاضة باهيا عام 1835. وقد أعاد جواو جوزيه ريس بناء هذه الانتفاضة في «تمرد العبيد في البرازيل: انتفاضة المسلمين عام 1835 في باهيا» (Johns Hopkins University Press، 1993). أما باستيد فبقيت إشارته إلى الإسلام جانبية قياساً إلى اهتمامه بالكاندومبلي، وهو ما استدركته أبحاث لاحقة.
+
+## الأحلام والجنون والغيبوبة
+
+في «الحلم والغيبوبة والجنون» (1972) وسّع باستيد عمله عن الاضطراب النفسي ليشمل الغيبوبة الطقسية، وجادل بأن التقمص في الكاندومبلي ليس مرضاً بل تقنية اجتماعية منظمة تتيح للفرد دخول الآلهة وفق قواعد مضبوطة، وأن الثقافات تشكّل حدود الجنون والسواء على نحو يختلف باختلاف موقع الفرد. وفي «الأمريكتان السوداوان» (Les Amériques noires، 1967؛ ترجمتها الإنجليزية 1971) قارن بين مصائر الثقافات الأفريقية في البرازيل والكاريبي والولايات المتحدة.
+
+## مراجعة تصنيفاته
+
+اعتبر باحثون برازيليون لاحقون أن ثنائية النقاء والتركيب عند باستيد تعيد إنتاج مفهوم الأصل الأفريقي الصافي. وطرحت أبحاث البرازيل الحديثة صورة لجماعات الكاندومبلي تتحرك بين الأصل والتجديد بدرجة أكبر مما افترضته دراسات الخمسينيات.
 
 ## المصادر
 
+
 - Bastide, Roger. *Les Religions africaines au Brésil: vers une sociologie des interpénétrations de civilisations*. Paris: Presses Universitaires de France, 1960.
 - Bastide, Roger. *The African Religions of Brazil: Toward a Sociology of the Interpenetration of Civilizations*. Translated by Helen Sebba. Baltimore: Johns Hopkins University Press, 1978.
+- Bastide, Roger. *Le Candomblé de Bahia (rite nagô)*. Paris: Mouton, 1958.
 - Bastide, Roger. *Sociologie des maladies mentales*. Paris: Flammarion, 1965.
-- Despland, Michel. *Bastide on Religion: The Invention of Candomblé*. London: Equinox, 2009.
-- Peixoto, Fernanda Arêas. "Roger Bastide: a sociology of the interpenetration of civilizations." *Revista Pesquisa FAPESP*, 2019.
+- Bastide, Roger. *Le Rêve, la transe et la folie*. Paris: Flammarion, 1972.
+- Bastide, Roger, and Florestan Fernandes. *Brancos e Negros em São Paulo*. São Paulo: Companhia Editora Nacional, 1955.
+- Reis, João José. *Slave Rebellion in Brazil: The Muslim Uprising of 1835 in Bahia*. Baltimore: Johns Hopkins University Press, 1993.

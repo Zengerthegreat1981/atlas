@@ -10,7 +10,7 @@ title: "اللاهوتُ النَّصيُّ والحكائيُّ"
 en: "Textual and Narrative Theology"
 crumb: "علمُ الأديان المقارن ← النَّصوصُ والتفسيرُ ← لاهوتُ السَّرد ← اللاهوتُ النَّصيُّ والحكائيُّ"
 related:
-- id: "sch-narrative-theology-frei-lindbeck", title: "لاهوتُ السَّرد (Narrative Theology): فاينز وليندبيك والمنهجُ الحكائيُّ", type: "مدرسة"
+- id: "sch-narrative-theology-frei-lindbeck", title: "لاهوتُ السَّرد (Narrative Theology): فراي وليندبيك والمنهجُ الحكائيُّ", type: "مدرسة"
 - id: "thk-george-lindbeck", title: "جورج ليندبيك (George Lindbeck)", type: "مفكر"
 - id: "wrk-nature-of-doctrine-lindbeck", title: "طبيعةُ العقيدةِ (The Nature of Doctrine)", type: "عمل / كتاب"
 - id: "con-narrative-identity-religious", title: "الهويةُ السَّرديةُ الدينية (Narrative Identity)", type: "مفهوم"

@@ -50,10 +50,34 @@ gaps: []
 - *Risk and Culture* (1982، مع Aaron Wildavsky).
 - *How Institutions Think* (1986).
 
+## التكوين والليلي
+
+نشأت ماري تيو في عائلة كاثوليكية وتعلمت في مدرسة داخلية للراهبات قبل أن تدرس في أكسفورد، ثم تتلمذت على إدوارد إيفانز بريتشارد. وتتصل بيئة الليلي، بين نهري الكاساي في الكونغو، بتحليلها اللاحق، فقد لاحظت أن هؤلاء يقدّسون حيواناً غريباً هو البنغولين ذو الحراشف، لأنه يخرج عن تصنيفات الحيوان الأرضي والمائي والشجري، فيتحول شذوذه إلى مصدر قدسية وطقس. وهذه الملاحظة أحد مفاتيح كتاب الطهارة والخطر، إذ تتعامل الجماعة مع الشاذ إما بالتحريم وإما بالتقديس.
+
+## قوانين الطعام ومراجعتها
+
+عالجت في الفصل الثالث من الطهارة والخطر تحريم الخنزير والحيوانات المحرمة في سفر اللاويين بوصفها حيوانات لا تنسجم مع تصنيف الخلق، فالمأكول ما كان منسجماً مع صنفه: ذو الظلف المشقوق المجتر على الأرض، والسمك بزعانف وحراشف في الماء. ثم أعادت النظر في هذا التفسير في «اللاويين بوصفه أدباً» (Oxford University Press، 1999) و«دموع يعقوب» (2004)، فرأت أن بنية النص تقوم على التشبيه الدقيق بين أقسام المقدس والجسد والتقدمة، لا على قائمة محرمات مستقلة. وقد ناقش ماركوس هاريس تحريم الخنزير بتفسير مادي-بيئي في «أبقار وخنازير وحروب وسحرة» (1974) في مقابل مقاربتها الرمزية، وما زال النقاش مفتوحاً.
+
+## الطهارة في الفقه الإسلامي
+
+تتقاطع مقولة النجاسة لدى دوغلاس مع التصنيف الفقهي للطاهر والنجس في التقاليد الإسلامية، حيث ترتب كتب الفقه الأشياء بحسب درجة نجاستها وما ينقض الوضوء وما يوجب الغسل. وقد استفادت دراسات فقهية معاصرة من فكرة أن قواعد الطهارة تُنظّم حدود الجسد والجماعة، ومنها كتاب ماريون كاتز «جسد النص: نشأة الفقه السني للطهارة الشعائرية» (SUNY Press، 2002). غير أن الفقهاء أنفسهم يعلّلون الأحكام تعليلاً تعبدياً وفقهياً، فلا تُختزل في وظيفة رمزية اجتماعية.
+
+## الاستهلاك والمؤسسات
+
+في «عالم السلع» (Basic Books، 1979) مع بارون إشروود عدّت دوغلاس الاستهلاك نظاماً لتبادل المعنى لا لإشباع الحاجات وحدها، فالسلع تُستعمل لرسم الحدود الاجتماعية وتمييز من ينتمي إلى الجماعة. وفي «كيف تفكر المؤسسات» أبرزت أن المؤسسات تثبّت الفئات التي يفكر بها أعضاؤها، فتصنع النسيان والتذكر الجمعيين، متأثرة بدوركايم وفليك.
+
+## حدود النظرية
+
+قال ناقدوها إن نموذج الشبكة والمجموعة يفترض أن الأفراد يتبنون ثقافة واحدة، بينما يتنقلون في الواقع بين سياقات يفرض كل منها نمطاً مختلفاً. وأشار آخرون إلى أن تحليلها الرمزي يهمل الاقتصاد السياسي للمؤسسات الدينية، وأن التفسير الوظيفي للمحظورات قد يصعب اختباره ما لم تُستخدم بيانات مقارنة منضبطة.
+
 ## المصادر
+
 
 - Douglas, Mary. *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*. London: Routledge & Kegan Paul, 1966.
 - Douglas, Mary. *Natural Symbols: Explorations in Cosmology*. London: Barrie & Rockliff, 1970.
-- Douglas, Mary, and Aaron Wildavsky. *Risk and Culture: An Essay on the Selection of Technological and Environmental Dangers*. Berkeley: University of California Press, 1982.
-- Fardon, Richard. *Mary Douglas: An Intellectual Biography*. London: Routledge, 1999.
 - Douglas, Mary. *The Lele of the Kasai*. London: Oxford University Press, 1963.
+- Douglas, Mary, and Baron Isherwood. *The World of Goods*. New York: Basic Books, 1979.
+- Douglas, Mary, and Aaron Wildavsky. *Risk and Culture: An Essay on the Selection of Technological and Environmental Dangers*. Berkeley: University of California Press, 1982.
+- Douglas, Mary. *Leviticus as Literature*. Oxford: Oxford University Press, 1999.
+- Katz, Marion Holmes. *Body of Text: The Emergence of the Sunni Law of Ritual Purity*. Albany: State University of New York Press, 2002.
+- Fardon, Richard. *Mary Douglas: An Intellectual Biography*. London: Routledge, 1999.

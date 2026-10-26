@@ -35,6 +35,14 @@ gaps:
 - **ليزا مالكي** (Liisa H. Malkki)، أستاذة الأنثروبولوجيا بجامعة ستانفورد، صاحبة العمل المؤسس في الحقل.
 - باحثون مرتبطون بـ**مركز دراسات اللاجئين** (Refugee Studies Centre) في جامعة أكسفورد، الذي أسّسه باربرا هارل-بوند عام 1982 وشكّل أحد أهم مراكز البحث متعدد التخصصات في اللجوء والنزوح.
 
+## اللجوء بين التراث الإسلامي والتجربة الفلسطينية
+
+عرف التراث الإسلامي مفاهيم تحمي الغريب والمستجير قبل أن تُوضع اتفاقية 1951. فقد جعلت الهجرة النبوية إلى المدينة وأحكام الجوار والأمان نقطة مرجعية في فقه اللجوء، وبحث أحمد أبو الوفا في The Right to Asylum between Islamic Shari'ah and International Refugee Law (جامعة نايف العربية للعلوم الأمنية والمفوضية السامية لشؤون اللاجئين، 2009) نقاط التقاء هذا الفقه مع القانون الدولي واختلافهما في تعريف اللاجئ والحد الأدنى للحماية. وفي القرن العشرين تحوّل اللجوء إلى تجربة عربية جماعية مع النكبة عام 1948 وإنشاء وكالة الأونروا عام 1949 لمخيمات في لبنان وسوريا والأردن والضفة الغربية وغزة. وقد درست روزماري صايغ في Palestinians: From Peasants to Revolutionaries (زيد، 1979) تحوّل الفلاحين الفلسطينيين في مخيمات لبنان إلى فاعلين سياسيين، جامعة بين التاريخ الشفوي والإثنوغرافيا. وكتبت جولي بيتيت في Landscape of Hope and Despair (مطبعة جامعة بنسلفانيا، 2005) عن المكان والذاكرة في المخيمات، وتناولت ديانا ألان في Refugees of the Revolution (مطبعة جامعة ستانفورد، 2014) حياة اللاجئين الفلسطينيين في لبنان في ظل الإقصاء القانوني وبرامج الإغاثة. وبيّنت إيلانا فيلدمان في Life Lived in Relief (مطبعة جامعة كاليفورنيا، 2018) أن الإغاثة الإنسانية المستمرة قد تحول اللجوء إلى حالة دائمة تُدار بالمساعدات، فيعيش اللاجئ بين الانتظار والعودة المؤجلة.
+
+## السوريون ومخيمات الشرق الأوسط
+
+بعد 2011 تضاعف حجم النزوح السوري إلى لبنان والأردن وتركيا، وصار مخيم الزعتري في الأردن، الذي افتُتح عام 2012، أحد أكبر المخيمات في المنطقة. ويدرس الأنثروبولوجيون كيف تتحول المخيمات إلى مدن مؤقتة تتشكل فيها أسواق وشبكات قرابة ومؤسسات محلية، وكيف تختلف سياسات الاستضافة بين دولة تفرض شروطاً صارمة على العمل والإقامة، ودولة أخرى تترك اللاجئين في مساكن غير رسمية. ويظهر في هذه الحالات ما نبّه إليه مالكي: أن المعاملة الإدارية للاجئين بوصفهم فئة منفصلة تحجب تنوعهم الاجتماعي وخبراتهم، كالمهنيين والفلاحين والنساء المعيلات، وتجعلهم موضوعاً للإحصاء قبل أن يكونوا ذوات.
+
 ## الأثرُ والتطبيق
 
 أثّرت هذه المدرسة في إعادة صياغة السياسات الإنسانية الدولية عبر نقدها لمنطق "المخيم" والتصنيف القانوني الصارم، وامتد تأثيرها إلى دراسات الهجرة القسرية المعاصرة المرتبطة بالحروب في سوريا والعراق وأفريقيا، حيث يُستعمل إطار مالكي النقدي لفهم كيف تُنتج الدول والمنظمات الدولية فئة "اللاجئ" وتديرها، بدل الاكتفاء بوصف اللجوء كواقعة إنسانية محايدة.
@@ -43,5 +51,8 @@ gaps:
 
 - Liisa H. Malkki, "Refugees and Exile: From 'Refugee Studies' to the National Order of Things," *Annual Review of Anthropology* 24 (1995): 495–523.
 - Liisa H. Malkki, *Purity and Exile: Violence, Memory, and National Cosmology among Hutu Refugees in Tanzania* (University of Chicago Press, 1995).
-- Refugee Studies Centre, University of Oxford — صفحة المركز ونبذته التاريخية.
 - Barbara Harrell-Bond, *Imposing Aid: Emergency Assistance to Refugees* (Oxford University Press, 1986).
+- Sayigh, Rosemary. *Palestinians: From Peasants to Revolutionaries*. London: Zed Books, 1979.
+- Peteet, Julie. *Landscape of Hope and Despair: Palestinian Refugee Camps*. Philadelphia: University of Pennsylvania Press, 2005.
+- Feldman, Ilana. *Life Lived in Relief: Humanitarian Predicaments and Palestinian Refugee Politics*. Oakland: University of California Press, 2018.
+- Abou-El-Wafa, Ahmed. *The Right to Asylum between Islamic Shari'ah and International Refugee Law: A Comparative Study*. Riyadh: Naif Arab University for Security Sciences, 2009.

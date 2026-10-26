@@ -40,9 +40,29 @@ gaps:
 - "Caste Ranking and Community Structure in Five Regions of India and Pakistan" (1960).
 - "Constructing an Indian Ethnosociology" (1989، *Contributions to Indian Sociology*؛ نسخة موسعة 1991).
 
+## القرية ككون صغير: كيشان غري والتقاليد الصغرى
+
+أجرى ماريوت عمله الأول بين 1950 و1952 في قرية كيشان غري بمنطقة عليكره في شمال الهند، وأفاد من المشروع الشيكاغوي عن الحضارات الذي رعاه روبرت ريدفيلد وميلتون سينغر. في مقالته «المجتمعات الصغيرة في حضارة أصلية» ضمن كتاب «الهند القروية» عرض ثنائية الكوْنَنة والتقييد المحلي: فالعناصر المحلية في الطقوس والأعياد تتحول إلى عناصر عامة مشتركة في الثقافة الهندوسية الكبرى حين تُنسَّق مع نصوص وأعياد أوسع، وتتحول العناصر الكبرى إلى محلية حين تُطبّق في قرية بعينها. وبهذه الفكرة ربط ريدفيلد بين التقليد الكبير والتقاليد الصغيرة بوصفهما نظاماً واحداً متحركاً.
+
+## المعاملات الهندوسية
+
+في مقالته «المعاملات الهندوسية: تنوع بلا ثنائية» (1976) ضمن كتاب كابفيرر «المعاملة والمعنى» رأى ماريوت أن الشخص في الفكر الهندوسي ليس فرداً مغلقاً بل «قابل للتجزئة»، يتكوّن من جواهر قابلة للتبادل عبر الطعام والجنس والنسب والمكان، فكل معاملة تحمل جزءاً من جوهر المعطي ينتقل إلى المتلقي. ولذلك ترتبط الطبقة عنده بحركة الطعام والجوهر المطبوخ بين الأفراد، لا بتصنيف النقاء والتلوث وحده كما عند لويس دومون. وكتب مع رونالد إندن «نحو إثنوسوسيولوجيا لنظم الطبقات في جنوب آسيا» (1977) ليطرح أن للهند نظام تصنيف يُستخرج من الفئات التي تستعملها نصوصها وممارساتها، لا من مقولات علم الاجتماع الأوروبي. وحرّر ماريوت في 1990 كتاب «الهند عبر الفئات الهندوسية» (Sage)، وفيه مقالات تطبق المقاربة على الغذاء والجسد والطقس والزواج.
+
+## أثره في الأجيال التالية
+
+تأثرت دراسات تالية بخط الإثنوسوسيولوجيا، منها كتاب إي. فالنتاين دانييل «الإشارات السائلة: أن تكون شخصاً على الطريقة التاميلية» (University of California Press، 1984). وانتقد رونالد إندن في «تخيّل الهند» (1990) الأنثروبولوجيا الغربية لتمثيلها الهند ثابتة، وقد قرأ كثيرون كتابه بوصفه امتداداً لمشروع ماريوت.
+
+## حدود المقاربة
+
+انتقد مايكل موفات في مقالته (Contributions to Indian Sociology، 1990) تصور ماريوت بوصفه يعمّم مفاهيم هندوسية على الهند كلها، ويتجاهل أن الأدنى في الطبقة، كمجتمع الدالِت، لا يقبل أحياناً مبدأ التراتب نفسه. وقال نقاد آخرون إن اعتماد ماريوت على نصوص سنسكريتية وطقوس منطقة محدودة يصعب تعميمه على المسلمين والمسيحيين والسيخ في جنوب آسيا، وإن مفاهيم الجواهر المتبادلة لم تُختبر بأدوات كمية.
+
 ## المصادر
 
+
 - Marriott, McKim, ed. *Village India: Studies in the Little Community*. University of Chicago Press, 1955.
-- Marriott, McKim. "Constructing an Indian Ethnosociology." *Contributions to Indian Sociology*, vol. 23, no. 1, 1989.
-- Moffatt, Michael. "Deconstructing McKim Marriott's Ethnosociology: An Outcaste's Critique." *Contributions to Indian Sociology*, vol. 24, no. 2, 1990.
-- "McKim Marriott, world-renowned scholar of India and caste, 1924–2024" — Department of Anthropology, University of Chicago — https://anthropology.uchicago.edu/news/mckim-marriott-world-renowned-scholar-india-and-caste-1924-2024
+- Marriott, McKim. "Constructing an Indian Ethnosociology." *Contributions to Indian Sociology* 23(1), 1989.
+- Marriott, McKim, and Ronald B. Inden. "Toward an Ethnosociology of South Asian Caste Systems." In *The New Wind: Changing Identities in South Asia*, ed. Kenneth David. The Hague: Mouton, 1977.
+- Marriott, McKim. "Hindu Transactions: Diversity without Dualism." In *Transaction and Meaning*, ed. Bruce Kapferer. Philadelphia: ISHI, 1976.
+- Marriott, McKim, ed. *India through Hindu Categories*. New Delhi: Sage, 1990.
+- Moffatt, Michael. "Deconstructing McKim Marriott's Ethnosociology: An Outcaste's Critique." *Contributions to Indian Sociology* 24(2), 1990.
+- Daniel, E. Valentine. *Fluid Signs: Being a Person the Tamil Way*. Berkeley: University of California Press, 1984.

@@ -47,12 +47,32 @@ gaps: []
 ## أهم أعماله
 
 - *Cargo Cult: Strange Stories of Desire from Melanesia and Beyond* (1993).
-- *Kastom: The Search for Alternative Moralities in Melanesia* (محرر مشارك، 1982).
+- *Knowledge and Power in a South Pacific Society* (1990).
+- *Island Encounters: Black and White Memories of the Pacific War* (محرر مشارك، 1990).
 - *Tanna Times: Islanders in the World* (2021).
+
+## تانا والمعرفة والسلطة
+
+قبل أن يُعرف بدراسة الشحنة كتب ليندستروم «المعرفة والسلطة في مجتمع جنوب باسيفيكي» (Smithsonian Institution Press، 1990)، وهو دراسة عن كيف تُتداول المعرفة في تانا بوصفها ملكية خاصة محروسة لا تُعطى مجاناً، فتنشأ علاقات سلطة من حيازتها وتقسيمها بين المتحاورين بحسب السن والمكانة، وتكتسب فيها جلسات شرب الكافا في ساحات الرقص وظيفة تواصلية. وهذا الاهتمام بسياسة الكلام والسر والتبادل المعرفي هو الخلفية التي جعلته يقرأ حركة جون فروم قراءة نقدية للخطاب الاستعماري عن هذه الحركات، لا بوصفها هذياناً.
+
+## الحرب العالمية الثانية والذاكرة
+
+مع جيفري وايت حرّر ليندستروم «لقاءات الجزر: ذكريات سوداء وبيضاء عن حرب المحيط الهادئ» (Smithsonian Institution Press، 1990)، وفيه جمع روايات أهل الجزر والجنود عن زمن القواعد الأمريكية في ميلانيزيا. أظهر أن أهل الجزر لاحظوا ما يعتبره المشاهد الغربي غريباً: أن جنوداً سوداً وبيضاً يتلقون معاملة غير متساوية لكنهم يتقاسمون سلعاً فاخرة وفيرة، مما أعطى بعداً أخلاقياً لسؤال التوزيع الذي صاغته حركات كثيرة. وكانت المواجهة بين السلع والحرمان محركاً أساسياً لفكرة الشحنة، فالسؤال محلياً: لماذا يملك أولئك ولا نملك نحن؟
+
+## تفكيك مقولة الشحنة
+
+رأى ليندستروم أن كلمة الشحنة صارت مقولة جاهزة تُحيل أي حركة أصلية إلى نسق واحد يتميز بانتظار سفن وطائرات، وأن الأدبيات الغربية نفسها صنعت من العبادة صورة رمزية لحماقة الآخر. واقترح بدلها قراءة كل حركة بحسب زمانها ومكانها وعلاقتها بالإدارة الاستعمارية والكنائس وسوق العمل في المزارع، مؤكداً أن النقد ينطبق على الرغبة الغربية في استهلاك السلع بالقدر نفسه، فيعكس خطاب الشحنة صورتنا نحن. وفي كتاب تحرير مع وايت «الثقافة والكاستوم والتقليد: وضع سياسة ثقافية في ميلانيزيا» (Institute of Pacific Studies، 1994) تناول فكرة الكاستوم، أي العادة المحلية بوصفها هوية سياسية مستحدثة في ظل الاستقلال.
+
+## أسئلة مفتوحة
+
+تثور أسئلة حول اعتماده على حالة واحدة، وعلى كون السرد الذي يقدمه عن تانا قد يعيد إنتاج انتقائية الرواة المحليين. كما رأى بعض الباحثين أن رفضه المصطلح قد يفرط في إنكار أن لبعض الحركات خصائص مشتركة تفسر انتشارها، وهو ما دافعت عنه أدبيات تقارن بين حركات الألفية في العالم، من ميلانيزيا إلى أفريقيا.
 
 ## المصادر
 
+
 - Lindstrom, Lamont. *Cargo Cult: Strange Stories of Desire from Melanesia and Beyond*. Honolulu: University of Hawai'i Press, 1993.
-- Lindstrom, Lamont. *Tanna Times: Islanders in the World*. Honolulu: University of Hawai'i Press, 2021.
-- Lindstrom, Lamont, and Geoffrey M. White (eds.). *Custom Today* (special issue on *Kastom*). *Anthropological Forum*, 1993.
-- University of Tulsa, Department of Anthropology, faculty profile: "Lamont Lindstrom."
+- Lindstrom, Lamont. *Knowledge and Power in a South Pacific Society*. Washington, DC: Smithsonian Institution Press, 1990.
+- Lindstrom, Lamont, and Geoffrey M. White, eds. *Island Encounters: Black and White Memories of the Pacific War*. Washington, DC: Smithsonian Institution Press, 1990.
+- Lindstrom, Lamont, and Geoffrey M. White, eds. *Culture, Kastom, Tradition: Developing Cultural Policy in Melanesia*. Suva: Institute of Pacific Studies, University of the South Pacific, 1994.
+- Worsley, Peter. *The Trumpet Shall Sound: A Study of "Cargo" Cults in Melanesia*. London: MacGibbon & Kee, 1957.
+- Bonnemaison, Joël. *The Tree and the Canoe: History and Ethnogeography of Tanna*. Honolulu: University of Hawai'i Press, 1994.

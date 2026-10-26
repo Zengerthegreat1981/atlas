@@ -54,10 +54,30 @@ gaps:
 - *Infections and Inequalities: The Modern Plagues* (1999).
 - *Pathologies of Power: Health, Human Rights, and the New War on the Poor* (2003).
 
+## الخلفية الفكرية: من غالتونغ إلى لاهوت التحرير
+
+استعار فارمر مصطلح العنف البنيوي من عالم السلام النرويجي يوهان غالتونغ في مقالته «العنف والسلام وأبحاث السلام» (Journal of Peace Research، 1969)، لكنه ملأه بمحتوى سريري وإثنوغرافي. وتأثر في عمله بلاهوت التحرير في أمريكا اللاتينية وبمبدأ الخيار التفضيلي للفقراء عند غوستافو غوتييريز، فصاغ تصوراً للطب بوصفه التزاماً تجاه من تخلّت عنهم الأنظمة. ويتوافق ذلك مع ما حدده في «استخدامات هايتي» (Common Courage Press، 1994) من أن نظرة الغرب إلى الأوبئة في هايتي تتجاهل تاريخ الاستعمار والديون والتدخل الأمريكي.
+
+## السل المقاوم والعلاج المجتمعي
+
+في مشروع كانج ومع مشاركة أطباء مثل جيم يونغ كيم وسالمو كيشافجي، وضعت منظمة الشراكة من أجل الصحة نموذجاً يعتمد على عاملين صحيين مجتمعيين يزورون المرضى في بيوتهم لمتابعة أخذ الدواء، مع دعم غذائي ونقل. وأثبت هذا النموذج في ليما بالبيرو أواخر التسعينيات إمكان علاج السل المقاوم لعدة أدوية بنسب شفاء مرتفعة، رغم اعتراض بعض خبراء الصحة العالمية على كلفته. وبناءً على ذلك راجعت منظمة الصحة العالمية إرشاداتها وأدخلت علاج السل المقاوم ضمن برامج الدول الفقيرة. وتناول فارمر الأساس النظري لهذا العمل في مقالته «العنف البنيوي والطب السريري» (PLoS Medicine، 2006) مع زملائه، وفيها يقول إن الطبيب لا يستطيع أن يفصل التشخيص عن الظروف التي تصنع المرض.
+
+## أعمال أخيرة
+
+كتب «هايتي بعد الزلزال» (PublicAffairs، 2011) عن زلزال 2010 وجهود الإعمار، و«حمى وثأر وماس: إيبولا ومآسي التاريخ» (Farrar, Straus and Giroux، 2020) عن وباء إيبولا في غرب أفريقيا وجذوره في تاريخ الاستعمار والمؤسسات الصحية الضعيفة. وشارك مع جيم كيم وأرثر كلاينمان في «إعادة تخيّل الصحة العالمية» (University of California Press، 2013).
+
+## أسئلة حول الإنصاف
+
+ثار نقاش حول ما إذا كان نموذج التمويل الاستثنائي ممكناً للجميع، وحول تأثير كون المنظمة تعتمد على متبرعين من الخارج في استقلالية الأنظمة الصحية المحلية. واتهم نقاد في هايتي بعض مشاريع الإغاثة الدولية، لا فارمر نفسه بالضرورة، بإضعاف مؤسسات الدولة بإنشاء خدمات موازية، وهو سؤال ما زال مفتوحاً.
+
 ## المصادر
 
+
 - Farmer, Paul. *AIDS and Accusation: Haiti and the Geography of Blame*. Berkeley: University of California Press, 1992.
+- Farmer, Paul. *The Uses of Haiti*. Monroe, ME: Common Courage Press, 1994.
 - Farmer, Paul. *Infections and Inequalities: The Modern Plagues*. Berkeley: University of California Press, 1999.
 - Farmer, Paul. *Pathologies of Power: Health, Human Rights, and the New War on the Poor*. Berkeley: University of California Press, 2003.
+- Farmer, Paul, Jim Yong Kim, Arthur Kleinman, and Matthew Basilico, eds. *Reimagining Global Health: An Introduction*. Berkeley: University of California Press, 2013.
+- Farmer, Paul, et al. "Structural Violence and Clinical Medicine." *PLoS Medicine* 3(10), 2006.
+- Galtung, Johan. "Violence, Peace, and Peace Research." *Journal of Peace Research* 6(3), 1969.
 - Kidder, Tracy. *Mountains Beyond Mountains: The Quest of Dr. Paul Farmer, a Man Who Would Cure the World*. New York: Random House, 2003.
-- Holmes, Seth. "Paul Edward Farmer (1959–2022)." *American Anthropologist* 126, no. 2 (2024).
