@@ -3,41 +3,34 @@ slug: "thk-cooper"
 id: "THK-0118"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Mick Cooper"
 en: "Mick Cooper"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← People ← Mick Cooper"
 dates: "بريطانيا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "dbt-evidence", title: "خصومة الأدلة", type: "جدل"
+  - id: "dbt-evidence", title: "The Dispute over Evidence", type: "جدل"
 gaps:
-  - "بيانات أعماله وطبعاتها — تحتاج تثبيتاً"
+  - "Details of his works and their editions — need to be verified"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Mick Cooper
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The one who drew the map of the field, and made it customary to say "existential therapies" in the plural rather than the singular.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Did
 
-# ميك كوبر
+He surveyed all the currents and described them in a single language, and showed that what is presented as one school is a quarrelling family.
 
-من رسم خريطة الحقل، وجعل من المعتاد أن يُقال «علاجات وجودية» بالجمع لا بالمفرد.
+## Why This Matters
 
-## ما فعله
+Because most misunderstanding in this field comes from combining currents that do not agree under a single name. His work is what makes this unit writable at all.
 
-مسح التيارات كلها ووصفها بلغة واحدة، وأظهر أن ما يُقدَّم كمدرسة واحدة هو عائلة متخاصمة.
+## His Research Contribution
 
-## لماذا هذا مهم
+One of the few within the school who worked on evidence seriously rather than rejecting the question.
 
-لأن أغلب سوء الفهم في هذا الحقل مصدره الجمع بين تيارات لا تتفق تحت اسم واحد. وعمله هو ما يجعل هذه الوحدة قابلة للكتابة أصلاً.
+## His Most Important Works
 
-## إسهامه البحثي
-
-من القلائل داخل المدرسة الذين اشتغلوا على الأدلة بجدّية بدل رفض السؤال.
-
-## أهم أعماله
-
-العلاجات الوجودية (Existential Therapies, 2003) · الإرشاد والعلاج النفسي التعددي (مع ماكلاود) (Pluralistic Counselling and Psychotherapy, 2011) · العلاج النفسي والإرشاد الوجودي: إسهامات في ممارسة تعددية (Existential Psychotherapy and Counselling, 2015) · العمل عند العمق العلائقي (مع مِيرنز) (Working at Relational Depth in Counselling and Psychotherapy, 2005)
--->
+Existential Therapies (2003) · Pluralistic Counselling and Psychotherapy (with McLeod, 2011) · Existential Psychotherapy and Counselling: Contributions to a Pluralistic Practice (2015) · Working at Relational Depth in Counselling and Psychotherapy (with Mearns, 2005)

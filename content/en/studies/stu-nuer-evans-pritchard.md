@@ -19,12 +19,6 @@ related:
   - id: con-kinship
     title: Kinship
     type: concept
-  - id: con-bridewealth
-    title: Bridewealth
-    type: concept
-  - id: con-age-grades
-    title: Age Grades
-    type: concept
 gaps: []
 sources:
   - Evans-Pritchard, E. E. (1940). The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People. Oxford University Press.

@@ -12,8 +12,6 @@ edges:
 related:
   - id: "con-meaning", title: "Meaning", type: "مفهوم"
   - id: "con-ritual", title: "Ritual", type: "مفهوم"
-  - id: "con-interpretation", title: "Interpretation", type: "مفهوم"
-  - id: "con-semiotics", title: "Semiotics", type: "مفهوم"
 gaps:
   - "Symbol and power"
   - "Symbol and colonial translation"

@@ -3,64 +3,57 @@ slug: "con-authenticity"
 id: "CON-0407"
 type: "مفهوم"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Authenticity"
 en: "Authenticity"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← Concepts ← Authenticity"
 edges:
   - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-  - id: "thk-bugental", title: "بوجنتال", type: "مفكر"
+  - id: "thk-heidegger", title: "Heidegger", type: "مفكر"
+  - id: "thk-bugental", title: "Bugental", type: "مفكر"
 gaps:
-  - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "Textual locations for each formulation — not yet entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Authenticity
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The most flattened concept in the school, reduced to a motivational slogan rather than a concept.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Freeing the Concept
 
-# الأصالة
+Authenticity is not moral honesty, nor uniqueness, nor "be yourself." At its root it is this: that a person takes over their existence as their own, instead of living it on behalf of an anonymous someone.
 
-أكثر مفهوم في المدرسة تعرّض للتسطيح، حتى صار شعاراً تحفيزياً لا مفهوماً.
+## Core Disagreements within the Concept
 
-## تحرير المفهوم
+Two disagreements: is authenticity a <b>state that is reached</b> or a <b>continuing process</b>? And does a "true self" exist to be discovered at all? Van Deurzen and Spinelli deny that it does, and this undermines the common reading of the concept at its foundation.
 
-الأصالة ليست صدقاً أخلاقياً، ولا تفرّداً، ولا «كن نفسك». هي عند الأصل: أن يتولّى المرء وجوده بوصفه وجوده هو، بدل أن يعيشه نيابةً عن مجهول.
+## How It Appears in the Session
 
-## الخلافات الجوهرية داخل المفهوم
+The word is mostly not used in front of the client. The actual work: comparing what the person says matters to them with what shows in how they spend their time, money and energy. The gap between the two is the material.
 
-خلافان: هل الأصالة <b>حالة تُبلغ</b> أم <b>عملية مستمرة</b>؟ وهل توجد «ذات حقيقية» تُكتشَف أصلاً؟ فان دورزن وسبينيللي ينكران وجودها، وهذا يهدم القراءة الشائعة للمفهوم من أساسها.
+## The Most Common Misunderstanding
 
-## كيف يظهر في الجلسة
+Turning it into "be yourself" or "follow your heart." The source says something far heavier: that you bear the fact that your life is your life, including what you did not choose.
 
-لا تُستعمل الكلمة أمام العميل غالباً. العمل الفعلي: مقارنة بين ما يقوله الشخص إنه يهمّه، وبين ما يظهر في كيف يقضي وقته وماله وطاقته. والفجوة بينهما هي المادة.
+## Example and Counter-Example
 
-## أشهر ما يُساء فهمه
+<b>Example:</b> A woman realizes after years that she chose her university major to please her family, not out of her own desire, and now works at living her next career decision, even if its impact is smaller, as the one who decides it, rather than as the voice she was used to silencing herself for. This is a work of authenticity in Bugental's sense: increasing presence at the moment of decision, not a radical overturning of her life.<br><b>Counter-example:</b> A person suddenly leaves a stable job and cuts off his relationship with his family and calls it "authenticity" because he "finally did what he wanted." But Spinelli and Van Deurzen reject precisely this use: there is no external standard that makes a radical break "authentic" in itself; what counts is comparing what the person says matters to them with what actually shows in their life, not the sharpness or noisiness of the act. Much of what is popularly marketed as authenticity is an escape from a difficult commitment disguised as liberation.
 
-تحويلها إلى «كن نفسك» أو «اتبع قلبك». الأصل يقول شيئاً أثقل بكثير: أن تتحمّل أن حياتك حياتك، بما فيها ما لم تخترْه.
+## What Should Not Be Inferred from This Concept
 
-## مثال ومثال مضاد
+It <b>does not mean</b> that every abandonment of a commitment (marriage, work, family) is in itself evidence of authenticity; a break can be as inauthentic an escape as holding on can be. For Van Deurzen the criterion is the match between declared values and the lived life, not the direction of the act.<br>It <b>also does not mean</b> that the therapist should encourage "authenticity" as a direct goal or use the word as a judgment on the client ("you are not authentic enough"). This turns a descriptive concept into a moral standard imposed from outside, which is exactly what Spinelli warns against, as a repetition of the error the concept aims to move beyond.
 
-<b>مثال:</b> موظفة تدرك بعد سنوات أنها اختارت تخصصها الجامعي إرضاءً لعائلتها لا رغبةً منها، وتعمل الآن على أن تعيش قرارها المهني القادم — ولو كان أصغر أثراً — بوصفها هي من يقرّره، لا الصوت الذي اعتادت إسكات نفسها من أجله. هذا عمل أصالة بمعنى بوجنتال: حضور متزايد في لحظة القرار، لا انقلاب جذري على حياتها.<br><b>مثال مضاد:</b> شخص يترك عمله المستقر ويقطع علاقته بعائلته فجأة ويسمّي ذلك «أصالة» لأنه «فعل ما يريد أخيراً». لكن سبينيللي وفان دورزن يرفضان بالضبط هذا الاستعمال: لا يوجد معيار خارجي يجعل قطيعة جذرية «أصيلة» بذاتها؛ العبرة بمقارنة ما يقوله الشخص إنه يهمّه بما يظهر فعلاً في حياته، لا بحدّة الفعل أو صخبه. كثير مما يُسوَّق شعبياً بوصفه أصالة هو هروب من التزام صعب متنكّر في زيّ تحرّر.
+## The Arab and Cultural Context
 
-## ما لا يُستنتج من هذا المفهوم
+The European formulations of authenticity (Heidegger, Sartre) were formed within a modern individualism that assumes the individual is the independent unit of decision, and that conforming to "the They" is a decline. In many Arab contexts the individual decision is woven structurally into a family, tribal and religious network that is not seen as a "fall" but as a source of identity and meaning legitimate in itself.<br>This opens a real question: does Heidegger's rejection of "the They" apply with the same force to a society that sees the group as a value rather than a flaw? The responsible answer is neither to import the concept as it is nor to reject it, but the distinction Van Deurzen herself proposes: there is a difference between a commitment the person chooses knowingly and finds meaning in, and a commitment into which they are driven without awareness or choice, even if it looks as though they themselves chose it. The clinical question is not "do you conform to the group?" but "are you present in your decision, whether collective or individual?"<br>Methodological note: almost all the empirical evidence on the concept of authenticity in the literature is built on Western individualist samples; there are no notable studies examining how this concept is lived or translated in Arab or non-Western samples, and this is a real research gap, not a marginal detail.
 
-<b>لا يعني</b> أن كل تخلٍّ عن التزام (زواج، عمل، عائلة) هو بحدّ ذاته دليل أصالة؛ القطيعة يمكن أن تكون هرباً غير أصيل بقدر ما يكون التمسك هرباً — المعيار عند فان دورزن هو التوافق بين القيم المُعلنة والحياة المُعاشة، لا اتجاه الفعل.<br><b>ولا يعني</b> أن على المعالج أن يشجّع «الأصالة» كهدف مباشر أو يستعمل الكلمة حكماً على العميل («أنت لست أصيلاً بما يكفي») — هذا يحوّل مفهوماً وصفياً إلى معيار أخلاقي مفروض من الخارج، وهو بالضبط ما يحذّر منه سبينيللي بوصفه تكراراً للخطأ الذي يريد المفهوم تجاوزه.
+## Comparative Table
 
-## السياق العربي والثقافي
-
-صيغ الأصالة الأوروبية (هايدجر، سارتر) صيغت داخل فردانية حديثة تفترض أن الفرد وحدة القرار المستقلة، وأن الانصياع لـ«الناس» انحطاط. في سياقات عربية كثيرة القرار الفردي منسوج بنيوياً في شبكة أسرية وعشائرية ودينية لا يُنظر إليها كـ«سقوط» بل كمصدر هوية ومعنى مشروع في ذاته.<br>هذا يفتح سؤالاً حقيقياً: هل رفض «الناس» عند هايدجر ينطبق بنفس القوة على مجتمع يرى في الجماعة قيمة لا عيباً؟ الإجابة المسؤولة ليست استيراد المفهوم كما هو ولا رفضه، بل التمييز الذي تقترحه فان دورزن نفسها: هناك فرق بين التزام يختاره الشخص واعياً به ويجد فيه معنى، والتزام يُساق إليه بلا وعي ولا اختيار حتى لو بدا هو نفسه من اختاره. السؤال الإكلينيكي ليس «هل تنصاع للجماعة؟» بل «هل أنت حاضر في قرارك، جماعياً كان أم فردياً؟»<br>ملاحظة منهجية: كل الشواهد التجريبية على مفهوم الأصالة في الأدبيات تقريباً مبنية على عيّنات غربية فردانية؛ لا توجد دراسات تُذكر تفحص كيف يُعاش هذا المفهوم أو يُترجَم في عيّنات عربية أو غير غربية، وهذا فراغ بحثي حقيقي لا مجرد تفصيل هامشي.
-
-## جدول مقارن
-
-| المفكر | صياغته بالضبط | ما يترتب عليه في الغرفة | خلافه مع غيره |
+| Thinker | His exact formulation | What follows in the room | His disagreement with others |
 |---|---|---|---|
-| هايدجر | الأصالة تولّي الوجود. ونقيضها السقوط في «الناس» حيث يُفعل ما يُفعَل ويُقال ما يُقال بلا فاعل. | السؤال: كم من حياة هذا الشخص يعيشها هو، وكم منها يعيشها «الناس» فيه؟ | ليست حكماً أخلاقياً عنده — والسقوط بنية طبيعية لا عيب. |
-| سارتر | الأصالة أن أعترف بحريتي وأتحمّلها بدل أن أختبئ في سوء النية أو في دور اجتماعي جاهز. | كشف الأدوار التي يلبسها الشخص ليعفي نفسه من الاختيار. | أخلاقي أكثر من هايدجر. |
-| بوجنتال | الأصالة عملية لا حالة. ولا أحد أصيل دائماً؛ المسألة هي مقدار الحضور في اللحظة. | العمل على الحضور داخل الجلسة نفسها لحظةً بلحظة، لا على قرار كبير في الحياة. | أنفع صياغة إكلينيكية، وأقربها للتطبيق. |
-| يالوم | الأصالة تظهر بعد مواجهة الاهتمامات النهائية: من واجه فناءه يصعب عليه أن يواصل حياة مستعارة. | استثمار لحظات الصحوة لإحداث مراجعة للأولويات. | يجعلها نتيجة لا هدفاً مباشراً. |
-| فان دورزن | لا توجد «ذات حقيقية» تُكتشَف. الأصالة توافق بين ما تعيشه في الأبعاد الأربعة وما تقول إنك تقدّره. | مقارنة عملية: قيمك المعلنة مقابل ما يظهر في وقتك ومالك وعلاقاتك. | ردّ مباشر على القراءة الرومانسية للمفهوم. |
-| سبينيللي | حتى مفهوم الأصالة نفسه قد يصير بنية مفروضة. المطلوب وصف ما يحدث في العلاقة لا قياسه على معيار. | الامتناع عن استعمال «أصيل» و«غير أصيل» كحكم في الجلسة. | أشدّ الاعتراضات على المفهوم من داخل المدرسة. |
--->
+| Heidegger | Authenticity is taking over one's existence. Its opposite is falling into "the They," where what is done is done and what is said is said with no agent. | The question: how much of this person's life do they live themselves, and how much does "the They" live in them? | Not a moral judgment for him; falling is a natural structure, not a fault. |
+| Sartre | Authenticity is to acknowledge my freedom and bear it instead of hiding in bad faith or in a ready-made social role. | Uncovering the roles the person wears to excuse themselves from choosing. | More moral than Heidegger. |
+| Bugental | Authenticity is a process, not a state. No one is always authentic; the matter is the amount of presence in the moment. | Working on presence within the session itself, moment by moment, not on a big life decision. | The most useful clinical formulation, and the closest to application. |
+| Yalom | Authenticity appears after confronting the ultimate concerns: whoever has faced their mortality finds it hard to go on living a borrowed life. | Using moments of awakening to bring about a review of priorities. | Makes it a result, not a direct goal. |
+| Van Deurzen | There is no "true self" to be discovered. Authenticity is a match between what you live across the four dimensions and what you say you value. | A practical comparison: your declared values against what shows in your time, money and relationships. | A direct response to the romantic reading of the concept. |
+| Spinelli | Even the concept of authenticity itself may become an imposed structure. What is required is describing what happens in the relationship, not measuring it against a standard. | Refraining from using "authentic" and "inauthentic" as a judgment in the session. | The sharpest objection to the concept from within the school. |

@@ -1,0 +1,148 @@
+{
+  "total_files": 936,
+  "parse_warnings": 0,
+  "parse_warning_examples": [],
+  "flag_counts": {
+    "part-not-explicit": 454,
+    "unclassified": 147,
+    "edge-target-by-name": 549,
+    "pending": 221,
+    "short": 26,
+    "placeholder": 3,
+    "duplicate-id-groups": 0
+  },
+  "flag_examples": {
+    "part-not-explicit": [
+      "axm-existence-precedes-essence",
+      "br-british",
+      "br-daseins",
+      "br-humanistic",
+      "br-logotherapy",
+      "br-political-anthropology-subfield",
+      "con-absurd",
+      "con-adaptation",
+      "con-adoption",
+      "con-aesthetics",
+      "con-age-grade",
+      "con-age-set",
+      "con-aging",
+      "con-alliance",
+      "con-ancestor-worship"
+    ],
+    "unclassified": [
+      "axm-existence-precedes-essence",
+      "br-british",
+      "br-daseins",
+      "br-humanistic",
+      "br-logotherapy",
+      "con-absurd",
+      "con-aging",
+      "con-anxiety-existential",
+      "con-anxiety",
+      "con-authenticity-inauthenticity",
+      "con-authenticity",
+      "con-bad-faith",
+      "con-being-becoming",
+      "con-being-toward-death",
+      "con-choice-constraint"
+    ],
+    "edge-target-by-name": [
+      "axm-existence-precedes-essence->المدرسة الوجودية",
+      "br-british->المدرسة الوجودية",
+      "br-british->فان دورزن",
+      "br-british->التيار الأمريكي",
+      "br-british->الظاهراتية",
+      "br-british->الصيغة العلائقية",
+      "br-daseins->المدرسة الوجودية",
+      "br-daseins->هايدجر",
+      "br-daseins->بينسوانغر وبوس",
+      "br-daseins->التيار الأمريكي",
+      "br-daseins->الظاهراتية النفسية المرضية",
+      "br-humanistic->المدرسة الوجودية",
+      "br-humanistic->التحليل الوجودي الأوروبي",
+      "br-humanistic->ماي وبوجنتال ويالوم",
+      "br-humanistic->التيار البريطاني"
+    ],
+    "pending": [
+      "br-body-sociology",
+      "br-criminology",
+      "br-refugee-studies",
+      "br-risk-sociology",
+      "br-sociology-of-art",
+      "br-sports-sociology",
+      "br-youth-sociology",
+      "con-agency-anthropology",
+      "con-alienation",
+      "con-anomie",
+      "con-authority",
+      "con-bias",
+      "con-bureaucracy",
+      "con-capital",
+      "con-case-study"
+    ],
+    "short": [
+      "con-being-toward-death",
+      "con-division-labor",
+      "con-existential-guilt-ontological",
+      "con-social-movement",
+      "stu-schoolyard-stories",
+      "stu-suburban-dreams",
+      "stu-the-dignity-deficit",
+      "stu-the-second-shift-in-china",
+      "thk-abdalla-salem",
+      "thk-akira-fujii",
+      "thk-angel",
+      "thk-berdyaev",
+      "thk-cohn",
+      "thk-cooper",
+      "thk-dostoevsky"
+    ],
+    "placeholder": [
+      "con-division-labor",
+      "thk-abdalla-salem",
+      "thk-akira-fujii"
+    ]
+  },
+  "duplicate_ids": {},
+  "status_counts": {
+    "review-candidate": 696,
+    "draft-pending": 221,
+    "draft-short": 16,
+    "placeholder": 3
+  },
+  "by_module": {
+    "Psychotherapy": {
+      "review-candidate": 9
+    },
+    "anthropology": {
+      "review-candidate": 325,
+      "placeholder": 3,
+      "draft-pending": 2,
+      "draft-short": 1
+    },
+    "historiography": {
+      "review-candidate": 86
+    },
+    "philosophy": {
+      "review-candidate": 14
+    },
+    "psychology": {
+      "review-candidate": 26
+    },
+    "sociology": {
+      "review-candidate": 104,
+      "draft-pending": 219
+    },
+    "unclassified": {
+      "review-candidate": 132,
+      "draft-short": 15
+    }
+  },
+  "output_consistency": {
+    "data-en.json nodes": 936,
+    "source nodes": 936,
+    "missing from output": 0,
+    "stale in output (no source)": 0,
+    "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"
+  }
+}

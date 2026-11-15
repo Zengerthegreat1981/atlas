@@ -13,9 +13,6 @@ active_start: 1964
 active_end: 1967
 edges: []
 related:
-  - id: thk-napoleon-chagnon
-    title: Napoleon Chagnon
-    type: thinker
   - id: con-ethnography
     title: Ethnography
     type: concept

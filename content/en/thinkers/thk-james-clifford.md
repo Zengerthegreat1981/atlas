@@ -13,11 +13,8 @@ edges:
   - rel: "developed_method", target: "Reflexive Ethnography", target_type: "مفهوم"
   - rel: "influenced", target: "Ethnographic Authority", target_type: "مفهوم"
 related:
-  - id: "con-ethnographic-authority", title: "Ethnographic Authority", type: "مفهوم"
-  - id: "con-reflexive-ethnography", title: "Reflexive Ethnography", type: "مفهوم"
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
   - id: "thk-george-marcus", title: "George Marcus", type: "مفكร"
-  - id: "wrk-writing-culture", title: "Writing Culture: The Poetics and Politics of Ethnography", type: "عمل"
 gaps:
   - "Engagement with indigenous critiques of ethnographic writing"
   - "Contemporary applications of reflexivity in multi-media ethnography"

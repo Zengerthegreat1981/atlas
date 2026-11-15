@@ -12,7 +12,6 @@ edges:
   - rel: "written_by", target: "Lévi-Strauss", target_type: "مفكر"
 related:
   - id: "con-totemism", title: "Totemism", type: "مفهوم"
-  - id: "con-symbolic-classification", title: "Symbolic Classification", type: "مفهوم"
   - id: "wrk-savage-mind", title: "The Savage Mind", type: "عمل"
 sources:
   - Lévi-Strauss, Claude. Totemism. Translated by Rodney Needham, Beacon Press, 1963. (Original French, 1962)

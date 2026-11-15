@@ -3,33 +3,26 @@ slug: "con-existential-guilt-ontological"
 id: "CON-0422"
 type: "مفهوم"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Ontological Guilt"
 en: "Ontological Guilt"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← Concepts ← Ontological Guilt"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "con-guilt", title: "الذنب", type: "مفهوم"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+  - id: "con-guilt", title: "Guilt", type: "مفهوم"
+  - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"
 gaps:
-  - "هذا مفهوم فلسفي مجرد بدرجة عالية، ويحتاج مراجعة أعمق من نص Being and Time الأصلي قبل توسيعه أكثر"
+  - "This is a highly abstract philosophical concept, and needs a deeper review of the original text of Being and Time before it is expanded further"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Ontological Guilt
 
-[EN TRANSLATION NEEDED — lede paragraph]
+In Heidegger: a feeling of indebtedness or lack that does not arise from a specific moral wrong, but from the very structure of human existence — that we are always incomplete and unable to realize all our possibilities at once.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## The Difference from Ordinary Moral Guilt
 
-# الذنب الأنطولوجي
+Moral guilt (tied to a specific act that can be corrected or apologized for) is fundamentally different from this ontological guilt, for which there is no specific "act" that can be taken back, because it results from the structure of limited existence itself, not from an individual error.
 
-عند هايدجر: شعور بالمديونية أو النقص لا ينشأ من فعل أخلاقي خاطئ محدد، بل من بنية الوجود الإنساني نفسها — كوننا دوماً غير مكتملين وغير قادرين على تحقيق كل إمكاناتنا في آن واحد.
+## The Link to the Existing Concept of Guilt
 
-## الفرق عن الذنب الأخلاقي العادي
-
-الذنب الأخلاقي (المرتبط بفعل محدد يمكن تصحيحه أو الاعتذار عنه) مختلف جوهرياً عن هذا الذنب الأنطولوجي الذي لا 'فعل' محدداً يمكن الرجوع عنه، لأنه ناتج عن بنية الوجود المحدود نفسها لا عن خطأ فردي.
-
-## الصلة بمفهوم الذنب الموجود مسبقاً
-
-يوسّع مفهوم الذنب (con-guilt) الموجود مسبقاً في هذا الأطلس بإضافة هذا البعد الأنطولوجي الخاص عند هايدجر تحديداً، والذي لا يظهر بنفس الوضوح عند مفكرين آخرين ناقشوا الذنب.
--->
+It extends the concept of guilt (con-guilt) already in this Atlas by adding this particular ontological dimension in Heidegger specifically, which does not appear with the same clarity in other thinkers who discussed guilt.

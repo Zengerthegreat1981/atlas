@@ -14,7 +14,6 @@ related:
   - id: "con-taboo", title: "Taboo", type: "مفهوم"
   - id: "con-ritual", title: "Ritual", type: "مفهوم"
   - id: "con-symbol", title: "Symbol", type: "مفهوم"
-  - id: "con-religion", title: "Religion", type: "مفهوم"
 gaps:
   - "Sacralization of nature"
   - "Secular sacred (art, nation-state)"

@@ -3,9 +3,9 @@ slug: "con-division-labor"
 id: "ANT-13119"
 type: "مفهوم"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Division of Labor"
 en: "Division of Labor"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Anthropology ← Concepts ← Division of Labor"
 dates: ""
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
@@ -15,26 +15,18 @@ gaps:
   - "Specialization of tasks by person/group"
 ---
 
-# [EN TRANSLATION NEEDED]
-
-[EN TRANSLATION NEEDED — lede paragraph]
-
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
-
-# تقسيم العمل
+# Division of Labor
 
 [Brief description in Arabic for translator reference]
 
-## الفرع الرئيسي
+## The Main Branch
 
 [Key section in Arabic]
 
-## المساهمات
+## Contributions
 
 [Contributions in Arabic]
 
-## الفجوات والتطورات
+## Gaps and Developments
 
 [Gaps in Arabic]
-
--->

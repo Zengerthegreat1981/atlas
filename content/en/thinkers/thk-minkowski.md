@@ -3,47 +3,40 @@ slug: "thk-minkowski"
 id: "THK-0107"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Eugène Minkowski"
 en: "Eugène Minkowski"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← People ← Eugène Minkowski"
 dates: "فرنسا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة"
-  - id: "br-daseins", title: "التيار", type: "تيار"
-  - id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
+  - id: "rel-phenopath", title: "Psychopathological Phenomenology", type: "علاقة"
+  - id: "br-daseins", title: "The Current", type: "تيار"
+  - id: "thk-straus", title: "Erwin Straus", type: "مفكر"
 gaps:
-  - "أعماله وترجماتها — لم تُدخل"
+  - "His works and translations — not yet entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Eugène Minkowski
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The most precise describer of the collapse of time in mental illness, and the least mentioned of the school's figures in Arabic.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Gave
 
-# أوجين مينكوفسكي
+The concept of "lived time": that the human being does not live in clock time but in a time with direction, extension and rhythm, and that illness breaks this structure.
 
-أدق من وصف انهيار الزمن في المرض النفسي، وأقل أهل المدرسة ذكراً بالعربية.
+## His Examples
 
-## ما أعطاه
+In depression the future closes and the past grows heavy, so the present becomes a wall. And in some forms of schizophrenia the vital contact with reality is severed, so things lose their familiarity.
 
-مفهوم «الزمن المُعاش»: أن الإنسان لا يعيش في الزمن الساعاتي بل في زمن له اتجاه وامتداد وإيقاع، وأن المرض يكسر هذه البنية.
+## Why It Matters
 
-## أمثلته
+Because he provides a model of what phenomenology can do in psychiatry: a description more precise than any symptom list, and learnable.
 
-في الاكتئاب ينغلق المستقبل ويثقل الماضي فيصير الحاضر جداراً. وفي بعض صور الفصام ينفصل الاتصال الحيوي بالواقع فتفقد الأشياء ألفتها.
+## His Extension Today
 
-## لماذا يهمّ
+Contemporary psychopathological phenomenology works in precisely this line and with much more precise tools.
 
-لأنه يعطي نموذجاً لما تستطيع الظاهراتية فعله في الطب النفسي: وصفاً أدقّ من أي قائمة أعراض، وقابلاً للتعلّم.
+## His Major Works
 
-## امتداده اليوم
-
-الظاهراتية النفسية المرضية المعاصرة تعمل في هذا الخط تحديداً وبأدوات أدق.
-
-## أهم أعماله
-
-الفصام: سيكوباثولوجيا الشيزوئيديين والفصاميين (La Schizophrénie, 1927) · الزمن المُعاش: دراسات ظاهراتية وسيكوباثولوجية (Le Temps vécu, 1933) · نحو كوزمولوجيا (Vers une cosmologie, 1936) · رسالة في علم النفس المرضي (Traité de psychopathologie, 1966)
--->
+Schizophrenia: Psychopathology of Schizoids and Schizophrenics (La Schizophrénie, 1927) · Lived Time: Phenomenological and Psychopathological Studies (Le Temps vécu, 1933) · Toward a Cosmology (Vers une cosmologie, 1936) · Treatise on Psychopathology (Traité de psychopathologie, 1966)

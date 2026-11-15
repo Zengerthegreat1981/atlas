@@ -13,7 +13,7 @@ edges:
 related:
   - id: "con-reciprocity", title: "Reciprocity", type: "مفهوم"
   - id: "con-exchange", title: "Exchange Systems", type: "مفهوم"
-  - id: "wrk-argonauts", title: "Argonauts of the Western Pacific", type: "عمل"
+  - id: "wrk-argonauts-western-pacific-malinowski", title: "Argonauts of the Western Pacific", type: "عمل"
 sources:
   - Mauss, Marcel. The Gift: Forms and Functions of Exchange in Archaic Societies. Trans. Ian Cunnison, Cohen & West, 1950.
   - Sahlins, Marshall. Stone Age Economics. Aldine-Atherton, 1972.

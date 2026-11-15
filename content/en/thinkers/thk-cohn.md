@@ -3,31 +3,24 @@ slug: "thk-cohn"
 id: "THK-0320"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Hans W. Cohn"
 en: "Hans W. Cohn"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← People ← Hans W. Cohn"
 dates: "ألمانيا/بريطانيا · 1916–2004"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-vandeurzen", title: "إيمي فان ديورزن", type: "مفكر"
-  - id: "thk-spinelli", title: "إرنستو سبينيلي", type: "مفكر"
+  - id: "thk-vandeurzen", title: "Emmy van Deurzen", type: "مفكر"
+  - id: "thk-spinelli", title: "Ernesto Spinelli", type: "مفكر"
 gaps:
-  - "لم تُراجع بعد نصوصه الأصلية (Existential Thought and Therapeutic Practice) من نسخة محققة."
-  - "أقل حضوراً في التوثيق العام للمدرسة البريطانية مقارنة بفان ديورزن وسبينيلي، ومحتاج بحثاً إضافياً."
+  - "His original texts (Existential Thought and Therapeutic Practice) have not yet been reviewed from a verified edition."
+  - "Less present in the general documentation of the British school than van Deurzen and Spinelli; further research needed."
 ---
 
-# [EN TRANSLATION NEEDED]
+# Hans Cohn
 
-[EN TRANSLATION NEEDED — lede paragraph]
+A German-British psychotherapist, one of the founding voices of the British school of existential therapy alongside van Deurzen and Spinelli.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Gave
 
-# هانز كون
-
-معالج نفسي ألماني-بريطاني، من الأصوات المؤسسة للمدرسة البريطانية للعلاج الوجودي إلى جانب فان ديورزن وسبينيلي.
-
-## ما أعطاه
-
-ربط الفينومينولوجيا الهيدغرية بالممارسة العلاجية اليومية بلغة أقرب لمزاج التدريب البريطاني (أقل تنظيماً بنيوياً من المدرسة الأمريكية)، وساهم في ترسيخ مناهج التدريب في لندن التي عرّفت لاحقاً بـ«المدرسة البريطانية».
--->
+He linked Heideggerian phenomenology to everyday therapeutic practice in a language closer to the temper of British training (less structurally organized than the American school), and contributed to establishing the training approaches in London that were later known as the "British school."

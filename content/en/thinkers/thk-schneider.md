@@ -3,41 +3,34 @@ slug: "thk-schneider"
 id: "THK-0117"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Kirk Schneider"
 en: "Kirk Schneider"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← Kirk Schneider"
 dates: "الولايات المتحدة"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+  - id: "br-humanistic", title: "The American Current", type: "تيار"
 gaps:
-  - "بيانات أعماله — تحتاج تثبيتاً"
+  - "Data on his works — needs confirmation"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Kirk Schneider
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The contemporary American formulation, and an attempt to move the current out of the dichotomy of technique versus philosophy.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Adds
 
-# كيرك شنايدر
+An integrative approach that moves between different levels of intervention according to what the client can bear, instead of committing to a single level.
 
-الصيغة الأمريكية المعاصرة، ومحاولة لإخراج التيار من ثنائية التقنية والفلسفة.
+## His Conceptual Addition
 
-## ما يضيفه
+Awe as a central dimension of human existence alongside anxiety — that is, confronting the human condition produces not fear alone.
 
-مقاربة تكاملية تتحرك بين مستويات تدخّل مختلفة بحسب ما يحتمله العميل، بدل الالتزام بمستوى واحد.
+## His Position
 
-## إضافته المفهومية
+An attempt to answer the charge that the American current is either technical or literary, with no third option.
 
-الدهشة والرهبة كبُعد مركزي في الوجود الإنساني إلى جانب القلق — أي أن مواجهة الوضع الإنساني لا تنتج الخوف وحده.
+## Major Works
 
-## موقعه
-
-محاولة ردّ على تهمة أن التيار الأمريكي إما تقني أو أدبي، بلا ثالث.
-
-## أهم أعماله
-
-الذات المتناقضة: نحو فهم طبيعتنا المتناقضة (The Paradoxical Self, 1990) · إعادة اكتشاف الرهبة (Rediscovery of Awe, 2004) · العلاج الوجودي-الإنساني (مع أوراه كروغ) (Existential-Humanistic Therapy, 2010) · العقل المستقطَب: لماذا يقتلنا ذلك وماذا نفعل حياله (The Polarized Mind, 2013)
--->
+The Paradoxical Self: Toward an Understanding of Our Contradictory Nature (1990) · Rediscovery of Awe (2004) · Existential-Humanistic Therapy (with Orah Krug) (2010) · The Polarized Mind: Why It's Killing Us and What We Can Do About It (2013)

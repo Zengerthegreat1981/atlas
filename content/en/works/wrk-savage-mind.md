@@ -11,7 +11,6 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
   - rel: "written_by", target: "Lévi-Strauss", target_type: "مفكر"
 related:
-  - id: "con-classification-systems", title: "Classification Systems", type: "مفهوم"
   - id: "con-totemism", title: "Totemism", type: "مفهوم"
   - id: "wrk-elementary-structures", title: "The Elementary Structures of Kinship", type: "عمل"
 sources:

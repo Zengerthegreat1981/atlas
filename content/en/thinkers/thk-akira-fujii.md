@@ -3,9 +3,9 @@ slug: "thk-akira-fujii"
 id: "ANT-13252"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Akira Fujii"
 en: "Akira Fujii"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Anthropology ← Akira Fujii"
 dates: "Japan · 1940-"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
@@ -15,26 +15,18 @@ gaps:
   []
 ---
 
-# [EN TRANSLATION NEEDED]
+# Akira Fujii
 
-[EN TRANSLATION NEEDED — lede paragraph]
+[Brief description]
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Main Branch
 
-# أكيرا فوجي
+[Key section]
 
-[Brief description in Arabic for translator reference]
+## Contributions
 
-## الفرع الرئيسي
+[Contributions]
 
-[Key section in Arabic]
+## Gaps and Developments
 
-## المساهمات
-
-[Contributions in Arabic]
-
-## الفجوات والتطورات
-
-[Gaps in Arabic]
-
--->
+[Gaps]

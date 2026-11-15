@@ -1,31 +1,16 @@
 # Atlas Translation Rule
 
-**Decision:** Defer all Arabic translations until after expansion and review phase completes.
+**Current decision (2026-11-15): English first. Arabic translation starts only after the
+English edition is closed (see `ASTRA_FULL_AUDIT_EN_2026-11-15.md`, Phase 6 → Phase 7).**
 
-**Rule:** 
-After the Atlas project completes its expansion and review phase, execute a comprehensive cross-project translation initiative covering:
-1. All 65,529 psychology term files (`content/en/terms/`)
-2. All existing English content nodes across Atlas (`content/en/`)
-3. All Arabic content requiring parallel English translations (`content/ar/`)
-4. All bilingual linking and cross-references
+- `content/en/` is the source of truth for the English release. Counts are measured by
+  `python scripts/check_en_release.py` (writes `reports/en-release-check.json` and
+  `reports/en-scope-registry.csv`), never taken from older closeout notes.
+- The earlier claim of 65,529 published English term files is **not verified** in this tree
+  (`content/en/terms/` holds a single file). Treat the claim as unreconciled until it is matched
+  against a manifest or archive (audit P0-01 / P0.2). It is not counted as published content.
+- Status vocabulary: `placeholder` / `draft-pending` / `draft-short` / `review-candidate` /
+  `reviewed` / `published`. "Not a placeholder" does not mean reviewed.
+- Arabic work resumes at Phase 7 from the frozen English edition, preserving ids, slugs and links.
 
-**Implementation Strategy:**
-- Single unified translation workflow across entire Atlas
-- Semantic analysis + quality validation
-- Bilingual frontmatter for all nodes
-- Cross-language linking (EN↔AR)
-- Comprehensive bilingual indices
-
-**Status:** 
-- Psychology database: ✅ DEPLOYED (English-only, 65,529 terms)
-- Translation phase: ⏳ PENDING (scheduled after expansion/review)
-- Target timeline: Post-expansion phase (estimated 2-4 weeks)
-
-**Scope:**
-- All `.md` files in `/content/en/` and `/content/ar/`
-- All terms, thinkers, schools, and specialized nodes
-- Full bilingual support across entire platform
-
-**Owner:** Atlas Enhancement Team  
-**Created:** 2026-09-25  
-**Target Start:** Post-expansion review completion
+*Supersedes the 2026-09-25 version, which deferred translation and cited the unverified 65,529 figure.*

@@ -3,64 +3,63 @@ slug: "con-time"
 id: "CON-0409"
 type: "مفهوم"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Lived Time"
 en: "Lived time"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← Concepts ← Lived Time"
 edges:
   - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-minkowski", title: "مينكوفسكي", type: "مفكر"
-  - id: "wrk-lived-time", title: "الزمن المُعاش", type: "عمل"
+  - id: "thk-minkowski", title: "Minkowski", type: "مفكر"
+  - id: "wrk-lived-time", title: "Lived Time", type: "عمل"
 gaps:
-  - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "Textual passages for each formulation — not yet entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Time
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The concept that distinguishes the school from everything else, and that almost disappears from Arabic presentations.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Defining the Concept
 
-# الزمن
+Time here is not clock time but **lived time**: how the future, the past, and the present appear to this person. And mental illness is read as a disturbance in this structure before it is a list of symptoms.
 
-المفهوم الذي يفرّق المدرسة عن كل ما عداها، ويكاد يغيب عن العروض العربية.
+## The Core Disagreements Within the Concept
 
-## تحرير المفهوم
+There is no great dispute here, but a variation in investment: the European line developed it with precision, and the American current almost neglected it and used it only as a tool. This is one of the clearest losses in transmission.
 
-الزمن هنا ليس زمن الساعة بل <b>الزمن المُعاش</b>: كيف يظهر المستقبل والماضي والحاضر لهذا الشخص. والمرض النفسي يُقرأ كخلل في هذه البنية قبل أن يكون قائمة أعراض.
+## How It Appears in the Session
 
-## الخلافات الجوهرية داخل المفهوم
+Direct, practical questions: How does next week look in your mind? Do you see yourself five years from now? And what is your sense of time passing — slow or accelerating? The answers reveal a structure that mood questions do not.
 
-لا خصومة كبرى هنا، بل تفاوت في الاستثمار: الخط الأوروبي طوّره تطويراً دقيقاً، والتيار الأمريكي كاد يهمله واستعمله أداةً فقط. وهذه من أوضح خسائر النقل.
+## The Most Common Misunderstanding
 
-## كيف يظهر في الجلسة
+Confusing lived time with time management. The first is a structure of experience, the second a skill of organisation — and there is no relation between them.
 
-أسئلة عملية مباشرة: كيف يبدو الأسبوع القادم في ذهنك؟ هل ترى نفسك بعد خمس سنوات؟ وما إحساسك بمرور الوقت — بطيء أم متسارع؟ الإجابات تكشف بنية لا تكشفها أسئلة المزاج.
+## Example and Counter-Example
 
-## أشهر ما يُساء فهمه
+**Example:** A client complains that time "passes without meaning" despite his constant busyness. Asking about his present, past, and future reveals that he lives entirely in a deferred future ("I will be happy when I succeed") with no actually lived present. The work here is on lived time (how time is experienced from within), not on his schedule.
 
-خلط الزمن المُعاش بإدارة الوقت. الأول بنية خبرة، والثاني مهارة تنظيم — ولا علاقة بينهما.
+**Counter-example:** A therapist advises a client who complains of feeling that time is "accelerating out of control" to use time-management techniques (scheduling apps, task lists) as an existential solution. But the problem here is structural-experiential, not organisational, and time-management tools may hide the symptom without touching the structure of temporal experience itself that Minkowski and Straus described.
 
-## مثال ومثال مضاد
+## What Cannot Be Inferred from This Concept
 
-<b>مثال:</b> عميل يشتكي أن الوقت «يمرّ بلا معنى» رغم انشغاله الدائم — سؤاله عن حاضره وماضيه ومستقبله يكشف أنه يعيش كله في مستقبل مؤجل («سأكون سعيداً حين أنجح») بلا حاضر مُعاش فعلياً. العمل هنا على الزمن المُعاش (كيف يُختبر الوقت من الداخل) لا على جدول أعماله.<br><b>مثال مضاد:</b> معالج ينصح عميلاً يشكو من إحساسه بأن الوقت «يتسارع بلا سيطرة» بتقنيات إدارة وقت (تطبيقات جدولة، قوائم مهام) بوصفها حلاً وجودياً. لكن المشكلة هنا بنيوية-خبراتية لا تنظيمية، وأدوات إدارة الوقت قد تُخفي العرض دون لمس بنية الخبرة الزمنية نفسها التي وصفها مينكوفسكي وشتراوس.
+It **does not mean** that every complaint of "not enough time" or procrastination is a deep existential crisis in the structure of lived time calling for philosophical analysis — many are an organisational matter or simple habits solved with practical tools.
 
-## ما لا يُستنتج من هذا المفهوم
+Nor does it mean that the past has "ended" and has no value in therapeutic work — Frankl insists on the opposite: the accomplished past is preserved in "storehouses" that cannot be erased, and this is a therapeutic resource, not a temporal waste to be moved past, going only forward.
 
-<b>لا يعني</b> أن كل شكوى من «ضيق الوقت» أو التسويف هي أزمة وجودية عميقة في بنية الزمن المُعاش تستدعي تحليلاً فلسفياً — كثير منها مسألة تنظيمية أو عادات بسيطة تُحل بأدوات عملية.<br><b>ولا يعني</b> أن الماضي «انتهى» ولا قيمة له في العمل العلاجي — فرانكل يصرّ على العكس: الماضي المُنجَز محفوظ في «مخازن» لا تُمحى، وهذا مورد علاجي لا نفاية زمنية يجب تجاوزها للأمام فقط.
+## The Arab and Cultural Context
 
-## السياق العربي والثقافي
+Analyses of lived time (Minkowski, Straus, Gebsattel) were formulated within a modern Western linear conception of time — a fixed past, a present, a future open to individual planning. Traditional Arab cultures, particularly rural or religious ones, may carry temporal conceptions closer to the circular or tied to ritual, seasonal, and religious cycles (Ramadan, Hajj, agricultural seasons) rather than the accelerating individual linear time that much contemporary Western existential clinical practice assumes.
 
-تحليلات الزمن المُعاش (مينكوفسكي، شتراوس، جيبزاتيل) صيغت داخل تصور خطي غربي حديث للزمن — ماضٍ محدد، حاضر، مستقبل مفتوح للتخطيط الفردي. ثقافات عربية تقليدية، وبخاصة الريفية أو الدينية منها، قد تحمل تصورات زمنية أقرب للدائرية أو المرتبطة بدورات طقسية وموسمية ودينية (رمضان، الحج، المواسم الزراعية) لا بالزمن الخطي الفردي المتسارع الذي تفترضه كثير من العيادة الوجودية الغربية المعاصرة.<br>هذا يعني أن اضطراب «العلاقة بالزمن» عند عميل عربي قد يكون في الحقيقة توتراً بين إيقاعين ثقافيين متعايشين (الزمن الحديث المتسارع في العمل والمدينة، والزمن الدائري التقليدي في الأسرة والدين) لا خللاً فردياً بسيطاً في «بنية الزمن المُعاش» كما تصفها الظاهراتية الأوروبية الكلاسيكية — وهذا بعد لم تتناوله الأدبيات الأصلية إطلاقاً لأنها لم تُصمم لسياقات ثنائية الإيقاع الزمني.
+This means that a disturbance in the "relation to time" in an Arab client may in truth be a tension between two coexisting cultural rhythms (modern accelerating time in work and the city, and traditional circular time in family and religion), not a simple individual defect in the "structure of lived time" as classical European phenomenology describes it — a dimension the original literature never addressed, because it was not designed for contexts with a dual temporal rhythm.
 
-## جدول مقارن
+## Comparative Table
 
-| المفكر | صياغته بالضبط | ما يترتب عليه في الغرفة | خلافه مع غيره |
+| Thinker | His exact formulation | What follows in the room | His disagreement with others |
 |---|---|---|---|
-| هايدجر | الزمنية بنية الدازاين نفسه. الإنسان كائن يسبق نفسه دائماً نحو إمكانياته، ومحمّل بما كان. | يوجّه الانتباه إلى علاقة الشخص بمستقبله لا إلى تاريخه فقط. | أنطولوجي، وهو الأصل الذي بنى عليه مينكوفسكي وبينسوانغر. |
-| مينكوفسكي | في الاكتئاب ينغلق المستقبل ويثقل الماضي فيصير الحاضر جداراً. وفي بعض صور الفصام ينكسر الاتصال الحيوي بالواقع. | وصف الحالة بلغة الزمن يعطي دقة لا تعطيها قوائم الأعراض، ويفهمه المريض عن نفسه فوراً. | أدقّ تطبيق ظاهراتي في تاريخ المدرسة. |
-| بينسوانغر | لكل عالم زمنه الخاص: بعض العوالم متسارعة، وبعضها متجمّدة، وبعضها لا مستقبل فيها. | يُوصف عالم المريض ككل بدل تفكيكه. | امتداد مباشر لهايدجر مع التحويل الذي اعترض عليه هو. |
-| فرانكل | الماضي ليس ضائعاً بل محفوظ: ما أُنجز وعُوش لا يُنتزع. «مخازن الماضي» ممتلئة لا فارغة. | العمل مع كبار السنّ ومع المرضى في نهاية الحياة: تحويل النظر من ما تبقّى إلى ما أُنجز. | أكثر صيغة عزائية في المدرسة، وأكثرها عرضة للتحوّل إلى تحفيز. |
-| يالوم | الوعي بالفناء يعيد ترتيب الزمن: من واجه نهايته يفقد الترف في تأجيل ما يهمّ. | استثمار اقتراب النهاية أو لحظة صحوة لإعادة ترتيب الأولويات. | يستعمل الزمن أداة لا موضوعاً. |
-| فان دورزن | الزمن يُفحص في الأبعاد الأربعة: للجسد زمنه، وللعلاقات زمنها، وللمشروع الشخصي زمنه، وللقيم زمنها. | كشف تعارض الأزمنة: أن يكون جسده في مرحلة ومشروعه في أخرى. | تفصيل عملي غير موجود عند غيرها. |
--->
+| Heidegger | Temporality is the structure of Dasein itself. The human being always runs ahead of themselves toward their possibilities, and is burdened with what has been. | Directs attention to the person's relation to their future, not only to their history. | Ontological, and the origin on which Minkowski and Binswanger built. |
+| Minkowski | In depression the future closes and the past grows heavy, so the present becomes a wall. And in some forms of schizophrenia the vital contact with reality breaks. | Describing the condition in the language of time gives a precision that symptom lists do not, and the patient understands it about themselves at once. | The most precise phenomenological application in the history of the school. |
+| Binswanger | Each world has its own time: some worlds are accelerated, some frozen, some have no future. | The patient's world is described as a whole rather than broken apart. | A direct extension of Heidegger, with the conversion that he himself objected to. |
+| Frankl | The past is not lost but preserved: what has been achieved and lived cannot be taken away. The "storehouses of the past" are full, not empty. | Work with the elderly and with patients at the end of life: turning the gaze from what remains to what has been accomplished. | The most consoling formulation in the school, and the most liable to turn into motivation. |
+| Yalom | Awareness of mortality rearranges time: one who has faced their end loses the luxury of postponing what matters. | Using the approach of the end, or a moment of awakening, to rearrange priorities. | Uses time as a tool, not a subject. |
+| Van Deurzen | Time is examined in four dimensions: the body has its time, relationships have theirs, the personal project has its time, and values have theirs. | Revealing the conflict of times: that his body is at one stage and his project at another. | A practical elaboration not found in the others. |

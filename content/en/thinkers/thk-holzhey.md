@@ -3,45 +3,38 @@ slug: "thk-holzhey"
 id: "THK-0116"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Alice Holzhey-Kunz"
 en: "Alice Holzhey-Kunz"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← People ← Alice Holzhey-Kunz"
 dates: "سويسرا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
+  - id: "br-daseins", title: "Existential Analysis (Daseinsanalysis)", type: "تيار"
 gaps:
-  - "بيانات أعمالها وترجماتها — لم تُدخل"
+  - "Data on her works and translations — not yet entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Alice Holzhey-Kunz
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The most important contemporary voice in existential analysis (Daseinsanalysis), and the author of the idea that overturns the view of the psychological symptom.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Her Thesis
 
-# أليس هولتسهي-كونتس
+The psychological symptom is not an escape from existential truth but a hypersensitivity to it. The patient is not blind to the human condition — he sees it more than he can bear.
 
-أهم صوت معاصر في التحليل الوجودي، وصاحبة الفكرة التي تقلب النظر إلى العَرَض النفسي.
+## Why This Matters
 
-## أطروحتها
+Because it reverses the usual direction: instead of "this person denies his mortality," it becomes "this person cannot help seeing it." And this changes the therapist's stance entirely.
 
-العَرَض النفسي ليس هرباً من الحقيقة الوجودية بل حساسية مفرطة لها. المريض ليس أعمى عن الوضع الإنساني — هو يراه أكثر مما يحتمل.
+## Her Position
 
-## لماذا هذا مهم
+A contemporary extension of the Swiss line, and closer than others to combining philosophical rigor with clinical work.
 
-لأنه يعكس الاتجاه المعتاد: بدل «هذا الشخص ينكر فناءه»، يصير «هذا الشخص لا يستطيع ألّا يراه». وهذا يغيّر موقف المعالج كلياً.
+## Her Presence in Arabic
 
-## موقعها
+Almost nonexistent.
 
-امتداد معاصر للخط السويسري، وأقرب من غيرها إلى الجمع بين الدقة الفلسفية والعمل الإكلينيكي.
+## Her Major Works
 
-## حضورها بالعربية
-
-شبه معدوم.
-
-## أهم أعمالها
-
-المعاناة من الوجود: التحليل الوجودي (الدازاين) ومهمته العلاجية (Leiden am Dasein, ألمانية (يحتاج تحقق من السنة)) · التحليل الوجودي (الدازاين) — ترجمة إنجليزية (Daseinsanalysis, دار Free Association Books)
--->
+Suffering from Existence: Existential Analysis (Daseinsanalysis) and Its Therapeutic Task (Leiden am Dasein, German (year needs verification)) · Daseinsanalysis — English translation (Daseinsanalysis, Free Association Books)

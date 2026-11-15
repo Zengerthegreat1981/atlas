@@ -13,7 +13,6 @@ edges:
   - rel: "developed_method", target: "Participant Observation", target_type: "مفهوم"
   - rel: "influenced", target: "Ethnographic Fieldwork", target_type: "مفهوم"
 related:
-  - id: "con-participant-observation", title: "Participant Observation", type: "مفهوم"
   - id: "con-ethnography", title: "Ethnography as Method", type: "مفهوم"
   - id: "thk-franz-boas", title: "Franz Boas", type: "مفكر"
   - id: "thk-radcliffe-brown", title: "A.R. Radcliffe-Brown", type: "مفكر"

@@ -19,9 +19,6 @@ related:
   - id: con-kinship
     title: Kinship
     type: concept
-  - id: con-prescriptive-kinship
-    title: Prescriptive Kinship
-    type: concept
 gaps: []
 sources:
   - Leach, E. R. (1954). Political Systems of Highland Burma: A Study of Kachin, Shan, and Lisu Social Structure. Athlone Press.

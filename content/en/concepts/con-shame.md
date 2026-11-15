@@ -11,7 +11,6 @@ edges:
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
-  - id: "thk-tangney", title: "Tangney", type: "مفهوم"
 ---
 # Shame (Existential Perspective)
 

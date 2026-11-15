@@ -11,12 +11,9 @@ edges:
   - rel: "belongs_to", target: "Structural Anthropology", target_type: "مدرسة"
   - rel: "founder_of", target: "Ritual Studies", target_type: "تيار"
 related:
-  - id: "thk-turner", title: "Victor Turner", type: "مفكر"
-  - id: "thk-gluckman", title: "Max Gluckman", type: "مفكر"
-  - id: "thk-leach", title: "Edmund Leach", type: "مفكر"
-  - id: "con-rites-passage", title: "Rites of Passage", type: "مفهوم"
+  - id: "thk-max-gluckman", title: "Max Gluckman", type: "مفكر"
+  - id: "thk-edmund-leach", title: "Edmund Leach", type: "مفكر"
   - id: "con-liminality", title: "Liminality", type: "مفهوم"
-  - id: "con-status-transition", title: "Status Transition and Ritual", type: "مفهوم"
 gaps: []
 ---
 

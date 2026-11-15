@@ -1434,15 +1434,96 @@ function renderAtlasHome(){
 }
 window.renderAtlasHome=renderAtlasHome;
 
+
+/* ===== English locale: module-driven home, module pages, explicit not-found (audit §5) ===== */
+const IS_EN=(document.documentElement.lang==='en');
+const EN_MODULES=[
+ ['psychology','Psychology','Mind, behaviour, development, assessment and clinical practice.'],
+ ['philosophy','Philosophy','Logic, knowledge, mind, ethics and the major traditions of thought.'],
+ ['sociology','Sociology','Society, institutions, inequality, culture and method.'],
+ ['anthropology','Anthropology','Cultures, kinship, ritual, exchange and ethnographic method.'],
+ ['linguistics','Linguistics','Language structure, meaning, use and change.'],
+ ['political-economy','Political Economy','Markets, states, labour, distribution and development.'],
+ ['historiography','History & Historiography','Methods of writing and criticising history.'],
+ ['religious-studies','Religious Studies','Comparative and historical study of religion.'],
+ ['legal-theory','Legal Theory','Law, justice, rights and legal reasoning.'],
+ ['ethics','Ethics','Normative, meta- and applied ethics.'],
+ ['psychiatry','Psychiatry','Classification, disorders and the history of psychiatry.'],
+ ['arab-thought','Arab Thought','Arabic and Islamic intellectual traditions and modern debates.'],
+ ['bridges','Bridges','Comparisons that connect disciplines.']
+];
+const EN_CRUMB_MOD={'psychology':'psychology','philosophy':'philosophy','sociology':'sociology','anthropology':'anthropology','linguistics':'linguistics','historiography':'historiography','history':'historiography','political economy':'political-economy','religious studies':'religious-studies','legal theory':'legal-theory','ethics':'ethics','psychiatry':'psychiatry','arab thought':'arab-thought','bridges':'bridges'};
+function nodeModule(n){
+ if(n.part) return n.part;
+ const head=String(n.crumb||'').split('←')[0].trim().toLowerCase();
+ return EN_CRUMB_MOD[head]||'unclassified';
+}
+function isPlaceholderNode(n){ return String(n.title||'').indexOf('[EN TRANSLATION NEEDED]')>-1; }
+function enModuleStats(){
+ const st={};
+ Object.entries(DATA.nodes).forEach(([k,n])=>{
+  if(isPlaceholderNode(n)) return;
+  const m=nodeModule(n); (st[m]=st[m]||[]).push([k,n]);
+ });
+ return st;
+}
+function renderEnHome(){
+ const st=enModuleStats();
+ const total=Object.values(st).reduce((a,v)=>a+v.length,0);
+ const cards=EN_MODULES.map(([key,name,desc])=>{
+  const c=(st[key]||[]).length;
+  return '<div class="schoolcard '+(c?'ready':'planned')+'"'+(c?' data-go="module:'+key+'" role="button" tabindex="0" style="cursor:pointer"':'')+'>'+
+   '<b>'+escHTML(name)+'</b><span class="st">'+escHTML(desc)+' · '+(c?c+' entries':'in preparation')+'</span>'+
+   (c?'<span class="chip link" data-go="module:'+key+'">Browse →</span>':'')+'</div>';
+ }).join('');
+ app.innerHTML=
+  '<div class="crumbs2"><span class="cnow">Atlas of the Human Mind</span></div>'+
+  '<div class="node hero"><div class="heromain"><div class="nodetop"><h1>Atlas of the Human Mind</h1></div>'+
+  '<p class="lede">A structured reference to thinkers, schools, concepts, studies and the connections between them across psychology, philosophy and the human sciences. '+total+' published entries.</p></div></div>'+
+  '<div class="node"><div style="font-weight:700;font-size:16px;margin-bottom:10px">Browse by discipline</div><div class="schoolgrid">'+cards+'</div></div>'+
+  '<div class="node"><div style="font-weight:700;font-size:16px;margin-bottom:10px">Browse across all disciplines</div><div class="chips">'+
+   '<span class="chip link" onclick="typesDrawer()">By type</span>'+
+   '<span class="chip link" onclick="goTypeIndex(\'مفهوم\')">Concepts</span>'+
+   '<span class="chip link" onclick="goTypeIndex(\'مفكر\')">Thinkers</span>'+
+   '<span class="chip link" onclick="goGlobalTimeline()">Timeline</span></div></div>'+
+  footer();
+ window.scrollTo({top:0});
+ if(typeof renderProg==='function') renderProg();
+}
+function renderEnModule(key){
+ const st=enModuleStats(); const list=st[key]||[];
+ const meta=EN_MODULES.find(m=>m[0]===key); const name=meta?meta[1]:(key==='unclassified'?'Unclassified':key);
+ const byType={};
+ list.forEach(([k,n])=>{(byType[n.type]=byType[n.type]||[]).push([k,n]);});
+ app.innerHTML=
+  '<div class="crumbs2"><span class="chip link" data-go="'+ATLAS_HOME+'">Home</span> ← <span class="cnow">'+escHTML(name)+'</span></div>'+
+  '<div class="node hero"><div class="heromain"><div class="nodetop"><h1>'+escHTML(name)+'</h1></div>'+
+  '<p class="lede">'+escHTML(meta?meta[2]:'')+' '+list.length+' entries.</p></div></div>'+
+  Object.entries(byType).map(([t,items])=>'<div class="node"><h6>'+escHTML(t)+' ('+items.length+')</h6><div class="chips">'+
+    items.sort((a,b)=>String(a[1].title).localeCompare(String(b[1].title))).map(([k,n])=>'<span class="chip link" data-go="'+escHTML(k)+'">'+escHTML(n.title)+'</span>').join('')+'</div></div>').join('')+
+  footer();
+ window.scrollTo({top:0});
+}
+function renderNotFound(k){
+ const en=IS_EN;
+ app.innerHTML='<div class="node hero"><div class="heromain"><div class="nodetop"><h1>'+(en?'Page not found':'الصفحة غير موجودة')+'</h1></div>'+
+  '<p class="lede">'+(en?'No entry matches':'لا يوجد مدخل بالمعرّف')+' <code>'+escHTML(k)+'</code>.</p>'+
+  '<p><span class="chip link" data-go="'+ATLAS_HOME+'">'+(en?'Back to home':'العودة للرئيسية')+'</span></p></div></div>';
+ window.scrollTo({top:0});
+}
+
 function route(){ const k=(location.hash||'#'+ATLAS_HOME).slice(1);
- if(k===ATLAS_HOME){ renderAtlasHome(); return; }
+ if(k===ATLAS_HOME){ if(IS_EN) renderEnHome(); else renderAtlasHome(); return; }
+ if(IS_EN && k.indexOf('module:')===0){ renderEnModule(k.slice(7)); return; }
  if(k.indexOf('type:')===0){ renderTypeIndex(decodeURIComponent(k.slice(5))); return; }
  if(k.indexOf('facet:')===0){
    const rest=k.slice(6); const sep=rest.indexOf(':');
    renderFacetIndex(rest.slice(0,sep), decodeURIComponent(rest.slice(sep+1))); return;
  }
  if(k==='timeline'){ renderGlobalTimeline(); return; }
- if(DATA.nodes[k])renderNode(k); else renderSchool(); }
+ if(DATA.nodes[k])renderNode(k);
+ else if(IS_EN) renderNotFound(k);
+ else renderSchool(); }
 window.addEventListener('hashchange',route);
 window.go=go;
 window.goTypeIndex=goTypeIndex;

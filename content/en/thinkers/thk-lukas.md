@@ -3,31 +3,24 @@ slug: "thk-lukas"
 id: "THK-0319"
 type: "مفكر"
 level: "مبتدئ"
-title: "[EN TRANSLATION NEEDED]"
+title: "Elisabeth Lukas"
 en: "Elisabeth Lukas"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existentialist School ← People ← Elisabeth Lukas"
 dates: "النمسا · معاصرة (تحتاج تحقق)"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فيكتور فرانكل", type: "مفكر"
-  - id: "thk-langle", title: "ألفريد لانغله", type: "مفكر"
+  - id: "thk-frankl", title: "Viktor Frankl", type: "مفكر"
+  - id: "thk-langle", title: "Alfred Langle", type: "مفكر"
 gaps:
-  - "لم تُراجع بعد نصوصها الأصلية من نسخة محققة."
-  - "تاريخ الميلاد وتفاصيل السيرة الدقيقة تحتاج تحققاً مباشراً من مصدر أولي."
+  - "Her original texts have not yet been reviewed from a verified edition."
+  - "Her date of birth and the exact biographical details need direct verification from a primary source."
 ---
 
-# [EN TRANSLATION NEEDED]
+# Elisabeth Lukas
 
-[EN TRANSLATION NEEDED — lede paragraph]
+An Austrian psychologist, one of the most prominent direct students of Viktor Frankl, and among those who developed logotherapy most in practical application after his death.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What She Gave
 
-# إليزابيث لوكاس
-
-عالمة نفس نمساوية، من أبرز تلاميذ فيكتور فرانكل المباشرين، ومن أكثر من طوّر اللوغوثيرابي تطبيقياً بعد وفاته.
-
-## ما أعطاته
-
-طوّرت أدوات وأساليب تطبيقية عملية للوغوثيرابي (تحليل المعنى، تقنيات التوجيه نحو المعنى) بشكل أوسع تطبيقياً مما تركه فرانكل نفسه، وساهمت في تأسيس معهد فيينا للوغوثيرابي بعد وفاته.
--->
+She developed practical applied tools and methods for logotherapy (meaning analysis, techniques of orientation toward meaning) more broadly in application than what Frankl himself left, and she contributed to founding the Vienna Institute of Logotherapy after his death.

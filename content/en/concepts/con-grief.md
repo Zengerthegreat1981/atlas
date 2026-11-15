@@ -10,7 +10,6 @@ edges:
   - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
   - id: "con-death", title: "Death", type: "مفهوم"
-  - id: "con-loss", title: "Loss", type: "مفهوم"
   - id: "con-meaninglessness", title: "Meaninglessness", type: "مفهوم"
   - id: "thk-yalom", title: "Yalom", type: "مفكر"
 ---

@@ -3,50 +3,43 @@ slug: "thk-laing"
 id: "THK-0111"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "R. D. Laing"
 en: "R. D. Laing"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← People ← R. D. Laing"
 dates: "بريطانيا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "dbt-laing", title: "خصومة الذهان", type: "جدل"
-  - id: "rel-phenopath", title: "الظاهراتية المرضية", type: "علاقة"
+  - id: "dbt-laing", title: "The Psychosis Dispute", type: "جدل"
+  - id: "rel-phenopath", title: "Psychopathological Phenomenology", type: "علاقة"
 gaps:
-  - "بيانات أعماله ومراجعاتها النقدية — لم تُدخل"
+  - "Data on his works and their critical reviews — not yet entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# R. D. Laing
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The most famous of the school's figures to the public, and the heaviest burden on its scientific reputation.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## His Thesis
 
-# ر. د. لاينغ
+That the psychotic experience may be understandable if read in its family and social context, and that what seems meaningless may have an inner logic.
 
-أشهر أهل المدرسة جماهيرياً، وأثقلهم على سمعتها العلمية.
+## What He Did
 
-## أطروحته
+He gave patients back a voice at a time when they were treated as objects, and established alternative community experiments to the asylums.
 
-أن الخبرة الذهانية قد تكون مفهومة إن قُرئت في سياقها الأسري والاجتماعي، وأن ما يبدو بلا معنى قد يكون له منطق داخلي.
+## What This Cost
 
-## ما فعله
+The delay of effective treatments, the burdening of families with guilt without evidence, and the association in people's minds of the whole school with a stance that rejects psychiatry.
 
-أعاد للمرضى صوتاً في وقت كانوا يُعامَلون فيه كأشياء، وأنشأ تجارب مجتمعية بديلة للمصحّات.
+## What Remains of Him
 
-## ما كلّفه هذا
+The weak version of his proposal — that the psychotic experience has a structure that can be described from within — is alive today in psychopathological phenomenology and with much more precise tools.
 
-تأخير علاجات فعّالة، وتحميل الأسر ذنباً بلا دليل، وربط المدرسة كلها في الأذهان بموقف رافض للطب النفسي.
+## A Constraint
 
-## ما بقي منه
+He is presented in full: his positive impact and its price together. Omitting either is distortion.
 
-الصيغة الضعيفة من طرحه — أن للخبرة الذهانية بنية يمكن وصفها من الداخل — حيّة اليوم في الظاهراتية النفسية المرضية وبأدوات أدق بكثير.
+## His Major Works
 
-## قيد
-
-يُعرض كاملاً: أثره الإيجابي وثمنه معاً. وحذف أحدهما تشويه.
-
-## أهم أعماله
-
-الذات المنقسمة: دراسة وجودية في العقل والجنون (The Divided Self, 1960) · الذات والآخرون (Self and Others, 1961) · العقل والجنون والعائلة (مع إستيرسون) (Sanity, Madness and the Family, 1964) · سياسات التجربة (The Politics of Experience, 1967) · عُقَد (Knots, 1970)
--->
+The Divided Self: An Existential Study in Sanity and Madness (The Divided Self, 1960) · Self and Others (Self and Others, 1961) · Sanity, Madness and the Family (with Esterson) (Sanity, Madness and the Family, 1964) · The Politics of Experience (The Politics of Experience, 1967) · Knots (Knots, 1970)

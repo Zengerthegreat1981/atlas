@@ -3,50 +3,43 @@ slug: "con-fear"
 id: "CON-0411"
 type: "مفهوم"
 level: "مبتدئ"
-title: "[EN TRANSLATION NEEDED]"
+title: "Fear"
 en: "Fear"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← Concepts ← Fear"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "dbt-evidence", title: "هل نطلب أدلة تجريبية؟", type: "جدل"
+  - id: "dbt-evidence", title: "Do We Demand Empirical Evidence?", type: "جدل"
 gaps:
-  - "لا تتوفر حالياً مصادر عربية إسلامية تراثية (الغزالي، ابن سينا) مراجعة لهذا العنصر"
-  - "لم يُراجع نص كتاب Atlas of the Heart الأصلي بعد؛ النسخة المتاحة على القرص تالفة (محتوى غير ذي صلة)"
-  - "لا توجد أدوات قياس نفسي متخصصة للخوف تحديداً موثقة في هذا المدخل"
+  - "No reviewed classical Arab-Islamic sources (al-Ghazali, Ibn Sina) are currently available for this entry"
+  - "The original text of Atlas of the Heart has not yet been reviewed; the copy available on disk is corrupted (unrelated content)"
+  - "No psychometric instruments specific to fear are documented in this entry"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Fear
 
-[EN TRANSLATION NEEDED — lede paragraph]
+An emotional experience in response to a direct, concrete threat, representing a point of intersection between cognitive psychology, affective neuroscience and existential philosophy.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## The Cognitive Definition
 
-# الخوف
+For Lazarus: facing an immediate, concrete and overwhelming physical danger (Facing an immediate, concrete, and overwhelming physical danger), unlike anxiety, which faces an uncertain, existential threat (Facing uncertain, existential threat). The action tendency associated with it: avoidance or flight.
 
-خبرة انفعالية استجابةً لتهديد مباشر وملموس، تمثل نقطة تقاطع بين علم النفس المعرفي وعلم الأعصاب الوجداني والفلسفة الوجودية.
+## The Neural Basis
 
-## التعريف المعرفي
+For Panksepp: one of the innate emotional systems in mammalian brains (the FEAR system), whose pathway runs from the central amygdala through the thalamus to the periaqueductal gray in the brainstem. Weak activation produces freezing, strong activation produces panicked flight.
 
-عند لازاروس: مواجهة خطر مادي داهم وملموس وساحق (Facing an immediate, concrete, and overwhelming physical danger)، بخلاف القلق الذي يواجه تهديداً وجودياً غير مؤكد (Facing uncertain, existential threat). النزعة للفعل المرتبطة به: التجنب أو الهروب.
+## The Theoretical Debate
 
-## الأساس العصبي
+A fundamental disagreement between two camps fully documented in the library: is fear an innate universal system with a fixed bodily and neural signature (Panksepp, Ekman), or a variable cognitive construction that depends on culturally acquired concepts (Lisa Feldman Barrett, the theory of constructed emotion)?
 
-عند بانكسيب: أحد الأنظمة العاطفية الفطرية في أدمغة الثدييات (نظام FEAR)، مساره يبدأ من اللوزة الدماغية المركزية عبر المهاد إلى المادة الرمادية المحيطة بالمسال في جذع الدماغ. التنشيط الضعيف يُنتج التجمّد، والقوي يُنتج الفرار المذعور.
+## The Cultural Dimension
 
-## الجدل النظري
+According to Batja Mesquita, the idea that emotions are an individual internal possession and not social in context is a Western cultural assumption (WEIRD), not a universal truth. An open research question: how is fear lived and expressed in Arab and Islamic contexts specifically?
 
-خلاف جوهري بين معسكرين موثقين بالكامل في المكتبة: هل الخوف نظام فطري عالمي له بصمة جسدية وعصبية ثابتة (بانكسيب، إكمان)، أم بناء معرفي متغير يعتمد على مفاهيم مكتسبة ثقافياً (ليزا فيلدمان باريت، نظرية المشاعر المبنية)؟
+## The Existential versus the Clinical Formulation
 
-## البعد الثقافي
+Fear is formulated from multiple angles without direct therapeutic direction: as a response open to cognitive reappraisal (Lazarus), or as an innate system whose function is survival, not malfunction (Panksepp), or as an acquired concept that depends on the individual's linguistic repertoire (Barrett).
 
-بحسب باتجا مسكيتا، فكرة أن المشاعر ملك فردي داخلي وليست اجتماعية السياق افتراض ثقافي غربي (WEIRD) لا حقيقة عالمية. سؤال بحثي مفتوح: كيف يُعاش الخوف ويُعبَّر عنه في السياقات العربية والإسلامية تحديداً؟
+## A Methodological Note on the Sources
 
-## الصياغة الوجودية مقابل السريرية
-
-الخوف يُصاغ من زوايا متعددة دون توجيه علاجي مباشر: كاستجابة قابلة لإعادة التقييم المعرفي (لازاروس)، أو كنظام فطري وظيفته البقاء لا الخلل (بانكسيب)، أو كمفهوم مكتسب يعتمد على المخزون اللغوي للفرد (باريت).
-
-## ملاحظة منهجية على المصادر
-
-بعض التفاصيل الوصفية والحسية عن الخوف (الاستجابات الجسدية التفصيلية) مأخوذة من مصدر أدبي غير محقق مضمونياً بعد (The Emotion Thesaurus لأكرمان وبوجليسي، النسخة المتاحة حالياً ملخص من طرف ثالث لا نص الكتاب الأصلي)، وتحتاج استبدال المصدر لاحقاً.
--->
+Some descriptive and sensory details about fear (the detailed bodily responses) are taken from a literary source whose content has not yet been verified (The Emotion Thesaurus by Ackerman and Puglisi; the version currently available is a third-party summary, not the text of the original book), and the source needs to be replaced later.

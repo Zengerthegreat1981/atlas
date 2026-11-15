@@ -16,12 +16,6 @@ related:
   - id: thk-clifford-geertz
     title: Clifford Geertz
     type: thinker
-  - id: con-thick-description
-    title: Thick Description
-    type: concept
-  - id: con-cultural-interpretation
-    title: Cultural Interpretation
-    type: concept
 gaps: []
 sources:
   - Geertz, C. (1973). The Interpretation of Cultures: Selected Essays. Basic Books.

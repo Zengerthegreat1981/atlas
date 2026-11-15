@@ -3,37 +3,30 @@ slug: "con-thrownness"
 id: "CON-0417"
 type: "مفهوم"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Thrownness (Geworfenheit)"
 en: "Thrownness (Geworfenheit)"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← Concepts ← Thrownness"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+  - id: "con-freedom", title: "Freedom", type: "مفهوم"
+  - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"
 gaps:
-  - "لا يوجد بعد أداة قياس (ins-) لمفهوم القذف/الإلقاء، وطبيعته الفلسفية المجردة تجعل قياسه الكمي صعباً أصلاً"
+  - "There is not yet a measurement instrument (ins-) for the concept of thrownness, and its abstract philosophical nature makes quantitative measurement difficult to begin with"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Thrownness (Geworfenheit)
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Heidegger's concept: that the human being finds himself already existing in a time, body, family, language and culture he did not choose, and this pre-given situation is where every subsequent choice begins.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## The Precise Meaning
 
-# القذف / الإلقاء (Geworfenheit)
+It is not an event that happened once in the past, but a continuing structure: the human being is always "thrown" into a situation he did not make, and only from it can he choose his next project — there is no absolute freedom without a prior context.
 
-مفهوم هايدجر: أن الإنسان يجد نفسه موجوداً بالفعل في زمن وجسد وأسرة ولغة وثقافة لم يخترها، وهذا الوضع المُعطى مسبقاً هو ما يبدأ منه كل اختيار لاحق.
+## Relation to the Previously Presented Concept of Freedom
 
-## المعنى الدقيق
+It clarifies the limits of the concept of freedom (con-freedom) in this Atlas: existential freedom in Heidegger is not a launch from a void, but a freedom always constrained by a situation one is already thrown into — and this prevents reading existential freedom as an absolute voluntarism detached from circumstances.
 
-ليس حدثاً وقع مرة واحدة في الماضي، بل بنية مستمرة: الإنسان دوماً 'مُلقى' في وضع لم يصنعه، ومنه فقط يمكنه أن يختار مشروعه القادم — لا حرية مطلقة بلا سياق سابق.
+## A Common Danger in Popular Usage
 
-## الصلة بمفهوم الحرية الموجود مسبقاً
-
-يوضح حدود مفهوم الحرية (con-freedom) في هذا الأطلس: الحرية الوجودية عند هايدجر ليست انطلاقاً من فراغ، بل حرية مقيّدة دوماً بوضع مُلقى فيه سلفاً — وهذا يمنع قراءة الحرية الوجودية كإرادوية مطلقة منفصلة عن الظروف.
-
-## خطر شائع في الاستخدام الشعبي
-
-يُستخدم أحياناً بتسطيح لتبرير الجمود ('أنا هكذا وُلدت ولا يمكنني التغيير')، بينما المفهوم عند هايدجر يصف نقطة البداية لا سقفاً نهائياً للإمكان.
--->
+It is sometimes used superficially to justify inertia ("this is how I was born and I cannot change"), whereas the concept in Heidegger describes the starting point, not a final ceiling on possibility.

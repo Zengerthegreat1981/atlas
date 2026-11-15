@@ -3,48 +3,41 @@ slug: "thk-binswanger"
 id: "THK-0105"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Ludwig Binswanger"
 en: "Ludwig Binswanger"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existentialist School ← People ← Ludwig Binswanger"
 dates: "سويسرا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-boss", title: "بوس", type: "مفكر"
-  - id: "dbt-boss-binswanger", title: "الخصومة", type: "جدل"
-  - id: "br-daseins", title: "التيار", type: "تيار"
-  - id: "thk-straus", title: "إروين شتراوس", type: "مفكر"
+  - id: "thk-boss", title: "Boss", type: "مفكر"
+  - id: "dbt-boss-binswanger", title: "The Rivalry", type: "جدل"
+  - id: "br-daseins", title: "The Current", type: "تيار"
+  - id: "thk-straus", title: "Erwin Straus", type: "مفكر"
 gaps:
-  - "أعماله وترجماتها — لم تُدخل"
+  - "His works and their translations — not entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Ludwig Binswanger
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The first to turn Heidegger into psychological practice, and the first to be accused of misunderstanding him.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Did
 
-# لودفيغ بينسوانغر
+He built "existential analysis": describing the patient's world as a whole (his time, space, body, and relationships) instead of breaking it down into symptoms.
 
-أول من حوّل هايدجر إلى ممارسة نفسية، وأول من اتُّهم بسوء فهمه.
+## The Key Concept
 
-## ما فعله
+Every human being has a private world-design, a way in which everything takes shape for him. And disorder is a narrowing of this design, not a fault in a machine.
 
-بنى «التحليل الوجودي»: وصف عالم المريض ككل — زمانه ومكانه وجسده وعلاقاته — بدل تفكيكه إلى أعراض.
+## His Relationship with Freud
 
-## المفهوم المفتاح
+A friendship that continued despite deep theoretical disagreement, which is one of the rare cases in the history of this field.
 
-لكل إنسان تصميم عالَم خاص، وطريقة يتشكّل بها كل شيء عنده. والاضطراب تضيّق في هذا التصميم لا خلل في آلة.
+## The Objection to Him
 
-## علاقته بفرويد
+That his reading turned an ontological analysis into a theory of the self, that is, it returned it to what Heidegger was transcending.
 
-صداقة استمرت رغم الخلاف النظري العميق — وهي من الحالات النادرة في تاريخ هذا المجال.
+## His Most Important Works
 
-## الاعتراض عليه
-
-أن قراءته حوّلت تحليلاً أنطولوجياً إلى نظرية عن الذات، أي أعادته إلى ما كان هايدجر يتجاوزه.
-
-## أهم أعماله
-
-الصيغ الأساسية ومعرفة الوجود الإنساني (Grundformen und Erkenntnis menschlichen Daseins, 1942) · في هروب الأفكار (Über Ideenflucht, 1933) · الفصام (Schizophrenie, 1957) · الكينونة-في-العالم (مختارات مترجمة) (Being-in-the-World (ed. Needleman), 1963)
--->
+Basic Forms and Knowledge of Human Existence (Grundformen und Erkenntnis menschlichen Daseins, 1942) · On Flight of Ideas (Über Ideenflucht, 1933) · Schizophrenia (Schizophrenie, 1957) · Being-in-the-World (selected translated writings) (Being-in-the-World (ed. Needleman), 1963)

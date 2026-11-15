@@ -3,53 +3,46 @@ slug: "thk-heidegger"
 id: "THK-0102"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Martin Heidegger"
 en: "Martin Heidegger"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← Martin Heidegger"
 dates: "ألمانيا · 1889–1976 (يحتاج تحقق)"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
-  - id: "dbt-boss-binswanger", title: "خصومة قراءته", type: "جدل"
-  - id: "thk-boss", title: "ميدارد بوس", type: "مفكر"
-  - id: "thk-husserl", title: "إدموند هوسرل", type: "مفكر"
-  - id: "crt-feminist-critique-heidegger", title: "النقد النسوي لحياد الدازاين الجنساني", type: "نقد خارجي موثَّق"
+  - id: "br-daseins", title: "Existential Analysis", type: "تيار"
+  - id: "dbt-boss-binswanger", title: "The Dispute over His Reading", type: "جدل"
+  - id: "thk-boss", title: "Medard Boss", type: "مفكر"
+  - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"
+  - id: "crt-feminist-critique-heidegger", title: "The Feminist Critique of Dasein's Gender Neutrality", type: "نقد خارجي موثَّق"
 gaps:
-  - "التواريخ والطبعات والترجمات العربية — لم تُدخل"
+  - "Dates, editions and Arabic translations — not yet entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Martin Heidegger
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The heaviest philosophical source of the school, and the most resistant of them to being used this way.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Gave
 
-# مارتن هايدجر
+Dasein, being-in-the-world, being-toward-death, "the They," authenticity, and anxiety as a revealer, not a symptom.
 
-أثقل مصدر فلسفي للمدرسة، وأكثرهم مقاومةً لأن يُستعمل هكذا.
+## His Direct Relationship with the Clinic
 
-## ما أعطاه
+For years he took part in seminars with psychiatrists at Boss's invitation, the only time the founder of a philosophical idea took part in transferring it to medicine.
 
-الدازاين، والوجود-في-العالم، والوجود-نحو-الموت، و«الناس»، والأصالة، والقلق ككاشف لا كعرَض.
+## His Limits
 
-## علاقته المباشرة بالعيادة
+He offers no therapy, and does not regard anxiety as a problem to be solved. And transferring his concepts into the clinic is a process in which they lose their ontological meaning, which is legitimate on condition that it is declared.
 
-شارك سنوات في ندوات مع أطباء نفسيين بدعوة من بوس — وهي المرة الوحيدة التي شارك فيها مؤسّس فكرة فلسفية في نقلها إلى الطب.
+## A File That Is Not Hidden
 
-## حدوده
+His association with Nazism is part of his record; it is neither deleted nor used to dismiss his analyses without examination. Separating the two is possible and required, and concealing either is not honesty.
 
-لا يقدّم علاجاً، ولا يعتبر القلق مشكلة تُحلّ. ونقل مفاهيمه إلى العيادة عملية تفقد فيها معناها الأنطولوجي — وهذا مشروع بشرط أن يُعلَن.
+## His Most Important Works
 
-## ملف لا يُخفى
+Being and Time (Sein und Zeit, 1927) · What Is Metaphysics? (Was ist Metaphysik?, 1929) · Introduction to Metaphysics (Einführung in die Metaphysik, 1935 (published 1953)) · Letter on Humanism (Brief über den Humanismus, 1947)
 
-ارتباطه بالنازية جزء من ملفه، لا يُحذف ولا يُستعمل لإسقاط تحليلاته دون فحص. والفصل بين الأمرين ممكن ومطلوب، وإخفاء أحدهما ليس أمانة.
+## Selected Quotations
 
-## أهم أعماله
-
-الوجود والزمان (Sein und Zeit, 1927) · ما الميتافيزيقا؟ (Was ist Metaphysik?, 1929) · مدخل إلى الميتافيزيقا (Einführung in die Metaphysik, 1935 (نُشر 1953)) · رسالة في الإنسانوية (Brief über den Humanismus, 1947)
-
-## اقتباسات مختارة
-
-«كينونة الدازاين هي الانشغال (Sorge).» — الوجود والزمان، 1927<br>«اللغة بيت الوجود.» — رسالة في الإنسانوية، 1947
--->
+"The being of Dasein is care (Sorge)." — Being and Time, 1927<br>"Language is the house of being." — Letter on Humanism, 1947

@@ -3,35 +3,28 @@ slug: "thk-shestov"
 id: "THK-0317"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Lev Shestov"
 en: "Lev Shestov"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← People ← Lev Shestov"
 dates: "روسيا/فرنسا · 1866–1938"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-kierkegaard", title: "سورين كيركيغارد", type: "مفكر"
-  - id: "thk-berdyaev", title: "نيكولاي بيردييف", type: "مفكر"
+  - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
+  - id: "thk-berdyaev", title: "Nikolai Berdyaev", type: "مفكر"
 gaps:
-  - "لم تُراجع بعد نصوصه الأصلية من نسخة محققة."
-  - "أقل الأصوات الروسية الدينية حضوراً في التوثيق الحالي للأطلس، ومحتاج بحثاً إضافياً عن أثره المباشر (إن وُجد) على الممارسة العلاجية لا الفلسفة فقط."
+  - "His original texts have not yet been reviewed from a verified edition."
+  - "The least present of the Russian religious voices in the Atlas's current documentation; further research needed on his direct influence (if any) on therapeutic practice, not only on philosophy."
 ---
 
-# [EN TRANSLATION NEEDED]
+# Lev Shestov
 
-[EN TRANSLATION NEEDED — lede paragraph]
+A Russian-Jewish philosopher, one of the first to present Kierkegaard seriously to the French reader, and one of the fiercest defenders of irrationalism against absolute philosophical certainty.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Gave
 
-# ليف شيستوف
+His book "Kierkegaard and the Existential Philosophy" was among the first works to bring Kierkegaard to the French reader with philosophical seriousness, before his name became central in later French existentialism. He argued that methodical reason (not faith or the absolute) is what must be subjected to radical doubt.
 
-فيلسوف روسي-يهودي، كتب من أوائل من قدّموا كيركيغارد بجدية للقارئ الفرنسي، ومن أشد المدافعين عن اللاعقلانية في مواجهة اليقين الفلسفي المطلق.
+## A Constraint
 
-## ما أعطاه
-
-كتابه «كيركيغارد والفلسفة الوجودية» (Kierkegaard and the Existential Philosophy) كان من أوائل الأعمال التي نقلت كيركيغارد إلى القارئ الفرنسي بجدية فلسفية، قبل أن يصبح اسمه مركزياً في الوجودية الفرنسية لاحقاً. جادل بأن العقل المنهجي (لا الإيمان أو المطلق) هو ما يجب أن يخضع للشك الجذري.
-
-## قيد
-
-أثره غير مباشر إلى حد كبير — دوره الأهم كان نقل كيركيغارد لا صياغة موقف مستقل بنفس درجة الأصالة التي عند بيردييف أو مارسيل.
--->
+His influence is largely indirect — his most important role was transmitting Kierkegaard rather than formulating an independent position with the same degree of originality as Berdyaev or Marcel.

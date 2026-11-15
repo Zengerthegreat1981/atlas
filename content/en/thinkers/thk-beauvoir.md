@@ -3,50 +3,43 @@ slug: "thk-beauvoir"
 id: "THK-0104"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Simone de Beauvoir"
 en: "Simone de Beauvoir"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← People ← Simone de Beauvoir"
 dates: "فرنسا · فيلسوفة"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "dbt-individualism", title: "خصومة الفردانية", type: "جدل"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+  - id: "dbt-individualism", title: "The Individualism Dispute", type: "جدل"
+  - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
 gaps:
-  - "أعمالها بتواريخها وترجماتها — لم تُدخل"
+  - "Her works with their dates and translations — not yet entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Simone de Beauvoir
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The most important name omitted from the history of this school, and whoever includes her finds in her the strongest reply to the most famous criticism directed at it.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What She Gave
 
-# سيمون دي بوفوار
+The ethics of ambiguity: freedom is not individual property but entangled with the freedom of others. And my freedom is not realized except through the liberation of those around me.
 
-أهم اسم محذوف من تاريخ هذه المدرسة، ومن يدرجه يجد عنده أقوى ردّ على أشهر نقد توجَّه إليها.
+## The Point of the Situation
 
-## ما أعطته
+The lived situation — body, gender, class and history — constrains freedom actually, not theoretically. That is, saying "you are always free" is inaccurate even within existentialism itself.
 
-أخلاق الغموض: الحرية ليست ملكية فردية بل متشابكة مع حرية الآخرين. وحريتي لا تتحقق إلا بتحرّر من حولي.
+## Why This Matters Today
 
-## نقطة الوضع
+Because the strongest criticism of the school is individualism and blindness to power — and the reply to it exists in its philosophical origin, but was lost in the transmission to the American clinic.
 
-الوضع المُعاش — الجسد والنوع والطبقة والتاريخ — يقيّد الحرية فعلياً لا نظرياً. أي أن القول «أنت حرّ دائماً» غير دقيق حتى داخل الوجودية نفسها.
+## A Note on Writing History
 
-## لماذا يهمّ هذا اليوم
+Her presence in presentations of the school is far less than her actual influence. This is a pattern worth recording, not merely correcting.
 
-لأن أقوى نقد للمدرسة هو الفردانية والعمى عن السلطة — والردّ عليه موجود في أصلها الفلسفي، لكنه سقط في النقل إلى العيادة الأمريكية.
+## Her Major Works
 
-## ملاحظة عن كتابة التاريخ
+The Second Sex (Le Deuxième Sexe, 1949) · The Ethics of Ambiguity (Pour une morale de l'ambiguïté, 1947) · Memoirs of a Dutiful Daughter (Mémoires d'une jeune fille rangée, 1958) · Old Age (La Vieillesse, 1970)
 
-حضورها في عروض المدرسة أقل بكثير من أثرها الفعلي. وهذا نمط يستحق التسجيل لا مجرد التصحيح.
+## Selected Quotations
 
-## أهم أعمالها
-
-الجنس الآخر (Le Deuxième Sexe, 1949) · أخلاق الغموض (Pour une morale de l'ambiguïté, 1947) · مذكرات فتاة رزينة (Mémoires d'une jeune fille rangée, 1958) · الشيخوخة (La Vieillesse, 1970)
-
-## اقتباسات مختارة
-
-«لا تولد المرأة امرأة، بل تصير كذلك.» — الجنس الآخر، 1949
--->
+"One is not born, but rather becomes, a woman." — The Second Sex, 1949

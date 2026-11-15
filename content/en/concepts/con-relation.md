@@ -3,65 +3,61 @@ slug: "con-relation"
 id: "CON-0410"
 type: "مفهوم"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Relation and Encounter"
 en: "Relation and encounter"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← Concepts ← Relation and Encounter"
 edges:
   - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "con-isolation", title: "العزلة", type: "مفهوم"
-  - id: "thk-bugental", title: "بوجنتال", type: "مفكر"
-  - id: "thk-buber", title: "مارتن بوبر", type: "مفكر"
+  - id: "con-isolation", title: "Isolation", type: "مفهوم"
+  - id: "thk-bugental", title: "Bugental", type: "مفكر"
+  - id: "thk-buber", title: "Martin Buber", type: "مفكر"
 gaps:
-  - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "Textual passages for each formulation — not yet entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Relation and Encounter
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The concept that determines what the instrument of therapy is in the first place: a technique applied by an expert, or an encounter between two people?
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Framing the Concept
 
-# العلاقة واللقاء
+The question: is the therapeutic relationship a **vessel** for the treatment, or **is it** the treatment? The answer of this school — despite disagreement among its currents — leans strongly toward the second.
 
-المفهوم الذي يحدّد ما هي أداة العلاج أصلاً: تقنية يطبّقها خبير، أم لقاء بين اثنين؟
+## Core Disputes Within the Concept
 
-## تحرير المفهوم
+The founding dispute: **Sartre against Buber** — is encounter possible? And a second, contemporary dispute: **is there a describable individual outside relation?** Spinelli says no, and most of the school says yes in varying degrees.
 
-السؤال: هل العلاقة العلاجية <b>وعاء</b> للعلاج أم <b>هي</b> العلاج؟ وإجابة هذه المدرسة — على خلاف بين تياراتها — تميل بقوة إلى الثانية.
+## How It Appears in the Session
 
-## الخلافات الجوهرية داخل المفهوم
+The first observation is not about what the client says but about what happens between the two: when one of them withdraws, when the rhythm changes, when the therapist feels boredom or pity or an urge to rescue. These are signals about the structure of the client's relationships in general.
 
-الخصومة المؤسِّسة: <b>سارتر ضد بوبر</b> — هل اللقاء ممكن؟ وخصومة ثانية معاصرة: <b>هل يوجد فرد قابل للوصف خارج العلاقة؟</b> سبينيللي يقول لا، وأغلب المدرسة تقول نعم بدرجات.
+## The Most Common Misunderstanding
 
-## كيف يظهر في الجلسة
+Reducing encounter to warmth or empathy. In Buber it is a rare event, not a permanent mood, and it cannot be produced by will or performed.
 
-الملاحظة الأولى ليست على ما يقوله العميل بل على ما يحدث بين الاثنين: متى ينسحب أحدهما، ومتى يتغيّر الإيقاع، ومتى يشعر المعالج بالملل أو الشفقة أو الاندفاع للإنقاذ. وهذه إشارات عن بنية علاقات العميل عموماً.
+## Example and Counter-Example
 
-## أشهر ما يُساء فهمه
+**Example:** A therapy session reaches a moment in which the therapist and client both feel that something "real" has happened — not a technique or professional empathy but an encounter in Buber's sense: a genuine, fleeting I-Thou, not the usual professional I-It. This moment cannot be planned, but the ground can be prepared for it through full presence and the absence of prior calculation.
+**Counter-example:** A therapist tells a trainee, "Try to create an I-Thou encounter with every client in every session," as if it were a technique to be applied by will. This contradicts Buber directly: genuine encounter cannot be made by will or performed, and trying to "produce" it deliberately automatically turns it into a performance, that is, a disguised I-It relation.
 
-اختزال اللقاء في الدفء أو التعاطف. عند بوبر هو حدث نادر لا مزاج دائم، ولا يُصنع بالإرادة ولا يُؤدَّى.
+## What Does Not Follow from This Concept
 
-## مثال ومثال مضاد
+It **does not mean** that the therapeutic relationship must be an I-Thou encounter at every moment — most useful therapeutic work happens in a natural professional I-It relation (assessment, planning, follow-up), and deep encounter is a rare moment, not a permanent required state.
+**Nor does it mean** that visible warmth or empathy equals existential encounter — a therapist who is outwardly warm and empathic can remain in a one-sided I-It relation, while a genuine encounter may occur in a temporary silence or a difficult confrontation that carries no superficial warmth at all.
 
-<b>مثال:</b> جلسة علاجية تصل للحظة يشعر فيها المعالج والعميل معاً بأن شيئاً «حقيقياً» حدث — ليس تقنية أو تعاطفاً مهنياً بل لقاء بمعنى بوبر: أنا-أنت حقيقي عابر، لا أنا-هو المهني المعتاد. لا يمكن التخطيط لهذه اللحظة، لكن يمكن أن تُهيَّأ لها الأرضية بالحضور الكامل وغياب الحساب المسبق.<br><b>مثال مضاد:</b> معالج يخبر متدرباً «حاول أن تخلق لقاء أنا-أنت مع كل عميل في كل جلسة» كأنه تقنية تُطبَّق بالإرادة. هذا يناقض بوبر مباشرة: اللقاء الحقيقي لا يُصنع بالإرادة ولا يُؤدَّى، ومحاولة «إنتاجه» قصداً تحوّله تلقائياً إلى أداء، أي إلى علاقة أنا-هو مقنّعة.
+## The Arab and Cultural Context
 
-## ما لا يُستنتج من هذا المفهوم
+Buber's and Levinas's philosophy of encounter arose from deep religious and Jewish thinking about the other, but was recently formulated in universal philosophical terms largely secular in tone. In Arab contexts, close concepts already exist in the heritage — such as hospitality, the inviolability of the other, and the notion of "al-rahim" (kinship ties) in family relations — but they are not exactly identical to existential "encounter," which presupposes an individualist parity between two independent selves, whereas many traditional Arab relationships are built on a recognized hierarchy (elder and younger, father and son) that parity does not necessarily abolish but which is lived differently from what Buber assumes.
+There is no single Arabic word that conveys the precise difference between Ich-Du and Ich-Es as Buber formulated it; the available translations ("I-You" versus "I-It") are literal renderings that do not carry the full philosophical charge of the German original, and this creates a real gap between the text and its non-specialist Arab reader, calling for additional explanation that translation alone does not suffice.
 
-<b>لا يعني</b> أن العلاقة العلاجية يجب أن تكون لقاء أنا-أنت في كل لحظة — معظم العمل العلاجي المفيد يحدث في علاقة أنا-هو مهنية طبيعية (تقييم، تخطيط، متابعة)، واللقاء العميق لحظة نادرة لا حالة دائمة مطلوبة.<br><b>ولا يعني</b> أن الدفء أو التعاطف الظاهر يساوي اللقاء الوجودي — يمكن لمعالج دافئ ومتعاطف ظاهرياً أن يبقى في علاقة أنا-هو من طرف واحد، بينما لقاء حقيقي قد يحدث في صمت مؤقت أو مواجهة صعبة لا تحمل دفئاً سطحياً على الإطلاق.
+## Comparative Table
 
-## السياق العربي والثقافي
-
-فلسفة اللقاء عند بوبر ولفيناس نشأت من تفكير ديني ويهودي عميق حول الآخر، لكنها صيغت أخيراً في مصطلحات فلسفية عالمية علمانية النبرة إلى حد كبير. في السياقات العربية، مفاهيم قريبة موجودة أصلاً في التراث — كالضيافة، وحرمة الآخر، ومفهوم «الرحم» في العلاقات الأسرية — لكنها ليست مطابقة تماماً لـ«اللقاء» الوجودي الذي يفترض ندّية فردانية بين ذاتين مستقلتين، بينما كثير من العلاقات العربية التقليدية مبنية على تراتبية معترف بها (الكبير والصغير، الأب والابن) لا تُلغيها الندّية بالضرورة لكنها تُعاش بشكل مختلف عمّا يفترضه بوبر.<br>لا توجد كلمة عربية واحدة تنقل الفرق الدقيق بين Ich-Du وIch-Es كما صاغه بوبر؛ الترجمات المتوفرة («أنا-أنت» مقابل «أنا-هو») نقل حرفي لا يحمل الشحنة الفلسفية الكاملة للأصل الألماني، وهذا يخلق فجوة حقيقية بين النص وقارئه العربي غير المتخصص، تستدعي شرحاً إضافياً لا تكفيه الترجمة وحدها.
-
-## جدول مقارن
-
-| المفكر | صياغته بالضبط | ما يترتب عليه في الغرفة | خلافه مع غيره |
+| Thinker | Exact formulation | What follows in the room | Disagreement with others |
 |---|---|---|---|
-| بوبر | «أنا-أنت» مقابل «أنا-هو». حين أخاطبك بوصفك أنتَ لا أستعملك ولا أصنّفك، ويحدث بيننا ما لا يقع داخل أيّ منا. | الحضور بدل التقنية. وأهمّ ما يفعله المعالج أحياناً ألّا يفعل شيئاً سوى أن يكون هناك. | الردّ المباشر على تشاؤم سارتر. |
-| سارتر | نظرة الآخر تحوّلني إلى موضوع. والعلاقة صراع بنيوي بين وعيين لا يلتقيان تماماً. | صعب البناء عليه، ويُستعمل لفهم الخزي أكثر من بناء العلاقة. | الخصم المباشر لبوبر. |
-| بوجنتال | الحضور مهارة تُتعلَّم وتُقاس بدرجات، لا صفة يملكها المعالج أو لا يملكها. | تدريب منهجي على الحضور: ملاحظة متى ينسحب المعالج ذهنياً، ولماذا. | يحوّل مفهوم بوبر الفلسفي إلى حرفة. |
-| يالوم | الشفافية المحسوبة: أن يشارك المعالج ما يحدث فيه هو، بقدر وفي موضعه، لأن العلاقة نفسها عيّنة حيّة. | استعمال «ما يحدث بيننا الآن» مادةً مباشرة في الجلسة. | أوسع استعمال عملي للمفهوم، ويُنتقد بخطر تحوّله إلى استعراض. |
-| سبينيللي | كل شيء علائقي. لا يوجد عميل مستقل يُوصف ثم تُضاف إليه علاقة؛ ما يظهر يظهر بين الاثنين. | رفض أي وصف للعميل بمعزل عن هذه العلاقة تحديداً. | أقصى صيغة، وتجعل التعميم بين حالة وأخرى شبه مستحيل. |
-| فان دورزن | العلاقة أحد أربعة أبعاد، ولها بنيتها: سلطة، وانتماء، وتنافس، ووحدة. | مسح العلاقات بوصفها ساحة وجود لا خلفية للمشكلة. | أكثر تفصيلاً وأقلّ رومانسية من الصيغ الأمريكية. |
--->
+| Buber | "I-Thou" versus "I-It". When I address you as a Thou I neither use nor classify you, and something happens between us that does not occur within either of us. | Presence instead of technique. And the most important thing the therapist sometimes does is nothing but be there. | The direct reply to Sartre's pessimism. |
+| Sartre | The gaze of the other turns me into an object. Relation is a structural struggle between two consciousnesses that never fully meet. | Hard to build on, and used to understand shame more than to build relationship. | The direct adversary of Buber. |
+| Bugental | Presence is a skill that is learned and measured in degrees, not a trait the therapist has or lacks. | Systematic training in presence: noticing when and why the therapist withdraws mentally. | Turns Buber's philosophical concept into a craft. |
+| Yalom | Calculated transparency: the therapist shares what is happening in him, to a measure and at the right place, because the relationship itself is a living sample. | Using "what is happening between us now" as direct material in the session. | The broadest practical use of the concept, criticized for the risk of turning into display. |
+| Spinelli | Everything is relational. There is no independent client who is described and then given a relationship; what appears appears between the two. | Rejecting any description of the client apart from this particular relationship. | The most extreme formulation, and makes generalization from one case to another nearly impossible. |
+| van Deurzen | Relation is one of four dimensions, and it has its own structure: power, belonging, competition, and unity. | Surveying relationships as an arena of existence, not as the background of the problem. | More detailed and less romantic than the American formulations. |

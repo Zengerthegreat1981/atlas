@@ -3,35 +3,28 @@ slug: "thk-dostoevsky"
 id: "THK-0312"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Fyodor Dostoevsky"
 en: "Fyodor Dostoevsky"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existentialist School ← People ← Fyodor Dostoevsky"
 dates: "روسيا · 1821–1881"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "thk-nietzsche", title: "نيتشه", type: "مفكر"
+  - id: "thk-camus", title: "Albert Camus", type: "مفكر"
+  - id: "thk-nietzsche", title: "Nietzsche", type: "مفكر"
 gaps:
-  - "لم تُراجع بعد نصوص أصلية مباشرة (الإخوة كارامازوف، الإنسان من تحت الأرض) — الوصف هنا عام من تاريخ الفكر، لا اقتباس محقق."
-  - "علاقته بالوجودية غير مباشرة (روائي لا فيلسوف مصرِّح)، ويحتاج توضيحاً منهجياً لحدود إدراجه هنا."
+  - "Direct original texts (The Brothers Karamazov, Notes from Underground) have not yet been reviewed — the description here is general, from the history of ideas, not a verified quotation."
+  - "His relationship to existentialism is indirect (a novelist, not a self-declared philosopher), and needs a methodological clarification of the limits of including him here."
 ---
 
-# [EN TRANSLATION NEEDED]
+# Fyodor Dostoevsky
 
-[EN TRANSLATION NEEDED — lede paragraph]
+A Russian novelist, often counted as one of the literary ancestors of existentialism despite having preceded it in time as a named philosophical movement.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Why He Is Mentioned Here
 
-# فيودور دوستويفسكي
+His novel "Notes from Underground" (Notes from Underground, 1864) is often read as the first deep novelistic portrayal of freedom as a burden rather than a pure blessing, and a rejection of guaranteed happiness imposed from outside. Sartre and Camus explicitly return to him as a direct literary source of inspiration.
 
-روائي روسي، غالباً ما يُعدّ أحد الأسلاف الأدبيين للوجودية رغم سبقه الزمني لها كحركة فلسفية مسمّاة.
+## A Caveat
 
-## لماذا يُذكر هنا
-
-روايته «الإنسان من تحت الأرض» (Notes from Underground, 1864) تُقرأ غالباً كأول تصوير روائي عميق للحرية بوصفها عبئاً لا نعمة خالصة، ورفض للسعادة المضمونة المفروضة من الخارج. سارتر وكامو يعودان إليه صراحة كمصدر إلهام أدبي مباشر.
-
-## قيد
-
-لم يصف نفسه فيلسوفاً وجودياً (المصطلح لم يكن موجوداً وقته أصلاً)، وإدراجه هنا بوصفه سلفاً أدبياً/فكرياً لا عضواً في مدرسة فلسفية بالمعنى الدقيق.
--->
+He did not describe himself as an existentialist philosopher (the term did not even exist in his time), and his inclusion here is as a literary/intellectual ancestor, not a member of a philosophical school in the strict sense.

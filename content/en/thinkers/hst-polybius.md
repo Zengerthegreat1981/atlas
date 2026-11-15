@@ -14,7 +14,6 @@ edges: []
 related:
     - id: "hst-thucydides", type: "مفكر"
   - id: "hst-con-universal-history-ancient", type: "مفكر"
-  - id: "hst-con-causality-ancient", type: "مفكر"
   - id: "hst-con-greek-roman-historiography", type: "مفكر"
 gaps: []
 ---

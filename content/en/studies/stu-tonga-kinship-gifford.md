@@ -13,14 +13,8 @@ active_start: 1920
 active_end: 1928
 edges: []
 related:
-  - id: thk-edward-gifford
-    title: Edward Gifford
-    type: thinker
   - id: con-kinship
     title: Kinship
-    type: concept
-  - id: con-rank
-    title: Rank
     type: concept
 gaps: []
 sources:

@@ -15,7 +15,6 @@ related:
   - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
   - id: "thk-dostoevsky", title: "Fyodor Dostoevsky", type: "مفكر"
   - id: "thk-kafka", title: "Franz Kafka", type: "مفكر"
-  - id: "wrk-mans_search", title: "The Myth of Sisyphus", type: "عمل"
 gaps: []
 ---
 

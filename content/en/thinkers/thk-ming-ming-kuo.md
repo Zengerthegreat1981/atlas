@@ -3,9 +3,9 @@ slug: "thk-ming-ming-kuo"
 id: "ANT-13253"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Ming-ming Kuo"
 en: "Ming-ming Kuo"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Anthropology ← Thinkers ← Ming-ming Kuo"
 dates: "Taiwan · 1952-"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
@@ -15,26 +15,18 @@ gaps:
   []
 ---
 
-# [EN TRANSLATION NEEDED]
+# Ming-ming Kuo
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Ming-ming Kuo (Taiwan, 1952-) is a thinker in the field of Anthropology.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Main Branch
 
-# مينج مينج كو
+Content pending.
 
-[Brief description in Arabic for translator reference]
+## Contributions
 
-## الفرع الرئيسي
+Content pending.
 
-[Key section in Arabic]
+## Gaps and Developments
 
-## المساهمات
-
-[Contributions in Arabic]
-
-## الفجوات والتطورات
-
-[Gaps in Arabic]
-
--->
+Content pending.

@@ -11,7 +11,6 @@ edges:
 related:
   - id: "con-anxiety-existential", title: "Existential Anxiety", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
-  - id: "thk-van-deurzen", title: "van Deurzen", type: "مفهوم"
 ---
 # Trauma (Existential Perspective)
 

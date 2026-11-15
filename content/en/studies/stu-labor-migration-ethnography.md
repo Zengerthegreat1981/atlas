@@ -13,14 +13,8 @@ active_start: 1999
 active_end: 2003
 edges: []
 related:
-  - id: con-transnational
-    title: Transnational
-    type: concept
   - id: con-diaspora
     title: Diaspora
-    type: concept
-  - id: con-remittances
-    title: Remittances
     type: concept
 gaps: []
 sources:

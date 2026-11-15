@@ -3,31 +3,24 @@ slug: "thk-straus"
 id: "THK-0318"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Erwin Straus"
 en: "Erwin Straus"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existentialist School ← People ← Erwin Straus"
 dates: "ألمانيا/أمريكا · 1891–1975"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "لودفيج بينسفانجر", type: "مفكر"
-  - id: "thk-minkowski", title: "يوجين مينكوفسكي", type: "مفكر"
+  - id: "thk-binswanger", title: "Ludwig Binswanger", type: "مفكر"
+  - id: "thk-minkowski", title: "Eugene Minkowski", type: "مفكر"
 gaps:
-  - "لم تُراجع بعد نصوصه الأصلية (Vom Sinn der Sinne) من نسخة محققة."
-  - "أثره أقل توثيقاً في الأدبيات العربية والإنجليزية المعاصرة مقارنة ببينسفانجر وبوس، ومحتاج بحثاً إضافياً."
+  - "His original texts (Vom Sinn der Sinne) have not yet been reviewed from a verified edition."
+  - "His influence is less documented in contemporary Arabic and English literature compared with Binswanger and Boss, and needs further research."
 ---
 
-# [EN TRANSLATION NEEDED]
+# Erwin Straus
 
-[EN TRANSLATION NEEDED — lede paragraph]
+A German-American psychiatrist and philosopher, one of the pioneers of psychological phenomenology alongside Binswanger and Minkowski, who focused on the lived experience of the body and not the body only as a medical object.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Gave
 
-# إروين شتراوس
-
-طبيب نفسي وفيلسوف ألماني-أمريكي، أحد رواد الفينومينولوجيا النفسية إلى جانب بينسفانجر ومينكوفسكي، ركّز على تجربة الجسد الحية لا الجسد كموضوع طبي فقط.
-
-## ما أعطاه
-
-درس كيفية عيش الجسد للمكان والزمان والحركة كخبرة معيشة أولية، لا كبيانات فسيولوجية مجردة — مؤسِّساً بذلك لخط بحثي مستقل عن الظاهراتية الطبية موازٍ لعمل بينسفانجر ومينكوفسكي، لكن أكثر تركيزاً على الجسد تحديداً.
--->
+He studied how the body lives space, time, and movement as a primary lived experience, not as abstract physiological data, thereby founding a line of research independent of medical phenomenology, parallel to the work of Binswanger and Minkowski, but more focused specifically on the body.

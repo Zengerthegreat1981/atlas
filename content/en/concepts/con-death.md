@@ -3,70 +3,69 @@ slug: "con-death"
 id: "CON-0401"
 type: "مفهوم"
 level: "مبتدئ"
-title: "[EN TRANSLATION NEEDED]"
+title: "Death"
 en: "Death"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← Concepts ← Death"
 edges:
   - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-yalom", title: "يالوم", type: "مفكر"
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-  - id: "con-anxiety", title: "القلق", type: "مفهوم"
-  - id: "con-meaning", title: "المعنى", type: "مفهوم"
+  - id: "thk-yalom", title: "Yalom", type: "مفكر"
+  - id: "thk-heidegger", title: "Heidegger", type: "مفكر"
+  - id: "con-anxiety", title: "Anxiety", type: "مفهوم"
+  - id: "con-meaning", title: "Meaning", type: "مفهوم"
 gaps:
-  - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "Textual passages for each formulation — not yet entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Death
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The clearest example that the "existentialists" are not a single view: nine formulations, some of which flatly contradict one another.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Defining the Concept
 
-# الموت
+Death in this school is not the biological event but **awareness of mortality** and its effect on the one who carries it while alive. The disagreement between the thinkers below is not over details but over three questions: Is death a structure of existence or an event at its end? Does it give life meaning or strip it away? And is it material for therapy at all, or something to be understood and not treated?
 
-أوضح مثال على أن «الوجوديين» ليسوا رأياً واحداً: تسع صياغات، بعضها يناقض بعضاً مناقضة كاملة.
+## The Core Disagreements Within the Concept
 
-## تحرير المفهوم
+Three disagreements that cannot be resolved. The first: **structure or event?** Heidegger says structure, Sartre says an external event, and the therapeutic consequence is entirely different. The second: **does it give meaning or strip it away?** Heidegger, Frankl, and Yalom are on one side, Sartre on the other. The third: **material for therapy or not?** Yalom says yes, emphatically, and Boss says the very question is mistaken.
 
-الموت في هذه المدرسة ليس الحدث البيولوجي بل <b>الوعي بالفناء</b> وأثره في من يحمله وهو حيّ. والخلاف بين الأسماء التالية ليس في التفاصيل بل في ثلاثة أسئلة: هل الموت بنية في الوجود أم حدث في نهايته؟ وهل يمنح الحياة معنى أم يسلبها إياه؟ وهل هو مادة للعلاج أصلاً أم شيء يُفهَم ولا يُعالَج؟
+## How It Appears in the Session
 
-## الخلافات الجوهرية داخل المفهوم
+Three signs the therapist looks for: a frantic, unrelenting busyness (the defence of specialness), or a chronic waiting for someone to rescue (the defence of the rescuer), or a recent moment of awakening — illness, loss, a milestone birthday — that has not been put to use. The rule: the subject is not opened with someone in acute crisis, and any sign of a wish to die is treated as an urgent safety matter, not as an existential topic.
 
-ثلاثة خلافات لا تُحلّ. الأول: <b>بنية أم حدث؟</b> هايدجر يقول بنية، وسارتر يقول حدث خارجي، والنتيجة العلاجية مختلفة تماماً. الثاني: <b>يمنح معنى أم يسلبه؟</b> هايدجر وفرانكل ويالوم في جهة، وسارتر في جهة. الثالث: <b>مادة للعلاج أم لا؟</b> يالوم يقول نعم بقوة، وبوس يقول إن مجرد السؤال خطأ.
+## The Most Common Misunderstanding
 
-## كيف يظهر في الجلسة
+That "the existentialists say death gives life meaning." Sartre explicitly denies this, Tillich displaces it from the centre, and Boss rejects the whole therapeutic treatment of it. The sentence is true of only one current.
 
-ثلاث علامات يبحث عنها المعالج: انشغال محموم لا يهدأ (دفاع التفرّد)، أو انتظار مزمن لمن ينقذ (دفاع المنقذ)، أو لحظة صحوة حديثة — مرض، فقد، عيد ميلاد فارق — لم تُستثمر. والقاعدة: لا يُفتح الموضوع مع من هو في أزمة حادّة، وأي إشارة إلى رغبة في الموت تُعامَل كمسألة سلامة عاجلة لا كموضوع وجودي.
+## Example and Counter-Example
 
-## أشهر ما يُساء فهمه
+**Example:** A man of fifty is diagnosed with a heart condition that suddenly reminds him of his finitude. Following Frankl's line, he begins to review what he has actually achieved in relationships and work, and discovers that his "storehouse of the past" is weightier than he thought. His anxiety calms without his denying or ignoring death. This is a Yalomian-Franklian use of the awakening to death, not a bare confrontation with it.
 
-أن «الوجوديين يقولون إن الموت يعطي الحياة معنى». سارتر ينكر هذا صراحةً، وتيليش يزيحه عن المركز، وبوس يرفض المعالجة كلها. الجملة صحيحة عن تيار واحد فقط.
+**Counter-example:** A therapist confronts a client with social anxiety with the direct question, "Think about your death — doesn't that make your fear of embarrassment seem smaller?", imagining that a reminder of mortality is a universal remedy for all anxiety. This confuses authentic death anxiety with other anxiety symptoms that have no direct relation to it — and it may worsen the condition instead of easing it, because not every anxiety is a disguised death anxiety.
 
-## مثال ومثال مضاد
+## What Cannot Be Inferred from This Concept
 
-<b>مثال:</b> رجل في الخمسين شُخِّص بمرض قلبي يُذكِّره فجأة بتناهيه، فيبدأ — تبعاً لخط فرانكل — بمراجعة ما أنجزه فعلاً من علاقات وعمل، ويكتشف أن «مخزون ماضيه» أثقل مما ظن، فيهدأ قلقه دون أن يُنكر الموت أو يتجاهله. هذا استثمار يالومي-فرانكلي لصحوة الموت لا مواجهة عارية له.<br><b>مثال مضاد:</b> معالج يواجه عميلاً قلقاً اجتماعياً بسؤال مباشر «فكّر في موتك، ألا يهوّن هذا خوفك من الإحراج؟» متوهماً أن التذكير بالفناء علاج شامل لكل قلق. هذا خلط بين قلق الموت الأصيل وأعراض قلق أخرى لا علاقة مباشرة لها به — وقد يزيد الحالة سوءاً بدل أن يخفّفها، لأن ليس كل قلق قلق موت مقنّع.
+It **does not mean** that every psychological symptom is a disguised defence against death — this is an extreme Yalomian reduction that ignores Tillich and Jaspers, who see other causes (meaninglessness, guilt, conflict) that cannot all be traced back to mortality.
 
-## ما لا يُستنتج من هذا المفهوم
+Nor does it mean that confronting death is a therapy in itself, suitable for every client at every moment — Boss rejects this clinical conversion entirely, and an early or forced confrontation with a client who is not ready may be clinically catastrophic rather than therapeutic.
 
-<b>لا يعني</b> أن كل عرض نفسي هو دفاع مقنّع ضد الموت — هذا اختزال يالومي متطرف يتجاهل تيليش وياسبرز اللذين يريان أسباباً أخرى (اللامعنى، الذنب، الصراع) لا تُرَد كلها إلى الفناء.<br><b>ولا يعني</b> أن مواجهة الموت علاج بحد ذاته يصلح لكل عميل في كل لحظة — بوس يرفض هذا التحويل الإكلينيكي كلياً، ومواجهة مبكرة أو قسرية لعميل غير مستعد قد تكون كارثية سريرياً لا علاجية.
+## The Arab and Cultural Context
 
-## السياق العربي والثقافي
+The Western secular conception of death — as an absolute end in the face of which meanings are made (Sartre) or freedom is tested (Heidegger) — collides, in the predominant Arab-Islamic contexts, with a religious framework that sees death as a transition and not nothingness, and with a ready-made system of meaning (divine decree and destiny, the afterlife) in which the individual need not "make" the meaning of death himself, as Sartre or even Frankl assumes. This does not abolish Arab death anxiety, but it changes its form: the deeper anxiety may be religious doubt itself, or guilt before the afterlife, rather than abstract annihilation.
 
-التصور الغربي العلماني للموت — بوصفه نهاية مطلقة تُصنع أمامها المعاني (سارتر) أو تُختبر أمامها الحرية (هايدجر) — يصطدم في السياقات العربية الإسلامية الغالبة بإطار ديني يرى الموت انتقالاً لا عدماً، وبمنظومة معنى جاهزة سلفاً (القضاء والقدر، الآخرة) لا يحتاج فيها الفرد لأن «يصنع» معنى الموت بنفسه كما يفترض سارتر أو حتى فرانكل. هذا لا يلغي قلق الموت العربي، لكنه يغيّر شكله: قد يكون القلق الأعمق هو الشك الديني نفسه أو الذنب الأخروي لا الفناء المجرد.<br>كل الدراسات التجريبية عن «قلق الموت» (Death Anxiety Scale ومشتقاتها) بُنيت على عيّنات غربية علمانية أو مسيحية بروتستانتية، وتطبيقها الحرفي على عيّنات عربية مسلمة متدينة قد يقيس شيئاً مختلفاً تماماً عمّا صُمم لقياسه أصلاً — وهذا فراغ بحثي كبير لم يُسدّ بعد.
+All the empirical studies of "death anxiety" (the Death Anxiety Scale and its derivatives) were built on Western secular or Protestant Christian samples, and applying them literally to devout Arab Muslim samples may measure something entirely different from what they were designed to measure — a large research gap that has not yet been filled.
 
-## جدول مقارن
+## Comparative Table
 
-| المفكر | صياغته بالضبط | ما يترتب عليه في الغرفة | خلافه مع غيره |
+| Thinker | His exact formulation | What follows in the room | His disagreement with others |
 |---|---|---|---|
-| كيركيغارد | الموت ليس محوره. محوره اليأس والقلق أمام الإمكان. لكن التناهي حاضر كخلفية لكل اختيار: أن تكون كائناً محدوداً هو ما يجعل الاختيار جادّاً. | يوجّه العمل نحو اليأس والاختيار لا نحو الفناء مباشرةً. | يختلف عن يالوم في أن الموت عنده خلفية لا موضوع. |
-| هايدجر | الوجود-نحو-الموت بنية أساسية للكينونة. الموت «إمكاني الأخصّ» الذي لا ينوب عني فيه أحد، و«الناس» يخفونه بتحويله إلى واقعة إحصائية. | لا يُترجَم إلى تدخّل. الغاية فهم كيف يهرب هذا الشخص من تناهيه في تفاصيل يومه. | يناقض سارتر مناقضة مباشرة. ويرفض بوس — تلميذه — تحويله إلى قلق يُعالَج. |
-| ياسبرز | الموت واحد من أربعة مواقف حدّية: الموت، والمعاناة، والصراع، والذنب. لا تُحلّ ولا تُتجاوز، ويُتّخذ منها موقف. | يوسّع دائرة العمل: ليس الموت وحده بل المعاناة والصراع والذنب معه. | يخالف مركزية الموت التي بناها يالوم — عنده هو واحد من أربعة لا الأول. |
-| سارتر | الموت ليس إمكانيتي. هو حدث خارجي عبثي يلغي إمكانياتي كلها، ولا يمنح الحياة معنى — بل يسلّم سيرتي لتأويل الآخرين. | يمنع بناء أي تدخّل على أن مواجهة الفناء تعطي معنى. المعنى يُصنع في الحياة بالفعل لا أمام النهاية. | اعتراض مباشر على هايدجر، وضربة لأساس الممارسة اليالومية. |
-| تيليش | قلق المصير والموت واحد من ثلاثة أنماط. وقلق العصر الحديث هو الثاني: الفراغ واللامعنى. | يزيح مركز الثقل: إن كان المريض معاصراً، فالأرجح أن مشكلته اللامعنى لا الفناء. | يقلّص المركزية التي يعطيها يالوم للموت. |
-| فرانكل | الموت لا يُفرغ الحياة بل يمنحها إلحاحها: لأن الوقت محدود، للفعل وزن. والماضي المنجَز محفوظ لا يُمحى. | العمل على ما أُنجز فعلاً بدل ما تبقّى — «مخازن الماضي» بدل عدّ الأيام. | يتفق مع يالوم في أن الموت مفيد، ويختلف في أن المحور عنده المعنى لا الفناء. |
-| رولو ماي | الموت أحد وجوه اللاوجود، والقلق الوجودي مواجهة مع اللاوجود عموماً — ويشمل فقد المعنى والقيم والهوية. | لا يُختزل العمل في الفناء الجسدي. فقد الهوية أو القيمة قد يكون هو التهديد الفعلي. | أوسع من يالوم وأقل تنظيماً منه. |
-| يالوم | الموت الاهتمام النهائي الأول. قلقه مكبوت في معظمه، ودفاعاه: أسطورة التفرّد، والإيمان بالمنقذ النهائي. وكثير من الأعراض دفاعات فاشلة ضده. | العلاج يزيد الوعي بالموت لا يخفّفه: تفكيك الدفاعين، واستثمار لحظات الصحوة، وحجج أبيقور، وفكرة التموّج. | يخالف فرويد جذرياً، ويخالفه سارتر في المسلّمة، وبوس في المنهج. |
-| ميدارد بوس | الموت بنية أنطولوجية تُفهَم ولا تُعالَج. تحويله إلى «قلق موت» يُقاس هو نفسه السقوط في التصوّر اليومي الذي انتقده هايدجر. | لا تدخّل موجّه للموت. الغاية أن ينفتح عالم الشخص بما فيه تناهيه. | أوضح خصم منهجي ليالوم من داخل المدرسة. |
-| فرانكل مقابل فرويد (للمقارنة) | فرويد: اللاوعي لا يعرف الموت، وكل واحد مقتنع في أعماقه بخلوده. فقلق الموت مشتق من قلق أقدم. | يجعل الموت موضوعاً ثانوياً في العلاج لا أولياً. | نقيض مسلّمة يالوم تماماً — ولا يمكن أن يكون الاثنان صحيحين بالصيغة نفسها. |
--->
+| Kierkegaard | Death is not his focus. His focus is despair and anxiety before possibility. But finitude is present as a background to every choice: being a limited creature is what makes choice serious. | Directs the work toward despair and choice, not directly toward mortality. | Differs from Yalom in that death is, for him, a background and not a subject. |
+| Heidegger | Being-toward-death is a fundamental structure of being. Death is "my ownmost possibility," in which no one can stand in for me, and "the They" conceal it by turning it into a statistical fact. | Not translated into intervention. The aim is to understand how this person flees from their finitude into the details of their day. | Directly contradicts Sartre. And Boss, his student, refuses to turn it into an anxiety to be treated. |
+| Jaspers | Death is one of four limit situations: death, suffering, struggle, and guilt. They are neither resolved nor transcended, and a stance is taken toward them. | Widens the circle of work: not death alone but suffering, struggle, and guilt with it. | Departs from the centrality of death that Yalom built — for him it is one of four, not the first. |
+| Sartre | Death is not my possibility. It is an absurd external event that cancels all my possibilities, and it does not give life meaning — it hands my biography over to the interpretation of others. | Rules out building any intervention on the premise that confronting mortality gives meaning. Meaning is made in life, in action, not in the face of the end. | A direct objection to Heidegger, and a blow to the foundation of Yalomian practice. |
+| Tillich | The anxiety of fate and death is one of three types. And the anxiety of the modern age is the second: emptiness and meaninglessness. | Shifts the centre of gravity: if the patient is contemporary, their problem is more likely meaninglessness than mortality. | Reduces the centrality Yalom gives to death. |
+| Frankl | Death does not empty life but gives it urgency: because time is limited, action has weight. And the achieved past is preserved and cannot be erased. | Working on what has actually been accomplished rather than what remains — the "storehouses of the past" instead of counting days. | Agrees with Yalom that death is useful, and differs in that for him the axis is meaning, not mortality. |
+| Rollo May | Death is one face of non-being, and existential anxiety is a confrontation with non-being in general — including the loss of meaning, values, and identity. | Work is not reduced to physical mortality. Loss of identity or value may be the actual threat. | Broader than Yalom and less systematic. |
+| Yalom | Death is the first ultimate concern. Its anxiety is mostly repressed, and its two defences are the myth of specialness and belief in an ultimate rescuer. Many symptoms are failed defences against it. | Therapy increases awareness of death rather than easing it: dismantling the two defences, using moments of awakening, Epicurus's arguments, and the idea of the ripple effect. | Radically opposes Freud, opposes Sartre on the premise, and Boss on method. |
+| Medard Boss | Death is an ontological structure to be understood, not treated. Turning it into a measurable "death anxiety" is itself a fall into the everyday conception that Heidegger criticised. | No directed intervention on death. The aim is for the person's world to open up, including its finitude. | The clearest methodological opponent of Yalom from within the school. |
+| Frankl versus Freud (for comparison) | Freud: the unconscious does not know death, and everyone is deeply convinced of their own immortality. So death anxiety is derived from an older anxiety. | Makes death a secondary subject in therapy, not a primary one. | The exact opposite of Yalom's premise — the two cannot both be right in the same form. |

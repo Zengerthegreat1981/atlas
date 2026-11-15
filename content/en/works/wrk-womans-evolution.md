@@ -3,9 +3,9 @@ slug: "wrk-womans-evolution"
 id: "ANT-13032"
 type: "عمل / كتاب"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Woman's Evolution"
 en: "Woman's Evolution"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Anthropology ← Works ← Woman's Evolution"
 dates: "1981 · Leacock"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
@@ -15,26 +15,10 @@ gaps:
   - "Feminist critique of patriarchy and male bias in anthropology"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Woman's Evolution
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## The Main Branch
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Contributions
 
-# تطور المرأة
-
-[Brief description in Arabic for translator reference]
-
-## الفرع الرئيسي
-
-[Key section in Arabic]
-
-## المساهمات
-
-[Contributions in Arabic]
-
-## الفجوات والتطورات
-
-[Gaps in Arabic]
-
--->
+## Gaps and Developments

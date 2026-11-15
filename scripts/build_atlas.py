@@ -35,9 +35,21 @@ import re
 import sys
 import json
 
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from atlas_frontmatter import parse_frontmatter as _parse_fm  # noqa: E402
+
+PARSE_WARNINGS = []  # (path, lineno, text) — never dropped silently (audit P0-02)
+
 ATLAS_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 TEMPLATE_DIR = os.path.join(os.path.dirname(__file__), "template")
-LANG = sys.argv[1] if len(sys.argv) > 1 else "ar"
+_ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
+STRICT = "--strict" in sys.argv[1:]
+LANG = _ARGS[0] if _ARGS else "ar"
 if LANG not in ("ar", "en"):
     raise SystemExit(f"لغة غير معروفة: {LANG!r} — استخدم ar أو en")
 
@@ -58,7 +70,15 @@ NUMERIC_FIELD_RE = re.compile(r'^([a-zA-Z0-9_-]+):\s*(-?\d+)\s*$')
 TABLE_SECTION_TITLES = {"جدول مقارن"}
 
 
-def parse_frontmatter_block(raw_yaml):
+def parse_frontmatter_block(raw_yaml, path=""):
+    """Tolerant reader (quoted/unquoted/multi-line/short related). See atlas_frontmatter.py."""
+    node, warns = _parse_fm(raw_yaml, path)
+    for ln, txt in warns:
+        PARSE_WARNINGS.append((path, ln, txt))
+    return node
+
+
+def _legacy_parse_frontmatter_block(raw_yaml):
     node = {}
 
     for line in raw_yaml.split("\n"):
@@ -147,7 +167,7 @@ def parse_markdown(file_path):
         return None
 
     raw_yaml, body = m.groups()
-    node = parse_frontmatter_block(raw_yaml)
+    node = parse_frontmatter_block(raw_yaml, file_path)
     lede, sections, table = parse_body(body)
     node["lede"] = lede
     node["sections"] = sections
@@ -165,18 +185,92 @@ def build_nodes():
         # (بيتم نقل الملف يدوياً من drafts/<folder>/ لـ <folder>/ بعد المراجعة، مش قبلها)
         dirs[:] = [d for d in dirs if not d.startswith(".") and d != "drafts" and d != "_merged"]
         for fname in files:
-            if fname.endswith(".md"):
+            if fname.endswith(".md") and not fname.startswith("._") and fname.upper() != "README.MD":
                 path = os.path.join(root, fname)
                 slug = os.path.splitext(fname)[0]
                 node_data = parse_markdown(path)
                 if node_data:
                     nodes[slug] = node_data
+                else:
+                    PARSE_WARNINGS.append((path, 0, "no frontmatter block: file skipped"))
+    # short related items (`- id: x, type: y`) carry no title: resolve from the target node
+    for node in nodes.values():
+        for row in node.get("related", []):
+            if not row[1]:
+                tgt = nodes.get(row[0])
+                row[1] = (tgt.get("title") or tgt.get("en") or row[0]) if tgt else row[0]
     return nodes
+
+
+EN_TITLE = "Atlas of the Human Mind — Philosophy, Psychology and the Human Sciences"
+EN_DESC = ("A structured reference atlas of thinkers, schools, concepts, studies and the connections "
+           "between them across psychology, philosophy, sociology, anthropology and related disciplines.")
+
+
+def localize_prefix_en(prefix):
+    """Real EN locale for the document shell (audit P0-03): lang/dir/title/description.
+    In-page UI strings still come from the template; they are tracked in reports/EN_STATUS.md."""
+    prefix = prefix.replace('<html lang="ar" dir="rtl">', '<html lang="en" dir="ltr">', 1)
+    head, sep, tail = prefix.partition("<body>")
+    for a, b in EN_CHROME:
+        tail = tail.replace(a, b)
+    prefix = head + sep + tail
+    prefix = re.sub(r"<title>.*?</title>", f"<title>{EN_TITLE}</title>", prefix, count=1, flags=re.S)
+    prefix = re.sub(r'(<meta name="description" content=")[^"]*(")', lambda m: m.group(1) + EN_DESC + m.group(2), prefix, count=1)
+    return prefix
+
+
+EN_CHROME = [
+    (">تجاوز إلى المحتوى<", ">Skip to content<"),
+    (">أطلس النفس البشرية</div>", ">Atlas of the Human Mind</div>"),
+    ('aria-label="ابحث في الأطلس"', 'aria-label="Search the atlas"'),
+    ('placeholder="ابحث في الطبقات والعناصر والمعجم…  (Ctrl + K)"', 'placeholder="Search entries…  (Ctrl + K)"'),
+    ('aria-label="نتائج البحث"', 'aria-label="Search results"'),
+    ('title="يعيدك إلى آخر عنصر زرته، أو إلى صفحة الاختيار إن لم تزر شيئاً بعد">نقطة بداية<', 'title="Return to the last entry you visited, or to the home page">Start<'),
+    (">رحلتي<b", ">My journey<b"),
+    ('title="بدّل وضع القراءة بين البحثي الكامل والمبسّط"', 'title="Switch reading mode between full and simplified"'),
+    (">وضع القراءة: بحثي<", ">Reading mode: full<"),
+    ('aria-label="خيارات أخرى"', 'aria-label="More options"'),
+    (">المدارس <span", ">Schools <span"),
+    (">قالب المدرسة<", ">School template<"),
+    (">تصفح حسب النوع<", ">Browse by type<"),
+    (">تصفح حسب البلد<", ">Browse by country<"),
+    (">تصفح حسب اللغة<", ">Browse by language<"),
+    (">تصفح حسب الزمن<", ">Browse by time<"),
+    (">أظهر ما ينقص<", ">Show what is missing<"),
+    (">الوضع الليلي<", ">Dark mode<"),
+    (">طباعة هذه الصفحة<", ">Print this page<"),
+    (">انسخ رابط الصفحة الحالية<", ">Copy link to this page<"),
+    (">مسح سجل القراءة<", ">Clear reading history<"),
+    (">مسودة تحريرية معلَنة — أرقام الأدلة مُتحقَّق منها، والتواريخ والسِّيَر مرشّحة.<", ">Editorial draft — figures are checked; dates and biographies are provisional.<"),
+    (">ما معنى هذا؟<", ">What does this mean?<"),
+    ('aria-label="أغلق"', 'aria-label="Close"'),
+]
+EN_CHROME_SUFFIX = [
+    ("'وضع القراءة: مبسّط' : 'وضع القراءة: بحثي'", "'Reading mode: simplified' : 'Reading mode: full'"),
+]
+
+
+def localize_suffix_en(suffix):
+    out = suffix
+    # footer(): replace the whole function body with an English one
+    out = re.sub(r"function footer\(\)\{return .*?</footer>';\}",
+                 lambda m: "function footer(){return '<footer>Atlas of the Human Mind · editorial draft, not clinically or legally reviewed · not for diagnosis or advice.</footer>';}",
+                 out, count=1, flags=re.S)
+    for a, b in EN_CHROME_SUFFIX:
+        out = out.replace(a, b)
+    return out
 
 
 def build():
     nodes = build_nodes()
-    placeholders = sum(1 for n in nodes.values() if "[EN TRANSLATION NEEDED]" in (n.get("title") or ""))
+    if PARSE_WARNINGS:
+        print(f"⚠️  {len(PARSE_WARNINGS)} unreadable frontmatter line(s) — first 10:")
+        for pth, ln, txt in PARSE_WARNINGS[:10]:
+            print(f"   {os.path.relpath(pth, ATLAS_ROOT)}:{ln}: {txt[:80]}")
+        if STRICT:
+            raise SystemExit("--strict: refusing to build with silent data loss")
+    placeholders = sum(1 for n in nodes.values() if any("[EN TRANSLATION NEEDED]" in str(v) for k, v in n.items() if k in ("title", "crumb", "en", "lede")))
 
     with open(OUTPUT_JSON, "w", encoding="utf-8") as out:
         json.dump({"nodes": nodes}, out, ensure_ascii=False, indent=2)
@@ -184,6 +278,13 @@ def build():
           + (f" — ⚠️ {placeholders} لسه placeholder مش متَرجَم" if placeholders else ""))
 
     extras_path = os.path.join(TEMPLATE_DIR, "data_extras.json")
+    # النسخة الإنجليزية تستخدم data_extras-en.json إن وُجد، وإلا تسقط للعربي مع تحذير.
+    if LANG == "en":
+        en_extras_path = os.path.join(TEMPLATE_DIR, "data_extras-en.json")
+        if os.path.exists(en_extras_path):
+            extras_path = en_extras_path
+        else:
+            print("⚠️  data_extras-en.json غير موجود — ستُبنى الواجهة الإنجليزية ببيانات عرض عربية (data_extras.json).")
     prefix_path = os.path.join(TEMPLATE_DIR, "shell_prefix.html")
     suffix_path = os.path.join(TEMPLATE_DIR, "shell_suffix.html")
     if not (os.path.exists(extras_path) and os.path.exists(prefix_path) and os.path.exists(suffix_path)):
@@ -197,6 +298,10 @@ def build():
     prefix = open(prefix_path, encoding="utf-8").read()
     suffix = open(suffix_path, encoding="utf-8").read()
     data_js = json.dumps(full_data, ensure_ascii=False, separators=(",", ":"))
+
+    if LANG == "en":
+        prefix = localize_prefix_en(prefix)
+        suffix = localize_suffix_en(suffix)
 
     html = prefix + "const DATA=" + data_js + suffix
     with open(OUTPUT_HTML, "w", encoding="utf-8") as out:

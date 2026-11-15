@@ -3,41 +3,34 @@ slug: "axm-existence-precedes-essence"
 id: "AXM-0001"
 type: "بديهية/مبدأ تأسيسي"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Existence Precedes Essence"
 en: "Existence Precedes Essence"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existentialist School ← Axioms ← Existence Precedes Essence"
 edges:
   - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-sartre", title: "جان بول سارتر", type: "مفكر"
+  - id: "con-freedom", title: "Freedom", type: "مفهوم"
+  - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
 gaps:
-  - "يحتاج ربطاً صريحاً بجدل dbt- إن وُجد عنصر يناقش الحتمية مقابل الحرية، ولم يُتحقق بعد من وجوده الفعلي في هذا الأطلس"
+  - "Needs an explicit link to the dbt- debate, if an item discussing determinism versus freedom exists; its actual existence in this atlas has not yet been verified"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Existence Precedes Essence
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Sartre's most famous founding principle: the human being exists first, and then defines his own essence through his choices, unlike manufactured tools (such as a knife), which are designed for a purpose determined in advance, before their actual existence.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Why an Axiom and Not an Ordinary Debatable Concept
 
-# الوجود يسبق الماهية
+This principle is not a conclusion inferred from testable evidence, but a philosophical starting point on which everything that follows in Sartre is built (freedom, responsibility, bad faith). If this principle is rejected, the entire philosophical edifice collapses with it, and this is what distinguishes it from a con- (concept), which can be modified or revised in part without the whole framework collapsing.
 
-المبدأ التأسيسي الأشهر عند سارتر: الإنسان يوجد أولاً، ثم يُحدّد ماهيته بنفسه عبر اختياراته، بخلاف الأدوات المصنوعة (كالسكين) التي تُصمَّم لغرض محدد سلفاً قبل وجودها الفعلي.
+## The Difference from a Debate
 
-## لماذا بديهية لا مفهوم قابل للنقاش العادي
+This is not a point of disagreement between two equivalent positions (that is the role of dbt-), but the foundation on which one of the parties to the debate stands in the first place. For example, whoever rejects this axiom (such as some religious approaches that hold that the human being has an essence or purpose given in advance by the Creator) does not merely differ in the details but stands on a radically different philosophical ground from the very beginning.
 
-هذا المبدأ ليس نتيجة استُنتجت من أدلة قابلة للاختبار، بل نقطة انطلاق فلسفية يُبنى عليها كل ما بعدها عند سارتر (الحرية، المسؤولية، سوء الإيمان). لو رُفض هذا المبدأ، ينهار البناء الفلسفي بأكمله معه — وهذا ما يميّزه عن con- (مفهوم) الذي يمكن تعديله أو تنقيحه جزئياً دون انهيار الإطار كله.
+## The Connection to the Principle of "Freedom and Responsibility"
 
-## الفرق عن الجدل
+This axiom is the direct foundation on which the concept con-freedom, already present in this atlas, was built: since no prior essence determines the human being, he is necessarily free to define himself, and this freedom carries full responsibility.
 
-هذه ليست نقطة خلاف بين موقفين متكافئين (وهذا دور dbt-)، بل الأساس الذي يقف عليه أحد أطراف الجدل أصلاً — فمثلاً، من يرفض هذه البديهية (كبعض المقاربات الدينية التي ترى أن الإنسان له ماهية أو غاية مُعطاة سلفاً من الخالق) لا يختلف فقط في التفاصيل بل يقف على أرضية فلسفية مختلفة جذرياً من البداية.
+## A Methodological Note
 
-## الصلة بمبدأ 'الحرية والمسؤولية'
-
-هذه البديهية هي الأساس المباشر الذي بُني عليه مفهوم con-freedom الموجود مسبقاً في هذا الأطلس: بما أن لا ماهية سابقة تحدد الإنسان، فهو حر بالضرورة في تحديد نفسه، وهذه الحرية تحمل مسؤولية كاملة.
-
-## ملاحظة منهجية
-
-توثيق هذا المبدأ كبديهية لا يعني تبنّي الأطلس له كحقيقة مطلقة؛ بل تسجيل أنه نقطة انطلاق غير قابلة للبرهنة داخل الإطار الفلسفي السارتري تحديداً، ومطروحة هنا للفهم لا للتسليم بها.
--->
+Documenting this principle as an axiom does not mean that the atlas adopts it as an absolute truth; rather, it records that it is an unprovable starting point specifically within the Sartrean philosophical framework, and it is presented here for understanding, not for acceptance.

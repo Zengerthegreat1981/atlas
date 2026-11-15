@@ -16,12 +16,6 @@ related:
   - id: con-cosmology
     title: Cosmology
     type: concept
-  - id: con-personhood
-    title: Personhood
-    type: concept
-  - id: con-exchange-systems
-    title: Exchange Systems
-    type: concept
 gaps: []
 sources:
   - Wagner, R. (1986). Asiwinarong: Ethos, Image, and Social Power among the Usen Barok of Papua New Guinea. Princeton University Press.

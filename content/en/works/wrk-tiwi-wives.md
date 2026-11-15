@@ -11,8 +11,6 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
   - rel: "written_by", target: "Hart", target_type: "مفكر"
 related:
-  - id: "con-marriage-class-system", title: "Marriage Class System", type: "مفهوم"
-  - id: "con-kinship-australia", title: "Australian Aboriginal Kinship", type: "مفهوم"
   - id: "wrk-elementary-structures", title: "The Elementary Structures of Kinship", type: "عمل"
 sources:
   - Hart, C.W.M., and Arnold R. Pilling. The Tiwi of North Australia. Holt, Rinehart and Winston, 1960.

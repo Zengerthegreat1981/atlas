@@ -14,7 +14,6 @@ related:
   - id: "con-liminality", title: "Liminality", type: "مفهوم"
   - id: "con-symbol", title: "Symbol", type: "مفهوم"
   - id: "con-sacred", title: "Sacred", type: "مفهوم"
-  - id: "con-rites-passage", title: "Rites of Passage", type: "مفهوم"
   - id: "con-communitas", title: "Communitas", type: "مفهوم"
 gaps:
   - "Secular rituals"

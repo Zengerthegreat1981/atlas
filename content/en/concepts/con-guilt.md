@@ -3,64 +3,63 @@ slug: "con-guilt"
 id: "CON-0408"
 type: "مفهوم"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Guilt"
 en: "Guilt"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← Concepts ← Guilt"
 edges:
   - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "con-responsibility", title: "المسؤولية", type: "مفهوم"
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
+  - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
+  - id: "thk-may", title: "Rollo May", type: "مفكر"
 gaps:
-  - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "Textual passages for each formulation — not yet entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Guilt
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The forgotten concern. Absent from Yalom's fourfold classification, and present in Jaspers, Tillich, and Heidegger — and the absence is deliberate and costly.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Defining the Concept
 
-# الذنب
+Not moral guilt over an act, but **existential guilt**: the feeling that you owe your life something you have not paid — the possibilities you did not live, the relationships you were not present in, the limits you did not respect.
 
-الاهتمام المنسي. غائب عن تصنيف يالوم الرباعي، وحاضر عند ياسبرز وتيليش وهايدجر — والغياب مقصود ومكلف.
+## The Core Disagreements Within the Concept
 
-## تحرير المفهوم
+A disagreement over **whether the concept exists at all** in the classification: Jaspers and Tillich make it an independent axis, and Yalom dissolves it into responsibility. The result is that a reader of Yalom alone does not know that this concept has a history in the school.
 
-ليس الذنب الأخلاقي عن فعل، بل <b>الذنب الوجودي</b>: الشعور بأنك مدين لحياتك بما لم توفِه — الإمكانيات التي لم تعشها، والعلاقات التي لم تحضر فيها، والحدود التي لم تحترمها.
+## How It Appears in the Session
 
-## الخلافات الجوهرية داخل المفهوم
+It usually appears without a name: "I feel I have lost something," "My life could have been different from this." The common error is to read it as depression or as regret over a decision, when it is often an accounting with life as a whole.
 
-خلاف على <b>وجود المفهوم أصلاً</b> في التصنيف: ياسبرز وتيليش يجعلانه محوراً مستقلاً، ويالوم يذيبه في المسؤولية. والنتيجة أن قارئ يالوم وحده لا يعرف أن لهذا المفهوم تاريخاً في المدرسة.
+## The Most Common Misunderstanding
 
-## كيف يظهر في الجلسة
+Confusing it with neurotic guilt (feeling bad about a specific act). The first points toward what was not lived, the second toward what was done. And the treatment is entirely different.
 
-يظهر عادةً بلا اسم: «أشعر أني أضعت شيئاً»، «كان يمكن أن تكون حياتي غير هذه». والخطأ الشائع أن يُقرأ كاكتئاب أو كندم على قرار، بينما هو غالباً حساب مع الحياة كلها.
+## Example and Counter-Example
 
-## أشهر ما يُساء فهمه
+**Example:** A woman of sixty feels a vague guilt not tied to any specific act, and the work with her reveals that it is existential guilt in the sense of Jaspers and Heidegger: her realisation that she has not realised many of her possible possibilities — she did not write the book she wanted to, did not travel, did not tell the truth to important people. The work here is not to absolve her but to help her act on the possibility that remains.
 
-خلطه بالذنب العصابي (الشعور بالسوء عن فعل محدد). الأول يتجه إلى ما لم يُعش، والثاني إلى ما فُعل. والعلاج مختلف تماماً.
+**Counter-example:** A therapist tells a client suffering acute neurotic guilt after an actual marital betrayal that "guilt is part of the human condition, accept it and move beyond it," without addressing the specific act and its effect on the injured party. This is a philosophical generalisation that avoids confronting actual moral responsibility in the name of an existential concept deeper than it.
 
-## مثال ومثال مضاد
+## What Cannot Be Inferred from This Concept
 
-<b>مثال:</b> امرأة في الستين تشعر بذنب غامض غير مرتبط بفعل محدد، ويتبيّن عبر العمل معها أنه ذنب وجودي بمعنى ياسبرز وهايدجر: إدراكها أنها لم تحقق كثيراً من إمكانياتها الممكنة — لم تكتب الكتاب الذي أرادته، لم تسافر، لم تقل الحقيقة لأشخاص مهمين. العمل هنا ليس تبرئتها بل مساعدتها على التصرف بما تبقّى من إمكان.<br><b>مثال مضاد:</b> معالج يخبر عميلاً يعاني ذنباً عصابياً حاداً بعد خيانة زوجية فعلية بأن «الذنب جزء من الوجود الإنساني، تقبّله وتجاوزه» دون معالجة الفعل المحدد وأثره على الطرف المتضرر. هذا تعميم فلسفي يتجنّب مواجهة مسؤولية أخلاقية فعلية باسم مفهوم وجودي أعمق منها.
+It **does not mean** that every guilt — including guilt over actually harming another person — is merely a universal "existential guilt" to be philosophically transcended; this erases actual moral responsibility for the act and turns a structural concept into an excuse.
 
-## ما لا يُستنتج من هذا المفهوم
+Nor does it mean that existential therapy seeks to remove the feeling of guilt entirely — Jaspers considers it one of the limit situations that are not resolved but toward which a stance is taken, so the aim is a mature relationship with it, not getting rid of it.
 
-<b>لا يعني</b> أن كل ذنب — بما فيه الذنب عن أذية فعلية لشخص آخر — هو مجرد «ذنب وجودي» كوني يجب تجاوزه فلسفياً؛ هذا يمحو المسؤولية الأخلاقية الفعلية عن الفعل ويحوّل مفهوماً بنيوياً إلى عذر.<br><b>ولا يعني</b> أن العلاج الوجودي يسعى لإزالة الشعور بالذنب كلياً — ياسبرز يعتبره أحد المواقف الحدّية التي لا تُحلّ بل يُتّخذ منها موقف، فالهدف علاقة ناضجة به لا التخلص منه.
+## The Arab and Cultural Context
 
-## السياق العربي والثقافي
+The distinction between existential guilt (structural, tied to unrealised possibilities) and neurotic guilt (psychological, tied to a specific act) was formulated in a European context where guilt is essentially an individual concept. In the Arab-Islamic context, the concept of guilt is densely tied to a religious system (sin, repentance, seeking forgiveness) that has its own mechanisms of treatment (repentance as a religious act may resolve a feeling of guilt that abstract existential analysis does not).
 
-التمييز بين الذنب الوجودي (البنيوي، المرتبط بالإمكانات غير المتحققة) والذنب العصابي (النفسي، المرتبط بفعل محدد) صيغ في سياق أوروبي حيث الذنب مفهوم فردي أساساً. في السياق العربي الإسلامي، مفهوم الذنب مرتبط بشكل كثيف بمنظومة دينية (المعصية، التوبة، الاستغفار) لها آليات معالجة خاصة بها (التوبة كفعل ديني قد يحل شعوراً بالذنب لا يحله تحليل وجودي مجرد).<br>هذا يخلق تشابكاً حقيقياً: عميل عربي متدين قد يعيش شعوراً بالذنب يمزج بين الوجودي والديني والعصابي معاً في نسيج واحد لا يفصله الإطار الغربي بسهولة. تجاهل البعد الديني في تحليل الذنب — بافتراض أنه دوماً «وجودي عام» أو «عصابي فردي» — يُغفل مورداً علاجياً حقيقياً (المصالحة الدينية) وقد يُفقد الشخص إطاراً كان سيحل مشكلته أسرع من أي تحليل فلسفي مستورد.
+This creates a real entanglement: a devout Arab client may live a feeling of guilt that mixes the existential, the religious, and the neurotic in a single fabric that the Western framework does not easily separate. Ignoring the religious dimension in the analysis of guilt — by assuming it is always "generally existential" or "individually neurotic" — overlooks a real therapeutic resource (religious reconciliation) and may deprive the person of a framework that would have solved their problem faster than any imported philosophical analysis.
 
-## جدول مقارن
+## Comparative Table
 
-| المفكر | صياغته بالضبط | ما يترتب عليه في الغرفة | خلافه مع غيره |
+| Thinker | His exact formulation | What follows in the room | His disagreement with others |
 |---|---|---|---|
-| هايدجر | الدازاين «مذنب» بنيوياً: لأن كل اختيار إلغاء لإمكانيات أخرى. لست مذنباً لأنك أخطأت بل لأنك محدود. | يُنزَع اللوم عن الشعور: هو ثمن الاختيار لا دليل على خطأ. | أبعد صيغة عن المعنى الأخلاقي الشائع. |
-| ياسبرز | الذنب أحد المواقف الحدّية الأربعة. لا يُحلّ ويُتّخذ منه موقف. | يوسّع دائرة العمل: ليس الموت وحده بل الذنب معه. | وجوده عند ياسبرز وغيابه عند يالوم من أوضح الفروق بينهما. |
-| تيليش | قلق الذنب والإدانة أحد ثلاثة، ومصدره الوعي بالمسافة بين ما أنا عليه وما ينبغي أن أكون. | التمييز بين ذنب يحرّك وذنب يشلّ. | إطار لاهوتي يصعب علمنته. |
-| رولو ماي | ثلاثة أنواع: ذنب تجاه إمكانياتي غير المعيشة، وذنب تجاه من لم أستطع فهمهم، وذنب تجاه الطبيعة والوجود عموماً. | أدقّ تفصيل عملي: أي نوع يعمل هنا؟ ولكل نوع مسار مختلف. | أوضح صياغة قابلة للاستعمال المباشر. |
-| بوجنتال | الذنب الوجودي يظهر كإحساس مزمن بأن الحياة تمرّ وأنت لست فيها. | العمل على الفجوة بين الحياة المعاشة والحياة الممكنة. | يجعله محركاً للعمل لا عرَضاً. |
-| يالوم | لا يُدرجه اهتماماً نهائياً مستقلاً، ويعالجه ضمن المسؤولية: الشعور بالذنب تجاه الحياة غير المعيشة. | يُدمَج في العمل على المسؤولية بدل أن يُفرَد. | الغياب مقصود، وهو أحد أوضح فروق تصنيفه عن ياسبرز وتيليش. |
--->
+| Heidegger | Dasein is structurally "guilty": because every choice is a cancellation of other possibilities. You are not guilty because you erred but because you are limited. | Blame is removed from the feeling: it is the price of choosing, not evidence of error. | The formulation furthest from the common moral meaning. |
+| Jaspers | Guilt is one of the four limit situations. It is not resolved, and a stance is taken toward it. | Widens the circle of work: not death alone but guilt with it. | Its presence in Jaspers and absence in Yalom is one of the clearest differences between them. |
+| Tillich | The anxiety of guilt and condemnation is one of three, and its source is awareness of the distance between what I am and what I ought to be. | The distinction between guilt that moves and guilt that paralyses. | A theological framework that is hard to secularise. |
+| Rollo May | Three kinds: guilt toward my unlived possibilities, guilt toward those I could not understand, and guilt toward nature and being in general. | The most precise practical breakdown: which kind is at work here? Each kind has a different path. | The clearest formulation for direct use. |
+| Bugental | Existential guilt appears as a chronic sense that life is passing and you are not in it. | Work on the gap between the lived life and the possible life. | Makes it a driver of the work, not a symptom. |
+| Yalom | He does not list it as an independent ultimate concern, and treats it within responsibility: the feeling of guilt toward the unlived life. | It is merged into the work on responsibility rather than singled out. | The absence is deliberate, and is one of the clearest differences between his classification and Jaspers' and Tillich's. |

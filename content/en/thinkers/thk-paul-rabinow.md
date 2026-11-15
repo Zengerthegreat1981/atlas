@@ -13,8 +13,6 @@ edges:
   - rel: "developed_method", target: "Ethical Ethnography", target_type: "مفهوم"
   - rel: "influenced", target: "Anthropology of the Contemporary", target_type: "مفهوم"
 related:
-  - id: "con-reflexive-ethnography", title: "Reflexive Ethnography", type: "مفهوم"
-  - id: "con-ethical-anthropology", title: "Ethical Anthropology", type: "مفهوم"
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
   - id: "thk-james-clifford", title: "James Clifford", type: "مفكر"
 gaps:

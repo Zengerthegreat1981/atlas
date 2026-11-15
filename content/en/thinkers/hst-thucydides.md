@@ -16,7 +16,6 @@ related:
   - id: "hst-polybius", type: "مفكر"
   - id: "hst-con-thucydidean-empiricism", type: "مفكر"
   - id: "hst-con-source-criticism-ancient", type: "مفكر"
-  - id: "hst-con-causality-ancient", type: "مفكر"
 gaps: []
 ---
 

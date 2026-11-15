@@ -16,9 +16,6 @@ related:
   - id: thk-meyer-fortes
     title: Meyer Fortes
     type: thinker
-  - id: con-unilineal-descent
-    title: Unilineal Descent
-    type: concept
   - id: con-lineage
     title: Lineage
     type: concept

@@ -3,35 +3,28 @@ slug: "con-being-toward-death"
 id: "CON-0421"
 type: "مفهوم"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Being-Toward-Death"
 en: "Being-Toward-Death (Sein-zum-Tode)"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← Concepts ← Being-Toward-Death"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "con-fear", title: "الخوف", type: "مفهوم"
-  - id: "con-death", title: "الموت", type: "مفهوم"
-  - id: "stu-terror-management-theory", title: "دراسات نظرية إدارة الرعب", type: "دراسة وبحث"
-  - id: "ins-death-attitude-profile", title: "بروفيل موقف الموت المُنقَّح", type: "أداة قياس"
-  - id: "thk-heidegger", title: "مارتن هايدجر", type: "مفكر"
+  - id: "con-fear", title: "Fear", type: "مفهوم"
+  - id: "con-death", title: "Death", type: "مفهوم"
+  - id: "stu-terror-management-theory", title: "Terror Management Theory Studies", type: "دراسة وبحث"
+  - id: "ins-death-attitude-profile", title: "Death Attitude Profile-Revised", type: "أداة قياس"
+  - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"
 gaps:[]
 ---
 
-# [EN TRANSLATION NEEDED]
+# Being-Toward-Death
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Heidegger's central concept: an authentic awareness of human existence requires confronting the fact that death is an ever-present possibility, not a distant, postponed event, and this awareness is what gives existence its urgency and seriousness.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## How It Differs from Ordinary Fear of Death
 
-# الكينونة-نحو-الموت
+This is not fear of a future event like any other fear (con-fear), but a temporal structure that shapes the way every present moment is lived — here death is "always possible," not "coming someday."
 
-مفهوم هايدجر المركزي: الوعي الأصيل بالوجود الإنساني يتطلب مواجهة حقيقة أن الموت إمكانية دائمة الحضور، لا حدثاً بعيداً مؤجلاً، وهذا الوعي هو ما يمنح الوجود إلحاحه وجديته.
+## Impact on Other Concepts
 
-## الفرق عن الخوف من الموت العادي
-
-هذا ليس خوفاً من حدث مستقبلي كأي خوف آخر (con-fear)، بل بنية زمنية تشكل طريقة عيش كل لحظة حاضرة — الموت هنا 'ممكن دائماً' لا 'قادم يوماً ما'.
-
-## الأثر على مفاهيم أخرى
-
-هذا المفهوم هو الأساس الفلسفي العميق لكثير من التقنيات والدراسات المرتبطة بالموت في هذا الأطلس (نظرية إدارة الرعب، مقياس موقف الموت، العلاج المرتكز على المعنى) — وربطه الصريح بها يقوي تماسك الشبكة.
--->
+This concept is the deep philosophical foundation for many of the techniques and studies connected with death in this Atlas (terror management theory, the death attitude scale, meaning-centered therapy) — and linking it explicitly to them strengthens the coherence of the network.

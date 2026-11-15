@@ -11,12 +11,8 @@ edges:
   - rel: "belongs_to", target: "Symbolic Anthropology", target_type: "مدرسة"
   - rel: "founder_of", target: "Historical Anthropology", target_type: "تيار"
 related:
-  - id: "thk-turner", title: "Victor Turner", type: "مفكر"
-  - id: "thk-geertz", title: "Clifford Geertz", type: "مفكر"
-  - id: "thk-ortner", title: "Sherry Ortner", type: "مفكر"
-  - id: "con-ritual-historical-change", title: "Ritual and Historical Change", type: "مفهوم"
-  - id: "con-colonial-encounter", title: "Colonial Encounter and Cultural Change", type: "مفهوم"
-  - id: "con-symbolic-action-history", title: "Symbolic Action and History", type: "مفهوم"
+  - id: "thk-clifford-geertz", title: "Clifford Geertz", type: "مفكر"
+  - id: "thk-sherry-ortner", title: "Sherry Ortner", type: "مفكر"
 gaps: []
 ---
 

@@ -19,9 +19,6 @@ related:
   - id: con-performance
     title: Performance
     type: concept
-  - id: con-aesthetic
-    title: Aesthetic
-    type: concept
 gaps: []
 sources:
   - Geertz, C. (1980). Negara: The Theatre State in Nineteenth-Century Bali. Princeton University Press.

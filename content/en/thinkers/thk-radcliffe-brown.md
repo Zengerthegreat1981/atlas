@@ -13,7 +13,6 @@ edges:
   - rel: "developed_method", target: "Comparative Anthropology", target_type: "مفهوم"
   - rel: "influenced", target: "Synchronic Analysis", target_type: "مفهوم"
 related:
-  - id: "con-structural-functionalism", title: "Structural Functionalism", type: "مفهوم"
   - id: "con-comparative-method", title: "Comparative Method", type: "مفهوم"
   - id: "thk-malinowski", title: "Bronislaw Malinowski", type: "مفكر"
   - id: "thk-franz-boas", title: "Franz Boas", type: "مفكر"

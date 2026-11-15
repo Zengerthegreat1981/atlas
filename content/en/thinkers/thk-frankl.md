@@ -16,7 +16,6 @@ related:
   - id: "con-meaning", title: "Meaning and Meaninglessness", type: "مفهوم"
   - id: "thk-langle", title: "Alfried Längle", type: "مفكر"
   - id: "thk-lukas", title: "Elisabeth Lukas", type: "مفكر"
-  - id: "evt-frankl_camps", title: "Frankl's Concentration Camp Experiences", type: "حدث"
 gaps: []
 ---
 

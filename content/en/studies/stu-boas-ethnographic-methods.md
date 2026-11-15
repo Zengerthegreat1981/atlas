@@ -19,9 +19,6 @@ related:
   - id: con-ethnography
     title: Ethnography
     type: concept
-  - id: con-language-learning
-    title: Language Learning
-    type: concept
 gaps: []
 sources:
   - Boas, F. (1966). Kwakwaka'wakw Ethnography. University of Chicago Press.

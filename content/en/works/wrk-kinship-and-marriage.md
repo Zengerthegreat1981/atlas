@@ -11,8 +11,6 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
   - rel: "written_by", target: "Fox", target_type: "مفكر"
 related:
-  - id: "con-descent-rules", title: "Descent Rules", type: "مفهوم"
-  - id: "con-marriage-exchange", title: "Marriage Exchange", type: "مفهوم"
   - id: "wrk-elementary-structures", title: "The Elementary Structures of Kinship", type: "عمل"
 sources:
   - Fox, Robin. Kinship and Marriage: An Anthropological Perspective. Penguin Books, 1967. Revised edition, 1983.

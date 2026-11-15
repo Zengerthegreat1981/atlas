@@ -19,9 +19,6 @@ related:
   - id: con-cosmology
     title: Cosmology
     type: concept
-  - id: con-personhood
-    title: Personhood
-    type: concept
 gaps: []
 sources:
   - Tambiah, S. J. (1984). The Buddhist Saints of the Forest and the Cult of Amulets: A Study in Charisma, Hagiography, Cosmology, and Democratic Ideology in Modern Thailand. Cambridge University Press.

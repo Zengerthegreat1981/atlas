@@ -3,48 +3,41 @@ slug: "thk-kierkegaard"
 id: "THK-0101"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Søren Kierkegaard"
 en: "Søren Kierkegaard"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← Søren Kierkegaard"
 dates: "الدنمارك · القرن 19"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-  - id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"
-  - id: "thk-tillich", title: "بول تيليش", type: "مفكر"
-  - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
+  - id: "thk-heidegger", title: "Heidegger", type: "مفكر"
+  - id: "thk-unamuno", title: "Miguel de Unamuno", type: "مفكر"
+  - id: "thk-tillich", title: "Paul Tillich", type: "مفكر"
+  - id: "thk-shestov", title: "Lev Shestov", type: "مفكر"
 gaps:
-  - "قائمة الأعمال والتواريخ — لم تُثبَّت"
+  - "List of works and dates — not yet verified"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Søren Kierkegaard
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The furthest root. He did not write psychology, but without him this field does not exist.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Gave
 
-# سورين كيركيغارد
+He moved the question from "what is the human being?" to "how do I exist?" For him anxiety is the dizziness of freedom, not a symptom. And despair is a disorder in the self's relation to itself, not sadness.
 
-الجذر الأبعد. لم يكتب علم نفس، لكن بدونه لا يوجد هذا الحقل.
+## What Remains of Him in the Clinic
 
-## ما أعطاه
+The idea that anxiety is not always an illness, that choice is painful by nature, and that the individual cannot be reduced to a classification.
 
-نقل السؤال من «ما الإنسان؟» إلى «كيف أوجد أنا؟». والقلق عنده دوار الحرية لا عرَض. واليأس خلل في علاقة الذات بذاتها لا حزن.
+## A Constraint
 
-## ما بقي منه في العيادة
+He is not presented as though he spoke in contemporary psychological terms. Any connection of this kind is labeled a retrospective reading.
 
-فكرة أن القلق ليس دائماً مرَضاً، وأن الاختيار مؤلم بطبيعته، وأن الفرد لا يُختزل في تصنيف.
+## His Most Important Works
 
-## قيد
+Fear and Trembling (Frygt og Bæven, 1843) · Either/Or (Enten – Eller, 1843) · The Concept of Anxiety (Begrebet Angest, 1844) · The Sickness unto Death (Sygdommen til Døden, 1849) · Concluding Unscientific Postscript (Afsluttende uvidenskabelig Efterskrift, 1846)
 
-لا يُقدَّم كأنه تكلّم بمصطلحات نفسية معاصرة. أي ربط من هذا النوع يُوسم بأنه قراءة بأثر رجعي.
+## Selected Quotations
 
-## أهم أعماله
-
-الخوف والرعدة (Frygt og Bæven, 1843) · إما / أو (Enten – Eller, 1843) · مفهوم القلق (Begrebet Angest, 1844) · المرض حتى الموت (Sygdommen til Døden, 1849) · مسك الختام غير العلمي (Afsluttende uvidenskabelig Efterskrift, 1846)
-
-## اقتباسات مختارة
-
-«القلق دُوار الحرية.» — مفهوم القلق، 1844<br>«الذات علاقة تُحيل إلى نفسها.» — المرض حتى الموت، 1849
--->
+"Anxiety is the dizziness of freedom." — The Concept of Anxiety, 1844<br>"The self is a relation that relates itself to itself." — The Sickness unto Death, 1849

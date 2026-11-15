@@ -3,9 +3,9 @@ slug: "thk-sergio-carrasco"
 id: "ANT-13259"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Sergio Carrasco"
 en: "Sergio Carrasco"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Anthropology ← Thinkers ← Sergio Carrasco"
 dates: "Chile · 1943-"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
@@ -15,26 +15,18 @@ gaps:
   []
 ---
 
-# [EN TRANSLATION NEEDED]
+# Sergio Carrasco
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Sergio Carrasco (Chile, 1943-) is a thinker in the field of Anthropology.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Main Branch
 
-# سيرجيو كاراسكو
+Content pending.
 
-[Brief description in Arabic for translator reference]
+## Contributions
 
-## الفرع الرئيسي
+Content pending.
 
-[Key section in Arabic]
+## Gaps and Developments
 
-## المساهمات
-
-[Contributions in Arabic]
-
-## الفجوات والتطورات
-
-[Gaps in Arabic]
-
--->
+Content pending.

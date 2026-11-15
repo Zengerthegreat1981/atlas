@@ -3,54 +3,47 @@ slug: "thk-husserl"
 id: "THK-0301"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Edmund Husserl"
 en: "Edmund Husserl"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Phenomenology ← People ← Edmund Husserl"
 dates: "ألمانيا · 1859–1938"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-  - id: "br-british", title: "التيار البريطاني", type: "تيار"
+  - id: "thk-heidegger", title: "Heidegger", type: "مفكر"
+  - id: "br-british", title: "The British Current", type: "تيار"
 gaps:
-  - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
+  - "Details of works, dates, and Arabic translations — need to be verified"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Edmund Husserl
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The founder of phenomenology. Not an existentialist, and yet without him there is no method for this school at all.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Gave
 
-# إدموند هوسرل
+A method: return to the things themselves. Suspend your theories and judgements, and describe what is given in experience as it is given, before interpreting it.
 
-مؤسّس الظاهراتية. ليس وجودياً، ومع ذلك بدونه لا يوجد منهج لهذه المدرسة أصلاً.
+## Intentionality
 
-## ما أعطاه
+Consciousness is always consciousness of something. There is no closed consciousness that then meets a world — the direction toward the world is the structure of consciousness. This demolishes the duality between inside and outside.
 
-منهجاً: العودة إلى الأشياء ذاتها. علّق نظرياتك وأحكامك، وصف ما يُعطى في الخبرة كما يُعطى قبل تفسيره.
+## Epoché (Bracketing)
 
-## القصدية
+The temporary suspension of judgement. In the clinic it is description before interpretation — the first skill in British existential training.
 
-الوعي دائماً وعي بشيء. لا وعي مغلق ثم يلتقي بعالم — الاتجاه نحو العالم هو بنية الوعي. وهذا يهدم الثنائية بين داخل وخارج.
+## His Disagreement with Heidegger
 
-## الوقف (الإبوخيه)
+Heidegger was his student and then diverged from his project: Husserl wanted to ground knowledge, and Heidegger wanted to ask the question of being. The break between them was both personal and philosophical.
 
-تعليق الحكم مؤقتاً. وهو في العيادة الوصف قبل التفسير — وهي المهارة الأولى في التدريب الوجودي البريطاني.
+## What Reached the Clinic
 
-## خلافه مع هايدجر
+The method only, not the project. This is a legitimate use but far weaker than the original — and few therapists know this.
 
-هايدجر كان تلميذه ثم انحرف عن مشروعه: هوسرل أراد تأسيس المعرفة، وهايدجر أراد سؤال الوجود. القطيعة بينهما شخصية وفلسفية معاً.
+## His Most Important Works
 
-## ما وصل للعيادة
+Logical Investigations (Logische Untersuchungen, 1900–1901) · Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Book One (Ideen I, 1913) · Cartesian Meditations (Cartesianische Meditationen, 1931) · The Crisis of European Sciences and Transcendental Phenomenology (Die Krisis der europäischen Wissenschaften, 1936 (unfinished, published after his death))
 
-المنهج فقط، لا المشروع. وهذا استعمال مشروع لكنه أضعف بكثير من الأصل — وقلّة من المعالجين يعرفون هذا.
+## Selected Quotations
 
-## أهم أعماله
-
-بحوث منطقية (Logische Untersuchungen, 1900–1901) · أفكار عن فينومينولوجيا خالصة وفلسفة فينومينولوجية (الكتاب الأول) (Ideen I, 1913) · تأملات ديكارتية (Cartesianische Meditationen, 1931) · أزمة العلوم الأوروبية والفينومينولوجيا المتعالية (Die Krisis der europäischen Wissenschaften, 1936 (غير مكتمل، نُشر بعد وفاته))
-
-## اقتباسات مختارة
-
-«إلى الأشياء ذاتها!» — شعار منهجي مرتبط ببحوثه المنطقية أكثر من كونه اقتباساً حرفياً من صفحة بعينها. — بحوث منطقية، 1900–1901
--->
+"To the things themselves!" — a methodological slogan associated with his Logical Investigations more than a verbatim quotation from a specific page. — Logical Investigations, 1900–1901

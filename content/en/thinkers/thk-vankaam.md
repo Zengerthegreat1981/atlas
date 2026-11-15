@@ -3,50 +3,43 @@ slug: "thk-vankaam"
 id: "THK-0310"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Adrian van Kaam"
 en: "Adrian van Kaam"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← Adrian van Kaam"
 dates: "هولندا/الولايات المتحدة · 1920–2007"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "dbt-spiritual", title: "خصومة الروحاني", type: "جدل"
-  - id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+  - id: "dbt-spiritual", title: "The Spiritual Dispute", type: "جدل"
+  - id: "br-humanistic", title: "The American Current", type: "تيار"
 gaps:
-  - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
+  - "Data on works, dates and Arabic translations — needs confirmation"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Adrian van Kaam
 
-[EN TRANSLATION NEEDED — lede paragraph]
+One of the founders of phenomenological psychology in America, and among those most engaged with the spiritual and formative dimension.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Founded
 
-# أدريان فان كام
+A complete academic programme in phenomenological psychology, and one of the first to introduce the descriptive method into American psychological research instead of measurement alone.
 
-أحد مؤسّسي علم النفس الظاهراتي في أمريكا، وأكثرهم اشتغالاً على البعد الروحي والتكويني.
+## Formation Science
 
-## ما أسّسه
+His broadest project: how the authentic self is formed across life through an interplay between what is given and what is chosen — in a language that joins the psychological and the spiritual.
 
-برنامجاً أكاديمياً كاملاً في علم النفس الظاهراتي، وأحد أوائل من أدخلوا المنهج الوصفي إلى البحث النفسي الأمريكي بدل القياس وحده.
+## The Spiritual Dimension
 
-## علم التكوين
+He makes it a fundamental formative dimension, not an addition. This places him in the same rank as Frankl and van Deurzen in the dispute between the spiritual and the secular.
 
-مشروعه الأوسع: كيف تتشكّل الذات الأصيلة عبر الحياة بتفاعل بين ما هو معطى وما يُختار — بلغة تجمع النفسي بالروحي.
+## Why He Matters in Our Context
 
-## البعد الروحي
+Because he is among those who worked most methodically on the relation between spiritual formation and psychological growth — which is exactly the gap we have identified in the Arab context.
 
-يجعله بُعداً تكوينياً أساسياً لا إضافة. وهذا يضعه في نفس صفّ فرانكل وفان دورزن في خصومة الروحاني والعلماني.
+## Presence
 
-## لماذا يهمّ في سياقنا
+Weak even in English, and almost nonexistent in Arabic.
 
-لأنه من أكثر من اشتغل منهجياً على العلاقة بين التكوين الروحي والنمو النفسي — وهي بالضبط الفجوة التي رصدناها في السياق العربي.
+## Major Works
 
-## حضوره
-
-ضعيف حتى بالإنجليزية، وشبه معدوم بالعربية.
-
-## أهم أعماله
-
-الأسس الوجودية لعلم النفس (Existential Foundations of Psychology, 1966) · فن الإرشاد الوجودي (The Art of Existential Counseling, 1966) · الدين والشخصية (Religion and Personality, 1964)
--->
+Existential Foundations of Psychology (1966) · The Art of Existential Counseling (1966) · Religion and Personality (1964)

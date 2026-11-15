@@ -13,12 +13,6 @@ active_start: 1949
 active_end: 1955
 edges: []
 related:
-  - id: thk-louis-dumont
-    title: Louis Dumont
-    type: thinker
-  - id: con-caste
-    title: Caste
-    type: concept
   - id: con-hierarchy
     title: Hierarchy
     type: concept

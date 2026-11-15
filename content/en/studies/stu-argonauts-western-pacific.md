@@ -13,15 +13,6 @@ active_start: 1914
 active_end: 1918
 edges: []
 related:
-  - id: thk-bronislaw-malinowski
-    title: Bronislaw Malinowski
-    type: thinker
-  - id: con-gift-economy
-    title: Gift Economy
-    type: concept
-  - id: con-exchange-systems
-    title: Exchange Systems
-    type: concept
 gaps: []
 sources:
   - Malinowski, B. (1922). Argonauts of the Western Pacific: An Account of Native Enterprise and Adventure in the Archipelagoes of Melanesian New Guinea. Routledge.

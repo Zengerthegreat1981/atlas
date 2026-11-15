@@ -16,12 +16,6 @@ related:
   - id: thk-franz-boas
     title: Franz Boas
     type: thinker
-  - id: con-gift-economy
-    title: Gift Economy
-    type: concept
-  - id: con-conspicuous-consumption
-    title: Conspicuous Consumption
-    type: concept
 gaps: []
 sources:
   - Boas, F. (1897). The Social Organization and Secret Societies of the Kwakwaka'wakw. U.S. National Museum Annual Report.

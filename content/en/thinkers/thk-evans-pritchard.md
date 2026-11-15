@@ -13,8 +13,6 @@ edges:
   - rel: "developed_method", target: "Segmentary Lineage Analysis", target_type: "مفهوم"
   - rel: "pioneered", target: "Political Anthropology", target_type: "مفهوم"
 related:
-  - id: "con-segmentary-lineage", title: "Segmentary Lineage Systems", type: "مفهوم"
-  - id: "con-political-anthropology", title: "Political Anthropology", type: "مفهوم"
   - id: "thk-malinowski", title: "Bronislaw Malinowski", type: "مفكر"
   - id: "thk-radcliffe-brown", title: "A.R. Radcliffe-Brown", type: "مفكر"
 gaps:

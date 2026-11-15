@@ -3,45 +3,38 @@ slug: "thk-bugental"
 id: "THK-0110"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "James Bugental"
 en: "James Bugental"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← James Bugental"
 dates: "الولايات المتحدة"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
+  - id: "br-humanistic", title: "The American Current", type: "تيار"
 gaps:
-  - "بيانات أعماله — تحتاج تثبيتاً"
+  - "Data on his works — needs to be verified"
 ---
 
-# [EN TRANSLATION NEEDED]
+# James Bugental
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Founder of existential-humanistic practice as a craft that can be learned, and mentioned far less than he deserves.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Did
 
-# جيمس بوجنتال
+He turned ideas into practice: how the therapist actually shows up, how they listen, and how they work on what the client is doing in the room right now.
 
-مؤسّس الممارسة الإنسانية-الوجودية كحرفة قابلة للتعلّم — ويُذكر أقل بكثير مما يستحق.
+## His Key Concept
 
-## ما فعله
+Authenticity is not a state that is reached but a continuing process, and resistance is not an obstacle to the work but is the work itself: the way in which the person protects themselves from seeing their situation.
 
-حوّل الأفكار إلى ممارسة: كيف يحضر المعالج فعلاً، وكيف يُصغي، وكيف يشتغل على ما يفعله العميل في الغرفة الآن.
+## His Emphasis on Presence
 
-## مفهومه المفتاح
+That the therapist be actually there, not playing a role, which made him an influential teacher of generations of American therapists.
 
-الأصالة ليست حالة تُبلغ بل عملية مستمرة، والمقاومة ليست عائقاً أمام العمل بل هي العمل نفسه: الطريقة التي يحمي بها الشخص نفسه من رؤية وضعه.
+## His Position
 
-## تشديده على الحضور
+Between May the philosopher and Yalom the writer, he is the craftsman. For this reason his impact in training is greater than his impact in books.
 
-أن يكون المعالج موجوداً فعلاً لا مؤدياً دوراً — وهو ما جعله معلّماً مؤثراً في أجيال من المعالجين الأمريكيين.
+## His Most Important Works
 
-## موقعه
-
-بين ماي الفيلسوف ويالوم الكاتب، هو الحرفيّ. ولهذا أثره في التدريب أكبر من أثره في الكتب.
-
-## أهم أعماله
-
-البحث عن الأصالة (The Search for Authenticity, 1965) · العلاج النفسي والمسار: أسس المقاربة الوجودية-الإنسانية (Psychotherapy and Process, 1978) · فن المعالج النفسي (The Art of the Psychotherapist, 1987) · رحلات حميمة: قصص من علاج غيّر حياة (Intimate Journeys, 1990)
--->
+The Search for Authenticity (The Search for Authenticity, 1965) · Psychotherapy and Process: The Fundamentals of an Existential-Humanistic Approach (Psychotherapy and Process, 1978) · The Art of the Psychotherapist (The Art of the Psychotherapist, 1987) · Intimate Journeys: Stories from Life-Changing Therapy (Intimate Journeys, 1990)

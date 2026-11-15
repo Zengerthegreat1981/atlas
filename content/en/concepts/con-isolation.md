@@ -3,65 +3,58 @@ slug: "con-isolation"
 id: "CON-0404"
 type: "مفهوم"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Isolation"
 en: "Isolation"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existentialist School ← Concepts ← Isolation"
 edges:
   - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-yalom", title: "يالوم", type: "مفكر"
-  - id: "con-relation", title: "العلاقة واللقاء", type: "مفهوم"
+  - id: "thk-yalom", title: "Yalom", type: "مفكر"
+  - id: "con-relation", title: "Relationship and Encounter", type: "مفهوم"
 gaps:
-  - "المواضع النصية لكل صياغة — لم تُدخل"
+  - "The textual locations for each formulation — not entered"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Isolation
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The least famous of the four concerns and the most prone to confusion, because three different things are called by this name.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Defining the Concept
 
-# العزلة
+There are three kinds that must be separated before anything else is said: <b>personal isolation</b> (between me and other people), <b>inner isolation</b> (between me and parts of myself), and <b>existential isolation</b> (the unbridgeable gulf between any two beings, however close they come). The first is treated through relationships, the second through integration, and the third is not treated at all, and this is the one that concerns the school.
 
-أقل الاهتمامات الأربعة شهرةً وأكثرها إثارةً للخلط، لأن ثلاثة أشياء مختلفة تُسمّى بهذا الاسم.
+## The Core Disputes Within the Concept
 
-## تحرير المفهوم
+An explicit rivalry: <b>Sartre against Buber</b>. Is genuine encounter possible, or is relationship a structural conflict? The answer determines what the therapist does: if encounter is possible, the therapeutic relationship is the tool; if it is not, it is at best a temporary relief.
 
-ثلاثة أنواع يجب فصلها قبل أي كلام: <b>عزلة شخصية</b> (بيني وبين الآخرين)، و<b>عزلة داخلية</b> (بيني وبين أجزاء من نفسي)، و<b>عزلة وجودية</b> (الهوة التي لا تُعبَر بين أي كائنين مهما اقتربا). الأولى تُعالَج بالعلاقات، والثانية بالتكامل، والثالثة لا تُعالَج — وهذه هي التي تخصّ المدرسة.
+## How It Appears in the Session
 
-## الخلافات الجوهرية داخل المفهوم
+Two opposite signs: the one who cannot bear to be alone for a minute (fusion), and the one who allows no one to come close (fortification). Both are defenses against the same thing. The work is to test solitude in bearable doses, and to test closeness likewise.
 
-خصومة صريحة: <b>سارتر ضد بوبر</b>. هل اللقاء الحقيقي ممكن أم أن العلاقة صراع بنيوي؟ الجواب يحدّد ما يفعله المعالج: إن كان اللقاء ممكناً فالعلاقة العلاجية هي الأداة؛ وإن لم يكن فهي في أحسن الأحوال تخفيف مؤقت.
+## The Most Commonly Misunderstood Point
 
-## كيف يظهر في الجلسة
+Confusing existential isolation with social loneliness. The second is treated with relationships, the first is not. Trying to treat the first with the second is exactly what Yalom calls the defense of fusion, that is, the treatment becomes the symptom.
 
-علامتان متقابلتان: من لا يحتمل أن يكون وحده دقيقة (انصهار)، ومن لا يسمح لأحد بالاقتراب (تحصّن). وكلاهما دفاع ضد نفس الشيء. والعمل هو أن تُختبَر الوحدة بجرعات محتملة، وأن تُختبَر القرب كذلك.
+## An Example and a Counter-Example
 
-## أشهر ما يُساء فهمه
+<b>Example:</b> A man surrounded by a large, loving family feels a deep isolation because he realizes that no one can actually share with him the decision to face his medical diagnosis, and his final death, however great their love for him. This is an awareness of existential isolation in Yalom's sense: not a lack of ties but a structural limit within them.<br><b>Counter-example:</b> A therapist diagnoses simple social isolation (few friends, introversion) as "existential isolation" and treats it with philosophical contemplation of finitude instead of practical social skills and an actual support network. This is a confusion that prolongs a suffering that could be treated far more simply and burdens it with a philosophical weight it does not need.
 
-خلط العزلة الوجودية بالوحدة الاجتماعية. الثانية تُعالَج بعلاقات، والأولى لا. ومحاولة علاج الأولى بالثانية هي بالضبط ما يسمّيه يالوم دفاع الانصهار — أي أن العلاج يصير هو العَرَض.
+## What Does Not Follow from This Concept
 
-## مثال ومثال مضاد
+It <b>does not mean</b> that social isolation (loneliness, few relationships) is merely an illusion or a superficial matter to be overcome philosophically instead of being treated practically; much real suffering is purely social and is treated with actual relationships, not with a philosophical acceptance of finitude.<br><b>Nor does it mean</b> that seeking relationship and closeness to others is an illusion or an escape from existential reality; Yalom himself warns that awareness of fundamental isolation may be misused to justify withdrawal from real and beneficial relationships.
 
-<b>مثال:</b> رجل محاط بأسرة كبيرة ومحبة يشعر بعزلة عميقة لأنه يدرك أن قرار مواجهة تشخيصه المرضي، وموته النهائي، لا يمكن لأحد أن يشاركه فيه فعلياً مهما بلغ حبهم له. هذا وعي بالعزلة الوجودية بمعنى يالوم — لا نقص في الروابط بل حدّ بنيوي فيها.<br><b>مثال مضاد:</b> معالج يشخّص عزلة اجتماعية بسيطة (قلة الأصدقاء، الانطواء) بوصفها «عزلة وجودية» ويعالجها بتأمل فلسفي عن التناهي بدل مهارات اجتماعية عملية وشبكة دعم فعلية. هذا خلط يُطيل معاناة قابلة للعلاج ببساطة أكبر ويُثقلها بوزن فلسفي لا تحتاجه.
+## The Arab and Cultural Context
 
-## ما لا يُستنتج من هذا المفهوم
+The concept of existential isolation was formulated within a Western individualist conception that assumes the self is a unit originally separate from others, and isolation is the discovery of a pre-existing fact. In Arab cultures with a collective structure, where identity is often defined through belonging (family, clan, community) rather than separation from it, the idea that "every human being is fundamentally isolated" may not be experienced with the same intensity, or may be experienced in a completely different way, as a deeper existential shock when it does occur, because it conflicts with a basic cultural assumption about interconnectedness.<br>There is no precise Arabic equivalent of Existential Isolation that distinguishes it from ordinary social isolation (loneliness, withdrawal); the available translations confuse the two. And Yalom's empirical research on existential isolation was built entirely on American individualist samples, and there are not enough comparative studies examining how this concept is experienced in collectivist-value contexts, which is a real methodological gap.
 
-<b>لا يعني</b> أن العزلة الاجتماعية (الوحدة، قلة العلاقات) مجرد وهم أو مسألة سطحية ينبغي تجاوزها فلسفياً بدل معالجتها عملياً — كثير من المعاناة الحقيقية اجتماعية بحتة وتُعالَج بعلاقات فعلية، لا بقبول فلسفي للتناهي.<br><b>ولا يعني</b> أن السعي للعلاقة والقرب من الآخرين وهمٌ أو هروب من الحقيقة الوجودية — يالوم نفسه يحذّر من أن الوعي بالعزلة الأساسية قد يُساء استخدامه لتبرير الانسحاب من علاقات حقيقية ومفيدة.
+## Comparative Table
 
-## السياق العربي والثقافي
-
-مفهوم العزلة الوجودية صيغ داخل تصور فردانية غربية يفترض أن الذات وحدة منفصلة أصلاً عن الآخرين، والعزلة اكتشاف لحقيقة مسبقة. في ثقافات عربية جماعية البنية، حيث تُعرَّف الهوية غالباً عبر الانتماء (الأسرة، العشيرة، الجماعة) لا الانفصال عنها، فكرة أن «كل إنسان معزول جوهرياً» قد لا تُختبر بنفس الحدة أو قد تُختبر بشكل مختلف تماماً — كصدمة وجودية أعمق حين تحدث، لأنها تتعارض مع افتراض ثقافي أساسي عن الترابط.<br>لا توجد كلمة عربية مكافئة دقيقة لـ Existential Isolation تميّزها عن العزلة الاجتماعية العادية (الوحدة، الانعزال)؛ الترجمات المتاحة تخلط الاثنتين. وأبحاث يالوم التجريبية حول العزلة الوجودية بُنيت بالكامل على عيّنات أمريكية فردانية، ولا توجد دراسات مقارنة كافية تفحص كيف يُختبر هذا المفهوم في سياقات جماعية القيم، وهذا فراغ منهجي حقيقي.
-
-## جدول مقارن
-
-| المفكر | صياغته بالضبط | ما يترتب عليه في الغرفة | خلافه مع غيره |
+| Thinker | His exact formulation | What follows in the room | His dispute with others |
 |---|---|---|---|
-| كيركيغارد | الفرد أمام المطلق وحده. لا أحد ينوب عنك في علاقتك بما هو أعظم منك. | يُقرأ الانفراد كموضع اختيار لا كنقص اجتماعي. | إطار لاهوتي سقط في النقل العلماني. |
-| هايدجر | الموت يفرّدني: لا ينوب عني فيه أحد. والقلق يعزلني عن مألوفية «الناس» فيظهر وجودي كوجودي. | العزلة هنا كاشفة لا مؤلمة فقط — لحظة يُرى فيها الشخص نفسه. | أنطولوجي، لا يُترجَم إلى تدخّل. |
-| سارتر | العلاقة صراع بنيوي: نظرة الآخر تحوّلني إلى موضوع. ولا التقاء تامّاً بين وعيين. | صعب البناء عليه علاجياً، ولهذا يُستعمل سارتر انتقائياً هنا. | أشدّ الصيغ تشاؤماً، ويعارضه بوبر مباشرةً. |
-| مارتن بوبر | ضدّ سارتر: يوجد لقاء حقيقي. في لحظة «أنا-أنت» يحدث بيننا شيء لا يقع داخل أيّ منا. | العلاقة العلاجية نفسها تصير الدواء، لا وعاءً له. | أوضح خصومة داخل هذا المفهوم: سارتر يقول لا لقاء، وبوبر يقول اللقاء ممكن ونادر. |
-| يالوم | العزلة الوجودية هوة لا تُلغى. والدفاع الشائع ضدها هو <b>الانصهار</b>: أن يذوب المرء في علاقة ليتوقف عن كونه منفصلاً. | رصد العلاقات التي تُستعمل كتخدير: الاندماج الكامل، وعدم احتمال الوحدة دقيقة. | يجمع بوبر وسارتر عملياً: الهوة قائمة، واللقاء يخفّفها ولا يلغيها. |
-| كلارك موستاكاس | الوحدة ليست عدواً. لها وجه خلّاق، ومن يهرب منها دائماً يفقد ما لا يُعطى إلا فيها. | التمييز بين وحدة يُهرَب منها ووحدة تُسكن — وهي مهارة تُتعلَّم. | أقل الأصوات شهرة وأنفعها عملياً في هذا الباب. |
-| فان دورزن | العزلة تُفحَص في البُعد الاجتماعي: هل هي بنيوية، أم نتيجة فقر علاقات، أم نتيجة إقصاء فعلي؟ | يمنع قراءة عزلة سببها الفقر أو الهجرة أو التمييز بوصفها «عزلة وجودية». | أهم ضابط ضد إساءة استعمال المفهوم. |
--->
+| Kierkegaard | The individual alone before the Absolute. No one can stand in for you in your relation to what is greater than you. | Being alone is read as a site of choice, not as a social deficiency. | A theological framework that was lost in the secular transfer. |
+| Heidegger | Death individuates me: no one can stand in for me in it. And anxiety isolates me from the familiarity of "the they," so that my existence appears as existence. | Isolation here is revealing, not only painful: a moment in which the person sees himself. | Ontological, and does not translate into intervention. |
+| Sartre | Relationship is structural conflict: the gaze of the other turns me into an object. There is no complete meeting between two consciousnesses. | Hard to build on therapeutically, which is why Sartre is used selectively here. | The most pessimistic formulation, and Buber opposes it directly. |
+| Martin Buber | Against Sartre: genuine encounter exists. In the moment of "I-Thou," something happens between us that does not fall inside either of us. | The therapeutic relationship itself becomes the remedy, not a vessel for it. | The clearest rivalry within this concept: Sartre says there is no encounter, and Buber says encounter is possible and rare. |
+| Yalom | Existential isolation is a gulf that cannot be abolished. And the common defense against it is <b>fusion</b>: that one dissolves into a relationship in order to stop being separate. | Watching for relationships used as anesthesia: total merging, and being unable to bear solitude for a minute. | Practically combines Buber and Sartre: the gulf exists, and encounter eases it but does not abolish it. |
+| Clark Moustakas | Loneliness is not an enemy. It has a creative face, and whoever always flees from it loses what is given only within it. | Distinguishing between a solitude that is fled from and a solitude that is inhabited, which is a skill that can be learned. | The least famous of the voices and the most practically useful in this area. |
+| Van Deurzen | Isolation is examined in the social dimension: is it structural, or the result of a poverty of relationships, or the result of actual exclusion? | Prevents reading an isolation caused by poverty, migration, or discrimination as "existential isolation." | The most important safeguard against misuse of the concept. |

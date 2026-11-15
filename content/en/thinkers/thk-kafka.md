@@ -3,35 +3,28 @@ slug: "thk-kafka"
 id: "THK-0313"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Franz Kafka"
 en: "Franz Kafka"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← Franz Kafka"
 dates: "النمسا-المجر (براغ) · 1883–1924"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-camus", title: "ألبير كامو", type: "مفكر"
-  - id: "con-alienation", title: "الاغتراب", type: "مفهوم"
+  - id: "thk-camus", title: "Albert Camus", type: "مفكر"
+  - id: "con-alienation", title: "Alienation", type: "مفهوم"
 gaps:
-  - "لم تُراجع بعد نصوص أصلية (المحاكمة، المسخ) — الوصف هنا عام من تاريخ الفكر."
-  - "كاتب روائي لا فيلسوف مصرِّح بانتمائه لأي مدرسة، وإدراجه هنا يحتاج توضيحاً منهجياً كسابقه دوستويفسكي."
+  - "The original texts (The Trial, The Metamorphosis) have not yet been reviewed — the description here is general, from the history of ideas."
+  - "A novelist, not a philosopher who declared affiliation with any school, and his inclusion here needs methodological clarification, like that of Dostoevsky before him."
 ---
 
-# [EN TRANSLATION NEEDED]
+# Franz Kafka
 
-[EN TRANSLATION NEEDED — lede paragraph]
+A Prague novelist whose works are read as a direct literary embodiment of the experience of alienation and of a bureaucratic absurdity that can neither be understood nor justified.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Why He Is Mentioned Here
 
-# فرانز كافكا
+Camus himself wrote an essay devoted to Kafka within "The Myth of Sisyphus," considering his fictional world one of the purest embodiments of existential absurdity: a world without final explanation, in which the self confronts an authority whose logic it cannot grasp.
 
-روائي براغي، أعماله تُقرأ كتجسيد أدبي مباشر لتجربة الاغتراب والعبث البيروقراطي الذي لا يُفهَم ولا يُبرَّر.
+## Caveat
 
-## لماذا يُذكر هنا
-
-كامو نفسه كتب مقالاً مخصصاً عن كافكا ضمن «أسطورة سيزيف»، معتبراً عالمه الروائي أحد أنقى تجسيدات العبث الوجودي: عالم بلا تفسير نهائي، تُواجَه فيه الذات سلطة لا تُفهم منطقها.
-
-## قيد
-
-مثل دوستويفسكي، هذا إدراج بوصفه صوتاً أدبياً مؤثراً في المفردات الوجودية، لا عضواً في مدرسة فلسفية منظّمة.
--->
+Like Dostoevsky, this is an inclusion as an influential literary voice in the existential vocabulary, not as a member of an organized philosophical school.

@@ -3,34 +3,27 @@ slug: "thk-rank"
 id: "THK-0321"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Otto Rank"
 en: "Otto Rank"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existentialist School ← People ← Otto Rank"
 dates: "النمسا/أمريكا · 1884–1939"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
+  - id: "thk-may", title: "Rollo May", type: "مفكر"
 gaps:
-  - "لم تُراجع بعد نصوصه الأصلية (صدمة الميلاد، الإرادة والعلاج) من نسخة محققة."
-  - "علاقته الدقيقة بفرويد والانشقاق عنه تحتاج توثيقاً تاريخياً أدق من الوصف العام هنا."
+  - "His original texts (The Trauma of Birth, Will Therapy) have not yet been reviewed from a verified edition."
+  - "His precise relationship with Freud and his break from him need more accurate historical documentation than the general description here."
 ---
 
-# [EN TRANSLATION NEEDED]
+# Otto Rank
 
-[EN TRANSLATION NEEDED — lede paragraph]
+An Austrian psychoanalyst, one of Freud's closest students before breaking away from him, and many historians of the school regard him as the first "founding father" of integrating psychoanalysis with the existential perspective, preceding even Binswanger and Boss in time.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Gave
 
-# أوتو رانك
+He offered an early reading that focuses on existential anxiety (the anxiety of birth and separation, not only Freudian sexual repression), and on the individual will as a central therapeutic force; ideas that later influenced, directly and in a documented way, Rollo May, who cited him explicitly in his writings.
 
-محلل نفسي نمساوي، أحد أقرب تلاميذ فرويد قبل الانشقاق عنه، ويُعدّه كثير من مؤرخي المدرسة «الأب المؤسس» الأول لدمج التحليل النفسي بالمنظور الوجودي، سابقاً حتى على بينسفانجر وبوس زمنياً.
+## A Caveat
 
-## ما أعطاه
-
-قدّم قراءة مبكرة تركز على القلق الوجودي (قلق الميلاد والانفصال، لا فقط الكبت الجنسي الفرويدي)، وعلى الإرادة الفردية كقوة علاجية مركزية — أفكار أثّرت لاحقاً بشكل مباشر وموثّق في رولو ماي، الذي استشهد به صراحة في كتاباته.
-
-## قيد
-
-لم يصف نفسه «وجودياً» (المدرسة لم تكن مسمّاة بعد وقته)، وإدراجه هنا استناداً لتأثيره اللاحق الموثّق على ماي تحديداً لا لانتماء ذاتي معلَن.
--->
+He did not describe himself as "existential" (the school had not yet been named in his time), and his inclusion here is based on his documented later influence on May specifically, not on a declared self-affiliation.

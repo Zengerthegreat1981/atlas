@@ -19,9 +19,6 @@ related:
   - id: con-kinship
     title: Kinship
     type: concept
-  - id: con-adolescence
-    title: Adolescence
-    type: concept
 gaps: []
 sources:
   - Mead, M. (1928). Coming of Age in Samoa: A Psychological Study of Primitive Youth for Western Civilisation. William Morrow.

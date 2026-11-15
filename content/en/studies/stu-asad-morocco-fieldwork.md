@@ -16,12 +16,6 @@ related:
   - id: thk-talal-asad
     title: Talal Asad
     type: thinker
-  - id: con-reflexivity
-    title: Reflexivity
-    type: concept
-  - id: con-power-knowledge
-    title: Power and Knowledge
-    type: concept
 gaps: []
 sources:
   - Asad, T. (1986). The Idea of an Anthropology of Islam. Center for Contemporary Arab Studies.

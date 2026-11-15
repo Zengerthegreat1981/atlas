@@ -3,50 +3,43 @@ slug: "thk-wong"
 id: "THK-0309"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Paul T. P. Wong"
 en: "Paul T. P. Wong"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← Paul Wong"
 dates: "كندا/الصين"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-frankl", title: "فرانكل", type: "مفكر"
-  - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+  - id: "thk-frankl", title: "Frankl", type: "مفكر"
+  - id: "br-logotherapy", title: "Branches of Meaning", type: "تيار"
 gaps:
-  - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
+  - "Data on works, dates and Arabic translations — needs to be verified"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Paul Wong
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The one who carried Frankl's line into a contemporary wave, and one of the least marginalized non-Western voices in this field.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Existential Positive Therapy
 
-# بول وونغ
+He combined the tradition of meaning with positive psychology, on one essential condition: that the dark side not be denied. Meaning is made <b>from within</b> suffering, not in spite of it.
 
-من نقل خطّ فرانكل إلى موجة معاصرة، وأحد أقلّ الأصوات غير الغربية تهميشاً في هذا الحقل.
+## The Second Wave
 
-## العلاج الوجودي الإيجابي
+His critique of the first positive psychology: focusing on positive emotions alone is superficial and dishonest. The second wave integrates pain, loss and limits.
 
-دمج بين تقليد المعنى وعلم النفس الإيجابي، بشرط أساسي: ألّا يُنكر الجانب المظلم. المعنى يُصنع <b>من داخل</b> المعاناة لا رغماً عنها.
+## His Practical Model
 
-## الموجة الثانية
+A model built on acceptance, affirmation and transformation, instead of pursuing happiness directly.
 
-نقده لعلم النفس الإيجابي الأول: التركيز على المشاعر الإيجابية وحده سطحي وغير أمين. والموجة الثانية تدمج الألم والفقد والحدود.
+## His Value to Us
 
-## نموذجه العملي
+One of the few who worked on the cultural dimension of meaning, and from a non-Western background, which is rare in this field.
 
-نموذج مبني على القبول، والتأكيد، والتحوّل — بدل السعي إلى السعادة مباشرةً.
+## The State of His Evidence
 
-## قيمته لنا
+Stronger than the school's average because it lends itself to measurement, and weaker than the branches of palliative care.
 
-من القلائل الذين اشتغلوا على البعد الثقافي في المعنى، ومن خلفية غير غربية — وهذا نادر في هذا الحقل.
+## His Most Important Works
 
-## حالة أدلته
-
-أقوى من متوسط المدرسة لأنه يقبل القياس، وأضعف من فروع الرعاية التلطيفية.
-
-## أهم أعماله
-
-بحث الإنسان عن المعنى: دليل في البحث النفسي والتطبيقات الإكلينيكية (The Human Quest for Meaning, 1998 (ط٢ بعنوان معدَّل 2012)) · دليل المنظورات متعددة الثقافات في الضغط النفسي والمواجهة (مع وونغ) (Handbook of Multicultural Perspectives on Stress and Coping, 2006) · علم النفس الإيجابي للمعنى والروحانية (مع فراي) (The Positive Psychology of Meaning and Spirituality, 1998)
--->
+The Human Quest for Meaning: A Handbook of Psychological Research and Clinical Applications (The Human Quest for Meaning, 1998 (2nd ed. under a revised title, 2012)) · Handbook of Multicultural Perspectives on Stress and Coping (with Wong) (Handbook of Multicultural Perspectives on Stress and Coping, 2006) · The Positive Psychology of Meaning and Spirituality (with Fry) (The Positive Psychology of Meaning and Spirituality, 1998)

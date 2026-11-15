@@ -11,8 +11,6 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
   - rel: "written_by", target: "Hanson", target_type: "مفكر"
 related:
-  - id: "con-hawaiian-kinship", title: "Hawaiian Kinship System", type: "مفهوم"
-  - id: "con-polynesian-kinship", title: "Polynesian Kinship", type: "مفهوم"
   - id: "wrk-elementary-structures", title: "The Elementary Structures of Kinship", type: "عمل"
 sources:
   - Hanson, F. Allan. Meaning in Culture. Routledge, 1975.

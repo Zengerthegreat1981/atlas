@@ -13,15 +13,6 @@ active_start: 1990
 active_end: 2009
 edges: []
 related:
-  - id: con-collaboration
-    title: Collaboration
-    type: concept
-  - id: con-indigenous-knowledge
-    title: Indigenous Knowledge
-    type: concept
-  - id: con-ethics-research
-    title: Research Ethics
-    type: concept
 gaps: []
 sources:
   - Smith, L. T. (1999). Decolonizing Methodologies: Research and Indigenous Peoples. Zed Books.

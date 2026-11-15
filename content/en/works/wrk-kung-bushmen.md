@@ -11,9 +11,6 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
   - rel: "written_by", target: "Lee", target_type: "مفكر"
 related:
-  - id: "con-gift-economy", title: "Gift Economy", type: "مفهوم"
-  - id: "con-hunting-gathering", title: "Hunting and Gathering", type: "مفهوم"
-  - id: "wrk-stone-age-economics", title: "Stone Age Economics", type: "عمل"
 sources:
   - Lee, Richard B. The !Kung San: Men, Women, and Work in a Foraging Society. Cambridge University Press, 1979.
   - Lee, Richard B. "What Hunters Do for a Living." In Man the Hunter, edited by Richard Lee and Irven DeVore, Aldine, 1968.

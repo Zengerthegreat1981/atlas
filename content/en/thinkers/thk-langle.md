@@ -3,48 +3,41 @@ slug: "thk-langle"
 id: "THK-0115"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Alfried Längle"
 en: "Alfried Längle"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← People ← Alfried Längle"
 dates: "النمسا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
-  - id: "dbt-langle-frankl", title: "الانشقاق", type: "جدل"
-  - id: "thk-frankl", title: "فرانكل", type: "مفكر"
-  - id: "thk-lukas", title: "إليزابيث لوكاس", type: "مفكر"
+  - id: "br-logotherapy", title: "Branches of Meaning", type: "تيار"
+  - id: "dbt-langle-frankl", title: "The Split", type: "جدل"
+  - id: "thk-frankl", title: "Frankl", type: "مفكر"
+  - id: "thk-lukas", title: "Elisabeth Lukas", type: "مفكر"
 gaps:
-  - "بيانات أعماله وتفاصيل الانفصال بمصادرها — تحتاج تحقيقاً"
+  - "Details of his works and of the split, with sources — need to be investigated"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Alfried Längle
 
-[EN TRANSLATION NEEDED — lede paragraph]
+One of Frankl's closest students, and the one behind the clearest institutional split in the history of the school.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Added
 
-# ألفريد لانغله
+A system of fundamental existential motivations that precede the question of meaning and are its condition: that one can be in the world, that one can love one's life, and that one can find for oneself a right to be oneself — and then meaning comes.
 
-أقرب تلاميذ فرانكل، وصاحب أوضح انشقاق مؤسسي في تاريخ المدرسة.
+## Why This Matters
 
-## ما أضافه
+Because it solves a real practical problem: that the question "What is the meaning of your life?" does not work with someone who does not find themselves able to exist at all.
 
-منظومة من دوافع وجودية أساسية تسبق سؤال المعنى وتشترطه: أن يستطيع المرء أن يكون في العالم، وأن يحب حياته، وأن يجد لنفسه حقاً في أن يكون نفسه — ثم يأتي المعنى.
+## The Separation
 
-## لماذا هذا مهم
+The dispute ended in a complete organisational separation in the 1990s, and as a result "logotherapy" and "existential analysis" are today two different institutions.
 
-لأنه يحلّ مشكلة عملية حقيقية: أن سؤال «ما معنى حياتك؟» لا يعمل مع من لا يجد نفسه قادراً على الوجود أصلاً.
+## His Position
 
-## الانفصال
+The most clinically developed of the meaning currents, and the least known in Arabic.
 
-انتهى الخلاف إلى انفصال تنظيمي كامل في التسعينيات، ونتيجته أن «العلاج بالمعنى» و«التحليل الوجودي» صارا اليوم مؤسستين مختلفتين.
+## His Most Important Works
 
-## موقعه
-
-أكثر تيارات المعنى تطوّراً من الناحية الإكلينيكية، وأقلها شهرة بالعربية.
-
-## أهم أعماله
-
-عيش الحياة بمعنى: التحليل الوجودي التطبيقي (Sinnvoll leben: Angewandte Existenzanalyse, 1988) · فيكتور فرانكل: صورة شخصية (Viktor Frankl: Ein Porträt, 1998) · كتاب في التحليل الوجودي: الأسس (Lehrbuch zur Existenzanalyse: Grundlagen, ألمانية؛ ترجمة إنجليزية 2013)
--->
+Living Life with Meaning: Applied Existential Analysis (Sinnvoll leben: Angewandte Existenzanalyse, 1988) · Viktor Frankl: A Portrait (Viktor Frankl: Ein Porträt, 1998) · A Textbook of Existential Analysis: Foundations (Lehrbuch zur Existenzanalyse: Grundlagen, German; English translation 2013)

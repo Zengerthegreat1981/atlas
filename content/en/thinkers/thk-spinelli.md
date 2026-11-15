@@ -3,47 +3,40 @@ slug: "thk-spinelli"
 id: "THK-0114"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Ernesto Spinelli"
 en: "Ernesto Spinelli"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← Ernesto Spinelli"
 dates: "بريطانيا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "br-british", title: "التيار البريطاني", type: "تيار"
-  - id: "dbt-structures", title: "خصومة البنى", type: "جدل"
-  - id: "thk-cohn", title: "هانز كون", type: "مفكر"
+  - id: "br-british", title: "The British Current", type: "تيار"
+  - id: "dbt-structures", title: "The Dispute over Structures", type: "جدل"
+  - id: "thk-cohn", title: "Hans Cohn", type: "مفكر"
 gaps:
-  - "بيانات أعماله — تحتاج تثبيتاً"
+  - "Details of his works — need to be verified"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Ernesto Spinelli
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The objector from within. He objects to his colleagues with the same argument they use to object to the Americans.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## His Thesis
 
-# إرنستو سبينيللي
+Therapy is entirely relational: what happens between the two parties here and now is the material, not a general structure that is applied.
 
-المعترض من الداخل. يعترض على زملائه بنفس الحجّة التي يعترضون بها على الأمريكيين.
+## His Objection
 
-## أطروحته
+Even the "four dimensions of existence" is a structure imposed on experience. And the phenomenological method requires describing what appears, not arranging it in advance.
 
-العلاج علائقي بالكامل: ما يحدث بين الطرفين هنا والآن هو المادة، لا بنية عامة تُطبَّق.
+## What Follows from This
 
-## اعتراضه
+An almost complete rejection of any classification, and of any therapeutic goal set in advance, and an emphasis on uncertainty as a professional stance rather than a deficiency.
 
-حتى «أبعاد الوجود الأربعة» بنية مفروضة على الخبرة. والمنهج الظاهراتي يقتضي وصف ما يظهر لا ترتيبه سلفاً.
+## The Objection to Him
 
-## ما يترتب على ذلك
+That a position this extreme makes systematic training almost impossible, and turns the school into an individual art that cannot be transmitted.
 
-رفض شبه كامل لأي تصنيف، ولأي هدف علاجي محدد سلفاً، وتشديد على عدم اليقين كموقف مهني لا كنقص.
+## His Most Important Works
 
-## الاعتراض عليه
-
-أن موقفاً بهذا التطرف يجعل التدريب المنهجي شبه مستحيل، ويحوّل المدرسة إلى فنّ فردي غير قابل للنقل.
-
-## أهم أعماله
-
-العالَم المُؤَوَّل: مدخل إلى علم النفس الظاهراتي (The Interpreted World, 1989) · نزع الغموض عن العلاج (Demystifying Therapy, 1994) · حكايات اللامعرفة: لقاءات علاجية من منظور وجودي (Tales of Un-knowing, 1997) · ممارسة العلاج الوجودي: العالَم العلائقي (Practising Existential Therapy, 2007)
--->
+The Interpreted World: An Introduction to Phenomenological Psychology (1989) · Demystifying Therapy (1994) · Tales of Un-knowing: Therapeutic Encounters from an Existential Perspective (1997) · Practising Existential Therapy: The Relational World (2007)

@@ -13,15 +13,6 @@ active_start: 1964
 active_end: 1968
 edges: []
 related:
-  - id: thk-andrew-strathern
-    title: Andrew Strathern
-    type: thinker
-  - id: con-gift-economy
-    title: Gift Economy
-    type: concept
-  - id: con-prestige-good
-    title: Prestige Goods
-    type: concept
 gaps: []
 sources:
   - Strathern, A. J. (1971). The Rope of Moka: Big-Men and Ceremonial Exchange in Mount Hagen, New Guinea. Cambridge University Press.

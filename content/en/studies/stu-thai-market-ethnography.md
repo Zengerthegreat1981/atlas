@@ -13,15 +13,6 @@ active_start: 1985
 active_end: 1994
 edges: []
 related:
-  - id: con-market
-    title: Market
-    type: concept
-  - id: con-gender-economy
-    title: Gender and Economy
-    type: concept
-  - id: con-urban-economics
-    title: Urban Economics
-    type: concept
 gaps: []
 sources:
   - Pieke, F. N. (1995). The Ordinary and the Extraordinary: An Anthropological Study of Chinese Reform and the 1989 Democracy Movement. Kegan Paul International.

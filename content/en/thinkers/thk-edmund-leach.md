@@ -11,12 +11,8 @@ edges:
   - rel: "belongs_to", target: "Structural Anthropology", target_type: "مدرسة"
   - rel: "founder_of", target: "Ritual Semiotics", target_type: "تيار"
 related:
-  - id: "thk-turner", title: "Victor Turner", type: "مفكر"
-  - id: "thk-douglas", title: "Mary Douglas", type: "مفكر"
-  - id: "thk-geertz", title: "Clifford Geertz", type: "مفكر"
-  - id: "con-ritual-as-language", title: "Ritual as Language", type: "مفهوم"
-  - id: "con-taboo-symbolic-order", title: "Taboo and Symbolic Order", type: "مفهوم"
-  - id: "con-structural-symbolism", title: "Structural Symbolism", type: "مفهوم"
+  - id: "thk-mary-douglas", title: "Mary Douglas", type: "مفكر"
+  - id: "thk-clifford-geertz", title: "Clifford Geertz", type: "مفكر"
 gaps: []
 ---
 

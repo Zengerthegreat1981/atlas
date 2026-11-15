@@ -3,31 +3,24 @@ slug: "thk-angel"
 id: "THK-0322"
 type: "مفكر"
 level: "مبتدئ"
-title: "[EN TRANSLATION NEEDED]"
+title: "Ernest Angel"
 en: "Ernest Angel"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← Ernest Angel"
 dates: "النمسا/أمريكا · تحتاج تحقق"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "wrk-existence", title: "الوجود", type: "عمل / كتاب"
+  - id: "thk-may", title: "Rollo May", type: "مفكر"
+  - id: "wrk-existence", title: "Existence", type: "عمل / كتاب"
 gaps:
-  - "معلومات السيرة الشخصية محدودة جداً في المصادر المتاحة حالياً، ومحتاج بحثاً مخصصاً."
-  - "دوره الأساسي موثّق فقط بوصفه محرراً مشاركاً — لا يوجد توثيق كافٍ لإسهام فكري مستقل خاص به بعد."
+  - "Biographical information is very limited in the currently available sources and needs dedicated research."
+  - "His main role is documented only as a co-editor; there is not yet sufficient documentation of an independent intellectual contribution of his own."
 ---
 
-# [EN TRANSLATION NEEDED]
+# Ernest Angel
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Co-editor (with Rollo May and Henri Ellenberger) of the book "Existence" (Existence, 1958), the work regarded as the official starting point of the American existential-humanistic movement.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Why He Is Mentioned Here
 
-# إرنست أنجل
-
-محرِّر مشارك (مع رولو ماي وهنري إلينبرجر) لكتاب «الوجود» (Existence, 1958)، العمل الذي يُعدّ نقطة البداية الرسمية للحركة الوجودية-الإنسانية الأمريكية.
-
-## لماذا يُذكر هنا
-
-دوره التحريري في «الوجود» جعله جزءاً من اللحظة التأسيسية لنقل التحليل الوجودي الأوروبي إلى الإنجليزية والسياق الأمريكي، رغم أن إسهامه الفكري المستقل أقل توثيقاً بكثير من ماي أو إلينبرجر.
--->
+His editorial role in "Existence" made him part of the founding moment of bringing European existential analysis into English and the American context, although his independent intellectual contribution is much less documented than that of May or Ellenberger.

@@ -3,35 +3,28 @@ slug: "thk-ortega"
 id: "THK-0316"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "José Ortega y Gasset"
 en: "José Ortega y Gasset"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← People ← José Ortega y Gasset"
 dates: "إسبانيا · 1883–1955"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "con-freedom", title: "الحرية", type: "مفهوم"
-  - id: "thk-unamuno", title: "ميغيل دي أونامونو", type: "مفكر"
+  - id: "con-freedom", title: "Freedom", type: "مفهوم"
+  - id: "thk-unamuno", title: "Miguel de Unamuno", type: "مفكر"
 gaps:
-  - "لم تُراجع بعد نصوصه الأصلية (تأملات في دون كيخوته، ثورة الجماهير) من نسخة محققة."
-  - "يُصنَّف أحياناً ضمن الوجودية وأحياناً كفيلسوف حياة (Lebensphilosophie) مستقل عنها — التصنيف غير محسوم في الأدبيات."
+  - "His original texts (Meditations on Quixote, The Revolt of the Masses) have not yet been checked against a critical edition."
+  - "He is classified sometimes within existentialism and sometimes as a philosopher of life (Lebensphilosophie) independent of it — the classification is unsettled in the literature."
 ---
 
-# [EN TRANSLATION NEEDED]
+# José Ortega y Gasset
 
-[EN TRANSLATION NEEDED — lede paragraph]
+A Spanish philosopher, author of the famous saying "I am myself and my circumstance" (Yo soy yo y mi circunstancia), often mentioned alongside Unamuno as a Spanish voice parallel to German-French existentialism.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Gave
 
-# خوسيه أورتيجا إي جاسيت
+He formulated the idea that the self is never understood in isolation from the historical and material circumstance surrounding it — the "circumstance" is not an external constraint on freedom but a structural part of the self itself. This idea later parallels Heidegger's concept of "thrownness" (Thrownness), although the two ideas developed almost independently.
 
-فيلسوف إسباني، صاحب المقولة الشهيرة «أنا هو أنا وظرفي» (Yo soy yo y mi circunstancia)، يُذكر غالباً إلى جانب أونامونو كصوت إسباني موازٍ للوجودية الألمانية-الفرنسية.
+## Limitation
 
-## ما أعطاه
-
-صاغ فكرة أن الذات لا تُفهم أبداً بمعزل عن ظرفها التاريخي والمادي المحيط بها — «الظرف» ليس قيداً خارجياً على الحرية بل جزء بنيوي من الذات نفسها. هذه الفكرة توازي لاحقاً مفهوم «القذف» (Thrownness) عند هايدجر رغم تطور الفكرتين بشكل مستقل تقريباً.
-
-## قيد
-
-لم يستخدم مصطلح «الوجودية» لوصف فلسفته، وتصنيفه هنا يستند لتقارب موضوعي (الذات والظرف) لا لانتماء معلَن.
--->
+He did not use the term "existentialism" to describe his philosophy, and his classification here rests on an objective convergence (the self and circumstance), not on a declared affiliation.

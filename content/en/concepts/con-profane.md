@@ -13,7 +13,6 @@ related:
   - id: "con-sacred", title: "The Sacred", type: "مفهوم"
   - id: "con-ritual", title: "Ritual", type: "مفهوم"
   - id: "con-taboo", title: "Taboo", type: "مفهوم"
-  - id: "con-religion", title: "Religion", type: "مفهوم"
 gaps:
   - "Profane labor and economic systems"
   - "Sacralization of profane spaces"

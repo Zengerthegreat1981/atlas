@@ -11,8 +11,6 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
   - rel: "written_by", target: "Lévi-Strauss", target_type: "مفكر"
 related:
-  - id: "con-marriage-exchange", title: "Marriage Exchange", type: "مفهوم"
-  - id: "con-incest-taboo", title: "Incest Taboo", type: "مفهوم"
   - id: "wrk-the-gift", title: "The Gift", type: "عمل"
 sources:
   - Lévi-Strauss, Claude. The Elementary Structures of Kinship. Revised edition, trans. James Harle Bell and John Richard von Sturmer, Beacon Press, 1969.

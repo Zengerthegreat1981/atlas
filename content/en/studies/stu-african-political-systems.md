@@ -22,9 +22,6 @@ related:
   - id: con-lineage
     title: Lineage
     type: concept
-  - id: con-segmentary-societies
-    title: Segmentary Societies
-    type: concept
 gaps: []
 sources:
   - Evans-Pritchard, E. E. & Fortes, M. (Eds.). (1940). African Political Systems. Oxford University Press.

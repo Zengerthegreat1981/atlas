@@ -14,7 +14,6 @@ edges: []
 related:
     - id: "hst-livy", type: "مفكر"
   - id: "hst-tacitus", type: "مفكر"
-  - id: "hst-con-causality-ancient", type: "مفكر"
   - id: "hst-con-narrative-techniques-ancient", type: "مفكر"
 gaps: []
 ---

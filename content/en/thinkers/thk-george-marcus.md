@@ -13,8 +13,6 @@ edges:
   - rel: "developed_method", target: "Multi-Sited Ethnography", target_type: "مفهوم"
   - rel: "influenced", target: "Experimental Ethnography", target_type: "مفهوم"
 related:
-  - id: "con-multi-sited-ethnography", title: "Multi-Sited Ethnography", type: "مفهوم"
-  - id: "con-experimental-ethnography", title: "Experimental Ethnography", type: "مفهوم"
   - id: "thk-james-clifford", title: "James Clifford", type: "مفكر"
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
 gaps:

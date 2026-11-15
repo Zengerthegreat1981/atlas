@@ -13,9 +13,6 @@ active_start: 1970
 active_end: 1989
 edges: []
 related:
-  - id: con-initiation
-    title: Initiation
-    type: concept
   - id: con-rite-of-passage
     title: Rite of Passage
     type: concept

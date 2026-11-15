@@ -13,7 +13,6 @@ edges:
 related:
   - id: "con-liminality", title: "Liminality", type: "مفهوم"
   - id: "con-communitas", title: "Communitas", type: "مفهوم"
-  - id: "wrk-schism-continuity", title: "Schism and Continuity", type: "عمل"
 sources:
   - Turner, Victor W. The Ritual Process: Structure and Anti-Structure. Aldine Publishing Company, 1967.
   - Turner, Victor W. The Forest of Symbols: Aspects of Ndembu Ritual. Cornell University Press, 1967.

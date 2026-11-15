@@ -3,35 +3,28 @@ slug: "thk-berdyaev"
 id: "THK-0315"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Nikolai Berdyaev"
 en: "Nikolai Berdyaev"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Philosophy ← People ← Nikolai Berdyaev"
 dates: "روسيا/فرنسا · 1874–1948"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-marcel", title: "غابرييل مارسيل", type: "مفكر"
-  - id: "thk-shestov", title: "ليف شيستوف", type: "مفكر"
+  - id: "thk-marcel", title: "Gabriel Marcel", type: "مفكر"
+  - id: "thk-shestov", title: "Lev Shestov", type: "مفكر"
 gaps:
-  - "لم تُراجع بعد نصوصه الأصلية من نسخة محققة."
-  - "فيلسوف ديني روسي أقل حضوراً في الأدبيات الغربية المعاصرة عن المدرسة الوجودية، ويحتاج بحثاً إضافياً لتحديد أثره الفعلي على العلاج النفسي تحديداً (بخلاف الفلسفة)."
+  - "His original texts have not yet been checked against a critical edition."
+  - "A Russian religious philosopher less present in contemporary Western literature on the existential school; further research is needed to determine his actual influence on psychotherapy specifically (as distinct from philosophy)."
 ---
 
-# [EN TRANSLATION NEEDED]
+# Nikolai Berdyaev
 
-[EN TRANSLATION NEEDED — lede paragraph]
+A Russian religious philosopher, one of the most prominent voices of Orthodox Christian existentialism, focused on freedom as prior even to being itself.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Gave
 
-# نيكولاي بيردييف
+He made freedom a primary metaphysical concept that precedes even the act of divine creation in his own theology — a position that is extreme even within religious existentialism itself. He strongly opposed any system in which the individual is reduced to a mere social or historical function.
 
-فيلسوف ديني روسي، من أبرز أصوات الوجودية المسيحية الأرثوذكسية، مركّز على الحرية بوصفها أسبق حتى من الوجود نفسه.
+## Limitation
 
-## ما أعطاه
-
-جعل الحرية مفهوماً ميتافيزيقياً أولياً يسبق حتى فعل الخلق الإلهي في تصوره اللاهوتي الخاص — وهو موقف متطرف حتى داخل الوجودية الدينية نفسها. عارض بشدة أي نظام يُختزل فيه الفرد إلى مجرد وظيفة اجتماعية أو تاريخية.
-
-## قيد
-
-أثره على الممارسة العلاجية (لا الفلسفة فقط) غير موثّق بالقدر نفسه الذي وُثّق به تيليش أو مارسيل في هذا الأطلس، ويحتاج بحثاً مخصصاً.
--->
+His influence on therapeutic practice (not only philosophy) is not documented to the same degree as that of Tillich or Marcel in this Atlas, and needs dedicated research.

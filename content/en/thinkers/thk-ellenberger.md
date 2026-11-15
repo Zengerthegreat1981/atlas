@@ -3,31 +3,24 @@ slug: "thk-ellenberger"
 id: "THK-0323"
 type: "مفكر"
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Henri F. Ellenberger"
 en: "Henri F. Ellenberger"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← Henri F. Ellenberger"
 dates: "كندا (أصل سويسري) · 1905–1993"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-may", title: "رولو ماي", type: "مفكر"
-  - id: "wrk-existence", title: "الوجود", type: "عمل / كتاب"
+  - id: "thk-may", title: "Rollo May", type: "مفكر"
+  - id: "wrk-existence", title: "Existence", type: "عمل / كتاب"
 gaps:
-  - "لم يُراجع بعد كتابه الأساسي (اكتشاف اللاوعي / The Discovery of the Unconscious) من نسخة أصلية."
-  - "مؤرخ للطب النفسي أكثر منه ممارساً وجودياً مباشراً — حدود إدراجه هنا (كمحرِّر مشارك لا كمنظّر مستقل) تحتاج توضيحاً صريحاً."
+  - "His main book (The Discovery of the Unconscious) has not yet been reviewed from an original copy."
+  - "A historian of psychiatry more than a direct existential practitioner — the limits of his inclusion here (as a co-editor, not an independent theorist) need explicit clarification."
 ---
 
-# [EN TRANSLATION NEEDED]
+# Henri Ellenberger
 
-[EN TRANSLATION NEEDED — lede paragraph]
+A Swiss-Canadian psychiatrist and historian of psychiatry, co-editor (with Rollo May and Ernest Angel) of the book "Existence" (1958), and author of the classic historical reference "The Discovery of the Unconscious".
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Why He Is Mentioned Here
 
-# هنري إلينبرجر
-
-طبيب نفسي ومؤرخ للطب النفسي سويسري-كندي، محرِّر مشارك (مع رولو ماي وإرنست أنجل) لكتاب «الوجود» (Existence, 1958)، وصاحب المرجع التاريخي الكلاسيكي «اكتشاف اللاوعي».
-
-## لماذا يُذكر هنا
-
-بصفته مؤرخاً للطب النفسي لا منظّراً وجودياً بالمعنى الضيق، أسهامه الأهم هو توثيق السياق التاريخي الذي نشأت منه المدرسة الوجودية العلاجية (الفينومينولوجيا الأوروبية، الداسينزانالysis)، إلى جانب دوره التحريري المباشر في «الوجود» الذي نقل هذا التراث للإنجليزية.
--->
+As a historian of psychiatry rather than an existential theorist in the narrow sense, his most important contribution is documenting the historical context from which the existential therapeutic school arose (European phenomenology, Daseinsanalysis), alongside his direct editorial role in "Existence," which carried this heritage into English.

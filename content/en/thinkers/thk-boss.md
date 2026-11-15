@@ -3,47 +3,40 @@ slug: "thk-boss"
 id: "THK-0106"
 type: "مفكر"
 level: "متقدم"
-title: "[EN TRANSLATION NEEDED]"
+title: "Medard Boss"
 en: "Medard Boss"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential Psychotherapy ← People ← Medard Boss"
 dates: "سويسرا"
 edges:
   - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
 related:
-  - id: "thk-binswanger", title: "بينسوانغر", type: "مفكر"
-  - id: "thk-heidegger", title: "هايدجر", type: "مفكر"
-  - id: "br-daseins", title: "التيار", type: "تيار"
+  - id: "thk-binswanger", title: "Binswanger", type: "مفكر"
+  - id: "thk-heidegger", title: "Heidegger", type: "مفكر"
+  - id: "br-daseins", title: "The Current", type: "تيار"
 gaps:
-  - "تواريخ الندوات وطبعاتها — تحتاج تثبيتاً"
+  - "Dates of the seminars and their editions — need confirmation"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Medard Boss
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The only one who worked directly with Heidegger for years, and who produced the formulation the philosopher helped shape.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## What He Did
 
-# ميدارد بوس
+He organized seminars that brought Heidegger together with psychiatrists over about ten years, and built on them a formulation closer to the philosophical original.
 
-الوحيد الذي عمل مع هايدجر مباشرةً سنوات، وأنتج الصيغة التي شارك الفيلسوف في تشكيلها.
+## His Position on the Unconscious
 
-## ما فعله
+He rejected it as a theoretical construct not given in experience. The alternative: what is not seen is not hidden but not yet opened up.
 
-نظّم ندوات جمعت هايدجر بأطباء نفسيين على مدى نحو عشر سنوات، وبنى عليها صيغة أقرب إلى الأصل الفلسفي.
+## His Position on Technique
 
-## موقفه من اللاوعي
+Wholly opposed. No goals, no exercises, no measurement.
 
-رفضه بوصفه بناءً نظرياً لا يُعطى في الخبرة. البديل: ما لا يُرى ليس مخفياً بل غير منفتح بعد.
+## His Impact
 
-## موقفه من التقنية
+Smaller than Binswanger's in fame, and greater than his in philosophical precision. And most who read about "Daseinsanalysis" in English are in fact reading his formulation.
 
-رافض تماماً. لا أهداف ولا تمارين ولا قياس.
+## Major Works
 
-## أثره
-
-أصغر من أثر بينسوانغر في الشهرة، وأكبر منه في الدقة الفلسفية. ومعظم من يقرأ عن «الدازاين أناليز» بالإنجليزية يقرأ في الحقيقة صيغته.
-
-## أهم أعماله
-
-معنى الانحرافات الجنسية ومحتواها (Sinn und Gehalt der sexuellen Perversionen, 1947) · التحليل النفسي والتحليل الوجودي (الدازاين) (Psychoanalyse und Daseinsanalytik, 1957) · أسس الطب وعلم النفس (Grundriss der Medizin und der Psychologie, 1971) · ندوات تسوليكون (مع هايدجر) (Zollikoner Seminare, 1987 (نُشرت بعد وفاته))
--->
+Meaning and Content of Sexual Perversions (Sinn und Gehalt der sexuellen Perversionen, 1947) · Psychoanalysis and Daseinsanalysis (Psychoanalyse und Daseinsanalytik, 1957) · Foundations of Medicine and Psychology (Grundriss der Medizin und der Psychologie, 1971) · Zollikon Seminars (with Heidegger) (Zollikoner Seminare, 1987 (published posthumously))

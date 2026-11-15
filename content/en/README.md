@@ -1,25 +1,25 @@
-# `content/en/` — حالةُ النسخة الإنجليزية (مُجمَّدة)
+# `content/en/` — English edition (in progress, English-first)
 
-**الحالة: مجمَّدةٌ بقرارٍ مُعلَن، لا مهجورةٌ بإغفال.** — 2026-09-10
+**Status (2026-11-15):** English is the active product; Arabic translation is deferred until the
+English edition is closed (audit phases 0–6, then 7). Older "frozen / 130 / 424 placeholders"
+statements are historical. Measure, don't quote:
 
-القياس: 130 ملفاً في `content/en/`، **وكلُّها الـ130 تحمل
-`[EN TRANSLATION NEEDED]`** في `title` و`crumb` — أي أنّ لا ملفَ واحدَ مترجَمٌ
-فعلاً. ومقابلُها في `content/ar/` **6,674 ملفاً**، أي أنّ التغطيةَ الإنجليزيةَ
-أقلُّ من 2% بنيةً وصفرٌ ترجمةً.
+```bash
+python scripts/check_en_release.py            # report + reports/en-scope-registry.csv
+python scripts/check_en_release.py --strict   # exit 1 while release blockers remain
+python scripts/build_atlas.py en --strict     # build; fail on any unreadable frontmatter line
+```
 
-ومخرجاتُ البناء الإنجليزيةُ (`data-en.json` و`index-en.html`) مبنيّةٌ بتاريخ
-**2026-08-19**، أي أنها لا تعرف شيئاً من عمل جلسات سبتمبر: لا المدارسَ الإحدى
-والعشرين المُنشأة، ولا الدمجَ، ولا تصحيحَ الأنساب.
+## Frontmatter formats read (`scripts/atlas_frontmatter.py`)
+1. Compact quoted items: `- id: "x", title: "y", type: "z"`
+2. Multi-line YAML items (bare or quoted)
+3. Short items without title: `- id: "x", type: "z"` (title resolved from the target node)
 
-**القرار:** لا تُبنى النسخةُ الإنجليزيةُ ولا تُنشَر حتى تُترجَم فعلاً. والسببُ
-أنّ بناءها بحالتها هذه يُنتج أطلساً كلُّ عنوانٍ فيه «[EN TRANSLATION NEEDED]» —
-وهو أسوأُ من غياب النسخة.
+Scalars may be quoted, single-quoted or bare; `sources:` / `gaps:` are lists. Unreadable lines are
+reported, never silently dropped.
 
-**ما يلزم قبل إعادة التفعيل:**
-1. ترجمةُ `title` و`crumb` و`lede` والأقسام لكلِّ ملفّ (لا الترويسةَ وحدها).
-2. مطابقةُ الـslugs على `content/ar/` — والفارقُ اليومَ واحد: `thk-buber` هنا
-   يقابله `thk-mbuber` في العربية، فيجب توحيدُه.
-3. ترجمةُ `scripts/template/data_extras.json` (بياناتُ العرض والتصفّح) — وهي
-   عربيةٌ بالكامل، فلا يكفي بناءُ العقد.
-4. `python3 scripts/build_atlas.py en` ثم فحصٌ مقابلٌ لـ`audit_atlas.py`
-   (وهو اليومَ يفحص `content/ar` فقط).
+## Status vocabulary
+`placeholder` · `draft-pending` · `draft-short` · `review-candidate` · `reviewed` · `published`.
+`review-candidate` = no automatic flag only; sources/claims still need human review.
+
+See `reports/EN_STATUS.md` for what this pass did and what remains.
