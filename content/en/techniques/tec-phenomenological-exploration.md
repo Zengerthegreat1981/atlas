@@ -27,7 +27,7 @@ The method behind the practice has three moves. The first is the epoché, or bra
 
 ## History
 
-The philosophical root is direct: Husserl's epoché, set out in *Ideas* (1913) and prepared in the *Logical Investigations* (1900–1901). Maurice Merleau-Ponty carried the method into the body in *Phenomenology of Perception* (1945), arguing that experience is always embodied. Binswanger took up this method in the 1930s, developing Daseinsanalyse under the influence of Heidegger's *Being and Time* (1927); his selected papers appeared in English as *Being-in-the-World* (1963). Boss reworked it in the 1950s and 1960s into a closer clinical application of Heideggerian phenomenology; his *Psychoanalysis and Daseinsanalysis* appeared in English in 1963. Spinelli's *The Interpreted World* (1989; 2nd ed. 2005) gave the method its clearest English-language exposition. Van Manen's *Researching Lived Experience* (1990) made it a way of studying human experience, and Giorgi developed a formal research method for psychology on the same principles, published in *Phenomenology and Psychological Research* (1985).
+The philosophical root is direct: Husserl's epoché, set out in *Ideas* (1913) and prepared in the *Logical Investigations* (1900–1901). Maurice Merleau-Ponty carried the method into the body in *Phenomenology of Perception* (1945), arguing that experience is always embodied. Binswanger took up this method from the late 1920s and 1930s, developing Daseinsanalyse under the influence of Heidegger's *Being and Time* (1927); his selected papers appeared in English as *Being-in-the-World* (1963). Boss reworked it from the 1940s onward into a closer clinical application of Heideggerian phenomenology; his *Psychoanalysis and Daseinsanalysis* appeared in German in 1957 and in English in 1963. Spinelli's *The Interpreted World* (1989; 2nd ed. 2005) gave the method an influential English-language exposition. Van Manen's *Researching Lived Experience* (1990) made it a way of studying human experience, and Giorgi developed a formal research method for psychology on the same principles, set out in the volume he edited, *Phenomenology and Psychological Research* (1985).
 
 ## How it works
 
@@ -59,7 +59,7 @@ Husserl's *Ideas* (1913) is the philosophical source of the epoché; Heidegger's
 - Binswanger, Ludwig (1963). *Being-in-the-World: Selected Papers of Ludwig Binswanger*. Basic Books.
 - Boss, Medard (1963). *Psychoanalysis and Daseinsanalysis*. Basic Books.
 - Yalom, Irvin D. (1980). *Existential Psychotherapy*. Basic Books.
-- Giorgi, Amedeo (1985). *Phenomenology and Psychological Research*. Duquesne University Press.
+- Giorgi, Amedeo, ed. (1985). *Phenomenology and Psychological Research*. Duquesne University Press.
 - Spinelli, Ernesto (1989). *The Interpreted World: An Introduction to Phenomenological Psychology*, 1st ed. SAGE. (2nd ed. 2005.)
 - Van Manen, Max (1990). *Researching Lived Experience: Human Science for an Action Sensitive Pedagogy*. State University of New York Press.
 - Van Deurzen, Emmy (2012). *Existential Counselling and Psychotherapy in Practice*, 3rd ed. SAGE.

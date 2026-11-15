@@ -10,13 +10,12 @@ crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Prolo
 dates: null
 active_start: null
 active_end: "مستمر"
-dsm5tr_code: "309.89"
+dsm5tr_code: "F43.81"
 icd11_code: "6B42"
 edges: []
 related:
  - id: "con-sadness", title: "Sadness", type: "مفهوم"
-gaps:
- - "هذا التصنيف نفسه موضع جدل علمي حول حدوده الزمنية والثقافية، ويستحق تحويله لاحقاً لعنصر dbt- مستقل يناقش الجدل حول شرعنة هذا التصنيف أصلاً"
+gaps: []
 ---
 
 # Prolonged Grief Disorder
@@ -33,7 +32,7 @@ The two manuals differ in detail. DSM-5-TR requires the death of a person close 
 
 ## History
 
-The category has a long prehistory as "complicated grief." Holly Prigerson and colleagues proposed diagnostic criteria for prolonged grief disorder in *PLoS Medicine* in 2009, arguing that a distinct syndrome could be separated from depression and normal bereavement on the basis of yearning and its correlates. ICD-11 then included prolonged grief disorder as a new diagnosis, and the American Psychiatric Association approved its inclusion in Section II of DSM-5-TR (2022), replacing the earlier provisional category. 
+The category has a long prehistory as "complicated grief." Holly Prigerson and colleagues proposed diagnostic criteria for prolonged grief disorder in *PLoS Medicine* in 2009, arguing that a distinct syndrome could be separated from depression and normal bereavement on the basis of yearning and its correlates. ICD-11 then included prolonged grief disorder as a new diagnosis, and the American Psychiatric Association approved its inclusion in Section II of DSM-5-TR (2022), superseding the earlier provisional category of persistent complex bereavement disorder, which DSM-5 had placed in Section III as a condition for further study. 
 
 ## Causes and mechanisms
 
@@ -45,7 +44,7 @@ The treatment with the strongest evidence is complicated grief treatment, a stru
 
 ## The controversy
 
-The controversy over the category should be recorded plainly, since it is part of the subject. Critics argue that setting a time limit on grief — twelve months in DSM-5-TR, six in ICD-11 — medicalises a human experience whose normal duration varies enormously across cultures and religions, and risks turning ordinary mourning into a diagnosis with a prescription attached. Defenders reply that the criteria do not pathologise grief as such, but identify a minority whose grief is genuinely impairing and who benefit from a specific treatment that generic support does not provide, and that the cultural-exceedance clause in both manuals is a real safeguard rather than a formality. The debate is a live one in the literature, and it is the reason the category's own gap note in this Atlas calls for a separate debate entry on the legitimacy of the classification itself.
+The controversy over the category should be recorded plainly, since it is part of the subject. Critics argue that setting a time limit on grief — twelve months in DSM-5-TR, six in ICD-11 — medicalises a human experience whose normal duration varies enormously across cultures and religions, and risks turning ordinary mourning into a diagnosis with a prescription attached. Defenders reply that the criteria do not pathologise grief as such, but identify a minority whose grief is genuinely impairing and who benefit from a specific treatment that generic support does not provide, and that the cultural-exceedance clause in both manuals is a real safeguard rather than a formality. The debate is a live one in the literature.
 
 ## Key works
 

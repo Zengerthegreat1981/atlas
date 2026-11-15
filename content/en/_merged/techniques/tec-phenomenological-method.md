@@ -9,7 +9,7 @@ en: "Phenomenological Exploration"
 crumb: "Psychotherapy ← Techniques ← Phenomenological Exploration"
 dates: "Germany · from 1913"
 active_start: 1913
-active_end: "ongoing"
+active_end: "مستمر"
 edges: []
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"

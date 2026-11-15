@@ -9,12 +9,11 @@ en: "Motivational Interviewing"
 crumb: "Psychotherapy ← Techniques ← Motivational Interviewing"
 dates: "United States · from 1983"
 active_start: 1983
-active_end: "ongoing"
+active_end: "مستمر"
 edges: []
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
-gaps:
-  - "The Arabic counterpart of this entry is a merged redirect to sch-motivational-interviewing; the English entry is drafted here as the technique on its own stub terms."
+gaps: []
 ---
 
 # Motivational Interviewing
@@ -35,7 +34,7 @@ A session begins with engagement: building a working alliance before any talk of
 
 ## Evidence and Influence
 
-MI is among the most researched counselling methods ever developed. A meta-analysis by Hettema, Steele and Miller in 2005, covering 72 controlled trials, found modest but consistent effects across problem areas, with stronger effects when MI was compared with no treatment and when it was delivered in brief form. Lundahl and colleagues, in a 2010 meta-analysis of 119 studies, found that MI outperformed comparison treatments in about three-quarters of the studies, with effects that held over time. The method has also been adapted: brief motivational interventions in emergency departments, motivational enhancement therapy in Project MATCH, and group MI. Its influence reaches beyond its own trials: the idea that the therapist should evoke rather than install motivation has reshaped addiction treatment, health behaviour change and even the training of doctors and nurses.
+MI is among the most researched counselling methods ever developed. A meta-analysis by Hettema, Steele and Miller in 2005, covering 72 controlled trials, found effects that were modest but consistent across problem areas, with brief MI performing comparably to longer interventions. Lundahl and colleagues, in a 2010 meta-analysis of 119 studies, found small but significant effects of MI compared with weaker comparison conditions, and effects comparable to those of other active treatments. The method has also been adapted: brief motivational interventions in emergency departments, motivational enhancement therapy in Project MATCH, and group MI. Its influence reaches beyond its own trials: the idea that the therapist should evoke rather than install motivation has reshaped addiction treatment, health behaviour change and even the training of doctors and nurses.
 
 ## Advantages and Limitations
 

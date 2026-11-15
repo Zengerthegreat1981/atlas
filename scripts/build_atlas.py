@@ -263,7 +263,7 @@ TYPE_EN = {
     "دراسة وبحث": "Study and research", "بديهية/مبدأ تأسيسي": "Axiom / founding principle",
     "نقد خارجي موثَّق": "Documented external critique", "حوار مع مدرسة مجاورة": "Dialogue with a neighbouring school",
     "حدث تاريخي": "Historical event", "خبرة معيشة": "Lived experience", "استعارة/مجاز مؤسِّس": "Founding metaphor",
-    "سؤال مولِّد": "Generative question", "مجال": "Field", "مفكرون": "Thinkers", "مفكرة": "Thinker", "منهج": "Method", "فرع": "Branch", "حقل": "Field", "تدخّل": "Intervention", "متلازمة": "Syndrome", "مصطلح لغوي متنازع عليه": "Contested linguistic term",
+    "سؤال مولِّد": "Generative question", "مجال": "Field", "نظام تصنيف تشخيصي": "Diagnostic classification system", "مفكرون": "Thinkers", "مفكرة": "Thinker", "منهج": "Method", "فرع": "Branch", "حقل": "Field", "تدخّل": "Intervention", "متلازمة": "Syndrome", "مصطلح لغوي متنازع عليه": "Contested linguistic term",
 }
 
 

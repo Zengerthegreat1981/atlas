@@ -20,8 +20,7 @@ related:
   - id: "thk-bugental", title: "James Bugental", type: "مفكر"
   - id: "dbt-british-yalom", title: "The British against the American Current", type: "جدل"
   - id: "rel-humanistic", title: "Humanistic Psychology", type: "علاقة"
-gaps:
-  - "بيانات الأعمال المرجعية وتواريخها — تحتاج تثبيتاً"
+gaps: []
 ---
 
 # Existential-Humanistic
@@ -34,7 +33,7 @@ Its question is: what is this person fleeing from? The hypothesis is that many s
 
 ## How It Was Made
 
-Existential thought reached the United States through Rollo May (1909–1994), who had studied in Vienna and encountered European existential analysis at first hand. With Ernest Angel and Henri Ellenberger he edited *Existence: A New Dimension in Psychiatry and Psychology* (1958), the book that introduced European phenomenology to an American audience. James Bugental (1915–2008) then built the actual practice in the 1960s and 1970s, founding what he called existential-analytic therapy, and setting out its stance in *The Search for Authenticity* (1965): presence, the search for what is real in the client, and the therapist's disciplined use of their own subjectivity. Irvin Yalom (born 1931) gathered the tradition into its standard academic form in *Existential Psychotherapy* (1980), organising it around the four ultimate concerns and illustrating each with detailed case material, and carried it to a general readership with *Love's Executioner* (1989). Clark Moustakas contributed the study of loneliness (1961), and Kirk Schneider later reformulated the tradition as existential-integrative, first with May in *The Psychology of Existence* (1995) and then in his edited *Existential-Integrative Psychotherapy* (2008).
+Existential thought reached the United States through Rollo May (1909–1994), who had studied in Europe, including Vienna, and was strongly influenced by European existential thought and by Paul Tillich. With Ernest Angel and Henri Ellenberger he edited *Existence: A New Dimension in Psychiatry and Psychology* (1958), the book that introduced European phenomenology to an American audience. James Bugental (1915–2008) then built the actual practice in the 1960s and 1970s, founding what he called existential-analytic therapy, and setting out its stance in *The Search for Authenticity* (1965): presence, the search for what is real in the client, and the therapist's disciplined use of their own subjectivity. Irvin Yalom (born 1931) gathered the tradition into its standard academic form in *Existential Psychotherapy* (1980), organising it around the four ultimate concerns and illustrating each with detailed case material, and carried it to a general readership with *Love's Executioner* (1989). Clark Moustakas contributed the study of loneliness (1961), and Kirk Schneider later reformulated the tradition as existential-integrative, first with May in *The Psychology of Existence* (1995) and then in his own *Existential-Integrative Psychotherapy* (2008).
 
 ## What Distinguishes It
 
@@ -57,4 +56,4 @@ The criticism is persistent: an individualism that ignores the social and materi
 - Irvin D. Yalom, *Existential Psychotherapy*, 1980.
 - Irvin D. Yalom, *Love's Executioner and Other Tales of Psychotherapy*, 1989.
 - Kirk J. Schneider and Rollo May, *The Psychology of Existence: An Integrative, Clinical Perspective*, 1995.
-- Kirk J. Schneider (ed.), *Existential-Integrative Psychotherapy: Guideposts to the Core of Practice*, 2008.
+- Kirk J. Schneider, *Existential-Integrative Psychotherapy: Guideposts to the Core of Practice*, 2008.

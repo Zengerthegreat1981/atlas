@@ -16,8 +16,7 @@ related:
  - id: "con-anxiety", title: "Anxiety", type: "مفهوم"
  - id: "thk-may", title: "Rollo May", type: "مفكر"
 gaps:
- - "لم تُحدَّد بعد المعايير التشخيصية الدقيقة من مصدر أولي محقق (كتيبات التشخيص الرسمية) — هذا المدخل وصفي عام فقط حتى الآن"
- - "لا يوجد بعد ربط موثق بمصادر عربية عن انتشار أو تجليات هذا الاضطراب في السياق العربي"
+  - "Prevalence and presentation of GAD in the Arab context: not yet covered."
 ---
 
 # Generalized Anxiety Disorder (GAD)
@@ -34,7 +33,7 @@ DSM-5-TR requires excessive anxiety and worry, occurring more days than not for 
 
 ## History
 
-Generalised anxiety has a long history under other names. Nineteenth-century physicians described neurasthenia, a state of nervous exhaustion that included chronic worry among its symptoms, and early psychoanalytic writing treated free-floating anxiety as a central clinical problem. The modern category was created by DSM-III in 1980, which defined generalised anxiety disorder as a residual category for anxiety that did not fit the other anxiety disorders, and it was substantially revised in DSM-III-R (1987) and DSM-IV (1994), which made excessive, uncontrollable worry the central feature and set the six-month duration. Thomas Borkovec and colleagues, in a 1983 paper, gave the field its dominant account of worry itself: worry is a form of cognitive avoidance, an attempt to think one's way out of threat that prevents the emotional processing of the feared material and thereby maintains the anxiety. DSM-5 (2013) and DSM-5-TR (2022) retained the category with minor changes, while ICD-11 (2019) adopted it as code 6B00 and also recognised mixed anxiety and depressive disorder (6A73) as a separate category for presentations that combine symptoms of both without meeting the full threshold of either.
+Generalised anxiety has a long history under other names. Nineteenth-century physicians described neurasthenia, a state of nervous exhaustion that included chronic worry among its symptoms, and early psychoanalytic writing treated free-floating anxiety as a central clinical problem. The modern category was created by DSM-III in 1980, which defined generalised anxiety disorder as a residual category for anxiety that did not fit the other anxiety disorders, and it was substantially revised in DSM-III-R (1987), which made excessive, uncontrollable worry the central feature and set the six-month duration, and in DSM-IV (1994). Thomas Borkovec and colleagues, beginning with a 1983 study of the characteristics of worry and developing the account over later decades, gave the field its dominant model of worry itself: worry is a form of cognitive avoidance, an attempt to think one's way out of threat that prevents the emotional processing of the feared material and thereby maintains the anxiety. DSM-5 (2013) and DSM-5-TR (2022) retained the category with minor changes, while ICD-11 (2019) adopted it as code 6B00 and also recognised mixed anxiety and depressive disorder (6A73) as a separate category for presentations that combine symptoms of both without meeting the full threshold of either.
 
 ## Causes and mechanisms
 
@@ -50,12 +49,13 @@ Generalised anxiety disorder as a clinical condition must not be confused with e
 
 ## Key works
 
-Borkovec and colleagues' 1983 paper is the founding statement of the cognitive-avoidance account of worry. Stein and Sareen's 2015 review in the *New England Journal of Medicine* is the standard clinical summary. May's *The Meaning of Anxiety* (1977) is the classic existential treatment. DSM-5-TR (2022) is the current diagnostic source.
+Borkovec and colleagues' 1983 paper is an early empirical study of worry, and Borkovec, Alcaine and Behar (2004) set out the avoidance theory of worry. Stein and Sareen's 2015 review in the *New England Journal of Medicine* is the standard clinical summary. May's *The Meaning of Anxiety* (1977) is the classic existential treatment. DSM-5-TR (2022) is the current diagnostic source.
 
 ## Sources
 
 - American Psychiatric Association (1980). *Diagnostic and Statistical Manual of Mental Disorders*, 3rd ed. (DSM-III).
 - Borkovec, Thomas D., Robinson, Elwood, Pruzinsky, Thomas, and DePree, Jean A. (1983). Preliminary exploration of worry: some characteristics and processes. *Behaviour Research and Therapy*, 21(1), 9–16.
+- Borkovec, Thomas D., Alcaine, Ovsanna M., and Behar, Evelyn (2004). Avoidance theory of worry and generalized anxiety disorder. In R. G. Heimberg, C. L. Turk, and D. S. Mennin (Eds.), *Generalized Anxiety Disorder: Advances in Research and Practice*. Guilford Press.
 - May, Rollo (1977). *The Meaning of Anxiety*, rev. ed. W. W. Norton.
 - Spitzer, Robert L., et al. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. *Archives of Internal Medicine*, 166(10), 1092–1097.
 - Stein, Murray B., and Sareen, Jitender (2015). Generalized anxiety disorder. *New England Journal of Medicine*, 373(21), 2059–2068.

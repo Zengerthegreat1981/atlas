@@ -14,8 +14,8 @@ edges: []
 related:
   - id: "con-anxiety-existential", title: "Anxiety (Cognitive and Neuroscientific)", type: "مفهوم"
 gaps:
-  - "لا تتوفر تفاصيل دقيقة عن التعريب والتقنين العربي لهذا المقياس في مكتبة المصادر الحالية"
-  - "لم تُضَف بعد أدوات قياس لبقية المشاعر (الخوف، الحزن، الخزي، الغيرة) رغم وجودها الفعلي في الأدبيات العلمية"
+  - "Arabic adaptation and standardization: not yet covered"
+  - "Instruments for other emotions (fear, sadness, shame, jealousy): not yet covered"
 ---
 
 # State-Trait Anxiety Inventory (STAI)
@@ -28,11 +28,11 @@ The STAI has forty items divided equally between two twenty-item scales. The Sta
 
 ## Development and structure
 
-Spielberger's distinction between state and trait anxiety grew out of his 1966 edited volume Anxiety and Behavior and his 1972 theoretical paper on anxiety as an emotional state, which argued that the confusion in anxiety research came from treating a transitory emotional condition and a stable personality disposition as if they were the same thing. The first STAI manual appeared in 1970, written with Richard Gorsuch and Robert Lushene, and was normed on American university students, military personnel, and psychiatric patients. The revised Form Y of 1983 replaced several items, improved the psychometric properties, and became the version used in the overwhelming majority of subsequent research. The instrument's two-scale structure is its lasting methodological contribution: it made the state-trait distinction measurable, and the distinction then spread far beyond anxiety into anger, curiosity, and other emotions.
+Spielberger's distinction between state and trait anxiety grew out of his 1966 edited volume Anxiety and Behavior and his 1972 theoretical paper on anxiety as an emotional state, which argued that the confusion in anxiety research came from treating a transitory emotional condition and a stable personality disposition as if they were the same thing. The first STAI manual appeared in 1970, written with Richard Gorsuch and Robert Lushene, and was normed on American samples that included university students and other groups. The revised Form Y of 1983 revised some items, improved the psychometric properties, and became the version used in the overwhelming majority of subsequent research. The instrument's two-scale structure is its lasting methodological contribution: it made the state-trait distinction measurable, and the distinction was later applied by Spielberger and others to other constructs, such as anger and curiosity.
 
 ## Psychometric properties
 
-The STAI shows high internal consistency, with Cronbach's alpha usually above 0.90 for the Trait scale and in the 0.86 to 0.95 range for the State scale across many samples. Test-retest reliability is markedly higher for the Trait scale than for the State scale, exactly as theory predicts: a trait should be stable over time, while a state should change as circumstances change. Concurrent validity is well documented against other anxiety measures, and the State scale is sensitive to change, rising before stressful events such as surgery or examinations and falling afterwards. The instrument has been translated into dozens of languages, including several Arabic versions developed in Egypt, Kuwait, and the Gulf states, though these remain scattered and unstandardised, with no single officially approved Arabic edition.
+The STAI shows high internal consistency, with Cronbach's alpha typically between about 0.86 and 0.95 for both scales across many samples. Test-retest reliability is markedly higher for the Trait scale than for the State scale, exactly as theory predicts: a trait should be stable over time, while a state should change as circumstances change. Concurrent validity is well documented against other anxiety measures, and the State scale is sensitive to change, rising before stressful events such as surgery or examinations and falling afterwards. The instrument has been translated into dozens of languages.
 
 ## Uses and limits
 

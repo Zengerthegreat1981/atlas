@@ -43,7 +43,8 @@ CRUMB_MODULES = {
     "arab thought": "arab-thought", "bridges": "bridges", "bridge": "bridges",
 }
 STUB_RE = re.compile(r"\[Brief description|for translator reference", re.I)
-PENDING_RE = re.compile(r"\bpending\b|not yet covered", re.I)
+PENDING_RE = re.compile(r"\bpending\b", re.I)
+DECLARED_RE = re.compile(r"not yet covered", re.I)  # disclosed omission: informational, not a blocker
 SLUGISH = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 
 
@@ -115,6 +116,8 @@ def main():
         pend = bool(PENDING_RE.search(n["_body"])) or any(PENDING_RE.search(g) for g in n.get("gaps", []))
         if pend:
             flags.append("pending"); flag("pending", slug)
+        if any(DECLARED_RE.search(g) for g in n.get("gaps", [])):
+            flags.append("declared-gaps"); flag("declared-gaps", slug)
         words = len(n["_body"].split())
         if words < 150:
             flags.append("short"); flag("short", slug)

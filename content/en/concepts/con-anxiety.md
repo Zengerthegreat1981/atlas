@@ -4,21 +4,22 @@ id: "CON-0406"
 type: "مفهوم"
 part: psychology
 level: "مبتدئ"
-title: "Anxiety"
-en: "Anxiety"
-crumb: "Existential Psychotherapy ← Concepts ← Anxiety"
+title: "Anxiety (Existentialist School View)"
+en: "Anxiety (Existentialist School View)"
+crumb: "Psychology ← Concepts ← Anxiety (Existentialist School View)"
 edges:
   - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
+  - id: "con-anxiety-existential", title: "Anxiety: Existential, Psychological and Neuroscientific Accounts", type: "مفهوم"
   - id: "con-death", title: "Death", type: "مفهوم"
   - id: "thk-may", title: "Rollo May", type: "مفكر"
   - id: "dis-panic-disorder", title: "Panic Disorder", type: "اضطراب/حالة إكلينيكية"
   - id: "thk-tillich", title: "Paul Tillich", type: "مفكر"
 gaps:
-  - "Textual passages for each formulation — not yet entered"
+  - "Textual passages for each formulation: not yet covered"
 ---
 
-# Anxiety
+# Anxiety (Existentialist School View)
 
 The concept the school began from, and the one on which it agrees most in principle and differs most in detail.
 
@@ -60,4 +61,17 @@ It **does not mean** that acute clinical anxiety (panic attacks, documented gene
 | Yalom | Existential anxiety arises from the four concerns, most of it is repressed, and symptoms are defences against it. | Work on the defences, not on the anxiety directly. | Differs from Freud on the source, and from Boss on method. |
 | Laing | Ontological insecurity: not being certain of one's own existence — its continuity, boundaries and reality. | Explains extreme forms of anxiety that the other formulations do not. | Goes beyond Jaspers's limit in how much can be understood. |
 | van Deurzen | Anxiety is an indicator that one of the four dimensions of existence is under pressure. The question: which dimension? | Survey the dimensions instead of searching for a single cause. | Broader than the four concerns and less sharp than they are. |
-| Frankl | Anticipatory anxiety is a loop: fear of the symptom summons it. Paradoxical intention breaks the loop. | The only named technique in the school, and closer to cognitive-behavioural than to existential. | Shows that Frankl is practically closer to technique than the rest of the movement. |
+| Frankl | Anticipatory anxiety is a loop: fear of the symptom summons it. Paradoxical intention breaks the loop. | The best-known named technique in the school, and closer to cognitive-behavioural than to existential. | Shows that Frankl is practically closer to technique than the rest of the movement. |
+
+## Scope and Relation to Neighbouring Entries
+
+This entry sets out how the existentialist school treats anxiety as a founding concern, where its authors agree and where they differ. The companion entry covers the wider philosophical, psychological and neuroscientific literature and the boundary with clinical anxiety disorders.
+
+## Sources
+
+- Kierkegaard, S. (1844). *The Concept of Anxiety*.
+- Heidegger, M. (1927). *Being and Time*. Max Niemeyer.
+- May, R. (1950). *The Meaning of Anxiety*. Ronald Press.
+- Tillich, P. (1952). *The Courage to Be*. Yale University Press.
+- Laing, R. D. (1960). *The Divided Self*. Tavistock.
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

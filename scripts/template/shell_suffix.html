@@ -1498,7 +1498,8 @@ function renderEnModule(key){
  app.innerHTML=
   '<div class="crumbs2"><span class="chip link" data-go="'+ATLAS_HOME+'">Home</span> ← <span class="cnow">'+escHTML(name)+'</span></div>'+
   '<div class="node hero"><div class="heromain"><div class="nodetop"><h1>'+escHTML(name)+'</h1></div>'+
-  '<p class="lede">'+escHTML(meta?meta[2]:'')+' '+list.length+' entries.</p></div></div>'+
+  '<p class="lede">'+escHTML(meta?meta[2]:'')+' '+list.length+' entries.</p>'+
+  (DATA.nodes['fld-'+key]?'<p><span class="chip link" data-go="fld-'+key+'">Start here: introduction and reading paths →</span></p>':'')+'</div></div>'+
   Object.entries(byType).map(([t,items])=>'<div class="node"><h6>'+escHTML(t)+' ('+items.length+')</h6><div class="chips">'+
     items.sort((a,b)=>String(a[1].title).localeCompare(String(b[1].title))).map(([k,n])=>'<span class="chip link" data-go="'+escHTML(k)+'">'+escHTML(n.title)+'</span>').join('')+'</div></div>').join('')+
   footer();

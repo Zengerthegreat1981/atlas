@@ -26,7 +26,7 @@ This has practical implications. Rather than attempting to "resolve" or "complet
 
 ## Uncomplicated and Complicated Grief
 
-Not all grief is existential insight, however. Grief that leads to complete withdrawal, that prevents the griever from reinvesting in life or new relationships, may be "complicated" grief—which may benefit from intervention. But the distinction between normal and complicated grief is itself existential: the question is whether the person is moving toward or away from authenticity, whether they are living or merely surviving.
+DSM-5-TR (2022) includes prolonged grief disorder, requiring persistent, impairing grief symptoms at least 12 months after the death for adults, and ICD-11 has a similar diagnosis with a 6-month threshold; such diagnoses should be made by a qualified clinician. Not all grief is existential insight, however. Grief that leads to complete withdrawal, that prevents the griever from reinvesting in life or new relationships, may be "complicated" grief—which may benefit from intervention. But the distinction between normal and complicated grief is itself existential: the question is whether the person is moving toward or away from authenticity, whether they are living or merely surviving.
 
 A griever who cries, who feels the weight of absence, who misses the deceased, may be doing the existential work of grief. A griever who intellectualizes the loss, who moves quickly to "acceptance" and a return to normalcy without allowing the confrontation with mortality and finitude that the loss represents, may be defending against the existential reality.
 

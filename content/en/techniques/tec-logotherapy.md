@@ -9,12 +9,12 @@ en: "Logotherapy (Meaning-Centered)"
 crumb: "Psychotherapy ← Techniques ← Logotherapy (Meaning-Centered)"
 dates: "Austria · from the 1930s"
 active_start: 1946
-active_end: "ongoing"
+active_end: "مستمر"
 edges: []
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 gaps:
-  - "This entry covers logotherapy as a technique; the school as a whole is treated in the branch entry on logotherapy and existential analysis."
+  - "Logotherapy as a whole school (theory of the person, existential analysis): not yet covered here"
 ---
 
 # Logotherapy (Meaning-Centered)
@@ -35,15 +35,15 @@ Paradoxical intention is the best-known logotherapeutic technique. A patient who
 
 ## Key Figures
 
-Frankl is the central figure, but the technique was carried forward by others. Elisabeth Lukas, his student, developed logotherapy for clinical and educational settings and wrote the first systematic case studies. Alfried Längle, Frankl's collaborator, founded the International Society for Logotherapy and Existential Analysis in Vienna in 1983 and later developed his own existential analysis, which adds prior conditions — being able to be present, to love life, to be oneself — before the question of meaning can be asked. In North America, the technique's most influential descendant is meaning-centred psychotherapy, developed by William Breitbart and colleagues for patients with advanced cancer and tested in a pilot randomised trial in 2010, and Paul Wong's meaning therapy, published the same year.
+Frankl is the central figure, but the technique was carried forward by others. Elisabeth Lukas, his student, developed logotherapy for clinical and counselling practice and wrote widely on its application. Alfried Längle, Frankl's collaborator, founded the International Society for Logotherapy and Existential Analysis in Vienna in 1983 and later developed his own existential analysis, which describes fundamental conditions — being able to be in the world, valuing life, being oneself — that underlie the question of meaning. In North America, the technique's most influential descendant is meaning-centred psychotherapy, developed by William Breitbart and colleagues for patients with advanced cancer and tested in a pilot randomised trial in 2010, and Paul Wong's meaning therapy, published the same year.
 
 ## Evidence and Influence
 
-Logotherapy is unusual among existential approaches in having produced testable techniques and a measurable body of evidence. Paradoxical intention has been studied for insomnia and anxiety, with positive results, and dereflection has been applied to sexual and performance difficulties. The strongest evidence comes from its descendants: Breitbart's meaning-centred psychotherapy improved spiritual well-being and reduced hopelessness and desire for hastened death in patients with advanced cancer. Critics object that logotherapy directs and even preaches, and that "discovering" meaning assumes that meaning already exists in the world — a metaphysical claim other existentialists reject. Its defenders reply that a therapy which refuses to speak about meaning abandons the very question its patients bring into the room.
+Logotherapy is unusual among existential approaches in having produced testable techniques and a measurable body of evidence. Paradoxical intention has been studied for insomnia and anxiety, with some positive findings from small studies, and dereflection has been applied to sexual and performance difficulties. The strongest evidence comes from its descendants: Breitbart's meaning-centred psychotherapy improved spiritual well-being and reduced distress, including desire for hastened death, in patients with advanced cancer. Critics object that logotherapy directs and even preaches, and that "discovering" meaning assumes that meaning already exists in the world — a metaphysical claim other existentialists reject. Its defenders reply that a therapy which refuses to speak about meaning abandons the very question its patients bring into the room.
 
 ## Sources
 
-- Viktor E. Frankl, *Man's Search for Meaning: An Introduction to Logotherapy*, 1946.
+- Viktor E. Frankl, *Ein Psychologe erlebt das Konzentrationslager*, 1946 (English: *Man's Search for Meaning*, 1959).
 - Viktor E. Frankl, *The Doctor and the Soul: From Psychotherapy to Logotherapy*, 1955.
 - Viktor E. Frankl, *The Will to Meaning: Foundations and Applications of Logotherapy*, 1969.
 - Viktor E. Frankl, "Paradoxical Intention and Dereflection", *Psychotherapy: Theory, Research and Practice*, 1975.

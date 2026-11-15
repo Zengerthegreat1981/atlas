@@ -15,12 +15,12 @@ related:
   - id: "con-fear", title: "Fear", type: "مفهوم"
   - id: "con-death", title: "Death", type: "مفهوم"
 gaps:
-  - "لا يوجد تحقق من الخصائص السيكومترية لهذه الأداة في نسخة عربية"
+  - "Psychometric properties of Arabic versions of the DAP-R: not yet covered."
 ---
 
 # Death Attitude Profile-Revised (DAP-R)
 
-The Death Attitude Profile-Revised (DAP-R) is a 32-item self-report questionnaire that measures attitudes toward death as a multidimensional construct rather than as a single variable. Developed by Paul Wong, Gary Reker, and Gina Gesser and published in 1994, it replaced the earlier Death Attitude Profile (1987–88) with a refined five-factor structure. Its central contribution is the recognition that a person's stance toward death cannot be reduced to a binary of fear versus fearlessness: the same person may fear death, avoid thinking about it, accept it calmly as a natural fact, welcome it as a gateway to a better life, and see it as an escape from suffering — all at once, in different proportions. The DAP-R measures each of these stances separately.
+The Death Attitude Profile-Revised (DAP-R) is a 32-item self-report questionnaire that measures attitudes toward death as a multidimensional construct rather than as a single variable. Developed by Paul Wong, Gary Reker, and Gina Gesser and published in 1994, it revised the earlier Death Attitude Profile (1987–88) into the five-factor structure described below. Its central contribution is the recognition that a person's stance toward death cannot be reduced to a binary of fear versus fearlessness: the same person may fear death, avoid thinking about it, accept it calmly as a natural fact, welcome it as a gateway to a better life, and see it as an escape from suffering — all at once, in different proportions. The DAP-R measures each of these stances separately.
 
 ## What it measures
 
@@ -28,11 +28,11 @@ The DAP-R has five subscales. Fear of Death (seven items) measures dread and anx
 
 ## Development and structure
 
-The DAP-R is a revision of the original Death Attitude Profile, which Gesser, Wong, and Reker developed in the late 1980s with four dimensions: fear of death and dying, approach acceptance, escape acceptance, and neutral acceptance. In the revision, the fear dimension was narrowed to focus on fear of death alone, and a fifth dimension — death avoidance — was added, on the argument that refusing to think about death is a distinct attitude, not merely the absence of fear. The authors validated the instrument on three hundred Canadian adults, evenly divided into young, middle-aged, and older age groups, and confirmed the five-factor structure with principal components analysis. The chapter presenting the DAP-R appeared in Robert Neimeyer's Death Anxiety Handbook in 1994, the landmark collection that consolidated death anxiety research as a field.
+The DAP-R is a revision of the original Death Attitude Profile, which Gesser, Wong, and Reker developed in the late 1980s. The revision refined the item set and the subscale structure, treating death avoidance as a distinct attitude rather than merely the absence of fear. The chapter presenting the DAP-R appeared in Robert Neimeyer's Death Anxiety Handbook in 1994, the landmark collection that consolidated death anxiety research as a field.
 
 ## Psychometric properties
 
-The five DAP-R subscales show good to very good internal consistency and test-retest reliability across studies, with Cronbach's alpha typically ranging from about 0.65 for Neutral Acceptance to 0.97 for Approach Acceptance. Construct validity was established through predicted patterns of association: Fear of Death correlates positively with Templer's Death Anxiety Scale (1970), Approach Acceptance correlates with belief in an afterlife, and Neutral Acceptance correlates with indifference toward death. The instrument has been translated into many languages and used widely in research on ageing, palliative care, and thanatology. No documented psychometric validation of an Arabic version exists within this project's sources, which limits its use in Arabic-speaking samples to research translations without established norms.
+The five DAP-R subscales show acceptable to very good internal consistency across studies, with Cronbach's alpha typically ranging from about 0.65 for Neutral Acceptance to 0.97 for Approach Acceptance. Construct validity was established through predicted patterns of association: Fear of Death correlates positively with Templer's Death Anxiety Scale (1970), Approach Acceptance correlates with belief in an afterlife, and Neutral Acceptance correlates with indifference toward death. The instrument has been translated into many languages and used widely in research on ageing, palliative care, and thanatology. The psychometric properties of Arabic versions are not documented in this entry, so use in Arabic-speaking samples should be treated as research use without established norms.
 
 ## Uses and limits
 
@@ -45,7 +45,7 @@ Wong, Reker, and Gesser's 1994 chapter is the primary source, presenting the ins
 ## Sources
 
 - Wong, P. T. P., Reker, G. T., & Gesser, G. (1994). Death Attitude Profile-Revised: A Multidimensional Measure of Attitudes Toward Death. In R. A. Neimeyer (Ed.), *Death Anxiety Handbook: Research, Instrumentation, and Application* (pp. 121–148). Taylor & Francis.
-- Gesser, G., Wong, P. T. P., & Reker, G. T. (1987–88). Death Attitudes Across the Life Span: The Development and Validation of the Death Attitude Profile (DAP). *Omega: Journal of Death and Dying*, 18, 109–124.
+- Gesser, G., Wong, P. T. P., & Reker, G. T. (1987–88). Death Attitudes Across the Life Span: The Development and Validation of the Death Attitude Profile (DAP). *Omega: Journal of Death and Dying*, 18(2), 113–128.
 - Neimeyer, R. A. (Ed.). (1994). *Death Anxiety Handbook: Research, Instrumentation, and Application*. Taylor & Francis.
 - Templer, D. I. (1970). The Construction and Validation of a Death Anxiety Scale. *The Journal of General Psychology*, 82, 165–177.
 - Tomer, A., & Eliason, G. (1996). Toward a Comprehensive Model of Death Anxiety. *Death Studies*, 20, 343–365.

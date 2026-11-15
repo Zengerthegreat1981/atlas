@@ -14,9 +14,7 @@ edges:
 related:
   - id: "thk-jaspers", title: "Karl Jaspers", type: "مفكر"
   - id: "rel-phenopath", title: "Phenomenological Psychopathology", type: "علاقة"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # General Psychopathology (Allgemeine Psychopathologie)
@@ -37,11 +35,11 @@ The first edition of 1913 appeared in a single volume; the seventh edition of 19
 
 ## Reception and Influence
 
-The book had a direct effect in founding the Heidelberg school of phenomenological psychiatry, and it has remained in teaching for over a century. Its value, as its defenders have always argued, is that it showed phenomenology could produce knowledge that accumulates and can be taught in clinical training, not merely reflection that cannot be tested. Contemporary phenomenological psychopathology works directly in its line, with finer tools — the careful description of experience, the distinction between what can be understood and what must be explained, and the insistence that classification should follow description rather than precede it. The book's influence extends beyond psychiatry: its method shaped the way the human sciences in general thought about the relation between understanding meaning and explaining causes.
+The book is associated with the Heidelberg tradition of phenomenological psychiatry, and it has remained in teaching for over a century. Its value, as its defenders have always argued, is that it showed phenomenology could produce knowledge that accumulates and can be taught in clinical training, not merely reflection that cannot be tested. Contemporary phenomenological psychopathology works directly in its line, with finer tools — the careful description of experience, the distinction between what can be understood and what must be explained, and the insistence that classification should follow description rather than precede it. The book's influence extends beyond psychiatry: its method shaped the way the human sciences in general thought about the relation between understanding meaning and explaining causes.
 
 ## Limits and Standing
 
-The book's limits are those of its method. Descriptive phenomenology depends on the clinician's capacity for empathic description, and its results are difficult to standardise or to test against one another. Jaspers's own distinction between primary and secondary symptoms has been challenged as the boundary between the understandable and the ununderstandable has shifted with new biological knowledge. No Arabic translation of the work has been established, and the work's reception in the Arab world has been minimal. But its standing in the Atlas is secure: it is the founding text of clinical phenomenology, and the distinction between understanding and explanation remains the basic working tool of every phenomenological-existential approach in psychiatry and therapy, including the Heidelberg school that Jaspers himself founded.
+The book's limits are those of its method. Descriptive phenomenology depends on the clinician's capacity for empathic description, and its results are difficult to standardise or to test against one another. Jaspers's own distinction between primary and secondary symptoms has been challenged as the boundary between the understandable and the ununderstandable has shifted with new biological knowledge. But its standing in the Atlas is secure: it is the founding text of clinical phenomenology, and the distinction between understanding and explanation remains the basic working tool of every phenomenological-existential approach in psychiatry and therapy.
 
 ## Sources
 

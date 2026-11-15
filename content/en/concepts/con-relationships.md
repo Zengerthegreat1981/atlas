@@ -14,6 +14,7 @@ related:
   - id: "con-isolation", title: "Isolation", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
   - id: "thk-buber", title: "Buber", type: "مفكر"
+gaps: []
 ---
 # Relationships
 

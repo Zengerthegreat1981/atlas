@@ -14,7 +14,7 @@ related:
   - id: "br-humanistic", title: "Existential-Humanistic", type: "تيار"
   - id: "dbt-british-yalom", title: "The British against the American Current", type: "جدل"
 gaps:
-  - "بيانات الأعمال والترجمات العربية — تحتاج تثبيتاً"
+  - "Bibliographic data on Arabic translations of his works: not yet covered"
 ---
 
 # Irvin D. Yalom
@@ -35,7 +35,7 @@ The four concerns recur through all his later work. In *Staring at the Sun: Over
 
 Yalom's other classic is *The Theory and Practice of Group Psychotherapy* (1970), which sets out the curative factors of the group: instilling hope, universality, imparting information, altruism, the development of socialising techniques, and interpersonal learning. The book was revised through successive editions, including the fifth edition of 2005 with Molyn Leszcz, and became a standard text in training programmes.
 
-At the centre of his practice is the conviction that the therapeutic relationship itself is the instrument of healing. He encourages the therapist to be honest and present, and to address what is happening between therapist and patient in the here and now. He distilled this stance into brief advice for therapists in *The Gift of Therapy* (2002), whose most quoted line — "the relationship itself heals" — captures his whole orientation.
+At the centre of his practice is the conviction that the therapeutic relationship itself is the instrument of healing. He encourages the therapist to be honest and present, and to address what is happening between therapist and patient in the here and now. He distilled this stance into brief advice for therapists in *The Gift of Therapy* (2002), which reflects his whole orientation toward the relationship as the vehicle of change.
 
 ## Storytelling and the Novels
 
@@ -43,7 +43,7 @@ Yalom reached his widest audience through clinical stories and novels. *Love's E
 
 ## Influence and Critique
 
-Yalom represents one current among several in existential therapy — the American current, which stresses the ultimate concerns and the relationship — and it differs from the European school of Binswanger and Boss and from Frankl's logotherapy. Presenting him as "existential therapy" in general is a common error, especially in Arabic writing, where several of his books, above all the novels, have been translated.
+Yalom represents one current among several in existential therapy — the American current, which stresses the ultimate concerns and the relationship — and it differs from the European school of Binswanger and Boss and from Frankl's logotherapy. Presenting him as "existential therapy" in general is a common error.
 
 Critics charge his framework with a circularity that is hard to falsify: every anxiety can be traced back to one of the four concerns, so little could count against the hypothesis. He sometimes moves from description to causation, presenting the concerns as causes of particular symptoms, and his core case sample is narrow — mostly educated, middle-class American patients — which raises questions about cultural generalisation. Others see his stance as individualistic, giving too little weight to the social and political dimensions of suffering. What endures is an excellent phenomenological map of what people do with their awareness of the conditions of their existence — not a proven causal theory of the origin of symptoms. Research on group therapy has confirmed the curative factors he described, even if to varying degrees, and that empirical support should not be confused with the philosophical claims of his other books.
 

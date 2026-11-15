@@ -9,12 +9,11 @@ en: "Systemic and Family Approaches"
 crumb: "Psychotherapy ← Techniques ← Systemic and Family Approaches"
 dates: "United States and Italy · from the 1950s"
 active_start: 1950
-active_end: "ongoing"
+active_end: "مستمر"
 edges: []
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
-gaps:
-  - "Effect sizes for systemic family therapy by presenting problem should be checked against the original outcome literature before specific numbers are cited."
+gaps: []
 ---
 
 # Systemic and Family Approaches
@@ -27,11 +26,11 @@ Systemic approaches are a family of therapies grounded in general systems theory
 
 ## History
 
-The roots lie in the cybernetics and systems thinking of the 1940s and 1950s. Ludwig von Bertalanffy published *General System Theory* in 1968, and Gregory Bateson applied cybernetic ideas to human communication in *Steps to an Ecology of Mind* in 1972, including his theory of the double bind — a situation in which a person receives contradictory messages and cannot comment on the contradiction. The first clinical schools emerged in the 1960s and 1970s. Salvador Minuchin's structural family therapy, set out in *Families and Family Therapy* in 1974, mapped family hierarchies, boundaries and coalitions. Murray Bowen, in *Family Therapy in Clinical Practice* in 1978, described differentiation of self and the transmission of anxiety across generations. The Milan team — Mara Selvini Palazzoli and colleagues — published *Paradox and Counterparadox* in 1978, introducing circular questioning and the use of paradoxical interventions. In the 1980s, Steve de Shazer and the Milwaukee team developed solution-focused brief therapy, asking not what caused the problem but when it was absent, and building on those exceptions.
+The roots lie in the cybernetics and systems thinking of the 1940s and 1950s. Ludwig von Bertalanffy published *General System Theory* in 1968, and Gregory Bateson applied cybernetic ideas to human communication in *Steps to an Ecology of Mind* in 1972, including the theory of the double bind, formulated in 1956 with colleagues — a situation in which a person receives contradictory messages and cannot comment on the contradiction. The first clinical schools emerged in the 1960s and 1970s. Salvador Minuchin's structural family therapy, set out in *Families and Family Therapy* in 1974, mapped family hierarchies, boundaries and coalitions. Murray Bowen, in *Family Therapy in Clinical Practice* in 1978, described differentiation of self and the transmission of anxiety across generations. The Milan team — Mara Selvini Palazzoli and colleagues — published *Paradox and Counterparadox* (Italian 1975, English 1978), describing circular questioning and the use of paradoxical interventions. In the 1980s, Steve de Shazer, Insoo Kim Berg and colleagues at the Brief Family Therapy Center in Milwaukee developed solution-focused brief therapy, asking not what caused the problem but when it was absent, and building on those exceptions.
 
 ## How It Works
 
-A systemic session looks different from individual therapy. The therapist may meet the whole family and watch how they interact: who speaks for whom, who is silent, who interrupts. Circular questions are the central tool: instead of asking one person why they behave as they do, the therapist asks how others see it — "when your son refuses school, what does your husband do, and what do you do then?" — so that the pattern, not the blame, becomes visible. The therapist may give the family a task between sessions, or a ritual, or a paradoxical prescription: the Milan team's famous instruction to a family to continue the symptom, deliberately, on certain days, which breaks the system's automaticity by making the pattern voluntary. Genograms map the family's history across generations. Reframing gives a new meaning to behaviour — a child's defiance becomes an attempt to protect a parent — and with a new meaning, the system can move.
+A systemic session looks different from individual therapy. The therapist may meet the whole family and watch how they interact: who speaks for whom, who is silent, who interrupts. Circular questions are the central tool: instead of asking one person why they behave as they do, the therapist asks how others see it — "when your son refuses school, what does your husband do, and what do you do then?" — so that the pattern, not the blame, becomes visible. The therapist may give the family a task between sessions, or a ritual, or a paradoxical prescription: the Milan team's well-known prescription that a family continue the symptom deliberately, which is meant to disrupt the system's automaticity by making the pattern voluntary. Genograms map the family's history across generations. Reframing gives a new meaning to behaviour — a child's defiance becomes an attempt to protect a parent — and with a new meaning, the system can move.
 
 ## Key Figures
 
@@ -39,7 +38,7 @@ Bateson is the intellectual founder, though he was an anthropologist rather than
 
 ## Evidence and Influence
 
-Systemic family therapy has a substantial evidence base, particularly for child and adolescent problems, eating disorders, substance use and schizophrenia, where involving the family improves outcomes. It has also shaped the wider field: the idea that problems live in patterns rather than in persons has entered individual therapy, organisational consulting and social work. Its critics note that the early schools could be manipulative — paradoxical prescriptions given without the family's understanding — and that systemic neutrality could slide into ignoring power, including abuse and gender inequality. Later systemic therapists, including feminist and narrative practitioners, addressed this directly, insisting that a system is never only a pattern: it is also a distribution of power, and the therapist must take a position on it.
+Systemic family therapy has a substantial evidence base, reviewed for example by Alan Carr, particularly for child and adolescent problems, eating disorders, substance use and psychosis, where involving the family has been found to improve outcomes. It has also shaped the wider field: the idea that problems live in patterns rather than in persons has entered individual therapy, organisational consulting and social work. Its critics note that the early schools could be manipulative — paradoxical prescriptions given without the family's understanding — and that systemic neutrality could slide into ignoring power, including abuse and gender inequality. Later systemic therapists, including feminist and narrative practitioners, addressed this directly, insisting that a system is never only a pattern: it is also a distribution of power, and the therapist must take a position on it.
 
 ## Sources
 

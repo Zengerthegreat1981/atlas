@@ -14,7 +14,7 @@ edges: []
 related:
  - id: "con-anxiety-existential", title: "Anxiety (Cognitive and Neuroscientific)", type: "مفهوم"
 gaps:
- - "لم تُراجع بعد دراسات فعالية حديثة ومحددة لهذه التقنية من مصدر أولي محقق"
+ - "Recent controlled trial evidence for the technique: not yet covered"
 ---
 
 # Paradoxical Intention
@@ -27,7 +27,7 @@ The technique rests on Frankl's account of anticipatory anxiety: fear of a sympt
 
 ## History
 
-Frankl first presented the technique in his German writings of the late 1940s and gave it its first English-language exposition in "Paradoxical Intention: A Logotherapeutic Technique," published in the *American Journal of Psychotherapy* in 1960. It was developed in the same period as logotherapy itself, which Frankl set out in *Man's Search for Meaning* (1946) and *The Doctor and the Soul* (1946). The technique grew out of Frankl's clinical observation that patients' attempts to suppress or avoid a symptom usually intensified it, an observation he connected to his wider claim that human beings retain the capacity for self-transcendence and self-distancing even in the midst of disorder, in contrast to psychoanalytic accounts that stressed the determinism of unconscious drives. 
+Frankl introduced the technique in German-language writings beginning in the late 1930s and gave it its first English-language exposition in "Paradoxical Intention: A Logotherapeutic Technique," published in the *American Journal of Psychotherapy* in 1960. It was developed alongside logotherapy itself, which Frankl set out in *Ärztliche Seelsorge* (1946; English *The Doctor and the Soul*, 1955) and *Man's Search for Meaning* (German 1946, English 1959). The technique grew out of Frankl's clinical observation that patients' attempts to suppress or avoid a symptom usually intensified it, an observation he connected to his wider claim that human beings retain the capacity for self-transcendence and self-distancing even in the midst of disorder, in contrast to psychoanalytic accounts that stressed the determinism of unconscious drives.
 
 ## How it works
 
@@ -35,7 +35,7 @@ In practice, the therapist first establishes that the symptom is maintained by a
 
 ## Clinical use
 
-Historically the technique was used above all with panic disorder accompanied by agoraphobia and with obsessive-compulsive presentations of a ritual kind, where the anticipatory loop is clearest. It was also investigated experimentally in insomnia: Ascher and Turner (1979) tested paradoxical intention against other instructions in a controlled study of sleep-onset insomnia and found that instructing patients to stay awake reduced sleep-onset latency, a result that has been cited ever since as the cleanest experimental demonstration of the principle. Later reviews of empirically supported treatments classified paradoxical intention as "probably efficacious" for panic disorder with agoraphobia, on the basis of small comparative studies showing reductions in panic frequency — a modest rating that reflects the small size and limited rigour of the studies rather than a large trial programme. No large randomised trial of the technique against a control has been documented from a primary source, and that gap should be stated plainly.
+Historically the technique was used above all with phobic conditions, including agoraphobia, with obsessive-compulsive presentations, and with sleep-onset insomnia, where the anticipatory loop is clearest. It was also investigated experimentally in insomnia: Ascher and Turner (1979) tested paradoxical intention against other instructions in a controlled study of sleep-onset insomnia and found that instructing patients to stay awake reduced sleep-onset latency, a result that has often been cited as an experimental demonstration of the principle. Reviews of non-drug treatments for insomnia have generally found some support for paradoxical intention, though less than for stimulus control or sleep restriction. Large randomised trials of the technique are lacking, and the evidence for its use with phobic and obsessive-compulsive problems rests mainly on small studies and case reports.
 
 ## Limits of use
 
@@ -43,16 +43,16 @@ The technique is not suitable for every case or every kind of anxiety, and it mu
 
 ## Evidence and influence
 
-The evidence base is thin but not empty: the Ascher and Turner insomnia study, the small comparative studies behind the "probably efficacious" classification, and a long clinical literature of case reports. The technique's influence, however, extends beyond its own trials. Its logic — that the attempt to control a symptom can maintain it — reappears in later work on ironic processes of mental control and in acceptance-based approaches, which likewise treat struggle against an experience as part of the problem. Paradoxical intention remains the most vivid single illustration of Frankl's therapeutic stance: that the patient is not the symptom, and can take a position toward it.
+The evidence base is thin but not empty: the Ascher and Turner insomnia study, the small studies reviewed in the insomnia literature, and a long clinical literature of case reports. The technique's influence, however, extends beyond its own trials. Its logic — that the attempt to control a symptom can maintain it — reappears in later work on ironic processes of mental control and in acceptance-based approaches, which likewise treat struggle against an experience as part of the problem. Paradoxical intention remains the most vivid single illustration of Frankl's therapeutic stance: that the patient is not the symptom, and can take a position toward it.
 
 ## Key works
 
-Frankl's *Man's Search for Meaning* (1946) is the founding text of logotherapy, and his 1960 paper is the first formal statement of the technique. Ascher and Turner's 1979 study is the key experimental test. Chambless and colleagues' 1998 update on empirically validated therapies records the technique's formal evidence rating.
+Frankl's *Man's Search for Meaning* (German 1946, English 1959) is the best-known text of logotherapy, and his 1960 paper is the first English-language statement of the technique. Ascher and Turner's 1979 study is the key experimental test, and Morin and colleagues' 2006 review summarises the insomnia evidence.
 
 ## Sources
 
-- Frankl, Viktor E. (1946). *Man's Search for Meaning*. Verlag für Jugend und Volk.
-- Frankl, Viktor E. (1960). Paradoxical Intention: A Logotherapeutic Technique. *American Journal of Psychotherapy*, 14(3).
-- Ascher, L. Michael, and Turner, Ralph M. (1979). Paradoxical Intention and Insomnia: An Experimental Investigation. *Behaviour Research and Therapy*, 17(4).
-- Chambless, Dianne L., et al. (1998). Update on Empirically Validated Therapies, II. *Clinical Psychologist*, 51(1), 3–16.
-- Frankl, Viktor E. (1946). *The Doctor and the Soul*. Franz Deuticke.
+- Frankl, Viktor E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, 1959.)
+- Frankl, Viktor E. (1960). Paradoxical Intention: A Logotherapeutic Technique. *American Journal of Psychotherapy*, 14(3), 520–535.
+- Ascher, L. Michael, and Turner, Ralph M. (1979). Paradoxical Intention and Insomnia: An Experimental Investigation. *Behaviour Research and Therapy*, 17(4), 408–411.
+- Morin, Charles M., et al. (2006). Psychological and Behavioral Treatment of Insomnia: Update of the Recent Evidence (1998–2004). *Sleep*, 29(11), 1398–1414.
+- Frankl, Viktor E. (1946). *Ärztliche Seelsorge*. Franz Deuticke. (English: *The Doctor and the Soul*, 1955.)

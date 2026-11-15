@@ -11,8 +11,7 @@ edges:
   - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "rel-act", title: "ACT and the Third Wave", type: "علاقة بين مدرستين"
-gaps:
-  - "لم تُراجع بعد مصادر أولية دقيقة تقارن ACT والعلاج الوجودي أكاديمياً بدل الوصف العام الحالي المبني على معرفة عامة"
+gaps: []
 ---
 
 # A Point of Encounter: Existential Therapy and ACT
@@ -29,7 +28,7 @@ An existential therapist listening to this description would recognise the terri
 
 Three words carry most of the encounter. Values, in ACT, are freely chosen directions for living — qualities of action such as honesty, kindness, or creativity — that orient committed action, clarified through exercises and revisited as treatment proceeds. Presence, contact with the present moment, is one of the six processes of the ACT hexaflex model, cultivated through mindfulness: attending to what is happening now rather than living inside rumination or dread. Acceptance is the willingness to experience unwanted thoughts and feelings without struggling to control them, freeing energy for valued action.
 
-Each of these has an existential cousin. Values resemble the existential emphasis on authorship — the idea that a person must take a stand on what their life is for, without a ready-made answer. Presence resembles the existential attention to being-here-now, to the immediacy of lived experience rather than to abstractions about it. Acceptance resembles the existential refusal of bad faith, the refusal to pretend that freedom and anxiety can be escaped by some technique. ACT practitioners, including the framework's founder Steven C. Hayes, have drawn on Yalom's map of the ultimate concerns as a way of reading the hexaflex against a background of existential givens.
+Each of these has an existential cousin. Values resemble the existential emphasis on authorship — the idea that a person must take a stand on what their life is for, without a ready-made answer. Presence resembles the existential attention to being-here-now, to the immediacy of lived experience rather than to abstractions about it. Acceptance resembles the existential refusal of bad faith, the refusal to pretend that freedom and anxiety can be escaped by some technique. Some writers have read the ACT hexaflex against the background of Yalom's ultimate concerns, though this is an interpretive comparison rather than part of ACT's own theory.
 
 ## The Deep Methodological Split
 

@@ -13,12 +13,12 @@ related:
   - id: "thk-minkowski", title: "Minkowski", type: "مفكر"
   - id: "wrk-lived-time", title: "Lived Time", type: "عمل"
 gaps:
-  - "Textual passages for each formulation — not yet entered"
+  - "Textual passages for each formulation: not yet covered"
 ---
 
 # Time
 
-The concept that distinguishes the school from everything else, and that almost disappears from Arabic presentations.
+A concept central to the phenomenological wing of existential psychotherapy.
 
 ## Defining the Concept
 
@@ -26,7 +26,7 @@ Time here is not clock time but **lived time**: how the future, the past, and th
 
 ## The Core Disagreements Within the Concept
 
-There is no great dispute here, but a variation in investment: the European line developed it with precision, and the American current almost neglected it and used it only as a tool. This is one of the clearest losses in transmission.
+There is no great dispute here, but a variation in emphasis: the European phenomenological line (Minkowski, Straus, Binswanger) developed it in detail, while many later practical approaches treat time mainly as a tool or a theme, for example in work on mortality and priorities.
 
 ## How It Appears in the Session
 
@@ -60,7 +60,16 @@ This means that a disturbance in the "relation to time" in an Arab client may in
 |---|---|---|---|
 | Heidegger | Temporality is the structure of Dasein itself. The human being always runs ahead of themselves toward their possibilities, and is burdened with what has been. | Directs attention to the person's relation to their future, not only to their history. | Ontological, and the origin on which Minkowski and Binswanger built. |
 | Minkowski | In depression the future closes and the past grows heavy, so the present becomes a wall. And in some forms of schizophrenia the vital contact with reality breaks. | Describing the condition in the language of time gives a precision that symptom lists do not, and the patient understands it about themselves at once. | The most precise phenomenological application in the history of the school. |
-| Binswanger | Each world has its own time: some worlds are accelerated, some frozen, some have no future. | The patient's world is described as a whole rather than broken apart. | A direct extension of Heidegger, with the conversion that he himself objected to. |
+| Binswanger | Each world has its own time: some worlds are accelerated, some frozen, some have no future. | The patient's world is described as a whole rather than broken apart. | Draws on Heidegger, though Heidegger himself objected to Binswanger's adaptation of his ideas. |
 | Frankl | The past is not lost but preserved: what has been achieved and lived cannot be taken away. The "storehouses of the past" are full, not empty. | Work with the elderly and with patients at the end of life: turning the gaze from what remains to what has been accomplished. | The most consoling formulation in the school, and the most liable to turn into motivation. |
 | Yalom | Awareness of mortality rearranges time: one who has faced their end loses the luxury of postponing what matters. | Using the approach of the end, or a moment of awakening, to rearrange priorities. | Uses time as a tool, not a subject. |
-| Van Deurzen | Time is examined in four dimensions: the body has its time, relationships have theirs, the personal project has its time, and values have theirs. | Revealing the conflict of times: that his body is at one stage and his project at another. | A practical elaboration not found in the others. |
+| Van Deurzen | Her four dimensions of existence (physical, social, personal, spiritual) can each carry a different relation to time. | Revealing conflicts between these: for example, that the body is at one stage of life and the personal project at another. | A practical elaboration not found in the others. |
+
+## Sources
+
+- Minkowski, E. (1970). *Lived Time: Phenomenological and Psychopathological Studies* (N. Metzel, Trans.). Northwestern University Press. (Original work published 1933)
+- Heidegger, M. (1962). *Being and Time*. Harper & Row.
+- Binswanger, L. (1963). *Being-in-the-World: Selected Papers*. Basic Books.
+- Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
+- van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice* (3rd ed.). SAGE.

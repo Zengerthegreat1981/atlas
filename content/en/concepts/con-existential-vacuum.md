@@ -30,7 +30,7 @@ Crucially, the vacuum is not sadness or grief. Sadness has an object: something 
 
 Frankl developed the concept within logotherapy, the school of psychotherapy he founded before the Second World War and reformulated after surviving the Nazi concentration camps. His central claim was that the primary human motivation is neither pleasure, as Freud held, nor power, as Adler held, but meaning. When that striving is blocked, the vacuum opens.
 
-He set out these ideas in *Man's Search for Meaning*, first published in German in 1946. There he described how some prisoners preserved an inner sense of purpose under the worst conditions imaginable while others, facing the same conditions, collapsed psychologically: those who could still point toward a task, a person, or a value to live for endured; those who could not, did not.
+He set out these ideas in *Man's Search for Meaning*, first published in German in 1946 (English translation 1959). There he described how some prisoners preserved an inner sense of purpose under the worst conditions imaginable while others, facing the same conditions, collapsed psychologically: those who could still point toward a task, a person, or a value to live for endured; those who could not, did not.
 
 Frankl believed modern industrial societies made the vacuum especially common: freed from inherited scripts — religious, social, and occupational roles that once told a person what life was for — people enjoy unprecedented freedom but often have no clear sense of what to do with it.
 
@@ -60,7 +60,7 @@ The concept has been criticised on several fronts. First, its overlap with depre
 
 ## Sources
 
-1. Frankl, V. E. (1946). *Man's Search for Meaning*. Beacon Press.
+1. Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press. (English edition of *Ein Psycholog erlebt das Konzentrationslager*, 1946.)
 2. Frankl, V. E. (1969). *The Will to Meaning: Foundations and Applications of Logotherapy*. World Publishing.
 3. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 4. May, R. (1967). *Psychology and the Human Dilemma*. W. W. Norton.

@@ -10,13 +10,12 @@ crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Major
 dates: null
 active_start: null
 active_end: "مستمر"
-dsm5tr_code: "296.2x/296.3x"
+dsm5tr_code: "F32.x/F33.x"
 icd11_code: "6A70"
 edges: []
 related:
  - id: "con-sadness", title: "Sadness", type: "مفهوم"
-gaps:
- - "لم تُحدد بعد المعايير التشخيصية الدقيقة من مصدر تشخيصي أولي محقق"
+gaps: []
 ---
 
 # Major Depressive Disorder (MDD)
@@ -37,7 +36,7 @@ Depression as a clinical concept descends from melancholia, a term in use since 
 
 ## Causes and mechanisms
 
-No single cause accounts for major depression, and the contemporary picture is deliberately plural. Beck's cognitive triad describes a stable negative view of the self, the world, and the future that maintains low mood and feeds itself: the person interprets setbacks as confirmation of worthlessness, and the interpretation deepens the mood that produced it. The biological account points to dysregulation in monoamine neurotransmission and, more recently, to changes in neuroplasticity, stress-axis regulation, and inflammation; the SSRI drugs were built on the monoamine hypothesis, though the hypothesis in its simple form — depression as a chemical deficiency — is now regarded as inadequate by most researchers. Johann Hari's *Lost Connections* (2018) popularised the argument that social and environmental disconnection is a major driver, a claim that is debated but that has pushed the literature toward a broader causal picture than the purely neurochemical one.
+No single cause accounts for major depression, and the contemporary picture is deliberately plural. Beck's cognitive triad describes a stable negative view of the self, the world, and the future that maintains low mood and feeds itself: the person interprets setbacks as confirmation of worthlessness, and the interpretation deepens the mood that produced it. The biological account points to dysregulation in monoamine neurotransmission and, more recently, to changes in neuroplasticity, stress-axis regulation, and inflammation; the SSRI drugs were built on the monoamine hypothesis, though the hypothesis in its simple form — depression as a chemical deficiency — is now regarded as inadequate by most researchers. Johann Hari's *Lost Connections* (2018), a popular account, advanced the argument that social and environmental disconnection is a major driver, a claim that is debated but that has pushed the literature toward a broader causal picture than the purely neurochemical one.
 
 ## Treatment
 
@@ -45,7 +44,7 @@ The two principal treatments are psychotherapy, above all cognitive behavioural 
 
 ## The existential dimension
 
-Some existential readings link an aspect of depression to the loss of meaning — existential meaninglessness — but this must not be confused with the claim that all clinical depression is a crisis of meaning, which would be a methodological error stated plainly in the category's own notes. A person can be depressed for reasons that have nothing to do with meaning, and a person in a crisis of meaning need not meet the criteria for a depressive episode. The existential dimension is a partial reading of some cases, not a theory of the disorder. 
+Some existential readings link an aspect of depression to the loss of meaning — existential meaninglessness — but this must not be confused with the claim that all clinical depression is a crisis of meaning, which would be a methodological error. A person can be depressed for reasons that have nothing to do with meaning, and a person in a crisis of meaning need not meet the criteria for a depressive episode. The existential dimension is a partial reading of some cases, not a theory of the disorder. 
 
 ## Key works
 

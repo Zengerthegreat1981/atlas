@@ -24,27 +24,27 @@ Meaning-centered psychotherapy (MCP) is a structured, manualised psychotherapy d
 
 ## What it is
 
-MCP is a brief, theme-based intervention. The group version runs for eight weekly sessions of ninety minutes; the individual version runs for seven sessions. Each session has a fixed theme, and the themes lead the patient through a sequence: sources of meaning before the illness; identity and meaning after the diagnosis; historical meaning, the legacy the patient leaves; and creative and experiential meaning in the present. The themes are built directly on Frankl's three sources of meaning — creativity, experience, and the attitude taken toward suffering — and on the idea, central to logotherapy, that meaning can be found even when circumstances cannot be changed. 
+MCP is a brief, theme-based intervention. The group version runs for eight weekly sessions of ninety minutes; the individual version runs for seven sessions. Each session has a fixed theme, and the themes lead the patient through a sequence: sources of meaning before the illness; identity and meaning after the diagnosis; historical meaning, the legacy the patient leaves; and creative and experiential meaning in the present. The themes are built directly on Frankl's three sources of meaning — creativity, experience, and the attitude taken toward suffering — and on the idea, central to logotherapy, that meaning can be found even when circumstances cannot be changed.
 
 ## History
 
- The early work was a pilot randomised trial of the group format, published by Breitbart and colleagues in *Psycho-Oncology* in 2010, followed by a pilot randomised trial of the individual format in the *Journal of Clinical Oncology* in 2012. The decisive trial was the large randomised controlled trial of the group format, published in the *Journal of Clinical Oncology* in 2015: 253 patients with advanced cancer were randomly assigned to eight sessions of meaning-centered group psychotherapy or supportive group psychotherapy, and those receiving MCP showed significantly greater improvement in spiritual well-being and quality of life and significantly greater reductions in depression, hopelessness, desire for hastened death, and physical symptom distress. Breitbart and Poppito published treatment manuals for both formats in 2014, making the intervention replicable by other teams. 
+The early work was a pilot randomised trial of the group format, published by Breitbart and colleagues in *Psycho-Oncology* in 2010, followed by a pilot randomised trial of the individual format in the *Journal of Clinical Oncology* in 2012. The decisive trial was the large randomised controlled trial of the group format, published in the *Journal of Clinical Oncology* in 2015: 253 patients with advanced cancer were randomly assigned to eight sessions of meaning-centered group psychotherapy or supportive group psychotherapy, and those receiving MCP showed significantly greater improvement in spiritual well-being and quality of life and greater reductions in anxiety and desire for hastened death at the end of treatment, with benefits at longer follow-up less consistent. Breitbart and Poppito published treatment manuals for both formats in 2014, making the intervention replicable by other teams.
 
 ## How it works
 
-The mechanism MCP proposes is straightforward: despair at the end of life is driven less by pain itself than by the collapse of meaning, and restoring a sense of meaning — through connection, creativity, legacy, and attitude toward suffering — reduces despair even when the disease does not change. The sessions are didactic as well as experiential: patients are taught Frankl's framework explicitly, then asked to apply it to their own lives. The legacy work is often the most affecting part of the protocol: patients are invited to consider what they will leave behind, not as a sentimental exercise but as a way of locating meaning in what has already been lived. 
+The mechanism MCP proposes is straightforward: despair at the end of life is driven not only by pain and symptoms but by the collapse of meaning, and restoring a sense of meaning — through connection, creativity, legacy, and attitude toward suffering — reduces despair even when the disease does not change. The sessions are didactic as well as experiential: patients are taught Frankl's framework explicitly, then asked to apply it to their own lives. The legacy work is often the most affecting part of the protocol: patients are invited to consider what they will leave behind, not as a sentimental exercise but as a way of locating meaning in what has already been lived.
 
 ## Key figures
 
- Frankl is the intellectual source: without *Man's Search for Meaning* (1946) there is no MCP, and Breitbart has always presented the treatment as an application of logotherapy rather than a replacement for it. Breitbart does not currently have a dedicated thinker entry in this Atlas, so his name is recorded here in the text.
+Frankl is the intellectual source: without *Man's Search for Meaning* (German 1946, English 1959) there is no MCP, and Breitbart has always presented the treatment as an application of logotherapy rather than a replacement for it.
 
 ## Evidence and influence
 
-MCP has the strongest trial evidence of any treatment in the existential school. The 2015 randomised trial (N = 253) is the centrepiece, supported by the 2010 group pilot and the 2012 individual pilot, both randomised and both showing benefits for spiritual well-being and despair. The authors' own conclusion was that the large trial "provides strong support for the efficacy of meaning-centered group psychotherapy as a treatment for psychological and existential or spiritual distress in patients with advanced cancer." The evidence is not without limits: the trials were conducted in a single centre, the comparison condition was supportive therapy rather than an active meaning-focused control in the early work, and the population is specific — advanced cancer — so the results do not automatically generalise to other forms of existential distress. Even so, MCP stands almost alone in its school in having been tested in this way, and it has influenced palliative care practice, where meaning-centered approaches are now a recognised part of psychosocial care for the dying.
+MCP has among the strongest trial evidence of any treatment in the existential school. The 2015 randomised trial (N = 253) is the centrepiece, supported by the 2010 group pilot and the 2012 individual pilot, both randomised and both showing benefits for spiritual well-being and related outcomes. The authors concluded that the large trial supported the efficacy of meaning-centered group psychotherapy for psychological and existential distress in patients with advanced cancer. The evidence is not without limits: the trials were run by the developing team at a small number of centres, the comparison condition was supportive group therapy, benefits were less consistent at longer follow-up, and the population is specific — advanced cancer — so the results do not automatically generalise to other forms of existential distress. Even so, MCP stands almost alone in its school in having been tested in this way, and it has influenced psycho-oncology and palliative care practice, where meaning-centered approaches are increasingly part of psychosocial care.
 
-## How it differs from supportive-expressive therapy
+## How it differs from supportive group psychotherapy
 
- MCP is directed by a fixed sequence of sessions that targets meaning specifically as the therapeutic variable, not general emotional support. 
+In the trials, MCP was compared with supportive group psychotherapy. MCP follows a fixed sequence of sessions that targets meaning specifically as the therapeutic variable, whereas supportive therapy offers general emotional support without a prescribed meaning-focused curriculum.
 
 ## Criticisms and limits
 
@@ -52,7 +52,7 @@ The structured, manualised form that makes MCP testable is also what some existe
 
 ## Key works
 
-Breitbart and Poppito's treatment manuals (2014) are the practical sources for both formats. The 2015 *Journal of Clinical Oncology* trial is the key evidence. Frankl's *Man's Search for Meaning* (1946) is the theoretical source from which the whole programme derives.
+Breitbart and Poppito's treatment manuals (2014) are the practical sources for both formats. The 2015 *Journal of Clinical Oncology* trial is the key evidence. Frankl's *Man's Search for Meaning* (German 1946, English 1959) is the theoretical source from which the whole programme derives.
 
 ## Sources
 
@@ -60,4 +60,4 @@ Breitbart and Poppito's treatment manuals (2014) are the practical sources for b
 - Breitbart, William, et al. (2010). Meaning-centered group psychotherapy for patients with advanced cancer: a pilot randomized controlled trial. *Psycho-Oncology*, 19(1), 21–28.
 - Breitbart, William, et al. (2012). Pilot randomized controlled trial of individual meaning-centered psychotherapy for patients with advanced cancer. *Journal of Clinical Oncology*, 30(12), 1304–1309.
 - Breitbart, William, and Poppito, Shannon (2014). *Individual Meaning-Centered Psychotherapy for Patients with Advanced Cancer: A Treatment Manual*. Oxford University Press.
-- Frankl, Viktor E. (1946). *Man's Search for Meaning*. Verlag für Jugend und Volk.
+- Frankl, Viktor E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, 1959.)

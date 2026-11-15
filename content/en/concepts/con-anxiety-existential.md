@@ -4,20 +4,19 @@ id: "CON-0412"
 type: "مفهوم"
 part: psychology
 level: "مبتدئ"
-title: "Anxiety (Cognitive and Neuroscientific)"
-en: "Anxiety (cognitive-neuroscientific)"
-crumb: "Existential Psychotherapy ← Concepts ← Anxiety (Cognitive and Neuroscientific)"
+title: "Anxiety: Existential, Psychological and Neuroscientific Accounts"
+en: "Anxiety: Existential, Psychological and Neuroscientific Accounts"
+crumb: "Psychology ← Concepts ← Anxiety: Existential, Psychological and Neuroscientific Accounts"
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-anxiety", title: "Anxiety", type: "مفهوم"
   - id: "con-fear", title: "Fear", type: "مفهوم"
 gaps:
-  - "الفرق الدقيق بين القلق الوجودي والقلق السريري (اضطراب القلق العام) يحتاج مدخل 'اضطراب' منفصل لا يوجد نوع عنصر له بعد في هذا الأطلس"
-  - "لا تتوفر مصادر عربية إسلامية تراثية مراجعة لهذا المفهوم"
+  - "Classical Islamic-tradition sources on this concept: not yet covered."
 ---
 
-# Anxiety (Cognitive and Neuroscientific)
+# Anxiety: Existential, Psychological and Neuroscientific Accounts
 
 Anxiety is the emotional experience of facing a threat that is uncertain, existential, and without a fixed time — a threat that may or may not arrive, and whose shape cannot yet be known. It differs from fear, which fastens on a concrete and immediate danger: a predator, a fall, an attacker. Fear has an object and a timetable; anxiety has neither. This entry treats anxiety from two converging angles — the cognitive account developed by appraisal theory, and the existential account developed by Kierkegaard, Heidegger, Tillich, and Rollo May — with the neuroscience of threat systems as a third strand.
 
@@ -47,11 +46,15 @@ Rollo May brought the same tradition into American psychotherapy in *The Meaning
 
 ## The Neuroscience of Anxiety
 
-The cognitive and existential accounts converge with a third line of evidence from affective neuroscience. Jaak Panksepp's classification of the brain's primary emotional systems, set out in *Affective Neuroscience* (1998), contains no separate system named "anxiety." Instead, anxiety is generally understood as an extension or partial activation of the FEAR system itself when no specific threat is present — a state of heightened vigilance in the absence of a definite object. This point still needs confirmation against Panksepp's original text, and the Atlas records that caution; but the general picture is consistent with the cognitive account: anxiety is what the threat system does when it cannot find its target. Joseph LeDoux, in *The Emotional Brain* (1996), traced the neural pathways of fear and anxiety through the amygdala, showing how the brain can generate threat responses before conscious awareness.
+The cognitive and existential accounts converge with a third line of evidence from affective neuroscience. Jaak Panksepp's classification of the brain's primary emotional systems, set out in *Affective Neuroscience* (1998), contains no separate system named "anxiety." Accounts differ on how anxiety relates to these systems, but it is commonly understood as being closely tied to the FEAR system — a state of heightened vigilance in the absence of a definite object. This is broadly consistent with the cognitive account: anxiety is what the threat system does when it cannot find its target. Joseph LeDoux, in *The Emotional Brain* (1996), traced the neural pathways of fear and anxiety through the amygdala, showing how the brain can generate threat responses before conscious awareness.
 
 ## Anxiety, Fear, and Clinical Disorder: The Boundary
 
-Where does anxiety as a normal human experience end and anxiety as a clinical disorder begin? This is the question that defines the clinical ceiling of the Atlas: the entry describes the boundary without offering diagnostic guidance to the reader. The markers used in the literature are proportionality, persistence, and impairment. Normal anxiety is proportionate to a real uncertainty, time-limited, and compatible with functioning. An anxiety disorder, by contrast, involves worry that is excessive relative to the threat, persistent across months, and impairing — interfering with work, relationships, and sleep.
+Where does anxiety as a normal human experience end and anxiety as a clinical disorder begin? This entry describes the boundary but offers no diagnostic guidance; only a qualified clinician can assess whether anxiety is a disorder. The markers used in the literature are proportionality, persistence, and impairment. Normal anxiety is proportionate to a real uncertainty, time-limited, and compatible with functioning. An anxiety disorder, by contrast, involves worry that is excessive relative to the threat, persistent across months, and impairing — interfering with work, relationships, and sleep.
+
+## Scope and Relation to Neighbouring Entries
+
+This entry surveys the wider scholarship on anxiety, from Kierkegaard and Heidegger to neuroscience and the clinical boundary. For how the existentialist school itself frames and disputes the concept, see the companion entry.
 
 ## Sources
 

@@ -33,14 +33,14 @@ This creates a distinctive therapeutic posture: the existential therapist does n
 
 ## Love and Otherness
 
-May and Yalom emphasize that genuine love involves the capacity to tolerate the permanent strangeness of the other. The beloved is never fully knowable, never entirely within our control, never a perfect mirror of our desires. This opacity, far from being a tragedy, is essential to love. The moment we believe we have completely understood and captured the beloved, we have stopped loving them and begun relating to our fantasy of them.
+Existential writers, including May, emphasize that genuine love involves the capacity to tolerate the permanent strangeness of the other. The beloved is never fully knowable, never entirely within our control, never a perfect mirror of our desires. This opacity, far from being a tragedy, is essential to love. The moment we believe we have completely understood and captured the beloved, we have stopped loving them and begun relating to our fantasy of them.
 
 In clinical work, the distinction between love and its counterfeits becomes therapeutically crucial. Jealous possessiveness is mistaken for love. Caretaking of a dependent other is mistaken for love. The desire to be chosen is mistaken for love. True love, by existential standards, is the capacity to want the other's good even when it is not convenient for us, to remain committed to them as a subject and not an object, and to accept that loving another is a choice we must remake daily.
 
 ## Sources
 
 1. Buber, M. (1970). *I and Thou*. (W. Kaufmann, Trans.). Charles Scribner's Sons.
-2. de Beauvoir, S. (1949). *The Second Sex*. Penguin Books.
+2. de Beauvoir, S. (1949). *Le Deuxième Sexe*. Gallimard. (English: *The Second Sex*, trans. H. M. Parshley, 1953.)
 3. May, R. (1969). *Love and Will*. W. W. Norton & Company.
 4. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 

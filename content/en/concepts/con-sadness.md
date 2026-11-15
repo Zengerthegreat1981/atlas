@@ -14,8 +14,7 @@ related:
   - id: "con-death", title: "Death", type: "مفهوم"
   - id: "con-meaning", title: "Meaning and Meaninglessness: The School's Dividing Line", type: "مفهوم"
 gaps:
-  - "لا يوجد مدخل منفصل بعد لـ'الاكتئاب' كحالة سريرية لمقارنته بالحزن كشعور طبيعي"
-  - "غياب مصادر عن الحزن في التراث العربي (الرثاء، أدب الفقد)"
+  - "Sources on sadness in the Arabic tradition (ritha', the literature of loss): not yet covered"
 ---
 
 # Sadness
@@ -30,21 +29,25 @@ Richard Lazarus, whose appraisal theory shaped modern emotion psychology, treate
 
 ## Sadness, Grief, and Loss
 
-Sadness shades into grief when the loss is the death of a loved one or the rupture of a deep attachment. John Bowlby's third volume of *Attachment and Loss*, *Loss: Sadness and Depression* (1980), remains the foundational account of this territory. Drawing on decades of observation, Bowlby described mourning as a phased, biologically grounded response: protest and searching for the lost person, despair as the loss becomes undeniable, and finally detachment and reorganisation, in which the bereaved person rebuilds a life that no longer includes the one who died.
+Sadness shades into grief when the loss is the death of a loved one or the rupture of a deep attachment. John Bowlby's third volume of *Attachment and Loss*, *Loss: Sadness and Depression* (1980), remains the foundational account of this territory. Drawing on decades of observation, Bowlby described mourning as a phased, biologically grounded response: numbing, yearning and searching for the lost person, disorganisation and despair as the loss becomes undeniable, and finally reorganisation, in which the bereaved person rebuilds a life that no longer includes the one who died.
 
 Sigmund Freud had drawn a similar line much earlier in "Mourning and Melancholia" (1917): in normal mourning the world becomes poor and empty, whereas in melancholia the self itself becomes poor and empty.
 
 ## The Body and Brain of Sadness
 
-Sadness has a visible signature. Charles Darwin, in *The Expression of the Emotions in Man and Animals* (1872), described the downturned mouth, the raised inner corners of the eyebrows, and the slackening of the muscles that mark the sad face — expressions he found recognisable across cultures and even in the blind, suggesting an innate basis. Modern research confirms that the sad face is recognised with high accuracy across very different societies, even though the rules governing when it may be displayed vary widely.
+Sadness has a visible signature. Charles Darwin, in *The Expression of the Emotions in Man and Animals* (1872), described the downturned mouth, the raised inner corners of the eyebrows, and the slackening of the muscles that mark the sad face — expressions he regarded as widely recognisable, suggesting an innate basis. Modern cross-cultural research finds that the sad face is recognised at above-chance levels across very different societies, though recognition is not uniform and the rules governing when it may be displayed vary widely.
 
 Beneath the expression, sadness involves a distinctive bodily state: low arousal, reduced motor activity, a heaviness in the limbs, and often tears. Jaak Panksepp, in *Affective Neuroscience* (1998), traced the neural systems underlying separation distress in mammals, showing that the panic-grief system — activated by separation from attachment figures — is one of the brain's primary emotional circuits, shared across species and modulated by opioids and oxytocin.
 
 ## Cultural Variation
 
-How sadness is expressed, and what it is taken to mean, differs sharply between cultures. Batja Mesquita and Nico Frijda, reviewing cross-cultural evidence in 1992, showed that in individualist cultures sadness is typically understood as a private, interior experience, to be managed by the individual; in collectivist cultures it is more often a shared, public event, expressed openly in ritual and borne by the community. Whether sadness is displayed or concealed, whether it is spoken of or endured in silence, and whether it is treated as weakness or as a dignified response to loss, all depend on the cultural scripts a person has learned.
+How sadness is expressed, and what it is taken to mean, differs sharply between cultures. Batja Mesquita and Nico Frijda, reviewing cross-cultural evidence in 1992, documented systematic cultural differences in how emotions are appraised, expressed and regulated. Such differences are often discussed in terms of individualist and collectivist cultural models: where the self is seen as independent, sadness tends to be treated as a private experience to be managed by the individual, whereas where the self is seen as interdependent it may be more openly shared and ritualised. Whether sadness is displayed or concealed, whether it is spoken of or endured in silence, and whether it is treated as weakness or as a dignified response to loss, all depend on the cultural scripts a person has learned.
 
 This variation opens a research question that remains largely unexplored for the Arab context: the traditions of elegy (*ritha'*) and the literature of loss in Arabic culture treat grief as a public, poetic, and communal act, quite unlike the privatised model dominant in much Western psychology.
+
+## Sadness and Depression
+
+Sadness is a normal emotion; depression is a clinical condition. In DSM-5-TR, major depressive disorder requires, over at least two weeks, depressed mood or loss of interest or pleasure together with several other symptoms (such as sleep or appetite change, fatigue, worthlessness or guilt, difficulty concentrating, and thoughts of death), causing significant distress or impairment. Sadness that is proportionate, tied to a loss, and comes in waves is not by itself a disorder, and clinical judgement is needed to tell the two apart. Anyone with persistent low mood, hopelessness or thoughts of self-harm should seek professional help.
 
 ## Sadness and Meaning
 

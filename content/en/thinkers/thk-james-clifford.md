@@ -14,7 +14,7 @@ edges:
   - rel: "influenced", target: "Ethnographic Authority", target_type: "مفهوم"
 related:
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
-  - id: "thk-george-marcus", title: "George Marcus", type: "مفكร"
+  - id: "thk-george-marcus", title: "George Marcus", type: "مفكر"
 gaps:
   - "Engagement with indigenous critiques of ethnographic writing"
   - "Contemporary applications of reflexivity in multi-media ethnography"

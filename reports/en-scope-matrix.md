@@ -5,9 +5,9 @@ EN counts come from `check_en_release.py`; AR counts are an inventory of existin
 
 | module | EN total | placeholder | draft | review-candidate | AR assets | next action |
 |---|--:|--:|--:|--:|--:|---|
-| psychology | 94 | 0 | 5 | 89 | 3522 | source review + close drafts |
+| psychology | 309 | 0 | 0 | 309 | 3522 | source review + close drafts |
 | philosophy | 76 | 0 | 10 | 66 | 2846 | source review + close drafts |
-| sociology | 293 | 0 | 118 | 175 | 1262 | source review + close drafts |
+| sociology | 293 | 0 | 5 | 288 | 1262 | source review + close drafts |
 | anthropology | 355 | 3 | 3 | 349 | 1186 | source review + close drafts |
 | linguistics | 0 | 0 | 0 | 0 | 1200 | define scope list, then author/review |
 | political-economy | 0 | 0 | 0 | 0 | 1101 | define scope list, then author/review |

@@ -23,9 +23,9 @@ Camus named this condition the "Absurd": the collision between human beings' fun
 
 ## Meaninglessness as Clinical Phenomenon
 
-In clinical practice, meaninglessness often presents as anhedonia (nothing brings pleasure), as a hollow success (achievement that leaves the person feeling empty), or as an existential depression distinct from clinical depression—the person may function adequately, may have supportive relationships, may have health, yet reports a persistent sense that life is "pointless" or "a performance."
+In clinical practice, meaninglessness often presents as anhedonia (nothing brings pleasure), as a hollow success (achievement that leaves the person feeling empty), or as what some writers call an "existential depression", not a formal diagnosis—the person may function adequately, may have supportive relationships, may have health, yet reports a persistent sense that life is "pointless" or "a performance."
 
-Frankl's concentration camp observations are instructive: prisoners who maintained a sense of meaning (whether spiritual, familial, or vocational) were more likely to survive; those who lost all sense of purpose deteriorated rapidly. This suggests that meaninglessness is not merely a cognitive distortion but a condition with biological and psychological consequences. The reverse is also true: restoring meaning, or discovering meaning in constrained circumstances, can alter the trajectory of suffering.
+Frankl's concentration camp observations are instructive: Frankl reported that prisoners who kept a sense of meaning (whether spiritual, familial, or vocational) seemed better able to endure, while those who lost all sense of purpose deteriorated; this is his clinical impression rather than a controlled finding. It suggests that meaninglessness is not merely a cognitive distortion but can have serious psychological consequences, and that discovering meaning even in constrained circumstances may change how suffering is borne.
 
 Meaninglessness differs from goal loss. A person can lose a particular goal (a career path, a relationship) and grieve it while still possessing a sense that life itself is meaningful. Meaninglessness is more encompassing: it is the sense that meaning itself is unavailable or illusory. This can manifest as:
 

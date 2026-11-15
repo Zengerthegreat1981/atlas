@@ -13,9 +13,7 @@ active_end: "مستمر"
 edges: []
 related:
  - id: "con-anxiety-existential", title: "Anxiety (Cognitive and Neuroscientific)", type: "مفهوم"
-gaps:
- - "هذا مدخل أول تأسيسي لنوع 'التقنية/التدخل العلاجي' — لم تُضَف بعد تقنيات أخرى موثقة (كالتعرض التدريجي أو اليقظة الذهنية) رغم أهميتها الواضحة"
- - "لا توجد بعد دراسات فعالية محددة موثقة (يمكن ربطها لاحقاً بنوع 'دراسة وبحث' الجديد أيضاً) لدعم هذا الادعاء تجريبياً في هذا المدخل تحديداً"
+gaps: []
 ---
 
 # Cognitive Reappraisal
@@ -28,7 +26,7 @@ Reappraisal is a describable, teachable practice, independent of any one theory 
 
 ## History
 
-The theoretical foundation was laid by Richard Lazarus in his appraisal model of emotion. In *Psychological Stress and the Coping Process* (1966), Lazarus argued that emotion follows from the evaluation of a situation — its relevance to one's goals, its threat or benefit — rather than from the situation itself, and that changing the evaluation is therefore the available point of intervention. Lazarus and Susan Folkman developed the account in *Stress, Appraisal, and Coping* (1984). James Gross then made the principle operational in his process model of emotion regulation: in "Antecedent- and Response-Focused Emotion Regulation" (1998), Gross classified reappraisal as an antecedent-focused strategy, one that acts before the emotion is fully generated, and showed experimentally that it reduces the experience and physiological signs of negative emotion without the costs associated with suppression. Kevin Ochsner and Gross (2005) extended the account with neuroimaging evidence, showing that reappraisal engages prefrontal control regions and reduces activity in the amygdala. Gross (2002) further showed that habitual reappraisal is associated with better social functioning and well-being than habitual suppression.
+The theoretical foundation was laid by Richard Lazarus in his appraisal model of emotion. In *Psychological Stress and the Coping Process* (1966), Lazarus argued that emotion follows from the evaluation of a situation — its relevance to one's goals, its threat or benefit — rather than from the situation itself, and that changing the evaluation is therefore the available point of intervention. Lazarus and Susan Folkman developed the account in *Stress, Appraisal, and Coping* (1984). James Gross then made the principle operational in his process model of emotion regulation: in "Antecedent- and Response-Focused Emotion Regulation" (1998), Gross classified reappraisal as an antecedent-focused strategy, one that acts before the emotion is fully generated, and showed experimentally that it reduces the experience and physiological signs of negative emotion without the costs associated with suppression. Kevin Ochsner and Gross (2005) extended the account with neuroimaging evidence, showing that reappraisal engages prefrontal control regions and reduces activity in the amygdala. Gross and John (2003) further reported that people who habitually use reappraisal tend to show better emotional, social and well-being outcomes than those who habitually use suppression.
 
 ## How it works
 
@@ -40,7 +38,7 @@ Lazarus supplies the theory of appraisal; Folkman the account of coping that gre
 
 ## Evidence and influence
 
-Reappraisal is among the best-supported techniques in emotion science. Gross's 1998 experiments showed that reappraisal reduced self-reported negative emotion and sympathetic activation, while suppression reduced expression but not experience, and carried physiological costs. Neuroimaging studies have repeatedly found that instructed reappraisal down-regulates amygdala activity through prefrontal control. As a clinical component, reappraisal is central to cognitive behavioural protocols for anxiety and depression, including social anxiety disorder, where Gross's group used functional imaging to track its effect on amygdala activity during exposure to threatening social stimuli. The evidence, however, is mostly about the mechanism rather than about reappraisal as a standalone protocol: there is no large randomised trial of reappraisal alone as a treatment, and the effects documented in the laboratory are smaller and less durable than the effects of full treatment packages in which reappraisal is one element among several. That qualification belongs in the record.
+Reappraisal is among the best-supported techniques in emotion science. Gross's 1998 experiments showed that reappraisal reduced the experience and expression of negative emotion without the physiological costs seen with suppression, which reduced expression but not experience and increased sympathetic activation. Neuroimaging studies have repeatedly found that instructed reappraisal down-regulates amygdala activity through prefrontal control. As a clinical component, reappraisal is central to cognitive behavioural protocols for anxiety and depression, including social anxiety disorder, where Goldin, McRae, Ramel and Gross (2008) used functional imaging to examine its neural effects when people reappraised social-anxiety-related self-beliefs. The evidence, however, is mostly about the mechanism rather than about reappraisal as a standalone protocol: few randomised trials have tested reappraisal alone as a treatment, and the effects documented in the laboratory are smaller and less durable than the effects of full treatment packages in which reappraisal is one element among several. That qualification belongs in the record.
 
 ## How it differs from defusion
 
@@ -52,7 +50,7 @@ Reappraisal has limits that its own literature acknowledges. It works best for e
 
 ## Key works
 
-Lazarus and Folkman's *Stress, Appraisal, and Coping* (1984) is the theoretical source. Gross's 1998 paper is the key experimental statement, and Ochsner and Gross (2005) the standard review of its neural basis. Gross (2002) connects the laboratory findings to everyday social and emotional functioning.
+Lazarus and Folkman's *Stress, Appraisal, and Coping* (1984) is the theoretical source. Gross's 1998 paper is the key experimental statement, and Ochsner and Gross (2005) the standard review of its neural basis. Gross (2002) reviews the affective, cognitive and social consequences of reappraisal and suppression.
 
 ## Sources
 
@@ -60,4 +58,5 @@ Lazarus and Folkman's *Stress, Appraisal, and Coping* (1984) is the theoretical 
 - Lazarus, Richard S., and Folkman, Susan (1984). *Stress, Appraisal, and Coping*. Springer.
 - Gross, James J. (1998). Antecedent- and response-focused emotion regulation: divergent consequences for experience, expression, and physiology. *Journal of Personality and Social Psychology*, 74(1), 224–237.
 - Gross, James J. (2002). Emotion regulation: affective, cognitive, and social consequences. *Psychophysiology*, 39(3), 281–291.
+- Gross, James J., and John, Oliver P. (2003). Individual differences in two emotion regulation processes: implications for affect, relationships, and well-being. *Journal of Personality and Social Psychology*, 85(2), 348–362.
 - Ochsner, Kevin N., and Gross, James J. (2005). The cognitive control of emotion. *Trends in Cognitive Sciences*, 9(5), 242–249.

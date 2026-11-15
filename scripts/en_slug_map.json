@@ -1,0 +1,689 @@
+{
+ "generated": "2026-11-08",
+ "purpose": "Maps English slugs that have a confirmed Arabic twin under a DIFFERENT slug. Read by future EN build/audit tooling. No file was renamed by this manifest; it is the record of what would need renaming or aliasing.",
+ "counts": {
+  "pairs": 99,
+  "duplicate_en_twins": 6,
+  "nfd_filenames": 2,
+  "same_slug_pairs": 193,
+  "unmapped_en_slugs": 646
+ },
+ "match_methods": {
+  "unique": 88,
+  "type": 6,
+  "manual": 5
+ },
+ "pairs": [
+  {
+   "en_slug": "br-conversation-analysis",
+   "ar_slug": "sch-conversation-analysis",
+   "en_name": "Conversation Analysis",
+   "match": "unique"
+  },
+  {
+   "en_slug": "br-digital-sociology",
+   "ar_slug": "wrk-digital-sociology-lupton",
+   "en_name": "Digital Sociology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "con-agency",
+   "ar_slug": "con-agency-anthropology",
+   "en_name": "Agency",
+   "match": "unique"
+  },
+  {
+   "en_slug": "con-bilateral",
+   "ar_slug": "con-bilateral-kinship",
+   "en_name": "Bilateral Kinship",
+   "match": "unique"
+  },
+  {
+   "en_slug": "con-content-analysis",
+   "ar_slug": "ins-content-analysis-method",
+   "en_name": "Content Analysis",
+   "match": "unique"
+  },
+  {
+   "en_slug": "con-division-labor",
+   "ar_slug": "con-econ-anthropology-9",
+   "en_name": "Division of Labor",
+   "match": "unique"
+  },
+  {
+   "en_slug": "con-habitus",
+   "ar_slug": "con-habitus-anthropology",
+   "en_name": "Habitus",
+   "match": "unique"
+  },
+  {
+   "en_slug": "con-kinship",
+   "ar_slug": "wrk-kinship-anthropology-sahlins",
+   "en_name": "Kinship",
+   "match": "unique"
+  },
+  {
+   "en_slug": "con-shaman",
+   "ar_slug": "con-shamanism",
+   "en_name": "Shamanism",
+   "match": "unique"
+  },
+  {
+   "en_slug": "con-social-capital",
+   "ar_slug": "con-econ-anthropology-6",
+   "en_name": "Social Capital",
+   "match": "unique"
+  },
+  {
+   "en_slug": "hst-arrian",
+   "ar_slug": "thk-arrian",
+   "en_name": "Arrian",
+   "match": "unique"
+  },
+  {
+   "en_slug": "hst-posidonius",
+   "ar_slug": "thk-posidonius",
+   "en_name": "Posidonius",
+   "match": "unique"
+  },
+  {
+   "en_slug": "hst-xenophon",
+   "ar_slug": "thk-xenophon",
+   "en_name": "Xenophon",
+   "match": "unique"
+  },
+  {
+   "en_slug": "sch-comtean-positivism-english",
+   "ar_slug": "sch-comtean-positivism",
+   "en_name": "Comtean Positivism",
+   "match": "unique"
+  },
+  {
+   "en_slug": "sch-durkheimian-functionalism-english",
+   "ar_slug": "sch-durkheimian-structural-functionalism",
+   "en_name": "Durkheimian Structural Functionalism",
+   "match": "unique"
+  },
+  {
+   "en_slug": "sch-marxist-classical-sociology-english",
+   "ar_slug": "sch-marxist-classical-sociology",
+   "en_name": "Marxist Classical Sociology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "sch-parsonian-agil-english",
+   "ar_slug": "sch-parsonian-structural-functionalism-agil",
+   "en_name": "Parsonian Structural Functionalism",
+   "match": "unique"
+  },
+  {
+   "en_slug": "sch-simmelian-formal-english",
+   "ar_slug": "sch-simmelian-formal-sociology",
+   "en_name": "Simmelian Formal Sociology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-applied-anthropology",
+   "ar_slug": "sch-applied-anthropology-expanded",
+   "en_name": "Applied Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-british-functionalism",
+   "ar_slug": "sch-british-functionalism",
+   "en_name": "British Functionalism",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-development-anthropology",
+   "ar_slug": "sch-applied-anthropology-development",
+   "en_name": "Development Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-digital-anthropology",
+   "ar_slug": "sch-digital-anthropology",
+   "en_name": "Digital Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-disability-anthropology",
+   "ar_slug": "con-disability-anthropology",
+   "en_name": "Disability Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-economic-anthropology",
+   "ar_slug": "sch-economic-anthropology-expanded",
+   "en_name": "Economic Anthropology",
+   "match": "type"
+  },
+  {
+   "en_slug": "scl-feminist-anthropology",
+   "ar_slug": "sch-feminist-anthropology",
+   "en_name": "Feminist Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-linguistic-anthropology",
+   "ar_slug": "sch-linguistic-anthropology-expanded",
+   "en_name": "Linguistic Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-medical-anthropology",
+   "ar_slug": "sch-medical-anthropology",
+   "en_name": "Medical Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-queer-anthropology",
+   "ar_slug": "sch-queer-anthropology",
+   "en_name": "Queer Anthropology",
+   "match": "type"
+  },
+  {
+   "en_slug": "scl-sensory-anthropology",
+   "ar_slug": "con-sensory-anthropology",
+   "en_name": "Sensory Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-urban-anthropology",
+   "ar_slug": "sch-urban-anthropology-expanded",
+   "en_name": "Urban Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "tec-phenomenological-method",
+   "ar_slug": "tec-phenomenological-exploration",
+   "en_name": "Phenomenological Exploration",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-ali-al-wardi",
+   "ar_slug": "thk-alwardi",
+   "en_name": "Ali Al-Wardi",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-anselm-l-strauss",
+   "ar_slug": "thk-anselm-strauss",
+   "en_name": "Anselm L. Strauss",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-arjun-appadurai",
+   "ar_slug": "thk-appadurai",
+   "en_name": "Arjun Appadurai",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-arlie-russell-hochschild",
+   "ar_slug": "thk-hochschild",
+   "en_name": "Arlie Russell Hochschild",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-auguste-comte",
+   "ar_slug": "thk-comte",
+   "en_name": "Auguste Comte",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-bell-hooks",
+   "ar_slug": "thk-bhooks",
+   "en_name": "bell hooks",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-boas",
+   "ar_slug": "thk-franz-boas",
+   "en_name": "Franz Boas",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-bruno-latour",
+   "ar_slug": "thk-latour",
+   "en_name": "Bruno Latour",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-buber",
+   "ar_slug": "thk-mbuber",
+   "en_name": "Martin Buber",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-donna-haraway",
+   "ar_slug": "thk-haraway",
+   "en_name": "Donna Haraway",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-douglas",
+   "ar_slug": "thk-mary-douglas",
+   "en_name": "Mary Douglas",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-ernest-becker",
+   "ar_slug": "thk-becker",
+   "en_name": "Ernest Becker",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-erving-goffman",
+   "ar_slug": "thk-goffman",
+   "en_name": "Erving Goffman",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-florian-znaniecki",
+   "ar_slug": "thk-znaniecki",
+   "en_name": "Florian Znaniecki",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-frantz-fanon",
+   "ar_slug": "thk-fanon",
+   "en_name": "Frantz Fanon",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-geertz",
+   "ar_slug": "thk-clifford-geertz",
+   "en_name": "Clifford Geertz",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-georg-simmel",
+   "ar_slug": "thk-simmel",
+   "en_name": "Georg Simmel",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-gluckman",
+   "ar_slug": "thk-max-gluckman",
+   "en_name": "Max Gluckman",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-gregory-bateson",
+   "ar_slug": "thk-gbateson",
+   "en_name": "Gregory Bateson",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-harriet-martineau",
+   "ar_slug": "thk-martineau",
+   "en_name": "Harriet Martineau",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-herbert-blumer",
+   "ar_slug": "thk-blumer",
+   "en_name": "Herbert Blumer",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-herbert-spencer",
+   "ar_slug": "thk-spencer",
+   "en_name": "Herbert Spencer",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-howard-s-becker",
+   "ar_slug": "thk-howard-becker",
+   "en_name": "Howard S. Becker",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-immanuel-wallerstein",
+   "ar_slug": "thk-wallerstein",
+   "en_name": "Immanuel Wallerstein",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-james-s-coleman",
+   "ar_slug": "thk-coleman",
+   "en_name": "James S. Coleman",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-judith-butler",
+   "ar_slug": "thk-butler",
+   "en_name": "Judith Butler",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-karl-marx",
+   "ar_slug": "thk-marx",
+   "en_name": "Karl Marx",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-kimberlé-crenshaw",
+   "ar_slug": "thk-crenshaw",
+   "en_name": "Kimberlé Crenshaw",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-levistrauss",
+   "ar_slug": "thk-claude-levi-strauss",
+   "en_name": "Claude Lévi-Strauss",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-linda-tuhiwai-smith",
+   "ar_slug": "thk-lindatuhiwai",
+   "en_name": "Linda Tuhiwai Smith",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-max-weber",
+   "ar_slug": "thk-weber",
+   "en_name": "Max Weber",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-michel-foucault",
+   "ar_slug": "thk-foucault",
+   "en_name": "Michel Foucault",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-myerhoff",
+   "ar_slug": "thk-barbara-myerhoff",
+   "en_name": "Barbara Myerhoff",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-ortner",
+   "ar_slug": "thk-sherry-ortner",
+   "en_name": "Sherry Ortner",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-patricia-hill-collins",
+   "ar_slug": "thk-phcollins",
+   "en_name": "Patricia Hill Collins",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-pierre-bourdieu",
+   "ar_slug": "thk-bourdieu",
+   "en_name": "Pierre Bourdieu",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-ralf-dahrendorf",
+   "ar_slug": "thk-dahrendorf",
+   "en_name": "Ralf Dahrendorf",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-robert-k-merton",
+   "ar_slug": "thk-robert-merton",
+   "en_name": "Robert K. Merton",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-talcott-parsons",
+   "ar_slug": "thk-parsons",
+   "en_name": "Talcott Parsons",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-turner",
+   "ar_slug": "thk-victor-turner",
+   "en_name": "Victor Turner",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-zora-hurston",
+   "ar_slug": "thk-zora-neale-hurston",
+   "en_name": "Zora Neale Hurston",
+   "match": "unique"
+  },
+  {
+   "en_slug": "thk-émile-durkheim",
+   "ar_slug": "thk-durkheim",
+   "en_name": "Émile Durkheim",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-african-systems",
+   "ar_slug": "wrk-african-political-systems-fortes-evans-pritchard",
+   "en_name": "African Political Systems",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-argonauts",
+   "ar_slug": "wrk-argonauts-western-pacific-malinowski",
+   "en_name": "Argonauts of the Western Pacific",
+   "match": "type"
+  },
+  {
+   "en_slug": "wrk-balinese-cockfight",
+   "ar_slug": "stu-geertz-balinese-cockfight",
+   "en_name": "Deep Play: Notes on the Balinese Cockfight",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-coming-age",
+   "ar_slug": "wrk-coming-of-age-samoa-mead",
+   "en_name": "Coming of Age in Samoa",
+   "match": "type"
+  },
+  {
+   "en_slug": "wrk-forest-symbols",
+   "ar_slug": "stu-turner-lele-ritual",
+   "en_name": "The Forest of Symbols",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-interpretation-cultures",
+   "ar_slug": "wrk-interpretation-of-cultures-geertz",
+   "en_name": "The Interpretation of Cultures",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-liquid-modernity",
+   "ar_slug": "wrk-liquid-modernity-bauman",
+   "en_name": "Liquid Modernity",
+   "match": "manual"
+  },
+  {
+   "en_slug": "wrk-mind-primitive",
+   "ar_slug": "wrk-mind-of-primitive-man-boas",
+   "en_name": "The Mind of Primitive Man",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-nuer",
+   "ar_slug": "stu-evans-pritchard-the-nuer",
+   "en_name": "The Nuer",
+   "match": "manual"
+  },
+  {
+   "en_slug": "wrk-orientalism",
+   "ar_slug": "wrk-orientalism-said",
+   "en_name": "Orientalism",
+   "match": "manual"
+  },
+  {
+   "en_slug": "wrk-outline-of-a-theory-of-practice",
+   "ar_slug": "wrk-outline-theory-practice-bourdieu",
+   "en_name": "Outline of a Theory of Practice",
+   "match": "type"
+  },
+  {
+   "en_slug": "wrk-political-systems",
+   "ar_slug": "stu-leach-political-systems-highlands-burma",
+   "en_name": "Political Systems of Highland Burma",
+   "match": "manual"
+  },
+  {
+   "en_slug": "wrk-purity-danger",
+   "ar_slug": "wrk-purity-and-danger-douglas",
+   "en_name": "Purity and Danger",
+   "match": "type"
+  },
+  {
+   "en_slug": "wrk-schism-continuity",
+   "ar_slug": "stu-turner-schism-continuity",
+   "en_name": "Schism and Continuity in an African Society",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-structure-function-primitive",
+   "ar_slug": "wrk-structure-function-primitive-society-radcliffe-brown",
+   "en_name": "Structure and Function in Primitive Society",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-the-presentation-of-self-in-everyday-life",
+   "ar_slug": "wrk-goffman-presentation-self",
+   "en_name": "The Presentation of Self in Everyday Life",
+   "match": "manual"
+  },
+  {
+   "en_slug": "wrk-the-protestant-ethic-and-the-spirit-of-capitalism",
+   "ar_slug": "wrk-protestant-ethic-spirit-capitalism-weber",
+   "en_name": "The Protestant Ethic and the Spirit of Capitalism",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-the-second-sex",
+   "ar_slug": "wrk-second-sex",
+   "en_name": "The Second Sex",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-the-social-system",
+   "ar_slug": "wrk-social-system-parsons",
+   "en_name": "The Social System",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-the-sociological-imagination",
+   "ar_slug": "con-sociological-imagination-mills",
+   "en_name": "The Sociological Imagination",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-cultural-relativism",
+   "ar_slug": "con-cultural-relativism-boas",
+   "en_name": "Cultural Relativism",
+   "match": "unique"
+  },
+  {
+   "en_slug": "con-rites-passage",
+   "ar_slug": "con-rite-of-passage",
+   "en_name": "Rites of Passage",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-political-anthropology",
+   "ar_slug": "br-political-anthropology-subfield",
+   "en_name": "Political Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "scl-psychological-anthropology",
+   "ar_slug": "sch-psychological-anthropology",
+   "en_name": "Psychological Anthropology",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-street-corner-society",
+   "ar_slug": "stu-whyte-street-corner-society",
+   "en_name": "Street Corner Society",
+   "match": "unique"
+  },
+  {
+   "en_slug": "wrk-patterns-culture",
+   "ar_slug": "wrk-patterns-of-culture-benedict",
+   "en_name": "Patterns of Culture",
+   "match": "unique"
+  }
+ ],
+ "duplicate_en_twins": [
+  {
+   "en_slug": "con-cultural-relativism",
+   "ar_slug": "con-cultural-relativism-boas",
+   "en_name": "Cultural Relativism",
+   "match": "unique",
+   "status": "duplicate_en_twin",
+   "archived": "2026-11-08",
+   "archived_to": "content/en/_merged/"
+  },
+  {
+   "en_slug": "wrk-rites-passage",
+   "ar_slug": "con-rite-of-passage",
+   "en_name": "Rites of Passage",
+   "match": "unique",
+   "status": "duplicate_en_twin",
+   "archived": "2026-11-08",
+   "archived_to": "content/en/_merged/"
+  },
+  {
+   "en_slug": "wrk-politics-anthropology",
+   "ar_slug": "br-political-anthropology-subfield",
+   "en_name": "Political Anthropology",
+   "match": "unique",
+   "status": "duplicate_en_twin",
+   "archived": "2026-11-08",
+   "archived_to": "content/en/_merged/"
+  },
+  {
+   "en_slug": "wrk-psychological-anthropology",
+   "ar_slug": "sch-psychological-anthropology",
+   "en_name": "Psychological Anthropology",
+   "match": "unique",
+   "status": "duplicate_en_twin",
+   "archived": "2026-11-08",
+   "archived_to": "content/en/_merged/"
+  },
+  {
+   "en_slug": "stu-street-corner-society",
+   "ar_slug": "stu-whyte-street-corner-society",
+   "en_name": "Street Corner Society",
+   "match": "unique",
+   "status": "duplicate_en_twin",
+   "archived": "2026-11-08",
+   "archived_to": "content/en/_merged/"
+  },
+  {
+   "en_slug": "wrk-patterns-of-culture",
+   "ar_slug": "wrk-patterns-of-culture-benedict",
+   "en_name": "Patterns of Culture",
+   "match": "unique",
+   "status": "duplicate_en_twin",
+   "archived": "2026-11-08",
+   "archived_to": "content/en/_merged/"
+  }
+ ],
+ "nfd_filenames": [
+  {
+   "nfc_slug": "thk-émile-durkheim",
+   "actual_filename": "thk-émile-durkheim.md"
+  },
+  {
+   "nfc_slug": "thk-kimberlé-crenshaw",
+   "actual_filename": "thk-kimberlé-crenshaw.md"
+  }
+ ],
+ "notes": [
+  "match=unique: exactly one Arabic node carries this en-name.",
+  "match=type: several candidates, exactly one shares the English node type.",
+  "match=manual: disambiguated by hand; see manual_resolutions.",
+  "duplicate_en_twin: two English files map to one Arabic node; the substantive English file is kept as the pair, the other is listed under duplicate_en_twins for later merge or archive.",
+  "thk-buber (en) vs thk-mbuber (ar) is NOT in pairs: they are two distinct entries (THK-0314 vs THK-1538) with different school lineages; needs a merge decision, not a rename.",
+  "same_slug_pairs: English and Arabic slugs that already match exactly; no mapping needed.",
+  "unmapped_en_slugs: English slugs with no Arabic twin by name or slug; they are candidates for future Arabic nodes, not for deletion.",
+  "duplicate_en_twins: all 6 were archived to content/en/_merged/ on 2026-11-08 with a MANIFEST.md entry; incoming related-links were repointed to the surviving twin (3 files updated for con-cultural-relativism -> scl-cultural-relativism).",
+  "NFD resolution (2026-11-08): filenames CANNOT be NFC-normalized on this ExFAT volume (macOS normalizes all names to NFD on write; verified by probe). However the frontmatter slug in both files IS NFC and matches the filename after normalization, so build and audit are unaffected. Rule: always NFC-normalize before cross-language string comparison; never try to fix filenames on this disk."
+ ]
+}

@@ -14,7 +14,7 @@ related:
   - id: "thk-bugental", title: "Bugental", type: "مفكر"
   - id: "thk-buber", title: "Martin Buber", type: "مفكر"
 gaps:
-  - "Textual passages for each formulation — not yet entered"
+  - "Textual passages for each formulation: not yet covered"
 ---
 
 # Relation and Encounter
@@ -27,7 +27,7 @@ The question: is the therapeutic relationship a **vessel** for the treatment, or
 
 ## Core Disputes Within the Concept
 
-The founding dispute: **Sartre against Buber** — is encounter possible? And a second, contemporary dispute: **is there a describable individual outside relation?** Spinelli says no, and most of the school says yes in varying degrees.
+The founding dispute: **Sartre against Buber** — is encounter possible? And a second, contemporary dispute: **is there a describable individual outside relation?** Ernesto Spinelli says no, and most of the school says yes in varying degrees.
 
 ## How It Appears in the Session
 
@@ -49,7 +49,7 @@ It **does not mean** that the therapeutic relationship must be an I-Thou encount
 
 ## The Arab and Cultural Context
 
-Buber's and Levinas's philosophy of encounter arose from deep religious and Jewish thinking about the other, but was recently formulated in universal philosophical terms largely secular in tone. In Arab contexts, close concepts already exist in the heritage — such as hospitality, the inviolability of the other, and the notion of "al-rahim" (kinship ties) in family relations — but they are not exactly identical to existential "encounter," which presupposes an individualist parity between two independent selves, whereas many traditional Arab relationships are built on a recognized hierarchy (elder and younger, father and son) that parity does not necessarily abolish but which is lived differently from what Buber assumes.
+Buber's and Levinas's philosophy of encounter arose from deep religious and Jewish thinking about the other, but was recently formulated in universal philosophical terms largely secular in tone. In Arab contexts, close concepts already exist in the heritage — such as hospitality, the inviolability of the other, and the notion of *silat al-rahim* (maintaining kinship ties) in family relations — but they are not exactly identical to existential "encounter," which presupposes an individualist parity between two independent selves, whereas many traditional Arab relationships are built on a recognized hierarchy (elder and younger, father and son) that parity does not necessarily abolish but which is lived differently from what Buber assumes.
 There is no single Arabic word that conveys the precise difference between Ich-Du and Ich-Es as Buber formulated it; the available translations ("I-You" versus "I-It") are literal renderings that do not carry the full philosophical charge of the German original, and this creates a real gap between the text and its non-specialist Arab reader, calling for additional explanation that translation alone does not suffice.
 
 ## Comparative Table
@@ -60,5 +60,14 @@ There is no single Arabic word that conveys the precise difference between Ich-D
 | Sartre | The gaze of the other turns me into an object. Relation is a structural struggle between two consciousnesses that never fully meet. | Hard to build on, and used to understand shame more than to build relationship. | The direct adversary of Buber. |
 | Bugental | Presence is a skill that is learned and measured in degrees, not a trait the therapist has or lacks. | Systematic training in presence: noticing when and why the therapist withdraws mentally. | Turns Buber's philosophical concept into a craft. |
 | Yalom | Calculated transparency: the therapist shares what is happening in him, to a measure and at the right place, because the relationship itself is a living sample. | Using "what is happening between us now" as direct material in the session. | The broadest practical use of the concept, criticized for the risk of turning into display. |
-| Spinelli | Everything is relational. There is no independent client who is described and then given a relationship; what appears appears between the two. | Rejecting any description of the client apart from this particular relationship. | The most extreme formulation, and makes generalization from one case to another nearly impossible. |
-| van Deurzen | Relation is one of four dimensions, and it has its own structure: power, belonging, competition, and unity. | Surveying relationships as an arena of existence, not as the background of the problem. | More detailed and less romantic than the American formulations. |
+| Spinelli | (Ernesto Spinelli) Everything is relational. There is no independent client who is described and then given a relationship; what appears appears between the two. | Rejecting any description of the client apart from this particular relationship. | The most extreme formulation, and makes generalization from one case to another nearly impossible. |
+| van Deurzen | Relation is the social dimension, one of four dimensions of existence (physical, social, personal, spiritual), marked by tensions such as belonging and isolation, cooperation and competition, and power. | Surveying relationships as an arena of existence, not as the background of the problem. | More detailed and less romantic than the American formulations. |
+
+## Sources
+
+- Buber, M. (1970). *I and Thou* (W. Kaufmann, Trans.). Charles Scribner's Sons. (Original work published 1923)
+- Sartre, J.-P. (1943). *L'Etre et le neant*. Gallimard.
+- Bugental, J. F. T. (1987). *The Art of the Psychotherapist*. W. W. Norton.
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
+- Spinelli, E. (2007). *Practising Existential Psychotherapy: The Relational World*. SAGE.
+- van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice* (3rd ed.). SAGE.

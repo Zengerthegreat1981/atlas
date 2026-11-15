@@ -16,8 +16,15 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 BRIEF = "--brief" in sys.argv
 FAILURES = []
 
+# اللغة: --en يفحص data-en.json، والافتراضي ar يفحص data.json.
+AUDIT_LANG = "en" if "--en" in sys.argv else "ar"
+DATA_FILE = "data-en.json" if AUDIT_LANG == "en" else "data.json"
+
 def load():
-    with open(os.path.join(ROOT, "data.json"), encoding="utf-8") as f:
+    path = os.path.join(ROOT, DATA_FILE)
+    if not os.path.exists(path):
+        raise SystemExit(f"لا يوجد {DATA_FILE} — شغّل python3 scripts/build_atlas.py {AUDIT_LANG} أولاً")
+    with open(path, encoding="utf-8") as f:
         return json.load(f)["nodes"]
 
 def ok(name, n=0, info=""):

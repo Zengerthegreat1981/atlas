@@ -6,15 +6,15 @@ part: psychology
 level: "مبتدئ"
 title: "Shame and Guilt"
 en: "Shame and Guilt"
-crumb: "Emotion Psychology ← Concepts ← Shame and Guilt"
+crumb: "Psychology ← Concepts ← Shame and Guilt"
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
+  - id: "con-shame", title: "Shame (Existential Perspective)", type: "مفهوم"
   - id: "con-fear", title: "Fear", type: "مفهوم"
   - id: "con-sadness", title: "Sadness", type: "مفهوم"
 gaps:
-  - "لا يوجد بعد مصدر عربي إسلامي عن مفهومي الخزي والذنب (الغزالي تناول الخوف من الله وليس الخزي الاجتماعي تحديداً — يحتاج بحث دقيق)"
-  - "الفرق بين الخزي السليم والخزي السام (toxic shame) غير مستكشف بعد، وقد يحتاج مصدراً إكلينيكياً متخصصاً"
+  - "Arabic-Islamic sources on shame and guilt: not yet covered"
 ---
 
 # Shame and Guilt
@@ -29,13 +29,13 @@ Richard Lazarus gave the same distinction a precise appraisal form in *Emotion a
 
 ## Shame and Guilt in the Emotion Taxonomy
 
-In the prototype taxonomy of emotion developed by Shaver, Schwartz, Kirson, and O'Connor (1987), shame and guilt sit together inside the large sadness family, under a sub-category of remorse that also includes regret. This placement is instructive: shame and guilt are kin to sadness because they share its core theme of loss — the loss of standing, of approval, of the self one hoped to be.
+In the prototype taxonomy of emotion developed by Shaver, Schwartz, Kirson, and O'Connor (1987), shame and guilt sit together inside the large sadness family, in a shame subcategory that also includes regret and remorse. This placement is instructive: shame and guilt are kin to sadness because they share its core theme of loss — the loss of standing, of approval, of the self one hoped to be.
 
 Both emotions belong to the class psychologists call self-conscious emotions, because they require capacities that simpler emotions do not: a sense of self, an internalised set of standards, and the ability to imagine how one appears in the eyes of others.
 
 ## Empirical Research: Tangney and Dearing
 
-The distinction between shame and guilt was put to empirical test by June Price Tangney and Rhonda Dearing, whose programme of research culminated in *Shame and Guilt* (2002). Developing the Test of Self-Conscious Affect (TOSCA) and related measures, they asked large samples of adults and adolescents to describe how they would respond to everyday failures and transgressions, and tracked the correlates of shame-proneness and guilt-proneness over time.
+The distinction between shame and guilt was put to empirical test by June Price Tangney and Ronda Dearing, whose programme of research culminated in *Shame and Guilt* (2002). Developing the Test of Self-Conscious Affect (TOSCA) and related measures, they asked large samples of adults and adolescents to describe how they would respond to everyday failures and transgressions, and tracked the correlates of shame-proneness and guilt-proneness over time.
 
 Their findings gave the theoretical distinction real weight. People prone to shame were more likely to report symptoms of depression and anxiety, to externalise blame, and to respond to failure with anger directed at others. People prone to guilt showed weaker associations with psychological symptoms and were more likely to apologise and make amends. Guilt, in their data, looked like the adaptive member of the pair: painful but reparative. Shame looked like the risk factor: painful and paralysing.
 
@@ -47,11 +47,15 @@ Anthropologists of the Mediterranean world, including Lila Abu-Lughod in *Veiled
 
 ## Healthy and Toxic Shame
 
-Shame is not always destructive. Some researchers distinguish moral shame — the brief, sharp recognition that one has fallen short of one's own standards, which can prompt self-correction — from toxic or pathological shame, a chronic sense of the self as fundamentally defective, which is associated with depression, addiction, and trauma. A similar distinction applies to guilt, which can be constructive when it tracks real wrongdoing and destructive when it becomes free-floating and detached from any act. The Atlas notes that the boundary between healthy and toxic shame still needs a specialised clinical source.
+Shame is not always destructive. Some researchers distinguish moral shame — the brief, sharp recognition that one has fallen short of one's own standards, which can prompt self-correction — from toxic or pathological shame, a chronic sense of the self as fundamentally defective, which is associated with depression, addiction, and trauma. A similar distinction applies to guilt, which can be constructive when it tracks real wrongdoing and destructive when it becomes free-floating and detached from any act.
 
 ## Shame, Guilt, and Repair
 
-The practical difference between shame and guilt is most visible in what happens next. Guilt points outward toward the person harmed and asks: what can I do to make this right? Shame points inward toward the self and asks: how can I avoid being seen? Therapies that work with these emotions therefore aim less at eliminating them than at converting shame into guilt — moving the evaluation from the whole self to the specific act, where repair becomes possible. Understood this way, shame and guilt are not merely pains to be endured but instruments of moral life, flawed and dangerous, yet indispensable to how human beings hold themselves and one another to account.
+The practical difference between shame and guilt is most visible in what happens next. Guilt points outward toward the person harmed and asks: what can I do to make this right? Shame points inward toward the self and asks: how can I avoid being seen? Some therapeutic approaches therefore aim less at eliminating these emotions than at helping people move from global self-condemnation toward a focus on the specific act, where repair becomes possible. Understood this way, shame and guilt are not merely pains to be endured but instruments of moral life, flawed and dangerous, yet indispensable to how human beings hold themselves and one another to account.
+
+## Scope and Relation to Neighbouring Entries
+
+This entry covers the psychology and empirical research on shame and guilt. The existential reading of shame is in its own entry.
 
 ## Sources
 

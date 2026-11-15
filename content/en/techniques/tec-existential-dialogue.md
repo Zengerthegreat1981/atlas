@@ -9,12 +9,11 @@ en: "Existential Dialogue"
 crumb: "Psychotherapy ← Techniques ← Existential Dialogue"
 dates: "Europe · from the 1920s"
 active_start: 1923
-active_end: "ongoing"
+active_end: "مستمر"
 edges: []
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
-gaps:
-  - "This entry covers the general existential dialogue technique; the Socratic-existential dialogue entry in another Batch 19 group treats its Socratic form specifically."
+gaps: []
 ---
 
 # Existential Dialogue
@@ -39,12 +38,12 @@ Buber is the philosopher behind the technique, and his distinction between meeti
 
 ## Evidence and Influence
 
-Existential dialogue has almost no randomised trial evidence of its own, and its practitioners have often resisted the demand for it, arguing that a dialogue cannot be manualised without ceasing to be a dialogue. What evidence exists comes from the wider existential tradition: case studies, qualitative research, and the outcome literature on meaning-centred approaches descended from Frankl. The technique's influence is nevertheless wide. Its emphasis on the therapeutic relationship as a genuine encounter has shaped humanistic therapy, its use of Socratic questioning has been taken up by cognitive therapy, and its attention to the givens of existence has entered mainstream psychotherapy through Yalom's widely read books. The criticism is that dialogue without structure can drift, and that a therapist who mistakes conversation for treatment may leave a client with insight but no change. The defence is that some changes begin only when a person is truly heard — and that no technique can replace the encounter itself.
+Existential dialogue has little randomised trial evidence of its own, and its practitioners have often resisted the demand for it, arguing that a dialogue cannot be manualised without ceasing to be a dialogue. What evidence exists comes from the wider existential tradition: case studies, qualitative research, and the outcome literature on meaning-centred approaches descended from Frankl. The technique's influence is nevertheless wide. Its emphasis on the therapeutic relationship as a genuine encounter has shaped humanistic therapy, its use of Socratic questioning has been taken up by cognitive therapy, and its attention to the givens of existence has entered mainstream psychotherapy through Yalom's widely read books. The criticism is that dialogue without structure can drift, and that a therapist who mistakes conversation for treatment may leave a client with insight but no change. The defence is that some changes begin only when a person is truly heard — and that no technique can replace the encounter itself.
 
 ## Sources
 
 - Martin Buber, *I and Thou*, 1923.
-- Viktor E. Frankl, *Man's Search for Meaning: An Introduction to Logotherapy*, 1946.
+- Viktor E. Frankl, *Ein Psycholog erlebt das Konzentrationslager*, 1946 (English: *Man's Search for Meaning*).
 - Irvin D. Yalom, *Existential Psychotherapy*, 1980.
 - Emmy van Deurzen, *Existential Counselling in Practice*, 1988.
 - Mick Cooper, *Existential Therapies*, 2003.

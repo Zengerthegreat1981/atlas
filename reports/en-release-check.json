@@ -1,53 +1,52 @@
 {
-  "total_files": 906,
+  "total_files": 1121,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 549,
-    "pending": 120,
-    "short": 26,
+    "edge-target-by-name": 761,
+    "declared-gaps": 259,
+    "short": 21,
     "placeholder": 3,
     "duplicate-id-groups": 0
   },
   "flag_examples": {
     "edge-target-by-name": [
       "axm-existence-precedes-essence->Existentialist School",
+      "br-attachment-theory->Developmental Psychology",
       "br-british->Existentialist School",
       "br-british->van Deurzen",
       "br-british->American current",
       "br-british->Phenomenology",
       "br-british->Relational formulation",
+      "br-classical-psychoanalysis->Psychoanalysis",
+      "br-classical-psychoanalysis->Sigmund Freud",
       "br-daseins->Existentialist School",
       "br-daseins->Heidegger",
       "br-daseins->Binswanger and Boss",
       "br-daseins->American current",
       "br-daseins->Phenomenological psychopathology",
-      "br-humanistic->Existentialist School",
-      "br-humanistic->European existential analysis",
-      "br-humanistic->May, Bugental and Yalom",
-      "br-humanistic->British current"
+      "br-humanistic->Existentialist School"
     ],
-    "pending": [
+    "declared-gaps": [
+      "br-attachment-theory",
+      "br-classical-psychoanalysis",
       "br-sociology-of-art",
       "con-agency-anthropology",
       "con-alienation",
       "con-anomie",
+      "con-anxiety-existential",
+      "con-anxiety",
+      "con-attention",
+      "con-authenticity",
       "con-authority",
       "con-bias",
       "con-bureaucracy",
       "con-capital",
-      "con-case-study",
-      "con-causation",
-      "con-class",
-      "con-community",
-      "con-correlation",
-      "con-ethnocentrism",
-      "con-generalization"
+      "con-case-study"
     ],
     "short": [
       "con-being-toward-death",
       "con-division-labor",
-      "con-existential-guilt-ontological",
       "con-social-movement",
       "stu-schoolyard-stories",
       "stu-suburban-dreams",
@@ -55,11 +54,12 @@
       "stu-the-second-shift-in-china",
       "thk-abdalla-salem",
       "thk-akira-fujii",
-      "thk-angel",
       "thk-berdyaev",
       "thk-cohn",
       "thk-cooper",
-      "thk-dostoevsky"
+      "thk-dostoevsky",
+      "thk-lukas",
+      "thk-ming-ming-kuo"
     ],
     "placeholder": [
       "con-division-labor",
@@ -69,17 +69,15 @@
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 767,
-    "draft-pending": 120,
-    "draft-short": 16,
+    "review-candidate": 1100,
+    "draft-short": 18,
     "placeholder": 3
   },
   "by_module": {
     "anthropology": {
       "review-candidate": 349,
       "placeholder": 3,
-      "draft-pending": 2,
-      "draft-short": 1
+      "draft-short": 3
     },
     "arab-thought": {
       "review-candidate": 1
@@ -92,17 +90,16 @@
       "draft-short": 10
     },
     "psychology": {
-      "review-candidate": 89,
-      "draft-short": 5
+      "review-candidate": 309
     },
     "sociology": {
-      "review-candidate": 175,
-      "draft-pending": 118
+      "review-candidate": 288,
+      "draft-short": 5
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 906,
-    "source nodes": 906,
+    "data-en.json nodes": 1121,
+    "source nodes": 1121,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

@@ -19,17 +19,16 @@ related:
   - id: "thk-spinelli", title: "Ernesto Spinelli", type: "مفكر"
   - id: "dbt-british-yalom", title: "The British against the American Current", type: "جدل"
   - id: "dbt-structures", title: "Structures or None?", type: "جدل"
-gaps:
-  - "تواريخ التأسيس والمجلات والبرامج بمصادرها — تحتاج تثبيتاً"
+gaps: []
 ---
 
 # British Existential-Phenomenological
 
-The British existential-phenomenological current is the youngest of the four currents of existential therapy and the most strictly committed to method. It defines itself as a philosophical practice rather than a medical treatment, and it is the current that has most insistently asked what existential therapy is actually doing when it claims to work phenomenologically. Where the American current made existential therapy teachable, the British current asked whether what was being taught was still existential at all — and built its own institutions to do the work properly.
+The British existential-phenomenological current is among the more recent currents of existential therapy and the most strictly committed to method. It defines itself as a philosophical practice rather than a medical treatment, and it is the current that has most insistently asked what existential therapy is actually doing when it claims to work phenomenologically. Where the American current made existential therapy teachable, the British current asked whether what was being taught was still existential at all — and built its own institutions to do the work properly.
 
 ## The Central Question
 
-Its question is: how does this person's world look from the inside? The method is phenomenological description: bracketing what we think we know, describing what shows itself, and refusing to organise experience prematurely. The therapist does not interpret, does not diagnose in the room, and does not set goals. Instead, therapist and client together clarify the client's worldview — the assumptions, values, and tensions that structure how the person lives — and the work is the clarification itself. Suffering is read in the context of a life, not in a list of criteria, and a person in distress is described by van Deurzen not as sick but as "clumsy at living".
+Its question is: how does this person's world look from the inside? The method is phenomenological description: bracketing what we think we know, describing what shows itself, and refusing to organise experience prematurely. The therapist does not interpret, does not diagnose in the room, and does not set goals. Instead, therapist and client together clarify the client's worldview — the assumptions, values, and tensions that structure how the person lives — and the work is the clarification itself. Suffering is read in the context of a life, not in a list of criteria,, and distress is treated as a response to the difficulty of living rather than as a medical condition.
 
 ## The Four Dimensions of Existence
 
@@ -37,7 +36,7 @@ Instead of ultimate concerns to be faced, the British current works with four di
 
 ## The Figures and the Institutions
 
-The current has a prehistory in R. D. Laing, whose *The Divided Self* (1960) brought existential-phenomenological psychiatry into British discussion decades before the current took institutional form. Its founder and organiser is Emmy van Deurzen (born 1947), who founded the Society for Existential Analysis and its journal in 1988, the same year her *Existential Counselling and Psychotherapy in Practice* was first published, and who later founded the New School of Psychotherapy and Counselling in London in 1996. Her *Everyday Mysteries* (1997) is the clearest systematic statement of the approach. Ernesto Spinelli, the current's internal dissenter, proposed a relational version that gives greater weight to what actually happens between therapist and client moment by moment in the session; his *The Interpreted World* (1989) and *Practising Existential Psychotherapy* (2007) argue for a descriptive phenomenology closer to Husserl than to Heidegger. Around them stand figures such as Freddie Strasser, John Heaton, and Mick Cooper, whose *Existential Therapies* (2003) mapped the whole field and gave the British current its most widely read survey.
+The current has a prehistory in R. D. Laing, whose *The Divided Self* (1960) brought existential-phenomenological psychiatry into British discussion decades before the current took institutional form. Its founder and organiser is Emmy van Deurzen (born 1951), who founded the Society for Existential Analysis and its journal in 1988, the same year her *Existential Counselling in Practice* was first published, and who later founded the New School of Psychotherapy and Counselling in London in 1996. Her *Everyday Mysteries* (1997) is the clearest systematic statement of the approach. Ernesto Spinelli, the current's internal dissenter, proposed a relational version that gives greater weight to what actually happens between therapist and client moment by moment in the session; his *The Interpreted World* (1989) and *Practising Existential Psychotherapy* (2007) argue for a descriptive phenomenology closer to Husserl than to Heidegger. Around them stand figures such as Freddie Strasser, John Heaton, and Mick Cooper, whose *Existential Therapies* (2003) mapped the whole field and gave the British current its most widely read survey.
 
 ## Its Stance on Technique and Diagnosis
 
@@ -50,7 +49,7 @@ The current fights on two fronts. Outwardly it criticises the American current a
 ## Sources
 
 - R. D. Laing, *The Divided Self: An Existential Study in Sanity and Madness*, 1960.
-- Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, 1988.
+- Emmy van Deurzen, *Existential Counselling in Practice*, 1988 (later editions retitled *Existential Counselling and Psychotherapy in Practice*).
 - Ernesto Spinelli, *The Interpreted World: An Introduction to Phenomenological Psychology*, 1989.
 - Emmy van Deurzen, *Everyday Mysteries: Existential Dimensions of Psychotherapy*, 1997.
 - Mick Cooper, *Existential Therapies*, 2003.

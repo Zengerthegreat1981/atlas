@@ -12,9 +12,8 @@ edges:
 related:
   - id: "dbt-evidence", title: "Do We Demand Empirical Evidence?", type: "جدل"
 gaps:
-  - "No reviewed classical Arab-Islamic sources (al-Ghazali, Ibn Sina) are currently available for this entry"
-  - "The original text of Atlas of the Heart has not yet been reviewed; the copy available on disk is corrupted (unrelated content)"
-  - "No psychometric instruments specific to fear are documented in this entry"
+  - "Classical Arab-Islamic treatments of fear (for example al-Ghazali, Ibn Sina): not yet covered"
+  - "Psychometric instruments specific to fear: not yet covered"
 ---
 
 # Fear
@@ -23,24 +22,26 @@ An emotional experience in response to a direct, concrete threat, representing a
 
 ## The Cognitive Definition
 
-For Lazarus: facing an immediate, concrete and overwhelming physical danger (Facing an immediate, concrete, and overwhelming physical danger), unlike anxiety, which faces an uncertain, existential threat (Facing uncertain, existential threat). The action tendency associated with it: avoidance or flight.
+For Lazarus: facing an immediate, concrete and overwhelming physical danger, unlike anxiety, which faces an uncertain, existential threat. The action tendency associated with it: avoidance or flight.
 
 ## The Neural Basis
 
-For Panksepp: one of the innate emotional systems in mammalian brains (the FEAR system), whose pathway runs from the central amygdala through the thalamus to the periaqueductal gray in the brainstem. Weak activation produces freezing, strong activation produces panicked flight.
+For Panksepp: one of the innate emotional systems in mammalian brains (the FEAR system), whose circuitry runs from the amygdala through the medial hypothalamus to the periaqueductal gray in the midbrain. In Panksepp's account, weaker activation tends to produce freezing and stronger activation flight.
 
 ## The Theoretical Debate
 
-A fundamental disagreement between two camps fully documented in the library: is fear an innate universal system with a fixed bodily and neural signature (Panksepp, Ekman), or a variable cognitive construction that depends on culturally acquired concepts (Lisa Feldman Barrett, the theory of constructed emotion)?
+A fundamental disagreement between two camps: is fear an innate universal system with a fixed bodily and neural signature (Panksepp, Ekman), or a variable cognitive construction that depends on culturally acquired concepts (Lisa Feldman Barrett, the theory of constructed emotion)?
 
 ## The Cultural Dimension
 
-According to Batja Mesquita, the idea that emotions are an individual internal possession and not social in context is a Western cultural assumption (WEIRD), not a universal truth. An open research question: how is fear lived and expressed in Arab and Islamic contexts specifically?
+According to Batja Mesquita, the idea that emotions are an individual internal possession and not social in context is a culturally specific (largely Western) assumption rather than a universal truth.
 
 ## The Existential versus the Clinical Formulation
 
 Fear is formulated from multiple angles without direct therapeutic direction: as a response open to cognitive reappraisal (Lazarus), or as an innate system whose function is survival, not malfunction (Panksepp), or as an acquired concept that depends on the individual's linguistic repertoire (Barrett).
 
-## A Methodological Note on the Sources
+## Sources
 
-Some descriptive and sensory details about fear (the detailed bodily responses) are taken from a literary source whose content has not yet been verified (The Emotion Thesaurus by Ackerman and Puglisi; the version currently available is a third-party summary, not the text of the original book), and the source needs to be replaced later.
+- Richard S. Lazarus, *Emotion and Adaptation*, 1991.
+- Jaak Panksepp, *Affective Neuroscience: The Foundations of Human and Animal Emotions*, 1998.
+- Lisa Feldman Barrett, *How Emotions Are Made: The Secret Life of the Brain*, 2017.

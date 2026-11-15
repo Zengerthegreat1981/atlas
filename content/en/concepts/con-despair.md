@@ -33,7 +33,7 @@ In the therapy room, despair often appears when defensive structures break down.
 
 The therapeutic question is not to rescue the person from despair but to discern what that despair is revealing. Is it a response to genuine existential facts—that some losses are permanent, some choices foreclose others, some time is truly gone? Or is it a signal of depression proper, a physiological or psychological condition amenable to pharmacological or cognitive intervention? The two can coexist; the existential therapist does not deny the reality of clinical depression while also attending to what lies beneath or beyond it.
 
-Bugental and Schneider emphasize the therapeutic use of despair. Despair can become a doorway to authenticity when the person stops fleeing it and instead turns toward it, asking what it is trying to teach. Despair at not having lived one's own life can become the occasion for recognizing what one's actual values and desires are—the basis for genuine change in whatever time remains.
+Existential-humanistic therapists such as Bugental have emphasized the therapeutic use of despair. Despair can become a doorway to authenticity when the person stops fleeing it and instead turns toward it, asking what it is trying to teach. Despair at not having lived one's own life can become the occasion for recognizing what one's actual values and desires are—the basis for genuine change in whatever time remains.
 
 ## Distinctions and Common Confusions
 
@@ -52,10 +52,10 @@ In this sense, the therapeutic work is not to eliminate despair but to transform
 
 ## Sources
 
-1. Kierkegaard, S. (1980). *The Concept of Anxiety*. (R. May, Trans.). Princeton University Press.
+1. Kierkegaard, S. (1849/1980). *The Sickness Unto Death* (H. V. Hong & E. H. Hong, Trans.). Princeton University Press.
 2. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 3. Bugental, J. F. T. (1987). *The Art of the Psychotherapist*. W. W. Norton & Company.
-4. Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+4. Frankl, V. E. (1962). *Man's Search for Meaning*. Beacon Press (first English edition 1959).
 
 ## Related Concepts
 

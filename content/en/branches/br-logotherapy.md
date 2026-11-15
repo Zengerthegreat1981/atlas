@@ -19,17 +19,16 @@ related:
   - id: "thk-langle", title: "Alfried Längle", type: "مفكر"
   - id: "dbt-langle-frankl", title: "Längle against Frankl: The Viennese Split", type: "جدل"
   - id: "dbt-meaning-found", title: "Discovered or Created?", type: "جدل"
-gaps:
-  - "بيانات الأعمال الأصلية بالألمانية وتواريخها — تحتاج تثبيتاً"
+gaps: []
 ---
 
 # Logotherapy & Existential Analysis
 
-Logotherapy is the one current of existential therapy that puts meaning — not anxiety, not death — at its centre, and it is also the one current that owns a respectable body of empirical evidence. It was founded by the Austrian neurologist and psychiatrist Viktor Frankl (1905–1997), who developed its first ideas in Vienna in the 1930s and gave it final shape after surviving the Nazi concentration camps. Where the other currents ask how a person meets the givens of existence, logotherapy asks what makes this life worth living, and treats the search for an answer as the primary human motive.
+Logotherapy is the one current of existential therapy that puts meaning — not anxiety, not death — at its centre, and its descendants, such as meaning-centred psychotherapy, have generated some of the better-studied outcome evidence in the existential tradition. It was founded by the Austrian neurologist and psychiatrist Viktor Frankl (1905–1997), who developed its first ideas in Vienna in the 1930s and gave it final shape after surviving the Nazi concentration camps. Where the other currents ask how a person meets the givens of existence, logotherapy asks what makes this life worth living, and treats the search for an answer as the primary human motive.
 
 ## The Central Question
 
-Frankl's hypothesis is that the human being is driven first of all by the "will to meaning" (*Wille zum Sinn*), and that frustration of this will produces an "existential vacuum" — boredom, restlessness, anxiety, and compensatory behaviour, including addiction. The question of therapy is therefore not what is broken in the psyche but what meaning is waiting to be found in this particular life, in this particular situation. Frankl formulated his early ideas while briefly associated with Alfred Adler's circle of individual psychology, from which he broke away, and he tested them in the most extreme conditions imaginable: he survived three years in concentration camps including Auschwitz, and recorded his observations in *Man's Search for Meaning* (German 1946; English 1959), arguing that those who found some meaning amid absolute horror were better able to survive psychologically, and sometimes physically.
+Frankl's hypothesis is that the human being is driven first of all by the "will to meaning" (*Wille zum Sinn*), and that frustration of this will produces an "existential vacuum" — boredom, restlessness, anxiety, and compensatory behaviour, including addiction. The question of therapy is therefore not what is broken in the psyche but what meaning is waiting to be found in this particular life, in this particular situation. Frankl formulated his early ideas while briefly associated with Alfred Adler's circle of individual psychology, from which he broke away, and he tested them in the most extreme conditions imaginable: he survived about three years in concentration camps, including Theresienstadt and Auschwitz, and recorded his observations in *Man's Search for Meaning* (German 1946; first English edition 1959), arguing that those who found some meaning amid absolute horror were better able to survive psychologically, and sometimes physically.
 
 ## Three Paths to Meaning
 
@@ -37,7 +36,7 @@ Frankl held that meaning can be realised through three paths: through what we cr
 
 ## Techniques That Can Be Tested
 
-Logotherapy is the only existential current that produced named techniques, and that is what made it testable. Paradoxical intention asks a patient to do deliberately what they fear — for example, a patient with insomnia is asked to try hard to stay awake — so that anticipatory anxiety collapses once its target is willed rather than feared. Dereflection shifts attention away from excessive self-monitoring, particularly in sexual and performance difficulties, toward a task or a person beyond the self. Frankl set out the systematic theory in *The Doctor and the Soul* (German 1946; English 1955) and in *The Will to Meaning* (1969), where he distinguished logotherapy from psychoanalysis as a therapy that works through meaning rather than through the uncovering of drives.
+Logotherapy is distinctive among existential currents in having named techniques, which made it easier to study. Paradoxical intention asks a patient to do deliberately what they fear — for example, a patient with insomnia is asked to try hard to stay awake — so that anticipatory anxiety collapses once its target is willed rather than feared. Dereflection shifts attention away from excessive self-monitoring, particularly in sexual and performance difficulties, toward a task or a person beyond the self. Frankl set out the systematic theory in *The Doctor and the Soul* (German 1946; English 1955) and in *The Will to Meaning* (1969), where he distinguished logotherapy from psychoanalysis as a therapy that works through meaning rather than through the uncovering of drives.
 
 ## The Split Within
 
@@ -45,13 +44,12 @@ In the 1980s and 1990s the current divided. Alfried Längle (born 1951), Frankl'
 
 ## Contemporary Offspring and Criticism
 
-Frankl's ideas have spread further than any other existential current into mainstream care. Meaning-centred psychotherapy, developed for patients with advanced cancer by William Breitbart and colleagues and tested in a pilot randomised trial in 2010, is a direct descendant, as is the "second wave" of positive psychology, which studies meaning rather than happiness alone. Paul Wong's meaning therapy (2010) carries the same lineage into integrative practice. These offspring are the source of the strongest outcome evidence anywhere in the existential school. The criticism has not gone away, however: that logotherapy preaches and directs too much, that "discovering" meaning assumes meaning already exists in the universe — a metaphysical assumption other existentialists reject — and that some of its popular literature has slid from therapy into motivational speaking. The current's defenders reply that a therapy which refuses to speak about meaning at all has abandoned the very question its patients bring into the room.
+Frankl's ideas have spread further than any other existential current into mainstream care. Meaning-centred psychotherapy, developed for patients with advanced cancer by William Breitbart and colleagues and tested in a pilot randomised trial in 2010, is a direct descendant, as is the "second wave" of positive psychology, which studies meaning rather than happiness alone. Paul Wong's meaning therapy (2010) carries the same lineage into integrative practice. These offspring are the source of much of the outcome evidence in the existential tradition, although the evidence remains limited. The criticism has not gone away, however: that logotherapy preaches and directs too much, that "discovering" meaning assumes meaning already exists in the universe — a metaphysical assumption other existentialists reject — and that some of its popular literature has slid from therapy into motivational speaking. The current's defenders reply that a therapy which refuses to speak about meaning at all has abandoned the very question its patients bring into the room.
 
 ## Sources
 
 - Viktor E. Frankl, *Man's Search for Meaning: An Introduction to Logotherapy*, 1946.
 - Viktor E. Frankl, *The Doctor and the Soul: From Psychotherapy to Logotherapy*, 1955.
 - Viktor E. Frankl, *The Will to Meaning: Foundations and Applications of Logotherapy*, 1969.
-- Alfried Längle, "Viktor Frankl: A Portrait", *European Psychotherapy*, 2000.
 - William Breitbart et al., "Meaning-Centered Group Psychotherapy for Patients with Advanced Cancer: A Pilot Randomized Controlled Trial", *Psycho-Oncology*, 2010.
 - Paul T. P. Wong, "Meaning Therapy: An Integrative and Positive Existential Psychotherapy", *Journal of Contemporary Psychotherapy*, 2010.

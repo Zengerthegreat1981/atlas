@@ -4,19 +4,20 @@ id: "CON-0408"
 type: "مفهوم"
 part: philosophy
 level: "متوسط"
-title: "Guilt"
-en: "Guilt"
-crumb: "Existential Philosophy ← Concepts ← Guilt"
+title: "Guilt (Existentialist School View)"
+en: "Guilt (Existentialist School View)"
+crumb: "Philosophy ← Concepts ← Guilt (Existentialist School View)"
 edges:
   - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
+  - id: "con-existential-guilt-ontological", title: "Ontological Guilt", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
   - id: "thk-may", title: "Rollo May", type: "مفكر"
 gaps:
   - "Textual passages for each formulation — not yet entered"
 ---
 
-# Guilt
+# Guilt (Existentialist School View)
 
 The forgotten concern. Absent from Yalom's fourfold classification, and present in Jaspers, Tillich, and Heidegger — and the absence is deliberate and costly.
 
@@ -64,3 +65,7 @@ This creates a real entanglement: a devout Arab client may live a feeling of gui
 | Rollo May | Three kinds: guilt toward my unlived possibilities, guilt toward those I could not understand, and guilt toward nature and being in general. | The most precise practical breakdown: which kind is at work here? Each kind has a different path. | The clearest formulation for direct use. |
 | Bugental | Existential guilt appears as a chronic sense that life is passing and you are not in it. | Work on the gap between the lived life and the possible life. | Makes it a driver of the work, not a symptom. |
 | Yalom | He does not list it as an independent ultimate concern, and treats it within responsibility: the feeling of guilt toward the unlived life. | It is merged into the work on responsibility rather than singled out. | The absence is deliberate, and is one of the clearest differences between his classification and Jaspers' and Tillich's. |
+
+## Scope and Relation to Neighbouring Entries
+
+This entry covers guilt as the existentialist school treats it, including why the concern is largely missing from some classifications. Heidegger’s specific notion of ontological guilt has its own entry, and the general psychology of guilt and shame is covered in Shame and Guilt.

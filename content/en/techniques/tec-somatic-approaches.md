@@ -9,12 +9,11 @@ en: "Somatic and Body-Based Methods"
 crumb: "Psychotherapy ← Techniques ← Somatic and Body-Based Methods"
 dates: "United States · from the 1970s"
 active_start: 1970
-active_end: "ongoing"
+active_end: "مستمر"
 edges: []
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
-gaps:
-  - "Randomised trial evidence for somatic experiencing and sensorimotor psychotherapy is still thin; specific effect sizes should be checked against the original studies."
+gaps: []
 ---
 
 # Somatic and Body-Based Methods
@@ -27,7 +26,7 @@ Somatic methods form a family rather than a single technique. They include somat
 
 ## History
 
-The roots of somatic work reach back to Wilhelm Reich's character analysis in the 1930s, which treated chronic muscular tension — "character armour" — as the body's record of repressed feeling, and to the bioenergetics of Alexander Lowen in the 1950s. The modern forms emerged in the 1970s and after. Gendlin published *Focusing* in 1978, describing a teachable method for listening to the body's felt sense. Levine, observing how animals in the wild discharge the energy of a threat once it passes, developed somatic experiencing and set it out in *Waking the Tiger* in 1997. Ogden founded the Sensorimotor Psychotherapy Institute in the 1980s and published the first systematic text, *Trauma and the Body*, in 2006. The field's public breakthrough came with Bessel van der Kolk's *The Body Keeps the Score* in 2014, which brought the neurobiology of trauma to a mass audience.
+The roots of somatic work reach back to Wilhelm Reich's character analysis in the 1930s, which treated chronic muscular tension — "character armour" — as the body's record of repressed feeling, and to the bioenergetic analysis developed by Alexander Lowen from the 1950s. The modern forms emerged in the 1970s and after. Gendlin published *Focusing* in 1978, describing a teachable method for listening to the body's felt sense. Levine, observing how animals in the wild discharge the energy of a threat once it passes, developed somatic experiencing and set it out in *Waking the Tiger* in 1997. Ogden developed sensorimotor psychotherapy from the 1980s and, with Kekuni Minton and Clare Pain, published its main text, *Trauma and the Body*, in 2006. The field's public breakthrough came with Bessel van der Kolk's *The Body Keeps the Score* in 2014, which brought the neurobiology of trauma to a mass audience.
 
 ## How It Works
 
@@ -35,7 +34,7 @@ A somatic session moves slowly. The therapist helps the client notice sensation 
 
 ## Evidence and Influence
 
-The evidence base is younger and thinner than the enthusiasm. A 2015 review by Payne, Levine and Crane-Godreau in *Frontiers in Psychology* set out the theoretical case for somatic experiencing and reported promising early results for post-traumatic stress, while acknowledging the need for larger controlled trials. Sensorimotor psychotherapy has a growing body of case studies and small trials, and body-based methods are now routinely integrated into trauma treatment alongside EMDR and trauma-focused cognitive therapy. The wider influence is harder to measure but unmistakable: the idea that trauma lives in the body has reshaped how therapists of every orientation listen, pace their work, and think about safety. The concept of the "window of tolerance" — the range of arousal within which a person can think and feel at the same time — has become common clinical language.
+The evidence base is younger and thinner than the enthusiasm. A 2015 review by Payne, Levine and Crane-Godreau in *Frontiers in Psychology* set out the theoretical case for somatic experiencing and reviewed early evidence for post-traumatic stress, while acknowledging the need for larger controlled trials. Randomised trial evidence for somatic experiencing and sensorimotor psychotherapy remains limited. Sensorimotor psychotherapy has a growing body of case studies and small trials, and body-based methods are now routinely integrated into trauma treatment alongside EMDR and trauma-focused cognitive therapy. The wider influence is harder to measure but unmistakable: the idea that trauma lives in the body has reshaped how therapists of every orientation listen, pace their work, and think about safety. The concept of the "window of tolerance" — the range of arousal within which a person can think and feel at the same time — has become common clinical language.
 
 ## Advantages and Limitations
 

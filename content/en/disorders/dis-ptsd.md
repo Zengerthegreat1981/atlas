@@ -10,14 +10,13 @@ crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Post-
 dates: null
 active_start: null
 active_end: "مستمر"
-dsm5tr_code: "309.81"
+dsm5tr_code: "F43.10"
 icd11_code: "6B40"
 edges: []
 related:
  - id: "con-fear", title: "Fear", type: "مفهوم"
  - id: "con-death", title: "Death", type: "مفهوم"
-gaps:
- - "الفرق الدقيق بين القراءة الوجودية والقراءة المعرفية-السلوكية للصدمة يحتاج توثيقاً أعمق كجدل (dbt-) مستقل مستقبلاً"
+gaps: []
 ---
 
 # Post-Traumatic Stress Disorder (PTSD)
@@ -30,7 +29,7 @@ The defining feature is the persistence of the response. Most people exposed to 
 
 ## Diagnostic features
 
-DSM-5-TR requires exposure to actual or threatened death, serious injury, or sexual violence, directly or indirectly, together with symptoms from four clusters: intrusion (at least one symptom), avoidance (at least one), negative alterations in cognition and mood (at least two), and alterations in arousal and reactivity (at least two), lasting more than one month and causing significant distress or impairment. ICD-11 (code 6B40) uses a narrower definition, requiring only three core features — re-experiencing, avoidance, and a persistent sense of current threat — and places the broader symptoms, including emotional numbing and negative self-concept, in a separate category, complex PTSD (code 6B41), which is used when the trauma was prolonged or repeated. 
+DSM-5-TR requires exposure to actual or threatened death, serious injury, or sexual violence, directly or indirectly, together with symptoms from four clusters: intrusion (at least one symptom), avoidance (at least one), negative alterations in cognition and mood (at least two), and alterations in arousal and reactivity (at least two), lasting more than one month and causing significant distress or impairment. ICD-11 (code 6B40) uses a narrower definition, requiring only three core features — re-experiencing, avoidance, and a persistent sense of current threat — and places the broader symptoms in a separate category, complex PTSD (code 6B41), which is typically considered after prolonged or repeated trauma and adds disturbances in self-organization (affect dysregulation, negative self-concept, and disturbed relationships). 
 
 ## History
 

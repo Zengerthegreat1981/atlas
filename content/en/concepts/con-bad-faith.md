@@ -12,7 +12,7 @@ edges:
 related:
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
-gaps:[]
+gaps: []
 ---
 
 # Bad Faith
@@ -29,7 +29,7 @@ Bad faith is the flight from this condition, and it takes two complementary form
 
 Sartre's most famous illustration is the café waiter, who moves with exaggerated precision, balancing his tray with a dancer's care, leaning forward a little too eagerly — performing "being a waiter" as if it were a mechanical role he had been wound up to play. For Sartre, the waiter is in bad faith because he plays at being a waiter to deny that being a waiter is something he chooses, moment by moment, and could refuse. He acts as if the role were his essence, a fact of nature, rather than a project he renews every day.
 
-The example is deliberately mundane: Sartre chose a waiter rather than a king or a criminal to show that bad faith is a matter of small, daily evasions, not great decisions. The same performance appears in the employee who insists the rules left him no choice and the partner who says "that's just how I am" when confronted with behaviour they could change.
+The example is deliberately mundane, and it shows that bad faith can consist of small, daily evasions rather than great decisions. The same performance appears in the employee who insists the rules left him no choice and the partner who says "that's just how I am" when confronted with behaviour they could change.
 
 ## The Woman on the Date
 

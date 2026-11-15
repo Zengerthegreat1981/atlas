@@ -14,6 +14,7 @@ related:
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
   - id: "thk-yalom", title: "Yalom", type: "مفكر"
   - id: "thk-bugental", title: "Bugental", type: "مفكر"
+gaps: []
 ---
 # Therapy (Existential Therapy)
 
@@ -21,7 +22,7 @@ Existential therapy is not a technique for symptom relief but a philosophical an
 
 ## The Existential Frame
 
-Unlike psychoanalysis (which seeks unconscious conflicts) or cognitive-behavioral therapy (which targets distorted thinking), existential therapy takes as its starting point the confrontation with existential givens. A person may be depressed not because of a chemical imbalance or automatic negative thoughts, but because they are avoiding the reality of their freedom and the responsibility it entails. Another may be anxious not because of a past trauma, but because they are beginning to sense the groundlessness of their existence and the finitude of their time.
+Unlike psychoanalysis (which seeks unconscious conflicts) or cognitive-behavioral therapy (which targets distorted thinking), existential therapy takes as its starting point the confrontation with existential givens. On this view a person may be depressed not only because of biology or automatic negative thoughts, but because they are avoiding the reality of their freedom and the responsibility it entails. Another may be anxious not only because of a past trauma, but because they are beginning to sense the groundlessness of their existence and the finitude of their time.
 
 This does not mean existential therapists deny biology or cognition; rather, they contextualize these within the existential frame. A person with depression may have a neurobiological component and also be confronting, consciously or unconsciously, the fact that their life has been lived inauthentically. The therapy addresses both.
 
@@ -52,12 +53,16 @@ Existential therapists frequently:
 
 Existential therapy is not opposed to other therapies but can complement them. A person may need cognitive-behavioral intervention for social anxiety while also exploring what underlying existential anxiety (about visibility, judgment, freedom in the social sphere) that symptom is expressing. Someone may benefit from psychodynamic insight into family patterns while also grappling with the existential weight of having internalized those patterns as their own.
 
+## Evidence and limits
+
+The evidence base for existential therapy is smaller than for approaches such as cognitive-behavioral therapy. A 2015 meta-analysis (Vos, Craig and Cooper) found existential therapies associated with benefits on several outcomes, but the studies vary in quality. Existential therapy is generally used alongside, not instead of, medical and other evidence-based care for severe conditions such as major depression.
+
 ## Sources
 
 1. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 2. Bugental, J. F. T. (1987). *The Art of the Psychotherapist*. W. W. Norton & Company.
 3. van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice* (3rd ed.). SAGE Publications.
-4. May, R., & Yalom, I. D. (2000). *Existential Psychotherapy*. In A. E. Kazdin (Ed.), *Encyclopedia of Psychology* (Vol. 3, pp. 277-283). Oxford University Press.
+4. Vos, J., Craig, M., & Cooper, M. (2015). Existential therapies: A meta-analysis of their effects on psychological outcomes. *Journal of Consulting and Clinical Psychology*, 83(1), 115-128.
 
 ## Related Concepts
 

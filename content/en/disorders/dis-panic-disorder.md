@@ -10,13 +10,13 @@ crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Panic
 dates: null
 active_start: null
 active_end: "مستمر"
-dsm5tr_code: "300.01"
+dsm5tr_code: "F41.0"
 icd11_code: "6B01"
 edges: []
 related:
  - id: "con-fear", title: "Fear", type: "مفهوم"
 gaps:
- - "لا يوجد بعد ربط موثق بمصادر عربية عن هذا الاضطراب"
+  - "Prevalence and presentation of panic disorder in the Arab context: not yet covered."
 ---
 
 # Panic Disorder
@@ -49,7 +49,7 @@ Panic disorder is of particular interest to the existential tradition because th
 
 ## Key works
 
- Clark's 1986 paper gave it its cognitive model. Barlow's *Anxiety and Its Disorders* (2002) is the standard reference on the nature and treatment of anxiety and panic, and the Craske and Barlow manual (2007) is the standard treatment text. DSM-5-TR (2022) is the current diagnostic source.
+Clark's 1986 paper gave the field its cognitive model. Barlow's *Anxiety and Its Disorders* (2002) is the standard reference on the nature and treatment of anxiety and panic, and the Craske and Barlow manual (2007) is the standard treatment text. DSM-5-TR (2022) is the current diagnostic source.
 
 ## Sources
 

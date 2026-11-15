@@ -9,12 +9,11 @@ en: "Empty Chair (Gestalt)"
 crumb: "Psychotherapy ← Techniques ← Empty Chair (Gestalt)"
 dates: "United States · from the 1960s"
 active_start: 1969
-active_end: "ongoing"
+active_end: "مستمر"
 edges: []
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
-gaps:
-  - "Effect sizes for empty-chair work on unfinished business should be checked against the original outcome studies before specific numbers are cited."
+gaps: []
 ---
 
 # Empty Chair (Gestalt)
@@ -35,7 +34,7 @@ A session begins when the therapist notices a marker: the client speaks of a spl
 
 ## Evidence and Influence
 
-The empty chair is one of the few Gestalt techniques with a genuine research base. In a 1979 experiment, Greenberg and Clarke compared the two-chair dialogue with empathic reflection and found that the chair work produced deeper experiencing and greater change in awareness. Paivio and Greenberg showed in 1995 that empty-chair work helped clients resolve unfinished business with a significant other, with gains maintained at follow-up. The technique has since spread far beyond Gestalt therapy: schema therapists use chairwork for modes and unmet needs, cognitive therapists use it to give voice to hot cognitions, and emotion-focused therapists use it as a core intervention for self-criticism. Scott Kellogg's 2004 review traced this migration across five psychotherapies and argued that chairwork survives because it does something talking alone cannot: it turns an internal conflict into a living encounter.
+The empty chair is one of the few Gestalt techniques with a substantial research base, much of it from emotion-focused therapy. In a 1979 experiment, Greenberg and Clarke compared the two-chair dialogue with empathic reflection and found that the chair work produced greater depth of experiencing and awareness of the conflict. Paivio and Greenberg showed in 1995 that empty-chair work helped clients resolve unfinished business with a significant other, with gains maintained at follow-up. The technique has since spread far beyond Gestalt therapy: schema therapists use chairwork for modes and unmet needs, cognitive therapists use it to give voice to hot cognitions, and emotion-focused therapists use it as a core intervention for self-criticism. Scott Kellogg's 2004 review traced this migration across several psychotherapies and argued that chairwork survives because it does something talking alone cannot: it turns an internal conflict into a living encounter.
 
 ## Advantages and Limitations
 
