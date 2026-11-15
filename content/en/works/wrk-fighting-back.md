@@ -6,15 +6,15 @@ part: sociology
 level: متوسط
 title: Fighting Back
 en: Fighting Back
-crumb: علم الاجتماع ← Fighting Back
+crumb: "Sociology ← Fighting Back"
 dates: Patricia Hill Collins
 active_start: 1900
 active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed empirical case studies pending
-- Cross-disciplinary applications pending
+- Detailed empirical case studies: not yet covered
+- Cross-disciplinary applications: not yet covered
 ---
 # Fighting Back
 

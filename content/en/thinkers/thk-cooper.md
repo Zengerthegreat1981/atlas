@@ -2,13 +2,14 @@
 slug: "thk-cooper"
 id: "THK-0118"
 type: "مفكر"
+part: philosophy
 level: "متوسط"
 title: "Mick Cooper"
 en: "Mick Cooper"
 crumb: "Existential Philosophy ← People ← Mick Cooper"
-dates: "بريطانيا"
+dates: "Britain"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "dbt-evidence", title: "The Dispute over Evidence", type: "جدل"
 gaps:

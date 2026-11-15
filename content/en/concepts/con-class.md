@@ -4,17 +4,17 @@ id: SOC-14208
 type: مفهوم
 part: sociology
 level: متوسط
-title: الطبقة
+title: "Class"
 en: Class
-crumb: علم الاجتماع ← الطبقة
+crumb: "Sociology ← Class"
 dates: ''
 active_start: 1900
 active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed empirical case studies pending
-- Cross-disciplinary applications pending
+- Detailed empirical case studies: not yet covered
+- Cross-disciplinary applications: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -46,7 +46,7 @@ Class interconnects with other foundational concepts forming coherent analytical
 
 ## Social Inequality Dimensions
 
-The concept connects to how societies distribute resources, opportunities, and life chances unequally. Understanding these connections illuminates mechanisms producing and reproducing inequality. Different groups experience and understand the concept differently depending on social position. Power relationships shape both what the concept means and how it operates in practice. The concept sometimes obscures inequality dimensions that critical approaches emphasize. Feminist, postcolonial, and critical race perspectives have extended understanding of inequality dimensions. Integrating attention to inequality prevents depoliticizing what are fundamentally questions of justice.
+The concept connects to how societies distribute resources, opportunities, and life chances unequally. Understanding these connections illuminates mechanisms producing and reproducing inequality. Different groups experience and understand the concept differently according to social position. Power relationships shape both what the concept means and how it operates in practice. The concept sometimes obscures inequality dimensions that critical approaches emphasize. Feminist, postcolonial, and critical race perspectives have extended understanding of inequality dimensions. Integrating attention to inequality prevents depoliticizing what are fundamentally questions of justice.
 
 ## Contemporary Manifestations and Changes
 

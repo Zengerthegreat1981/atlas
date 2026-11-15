@@ -2,12 +2,13 @@
 slug: "con-existential-guilt-ontological"
 id: "CON-0422"
 type: "مفهوم"
+part: psychology
 level: "متقدم"
 title: "Ontological Guilt"
 en: "Ontological Guilt"
 crumb: "Existential Psychotherapy ← Concepts ← Ontological Guilt"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-guilt", title: "Guilt", type: "مفهوم"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

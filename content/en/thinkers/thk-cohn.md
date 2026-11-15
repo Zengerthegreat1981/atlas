@@ -2,13 +2,14 @@
 slug: "thk-cohn"
 id: "THK-0320"
 type: "مفكر"
+part: philosophy
 level: "متوسط"
 title: "Hans W. Cohn"
 en: "Hans W. Cohn"
 crumb: "Existential Philosophy ← People ← Hans W. Cohn"
-dates: "ألمانيا/بريطانيا · 1916–2004"
+dates: "Germany/Britain · 1916–2004"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-vandeurzen", title: "Emmy van Deurzen", type: "مفكر"
   - id: "thk-spinelli", title: "Ernesto Spinelli", type: "مفكر"

@@ -2,10 +2,11 @@
 slug: "con-conflict"
 id: "ANT-13124"
 type: "مفهوم"
+part: anthropology
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Conflict"
 en: "Conflict"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Anthropology ← Conflict"
 dates: ""
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
@@ -15,26 +16,30 @@ gaps:
   - "Disagreement with potential for violence"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Conflict
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Conflict is a social relationship in which parties pursue incompatible goals, interests, or values, and in doing so come into opposition with one another. It ranges from quiet disagreement and rivalry to open violence and war, and it occurs at every scale of social life: within families, between villages, among classes, and between states. Anthropology has long resisted treating conflict as a mere breakdown of order. Instead, conflict is understood as a normal, even productive, feature of social life — a process through which groups define themselves, negotiate power, redistribute resources, and change their institutions. A society without conflict would be a society without competing interests, and no such society exists.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Definition
 
-# الصراع
+Conflict is often distinguished from competition, in which rivals seek the same goal without directly obstructing each other, and from violence, which is only one possible outcome of conflict. Disagreement becomes conflict when it is enacted — when parties take sides, mobilise supporters, and press their claims against one another. Max Gluckman, studying African societies in the mid-twentieth century, emphasised that conflict and cohesion are intertwined: the same loyalties that bind people together also divide them, as individuals belong to multiple cross-cutting groups. A dispute between two lineages may be contained precisely because the disputants are also linked by marriage, trade, or ritual obligations. Conflict, in this view, is not the opposite of social order but one of the ways order is made and remade. It has rules, roles, and rituals of its own: challenges are issued, mediators intervene, compensation is negotiated, and settlements are sealed in public ceremony.
 
-[Brief description in Arabic for translator reference]
+## Origins and Development
 
-## الفرع الرئيسي
+Early anthropology often imagined small-scale societies as harmonious, and conflict as the intrusion of modernity. The work of Georg Simmel, whose essay on conflict was published in 1908, challenged this picture by arguing that conflict is a form of sociation — a way people relate to each other — and that it can strengthen group solidarity by clarifying boundaries. Lewis Coser developed this insight in 1956, distinguishing conflicts that concern the goals of a relationship, which can be negotiated, from conflicts that attack the relationship itself. In African ethnography, Gluckman's studies of the Zulu and the Lozi showed that rebellion and ritualised opposition could reinforce rather than destroy political authority, as when subjects ritually challenged a king whose legitimacy the ritual itself affirmed. Victor Turner's study of Ndembu village life, published in 1957, traced how recurrent disputes over succession and residence generated social dramas that revealed the underlying tensions of the community. By mid-century, anthropologists had firmly established that conflict is integral to social process, not an aberration from it.
 
-[Key section in Arabic]
+## Key Debates
 
-## المساهمات
+One central debate concerns the function of conflict. Functionalist approaches, following Coser and Gluckman, stress how conflict releases tension, clarifies norms, and renews institutions. Marxist approaches, by contrast, treat conflict as the engine of history: class conflict, for Ralf Dahrendorf in 1959, arises from the unequal distribution of authority in every society, not only in capitalist ones, and drives structural change. A second debate concerns violence. Is violence an escalation of conflict, or a qualitatively different phenomenon with its own logics of honour, revenge, and terror? Ethnographers of warfare, feuding, and state violence have shown that violence is often highly organised and rule-bound rather than a loss of control. A third debate concerns resolution. Some societies institutionalise mediation through chiefs, councils, or ritual specialists; others rely on avoidance, fission, or the exchange of compensation. The diversity of these mechanisms shows that there is no universal script for ending conflict — only locally meaningful ways of living with it.
 
-[Contributions in Arabic]
+## Contemporary Relevance
 
-## الفجوات والتطورات
+Conflict remains central to anthropology because it remains central to the world anthropologists study. Civil wars, ethnic violence, resource disputes, and land conflicts shape the lives of millions, and anthropologists document how people experience, narrate, and survive them. At the same time, the field has turned to the quieter conflicts of everyday life: disputes over inheritance, the politics of development projects, and the tensions generated by migration and urbanisation. The study of conflict also informs practice, from peacebuilding and mediation to the design of institutions that can contain disagreement without suppressing it. Conflict, properly understood, is not a problem to be eliminated but a social fact to be understood — and, where possible, channelled toward outcomes that are less destructive and more just.
 
-[Gaps in Arabic]
+## Sources
 
--->
+- Georg Simmel, *Conflict* (1908)
+- Max Gluckman, *Custom and Conflict in Africa* (1955)
+- Lewis A. Coser, *The Functions of Social Conflict* (1956)
+- Victor Turner, *Schism and Continuity in an African Society* (1957)
+- Ralf Dahrendorf, *Class and Class Conflict in Industrial Society* (1959)

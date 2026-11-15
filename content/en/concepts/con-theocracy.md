@@ -2,10 +2,11 @@
 slug: "con-theocracy"
 id: "ANT-13215"
 type: "مفهوم"
+part: anthropology
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Theocracy"
 en: "Theocracy"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Anthropology ← Theocracy"
 dates: ""
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
@@ -15,26 +16,40 @@ gaps:
   []
 ---
 
-# [EN TRANSLATION NEEDED]
+# Theocracy
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Definition
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+A theocracy is a political order in which ruling authority is claimed to derive from a god or gods, and in which religious officials, sacred law, or divine revelation provide the ultimate source of legitimacy for government. The word itself was coined by the Jewish historian Josephus in the first century CE, in his work *Against Apion*, to describe the polity of ancient Israel. In anthropological usage, the term covers a wide spectrum: from states formally governed by priests or religious leaders, to monarchies whose rulers claim a divine mandate, to modern republics in which clerical institutions hold a constitutional veto over legislation.
 
-# الحكم الديني
+Max Weber, whose sociology of domination remains the central reference point, distinguished theocracy from the closely related concept of hierocracy. In a hierocracy, a priestly organisation exercises power alongside or over secular rulers, but the two spheres remain distinguishable. In a theocracy, properly speaking, religious and political authority are fused: the ruler governs as God's representative, and obedience to the state is simultaneously obedience to the divine. Weber also stressed that theocratic rule rests on belief in the sacred character of the order — a form of legitimacy distinct from legal-rational bureaucracy and from personal charisma. When a charismatic religious movement becomes institutionalised, Weber argued, its authority is "routinised": the founder's inspiration is translated into offices, rules, and a priesthood, and it is at this point that a theocratic order typically takes shape.
 
-[Brief description in Arabic for translator reference]
+## Origins and Historical Forms
 
-## الفرع الرئيسي
+Theocratic claims are as old as the state itself. In ancient Egypt, the pharaoh was regarded as a god or the son of a god; in Mesopotamia, kings ruled as stewards of the city god; in imperial China, the emperor held the Mandate of Heaven.
 
-[Key section in Arabic]
+Later history supplies more sharply defined cases. Calvin's Geneva in the sixteenth century was governed by a consistory of pastors and elders enforcing a godly discipline that reached into daily life. Tibet under the Dalai Lamas combined spiritual and temporal rule in a single figure until the mid-twentieth century. The Vatican, the smallest sovereign state in the world, remains a theocracy in the strict sense: its head of state is the pope, elected by cardinals, and its legal system rests on canon law. The Iranian Revolution of 1979 produced the most discussed modern example, Ayatollah Khomeini's doctrine of *velayat-e faqih*, the guardianship of the jurist, under which a senior cleric supervises the state and can override elected institutions.
 
-## المساهمات
+These cases differ enormously, and that variety is itself instructive. A theocracy may be theocratic in its personnel (priests rule), in its law (sacred texts are the constitution), or in its ideology (the state claims to enact God's will while being staffed by lay officials). The label fits each case in a different way, which is why anthropologists usually treat it as a matter of degree rather than a fixed type.
 
-[Contributions in Arabic]
+## Key Debates
 
-## الفجوات والتطورات
+One central debate concerns whether "theocracy" is a useful analytical category at all. Critics note that the term was invented by outsiders — Josephus was defending Jewish distinctiveness to a Roman audience — and has often been used polemically, to mark other societies as irrational or despotic while exempting one's own. Talal Asad has argued that the very distinction between "religious" and "secular" power is a modern, Western construction, and that applying it to societies that never separated the two distorts more than it explains. On this view, calling ancient Egypt or Tibet a "theocracy" says more about the observer's categories than about how those societies understood themselves.
 
-[Gaps in Arabic]
+A second debate concerns religion and coercion. The classic image of theocracy is one of domination: priests using divine authority to extract obedience. But ethnographic work complicates this picture. Religious legitimation can also constrain rulers. A king who claims to rule by divine right is bound by sacred law and can be judged — and sometimes deposed — for violating it. In many African kingdoms studied by anthropologists, sacred kingship combined great ritual power with severe ritual restrictions on the king's own behaviour. Power justified by the sacred is power that the sacred can also limit.
 
--->
+A third debate turns on secularisation. Classical sociology predicted that modernity would steadily separate religion from politics, making theocracy a relic. The Iranian Revolution, the rise of Hindu nationalism in India, and the persistence of religious parties in democracies from Israel to Indonesia have all challenged that prediction.
+
+## Contemporary Relevance
+
+Theocracy remains a live category in political anthropology because it names a real and recurring configuration of power. Contemporary debates focus on three areas. First, the governance of states that formally fuse religious and political authority, notably Iran and the Vatican, and the internal tensions such fusion creates between clerical and elected institutions. Second, the use of the label in public debate: "theocratic" is frequently applied to movements and governments — from the Taliban to Christian nationalism in the United States — as a term of condemnation, and anthropologists have a role in distinguishing analytical description from polemic.
+
+Theocracy is the limiting case in which that persuasion is carried out in the language of the sacred — and therefore the case that most clearly reveals how much of politics, even in secular societies, depends on belief.
+
+## Sources
+
+- Durkheim, Émile. *The Elementary Forms of Religious Life*. 1912.
+- Weber, Max. *Economy and Society: An Outline of Interpretive Sociology*. 1922.
+- Geertz, Clifford. *Islam Observed: Religious Development in Morocco and Indonesia*. 1968.
+- Roy, Olivier. *The Failure of Political Islam*. 1994.
+- Asad, Talal. *Formations of the Secular: Christianity, Islam, Modernity*. 2003.

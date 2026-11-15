@@ -2,6 +2,7 @@
 slug: "thk-clifford-geertz"
 id: "THK-6560"
 type: "مفكر"
+part: anthropology
 level: "متقدم"
 title: "Clifford Geertz: Interpretive Anthropology and Thick Description"
 en: "Clifford Geertz"

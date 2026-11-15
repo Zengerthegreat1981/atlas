@@ -2,13 +2,14 @@
 slug: "thk-vankaam"
 id: "THK-0310"
 type: "مفكر"
+part: psychology
 level: "متقدم"
 title: "Adrian van Kaam"
 en: "Adrian van Kaam"
 crumb: "Existential Psychotherapy ← People ← Adrian van Kaam"
-dates: "هولندا/الولايات المتحدة · 1920–2007"
+dates: "Netherlands/USA · 1920–2007"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "dbt-spiritual", title: "The Spiritual Dispute", type: "جدل"
   - id: "br-humanistic", title: "The American Current", type: "تيار"

@@ -2,50 +2,64 @@
 slug: "dbt-langle-frankl"
 id: "DBT-0304"
 type: "جدل"
+part: philosophy
 level: ""
-title: "[EN TRANSLATION NEEDED]"
+title: "Längle against Frankl: The Viennese Split"
 en: "The Viennese split"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential School ← Debates ← Längle against Frankl: The Viennese Split"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
 related:
-  - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
-  - id: "thk-frankl", title: "فرانكل", type: "مفكر"
-  - id: "thk-langle", title: "لانغله", type: "مفكر"
+  - id: "br-logotherapy", title: "Logotherapy & Existential Analysis", type: "تيار"
+  - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
+  - id: "thk-langle", title: "Alfried Längle", type: "مفكر"
 gaps:[]
 ---
 
-# [EN TRANSLATION NEEDED]
+# Längle against Frankl: The Viennese Split
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The clearest institutional schism in the school's history, and the point of disagreement is precise enough to be worth pausing over. It is not a quarrel about whether meaning matters — both sides agree that it does — but about whether the question of meaning can be asked first.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## The context
 
-# لانغله ضد فرانكل
+Alfried Längle was among those who worked most closely with Viktor Frankl. He collaborated closely with Frankl from 1983 to 1991, assisted Frankl's university lectures for years, and worked with him across many areas of logotherapy. In 1985 he founded the Society for Logotherapy and Existential Analysis (GLE) in Vienna, of which Frankl was honorary president. Längle then developed a formulation of his own, and the collaboration ended in a complete organisational separation: Frankl resigned the honorary presidency in 1990, and the break was complete by 1991.
 
-أوضح انشقاق مؤسسي في تاريخ المدرسة، ونقطة الخلاف فيه دقيقة إلى حد يستحق التأمل.
+## The point of disagreement
 
-## السياق
+Frankl makes the question of meaning first and fundamental. In logotherapy, the "will to meaning" is the primary human motivation — the drive that defines the person, set against Freud's will to pleasure and Adler's will to power. The therapist's task is to direct the patient towards meaning: towards what they can accomplish, what they can love, or the stance they can take towards what cannot be changed. This is the teaching of *Man's Search for Meaning* (1946) and of *The Will to Meaning* (1969).
 
-لانغله من أقرب من عمل مع فرانكل، وتولّى مسؤوليات في مؤسساته سنوات طويلة، ثم طوّر صيغة خاصة انتهت إلى انفصال تنظيمي في التسعينيات.
+Längle's objection is that this question cannot be put to someone who cannot yet be in the world at all, or who does not love their life, or who finds no right within themselves to be themselves. Such a person, he argues, cannot hear the question of meaning — it arrives as a demand they cannot meet, and it makes them feel they are failing at a spiritual task while they are drowning in a more basic crisis. So Längle placed three "fundamental existential motivations" before meaning, as its preconditions, and made meaning the fourth and last rather than the first.
 
-## نقطة الخلاف
+The four, in Längle's order, are: being able to be in the world at all (basic trust, feeling safe enough to be here); liking one's life as it is (the experience of value); finding the right to be oneself (self-respect); and meaning — the sense that what one does fits a larger context. The first three are conditions of the fourth.
 
-فرانكل يجعل السؤال عن المعنى أولاً وأساساً. ولانغله يقول إن هذا السؤال لا يمكن أن يُطرح على من لا يستطيع أصلاً أن يكون في العالم، أو لا يحب حياته، أو لا يجد لنفسه حقاً في أن يكون نفسه. فوضع ثلاث «دوافع وجودية» تسبق المعنى وتشترطه.
+## What this means in practice
 
-## ماذا يعني هذا عملياً
+With Frankl, the therapist directs the patient towards meaning from the start: faster, more directive, suited to someone who can already act and relate but has lost their bearings. With Längle, the therapist first checks the capacity to exist, the relationship to life, and the relationship to the self — meaning comes fourth. That suits trauma and severe depression, where the question of meaning would land on unprepared ground.
 
-عند فرانكل: نوجّه المريض نحو المعنى. وعند لانغله: نتحقق أولاً من قدرته على الوجود، ومن علاقته بحياته، ومن علاقته بنفسه — والمعنى يأتي رابعاً لا أولاً.
+They also imply different tools: Frankl's tests of meaning against Längle's questionnaire of the four motivations. A trainee's choice therefore decides which instruments they learn and in which institution they are accredited — which makes the dispute determinative of a whole professional path, not merely academic.
 
-## رد فرانكل
+## Frankl's reply
 
-أن هذا يعيد المنظومة إلى علم نفس الانفعال والعلاقة الذي أراد تجاوزه، ويُفقدها ما يميّزها.
+Frankl's reply, as far as it can be reconstructed — there is no published text in which he answers Längle's late formulation directly; the reply is inferred from his general position — is that this returns the system to the psychology of emotion and relationship that he set out to go beyond, and robs it of what distinguishes it. If meaning must wait on emotional conditions, then meaning is no longer the primary motivation but a by-product of feeling well, and logotherapy collapses back into the schools it defined itself against. Frankl's claim was precisely that the will to meaning operates even when the emotional conditions are poor — in the camps, in suffering — and a theory that makes meaning conditional on prior well-being gives that up.
 
-## أثره اليوم
+The deeper philosophical argument — whether the "four conditions" extend Frankl's theory or refute its core — is treated in the companion debate entry on Längle and Frankl and the will to meaning; this entry covers the institutional context of the separation.
 
-هناك اليوم مؤسستان مستقلتان، ومصطلحان يُستعملان أحياناً كمترادفين وهما ليسا كذلك: «العلاج بالمعنى» و«التحليل الوجودي». وهذا من أشهر مصادر الالتباس في الكتابة العربية عن المدرسة.
+## Its effect today
 
-## الأثر العملي لو رجّحت أحد الطرفين
+Today there are two independent institutions, and two terms that are sometimes used as synonyms when they are not: "logotherapy" and "existential analysis". Frankl himself used both terms, but after the split they marked institutional allegiance: the Viktor Frankl Institute in Vienna (founded 1992) carries Frankl's line, the GLE carries Längle's. This is one of the most common sources of confusion in Arabic writing on the school, where the two terms are frequently interchanged as if they named one thing.
 
-<b>لو رجّحت فرانكل:</b> تبدأ الجلسات بالسؤال المباشر عن المعنى — ماذا يستطيع هذا الشخص أن يُنجزه أو يحبّه أو يختار موقفه منه الآن؟ التدخل أسرع وأكثر توجيهاً، ومناسب جداً لمن يملك أصلاً قدرة على الفعل والعلاقة لكنه فقد بوصلته. الخطر: أن تُطرح أسئلة المعنى على شخص لم يستقر بعد في علاقته بذاته أو بحياته، فتُشعره بأنه يُطالَب بإنجاز روحي وهو غارق في أزمة أساسية أعمق.<br><b>لو رجّحت لانغله:</b> تُؤجَّل أسئلة المعنى، ويبدأ العمل بثلاثة أسئلة أسبق: هل يستطيع هذا الشخص أصلاً أن يكون هنا (الأمان الأساسي)؟ هل يحب حياته كما هي (القيمة الأساسية)؟ هل يجد لنفسه حقاً في أن يكون نفسه (احترام الذات)؟ هذا مناسب أكثر لحالات الصدمة والاكتئاب الشديد والاضطرابات التي تمسّ العلاقة بالذات قبل أي شيء آخر. الخطر: إطالة العمل التمهيدي عند شخص كان بالفعل جاهزاً لسؤال المعنى مباشرة، وتحويل عملية علاجية بسيطة نسبياً إلى مسار أطول من اللازم.<br><b>الأثر على البحث والتدريب:</b> اختيار أحد الإطارين يحدّد أي أدوات تقييم تُستعمل (اختبارات المعنى عند فرانكل مقابل استبيان الدوافع الوجودية الأساسية عند لانغله)، وأي مؤسسة يُعتمَد فيها المتدرب — وهو ما يجعل الخصومة ليست أكاديمية بحتة بل تحدّد مساراً مهنياً كاملاً لمن يدخل المجال من هذا الباب.
--->
+## What follows in practice
+
+If you side with Frankl, sessions begin with the direct question of meaning — what can this person accomplish, love, or choose their stance towards right now? The intervention is faster and more directive, well suited to someone who can already act and relate but has lost their compass. The risk is putting questions of meaning to someone who has not yet settled their relationship to themselves, leaving them feeling asked for a spiritual achievement while drowning in a deeper crisis.
+
+If you side with Längle, questions of meaning are postponed, and the work begins with three earlier questions: can this person be here at all (basic security)? Do they love their life as it is (basic value)? Do they find within themselves the right to be themselves (self-respect)? This suits trauma and severe depression. The risk is prolonging the preparatory work for someone already ready for the question of meaning, turning a relatively simple process into a longer path than necessary.
+
+## Sources
+
+- Frankl, V. E. (1946). *Man's Search for Meaning*. Beacon Press. (German original: *Ein Psychologe erlebt das Konzentrationslager*, 1946.)
+- Frankl, V. E. (1969). *The Will to Meaning: Foundations and Applications of Logotherapy*. World Publishing.
+- Frankl, V. E. (1955). *The Doctor and the Soul: From Psychotherapy to Logotherapy*. Knopf.
+- Längle, A. (2015). From Viktor Frankl's logotherapy to existential analytic psychotherapy. In S. Sulz & S. Hagspiel (Eds.), *European Psychotherapy 2014/2015: Austria — Home of the World's Psychotherapy*.
+- Längle, A. (2003). The method of personal existential analysis. *European Psychotherapy, 4*(1), 37–53.
+- Lukas, E. (1986). *Meaning in Suffering: Comfort in Crisis through Logotherapy*. Institute of Logotherapy Press.
+- Pytell, T. (2015). *Viktor Frankl's Search for Meaning: An Emblematic Twentieth-Century Life*. Berghahn Books.

@@ -2,6 +2,7 @@
 slug: "thk-barbara-myerhoff"
 id: "THK-8963"
 type: "مفكر"
+part: anthropology
 level: "متقدم"
 title: "Barbara Myerhoff: Ritual, Aging, and Self-Creation"
 en: "Barbara Myerhoff"

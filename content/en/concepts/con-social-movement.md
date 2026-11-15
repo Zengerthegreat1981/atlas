@@ -4,27 +4,27 @@ id: SOC-14226
 type: مفهوم
 part: sociology
 level: متوسط
-title: الحركة الاجتماعية
+title: "Social Movement"
 en: Social Movement
-crumb: علم الاجتماع ← الحركة الاجتماعية
+crumb: "Sociology ← Social Movement"
 dates: ''
 active_start: 1900
 active_end: مستمر
 edges: []
 related: []
 gaps:
-- Theoretical genealogy pending
-- Cross-school comparisons pending
-- Empirical examples pending
+- Theoretical genealogy: not yet covered
+- Cross-school comparisons: not yet covered
+- Empirical examples: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Social Movement
 
-Social Movement: Organized collective action for social change. Theoretical elaboration and applications pending full development.
+Social Movement: Organized collective action for social change. Theoretical elaboration and applications are not yet covered here.
 
 ## Sources
 
-- Foundational sources pending research.
-- Contemporary applications pending verification.
+- Foundational sources: not yet covered.
+- Contemporary applications: not yet covered.
 

@@ -2,12 +2,13 @@
 slug: "con-responsibility"
 id: "CON-0403"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Responsibility"
 en: "Responsibility"
 crumb: "Existential Psychotherapy ← Concepts ← Responsibility"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
   - id: "con-guilt", title: "Guilt", type: "مفهوم"

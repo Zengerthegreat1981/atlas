@@ -2,13 +2,14 @@
 slug: "thk-husserl"
 id: "THK-0301"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "Edmund Husserl"
 en: "Edmund Husserl"
 crumb: "Phenomenology ← People ← Edmund Husserl"
-dates: "ألمانيا · 1859–1938"
+dates: "Germany · 1859–1938"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-heidegger", title: "Heidegger", type: "مفكر"
   - id: "br-british", title: "The British Current", type: "تيار"

@@ -2,13 +2,14 @@
 slug: "thk-heidegger"
 id: "THK-0102"
 type: "مفكر"
+part: psychology
 level: "متقدم"
 title: "Martin Heidegger"
 en: "Martin Heidegger"
 crumb: "Existential Psychotherapy ← People ← Martin Heidegger"
-dates: "ألمانيا · 1889–1976 (يحتاج تحقق)"
+dates: "Germany · 1889–1976 (needs verification)"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "br-daseins", title: "Existential Analysis", type: "تيار"
   - id: "dbt-boss-binswanger", title: "The Dispute over His Reading", type: "جدل"

@@ -2,6 +2,7 @@
 slug: "thk-arnold-van-gennep"
 id: "ANT-13064"
 type: "مفكر"
+part: anthropology
 level: "متقدم"
 title: "Arnold van Gennep: Rites of Passage and Liminality"
 en: "Arnold van Gennep"

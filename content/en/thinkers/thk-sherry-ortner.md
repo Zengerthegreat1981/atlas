@@ -2,6 +2,7 @@
 slug: "thk-sherry-ortner"
 id: "THK-13386"
 type: "مفكر"
+part: anthropology
 level: "متقدم"
 title: "Sherry Ortner: Practice Theory and Ritual Agency"
 en: "Sherry Ortner"

@@ -2,6 +2,7 @@
 slug: "con-symbol"
 id: "ANT-13101"
 type: "مفهوم"
+part: anthropology
 level: "متوسط"
 title: "Symbol: Meaning, Condensation, and Representation"
 en: "Symbol"

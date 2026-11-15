@@ -2,13 +2,14 @@
 slug: "thk-beauvoir"
 id: "THK-0104"
 type: "مفكر"
+part: philosophy
 level: "متوسط"
 title: "Simone de Beauvoir"
 en: "Simone de Beauvoir"
 crumb: "Existential Philosophy ← People ← Simone de Beauvoir"
-dates: "فرنسا · فيلسوفة"
+dates: "France · philosopher"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "dbt-individualism", title: "The Individualism Dispute", type: "جدل"
   - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"

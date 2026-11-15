@@ -43,7 +43,7 @@ CRUMB_MODULES = {
     "arab thought": "arab-thought", "bridges": "bridges", "bridge": "bridges",
 }
 STUB_RE = re.compile(r"\[Brief description|for translator reference", re.I)
-PENDING_RE = re.compile(r"\bpending\b", re.I)
+PENDING_RE = re.compile(r"\bpending\b|not yet covered", re.I)
 SLUGISH = re.compile(r"^[a-z0-9][a-z0-9-]*$")
 
 

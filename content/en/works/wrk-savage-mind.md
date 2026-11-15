@@ -2,6 +2,7 @@
 slug: "wrk-savage-mind"
 id: "ANT-13141"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "The Savage Mind"
 en: "The Savage Mind"

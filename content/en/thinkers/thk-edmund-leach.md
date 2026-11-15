@@ -2,6 +2,7 @@
 slug: "thk-edmund-leach"
 id: "ANT-13073"
 type: "مفكر"
+part: anthropology
 level: "متقدم"
 title: "Edmund Leach: Ritual as Language and Structural Symbolism"
 en: "Edmund Leach"

@@ -2,13 +2,14 @@
 slug: "thk-bugental"
 id: "THK-0110"
 type: "مفكر"
+part: psychology
 level: "متوسط"
 title: "James Bugental"
 en: "James Bugental"
 crumb: "Existential Psychotherapy ← People ← James Bugental"
-dates: "الولايات المتحدة"
+dates: "USA"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "br-humanistic", title: "The American Current", type: "تيار"
 gaps:

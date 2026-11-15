@@ -1,0 +1,455 @@
+file,part,crumb_head
+content/en/axioms/axm-existence-precedes-essence.md,philosophy,existentialist school
+content/en/branches/br-british.md,psychology,existential psychotherapy
+content/en/branches/br-daseins.md,philosophy,existential philosophy
+content/en/branches/br-humanistic.md,psychology,humanistic psychology
+content/en/branches/br-logotherapy.md,psychology,existential psychotherapy
+content/en/branches/br-political-anthropology-subfield.md,anthropology,anthropology
+content/en/concepts/con-absurd.md,philosophy,existentialism
+content/en/concepts/con-adaptation.md,anthropology,anthropology
+content/en/concepts/con-adoption.md,anthropology,anthropology
+content/en/concepts/con-aesthetics.md,anthropology,anthropology
+content/en/concepts/con-age-grade.md,anthropology,anthropology
+content/en/concepts/con-age-set.md,anthropology,anthropology
+content/en/concepts/con-aging.md,psychology,aging
+content/en/concepts/con-alliance.md,anthropology,anthropology
+content/en/concepts/con-ancestor-worship.md,anthropology,anthropology
+content/en/concepts/con-animism.md,anthropology,anthropology
+content/en/concepts/con-anxiety-existential.md,psychology,existential psychotherapy
+content/en/concepts/con-anxiety.md,psychology,existential psychotherapy
+content/en/concepts/con-architecture.md,anthropology,anthropology
+content/en/concepts/con-aristocracy.md,anthropology,anthropology
+content/en/concepts/con-assimilation.md,anthropology,anthropology
+content/en/concepts/con-authenticity-inauthenticity.md,psychology,authenticity-inauthenticity
+content/en/concepts/con-authenticity.md,psychology,existential psychotherapy
+content/en/concepts/con-bad-faith.md,psychology,existential psychotherapy
+content/en/concepts/con-barter-trade.md,anthropology,anthropology
+content/en/concepts/con-barter.md,anthropology,anthropology
+content/en/concepts/con-being-becoming.md,psychology,being and becoming
+content/en/concepts/con-being-toward-death.md,philosophy,existential philosophy
+content/en/concepts/con-belief-system.md,anthropology,anthropology
+content/en/concepts/con-bilateral-kinship.md,anthropology,anthropology
+content/en/concepts/con-blessing.md,anthropology,anthropology
+content/en/concepts/con-brideprice.md,anthropology,anthropology
+content/en/concepts/con-brideservice.md,anthropology,anthropology
+content/en/concepts/con-chiefdom.md,anthropology,anthropology
+content/en/concepts/con-chieftaincy.md,anthropology,anthropology
+content/en/concepts/con-choice-constraint.md,psychology,choice and constraint
+content/en/concepts/con-citizenship.md,anthropology,anthropology
+content/en/concepts/con-clan.md,anthropology,anthropology
+content/en/concepts/con-classification.md,anthropology,anthropology
+content/en/concepts/con-cognatic.md,anthropology,anthropology
+content/en/concepts/con-colonialism-psychology.md,anthropology,anthropology
+content/en/concepts/con-colonialism.md,anthropology,anthropology
+content/en/concepts/con-commodification.md,anthropology,anthropology
+content/en/concepts/con-communitas.md,anthropology,anthropology
+content/en/concepts/con-conflict.md,anthropology,anthropology
+content/en/concepts/con-consensus.md,anthropology,anthropology
+content/en/concepts/con-continuity-change.md,anthropology,anthropology
+content/en/concepts/con-cosmology.md,anthropology,anthropology
+content/en/concepts/con-craft.md,anthropology,anthropology
+content/en/concepts/con-credit.md,anthropology,anthropology
+content/en/concepts/con-creolization.md,anthropology,anthropology
+content/en/concepts/con-cultivation.md,anthropology,anthropology
+content/en/concepts/con-cultural-capital.md,anthropology,anthropology
+content/en/concepts/con-cultural-heritage.md,anthropology,anthropology
+content/en/concepts/con-cultural-imperialism.md,anthropology,anthropology
+content/en/concepts/con-cultural-pluralism.md,anthropology,anthropology
+content/en/concepts/con-cultural-preservation.md,anthropology,anthropology
+content/en/concepts/con-cultural-relativism-boas.md,anthropology,anthropology
+content/en/concepts/con-cultural-resistance.md,anthropology,anthropology
+content/en/concepts/con-culture-nature.md,anthropology,anthropology
+content/en/concepts/con-currency.md,anthropology,anthropology
+content/en/concepts/con-curse.md,anthropology,anthropology
+content/en/concepts/con-custom.md,anthropology,anthropology
+content/en/concepts/con-dance.md,anthropology,anthropology
+content/en/concepts/con-death.md,philosophy,existential philosophy
+content/en/concepts/con-debt.md,anthropology,anthropology
+content/en/concepts/con-democracy-direct.md,anthropology,anthropology
+content/en/concepts/con-democracy.md,anthropology,anthropology
+content/en/concepts/con-depression.md,psychology,depression
+content/en/concepts/con-descent.md,anthropology,anthropology
+content/en/concepts/con-despair.md,psychology,despair
+content/en/concepts/con-diaspora.md,anthropology,anthropology
+content/en/concepts/con-disability-anthropology.md,anthropology,anthropology
+content/en/concepts/con-divination.md,anthropology,anthropology
+content/en/concepts/con-division-labor.md,anthropology,anthropology
+content/en/concepts/con-divorce.md,anthropology,anthropology
+content/en/concepts/con-domestication.md,anthropology,anthropology
+content/en/concepts/con-dowry.md,anthropology,anthropology
+content/en/concepts/con-econ-anthropology-6.md,anthropology,anthropology
+content/en/concepts/con-ecstasy.md,anthropology,anthropology
+content/en/concepts/con-endogamy.md,anthropology,anthropology
+content/en/concepts/con-epistemology.md,anthropology,anthropology
+content/en/concepts/con-equality.md,anthropology,anthropology
+content/en/concepts/con-ethnicity.md,anthropology,anthropology
+content/en/concepts/con-exchange.md,anthropology,anthropology
+content/en/concepts/con-existential-crises.md,psychology,existential crises
+content/en/concepts/con-existential-guilt-ontological.md,psychology,existential psychotherapy
+content/en/concepts/con-existential-vacuum.md,psychology,existential psychotherapy
+content/en/concepts/con-exogamy.md,anthropology,anthropology
+content/en/concepts/con-family.md,anthropology,anthropology
+content/en/concepts/con-fear.md,psychology,existential psychotherapy
+content/en/concepts/con-fishing.md,anthropology,anthropology
+content/en/concepts/con-fostering.md,anthropology,anthropology
+content/en/concepts/con-freedom.md,philosophy,existential philosophy
+content/en/concepts/con-fulfillment.md,psychology,fulfillment
+content/en/concepts/con-genocide.md,anthropology,anthropology
+content/en/concepts/con-gift.md,anthropology,anthropology
+content/en/concepts/con-globalization.md,anthropology,anthropology
+content/en/concepts/con-glocalization.md,anthropology,anthropology
+content/en/concepts/con-gossip.md,anthropology,anthropology
+content/en/concepts/con-grief.md,psychology,grief
+content/en/concepts/con-guilt.md,philosophy,existential philosophy
+content/en/concepts/con-healing.md,anthropology,anthropology
+content/en/concepts/con-hegemony.md,anthropology,anthropology
+content/en/concepts/con-herbalism.md,anthropology,anthropology
+content/en/concepts/con-herding.md,anthropology,anthropology
+content/en/concepts/con-heritage.md,anthropology,anthropology
+content/en/concepts/con-hierarchy.md,anthropology,anthropology
+content/en/concepts/con-history-collective.md,anthropology,anthropology
+content/en/concepts/con-homeland.md,anthropology,anthropology
+content/en/concepts/con-homogeneous-heterogeneous.md,anthropology,anthropology
+content/en/concepts/con-honor.md,anthropology,anthropology
+content/en/concepts/con-hope.md,psychology,hope
+content/en/concepts/con-hunting.md,anthropology,anthropology
+content/en/concepts/con-hybridity.md,anthropology,anthropology
+content/en/concepts/con-identity-construction.md,anthropology,anthropology
+content/en/concepts/con-identity-politics.md,anthropology,anthropology
+content/en/concepts/con-imperialism.md,anthropology,anthropology
+content/en/concepts/con-individuation.md,psychology,individuation
+content/en/concepts/con-inheritance-property.md,anthropology,anthropology
+content/en/concepts/con-inheritance.md,anthropology,anthropology
+content/en/concepts/con-integration.md,anthropology,anthropology
+content/en/concepts/con-isolation.md,philosophy,existentialist school
+content/en/concepts/con-jealousy-envy.md,psychology,emotion psychology
+content/en/concepts/con-justice.md,anthropology,anthropology
+content/en/concepts/con-kinship.md,anthropology,anthropology
+content/en/concepts/con-knowledge-systems.md,anthropology,anthropology
+content/en/concepts/con-labor-division.md,anthropology,anthropology
+content/en/concepts/con-land-tenure.md,anthropology,anthropology
+content/en/concepts/con-law.md,anthropology,anthropology
+content/en/concepts/con-leadership.md,anthropology,anthropology
+content/en/concepts/con-levirate.md,anthropology,anthropology
+content/en/concepts/con-liberation.md,anthropology,anthropology
+content/en/concepts/con-liminality.md,anthropology,anthropology
+content/en/concepts/con-lineage.md,anthropology,anthropology
+content/en/concepts/con-localization.md,anthropology,anthropology
+content/en/concepts/con-love.md,psychology,love
+content/en/concepts/con-magic.md,anthropology,anthropology
+content/en/concepts/con-mana.md,anthropology,anthropology
+content/en/concepts/con-marriage-rules.md,anthropology,anthropology
+content/en/concepts/con-matrilineal.md,anthropology,anthropology
+content/en/concepts/con-matrimonial.md,anthropology,anthropology
+content/en/concepts/con-meaning.md,philosophy,existentialism
+content/en/concepts/con-meaninglessness.md,psychology,meaninglessness
+content/en/concepts/con-memory.md,anthropology,anthropology
+content/en/concepts/con-mestizaje.md,anthropology,anthropology
+content/en/concepts/con-metalwork.md,anthropology,anthropology
+content/en/concepts/con-metaphor.md,anthropology,anthropology
+content/en/concepts/con-metonym.md,anthropology,anthropology
+content/en/concepts/con-modernity.md,anthropology,anthropology
+content/en/concepts/con-moiety.md,anthropology,anthropology
+content/en/concepts/con-monarchy.md,anthropology,anthropology
+content/en/concepts/con-monogamy.md,anthropology,anthropology
+content/en/concepts/con-monotheism.md,anthropology,anthropology
+content/en/concepts/con-mortality.md,psychology,mortality
+content/en/concepts/con-multiculturalism.md,anthropology,anthropology
+content/en/concepts/con-music.md,anthropology,anthropology
+content/en/concepts/con-myth.md,anthropology,anthropology
+content/en/concepts/con-narrative.md,anthropology,anthropology
+content/en/concepts/con-nationalism.md,anthropology,anthropology
+content/en/concepts/con-neocolonialism.md,anthropology,anthropology
+content/en/concepts/con-ontology.md,anthropology,anthropology
+content/en/concepts/con-oracle.md,anthropology,anthropology
+content/en/concepts/con-oral-tradition.md,anthropology,anthropology
+content/en/concepts/con-oratory.md,anthropology,anthropology
+content/en/concepts/con-othering.md,anthropology,anthropology
+content/en/concepts/con-patrilineal.md,anthropology,anthropology
+content/en/concepts/con-peace-building.md,anthropology,anthropology
+content/en/concepts/con-peace.md,anthropology,anthropology
+content/en/concepts/con-performance.md,anthropology,anthropology
+content/en/concepts/con-phratry.md,anthropology,anthropology
+content/en/concepts/con-poetry.md,anthropology,anthropology
+content/en/concepts/con-polyandry.md,anthropology,anthropology
+content/en/concepts/con-polygyny.md,anthropology,anthropology
+content/en/concepts/con-polytheism.md,anthropology,anthropology
+content/en/concepts/con-postmarital-residence.md,anthropology,anthropology
+content/en/concepts/con-postmodernity.md,anthropology,anthropology
+content/en/concepts/con-pottery.md,anthropology,anthropology
+content/en/concepts/con-prayer.md,anthropology,anthropology
+content/en/concepts/con-presence-absence.md,psychology,presence and absence
+content/en/concepts/con-prestige.md,anthropology,anthropology
+content/en/concepts/con-profane.md,anthropology,anthropology
+content/en/concepts/con-property.md,anthropology,anthropology
+content/en/concepts/con-protest.md,anthropology,anthropology
+content/en/concepts/con-public-sphere.md,anthropology,anthropology
+content/en/concepts/con-rage.md,psychology,rage
+content/en/concepts/con-reciprocity.md,anthropology,anthropology
+content/en/concepts/con-reconciliation.md,anthropology,anthropology
+content/en/concepts/con-redistribution.md,anthropology,anthropology
+content/en/concepts/con-relation.md,psychology,existential psychotherapy
+content/en/concepts/con-relationships.md,psychology,relationships
+content/en/concepts/con-representation.md,anthropology,anthropology
+content/en/concepts/con-reputation.md,anthropology,anthropology
+content/en/concepts/con-resilience.md,psychology,resilience
+content/en/concepts/con-resistance-movements.md,anthropology,anthropology
+content/en/concepts/con-responsibility.md,psychology,existential psychotherapy
+content/en/concepts/con-revolution.md,anthropology,anthropology
+content/en/concepts/con-rite-of-passage.md,anthropology,anthropology
+content/en/concepts/con-ritual.md,anthropology,anthropology
+content/en/concepts/con-sacred.md,anthropology,anthropology
+content/en/concepts/con-sacrifice.md,anthropology,anthropology
+content/en/concepts/con-sadness.md,psychology,emotion psychology
+content/en/concepts/con-savings.md,anthropology,anthropology
+content/en/concepts/con-secret-societies.md,anthropology,anthropology
+content/en/concepts/con-segregation.md,anthropology,anthropology
+content/en/concepts/con-self-other.md,psychology,self and other
+content/en/concepts/con-sensory-anthropology.md,anthropology,anthropology
+content/en/concepts/con-shamanism.md,anthropology,anthropology
+content/en/concepts/con-shame-guilt.md,psychology,emotion psychology
+content/en/concepts/con-shame.md,psychology,shame
+content/en/concepts/con-social-movements.md,anthropology,anthropology
+content/en/concepts/con-social-network.md,anthropology,anthropology
+content/en/concepts/con-social-reproduction.md,anthropology,anthropology
+content/en/concepts/con-sorcery.md,anthropology,anthropology
+content/en/concepts/con-sororate.md,anthropology,anthropology
+content/en/concepts/con-spirit-possession.md,anthropology,anthropology
+content/en/concepts/con-state.md,anthropology,anthropology
+content/en/concepts/con-structural-opposition.md,anthropology,anthropology
+content/en/concepts/con-succession.md,anthropology,anthropology
+content/en/concepts/con-symbol.md,anthropology,anthropology
+content/en/concepts/con-syncretism.md,anthropology,anthropology
+content/en/concepts/con-taboo.md,anthropology,anthropology
+content/en/concepts/con-theocracy.md,anthropology,anthropology
+content/en/concepts/con-thrownness.md,philosophy,existential philosophy
+content/en/concepts/con-time.md,psychology,existential psychotherapy
+content/en/concepts/con-tool.md,anthropology,anthropology
+content/en/concepts/con-totemism.md,anthropology,anthropology
+content/en/concepts/con-trade-networks.md,anthropology,anthropology
+content/en/concepts/con-tradition-innovation.md,anthropology,anthropology
+content/en/concepts/con-tradition.md,anthropology,anthropology
+content/en/concepts/con-trance.md,anthropology,anthropology
+content/en/concepts/con-transnationalism.md,anthropology,anthropology
+content/en/concepts/con-tribe.md,anthropology,anthropology
+content/en/concepts/con-universal-particular.md,anthropology,anthropology
+content/en/concepts/con-usufruct.md,anthropology,anthropology
+content/en/concepts/con-violence.md,anthropology,anthropology
+content/en/concepts/con-visual-art.md,anthropology,anthropology
+content/en/concepts/con-voting.md,anthropology,anthropology
+content/en/concepts/con-war.md,anthropology,anthropology
+content/en/concepts/con-wealth.md,anthropology,anthropology
+content/en/concepts/con-weaving.md,anthropology,anthropology
+content/en/concepts/con-witchcraft.md,anthropology,anthropology
+content/en/concepts/con-worldview.md,anthropology,anthropology
+content/en/critiques/crt-feminist-critique-heidegger.md,philosophy,existential philosophy
+content/en/debates/dbt-boss-binswanger.md,philosophy,existential school
+content/en/debates/dbt-british-yalom.md,philosophy,existential school
+content/en/debates/dbt-evidence.md,philosophy,existential school
+content/en/debates/dbt-individualism.md,philosophy,existential school
+content/en/debates/dbt-laing.md,philosophy,existential school
+content/en/debates/dbt-langle-frankl.md,philosophy,existential school
+content/en/debates/dbt-meaning-found.md,philosophy,existential school
+content/en/debates/dbt-school-or-attitude.md,philosophy,existential school
+content/en/debates/dbt-spiritual.md,philosophy,existential school
+content/en/debates/dbt-structures.md,philosophy,existential school
+content/en/debates/dbt-unconscious.md,philosophy,existential school
+content/en/dialogues/dia-existential-act-encounter.md,psychology,existential therapy
+content/en/events/evt-frankl-camps.md,philosophy,existential philosophy
+content/en/experiences/exp-frankl-lived-experience.md,philosophy,existential philosophy
+content/en/metaphors/met-sisyphus-camus.md,philosophy,existential philosophy
+content/en/questions/que-what-is-authentic-existence.md,philosophy,existential philosophy
+content/en/relations/rel-act.md,philosophy,existential philosophy
+content/en/relations/rel-humanistic.md,philosophy,existential philosophy
+content/en/relations/rel-phenopath.md,philosophy,existential philosophy
+content/en/relations/rel-psychoanalysis.md,philosophy,existential philosophy
+content/en/schools/sch-applied-anthropology-development.md,anthropology,anthropology
+content/en/schools/sch-applied-anthropology-expanded.md,anthropology,anthropology
+content/en/schools/sch-british-functionalism.md,anthropology,anthropology
+content/en/schools/sch-digital-anthropology.md,anthropology,anthropology
+content/en/schools/sch-economic-anthropology-expanded.md,anthropology,anthropology
+content/en/schools/sch-feminist-anthropology.md,anthropology,anthropology
+content/en/schools/sch-linguistic-anthropology-expanded.md,anthropology,anthropology
+content/en/schools/sch-medical-anthropology.md,anthropology,anthropology
+content/en/schools/sch-psychological-anthropology.md,anthropology,anthropology
+content/en/schools/sch-queer-anthropology.md,anthropology,anthropology
+content/en/schools/sch-urban-anthropology-expanded.md,anthropology,anthropology
+content/en/schools/scl-aging-anthropology.md,anthropology,anthropology
+content/en/schools/scl-archaeology-anthropology.md,anthropology,anthropology
+content/en/schools/scl-biocultural-anthropology.md,anthropology,anthropology
+content/en/schools/scl-childhood-anthropology.md,anthropology,anthropology
+content/en/schools/scl-cognitive-anthropology.md,anthropology,anthropology
+content/en/schools/scl-colonial-anthropology.md,anthropology,anthropology
+content/en/schools/scl-ecological-anthropology.md,anthropology,anthropology
+content/en/schools/scl-education-anthropology.md,anthropology,anthropology
+content/en/schools/scl-environmental-anthropology.md,anthropology,anthropology
+content/en/schools/scl-ethnoarchaeology.md,anthropology,anthropology
+content/en/schools/scl-ethnoastronomy.md,anthropology,anthropology
+content/en/schools/scl-ethnobiology.md,anthropology,anthropology
+content/en/schools/scl-ethnobotany.md,anthropology,anthropology
+content/en/schools/scl-ethnoecology.md,anthropology,anthropology
+content/en/schools/scl-ethnomedicine.md,anthropology,anthropology
+content/en/schools/scl-foodways-anthropology.md,anthropology,anthropology
+content/en/schools/scl-forensic-anthropology.md,anthropology,anthropology
+content/en/schools/scl-historical-anthropology.md,anthropology,anthropology
+content/en/schools/scl-indigenous-anthropology.md,anthropology,anthropology
+content/en/schools/scl-internet-anthropology.md,anthropology,anthropology
+content/en/schools/scl-kinship-anthropology.md,anthropology,anthropology
+content/en/schools/scl-maritime-anthropology.md,anthropology,anthropology
+content/en/schools/scl-media-anthropology.md,anthropology,anthropology
+content/en/schools/scl-migration-anthropology.md,anthropology,anthropology
+content/en/schools/scl-postcolonial-anthropology.md,anthropology,anthropology
+content/en/schools/scl-postmodern-anthropology.md,anthropology,anthropology
+content/en/schools/scl-religious-anthropology.md,anthropology,anthropology
+content/en/schools/scl-sports-anthropology.md,anthropology,anthropology
+content/en/schools/scl-structural-anthropology.md,anthropology,anthropology
+content/en/schools/scl-tourism-anthropology.md,anthropology,anthropology
+content/en/schools/scl-visual-anthropology.md,anthropology,anthropology
+content/en/studies/stu-breitbart-mcp-rct.md,psychology,existential psychotherapy
+content/en/studies/stu-geertz-balinese-cockfight.md,anthropology,anthropology
+content/en/studies/stu-himba-facial.md,psychology,emotion psychology
+content/en/studies/stu-turner-schism-continuity.md,anthropology,anthropology
+content/en/syndromes/syn-survivor-guilt-syndrome.md,psychology,existential therapy
+content/en/terms/trm-angst-translation.md,philosophy,existential school
+content/en/thinkers/thk-abdalla-salem.md,anthropology,anthropology
+content/en/thinkers/thk-aihwa-ong.md,anthropology,anthropology
+content/en/thinkers/thk-akira-fujii.md,anthropology,anthropology
+content/en/thinkers/thk-alfred-kroeber.md,anthropology,anthropology
+content/en/thinkers/thk-angel.md,psychology,existential psychotherapy
+content/en/thinkers/thk-anna-tsing.md,anthropology,anthropology
+content/en/thinkers/thk-audrey-richards.md,anthropology,anthropology
+content/en/thinkers/thk-barbara-myerhoff.md,anthropology,symbolic anthropology
+content/en/thinkers/thk-beauvoir.md,philosophy,existential philosophy
+content/en/thinkers/thk-becker.md,anthropology,anthropology
+content/en/thinkers/thk-berdyaev.md,philosophy,existential philosophy
+content/en/thinkers/thk-biersack.md,anthropology,symbolic anthropology
+content/en/thinkers/thk-binswanger.md,philosophy,existentialist school
+content/en/thinkers/thk-boss.md,psychology,existential psychotherapy
+content/en/thinkers/thk-buber.md,philosophy,philosophy
+content/en/thinkers/thk-bugental.md,psychology,existential psychotherapy
+content/en/thinkers/thk-camus.md,philosophy,existentialism
+content/en/thinkers/thk-cohn.md,philosophy,existential philosophy
+content/en/thinkers/thk-cooper.md,philosophy,existential philosophy
+content/en/thinkers/thk-deepak-mehta.md,anthropology,anthropology
+content/en/thinkers/thk-dostoevsky.md,philosophy,existentialist school
+content/en/thinkers/thk-edmund-leach.md,anthropology,structural anthropology
+content/en/thinkers/thk-elizabeth-A-povinelli.md,anthropology,anthropology
+content/en/thinkers/thk-ellenberger.md,psychology,existential psychotherapy
+content/en/thinkers/thk-frankl.md,philosophy,existentialism
+content/en/thinkers/thk-franz-steiner.md,anthropology,anthropology
+content/en/thinkers/thk-gbateson.md,anthropology,anthropology
+content/en/thinkers/thk-heidegger.md,psychology,existential psychotherapy
+content/en/thinkers/thk-henrietta-moore.md,anthropology,anthropology
+content/en/thinkers/thk-holzhey.md,philosophy,existential philosophy
+content/en/thinkers/thk-hortense-powdermaker.md,anthropology,anthropology
+content/en/thinkers/thk-isak-dinesen.md,anthropology,anthropology
+content/en/thinkers/thk-jaspers.md,philosophy,existentialist school
+content/en/thinkers/thk-jomo-kenyatta.md,anthropology,anthropology
+content/en/thinkers/thk-kafka.md,psychology,existential psychotherapy
+content/en/thinkers/thk-karen-ho.md,anthropology,anthropology
+content/en/thinkers/thk-kierkegaard.md,psychology,existential psychotherapy
+content/en/thinkers/thk-kwame-appiah.md,anthropology,anthropology
+content/en/thinkers/thk-laing.md,philosophy,existential philosophy
+content/en/thinkers/thk-langle.md,philosophy,existential philosophy
+content/en/thinkers/thk-laura-bohannan.md,anthropology,anthropology
+content/en/thinkers/thk-leacock.md,anthropology,anthropology
+content/en/thinkers/thk-levinas.md,philosophy,existential philosophy
+content/en/thinkers/thk-lucy-mair.md,anthropology,anthropology
+content/en/thinkers/thk-lukas.md,philosophy,existentialist school
+content/en/thinkers/thk-marcel-mauss.md,anthropology,anthropology
+content/en/thinkers/thk-marcel.md,philosophy,existential philosophy
+content/en/thinkers/thk-margaret-mead.md,anthropology,anthropology
+content/en/thinkers/thk-marshall-sahlins.md,anthropology,anthropology
+content/en/thinkers/thk-mary-douglas.md,anthropology,structural anthropology
+content/en/thinkers/thk-max-gluckman.md,anthropology,structural anthropology
+content/en/thinkers/thk-may.md,psychology,existential psychotherapy
+content/en/thinkers/thk-meyer-fortes.md,anthropology,anthropology
+content/en/thinkers/thk-ming-ming-kuo.md,anthropology,anthropology
+content/en/thinkers/thk-minkowski.md,philosophy,existential philosophy
+content/en/thinkers/thk-nancy-scheper-hughes.md,anthropology,anthropology
+content/en/thinkers/thk-ortega.md,philosophy,existential philosophy
+content/en/thinkers/thk-paul-bohannan.md,anthropology,anthropology
+content/en/thinkers/thk-philippe-bourgois.md,anthropology,anthropology
+content/en/thinkers/thk-rank.md,philosophy,existentialist school
+content/en/thinkers/thk-robert-lowie.md,anthropology,anthropology
+content/en/thinkers/thk-ruth-benedict.md,anthropology,anthropology
+content/en/thinkers/thk-sartre.md,philosophy,existential philosophy
+content/en/thinkers/thk-schneider.md,psychology,existential psychotherapy
+content/en/thinkers/thk-sergio-carrasco.md,anthropology,anthropology
+content/en/thinkers/thk-shestov.md,philosophy,existential philosophy
+content/en/thinkers/thk-shulamit-reinharz.md,anthropology,anthropology
+content/en/thinkers/thk-spinelli.md,psychology,existential psychotherapy
+content/en/thinkers/thk-stathis-gourgouris.md,anthropology,anthropology
+content/en/thinkers/thk-straus.md,philosophy,existentialist school
+content/en/thinkers/thk-talal-asad.md,anthropology,anthropology
+content/en/thinkers/thk-terence-turner.md,anthropology,anthropology
+content/en/thinkers/thk-unamuno.md,philosophy,existential philosophy
+content/en/thinkers/thk-vandeurzen.md,philosophy,existential philosophy
+content/en/thinkers/thk-vankaam.md,psychology,existential psychotherapy
+content/en/thinkers/thk-victor-turner.md,anthropology,symbolic anthropology
+content/en/thinkers/thk-william-rivers.md,anthropology,anthropology
+content/en/thinkers/thk-wong.md,psychology,existential psychotherapy
+content/en/thinkers/thk-yalom.md,psychology,existential psychotherapy
+content/en/thinkers/thk-zora-neale-hurston.md,anthropology,anthropology
+content/en/works/wrk-african-political-systems-fortes-evans-pritchard.md,anthropology,anthropology
+content/en/works/wrk-anthropology-now.md,anthropology,anthropology
+content/en/works/wrk-argonauts-western-pacific-malinowski.md,anthropology,anthropology
+content/en/works/wrk-being-nothingness.md,philosophy,existential philosophy
+content/en/works/wrk-being-time.md,philosophy,existential philosophy
+content/en/works/wrk-concept-anxiety.md,philosophy,existential philosophy
+content/en/works/wrk-courage-to-be.md,philosophy,philosophy
+content/en/works/wrk-cultural-critique.md,anthropology,anthropology
+content/en/works/wrk-divided-self.md,philosophy,philosophy
+content/en/works/wrk-empire.md,anthropology,anthropology
+content/en/works/wrk-ethics-ambiguity.md,philosophy,philosophy
+content/en/works/wrk-ethnographic-fieldwork.md,anthropology,anthropology
+content/en/works/wrk-existence.md,philosophy,philosophy
+content/en/works/wrk-existential-psychotherapy.md,philosophy,existential philosophy
+content/en/works/wrk-existential-therapies.md,philosophy,philosophy
+content/en/works/wrk-general-psychopathology.md,psychology,psychology
+content/en/works/wrk-kinship-village.md,anthropology,anthropology
+content/en/works/wrk-lived-time.md,philosophy,philosophy
+content/en/works/wrk-mans-search.md,philosophy,existential philosophy
+content/en/works/wrk-mind-of-primitive-man-boas.md,anthropology,anthropology
+content/en/works/wrk-negara.md,anthropology,anthropology
+content/en/works/wrk-primitive-society.md,anthropology,anthropology
+content/en/works/wrk-purity-and-danger-douglas.md,anthropology,anthropology
+content/en/works/wrk-residence-kinship.md,anthropology,anthropology
+content/en/works/wrk-sexual-life.md,anthropology,anthropology
+content/en/works/wrk-sickness-death.md,philosophy,philosophy
+content/en/works/wrk-structure-function-primitive-society-radcliffe-brown.md,anthropology,anthropology
+content/en/works/wrk-tiwi.md,anthropology,anthropology
+content/en/works/wrk-tristes-tropiques.md,anthropology,anthropology
+content/en/works/wrk-urban-culture.md,anthropology,anthropology
+content/en/works/wrk-womans-evolution.md,anthropology,anthropology
+content/en/works/wrk-works-lives.md,anthropology,anthropology
+content/en/works/wrk-zollikon.md,philosophy,philosophy
+content/en/concepts/con-spiritual-crisis.md,psychology,spiritual crisis
+content/en/concepts/con-therapy.md,psychology,therapy
+content/en/concepts/con-trauma.md,psychology,trauma
+content/en/contexts/ctx-arabic-self.md,arab-thought,arab-islamic heritage
+content/en/studies/stu-ekman-original-facial.md,psychology,psychology of emotion
+content/en/studies/stu-evans-pritchard-the-nuer.md,anthropology,evans-pritchard · descent & kinship
+content/en/studies/stu-leach-political-systems-highlands-burma.md,anthropology,leach · kinship & alliance
+content/en/studies/stu-terror-management-theory.md,psychology,social psychology
+content/en/thinkers/thk-arnold-van-gennep.md,anthropology,ritual theory
+content/en/thinkers/thk-carlos-castaneda.md,psychology,popular psychology and toltec wisdom
+content/en/thinkers/thk-clifford-geertz.md,anthropology,interpretive anthropology
+content/en/thinkers/thk-husserl.md,philosophy,phenomenology
+content/en/thinkers/thk-natalie-zemon-davis.md,historiography,history and its methods
+content/en/thinkers/thk-nietzsche.md,philosophy,nietzscheanism
+content/en/thinkers/thk-sherry-ortner.md,anthropology,practice theory
+content/en/thinkers/thk-tillich.md,philosophy,existential theology
+content/en/thinkers/thk-ulf-hannersson.md,anthropology,cosmopolitan anthropology and cultural globalisation
+content/en/works/wrk-coming-of-age-samoa-mead.md,anthropology,mead · psychological anthropology
+content/en/works/wrk-elementary-structures.md,anthropology,lévi-strauss · kinship & exchange
+content/en/works/wrk-forest-symbols.md,anthropology,turner · liminality & communitas
+content/en/works/wrk-hawaiian-kinship.md,anthropology,hanson · polynesian kinship
+content/en/works/wrk-interpretation-of-cultures-geertz.md,anthropology,geertz · thick description
+content/en/works/wrk-kinship-and-marriage.md,anthropology,fox · kinship synthesis
+content/en/works/wrk-kung-bushmen.md,anthropology,lee · hunter-gatherer economics
+content/en/works/wrk-patterns-of-culture-benedict.md,anthropology,benedict · culture as integration
+content/en/works/wrk-savage-mind.md,anthropology,lévi-strauss · classification & logic
+content/en/works/wrk-the-gift.md,anthropology,mauss · gift exchange
+content/en/works/wrk-tiwi-wives.md,anthropology,hart & pilling · aboriginal kinship
+content/en/works/wrk-totemism.md,anthropology,lévi-strauss · classification & symbol

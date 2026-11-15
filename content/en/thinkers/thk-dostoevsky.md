@@ -2,13 +2,14 @@
 slug: "thk-dostoevsky"
 id: "THK-0312"
 type: "مفكر"
+part: philosophy
 level: "متوسط"
 title: "Fyodor Dostoevsky"
 en: "Fyodor Dostoevsky"
 crumb: "Existentialist School ← People ← Fyodor Dostoevsky"
-dates: "روسيا · 1821–1881"
+dates: "Russia · 1821–1881"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-camus", title: "Albert Camus", type: "مفكر"
   - id: "thk-nietzsche", title: "Nietzsche", type: "مفكر"

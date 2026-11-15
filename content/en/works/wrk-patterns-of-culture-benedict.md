@@ -2,6 +2,7 @@
 slug: "wrk-patterns-of-culture-benedict"
 id: "WRK-2118"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "Patterns of Culture"
 en: "Patterns of Culture"

@@ -2,13 +2,14 @@
 slug: "thk-camus"
 id: "THK-0304"
 type: "مفكر"
+part: philosophy
 level: "متوسط"
 title: "Albert Camus: The Absurd and Revolt"
 en: "Albert Camus"
 crumb: "Existentialism ← Thinkers ← Albert Camus"
 dates: "France · 1913–1960"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-meaning", title: "Meaning and Meaninglessness", type: "مفهوم"
   - id: "con-absurd", title: "The Absurd", type: "مفهوم"

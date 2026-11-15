@@ -4,17 +4,17 @@ id: SOC-14218
 type: مفهوم
 part: sociology
 level: متوسط
-title: الاغتراب
+title: "Alienation"
 en: Alienation
-crumb: علم الاجتماع ← الاغتراب
+crumb: "Sociology ← Alienation"
 dates: ''
 active_start: 1900
 active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed empirical case studies pending
-- Cross-disciplinary applications pending
+- Detailed empirical case studies: not yet covered
+- Cross-disciplinary applications: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---

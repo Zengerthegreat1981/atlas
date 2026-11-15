@@ -2,12 +2,13 @@
 slug: "con-relation"
 id: "CON-0410"
 type: "مفهوم"
+part: psychology
 level: "متقدم"
 title: "Relation and Encounter"
 en: "Relation and encounter"
 crumb: "Existential Psychotherapy ← Concepts ← Relation and Encounter"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-isolation", title: "Isolation", type: "مفهوم"
   - id: "thk-bugental", title: "Bugental", type: "مفكر"

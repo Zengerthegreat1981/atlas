@@ -2,12 +2,13 @@
 slug: "con-presence-absence"
 id: "CON-0427"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Presence and Absence"
 en: "Presence and Absence"
 crumb: "Presence and Absence"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 ---

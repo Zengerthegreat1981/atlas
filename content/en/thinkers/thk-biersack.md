@@ -2,6 +2,7 @@
 slug: "thk-biersack"
 id: "ANT-13021"
 type: "مفكر"
+part: anthropology
 level: "متقدم"
 title: "Aletta Biersack: Ritual, History, and Melanesian Transformation"
 en: "Aletta Biersack"

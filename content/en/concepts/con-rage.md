@@ -2,12 +2,13 @@
 slug: "con-rage"
 id: "CON-19071"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Rage"
 en: "Rage"
 crumb: "Rage"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"

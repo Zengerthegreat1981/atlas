@@ -2,13 +2,14 @@
 slug: "thk-kierkegaard"
 id: "THK-0101"
 type: "مفكر"
+part: psychology
 level: "متوسط"
 title: "Søren Kierkegaard"
 en: "Søren Kierkegaard"
 crumb: "Existential Psychotherapy ← People ← Søren Kierkegaard"
-dates: "الدنمارك · القرن 19"
+dates: "Denmark · 19th century"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-heidegger", title: "Heidegger", type: "مفكر"
   - id: "thk-unamuno", title: "Miguel de Unamuno", type: "مفكر"

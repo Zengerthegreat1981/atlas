@@ -2,6 +2,7 @@
 slug: "thk-victor-turner"
 id: "THK-6561"
 type: "مفكر"
+part: anthropology
 level: "متقدم"
 title: "Victor Turner: Ritual, Symbol, and Social Drama"
 en: "Victor Turner"

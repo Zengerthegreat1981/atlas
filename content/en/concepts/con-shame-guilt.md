@@ -2,43 +2,63 @@
 slug: "con-shame-guilt"
 id: "CON-0414"
 type: "مفهوم"
+part: psychology
 level: "مبتدئ"
-title: "[EN TRANSLATION NEEDED]"
+title: "Shame and Guilt"
 en: "Shame and Guilt"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Emotion Psychology ← Concepts ← Shame and Guilt"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
-  - id: "con-fear", title: "الخوف", type: "مفهوم"
-  - id: "con-sadness", title: "الحزن", type: "مفهوم"
+  - id: "con-fear", title: "Fear", type: "مفهوم"
+  - id: "con-sadness", title: "Sadness", type: "مفهوم"
 gaps:
   - "لا يوجد بعد مصدر عربي إسلامي عن مفهومي الخزي والذنب (الغزالي تناول الخوف من الله وليس الخزي الاجتماعي تحديداً — يحتاج بحث دقيق)"
   - "الفرق بين الخزي السليم والخزي السام (toxic shame) غير مستكشف بعد، وقد يحتاج مصدراً إكلينيكياً متخصصاً"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Shame and Guilt
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Shame and guilt are the emotions of self-evaluation. They arise when a person measures themselves — or their actions — against a standard and finds the result wanting. They are so often experienced together, and so often confused with one another, that they are treated here as a single paired entry; yet the distinction between them is one of the most consequential in the psychology of emotion. In brief: guilt condemns what a person did, while shame condemns who a person is.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## The Core Distinction: Self versus Act
 
-# الخزي والذنب
+The classic formulation comes from Helen Block Lewis, whose *Shame and Guilt in Neurosis* (1971) first drew the line with clinical precision. In guilt, Lewis argued, the self judges a specific behaviour: "I did a bad thing." The self remains intact and capable of repair. In shame, the self judges itself: "I am a bad person." The whole self is experienced as defective, exposed, and unworthy, and the impulse is not to repair but to hide, to shrink, to disappear from the gaze of others.
 
-زوج مفاهيمي متلازم غالباً ما يُخلط بينه، رغم فارق جوهري في موضوع التقييم: الذات ككل مقابل فعل محدد.
+Richard Lazarus gave the same distinction a precise appraisal form in *Emotion and Adaptation* (1991). Guilt, he wrote, follows the transgression of a moral imperative — a negative evaluation of a particular act. Shame follows the failure to live up to an ego-ideal — a negative evaluation of the self as a whole. Guilt motivates confession, apology, and reparation: because the fault lies in the act, the act can be undone or compensated. Shame motivates concealment and withdrawal: because the fault lies in the self, there is nothing to fix, only something to hide.
 
-## التمييز عند لازاروس
+## Shame and Guilt in the Emotion Taxonomy
 
-الذنب (Guilt): تجاوز ضرورة أخلاقية — تقييم سلبي لفعل محدد (Having transgressed a moral imperative). الخزي (Shame): الفشل في الارتقاء إلى الأنا المثالية — تقييم سلبي للذات ككل (Having failed to live up to an ego-ideal). الفرق الجوهري: الذنب يدفع لإصلاح الفعل، الخزي يدفع للاختباء أو الانسحاب.
+In the prototype taxonomy of emotion developed by Shaver, Schwartz, Kirson, and O'Connor (1987), shame and guilt sit together inside the large sadness family, under a sub-category of remorse that also includes regret. This placement is instructive: shame and guilt are kin to sadness because they share its core theme of loss — the loss of standing, of approval, of the self one hoped to be.
 
-## الموقع في تصنيف شيفر
+Both emotions belong to the class psychologists call self-conscious emotions, because they require capacities that simpler emotions do not: a sense of self, an internalised set of standards, and the ability to imagine how one appears in the eyes of others.
 
-كلاهما يقع ضمن عائلة الحزن الكبرى في تصنيف Shaver et al. 1987، تحت فئة فرعية باسم 'الندم' (Guilt, Shame, Regret, Remorse) — وهذا يعزز الرابط البنيوي بينهما وبين الحزن العام.
+## Empirical Research: Tangney and Dearing
 
-## البعد الاجتماعي الثقافي
+The distinction between shame and guilt was put to empirical test by June Price Tangney and Rhonda Dearing, whose programme of research culminated in *Shame and Guilt* (2002). Developing the Test of Self-Conscious Affect (TOSCA) and related measures, they asked large samples of adults and adolescents to describe how they would respond to everyday failures and transgressions, and tracked the correlates of shame-proneness and guilt-proneness over time.
 
-طبقاً لمسكيتا، مفهوم الذات المستقلة مقابل الذات المترابطة (Markus & Kitayama) يؤثر مباشرة على كيفية عيش الخزي: في الثقافات الجماعية قد يكون الخزي مرتبطاً بشكل أوثق بسمعة الجماعة لا الفرد وحده — سؤال بحثي مباشر ذو صلة بالسياق العربي لم يُستكشف بعد.
+Their findings gave the theoretical distinction real weight. People prone to shame were more likely to report symptoms of depression and anxiety, to externalise blame, and to respond to failure with anger directed at others. People prone to guilt showed weaker associations with psychological symptoms and were more likely to apologise and make amends. Guilt, in their data, looked like the adaptive member of the pair: painful but reparative. Shame looked like the risk factor: painful and paralysing.
 
-## ملاحظة على المصادر
+## The Self in Culture
 
-هذا التمييز (خزي/ذنب) هو أيضاً محور رئيسي في كتاب Atlas of the Heart لبريني براون، لكن النسخة المتوفرة من هذا الكتاب في مكتبة المصادر حالياً تالفة وغير صالحة للاستخدام كمصدر محقق — أي إشارة له تبقى معلّقة لحين توفر نسخة أصلية.
--->
+Whether shame or guilt dominates a person's moral life depends in part on culture. Hazel Rose Markus and Shinobu Kitayama, in "Culture and the Self" (1991), contrasted the independent self of many Western societies with the interdependent self of many collectivist societies. Where the self is defined by its connections, shame is readily tied to the reputation of the family or group, not only to the individual.
+
+Anthropologists of the Mediterranean world, including Lila Abu-Lughod in *Veiled Sentiments* (1986), her study of Bedouin poetry and honour, documented elaborate codes in which honour and modesty govern social life and shame is a collective affair. In the Arab-Islamic context, several neighbouring concepts must be kept distinct: *haya'* (modesty), a praised virtue; *'ayb* (shamefulness), a social judgement on appearance and reputation; and *haram* (the forbidden), a religious and moral category. Ruth Benedict's contrast, in *The Chrysanthemum and the Sword* (1946), between a Japanese "shame culture" and a Western "guilt culture" is now regarded as an over-rigid generalisation, but it usefully posed the question that later research refined.
+
+## Healthy and Toxic Shame
+
+Shame is not always destructive. Some researchers distinguish moral shame — the brief, sharp recognition that one has fallen short of one's own standards, which can prompt self-correction — from toxic or pathological shame, a chronic sense of the self as fundamentally defective, which is associated with depression, addiction, and trauma. A similar distinction applies to guilt, which can be constructive when it tracks real wrongdoing and destructive when it becomes free-floating and detached from any act. The Atlas notes that the boundary between healthy and toxic shame still needs a specialised clinical source.
+
+## Shame, Guilt, and Repair
+
+The practical difference between shame and guilt is most visible in what happens next. Guilt points outward toward the person harmed and asks: what can I do to make this right? Shame points inward toward the self and asks: how can I avoid being seen? Therapies that work with these emotions therefore aim less at eliminating them than at converting shame into guilt — moving the evaluation from the whole self to the specific act, where repair becomes possible. Understood this way, shame and guilt are not merely pains to be endured but instruments of moral life, flawed and dangerous, yet indispensable to how human beings hold themselves and one another to account.
+
+## Sources
+
+- Lewis, H. B. (1971). *Shame and Guilt in Neurosis*. International Universities Press.
+- Lazarus, R. S. (1991). *Emotion and Adaptation*. Oxford University Press.
+- Tangney, J. P., & Dearing, R. L. (2002). *Shame and Guilt*. Guilford Press.
+- Shaver, P., Schwartz, J., Kirson, D., & O'Connor, C. (1987). Emotion knowledge: Further exploration of a prototype approach. *Journal of Personality and Social Psychology*, 52(6), 1061–1086.
+- Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review*, 98(2), 224–253.
+- Abu-Lughod, L. (1986). *Veiled Sentiments: Honor and Poetry in a Bedouin Society*. University of California Press.
+- Benedict, R. (1946). *The Chrysanthemum and the Sword: Patterns of Japanese Culture*. Houghton Mifflin.

@@ -2,6 +2,7 @@
 slug: "thk-mary-douglas"
 id: "THK-12790"
 type: "مفكر"
+part: anthropology
 level: "متقدم"
 title: "Mary Douglas: Purity, Danger, and Categorical Thought"
 en: "Mary Douglas"

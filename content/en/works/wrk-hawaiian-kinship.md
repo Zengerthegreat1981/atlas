@@ -2,6 +2,7 @@
 slug: "wrk-hawaiian-kinship"
 id: "ANT-13344"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "Kinship Systems of Polynesia"
 en: "Hawaiian Kinship Systems"

@@ -1,0 +1,55 @@
+---
+slug: "stu-turner-schism-continuity"
+id: "STU-1106"
+type: "عمل / كتاب"
+part: anthropology
+level: "متوسط"
+title: "Schism and Continuity in an African Society"
+en: "Schism and Continuity in an African Society"
+crumb: "Anthropology ← Works ← Schism and Continuity"
+dates: "1957 · Turner"
+edges:
+  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+related:
+  []
+gaps:
+  - "Social drama and processual anthropology"
+  - "Ndembu ritual and village fission"
+---
+
+# Schism and Continuity in an African Society
+
+*Schism and Continuity in an African Society* (1957) is Victor Turner's first book and the foundation of his processual anthropology. Based on fieldwork among the Ndembu of northwestern Zambia (then Northern Rhodesia) in the early 1950s, it studies how villages split apart — and how, through that splitting, Ndembu society holds together. Where earlier British structural-functionalism treated African societies as stable systems, Turner showed a society in perpetual motion, held in equilibrium by conflict itself.
+
+Turner arrived among the Ndembu as a student of Max Gluckman at the University of Manchester, part of the circle that would become known as the Manchester School. The Manchester anthropologists were dissatisfied with the static models of A. R. Radcliffe-Brown: they wanted to explain change, conflict, and the choices of real people. *Schism and Continuity* is the fullest early statement of that ambition, built from the close observation of one village's life over time.
+
+## Thesis and Structure
+
+The book's central puzzle is a structural contradiction in Ndembu social organisation. Ndembu descent is matrilineal, so a man's heirs are his sister's children, but residence is virilocal: a wife moves to her husband's village. A village headman therefore lives surrounded by his own children, who have no rights in his lineage, while his true heirs — his nephews — live elsewhere and owe loyalty to their own maternal villages. Every village contains the seeds of its own division, and every succession is a crisis waiting to happen.
+
+Turner traces this contradiction through the history of a single village, Mukanza, and the career of its headman, Sandombu. He follows quarrels over land, witchcraft accusations, adultery, and the struggle for succession as they accumulate, flare, and finally split the village apart. The split is not a failure of the system but its normal operation: fission relieves pressure, redistributes people across the landscape, and allows new villages to form that will themselves, in time, divide. Schism is the mechanism of continuity.
+
+The book's method is the extended case study, a Manchester School hallmark. Rather than presenting customs in the abstract, Turner narrates events as they unfolded, naming individuals, quoting their arguments, and following consequences across months and years. The reader watches Sandombu manoeuvre, fail, and manoeuvre again. The analysis earns its generality from this density: the principles of Ndembu social structure emerge from the story, not in place of it.
+
+## Social Drama and Ritual
+
+From these village histories Turner derived his most influential concept, the social drama. A social drama unfolds in four phases: breach of a norm, mounting crisis, redressive action, and either reintegration or schism. The model began here, in the quarrels of Mukanza village, and Turner would develop it across his later work into a general theory of social process, applied to everything from Icelandic sagas to modern theatre.
+
+Ritual plays a central role in the book's account of redress. Turner's analysis of the *Isoma* ritual — performed for women suffering infertility — shows ritual as a social mechanism for diagnosing and treating conflict: the ritual gathers the afflicted woman's kin, exposes hidden grudges, and forces public reconciliation. Ritual is not a static expression of structure but a process in which structure is worked out, contested, and sometimes remade. This insight would lead directly to *The Ritual Process* (1969) and to Turner's concepts of liminality and communitas.
+
+## Reception and Influence
+
+*Schism and Continuity* was recognised immediately as a major contribution, though its dense ethnography made it demanding reading. It established Turner as the leading figure of processual anthropology and provided the empirical foundation for a generation of work on conflict, ritual, and social change. Its influence extended beyond anthropology: the social drama model was taken up in sociology, history, theatre studies, and performance studies, and Turner's later collaboration with the theatre director Richard Schechner grew directly from the ideas first worked out among the Ndembu.
+
+Critics have noted the book's limits. Its focus on male headmen and village politics gives women's perspectives less space, and its village-centred frame says little about the colonial state, the copper mines, and the labour migration that shaped Ndembu life in the 1950s. Later scholarship has also questioned whether the fission model applies as neatly to other matrilineal societies. But the book's core achievement stands: it showed that social structure is not a thing societies have but a process they do, and that the anthropologist's task is to follow that process as it happens, quarrel by quarrel and ritual by ritual.
+
+## Sources
+
+- Turner, Victor W. *Schism and Continuity in an African Society: A Study of Ndembu Village Life*. Manchester University Press, 1957.
+- Turner, Victor W. *The Ritual Process: Structure and Anti-Structure*. Aldine Publishing, 1969.
+- Gluckman, Max. *Custom and Conflict in Africa*. Basil Blackwell, 1955.
+- Turner, Victor W. *The Forest of Symbols: Aspects of Ndembu Ritual*. Cornell University Press, 1967.
+- Evens, T. M. S., and Don Handelman, eds. *The Manchester School: Practice and Ethnographic Praxis in Anthropology*. Berghahn Books, 2006.
+- Werbner, Richard P. "The Manchester School in South-Central Africa." *Annual Review of Anthropology*, 1984.
+- Schechner, Richard. *Performance Theory*. Routledge, 1988.
+- Deflem, Mathieu. "Ritual, Anti-Structure, and Religion: A Discussion of Victor Turner's Processual Symbolic Analysis." *Journal for the Scientific Study of Religion*, 1991.

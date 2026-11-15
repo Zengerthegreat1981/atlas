@@ -2,12 +2,13 @@
 slug: "con-anxiety"
 id: "CON-0406"
 type: "مفهوم"
+part: psychology
 level: "مبتدئ"
 title: "Anxiety"
 en: "Anxiety"
 crumb: "Existential Psychotherapy ← Concepts ← Anxiety"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-death", title: "Death", type: "مفهوم"
   - id: "thk-may", title: "Rollo May", type: "مفكر"

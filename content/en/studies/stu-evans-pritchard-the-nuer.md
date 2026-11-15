@@ -2,6 +2,7 @@
 slug: "stu-evans-pritchard-the-nuer"
 id: "STU-1103"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People"
 en: "The Nuer"

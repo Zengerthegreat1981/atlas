@@ -6,15 +6,15 @@ part: sociology
 level: متوسط
 title: The Sociological Condition
 en: The Sociological Condition
-crumb: علم الاجتماع ← The Sociological Condition
+crumb: "Sociology ← The Sociological Condition"
 dates: Sociology editors
 active_start: 1900
 active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed empirical case studies pending
-- Cross-disciplinary applications pending
+- Detailed empirical case studies: not yet covered
+- Cross-disciplinary applications: not yet covered
 ---
 # The Sociological Condition
 

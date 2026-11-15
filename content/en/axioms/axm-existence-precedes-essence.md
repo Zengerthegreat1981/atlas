@@ -2,12 +2,13 @@
 slug: "axm-existence-precedes-essence"
 id: "AXM-0001"
 type: "بديهية/مبدأ تأسيسي"
+part: philosophy
 level: "متوسط"
 title: "Existence Precedes Essence"
 en: "Existence Precedes Essence"
 crumb: "Existentialist School ← Axioms ← Existence Precedes Essence"
 edges:
-  - rel: "relates_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
   - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"

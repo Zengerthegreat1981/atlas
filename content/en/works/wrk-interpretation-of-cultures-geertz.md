@@ -2,6 +2,7 @@
 slug: "wrk-interpretation-of-cultures-geertz"
 id: "WRK-2113"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "The Interpretation of Cultures: Selected Essays"
 en: "The Interpretation of Cultures"

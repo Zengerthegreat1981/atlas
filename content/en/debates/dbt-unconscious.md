@@ -2,45 +2,47 @@
 slug: "dbt-unconscious"
 id: "DBT-0302"
 type: "جدل"
+part: philosophy
 level: ""
-title: "[EN TRANSLATION NEEDED]"
+title: "The Unconscious Question"
 en: "The unconscious question"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential School ← Debates ← The Unconscious Question"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
 related:
-  - id: "br-daseins", title: "التحليل الوجودي", type: "تيار"
-  - id: "rel-psychoanalysis", title: "التحليل النفسي", type: "علاقة"
+  - id: "br-daseins", title: "Daseinsanalysis", type: "تيار"
+  - id: "rel-psychoanalysis", title: "Psychoanalysis", type: "علاقة"
 gaps:[]
 ---
 
-# [EN TRANSLATION NEEDED]
+# The Unconscious Question
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Is there an unconscious? The dispute looks theoretical, but its practical effect is direct in every session. The question divides existential therapy from psychoanalysis at the root: whether human beings harbour hidden mental contents that drive their behaviour, or whether everything relevant is present in awareness, including the ways people avoid knowing what they know. The rejection of the unconscious was one of existential philosophy's sharpest breaks with Freud, and the debate over whether that rejection can be sustained has shaped the relationship between the two traditions ever since.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## The Position of Rejection
 
-# هل يوجد لاوعي؟
+Jean-Paul Sartre argued in *Being and Nothingness* (1943) that consciousness is transparent to itself: nothing is hidden from me. What looks like repression is *mauvaise foi*, bad faith — I know, and I avoid knowing that I know. The move is logical as well as descriptive: an unconscious that "knows" something and hides it from the same person is, for Sartre, a contradiction. Medard Boss went further in *Psychoanalysis and Daseinsanalysis* (1957; English translation, 1963): the unconscious is a theoretical construction that is never given in experience, and nothing we observe requires it. For Boss, what psychoanalysis calls unconscious material is better described as aspects of a person's being-in-the-world that have been closed off or left unarticulated — a description of openness and its narrowing, not a hidden storehouse. Ludwig Binswanger, in *Basic Forms and the Knowledge of Human Existence* (1942), likewise built his analysis of patients' worlds without a dynamic unconscious, treating disturbed existence as a constriction of the possible worlds a person can inhabit.
 
-خصومة تبدو نظرية وأثرها العملي مباشر في كل جلسة.
+## The Modified Acceptance
 
-## موقف الرفض
+Contemporary currents inside existential therapy itself, and on its borders with psychoanalysis, argue that wholesale rejection of the unconscious leaves real phenomena unexplained: recurring patterns the client genuinely cannot see, dreams that disclose what waking reflection does not, defences that operate before any choice is made. The middle formulations propose that what is "unconscious" is not a cellar full of repressed contents but what has not yet been articulated, or what is implicit in a way of being rather than stored in a vault. This preserves the existential emphasis on lived experience while allowing the therapist to work with what the client does not yet know. It also brings existential practice closer to psychoanalysis, making it easier to teach to those who come from an analytic background, and easier to defend against the charge that it ignores the most stubborn features of human suffering.
 
-سارتر: لا شيء مخفيّ عني. الوعي شفاف لنفسه، وما يبدو كبتاً هو <b>سوء نية</b> — أي أني أعرف وأتجنّب أن أعرف أني أعرف. وبوس: اللاوعي بناء نظري لا يُعطى في الخبرة، ولا حاجة إليه لتفسير ما نراه.
+## The Practical Effect
 
-## موقف القبول المعدَّل
+The two positions produce entirely different rooms. A therapist who rejects the unconscious works on what the client is avoiding now, and on the client's responsibility for that avoidance: the language is that of choice, evasion, and bad faith, and the work is direct, present, and confrontational. A therapist who accepts the unconscious works on what the client does not know in the first place and on what emerges over time: dreams, free association, and recurring patterns become central, and the therapist's interpretations carry a weight the first model refuses. The difference also decides training: whether a trainee needs instruction in dream analysis and free association at all, or whether skills of presence and direct encounter are enough.
 
-تيارات معاصرة ترى أن رفض اللاوعي يترك بلا تفسير ظواهر حقيقية، وتقترح صيغاً وسطى: ما ليس مصاغاً بعد، أو ما هو ضمني في طريقة الوجود لا مخزون في قبو.
+## The Danger on Both Sides
 
-## الأثر العملي
+Each position carries its own risk, and the debate survives because both risks are real. Refusing the unconscious can slide into blaming the client for what they do not control, treating a genuine blind spot as a wilful evasion. Accepting it can slide into removing the client's responsibility for what they do control, treating every choice as the product of forces beneath awareness. The contemporary status is a tense coexistence: the strict Sartrean rejection remains the school's philosophical signature, while in practice many existential therapists work with a softened, phenomenological version of the unconscious — the unformulated rather than the repressed — and the boundary between that and psychoanalysis remains the most porous in the tradition.
 
-من يرفض اللاوعي يشتغل على ما يتجنّبه العميل الآن وعلى مسؤوليته عن التجنّب. ومن يقبله يشتغل على ما لا يعرفه العميل أصلاً وعلى ما ينكشف مع الوقت. اللغة في الغرفة تختلف تماماً.
+The debate also colours the school's view of its own history. Existential therapy defined itself against psychoanalysis partly by rejecting the unconscious, and the rejection became part of its identity — a badge of philosophical seriousness. That makes the middle position psychologically difficult inside the school: to accept even a softened unconscious feels like a concession to the tradition it broke from. Yet the break was never clean. Binswanger himself had been a psychoanalyst, Boss trained in Freudian analysis, and the early existential therapists knew Freud's texts intimately. The unconscious debate is therefore also a debate about the school's origins: whether its founding gesture of refusal should be preserved as doctrine or treated as a historical moment that the school has outgrown.
 
-## الخطر في الطرفين
+## Sources
 
-رفض اللاوعي قد ينزلق إلى تحميل العميل مسؤولية ما لا يملك. وقبوله قد ينزلق إلى نزع مسؤوليته عمّا يملك.
-
-## الأثر العملي لو رجّحت أحد الطرفين
-
-<b>لو رفضت وجود اللاوعي (سارتر، سوء النية):</b> تعمل كلياً على الوعي الحاضر وما يتجنبه العميل الآن أمامك، بمساءلة مباشرة لسوء النية واختياراته الراهنة، دون تأويل رموز أو أحلام أو تاريخ طفولة. أسرع وأكثر مباشرة، لكنه يُهمل أنماطاً متكررة قد تكون فعلاً خارج انتباه العميل الواعي بأي معنى مفيد إكلينيكياً.<br><b>لو قبلت اللاوعي (بوس والتيار المتصالح مع فرويد):</b> تُدمج تحليل الأحلام والأنماط المتكررة والدفاعات في العمل، وتصير المدرسة أقرب توافقاً مع التحليل النفسي التقليدي وأسهل تعليماً لمن أتى من خلفية تحليلية. الخطر: فقدان الحدّة الفلسفية الأصلية لسارتر التي رفضت اللاوعي أساساً بوصفه تناقضاً منطقياً (كيف "يعرف" اللاوعي شيئاً ويخفيه عن نفس الشخص في آن؟).<br><b>الأثر على التدريب:</b> هذا يحدد ما إذا كان المتدرب يحتاج تدريباً في تحليل الأحلام والتداعي الحر أصلاً، أو يكتفي بمهارات الحضور والمواجهة المباشرة.
--->
+- Ludwig Binswanger, *Grundformen und Erkenntnis menschlichen Daseins*, 1942.
+- Jean-Paul Sartre, *Being and Nothingness*, 1943.
+- Medard Boss, *Psychoanalysis and Daseinsanalysis*, 1963 (German original, 1957).
+- Sigmund Freud, *The Interpretation of Dreams*, 1900.
+- Martin Heidegger, *Being and Time*, 1927.
+- Ernesto Spinelli, *Practising Existential Psychotherapy: The Relational World*, 2007.
+- Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, 1988; 3rd ed., 2012.

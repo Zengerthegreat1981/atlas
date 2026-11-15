@@ -2,13 +2,14 @@
 slug: "thk-straus"
 id: "THK-0318"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "Erwin Straus"
 en: "Erwin Straus"
 crumb: "Existentialist School ← People ← Erwin Straus"
-dates: "ألمانيا/أمريكا · 1891–1975"
+dates: "Germany/America · 1891–1975"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-binswanger", title: "Ludwig Binswanger", type: "مفكر"
   - id: "thk-minkowski", title: "Eugene Minkowski", type: "مفكر"

@@ -2,12 +2,13 @@
 slug: "con-aging"
 id: "CON-0419"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Aging"
 en: "Aging"
 crumb: "Aging"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-mortality", title: "Mortality", type: "مفهوم"
   - id: "con-death", title: "Death", type: "مفهوم"

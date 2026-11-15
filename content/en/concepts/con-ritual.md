@@ -2,6 +2,7 @@
 slug: "con-ritual"
 id: "ANT-13020"
 type: "مفهوم"
+part: anthropology
 level: "متوسط"
 title: "Ritual: Structured Action and Social Meaning"
 en: "Ritual"

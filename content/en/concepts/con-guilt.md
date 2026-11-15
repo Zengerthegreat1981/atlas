@@ -2,12 +2,13 @@
 slug: "con-guilt"
 id: "CON-0408"
 type: "مفهوم"
+part: philosophy
 level: "متوسط"
 title: "Guilt"
 en: "Guilt"
 crumb: "Existential Philosophy ← Concepts ← Guilt"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
   - id: "thk-may", title: "Rollo May", type: "مفكر"

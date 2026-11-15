@@ -1,17 +1,17 @@
 slug,id,type,module,module_source,status,flags,words,file
-axm-existence-precedes-essence,AXM-0001,بديهية/مبدأ تأسيسي,unclassified,none,review-candidate,part-not-explicit,300,content/en/axioms/axm-existence-precedes-essence.md
+axm-existence-precedes-essence,AXM-0001,بديهية/مبدأ تأسيسي,philosophy,explicit,review-candidate,,300,content/en/axioms/axm-existence-precedes-essence.md
 br-aging-gerontology,SOC-14430,تيار,sociology,explicit,review-candidate,,1016,content/en/branches/br-aging-gerontology.md
 br-american-pragmatist-sociology,SOC-14400,تيار,sociology,explicit,review-candidate,,1024,content/en/branches/br-american-pragmatist-sociology.md
 br-black-feminist-thought,SOC-14405,تيار,sociology,explicit,review-candidate,,994,content/en/branches/br-black-feminist-thought.md
-br-body-sociology,SOC-14440,تيار,sociology,explicit,draft-pending,pending,900,content/en/branches/br-body-sociology.md
-br-british,BRN-0104,تيار,unclassified,none,review-candidate,part-not-explicit,845,content/en/branches/br-british.md
+br-body-sociology,SOC-14440,تيار,sociology,explicit,review-candidate,,900,content/en/branches/br-body-sociology.md
+br-british,BRN-0104,تيار,psychology,explicit,review-candidate,,845,content/en/branches/br-british.md
 br-comparative-historical-sociology,SOC-14408,تيار,sociology,explicit,review-candidate,,1031,content/en/branches/br-comparative-historical-sociology.md
 br-consumption-sociology,SOC-14446,تيار,sociology,explicit,review-candidate,,985,content/en/branches/br-consumption-sociology.md
 br-criminal-sociology,SOC-14422,تيار,sociology,explicit,review-candidate,,986,content/en/branches/br-criminal-sociology.md
-br-criminology,SOC-14423,تيار,sociology,explicit,draft-pending,pending,953,content/en/branches/br-criminology.md
+br-criminology,SOC-14423,تيار,sociology,explicit,review-candidate,,953,content/en/branches/br-criminology.md
 br-critical-spatial-sociology,SOC-14449,تيار,sociology,explicit,review-candidate,,987,content/en/branches/br-critical-spatial-sociology.md
 br-cyber-sociology,SOC-14439,تيار,sociology,explicit,review-candidate,,994,content/en/branches/br-cyber-sociology.md
-br-daseins,BRN-0101,تيار,unclassified,none,review-candidate,part-not-explicit,983,content/en/branches/br-daseins.md
+br-daseins,BRN-0101,تيار,philosophy,explicit,review-candidate,,983,content/en/branches/br-daseins.md
 br-digital-sociology,SOC-14438,تيار,sociology,explicit,review-candidate,,1001,content/en/branches/br-digital-sociology.md
 br-disaster-sociology,SOC-14444,تيار,sociology,explicit,review-candidate,,1040,content/en/branches/br-disaster-sociology.md
 br-economic-sociology,SOC-14413,تيار,sociology,explicit,review-candidate,,1039,content/en/branches/br-economic-sociology.md
@@ -21,10 +21,10 @@ br-evolutionary-sociology,SOC-14450,تيار,sociology,explicit,review-candidate
 br-feminist-sociology,SOC-14404,تيار,sociology,explicit,review-candidate,,1017,content/en/branches/br-feminist-sociology.md
 br-global-south-sociology,SOC-14407,تيار,sociology,explicit,review-candidate,,1033,content/en/branches/br-global-south-sociology.md
 br-goffmanian-microsociology,SOC-14454,تيار,sociology,explicit,review-candidate,,1031,content/en/branches/br-goffmanian-microsociology.md
-br-humanistic,BRN-0103,تيار,unclassified,none,review-candidate,part-not-explicit,890,content/en/branches/br-humanistic.md
+br-humanistic,BRN-0103,تيار,psychology,explicit,review-candidate,,890,content/en/branches/br-humanistic.md
 br-institutional-sociology,SOC-14452,تيار,sociology,explicit,review-candidate,,1072,content/en/branches/br-institutional-sociology.md
 br-leisure-sociology,SOC-14447,تيار,sociology,explicit,review-candidate,,1037,content/en/branches/br-leisure-sociology.md
-br-logotherapy,BRN-0102,تيار,unclassified,none,review-candidate,part-not-explicit,904,content/en/branches/br-logotherapy.md
+br-logotherapy,BRN-0102,تيار,psychology,explicit,review-candidate,,904,content/en/branches/br-logotherapy.md
 br-media-sociology,SOC-14437,تيار,sociology,explicit,review-candidate,,954,content/en/branches/br-media-sociology.md
 br-medical-sociology,SOC-14420,تيار,sociology,explicit,review-candidate,,1043,content/en/branches/br-medical-sociology.md
 br-migration-diaspora,SOC-14442,تيار,sociology,explicit,review-candidate,,1034,content/en/branches/br-migration-diaspora.md
@@ -32,14 +32,14 @@ br-military-sociology,SOC-14415,تيار,sociology,explicit,review-candidate,,10
 br-network-sociology,SOC-14453,تيار,sociology,explicit,review-candidate,,953,content/en/branches/br-network-sociology.md
 br-organizational-sociology,SOC-14414,تيار,sociology,explicit,review-candidate,,987,content/en/branches/br-organizational-sociology.md
 br-phenomenological-sociology,SOC-14403,تيار,sociology,explicit,review-candidate,,1027,content/en/branches/br-phenomenological-sociology.md
-br-political-anthropology-subfield,BRN-1126,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1000,content/en/branches/br-political-anthropology-subfield.md
+br-political-anthropology-subfield,BRN-1126,مدرسة,anthropology,explicit,review-candidate,,1000,content/en/branches/br-political-anthropology-subfield.md
 br-political-sociology,SOC-14412,تيار,sociology,explicit,review-candidate,,1044,content/en/branches/br-political-sociology.md
 br-popular-culture-studies,SOC-14436,تيار,sociology,explicit,review-candidate,,965,content/en/branches/br-popular-culture-studies.md
 br-postcolonial-sociology,SOC-14406,تيار,sociology,explicit,review-candidate,,906,content/en/branches/br-postcolonial-sociology.md
 br-public-sociology,SOC-14456,تيار,sociology,explicit,review-candidate,,1023,content/en/branches/br-public-sociology.md
 br-rational-choice-sociology,SOC-14451,تيار,sociology,explicit,review-candidate,,1001,content/en/branches/br-rational-choice-sociology.md
-br-refugee-studies,SOC-14443,تيار,sociology,explicit,draft-pending,pending,950,content/en/branches/br-refugee-studies.md
-br-risk-sociology,SOC-14445,تيار,sociology,explicit,draft-pending,pending,882,content/en/branches/br-risk-sociology.md
+br-refugee-studies,SOC-14443,تيار,sociology,explicit,review-candidate,,950,content/en/branches/br-refugee-studies.md
+br-risk-sociology,SOC-14445,تيار,sociology,explicit,review-candidate,,882,content/en/branches/br-risk-sociology.md
 br-rural-sociology,SOC-14411,تيار,sociology,explicit,review-candidate,,978,content/en/branches/br-rural-sociology.md
 br-sexuality-studies,SOC-14429,تيار,sociology,explicit,review-candidate,,983,content/en/branches/br-sexuality-studies.md
 br-sociology-of-art,SOC-14434,تيار,sociology,explicit,draft-pending,pending,926,content/en/branches/br-sociology-of-art.md
@@ -54,385 +54,385 @@ br-sociology-of-literature,SOC-14435,تيار,sociology,explicit,review-candidat
 br-sociology-of-religion,SOC-14417,تيار,sociology,explicit,review-candidate,,1054,content/en/branches/br-sociology-of-religion.md
 br-sociology-of-science-knowledge,SOC-14418,تيار,sociology,explicit,review-candidate,,1027,content/en/branches/br-sociology-of-science-knowledge.md
 br-sociology-of-work,SOC-14432,تيار,sociology,explicit,review-candidate,,970,content/en/branches/br-sociology-of-work.md
-br-sports-sociology,SOC-14416,تيار,sociology,explicit,draft-pending,pending,880,content/en/branches/br-sports-sociology.md
+br-sports-sociology,SOC-14416,تيار,sociology,explicit,review-candidate,,880,content/en/branches/br-sports-sociology.md
 br-sustainability-sociology,SOC-14426,تيار,sociology,explicit,review-candidate,,998,content/en/branches/br-sustainability-sociology.md
 br-urban-revitalization,SOC-14448,تيار,sociology,explicit,review-candidate,,992,content/en/branches/br-urban-revitalization.md
 br-urban-sociology,SOC-14410,تيار,sociology,explicit,review-candidate,,1035,content/en/branches/br-urban-sociology.md
 br-visual-sociology,SOC-14455,تيار,sociology,explicit,review-candidate,,1030,content/en/branches/br-visual-sociology.md
 br-world-systems-sociology,SOC-14409,تيار,sociology,explicit,review-candidate,,1018,content/en/branches/br-world-systems-sociology.md
-br-youth-sociology,SOC-14431,تيار,sociology,explicit,draft-pending,pending,924,content/en/branches/br-youth-sociology.md
-con-absurd,CON-0416,مفهوم,unclassified,none,review-candidate,part-not-explicit,694,content/en/concepts/con-absurd.md
-con-adaptation,ANT-13023,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1074,content/en/concepts/con-adaptation.md
-con-adoption,ANT-13205,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,926,content/en/concepts/con-adoption.md
-con-aesthetics,ANT-13229,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,826,content/en/concepts/con-aesthetics.md
-con-age-grade,ANT-13160,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,873,content/en/concepts/con-age-grade.md
-con-age-set,ANT-13161,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,903,content/en/concepts/con-age-set.md
+br-youth-sociology,SOC-14431,تيار,sociology,explicit,review-candidate,,924,content/en/branches/br-youth-sociology.md
+con-absurd,CON-0416,مفهوم,philosophy,explicit,review-candidate,,694,content/en/concepts/con-absurd.md
+con-adaptation,ANT-13023,مفهوم,anthropology,explicit,review-candidate,,1074,content/en/concepts/con-adaptation.md
+con-adoption,ANT-13205,مفهوم,anthropology,explicit,review-candidate,,926,content/en/concepts/con-adoption.md
+con-aesthetics,ANT-13229,مفهوم,anthropology,explicit,review-candidate,,826,content/en/concepts/con-aesthetics.md
+con-age-grade,ANT-13160,مفهوم,anthropology,explicit,review-candidate,,873,content/en/concepts/con-age-grade.md
+con-age-set,ANT-13161,مفهوم,anthropology,explicit,review-candidate,,903,content/en/concepts/con-age-set.md
 con-agency-anthropology,CON-18153,مفهوم,sociology,explicit,draft-pending,pending,1051,content/en/concepts/con-agency-anthropology.md
-con-aging,CON-0419,مفهوم,unclassified,none,review-candidate,part-not-explicit,190,content/en/concepts/con-aging.md
+con-aging,CON-0419,مفهوم,psychology,explicit,review-candidate,,190,content/en/concepts/con-aging.md
 con-alienation,SOC-14218,مفهوم,sociology,explicit,draft-pending,pending,1051,content/en/concepts/con-alienation.md
-con-alliance,ANT-13123,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,763,content/en/concepts/con-alliance.md
-con-ancestor-worship,ANT-13166,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,861,content/en/concepts/con-ancestor-worship.md
-con-animism,ANT-13165,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,927,content/en/concepts/con-animism.md
+con-alliance,ANT-13123,مفهوم,anthropology,explicit,review-candidate,,763,content/en/concepts/con-alliance.md
+con-ancestor-worship,ANT-13166,مفهوم,anthropology,explicit,review-candidate,,861,content/en/concepts/con-ancestor-worship.md
+con-animism,ANT-13165,مفهوم,anthropology,explicit,review-candidate,,927,content/en/concepts/con-animism.md
 con-anomie,SOC-14227,مفهوم,sociology,explicit,draft-pending,pending,1049,content/en/concepts/con-anomie.md
-con-anxiety,CON-0406,مفهوم,unclassified,none,review-candidate,part-not-explicit,884,content/en/concepts/con-anxiety.md
-con-anxiety-existential,CON-0412,مفهوم,unclassified,none,review-candidate,part-not-explicit,1035,content/en/concepts/con-anxiety-existential.md
-con-architecture,ANT-13234,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,810,content/en/concepts/con-architecture.md
-con-aristocracy,ANT-13213,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,939,content/en/concepts/con-aristocracy.md
-con-assimilation,ANT-13315,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,910,content/en/concepts/con-assimilation.md
-con-authenticity,CON-0407,مفهوم,unclassified,none,review-candidate,part-not-explicit,1070,content/en/concepts/con-authenticity.md
-con-authenticity-inauthenticity,CON-0423,مفهوم,unclassified,none,review-candidate,part-not-explicit,236,content/en/concepts/con-authenticity-inauthenticity.md
+con-anxiety,CON-0406,مفهوم,psychology,explicit,review-candidate,,884,content/en/concepts/con-anxiety.md
+con-anxiety-existential,CON-0412,مفهوم,psychology,explicit,review-candidate,,1035,content/en/concepts/con-anxiety-existential.md
+con-architecture,ANT-13234,مفهوم,anthropology,explicit,review-candidate,,810,content/en/concepts/con-architecture.md
+con-aristocracy,ANT-13213,مفهوم,anthropology,explicit,review-candidate,,939,content/en/concepts/con-aristocracy.md
+con-assimilation,ANT-13315,مفهوم,anthropology,explicit,review-candidate,,910,content/en/concepts/con-assimilation.md
+con-authenticity,CON-0407,مفهوم,psychology,explicit,review-candidate,,1070,content/en/concepts/con-authenticity.md
+con-authenticity-inauthenticity,CON-0423,مفهوم,psychology,explicit,review-candidate,,236,content/en/concepts/con-authenticity-inauthenticity.md
 con-authority,SOC-14211,مفهوم,sociology,explicit,draft-pending,pending,1049,content/en/concepts/con-authority.md
-con-bad-faith,CON-0418,مفهوم,unclassified,none,review-candidate,part-not-explicit,1033,content/en/concepts/con-bad-faith.md
-con-barter,ANT-13181,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,944,content/en/concepts/con-barter.md
-con-barter-trade,ANT-13182,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,995,content/en/concepts/con-barter-trade.md
-con-being-becoming,CON-0426,مفهوم,unclassified,none,review-candidate,part-not-explicit,249,content/en/concepts/con-being-becoming.md
-con-being-toward-death,CON-0421,مفهوم,unclassified,none,draft-short,part-not-explicit;short,128,content/en/concepts/con-being-toward-death.md
-con-belief-system,ANT-13024,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,985,content/en/concepts/con-belief-system.md
+con-bad-faith,CON-0418,مفهوم,psychology,explicit,review-candidate,,1033,content/en/concepts/con-bad-faith.md
+con-barter,ANT-13181,مفهوم,anthropology,explicit,review-candidate,,944,content/en/concepts/con-barter.md
+con-barter-trade,ANT-13182,مفهوم,anthropology,explicit,review-candidate,,995,content/en/concepts/con-barter-trade.md
+con-being-becoming,CON-0426,مفهوم,psychology,explicit,review-candidate,,249,content/en/concepts/con-being-becoming.md
+con-being-toward-death,CON-0421,مفهوم,philosophy,explicit,draft-short,short,128,content/en/concepts/con-being-toward-death.md
+con-belief-system,ANT-13024,مفهوم,anthropology,explicit,review-candidate,,985,content/en/concepts/con-belief-system.md
 con-bias,SOC-14258,مفهوم,sociology,explicit,draft-pending,pending,1049,content/en/concepts/con-bias.md
-con-bilateral-kinship,CON-12641,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,826,content/en/concepts/con-bilateral-kinship.md
-con-blessing,ANT-13175,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,837,content/en/concepts/con-blessing.md
-con-brideprice,ANT-13200,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,881,content/en/concepts/con-brideprice.md
-con-brideservice,ANT-13201,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,928,content/en/concepts/con-brideservice.md
+con-bilateral-kinship,CON-12641,مفهوم,anthropology,explicit,review-candidate,,826,content/en/concepts/con-bilateral-kinship.md
+con-blessing,ANT-13175,مفهوم,anthropology,explicit,review-candidate,,837,content/en/concepts/con-blessing.md
+con-brideprice,ANT-13200,مفهوم,anthropology,explicit,review-candidate,,881,content/en/concepts/con-brideprice.md
+con-brideservice,ANT-13201,مفهوم,anthropology,explicit,review-candidate,,928,content/en/concepts/con-brideservice.md
 con-bureaucracy,SOC-14231,مفهوم,sociology,explicit,draft-pending,pending,1049,content/en/concepts/con-bureaucracy.md
 con-capital,SOC-14220,مفهوم,sociology,explicit,draft-pending,pending,1049,content/en/concepts/con-capital.md
 con-case-study,SOC-14269,مفهوم,sociology,explicit,draft-pending,pending,1052,content/en/concepts/con-case-study.md
 con-causation,SOC-14254,مفهوم,sociology,explicit,draft-pending,pending,1049,content/en/concepts/con-causation.md
-con-chiefdom,ANT-13209,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,937,content/en/concepts/con-chiefdom.md
-con-chieftaincy,ANT-13221,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,781,content/en/concepts/con-chieftaincy.md
-con-choice-constraint,CON-0425,مفهوم,unclassified,none,review-candidate,part-not-explicit,303,content/en/concepts/con-choice-constraint.md
-con-citizenship,ANT-13295,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,890,content/en/concepts/con-citizenship.md
-con-clan,ANT-13150,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,899,content/en/concepts/con-clan.md
+con-chiefdom,ANT-13209,مفهوم,anthropology,explicit,review-candidate,,937,content/en/concepts/con-chiefdom.md
+con-chieftaincy,ANT-13221,مفهوم,anthropology,explicit,review-candidate,,781,content/en/concepts/con-chieftaincy.md
+con-choice-constraint,CON-0425,مفهوم,psychology,explicit,review-candidate,,303,content/en/concepts/con-choice-constraint.md
+con-citizenship,ANT-13295,مفهوم,anthropology,explicit,review-candidate,,890,content/en/concepts/con-citizenship.md
+con-clan,ANT-13150,مفهوم,anthropology,explicit,review-candidate,,899,content/en/concepts/con-clan.md
 con-class,SOC-14208,مفهوم,sociology,explicit,draft-pending,pending,1049,content/en/concepts/con-class.md
-con-classification,ANT-13240,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1018,content/en/concepts/con-classification.md
-con-cognatic,ANT-13156,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,889,content/en/concepts/con-cognatic.md
-con-colonialism,ANT-13321,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,834,content/en/concepts/con-colonialism.md
-con-colonialism-psychology,ANT-13340,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,895,content/en/concepts/con-colonialism-psychology.md
-con-commodification,ANT-13108,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,981,content/en/concepts/con-commodification.md
-con-communitas,ANT-13098,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,983,content/en/concepts/con-communitas.md
+con-classification,ANT-13240,مفهوم,anthropology,explicit,review-candidate,,1018,content/en/concepts/con-classification.md
+con-cognatic,ANT-13156,مفهوم,anthropology,explicit,review-candidate,,889,content/en/concepts/con-cognatic.md
+con-colonialism,ANT-13321,مفهوم,anthropology,explicit,review-candidate,,834,content/en/concepts/con-colonialism.md
+con-colonialism-psychology,ANT-13340,مفهوم,anthropology,explicit,review-candidate,,895,content/en/concepts/con-colonialism-psychology.md
+con-commodification,ANT-13108,مفهوم,anthropology,explicit,review-candidate,,981,content/en/concepts/con-commodification.md
+con-communitas,ANT-13098,مفهوم,anthropology,explicit,review-candidate,,983,content/en/concepts/con-communitas.md
 con-community,SOC-14216,مفهوم,sociology,explicit,draft-pending,pending,1049,content/en/concepts/con-community.md
-con-comparative-method,SOC-14270,مفهوم,sociology,explicit,draft-pending,pending,863,content/en/concepts/con-comparative-method.md
-con-conflict,ANT-13124,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,773,content/en/concepts/con-conflict.md
-con-consensus,ANT-13219,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,824,content/en/concepts/con-consensus.md
-con-continuity-change,ANT-13147,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,787,content/en/concepts/con-continuity-change.md
+con-comparative-method,SOC-14270,مفهوم,sociology,explicit,review-candidate,,863,content/en/concepts/con-comparative-method.md
+con-conflict,ANT-13124,مفهوم,anthropology,explicit,review-candidate,,773,content/en/concepts/con-conflict.md
+con-consensus,ANT-13219,مفهوم,anthropology,explicit,review-candidate,,824,content/en/concepts/con-consensus.md
+con-continuity-change,ANT-13147,مفهوم,anthropology,explicit,review-candidate,,787,content/en/concepts/con-continuity-change.md
 con-correlation,SOC-14255,مفهوم,sociology,explicit,draft-pending,pending,901,content/en/concepts/con-correlation.md
-con-cosmology,ANT-13241,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,925,content/en/concepts/con-cosmology.md
-con-craft,ANT-13185,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,901,content/en/concepts/con-craft.md
-con-credit,ANT-13189,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,893,content/en/concepts/con-credit.md
-con-creolization,ANT-13311,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,873,content/en/concepts/con-creolization.md
-con-cultivation,ANT-13236,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1011,content/en/concepts/con-cultivation.md
-con-cultural-analysis,SOC-14279,مفهوم,sociology,explicit,draft-pending,pending,932,content/en/concepts/con-cultural-analysis.md
-con-cultural-capital,ANT-13290,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,941,content/en/concepts/con-cultural-capital.md
-con-cultural-heritage,ANT-13306,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,826,content/en/concepts/con-cultural-heritage.md
-con-cultural-imperialism,ANT-13303,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,843,content/en/concepts/con-cultural-imperialism.md
-con-cultural-pluralism,ANT-13313,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,877,content/en/concepts/con-cultural-pluralism.md
-con-cultural-preservation,ANT-13305,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,837,content/en/concepts/con-cultural-preservation.md
-con-cultural-relativism-boas,CON-3142,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1056,content/en/concepts/con-cultural-relativism-boas.md
-con-cultural-resistance,ANT-13304,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,836,content/en/concepts/con-cultural-resistance.md
+con-cosmology,ANT-13241,مفهوم,anthropology,explicit,review-candidate,,925,content/en/concepts/con-cosmology.md
+con-craft,ANT-13185,مفهوم,anthropology,explicit,review-candidate,,901,content/en/concepts/con-craft.md
+con-credit,ANT-13189,مفهوم,anthropology,explicit,review-candidate,,893,content/en/concepts/con-credit.md
+con-creolization,ANT-13311,مفهوم,anthropology,explicit,review-candidate,,873,content/en/concepts/con-creolization.md
+con-cultivation,ANT-13236,مفهوم,anthropology,explicit,review-candidate,,1011,content/en/concepts/con-cultivation.md
+con-cultural-analysis,SOC-14279,مفهوم,sociology,explicit,review-candidate,,932,content/en/concepts/con-cultural-analysis.md
+con-cultural-capital,ANT-13290,مفهوم,anthropology,explicit,review-candidate,,941,content/en/concepts/con-cultural-capital.md
+con-cultural-heritage,ANT-13306,مفهوم,anthropology,explicit,review-candidate,,826,content/en/concepts/con-cultural-heritage.md
+con-cultural-imperialism,ANT-13303,مفهوم,anthropology,explicit,review-candidate,,843,content/en/concepts/con-cultural-imperialism.md
+con-cultural-pluralism,ANT-13313,مفهوم,anthropology,explicit,review-candidate,,877,content/en/concepts/con-cultural-pluralism.md
+con-cultural-preservation,ANT-13305,مفهوم,anthropology,explicit,review-candidate,,837,content/en/concepts/con-cultural-preservation.md
+con-cultural-relativism-boas,CON-3142,مدرسة,anthropology,explicit,review-candidate,,1056,content/en/concepts/con-cultural-relativism-boas.md
+con-cultural-resistance,ANT-13304,مفهوم,anthropology,explicit,review-candidate,,836,content/en/concepts/con-cultural-resistance.md
 con-culture,SOC-14206,مفهوم,sociology,explicit,review-candidate,,964,content/en/concepts/con-culture.md
-con-culture-nature,ANT-13144,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,982,content/en/concepts/con-culture-nature.md
-con-currency,ANT-13183,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,901,content/en/concepts/con-currency.md
-con-curse,ANT-13174,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,937,content/en/concepts/con-curse.md
-con-custom,ANT-13128,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1011,content/en/concepts/con-custom.md
-con-dance,ANT-13223,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,754,content/en/concepts/con-dance.md
-con-death,CON-0401,مفهوم,unclassified,none,review-candidate,part-not-explicit,1410,content/en/concepts/con-death.md
-con-debt,ANT-13188,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,905,content/en/concepts/con-debt.md
-con-democracy,ANT-13214,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,833,content/en/concepts/con-democracy.md
-con-democracy-direct,ANT-13216,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,806,content/en/concepts/con-democracy-direct.md
-con-depression,CON-19073,مفهوم,unclassified,none,review-candidate,part-not-explicit,198,content/en/concepts/con-depression.md
-con-descent,ANT-13152,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,796,content/en/concepts/con-descent.md
-con-despair,CON-19064,مفهوم,unclassified,none,review-candidate,part-not-explicit,792,content/en/concepts/con-despair.md
+con-culture-nature,ANT-13144,مفهوم,anthropology,explicit,review-candidate,,982,content/en/concepts/con-culture-nature.md
+con-currency,ANT-13183,مفهوم,anthropology,explicit,review-candidate,,901,content/en/concepts/con-currency.md
+con-curse,ANT-13174,مفهوم,anthropology,explicit,review-candidate,,937,content/en/concepts/con-curse.md
+con-custom,ANT-13128,مفهوم,anthropology,explicit,review-candidate,,1011,content/en/concepts/con-custom.md
+con-dance,ANT-13223,مفهوم,anthropology,explicit,review-candidate,,754,content/en/concepts/con-dance.md
+con-death,CON-0401,مفهوم,philosophy,explicit,review-candidate,,1410,content/en/concepts/con-death.md
+con-debt,ANT-13188,مفهوم,anthropology,explicit,review-candidate,,905,content/en/concepts/con-debt.md
+con-democracy,ANT-13214,مفهوم,anthropology,explicit,review-candidate,,833,content/en/concepts/con-democracy.md
+con-democracy-direct,ANT-13216,مفهوم,anthropology,explicit,review-candidate,,806,content/en/concepts/con-democracy-direct.md
+con-depression,CON-19073,مفهوم,psychology,explicit,review-candidate,,198,content/en/concepts/con-depression.md
+con-descent,ANT-13152,مفهوم,anthropology,explicit,review-candidate,,796,content/en/concepts/con-descent.md
+con-despair,CON-19064,مفهوم,psychology,explicit,review-candidate,,792,content/en/concepts/con-despair.md
 con-deviance,SOC-14212,مفهوم,sociology,explicit,review-candidate,,917,content/en/concepts/con-deviance.md
-con-diaspora,ANT-13297,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,895,content/en/concepts/con-diaspora.md
-con-differentiation,SOC-14229,مفهوم,sociology,explicit,draft-pending,pending,766,content/en/concepts/con-differentiation.md
-con-disability-anthropology,CON-18128,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1058,content/en/concepts/con-disability-anthropology.md
-con-discourse-analysis,SOC-14278,مفهوم,sociology,explicit,draft-pending,pending,905,content/en/concepts/con-discourse-analysis.md
-con-discrimination,SOC-14242,مفهوم,sociology,explicit,draft-pending,pending,942,content/en/concepts/con-discrimination.md
-con-divination,ANT-13168,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,949,content/en/concepts/con-divination.md
-con-division-labor,ANT-13119,مفهوم,anthropology,crumb,placeholder,part-not-explicit;placeholder;short,31,content/en/concepts/con-division-labor.md
-con-divorce,ANT-13204,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1029,content/en/concepts/con-divorce.md
-con-domestication,ANT-13235,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,847,content/en/concepts/con-domestication.md
-con-dowry,ANT-13202,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1059,content/en/concepts/con-dowry.md
-con-econ-anthropology-6,CON-13006,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,921,content/en/concepts/con-econ-anthropology-6.md
-con-ecstasy,ANT-13178,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,946,content/en/concepts/con-ecstasy.md
-con-empirical-research,SOC-14251,مفهوم,sociology,explicit,draft-pending,pending,936,content/en/concepts/con-empirical-research.md
-con-endogamy,ANT-13195,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,905,content/en/concepts/con-endogamy.md
-con-epistemology,ANT-13243,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,943,content/en/concepts/con-epistemology.md
-con-equality,ANT-13118,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,979,content/en/concepts/con-equality.md
-con-ethnicity,ANT-13089,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,973,content/en/concepts/con-ethnicity.md
+con-diaspora,ANT-13297,مفهوم,anthropology,explicit,review-candidate,,895,content/en/concepts/con-diaspora.md
+con-differentiation,SOC-14229,مفهوم,sociology,explicit,review-candidate,,766,content/en/concepts/con-differentiation.md
+con-disability-anthropology,CON-18128,مدرسة,anthropology,explicit,review-candidate,,1058,content/en/concepts/con-disability-anthropology.md
+con-discourse-analysis,SOC-14278,مفهوم,sociology,explicit,review-candidate,,905,content/en/concepts/con-discourse-analysis.md
+con-discrimination,SOC-14242,مفهوم,sociology,explicit,review-candidate,,942,content/en/concepts/con-discrimination.md
+con-divination,ANT-13168,مفهوم,anthropology,explicit,review-candidate,,949,content/en/concepts/con-divination.md
+con-division-labor,ANT-13119,مفهوم,anthropology,explicit,placeholder,placeholder;short,31,content/en/concepts/con-division-labor.md
+con-divorce,ANT-13204,مفهوم,anthropology,explicit,review-candidate,,1029,content/en/concepts/con-divorce.md
+con-domestication,ANT-13235,مفهوم,anthropology,explicit,review-candidate,,847,content/en/concepts/con-domestication.md
+con-dowry,ANT-13202,مفهوم,anthropology,explicit,review-candidate,,1059,content/en/concepts/con-dowry.md
+con-econ-anthropology-6,CON-13006,مفهوم,anthropology,explicit,review-candidate,,921,content/en/concepts/con-econ-anthropology-6.md
+con-ecstasy,ANT-13178,مفهوم,anthropology,explicit,review-candidate,,946,content/en/concepts/con-ecstasy.md
+con-empirical-research,SOC-14251,مفهوم,sociology,explicit,review-candidate,,936,content/en/concepts/con-empirical-research.md
+con-endogamy,ANT-13195,مفهوم,anthropology,explicit,review-candidate,,905,content/en/concepts/con-endogamy.md
+con-epistemology,ANT-13243,مفهوم,anthropology,explicit,review-candidate,,943,content/en/concepts/con-epistemology.md
+con-equality,ANT-13118,مفهوم,anthropology,explicit,review-candidate,,979,content/en/concepts/con-equality.md
+con-ethnicity,ANT-13089,مفهوم,anthropology,explicit,review-candidate,,973,content/en/concepts/con-ethnicity.md
 con-ethnocentrism,SOC-14248,مفهوم,sociology,explicit,draft-pending,pending,822,content/en/concepts/con-ethnocentrism.md
-con-ethnography,SOC-14264,مفهوم,sociology,explicit,draft-pending,pending,946,content/en/concepts/con-ethnography.md
-con-exchange,ANT-13104,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,968,content/en/concepts/con-exchange.md
-con-existential-crises,CON-0431,مفهوم,unclassified,none,review-candidate,part-not-explicit,207,content/en/concepts/con-existential-crises.md
-con-existential-guilt-ontological,CON-0422,مفهوم,unclassified,none,draft-short,part-not-explicit;short,141,content/en/concepts/con-existential-guilt-ontological.md
-con-existential-vacuum,CON-0420,مفهوم,unclassified,none,review-candidate,part-not-explicit,1102,content/en/concepts/con-existential-vacuum.md
-con-exogamy,ANT-13196,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,862,content/en/concepts/con-exogamy.md
+con-ethnography,SOC-14264,مفهوم,sociology,explicit,review-candidate,,946,content/en/concepts/con-ethnography.md
+con-exchange,ANT-13104,مفهوم,anthropology,explicit,review-candidate,,968,content/en/concepts/con-exchange.md
+con-existential-crises,CON-0431,مفهوم,psychology,explicit,review-candidate,,207,content/en/concepts/con-existential-crises.md
+con-existential-guilt-ontological,CON-0422,مفهوم,psychology,explicit,draft-short,short,141,content/en/concepts/con-existential-guilt-ontological.md
+con-existential-vacuum,CON-0420,مفهوم,psychology,explicit,review-candidate,,1102,content/en/concepts/con-existential-vacuum.md
+con-exogamy,ANT-13196,مفهوم,anthropology,explicit,review-candidate,,862,content/en/concepts/con-exogamy.md
 con-experiment,SOC-14271,مفهوم,sociology,explicit,review-candidate,,843,content/en/concepts/con-experiment.md
-con-family,ANT-13149,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,881,content/en/concepts/con-family.md
-con-fear,CON-0411,مفهوم,unclassified,none,review-candidate,part-not-explicit,320,content/en/concepts/con-fear.md
+con-family,ANT-13149,مفهوم,anthropology,explicit,review-candidate,,881,content/en/concepts/con-family.md
+con-fear,CON-0411,مفهوم,psychology,explicit,review-candidate,,320,content/en/concepts/con-fear.md
 con-field,SOC-14221,مفهوم,sociology,explicit,review-candidate,,1027,content/en/concepts/con-field.md
-con-fishing,ANT-13238,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,948,content/en/concepts/con-fishing.md
-con-fostering,ANT-13206,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,868,content/en/concepts/con-fostering.md
-con-freedom,CON-0402,مفهوم,unclassified,none,review-candidate,part-not-explicit,1249,content/en/concepts/con-freedom.md
-con-fulfillment,CON-19074,مفهوم,unclassified,none,review-candidate,part-not-explicit,226,content/en/concepts/con-fulfillment.md
-con-functional-analysis,SOC-14281,مفهوم,sociology,explicit,draft-pending,pending,821,content/en/concepts/con-functional-analysis.md
+con-fishing,ANT-13238,مفهوم,anthropology,explicit,review-candidate,,948,content/en/concepts/con-fishing.md
+con-fostering,ANT-13206,مفهوم,anthropology,explicit,review-candidate,,868,content/en/concepts/con-fostering.md
+con-freedom,CON-0402,مفهوم,philosophy,explicit,review-candidate,,1249,content/en/concepts/con-freedom.md
+con-fulfillment,CON-19074,مفهوم,psychology,explicit,review-candidate,,226,content/en/concepts/con-fulfillment.md
+con-functional-analysis,SOC-14281,مفهوم,sociology,explicit,review-candidate,,821,content/en/concepts/con-functional-analysis.md
 con-generalization,SOC-14256,مفهوم,sociology,explicit,draft-pending,pending,801,content/en/concepts/con-generalization.md
-con-genocide,ANT-13320,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,940,content/en/concepts/con-genocide.md
-con-gift,ANT-13107,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,908,content/en/concepts/con-gift.md
-con-globalization,ANT-13300,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,854,content/en/concepts/con-globalization.md
-con-glocalization,ANT-13302,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,942,content/en/concepts/con-glocalization.md
-con-gossip,ANT-13113,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1018,content/en/concepts/con-gossip.md
-con-grief,CON-19069,مفهوم,unclassified,none,review-candidate,part-not-explicit,479,content/en/concepts/con-grief.md
+con-genocide,ANT-13320,مفهوم,anthropology,explicit,review-candidate,,940,content/en/concepts/con-genocide.md
+con-gift,ANT-13107,مفهوم,anthropology,explicit,review-candidate,,908,content/en/concepts/con-gift.md
+con-globalization,ANT-13300,مفهوم,anthropology,explicit,review-candidate,,854,content/en/concepts/con-globalization.md
+con-glocalization,ANT-13302,مفهوم,anthropology,explicit,review-candidate,,942,content/en/concepts/con-glocalization.md
+con-gossip,ANT-13113,مفهوم,anthropology,explicit,review-candidate,,1018,content/en/concepts/con-gossip.md
+con-grief,CON-19069,مفهوم,psychology,explicit,review-candidate,,479,content/en/concepts/con-grief.md
 con-group,SOC-14214,مفهوم,sociology,explicit,review-candidate,,856,content/en/concepts/con-group.md
-con-guilt,CON-0408,مفهوم,unclassified,none,review-candidate,part-not-explicit,965,content/en/concepts/con-guilt.md
+con-guilt,CON-0408,مفهوم,philosophy,explicit,review-candidate,,965,content/en/concepts/con-guilt.md
 con-habitus-anthropology,CON-18152,مفهوم,sociology,explicit,draft-pending,pending,875,content/en/concepts/con-habitus-anthropology.md
-con-healing,ANT-13179,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,979,content/en/concepts/con-healing.md
-con-hegemony,ANT-13324,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1005,content/en/concepts/con-hegemony.md
-con-herbalism,ANT-13180,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,902,content/en/concepts/con-herbalism.md
-con-herding,ANT-13239,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,906,content/en/concepts/con-herding.md
-con-heritage,ANT-13336,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,867,content/en/concepts/con-heritage.md
+con-healing,ANT-13179,مفهوم,anthropology,explicit,review-candidate,,979,content/en/concepts/con-healing.md
+con-hegemony,ANT-13324,مفهوم,anthropology,explicit,review-candidate,,1005,content/en/concepts/con-hegemony.md
+con-herbalism,ANT-13180,مفهوم,anthropology,explicit,review-candidate,,902,content/en/concepts/con-herbalism.md
+con-herding,ANT-13239,مفهوم,anthropology,explicit,review-candidate,,906,content/en/concepts/con-herding.md
+con-heritage,ANT-13336,مفهوم,anthropology,explicit,review-candidate,,867,content/en/concepts/con-heritage.md
 con-hermeneutics,SOC-14284,مفهوم,sociology,explicit,draft-pending,pending,949,content/en/concepts/con-hermeneutics.md
-con-hierarchy,ANT-13117,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1026,content/en/concepts/con-hierarchy.md
-con-historical-analysis,SOC-14282,مفهوم,sociology,explicit,draft-pending,pending,930,content/en/concepts/con-historical-analysis.md
-con-history-collective,ANT-13247,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,949,content/en/concepts/con-history-collective.md
-con-homeland,ANT-13298,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,869,content/en/concepts/con-homeland.md
-con-homogeneous-heterogeneous,ANT-13146,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1019,content/en/concepts/con-homogeneous-heterogeneous.md
-con-honor,ANT-13111,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1006,content/en/concepts/con-honor.md
-con-hope,CON-19070,مفهوم,unclassified,none,review-candidate,part-not-explicit,482,content/en/concepts/con-hope.md
-con-hunting,ANT-13237,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,811,content/en/concepts/con-hunting.md
-con-hybridity,ANT-13310,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,855,content/en/concepts/con-hybridity.md
+con-hierarchy,ANT-13117,مفهوم,anthropology,explicit,review-candidate,,1026,content/en/concepts/con-hierarchy.md
+con-historical-analysis,SOC-14282,مفهوم,sociology,explicit,review-candidate,,930,content/en/concepts/con-historical-analysis.md
+con-history-collective,ANT-13247,مفهوم,anthropology,explicit,review-candidate,,949,content/en/concepts/con-history-collective.md
+con-homeland,ANT-13298,مفهوم,anthropology,explicit,review-candidate,,869,content/en/concepts/con-homeland.md
+con-homogeneous-heterogeneous,ANT-13146,مفهوم,anthropology,explicit,review-candidate,,1019,content/en/concepts/con-homogeneous-heterogeneous.md
+con-honor,ANT-13111,مفهوم,anthropology,explicit,review-candidate,,1006,content/en/concepts/con-honor.md
+con-hope,CON-19070,مفهوم,psychology,explicit,review-candidate,,482,content/en/concepts/con-hope.md
+con-hunting,ANT-13237,مفهوم,anthropology,explicit,review-candidate,,811,content/en/concepts/con-hunting.md
+con-hybridity,ANT-13310,مفهوم,anthropology,explicit,review-candidate,,855,content/en/concepts/con-hybridity.md
 con-hypothesis,SOC-14252,مفهوم,sociology,explicit,review-candidate,,957,content/en/concepts/con-hypothesis.md
-con-identity-construction,ANT-13307,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,946,content/en/concepts/con-identity-construction.md
-con-identity-politics,ANT-13308,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,792,content/en/concepts/con-identity-politics.md
-con-ideology,SOC-14207,مفهوم,sociology,explicit,draft-pending,pending,837,content/en/concepts/con-ideology.md
-con-imperialism,ANT-13322,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,893,content/en/concepts/con-imperialism.md
-con-in-group,SOC-14238,مفهوم,sociology,explicit,draft-pending,pending,941,content/en/concepts/con-in-group.md
-con-individuation,CON-0429,مفهوم,unclassified,none,review-candidate,part-not-explicit,216,content/en/concepts/con-individuation.md
-con-inequality,SOC-14243,مفهوم,sociology,explicit,draft-pending,pending,929,content/en/concepts/con-inequality.md
-con-inheritance,ANT-13121,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,997,content/en/concepts/con-inheritance.md
-con-inheritance-property,ANT-13191,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,928,content/en/concepts/con-inheritance-property.md
+con-identity-construction,ANT-13307,مفهوم,anthropology,explicit,review-candidate,,946,content/en/concepts/con-identity-construction.md
+con-identity-politics,ANT-13308,مفهوم,anthropology,explicit,review-candidate,,792,content/en/concepts/con-identity-politics.md
+con-ideology,SOC-14207,مفهوم,sociology,explicit,review-candidate,,837,content/en/concepts/con-ideology.md
+con-imperialism,ANT-13322,مفهوم,anthropology,explicit,review-candidate,,893,content/en/concepts/con-imperialism.md
+con-in-group,SOC-14238,مفهوم,sociology,explicit,review-candidate,,941,content/en/concepts/con-in-group.md
+con-individuation,CON-0429,مفهوم,psychology,explicit,review-candidate,,216,content/en/concepts/con-individuation.md
+con-inequality,SOC-14243,مفهوم,sociology,explicit,review-candidate,,929,content/en/concepts/con-inequality.md
+con-inheritance,ANT-13121,مفهوم,anthropology,explicit,review-candidate,,997,content/en/concepts/con-inheritance.md
+con-inheritance-property,ANT-13191,مفهوم,anthropology,explicit,review-candidate,,928,content/en/concepts/con-inheritance-property.md
 con-institution,SOC-14201,مفهوم,sociology,explicit,draft-pending,pending,940,content/en/concepts/con-institution.md
-con-integration,ANT-13316,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1008,content/en/concepts/con-integration.md
-con-intersectionality,SOC-14244,مفهوم,sociology,explicit,draft-pending,pending,881,content/en/concepts/con-intersectionality.md
+con-integration,ANT-13316,مفهوم,anthropology,explicit,review-candidate,,1008,content/en/concepts/con-integration.md
+con-intersectionality,SOC-14244,مفهوم,sociology,explicit,review-candidate,,881,content/en/concepts/con-intersectionality.md
 con-interview,SOC-14261,مفهوم,sociology,explicit,review-candidate,,985,content/en/concepts/con-interview.md
-con-isolation,CON-0404,مفهوم,unclassified,none,review-candidate,part-not-explicit,1058,content/en/concepts/con-isolation.md
-con-jealousy-envy,CON-0415,مفهوم,unclassified,none,review-candidate,part-not-explicit,1093,content/en/concepts/con-jealousy-envy.md
-con-justice,ANT-13126,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,754,content/en/concepts/con-justice.md
-con-kinship,ANT-13019,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,983,content/en/concepts/con-kinship.md
-con-knowledge-systems,ANT-13245,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,936,content/en/concepts/con-knowledge-systems.md
-con-labor-division,ANT-13184,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,785,content/en/concepts/con-labor-division.md
-con-land-tenure,ANT-13192,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,812,content/en/concepts/con-land-tenure.md
-con-law,ANT-13127,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,815,content/en/concepts/con-law.md
-con-leadership,ANT-13220,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,930,content/en/concepts/con-leadership.md
-con-legitimacy,SOC-14232,مفهوم,sociology,explicit,draft-pending,pending,875,content/en/concepts/con-legitimacy.md
-con-levirate,ANT-13207,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,935,content/en/concepts/con-levirate.md
-con-liberation,ANT-13326,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,898,content/en/concepts/con-liberation.md
-con-liminality,ANT-13097,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,925,content/en/concepts/con-liminality.md
-con-lineage,ANT-13151,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,894,content/en/concepts/con-lineage.md
-con-localization,ANT-13301,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,854,content/en/concepts/con-localization.md
-con-love,CON-19066,مفهوم,unclassified,none,review-candidate,part-not-explicit,568,content/en/concepts/con-love.md
-con-magic,ANT-13170,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,799,content/en/concepts/con-magic.md
-con-mana,ANT-13109,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,900,content/en/concepts/con-mana.md
-con-marriage-rules,ANT-13194,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,881,content/en/concepts/con-marriage-rules.md
-con-matrilineal,ANT-13155,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,923,content/en/concepts/con-matrilineal.md
-con-matrimonial,ANT-13153,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,934,content/en/concepts/con-matrimonial.md
-con-meaning,CON-0405,مفهوم,unclassified,none,review-candidate,part-not-explicit,1512,content/en/concepts/con-meaning.md
-con-meaninglessness,CON-19065,مفهوم,unclassified,none,review-candidate,part-not-explicit,815,content/en/concepts/con-meaninglessness.md
-con-memory,ANT-13335,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,940,content/en/concepts/con-memory.md
-con-mestizaje,ANT-13312,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,923,content/en/concepts/con-mestizaje.md
-con-metalwork,ANT-13233,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,910,content/en/concepts/con-metalwork.md
-con-metaphor,ANT-13102,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,790,content/en/concepts/con-metaphor.md
-con-metonym,ANT-13103,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,877,content/en/concepts/con-metonym.md
-con-modernity,ANT-13338,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,901,content/en/concepts/con-modernity.md
-con-moiety,ANT-13158,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,760,content/en/concepts/con-moiety.md
-con-monarchy,ANT-13212,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,896,content/en/concepts/con-monarchy.md
-con-monogamy,ANT-13197,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,906,content/en/concepts/con-monogamy.md
-con-monotheism,ANT-13163,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,812,content/en/concepts/con-monotheism.md
-con-mortality,CON-19075,مفهوم,unclassified,none,review-candidate,part-not-explicit,193,content/en/concepts/con-mortality.md
-con-multiculturalism,ANT-13314,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,918,content/en/concepts/con-multiculturalism.md
-con-music,ANT-13222,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,940,content/en/concepts/con-music.md
-con-myth,ANT-13100,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,944,content/en/concepts/con-myth.md
-con-narrative,ANT-13225,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,876,content/en/concepts/con-narrative.md
-con-nationalism,ANT-13296,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,862,content/en/concepts/con-nationalism.md
-con-neocolonialism,ANT-13323,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,781,content/en/concepts/con-neocolonialism.md
+con-isolation,CON-0404,مفهوم,philosophy,explicit,review-candidate,,1058,content/en/concepts/con-isolation.md
+con-jealousy-envy,CON-0415,مفهوم,psychology,explicit,review-candidate,,1093,content/en/concepts/con-jealousy-envy.md
+con-justice,ANT-13126,مفهوم,anthropology,explicit,review-candidate,,754,content/en/concepts/con-justice.md
+con-kinship,ANT-13019,مفهوم,anthropology,explicit,review-candidate,,983,content/en/concepts/con-kinship.md
+con-knowledge-systems,ANT-13245,مفهوم,anthropology,explicit,review-candidate,,936,content/en/concepts/con-knowledge-systems.md
+con-labor-division,ANT-13184,مفهوم,anthropology,explicit,review-candidate,,785,content/en/concepts/con-labor-division.md
+con-land-tenure,ANT-13192,مفهوم,anthropology,explicit,review-candidate,,812,content/en/concepts/con-land-tenure.md
+con-law,ANT-13127,مفهوم,anthropology,explicit,review-candidate,,815,content/en/concepts/con-law.md
+con-leadership,ANT-13220,مفهوم,anthropology,explicit,review-candidate,,930,content/en/concepts/con-leadership.md
+con-legitimacy,SOC-14232,مفهوم,sociology,explicit,review-candidate,,875,content/en/concepts/con-legitimacy.md
+con-levirate,ANT-13207,مفهوم,anthropology,explicit,review-candidate,,935,content/en/concepts/con-levirate.md
+con-liberation,ANT-13326,مفهوم,anthropology,explicit,review-candidate,,898,content/en/concepts/con-liberation.md
+con-liminality,ANT-13097,مفهوم,anthropology,explicit,review-candidate,,925,content/en/concepts/con-liminality.md
+con-lineage,ANT-13151,مفهوم,anthropology,explicit,review-candidate,,894,content/en/concepts/con-lineage.md
+con-localization,ANT-13301,مفهوم,anthropology,explicit,review-candidate,,854,content/en/concepts/con-localization.md
+con-love,CON-19066,مفهوم,psychology,explicit,review-candidate,,568,content/en/concepts/con-love.md
+con-magic,ANT-13170,مفهوم,anthropology,explicit,review-candidate,,799,content/en/concepts/con-magic.md
+con-mana,ANT-13109,مفهوم,anthropology,explicit,review-candidate,,900,content/en/concepts/con-mana.md
+con-marriage-rules,ANT-13194,مفهوم,anthropology,explicit,review-candidate,,881,content/en/concepts/con-marriage-rules.md
+con-matrilineal,ANT-13155,مفهوم,anthropology,explicit,review-candidate,,923,content/en/concepts/con-matrilineal.md
+con-matrimonial,ANT-13153,مفهوم,anthropology,explicit,review-candidate,,934,content/en/concepts/con-matrimonial.md
+con-meaning,CON-0405,مفهوم,philosophy,explicit,review-candidate,,1512,content/en/concepts/con-meaning.md
+con-meaninglessness,CON-19065,مفهوم,psychology,explicit,review-candidate,,815,content/en/concepts/con-meaninglessness.md
+con-memory,ANT-13335,مفهوم,anthropology,explicit,review-candidate,,940,content/en/concepts/con-memory.md
+con-mestizaje,ANT-13312,مفهوم,anthropology,explicit,review-candidate,,923,content/en/concepts/con-mestizaje.md
+con-metalwork,ANT-13233,مفهوم,anthropology,explicit,review-candidate,,910,content/en/concepts/con-metalwork.md
+con-metaphor,ANT-13102,مفهوم,anthropology,explicit,review-candidate,,790,content/en/concepts/con-metaphor.md
+con-metonym,ANT-13103,مفهوم,anthropology,explicit,review-candidate,,877,content/en/concepts/con-metonym.md
+con-modernity,ANT-13338,مفهوم,anthropology,explicit,review-candidate,,901,content/en/concepts/con-modernity.md
+con-moiety,ANT-13158,مفهوم,anthropology,explicit,review-candidate,,760,content/en/concepts/con-moiety.md
+con-monarchy,ANT-13212,مفهوم,anthropology,explicit,review-candidate,,896,content/en/concepts/con-monarchy.md
+con-monogamy,ANT-13197,مفهوم,anthropology,explicit,review-candidate,,906,content/en/concepts/con-monogamy.md
+con-monotheism,ANT-13163,مفهوم,anthropology,explicit,review-candidate,,812,content/en/concepts/con-monotheism.md
+con-mortality,CON-19075,مفهوم,psychology,explicit,review-candidate,,193,content/en/concepts/con-mortality.md
+con-multiculturalism,ANT-13314,مفهوم,anthropology,explicit,review-candidate,,918,content/en/concepts/con-multiculturalism.md
+con-music,ANT-13222,مفهوم,anthropology,explicit,review-candidate,,940,content/en/concepts/con-music.md
+con-myth,ANT-13100,مفهوم,anthropology,explicit,review-candidate,,944,content/en/concepts/con-myth.md
+con-narrative,ANT-13225,مفهوم,anthropology,explicit,review-candidate,,876,content/en/concepts/con-narrative.md
+con-nationalism,ANT-13296,مفهوم,anthropology,explicit,review-candidate,,862,content/en/concepts/con-nationalism.md
+con-neocolonialism,ANT-13323,مفهوم,anthropology,explicit,review-candidate,,781,content/en/concepts/con-neocolonialism.md
 con-network-analysis,SOC-14272,مفهوم,sociology,explicit,draft-pending,pending,890,content/en/concepts/con-network-analysis.md
 con-norm,SOC-14205,مفهوم,sociology,explicit,review-candidate,,876,content/en/concepts/con-norm.md
 con-normal-distribution,SOC-14274,مفهوم,sociology,explicit,draft-pending,pending,921,content/en/concepts/con-normal-distribution.md
 con-observation,SOC-14263,مفهوم,sociology,explicit,draft-pending,pending,931,content/en/concepts/con-observation.md
-con-ontology,ANT-13244,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,881,content/en/concepts/con-ontology.md
-con-oracle,ANT-13173,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,904,content/en/concepts/con-oracle.md
-con-oral-tradition,ANT-13246,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,977,content/en/concepts/con-oral-tradition.md
-con-oratory,ANT-13227,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,904,content/en/concepts/con-oratory.md
-con-organization,SOC-14215,مفهوم,sociology,explicit,draft-pending,pending,867,content/en/concepts/con-organization.md
-con-othering,ANT-13309,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,765,content/en/concepts/con-othering.md
-con-out-group,SOC-14239,مفهوم,sociology,explicit,draft-pending,pending,823,content/en/concepts/con-out-group.md
+con-ontology,ANT-13244,مفهوم,anthropology,explicit,review-candidate,,881,content/en/concepts/con-ontology.md
+con-oracle,ANT-13173,مفهوم,anthropology,explicit,review-candidate,,904,content/en/concepts/con-oracle.md
+con-oral-tradition,ANT-13246,مفهوم,anthropology,explicit,review-candidate,,977,content/en/concepts/con-oral-tradition.md
+con-oratory,ANT-13227,مفهوم,anthropology,explicit,review-candidate,,904,content/en/concepts/con-oratory.md
+con-organization,SOC-14215,مفهوم,sociology,explicit,review-candidate,,867,content/en/concepts/con-organization.md
+con-othering,ANT-13309,مفهوم,anthropology,explicit,review-candidate,,765,content/en/concepts/con-othering.md
+con-out-group,SOC-14239,مفهوم,sociology,explicit,review-candidate,,823,content/en/concepts/con-out-group.md
 con-patriarchy,SOC-14245,مفهوم,sociology,explicit,review-candidate,,947,content/en/concepts/con-patriarchy.md
-con-patrilineal,ANT-13154,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,839,content/en/concepts/con-patrilineal.md
-con-peace,ANT-13125,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,804,content/en/concepts/con-peace.md
-con-peace-building,ANT-13332,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,924,content/en/concepts/con-peace-building.md
-con-peer-group,SOC-14234,مفهوم,sociology,explicit,draft-pending,pending,909,content/en/concepts/con-peer-group.md
-con-performance,ANT-13228,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,889,content/en/concepts/con-performance.md
-con-phenomenological-analysis,SOC-14283,مفهوم,sociology,explicit,draft-pending,pending,976,content/en/concepts/con-phenomenological-analysis.md
-con-phratry,ANT-13159,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,832,content/en/concepts/con-phratry.md
-con-poetry,ANT-13226,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,873,content/en/concepts/con-poetry.md
-con-polyandry,ANT-13199,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,936,content/en/concepts/con-polyandry.md
-con-polygyny,ANT-13198,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,880,content/en/concepts/con-polygyny.md
-con-polytheism,ANT-13164,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,902,content/en/concepts/con-polytheism.md
-con-postmarital-residence,ANT-13203,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1005,content/en/concepts/con-postmarital-residence.md
-con-postmodernity,ANT-13339,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,883,content/en/concepts/con-postmodernity.md
-con-pottery,ANT-13231,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,889,content/en/concepts/con-pottery.md
+con-patrilineal,ANT-13154,مفهوم,anthropology,explicit,review-candidate,,839,content/en/concepts/con-patrilineal.md
+con-peace,ANT-13125,مفهوم,anthropology,explicit,review-candidate,,804,content/en/concepts/con-peace.md
+con-peace-building,ANT-13332,مفهوم,anthropology,explicit,review-candidate,,924,content/en/concepts/con-peace-building.md
+con-peer-group,SOC-14234,مفهوم,sociology,explicit,review-candidate,,909,content/en/concepts/con-peer-group.md
+con-performance,ANT-13228,مفهوم,anthropology,explicit,review-candidate,,889,content/en/concepts/con-performance.md
+con-phenomenological-analysis,SOC-14283,مفهوم,sociology,explicit,review-candidate,,976,content/en/concepts/con-phenomenological-analysis.md
+con-phratry,ANT-13159,مفهوم,anthropology,explicit,review-candidate,,832,content/en/concepts/con-phratry.md
+con-poetry,ANT-13226,مفهوم,anthropology,explicit,review-candidate,,873,content/en/concepts/con-poetry.md
+con-polyandry,ANT-13199,مفهوم,anthropology,explicit,review-candidate,,936,content/en/concepts/con-polyandry.md
+con-polygyny,ANT-13198,مفهوم,anthropology,explicit,review-candidate,,880,content/en/concepts/con-polygyny.md
+con-polytheism,ANT-13164,مفهوم,anthropology,explicit,review-candidate,,902,content/en/concepts/con-polytheism.md
+con-postmarital-residence,ANT-13203,مفهوم,anthropology,explicit,review-candidate,,1005,content/en/concepts/con-postmarital-residence.md
+con-postmodernity,ANT-13339,مفهوم,anthropology,explicit,review-candidate,,883,content/en/concepts/con-postmodernity.md
+con-pottery,ANT-13231,مفهوم,anthropology,explicit,review-candidate,,889,content/en/concepts/con-pottery.md
 con-power,SOC-14210,مفهوم,sociology,explicit,review-candidate,,884,content/en/concepts/con-power.md
-con-prayer,ANT-13176,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,913,content/en/concepts/con-prayer.md
+con-prayer,ANT-13176,مفهوم,anthropology,explicit,review-candidate,,913,content/en/concepts/con-prayer.md
 con-prejudice,SOC-14241,مفهوم,sociology,explicit,review-candidate,,915,content/en/concepts/con-prejudice.md
-con-presence-absence,CON-0427,مفهوم,unclassified,none,review-candidate,part-not-explicit,222,content/en/concepts/con-presence-absence.md
-con-prestige,ANT-13110,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,915,content/en/concepts/con-prestige.md
+con-presence-absence,CON-0427,مفهوم,psychology,explicit,review-candidate,,222,content/en/concepts/con-presence-absence.md
+con-prestige,ANT-13110,مفهوم,anthropology,explicit,review-candidate,,915,content/en/concepts/con-prestige.md
 con-primary-group,SOC-14236,مفهوم,sociology,explicit,draft-pending,pending,946,content/en/concepts/con-primary-group.md
-con-profane,ANT-13093,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1851,content/en/concepts/con-profane.md
-con-property,ANT-13120,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,926,content/en/concepts/con-property.md
-con-protest,ANT-13328,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,908,content/en/concepts/con-protest.md
-con-public-sphere,ANT-13294,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,885,content/en/concepts/con-public-sphere.md
-con-qualitative-research,SOC-14267,مفهوم,sociology,explicit,draft-pending,pending,951,content/en/concepts/con-qualitative-research.md
-con-quantitative-research,SOC-14268,مفهوم,sociology,explicit,draft-pending,pending,929,content/en/concepts/con-quantitative-research.md
+con-profane,ANT-13093,مفهوم,anthropology,explicit,review-candidate,,1851,content/en/concepts/con-profane.md
+con-property,ANT-13120,مفهوم,anthropology,explicit,review-candidate,,926,content/en/concepts/con-property.md
+con-protest,ANT-13328,مفهوم,anthropology,explicit,review-candidate,,908,content/en/concepts/con-protest.md
+con-public-sphere,ANT-13294,مفهوم,anthropology,explicit,review-candidate,,885,content/en/concepts/con-public-sphere.md
+con-qualitative-research,SOC-14267,مفهوم,sociology,explicit,review-candidate,,951,content/en/concepts/con-qualitative-research.md
+con-quantitative-research,SOC-14268,مفهوم,sociology,explicit,review-candidate,,929,content/en/concepts/con-quantitative-research.md
 con-racism,SOC-14247,مفهوم,sociology,explicit,review-candidate,,963,content/en/concepts/con-racism.md
-con-rage,CON-19071,مفهوم,unclassified,none,review-candidate,part-not-explicit,235,content/en/concepts/con-rage.md
-con-rationalization,SOC-14230,مفهوم,sociology,explicit,draft-pending,pending,806,content/en/concepts/con-rationalization.md
-con-reciprocity,ANT-13106,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,922,content/en/concepts/con-reciprocity.md
-con-reconciliation,ANT-13333,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,852,content/en/concepts/con-reconciliation.md
-con-redistribution,ANT-13105,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,976,content/en/concepts/con-redistribution.md
+con-rage,CON-19071,مفهوم,psychology,explicit,review-candidate,,235,content/en/concepts/con-rage.md
+con-rationalization,SOC-14230,مفهوم,sociology,explicit,review-candidate,,806,content/en/concepts/con-rationalization.md
+con-reciprocity,ANT-13106,مفهوم,anthropology,explicit,review-candidate,,922,content/en/concepts/con-reciprocity.md
+con-reconciliation,ANT-13333,مفهوم,anthropology,explicit,review-candidate,,852,content/en/concepts/con-reconciliation.md
+con-redistribution,ANT-13105,مفهوم,anthropology,explicit,review-candidate,,976,content/en/concepts/con-redistribution.md
 con-reference-group,SOC-14235,مفهوم,sociology,explicit,draft-pending,pending,951,content/en/concepts/con-reference-group.md
 con-regression-analysis,SOC-14276,مفهوم,sociology,explicit,draft-pending,pending,890,content/en/concepts/con-regression-analysis.md
-con-relation,CON-0410,مفهوم,unclassified,none,review-candidate,part-not-explicit,932,content/en/concepts/con-relation.md
-con-relationships,CON-19067,مفهوم,unclassified,none,review-candidate,part-not-explicit,492,content/en/concepts/con-relationships.md
-con-reliability,SOC-14260,مفهوم,sociology,explicit,draft-pending,pending,933,content/en/concepts/con-reliability.md
-con-representation,ANT-13217,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,840,content/en/concepts/con-representation.md
-con-reputation,ANT-13114,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,937,content/en/concepts/con-reputation.md
-con-resilience,CON-19072,مفهوم,unclassified,none,review-candidate,part-not-explicit,226,content/en/concepts/con-resilience.md
-con-resistance-movements,ANT-13325,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,821,content/en/concepts/con-resistance-movements.md
-con-responsibility,CON-0403,مفهوم,unclassified,none,review-candidate,part-not-explicit,1029,content/en/concepts/con-responsibility.md
-con-revolution,ANT-13329,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,911,content/en/concepts/con-revolution.md
-con-rite-of-passage,CON-12634,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,933,content/en/concepts/con-rite-of-passage.md
-con-ritual,ANT-13020,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,2064,content/en/concepts/con-ritual.md
+con-relation,CON-0410,مفهوم,psychology,explicit,review-candidate,,932,content/en/concepts/con-relation.md
+con-relationships,CON-19067,مفهوم,psychology,explicit,review-candidate,,492,content/en/concepts/con-relationships.md
+con-reliability,SOC-14260,مفهوم,sociology,explicit,review-candidate,,933,content/en/concepts/con-reliability.md
+con-representation,ANT-13217,مفهوم,anthropology,explicit,review-candidate,,840,content/en/concepts/con-representation.md
+con-reputation,ANT-13114,مفهوم,anthropology,explicit,review-candidate,,937,content/en/concepts/con-reputation.md
+con-resilience,CON-19072,مفهوم,psychology,explicit,review-candidate,,226,content/en/concepts/con-resilience.md
+con-resistance-movements,ANT-13325,مفهوم,anthropology,explicit,review-candidate,,821,content/en/concepts/con-resistance-movements.md
+con-responsibility,CON-0403,مفهوم,psychology,explicit,review-candidate,,1029,content/en/concepts/con-responsibility.md
+con-revolution,ANT-13329,مفهوم,anthropology,explicit,review-candidate,,911,content/en/concepts/con-revolution.md
+con-rite-of-passage,CON-12634,مفهوم,anthropology,explicit,review-candidate,,933,content/en/concepts/con-rite-of-passage.md
+con-ritual,ANT-13020,مفهوم,anthropology,explicit,review-candidate,,2064,content/en/concepts/con-ritual.md
 con-role,SOC-14203,مفهوم,sociology,explicit,review-candidate,,871,content/en/concepts/con-role.md
-con-sacred,ANT-13092,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1945,content/en/concepts/con-sacred.md
-con-sacrifice,ANT-13169,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,912,content/en/concepts/con-sacrifice.md
-con-sadness,CON-0413,مفهوم,unclassified,none,review-candidate,part-not-explicit,991,content/en/concepts/con-sadness.md
+con-sacred,ANT-13092,مفهوم,anthropology,explicit,review-candidate,,1945,content/en/concepts/con-sacred.md
+con-sacrifice,ANT-13169,مفهوم,anthropology,explicit,review-candidate,,912,content/en/concepts/con-sacrifice.md
+con-sadness,CON-0413,مفهوم,psychology,explicit,review-candidate,,991,content/en/concepts/con-sadness.md
 con-sampling,SOC-14257,مفهوم,sociology,explicit,review-candidate,,945,content/en/concepts/con-sampling.md
-con-savings,ANT-13190,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,880,content/en/concepts/con-savings.md
-con-secondary-group,SOC-14237,مفهوم,sociology,explicit,draft-pending,pending,928,content/en/concepts/con-secondary-group.md
-con-secret-societies,ANT-13162,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,933,content/en/concepts/con-secret-societies.md
-con-segregation,ANT-13317,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,858,content/en/concepts/con-segregation.md
-con-self-other,CON-0428,مفهوم,unclassified,none,review-candidate,part-not-explicit,204,content/en/concepts/con-self-other.md
-con-sensory-anthropology,CON-12628,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1085,content/en/concepts/con-sensory-anthropology.md
-con-sexism,SOC-14246,مفهوم,sociology,explicit,draft-pending,pending,890,content/en/concepts/con-sexism.md
-con-shamanism,CON-12636,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1055,content/en/concepts/con-shamanism.md
-con-shame,CON-19076,مفهوم,unclassified,none,review-candidate,part-not-explicit,210,content/en/concepts/con-shame.md
-con-shame-guilt,CON-0414,مفهوم,unclassified,none,review-candidate,part-not-explicit,1055,content/en/concepts/con-shame-guilt.md
+con-savings,ANT-13190,مفهوم,anthropology,explicit,review-candidate,,880,content/en/concepts/con-savings.md
+con-secondary-group,SOC-14237,مفهوم,sociology,explicit,review-candidate,,928,content/en/concepts/con-secondary-group.md
+con-secret-societies,ANT-13162,مفهوم,anthropology,explicit,review-candidate,,933,content/en/concepts/con-secret-societies.md
+con-segregation,ANT-13317,مفهوم,anthropology,explicit,review-candidate,,858,content/en/concepts/con-segregation.md
+con-self-other,CON-0428,مفهوم,psychology,explicit,review-candidate,,204,content/en/concepts/con-self-other.md
+con-sensory-anthropology,CON-12628,مدرسة,anthropology,explicit,review-candidate,,1085,content/en/concepts/con-sensory-anthropology.md
+con-sexism,SOC-14246,مفهوم,sociology,explicit,review-candidate,,890,content/en/concepts/con-sexism.md
+con-shamanism,CON-12636,مفهوم,anthropology,explicit,review-candidate,,1055,content/en/concepts/con-shamanism.md
+con-shame,CON-19076,مفهوم,psychology,explicit,review-candidate,,210,content/en/concepts/con-shame.md
+con-shame-guilt,CON-0414,مفهوم,psychology,explicit,review-candidate,,1055,content/en/concepts/con-shame-guilt.md
 con-social-change,SOC-14225,مفهوم,sociology,explicit,draft-pending,pending,933,content/en/concepts/con-social-change.md
 con-social-control,SOC-14213,مفهوم,sociology,explicit,draft-pending,pending,942,content/en/concepts/con-social-control.md
-con-social-movement,SOC-14226,مفهوم,sociology,explicit,draft-pending,pending;short,30,content/en/concepts/con-social-movement.md
-con-social-movements,ANT-13327,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,827,content/en/concepts/con-social-movements.md
-con-social-network,ANT-13292,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,939,content/en/concepts/con-social-network.md
-con-social-reproduction,ANT-13289,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,957,content/en/concepts/con-social-reproduction.md
-con-social-structure,SOC-14200,مفهوم,sociology,explicit,draft-pending,pending,809,content/en/concepts/con-social-structure.md
+con-social-movement,SOC-14226,مفهوم,sociology,explicit,draft-pending,pending;short,34,content/en/concepts/con-social-movement.md
+con-social-movements,ANT-13327,مفهوم,anthropology,explicit,review-candidate,,827,content/en/concepts/con-social-movements.md
+con-social-network,ANT-13292,مفهوم,anthropology,explicit,review-candidate,,939,content/en/concepts/con-social-network.md
+con-social-reproduction,ANT-13289,مفهوم,anthropology,explicit,review-candidate,,957,content/en/concepts/con-social-reproduction.md
+con-social-structure,SOC-14200,مفهوم,sociology,explicit,review-candidate,,809,content/en/concepts/con-social-structure.md
 con-socialization,SOC-14202,مفهوم,sociology,explicit,draft-pending,pending,795,content/en/concepts/con-socialization.md
 con-socialization-process,SOC-14233,مفهوم,sociology,explicit,draft-pending,pending,791,content/en/concepts/con-socialization-process.md
 con-society,SOC-14217,مفهوم,sociology,explicit,review-candidate,,830,content/en/concepts/con-society.md
-con-sociological-imagination,SOC-14224,مفهوم,sociology,explicit,draft-pending,pending,948,content/en/concepts/con-sociological-imagination.md
+con-sociological-imagination,SOC-14224,مفهوم,sociology,explicit,review-candidate,,948,content/en/concepts/con-sociological-imagination.md
 con-sociological-imagination-mills,CON-10001,عمل,sociology,explicit,draft-pending,pending,942,content/en/concepts/con-sociological-imagination-mills.md
-con-sociological-theory,SOC-14250,مفهوم,sociology,explicit,draft-pending,pending,775,content/en/concepts/con-sociological-theory.md
+con-sociological-theory,SOC-14250,مفهوم,sociology,explicit,review-candidate,,775,content/en/concepts/con-sociological-theory.md
 con-sociometric-analysis,SOC-14277,مفهوم,sociology,explicit,draft-pending,pending,787,content/en/concepts/con-sociometric-analysis.md
 con-solidarity,SOC-14228,مفهوم,sociology,explicit,review-candidate,,962,content/en/concepts/con-solidarity.md
-con-sorcery,ANT-13171,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,811,content/en/concepts/con-sorcery.md
-con-sororate,ANT-13208,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,913,content/en/concepts/con-sororate.md
-con-spirit-possession,ANT-13167,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,984,content/en/concepts/con-spirit-possession.md
-con-spiritual-crisis,CON-0430,مفهوم,unclassified,none,review-candidate,part-not-explicit,194,content/en/concepts/con-spiritual-crisis.md
+con-sorcery,ANT-13171,مفهوم,anthropology,explicit,review-candidate,,811,content/en/concepts/con-sorcery.md
+con-sororate,ANT-13208,مفهوم,anthropology,explicit,review-candidate,,913,content/en/concepts/con-sororate.md
+con-spirit-possession,ANT-13167,مفهوم,anthropology,explicit,review-candidate,,984,content/en/concepts/con-spirit-possession.md
+con-spiritual-crisis,CON-0430,مفهوم,psychology,explicit,review-candidate,,194,content/en/concepts/con-spiritual-crisis.md
 con-standard-deviation,SOC-14275,مفهوم,sociology,explicit,draft-pending,pending,933,content/en/concepts/con-standard-deviation.md
-con-state,ANT-13211,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,923,content/en/concepts/con-state.md
+con-state,ANT-13211,مفهوم,anthropology,explicit,review-candidate,,923,content/en/concepts/con-state.md
 con-statistical-analysis,SOC-14266,مفهوم,sociology,explicit,draft-pending,pending,779,content/en/concepts/con-statistical-analysis.md
 con-statistical-significance,SOC-14273,مفهوم,sociology,explicit,draft-pending,pending,1032,content/en/concepts/con-statistical-significance.md
 con-status,SOC-14204,مفهوم,sociology,explicit,review-candidate,,873,content/en/concepts/con-status.md
-con-stereotypes,SOC-14240,مفهوم,sociology,explicit,draft-pending,pending,916,content/en/concepts/con-stereotypes.md
-con-stratification,SOC-14209,مفهوم,sociology,explicit,draft-pending,pending,785,content/en/concepts/con-stratification.md
+con-stereotypes,SOC-14240,مفهوم,sociology,explicit,review-candidate,,916,content/en/concepts/con-stereotypes.md
+con-stratification,SOC-14209,مفهوم,sociology,explicit,review-candidate,,785,content/en/concepts/con-stratification.md
 con-structural-analysis,SOC-14280,مفهوم,sociology,explicit,draft-pending,pending,763,content/en/concepts/con-structural-analysis.md
-con-structural-opposition,ANT-13099,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,987,content/en/concepts/con-structural-opposition.md
+con-structural-opposition,ANT-13099,مفهوم,anthropology,explicit,review-candidate,,987,content/en/concepts/con-structural-opposition.md
 con-structure,SOC-14223,مفهوم,sociology,explicit,review-candidate,,995,content/en/concepts/con-structure.md
-con-succession,ANT-13122,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,963,content/en/concepts/con-succession.md
+con-succession,ANT-13122,مفهوم,anthropology,explicit,review-candidate,,963,content/en/concepts/con-succession.md
 con-survey,SOC-14262,مفهوم,sociology,explicit,review-candidate,,885,content/en/concepts/con-survey.md
-con-symbol,ANT-13101,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1954,content/en/concepts/con-symbol.md
-con-syncretism,ANT-13090,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,925,content/en/concepts/con-syncretism.md
-con-taboo,ANT-13091,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,806,content/en/concepts/con-taboo.md
-con-theocracy,ANT-13215,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,929,content/en/concepts/con-theocracy.md
-con-therapy,CON-19068,مفهوم,unclassified,none,review-candidate,part-not-explicit,635,content/en/concepts/con-therapy.md
-con-thrownness,CON-0417,مفهوم,unclassified,none,review-candidate,part-not-explicit,187,content/en/concepts/con-thrownness.md
-con-time,CON-0409,مفهوم,unclassified,none,review-candidate,part-not-explicit,929,content/en/concepts/con-time.md
-con-tool,ANT-13230,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,882,content/en/concepts/con-tool.md
-con-totemism,ANT-13094,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,1034,content/en/concepts/con-totemism.md
-con-trade-networks,ANT-13186,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,782,content/en/concepts/con-trade-networks.md
-con-tradition,ANT-13337,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,902,content/en/concepts/con-tradition.md
-con-tradition-innovation,ANT-13148,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,986,content/en/concepts/con-tradition-innovation.md
-con-trance,ANT-13177,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,930,content/en/concepts/con-trance.md
-con-transnationalism,ANT-13299,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,792,content/en/concepts/con-transnationalism.md
-con-trauma,CON-19077,مفهوم,unclassified,none,review-candidate,part-not-explicit,199,content/en/concepts/con-trauma.md
-con-tribe,ANT-13210,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,939,content/en/concepts/con-tribe.md
-con-universal-particular,ANT-13145,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,818,content/en/concepts/con-universal-particular.md
-con-usufruct,ANT-13193,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,927,content/en/concepts/con-usufruct.md
+con-symbol,ANT-13101,مفهوم,anthropology,explicit,review-candidate,,1954,content/en/concepts/con-symbol.md
+con-syncretism,ANT-13090,مفهوم,anthropology,explicit,review-candidate,,925,content/en/concepts/con-syncretism.md
+con-taboo,ANT-13091,مفهوم,anthropology,explicit,review-candidate,,806,content/en/concepts/con-taboo.md
+con-theocracy,ANT-13215,مفهوم,anthropology,explicit,review-candidate,,929,content/en/concepts/con-theocracy.md
+con-therapy,CON-19068,مفهوم,psychology,explicit,review-candidate,,635,content/en/concepts/con-therapy.md
+con-thrownness,CON-0417,مفهوم,philosophy,explicit,review-candidate,,187,content/en/concepts/con-thrownness.md
+con-time,CON-0409,مفهوم,psychology,explicit,review-candidate,,929,content/en/concepts/con-time.md
+con-tool,ANT-13230,مفهوم,anthropology,explicit,review-candidate,,882,content/en/concepts/con-tool.md
+con-totemism,ANT-13094,مفهوم,anthropology,explicit,review-candidate,,1034,content/en/concepts/con-totemism.md
+con-trade-networks,ANT-13186,مفهوم,anthropology,explicit,review-candidate,,782,content/en/concepts/con-trade-networks.md
+con-tradition,ANT-13337,مفهوم,anthropology,explicit,review-candidate,,902,content/en/concepts/con-tradition.md
+con-tradition-innovation,ANT-13148,مفهوم,anthropology,explicit,review-candidate,,986,content/en/concepts/con-tradition-innovation.md
+con-trance,ANT-13177,مفهوم,anthropology,explicit,review-candidate,,930,content/en/concepts/con-trance.md
+con-transnationalism,ANT-13299,مفهوم,anthropology,explicit,review-candidate,,792,content/en/concepts/con-transnationalism.md
+con-trauma,CON-19077,مفهوم,psychology,explicit,review-candidate,,199,content/en/concepts/con-trauma.md
+con-tribe,ANT-13210,مفهوم,anthropology,explicit,review-candidate,,939,content/en/concepts/con-tribe.md
+con-universal-particular,ANT-13145,مفهوم,anthropology,explicit,review-candidate,,818,content/en/concepts/con-universal-particular.md
+con-usufruct,ANT-13193,مفهوم,anthropology,explicit,review-candidate,,927,content/en/concepts/con-usufruct.md
 con-validity,SOC-14259,مفهوم,sociology,explicit,review-candidate,,969,content/en/concepts/con-validity.md
 con-variable,SOC-14253,مفهوم,sociology,explicit,review-candidate,,946,content/en/concepts/con-variable.md
 con-verstehen,SOC-14285,مفهوم,sociology,explicit,review-candidate,,857,content/en/concepts/con-verstehen.md
 con-verstehen-sociology,SOC-14286,مفهوم,sociology,explicit,draft-pending,pending,799,content/en/concepts/con-verstehen-sociology.md
-con-violence,ANT-13330,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,951,content/en/concepts/con-violence.md
-con-visual-art,ANT-13224,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,937,content/en/concepts/con-visual-art.md
-con-voting,ANT-13218,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,860,content/en/concepts/con-voting.md
-con-war,ANT-13331,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,922,content/en/concepts/con-war.md
-con-wealth,ANT-13187,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,772,content/en/concepts/con-wealth.md
-con-weaving,ANT-13232,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,875,content/en/concepts/con-weaving.md
-con-witchcraft,ANT-13172,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,912,content/en/concepts/con-witchcraft.md
-con-worldview,ANT-13242,مفهوم,anthropology,crumb,review-candidate,part-not-explicit,887,content/en/concepts/con-worldview.md
-crt-feminist-critique-heidegger,CRT-0001,نقد خارجي موثَّق,unclassified,none,review-candidate,part-not-explicit,1052,content/en/critiques/crt-feminist-critique-heidegger.md
-ctx-arabic-self,CTX-0001,سياق/تقليد,unclassified,none,review-candidate,part-not-explicit,1093,content/en/contexts/ctx-arabic-self.md
+con-violence,ANT-13330,مفهوم,anthropology,explicit,review-candidate,,951,content/en/concepts/con-violence.md
+con-visual-art,ANT-13224,مفهوم,anthropology,explicit,review-candidate,,937,content/en/concepts/con-visual-art.md
+con-voting,ANT-13218,مفهوم,anthropology,explicit,review-candidate,,860,content/en/concepts/con-voting.md
+con-war,ANT-13331,مفهوم,anthropology,explicit,review-candidate,,922,content/en/concepts/con-war.md
+con-wealth,ANT-13187,مفهوم,anthropology,explicit,review-candidate,,772,content/en/concepts/con-wealth.md
+con-weaving,ANT-13232,مفهوم,anthropology,explicit,review-candidate,,875,content/en/concepts/con-weaving.md
+con-witchcraft,ANT-13172,مفهوم,anthropology,explicit,review-candidate,,912,content/en/concepts/con-witchcraft.md
+con-worldview,ANT-13242,مفهوم,anthropology,explicit,review-candidate,,887,content/en/concepts/con-worldview.md
+crt-feminist-critique-heidegger,CRT-0001,نقد خارجي موثَّق,philosophy,explicit,review-candidate,,1052,content/en/critiques/crt-feminist-critique-heidegger.md
+ctx-arabic-self,CTX-0001,سياق/تقليد,arab-thought,explicit,review-candidate,,1093,content/en/contexts/ctx-arabic-self.md
 ctx-avicenna-self,CTX-0003,سياق/تقليد,philosophy,explicit,review-candidate,,928,content/en/contexts/ctx-avicenna-self.md
 ctx-ghazali,CTX-0002,سياق/تقليد,philosophy,explicit,review-candidate,,1049,content/en/contexts/ctx-ghazali.md
 ctx-miskawayh-character,CTX-0004,سياق/تقليد,philosophy,explicit,review-candidate,,948,content/en/contexts/ctx-miskawayh-character.md
 ctx-phenomenology-husserl,CTX-0005,سياق/تقليد,philosophy,explicit,review-candidate,,981,content/en/contexts/ctx-phenomenology-husserl.md
 ctx-post-war-europe,CTX-0006,سياق/تقليد,philosophy,explicit,review-candidate,,975,content/en/contexts/ctx-post-war-europe.md
 dbt-authenticity-vs-constructedness,SOC-14507,جدل,sociology,explicit,review-candidate,,846,content/en/debates/dbt-authenticity-vs-constructedness.md
-dbt-boss-binswanger,DBT-0301,جدل,unclassified,none,review-candidate,part-not-explicit,891,content/en/debates/dbt-boss-binswanger.md
-dbt-british-yalom,DBT-0306,جدل,unclassified,none,review-candidate,part-not-explicit,993,content/en/debates/dbt-british-yalom.md
-dbt-consensus-vs-coercion,SOC-14502,جدل,sociology,explicit,draft-pending,pending,853,content/en/debates/dbt-consensus-vs-coercion.md
+dbt-boss-binswanger,DBT-0301,جدل,philosophy,explicit,review-candidate,,891,content/en/debates/dbt-boss-binswanger.md
+dbt-british-yalom,DBT-0306,جدل,philosophy,explicit,review-candidate,,993,content/en/debates/dbt-british-yalom.md
+dbt-consensus-vs-coercion,SOC-14502,جدل,sociology,explicit,review-candidate,,853,content/en/debates/dbt-consensus-vs-coercion.md
 dbt-determinism-vs-voluntarism,SOC-14498,جدل,sociology,explicit,review-candidate,,965,content/en/debates/dbt-determinism-vs-voluntarism.md
 dbt-equilibrium-vs-change,SOC-14496,جدل,sociology,explicit,review-candidate,,950,content/en/debates/dbt-equilibrium-vs-change.md
-dbt-evidence,DBT-0309,جدل,unclassified,none,review-candidate,part-not-explicit,1067,content/en/debates/dbt-evidence.md
-dbt-evolution-vs-revolution,SOC-14500,جدل,sociology,explicit,draft-pending,pending,882,content/en/debates/dbt-evolution-vs-revolution.md
+dbt-evidence,DBT-0309,جدل,philosophy,explicit,review-candidate,,1067,content/en/debates/dbt-evidence.md
+dbt-evolution-vs-revolution,SOC-14500,جدل,sociology,explicit,review-candidate,,882,content/en/debates/dbt-evolution-vs-revolution.md
 dbt-functionalism-vs-conflict,SOC-14495,جدل,sociology,explicit,review-candidate,,992,content/en/debates/dbt-functionalism-vs-conflict.md
 dbt-historical-vs-ahistorical,SOC-14509,جدل,sociology,explicit,review-candidate,,890,content/en/debates/dbt-historical-vs-ahistorical.md
-dbt-holism-vs-individualism,SOC-14499,جدل,sociology,explicit,draft-pending,pending,918,content/en/debates/dbt-holism-vs-individualism.md
-dbt-individualism,DBT-0310,جدل,unclassified,none,review-candidate,part-not-explicit,911,content/en/debates/dbt-individualism.md
+dbt-holism-vs-individualism,SOC-14499,جدل,sociology,explicit,review-candidate,,918,content/en/debates/dbt-holism-vs-individualism.md
+dbt-individualism,DBT-0310,جدل,philosophy,explicit,review-candidate,,911,content/en/debates/dbt-individualism.md
 dbt-integration-vs-fragmentation,SOC-14506,جدل,sociology,explicit,review-candidate,,964,content/en/debates/dbt-integration-vs-fragmentation.md
-dbt-laing,DBT-0305,جدل,unclassified,none,review-candidate,part-not-explicit,1041,content/en/debates/dbt-laing.md
-dbt-langle-frankl,DBT-0304,جدل,unclassified,none,review-candidate,part-not-explicit,1069,content/en/debates/dbt-langle-frankl.md
+dbt-laing,DBT-0305,جدل,philosophy,explicit,review-candidate,,1041,content/en/debates/dbt-laing.md
+dbt-langle-frankl,DBT-0304,جدل,philosophy,explicit,review-candidate,,1069,content/en/debates/dbt-langle-frankl.md
 dbt-materialism-vs-idealism,SOC-14494,جدل,sociology,explicit,review-candidate,,1018,content/en/debates/dbt-materialism-vs-idealism.md
-dbt-meaning-found,DBT-0303,جدل,unclassified,none,review-candidate,part-not-explicit,901,content/en/debates/dbt-meaning-found.md
-dbt-micro-vs-macro,SOC-14491,جدل,sociology,explicit,draft-pending,pending,871,content/en/debates/dbt-micro-vs-macro.md
+dbt-meaning-found,DBT-0303,جدل,philosophy,explicit,review-candidate,,901,content/en/debates/dbt-meaning-found.md
+dbt-micro-vs-macro,SOC-14491,جدل,sociology,explicit,review-candidate,,871,content/en/debates/dbt-micro-vs-macro.md
 dbt-modernization-vs-dependency,SOC-14501,جدل,sociology,explicit,review-candidate,,1043,content/en/debates/dbt-modernization-vs-dependency.md
 dbt-objective-vs-subjective,SOC-14508,جدل,sociology,explicit,review-candidate,,967,content/en/debates/dbt-objective-vs-subjective.md
 dbt-positivism-vs-interpretivism,SOC-14493,جدل,sociology,explicit,review-candidate,,930,content/en/debates/dbt-positivism-vs-interpretivism.md
-dbt-progress-vs-decline,SOC-14505,جدل,sociology,explicit,draft-pending,pending,846,content/en/debates/dbt-progress-vs-decline.md
+dbt-progress-vs-decline,SOC-14505,جدل,sociology,explicit,review-candidate,,846,content/en/debates/dbt-progress-vs-decline.md
 dbt-quantitative-vs-qualitative,SOC-14492,جدل,sociology,explicit,review-candidate,,928,content/en/debates/dbt-quantitative-vs-qualitative.md
 dbt-rationality-vs-emotion,SOC-14503,جدل,sociology,explicit,review-candidate,,972,content/en/debates/dbt-rationality-vs-emotion.md
-dbt-school-or-attitude,DBT-0308,جدل,unclassified,none,review-candidate,part-not-explicit,867,content/en/debates/dbt-school-or-attitude.md
-dbt-spiritual,DBT-0311,جدل,unclassified,none,review-candidate,part-not-explicit,1006,content/en/debates/dbt-spiritual.md
-dbt-structure-vs-agency,SOC-14490,جدل,sociology,explicit,draft-pending,pending,935,content/en/debates/dbt-structure-vs-agency.md
-dbt-structures,DBT-0307,جدل,unclassified,none,review-candidate,part-not-explicit,857,content/en/debates/dbt-structures.md
-dbt-unconscious,DBT-0302,جدل,unclassified,none,review-candidate,part-not-explicit,845,content/en/debates/dbt-unconscious.md
+dbt-school-or-attitude,DBT-0308,جدل,philosophy,explicit,review-candidate,,867,content/en/debates/dbt-school-or-attitude.md
+dbt-spiritual,DBT-0311,جدل,philosophy,explicit,review-candidate,,1006,content/en/debates/dbt-spiritual.md
+dbt-structure-vs-agency,SOC-14490,جدل,sociology,explicit,review-candidate,,935,content/en/debates/dbt-structure-vs-agency.md
+dbt-structures,DBT-0307,جدل,philosophy,explicit,review-candidate,,857,content/en/debates/dbt-structures.md
+dbt-unconscious,DBT-0302,جدل,philosophy,explicit,review-candidate,,845,content/en/debates/dbt-unconscious.md
 dbt-universalism-vs-particularism,SOC-14504,جدل,sociology,explicit,review-candidate,,1029,content/en/debates/dbt-universalism-vs-particularism.md
 dbt-universalism-vs-relativism,SOC-14497,جدل,sociology,explicit,review-candidate,,1027,content/en/debates/dbt-universalism-vs-relativism.md
-dia-existential-act-encounter,DIA-0001,حوار مع مدرسة مجاورة,unclassified,none,review-candidate,part-not-explicit,1074,content/en/dialogues/dia-existential-act-encounter.md
+dia-existential-act-encounter,DIA-0001,حوار مع مدرسة مجاورة,psychology,explicit,review-candidate,,1074,content/en/dialogues/dia-existential-act-encounter.md
 dis-gad,DIS-0001,اضطراب/حالة إكلينيكية,psychology,explicit,review-candidate,,982,content/en/disorders/dis-gad.md
 dis-mdd,DIS-0002,اضطراب/حالة إكلينيكية,psychology,explicit,review-candidate,,1043,content/en/disorders/dis-mdd.md
 dis-panic-disorder,DIS-0003,اضطراب/حالة إكلينيكية,psychology,explicit,review-candidate,,984,content/en/disorders/dis-panic-disorder.md
 dis-prolonged-grief,DIS-0005,اضطراب/حالة إكلينيكية,psychology,explicit,review-candidate,,1010,content/en/disorders/dis-prolonged-grief.md
 dis-ptsd,DIS-0004,اضطراب/حالة إكلينيكية,psychology,explicit,review-candidate,,970,content/en/disorders/dis-ptsd.md
-evt-frankl-camps,EVT-0001,حدث تاريخي,unclassified,none,review-candidate,part-not-explicit,967,content/en/events/evt-frankl-camps.md
-exp-frankl-lived-experience,EXP-0001,خبرة معيشة,unclassified,none,review-candidate,part-not-explicit,1038,content/en/experiences/exp-frankl-lived-experience.md
+evt-frankl-camps,EVT-0001,حدث تاريخي,philosophy,explicit,review-candidate,,967,content/en/events/evt-frankl-camps.md
+exp-frankl-lived-experience,EXP-0001,خبرة معيشة,philosophy,explicit,review-candidate,,1038,content/en/experiences/exp-frankl-lived-experience.md
 hst-appian,HST-0031,مفكر,historiography,explicit,review-candidate,,306,content/en/thinkers/hst-appian.md
 hst-con-anachronism,HST-0101,مفهوم,historiography,explicit,review-candidate,,213,content/en/concepts/hst-con-anachronism.md
 hst-con-ancient-historiographical-method,HST-0050,مفهوم,historiography,explicit,review-candidate,,515,content/en/concepts/hst-con-ancient-historiographical-method.md
@@ -516,130 +516,100 @@ hst-tacitus,HST-0021,مفكر,historiography,explicit,review-candidate,,837,cont
 hst-thucydides,HST-0002,مفكر,historiography,explicit,review-candidate,,1183,content/en/thinkers/hst-thucydides.md
 hst-valerius-maximus,HST-0034,مفكر,historiography,explicit,review-candidate,,278,content/en/thinkers/hst-valerius-maximus.md
 hst-velleius-paterculus,HST-0033,مفكر,historiography,explicit,review-candidate,,267,content/en/thinkers/hst-velleius-paterculus.md
-ins-content-analysis-method,INS-0315,مفهوم,sociology,explicit,draft-pending,pending,845,content/en/instruments/ins-content-analysis-method.md
+ins-content-analysis-method,INS-0315,مفهوم,sociology,explicit,review-candidate,,845,content/en/instruments/ins-content-analysis-method.md
 ins-death-attitude-profile,INS-0003,أداة قياس,psychology,explicit,review-candidate,,923,content/en/instruments/ins-death-attitude-profile.md
 ins-gad7,INS-0005,أداة قياس,psychology,explicit,review-candidate,,978,content/en/instruments/ins-gad7.md
 ins-mlq,INS-0002,أداة قياس,psychology,explicit,review-candidate,,915,content/en/instruments/ins-mlq.md
 ins-stai,INS-0001,أداة قياس,psychology,explicit,review-candidate,,930,content/en/instruments/ins-stai.md
 ins-tas20,INS-0004,أداة قياس,psychology,explicit,review-candidate,,927,content/en/instruments/ins-tas20.md
-met-sisyphus-camus,MET-0001,استعارة/مجاز مؤسِّس,unclassified,none,review-candidate,part-not-explicit,1015,content/en/metaphors/met-sisyphus-camus.md
-que-what-is-authentic-existence,QUE-0001,سؤال مولِّد,unclassified,none,review-candidate,part-not-explicit,946,content/en/questions/que-what-is-authentic-existence.md
-rel-act,REL-0119,علاقة بين مدرستين,unclassified,none,review-candidate,part-not-explicit,1103,content/en/relations/rel-act.md
-rel-humanistic,REL-0120,علاقة بين مدرستين,unclassified,none,review-candidate,part-not-explicit,1060,content/en/relations/rel-humanistic.md
-rel-phenopath,REL-0121,علاقة بين مدرستين,unclassified,none,review-candidate,part-not-explicit,1063,content/en/relations/rel-phenopath.md
-rel-psychoanalysis,REL-0122,علاقة بين مدرستين,unclassified,none,review-candidate,part-not-explicit,1049,content/en/relations/rel-psychoanalysis.md
-sch-applied-anthropology-development,SCH-13221,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,983,content/en/schools/sch-applied-anthropology-development.md
-sch-applied-anthropology-expanded,SCH-12386,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1057,content/en/schools/sch-applied-anthropology-expanded.md
-sch-british-functionalism,SCH-13229,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1071,content/en/schools/sch-british-functionalism.md
+met-sisyphus-camus,MET-0001,استعارة/مجاز مؤسِّس,philosophy,explicit,review-candidate,,1015,content/en/metaphors/met-sisyphus-camus.md
+que-what-is-authentic-existence,QUE-0001,سؤال مولِّد,philosophy,explicit,review-candidate,,946,content/en/questions/que-what-is-authentic-existence.md
+rel-act,REL-0119,علاقة بين مدرستين,philosophy,explicit,review-candidate,,1103,content/en/relations/rel-act.md
+rel-humanistic,REL-0120,علاقة بين مدرستين,philosophy,explicit,review-candidate,,1060,content/en/relations/rel-humanistic.md
+rel-phenopath,REL-0121,علاقة بين مدرستين,philosophy,explicit,review-candidate,,1063,content/en/relations/rel-phenopath.md
+rel-psychoanalysis,REL-0122,علاقة بين مدرستين,philosophy,explicit,review-candidate,,1049,content/en/relations/rel-psychoanalysis.md
+sch-applied-anthropology-development,SCH-13221,مدرسة,anthropology,explicit,review-candidate,,983,content/en/schools/sch-applied-anthropology-development.md
+sch-applied-anthropology-expanded,SCH-12386,مدرسة,anthropology,explicit,review-candidate,,1057,content/en/schools/sch-applied-anthropology-expanded.md
+sch-british-functionalism,SCH-13229,مدرسة,anthropology,explicit,review-candidate,,1071,content/en/schools/sch-british-functionalism.md
 sch-chicago-urban-ecology-english,SOC-14006,مدرسة,sociology,explicit,draft-pending,pending,1049,content/en/schools/sch-chicago-urban-ecology-english.md
 sch-comtean-positivism,SCH-0930,مدرسة,sociology,explicit,draft-pending,pending,1003,content/en/schools/sch-comtean-positivism.md
 sch-conversation-analysis,SCH-0929,تيار,sociology,explicit,review-candidate,,940,content/en/schools/sch-conversation-analysis.md
-sch-digital-anthropology,SCH-1132,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,993,content/en/schools/sch-digital-anthropology.md
+sch-digital-anthropology,SCH-1132,مدرسة,anthropology,explicit,review-candidate,,993,content/en/schools/sch-digital-anthropology.md
 sch-durkheimian-structural-functionalism,SCH-0933,مدرسة,sociology,explicit,draft-pending,pending,1052,content/en/schools/sch-durkheimian-structural-functionalism.md
-sch-economic-anthropology-expanded,SCH-12382,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,928,content/en/schools/sch-economic-anthropology-expanded.md
-sch-feminist-anthropology,SCH-1105,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1092,content/en/schools/sch-feminist-anthropology.md
+sch-economic-anthropology-expanded,SCH-12382,مدرسة,anthropology,explicit,review-candidate,,928,content/en/schools/sch-economic-anthropology-expanded.md
+sch-feminist-anthropology,SCH-1105,مدرسة,anthropology,explicit,review-candidate,,1092,content/en/schools/sch-feminist-anthropology.md
 sch-goffmanian-dramaturgical-english,SOC-14008,مدرسة,sociology,explicit,draft-pending,pending,1069,content/en/schools/sch-goffmanian-dramaturgical-english.md
-sch-linguistic-anthropology-expanded,SCH-12385,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1005,content/en/schools/sch-linguistic-anthropology-expanded.md
+sch-linguistic-anthropology-expanded,SCH-12385,مدرسة,anthropology,explicit,review-candidate,,1005,content/en/schools/sch-linguistic-anthropology-expanded.md
 sch-marxist-classical-sociology,SCH-0932,مدرسة,sociology,explicit,draft-pending,pending,1044,content/en/schools/sch-marxist-classical-sociology.md
-sch-medical-anthropology,SCH-1112,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1182,content/en/schools/sch-medical-anthropology.md
+sch-medical-anthropology,SCH-1112,مدرسة,anthropology,explicit,review-candidate,,1182,content/en/schools/sch-medical-anthropology.md
 sch-parsonian-structural-functionalism-agil,SCH-0970,مدرسة,sociology,explicit,draft-pending,pending,987,content/en/schools/sch-parsonian-structural-functionalism-agil.md
-sch-psychological-anthropology,SCH-1115,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1072,content/en/schools/sch-psychological-anthropology.md
-sch-queer-anthropology,SCH-13093,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,973,content/en/schools/sch-queer-anthropology.md
+sch-psychological-anthropology,SCH-1115,مدرسة,anthropology,explicit,review-candidate,,1072,content/en/schools/sch-psychological-anthropology.md
+sch-queer-anthropology,SCH-13093,مدرسة,anthropology,explicit,review-candidate,,973,content/en/schools/sch-queer-anthropology.md
 sch-simmelian-formal-sociology,SCH-0939,مدرسة,sociology,explicit,draft-pending,pending,1020,content/en/schools/sch-simmelian-formal-sociology.md
-sch-sociology-school-11,SOC-14010,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-11.md
-sch-sociology-school-12,SOC-14011,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-12.md
-sch-sociology-school-13,SOC-14012,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-13.md
-sch-sociology-school-14,SOC-14013,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-14.md
-sch-sociology-school-15,SOC-14014,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-15.md
-sch-sociology-school-16,SOC-14015,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-16.md
-sch-sociology-school-17,SOC-14016,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-17.md
-sch-sociology-school-18,SOC-14017,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-18.md
-sch-sociology-school-19,SOC-14018,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-19.md
-sch-sociology-school-20,SOC-14019,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-20.md
-sch-sociology-school-21,SOC-14020,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-21.md
-sch-sociology-school-22,SOC-14021,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-22.md
-sch-sociology-school-23,SOC-14022,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-23.md
-sch-sociology-school-24,SOC-14023,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-24.md
-sch-sociology-school-25,SOC-14024,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-25.md
-sch-sociology-school-26,SOC-14025,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-26.md
-sch-sociology-school-27,SOC-14026,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-27.md
-sch-sociology-school-28,SOC-14027,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-28.md
-sch-sociology-school-29,SOC-14028,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-29.md
-sch-sociology-school-30,SOC-14029,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-30.md
-sch-sociology-school-31,SOC-14030,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-31.md
-sch-sociology-school-32,SOC-14031,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-32.md
-sch-sociology-school-33,SOC-14032,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-33.md
-sch-sociology-school-34,SOC-14033,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-34.md
-sch-sociology-school-35,SOC-14034,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-35.md
-sch-sociology-school-36,SOC-14035,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-36.md
-sch-sociology-school-37,SOC-14036,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-37.md
-sch-sociology-school-38,SOC-14037,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-38.md
-sch-sociology-school-39,SOC-14038,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-39.md
-sch-sociology-school-40,SOC-14039,مدرسة,sociology,explicit,draft-pending,pending,1190,content/en/schools/sch-sociology-school-40.md
 sch-spencerian-evolutionism-english,SOC-14001,مدرسة,sociology,explicit,draft-pending,pending,1034,content/en/schools/sch-spencerian-evolutionism-english.md
 sch-symbolic-interactionism-english,SOC-14007,مدرسة,sociology,explicit,draft-pending,pending,1023,content/en/schools/sch-symbolic-interactionism-english.md
-sch-urban-anthropology-expanded,SCH-12384,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1087,content/en/schools/sch-urban-anthropology-expanded.md
+sch-urban-anthropology-expanded,SCH-12384,مدرسة,anthropology,explicit,review-candidate,,1087,content/en/schools/sch-urban-anthropology-expanded.md
 sch-weberian-verstehen-english,SOC-14004,مدرسة,sociology,explicit,draft-pending,pending,1023,content/en/schools/sch-weberian-verstehen-english.md
-scl-aging-anthropology,ANT-13053,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,974,content/en/schools/scl-aging-anthropology.md
-scl-archaeology-anthropology,ANT-13041,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1004,content/en/schools/scl-archaeology-anthropology.md
-scl-biocultural-anthropology,ANT-13282,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1014,content/en/schools/scl-biocultural-anthropology.md
-scl-childhood-anthropology,ANT-13051,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1010,content/en/schools/scl-childhood-anthropology.md
-scl-cognitive-anthropology,ANT-13042,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1066,content/en/schools/scl-cognitive-anthropology.md
-scl-colonial-anthropology,ANT-13056,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,984,content/en/schools/scl-colonial-anthropology.md
-scl-ecological-anthropology,ANT-13003,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1153,content/en/schools/scl-ecological-anthropology.md
-scl-education-anthropology,ANT-13283,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1026,content/en/schools/scl-education-anthropology.md
-scl-environmental-anthropology,ANT-13048,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1080,content/en/schools/scl-environmental-anthropology.md
-scl-ethnoarchaeology,ANT-13280,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,981,content/en/schools/scl-ethnoarchaeology.md
-scl-ethnoastronomy,ANT-13277,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,896,content/en/schools/scl-ethnoastronomy.md
-scl-ethnobiology,ANT-13279,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,944,content/en/schools/scl-ethnobiology.md
-scl-ethnobotany,ANT-13275,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,968,content/en/schools/scl-ethnobotany.md
-scl-ethnoecology,ANT-13276,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,910,content/en/schools/scl-ethnoecology.md
-scl-ethnomedicine,ANT-13278,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1068,content/en/schools/scl-ethnomedicine.md
-scl-foodways-anthropology,ANT-13052,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1028,content/en/schools/scl-foodways-anthropology.md
-scl-forensic-anthropology,ANT-13281,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1025,content/en/schools/scl-forensic-anthropology.md
-scl-historical-anthropology,ANT-13044,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,989,content/en/schools/scl-historical-anthropology.md
-scl-indigenous-anthropology,ANT-13058,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1004,content/en/schools/scl-indigenous-anthropology.md
-scl-internet-anthropology,ANT-13288,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,969,content/en/schools/scl-internet-anthropology.md
-scl-kinship-anthropology,ANT-13040,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1021,content/en/schools/scl-kinship-anthropology.md
-scl-maritime-anthropology,ANT-13047,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1040,content/en/schools/scl-maritime-anthropology.md
-scl-media-anthropology,ANT-13287,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,977,content/en/schools/scl-media-anthropology.md
-scl-migration-anthropology,ANT-13050,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,955,content/en/schools/scl-migration-anthropology.md
-scl-postcolonial-anthropology,ANT-13057,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1040,content/en/schools/scl-postcolonial-anthropology.md
-scl-postmodern-anthropology,ANT-13009,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1099,content/en/schools/scl-postmodern-anthropology.md
-scl-religious-anthropology,ANT-13049,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1094,content/en/schools/scl-religious-anthropology.md
-scl-sports-anthropology,ANT-13286,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,949,content/en/schools/scl-sports-anthropology.md
-scl-structural-anthropology,ANT-13000,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1143,content/en/schools/scl-structural-anthropology.md
-scl-tourism-anthropology,ANT-13285,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,1030,content/en/schools/scl-tourism-anthropology.md
-scl-visual-anthropology,ANT-13043,مدرسة,anthropology,crumb,review-candidate,part-not-explicit,953,content/en/schools/scl-visual-anthropology.md
+scl-aging-anthropology,ANT-13053,مدرسة,anthropology,explicit,review-candidate,,974,content/en/schools/scl-aging-anthropology.md
+scl-archaeology-anthropology,ANT-13041,مدرسة,anthropology,explicit,review-candidate,,1004,content/en/schools/scl-archaeology-anthropology.md
+scl-biocultural-anthropology,ANT-13282,مدرسة,anthropology,explicit,review-candidate,,1014,content/en/schools/scl-biocultural-anthropology.md
+scl-childhood-anthropology,ANT-13051,مدرسة,anthropology,explicit,review-candidate,,1010,content/en/schools/scl-childhood-anthropology.md
+scl-cognitive-anthropology,ANT-13042,مدرسة,anthropology,explicit,review-candidate,,1066,content/en/schools/scl-cognitive-anthropology.md
+scl-colonial-anthropology,ANT-13056,مدرسة,anthropology,explicit,review-candidate,,984,content/en/schools/scl-colonial-anthropology.md
+scl-ecological-anthropology,ANT-13003,مدرسة,anthropology,explicit,review-candidate,,1153,content/en/schools/scl-ecological-anthropology.md
+scl-education-anthropology,ANT-13283,مدرسة,anthropology,explicit,review-candidate,,1026,content/en/schools/scl-education-anthropology.md
+scl-environmental-anthropology,ANT-13048,مدرسة,anthropology,explicit,review-candidate,,1080,content/en/schools/scl-environmental-anthropology.md
+scl-ethnoarchaeology,ANT-13280,مدرسة,anthropology,explicit,review-candidate,,981,content/en/schools/scl-ethnoarchaeology.md
+scl-ethnoastronomy,ANT-13277,مدرسة,anthropology,explicit,review-candidate,,896,content/en/schools/scl-ethnoastronomy.md
+scl-ethnobiology,ANT-13279,مدرسة,anthropology,explicit,review-candidate,,944,content/en/schools/scl-ethnobiology.md
+scl-ethnobotany,ANT-13275,مدرسة,anthropology,explicit,review-candidate,,968,content/en/schools/scl-ethnobotany.md
+scl-ethnoecology,ANT-13276,مدرسة,anthropology,explicit,review-candidate,,910,content/en/schools/scl-ethnoecology.md
+scl-ethnomedicine,ANT-13278,مدرسة,anthropology,explicit,review-candidate,,1068,content/en/schools/scl-ethnomedicine.md
+scl-foodways-anthropology,ANT-13052,مدرسة,anthropology,explicit,review-candidate,,1028,content/en/schools/scl-foodways-anthropology.md
+scl-forensic-anthropology,ANT-13281,مدرسة,anthropology,explicit,review-candidate,,1025,content/en/schools/scl-forensic-anthropology.md
+scl-historical-anthropology,ANT-13044,مدرسة,anthropology,explicit,review-candidate,,989,content/en/schools/scl-historical-anthropology.md
+scl-indigenous-anthropology,ANT-13058,مدرسة,anthropology,explicit,review-candidate,,1004,content/en/schools/scl-indigenous-anthropology.md
+scl-internet-anthropology,ANT-13288,مدرسة,anthropology,explicit,review-candidate,,969,content/en/schools/scl-internet-anthropology.md
+scl-kinship-anthropology,ANT-13040,مدرسة,anthropology,explicit,review-candidate,,1021,content/en/schools/scl-kinship-anthropology.md
+scl-maritime-anthropology,ANT-13047,مدرسة,anthropology,explicit,review-candidate,,1040,content/en/schools/scl-maritime-anthropology.md
+scl-media-anthropology,ANT-13287,مدرسة,anthropology,explicit,review-candidate,,977,content/en/schools/scl-media-anthropology.md
+scl-migration-anthropology,ANT-13050,مدرسة,anthropology,explicit,review-candidate,,955,content/en/schools/scl-migration-anthropology.md
+scl-postcolonial-anthropology,ANT-13057,مدرسة,anthropology,explicit,review-candidate,,1040,content/en/schools/scl-postcolonial-anthropology.md
+scl-postmodern-anthropology,ANT-13009,مدرسة,anthropology,explicit,review-candidate,,1099,content/en/schools/scl-postmodern-anthropology.md
+scl-religious-anthropology,ANT-13049,مدرسة,anthropology,explicit,review-candidate,,1094,content/en/schools/scl-religious-anthropology.md
+scl-sports-anthropology,ANT-13286,مدرسة,anthropology,explicit,review-candidate,,949,content/en/schools/scl-sports-anthropology.md
+scl-structural-anthropology,ANT-13000,مدرسة,anthropology,explicit,review-candidate,,1143,content/en/schools/scl-structural-anthropology.md
+scl-tourism-anthropology,ANT-13285,مدرسة,anthropology,explicit,review-candidate,,1030,content/en/schools/scl-tourism-anthropology.md
+scl-visual-anthropology,ANT-13043,مدرسة,anthropology,explicit,review-candidate,,953,content/en/schools/scl-visual-anthropology.md
 stu-african-initiation-rituals,STU-0021,دراسة,anthropology,explicit,review-candidate,,1220,content/en/studies/stu-african-initiation-rituals.md
 stu-african-political-systems,STU-0006,دراسة,anthropology,explicit,review-candidate,,1829,content/en/studies/stu-african-political-systems.md
 stu-among-schoolchildren,SOC-14483,دراسة,sociology,explicit,review-candidate,,1041,content/en/studies/stu-among-schoolchildren.md
 stu-argonauts-western-pacific,STU-0005,دراسة,anthropology,explicit,review-candidate,,1672,content/en/studies/stu-argonauts-western-pacific.md
 stu-asad-morocco-fieldwork,STU-0017,دراسة,anthropology,explicit,review-candidate,,1313,content/en/studies/stu-asad-morocco-fieldwork.md
 stu-balinese-theater-geertz,STU-0014,دراسة,anthropology,explicit,review-candidate,,1544,content/en/studies/stu-balinese-theater-geertz.md
-stu-black-metropolis,SOC-14465,دراسة,sociology,explicit,draft-pending,pending,889,content/en/studies/stu-black-metropolis.md
+stu-black-metropolis,SOC-14465,دراسة,sociology,explicit,review-candidate,,889,content/en/studies/stu-black-metropolis.md
 stu-boas-ethnographic-methods,STU-0020,دراسة,anthropology,explicit,review-candidate,,1277,content/en/studies/stu-boas-ethnographic-methods.md
 stu-bowling-alone-studies,SOC-14470,دراسة,sociology,explicit,review-candidate,,1119,content/en/studies/stu-bowling-alone-studies.md
-stu-breitbart-mcp-rct,STU-0003,دراسة وبحث,unclassified,none,review-candidate,part-not-explicit,1127,content/en/studies/stu-breitbart-mcp-rct.md
+stu-breitbart-mcp-rct,STU-0003,دراسة وبحث,psychology,explicit,review-candidate,,1127,content/en/studies/stu-breitbart-mcp-rct.md
 stu-children-and-society,SOC-14481,دراسة,sociology,explicit,review-candidate,,1054,content/en/studies/stu-children-and-society.md
 stu-deep-south,SOC-14464,دراسة,sociology,explicit,review-candidate,,1037,content/en/studies/stu-deep-south.md
-stu-dream-hoarders,SOC-14477,دراسة,sociology,explicit,draft-pending,pending,956,content/en/studies/stu-dream-hoarders.md
+stu-dream-hoarders,SOC-14477,دراسة,sociology,explicit,review-candidate,,956,content/en/studies/stu-dream-hoarders.md
 stu-dumont-south-asian-kinship,STU-0019,دراسة,anthropology,explicit,review-candidate,,1185,content/en/studies/stu-dumont-south-asian-kinship.md
-stu-ekman-original-facial,STU-0004,دراسة وبحث,unclassified,none,review-candidate,part-not-explicit,1201,content/en/studies/stu-ekman-original-facial.md
-stu-evans-pritchard-the-nuer,STU-1103,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1550,content/en/studies/stu-evans-pritchard-the-nuer.md
+stu-ekman-original-facial,STU-0004,دراسة وبحث,psychology,explicit,review-candidate,,1201,content/en/studies/stu-ekman-original-facial.md
+stu-evans-pritchard-the-nuer,STU-1103,عمل / كتاب,anthropology,explicit,review-candidate,,1550,content/en/studies/stu-evans-pritchard-the-nuer.md
 stu-evicted,SOC-14468,دراسة,sociology,explicit,review-candidate,,1062,content/en/studies/stu-evicted.md
-stu-factory-girls,SOC-14488,دراسة,sociology,explicit,draft-pending,pending,952,content/en/studies/stu-factory-girls.md
+stu-factory-girls,SOC-14488,دراسة,sociology,explicit,review-candidate,,952,content/en/studies/stu-factory-girls.md
 stu-fortes-tallensi-descent,STU-0013,دراسة,anthropology,explicit,review-candidate,,1713,content/en/studies/stu-fortes-tallensi-descent.md
 stu-gang-leader-for-a-day,SOC-14467,دراسة,sociology,explicit,review-candidate,,1111,content/en/studies/stu-gang-leader-for-a-day.md
-stu-geertz-balinese-cockfight,STU-1107,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1028,content/en/studies/stu-geertz-balinese-cockfight.md
+stu-geertz-balinese-cockfight,STU-1107,عمل / كتاب,anthropology,explicit,review-candidate,,1028,content/en/studies/stu-geertz-balinese-cockfight.md
 stu-hillbilly-elegy,SOC-14478,دراسة,sociology,explicit,review-candidate,,1029,content/en/studies/stu-hillbilly-elegy.md
-stu-himba-facial,STU-0001,دراسة وبحث,unclassified,none,review-candidate,part-not-explicit,1165,content/en/studies/stu-himba-facial.md
+stu-himba-facial,STU-0001,دراسة وبحث,psychology,explicit,review-candidate,,1165,content/en/studies/stu-himba-facial.md
 stu-indigenous-community-based-research,STU-0025,دراسة,anthropology,explicit,review-candidate,,1103,content/en/studies/stu-indigenous-community-based-research.md
 stu-interpretation-of-cultures-geertz,STU-0009,دراسة,anthropology,explicit,review-candidate,,2029,content/en/studies/stu-interpretation-of-cultures-geertz.md
 stu-killers-of-the-flower-moon,SOC-14479,دراسة,sociology,explicit,review-candidate,,1094,content/en/studies/stu-killers-of-the-flower-moon.md
 stu-labor-migration-ethnography,STU-0015,دراسة,anthropology,explicit,review-candidate,,1558,content/en/studies/stu-labor-migration-ethnography.md
 stu-leach-kachin-kinship,STU-0012,دراسة,anthropology,explicit,review-candidate,,1734,content/en/studies/stu-leach-kachin-kinship.md
-stu-leach-political-systems-highlands-burma,STU-1278,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1521,content/en/studies/stu-leach-political-systems-highlands-burma.md
+stu-leach-political-systems-highlands-burma,STU-1278,عمل / كتاب,anthropology,explicit,review-candidate,,1521,content/en/studies/stu-leach-political-systems-highlands-burma.md
 stu-melanesian-cosmology,STU-0022,دراسة,anthropology,explicit,review-candidate,,1060,content/en/studies/stu-melanesian-cosmology.md
 stu-middletown,SOC-14461,دراسة,sociology,explicit,review-candidate,,1035,content/en/studies/stu-middletown.md
 stu-moka-exchange-strathern,STU-0010,دراسة,anthropology,explicit,review-candidate,,1934,content/en/studies/stu-moka-exchange-strathern.md
@@ -649,289 +619,289 @@ stu-pinned-down,SOC-14474,دراسة,sociology,explicit,review-candidate,,1000,c
 stu-potlatch-kwakwakawakw,STU-0011,دراسة,anthropology,explicit,review-candidate,,1916,content/en/studies/stu-potlatch-kwakwakawakw.md
 stu-ritual-process-turner,STU-0008,دراسة,anthropology,explicit,review-candidate,,2124,content/en/studies/stu-ritual-process-turner.md
 stu-samoan-kinship-mead,STU-0018,دراسة,anthropology,explicit,review-candidate,,1201,content/en/studies/stu-samoan-kinship-mead.md
-stu-schoolyard-stories,SOC-14482,دراسة,sociology,explicit,draft-pending,pending;short,24,content/en/studies/stu-schoolyard-stories.md
+stu-schoolyard-stories,SOC-14482,دراسة,sociology,explicit,draft-pending,pending;short,26,content/en/studies/stu-schoolyard-stories.md
 stu-squeezed,SOC-14475,دراسة,sociology,explicit,review-candidate,,1026,content/en/studies/stu-squeezed.md
 stu-strangers-in-their-own-land,SOC-14472,دراسة,sociology,explicit,review-candidate,,1097,content/en/studies/stu-strangers-in-their-own-land.md
-stu-suburban-dreams,SOC-14487,دراسة,sociology,explicit,draft-pending,pending;short,25,content/en/studies/stu-suburban-dreams.md
-stu-terror-management-theory,STU-0002,دراسة وبحث,unclassified,none,review-candidate,part-not-explicit,1193,content/en/studies/stu-terror-management-theory.md
+stu-suburban-dreams,SOC-14487,دراسة,sociology,explicit,draft-pending,pending;short,26,content/en/studies/stu-suburban-dreams.md
+stu-terror-management-theory,STU-0002,دراسة وبحث,psychology,explicit,review-candidate,,1193,content/en/studies/stu-terror-management-theory.md
 stu-thai-market-ethnography,STU-0023,دراسة,anthropology,explicit,review-candidate,,1119,content/en/studies/stu-thai-market-ethnography.md
 stu-thai-spirit-possession,STU-0016,دراسة,anthropology,explicit,review-candidate,,1393,content/en/studies/stu-thai-spirit-possession.md
 stu-the-code-of-the-streets,SOC-14484,دراسة,sociology,explicit,review-candidate,,1041,content/en/studies/stu-the-code-of-the-streets.md
 stu-the-crack-era,SOC-14466,دراسة,sociology,explicit,review-candidate,,1061,content/en/studies/stu-the-crack-era.md
-stu-the-dignity-deficit,SOC-14480,دراسة,sociology,explicit,draft-pending,pending;short,26,content/en/studies/stu-the-dignity-deficit.md
-stu-the-levittowners,SOC-14486,دراسة,sociology,explicit,draft-pending,pending,866,content/en/studies/stu-the-levittowners.md
-stu-the-meritocracy-trap,SOC-14476,دراسة,sociology,explicit,draft-pending,pending,907,content/en/studies/stu-the-meritocracy-trap.md
+stu-the-dignity-deficit,SOC-14480,دراسة,sociology,explicit,draft-pending,pending;short,28,content/en/studies/stu-the-dignity-deficit.md
+stu-the-levittowners,SOC-14486,دراسة,sociology,explicit,review-candidate,,866,content/en/studies/stu-the-levittowners.md
+stu-the-meritocracy-trap,SOC-14476,دراسة,sociology,explicit,review-candidate,,907,content/en/studies/stu-the-meritocracy-trap.md
 stu-the-polish-peasant,SOC-14460,دراسة,sociology,explicit,review-candidate,,1102,content/en/studies/stu-the-polish-peasant.md
-stu-the-second-shift,SOC-14473,دراسة,sociology,explicit,draft-pending,pending,920,content/en/studies/stu-the-second-shift.md
-stu-the-second-shift-in-china,SOC-14489,دراسة,sociology,explicit,draft-pending,pending;short,32,content/en/studies/stu-the-second-shift-in-china.md
+stu-the-second-shift,SOC-14473,دراسة,sociology,explicit,review-candidate,,920,content/en/studies/stu-the-second-shift.md
+stu-the-second-shift-in-china,SOC-14489,دراسة,sociology,explicit,draft-pending,pending;short,33,content/en/studies/stu-the-second-shift-in-china.md
 stu-the-unwinding,SOC-14471,دراسة,sociology,explicit,review-candidate,,985,content/en/studies/stu-the-unwinding.md
 stu-tonga-kinship-gifford,STU-0024,دراسة,anthropology,explicit,review-candidate,,826,content/en/studies/stu-tonga-kinship-gifford.md
-stu-turner-schism-continuity,STU-1106,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,880,content/en/studies/stu-turner-schism-continuity.md
-stu-urban-villagers,SOC-14485,دراسة,sociology,explicit,draft-pending,pending,884,content/en/studies/stu-urban-villagers.md
+stu-turner-schism-continuity,STU-1106,عمل / كتاب,anthropology,explicit,review-candidate,,880,content/en/studies/stu-turner-schism-continuity.md
+stu-urban-villagers,SOC-14485,دراسة,sociology,explicit,review-candidate,,884,content/en/studies/stu-urban-villagers.md
 stu-whyte-street-corner-society,STU-1271,عمل,sociology,explicit,draft-pending,pending,1076,content/en/studies/stu-whyte-street-corner-society.md
 stu-yankee-city,SOC-14463,دراسة,sociology,explicit,review-candidate,,1100,content/en/studies/stu-yankee-city.md
 stu-yanomami-ethnography-chagnon,STU-0026,دراسة,anthropology,explicit,review-candidate,,1083,content/en/studies/stu-yanomami-ethnography-chagnon.md
-syn-survivor-guilt-syndrome,SYN-0001,متلازمة,unclassified,none,review-candidate,part-not-explicit,1054,content/en/syndromes/syn-survivor-guilt-syndrome.md
+syn-survivor-guilt-syndrome,SYN-0001,متلازمة,psychology,explicit,review-candidate,,1054,content/en/syndromes/syn-survivor-guilt-syndrome.md
 tec-art-expression,TEC-0207,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,1010,content/en/techniques/tec-art-expression.md
 tec-clinical-supervision,TEC-0218,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,992,content/en/techniques/tec-clinical-supervision.md
 tec-cognitive-reappraisal,TEC-0001,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,993,content/en/techniques/tec-cognitive-reappraisal.md
 tec-couples-dialogue,TEC-0216,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,1044,content/en/techniques/tec-couples-dialogue.md
 tec-dream-analysis,TEC-0204,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,1028,content/en/techniques/tec-dream-analysis.md
-tec-empty-chair,TEC-0202,تقنية/تدخل علاجي,Psychotherapy,explicit,review-candidate,,913,content/en/techniques/tec-empty-chair.md
-tec-existential-dialogue,TEC-0201,تقنية/تدخل علاجي,Psychotherapy,explicit,review-candidate,,917,content/en/techniques/tec-existential-dialogue.md
+tec-empty-chair,TEC-0202,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,913,content/en/techniques/tec-empty-chair.md
+tec-existential-dialogue,TEC-0201,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,917,content/en/techniques/tec-existential-dialogue.md
 tec-family-constellation,TEC-0217,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,980,content/en/techniques/tec-family-constellation.md
 tec-group-therapy,TEC-0215,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,968,content/en/techniques/tec-group-therapy.md
-tec-logotherapy,TEC-0206,تقنية/تدخل علاجي,Psychotherapy,explicit,review-candidate,,894,content/en/techniques/tec-logotherapy.md
+tec-logotherapy,TEC-0206,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,894,content/en/techniques/tec-logotherapy.md
 tec-meaning-centered-psychotherapy,TEC-0004,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,1009,content/en/techniques/tec-meaning-centered-psychotherapy.md
-tec-mindfulness-practice,TEC-0209,تقنية/تدخل علاجي,Psychotherapy,explicit,review-candidate,,948,content/en/techniques/tec-mindfulness-practice.md
-tec-motivational-interviewing,TEC-0212,تقنية/تدخل علاجي,Psychotherapy,explicit,review-candidate,,886,content/en/techniques/tec-motivational-interviewing.md
+tec-mindfulness-practice,TEC-0209,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,948,content/en/techniques/tec-mindfulness-practice.md
+tec-motivational-interviewing,TEC-0212,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,886,content/en/techniques/tec-motivational-interviewing.md
 tec-narrative-therapy,TEC-0211,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,992,content/en/techniques/tec-narrative-therapy.md
-tec-outcome-measurement,TEC-0220,تقنية/تدخل علاجي,Psychotherapy,explicit,review-candidate,,954,content/en/techniques/tec-outcome-measurement.md
+tec-outcome-measurement,TEC-0220,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,954,content/en/techniques/tec-outcome-measurement.md
 tec-paradoxical-intention,TEC-0002,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,990,content/en/techniques/tec-paradoxical-intention.md
 tec-phenomenological-exploration,TEC-0003,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,1126,content/en/techniques/tec-phenomenological-exploration.md
 tec-play-therapy,TEC-0208,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,979,content/en/techniques/tec-play-therapy.md
 tec-psychodrama,TEC-0203,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,944,content/en/techniques/tec-psychodrama.md
 tec-psychological-assessment,TEC-0219,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,1046,content/en/techniques/tec-psychological-assessment.md
 tec-socratic-existential-dialogue,TEC-0005,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,946,content/en/techniques/tec-socratic-existential-dialogue.md
-tec-somatic-approaches,TEC-0210,تقنية/تدخل علاجي,Psychotherapy,explicit,review-candidate,,902,content/en/techniques/tec-somatic-approaches.md
-tec-systemic-exploration,TEC-0214,تقنية/تدخل علاجي,Psychotherapy,explicit,review-candidate,,936,content/en/techniques/tec-systemic-exploration.md
-tec-trauma-informed-care,TEC-0213,تقنية/تدخل علاجي,Psychotherapy,explicit,review-candidate,,967,content/en/techniques/tec-trauma-informed-care.md
-thk-abdalla-salem,ANT-13255,مفكر,anthropology,crumb,placeholder,part-not-explicit;placeholder;short,31,content/en/thinkers/thk-abdalla-salem.md
-thk-aihwa-ong,ANT-13083,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1021,content/en/thinkers/thk-aihwa-ong.md
-thk-akira-fujii,ANT-13252,مفكر,anthropology,crumb,placeholder,part-not-explicit;placeholder;short,18,content/en/thinkers/thk-akira-fujii.md
-thk-alfred-kroeber,ANT-13067,مفكر,anthropology,crumb,review-candidate,part-not-explicit,916,content/en/thinkers/thk-alfred-kroeber.md
-thk-ali-shariati,SOC-14149,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-ali-shariati.md
-thk-alwardi,THK-6447,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-alwardi.md
-thk-angel,THK-0322,مفكر,unclassified,none,draft-short,part-not-explicit;short,73,content/en/thinkers/thk-angel.md
-thk-anna-tsing,ANT-13086,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1086,content/en/thinkers/thk-anna-tsing.md
-thk-anouar-abdel-malek,SOC-14150,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-anouar-abdel-malek.md
-thk-anselm-strauss,THK-6531,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-anselm-strauss.md
-thk-anthony-giddens,SOC-14131,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-anthony-giddens.md
+tec-somatic-approaches,TEC-0210,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,902,content/en/techniques/tec-somatic-approaches.md
+tec-systemic-exploration,TEC-0214,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,936,content/en/techniques/tec-systemic-exploration.md
+tec-trauma-informed-care,TEC-0213,تقنية/تدخل علاجي,psychology,explicit,review-candidate,,967,content/en/techniques/tec-trauma-informed-care.md
+thk-abdalla-salem,ANT-13255,مفكر,anthropology,explicit,placeholder,placeholder;short,31,content/en/thinkers/thk-abdalla-salem.md
+thk-aihwa-ong,ANT-13083,مفكر,anthropology,explicit,review-candidate,,1021,content/en/thinkers/thk-aihwa-ong.md
+thk-akira-fujii,ANT-13252,مفكر,anthropology,explicit,placeholder,placeholder;short,18,content/en/thinkers/thk-akira-fujii.md
+thk-alfred-kroeber,ANT-13067,مفكر,anthropology,explicit,review-candidate,,916,content/en/thinkers/thk-alfred-kroeber.md
+thk-ali-shariati,SOC-14149,مفكر,sociology,explicit,draft-pending,pending,462,content/en/thinkers/thk-ali-shariati.md
+thk-alwardi,THK-6447,مفكر,sociology,explicit,draft-pending,pending,457,content/en/thinkers/thk-alwardi.md
+thk-angel,THK-0322,مفكر,psychology,explicit,draft-short,short,73,content/en/thinkers/thk-angel.md
+thk-anna-tsing,ANT-13086,مفكر,anthropology,explicit,review-candidate,,1086,content/en/thinkers/thk-anna-tsing.md
+thk-anouar-abdel-malek,SOC-14150,مفكر,sociology,explicit,draft-pending,pending,390,content/en/thinkers/thk-anouar-abdel-malek.md
+thk-anselm-strauss,THK-6531,مفكر,sociology,explicit,review-candidate,,544,content/en/thinkers/thk-anselm-strauss.md
+thk-anthony-giddens,SOC-14131,مفكر,sociology,explicit,draft-pending,pending,438,content/en/thinkers/thk-anthony-giddens.md
 thk-appadurai,THK-6388,مفكر,anthropology,explicit,review-candidate,,1563,content/en/thinkers/thk-appadurai.md
-thk-arnold-van-gennep,ANT-13064,مفكر,unclassified,none,review-candidate,part-not-explicit,2065,content/en/thinkers/thk-arnold-van-gennep.md
+thk-arnold-van-gennep,ANT-13064,مفكر,anthropology,explicit,review-candidate,,2065,content/en/thinkers/thk-arnold-van-gennep.md
 thk-arrian,THK-12568,مفكر,historiography,explicit,review-candidate,,723,content/en/thinkers/thk-arrian.md
-thk-audrey-richards,ANT-13077,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1020,content/en/thinkers/thk-audrey-richards.md
-thk-barbara-myerhoff,THK-8963,مفكر,unclassified,none,review-candidate,part-not-explicit,2575,content/en/thinkers/thk-barbara-myerhoff.md
-thk-barney-glaser,SOC-14118,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-barney-glaser.md
-thk-beauvoir,THK-0104,مفكر,unclassified,none,review-candidate,part-not-explicit,226,content/en/thinkers/thk-beauvoir.md
-thk-becker,THK-0308,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1056,content/en/thinkers/thk-becker.md
-thk-berdyaev,THK-0315,مفكر,unclassified,none,draft-short,part-not-explicit;short,108,content/en/thinkers/thk-berdyaev.md
-thk-bhooks,THK-0757,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-bhooks.md
-thk-biersack,ANT-13021,مفكر,unclassified,none,review-candidate,part-not-explicit,2235,content/en/thinkers/thk-biersack.md
-thk-binswanger,THK-0105,مفكر,unclassified,none,review-candidate,part-not-explicit,175,content/en/thinkers/thk-binswanger.md
-thk-blumer,THK-6440,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-blumer.md
-thk-boaventura-de-sousa-santos,SOC-14144,مفكر,sociology,explicit,draft-pending,pending,1098,content/en/thinkers/thk-boaventura-de-sousa-santos.md
-thk-boss,THK-0106,مفكر,unclassified,none,review-candidate,part-not-explicit,170,content/en/thinkers/thk-boss.md
-thk-bourdieu,THK-6377,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-bourdieu.md
-thk-buber,THK-0314,مفكر,philosophy,crumb,review-candidate,part-not-explicit,1091,content/en/thinkers/thk-buber.md
-thk-bugental,THK-0110,مفكر,unclassified,none,review-candidate,part-not-explicit,201,content/en/thinkers/thk-bugental.md
-thk-butler,THK-0799,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-butler.md
-thk-c-wright-mills,SOC-14125,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-c-wright-mills.md
-thk-camus,THK-0304,مفكر,unclassified,none,review-candidate,part-not-explicit,703,content/en/thinkers/thk-camus.md
-thk-carlos-castaneda,ANT-13258,مفكر,unclassified,none,review-candidate,part-not-explicit,1059,content/en/thinkers/thk-carlos-castaneda.md
-thk-charles-cooley,SOC-14109,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-charles-cooley.md
-thk-charles-tilly,SOC-14128,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-charles-tilly.md
+thk-audrey-richards,ANT-13077,مفكر,anthropology,explicit,review-candidate,,1020,content/en/thinkers/thk-audrey-richards.md
+thk-barbara-myerhoff,THK-8963,مفكر,anthropology,explicit,review-candidate,,2575,content/en/thinkers/thk-barbara-myerhoff.md
+thk-barney-glaser,SOC-14118,مفكر,sociology,explicit,draft-pending,pending,428,content/en/thinkers/thk-barney-glaser.md
+thk-beauvoir,THK-0104,مفكر,philosophy,explicit,review-candidate,,226,content/en/thinkers/thk-beauvoir.md
+thk-becker,THK-0308,مفكر,anthropology,explicit,review-candidate,,1056,content/en/thinkers/thk-becker.md
+thk-berdyaev,THK-0315,مفكر,philosophy,explicit,draft-short,short,108,content/en/thinkers/thk-berdyaev.md
+thk-bhooks,THK-0757,مفكر,sociology,explicit,draft-pending,pending,449,content/en/thinkers/thk-bhooks.md
+thk-biersack,ANT-13021,مفكر,anthropology,explicit,review-candidate,,2235,content/en/thinkers/thk-biersack.md
+thk-binswanger,THK-0105,مفكر,philosophy,explicit,review-candidate,,175,content/en/thinkers/thk-binswanger.md
+thk-blumer,THK-6440,مفكر,sociology,explicit,review-candidate,,469,content/en/thinkers/thk-blumer.md
+thk-boaventura-de-sousa-santos,SOC-14144,مفكر,sociology,explicit,draft-pending,pending,423,content/en/thinkers/thk-boaventura-de-sousa-santos.md
+thk-boss,THK-0106,مفكر,psychology,explicit,review-candidate,,170,content/en/thinkers/thk-boss.md
+thk-bourdieu,THK-6377,مفكر,sociology,explicit,draft-pending,pending,407,content/en/thinkers/thk-bourdieu.md
+thk-buber,THK-0314,مفكر,philosophy,explicit,review-candidate,,1091,content/en/thinkers/thk-buber.md
+thk-bugental,THK-0110,مفكر,psychology,explicit,review-candidate,,201,content/en/thinkers/thk-bugental.md
+thk-butler,THK-0799,مفكر,sociology,explicit,draft-pending,pending,427,content/en/thinkers/thk-butler.md
+thk-c-wright-mills,SOC-14125,مفكر,sociology,explicit,review-candidate,,476,content/en/thinkers/thk-c-wright-mills.md
+thk-camus,THK-0304,مفكر,philosophy,explicit,review-candidate,,703,content/en/thinkers/thk-camus.md
+thk-carlos-castaneda,ANT-13258,مفكر,psychology,explicit,review-candidate,,1059,content/en/thinkers/thk-carlos-castaneda.md
+thk-charles-cooley,SOC-14109,مفكر,sociology,explicit,draft-pending,pending,378,content/en/thinkers/thk-charles-cooley.md
+thk-charles-tilly,SOC-14128,مفكر,sociology,explicit,draft-pending,pending,393,content/en/thinkers/thk-charles-tilly.md
 thk-claude-levi-strauss,THK-2315,مفكر,anthropology,explicit,review-candidate,,1415,content/en/thinkers/thk-claude-levi-strauss.md
-thk-clifford-geertz,THK-6560,مفكر,unclassified,none,review-candidate,part-not-explicit,2086,content/en/thinkers/thk-clifford-geertz.md
-thk-cohn,THK-0320,مفكر,unclassified,none,draft-short,part-not-explicit;short,69,content/en/thinkers/thk-cohn.md
-thk-coleman,THK-8560,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-coleman.md
-thk-comte,THK-0853,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-comte.md
-thk-cooper,THK-0118,مفكر,unclassified,none,draft-short,part-not-explicit;short,148,content/en/thinkers/thk-cooper.md
-thk-crenshaw,THK-0859,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-crenshaw.md
-thk-dahrendorf,THK-6469,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-dahrendorf.md
-thk-deepak-mehta,ANT-13254,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1066,content/en/thinkers/thk-deepak-mehta.md
-thk-dorothy-smith,SOC-14139,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-dorothy-smith.md
-thk-dostoevsky,THK-0312,مفكر,unclassified,none,draft-short,part-not-explicit;short,125,content/en/thinkers/thk-dostoevsky.md
-thk-durkheim,THK-6364,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-durkheim.md
-thk-edmund-leach,ANT-13073,مفكر,unclassified,none,review-candidate,part-not-explicit,2106,content/en/thinkers/thk-edmund-leach.md
-thk-edward-said,SOC-14146,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-edward-said.md
-thk-elizabeth-A-povinelli,ANT-13088,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1039,content/en/thinkers/thk-elizabeth-A-povinelli.md
-thk-ellenberger,THK-0323,مفكر,unclassified,none,draft-short,part-not-explicit;short,86,content/en/thinkers/thk-ellenberger.md
+thk-clifford-geertz,THK-6560,مفكر,anthropology,explicit,review-candidate,,2086,content/en/thinkers/thk-clifford-geertz.md
+thk-cohn,THK-0320,مفكر,philosophy,explicit,draft-short,short,69,content/en/thinkers/thk-cohn.md
+thk-coleman,THK-8560,مفكر,sociology,explicit,draft-pending,pending,423,content/en/thinkers/thk-coleman.md
+thk-comte,THK-0853,مفكر,sociology,explicit,review-candidate,,438,content/en/thinkers/thk-comte.md
+thk-cooper,THK-0118,مفكر,philosophy,explicit,draft-short,short,148,content/en/thinkers/thk-cooper.md
+thk-crenshaw,THK-0859,مفكر,sociology,explicit,draft-pending,pending,402,content/en/thinkers/thk-crenshaw.md
+thk-dahrendorf,THK-6469,مفكر,sociology,explicit,draft-pending,pending,428,content/en/thinkers/thk-dahrendorf.md
+thk-deepak-mehta,ANT-13254,مفكر,anthropology,explicit,review-candidate,,1066,content/en/thinkers/thk-deepak-mehta.md
+thk-dorothy-smith,SOC-14139,مفكر,sociology,explicit,draft-pending,pending,408,content/en/thinkers/thk-dorothy-smith.md
+thk-dostoevsky,THK-0312,مفكر,philosophy,explicit,draft-short,short,125,content/en/thinkers/thk-dostoevsky.md
+thk-durkheim,THK-6364,مفكر,sociology,explicit,review-candidate,,464,content/en/thinkers/thk-durkheim.md
+thk-edmund-leach,ANT-13073,مفكر,anthropology,explicit,review-candidate,,2106,content/en/thinkers/thk-edmund-leach.md
+thk-edward-said,SOC-14146,مفكر,sociology,explicit,draft-pending,pending,388,content/en/thinkers/thk-edward-said.md
+thk-elizabeth-A-povinelli,ANT-13088,مفكر,anthropology,explicit,review-candidate,,1039,content/en/thinkers/thk-elizabeth-A-povinelli.md
+thk-ellenberger,THK-0323,مفكر,psychology,explicit,draft-short,short,86,content/en/thinkers/thk-ellenberger.md
 thk-evans-pritchard,ANT-13059,مفكر,anthropology,explicit,review-candidate,,1532,content/en/thinkers/thk-evans-pritchard.md
-thk-fanon,THK-0431,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-fanon.md
-thk-fatima-mernissi,SOC-14152,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-fatima-mernissi.md
-thk-foucault,THK-2344,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-foucault.md
-thk-frankl,THK-0108,مفكر,unclassified,none,review-candidate,part-not-explicit,805,content/en/thinkers/thk-frankl.md
+thk-fanon,THK-0431,مفكر,sociology,explicit,draft-pending,pending,402,content/en/thinkers/thk-fanon.md
+thk-fatima-mernissi,SOC-14152,مفكر,sociology,explicit,draft-pending,pending,416,content/en/thinkers/thk-fatima-mernissi.md
+thk-foucault,THK-2344,مفكر,sociology,explicit,review-candidate,,482,content/en/thinkers/thk-foucault.md
+thk-frankl,THK-0108,مفكر,philosophy,explicit,review-candidate,,805,content/en/thinkers/thk-frankl.md
 thk-franz-boas,THK-6495,مفكر,anthropology,explicit,review-candidate,,1849,content/en/thinkers/thk-franz-boas.md
-thk-franz-steiner,ANT-13070,مفكر,anthropology,crumb,review-candidate,part-not-explicit,982,content/en/thinkers/thk-franz-steiner.md
-thk-gayatri-spivak,SOC-14147,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-gayatri-spivak.md
-thk-gbateson,THK-0628,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1089,content/en/thinkers/thk-gbateson.md
-thk-georg-homans,SOC-14121,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-georg-homans.md
-thk-george-herbert-mead,SOC-14110,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-george-herbert-mead.md
+thk-franz-steiner,ANT-13070,مفكر,anthropology,explicit,review-candidate,,982,content/en/thinkers/thk-franz-steiner.md
+thk-gayatri-spivak,SOC-14147,مفكر,sociology,explicit,draft-pending,pending,440,content/en/thinkers/thk-gayatri-spivak.md
+thk-gbateson,THK-0628,مفكر,anthropology,explicit,review-candidate,,1089,content/en/thinkers/thk-gbateson.md
+thk-georg-homans,SOC-14121,مفكر,sociology,explicit,draft-pending,pending,399,content/en/thinkers/thk-georg-homans.md
+thk-george-herbert-mead,SOC-14110,مفكر,sociology,explicit,draft-pending,pending,428,content/en/thinkers/thk-george-herbert-mead.md
 thk-george-marcus,ANT-13349,مفكر,anthropology,explicit,review-candidate,,1697,content/en/thinkers/thk-george-marcus.md
-thk-goffman,THK-6352,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-goffman.md
+thk-goffman,THK-6352,مفكر,sociology,explicit,review-candidate,,461,content/en/thinkers/thk-goffman.md
 thk-haraway,THK-1131,مفكر,anthropology,explicit,review-candidate,,1679,content/en/thinkers/thk-haraway.md
-thk-heidegger,THK-0102,مفكر,unclassified,none,review-candidate,part-not-explicit,224,content/en/thinkers/thk-heidegger.md
-thk-henrietta-moore,ANT-13079,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1018,content/en/thinkers/thk-henrietta-moore.md
-thk-hisham-sharabi,SOC-14151,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-hisham-sharabi.md
-thk-hochschild,THK-6520,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-hochschild.md
-thk-holzhey,THK-0116,مفكر,unclassified,none,review-candidate,part-not-explicit,152,content/en/thinkers/thk-holzhey.md
-thk-hortense-powdermaker,ANT-13068,مفكر,anthropology,crumb,review-candidate,part-not-explicit,985,content/en/thinkers/thk-hortense-powdermaker.md
-thk-howard-becker,THK-6382,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-howard-becker.md
-thk-husserl,THK-0301,مفكر,unclassified,none,review-candidate,part-not-explicit,262,content/en/thinkers/thk-husserl.md
-thk-ibn-khaldun,SOC-14108,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-ibn-khaldun.md
-thk-isak-dinesen,ANT-13249,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1009,content/en/thinkers/thk-isak-dinesen.md
+thk-heidegger,THK-0102,مفكر,psychology,explicit,review-candidate,,224,content/en/thinkers/thk-heidegger.md
+thk-henrietta-moore,ANT-13079,مفكر,anthropology,explicit,review-candidate,,1018,content/en/thinkers/thk-henrietta-moore.md
+thk-hisham-sharabi,SOC-14151,مفكر,sociology,explicit,draft-pending,pending,388,content/en/thinkers/thk-hisham-sharabi.md
+thk-hochschild,THK-6520,مفكر,sociology,explicit,draft-pending,pending,494,content/en/thinkers/thk-hochschild.md
+thk-holzhey,THK-0116,مفكر,philosophy,explicit,review-candidate,,152,content/en/thinkers/thk-holzhey.md
+thk-hortense-powdermaker,ANT-13068,مفكر,anthropology,explicit,review-candidate,,985,content/en/thinkers/thk-hortense-powdermaker.md
+thk-howard-becker,THK-6382,مفكر,sociology,explicit,draft-pending,pending,408,content/en/thinkers/thk-howard-becker.md
+thk-husserl,THK-0301,مفكر,philosophy,explicit,review-candidate,,262,content/en/thinkers/thk-husserl.md
+thk-ibn-khaldun,SOC-14108,مفكر,sociology,explicit,review-candidate,,502,content/en/thinkers/thk-ibn-khaldun.md
+thk-isak-dinesen,ANT-13249,مفكر,anthropology,explicit,review-candidate,,1009,content/en/thinkers/thk-isak-dinesen.md
 thk-james-clifford,ANT-13348,مفكر,anthropology,explicit,review-candidate,,1675,content/en/thinkers/thk-james-clifford.md
-thk-jaspers,THK-0103,مفكر,unclassified,none,review-candidate,part-not-explicit,201,content/en/thinkers/thk-jaspers.md
-thk-jomo-kenyatta,ANT-13248,مفكر,anthropology,crumb,review-candidate,part-not-explicit,929,content/en/thinkers/thk-jomo-kenyatta.md
-thk-kafka,THK-0313,مفكر,unclassified,none,draft-short,part-not-explicit;short,106,content/en/thinkers/thk-kafka.md
-thk-karen-ho,ANT-13087,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1104,content/en/thinkers/thk-karen-ho.md
-thk-kierkegaard,THK-0101,مفكر,unclassified,none,review-candidate,part-not-explicit,193,content/en/thinkers/thk-kierkegaard.md
-thk-kwame-appiah,ANT-13251,مفكر,anthropology,crumb,review-candidate,part-not-explicit,951,content/en/thinkers/thk-kwame-appiah.md
-thk-laing,THK-0111,مفكر,unclassified,none,review-candidate,part-not-explicit,221,content/en/thinkers/thk-laing.md
-thk-langle,THK-0115,مفكر,unclassified,none,review-candidate,part-not-explicit,194,content/en/thinkers/thk-langle.md
+thk-jaspers,THK-0103,مفكر,philosophy,explicit,review-candidate,,201,content/en/thinkers/thk-jaspers.md
+thk-jomo-kenyatta,ANT-13248,مفكر,anthropology,explicit,review-candidate,,929,content/en/thinkers/thk-jomo-kenyatta.md
+thk-kafka,THK-0313,مفكر,psychology,explicit,draft-short,short,106,content/en/thinkers/thk-kafka.md
+thk-karen-ho,ANT-13087,مفكر,anthropology,explicit,review-candidate,,1104,content/en/thinkers/thk-karen-ho.md
+thk-kierkegaard,THK-0101,مفكر,psychology,explicit,review-candidate,,193,content/en/thinkers/thk-kierkegaard.md
+thk-kwame-appiah,ANT-13251,مفكر,anthropology,explicit,review-candidate,,951,content/en/thinkers/thk-kwame-appiah.md
+thk-laing,THK-0111,مفكر,philosophy,explicit,review-candidate,,221,content/en/thinkers/thk-laing.md
+thk-langle,THK-0115,مفكر,philosophy,explicit,review-candidate,,194,content/en/thinkers/thk-langle.md
 thk-latour,THK-6378,مفكر,anthropology,explicit,review-candidate,,1576,content/en/thinkers/thk-latour.md
-thk-laura-bohannan,ANT-13076,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1018,content/en/thinkers/thk-laura-bohannan.md
-thk-leacock,ANT-13014,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1029,content/en/thinkers/thk-leacock.md
-thk-levinas,THK-0307,مفكر,unclassified,none,review-candidate,part-not-explicit,981,content/en/thinkers/thk-levinas.md
-thk-lewis-coser,SOC-14123,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-lewis-coser.md
+thk-laura-bohannan,ANT-13076,مفكر,anthropology,explicit,review-candidate,,1018,content/en/thinkers/thk-laura-bohannan.md
+thk-leacock,ANT-13014,مفكر,anthropology,explicit,review-candidate,,1029,content/en/thinkers/thk-leacock.md
+thk-levinas,THK-0307,مفكر,philosophy,explicit,review-candidate,,981,content/en/thinkers/thk-levinas.md
+thk-lewis-coser,SOC-14123,مفكر,sociology,explicit,draft-pending,pending,393,content/en/thinkers/thk-lewis-coser.md
 thk-lindatuhiwai,THK-1457,مفكر,anthropology,explicit,review-candidate,,1488,content/en/thinkers/thk-lindatuhiwai.md
-thk-lucy-mair,ANT-13078,مفكر,anthropology,crumb,review-candidate,part-not-explicit,943,content/en/thinkers/thk-lucy-mair.md
-thk-lukas,THK-0319,مفكر,unclassified,none,draft-short,part-not-explicit;short,71,content/en/thinkers/thk-lukas.md
+thk-lucy-mair,ANT-13078,مفكر,anthropology,explicit,review-candidate,,943,content/en/thinkers/thk-lucy-mair.md
+thk-lukas,THK-0319,مفكر,philosophy,explicit,draft-short,short,71,content/en/thinkers/thk-lukas.md
 thk-malinowski,ANT-13010,مفكر,anthropology,explicit,review-candidate,,1818,content/en/thinkers/thk-malinowski.md
-thk-manuel-castells,SOC-14134,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-manuel-castells.md
-thk-marcel,THK-0305,مفكر,unclassified,none,review-candidate,part-not-explicit,944,content/en/thinkers/thk-marcel.md
-thk-marcel-mauss,ANT-13063,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1060,content/en/thinkers/thk-marcel-mauss.md
-thk-margaret-mead,ANT-13060,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1016,content/en/thinkers/thk-margaret-mead.md
-thk-marshall-sahlins,ANT-13260,مفكر,anthropology,crumb,review-candidate,part-not-explicit,986,content/en/thinkers/thk-marshall-sahlins.md
-thk-martineau,THK-6370,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-martineau.md
-thk-marx,THK-1516,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-marx.md
-thk-mary-douglas,THK-12790,مفكر,unclassified,none,review-candidate,part-not-explicit,2385,content/en/thinkers/thk-mary-douglas.md
-thk-max-gluckman,THK-6499,مفكر,unclassified,none,review-candidate,part-not-explicit,2176,content/en/thinkers/thk-max-gluckman.md
-thk-may,THK-0109,مفكر,unclassified,none,review-candidate,part-not-explicit,185,content/en/thinkers/thk-may.md
-thk-meyer-fortes,ANT-13250,مفكر,anthropology,crumb,review-candidate,part-not-explicit,980,content/en/thinkers/thk-meyer-fortes.md
-thk-ming-ming-kuo,ANT-13253,مفكر,anthropology,crumb,draft-pending,part-not-explicit;pending;short,30,content/en/thinkers/thk-ming-ming-kuo.md
-thk-minkowski,THK-0107,مفكر,unclassified,none,review-candidate,part-not-explicit,180,content/en/thinkers/thk-minkowski.md
-thk-nancy-scheper-hughes,ANT-13261,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1000,content/en/thinkers/thk-nancy-scheper-hughes.md
-thk-natalie-zemon-davis,ANT-13069,مفكر,unclassified,none,review-candidate,part-not-explicit,998,content/en/thinkers/thk-natalie-zemon-davis.md
-thk-nietzsche,THK-0302,مفكر,unclassified,none,review-candidate,part-not-explicit,1041,content/en/thinkers/thk-nietzsche.md
-thk-ortega,THK-0316,مفكر,unclassified,none,draft-short,part-not-explicit;short,126,content/en/thinkers/thk-ortega.md
-thk-parsons,THK-7350,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-parsons.md
-thk-paul-bohannan,ANT-13075,مفكر,anthropology,crumb,review-candidate,part-not-explicit,941,content/en/thinkers/thk-paul-bohannan.md
+thk-manuel-castells,SOC-14134,مفكر,sociology,explicit,draft-pending,pending,416,content/en/thinkers/thk-manuel-castells.md
+thk-marcel,THK-0305,مفكر,philosophy,explicit,review-candidate,,944,content/en/thinkers/thk-marcel.md
+thk-marcel-mauss,ANT-13063,مفكر,anthropology,explicit,review-candidate,,1060,content/en/thinkers/thk-marcel-mauss.md
+thk-margaret-mead,ANT-13060,مفكر,anthropology,explicit,review-candidate,,1016,content/en/thinkers/thk-margaret-mead.md
+thk-marshall-sahlins,ANT-13260,مفكر,anthropology,explicit,review-candidate,,986,content/en/thinkers/thk-marshall-sahlins.md
+thk-martineau,THK-6370,مفكر,sociology,explicit,draft-pending,pending,449,content/en/thinkers/thk-martineau.md
+thk-marx,THK-1516,مفكر,sociology,explicit,review-candidate,,476,content/en/thinkers/thk-marx.md
+thk-mary-douglas,THK-12790,مفكر,anthropology,explicit,review-candidate,,2385,content/en/thinkers/thk-mary-douglas.md
+thk-max-gluckman,THK-6499,مفكر,anthropology,explicit,review-candidate,,2176,content/en/thinkers/thk-max-gluckman.md
+thk-may,THK-0109,مفكر,psychology,explicit,review-candidate,,185,content/en/thinkers/thk-may.md
+thk-meyer-fortes,ANT-13250,مفكر,anthropology,explicit,review-candidate,,980,content/en/thinkers/thk-meyer-fortes.md
+thk-ming-ming-kuo,ANT-13253,مفكر,anthropology,explicit,draft-pending,pending;short,36,content/en/thinkers/thk-ming-ming-kuo.md
+thk-minkowski,THK-0107,مفكر,philosophy,explicit,review-candidate,,180,content/en/thinkers/thk-minkowski.md
+thk-nancy-scheper-hughes,ANT-13261,مفكر,anthropology,explicit,review-candidate,,1000,content/en/thinkers/thk-nancy-scheper-hughes.md
+thk-natalie-zemon-davis,ANT-13069,مفكر,historiography,explicit,review-candidate,,998,content/en/thinkers/thk-natalie-zemon-davis.md
+thk-nietzsche,THK-0302,مفكر,philosophy,explicit,review-candidate,,1041,content/en/thinkers/thk-nietzsche.md
+thk-ortega,THK-0316,مفكر,philosophy,explicit,draft-short,short,126,content/en/thinkers/thk-ortega.md
+thk-parsons,THK-7350,مفكر,sociology,explicit,draft-pending,pending,417,content/en/thinkers/thk-parsons.md
+thk-paul-bohannan,ANT-13075,مفكر,anthropology,explicit,review-candidate,,941,content/en/thinkers/thk-paul-bohannan.md
 thk-paul-rabinow,ANT-13351,مفكر,anthropology,explicit,review-candidate,,1608,content/en/thinkers/thk-paul-rabinow.md
-thk-phcollins,THK-1741,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-phcollins.md
-thk-philippe-bourgois,ANT-13085,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1028,content/en/thinkers/thk-philippe-bourgois.md
+thk-phcollins,THK-1741,مفكر,sociology,explicit,draft-pending,pending,428,content/en/thinkers/thk-phcollins.md
+thk-philippe-bourgois,ANT-13085,مفكر,anthropology,explicit,review-candidate,,1028,content/en/thinkers/thk-philippe-bourgois.md
 thk-posidonius,THK-2484,مفكر,historiography,explicit,review-candidate,,582,content/en/thinkers/thk-posidonius.md
 thk-radcliffe-brown,ANT-13011,مفكر,anthropology,explicit,review-candidate,,1584,content/en/thinkers/thk-radcliffe-brown.md
-thk-raewyn-connell,SOC-14145,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-raewyn-connell.md
-thk-randall-collins,SOC-14126,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-randall-collins.md
-thk-rank,THK-0321,مفكر,unclassified,none,draft-short,part-not-explicit;short,136,content/en/thinkers/thk-rank.md
-thk-robert-lowie,ANT-13065,مفكر,anthropology,crumb,review-candidate,part-not-explicit,873,content/en/thinkers/thk-robert-lowie.md
-thk-robert-merton,THK-8500,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-robert-merton.md
-thk-ruth-benedict,ANT-13061,مفكر,anthropology,crumb,review-candidate,part-not-explicit,991,content/en/thinkers/thk-ruth-benedict.md
-thk-sartre,THK-0303,مفكر,unclassified,none,review-candidate,part-not-explicit,1010,content/en/thinkers/thk-sartre.md
-thk-saskia-sassen,SOC-14135,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-saskia-sassen.md
-thk-schneider,THK-0117,مفكر,unclassified,none,draft-short,part-not-explicit;short,139,content/en/thinkers/thk-schneider.md
-thk-sergio-carrasco,ANT-13259,مفكر,anthropology,crumb,draft-pending,part-not-explicit;pending;short,30,content/en/thinkers/thk-sergio-carrasco.md
-thk-sherry-ortner,THK-13386,مفكر,unclassified,none,review-candidate,part-not-explicit,2215,content/en/thinkers/thk-sherry-ortner.md
-thk-shestov,THK-0317,مفكر,unclassified,none,draft-short,part-not-explicit;short,115,content/en/thinkers/thk-shestov.md
-thk-shulamit-reinharz,ANT-13257,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1021,content/en/thinkers/thk-shulamit-reinharz.md
-thk-simmel,THK-6365,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-simmel.md
-thk-spencer,THK-1970,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-spencer.md
-thk-spinelli,THK-0114,مفكر,unclassified,none,review-candidate,part-not-explicit,174,content/en/thinkers/thk-spinelli.md
-thk-stathis-gourgouris,ANT-13263,مفكر,anthropology,crumb,review-candidate,part-not-explicit,981,content/en/thinkers/thk-stathis-gourgouris.md
-thk-straus,THK-0318,مفكر,unclassified,none,draft-short,part-not-explicit;short,86,content/en/thinkers/thk-straus.md
-thk-talal-asad,ANT-13262,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1026,content/en/thinkers/thk-talal-asad.md
-thk-terence-turner,ANT-13264,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1106,content/en/thinkers/thk-terence-turner.md
-thk-tillich,THK-0311,مفكر,unclassified,none,review-candidate,part-not-explicit,1000,content/en/thinkers/thk-tillich.md
-thk-ulf-hannersson,ANT-13084,مفكر,unclassified,none,review-candidate,part-not-explicit,1037,content/en/thinkers/thk-ulf-hannersson.md
-thk-ulrich-beck,SOC-14132,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-ulrich-beck.md
-thk-unamuno,THK-0306,مفكر,unclassified,none,review-candidate,part-not-explicit,904,content/en/thinkers/thk-unamuno.md
-thk-vandeurzen,THK-0113,مفكر,unclassified,none,review-candidate,part-not-explicit,1010,content/en/thinkers/thk-vandeurzen.md
-thk-vankaam,THK-0310,مفكر,unclassified,none,review-candidate,part-not-explicit,193,content/en/thinkers/thk-vankaam.md
-thk-victor-turner,THK-6561,مفكر,unclassified,none,review-candidate,part-not-explicit,2107,content/en/thinkers/thk-victor-turner.md
-thk-wallerstein,THK-6472,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-wallerstein.md
-thk-web-du-bois,SOC-14107,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-web-du-bois.md
-thk-weber,THK-2864,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-weber.md
-thk-william-f-whyte,SOC-14113,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-william-f-whyte.md
-thk-william-i-thomas,SOC-14111,مفكر,sociology,explicit,draft-pending,pending,1096,content/en/thinkers/thk-william-i-thomas.md
-thk-william-rivers,ANT-13066,مفكر,anthropology,crumb,review-candidate,part-not-explicit,908,content/en/thinkers/thk-william-rivers.md
-thk-wong,THK-0309,مفكر,unclassified,none,review-candidate,part-not-explicit,226,content/en/thinkers/thk-wong.md
+thk-raewyn-connell,SOC-14145,مفكر,sociology,explicit,draft-pending,pending,426,content/en/thinkers/thk-raewyn-connell.md
+thk-randall-collins,SOC-14126,مفكر,sociology,explicit,review-candidate,,450,content/en/thinkers/thk-randall-collins.md
+thk-rank,THK-0321,مفكر,philosophy,explicit,draft-short,short,136,content/en/thinkers/thk-rank.md
+thk-robert-lowie,ANT-13065,مفكر,anthropology,explicit,review-candidate,,873,content/en/thinkers/thk-robert-lowie.md
+thk-robert-merton,THK-8500,مفكر,sociology,explicit,draft-pending,pending,419,content/en/thinkers/thk-robert-merton.md
+thk-ruth-benedict,ANT-13061,مفكر,anthropology,explicit,review-candidate,,991,content/en/thinkers/thk-ruth-benedict.md
+thk-sartre,THK-0303,مفكر,philosophy,explicit,review-candidate,,1010,content/en/thinkers/thk-sartre.md
+thk-saskia-sassen,SOC-14135,مفكر,sociology,explicit,draft-pending,pending,444,content/en/thinkers/thk-saskia-sassen.md
+thk-schneider,THK-0117,مفكر,psychology,explicit,draft-short,short,139,content/en/thinkers/thk-schneider.md
+thk-sergio-carrasco,ANT-13259,مفكر,anthropology,explicit,draft-pending,pending;short,39,content/en/thinkers/thk-sergio-carrasco.md
+thk-sherry-ortner,THK-13386,مفكر,anthropology,explicit,review-candidate,,2215,content/en/thinkers/thk-sherry-ortner.md
+thk-shestov,THK-0317,مفكر,philosophy,explicit,draft-short,short,115,content/en/thinkers/thk-shestov.md
+thk-shulamit-reinharz,ANT-13257,مفكر,anthropology,explicit,review-candidate,,1021,content/en/thinkers/thk-shulamit-reinharz.md
+thk-simmel,THK-6365,مفكر,sociology,explicit,draft-pending,pending,422,content/en/thinkers/thk-simmel.md
+thk-spencer,THK-1970,مفكر,sociology,explicit,review-candidate,,457,content/en/thinkers/thk-spencer.md
+thk-spinelli,THK-0114,مفكر,psychology,explicit,review-candidate,,174,content/en/thinkers/thk-spinelli.md
+thk-stathis-gourgouris,ANT-13263,مفكر,anthropology,explicit,review-candidate,,981,content/en/thinkers/thk-stathis-gourgouris.md
+thk-straus,THK-0318,مفكر,philosophy,explicit,draft-short,short,86,content/en/thinkers/thk-straus.md
+thk-talal-asad,ANT-13262,مفكر,anthropology,explicit,review-candidate,,1026,content/en/thinkers/thk-talal-asad.md
+thk-terence-turner,ANT-13264,مفكر,anthropology,explicit,review-candidate,,1106,content/en/thinkers/thk-terence-turner.md
+thk-tillich,THK-0311,مفكر,philosophy,explicit,review-candidate,,1000,content/en/thinkers/thk-tillich.md
+thk-ulf-hannersson,ANT-13084,مفكر,anthropology,explicit,review-candidate,,1037,content/en/thinkers/thk-ulf-hannersson.md
+thk-ulrich-beck,SOC-14132,مفكر,sociology,explicit,draft-pending,pending,410,content/en/thinkers/thk-ulrich-beck.md
+thk-unamuno,THK-0306,مفكر,philosophy,explicit,review-candidate,,904,content/en/thinkers/thk-unamuno.md
+thk-vandeurzen,THK-0113,مفكر,philosophy,explicit,review-candidate,,1010,content/en/thinkers/thk-vandeurzen.md
+thk-vankaam,THK-0310,مفكر,psychology,explicit,review-candidate,,193,content/en/thinkers/thk-vankaam.md
+thk-victor-turner,THK-6561,مفكر,anthropology,explicit,review-candidate,,2107,content/en/thinkers/thk-victor-turner.md
+thk-wallerstein,THK-6472,مفكر,sociology,explicit,draft-pending,pending,442,content/en/thinkers/thk-wallerstein.md
+thk-web-du-bois,SOC-14107,مفكر,sociology,explicit,draft-pending,pending,448,content/en/thinkers/thk-web-du-bois.md
+thk-weber,THK-2864,مفكر,sociology,explicit,review-candidate,,485,content/en/thinkers/thk-weber.md
+thk-william-f-whyte,SOC-14113,مفكر,sociology,explicit,draft-pending,pending,419,content/en/thinkers/thk-william-f-whyte.md
+thk-william-i-thomas,SOC-14111,مفكر,sociology,explicit,draft-pending,pending,424,content/en/thinkers/thk-william-i-thomas.md
+thk-william-rivers,ANT-13066,مفكر,anthropology,explicit,review-candidate,,908,content/en/thinkers/thk-william-rivers.md
+thk-wong,THK-0309,مفكر,psychology,explicit,review-candidate,,226,content/en/thinkers/thk-wong.md
 thk-xenophon,THK-12567,مفكر,historiography,explicit,review-candidate,,907,content/en/thinkers/thk-xenophon.md
-thk-yalom,THK-0112,مفكر,unclassified,none,review-candidate,part-not-explicit,962,content/en/thinkers/thk-yalom.md
-thk-znaniecki,THK-6411,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-znaniecki.md
-thk-zora-neale-hurston,THK-8950,مفكر,anthropology,crumb,review-candidate,part-not-explicit,1010,content/en/thinkers/thk-zora-neale-hurston.md
-thk-zygmunt-bauman,SOC-14133,مفكر,sociology,explicit,draft-pending,pending,1094,content/en/thinkers/thk-zygmunt-bauman.md
-trm-angst-translation,TRM-0001,مصطلح لغوي متنازع عليه,unclassified,none,review-candidate,part-not-explicit,1073,content/en/terms/trm-angst-translation.md
-wrk-african-political-systems-fortes-evans-pritchard,WRK-9808,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,918,content/en/works/wrk-african-political-systems-fortes-evans-pritchard.md
-wrk-anthropology-now,ANT-13132,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,922,content/en/works/wrk-anthropology-now.md
-wrk-argonauts-western-pacific-malinowski,WRK-2115,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1110,content/en/works/wrk-argonauts-western-pacific-malinowski.md
-wrk-asylums,SOC-14306,عمل,sociology,explicit,draft-pending,pending,906,content/en/works/wrk-asylums.md
-wrk-being-nothingness,WRK-0206,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1017,content/en/works/wrk-being-nothingness.md
-wrk-being-time,WRK-0201,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1043,content/en/works/wrk-being-time.md
-wrk-bowling-alone,SOC-14331,عمل,sociology,explicit,draft-pending,pending,1066,content/en/works/wrk-bowling-alone.md
+thk-yalom,THK-0112,مفكر,psychology,explicit,review-candidate,,962,content/en/thinkers/thk-yalom.md
+thk-znaniecki,THK-6411,مفكر,sociology,explicit,draft-pending,pending,443,content/en/thinkers/thk-znaniecki.md
+thk-zora-neale-hurston,THK-8950,مفكر,anthropology,explicit,review-candidate,,1010,content/en/thinkers/thk-zora-neale-hurston.md
+thk-zygmunt-bauman,SOC-14133,مفكر,sociology,explicit,review-candidate,,460,content/en/thinkers/thk-zygmunt-bauman.md
+trm-angst-translation,TRM-0001,مصطلح لغوي متنازع عليه,philosophy,explicit,review-candidate,,1073,content/en/terms/trm-angst-translation.md
+wrk-african-political-systems-fortes-evans-pritchard,WRK-9808,عمل / كتاب,anthropology,explicit,review-candidate,,918,content/en/works/wrk-african-political-systems-fortes-evans-pritchard.md
+wrk-anthropology-now,ANT-13132,عمل / كتاب,anthropology,explicit,review-candidate,,922,content/en/works/wrk-anthropology-now.md
+wrk-argonauts-western-pacific-malinowski,WRK-2115,عمل / كتاب,anthropology,explicit,review-candidate,,1110,content/en/works/wrk-argonauts-western-pacific-malinowski.md
+wrk-asylums,SOC-14306,عمل,sociology,explicit,review-candidate,,906,content/en/works/wrk-asylums.md
+wrk-being-nothingness,WRK-0206,عمل / كتاب,philosophy,explicit,review-candidate,,1017,content/en/works/wrk-being-nothingness.md
+wrk-being-time,WRK-0201,عمل / كتاب,philosophy,explicit,review-candidate,,1043,content/en/works/wrk-being-time.md
+wrk-bowling-alone,SOC-14331,عمل,sociology,explicit,review-candidate,,1066,content/en/works/wrk-bowling-alone.md
 wrk-capital,SOC-14308,عمل,sociology,explicit,draft-pending,pending,925,content/en/works/wrk-capital.md
-wrk-coming-of-age-samoa-mead,WRK-2119,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1530,content/en/works/wrk-coming-of-age-samoa-mead.md
-wrk-concept-anxiety,WRK-0202,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,905,content/en/works/wrk-concept-anxiety.md
-wrk-courage-to-be,WRK-0209,عمل / كتاب,philosophy,crumb,review-candidate,part-not-explicit,1011,content/en/works/wrk-courage-to-be.md
-wrk-cultural-critique,ANT-13273,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1042,content/en/works/wrk-cultural-critique.md
-wrk-discipline-and-punish,SOC-14323,عمل,sociology,explicit,draft-pending,pending,1092,content/en/works/wrk-discipline-and-punish.md
-wrk-divided-self,WRK-0211,عمل / كتاب,philosophy,crumb,review-candidate,part-not-explicit,993,content/en/works/wrk-divided-self.md
-wrk-elementary-structures,ANT-13265,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1607,content/en/works/wrk-elementary-structures.md
-wrk-empire,ANT-13274,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1055,content/en/works/wrk-empire.md
-wrk-ethics-ambiguity,WRK-0207,عمل / كتاب,philosophy,crumb,review-candidate,part-not-explicit,978,content/en/works/wrk-ethics-ambiguity.md
-wrk-ethnographic-fieldwork,ANT-13272,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,927,content/en/works/wrk-ethnographic-fieldwork.md
-wrk-existence,WRK-0210,عمل / كتاب,philosophy,crumb,review-candidate,part-not-explicit,1027,content/en/works/wrk-existence.md
-wrk-existential-psychotherapy,WRK-0213,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,878,content/en/works/wrk-existential-psychotherapy.md
-wrk-existential-therapies,WRK-0214,عمل / كتاب,philosophy,crumb,review-candidate,part-not-explicit,1049,content/en/works/wrk-existential-therapies.md
+wrk-coming-of-age-samoa-mead,WRK-2119,عمل / كتاب,anthropology,explicit,review-candidate,,1530,content/en/works/wrk-coming-of-age-samoa-mead.md
+wrk-concept-anxiety,WRK-0202,عمل / كتاب,philosophy,explicit,review-candidate,,905,content/en/works/wrk-concept-anxiety.md
+wrk-courage-to-be,WRK-0209,عمل / كتاب,philosophy,explicit,review-candidate,,1011,content/en/works/wrk-courage-to-be.md
+wrk-cultural-critique,ANT-13273,عمل / كتاب,anthropology,explicit,review-candidate,,1042,content/en/works/wrk-cultural-critique.md
+wrk-discipline-and-punish,SOC-14323,عمل,sociology,explicit,review-candidate,,1092,content/en/works/wrk-discipline-and-punish.md
+wrk-divided-self,WRK-0211,عمل / كتاب,philosophy,explicit,review-candidate,,993,content/en/works/wrk-divided-self.md
+wrk-elementary-structures,ANT-13265,عمل / كتاب,anthropology,explicit,review-candidate,,1607,content/en/works/wrk-elementary-structures.md
+wrk-empire,ANT-13274,عمل / كتاب,anthropology,explicit,review-candidate,,1055,content/en/works/wrk-empire.md
+wrk-ethics-ambiguity,WRK-0207,عمل / كتاب,philosophy,explicit,review-candidate,,978,content/en/works/wrk-ethics-ambiguity.md
+wrk-ethnographic-fieldwork,ANT-13272,عمل / كتاب,anthropology,explicit,review-candidate,,927,content/en/works/wrk-ethnographic-fieldwork.md
+wrk-existence,WRK-0210,عمل / كتاب,philosophy,explicit,review-candidate,,1027,content/en/works/wrk-existence.md
+wrk-existential-psychotherapy,WRK-0213,عمل / كتاب,philosophy,explicit,review-candidate,,878,content/en/works/wrk-existential-psychotherapy.md
+wrk-existential-therapies,WRK-0214,عمل / كتاب,philosophy,explicit,review-candidate,,1049,content/en/works/wrk-existential-therapies.md
 wrk-feminist-theory-from-margin-to-center,SOC-14336,عمل,sociology,explicit,draft-pending,pending,1011,content/en/works/wrk-feminist-theory-from-margin-to-center.md
 wrk-fighting-back,SOC-14335,عمل,sociology,explicit,draft-pending,pending,1052,content/en/works/wrk-fighting-back.md
-wrk-forest-symbols,ANT-13033,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1721,content/en/works/wrk-forest-symbols.md
+wrk-forest-symbols,ANT-13033,عمل / كتاب,anthropology,explicit,review-candidate,,1721,content/en/works/wrk-forest-symbols.md
 wrk-gender-trouble,SOC-14337,عمل,sociology,explicit,draft-pending,pending,1043,content/en/works/wrk-gender-trouble.md
-wrk-general-psychopathology,WRK-0204,عمل / كتاب,psychology,crumb,review-candidate,part-not-explicit,898,content/en/works/wrk-general-psychopathology.md
+wrk-general-psychopathology,WRK-0204,عمل / كتاب,psychology,explicit,review-candidate,,898,content/en/works/wrk-general-psychopathology.md
 wrk-global-cities,SOC-14329,عمل,sociology,explicit,draft-pending,pending,1044,content/en/works/wrk-global-cities.md
-wrk-goffman-presentation-self,WRK-0328,عمل,sociology,explicit,draft-pending,pending,975,content/en/works/wrk-goffman-presentation-self.md
-wrk-hawaiian-kinship,ANT-13344,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1233,content/en/works/wrk-hawaiian-kinship.md
+wrk-goffman-presentation-self,WRK-0328,عمل,sociology,explicit,review-candidate,,975,content/en/works/wrk-goffman-presentation-self.md
+wrk-hawaiian-kinship,ANT-13344,عمل / كتاب,anthropology,explicit,review-candidate,,1233,content/en/works/wrk-hawaiian-kinship.md
 wrk-institutional-ethnography,SOC-14334,عمل,sociology,explicit,draft-pending,pending,985,content/en/works/wrk-institutional-ethnography.md
-wrk-interpretation-of-cultures-geertz,WRK-2113,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1641,content/en/works/wrk-interpretation-of-cultures-geertz.md
-wrk-kinship-and-marriage,ANT-13342,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1513,content/en/works/wrk-kinship-and-marriage.md
-wrk-kinship-village,ANT-13345,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1069,content/en/works/wrk-kinship-village.md
-wrk-kung-bushmen,ANT-13267,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1760,content/en/works/wrk-kung-bushmen.md
-wrk-la-distinction,SOC-14322,عمل,sociology,explicit,draft-pending,pending,1084,content/en/works/wrk-la-distinction.md
+wrk-interpretation-of-cultures-geertz,WRK-2113,عمل / كتاب,anthropology,explicit,review-candidate,,1641,content/en/works/wrk-interpretation-of-cultures-geertz.md
+wrk-kinship-and-marriage,ANT-13342,عمل / كتاب,anthropology,explicit,review-candidate,,1513,content/en/works/wrk-kinship-and-marriage.md
+wrk-kinship-village,ANT-13345,عمل / كتاب,anthropology,explicit,review-candidate,,1069,content/en/works/wrk-kinship-village.md
+wrk-kung-bushmen,ANT-13267,عمل / كتاب,anthropology,explicit,review-candidate,,1760,content/en/works/wrk-kung-bushmen.md
+wrk-la-distinction,SOC-14322,عمل,sociology,explicit,review-candidate,,1084,content/en/works/wrk-la-distinction.md
 wrk-liquid-modernity-bauman,WRK-9889,عمل,sociology,explicit,draft-pending,pending,1003,content/en/works/wrk-liquid-modernity-bauman.md
-wrk-lived-time,WRK-0205,عمل / كتاب,philosophy,crumb,review-candidate,part-not-explicit,1038,content/en/works/wrk-lived-time.md
-wrk-mans-search,WRK-0208,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,966,content/en/works/wrk-mans-search.md
-wrk-mind-of-primitive-man-boas,WRK-9201,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,936,content/en/works/wrk-mind-of-primitive-man-boas.md
+wrk-lived-time,WRK-0205,عمل / كتاب,philosophy,explicit,review-candidate,,1038,content/en/works/wrk-lived-time.md
+wrk-mans-search,WRK-0208,عمل / كتاب,philosophy,explicit,review-candidate,,966,content/en/works/wrk-mans-search.md
+wrk-mind-of-primitive-man-boas,WRK-9201,عمل / كتاب,anthropology,explicit,review-candidate,,936,content/en/works/wrk-mind-of-primitive-man-boas.md
 wrk-modernity-at-large,SOC-14330,عمل,sociology,explicit,draft-pending,pending,1061,content/en/works/wrk-modernity-at-large.md
-wrk-negara,ANT-13142,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1062,content/en/works/wrk-negara.md
+wrk-negara,ANT-13142,عمل / كتاب,anthropology,explicit,review-candidate,,1062,content/en/works/wrk-negara.md
 wrk-on-suicide,SOC-14313,عمل,sociology,explicit,draft-pending,pending,950,content/en/works/wrk-on-suicide.md
 wrk-orientalism-said,WRK-0414,عمل,sociology,explicit,draft-pending,pending,1064,content/en/works/wrk-orientalism-said.md
-wrk-outline-theory-practice-bourdieu,WRK-13169,عمل,sociology,explicit,draft-pending,pending,1030,content/en/works/wrk-outline-theory-practice-bourdieu.md
-wrk-patterns-of-culture-benedict,WRK-2118,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1588,content/en/works/wrk-patterns-of-culture-benedict.md
+wrk-outline-theory-practice-bourdieu,WRK-13169,عمل,sociology,explicit,review-candidate,,1030,content/en/works/wrk-outline-theory-practice-bourdieu.md
+wrk-patterns-of-culture-benedict,WRK-2118,عمل / كتاب,anthropology,explicit,review-candidate,,1588,content/en/works/wrk-patterns-of-culture-benedict.md
 wrk-philosophical-investigations,SOC-14310,عمل,sociology,explicit,draft-pending,pending,1005,content/en/works/wrk-philosophical-investigations.md
-wrk-primitive-society,ANT-13030,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,947,content/en/works/wrk-primitive-society.md
+wrk-primitive-society,ANT-13030,عمل / كتاب,anthropology,explicit,review-candidate,,947,content/en/works/wrk-primitive-society.md
 wrk-protestant-ethic-spirit-capitalism-weber,WRK-2320,عمل,sociology,explicit,draft-pending,pending,1033,content/en/works/wrk-protestant-ethic-spirit-capitalism-weber.md
-wrk-purity-and-danger-douglas,WRK-9204,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,972,content/en/works/wrk-purity-and-danger-douglas.md
-wrk-residence-kinship,ANT-13343,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1008,content/en/works/wrk-residence-kinship.md
+wrk-purity-and-danger-douglas,WRK-9204,عمل / كتاب,anthropology,explicit,review-candidate,,972,content/en/works/wrk-purity-and-danger-douglas.md
+wrk-residence-kinship,ANT-13343,عمل / كتاب,anthropology,explicit,review-candidate,,1008,content/en/works/wrk-residence-kinship.md
 wrk-risk-society,SOC-14326,عمل,sociology,explicit,draft-pending,pending,1057,content/en/works/wrk-risk-society.md
-wrk-savage-mind,ANT-13141,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1508,content/en/works/wrk-savage-mind.md
+wrk-savage-mind,ANT-13141,عمل / كتاب,anthropology,explicit,review-candidate,,1508,content/en/works/wrk-savage-mind.md
 wrk-second-sex,WRK-0447,عمل,sociology,explicit,draft-pending,pending,1057,content/en/works/wrk-second-sex.md
-wrk-sexual-life,ANT-13036,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,964,content/en/works/wrk-sexual-life.md
-wrk-sickness-death,WRK-0203,عمل / كتاب,philosophy,crumb,review-candidate,part-not-explicit,1007,content/en/works/wrk-sickness-death.md
+wrk-sexual-life,ANT-13036,عمل / كتاب,anthropology,explicit,review-candidate,,964,content/en/works/wrk-sexual-life.md
+wrk-sickness-death,WRK-0203,عمل / كتاب,philosophy,explicit,review-candidate,,1007,content/en/works/wrk-sickness-death.md
 wrk-social-system-parsons,WRK-2500,عمل,sociology,explicit,draft-pending,pending,1047,content/en/works/wrk-social-system-parsons.md
 wrk-stigma,SOC-14305,عمل,sociology,explicit,draft-pending,pending,916,content/en/works/wrk-stigma.md
 wrk-strangers-in-their-own-land,SOC-14332,عمل,sociology,explicit,draft-pending,pending,1003,content/en/works/wrk-strangers-in-their-own-land.md
-wrk-structure-function-primitive-society-radcliffe-brown,WRK-9408,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1042,content/en/works/wrk-structure-function-primitive-society-radcliffe-brown.md
+wrk-structure-function-primitive-society-radcliffe-brown,WRK-9408,عمل / كتاب,anthropology,explicit,review-candidate,,1042,content/en/works/wrk-structure-function-primitive-society-radcliffe-brown.md
 wrk-suicide,SOC-14302,عمل,sociology,explicit,draft-pending,pending,863,content/en/works/wrk-suicide.md
 wrk-the-constitution-of-society,SOC-14325,عمل,sociology,explicit,draft-pending,pending,1006,content/en/works/wrk-the-constitution-of-society.md
 wrk-the-division-of-labor-in-society,SOC-14300,عمل,sociology,explicit,draft-pending,pending,1055,content/en/works/wrk-the-division-of-labor-in-society.md
-wrk-the-elementary-forms-of-religious-life,SOC-14309,عمل,sociology,explicit,draft-pending,pending,988,content/en/works/wrk-the-elementary-forms-of-religious-life.md
-wrk-the-gift,ANT-13133,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1382,content/en/works/wrk-the-gift.md
+wrk-the-elementary-forms-of-religious-life,SOC-14309,عمل,sociology,explicit,review-candidate,,988,content/en/works/wrk-the-elementary-forms-of-religious-life.md
+wrk-the-gift,ANT-13133,عمل / كتاب,anthropology,explicit,review-candidate,,1382,content/en/works/wrk-the-gift.md
 wrk-the-grounded-theory,SOC-14319,عمل,sociology,explicit,draft-pending,pending,1041,content/en/works/wrk-the-grounded-theory.md
 wrk-the-history-of-sexuality,SOC-14324,عمل,sociology,explicit,draft-pending,pending,1044,content/en/works/wrk-the-history-of-sexuality.md
 wrk-the-holy-family,SOC-14312,عمل,sociology,explicit,draft-pending,pending,1035,content/en/works/wrk-the-holy-family.md
-wrk-the-managed-heart,SOC-14333,عمل,sociology,explicit,draft-pending,pending,1031,content/en/works/wrk-the-managed-heart.md
-wrk-the-masters-tools,SOC-14338,عمل,sociology,explicit,draft-pending,pending,1097,content/en/works/wrk-the-masters-tools.md
+wrk-the-managed-heart,SOC-14333,عمل,sociology,explicit,review-candidate,,1031,content/en/works/wrk-the-managed-heart.md
+wrk-the-masters-tools,SOC-14338,عمل,sociology,explicit,review-candidate,,1097,content/en/works/wrk-the-masters-tools.md
 wrk-the-network-society,SOC-14328,عمل,sociology,explicit,draft-pending,pending,1049,content/en/works/wrk-the-network-society.md
 wrk-the-polish-peasant,SOC-14317,عمل,sociology,explicit,draft-pending,pending,1064,content/en/works/wrk-the-polish-peasant.md
 wrk-the-poverty-of-philosophy,SOC-14311,عمل,sociology,explicit,draft-pending,pending,1025,content/en/works/wrk-the-poverty-of-philosophy.md
 wrk-the-sociological-condition,SOC-14320,عمل,sociology,explicit,draft-pending,pending,1053,content/en/works/wrk-the-sociological-condition.md
 wrk-the-stranger,SOC-14315,عمل,sociology,explicit,draft-pending,pending,1062,content/en/works/wrk-the-stranger.md
-wrk-tiwi,ANT-13266,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1048,content/en/works/wrk-tiwi.md
-wrk-tiwi-wives,ANT-13138,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1595,content/en/works/wrk-tiwi-wives.md
-wrk-totemism,ANT-13140,عمل / كتاب,unclassified,none,review-candidate,part-not-explicit,1586,content/en/works/wrk-totemism.md
-wrk-tristes-tropiques,ANT-13139,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1024,content/en/works/wrk-tristes-tropiques.md
-wrk-urban-culture,ANT-13271,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1058,content/en/works/wrk-urban-culture.md
-wrk-womans-evolution,ANT-13032,عمل / كتاب,anthropology,crumb,draft-short,part-not-explicit;short,13,content/en/works/wrk-womans-evolution.md
-wrk-works-lives,ANT-13143,عمل / كتاب,anthropology,crumb,review-candidate,part-not-explicit,1041,content/en/works/wrk-works-lives.md
-wrk-zollikon,WRK-0212,عمل / كتاب,philosophy,crumb,review-candidate,part-not-explicit,1045,content/en/works/wrk-zollikon.md
+wrk-tiwi,ANT-13266,عمل / كتاب,anthropology,explicit,review-candidate,,1048,content/en/works/wrk-tiwi.md
+wrk-tiwi-wives,ANT-13138,عمل / كتاب,anthropology,explicit,review-candidate,,1595,content/en/works/wrk-tiwi-wives.md
+wrk-totemism,ANT-13140,عمل / كتاب,anthropology,explicit,review-candidate,,1586,content/en/works/wrk-totemism.md
+wrk-tristes-tropiques,ANT-13139,عمل / كتاب,anthropology,explicit,review-candidate,,1024,content/en/works/wrk-tristes-tropiques.md
+wrk-urban-culture,ANT-13271,عمل / كتاب,anthropology,explicit,review-candidate,,1058,content/en/works/wrk-urban-culture.md
+wrk-womans-evolution,ANT-13032,عمل / كتاب,anthropology,explicit,draft-short,short,13,content/en/works/wrk-womans-evolution.md
+wrk-works-lives,ANT-13143,عمل / كتاب,anthropology,explicit,review-candidate,,1041,content/en/works/wrk-works-lives.md
+wrk-zollikon,WRK-0212,عمل / كتاب,philosophy,explicit,review-candidate,,1045,content/en/works/wrk-zollikon.md

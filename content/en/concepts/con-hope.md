@@ -2,12 +2,13 @@
 slug: "con-hope"
 id: "CON-19070"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Hope"
 en: "Hope"
 crumb: "Hope"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-despair", title: "Despair", type: "مفهوم"
   - id: "con-meaninglessness", title: "Meaninglessness", type: "مفهوم"

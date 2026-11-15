@@ -2,13 +2,14 @@
 slug: "thk-spinelli"
 id: "THK-0114"
 type: "مفكر"
+part: psychology
 level: "متوسط"
 title: "Ernesto Spinelli"
 en: "Ernesto Spinelli"
 crumb: "Existential Psychotherapy ← People ← Ernesto Spinelli"
-dates: "بريطانيا"
+dates: "Britain"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "br-british", title: "The British Current", type: "تيار"
   - id: "dbt-structures", title: "The Dispute over Structures", type: "جدل"

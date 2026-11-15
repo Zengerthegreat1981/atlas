@@ -2,12 +2,13 @@
 slug: "con-resilience"
 id: "CON-19072"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Resilience"
 en: "Resilience"
 crumb: "Resilience"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-meaninglessness", title: "Meaninglessness", type: "مفهوم"
   - id: "con-hope", title: "Hope", type: "مفهوم"

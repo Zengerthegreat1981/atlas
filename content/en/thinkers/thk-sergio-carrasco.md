@@ -2,6 +2,7 @@
 slug: "thk-sergio-carrasco"
 id: "ANT-13259"
 type: "مفكر"
+part: anthropology
 level: "متوسط"
 title: "Sergio Carrasco"
 en: "Sergio Carrasco"
@@ -11,7 +12,6 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
   []
 ---
 
@@ -21,12 +21,12 @@ Sergio Carrasco (Chile, 1943-) is a thinker in the field of Anthropology.
 
 ## Main Branch
 
-Content pending.
+Content not yet covered here.
 
 ## Contributions
 
-Content pending.
+Content not yet covered here.
 
 ## Gaps and Developments
 
-Content pending.
+Content not yet covered here.

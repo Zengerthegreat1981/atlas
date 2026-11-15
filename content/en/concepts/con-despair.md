@@ -2,12 +2,13 @@
 slug: "con-despair"
 id: "CON-19064"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Despair"
 en: "Despair"
 crumb: "Despair"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-hope", title: "Hope", type: "مفهوم"
   - id: "con-meaninglessness", title: "Meaninglessness", type: "مفهوم"

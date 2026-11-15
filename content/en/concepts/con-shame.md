@@ -2,12 +2,13 @@
 slug: "con-shame"
 id: "CON-19076"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Shame"
 en: "Shame"
 crumb: "Shame"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"

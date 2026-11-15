@@ -2,6 +2,7 @@
 slug: "thk-max-gluckman"
 id: "THK-6499"
 type: "مفكر"
+part: anthropology
 level: "متقدم"
 title: "Max Gluckman: Ritual, Conflict, and Social Drama"
 en: "Max Gluckman"

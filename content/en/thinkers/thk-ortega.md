@@ -2,13 +2,14 @@
 slug: "thk-ortega"
 id: "THK-0316"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "José Ortega y Gasset"
 en: "José Ortega y Gasset"
 crumb: "Existential Philosophy ← People ← José Ortega y Gasset"
-dates: "إسبانيا · 1883–1955"
+dates: "Spain · 1883–1955"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
   - id: "thk-unamuno", title: "Miguel de Unamuno", type: "مفكر"

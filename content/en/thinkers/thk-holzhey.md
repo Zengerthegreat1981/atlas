@@ -2,13 +2,14 @@
 slug: "thk-holzhey"
 id: "THK-0116"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "Alice Holzhey-Kunz"
 en: "Alice Holzhey-Kunz"
 crumb: "Existential Philosophy ← People ← Alice Holzhey-Kunz"
-dates: "سويسرا"
+dates: "Switzerland"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "br-daseins", title: "Existential Analysis (Daseinsanalysis)", type: "تيار"
 gaps:

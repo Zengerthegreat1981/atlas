@@ -1,76 +1,34 @@
 {
-  "total_files": 936,
+  "total_files": 906,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "part-not-explicit": 454,
-    "unclassified": 147,
     "edge-target-by-name": 549,
-    "pending": 221,
+    "pending": 120,
     "short": 26,
     "placeholder": 3,
     "duplicate-id-groups": 0
   },
   "flag_examples": {
-    "part-not-explicit": [
-      "axm-existence-precedes-essence",
-      "br-british",
-      "br-daseins",
-      "br-humanistic",
-      "br-logotherapy",
-      "br-political-anthropology-subfield",
-      "con-absurd",
-      "con-adaptation",
-      "con-adoption",
-      "con-aesthetics",
-      "con-age-grade",
-      "con-age-set",
-      "con-aging",
-      "con-alliance",
-      "con-ancestor-worship"
-    ],
-    "unclassified": [
-      "axm-existence-precedes-essence",
-      "br-british",
-      "br-daseins",
-      "br-humanistic",
-      "br-logotherapy",
-      "con-absurd",
-      "con-aging",
-      "con-anxiety-existential",
-      "con-anxiety",
-      "con-authenticity-inauthenticity",
-      "con-authenticity",
-      "con-bad-faith",
-      "con-being-becoming",
-      "con-being-toward-death",
-      "con-choice-constraint"
-    ],
     "edge-target-by-name": [
-      "axm-existence-precedes-essence->المدرسة الوجودية",
-      "br-british->المدرسة الوجودية",
-      "br-british->فان دورزن",
-      "br-british->التيار الأمريكي",
-      "br-british->الظاهراتية",
-      "br-british->الصيغة العلائقية",
-      "br-daseins->المدرسة الوجودية",
-      "br-daseins->هايدجر",
-      "br-daseins->بينسوانغر وبوس",
-      "br-daseins->التيار الأمريكي",
-      "br-daseins->الظاهراتية النفسية المرضية",
-      "br-humanistic->المدرسة الوجودية",
-      "br-humanistic->التحليل الوجودي الأوروبي",
-      "br-humanistic->ماي وبوجنتال ويالوم",
-      "br-humanistic->التيار البريطاني"
+      "axm-existence-precedes-essence->Existentialist School",
+      "br-british->Existentialist School",
+      "br-british->van Deurzen",
+      "br-british->American current",
+      "br-british->Phenomenology",
+      "br-british->Relational formulation",
+      "br-daseins->Existentialist School",
+      "br-daseins->Heidegger",
+      "br-daseins->Binswanger and Boss",
+      "br-daseins->American current",
+      "br-daseins->Phenomenological psychopathology",
+      "br-humanistic->Existentialist School",
+      "br-humanistic->European existential analysis",
+      "br-humanistic->May, Bugental and Yalom",
+      "br-humanistic->British current"
     ],
     "pending": [
-      "br-body-sociology",
-      "br-criminology",
-      "br-refugee-studies",
-      "br-risk-sociology",
       "br-sociology-of-art",
-      "br-sports-sociology",
-      "br-youth-sociology",
       "con-agency-anthropology",
       "con-alienation",
       "con-anomie",
@@ -78,7 +36,13 @@
       "con-bias",
       "con-bureaucracy",
       "con-capital",
-      "con-case-study"
+      "con-case-study",
+      "con-causation",
+      "con-class",
+      "con-community",
+      "con-correlation",
+      "con-ethnocentrism",
+      "con-generalization"
     ],
     "short": [
       "con-being-toward-death",
@@ -105,42 +69,40 @@
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 696,
-    "draft-pending": 221,
+    "review-candidate": 767,
+    "draft-pending": 120,
     "draft-short": 16,
     "placeholder": 3
   },
   "by_module": {
-    "Psychotherapy": {
-      "review-candidate": 9
-    },
     "anthropology": {
-      "review-candidate": 325,
+      "review-candidate": 349,
       "placeholder": 3,
       "draft-pending": 2,
       "draft-short": 1
     },
+    "arab-thought": {
+      "review-candidate": 1
+    },
     "historiography": {
-      "review-candidate": 86
+      "review-candidate": 87
     },
     "philosophy": {
-      "review-candidate": 14
+      "review-candidate": 66,
+      "draft-short": 10
     },
     "psychology": {
-      "review-candidate": 26
+      "review-candidate": 89,
+      "draft-short": 5
     },
     "sociology": {
-      "review-candidate": 104,
-      "draft-pending": 219
-    },
-    "unclassified": {
-      "review-candidate": 132,
-      "draft-short": 15
+      "review-candidate": 175,
+      "draft-pending": 118
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 936,
-    "source nodes": 936,
+    "data-en.json nodes": 906,
+    "source nodes": 906,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

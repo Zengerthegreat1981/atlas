@@ -2,61 +2,56 @@
 slug: "br-logotherapy"
 id: "BRN-0102"
 type: "تيار"
+part: psychology
 level: ""
-title: "[EN TRANSLATION NEEDED]"
+title: "Logotherapy & Existential Analysis"
 en: "Logotherapy & Existential Analysis"
-crumb: "[EN TRANSLATION NEEDED]"
-dates: "النمسا · من الثلاثينيات"
+crumb: "Existential Psychotherapy ← Currents ← Logotherapy & Existential Analysis"
+dates: "Austria · from the 1930s"
 edges:
-  - rel: "part_of", target: "المدرسة الوجودية", target_type: "مدرسة"
-  - rel: "developed_by", target: "فرانكل", target_type: "مفكر"
-  - rel: "revised_by", target: "لانغله", target_type: "مفكر"
-  - rel: "influenced", target: "العلاج المتمركز حول المعنى", target_type: "تدخّل"
-  - rel: "contrasts_with", target: "التيار العلماني", target_type: "تيار"
+  - rel: "part_of", target: "Existentialist School", target_type: "مدرسة"
+  - rel: "developed_by", target: "Frankl", target_type: "مفكر"
+  - rel: "revised_by", target: "Längle", target_type: "مفكر"
+  - rel: "influenced", target: "Meaning-centred therapy", target_type: "تدخّل"
+  - rel: "contrasts_with", target: "Secular current", target_type: "تيار"
 related:
-  - id: "thk-frankl", title: "فرانكل", type: "مفكر"
-  - id: "thk-langle", title: "لانغله", type: "مفكر"
-  - id: "dbt-langle-frankl", title: "الانشقاق", type: "جدل"
-  - id: "dbt-meaning-found", title: "هل المعنى يُكتشَف؟", type: "جدل"
+  - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
+  - id: "thk-langle", title: "Alfried Längle", type: "مفكر"
+  - id: "dbt-langle-frankl", title: "Längle against Frankl: The Viennese Split", type: "جدل"
+  - id: "dbt-meaning-found", title: "Discovered or Created?", type: "جدل"
 gaps:
   - "بيانات الأعمال الأصلية بالألمانية وتواريخها — تحتاج تثبيتاً"
 ---
 
-# [EN TRANSLATION NEEDED]
+# Logotherapy & Existential Analysis
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Logotherapy is the one current of existential therapy that puts meaning — not anxiety, not death — at its centre, and it is also the one current that owns a respectable body of empirical evidence. It was founded by the Austrian neurologist and psychiatrist Viktor Frankl (1905–1997), who developed its first ideas in Vienna in the 1930s and gave it final shape after surviving the Nazi concentration camps. Where the other currents ask how a person meets the givens of existence, logotherapy asks what makes this life worth living, and treats the search for an answer as the primary human motive.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## The Central Question
 
-# العلاج بالمعنى والتحليل الوجودي
+Frankl's hypothesis is that the human being is driven first of all by the "will to meaning" (*Wille zum Sinn*), and that frustration of this will produces an "existential vacuum" — boredom, restlessness, anxiety, and compensatory behaviour, including addiction. The question of therapy is therefore not what is broken in the psyche but what meaning is waiting to be found in this particular life, in this particular situation. Frankl formulated his early ideas while briefly associated with Alfred Adler's circle of individual psychology, from which he broke away, and he tested them in the most extreme conditions imaginable: he survived three years in concentration camps including Auschwitz, and recorded his observations in *Man's Search for Meaning* (German 1946; English 1959), arguing that those who found some meaning amid absolute horror were better able to survive psychologically, and sometimes physically.
 
-التيار الوحيد الذي يجعل المعنى — لا القلق ولا الموت — محوره الأول. وهو أيضاً التيار الوحيد الذي يملك أدلة تجريبية معتبرة.
+## Three Paths to Meaning
 
-## السؤال المركزي
+Frankl held that meaning can be realised through three paths: through what we create and accomplish in work and life; through what we experience and love — relationships, nature, beauty; and through the attitude we take when we cannot change our fate. The third path, attitudinal values, is the heaviest and most famous, because it was the one Frankl himself lived in the camps. To this he added a third dimension of the person beyond the somatic and the psychological — the spiritual or noetic dimension — which cannot fall ill and cannot be reduced to psychophysical disturbance. This opening brought religious questions inside therapy, and it is also what set Frankl at odds with the strictly secular currents of psychoanalysis: a dimension that cannot be ill also cannot be treated, only addressed.
 
-ما الذي يجعل هذه الحياة تستحق أن تُعاش؟ والفرضية: الإنسان مدفوع أولاً بإرادة المعنى، وأن إحباطها يُنتج فراغاً وجودياً يظهر على شكل ضجر وقلق وسلوك تعويضي.
+## Techniques That Can Be Tested
 
-## ثلاثة طرق إلى المعنى
+Logotherapy is the only existential current that produced named techniques, and that is what made it testable. Paradoxical intention asks a patient to do deliberately what they fear — for example, a patient with insomnia is asked to try hard to stay awake — so that anticipatory anxiety collapses once its target is willed rather than feared. Dereflection shifts attention away from excessive self-monitoring, particularly in sexual and performance difficulties, toward a task or a person beyond the self. Frankl set out the systematic theory in *The Doctor and the Soul* (German 1946; English 1955) and in *The Will to Meaning* (1969), where he distinguished logotherapy from psychoanalysis as a therapy that works through meaning rather than through the uncovering of drives.
 
-عند فرانكل: بما نُنجز ونُبدع، وبما نختبر ونحب، وبالموقف الذي نتخذه حين لا نستطيع تغيير المصير. والثالث هو أثقلها وأشهرها.
+## The Split Within
 
-## البُعد الروحي
+In the 1980s and 1990s the current divided. Alfried Längle (born 1951), Frankl's student and collaborator, founded the International Society for Logotherapy and Existential Analysis (GLE) in Vienna in 1983 and went on to develop his own existential analysis, arguing that the question of meaning cannot be asked before a person is able to be present in the world, to love their life, and to be themselves authentically. The result is two separate institutions and training paths: Franklian logotherapy, and Längle's existential analysis, which adds the prior conditions of being able to be, to love life, to be oneself, and only then to find meaning. The dispute is not only organisational; it is philosophical, over whether meaning is discovered in the world or must first be made possible by a person's stance toward their own existence.
 
-فرانكل يضيف للإنسان بُعداً ثالثاً فوق الجسدي والنفسي، لا يمرض ولا يُختزل. هذا فتح باباً للتديّن داخل العلاج، وهو نفسه سبب خصومته مع التيار العلماني.
+## Contemporary Offspring and Criticism
 
-## تقنيات فعلية
+Frankl's ideas have spread further than any other existential current into mainstream care. Meaning-centred psychotherapy, developed for patients with advanced cancer by William Breitbart and colleagues and tested in a pilot randomised trial in 2010, is a direct descendant, as is the "second wave" of positive psychology, which studies meaning rather than happiness alone. Paul Wong's meaning therapy (2010) carries the same lineage into integrative practice. These offspring are the source of the strongest outcome evidence anywhere in the existential school. The criticism has not gone away, however: that logotherapy preaches and directs too much, that "discovering" meaning assumes meaning already exists in the universe — a metaphysical assumption other existentialists reject — and that some of its popular literature has slid from therapy into motivational speaking. The current's defenders reply that a therapy which refuses to speak about meaning at all has abandoned the very question its patients bring into the room.
 
-التيار الوحيد الذي أنتج تقنيات مسمّاة: القصد المتناقض للتعامل مع القلق الاستباقي، وإزاحة التأمل المفرط في الذات. وهذا ما جعله قابلاً للاختبار.
+## Sources
 
-## الانقسام الداخلي
-
-في التسعينيات انفصل عنه تيار يرى أن السؤال عن المعنى لا يمكن أن يُطرح قبل أن يستطيع الشخص أن يكون في العالم ويحب حياته ويكون نفسه. فصار هناك «علاج بالمعنى» و«تحليل وجودي» بمؤسستين منفصلتين.
-
-## النسل المعاصر
-
-العلاج المتمركز حول المعنى في الرعاية التلطيفية، وعلاج المعنى، والموجة الثانية من علم النفس الإيجابي. وهذه الفروع هي مصدر أقوى الأدلة في المدرسة كلها.
-
-## النقد
-
-اتهامات بالوعظية وبالتوجيه المفرط، وبأن «اكتشاف» المعنى يفترض وجوده سلفاً وهو ما ترفضه بقية الوجودية. وأن بعض أدبياته الشعبية انزلقت إلى التحفيز.
--->
+- Viktor E. Frankl, *Man's Search for Meaning: An Introduction to Logotherapy*, 1946.
+- Viktor E. Frankl, *The Doctor and the Soul: From Psychotherapy to Logotherapy*, 1955.
+- Viktor E. Frankl, *The Will to Meaning: Foundations and Applications of Logotherapy*, 1969.
+- Alfried Längle, "Viktor Frankl: A Portrait", *European Psychotherapy*, 2000.
+- William Breitbart et al., "Meaning-Centered Group Psychotherapy for Patients with Advanced Cancer: A Pilot Randomized Controlled Trial", *Psycho-Oncology*, 2010.
+- Paul T. P. Wong, "Meaning Therapy: An Integrative and Positive Existential Psychotherapy", *Journal of Contemporary Psychotherapy*, 2010.

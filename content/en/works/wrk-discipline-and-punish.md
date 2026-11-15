@@ -6,67 +6,47 @@ part: sociology
 level: متوسط
 title: Discipline and Punish
 en: Discipline and Punish
-crumb: علم الاجتماع ← Discipline and Punish
+crumb: Sociology ← Works ← Discipline and Punish
 dates: Michel Foucault · 1975
 active_start: 1975
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies pending
-- Cross-disciplinary applications pending
+gaps: []
 ---
 # Discipline and Punish
 
-## Historical Context and Publication
+## Historical Context and Author
 
-This work was published during a specific historical period characterized by particular social, political, and intellectual conditions. The author's decision to write on this subject at this time reflected urgent questions of the era while contributing to enduring theoretical debates. The publication generated significant scholarly attention and controversy, establishing itself as required reading for sociologists. Different historical eras have read and reinterpreted this work in light of their own concerns, revealing different layers of meaning. The work's initial reception and long-term influence provide insights into how sociology develops through conversation with canonical texts. Understanding the specific historical context prevents anachronistic reading that projects contemporary concerns onto the text.
-
-## Author's Biographical Situation
-
-The author came to this project with particular intellectual formation, institutional position, and personal experiences. Biographical elements shaped which questions seemed urgent and worth investigating. The author's previous work, intellectual influences, and professional networks informed this particular project. Understanding the author's trajectory helps explain the work's distinctive contributions and limitations. Personal experiences with the phenomena being analyzed often motivated scholarly inquiry. The author's social position (nationality, class, gender, race) shaped which perspectives seemed natural or invisible.
+Michel Foucault published *Surveiller et punir: Naissance de la prison* in Paris in 1975; Alan Sheridan's English translation, *Discipline and Punish: The Birth of the Prison*, followed in 1977. The book appeared in the aftermath of the prison revolts that shook France in the early 1970s, in which Foucault himself was active through the Groupe d'information sur les prisons. It was also a product of his move from the archaeology of knowledge to genealogy — the study of how power produces subjects through practices and institutions. Foucault (1926–1984) was a philosopher and historian of systems of thought who held the chair in the History of Systems of Thought at the Collège de France. His earlier books — *Madness and Civilization* (1961) and *The Birth of the Clinic* (1963) — had already made institutions, rather than ideas, the object of philosophical history. His prison activism gave the book its urgency: it was written by someone who had listened to prisoners, not only by someone who had read archives. The book opens with the public torture and execution of the regicide Damiens in 1757, set against the timetable of a nineteenth-century prison.
 
 ## Core Argumentative Structure
 
-The work develops systematic argument about important sociological phenomena or processes. The central claim or thesis provides organizing principle for empirical evidence and theoretical analysis. The argument typically progresses through logically organized sections building toward major conclusions. Supporting arguments address different dimensions of the central question or potential objections. The work's structure reflects assumptions about how to construct convincing sociological argument. Readers have sometimes interpreted the work's argument differently from author's stated intentions, revealing ambiguities or tensions. Subsequent scholarship continues debating the work's central claims and their validity.
+The book's thesis is that modern punishment is not more humane than the tortures it replaced but differently powerful: it aims not at the body but at the soul, producing obedient subjects through discipline. Foucault traces the shift from sovereign power — the public, spectacular violence of the king — to disciplinary power, which works quietly, continuously, and on everyone. The argument moves through the technologies of discipline: distributing bodies in space, controlling activity through timetables, and organising training through exercises. Its centrepiece is the panopticon, Jeremy Bentham's design for a prison in which a single guard, unseen, could watch any prisoner at any time. The prisoners, never knowing whether they are watched, internalise the gaze and discipline themselves. The book ends with the claim that the prison does not fail when it produces more criminals: it succeeds, because delinquency gives the state a manageable, stigmatised population to police.
 
-## Methodological Approach
+## Method and Key Concepts
 
-The work employs particular approach to gathering, analyzing, and presenting evidence about social phenomena. Methodological choices reflect theoretical commitments about what constitutes valid sociological knowledge. The author combines different types of evidence—statistical data, case studies, historical analysis, or textual interpretation—to build argument. The balance between breadth and depth shapes how readers understand the phenomena being analyzed. Methodological limitations may affect which conclusions readers should draw. Subsequent scholars have sometimes challenged the work's methodological approach while accepting conclusions, or vice versa. Understanding methodology helps readers assess the work's evidentiary foundation.
+Foucault's method is genealogy, learned from Nietzsche: a history of the present that traces how current practices emerged from contingent struggles rather than from progress. He works in archives — royal ordinances, prison regulations, reformers' pamphlets, military manuals — reading them not for what they say about ideas but for what they reveal about techniques of power. Disciplinary power is the book's master concept: a form of power that works not by forbidding but by training, examining, and normalising. The docile body is its product — a body that can be subjected, used, transformed, and improved, as in the soldier, the schoolchild, the factory worker. The panopticon names the diagram of this power: visibility as a trap, surveillance that need not be constant because it might be. Normalisation is the process by which deviation is measured against a norm and corrected, through the examination — the technique combining surveillance with judgement, visible in schools and hospitals as much as in prisons.
 
-## Key Concepts and Theoretical Framework
+## Evidence and Findings
 
-The work develops distinctive concepts and theoretical framework for understanding social phenomena. Key concepts often become widely adopted terminology in sociological discourse. Conceptual clarity enables other researchers to apply frameworks to new questions or contexts. The work's conceptual apparatus sometimes challenges existing terminology or proposes entirely new analytic categories. Concepts interconnect systematically, forming coherent analytical toolkit. Different scholars have sometimes emphasized different concepts from the work, leading to multiple interpretations. Contemporary scholars continue refining and extending the work's conceptual framework.
+The book's evidence is historical. Foucault documents the decline of public torture in the late eighteenth century and the rise of imprisonment as the standard penalty, tracing the change through French law and practice. He shows how the timetable, the examination, and the cellular layout were borrowed from monasteries, armies, and schools before they were applied to prisons. He traces the career of the delinquent — the figure produced by the prison system, distinct from the mere lawbreaker — through police records and criminological writing. And he shows how the prison's apparent failure (high recidivism, the production of hardened criminals) is in fact its function: a stable population of delinquents justifies the police, the courts, and the prison itself. The carceral archipelago describes how disciplinary techniques spread beyond the prison, so that the prison is the concentrated form of a society organised by discipline.
 
-## Major Empirical Findings and Evidence
+## Influence and Continuing Relevance
 
-The work documents specific empirical evidence about social patterns and phenomena. Evidence typically demonstrates that something previously unclear or assumed is actually the case. Major findings often surprise readers by revealing something counterintuitive about social life. The work provides detailed supporting evidence for major claims rather than mere assertion. Different readers sometimes draw different conclusions from evidence, suggesting genuine interpretive questions. Subsequent research has sometimes confirmed findings while other studies have complicated or challenged them. The strength and limitations of evidentiary base affect how readers assess conclusions.
-
-## Influence on Sociological Theory
-
-The work changed how sociologists think about particular phenomena or fundamental questions. Subsequent scholars built directly on the work's frameworks and concepts to develop new theories. The work established research agendas that occupied sociologists for decades. Major theoretical movements sometimes claim descent from this work. The work influenced not only sociology but related disciplines and public intellectual discourse. Different scholarly traditions have claimed this work as ancestor, sometimes in contradictory ways. Understanding the work's theoretical influence provides perspective on sociology's intellectual development.
-
-## Continuing Relevance and Contemporary Challenges
-
-Contemporary sociologists continue returning to this work as resource for understanding modern phenomena. The work addresses enduring dimensions of social life rather than merely historical artifacts. Digital and technological changes have prompted new readings of the work's insights. Scholars engage critically with the work while drawing on its analytical value. Some argue the work requires fundamental revision in light of contemporary conditions. Others maintain core insights remain valid despite historical change. The work's ability to sustain multiple interpretations enables its continuing vitality.
+*Discipline and Punish* transformed the sociology of power, punishment, and surveillance. It made the prison a central object of sociological theory and supplied the concepts — disciplinary power, surveillance, normalisation — with which sociologists now analyse schools, hospitals, workplaces, and digital platforms. David Garland's *Punishment and Modern Society* (1990) and the sociology of punishment rest on it. The panopticon became the master metaphor of surveillance studies, applied to CCTV, workplace monitoring, and social media. Its relevance has grown with the surveillance society. The panopticon is now digital: smartphones, CCTV, data brokers, and algorithmic management watch constantly, and people discipline themselves — curating profiles, moderating speech, performing productivity — under a gaze they cannot see. The book's argument that the prison produces delinquency rather than preventing crime is central to debates about mass incarceration and the carceral state.
 
 ## Critical Assessments and Limitations
 
-Critics identify important limitations and problems in the work's argument, evidence, or methodology. Some criticisms question specific empirical claims or methods. Others challenge fundamental theoretical assumptions underlying the work. Feminist scholars have identified gender blindness or inadequate engagement with gender relations. Postcolonial critics question whether the work generalizes from Western particularity to supposed universals. Scholars of color have noted inadequate attention to racial dimensions of phenomena analyzed. Contemporary defenders of the work argue criticisms require refinement rather than wholesale rejection. Integrating critical perspectives while preserving insights remains ongoing challenge.
+Historians argue that Foucault exaggerates the rupture between sovereign and disciplinary power — public punishment persisted, and discipline existed long before the eighteenth century. The book's evidence is drawn almost entirely from France, yet its claims are presented as universal. It gives little room to resistance: prisoners, workers, and the colonised appear mainly as objects of power, not as agents who fought it. Feminist critics note the absence of gender — the disciplined body in the book is implicitly male — and postcolonial critics note the absence of empire, though colonial punishment was among the most brutal forms of discipline. Critics also ask whether the digital panopticon still works as Foucault described it, when surveillance is decentralised and commercial. The book remains, for all that, the indispensable starting point for any sociology of modern power.
 
-## Methodological Implications
+## Sources
 
-The work establishes or exemplifies particular approach to sociological research. The work's methodology influenced how subsequent researchers conducted their own investigations. The methodological innovation sometimes proved more influential than specific findings. Contemporary methodologists reflect on how this work exemplifies good practice or serves as cautionary tale. Digital humanities now apply new analytical tools to examine the work's texts and influence. The work demonstrates integration of theoretical and empirical analysis rather than treating them as separate.
-
-## Related and Subsequent Works
-
-This work exists within broader conversation with other major texts and researchers. The author's subsequent work often extends or modifies arguments from this text. Contemporary scholars have produced works directly responding to this work. Different scholarly traditions have elaborated the work's implications in different directions. Understanding how this work relates to others provides fuller picture of sociological theory. The work sometimes opened new fields of research undertaken by later scholars. Comparative analysis of similar works reveals both distinctive contributions and shared questions.
-
-## Sources and Further Reading
-
-- The work itself remains primary source for understanding its arguments and evidence
-- Major scholarly commentary examining the work's contributions and limitations
-- Historical accounts of how the work influenced subsequent sociological development
-- Contemporary applications extending the work's framework to new phenomena
-- Critical assessments addressing problematic aspects of the work's analysis
-
+- Foucault, Michel. *Discipline and Punish: The Birth of the Prison*. Translated by Alan Sheridan. Pantheon, 1977. First published as *Surveiller et punir*, Gallimard, 1975.
+- Foucault, Michel. *The History of Sexuality*, vol. 1: *An Introduction*. Translated by Robert Hurley. Pantheon, 1978. First published 1976.
+- Foucault, Michel. *Madness and Civilization: A History of Insanity in the Age of Reason*. Translated by Richard Howard. Pantheon, 1965. First published 1961.
+- Garland, David. *Punishment and Modern Society: A Study in Social Theory*. University of Chicago Press, 1990.
+- Sheridan, Alan. *Michel Foucault: The Will to Truth*. Tavistock, 1980.
+- Eribon, Didier. *Michel Foucault*. Translated by Betsy Wing. Harvard University Press, 1991. First published 1989.
+- Gutting, Gary. *Foucault: A Very Short Introduction*. Oxford University Press, 2005.
+- Mathiesen, Thomas. "The Viewer Society: Michel Foucault's 'Panopticon' Revisited." *Theoretical Criminology* 1, no. 2 (1997): 215–234.

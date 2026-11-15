@@ -2,13 +2,14 @@
 slug: "thk-frankl"
 id: "THK-0108"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "Viktor Frankl: Will to Meaning"
 en: "Viktor Frankl"
 crumb: "Existentialism ← Logotherapy ← Viktor Frankl"
 dates: "Austria · 1905–1997"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
   - rel: "founder_of", target: "br-logotherapy", target_type: "تيار"
 related:
   - id: "br-logotherapy", title: "Logotherapy: Meaning-Centered Therapy", type: "تيار"

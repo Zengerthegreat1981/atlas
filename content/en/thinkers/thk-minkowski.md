@@ -2,13 +2,14 @@
 slug: "thk-minkowski"
 id: "THK-0107"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "Eugène Minkowski"
 en: "Eugène Minkowski"
 crumb: "Existential Philosophy ← People ← Eugène Minkowski"
-dates: "فرنسا"
+dates: "France"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "rel-phenopath", title: "Psychopathological Phenomenology", type: "علاقة"
   - id: "br-daseins", title: "The Current", type: "تيار"

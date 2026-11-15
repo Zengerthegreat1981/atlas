@@ -2,12 +2,13 @@
 slug: "con-relationships"
 id: "CON-19067"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Relationships"
 en: "Relationships"
 crumb: "Relationships"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-love", title: "Love", type: "مفهوم"
   - id: "con-isolation", title: "Isolation", type: "مفهوم"

@@ -2,13 +2,14 @@
 slug: "thk-rank"
 id: "THK-0321"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "Otto Rank"
 en: "Otto Rank"
 crumb: "Existentialist School ← People ← Otto Rank"
-dates: "النمسا/أمريكا · 1884–1939"
+dates: "Austria/America · 1884–1939"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-may", title: "Rollo May", type: "مفكر"
 gaps:

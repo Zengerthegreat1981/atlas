@@ -2,12 +2,13 @@
 slug: "con-individuation"
 id: "CON-0429"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Individuation"
 en: "Individuation"
 crumb: "Individuation"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 ---

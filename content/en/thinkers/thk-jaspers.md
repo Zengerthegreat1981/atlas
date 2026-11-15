@@ -2,13 +2,14 @@
 slug: "thk-jaspers"
 id: "THK-0103"
 type: "مفكر"
+part: philosophy
 level: "متوسط"
 title: "Karl Jaspers"
 en: "Karl Jaspers"
 crumb: "Existentialist School ← People ← Karl Jaspers"
-dates: "ألمانيا · طبيب نفسي وفيلسوف"
+dates: "Germany · psychiatrist and philosopher"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "br-daseins", title: "Existential Analysis", type: "تيار"
 gaps:

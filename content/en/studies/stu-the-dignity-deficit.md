@@ -4,22 +4,22 @@ id: SOC-14480
 type: دراسة
 part: sociology
 level: متوسط
-title: عجز الكرامة
+title: "The Dignity Deficit"
 en: The Dignity Deficit
-crumb: علم الاجتماع ← عجز الكرامة
+crumb: "Sociology ← The Dignity Deficit"
 dates: ''
 active_start: 1920
 active_end: مستمر
 edges: []
 related: []
 gaps:
-- Full methodology pending
-- Findings summary pending
-- Contemporary relevance pending
+- Full methodology: not yet covered
+- Findings summary: not yet covered
+- Contemporary relevance: not yet covered
 ---
 # The Dignity Deficit
 
-The Dignity Deficit: Hochschild's cultural sociology. Methodological significance and contemporary implications pending full analysis.
+The Dignity Deficit: Hochschild's cultural sociology. Methodological significance and contemporary implications are not yet covered here.
 
 ## Sources
 

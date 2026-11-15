@@ -2,12 +2,13 @@
 slug: "con-choice-constraint"
 id: "CON-0425"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Choice and Constraint"
 en: "Choice and Constraint"
 crumb: "Choice and Constraint"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 ---

@@ -2,13 +2,14 @@
 slug: "thk-shestov"
 id: "THK-0317"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "Lev Shestov"
 en: "Lev Shestov"
 crumb: "Existential Philosophy ← People ← Lev Shestov"
-dates: "روسيا/فرنسا · 1866–1938"
+dates: "Russia/France · 1866–1938"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
   - id: "thk-berdyaev", title: "Nikolai Berdyaev", type: "مفكر"

@@ -2,51 +2,68 @@
 slug: "dbt-british-yalom"
 id: "DBT-0306"
 type: "جدل"
+part: philosophy
 level: ""
-title: "[EN TRANSLATION NEEDED]"
+title: "The British against the American Current"
 en: "Philosophy or technique?"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential School ← Debates ← The British against the American Current"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
 related:
-  - id: "br-british", title: "التيار البريطاني", type: "تيار"
-  - id: "br-humanistic", title: "التيار الأمريكي", type: "تيار"
-  - id: "thk-vandeurzen", title: "فان دورزن", type: "مفكرة"
-  - id: "thk-yalom", title: "يالوم", type: "مفكر"
+  - id: "br-british", title: "British Existential-Phenomenological", type: "تيار"
+  - id: "br-humanistic", title: "Existential-Humanistic", type: "تيار"
+  - id: "thk-vandeurzen", title: "Emmy van Deurzen", type: "مفكرة"
+  - id: "thk-yalom", title: "Irvin D. Yalom", type: "مفكر"
 gaps:[]
 ---
 
-# [EN TRANSLATION NEEDED]
+# The British against the American Current
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The widest contemporary dispute inside existential therapy, and at bottom a disagreement about what makes therapy "existential" in the first place: is it a strict commitment to a descriptive phenomenological method with no structure imposed in advance, or a teachable, practical framework that may include a prior classification of human anxiety?
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## The American position — Yalom's four ultimate concerns
 
-# البريطانيون ضد التيار الأمريكي
+Irvin Yalom set out the American position in *Existential Psychotherapy* (1980). He proposed four "ultimate concerns" — death, freedom, existential isolation, and meaninglessness — as the fundamental sources of existential anxiety with which therapy must work. The four concerns gave therapists a map: whatever a client brings, the therapist can ask which ultimate concern it touches, and work from there.
 
-أوسع خصومة معاصرة، وهي في جوهرها خلاف على ما يجعل العلاج «وجودياً» أصلاً.
+The framework proved extraordinarily teachable. It was translated into dozens of languages, entered clinical doctoral programmes in North America from the 1980s onwards, and became for many readers outside the field simply what existential therapy is. Its defenders insist that the four concerns are offered as a teaching tool, openly declared as such, not as a final ontological claim about the structure of existence itself.
 
-## الاعتراض الأول — التقنية
+## The British objection — van Deurzen and Spinelli
 
-أن تحويل الوجودية إلى أدوات وخطوات يفرغها من معناها. الوجودية موقف من الوجود لا مجموعة إجراءات، وأول ما يُفقَد بالتقنين هو ما يميّزها.
+Emmy van Deurzen objected in *Existential Counselling & Psychotherapy in Practice* (1988) that Yalom's classification is a ready-made structure imposed on the client's experience instead of being drawn out of the client's own phenomenological description. Her alternative, taken from Ludwig Binswanger, describes the client's experience through four dimensions of existence — the physical (*Umwelt*), the social (*Mitwelt*), the personal (*Eigenwelt*), and the spiritual (*Überwelt*) — dimensions across which experience is described, not categories into which it is sorted in advance.
 
-## الاعتراض الثاني — الفردانية
+Ernesto Spinelli went further. In *The Interpreted World: An Introduction to Phenomenological Psychology* (1989) and later in *Practising Existential Psychotherapy: The Relational World* (2007), he argued that any prior classification of anxiety — including van Deurzen's own four dimensions if they are used as a checklist — violates the principle of the phenomenological epoché, the suspension of prior assumptions borrowed from Husserl. On Spinelli's view, the method demands description with no categories fixed in advance at all.
 
-أن التيار الأمريكي يخاطب فرداً معزولاً عن طبقته وعلاقاته وظروفه المادية. والبديل المقترح يجعل البُعد الاجتماعي واحداً من أربعة أبعاد لا حاشية.
+## Three objections
 
-## الاعتراض الثالث — التصنيف
+The British case is usually made as three objections. First, technique: turning existentialism into tools and steps empties it of its meaning. Existentialism is a stance towards being, not a set of procedures, and the first thing lost by codification is exactly what distinguishes it.
 
-أن «الاهتمامات النهائية الأربعة» بنية مفروضة من خارج الخبرة. والمنهج الظاهراتي يقتضي أن نصف ما يظهر لا أن نصنّفه سلفاً.
+Second, individualism: the American current addresses an individual cut off from class, relationships, and material circumstances. The British alternative makes the social dimension one of four dimensions of existence rather than a footnote, so that a client's world — work, family, poverty, migration — is part of the description from the start.
 
-## الرد الأمريكي
+Third, classification: the "four ultimate concerns" are a structure imposed from outside experience. A phenomenological method requires describing what shows itself, not sorting it in advance. The real dispute is therefore not about the number of concerns or their names, but about the source of the structure: Yalom's fourfold scheme is derived from his own reading of Heidegger, Tillich, and Sartre and then applied as a near-diagnostic frame, while the strict phenomenological method, as Husserl and then Binswanger formulated it, requires categories of understanding to emerge from the direct description of each client's experience.
 
-أن الالتزام المنهجي الصارم أنتج نصوصاً بديعة ومعالجين قليلين. وأن مدرسة لا تُدرَّس ولا تُنقَل تموت في جيل واحد. وأن التصنيف أداة تعليمية معلَنة لا ادعاء أنطولوجي.
+## The American reply
 
-## من الرابح؟
+The reply is practical rather than philosophical. Strict methodological commitment, the Americans argue, produced beautiful texts and few therapists. A school that cannot be taught and handed on dies within a generation. The fourfold structure is a declared teaching instrument, not an ontological claim — and its success in training and translation is itself evidence that it works.
 
-لا أحد بالضربة القاضية. الأمريكي ربح الانتشار والترجمة والحضور في الكتب. والبريطاني ربح الاتساق المنهجي والبنية التدريبية. وثالث — فروع المعنى — ربح الأدلة، وهو الذي لا ينتمي لأي من الطرفين.
+There is a pointed admission inside the British camp that strengthens the reply: van Deurzen's dimensions, once taught as a framework, can harden into exactly the kind of checklist Spinelli warns against. The British position is therefore not one position but a spectrum, from van Deurzen's structured description to Spinelli's refusal of all prior categories.
 
-## الأثر العملي لو رجّحت أحد الطرفين
+## Who won?
 
-<b>لو رجّحت الصيغة الأمريكية (يالوم):</b> تعمل بأطر قابلة للتدريس والتدريس (الاهتمامات الأربعة الأساسية)، وتستطيع تدريب معالجين جدد بسرعة نسبية، والتواصل مع مؤسسات تأمين صحي وبحثي تطلب بروتوكولات واضحة. الخطر: أن تتحول فلسفة عميقة إلى قائمة تحقق (checklist) تفقد حساسيتها للفرد وللسياق الاجتماعي الذي يعيش فيه.<br><b>لو رجّحت الصيغة البريطانية (أبعاد الوجود الأربعة، فان دورزن، سبينيللي):</b> تلتزم بمنهج ظاهراتي وصفي أكثر دقة وحساسية للفرد وسياقه الاجتماعي، لكنك تواجه صعوبة حقيقية في تدريب أعداد كبيرة من المعالجين بسرعة، وصعوبة في التواصل مع أنظمة تمويل صحي تطلب أدلة قابلة للقياس والمقارنة.<br><b>الأثر المؤسسي طويل المدى:</b> هذا الخلاف يحدد مباشرة أي المدرسة تنمو وتنتشر عالمياً (الأمريكية أسرع انتشاراً لقابليتها للتعليم) وأيهما تبقى أعمق فلسفياً لكن أضيق انتشاراً — وهو توتر بين الأصالة الفلسفية والقابلية المؤسسية للبقاء لم يُحسم ولن يُحسم على الأرجح.
--->
+No one, by knockout. The American current won diffusion, translation, and presence in textbooks. The British current won methodological consistency and the training structure of the British existential schools. And a third party — the meaning-oriented branches — won the evidence, since it is the structured, meaning-centred therapies that have produced the randomised trials the field can point to, and that current belongs to neither side of this dispute.
+
+## What follows in practice
+
+If you adopt the American form (Yalom), you work with teachable frameworks — the four ultimate concerns — you can train new therapists relatively quickly, and you can speak to health-insurance and research institutions that demand clear protocols. The risk is that a deep philosophy becomes a checklist that loses sensitivity to the individual and to the social context in which they live.
+
+If you adopt the British form (van Deurzen's four dimensions, Spinelli's descriptive method), you commit to a more precise phenomenological method, more sensitive to the individual and their social context, but you face a real difficulty in training large numbers of therapists quickly and in communicating with health-funding systems that demand measurable, comparable evidence.
+
+The long-term institutional effect is direct: this dispute decides which school grows and spreads globally — the American spreads faster because it can be taught — and which remains philosophically deeper but narrower in reach. It is a tension between philosophical fidelity and institutional survivability that has not been resolved and probably will not be.
+
+## Sources
+
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
+- van Deurzen, E. (1988). *Existential Counselling & Psychotherapy in Practice*. Sage.
+- Spinelli, E. (1989). *The Interpreted World: An Introduction to Phenomenological Psychology*. Sage.
+- Spinelli, E. (2007). *Practising Existential Psychotherapy: The Relational World*. Sage.
+- Cooper, M. (2003). *Existential Therapies*. Sage.
+- van Deurzen, E., & Arnold-Baker, C. (Eds.). (2005). *Existential Perspectives on Human Issues: A Handbook for Therapeutic Practice*. Palgrave Macmillan.

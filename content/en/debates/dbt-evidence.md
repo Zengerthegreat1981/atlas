@@ -2,49 +2,65 @@
 slug: "dbt-evidence"
 id: "DBT-0309"
 type: "جدل"
+part: philosophy
 level: ""
-title: "[EN TRANSLATION NEEDED]"
+title: "Should We Demand Empirical Evidence?"
 en: "The evidence fight"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Existential School ← Debates ← Should We Demand Empirical Evidence?"
 edges:
-  - rel: "occurs_within", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "occurs_within", target: "Existentialist School", target_type: "مدرسة"
 related:
-  - id: "dbt-school-or-attitude", title: "مدرسة أم موقف", type: "جدل"
-  - id: "br-logotherapy", title: "فروع المعنى", type: "تيار"
+  - id: "dbt-school-or-attitude", title: "School or Attitude?", type: "جدل"
+  - id: "br-logotherapy", title: "Logotherapy & Existential Analysis", type: "تيار"
 gaps:[]
 ---
 
-# [EN TRANSLATION NEEDED]
+# Should We Demand Empirical Evidence?
 
-[EN TRANSLATION NEEDED — lede paragraph]
+The hottest dispute in existential therapy today, and one with a literally existential price: whether the school survives inside health-care systems or is pushed out of them. The question is whether existential therapists should submit their work to randomised controlled trials and the standards of evidence-based practice — or refuse, on the grounds that those standards were built for something else entirely.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## The first position — yes
 
-# هل نطلب أدلة تجريبية؟
+Without randomised trials we will be excluded from funding, insurance, and the university, and we will become a marginal practice available only to those who can pay for it privately. Survival requires playing by the rules that govern the field. From this side, the demand for evidence is not a philosophical concession but a practical necessity: a therapy that cannot demonstrate its effects in the terms the health system recognises will not be commissioned, taught in public training programmes, or reimbursed.
 
-أسخن خصومة اليوم، ولها ثمن وجودي بالمعنى الحرفي: بقاء المدرسة داخل الأنظمة الصحية أو خروجها منها.
+The position has a record to point to. The meaning-centred branch accepted the rules and produced evidence. Breitbart and colleagues ran a pilot randomised trial of meaning-centred group psychotherapy for patients with advanced cancer in 2010, and a larger randomised trial of the same approach in 2015 with 253 patients, reporting significant improvements in spiritual well-being and psychological distress. That is the kind of result funders and guideline committees can read.
 
-## الموقف الأول — نعم
+## The second position — no
 
-بلا تجارب معشّاة سنُستبعَد من التمويل والتأمين والجامعة، وسنتحوّل إلى ممارسة هامشية يمارسها من يستطيع دفع ثمنها خاصةً. البقاء يقتضي اللعب بالقواعد القائمة.
+The evaluation standards in question were designed for short, standardised interventions with measured targets. Accepting them means redesigning the work to fit the ruler — so that what we end up measuring will not be what we actually do. An open-ended phenomenological encounter, in which the therapist follows the client's unfolding description of their world, cannot be manualised without changing its nature; and a trial that requires a manual will therefore test a manual, not the therapy.
 
-## الموقف الثاني — لا
+This is not a refusal of rigour. Its defenders argue that the demand smuggles in a picture of what therapy is — a technical intervention delivered to a disorder — that existential therapy explicitly rejects. To accept the trial as the only legitimate judge is to accept that picture first, and the dispute is then already lost before the data arrive.
 
-معايير التقييم هذه صُمِّمت لتدخّلات موحّدة قصيرة بأهداف مقاسة. وقبولها يعني إعادة تصميم عملنا ليناسب المسطرة — أي أن ما سنقيسه لن يكون ما نفعله.
+## The third position — other standards
 
-## الموقف الثالث — معايير أخرى
+A third position, and the one growing fastest today, is to develop evaluation tools suited to the nature of the work: organised qualitative research, single-case designs, and measures of meaning and authenticity rather than symptoms alone. Its advocates accept accountability — the school must show what it does and whether it helps — but insist that accountability need not mean one method of proof.
 
-نطوّر أدوات تقييم تناسب طبيعة العمل: بحوث كيفية منظّمة، وتصاميم حالة واحدة، ومقاييس للمعنى والأصالة لا للأعراض فقط. وهذا الموقف هو المتنامي اليوم.
+Qualitative studies of clients' experience of existential therapy, systematic case studies, and outcome measures built around meaning in life rather than symptom reduction all belong here. The argument is that a pluralist evidence base, matched to a pluralist practice, is more honest than either submission to the randomised trial or refusal of all evaluation.
 
-## الواقعة التي تحسم شيئاً
+## The finding that settles something
 
-التحليل البعدي المتاح يقول إن الفرع الوحيد ذا الأثر الواضح هو الفرع المهيكل الموجَّه. أي أن الموقف الأول له سند: حين قبلت المدرسة القواعد، أنتجت أدلة. والموقف الثاني له سند أيضاً: ما أنتج الأدلة هو تحديداً ما تخلّى عن جزء من الهوية.
+The available meta-analysis says something both sides can use. Vos, Craig, and Cooper (2015) reviewed twenty-one eligible randomised trials of existential therapies, with fifteen studies and 1,792 participants in the analysis. Meaning therapies showed large effects on positive meaning in life immediately after treatment and at follow-up, and moderate effects on psychopathology and self-efficacy; supportive-expressive therapy showed small effects; experiential-existential and cognitive-existential therapies showed no significant effects.
 
-## ما يجب ألّا يُقال
+So the first position has support: when the school accepted the rules, it produced evidence. And the second position has support too: what produced the evidence was precisely the most structured, manualised branch — the one that had given up part of the identity the rest of the school defends. The meta-analysis also warned that the studies were few and of low quality, which both sides quote.
 
-«لا توجد أدلة على العلاج الوجودي» جملة خاطئة — توجد، وهي متواضعة ومركّزة في فرع واحد. و«العلاج الوجودي مثبت الفاعلية» جملة خاطئة أيضاً. والصيغة الأمينة بينهما.
+## What must not be said
 
-## الأثر العملي لو رجّحت أحد الطرفين
+"There is no evidence for existential therapy" is a false sentence — there is evidence, and it is modest and concentrated in one branch. "Existential therapy is proven effective" is equally false. The honest formulation lies between them: structured meaning-centred therapies show promising effects, mainly for physically ill patients, on meaning in life and distress; for the wider, less structured forms of existential therapy, the evidence base is thin.
 
-<b>لو رجّحت طلب الأدلة التجريبية:</b> تخضع تقنيات العلاج الوجودي لتجارب مقارنة، ومقاييس نتائج كمية، ومراجعات منهجية — وهذا يمنحها مصداقية أمام أنظمة الصحة النفسية القائمة على الأدلة (evidence-based practice) وأمام شركات التأمين، ويفتح باب التمويل البحثي والاعتراف الأكاديمي الرسمي. الخطر: أن تُختزل خبرة إنسانية معقدة إلى متغيرات قابلة للقياس، فتفقد التقنية دقتها الفلسفية سعياً لقابلية القياس.<br><b>لو رفضت هذا المطلب (حجة أن الخبرة الوجودية فريدة لا تُقاس):</b> تحافظ على عمق الوصف الظاهراتي وتجنّب تسطيح المفهوم، لكن المدرسة تبقى مهمّشة في الأنظمة الصحية المعاصرة التي تطلب أدلة كمية كشرط للتمويل والاعتماد، وقد تخسر مساحة تأثير حقيقية على السياسات الصحية النفسية.<br><b>الأثر المؤسسي:</b> هذا الخلاف يحدد مباشرة مستقبل المدرسة كتخصص معترف به رسمياً أو كتيار فلسفي هامشي يمارَس خارج الأطر الصحية الرسمية — وهو ما يجعله أهم خلافات المدرسة استراتيجياً لبقائها.
--->
+## What follows in practice
+
+If you favour demanding empirical evidence, existential techniques are subjected to comparative trials, quantitative outcome measures, and systematic reviews — which grants credibility before evidence-based health systems and insurers, and opens research funding and formal academic recognition. The risk is that a complex human experience is reduced to measurable variables, and the technique loses its philosophical precision in pursuit of measurability.
+
+If you refuse the demand, on the argument that existential experience is unique and unmeasurable, you preserve the depth of phenomenological description and avoid flattening the concept — but the school remains marginal in contemporary health systems that require quantitative evidence as a condition of funding and accreditation, and may lose real influence over mental-health policy.
+
+Institutionally, this dispute decides the school's future directly: whether it becomes a formally recognised speciality or a philosophical current practised outside official health frameworks. That is what makes it the most strategically important of the school's disputes for its survival.
+
+## Sources
+
+- Vos, J., Craig, M., & Cooper, M. (2015). Existential therapies: A meta-analysis of their effects on psychological outcomes. *Journal of Consulting and Clinical Psychology, 83*(1), 115–128.
+- Breitbart, W., Rosenfeld, B., Gibson, C., Pessin, H., Poppito, S., Nelson, C., Tomarken, A., Timm, A. K., Berg, A., Jacobson, C., Sorger, B., Abbey, J., & Olden, M. (2010). Meaning-centered group psychotherapy for patients with advanced cancer: A pilot randomized controlled trial. *Psycho-Oncology, 19*(1), 21–28.
+- Breitbart, W., Rosenfeld, B., Pessin, H., Applebaum, A., Kulikowski, J., & Lichtenthal, W. G. (2015). Meaning-centered group psychotherapy: An effective intervention for improving psychological well-being in patients with advanced cancer. *Journal of Clinical Oncology, 33*(7), 749–754.
+- Breitbart, W., Poppito, S., Rosenfeld, B., Vickers, A. J., Li, Y., Abbey, J., Olden, M., Pessin, H., Lichtenthal, W., Sjoberg, D., & Cassileth, B. R. (2012). Pilot randomized controlled trial of individual meaning-centered psychotherapy for patients with advanced cancer. *Journal of Clinical Oncology, 30*(12), 1304–1309.
+- Cooper, M. (2003). *Existential Therapies*. Sage.
+- Frankl, V. E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, 1959.)
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

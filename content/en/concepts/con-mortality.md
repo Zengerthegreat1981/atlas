@@ -2,12 +2,13 @@
 slug: "con-mortality"
 id: "CON-19075"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Mortality"
 en: "Mortality"
 crumb: "Mortality"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-death", title: "Death", type: "مفهوم"
   - id: "con-anxiety-existential", title: "Existential Anxiety", type: "مفهوم"

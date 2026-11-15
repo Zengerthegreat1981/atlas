@@ -2,12 +2,13 @@
 slug: "con-meaning"
 id: "CON-0405"
 type: "مفهوم"
+part: philosophy
 level: "متقدم"
 title: "Meaning and Meaninglessness: The School's Dividing Line"
 en: "Meaning and meaninglessness"
 crumb: "Existentialism ← Core Concepts ← Meaning"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
   - rel: "divides", target: "br-logotherapy", target_type: "تيار"
 related:
   - id: "thk-frankl", title: "Viktor Frankl", type: "مفكر"

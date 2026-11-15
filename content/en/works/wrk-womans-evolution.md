@@ -2,6 +2,7 @@
 slug: "wrk-womans-evolution"
 id: "ANT-13032"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "Woman's Evolution"
 en: "Woman's Evolution"

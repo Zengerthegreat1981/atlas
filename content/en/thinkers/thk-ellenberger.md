@@ -2,13 +2,14 @@
 slug: "thk-ellenberger"
 id: "THK-0323"
 type: "مفكر"
+part: psychology
 level: "متوسط"
 title: "Henri F. Ellenberger"
 en: "Henri F. Ellenberger"
 crumb: "Existential Psychotherapy ← People ← Henri F. Ellenberger"
-dates: "كندا (أصل سويسري) · 1905–1993"
+dates: "Canada (Swiss-born) · 1905–1993"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-may", title: "Rollo May", type: "مفكر"
   - id: "wrk-existence", title: "Existence", type: "عمل / كتاب"

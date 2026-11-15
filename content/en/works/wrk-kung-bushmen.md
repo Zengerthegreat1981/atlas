@@ -2,6 +2,7 @@
 slug: "wrk-kung-bushmen"
 id: "ANT-13267"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "The !Kung San: Men, Women, and Work in a Foraging Society"
 en: "The Kung Bushmen"

@@ -2,6 +2,7 @@
 slug: "wrk-elementary-structures"
 id: "ANT-13265"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "The Elementary Structures of Kinship"
 en: "The Elementary Structures of Kinship"

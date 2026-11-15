@@ -2,10 +2,11 @@
 slug: "con-prayer"
 id: "ANT-13176"
 type: "مفهوم"
+part: anthropology
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Prayer"
 en: "Prayer"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Anthropology ← Prayer"
 dates: ""
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
@@ -14,27 +15,36 @@ related:
 gaps:
   []
 ---
+# Prayer
 
-# [EN TRANSLATION NEEDED]
+Prayer is communication with superhuman beings — gods, spirits, ancestors, saints — through words, gestures, song or silence, in which the petitioner asks, thanks, praises, confesses or simply attends. It ranges from the fixed liturgies recited by millions in unison to the whispered, improvised plea of a single person in crisis, and from silent meditation to loud collective supplication. For anthropology, prayer is a fundamental religious act: it is where belief becomes practice, where the relationship between humans and the sacred is enacted, and where individuals and communities articulate their hopes, fears and moral obligations.
 
-[EN TRANSLATION NEEDED — lede paragraph]
+## Origins and Development
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+The first systematic sociological study of prayer was Marcel Mauss's essay "On Prayer" (1909). Mauss defined prayer as a religious rite that is oral and bears directly on sacred things, and he traced its history from the magical formulae of archaic religion — words believed to compel results automatically — to the interior, spiritual prayer of the great world religions. For Mauss, prayer is a social fact: its forms are given by tradition, its efficacy is collective, and even the most private prayer is spoken in a language and a posture learned from others.
 
-# الدعاء
+Emile Durkheim, in *The Elementary Forms of Religious Life* (1912), placed prayer at the centre of his theory of religion. Prayer, for Durkheim, is the means by which the individual enters into communion with the sacred — and the sacred, in his famous argument, is society itself, transfigured. The collective effervescence of ritual prayer binds participants into a moral community; the person who prays is strengthened not only by belief but by the social force of the congregation. Private prayer, on this account, is a residue of collective ritual, carried into solitude.
 
-[Brief description in Arabic for translator reference]
+Bronislaw Malinowski, in *Magic, Science and Religion* (1925), drew a different distinction. Where magic seeks to control outcomes through technique, prayer is an act of submission: the petitioner acknowledges dependence on powers beyond human control and asks rather than commands. Malinowski observed that Trobriand Islanders used magical formulae for gardening and sailing, where technique mattered, but turned to prayer and supplication where outcomes were genuinely beyond reach — before a dangerous voyage, at a deathbed. Prayer, in this view, answers to uncertainty and to the limits of human power.
 
-## الفرع الرئيسي
+## Key Debates and Dimensions
 
-[Key section in Arabic]
+The first debate concerns prayer and magic. Mauss's historical scheme treated prayer as evolving out of magic; later anthropologists argued that the two coexist and interpenetrate, and that the boundary between them is drawn differently in different traditions. A Catholic novena, a Sufi *dhikr*, a Shinto *norito* and a Pentecostal prayer for healing each combine petition, praise and formula in ways that defeat any simple classification.
 
-## المساهمات
+A second debate concerns language and efficacy. Clifford Geertz, in "Religion as a Cultural System" (1966), argued that religious symbols — including prayer — provide both a model of the world and a model for living in it: prayer tells people how the cosmos is ordered and how they should feel and act within it. The words of prayer are thus performative in a double sense: they address the sacred and they shape the person who prays, cultivating dispositions such as humility, gratitude and patience. Studies of prayer as a bodily practice — kneeling, prostration, raised hands, closed eyes — extend this insight: the body learns the prayer as much as the mind does.
 
-[Contributions in Arabic]
+A third debate concerns interiority. The modern Western image of prayer as private, sincere, inward communion is historically specific, and Talal Asad, in *Genealogies of Religion* (1993), argued that it reflects a particular post-Reformation, secular formation of religion. In many traditions, prayer is primarily public, formulaic and embodied — its value lies in correct performance rather than inner feeling — and the anthropologist who looks only for interior belief misses what prayer does. Asad's critique warns against projecting one culture's idea of prayer onto all others.
 
-## الفجوات والتطورات
+A fourth dimension is prayer's social work. Prayer circles sustain the sick; intercessory prayer mobilises community support; public prayer asserts identity in contested spaces, from street prayers to parliamentary invocations; and prayer can be protest, as when the oppressed pray aloud for justice. Prayer is also economically significant — pilgrimage, offerings and prayer economies move resources across communities.
 
-[Gaps in Arabic]
+## Contemporary Relevance
 
--->
+Prayer remains one of the most widely practised human activities. Surveys consistently find that large majorities pray, including many who do not attend religious services. The forms are changing: prayer apps, televised services, online prayer requests and social-media prayer chains extend old practices into new media, while the COVID-19 pandemic saw a surge in both private prayer and streamed worship. Medical research on intercessory prayer remains contested, but the anthropology of prayer is less concerned with whether prayer heals bodies than with how it sustains persons — giving language to grief, structure to hope, and a community to those who suffer. In a secular age, prayer persists because it does something no other act quite does: it lets people speak to what exceeds them.
+
+## Sources
+
+- Mauss, Marcel. "On Prayer." *L'Annee Sociologique*, 1909.
+- Durkheim, Emile. *The Elementary Forms of Religious Life*. Paris: Felix Alcan, 1912.
+- Malinowski, Bronislaw. *Magic, Science and Religion and Other Essays*. New York: Doubleday, 1925.
+- Geertz, Clifford. "Religion as a Cultural System." In *Anthropological Approaches to the Study of Religion*, edited by Michael Banton. London: Tavistock, 1966.
+- Asad, Talal. *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*. Baltimore: Johns Hopkins University Press, 1993.

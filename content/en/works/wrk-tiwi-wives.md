@@ -2,6 +2,7 @@
 slug: "wrk-tiwi-wives"
 id: "ANT-13138"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "The Tiwi of North Australia"
 en: "The Tiwi of North Australia"

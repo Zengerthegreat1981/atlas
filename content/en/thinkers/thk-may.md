@@ -2,13 +2,14 @@
 slug: "thk-may"
 id: "THK-0109"
 type: "مفكر"
+part: psychology
 level: "مبتدئ"
 title: "Rollo May"
 en: "Rollo May"
 crumb: "Existential Psychotherapy ← People ← Rollo May"
-dates: "الولايات المتحدة"
+dates: "USA"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "br-humanistic", title: "The American Current", type: "تيار"
   - id: "thk-yalom", title: "Yalom", type: "مفكر"

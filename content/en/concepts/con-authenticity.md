@@ -2,12 +2,13 @@
 slug: "con-authenticity"
 id: "CON-0407"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Authenticity"
 en: "Authenticity"
 crumb: "Existential Psychotherapy ← Concepts ← Authenticity"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-heidegger", title: "Heidegger", type: "مفكر"
   - id: "thk-bugental", title: "Bugental", type: "مفكر"

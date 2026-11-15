@@ -2,10 +2,11 @@
 slug: "con-performance"
 id: "ANT-13228"
 type: "مفهوم"
+part: anthropology
 level: "متوسط"
-title: "[EN TRANSLATION NEEDED]"
+title: "Performance"
 en: "Performance"
-crumb: "[EN TRANSLATION NEEDED]"
+crumb: "Anthropology ← Performance"
 dates: ""
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
@@ -15,26 +16,34 @@ gaps:
   []
 ---
 
-# [EN TRANSLATION NEEDED]
+# Performance
 
-[EN TRANSLATION NEEDED — lede paragraph]
+Performance is the enactment of social life before an audience, whether that audience is a crowd at a ritual, a courtroom, a dinner table, or the self. In anthropology, performance is both an object of study — rituals, storytelling, dance, theatre, and everyday displays of identity — and an analytic idea: the claim that social life itself is performed, that people present versions of themselves, follow scripts, and are judged by how convincingly they do so. The study of performance therefore links the anthropology of ritual to the sociology of everyday interaction and to the philosophy of language and the body.
 
-<!-- ملاحظة: الأقسام (##) والاقتباسات في النسخة العربية هنا للرجوع إليها كمرجع للمترجم فقط، احذفها بعد الترجمة:
+## Origins and Development
 
-# الأداء والعرض
+The modern study of performance began with the observation that rituals do things rather than merely say things. Victor Turner argued in *The Ritual Process*, published in 1969, that ritual creates a liminal space — a threshold between ordinary states — in which normal rules are suspended and new identities and relationships become possible. Initiation rites, healing ceremonies, and festivals do not simply represent the social order; they remake it, and they do so through embodied action: movement, song, costume, and the manipulation of sacred objects. Turner's later work on social drama extended the idea to conflict itself, treating disputes as performances with recognisable phases of breach, crisis, redress, and resolution.
 
-[Brief description in Arabic for translator reference]
+Erving Goffman brought performance into everyday life. In *The Presentation of Self in Everyday Life* (1956), he argued that social interaction is like theatre: people manage impressions, control the setting, and use props and manners to present a credible self to others. A waiter, a doctor, and a mourner are all performers, and social life depends on audiences accepting their performances. Goffman's insight was that this is not deception: performance is how social reality is made, and a convincing performance is a genuine social achievement.
 
-## الفرع الرئيسي
+Richard Schechner, a theatre director and scholar, founded performance studies as a field. In *Performance Theory* (1977), he treated ritual, play, sport, and theatre as a single continuum of restored behaviour — behaviour that is rehearsed, repeated, and learned, and therefore available for analysis. Richard Bauman, in *Verbal Art as Performance* (1977), applied the same thinking to language, showing that storytelling, joking, and oratory are performances in which speakers display skill and invite evaluation. A story is not only its content; it is the way it is told, the timing, the voice, and the response of the listeners.
 
-[Key section in Arabic]
+## Key Debates
 
-## المساهمات
+One central debate concerns the relationship between performance and sincerity. If social life is performed, does that mean it is fake? Anthropologists answer that performance and sincerity are not opposites. A ritual performer may be deeply sincere, and a sincere person still performs: grief, devotion, and authority are all expressed through culturally learned forms. Judith Butler developed this point for gender in *Gender Trouble* (1990), arguing that gender is not an inner essence expressed outwardly but a repeated performance — a stylised repetition of acts — that produces the very identity it appears to express. The debate continues: critics ask whether performativity leaves room for agency and resistance, while defenders argue that because identity is performed, it can be performed differently.
 
-[Contributions in Arabic]
+A second debate concerns efficacy. How does a performance do what it claims to do — heal the sick, marry a couple, install a chief? J. L. Austin's philosophy of speech acts, which distinguishes utterances that describe the world from those that change it, has been influential here: a wedding vow or a curse is effective because it is spoken in the right context by the right person in the right form. Anthropologists add that efficacy also depends on the audience: a ritual fails if the community does not accept it, however correctly it is performed. Performance is therefore a social accomplishment, not a mechanical technique.
 
-## الفجوات والتطورات
+A third debate concerns the boundary between ritual and theatre. Turner and Schechner argued that the two share a common structure, and that modern theatre grew out of ritual. Others insist on the difference: ritual participants believe in what they do, while theatre audiences know they are watching fiction. The debate matters for how anthropologists study both, and for the ethics of ethnography itself, since fieldwork has been described as a performance in which the anthropologist plays a role for the community being studied.
 
-[Gaps in Arabic]
+## Contemporary Relevance
 
--->
+Performance is now a central concept across the human sciences. It is used to analyse political rallies, religious revivals, social media profiles, protest movements, and the everyday work of presenting the self online. The idea that identity is performed helps explain why people curate their photographs, rehearse job interviews, and adopt different personas in different settings. It also helps explain resistance: when marginalised people parody, exaggerate, or refuse the performances expected of them, they challenge the social order itself. For anthropology, the study of performance remains a way of taking embodied, expressive action seriously — of showing that human beings do not only think and believe, but sing, dance, dress, gesture, and speak, and that these performances are where social life happens.
+
+## Sources
+
+- Erving Goffman, *The Presentation of Self in Everyday Life*, 1956.
+- Victor Turner, *The Ritual Process: Structure and Anti-Structure*, 1969.
+- Richard Schechner, *Performance Theory*, 1977.
+- Richard Bauman, *Verbal Art as Performance*, 1977.
+- Judith Butler, *Gender Trouble: Feminism and the Subversion of Identity*, 1990.

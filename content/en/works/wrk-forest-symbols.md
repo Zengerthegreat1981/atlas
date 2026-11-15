@@ -2,6 +2,7 @@
 slug: "wrk-forest-symbols"
 id: "ANT-13033"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "The Ritual Process: Structure and Anti-Structure"
 en: "The Forest of Symbols"

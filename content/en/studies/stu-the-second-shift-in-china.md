@@ -4,22 +4,22 @@ id: SOC-14489
 type: دراسة
 part: sociology
 level: متوسط
-title: الوظيفة الثانية في الصين
+title: "The Second Shift in China"
 en: The Second Shift in China
-crumb: علم الاجتماع ← الوظيفة الثانية في الصين
+crumb: "Sociology ← The Second Shift in China"
 dates: ''
 active_start: 1920
 active_end: مستمر
 edges: []
 related: []
 gaps:
-- Full methodology pending
-- Findings summary pending
-- Contemporary relevance pending
+- Full methodology: not yet covered
+- Findings summary: not yet covered
+- Contemporary relevance: not yet covered
 ---
 # The Second Shift in China
 
-The Second Shift in China: Hochschild's transnational comparison. Methodological significance and contemporary implications pending full analysis.
+The Second Shift in China: Hochschild's transnational comparison. Methodological significance and contemporary implications: not yet covered here.
 
 ## Sources
 

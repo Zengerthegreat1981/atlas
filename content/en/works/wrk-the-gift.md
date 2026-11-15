@@ -2,6 +2,7 @@
 slug: "wrk-the-gift"
 id: "ANT-13133"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "The Gift: Forms and Functions of Exchange in Archaic Societies"
 en: "The Gift"

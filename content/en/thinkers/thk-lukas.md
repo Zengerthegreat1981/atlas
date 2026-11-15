@@ -2,13 +2,14 @@
 slug: "thk-lukas"
 id: "THK-0319"
 type: "مفكر"
+part: philosophy
 level: "مبتدئ"
 title: "Elisabeth Lukas"
 en: "Elisabeth Lukas"
 crumb: "Existentialist School ← People ← Elisabeth Lukas"
-dates: "النمسا · معاصرة (تحتاج تحقق)"
+dates: "Austria · contemporary (needs verification)"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-frankl", title: "Viktor Frankl", type: "مفكر"
   - id: "thk-langle", title: "Alfred Langle", type: "مفكر"

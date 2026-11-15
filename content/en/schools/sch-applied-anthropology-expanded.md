@@ -1,0 +1,54 @@
+---
+slug: "sch-applied-anthropology-expanded"
+id: "SCH-12386"
+type: "مدرسة"
+part: anthropology
+level: "متوسط"
+title: "Applied Anthropology"
+en: "Applied Anthropology"
+crumb: "Anthropology ← Schools ← Applied Anthropology"
+dates: "USA/International · 1930s-present"
+edges:
+  - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
+related:
+gaps:
+  - "Ethics of intervention"
+  - "Postcolonial critiques"
+---
+
+# Applied Anthropology
+
+Applied anthropology is the use of anthropological knowledge and methods to solve practical human problems — in public health, development, education, business, environmental management, and government. Where academic anthropology asks what a society is and how it works, applied anthropology asks what can be done, and how anthropological understanding can make an intervention work better, or prevent it from doing harm. It is the discipline's oldest ambition and, for much of its history, its most contested one: the same knowledge that helps a health program succeed can also help a government control a population, and applied anthropologists have spent a century arguing about where help ends and complicity begins.
+
+## History and Emergence
+
+Applied work is as old as anthropology itself. In the nineteenth century, anthropologists advised colonial governments, and in the early twentieth, figures such as Bronislaw Malinowski argued that anthropology should be useful — Malinowski's "practical anthropology" promised colonial administrators a science of how to govern subject peoples, a proposal that now reads as a cautionary tale. The field took institutional form in the United States in the 1930s and 1940s. The Society for Applied Anthropology was founded in 1941, and its journal *Human Organization* began publication the same year, giving practitioners a forum of their own. During the Second World War, anthropologists worked on wartime relocation, on morale, and on the administration of occupied territories; after the war, many moved into development, public health, and community studies.
+
+The postwar decades saw the field professionalize. Sol Tax's "action anthropology" in the 1950s — developed in the Fox Project with the Meskwaki of Iowa — tried to square the circle: the anthropologist would help a community achieve goals the community itself defined, rather than goals set by an outside agency. In the 1960s and 1970s, applied anthropologists worked in international development, in nutrition and health programs, and in the War on Poverty's community action programs. The field's textbooks consolidated in the 1980s: Erve Chambers's *Applied Anthropology: A Practical Guide* (1985) and John van Willigen's *Applied Anthropology: An Introduction* (1986) defined the curriculum, and van Willigen's later editions and the edited volume *Applied Anthropology: Domains of Application* (2005, with Satish Kedia) mapped the field's expanding range of settings.
+
+## Key Figures
+
+Sol Tax (1907–1995) founded action anthropology and the model of the anthropologist as facilitator of community-defined change. Margaret Mead (1901–1978) was the most prominent public applied anthropologist, advising governments and writing for general audiences on child-rearing, food habits, and national character. George Foster (1913–2006) shaped the anthropology of development and public health, and his *Applied Anthropology* (1969) was a standard text. John van Willigen (born 1939) systematized the field's methods and its domains of practice, from agriculture to aging. Erve Chambers (born 1940) defined the practical craft of applied work. Robert Hackenberg (1936–2020) and Beverly Hackenberg developed the "future lies ahead" agenda for applied anthropology in the twenty-first century. In recent decades, Susan Slyomovics, Susan Crate, and others have carried applied anthropology into environmental justice and climate change.
+
+## Key Works
+
+The field's landmarks are its textbooks and program statements. Foster's *Applied Anthropology* (1969) set out the postwar consensus. Van Willigen's *Applied Anthropology: An Introduction* (1986) remains the standard survey of methods — applied research, social impact assessment, evaluation research, cultural brokerage, and needs assessment. Chambers's *Applied Anthropology: A Practical Guide* (1985) is the complementary handbook. Ervin's *Applied Anthropology: Tools and Perspectives for Contemporary Practice* (2000) updated the field for the era of globalization. Kedia and van Willigen's *Applied Anthropology: Domains of Application* (2005) mapped the field's settings, from agriculture and environment to health, nutrition, education, and business. Rylko-Bauer, Singer, and van Willigen's "Reclaiming Applied Anthropology: Its Past, Present, and Future" (2006) argued that applied work should be reclaimed as central to the discipline rather than treated as a second-class career.
+
+## Method
+
+Applied anthropology's methods are the methods of ethnography, adapted to the constraints of real-world problems: rapid assessment procedures, focus groups, participatory appraisal, needs assessment, and evaluation research. The work is typically collaborative and time-bound — a health program has a deadline, a resettlement plan has a budget — and the anthropologist must produce findings that non-anthropologists can use. A distinctive method is cultural brokerage: translating between the world of a community and the world of an agency, so that each can understand the other's categories and constraints. Another is social impact assessment: predicting, before a dam is built or a mine is opened, how the project will affect the people who live there. The method's defining feature is accountability to two audiences at once: the community affected and the institution paying for the work — and the tension between them is the field's permanent condition.
+
+## Influence and Debates
+
+Applied anthropology has changed how institutions work. Health programs now routinely include ethnographic research on local understandings of illness; development agencies employ anthropologists to assess the social consequences of their projects; and the idea that an intervention must be culturally appropriate is now a truism in public health, education, and environmental management. The field has also changed anthropology, forcing it to confront the question of what its knowledge is for.
+
+The debates are ethical and structural, and they are the gaps this entry's stub names. The ethics of intervention: when an anthropologist helps a government resettle a community or a corporation mine a landscape, whose interests are being served? The postcolonial critique: does applied anthropology, however well-intentioned, reproduce the colonial relationship between expert and subject? And the question of employment: as academic jobs have contracted, more anthropologists work outside the university, and the discipline has had to decide whether that is a loss or a liberation. The field's answer, increasingly, is that applied anthropology is one of the discipline's most demanding forms — because it must be right, not only interesting, and because the people it studies are also its clients and its judges.
+
+## Sources
+
+- Foster, George M. *Applied Anthropology*. 1969.
+- Chambers, Erve. *Applied Anthropology: A Practical Guide*. 1985.
+- Van Willigen, John. *Applied Anthropology: An Introduction*. 1986.
+- Ervin, Alexander M. *Applied Anthropology: Tools and Perspectives for Contemporary Practice*. 2000.
+- Kedia, Satish, and John van Willigen, eds. *Applied Anthropology: Domains of Application*. 2005.
+- Rylko-Bauer, Barbara, Merrill Singer, and John van Willigen. "Reclaiming Applied Anthropology: Its Past, Present, and Future." *American Anthropologist* 108, no. 3. 2006.

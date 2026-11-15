@@ -2,6 +2,7 @@
 slug: "con-sacred"
 id: "ANT-13092"
 type: "مفهوم"
+part: anthropology
 level: "متوسط"
 title: "The Sacred: Separation, Prohibition, and Transformation"
 en: "The Sacred"

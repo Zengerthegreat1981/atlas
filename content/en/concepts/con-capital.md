@@ -4,17 +4,17 @@ id: SOC-14220
 type: مفهوم
 part: sociology
 level: متوسط
-title: رأس المال
+title: "Capital"
 en: Capital
-crumb: علم الاجتماع ← رأس المال
+crumb: "Sociology ← Capital"
 dates: ''
 active_start: 1900
 active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed empirical case studies pending
-- Cross-disciplinary applications pending
+- Detailed empirical case studies: not yet covered
+- Cross-disciplinary applications: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---

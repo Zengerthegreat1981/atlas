@@ -2,6 +2,7 @@
 slug: "wrk-kinship-and-marriage"
 id: "ANT-13342"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "Kinship and Marriage: An Anthropological Perspective"
 en: "Kinship and Marriage"

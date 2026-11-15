@@ -2,12 +2,13 @@
 slug: "con-authenticity-inauthenticity"
 id: "CON-0423"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Authenticity-Inauthenticity"
 en: "Authenticity-Inauthenticity"
 crumb: "Authenticity-Inauthenticity"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
   - id: "con-bad-faith", title: "Bad Faith", type: "مفهوم"

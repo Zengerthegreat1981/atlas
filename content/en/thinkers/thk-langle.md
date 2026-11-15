@@ -2,13 +2,14 @@
 slug: "thk-langle"
 id: "THK-0115"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "Alfried Längle"
 en: "Alfried Längle"
 crumb: "Existential Philosophy ← People ← Alfried Längle"
-dates: "النمسا"
+dates: "Austria"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "br-logotherapy", title: "Branches of Meaning", type: "تيار"
   - id: "dbt-langle-frankl", title: "The Split", type: "جدل"

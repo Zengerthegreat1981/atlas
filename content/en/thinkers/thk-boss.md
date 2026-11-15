@@ -2,13 +2,14 @@
 slug: "thk-boss"
 id: "THK-0106"
 type: "مفكر"
+part: psychology
 level: "متقدم"
 title: "Medard Boss"
 en: "Medard Boss"
 crumb: "Existential Psychotherapy ← People ← Medard Boss"
-dates: "سويسرا"
+dates: "Switzerland"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-binswanger", title: "Binswanger", type: "مفكر"
   - id: "thk-heidegger", title: "Heidegger", type: "مفكر"

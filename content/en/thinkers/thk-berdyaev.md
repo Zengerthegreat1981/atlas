@@ -2,13 +2,14 @@
 slug: "thk-berdyaev"
 id: "THK-0315"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "Nikolai Berdyaev"
 en: "Nikolai Berdyaev"
 crumb: "Existential Philosophy ← People ← Nikolai Berdyaev"
-dates: "روسيا/فرنسا · 1874–1948"
+dates: "Russia/France · 1874–1948"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-marcel", title: "Gabriel Marcel", type: "مفكر"
   - id: "thk-shestov", title: "Lev Shestov", type: "مفكر"

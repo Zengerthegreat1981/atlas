@@ -2,12 +2,13 @@
 slug: "con-trauma"
 id: "CON-19077"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Trauma"
 en: "Trauma"
 crumb: "Trauma"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-anxiety-existential", title: "Existential Anxiety", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"

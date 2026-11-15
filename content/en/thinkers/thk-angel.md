@@ -2,13 +2,14 @@
 slug: "thk-angel"
 id: "THK-0322"
 type: "مفكر"
+part: psychology
 level: "مبتدئ"
 title: "Ernest Angel"
 en: "Ernest Angel"
 crumb: "Existential Psychotherapy ← People ← Ernest Angel"
-dates: "النمسا/أمريكا · تحتاج تحقق"
+dates: "Austria/America · needs verification"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-may", title: "Rollo May", type: "مفكر"
   - id: "wrk-existence", title: "Existence", type: "عمل / كتاب"

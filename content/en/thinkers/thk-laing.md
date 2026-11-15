@@ -2,13 +2,14 @@
 slug: "thk-laing"
 id: "THK-0111"
 type: "مفكر"
+part: philosophy
 level: "متوسط"
 title: "R. D. Laing"
 en: "R. D. Laing"
 crumb: "Existential Philosophy ← People ← R. D. Laing"
-dates: "بريطانيا"
+dates: "Britain"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "dbt-laing", title: "The Psychosis Dispute", type: "جدل"
   - id: "rel-phenopath", title: "Psychopathological Phenomenology", type: "علاقة"

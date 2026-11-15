@@ -2,12 +2,13 @@
 slug: "con-being-becoming"
 id: "CON-0426"
 type: "مفهوم"
+part: psychology
 level: "متوسط"
 title: "Being and Becoming"
 en: "Being and Becoming"
 crumb: "Being and Becoming"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 ---

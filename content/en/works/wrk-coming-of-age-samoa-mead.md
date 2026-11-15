@@ -2,6 +2,7 @@
 slug: "wrk-coming-of-age-samoa-mead"
 id: "WRK-2119"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "Coming of Age in Samoa: A Psychological Study of Primitive Youth for Western Civilisation"
 en: "Coming of Age in Samoa"

@@ -6,67 +6,53 @@ part: sociology
 level: متوسط
 title: Gender Trouble
 en: Gender Trouble
-crumb: علم الاجتماع ← Gender Trouble
+crumb: Sociology ← Works ← Gender Trouble
 dates: Judith Butler · 1990
 active_start: 1990
 active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed empirical case studies pending
-- Cross-disciplinary applications pending
+- Detailed empirical case studies: not yet covered
 ---
 # Gender Trouble
 
+*Gender Trouble: Feminism and the Subversion of Identity* (1990), by the philosopher Judith Butler, is one of the most influential works of feminist theory and a founding text of queer theory. Published by Routledge, the book argues that gender is not a natural expression of an inner sex but a performance: a repeated stylisation of the body that produces the very identity it appears to express. Its central provocation — that there is no "doer behind the deed," no stable subject who precedes gender — challenged the foundations of feminist politics, which had taken "women" as its subject, and it reshaped sociology, cultural studies, and political theory.
+
 ## Historical Context and Publication
 
-This work was published during a specific historical period characterized by particular social, political, and intellectual conditions. The author's decision to write on this subject at this time reflected urgent questions of the era while contributing to enduring theoretical debates. The publication generated significant scholarly attention and controversy, establishing itself as required reading for sociologists. Different historical eras have read and reinterpreted this work in light of their own concerns, revealing different layers of meaning. The work's initial reception and long-term influence provide insights into how sociology develops through conversation with canonical texts. Understanding the specific historical context prevents anachronistic reading that projects contemporary concerns onto the text.
+Butler wrote *Gender Trouble* in the late 1980s, amid the AIDS crisis, the feminist "sex wars," and the growing visibility of lesbian and gay politics. Butler, then a young philosopher at Johns Hopkins University and later at the University of California, Berkeley, drew on French poststructuralism — Foucault, Derrida, Lacan — and on feminist thinkers including Simone de Beauvoir, Monique Wittig, and Luce Irigaray. The book appeared as feminism was being challenged from within: Black feminists and lesbian feminists argued that the category "women" obscured differences of race, class, and sexuality, and Butler's book gave that challenge its most radical philosophical form. A preface written for the tenth anniversary edition in 1999 clarified its aims for a wider audience.
 
-## Author's Biographical Situation
+## Thesis and Core Argument
 
-The author came to this project with particular intellectual formation, institutional position, and personal experiences. Biographical elements shaped which questions seemed urgent and worth investigating. The author's previous work, intellectual influences, and professional networks informed this particular project. Understanding the author's trajectory helps explain the work's distinctive contributions and limitations. Personal experiences with the phenomena being analyzed often motivated scholarly inquiry. The author's social position (nationality, class, gender, race) shaped which perspectives seemed natural or invisible.
+Butler's central claim is that gender is performative. This does not mean that gender is a voluntary role one can put on or take off at will, like a costume; it means that gender is produced through the compulsive repetition of acts — gestures, speech, dress, desire — that are socially regulated and enforced. There is no original, natural gender that these acts imitate; rather, the repetition creates the illusion of an inner essence. Butler calls the system that organises this repetition the "heterosexual matrix": a grid of cultural intelligibility that assumes a stable sex, expressed in a stable gender, expressed in opposite-sex desire, and renders other combinations unintelligible or abject. The book also challenges the sex/gender distinction, arguing that "sex" itself is not a prediscursive biological given but is produced through the same discursive practices as gender. Feminism, Butler argues, therefore faces a problem: if "women" is a category produced by the very power relations feminism opposes, then organising politics around that identity risks reinforcing what it seeks to undo.
 
-## Core Argumentative Structure
+## Structure and Method
 
-The work develops systematic argument about important sociological phenomena or processes. The central claim or thesis provides organizing principle for empirical evidence and theoretical analysis. The argument typically progresses through logically organized sections building toward major conclusions. Supporting arguments address different dimensions of the central question or potential objections. The work's structure reflects assumptions about how to construct convincing sociological argument. Readers have sometimes interpreted the work's argument differently from author's stated intentions, revealing ambiguities or tensions. Subsequent scholarship continues debating the work's central claims and their validity.
+Butler's method is philosophical and textual: a close, critical reading of canonical thinkers that exposes the assumptions on which their arguments depend. The book's famous discussion of drag argues that drag reveals the imitative structure of all gender — the "original" it parodies is itself a copy — and thus opens the possibility of subversive repetition.
 
-## Methodological Approach
+## Key Concepts
 
-The work employs particular approach to gathering, analyzing, and presenting evidence about social phenomena. Methodological choices reflect theoretical commitments about what constitutes valid sociological knowledge. The author combines different types of evidence—statistical data, case studies, historical analysis, or textual interpretation—to build argument. The balance between breadth and depth shapes how readers understand the phenomena being analyzed. Methodological limitations may affect which conclusions readers should draw. Subsequent scholars have sometimes challenged the work's methodological approach while accepting conclusions, or vice versa. Understanding methodology helps readers assess the work's evidentiary foundation.
+Several concepts from the book have entered the core vocabulary of sociology and cultural studies. "Performativity," adapted from J. L. Austin's theory of speech acts, names the process by which repeated acts bring into being what they name. The "heterosexual matrix" describes the cultural logic that makes only certain combinations of sex, gender, and desire intelligible. "Gender trouble" itself names both the book's topic and its political strategy: to make trouble for the categories that regulate identity. "Abject bodies" refers to those lives that fall outside intelligibility and are therefore unliveable or ungrievable. These concepts gave sociologists new tools for studying how identities are made and unmade, and they shaped the development of queer theory, transgender studies, and the sociology of the body.
 
-## Key Concepts and Theoretical Framework
+## Reception and Influence
 
-The work develops distinctive concepts and theoretical framework for understanding social phenomena. Key concepts often become widely adopted terminology in sociological discourse. Conceptual clarity enables other researchers to apply frameworks to new questions or contexts. The work's conceptual apparatus sometimes challenges existing terminology or proposes entirely new analytic categories. Concepts interconnect systematically, forming coherent analytical toolkit. Different scholars have sometimes emphasized different concepts from the work, leading to multiple interpretations. Contemporary scholars continue refining and extending the work's conceptual framework.
+*Gender Trouble* was immediately influential and widely debated. It helped found queer theory alongside the work of Eve Kosofsky Sedgwick, and it reshaped feminist theory, the sociology of gender and sexuality, and cultural studies. Butler developed and revised the argument in *Bodies That Matter* (1993), which addressed the materiality of the body, and in *Undoing Gender* (2004), which engaged more directly with transgender and intersex lives. It remains one of the most cited works in the humanities and social sciences, and a standard text in courses on gender, sexuality, and social theory.
 
-## Major Empirical Findings and Evidence
+## Critical Assessments
 
-The work documents specific empirical evidence about social patterns and phenomena. Evidence typically demonstrates that something previously unclear or assumed is actually the case. Major findings often surprise readers by revealing something counterintuitive about social life. The work provides detailed supporting evidence for major claims rather than mere assertion. Different readers sometimes draw different conclusions from evidence, suggesting genuine interpretive questions. Subsequent research has sometimes confirmed findings while other studies have complicated or challenged them. The strength and limitations of evidentiary base affect how readers assess conclusions.
+The book has attracted powerful criticism. Martha Nussbaum argued in 1999 that Butler's focus on the subversion of symbols offered no practical programme for feminist politics and abandoned the material struggles of women, particularly in the Global South. Others have questioned whether performativity, as Butler defines it, leaves room for agency: if subjects are produced by discourse, how can they resist it? Butler's later work addresses this directly, developing an account of agency as the possibility of resignification within the very norms that constrain us. Feminist critics have also debated the book's treatment of the body and of sexual difference, and trans scholars have both drawn on and criticised Butler's framework. Defenders argue that these criticisms often misread the book: performativity is not a theory of free choice but of constrained repetition, and its political point is that the categories that appear natural are in fact made — and can therefore be remade.
 
-## Influence on Sociological Theory
+## Continuing Relevance
 
-The work changed how sociologists think about particular phenomena or fundamental questions. Subsequent scholars built directly on the work's frameworks and concepts to develop new theories. The work established research agendas that occupied sociologists for decades. Major theoretical movements sometimes claim descent from this work. The work influenced not only sociology but related disciplines and public intellectual discourse. Different scholarly traditions have claimed this work as ancestor, sometimes in contradictory ways. Understanding the work's theoretical influence provides perspective on sociology's intellectual development.
+More than three decades after publication, *Gender Trouble* remains a live resource. Its analysis of how categories produce the subjects they claim to describe speaks directly to contemporary debates about gender identity, the regulation of trans lives, and the politics of recognition. Sociologists continue to use performativity to study how identities are enacted in everyday life, from workplaces to social media, and how institutions police the boundaries of intelligible gender. The book's enduring challenge is also its enduring value: it asks readers to question the categories that seem most natural, and to imagine a politics that does not depend on fixed identities.
 
-## Continuing Relevance and Contemporary Challenges
+## Sources
 
-Contemporary sociologists continue returning to this work as resource for understanding modern phenomena. The work addresses enduring dimensions of social life rather than merely historical artifacts. Digital and technological changes have prompted new readings of the work's insights. Scholars engage critically with the work while drawing on its analytical value. Some argue the work requires fundamental revision in light of contemporary conditions. Others maintain core insights remain valid despite historical change. The work's ability to sustain multiple interpretations enables its continuing vitality.
-
-## Critical Assessments and Limitations
-
-Critics identify important limitations and problems in the work's argument, evidence, or methodology. Some criticisms question specific empirical claims or methods. Others challenge fundamental theoretical assumptions underlying the work. Feminist scholars have identified gender blindness or inadequate engagement with gender relations. Postcolonial critics question whether the work generalizes from Western particularity to supposed universals. Scholars of color have noted inadequate attention to racial dimensions of phenomena analyzed. Contemporary defenders of the work argue criticisms require refinement rather than wholesale rejection. Integrating critical perspectives while preserving insights remains ongoing challenge.
-
-## Methodological Implications
-
-The work establishes or exemplifies particular approach to sociological research. The work's methodology influenced how subsequent researchers conducted their own investigations. The methodological innovation sometimes proved more influential than specific findings. Contemporary methodologists reflect on how this work exemplifies good practice or serves as cautionary tale. Digital humanities now apply new analytical tools to examine the work's texts and influence. The work demonstrates integration of theoretical and empirical analysis rather than treating them as separate.
-
-## Related and Subsequent Works
-
-This work exists within broader conversation with other major texts and researchers. The author's subsequent work often extends or modifies arguments from this text. Contemporary scholars have produced works directly responding to this work. Different scholarly traditions have elaborated the work's implications in different directions. Understanding how this work relates to others provides fuller picture of sociological theory. The work sometimes opened new fields of research undertaken by later scholars. Comparative analysis of similar works reveals both distinctive contributions and shared questions.
-
-## Sources and Further Reading
-
-- The work itself remains primary source for understanding its arguments and evidence
-- Major scholarly commentary examining the work's contributions and limitations
-- Historical accounts of how the work influenced subsequent sociological development
-- Contemporary applications extending the work's framework to new phenomena
-- Critical assessments addressing problematic aspects of the work's analysis
-
+- Butler, Judith. *Gender Trouble: Feminism and the Subversion of Identity*. New York: Routledge, 1990. 2nd ed., 1999.
+- Butler, Judith. *Bodies That Matter: On the Discursive Limits of "Sex"*. New York: Routledge, 1993.
+- Butler, Judith. *Undoing Gender*. New York: Routledge, 2004.
+- Beauvoir, Simone de. *The Second Sex*. Paris: Gallimard, 1949.
+- Nussbaum, Martha C. "The Professor of Parody." *The New Republic*, 22 February 1999.
+- Salih, Sara. *Judith Butler*. London: Routledge, 2002.
+- Wittig, Monique. "The Straight Mind." *Feminist Issues* 1, no. 1 (1980): 103–111.

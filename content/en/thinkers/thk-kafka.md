@@ -2,13 +2,14 @@
 slug: "thk-kafka"
 id: "THK-0313"
 type: "مفكر"
+part: psychology
 level: "متوسط"
 title: "Franz Kafka"
 en: "Franz Kafka"
 crumb: "Existential Psychotherapy ← People ← Franz Kafka"
-dates: "النمسا-المجر (براغ) · 1883–1924"
+dates: "Austria-Hungary (Prague) · 1883–1924"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-camus", title: "Albert Camus", type: "مفكر"
   - id: "con-alienation", title: "Alienation", type: "مفهوم"

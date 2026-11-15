@@ -2,12 +2,13 @@
 slug: "con-fear"
 id: "CON-0411"
 type: "مفهوم"
+part: psychology
 level: "مبتدئ"
 title: "Fear"
 en: "Fear"
 crumb: "Existential Psychotherapy ← Concepts ← Fear"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "dbt-evidence", title: "Do We Demand Empirical Evidence?", type: "جدل"
 gaps:

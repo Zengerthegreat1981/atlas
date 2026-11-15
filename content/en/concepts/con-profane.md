@@ -2,6 +2,7 @@
 slug: "con-profane"
 id: "ANT-13093"
 type: "مفهوم"
+part: anthropology
 level: "متوسط"
 title: "The Profane: The Ordinary and the Non-Sacred"
 en: "The Profane"

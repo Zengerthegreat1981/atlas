@@ -2,13 +2,14 @@
 slug: "thk-binswanger"
 id: "THK-0105"
 type: "مفكر"
+part: philosophy
 level: "متقدم"
 title: "Ludwig Binswanger"
 en: "Ludwig Binswanger"
 crumb: "Existentialist School ← People ← Ludwig Binswanger"
-dates: "سويسرا"
+dates: "Switzerland"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-boss", title: "Boss", type: "مفكر"
   - id: "dbt-boss-binswanger", title: "The Rivalry", type: "جدل"

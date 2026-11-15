@@ -2,12 +2,13 @@
 slug: "con-freedom"
 id: "CON-0402"
 type: "مفهوم"
+part: philosophy
 level: "متوسط"
 title: "Freedom"
 en: "Freedom"
 crumb: "Existential Philosophy ← Concepts ← Freedom"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
   - id: "thk-beauvoir", title: "Beauvoir", type: "مفكرة"

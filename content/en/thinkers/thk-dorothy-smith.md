@@ -6,66 +6,53 @@ part: sociology
 level: متوسط
 title: Dorothy Smith
 en: Dorothy Smith
-crumb: علم الاجتماع ← Dorothy Smith
+crumb: "Sociology ← Dorothy Smith"
 dates: International · 1926-present
 active_start: 1926
 active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed case studies pending
-- Contemporary empirical examples pending
-- Cross-references to related concepts pending
+- Detailed case studies: not yet covered
+- Contemporary empirical examples: not yet covered
+- Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Dorothy Smith
 
-## Biographical Foundations and Intellectual Context
+Dorothy E. Smith (born 1926) is a British-born Canadian sociologist who developed feminist standpoint theory and institutional ethnography, a method for exploring how everyday life is organised by large-scale institutional processes.
 
-Dorothy Smith (International · 1926-present) lived and worked during a period marked by significant social, political, and intellectual transformation. The intellectual environment in which they developed their ideas included particular schools of thought, scientific developments, and philosophical traditions. Their education and early career shaped their theoretical commitments and research questions. Family background, personal relationships, and institutional positions influenced the trajectory of their intellectual development. Specific historical events and social movements informed their concerns and analytical frameworks. The relationship between intellectual development and biographical circumstances remains important for understanding how thinkers approach their work. Subsequent biographers and interpreters have sometimes emphasized different biographical elements, leading to different interpretations of their theoretical significance.
+## Life and Context
 
-## Foundational Theoretical Contributions
+Born in England, Smith studied at the London School of Economics and received her doctorate at the University of California, Berkeley, in 1963. She taught at the University of British Columbia, where she was involved in the early women's movement, and later at the Ontario Institute for Studies in Education at the University of Toronto. Her outlook was shaped by Marx, Mead, Schutz, ethnomethodology and the women's movement.
 
-This thinker developed distinctive analytical frameworks and theoretical concepts that continue influencing contemporary sociology. Their major insight concerned how to understand particular social phenomena or how societies function more generally. The theoretical innovation often involved reconceptualizing familiar social phenomena or proposing entirely new analytical categories. Their approach combined empirical observation with theoretical abstraction to develop generalizable understanding. The precision and scope of their concepts enabled other scholars to apply them to diverse research questions. Different interpreters have sometimes emphasized different aspects of their theoretical contributions, suggesting the work contains tensions or multiple layers. The relationship between their work and contemporary theory remains contested, with some viewing them as foundational while others see their specific conclusions as requiring revision or rejection.
+## Main Ideas
 
-## Major Works and Publications
+- **Standpoint of women.** In "Women's Perspective as a Radical Critique of Sociology" (1974), Smith argued that conventional sociology had been created from men's positions, in a world where women's unpaid work supports the "abstract" work of institutions. She proposed starting inquiry from the everyday world of women.
+- **Bifurcation of consciousness.** She described the split between the lived, bodily experience of everyday life and the abstract, conceptual mode of professional and institutional work.
+- **Ruling relations.** She used this term for the textually mediated and extra-local forms of organisation, such as bureaucracy, law and science, that coordinate people's activities.
+- **Texts as organisers.** Documents, forms and categories carry institutional power across time and place, and she paid close attention to them.
 
-This thinker produced influential publications that established key ideas and continue guiding contemporary research. Major works often combined theoretical innovation with careful empirical research or historical analysis. The publications typically address fundamental questions about how societies are organized and how social change occurs. Reception of major works sometimes evolved over time as subsequent developments revealed new significance or suggested limitations. Different audiences (academic sociologists, political activists, policy makers) drew different conclusions from the same works. Later scholars often spent considerable time interpreting and reinterpreting major works, sometimes disagreeing about their actual arguments. The continuing engagement with this thinker's publications indicates their enduring intellectual significance despite potential disagreements about their conclusions.
+## Major Works
 
-## Methodological Contributions and Innovations
+- *The Everyday World as Problematic: A Feminist Sociology* (1987)
+- *Texts, Facts, and Femininity* (1990)
+- *The Conceptual Practices of Power* (1990)
+- *Writing the Social* (1999)
+- *Institutional Ethnography: A Sociology for People* (2005)
 
-This thinker pioneered approaches to studying social phenomena that influenced how sociology conducted research. The methodological innovations often emerged from theoretical commitments about what valid sociological knowledge requires. Their methods attempted to balance demands of rigor with engagement with meaningful social questions. Subsequent scholars refined and extended the methodological approaches they pioneered. The spread of these methods through professional networks and institutional training meant their influence extended to scholars who never read their works directly. Contemporary critiques sometimes challenge the methodological approaches this thinker championed. The relationship between their theoretical and methodological contributions helps clarify the interconnections between theory and method.
+## Method
 
-## Major Influences and Intellectual Lineage
+Institutional ethnography starts from people's actual experience in a setting, then traces how their activities are linked to institutional texts and procedures. Its aim is to explain the social relations that shape experience, not to impose theoretical categories.
 
-This thinker built upon work by predecessors while sometimes explicitly criticizing earlier approaches. Their intellectual debt to others is evident in citations and direct engagement with prior scholarship. They participated in ongoing theoretical conversations with contemporaries, both allied scholars and competitors. The school(s) of thought they belonged to or influenced shaped the trajectory of sociology's development. Intellectual genealogy helps clarify how theoretical traditions develop and transform across generations. Different scholars have traced different lineages from this thinker to contemporary work, sometimes disagreeing about their true intellectual heirs. Understanding intellectual influences requires grasping both explicit acknowledgments and unrecognized debts.
+## Influence and Criticism
 
-## Contemporary Relevance and Application
-
-Scholars continue applying this thinker's concepts and frameworks to analyze contemporary social phenomena. Their insights prove valuable for understanding modern challenges despite potential historical distance between their era and the present. Contemporary researchers sometimes extend the frameworks in new directions or apply them to questions the original thinker could not have anticipated. The thinker's continued influence suggests core insights retain relevance even as specific conclusions may require modification. Different schools of contemporary sociology claim this thinker as intellectual ancestor, sometimes reading their work in contradictory ways. The capacity of their work to sustain multiple interpretations reflects both analytical sophistication and potential ambiguities.
-
-## Critical Appraisals and Debates
-
-Scholars within the same tradition as this thinker sometimes debate the correct interpretation of their work. Critics from competing schools raise fundamental objections to this thinker's assumptions and conclusions. Feminist scholars have identified limitations in how this thinker addressed or ignored gender relations. Postcolonial critics argue this thinker's analysis reflected particular Western perspectives sometimes presented as universal. Scholars of color have noted how this thinker's work sometimes overlooked or inadequately addressed racial dimensions of social phenomena. Contemporary defenders of this thinker's work argue these criticisms require refinement rather than rejection of core insights. The ongoing critical engagement indicates this thinker remains intellectually significant even when controversial.
-
-## Legacy and Institutional Impact
-
-This thinker's ideas became institutionalized through university positions, schools of thought, and research programs bearing their influence. Major universities eventually offered courses devoted to this thinker's work. Professional associations and journals promoted scholarship continuing their traditions. Graduate students trained in this thinker's theoretical frameworks carried those perspectives into their own careers. The institutionalization of their ideas meant influence extended far beyond direct readers of their work. Different institutions sometimes emphasized different aspects of this thinker's contributions, leading to regional or national variations in how their work was understood and applied.
-
-## Ongoing Reinterpretation and Development
-
-Successive generations have reinterpreted this thinker's work in light of new theoretical developments and social changes. Digital humanities approaches now enable new forms of textual analysis of their writings. Recent scholarship sometimes recovers neglected aspects of their work or identifies previously unrecognized contributions. Interdisciplinary engagement brings perspectives from fields beyond sociology that illuminate new dimensions of their work. Translation and international scholarship reveal how different cultures have interpreted and adapted their ideas. The continuing engagement with this thinker's work by subsequent generations suggests enduring intellectual significance.
-
-## Relationship to Other Major Thinkers
-
-This thinker engaged with and was influenced by other major figures in sociology and related disciplines. The relationship ranged from intellectual alliance to fundamental disagreement depending on the other figure and dimension of analysis. Understanding their position within broader networks of thinkers clarifies their distinctive contributions. Some thinkers built explicitly upon this thinker's foundations while others explicitly opposed their approaches. Comparative analysis of multiple thinkers reveals both consensus and enduring disagreement within sociology.
+Smith's approach has been applied widely in nursing, education, social work and policy research. Critics, including Black feminist and postmodern scholars, argued that a single "women's standpoint" risks overlooking differences of race, class and sexuality, and some say the method lacks clear rules of evidence. She later acknowledged the importance of such differences.
 
 ## Sources
 
-- Major published works by this thinker
-- Contemporary scholarship analyzing and developing their ideas
-- Critical engagements questioning their assumptions
-- Biographical and historical studies of their intellectual development
-- Comparative studies situating their work within broader sociological traditions
-
+- Smith, Dorothy E. *The Everyday World as Problematic* (1987).
+- Smith, Dorothy E. *The Conceptual Practices of Power* (1990).
+- Smith, Dorothy E. *Institutional Ethnography: A Sociology for People* (2005).
+- Hill Collins, Patricia. *Black Feminist Thought* (1990).

@@ -2,12 +2,13 @@
 slug: "con-thrownness"
 id: "CON-0417"
 type: "مفهوم"
+part: philosophy
 level: "متقدم"
 title: "Thrownness (Geworfenheit)"
 en: "Thrownness (Geworfenheit)"
 crumb: "Existential Philosophy ← Concepts ← Thrownness"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"

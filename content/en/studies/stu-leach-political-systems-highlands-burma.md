@@ -2,6 +2,7 @@
 slug: "stu-leach-political-systems-highlands-burma"
 id: "STU-1278"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "Political Systems of Highland Burma: A Study of Kachin Social Structure"
 en: "Political Systems of Highland Burma"

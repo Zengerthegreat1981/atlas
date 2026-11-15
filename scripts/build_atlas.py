@@ -211,6 +211,8 @@ def localize_prefix_en(prefix):
     """Real EN locale for the document shell (audit P0-03): lang/dir/title/description.
     In-page UI strings still come from the template; they are tracked in reports/EN_STATUS.md."""
     prefix = prefix.replace('<html lang="ar" dir="rtl">', '<html lang="en" dir="ltr">', 1)
+    # LTR fixes: skip link was parked at right:-9999px (horizontal overflow in LTR)
+    prefix = prefix.replace("</style>" + chr(10) + "</head>", ".v2-skip{right:auto;left:-9999px}.v2-skip:focus{left:12px}" + chr(10) + "</style>" + chr(10) + "</head>", 1)
     head, sep, tail = prefix.partition("<body>")
     for a, b in EN_CHROME:
         tail = tail.replace(a, b)
@@ -249,6 +251,50 @@ EN_CHROME = [
 EN_CHROME_SUFFIX = [
     ("'وضع القراءة: مبسّط' : 'وضع القراءة: بحثي'", "'Reading mode: simplified' : 'Reading mode: full'"),
 ]
+
+
+UI_STRINGS_EN = os.path.join(TEMPLATE_DIR, "ui_strings_en.json")
+
+
+TYPE_EN = {
+    "دراسة": "Study", "عمل": "Work", "عمل / كتاب": "Work / Book", "تقنية/تدخل علاجي": "Technique / therapeutic intervention",
+    "سياق/تقليد": "Context / tradition", "اضطراب/حالة إكلينيكية": "Disorder / clinical condition",
+    "أداة قياس": "Measurement instrument", "علاقة بين مدرستين": "Relation between two schools",
+    "دراسة وبحث": "Study and research", "بديهية/مبدأ تأسيسي": "Axiom / founding principle",
+    "نقد خارجي موثَّق": "Documented external critique", "حوار مع مدرسة مجاورة": "Dialogue with a neighbouring school",
+    "حدث تاريخي": "Historical event", "خبرة معيشة": "Lived experience", "استعارة/مجاز مؤسِّس": "Founding metaphor",
+    "سؤال مولِّد": "Generative question", "مجال": "Field", "مفكرون": "Thinkers", "مفكرة": "Thinker", "منهج": "Method", "فرع": "Branch", "حقل": "Field", "تدخّل": "Intervention", "متلازمة": "Syndrome", "مصطلح لغوي متنازع عليه": "Contested linguistic term",
+}
+
+
+def load_ui_strings():
+    """ar-fragment -> en map (scripts/template/ui_strings_en.json), longest keys first."""
+    m = json.load(open(UI_STRINGS_EN, encoding="utf-8")) if os.path.exists(UI_STRINGS_EN) else {}
+    m = {**m, **{k: v for k, v in TYPE_EN.items() if k not in m}}
+    return sorted(((k, v) for k, v in m.items() if k and v), key=lambda kv: -len(kv[0]))
+
+
+def apply_ui_strings(text, pairs):
+    for a, b in pairs:
+        text = text.replace(a, b)
+    return text
+
+
+def localize_nodes_en(nodes, pairs):
+    """Display labels that live in node data (type/level/relation types) use the same map as the shell,
+    so comparisons like n.type==='X' stay consistent after both sides are translated."""
+    mp = dict(pairs)
+    tr = lambda v: mp.get(v, v) if isinstance(v, str) else v
+    for n in nodes.values():
+        for f in ("type", "level"):
+            if f in n:
+                n[f] = tr(n[f])
+        for r in n.get("related", []):
+            r[2] = tr(r[2])
+        for e in n.get("edges", []):
+            e[0] = e[0]  # relation keys stay internal
+            e[2] = tr(e[2])
+    return nodes
 
 
 def localize_suffix_en(suffix):
@@ -297,11 +343,21 @@ def build():
 
     prefix = open(prefix_path, encoding="utf-8").read()
     suffix = open(suffix_path, encoding="utf-8").read()
-    data_js = json.dumps(full_data, ensure_ascii=False, separators=(",", ":"))
 
     if LANG == "en":
+        import copy
+        pairs = load_ui_strings()
+        full_data["nodes"] = localize_nodes_en(copy.deepcopy(nodes), pairs)
         prefix = localize_prefix_en(prefix)
         suffix = localize_suffix_en(suffix)
+        # the in-page home is the module home, not the legacy existential-school landing page
+        suffix = suffix.replace("const HOME='sch-existential';", "const HOME='atlas-root';")
+        prefix = prefix.replace("const HOME='sch-existential';", "const HOME='atlas-root';")
+        if pairs:
+            head, sep, tail = prefix.partition("<body>")
+            prefix = head + sep + apply_ui_strings(tail, pairs)
+            suffix = apply_ui_strings(suffix, pairs)
+    data_js = json.dumps(full_data, ensure_ascii=False, separators=(",", ":"))
 
     html = prefix + "const DATA=" + data_js + suffix
     with open(OUTPUT_HTML, "w", encoding="utf-8") as out:

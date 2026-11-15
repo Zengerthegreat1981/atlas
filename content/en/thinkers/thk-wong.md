@@ -2,13 +2,14 @@
 slug: "thk-wong"
 id: "THK-0309"
 type: "مفكر"
+part: psychology
 level: "متوسط"
 title: "Paul T. P. Wong"
 en: "Paul T. P. Wong"
 crumb: "Existential Psychotherapy ← People ← Paul Wong"
-dates: "كندا/الصين"
+dates: "Canada/China"
 edges:
-  - rel: "belongs_to", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-frankl", title: "Frankl", type: "مفكر"
   - id: "br-logotherapy", title: "Branches of Meaning", type: "تيار"

@@ -2,6 +2,7 @@
 slug: "wrk-totemism"
 id: "ANT-13140"
 type: "عمل / كتاب"
+part: anthropology
 level: "متوسط"
 title: "Totemism"
 en: "Totemism"

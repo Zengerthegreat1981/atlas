@@ -2,12 +2,13 @@
 slug: "con-death"
 id: "CON-0401"
 type: "مفهوم"
+part: philosophy
 level: "مبتدئ"
 title: "Death"
 en: "Death"
 crumb: "Existential Philosophy ← Concepts ← Death"
 edges:
-  - rel: "discussed_in", target: "المدرسة الوجودية", target_type: "مدرسة"
+  - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-yalom", title: "Yalom", type: "مفكر"
   - id: "thk-heidegger", title: "Heidegger", type: "مفكر"

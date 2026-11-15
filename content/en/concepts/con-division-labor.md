@@ -2,6 +2,7 @@
 slug: "con-division-labor"
 id: "ANT-13119"
 type: "مفهوم"
+part: anthropology
 level: "متوسط"
 title: "Division of Labor"
 en: "Division of Labor"

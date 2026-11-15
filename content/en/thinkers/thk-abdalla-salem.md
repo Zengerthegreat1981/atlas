@@ -2,6 +2,7 @@
 slug: "thk-abdalla-salem"
 id: "ANT-13255"
 type: "مفكر"
+part: anthropology
 level: "متوسط"
 title: "Abdalla M. Salem"
 en: "Abdalla M. Salem"

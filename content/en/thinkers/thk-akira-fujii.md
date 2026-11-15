@@ -2,6 +2,7 @@
 slug: "thk-akira-fujii"
 id: "ANT-13252"
 type: "مفكر"
+part: anthropology
 level: "متوسط"
 title: "Akira Fujii"
 en: "Akira Fujii"
