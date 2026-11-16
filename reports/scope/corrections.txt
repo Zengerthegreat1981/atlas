@@ -1095,4 +1095,187 @@ wrk-the-poverty-of-philosophy: 'first sustained' method claim softened (German I
 wrk-the-stranger: Schutz described as influenced by (not a student of) Husserl; education corrected
 wrk-theory-of-leisure-class-veblen: Absentee Ownership (1923) wrongly attributed to this 1899 book, now attributed to later works; Arab-Islamic filler removed; subtitle fixed ('in the Evolution of Institutions'); Bourdieu influence softened; career details corrected; file-commentary gap removed
 wrk-the-sociological-condition: entry was generic filler about an unidentified work; replaced with an honest short note on the idea (Mills 1959, Berger 1963, Bauman and May 1990); dates set to 'Unattributed'; gap rewritten
+con-phoneme: Lisker and Abramson (1964) journal corrected from J. Acoust. Soc. Am. 20(3) 459-474 to Word 20(3) 384-422
+sch-variationist-sociolinguistics: Matched-Guise Technique was devised by Lambert and colleagues (1960), not by the Labovian school; sentence reworded to "helped standardize" and marked as not originated by the school
+thk-dionysius-thrax: list of eight parts of speech corrected: Arabic "النعت (الصفة)" (adjective) replaced by "participle" (Dionysius's eight parts are noun, verb, participle, article, pronoun, preposition, adverb, conjunction).
+wrk-institutiones-grammaticae-priscian: list of eight parts of speech corrected: Arabic "النعت" (adjective) replaced by "participle" (Priscian's eight parts are noun, pronoun, verb, participle, adverb, conjunction, preposition, interjection).
+wrk-institutiones-grammaticae-priscian: "تزامن تاريخياً تقريباً" (coincided roughly in time) with the late phase of early Arabic grammar corrected to "preceded by roughly three centuries" (Priscian c. 500 CE; Sibawayh died in the late 2nd century AH).
+wrk-ashtadhyayi: "ميشيڤا سوترا" corrected to Maheshvara Sutras (Shiva Sutras), the standard name of Panini's phonetic abbreviation list.
+br-language-documentation: "ليزلي هينتون" corrected to Leanne Hinton (author of the Master-Apprentice method).
+sch-bilingualism-cognitive-control: body named the co-author of Kroll & Stewart (1994) as "Annette Stewart"; corrected to "Erika Stewart" (matches the source's own reference list).
+sch-bilingualism-cognitive-control: body named the co-author of the Adaptive Control Hypothesis as "Yousef Abutalebi"; corrected to "Jubin Abutalebi" (matches the source's related entry).
+thk-leonard-bloomfield: omitted the section 'الازدواجُ اللغوي والاقتراض' (one sentence) because it is garbled: it names Algonquian as 'الجزيرة الخوارزمية' and the section heading does not match its content; omitted rather than guessed.
+con-actantial-model-narrative: source said Propp's narrative functions numbered thirty; corrected to thirty-one (Propp identified 31 functions), consistent with the source's own later reference to thirty-one.
+thk-michael-halliday: source said his doctoral thesis analysed a contemporary literary Chinese dialect; corrected to the language of the Chinese "Secret History of the Mongols" (his Cambridge thesis, published 1959).
+thk-eugene-nida: source named "Clarence Venuti"; corrected to "Lawrence Venuti".
+stu-hawaiian-language-revival: source program name transliterated as "كولانا كوكوا" appears garbled (the UH Hilo Hawaiian-medium program is commonly given as Ka Haka ʻUla O Keʻelikōlani); rendered as "Kulana Kukua" without correction; flagged for verification, not changed.
+br-arabic-dialectology: omitted the sentence claiming that distant dialects (Moroccan and Gulf) are sometimes closer to mutual understanding with a foreign language than with each other; it is implausible and appears garbled, so it was not translated.
+sch-contact-linguistics-creole: Source calls Hugo Schuchardt an "Austrian linguist"; rendered as "German linguist" (Schuchardt was German, based at Graz). Factual fix.
+con-aphasiology-classification | corrected personal name "Norbert Geschwind" to "Norman Geschwind" (the Broca-Wernicke-Lichtheim file in the same atlas spells it Norman Geschwind)
+con-broca-wernicke-lichtheim-model | NOT CHANGED, flagged for review: source gives Wernicke's description as 1873; the monograph is usually cited as 1874 (text left as written)
+wrk-head-driven-phrase-structure-grammar-pollard-sag: source said the first edition of the book appeared in 1987; corrected to the 1987 precursor Information-Based Syntax and Semantics (listed in its own Sources), with the 1994 book as the reference edition. Lede phrase 'second reference edition 1994' rendered as '1994 reference edition'.
+thk-joan-bybee: removed garbled duplicate name (stray transliteration before 'William Pagliuca' in the source's co-author list); rendered as 'with William Pagliuca and Revere Perkins'
+thk-al-sakkaki: source said he died in 626 AH "shortly before" the Mongol invasion of Central Asia; the invasion (1219-1221) preceded his death in 1229, so the English says "several years after" the invasion.
+thk-deirdre-wilson: source glossed "التلميح" with the English term "Hyperbole" (exaggeration); English renders it as "hyperbole", since "التلميح" means hint/allusion.
+wrk-constructing-a-language-tomasello: source named the co-author "تِشيرني"; the linguist is Rosalind Thornton (Crain & Thornton), rendered accordingly.
+stu-tok-pisin-creolization: source called "ol" a plural "suffix"; "ol" is a preposed plural marker, so the English says "plural marker" (the "-im" transitive suffix stays a suffix).
+br-arabic-dialectology: fixed qaf/jim descriptions, Ferguson four-case note, Anis book date 1946, negation ma...sh, gap reworded
+br-computational-linguistics: removed misattributed Bengio seq2seq claim, updated sources (J&M 2009, Vaswani 2017)
+br-corpus-linguistics: Brown Corpus dates (compiled 1961, released 1964), softened "first" claim
+br-historical-comparative-linguistics: comparative method attribution (Rask, Bopp, Grimm, Schleicher), Campbell edition/publisher corrected
+br-corpus-linguistics: Brown Corpus dates (compiled 1961, released 1964), softened "first" claim
+br-historical-comparative-linguistics: comparative method attribution (Rask, Bopp, Grimm, Schleicher), Campbell edition/publisher corrected
+br-language-documentation: Krauss 90% estimate softened, Hebrew/Hawaiian claims softened (removed "near-total isolation")
+br-neurolinguistics: removed doubtful Bellugi Nature Rev Neurosci source (replaced with Poizner/Klima/Bellugi 1987); added MEG sentence, deleted gap
+br-psycholinguistics: Indiana 1953 seminar/1954 proceedings clarified; added Osgood & Sebeok source
+br-sociolinguistics: Labov department-store study dated 1962/published 1966, postvocalic /r/; gap reworded; added Labov 1966 source
+con-actantial-model-narrative: removed vague Nights research claim; added Tesnière/Souriau background; Propp translation dates
+con-aphasiology-classification: Dronkers 2004 (not 2007) with full authors; softened lesion-size claim; added transcortical aphasias; meta gap reworded
+con-argument-structure-lexicon: fixed alternation example (object omission/change of state, not subject drop); added Grimshaw 1990
+con-bia-plus-model-dijkstra: fixed BIA 1998 citation, removed nonexistent "BIA++" (replaced by Multilink), BIA+ representation levels, Multilink vol/pages, linguistic_level, meta gap removed
+con-broca-wernicke-lichtheim-model: Wernicke 1874 (not 1873); corrected Lichtheim seven types (removed anomic, added subcortical forms); softened Dronkers claim; removed batch-note gap
+con-cherology-sign-parameters-stokoe: orientation as later (Battison) 4th parameter vs Stokoe notation's three; replaced vague "syllable feature theory"
+con-code-switching-mixing: removed two meta/batch-note gaps; BIA+ scope limited to word recognition in comprehension
+con-communities-of-practice-sociolinguistics: "North American vowel shift" corrected to Northern Cities Vowel Shift; added Eckert 2012
+con-conversational-implicature: fixed implicature derivation (observance vs flouting; "some" and "and" examples), generalized implicature definition, defeasible not probabilistic; added Levinson/Horn principles
+con-critical-period-hypothesis: removed two meta gaps; softened intellectual-disability claim; added Johnson & Newport 1989
+con-deep-surface-structure: terms "deep/surface structure" belong to Aspects 1965 not Syntactic Structures 1957; replaced misattributed "visiting relatives" example with "flying planes"; Standard Interpretive Hypothesis -> Katz-Postal/Standard Theory; Miller & McKean pages; meta gap removed
+con-diglossia: Ferguson phonology/lexicon criteria corrected; Greek variants named; removed meta neutrality statements and three meta gaps
+con-distinctive-features-phonology: Preliminaries to Speech Analysis is a 1952 MIT technical report (MIT Press ed. 1963); [sonorant] gloss corrected; Clements pages
+con-distributional-semantics-word-embeddings: GloVe description corrected (fits co-occurrence statistics); softened analogy and "foundation of all architectures" claims; added LSA/Deerwester 1990
+con-domestication-foreignization-translation: Schleiermacher lecture 1813/published 1838; added Berman source, Tymoczko pages
+con-face-threatening-acts-strategies: softened "almost every speech act"; added Matsumoto 1988 source
+con-fln-flb-narrow-broad-faculty: FLN definition (recursion plus interface mappings), Pinker-Jackendoff critique restated accurately, added article pages, removed meta gap, linguistic_level
+con-form-substance-expression-content-hjelmslev: added Hjelmslev's purport (matter); colour spectrum is purport not substance; Hjelmslev used expression/content not signifier/signified; softened claims about Saussure and "mathematical" model; Barthes added
+con-frequency-entrenchment-bybee: "morphological autonomy" -> Bybee's "lexical autonomy"; Arabic broken-plural claim softened to illustrative prediction
+con-grammatical-case-systems: Finnish/Hungarian "dozens" of cases -> a dozen or more; removed vague Arabic differential-marking claim
+con-grammaticalization: replaced unsupported hatta origin claim with rah > future marker example; Traugott -> Bybee and Traugott
+con-krashen-monitor-model: removed meta "neutrality" gap (not a real omission)
+con-language-bioprogram-hypothesis: removed meta gap; Mufwene alternative corrected (contact languages incl. lexifier, not only substrate); softened "strongest" evidence claim; noted dispute over abruptness of Hawaiian creolization
+con-macrorole-actor-undergoer-rrg: corrected ergative/pivot description (absolutive vs ergative, pivot rather than subject)
+con-merge-operation-minimalism: removed unsupported working-memory claim for phases
+con-mood-system-halliday: Thompson 3rd ed year 2014; corrected "textual analysis" pillar claim (mood and transitivity = interpersonal/ideational)
+con-morphological-typology: added Schlegel brothers as origin of typology; corrected Arabic verb conjugation (fusional, not largely agglutinative) and clitics
+con-myth-second-order-signification-barthes: removed unsupported Kristeva critique; Elements de semiologie cite fixed (Communications 4, 1964); Hall as editor; examples corrected (new Citroen); added form/concept/signification
+con-nazm-theory-jurjani: removed meta gap; replaced shaky Zayd example claim with neutral reordering example; Abu Deeb characterization softened; added primary sources
+con-phoneme: many fixes: phoneme precursors (Baudouin/Kruszewski); generative rejection of taxonomic phoneme; Hawaiian 8 consonants; Xhosa 18 clicks; English vowels 14-20; invented Arabic minimal pair salama/salama -> sayf/sayf; categorical perception attribution (Liberman 1957); infants narrowing timeline; Thai final voicing error; speech disorder claim corrected; ASR description corrected; removed bogus Keating 1990 citation; added Chomsky&Halle, Liberman; added competing conceptions section and closed gap
+con-poverty-of-the-stimulus-universal-grammar: removed meta gap; corrected Pullum&Scholz vs Legate&Yang (Pullum-Scholz did not use child corpora; Legate-Yang CHILDES counts support sparsity); added Crain&Nakayama 1987
+con-semiotic-square-greimas: corrected square relations (implication, contradiction), replaced shaky life/death elaboration with veridictory square, fixed trajectory S1>notS1>S2; added Greimas&Rastier 1968
+con-signifier-signified: removed meta gap; referent claim softened; Peirce contrast added; Saussure courses wording
+con-stages-of-language-acquisition: babbling onset corrected (canonical babbling ~6-10 months); Brown morpheme order corrected (-ing first, not plural); removed Eve Clark and Helen Keller attributions for vocabulary spurt
+con-standard-language-ideology: removed meta gap; attribution broadened (Milroys, Lippi-Green); added Milroy 2001
+dbt-arabization-vs-francophonie-maghreb: removed meta gaps and unverifiable "Musa Muqallad" gap; Benrabah title/publisher corrected (Language Conflict in Algeria, Multilingual Matters); removed dubious Tunisia-vs-Morocco contrast; added Morocco Law 51-17 (2019), Algeria 1991 law, Tamazight status dates, protectorate dates
+dbt-corpus-vs-introspection-linguistic-evidence: removed meta gap; corrected claim that specialist-linguist judgments are less reliable (Sprouse & Almeida replication ~95-98%); rewrote replication-crisis and LLM sections; added Fillmore, Schutze, Sprouse&Almeida sources
+dbt-documentation-vs-revitalization-endangered-languages: removed meta gap; Hebrew revival description softened; Punana Leo detail; added Himmelmann 1998 and Fishman 1991 sources
+dbt-fusha-ammiyya-diglossia-language-policy: removed meta gap; added concrete Spitta 1880 and Willcocks 1893 proposals; dropped doubtful AMIDEAST publisher; media-language description corrected (Badawi 1973); added Badawi, Holes sources
+dbt-gradualism-vs-saltation-language-evolution: removed meta gap; Bickerton no longer "the most prominent" (added Berwick & Chomsky); NSL claim corrected (combinatorial structure, not recursion); larynx claim replaced with cautious statement (Fitch & Reby 2001); added Berwick&Chomsky, Kirby sources
+dbt-innateness-vs-usage-based-language-acquisition: removed meta/closed-note gaps; Pirahã claim dated and attributed (Everett 2005); connectionism critique attributed (Rumelhart&McClelland 1986; Pinker&Prince 1988); added Everett, Pinker&Prince sources
+dbt-lexical-modernization-tawlid-vs-purism-arabic-academies: removed meta gap; pattern fa^^ala corrected (thallaja), added qiyas/naht/ta^rib; rewrote examples section (dropped overclaims about hatif replacing telefon, unverifiable television coinage claim); Ibrahim Anis description softened; added Hamzaoui 1965
+dbt-sign-language-legitimacy-debate: removed meta gap; Stokoe parameters corrected (three originally; orientation later); Bellugi/Klima affiliation corrected (Salk Institute not UCSD); replaced unverifiable Nature Rev Neurosci 2000 citation with Klima&Bellugi 1979, Hickok et al 1996, Petitto&Marentette 1991, Sandler&Lillo-Martin 2006; acquisition parallel softened; Milan 1880 added; cochlear implant caveat
+sch-american-structural-linguistics: God's truth/hocus-pocus attributed to Householder (1952), not Joos; Hockett models corrected; removed invented quote and meta gaps
+sch-arabic-grammatical-tradition: fixed qiyas definition, removed ḥākim, hedged two-school dichotomy and generative parallels, added later grammarians (closing gap), added Versteegh 1997 Routledge; Khalil dates
+sch-arabic-rhetorical-sciences: fixed dates (5th-8th AH), attributed three-branch division to Qazwini not Sakkaki, countries, softened precursor claims, removed meta gaps
+sch-bilingualism-cognitive-control: corrected Green & Abutalebi 2013 source title/author order; Grosjean complementarity -> language modes; softened replication-crisis claims; removed meta gap
+sch-classical-neurolinguistics: Lichtheim German working in Bern (not Swiss); conduction aphasia predicted by Wernicke; softened 'first proof' claims; removed meta gaps
+sch-cognitive-linguistics: Levinson/sound symbolism claims reworded; Evans & Green described as textbook; removed meta gaps
+sch-computational-linguistics-nlp: removed invented Arabic tools ("Khalil Morph","Madar") -> Buckwalter/AlKhalil/MADAMIRA; fixed word embedding dates (2013), English is not agglutinative, HMM uses; added ALPAC source; removed meta gap
+sch-construction-grammar: collostructional analysis credited to Gries & Stefanowitsch; reworded frame definition; removed meta gaps
+sch-contact-linguistics-creole: fixed Jamaica conferences/Weinreich chronology; Michif description (French nouns, Cree verbs); Tok Pisin official-language status; softened slave-separation claim; removed meta gap
+sch-corpus-linguistics: softened founding-father/first-corpus claims, reworded origin as reaction; removed meta gap
+sch-first-language-acquisition: prenatal speech research credited to DeCasper/Mehler not Petitto; connectionist past-tense model is Rumelhart & McClelland; Genie caveat; Keller date; removed meta gaps
+sch-formal-semantics-montague-grammar: Montague quote is from Universal Grammar (1970); removed unattributed 'syntax is algebra' slogan; PTQ NP typing; Kratzer = modals; added Universal Grammar source; removed meta gaps
+sch-generative-grammar: active_end set to مستمر; removed atlas-tagging meta section, replaced with philosophical background (Cartesian Linguistics 1966, hedged); competence/performance vs langue/parole softened; Skinner dates; added GB source; removed meta gaps
+sch-generative-phonology: removed wrong "(functional phonology)"; Blevins/Hume mischaracterisation fixed
+sch-gricean-pragmatics: violates->flouts; William James Lectures; softened Horn/Brown-Levinson claims; removed meta gaps
+sch-historical-comparative-linguistics: Rask is Danish not German; Jones not "first discoverer"; grammaticalization coined by Meillet 1912; added Rask 1818; active_end -> مستمر (living field); removed meta gap
+sch-language-evolution: author order Hauser-Chomsky-Fitch; FOXP2/KE family claims softened (Lai 2001); Corballis not a linguist; full Kirby 2008 title; added Pinker & Bloom 1990; removed meta gap
+sch-language-ideology: Mock Spanish "deliberately" removed; removed meta gap
+sch-language-policy-endangerment: removed invented movement name "Tehiyat Lashon Ha-Kodesh" (Hebrew Language Committee 1890); Hawaiian date 1960s->1980s; softened Krauss/Hebrew/Shohamy claims; added Gippert-Himmelmann-Mosel 2006; removed meta gaps
+sch-linguistic-typology: Greenberg launched (not founded) modern typology + precursors; implicational universals not purely probabilistic; WALS size; removed meta gaps
+sch-minimalist-program: softened "most recent"/"dominated"/physics-parallel claims; removed meta gaps
+sch-modern-arabic-linguistics: corrected Tammam Hassan qara'in classification (word order is verbal); removed unverifiable claims about al-Waer and Hassan vs academies; added Anis 1946 and Ferguson 1959 sources; removed meta gap
+sch-politeness-theory: Brown & Levinson 1978 chapter (1987 is reissue); replaced Shibatani with Ide as critic of universality; added 1978 source; removed meta gap
+sch-second-language-acquisition: removed covered gap; softened Pienemann attribution; cited Selinker article
+sch-sentence-processing-psycholinguistics: attributed garden-path example to Bever; visual world paradigm attribution corrected (Cooper 1974, Tanenhaus et al.); dual-stream model described as speech/language processing; removed meta gap
+sch-sign-language-linguistics: Stokoe's original 3 parameters (orientation added later, Battison); corrected bimodal bilingualism description; softened Williams syndrome language claim; cited Stokoe 1960
+sch-structuralist-semiology: fixed Barthes dichotomies, examples of sign systems, Course editors, Death of Author date; removed meta gap
+sch-systemic-functional-linguistics: Halliday dissertation corrected (Secret History of the Mongols, not Classical Chinese); Finite carries tense or modality; softened corpora claim; removed two meta gaps
+sch-usage-based-grammar: removed duplicated Tomasello section; noted Langacker origin of the term
+sch-variationist-sociolinguistics: dates of Vineyard/NYC studies (fieldwork vs publication); fishermen age removed; department stores named; second-wave attribution corrected (Milroy not Chambers); matched-guise credited to Lambert; removed unsupported Giles claim; removed meta gaps; active_end form
+stu-ferguson-diglossia-1959: replaced 'four characteristics' with Ferguson's nine features; softened strictness/centuries claims; removed covered Fishman gap, reworded other
+stu-genie: telegraphic speech description corrected; 'complete inability' softened; added team members, right-hemisphere finding, ethics section; funding/foster-care wording; gap removed
+stu-hawaiian-language-revival: removed invented 'Kulana Kukua' and inflated claims; 1896 English-medium law, Punana Leo 1983/first nest 1984, 1978 co-official status corrected; Hale claim narrowed; gap removed
+stu-hebrew-language-revival: softened 'only case'; added committee 1890/Academy 1953; neutrality gap folded into body
+stu-kuhl: 1991 study was adults/infants/monkeys (English only); English vs Swedish infants comparison is Kuhl et al 1992 Science; rewrote method/result; reworded gap
+stu-kuuk-thaayorre: 'relies entirely' softened; example sentence 'southwest leg'; removed Pinker attribution; added stimuli/Hebrew detail
+stu-labov-department-store-r: dates clarified (fieldwork 1962/pub 1966); softened 'without exception' emphatic-speech claim; folded employee-sample note into Method; removed covered gaps
+stu-marthas-vineyard: ninety informants -> roughly seventy; fieldwork 1961; removed claim of founding apparent-time; softened reading-task detail
+stu-nicaraguan-sl: 'two generations' -> cohorts; school start dating corrected; Kegl noted; removed meta gap
+stu-nim-chimpsky: pygmy chimpanzee -> bonobo; trainer wording softened; Washoe covered (gap removed)
+stu-tok-pisin-creolization: plantation settings corrected; 'millions of first-language speakers' removed; creole-continuum claim recast; removed meta gap
+stu-wug-test: participants include first-graders; /iz/ difficulty noted; clinical-use claims softened; supervisor wording softened
+thk-adele-goldberg: replaced misattributed 'sneezed her the napkin' with caused-motion example; 'refused her a flower'; supervisor/UCSD claim softened; 'competitive attraction' computational-models claim removed; meta gaps removed
+thk-al-jurjani: 'first' theory of i'jaz -> most influential; removed Qudama as target; Abu Deeb no longer called Western; added teacher/death date uncertainty; gaps folded into body
+thk-al-kisai: softened 'actual founder'; death date discrepancy moved into body; added caveat on Basra/Kufa dichotomy; removed irrelevant Carter source; reworded gap
+thk-al-mubarrad: Muqtadab no longer 'summary' of Kitab (independent; he also refuted Sibawayh); removed doubtful 'al-Muqtasab' title and 'unbroken chain', 'two foundational texts' overstatements; birth ~825; second gap covered by Limitation
+thk-al-sakkaki: fixed contradiction about Mongol invasion vs death 626 AH; Miftah structure (morphology, syntax, ma'ani/bayan + logic appendix); Ibn Sina dating; removed Ibn al-Athir and garbled Heinrichs phrase; nisba gloss; gap reworded
+thk-algirdas-greimas: birthplace corrected (Tula, Russia, Lithuanian parents); careers (Alexandria, Ankara, Istanbul, Poitiers); removed unsupported Derrida/Barthes and Eco comparison; named Des dieux et des hommes; removed meta gap
+thk-bernard-comrie: WALS role clarified (co-editor 2005 print edition); Leipzig dates; removed unverifiable Tabasaran/Kumyk/Turkic fieldwork and generativist-criticism claims; aspect definition fixed; added Tense (1985), Languages of Soviet Union (1981)
+thk-charles-fillmore: PhD Michigan not Yale; Ohio State not Ohio University; FrameNet at ICSI 1997; removed speculative colour-terms section and meta gap
+thk-christian-matthiessen: HKUST wrongly given (he is at Hong Kong Polytechnic University); removed unsupported genre-theory, Tagalog and Nida claims; added Penman/Nigel; removed meta gap
+thk-christian-matthiessen: added Language Typology (2004) as the real typological project
+thk-ibn-al-anbari: removed unverifiable Carter source and 'first to organize' claim, soften teachers/preserved-sources detail; cleaned meta gaps
+thk-ibn-jinni: birth year softened; removed unverified al-Hamdani/'closest attendee' claims and forty-years figure; clarified ta'lil sentence; meta gap removed
+thk-ibn-al-anbari: softened legacy claim
+thk-ibrahim-anis: removed invented founding-of-Academy claim, Kamal Bishr pupil claim, X-ray/acoustic-measurement claims, style section; meta gaps removed
+thk-jacob-grimm: meta gap removed; Grimm's law wording; Verner/Neogrammarian wording; added Göttingen Seven; Wörterbuch completion 1961
+thk-joan-bresnan: Glue Semantics credited to Dalrymple et al.; removed unverifiable honors; added MIT PhD 1972; meta gap removed
+thk-ibrahim-anis: softened 'first' claim
+thk-joan-bybee: removed meta gap and non-checkable profile source
+thk-john-sinclair: fixed invented 'severe/anger in Arabic' example; Firth did not teach him at Edinburgh; removed unsupported claims and meta gaps
+thk-joshua-fishman: invented 'Joan Fishman' replaced by Lewis & Simons EGIDS; removed unsupported advisory/tribute claims
+thk-leonard-bloomfield: meta gaps removed; added biography; Bloomfield meaning definition paraphrased (no invented quote); IC/Chomsky wording softened
+thk-louis-hjelmslev: meta gap removed; 'latent categories' dropped; training wording softened
+thk-michael-halliday: Peking teacher is Luo Changpei, Wang Li at Lingnan; PhD Cambridge 1955 under Firth; meta gap removed
+thk-michael-tomasello: removed unverifiable PNAS profile source; softened de Waal attribution
+thk-john-sinclair: fixed invented Arabic collocation example; concordance not credited as his invention
+thk-panini: vipratisedha rule corrected (later rule prevails); chandas/bhasa corrected; Bohtlingk edition; removed unverifiable computational-difficulty and Jones/Bopp 'rediscovery' claims; meta gap removed
+thk-penelope-brown: removed unverifiable birth year 1944 from dates; softened supervision/comparison claims; meta gap removed
+thk-penelope-eckert: meta gap removed; added Language and Gender (2003)
+thk-priscian: manuscript-count claim softened and Bible comparison removed; Modistae locale softened; added Hertz edition; meta gap removed
+thk-robert-van-valin: meta gaps removed; softened unsupported supervision, NLP/MT and acquisition claims
+thk-roman-jakobson: Child Language title/date fixed (German 1941, Eng. 1968); distinctive features credited correctly (Jakobson/Fant/Halle after Trubetzkoy); Chomsky 'professor' claim softened; meta gap removed; added Jakobson 1960, 1956
+thk-dan-sperber: Sperber fieldwork was among the Dorze (Ethiopia), not Madagascar; removed misattributed 'La Mentalité Primitive'; principle of relevance stated as two principles; gap removed
+thk-deirdre-wilson: removed unsupported honors, autism/sign-language, perception-speed and child-acquisition claims; relevance theory described accurately; birth-date gap reworded
+thk-dionysius-thrax: verb categories corrected (no aspect; dropped '7 tenses'); Aristarchus pupil; attribution debate via Di Benedetto; Kemp 1987, Swiggers-Wouters 1996; meta gap removed
+thk-eugene-nida: meta gap removed; softened unsupported hundreds-of-languages/never-written/organization claims
+thk-ferdinand-de-saussure: added 1878 Memoire section; meta gaps removed
+thk-gilles-fauconnier: Rich Man replaced by the real Great America II/Northern Light example; network types corrected (simplex, mirror, single-scope, double-scope); removed unsupported doctorat d'Etat/mathematics claims; Lakoff not at UCSD; meta gap removed
+thk-sibawayh: cleared gaps; replaced al-Zamakhshari/Ibn al-Sarraj as commentators with al-Mubarrad/al-Rummani; softened coined terms, Chomsky parallel, death date range, Azhar claim
+thk-stephen-levinson: fixed Q/I/M attribution (2000 not 1983), Levinson fieldwork Tamil not Tzeltal, I-principle gloss, institute wording, added 1978 source, cleared gap
+thk-tammam-hassan: removed unverifiable birthplace/Umm al-Qura/Fuad I claims; corrected seven word-class list (sifa a category; khalifa = exclamatory class); corrected qara'in types; Daif Tajdid al-Nahw year 1982; cleared gap
+thk-thomas-sebeok: removed claim he coined biosemiotics and was major Peirce editor; fixed education (Chicago/Princeton), institute name, Lotman wording; added Speaking of Apes source
+thk-william-labov: removed wrong Philadelphia birthplace in dates; fixed copula-deletion example, dissertation year, MV fieldwork date, covert prestige; cleared gap
+thk-william-stokoe: fixed Gallaudet description, background (English literature doctorate), Bellugi-Klima findings, softened Arab sign-language claim and Sandler
+thk-zellig-harris: removed kibbutz claim; fixed deep structure anachronism for Syntactic Structures; added emigration year 1913, PhD field, dept 1946; operator grammar sources; trimmed unsupported NLP claims; cleared gap
+wrk-al-insaf-masail-al-khilaf-ibn-al-anbari: corrected Basran/Kufan positions on mudari' and inna; removed Zajjaji/Ibn al-Sarraj and Owens claims; added Weil edition and Versteegh; removed vague Brockelmann source; cleared gap
+wrk-al-kitab-sibawayh: replaced wrong commentators (Ibn al-Sarraj, Zajjaji, Ibn Jinni) with Sirafi/Rummani; chapter count 570; Baghdad debate wording; coined->used; removed doubtful Abd al-Tawwab 1997 source, added Derenbourg and Baalbaki; gaps cleared with structure sentence added
+wrk-al-lugha-al-arabiya-manaha-wa-mabnaha-hassan: softened Firth influence and 'functional school'/teaching claims; corrected qara'in typology; replaced generic example with daraba Musa Isa; corrected Al-Usul title in Sources
+wrk-al-mufassal-zamakhshari: corrected structure to four parts; added dates and composition uncertainty; softened Ibn al-Hajib/Alfiyya claims; replaced vague 'orientalists' paragraph with Broch 1859 edition; cleared gap
+wrk-ashtadhyayi: fixed Sāphari predecessor, Kāśikā date (7th c. CE), Jones/Bopp rediscovery claim, root-pattern equation, programming-language claim; Cardona survey year 1976; added Cardona 1997 vol 1
+wrk-asrar-al-balagha-jurjani: removed unidentifiable Abdo Aboud source/claim and cognitive-metaphor anticipation; added Ritter edition and translation; death-date caveat
+wrk-constructing-a-language-tomasello: cleared neutrality 'gap'; made acquisition stages consistent with Tomasello/Braine (pivot schemas, item-based) with hedged ages; added Crain & Thornton 1998
+wrk-cours-de-linguistique-generale: fixed that Bally/Sechehaye attended none of the lectures; paradigmatic vs Saussure's associative terminology; Engler critical edition covered and added to sources; Arabic translation gap reworded
+wrk-dalail-al-ijaz-jurjani: corrected Muhammad Abduh claim (d. 1905, could not anticipate structuralism; promoted the book); death-date caveat; title of Asrar harmonised
+wrk-elements-de-semiologie-barthes: fixed fourth chapter (Denotation and Connotation, not Signification); softened publication-history and teaching claims; Arabic translation gap reworded
+wrk-head-driven-phrase-structure-grammar-pollard-sag: replaced Fillmore influence with GPSG/categorial grammar; clarified 1987 vol.1 vs 1994; softened AI/Saussure/Grammar Matrix claims
+wrk-institutiones-grammaticae-priscian: fixed gap to Sibawayh (two centuries not three); removed unsupported manuscript-count and 'amil parallel claims; corrected Baalbaki title; Anastasius wording
+wrk-lisan-al-arab-ibn-manzur: removed false claim that al-Qamus al-Muhit summarises Lisan; removed unsupported Mu'jam al-Wasit claim; added author dates and volume-count nuance
+wrk-maani-al-quran-farra: removed false claim al-Hudud was first alphabetical dictionary and unidentifiable al-Baha'; softened terminology example; added Versteegh 1993; cleared gap
+wrk-morphology-of-the-folktale-propp: fixed '27 functions' to 31; removed false claim that Campbell hero's journey simplifies Propp; clarified 1958/1968 editions (Wagner, Dundes); Formalist rather than Saussurean origin
+wrk-sound-pattern-of-english-chomsky-halle: corrected divine/divinity description (Vowel Shift, not only stress); removed unsupported 'structure-building rules' claim; softened OT dominance and teaching claims; corrected Preliminaries to Speech Analysis publication; added dates for autosegmental/metrical
+wrk-syntactic-structures: removed anachronistic deep/surface structure and competence from 1957 content; fixed Standard vs Extended Standard Theory; softened publisher-rejection story; Arabic translation gap reworded; cleared first gap
+wrk-talkhis-al-miftah-qazwini: corrected that badi' was an appendix in Sakkaki (Qazwini set standard tripartite form); softened Azhar/teaching claims; removed unverifiable Qom 1990 publisher; English-translation gap reworded
+wrk-the-way-we-think-fauconnier-turner: replaced invented 'digital Buddhist monk' and Napoleon examples with the actual Buddhist-monk riddle and butcher example; corrected optimality principles; removed number-line claim; added Gibbs 2000
+wrk-theses-1929-prague-circle: removed duplicate heading; Trubetzkoy worked in Vienna (not in Prague, not fled to Prague); removed doubtful Mathesius 1929 source and overstated anticipation/influence claims
 thk-habermas: removed an unverifiable death claim (March 2026) and set dates to born 1929; confirm current status before adding

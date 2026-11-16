@@ -1,0 +1,10 @@
+{"root":"fld-linguistics","root_folder":"fields","paths":[
+["Start Here: The Levels of Language",["fld-phonetics-phonology","fld-syntax-semantics","fld-sociolinguistics-language-variation","fld-arabic-linguistics"]],
+["Structuralism and Its Founders",["thk-ferdinand-de-saussure","wrk-cours-de-linguistique-generale","con-signifier-signified","thk-roman-jakobson","thk-louis-hjelmslev","thk-leonard-bloomfield","sch-american-structural-linguistics","con-phoneme"]],
+["The Generative Tradition",["thk-noam-chomsky","wrk-syntactic-structures","sch-generative-grammar","con-poverty-of-the-stimulus-universal-grammar","wrk-sound-pattern-of-english-chomsky-halle","sch-generative-phonology","dbt-innateness-vs-usage-based-language-acquisition"]],
+["Function, Meaning and Use",["thk-michael-halliday","sch-formal-semantics-montague-grammar","con-conversational-implicature","thk-stephen-levinson","sch-construction-grammar","sch-cognitive-linguistics","con-grammaticalization","thk-joan-bybee"]],
+["Variation, Contact and Society",["thk-william-labov","sch-variationist-sociolinguistics","stu-labov-department-store-r","con-diglossia","stu-ferguson-diglossia-1959","con-code-switching-mixing","sch-contact-linguistics-creole","sch-language-policy-endangerment","stu-hawaiian-language-revival"]],
+["Acquisition and the Brain",["sch-first-language-acquisition","con-critical-period-hypothesis","stu-genie-wild-child-critical-period-case","stu-wug-test-berko-1958","con-broca-wernicke-lichtheim-model","sch-sentence-processing-psycholinguistics"]],
+["The Arabic and Other Grammatical Traditions",["sch-arabic-grammatical-tradition","thk-sibawayh","wrk-al-kitab-sibawayh","thk-ibn-jinni","thk-al-jurjani","wrk-dalail-al-ijaz-jurjani","con-nazm-theory-jurjani","wrk-lisan-al-arab-ibn-manzur","thk-panini","wrk-ashtadhyayi","sch-modern-arabic-linguistics"]],
+["Corpora, Computation and Method",["sch-corpus-linguistics","thk-john-sinclair","sch-computational-linguistics-nlp","sch-linguistic-typology","br-language-documentation","dbt-corpus-vs-introspection-linguistic-evidence"]]
+]}

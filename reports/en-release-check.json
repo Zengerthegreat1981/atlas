@@ -1,10 +1,10 @@
 {
-  "total_files": 1522,
+  "total_files": 1680,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 1166,
-    "declared-gaps": 293,
+    "edge-target-by-name": 1305,
+    "declared-gaps": 307,
     "placeholder": 3,
     "short": 6,
     "duplicate-id-groups": 0
@@ -12,6 +12,7 @@
   "flag_examples": {
     "edge-target-by-name": [
       "axm-existence-precedes-essence->Existentialist School",
+      "br-arabic-dialectology->Classical Arabic Grammatical Tradition",
       "br-attachment-theory->Developmental Psychology",
       "br-british->Existentialist School",
       "br-british->van Deurzen",
@@ -20,29 +21,28 @@
       "br-british->Relational formulation",
       "br-classical-psychoanalysis->Psychoanalysis",
       "br-classical-psychoanalysis->Sigmund Freud",
+      "br-computational-linguistics->Computational Linguistics & NLP",
+      "br-corpus-linguistics->Corpus Linguistics",
       "br-daseins->Existentialist School",
       "br-daseins->Heidegger",
-      "br-daseins->Binswanger and Boss",
-      "br-daseins->American current",
-      "br-daseins->Phenomenological psychopathology",
-      "br-humanistic->Existentialist School"
+      "br-daseins->Binswanger and Boss"
     ],
     "declared-gaps": [
+      "br-arabic-dialectology",
       "br-attachment-theory",
       "br-classical-psychoanalysis",
+      "br-sociolinguistics",
       "con-ahimsa",
       "con-anamnesis-recollection",
       "con-anatta-non-self-concept",
       "con-anxiety-existential",
       "con-anxiety",
+      "con-aphasiology-classification",
       "con-ataraxia",
       "con-attention",
       "con-authenticity",
       "con-correlation",
-      "con-death",
-      "con-deviance",
-      "con-differentiation-self",
-      "con-emotional-intelligence"
+      "con-death"
     ],
     "placeholder": [
       "con-division-labor",
@@ -60,7 +60,7 @@
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 1516,
+    "review-candidate": 1674,
     "placeholder": 3,
     "draft-short": 3
   },
@@ -76,6 +76,9 @@
     "historiography": {
       "review-candidate": 87
     },
+    "linguistics": {
+      "review-candidate": 158
+    },
     "philosophy": {
       "review-candidate": 325
     },
@@ -87,8 +90,8 @@
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 1522,
-    "source nodes": 1522,
+    "data-en.json nodes": 1680,
+    "source nodes": 1680,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

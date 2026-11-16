@@ -94,3 +94,12 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
   which also lists possible duplicate entities for a merge/redirect decision).
 - Reading paths added to `fld-sociology`; module page links to it.
 - Same caveat as before: machine-assisted, no web access; human review required.
+
+---
+# Pass 5 — Linguistics v1 (2026-11-16), built with Haiku + Sonnet
+- Scope `reports/scope/linguistics-scope.md`. 153 entries translated from AR assets by **Haiku** (same ids/slugs), 5 field intros authored by Sonnet
+  (`fld-linguistics` root, phonetics-phonology, syntax-semantics, sociolinguistics, Arabic linguistics); all 158 fact-checked by **Sonnet**.
+- Model pilot: Haiku was audited on 8 entries against their Arabic sources by Sonnet — about 0.5 substantive issues per entry (no fabricated sources,
+  no omitted sections). Haiku is used for translation only; Sonnet remains the fact-check gate. The fact-check still found many errors
+  (mostly inherited from the Arabic drafts: invented examples, corrupted names, misattributed claims). See `reports/scope/corrections.txt`.
+- Reading paths added to `fld-linguistics`. Same caveat: machine-assisted, no web access; human review required.
