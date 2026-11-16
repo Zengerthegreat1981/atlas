@@ -14,7 +14,7 @@ related:
   - id: "tec-meaning-centered-psychotherapy", title: "Meaning-Centered Psychotherapy", type: "تقنية/تدخل علاجي"
   - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
 gaps:
-  - "لم يُراجع بعد نص تاريخي أولي محقق (سيرة ذاتية أو مصدر تاريخي مباشر) يوثق التفاصيل الدقيقة بدل الاعتماد على السرد العام المتكرر في الأدبيات الثانوية"
+  - "Primary archival records (transport lists and camp registers) were not consulted directly: not yet covered"
 ---
 
 # Frankl's Concentration Camp Experience
@@ -33,7 +33,7 @@ Frankl's central observation, made while he was still a prisoner, was that the c
 
 ## What Followed: The Book and the School
 
-Before his deportation, Frankl had hidden the manuscript of his first book on meaning in his coat; it was confiscated on his arrival at Auschwitz and never recovered. On his return to Vienna after liberation, Frankl learned the full extent of his family's deaths. Within days he began dictating a new version of the lost manuscript from memory, adding a direct account of his camp experience, and the work was completed in nine days of dictation in 1945. It appeared in German in 1946 and in English in 1959 as *Man's Search for Meaning*.
+Before his deportation, Frankl had hidden the manuscript of his first book on meaning in his coat; it was confiscated on his arrival at Auschwitz and never recovered. On his return to Vienna after liberation, Frankl learned the full extent of his family's deaths. After returning to Vienna in the summer of 1945, he reconstructed the lost manuscript from memory in a new text on his camp experience, which he is reported to have dictated in about nine days. It appeared in German in 1946 and in English in 1959 as *Man's Search for Meaning*.
 
 From the same experience grew logotherapy and existential analysis as a school: the claim that the primary human motivation is the will to meaning, that meaning can be found in creative work, in love and encounter, and in the attitude taken toward unavoidable suffering, and that the therapist's task is to help the patient discover the meaning waiting in their own situation. The Viktor Frankl Institute in Vienna, founded in 1992, later became the institutional home of this teaching.
 
@@ -47,8 +47,8 @@ This is a documented historical account, not an inspirational use of Frankl's su
 
 ## Sources
 
-- Frankl, Viktor E. *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager*. Franz Deuticke, Vienna, 1946.
-- Frankl, Viktor E. *Man's Search for Meaning: An Introduction to Logotherapy*. Beacon Press, 1959.
-- Frankl, Viktor E. *Recollections: An Autobiography*. Basic Books, 1997.
+- Frankl, Viktor E. *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk, Vienna, 1946.
+- Frankl, Viktor E. *Man's Search for Meaning*. Beacon Press (first English edition 1959).
+- Frankl, Viktor E. *Recollections: An Autobiography*. Plenum Press, 1997.
 - Redsand, Anna S. *Viktor Frankl: A Life Worth Living*. Clarion Books, 2006.
 - Pytell, Timothy. *Viktor Frankl's Search for Meaning: An Emblematic Twentieth-Century Life*. Berghahn Books, 2015.

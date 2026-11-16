@@ -17,13 +17,12 @@ related:
   - id: "thk-camus", title: "Albert Camus: The Absurd and Revolt", type: "مفكر"
   - id: "thk-marcel", title: "Gabriel Marcel", type: "مفكر"
   - id: "thk-levinas", title: "Emmanuel Levinas", type: "مفكر"
-gaps:
-  - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
+gaps: []
 ---
 
 # Jean-Paul Sartre
 
-Jean-Paul Sartre (1905–1980) is the one figure of existential philosophy who embraced the name "existentialist" with enthusiasm, and the most influential — and most contested — of them all in practice. Philosopher, novelist, playwright, and critic, he wrote on phenomenology, ontology, psychoanalysis, politics, and literature, refused the Nobel Prize for Literature in 1964, and became the voice of the committed intellectual in mid-twentieth-century France. His books and plays have become part of world culture.
+Jean-Paul Sartre (1905–1980) is the leading figure of existential philosophy who embraced the name "existentialist" with enthusiasm, and the most influential — and most contested — of them all in practice. Philosopher, novelist, playwright, and critic, he wrote on phenomenology, ontology, psychoanalysis, politics, and literature, refused the Nobel Prize for Literature in 1964, and became the voice of the committed intellectual in mid-twentieth-century France. His books and plays have become part of world culture.
 
 ## Life and Career
 
@@ -47,7 +46,7 @@ After the war Sartre moved from an ontology of individual freedom to an analysis
 
 ## Influence and Critique
 
-Sartre's influence in the Arab world was enormous: in the 1950s and 1960s the Beirut journal *Al-Adab*, founded by Suhayl Idris in 1953, made "commitment" its slogan, drawn from Sartre, and Abd al-Rahman Badawi introduced existential philosophy to Arabic readers and translated *Being and Nothingness*. Writers and thinkers from Naguib Mahfouz to Mahmoud Amin al-Alim and Georges Tarabishi were marked by it, while others attacked it as an individualism unsuited to the causes of liberation.
+Sartre's influence in the Arab world was enormous: in the 1950s and 1960s the Beirut journal *Al-Adab*, founded by Suhayl Idris in 1953, made "commitment" its slogan, drawn from Sartre, and Abd al-Rahman Badawi introduced existential philosophy to Arabic readers and translated *Being and Nothingness*. Writers and critics such as Mahmoud Amin al-Alim and Georges Tarabishi were marked by it, while others attacked it as an individualism unsuited to the causes of liberation.
 
 The criticisms run deep. Merleau-Ponty argued that his freedom ignores the weight of the body and history; the structuralists, Lévi-Strauss among them, charged that the centrality of the conscious self ignores structures; and his formula of freedom is close to absolute, so that carrying it into the clinic without the cautions of Beauvoir can produce blame rather than liberation. Ronald Laing, however, was influenced by him in reading psychosis as a response to a relational situation rather than a mere symptom. What survives is a vocabulary — bad faith, the gaze, being condemned to be free — that still shapes how people, in and out of therapy, talk about freedom, shame, and responsibility.
 

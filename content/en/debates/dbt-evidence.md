@@ -12,7 +12,7 @@ edges:
 related:
   - id: "dbt-school-or-attitude", title: "School or Attitude?", type: "جدل"
   - id: "br-logotherapy", title: "Logotherapy & Existential Analysis", type: "تيار"
-gaps:[]
+gaps: []
 ---
 
 # Should We Demand Empirical Evidence?
@@ -23,7 +23,7 @@ The hottest dispute in existential therapy today, and one with a literally exist
 
 Without randomised trials we will be excluded from funding, insurance, and the university, and we will become a marginal practice available only to those who can pay for it privately. Survival requires playing by the rules that govern the field. From this side, the demand for evidence is not a philosophical concession but a practical necessity: a therapy that cannot demonstrate its effects in the terms the health system recognises will not be commissioned, taught in public training programmes, or reimbursed.
 
-The position has a record to point to. The meaning-centred branch accepted the rules and produced evidence. Breitbart and colleagues ran a pilot randomised trial of meaning-centred group psychotherapy for patients with advanced cancer in 2010, and a larger randomised trial of the same approach in 2015 with 253 patients, reporting significant improvements in spiritual well-being and psychological distress. That is the kind of result funders and guideline committees can read.
+The position has a record to point to. The meaning-centred branch accepted the rules and produced evidence. Breitbart and colleagues ran a pilot randomised trial of meaning-centred group psychotherapy for patients with advanced cancer in 2010, and a larger randomised trial of the same approach in 2015 with 253 patients, reporting significant improvements in spiritual well-being and meaning. That is the kind of result funders and guideline committees can read.
 
 ## The second position — no
 
@@ -39,9 +39,9 @@ Qualitative studies of clients' experience of existential therapy, systematic ca
 
 ## The finding that settles something
 
-The available meta-analysis says something both sides can use. Vos, Craig, and Cooper (2015) reviewed twenty-one eligible randomised trials of existential therapies, with fifteen studies and 1,792 participants in the analysis. Meaning therapies showed large effects on positive meaning in life immediately after treatment and at follow-up, and moderate effects on psychopathology and self-efficacy; supportive-expressive therapy showed small effects; experiential-existential and cognitive-existential therapies showed no significant effects.
+The available meta-analysis says something both sides can use. Vos, Craig, and Cooper (2015) reviewed randomised trials of existential therapies (fifteen studies with 1,792 participants entered the analysis). Overall the existential therapies showed benefits on several psychological outcomes, with the clearest effects for meaning-focused therapies on meaning in life, while the evidence for other forms of existential therapy was weaker.
 
-So the first position has support: when the school accepted the rules, it produced evidence. And the second position has support too: what produced the evidence was precisely the most structured, manualised branch — the one that had given up part of the identity the rest of the school defends. The meta-analysis also warned that the studies were few and of low quality, which both sides quote.
+So the first position has support: when the school accepted the rules, it produced evidence. And the second position has support too: what produced the evidence was precisely the most structured, manualised branch — the one that had given up part of the identity the rest of the school defends. The authors also cautioned that the number of studies was small and their quality variable, which both sides quote.
 
 ## What must not be said
 
@@ -62,5 +62,5 @@ Institutionally, this dispute decides the school's future directly: whether it b
 - Breitbart, W., Rosenfeld, B., Pessin, H., Applebaum, A., Kulikowski, J., & Lichtenthal, W. G. (2015). Meaning-centered group psychotherapy: An effective intervention for improving psychological well-being in patients with advanced cancer. *Journal of Clinical Oncology, 33*(7), 749–754.
 - Breitbart, W., Poppito, S., Rosenfeld, B., Vickers, A. J., Li, Y., Abbey, J., Olden, M., Pessin, H., Lichtenthal, W., Sjoberg, D., & Cassileth, B. R. (2012). Pilot randomized controlled trial of individual meaning-centered psychotherapy for patients with advanced cancer. *Journal of Clinical Oncology, 30*(12), 1304–1309.
 - Cooper, M. (2003). *Existential Therapies*. Sage.
-- Frankl, V. E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, 1959.)
+- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, 1959.)
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

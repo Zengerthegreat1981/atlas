@@ -24,7 +24,7 @@ gaps: []
 
 The absurd, in existential thought, is not a property of the world or of human psychology, but a **relational collision** between two fundamental facts: the human drive for meaning and the cosmos's indifference to that drive.
 
-This concept is most rigorously developed by Albert Camus, though it shapes the background of all existential psychology. It is the primary philosophical problem from which existential therapy emerges.
+This concept is most rigorously developed by Albert Camus, though it shapes the background of all existential psychology. Camus opens *The Myth of Sisyphus* by declaring that the one truly serious philosophical problem is whether life is worth living, that is, suicide.
 
 ## Core Definition: Relation, Not Property
 
@@ -36,11 +36,11 @@ Formally: the absurd arises when human consciousness encounters a universe that 
 
 Three ostensible solutions fail:
 
-1. **Suicide** — Ends the question but leaves the absurdity unaddressed. It is escape, not solution.
-2. **The Leap of Faith** (Kierkegaard) — Replaces the question with an answer supplied from outside reason. This is evasion masquerading as resolution.
-3. **Distraction** — Burying the question in activity or ideology. Temporary at best.
+1. **Suicide** — Ends the question but, for Camus, destroys one of the two terms of the absurd (the questioning consciousness) rather than resolving it. It is escape, not solution.
+2. **The Leap of Faith** (Kierkegaard, and in Camus's analysis also Jaspers and Shestov) — Replaces the question with an answer supplied from outside reason. Camus calls this "philosophical suicide."
+3. **Distraction** — Burying the question in routine, activity or ideology. Temporary at best.
 
-The only honest response is **rebellion**: to acknowledge the absurdity clearly and live within it consciously, neither denying it nor seeking false comfort.
+Camus's own answer is **revolt**, together with freedom and passion: to acknowledge the absurdity clearly and live within it consciously, neither denying it nor seeking false comfort.
 
 ## Distinction from Meaninglessness (Frankl's Existential Vacuum)
 
@@ -54,19 +54,17 @@ This explains a core disagreement in existential schools: some (logotherapy) see
 
 ## Why Camus Rejected the "Existentialist" Label
 
-Interestingly, Camus explicitly refused to be called an existentialist. Yet his articulation of the absurd became central to existential therapeutic vocabulary, particularly in addressing questions of meaning and mortality.
+Camus repeatedly refused to be called an existentialist, and did so as early as 1945, well before his public break with Sartre in 1952 after the publication of *The Rebel* (1951). The rejection was philosophical as well as personal: in *The Myth of Sisyphus* he criticised existential thinkers such as Kierkegaard, Jaspers and Shestov for escaping the absurd through a leap, whereas he wanted to *live within it* without false resolution. His articulation of the absurd nonetheless became a common reference point in later existential discussions of meaning and mortality.
 
-The rejection was partly political (disagreement with Sartre), but also philosophical: Camus saw existentialism as trying to *resolve* the absurd through freedom and choice, whereas he wanted to *live within it* without false resolution.
+## The Absurd and Psychotherapeutic Practice
 
-## The Absurd in Clinical Practice
-
-In therapy, encountering absurdity typically manifests as:
+Camus was not writing about therapy. Some existential practitioners use the idea as a lens, and in that setting an encounter with absurdity may be described as:
 
 - Loss of meaning after a significant life event (illness, loss, major transition)
 - Recognition that no external authority (parent, religion, career) can provide purpose
 - Awareness that one's deepest questions have no guaranteed answers
 
-The therapeutic response is not to answer the question, but to reframe the question-asking itself as meaningful: the capacity to ask "Why?" in the face of silence becomes the capacity to act with dignity and authenticity.
+In this literature the response is not to answer the question for the person but to treat the capacity to ask it as significant. This is an interpretive application of Camus, not a clinical protocol.
 
 ## Absurdity vs. Meaninglessness vs. Despair
 
@@ -86,6 +84,7 @@ The resolution: "One must imagine Sisyphus happy." Not because his fate improves
 
 ## Sources
 
-- Camus, Albert. *The Myth of Sisyphus: An Essay on the Absurd*. Translated by Justin O'Brien. Knopf, 1955.
+- Camus, Albert. *Le Mythe de Sisyphe*. Gallimard, 1942 (English: *The Myth of Sisyphus*, translated by Justin O'Brien, Knopf, 1955).
+- Camus, Albert. *L'Homme révolté*. Gallimard, 1951 (English: *The Rebel*).
 - Sartre, Jean-Paul. *Existentialism is a Humanism*. Yale University Press, 2007. [For the existentialist response to Camusian absurdism]
-- Kaplan, David M. ed. *Camus and Sartre: The Story of a Friendship and the Quarrel That Ended It*. Chicago University Press, 2013.
+- Aronson, Ronald. *Camus and Sartre: The Story of a Friendship and the Quarrel That Ended It*. University of Chicago Press, 2004.

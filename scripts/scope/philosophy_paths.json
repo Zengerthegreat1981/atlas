@@ -1,0 +1,12 @@
+{"root":"fld-philosophy","root_folder":"fields","paths":[
+["Start Here: The Branches",["fld-logic","fld-epistemology","fld-metaphysics","fld-philosophy-of-mind","fld-philosophy-of-language","fld-philosophy-of-science","fld-political-philosophy","fld-aesthetics","fld-ethics-overview"]],
+["Ancient Greek and Hellenistic Thought",["thk-socrates","thk-plato","wrk-republic-plato","thk-aristotle","wrk-nicomachean-ethics","sch-aristotelianism","sch-stoicism","sch-epicureanism","sch-pyrrhonism","thk-plotinus"]],
+["Medieval Latin and Islamic Philosophy",["thk-augustine","thk-aquinas","wrk-summa-theologiae-aquinas","sch-scholasticism","thk-al-farabi","thk-ibn-sina","thk-al-ghazali","wrk-tahafut-al-falasifa-ghazali","thk-ibn-rushd","thk-ibn-arabi","thk-suhrawardi","thk-mulla-sadra"]],
+["Indian and Buddhist Philosophy",["thk-buddha","sch-buddhism-early","thk-nagarjuna","sch-madhyamaka","con-shunyata","thk-shankara","sch-advaita-vedanta","sch-nyaya","sch-jainism","con-ahimsa"]],
+["Chinese Philosophy",["thk-confucius","wrk-lunyu","thk-mencius","thk-xunzi","thk-laozi","wrk-daodejing","thk-zhuangzi","sch-mohism","sch-legalism","sch-neoconfucianism","thk-zhu-xi","thk-wang-yangming"]],
+["Early Modern Rationalism and Empiricism",["thk-descartes","wrk-meditations-on-first-philosophy-descartes","thk-spinoza","thk-leibniz","thk-locke","thk-hume","thk-hobbes","thk-rousseau","wrk-the-social-contract-rousseau"]],
+["Kant, German Idealism and the Nineteenth Century",["thk-kant","wrk-critique-of-pure-reason-kant","thk-hegel","wrk-hegel-phenomenology-spirit","thk-schopenhauer","thk-mill","wrk-on-liberty-mill","wrk-on-the-genealogy-of-morals-nietzsche","thk-peirce","thk-dewey"]],
+["Twentieth-Century Continental Philosophy",["sch-phenomenology","thk-husserl","thk-merleau-ponty","thk-gadamer","thk-ricoeur","thk-derrida","thk-deleuze","sch-frankfurt-school","thk-adorno","thk-arendt"]],
+["Analytic Philosophy",["thk-gfrege","thk-bertrand-russell","thk-lwittgenstein","wrk-tractatus","wrk-philosophical-investigations-wittgenstein","thk-wquine","wrk-two-dogmas","thk-karl-popper","thk-thomas-kuhn","con-hard-problem-of-consciousness","thk-john-searle","thk-daniel-dennett","thk-rawls"]],
+["Existentialism and Its Neighbours",["sch-existentialism","thk-kierkegaard","thk-heidegger","thk-sartre","wrk-being-nothingness","thk-camus","thk-beauvoir","thk-buber","thk-frankl","con-freedom","con-absurd"]]
+]}

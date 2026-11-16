@@ -14,9 +14,7 @@ edges:
 related:
   - id: "thk-laing", title: "R. D. Laing", type: "مفكر"
   - id: "dbt-laing", title: "Is Psychosis a Meaningful Journey?", type: "جدل"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # The Divided Self: An Existential Study in Sanity and Madness
@@ -33,11 +31,11 @@ Laing's framework is assembled from several traditions. From Kierkegaard's *The 
 
 ## The Cases
 
-The book falls into two interwoven parts: a theoretical section on why clinical description fails to reach experience, on the existential-phenomenological basis of a science of persons, and on ontological insecurity, the embodied and disembodied self, and the false-self system; and a clinical section of cases described in detail. The cases move from the schizoid position to frank schizophrenia, and the most famous is that of Julie, a young woman speaking in fragmented language about the "ghost of the haystack". Laing reconstructs her speech to show that it is consistent with her history — that she is speaking about her fear of being lost and engulfed — and that what looks like nonsense has a meaning once the listener stops translating it into symptoms. Other cases, David and Peter among them, serve the same purpose: to demonstrate that the patient's words deserve listening rather than reduction.
+The book falls into two interwoven parts: a theoretical section on why clinical description fails to reach experience, on the existential-phenomenological basis of a science of persons, and on ontological insecurity, the embodied and disembodied self, and the false-self system; and a clinical section of cases described in detail. The cases move from the schizoid position to frank schizophrenia, and the most famous is that of Julie, a young woman speaking in fragmented language about the "ghost of the weed garden". Laing reconstructs her speech to show that it is consistent with her history — that she is speaking about her fear of being lost and engulfed — and that what looks like nonsense has a meaning once the listener stops translating it into symptoms. Other cases, David and Peter among them, serve the same purpose: to demonstrate that the patient's words deserve listening rather than reduction.
 
 ## Aftermath: Family, Kingsley Hall, and Anti-Psychiatry
 
-Laing followed the book with *Sanity, Madness and the Family* (1964, with Aaron Esterson), which read schizophrenia in the light of family communication, and with *The Politics of Experience* (1967). In 1965 he founded the Philadelphia Association with colleagues and opened Kingsley Hall, a residential therapeutic community run without medical hierarchy, which operated until 1970 and attracted wide attention and controversy. The phrase "anti-psychiatry" was coined by David Cooper in 1967, and Laing refused to be placed under it. In the Arab world there is no confirmed Arabic translation of the book, and researchers rely on the English original.
+Laing followed the book with *Sanity, Madness and the Family* (1964, with Aaron Esterson), which read schizophrenia in the light of family communication, and with *The Politics of Experience* (1967). In 1965 he founded the Philadelphia Association with colleagues and opened Kingsley Hall, a residential therapeutic community run without medical hierarchy, which operated until 1970 and attracted wide attention and controversy. The phrase "anti-psychiatry" was coined by David Cooper in 1967, and Laing refused to be placed under it.
 
 ## Reception and Criticism
 

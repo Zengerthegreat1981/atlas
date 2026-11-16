@@ -15,7 +15,7 @@ edges:
 related:
   - id: "con-meaning", title: "Meaning and Meaninglessness: The School's Dividing Line", type: "مفهوم"
 gaps:
-  - "يحتاج مصدراً تاريخياً أولياً محدداً (لا اعتماداً على السرد العام) لتوثيق تفاصيل أدق"
+  - "A specific primary historical source, rather than general narrative, for finer historical details: not yet covered."
 ---
 
 # Post-WWI/WWII European Context
@@ -28,7 +28,7 @@ The First World War (1914–1918) destroyed the nineteenth century's confidence 
 
 ## Key figures
 
-Karl Jaspers (1883–1969) lived through the First World War and the rise of Nazism in Germany — he was married to a Jewish woman, was harassed by the regime, and was banned from teaching in 1937. A psychiatrist before he was a philosopher, he published General Psychopathology in 1913 and introduced the concept of "limit situations" (Grenzsituationen) — death, suffering, struggle, and guilt — in Psychology of Worldviews (1919): moments that rational philosophy cannot absorb and that demand an existential awareness beyond scientific knowledge. After the war he published The Question of Guilt (1946), distinguishing criminal, political, moral, and metaphysical guilt, a text that shaped the German debate on responsibility. Viktor Frankl is the second founding figure of this context, and his camp experience is treated in its own section below. Theodor Adorno's remark in 1949 that writing poetry after Auschwitz is barbaric became the emblem of a crisis of confidence in European culture, and Primo Levi's If This Is a Man (1947) gave the catastrophe its most exact literary witness.
+Karl Jaspers (1883–1969) lived through the First World War and the rise of Nazism in Germany — he was married to a Jewish woman, was harassed by the regime, and was banned from teaching in 1937. A psychiatrist before he was a philosopher, he published General Psychopathology in 1913 and introduced the concept of "limit situations" (Grenzsituationen) — death, suffering, struggle, and guilt — in Psychology of Worldviews (1919): moments that rational philosophy cannot absorb and that demand an existential awareness beyond scientific knowledge. After the war he published The Question of Guilt (1946), distinguishing criminal, political, moral, and metaphysical guilt, a text that shaped the German debate on responsibility. Viktor Frankl is the second founding figure of this context, and his camp experience is treated in its own section below. Theodor Adorno's remark, written in 1949 and published in 1951, that writing poetry after Auschwitz is barbaric became the emblem of a crisis of confidence in European culture, and Primo Levi's If This Is a Man (1947) gave the catastrophe its most exact literary witness.
 
 ## Frankl and the concentration camps
 

@@ -8,299 +8,299 @@ Anything not listed is out of v1 and belongs in the next-release backlog.
 
 | slug | title | status |
 |---|---|---|
-| sch-academy-platonic | Platonic Academy (Old / Middle / New Skeptical) | MISSING |
-| sch-aristotelianism | Peripatetic / Aristotelianism | MISSING |
-| sch-stoicism | Stoicism | MISSING |
-| sch-epicureanism | Epicureanism | MISSING |
-| sch-pyrrhonism | Pyrrhonian Skepticism | MISSING |
-| sch-academic-skepticism | Academic Skepticism | MISSING |
-| sch-sophistry | Sophistry | MISSING |
-| sch-neoplatonism | Neoplatonism | MISSING |
-| sch-patristics | Patristics | MISSING |
-| sch-scholasticism | Scholasticism (umbrella) | MISSING |
-| sch-thomism | Thomism | MISSING |
-| sch-ockhamism | Ockhamism / Nominalism | MISSING |
-| sch-augustinianism | Augustinianism | MISSING |
-| sch-atomism-greek | Greek Atomism | MISSING |
-| sch-renaissance-humanism | Renaissance Humanism | MISSING |
+| sch-academy-platonic | Platonic Academy (Old / Middle / New Skeptical) | EN |
+| sch-aristotelianism | Peripatetic / Aristotelianism | EN |
+| sch-stoicism | Stoicism | EN |
+| sch-epicureanism | Epicureanism | EN |
+| sch-pyrrhonism | Pyrrhonian Skepticism | EN |
+| sch-academic-skepticism | Academic Skepticism | EN |
+| sch-sophistry | Sophistry | EN |
+| sch-neoplatonism | Neoplatonism | EN |
+| sch-patristics | Patristics | EN |
+| sch-scholasticism | Scholasticism (umbrella) | EN |
+| sch-thomism | Thomism | EN |
+| sch-ockhamism | Ockhamism / Nominalism | EN |
+| sch-augustinianism | Augustinianism | EN |
+| sch-atomism-greek | Greek Atomism | EN |
+| sch-renaissance-humanism | Renaissance Humanism | EN |
 
 ## schools-early-modern-modern
 
 | slug | title | status |
 |---|---|---|
-| sch-cartesianism | Cartesianism | MISSING |
-| sch-leibnizianism | Leibnizianism | MISSING |
-| sch-spinozism | Spinozism | MISSING |
-| sch-british-empiricism | British Empiricism (umbrella) | MISSING |
-| sch-lockeanism | Lockeanism (Empirical Lockeanism) | MISSING |
-| sch-humeanism | Humeanism (Empirical Skepticism) | MISSING |
-| sch-enlightenment | Enlightenment Philosophy (umbrella) | MISSING |
-| sch-kant-critical | Critical Kantianism | MISSING |
-| sch-german-idealism | German Idealism (umbrella) | MISSING |
-| sch-hegelianism | Hegelianism | MISSING |
-| sch-marxism | Classical Marxism | MISSING |
-| sch-pragmatism-classical | Classical Pragmatism | MISSING |
-| sch-utilitarianism | Utilitarianism | MISSING |
-| sch-classical-liberalism-early | Early Classical Liberalism | MISSING |
+| sch-cartesianism | Cartesianism | EN |
+| sch-leibnizianism | Leibnizianism | EN |
+| sch-spinozism | Spinozism | EN |
+| sch-british-empiricism | British Empiricism (umbrella) | EN |
+| sch-lockeanism | Lockeanism (Empirical Lockeanism) | EN |
+| sch-humeanism | Humeanism (Empirical Skepticism) | EN |
+| sch-enlightenment | Enlightenment Philosophy (umbrella) | EN |
+| sch-kant-critical | Critical Kantianism | EN |
+| sch-german-idealism | German Idealism (umbrella) | EN |
+| sch-hegelianism | Hegelianism | EN |
+| sch-marxism | Classical Marxism | EN |
+| sch-pragmatism-classical | Classical Pragmatism | EN |
+| sch-utilitarianism | Utilitarianism | EN |
+| sch-classical-liberalism-early | Early Classical Liberalism | EN |
 
 ## schools-contemporary
 
 | slug | title | status |
 |---|---|---|
-| sch-phenomenology | Phenomenology | MISSING |
-| sch-phenomenology-existential | Existential Phenomenology | MISSING |
-| sch-existentialism | Existentialism | MISSING |
-| sch-existentialism-atheist | Atheist Existentialism | MISSING |
-| sch-hermeneutics | Philosophical Hermeneutics | MISSING |
-| sch-vienna-circle | Logical Positivism (Vienna Circle) | MISSING |
-| sch-logical-atomism | Logical Atomism | MISSING |
-| sch-ordinary-language | Ordinary Language Philosophy | MISSING |
-| sch-phil-mind-analytic | Analytic Philosophy of Mind (umbrella) | MISSING |
-| sch-analytic-metaphysics | Contemporary Analytic Metaphysics | MISSING |
-| sch-phil-science | Philosophy of Science (umbrella) | MISSING |
-| sch-post-structuralism | Post-Structuralism | MISSING |
-| sch-deconstruction | Deconstruction | MISSING |
-| sch-frankfurt-school | Frankfurt School / Critical Theory | MISSING |
-| sch-rawlsianism | Contemporary Political Liberalism (Rawlsianism and After) | MISSING |
-| sch-communitarianism | Communitarianism | MISSING |
-| sch-postcolonial-philosophy | Postcolonial Philosophy | MISSING |
-| sch-postmodernism-philosophical | Philosophical Postmodernism | MISSING |
-| sch-decolonial-philosophy | Decolonial Philosophy (Global Umbrella) | MISSING |
+| sch-phenomenology | Phenomenology | EN |
+| sch-phenomenology-existential | Existential Phenomenology | EN |
+| sch-existentialism | Existentialism | EN |
+| sch-existentialism-atheist | Atheist Existentialism | EN |
+| sch-hermeneutics | Philosophical Hermeneutics | EN |
+| sch-vienna-circle | Logical Positivism (Vienna Circle) | EN |
+| sch-logical-atomism | Logical Atomism | EN |
+| sch-ordinary-language | Ordinary Language Philosophy | EN |
+| sch-phil-mind-analytic | Analytic Philosophy of Mind (umbrella) | EN |
+| sch-analytic-metaphysics | Contemporary Analytic Metaphysics | EN |
+| sch-phil-science | Philosophy of Science (umbrella) | EN |
+| sch-post-structuralism | Post-Structuralism | EN |
+| sch-deconstruction | Deconstruction | EN |
+| sch-frankfurt-school | Frankfurt School / Critical Theory | EN |
+| sch-rawlsianism | Contemporary Political Liberalism (Rawlsianism and After) | EN |
+| sch-communitarianism | Communitarianism | EN |
+| sch-postcolonial-philosophy | Postcolonial Philosophy | EN |
+| sch-postmodernism-philosophical | Philosophical Postmodernism | EN |
+| sch-decolonial-philosophy | Decolonial Philosophy (Global Umbrella) | EN |
 
 ## schools-islamic-indian-chinese-other
 
 | slug | title | status |
 |---|---|---|
-| sch-islamic-peripatetic | Islamic Peripatetic Philosophy (Mashshā'ī Falsafa) | MISSING |
-| sch-ashariyya | Ash'ariyya | MISSING |
-| sch-mutazila | Mu'tazila | MISSING |
-| sch-ishraqiyya | Illuminationist Philosophy (Ishrāqiyya) | MISSING |
-| sch-transcendent-theosophy | Transcendent Theosophy (Mullā Ṣadrā) | MISSING |
-| sch-andalusian-philosophy | Andalusian Philosophy (Islamic Averroism) | MISSING |
-| sch-islamic-sufism | Classical Islamic Sufism (Tasawwuf) | MISSING |
-| sch-advaita-vedanta | Advaita Vedānta (Non-dualism) | MISSING |
-| sch-vedanta | Vedānta (umbrella) | MISSING |
-| sch-nyaya | Nyāya (Classical Indian Logic and Epistemology) | MISSING |
-| sch-samkhya | Sāṃkhya | MISSING |
-| sch-jainism | Jain Philosophy (Digambara and Śvētāmbara) | MISSING |
-| sch-buddhism-early | Early Buddhism (Pre-sectarian) | MISSING |
-| sch-madhyamaka | Madhyamaka (Prāsaṅgika and Svātantrika) | MISSING |
-| sch-yogacara | Yogācāra / Vijñānavāda (Consciousness-Only School) | MISSING |
-| sch-charvaka | Chārvāka / Lokāyata (Indian Materialism) | MISSING |
-| sch-confucian-early | Early Confucianism (Rujia) | MISSING |
-| sch-daoism-philosophical | Philosophical Daoism (Daojia) | MISSING |
-| sch-mohism | Mohism (Mozi and later Logician branch) | MISSING |
-| sch-legalism | Legalism (Fajia) | MISSING |
-| sch-neoconfucianism | Neo-Confucianism (Umbrella Term) | MISSING |
-| sch-lixue | School of Principle (Lixue / Cheng-Zhu School) | MISSING |
-| sch-xinxue | School of Mind-Heart (Xinxue / Lu-Wang) | MISSING |
-| sch-kyoto | Kyoto School (Kyōto-gakuha) | MISSING |
-| sch-ubuntu | Contemporary Ubuntu Philosophy | MISSING |
-| sch-ethnophilosophy | Ethnophilosophy | MISSING |
-| sch-african-professional-philosophy | Professional/Academic African Philosophy | MISSING |
-| sch-egyptian-maat | Egyptian Wisdom Tradition (Ma'at) | MISSING |
-| sch-zoroastrian-philosophy | Zoroastrian Philosophy | MISSING |
+| sch-islamic-peripatetic | Islamic Peripatetic Philosophy (Mashshā'ī Falsafa) | EN |
+| sch-ashariyya | Ash'ariyya | EN |
+| sch-mutazila | Mu'tazila | EN |
+| sch-ishraqiyya | Illuminationist Philosophy (Ishrāqiyya) | EN |
+| sch-transcendent-theosophy | Transcendent Theosophy (Mullā Ṣadrā) | EN |
+| sch-andalusian-philosophy | Andalusian Philosophy (Islamic Averroism) | EN |
+| sch-islamic-sufism | Classical Islamic Sufism (Tasawwuf) | EN |
+| sch-advaita-vedanta | Advaita Vedānta (Non-dualism) | EN |
+| sch-vedanta | Vedānta (umbrella) | EN |
+| sch-nyaya | Nyāya (Classical Indian Logic and Epistemology) | EN |
+| sch-samkhya | Sāṃkhya | EN |
+| sch-jainism | Jain Philosophy (Digambara and Śvētāmbara) | EN |
+| sch-buddhism-early | Early Buddhism (Pre-sectarian) | EN |
+| sch-madhyamaka | Madhyamaka (Prāsaṅgika and Svātantrika) | EN |
+| sch-yogacara | Yogācāra / Vijñānavāda (Consciousness-Only School) | EN |
+| sch-charvaka | Chārvāka / Lokāyata (Indian Materialism) | EN |
+| sch-confucian-early | Early Confucianism (Rujia) | EN |
+| sch-daoism-philosophical | Philosophical Daoism (Daojia) | EN |
+| sch-mohism | Mohism (Mozi and later Logician branch) | EN |
+| sch-legalism | Legalism (Fajia) | EN |
+| sch-neoconfucianism | Neo-Confucianism (Umbrella Term) | EN |
+| sch-lixue | School of Principle (Lixue / Cheng-Zhu School) | EN |
+| sch-xinxue | School of Mind-Heart (Xinxue / Lu-Wang) | EN |
+| sch-kyoto | Kyoto School (Kyōto-gakuha) | EN |
+| sch-ubuntu | Contemporary Ubuntu Philosophy | EN |
+| sch-ethnophilosophy | Ethnophilosophy | EN |
+| sch-african-professional-philosophy | Professional/Academic African Philosophy | EN |
+| sch-egyptian-maat | Egyptian Wisdom Tradition (Ma'at) | EN |
+| sch-zoroastrian-philosophy | Zoroastrian Philosophy | EN |
 
 ## thinkers-ancient-medieval
 
 | slug | title | status |
 |---|---|---|
-| thk-socrates | Socrates | MISSING |
-| thk-plato | Plato | MISSING |
-| thk-aristotle | Aristotle | MISSING |
-| thk-heraclitus | Heraclitus of Ephesus | MISSING |
-| thk-parmenides | Parmenides of Elea | MISSING |
-| thk-epicur | Epicurus | MISSING |
-| thk-epictetus | Epictetus | MISSING |
-| thk-marcus-aurelius | Marcus Aurelius | MISSING |
-| thk-plotinus | Plotinus | MISSING |
-| thk-augustine | Augustine of Hippo | MISSING |
-| thk-aquinas | Thomas Aquinas | MISSING |
-| thk-william-ockham | William of Ockham | MISSING |
-| thk-ibn-sina | Abu Ali al-Husayn ibn Sina (Avicenna) | MISSING |
-| thk-al-farabi | Abu Nasr al-Farabi (Alpharabius) | MISSING |
-| thk-al-kindi | Abu Yusuf Ya'qub ibn Ishaq al-Kindi (Alkindus) | MISSING |
-| thk-al-ghazali | Abu Hamid al-Ghazali | MISSING |
-| thk-ibn-rushd | Abu al-Walid ibn Rushd (Averroes) | MISSING |
-| thk-ibn-tufayl | Abu Bakr ibn Tufayl (Abubacer) | MISSING |
-| thk-ibn-arabi | Muhyi al-Din Ibn Arabi | MISSING |
-| thk-suhrawardi | Shahab al-Din Yahya ibn Habash Suhrawardi (Shaykh al-Ishraq) | MISSING |
-| thk-mulla-sadra | Mulla Sadra (Sadr al-Din Shirazi) | MISSING |
-| thk-fakhr-razi | Fakhr al-Din al-Razi | MISSING |
-| thk-ashari | Abu al-Hasan al-Ash'ari | MISSING |
-| thk-buddha | Buddha | MISSING |
-| thk-nagarjuna | Nagarjuna (Founder of Madhyamaka) | MISSING |
-| thk-shankara | Shankaracharya | MISSING |
-| thk-mahavira | Mahavira (Founder of Jainism) | MISSING |
-| thk-confucius | Confucius | MISSING |
-| thk-mencius | Mencius (Mengzi) | MISSING |
-| thk-xunzi | Xunzi (Xun Kuang) | MISSING |
-| thk-laozi | Laozi (Lao Dan) | MISSING |
-| thk-zhuangzi | Zhuangzi | MISSING |
-| thk-zhu-xi | Zhu Xi (Chu Hsi) | MISSING |
-| thk-wang-yangming | Wang Yangming (Wang Shouren) | MISSING |
+| thk-socrates | Socrates | EN |
+| thk-plato | Plato | EN |
+| thk-aristotle | Aristotle | EN |
+| thk-heraclitus | Heraclitus of Ephesus | EN |
+| thk-parmenides | Parmenides of Elea | EN |
+| thk-epicur | Epicurus | EN |
+| thk-epictetus | Epictetus | EN |
+| thk-marcus-aurelius | Marcus Aurelius | EN |
+| thk-plotinus | Plotinus | EN |
+| thk-augustine | Augustine of Hippo | EN |
+| thk-aquinas | Thomas Aquinas | EN |
+| thk-william-ockham | William of Ockham | EN |
+| thk-ibn-sina | Abu Ali al-Husayn ibn Sina (Avicenna) | EN |
+| thk-al-farabi | Abu Nasr al-Farabi (Alpharabius) | EN |
+| thk-al-kindi | Abu Yusuf Ya'qub ibn Ishaq al-Kindi (Alkindus) | EN |
+| thk-al-ghazali | Abu Hamid al-Ghazali | EN |
+| thk-ibn-rushd | Abu al-Walid ibn Rushd (Averroes) | EN |
+| thk-ibn-tufayl | Abu Bakr ibn Tufayl (Abubacer) | EN |
+| thk-ibn-arabi | Muhyi al-Din Ibn Arabi | EN |
+| thk-suhrawardi | Shahab al-Din Yahya ibn Habash Suhrawardi (Shaykh al-Ishraq) | EN |
+| thk-mulla-sadra | Mulla Sadra (Sadr al-Din Shirazi) | EN |
+| thk-fakhr-razi | Fakhr al-Din al-Razi | EN |
+| thk-ashari | Abu al-Hasan al-Ash'ari | EN |
+| thk-buddha | The Buddha (Siddhartha Gautama) | EN |
+| thk-nagarjuna | Nagarjuna (Founder of Madhyamaka) | EN |
+| thk-shankara | Shankaracharya | EN |
+| thk-mahavira | Mahavira (Founder of Jainism) | EN |
+| thk-confucius | Confucius | EN |
+| thk-mencius | Mencius (Mengzi) | EN |
+| thk-xunzi | Xunzi (Xun Kuang) | EN |
+| thk-laozi | Laozi (Lao Dan) | EN |
+| thk-zhuangzi | Zhuangzi | EN |
+| thk-zhu-xi | Zhu Xi (Chu Hsi) | EN |
+| thk-wang-yangming | Wang Yangming (Wang Shouren) | EN |
 
 ## thinkers-modern-contemporary
 
 | slug | title | status |
 |---|---|---|
-| thk-descartes | René Descartes | MISSING |
-| thk-spinoza | Baruch Spinoza | MISSING |
-| thk-leibniz | Gottfried Wilhelm Leibniz | MISSING |
-| thk-hobbes | Thomas Hobbes | MISSING |
-| thk-locke | John Locke | MISSING |
-| thk-hume | David Hume | MISSING |
-| thk-rousseau | Jean-Jacques Rousseau | MISSING |
-| thk-voltaire | Voltaire | MISSING |
-| thk-kant | Immanuel Kant | MISSING |
-| thk-fichte | Johann Gottlieb Fichte | MISSING |
-| thk-schelling | Friedrich Schelling | MISSING |
-| thk-hegel | Georg Wilhelm Friedrich Hegel | MISSING |
-| thk-schopenhauer | Arthur Schopenhauer | MISSING |
-| thk-mill | John Stuart Mill | MISSING |
-| thk-bentham | Jeremy Bentham | MISSING |
-| thk-peirce | Charles Sanders Peirce | MISSING |
-| thk-dewey | John Dewey | MISSING |
-| thk-bergson | Henri Bergson | MISSING |
-| thk-brentano | Franz Brentano | MISSING |
-| thk-dilthey | Wilhelm Dilthey | MISSING |
-| thk-nishida | Kitaro Nishida | MISSING |
-| thk-gfrege | Gottlob Frege | MISSING |
-| thk-bertrand-russell | Bertrand Russell | MISSING |
-| thk-lwittgenstein | Ludwig Wittgenstein | MISSING |
-| thk-rcarnap | Rudolf Carnap | MISSING |
-| thk-jaustin | John Langshaw Austin | MISSING |
-| thk-wquine | Willard Van Orman Quine | MISSING |
-| thk-karl-popper | Sir Karl Popper | MISSING |
-| thk-thomas-kuhn | Thomas S. Kuhn | MISSING |
-| thk-hputnam | Hilary Putnam | MISSING |
-| thk-nagel | Thomas Nagel | MISSING |
-| thk-john-searle | John Rogers Searle | MISSING |
-| thk-daniel-dennett | Daniel Dennett | MISSING |
-| thk-david-chalmers | David Chalmers | MISSING |
-| thk-rawls | John Rawls | MISSING |
-| thk-nozick | Robert Nozick | MISSING |
-| thk-macintyre | Alasdair MacIntyre | MISSING |
-| thk-sandel | Michael Sandel | MISSING |
-| thk-rorty | Richard Rorty | MISSING |
-| thk-merleau-ponty | Maurice Merleau-Ponty | MISSING |
-| thk-gadamer | Hans-Georg Gadamer | MISSING |
-| thk-ricoeur | Paul Ricœur | MISSING |
-| thk-derrida | Jacques Derrida | MISSING |
-| thk-deleuze | Gilles Deleuze | MISSING |
-| thk-habermas | Jürgen Habermas | MISSING |
-| thk-adorno | Theodor Adorno | MISSING |
-| thk-arendt | Hannah Arendt | MISSING |
-| thk-mbuber | Martin Buber | MISSING |
-| thk-mohammed-abed-al-jabri | Mohammed Abed al-Jabri | MISSING |
-| thk-arne-naess | Arne Naess | MISSING |
-| thk-biko | Steve Biko | MISSING |
+| thk-descartes | René Descartes | EN |
+| thk-spinoza | Baruch Spinoza | EN |
+| thk-leibniz | Gottfried Wilhelm Leibniz | EN |
+| thk-hobbes | Thomas Hobbes | EN |
+| thk-locke | John Locke | EN |
+| thk-hume | David Hume | EN |
+| thk-rousseau | Jean-Jacques Rousseau | EN |
+| thk-voltaire | Voltaire | EN |
+| thk-kant | Immanuel Kant | EN |
+| thk-fichte | Johann Gottlieb Fichte | EN |
+| thk-schelling | Friedrich Schelling | EN |
+| thk-hegel | Georg Wilhelm Friedrich Hegel | EN |
+| thk-schopenhauer | Arthur Schopenhauer | EN |
+| thk-mill | John Stuart Mill | EN |
+| thk-bentham | Jeremy Bentham | EN |
+| thk-peirce | Charles Sanders Peirce | EN |
+| thk-dewey | John Dewey | EN |
+| thk-bergson | Henri Bergson | EN |
+| thk-brentano | Franz Brentano | EN |
+| thk-dilthey | Wilhelm Dilthey | EN |
+| thk-nishida | Kitaro Nishida | EN |
+| thk-gfrege | Gottlob Frege | EN |
+| thk-bertrand-russell | Bertrand Russell | EN |
+| thk-lwittgenstein | Ludwig Wittgenstein | EN |
+| thk-rcarnap | Rudolf Carnap | EN |
+| thk-jaustin | John Langshaw Austin | EN |
+| thk-wquine | Willard Van Orman Quine | EN |
+| thk-karl-popper | Sir Karl Popper | EN |
+| thk-thomas-kuhn | Thomas S. Kuhn | EN |
+| thk-hputnam | Hilary Putnam | EN |
+| thk-nagel | Thomas Nagel | EN |
+| thk-john-searle | John Rogers Searle | EN |
+| thk-daniel-dennett | Daniel Dennett | EN |
+| thk-david-chalmers | David Chalmers | EN |
+| thk-rawls | John Rawls | EN |
+| thk-nozick | Robert Nozick | EN |
+| thk-macintyre | Alasdair MacIntyre | EN |
+| thk-sandel | Michael Sandel | EN |
+| thk-rorty | Richard Rorty | EN |
+| thk-merleau-ponty | Maurice Merleau-Ponty | EN |
+| thk-gadamer | Hans-Georg Gadamer | EN |
+| thk-ricoeur | Paul Ricœur | EN |
+| thk-derrida | Jacques Derrida | EN |
+| thk-deleuze | Gilles Deleuze | EN |
+| thk-habermas | Jürgen Habermas | EN |
+| thk-adorno | Theodor Adorno | EN |
+| thk-arendt | Hannah Arendt | EN |
+| thk-mbuber | Martin Buber | EN |
+| thk-mohammed-abed-al-jabri | Mohammed Abed al-Jabri | EN |
+| thk-arne-naess | Arne Naess | EN |
+| thk-biko | Steve Biko | EN |
 
 ## concepts
 
 | slug | title | status |
 |---|---|---|
-| con-dialectics | Dialectic | MISSING |
-| con-intentionality | Intentionality | MISSING |
-| con-epoche-suspension | Epoché (Suspension of Judgment) | MISSING |
-| con-cogito | Cogito, ergo sum | MISSING |
-| con-res-cogitans-res-extensa | Res Cogitans Res Extensa | MISSING |
-| con-hermeneutic-circle | Hermeneutic Circle | MISSING |
-| con-shunyata | Śūnyatā (Emptiness / Essential Nihility) | MISSING |
-| con-anatta-non-self-concept | Anatta Non Self Concept | MISSING |
-| con-dao | Dao (The Way) | MISSING |
-| con-li | Li (Ritual / Propriety) | MISSING |
-| con-ren | Ren (Humaneness / Benevolence) | MISSING |
-| con-wahdat-al-wujud | Wahdat al-Wujud (Unity of Being) | MISSING |
-| con-universals-debate | The Problem of Universals (Realism vs. Conceptualism vs. Nominalism) | MISSING |
-| con-hylomorphism | Hylomorphism (Matter and Form) | MISSING |
-| con-monad | Monads | MISSING |
-| con-will-to-power | Will to Power | MISSING |
-| con-falsificationism-popper | Falsificationism Popper | MISSING |
-| con-hard-problem-of-consciousness | Hard Problem Of Consciousness | MISSING |
-| con-functionalism-mind | Functionalism in Philosophy of Mind | MISSING |
-| con-sense-vs-reference | Sense vs. Reference (Sinn/Bedeutung) | MISSING |
-| con-social-contract-theory | Social Contract Theory | MISSING |
-| con-natural-law-aquinas-concept | Natural Law Aquinas Concept | MISSING |
-| con-lived-body | The Lived Body (Leib vs. Körper) | MISSING |
-| con-alienation-marx | Alienation (Marxist concept) | MISSING |
-| con-anamnesis-recollection | Anamnesis Recollection | MISSING |
-| con-ataraxia | Ataraxia | MISSING |
-| con-atman-brahman-vedanta | Atman and Brahman (Advaita Vedanta) | MISSING |
-| con-maya-vedanta | Māyā (Philosophical Illusion / Cosmic Apparition) | MISSING |
-| con-ahimsa | Ahimsa (Non-violence) | MISSING |
-| con-nirvana-extinction | Nirvana Extinction | MISSING |
-| con-yin-yang | Yin-Yang (The Two Cosmic Poles) | MISSING |
-| con-knowledge-by-presence-ilm-huduri | Knowledge by Presence (Ilm Huduri) | MISSING |
-| con-asalat-al-wujud-primacy-of-existence | Primacy of Existence (Asalat al-Wujud) | MISSING |
-| con-absolute-spirit-hegel | Absolute Spirit Hegel | MISSING |
-| con-autonomy-kantian | Autonomy in Kantian Ethics | MISSING |
-| con-eudaimonia-wellbeing | Eudaimonia Wellbeing | MISSING |
-| con-virtue-ethics | Virtue Ethics and Eudaimonia | MISSING |
-| con-orientalism | Orientalism (Said) | MISSING |
+| con-dialectics | Dialectic | EN |
+| con-intentionality | Intentionality | EN |
+| con-epoche-suspension | Epoché (Suspension of Judgment) | EN |
+| con-cogito | Cogito, ergo sum | EN |
+| con-res-cogitans-res-extensa | Res Cogitans and Res Extensa | EN |
+| con-hermeneutic-circle | Hermeneutic Circle | EN |
+| con-shunyata | Śūnyatā (Emptiness / Essential Nihility) | EN |
+| con-anatta-non-self-concept | Anatta Non Self Concept | EN |
+| con-dao | Dao (The Way) | EN |
+| con-li | Li (Ritual / Propriety) | EN |
+| con-ren | Ren (Humaneness / Benevolence) | EN |
+| con-wahdat-al-wujud | Wahdat al-Wujud (Unity of Being) | EN |
+| con-universals-debate | The Problem of Universals (Realism vs. Conceptualism vs. Nominalism) | EN |
+| con-hylomorphism | Hylomorphism (Matter and Form) | EN |
+| con-monad | Monads | EN |
+| con-will-to-power | Will to Power | EN |
+| con-falsificationism-popper | Falsificationism (Popper) | EN |
+| con-hard-problem-of-consciousness | Hard Problem Of Consciousness | EN |
+| con-functionalism-mind | Functionalism in Philosophy of Mind | EN |
+| con-sense-vs-reference | Sense vs. Reference (Sinn/Bedeutung) | EN |
+| con-social-contract-theory | Social Contract Theory | EN |
+| con-natural-law-aquinas-concept | Natural Law and Rational Participation in Eternal Wisdom | EN |
+| con-lived-body | The Lived Body (Leib vs. Körper) | EN |
+| con-alienation-marx | Alienation (Marxist concept) | EN |
+| con-anamnesis-recollection | Anamnesis Recollection | EN |
+| con-ataraxia | Ataraxia | EN |
+| con-atman-brahman-vedanta | Atman and Brahman (Advaita Vedanta) | EN |
+| con-maya-vedanta | Māyā (Philosophical Illusion / Cosmic Apparition) | EN |
+| con-ahimsa | Ahimsa (Non-violence) | EN |
+| con-nirvana-extinction | Nirvana Extinction | EN |
+| con-yin-yang | Yin-Yang (The Two Cosmic Poles) | EN |
+| con-knowledge-by-presence-ilm-huduri | Knowledge by Presence (Ilm Huduri) | EN |
+| con-asalat-al-wujud-primacy-of-existence | Primacy of Existence (Asalat al-Wujud) | EN |
+| con-absolute-spirit-hegel | Absolute Spirit and Its Manifestations | EN |
+| con-autonomy-kantian | Autonomy in Kantian Ethics | EN |
+| con-eudaimonia-wellbeing | Eudaimonia Wellbeing | EN |
+| con-virtue-ethics | Virtue Ethics and Eudaimonia | EN |
+| con-orientalism | Orientalism (Said) | EN |
 
 ## works
 
 | slug | title | status |
 |---|---|---|
-| wrk-republic-plato | Republic Plato | MISSING |
-| wrk-apology-plato | Apology Plato | MISSING |
-| wrk-nicomachean-ethics | Nicomachean Ethics | MISSING |
-| wrk-metaphysics-aristotle | Metaphysics Aristotle | MISSING |
-| wrk-meditations-on-first-philosophy-descartes | Meditations On First Philosophy Descartes | MISSING |
-| wrk-critique-of-pure-reason-kant | Critique of Pure Reason (Kritik der reinen Vernunft) | MISSING |
-| wrk-critique-of-practical-reason-kant | Critique Of Practical Reason Kant | MISSING |
-| wrk-spinoza-ethics | Ethics, Demonstrated in Geometrical Order by Baruch Spinoza | MISSING |
-| wrk-hegel-phenomenology-spirit | Phenomenology of Spirit (Phänomenologie des Geistes) by G.W.F. Hegel | MISSING |
-| wrk-tractatus | Tractatus Logico-Philosophicus (1921) | MISSING |
-| wrk-philosophical-investigations-wittgenstein | Philosophical Investigations Wittgenstein | MISSING |
-| wrk-kuhn-structure-revolutions | The Structure of Scientific Revolutions | MISSING |
-| wrk-two-dogmas | Two Dogmas of Empiricism (1951) | MISSING |
-| wrk-the-social-contract-rousseau | The Social Contract Rousseau | MISSING |
-| wrk-on-liberty-mill | On Liberty by John Stuart Mill | MISSING |
-| wrk-the-prince-machiavelli | The Prince by Niccolò Machiavelli | MISSING |
-| wrk-daodejing | Dao De Jing (Tao Te Ching) | MISSING |
-| wrk-lunyu | The Analects (Lunyu) | MISSING |
-| wrk-tahafut-al-falasifa-ghazali | The Incoherence of the Philosophers (Tahafut al-Falasifa) | MISSING |
-| wrk-al-shifa-avicenna | Al Shifa Avicenna | MISSING |
-| wrk-summa-theologiae-aquinas | Summa Theologiae by Thomas Aquinas | MISSING |
-| wrk-on-the-genealogy-of-morals-nietzsche | On The Genealogy Of Morals Nietzsche | MISSING |
-| wrk-philosophy-mirror-nature | Philosophy and the Mirror of Nature (1979) | MISSING |
-| wrk-monadology-leibniz | Monadology Leibniz | MISSING |
-| wrk-consolation-philosophy | The Consolation of Philosophy (Boethius, 524) | MISSING |
-| wrk-an-inquiry-into-the-good-nishida | An Inquiry Into The Good Nishida | MISSING |
-| wrk-hikmat-al-ishraq-suhrawardi | The Philosophy of Illumination (Hikmat al-Ishraq) | MISSING |
-| wrk-fusus-al-hikam-ibn-arabi | Fusus Al Hikam Ibn Arabi | MISSING |
-| wrk-al-muqaddimah-ibn-khaldun | Al Muqaddimah Ibn Khaldun | MISSING |
+| wrk-republic-plato | The Republic of Plato (Politeia) | EN |
+| wrk-apology-plato | Plato's Apology of Socrates | EN |
+| wrk-nicomachean-ethics | Nicomachean Ethics | EN |
+| wrk-metaphysics-aristotle | Metaphysics Aristotle | EN |
+| wrk-meditations-on-first-philosophy-descartes | Meditations on First Philosophy (Descartes) | EN |
+| wrk-critique-of-pure-reason-kant | Critique of Pure Reason (Kritik der reinen Vernunft) | EN |
+| wrk-critique-of-practical-reason-kant | Critique Of Practical Reason Kant | EN |
+| wrk-spinoza-ethics | Ethics, Demonstrated in Geometrical Order by Baruch Spinoza | EN |
+| wrk-hegel-phenomenology-spirit | Phenomenology of Spirit (Phänomenologie des Geistes) by G.W.F. Hegel | EN |
+| wrk-tractatus | Tractatus Logico-Philosophicus (1921) | EN |
+| wrk-philosophical-investigations-wittgenstein | Philosophical Investigations Wittgenstein | EN |
+| wrk-kuhn-structure-revolutions | The Structure of Scientific Revolutions | EN |
+| wrk-two-dogmas | Two Dogmas of Empiricism (1951) | EN |
+| wrk-the-social-contract-rousseau | The Social Contract by Jean-Jacques Rousseau | EN |
+| wrk-on-liberty-mill | On Liberty by John Stuart Mill | EN |
+| wrk-the-prince-machiavelli | The Prince by Niccolò Machiavelli | EN |
+| wrk-daodejing | Dao De Jing (Tao Te Ching) | EN |
+| wrk-lunyu | The Analects (Lunyu) | EN |
+| wrk-tahafut-al-falasifa-ghazali | The Incoherence of the Philosophers (Tahafut al-Falasifa) | EN |
+| wrk-al-shifa-avicenna | The Book of Healing (al-Shifa') by Avicenna | EN |
+| wrk-summa-theologiae-aquinas | Summa Theologiae by Thomas Aquinas | EN |
+| wrk-on-the-genealogy-of-morals-nietzsche | On The Genealogy Of Morals Nietzsche | EN |
+| wrk-philosophy-mirror-nature | Philosophy and the Mirror of Nature (1979) | EN |
+| wrk-monadology-leibniz | The Monadology by Gottfried Wilhelm Leibniz | EN |
+| wrk-consolation-philosophy | The Consolation of Philosophy (Boethius, 524) | EN |
+| wrk-an-inquiry-into-the-good-nishida | An Inquiry into the Good by Kitarō Nishida | EN |
+| wrk-hikmat-al-ishraq-suhrawardi | The Philosophy of Illumination (Hikmat al-Ishraq) | EN |
+| wrk-fusus-al-hikam-ibn-arabi | Fusus Al Hikam Ibn Arabi | EN |
+| wrk-al-muqaddimah-ibn-khaldun | The Muqaddimah of Ibn Khaldun on the Science of Human Civilization | EN |
 
 ## debates
 
 | slug | title | status |
 |---|---|---|
-| dbt-mind-body-dualism-vs-physicalism | Mind-Body Problem: Dualism vs. Physicalism Debate | MISSING |
-| dbt-free-will-vs-determinism | Free Will vs. Determinism Debate | MISSING |
-| dbt-realism-vs-nominalism | Realism vs. Nominalism: Universals — Real or Just Names? | MISSING |
-| dbt-advaita-vs-dvaita | Advaita vs. Dvaita Vedanta: Is the World Illusion or Reality? | MISSING |
-| dbt-thomism-vs-scotism | Thomism vs. Scotism: Intellect vs. Will | MISSING |
-| dbt-qadar-free-will-in-kalam | Qadar Free Will In Kalam | MISSING |
-| dbt-extended-mind-clark-chalmers | The Extended Mind Thesis: Does Cognition Extend Beyond the Skin? | MISSING |
-| dbt-liberalism-vs-communitarianism | Liberalism vs. Communitarianism | MISSING |
-| dbt-rawls-nozick-justice | Rawls vs. Nozick: Justice as Fairness vs. Entitlement Theory | MISSING |
-| dbt-human-nature-debate | Human Nature Debate: Mencius's Goodness vs. Xunzi's Badness | MISSING |
+| dbt-mind-body-dualism-vs-physicalism | Mind-Body Problem: Dualism vs. Physicalism Debate | EN |
+| dbt-free-will-vs-determinism | Free Will vs. Determinism Debate | EN |
+| dbt-realism-vs-nominalism | Realism vs. Nominalism: Universals — Real or Just Names? | EN |
+| dbt-advaita-vs-dvaita | Advaita vs. Dvaita Vedanta: Is the World Illusion or Reality? | EN |
+| dbt-thomism-vs-scotism | Thomism vs. Scotism: Intellect vs. Will | EN |
+| dbt-qadar-free-will-in-kalam | Qadar Free Will In Kalam | EN |
+| dbt-extended-mind-clark-chalmers | The Extended Mind Thesis: Does Cognition Extend Beyond the Skin? | EN |
+| dbt-liberalism-vs-communitarianism | Liberalism vs. Communitarianism | EN |
+| dbt-rawls-nozick-justice | Rawls vs. Nozick: Justice as Fairness vs. Entitlement Theory | EN |
+| dbt-human-nature-debate | Human Nature Debate: Mencius's Goodness vs. Xunzi's Badness | EN |
 
 ## new-authored
 
 | slug | title | status |
 |---|---|---|
-| fld-philosophy | Philosophy | MISSING |
-| fld-logic | Logic | MISSING |
-| fld-epistemology | Epistemology | MISSING |
-| fld-metaphysics | Metaphysics | MISSING |
-| fld-philosophy-of-mind | Philosophy of Mind | MISSING |
-| fld-philosophy-of-language | Philosophy of Language | MISSING |
-| fld-philosophy-of-science | Philosophy of Science | MISSING |
-| fld-political-philosophy | Political Philosophy | MISSING |
-| fld-aesthetics | Aesthetics | MISSING |
-| fld-ethics-overview | Ethics (Overview) | MISSING |
+| fld-philosophy | Philosophy | EN |
+| fld-logic | Logic | EN |
+| fld-epistemology | Epistemology | EN |
+| fld-metaphysics | Metaphysics | EN |
+| fld-philosophy-of-mind | Philosophy of Mind | EN |
+| fld-philosophy-of-language | Philosophy of Language | EN |
+| fld-philosophy-of-science | Philosophy of Science | EN |
+| fld-political-philosophy | Political Philosophy | EN |
+| fld-aesthetics | Aesthetics | EN |
+| fld-ethics-overview | Ethics (Overview) | EN |
 
 Total scope entries: 249

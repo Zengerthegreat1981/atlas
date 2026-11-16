@@ -58,3 +58,28 @@ Measured on the working tree used for this pass (936 EN files; differs from the 
 - Source verification of all claims, licensing, screen-reader and full keyboard audit, performance on release data.
 - Edge targets are still names (e.g. "Anthropology", 313 edges), not canonical slugs; module root nodes don't exist yet.
 - `data_extras-en.json` not created (Arabic view data is unused by the EN pages I exercised).
+
+---
+# Pass 3 (2026-11-15/16) — Psychology and Philosophy v1
+
+Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` (closed v1 lists; anything else is backlog).
+
+## Psychology (309 EN entries)
+- 204 entries translated from AR assets with the same ids/slugs, 11 authored (module root `fld-psychology`, methods,
+  intelligence, memory systems, learning theories, replication crisis, ...), 29 thin stubs expanded, 4 overlapping
+  concept pairs retitled/cross-linked.
+- All 309 passed a fact-check/clean-up pass; ~250 corrections are logged in `reports/scope/corrections.txt`
+  (the Arabic drafts contained many errors: wrong codes, invented people/studies, misattributions).
+## Philosophy (325 EN entries)
+- 239 translated from AR assets (same ids/slugs), 10 branch introductions authored (`fld-philosophy` root + 9 fields),
+  6 empty-source thinker stubs (Socrates, Aristotle, Buddha, Confucius, Zhuangzi, Naess) written properly,
+  then every entry fact-checked; garbled/invented names in the Arabic drafts were removed or corrected.
+- Reading paths added to both module roots; module pages link to them.
+
+## Caveats (important)
+- All content is machine-assisted and checked from model knowledge without web access. `review-candidate` is NOT
+  "reviewed": a human subject-matter pass is still needed, especially for clinical entries (disorders, instruments,
+  techniques; DSM-5-TR/ICD-11 codes) and for bibliographic details (editions, translators, Arabic translations).
+- ~310 files carry disclosed "not yet covered" gaps (informational). `thk-habermas`: unverifiable death claim removed.
+- Related links to targets outside the closed scope were removed (see `reports/en-related-decisions.csv` for the last run).
+- Scope matrix numbers: psychology 309, philosophy 325 vs AR inventories of 3,522 / 2,846 (inventory, not target).

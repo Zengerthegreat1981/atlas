@@ -21,7 +21,7 @@ Does existential therapy have a spiritual dimension, or does admitting one betra
 
 ## The case for opening
 
-Viktor Frankl gives the human being a spiritual dimension of its own, one that does not fall ill and cannot be reduced to the psychological and the bodily. This is the core of his break with Freud, and the foundation of the meaning-centred school he built after his experience in the Nazi concentration camps, set out in *Man's Search for Meaning* (1946). For Frankl, the spiritual dimension is where freedom, responsibility, and the search for meaning live; to ignore it is to amputate the person.
+Viktor Frankl gives the human being a spiritual dimension of its own, one that does not fall ill and cannot be reduced to the psychological and the bodily. This is the core of his break with Freud, and the foundation of the meaning-centred school he built after his experience in the Nazi concentration camps, set out in *Man's Search for Meaning* (German original 1946). For Frankl, the spiritual dimension is where freedom, responsibility, and the search for meaning live; to ignore it is to amputate the person.
 
 Emmy van Deurzen reaches a similar place from a different direction: her four dimensions of existence include a fourth, spiritual dimension — values, belief, and larger meaning — alongside the physical, social, and personal. Both hold that ignoring this dimension cuts something essential out of the human being, and that a therapy which cannot speak of values and ultimate meaning cannot speak of the things that actually bring people to therapy.
 
@@ -43,7 +43,7 @@ The school arose in a secular context where the question was optional, and it is
 
 ## What has not yet been written
 
-As far as we know, there is no sufficient systematic work on how existential therapy is practised inside a living religious framework rather than as a cultural background. That is a gap an Arab researcher could fill — by describing what actually happens when therapist and client share a religious world and work existentially within it, and what changes when they do not share it.
+There is no sufficient systematic work on how existential therapy is practised inside a living religious framework rather than as a cultural background. That is a gap an Arab researcher could fill — by describing what actually happens when therapist and client share a religious world and work existentially within it, and what changes when they do not share it.
 
 ## What follows in practice
 
@@ -55,8 +55,8 @@ In the Arab context in particular, this dispute is the most practically urgent o
 
 ## Sources
 
-- Frankl, V. E. (1946). *Man's Search for Meaning*. Beacon Press. (German original: *Ein Psychologe erlebt das Konzentrationslager*, 1946.)
-- van Deurzen, E. (1988). *Existential Counselling & Psychotherapy in Practice*. Sage. (3rd ed., 2012.)
+- Frankl, V. E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, Beacon Press, 1959 in its first English edition.)
+- van Deurzen, E. (1988). *Existential Counselling in Practice*. Sage. (3rd ed. as *Existential Counselling & Psychotherapy in Practice*, 2012.)
 - Tillich, P. (1952). *The Courage to Be*. Yale University Press.
 - Sartre, J.-P. (1943). *Being and Nothingness*. (English translation by Hazel E. Barnes, 1956.)
 - Frankl, V. E. (1955). *The Doctor and the Soul: From Psychotherapy to Logotherapy*. Knopf. (German original: *Ärztliche Seelsorge*, 1946.)

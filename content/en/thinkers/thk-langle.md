@@ -16,29 +16,34 @@ related:
   - id: "thk-frankl", title: "Frankl", type: "مفكر"
   - id: "thk-lukas", title: "Elisabeth Lukas", type: "مفكر"
 gaps:
-  - "Details of his works and of the split, with sources — need to be investigated"
+  - "Sources documenting the details of the split with Frankl's circle: not yet covered"
 ---
 
 # Alfried Längle
 
-One of Frankl's closest students, and the one behind the clearest institutional split in the history of the school.
+Alfried Längle is an Austrian physician and psychologist, one of Viktor Frankl's students, and the figure behind the clearest institutional split in the history of the logotherapeutic school. He founded the Society for Logotherapy and Existential Analysis (GLE) in Vienna and developed what he calls existential analysis as a distinct, more clinically elaborated approach.
 
 ## What He Added
 
-A system of fundamental existential motivations that precede the question of meaning and are its condition: that one can be in the world, that one can love one's life, and that one can find for oneself a right to be oneself — and then meaning comes.
+A theory of four **fundamental motivations** of human existence. Three of them precede the question of meaning and are its condition: whether one can be in the world (with space, protection and support); whether one can love one's life and value it; and whether one may be oneself and feel a right to be oneself. Only then does the fourth come: what one's life is for, that is, meaning. He also developed a structured conversational method known as Personal Existential Analysis.
 
 ## Why This Matters
 
-Because it solves a real practical problem: that the question "What is the meaning of your life?" does not work with someone who does not find themselves able to exist at all.
+It addresses a practical problem: the question "What is the meaning of your life?" does not work with someone who does not find themselves able to exist at all. In this reading meaning is the last of the existential questions, not the first.
 
 ## The Separation
 
-The dispute ended in a complete organisational separation in the 1990s, and as a result "logotherapy" and "existential analysis" are today two different institutions.
+Längle's work diverged from Frankl's own circle, and the disagreement ended in an organisational separation, so that "logotherapy" and "existential analysis" are today carried by different institutions. Accounts of the details differ between the two sides, and this entry does not adjudicate them.
 
 ## His Position
 
-The most clinically developed of the meaning currents, and the least known in Arabic.
+Among the meaning-centred approaches, one of the most clinically developed. His work is widely used in German-speaking countries and in the international network of existential analysis societies.
 
-## His Most Important Works
+## His Works
 
-Living Life with Meaning: Applied Existential Analysis (Sinnvoll leben: Angewandte Existenzanalyse, 1988) · Viktor Frankl: A Portrait (Viktor Frankl: Ein Porträt, 1998) · A Textbook of Existential Analysis: Foundations (Lehrbuch zur Existenzanalyse: Grundlagen, German; English translation 2013)
+*Viktor Frankl: Ein Porträt* (1998), a biography of his teacher, and *Lehrbuch zur Existenzanalyse: Grundlagen*, a textbook presentation of the theory. He has also written extensively on the fundamental motivations and on applied existential analysis.
+
+## Sources
+
+- Längle, Alfried. *Viktor Frankl: Ein Porträt*. Munich: Piper, 1998.
+- Längle, Alfried. *Lehrbuch zur Existenzanalyse: Grundlagen*. Vienna: Facultas.

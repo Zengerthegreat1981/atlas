@@ -15,21 +15,21 @@ edges:
 related:
   - id: "ctx-arabic-self", title: "The Self in Arabic-Islamic Intellectual Heritage", type: "سياق/تقليد"
 gaps:
-  - "لم يُراجع بعد النص الأصلي لإحياء علوم الدين من مصدر محقق مباشر ضمن مكتبة هذا المشروع"
-  - "لا يوجد بعد ربط دقيق مع مفاهيم con- المحددة (كـcon-fear أو con-shame-guilt)"
+  - "Direct review of a critical edition of the Ihya' against the secondary literature: not yet covered."
+  - "Detailed links to specific Atlas concepts (fear, shame and guilt): not yet covered."
 ---
 
 # Al-Ghazali and Ihya' Ulum al-Din
 
-Abu Hamid Muhammad ibn Muhammad al-Ghazali (1058–1111) composed the Ihya' Ulum al-Din (The Revival of the Religious Sciences) after the spiritual crisis of 1095, when he abandoned his teaching post at the Nizamiyya school in Baghdad and set out on years of wandering through Damascus, Jerusalem, and the Hijaz before returning to Tus. The work runs to forty books in four quarters — worship, customs, the deadly vices, and the saving virtues — and the last two quarters, on the diseases of the heart and their cure, are the richest source in the Arab-Islamic tradition for the understanding of the soul and the emotions. Al-Ghazali's classification of the emotions is a legal-psychological taxonomy of a precision that few modern literatures match, and it is one of the founding texts of the Arab-Islamic understanding of the self.
+Abu Hamid Muhammad ibn Muhammad al-Ghazali (1058–1111) composed the Ihya' Ulum al-Din (The Revival of the Religious Sciences) after the spiritual crisis of 1095, when he abandoned his teaching post at the Nizamiyya school in Baghdad and set out on years of wandering through Damascus, Jerusalem, and the Hijaz before returning to Tus. The work runs to forty books in four quarters — worship, customs, the deadly vices, and the saving virtues — and the last two quarters, on the diseases of the heart and their cure, are the richest source in the Arab-Islamic tradition for the understanding of the soul and the emotions. Al-Ghazali's treatment of the emotions is a detailed moral-psychological analysis, and the Ihya' is one of the most influential texts of the Arab-Islamic understanding of the self.
 
 ## The context
 
-Al-Ghazali wrote at the height of Seljuk power, as the leading theologian of his generation, and his crisis was both personal and intellectual: having mastered philosophy, theology, and law, he found that knowledge alone did not transform the soul, and he turned to Sufism and the disciplined life. The Ihya' is the fruit of that turn — an attempt to revive the religious sciences by grounding them in the inward life rather than in legal formalism alone. It synthesises the ethical psychology of the philosophers, notably Avicenna, whose doctrines al-Ghazali had attacked in The Incoherence of the Philosophers (1095), with the practical discipline of the Sufi tradition. The result is a work that is at once a legal manual, a moral psychology, and a spiritual guide.
+Al-Ghazali wrote at the height of Seljuk power, as the leading theologian of his generation, and his crisis was both personal and intellectual: having mastered philosophy, theology, and law, he found that knowledge alone did not transform the soul, and he turned to Sufism and the disciplined life. The Ihya' is the fruit of that turn — an attempt to revive the religious sciences by grounding them in the inward life rather than in legal formalism alone. It synthesises the ethical psychology of the philosophers, notably Avicenna, whose doctrines al-Ghazali had attacked in The Incoherence of the Philosophers (c. 1095), with the practical discipline of the Sufi tradition. The result is a work that is at once a legal manual, a moral psychology, and a spiritual guide.
 
 ## The structure of the heart and the soul
 
-Al-Ghazali opens the quarter on the deadly vices with the Book of the Wonders of the Heart, in which he distinguishes four senses of the words heart, spirit, soul, and intellect — each with a bodily and a spiritual meaning. For the soul (nafs) he uses the Qur'anic ranks: the soul that commands evil (al-ammara bi'l-su'), the self-reproaching soul (al-lawwama), and the soul at peace (al-mutma'inna). These are moral-spiritual states describing a person's condition toward their appetites, not independent divisions of the soul.
+Al-Ghazali opens the quarter on the deadly vices with the Book of the Wonders of the Heart, in which he distinguishes the senses of the words heart, spirit, soul, and intellect, each of which can refer either to a bodily or to a spiritual reality. For the soul (nafs) he uses the Qur'anic ranks: the soul that commands evil (al-ammara bi'l-su'), the self-reproaching soul (al-lawwama), and the soul at peace (al-mutma'inna). These are moral-spiritual states describing a person's condition toward their appetites, not independent divisions of the soul.
 
 ## The Book of Condemnation of Anger
 
@@ -37,7 +37,7 @@ Al-Ghazali treats anger as a psychic power with a proper function: repelling har
 
 ## The Book of Fear and Hope
 
-In the Book of Fear and Hope, al-Ghazali presents fear and hope as the two wings of the traveller on the spiritual path. He distinguishes fear that motivates action from fear that breeds despair and paralysis, and he compares hope to one who sows seed in good soil and waits for the crop — if one abandons work and merely waits, that is not hope but delusion (ghurur). The classification of degrees of fear and their distinct functions is finer than much of the modern literature on anxiety, and William McKane's English translation of the book (1962) made it accessible to Western readers. The treatment of fear here is the natural point of contact with this Atlas's concepts of fear and anxiety, but the contact must be handled with care: al-Ghazali's fear is a spiritual state oriented toward the afterlife, not a clinical symptom.
+In the Book of Fear and Hope, al-Ghazali presents fear and hope as the two wings of the traveller on the spiritual path. He distinguishes fear that motivates action from fear that breeds despair and paralysis, and he compares hope to one who sows seed in good soil and waits for the crop — if one abandons work and merely waits, that is not hope but delusion (ghurur). William McKane's English translation of the book (1962) made it accessible to Western readers. The treatment of fear here is the natural point of contact with this Atlas's concepts of fear and anxiety, but the contact must be handled with care: al-Ghazali's fear is a spiritual state oriented toward the afterlife, not a clinical symptom.
 
 ## The method of purification
 

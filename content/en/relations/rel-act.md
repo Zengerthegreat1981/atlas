@@ -24,7 +24,7 @@ The overlap runs through the whole therapeutic stance. First, acceptance instead
 
 ## The Divergence
 
-Yet the philosophical bases could hardly be further apart. ACT rests on functional contextualism, a philosophy of science developed by Hayes from the behaviour analysis of B. F. Skinner, and on Relational Frame Theory (RFT) — set out by Hayes, Dermot Barnes-Holmes, and Bryan Roche in *Relational Frame Theory* (2001) — which explains how language itself becomes a source of suffering, as thoughts are fused with and taken literally. The existential school rests on phenomenology — the description of lived experience as it presents itself, in the tradition of Heidegger and Sartre — deliberately avoiding operational definitions. The second divergence is methodological. Measurement, standardisation, and experimentation are at the core of ACT: protocols, questionnaires, and randomised trials are how the therapy knows itself and improves. In existential therapy they are marginal; the encounter and its interpretation carry the weight. A meta-analysis by A-Tjak and colleagues (2015) found good efficacy for ACT in anxiety and depression across many studies — evidence of a kind and scale existential therapy has not produced. The two schools agree on much of what a therapist should do, while disagreeing on why it works, on what a human being is, and on how one knows it works.
+Yet the philosophical bases could hardly be further apart. ACT rests on functional contextualism, a philosophy of science developed by Hayes from the behaviour analysis of B. F. Skinner, and on Relational Frame Theory (RFT) — set out by Hayes, Dermot Barnes-Holmes, and Bryan Roche in *Relational Frame Theory* (2001) — which explains how language itself becomes a source of suffering, as thoughts are fused with and taken literally. The existential school rests on phenomenology — the description of lived experience as it presents itself, in the tradition of Heidegger and Sartre — deliberately avoiding operational definitions. The second divergence is methodological. Measurement, standardisation, and experimentation are at the core of ACT: protocols, questionnaires, and randomised trials are how the therapy knows itself and improves. In existential therapy they are marginal; the encounter and its interpretation carry the weight. A meta-analysis by A-Tjak and colleagues (2015) found ACT more effective than control conditions across a wide range of clinical problems, and broadly comparable to established treatments such as CBT — evidence of a kind and scale existential therapy has not produced. The two schools agree on much of what a therapist should do, while disagreeing on why it works, on what a human being is, and on how one knows it works.
 
 ## Why It Is Embarrassing
 
@@ -40,9 +40,9 @@ But there is also a genuine opportunity. The third wave needs what existential t
 
 ## Sources
 
-- Viktor E. Frankl, *Ein Psychologe erlebt das Konzentrationslager* (1946).
+- Viktor E. Frankl, *Ein Psycholog erlebt das Konzentrationslager* (1946).
 - Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson, *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change* (Guilford Press, 1999).
-- Steven C. Hayes, Dermot Barnes-Holmes, and Bryan Roche, *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition* (2001).
+- Steven C. Hayes, Dermot Barnes-Holmes, and Bryan Roche, *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition* (Kluwer/Plenum, 2001).
 - Steven C. Hayes, Jason B. Luoma, Frank W. Bond, Akihiko Masuda, and Jason Lillis, "Acceptance and Commitment Therapy: Model, Processes and Outcomes," *Behaviour Research and Therapy* 44(1) (2006).
 - Irvin D. Yalom, *Existential Psychotherapy* (New York: Basic Books, 1980).
 - Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson, *Acceptance and Commitment Therapy: The Process and Practice of Mindful Change*, 2nd edition (Guilford Press, 2012).

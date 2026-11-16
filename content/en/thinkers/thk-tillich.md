@@ -7,26 +7,23 @@ level: "متوسط"
 title: "Paul Tillich"
 en: "Paul Tillich"
 crumb: "Existential Theology ← People ← Paul Tillich"
-dates: "Germany/America · 1886–1965 (needs direct verification)"
+dates: "Germany/America · 1886–1965"
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
   - id: "thk-may", title: "Rollo May", type: "مفكر"
   - id: "con-anxiety", title: "Anxiety", type: "مفهوم"
-gaps:
-  - "لم يُراجع كتابه الأساسي (The Courage to Be, 1952) من نسخة أصلية بعد — الاقتباسات هنا وصفية لا حرفية، بانتظار تحقق مباشر حسب سياسة المصادر في القسم 5 من دليل المنهجية."
-  - "تاريخ الميلاد/الوفاة غير محقق مباشرة من مصدر أولي."
-  - "لا يوجد بعد عنصر wrk- مستقل لكتاب The Courage to Be نفسه."
+gaps: []
 ---
 
 # Paul Tillich
 
-Paul Tillich (1886–1965) was a German-American theologian and existential philosopher, and one of the four traditional pillars of the philosophical approach to anxiety in this Atlas, alongside Kierkegaard, Heidegger and Rollo May. He was among the most prominent Protestant theologians to bring theology into sustained dialogue with philosophy, psychology and art, and his analysis of anxiety and courage passed directly into existential psychotherapy through his friendship with Rollo May.
+Paul Tillich (1886–1965) was a German-American theologian and existential philosopher, and a leading figure in the philosophical treatment of anxiety, alongside Kierkegaard and Heidegger. He was among the most prominent Protestant theologians to bring theology into sustained dialogue with philosophy, psychology and art, and his analysis of anxiety and courage passed directly into existential psychotherapy through his friendship with Rollo May.
 
 ## Life and Career
 
-Tillich was born on 20 August 1886 in the village of Starzeddel in Brandenburg, Prussia, the son of a Lutheran pastor. He studied theology and philosophy at Berlin, Tübingen and Halle, and took his doctorate in philosophy in 1910 with a dissertation on Schelling. He served as an army chaplain in the First World War, and the experience of mass death at the front marked him permanently. He taught at Berlin, Marburg and Dresden, and in 1929 became professor of philosophy at Frankfurt. In 1933 he was dismissed from his post after the Nazis came to power, because of his early public criticism of the regime. At the invitation of Reinhold Niebuhr he emigrated to the United States and joined Union Theological Seminary in New York, where he remained for many years. In 1955 he moved to Harvard University, and in 1962 to the University of Chicago, where he died on 22 October 1965.
+Tillich was born on 20 August 1886 in the village of Starzeddel in Brandenburg, Prussia, the son of a Lutheran pastor. He studied theology and philosophy at Berlin, Tübingen and Halle, and took his doctorate in philosophy at Breslau in 1910 with a dissertation on Schelling. He served as an army chaplain in the First World War, and the experience of mass death at the front marked him permanently. He taught at Berlin, Marburg and Dresden, and in 1929 became professor of philosophy at Frankfurt. In 1933 he was dismissed from his post after the Nazis came to power, because of his early public criticism of the regime. At the invitation of Reinhold Niebuhr he emigrated to the United States and joined Union Theological Seminary in New York, where he remained for many years. In 1955 he moved to Harvard University, and in 1962 to the University of Chicago, where he died on 22 October 1965.
 
 ## Key Works
 
@@ -44,7 +41,7 @@ In *Systematic Theology* Tillich developed his "method of correlation": the ques
 
 ## Direct Influence on Rollo May
 
-This is the practically most important link in Tillich's story. Tillich and Rollo May met in New York when May was a student at Union Theological Seminary, and they remained friends for life. May drew directly on Tillich's distinction between normal anxiety, which belongs to existence, and neurotic anxiety, which prevents a person from facing their possibilities, in his book *The Meaning of Anxiety*, first published in 1950 and revised in 1977. May also wrote about their friendship in *Paulus: Reminiscences of a Friendship* (1973). Through this route Tillich's ideas entered existential psychotherapy and the dialogue between theology and psychoanalysis, and they remain the clearest bridge between the two fields in the Atlas.
+This is the practically most important link in Tillich's story. Tillich and Rollo May met in New York when May was a student at Union Theological Seminary, and they remained friends for life. May drew directly on Tillich's distinction between normal anxiety, which belongs to existence, and neurotic anxiety, which prevents a person from facing their possibilities, in his book *The Meaning of Anxiety*, first published in 1950 and revised in 1977. May also wrote about their friendship in *Paulus: Reminiscences of a Friendship* (1973). Through this route Tillich's ideas entered existential psychotherapy and the dialogue between theology and psychoanalysis, and they remain one of the clearest bridges between the two fields.
 
 ## Influence and Critique
 

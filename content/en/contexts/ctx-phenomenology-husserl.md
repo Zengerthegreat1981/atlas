@@ -14,8 +14,7 @@ edges:
   - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "tec-cognitive-reappraisal", title: "Cognitive Reappraisal", type: "تقنية/تدخل علاجي"
-gaps:
-  - "لا يوجد بعد عنصر thk- مستقل لهوسرل نفسه رغم أهميته التأسيسية القصوى لهذا السياق"
+gaps: []
 ---
 
 # Husserlian Phenomenology
@@ -24,7 +23,7 @@ Phenomenology is the philosophical method on which Heidegger, and after him many
 
 ## The context
 
-Husserl was a mathematician by training who turned to philosophy under the influence of Franz Brentano, whose doctrine of intentionality — that consciousness is always consciousness of something — became phenomenology's starting point. Against the psychologism of his day, which reduced logic to mental processes, Husserl argued in the Logical Investigations that the structures of meaning are ideal and can be described with rigour. From 1900 onward, in Göttingen and then Freiburg, he gathered a circle of students — among them Heidegger, Edith Stein, and Max Scheler — and founded a movement that would split, in his own lifetime, between his transcendental phenomenology and the existential phenomenology of his students. His later work, including the Cartesian Meditations (1931) and The Crisis of European Sciences (1936), extended the method to history, the lifeworld, and the foundations of science itself.
+Husserl was a mathematician by training who turned to philosophy under the influence of Franz Brentano, whose doctrine of intentionality — that consciousness is always consciousness of something — became phenomenology's starting point. Against the psychologism of his day, which reduced logic to mental processes, Husserl argued in the Logical Investigations that the structures of meaning are ideal and can be described with rigour. From 1900 onward, in Göttingen and then Freiburg, he gathered a circle of students — among them Heidegger, Edith Stein, and Roman Ingarden — and founded a movement that would split, in his own lifetime, between his transcendental phenomenology and the existential phenomenology of his students. His later work, including the Cartesian Meditations (1931) and The Crisis of European Sciences (1936), extended the method to history, the lifeworld, and the foundations of science itself.
 
 ## The epoché
 
@@ -36,7 +35,7 @@ Three ideas carry the method. Intentionality: every act of consciousness is dire
 
 ## Key figures
 
-Husserl stands at the centre, but the context is defined by his heirs and their departures. Martin Heidegger, his assistant at Freiburg and his successor to the chair in 1928, turned the question from the epistemological — how do we know? — to the ontological — what is the meaning of Being? — and in Being and Time (1927) explicitly rejected Husserl's reductive devices as unnecessary methodological tricks, while dedicating the book to Husserl "in friendship and admiration" in its first edition, a dedication he removed from later editions after joining the Nazi Party in 1933. Jean-Paul Sartre and Maurice Merleau-Ponty carried phenomenology into French existentialism and the philosophy of the embodied subject. On this Husserlian-Heideggerian foundation, Ludwig Binswanger and Medard Boss built Daseinsanalyse, the existential analysis that seeks to understand the psychiatric patient from within the structure of their being-in-the-world rather than reducing them to symptoms or causal mechanisms.
+Husserl stands at the centre, but the context is defined by his heirs and their departures. Martin Heidegger, his assistant at Freiburg and his successor to the chair in 1928, turned the question from the epistemological — how do we know? — to the ontological — what is the meaning of Being? — and in Being and Time (1927) recast phenomenology as a hermeneutic analysis of Dasein without adopting Husserl's transcendental reduction. He dedicated the book to Husserl "in friendship and admiration", a dedication that was omitted from the 1941 edition, after Heidegger had joined the Nazi Party in 1933 and while Husserl, who was of Jewish descent, had been excluded from the university. Jean-Paul Sartre and Maurice Merleau-Ponty carried phenomenology into French existentialism and the philosophy of the embodied subject. On this Husserlian-Heideggerian foundation, Ludwig Binswanger and Medard Boss built Daseinsanalyse, the existential analysis that seeks to understand the psychiatric patient from within the structure of their being-in-the-world rather than reducing them to symptoms or causal mechanisms.
 
 ## Influence
 

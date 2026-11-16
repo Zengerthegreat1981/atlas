@@ -14,9 +14,7 @@ edges:
 related:
   - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
   - id: "dbt-meaning-found", title: "Discovered or Created?", type: "جدل"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # Man's Search for Meaning: The Will to Meaning in the Camps
@@ -33,11 +31,11 @@ Frankl was arrested with his family in 1942 and deported to Theresienstadt, then
 
 ## Title and Publication History
 
-The German first edition appeared in 1946 in Vienna with Verlag für Jugend und Volk. The phrase "saying yes to life in spite of everything" was the title of lectures Frankl gave in Vienna that same year and became the subtitle of later German editions. The English translation by Ilse Lasch appeared in 1959 from Beacon Press as *From Death-Camp to Existentialism*, with an introduction by Gordon Allport; the next edition changed the title to *Man's Search for Meaning*, the title under which the world came to know it — a change that recast the book from a testimony of endurance into a general theoretical frame. It was translated into Arabic as *Al-Insan yabḥathu 'an ma'na* by Talaat Mansour, published by Dar al-Nahda al-Arabiyya in Cairo, a translation made, apparently, from the English rather than the German, whose accuracy against the original has not been assessed.
+The German first edition appeared in 1946 in Vienna with Verlag für Jugend und Volk. The phrase "saying yes to life in spite of everything" was the title of lectures Frankl gave in Vienna that same year and became the subtitle of later German editions. The English translation by Ilse Lasch appeared in 1959 from Beacon Press as *From Death-Camp to Existentialism*, with a preface by Gordon Allport; the next edition changed the title to *Man's Search for Meaning*, the title under which the world came to know it — a change that recast the book from a testimony of endurance into a general theoretical frame.
 
 ## Reception and Criticism
 
-The book's global reach is enormous, and it has been counted among the most influential books its readers have encountered. Inside the existential tradition, however, its reception is divided. The objection is that "discovering" meaning presupposes that meaning already exists objectively, which other existential currents reject — the debate over whether meaning is found or made. Its popular use has also slipped into motivational discourse that betrays the text's precision, above all the reduction of it to the message that "suffering makes you stronger," a harsh reading of those who suffer that Frankl never stated in that form. Historically, Timothy Pytell's study of the book has examined how narrative can convert atrocity into meaning, and has raised questions about the reliability of memory in testimony written so soon after the events. The limits of the testimony itself must be stated plainly: it is the experience of one man with prior medical and philosophical training, and it cannot be generalised to all survivors, many of whom found no meaning in their suffering; material factors — luck, assignment to lighter work — were decisive in survival, which weakens any explanation of survival by meaning alone; and the clinical thesis in the second half is brief and offers no experimental evidence, the measures of meaning in life having come later, from other researchers.
+The book's global reach is enormous, and it has been counted among the most influential books its readers have encountered. Inside the existential tradition, however, its reception is divided. The objection is that "discovering" meaning presupposes that meaning already exists objectively, which other existential currents reject — the debate over whether meaning is found or made. Its popular use has also slipped into motivational discourse that betrays the text's precision, above all the reduction of it to the message that "suffering makes you stronger," a harsh reading of those who suffer that Frankl never stated in that form. Historically, Timothy Pytell's study of the book has examined critically how the book's narrative converts atrocity into meaning. The limits of the testimony itself must be stated plainly: it is the experience of one man with prior medical and philosophical training, and it cannot be generalised to all survivors, many of whom found no meaning in their suffering; material factors — luck, assignment to lighter work — were decisive in survival, which weakens any explanation of survival by meaning alone; and the clinical thesis in the second half is brief and offers no experimental evidence, the measures of meaning in life having come later, from other researchers.
 
 ## Sources
 

@@ -1,12 +1,12 @@
 {
-  "total_files": 1121,
+  "total_files": 1370,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 761,
-    "declared-gaps": 259,
-    "short": 21,
+    "edge-target-by-name": 1040,
+    "declared-gaps": 312,
     "placeholder": 3,
+    "short": 11,
     "duplicate-id-groups": 0
   },
   "flag_examples": {
@@ -32,20 +32,24 @@
       "br-classical-psychoanalysis",
       "br-sociology-of-art",
       "con-agency-anthropology",
+      "con-ahimsa",
       "con-alienation",
+      "con-anamnesis-recollection",
+      "con-anatta-non-self-concept",
       "con-anomie",
       "con-anxiety-existential",
       "con-anxiety",
+      "con-ataraxia",
       "con-attention",
       "con-authenticity",
-      "con-authority",
-      "con-bias",
-      "con-bureaucracy",
-      "con-capital",
-      "con-case-study"
+      "con-authority"
+    ],
+    "placeholder": [
+      "con-division-labor",
+      "thk-abdalla-salem",
+      "thk-akira-fujii"
     ],
     "short": [
-      "con-being-toward-death",
       "con-division-labor",
       "con-social-movement",
       "stu-schoolyard-stories",
@@ -54,24 +58,16 @@
       "stu-the-second-shift-in-china",
       "thk-abdalla-salem",
       "thk-akira-fujii",
-      "thk-berdyaev",
-      "thk-cohn",
-      "thk-cooper",
-      "thk-dostoevsky",
-      "thk-lukas",
-      "thk-ming-ming-kuo"
-    ],
-    "placeholder": [
-      "con-division-labor",
-      "thk-abdalla-salem",
-      "thk-akira-fujii"
+      "thk-ming-ming-kuo",
+      "thk-sergio-carrasco",
+      "wrk-womans-evolution"
     ]
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 1100,
-    "draft-short": 18,
-    "placeholder": 3
+    "review-candidate": 1359,
+    "placeholder": 3,
+    "draft-short": 8
   },
   "by_module": {
     "anthropology": {
@@ -86,8 +82,7 @@
       "review-candidate": 87
     },
     "philosophy": {
-      "review-candidate": 66,
-      "draft-short": 10
+      "review-candidate": 325
     },
     "psychology": {
       "review-candidate": 309
@@ -98,8 +93,8 @@
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 1121,
-    "source nodes": 1121,
+    "data-en.json nodes": 1370,
+    "source nodes": 1370,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

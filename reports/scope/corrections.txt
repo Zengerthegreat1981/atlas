@@ -326,3 +326,347 @@ stu-festinger-cognitive-dissonance: sample corrected (71 male students, 60 analy
 stu-harlow-rhesus-monkeys: set sample_size to 8 infants (1958), softened "18 hours a day", "enactment of animal protection laws" and policy-change claims, documented later isolation experiments (gap removed), formatted sources
 stu-harvard-adult-development: removed "15 cigarettes" claim (Holt-Lunstad, not this study) and unsupported "wealth or fame" comparison, JFK made "reportedly", corrected main_finding, softened generalizability and "Second Harvard Study" claims, added Holt-Lunstad 2010; sources formatted; cleared gaps
 stu-himba-facial: removed unverifiable sample sizes (54/68), trip dates and Boston Museum of Science detail, softened which faces were grouped together and the characterization of the Sauter reply; Ekman gap removed (entry now exists)
+sch-augustinianism: AR said Rome fell "to the Alans (410)"; corrected to "to the Visigoths (410 CE)". AR gave Monica 322-387; corrected to c. 331-387.
+thk-suhrawardi: AR dated Hikmat al-Ishraq to 1191; corrected to 1186 (completed 582 AH). (Note: thk-zhuangzi source is an empty stub; part changed ethics->philosophy per instructions.)
+sch-aristotelianism: al-Farabi death year 972 -> 950 CE
+sch-ethnophilosophy: Mbiti's Swahili terms swapped in source (past=sasa, present=zamani) -> past=zamani, present=sasa
+wrk-lunyu: source said Analects became one of the 'Five Classics' in Han; it is not one of them -> reworded to 'studied beside the Five Classics'
+sch-stoicism|first name of Heidegger given as Martin (source said Pierre Heidegger)
+sch-renaissance-humanism|garbled names normalized: Pico della Mirandola (source: Bembo/Pimenta), Thomas More (source: Peter More), Flavio Biondo (source: Flavius Blessi); Plethon 'Gemistos'
+thk-fakhr-razi|source said al-Ghazali (d. 1111) criticized al-Razi (b. 1150); changed to 'later hadith scholars and Hanbalis'
+con-dao|DDJ 42 quote garbled in source ('carry the back and hold the yin'); rendered as standard 'carry yin on their backs and embrace yang'
+wrk-critique-of-practical-reason-kant|source reversed the ratio essendi/cognoscendi sentence (law as basis of knowing freedom, freedom as ground of the law); stated in standard form: freedom inferred as condition of law, freedom known through the law
+sch-epicureanism: "static pleasure" Greek term corrected from κατηγορηματική to katastematic (καταστηματική); Marx Epicurus critique attributed to his 1841 doctoral dissertation, not Poverty of Philosophy (1847) in the Historical Influence section
+thk-aquinas: Arabic "طبيب الكنيسة" (church physician) rendered as "Doctor of the Church" per the Latin Doctor Angelicus/Communis
+con-li: Lunyu passage reference corrected from 20.2 to 20.3 ("One who has not learned li has no place to stand")
+sch-pyrrhonism: Aenesidemus: Arabic 'Aksilus of Athens' corrected to 'Aenesidemus of Knossos'
+sch-leibnizianism: FLAG (left as written): Arabic says pre-established harmony inspired Hobbes Leviathan (1651), an anachronism
+dbt-advaita-vs-dvaita: Arabic said the debate 'precedes Plotinus, Nicholas of Cusa and Augustine'; Shankara (8th c.) postdates Plotinus and Augustine; changed to 'parallels'
+con-alienation-marx: Arabic attributes 'The Dialectic of Sex' (1970) jointly to Millett and Firestone; it is by Shulamith Firestone alone, so the English notes 'by Firestone'.
+sch-frankfurt-school: founder/patron of the Institute is Felix Weil (1898-1975), not "Philipp Gratz (1897-1984)"; corrected in both places
+sch-british-empiricism: Kant was awakened from his "dogmatic" slumber by Hume (source said "cynical")
+sch-lockeanism: Damaris Masham was Locke's close friend, not his second wife; changed 'second wife' to 'close friend'
+dbt-extended-mind-clark-chalmers: gaps said 'Robert Rowlands'; the author of The Body in Mind is Mark Rowlands (body already says Mark Rowlands; also 'Robert Robert (Rupert)' fixed to Robert Rupert)
+sch-patristics: 'المعنى الحرفي للكتاب المقدّس' was labelled De Civitate Dei (duplicate of City of God); corrected to De Genesi ad litteram
+con-monad: kinds of monads: Arabic gave 'bare monads = animals/insects, sleeping monads = plants/stones'; corrected per Leibniz (bare = plants/stones; sentient souls with memory = animals)
+sch-enlightenment|Arabic 'إمانول تيليش' (Emanuel Tillich) rendered as Paul Tillich
+thk-parmenides|Arabic said the narrator is on a 'donkey drawn by light of fire'; corrected to chariot drawn by mares
+sch-thomism: Aquinas joined the Dominicans c. 1244 (source said 1224, before his 1225 birth); changed to c. 1244
+thk-ibn-tufayl: source said Ibn Bajja's idea was influenced by Ibn Tufayl (garbled direction); corrected to Ibn Bajja's idea of the solitary's regime influenced Ibn Tufayl
+con-ahimsa: source said the Jain monk swallows a piece of cloth to filter water; corrected to using cloth to strain water
+sch-ockhamism: fixed garbled names (Marsilius of Inghen, Jean Buridan) to standard English
+thk-ibn-arabi: related sch-akbari title "school of Emperor Akbar the Mughal" corrected to "The Akbarian School" (Akbarian = of Ibn Arabi, al-Shaykh al-Akbar)
+thk-kant: "revised his position in his nineties" (Kant died at 79) corrected to "in the 1790s"
+con-hard-problem-of-consciousness: "as digestion produces the stomach" corrected to "as the stomach produces digestion" (Searle)
+wrk-fusus-al-hikam-ibn-arabi: related sch-akbari title "school of Emperor Akbar the Mughal" corrected to "The Akbarian School"
+axm-existence-precedes-essence: expanded with Sartre's lecture (1945/46), paper-knife, Heidegger's Letter on Humanism; added Sources; removed gap (dbt exists)
+br-daseins: removed unverifiable 2nd-ed 1975 and "pre-ontological inclusion" phrase; fixed Minkowski source (English 1970); gap cleared
+con-absolute-spirit-hegel: added Bern/Frankfurt background, noted thesis-antithesis-synthesis not Hegel's own term, removed unsupported Sufi claim, full title of Phenomenology; gaps cleared
+con-absurd: fixed Aronson (not Kaplan) 2004 for Camus and Sartre; Camus's label rejection dated 1945 vs break 1952; Kierkegaard/Jaspers/Shestov philosophical suicide; softened clinical claims
+con-ahimsa: rewrote; removed invented 'Peshhashana', Islam claim, Mahavira as founder (24th tirthankara); added Chandogya, Gita, Yoga Sutras 2.30, Ashoka; real sources; gap reworded
+con-alienation-marx: rewrote; fixed forms (species-being not 'from himself'), removed 'Han-Peter Muller', Lacan as anti-psychiatrist, Luxemburg colonialism, Becker, Popper alienation claim, Millett/Firestone; added objectification, Althusser, real sources; gaps cleared
+con-anamnesis-recollection: removed false tripartite-soul link (Republic), added Phaedrus, Pindar/priests, Aristotle refs, Avicenna/Suhrawardi softened; gaps meta lines removed
+con-anatta-non-self-concept: added Vacchagotta/interpretive dispute, 'illness' fixed; gap reworded
+con-asalat-al-wujud-primacy-of-existence: removed unsupported 'about 1610' date for Asfar; added Sartre comparison, gap cleared
+con-ataraxia: removed merge-note gaps, fixed Epicurean pleasure classification, tetrapharmakos source (Philodemus), Pyrrho dates, Beck/Ellis claim softened, ACT analogy, added Long&Sedley; stripped excess bold
+con-atman-brahman-vedanta: added Shankara dating note (traditional vs modern), Sirr-i Akbar 1657, anirvacaniya attributed to later Advaitins, softened Biruni/Ibn Arabi claims, removed duplicate section; gaps cleared
+con-autonomy-kantian: removed unsupported claims, added Fellow Creatures/Herman attribution, autonomy vs freedom sections, Groundwork source; gaps cleared
+con-being-toward-death: expanded (Being and Time ss.46-53, perishing/demise/dying, anticipation, Sartre/Levinas critiques); softened TMT link; added Sources
+con-cogito: rewrote critique; Augustine cite fixed (City of God XI.26, not De Trinitate 415); removed dubious Leibniz and James claims; clarified Discourse/Meditations/Principles formulations; gaps cleared
+con-dao: removed invented DDJ 62 quote and misquoted DDJ 25; fixed Heidegger/Unterwegs zur Sprache ('Betrachtung'); added dating (Guodian/Mawangdui), Confucian use, real Sources; gaps cleared
+con-death: fixed 'nine formulations', Boss described as collaborator not student, Freud row label, overgeneral death-anxiety-scale claim softened, stripped bold, added Sources; gap reworded
+con-dialectics: rewrote; fixed Kant dialectic (paralogisms/antinomies/ideal), thesis-antithesis-synthesis attribution (Fichte/Chalybaus), negation of negation in Logic; removed invented Schopenhauer quote, Luxemburg/Gramsci/Luhmann/Habermas 'communicative dialectic' claims; Popper 1940 essay; DBT dating; gaps cleared
+con-epoche-suspension: folded Pyrrho-attribution caveat into body (Timon, Sextus), ten modes credited to Aenesidemus, Husserl Ideas I (1913); removed editorial gaps and file refs
+con-eudaimonia-wellbeing: Miskawayh dating softened (late 10th c.), SDT dating fixed, added Seligman/Farabi sources; gap removed
+con-falsificationism-popper: fixed English title (Logic of Scientific Discovery), added Lakatos detail, Kuhn source; meta gaps removed
+con-freedom: stripped HTML tags, softened over-general empirical claims, added Sources; gap reworded
+con-functionalism-mind: China brain (not Chinese mind), Averroes/Avicenna nuance, Putnam 1960/1967 refs, LLM claim softened, added Sources; meta gaps removed
+con-guilt: Heidegger s.58, May's three kinds of ontological guilt corrected, stripped bold, added Sources
+con-hard-problem-of-consciousness: attributed 'something it is like' to Nagel, added Jackson/Levine sources; meta gaps removed
+con-hermeneutic-circle: added Schleiermacher/Dilthey/Hirsch sources; gaps removed (body covers three thinkers)
+con-hylomorphism: Ackrill/Burnyeat attribution corrected, Alexander/Averroes on active intellect added, translators fixed, active_end set to ongoing; gaps cleared
+con-intentionality: rewrote; removed references to nonexistent separate entries and meta lists; Brentano vs Husserl added; Foucault 'multiple subjects' and Dennett 'denied real' softened; Sources fixed; gaps cleared
+con-isolation: stripped HTML, removed unsupported Yalom-samples/Arabic-translation claims, added Sources; gap reworded
+con-knowledge-by-presence-ilm-huduri: Corbin edition publisher fixed (Institut Franco-Iranien), added phenomenology comparison, gap cleared
+con-li: removed corrupted 'Xueqiang'; clarified li 禮 vs 理 in Zhu Xi/Wang; added Analects 2.3/12.1, Liji note, Liang Shuming 1921; rebuilt Sources; cleared gaps
+con-lived-body: Plessner Leib sein/Körper haben dated 1928 (not 1941); removed vague Eigenleib/kinetic psychology claims; Sources extended; gaps trimmed
+con-maya-vedanta: fixed Madhva (matter dependent on God, not independent), Ramanuja, anirvacaniya as later Advaita term; removed unsupported Kierkegaard 'Spejlbillede' comparison; Freud Wahn -> Illusion (1927); added Sources, Svetasvatara; removed file commentary
+con-meaning: fixed Tillich attribution (modern-age anxiety of meaninglessness, not 'more fundamental than death'); Camus rejects Kierkegaard only; softened empirical/clinical claims; removed unverifiable Längle 2015 book; Purpose in Life test credited to Crumbaugh & Maholick 1964
+con-monad: windows not 'doors'; Monadology publication 1720 not 1714; bare monads/souls/spirits corrected (plants/stones are aggregates); removed Spinoza claim, Kant paralogism misstatement, bogus Lewis/Davidson/Kim, Foucault/anthropology claims; added Russell 1900, Kant 1756; Sources; gaps cleared
+con-natural-law-aquinas-concept: cleared stale/editorial gaps; added ST I-II q91 a2 citation
+con-nirvana-extinction: Nagarjuna 25:19-20 'empty of svabhava' (not self); Rahula 1959 publisher Gordon Fraser; softened Shramana claim; removed resolved gap
+con-orientalism: removed garbled gap (David, Bernal); removed unverified claim that Said conceded Lewis points; clarified Irwin/Marchand with titles; Sources extended
+con-ren: removed resolved quotation gap; qualified claim that ren has no transcendent grounding (Mencius/Tian)
+con-res-cogitans-res-extensa: replaced loose Second Meditation quotation with standard translation wording; removed stale sources gap
+con-sense-vs-reference: fixed false gloss of Bedeutung ('predicate'); clarified Quine and neo-Fregean (Evans/McDowell) lines; reworded gaps
+con-shunyata: removed Kripke/Putnam 'new realism' claim, Parmenides misstatement, Sengcan/'G. Watson'/Wallace/Beck/Depression-2015 psychology claims (replaced by conservative ACT note), rewrote catuskoti line (MMK 22.11); added Prasangika/Svatantrika section, MMK 24.18/13.8; real Sources; gaps trimmed
+con-social-contract-theory: softened Locke/Declaration claim; added Scanlon 1998, Pateman source; Locke title-page date note; removed stale gaps
+con-thrownness: expanded from 260 to ~500 words (Being and Time sections 29/38, facticity, Sartre contrast), added Sources; removed odd measurement-instrument gap
+con-universals-debate: removed garbled al-Absatal/Theaetetus passage; Augustine as divine-ideas Platonist; dropped Bonaventure as moderate realist; fixed Scotus (univocity of being is of God and creatures; haecceity individuates common nature); added Porphyry/Boethius origin; Sources added
+con-virtue-ethics: cleared gaps now covered (Anscombe in body); full names for Doris/Harman; added Hursthouse to Sources
+con-wahdat-al-wujud: softened claim on who coined the phrase; Junayd saying marked attributed; reworded gaps, dropped quotation gap
+con-will-to-power: removed fabricated BGE section 36 quotation; removed false Spencer-interpreted-will-to-power, Marx/Freud/Lyotard, Nandy/Said, Geoffrey Miller, Maya Deren/Kubrick 'Ikehus' claims; corrected WtP compilation editors (Foerster-Nietzsche, Peter Gast) and 'thing-in-itself' framing; added Heidegger/Kaufmann/Nehamas/Deleuze; Sources and gaps cleaned
+con-yin-yang: removed editorial/stale gaps; covered Yijing layers (yin-yang absent from oldest hexagram text, central in Ten Wings); qualified Capra/Jung line
+ctx-avicenna-self: translated Arabic gap to English; Flying Man no longer said to prove survival; softened 'most original' and Averroes claim; Shifa date 1020s
+ctx-ghazali: translated Arabic gaps to English; removed puffery (unmatched precision, finer than modern anxiety literature); Incoherence dated c. 1095; clarified Wonders of the Heart wording
+ctx-miskawayh-character: translated Arabic gap to English; softened 'first systematic' and cognitive-reappraisal comparison
+ctx-phenomenology-husserl: Scheler replaced by Ingarden as Husserl circle student; Being and Time dedication removal corrected to 1941 edition; removed overstated 'methodological tricks' claim; removed stale Arabic gap (thk-husserl exists)
+ctx-post-war-europe: Adorno remark dated (written 1949, published 1951); Arabic gap translated
+crt-feminist-critique-heidegger: removed anachronism (Heidegger "never replied" to a 1983 book after his 1976 death); removed unverified essay count and quote marks; added 1928 Marburg lectures on Dasein's neutrality; Arabic gap replaced
+dbt-advaita-vs-dvaita: Madhva dated 1238-1317 (tradition 1199-1278); Shankara modern dating added; fixed Aham Brahmasmi gloss; pancha-bheda corrected (soul/matter, not 'God in manifestations'); removed false caste claim, garbled 'na tv evam jayate mama' and 'Bhattacarya', Vachaspati 'vyavaharika' misattribution; rope-snake analogy corrected; added Sriharsha, Madhusudana/Vyasatirtha; Sources fixed
+dbt-boss-binswanger: Zollikon Seminars published 1987 (German), English 2001; Binswanger Grundformen description corrected (modes of failed existence; mania/melancholia/schizophrenia later); softened Zollikon 'line by line' and Swiss/German training claims; gaps format fixed
+dbt-british-yalom: van Deurzen dimensions credited correctly (Umwelt/Mitwelt/Eigenwelt from Binswanger, Uberwelt her addition); softened translations and RCT claims; Yalom influences broadened; gaps format fixed
+dbt-evidence: removed unverifiable meta-analysis breakdown (21 eligible trials, effect sizes by therapy type) and softened Breitbart 2015 outcome claim; fixed Frankl German title; gaps format
+dbt-extended-mind-clark-chalmers: availability/trust/access/endorsement conditions are in the 1998 paper itself (not only Supersizing 2008); softened hippocampus/'inseparable' claim; added Clark reply; gaps updated
+dbt-free-will-vs-determinism: removed meta/redundant gaps; corrected Epicurus swerve source (not in Letter to Herodotus); refined Chrysippus causes, Kant (add CPR Third Antinomy); added Bobzien
+dbt-human-nature-debate: replaced garbled Xunzi quote and invented 'restoration/acquisition' terms and mud metaphor; fixed Zhu Xi Four Books claim; added Gaozi section, removed gaps; added Ivanhoe
+dbt-laing: softened Kingsley Hall 'no medication' claim; clarified breakthrough sentence; attributed 'schizophrenogenic mother' to Fromm-Reichmann; removed uncertain page range
+dbt-langle-frankl: removed unconfirmed GLE 1985/honorary-presidency 1990 details (GLE founded 1983); replaced invented 'Frankl tests' with real instruments; fixed Man's Search source; removed doubtful Längle 2015 chapter and Arabic remark
+dbt-liberalism-vs-communitarianism: removed page-citation gap (non-content); dated Taylor recognition essay; added Gutmann source
+dbt-meaning-found: fixed German title typo; softened Yalom-on-Frankl and evidence claims; removed doubtful Langle handbook source
+dbt-mind-body-dualism-vs-physicalism: softened unsupported practical-consequences claims; covered Chalmers property dualism, zombies and Searle Chinese Room; closed gaps
+dbt-qadar-free-will-in-kalam: kasb theory placed in al-Luma' (not al-Ibana); added Qadariyya/Jabriyya background (Jahm ibn Safwan); added Watt and Frank sources; reworded edition gap
+dbt-rawls-nozick-justice: fair equality of opportunity; fixed taxation-as-theft overstatement; added Nozick ch. 7 critique of Rawls; closed gap
+dbt-realism-vs-nominalism: replaced garbled God-has-no-perfection argument with Trinity/Soissons 1092; removed dubious Barth/Locke-deism claims; fixed Abelard classification; added Champeaux-Abelard dispute; added real sources
+dbt-school-or-attitude: noted van Deurzen 1988 first-edition title
+dbt-spiritual: fixed Man's Search edition/date attribution and van Deurzen 1988 title; removed first-person hedge
+dbt-structures: removed unsupported claim about Spinelli heuristic model/co-founders; fixed van Deurzen 1988 title
+dbt-thomism-vs-scotism: rewrote (garbled/invented): Scotus on will, beatitude, Decalogue tables, univocity; removed unsupported claims (Kant/Schopenhauer, Gutierrez, Abduh, conciliarism); expanded; real sources added; gap removed
+evt-frankl-camps: replaced Arabic gap; fixed German original publisher (Verlag fur Jugend und Volk), Recollections publisher (Plenum 1997); softened dictation timing
+exp-frankl-lived-experience: fixed German title typo; Husserl Ideas publisher (Niemeyer); softened Nietzsche-quote claim; replaced Arabic gap
+met-sisyphus-camus: replaced Arabic gap with English; fields entries (fld-*) fact-checked, no corrections needed
+que-what-is-authentic-existence: Kierkegaard's crowd term Mængden; existence-precedes-essence source (1945 lecture); Frankl English edition history (1959 From Death-Camp to Existentialism; 1962 retitle); removed Arabic gap
+rel-act: Frankl German title spelling; A-Tjak meta-analysis finding stated more accurately
+rel-humanistic: removed unsupported claims about Arabic-language literature; softened May/AHP conference claim; added van Deurzen source
+rel-phenopath: Minkowski given name (Eugène); removed unverifiable 2021 Parnas source
+rel-psychoanalysis: softened "nearly every" founder claim
+sch-academic-skepticism: removed file-commentary gap, moved gaps into Limits; softened Pyrrho-Arcesilaus influence claim
+sch-academy-platonic: removed file-commentary/garbled gaps (incl. nonexistent "Polyclaus"); Averroes work is commentary on the Republic, not Politics
+sch-advaita-vedanta: removed commentary gaps; qualified attribution of the Brahma satyam verse; softened three-levels dating and "crypto-Buddhist" attribution
+sch-african-professional-philosophy: removed commentary gaps; Oruka no longer labelled particularist
+sch-analytic-metaphysics: removed commentary gaps; corrected Lewis modal realism description, added Kripke/Lewis contrast; corrected Marmura/Plantinga/Avicenna claim
+sch-andalusian-philosophy: removed commentary gaps; Pococke the Younger; softened Maimonides-as-reader-of-Averroes
+sch-aristotelianism: removed commentary gaps; deleted invented "Xenophon of Lampsacus, The Arrangement"; Roger Bacon anachronism (17th c.) fixed; "utilitarian" ethics corrected to virtue ethics; House of Wisdom 830 claim, Arabic-preserved texts claim, Hegel, death-dates fixed
+sch-ashariyya: removed commentary gaps; attributes "neither identical nor other" than essence
+sch-atomism-greek: removed commentary gaps; Leucippus/Epicurus/Aristotle chronology fixed; gnesie spelling; Pines title corrected (Beiträge 1936)
+sch-augustinianism: removed commentary gaps; deleted invented 'Relativity/Haecceity' section, 'school of Volsinii', 'Charismatic Augustinianism', 'Augustine Bailey'; fixed Possidius/Simplicianus/Victorinus roles, Ambrose, Kant/Hegel claims, Crusades claim, Pelagian wording
+sch-british-empiricism: rewritten from scare-quoted garbled text; removed false claims (Wundt/Helmholtz/Zeller, AI, 'philosophical pragmatism', Hume 'intuitive atomism', Kant innate mathematical ideas); removed commentary gaps; Hume 'is/ought' and Treatise citation checked
+sch-buddhism-early: removed commentary gaps; hedged schism-at-Vaishali claim
+sch-cartesianism: rewritten; removed invented/false figures (Jacob Wreden, Catherine Trish, Claude Boscovich, Joseph de La Forge, Le Vayer as teacher) and false claims (Newton on pineal gland, Gassendi anti-materialist, calculus response, Harvey/Borelli, Kant/Wolff as Cartesians); fixed Le Monde/L'Homme and Regulae dates
+sch-charvaka: removed commentary gaps; clarified Sankara reply
+sch-classical-liberalism-early: removed invented 'Four Freedoms' attributed to Mill, false Bentham/Code Napoleon claim, Tocqueville democracy=freedom, Smith division-of-labour/natural order/Rousseau claims, Mill absolute-freedom claim; corrected poverty/state/colonialism critique; removed commentary gaps; added primary sources
+sch-communitarianism: Communitarian Network founding date (1990); added Taylor source; removed commentary gaps
+sch-confucian-early: Xunzi 'materialist' -> naturalistic; removed false Mozi-patriarchy criticism; removed commentary gaps
+sch-daoism-philosophical: Izutsu study relabelled as comparative (not Arabic-Islamic work); removed commentary gaps
+sch-decolonial-philosophy: Wynter death year added; Wiredu phrasing; removed commentary gaps
+sch-deconstruction: rewritten; fixed Blanchot-as-Jewish-thought, invented 'free circulation of texts', Glas/theology phase error, Austin-as-critic, Bloom/Kermode as Yale critics, Zizek citation, Tschumi/Eisenman Parc de la Villette, Spectres de Marx description, pharmakon source; added Searle exchange and Frankfurt contrast (closing gaps)
+sch-egyptian-maat: Merikare dating hedged; removed unsupported claim about Proverbs changing god's name; removed commentary gaps
+sch-enlightenment: removed misattributed Voltaire tolerance quotation; removed invented 'Munfarid' and Hitler/Trump line; fixed Herder, Leibniz, Italian/Catholic Enlightenment lists, French Revolution/republic, Schleiermacher, Weber/Durkheim; removed commentary gaps
+sch-epicureanism: removed invented 'Posidonius the Epicurean', garbled/invented Greek quotations, 'harmful pleasures', Vitruvius, 'Christian emperors persecuted', Blackwood/Pigliucci 'new Epicureanism', false Marx Poverty of Philosophy and Cioran claims; corrected Nietzsche, Hobbes/Spinoza (Gassendi), Epicurus works survival (incl. gaps)
+sch-ethnophilosophy: added Towa to term origin; removed commentary gaps
+sch-existentialism: Heidegger 1933 stated precisely; removed Bonhoeffer as existentialist theologian; added Wild/Barrett N. America coverage (closing gap); Macquarrie edition fixed
+sch-existentialism-atheist: removed meta gap, added Sartre-Camus section (1952 Jeanson/Les Temps modernes quarrel), corrected Carnap critique (aimed at Heidegger, 1932), Second Sex ed. year, hedged 'first Arabic work'
+sch-frankfurt-school: exile Geneva not London; removed nonexistent 'Ottfried Hegni'/'Andreas Kleiland'; Negt&Kluge 1972; Offe b.1940; fixed positivist dispute dating; replaced invented Habermas-Foucault 1971/Cassen debates; removed spurious influences (McLuhan, Goffman, Unger, Giedion) and Ahmad citation; added Lukacs section; added Jay/Wiggershaus sources
+sch-german-idealism: replaced wrong contrast with 'British subjective idealism (Bradley)' by Berkeley (Bradley was an absolute idealist); removed meta gap, reworded final-period gap
+sch-hegelianism: removed meta gaps; replaced editions gap with factual editions note (Werke 1832-45, Moldenhauer/Michel, GW); Kojeve audience (Sartre did not attend -> Aron); turned quote into paraphrase
+sch-hermeneutics: removed meta gap; covered Protestant exegesis (Flacius 1567, Bultmann) and deleted gaps; E. D. Hirsch Jr. name; Abu Zayd ruling wording; Ricoeur pseudo-quote paraphrased; Shafi'i dating softened; added Weinsheimer-Marshall & Grondin sources
+sch-humeanism: rewrote body; removed nonexistent Cheselden/Presley influences, false claim Hutcheson taught Hume at Glasgow, Burke as friend, wrong La Fleche dating, garbled miracles/atheism/induction items, Latin pseudo-terms, bogus psychology/AI/New Atheism influences; added verified Treatise 2.3.3 quote and Hume vs Humeanism section; gaps cleared
+sch-ishraqiyya: removed meta/Corbin-link gaps (Corbin covered in body), reworded Ibn Sab'in gap; removed unverified claim that al-Alwah al-Imadiyya is Persian; fixed 'Middle Earth' mistranslation
+sch-islamic-peripatetic: removed meta/translation gaps; corrected Gutas-Corbin positions on Avicenna's Eastern philosophy (Gutas reading was reversed)
+sch-islamic-sufism: removed three meta/dangling-link gaps; added section distinguishing classical Sufism from Ibn Arabi's later theosophy (wahdat al-wujud term not Ibn Arabi's own); softened Orientalist-origins sentence
+sch-jainism: removed meta gaps; added note on Agama canon vs Digambara texts; Parshva dating hedged to traditional 250 years; mouth-cloth limited to some Shvetambara; commerce claim softened
+sch-kant-critical: removed meta gaps; added Critique of Judgment section and cleared gap; Jena claim fixed (Fichte/Schiller taught there, not students); Neo-Kantianism dating clarified
+sch-kyoto: removed meta/unverified gaps; Chuo Koron symposium participants corrected (Nishitani included, 1941-43); Tanabe wartime note; Watsuji as Kyoto associate; Western reception dating softened
+sch-legalism: removed meta/translation gaps (unity debate already covered via Goldin/Pines); 'Confucian outside, Legalist inside' marked as modern formula
+sch-leibnizianism: rewrote body; removed invented followers (Zimmermann, Renz, Bernauer, Ernst Ludwig, Samuel Konig/de Moivre), false influence claims (Berkeley, Reid, Hume), St Petersburg Academy founding, garbled indiscernibles example, Byron, anachronism 'inspired Hobbes 1651', Latin pseudo-school labels, theology/Church claims; added Wolff section, monad 'windows' quote (Monadology s.7), calculus 1684 etc.; gaps cleared
+sch-lixue: removed meta gaps; added Cheng Hao vs Cheng Yi section; corrected Four Books attribution (Zhu Xi compiled), Zhuzi yulei is posthumous 1270 compilation, Jia li attribution hedged
+sch-lockeanism: rewrote body; fixed false 'studied under Cudworth at Oxford' (Christ Church; Boyle/Sydenham); removed false figures (Butler/Kames/Buffon/Clarke as Lockeans), Tyrrell publishing claim; blank slate -> 'white paper'; primary/secondary qualities corrected; Latin pseudo-school labels and bogus influence claims (Russell/Moore/Frege, Hume rejecting causation entirely) removed; Rawls/Nozick fixed; gaps cleared
+sch-logical-atomism: removed meta gaps and unverifiable 'Lectures on Logic 1930' gap; universals are not Russell's atoms (fixed); added Theory of Types section (Tractatus 3.331ff) and cleared gap; dropped Austin from description-theory critics
+sch-madhyamaka: removed meta gaps; Buddhapalita dating softened; clarified emptiness-of-emptiness not in ch.24; Kyoto School link corrected to Nishitani/sunyata
+sch-marxism: removed meta gaps and an unidentifiable 'correspondence with Bart' gap; dialectical materialism term attributed correctly (Dietzgen/Plekhanov); Dialectics of Nature pub. 1925; NY Tribune India articles dated 1853
+sch-mohism: removed meta/translation gaps (later Mohist section already present); no factual errors found
+sch-mutazila: removed meta/documentation gaps; incorporated lost-works note (Fihrist of Ibn al-Nadim) into body; Tabari reference dropped
+sch-neoconfucianism: removed meta/duplicated gaps (early period and Er Cheng covered in body); Feng Youlan 'revived the name' corrected to Bodde translation; Cheng brothers divergence noted
+sch-neoplatonism: rewrote body; fixed garbled context (Academy 'closed' before 529), Porphyry's Against the Christians misdated to 5th-6th c. and preserved only via Augustine (wrong), removed 'Julian the Theurgist' as Iamblichus follower, Elements of Theology vs Platonic Theology conflation, bogus 'vision in sleep'/'priest's union' concepts, Proclus 'On Providence' as political work, Derrida/Heidegger/Kierkegaard claims and unidentified Arabic readers, Ficino dates (1433-1499), Qusta ibn Luqa, Thomas Taylor coinage claim; fixed 529 exile account; gaps cleared
+sch-nyaya: removed meta/documentation gaps; Pines work cited by actual German title
+sch-ockhamism: rewrote body; removed invented followers (John of Durham, Adam de Parvo Ponte, Joseph of Brescia), wrong supposition/appellation/intuition accounts, garbled divine-will/natural-law/corporeality/determination sections, false Luther-Sola-Fide and Marsilius-of-Padua-as-Ockhamist claims, Buridan's ass attribution, 'condemned by pope' (excommunicated 1328); razor slogan flagged as later formulation; added nominalism vs Ockhamism section, critical edition; gaps cleared
+sch-ordinary-language: removed meta/link gaps; added Austin-Wittgenstein-Strawson section covering gaps; Grice 'Logic and Conversation' dated (lectures 1967, published 1975)
+sch-patristics: rewrote body; removed invented Justin quote (replaced with paraphrase of 2 Apol.), fixed Tertullian 'credo quia absurdum', moved Athanasius out of Antioch school, removed 'Peter the Latin', corrected Nestorius/Eutyches, original sin not from Origen (Augustine), Aristotelian-translation claim, invented Augustine reply, Dulles/Behr claim; Kelly 1958; Didascalia vs Apostolic Constitutions; gaps cleared
+sch-phenomenology: removed meta gaps (incl. wrong 'Windelband' as realist phenomenologist); added logical positivism relation (Carnap in Husserl's seminars 1924-25); Cartesian Meditations publication dates clarified
+sch-phenomenology-existential: removed meta gaps; added existentialism vs existential phenomenology section covering gaps; Sartre lecture date (Oct 1945, publ. 1946); added Macquarrie-Robinson translation
+sch-phil-mind-analytic: removed process-note gaps, covered behaviourism/functionalism and Patricia Churchland gaps, clarified Kripke dating
+sch-phil-science: removed process-note gaps, covered Popper/Lakatos gap, softened Arabic priority claim and al-Biruni claim, fixed no-miracles attribution (Putnam 1975, Boyd developed)
+sch-post-structuralism: removed process-note gaps; covered boundaries and feminism gaps; reworded Searle/Sokal line
+sch-postcolonial-philosophy: removed process-note gap; softened 'preceded and rivaled' and 'first systematic critique' claims; clarified Laroui; Fanon Blida-Joinville; reworded remaining gaps
+sch-postmodernism-philosophical: removed process-note gaps; replaced Venturi with Jencks (1977) for term origin; removed unverifiable Arabic translator/edition; added Rorty section; reworded spectrum
+sch-pragmatism-classical: removed process-note gaps; softened 'first worldwide' claim; Blumer coined symbolic interactionism; Holmes forerunner of legal realism; added Schiller section
+sch-pyrrhonism: rewrote body; removed invented Xenophanes and Socratic dialecticians, Alan Rhine, Brennan/Perin; ten modes attributed to Aenesidemus with correct list; replaced silence/preconception with aphasia; Diels fixed to PPF 1901; Descartes cogito claim removed; gaps cleared
+sch-rawlsianism: removed process/vague gaps; clarified Political Liberalism shift, Pogge as student, al-Mawardi date; added Restatement source
+sch-renaissance-humanism: rewrote body; removed invented Latin pseudo-terms, Bartholomaeus Anglicus/Bruni De Oratore, Roger Bacon/Dante as humanists, misattributed Petrarch 'history teacher', Montaigne 'Quae sum' (Que sais-je), Castiglione/Gonzaga tolerance, Descartes/Kant 'graduates', Valla 'forgery' fixed; Erasmus-Luther relation corrected; added civic/religious strands; gaps cleared
+sch-samkhya: removed process/covered gaps; Karika verse count softened; Yogasutra dated 2nd-4th c. CE; Shankara date qualified; dates string aligned with active_start; Buddhism influence softened
+sch-scholasticism: rewrote body; fixed Anselm motto (fides quaerens intellectum), double-truth attribution, universals/Aristotle swap, ontology term (Goclenius/Clauberg; removed invented 'Franz Josef Bosch'), removed Hus/Baconthorpe/Locke-Rawls/Rahner claims, Descartes cogito claim, Olivi; Paris 1277/1325 corrected; gaps cleared
+sch-sophistry: removed invented 'Beatrice Hansen 1972' and process gaps; Gorgias dates; Protagoras agnostic; reworded intro and Limits
+sch-spinozism: rewrote body; removed invented followers (Simon Joseph Bomb, Paul Tsichner, Rambler etc.), Ibn Arabi influence, Freud/Marx/Althusser claims, misquoted Einstein; fixed Portuguese origin, works and dates, Short Treatise status; gaps cleared
+sch-stoicism: rewrote body; fixed apatheia (not indifference), removed false claims (Septuagint conscience, Heidegger/Seligman/James Stokes, 535 works, soul dies with body, identity of opposites, death as disciplining); added logic/physics/ethics detail; gaps cleared
+sch-thomism: rewrote body; removed invented disciples (Balaam of Sibylline etc.), 'Peronist Thomism', Descartes/Kant/Marx/Mendel/Christian Douglas/Pope Benedict claims, Leo XIII quote; corrected Vitoria (Dominican), Maritain/Transcendental Thomism, 'official philosophy' (1914 theses, 1917 Code); gaps cleared
+sch-transcendent-theosophy: removed process gaps; softened Suhrawardi/Ibn Arabi statements; Iraq claim removed; formatted sources; kept Ibn Arabi influence gap as not yet covered
+sch-ubuntu: removed process/vague gaps; corrected Ubuntu OS attribution, Gade (survey of definitions, not field studies), Mandela paraphrase
+sch-utilitarianism: removed process gaps; covered Bentham-James Mill relation; Bentham 'nonsense upon stilts' wording; Carlyle 'pig philosophy'
+sch-vedanta: removed process gaps; Madhva five differences completed; Ramanuja dating qualified; Chaitanya/Bhedabheda corrected; Dara Shikoh context; Brahma Sutra dating
+sch-vienna-circle: removed process gaps (incl. misc. unreviewed notes); added positivism/empiricism terminology sentence
+sch-xinxue: removed process gaps; Liu Jin; removed unsupported context of knowledge-action doctrine; covered Lu/Wang difference; Najm al-Din Razi; dropped Wang Daiyu dates
+sch-yogacara: removed process gaps; Kochumuttom reading corrected (realist, not idealist); three turnings clarified
+sch-zoroastrian-philosophy: removed process gaps; dates string aligned with active_start; Boyce dating clarified; Mazdak source caution
+trm-angst-translation: replaced Arabic gap with English; removed claim of primary-text basis
+thk-adorno: expanded body to full entry; added life, works with years, criticisms, real sources (replaced Wikipedia links); gaps cleared
+thk-aquinas: expanded body; corrected official-since-1879 claim, removed al-Ghazali as source, corrected Franciscan opposition, added life and 1277 condemnations; replaced Wikipedia sources; gaps cleared
+thk-al-farabi: softened 'first' and Matta/Nestorian claims, intellect ranks, removed European music claim; folded birth-date/journeys/attribution gaps into body; gaps cleared
+thk-al-ghazali: corrected Jerusalem/Bayt al-Maqdis duplication, removed Zahiri label for Ibn Taymiyya, removed unsupported Watt/Frank characterizations; gaps cleared
+thk-al-kindi: softened 'first philosopher' claims, fixed death/al-Mu'tamid inconsistency, intellect kinds, Liber de causis note; folded gaps into body; gaps cleared
+thk-arendt: removed process gaps; exact Eichmann quote; Human Condition 'think what we are doing'; Eichmann objection updated (Stangneth 2011); gaps cleared
+thk-ashari: fixed "forty years" with al-Jubba'i to "until about forty"; Ash'arism not "official theology of four madhhabs"; removed doubtful works (al-Istibsar, Sharh al-Asma' al-Husna); cleared meta gaps
+thk-augustine: removed meta-commentary gaps; softened "real discoverer"/"first spiritual father" claims
+thk-beauvoir: expanded to full entry (life, ethics, Second Sex, works, translations, sources); dates; cleared gap
+thk-bentham: removed doubtful claims (ipse-dixitism gloss, Schumpeter, criminology, Pannomial 1830, Theory of Legislation 1802 reattributed to Dumont's Traites, Anarchical Fallacies pub. dates); Chrestomathia date; Mill 1863; cleared meta gaps; added sources
+thk-bergson: cleared meta gaps; softened Vichy anecdote; added 1904 chair date; added English translations
+thk-berdyaev: expanded entry from stub with life, Ungrund, works, sources
+thk-bertrand-russell: logical atomism not 'founded' in Problems of Philosophy; Russell Tribunal role corrected (initiated, not chaired); Godel wording; cleared meta gaps; added Autobiography source
+thk-biko: age at death 31 -> 30; cleared meta gaps
+thk-binswanger: expanded from stub (life, Weltentwurf, Freud, Boss/Heidegger objection, works, sources); dates; cleared gap
+thk-brentano: cleared meta gaps; removed unverifiable claim about Arabic translations
+thk-buber: removed leftover Arabic gaps; Die Propheten (1936) replaced by Torat ha-Nevi'im (1942)/The Prophetic Faith (1949); I and Thou translator/publisher (R. G. Smith, T&T Clark 1937); removed unsupported refugee-rights claim
+thk-camus: removed invented quotation ('One must imagine everything lost...'); fixed Sisyphus quote wording; Camus and Sartre book is by Ronald Aronson (2004), not Kaplan 2013; Rebel edition; Frankl anachronism softened; added Nobel 1957, dates
+thk-cohn: expanded stub with works (1997, 2002), approach; cleared gaps (biography gap kept as not yet covered)
+thk-cooper: expanded stub; verified works; added 2008 title and sources; cleared gap
+thk-daniel-dennett: removed unverifiable Arab-reception sentence; cleared gaps
+thk-david-chalmers: Adelaide studies corrected to mathematics and computer science; removed overclaim that his formulation created NCC research (Crick/Koch); cleared meta gaps
+thk-deleuze: Sokal-Bricmont title/date corrected (Impostures intellectuelles 1997; Fashionable Nonsense 1998); removed unverifiable Arab-reception sentence; gaps reworded
+thk-derrida: cleared meta gaps, reworded remaining gaps; softened narrative-therapy claim
+thk-descartes: Discourse on Method no longer credited with radical doubt as 'ethical-methodological rule' (four rules + Part IV); foundation is the thinking subject not 'doubt itself'; La Fleche dates 1607-1614; cleared meta gaps
+thk-dewey: removed unsourced quotation from Experience and Nature; 'founder' of progressive education softened; removed unverifiable Arab-influence claim; cleared gaps
+thk-dilthey: cleared meta gaps; 'founder' of Verstehen/Erklaeren distinction softened; Husserl chronology fix; Selected Works date range 1985-2019
+thk-epictetus: cleared meta gaps (facts checked, no errors found)
+thk-dostoevsky: expanded stub into full entry with life, works, reception (Nietzsche, Sartre, Camus, Bakhtin), sources; cleared gaps
+thk-epicur: cleared meta gaps; replaced unverifiable Arabic-usage claim
+thk-fakhr-razi: belongs_to moved from Imami kalam to Ash'arism (Ash'ari-Shafi'i per biographers); dates c.1150; patrons Ghurids not Ghaznavids; Mahsul commentators/abridgers corrected (al-Urmawi, al-Qarafi, not al-Amidi/Ibn al-Hajib); removed speculative composition dates; Khulayf spelling; added Jaffer 2015; cleared meta gaps
+thk-fichte: removed gaps; "first philosopher" softened; Schelling "student" -> follower/colleague; removed unsourced Hegel quote marks; heading renamed
+thk-frankl: removed "only existential school"/"most widely read" claims; fixed German titles/years (Der Wille zum Sinn 1972), Nietzsche quote attribution; removed unreal translator (Filar) and Pattakos source; added Doctor and the Soul source; softened palliative-evidence claim
+thk-gadamer: removed editorial/meta gaps (debate content already in body); softened unverified claim that Zine translated Gadamer texts
+thk-gfrege: removed meta gaps; removed unverifiable claim about Arabic translations
+thk-habermas: removed meta gaps; "founder of deliberative democracy" softened; removed doubtful Spivak attribution
+thk-hegel: removed meta gaps; removed template-stamp framing ("not an existential thinker... why mentioned here"); softened overstated Kierkegaard claims; thesis-antithesis-synthesis attribution corrected to later commentators
+thk-heraclitus: removed gaps covered by body; DK fragment count fixed (126); fire reading softened
+thk-hobbes: De Cive publication (1642 private/1647), tutor to Prince of Wales c.1646 corrected; softened "first" claims; removed dubious Spinoza clause and Atlas meta phrase; Locke polecat/lion passage cited properly; gaps reworded
+thk-hputnam: removed gaps covered by body/meta; softened Lewis criticism; replaced Dennett-as-functionalist claim
+thk-holzhey: expanded stub (background, thesis, works, sources); removed unverifiable "almost nonexistent in Arabic" and "year needs verification"; gap closed
+thk-hume: removed meta gaps; "greatest/deepest" softened; added actual Treatise 3.1.1 is-ought passage; publisher detail for Treatise corrected
+thk-husserl: expanded stub with biography, intentionality, reduction, later work; Cartesian Meditations date corrected (French 1931, German 1950), Crisis dating (1936 partial, 1954 full); added real sources
+thk-ibn-arabi: removed gaps already covered in body; "greatest" softened; Afifi edition place fixed (Cairo); Ibn Taymiyya "separate treatises" claim softened
+thk-ibn-rushd: Maimonides influence anachronism fixed (contemporary; later Jewish Averroists named); Latin condemnations 1270 and 1277; Colliget contrast with Canon corrected; Greek-knowledge gap covered; exile gap covered
+thk-ibn-sina: gaps closed (death/autobiography caveat and mystical-treatise authenticity added to body); superlatives softened; Biruni correspondence dating softened; Shifa' editors and Adamson (ed.) fixed
+thk-ibn-tufayl: gaps closed; Ibn Rushd succeeded as physician (not vizier); Locke/Defoe influence claim softened to speculation
+thk-jaspers: expanded stub; removed two unsourced "quotations" and HTML tags; filled dates; added sources
+thk-jaustin: age at death fixed (48); Grice not a student (colleague); Butler via Derrida; removed Arabic-translation remark and gaps; added Philosophical Papers source
+thk-john-searle: five-category taxonomy attributed to 1975 paper (not Speech Acts 1969); Churchlands' critique dated to Sci. Am. 1990 (not BBS 1980); removed Atlas meta phrase; 2019 Berkeley matter worded neutrally; birth date added; gaps closed
+thk-kant: removed "first systematic theory of aesthetic judgment" and "defended slavery" claims; publisher spelling Lagarde und Friederich; added French Revolution/politics section (closes gap); gaps cleared
+thk-karl-popper: removed unverifiable "inductive method" quote; softened "foremost/solved"; Feyerabend not Popper's student
+thk-laing: expanded stub (life, ideas, Kingsley Hall, criticisms, sources); removed meta constraint section; filled dates
+thk-langle: expanded stub; fundamental motivations corrected to four (was three plus meaning); removed unverified year (1988) and "English translation 2013" and Arabic remark
+thk-laozi: removed gaps already in body; replaced invented "five points of opposition to Confucius"; removed doubtful Hansen/Robinet attribution on Laozi's historicity; Wang Bi arrangement wording corrected
+thk-leibniz: removed meta/editorial gaps; softened "last universal genius" and calculating-machine "first" claim
+thk-levinas: removed leftover Arabic gap; Time and the Other publication detail fixed (was wrongly PUF 1948 book); Davis publisher fixed (Polity); softened "deepest foundation for ethics of therapy" and Peperzak "first"
+thk-locke: removed meta gaps; Atlas meta phrase removed; Carolina Constitutions role stated precisely
+thk-lukas: expanded stub; removed doubtful "Vienna Institute of Logotherapy" (South German Institute, Fürstenfeldbruck); filled dates; added sources; fixed related title spelling
+thk-lwittgenstein: Tractatus English translation attributed to Ogden/Ramsey (not Russell); elementary-proposition description corrected; Investigations Arabic publisher corrected; Chomsky/Davidson influence claim replaced; gaps closed
+thk-macintyre: removed meta gaps; added After Virtue 2nd/3rd edition note (closes gap); removed Nussbaum-specific attribution; added MacIntyre Reader source
+thk-mahavira: replaced unsupported modern dating (540-468) with fifth-century death; fixed syadvada seven-fold list; corrected Svetambara/Digambara note on women; softened Buddha 'debated'; gaps cleaned
+thk-marcel: Homo Viator date 1945->1944 (French first ed.); removed Arabic gap; softened 'Christian existentialist' rejection and 'best framework' claim
+thk-marcus-aurelius: family origin Italica->Ucubi; removed unsupported Frederick the Great claim; removed gaps (wrong '6-volume Loeb' claim)
+thk-mbuber: Die Propheten 1936 -> Prophetic Faith (Hebrew 1942, Eng. 1949); I and Thou English ed. publisher fixed (T&T Clark, R. G. Smith); removed file-commentary gaps; softened expulsion/refugee wording
+thk-mencius: Xunzi 'a century later' -> later; dating marked traditional; removed unsupported 'virtuous as heaven and earth' quotation; reworded wise-king bullet; softened Heaven/creator claim; removed stale gaps
+thk-merleau-ponty: removed unverifiable quotation section; removed file-housekeeping gaps; added Visible and Invisible source
+thk-mill: Greek at 3/Latin at 8 (not both at 3); fixed East India Company/occupation wording; paraphrased inexact quotations; removed housekeeping/quotation gaps
+thk-minkowski: expanded from 246 words with life, vital contact, morbid rationalism, limits and sources; added dates 1885-1972; removed gap
+thk-mohammed-abed-al-jabri: removed file-housekeeping gaps (quartet now covered); dropped unverified publisher; added secondary source (Abu-Rabi' 2004)
+thk-mulla-sadra: softened Ibn Sina/quiddity attribution, Khomeini/political philosophy overreach; fixed Qur'an commentary line; gap reworded
+thk-nagarjuna: removed unsupported Sri Lanka residence, Christian/Islamic critique claim, Nietzsche/Heidegger comparison; Aristotle anachronism fixed; Vigrahavyavartani target corrected (Nyaya, not Sarvastivada); garbled interpretation sentence rewritten; gaps cleared
+thk-nagel: 'explanatory gap' credited to Levine 1983; atheism/wish-no-God passage re-attributed to The Last Word (1997); duplicate Limit heading fixed; vague NYU source replaced; gaps cleared
+thk-nietzsche: Twilight/Antichrist dates clarified; softened clinical-influence claim; removed Arabic gap
+thk-nishida: softened 'first inspirer'/'highest stature' claims; removed translator-style remark; removed housekeeping gaps
+thk-nozick: Cohen's Chamberlain critique re-attributed to 1977 essay and Self-Ownership (1995) not 2000 book; removed unsupported Arab-tradition section; added Philosophical Explanations and Cohen 1995 sources; gaps cleared
+thk-nozick: wording smoothed
+thk-ortega: expanded from 231 words (life, razon vital, perspectivism, Revolt of the Masses, limits) with sources; removed gaps (classification now discussed in body)
+thk-parmenides: rewrote body: fixed proem (Heliades, unnamed goddess, Dike at gates), removed invented non-contradiction quotation, 'Plato formulated to on', Pythagoras-criticism, Plutarch 'Pythagorean council at Philolaus 504', Islamic-philosophy legacy claim; poem is partly preserved (not lost); Sophist->Theaetetus; sources fixed (Beaufret/Covizzi/Caston removed; Cassin, Coxon, Palmer added; DK ed. fixed)
+thk-parmenides: Xenophanes line softened
+thk-peirce: added exact pragmatic maxim wording; Existential Graphs described correctly; Peano/Russell link softened; removed Barthes/Kristeva claim; clarified 1905 pragmaticism; gaps cleared
+thk-plato: Hunayn/Galen translation claim corrected; Freud 'acknowledged' claim narrowed to Eros; 'first/earliest' overclaims softened; Egypt trip hedged; quotations section replaced with accurate Apology 38a line and Republic paraphrase; added chronology/transmission (Thrasyllus, Clarke codex 895) and removed gaps
+thk-plotinus: birthplace attributed to Eunapius; Nature corrected as part of Soul (three hypostases); Gnostic-criticism claim replaced; removed housekeeping gaps
+thk-rank: expanded from 222 words (life, break with Freud, will, influence, caveats) with sources; softened 'first founding father' claim; removed gaps
+thk-rawls: dissertation topic clarified; Harvard retirement wording; teaching posts completed; gap removed
+thk-rank: translation dates fixed
+thk-rcarnap: clarified IAS/UCLA dates; removed housekeeping gap and covered shift gap (body treats Aufbau->Syntax)
+thk-ricoeur: removed file-housekeeping gaps and superlative claims; clarified symbol quotation source
+thk-rorty: mother's surname spelling fixed (Raushenbush); removed housekeeping gaps
+thk-rousseau: removed file-housekeeping gaps; kept one reworded gap
+thk-sandel: 2009 Reith Lectures title corrected to 'A New Citizenship'; softened 'most prominent face'; gaps cleared
+thk-sartre: removed Arabic gap; softened 'the one figure' and Mahfouz claim
+thk-schelling: 'existence precedes thought' reworded; posthumous-publication claim corrected (freedom essay was published 1809); sources improved (Landshut 1809, Gutmann trans.); removed housekeeping gaps
+thk-schopenhauer: removed meta gaps, added Freud/existential influence sentence, active_end 1860, softened Heidegger claim and Fichte/Hegel wording
+thk-shankara: dates now c.8th c. (traditional 788-820) and active years 700-750; adhyasa example nacre/silver; slogan attribution softened; Digvijaya dating softened; gaps cleared
+thk-shestov: expanded entry (life, works, Athens/Jerusalem, influence, sources), added active years, cleared gaps
+thk-spinoza: removed meta gap; added Ethics vs TTP section
+thk-straus: expanded entry with life, works, pathic/gnostic, sources; cleared gaps
+thk-suhrawardi: rewrote; removed invented works/events (Antioch 1186, 5 Shawwal, al-Adil, Empedocles, nonexistent titles), fixed Ziai/Walbridge translation, sources, execution context
+thk-thomas-kuhn: removed meta gaps
+thk-tillich: removed Arabic gaps and verification note, doctorate at Breslau, removed Atlas-pillar commentary
+thk-unamuno: removed Arabic gap; Millán Astray quote flagged as disputed; San Manuel publication 1931/1933; Agony first French edition
+thk-wang-yangming: removed gap line
+thk-voltaire: cleared meta gaps, added sections on du Chatelet/Frederick correspondence and Candide
+thk-vandeurzen: removed unverifiable birthplace, Antioch/UKCP-chair claims, 'four women' commentary; softened technique/American-critique claims
+thk-william-ockham: covered Franciscan poverty dispute (Cum inter nonnullos, Opus nonaginta dierum), removed doubtful religious-plurality claim, cleared gap
+thk-wquine: cleared meta gaps; softened Davidson supervision claim
+thk-xunzi: dates c.310-c.235, removed garbled lines (Qin/Mengju, Four Books restored), Han Feizi not founder of Legalism, covered text composition (Liu Xiang), cleared gaps
+thk-zhu-xi: Zhu Xi did not compile Five Classics - fixed; removed dubious quote; added early Buddhist/Daoist phase; cleared gap
+wrk-al-muqaddimah-ibn-khaldun: cleared gaps, softened 'asabiyya originality claim, removed meta phrasing, Azhar claim softened
+wrk-al-shifa-avicenna: cleared gaps, dating stated as c.1020-1027 uncertain
+wrk-an-inquiry-into-the-good-nishida: cleared gap, corrected career chronology (Kanazawa, Gakushuin 1909, Kyoto 1910; published 1911)
+wrk-apology-plato: removed meta sentence on Arabic translations
+wrk-being-nothingness: cleared Arabic-language gaps
+wrk-being-time: fixed structure statement (two of six divisions published), removed unverified Arabic rendering claim, cleared gaps
+wrk-concept-anxiety: cleared Arabic gaps; Cambridge Companion editors corrected (Hannay & Marino)
+wrk-consolation-philosophy: cleared gaps (Alfred attribution already stated as disputed in body)
+wrk-courage-to-be: cleared Arabic gaps, removed unverifiable Arabic-translation claim
+wrk-critique-of-practical-reason-kant: fixed Schopenhauer criticism attribution; CI marked as restated from Groundwork; cleared gaps
+wrk-critique-of-pure-reason-kant: cleared gaps, added Akademie-Ausgabe vols 3-4 to sources
+wrk-daodejing: cleared meta gaps; removed unverifiable Arabic translation source, added Lau 1963 and Henricks 2000
+wrk-divided-self: Julie's phrase corrected to 'ghost of the weed garden'; removed unverified Arabic-translation claim; gaps cleared
+wrk-ethics-ambiguity: fixed garbled 'deleted' phrasing; removed unverified Arabic translation claim; gaps cleared
+wrk-existence: toned down overclaims, removed unverified Arabic translation claims; gaps cleared
+wrk-existential-psychotherapy: removed unverified Arabic translation claims; gaps cleared
+wrk-existential-therapies: removed unverifiable chapter/case-study specifics (Sian); gaps cleared
+wrk-fusus-al-hikam-ibn-arabi: removed uncertain Abraham wisdom epithet; fixed Naqd al-Nusus (Jami's own commentary); removed file-commentary and rewrote gaps
+wrk-hegel-phenomenology-spirit: reworded Arabic-translation note (removed file commentary), gaps rewritten
+wrk-hikmat-al-ishraq-suhrawardi: Mulla Sadra glosses are on Qutb al-Din's commentary; rewrote editions section; gaps cleared
+wrk-kuhn-structure-revolutions: clarified Popper's 'Normal Science and Its Dangers' point; gaps cleared (Copernican Revolution 1957 now mentioned)
+wrk-lived-time: removed overclaim and unverified Arabic-reception claim; gaps cleared
+wrk-lunyu: corrected transmission of received text (Zhang Yu/Zheng Xuan/He Yan/Zhu Xi), Jesuit Latin translation cited correctly, removed file commentary, added real translations to Sources; gaps cleared
+wrk-mans-search: removed unverifiable Arabic translator/publisher claim; Allport wrote a preface; softened Pytell characterisation; gaps cleared
+wrk-meditations-on-first-philosophy-descartes: 'cogito ergo sum' not in the Meditations (Discourse 1637 / Principles 1644); removed repo-duplicate and Arabic-translation gaps
+wrk-metaphysics-aristotle: softened Andronicus/Ibn Sina claims, corrected Ross edition citation, rewrote Arabic section, gaps cleared
+wrk-monadology-leibniz: noted 90-section numbering is editorial; removed Arabic-translation and cleanup-note gaps
+wrk-nicomachean-ethics: added Aquinas commentary, book-order caveat, Anscombe source; removed repo-duplicate gap
+wrk-on-liberty-mill: corrected Mill's 'utility' quotation; added 1826 crisis note; removed unverified Arabic-edition remarks; gaps cleared
+wrk-on-the-genealogy-of-morals-nietzsche: removed 'racism' overstatement and unverified Arabic-edition remarks; added Colli-Montinari editions section; gaps cleared
+wrk-philosophical-investigations-wittgenstein: 'resolute reading' attribution clarified (Tractatus-origin); 4th ed. retitling noted; gaps rewritten
+wrk-philosophy-mirror-nature: removed unverified Arabic-copy remark and file-note gaps; gaps cleared
+wrk-republic-plato: removed 'next day' narration claim, softened 'first model of the soul'; removed duplicate/Arabic/quotation gaps
+wrk-sickness-death: softened superlatives and influence claims (Tillich, Becker, Holzhey-Kunz); removed unverified reception/Arabic remarks; gaps cleared
+wrk-spinoza-ethics: 'B.d.S.' initials on Opera Posthuma; softened psychology-model claim; active_end set to 1677; Arabic gaps cleared
+wrk-summa-theologiae-aquinas: corrected 'Angelic Doctor'/canonization/Doctor of Church claims; completed Torrell citation; removed repo-duplicate and Arabic gaps
+wrk-tahafut-al-falasifa-ghazali: softened superlative; gaps cleared (causation and editions already covered in body)
+wrk-the-prince-machiavelli: Discourses dating corrected (c.1513-19, pub. 1531); removed unverified Arabic-translation section and file-commentary gaps
+wrk-the-social-contract-rousseau: fixed garbled Hobbes contrast; Geneva Manuscript noted; gaps cleared
+wrk-tractatus: corrected summaries of main propositions 2, 4, 5; gaps cleared
+wrk-two-dogmas: 'web of belief' attributed as later image; Fodor was a critic of holism (not a follower); removed speculative Arab/psychology claims; gaps cleared
+wrk-zollikon: softened 'only occasion' overclaim; removed unverifiable Binswanger 'productive misunderstanding' attribution; gaps cleared
+thk-habermas: removed an unverifiable death claim (March 2026) and set dates to born 1929; confirm current status before adding

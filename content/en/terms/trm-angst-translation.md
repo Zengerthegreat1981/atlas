@@ -16,12 +16,12 @@ related:
   - id: "wrk-being-time", title: "Being and Time: Dasein, Temporality, and Being-toward-Death", type: "عمل / كتاب"
   - id: "wrk-concept-anxiety", title: "The Concept of Anxiety: Freedom, Dread, and the Possibility of Sin", type: "عمل / كتاب"
 gaps:
-  - "يحتاج مراجعة مباشرة من نصوص كيركيغارد وهايدجر الأصلية (بالدنماركية والألمانية) بدل الاعتماد على مناقشات الترجمة الثانوية فقط"
+  - "Direct comparison with the Danish and German originals: not yet covered; this entry relies on the standard translations and translators' discussions."
 ---
 
 # Translating Angst: Anxiety, Dread, or Anguish?
 
-One German word, used by Kierkegaard and Heidegger, changes the way the whole concept is understood depending on how it is translated into English or Arabic — not merely its wording. This entry does not settle which translation is "correct". It documents the dispute itself, as knowledge a reader needs, and it does so from the primary texts and their translations rather than from secondary discussion alone.
+One German word, used by Kierkegaard and Heidegger, changes the way the whole concept is understood depending on how it is translated into English or Arabic — not merely its wording. This entry does not settle which translation is "correct". It documents the dispute itself, as knowledge a reader needs, drawing on the standard translations and the translators' own discussions.
 
 ## The origin of the problem
 

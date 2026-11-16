@@ -15,9 +15,7 @@ related:
   - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # Being and Nothingness: Consciousness, Freedom, and Bad Faith

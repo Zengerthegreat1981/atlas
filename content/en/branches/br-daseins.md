@@ -19,8 +19,7 @@ related:
   - id: "thk-boss", title: "Medard Boss", type: "مفكر"
   - id: "dbt-boss-binswanger", title: "Who Read Heidegger Right?", type: "جدل"
   - id: "rel-phenopath", title: "Phenomenological Psychopathology", type: "علاقة"
-gaps:
-  - "المصادر الأولية بالألمانية والفرنسية وترجماتها — لم تُدخل"
+gaps: []
 ---
 
 # Daseinsanalysis
@@ -35,11 +34,11 @@ The question is not "What is wrong with this person?" but "How does this person'
 
 Ludwig Binswanger (1881–1966), medical director of the Bellevue sanatorium at Kreuzlingen from 1911 to 1956, was the first physician to combine psychotherapy systematically with existential and phenomenological ideas. Reading Heidegger's *Being and Time* (1927) gave him a vocabulary for what he had already felt clinically: that a patient must be understood through their *Weltentwurf*, their world-design, the basic pattern by which they project a world around themselves. He distinguished three dimensions of existence lived simultaneously — *Umwelt*, the surrounding physical and biological world; *Mitwelt*, the shared social world; and *Eigenwelt*, the world of one's relation to oneself. His systematic statement, *Grundformen und Erkenntnis menschlichen Daseins* (1942), argued against Heidegger himself that love, not only care (*Sorge*), is a fundamental structure of existence. His most famous case, that of Ellen West, published in 1944 and 1945, read a young woman's eating and despair as a constriction of her world-design rather than as a drive conflict.
 
-Medard Boss (1903–1990) of Zurich produced the version that worked most directly with Heidegger himself. Boss invited Heidegger to give seminars to his students and colleagues at Zollikon, near Zurich, between 1959 and 1969; Boss recorded the exchanges and edited them for publication as the *Zollikon Seminars* (German 1987; English 2001). Where Binswanger built a theory of world-designs, Boss emphasised *Gelichtetheit*, openness: health is the capacity to let what meets us show itself, and illness is a closing-down of that openness. His *Psychoanalysis and Daseinsanalysis* (1957; English 1963) reinterpreted dreaming without Freud's censor and wish, and his *Grundriss der Medizin und der Psychologie* (1971; second edition 1975; English as *Existential Foundations of Medicine and Psychology*, 1979) extended the approach from psychiatry to medicine as a whole.
+Medard Boss (1903–1990) of Zurich produced the version that worked most directly with Heidegger himself. Boss invited Heidegger to give seminars to his students and colleagues at Zollikon, near Zurich, between 1959 and 1969; Boss recorded the exchanges and edited them for publication as the *Zollikon Seminars* (German 1987; English 2001). Where Binswanger built a theory of world-designs, Boss emphasised *Gelichtetheit*, openness: health is the capacity to let what meets us show itself, and illness is a closing-down of that openness. His *Psychoanalysis and Daseinsanalysis* (1957; English 1963) reinterpreted dreaming without Freud's censor and wish, and his *Grundriss der Medizin und der Psychologie* (1971; English as *Existential Foundations of Medicine and Psychology*, 1979) extended the approach from psychiatry to medicine as a whole.
 
 ## The Wider Circle
 
-Binswanger and Boss were not alone. Eugène Minkowski, working in France, described lived time in *Le Temps vécu* (1933) and showed how schizophrenia could be understood as a disturbance of the temporal flow of experience. Erwin Straus explored the senses and the lived body in *Vom Sinn der Sinne* (1935), and Victor von Gebsattel developed a medical anthropology in the same spirit. In the contemporary generation, Alice Holzhey-Kunz reformulated the tradition in *Leiden am Dasein* (1994), arguing that psychological suffering is suffering from one's own being — from the condition of being a Dasein at all — and that this "pre-ontological inclusion" of existence is what makes suffering intelligible.
+Binswanger and Boss were not alone. Eugène Minkowski, working in France, described lived time in *Le Temps vécu* (1933) and showed how schizophrenia could be understood as a disturbance of the temporal flow of experience. Erwin Straus explored the senses and the lived body in *Vom Sinn der Sinne* (1935), and Victor von Gebsattel developed a medical anthropology in the same spirit. In the contemporary generation, Alice Holzhey-Kunz reformulated the tradition in *Leiden am Dasein* (1994), arguing that psychological suffering is suffering from one's own being — from the condition of being a Dasein at all — and that such suffering can be understood only by taking seriously the patient's own pre-reflective sense of what existence is like.
 
 ## Method in Practice
 
@@ -55,7 +54,7 @@ The current's strongest achievement is the most precise description of pathologi
 - Ludwig Binswanger, *Grundformen und Erkenntnis menschlichen Daseins*, 1942.
 - Ludwig Binswanger, *Being-in-the-World: Selected Papers*, 1963.
 - Medard Boss, *Psychoanalysis and Daseinsanalysis*, 1963.
-- Eugène Minkowski, *Lived Time: Phenomenological and Psychopathological Studies*, 1933.
+- Eugène Minkowski, *Le Temps vécu*, 1933 (English: *Lived Time*, 1970).
 - Medard Boss, *Existential Foundations of Medicine and Psychology*, 1979.
 - Alice Holzhey-Kunz, *Leiden am Dasein: Die Daseinsanalyse und die Aufgabe einer Hermeneutik psychopathologischer Phänomene*, 1994.
 - Martin Heidegger, edited by Medard Boss, *Zollikon Seminars: Protocols, Conversations, Letters*, 2001.

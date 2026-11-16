@@ -16,7 +16,7 @@ gaps:[]
 
 # Psychoanalysis
 
-Psychoanalysis is the school that many founders of existential therapy came out of — and then broke with. Nearly every early existential therapist had first been trained as an analyst, and the break was never clean: it carried much of the old house with it — the seriousness about suffering, the attention to avoidance, and the conviction that the therapeutic relationship itself is material for the work. What changed was the explanation of suffering. Existential therapy is often misread as ignoring the unconscious; it reworks the psychoanalytic inheritance rather than discarding it.
+Psychoanalysis is the school that many founders of existential therapy came out of — and then broke with. Many early existential therapists had first been trained in psychoanalysis, and the break was never clean: it carried much of the old house with it — the seriousness about suffering, the attention to avoidance, and the conviction that the therapeutic relationship itself is material for the work. What changed was the explanation of suffering. Existential therapy is often misread as ignoring the unconscious; it reworks the psychoanalytic inheritance rather than discarding it.
 
 ## What Was Kept
 

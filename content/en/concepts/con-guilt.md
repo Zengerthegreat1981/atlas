@@ -14,7 +14,7 @@ related:
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
   - id: "thk-may", title: "Rollo May", type: "مفكر"
 gaps:
-  - "Textual passages for each formulation — not yet entered"
+  - "Primary-text passages for each thinker's formulation: not yet covered"
 ---
 
 # Guilt (Existentialist School View)
@@ -23,11 +23,11 @@ The forgotten concern. Absent from Yalom's fourfold classification, and present 
 
 ## Defining the Concept
 
-Not moral guilt over an act, but **existential guilt**: the feeling that you owe your life something you have not paid — the possibilities you did not live, the relationships you were not present in, the limits you did not respect.
+Not moral guilt over an act, but existential guilt: the feeling that you owe your life something you have not paid — the possibilities you did not live, the relationships you were not present in, the limits you did not respect.
 
 ## The Core Disagreements Within the Concept
 
-A disagreement over **whether the concept exists at all** in the classification: Jaspers and Tillich make it an independent axis, and Yalom dissolves it into responsibility. The result is that a reader of Yalom alone does not know that this concept has a history in the school.
+A disagreement over whether the concept exists at all in the classification: Jaspers and Tillich make it an independent axis, and Yalom dissolves it into responsibility. The result is that a reader of Yalom alone does not know that this concept has a history in the school.
 
 ## How It Appears in the Session
 
@@ -39,13 +39,13 @@ Confusing it with neurotic guilt (feeling bad about a specific act). The first p
 
 ## Example and Counter-Example
 
-**Example:** A woman of sixty feels a vague guilt not tied to any specific act, and the work with her reveals that it is existential guilt in the sense of Jaspers and Heidegger: her realisation that she has not realised many of her possible possibilities — she did not write the book she wanted to, did not travel, did not tell the truth to important people. The work here is not to absolve her but to help her act on the possibility that remains.
+Example: A woman of sixty feels a vague guilt not tied to any specific act, and the work with her reveals that it is existential guilt in the sense of Jaspers and Heidegger: her realisation that she has not realised many of her possible possibilities — she did not write the book she wanted to, did not travel, did not tell the truth to important people. The work here is not to absolve her but to help her act on the possibility that remains.
 
-**Counter-example:** A therapist tells a client suffering acute neurotic guilt after an actual marital betrayal that "guilt is part of the human condition, accept it and move beyond it," without addressing the specific act and its effect on the injured party. This is a philosophical generalisation that avoids confronting actual moral responsibility in the name of an existential concept deeper than it.
+Counter-example: A therapist tells a client suffering acute neurotic guilt after an actual marital betrayal that "guilt is part of the human condition, accept it and move beyond it," without addressing the specific act and its effect on the injured party. This is a philosophical generalisation that avoids confronting actual moral responsibility in the name of an existential concept deeper than it.
 
 ## What Cannot Be Inferred from This Concept
 
-It **does not mean** that every guilt — including guilt over actually harming another person — is merely a universal "existential guilt" to be philosophically transcended; this erases actual moral responsibility for the act and turns a structural concept into an excuse.
+It does not mean that every guilt — including guilt over actually harming another person — is merely a universal "existential guilt" to be philosophically transcended; this erases actual moral responsibility for the act and turns a structural concept into an excuse.
 
 Nor does it mean that existential therapy seeks to remove the feeling of guilt entirely — Jaspers considers it one of the limit situations that are not resolved but toward which a stance is taken, so the aim is a mature relationship with it, not getting rid of it.
 
@@ -53,19 +53,28 @@ Nor does it mean that existential therapy seeks to remove the feeling of guilt e
 
 The distinction between existential guilt (structural, tied to unrealised possibilities) and neurotic guilt (psychological, tied to a specific act) was formulated in a European context where guilt is essentially an individual concept. In the Arab-Islamic context, the concept of guilt is densely tied to a religious system (sin, repentance, seeking forgiveness) that has its own mechanisms of treatment (repentance as a religious act may resolve a feeling of guilt that abstract existential analysis does not).
 
-This creates a real entanglement: a devout Arab client may live a feeling of guilt that mixes the existential, the religious, and the neurotic in a single fabric that the Western framework does not easily separate. Ignoring the religious dimension in the analysis of guilt — by assuming it is always "generally existential" or "individually neurotic" — overlooks a real therapeutic resource (religious reconciliation) and may deprive the person of a framework that would have solved their problem faster than any imported philosophical analysis.
+This creates a real entanglement: a devout Muslim client may live a feeling of guilt that mixes the existential, the religious, and the neurotic in a single fabric that the Western framework does not easily separate. Ignoring the religious dimension in the analysis of guilt — by assuming it is always "generally existential" or "individually neurotic" — overlooks a real therapeutic resource (religious reconciliation) and may deprive the person of a framework that could be a real resource.
 
 ## Comparative Table
 
 | Thinker | His exact formulation | What follows in the room | His disagreement with others |
 |---|---|---|---|
-| Heidegger | Dasein is structurally "guilty": because every choice is a cancellation of other possibilities. You are not guilty because you erred but because you are limited. | Blame is removed from the feeling: it is the price of choosing, not evidence of error. | The formulation furthest from the common moral meaning. |
+| Heidegger | Dasein is structurally "guilty" (*Being and Time*, section 58): as a finite being it is the basis of a nullity, since every choice cancels other possibilities. You are not guilty because you erred but because you are limited. | Blame is removed from the feeling: it is the price of choosing, not evidence of error. | The formulation furthest from the everyday moral meaning. |
 | Jaspers | Guilt is one of the four limit situations. It is not resolved, and a stance is taken toward it. | Widens the circle of work: not death alone but guilt with it. | Its presence in Jaspers and absence in Yalom is one of the clearest differences between them. |
 | Tillich | The anxiety of guilt and condemnation is one of three, and its source is awareness of the distance between what I am and what I ought to be. | The distinction between guilt that moves and guilt that paralyses. | A theological framework that is hard to secularise. |
-| Rollo May | Three kinds: guilt toward my unlived possibilities, guilt toward those I could not understand, and guilt toward nature and being in general. | The most precise practical breakdown: which kind is at work here? Each kind has a different path. | The clearest formulation for direct use. |
+| Rollo May | Three kinds of ontological guilt: separation from nature, from other people, and from one's own potentialities. | The most precise practical breakdown: which kind is at work here? Each kind has a different path. | The clearest formulation for direct use. |
 | Bugental | Existential guilt appears as a chronic sense that life is passing and you are not in it. | Work on the gap between the lived life and the possible life. | Makes it a driver of the work, not a symptom. |
 | Yalom | He does not list it as an independent ultimate concern, and treats it within responsibility: the feeling of guilt toward the unlived life. | It is merged into the work on responsibility rather than singled out. | The absence is deliberate, and is one of the clearest differences between his classification and Jaspers' and Tillich's. |
 
 ## Scope and Relation to Neighbouring Entries
 
-This entry covers guilt as the existentialist school treats it, including why the concern is largely missing from some classifications. Heidegger’s specific notion of ontological guilt has its own entry, and the general psychology of guilt and shame is covered in Shame and Guilt.
+This entry covers guilt as the existentialist school treats it, including why the concern is largely missing from some classifications. Heidegger's specific notion of ontological guilt has its own entry, and the general psychology of guilt and shame is covered in Shame and Guilt.
+
+## Sources
+
+- Martin Heidegger, *Being and Time*, 1927, sections 54-60.
+- Karl Jaspers, *Philosophie*, 1932 (limit situations, including guilt).
+- Paul Tillich, *The Courage to Be*, Yale University Press, 1952.
+- Rollo May, Ernest Angel and Henri F. Ellenberger (eds.), *Existence: A New Dimension in Psychiatry and Psychology*, Basic Books, 1958.
+- James F. T. Bugental, *The Search for Authenticity*, Holt, Rinehart and Winston, 1965.
+- Irvin D. Yalom, *Existential Psychotherapy*, Basic Books, 1980.

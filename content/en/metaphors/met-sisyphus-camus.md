@@ -13,7 +13,7 @@ related:
   - id: "con-absurd", title: "The Absurd: Collision Without Resolution", type: "مفهوم"
   - id: "thk-camus", title: "Albert Camus: The Absurd and Revolt", type: "مفكر"
 gaps:
-  - "لم يُراجع بعد النص الأصلي الكامل لمقالة كامو 'أسطورة سيزيف' من مصدر محقق مباشر"
+  - "Page-level citations for the quoted passages: not yet covered"
 ---
 
 # Sisyphus: The Metaphor of the Absurd and Persistent Revolt

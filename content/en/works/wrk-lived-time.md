@@ -14,14 +14,12 @@ edges:
 related:
   - id: "thk-minkowski", title: "Eugène Minkowski", type: "مفكر"
   - id: "rel-phenopath", title: "Phenomenological Psychopathology", type: "علاقة"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # Lived Time: Phenomenological and Psychopathological Studies
 
-*Le Temps vécu: études phénoménologiques et psychopathologiques* (1933), by the French psychiatrist Eugène Minkowski, is the most precise description of the collapse of time in mental illness ever written, and a model of what phenomenology can do in the clinic. Minkowski's claim is that human beings do not live in clock time — homogeneous, measurable, divisible — but in a lived time that has direction, extension, and a rhythm of its own, changing with the person's existential state. Mental disorder, on this view, is not first a defect in an isolated function but a primary break in this living temporal structure, with the familiar symptoms appearing as secondary expressions of it. The book was published in Paris in 1933 and translated into English as *Lived Time* by Nancy Metzel in 1970. It is a founding text of French phenomenological psychopathology, and it remains almost unknown in Arabic — one of the clearest gaps in the transmission of this tradition.
+*Le Temps vécu: études phénoménologiques et psychopathologiques* (1933), by the French psychiatrist Eugène Minkowski, is one of the most influential descriptions of the disturbance of time in mental illness, and a model of what phenomenology can do in the clinic. Minkowski's claim is that human beings do not live in clock time — homogeneous, measurable, divisible — but in a lived time that has direction, extension, and a rhythm of its own, changing with the person's existential state. Mental disorder, on this view, is not first a defect in an isolated function but a primary break in this living temporal structure, with the familiar symptoms appearing as secondary expressions of it. The book was published in Paris in 1933 and translated into English as *Lived Time* by Nancy Metzel in 1970. It is a founding text of French phenomenological psychopathology.
 
 ## The Idea: Time as the Face of Life
 
@@ -37,7 +35,7 @@ The clinical heart of the book is the contrast between two temporal breakdowns. 
 
 ## Author and Context
 
-Minkowski was born in St Petersburg in 1885, grew up in Warsaw, studied medicine in Munich and then in Zurich, where he worked in Eugen Bleuler's clinic. After settling in France he became one of the founders of the group *L'Évolution psychiatrique*, in whose series *Le Temps vécu* appeared. The book was published in 1933 in the middle of a wider European movement to bring phenomenology — Husserl, then Heidegger — into psychiatry, a movement that also included Ludwig Binswanger and Erwin Straus. Its influence was direct on the next generation of French phenomenological psychiatrists, notably Arthur Tatossian and Henri Ey, but it spread slowly outside francophone circles compared with Binswanger's German works, which partly explains its weak presence in other languages.
+Minkowski was born in St Petersburg in 1885, grew up in Warsaw, studied medicine in Munich and then in Zurich, where he worked in Eugen Bleuler's clinic. After settling in France he became one of the founders of the group *L'Évolution psychiatrique*, in whose series *Le Temps vécu* appeared. The book was published in 1933 in the middle of a wider European movement to bring phenomenology — Husserl, then Heidegger — into psychiatry, a movement that also included Ludwig Binswanger and Erwin Straus. Its influence was direct on the next generation of French phenomenological psychiatrists, notably Arthur Tatossian and Henri Ey, but it spread slowly outside francophone circles compared with Binswanger's German works.
 
 ## Later Influence
 

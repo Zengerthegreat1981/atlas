@@ -15,14 +15,12 @@ related:
   - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
   - id: "thk-holzhey", title: "Alice Holzhey-Kunz", type: "مفكرة"
   - id: "wrk-concept-anxiety", title: "The Concept of Anxiety: Freedom, Dread, and the Possibility of Sin", type: "عمل / كتاب"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # The Sickness unto Death (Sygdommen til Døden)
 
-*The Sickness unto Death* (1849), by Søren Kierkegaard, is the most precise analysis of despair ever written in any tradition — and the least present in psychological writing. Published in Copenhagen in 1849 by C. A. Reitzel, it appeared under the pseudonym Anti-Climacus, with Kierkegaard named on the title page only as its publisher, not its author. The pseudonym is not decoration: Kierkegaard used "Climacus" for a position below his own and "Anti-Climacus" for a position above it — a Christian of a strangely high order speaking from a place Kierkegaard did not claim to occupy himself. The book's extreme demands are therefore to be read as a deliberately elevated measure, not as personal confession. It is one of the last works Kierkegaard published in his lifetime, five years after *The Concept of Anxiety* (1844), and its subtitle states its purpose: "A Christian Psychological Exposition for Upbuilding and Awakening".
+*The Sickness unto Death* (1849), by Søren Kierkegaard, is one of the most penetrating analyses of despair in the philosophical tradition, and is surprisingly little used in psychological writing. Published in Copenhagen in 1849 by C. A. Reitzel, it appeared under the pseudonym Anti-Climacus, with Kierkegaard named on the title page only as its publisher, not its author. The pseudonym is not decoration: Kierkegaard used "Climacus" for a position below his own and "Anti-Climacus" for a position above it — a Christian of a strangely high order speaking from a place Kierkegaard did not claim to occupy himself. The book's extreme demands are therefore to be read as a deliberately elevated measure, not as personal confession. It is one of the last works Kierkegaard published in his lifetime, five years after *The Concept of Anxiety* (1844), and its subtitle states its purpose: "A Christian Psychological Exposition for Upbuilding and Awakening".
 
 ## The Self as a Relation
 
@@ -38,11 +36,11 @@ The book is in two parts. The first, "The Sickness unto Death Is Despair", defin
 
 ## Reception and Influence
 
-The book remained almost unknown outside Denmark until the translations of the twentieth century, a delay that explains its absence from the beginnings of clinical psychology. In English, Walter Lowrie's translation (Princeton, 1941) first introduced it, and the translation by Howard V. Hong and Edna H. Hong in *Kierkegaard's Writings XIX* (Princeton, 1980) became the standard text; Alastair Hannay added another translation (Penguin, 1989). In theology and philosophy, Paul Tillich took its analysis of despair as the basis for his distinction between existential and neurotic anxiety in *The Courage to Be* (1952). In psychology, Ernest Becker built *The Denial of Death* (1973) explicitly on its first part, reading the despair of finitude as the price of living inside a "hero project" that hides mortality. In existential therapy, Alice Holzhey-Kunz's thesis of the symptom as a hypersensitivity to existential truth descends directly from this text: the symptom, for her, is not a defect of perception but an excess of perceiving what other people avoid.
+The book remained almost unknown outside Denmark until the translations of the twentieth century, a delay that explains its absence from the beginnings of clinical psychology. In English, Walter Lowrie's translation (Princeton, 1941) first introduced it, and the translation by Howard V. Hong and Edna H. Hong in *Kierkegaard's Writings XIX* (Princeton, 1980) became the standard text; Alastair Hannay added another translation (Penguin, 1989). In theology and philosophy, Paul Tillich drew on Kierkegaard's analysis of anxiety and despair in *The Courage to Be* (1952). In psychology, Ernest Becker's *The Denial of Death* (1973) draws on Kierkegaard's account of the self and of despair, and on his own account of the "hero project" that hides mortality. In existential therapy, Alice Holzhey-Kunz's Daseinsanalytic view of the symptom as a form of suffering from existential truths that others avoid also draws on this tradition.
 
 ## Why It Is Neglected
 
-The book is the least present of the existential works in psychological writing precisely because it is the most theologically committed. It is harder to secularise without distortion than *The Concept of Anxiety*, and the second part's identification of despair with sin resists the translation into clinical language that readers want. Its reception in Kierkegaard's own lifetime and in the decades immediately after (1849–1900) is also poorly documented, with few named reviewers to cite. No Arabic translation has been established. But the book's place in the Atlas is secure: it is a phenomenology of despair that precedes clinical psychology by half a century, describing what no symptom list describes — the structure of a self misrelated to itself — and it remains the root from which the existential understanding of the symptom grows.
+The book is the least present of the existential works in psychological writing precisely because it is the most theologically committed. It is harder to secularise without distortion than *The Concept of Anxiety*, and the second part's identification of despair with sin resists the translation into clinical language that readers want. But the book's place in the Atlas is secure: it is a phenomenology of despair that precedes clinical psychology by half a century, describing what no symptom list describes — the structure of a self misrelated to itself — and it remains the root from which the existential understanding of the symptom grows.
 
 ## Sources
 

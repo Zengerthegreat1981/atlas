@@ -15,14 +15,12 @@ related:
   - id: "thk-boss", title: "Medard Boss", type: "مفكر"
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"
   - id: "wrk-being-time", title: "Being and Time: Dasein, Temporality, and Being-toward-Death", type: "عمل"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # Zollikon Seminars: Protocols — Conversations — Letters
 
-The *Zollikon Seminars* are the only occasion in the history of the existential school when the philosopher himself sat down with physicians to explain what he meant. They are not a book Heidegger wrote. They are seminars he gave between 1959 and 1969 to psychiatrists, at the house of the Swiss psychiatrist Medard Boss in Zollikon, near Zurich, edited by Boss and published in German in 1987 — eleven years after Heidegger's death in 1976 — with the protocols of the sessions, private conversations, and correspondence between the two men added. The English translation by Franz Mayr and Richard Askay appeared in 2001. The volume is the primary source for the philosophy behind existential analysis, and the document appealed to in the dispute between Boss and Ludwig Binswanger over who had understood Heidegger correctly.
+The *Zollikon Seminars* are a rare occasion in the history of the existential school when a major philosopher sat down with physicians over many years to explain what he meant. They are not a book Heidegger wrote. They are seminars he gave between 1959 and 1969 to psychiatrists, at the house of the Swiss psychiatrist Medard Boss in Zollikon, near Zurich, edited by Boss and published in German in 1987 — eleven years after Heidegger's death in 1976 — with the protocols of the sessions, private conversations, and correspondence between the two men added. The English translation by Franz Mayr and Richard Askay appeared in 2001. The volume is the primary source for the philosophy behind existential analysis, and the document appealed to in the dispute between Boss and Ludwig Binswanger over who had understood Heidegger correctly.
 
 ## How the Seminars Came About
 
@@ -38,7 +36,7 @@ Four themes in the seminars matter most for clinical work. The first is the crit
 
 ## Boss, Binswanger, and the Dispute
 
-Boss built on the seminars in his own formulation of *Daseinsanalyse*, presented in *Grundriss der Medizin und Psychologie* (1971), translated into English as *Existential Foundations of Medicine and Psychology* (1979). The seminars are the document appealed to in his dispute with Binswanger, who had been the first to carry *Being and Time* into psychiatry. Heidegger objected that Binswanger read *Dasein* as an anthropological theory of the subject, adding care (*Sorge*) and then love and the I–Thou relation as if they belonged to the analysis. Binswanger himself later acknowledged that his reading had been a "productive misunderstanding". The seminars are thus not only a philosophical text but a piece of evidence in the genealogy of existential therapy: they show where Boss's version of the tradition comes from, and why it differs from Binswanger's.
+Boss built on the seminars in his own formulation of *Daseinsanalyse*, presented in *Grundriss der Medizin und Psychologie* (1971), translated into English as *Existential Foundations of Medicine and Psychology* (1979). The seminars are the document appealed to in his dispute with Binswanger, who had been the first to carry *Being and Time* into psychiatry. Heidegger objected that Binswanger read *Dasein* as an anthropological theory of the subject, adding care (*Sorge*) and then love and the I–Thou relation as if they belonged to the analysis. Heidegger regarded Binswanger's use of his work as a misunderstanding of it. The seminars are thus not only a philosophical text but a piece of evidence in the genealogy of existential therapy: they show where Boss's version of the tradition comes from, and why it differs from Binswanger's.
 
 ## Reception and Limits
 

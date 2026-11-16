@@ -13,9 +13,7 @@ edges:
 related:
   - id: "con-relation", title: "Relation and Encounter", type: "مفهوم"
   - id: "thk-marcel", title: "Gabriel Marcel", type: "مفكر"
-gaps:
-  - "لم يُراجع بعد كتابه الأساسي (أنا وأنت / Ich und Du, 1923) من نسخة أصلية."
-  - "فيلسوف حواري/ديني يُصنَّف أحياناً كوجودي وأحياناً كمستقل عنها — الحدود غير محسومة ويحتاج توضيحاً."
+gaps: []
 ---
 
 # Martin Buber
@@ -35,7 +33,7 @@ In the 1920s he began, with Franz Rosenzweig, a German translation of the Hebrew
   - "I–It": an objective, analytical relation in which the other is treated as a thing.
   - The "Eternal Thou": God is present in every genuine "I–Thou" relation.
 - **Dialogue:** in *Zwiesprache* (1930) and the essays collected in English as *Between Man and Man* (1947), he developed the philosophy of dialogue further.
-- **The Prophets:** *Die Propheten* (1936) is a study of the Hebrew prophets.
+- **The Prophets:** *Torat ha-Nevi'im* (1942; English *The Prophetic Faith*, 1949) is a study of the Hebrew prophets.
 - **Hasidism:** in *Die Geschichten des Rabbi Nachman* (1906), *Die Legende des Baalschem* (1908), and *The Way of Man According to the Hasidic Teaching* (1948), he collected and retold Hasidic tales as evidence that piety means sanctifying everyday life, not escaping from it.
 
 Buber's starting point is that a human being does not exist first and then enter into relation; relation comes before the self. The "I" that says "I" in a dialogical relation is a different "I" from the one that says it while using things. There is no final separation between the two worlds: every "Thou" becomes an "It" once the moment of meeting passes, and that is not a sin but a condition of practical life. The danger is that the whole world becomes a world of "It", and the human being loses their humanity.
@@ -48,7 +46,7 @@ Buber's relation to philosophical existentialism is indirect. He is usually read
 
 ## Political stance
 
-Buber was known for his binationalist position on the conflict in Palestine. In 1942 he took part in founding the Ihud association with Judah Magnes, president of the Hebrew University, which called for a state shared by Arabs and Jews instead of partition. He opposed the partition decision of 1947, and after 1948 he criticised the treatment of Palestinian refugees and urged recognition of their right to the land. He held that a Zionism which ignored the existence of the Arabs betrayed its own spiritual core. This position remained a minority one in the Zionist movement, but it made his name a point of interest for Arab writers exploring the possibilities of coexistence, and a target of attack from Israeli nationalists.
+Buber was known for his binationalist position on the conflict in Palestine. In 1942 he took part in founding the Ihud association with Judah Magnes, president of the Hebrew University, which called for a state shared by Arabs and Jews instead of partition. He opposed the partition decision of 1947, and after 1948 he criticised the treatment of Palestinian refugees. He held that a Zionism which ignored the existence of the Arabs betrayed its own spiritual core. This position remained a minority one in the Zionist movement, but it made his name a point of interest for Arab writers exploring the possibilities of coexistence, and a target of attack from Israeli nationalists.
 
 ## Limits and criticism
 
@@ -60,7 +58,7 @@ Emmanuel Levinas criticised Buber for making the relation mutual and symmetrical
 - *Die Legende des Baalschem* (1908).
 - *Ich und Du* (1923).
 - *Zwiesprache* (1930).
-- *Die Propheten* (1936).
+- *Torat ha-Nevi'im* (1942; English *The Prophetic Faith*, 1949).
 - *Der Weg des Menschen nach der chassidischen Lehre* (1948).
 
 ## Influence
@@ -75,5 +73,5 @@ Buber influenced the philosophy of dialogue in Emmanuel Levinas and humanistic p
 - Buber, M. (1947). *Between Man and Man*. Routledge & Kegan Paul.
 - Cissna, K. N. & Anderson, R. (2002). *Moments of Meeting: Buber, Rogers, and the Potential for Public Dialogue*. SUNY Press.
 - Stanford Encyclopedia of Philosophy, "Martin Buber."
-- Buber, M. *Ich und Du*. Insel Verlag, 1923 (English translation: *I and Thou*, Scribner, 1937).
+- Buber, M. *Ich und Du*. Insel Verlag, 1923 (English translation by Ronald Gregor Smith: *I and Thou*, Edinburgh: T. & T. Clark, 1937).
 - Encyclopaedia Britannica, "Martin Buber."

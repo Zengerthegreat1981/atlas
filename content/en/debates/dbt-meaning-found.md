@@ -26,11 +26,11 @@ Viktor Frankl argued that every situation holds a latent meaning waiting to be d
 
 ## The Secular Position — Meaning Is Created
 
-Irvin Yalom stated the opposing view in *Existential Psychotherapy* (1980), in the chapter on meaninglessness. The cosmos is silent and gives no meaning ready-made; existential emptiness is not an illness but an accurate description of the position of a being thrown into a universe without a prior design. Meaning is made — by commitment and engagement in a project that reaches beyond the self — and it can be made, collapse, and be made again. Yalom criticised Frankl's directive tendency explicitly, arguing that imposing a "latent meaning" on the client risks denying the client's freedom to build her own meaning. On this view, the therapist's role is to accompany the client in the making, not to point at what is already there. The position descends from Sartre and from the secular wing of existential philosophy, for which the absence of given meaning is the starting point of freedom rather than a problem to be solved.
+Irvin Yalom stated the opposing view in *Existential Psychotherapy* (1980), in the chapter on meaninglessness. The cosmos is silent and gives no meaning ready-made; existential emptiness is not an illness but an accurate description of the position of a being thrown into a universe without a prior design. Meaning is made — by commitment and engagement in a project that reaches beyond the self — and it can be made, collapse, and be made again. Yalom was sceptical of the idea of a ready-made "latent meaning", and on this side of the debate imposing one on the client risks denying the client's freedom to build her own meaning. On this view, the therapist's role is to accompany the client in the making, not to point at what is already there. The position descends from Sartre and from the secular wing of existential philosophy, for which the absence of given meaning is the starting point of freedom rather than a problem to be solved.
 
 ## The Effect in the Session
 
-The difference is visible in the room. A therapist who believes meaning is discovered may guide, propose, and stimulate — which is what the meaning branch does in practice, using Socratic dialogue to lead the client toward the latent meaning of the situation. A therapist who believes meaning is created regards guidance as tutelage and confines herself to accompanying the client in the making. The dispute also explains an asymmetry that is often noticed but rarely explained: it is the meaning branch alone, among existential currents, that possesses standardised interventions and empirical evidence. A directive intervention can be manualised and measured; non-directive accompaniment cannot, which is why the evidence debate and the meaning debate are the same argument seen from two sides.
+The difference is visible in the room. A therapist who believes meaning is discovered may guide, propose, and stimulate — which is what the meaning branch does in practice, using Socratic dialogue to lead the client toward the latent meaning of the situation. A therapist who believes meaning is created regards guidance as tutelage and confines herself to accompanying the client in the making. The dispute also explains an asymmetry that is often noticed but rarely explained: it is largely the meaning branch, among existential currents, that possesses standardised interventions and a body of empirical evidence. A directive intervention can be manualised and measured; non-directive accompaniment cannot, which is why the evidence debate and the meaning debate are the same argument seen from two sides.
 
 ## Is There a Middle Way?
 
@@ -40,10 +40,9 @@ The debate also touches the question of who the therapist serves. If meaning is 
 
 ## Sources
 
-- Viktor E. Frankl, *Ein Psycholog erlebt das Konzentrationslager*, 1946.
+- Viktor E. Frankl, *Ein Psychologe erlebt das Konzentrationslager*, 1946.
 - Viktor E. Frankl, *Man's Search for Meaning*, 1959.
 - Jean-Paul Sartre, *Being and Nothingness*, 1943.
 - Irvin D. Yalom, *Existential Psychotherapy*, 1980.
 - Viktor E. Frankl, *The Will to Meaning*, 1969.
-- Alfried Längle, *Existential Analysis*, in *The Wiley World Handbook of Existential Therapy*, 2019.
 - Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, 1988; 3rd ed., 2012.

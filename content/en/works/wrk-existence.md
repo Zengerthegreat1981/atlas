@@ -16,14 +16,12 @@ related:
   - id: "br-humanistic", title: "Existential-Humanistic", type: "تيار"
   - id: "thk-angel", title: "Ernest Angel", type: "مفكر"
   - id: "thk-ellenberger", title: "Henri F. Ellenberger", type: "مفكر"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # Existence: A New Dimension in Psychiatry and Psychology
 
-*Existence: A New Dimension in Psychiatry and Psychology* (1958) is the book that carried the existential school from German and French into English. Without it, there is no American current. It is an edited volume, published in New York by Basic Books in 1958 under the editorship of Rollo May, Ernest Angel, and Henri F. Ellenberger — and its importance lies not in original content but in the act of transmission itself. Everything that followed in America passed through here. The volume presents to an American reader a current that had existed in Europe for decades: the *Daseinsanalyse* of Ludwig Binswanger, the phenomenological psychopathology of Eugène Minkowski, Viktor von Gebsattel, Erwin Straus, and others. It is a composite volume, not a continuous argument by a single author, and nothing written by one editor should be attributed to the others.
+*Existence: A New Dimension in Psychiatry and Psychology* (1958) is the book that did most to carry European existential psychiatry into English. It is an edited volume, published in New York by Basic Books in 1958 under the editorship of Rollo May, Ernest Angel, and Henri F. Ellenberger — and its importance lies not in original content but in the act of transmission itself. The volume presents to an American reader a current that had existed in Europe for decades: the *Daseinsanalyse* of Ludwig Binswanger, the phenomenological psychopathology of Eugène Minkowski, Viktor von Gebsattel, Erwin Straus, and others. It is a composite volume, not a continuous argument by a single author, and nothing written by one editor should be attributed to the others.
 
 ## The Implicit Claim
 
@@ -43,7 +41,7 @@ The volume was received as the principal gateway through which European existent
 
 ## Limits and Standing Today
 
-The volume offers no complete therapeutic method: it is a theoretical introduction and a display of cases, and it was later completed by works such as Yalom's *Existential Psychotherapy* (1980), which formulated a clearer therapeutic frame. Its value today is as a historical document — the record of the moment a tradition changed language. In Arabic, existential philosophy was known through Abd al-Rahman Badawi, in *Existential Time* (1943) and *Studies in Existential Philosophy* (1961), but existential psychiatry had a weaker Arab presence, and no established Arabic translation of this volume exists; the translation of existential terms in Arabic varies between *kaynuna*, *wujud*, and *Dasein*, and should be documented against the English original. As a document, *Existence* remains the essential source for anyone who wants to see the moment of transfer.
+The volume offers no complete therapeutic method: it is a theoretical introduction and a display of cases, and it was later completed by works such as Yalom's *Existential Psychotherapy* (1980), which formulated a clearer therapeutic frame. Its value today is as a historical document — the record of the moment a tradition changed language. In the Arabic-speaking world, existential philosophy was introduced largely through Abd al-Rahman Badawi, in *Existential Time* (1943) and *Studies in Existential Philosophy* (1961). As a document, *Existence* remains the essential source for anyone who wants to see the moment of transfer.
 
 ## Sources
 

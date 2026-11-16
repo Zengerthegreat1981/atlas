@@ -257,7 +257,7 @@ UI_STRINGS_EN = os.path.join(TEMPLATE_DIR, "ui_strings_en.json")
 
 
 TYPE_EN = {
-    "دراسة": "Study", "عمل": "Work", "عمل / كتاب": "Work / Book", "تقنية/تدخل علاجي": "Technique / therapeutic intervention",
+    "دراسة": "Study", "عمل": "Work", "عمل / كتاب": "Work / Book", "عمل / مقالة": "Work / Article", "تقنية/تدخل علاجي": "Technique / therapeutic intervention",
     "سياق/تقليد": "Context / tradition", "اضطراب/حالة إكلينيكية": "Disorder / clinical condition",
     "أداة قياس": "Measurement instrument", "علاقة بين مدرستين": "Relation between two schools",
     "دراسة وبحث": "Study and research", "بديهية/مبدأ تأسيسي": "Axiom / founding principle",

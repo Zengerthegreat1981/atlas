@@ -1,0 +1,36 @@
+---
+slug: "sch-leibnizianism"
+id: "SCH-0181"
+type: "مدرسة"
+part: "philosophy"
+level: "متقدم"
+title: "Leibnizianism"
+en: "Leibnizianism"
+crumb: "Philosophy ← Schools ← Leibnizianism"
+dates: "Germany (Leipzig, Hanover, Berlin), France, the Netherlands, England · from the 17th century CE to the early 19th century"
+country: "Germany, France, the Netherlands, England"
+language: "French, Latin, German"
+cultural_origin: "european"
+active_start: 1680
+active_end: 1831
+edges:
+- rel: "belongs_to", target: "Continental Rationalism", target_type: "مدرسة"
+- rel: "evolved_from", target: "Cartesianism", target_type: "مدرسة"
+- rel: "evolved_from", target: "Second Salamanca Scholasticism", target_type: "تيار"
+related:
+- id: "sch-cartesianism", title: "Cartesianism", type: "مدرسة"
+- id: "sch-spinozism", title: "Spinozism", type: "مدرسة"
+- id: "sch-continental-rationalism", title: "Continental Rationalism (as an umbrella)", type: "مدرسة"
+- id: "sch-occasionalism", title: "Occasionalism", type: "مدرسة"
+- id: "con-monad", title: "Monads (Monades)", type: "مفهوم"
+- id: "br-leibnizian-wolffian-enlightenment", title: "Leibnizian-Wolffian Philosophy — The German Enlightenment", type: "تيار"
+- id: "axi-principle-of-sufficient-reason", title: "The Principle of Sufficient Reason", type: "بديهية/مبدأ تأسيسي"
+- id: "thk-christian-wolff", title: "Christian Wolff", type: "مفكر"
+- id: "con-pre-established-harmony", title: "Pre-established Harmony", type: "مفهوم"
+gaps:
+  - "**Isolated nodes linked on 2026-09-08:** references were added here to 4 nodes that no file pointed to, which made them unreachable by navigation. Each reference is the inverse of a relation the repository already confirms (authorship, membership, or an outgoing link from the node itself); none was invented."
+  - "Leibniz's texts in French, Latin and German need review against the primary sources."
+  - "The 'Monadologie' (1714) and the 'Théodicée' (1710) are not quoted verbatim in this draft."
+  - "The distinction between 'Leibnizianism' and 'Wolffianism' is historically contested."
+---
+

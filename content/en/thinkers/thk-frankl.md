@@ -22,7 +22,7 @@ gaps: []
 
 # Viktor Frankl: Will to Meaning
 
-Viktor Frankl (1905–1997) is the author of the most widely read text in existential thought and the founder of the only existential school that places meaning at its center. His *Man's Search for Meaning*, born from his experiences in Nazi concentration camps, has profoundly influenced existential psychology and pastoral care worldwide.
+Viktor Frankl (1905–1997) was a Viennese neurologist and psychiatrist and the founder of logotherapy, an existentially oriented approach that places meaning at its center. He survived Theresienstadt, Auschwitz and two further camps. His *Man's Search for Meaning*, born from his experiences in Nazi concentration camps, has profoundly influenced existential psychology and pastoral care worldwide.
 
 ## Core Thesis: Will to Meaning, Not Will to Power or Pleasure
 
@@ -53,7 +53,7 @@ Unlike most existential approaches, Frankl's logotherapy generated named, replic
 - **Paradoxical Intention** — Rather than fighting symptoms, one adopts them with ironic distance, which often dissolves their grip
 - **Dereflection** — Rather than obsessively analyzing one's psychological state, one redirects attention outward toward meaningful engagement
 
-Logotherapy is the only existential school that developed *applied techniques*—concrete procedures teachable and testable. This accessibility is both its strength (empirical validation possible) and, to some critics, its liability (risks reductionism).
+Unlike many existential approaches, logotherapy offered named, teachable procedures. This accessibility is both a strength (empirical testing is possible) and, for some critics, a liability (a risk of reductionism). These are descriptions of the approach, not instructions for self-treatment.
 
 ## Criticisms and Tensions
 
@@ -65,27 +65,27 @@ Logotherapy is the only existential school that developed *applied techniques*�
 
 ## Legacy and Current Relevance: Meaning-Centered Care in Palliative Medicine
 
-Frankl's greatest empirical success has come not in general psychotherapy but in **meaning-centered care within palliative and hospice medicine**, where his framework provides a robust philosophy for end-of-life support. This is currently the strongest empirically-validated branch of existential therapy.
+Frankl's ideas have been taken up most visibly in **meaning-centered care within palliative and hospice medicine**, where later meaning-centered psychotherapies drawing on his framework have been studied in clinical trials. Evidence for logotherapy itself is more modest and mixed.
 
 His work has influenced trauma therapy, grief counseling, and existential approaches to chronic illness, where the reframing from "cure" to "meaning in limitation" proves therapeutically valuable.
 
 ## Major Works
 
-- **Man's Search for Meaning** (*Ein Sinn dem Leben / …trotzdem Ja zum Leben sagen*, 1946) — Memoir and philosophical reflection on surviving concentration camps; now the most widely circulated existential text
+- **Man's Search for Meaning** (*...trotzdem Ja zum Leben sagen*, 1946; first English edition 1959) — Memoir and philosophical reflection on surviving concentration camps
 - **The Doctor and the Soul** (*Ärztliche Seelsorge*, 1946) — Application of logotherapy to medical practice
-- **The Will to Meaning** (*Der Wille zum Sinn*, 1969) — Systematic philosophical exposition of logotherapy
+- **The Will to Meaning** (English 1969; German *Der Wille zum Sinn*, 1972) — Systematic philosophical exposition of logotherapy
 - **The Unconscious God** (*Der unbewusste Gott*, 1948) — Addresses the spiritual and religious implications of logotherapy
 
 ## Selected Quotations
 
 > "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one's attitude in any given set of circumstances." — *Man's Search for Meaning* (1946)
 
-> "He who has a Why to live can bear almost any How." — *Man's Search for Meaning* (adapted from Nietzsche and applied to existential survival)
+> "He who has a why to live for can bear almost any how." — Nietzsche, as cited by Frankl in *Man's Search for Meaning*
 
 > "Freedom, however, is not the last word. Freedom is only part of the story and half of the truth. Freedom is but the negative aspect of the whole phenomenon whose positive aspect is responsibleness." — *Man's Search for Meaning*
 
 ## Sources
 
-- Frankl, Viktor E. *Man's Search for Meaning*. Translated by Ilse Lasch. Beacon Press, 1959.
-- Frankl, Viktor E. *The Will to Meaning: Foundations and Applications of Logotherapy*. Translated by Hertha Filar. Penguin Books, 1988.
-- Pattakos, Alex & Elaine Dundon. *The OPA! Way: Finding Joy & Meaning in Everyday Life & Work*. Applause, 2010. [Application of Frankl's principles]
+- Frankl, Viktor E. *Man's Search for Meaning*. Translated by Ilse Lasch. Boston: Beacon Press (first English edition 1959 under the title *From Death-Camp to Existentialism*).
+- Frankl, Viktor E. *The Doctor and the Soul*. Translated by Richard and Clara Winston. New York: Knopf, 1955.
+- Frankl, Viktor E. *The Will to Meaning: Foundations and Applications of Logotherapy*. New York: World Publishing, 1969.

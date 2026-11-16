@@ -14,9 +14,7 @@ edges:
 related:
   - id: "thk-cooper", title: "Mick Cooper", type: "مفكر"
   - id: "dbt-evidence", title: "Should We Demand Empirical Evidence?", type: "جدل"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # Existential Therapies
@@ -33,11 +31,11 @@ The book's core is a chapter on each of the main approaches. Daseinsanalysis, th
 
 ## Structure and Method
 
-The second edition keeps the first edition's architecture — an introduction, a chapter on the shared philosophical grounding, a chapter on each approach, and a closing chapter on evidence and challenges — but updates it in two notable ways. It adds a fictional case study, Siân, whose presentation is described in the introduction and revisited in each chapter, so that the reader can see how the same client would be understood and worked with differently by each approach. It also adds a wholly new final chapter in which Cooper revisits the questions with which he ended the first edition, including the challenge of evidence and the field's relationship to mainstream psychology.
+The book has an introductory section, a chapter on the shared philosophical grounding, a chapter on each approach, and closing discussion of evidence and challenges facing the field. The second edition revises and updates this structure in light of the research and training developments of the intervening years.
 
 ## Evidence
 
-One of the book's most discussed contributions is its treatment of research evidence. Cooper has followed this question beyond the book itself, and the text reports the meta-analysis he conducted with Joel Vos and Mick Craig, published in 2015, which found that existential therapies show moderate positive effects compared with no treatment, with stronger effects for people with cancer and chronic illness — while warning that the quality of the underlying studies is limited. The book is frank that existential therapy still lacks the base of randomised controlled trials that cognitive-behavioural therapy can point to, and that this remains the field's most persistent vulnerability. The discussion is even-handed: Cooper neither dismisses the demand for evidence nor pretends that the evidence already settles the question. The debate belongs to the field as a whole, but the book is where most students first meet it in a form they can use.
+One of the book's most discussed contributions is its treatment of research evidence. Cooper has followed this question beyond the book itself, and the meta-analysis conducted by Joel Vos, Mick Craig, and Cooper, published in 2015, which found that existential therapies show moderate positive effects compared with no treatment, with stronger effects for people with cancer and chronic illness — while warning that the quality of the underlying studies is limited. The book is frank that existential therapy still lacks the base of randomised controlled trials that cognitive-behavioural therapy can point to, and that this remains the field's most persistent vulnerability. The discussion is even-handed: Cooper neither dismisses the demand for evidence nor pretends that the evidence already settles the question. The debate belongs to the field as a whole, but the book is where most students first meet it in a form they can use.
 
 ## Reception and Limits
 

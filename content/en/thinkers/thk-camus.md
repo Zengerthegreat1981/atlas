@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Albert Camus: The Absurd and Revolt"
 en: "Albert Camus"
 crumb: "Existentialism ← Thinkers ← Albert Camus"
-dates: "France · 1913–1960"
+dates: "Algeria / France · 1913–1960"
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
@@ -21,7 +21,7 @@ gaps: []
 
 # Albert Camus: The Absurd and Revolt
 
-Albert Camus (1913–1960) rejected the existentialist label, yet articulated with unusual clarity the philosophical position from which existentialism proceeds: the confrontation between human need for meaning and the cosmos's indifference to that need. His work is foundational to understanding how the existential schools diverged in their responses to meaninglessness.
+Albert Camus (1913–1960), born in French Algeria and awarded the Nobel Prize in Literature in 1957, rejected the existentialist label, yet articulated with unusual clarity the philosophical position from which existentialism proceeds: the confrontation between human need for meaning and the cosmos's indifference to that need. His work is foundational to understanding how the existential schools diverged in their responses to meaninglessness.
 
 ## The Absurd: A Relation, Not a Property
 
@@ -39,7 +39,7 @@ However, Camus rejects both obvious answers. **Suicide** is merely escape, not s
 
 Camus's own solution: live despite the absurd, neither denying it nor seeking false comfort. This is rebellion—not violent, but philosophical: a clear-eyed refusal to accept either despair or delusion.
 
-His famous image: Sisyphus, condemned to roll a boulder uphill eternally, must be imagined happy. Not because his burden lightens, but because he has **come to know it**—his awareness transforms his bondage into a kind of freedom. The point is not escape but acceptance without resignation.
+His famous image: Sisyphus, condemned to roll a boulder uphill eternally, whom we must imagine happy. Not because his burden lightens, but because he has **come to know it**—his awareness transforms his bondage into a kind of freedom. The point is not escape but acceptance without resignation.
 
 ## Therapeutic Value: Containment Without Resolution
 
@@ -49,7 +49,7 @@ The value lies in *tolerating* the emptiness without immediately filling it with
 
 ## His Singular Position: Neither Kierkegaard nor Frankl
 
-Camus rejects both Kierkegaard's leap of faith (accepting the absurd through religious transcendence) and Frankl's discovered meaning (finding actual meaning within life's constraints). He stands nearly alone within existential thought in this refusal: he will not resolve the absurd, only inhabit it consciously.
+Camus rejects Kierkegaard's leap of faith (accepting the absurd through religious transcendence), and his position also differs from Frankl's later emphasis on discovered meaning (finding actual meaning within life's constraints). He stands nearly alone within existential thought in this refusal: he will not resolve the absurd, only inhabit it consciously.
 
 This makes him methodologically closer to radical phenomenology than to therapeutic existentialism—description without prescription.
 
@@ -66,14 +66,13 @@ Camus's famous 1952 break with Sartre was primarily **political** (over Marxism 
 
 ## Selected Quotations
 
-> "We must imagine Sisyphus happy." — *The Myth of Sisyphus* (1942)
+> "One must imagine Sisyphus happy." — *The Myth of Sisyphus* (1942)
 
 > "There is but one truly serious philosophical problem, and that is suicide." — *The Myth of Sisyphus* (1942)
-
-> "One must imagine everything lost and learn again." — On meaning-making after absurdity
 
 ## Sources
 
 - Camus, Albert. *The Myth of Sisyphus*. Translated by Justin O'Brien. Knopf, 1955.
-- Camus, Albert. *The Rebel: An Essay on Man in Revolt*. Translated by Anthony Bower. Knopf, 1956.
-- Kaplan, David M. ed. *Camus and Sartre: The Story of a Friendship and the Quarrel That Ended It*. Chicago University Press, 2013.
+- Camus, Albert. *The Rebel: An Essay on Man in Revolt*. Translated by Anthony Bower. London: Hamish Hamilton, 1953.
+- Aronson, Ronald. *Camus and Sartre: The Story of a Friendship and the Quarrel That Ended It*. Chicago: University of Chicago Press, 2004.
+- Todd, Olivier. *Albert Camus: A Life*. New York: Knopf, 1997.

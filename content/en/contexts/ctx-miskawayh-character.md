@@ -15,12 +15,12 @@ edges:
 related:
   - id: "ctx-arabic-self", title: "The Self in Arabic-Islamic Intellectual Heritage", type: "سياق/تقليد"
 gaps:
-  - "لم تُراجع بعد نسخة أصلية محققة من تهذيب الأخلاق وتطهير الأعراق ضمن هذا المشروع"
+  - "Direct review of a critical Arabic edition of Tahdhib al-Akhlaq against the secondary literature: not yet covered."
 ---
 
 # Miskawayh and Tahdhib al-Akhlaq
 
-Abu Ali Ahmad ibn Muhammad ibn Miskawayh (c. 932–1030) was a Persian philosopher, physician, and historian who wrote in Arabic and served as secretary and librarian at the Buyid courts of Rayy, Isfahan, and Baghdad. His ethical treatise Tahdhib al-Akhlaq wa Tathir al-Araq (The Refinement of Character and the Purification of Dispositions) is the first systematic work of philosophical ethics in the Islamic tradition: a treatment of the emotions and the character that binds the cultivation of the soul to the stability of the self. For this Atlas it matters as the voice within the Arab-Islamic context that is closest to Greek moral philosophy — and therefore the voice that shows the tradition was not one voice but several.
+Abu Ali Ahmad ibn Muhammad ibn Miskawayh (c. 932–1030) was a Persian philosopher, physician, and historian who wrote in Arabic and served as secretary and librarian at the Buyid courts of Rayy, Isfahan, and Baghdad. His ethical treatise Tahdhib al-Akhlaq wa Tathir al-Araq (The Refinement of Character and the Purification of Dispositions) is among the earliest and most influential systematic works of philosophical ethics in the Islamic tradition: a treatment of the emotions and the character that binds the cultivation of the soul to the stability of the self. For this Atlas it matters as the voice within the Arab-Islamic context that is closest to Greek moral philosophy — and therefore the voice that shows the tradition was not one voice but several.
 
 ## The context
 
@@ -28,7 +28,7 @@ Miskawayh worked in the fourth Islamic century, the age of the Buyid renaissance
 
 ## The method of refining character
 
-Miskawayh's central claim is that character is not a fixed endowment but something that can be shaped and refined through habit and training. The emotions are not givens to be endured; they are dispositions that can be trained toward the mean, and this training is the work of a lifetime, beginning in childhood with discipline and habituation. His account intersects in part with the modern idea of cognitive reappraisal — changing how one relates to an emotion — but it is not identical with it: for Miskawayh, the goal is not symptom relief but the formation of a virtuous character ordered toward happiness (eudaimonia), understood first on a rational, philosophical basis and then reconciled with religious ends. The book is organised in six treatises: the soul and its powers; character and the possibility of changing it; the good and happiness; justice; love and friendship; and the health of the soul and the treatment of its diseases. The four cardinal virtues — wisdom, temperance, courage, and justice — correspond to the three powers of the soul, with justice as the harmony that binds them together.
+Miskawayh's central claim is that character is not a fixed endowment but something that can be shaped and refined through habit and training. The emotions are not givens to be endured; they are dispositions that can be trained toward the mean, and this training is the work of a lifetime, beginning in childhood with discipline and habituation. His account can be loosely compared with modern ideas of changing how one relates to an emotion, but it is not identical with them: for Miskawayh, the goal is not symptom relief but the formation of a virtuous character ordered toward happiness (eudaimonia), understood first on a rational, philosophical basis and then reconciled with religious ends. The book is organised in six treatises: the soul and its powers; character and the possibility of changing it; the good and happiness; justice; love and friendship; and the health of the soul and the treatment of its diseases. The four cardinal virtues — wisdom, temperance, courage, and justice — correspond to the three powers of the soul, with justice as the harmony that binds them together.
 
 ## Central ideas
 

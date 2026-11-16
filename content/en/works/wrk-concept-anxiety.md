@@ -13,9 +13,7 @@ edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-kierkegaard", title: "Søren Kierkegaard", type: "مفكر"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # The Concept of Anxiety: Freedom, Dread, and the Possibility of Sin
@@ -45,4 +43,4 @@ The book's direct influence runs through Heidegger, who took up existential anxi
 - Kierkegaard, Søren. *The Concept of Dread*, translated by Walter Lowrie. Princeton: Princeton University Press, 1944.
 - Hannay, Alastair. *Kierkegaard: A Biography*. Cambridge: Cambridge University Press, 2001.
 - Grøn, Arne. *The Concept of Anxiety in Søren Kierkegaard*. Macon: Mercer University Press, 2008.
-- Marino, Gordon D., ed. *The Cambridge Companion to Kierkegaard*. Cambridge: Cambridge University Press, 1998.
+- Hannay, Alastair, and Gordon D. Marino, eds. *The Cambridge Companion to Kierkegaard*. Cambridge: Cambridge University Press, 1998.

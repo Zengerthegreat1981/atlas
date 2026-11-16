@@ -14,14 +14,12 @@ edges:
 related:
   - id: "thk-beauvoir", title: "Simone de Beauvoir", type: "مفكرة"
   - id: "dbt-individualism", title: "The Individualism Critique", type: "جدل"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # The Ethics of Ambiguity (Pour une morale de l'ambiguïté)
 
-*Pour une morale de l'ambiguïté* (1947), by Simone de Beauvoir (1908–1986), is the most important text deleted from the background of the existential school — and it contains the answer to the most famous criticism levelled against it. Published in Paris by Gallimard in 1947, and translated into English by Bernard Frechtman in 1948, it is the major ethical work of French existentialism. Beauvoir extends and develops Sartre's philosophy in *Being and Nothingness* (1943), but it is her own attempt to build the positive existential ethics that Sartre's book lacks. Sartre described the ontological structure of freedom; Beauvoir asks how we are to live by it, ethically, with others. The book was written in the aftermath of the Second World War and the Occupation, when she and Sartre were preoccupied with political and moral commitment, and two years before her best-known work, *The Second Sex* (1949), which applied this book's theoretical tools to the situation of women in particular.
+*Pour une morale de l'ambiguïté* (1947), by Simone de Beauvoir (1908–1986), is the most important text neglected in standard accounts of the existential school, and it contains the answer to the most famous criticism levelled against it. Published in Paris by Gallimard in 1947, and translated into English by Bernard Frechtman in 1948, it is the major ethical work of French existentialism. Beauvoir extends and develops Sartre's philosophy in *Being and Nothingness* (1943), but it is her own attempt to build the positive existential ethics that Sartre's book lacks. Sartre described the ontological structure of freedom; Beauvoir asks how we are to live by it, ethically, with others. The book was written in the aftermath of the Second World War and the Occupation, when she and Sartre were preoccupied with political and moral commitment, and two years before her best-known work, *The Second Sex* (1949), which applied this book's theoretical tools to the situation of women in particular.
 
 ## The Thesis: Freedom Is Not Private Property
 
@@ -37,7 +35,7 @@ The book continues *Pyrrhus et Cinéas* (1944), Beauvoir's earlier essay on the 
 
 ## Reception and Importance
 
-The book's presence in standard accounts of existentialism is far smaller than its actual influence — a pattern worth recording rather than merely correcting. The strongest criticism of existential therapy, that it is individualistic and blind to power, has a ready answer in this text, yet the answer is rarely used in that therapeutic context because the book itself is rarely read there. Feminist and philosophical scholarship has restored its standing as an ethical text independent of Sartre, notably Kristana Arp's *The Bonds of Freedom* (2001), which reads it as a work of ethics in its own right. Critics have objected that the demand to will the freedom of others does not show clearly why a person should be bound by it, and that the concept of ambiguity wavers between an ontological description and a normative principle. These objections are live ones, but they are objections to a serious ethical position, not signs of a minor work. No Arabic translation of the book has been established, although French existentialism reached Arab readers in the 1950s through the Beirut journal *Al-Adab* and the idea of literary commitment, and through Abd al-Rahman Badawi's studies of existential philosophy.
+The book's presence in standard accounts of existentialism is far smaller than its actual influence — a pattern worth recording rather than merely correcting. The strongest criticism of existential therapy, that it is individualistic and blind to power, has a ready answer in this text, yet the answer is rarely used in that therapeutic context because the book itself is rarely read there. Feminist and philosophical scholarship has restored its standing as an ethical text independent of Sartre, notably Kristana Arp's *The Bonds of Freedom* (2001), which reads it as a work of ethics in its own right. Critics have objected that the demand to will the freedom of others does not show clearly why a person should be bound by it, and that the concept of ambiguity wavers between an ontological description and a normative principle. These objections are live ones, but they are objections to a serious ethical position, not signs of a minor work. French existentialism reached Arab readers in the 1950s through the Beirut journal *Al-Adab*, with its idea of literary commitment, and through Abd al-Rahman Badawi's studies of existential philosophy.
 
 ## Sources
 

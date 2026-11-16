@@ -13,7 +13,7 @@ related:
   - id: "evt-frankl-camps", title: "Frankl's Concentration Camp Experience", type: "حدث تاريخي"
   - id: "ctx-phenomenology-husserl", title: "Husserlian Phenomenology", type: "سياق/تقليد"
 gaps:
-  - "لم يُراجع بعد النص الأصلي المباشر من كتاب 'الإنسان يبحث عن معنى' لاقتباس السرد الذاتي الدقيق بدل الوصف العام الحالي"
+  - "Page-level citations for the quoted passages: not yet covered"
 ---
 
 # Frankl's First-Person Account of Meaning in the Camp
@@ -36,7 +36,7 @@ The passage is often quoted sentimentally, but its philosophical weight is preci
 
 From such observations Frankl drew the principle that became the centre of logotherapy: "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances." The guards controlled his body, his movements, his food, and his sleep. They could not control the stance he took towards what was happening to him. Frankl noticed that prisoners who kept some task before them — a manuscript to finish, a child waiting, a loved face held in memory — were better able to get up each morning than those who had lost every attachment to the future.
 
-He summed up the principle with a line from Nietzsche that he repeated to himself in the camp: "He who has a why to live can bear almost any how." The line was not decoration. It was a daily test: could he find a "why" that would carry him through this particular day?
+He summed up the principle with a line from Nietzsche that he quotes in the book: "He who has a why to live can bear almost any how." Frankl treated the line as a daily test: could he find a "why" that would carry him through this particular day?
 
 ## The Three Avenues of Meaning — Tested, Not Invented
 
@@ -52,9 +52,9 @@ That is also why the account has therapeutic force. A therapist working existent
 
 ## Sources
 
-- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. English edition: Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+- Frankl, V. E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. English edition: Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
 - Frankl, V. E. (1955). *The Doctor and the Soul: From Psychotherapy to Logotherapy*. Knopf.
 - Frankl, V. E. (1969). *The Will to Meaning: Foundations and Applications of Logotherapy*. World Publishing.
-- Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Nijhoff.
+- Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Max Niemeyer.
 - Nietzsche, F. (1889). *Twilight of the Idols*.
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

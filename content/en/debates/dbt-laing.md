@@ -23,7 +23,7 @@ The costliest dispute in the school's history, and the most instructive as a les
 
 Laing's proposal, developed in *The Divided Self* (1960) and *Self and Others* (1961), was that psychotic experience has an intelligible structure: a person whose world has become unliveable retreats into strategies — withdrawal, compliance, the construction of a "false self" — that look like symptoms from outside but make sense as defences from inside. In *Sanity, Madness and the Family* (1964), written with Aaron Esterson, he argued that the families of people diagnosed with schizophrenia showed patterns of communication — contradictory demands, the denial of the contradiction — that made the "mad" response understandable.
 
-The practical conclusion followed: if breakdown is a response to a situation, then the response should be a different situation, not a drug and a locked ward. With colleagues he founded the Philadelphia Association in 1965 and opened Kingsley Hall in East London the same year — a household where residents lived through disturbed states without medication, electroconvulsive therapy, or physical restraint, supported by fellow residents, on the wager that madness might be a self-healing process, a breakthrough rather than a breakdown. The Hall ran until 1970. In *The Politics of Experience* (1967) he called breakdown a possible breakthrough rather than a breakdown.
+The practical conclusion followed: if breakdown is a response to a situation, then the response should be a different situation, not a drug and a locked ward. With colleagues he founded the Philadelphia Association in 1965 and opened Kingsley Hall in East London the same year — a household where residents lived through disturbed states with minimal use of medication, electroconvulsive therapy, or physical restraint, supported by fellow residents, on the wager that madness might be a self-healing process, a breakthrough rather than a breakdown. The Hall ran until 1970. In *The Politics of Experience* (1967) he popularised the view of a psychotic episode as a possible breakthrough, a potentially transformative journey, rather than only a breakdown.
 
 ## What was right in it
 
@@ -33,7 +33,7 @@ These three have become part of good practice today.
 
 ## What was costly
 
-The costs were real, and they are the reason the dispute still matters. Effective treatments were delayed for people who needed them: a person in acute psychosis who is offered a voyage instead of an antipsychotic may suffer longer, and may endanger themselves and others, while the voyage is awaited. Families — and mothers in particular — were loaded with a guilt for which there was no evidence: the claim that family communication caused schizophrenia was never established, and the "schizophrenogenic mother" became a source of suffering in its own right.
+The costs were real, and they are the reason the dispute still matters. Effective treatments were delayed for people who needed them: a person in acute psychosis who is offered a voyage instead of an antipsychotic may suffer longer, and may endanger themselves and others, while the voyage is awaited. Families — and mothers in particular — were loaded with a guilt for which there was no evidence: the claim that family communication caused schizophrenia was never established, and the older notion of the "schizophrenogenic mother" (coined by Frieda Fromm-Reichmann in the 1940s, and not by Laing) fed the same blame and became a source of suffering in its own right.
 
 And the whole school paid a reputational price. In the public mind, existential therapy became tied to a position of rejecting psychiatry, and it still pays that price today — every existential therapist working with psychosis must first demonstrate that they are not repeating Laing's errors.
 
@@ -59,5 +59,5 @@ If you reject Laing — the dominant position today — you treat psychosis as a
 - Laing, R. D., & Esterson, A. (1964). *Sanity, Madness and the Family*. Tavistock.
 - Laing, R. D. (1967). *The Politics of Experience and The Bird of Paradise*. Penguin.
 - Sass, L. A. (1992). *Madness and Modernism: Insanity in the Light of Modern Art, Literature, and Thought*. Basic Books.
-- Chapman, A. (2021). Dwelling in strangeness: Accounts of the Kingsley Hall community, London (1965–1970), established by R. D. Laing. *Journal of Medical Humanities, 42*(3), 471–494.
+- Chapman, A. (2021). Dwelling in strangeness: Accounts of the Kingsley Hall community, London (1965–1970), established by R. D. Laing. *Journal of Medical Humanities, 42*.
 - Cooper, D. (1967). *Psychiatry and Anti-Psychiatry*. Tavistock.

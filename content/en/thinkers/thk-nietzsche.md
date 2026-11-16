@@ -14,8 +14,7 @@ related:
   - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
   - id: "con-meaning", title: "Meaning and Meaninglessness: The School's Dividing Line", type: "مفهوم"
   - id: "thk-dostoevsky", title: "Fyodor Dostoevsky", type: "مفكر"
-gaps:
-  - "بيانات الأعمال والتواريخ والترجمات العربية — تحتاج تثبيتاً"
+gaps: []
 ---
 
 # Friedrich Nietzsche
@@ -30,7 +29,7 @@ Ill health forced his resignation from Basel in 1879. For the next decade he liv
 
 ## Key Works
 
-Nietzsche's mature work falls into a clear sequence. *Human, All Too Human* (1878) broke with his early Wagnerian enthusiasms and adopted the aphoristic style that became his signature. *The Gay Science* (1882) introduced the death of God. *Thus Spoke Zarathustra* (1883–1885) is his most literary book, a prophetic poem-philosophy spoken by the Persian sage Zarathustra. *Beyond Good and Evil* (1886) and *On the Genealogy of Morals* (1887) are his most systematic works of moral criticism. *Twilight of the Idols* (1889) and *The Antichrist* (1888, published 1895) were his final polemics. The posthumous *The Will to Power* was assembled by his sister from notebooks, not composed by him in that form.
+Nietzsche's mature work falls into a clear sequence. *Human, All Too Human* (1878) broke with his early Wagnerian enthusiasms and adopted the aphoristic style that became his signature. *The Gay Science* (1882) introduced the death of God. *Thus Spoke Zarathustra* (1883–1885) is his most literary book, a prophetic poem-philosophy spoken by the Persian sage Zarathustra. *Beyond Good and Evil* (1886) and *On the Genealogy of Morals* (1887) are his most systematic works of moral criticism. *Twilight of the Idols* (written 1888, published 1889) and *The Antichrist* (written 1888, published 1895) were among his final polemics. The posthumous *The Will to Power* was assembled by his sister from notebooks, not composed by him in that form.
 
 ## The Death of God and Nihilism
 
@@ -48,7 +47,7 @@ In *On the Genealogy of Morals*, Nietzsche traces the history of moral values an
 
 ## Influence and Critique
 
-Nietzsche's influence runs through twentieth-century philosophy, literature, psychology and political thought: existentialism, psychoanalysis, post-structuralism and modernist art all bear his mark. In the clinic he is the direct root of the refusal to direct a client toward a ready-made meaning and of the work on unexamined values; he stands as Frankl's deepest opponent within the existential tradition, since Frankl insists that meaning is discovered rather than created.
+Nietzsche's influence runs through twentieth-century philosophy, literature, psychology and political thought: existentialism, psychoanalysis, post-structuralism and modernist art all bear his mark. In the clinic his influence can be traced in the reluctance to direct a client toward a ready-made meaning and in work on unexamined values; he stands in contrast to Frankl within the existential tradition, since Frankl insists that meaning is discovered rather than created.
 
 His legacy is complicated by the political misuse of his work. His sister's editing, her nationalist sympathies, and the Nazi appropriation of slogans like the Übermensch and the will to power attached his name to a politics he explicitly attacked — he denounced German nationalism and antisemitism in print. That history of distortion is displayed openly and is not used to dismiss his thought. Critics also note that his aphoristic, fragmentary style invites contradictory readings, and that his attacks on Christian and democratic morality can feed an elitism that despises the weak — a use Nietzsche himself rejected.
 

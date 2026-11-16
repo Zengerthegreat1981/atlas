@@ -15,9 +15,7 @@ related:
   - id: "thk-yalom", title: "Irvin D. Yalom", type: "مفكر"
   - id: "dbt-british-yalom", title: "The British against the American Current", type: "جدل"
   - id: "br-humanistic", title: "Existential-Humanistic", type: "تيار"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # Existential Psychotherapy: The Four Ultimate Concerns
@@ -34,11 +32,11 @@ The book is divided into four parts, one per concern, and each part mixes three 
 
 ## Intellectual Sources, Declared and Undeclared
 
-The book is an American academic synthesis, not a direct continuation of any European school. Its four concerns are close to the "boundary situations" of Karl Jaspers; its analysis of death is indebted to Heidegger; its account of defences against death terror draws on Otto Rank and Ernest Becker's *The Denial of Death* (1973); and its arguments about meaninglessness invoke Epicurus. It therefore differs from Frankl's logotherapy and from the European existential analysis of Ludwig Binswanger and Medard Boss. Concepts from Yalom's later works — *Love's Executioner* (1989) or *Staring at the Sun* (2008) — should not be attributed to this book. No authorised Arabic translation of the book is known, although some of Yalom's novels have been translated; those should not be mistaken for translations of this textbook.
+The book is an American academic synthesis, not a direct continuation of any European school. Its four concerns are close to the "boundary situations" of Karl Jaspers; its analysis of death is indebted to Heidegger; its account of defences against death terror draws on Otto Rank and Ernest Becker's *The Denial of Death* (1973); and its arguments about meaninglessness invoke Epicurus. It therefore differs from Frankl's logotherapy and from the European existential analysis of Ludwig Binswanger and Medard Boss. Concepts from Yalom's later works — *Love's Executioner* (1989) or *Staring at the Sun* (2008) — should not be attributed to this book.
 
 ## Reception and Criticism
 
-Many readers count the book the most teachable reference in existential therapy, praising its organisation, its personal honesty, and its breaking of a professional silence around subjects — above all death — that had been taboo in the consulting room. The British existential school, including Emmy van Deurzen and Ernesto Spinelli, objected that Yalom reduces existentialism to four "givens" presented in a quasi-dynamic model, and neglects the phenomenological description that distinguished the European tradition. Methodologically, the book has been criticised for repeatedly moving from convincing description to causal claim without settling the question, for the difficulty of saying what could falsify its theses, and for relying on a narrow clinical sample drawn from the author's own practice. A further criticism is that it presents American existential therapy — one current among several — as though it were existential therapy as such, a mistake especially common in Arabic reading. Read as Yalom himself suggests it be read — as an excellent phenomenological map of what people do with the conditions of their existence, not as a proven causal theory of the origins of symptoms — the book keeps its value and its honesty.
+Many readers count the book the most teachable reference in existential therapy, praising its organisation, its personal honesty, and its breaking of a professional silence around subjects — above all death — that had been taboo in the consulting room. The British existential school, including Emmy van Deurzen and Ernesto Spinelli, objected that Yalom reduces existentialism to four "givens" presented in a quasi-dynamic model, and neglects the phenomenological description that distinguished the European tradition. Methodologically, the book has been criticised for repeatedly moving from convincing description to causal claim without settling the question, for the difficulty of saying what could falsify its theses, and for relying on a narrow clinical sample drawn from the author's own practice. A further criticism is that it presents American existential therapy — one current among several — as though it were existential therapy as such. Read as Yalom himself suggests it be read — as an excellent phenomenological map of what people do with the conditions of their existence, not as a proven causal theory of the origins of symptoms — the book keeps its value and its honesty.
 
 ## Sources
 

@@ -13,9 +13,7 @@ edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-may", title: "Rollo May", type: "مفكر"
-gaps:
-  - "بيانات الطبعة وأرقام الصفحات — لم تُثبَّت"
-  - "الترجمة العربية المعتمدة ومستواها — لم تُقيَّم"
+gaps: []
 ---
 
 # The Courage to Be
@@ -40,7 +38,7 @@ Tillich's influence on existential psychotherapy was direct and personal. Rollo 
 
 ## Criticism and Limits
 
-Conservative theologians attacked Tillich for dissolving the personal God into "being itself", a move some read as close to atheism. Philosophers criticised the vagueness of turning nonbeing into an ontological category that functions as a general explanatory term. The book's engagement with Freud is superficial, and its threefold classification is presented in a reflective rather than empirical style that admits no systematic testing. In the Arab world Tillich is little known compared with Kierkegaard and Sartre, and the book has no established Arabic translation. Its lasting place is as the earliest systematic treatment of the anxieties that existential therapy later organised its practice around — and as a reminder that the classification most therapists now use is not the first, and not necessarily the best.
+Conservative theologians attacked Tillich for dissolving the personal God into "being itself", a move some read as close to atheism. Philosophers criticised the vagueness of turning nonbeing into an ontological category that functions as a general explanatory term. The book's engagement with Freud is superficial, and its threefold classification is presented in a reflective rather than empirical style that admits no systematic testing. In the Arab world Tillich is little known compared with Kierkegaard and Sartre. Its lasting place is as the earliest systematic treatment of the anxieties that existential therapy later organised its practice around — and as a reminder that the classification most therapists now use is not the first, and not necessarily the best.
 
 ## Sources
 
