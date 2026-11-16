@@ -1,0 +1,46 @@
+---
+slug: "con-effective-demand"
+id: "CON-20416"
+type: "مفهوم"
+part: "political-economy"
+level: "متوسط"
+title: "Effective Demand"
+en: "Effective Demand"
+crumb: "Political Economy ← Concepts ← Effective Demand"
+economic_school: "Keynesian economics"
+active_start: 1936
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "Keynesian Economics", target_type: "مدرسة"
+related:
+- id: "sch-keynesian-economics", title: "Keynesian Economics", type: "مدرسة"
+- id: "thk-john-maynard-keynes", title: "John Maynard Keynes", type: "مفكر"
+- id: "con-says-law-of-markets", title: "Say's Law of Markets", type: "مفهوم"
+- id: "con-keynesian-multiplier", title: "Keynesian Multiplier", type: "مفهوم"
+gaps:
+  - "Technical relationship between the point of effective demand and partial-equilibrium analysis of a single market: not yet covered"
+---
+# Effective Demand
+
+**Effective demand** is a central concept in Keynesian economics, formulated by **John Maynard Keynes** in his book *The General Theory of Employment, Interest and Money* (1936). It refers to the total spending that entrepreneurs expect to receive from the sale of output (consumption and investment, and in later formulations government spending and net exports), which determines the level of output and employment they choose to offer, as distinct from a mere desire to buy that is not backed by purchasing power. The term had been used earlier by Thomas Malthus, and Michał Kalecki reached similar conclusions independently.
+
+## A refutation of Say's law
+
+The concept stands in direct opposition to the classical **Say's law of markets**, which assumed that supply creates its own demand, so that a persistent general surplus of production in the economy as a whole cannot arise. Keynes argued that this assumption ignores the possibility that individuals may choose to save part of their income without that saving necessarily being matched in full by an equivalent investment. A real shortfall in aggregate demand then arises, pushing the economy toward a level of output and employment below full employment.
+
+## An equilibrium point without full employment
+
+In Keynes's formulation (chapter 3 of the *General Theory*), the level of effective demand is the value of aggregate demand at the point where the aggregate supply curve (business owners' expectations of returns from different levels of employment) intersects the aggregate demand curve (their expectations of actual spending on what they produce). Unlike classical theory, which assumed this point always falls at full employment through the flexibility of wages and prices, Keynes held that it may settle at a much lower level of employment, with long-term involuntary unemployment, and that no automatic market mechanism corrects this situation quickly enough.
+
+## Its relationship to the multiplier and fiscal policy
+
+Effective demand is closely tied to the concept of the **Keynesian multiplier**: an increase in one component of aggregate demand (for example additional government spending) raises effective demand by more than the original increase, through successive rounds of spending and income. This linkage is the theoretical basis on which government intervention through public spending or tax cuts has been justified to raise effective demand when the private sector fails to generate enough demand on its own to achieve full employment.
+
+## Lasting influence and competing interpretations
+
+The concept of effective demand has remained the core of the interpretive dispute among successive schools of macroeconomics. The neoclassical synthesis adopted a simplified version of it within the IS-LM model (due to John Hicks, 1937), while the post-Keynesian school held that this simplification neglected the central role of fundamental uncertainty in shaping spending expectations themselves. Later, the New Classical school rejected it on the grounds that markets clear themselves with sufficient flexibility if individuals' expectations are rational.
+
+## Sources
+
+- Keynes, John Maynard. *The General Theory of Employment, Interest and Money*. Macmillan, 1936.
+- Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.

@@ -1,10 +1,10 @@
 {
-  "total_files": 1680,
+  "total_files": 1841,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 1305,
-    "declared-gaps": 307,
+    "edge-target-by-name": 1479,
+    "declared-gaps": 326,
     "placeholder": 3,
     "short": 6,
     "duplicate-id-groups": 0
@@ -12,6 +12,7 @@
   "flag_examples": {
     "edge-target-by-name": [
       "axm-existence-precedes-essence->Existentialist School",
+      "br-agrarian-question-political-economy->Marx's Critique of Political Economy",
       "br-arabic-dialectology->Classical Arabic Grammatical Tradition",
       "br-attachment-theory->Developmental Psychology",
       "br-british->Existentialist School",
@@ -21,11 +22,10 @@
       "br-british->Relational formulation",
       "br-classical-psychoanalysis->Psychoanalysis",
       "br-classical-psychoanalysis->Sigmund Freud",
+      "br-cliometrics-new-economic-history->New Institutional Economics",
       "br-computational-linguistics->Computational Linguistics & NLP",
       "br-corpus-linguistics->Corpus Linguistics",
-      "br-daseins->Existentialist School",
-      "br-daseins->Heidegger",
-      "br-daseins->Binswanger and Boss"
+      "br-daseins->Existentialist School"
     ],
     "declared-gaps": [
       "br-arabic-dialectology",
@@ -38,11 +38,11 @@
       "con-anxiety-existential",
       "con-anxiety",
       "con-aphasiology-classification",
+      "con-arab-subsidy-state-and-social-contract",
       "con-ataraxia",
       "con-attention",
       "con-authenticity",
-      "con-correlation",
-      "con-death"
+      "con-correlation"
     ],
     "placeholder": [
       "con-division-labor",
@@ -60,7 +60,7 @@
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 1674,
+    "review-candidate": 1835,
     "placeholder": 3,
     "draft-short": 3
   },
@@ -82,6 +82,9 @@
     "philosophy": {
       "review-candidate": 325
     },
+    "political-economy": {
+      "review-candidate": 161
+    },
     "psychology": {
       "review-candidate": 309
     },
@@ -90,8 +93,8 @@
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 1680,
-    "source nodes": 1680,
+    "data-en.json nodes": 1841,
+    "source nodes": 1841,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

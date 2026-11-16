@@ -103,3 +103,9 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
   no omitted sections). Haiku is used for translation only; Sonnet remains the fact-check gate. The fact-check still found many errors
   (mostly inherited from the Arabic drafts: invented examples, corrupted names, misattributed claims). See `reports/scope/corrections.txt`.
 - Reading paths added to `fld-linguistics`. Same caveat: machine-assisted, no web access; human review required.
+
+---
+# Pass 6 — Political economy v1 (2026-11-17), Haiku translation + Sonnet fact-check
+- Scope `reports/scope/political-economy-scope.md`: 157 entries translated by Haiku from AR assets (same ids/slugs), 4 field intros authored by Sonnet
+  (`fld-political-economy` root, macro/money, development, labour/distribution); all 161 fact-checked by Sonnet (corrections in `reports/scope/corrections.txt`).
+- Reading paths added to `fld-political-economy`. Same caveat: machine-assisted, no web access; human review required.

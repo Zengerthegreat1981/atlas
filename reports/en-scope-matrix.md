@@ -10,7 +10,7 @@ EN counts come from `check_en_release.py`; AR counts are an inventory of existin
 | sociology | 445 | 0 | 0 | 445 | 1262 | source review + close drafts |
 | anthropology | 355 | 3 | 3 | 349 | 1186 | source review + close drafts |
 | linguistics | 158 | 0 | 0 | 158 | 1200 | source review + close drafts |
-| political-economy | 0 | 0 | 0 | 0 | 1101 | define scope list, then author/review |
+| political-economy | 161 | 0 | 0 | 161 | 1101 | source review + close drafts |
 | historiography | 87 | 0 | 0 | 87 | 1007 | source review + close drafts |
 | religious-studies | 0 | 0 | 0 | 0 | 888 | define scope list, then author/review |
 | legal-theory | 0 | 0 | 0 | 0 | 700 | define scope list, then author/review |

@@ -1278,4 +1278,185 @@ wrk-syntactic-structures: removed anachronistic deep/surface structure and compe
 wrk-talkhis-al-miftah-qazwini: corrected that badi' was an appendix in Sakkaki (Qazwini set standard tripartite form); softened Azhar/teaching claims; removed unverifiable Qom 1990 publisher; English-translation gap reworded
 wrk-the-way-we-think-fauconnier-turner: replaced invented 'digital Buddhist monk' and Napoleon examples with the actual Buddhist-monk riddle and butcher example; corrected optimality principles; removed number-line claim; added Gibbs 2000
 wrk-theses-1929-prague-circle: removed duplicate heading; Trubetzkoy worked in Vienna (not in Prague, not fled to Prague); removed doubtful Mathesius 1929 source and overstated anticipation/influence claims
+con-keynesian-multiplier: attribution fixed: the argument that rational agents anticipate higher future taxes and cut current consumption (Ricardian equivalence) is Robert Barro's (1974), changed from Robert Lucas to Robert Barro.
+dbt-efficient-markets-vs-behavioral-finance: the 2013 Nobel Prize in Economics was shared three ways (Fama, Hansen, Shiller); source named only Fama and Shiller; Lars Peter Hansen added.
+con-endogenous-money: Arabic title of Moore's 1988 book ('آفاق ضدّ الطلب') is garbled; English title 'Horizontalists and Verticalists: The Macroeconomics of Credit Money' used instead
+br-mena-political-economy: Garbled group name "بيني ونيباي" rendered as the Beblawi–Luciani group (matches the parenthetical "Beblawi-Luciani" in the source).
+br-mena-political-economy: Saudi 2011 stimulus given as "hundreds of billions of dollars"; corrected to "more than one hundred billion dollars" (the 2011 package totalled roughly 130 billion).
+br-mena-political-economy: Omitted the sentence claiming that failure of subsidy reform to ignite protests in Sudan 2018–2019 or Lebanon 2019 shows the rentier contract was intact; it is garbled (both episodes saw mass protests).
+thk-abhijit-banerjee: Related entry "مارينا بيرتراند" corrected to Marianne Bertrand (the id is thk-bertrand-mullainathan-audit-study).
+stu-kahneman-deaton-income-wellbeing-2010: "لمات كيلينغزوورث" corrected to Matthew Killingsworth (bibliography gives Matthew A. Killingsworth).
+sch-latin-american-structuralism-cepal: source says ECLAC (CEPAL) was "founded in 1949 by Raúl Prebisch" and that he led it "since its founding in 1949"; ECLAC was a UN commission (established 1948, operating from 1949) and Prebisch became its executive secretary in 1950. Reworded to "emerged in 1949 around Raúl Prebisch" (lede only; the later "led it from its early years" phrasing kept as-is in spirit).
+sch-latin-american-structuralism-cepal: omitted garbled gaps clause "(فرانك، وقد كتبها الأطلسُ تحت علم الاجتماع)" (Frank; the Atlas wrote it under sociology), which made no sense in context.
+sch-modern-islamic-economics: omitted internal schema token "(`evolved_from`)" from body prose; translated the sentence otherwise.
+thk-james-m-buchanan: source says Buchanan died in 2013 "aged nearly 94"; he was born in 1919 and died in January 2013, i.e. aged 93. Corrected to "at the age of 93".
+thk-william-easterly: source's "Penguin Press" and "Basic Books" book titles kept; no other change.
+con-financial-instability-hypothesis: none (source checked; no certain factual error).
+con-exchange-rate-regimes: none (source checked; no certain factual error).
+wrk-islam-and-mammon-kuran: source frontmatter/body names translated (Monzer Kahf for "منذر قحف"); no factual change.
+stu-reinhart-rogoff-growth-in-a-time-of-debt-2010: source body calls the paper an "American Economic Review" article "as a summary of a conference presentation" (it appeared in the AER Papers and Proceedings issue); kept as the source says, not changed.
+sch-homo-economicus-rational-choice-economics: Becker's doctoral dissertation date changed from 1957 to 1955 (1957 is the year of the book The Economics of Discrimination, which derives from it).
+thk-daron-acemoglu: Textbook described as "advanced macroeconomics" in the Arabic changed to "graduate textbook on economic growth" (Introduction to Modern Economic Growth).
+br-endogenous-growth-theory: Romer dissertation year changed from 1986 to 1983 (Arabic source said doctoral thesis 1986; Romer PhD Chicago 1983). Minimal factual fix.
+br-agrarian-question-political-economy: reworded Kautsky structural reasons (seasonal/biological, family self-exploitation), named Lenin's 1899 work, added Chayanov dates, Second International
+br-cliometrics-new-economic-history: Fogel method = social saving/partial equilibrium (not GE); Nobel citation wording; North 'a founding contributor'; added Pomeranz & North sources; removed covered gap
+br-endogenous-growth-theory: added Romer 1986, Solow 1957 attribution corrected to US output per worker, added AK/Aghion-Howitt/Nobel 2018 section and sources, softened Arab paragraph
+br-georgism-land-value-tax: fixed Ricardian rent explanation, Pittsburgh split-rate (ended 2001), Magie 1904 patent, publisher details; folded gap into body
+br-market-socialism: corrected Mises 1920/Hayek dating, rewrote Lange mechanism (planning board trial-and-error pricing, social dividend), Yugoslav self-management from 1950, added sources; folded gap into body
+br-mena-political-economy: removed Libya from non-oil republics, Mahdavi 1970 origin, Beblawi/Luciani attribution, Saudi 2011 package wording, army-business claim (Egypt) softened, moved Sources to end, added Mahdavi/Ross sources, folded gap
+br-monopoly-capital-school: noted Baran died 1964, Huberman co-founded Monthly Review, corrected definition of surplus, added Steindl/Kalecki and Foster sources
+br-new-economic-geography: model mobility is of manufacturing workers (not capital), Nobel citation wording, softened policy-threshold claim, added Krugman 1991 book
+br-real-business-cycle-theory: Nobel context (time consistency 1977), softened evidential claim, added Long-Plosser and Prescott 1986 sources
+br-sraffian-neo-ricardian-economics: rewrote garbled standard-commodity definition (r=R(1-w)), Samuelson 1966 acknowledgment specified as reswitching, added Pasinetti/Garegnani, Ricardo edition, Samuelson source
+con-arab-subsidy-state-and-social-contract: Egypt 1977 riots wording, added Morocco/Tunisia/Jordan unrest dates, IMF hedged, gap reworded "not yet covered"
+con-austrian-business-cycle-theory: added Wicksell/Boehm-Bawerk lineage, Hayek 1929/1931 works and 1974 Nobel, reframed mainstream criticism (Friedman), folded gap, added Hayek 1933 translation source
+con-big-push-and-unbalanced-growth: replaced "network externalities" with pecuniary externalities/complementarities, added Nurkse and Murphy-Shleifer-Vishny, folded chronology gap
+con-consumer-surplus: credited Dupuit 1844 precursor, clarified Pigou link, added Hicks/Willig on approximation, added sources, folded gap
+con-creative-destruction: "coined" -> popularised; corrected claim that Schumpeter ignored Marx (he credited Marx), Sombart precedent, softened examples, added Aghion-Howitt; folded gap
+con-degrowth: dated the term to 1970s (Georgescu-Roegen, Gorz) and Paris 2008 conference, Easterlin 1974 finding stated with caveat, Raworth growth-agnostic, added sources, reworded gap
+con-economic-calculation-problem: removed anachronistic "planned chaos" quote (1947 title), added Weber/Pierson/Barone precedents, Taylor, Hayek 1935 translation, corrected journal title, folded gap
+con-effective-demand: corrected definition (expected proceeds, intersection of aggregate supply/demand), Malthus/Kalecki, Hicks 1937 IS-LM, gap reworded
+con-endogenous-money: corrected "verticalists" (exogenous-money camp, not discretionary-central-bank view), added accommodationist/structuralist split, removed unsupported Arab inflation claim, added BoE 2014 and publishers
+con-exchange-rate-regimes: added Oman and Kuwait basket peg, Egypt/Lebanon wording corrected with dates, Bretton Woods details (35 $/oz, 1971-73), Reinhart-Rogoff source, Mundell citation details, gap reworded
+con-falling-rate-of-profit: corrected Okishio theorem statement (constant real wage, cost-reducing technique cannot lower profit rate), Capital vol 3 published 1894 by Engels (active_start 1894), full list of Marx's counteracting factors, Mandel English ed. 1968, gap reworded
+con-financial-instability-hypothesis: "Minsky moment" coined by McCulley 1998 not post-2008 analysts, added Minsky 1975, Big Government/Big Bank, folded gap
+con-hayek-knowledge-problem: article title in quotes; removed anachronistic "tacit" for Hayek 1945 and explained Polanyi relation; "two decades" -> 1920/quarter-century; added Hayek 1937 and Polanyi sources; folded gap
+con-impossible-trinity: attributed to Mundell-Fleming (Fleming 1962 added), trilemma term later; China wording softened; ERM 1992 and Asian 1997 crisis; citation details; folded gap
+con-inflation: fixed garbled Lebanon/Egypt sentence, dated Friedman dictum, Weimar/Cagan, full citations (AER 58(1) 1-17, Cagan ed. Friedman), added Friedman 1970, folded gap
+con-keynesian-multiplier: removed unsupported claim that New Deal/post-war reconstruction were designed with multiplier (New Deal predates GT), Kahn employment vs Keynes income multiplier, formula 1/(1-MPC), Barro 1974 Ricardian equivalence, added sources and empirical-estimate note, folded gap
+con-kuznets-curve: removed gap now covered; softened 'documented/validity' claims; added Alvaredo-Assouad-Piketty (RIW 2019) and Grossman-Krueger sources
+con-labour-theory-of-value: removed covered gap; corrected Smith 'early and rude state' framing and Ricardo invariable-measure claim; softened Ibn Khaldun quotation; added Sraffa 1960
+con-lender-of-last-resort: qualified Bagehot rule (collateral test, not solvency test); added Thornton; Minsky moment softened; removed unverifiable Arab central bank claims
+con-marginal-utility: removed covered gap by adding cardinal/ordinal section; corrected dates (Jevons/Menger 1871, Walras 1874); added sources
+con-modern-monetary-theory: removed caveat-gap (covered in body); Knapp 1905 work named and added to sources
+con-monopolistic-competition: removed Arab-market and e-commerce speculative claims; merged gap into criticism; added Dixit-Stiglitz 1977; publishers added
+con-phillips-curve: removed covered gap; corrected expectations mechanism (nominal/real wage illusion); added Phelps, Samuelson-Solow 1960; softened stagflation claim
+con-prebisch-singer-hypothesis: removed covered gap; Singer 'German-born British'; evidence claim tied to Grilli-Yang 1988
+con-quantity-theory-of-money-monetarism: removed covered gap; Fisher attribution for equation of exchange; Reagan/Thatcher claim corrected to Volcker Fed 1979+ and Thatcher MTFS
+con-r-greater-than-g-piketty: removed covered gap; dated French 2013/English 2014; softened 'inevitably'; elasticity critique stated as elasticity>1; added Rognlie 2015
+con-rent-seeking: removed covered gap; Krueger 1974 coining attributed; Olson 1965 added to sources
+con-rentier-state: Beblawi's chapter (not a book) in edited volume; added Mahdavy 1970 origin and Beblawi's criteria; merged covered gap
+con-ricardian-rent: merged covered gap by adding Later Generalizations section; noted Malthus/West/Torrens parallel
+con-says-law-of-markets: removed meta gap; clarified phrase attribution; added Keynes 1936 source
+con-sovereign-debt-and-default: softened 1982 crisis causes; corrected Egypt (1991 Paris Club) and Lebanon (March 2020); added vol/pages for Eaton-Gersovitz; merged gap
+con-steady-state-economy: removed covered gap; corrected Daly policy instruments (min/max income, birth licences); softened degrowth contrast; Mill precursor
+con-transaction-costs: Coase did not use term 'transaction costs' in 1937; added Williamson's concepts and Coase 1960; removed covered gap
+con-unequal-exchange: stated Emmanuel's capital-mobility/wage assumptions; removed unsupported Arab-context claim; added criticism; publisher/French dates; merged gap
+con-walrasian-general-equilibrium: auctioneer presented as later personification of tatonnement; second welfare theorem convexity caveat; page range; Debreu 1959; merged gap
+dbt-austerity-vs-stimulus-after-2008: expansionary austerity was not based on Reinhart-Rogoff (Giavazzi-Pagano, Alesina-Ardagna); corrected Herndon-Ash-Pollin account (graduate course, R&R acknowledged error); IMF programme years; Blanchard-Leigh 2013 added; reworded gap
+dbt-cambridge-capital-controversy: corrected reswitching description (A-B-A pattern); added Robinson 1953; removed covered gap
+dbt-developmental-state-industrial-policy: removed unsupported keiretsu-specific claim; added World Bank 1993; reworded gap
+dbt-dutch-disease-and-resource-curse: Sachs-Warner period 1970-1989; Auty coined term (1993); removed Nigeria civil war example; Corden-Neary 1982 added; merged gap
+dbt-efficient-markets-vs-behavioral-finance: removed meta gap; Shiller 1981 variance-bound study dated and tied to dividends; added Kahneman-Tversky 1979, Shiller 1981; Fama 1970 presented as canonical statement
+dbt-foreign-aid-effectiveness-sachs-easterly: corrected Sachs and MDG claim (UN Millennium Project 2002-06); removed invented 'planner's dilemma' term and unverifiable donor-agency/Arab-context claims; added Rosenstein-Rodan; removed meta gaps
+dbt-marx-transformation-problem: Bortkiewicz dated 1907 and added source; Sweezy publisher fixed; Steedman 1977 replaces unsourced slogan; TSSI proponents Kliman/Freeman; Sraffa data description corrected; removed meta gap
+dbt-optimal-top-tax-rates: removed wrong 37-40% 'prevailing rate' claim; corrected Reagan-era top rates (70/50/28); PSS 2014 about 83% estimate; softened Diamond-Saez claims; added gaps: []
+dbt-socialist-calculation-debate: removed invented "planned chaos" quote (Mises 1947), fixed Hayek chronology/claim, added Barone/Weber/Dickinson/Taylor, Hayek source, cleared gap
+dbt-wealth-tax: softened Piketty rate claim, French ISF/IFI wording, Biden/Wyden proposal wording, Switzerland claim, Summers-Sarin citation, translation date
+fld-development-political-economy: fixed Cardoso-Faletto English edition date (1979, not 1971)
+sch-arab-developmentalism-and-state-planning: moved label caveat into body, reworded gap as not yet covered
+sch-austrian-school-of-economics: corrected Mises/Hayek emigration chronology, ABCT attribution (Mises 1912, Hayek 1931), Menger translation date, added sources, cleared gap
+sch-classical-political-economy: removed file-commentary gaps, softened Ibn Khaldun parallel wording
+sch-classical-theories-of-imperialism: fixed Lenin's sources (rejected Luxemburg; used Hilferding/Hobson/Bukharin), Amin attribution, Bernstein wording, Lenin publication detail, removed commentary gaps
+sch-development-economics: removed anachronistic Easterly attribution for 1980s critique/structural adjustment, fixed Hirschman-as-planner framing, softened RCT examples, added Rosenstein-Rodan/Nurkse/ul Haq and sources, cleared gaps
+sch-east-asian-developmental-state: reworded gap, added Wade source
+sch-ecological-and-degrowth-economics: Limits to Growth described as scenarios not predictions, added Georgescu-Roegen/Latouche, Meadows source, moved distinction into body, cleared commentary gap
+sch-economics-of-inequality: Atkinson no longer called Piketty's teacher, fixed date label, added Atkinson source, cleared gap
+sch-general-equilibrium-theory: Fisher training corrected (Gibbs, not engineering), added Wald, welfare theorems attribution, SMD theorems replacing vague behavioral-economics claim, page range, Debreu source, reworded gap
+sch-german-historical-school-economics: removed gaps (one contained wrong chronology re Muhammad Ali/List), added Hildebrand/Knies
+sch-homo-economicus-rational-choice-economics: Becker dissertation/book dating clarified, added Kahneman-Tversky and page range, cleared gap
+sch-international-political-economy: fixed Keohane-Nye anachronism (1977, not post-Cold War), Stiglitz framing, added Gilpin, reworded gap
+sch-islamic-banking-and-finance: reworded gap, removed redundant gap
+sch-keynesian-economics: fixed New Deal causal claim (predates General Theory), Skidelsky publisher/year, cleared gaps
+sch-latin-american-structuralism-cepal: clarified CEPAL founding (1948) vs Prebisch 1949 report, Executive Secretary dates, Furtado, removed file-commentary, cleared gap
+sch-marginal-revolution: Boehm-Bawerk no longer called Menger's student, added Gossen, removed unverifiable Arabic-reception section, cleared gap
+sch-marshallian-neoclassical-economics: Robinson wrongly called Marshall's student (replaced with Sraffa/Robinson/Chamberlin), Edgeworth not Marshall's Oxford colleague, Edgeworth box attribution, Veblen 1900 coinage moved into body, cleared gap
+sch-marx-critique-of-political-economy: removed doubtful Ibn Khaldun quotation, Mandel edition date (1968, French 1962), removed file-commentary gap, reworded gap
+sch-mercantilism-and-cameralism: corrected Mun quotation, Smith/comparative advantage attribution (Ricardo), added Seckendorff/Becher/Misselden nuance, Heckscher source, cleared commentary gaps
+sch-modern-islamic-economics: Sadr ownership forms corrected (private/public/state), added Maududi precursor, removed doubtful publisher detail, cleared gaps
+sch-monetarism-chicago-school: Friedman address date (Dec 1967, publ. 1968) and Phelps, Fed target retreat dating, Friedman on CB independence, Depression claim reworded, Chicago-school note moved to body, cleared gap
+sch-mercantilism-and-cameralism: corrected Mun quotation, Smith/comparative advantage attribution (Ricardo), added Seckendorff/Becher/Misselden nuance, Heckscher source, cleared commentary gaps
+sch-modern-islamic-economics: Sadr ownership forms corrected (private/public/state), added Maududi precursor, removed doubtful publisher detail, cleared gaps
+sch-monetarism-chicago-school: Friedman address date (Dec 1967, publ. 1968) and Phelps, Fed target retreat dating, Friedman on CB independence, Depression claim reworded, Chicago-school note moved to body, cleared gap
+sch-monetary-economics-tradition: removed non-gap boundary note (gaps: []); clarified Wicksell title/translation year; softened Fisher proportionality; fixed debt-deflation wording; added sources
+sch-neoclassical-keynesian-synthesis: removed covered gap; 'Grand Neoclassical Synthesis' softened; Phillips 1958 specified; Friedman/Phelps/Lucas order fixed; removed overclaim 'first time' Keynesian policy and IS-LM CEA claim; LM wording; added Phillips source
+sch-new-institutional-economics: gaps cleared (cross-node note removed, dispute covered in body); Coase theorem attributed to 1960 'Social Cost' article and Stigler's naming; source added
+sch-paretian-welfare-economics: removed meta gap; Pigou externalities softened (Marshall precedent); emissions trading no longer attributed to Pigou; Kaldor-Hicks dated 1939
+sch-post-keynesian-economics: gap deleted (covered by Internal Diversity section); Kalecki heading neutralised; Sraffa 1960 added to capital-controversy text and sources
+sch-public-choice-theory: rent-seeking coinage corrected (Tullock 1967 groundwork, Krueger 1974 term); centre history corrected (UVA, Virginia Tech 1969, GMU 1983); meta gap removed; source added
+sch-rentier-state-theory: added Mahdavy 1970 origin; Beblawi definition corrected; removed unsupported Georges Corm claim; gap covered with Dutch disease section; source added
+sch-schumpeterian-evolutionary-economics: Nelson-Winter dated to 1980s not mid-century; gap on Schumpeter's intellectual origins covered in body (Wieser, Boehm-Bawerk); cycle sentence cleaned
+sch-soviet-planning-economics: removed duplicate-avoidance gap; Gosplan overstatement softened; Mises 1920/Hayek dating clarified; Lange dated; Kosygin 1965
+stu-acemoglu-johnson-robinson-colonial-origins-2001: mortality data source specified (soldiers, bishops, sailors; Curtin); AJR reply to Albouy noted; gap removed (covered)
+stu-akerlof-market-for-lemons-1970: replication gap converted to body note; minor wording
+stu-banerjee-duflo-microfinance-hyderabad-2015: follow-up horizon corrected from six years to ~3 years (baseline 2005, waves at 15-18 months and ~3 yrs); 52/52 split and Spandana named; control group wording fixed (not later treated within study); gap converted to body list of other trials; Nobel sentence corrected
+stu-chetty-intergenerational-mobility-2014: city examples corrected (San Jose, Salt Lake City high; Charlotte, Atlanta low); outcome age/quintile wording; correlational caveat moved to body, gap removed
+stu-easterlin-paradox-1974: described as 1974 festschrift essay not journal article; removed invented income-threshold claim; softened Bhutan/Raworth influence claim; gap covered in body, removed
+stu-herndon-ash-pollin-replication-2013: sample corrected from 44 countries to 20 advanced economies (1946-2009); excluded-years description fixed (early postwar years), weighting example reworded, corrected growth figure (~2.2% vs -0.1%) added; working paper vs 2014 publication clarified; gap folded into body
+stu-kahneman-deaton-income-wellbeing-2010: gap covered by new section (Killingsworth 2021; 2023 adversarial collaboration added with source)
+stu-leontief-paradox-1953: finding quantified (import-competing ~30% more capital-intensive); gravity model no longer presented as a response to paradox; 1956 follow-up and Leontief's own productivity explanation added; gap removed (covered)
+stu-piketty-saez-top-incomes-2003: 'Great Compression' attributed to Goldin-Margo and dated mainly to 1940s (not through 1970s); WID contributors corrected; Arab countries claim removed; methodological gap folded into body
+stu-progresa-conditional-cash-transfers-mexico: treatment/control split corrected (320/186, not half); delay ~18 months; 'first' softened to 'one of the first'; renaming (Oportunidades 2002, Prospera 2014) folded into body; Bolsa Familia claim softened
+stu-reinhart-rogoff-growth-in-a-time-of-debt-2010: sample clarified (44-country debt database vs 20 advanced economies 1946-2009 for growth table); AER Papers & Proceedings described correctly (not 'working paper'); excluded countries list corrected to five; gap folded
+stu-solow-residual-1957: added Solow's actual estimate (~7/8 residual, ~1/8 capital); TFP wording caveated; gap folded into existing criticism section
+thk-abhijit-banerjee: birth/education details corrected (Bombay-born, Calcutta/JNU, Harvard PhD 1988); J-PAL co-founder Mullainathan added; mosquito-net example (Cohen-Dupas) removed; unsupported Nobel-committee and 'implicitly acknowledges' claims removed; Good Economics for Hard Times added; gap folded
+thk-albert-o-hirschman: biography corrected (left Germany 1933, Trieste doctorate 1938, Spanish Civil War, Varian Fry committee Marseille, Federal Reserve, Colombia roles); removed invented-looking 'difficult, resistant moderation' quote; Rhetoric of Reaction theses/1991 added; late-years self-criticism claims replaced with 'self-subversion'; gap folded; source added
+thk-alexander-chayanov: book title/year fixed (Organizatsiya krestyanskogo khozyaistva 1925; English 1966); novella title, 1920 date and pseudonym added; arrest charge corrected to 'Toiling Peasant Party'; irrelevant Schumpeter source removed; Thorner/Kerblay/Smith credited; gap folded
+thk-alfred-marshall-economist: biographical details added (Bermondsey, St John's, Second Wrangler 1865, married 1877); supply-demand and consumer-surplus precedents (Cournot/Jevons, Dupuit) acknowledged; unsupported generalisation about spouses removed; gap folded
+thk-arthur-cecil-pigou: age at chair corrected to thirty, tenure to 1943; externalities attribution softened; emissions trading not attributed to Pigou; Pigou effect (1943) added; gap folded
+thk-carl-menger: birthplace and professorship dates added; Crown Prince Rudolf wording corrected; Methodenstreit origin (Untersuchungen 1883) and 1892 money essay added; unsupported claim about Menger's English removed; unverifiable Arabic-reception section deleted; gap folded
+thk-daron-acemoglu: removed redundant Nobel gap (covered in body); added MSc at LSE and 1993 MIT appointment; attributed automation work to joint research with Restrepo
+thk-david-ricardo: corrected religion (Quaker wife, later Unitarian, not Anglican); softened Waterloo speculation claim; retirement 1814; Sraffa edition with Dobb; removed redundant gap
+thk-elinor-ostrom: replaced invented 'Laboratory' with Workshop in Political Theory and Policy Analysis (1973); softened claim that departments refused women; added IAD outline and removed gap; removed unsupported Nobel-committee claim; groundwater agreements via negotiation and litigation
+thk-esther-duflo: age at Nobel corrected to 46; J-PAL co-founder Mullainathan added; advisers/marriage wording; removed vague teacher example and invented 'anti-poverty economics' quote; softened Obama/UN advisory claim to Global Development Council; added Chattopadhyay-Duflo source; removed redundant gap
+thk-eugen-von-bohm-bawerk: Austrian (not Austro-Hungarian common) finance minister with correct terms 1895/1896-97/1900-04; Innsbruck then Vienna professorship; added three grounds of interest and Bortkiewicz; softened Sraffa link; removed unsupported claim about spread vs Menger; removed gap; publisher of 1896 work corrected
+thk-friedrich-august-von-hayek: removed editorial gap about archived entry; clarified moves (Chicago 1950, Freiburg 1962, Salzburg 1969, retired 1977); Prices and Production origin
+thk-gary-becker: fixed family-economics attribution (Treatise on the Family 1981, marriage articles 1973-74); Nobel citation; added taste-for-discrimination, Human Capital 1964, Becker-Murphy 1988, Sen 'Rational Fools' 1977; added sources; removed gap
+thk-herman-daly: World Bank years corrected to 1988-1994 (not 1980s); Georgescu-Roegen was his teacher; rewrote garbled decoupling paragraph; added Cobb/ISEW and Beyond Growth; removed editorial gap
+thk-hyman-minsky: McCulley 1998 coinage stated in body, gap removed; Wray book year 2015 (not 2016); added Chicago/Harvard/Brown/Berkeley career details and Big Government/Big Bank; softened unverifiable claims about bank/hedge-fund analysts and 'near-literal enactment'; added 1975 Keynes book
+thk-james-m-buchanan: removed unverifiable gap on Buchanan-Tullock prefaces; added Virginia Tech phase (centre moved to GMU from VPI in 1983, not UVA); birthplace/death place; Wicksell influence; softened claims about named centre and curricula; added Limits of Liberty
+thk-joan-robinson: removed unsupported 'repeated nominations' claim (nominations are sealed); removed Soviet Union visits; birthplace; professorship 1965-71 and Girton; added 1953 article and 1966 Samuelson reswitching concession; removed gap
+thk-john-forbes-nash: active_end 1996->2015; schizophrenia onset 1959; Carnegie Tech; equilibrium existence stated correctly (finite games, mixed strategies, Kakutani 1950/Brouwer 1951); removed overclaims about auctions and 'two highest prizes'; film caveat; accident details; removed gap
+thk-john-hicks: added Nobel citation, Theory of Wages 1932, Hansen, Hicks-Allen 1934, 1980 self-critical essay; Kaldor-Hicks naming; softened Hicks couple's research claims; removed gap
+thk-john-maynard-keynes: Bretton Woods wording corrected (Clearing Union, White plan, chaired Bank commission); added Kahn multiplier 1931, Tract/Treatise; Keynes's private letter on Road to Serfdom; cause of death specified; added 1919 source; removed gap
+thk-joseph-schumpeter: removed unverifiable horseman/lover anecdote; corrected career (Böhm-Bawerk seminar, Bonn, Harvard 1932); added death/birth places, Mark I/II, Nelson-Winter source; stated prediction caveat in body and removed gap
+thk-joseph-stiglitz: CEA chairmanship dated 1995-97; career posts corrected (Yale, Stanford, Oxford, Princeton, Columbia 2001); added Rothschild-Stiglitz source and Stiglitz-Weiss; UN commission chaired 2009; Stiglitz chaired the Commission (not 'helped establish'); removed unverified adviser claim; removed editorial gap; active_end set to ongoing
+thk-kate-raworth: fixed affiliation (Oxford Environmental Change Institute; no 'Oxford Institute of Environment and Development'); added 2012 Oxfam paper origin of doughnut; Amsterdam 2020; DEAL co-founder; removed speculative Gulf-diversification section; removed gap
+thk-kenneth-arrow: active_end set to 2017; stated impossibility conditions correctly (>=3 alternatives, IIA, Pareto, non-dictatorship); welfare theorems credited to Arrow and Debreu independently 1951; Nobel youngest-at-the-time caveat; added 1962/1963 works; removed gap
+thk-leon-walras: removed unsupported claim that his father secured his Lausanne appointment; added early career details and 1896/1898 works; auctioneer labelled as later metaphor; Wald added to existence proofs; Pareto succession 1893; death place Clarens; removed gap
+thk-ludwig-von-mises: clarified Vienna seminar participants and NYU visiting post 1945-69; replaced doubtful Ebeling source with Theory of Money and Credit; softened Mises-vs-Hayek safety-net claim; praxeology criticism moved into body, gap removed; Mises Institute founded 1982
+thk-milton-friedman: added education path (Rutgers, Chicago MA, Columbia PhD 1946); Carpathian Ruthenia origin; Nobel citation and permanent income; 1967 AEA address with Phelps credit; softened stagflation and Fed causation language; Chile visit wording; removed editorial gaps
+thk-nikolai-kondratiev: corrected career (SR party, deputy food minister, founded Conjuncture Institute not an agricultural institute); 'Toiling Peasants' Party' trial wording corrected (sentenced 1932, shot 1938); removed incorrect 'show trial 1931' gap; removed unsupported Toynbee section; softened statistics claims; fixed English-translation citation
+thk-paul-samuelson: fixed family claim (Robert Summers was brother-in-law, not brother); replaced misquoted Nobel citation with the real one; added revealed preference, public goods, OLG, Stolper-Samuelson, Samuelson-Solow 1960; PhD 1941; Newsweek column from 1966; added 1966 'A Summing Up' source; removed gap
+thk-piero-sraffa: moved to Cambridge 1927; named 1926 EJ article; Gramsci wording softened (no 'smuggling' claim); removed impossible 'Gramsci in Cambridge'; added standard commodity, Dobb collaboration, Robinson 1953; Wittgenstein link restated; removed gap
+thk-robert-lucas-jr: tense (died 2023); policy ineffectiveness credited to Sargent and Wallace 1975 (not Lucas+Sargent); Nobel citation; RBC attributed to Kydland-Prescott; 2003 remark paraphrased and sourced; softened divorce anecdote; removed gap
+thk-robert-mundell: IMF/Chicago/Columbia timeline corrected; Fleming not specified as British; added OCA criteria of McKinnon and Kenen; removed claim that Mundell warned of euro risks (he supported the euro); softened castle claim; removed gap
+thk-rosa-luxemburg: Spartacist uprising wording corrected (she thought it premature; KPD founded Dec 1918-Jan 1919); soften 'implicit order' to Freikorps used by SPD government; Lenin disagreement restated accurately (1904 article, 1918 manuscript); added Reform or Revolution, Finance Capital, Imperialism dates; removed both gaps
+thk-samir-amin: Délinkage -> déconnexion; Third World Forum/IDEP role softened; gaps cleared
+thk-thomas-piketty: English edition 2014 noted; r>g 'inevitably' softened; Rognlie critique named; election-campaign claim removed; gap cleared
+thk-thomas-robert-malthus: chair claim softened to Britain; Carlyle 'dismal science' (1849) context corrected; gap cleared
+thk-vladimir-lenin: Imperialism written 1916/pub 1917; Progress Publishers 1917 source corrected; Luxemburg wording softened; gap cleared
+thk-w-arthur-lewis: LSE professorship corrected to Manchester chair (1948); Ghana/CDB/UWI roles clarified; Princeton dates; 'confirmed' claims softened; gap cleared
+thk-walter-eucken: GWB 1957/in force 1958; Eucken Institut 1954; Grundsaetze (1952) added; invented method quote removed; Nazi-era stance sentence added; gap cleared
+thk-william-easterly: Tyranny of Experts 2013->2014; World Bank 1985-2001; aid-policy influence softened; Elusive Quest source added; gap cleared
+wrk-a-monetary-history-of-the-united-states: Bernanke 2002 remark paraphrased (was verbatim quote, and he spoke to both authors, as a governor); Temin/Eichengreen critics added; NBER paragraph trimmed; gap cleared
+wrk-a-political-economy-of-the-middle-east-richards-waterbury: invented authorial classification/edition-update claims softened; Owen-Pamuk contrast reframed (not authors' own statement) with correct title; gap reworded
+wrk-an-evolutionary-theory-of-economic-change-nelson-winter: simulation-results claims made accurate; Cyert-March, NIS (1993), JEE (1991) context; overclaims removed; gap reworded
+wrk-capital-in-the-twenty-first-century-piketty: r>g inevitability softened; Rognlie critique; WID history; French edition source added; gap cleared
+wrk-capitalism-socialism-and-democracy-schumpeter: "academic exile" corrected (Harvard from 1932, voluntary move); forecast-accuracy caveat moved into body; context/overclaims softened; gap cleared
+wrk-finance-capital-hilferding: promoter profit/joint-stock section added (gap covered); Lenin acknowledgement nuanced; Lenin source corrected; publisher fixed; speculative tech-firm remark removed
+wrk-governing-the-commons-ostrom: Nobel co-laureate noted; "statistically" claims removed and sampling caveat added; Hardin open-access nuance; Workshop co-founding with V. Ostrom; policy-influence overclaims softened; gap cleared
+wrk-imperialism-the-highest-stage-of-capitalism-lenin: Luxemburg relation corrected (pamphlet does not engage her); censorship note tied to 1917 preface; popular-outline sources corrected (Hobson/Hilferding, not Luxemburg); unverified English-edition detail removed; gap cleared
+wrk-institutions-institutional-change-and-economic-performance-north: Nobel 1993 clarified (shared with Fogel, not caused by book); World Bank influence and growth-causation claims softened; path-dependence attribution added; internal cross-reference gap removed
+wrk-islam-and-mammon-kuran: identity-project thesis and Mawdudi added; "Zarqa" spelling; context corrected (essay collection, not post-9/11 treatise); unverified translation claims removed; curriculum overclaims softened; gap cleared (positions framed as Kuran's)
+wrk-manias-panics-and-crashes-kindleberger: Minsky/Kindleberger stage list corrected; Aliber editions dated from 2000; career (BIS, State Dept) corrected; 2008/Shiller claims softened; atlas-housekeeping gaps replaced by content gap; Minsky 1986 source added
+wrk-principles-of-political-economy-and-taxation-ricardo: 1823 Absolute and Exchangeable Value and 3rd-ed revisions noted; teaching/political-influence overclaims softened; gap cleared
+wrk-the-accumulation-of-capital-luxemburg: Anti-Critique dated (written 1915, published 1921); false claim that Lenin drew on Luxemburg removed; Bernstein-reply framing corrected (Social Reform or Revolution 1899, party school); critics (Bauer) and Bukharin source clarified; gap cleared
+wrk-the-calculus-of-consent-buchanan-tullock: "veil of uncertainty"; research-centre history (VPI then GMU) and Nobel 1986 rationale corrected; Tullock background (law/diplomat); unverifiable preface-disagreement gap removed; overclaims softened
+wrk-the-general-theory-of-employment-interest-and-money: "struggle of escape" is from the preface not correspondence; liquidity trap term is later; New Deal basis claim removed; Kahn multiplier credited; interpretive-dispute gap folded into body
+wrk-the-oil-curse-ross: reframed "timing of discovery" thesis as weak-institutions/poor-country effect (removed US/UK/Gulf-as-examples); 2001 article claims moderated ("causal" removed); Vision 2030 section removed (book predates it); statistical-proof claims softened; atlas-housekeeping gap replaced
+wrk-the-rentier-state-beblawi-luciani: Luciani distinction corrected (allocation vs production states, not productive vs distributive); Beblawi four-part definition and chapter titles; Mahdavy 1970 origin added; invented conference and Vision-2030 anticipation claims removed; gap reworded
+wrk-the-theory-of-economic-development-schumpeter: Schumpeter career corrected (finance minister 1919, banker, Harvard 1932); translation from 2nd German edition 1926; endogenous-growth/priority overclaims softened; gap reworded to German editions not covered
+wrk-the-use-of-knowledge-in-society-hayek: "tacit knowledge" (Polanyi term) replaced by Hayek's own "particular circumstances of time and place"; length corrected (12 pp); computer-science/citation overclaims softened; Polanyi gap folded into body
+wrk-the-wealth-of-nations-smith: pin-factory figures corrected (<20 vs 48,000 per Smith); invisible hand occurs once noted; Buccleuch tutor detail; sale/translation claims tightened; TMS paragraph added so gaps cleared
 thk-habermas: removed an unverifiable death claim (March 2026) and set dates to born 1929; confirm current status before adding
