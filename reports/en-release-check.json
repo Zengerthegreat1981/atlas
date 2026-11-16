@@ -1,12 +1,12 @@
 {
-  "total_files": 1370,
+  "total_files": 1522,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 1040,
-    "declared-gaps": 312,
+    "edge-target-by-name": 1166,
+    "declared-gaps": 293,
     "placeholder": 3,
-    "short": 11,
+    "short": 6,
     "duplicate-id-groups": 0
   },
   "flag_examples": {
@@ -30,19 +30,19 @@
     "declared-gaps": [
       "br-attachment-theory",
       "br-classical-psychoanalysis",
-      "br-sociology-of-art",
-      "con-agency-anthropology",
       "con-ahimsa",
-      "con-alienation",
       "con-anamnesis-recollection",
       "con-anatta-non-self-concept",
-      "con-anomie",
       "con-anxiety-existential",
       "con-anxiety",
       "con-ataraxia",
       "con-attention",
       "con-authenticity",
-      "con-authority"
+      "con-correlation",
+      "con-death",
+      "con-deviance",
+      "con-differentiation-self",
+      "con-emotional-intelligence"
     ],
     "placeholder": [
       "con-division-labor",
@@ -51,11 +51,6 @@
     ],
     "short": [
       "con-division-labor",
-      "con-social-movement",
-      "stu-schoolyard-stories",
-      "stu-suburban-dreams",
-      "stu-the-dignity-deficit",
-      "stu-the-second-shift-in-china",
       "thk-abdalla-salem",
       "thk-akira-fujii",
       "thk-ming-ming-kuo",
@@ -65,9 +60,9 @@
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 1359,
+    "review-candidate": 1516,
     "placeholder": 3,
-    "draft-short": 8
+    "draft-short": 3
   },
   "by_module": {
     "anthropology": {
@@ -88,13 +83,12 @@
       "review-candidate": 309
     },
     "sociology": {
-      "review-candidate": 288,
-      "draft-short": 5
+      "review-candidate": 445
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 1370,
-    "source nodes": 1370,
+    "data-en.json nodes": 1522,
+    "source nodes": 1522,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

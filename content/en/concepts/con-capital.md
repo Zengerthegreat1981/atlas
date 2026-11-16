@@ -12,67 +12,39 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Capital
 
-## Conceptual Definition and Genealogy
+In sociology, capital is a resource that can be accumulated, invested and passed on, and that yields returns or advantages to its holder. The term originated in economics and in Marx's critique of political economy and was extended in the late twentieth century to cultural, social and human forms.
 
-Capital is a foundational concept in sociological analysis with particular meaning distinct from everyday usage. The concept emerged from specific intellectual traditions addressing certain questions about social phenomena. Historical development of the concept reflected changing theoretical concerns and empirical discoveries. Different sociological schools have understood the concept somewhat differently, creating productive tensions. The word itself has history revealing how the concept evolved through scholarship. Tracing genealogy of the concept illuminates its theoretical foundations and continuing importance. Contemporary precision in using the concept requires understanding this historical development.
+## Marx: Capital as a Social Relation
 
-## Theoretical Foundations
+Karl Marx, in *Capital* (volume 1, 1867), treated capital not as a thing but as value that expands itself through a social relation: capitalists who own the means of production purchase the labor power of workers who must sell it in order to live. In the circuit of money used to buy commodities that are sold for more money (M–C–M'), the surplus value appropriated from unpaid labor time is the source of profit. Accumulation is driven by competition and produces a class division between owners and wage workers. Marx also criticized the way commodities seem to have social properties of their own (commodity fetishism).
 
-The concept rests on particular assumptions about how society works and how to analyze it scientifically. Theoretical foundations establish what the concept is supposed to explain or describe. Different theoretical frameworks sometimes use the concept differently, leading to multiple meanings in contemporary sociology. The concept's theoretical grounding makes it valuable for empirical research. Understanding theoretical foundations helps assess when the concept is appropriately applied. Theoretical precision requires recognizing what aspects of social life the concept captures and what it obscures. The concept evolved as theoretical frameworks developed, gaining new dimensions of meaning.
+## Human, Cultural and Social Capital
 
-## Classical Formulations
+Economists such as Gary Becker, in *Human Capital* (1964), analyzed skills and education as investments by individuals that raise future earnings. Pierre Bourdieu, in "The Forms of Capital" (1986), proposed a wider framework in which economic capital can be converted, at a cost and with effort, into other forms. *Cultural capital* exists in embodied form (lasting dispositions and tastes acquired through upbringing), in objectified form (books, instruments) and in institutionalized form (educational credentials). *Social capital* is the actual or potential resources linked to membership in durable networks. *Symbolic capital* is the prestige and recognition that other forms receive when they are perceived as legitimate. For Bourdieu these forms explain how class advantage is reproduced even when it is not transmitted as money.
 
-Classical sociologists developing the concept articulated core features still recognized today. Early definitions established parameters for subsequent usage. Classical theorists demonstrated how the concept illuminated particular social phenomena. Their work established conventions about when and how to apply the concept. Subsequent scholars have sometimes modified or challenged classical formulations. Contemporary debates often return to classical definitions to clarify current disagreements. Understanding classical formulations provides foundation for recognizing contemporary variations and extensions.
+James Coleman (1988) defined social capital by its function, as aspects of social structure, such as trust, norms and closure in networks, that facilitate action and help produce human capital; his example was the role of community ties in school outcomes. Robert Putnam's *Bowling Alone* (2000) used the concept to argue that civic engagement and associational membership in the United States declined from the 1960s, with costs for trust and civic life. Nan Lin's *Social Capital* (2001) treated it as resources embedded in social networks that individuals can access for instrumental action.
 
-## Major Theoretical Schools and Their Interpretation
+## Wealth and Capital in the Twenty-First Century
 
-Different sociological schools have adopted and developed the concept in distinctive ways. Functionalist approaches understand the concept in terms of social functions and integration. Conflict approaches emphasize how the concept relates to domination and inequality. Interpretive traditions focus on how the concept helps understand meaning and interaction. Critical approaches question whether the concept adequately addresses power and resistance. Each tradition contributes distinctive insights while potentially missing dimensions emphasized elsewhere. Contemporary scholarship increasingly integrates insights from multiple traditions. The concept's continuing vitality partly depends on capacity to accommodate multiple perspectives.
+Thomas Piketty's *Capital in the Twenty-First Century* (2013; English 2014) used long-run historical data on income and wealth in many countries to argue that when the return on capital exceeds the rate of economic growth, wealth tends to concentrate, and that the strong decline of inequality in the mid-twentieth century reflected the shocks of war and policy and not a stable tendency. The thesis has been debated on both data and theory.
 
-## Empirical Applications and Research Examples
+## Critique
 
-Sociologists apply the concept empirically to understand specific social phenomena and patterns. Research demonstrates how the concept illuminates dimensions of social life otherwise difficult to recognize. Empirical applications have extended the concept's meaning in light of research findings. Quantitative research develops measurement approaches for assessing the concept. Qualitative research documents how the concept manifests in particular contexts and settings. Comparative research examines whether the concept applies across different societies and cultures. Longitudinal research traces how the concept's manifestations change over time. Contemporary applications address phenomena earlier scholars could not have anticipated.
+Alejandro Portes (1998) warned that social capital was being stretched to cover so many phenomena that its meaning blurred, and that it risks confusing the resource, its sources and its effects, and treating networks as uniformly beneficial when they can also exclude outsiders and impose conformity. Critics of the broader use of the word, from a Marxist perspective, argue that extending "capital" to skills, networks and culture hides the distinction between owning means of production and merely possessing capacities, and so the structural relation of exploitation.
 
-## Relationship to Other Core Concepts
+## Sources
 
-Capital interconnects with other foundational concepts forming coherent analytical framework. Understanding the concept requires grasping how it relates to complementary and contrasting concepts. The relationship clarifies what specific phenomena the concept helps analyze. Different theoretical schools sometimes organize these relationships differently. Conceptual interdependence means changing understanding of one concept affects understanding of related concepts. Advanced sociological analysis often involves integrating multiple concepts to develop nuanced understanding. Mapping conceptual relationships helps prevent misapplication or confusion.
-
-## Social Inequality Dimensions
-
-The concept connects to how societies distribute resources, opportunities, and life chances unequally. Understanding these connections illuminates mechanisms producing and reproducing inequality. Different groups experience and understand the concept differently depending on social position. Power relationships shape both what the concept means and how it operates in practice. The concept sometimes obscures inequality dimensions that critical approaches emphasize. Feminist, postcolonial, and critical race perspectives have extended understanding of inequality dimensions. Integrating attention to inequality prevents depoliticizing what are fundamentally questions of justice.
-
-## Contemporary Manifestations and Changes
-
-The concept manifests differently in contemporary social conditions than in classical sociological era. Digital technologies, globalization, and environmental change raise new questions about the concept. Contemporary scholars debate whether the concept requires modification to address 21st-century phenomena. The concept's continuing relevance depends partly on flexibility to address changing social conditions. Some argue the concept remains valid despite historical change while others contend fundamental revision necessary. Contemporary research extends the concept to new domains. Digital humanities apply computational methods to examine how the concept operates in massive datasets.
-
-## Limitations and Critiques
-
-Critics argue the concept inadequately captures important dimensions of social life. Some contend the concept reflects particular perspective not universally applicable. Others argue the concept obscures power relationships and responsibility. Postcolonial critique questions whether the concept reflects Western assumptions. Feminist scholarship has identified gender dimensions the concept historically overlooked. Critical scholars argue the concept sometimes legitimizes domination as natural. Contemporary proponents acknowledge limitations while maintaining the concept's analytical value. Addressing criticism without abandoning the concept remains ongoing theoretical challenge.
-
-## Measurement and Operationalization
-
-Sociologists operationalize the concept into measurable variables enabling empirical research. Different operationalizations sometimes capture somewhat different dimensions of the concept. Quantitative research requires precise definitions enabling consistent measurement. Qualitative research preserves complexity while sacrificing measurement consistency. The relationship between abstract concept and concrete measures always involves interpretive judgment. Contemporary development of measurement approaches reflects competing theoretical interpretations. Valid operationalization requires theoretical sophistication alongside technical competence.
-
-## Interdisciplinary Applications
-
-Related disciplines apply the concept with distinctive emphases. Disciplinary differences sometimes produce different understanding of the same concept. Interdisciplinary dialogue enriches understanding while potentially creating confusion. The concept's applicability across disciplines suggests broad explanatory value. Discipline-specific usage sometimes extends the concept in productive new directions. Understanding multiple disciplinary applications prevents parochialism. Interdisciplinary work increasingly requires translation between concepts with similar names but different meanings.
-
-## Future Directions and Theoretical Development
-
-Scholars debate whether the concept requires modification, extension, or replacement. Contemporary challenges prompt theorists to reconsider conceptual foundations. Emerging research sometimes produces findings requiring conceptual refinement. Dialogue with non-Western traditions may introduce alternative concepts. The concept's future depends on continued relevance to sociological analysis. Generational turnover of scholars brings new perspectives to traditional concepts. Digital sociology and computational methods open new analytical possibilities.
-
-## Sources and Further Reading
-
-- Classical sociological texts developing and defining the concept
-- Comprehensive reviews of how different traditions understand the concept
-- Empirical research applying the concept to specific phenomena
-- Critical engagements questioning the concept's adequacy
-- Methodological works addressing measurement and operationalization
-
+- Marx, Karl. *Capital: A Critique of Political Economy*, vol. 1. 1867.
+- Becker, Gary S. *Human Capital*. National Bureau of Economic Research / Columbia University Press, 1964.
+- Bourdieu, Pierre. "The Forms of Capital." In *Handbook of Theory and Research for the Sociology of Education*, edited by John G. Richardson. Greenwood Press, 1986, pp. 241–258.
+- Coleman, James S. "Social Capital in the Creation of Human Capital." *American Journal of Sociology* 94 (Supplement), 1988, pp. S95–S120.
+- Portes, Alejandro. "Social Capital: Its Origins and Applications in Modern Sociology." *Annual Review of Sociology* 24, 1998, pp. 1–24.
+- Putnam, Robert D. *Bowling Alone: The Collapse and Revival of American Community*. Simon & Schuster, 2000.
+- Lin, Nan. *Social Capital: A Theory of Social Structure and Action*. Cambridge University Press, 2001.
+- Piketty, Thomas. *Capital in the Twenty-First Century*. Harvard University Press, 2014.

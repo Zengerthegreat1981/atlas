@@ -9,7 +9,7 @@ en: James S. Coleman
 crumb: "Sociology ← James S. Coleman"
 dates: International · 1926-1995
 active_start: 1926
-active_end: مستمر
+active_end: 1995
 edges: []
 related: []
 gaps:
@@ -25,7 +25,7 @@ James Samuel Coleman (1926-1995) was an American sociologist who combined large-
 
 ## Life and Context
 
-Coleman was born in Bedford, Indiana. He trained as a chemical engineer before turning to sociology, and received his doctorate at Columbia University in 1955, where he was influenced by Paul Lazarsfeld and Robert K. Merton. He taught at the University of Chicago, then Johns Hopkins University, and from 1973 the University of Chicago again. He served as president of the American Sociological Association in 1992.
+Coleman was born in Bedford, Indiana. He trained as a chemical engineer before turning to sociology, and received his doctorate at Columbia University in 1955, where he was influenced by Paul Lazarsfeld and Robert K. Merton. He taught at the University of Chicago, then Johns Hopkins University, and from 1973 the University of Chicago again. He served as president of the American Sociological Association in the early 1990s.
 
 ## Main Ideas
 

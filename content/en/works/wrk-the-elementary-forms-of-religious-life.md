@@ -24,7 +24,7 @@ Durkheim published the book in Paris in 1912, when he was fifty-four and the dom
 
 ## Author's Biographical Situation
 
-Durkheim was born in 1858 in Épinal, in eastern France, into a family of rabbis — his father and grandfather were rabbis. He was educated at the École Normale Supérieure, where he studied philosophy before turning to the new science of sociology. He taught at Bordeaux and then at the Sorbonne, where he held the first chair of sociology in France. His Jewish background in a Catholic country, and his position as a secular republican intellectual in a deeply divided France, shaped his lifelong preoccupation with the moral foundations of social order: what holds a society together when traditional religion declines? The book was in part his answer. 
+Durkheim was born in 1858 in Épinal, in eastern France, into a family of rabbis — his father and grandfather were rabbis. He was educated at the École Normale Supérieure, where he studied philosophy before turning to the new science of sociology. He taught at Bordeaux and then at the Sorbonne, where he became professor of education and sociology. His Jewish background in a Catholic country, and his position as a secular republican intellectual in a deeply divided France, shaped his lifelong preoccupation with the moral foundations of social order: what holds a society together when traditional religion declines? The book was in part his answer. 
 
 ## Core Argumentative Structure
 
@@ -40,7 +40,7 @@ Durkheim's evidence comes from Spencer and Gillen's accounts of the Arunta (Arre
 
 ## Continuing Relevance and Critical Assessments
 
-The book remains a live resource because its central question — what holds societies together — has not gone away. Sociologists of secularisation use Durkheim to ask whether modern societies can sustain solidarity without shared ritual, and scholars of nationalism, sport, and political ceremony apply his theory of the sacred to flag rituals, memorials, and mass gatherings. At the same time, the book's empirical foundation has been heavily criticised. Later anthropologists showed that Spencer and Gillen's account of the Arunta was unreliable, that Australian totemism is far more complex than Durkheim allowed, and that his image of "elementary" religion rested on a colonial hierarchy of simple and complex societies. 
+The book remains a live resource because its central question — what holds societies together — has not gone away. Sociologists of secularisation use Durkheim to ask whether modern societies can sustain solidarity without shared ritual, and scholars of nationalism, sport, and political ceremony apply his theory of the sacred to flag rituals, memorials, and mass gatherings. At the same time, the book's empirical foundation has been heavily criticised. Later anthropologists, notably T. G. H. Strehlow, questioned Spencer and Gillen's account of the Arunta as partial and in places mistaken, and showed that Australian totemism is far more complex than Durkheim allowed; critics also argue that his image of "elementary" religion rested on a colonial hierarchy of simple and complex societies. 
 
 ## Sources
 

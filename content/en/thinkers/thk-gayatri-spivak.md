@@ -13,8 +13,6 @@ active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
@@ -44,6 +42,10 @@ Spivak was born in Calcutta in 1942 and studied there before moving to the Unite
 - Outside in the Teaching Machine (1993)
 - A Critique of Postcolonial Reason (1999)
 - Death of a Discipline (2003)
+
+## Case Studies
+
+"Can the Subaltern Speak?" discusses the debate on the abolition of widow immolation (sati) in colonial India and the case of Bhuvaneswari Bhaduri, a young woman who took her own life in 1926, to examine how the subaltern woman's act was interpreted by others. Spivak has also translated the fiction of the Bengali writer Mahasweta Devi, including *Imaginary Maps* (1995) and *Breast Stories* (1997).
 
 ## Method
 

@@ -18,7 +18,7 @@ gaps:
 
 # The Poverty of Philosophy
 
-Karl Marx's *The Poverty of Philosophy* (1847) is a short book that marks a decisive turn in his intellectual development. Published in French in Brussels and Paris under the full title *Misère de la philosophie: Réponse à la philosophie de la misère de M. Proudhon*, it answers Pierre-Joseph Proudhon's *Système des contradictions économiques, ou Philosophie de la misère* (1846). Marx had once admired Proudhon, the French socialist famous for declaring "property is theft," but the reply is merciless. In attacking Proudhon, Marx works out for the first time in sustained form the method that would become historical materialism: economic categories are not eternal ideas but the theoretical expressions of historically specific social relations of production.
+Karl Marx's *The Poverty of Philosophy* (1847) is a short book that marks a decisive turn in his intellectual development. Published in French in Brussels and Paris under the full title *Misère de la philosophie: Réponse à la philosophie de la misère de M. Proudhon*, it answers Pierre-Joseph Proudhon's *Système des contradictions économiques, ou Philosophie de la misère* (1846). Marx had once admired Proudhon, the French socialist famous for declaring "property is theft," but the reply is merciless. In attacking Proudhon, Marx sets out publicly, and in polemical form, the method of historical materialism he had begun to formulate in *The German Ideology*: economic categories are not eternal ideas but the theoretical expressions of historically specific social relations of production.
 
 ## Historical Context and Publication
 
@@ -53,5 +53,5 @@ Critics have noted that the book is more successful as polemic than as economics
 - David McLellan, *Karl Marx: His Life and Thought* (1973).
 - Gareth Stedman Jones, *Karl Marx: Greatness and Illusion* (2016).
 - Jonathan Sperber, *Karl Marx: A Nineteenth-Century Life* (2013).
-- Terrell Carver, ed., *The Cambridge Companion to Marx* (2008).
+- Terrell Carver, ed., *The Cambridge Companion to Marx* (1991).
 - Allen W. Wood, *Karl Marx* (1981).

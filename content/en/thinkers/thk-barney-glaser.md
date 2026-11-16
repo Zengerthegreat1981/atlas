@@ -7,9 +7,9 @@ level: متوسط
 title: Barney Glaser
 en: Barney Glaser
 crumb: "Sociology ← Barney Glaser"
-dates: International · 1930-present
+dates: International · 1930-2022
 active_start: 1930
-active_end: مستمر
+active_end: 2022
 edges: []
 related: []
 gaps:
@@ -22,7 +22,7 @@ sociological_paradigm: micro-macro
 
 # Barney Glaser
 
-Barney Glaser (born 1930) is an American sociologist and the co-founder, with Anselm Strauss, of grounded theory, a systematic method for generating theory from qualitative data. He remained its most committed defender of a classic, inductive version of the method.
+Barney Glaser (1930-2022) was an American sociologist and the co-founder, with Anselm Strauss, of grounded theory, a systematic method for generating theory from qualitative data. He remained its most committed defender of a classic, inductive version of the method.
 
 ## Life and Context
 

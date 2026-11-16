@@ -8,71 +8,43 @@ title: "Anomie"
 en: Anomie
 crumb: "Sociology ← Anomie"
 dates: ''
-active_start: 1900
+active_start: 1893
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Anomie
 
-## Conceptual Definition and Genealogy
+Anomie, from the Greek *a-nomos* (without law or norm), refers to a condition in which social norms are weak, absent, or in conflict, so that people lack clear guidance about what to want and how to act. The concept is most closely associated with Emile Durkheim, who made it central to his analysis of modern society, and it was later reshaped by Robert Merton into a theory of deviance. It is closely related to, but distinct from, alienation, which concerns estrangement rather than the breakdown of normative regulation.
 
-Anomie is a foundational concept in sociological analysis with particular meaning distinct from everyday usage. The concept emerged from specific intellectual traditions addressing certain questions about social phenomena. Historical development of the concept reflected changing theoretical concerns and empirical discoveries. Different sociological schools have understood the concept somewhat differently, creating productive tensions. The word itself has history revealing how the concept evolved through scholarship. Tracing genealogy of the concept illuminates its theoretical foundations and continuing importance. Contemporary precision in using the concept requires understanding this historical development.
+## Durkheim's Formulation
 
-## Theoretical Foundations
+Durkheim used the term in *The Division of Labour in Society* (1893), where an anomic division of labour is one of the abnormal forms that arise when specialisation outpaces the moral rules that should govern relations between occupational groups. In the preface to the second edition (1902) he argued that occupational associations could supply such regulation. The word was in use before him, and the French philosopher Jean-Marie Guyau had already used it in the 1880s, but Durkheim gave it its sociological meaning.
 
-The concept rests on particular assumptions about how society works and how to analyze it scientifically. Theoretical foundations establish what the concept is supposed to explain or describe. Different theoretical frameworks sometimes use the concept differently, leading to multiple meanings in contemporary sociology. The concept's theoretical grounding makes it valuable for empirical research. Understanding theoretical foundations helps assess when the concept is appropriately applied. Theoretical precision requires recognizing what aspects of social life the concept captures and what it obscures. The concept evolved as theoretical frameworks developed, gaining new dimensions of meaning.
+In *Suicide* (1897) anomie became the basis for one of four types of suicide, alongside egoistic, altruistic, and fatalistic suicide. Durkheim argued that human desires are not naturally limited, and so need to be regulated by society. When sudden economic change, whether a crisis or a boom, or a disruption such as divorce, removes accustomed limits, aspirations lose their anchor and some people are driven to self-destruction. Durkheim's statistical argument has been widely criticised for its reliance on official suicide records, but the idea of anomie as a failure of moral regulation has remained influential.
 
-## Classical Formulations
+## Merton's Strain Theory
 
-Classical sociologists developing the concept articulated core features still recognized today. Early definitions established parameters for subsequent usage. Classical theorists demonstrated how the concept illuminated particular social phenomena. Their work established conventions about when and how to apply the concept. Subsequent scholars have sometimes modified or challenged classical formulations. Contemporary debates often return to classical definitions to clarify current disagreements. Understanding classical formulations provides foundation for recognizing contemporary variations and extensions.
+Robert Merton's "Social Structure and Anomie" (1938) shifted the emphasis from the breakdown of norms to a structural strain between culturally approved goals, such as material success in the United States, and the institutionalised means of reaching them, which are unequally distributed. He distinguished five adaptations: conformity, innovation, ritualism, retreatism, and rebellion. Innovation, the pursuit of success by illegitimate means, became the basis for explanations of crime among those blocked from legitimate opportunities. Albert Cohen's *Delinquent Boys* (1955) and Richard Cloward and Lloyd Ohlin's *Delinquency and Opportunity* (1960) built on this strain tradition, and Robert Agnew's general strain theory (1992) broadened it to include negative emotions arising from different sources of strain. Steven Messner and Richard Rosenfeld's *Crime and the American Dream* (1994) proposed institutional anomie theory, arguing that the dominance of the economy over other institutions in American society weakens non-economic controls.
 
-## Major Theoretical Schools and Their Interpretation
+## Measurement and Research
 
-Different sociological schools have adopted and developed the concept in distinctive ways. Functionalist approaches understand the concept in terms of social functions and integration. Conflict approaches emphasize how the concept relates to domination and inequality. Interpretive traditions focus on how the concept helps understand meaning and interaction. Critical approaches question whether the concept adequately addresses power and resistance. Each tradition contributes distinctive insights while potentially missing dimensions emphasized elsewhere. Contemporary scholarship increasingly integrates insights from multiple traditions. The concept's continuing vitality partly depends on capacity to accommodate multiple perspectives.
+Leo Srole's "Social Integration and Certain Corollaries" (1956) introduced a short survey scale of anomia, understood as a person's sense that social norms and leaders are unreliable. This scale was widely used in studies of attitudes, though it measures a subjective state rather than the societal condition Durkheim described. Aggregate studies have examined whether indicators such as rapid economic change, unemployment, or divorce correlate with suicide and crime, with mixed results.
 
-## Empirical Applications and Research Examples
+## Critiques and Debates
 
-Sociologists apply the concept empirically to understand specific social phenomena and patterns. Research demonstrates how the concept illuminates dimensions of social life otherwise difficult to recognize. Empirical applications have extended the concept's meaning in light of research findings. Quantitative research develops measurement approaches for assessing the concept. Qualitative research documents how the concept manifests in particular contexts and settings. Comparative research examines whether the concept applies across different societies and cultures. Longitudinal research traces how the concept's manifestations change over time. Contemporary applications address phenomena earlier scholars could not have anticipated.
+Critics note that Durkheim and Merton use the term in different senses, one for deficient regulation and the other for strain between goals and means, which creates ambiguity. Merton's theory has been criticised for assuming a single set of shared success goals and for explaining less well the crimes of the well-off. Conflict theorists argue that what looks like normlessness often reflects competing normative orders or the interests of powerful groups. Some also point out that the concept carries an implicit view of social order as the normal state of society. Despite these objections, anomie remains a standard tool in the study of rapid social change, deviance, and social integration.
 
-## Relationship to Other Core Concepts
+## Sources
 
-Anomie interconnects with other foundational concepts forming coherent analytical framework. Understanding the concept requires grasping how it relates to complementary and contrasting concepts. The relationship clarifies what specific phenomena the concept helps analyze. Different theoretical schools sometimes organize these relationships differently. Conceptual interdependence means changing understanding of one concept affects understanding of related concepts. Advanced sociological analysis often involves integrating multiple concepts to develop nuanced understanding. Mapping conceptual relationships helps prevent misapplication or confusion.
-
-## Social Inequality Dimensions
-
-The concept connects to how societies distribute resources, opportunities, and life chances unequally. Understanding these connections illuminates mechanisms producing and reproducing inequality. Different groups experience and understand the concept differently depending on social position. Power relationships shape both what the concept means and how it operates in practice. The concept sometimes obscures inequality dimensions that critical approaches emphasize. Feminist, postcolonial, and critical race perspectives have extended understanding of inequality dimensions. Integrating attention to inequality prevents depoliticizing what are fundamentally questions of justice.
-
-## Contemporary Manifestations and Changes
-
-The concept manifests differently in contemporary social conditions than in classical sociological era. Digital technologies, globalization, and environmental change raise new questions about the concept. Contemporary scholars debate whether the concept requires modification to address 21st-century phenomena. The concept's continuing relevance depends partly on flexibility to address changing social conditions. Some argue the concept remains valid despite historical change while others contend fundamental revision necessary. Contemporary research extends the concept to new domains. Digital humanities apply computational methods to examine how the concept operates in massive datasets.
-
-## Limitations and Critiques
-
-Critics argue the concept inadequately captures important dimensions of social life. Some contend the concept reflects particular perspective not universally applicable. Others argue the concept obscures power relationships and responsibility. Postcolonial critique questions whether the concept reflects Western assumptions. Feminist scholarship has identified gender dimensions the concept historically overlooked. Critical scholars argue the concept sometimes legitimizes domination as natural. Contemporary proponents acknowledge limitations while maintaining the concept's analytical value. Addressing criticism without abandoning the concept remains ongoing theoretical challenge.
-
-## Measurement and Operationalization
-
-Sociologists operationalize the concept into measurable variables enabling empirical research. Different operationalizations sometimes capture somewhat different dimensions of the concept. Quantitative research requires precise definitions enabling consistent measurement. Qualitative research preserves complexity while sacrificing measurement consistency. The relationship between abstract concept and concrete measures always involves interpretive judgment. Contemporary development of measurement approaches reflects competing theoretical interpretations. Valid operationalization requires theoretical sophistication alongside technical competence.
-
-## Interdisciplinary Applications
-
-Related disciplines apply the concept with distinctive emphases. Disciplinary differences sometimes produce different understanding of the same concept. Interdisciplinary dialogue enriches understanding while potentially creating confusion. The concept's applicability across disciplines suggests broad explanatory value. Discipline-specific usage sometimes extends the concept in productive new directions. Understanding multiple disciplinary applications prevents parochialism. Interdisciplinary work increasingly requires translation between concepts with similar names but different meanings.
-
-## Future Directions and Theoretical Development
-
-Scholars debate whether the concept requires modification, extension, or replacement. Contemporary challenges prompt theorists to reconsider conceptual foundations. Emerging research sometimes produces findings requiring conceptual refinement. Dialogue with non-Western traditions may introduce alternative concepts. The concept's future depends on continued relevance to sociological analysis. Generational turnover of scholars brings new perspectives to traditional concepts. Digital sociology and computational methods open new analytical possibilities.
-
-## Sources and Further Reading
-
-- Classical sociological texts developing and defining the concept
-- Comprehensive reviews of how different traditions understand the concept
-- Empirical research applying the concept to specific phenomena
-- Critical engagements questioning the concept's adequacy
-- Methodological works addressing measurement and operationalization
-
+- Durkheim, Emile. *The Division of Labour in Society*. 1893.
+- Durkheim, Emile. *Suicide: A Study in Sociology*. 1897.
+- Merton, Robert K. "Social Structure and Anomie." *American Sociological Review* 3(5), 1938.
+- Cohen, Albert K. *Delinquent Boys: The Culture of the Gang*. 1955.
+- Srole, Leo. "Social Integration and Certain Corollaries: An Exploratory Study." *American Sociological Review* 21(6), 1956.
+- Cloward, Richard A., and Lloyd E. Ohlin. *Delinquency and Opportunity: A Theory of Delinquent Gangs*. 1960.
+- Agnew, Robert. "Foundation for a General Strain Theory of Crime and Delinquency." *Criminology* 30(1), 1992.
+- Messner, Steven F., and Richard Rosenfeld. *Crime and the American Dream*. 1994.

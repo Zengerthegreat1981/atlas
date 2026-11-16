@@ -12,9 +12,7 @@ active_start: 1867
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 
 # Capital: The Critique of Political Economy
@@ -27,7 +25,7 @@ The book opens not with capital but with the commodity, the elementary cell of c
 
 ## Structure and Method
 
-Volume I follows a strict logical ascent. Part I analyses the commodity, money, and the transformation of money into capital. Part II derives surplus value, first absolute — by lengthening the working day — then relative, by raising productivity through machinery and the division of labour. Later parts treat wages, accumulation, and the so-called primitive accumulation: the enclosures, colonial plunder, and state violence through which a propertyless working class was historically created. Marx's method is a distinctive blend of dialectical argument, historical narrative, and empirical documentation. The Blue Books supply the evidence of child labour, sixteen-hour days, and industrial disease; the dialectic supplies the movement from abstract categories to concrete social forms. He calls this the critique of political economy rather than a new economics: he accepts Ricardo's categories in order to show their inner contradictions. Volumes II and III, edited by Engels, extend the analysis to the circulation of capital and to the division of surplus value into profit, interest, and rent, ending with the tendency of the rate of profit to fall — the most contested prediction in the book.
+Volume I follows a strict logical ascent. Parts I and II analyse the commodity, money, and the transformation of money into capital. Parts III and IV derive surplus value, first absolute — by lengthening the working day — then relative, by raising productivity through machinery and the division of labour. Later parts treat wages, accumulation, and the so-called primitive accumulation: the enclosures, colonial plunder, and state violence through which a propertyless working class was historically created. Marx's method is a distinctive blend of dialectical argument, historical narrative, and empirical documentation. The chapter on the working day, for instance, cites factory inspectors' reports and the case of Mary Anne Walkley, a London milliner who died in 1863 after working very long hours. The Blue Books supply the evidence of child labour, sixteen-hour days, and industrial disease; the dialectic supplies the movement from abstract categories to concrete social forms. He calls this the critique of political economy rather than a new economics: he accepts Ricardo's categories in order to show their inner contradictions. Volumes II and III, edited by Engels, extend the analysis to the circulation of capital and to the division of surplus value into profit, interest, and rent, ending with the tendency of the rate of profit to fall — the most contested prediction in the book.
 
 ## Reception and Influence
 

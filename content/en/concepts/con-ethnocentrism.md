@@ -14,7 +14,6 @@ edges: []
 related: []
 gaps:
 - Cross-school comparisons: not yet covered
-- Empirical examples: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -26,7 +25,7 @@ Ethnocentrism is the tendency to judge other cultures, groups, and ways of life 
 
 ## Origins and Development
 
-The term was introduced by William Graham Sumner in *Folkways* (1906). Sumner argued that every group develops folkways — habitual ways of doing things — and that the in-group's folkways come to seem right and proper, while the customs of out-groups are viewed with suspicion or contempt. He saw this as a universal feature of group life, rooted in the distinction between the in-group and the out-group, and closely tied to the solidarity that holds groups together. Franz Boas, in *The Mind of Primitive Man* (1911), attacked the evolutionary assumptions behind ethnocentric judgements, arguing that there is no scientific basis for ranking cultures on a single scale of progress, and that each culture must be understood in its own terms.
+The term was popularised by William Graham Sumner in *Folkways* (1906), which defined it as the view in which one's own group is the centre of everything and all others are scaled and rated with reference to it. Sumner argued that every group develops folkways — habitual ways of doing things — and that the in-group's folkways come to seem right and proper, while the customs of out-groups are viewed with suspicion or contempt. He saw this as a universal feature of group life, rooted in the distinction between the in-group and the out-group, and closely tied to the solidarity that holds groups together. Franz Boas, in *The Mind of Primitive Man* (1911), attacked the evolutionary assumptions behind ethnocentric judgements, arguing that there is no scientific basis for ranking cultures on a single scale of progress, and that each culture must be understood in its own terms.
 
 The anthropological response to ethnocentrism became cultural relativism: the methodological principle, associated with Boas and later developed by Melville Herskovits in *Cultural Relativism: Perspectives in Cultural Pluralism* (1972), that beliefs and practices should be understood in their own cultural context before being evaluated. In social psychology, Robert LeVine and Donald Campbell's *Ethnocentrism: Theories of Conflict, Ethnic Attitudes, and Group Behavior* (1972) systematised the study of ethnocentric attitudes, linking them to intergroup competition and to the ways groups maintain their boundaries. Henri Tajfel's work on social identity, summarised in *Human Groups and Social Categories* (1981), showed that even arbitrary group membership can produce in-group favouritism, suggesting that ethnocentrism draws on deep features of group psychology.
 
@@ -35,6 +34,10 @@ The anthropological response to ethnocentrism became cultural relativism: the me
 Ethnocentrism is distinguished from related concepts. Xenophobia is fear of the foreign; racism is a system of domination based on ascribed categories; ethnocentrism is the broader tendency to centre one's own group as the measure of all things. It can be expressed openly, as contempt for other customs, or quietly, as the assumption that one's own institutions — markets, families, legal systems — are the natural form of human life. Sociologists also distinguish ethnocentrism from legitimate cultural attachment: valuing one's own traditions need not involve devaluing others, and the concept marks the point where attachment becomes a judgement of superiority.
 
 A central debate concerns cultural relativism itself. Critics argue that relativism, taken to an extreme, leaves no ground for criticising practices such as slavery or the subordination of women. Defenders reply that relativism is a method of understanding, not a moral doctrine, and that the point is to suspend judgement long enough to understand a practice before evaluating it. Edward Said's *Orientalism* (1978) extended the analysis to scholarship itself, showing how Western academic and literary representations of the East served imperial power — ethnocentrism not as a personal attitude but as a structure of knowledge.
+
+## Empirical Examples
+
+Muzafer Sherif's Robbers Cave study (1954, reported in *Intergroup Conflict and Cooperation: The Robbers Cave Experiment*, 1961) placed boys at a summer camp in two groups and introduced competition between them; hostility and negative stereotyping of the rival group followed, and were reduced only when the groups pursued shared superordinate goals. Tajfel and colleagues' minimal-group experiments of the early 1970s found in-group favouritism even when groups were assigned on trivial criteria. Both are laboratory or quasi-experimental studies of small samples and are debated as models of real-world ethnic conflict.
 
 ## Contemporary Relevance
 
@@ -47,4 +50,5 @@ Ethnocentrism remains a live problem in a world of migration, global media, and 
 - Robert A. LeVine and Donald T. Campbell, *Ethnocentrism: Theories of Conflict, Ethnic Attitudes, and Group Behavior*, 1972.
 - Melville J. Herskovits, *Cultural Relativism: Perspectives in Cultural Pluralism*, 1972.
 - Edward W. Said, *Orientalism*, 1978.
+- Muzafer Sherif et al., *Intergroup Conflict and Cooperation: The Robbers Cave Experiment*, 1961.
 - Henri Tajfel, *Human Groups and Social Categories: Studies in Social Psychology*, 1981.

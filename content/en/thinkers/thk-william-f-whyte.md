@@ -9,13 +9,10 @@ en: William F. Whyte
 crumb: "Sociology ← William F. Whyte"
 dates: International · 1914-2000
 active_start: 1914
-active_end: مستمر
+active_end: 2000
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -44,6 +41,10 @@ Whyte was born in Springfield, Massachusetts, in 1914 and studied at Swarthmore 
 - Learning from the Field (1984)
 - Making Mondragon (1988, with Kathleen King Whyte)
 - Participatory Action Research (edited, 1991)
+
+## Case Studies and Cross-References
+
+In Cornerville Whyte followed the Nortons, a corner gang led by "Doc", and the Italian Community Club of upwardly mobile men, showing that both were tied into the neighbourhood's politics and rackets. In *Human Relations in the Restaurant Industry* (1948) he found that friction between cooks and waitresses arose from status relations and the flow of orders, and that changes such as the order spindle could ease it. His participatory research later informed work with cooperatives, including the Mondragon system in the Basque Country. His fieldwork method is often compared with that of the Chicago School (Robert Park, the Lynds' *Middletown*), and later ethnographers such as Elijah Anderson and Mitchell Duneier follow similar lines.
 
 ## Method
 

@@ -28,7 +28,7 @@ The importance of the normal distribution does not lie in the claim that social 
 
 ## Origins and Development
 
-The normal curve was first described by Abraham de Moivre in *The Doctrine of Chances* (1718), in the context of approximating the binomial distribution for large numbers of coin tosses. Carl Friedrich Gauss gave it its modern mathematical form in *Theoria motus corporum coelestium* (1809), using it to model errors in astronomical observation; for this reason the distribution is often called Gaussian. Gauss's insight was that if observational errors arise from many small independent causes, they will be distributed normally — a reasoning that later justified the method of least squares.
+The normal curve was first derived by Abraham de Moivre, who in a 1733 pamphlet (included in the second edition of *The Doctrine of Chances*, 1738) approximated the binomial distribution for large numbers of coin tosses. Carl Friedrich Gauss gave it its modern mathematical form in *Theoria motus corporum coelestium* (1809), using it to model errors in astronomical observation; for this reason the distribution is often called Gaussian. Gauss's insight was that if observational errors arise from many small independent causes, they will be distributed normally — a reasoning that later justified the method of least squares.
 
 The distribution entered the study of human variation through Adolphe Quetelet, who in *Sur l'homme* (1835) argued that measurements of human bodies and even of moral behaviour — crime, suicide, marriage — clustered around an average, the "average man" (*l'homme moyen*), with deviations following the law of error. Francis Galton, in *Natural Inheritance* (1889), developed this into a programme of measuring human variation and heredity, and invented the quincunx, a device that demonstrated how the normal curve emerges from the accumulation of many small random deflections. Ronald Fisher's *Statistical Methods for Research Workers* (1925) then carried the normal distribution into the toolkit of empirical research across the sciences, including the social sciences, making its assumptions and applications part of standard training.
 
@@ -46,7 +46,7 @@ The normal distribution remains central to quantitative sociology, but its role 
 
 ## Sources
 
-- Abraham de Moivre, *The Doctrine of Chances*, 1718.
+- Abraham de Moivre, *The Doctrine of Chances*, 2nd ed., 1738.
 - Carl Friedrich Gauss, *Theoria motus corporum coelestium*, 1809.
 - Adolphe Quetelet, *Sur l'homme et le développement de ses facultés*, 1835.
 - Francis Galton, *Natural Inheritance*, 1889.

@@ -9,12 +9,10 @@ en: Frantz Fanon
 crumb: "Sociology ← Frantz Fanon"
 dates: International · 1925-1961
 active_start: 1925
-active_end: مستمر
+active_end: 1961
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
@@ -26,7 +24,7 @@ Frantz Fanon (1925-1961) was a Martinican-born psychiatrist, philosopher and rev
 
 ## Life and Context
 
-Fanon was born in Martinique, then a French colony, and served with the Free French forces in the Second World War. He studied medicine and psychiatry in Lyon. In 1953 he took a post at the Blida-Joinville psychiatric hospital in Algeria, and as the Algerian war of independence began he came to support the National Liberation Front (FLN). He was expelled from Algeria in 1957, worked in Tunis and as an ambassador of the Algerian provisional government, and died of leukemia in the United States in December 1961.
+Fanon was born in Martinique, then a French colony, and served with the Free French forces in the Second World War. He studied medicine and psychiatry in Lyon. In 1953 he took a post at the Blida-Joinville psychiatric hospital in Algeria, and as the Algerian war of independence began he came to support the National Liberation Front (FLN). He was expelled from Algeria in 1957, worked in Tunis and as an ambassador of the Algerian provisional government, and died of leukemia in the United States in December 1961, shortly after *The Wretched of the Earth* appeared.
 
 ## Main Ideas
 
@@ -38,6 +36,10 @@ In *Black Skin, White Masks*, Fanon analyzed how racism shapes the psychology of
 - *A Dying Colonialism* (1959)
 - *The Wretched of the Earth* (1961, with a preface by Jean-Paul Sartre)
 - *Toward the African Revolution* (collected essays, published 1964)
+
+## Case Studies
+
+In *A Dying Colonialism* Fanon examined how the Algerian revolution changed everyday practices, including the changing meaning of the veil, the role of the radio (the Voice of Algeria) and relations between Algerian patients and French medicine. The final chapter of *The Wretched of the Earth*, "Colonial War and Mental Disorders," presents clinical cases of Algerian and French patients affected by the violence of the war, drawn from his psychiatric practice.
 
 ## Method
 

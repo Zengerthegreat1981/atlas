@@ -42,7 +42,7 @@ A third debate is about men and masculinity. Research on masculinities argues th
 
 ## Contemporary Relevance
 
-Sexism remains a live political issue. The #MeToo movement, which spread globally from 2017, exposed the scale of sexual harassment and assault and forced institutions to reckon with cultures of silence. Debates over pay transparency, parental leave, reproductive rights, and the representation of women in politics and media all turn on the recognition of sexism as a structural problem. Online, sexism has found new venues: harassment, coordinated abuse, and algorithmic amplification target women in public life. At the same time, feminist movements have made gains that would have seemed implausible a generation ago, and the concept of sexism itself has been extended to analyse discrimination against people who do not conform to binary gender norms. Understanding sexism sociologically means refusing to reduce it to bad attitudes: it is a pattern woven into institutions, interactions, and ideas, and it can only be undone at all three levels together.
+Sexism remains a live political issue. The #MeToo movement, a phrase first used by Tarana Burke in 2006 and spread globally from 2017, exposed the scale of sexual harassment and assault and forced institutions to reckon with cultures of silence. Debates over pay transparency, parental leave, reproductive rights, and the representation of women in politics and media all turn on the recognition of sexism as a structural problem. Online, sexism has found new venues: harassment, coordinated abuse, and algorithmic amplification target women in public life. At the same time, feminist movements have made gains that would have seemed implausible a generation ago, and the concept of sexism itself has been extended to analyse discrimination against people who do not conform to binary gender norms. Understanding sexism sociologically means refusing to reduce it to bad attitudes: it is a pattern woven into institutions, interactions, and ideas, and it can only be undone at all three levels together.
 
 ## Sources
 
@@ -50,4 +50,4 @@ Sexism remains a live political issue. The #MeToo movement, which spread globall
 - Kate Millett, *Sexual Politics* (1970)
 - Sylvia Walby, *Theorizing Patriarchy* (1990)
 - Peter Glick and Susan T. Fiske, "The Ambivalent Sexism Inventory: Differentiating Hostile and Benevolent Sexism" (1996)
-- Bernice R. Sandler and Roberta M. Hall, *The Campus Climate Revisited: Chilly for Women Faculty, Administrators, and Graduate Students* (1986)
+- Bernice R. Sandler and Roberta M. Hall, *The Campus Climate Revisited: Chilly for Women Faculty, Administrators, and Graduate Students*, Project on the Status and Education of Women, Association of American Colleges (1986)

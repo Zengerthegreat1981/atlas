@@ -9,7 +9,7 @@ en: Auguste Comte
 crumb: "Sociology ← Auguste Comte"
 dates: International · 1798-1857
 active_start: 1798
-active_end: مستمر
+active_end: 1857
 edges: []
 related: []
 gaps: []

@@ -12,8 +12,7 @@ active_start: 1996
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 # Modernity at Large
 
@@ -27,7 +26,7 @@ The book's central claim is that the modern world is organised not by stable str
 
 ## Method and Key Concepts
 
-Appadurai's method is anthropological theory built from ethnographic sensibility rather than from a single field site. He draws on examples from India — cricket, Bollywood, the diaspora — and from migrant communities elsewhere, but the book is an essay in theory, not a monograph. Its method is to take the concepts of anthropology — culture, locality, ritual — and rework them for a world of flows. He borrows from Benedict Anderson's idea of imagined communities and extends it: if nations are imagined, so too are the smaller worlds people now inhabit through media and migration. Around the five scapes he builds a set of linked concepts. Deterritorialisation describes how cultural forms are lifted out of their places of origin and replanted elsewhere — Indian films in East Africa, American fast food in Tokyo. Locality is not a place but a project: the work of producing a sense of home under conditions of constant movement. And "imagination as a social practice" captures the book's most original move: fantasy is no longer the private opposite of real life but a collective resource, organised by media and migration, through which people rehearse futures they then pursue.
+Appadurai's method is anthropological theory built from ethnographic sensibility rather than from a single field site. He draws on examples from India — cricket, Bollywood, the diaspora — and from migrant communities elsewhere, but the book is an essay in theory, not a monograph. Its method is to take the concepts of anthropology — culture, locality, ritual — and rework them for a world of flows. He borrows from Benedict Anderson's idea of imagined communities and extends it: if nations are imagined, so too are the smaller worlds people now inhabit through media and migration. Around the five scapes he builds a set of linked concepts. Deterritorialisation describes how cultural forms are lifted out of their places of origin and replanted elsewhere — Indian cinema abroad, for example. Locality is not a place but a project: the work of producing a sense of home under conditions of constant movement. And "imagination as a social practice" captures the book's most original move: fantasy is no longer the private opposite of real life but a collective resource, organised by media and migration, through which people rehearse futures they then pursue.
 
 ## Evidence and Findings
 
@@ -35,7 +34,7 @@ The book's evidence is illustrative rather than systematic. Appadurai shows how 
 
 ## Influence and Continuing Relevance
 
-*Modernity at Large* reshaped how sociology and anthropology think about globalisation. The scapes became a standard analytical toolkit, used in studies of migration, media, tourism, and diaspora, and the book is routinely cited as the classic cultural account of globalisation alongside the economic accounts of Castells and the political accounts of Giddens. Its argument that imagination is a social fact influenced the sociology of media, the study of social movements, and theories of the subject. It reads today as a prehistory of the digital age: social media and streaming have intensified exactly the flows he described, and his account of imagination helps explain diaspora politics organised on WhatsApp.
+*Modernity at Large* reshaped how sociology and anthropology think about globalisation. The scapes became a standard analytical toolkit, used in studies of migration, media, tourism, and diaspora, and the book is routinely cited as the classic cultural account of globalisation alongside the economic accounts of Castells and the political accounts of Giddens. Its argument that imagination is a social fact influenced the sociology of media, the study of social movements, and theories of the subject. It reads today as a prehistory of the digital age: social media and streaming have intensified exactly the flows he described,.
 
 ## Critical Assessments and Limitations
 

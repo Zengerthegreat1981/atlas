@@ -9,7 +9,7 @@ en: Émile Durkheim
 crumb: "Sociology ← Émile Durkheim"
 dates: International · 1858-1917
 active_start: 1858
-active_end: مستمر
+active_end: 1917
 edges: []
 related: []
 gaps: []
@@ -22,7 +22,7 @@ sociological_paradigm: micro-macro
 
 ## Life and Context
 
-Durkheim was born in Épinal, in the Lorraine region of France, in 1858, into a Jewish family. He studied at the École Normale Supérieure, taught philosophy and then social science at Bordeaux, and from 1902 was at the Sorbonne in Paris. He founded the journal *L'Année sociologique* in 1898 and gathered a school of collaborators including Marcel Mauss. The French Third Republic's concerns about moral order and secular education shaped his work. He died in 1917, shortly after the First World War death of his son André.
+Durkheim was born in Épinal, in the Lorraine region of France, in 1858, into a Jewish family. He studied at the École Normale Supérieure, taught philosophy and then social science at Bordeaux, and from 1902 was at the Sorbonne in Paris. He founded the journal *L'Année sociologique* in 1898 and gathered a school of collaborators including Marcel Mauss. The French Third Republic's concerns about moral order and secular education shaped his work. His son André died in the First World War in 1915, and Durkheim died in 1917.
 
 ## Main Ideas
 

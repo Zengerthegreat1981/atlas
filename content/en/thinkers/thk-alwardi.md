@@ -9,7 +9,7 @@ en: Ali Al-Wardi
 crumb: "Sociology ← Ali Al-Wardi"
 dates: International · 1913-1995
 active_start: 1913
-active_end: مستمر
+active_end: 1995
 edges: []
 related: []
 gaps:

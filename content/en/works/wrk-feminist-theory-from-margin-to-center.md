@@ -9,11 +9,10 @@ en: Feminist Theory from Margin to Center
 crumb: Sociology ← Feminist Theory from Margin to Center
 dates: bell hooks · 1984
 active_start: 1984
-active_end: مستمر
+active_end: 2021
 edges: []
 related: []
-gaps:
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 # Feminist Theory from Margin to Center
 
@@ -33,15 +32,15 @@ The book's central claim is that feminism must define itself as a movement to en
 
 ## Key Concepts and Theoretical Framework
 
-Three ideas carry the book. The first is the margin-to-centre standpoint: those at the edges of a system understand it best, because they must understand both the dominant world and their own. The second is interlocking oppression — the claim that racism, sexism, and class exploitation cannot be understood separately, because they reinforce one another and are experienced together. This is the argument Kimberlé Crenshaw would later name intersectionality and Patricia Hill Collins would develop as the matrix of domination. The third is hooks's redefinition of feminism: not a movement for women's equality with men, but a movement to end sexism, sexist exploitation, and oppression. That redefinition changes who belongs in the movement — men who oppose sexism have a place in it — and what counts as victory.
+Three ideas carry the book. The first is the margin-to-centre standpoint: those at the edges of a system understand it best, because they must understand both the dominant world and their own. The second is interlocking oppression — the claim that racism, sexism, and class exploitation cannot be understood separately, because they reinforce one another and are experienced together. Kimberlé Crenshaw would later name intersectionality (1989), and Patricia Hill Collins would develop the related idea of a matrix of domination. The third is hooks's redefinition of feminism: not a movement for women's equality with men, but a movement to end sexism, sexist exploitation, and oppression. That redefinition changes who belongs in the movement — men who oppose sexism have a place in it — and what counts as victory.
 
 ## Evidence and Influence
 
-hooks's evidence is the record of the feminist movement itself. She quotes Betty Friedan's *The Feminine Mystique* (1963) to show how its portrait of the bored suburban housewife did not describe Black women, who were working as domestic servants in those same suburbs. On motherhood, she notes that the movement's critique of the family ignored the fact that for Black women the family had been a site of resistance and survival under slavery and segregation. The book reshaped feminist sociology and helped establish Black feminist thought as a distinct tradition. Its argument that oppression must be analysed as interlocking systems became the basis for intersectional sociology, influencing standpoint theory, critical race theory, and the sociology of knowledge. Activists in the reproductive justice movement and in Black Lives Matter have drawn directly on its framework.
+hooks's evidence is the record of the feminist movement itself. She quotes Betty Friedan's *The Feminine Mystique* (1963) to show how its portrait of the bored suburban housewife did not describe Black women, who were working as domestic servants in those same suburbs. On motherhood, she notes that the movement's critique of the family ignored the fact that for Black women the family had been a site of resistance and survival under slavery and segregation. The book reshaped feminist sociology and helped establish Black feminist thought as a distinct tradition. Its argument that oppression must be analysed as interlocking systems became the basis for intersectional sociology, and it is discussed alongside standpoint theory and critical race theory.
 
 ## Continuing Relevance and Critical Assessments
 
-Forty years on, the book reads as a prophecy of the debates that still divide feminism: who speaks for women, whether gender can be theorised apart from race and class, and whether the movement's institutions reproduce the hierarchies they oppose. Digital culture has given the argument new life: social media has made the margin visible in ways hooks could not have imagined, while also reproducing the dynamics she described. Critics argue that hooks's emphasis on the margin risks romanticising marginality, as if oppression automatically produced insight, when marginalised people also disagree with one another. Others note that the book's focus on the United States limits its applicability, and that its analysis of class is less developed than its analysis of race and gender. hooks herself continued to revise her position in later books, notably *Feminism Is for Everybody* (2000).
+The book reads as a prophecy of the debates that still divide feminism: who speaks for women, whether gender can be theorised apart from race and class, and whether the movement's institutions reproduce the hierarchies they oppose. Digital culture has given the argument new life: social media has made the margin visible in ways hooks could not have imagined, while also reproducing the dynamics she described. Critics argue that hooks's emphasis on the margin risks romanticising marginality, as if oppression automatically produced insight, when marginalised people also disagree with one another. Others note that the book's focus on the United States limits its applicability, and that its analysis of class is less developed than its analysis of race and gender. hooks herself continued to revise her position in later books, notably *Feminism Is for Everybody* (2000).
 
 ## Sources
 
@@ -49,6 +48,6 @@ Forty years on, the book reads as a prophecy of the debates that still divide fe
 - hooks, bell. *Ain't I a Woman: Black Women and Feminism*. South End Press, 1981.
 - hooks, bell. *Talking Back: Thinking Feminist, Thinking Black*. South End Press, 1989.
 - Crenshaw, Kimberlé. "Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics." *University of Chicago Legal Forum*, 1989.
-- Collins, Patricia Hill. *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment*. Routledge, 1990.
+- Collins, Patricia Hill. *Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment*. Boston: Unwin Hyman, 1990.
 - Lorde, Audre. *Sister Outsider: Essays and Speeches*. Crossing Press, 1984.
 - Guy-Sheftall, Beverly, ed. *Words of Fire: An Anthology of African-American Feminist Thought*. New Press, 1995.

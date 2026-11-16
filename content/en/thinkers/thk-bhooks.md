@@ -9,7 +9,7 @@ en: bell hooks
 crumb: "Sociology ← bell hooks"
 dates: International · 1952-2021
 active_start: 1952
-active_end: مستمر
+active_end: 2021
 edges: []
 related: []
 gaps:
@@ -29,7 +29,7 @@ She grew up in Hopkinsville, Kentucky, in a segregated Southern setting. She stu
 
 ## Main Ideas
 
-- **Intersectional critique of feminism.** In *Ain't I a Woman* (1981) she argued that mainstream feminism had centred white middle-class women and had neglected the experience of Black women.
+- **Critique of mainstream feminism.** In *Ain't I a Woman* (1981) she argued that mainstream feminism had centred white middle-class women and had neglected the experience of Black women.
 - **Interlocking domination.** She often described the overall system as "imperialist white-supremacist capitalist patriarchy", stressing that these forms of domination work together.
 - **Margin as a site of resistance.** In *Feminist Theory: From Margin to Center* (1984) she argued that those at the margins have a particular vantage point and that feminism should aim to end sexist oppression for everyone.
 - **Engaged pedagogy.** Influenced by Paulo Freire and Thich Nhat Hanh, she developed a view of teaching as a practice of freedom (*Teaching to Transgress*, 1994).

@@ -9,13 +9,10 @@ en: Robert K. Merton
 crumb: "Sociology ← Robert K. Merton"
 dates: International · 1910-2003
 active_start: 1910
-active_end: مستمر
+active_end: 2003
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -44,6 +41,10 @@ Merton was born Meyer R. Schkolnick in Philadelphia in 1910 to immigrant parents
 - Social Theory and Social Structure (1949; enlarged editions 1957 and 1968)
 - On Theoretical Sociology (1967)
 - The Sociology of Science (1973)
+
+## Case Studies and Examples
+
+In *Mass Persuasion* (1946) Merton studied Kate Smith's 1943 radio war-bond marathon, using interviews and content analysis; the "focused interview" he developed with Lazarsfeld and Patricia Kendall is a forerunner of the focus group. To illustrate the self-fulfilling prophecy (named in his 1948 essay in the *Antioch Review*) he used the run on a solvent bank: a false belief that the bank is failing leads depositors to withdraw funds and so causes it to fail. His doctoral work on seventeenth-century England linked Puritan values to the growth of experimental science. In the sociology of science he showed that credit for joint work tends to go to already eminent scientists, which he called the "Matthew effect" (*Science*, 1968).
 
 ## Method
 

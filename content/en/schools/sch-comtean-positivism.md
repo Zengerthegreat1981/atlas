@@ -11,7 +11,7 @@ en: Comtean Positivism
 crumb: Sociology ← Classical Positivism
 dates: France · 1830-1857
 active_start: 1830
-active_end: مستمر
+active_end: 1857
 edges: []
 related: []
 gaps:
@@ -38,7 +38,7 @@ Positivism's method follows from its epistemology. Genuine knowledge, for Comte,
 
 ## The Religion of Humanity
 
-In his later work Comte took a turn that startled his early admirers. After the death of Clotilde de Vaux in 1846, he argued in the *Système de politique positive* (1851–1854) that intellect alone could not hold society together: feeling and morality mattered as much as reason. He founded the Religion of Humanity, with Humanity itself as the object of worship, a positivist priesthood, a calendar of great men and a catechism. John Stuart Mill, who had been Comte's most influential English admirer, broke with him over this "religion", and many later sociologists have treated the late Comte as an embarrassment. Yet the turn reveals something central to his thought: positivism was meant to replace not only theology's explanations but its social function — the moral unification of society. The Religion of Humanity failed as a movement, though small positivist churches survived in France and Brazil, where Comte's motto "Order and Progress" still appears on the national flag.
+In his later work Comte took a turn that startled his early admirers. After the death of Clotilde de Vaux in 1846, he argued in the *Système de politique positive* (1851–1854) that intellect alone could not hold society together: feeling and morality mattered as much as reason. He founded the Religion of Humanity, with Humanity itself as the object of worship, a positivist priesthood, a calendar of great men and a catechism. John Stuart Mill, who had been an early English admirer, later criticised this "religion" sharply in *Auguste Comte and Positivism* (1865), and many later sociologists have treated the late Comte as an embarrassment. Yet the turn reveals something central to his thought: positivism was meant to replace not only theology's explanations but its social function — the moral unification of society. The Religion of Humanity failed as a movement, though small positivist churches survived in France and Brazil, where Comte's motto "Order and Progress" still appears on the national flag.
 
 ## Influence and Criticism
 

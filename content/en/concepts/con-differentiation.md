@@ -39,5 +39,7 @@ Differentiation remains a key tool for analysing modern complexity. The rise of 
 - Herbert Spencer, *First Principles* (1862)
 - Émile Durkheim, *The Division of Labour in Society* (1893)
 - Talcott Parsons, *The Social System* (1951)
+- Talcott Parsons, "Evolutionary Universals in Society," *American Sociological Review* 29(3) (1964)
+- Talcott Parsons, *Societies: Evolutionary and Comparative Perspectives* (1966)
 - Niklas Luhmann, *Social Systems* (1984; English translation 1995)
 - Jürgen Habermas, *The Theory of Communicative Action, Volume 2* (1981; English translation 1987)

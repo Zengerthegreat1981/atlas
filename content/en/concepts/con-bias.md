@@ -12,67 +12,40 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Bias
 
-## Conceptual Definition and Genealogy
+In sociology and the social sciences, bias is a systematic tendency to depart from accurate representation or fair treatment, as opposed to random error. The term is used in three overlapping senses: distortion in research, distortion in human judgment, and unequal treatment built into social institutions and technical systems.
 
-Bias is a foundational concept in sociological analysis with particular meaning distinct from everyday usage. The concept emerged from specific intellectual traditions addressing certain questions about social phenomena. Historical development of the concept reflected changing theoretical concerns and empirical discoveries. Different sociological schools have understood the concept somewhat differently, creating productive tensions. The word itself has history revealing how the concept evolved through scholarship. Tracing genealogy of the concept illuminates its theoretical foundations and continuing importance. Contemporary precision in using the concept requires understanding this historical development.
+## Bias in Research
 
-## Theoretical Foundations
+Methodologists distinguish several sources of systematic error. *Sampling bias* arises when the people studied differ systematically from the population of interest, as with volunteer or web-based samples. *Nonresponse bias* arises when those who decline to take part differ from those who respond. *Selection bias* in the sense developed by James Heckman (1979) arises when the cases observed are not a random draw from the cases of interest, for example when wages can be observed only for people who work. *Measurement bias* includes question wording effects and social desirability bias, the tendency of respondents to give answers that present them favorably, which Douglas Crowne and David Marlowe (1960) tried to measure with a scale. *Publication bias* arises when studies with significant results are more likely to appear in print than those without.
 
-The concept rests on particular assumptions about how society works and how to analyze it scientifically. Theoretical foundations establish what the concept is supposed to explain or describe. Different theoretical frameworks sometimes use the concept differently, leading to multiple meanings in contemporary sociology. The concept's theoretical grounding makes it valuable for empirical research. Understanding theoretical foundations helps assess when the concept is appropriately applied. Theoretical precision requires recognizing what aspects of social life the concept captures and what it obscures. The concept evolved as theoretical frameworks developed, gaining new dimensions of meaning.
+Researchers' own values are a further concern. Max Weber argued for "value freedom" (*Wertfreiheit*) in the conduct of research while recognizing that values guide the choice of topics. Alvin Gouldner (1962) later argued that the ideal of a value-free sociology could itself conceal the discipline's hidden assumptions and called for sociologists to be explicit about them. Standard remedies include random sampling, pre-specified analysis plans, replication, triangulation across methods and reflexive description of the researcher's position.
 
-## Classical Formulations
+## Cognitive and Social Bias
 
-Classical sociologists developing the concept articulated core features still recognized today. Early definitions established parameters for subsequent usage. Classical theorists demonstrated how the concept illuminated particular social phenomena. Their work established conventions about when and how to apply the concept. Subsequent scholars have sometimes modified or challenged classical formulations. Contemporary debates often return to classical definitions to clarify current disagreements. Understanding classical formulations provides foundation for recognizing contemporary variations and extensions.
+Psychologists have documented systematic shortcuts in judgment. Amos Tversky and Daniel Kahneman's 1974 paper "Judgment under Uncertainty: Heuristics and Biases" described biases arising from representativeness, availability and anchoring. Confirmation bias, the tendency to seek and favor evidence that supports existing beliefs, was reviewed by Raymond Nickerson (1998). In the study of prejudice, Anthony Greenwald and Mahzarin Banaji (1995) proposed the idea of implicit social cognition, and the Implicit Association Test (Greenwald, McGhee and Schwartz, 1998) was developed to measure automatic associations between social groups and evaluations. The IAT is widely used but contested: critics question how well individual scores predict behavior, and meta-analyses have reported modest correlations with discriminatory behavior.
 
-## Major Theoretical Schools and Their Interpretation
+Sociologists generally stress that bias is not only a property of individuals. Stereotypes and discrimination are reproduced through institutional rules, networks and routines, and audit studies of hiring show unequal treatment even where decision-makers deny prejudice.
 
-Different sociological schools have adopted and developed the concept in distinctive ways. Functionalist approaches understand the concept in terms of social functions and integration. Conflict approaches emphasize how the concept relates to domination and inequality. Interpretive traditions focus on how the concept helps understand meaning and interaction. Critical approaches question whether the concept adequately addresses power and resistance. Each tradition contributes distinctive insights while potentially missing dimensions emphasized elsewhere. Contemporary scholarship increasingly integrates insights from multiple traditions. The concept's continuing vitality partly depends on capacity to accommodate multiple perspectives.
+## Algorithmic and Institutional Bias
 
-## Empirical Applications and Research Examples
+Statistical and machine-learning systems can reproduce social bias when they are trained on data that reflect past inequality or when they use proxies that carry it. A well-known study by Ziad Obermeyer and colleagues (2019) found that a widely used US health-care algorithm assigned lower risk scores to Black patients than to equally sick white patients, because it used past health-care spending as a stand-in for medical need. The case shows that bias can arise from a seemingly neutral design choice without any discriminatory intent.
 
-Sociologists apply the concept empirically to understand specific social phenomena and patterns. Research demonstrates how the concept illuminates dimensions of social life otherwise difficult to recognize. Empirical applications have extended the concept's meaning in light of research findings. Quantitative research develops measurement approaches for assessing the concept. Qualitative research documents how the concept manifests in particular contexts and settings. Comparative research examines whether the concept applies across different societies and cultures. Longitudinal research traces how the concept's manifestations change over time. Contemporary applications address phenomena earlier scholars could not have anticipated.
+## Conceptual Cautions
 
-## Relationship to Other Core Concepts
+The word "bias" implies a standard of accuracy or fairness against which distortion is measured, and what that standard is can itself be contested. Critics also caution that labeling a view "biased" can be used to dismiss it without engaging its evidence. Careful usage therefore specifies the direction and mechanism of the distortion and the standard against which it is judged.
 
-Bias interconnects with other foundational concepts forming coherent analytical framework. Understanding the concept requires grasping how it relates to complementary and contrasting concepts. The relationship clarifies what specific phenomena the concept helps analyze. Different theoretical schools sometimes organize these relationships differently. Conceptual interdependence means changing understanding of one concept affects understanding of related concepts. Advanced sociological analysis often involves integrating multiple concepts to develop nuanced understanding. Mapping conceptual relationships helps prevent misapplication or confusion.
+## Sources
 
-## Social Inequality Dimensions
-
-The concept connects to how societies distribute resources, opportunities, and life chances unequally. Understanding these connections illuminates mechanisms producing and reproducing inequality. Different groups experience and understand the concept differently according to social position. Power relationships shape both what the concept means and how it operates in practice. The concept sometimes obscures inequality dimensions that critical approaches emphasize. Feminist, postcolonial, and critical race perspectives have extended understanding of inequality dimensions. Integrating attention to inequality prevents depoliticizing what are fundamentally questions of justice.
-
-## Contemporary Manifestations and Changes
-
-The concept manifests differently in contemporary social conditions than in classical sociological era. Digital technologies, globalization, and environmental change raise new questions about the concept. Contemporary scholars debate whether the concept requires modification to address 21st-century phenomena. The concept's continuing relevance depends partly on flexibility to address changing social conditions. Some argue the concept remains valid despite historical change while others contend fundamental revision necessary. Contemporary research extends the concept to new domains. Digital humanities apply computational methods to examine how the concept operates in massive datasets.
-
-## Limitations and Critiques
-
-Critics argue the concept inadequately captures important dimensions of social life. Some contend the concept reflects particular perspective not universally applicable. Others argue the concept obscures power relationships and responsibility. Postcolonial critique questions whether the concept reflects Western assumptions. Feminist scholarship has identified gender dimensions the concept historically overlooked. Critical scholars argue the concept sometimes legitimizes domination as natural. Contemporary proponents acknowledge limitations while maintaining the concept's analytical value. Addressing criticism without abandoning the concept remains ongoing theoretical challenge.
-
-## Measurement and Operationalization
-
-Sociologists operationalize the concept into measurable variables enabling empirical research. Different operationalizations sometimes capture somewhat different dimensions of the concept. Quantitative research requires precise definitions enabling consistent measurement. Qualitative research preserves complexity while sacrificing measurement consistency. The relationship between abstract concept and concrete measures always involves interpretive judgment. Contemporary development of measurement approaches reflects competing theoretical interpretations. Valid operationalization requires theoretical sophistication alongside technical competence.
-
-## Interdisciplinary Applications
-
-Related disciplines apply the concept with distinctive emphases. Disciplinary differences sometimes produce different understanding of the same concept. Interdisciplinary dialogue enriches understanding while potentially creating confusion. The concept's applicability across disciplines suggests broad explanatory value. Discipline-specific usage sometimes extends the concept in productive new directions. Understanding multiple disciplinary applications prevents parochialism. Interdisciplinary work increasingly requires translation between concepts with similar names but different meanings.
-
-## Future Directions and Theoretical Development
-
-Scholars debate whether the concept requires modification, extension, or replacement. Contemporary challenges prompt theorists to reconsider conceptual foundations. Emerging research sometimes produces findings requiring conceptual refinement. Dialogue with non-Western traditions may introduce alternative concepts. The concept's future depends on continued relevance to sociological analysis. Generational turnover of scholars brings new perspectives to traditional concepts. Digital sociology and computational methods open new analytical possibilities.
-
-## Sources and Further Reading
-
-- Classical sociological texts developing and defining the concept
-- Comprehensive reviews of how different traditions understand the concept
-- Empirical research applying the concept to specific phenomena
-- Critical engagements questioning the concept's adequacy
-- Methodological works addressing measurement and operationalization
-
+- Tversky, Amos, and Daniel Kahneman. "Judgment under Uncertainty: Heuristics and Biases." *Science* 185(4157), 1974, pp. 1124–1131.
+- Heckman, James J. "Sample Selection Bias as a Specification Error." *Econometrica* 47(1), 1979, pp. 153–161.
+- Crowne, Douglas P., and David Marlowe. "A New Scale of Social Desirability Independent of Psychopathology." *Journal of Consulting Psychology* 24(4), 1960, pp. 349–354.
+- Gouldner, Alvin W. "Anti-Minotaur: The Myth of a Value-Free Sociology." *Social Problems* 9(3), 1962, pp. 199–213.
+- Greenwald, Anthony G., Debbie E. McGhee, and Jordan L. K. Schwartz. "Measuring Individual Differences in Implicit Cognition: The Implicit Association Test." *Journal of Personality and Social Psychology* 74(6), 1998, pp. 1464–1480.
+- Nickerson, Raymond S. "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises." *Review of General Psychology* 2(2), 1998, pp. 175–220.
+- Obermeyer, Ziad, et al. "Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations." *Science* 366(6464), 2019, pp. 447–453.

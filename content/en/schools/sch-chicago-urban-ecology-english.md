@@ -11,18 +11,17 @@ en: Chicago School Urban Ecology
 crumb: Sociology ← Urban Ecology
 dates: USA · 1920-1940
 active_start: 1920
-active_end: مستمر
+active_end: 1940
 edges: []
 related: []
 gaps:
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 ---
 # Chicago School Urban Ecology
 
 ## A Laboratory Called Chicago
 
-In the 1920s the University of Chicago became the centre of American sociology, and the city of Chicago became its laboratory. Between 1890 and 1930 Chicago grew from a town of a million people to a metropolis of three million, swollen by immigration from Europe and migration from the American South. Its stockyards, railways, slums and ethnic neighbourhoods offered sociologists a living field site on their doorstep. The department, founded in 1892 as the first sociology department in the United States, was led after 1914 by Robert E. Park, a former journalist, and Ernest W. Burgess. Their approach, known as human or urban ecology, borrowed the language of plant and animal ecology and applied it to the city: human communities, like biological ones, compete for territory, differentiate into specialised areas, and settle into a natural equilibrium — until growth disturbs it again.
+In the 1920s the University of Chicago became the centre of American sociology, and the city of Chicago became its laboratory. Between 1890 and 1930 Chicago grew from a town of a million people to a metropolis of three million, swollen by immigration from Europe and migration from the American South. Its stockyards, railways, slums and ethnic neighbourhoods offered sociologists a living field site on their doorstep. The department, founded in 1892 as the first sociology department in the United States, was shaped after 1914 by Robert E. Park, a former journalist, and by Ernest W. Burgess. Their approach, known as human or urban ecology, borrowed the language of plant and animal ecology and applied it to the city: human communities, like biological ones, compete for territory, differentiate into specialised areas, and settle into a natural equilibrium — until growth disturbs it again.
 
 ## Park and the Human Ecology of the City
 
@@ -30,15 +29,19 @@ Park's programme was set out in the textbook he wrote with Burgess, *Introductio
 
 ## The Concentric Zone Model
 
-The most famous product of the school is Burgess's concentric zone model, published in *The City* (1925). Burgess proposed that the city grows outward from its centre in five concentric rings. At the core is the central business district of offices, shops and theatres. Around it lies the zone in transition, a deteriorating area of factories, warehouses and rooming houses, where the poorest newcomers settle and where vice and crime concentrate. Beyond that are the zone of working-class homes, the zone of better residences, and finally the commuter zone of suburbs. Growth proceeds by invasion and succession: as the centre expands, each zone pushes outward into the next. The model was a bold simplification — rivers, railways and industry distort the rings — but it gave urban research a testable map, and Chicago researchers found delinquency, disease and divorce rates highest in the zone in transition and falling steadily toward the suburbs.
+The most famous product of the school is Burgess's concentric zone model, published in *The City* (1925). Burgess proposed that the city grows outward from its centre in five concentric rings. At the core is the central business district of offices, shops and theatres. Around it lies the zone in transition, a deteriorating area of factories, warehouses and rooming houses, where the poorest newcomers settle and where vice and crime concentrate. Beyond that are the zone of working-class homes, the zone of better residences, and finally the commuter zone of suburbs. Growth proceeds by invasion and succession: as the centre expands, each zone pushes outward into the next. The model was a bold simplification — rivers, railways and industry distort the rings — but it gave urban research a testable map, and Chicago researchers found delinquency and other social-problem rates highest in the zone in transition and generally falling toward the suburbs.
 
 ## Field Studies: Hoboes, Gangs and Delinquency
 
-The school's reputation rests less on its theory than on its ethnographies. Nels Anderson's *The Hobo* (1923) lived among homeless migrant workers on Chicago's West Madison Street and documented their world of casual labour, missions and jungle camps. Frederic M. Thrasher's *The Gang* (1927) studied more than a thousand Chicago youth gangs and argued that gangs arise in the interstitial areas between established neighbourhoods, where social control is weakest. Clifford R. Shaw and Henry D. McKay's *Juvenile Delinquency and Urban Areas* (1942) mapped delinquency rates across Chicago over three decades and showed that high rates persisted in the same inner-city areas even as the ethnic groups living there changed completely — evidence that place and social disorganisation, not group character, explained crime. William I. Thomas and Florian Znaniecki's *The Polish Peasant in Europe and America* (1918–1920) supplied the school's key idea: the definition of the situation — "if men define situations as real, they are real in their consequences."
+The school's reputation rests less on its theory than on its ethnographies. Nels Anderson's *The Hobo* (1923) lived among homeless migrant workers on Chicago's West Madison Street and documented their world of casual labour, missions and jungle camps. Frederic M. Thrasher's *The Gang* (1927) studied more than a thousand Chicago youth gangs and argued that gangs arise in the interstitial areas between established neighbourhoods, where social control is weakest. Clifford R. Shaw and Henry D. McKay's *Juvenile Delinquency and Urban Areas* (1942) mapped delinquency rates across Chicago over three decades and showed that high rates persisted in the same inner-city areas even as the ethnic groups living there changed completely — evidence that place and social disorganisation, not group character, explained crime. William I. Thomas and Florian Znaniecki's *The Polish Peasant in Europe and America* (1918–1920) supplied the school's key idea of the definition of the situation, later summarised in the "Thomas theorem" (formulated by W. I. Thomas and Dorothy S. Thomas in *The Child in America*, 1928): if people define situations as real, they are real in their consequences.
 
 ## Wirth and Urbanism as a Way of Life
 
 Louis Wirth, a student of Park who became the school's leading theorist of the city, carried urban ecology toward a more sociological theory of urban life. In his essay "Urbanism as a Way of Life" (1938), published in the *American Journal of Sociology*, Wirth defined the city by three features: large population, high density and social heterogeneity. Together they produce a distinctive way of life: relationships become impersonal and segmental, kinship and neighbourhood weaken, and formal organisations take their place. The city liberates the individual from the close control of the village, Wirth argued, but it also produces anonymity and a blasé indifference — an idea he owed to Georg Simmel. Wirth's theory has been criticised for exaggerating urban anomie, but it remains the classic statement of how size and density reshape social life.
+
+## Later Neighbourhood Research
+
+The ecological tradition was revived in the 1990s and after. Robert Sampson and colleagues, drawing on the Project on Human Development in Chicago Neighborhoods, argued that neighbourhood differences in violence are associated with "collective efficacy", the combination of social cohesion and willingness to intervene for the common good (Sampson, Raudenbush and Earls, *Science*, 1997). Sampson's *Great American City* (2012) extends this to a long-run study of Chicago neighbourhoods.
 
 ## Criticism and Legacy
 
@@ -52,4 +55,5 @@ By the 1940s the Chicago School's dominance was fading. Critics charged that its
 - Thrasher, Frederic M. *The Gang: A Study of 1,313 Gangs in Chicago*. 1927.
 - Wirth, Louis. "Urbanism as a Way of Life." *American Journal of Sociology*. 1938.
 - Shaw, Clifford R., and Henry D. McKay. *Juvenile Delinquency and Urban Areas*. 1942.
+- Sampson, Robert J. *Great American City: Chicago and the Enduring Neighborhood Effect*. 2012.
 - Thomas, William I., and Florian Znaniecki. *The Polish Peasant in Europe and America*. 1918–1920.

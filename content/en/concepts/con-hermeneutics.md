@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -39,6 +38,10 @@ A second debate concerns relativism. If every reading depends on the reader's ho
 
 A third dimension is the distinction between hermeneutics as method and as ontology. As a method, it offers practical guidance: attend to context, compare parts with wholes, and test readings against the text. As an ontology, in Heidegger's and Gadamer's sense, it claims that understanding is what human beings do all the time, and that all knowledge rests on prior interpretation.
 
+## Illustrations in Social Research
+
+Clifford Geertz's essay "Deep Play: Notes on the Balinese Cockfight" (1972) is a well-known interpretive study: it reads the cockfight as a text that Balinese tell themselves about themselves, revealing status rivalries. Anthony Giddens, in *New Rules of Sociological Method* (1976), argued that social science involves a "double hermeneutic", since the people studied already interpret their world and the sociologist's concepts feed back into that interpretation.
+
 ## Contemporary Relevance and Critique
 
 Hermeneutics remains central wherever social scientists work with meaning. Interview researchers interpret transcripts rather than merely coding them; ethnographers read rituals, jokes, and silences as texts; historians reconstruct the intentions of people in other times. In psychotherapy, it appears in narrative therapy, where clients retell their lives in new terms, and in psychoanalytic work, where dreams and slips are read as meaningful communications. Roy Schafer argued in *A New Language for Psychoanalysis* (1976) that therapy works by reinterpreting the patient's story, while Donald Spence, in *Narrative Truth and Historical Truth* (1982), warned that a coherent story may heal even when it does not accurately describe the past.
@@ -52,4 +55,6 @@ The approach also faces real limits. It is difficult to establish a shared stand
 - Heidegger, Martin. *Being and Time*. Oxford: Blackwell, 1962. (First published 1927.)
 - Gadamer, Hans-Georg. *Truth and Method*. London: Sheed and Ward, 1975. (First published 1960.)
 - Ricoeur, Paul. *Freud and Philosophy: An Essay on Interpretation*. New Haven: Yale University Press, 1970. (First published 1965.)
+- Geertz, Clifford. *The Interpretation of Cultures*. New York: Basic Books, 1973.
+- Giddens, Anthony. *New Rules of Sociological Method*. London: Hutchinson, 1976.
 - Hirsch, E. D. *Validity in Interpretation*. New Haven: Yale University Press, 1967.

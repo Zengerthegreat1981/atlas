@@ -13,8 +13,6 @@ active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
@@ -22,7 +20,7 @@ sociological_paradigm: micro-macro
 
 # Arlie Russell Hochschild
 
-Arlie Russell Hochschild (born 1940) is an American sociologist at the University of California, Berkeley, known for her work on the sociology of emotion, work and family life, and, more recently, the emotional foundations of American politics.
+Arlie Russell Hochschild (born 1940) is an American sociologist, professor emerita at the University of California, Berkeley, known for her work on the sociology of emotion, work and family life, and, more recently, the emotional foundations of American politics.
 
 ## Life and Context
 
@@ -41,6 +39,10 @@ In *The Managed Heart*, based on research with flight attendants and bill collec
 - *Global Woman* (2003, edited with Barbara Ehrenreich)
 - *The Outsourced Self* (2012)
 - *Strangers in Their Own Land* (2016)
+
+## Case Studies
+
+*The Managed Heart* drew on research with Delta Air Lines flight attendants and with bill collectors. *The Time Bind* was based on fieldwork at a large manufacturing company that the book calls Amerco. *The Unexpected Community* studied a San Francisco-area apartment complex for older residents. *Strangers in Their Own Land* grew out of several years of interviews with Tea Party-aligned residents of the Lake Charles area of Louisiana.
 
 ## Method
 

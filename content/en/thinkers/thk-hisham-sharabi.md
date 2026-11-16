@@ -9,19 +9,17 @@ en: Hisham Sharabi
 crumb: "Sociology ← Hisham Sharabi"
 dates: International · 1927-2005
 active_start: 1927
-active_end: مستمر
+active_end: 2005
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Hisham Sharabi
 
-Hisham Sharabi (1927-2005) was a Palestinian-American scholar of Arab intellectual history and social thought. He is best known for his theory of "neopatriarchy", a critique of contemporary Arab society as a distorted hybrid of tradition and modernity, and for his institution-building work on Palestine and Arab studies in the United States.
+Hisham Sharabi (1927-2005) was a Palestinian-American scholar of Arab intellectual history and social thought. He is best known for his theory of "neopatriarchy", a critique of contemporary Arab society as a distorted hybrid of tradition and modernity, and for his institution-building work on Palestine and Arab studies in the United States, including the Journal of Palestine Studies, which he helped found.
 
 ## Life and Context
 
@@ -44,6 +42,10 @@ Sharabi was born in Jaffa in 1927 and educated at the American University of Bei
 ## Method
 
 Sharabi drew on intellectual history, critical social theory and psychoanalytic ideas about family authority, with attention to language and culture as vehicles of social structure.
+
+## Application
+
+In *Neopatriarchy* Sharabi applied the concept to the Arab family, the educational system, language and religion, and to the structure of Arab political regimes, arguing that in each domain paternal authority persisted behind modern institutional forms. Earlier, *Arab Intellectuals and the West* examined how thinkers of the Arab Nahda between 1875 and 1914 responded to European influence.
 
 ## Influence and Criticism
 

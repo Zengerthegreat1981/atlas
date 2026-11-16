@@ -9,7 +9,7 @@ en: Charles Cooley
 crumb: "Sociology ← Charles Cooley"
 dates: International · 1864-1929
 active_start: 1864
-active_end: مستمر
+active_end: 1929
 edges: []
 related: []
 gaps:

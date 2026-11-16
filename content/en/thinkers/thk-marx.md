@@ -9,7 +9,7 @@ en: Karl Marx
 crumb: "Sociology ← Karl Marx"
 dates: International · 1818-1883
 active_start: 1818
-active_end: مستمر
+active_end: 1883
 edges: []
 related: []
 gaps: []

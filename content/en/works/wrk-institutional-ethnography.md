@@ -18,7 +18,7 @@ gaps:
 
 # Institutional Ethnography
 
-Institutional ethnography is a method of sociological inquiry developed by the Canadian sociologist Dorothy E. Smith, first set out in her book *The Everyday World as Problematic: A Feminist Sociology* (1987). It is not a single book so much as a research programme: a way of doing sociology that begins from people's actual everyday experience and traces how that experience is organised by institutions and relations that stretch far beyond any one locality. Where mainstream sociology, in Smith's view, explained people's lives by fitting them into abstract categories, institutional ethnography asks how those lives are coordinated by texts, procedures and ruling relations — and it does so in order to give people usable knowledge about the forces that govern them.
+Institutional ethnography is a method of sociological inquiry developed by the British-born Canadian sociologist Dorothy E. Smith, first set out in her book *The Everyday World as Problematic: A Feminist Sociology* (1987). It is not a single book so much as a research programme: a way of doing sociology that begins from people's actual everyday experience and traces how that experience is organised by institutions and relations that stretch far beyond any one locality. Where mainstream sociology, in Smith's view, explained people's lives by fitting them into abstract categories, institutional ethnography asks how those lives are coordinated by texts, procedures and ruling relations — and it does so in order to give people usable knowledge about the forces that govern them.
 
 ## Historical Context and Publication
 
@@ -34,7 +34,7 @@ The central analytic concept is that of "ruling relations": the complex of insti
 
 ## Method and Structure
 
-Institutional ethnography is a method of inquiry rather than a theory to be tested. It begins with a standpoint — usually the standpoint of people whose experience is marginalised or subordinated — and proceeds by interviewing, observing and collecting the texts that organise the setting. The researcher then works outward, from the local site to the institutional processes that coordinate it, building a map of social relations. Smith's later works codified the method: *Texts, Facts, and Femininity* (1990), *The Conceptual Practices of Power* (1990), and above all *Institutional Ethnography: A Sociology for People* (2005), which set out the method in its mature form. Her final book, *Simply Institutional Ethnography* (2022), written with Alison Griffith, returned to the project as an introduction for new researchers.
+Institutional ethnography is a method of inquiry rather than a theory to be tested. It begins with a standpoint — usually the standpoint of people whose experience is marginalised or subordinated — and proceeds by interviewing, observing and collecting the texts that organise the setting. The researcher then works outward, from the local site to the institutional processes that coordinate it, building a map of social relations. Smith's later works codified the method: *Texts, Facts, and Femininity* (1990), *The Conceptual Practices of Power* (1990), and above all *Institutional Ethnography: A Sociology for People* (2005), which set out the method in its mature form. A late book, *Simply Institutional Ethnography* (2022), written with Alison Griffith, returned to the project as an introduction for new researchers.
 
 ## Reception and Influence
 

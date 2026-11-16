@@ -7,9 +7,9 @@ level: متوسط
 title: Anouar Abdel-Malek
 en: Anouar Abdel-Malek
 crumb: "Sociology ← Anouar Abdel-Malek"
-dates: International · 1924-1986
+dates: International · 1924-2012
 active_start: 1924
-active_end: مستمر
+active_end: 2012
 edges: []
 related: []
 gaps:
@@ -21,7 +21,7 @@ sociological_paradigm: micro-macro
 ---
 # Anouar Abdel-Malek
 
-Anouar Abdel-Malek was an Egyptian-born sociologist and political theorist, born in 1924, who worked largely in France. He is best known for his early critique of Orientalism and for his work on civilizations, nations and the post-colonial world.
+Anouar Abdel-Malek (1924-2012) was an Egyptian-born sociologist and political theorist who worked largely in France. He is best known for his early critique of Orientalism and for his work on civilizations, nations and the post-colonial world.
 
 ## Life and Context
 

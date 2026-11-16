@@ -21,7 +21,7 @@ gaps:
 
 ## Historical Context and Publication
 
-Schutz wrote the essay as a refugee himself. Born in Vienna in 1899, trained in law and economics, and a student of Edmund Husserl's phenomenology, he fled Austria after the Anschluss of 1938 and emigrated to the United States in 1939, where he taught at the New School for Social Research in New York. The essay appeared in 1944, while the war that had displaced millions was still raging, and it was followed a year later by its companion piece, "The Homecomer." Schutz was writing at a moment when sociology was dominated by structural and statistical approaches, and his insistence that social order rests on the shared, unreflective assumptions of everyday life offered a radically different starting point.
+Schutz wrote the essay as a refugee himself. Born in Vienna in 1899, trained in law and the social sciences, and deeply influenced by Edmund Husserl's phenomenology, he fled Austria after the Anschluss of 1938 and emigrated to the United States in 1939, where he taught at the New School for Social Research in New York. The essay appeared in 1944, while the war that had displaced millions was still raging, and it was followed a year later by its companion piece, "The Homecomer." Schutz was writing at a moment when sociology was dominated by structural and statistical approaches, and his insistence that social order rests on the shared, unreflective assumptions of everyday life offered a radically different starting point.
 
 ## Thesis and Core Argument
 

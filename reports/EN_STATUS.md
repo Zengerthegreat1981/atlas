@@ -83,3 +83,14 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
 - ~310 files carry disclosed "not yet covered" gaps (informational). `thk-habermas`: unverifiable death claim removed.
 - Related links to targets outside the closed scope were removed (see `reports/en-related-decisions.csv` for the last run).
 - Scope matrix numbers: psychology 309, philosophy 325 vs AR inventories of 3,522 / 2,846 (inventory, not target).
+
+---
+# Pass 4 — Sociology v1 (2026-11-16)
+- Scope list `reports/scope/sociology-scope.md` (152 entries: 148 selected from AR assets by inbound links + 4 field intros).
+- 445 sociology entries now in EN: 148 translated (same ids/slugs), 4 authored (`fld-sociology` root, theory, methods, stratification),
+  293 pre-existing; **all 445 fact-checked** (corrections appended to `reports/scope/corrections.txt`).
+- Many Arabic drafts were templated and contained invented names, studies and statistics; these were removed or corrected.
+  Entries whose titles could not be matched to a real work were retitled or reduced (see `reports/scope/sociology-duplicates.md`,
+  which also lists possible duplicate entities for a merge/redirect decision).
+- Reading paths added to `fld-sociology`; module page links to it.
+- Same caveat as before: machine-assisted, no web access; human review required.

@@ -24,7 +24,7 @@ Weberian interpretive sociology is the school founded by Max Weber (1864–1920)
 
 ## Historical Origins and Key Figures
 
-Weber was born in Erfurt in 1864, studied law, history, and economics, and taught at Freiburg and Heidelberg before a long breakdown in 1898 ended his regular academic career. After his recovery he became co-editor of the *Archiv für Sozialwissenschaft und Sozialpolitik* in 1904 and produced his most famous work, *The Protestant Ethic and the Spirit of Capitalism* (1904–1905), which argued that Calvinist asceticism unintentionally encouraged the disciplined, profit-seeking conduct on which modern capitalism rested. He spent his final years in Munich, where he died of pneumonia in 1920, leaving his great systematic work unfinished. His widow Marianne Weber edited and published it as *Economy and Society* (1922). Weber drew on Wilhelm Dilthey, who distinguished the human from the natural sciences, and on Heinrich Rickert, from whom he took the idea that values guide the choice of topic but must not determine findings.
+Weber was born in Erfurt in 1864, studied law, history, and economics, and taught at Freiburg and Heidelberg before a long breakdown beginning in 1897 ended his regular academic career. After his recovery he became co-editor of the *Archiv für Sozialwissenschaft und Sozialpolitik* in 1904 and produced his most famous work, *The Protestant Ethic and the Spirit of Capitalism* (1904–1905), which argued that Calvinist asceticism unintentionally encouraged the disciplined, profit-seeking conduct on which modern capitalism rested. He spent his final years in Munich, where he died of pneumonia in 1920, leaving his great systematic work unfinished. His widow Marianne Weber edited and published it as *Economy and Society* (1922). Weber drew on Wilhelm Dilthey, who distinguished the human from the natural sciences, and on Heinrich Rickert, from whom he took the idea that values guide the choice of topic but must not determine findings.
 
 ## Core Analytical Concepts
 
@@ -32,7 +32,7 @@ The school's method rests on three linked ideas. First, *Verstehen*: the sociolo
 
 ## Method and Key Works
 
-Weber's method pairs interpretive adequacy with causal adequacy: an explanation is satisfactory only when it makes the action understandable on the level of meaning and when the claimed causal sequence holds up in comparative evidence. His essay "The 'Objectivity' of Knowledge in Social Science and Social Policy" (1904) set out this programme and defended value-freedom: the scholar's values may guide the choice of topic but must not determine the findings. *The Protestant Ethic and the Spirit of Capitalism* (1904–1905) is the classic demonstration, tracing an elective affinity between religious ideas and economic conduct without claiming religion caused capitalism. The comparative studies of world religions followed: *The Religion of China* (1916), *The Religion of India* (1916), and *Ancient Judaism* (1917–1918). *Economy and Society* (1922) gathers the systematic definitions of action, domination, law, the city, and religion.
+Weber's method pairs interpretive adequacy with causal adequacy: an explanation is satisfactory only when it makes the action understandable on the level of meaning and when the claimed causal sequence holds up in comparative evidence. His essay "The 'Objectivity' of Knowledge in Social Science and Social Policy" (1904) set out this programme and defended value-freedom: the scholar's values may guide the choice of topic but must not determine the findings. *The Protestant Ethic and the Spirit of Capitalism* (1904–1905) is the classic demonstration, tracing an elective affinity between religious ideas and economic conduct without claiming religion caused capitalism. The comparative studies of world religions followed: *The Religion of China* (1915–1916), *The Religion of India* (1916–1917), and *Ancient Judaism* (1917–1919), first published as essays in the *Archiv*. *Economy and Society* (1922) gathers the systematic definitions of action, domination, law, the city, and religion.
 
 ## Influence and Legacy
 
@@ -50,9 +50,9 @@ Weberian interpretive sociology is best understood through its contrasts. It opp
 
 - Weber, Max. "The 'Objectivity' of Knowledge in Social Science and Social Policy." *Archiv für Sozialwissenschaft und Sozialpolitik*, 1904.
 - Weber, Max. *The Protestant Ethic and the Spirit of Capitalism*. 1904–1905.
-- Weber, Max. *The Religion of China*. 1916.
-- Weber, Max. *The Religion of India*. 1916.
-- Weber, Max. *Ancient Judaism*. 1917–1918.
+- Weber, Max. *The Religion of China*. 1915–1916.
+- Weber, Max. *The Religion of India*. 1916–1917.
+- Weber, Max. *Ancient Judaism*. 1917–1919.
 - Weber, Max. *Economy and Society*. Edited by Marianne Weber. Tübingen: J. C. B. Mohr, 1922.
 - Schutz, Alfred. *The Phenomenology of the Social World*. Vienna: Julius Springer, 1932.
 - Parsons, Talcott. *The Structure of Social Action*. New York: McGraw-Hill, 1937.

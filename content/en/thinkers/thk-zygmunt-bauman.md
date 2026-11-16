@@ -7,9 +7,9 @@ level: متوسط
 title: Zygmunt Bauman
 en: Zygmunt Bauman
 crumb: "Sociology ← Zygmunt Bauman"
-dates: International · 1925-2019
+dates: International · 1925-2017
 active_start: 1925
-active_end: مستمر
+active_end: 2017
 edges: []
 related: []
 gaps: []
@@ -51,7 +51,7 @@ Bauman wrote in an essayistic, interpretive, and literary style, drawing on phil
 
 ## Influence and Criticism
 
-He was widely read beyond sociology and received the Amalfi Prize (1992) and the Theodor W. Adorno Prize (1998). Critics have argued that his work is impressionistic, that "liquid" metaphors lack precise definition and empirical testing, and that his account of the Holocaust understates its specific German and ideological sources. Revelations about his early service in Polish security and military structures also prompted public controversy.
+He was widely read beyond sociology and received the European Amalfi Prize for Sociology and Social Sciences and the Theodor W. Adorno Prize (1998). Critics have argued that his work is impressionistic, that "liquid" metaphors lack precise definition and empirical testing, and that his account of the Holocaust understates its specific German and ideological sources. Revelations about his early service in Polish security and military structures also prompted public controversy.
 
 ## Applications and Cross-References
 

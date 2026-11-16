@@ -9,7 +9,7 @@ en: Anselm L. Strauss
 crumb: "Sociology ← Anselm L. Strauss"
 dates: International · 1916-1996
 active_start: 1916
-active_end: مستمر
+active_end: 1996
 edges: []
 related: []
 gaps: []

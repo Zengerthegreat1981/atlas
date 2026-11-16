@@ -9,19 +9,17 @@ en: Lewis Coser
 crumb: "Sociology ← Lewis Coser"
 dates: International · 1913-2003
 active_start: 1913
-active_end: مستمر
+active_end: 2003
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Lewis Coser
 
-Lewis A. Coser (born 1913 in Berlin) was a German-born American sociologist who made conflict a central topic of functionalist sociology. His book The Functions of Social Conflict (1956) argued that conflict can integrate and strengthen groups, and he was also an influential historian of sociological thought and a sociologist of intellectuals.
+Lewis A. Coser (1913-2003, born in Berlin) was a German-born American sociologist who made conflict a central topic of functionalist sociology. His book The Functions of Social Conflict (1956) argued that conflict can integrate and strengthen groups, and he was also an influential historian of sociological thought and a sociologist of intellectuals.
 
 ## Life and Context
 
@@ -43,6 +41,10 @@ Coser left Germany after the Nazi rise to power, lived in Paris, and emigrated t
 - Masters of Sociological Thought: Ideas in Historical and Social Context (1971)
 - Greedy Institutions: Patterns of Undivided Commitment (1974)
 - Refugee Scholars in America (1984)
+
+## Case Studies
+
+*Men of Ideas* examined institutions of intellectual life such as the Parisian salons and cafes, publishers and little magazines. *Greedy Institutions* gave examples ranging from religious orders and sects to political parties and domestic service. *Refugee Scholars in America* studied the intellectual migration from Nazi-controlled Europe to the United States.
 
 ## Method
 

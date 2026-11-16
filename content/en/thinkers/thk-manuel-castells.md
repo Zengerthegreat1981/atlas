@@ -13,8 +13,6 @@ active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
@@ -43,6 +41,10 @@ Castells's early work, especially *The Urban Question*, applied a structural Mar
 - *The Internet Galaxy* (2001)
 - *Communication Power* (2009)
 - *Networks of Outrage and Hope* (2012)
+
+## Case Studies
+
+*The City and the Grassroots* examined urban movements in cities such as Madrid, Paris and San Francisco, including the gay community in the Castro district. *Networks of Outrage and Hope* analyzed the Tunisian and Egyptian uprisings, the Spanish Indignados and the Occupy movement as networked movements built on the internet and urban public space.
 
 ## Method
 

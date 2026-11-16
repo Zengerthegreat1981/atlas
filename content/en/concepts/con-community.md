@@ -12,67 +12,39 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Community
 
-## Conceptual Definition and Genealogy
+Community is one of sociology's oldest and most contested concepts. It refers, variously, to a group of people living in a locality, to a network of people bound by shared ties or identity, and to a quality of social relationship marked by solidarity and belonging. In 1955 George Hillery reviewed 94 published definitions and found that most included social interaction, common ties and a shared area, but that agreement went little further.
 
-Community is a foundational concept in sociological analysis with particular meaning distinct from everyday usage. The concept emerged from specific intellectual traditions addressing certain questions about social phenomena. Historical development of the concept reflected changing theoretical concerns and empirical discoveries. Different sociological schools have understood the concept somewhat differently, creating productive tensions. The word itself has history revealing how the concept evolved through scholarship. Tracing genealogy of the concept illuminates its theoretical foundations and continuing importance. Contemporary precision in using the concept requires understanding this historical development.
+## Gemeinschaft and Gesellschaft
 
-## Theoretical Foundations
+Ferdinand Tönnies's *Gemeinschaft und Gesellschaft* (1887) set the classic contrast between *Gemeinschaft* (community), based on kinship, locality and shared life, in which people are bound by natural will, and *Gesellschaft* (society), based on contractual, instrumental relations among individuals. Tönnies presented them as ideal types, and the contrast shaped the sociology of modernization. Émile Durkheim's distinction between mechanical and organic solidarity, and Max Weber's contrast between communal and associative social relationships, addressed related questions.
 
-The concept rests on particular assumptions about how society works and how to analyze it scientifically. Theoretical foundations establish what the concept is supposed to explain or describe. Different theoretical frameworks sometimes use the concept differently, leading to multiple meanings in contemporary sociology. The concept's theoretical grounding makes it valuable for empirical research. Understanding theoretical foundations helps assess when the concept is appropriately applied. Theoretical precision requires recognizing what aspects of social life the concept captures and what it obscures. The concept evolved as theoretical frameworks developed, gaining new dimensions of meaning.
+## Urban Sociology and the Community Question
 
-## Classical Formulations
+The Chicago school asked whether city life destroys community. Louis Wirth's "Urbanism as a Way of Life" (1938) argued that size, density and heterogeneity produce superficial, segmented relations. Later ethnographies complicated this view: Herbert Gans's *The Urban Villagers* (1962), a study of an Italian American neighborhood in Boston's West End, found dense kin and friendship ties inside the city. Barry Wellman (1979), studying East York in Toronto, framed three answers to the "community question": community lost, saved or liberated. He argued that community persists but is often organized around dispersed social networks and not around neighborhoods, an idea he later developed as "networked individualism" with Lee Rainie (2012).
 
-Classical sociologists developing the concept articulated core features still recognized today. Early definitions established parameters for subsequent usage. Classical theorists demonstrated how the concept illuminated particular social phenomena. Their work established conventions about when and how to apply the concept. Subsequent scholars have sometimes modified or challenged classical formulations. Contemporary debates often return to classical definitions to clarify current disagreements. Understanding classical formulations provides foundation for recognizing contemporary variations and extensions.
+## Imagined and Symbolic Communities
 
-## Major Theoretical Schools and Their Interpretation
+Benedict Anderson's *Imagined Communities* (1983) argued that nations are communities because members, who will never meet most of their fellows, imagine themselves as part of the same group, a perception shaped by print capitalism and shared media. Anthony Cohen's *The Symbolic Construction of Community* (1985) argued that community is maintained by shared symbols whose meanings can differ among members, defining a boundary between insiders and outsiders more than a uniform culture. Robert Putnam's *Bowling Alone* (2000) used the language of social capital to argue that participation in civic associations in the United States declined after the 1960s, a thesis that has been challenged on empirical grounds.
 
-Different sociological schools have adopted and developed the concept in distinctive ways. Functionalist approaches understand the concept in terms of social functions and integration. Conflict approaches emphasize how the concept relates to domination and inequality. Interpretive traditions focus on how the concept helps understand meaning and interaction. Critical approaches question whether the concept adequately addresses power and resistance. Each tradition contributes distinctive insights while potentially missing dimensions emphasized elsewhere. Contemporary scholarship increasingly integrates insights from multiple traditions. The concept's continuing vitality partly depends on capacity to accommodate multiple perspectives.
+## Critiques
 
-## Empirical Applications and Research Examples
+Critics note that the concept is often used normatively, as though community were always good, whereas communities can also be exclusionary, coercive and unequal. Zygmunt Bauman (2001) described the modern longing for community as the pursuit of a security that individual freedom cannot supply. Feminist writers have pointed to unequal burdens of care within communities, and the claim that community has declined has often been romanticized relative to a past that was less harmonious than remembered. Researchers on online communities ask how far shared interest without shared place can generate the obligations and trust associated with older forms.
 
-Sociologists apply the concept empirically to understand specific social phenomena and patterns. Research demonstrates how the concept illuminates dimensions of social life otherwise difficult to recognize. Empirical applications have extended the concept's meaning in light of research findings. Quantitative research develops measurement approaches for assessing the concept. Qualitative research documents how the concept manifests in particular contexts and settings. Comparative research examines whether the concept applies across different societies and cultures. Longitudinal research traces how the concept's manifestations change over time. Contemporary applications address phenomena earlier scholars could not have anticipated.
+## Sources
 
-## Relationship to Other Core Concepts
-
-Community interconnects with other foundational concepts forming coherent analytical framework. Understanding the concept requires grasping how it relates to complementary and contrasting concepts. The relationship clarifies what specific phenomena the concept helps analyze. Different theoretical schools sometimes organize these relationships differently. Conceptual interdependence means changing understanding of one concept affects understanding of related concepts. Advanced sociological analysis often involves integrating multiple concepts to develop nuanced understanding. Mapping conceptual relationships helps prevent misapplication or confusion.
-
-## Social Inequality Dimensions
-
-The concept connects to how societies distribute resources, opportunities, and life chances unequally. Understanding these connections illuminates mechanisms producing and reproducing inequality. Different groups experience and understand the concept differently according to social position. Power relationships shape both what the concept means and how it operates in practice. The concept sometimes obscures inequality dimensions that critical approaches emphasize. Feminist, postcolonial, and critical race perspectives have extended understanding of inequality dimensions. Integrating attention to inequality prevents depoliticizing what are fundamentally questions of justice.
-
-## Contemporary Manifestations and Changes
-
-The concept manifests differently in contemporary social conditions than in classical sociological era. Digital technologies, globalization, and environmental change raise new questions about the concept. Contemporary scholars debate whether the concept requires modification to address 21st-century phenomena. The concept's continuing relevance depends partly on flexibility to address changing social conditions. Some argue the concept remains valid despite historical change while others contend fundamental revision necessary. Contemporary research extends the concept to new domains. Digital humanities apply computational methods to examine how the concept operates in massive datasets.
-
-## Limitations and Critiques
-
-Critics argue the concept inadequately captures important dimensions of social life. Some contend the concept reflects particular perspective not universally applicable. Others argue the concept obscures power relationships and responsibility. Postcolonial critique questions whether the concept reflects Western assumptions. Feminist scholarship has identified gender dimensions the concept historically overlooked. Critical scholars argue the concept sometimes legitimizes domination as natural. Contemporary proponents acknowledge limitations while maintaining the concept's analytical value. Addressing criticism without abandoning the concept remains ongoing theoretical challenge.
-
-## Measurement and Operationalization
-
-Sociologists operationalize the concept into measurable variables enabling empirical research. Different operationalizations sometimes capture somewhat different dimensions of the concept. Quantitative research requires precise definitions enabling consistent measurement. Qualitative research preserves complexity while sacrificing measurement consistency. The relationship between abstract concept and concrete measures always involves interpretive judgment. Contemporary development of measurement approaches reflects competing theoretical interpretations. Valid operationalization requires theoretical sophistication alongside technical competence.
-
-## Interdisciplinary Applications
-
-Related disciplines apply the concept with distinctive emphases. Disciplinary differences sometimes produce different understanding of the same concept. Interdisciplinary dialogue enriches understanding while potentially creating confusion. The concept's applicability across disciplines suggests broad explanatory value. Discipline-specific usage sometimes extends the concept in productive new directions. Understanding multiple disciplinary applications prevents parochialism. Interdisciplinary work increasingly requires translation between concepts with similar names but different meanings.
-
-## Future Directions and Theoretical Development
-
-Scholars debate whether the concept requires modification, extension, or replacement. Contemporary challenges prompt theorists to reconsider conceptual foundations. Emerging research sometimes produces findings requiring conceptual refinement. Dialogue with non-Western traditions may introduce alternative concepts. The concept's future depends on continued relevance to sociological analysis. Generational turnover of scholars brings new perspectives to traditional concepts. Digital sociology and computational methods open new analytical possibilities.
-
-## Sources and Further Reading
-
-- Classical sociological texts developing and defining the concept
-- Comprehensive reviews of how different traditions understand the concept
-- Empirical research applying the concept to specific phenomena
-- Critical engagements questioning the concept's adequacy
-- Methodological works addressing measurement and operationalization
-
+- Tönnies, Ferdinand. *Gemeinschaft und Gesellschaft*. Fues, 1887.
+- Wirth, Louis. "Urbanism as a Way of Life." *American Journal of Sociology* 44(1), 1938, pp. 1–24.
+- Hillery, George A. "Definitions of Community: Areas of Agreement." *Rural Sociology* 20(2), 1955, pp. 111–123.
+- Gans, Herbert J. *The Urban Villagers*. Free Press, 1962.
+- Wellman, Barry. "The Community Question: The Intimate Networks of East Yorkers." *American Journal of Sociology* 84(5), 1979, pp. 1201–1231.
+- Anderson, Benedict. *Imagined Communities*. Verso, 1983.
+- Cohen, Anthony P. *The Symbolic Construction of Community*. Ellis Horwood / Tavistock, 1985.
+- Putnam, Robert D. *Bowling Alone*. Simon & Schuster, 2000.
+- Bauman, Zygmunt. *Community: Seeking Safety in an Insecure World*. Polity, 2001.
+- Rainie, Lee, and Barry Wellman. *Networked: The New Social Operating System*. MIT Press, 2012.

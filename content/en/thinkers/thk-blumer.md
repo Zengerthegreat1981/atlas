@@ -9,7 +9,7 @@ en: Herbert Blumer
 crumb: "Sociology ← Herbert Blumer"
 dates: International · 1900-1987
 active_start: 1900
-active_end: مستمر
+active_end: 1987
 edges: []
 related: []
 gaps: []

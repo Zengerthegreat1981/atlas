@@ -9,7 +9,7 @@ en: Erving Goffman
 crumb: "Sociology ← Erving Goffman"
 dates: International · 1922-1982
 active_start: 1922
-active_end: مستمر
+active_end: 1982
 edges: []
 related: []
 gaps: []
@@ -30,7 +30,7 @@ Goffman was born in Mannville, Alberta, in 1922. He studied at the University of
 - **Face and face-work:** interaction involves mutual protection of each person's claimed social value.
 - **Stigma:** a gap between virtual and actual social identity produces discredited and discreditable people who manage information about themselves.
 - **Total institutions:** places such as asylums and prisons, where inmates live under a single authority, undergo mortification of the self, and develop secondary adjustments.
-- **Interaction order:** face-to-face interaction is a domain of social life with its own rules, a theme of his 1982 presidential address.
+- **Interaction order:** face-to-face interaction is a domain of social life with its own rules, the theme of the presidential address he prepared in 1982, published posthumously in 1983.
 - **Frame analysis:** people organize experience through interpretive frameworks.
 
 ## Major Works

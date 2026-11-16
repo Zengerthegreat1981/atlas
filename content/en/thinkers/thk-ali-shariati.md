@@ -9,7 +9,7 @@ en: Ali Shariati
 crumb: "Sociology ← Ali Shariati"
 dates: International · 1933-1977
 active_start: 1933
-active_end: مستمر
+active_end: 1977
 edges: []
 related: []
 gaps:

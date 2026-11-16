@@ -12,67 +12,41 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Agency
 
-## Conceptual Definition and Genealogy
+Agency is the capacity of individuals and groups to act intentionally, make choices, and thereby make a difference to the course of events, rather than merely being carried along by circumstances. In sociology the concept is almost always discussed together with structure, the patterned social arrangements, rules, and resources that constrain and enable action. The relation between the two, often called the structure-agency problem, is one of the discipline's oldest and most persistent theoretical questions. The concept is used in a similar way in anthropology, where it sits at the centre of theories of practice.
 
-Agency is a foundational concept in sociological analysis with particular meaning distinct from everyday usage. The concept emerged from specific intellectual traditions addressing certain questions about social phenomena. Historical development of the concept reflected changing theoretical concerns and empirical discoveries. Different sociological schools have understood the concept somewhat differently, creating productive tensions. The word itself has history revealing how the concept evolved through scholarship. Tracing genealogy of the concept illuminates its theoretical foundations and continuing importance. Contemporary precision in using the concept requires understanding this historical development.
+## Classical Roots
 
-## Theoretical Foundations
+The question is already present in the classical tradition. Karl Marx's remark in *The Eighteenth Brumaire of Louis Bonaparte* (1852) that people make their own history, but not under conditions they choose, is the most quoted compact statement of it. Max Weber defined sociology as the interpretive understanding of social action, action to which actors attach subjective meaning, so that agents' motives are part of any explanation. Talcott Parsons's *The Structure of Social Action* (1937) developed a voluntaristic theory of action in which actors pursue ends within normative limits. Against this, Emile Durkheim's emphasis on social facts external to the individual stood for the strongly structural pole of the debate.
 
-The concept rests on particular assumptions about how society works and how to analyze it scientifically. Theoretical foundations establish what the concept is supposed to explain or describe. Different theoretical frameworks sometimes use the concept differently, leading to multiple meanings in contemporary sociology. The concept's theoretical grounding makes it valuable for empirical research. Understanding theoretical foundations helps assess when the concept is appropriately applied. Theoretical precision requires recognizing what aspects of social life the concept captures and what it obscures. The concept evolved as theoretical frameworks developed, gaining new dimensions of meaning.
+## Major Theoretical Positions
 
-## Classical Formulations
+Interpretive traditions foreground agency. Symbolic interactionism, following George Herbert Mead and Herbert Blumer, treats people as interpreting and negotiating meanings in interaction, and ethnomethodology, following Harold Garfinkel's *Studies in Ethnomethodology* (1967), studies how members actively produce social order in everyday practice. Rational choice theory models agents as pursuing their goals under constraints.
 
-Classical sociologists developing the concept articulated core features still recognized today. Early definitions established parameters for subsequent usage. Classical theorists demonstrated how the concept illuminated particular social phenomena. Their work established conventions about when and how to apply the concept. Subsequent scholars have sometimes modified or challenged classical formulations. Contemporary debates often return to classical definitions to clarify current disagreements. Understanding classical formulations provides foundation for recognizing contemporary variations and extensions.
+Later theorists tried to overcome the opposition between structure and agency. Pierre Bourdieu's *Outline of a Theory of Practice* (1977) introduced habitus, durable dispositions that are shaped by social position and yet generate improvised practice. Anthony Giddens's *The Constitution of Society* (1984) proposed the duality of structure, in which structures are both the medium and the outcome of the practices they organise. William Sewell Jr. (1992) revised this account by stressing that structures are made of resources as well as rules. Margaret Archer argued instead for analytical dualism, holding that structure and agency should be separated analytically because structure precedes the actions that later reproduce or transform it. Mustafa Emirbayer and Ann Mische's "What Is Agency?" (1998) defined agency as a temporally embedded process combining habitual repetition, imagination of future possibilities, and practical judgment in the present.
 
-## Major Theoretical Schools and Their Interpretation
+## Anthropology and Wider Applications
 
-Different sociological schools have adopted and developed the concept in distinctive ways. Functionalist approaches understand the concept in terms of social functions and integration. Conflict approaches emphasize how the concept relates to domination and inequality. Interpretive traditions focus on how the concept helps understand meaning and interaction. Critical approaches question whether the concept adequately addresses power and resistance. Each tradition contributes distinctive insights while potentially missing dimensions emphasized elsewhere. Contemporary scholarship increasingly integrates insights from multiple traditions. The concept's continuing vitality partly depends on capacity to accommodate multiple perspectives.
+Anthropology took up agency through practice theory. Sherry Ortner's review "Theory in Anthropology since the Sixties" (1984) traced the shift from structuralism and functionalism toward questions of practice and power, and her later *Anthropology and Social Theory* (2006) examined the acting subject within unequal social worlds. Saba Mahmood's *Politics of Piety* (2005), an ethnography of women in the Egyptian mosque movement, argued that agency should not be equated with resistance to domination, since it can also take the form of cultivating norms. Alfred Gell's *Art and Agency* (1998) and Bruno Latour's actor-network theory extended the term to objects and nonhuman actors, a move many sociologists dispute. In psychology, Albert Bandura (2001) treated human agency as intentionality, forethought, self-regulation, and self-reflection.
 
-## Empirical Applications and Research Examples
+## Critiques and Debates
 
-Sociologists apply the concept empirically to understand specific social phenomena and patterns. Research demonstrates how the concept illuminates dimensions of social life otherwise difficult to recognize. Empirical applications have extended the concept's meaning in light of research findings. Quantitative research develops measurement approaches for assessing the concept. Qualitative research documents how the concept manifests in particular contexts and settings. Comparative research examines whether the concept applies across different societies and cultures. Longitudinal research traces how the concept's manifestations change over time. Contemporary applications address phenomena earlier scholars could not have anticipated.
+Critics make several objections. Structural and Marxist critics argue that emphasis on agency can mask the force of class, race, and gender constraints; scholars working in the interpretive tradition reply that structural accounts treat people as passive. Others hold that the concept is used inconsistently, sometimes meaning intention, sometimes choice, sometimes the mere capacity to cause effects. Feminist and postcolonial writers ask whose agency is recognised and warn against assuming a liberal model of the autonomous chooser. Because agency is hard to observe directly, empirical work typically studies proxies such as choices, strategies, and narratives of efficacy, and the results depend heavily on the concept's definition.
 
-## Relationship to Other Core Concepts
+## Sources
 
-Agency interconnects with other foundational concepts forming coherent analytical framework. Understanding the concept requires grasping how it relates to complementary and contrasting concepts. The relationship clarifies what specific phenomena the concept helps analyze. Different theoretical schools sometimes organize these relationships differently. Conceptual interdependence means changing understanding of one concept affects understanding of related concepts. Advanced sociological analysis often involves integrating multiple concepts to develop nuanced understanding. Mapping conceptual relationships helps prevent misapplication or confusion.
-
-## Social Inequality Dimensions
-
-The concept connects to how societies distribute resources, opportunities, and life chances unequally. Understanding these connections illuminates mechanisms producing and reproducing inequality. Different groups experience and understand the concept differently according to social position. Power relationships shape both what the concept means and how it operates in practice. The concept sometimes obscures inequality dimensions that critical approaches emphasize. Feminist, postcolonial, and critical race perspectives have extended understanding of inequality dimensions. Integrating attention to inequality prevents depoliticizing what are fundamentally questions of justice.
-
-## Contemporary Manifestations and Changes
-
-The concept manifests differently in contemporary social conditions than in classical sociological era. Digital technologies, globalization, and environmental change raise new questions about the concept. Contemporary scholars debate whether the concept requires modification to address 21st-century phenomena. The concept's continuing relevance depends partly on flexibility to address changing social conditions. Some argue the concept remains valid despite historical change while others contend fundamental revision necessary. Contemporary research extends the concept to new domains. Digital humanities apply computational methods to examine how the concept operates in massive datasets.
-
-## Limitations and Critiques
-
-Critics argue the concept inadequately captures important dimensions of social life. Some contend the concept reflects particular perspective not universally applicable. Others argue the concept obscures power relationships and responsibility. Postcolonial critique questions whether the concept reflects Western assumptions. Feminist scholarship has identified gender dimensions the concept historically overlooked. Critical scholars argue the concept sometimes legitimizes domination as natural. Contemporary proponents acknowledge limitations while maintaining the concept's analytical value. Addressing criticism without abandoning the concept remains ongoing theoretical challenge.
-
-## Measurement and Operationalization
-
-Sociologists operationalize the concept into measurable variables enabling empirical research. Different operationalizations sometimes capture somewhat different dimensions of the concept. Quantitative research requires precise definitions enabling consistent measurement. Qualitative research preserves complexity while sacrificing measurement consistency. The relationship between abstract concept and concrete measures always involves interpretive judgment. Contemporary development of measurement approaches reflects competing theoretical interpretations. Valid operationalization requires theoretical sophistication alongside technical competence.
-
-## Interdisciplinary Applications
-
-Related disciplines—psychology, economics, anthropology, geography—apply the concept with distinctive emphases. Disciplinary differences sometimes produce different understanding of the same concept. Interdisciplinary dialogue enriches understanding while potentially creating confusion. The concept's applicability across disciplines suggests broad explanatory value. Discipline-specific usage sometimes extends the concept in productive new directions. Understanding multiple disciplinary applications prevents parochialism. Interdisciplinary work increasingly requires translation between concepts with similar names but different meanings.
-
-## Future Directions and Theoretical Development
-
-Scholars debate whether the concept requires modification, extension, or replacement. Contemporary challenges prompt theorists to reconsider conceptual foundations. Emerging research sometimes produces findings requiring conceptual refinement. Dialogue with non-Western traditions may introduce alternative concepts. The concept's future depends on continued relevance to sociological analysis. Generational turnover of scholars brings new perspectives to traditional concepts. Digital sociology and computational methods open new analytical possibilities.
-
-## Sources and Further Reading
-
-- Classical sociological texts developing and defining the concept
-- Comprehensive reviews of how different traditions understand the concept
-- Empirical research applying the concept to specific phenomena
-- Critical engagements questioning the concept's adequacy
-- Methodological works addressing measurement and operationalization
-
+- Marx, Karl. *The Eighteenth Brumaire of Louis Bonaparte*. 1852.
+- Weber, Max. *Economy and Society*. 1922.
+- Parsons, Talcott. *The Structure of Social Action*. 1937.
+- Garfinkel, Harold. *Studies in Ethnomethodology*. 1967.
+- Bourdieu, Pierre. *Outline of a Theory of Practice*. 1977.
+- Giddens, Anthony. *The Constitution of Society: Outline of the Theory of Structuration*. 1984.
+- Ortner, Sherry B. "Theory in Anthropology since the Sixties." *Comparative Studies in Society and History* 26(1), 1984.
+- Sewell, William H., Jr. "A Theory of Structure: Duality, Agency, and Transformation." *American Journal of Sociology* 98(1), 1992.
+- Emirbayer, Mustafa, and Ann Mische. "What Is Agency?" *American Journal of Sociology* 103(4), 1998.
+- Mahmood, Saba. *Politics of Piety: The Islamic Revival and the Feminist Subject*. 2005.

@@ -12,8 +12,7 @@ active_start: 1905
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 # The Protestant Ethic and the Spirit of Capitalism
 
@@ -25,7 +24,7 @@ Weber wrote the essays in 1904–1905 for the *Archiv für Sozialwissenschaft un
 
 ## Author's Biographical Situation
 
-Weber was born in 1864 in Erfurt, the son of a prominent liberal politician and a devout Calvinist mother, and he was educated in law, economics, and history at Heidelberg, Berlin, and Göttingen. His biography is written into the book in two ways. Intellectually, he was a product of the German historical school of economics and of the methodological debates — the *Methodenstreit* — about whether economics should seek universal laws or historical understanding; his answer, the ideal type, is the book's method. 
+Weber was born in 1864 in Erfurt, the son of a prominent National Liberal politician and a devoutly Protestant mother, and he was educated in law, economics, and history at Heidelberg, Berlin, and Göttingen. His biography bears on the book in two ways. Intellectually, he was a product of the German historical school of economics and of the methodological debates — the *Methodenstreit* — about whether economics should seek universal laws or historical understanding; his answer, the ideal type, is the book's method. Personally, he wrote the essays after a severe nervous breakdown (from 1897) and a long period of withdrawal from academic work, and the first essay appeared shortly after his 1904 journey to the United States.
 
 ## Core Argumentative Structure
 
@@ -38,6 +37,10 @@ The book's concepts have become part of the general vocabulary of the social sci
 ## Evidence and Influence
 
 Weber's evidence is historical and comparative rather than statistical. He begins with the confessional statistics of Baden, showing the overrepresentation of Protestants in capitalist enterprise, and then traces the pattern across Europe: the economically dynamic regions — the Netherlands, England, parts of Germany and Switzerland — were disproportionately Protestant, while Catholic regions lagged. He examines the writings of the Puritan divines, notably Richard Baxter's *Christian Directory*, to show how the doctrine of the calling was preached as practical ethics, and he quotes Franklin's *Advice to a Young Tradesman* to show the ethic surviving in secular form. The book's influence extends far beyond its thesis: it established the sociology of religion as a field concerned with the social consequences of ideas, and it made the elective affinity between religious ethics and economic conduct a permanent question for sociology.
+
+## Cross-Disciplinary Applications
+
+The thesis has been taken up well beyond sociology. Robert K. Merton's study of science and Puritanism in seventeenth-century England (1938) applied a similar argument about religious values and the rise of modern science. Historians and economists have continued to test the link between Protestantism and economic outcomes: Sascha Becker and Ludger Woessmann (2009), for example, argued that the higher literacy encouraged by Protestant emphasis on Bible reading, rather than work ethic, explains much of the Protestant economic advantage in nineteenth-century Prussia, a finding that both challenges and reinterprets Weber's mechanism.
 
 ## Continuing Relevance and Critical Assessments
 
@@ -52,3 +55,5 @@ The book remains relevant because its question has not been settled, and because
 - Schluchter, Wolfgang. *The Rise of Western Rationalism: Max Weber's Developmental History*. University of California Press, 1981.
 - Marshall, Gordon. *In Search of the Spirit of Capitalism: An Essay on Max Weber's Protestant Ethic Thesis*. Columbia University Press, 1982.
 - Turner, Bryan S. *For Weber: Essays on the Sociology of Fate*. Routledge, 1981.
+- Becker, Sascha O., and Ludger Woessmann. "Was Weber Wrong? A Human Capital Theory of Protestant Economic History." *Quarterly Journal of Economics* 124, no. 2 (2009): 531–596.
+- Merton, Robert K. *Science, Technology and Society in Seventeenth Century England*. 1938.

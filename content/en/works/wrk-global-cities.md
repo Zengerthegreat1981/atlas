@@ -12,9 +12,7 @@ active_start: 1991
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 # Global Cities
 
@@ -22,7 +20,7 @@ gaps:
 
 ## Historical Context and Publication
 
-Sassen wrote the book in the late 1980s, a decade of financial deregulation, the growth of multinational corporations, and the rapid expansion of international capital markets. Born in The Hague in 1947 and raised in Argentina, Sassen studied sociology and economics and taught at Columbia University; her earlier book, *The Mobility of Labor and Capital* (1988), had already examined the links between foreign investment and migration. *The Global City* appeared as the old industrial order was giving way to a service-based, globally integrated economy, and it offered the first systematic sociological account of that transformation at the level of the city. An updated second edition appeared in 2001.
+Sassen wrote the book in the late 1980s, a decade of financial deregulation, the growth of multinational corporations, and the rapid expansion of international capital markets. Born in The Hague in 1947 and raised in Argentina, Sassen later taught at Columbia University; her earlier book, *The Mobility of Labor and Capital* (1988), had already examined the links between foreign investment and migration. *The Global City* appeared as the old industrial order was giving way to a service-based, globally integrated economy, and it offered the first systematic sociological account of that transformation at the level of the city. An updated second edition appeared in 2001.
 
 ## Thesis and Core Argument
 
@@ -30,7 +28,7 @@ Sassen's central claim is that the dispersal of economic activity across the glo
 
 ## Structure and Method
 
-The book is organised in two parts. The first examines the geography and composition of globalisation, tracing how New York, London, and Tokyo restructured from manufacturing centres into centres of finance and producer services during the 1970s and 1980s. The second examines the economic order of the global city, analysing the producer services complex, the transformation of financial markets, and the new urban labour market. Sassen's method combines economic data on employment, investment, and office markets with detailed case studies of the three cities. The comparative design is central to the argument: by showing that three very different cities underwent massive and parallel changes, she demonstrates that a common global process, rather than local circumstance, was at work.
+The book first examines the geography and composition of globalisation, tracing how New York, London, and Tokyo restructured from manufacturing centres into centres of finance and producer services during the 1970s and 1980s. It then analyses the economic order of the global city, including the producer services complex and the transformation of financial markets, and the new urban social order, including labour markets and informalisation. Sassen's method combines economic data on employment, investment, and office markets with detailed case studies of the three cities. The comparative design is central to the argument: by showing that three very different cities underwent massive and parallel changes, she demonstrates that a common global process, rather than local circumstance, was at work.
 
 ## Key Concepts
 
@@ -38,7 +36,7 @@ The book's central concept, the "global city," has become one of the most widely
 
 ## Reception and Influence
 
-*The Global City* was widely acclaimed and became a classic across sociology, geography, economics, and urban planning. It founded a large research literature on world and global cities, including the Globalization and World Cities research network, and it influenced how policymakers think about urban competitiveness, financial regulation, and immigration. Sassen's later work extended the analysis to global migration, the denationalisation of territory, and the expulsions produced by advanced capitalism in *Expulsions* (2014).
+*The Global City* was widely acclaimed and became a classic across sociology, geography, economics, and urban planning. It founded a large research literature on world and global cities, including the Globalization and World Cities (GaWC) research network, and it influenced how policymakers think about urban competitiveness, financial regulation, and immigration. Sassen's later work extended the analysis to global migration, the denationalisation of territory, and the expulsions produced by advanced capitalism in *Expulsions* (2014).
 
 ## Critical Assessments
 

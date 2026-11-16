@@ -24,7 +24,7 @@ Functional analysis is a method of explaining social phenomena by identifying th
 
 ## Origins and Development
 
-The method's roots lie in nineteenth-century sociology and anthropology. Emile Durkheim, in *The Division of Labour in Society* (1893), argued that social facts should be explained by the function they fulfil, and his later study of religion treated ritual as the mechanism by which a community renews its collective conscience. In anthropology, Bronislaw Malinowski rejected speculative histories of custom and insisted that every institution be studied in terms of the human needs it satisfies; his *A Scientific Theory of Culture* (1944) is the classic statement of this position. A. R. Radcliffe-Brown offered a more structural version, defining the function of a social usage as its contribution to the maintenance of the social structure as a whole, a view systematised in *Structure and Function in Primitive Society* (1952).
+The method's roots lie in nineteenth-century sociology and anthropology. Emile Durkheim, in *The Rules of Sociological Method* (1895), argued that the cause of a social fact and the function it fulfils must be investigated separately, and in *The Division of Labour in Society* (1893) he analysed the social function of the division of labour, and his later study of religion treated ritual as the mechanism by which a community renews its collective conscience. In anthropology, Bronislaw Malinowski rejected speculative histories of custom and insisted that every institution be studied in terms of the human needs it satisfies; his *A Scientific Theory of Culture* (1944) is the classic statement of this position. A. R. Radcliffe-Brown offered a more structural version, defining the function of a social usage as its contribution to the maintenance of the social structure as a whole, a view systematised in *Structure and Function in Primitive Society* (1952).
 
 In American sociology, Talcott Parsons made functional analysis the core of a general theory of action. In *The Social System* (1951), he argued that every social system must solve four functional problems — adaptation, goal attainment, integration, and latency — and that institutions can be analysed by the problems they solve. Robert K. Merton, in *Social Theory and Social Structure* (1949), refined the method and warned against its excesses: he distinguished manifest functions, the intended and recognised consequences of an action, from latent functions, its unintended consequences, and insisted that any practice might also be dysfunctional for some groups.
 
@@ -41,8 +41,9 @@ Although grand functionalist theory declined after the 1960s, functional analysi
 ## Sources
 
 - Emile Durkheim, *The Division of Labour in Society*, 1893.
+- Emile Durkheim, *The Rules of Sociological Method*, 1895.
 - Bronislaw Malinowski, *A Scientific Theory of Culture and Other Essays*, 1944.
 - Robert K. Merton, *Social Theory and Social Structure*, 1949.
 - Talcott Parsons, *The Social System*, 1951.
 - A. R. Radcliffe-Brown, *Structure and Function in Primitive Society*, 1952.
-- Kingsley Davis and Wilbert E. Moore, "Some Principles of Stratification," *American Sociological Review*, 1945.
+- Kingsley Davis and Wilbert E. Moore, "Some Principles of Stratification," *American Sociological Review* 10 (2), 1945, 242-249.

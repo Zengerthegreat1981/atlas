@@ -9,13 +9,10 @@ en: Florian Znaniecki
 crumb: "Sociology ← Florian Znaniecki"
 dates: International · 1882-1958
 active_start: 1882
-active_end: مستمر
+active_end: 1958
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -31,7 +28,7 @@ Znaniecki was born in Poland, studied philosophy in Warsaw, Geneva, Zurich and K
 
 - **Humanistic coefficient.** Znaniecki held that social facts are always facts as experienced by participants, so the sociologist must understand the meanings people attach to their situations.
 - **Definition of the situation.** With Thomas, he showed how people interpret situations and act on them, linking individual attitudes to social values.
-- **Social action and roles.** In *Social Actions* (1936) and later works, he developed a theory of social action, social roles and social circles.
+- **Social action and roles.** In *Social Actions* (1936) and later works, he developed a theory of social action and social roles.
 - **Analytic induction.** He proposed a method of reasoning from a small number of cases to universal statements by revising hypotheses until no exceptions remain.
 - **Cultural sciences.** In *Cultural Sciences* (1952), he distinguished the study of culture from the natural sciences.
 
@@ -50,6 +47,10 @@ Znaniecki was born in Poland, studied philosophy in Warsaw, Geneva, Zurich and K
 ## Influence and Criticism
 
 The work shaped Chicago-school sociology, qualitative research and the study of migration. Critics, including Herbert Blumer in his 1939 critique of the study, questioned whether personal documents could verify theory, and whether the framework of attitudes and values was adequately tested. Znaniecki's analytic induction is still discussed in qualitative methodology, though also criticised for focusing on confirming cases and for not providing a statistical basis for generalisation.
+
+## Applications and Cross-References
+
+Analytic induction was applied in classic studies such as Alfred Lindesmith's work on opiate addiction (1947) and Donald Cressey's study of embezzlers (1953). Znaniecki's concerns link to the Chicago school, to symbolic interactionism and to W. I. Thomas's definition of the situation.
 
 ## Sources
 

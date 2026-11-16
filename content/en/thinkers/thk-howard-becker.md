@@ -13,8 +13,6 @@ active_end: مستمر
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
@@ -44,6 +42,10 @@ Becker was born in Chicago and trained there, receiving his doctorate in sociolo
 - *Writing for Social Scientists* (1986)
 - *Tricks of the Trade* (1998)
 - *Telling About Society* (2007)
+
+## Case Studies
+
+*Boys in White* followed students at the University of Kansas medical school. In *Outsiders*, Becker drew on his own fieldwork on dance musicians and on interviews with marihuana users. He also studied Chicago public-school teachers, work that fed his analysis of occupations and careers.
 
 ## Method
 

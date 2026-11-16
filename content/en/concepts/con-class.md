@@ -12,67 +12,38 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Class
 
-## Conceptual Definition and Genealogy
+Social class refers to large groups of people who share a similar position in the economic order and, as a result, similar life chances. It is one of sociology's founding concepts, and competing definitions reflect different theories of how inequality is produced.
 
-Class is a foundational concept in sociological analysis with particular meaning distinct from everyday usage. The concept emerged from specific intellectual traditions addressing certain questions about social phenomena. Historical development of the concept reflected changing theoretical concerns and empirical discoveries. Different sociological schools have understood the concept somewhat differently, creating productive tensions. The word itself has history revealing how the concept evolved through scholarship. Tracing genealogy of the concept illuminates its theoretical foundations and continuing importance. Contemporary precision in using the concept requires understanding this historical development.
+## Marx
 
-## Theoretical Foundations
+Karl Marx and Friedrich Engels, in *The Communist Manifesto* (1848) and Marx's later economic writings, defined classes by their relation to the means of production: in capitalism, the bourgeoisie owns them and the proletariat must sell its labor power. Class position is thus a relation of exploitation and conflict, and Marx held that class conflict drives historical change. A distinction drawn in Marx's work and by later Marxists separates a class "in itself" (a shared objective position) from a class "for itself" (a group conscious of its common interests and organized to act on them). Marx also described intermediate groups such as the petty bourgeoisie, and the relation between classes and politics was left incompletely theorized.
 
-The concept rests on particular assumptions about how society works and how to analyze it scientifically. Theoretical foundations establish what the concept is supposed to explain or describe. Different theoretical frameworks sometimes use the concept differently, leading to multiple meanings in contemporary sociology. The concept's theoretical grounding makes it valuable for empirical research. Understanding theoretical foundations helps assess when the concept is appropriately applied. Theoretical precision requires recognizing what aspects of social life the concept captures and what it obscures. The concept evolved as theoretical frameworks developed, gaining new dimensions of meaning.
+## Weber
 
-## Classical Formulations
+Max Weber, in *Economy and Society* (1922), defined class by market situation: people who share similar chances in the labor, commodity or credit markets because of their property and skills. He distinguished class from *status* (social honor, tied to lifestyle) and *party* (organized pursuit of power), three dimensions of stratification that may overlap but are analytically separate. Weber's approach underlies much later empirical work on occupational classes and life chances.
 
-Classical sociologists developing the concept articulated core features still recognized today. Early definitions established parameters for subsequent usage. Classical theorists demonstrated how the concept illuminated particular social phenomena. Their work established conventions about when and how to apply the concept. Subsequent scholars have sometimes modified or challenged classical formulations. Contemporary debates often return to classical definitions to clarify current disagreements. Understanding classical formulations provides foundation for recognizing contemporary variations and extensions.
+## Modern Class Analysis
 
-## Major Theoretical Schools and Their Interpretation
+Erik Olin Wright's *Classes* (1985) developed a neo-Marxist scheme based on exploitation and the control of assets, including "contradictory class locations" such as managers. Robert Erikson and John Goldthorpe's *The Constant Flux* (1992) used an occupational class schema (the EGP scheme, from Erikson, Goldthorpe and Portocarero) in comparative studies of social mobility, finding broadly similar relative mobility patterns across industrial societies and substantial persistence of class origin effects. Pierre Bourdieu's *Distinction* (1979) argued that classes differ not only in economic capital but in cultural capital and taste. Annette Lareau's *Unequal Childhoods* (2003), based on intensive observation of a small number of American families, contrasted the "concerted cultivation" typical of middle-class parenting with the "accomplishment of natural growth" more common among working-class and poor families. Mike Savage and colleagues' Great British Class Survey, a large self-selected web survey, proposed a model of seven classes, from an elite to a precariat, based on economic, cultural and social capital (Savage et al., 2013); the unrepresentative sample and the method of constructing classes drew criticism. Guy Standing (2011) popularized the idea of a "precariat" with insecure work and income.
 
-Different sociological schools have adopted and developed the concept in distinctive ways. Functionalist approaches understand the concept in terms of social functions and integration. Conflict approaches emphasize how the concept relates to domination and inequality. Interpretive traditions focus on how the concept helps understand meaning and interaction. Critical approaches question whether the concept adequately addresses power and resistance. Each tradition contributes distinctive insights while potentially missing dimensions emphasized elsewhere. Contemporary scholarship increasingly integrates insights from multiple traditions. The concept's continuing vitality partly depends on capacity to accommodate multiple perspectives.
+## Debates
 
-## Empirical Applications and Research Examples
+Some writers, such as Jan Pakulski and Malcolm Waters in *The Death of Class* (1996), argued that class has lost its power to shape identity and politics in late modern societies, while others point to continuing and in some countries rising economic inequality as evidence of its salience. Feminist scholars have criticized class schemes that treat the family or male breadwinner as the unit of analysis and ignore unpaid domestic labor, and critical race scholars have shown how class and race intersect in the distribution of wealth and opportunity. Measurement also remains contested: schemes based on occupation, income, wealth, education or subjective identification yield different pictures.
 
-Sociologists apply the concept empirically to understand specific social phenomena and patterns. Research demonstrates how the concept illuminates dimensions of social life otherwise difficult to recognize. Empirical applications have extended the concept's meaning in light of research findings. Quantitative research develops measurement approaches for assessing the concept. Qualitative research documents how the concept manifests in particular contexts and settings. Comparative research examines whether the concept applies across different societies and cultures. Longitudinal research traces how the concept's manifestations change over time. Contemporary applications address phenomena earlier scholars could not have anticipated.
+## Sources
 
-## Relationship to Other Core Concepts
-
-Class interconnects with other foundational concepts forming coherent analytical framework. Understanding the concept requires grasping how it relates to complementary and contrasting concepts. The relationship clarifies what specific phenomena the concept helps analyze. Different theoretical schools sometimes organize these relationships differently. Conceptual interdependence means changing understanding of one concept affects understanding of related concepts. Advanced sociological analysis often involves integrating multiple concepts to develop nuanced understanding. Mapping conceptual relationships helps prevent misapplication or confusion.
-
-## Social Inequality Dimensions
-
-The concept connects to how societies distribute resources, opportunities, and life chances unequally. Understanding these connections illuminates mechanisms producing and reproducing inequality. Different groups experience and understand the concept differently according to social position. Power relationships shape both what the concept means and how it operates in practice. The concept sometimes obscures inequality dimensions that critical approaches emphasize. Feminist, postcolonial, and critical race perspectives have extended understanding of inequality dimensions. Integrating attention to inequality prevents depoliticizing what are fundamentally questions of justice.
-
-## Contemporary Manifestations and Changes
-
-The concept manifests differently in contemporary social conditions than in classical sociological era. Digital technologies, globalization, and environmental change raise new questions about the concept. Contemporary scholars debate whether the concept requires modification to address 21st-century phenomena. The concept's continuing relevance depends partly on flexibility to address changing social conditions. Some argue the concept remains valid despite historical change while others contend fundamental revision necessary. Contemporary research extends the concept to new domains. Digital humanities apply computational methods to examine how the concept operates in massive datasets.
-
-## Limitations and Critiques
-
-Critics argue the concept inadequately captures important dimensions of social life. Some contend the concept reflects particular perspective not universally applicable. Others argue the concept obscures power relationships and responsibility. Postcolonial critique questions whether the concept reflects Western assumptions. Feminist scholarship has identified gender dimensions the concept historically overlooked. Critical scholars argue the concept sometimes legitimizes domination as natural. Contemporary proponents acknowledge limitations while maintaining the concept's analytical value. Addressing criticism without abandoning the concept remains ongoing theoretical challenge.
-
-## Measurement and Operationalization
-
-Sociologists operationalize the concept into measurable variables enabling empirical research. Different operationalizations sometimes capture somewhat different dimensions of the concept. Quantitative research requires precise definitions enabling consistent measurement. Qualitative research preserves complexity while sacrificing measurement consistency. The relationship between abstract concept and concrete measures always involves interpretive judgment. Contemporary development of measurement approaches reflects competing theoretical interpretations. Valid operationalization requires theoretical sophistication alongside technical competence.
-
-## Interdisciplinary Applications
-
-Related disciplines apply the concept with distinctive emphases. Disciplinary differences sometimes produce different understanding of the same concept. Interdisciplinary dialogue enriches understanding while potentially creating confusion. The concept's applicability across disciplines suggests broad explanatory value. Discipline-specific usage sometimes extends the concept in productive new directions. Understanding multiple disciplinary applications prevents parochialism. Interdisciplinary work increasingly requires translation between concepts with similar names but different meanings.
-
-## Future Directions and Theoretical Development
-
-Scholars debate whether the concept requires modification, extension, or replacement. Contemporary challenges prompt theorists to reconsider conceptual foundations. Emerging research sometimes produces findings requiring conceptual refinement. Dialogue with non-Western traditions may introduce alternative concepts. The concept's future depends on continued relevance to sociological analysis. Generational turnover of scholars brings new perspectives to traditional concepts. Digital sociology and computational methods open new analytical possibilities.
-
-## Sources and Further Reading
-
-- Classical sociological texts developing and defining the concept
-- Comprehensive reviews of how different traditions understand the concept
-- Empirical research applying the concept to specific phenomena
-- Critical engagements questioning the concept's adequacy
-- Methodological works addressing measurement and operationalization
-
+- Marx, Karl, and Friedrich Engels. *The Communist Manifesto*. 1848.
+- Weber, Max. *Economy and Society*. Edited by Guenther Roth and Claus Wittich. University of California Press, 1978 (German original 1922).
+- Bourdieu, Pierre. *La Distinction*. Éditions de Minuit, 1979.
+- Wright, Erik Olin. *Classes*. Verso, 1985.
+- Erikson, Robert, and John H. Goldthorpe. *The Constant Flux: A Study of Class Mobility in Industrial Societies*. Clarendon Press, 1992.
+- Pakulski, Jan, and Malcolm Waters. *The Death of Class*. Sage, 1996.
+- Lareau, Annette. *Unequal Childhoods: Class, Race, and Family Life*. University of California Press, 2003.
+- Standing, Guy. *The Precariat: The New Dangerous Class*. Bloomsbury, 2011.
+- Savage, Mike, et al. "A New Model of Social Class? Findings from the BBC's Great British Class Survey Experiment." *Sociology* 47(2), 2013, pp. 219–250.

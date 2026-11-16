@@ -9,13 +9,10 @@ en: Immanuel Wallerstein
 crumb: "Sociology ← Immanuel Wallerstein"
 dates: International · 1930-2019
 active_start: 1930
-active_end: مستمر
+active_end: 2019
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -41,6 +38,10 @@ Wallerstein argued that a European capitalist world-economy emerged in the long 
 - *Unthinking Social Science* (1991)
 - *Open the Social Sciences* (1996, Gulbenkian Commission)
 - *World-Systems Analysis: An Introduction* (2004)
+
+## Applications and Cross-References
+
+World-systems analysis has been used to study long cycles of hegemony (the Dutch, British and United States cases), the incorporation of regions such as Africa and Latin America into the world-economy, and the position of countries as core, semiperipheral or peripheral over time. It is closely related to dependency theory (Andre Gunder Frank, Samir Amin) and to the work of Giovanni Arrighi and Christopher Chase-Dunn. It is often compared with the nation-state-centred comparative history of Theda Skocpol and with Fernand Braudel's *longue duree*.
 
 ## Method
 

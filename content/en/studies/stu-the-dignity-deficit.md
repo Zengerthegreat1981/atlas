@@ -8,20 +8,28 @@ title: "The Dignity Deficit"
 en: The Dignity Deficit
 crumb: "Sociology ← The Dignity Deficit"
 dates: ''
-active_start: 1920
-active_end: مستمر
+active_start: 1972
+active_end: 2016
 edges: []
 related: []
 gaps:
-- Full methodology: not yet covered
-- Findings summary: not yet covered
-- Contemporary relevance: not yet covered
+- "Specific study titled The Dignity Deficit: not yet covered"
 ---
+
 # The Dignity Deficit
 
-The Dignity Deficit: Hochschild's cultural sociology. Methodological significance and contemporary implications are not yet covered here.
+"The Dignity Deficit" is the title under which this entry gathers sociological work on dignity, respect and class. No single published study under that title has been confirmed for this entry, so it describes the established research it refers to.
+
+## The Research Tradition
+
+Sociologists have long argued that inequality involves a struggle over respect and moral worth as well as over income. Richard Sennett and Jonathan Cobb's *The Hidden Injuries of Class* (1972), based on interviews with working-class men in Boston, described how people who felt unable to command respect through occupation or education experienced their position as a personal failing and developed a strong concern for self-respect and independence. Michèle Lamont's *The Dignity of Working Men: Morality and the Boundaries of Race, Class, and Immigration* (2000), based on interviews with white and Black working-class men in the United States and France, showed how they defined their worth through moral standards such as discipline, responsibility and honesty, and drew boundaries against those they saw as lacking them. Arlie Russell Hochschild's *Strangers in Their Own Land* (2016) described an "honor squeeze" among conservative white Louisianans, who felt that the route to respect was blocked by others "cutting in line" and by the disdain of liberals.
+
+## Why It Matters
+
+This literature shifts attention from the distribution of money to the distribution of recognition. It suggests that economic decline, stigma and a meritocratic culture that attributes outcomes to individual effort can leave people with a damaged sense of worth, with consequences for politics, family life and health. The evidence in these studies comes largely from interviews in specific groups and places, so their findings describe patterns of meaning and not population averages.
 
 ## Sources
 
-- Empirical study: The Dignity Deficit
-
+- Sennett, Richard, and Jonathan Cobb. *The Hidden Injuries of Class*. Knopf, 1972.
+- Lamont, Michèle. *The Dignity of Working Men: Morality and the Boundaries of Race, Class, and Immigration*. Harvard University Press and Russell Sage Foundation, 2000.
+- Hochschild, Arlie Russell. *Strangers in Their Own Land: Anger and Mourning on the American Right*. The New Press, 2016.

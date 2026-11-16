@@ -54,8 +54,8 @@ Its wider significance is a standing challenge to sociology's explanatory ambiti
 
 ## Sources
 
-- Husserl, Edmund. *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. The Hague: Martinus Nijhoff, 1913.
-- Heidegger, Martin. *Being and Time*. Tubingen: Max Niemeyer, 1927.
+- Husserl, Edmund. *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Halle: Max Niemeyer, 1913.
+- Heidegger, Martin. *Being and Time*. Tübingen: Max Niemeyer, 1927.
 - Schutz, Alfred. *The Phenomenology of the Social World*. Vienna: Julius Springer, 1932.
 - Merleau-Ponty, Maurice. *Phenomenology of Perception*. Paris: Gallimard, 1945.
 - van Manen, Max. *Researching Lived Experience: Human Science for an Action Sensitive Pedagogy*. Albany: State University of New York Press, 1990.

@@ -9,7 +9,7 @@ en: Herbert Spencer
 crumb: "Sociology ← Herbert Spencer"
 dates: International · 1820-1903
 active_start: 1820
-active_end: مستمر
+active_end: 1903
 edges: []
 related: []
 gaps: []
@@ -48,7 +48,7 @@ Spencer relied on comparative data about different societies, assembled in the *
 
 ## Influence and Criticism
 
-Spencer was enormously influential in his lifetime, including on Durkheim, who engaged critically with his account of social differentiation. His reputation declined in the twentieth century. Critics condemned his use of evolutionary ideas to justify laissez-faire politics and inequality (often labeled "social Darwinism," though he held Lamarckian views as well), questioned the organic analogy, and pointed to the weakness of his empirical basis. Talcott Parsons famously asked "Who now reads Spencer?" in 1937.
+Spencer was enormously influential in his lifetime, including on Durkheim, who engaged critically with his account of social differentiation. His reputation declined in the twentieth century. Critics condemned his use of evolutionary ideas to justify laissez-faire politics and inequality (often labeled "social Darwinism," though he held Lamarckian views as well), questioned the organic analogy, and pointed to the weakness of his empirical basis. Talcott Parsons opened *The Structure of Social Action* (1937) by quoting the question "Who now reads Spencer?" to mark his eclipse.
 
 ## Applications and Cross-References
 

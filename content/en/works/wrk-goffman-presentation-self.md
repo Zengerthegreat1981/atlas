@@ -16,7 +16,7 @@ gaps: []
 ---
 # The Presentation of Self in Everyday Life
 
-Erving Goffman's *The Presentation of Self in Everyday Life* — first published in Scotland in 1956, in the United States in 1959 — is the most widely read book in the history of sociology. Its claim is that everyday social life is a performance. When people meet, they present a version of themselves — a front — and manage the impressions others form of them, much as actors manage an audience. Goffman does not mean that people are insincere; he means that social interaction has a structure, and that structure can be described with the precision of a stage manager's handbook. Front stage and back stage, teams, audiences, impression management, face-work: these terms entered sociology from this book and never left. 
+Erving Goffman's *The Presentation of Self in Everyday Life* — first published in Scotland in 1956, in the United States in 1959 — is one of the most widely read books in the history of sociology. Its claim is that everyday social life is a performance. When people meet, they present a version of themselves — a front — and manage the impressions others form of them, much as actors manage an audience. Goffman does not mean that people are insincere; he means that social interaction has a structure, and that structure can be described with the precision of a stage manager's handbook. Front stage and back stage, teams, audiences and impression management: these terms entered sociology from this book and never left. 
 
 ## Historical Context and Publication
 
@@ -32,7 +32,7 @@ The book's governing metaphor is the theatre, and Goffman develops it systematic
 
 ## Key Concepts and Theoretical Framework
 
-The book's vocabulary is its lasting contribution. The front is the expressive equipment a performer uses — the setting, the appearance, the manner. Front stage is the region where the performance is given; back stage is where it is prepared and where the performer can be off character. A team is a group of performers who cooperate to stage a single routine, as a family does for guests. Impression management is the work of controlling the audience's view of the performance, including the defensive practices that protect it and the protective practices by which audiences tactfully overlook flaws. Face is the positive social value a person claims for themselves in an encounter, and face-work is the work of maintaining it — one's own and others'. 
+The book's vocabulary is its lasting contribution. The front is the expressive equipment a performer uses — the setting, the appearance, the manner. Front stage is the region where the performance is given; back stage is where it is prepared and where the performer can be off character. A team is a group of performers who cooperate to stage a single routine, as a family does for guests. Impression management is the work of controlling the audience's view of the performance, including the defensive practices that protect it and the protective practices by which audiences tactfully overlook flaws. Closely related are the notions of face, the positive social value a person claims for themselves in an encounter, and face-work, the work of maintaining it, which Goffman developed mainly in his essay "On Face-Work" (1955), later reprinted in *Interaction Ritual* (1967). 
 
 ## Evidence and Influence
 
@@ -40,7 +40,7 @@ The book's evidence is the hotel on Unst and the countless small encounters Goff
 
 ## Continuing Relevance and Critical Assessments
 
-The book's relevance has only grown, because the world it describes has expanded. Goffman wrote about hotel staff and dinner parties; his readers now apply his concepts to job interviews on video calls, to dating apps, to the curated self of Instagram, and to the performance of professionalism in remote work. At the same time, the book's limits have become clearer. Feminist critics have argued that Goffman's performers are curiously ungendered, and that the labour of impression management falls unevenly on women and on marginalised people, for whom a failed performance carries higher costs. Critics of race and colonialism have noted that his Shetland fieldwork treated a white community as the universal case. The book also says little about power: who gets to define the situation, and who must accept someone else's definition, is a question Goffman leaves mostly unasked. 
+The book's relevance has only grown, because the world it describes has expanded. Goffman wrote about hotel staff and dinner parties; his readers now apply his concepts to job interviews on video calls, to dating apps, to the curated self of Instagram, and to the performance of professionalism in remote work. At the same time, the book's limits have become clearer. Feminist critics have argued that Goffman's performers are curiously ungendered, and that the labour of impression management falls unevenly on women and on marginalised people, for whom a failed performance carries higher costs. The book also says little about power: who gets to define the situation, and who must accept someone else's definition, is a question Goffman leaves mostly unasked. 
 
 ## Sources
 

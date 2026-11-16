@@ -25,7 +25,7 @@ The branch's core concepts begin with habit and action: most conduct runs on hab
 
 ## Historical Development
 
-Pragmatism began as a philosophy in the 1870s with Charles Sanders Peirce, but its sociological career began at the University of Chicago. Jane Addams's *Democracy and Social Ethics* (1902) brought pragmatist ethics to the settlement movement and to the study of urban life. William James's *Pragmatism* (1907) gave the philosophy its public name and its theory of truth as what works in experience. John Dewey's *Democracy and Education* (1916) applied pragmatism to schooling and to the formation of democratic citizens, and his *Logic: The Theory of Inquiry* (1938) systematised its account of how problems are resolved. George Herbert Mead's lectures, published posthumously as *Mind, Self, and Society* (1934), supplied the social psychology on which symbolic interactionism was built. Pragmatism's influence waned after the Second World War as Parsonsian structural functionalism dominated American sociology, but it revived from the 1980s onward: Hans Joas's *Pragmatism and Social Theory* (1993) recovered its theory of creative action, and Mustafa Emirbayer and Ann Mische's "What Is Agency?" (1998) used pragmatist categories to rethink one of sociology's central concepts.
+Pragmatism began as a philosophy in the 1870s with Charles Sanders Peirce, but its sociological career began at the University of Chicago. Jane Addams's *Democracy and Social Ethics* (1902) brought pragmatist ethics to the settlement movement and to the study of urban life. William James's *Pragmatism* (1907) gave the philosophy its public name and its theory of truth as what works in experience. John Dewey's *Democracy and Education* (1916) applied pragmatism to schooling and to the formation of democratic citizens, and his *Logic: The Theory of Inquiry* (1938) systematised its account of how problems are resolved. George Herbert Mead's lectures, published posthumously as *Mind, Self, and Society* (1934), supplied the social psychology on which symbolic interactionism was built. Pragmatism's influence waned after the Second World War as Parsonsian structural functionalism dominated American sociology, but it revived from the 1980s onward: Hans Joas's *The Creativity of Action* (German 1992; English 1996) recovered its theory of creative action, and Mustafa Emirbayer and Ann Mische's "What Is Agency?" (1998) used pragmatist categories to rethink one of sociology's central concepts.
 
 ## Key Figures
 
@@ -46,6 +46,6 @@ The branch's influence is pervasive but often indirect. Mead's social psychology
 - Dewey, John. *Democracy and Education: An Introduction to the Philosophy of Education*. 1916.
 - Mead, George Herbert. *Mind, Self, and Society: From the Standpoint of a Social Behaviorist*. 1934.
 - Dewey, John. *Logic: The Theory of Inquiry*. 1938.
-- Joas, Hans. *Pragmatism and Social Theory*. 1993.
+- Joas, Hans. *The Creativity of Action*. Translated by Jeremy Gaines and Paul Keast. 1996 (German original 1992).
 - Emirbayer, Mustafa, and Ann Mische. "What Is Agency?" *American Journal of Sociology*. 1998.
 - Gross, Neil. *Richard Rorty: The Making of an American Philosopher*. 2008.

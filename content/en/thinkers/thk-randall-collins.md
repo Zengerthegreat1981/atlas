@@ -30,7 +30,7 @@ Collins was born in 1941. He studied at Harvard and Stanford and received his Ph
 - **Credential society:** educational credentials function as status markers rather than only as evidence of skill, leading to credential inflation.
 - **Interaction ritual chains:** successful rituals generate emotional energy, group solidarity, and symbols. Individuals seek situations that maximize emotional energy, which links micro situations to macro patterns.
 - **Violence:** in *Violence: A Micro-sociological Theory* (2008) he argued that violence is difficult because of confrontational tension and fear, and that it succeeds in particular situational dynamics.
-- **Geopolitics:** he analyzed state expansion and breakdown in terms of resources, positions, and the geopolitical environment, and predicted the Soviet collapse in his 1980s work.
+- **Geopolitics:** he analyzed state expansion and breakdown in terms of resources, positions, and the geopolitical environment, and argued, in work from the late 1970s onward, that geopolitical overextension and the weakness of its periphery would eventually lead to the fragmentation of the Soviet empire (see his 1995 article "Prediction in Macrosociology: The Case of the Soviet Collapse").
 - **Intellectual networks:** philosophical creativity clusters in networks of rival schools.
 
 ## Major Works

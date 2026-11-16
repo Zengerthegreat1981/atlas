@@ -9,13 +9,10 @@ en: William I. Thomas
 crumb: "Sociology ← William I. Thomas"
 dates: International · 1863-1947
 active_start: 1863
-active_end: مستمر
+active_end: 1947
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -42,11 +39,15 @@ Thomas argued that human action cannot be explained by objective conditions alon
 
 ## Method
 
-*The Polish Peasant* is a landmark in the use of life histories and documents, including letters exchanged between Polish immigrants and their families, and a life-history manuscript, as primary sociological data. Thomas advocated combining such materials with attention to both objective social conditions and subjective attitudes.
+*The Polish Peasant* is a landmark in the use of life histories and documents, including letters exchanged between Polish immigrants and their families, and a long life-history manuscript written by a young Polish immigrant, Wladek Wisniewski, as primary sociological data. Thomas advocated combining such materials with attention to both objective social conditions and subjective attitudes.
 
 ## Influence and Criticism
 
 His work shaped symbolic interactionism, the sociology of migration and later labeling theory, and the Thomas theorem became a standard formulation of the self-fulfilling nature of social perception. Herbert Blumer's 1939 critique of *The Polish Peasant* questioned the representativeness of the documents and the reliability of their interpretation and the testing of theory.
+
+## Applications and Cross-References
+
+Robert K. Merton generalised the theorem into the self-fulfilling prophecy (1948), which is widely applied to bank runs, labelling in schools and reputation in policing. The framework is closely tied to Znaniecki's work, to Herbert Blumer's symbolic interactionism and to the study of social disorganization at Chicago.
 
 ## Sources
 

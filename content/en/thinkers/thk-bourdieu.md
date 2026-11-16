@@ -9,7 +9,7 @@ en: Pierre Bourdieu
 crumb: "Sociology ← Pierre Bourdieu"
 dates: International · 1930-2002
 active_start: 1930
-active_end: مستمر
+active_end: 2002
 edges: []
 related: []
 gaps:

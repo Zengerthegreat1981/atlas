@@ -9,13 +9,10 @@ en: Georg Simmel
 crumb: "Sociology ← Georg Simmel"
 dates: International · 1858-1918
 active_start: 1858
-active_end: مستمر
+active_end: 1918
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -43,6 +40,10 @@ Simmel was born in Berlin and studied history, philosophy and psychology at the 
 - "The Metropolis and Mental Life" (1903)
 - *Sociology* (*Soziologie*, 1908)
 - *Fundamental Questions of Sociology* (1917)
+
+## Applications and Cross-References
+
+Simmel's essays supply many compact examples of his method: the sociology of secrecy and the secret society, of fashion (imitation and distinction), of sociability as the "play form" of association, of adornment, and of the adventurer. His analysis of the triad (the mediator, and the "third who rejoices", *tertius gaudens*) and of conflict was taken up by later writers, notably Lewis Coser in *The Functions of Social Conflict* (1956). His stranger and metropolitan types fed Robert Park's concept of the marginal man and Chicago studies of the city, and his formal approach to interaction anticipated parts of Erving Goffman's work. Compare Max Weber's contrasting approach to rationalization and Emile Durkheim's emphasis on social facts.
 
 ## Method
 

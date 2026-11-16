@@ -12,8 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -41,6 +40,10 @@ A second dimension is the distinction between formal and informal institutions. 
 
 A third debate concerns institutional change. Institutions are durable, but they do change, through crises, reforms, and slow drift. Some change is deliberate, as when a constitution is rewritten; some is unintended, as when a new technology makes an old practice obsolete.
 
+## Empirical Illustrations
+
+John Meyer and Brian Rowan's "Institutionalized Organizations: Formal Structure as Myth and Ceremony" (1977) argued that schools, hospitals, and firms often adopt formal structures because these are accepted as legitimate in their environment, not because they improve efficiency. Erving Goffman's *Asylums* (1961) examined the "total institution", in which residents of hospitals, prisons, and similar settings live under a single administrative regime. Daron Acemoglu and James Robinson's *Why Nations Fail* (2012) uses comparative cases to argue that political and economic institutions shape national prosperity, a thesis that remains debated.
+
 ## Contemporary Relevance and Critique
 
 Institutions are at the centre of contemporary debates about democracy, inequality, and development. Political scientists ask why some institutions, such as independent courts or free media, sustain democracy while others hollow it out. Economists debate whether inclusive institutions, which distribute power broadly, produce prosperity, while extractive institutions, which concentrate it, produce stagnation. The family as an institution is being reshaped by changing gender roles, same-sex marriage, and new reproductive technologies, while digital platforms are creating new institutional forms, such as the platform economy, whose rules are written in code rather than law.
@@ -54,4 +57,5 @@ Critics argue that the concept of institution is too broad, covering everything 
 - Parsons, Talcott. *The Social System*. Glencoe: Free Press, 1951.
 - Berger, Peter L., and Thomas Luckmann. *The Social Construction of Reality*. New York: Doubleday, 1966.
 - DiMaggio, Paul J., and Walter W. Powell. "The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields." *American Sociological Review* 48, no. 2 (1983): 147–160.
+- Meyer, John W., and Brian Rowan. "Institutionalized Organizations: Formal Structure as Myth and Ceremony." *American Journal of Sociology* 83, no. 2 (1977): 340–363.
 - North, Douglass C. *Institutions, Institutional Change and Economic Performance*. Cambridge: Cambridge University Press, 1990.

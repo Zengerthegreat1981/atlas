@@ -7,9 +7,9 @@ level: متوسط
 title: Dorothy Smith
 en: Dorothy Smith
 crumb: "Sociology ← Dorothy Smith"
-dates: International · 1926-present
+dates: International · 1926-2022
 active_start: 1926
-active_end: مستمر
+active_end: 2022
 edges: []
 related: []
 gaps:
@@ -21,7 +21,7 @@ sociological_paradigm: micro-macro
 ---
 # Dorothy Smith
 
-Dorothy E. Smith (born 1926) is a British-born Canadian sociologist who developed feminist standpoint theory and institutional ethnography, a method for exploring how everyday life is organised by large-scale institutional processes.
+Dorothy E. Smith (1926-2022) was a British-born Canadian sociologist who developed feminist standpoint theory and institutional ethnography, a method for exploring how everyday life is organised by large-scale institutional processes.
 
 ## Life and Context
 

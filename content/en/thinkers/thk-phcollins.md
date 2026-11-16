@@ -12,10 +12,7 @@ active_start: 1948
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -26,7 +23,7 @@ Patricia Hill Collins (born 1948) is an American sociologist and social theorist
 
 ## Life and Context
 
-Collins earned her doctorate in sociology at Brandeis University and taught at the University of Cincinnati, where she was a professor of African American studies, before moving to the University of Maryland, College Park. In 2009 she became the first Black woman to serve as president of the American Sociological Association. Her work grows out of the traditions of Black women intellectuals and activists and engages with American sociology and feminist theory.
+Collins earned her doctorate in sociology at Brandeis University (1984) and taught at the University of Cincinnati, where she was a professor of African American studies, before moving to the University of Maryland, College Park. In 2009 she became the first Black woman to serve as president of the American Sociological Association. Her work grows out of the traditions of Black women intellectuals and activists and engages with American sociology and feminist theory.
 
 ## Main Ideas
 
@@ -40,6 +37,10 @@ In *Black Feminist Thought*, Collins argued that Black women have developed a di
 - *From Black Power to Hip Hop* (2006)
 - *Intersectionality* (2016, with Sirma Bilge)
 - *Intersectionality as Critical Social Theory* (2019)
+
+## Key Concepts in Context
+
+The "outsider-within" idea was first set out in her 1986 article "Learning from the Outsider Within" (*Social Problems*), which examined Black women domestic workers and academics who gain insight from being included yet never fully belonging. *Black Feminist Thought* organizes Black women's thought around themes such as self-definition, the interlocking nature of oppression, and the importance of everyday culture, family and community as sites of knowledge and resistance. Her notion of intersectionality builds on the term coined by Kimberle Crenshaw (1989, 1991), but she places more weight on systems of power (the matrix of domination) than on the position of individuals. Her writing on Black popular culture and sexuality (*Black Sexual Politics*, 2004) applies the same framework to contemporary media, family and politics. Her work also echoes W. E. B. Du Bois's idea of double consciousness, which she draws on in discussing Black intellectual traditions.
 
 ## Method
 

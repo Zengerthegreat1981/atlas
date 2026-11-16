@@ -18,7 +18,7 @@ gaps:
 
 # Strangers in Their Own Land
 
-Arlie Russell Hochschild's *Strangers in Their Own Land: Anger and Mourning on the American Right* (2016) is an ethnographic study of Tea Party supporters in Louisiana, written in the months before Donald Trump's election to the presidency. Over five years, Hochschild travelled to Lake Charles and the surrounding parishes, attending rallies, church services and kitchen-table conversations, trying to understand what she calls the "Great Paradox": why do some of the poorest and most polluted communities in the United States vote for politicians who oppose environmental regulation and cuts to the very programmes they depend on? The book was a finalist for the National Book Award in 2016, and it became the most widely discussed sociological study of the American right.
+Arlie Russell Hochschild's *Strangers in Their Own Land: Anger and Mourning on the American Right* (2016) is an ethnographic study of Tea Party supporters in Louisiana, written in the months before Donald Trump's election to the presidency. Over five years, Hochschild travelled to Lake Charles and the surrounding parishes, attending rallies, church services and kitchen-table conversations, trying to understand what she calls the "Great Paradox": why do some of the poorest and most polluted communities in the United States vote for politicians who oppose environmental regulation and cuts to the very programmes they depend on? The book was a finalist for the National Book Award in 2016, and it became one of the most widely discussed sociological studies of the American right.
 
 ## Historical Context and Publication
 
@@ -30,7 +30,7 @@ The book's central puzzle is the "Great Paradox": the people most harmed by poll
 
 ## Empathy Walls and Feeling Rules
 
-Hochschild's method is an extension of the sociology of emotion she pioneered in *The Managed Heart*. She argues that political disagreement is sustained by "empathy walls": obstacles that prevent people on each side from understanding how the other side feels. To climb over the wall, the sociologist must take the other side's feelings seriously, bracketing judgement long enough to hear the deep story. The book is therefore also a methodological statement: it shows how ethnography, sustained over years, can produce a kind of understanding that surveys cannot. Hochschild links the deep story to her earlier concept of "feeling rules" — the social norms that tell people what they ought to feel — and shows how the feeling rules of the Tea Party right differ from those of the liberal left: pride in endurance, loyalty to place and contempt for dependency.
+Hochschild's method is an extension of the sociology of emotion she pioneered in *The Managed Heart*. She argues that political disagreement is sustained by "empathy walls": obstacles that prevent people on each side from understanding how the other side feels. To climb over the wall, the sociologist must take the other side's feelings seriously, bracketing judgement long enough to hear the deep story. The book is therefore also a methodological statement: it shows how ethnography, sustained over years, can produce a kind of understanding that surveys cannot. Hochschild links the deep story to her earlier concept of "feeling rules" (developed in her 1979 article on emotion work and in *The Managed Heart*) — the social norms that tell people what they ought to feel — and shows how the feeling rules of the Tea Party right differ from those of the liberal left: pride in endurance, loyalty to place and contempt for dependency.
 
 ## Structure and Method
 
@@ -51,5 +51,5 @@ Critics have argued that the book is too sympathetic to its subjects, and that b
 - Arlie Russell Hochschild, *Stolen Pride: Loss, Shame, and the Rise of the Right* (2024).
 - Katherine J. Cramer, *The Politics of Resentment: Rural Consciousness in Wisconsin and the Rise of Scott Walker* (2016).
 - Thomas Frank, *What's the Matter with Kansas? How Conservatives Won the Heart of America* (2004).
-- Robert Wuthnow, *The Left Behind: Decline and Rage in Rural America* (2018).
+- Robert Wuthnow, *The Left Behind: Decline and Rage in Small-Town America* (2018).
 - Jennifer Silva, *We're Still Here: Pain and Politics in the Heart of America* (2019).

@@ -4,17 +4,15 @@ id: SOC-14121
 type: مفكر
 part: sociology
 level: متوسط
-title: Georg Homans
-en: Georg Homans
-crumb: "Sociology ← Georg Homans"
+title: George C. Homans
+en: George C. Homans
+crumb: "Sociology ← George C. Homans"
 dates: International · 1910-1989
 active_start: 1910
-active_end: مستمر
+active_end: 1989
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
@@ -40,13 +38,17 @@ In *The Human Group*, Homans analyzed small groups through the interrelated elem
 - *Sentiments and Activities* (1962)
 - *Coming to My Senses* (autobiography, 1984)
 
+## Case Studies
+
+*The Human Group* reinterpreted several field studies, including the Bank Wiring Observation Room of the Hawthorne research, William Foote Whyte's Street Corner Society (the Norton Street gang) and Raymond Firth's study of Tikopia. *English Villagers of the Thirteenth Century* applied his approach to a medieval agrarian community.
+
 ## Method
 
 Homans favored deductive explanation, in which general propositions about individuals explain group-level regularities, and he used examples from small-group field studies and historical cases.
 
 ## Influence and Criticism
 
-His exchange theory influenced Peter Blau, Richard Emerson and later network exchange research. Critics, including Blau and Talcott Parsons, argued that his psychological reductionism cannot account for emergent features of social structure, norms and institutions, and that his propositions are too general or trivial to explain complex social phenomena.
+His exchange theory influenced Peter Blau, Richard Emerson and later network exchange research. Critics, including Peter Blau, argued that his psychological reductionism cannot account for emergent features of social structure, norms and institutions, and that his propositions are too general or trivial to explain complex social phenomena.
 
 ## Sources
 

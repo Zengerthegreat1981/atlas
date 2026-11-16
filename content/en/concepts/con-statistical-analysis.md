@@ -25,9 +25,9 @@ Statistical analysis is the use of quantitative methods to describe, summarise, 
 
 ## Origins and Development
 
-The statistical study of society began in the nineteenth century, when states began to count their populations systematically. Adolphe Quetelet, in *A Treatise on Man and the Development of His Faculties* (1835), applied probability theory to human characteristics and introduced the idea of the "average man," showing that social phenomena such as crime and suicide display remarkable regularity in the aggregate. Emile Durkheim made this insight sociological in *Suicide* (1897), using official statistics to demonstrate that suicide rates vary systematically with levels of social integration and regulation — a pattern invisible at the level of the individual case, and explicable only by social causes.
+The statistical study of society began in the nineteenth century, when states began to count their populations systematically. Adolphe Quetelet, in *Sur l'homme et le développement de ses facultés* (1835; English translation *A Treatise on Man*, 1842), applied probability theory to human characteristics and introduced the idea of the "average man," showing that social phenomena such as crime and suicide display remarkable regularity in the aggregate. Emile Durkheim made this insight sociological in *Suicide* (1897), using official statistics to demonstrate that suicide rates vary systematically with levels of social integration and regulation — a pattern invisible at the level of the individual case, and explicable only by social causes.
 
-The twentieth century brought the tools that made modern statistical sociology possible. Sampling theory allowed researchers to generalise from a survey of a few thousand to a population of millions. Paul Lazarsfeld, in *The Language of Social Research* (1955), systematised the logic of variables, indicators, and multivariate analysis that still underpins quantitative sociology. Hubert Blalock's *Social Statistics* (1960) became the standard textbook, introducing generations of sociologists to correlation, regression, and significance testing. Alan Agresti and Barbara Finlay's *Statistical Methods for the Social Sciences* (1986) consolidated the field's core methods for a new generation, including the analysis of categorical data central to sociological research.
+The twentieth century brought the tools that made modern statistical sociology possible. Sampling theory allowed researchers to generalise from a survey of a few thousand to a population of millions. Paul Lazarsfeld, with Morris Rosenberg in the edited reader *The Language of Social Research* (1955), systematised the logic of variables, indicators, and multivariate analysis that still underpins quantitative sociology. Hubert Blalock's *Social Statistics* (1960) became the standard textbook, introducing generations of sociologists to correlation, regression, and significance testing. Alan Agresti and Barbara Finlay's *Statistical Methods for the Social Sciences* (1986) consolidated the field's core methods for a new generation, including the analysis of categorical data central to sociological research.
 
 ## Key Dimensions and Debates
 
@@ -41,7 +41,7 @@ Statistical analysis remains the backbone of empirical sociology. It underpins r
 
 ## Sources
 
-- Adolphe Quetelet, *A Treatise on Man and the Development of His Faculties*, 1835.
+- Adolphe Quetelet, *Sur l'homme et le développement de ses facultés*, 1835 (English: *A Treatise on Man*, 1842).
 - Emile Durkheim, *Suicide: A Study in Sociology*, 1897.
 - Paul F. Lazarsfeld and Morris Rosenberg, editors, *The Language of Social Research*, 1955.
 - Hubert M. Blalock Jr., *Social Statistics*, 1960.

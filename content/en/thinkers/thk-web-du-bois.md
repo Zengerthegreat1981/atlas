@@ -9,13 +9,10 @@ en: W.E.B. Du Bois
 crumb: "Sociology ← W.E.B. Du Bois"
 dates: International · 1868-1963
 active_start: 1868
-active_end: مستمر
+active_end: 1963
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -25,7 +22,7 @@ William Edward Burghardt Du Bois (1868-1963) was an American sociologist, histor
 
 ## Life and Context
 
-Du Bois was born in Great Barrington, Massachusetts. He studied at Fisk University and Harvard, spent time at the University of Berlin, and in 1895 became the first African American to earn a Harvard doctorate. He taught at Wilberforce University and Atlanta University, where he directed influential research studies. In 1909 he helped found the NAACP and edited its magazine *The Crisis*. In his later years he became more radical and moved to Ghana, where he died.
+Du Bois was born in Great Barrington, Massachusetts. He studied at Fisk University and Harvard, spent time at the University of Berlin, and in 1895 became the first African American to earn a Harvard doctorate. He taught at Wilberforce University, spent a year at the University of Pennsylvania conducting the study that became *The Philadelphia Negro*, and from 1897 taught at Atlanta University, where he directed influential research studies. In 1909 he helped found the NAACP and edited its magazine *The Crisis*. In his later years he became more radical and moved to Ghana, where he died.
 
 ## Main Ideas
 
@@ -43,6 +40,10 @@ Du Bois was born in Great Barrington, Massachusetts. He studied at Fisk Universi
 - *The Souls of Black Folk* (1903)
 - *Black Reconstruction in America* (1935)
 - *Dusk of Dawn* (1940)
+
+## Applications and Cross-References
+
+At Atlanta University Du Bois led a series of annual studies (1898-1914) on Black life, covering topics such as mortality, business, education and crime. For the 1900 Paris Exposition he prepared charts and photographs documenting Black American life, an early example of visual presentation of social data. His ideas on race and empire led him to take part in the Pan-African Congresses. He wrote on the color line in a global frame, and his notion of double consciousness is often discussed alongside Georg Simmel's stranger and Robert Park's marginal man. He also corresponded with Max Weber, and his work on Reconstruction was a direct response to the then dominant Dunning-school interpretation.
 
 ## Method
 

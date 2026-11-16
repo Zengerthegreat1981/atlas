@@ -9,7 +9,7 @@ en: C. Wright Mills
 crumb: "Sociology ← C. Wright Mills"
 dates: International · 1916-1962
 active_start: 1916
-active_end: مستمر
+active_end: 1962
 edges: []
 related: []
 gaps: []

@@ -9,7 +9,7 @@ en: Ralf Dahrendorf
 crumb: "Sociology ← Ralf Dahrendorf"
 dates: International · 1929-2009
 active_start: 1929
-active_end: مستمر
+active_end: 2009
 edges: []
 related: []
 gaps:

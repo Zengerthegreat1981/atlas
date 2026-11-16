@@ -12,67 +12,36 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Case Study
 
-## Conceptual Definition and Genealogy
+A case study is an in-depth investigation of one case, or a small number of cases, within its real-life context, using multiple sources of evidence. The case may be a person, a family, an organization, a community, an event or a policy. It is a research strategy and not a particular technique: case studies can use interviews, observation, documents and archival or statistical data.
 
-Case Study is a foundational concept in sociological analysis with particular meaning distinct from everyday usage. The concept emerged from specific intellectual traditions addressing certain questions about social phenomena. Historical development of the concept reflected changing theoretical concerns and empirical discoveries. Different sociological schools have understood the concept somewhat differently, creating productive tensions. The word itself has history revealing how the concept evolved through scholarship. Tracing genealogy of the concept illuminates its theoretical foundations and continuing importance. Contemporary precision in using the concept requires understanding this historical development.
+## Origins in Sociology
 
-## Theoretical Foundations
+Case-oriented work has a long history in the discipline. Frédéric Le Play studied European working-class families through detailed household budgets in the nineteenth century. In the early twentieth century, William I. Thomas and Florian Znaniecki's *The Polish Peasant in Europe and America* (1918-1920) drew on letters and a life history, and the Chicago school produced studies of neighborhoods, gangs and institutions. Robert and Helen Lynd's *Middletown* (1929) studied a single Indiana city, and William Foote Whyte's *Street Corner Society* (1943) presented a participant-observation study of an Italian American neighborhood in Boston. Michael Burawoy's *extended case method* (1998) deliberately uses a case to reconstruct and improve existing theory, tracing how local situations are shaped by wider forces.
 
-The concept rests on particular assumptions about how society works and how to analyze it scientifically. Theoretical foundations establish what the concept is supposed to explain or describe. Different theoretical frameworks sometimes use the concept differently, leading to multiple meanings in contemporary sociology. The concept's theoretical grounding makes it valuable for empirical research. Understanding theoretical foundations helps assess when the concept is appropriately applied. Theoretical precision requires recognizing what aspects of social life the concept captures and what it obscures. The concept evolved as theoretical frameworks developed, gaining new dimensions of meaning.
+## Methodological Logic
 
-## Classical Formulations
+In political science and sociology, writers such as Harry Eckstein (1975) argued that cases can test theories when they are "crucial" (hard for a theory to explain and so strongly informative if it succeeds) or can generate hypotheses. John Gerring (2004) defined a case study as an intensive study of a single unit aimed at understanding a larger class of similar units. Alexander George and Andrew Bennett's *Case Studies and Theory Development in the Social Sciences* (2005) systematized *process tracing*, in which the researcher examines the sequence of events and mechanisms linking a cause to an outcome inside a case. Robert Yin's *Case Study Research* (first edition 1984) offered a widely used design framework, and Robert Stake's *The Art of Case Study Research* (1995) emphasized interpretive understanding of the particular case. Bent Flyvbjerg (2006) argued that proximity to real situations yields context-dependent knowledge that is valuable in its own right and that single cases can falsify general propositions.
 
-Classical sociologists developing the concept articulated core features still recognized today. Early definitions established parameters for subsequent usage. Classical theorists demonstrated how the concept illuminated particular social phenomena. Their work established conventions about when and how to apply the concept. Subsequent scholars have sometimes modified or challenged classical formulations. Contemporary debates often return to classical definitions to clarify current disagreements. Understanding classical formulations provides foundation for recognizing contemporary variations and extensions.
+## Debates and Limits
 
-## Major Theoretical Schools and Their Interpretation
+The main criticism concerns generalization: findings from one case may not hold elsewhere, and a single case cannot by itself establish how common a pattern is. Defenders reply that case studies aim at theoretical, not statistical, generalization, and that they are strong for exploring mechanisms, identifying new variables and checking the validity of concepts. A second concern is selection bias: Barbara Geddes (1990) showed that selecting cases on the outcome (for example studying only revolutions that occurred) can yield misleading conclusions about causes. Others note the risk of researcher subjectivity in interpreting rich qualitative material, and the difficulty of replication. Recommended safeguards include explicit case-selection rationales, triangulation of sources, consideration of rival explanations, and transparency about procedures.
 
-Different sociological schools have adopted and developed the concept in distinctive ways. Functionalist approaches understand the concept in terms of social functions and integration. Conflict approaches emphasize how the concept relates to domination and inequality. Interpretive traditions focus on how the concept helps understand meaning and interaction. Critical approaches question whether the concept adequately addresses power and resistance. Each tradition contributes distinctive insights while potentially missing dimensions emphasized elsewhere. Contemporary scholarship increasingly integrates insights from multiple traditions. The concept's continuing vitality partly depends on capacity to accommodate multiple perspectives.
+## Sources
 
-## Empirical Applications and Research Examples
-
-Sociologists apply the concept empirically to understand specific social phenomena and patterns. Research demonstrates how the concept illuminates dimensions of social life otherwise difficult to recognize. Empirical applications have extended the concept's meaning in light of research findings. Quantitative research develops measurement approaches for assessing the concept. Qualitative research documents how the concept manifests in particular contexts and settings. Comparative research examines whether the concept applies across different societies and cultures. Longitudinal research traces how the concept's manifestations change over time. Contemporary applications address phenomena earlier scholars could not have anticipated.
-
-## Relationship to Other Core Concepts
-
-Case Study interconnects with other foundational concepts forming coherent analytical framework. Understanding the concept requires grasping how it relates to complementary and contrasting concepts. The relationship clarifies what specific phenomena the concept helps analyze. Different theoretical schools sometimes organize these relationships differently. Conceptual interdependence means changing understanding of one concept affects understanding of related concepts. Advanced sociological analysis often involves integrating multiple concepts to develop nuanced understanding. Mapping conceptual relationships helps prevent misapplication or confusion.
-
-## Social Inequality Dimensions
-
-The concept connects to how societies distribute resources, opportunities, and life chances unequally. Understanding these connections illuminates mechanisms producing and reproducing inequality. Different groups experience and understand the concept differently depending on social position. Power relationships shape both what the concept means and how it operates in practice. The concept sometimes obscures inequality dimensions that critical approaches emphasize. Feminist, postcolonial, and critical race perspectives have extended understanding of inequality dimensions. Integrating attention to inequality prevents depoliticizing what are fundamentally questions of justice.
-
-## Contemporary Manifestations and Changes
-
-The concept manifests differently in contemporary social conditions than in classical sociological era. Digital technologies, globalization, and environmental change raise new questions about the concept. Contemporary scholars debate whether the concept requires modification to address 21st-century phenomena. The concept's continuing relevance depends partly on flexibility to address changing social conditions. Some argue the concept remains valid despite historical change while others contend fundamental revision necessary. Contemporary research extends the concept to new domains. Digital humanities apply computational methods to examine how the concept operates in massive datasets.
-
-## Limitations and Critiques
-
-Critics argue the concept inadequately captures important dimensions of social life. Some contend the concept reflects particular perspective not universally applicable. Others argue the concept obscures power relationships and responsibility. Postcolonial critique questions whether the concept reflects Western assumptions. Feminist scholarship has identified gender dimensions the concept historically overlooked. Critical scholars argue the concept sometimes legitimizes domination as natural. Contemporary proponents acknowledge limitations while maintaining the concept's analytical value. Addressing criticism without abandoning the concept remains ongoing theoretical challenge.
-
-## Measurement and Operationalization
-
-Sociologists operationalize the concept into measurable variables enabling empirical research. Different operationalizations sometimes capture somewhat different dimensions of the concept. Quantitative research requires precise definitions enabling consistent measurement. Qualitative research preserves complexity while sacrificing measurement consistency. The relationship between abstract concept and concrete measures always involves interpretive judgment. Contemporary development of measurement approaches reflects competing theoretical interpretations. Valid operationalization requires theoretical sophistication alongside technical competence.
-
-## Interdisciplinary Applications
-
-Related disciplines apply the concept with distinctive emphases. Disciplinary differences sometimes produce different understanding of the same concept. Interdisciplinary dialogue enriches understanding while potentially creating confusion. The concept's applicability across disciplines suggests broad explanatory value. Discipline-specific usage sometimes extends the concept in productive new directions. Understanding multiple disciplinary applications prevents parochialism. Interdisciplinary work increasingly requires translation between concepts with similar names but different meanings.
-
-## Future Directions and Theoretical Development
-
-Scholars debate whether the concept requires modification, extension, or replacement. Contemporary challenges prompt theorists to reconsider conceptual foundations. Emerging research sometimes produces findings requiring conceptual refinement. Dialogue with non-Western traditions may introduce alternative concepts. The concept's future depends on continued relevance to sociological analysis. Generational turnover of scholars brings new perspectives to traditional concepts. Digital sociology and computational methods open new analytical possibilities.
-
-## Sources and Further Reading
-
-- Classical sociological texts developing and defining the concept
-- Comprehensive reviews of how different traditions understand the concept
-- Empirical research applying the concept to specific phenomena
-- Critical engagements questioning the concept's adequacy
-- Methodological works addressing measurement and operationalization
-
+- Thomas, William I., and Florian Znaniecki. *The Polish Peasant in Europe and America*. 1918-1920.
+- Lynd, Robert S., and Helen Merrell Lynd. *Middletown: A Study in Modern American Culture*. Harcourt, Brace, 1929.
+- Whyte, William Foote. *Street Corner Society*. University of Chicago Press, 1943.
+- Eckstein, Harry. "Case Study and Theory in Political Science." In *Handbook of Political Science*, vol. 7, edited by Fred Greenstein and Nelson Polsby. Addison-Wesley, 1975.
+- Geddes, Barbara. "How the Cases You Choose Affect the Answers You Get." *Political Analysis* 2, 1990, pp. 131–150.
+- Yin, Robert K. *Case Study Research: Design and Methods*. Sage, 1984.
+- Stake, Robert E. *The Art of Case Study Research*. Sage, 1995.
+- Burawoy, Michael. "The Extended Case Method." *Sociological Theory* 16(1), 1998, pp. 4–33.
+- Gerring, John. "What Is a Case Study and What Is It Good For?" *American Political Science Review* 98(2), 2004, pp. 341–354.
+- George, Alexander L., and Andrew Bennett. *Case Studies and Theory Development in the Social Sciences*. MIT Press, 2005.
+- Flyvbjerg, Bent. "Five Misunderstandings About Case-Study Research." *Qualitative Inquiry* 12(2), 2006, pp. 219–245.

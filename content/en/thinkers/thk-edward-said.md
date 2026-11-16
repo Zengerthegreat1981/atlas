@@ -9,19 +9,17 @@ en: Edward Said
 crumb: "Sociology ← Edward Said"
 dates: International · 1935-2003
 active_start: 1935
-active_end: مستمر
+active_end: 2003
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Edward Said
 
-Edward Said (1935-2003) was a Palestinian-American literary critic and public intellectual whose book Orientalism (1978) founded postcolonial studies as an academic field. His analysis of how Western writing, scholarship and policy represented "the Orient" influenced sociology, anthropology, history and cultural studies.
+Edward Said (1935-2003) was a Palestinian-American literary critic and public intellectual whose book Orientalism (1978) is widely regarded as a founding text of postcolonial studies. His analysis of how Western writing, scholarship and policy represented "the Orient" influenced sociology, anthropology, history and cultural studies.
 
 ## Life and Context
 
@@ -43,12 +41,16 @@ Said was born in Jerusalem in 1935 and grew up between Jerusalem and Cairo. He w
 - Covering Islam (1981)
 - The World, the Text, and the Critic (1983)
 - Culture and Imperialism (1993)
-- Representations of the Intellectual (1993)
+- Representations of the Intellectual (1994, based on the 1993 Reith Lectures)
 - Out of Place (memoir, 1999)
 
 ## Method
 
 Said used a humanistic textual and discourse analysis, reading literary, scholarly and administrative texts together to show patterns of representation.
+
+## Case Studies
+
+In Orientalism Said examined, among others, Napoleon's expedition to Egypt and the scholarly Description de l'Egypte, the work of Ernest Renan, Edward Lane's account of Egyptians, the statements of British officials such as Arthur Balfour and Lord Cromer, and the writings of Gustave Flaubert. In Culture and Imperialism he read novels such as Jane Austen's Mansfield Park, Verdi's opera Aida and works by Joseph Conrad and Albert Camus for their entanglement with empire. Covering Islam applied the same approach to contemporary American news coverage of Islam and Muslim societies in the aftermath of the Iranian revolution of 1979.
 
 ## Influence and Criticism
 

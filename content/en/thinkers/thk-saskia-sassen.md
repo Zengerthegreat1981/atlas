@@ -12,21 +12,18 @@ active_start: 1949
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 
 # Saskia Sassen
 
-Saskia Sassen (born 1949) is a Dutch-American sociologist who coined and developed the concept of the global city and has written widely on globalization, migration and the transformation of states and territory.
+Saskia Sassen (born 1949) is a Dutch-American sociologist who popularized and developed the concept of the global city and has written widely on globalization, migration and the transformation of states and territory.
 
 ## Life and Context
 
-Sassen was born in The Hague and grew up in Argentina and Italy before studying in several countries and receiving her doctorate in the United States. She taught at several universities and became a professor at Columbia University, and has also been associated with the London School of Economics. Her research brings together urban sociology, political economy and the study of migration.
+Sassen was born in The Hague and grew up in Argentina and Italy before studying in several countries and receiving her doctorate in sociology at the University of Notre Dame (1974). She taught at several universities and became a professor at Columbia University (the Robert S. Lynd chair), and has also been associated with the London School of Economics. Her research brings together urban sociology, political economy and the study of migration.
 
 ## Main Ideas
 
@@ -42,6 +39,10 @@ In *The Global City*, Sassen argued that globalization does not remove the impor
 - *Territory, Authority, Rights* (2006)
 - *A Sociology of Globalization* (2007)
 - *Expulsions: Brutality and Complexity in the Global Economy* (2014)
+
+## Applications and Cross-References
+
+*The Mobility of Labor and Capital* (1988) argued that foreign investment and export-oriented production in poorer countries mobilize workers (especially women) and create the conditions for emigration, so that migration is linked to the same restructuring that moves capital. *The Global City* is often read alongside John Friedmann's "world city" hypothesis and Manuel Castells's network-society thesis, and with Immanuel Wallerstein's world-system analysis as a framework for thinking about unequal global integration. Her analysis of New York, London and Tokyo has been used to study the growth of finance, producer services, gentrification and informal low-wage work in those cities, and later comparative work (for example *Cities in a World Economy*, 1994) extended it to other cities.
 
 ## Method
 

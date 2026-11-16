@@ -30,7 +30,7 @@ Beauvoir's central claim is that woman is the Other. Drawing on Hegel's account 
 
 ## Structure and Method
 
-The book is organised into two volumes. The first, "Facts and Myths," examines the explanations offered for women's subordination: biology, psychoanalysis, and historical materialism are each found wanting, and a historical survey traces women's situation from prehistory to the present, followed by an analysis of the myths of woman in literature and culture. The second volume, "Lived Experience," follows a woman's life from childhood through adolescence, sexual initiation, marriage, motherhood, and old age, drawing on memoirs, novels, and interviews to show how femininity is learned and lived. Beauvoir's method is phenomenological and interdisciplinary: she combines philosophical analysis with historical and literary evidence and with the close description of lived experience, treating women's own accounts as a source of knowledge that philosophy had ignored.
+The book is organised into two volumes. The first, "Facts and Myths," examines the explanations offered for women's subordination: biology, psychoanalysis, and historical materialism are each found wanting, and a historical survey traces women's situation from prehistory to the present, followed by an analysis of the myths of woman in literature and culture. The second volume, "Lived Experience," follows a woman's life from childhood through adolescence, sexual initiation, marriage, motherhood, and old age, drawing on memoirs, novels, case histories, and her own observations to show how femininity is learned and lived. Beauvoir's method is phenomenological and interdisciplinary: she combines philosophical analysis with historical and literary evidence and with the close description of lived experience, treating women's own accounts as a source of knowledge that philosophy had ignored.
 
 ## Key Concepts
 
@@ -38,11 +38,11 @@ The book is organised into two volumes. The first, "Facts and Myths," examines t
 
 ## Reception and Influence
 
-*The Second Sex* was a landmark whose influence is hard to overstate. It shaped the second-wave feminism of the 1960s and 1970s, and its argument that gender is made rather than given anticipates the work of Judith Butler and the sociology of gender. It influenced feminist theory, the sociology of the family, and the study of sexuality, and it remains a standard text in courses on social theory and gender. Beauvoir's insistence that women's experience is a source of knowledge helped legitimate standpoint approaches in sociology, and her analysis of the body, of ageing, and of the double burden of work and domesticity opened research agendas that continue today.
+*The Second Sex* was a landmark whose influence is hard to overstate. It shaped the second-wave feminism of the 1960s and 1970s, and its argument that gender is made rather than given prefigures the work of Judith Butler and the sociology of gender. It influenced feminist theory, the sociology of the family, and the study of sexuality, and it remains a standard text in courses on social theory and gender. Beauvoir's insistence that women's experience is a source of knowledge helped legitimate standpoint approaches in sociology, and her analysis of the body, of ageing, and of the double burden of work and domesticity opened research agendas that continue today.
 
 ## Critical Assessments
 
-Critics have engaged with the book from many directions. Margaret Simons showed in 1999 that Parshley's translation systematically distorted Beauvoir's argument, cutting her philosophical discussions and mistranslating key terms — a finding that reshaped Beauvoir scholarship. Some feminist critics argue that Beauvoir's account of motherhood and of the female body is ambivalent, at times seeming to endorse a masculine ideal of transcendence and to devalue women's embodied experience. Others note that her analysis centres the experience of white, middle-class French women and pays little attention to race, colonialism, and class — a limitation later Black feminist thinkers addressed directly. Her treatment of lesbianism has also been criticised as dated.
+Critics have engaged with the book from many directions. Margaret Simons and others have shown that Parshley's translation cut a substantial part of the text and distorted Beauvoir's philosophical vocabulary, a finding that reshaped Beauvoir scholarship. Some feminist critics argue that Beauvoir's account of motherhood and of the female body is ambivalent, at times seeming to endorse a masculine ideal of transcendence and to devalue women's embodied experience. Others note that her analysis centres the experience of white, middle-class French women and pays little attention to race, colonialism, and class — a limitation later Black feminist thinkers addressed directly. Her treatment of lesbianism has also been criticised as dated.
 
 ## Continuing Relevance
 
@@ -55,5 +55,5 @@ Critics have engaged with the book from many directions. Margaret Simons showed 
 - Simons, Margaret A. *Beauvoir and The Second Sex: Feminism, Race, and the Origins of Existentialism*. Lanham, MD: Rowman and Littlefield, 1999.
 - Moi, Toril. *What Is a Woman? And Other Essays*. Oxford: Oxford University Press, 1999.
 - Butler, Judith. *Gender Trouble: Feminism and the Subversion of Identity*. New York: Routledge, 1990.
-- Bergoffen, Debra. "Simone de Beauvoir." In *The Stanford Encyclopedia of Philosophy*, edited by Edward N. Zalta, 2018.
+- Moi, Toril. *Simone de Beauvoir: The Making of an Intellectual Woman*. Oxford: Blackwell, 1994.
 - Sartre, Jean-Paul. *Being and Nothingness*. Paris: Gallimard, 1943.

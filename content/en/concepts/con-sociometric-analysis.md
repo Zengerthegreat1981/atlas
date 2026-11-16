@@ -14,7 +14,6 @@ edges: []
 related: []
 gaps:
 - Cross-school comparisons: not yet covered
-- Empirical examples: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -28,7 +27,7 @@ Sociometric analysis is the quantitative study of social relationships within a 
 
 Sociometry was founded by Jacob L. Moreno, a psychiatrist and social scientist who argued that the emotional currents between people — attractions and repulsions — constitute a real, measurable structure of society. In *Who Shall Survive?* (1934), he introduced the sociometric test and the sociogram, and proposed a science of social relations grounded in the measurement of choice. Moreno developed the method further in *Sociometry, Experimental Method and the Science of Society* (1951), extending it from small groups to communities and proposing sociometric techniques for the study of organisations and the reorganisation of institutions.
 
-The method was taken up by group dynamics researchers and by Paul Lazarsfeld's programme of quantitative sociology, which incorporated sociometric measures into the broader study of communication and influence. In the later twentieth century, sociometric analysis was absorbed into the wider field of social network analysis. John Scott's *Social Network Analysis* (1991) consolidated the methods of the field, while Stanley Wasserman and Katherine Faust's *Social Network Analysis: Methods and Applications* (1994) became its standard reference, systematising measures of centrality, density, and structural equivalence. Ronald Burt's *Structural Holes* (1992) showed how a sociometric position — spanning the gap between disconnected groups — confers competitive advantage, linking the measurement of ties to the explanation of power and opportunity.
+The method was taken up by group dynamics researchers and in studies of classrooms and organisations. In the later twentieth century, sociometric analysis was absorbed into the wider field of social network analysis. John Scott's *Social Network Analysis* (1991) consolidated the methods of the field, while Stanley Wasserman and Katherine Faust's *Social Network Analysis: Methods and Applications* (1994) became its standard reference, systematising measures of centrality, density, and structural equivalence. Ronald Burt's *Structural Holes* (1992) showed how a sociometric position — spanning the gap between disconnected groups — confers competitive advantage, linking the measurement of ties to the explanation of power and opportunity.
 
 ## Key Debates and Dimensions
 
@@ -47,4 +46,3 @@ Sociometric analysis is more relevant than ever. Its methods underpin the study 
 - John Scott, *Social Network Analysis: A Handbook*, 1991.
 - Ronald S. Burt, *Structural Holes: The Social Structure of Competition*, 1992.
 - Stanley Wasserman and Katherine Faust, *Social Network Analysis: Methods and Applications*, 1994.
-- Paul F. Lazarsfeld and Morris Rosenberg, editors, *The Language of Social Research*, 1955.

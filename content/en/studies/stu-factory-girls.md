@@ -8,15 +8,15 @@ title: Factory Girls
 en: Factory Girls
 crumb: Sociology ← Factory Girls
 dates: ''
-active_start: 1920
-active_end: مستمر
+active_start: 2004
+active_end: 2008
 edges: []
 related: []
 gaps: []
 ---
 # Factory Girls
 
-*Factory Girls: From Village to City in a Changing China* (2008), by the American journalist Leslie T. Chang, is a landmark study of the young women who powered China's export boom. Chang, a former Beijing correspondent for *The Wall Street Journal*, spent three years following migrant factory workers in Dongguan, a manufacturing city in Guangdong province in the Pearl River Delta. The result is both an intimate portrait of individual lives and a wide-angled account of one of the largest internal migrations in human history.
+*Factory Girls: From Village to City in a Changing China* (2008), by the American journalist Leslie T. Chang, is a work of narrative journalism about the young women who powered China's export boom. Chang, a former Beijing correspondent for *The Wall Street Journal*, spent about three years reporting on migrant factory workers in Dongguan, a manufacturing city in Guangdong province in the Pearl River Delta. The result is both an intimate portrait of individual lives and a wide-angled account of one of the largest internal migrations in human history.
 
 ## The Setting
 
@@ -24,15 +24,15 @@ Dongguan in the mid-2000s was a city built almost entirely around factories prod
 
 ## Method
 
-Chang's method was immersive, long-term reporting rather than survey research. She lived in Dongguan, visited factories and dormitories, ate in the canteens, and followed two young women in particular over several years: Min, from a village in Hubei province, and Chunming, who climbed from the assembly line into factory management and eventually into running her own business. Chang recorded their job changes, romances, quarrels with their families, English lessons, and plans with the patience of an ethnographer, returning again and again as their circumstances changed. Interwoven with their stories is Chang's own family history. Her ancestors had left China generations earlier, and she uses their letters and memories to reflect on what migration means across generations, and on how the experience of leaving home repeats itself with new variations.
+Chang's method was immersive, long-term reporting rather than survey research. She lived in Dongguan, visited factories and dormitories, ate in the canteens, and followed two young women in particular over several years: Min and Chunming, who rose from the assembly line toward better jobs in the city. Chang recorded their job changes, romances, quarrels with their families, English lessons, and plans with the patience of an ethnographer, returning again and again as their circumstances changed. Interwoven with their stories is Chang's own family history. Chang's own parents had emigrated from China, and she traces her family's history of movement and uses it to reflect on what migration means across generations, and on how the experience of leaving home repeats itself with new variations.
 
 ## Key Findings
 
 Chang's central finding is that the factory women were not the passive victims of much Western reporting. They treated migration as a form of education and self-improvement, and factory work as a stage of life rather than a fate. Turnover was extraordinarily high: workers quit jobs constantly, moving from factory to factory in search of slightly better pay, kinder managers, or new skills. The women studied English in their spare time, saved for business ventures, and weighed marriage against independence with clear-eyed calculation. Family pressure remained intense — parents expected daughters to marry and send money home — yet the city gave the women a measure of freedom their mothers had never known.
 
-The book also documents the costs of this mobility. Dormitory life was crowded and regimented, wages were low, and injuries were common. Workers had few legal protections, and the household registration system denied them full access to urban schools and health care. Chang shows how the women coped with these conditions through friendship networks, small acts of defiance, and an insistence on treating the city as a place to learn rather than merely to endure. By the end of the book, both Min and Chunming have changed course several times, and neither life has followed a straight line — a point Chang treats as the essence of the migrant experience.
+The book also documents the costs of this mobility. Dormitory life was crowded and regimented, wages were low, and injuries were common. Workers had few legal protections, and the household registration system denied them full access to urban schools and health care. Chang shows how the women coped with these conditions through friendship networks, small acts of defiance, and an insistence on treating the city as a place to learn rather than merely to endure. Over the course of the book both women change jobs and plans several times, and neither life follows a straight line, a point Chang treats as central to the migrant experience.
 
-One of the book's most striking themes is the women's investment in self-improvement. Night classes in English were crowded with factory workers who believed that a foreign language could lift them out of the assembly line and into office work, sales, or business. Job-hopping, which managers condemned as disloyalty, was for the workers a rational strategy: each move was a chance to learn a new skill, meet new contacts, or escape a bad boss. Chang shows that this restlessness was not aimlessness. It was a form of ambition adapted to a labour market that offered no ladders, only exits, and it helps explain why so many migrant women describe their factory years, in retrospect, as the freest period of their lives.
+One of the book's most striking themes is the women's investment in self-improvement. Night classes in English were crowded with factory workers who believed that a foreign language could lift them out of the assembly line and into office work, sales, or business. Job-hopping, which managers condemned as disloyalty, was for the workers a rational strategy: each move was a chance to learn a new skill, meet new contacts, or escape a bad boss. Chang shows that this restlessness was not aimlessness. It was a form of ambition adapted to a labour market that offered no ladders, only exits.
 
 ## Reception and Influence
 

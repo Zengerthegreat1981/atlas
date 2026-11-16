@@ -25,7 +25,7 @@ The branch's core concepts begin with the world-system itself: a historically bo
 
 ## Historical Development
 
-The programme's roots lie in dependency theory. André Gunder Frank's *Capitalism and Underdevelopment in Latin America* (1967) argued that underdevelopment was not a pre-capitalist residue but a product of incorporation into world capitalism, and Samir Amin's *Accumulation on a World Scale* (1970) theorised unequal exchange between centre and periphery. Immanuel Wallerstein systematised these insights in *The Modern World-System I* (1974), which traced the emergence of the European world-economy in the long sixteenth century, followed by volume two in 1980 and volume three in 1989, carrying the story through the nineteenth century. Fernand Braudel's *Civilization and Capitalism* (1979) supplied the long-duration historical depth, while Christopher Chase-Dunn's *Global Formation* (1989) formalised the comparative study of world-systems across history. Giovanni Arrighi's *The Long Twentieth Century* (1994) extended the analysis through successive cycles of hegemony, and the collapse of the Soviet Union and the rise of China have since fuelled debates about whether the system is entering a terminal crisis or a new hegemonic transition.
+The programme's roots lie in dependency theory. André Gunder Frank's *Capitalism and Underdevelopment in Latin America* (1967) argued that underdevelopment was not a pre-capitalist residue but a product of incorporation into world capitalism, and Samir Amin's *Accumulation on a World Scale* (French 1970; English 1974) theorised unequal exchange between centre and periphery. Immanuel Wallerstein systematised these insights in *The Modern World-System I* (1974), which traced the emergence of the European world-economy in the long sixteenth century, followed by volume two in 1980 and volume three in 1989, carrying the story through the nineteenth century. Fernand Braudel's *Civilization and Capitalism* (1979) supplied the long-duration historical depth, while Christopher Chase-Dunn's *Global Formation* (1989) formalised the comparative study of world-systems across history. Giovanni Arrighi's *The Long Twentieth Century* (1994) extended the analysis through successive cycles of hegemony, and the collapse of the Soviet Union and the rise of China have since fuelled debates about whether the system is entering a terminal crisis or a new hegemonic transition.
 
 ## Key Figures
 
@@ -42,7 +42,7 @@ The branch's influence reaches across sociology, history, geography, and interna
 ## Sources
 
 - Frank, André Gunder. *Capitalism and Underdevelopment in Latin America*. 1967.
-- Amin, Samir. *Accumulation on a World Scale*. 1970.
+- Amin, Samir. *Accumulation on a World Scale*. French original 1970; English translation 1974.
 - Wallerstein, Immanuel. *The Modern World-System I: Capitalist Agriculture and the Origins of the European World-Economy in the Sixteenth Century*. 1974.
 - Braudel, Fernand. *Civilization and Capitalism, 15th–18th Century*. 1979.
 - Wallerstein, Immanuel. *The Modern World-System II: Mercantilism and the Consolidation of the European World-Economy, 1600–1750*. 1980.

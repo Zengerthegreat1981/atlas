@@ -13,7 +13,6 @@ active_end: مستمر
 edges: []
 related: []
 gaps:
-- Theoretical genealogy: not yet covered
 - Cross-school comparisons: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro

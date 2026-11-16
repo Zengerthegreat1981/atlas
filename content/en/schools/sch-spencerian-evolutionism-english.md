@@ -11,7 +11,7 @@ en: Spencerian Social Evolutionism
 crumb: Sociology ← Social Evolutionism
 dates: Britain · 1850-1903
 active_start: 1850
-active_end: مستمر
+active_end: 1903
 edges: []
 related: []
 gaps:
@@ -20,11 +20,11 @@ gaps:
 ---
 # Spencerian Social Evolutionism
 
-Spencerian social evolutionism is the sociological tradition founded by the English philosopher Herbert Spencer (1820–1903), who treated society as an evolving organism and sought a single law of development covering the physical, biological, psychological, and social worlds. Spencer published his evolutionary theory before Charles Darwin's *On the Origin of Species* (1859), and his sociology grew out of the vast project he called the Synthetic Philosophy, announced in 1860 and completed only in 1896. At its height in the late nineteenth century, Spencer's work was among the most widely read social theory in the English-speaking world, and it supplied sociology with its first systematic evolutionary framework, its organic analogy of society, and its most famous slogan, "survival of the fittest," a phrase Spencer himself coined.
+Spencerian social evolutionism is the sociological tradition founded by the English philosopher Herbert Spencer (1820–1903), who treated society as an evolving organism and sought a single law of development covering the physical, biological, psychological, and social worlds. Spencer had sketched a developmental view of life, in his essay "The Development Hypothesis" (1852), before Charles Darwin's *On the Origin of Species* (1859), and his sociology grew out of the vast project he called the Synthetic Philosophy, announced in 1860 and completed only in 1896. At its height in the late nineteenth century, Spencer's work was among the most widely read social theory in the English-speaking world, and it supplied sociology with its first systematic evolutionary framework, its organic analogy of society, and its most famous slogan, "survival of the fittest," a phrase Spencer himself coined.
 
 ## Historical Origins and Key Figures
 
-Spencer was born in Derby in 1820 and worked as a railway engineer, journalist, and sub-editor of *The Economist* before becoming an independent writer. His first sociological work, *Social Statics* (1851), already argued that societies progress from a militant condition of compulsory cooperation toward an industrial condition of voluntary cooperation. *First Principles* (1862) then stated his universal law of evolution: all things develop from an indefinite, incoherent homogeneity toward a definite, coherent heterogeneity through continuous differentiations and integrations. Spencer's sociology was carried forward in the United States by William Graham Sumner (1840–1910), who applied evolutionary ideas to folkways and institutions, and by Lester Frank Ward (1841–1913), first president of the American Sociological Society, who accepted evolution but rejected Spencer's laissez-faire conclusions.
+Spencer was born in Derby in 1820 and worked as a railway engineer, journalist, and sub-editor of *The Economist* before becoming an independent writer. His first sociological work, *Social Statics* (1851), set out his "law of equal freedom" and a liberal view of social progress; the typology of militant societies (compulsory cooperation) and industrial societies (voluntary cooperation) was elaborated later, in *The Principles of Sociology*. *First Principles* (1862) then stated his universal law of evolution: all things develop from an indefinite, incoherent homogeneity toward a definite, coherent heterogeneity through continuous differentiations and integrations. Spencer's sociology was carried forward in the United States by William Graham Sumner (1840–1910), who applied evolutionary ideas to folkways and institutions, and by Lester Frank Ward (1841–1913), first president of the American Sociological Society, who accepted evolution but rejected Spencer's laissez-faire conclusions.
 
 ## Core Analytical Concepts
 
@@ -32,7 +32,7 @@ The organic analogy is the school's central device: society, like a living organ
 
 ## Key Works and Method
 
-Spencer's sociological writings form one of the largest bodies of work by any classical theorist. *The Study of Sociology* (1873) became the first sociology textbook used in the United States and defended the scientific study of society against the objection that social life is too complex for laws. *The Principles of Sociology* (1876–1896), published in three volumes, is the core statement: it classifies social data, analyses domestic, ceremonial, political, ecclesiastical, professional, and industrial institutions, and assembles ethnographic evidence from hundreds of societies. Spencer's method was comparative and encyclopaedic. He commissioned *Descriptive Sociology* (begun 1873), a vast compilation of classified ethnographic data on which his generalisations were meant to rest, and arranged societies along an evolutionary scale from the simplest to the most complex, reading differences between contemporary societies as evidence of successive stages of development.
+Spencer's sociological writings form one of the largest bodies of work by any classical theorist. *The Study of Sociology* (1873) was widely read in the United States and defended the scientific study of society against the objection that social life is too complex for laws. *The Principles of Sociology* (1876–1896), published in three volumes, is the core statement: it classifies social data, analyses domestic, ceremonial, political, ecclesiastical, professional, and industrial institutions, and assembles ethnographic evidence from hundreds of societies. Spencer's method was comparative and encyclopaedic. He commissioned *Descriptive Sociology* (begun 1873), a vast compilation of classified ethnographic data on which his generalisations were meant to rest, and arranged societies along an evolutionary scale from the simplest to the most complex, reading differences between contemporary societies as evidence of successive stages of development.
 
 ## Influence and Legacy
 

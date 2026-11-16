@@ -12,16 +12,13 @@ active_start: 1944
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Raewyn Connell
 
-Raewyn Connell (born 1944) is an Australian sociologist known for her work on gender, masculinities, class, education and the global geography of social science. She is the originator of the concept of hegemonic masculinity.
+Raewyn Connell (born 1944) is an Australian sociologist known for her work on gender, masculinities, class, education and the global geography of social science. She is the principal originator of the concept of hegemonic masculinity, first formulated with Tim Carrigan and John Lee in "Toward a New Sociology of Masculinity" (*Theory and Society*, 1985).
 
 ## Life and Context
 
@@ -44,6 +41,10 @@ Connell was born in Sydney and was known as Robert William (Bob) Connell until s
 - *Gender: In World Perspective* (2002)
 - *Southern Theory* (2007)
 - *The Good University* (2019)
+
+## Education and Cross-References
+
+In *Making the Difference* (1982) Connell and colleagues interviewed students and families in Australian secondary schools to show how class and gender shape school experience, and in *Schools and Social Justice* (1993) she proposed "curricular justice": building curricula from the standpoint of the least advantaged. Her work on masculinity connects with Pierre Bourdieu's work on masculine domination and with feminist theories of patriarchy, while *Southern Theory* belongs alongside postcolonial and decolonial critiques of Eurocentric social science.
 
 ## Method
 

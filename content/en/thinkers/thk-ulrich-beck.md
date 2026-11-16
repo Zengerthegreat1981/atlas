@@ -9,13 +9,10 @@ en: Ulrich Beck
 crumb: "Sociology ← Ulrich Beck"
 dates: International · 1944-2015
 active_start: 1944
-active_end: مستمر
+active_end: 2015
 edges: []
 related: []
-gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
-- Cross-references to related concepts: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -25,7 +22,7 @@ Ulrich Beck (1944-2015) was a German sociologist best known for the concept of t
 
 ## Life and Context
 
-Beck was born in 1944 in Stolp, Pomerania, and studied sociology, philosophy, psychology and political science at the University of Munich, where he later became professor. He also held a position at the London School of Economics. Risk Society appeared in German in 1986, shortly after the Chernobyl disaster, and became one of the most widely discussed sociological books of its time. He died in Munich in January 2015.
+Beck was born in 1944 in Stolp, Pomerania, and studied sociology, philosophy, psychology and political science at the University of Munich, where he later became professor. He also held a position at the London School of Economics. *Risikogesellschaft* appeared in German in 1986, the year of the Chernobyl disaster, which many readers took as confirming its argument, and it became one of the most widely discussed sociological books of its time. He died in Munich in January 2015.
 
 ## Main Ideas
 
@@ -43,6 +40,10 @@ Beck was born in 1944 in Stolp, Pomerania, and studied sociology, philosophy, ps
 - The Normal Chaos of Love (English 1995, with Elisabeth Beck-Gernsheim)
 - World Risk Society (1999)
 - Cosmopolitan Vision (English 2006)
+
+## Applications and Cross-References
+
+Beck treated nuclear accidents, chemical contamination, climate change and financial crises as examples of risks produced by modernization itself, and in *World at Risk* (2009) he extended the argument to terrorism and the financial crisis. His individualization thesis, developed with Elisabeth Beck-Gernsheim (*Individualization*, 2002), has been used in studies of family, work and gender. With Anthony Giddens and Scott Lash he shaped the "reflexive modernization" debate; compare Giddens on late modernity and Mary Douglas on the cultural construction of risk. *Cosmopolitan Vision* applies his critique of methodological nationalism to research on migration, global inequality and politics.
 
 ## Method
 

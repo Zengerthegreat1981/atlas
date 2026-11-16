@@ -8,8 +8,8 @@ title: The Levittowners
 en: The Levittowners
 crumb: Sociology ← The Levittowners
 dates: ''
-active_start: 1920
-active_end: مستمر
+active_start: 1958
+active_end: 1967
 edges: []
 related: []
 gaps: []
@@ -24,7 +24,7 @@ Levittown, New Jersey — today Willingboro Township — was one of the great po
 
 ## Method
 
-Gans's method was participant observation of the most literal kind. In 1958 he and his wife bought a house in Levittown and lived there for two years, joining the local organisations, attending meetings, and talking with neighbours about their lives, their children, and their politics. He also surveyed residents and kept detailed field notes. Gans was open about his role as a researcher, and about the limits of studying a single community, but his long residence gave him access to everyday life that no questionnaire could match. The study was funded and published at a time when urban sociology was still dominated by studies of the inner city, and a suburb seemed an unlikely place to do serious fieldwork.
+Gans's method was participant observation of the most literal kind. In 1958 he and his wife bought a house in Levittown and lived there for about two years, joining the local organisations, attending meetings, and talking with neighbours about their lives, their children, and their politics. He also conducted surveys and interviews and kept detailed field notes. Gans was open about his role as a researcher, and about the limits of studying a single community, but his long residence gave him access to everyday life that no questionnaire could match.
 
 ## Key Findings
 
@@ -36,7 +36,7 @@ Gans was also candid about what his study could not show. Levittown's population
 
 ## Reception and Influence
 
-*The Levittowners* became a landmark in urban sociology and suburban studies. It undercut the "suburban myth" — the idea, promoted by writers such as William H. Whyte and David Riesman, that suburban life produced a homogeneous mass culture — and it helped establish the participant-observation study of ordinary communities as a central sociological method. A second edition, published in 1982, added a new introduction in which Gans reflected on how Levittown and its reputation had changed. The book remains a standard reference in courses on urban sociology and community studies, and its argument that place matters less than the class and culture people carry into it continues to shape research on suburbs, neighbourhoods, and community life.
+*The Levittowners* became a landmark in urban sociology and suburban studies. It undercut the "suburban myth" — the idea, promoted by writers such as William H. Whyte (The Organization Man) and David Riesman, that suburban life produced a homogeneous mass culture — and it helped establish the participant-observation study of ordinary communities as a central sociological method. A second edition, published in 1982, added a new preface in which Gans reflected on how Levittown had changed. The book remains a standard reference in courses on urban sociology and community studies, and its argument that place matters less than the class and culture people carry into it continues to shape research on suburbs, neighbourhoods, and community life.
 
 ## Sources
 

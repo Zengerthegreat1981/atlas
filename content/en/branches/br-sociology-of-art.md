@@ -12,8 +12,7 @@ active_start: 1970
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: contemporary
 sociological_paradigm: micro-macro
 ---
@@ -42,6 +41,10 @@ The sociology of art uses interviews with artists and cultural workers, ethnogra
 
 The sociology of art has shaped cultural policy, arts funding, and museum practice, and it informs debates about cultural inequality: why museum audiences remain disproportionately middle-class, why women and minority artists are underrepresented, and whether public funding for the arts serves the public or an elite. Its debates include the autonomy of art: does art follow its own logic, as Bourdieu argued, or is it reducible to economic and political interests? Another debate concerns the boundary between high and popular culture: in an age of streaming, street art, and social media, does the distinction still hold, or has it been replaced by omnivorous taste? A third concerns globalisation: is the art world becoming genuinely global, or does it remain centred on a few cities — New York, London, Paris — that consecrate what counts as art? The field's enduring claim is that art is never only about beauty or expression: it is a social institution, and understanding it means understanding the society that makes it possible.
 
+## Empirical Examples
+
+Several studies show how the approach works in practice. Harrison and Cynthia White's *Canvases and Careers* (1965) examined how the nineteenth-century French academic system, with its salons and dealers, gave way to a dealer-critic system that made room for the Impressionists. Bourdieu and Alain Darbel's *The Love of Art* (1966) used surveys of European museum visitors to show that attendance rose sharply with educational level. Paul DiMaggio's study of cultural entrepreneurship in nineteenth-century Boston (1982) traced how elite founders built museums and orchestras that separated high culture from popular entertainment. Becker's work on dance musicians, in *Outsiders* (1963), showed how an occupational culture defines who is an insider.
+
 ## Sources
 
 - Hauser, Arnold. *The Social History of Art*. 1951.
@@ -51,3 +54,7 @@ The sociology of art has shaped cultural policy, arts funding, and museum practi
 - Zolberg, Vera L. *Constructing a Sociology of the Arts*. 1990.
 - Bourdieu, Pierre. *The Rules of Art: Genesis and Structure of the Literary Field*. 1992.
 - Adorno, Theodor W. *The Culture Industry: Selected Essays on Mass Culture*. 1991.
+- White, Harrison C., and Cynthia A. White. *Canvases and Careers: Institutional Change in the French Painting World*. 1965.
+- Bourdieu, Pierre, and Alain Darbel. *The Love of Art: European Art Museums and Their Public*. 1966 (French original; English translation 1990).
+- DiMaggio, Paul. "Cultural Entrepreneurship in Nineteenth-Century Boston." *Media, Culture & Society* 4, 1982.
+- Becker, Howard S. *Outsiders: Studies in the Sociology of Deviance*. 1963.

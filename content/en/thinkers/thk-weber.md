@@ -9,7 +9,7 @@ en: Max Weber
 crumb: "Sociology ← Max Weber"
 dates: International · 1864-1920
 active_start: 1864
-active_end: مستمر
+active_end: 1920
 edges: []
 related: []
 gaps: []

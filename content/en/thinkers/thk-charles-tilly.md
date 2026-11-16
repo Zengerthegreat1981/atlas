@@ -9,7 +9,7 @@ en: Charles Tilly
 crumb: "Sociology ← Charles Tilly"
 dates: International · 1929-2008
 active_start: 1929
-active_end: مستمر
+active_end: 2008
 edges: []
 related: []
 gaps:

@@ -9,12 +9,10 @@ en: Harriet Martineau
 crumb: "Sociology ← Harriet Martineau"
 dates: International · 1802-1876
 active_start: 1802
-active_end: مستمر
+active_end: 1876
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
@@ -43,6 +41,10 @@ Martineau was born in Norwich into a Unitarian manufacturing family. She became 
 - *Eastern Life, Present and Past* (1848)
 - *The Positive Philosophy of Auguste Comte* (1853)
 - *Autobiography* (published posthumously, 1877)
+
+## Case Studies
+
+In *Society in America* Martineau drew on interviews and observation during her 1834-36 journey, including contacts with abolitionists such as William Lloyd Garrison, to assess slavery, women's education and legal status, and the working of American institutions against the nation's declared principles. *Illustrations of Political Economy* presented economic arguments through a series of short narratives of ordinary working life.
 
 ## Method
 

@@ -9,12 +9,10 @@ en: George Herbert Mead
 crumb: "Sociology ← George Herbert Mead"
 dates: International · 1863-1931
 active_start: 1863
-active_end: مستمر
+active_end: 1931
 edges: []
 related: []
 gaps:
-- Detailed case studies: not yet covered
-- Contemporary empirical examples: not yet covered
 - Cross-references to related concepts: not yet covered
 sociological_tradition: other
 sociological_paradigm: micro-macro
@@ -43,6 +41,10 @@ Mead was born in South Hadley, Massachusetts, and studied at Oberlin College and
 - *Movements of Thought in the Nineteenth Century* (1936)
 - *The Philosophy of the Act* (1938)
 
+## Illustrations
+
+Mead's account of play and the game draws on everyday child development: a child playing at being a parent or teacher takes one role at a time, while a child in an organized game such as baseball must anticipate the actions of all the other players at once. This is the basis of his account of the generalized other.
+
 ## Method
 
 Mead's approach was pragmatist and behaviourist in a broad sense, with a focus on observable social acts and communication, though he treated inner experience as part of social conduct.
@@ -56,4 +58,4 @@ His student Herbert Blumer coined the term "symbolic interactionism" in 1937 and
 - Mead, George Herbert. *Mind, Self and Society* (1934).
 - Mead, George Herbert. *The Philosophy of the Present* (1932).
 - Blumer, Herbert. *Symbolic Interactionism: Perspective and Method* (1969).
-- Joas, Hans. *G. H. Mead: A Contemporary Re-examination of His Thought* (1980).
+- Joas, Hans. *G. H. Mead: A Contemporary Re-examination of His Thought* (German 1980; English 1985).

@@ -12,67 +12,39 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Detailed empirical case studies: not yet covered
-- Cross-disciplinary applications: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
 # Causation
 
-## Conceptual Definition and Genealogy
+Causation is the relation in which one event, condition or process brings about another. Sociologists use causal language constantly, but the discipline has long debated what a causal claim means and what evidence can establish it, given that most social phenomena cannot be experimentally manipulated.
 
-Causation is a foundational concept in sociological analysis with particular meaning distinct from everyday usage. The concept emerged from specific intellectual traditions addressing certain questions about social phenomena. Historical development of the concept reflected changing theoretical concerns and empirical discoveries. Different sociological schools have understood the concept somewhat differently, creating productive tensions. The word itself has history revealing how the concept evolved through scholarship. Tracing genealogy of the concept illuminates its theoretical foundations and continuing importance. Contemporary precision in using the concept requires understanding this historical development.
+## Philosophical Background
 
-## Theoretical Foundations
+David Hume, in *A Treatise of Human Nature* (1739-1740), argued that we observe only the regular succession of events (constant conjunction) and never a necessary connection, a position that supports the maxim that correlation alone is not causation. John Stuart Mill's *A System of Logic* (1843) set out methods of agreement, difference and concomitant variation for inferring causes from comparison. Émile Durkheim's *The Rules of Sociological Method* (1895) argued that sociology's way of testing causal explanations is comparison, and that the explanation of a social fact should be sought in other social facts. Max Weber required explanations of social action to be adequate both at the level of meaning and at the level of causes, combining interpretive understanding (*Verstehen*) with causal analysis.
 
-The concept rests on particular assumptions about how society works and how to analyze it scientifically. Theoretical foundations establish what the concept is supposed to explain or describe. Different theoretical frameworks sometimes use the concept differently, leading to multiple meanings in contemporary sociology. The concept's theoretical grounding makes it valuable for empirical research. Understanding theoretical foundations helps assess when the concept is appropriately applied. Theoretical precision requires recognizing what aspects of social life the concept captures and what it obscures. The concept evolved as theoretical frameworks developed, gaining new dimensions of meaning.
+## Counterfactual and Potential-Outcomes Approaches
 
-## Classical Formulations
+The dominant statistical approach defines a causal effect as the difference between what would happen to a unit with and without a treatment. Donald Rubin's 1974 paper formalized this potential-outcomes framework, building on Jerzy Neyman and Ronald Fisher's work on randomized experiments. Paul Holland (1986) summarized its central problem: we can observe a given unit under only one condition, so causal effects can never be observed directly for an individual, and are inferred by comparing groups. Randomization makes the groups comparable in expectation, which is why experiments, including field experiments and natural experiments in which nature or policy assigns treatment, are regarded as strong evidence. Stephen Morgan and Christopher Winship's *Counterfactuals and Causal Inference* (2007) introduced these ideas to a sociological audience. Judea Pearl's *Causality* (2000) developed an alternative graphical language of causal diagrams and structural models that makes explicit the assumptions needed to move from association to cause.
 
-Classical sociologists developing the concept articulated core features still recognized today. Early definitions established parameters for subsequent usage. Classical theorists demonstrated how the concept illuminated particular social phenomena. Their work established conventions about when and how to apply the concept. Subsequent scholars have sometimes modified or challenged classical formulations. Contemporary debates often return to classical definitions to clarify current disagreements. Understanding classical formulations provides foundation for recognizing contemporary variations and extensions.
+## Mechanisms and Interpretive Approaches
 
-## Major Theoretical Schools and Their Interpretation
+Many sociologists hold that identifying a regular association is not enough and that explanation requires specifying the mechanism that generates it. Peter Hedström and Richard Swedberg's edited volume *Social Mechanisms* (1998) advanced this "analytical sociology" view, and John Goldthorpe (2001) argued that statistical causal claims should be supported by a plausible account of the generating process. Critical realists such as Roy Bhaskar (*A Realist Theory of Science*, 1975) hold that causal powers exist in structures even when they are not manifested as regular event patterns. Process tracing and comparative-historical methods examine sequences of events in a few cases. Interpretive traditions emphasize that social causes work through meanings, so that reasons for action are a legitimate part of causal explanation.
 
-Different sociological schools have adopted and developed the concept in distinctive ways. Functionalist approaches understand the concept in terms of social functions and integration. Conflict approaches emphasize how the concept relates to domination and inequality. Interpretive traditions focus on how the concept helps understand meaning and interaction. Critical approaches question whether the concept adequately addresses power and resistance. Each tradition contributes distinctive insights while potentially missing dimensions emphasized elsewhere. Contemporary scholarship increasingly integrates insights from multiple traditions. The concept's continuing vitality partly depends on capacity to accommodate multiple perspectives.
+## Difficulties in Social Research
 
-## Empirical Applications and Research Examples
+Common obstacles include confounding (a third factor that causes both variables), reverse causation, selection into treatments, measurement error and interference between units. Social causes are often multiple and conjunctural, so the same outcome can arise through different combinations of conditions, and effects often vary across people and contexts, so that an average effect may describe no one in particular. Some scholars follow the dictum "no causation without manipulation," which restricts causal claims to factors that could in principle be changed, a stance disputed for attributes such as race or sex.
 
-Sociologists apply the concept empirically to understand specific social phenomena and patterns. Research demonstrates how the concept illuminates dimensions of social life otherwise difficult to recognize. Empirical applications have extended the concept's meaning in light of research findings. Quantitative research develops measurement approaches for assessing the concept. Qualitative research documents how the concept manifests in particular contexts and settings. Comparative research examines whether the concept applies across different societies and cultures. Longitudinal research traces how the concept's manifestations change over time. Contemporary applications address phenomena earlier scholars could not have anticipated.
+## Sources
 
-## Relationship to Other Core Concepts
-
-Causation interconnects with other foundational concepts forming coherent analytical framework. Understanding the concept requires grasping how it relates to complementary and contrasting concepts. The relationship clarifies what specific phenomena the concept helps analyze. Different theoretical schools sometimes organize these relationships differently. Conceptual interdependence means changing understanding of one concept affects understanding of related concepts. Advanced sociological analysis often involves integrating multiple concepts to develop nuanced understanding. Mapping conceptual relationships helps prevent misapplication or confusion.
-
-## Social Inequality Dimensions
-
-The concept connects to how societies distribute resources, opportunities, and life chances unequally. Understanding these connections illuminates mechanisms producing and reproducing inequality. Different groups experience and understand the concept differently according to social position. Power relationships shape both what the concept means and how it operates in practice. The concept sometimes obscures inequality dimensions that critical approaches emphasize. Feminist, postcolonial, and critical race perspectives have extended understanding of inequality dimensions. Integrating attention to inequality prevents depoliticizing what are fundamentally questions of justice.
-
-## Contemporary Manifestations and Changes
-
-The concept manifests differently in contemporary social conditions than in classical sociological era. Digital technologies, globalization, and environmental change raise new questions about the concept. Contemporary scholars debate whether the concept requires modification to address 21st-century phenomena. The concept's continuing relevance depends partly on flexibility to address changing social conditions. Some argue the concept remains valid despite historical change while others contend fundamental revision necessary. Contemporary research extends the concept to new domains. Digital humanities apply computational methods to examine how the concept operates in massive datasets.
-
-## Limitations and Critiques
-
-Critics argue the concept inadequately captures important dimensions of social life. Some contend the concept reflects particular perspective not universally applicable. Others argue the concept obscures power relationships and responsibility. Postcolonial critique questions whether the concept reflects Western assumptions. Feminist scholarship has identified gender dimensions the concept historically overlooked. Critical scholars argue the concept sometimes legitimizes domination as natural. Contemporary proponents acknowledge limitations while maintaining the concept's analytical value. Addressing criticism without abandoning the concept remains ongoing theoretical challenge.
-
-## Measurement and Operationalization
-
-Sociologists operationalize the concept into measurable variables enabling empirical research. Different operationalizations sometimes capture somewhat different dimensions of the concept. Quantitative research requires precise definitions enabling consistent measurement. Qualitative research preserves complexity while sacrificing measurement consistency. The relationship between abstract concept and concrete measures always involves interpretive judgment. Contemporary development of measurement approaches reflects competing theoretical interpretations. Valid operationalization requires theoretical sophistication alongside technical competence.
-
-## Interdisciplinary Applications
-
-Related disciplines apply the concept with distinctive emphases. Disciplinary differences sometimes produce different understanding of the same concept. Interdisciplinary dialogue enriches understanding while potentially creating confusion. The concept's applicability across disciplines suggests broad explanatory value. Discipline-specific usage sometimes extends the concept in productive new directions. Understanding multiple disciplinary applications prevents parochialism. Interdisciplinary work increasingly requires translation between concepts with similar names but different meanings.
-
-## Future Directions and Theoretical Development
-
-Scholars debate whether the concept requires modification, extension, or replacement. Contemporary challenges prompt theorists to reconsider conceptual foundations. Emerging research sometimes produces findings requiring conceptual refinement. Dialogue with non-Western traditions may introduce alternative concepts. The concept's future depends on continued relevance to sociological analysis. Generational turnover of scholars brings new perspectives to traditional concepts. Digital sociology and computational methods open new analytical possibilities.
-
-## Sources and Further Reading
-
-- Classical sociological texts developing and defining the concept
-- Comprehensive reviews of how different traditions understand the concept
-- Empirical research applying the concept to specific phenomena
-- Critical engagements questioning the concept's adequacy
-- Methodological works addressing measurement and operationalization
-
+- Hume, David. *A Treatise of Human Nature*. 1739-1740.
+- Mill, John Stuart. *A System of Logic*. 1843.
+- Durkheim, Émile. *Les règles de la méthode sociologique*. Félix Alcan, 1895.
+- Bhaskar, Roy. *A Realist Theory of Science*. Leeds Books, 1975.
+- Rubin, Donald B. "Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies." *Journal of Educational Psychology* 66(5), 1974, pp. 688–701.
+- Holland, Paul W. "Statistics and Causal Inference." *Journal of the American Statistical Association* 81(396), 1986, pp. 945–960.
+- Hedström, Peter, and Richard Swedberg, eds. *Social Mechanisms: An Analytical Approach to Social Theory*. Cambridge University Press, 1998.
+- Pearl, Judea. *Causality: Models, Reasoning, and Inference*. Cambridge University Press, 2000.
+- Goldthorpe, John H. "Causation, Statistics, and Sociology." *European Sociological Review* 17(1), 2001, pp. 1–20.
+- Morgan, Stephen L., and Christopher Winship. *Counterfactuals and Causal Inference*. Cambridge University Press, 2007.

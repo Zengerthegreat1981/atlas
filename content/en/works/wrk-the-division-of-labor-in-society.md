@@ -19,7 +19,7 @@ gaps:
 
 # The Division of Labor in Society
 
-Émile Durkheim's *The Division of Labor in Society* (1893) is the founding text of modern sociology and the work that established Durkheim as the discipline's first great theorist. Written as his doctoral thesis at the University of Bordeaux and published in French as *De la division du travail social*, it asks a question that still defines sociology: what holds a society together? Durkheim's answer was that the division of labour — the specialisation of work that Adam Smith had celebrated as the source of wealth — is above all a moral phenomenon. It creates new forms of solidarity between people who depend on one another, and its breakdown produces the pathologies of modern life.
+Émile Durkheim's *The Division of Labor in Society* (1893) is the founding text of modern sociology and the work that established Durkheim as the discipline's first great theorist. Written as his doctoral thesis (defended at the University of Paris while he was teaching at Bordeaux) and published in French as *De la division du travail social*, it asks a question that still defines sociology: what holds a society together? Durkheim's answer was that the division of labour — the specialisation of work that Adam Smith had celebrated as the source of wealth — is above all a moral phenomenon. It creates new forms of solidarity between people who depend on one another, and its breakdown produces the pathologies of modern life.
 
 ## Historical Context and Publication
 
@@ -50,7 +50,7 @@ Critics have questioned whether Durkheim's two types of solidarity describe real
 - Émile Durkheim, *The Division of Labor in Society* (1984), translated by W. D. Halls; French original, *De la division du travail social* (1893).
 - Émile Durkheim, *The Rules of Sociological Method* (1982), translated by W. D. Halls; French original (1895).
 - Émile Durkheim, *Suicide: A Study in Sociology* (1951), translated by John A. Spaulding and George Simpson; French original (1897).
-- Steven Lukes, *Émile Durkheim: His Life and Work* (1972).
+- Steven Lukes, *Émile Durkheim: His Life and Work* (1973).
 - Anthony Giddens, *Capitalism and Modern Social Theory: An Analysis of the Writings of Marx, Durkheim and Max Weber* (1971).
 - Robert Alun Jones, *Émile Durkheim: An Introduction to Four Major Works* (1986).
 - Lewis A. Coser, *Masters of Sociological Thought: Ideas in Historical and Social Context* (1971).

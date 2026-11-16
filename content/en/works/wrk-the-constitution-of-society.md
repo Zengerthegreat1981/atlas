@@ -38,7 +38,7 @@ The book is organised as a systematic treatise rather than an empirical study. I
 
 ## Reception and Influence
 
-*The Constitution of Society* became the most cited work of social theory of its generation. It shaped sociology's understanding of agency, power and institutions, and it travelled far beyond sociology — into geography, where it influenced the study of place and spatial relations; into organisation studies and information systems, where it framed the study of technology in use; and into political science and international relations, where it informed constructivist accounts of norms and institutions. Giddens himself developed the framework in his later work on modernity, notably *The Consequences of Modernity* (1990) and *Modernity and Self-Identity* (1991), which applied structuration to globalisation, risk and the reflexive self.
+*The Constitution of Society* became one of the most widely cited works of social theory of its generation. It shaped sociology's understanding of agency, power and institutions, and it travelled far beyond sociology — into geography, where it influenced the study of place and spatial relations; into organisation studies and information systems, where it framed the study of technology in use; and into political science and international relations, where it informed constructivist accounts of norms and institutions. Giddens himself developed the framework in his later work on modernity, notably *The Consequences of Modernity* (1990) and *Modernity and Self-Identity* (1991), which extended his analysis to globalisation, risk and the reflexive self.
 
 ## Critical Assessments and Limitations
 
@@ -50,6 +50,6 @@ Critics have argued that structuration theory is stronger as a vocabulary than a
 - Anthony Giddens, *Central Problems in Social Theory: Action, Structure and Contradiction in Social Analysis* (1979).
 - Anthony Giddens, *New Rules of Sociological Method: A Positive Critique of Interpretative Sociologies* (1976).
 - Christopher G. A. Bryant and David Jary, eds., *Giddens' Theory of Structuration: A Critical Appreciation* (1991).
-- John B. Thompson, *Social Theory of Modern Societies: Anthony Giddens and His Critics* (1989), edited with David Held.
+- David Held and John B. Thompson, eds., *Social Theory of Modern Societies: Anthony Giddens and His Critics* (1989).
 - Rob Stones, *Structuration Theory* (2005).
 - Margaret S. Archer, *Realist Social Theory: The Morphogenetic Approach* (1995).

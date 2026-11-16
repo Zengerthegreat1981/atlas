@@ -12,8 +12,7 @@ active_start: 1967
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-disciplinary applications: not yet covered
+gaps: []
 ---
 # The Grounded Theory
 
@@ -31,11 +30,11 @@ The method the book sets out has four stages: comparing incidents to categories,
 
 ## Evidence and Findings
 
-The book itself contains little new empirical material; its evidence is the authors' earlier study of dying, *Awareness of Dying* (1965), and the method is illustrated through that research. In the hospital study, Glaser and Strauss found that staff and patients managed the awareness of dying through a process of mutual pretence — each side knowing the patient was dying but behaving as if recovery were possible — and that this "awareness context" shaped everything from communication to the timing of medical interventions. The grounded theory of awareness contexts emerged from comparing cases: closed awareness, suspected awareness, mutual pretence, and open awareness. The book's claim is that this theory, generated from the data rather than imposed on it, explains the hospital's social order better than any theory imported from outside. The example does the work of proof: here, the authors say, is a theory that could only have been discovered by studying the setting itself.
+The book itself contains little new empirical material; its evidence is the authors' earlier study of dying, *Awareness of Dying* (1965), and the method is illustrated through that research. In the hospital study, Glaser and Strauss found that interaction around a dying patient depended on what each party knew and on what each knew the others to know, which they called the "awareness context," and that this shaped communication and the handling of the patient. The grounded theory of awareness contexts emerged from comparing cases and distinguished four types: closed awareness, suspicion awareness, mutual pretence, and open awareness. The book's claim is that this theory, generated from the data rather than imposed on it, explains the hospital's social order better than any theory imported from outside. The example does the work of proof: here, the authors say, is a theory that could only have been discovered by studying the setting itself.
 
 ## Influence and Continuing Relevance
 
-*The Discovery of Grounded Theory* is one of the most influential methodological works in the social sciences. It legitimised qualitative research as a source of theory, not merely as a preliminary to quantitative testing, and it gave qualitative researchers a systematic method they could teach, defend, and cite. Its influence extends far beyond sociology — into nursing, education, management, health research, and information systems, where grounded theory is now a standard approach. That dispute, and Kathy Charmaz's constructivist version, kept the method a site of debate rather than a settled technique. Grounded theory remains a leading qualitative approach, and its insistence that theory emerge from data speaks to concerns about research imposing frameworks on the people studied.
+*The Discovery of Grounded Theory* is one of the most influential methodological works in the social sciences. It legitimised qualitative research as a source of theory, not merely as a preliminary to quantitative testing, and it gave qualitative researchers a systematic method they could teach, defend, and cite. Its influence extends far beyond sociology — into nursing, education, management, health research, and information systems, where grounded theory is now a standard approach. The method later divided: Strauss, with Juliet Corbin, developed more structured coding procedures (1990), which Glaser rejected as forcing the data (*Emergence vs. Forcing*, 1992), and Kathy Charmaz's constructivist version added a third line. These disputes kept the method a site of debate rather than a settled technique. Grounded theory remains a leading qualitative approach, and its insistence that theory emerge from data speaks to concerns about research imposing frameworks on the people studied.
 
 ## Critical Assessments and Limitations
 
@@ -48,6 +47,7 @@ The book's central claim — that theory can emerge from data without prior theo
 - Strauss, Anselm L. *Mirrors and Masks: The Search for Identity*. Free Press, 1959.
 - Glaser, Barney G. *Theoretical Sensitivity: Advances in the Methodology of Grounded Theory*. Sociology Press, 1978.
 - Strauss, Anselm L., and Juliet Corbin. *Basics of Qualitative Research: Grounded Theory Procedures and Techniques*. Sage, 1990.
+- Glaser, Barney G. *Basics of Grounded Theory Analysis: Emergence vs. Forcing*. Sociology Press, 1992.
 - Charmaz, Kathy. *Constructing Grounded Theory: A Practical Guide through Qualitative Analysis*. Sage, 2006.
 - Bryant, Antony, and Kathy Charmaz, eds. *The SAGE Handbook of Grounded Theory*. Sage, 2007.
 - Merton, Robert K. *Social Theory and Social Structure*. Free Press, 1949.

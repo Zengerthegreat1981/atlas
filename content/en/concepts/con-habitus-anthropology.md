@@ -12,9 +12,7 @@ active_start: 1900
 active_end: مستمر
 edges: []
 related: []
-gaps:
-- Cross-school comparisons: not yet covered
-- Empirical examples: not yet covered
+gaps: []
 sociological_tradition: other
 sociological_paradigm: micro-macro
 ---
@@ -36,9 +34,13 @@ Habitus is also generative rather than merely repetitive. It is not a set of fix
 
 ## Key Debates
 
-One debate concerns the relationship between habitus and conscious choice. Critics argue that Bourdieu's theory leaves too little room for reflexivity — for people's ability to reflect on their dispositions and change them. Bourdieu himself acknowledged that crises and mismatches can bring the habitus to consciousness, and later theorists have developed accounts of reflexive habitus, in which people deliberately cultivate new dispositions. Loïc Wacquant, in "Habitus" (2004) and in his ethnography of boxing, *Body and Soul* (2004), showed that habitus can be deliberately acquired through disciplined training, as when a young boxer learns the craft of the gym — suggesting that habitus is not only inherited from childhood but can be remade through practice.
+One debate concerns the relationship between habitus and conscious choice. Critics argue that Bourdieu's theory leaves too little room for reflexivity — for people's ability to reflect on their dispositions and change them. Bourdieu himself acknowledged that crises and mismatches can bring the habitus to consciousness, and later theorists have developed accounts of reflexive habitus, in which people deliberately cultivate new dispositions. Loïc Wacquant, in his ethnography of boxing, *Body and Soul* (2004), showed that habitus can be deliberately acquired through disciplined training, as when a young boxer learns the craft of the gym — suggesting that habitus is not only inherited from childhood but can be remade through practice.
 
 Another debate concerns the scope of the concept. Bourdieu developed habitus to explain class reproduction, but it has since been applied to gender, race, ethnicity, profession, and nation. Some scholars worry that the concept has been stretched too far, becoming a vague synonym for culture or socialisation. Others argue that its flexibility is its strength: habitus names the general mechanism by which social structure becomes embodied, wherever that mechanism operates.
+
+## Comparison with Related Ideas
+
+Norbert Elias also used the term, writing of a national or social habitus in *The Civilizing Process* (1939), where long-term changes in manners and self-restraint are tied to state formation. Bourdieu's concept differs from the Parsonian notion of internalised norms in stressing embodied, class-specific practical dispositions rather than shared values, and from rational-choice accounts in treating preferences as socially formed rather than as given.
 
 ## Contemporary Relevance
 
@@ -50,5 +52,5 @@ Habitus remains a central concept in sociology, anthropology, and cultural studi
 - Pierre Bourdieu, *Outline of a Theory of Practice* (1972; English translation 1977).
 - Pierre Bourdieu, *Distinction: A Social Critique of the Judgement of Taste* (1979; English translation 1984).
 - Pierre Bourdieu, *The Logic of Practice* (1980; English translation 1990).
-- Loïc Wacquant, "Habitus," in *International Encyclopedia of Economic Sociology* (2004).
+- Norbert Elias, *The Civilizing Process* (1939).
 - Loïc Wacquant, *Body and Soul: Notebooks of an Apprentice Boxer* (2004).

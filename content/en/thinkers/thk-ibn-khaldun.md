@@ -9,7 +9,7 @@ en: Ibn Khaldun
 crumb: "Sociology ← Ibn Khaldun"
 dates: International · 1332-1406
 active_start: 1332
-active_end: مستمر
+active_end: 1406
 edges: []
 related: []
 gaps: []

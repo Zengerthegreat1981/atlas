@@ -9,7 +9,7 @@ en: Michel Foucault
 crumb: "Sociology ← Michel Foucault"
 dates: International · 1926-1984
 active_start: 1926
-active_end: مستمر
+active_end: 1984
 edges: []
 related: []
 gaps: []
@@ -22,7 +22,7 @@ Michel Foucault (1926-1984) was a French philosopher and historian of ideas whos
 
 ## Life and Context
 
-Foucault was born in Poitiers in 1926 and studied at the École Normale Supérieure in Paris. He taught in Sweden, Poland, and Germany, and later at the University of Clermont-Ferrand and Vincennes. In 1970 he was elected to the Collège de France, holding a chair in the history of systems of thought until his death in Paris in 1984. He was politically active, notably in prison reform through the Groupe d'information sur les prisons.
+Foucault was born in Poitiers in 1926 and studied at the École Normale Supérieure in Paris. He taught in Sweden, Poland, and Germany, and later at the University of Clermont-Ferrand and Vincennes. He was elected to the Collège de France in 1969 and held its chair in the history of systems of thought from 1970 until his death in Paris in 1984. He was politically active, notably in prison reform through the Groupe d'information sur les prisons.
 
 ## Main Ideas
 
