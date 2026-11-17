@@ -109,3 +109,10 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
 - Scope `reports/scope/political-economy-scope.md`: 157 entries translated by Haiku from AR assets (same ids/slugs), 4 field intros authored by Sonnet
   (`fld-political-economy` root, macro/money, development, labour/distribution); all 161 fact-checked by Sonnet (corrections in `reports/scope/corrections.txt`).
 - Reading paths added to `fld-political-economy`. Same caveat: machine-assisted, no web access; human review required.
+
+---
+# Pass 7 — Religious studies v1 (2026-11-17), Haiku translation + Sonnet fact-check
+- Scope `reports/scope/religious-studies-scope.md`: 145 entries translated by Haiku from AR assets (same ids/slugs), 4 field intros authored by Sonnet
+  (`fld-religious-studies` root, theory & method, ritual/myth/symbol, religion & society); all 149 fact-checked by Sonnet.
+- Reading paths added to `fld-religious-studies` (grouped by type). Same caveat: machine-assisted, no web access; human review required —
+  particularly for entries touching living religious traditions and Islamic studies.

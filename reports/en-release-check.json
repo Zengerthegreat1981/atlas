@@ -1,10 +1,10 @@
 {
-  "total_files": 1841,
+  "total_files": 1990,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 1479,
-    "declared-gaps": 326,
+    "edge-target-by-name": 1606,
+    "declared-gaps": 364,
     "placeholder": 3,
     "short": 6,
     "duplicate-id-groups": 0
@@ -35,14 +35,14 @@
       "con-ahimsa",
       "con-anamnesis-recollection",
       "con-anatta-non-self-concept",
+      "con-anti-cult-movement-response",
       "con-anxiety-existential",
       "con-anxiety",
       "con-aphasiology-classification",
       "con-arab-subsidy-state-and-social-contract",
       "con-ataraxia",
       "con-attention",
-      "con-authenticity",
-      "con-correlation"
+      "con-authenticity"
     ],
     "placeholder": [
       "con-division-labor",
@@ -60,7 +60,7 @@
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 1835,
+    "review-candidate": 1984,
     "placeholder": 3,
     "draft-short": 3
   },
@@ -88,13 +88,16 @@
     "psychology": {
       "review-candidate": 309
     },
+    "religious-studies": {
+      "review-candidate": 149
+    },
     "sociology": {
       "review-candidate": 445
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 1841,
-    "source nodes": 1841,
+    "data-en.json nodes": 1990,
+    "source nodes": 1990,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

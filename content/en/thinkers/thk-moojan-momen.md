@@ -1,0 +1,62 @@
+---
+slug: "thk-moojan-momen"
+id: "THK-11801"
+type: "مفكر"
+part: "religious-studies"
+level: "متقدم"
+religious_tradition: "Bahá'í Faith"
+study_approach: "Academic critical-historical"
+title: "Moojan Momen"
+en: "Moojan Momen"
+dates: "United Kingdom · 1950–"
+country: "United Kingdom"
+language: "English"
+active_start: 1975
+active_end: "مستمر"
+crumb: "Religious Studies ← Thinkers ← Moojan Momen"
+edges:
+- rel: "belongs_to", target: "Academic Study of the Bahá'í Faith (Baha'i Studies)", target_type: "مدرسة"
+related:
+- id: "thk-the-bab", title: "The Báb (Ali Muhammad Shirazi)", type: "مفكر"
+gaps:
+  - "Details of his professional and academic career: not yet covered"
+  - "His edited volumes in the series on Bábí and Bahá'í history: not yet covered"
+---
+
+# Moojan Momen
+
+A British historian and scholar, a leading historian of the Bábí and Bahá'í religions, who has written on their origins and development in a scholarly rather than purely devotional manner. His intellectual position combines a notable duality: he is a scholar who personally belongs to the Bahá'í community, but in his scholarly writing he adheres to the standards of critical academic history, based on the cross-checking of independent testimonies, rather than a doctrinal defence of the community's account of itself. This position resembles in many respects that of believing scholars who write to rigorous academic standards about their own religious traditions in other fields of religious studies.
+
+## Combining Linguistic Competence with Archival Access
+
+Momen drew on his command of Persian and Arabic and on his access to a range of documents and sources: official Bahá'í sources, Shi'i sources contemporary with the events, and early Western sources such as the writings of the British orientalist Edward Granville Browne, who visited Iran in 1887-1888 and wrote about the Bábí movement. On this basis he constructed a historical periodisation of the founding events: the Báb's declaration of his mission in 1844, his execution in Tabriz in 1850, the divergence between Bahá'u'lláh and his half-brother Subh-i-Azal over leadership of the movement (the two were exiled to Baghdad, then Istanbul and Edirne, after which Bahá'u'lláh was sent to Akka), and the later establishment of the Bahá'í administrative order. Momen compares these conflicting accounts with one another rather than adopting a single official or hostile version exclusively.
+
+## The Bábí and Bahá'í Religions, 1844–1944
+
+His most important reference work is a documentary survey published in 1981, which gathers contemporary Western accounts (diplomatic, missionary and orientalist) of the origin and development of the movement over its first century, with editorial commentary. It is a widely used starting point for study of the movement.
+
+## Later and Encyclopaedic Works
+
+Alongside his foundational historical work, Momen produced broader reference works such as *A Short Introduction to the Bahá'í Faith* (1997) and *The Phenomenon of Religion: A Thematic Approach* (1999). His *An Introduction to Shi'i Islam* (1985) is a standard English-language survey of Twelver Shi'ism, the background from which the Bábí movement arose.
+
+## Distinctive Method
+
+Momen consistently distinguishes between what the official Bahá'í sources say about themselves and what the independent documents contemporary with the events reveal. This allows a critical historical examination that avoids both the trap of the internal promotional narrative and the trap of the hostile polemical rejection that dominated some earlier Shi'i and orientalist writings on the Bábí movement. This methodological distinction is what gives his work an academic credibility that goes beyond his personal denominational position.
+
+## Significance for Comparative Religious Studies
+
+## Other Scholars in the Field
+
+Momen's position as a believing scholar raises the question of how belonging and academic objectivity can be combined. His approach differs from that of scholars such as Denis MacEoin, who studied the Bábí movement from a more externally critical position, and the two have engaged in scholarly exchange over disputed questions of early Bábí history.
+
+## Educational Impact
+
+## The Bahá'í Administrative System
+
+In his general works Momen describes the development of the Bahá'í administrative system after the death of Bahá'u'lláh in 1892, from 'Abdu'l-Bahá to Shoghi Effendi and then the Universal House of Justice (first elected in 1963), noting that authority passed through written testamentary documents. Scholars often contrast this with movements that fragmented over succession.
+
+## Sources
+
+- Momen, M. (1981). *The Bábí and Bahá'í Religions, 1844–1944: Some Contemporary Western Accounts*. George Ronald.
+- Momen, M. (1997). *A Short Introduction to the Bahá'í Faith*. Oneworld Publications.
+- Momen, M. (1985). *An Introduction to Shi'i Islam*. Yale University Press.

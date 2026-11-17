@@ -1459,4 +1459,163 @@ wrk-the-rentier-state-beblawi-luciani: Luciani distinction corrected (allocation
 wrk-the-theory-of-economic-development-schumpeter: Schumpeter career corrected (finance minister 1919, banker, Harvard 1932); translation from 2nd German edition 1926; endogenous-growth/priority overclaims softened; gap reworded to German editions not covered
 wrk-the-use-of-knowledge-in-society-hayek: "tacit knowledge" (Polanyi term) replaced by Hayek's own "particular circumstances of time and place"; length corrected (12 pp); computer-science/citation overclaims softened; Polanyi gap folded into body
 wrk-the-wealth-of-nations-smith: pin-factory figures corrected (<20 vs 48,000 per Smith); invisible hand occurs once noted; Buccleuch tutor detail; sale/translation claims tightened; TMS paragraph added so gaps cleared
+thk-paul-waldau: "speciesism" attributed to Peter Singer as its originator; corrected to Richard Ryder (coined 1970), with Singer named as the populariser
+sch-comparative-religious-gender-queer | Amina Wadud, Qur'an and Woman: year changed from 1999 to 1992 (original OUP publication) in body and sources (RS batch)
+stu-veiling-politics-identity-2005 | 'the Maghrebi chador' changed to 'the Maghrebi haik' (chador is an Iranian garment) (RS batch)
+thk-william-robertson-smith | 'Sir Thomas Adams's Professor of Arabic theology' corrected to 'Sir Thomas Adams's Professor of Arabic' (title of the chair) (RS batch)
+con-sacred-sound-sonic-theology: source crumb field held a stray Python expression (crumb: "..." if 'crumb' in c else "..."); replaced with the standard English crumb.
+con-documentary-hypothesis-wellhausen: source gap named "روبرت أولريتش Robert Alter"; corrected to Robert Alter (no such middle name in the Arabic source).
+con-documentary-hypothesis-wellhausen: source gap named "دان دي هوب Thomas Römer"; corrected to Thomas Römer.
+con-nag-hammadi-lost-christianities: source gap said Pagels (1979) preceded Ehrman (2003) "بعقدٍ" (by a decade); corrected to about two decades (24 years).
+sch-cognitive-science-of-religion: source says 'theological correctness' (الصواب اللاهوتي) for Jason Slone (2004); corrected to 'theological incorrectness', the actual term of Slone's book Theological Incorrectness.
+sch-ethnography-of-religion-fieldwork: source names "Nathalie Ammerman" (ناتالي أمرمان); corrected to Nancy Ammerman (author of Everyday Religion, 2007).
+thk-helena-blavatsky: source says The Theosophist was founded in Adyar; corrected to founded in Bombay in 1879 and later published from Adyar.
+thk-ignaz-goldziher | source called Muhammad Mustafa al-Azami a 'later orientalist' (and garbled his name); he is a Muslim hadith scholar. Rendered as a scholar named Muhammad Mustafa al-Azami.
+dbt-pilgrimage-communitas-vs-contestation | co-editor given as 'John Elsner' and Reframing Pilgrimage dated 2003 (gaps and body); the file's own bibliography and the book (Coleman & Eade, eds., Routledge) give John Eade, 2004. Corrected to John Eade, 2004.
+con-anti-cult-movement-response: Beckford scope (Britain, France, W. Germany, US); CAN bankruptcy wording (Jason Scott case); gap reworded; added Barker 1984
+con-apophatic-mysticism: Pseudo-Dionysius 'probably Syrian'; corrected affirmative/negative direction; removed hyper-agnosia/kenosis, doubtful SEP source; 'David Turner' gap removed; century of philology
+con-architectural-semiotics-sacred: Lindsay Jones/Harvard (not David Jones/Ashgate); softened symbol table; added regional gap section
+con-axis-mundi-sacred-space-eliade: Eliade 1957 original German (Rowohlt), English 1959; removed unverifiable claim about Eliade on Kaaba; gaps updated
+con-brainwashing-conversion-debate: batch-note gaps removed; added origin of term (Hunter, Lifton 1961); sources completed
+con-costly-signaling-theory-of-religion: kibbutz study is Sosis & Ruffle 2003 (games); commune longevity is Sosis & Bressler 2003; attribution fixed; filled-gap note removed; sources added
+con-crossing-dwelling-theory-tweed: corrected Tweed's definition and dwelling/crossing tropes; removed first-person gap; softened field-founder claim
+con-deafferentation-hypothesis-neurotheology: SPECT studies dated/described correctly (Tibetan 2001, nuns 2003), small-sample caveat, gap removed
+con-disease-of-language-muller: dated first formulation to 1856 essay; lectures 1861/1864 citation fixed; verification notes and batch-log gaps removed; added Daphne example, nomina/numina, criticism, Dorson source
+con-documentary-hypothesis-wellhausen: gaps absorbed into body (Gunkel, Noth, Rendtorff, Van Seters; contested status); P redaction wording; Noldeke wording; Prolegomena citation (1878 Geschichte Israels, 1883 retitled)
+con-dream-incubation-religious: removed batch-log gaps; removed 'first study' and anachronistic Edgar-Renberg comparison; clarified istikhara practice
+con-emic-etic-study-of-religion: Pike 1954 publisher fixed (SIL, Mouton 2nd ed. 1967); added Pike vs Harris senses; gaps absorbed; softened McCutcheon/phenomenology wording
+con-form-criticism-gunkel: gaps removed (Bultmann covered, work-file gap dropped); added Dibelius, Gunkel on Genesis legends, Psalms (Einleitung 1933), criticism; softened cultic claim
+con-funeral-ritual-comparative: removed invented Metcalf attribution on Islamic funerals; fixed Hindu/Buddhist meaning column; Hertz citation; gap (Islam vs Hindu) removed as covered by table
+con-guardian-spirit-complex-hultkrantz: Religions of the American Indians English ed. 1979 (Swedish 1967); credited Benedict 1923 for the category; softened hunting-economy claim; batch-log gap removed
+con-healer-patient-relationship: Csordas citation fixed (CMP 1983); removed al-Razi/Ibn Sina 'religious scholar' and 'African shamanism' labels; added medical-pluralism section (Kleinman); gaps reduced
+con-hermeneutics-suspicion-recollection-ricoeur: gaps (batch notes) removed; Symbolism of Evil sourced and its relation to the 1965 framework made chronologically accurate; added English editions; softened Islamic ta'wil comparison
+con-hyperactive-agency-detection: HADD dated to Barrett c.2000 (not 1996); Guthrie 1980 added; batch-log gap removed; garbled 'not yet covered' sentence fixed; chapter reference removed; Heider-Simmel pages
+con-minimally-counterintuitive-concepts: separated Boyer 1994 theory, Barrett-Nyhof (serial retelling) vs Boyer-Ramble (recall); added Norenzayan 2006 and debate; full citations; batch-log gaps removed
+con-modes-of-religiosity-theory-whitehouse: reworked Pomio Kivung fieldwork paragraph (removed invented internal split, dates softened); McCauley & Lawson author order; added Whitehouse 2000; gap reworded
+con-monomyth-heros-journey-campbell: 'Elixir' not Campbell's term (Vogler); Odysseus replaced by Prometheus/Aeneas; removed unsupported claim that researchers applied model to Arabic epics; gap (Turner) absorbed with van Gennep; Segal edition fixed; added Vogler
+con-nag-hammadi-lost-christianities: all gaps (internal atlas notes) removed; softened burial hypothesis; noted non-Christian texts; added Bauer, Pagels, Williams/King critique; Thomas dating wording
+con-narrative-identity-religious: gap covered by revised comparison; replaced simplistic Islam/Buddhism characterisations; credited Ricoeur/MacIntyre; Kelsey reissue noted
+con-ndembu-color-triad-turner: replaced doubtful 'isinzu' with Nkang'a/Nkula/Isoma; softened black and ritual-sequence claims; gap reworded
+con-networked-religion-campbell: five features attributed to 2012 JAAR article/2013 intro, not 2010 book; active_start 2012; fatwa example softened; gap reworded
+con-new-evangelicalism: Schaeffer no longer called a pioneer; Henry added; Ockenga 1947 coinage; active_end; process-note gaps removed
+con-religious-illiteracy: 'coined' softened to 'popularized'; gap removed (British context covered); DOI/OpenLibrary removed
+con-ritual-healing-efficacy: fake 2017 Whitehouse source replaced by Csordas 1983 CMP; n/um and !kia corrected; placebo table softened; Levi-Strauss added; gaps cleared; caveat added
+con-ritualization-bell: Bourdieu habitus/ritual mastery covered, both gaps removed; invented-attribution of example softened
+con-sacred-sound-sonic-theology: Nettl 1983 title is Twenty-nine Issues; Mantra Shastra replaced by nada brahman; hadith/maqamat phrasing softened; 'verified' notes removed
+con-sacrifice-theory-hubert-mauss: sacrifier vs sacrificer; van Gennep kinship covered; Strenski 'revealed' -> 'argues'; Burkert description corrected (Homo Necans 1972); process gaps removed
+con-scapegoat-mechanism-mimetic-desire-girard: Violence and the Sacred ed. fixed (JHUP 1977); Open Library notes removed; process gap removed; Girard Judeo-Christian claim marked contested
+con-textual-theology-narratival: 'Torah and Gospel' for Christianity fixed; Buddhist 'not narrative' fixed; Frei 'narrative authorship' removed; Frei/Lindbeck section added; Kelsey edition noted
+con-tibetan-dream-yoga-milam: invented-PhD gap text removed; process-note gaps cleared; 'sukshma sharira' and lotus-in-throat specifics corrected
+con-totemic-sacrifice-smith-durkheim-influence: invented 'Tribe' entry and 'nusuk' claim replaced by Nilus camel-sacrifice evidence; Smith 1885 added; file-commentary intro and process gaps removed
+dbt-colonial-vs-domestic-ethnography-lived-religion: Trobriands under Australian-administered Papua; claim that McGuire documented this contrast softened; field-renaming overclaim removed; gap reworded
+dbt-comparativism-vs-contextualism-eliade-smith: Eliade/Smith not 'same chair'; Smith 'non-reductionist' overclaim removed; Lincoln added; sources added; process-note gaps removed
+dbt-defining-religion-as-analytic-category: J. Z. Smith did not abandon 'religion' (1998 essay added); Saler positioning corrected; sources added; process-note gaps removed
+dbt-pilgrimage-communitas-vs-contestation: Turner's pilgrimage argument tied to 1978 Image and Pilgrimage (not only Ritual Process); hajj comparison softened; Coleman/Eade described as editors; process-note gaps removed
+dbt-reductionism-vs-non-reductionism-religious-studies: Eliade English ed. 1959 (German 1957); Proudfoot and Segal covered in body; HADD example fixed; process gaps removed
+dbt-religion-as-category-aboriginal-australia: Stanner source titles fixed (White Man Got No Dreaming 1979; On Aboriginal Religion); Stanner's own use of 'religion' noted; analytic-note gap removed
+dbt-ritual-competence-vs-modes-of-religiosity: unverifiable Barrett 2004/Benavides 2005 review claims and DOIs removed; special agent/patient (ritual form hypothesis) corrected; Lawson-McCauley 1990 and Whitehouse 2004 sources added
+dbt-sacred-books-of-the-east-orientalism-critique: Said's scope (Near East) clarified; series contents specified (Palmer Qur'an, Clarendon Press); King 1999 added; scope-note gaps removed
+dbt-segal-critique-campbell-monomyth-methodology: Segal Campbell intro is 1987 (rev. 1990); Segal-specific claims softened; unverifiable Arab-Islamic sections (incl. anachronistic Tabari/Ibn Hisham claim) removed
+dbt-thick-description-vs-phenomenological-description: Islam Observed first published by Yale UP 1968 (Chicago 1971 reissue); Asad covered; Geertz 1966 added
+fld-religious-studies: Eliade Sacred and Profane dated German 1957 / English 1959
+sch-academic-buddhist-indic-studies: removed closed gaps; Lopez 1995 is an edited volume; Lotus translation dated 1852; Conze 'three phases'; Bilawhar source softened; Barlaam/Josaphat via Georgian/Greek
+sch-academic-hindu-studies-flood-lipner: removed closed gaps; Hindu etymology via Sanskrit Sindhu; softened Flood 'bodily memory' and Pollock dating; added W.C. Smith source
+sch-academic-islamic-studies-orientalism-critique: removed filled gaps; Schacht 'backward growth of isnads'; Motzki not 'statistical'; al-Siba'i responded to Goldziher and other Orientalists; added Arkoun source
+sch-academic-native-american-religious-studies: gaps reworded to 'not yet covered' form; Benedict 1923 analysed (not formulated) guardian spirit; Hultkrantz Swedish/English dates clarified; Vecsey work named
+sch-academic-study-religion-sport: active_end set to ongoing; Baker 'a leading figure' not 'most prominent founder'; removed closed gaps, added civil-religion vs actual practice sentence; added Price source
+sch-animals-religion-studies-waldau-patton: removed gaps (covered or non-topical), added religion-and-ecology sentence; Gross is food/kashrut not 'legal'; Ambros subject reworded; added Ambros, Hobgood-Oster sources
+sch-cognitive-science-of-religion: removed gaps already covered or non-content; added Guthrie, Lawson & McCauley, Norenzayan sources
+sch-comparative-religious-family-kinship: removed descriptive pseudo-gaps; Fortes did not 'introduce' ancestor worship; Bohannan Tiv sentence reworded; kafala/Jewish clause removed; suckling schools caveat; added Schneider source
+sch-comparative-religious-fasting-studies: Shaw affiliation removed; Bell reading softened; Moller Ramadan in Java dated 2005; Diamond dated 2004 and thesis softened; Prebish thesis invented, rewritten around Uposatha; removed bracketed analytical note and meta 'planned branches' claims; gaps cleaned
+sch-comparative-religious-food-diet: removed descriptive pseudo-gaps; Pink edited a volume on Muslim consumption (not a halal specialist); suhur/iftar order fixed; Catholic/Orthodox fasting differentiated; Thanksgiving not 'Christian'
+sch-comparative-religious-gender-queer: Mernissi French original/English title clarified; Wadud publication details corrected; gap reworded; added Kugle, Mahmood sources
+sch-comparative-religious-music-studies: Beck 'established the field' softened; Sacred Sound traditions not 'six' fixed; removed unsourced 'musical silence' section; removed meta gaps; added Sachs source
+sch-death-ritual-religious-studies: removed closed/meta gaps; continuing-bonds sentence corrected; Davies survey traditions softened; added Hertz, van Gennep, Parry, Howarth sources
+sch-ethnography-of-religion-fieldwork: removed closed/meta gaps; Hall did not coin 'vernacular religion' (reworded, Lived Religion in America 1997); added Hall, McGuire sources
+sch-feminist-study-of-religion: removed closed/meta gaps; Wadud Qur'an and Woman dated 1992 (OUP ed. 1999), 'first' softened; added Daly 1968 source
+sch-food-religion-studies: removed closed/meta gaps; Griffith affiliation removed; Maimonides explanation described as health-based; added Bynum, Rosenblum, Khare, Fischer sources
+sch-founding-comparative-religion-science-of-religion: removed ~25 closed/meta gaps; softened European institutionalisation sentence (Geneva, Brussels, Paris EPHE 1886)
+sch-higher-criticism-biblical-studies: removed closed/terminological gaps; Spinoza sentence corrected; Abu Zayd sentence made precise; Rendtorff dated
+sch-literature-religious-narrative: removed meta gap; al-Jahiz's nazm work is lost (not I'jaz al-Qur'an); Kermani German title/English 2015; added Auerbach source
+sch-material-religion-studies: active_end set to ongoing; Morgan's Visual Piety centres on Sallman's Head of Christ, not 'Good Shepherd'; removed first-person file commentary and closed gaps; added Material Religion journal sentence
+sch-mimetic-theory-violence-sacred-religion: removed closed/meta gaps; removed unverifiable Open Library ID parentheticals; Schwager German title/English 1987; expanded sources (Girard, Schwager, Violent Origins, Burkert)
+sch-myth-theory-religious-studies: removed closed/meta gaps; Asad critiques category 'religion' not 'myth'; Blumenberg 'absolutism of reality'; Lévi-Strauss 1955 Oedipus sentence replacing vague line; Eliade dates; added Eliade, Malinowski, Asad sources
+sch-new-religious-movements-cult-debate: removed filled gaps; cult term genealogy corrected (Weber/Troeltsch church-sect typology, Becker 1932 added cult)
+sch-phenomenology-of-religion-otto-eliade: removed closed/meta gaps; Schimmel not 'trained in Bonn'; removed unverifiable Arabic-translator claim for Eliade; Eliade Patterns French 1949/English 1958; Van der Leeuw German title; added Van der Leeuw, Smart sources
+sch-psychology-of-religion-james-freud-jung: removed filled/meta gaps; James Sufi-material claim softened ('first' removed); added Starbuck, Allport, Rizzuto sources
+sch-religion-digital-technology: removed unverifiable Quaker example, "convergent practice" attribution, and two doubtful 2024 sources (Hutchings, Campbell RSR); added Campbell 2017, Hjarvard 2008, O'Leary 1996 sources
+sch-religionsgeschichtliche-schule: removed editorial gap note (covered in body); Kümmel edition fixed; softened "refuted" to "challenged"
+sch-ritual-theory-religious-studies: removed editorial gaps; Smith travel dates broadened; Evans-Pritchard critique reworded; Année sociologique link added
+sch-shamanism-comparative-category: removed editorial gap; fixed garbled kahin/'arraf sentence; softened Lewis characterization
+sch-theosophical-society: removed editorial gaps; active_end set to ongoing; Point Loma date, Waldorf claim and Hammer strategies softened; SPR 1885 sentence moved into body; Hanegraaff source added
+stu-bursi-touch-black-stone-2022: removed process/audit-note gaps and unverifiable Lange & Bursi volume, SENSIS and polemic claims (women/sects); corrected attribution of the title quotation; added Coleman & Elsner source
+stu-cognitive-templates-boyer-ramble-2001: removed claim of single-culture Barrett-Nyhof contrast and wrong "1996" citation; removed unverifiable Nepal Hindu/locally-rooted-list details; softened results; gaps reduced
+stu-conceptualizing-nonnatural-entity-barrett-keil-1996: corrected method (comprehension/recall, not response times); softened "first direct evidence" claim; added Barrett 1998 Hindu replication; removed Open Library id
+stu-kibbutz-religious-secular-cooperation-sosis-2003: major fix - Sosis & Bressler 2003 studied 19th-century American communes, not kibbutzim; rewrote body, added Sosis & Ruffle 2003 kibbutz study
+stu-music-therapy-religious-contexts: removed unsupported study_year/design fields and claims of consistent findings/care-satisfaction; softened history; added Ghazali source
+stu-pomio-kivung-fieldwork-whitehouse-1995: removed doubtful fieldwork years and "young members/terrifying" details, reworded doctrinal/imagistic contrast, noted cargo-cult label, removed editorial gaps and OL id, added Seshat sentence and Modes of Religiosity source
+stu-ramadan-fasting-physiology-culture-2010: Trepanowski & Bloomer reviewed religious fasting generally (not only Ramadan); softened claims on recovery and day length; removed doubtful Sarri & Kafatos source and placeholder sources block; active_end set to 2010
+stu-spreading-nonnatural-concepts-barrett-nyhof-2001: third category is "bizarre" not excessive violation; removed claimed inverted-U confirmation and invented cultural-differences claim; gap removed
+stu-vegetarianism-india-religion-2008: fixed Buddhist meat rules, Ashoka edicts, dhabiha, softened survey claims (Yadav & Kumar 2006); removed unverified urban-sample note and placeholder sources
+stu-veiling-politics-identity-2005: fixed garbled Saudi/Iran sentence, French laws, softened El Guindi "refuted"; added Mahmood 2005; removed placeholder sources
+thk-ake-hultkrantz: English translation of Religions of the American Indians is 1979 (Swedish orig. 1967); guardian-spirit concept not his invention (Benedict 1923), dissertation 1953 added; removed invented "continental/tribal religion" terms and organisation claims; editorial gaps removed
+thk-andrew-newberg: post corrected (Marcus Institute of Integrative Health); Tibetan Buddhist meditators; softened hardwired/evolution and Islamic-studies claims; added glossolalia SPECT study; editorial gaps removed
+thk-bart-ehrman: removed editorial gaps; added professorship, Metzger co-authored 4th ed., Loeb Apostolic Fathers, Orthodox Corruption sources; softened Nicaea and blog-charity claims
+thk-bruce-lincoln: Caleb H. Wood chair invented -> generic named chair at Divinity School; Theses on Method 1996 and Emerging from the Chrysalis 1981 added; softened Holy Terrors/field claims; editorial gaps removed
+thk-bruno-nettl: born Prague not Vienna, died 2020 (active_end fixed); taught Wayne State then Illinois (not Indiana school); 1983 title was Twenty-nine Issues; did not name ethnomusicology; Seeger not his student; removed invented authenticity concepts and Afghanistan/Arab fieldwork; rewrote
+thk-catherine-bell: invented "Bynum Thatcher" chair removed; softened Chinese/Christian articles and conclusion; gaps removed
+thk-christopher-partridge: removed unverifiable Bergen post, "coined occulture", Sylvan "later used", Gleig review; added vol. 2 source; trimmed speculative conclusion; gaps removed
+thk-eileen-barker: removed Anglican-commissioned study claim, courts claim and unverified Richardson source; Professor Emerita; added 1995 JSSR address; trimmed conclusion; gap removed
+thk-ernst-troeltsch: birthplace Haunstetten; Kleine Göttinger Fakultät; removed pseudo-quotation of Ibn Khaldun; Weber relationship clarified; gap removed
+thk-eugene-burnouf: dates for Avesta/Old Persian/Essai sur le Pali added; Collège de France 1832; removed Semitic claim and garbled Lopez source (Curators of the Buddha 1995); trimmed conclusion; gap removed
+thk-gershom-scholem: replaced gap notes; softened chair/institute claims, 'prophet' -> messianic claimant, Idel not strictly student, removed Eliade/Schacht comparison
+thk-guy-beck: removed assistant-professor claim, Weiner claim, 'Verified via Open Library' notes; Alternative Krishnas is edited volume; merged duplicate sections; softened founder claim
+thk-hans-frei: normalised gap wording, fixed duplicated phrase, softened Yale post/Niebuhr supervision
+thk-harvey-whitehouse: fixed Oxford post (Social Anthropology), fieldwork dates softened, splinter-group description, Seshat co-founders, replaced erroneous McKay/dysphoric-rituals claim with Martin/Laidlaw 2004 volumes, added Arguments and Icons; gaps cleared
+thk-heidi-campbell: corrected RSST four dimensions, networked religion attribution, removed unverifiable birth year/Edinburgh/most-cited/NMRCC claims, cleared meta gaps, added 2021 Tsuria vol and Playing with Religion source
+thk-helena-blavatsky: first husband was an official not officer; Olcott meeting in Vermont 1874; HQ moves; Hodgson/Harrison covered and gaps cleared; removed Illuminationist claim, Open Library notes
+thk-henry-corbin: Heidegger translation was Qu'est-ce que la métaphysique? (1938) and not first in full; Istanbul dates 1939-45; Tehran dept 1946; removed unverifiable Eliade/Puech founding claim and Tehran institute claim; covered gaps with Wasserstrom/Eranos; added source
+thk-hermann-gunkel: fixed career order (Göttingen, Berlin, Giessen, Halle), removed unverified pastor-father/Ritschl claims, redaction criticism not contemporary pillar, Sagen der Genesis is Genesis intro, RGG co-editor Zscharnack, Goldziher not 'later', added Schöpfung und Chaos 1895; gaps cleared
+thk-ignaz-goldziher: Patai translated diary (not biography); Neolog secretary detail; merged duplicate hadith/conclusion sections; Richtungen title/description corrected; softened 'father' claim; gaps cleared; added Richtungen source
+thk-james-beckford: softened moral-panic claim, replaced speculative Islam-in-prisons section with real Muslims in Prison (2005), removed leadership/subfield-founding overclaims, added sources, cleared gaps
+thk-jonathan-z-smith: Anderson professorship name, Shahrastani date/wording, Doniger characterisation, Dying and Rising Gods wording
+thk-joseph-schacht: removed Bonn, corrected career (Freiburg/Königsberg/Cairo/Oxford/Leiden/Columbia), removed corrupt 'Nabia Abu Zayd', fixed Juynboll/Motzki description, al-Azami critique description, Studia Islamica co-founder with Brunschvig; gaps cleared
+thk-julius-wellhausen: Darwinian-Hegelian claim softened, career Halle/Marburg/Göttingen, de Wette dating, removed redundant paragraphs, gaps cleared
+thk-justin-barrett: Barrett-Keil 1996 finding corrected (adult online processing), Nyhof finding softened, removed 'missionary'/colleague-criticism/first-to claims, HADD credited with Guthrie, added Barrett-Keil source, gap cleared
+thk-karen-mccarthy-brown: Alourdes Margaux spelling, removed unverified 1934 birth year, award, 'think with spirits' quote, five generations, supervision/legacy claims, Métraux 'structuralist' label; gaps reworded
+thk-kelly-bulkeley: gap cleared; softened database 'unprecedented', founding editor of Dreaming -> editor, hadith/dream classification worded, removed promotional claims; publisher fix
+thk-max-muller: henotheism 'popularised' not introduced, Burnouf teacher wording, Aryan/dictionary remark
+thk-mircea-eliade: Sacred and Profane original German 1957 (French 1965); Kitagawa was colleague not student/successor, journal co-founders incl. Charles Long; novel Forbidden Forest not Sebastian; added Eternal Return; dropped Smart; gaps cleared
+thk-moojan-momen: active_end set to ongoing; replaced nonexistent The Bahai Faith (1999) with real titles; Browne visit 1887-88; Bab/Azal exile sequence; removed overclaims; gaps reworded
+thk-muhammad-mustafa-al-azami: birth year 1930, removed Azhar professorship claim, King Faisal Prize year 1980 (not 2000), isnad-cum-matn attributed to Motzki/Schoeler not al-Azami, removed unverifiable Saudi curricula section, qur'anic text work dated 2003 and caveated, gaps cleared
+thk-pascal-boyer: removed unverified birth year, softened Boyer-Ramble results and best-seller/influence claims, added page range, gap cleared
+thk-paul-waldau: removed unverifiable programme-building, Patton-network, legislation and future-of-field sections; clarified legal/Oxford background; added Animal Rights (2011); gap cleared
+thk-robert-orsi: Lived Religion in America was edited by Hall (Orsi contributor); named Nagle chair; added History and Presence source
+thk-rudolf-otto: Weimar-constitution drafting claim corrected to Prussian constituent assembly; Marburg museum date 1927 not 1930s; removed Schimmel/Ibn Arabi claim; Mysticism East and West dates; museum wrongly listed among works removed; meta gaps cleared
+thk-rudolf-steiner: Krishnamurti wording, General Secretary of German section, Goetheanum fire/rebuild, removed speculative Sufi parallel, softened Darwin/Hegel influence claim; meta gaps cleared
+thk-scott-atran: removed gaps already covered by body (political fieldwork, Whitehouse note)
+thk-t-w-rhys-davids: removed unsupported "longest-running" and "more than a century and a half" claims; Burnouf also studied Pali; Levant/Egypt colonial claim removed; gaps cleared
+thk-the-bab: Subh-i Azal removed from Badasht attendees; Western eyewitness claim softened; added Bayan calendar/vahid note; gaps cleared
+thk-vine-deloria-jr: removed Hijra from Deloria's temporal-events list; Said comparison softened; gap cleared
+thk-william-robertson-smith: Kinship and Marriage publisher corrected to Cambridge University Press; Cambridge/Britannica/Almoner chronology fixed; Durkheim sacred/profane attribution and totemism wording softened; Frazer link added; gaps cleared
+wrk-ambivalence-of-the-sacred-appleby: removed unverifiable "strong religious actors" concept, Kroc directorship claim, State Dept claim, specific case-study list; fixed active_end; meta gap removed
+wrk-communion-of-subjects-waldau-patton: Aquinas characterization fixed; removed doubtful citation list and DOIs; Waldau Specter of Speciesism is 2002 (earlier, not later); added Ambros 2012
+wrk-crossing-and-dwelling-tweed: replaced misquoted definition of religion with Tweed's actual definition (paraphrased); removed unverified AAR award and digital-religion claims; Levitt term social remittances
+wrk-dreaming-in-the-worlds-religions-bulkeley: removed unverifiable statistics/chapter claims (flying/falling, Egypt chapter); Young (1999) is earlier not later; rewritten conservatively
+wrk-godwired-wagner: removed invented three-axes summary, Catherine Bell and WoW claims; fixed active_end; rewritten conservatively
+wrk-holy-anorexia-bell: removed psychiatrist-consultation claim, al-Iraqi "edited" Ihya claim; Shaw description fixed; active_end fixed
+wrk-holy-men-hunger-artists-diamond: bar Yohai spelling; removed unverifiable Diamond article citation; publication date note; thesis softened
+wrk-image-and-pilgrimage-turner: Bernadette was a peasant girl not a nun; Guadalupe/Juan Diego; removed invented "Michael Wiener"; liminoid note; Turner career (Virginia) added
+wrk-imagining-religion-smith: fixed duplicated/garbled quote; removed unverified Jonestown conclusion and millenarianism claim; gaps reworded
+wrk-jewish-dietary-laws-ancient-world-rosenblum: removed unverified AJS Review reception, Rosenblum Semitic-roots attribution, Zad al-Ma'ad claim; Islam comparison reworded
+wrk-mama-lola-mccarthy-brown: removed unverified awards, series volume, five generations, 2001 chapter details; Metraux/Brown descriptions fixed
+wrk-our-lady-of-the-exile-tweed: removed sugarcane-hat claim; replaced invented definition quote; softened theory-basis claim
+wrk-playing-with-religion-in-digital-games-campbell-grieve: removed unverifiable section structure, Halo/Zelda/Okami chapters, contributor counts; fixed active_end; rewritten
+wrk-politics-of-piety-mahmood: removed false claim Asad was Foucault's student/supervisor; softened Ghazali, al-Azhar, movement description
+wrk-question-of-the-animal-and-religion-gross: removed unverified Islamic halal details; Agriprocessors details corrected (Postville, timeline); gaps cleared
+wrk-religion-and-film-plate: publisher fixed to Wallflower; removed invented halo-lighting/Campbell/concession claims; rewritten
+wrk-trumpet-shall-sound-worsley: removed unverified doctoral-thesis/Gluckman claims, Cold War career story, term-origin claim; added Worsley dates; rewritten
+wrk-visual-piety-morgan: removed invented cognitive-psychology and global-spread claims; softened founding claims; Material Religion 2005
+wrk-when-religion-meets-new-media-campbell: five features of networked religion belong to later work not the 2010 book; replaced with religious-social shaping of technology; removed unverified claims; fixed active_end
+wrk-why-we-dance-lamothe: removed unverifiable Nietzsche-critique, Mevlevi/possession examples, career and reception claims; rewritten
 thk-habermas: removed an unverifiable death claim (March 2026) and set dates to born 1929; confirm current status before adding
