@@ -1,0 +1,68 @@
+---
+slug: "wrk-model-penal-code"
+id: "WRK-10078"
+type: "عمل / كتاب"
+part: "legal-theory"
+level: "متقدم"
+title: "Model Penal Code"
+author: "American Law Institute"
+publication_year: 1962
+original_language: "English"
+en: "Model Penal Code"
+crumb: "Legal Theory ← Works ← Model Penal Code"
+legal_tradition: "Analytical philosophy of criminal law"
+active_start: 1962
+active_end: "مستمر"
+edges: []
+related:
+- id: "con-mens-rea-criminal-intent", title: "Mens Rea (Criminal Intent)", type: "مفهوم"
+- id: "con-insanity-defense-mnaghten", title: "The Insanity Defense and the M'Naghten Rule", type: "مفهوم"
+- id: "sch-criminal-law-philosophy-responsibility", title: "Philosophy of Criminal Law and Responsibility", type: "مدرسة"
+gaps:
+  - "Later revisions of the Code (including the revision of the sexual offences provisions approved in 2021): not yet covered"
+---
+# Model Penal Code
+
+A model legislative text (not binding law in itself) drafted by the **American Law Institute** in 1962 with the aim of unifying and organizing American criminal law, which was then scattered across fifty states with conflicting rules. Most states later adopted it in similar forms, and it became **the most influential de facto reference** in shaping contemporary American criminal law.
+
+## The Methodological Contribution: Organizing Mens Rea
+
+The Code's most notable theoretical contribution is its systematic classification of the levels of mental state required for criminal liability: four grades (purposely, knowingly, recklessly, negligently). These replaced the scattered terminology that prevailed in traditional common law (malice, intent, wilfulness, and so on), and provided a unified analytical framework applicable to any offence regardless of its historical name.
+
+## The Standard for the Insanity Defence: "Substantial Capacity"
+
+In section 4.01, the Code proposes an intermediate standard for the insanity defence that combines the cognitive dimension (the traditional M'Naghten test) with the volitional dimension (the irresistible impulse test). A defendant is excused if, because of mental disease or defect, they lack **"substantial capacity"** either to appreciate the wrongfulness of their conduct or to conform their conduct to the requirements of the law. This standard was adopted by several American states as an alternative to the pure M'Naghten standard.
+
+## Impact
+
+The Code's influence has gone beyond American borders to become a comparative reference cited in debates on criminal law reform worldwide, and a model for how the analytical principles of criminal law theory (such as the precise classification of levels of intent) can be turned into a practical legislative text that can be directly applied.
+
+## The Historical Context of Its Drafting
+
+The Code was the product of a project that lasted about ten years (1952–1962) overseen by the American Law Institute. Its principal reporter was **Herbert Wechsler** of the Columbia Law School, assisted by a team of judges, law professors and representatives of the public prosecution. The immediate motive was the chaos left by the accumulation of common law criminal rules across different states, where the definitions of basic offences (such as murder, theft and rape) differed sharply from one state to another, and uniform standards of criminal responsibility were absent. The Code was not itself binding law, but a model text (a *Model*) proposed by the organization to legislators in each state, on the pattern of what the Institute had previously done in areas of civil and commercial law.
+
+## The General Structure of the Text
+
+The Code consists of four main parts. Part I sets out general provisions (the definition of an offence, the elements of responsibility, and general defences such as self-defence and duress). Part II details specific offences (against persons, property and public order). Part III deals with sentencing and its individualization. Part IV addresses the organization of correction, including parole. This systematic organization in itself represents a break from the cumulative, haphazard character that had marked American common law criminal law before it.
+
+## Reception and Criticism
+
+The Code received wide positive reception from academic and judicial circles, and a majority of American states revised their criminal codes in the following decades under its influence, adopting its provisions to varying degrees. It nonetheless did not escape criticism. The standard of "substantial capacity" in the insanity defence was regarded as vague, and was said to have expanded the scope of exemption from liability. After the attempted assassination of President Reagan in 1981 and the acquittal of John Hinckley, Congress passed the Insanity Defense Reform Act of 1984, which narrowed the federal standard and dropped the volitional prong. Some of its provisions on sexual violence offences were also criticized as outdated, which led the Institute later to undertake a partial revision of those provisions. Nevertheless, its most important achievement remains the imposition of a unified analytical language (particularly the hierarchy of criminal intent), which has become an integral part of the teaching of criminal law in American universities to this day.
+
+## A Comparative Note
+
+Unlike many texts of legal theory that intersect with Islamic jurisprudence on questions of intent and responsibility (such as the jurists' distinction between deliberate killing, mistaken killing and quasi-deliberate killing in the chapter on homicide and injuries), the Model Penal Code is a purely American text that arose within the common law tradition. It has no known direct engagement with the sources of Islamic jurisprudence or usul al-fiqh. The two classifications of degrees of culpability (deliberate, mistaken and quasi-deliberate on one side; purposely, knowingly, recklessly and negligently on the other) are not equivalent, but they can serve as a point of comparison in comparative studies of criminal law. This comparison is drawn by this atlas, not by the Code's drafters.
+
+## Strict Liability and the Rejection of Crimes without Mens Rea
+
+Among the Code's precise methodological contributions is its principled rejection of the idea of **strict liability crimes**, which convict the defendant merely upon the occurrence of the material act without any need to prove an accompanying mental state. Section 2.02 requires a culpable mental state for every material element of an offence; where the statute does not specify one, it is presumed that purpose, knowledge or recklessness suffices (negligence applies only where the definition so provides). Only minor "violations" (section 1.04 and 2.05), which carry no imprisonment, may be imposed without culpability. This position reflects a deep philosophical commitment to the principle that criminal punishment, unlike an administrative fine, presupposes moral blame that may be directed only at someone who had a culpable will to some degree.
+
+## The Debate on a Unified Legislative Model in a Federal System
+
+The adoption of the Model Penal Code by multiple states in different forms raises a theoretical debate about the usefulness of unifying criminal law in a federal system that is essentially founded on a plurality of legislative sovereignties among the states. Some states adopted the Code almost in its entirety (such as New Jersey and Oregon), while others borrowed only specific parts from it (such as the classification of levels of intent alone), retaining their own punitive traditions. This produced what might be called a "family" of closely related criminal laws rather than a genuinely uniform law. This reflects the enduring tension between the desire for theoretical unification and the requirements of local legislative autonomy.
+
+## Sources
+
+- American Law Institute. *Model Penal Code*. Official Draft, 1962.
+- American Law Institute. *Model Penal Code and Commentaries*. 1980–1985.
+- Perlin, Michael L. *The Jurisprudence of the Insanity Defense*. Carolina Academic Press, 1994.

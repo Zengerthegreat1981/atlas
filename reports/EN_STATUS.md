@@ -116,3 +116,9 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
   (`fld-religious-studies` root, theory & method, ritual/myth/symbol, religion & society); all 149 fact-checked by Sonnet.
 - Reading paths added to `fld-religious-studies` (grouped by type). Same caveat: machine-assisted, no web access; human review required —
   particularly for entries touching living religious traditions and Islamic studies.
+
+---
+# Pass 8 — Legal theory v1 (2026-11-18), Haiku translation + Sonnet fact-check
+- Scope `reports/scope/legal-theory-scope.md`: 122 entries translated by Haiku from AR assets, 4 field intros by Sonnet (`fld-legal-theory` root,
+  rights & justice, legal reasoning, comparative & Islamic legal thought); all 126 fact-checked by Sonnet. Entries are legal *theory*, not legal advice.
+- Reading paths auto-generated (`scripts/scope/auto_paths.py`, grouped by type). Same caveat: machine-assisted; human (legal-expert) review required.

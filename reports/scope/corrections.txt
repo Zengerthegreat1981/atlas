@@ -1618,4 +1618,147 @@ wrk-trumpet-shall-sound-worsley: removed unverified doctoral-thesis/Gluckman cla
 wrk-visual-piety-morgan: removed invented cognitive-psychology and global-spread claims; softened founding claims; Material Religion 2005
 wrk-when-religion-meets-new-media-campbell: five features of networked religion belong to later work not the 2010 book; replaced with religious-social shaping of technology; removed unverified claims; fixed active_end
 wrk-why-we-dance-lamothe: removed unverifiable Nietzsche-critique, Mevlevi/possession examples, career and reception claims; rewritten
+thk-ronald-coase: 'after twenty-four years' (1937 to 1960 is 23 years) corrected to 'twenty-three years'
+thk-ronald-coase: source names 'Arnold Black' as Coase's LSE teacher; the LSE economist is Arnold Plant, rendered as Arnold Plant
+sch-criminal-law-theory: source dated the Hart-Devlin debate to 'the 1960s'; corrected to 'the late 1950s and early 1960s' (Devlin's lecture 1959, Hart's reply 1963)
+thk-ronald-dworkin: source gives the title of 'Is There Really No Right Answer in Hard Cases?' as an Arabic gloss 'هل الوضعيةُ فلسفةٌ متماسكة؟' that does not match the English title; English title used, gloss dropped
+thk-ronald-dworkin: 'مزاد اليرقان (Envy Test)' is a garbled rendering; rendered as the envy test within a hypothetical auction
+thk-john-austin-jurisprudence: the 'command theory' section was duplicated in the source; kept once (with the fuller second copy's sentence on strict and metaphorical law)
+con-riba-legal-doctrine: bibliography annotation of Qaradawi's Fiqh al-Zakat as a work on forbidden financial transactions was not supported by the title; annotation omitted, citation kept
+wrk-pure-theory-of-law-kelsen: source claimed Kelsen emigrated from Austria after the Anschluss (1938); he had left Austria in 1930; that clause removed, emigration from Germany kept
+sch-critical-race-theory-law|omitted garbled sentence in Intersectionality section (source: 'وثّقه الأطلسُ فعلياً في (قسم الفلسفة، النسوية التقاطعية) قبل هذه الدفعة') - no meaningful content, not translated
+wrk-al-hidaya-marghinani: source garbled token "(الدارسات)" omitted from the sentence on the Dawrat al-Hadith curriculum; sentence kept
+thk-oliver-wendell-holmes-jr: source attributed the quote 'The life of the law has not been logic: it has been experience' to 'The Path of the Law' (1897); it is the opening line of The Common Law (1881). Translation attributes it to The Common Law.
+thk-oliver-wendell-holmes-jr: omitted garbled sentence in the Common Law section (said the book opened with a sentence 'no less famous than his later sentence' and that the sentence's roots lie in this book; self-contradictory).
+sch-feminist-jurisprudence: omitted garbled self-referential clause (refers to the atlas's own earlier philosophy-section entry, "documented by the atlas ... before this batch"); Gilligan claim kept.
+thk-carl-schmitt: birthplace region corrected from "Catholic Rhineland" to Westphalia (Plettenberg lies in Westphalia).
+thk-carl-schmitt: "departure from the Nazi Party in 1936" rendered as removal from his prominent posts in 1936 (matches the file's own gaps note; he was not expelled from the party).
+thk-hla-hart: "dean" of Brasenose College rendered as Principal (the college head).
+thk-herbert-packer: NOTE not corrected: heading says "six criteria" but four are listed in the source; kept as written.
+sch-legal-positivism-modern: NOTE not corrected: gaps items disagree (Raz/Coleman/Hart-Devlin marked both as added in batch 12 and as not yet covered); kept as written.
+thk-wael-hallaq: source said he moved to Canada for graduate studies at the University of Washington; corrected to the United States (the University of Washington is in Seattle, USA; he later taught at McGill in Canada).
+thk-lon-fuller: co-author named 'William Bordeaux' in source; corrected to William Perdue (co-author of Fuller and Perdue, 'The Reliance Interest in Contract Damages', 1936).
+con-civil-law-codification: source named 'صامويل سافينيي' (Samuel Savigny); corrected to Friedrich Carl von Savigny (the German Historical School jurist).
+con-ahliyya-legal-capacity-usul: softened Sarakhsi dating/priority claims; fixed Hanafi partial-capacity rule (mixed transactions need guardian consent); removed 'lack of discernment' double-listing; reworded hadith as report not verbatim quote; corrected M'Naghten wording; softened Sanhuri/Zarqa attribution; trimmed uncertain reprint detail; reworded gaps
+con-civil-law-codification: BGB date (adopted 1896, in force 1900); Sanhuri code description (not just Roman-French; in force 1949); active_start 1804; added Savigny 1814/Thibaut and Bentham coinage; reworded gap
+con-coase-theorem: corrected Calabresi affiliation (Yale not Chicago); cheapest-cost-avoider attributed to Calabresi; added Calabresi-Melamed 1972, Nobel 1991; removed vague 'law and society' critics; deleted gap (Stigler already in body)
+con-counter-majoritarian-difficulty-bickel: added Bickel passive virtues and Dworkin moral reading; clarified Waldron position; judges hold office during good behavior; reworded gap; added Dworkin source
+con-criminalization-theory: Feinberg did not reject offense principle (fixed; four volume titles); Packer criteria restated; Husak constraints restated (not 'four'); Duff project is a single 2014 volume with named co-authors (not multi-volume); active_start 1968; softened ta'zir/maslaha passage; added sources
+con-gate-of-ijtihad-debate-hallaq: named Schacht/Snouck Hurgronje as proponents, added concrete later mujtahids with dates, qualified Hallaq's claim (madhhab-bound practice acknowledged), 'early 4th c. AH'; reworded gap; added Schacht source
+con-gharar-in-contracts: replaced vague hadith claim with bay' al-hasat/gharar (Muslim) and munabadha/mulamasa; corrected attribution of takaful alternatives (not Vogel/Zuhayli inventions); added school tendencies and Ibn Taymiyya/Ibn al-Qayyim; reworded gaps; softened Zuhayli edition date
+con-grundnorm-basic-norm-kelsen: removed process-note gap; replaced vague revolution cases with Dosso 1958, Matovu 1966, Madzimbamuto 1968, Asma Jilani 1972 (earlier dates 1960s-80s wrong); added Hart rule of recognition section and Vaihinger fiction; clarified Mawardi imarat al-istila'; added Hart source
+con-hukm-taklifi-wadi-usul: corrected garbled gap about fard/wajib (Hanafi distinction explained in body); added makruh tahrim/tanzih; corrected Hart analogy (power-conferring rules, not rule of recognition); noted later-classical formalization; reworded gaps
+con-ifta-mufti-legal-authority: clarified non-binding fatwa/layperson rule; added Ebussuud Efendi, Wansharisi death date, Egypt Dar al-Ifta 1895, collective bodies (IIFA 1981, ECFR 1997); reworded gaps
+con-ijtihad-usul: removed duplicated consensus condition; added fard kifaya, Mu'adh and judge's-reward reports; absorbed second gap into body; added Hallaq 1984 source
+con-ikhtilaf-juristic-disagreement: removed process-note gap and vague Ash'ari/Mu'tazili gap claim; attributed mujtahid-reward to judge report; added Ibn Taymiyya tanawwu'/tadadd, al-Tabari, Ibn Rushd; softened Abou El Fadl term and hadith-grading wording
+con-insanity-defense-mnaghten: removed six process-note gaps; quoted M'Naghten formula accurately (disease of the mind; Tindal CJ; Drummond/Peel); Durham overruled by Brawner 1972; added Utah, Hinckley/IDRA 1984, English statute; added Hart source
+con-istihsan-juristic-preference: removed process-note gap; removed unsupported 'six bases' claim for Sarakhsi (al-Mabsut -> Usul) and invented Qarafi defense of istihsan; Shatibi treated as Maliki jurist; Ghazali/Shafi'i positions reworded; replaced Qarafi Furuq source with Sarakhsi Usul and Shatibi Muwafaqat
+con-judicial-review: replaced vague 1789-1801 claim with Federalist 78 and Marbury s.13; Kelsen/Austria 1920; added German court 1951 and UK weak-form review; active_start 1803; reworded gap
+con-law-as-integrity-dworkin: Hart was not Dworkin's teacher (predecessor in chair); corrected fit/justification (threshold of fit, so no 'no mechanism' claim); added Hercules origin (Hard Cases 1975), Riggs v Palmer, Hart Postscript, integrity's two aspects; deleted Hercules gap (covered); hedged Shatibi comparison
+con-legal-families-comparative-law: Zweigert-Kotz families corrected (Nordic/Germanic/Romanistic; their term is style), title fixed; Glenn work named; added Arminjon-Nolde-Wolff 1950-51; active_start 1950; reworded gap
+con-legal-personality: added Brinz/Kelsen/Salomon; hedged waqf as juridical person (scholarly dispute); replaced 'trade unions' with cooperatives (Gierke Genossenschaft); added Whanganui 2017 and Ganges/Yamuna stay; reworded gaps
+con-legal-transplants-watson: Savigny/Montesquieu were not 'sociological' (reworded); added Teubner 1998 cite, Kahn-Freund 1974 critique; reworded gap
+con-madhhab-legal-school-institution: added dates for Awza'i/Tabari/Ibn Hazm, Baybars 1265 four chief judges, Makdisi guild thesis, Hallaq personal schools; noted living non-Sunni schools; hedged survival explanation; reworded gaps
+con-maqasid-al-shariah-shatibi: removed al-Ghiyathi from Juwayni antecedents; corrected Ghazali on maslaha (conditions: necessary, universal, certain); noted Shatibi's own ordering of necessities differs; removed vague legislation/fatwa claims; added Ibn Ashur, Masud source; reworded gaps
+con-maslaha-mursala-usul: removed process-note gap; active_start 1085->800; softened claim that Malik relied on maslaha via 'amal ahl al-Madina; added Ghazali shields example, al-Tufi, siyasa shar'iyya; qualified Hanbali position; reworded gap
+con-mens-rea-criminal-intent: removed process-note gaps; MPC 'adopted by most states' -> influenced; added Coke attribution (hedged), Sweet v Parsley; Islamic homicide gradation qualified (Maliki, qisas/diya options, kaffara); reworded gaps
+con-nazariyyat-al-aqd-fiqh: corrected pillars (Hanafis: only sigha is rukn; majority three); qualified fasid/batil distinction for other schools; added Sanhuri Masadir al-Haqq and Zarqa Madkhal; added Ibn Taymiyya/Hanbali on stipulations; reworded gaps
+con-ottoman-codification-tanzimat-law: Land Code 1858 not a French import; added Commercial Code 1850, Majalla size, Nizamiye 1860s, Lebanon 1932; Turkey adopted Swiss-modeled code 1926 (not 'in full'); added Findley source; reworded gaps
+con-personal-status-law-arab-states: removed unverifiable Murshid al-Hayran publisher/year; added law numbers (25/1920, 25/1929, 1/2000); removed unsupported Maliki/Hanbali khul' attribution; Tunisia 1956 code
+con-popular-constitutionalism: removed inaccurate "electoral punishment of judges"; added Tushnet source
+con-property-rights: gap reworded; added Rawls source
+con-qada-judgeship-islamic-law: gaps reworded; added al-Qarafi source
+con-qawaid-fiqhiyya-legal-maxims: Majalla date to 1870s; fixed al-Zarqa source (Ahmad al-Zarqa's Sharh, ed. Mustafa al-Zarqa); softened Zarqa claim; added Suyuti
+con-qiyas-analogical-reasoning: removed garbage gap line, gaps cleared; Zahiri origin (Dawud); Shafi'i attribution softened; added Risala
+con-riba-legal-doctrine: replaced mis-cited Qaradawi Fiqh al-Zakat source with Saleh 1986; softened Vogel claim; gaps merged
+con-rule-of-law: gaps reduced; added Raz 1977; thin/thick attribution clarified
+con-rule-of-recognition-hart: removed "moderate sociological positivism" label; gaps cleaned; added Raz, Coleman sources
+con-siyasa-shariyya-ibn-taymiyya: removed doubtful "wherever public interest is, there is God's law" quote heading; Ibn al-Qayyim added; gaps cleaned
+dbt-hart-devlin-morals-legislation: Sexual Offences Act 1967 (England and Wales) specified; gap removed; Mill source
+dbt-hart-dworkin-rules-principles: gap removed; Riggs v. Palmer 1889; sources added
+dbt-hart-fuller-law-morality-debate: corrected grudge informer case facts (OLG Bamberg 1949, existing Nazi statutes, not post-act decree; not secret retroactive decrees); gap removed
+fld-comparative-islamic-law: Mustasfa dating corrected to c. early 12th century
+sch-american-legal-realism: meta gaps removed; Bramble Bush publisher fixed; Islamic "anticipated" claim softened; added Frank
+sch-civil-law-tradition: rewrote opening (removed invented Sanhuri thesis); Code 1948/1949; Glossators c.1100; Hill title
+sch-common-law-tradition: Dicey is a jurist not a judge; Coke claim softened; Abu Yusuf in Baghdad; gap reworded
+sch-constitutional-law-theory: removed unverifiable Tushnet 2023 source and three-model claim (replaced by formalist/functionalist); Bickel added
+sch-criminal-law-philosophy-responsibility: meta gaps removed; Hinckley 1982 acquittal and IDRA 1984; Islamic execution-time claim softened
+sch-criminal-law-theory: Beccaria translator fixed (Davies, ed. Bellamy); Hart-Devlin debate corrected (Mill predates); Becker influence softened
+sch-critical-legal-studies: meta gaps removed; Unger/Tushnet article vs book fixed; Madison 1977; TWAIL softened; Kelman source
+sch-critical-race-theory-law: meta gaps removed; founders list and 1989 workshop corrected; Matsuda source
+sch-customary-law-indigenous: named Malinowski's Crime and Custom (1926); softened maxim/author attribution and constitutions claim; cited SA ss 211-212; added source
+sch-empirical-legal-studies: removed build-note gaps; Holmes as precursor
+sch-feminist-jurisprudence: removed build-note gaps; added MacKinnon 1979 work; removed stray cross-reference
+sch-international-law-theory: Shaybani dating/works; removed unsupported claim that Vienna Convention codified siyar; softened Grotius/siyar priority, TWAIL leadership, Geneva parallel; fixed Kelsey and Koskenniemi publisher data; ICC in force 2002; added Khadduri source
+sch-islamic-law-shariah: deleted generic gap and added short historical development section
+sch-jurisprudence-natural-law: corrected Aquinas on unjust law; removed stray parentheticals; dated Summa; replaced doubtful Murphy/SEP source; removed generic gap
+sch-labor-law-justice: removed false 'minimum wage' in 1833 Factory Act; hadith attribution; softened al-Qarafi, Qaradawi, ILO-constitutions, Adam Smith claims; fixed ajir khass/mushtarak terms; trimmed doubtful source data; added Polanyi; removed generic gap
+sch-law-and-economics: removed build-note/obsolete gaps (Calabresi and behavioral L&E are covered); softened judges' institute claim
+sch-law-society-studies: corrected association name; attributed 'semi-autonomous social fields' to Moore; removed generic gap
+sch-legal-history-non-western: replaced doubtful Arabic Hallaq translation source with real works; corrected Sanhuri Masadir publication data; softened al-Qarafi/Hallaq claims; removed duplicate sentence; removed generic gap
+sch-legal-history-western: Corpus Juris dating 529-534; fixed unsupported 'Cambridge School' heading; softened Juwayni/Ghazali claim; added Thibaut context
+sch-legal-pluralism: reversed strong/weak pluralism to match Griffiths (weak=juristic, strong=social); millet is Ottoman; removed invented co-author 'Sandra Harris'; forum shopping attribution; removed build-note gaps
+sch-legal-positivism-modern: removed build-note gaps and stray 'see gaps'; cleaned parentheticals; added Wolfenden context and Devlin source
+sch-modern-natural-law-social-contract: removed build-note gaps and stray cross-reference; softened Hobbes-to-Austin/Kelsen claim; Locke publication date
+sch-philosophy-of-law: dated Radbruch formula 1946 (no other errors found)
+sch-restorative-justice: Maori/First Nations practices corrected; jurists (not Quran) distinguished God's/individual's right; softened TRC, Ibn al-Qayyim, hadd-pardon and 'general reconciliation' claims; dropped doubtful publisher data; removed generic gap
+sch-scandinavian-legal-realism: clarified Ross's fictitious tû-tû tribe (not 'subsidiary tribe') and 1957 essay; absorbed independence note into body; removed build-note gaps
+sch-socialist-legal-systems: German Ideology dating; Pashukanis translation data; softened Vyshinsky-dominance claim; removed build-note gap
+sch-twail-postcolonial-international-law: fixed mismatched H1; removed stray cross-reference; softened claim on civilizational superiority in classical siyar; removed build-note gaps (incl. inconsistent 1997 Harvard note)
+sch-usul-al-fiqh-legal-theory: removed build-note gaps; removed garbled Hart 'Rule vs Theory of Rules' claim; dropped unconfirmed Hallaq attribution
+thk-abd-al-qadir-awda: replaced two meta gaps with one real gap; softened 'most frequently cited'; removed source of doubtful relevance and uncertain edition year
+thk-abd-al-razzaq-al-sanhuri: doctorates were Lyon 1925 and Paris 1926 (not a single Paris doctorate with a contract thesis); code in force 1949; removed waqf from civil code examples; added 1954 assault; gaps reworded; page range added
+thk-abu-yusuf: 'three companions' replaced by standard al-Sahibayn; dropped uncertain edition year; gaps reworded
+thk-ahmad-ibn-hanbal: mihna ended c. 234 AH under Mutawakkil; Malik d. 179 AH (not 'shortly before Ahmad's birth'); softened 'senior student of Shafi'i'; folded Musnad count/zawa'id gaps into body; added page range
+thk-al-shafii: Ibn Hanbal no longer called direct student (contradicted gap); birthplace gap fixed (Yemen was a posting); Schacht/Hallaq consensus claim softened
+thk-al-shatibi: removed invented teacher/grammarian (al-Shalawbin d. before his time); maqasid triad attributed to Juwayni/Ghazali; al-Majalis is commentary on Kitab al-Buyu'; removed Hallaq misattribution and Mawlid example; "muwafaqa" reframed as maqasid al-mukallaf
+thk-alexander-bickel: emigrated 1939 (not as a child); added Frankfurter clerkship, later works, Passive Virtues source; gaps closed
+thk-carl-schmitt: removed build-process gaps; moved Nazi-period note and Kelsen dispute into body; economic pair fixed to profitable/unprofitable; added post-1945 internment; sources added
+thk-derrick-bell: character is Geneva Crenshaw (not Jennifer); Harvard protest was unpaid leave, appointment ended 1992; i'tibar ma'alat al-af'al; gaps closed
+thk-duncan-kennedy: Kennedy: MacKinnon removed as CLS founder; Bourdieu claim removed; three-phase scheme corrected to classical/social/policy jurisprudence (no 'liberal synthesis'); fundamental contradiction introduced in Form and Substance; legal education essay dated 1982/83; gap closed
+thk-franz-wieacker: Wieacker: added life dates and German title; Nazi-period membership stated plainly and gap rewritten; Annales gap reworded
+thk-friedrich-carl-von-savigny: Savigny: not 'effective founder' of Berlin Roman law; possession theory described correctly (not fact vs ownership as his invention); BGB promulgated 1896 in force 1900; Arab-law claims removed; conflict-of-laws seat theory added; gap closed
+thk-georg-jellinek: Jellinek: unsupported formal/material constitution section replaced by Verfassungswandlung (1906); Arab-region claim removed; biography corrected (Basel 1889, Heidelberg 1891); Kelsen critique (1922) added; gaps closed
+thk-hans-kelsen: Kelsen: removed build-note gaps; career path corrected (Harvard before Berkeley, Prague 1936-38); Hüter dispute described correctly; al-Mustasfa ordering claim replaced (Ghazali's ordering differs); vague non-Western section removed; 1934 Reine Rechtslehre added
+thk-herbert-packer: Packer: six criteria replaced with his actual six; 'Weberian ideal type' and 'temporary victory' removed; third-model attribution corrected (Griffiths, Roach); trivial death gap removed
+thk-hersch-lauterpacht: Lauterpacht: birthplace now Ukraine; ICJ/Cambridge/Oppenheim editions dated; Nuremberg section rewritten (adviser, not judge; UDHR influence softened); Norwegian Loans example added; gaps closed
+thk-hla-hart: Hart: Dworkin was his successor not student; J.L. Austin described as colleague/friend; Hart-Devlin section added and gaps closed; Brasenose dates; 'Anglo-Saxon' wording
+thk-ibn-hazm: Ibn Hazm: Maliki then Shafi'i then Zahiri; viziers named; removed unverifiable Brunschvig/Mulkawi/Stern attributions; logic treatise added; gaps reworded
+thk-ibn-taymiyya: Ibn Taymiyya: imprisonment outline added and gap closed; hakimiyya link softened to modern Islamist invocation; unverifiable Abou El Fadl/Rapoport-Ahmed attributions softened; edition year removed
+thk-joel-feinberg: Feinberg: soft paternalism and 'free-floating evils' reflected (he did not simply reject paternalism/moralism); desert claim softened; career summarized; gaps closed
+thk-john-austin-jurisprudence: Austin: resigned 1835 (lectures ended 1832); Bonn study added; Bentham 'recommendation' claim removed; gaps (incl. file-process notes) removed; unsupported natural-law claim removed
+thk-joseph-raz: Raz: Coleman was not Hart's student (and Perry not an inclusive positivist); 'Independence Thesis' replaced by pre-emption account; birthplace/posts corrected; gaps closed
+thk-karl-llewellyn: Llewellyn: UCC first promulgated 1952 (not late 1950s); Yale added; law-and-economics inheritance claim removed; Bramble Bush publication note; gap closed
+thk-konrad-zweigert: Zweigert: life dates and posts added; presumption of similarity vs 'supreme principle' clarified; Kötz co-author from first edition; Arab-law/archive overclaims removed; families renamed
+thk-lon-fuller: Fuller: placement note folded into body; Dworkin objection removed; Perdue-Fuller citation completed; 1965 Hart review added; process-notes gaps removed
+thk-malik-ibn-anas: Malik: Mudawwana attribution corrected (Sahnun via Ibn al-Qasim); process-note gap removed; Ibn Hanbal link softened to attendance; ritual-purity claim softened
+thk-mustafa-al-zarqa: Zarqa: Sharh al-Qawa'id is by his father Ahmad (Mustafa edited it); unverified Kuwait/UAE drafting and Gulf-codes claims removed; insurance stance generalized; 1984 King Faisal Prize added
+thk-oliver-wendell-holmes-jr: Holmes: 'marketplace of ideas' corrected to 'free trade in ideas'; realism dated 1920s-30s (not after his death); SJC 1883 added; Buck v. Bell/Lochner note added; gap closed (Supreme Court career is covered in body)
+thk-rene-david: René David: classification categories corrected (Far Eastern, Africa and Madagascar, 'other conceptions'); unverified UNIDROIT section removed; Sanhuri code list corrected; 'first Western jurist' claim removed; gaps reworded
+thk-richard-posner-law-economics: removed meta gaps; softened Rubin/Priest efficiency-thesis attribution, Jolls/Sunstein/Thaler, supervision claim; Journal of Legal Studies year
+thk-ronald-coase: JLE editorship "decades" -> nearly two decades; added 1951 US move, Buffalo/Virginia; Nobel citation; Williamson attribution corrected; heading fixed (no IP); gaps cleared
+thk-ronald-dworkin: Hart Postscript: replaced anachronistic inclusive/exclusive attribution (Raz term; Hart accepts soft positivism), corrected placement of "Right Answer" essay (1978, A Matter of Principle); fixed discretion sentence; removed meta gaps; added Freedom's Law, Hedgehogs sources
+thk-rudolf-von-jhering: added Vienna and 1872 Göttingen; Geist dated 1852-1865; softened Holmes influence; fixed "last work" error; removed unverifiable gaps
+thk-shams-al-aimma-al-sarakhsi: origin Sarakhs (Khurasan) not Transoxiana; softened death/release/imprisonment details; added al-Kafi of al-Hakim al-Shahid; Bazdawi (d. 482) comparison note and gap removed; tempered Hallaq attribution
+thk-shihab-al-din-al-qarafi: fixed fatwa-binding contradiction; title translation of Anwar al-Buruq; removed nonsensical Malik clause; Sanhaja/Bahnasa origin softened; Jackson caution attribution removed; gaps cleared
+thk-thomas-franck: softened Kosovo "illegal but legitimate" attribution (Kosovo Commission); flagged Islamic comparison as atlas-drawn; removed unverified claims on empirical evidence/legacy; added Fairness source; gap reworded
+thk-wael-hallaq: removed unverifiable maslaha/istihsan section; corrected Schacht framing, Majallat spelling, career details (Hebrew Univ., Washington, McGill, Columbia); Palestinian-born; removed meta gaps
+wrk-al-ashbah-wa-al-nazair-ibn-nujaym: fixed false claim of no relation to Suyuti/Subki Ashbah genre; Majalla intro = 99 maxims; hedged hiyal chapter; corrected name Zayn al-Din ibn Ibrahim; gaps reworded
+wrk-al-bahr-al-muhit-zarkashi: replaced doubtful Dar al-Kutubi 1994 edition with Kuwait Ministry of Awqaf edition; gaps reduced
+wrk-al-hidaya-marghinani: Hamilton 1791 translation was from Persian and complete (4 vols), not partial from Arabic; Dawrat al-Hadith -> Dars-i Nizami; added Kifayat al-Muntaha; gaps reworded
+wrk-al-ihkam-al-amidi: removed false "four pillars" claim; Amidi was born Hanbali then Shafi'i; hedged Ibn al-Hajib relation, section count, signification categories (Hanafi terms), Isnawi -> Ibn al-Sa'ati; removed speculative claims and meta gaps
+wrk-al-mustasfa-ghazali: removed Mahalli commentary claim; corrected four-pillars claim to Ibn Khaldun list; mujtahid-correctness position; Mankhul description; edition editor corrected (Abd al-Shafi); removed Azhar curriculum claim, meta gaps
+wrk-al-muwafaqat-shatibi: removed meta text referencing gaps; softened Abduh/Rida revival claim, Ibn Ashur claim; fixed edition publisher info; gaps reduced
+wrk-al-risala-shafii: removed erroneous comparative-law section (Glanvill/Bracton postdate Risala, Justinian predates); removed unsupported Shatibi criticism; clarified old (lost) and Egyptian Risala; added Shakir edition; gaps reworded
+wrk-al-tashri-al-jinai-al-islami-awda: added Awda dates/execution 1954; edition citation generalized; publication-date gap reworded
+wrk-causation-in-the-law-hart-honore: replaced inaccurate "reasonable foreseeability criterion" with abnormal conditions/coincidence; fixed 2nd edition (Hart co-authored, was alive); flagged Islamic comparison as atlas-drawn; gaps cleared/reworded
+wrk-democracy-and-distrust-ely: removed false claim Ely drafted Roe v. Wade; death year 1996 (not 2003); career Yale/Harvard/Stanford/Miami; process/substance criticism attributed to Tribe/Dworkin, not Waldron; gaps cleared
+wrk-kitab-al-kharaj-abu-yusuf: softened "greatest share" and Yahya ibn Adam dating (d. 203 AH); removed vague unverifiable edition publisher and authenticity gap; fixed gap wording
+wrk-laws-empire-dworkin: added Riggs court/year/citation; removed "new legal realists"; flagged Islamic comparison as atlas-drawn; gap removed
+wrk-majallat-al-ahkam-al-adliyya: Majalla intro = art. 1 + 99 maxims (2-100); Sanhuri code 1948/49 not a replacement for Majalla in Egypt (never applied there); added Syrian 1949/Iraqi 1951; added Tyser English translation; gaps reduced
+wrk-model-penal-code: fixed section 2.02 default (recklessness, not negligence); IDRA 1984 after Hinckley; softened adoption count; Islamic comparison flagged as atlas-drawn; meta gaps removed
+wrk-punishment-and-responsibility-hart: removed false Hart-Dworkin "student" section and misattributed Wolfenden/Devlin/government committees content (belongs to Law, Liberty and Morality 1963); removed "collective responsibility" heading; flagged atlas comparison; gap removed
+wrk-pure-theory-of-law-kelsen: corrected exile biography (dismissed Cologne 1933, wrote 1st ed. in Geneva, Prague, Berkeley); monism primacy softened; revolution/effectiveness clarified; gap reworded
+wrk-road-serfdom-hayek: Friedman attended Mont Pelerin founding (not "later"); softened "inevitably"; atlas-comparison flagged; edition info
+wrk-the-concept-of-law-hart: Dworkin was Hart's successor not student; inclusive/exclusive positivism attribution corrected (Raz term); MacCormick characterization softened; Anglo-Saxon -> Anglo-American; gap removed (Postscript covered)
 thk-habermas: removed an unverifiable death claim (March 2026) and set dates to born 1929; confirm current status before adding

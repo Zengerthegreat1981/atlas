@@ -1,0 +1,701 @@
+slug,folder,name,inbound,ar_words,ar_file
+con-qiyas-analogical-reasoning,concepts,Qiyas (Analogical Reasoning in Islamic Legal Theory),21,410,content/ar/concepts/con-qiyas-analogical-reasoning.md
+con-riba-legal-doctrine,concepts,Riba (Legal Doctrine on Usury/Interest),17,403,content/ar/concepts/con-riba-legal-doctrine.md
+con-madhhab-legal-school-institution,concepts,Madhhab as a Legal-School Institution,15,346,content/ar/concepts/con-madhhab-legal-school-institution.md
+con-qawaid-fiqhiyya-legal-maxims,concepts,Qawa'id Fiqhiyya (Islamic Legal Maxims),13,448,content/ar/concepts/con-qawaid-fiqhiyya-legal-maxims.md
+con-legal-transplants-watson,concepts,Legal Transplants,13,391,content/ar/concepts/con-legal-transplants-watson.md
+con-siyasa-shariyya-ibn-taymiyya,concepts,Al-Siyasa al-Shar'iyya (Sharia-Compliant Governance) and the Fiqh/Law Distinction,12,322,content/ar/concepts/con-siyasa-shariyya-ibn-taymiyya.md
+con-coase-theorem,concepts,The Coase Theorem,11,473,content/ar/concepts/con-coase-theorem.md
+con-maqasid-al-shariah-shatibi,concepts,Maqasid al-Shari'ah (Higher Objectives of the Law),11,451,content/ar/concepts/con-maqasid-al-shariah-shatibi.md
+con-rule-of-recognition-hart,concepts,Rule of Recognition,11,397,content/ar/concepts/con-rule-of-recognition-hart.md
+con-insanity-defense-mnaghten,concepts,The Insanity Defense and the M'Naghten Rule,11,383,content/ar/concepts/con-insanity-defense-mnaghten.md
+con-nazariyyat-al-aqd-fiqh,concepts,The General Theory of Contract in Islamic Law,11,346,content/ar/concepts/con-nazariyyat-al-aqd-fiqh.md
+con-law-as-integrity-dworkin,concepts,Law as Integrity,10,524,content/ar/concepts/con-law-as-integrity-dworkin.md
+con-maslaha-mursala-usul,concepts,Maslaha Mursala (Unregulated Public Interest),10,393,content/ar/concepts/con-maslaha-mursala-usul.md
+con-istihsan-juristic-preference,concepts,Istihsan (Juristic Preference in Islamic Legal Theory),9,499,content/ar/concepts/con-istihsan-juristic-preference.md
+con-legal-personality,concepts,Legal Personality,9,474,content/ar/concepts/con-legal-personality.md
+con-property-rights,concepts,Property Rights,9,382,content/ar/concepts/con-property-rights.md
+con-criminalization-theory,concepts,Criminalization Theory,9,381,content/ar/concepts/con-criminalization-theory.md
+con-judicial-review,concepts,Judicial Review,9,354,content/ar/concepts/con-judicial-review.md
+con-qada-judgeship-islamic-law,concepts,Qada' (The Institution of the Islamic Judge),9,324,content/ar/concepts/con-qada-judgeship-islamic-law.md
+con-ahliyya-legal-capacity-usul,concepts,Ahliyya (Legal Capacity),8,473,content/ar/concepts/con-ahliyya-legal-capacity-usul.md
+con-gharar-in-contracts,concepts,Gharar (Uncertainty in Contracts),8,422,content/ar/concepts/con-gharar-in-contracts.md
+con-ijtihad-usul,concepts,Ijtihad (Independent Legal Reasoning),8,360,content/ar/concepts/con-ijtihad-usul.md
+con-gate-of-ijtihad-debate-hallaq,concepts,The 'Closing of the Gate of Ijtihad' Debate,8,305,content/ar/concepts/con-gate-of-ijtihad-debate-hallaq.md
+con-rule-of-law,concepts,Rule of Law,7,508,content/ar/concepts/con-rule-of-law.md
+con-grundnorm-basic-norm-kelsen,concepts,Grundnorm (Basic Norm),7,481,content/ar/concepts/con-grundnorm-basic-norm-kelsen.md
+con-ikhtilaf-juristic-disagreement,concepts,Ikhtilaf (Juristic Disagreement),7,455,content/ar/concepts/con-ikhtilaf-juristic-disagreement.md
+con-legal-families-comparative-law,concepts,Legal Families,7,360,content/ar/concepts/con-legal-families-comparative-law.md
+con-popular-constitutionalism,concepts,Popular Constitutionalism,7,350,content/ar/concepts/con-popular-constitutionalism.md
+con-hukm-taklifi-wadi-usul,concepts,Hukm Taklifi and Hukm Wad'i,6,453,content/ar/concepts/con-hukm-taklifi-wadi-usul.md
+con-civil-law-codification,concepts,Civil Law Codification,6,404,content/ar/concepts/con-civil-law-codification.md
+con-ifta-mufti-legal-authority,concepts,Ifta' (The Institution of the Mufti and Legal Opinion),6,358,content/ar/concepts/con-ifta-mufti-legal-authority.md
+con-ottoman-codification-tanzimat-law,concepts,Ottoman Codification in the Tanzimat Era,6,354,content/ar/concepts/con-ottoman-codification-tanzimat-law.md
+con-personal-status-law-arab-states,concepts,Personal Status Law in Arab States,6,350,content/ar/concepts/con-personal-status-law-arab-states.md
+con-counter-majoritarian-difficulty-bickel,concepts,Counter-Majoritarian Difficulty,6,323,content/ar/concepts/con-counter-majoritarian-difficulty-bickel.md
+con-mens-rea-criminal-intent,concepts,Mens Rea (Guilty Mind),5,427,content/ar/concepts/con-mens-rea-criminal-intent.md
+con-retributivism-vs-consequentialism-punishment,concepts,Retributivism vs. Consequentialism in Punishment,5,414,content/ar/concepts/con-retributivism-vs-consequentialism-punishment.md
+con-dalalat-al-alfaz-usul,concepts,Dalalat al-Alfaz (Modes of Linguistic Signification in Islamic Legal Theory),5,412,content/ar/concepts/con-dalalat-al-alfaz-usul.md
+con-qisas-and-diya,concepts,Qisas and Diya (Retaliation and Blood Money),5,408,content/ar/concepts/con-qisas-and-diya.md
+con-legitimacy-in-international-law,concepts,Legitimacy in International Law,5,401,content/ar/concepts/con-legitimacy-in-international-law.md
+con-hudud-fixed-penalties,concepts,Hudud (Fixed Penalties),5,360,content/ar/concepts/con-hudud-fixed-penalties.md
+con-qawl-al-sahabi,concepts,Qawl al-Sahabi (The Saying of a Companion as Legal Evidence),5,356,content/ar/concepts/con-qawl-al-sahabi.md
+con-tazir-discretionary-punishment,concepts,Ta'zir (Discretionary/Deterrent Punishment),5,348,content/ar/concepts/con-tazir-discretionary-punishment.md
+con-jurisprudence-of-interests-jhering,concepts,Jurisprudence of Interests,5,333,content/ar/concepts/con-jurisprudence-of-interests-jhering.md
+con-hisba-market-inspection-law,concepts,Hisba (The Institution of Market and Public-Morals Inspection),5,321,content/ar/concepts/con-hisba-market-inspection-law.md
+con-urf-custom-usul,concepts,Custom (Al-'Urf) in Usul al-Fiqh,5,307,content/ar/concepts/con-urf-custom-usul.md
+con-competency-to-stand-trial,concepts,Competency to Stand Trial,5,304,content/ar/concepts/con-competency-to-stand-trial.md
+con-medical-law-autonomy,concepts,Medical Law & Autonomy,4,530,content/ar/concepts/con-medical-law-autonomy.md
+con-zahiri-rejection-of-qiyas-ibn-hazm,concepts,The Zahiri Rejection of Qiyas (Ibn Hazm),4,512,content/ar/concepts/con-zahiri-rejection-of-qiyas-ibn-hazm.md
+con-jurisprudence-and-gender-west,concepts,Jurisprudence and Gender (The Separate Self Critique),4,507,content/ar/concepts/con-jurisprudence-and-gender-west.md
+con-international-human-rights,concepts,International Human Rights,4,497,content/ar/concepts/con-international-human-rights.md
+con-internal-morality-of-law-fuller,concepts,The Internal Morality of Law,4,490,content/ar/concepts/con-internal-morality-of-law-fuller.md
+con-legal-hermeneutics-betti-gadamer-debate,concepts,Legal Hermeneutics: The Betti–Gadamer Debate,4,437,content/ar/concepts/con-legal-hermeneutics-betti-gadamer-debate.md
+con-shubha-doubt-hudud,concepts,Shubha (Doubt in Hudud Cases),4,404,content/ar/concepts/con-shubha-doubt-hudud.md
+con-ius-commune-european,concepts,Ius Commune,4,396,content/ar/concepts/con-ius-commune-european.md
+con-causation-in-law,concepts,Causation in Law,4,384,content/ar/concepts/con-causation-in-law.md
+con-mens-rea-actus-reus,concepts,Mens Rea & Actus Reus,4,377,content/ar/concepts/con-mens-rea-actus-reus.md
+con-roman-law-legacy,concepts,Roman Law Legacy,4,364,content/ar/concepts/con-roman-law-legacy.md
+con-legal-argumentation-perelman-toulmin,concepts,Legal Argumentation Theory (Perelman's New Rhetoric & Toulmin's Model),4,312,content/ar/concepts/con-legal-argumentation-perelman-toulmin.md
+con-sovereign-exception-schmitt,concepts,Sovereignty and the Decision on the Exception,4,301,content/ar/concepts/con-sovereign-exception-schmitt.md
+con-legal-storytelling-counter-narrative,concepts,Legal Storytelling and Counter-Narrative,3,526,content/ar/concepts/con-legal-storytelling-counter-narrative.md
+con-human-rights-historical-critique-moyn,concepts,The Historical Critique of Human Rights (Moyn's 'Last Utopia' Thesis),3,496,content/ar/concepts/con-human-rights-historical-critique-moyn.md
+con-prediction-theory-of-law-holmes,concepts,The Prediction Theory of Law,3,471,content/ar/concepts/con-prediction-theory-of-law-holmes.md
+con-sovereignty-colonial-encounter-anghie,concepts,Sovereignty and the Colonial Origins of International Law,3,471,content/ar/concepts/con-sovereignty-colonial-encounter-anghie.md
+con-exclusive-inclusive-positivism,concepts,Exclusive vs. Inclusive Legal Positivism,3,465,content/ar/concepts/con-exclusive-inclusive-positivism.md
+con-legal-indeterminacy-cls,concepts,Legal Indeterminacy and the Fundamental Contradiction,3,448,content/ar/concepts/con-legal-indeterminacy-cls.md
+con-basic-goods-practical-reasonableness-finnis,concepts,Basic Goods and Practical Reasonableness,3,440,content/ar/concepts/con-basic-goods-practical-reasonableness-finnis.md
+con-good-faith-contract-law,concepts,Good Faith in Contract Law,3,437,content/ar/concepts/con-good-faith-contract-law.md
+con-sadd-al-dharai-usul,concepts,Sadd al-Dhara'i (Blocking the Means to Harm),3,424,content/ar/concepts/con-sadd-al-dharai-usul.md
+con-qati-zanni-evidence,concepts,Qat'i and Zanni (Definitive and Probable Evidence),3,423,content/ar/concepts/con-qati-zanni-evidence.md
+con-legal-rights-32,concepts,Right to Privacy,3,409,content/ar/concepts/con-legal-rights-32.md
+con-darura-necessity-usul,concepts,Darura (Necessity),3,406,content/ar/concepts/con-darura-necessity-usul.md
+con-legal-rights-26,concepts,Non-Discrimination,3,401,content/ar/concepts/con-legal-rights-26.md
+con-principle-of-legality-administrative-law,concepts,Principle of Legality in Administrative Law,3,401,content/ar/concepts/con-principle-of-legality-administrative-law.md
+con-transnational-legal-process,concepts,Transnational Legal Process,3,395,content/ar/concepts/con-transnational-legal-process.md
+con-daman-liability-fiqh,concepts,Daman (Liability in Islamic Law),3,377,content/ar/concepts/con-daman-liability-fiqh.md
+con-freedom-of-contract-doctrine,concepts,Freedom of Contract,3,377,content/ar/concepts/con-freedom-of-contract-doctrine.md
+con-mujmal-mubayyan,concepts,Mujmal and Mubayyan (Ambiguous and Clarified Utterance),3,376,content/ar/concepts/con-mujmal-mubayyan.md
+con-justification-vs-excuse,concepts,Justification vs Excuse,3,370,content/ar/concepts/con-justification-vs-excuse.md
+con-parliamentary-sovereignty,concepts,Parliamentary Sovereignty,3,369,content/ar/concepts/con-parliamentary-sovereignty.md
+con-textualism-originalism-scalia,concepts,Textualism and Originalism,3,363,content/ar/concepts/con-textualism-originalism-scalia.md
+con-ijara-lease-fiqh,concepts,Ijara (Lease Contract in Islamic Law),3,362,content/ar/concepts/con-ijara-lease-fiqh.md
+con-retributive-justice,concepts,Retributive Justice,3,361,content/ar/concepts/con-retributive-justice.md
+con-bayyina-burden-of-proof-fiqh,concepts,Bayyina (Burden of Proof in Islamic Law),3,359,content/ar/concepts/con-bayyina-burden-of-proof-fiqh.md
+con-sociological-jurisprudence-pound,concepts,Sociological Jurisprudence,3,353,content/ar/concepts/con-sociological-jurisprudence-pound.md
+con-pandectist-legal-science,concepts,Pandectist Legal Science (Pandektistik),3,352,content/ar/concepts/con-pandectist-legal-science.md
+con-functional-method-comparative-law,concepts,Functional Method in Comparative Law,3,351,content/ar/concepts/con-functional-method-comparative-law.md
+con-hohfeldian-jural-relations,concepts,Hohfeldian Jural Relations,3,347,content/ar/concepts/con-hohfeldian-jural-relations.md
+con-will-interest-theories-of-rights,concepts,Will & Interest Theories of Rights,3,344,content/ar/concepts/con-will-interest-theories-of-rights.md
+con-legal-moralism,concepts,Legal Moralism,3,342,content/ar/concepts/con-legal-moralism.md
+con-kaldor-hicks-efficiency,concepts,Kaldor–Hicks Efficiency,3,334,content/ar/concepts/con-kaldor-hicks-efficiency.md
+con-deterrence,concepts,Deterrence,2,546,content/ar/concepts/con-deterrence.md
+con-pacta-sunt-servanda-grotius,concepts,Pacta Sunt Servanda and the Grotian Foundation of International Law,2,536,content/ar/concepts/con-pacta-sunt-servanda-grotius.md
+con-interlegality-santos,concepts,Interlegality,2,508,content/ar/concepts/con-interlegality-santos.md
+con-hiyal-legal-stratagems,concepts,Hiyal (Legal Stratagems),2,477,content/ar/concepts/con-hiyal-legal-stratagems.md
+con-amm-khass-mutlaq-muqayyad-usul,concepts,Amm/Khass and Mutlaq/Muqayyad in Usul al-Fiqh,2,472,content/ar/concepts/con-amm-khass-mutlaq-muqayyad-usul.md
+con-vulnerability-theory-fineman,concepts,Vulnerability Theory and the Responsive State,2,466,content/ar/concepts/con-vulnerability-theory-fineman.md
+con-freedom-of-speech,concepts,Freedom of Speech,2,461,content/ar/concepts/con-freedom-of-speech.md
+con-behavioral-law-and-economics,concepts,Behavioral Law and Economics,2,460,content/ar/concepts/con-behavioral-law-and-economics.md
+con-subsidiarity,concepts,Subsidiarity,2,459,content/ar/concepts/con-subsidiarity.md
+con-istishab-presumption-continuity-usul,concepts,Istishab (Presumption of Continuity),2,437,content/ar/concepts/con-istishab-presumption-continuity-usul.md
+con-illa-ratio-legis-usul,concepts,Illa (Ratio Legis in Qiyas),2,434,content/ar/concepts/con-illa-ratio-legis-usul.md
+con-naskh-abrogation-usul,concepts,Naskh (Abrogation),2,434,content/ar/concepts/con-naskh-abrogation-usul.md
+con-involuntary-civil-commitment-standard,concepts,The Legal Standard for Involuntary Civil Commitment,2,429,content/ar/concepts/con-involuntary-civil-commitment-standard.md
+con-legal-rights-17,concepts,Religious Freedom,2,425,content/ar/concepts/con-legal-rights-17.md
+con-legal-positivism,concepts,Legal Positivism,2,420,content/ar/concepts/con-legal-positivism.md
+con-adab-al-qadi-judicial-ethics,concepts,Adab al-Qadi (Judicial Ethics and Conduct),2,410,content/ar/concepts/con-adab-al-qadi-judicial-ethics.md
+con-constitutional-originalism,concepts,Constitutional Originalism,2,409,content/ar/concepts/con-constitutional-originalism.md
+con-interest-convergence-bell,concepts,Interest Convergence Theory,2,401,content/ar/concepts/con-interest-convergence-bell.md
+con-halakha-jewish-law,concepts,Halakha (Jewish Law),2,395,content/ar/concepts/con-halakha-jewish-law.md
+con-transitional-justice-teitel,concepts,Transitional Justice,2,395,content/ar/concepts/con-transitional-justice-teitel.md
+con-living-constitutionalism,concepts,Living Constitutionalism,2,392,content/ar/concepts/con-living-constitutionalism.md
+con-basic-structure-doctrine-india,concepts,Basic Structure Doctrine (India),2,390,content/ar/concepts/con-basic-structure-doctrine-india.md
+con-feminist-critique-law,concepts,Feminist Critique of Law,2,390,content/ar/concepts/con-feminist-critique-law.md
+con-self-defense-criminal-law,concepts,Self-Defense in Criminal Law,2,388,content/ar/concepts/con-self-defense-criminal-law.md
+con-custom-international-law,concepts,International Custom,2,385,content/ar/concepts/con-custom-international-law.md
+con-ross-tu-tu-legal-concepts,concepts,Ross's 'Tû-Tû': Legal Concepts as Empty Middle Terms,2,385,content/ar/concepts/con-ross-tu-tu-legal-concepts.md
+con-policy-oriented-jurisprudence-new-haven,concepts,Policy-Oriented Jurisprudence (New Haven School),2,378,content/ar/concepts/con-policy-oriented-jurisprudence-new-haven.md
+con-shirka-partnership-fiqh,concepts,Shirka (Partnership Contract in Islamic Law),2,376,content/ar/concepts/con-shirka-partnership-fiqh.md
+con-social-action-litigation-india,concepts,Social Action Litigation (India),2,375,content/ar/concepts/con-social-action-litigation-india.md
+con-command-theory-of-law-austin,concepts,The Command Theory of Law,2,372,content/ar/concepts/con-command-theory-of-law-austin.md
+con-iqrar-confession-fiqh,concepts,Iqrar (Confession in Islamic Law),2,371,content/ar/concepts/con-iqrar-confession-fiqh.md
+con-friend-enemy-distinction-schmitt,concepts,The Friend–Enemy Distinction,2,370,content/ar/concepts/con-friend-enemy-distinction-schmitt.md
+con-radbruch-formula,concepts,Radbruch Formula,2,365,content/ar/concepts/con-radbruch-formula.md
+con-dharmasastra-hindu-law,concepts,Dharmasastra (Classical Hindu Law),2,364,content/ar/concepts/con-dharmasastra-hindu-law.md
+con-shahada-testimony-fiqh,concepts,Shahada (Testimony in Islamic Law),2,362,content/ar/concepts/con-shahada-testimony-fiqh.md
+con-federalism,concepts,Federalism,2,361,content/ar/concepts/con-federalism.md
+con-freedom-of-conscience,concepts,Freedom of Conscience,2,359,content/ar/concepts/con-freedom-of-conscience.md
+con-legal-paternalism,concepts,Legal Paternalism,2,358,content/ar/concepts/con-legal-paternalism.md
+con-zahir-muawwal-tawil,concepts,"Zahir, Mu'awwal, and Ta'wil (Apparent Meaning and Interpretation)",2,357,content/ar/concepts/con-zahir-muawwal-tawil.md
+con-administrative-contract-arab-law,concepts,Administrative Contract in Arab Public Law,2,351,content/ar/concepts/con-administrative-contract-arab-law.md
+con-legal-realism,concepts,Legal Realism,2,351,content/ar/concepts/con-legal-realism.md
+con-egyptian-conseil-d-etat,concepts,Egyptian Conseil d'État (Majlis al-Dawla),2,350,content/ar/concepts/con-egyptian-conseil-d-etat.md
+con-inquisitorial-vs-adversarial-procedure,concepts,Inquisitorial vs Adversarial Procedure,2,350,content/ar/concepts/con-inquisitorial-vs-adversarial-procedure.md
+con-taqlid-usul,concepts,Taqlid (Following a Recognized Legal Authority),2,346,content/ar/concepts/con-taqlid-usul.md
+con-corrective-justice-weinrib,concepts,Corrective Justice,2,344,content/ar/concepts/con-corrective-justice-weinrib.md
+con-harm-principle-criminal-law-feinberg,concepts,Feinberg's Harm Principle,2,335,content/ar/concepts/con-harm-principle-criminal-law-feinberg.md
+con-talfiq-combining-madhhabs,concepts,Talfiq (Combining Rulings from Different Madhhabs),2,335,content/ar/concepts/con-talfiq-combining-madhhabs.md
+con-commodity-form-theory-of-law-pashukanis,concepts,Commodity-Form Theory of Law,2,319,content/ar/concepts/con-commodity-form-theory-of-law-pashukanis.md
+con-indigenous-law-pluralism,concepts,Indigenous Law Pluralism,1,597,content/ar/concepts/con-indigenous-law-pluralism.md
+con-proportionality-principle,concepts,Principle of Proportionality,1,482,content/ar/concepts/con-proportionality-principle.md
+con-fundamental-freedoms,concepts,Fundamental Freedoms,1,479,content/ar/concepts/con-fundamental-freedoms.md
+con-margin-of-appreciation,concepts,Margin of Appreciation,1,479,content/ar/concepts/con-margin-of-appreciation.md
+con-neutral-principles-wechsler,concepts,Neutral Principles of Constitutional Law,1,466,content/ar/concepts/con-neutral-principles-wechsler.md
+con-domestic-violence-law,concepts,Domestic Violence Law,1,456,content/ar/concepts/con-domestic-violence-law.md
+con-negligence-duty-of-care,concepts,Negligence and Duty of Care,1,453,content/ar/concepts/con-negligence-duty-of-care.md
+con-legal-psychology-eyewitness-testimony,concepts,Legal Psychology and the Reliability of Eyewitness Testimony,1,447,content/ar/concepts/con-legal-psychology-eyewitness-testimony.md
+con-diminished-responsibility-homicide-act,concepts,Diminished Responsibility,1,432,content/ar/concepts/con-diminished-responsibility-homicide-act.md
+con-legal-formalism,concepts,Legal Formalism,1,421,content/ar/concepts/con-legal-formalism.md
+con-khul-judicial-divorce,concepts,Khul' (Judicial Divorce by Wife's Petition),1,417,content/ar/concepts/con-khul-judicial-divorce.md
+con-durham-rule-product-test,concepts,The Durham Rule (Product Test),1,415,content/ar/concepts/con-durham-rule-product-test.md
+con-legal-rights-23,concepts,Right to Health,1,412,content/ar/concepts/con-legal-rights-23.md
+con-complicity-accomplice-liability,concepts,Complicity / Accomplice Liability,1,406,content/ar/concepts/con-complicity-accomplice-liability.md
+con-legal-validity,concepts,Legal Validity,1,402,content/ar/concepts/con-legal-validity.md
+con-abuse-of-rights-doctrine,concepts,Abuse of Rights Doctrine,1,396,content/ar/concepts/con-abuse-of-rights-doctrine.md
+con-constitutional-amendments,concepts,Constitutional Amendments,1,395,content/ar/concepts/con-constitutional-amendments.md
+con-triage-ethics,concepts,Triage Ethics,1,393,content/ar/concepts/con-triage-ethics.md
+con-capital-punishment,concepts,Capital Punishment,1,389,content/ar/concepts/con-capital-punishment.md
+con-natural-law-theory,concepts,Natural Law Theory,1,389,content/ar/concepts/con-natural-law-theory.md
+con-legal-reasoning,concepts,Legal Reasoning,1,388,content/ar/concepts/con-legal-reasoning.md
+con-sulh-amicable-settlement-fiqh,concepts,Sulh (Amicable Settlement in Islamic Law),1,388,content/ar/concepts/con-sulh-amicable-settlement-fiqh.md
+con-access-to-justice,concepts,Access to Justice,1,381,content/ar/concepts/con-access-to-justice.md
+con-interpretation-statutes,concepts,Statutory Interpretation,1,381,content/ar/concepts/con-interpretation-statutes.md
+con-legal-formants-sacco,concepts,Legal Formants,1,381,content/ar/concepts/con-legal-formants-sacco.md
+con-repeat-players-galanter,concepts,Repeat Players,1,380,content/ar/concepts/con-repeat-players-galanter.md
+con-imprevision-changed-circumstances,concepts,Théorie de l'imprévision,1,377,content/ar/concepts/con-imprevision-changed-circumstances.md
+con-legal-rights-29,concepts,Right to Defense,1,374,content/ar/concepts/con-legal-rights-29.md
+con-sovereignty,concepts,Sovereignty,1,374,content/ar/concepts/con-sovereignty.md
+con-tarjih-preponderance-usul,concepts,Tarjih (Preponderance Among Conflicting Evidences),1,373,content/ar/concepts/con-tarjih-preponderance-usul.md
+con-ahkam-sultaniyya-genre,concepts,Ahkam Sultaniyya (Genre of Islamic Constitutional Writing),1,371,content/ar/concepts/con-ahkam-sultaniyya-genre.md
+con-mixed-courts-egypt,concepts,Mixed Courts of Egypt,1,370,content/ar/concepts/con-mixed-courts-egypt.md
+con-legal-rights-16,concepts,Freedom of Conscience,1,369,content/ar/concepts/con-legal-rights-16.md
+con-non-contractual-relations-business,concepts,Non-Contractual Relations in Business,1,369,content/ar/concepts/con-non-contractual-relations-business.md
+con-environmental-justice,concepts,Environmental Justice,1,368,content/ar/concepts/con-environmental-justice.md
+con-horizontal-effect-of-rights,concepts,Horizontal Effect of Constitutional Rights,1,367,content/ar/concepts/con-horizontal-effect-of-rights.md
+con-international-criminal-court,concepts,International Criminal Court,1,367,content/ar/concepts/con-international-criminal-court.md
+con-collective-bargaining-labor-law,concepts,Collective Bargaining,1,366,content/ar/concepts/con-collective-bargaining-labor-law.md
+con-ius-cogens,concepts,Ius Cogens,1,363,content/ar/concepts/con-ius-cogens.md
+con-wilaya-guardianship-fiqh,concepts,Wilaya (Guardianship in Islamic Law),1,363,content/ar/concepts/con-wilaya-guardianship-fiqh.md
+con-attempt-liability,concepts,Attempt Liability,1,362,content/ar/concepts/con-attempt-liability.md
+con-dhimma-legal-capacity-fiqh,concepts,Dhimma (Legal Personality / Financial Liability Capacity),1,362,content/ar/concepts/con-dhimma-legal-capacity-fiqh.md
+con-weak-form-judicial-review,concepts,Weak-Form Judicial Review,1,359,content/ar/concepts/con-weak-form-judicial-review.md
+con-state-action-doctrine,concepts,State Action Doctrine,1,353,content/ar/concepts/con-state-action-doctrine.md
+con-constitutional-rights,concepts,Constitutional Rights,1,352,content/ar/concepts/con-constitutional-rights.md
+con-informed-consent,concepts,Informed Consent,1,352,content/ar/concepts/con-informed-consent.md
+con-women-legal-history,concepts,Women's Legal History,1,351,content/ar/concepts/con-women-legal-history.md
+con-tabaqat-al-mujtahidin,concepts,The Hierarchical Classes of Jurists Capable of Ijtihad,1,350,content/ar/concepts/con-tabaqat-al-mujtahidin.md
+con-free-law-movement,concepts,Freirechtsbewegung (Free Law Movement),1,347,content/ar/concepts/con-free-law-movement.md
+con-efficient-breach-contract,concepts,Efficient Breach of Contract,1,345,content/ar/concepts/con-efficient-breach-contract.md
+con-planning-theory-of-law-shapiro,concepts,Planning Theory of Law,1,342,content/ar/concepts/con-planning-theory-of-law-shapiro.md
+con-checks-balances,concepts,Checks and Balances,1,341,content/ar/concepts/con-checks-balances.md
+con-bill-of-rights,concepts,Bill of Rights,1,337,content/ar/concepts/con-bill-of-rights.md
+con-constitutional-interpretation,concepts,Constitutional Interpretation,1,335,content/ar/concepts/con-constitutional-interpretation.md
+con-maqasid-levels-daruriyyat-hajiyyat-tahsiniyyat,concepts,"The Tripartite Hierarchy of Maqasid: Daruriyyat, Hajiyyat, Tahsiniyyat",1,324,content/ar/concepts/con-maqasid-levels-daruriyyat-hajiyyat-tahsiniyyat.md
+con-normativity-law,concepts,Normativity & Law,0,530,content/ar/concepts/con-normativity-law.md
+con-unjust-enrichment,concepts,Unjust Enrichment,0,513,content/ar/concepts/con-unjust-enrichment.md
+con-positive-vs-negative-rights,concepts,Positive vs Negative Rights,0,500,content/ar/concepts/con-positive-vs-negative-rights.md
+con-legal-fiction,concepts,Legal Fiction,0,496,content/ar/concepts/con-legal-fiction.md
+con-emergency-powers-constitution,concepts,Emergency Powers & Constitution,0,492,content/ar/concepts/con-emergency-powers-constitution.md
+con-moral-disgust,concepts,Moral Disgust,0,481,content/ar/concepts/con-moral-disgust.md
+con-moral-skepticism,concepts,Moral Skepticism,0,469,content/ar/concepts/con-moral-skepticism.md
+con-gene-therapy-ethics,concepts,Gene Therapy Ethics,0,460,content/ar/concepts/con-gene-therapy-ethics.md
+con-animal-law,concepts,Animal Law,0,459,content/ar/concepts/con-animal-law.md
+con-error-theory-ethics,concepts,Error Theory,0,458,content/ar/concepts/con-error-theory-ethics.md
+con-rehabilitation,concepts,Rehabilitation,0,437,content/ar/concepts/con-rehabilitation.md
+con-masculine-norms-law,concepts,Masculine Norms in Law,0,433,content/ar/concepts/con-masculine-norms-law.md
+con-two-level-utilitarianism,concepts,Two-Level Utilitarianism,0,423,content/ar/concepts/con-two-level-utilitarianism.md
+con-unenumerated-rights,concepts,Unenumerated Rights,0,423,content/ar/concepts/con-unenumerated-rights.md
+con-takhrij-al-furu-ala-al-usul,concepts,Takhrij al-Furu' 'ala al-Usul (Deriving Substantive Rulings from Methodological Principles),0,422,content/ar/concepts/con-takhrij-al-furu-ala-al-usul.md
+con-transnational-law,concepts,Transnational Law,0,418,content/ar/concepts/con-transnational-law.md
+con-legal-rights-20,concepts,Property Rights,0,413,content/ar/concepts/con-legal-rights-20.md
+con-reproductive-rights,concepts,Reproductive Rights,0,413,content/ar/concepts/con-reproductive-rights.md
+con-universal-rights,concepts,Universal Rights,0,410,content/ar/concepts/con-universal-rights.md
+con-law-and-culture,concepts,Law & Culture,0,409,content/ar/concepts/con-law-and-culture.md
+con-virtue-ethics-modern,concepts,Contemporary Virtue Ethics,0,409,content/ar/concepts/con-virtue-ethics-modern.md
+con-sexual-harassment-law,concepts,Sexual Harassment Law,0,406,content/ar/concepts/con-sexual-harassment-law.md
+con-law-and-morality-relationship,concepts,Law & Morality Relationship,0,403,content/ar/concepts/con-law-and-morality-relationship.md
+con-legal-rights-30,concepts,Freedom from Torture,0,400,content/ar/concepts/con-legal-rights-30.md
+con-mazalim-courts,concepts,Mazalim Courts,0,400,content/ar/concepts/con-mazalim-courts.md
+con-common-law-case-method,concepts,Common Law Case Method,0,399,content/ar/concepts/con-common-law-case-method.md
+con-omission-liability,concepts,Omission Liability,0,399,content/ar/concepts/con-omission-liability.md
+con-legal-aid,concepts,Legal Aid,0,396,content/ar/concepts/con-legal-aid.md
+con-resource-allocation-justice,concepts,Resource Allocation & Justice,0,396,content/ar/concepts/con-resource-allocation-justice.md
+con-csr-corporate-social-responsibility,concepts,Corporate Social Responsibility,0,395,content/ar/concepts/con-csr-corporate-social-responsibility.md
+con-constitutional-amendment-limits,concepts,Limits on Constitutional Amendment,0,394,content/ar/concepts/con-constitutional-amendment-limits.md
+con-hawala-assignment-fiqh,concepts,Hawala (Transfer/Assignment of Debt in Islamic Law),0,393,content/ar/concepts/con-hawala-assignment-fiqh.md
+con-kelsenian-constitutional-court-model,concepts,Kelsenian Constitutional Court Model,0,392,content/ar/concepts/con-kelsenian-constitutional-court-model.md
+con-erga-omnes-obligations,concepts,Erga Omnes Obligations,0,391,content/ar/concepts/con-erga-omnes-obligations.md
+con-rights-balancing,concepts,Rights Balancing,0,391,content/ar/concepts/con-rights-balancing.md
+con-legal-rights-24,concepts,Right to Housing,0,390,content/ar/concepts/con-legal-rights-24.md
+con-treaty-law,concepts,Treaty Law,0,388,content/ar/concepts/con-treaty-law.md
+con-codification-debate-thibaut-savigny,concepts,Thibaut–Savigny Codification Debate,0,387,content/ar/concepts/con-codification-debate-thibaut-savigny.md
+con-war-crimes-justice,concepts,War Crimes & Justice,0,387,content/ar/concepts/con-war-crimes-justice.md
+con-criminal-responsibility,concepts,Criminal Responsibility,0,384,content/ar/concepts/con-criminal-responsibility.md
+con-reproductive-justice,concepts,Reproductive Justice,0,384,content/ar/concepts/con-reproductive-justice.md
+con-open-texture-of-law-hart,concepts,Open Texture of Law,0,382,content/ar/concepts/con-open-texture-of-law-hart.md
+con-species-preservation,concepts,Species Preservation,0,382,content/ar/concepts/con-species-preservation.md
+con-global-justice,concepts,Global Justice,0,381,content/ar/concepts/con-global-justice.md
+con-property-rules-liability-rules-calabresi-melamed,concepts,Property Rules and Liability Rules,0,381,content/ar/concepts/con-property-rules-liability-rules-calabresi-melamed.md
+con-constitutional-review-standards,concepts,Constitutional Review Standards,0,380,content/ar/concepts/con-constitutional-review-standards.md
+con-legal-rights-27,concepts,Procedural Rights,0,380,content/ar/concepts/con-legal-rights-27.md
+con-sources-of-law,concepts,Sources of Law,0,379,content/ar/concepts/con-sources-of-law.md
+con-strict-liability,concepts,Strict Liability,0,379,content/ar/concepts/con-strict-liability.md
+con-rights-conflicts,concepts,Rights Conflicts,0,378,content/ar/concepts/con-rights-conflicts.md
+con-separation-powers-practice,concepts,Separation of Powers in Practice,0,377,content/ar/concepts/con-separation-powers-practice.md
+con-organ-allocation-ethics,concepts,Organ Allocation Ethics,0,376,content/ar/concepts/con-organ-allocation-ethics.md
+con-legal-rights-28,concepts,Right to Trial,0,375,content/ar/concepts/con-legal-rights-28.md
+con-duress-excuse,concepts,Duress as Excuse,0,374,content/ar/concepts/con-duress-excuse.md
+con-legal-systems-comparison,concepts,Comparison of Legal Systems,0,374,content/ar/concepts/con-legal-systems-comparison.md
+con-moral-intuition,concepts,Moral Intuition,0,373,content/ar/concepts/con-moral-intuition.md
+con-taoist-ethics,concepts,Taoist Ethics,0,373,content/ar/concepts/con-taoist-ethics.md
+con-constraint-agent-centered,concepts,Agent-Centered Constraints,0,372,content/ar/concepts/con-constraint-agent-centered.md
+con-legal-consciousness,concepts,Legal Consciousness,0,372,content/ar/concepts/con-legal-consciousness.md
+con-lex-mercatoria,concepts,Lex Mercatoria,0,372,content/ar/concepts/con-lex-mercatoria.md
+con-sentencing-theory,concepts,Sentencing Theory,0,372,content/ar/concepts/con-sentencing-theory.md
+con-fiduciary-duty,concepts,Fiduciary Duty,0,371,content/ar/concepts/con-fiduciary-duty.md
+con-legal-rights-22,concepts,Right to Education,0,369,content/ar/concepts/con-legal-rights-22.md
+con-legal-custom,concepts,Legal Custom,0,368,content/ar/concepts/con-legal-custom.md
+con-legal-rights-19,concepts,Freedom of Assembly,0,368,content/ar/concepts/con-legal-rights-19.md
+con-climate-ethics,concepts,Climate Ethics,0,367,content/ar/concepts/con-climate-ethics.md
+con-common-law-evolution,concepts,Common Law Evolution,0,367,content/ar/concepts/con-common-law-evolution.md
+con-constitutional-living-document,concepts,Living Constitution Doctrine,0,366,content/ar/concepts/con-constitutional-living-document.md
+con-end-of-life-law,concepts,End-of-Life Law,0,366,content/ar/concepts/con-end-of-life-law.md
+con-gender-law,concepts,Gender & Law,0,366,content/ar/concepts/con-gender-law.md
+con-legal-rights-25,concepts,Equal Protection,0,366,content/ar/concepts/con-legal-rights-25.md
+con-legal-rights-18,concepts,Freedom of Speech,0,365,content/ar/concepts/con-legal-rights-18.md
+con-colonial-legal-systems,concepts,Colonial Legal Systems,0,364,content/ar/concepts/con-colonial-legal-systems.md
+con-humanitarian-law,concepts,Humanitarian Law,0,364,content/ar/concepts/con-humanitarian-law.md
+con-inalienable-rights,concepts,Inalienable Rights,0,364,content/ar/concepts/con-inalienable-rights.md
+con-legal-rights-31,concepts,Freedom from Slavery,0,364,content/ar/concepts/con-legal-rights-31.md
+con-law-and-power,concepts,Law & Power,0,363,content/ar/concepts/con-law-and-power.md
+con-shariah-interpretation,concepts,Shariah Interpretation,0,363,content/ar/concepts/con-shariah-interpretation.md
+con-legal-modernization,concepts,Legal Modernization,0,362,content/ar/concepts/con-legal-modernization.md
+con-legal-system-coherence,concepts,Legal System Coherence,0,362,content/ar/concepts/con-legal-system-coherence.md
+con-legal-rights-21,concepts,Right to Work,0,361,content/ar/concepts/con-legal-rights-21.md
+con-phronesis-practical-wisdom,concepts,Phronesis & Practical Wisdom,0,361,content/ar/concepts/con-phronesis-practical-wisdom.md
+con-disability-rights-law,concepts,Disability Rights Law,0,360,content/ar/concepts/con-disability-rights-law.md
+con-precedent-stare-decisis,concepts,Precedent & Stare Decisis,0,359,content/ar/concepts/con-precedent-stare-decisis.md
+con-legal-advocacy-ethics,concepts,Legal Advocacy Ethics,0,358,content/ar/concepts/con-legal-advocacy-ethics.md
+con-legal-rights-15,concepts,Fundamental Rights,0,358,content/ar/concepts/con-legal-rights-15.md
+con-deep-ecology-principles,concepts,Deep Ecology Principles,0,357,content/ar/concepts/con-deep-ecology-principles.md
+con-legal-obligation,concepts,Legal Obligation,0,357,content/ar/concepts/con-legal-obligation.md
+con-legal-rights-34,concepts,Right to Nationality,0,357,content/ar/concepts/con-legal-rights-34.md
+con-moral-naturalism,concepts,Moral Naturalism,0,357,content/ar/concepts/con-moral-naturalism.md
+con-preference-satisfaction-ethics,concepts,Preference Satisfaction Ethics,0,357,content/ar/concepts/con-preference-satisfaction-ethics.md
+con-stoic-ethics,concepts,Stoic Ethics,0,357,content/ar/concepts/con-stoic-ethics.md
+con-khabar-al-wahid-hujjiyya,concepts,The Probative Authority of the Solitary Hadith Report,0,356,content/ar/concepts/con-khabar-al-wahid-hujjiyya.md
+con-legal-pluralism-history,concepts,Legal Pluralism Historically,0,356,content/ar/concepts/con-legal-pluralism-history.md
+con-juristic-method,concepts,Juristic Method,0,354,content/ar/concepts/con-juristic-method.md
+con-law-social-change,concepts,Law & Social Change,0,354,content/ar/concepts/con-law-social-change.md
+con-legal-rights-33,concepts,Family Rights,0,352,content/ar/concepts/con-legal-rights-33.md
+con-feminist-care-perspectives,concepts,Feminist Care Perspectives,0,351,content/ar/concepts/con-feminist-care-perspectives.md
+con-pandemic-ethics,concepts,Pandemic Ethics,0,351,content/ar/concepts/con-pandemic-ethics.md
+con-medical-competence-duty,concepts,Medical Competence Duty,0,350,content/ar/concepts/con-medical-competence-duty.md
+con-natural-rights,concepts,Natural Rights,0,350,content/ar/concepts/con-natural-rights.md
+con-amr-nahy-usul,concepts,Command and Prohibition in Usul al-Fiqh,0,336,content/ar/concepts/con-amr-nahy-usul.md
+con-istiqra-inductive-reasoning-usul,concepts,Istiqra' (Inductive Reasoning in Usul al-Fiqh),0,330,content/ar/concepts/con-istiqra-inductive-reasoning-usul.md
+con-analytical-jurisprudence-method,concepts,Analytical Jurisprudence as Method,0,324,content/ar/concepts/con-analytical-jurisprudence-method.md
+con-mafhum-al-mukhalafa,concepts,Mafhum al-Mukhalafa (Dictum of Contraries),0,307,content/ar/concepts/con-mafhum-al-mukhalafa.md
+crt-hart-critique-of-kelsen-grundnorm,critiques,Hart's Critique of Kelsen's Grundnorm,3,381,content/ar/critiques/crt-hart-critique-of-kelsen-grundnorm.md
+crt-hart-critique-of-fuller-internal-morality,critiques,Hart's Review Critique of Fuller's Internal Morality of Law,2,474,content/ar/critiques/crt-hart-critique-of-fuller-internal-morality.md
+dbt-hart-dworkin-rules-principles,debates,The Hart–Dworkin Debate (Rules vs. Principles),7,349,content/ar/debates/dbt-hart-dworkin-rules-principles.md
+dbt-hart-fuller-law-morality-debate,debates,The Hart–Fuller Debate (Law and Morality),6,359,content/ar/debates/dbt-hart-fuller-law-morality-debate.md
+dbt-hart-devlin-morals-legislation,debates,The Hart–Devlin Debate (Legal Moralism vs. the Harm Principle),2,311,content/ar/debates/dbt-hart-devlin-morals-legislation.md
+sch-usul-al-fiqh-legal-theory,schools,Islamic Legal Theory (Usul al-Fiqh),109,455,content/ar/schools/sch-usul-al-fiqh-legal-theory.md
+sch-islamic-law-shariah,schools,Islamic Law and Sharia,46,335,content/ar/schools/sch-islamic-law-shariah.md
+sch-constitutional-law-theory,schools,Constitutional Law Theory,42,433,content/ar/schools/sch-constitutional-law-theory.md
+sch-civil-law-tradition,schools,Civil Law Tradition,29,779,content/ar/schools/sch-civil-law-tradition.md
+sch-legal-positivism-modern,schools,"Modern Legal Positivism (Kelsen, Hart)",27,701,content/ar/schools/sch-legal-positivism-modern.md
+sch-criminal-law-philosophy-responsibility,schools,Philosophy of Criminal Law and Responsibility,24,766,content/ar/schools/sch-criminal-law-philosophy-responsibility.md
+sch-international-law-theory,schools,International Law Theory,19,742,content/ar/schools/sch-international-law-theory.md
+sch-law-society-studies,schools,Law & Society Studies,18,651,content/ar/schools/sch-law-society-studies.md
+sch-american-legal-realism,schools,American Legal Realism,17,713,content/ar/schools/sch-american-legal-realism.md
+sch-legal-pluralism,schools,Legal Pluralism,16,826,content/ar/schools/sch-legal-pluralism.md
+sch-critical-legal-studies,schools,Critical Legal Studies (CLS),12,694,content/ar/schools/sch-critical-legal-studies.md
+sch-philosophy-of-law,schools,Philosophy of Law,11,743,content/ar/schools/sch-philosophy-of-law.md
+sch-law-and-economics,schools,Law and Economics,10,731,content/ar/schools/sch-law-and-economics.md
+sch-modern-natural-law-social-contract,schools,Modern Natural Law and Social Contract Theory,10,676,content/ar/schools/sch-modern-natural-law-social-contract.md
+sch-critical-race-theory-law,schools,Critical Race Theory (CRT),9,741,content/ar/schools/sch-critical-race-theory-law.md
+sch-legal-history-western,schools,History of Western Law,8,770,content/ar/schools/sch-legal-history-western.md
+sch-feminist-jurisprudence,schools,Feminist Jurisprudence,8,680,content/ar/schools/sch-feminist-jurisprudence.md
+sch-legal-history-non-western,schools,History of Non-Western Law,7,725,content/ar/schools/sch-legal-history-non-western.md
+sch-jurisprudence-natural-law,schools,Natural Law Jurisprudence,7,404,content/ar/schools/sch-jurisprudence-natural-law.md
+sch-criminal-law-theory,schools,Criminal Law Theory,6,760,content/ar/schools/sch-criminal-law-theory.md
+sch-common-law-tradition,schools,Common Law Tradition,6,737,content/ar/schools/sch-common-law-tradition.md
+sch-twail-postcolonial-international-law,schools,Third World Approaches to International Law (TWAIL),6,689,content/ar/schools/sch-twail-postcolonial-international-law.md
+sch-empirical-legal-studies,schools,Empirical Legal Studies (ELS),5,697,content/ar/schools/sch-empirical-legal-studies.md
+sch-scandinavian-legal-realism,schools,Scandinavian Legal Realism,4,674,content/ar/schools/sch-scandinavian-legal-realism.md
+sch-socialist-legal-systems,schools,Socialist Legal Systems,3,758,content/ar/schools/sch-socialist-legal-systems.md
+sch-customary-law-indigenous,schools,Customary & Indigenous Law,3,755,content/ar/schools/sch-customary-law-indigenous.md
+sch-labor-law-justice,schools,Labor Law & Justice,3,712,content/ar/schools/sch-labor-law-justice.md
+sch-restorative-justice,schools,Restorative Justice,3,705,content/ar/schools/sch-restorative-justice.md
+sch-philosophy-of-punishment,schools,"Philosophy of Punishment: Deterrence, Desert, Rehabilitation",3,664,content/ar/schools/sch-philosophy-of-punishment.md
+sch-human-rights-theory,schools,Human Rights Theory,2,390,content/ar/schools/sch-human-rights-theory.md
+sch-jurisprudence-legal-positivism,schools,Legal Positivism,1,730,content/ar/schools/sch-jurisprudence-legal-positivism.md
+sch-jurisprudence-legal-realism,schools,Legal Realism,1,720,content/ar/schools/sch-jurisprudence-legal-realism.md
+sch-bioethics-law,schools,Bioethics & Law,1,693,content/ar/schools/sch-bioethics-law.md
+sch-punishment-philosophy,schools,Philosophy of Punishment,0,747,content/ar/schools/sch-punishment-philosophy.md
+sch-civil-rights-studies,schools,Civil Rights Studies,0,703,content/ar/schools/sch-civil-rights-studies.md
+sch-environmental-law-ethics,schools,Environmental Law & Ethics,0,674,content/ar/schools/sch-environmental-law-ethics.md
+sch-law-of-war-armed-conflict,schools,Law of War,0,653,content/ar/schools/sch-law-of-war-armed-conflict.md
+thk-hla-hart,thinkers,H.L.A. Hart,46,700,content/ar/thinkers/thk-hla-hart.md
+thk-hans-kelsen,thinkers,Hans Kelsen,29,703,content/ar/thinkers/thk-hans-kelsen.md
+thk-abd-al-razzaq-al-sanhuri,thinkers,Abd al-Razzaq al-Sanhuri,22,613,content/ar/thinkers/thk-abd-al-razzaq-al-sanhuri.md
+thk-ronald-dworkin,thinkers,Ronald Dworkin,18,846,content/ar/thinkers/thk-ronald-dworkin.md
+thk-al-shafii,thinkers,Muhammad ibn Idris al-Shafi'i,17,1007,content/ar/thinkers/thk-al-shafii.md
+thk-ibn-taymiyya,thinkers,Ibn Taymiyya,15,910,content/ar/thinkers/thk-ibn-taymiyya.md
+thk-al-shatibi,thinkers,Abu Ishaq al-Shatibi,13,926,content/ar/thinkers/thk-al-shatibi.md
+thk-ibn-hazm,thinkers,Ibn Hazm al-Andalusi,12,945,content/ar/thinkers/thk-ibn-hazm.md
+thk-ronald-coase,thinkers,Ronald H. Coase,12,669,content/ar/thinkers/thk-ronald-coase.md
+thk-shams-al-aimma-al-sarakhsi,thinkers,Shams al-A'imma al-Sarakhsi,12,631,content/ar/thinkers/thk-shams-al-aimma-al-sarakhsi.md
+thk-malik-ibn-anas,thinkers,Malik ibn Anas,11,994,content/ar/thinkers/thk-malik-ibn-anas.md
+thk-oliver-wendell-holmes-jr,thinkers,Oliver Wendell Holmes Jr.,11,723,content/ar/thinkers/thk-oliver-wendell-holmes-jr.md
+thk-carl-schmitt,thinkers,Carl Schmitt,11,697,content/ar/thinkers/thk-carl-schmitt.md
+thk-wael-hallaq,thinkers,Wael B. Hallaq,11,690,content/ar/thinkers/thk-wael-hallaq.md
+thk-friedrich-carl-von-savigny,thinkers,Friedrich Carl von Savigny,10,794,content/ar/thinkers/thk-friedrich-carl-von-savigny.md
+thk-joseph-raz,thinkers,Joseph Raz,10,718,content/ar/thinkers/thk-joseph-raz.md
+thk-rene-david,thinkers,René David,10,683,content/ar/thinkers/thk-rene-david.md
+thk-alexander-bickel,thinkers,Alexander Bickel,10,673,content/ar/thinkers/thk-alexander-bickel.md
+thk-joel-feinberg,thinkers,Joel Feinberg,10,618,content/ar/thinkers/thk-joel-feinberg.md
+thk-karl-llewellyn,thinkers,Karl N. Llewellyn,9,748,content/ar/thinkers/thk-karl-llewellyn.md
+thk-richard-posner-law-economics,thinkers,Richard A. Posner,9,686,content/ar/thinkers/thk-richard-posner-law-economics.md
+thk-derrick-bell,thinkers,Derrick Bell,9,657,content/ar/thinkers/thk-derrick-bell.md
+thk-rudolf-von-jhering,thinkers,Rudolf von Jhering,9,653,content/ar/thinkers/thk-rudolf-von-jhering.md
+thk-duncan-kennedy,thinkers,Duncan Kennedy,9,651,content/ar/thinkers/thk-duncan-kennedy.md
+thk-thomas-franck,thinkers,Thomas M. Franck,8,694,content/ar/thinkers/thk-thomas-franck.md
+thk-lon-fuller,thinkers,Lon L. Fuller,8,665,content/ar/thinkers/thk-lon-fuller.md
+thk-shihab-al-din-al-qarafi,thinkers,Shihab al-Din al-Qarafi,8,664,content/ar/thinkers/thk-shihab-al-din-al-qarafi.md
+thk-john-austin-jurisprudence,thinkers,"John Austin (Legal Positivist, Command Theory)",7,674,content/ar/thinkers/thk-john-austin-jurisprudence.md
+thk-al-mawardi,thinkers,Al-Mawardi,7,646,content/ar/thinkers/thk-al-mawardi.md
+thk-mustafa-al-zarqa,thinkers,Mustafa al-Zarqa,7,624,content/ar/thinkers/thk-mustafa-al-zarqa.md
+thk-herbert-packer,thinkers,Herbert L. Packer,6,753,content/ar/thinkers/thk-herbert-packer.md
+thk-georg-jellinek,thinkers,Georg Jellinek,6,696,content/ar/thinkers/thk-georg-jellinek.md
+thk-konrad-zweigert,thinkers,Konrad Zweigert,6,677,content/ar/thinkers/thk-konrad-zweigert.md
+thk-abd-al-qadir-awda,thinkers,Abd al-Qadir Awda,6,671,content/ar/thinkers/thk-abd-al-qadir-awda.md
+thk-franz-wieacker,thinkers,Franz Wieacker,6,662,content/ar/thinkers/thk-franz-wieacker.md
+thk-abu-yusuf,thinkers,Abu Yusuf,6,605,content/ar/thinkers/thk-abu-yusuf.md
+thk-ahmad-ibn-hanbal,thinkers,Ahmad ibn Hanbal,5,999,content/ar/thinkers/thk-ahmad-ibn-hanbal.md
+thk-hersch-lauterpacht,thinkers,Hersch Lauterpacht,5,764,content/ar/thinkers/thk-hersch-lauterpacht.md
+thk-patrick-devlin,thinkers,Patrick Devlin,5,739,content/ar/thinkers/thk-patrick-devlin.md
+thk-albert-venn-dicey,thinkers,Albert Venn Dicey,5,720,content/ar/thinkers/thk-albert-venn-dicey.md
+thk-richard-delgado,thinkers,Richard Delgado,5,718,content/ar/thinkers/thk-richard-delgado.md
+thk-marc-galanter,thinkers,Marc Galanter,5,704,content/ar/thinkers/thk-marc-galanter.md
+thk-sally-engle-merry,thinkers,Sally Engle Merry,5,695,content/ar/thinkers/thk-sally-engle-merry.md
+thk-frederic-william-maitland,thinkers,Frederic William Maitland,5,691,content/ar/thinkers/thk-frederic-william-maitland.md
+thk-al-khassaf,thinkers,Abu Bakr al-Khassaf,5,690,content/ar/thinkers/thk-al-khassaf.md
+thk-douglas-husak,thinkers,Douglas Husak,5,688,content/ar/thinkers/thk-douglas-husak.md
+thk-al-marghinani,thinkers,Burhan al-Din al-Marghinani,5,680,content/ar/thinkers/thk-al-marghinani.md
+thk-larry-kramer,thinkers,Larry D. Kramer,5,668,content/ar/thinkers/thk-larry-kramer.md
+thk-izz-al-din-ibn-abd-al-salam,thinkers,Izz al-Din ibn Abd al-Salam,5,667,content/ar/thinkers/thk-izz-al-din-ibn-abd-al-salam.md
+thk-martha-fineman,thinkers,Martha Albertson Fineman,5,652,content/ar/thinkers/thk-martha-fineman.md
+thk-gunther-teubner,thinkers,Gunther Teubner,5,614,content/ar/thinkers/thk-gunther-teubner.md
+thk-martti-koskenniemi,thinkers,Martti Koskenniemi,4,747,content/ar/thinkers/thk-martti-koskenniemi.md
+thk-taj-al-din-al-subki,thinkers,Taj al-Din al-Subki,4,740,content/ar/thinkers/thk-taj-al-din-al-subki.md
+thk-mari-matsuda,thinkers,Mari J. Matsuda,4,738,content/ar/thinkers/thk-mari-matsuda.md
+thk-francois-geny,thinkers,François Gény,4,736,content/ar/thinkers/thk-francois-geny.md
+thk-hugo-grotius,thinkers,Hugo Grotius,4,723,content/ar/thinkers/thk-hugo-grotius.md
+thk-antony-anghie,thinkers,Antony Anghie,4,704,content/ar/thinkers/thk-antony-anghie.md
+thk-antony-duff,thinkers,R. Antony Duff,4,702,content/ar/thinkers/thk-antony-duff.md
+thk-imam-al-haramayn-al-juwayni,thinkers,Imam al-Haramayn al-Juwayni,4,702,content/ar/thinkers/thk-imam-al-haramayn-al-juwayni.md
+thk-otto-kahn-freund,thinkers,Otto Kahn-Freund,4,702,content/ar/thinkers/thk-otto-kahn-freund.md
+thk-louis-henkin,thinkers,Louis Henkin,4,695,content/ar/thinkers/thk-louis-henkin.md
+thk-harold-hongju-koh,thinkers,Harold Hongju Koh,4,687,content/ar/thinkers/thk-harold-hongju-koh.md
+thk-wahba-al-zuhayli,thinkers,Wahba al-Zuhayli,4,682,content/ar/thinkers/thk-wahba-al-zuhayli.md
+thk-tariq-al-bishri,thinkers,Tariq al-Bishri,4,681,content/ar/thinkers/thk-tariq-al-bishri.md
+thk-tony-honore,thinkers,Tony Honoré,4,681,content/ar/thinkers/thk-tony-honore.md
+thk-alf-ross,thinkers,Alf Ross,4,670,content/ar/thinkers/thk-alf-ross.md
+thk-john-finnis,thinkers,John Finnis,4,670,content/ar/thinkers/thk-john-finnis.md
+thk-john-gardner-legal-philosopher,thinkers,John Gardner,4,670,content/ar/thinkers/thk-john-gardner-legal-philosopher.md
+thk-masaji-chiba,thinkers,Masaji Chiba,4,668,content/ar/thinkers/thk-masaji-chiba.md
+thk-rudolph-peters,thinkers,Rudolph Peters,4,668,content/ar/thinkers/thk-rudolph-peters.md
+thk-jules-coleman,thinkers,Jules Coleman,4,665,content/ar/thinkers/thk-jules-coleman.md
+thk-werner-menski,thinkers,Werner Menski,4,661,content/ar/thinkers/thk-werner-menski.md
+thk-ali-abd-al-raziq,thinkers,Ali Abd al-Raziq,4,651,content/ar/thinkers/thk-ali-abd-al-raziq.md
+thk-stewart-macaulay,thinkers,Stewart Macaulay,4,640,content/ar/thinkers/thk-stewart-macaulay.md
+thk-john-griffiths-legal-pluralism,thinkers,John Griffiths,4,639,content/ar/thinkers/thk-john-griffiths-legal-pluralism.md
+thk-alan-watson-comparative-law,thinkers,Alan Watson,4,637,content/ar/thinkers/thk-alan-watson-comparative-law.md
+thk-henry-sumner-maine,thinkers,Henry Sumner Maine,4,637,content/ar/thinkers/thk-henry-sumner-maine.md
+thk-jeremy-waldron,thinkers,Jeremy Waldron,4,626,content/ar/thinkers/thk-jeremy-waldron.md
+thk-ernest-weinrib,thinkers,Ernest J. Weinrib,4,623,content/ar/thinkers/thk-ernest-weinrib.md
+thk-ibn-nujaym,thinkers,Ibn Nujaym,4,622,content/ar/thinkers/thk-ibn-nujaym.md
+thk-ibn-abidin,thinkers,Ibn Abidin,4,620,content/ar/thinkers/thk-ibn-abidin.md
+thk-andrew-von-hirsch,thinkers,Andrew von Hirsch,3,792,content/ar/thinkers/thk-andrew-von-hirsch.md
+thk-christopher-columbus-langdell,thinkers,Christopher Columbus Langdell,3,782,content/ar/thinkers/thk-christopher-columbus-langdell.md
+thk-robin-west,thinkers,Robin West,3,779,content/ar/thinkers/thk-robin-west.md
+thk-hans-welzel,thinkers,Hans Welzel,3,761,content/ar/thinkers/thk-hans-welzel.md
+thk-ibn-al-hajib,thinkers,Ibn al-Hajib,3,759,content/ar/thinkers/thk-ibn-al-hajib.md
+thk-glanville-williams,thinkers,Glanville Williams,3,735,content/ar/thinkers/thk-glanville-williams.md
+thk-george-p-fletcher,thinkers,George P. Fletcher,3,729,content/ar/thinkers/thk-george-p-fletcher.md
+thk-morton-horwitz,thinkers,Morton Horwitz,3,713,content/ar/thinkers/thk-morton-horwitz.md
+thk-norman-calder,thinkers,Norman Calder,3,702,content/ar/thinkers/thk-norman-calder.md
+thk-emilio-betti,thinkers,Emilio Betti,3,700,content/ar/thinkers/thk-emilio-betti.md
+thk-ibn-al-arabi-al-maliki,thinkers,"Ibn al-Arabi al-Maliki (jurist, d. 1148)",3,700,content/ar/thinkers/thk-ibn-al-arabi-al-maliki.md
+thk-philipp-heck,thinkers,Philipp Heck,3,700,content/ar/thinkers/thk-philipp-heck.md
+thk-samuel-moyn,thinkers,Samuel Moyn,3,695,content/ar/thinkers/thk-samuel-moyn.md
+thk-roberto-unger,thinkers,Roberto Mangabeira Unger,3,690,content/ar/thinkers/thk-roberto-unger.md
+thk-h-patrick-glenn,thinkers,H. Patrick Glenn,3,687,content/ar/thinkers/thk-h-patrick-glenn.md
+thk-abu-yala-al-farra,thinkers,Abu Ya'la al-Farra,3,675,content/ar/thinkers/thk-abu-yala-al-farra.md
+thk-sulayman-al-tamawi,thinkers,Sulayman al-Tamawi,3,675,content/ar/thinkers/thk-sulayman-al-tamawi.md
+thk-j-duncan-m-derrett,thinkers,J. Duncan M. Derrett,3,672,content/ar/thinkers/thk-j-duncan-m-derrett.md
+thk-ibn-al-humam,thinkers,Kamal al-Din Ibn al-Humam,3,671,content/ar/thinkers/thk-ibn-al-humam.md
+thk-karl-renner,thinkers,Karl Renner,3,671,content/ar/thinkers/thk-karl-renner.md
+thk-jerome-n-frank,thinkers,Jerome N. Frank,3,670,content/ar/thinkers/thk-jerome-n-frank.md
+thk-lee-epstein,thinkers,Lee Epstein,3,668,content/ar/thinkers/thk-lee-epstein.md
+thk-james-gordley,thinkers,James Gordley,3,667,content/ar/thinkers/thk-james-gordley.md
+thk-upendra-baxi,thinkers,Upendra Baxi,3,666,content/ar/thinkers/thk-upendra-baxi.md
+thk-al-qadi-abd-al-wahhab,thinkers,al-Qadi Abd al-Wahhab,3,664,content/ar/thinkers/thk-al-qadi-abd-al-wahhab.md
+thk-frank-vogel,thinkers,Frank E. Vogel,3,664,content/ar/thinkers/thk-frank-vogel.md
+thk-john-henry-merryman,thinkers,John Henry Merryman,3,663,content/ar/thinkers/thk-john-henry-merryman.md
+thk-muhammad-salim-al-awwa,thinkers,Muhammad Salim al-Awwa,3,662,content/ar/thinkers/thk-muhammad-salim-al-awwa.md
+thk-akhil-reed-amar,thinkers,Akhil Reed Amar,3,660,content/ar/thinkers/thk-akhil-reed-amar.md
+thk-axel-hagerstrom,thinkers,Axel Hägerström,3,660,content/ar/thinkers/thk-axel-hagerstrom.md
+thk-muhammad-al-tahir-ibn-ashur,thinkers,Muhammad al-Tahir ibn Ashur,3,656,content/ar/thinkers/thk-muhammad-al-tahir-ibn-ashur.md
+thk-michael-s-moore,thinkers,Michael S. Moore,3,654,content/ar/thinkers/thk-michael-s-moore.md
+thk-myres-mcdougal,thinkers,Myres S. McDougal,3,653,content/ar/thinkers/thk-myres-mcdougal.md
+thk-reva-siegel,thinkers,Reva Siegel,3,653,content/ar/thinkers/thk-reva-siegel.md
+thk-khaled-abou-el-fadl,thinkers,Khaled Abou El Fadl,3,651,content/ar/thinkers/thk-khaled-abou-el-fadl.md
+thk-yusuf-al-qaradawi,thinkers,Yusuf al-Qaradawi,3,650,content/ar/thinkers/thk-yusuf-al-qaradawi.md
+thk-wesley-newcomb-hohfeld,thinkers,Wesley Newcomb Hohfeld,3,648,content/ar/thinkers/thk-wesley-newcomb-hohfeld.md
+thk-roscoe-pound,thinkers,Roscoe Pound,3,624,content/ar/thinkers/thk-roscoe-pound.md
+thk-benjamin-cardozo,thinkers,Benjamin Cardozo,3,617,content/ar/thinkers/thk-benjamin-cardozo.md
+thk-ibn-qayyim-al-jawziyya,thinkers,Ibn Qayyim al-Jawziyya,3,614,content/ar/thinkers/thk-ibn-qayyim-al-jawziyya.md
+thk-santi-romano,thinkers,Santi Romano,3,605,content/ar/thinkers/thk-santi-romano.md
+thk-abu-bakr-al-jassas,thinkers,Abu Bakr al-Jassas,3,602,content/ar/thinkers/thk-abu-bakr-al-jassas.md
+thk-badr-al-din-al-zarkashi,thinkers,Badr al-Din al-Zarkashi,3,602,content/ar/thinkers/thk-badr-al-din-al-zarkashi.md
+thk-khalil-ibn-ishaq,thinkers,Khalil ibn Ishaq,2,762,content/ar/thinkers/thk-khalil-ibn-ishaq.md
+thk-john-hart-ely,thinkers,John Hart Ely,2,759,content/ar/thinkers/thk-john-hart-ely.md
+thk-ibn-farhun,thinkers,Ibn Farhun,2,755,content/ar/thinkers/thk-ibn-farhun.md
+thk-balakrishnan-rajagopal,thinkers,Balakrishnan Rajagopal,2,746,content/ar/thinkers/thk-balakrishnan-rajagopal.md
+thk-abu-al-hasan-al-karkhi,thinkers,Abu al-Hasan al-Karkhi,2,744,content/ar/thinkers/thk-abu-al-hasan-al-karkhi.md
+thk-muhammad-qadri-pasha,thinkers,Muhammad Qadri Pasha,2,744,content/ar/thinkers/thk-muhammad-qadri-pasha.md
+thk-herbert-wechsler,thinkers,Herbert Wechsler,2,732,content/ar/thinkers/thk-herbert-wechsler.md
+thk-ibn-aqil,thinkers,Ibn Aqil,2,728,content/ar/thinkers/thk-ibn-aqil.md
+thk-lassa-oppenheim,thinkers,Lassa Oppenheim,2,725,content/ar/thinkers/thk-lassa-oppenheim.md
+thk-cass-sunstein,thinkers,Cass R. Sunstein,2,722,content/ar/thinkers/thk-cass-sunstein.md
+thk-antony-allott,thinkers,Antony Allott,2,719,content/ar/thinkers/thk-antony-allott.md
+thk-abu-al-husayn-al-basri,thinkers,Abu al-Husayn al-Basri,2,718,content/ar/thinkers/thk-abu-al-husayn-al-basri.md
+thk-karl-olivecrona,thinkers,Karl Olivecrona,2,713,content/ar/thinkers/thk-karl-olivecrona.md
+thk-taslim-olawale-elias,thinkers,Taslim Olawale Elias,2,713,content/ar/thinkers/thk-taslim-olawale-elias.md
+thk-menachem-elon,thinkers,Menachem Elon,2,712,content/ar/thinkers/thk-menachem-elon.md
+thk-mohammad-hashim-kamali,thinkers,Mohammad Hashim Kamali,2,711,content/ar/thinkers/thk-mohammad-hashim-kamali.md
+thk-knut-vikor,thinkers,Knut S. Vikør,2,707,content/ar/thinkers/thk-knut-vikor.md
+thk-judith-tucker,thinkers,Judith Tucker,2,700,content/ar/thinkers/thk-judith-tucker.md
+thk-gustav-radbruch,thinkers,Gustav Radbruch,2,699,content/ar/thinkers/thk-gustav-radbruch.md
+thk-mirjan-damaska,thinkers,Mirjan Damaška,2,699,content/ar/thinkers/thk-mirjan-damaska.md
+thk-guido-calabresi,thinkers,Guido Calabresi,2,691,content/ar/thinkers/thk-guido-calabresi.md
+thk-al-kasani,thinkers,Ala' al-Din al-Kasani,2,685,content/ar/thinkers/thk-al-kasani.md
+thk-christopher-melchert,thinkers,Christopher Melchert,2,685,content/ar/thinkers/thk-christopher-melchert.md
+thk-andrew-ashworth,thinkers,Andrew Ashworth,2,677,content/ar/thinkers/thk-andrew-ashworth.md
+thk-theodore-eisenberg,thinkers,Theodore Eisenberg,2,677,content/ar/thinkers/thk-theodore-eisenberg.md
+thk-jerome-alan-cohen,thinkers,Jerome Alan Cohen,2,671,content/ar/thinkers/thk-jerome-alan-cohen.md
+thk-rodolfo-sacco,thinkers,Rodolfo Sacco,2,669,content/ar/thinkers/thk-rodolfo-sacco.md
+thk-muhammad-al-shawkani,thinkers,Muhammad al-Shawkani,2,664,content/ar/thinkers/thk-muhammad-al-shawkani.md
+thk-reinhard-zimmermann,thinkers,Reinhard Zimmermann,2,664,content/ar/thinkers/thk-reinhard-zimmermann.md
+thk-otto-von-gierke,thinkers,Otto von Gierke,2,662,content/ar/thinkers/thk-otto-von-gierke.md
+thk-anne-marie-slaughter,thinkers,Anne-Marie Slaughter,2,661,content/ar/thinkers/thk-anne-marie-slaughter.md
+thk-intisar-rabb,thinkers,Intisar A. Rabb,2,661,content/ar/thinkers/thk-intisar-rabb.md
+thk-andrei-marmor,thinkers,Andrei Marmor,2,660,content/ar/thinkers/thk-andrei-marmor.md
+thk-fakhr-al-islam-al-bazdawi,thinkers,Fakhr al-Islam al-Bazdawi,2,660,content/ar/thinkers/thk-fakhr-al-islam-al-bazdawi.md
+thk-frank-michelman,thinkers,Frank Michelman,2,659,content/ar/thinkers/thk-frank-michelman.md
+thk-hugo-sinzheimer,thinkers,Hugo Sinzheimer,2,654,content/ar/thinkers/thk-hugo-sinzheimer.md
+thk-lawrence-m-friedman,thinkers,Lawrence M. Friedman,2,654,content/ar/thinkers/thk-lawrence-m-friedman.md
+thk-jack-balkin,thinkers,Jack M. Balkin,2,653,content/ar/thinkers/thk-jack-balkin.md
+thk-jamal-al-din-al-isnawi,thinkers,Jamal al-Din al-Isnawi,2,651,content/ar/thinkers/thk-jamal-al-din-al-isnawi.md
+thk-josef-esser,thinkers,Josef Esser,2,651,content/ar/thinkers/thk-josef-esser.md
+thk-laurence-tribe,thinkers,Laurence Tribe,2,651,content/ar/thinkers/thk-laurence-tribe.md
+thk-georges-abi-saab,thinkers,Georges Abi-Saab,2,650,content/ar/thinkers/thk-georges-abi-saab.md
+thk-robert-alexy,thinkers,Robert Alexy,2,642,content/ar/thinkers/thk-robert-alexy.md
+thk-abu-zayd-al-dabusi,thinkers,Abu Zayd al-Dabusi,2,636,content/ar/thinkers/thk-abu-zayd-al-dabusi.md
+thk-bruce-ackerman,thinkers,Bruce Ackerman,2,627,content/ar/thinkers/thk-bruce-ackerman.md
+thk-abd-al-wahhab-khallaf,thinkers,Abd al-Wahhab Khallaf,2,625,content/ar/thinkers/thk-abd-al-wahhab-khallaf.md
+thk-evgeny-pashukanis,thinkers,Evgeny Pashukanis,2,615,content/ar/thinkers/thk-evgeny-pashukanis.md
+thk-maurice-hauriou,thinkers,Maurice Hauriou,2,607,content/ar/thinkers/thk-maurice-hauriou.md
+thk-ahmad-al-wansharisi,thinkers,Ahmad al-Wansharisi,2,605,content/ar/thinkers/thk-ahmad-al-wansharisi.md
+thk-ibn-qudama,thinkers,Ibn Qudama,1,760,content/ar/thinkers/thk-ibn-qudama.md
+thk-germain-grisez,thinkers,Germain Grisez,1,758,content/ar/thinkers/thk-germain-grisez.md
+thk-rudolf-stammler,thinkers,Rudolf Stammler,1,757,content/ar/thinkers/thk-rudolf-stammler.md
+thk-leslie-green-legal-philosopher,thinkers,Leslie Green,1,742,content/ar/thinkers/thk-leslie-green-legal-philosopher.md
+thk-ibn-rushd-al-jadd,thinkers,Ibn Rushd al-Jadd,1,741,content/ar/thinkers/thk-ibn-rushd-al-jadd.md
+thk-ibn-daqiq-al-id,thinkers,Ibn Daqiq al-'Id,1,735,content/ar/thinkers/thk-ibn-daqiq-al-id.md
+thk-muhammad-al-shaybani,thinkers,Muhammad al-Shaybani,1,730,content/ar/thinkers/thk-muhammad-al-shaybani.md
+thk-patricia-j-williams,thinkers,Patricia J. Williams,1,725,content/ar/thinkers/thk-patricia-j-williams.md
+thk-samuel-pufendorf,thinkers,Samuel Pufendorf,1,717,content/ar/thinkers/thk-samuel-pufendorf.md
+thk-rudolf-smend,thinkers,Rudolf Smend,1,707,content/ar/thinkers/thk-rudolf-smend.md
+thk-mark-tushnet,thinkers,Mark Tushnet,1,706,content/ar/thinkers/thk-mark-tushnet.md
+thk-gary-king,thinkers,Gary King,1,694,content/ar/thinkers/thk-gary-king.md
+thk-ali-jumaa,thinkers,Ali Jum'ah,1,689,content/ar/thinkers/thk-ali-jumaa.md
+thk-ali-al-khafif,thinkers,Ali al-Khafif,1,681,content/ar/thinkers/thk-ali-al-khafif.md
+thk-muhammad-mustafa-shalabi,thinkers,Muhammad Mustafa Shalabi,1,681,content/ar/thinkers/thk-muhammad-mustafa-shalabi.md
+thk-david-s-powers,thinkers,David S. Powers,1,680,content/ar/thinkers/thk-david-s-powers.md
+thk-ibn-rajab-al-hanbali,thinkers,Ibn Rajab al-Hanbali,1,680,content/ar/thinkers/thk-ibn-rajab-al-hanbali.md
+thk-ruti-teitel,thinkers,Ruti G. Teitel,1,679,content/ar/thinkers/thk-ruti-teitel.md
+thk-najm-al-din-al-tufi,thinkers,Najm al-Din al-Tufi,1,677,content/ar/thinkers/thk-najm-al-din-al-tufi.md
+thk-haim-gerber,thinkers,Haim Gerber,1,668,content/ar/thinkers/thk-haim-gerber.md
+thk-nils-christie,thinkers,Nils Christie,1,665,content/ar/thinkers/thk-nils-christie.md
+thk-peter-stein-legal-historian,thinkers,Peter Stein,1,665,content/ar/thinkers/thk-peter-stein-legal-historian.md
+thk-aron-zysow,thinkers,Aron Zysow,1,663,content/ar/thinkers/thk-aron-zysow.md
+thk-hermann-heller,thinkers,Hermann Heller,1,663,content/ar/thinkers/thk-hermann-heller.md
+thk-neil-maccormick,thinkers,Neil MacCormick,1,663,content/ar/thinkers/thk-neil-maccormick.md
+thk-mohammad-fadel,thinkers,Mohammad Fadel,1,662,content/ar/thinkers/thk-mohammad-fadel.md
+thk-antonin-scalia,thinkers,Antonin Scalia,1,660,content/ar/thinkers/thk-antonin-scalia.md
+thk-scott-shapiro-legal-philosopher,thinkers,Scott J. Shapiro,1,657,content/ar/thinkers/thk-scott-shapiro-legal-philosopher.md
+thk-jean-stefancic,thinkers,Jean Stefancic,1,652,content/ar/thinkers/thk-jean-stefancic.md
+thk-hermann-kantorowicz,thinkers,Hermann Kantorowicz,1,635,content/ar/thinkers/thk-hermann-kantorowicz.md
+thk-franz-neumann,thinkers,Franz L. Neumann,1,634,content/ar/thinkers/thk-franz-neumann.md
+thk-muhammad-abu-zahra,thinkers,Muhammad Abu Zahra,1,632,content/ar/thinkers/thk-muhammad-abu-zahra.md
+thk-al-nawawi,thinkers,Al-Nawawi,1,623,content/ar/thinkers/thk-al-nawawi.md
+thk-baber-johansen,thinkers,Baber Johansen,1,622,content/ar/thinkers/thk-baber-johansen.md
+thk-robert-cover,thinkers,Robert M. Cover,1,611,content/ar/thinkers/thk-robert-cover.md
+thk-abu-jafar-al-tahawi,thinkers,Abu Ja'far al-Tahawi,1,610,content/ar/thinkers/thk-abu-jafar-al-tahawi.md
+thk-ahmad-al-raysuni,thinkers,Ahmad al-Raysuni,1,608,content/ar/thinkers/thk-ahmad-al-raysuni.md
+thk-abdullahi-an-naim,thinkers,Abdullahi Ahmed An-Na'im,1,606,content/ar/thinkers/thk-abdullahi-an-naim.md
+thk-leon-duguit,thinkers,Léon Duguit,1,606,content/ar/thinkers/thk-leon-duguit.md
+thk-bernard-weiss,thinkers,Bernard G. Weiss,1,602,content/ar/thinkers/thk-bernard-weiss.md
+thk-abd-al-hamid-mutawalli,thinkers,Abd al-Hamid Mutawalli,0,707,content/ar/thinkers/thk-abd-al-hamid-mutawalli.md
+thk-brian-leiter,thinkers,Brian Leiter,0,697,content/ar/thinkers/thk-brian-leiter.md
+thk-joseph-weiler,thinkers,Joseph H.H. Weiler,0,688,content/ar/thinkers/thk-joseph-weiler.md
+thk-allal-al-fasi,thinkers,Allal al-Fasi,0,685,content/ar/thinkers/thk-allal-al-fasi.md
+thk-william-blackstone,thinkers,William Blackstone,0,673,content/ar/thinkers/thk-william-blackstone.md
+thk-leon-petrazycki,thinkers,Leon Petrażycki,0,667,content/ar/thinkers/thk-leon-petrazycki.md
+thk-abu-ishaq-al-shirazi,thinkers,Abu Ishaq al-Shirazi,0,663,content/ar/thinkers/thk-abu-ishaq-al-shirazi.md
+thk-matthew-kramer,thinkers,Matthew H. Kramer,0,658,content/ar/thinkers/thk-matthew-kramer.md
+thk-sherman-jackson,thinkers,Sherman A. Jackson,0,654,content/ar/thinkers/thk-sherman-jackson.md
+thk-muhammad-khalid-masud,thinkers,Muhammad Khalid Masud,0,651,content/ar/thinkers/thk-muhammad-khalid-masud.md
+thk-subhi-mahmasani,thinkers,Subhi Mahmasani,0,642,content/ar/thinkers/thk-subhi-mahmasani.md
+thk-abu-al-walid-al-baji,thinkers,Abu al-Walid al-Baji,0,632,content/ar/thinkers/thk-abu-al-walid-al-baji.md
+thk-norberto-bobbio,thinkers,Norberto Bobbio,0,605,content/ar/thinkers/thk-norberto-bobbio.md
+thk-noel-coulson,thinkers,Noel J. Coulson,0,601,content/ar/thinkers/thk-noel-coulson.md
+wrk-majallat-al-ahkam-al-adliyya,works,Majallat al-Ahkam al-Adliyya (The Mecelle),8,643,content/ar/works/wrk-majallat-al-ahkam-al-adliyya.md
+wrk-road-serfdom-hayek,works,The Road to Serfdom,7,711,content/ar/works/wrk-road-serfdom-hayek.md
+wrk-the-concept-of-law-hart,works,The Concept of Law,6,885,content/ar/works/wrk-the-concept-of-law-hart.md
+wrk-al-risala-shafii,works,Al-Risala fi Usul al-Fiqh,6,670,content/ar/works/wrk-al-risala-shafii.md
+wrk-al-bahr-al-muhit-zarkashi,works,Al-Bahr al-Muhit fi Usul al-Fiqh,5,726,content/ar/works/wrk-al-bahr-al-muhit-zarkashi.md
+wrk-al-mustasfa-ghazali,works,Al-Mustasfa min 'Ilm al-Usul,5,725,content/ar/works/wrk-al-mustasfa-ghazali.md
+wrk-al-ihkam-al-amidi,works,Al-Ihkam fi Usul al-Ahkam,5,722,content/ar/works/wrk-al-ihkam-al-amidi.md
+wrk-kitab-al-kharaj-abu-yusuf,works,Kitab al-Kharaj,5,691,content/ar/works/wrk-kitab-al-kharaj-abu-yusuf.md
+wrk-al-muwafaqat-shatibi,works,Al-Muwafaqat fi Usul al-Shari'ah,4,687,content/ar/works/wrk-al-muwafaqat-shatibi.md
+wrk-democracy-and-distrust-ely,works,Democracy and Distrust: A Theory of Judicial Review,4,674,content/ar/works/wrk-democracy-and-distrust-ely.md
+wrk-laws-empire-dworkin,works,Law's Empire,4,665,content/ar/works/wrk-laws-empire-dworkin.md
+wrk-al-tashri-al-jinai-al-islami-awda,works,Al-Tashri' al-Jina'i al-Islami Muqaranan bi-l-Qanun al-Wad'i,4,654,content/ar/works/wrk-al-tashri-al-jinai-al-islami-awda.md
+wrk-al-ashbah-wa-al-nazair-ibn-nujaym,works,Al-Ashbah wa al-Naza'ir,4,632,content/ar/works/wrk-al-ashbah-wa-al-nazair-ibn-nujaym.md
+wrk-model-penal-code,works,Model Penal Code,3,790,content/ar/works/wrk-model-penal-code.md
+wrk-pure-theory-of-law-kelsen,works,Pure Theory of Law (Reine Rechtslehre),3,704,content/ar/works/wrk-pure-theory-of-law-kelsen.md
+wrk-causation-in-the-law-hart-honore,works,Causation in the Law,3,696,content/ar/works/wrk-causation-in-the-law-hart-honore.md
+wrk-al-hidaya-marghinani,works,Al-Hidaya Sharh Bidayat al-Mubtadi,3,684,content/ar/works/wrk-al-hidaya-marghinani.md
+wrk-punishment-and-responsibility-hart,works,Punishment and Responsibility: Essays in the Philosophy of Law,3,682,content/ar/works/wrk-punishment-and-responsibility-hart.md
+wrk-al-siyasa-al-shariyya-ibn-taymiyya,works,Al-Siyasa al-Shar'iyya fi Islah al-Ra'i wa al-Ra'iyya,3,672,content/ar/works/wrk-al-siyasa-al-shariyya-ibn-taymiyya.md
+wrk-the-morality-of-law-fuller,works,The Morality of Law,3,668,content/ar/works/wrk-the-morality-of-law-fuller.md
+wrk-the-power-of-legitimacy-among-nations-franck,works,The Power of Legitimacy Among Nations,3,666,content/ar/works/wrk-the-power-of-legitimacy-among-nations-franck.md
+wrk-al-talqin-qadi-abd-al-wahhab,works,Al-Talqin fi al-Fiqh al-Maliki,3,661,content/ar/works/wrk-al-talqin-qadi-abd-al-wahhab.md
+wrk-last-utopia-moyn,works,The Last Utopia: Human Rights in History,3,653,content/ar/works/wrk-last-utopia-moyn.md
+wrk-qawaid-al-ahkam-izz-ibn-abd-al-salam,works,Qawa'id al-Ahkam fi Masalih al-Anam,3,634,content/ar/works/wrk-qawaid-al-ahkam-izz-ibn-abd-al-salam.md
+wrk-the-moral-limits-of-the-criminal-law-feinberg,works,The Moral Limits of the Criminal Law,3,617,content/ar/works/wrk-the-moral-limits-of-the-criminal-law-feinberg.md
+wrk-al-wasit-sanhuri,works,Al-Wasit fi Sharh al-Qanun al-Madani,3,613,content/ar/works/wrk-al-wasit-sanhuri.md
+wrk-leviathan-hobbes,works,Leviathan,3,442,content/ar/works/wrk-leviathan-hobbes.md
+wrk-al-mughni-ibn-qudama,works,Al-Mughni,2,757,content/ar/works/wrk-al-mughni-ibn-qudama.md
+wrk-political-theology-schmitt,works,Political Theology: Four Chapters on the Concept of Sovereignty,2,718,content/ar/works/wrk-political-theology-schmitt.md
+wrk-the-formation-of-the-sunni-schools-of-law-melchert,works,"The Formation of the Sunni Schools of Law, 9th–10th Centuries C.E.",2,717,content/ar/works/wrk-the-formation-of-the-sunni-schools-of-law-melchert.md
+wrk-authority-of-law-raz,works,The Authority of Law: Essays on Law and Morality,2,711,content/ar/works/wrk-authority-of-law-raz.md
+wrk-jewish-law-history-sources-principles-elon,works,"Jewish Law: History, Sources, Principles (Ha-Mishpat Ha-Ivri)",2,707,content/ar/works/wrk-jewish-law-history-sources-principles-elon.md
+wrk-the-limits-of-the-criminal-sanction-packer,works,The Limits of the Criminal Sanction,2,700,content/ar/works/wrk-the-limits-of-the-criminal-sanction-packer.md
+wrk-adab-al-qadi-khassaf,works,Adab al-Qadi,2,698,content/ar/works/wrk-adab-al-qadi-khassaf.md
+wrk-allgemeine-staatslehre-jellinek,works,General Theory of the State,2,698,content/ar/works/wrk-allgemeine-staatslehre-jellinek.md
+wrk-al-mutamad-abu-al-husayn-al-basri,works,Al-Mu'tamad fi Usul al-Fiqh,2,696,content/ar/works/wrk-al-mutamad-abu-al-husayn-al-basri.md
+wrk-toward-a-feminist-theory-of-the-state-mackinnon,works,Toward a Feminist Theory of the State,2,691,content/ar/works/wrk-toward-a-feminist-theory-of-the-state-mackinnon.md
+wrk-al-ahkam-al-sultaniyya-abu-yala,works,Al-Ahkam al-Sultaniyya (Abu Ya'la),2,689,content/ar/works/wrk-al-ahkam-al-sultaniyya-abu-yala.md
+wrk-fath-al-qadir-ibn-al-humam,works,Fath al-Qadir Sharh al-Hidaya,2,684,content/ar/works/wrk-fath-al-qadir-ibn-al-humam.md
+wrk-murshid-al-hayran-qadri-pasha,works,Murshid al-Hayran ila Ma'rifat Ahwal al-Insan,2,681,content/ar/works/wrk-murshid-al-hayran-qadri-pasha.md
+wrk-badai-al-sanai-kasani,works,Bada'i' al-Sana'i' fi Tartib al-Shara'i',2,678,content/ar/works/wrk-badai-al-sanai-kasani.md
+wrk-how-nations-behave-henkin,works,How Nations Behave: Law and Foreign Policy,2,670,content/ar/works/wrk-how-nations-behave-henkin.md
+wrk-bidayat-al-mujtahid,works,Bidayat al-Mujtahid wa-Nihayat al-Muqtasid,2,669,content/ar/works/wrk-bidayat-al-mujtahid.md
+wrk-studies-in-early-muslim-jurisprudence-calder,works,Studies in Early Muslim Jurisprudence,2,669,content/ar/works/wrk-studies-in-early-muslim-jurisprudence-calder.md
+wrk-ahkam-al-quran-ibn-al-arabi,works,Ahkam al-Qur'an (Ibn al-Arabi al-Maliki),2,668,content/ar/works/wrk-ahkam-al-quran-ibn-al-arabi.md
+wrk-general-theory-of-law-and-marxism-pashukanis,works,The General Theory of Law and Marxism,2,668,content/ar/works/wrk-general-theory-of-law-and-marxism-pashukanis.md
+wrk-the-faces-of-justice-and-state-authority,works,The Faces of Justice and State Authority: A Comparative Approach to the Legal Process,2,666,content/ar/works/wrk-the-faces-of-justice-and-state-authority.md
+wrk-the-people-themselves-kramer,works,The People Themselves: Popular Constitutionalism and Judicial Review,2,663,content/ar/works/wrk-the-people-themselves-kramer.md
+wrk-introduction-to-the-study-of-the-law-of-the-constitution,works,Introduction to the Study of the Law of the Constitution,2,662,content/ar/works/wrk-introduction-to-the-study-of-the-law-of-the-constitution.md
+wrk-islamic-law-and-legal-system-vogel,works,Islamic Law and Legal System: Studies of Saudi Arabia,2,661,content/ar/works/wrk-islamic-law-and-legal-system-vogel.md
+wrk-fundamental-legal-conceptions-hohfeld,works,Fundamental Legal Conceptions as Applied in Judicial Reasoning,2,658,content/ar/works/wrk-fundamental-legal-conceptions-hohfeld.md
+wrk-teoria-generale-interpretazione-betti,works,Teoria generale della interpretazione (General Theory of Interpretation),2,657,content/ar/works/wrk-teoria-generale-interpretazione-betti.md
+wrk-ilam-al-muwaqqiin-ibn-qayyim,works,I'lam al-Muwaqqi'in an Rabb al-Alamin,2,654,content/ar/works/wrk-ilam-al-muwaqqiin-ibn-qayyim.md
+wrk-taking-rights-seriously-dworkin,works,Taking Rights Seriously,2,653,content/ar/works/wrk-taking-rights-seriously-dworkin.md
+wrk-introduction-to-comparative-law-zweigert-kotz,works,Introduction to Comparative Law (Einführung in die Rechtsvergleichung),2,652,content/ar/works/wrk-introduction-to-comparative-law-zweigert-kotz.md
+wrk-natural-law-and-natural-rights-finnis,works,Natural Law and Natural Rights,2,650,content/ar/works/wrk-natural-law-and-natural-rights-finnis.md
+wrk-the-path-of-the-law-holmes,works,The Path of the Law,2,644,content/ar/works/wrk-the-path-of-the-law-holmes.md
+wrk-legal-transplants-watson,works,Legal Transplants: An Approach to Comparative Law,2,629,content/ar/works/wrk-legal-transplants-watson.md
+wrk-the-struggle-for-law-jhering,works,Der Kampf ums Recht (The Struggle for Law),2,625,content/ar/works/wrk-the-struggle-for-law-jhering.md
+wrk-the-nature-of-the-judicial-process-cardozo,works,The Nature of the Judicial Process,2,618,content/ar/works/wrk-the-nature-of-the-judicial-process-cardozo.md
+wrk-the-idea-of-private-law-weinrib,works,The Idea of Private Law,2,602,content/ar/works/wrk-the-idea-of-private-law-weinrib.md
+wrk-methode-d-interpretation-geny,works,Method of Interpretation and Sources of Positive Private Law,1,808,content/ar/works/wrk-methode-d-interpretation-geny.md
+wrk-vom-beruf-unsrer-zeit-savigny,works,Of the Vocation of Our Age for Legislation and Jurisprudence,1,783,content/ar/works/wrk-vom-beruf-unsrer-zeit-savigny.md
+wrk-from-apology-to-utopia-koskenniemi,works,From Apology to Utopia: The Structure of International Legal Argument,1,736,content/ar/works/wrk-from-apology-to-utopia-koskenniemi.md
+wrk-the-function-of-law-in-the-international-community-lauterpacht,works,The Function of Law in the International Community,1,734,content/ar/works/wrk-the-function-of-law-in-the-international-community-lauterpacht.md
+wrk-the-transformation-of-american-law-horwitz,works,"The Transformation of American Law, 1780–1860",1,727,content/ar/works/wrk-the-transformation-of-american-law-horwitz.md
+wrk-a-matter-of-principle-dworkin,works,A Matter of Principle,1,718,content/ar/works/wrk-a-matter-of-principle-dworkin.md
+wrk-economic-analysis-of-law-posner,works,Economic Analysis of Law,1,716,content/ar/works/wrk-economic-analysis-of-law-posner.md
+wrk-crime-and-punishment-in-islamic-law-peters,works,Crime and Punishment in Islamic Law,1,715,content/ar/works/wrk-crime-and-punishment-in-islamic-law-peters.md
+wrk-the-alchemy-of-race-and-rights,works,The Alchemy of Race and Rights: Diary of a Law Professor,1,714,content/ar/works/wrk-the-alchemy-of-race-and-rights.md
+wrk-the-economy-of-certainty-zysow,works,The Economy of Certainty: An Introduction to the Typology of Islamic Legal Theory,1,707,content/ar/works/wrk-the-economy-of-certainty-zysow.md
+wrk-al-madkhal-al-fiqhi-al-amm-zarqa,works,Al-Madkhal al-Fiqhi al-'Amm,1,705,content/ar/works/wrk-al-madkhal-al-fiqhi-al-amm-zarqa.md
+wrk-al-wadih-fi-usul-al-fiqh-ibn-aqil,works,Al-Wadih fi Usul al-Fiqh,1,705,content/ar/works/wrk-al-wadih-fi-usul-al-fiqh-ibn-aqil.md
+wrk-limits-to-pain-christie,works,Limits to Pain,1,702,content/ar/works/wrk-limits-to-pain-christie.md
+wrk-overcriminalization-husak,works,Overcriminalization: The Limits of the Criminal Law,1,697,content/ar/works/wrk-overcriminalization-husak.md
+wrk-the-nature-of-african-customary-law-elias,works,The Nature of African Customary Law,1,697,content/ar/works/wrk-the-nature-of-african-customary-law-elias.md
+wrk-false-necessity-unger,works,False Necessity: Anti-Necessitarian Social Theory in the Service of Radical Democracy,1,696,content/ar/works/wrk-false-necessity-unger.md
+wrk-constitution-interpretation-theory,works,Constitutional Interpretation Theory,1,694,content/ar/works/wrk-constitution-interpretation-theory.md
+wrk-das-deutsche-genossenschaftsrecht,works,Das deutsche Genossenschaftsrecht,1,687,content/ar/works/wrk-das-deutsche-genossenschaftsrecht.md
+wrk-history-of-english-law-before-edward-i,works,The History of English Law before the Time of Edward I,1,687,content/ar/works/wrk-history-of-english-law-before-edward-i.md
+wrk-morality-of-law,works,The Morality of Law,1,686,content/ar/works/wrk-morality-of-law.md
+wrk-al-fiqh-al-islami-wa-adillatuhu-zuhayli,works,Al-Fiqh al-Islami wa Adillatuhu,1,684,content/ar/works/wrk-al-fiqh-al-islami-wa-adillatuhu-zuhayli.md
+wrk-rethinking-criminal-law-fletcher,works,Rethinking Criminal Law,1,683,content/ar/works/wrk-rethinking-criminal-law-fletcher.md
+wrk-legal-pluralism-toward-a-general-theory-chiba,works,Legal Pluralism: Toward a General Theory through Japanese Legal Culture,1,681,content/ar/works/wrk-legal-pluralism-toward-a-general-theory-chiba.md
+wrk-answering-for-crime-duff,works,Answering for Crime: Responsibility and Liability in the Criminal Law,1,680,content/ar/works/wrk-answering-for-crime-duff.md
+wrk-a-history-of-private-law-in-europe-wieacker,works,Privatrechtsgeschichte der Neuzeit / A History of Private Law in Europe,1,664,content/ar/works/wrk-a-history-of-private-law-in-europe-wieacker.md
+wrk-les-grands-systemes-de-droit-contemporains,works,Les grands systèmes de droit contemporains,1,664,content/ar/works/wrk-les-grands-systemes-de-droit-contemporains.md
+wrk-legal-traditions-of-the-world-glenn,works,Legal Traditions of the World: Sustainable Diversity in Law,1,663,content/ar/works/wrk-legal-traditions-of-the-world-glenn.md
+wrk-living-originalism-balkin,works,Living Originalism,1,663,content/ar/works/wrk-living-originalism-balkin.md
+wrk-second-treatise-locke,works,Second Treatise of Government,1,663,content/ar/works/wrk-second-treatise-locke.md
+wrk-province-of-jurisprudence-austin,works,The Province of Jurisprudence Determined,1,661,content/ar/works/wrk-province-of-jurisprudence-austin.md
+wrk-general-theory-of-law-and-state-kelsen,works,General Theory of Law and State,1,660,content/ar/works/wrk-general-theory-of-law-and-state-kelsen.md
+wrk-anwar-al-buruq-al-furuq-qarafi,works,Anwar al-Buruq fi Anwa al-Furuq,1,658,content/ar/works/wrk-anwar-al-buruq-al-furuq-qarafi.md
+wrk-al-islam-wa-usul-al-hukm,works,Al-Islam wa Usul al-Hukm,1,654,content/ar/works/wrk-al-islam-wa-usul-al-hukm.md
+wrk-the-law-of-obligations-zimmermann,works,The Law of Obligations: Roman Foundations of the Civilian Tradition,1,654,content/ar/works/wrk-the-law-of-obligations-zimmermann.md
+wrk-the-institutions-of-private-law-renner,works,The Institutions of Private Law and Their Social Functions,1,652,content/ar/works/wrk-the-institutions-of-private-law-renner.md
+wrk-the-civil-law-tradition-merryman,works,The Civil Law Tradition: An Introduction to the Legal Systems of Western Europe and Latin America,1,651,content/ar/works/wrk-the-civil-law-tradition-merryman.md
+wrk-american-constitutional-law-tribe,works,American Constitutional Law,1,650,content/ar/works/wrk-american-constitutional-law-tribe.md
+wrk-al-miyar-al-murib-wansharisi,works,Al-Mi'yar al-Mu'rib wa al-Jami' al-Mughrib,1,638,content/ar/works/wrk-al-miyar-al-murib-wansharisi.md
+wrk-toward-an-islamic-reformation-an-naim,works,"Toward an Islamic Reformation: Civil Liberties, Human Rights, and International Law",1,638,content/ar/works/wrk-toward-an-islamic-reformation-an-naim.md
+wrk-al-burhan-fi-usul-al-fiqh-juwayni,works,Al-Burhan fi Usul al-Fiqh,1,637,content/ar/works/wrk-al-burhan-fi-usul-al-fiqh-juwayni.md
+wrk-ancient-law-maine,works,"Ancient Law: Its Connection with the Early History of Society, and Its Relation to Modern Ideas",1,636,content/ar/works/wrk-ancient-law-maine.md
+wrk-irshad-al-fuhul-shawkani,works,Irshad al-Fuhul ila Tahqiq al-Haqq min 'Ilm al-Usul,1,624,content/ar/works/wrk-irshad-al-fuhul-shawkani.md
+wrk-tabsirat-al-hukkam-ibn-farhun,works,Tabsirat al-Hukkam fi Usul al-Aqdiya wa-Manahij al-Ahkam,1,624,content/ar/works/wrk-tabsirat-al-hukkam-ibn-farhun.md
+wrk-radd-al-muhtar-ibn-abidin,works,Radd al-Muhtar 'ala al-Durr al-Mukhtar,1,620,content/ar/works/wrk-radd-al-muhtar-ibn-abidin.md
+wrk-maqasid-al-sharia-al-islamiyya-ibn-ashur,works,Maqasid al-Shari'a al-Islamiyya,1,618,content/ar/works/wrk-maqasid-al-sharia-al-islamiyya-ibn-ashur.md
+wrk-the-spirit-of-islamic-law-weiss,works,The Spirit of Islamic Law,1,615,content/ar/works/wrk-the-spirit-of-islamic-law-weiss.md
+wrk-law-as-an-autopoietic-system-teubner,works,Law as an Autopoietic System,1,612,content/ar/works/wrk-law-as-an-autopoietic-system-teubner.md
+wrk-behemoth-neumann,works,Behemoth: The Structure and Practice of National Socialism,1,608,content/ar/works/wrk-behemoth-neumann.md
+wrk-al-mabsut-sarakhsi,works,Al-Mabsut,1,605,content/ar/works/wrk-al-mabsut-sarakhsi.md
+wrk-nomos-and-narrative-cover,works,Nomos and Narrative,1,604,content/ar/works/wrk-nomos-and-narrative-cover.md
+wrk-we-the-people-ackerman,works,We the People: Foundations,1,601,content/ar/works/wrk-we-the-people-ackerman.md
+wrk-international-law-principles,works,International Law Principles,0,748,content/ar/works/wrk-international-law-principles.md
+wrk-comparative-law-principles,works,Comparative Law Principles,0,737,content/ar/works/wrk-comparative-law-principles.md
+wrk-legal-systems-analysis,works,Legal Systems Analysis,0,709,content/ar/works/wrk-legal-systems-analysis.md
+wrk-history-western-legal-thought,works,History of Western Legal Thought,0,707,content/ar/works/wrk-history-western-legal-thought.md
+wrk-taking-rights-seriously,works,Taking Rights Seriously,0,705,content/ar/works/wrk-taking-rights-seriously.md
+wrk-federalist-papers,works,The Federalist Papers,0,702,content/ar/works/wrk-federalist-papers.md
+wrk-history-english-law,works,History of English Law,0,696,content/ar/works/wrk-history-english-law.md
+wrk-restorative-justice-theory,works,Restorative Justice Theory,0,688,content/ar/works/wrk-restorative-justice-theory.md
+wrk-punishment-philosophy,works,Philosophy of Punishment,0,687,content/ar/works/wrk-punishment-philosophy.md
+wrk-law-society-framework,works,Law & Society Framework,0,684,content/ar/works/wrk-law-society-framework.md
+wrk-feminism-unmodified,works,Feminism Unmodified,0,683,content/ar/works/wrk-feminism-unmodified.md
+wrk-sexual-contract,works,The Sexual Contract,0,678,content/ar/works/wrk-sexual-contract.md
+wrk-capabilities-approach-nussbaum,works,Capabilities Approach,0,676,content/ar/works/wrk-capabilities-approach-nussbaum.md
+wrk-concept-political-schmitt,works,The Concept of the Political,0,672,content/ar/works/wrk-concept-political-schmitt.md
+wrk-environmental-justice-theory,works,Environmental Justice Theory,0,671,content/ar/works/wrk-environmental-justice-theory.md
+wrk-concept-of-law-hart,works,The Concept of Law,0,667,content/ar/works/wrk-concept-of-law-hart.md
+wrk-justice-as-fairness,works,Justice as Fairness,0,660,content/ar/works/wrk-justice-as-fairness.md
+wrk-bioethics-principles,works,Bioethics Principles,0,659,content/ar/works/wrk-bioethics-principles.md
+wrk-pure-theory-law-kelsen,works,Pure Theory of Law,0,657,content/ar/works/wrk-pure-theory-law-kelsen.md
+wrk-law-of-war-theory,works,Law of War Theory,0,651,content/ar/works/wrk-law-of-war-theory.md
+wrk-legal-pluralism-merry,works,Legal Pluralism (Merry),0,627,content/ar/works/wrk-legal-pluralism-merry.md

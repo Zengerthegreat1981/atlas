@@ -1,0 +1,90 @@
+{
+"root": "fld-legal-theory",
+"root_folder": "fields",
+"paths": [
+[
+"Start Here: Fields",
+[
+"fld-comparative-islamic-law",
+"fld-legal-reasoning-interpretation",
+"fld-rights-and-justice"
+]
+],
+[
+"Schools and Approaches",
+[
+"sch-legal-pluralism",
+"sch-civil-law-tradition",
+"sch-international-law-theory",
+"sch-criminal-law-theory",
+"sch-customary-law-indigenous",
+"sch-criminal-law-philosophy-responsibility",
+"sch-critical-race-theory-law",
+"sch-socialist-legal-systems",
+"sch-legal-history-western",
+"sch-twail-postcolonial-international-law",
+"sch-law-and-economics",
+"sch-philosophy-of-law"
+]
+],
+[
+"Key Figures",
+[
+"thk-al-shafii",
+"thk-al-shatibi",
+"thk-malik-ibn-anas",
+"thk-ibn-taymiyya",
+"thk-ahmad-ibn-hanbal",
+"thk-ibn-hazm",
+"thk-carl-schmitt",
+"thk-hla-hart",
+"thk-ronald-dworkin",
+"thk-friedrich-carl-von-savigny",
+"thk-al-mawardi",
+"thk-hersch-lauterpacht"
+]
+],
+[
+"Core Concepts",
+[
+"con-grundnorm-basic-norm-kelsen",
+"con-law-as-integrity-dworkin",
+"con-legal-personality",
+"con-hukm-taklifi-wadi-usul",
+"con-rule-of-law",
+"con-gharar-in-contracts",
+"con-ikhtilaf-juristic-disagreement",
+"con-ahliyya-legal-capacity-usul",
+"con-istihsan-juristic-preference",
+"con-maqasid-al-shariah-shatibi",
+"con-mens-rea-criminal-intent",
+"con-criminalization-theory"
+]
+],
+[
+"Landmark Works",
+[
+"wrk-the-concept-of-law-hart",
+"wrk-model-penal-code",
+"wrk-kitab-al-kharaj-abu-yusuf",
+"wrk-al-mustasfa-ghazali",
+"wrk-al-ihkam-al-amidi",
+"wrk-al-muwafaqat-shatibi",
+"wrk-causation-in-the-law-hart-honore",
+"wrk-al-bahr-al-muhit-zarkashi",
+"wrk-pure-theory-of-law-kelsen",
+"wrk-democracy-and-distrust-ely",
+"wrk-al-tashri-al-jinai-al-islami-awda",
+"wrk-majallat-al-ahkam-al-adliyya"
+]
+],
+[
+"Major Debates",
+[
+"dbt-hart-fuller-law-morality-debate",
+"dbt-hart-dworkin-rules-principles",
+"dbt-hart-devlin-morals-legislation"
+]
+]
+]
+}

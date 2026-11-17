@@ -13,7 +13,7 @@ EN counts come from `check_en_release.py`; AR counts are an inventory of existin
 | political-economy | 161 | 0 | 0 | 161 | 1101 | source review + close drafts |
 | historiography | 87 | 0 | 0 | 87 | 1007 | source review + close drafts |
 | religious-studies | 149 | 0 | 0 | 149 | 888 | source review + close drafts |
-| legal-theory | 0 | 0 | 0 | 0 | 700 | define scope list, then author/review |
+| legal-theory | 126 | 0 | 0 | 126 | 700 | source review + close drafts |
 | ethics | 0 | 0 | 0 | 0 | 181 | define scope list, then author/review |
 | psychiatry | 0 | 0 | 0 | 0 | 122 | define scope list, then author/review |
 | arab-thought | 1 | 0 | 0 | 1 | 112 | source review + close drafts |

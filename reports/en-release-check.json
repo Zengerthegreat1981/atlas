@@ -1,10 +1,10 @@
 {
-  "total_files": 1990,
+  "total_files": 2116,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 1606,
-    "declared-gaps": 364,
+    "edge-target-by-name": 1707,
+    "declared-gaps": 430,
     "placeholder": 3,
     "short": 6,
     "duplicate-id-groups": 0
@@ -33,6 +33,7 @@
       "br-classical-psychoanalysis",
       "br-sociolinguistics",
       "con-ahimsa",
+      "con-ahliyya-legal-capacity-usul",
       "con-anamnesis-recollection",
       "con-anatta-non-self-concept",
       "con-anti-cult-movement-response",
@@ -41,8 +42,7 @@
       "con-aphasiology-classification",
       "con-arab-subsidy-state-and-social-contract",
       "con-ataraxia",
-      "con-attention",
-      "con-authenticity"
+      "con-attention"
     ],
     "placeholder": [
       "con-division-labor",
@@ -60,7 +60,7 @@
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 1984,
+    "review-candidate": 2110,
     "placeholder": 3,
     "draft-short": 3
   },
@@ -75,6 +75,9 @@
     },
     "historiography": {
       "review-candidate": 87
+    },
+    "legal-theory": {
+      "review-candidate": 126
     },
     "linguistics": {
       "review-candidate": 158
@@ -96,8 +99,8 @@
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 1990,
-    "source nodes": 1990,
+    "data-en.json nodes": 2116,
+    "source nodes": 2116,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"
