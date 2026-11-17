@@ -1,0 +1,38 @@
+---
+slug: "con-euthanasia-physician-assisted-suicide"
+id: "CON-2215"
+type: "مفهوم"
+part: "ethics"
+level: "متوسط"
+title: "Euthanasia & Physician-Assisted Suicide"
+en: "Euthanasia & Physician-Assisted Suicide"
+crumb: "Ethics ← Concepts ← Euthanasia & Physician-Assisted Suicide"
+active_start: 1900
+active_end: "مستمر"
+edges: []
+related: []
+gaps:
+  - "Detailed national legal regimes and primary-source excerpts: not yet covered"
+---
+
+# Euthanasia & Physician-Assisted Suicide
+
+## Meaning and Definition
+
+Euthanasia (from the Greek for "good death") is the ending of the life of a patient who is hopeless of recovery or who suffers unbearable pain, by a direct act performed by a physician or another person with the intention of relieving the patient's suffering. It is distinguished from "physician-assisted suicide," in which the physician provides the patient with the means of death while the patient carries it out himself. Euthanasia is divided into "voluntary," with the consent of the conscious patient, and "non-voluntary," when the patient's will cannot be ascertained. It is also divided into "active," by a direct act that ends life, and "passive," by refraining from treatment that prolongs life without benefit.
+
+In Islamic jurisprudence and theology, the question rests on the principle of the sanctity of life established by the Holy Qur'an in the verse "And do not kill yourselves." Most contemporary jurists therefore prohibit active euthanasia as the killing of a soul that God has forbidden to kill, however severe the pain, because life is a trust from God that a human being has no right to terminate. Yet many jurists and juristic councils, invoking maxims such as "harm is to be removed" and "hardship brings facility," have distinguished this from withdrawing futile treatment or life-support in certain circumstances, such as when death is judged to have occurred or treatment offers no benefit; the details are debated. They regard this as withdrawing treatment, not killing. In a broader context, al-Ghazali discussed the preservation of the self as one of the five universal objectives of the Sharia (*maqasid*), which makes any deliberate act that ends life contrary to the basic objectives, even when the motive is mercy toward the patient.
+
+## Historical and Philosophical Context
+
+In Western philosophy, some ancient Stoics, such as Seneca, defended a person's right to choose to leave life when it has lost its meaning through illness or old age, as an expression of rational freedom. In modern times, John Stuart Mill formulated the harm principle, which gives the individual sovereignty over his body and life so long as he does not harm others. This was later drawn on to justify a right to "death with dignity." Immanuel Kant, by contrast, based his absolute rejection of suicide and of assisting others in it on the principle that a human being is an end in himself, whose existence may not be disposed of as a mere instrument, even by himself. Euthanasia and assisted dying have since been legalized under conditions in some jurisdictions, including the Netherlands and Belgium (2002) and, for physician-assisted suicide, the U.S. state of Oregon (Death with Dignity Act, in force 1997), while most Muslim-majority countries and many other countries still prohibit them.
+
+## Arguments and Objections
+
+Proponents argue from the individual's right to determine his own fate (personal autonomy) and from the duty of compassion toward those who suffer incurable pain. Opponents object on the basis of the "slippery slope" argument: that legalizing voluntary euthanasia may gradually lead to implicit pressure on the elderly and disabled to end their lives in order to relieve the burden on their families or on the health system, and that it contradicts the Hippocratic Oath, which requires the physician not to harm his patient. A real-world example is the case of the American physician Jack Kevorkian, who publicly assisted many patients to die in the 1990s and was convicted of second-degree murder in 1999. This sparked a broad public debate about the limits of medical mercy and the authority of the law.
+
+## Sources
+
+- Kant, Immanuel. *Groundwork of the Metaphysics of Morals*. Cambridge University Press, 1998.
+- Mill, John Stuart. *On Liberty*. Oxford University Press, 1998.
+- al-Ghazali, Abu Hamid. *al-Mustasfa min ʿilm al-usul*. Multiple editions.

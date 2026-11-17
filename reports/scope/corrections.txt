@@ -1761,4 +1761,148 @@ wrk-punishment-and-responsibility-hart: removed false Hart-Dworkin "student" sec
 wrk-pure-theory-of-law-kelsen: corrected exile biography (dismissed Cologne 1933, wrote 1st ed. in Geneva, Prague, Berkeley); monism primacy softened; revolution/effectiveness clarified; gap reworded
 wrk-road-serfdom-hayek: Friedman attended Mont Pelerin founding (not "later"); softened "inevitably"; atlas-comparison flagged; edition info
 wrk-the-concept-of-law-hart: Dworkin was Hart's successor not student; inclusive/exclusive positivism attribution corrected (Raz term); MacCormick characterization softened; Anglo-Saxon -> Anglo-American; gap removed (Postscript covered)
+sch-research-ethics: source "بياتريس بيتشر" (1966 NEJM exposé) corrected to Henry Beecher (Henry K. Beecher, author of the 1966 "Ethics and Clinical Research" article).
+con-stakeholder-theory: source names the objector "فريمانُ فريدمان" (typo for Friedman; Freeman is the other party); rendered as Friedman, who is the one who objects.
+wrk-theory-of-justice-rawls: source calls Michael Sandel a communist ("الشيوعيّون كمايكل ساندل"); Sandel is a communitarian critic. Rendered as communitarians.
+con-supererogation-ethics: source body titles Urmson essay "الأخلاقُ العاديةُ"; source bibliography gives "Saints and Heroes" (1958). Rendered as the essay title "Saints and Heroes".
+sch-indigenous-ethics: source name garbled as "فيلا كيراسكو" for Vine Deloria Jr.; the Latin name given in the same sentence was used as "Vine Deloria Jr."
+con-ecocentrism: source calls biocentrism "اللامركزية الحيوية" (decentralized biology); the term is biocentrism (المركزية الحيوية), rendered as "biocentrism" in the English text.
+con-interdependence: source called Communitarians (Communitarians) 'الشيوعيين الجدد' (new communists); corrected to 'communitarian critics' (Communitarians).
+con-moral-facts: source described non-natural normative facts as 'حقائق سببية (Normative)' (causal facts); corrected to 'normative facts' (Normative).
+wrk-moral-development-kohlberg: source said Kohlberg's Chicago sample included boys and, to a lesser extent, girls; corrected to a sample of boys only (his original longitudinal sample), consistent with the later Gilligan critique in the same source.
+wrk-virtues-professions: source named 'إدموند بيلفيلد' as the author of the medical-virtues work; corrected to Edmund Pellegrino (co-author of The Virtues in Medical Practice).
+wrk-virtues-professions: source attributed the book 'al-Hisba fi al-Islam' to both al-Mawardi and Ibn Taymiyya; corrected so that the title is attributed to Ibn Taymiyya (al-Mawardi classified hisba in al-Ahkam al-Sultaniyya).
+sch-legal-ethics-profession: 'ريتشارد وايسمان' corrected to Richard Wasserstrom (co-critic with William Simon of the amoral-advocate model)
+wrk-moral-emotions-prinz: source name "جوشوا غرينبرغ" (Greenberg) corrected to Joshua Greene (the moral psychologist/philosopher meant).
+sch-medical-ethics-profession: source attributed the phrase 'first, do no harm' (primum non nocere) to the Hippocratic Oath; it is a later formulation not in the oath text. Rendered as the principle of not causing harm without the attribution.
+con-ethics-virtues-50: source calls Anders Nygren a Swedish philosopher; he was a Swedish Lutheran theologian and bishop. Rendered as Swedish theologian.
+wrk-principles-biomedical-ethics: source attributes the phrase "first, do no harm" to the Hippocratic tradition as if it were the Hippocratic text; rendered as "traditionally associated with" the Hippocratic maxim.
+wrk-ethics-inventing-right-wrong: source renders "expressivism" as "التوسعية", which is not the term; rendered as expressivism.
+con-abortion-ethics: Hedged school positions (Hanafi/Shafi'i/Maliki not uniform); added Dobbs 2022; removed invented-looking 20th-week example and Mughni publisher/year
+con-act-vs-rule-utilitarianism: Removed nonexistent Brandt article title and Rawls as Mill interpreter (Urmson 1953 instead); Harsanyi 1977, Lyons 1965 cited; softened al-Shatibi comparison
+con-agent-centered-consequentialism: Railton is American (not Australian); removed Foot/Nagel 'negative rights' misattribution; added Sen 1982, Portmore 2011, Williams 1973; clarified example
+con-agent-centered-duties: Fixed term 'agent-neutral'; Kant claim softened; added Parfit 1984/Nagel 1970 origin of terms, Williams 1973
+con-agent-patient-ethics: Fixed Kant/Singer/Regan claims (Regan uses subject-of-a-life, not sentience); removed unverifiable al-Ghazali claim and source; corrected Animal Liberation publisher
+con-ancient-ethics-greece: Fixed active_start/end for ancient field; replaced doubtful Arabic-translation and 1901 Miskawayh edition with Irwin 1999, Zurayk 1968; added Annas 1993; dated MacIntyre/Anscombe
+con-animal-rights-ethics: Speciesism term credited to Ryder 1970; Bentham dated 1789; added Cohen 1986, Adams 1990; fixed Animal Liberation publisher
+con-autonomy-ethics: Normalized sources (Kant trans. 1997, Frankfurt 1971 journal cite, Zurayk 1968 replacing 1398 AH edition); added Dworkin 1988, Mackenzie & Stoljar 2000; softened Miskawayh reading
+con-autonomy-informed-consent: Removed unverifiable Ibn Rushd and blood-money claims; Tuskegee context corrected to Nuremberg/Belmont; hedged contemporary fatwa generalization; added Faden & Beauchamp 1986, Belmont
+con-beneficence-nonmaleficence: Maxim 'averting corruptions...' is not one of the five major maxims; Primum non nocere not in Oath; removed unverifiable al-Ghazali physician claim; removed doubtful publisher details
+con-biocentrism: Removed invented critic 'William Godin'; Leopold's land ethic reclassified as ecocentric, added Schweitzer; Taylor's principles named accurately
+con-business-virtue: Heath re-described accurately (market failures approach 2014); softened Miskawayh claim; clarified Ghazali source; dated MacIntyre
+con-caring-relationships: Softened Miskawayh friendship claim; cited Held 2006 and Tronto 1993; removed unsupported fiqh parallel
+con-character-ethics: Replaced doubtful 1901 Miskawayh edition with Zurayk 1968; removed Ibn Hazm publisher; added Harman/Doris situationism; flagged Zimbardo criticism
+con-collective-responsibility: Lewis/French contrast corrected (Lewis individualist; French 'moral persons' not 'metaphysical'); Arendt guilt/responsibility distinction moved to her essay; added Lewis 1948
+con-conflicts-professional: Replaced invented 'Daniel Carmen' with Cain/Loewenstein/Moore 2005; Enron dated 2001; fixed Moore 2006 co-authors; formatted sources as list
+con-conscience: Aquinas synderesis vs conscientia corrected; Freud English edition dated
+con-consequentialist-impartialism: Removed invented-looking Sidgwick 'neutral observer' quote; Bentham dictum attributed via Mill; fixed authors order of Smart & Williams 1973
+con-cross-cultural-morality: Dated Sumner/Benedict works; Herodotus example; removed unsourced 'mutual moral reflection' criterion and contested inheritance example
+con-data-privacy-ethics: Corrected spying report (attributed to Ibn Mas'ud in Abu Dawud, not Umar, no quote); removed unverifiable IIFA resolution claim; hedged insurance example
+con-deontological-constraints: Removed Foot from side-constraints; removed unverifiable Scheffler 'agent-worship'; trolley/bridge cases credited to Foot 1967 and Thomson; formatted sources, added Foot/Thomson/Scheffler
+con-digital-ethics: Hedged jurisprudential-academy claim; Wiener 1950, Moor 1985 cited precisely; GDPR Art.17 and Google Spain 2014 for right to be forgotten
+con-dignity-bioethics: Softened UDHR/Kant causal claim and IIFA generalizations; Singer critique replaced by Macklin 2003; Kass 1997 cited; sources normalized
+con-dignity-concept: Softened claim that Kant formula was basis of UDHR Art.1; Pinker 2008 cited; torture prohibition framed under human rights law/CAT 1984; softened maqasid attribution
+con-duty-based-ethics: Softened al-Ghazali-as-deontologist claim; removed Arabic translation citation; added Kant 1797 essay citation
+con-ecocentrism: softened Islamic-law claims, added Naess 1973 source, reworded gap
+con-enlightenment-ethics: dates 1650-1800, Kant lying source (1797), Bentham 1789, fixed Ibn Rushd source/translation claim
+con-ethics-of-care: corrected Noddings on widening circles, Gilligan claim softened, added Held 2006
+con-ethics-virtues-35: Ghazali attribution softened, Plato quote paraphrased, Q8:45 overreading and Successors/Companions strife claim fixed, sources replaced
+con-ethics-virtues-36: removed unverifiable Mawardi distinction and Raghib quote, corrected Miskawayh justice account, inheritance wording, sources
+con-ethics-virtues-40: Mawardi attributions softened, unverified editions removed, Williams source corrected
+con-ethics-virtues-42: removed unverifiable Miskawayh/Farabi compassion claims, corrected Aristotle on pity (Rhetoric II.8, not a mean) and Nussbaum analysis, sources fixed
+con-ethics-virtues-44: removed unverifiable Farabi/Mawardi attributions, corrected Kant formula wording, added Darwall recognition/appraisal respect and source
+con-ethics-virtues-46: replaced invented "Norvitz" with Whitcomb et al. 2017, corrected Driver (modesty as virtue of ignorance), removed unverifiable Ibn Hazm/Miskawayh specifics, sources fixed
+con-ethics-virtues-50: removed unverifiable Raghib claim, flagged "hidden treasure" saying as weakly attested, fixed attribution of willing-the-good definition, unverified editions removed
+con-ethics-virtues-51: fixed muddled tayammum claim, softened Hobbes and Miskawayh, removed vague social-science claim
+con-ethics-virtues-52: paraphrased unverifiable Ibn Qayyim quote and Bloch phrase, softened Bloch revolutions claim, added Marcel source, editions removed
+con-ethics-virtues-53: softened Ghazali natural/complete morality attribution and unsupported moral-psychology claim, edition removed
+con-ethics-virtues-54: removed unverifiable Raghib claim, corrected Gandhi (satyagraha, not passive resistance), fixed Walzer jus post bellum claim, replaced Farabi source with Walzer translation
+con-euthanasia-physician-assisted-suicide: fixed legalization chronology (Netherlands/Belgium 2002 not 20th-century second half), Oregon added, Kevorkian conviction corrected, fiqh claim softened
+con-evolutionary-ethics: fixed is-ought vs naturalistic fallacy conflation, dated Hamilton/Trivers, Ruse-Wilson claim reworded, added Street/Fehr-Gachter, sources completed
+con-expressivism-ethics: refined historical context (Hume, intuitionism), added Stevenson and Hare sources
+con-freedom-choice-ethics: Ibn Rushd work corrected (not Fasl al-Maqal), Libet wording softened, sources completed
+con-habit-character-formation: fixed "golden mean" and Farabi/Aristotle attribution, situationism named proponents, sources replaced
+con-hedonistic-vs-preference-utilitarianism: Singer position clarified (earlier preference, later hedonistic), idealized-preference reply attributed correctly, Nozick source added
+con-humanity-as-end-in-itself: Kant formula wording corrected to Gregor translation, reversed chronology of influence on human rights, example replaced, gap reworded
+con-hybrid-ethics: replaced Gibbard-as-hybrid and sensibility-as-hybrid claims with Ridge/Copp hybrid theories, McDowell source corrected, Sufi claim softened
+con-hybrid-ethics: removed misattributed Cuneo from hybrid theorists
+con-interdependence: removed unverifiable Mawardi "necessary civilization" claim, moved dependent-rational-animal point to correct MacIntyre book (1999), Ibn Khaldun source replaced with Rosenthal translation
+con-justice-healthcare: Daniels Just Health dated 2008, added Just Health Care 1985, Beauchamp-Childress justice principle, fiqh al-awlawiyyat described as modern term
+con-justice-rawls: Sandel "unencumbered self" corrected, removed uncited Ibn Taymiyya source and added Rawls Restatement/Sandel, maqasid comparison softened
+con-metaethics-constructivism: Ash'arite "divine constructivism" recast as divine voluntarism
+con-moral-agency: Floridi-Sanders claim corrected (artificial agents as moral agents, minimal sense); Ash'ari title/edition fixed; Abu al-Hudhayl hedged; stray English parentheticals removed
+con-moral-emotion: Miskawayh source fixed (Zurayk trans. 1968); gap reworded; Haidt 2001 date added
+con-moral-externalism: removed Railton as externalist; softened Ghazali yaqin attribution and psychopathy argument; source publisher date dropped
+con-moral-facts: removed unsupported Ibn Rushd reconciliation claim; Parfit non-naturalism wording fixed; stray parentheticals removed
+con-moral-foundations: Kant Groundwork source date/edition fixed; maqasid wording; Haidt claim softened
+con-moral-internalism: removed unverifiable Imam Ali attribution; Smith's view and Brink's amoralist argument corrected; Nichols claim softened; example replaced
+con-moral-luck-concept: Kant quote paraphrased (no quotation marks); Wolf and Kantian response claims softened
+con-moral-motivation: gap reworded
+con-moral-patience: removed dubious birds/manliness claims; Singer publisher; speciesism wording; stray parentheticals
+con-moral-realism-debate: "oldest formulation" overclaim fixed; minimal realism section rewritten (Dworkin, Scanlon)
+con-moral-responsibility: kasb attribution (al-Ash'ari/Baqillani); Frankfurt cases description corrected; gap reworded
+con-moral-subjectivism: removed unverifiable Ibn Arabi/Ghazali claims; Hume/Ayer editions fixed; Stevenson source added; gap reworded
+con-moral-understanding: removed anachronistic "jurisprudence of balancing", Raghib claim, Ghazali parrot anecdote; Hills/Zagzebski works and citation fixed
+con-moral-weakness: softened Ibn Rushd commentary claim; Davidson citation fixed; gap reworded; stray gloss removed
+con-organ-transplant-ethics: Harvard 1968 committee claim corrected (irreversible coma/brain death); IIFA 1988 session detail; gap reworded
+con-partiality-impartiality: Scheffler and Singer claims softened; Nagel and Singer sources added
+con-phenomenology-ethics: removed invented Ibn Arabi claim; softened Raghib; Ghazali quarters named correctly; Levinas influences fixed
+con-prescriptivism: Hare two-level utilitarianism wording; removed Shatibi khabar/insha claim; gap reworded
+con-quasi-realism-ethics: Blackburn's mechanism corrected (projectivism, not "investment"); removed dubious wad'iyya passage
+con-responsiveness-particularity: removed anachronistic "jurisprudence of reality"; Ali saying hedged; Murdoch nationality; sources added
+con-right-action: Kant edition/date fixed; Ross duties hedged; gap reworded
+con-social-contract: Pateman claim corrected; Ibn Khaldun/Hobbes comparison softened; Hume reference added
+con-stakeholder-theory: Friedman quote sourced (1970); governance claim specified (UK CA 2006 s172); Ibn Taymiyya title/source fixed
+con-responsiveness-particularity: removed anachronistic 'jurisprudence of reality'
+con-supererogation-ethics: fixed jurisprudential categories (mandub/mustahabb not separate from fard types), corrected Urmson saint/hero examples, added Melden editor and Heyd 1982
+con-sustainability-ethics: flagged weak chain of flowing-river hadith, Jonas date/translation and "heuristics of fear", Brundtland attribution, added Jonas source
+con-ubuntu-african-ethics: corrected Mbiti quotation, removed inexact Tutu quotation, Mbiti role, Metz citation details
+con-universalizability: replaced invented masochist Golden Rule example with Kant's footnote, fixed Hegel critique wording, qiyas analogy softened, Hegel/Kant editions
+con-utilitarianism: Mill 1861/1863, Sidgwick 1874 added, trolley problem attribution (Foot 1967), softened maslaha/consequentialism claim
+con-virtue-confucianism: Analects 12.19 and 1.2 references, removed unsupported al-Mawardi/Ibn Taymiyya claim, Xunzi dates, Xunzi source
+con-virtue-consequentialism: corrected Hursthouse (defender, not critic), removed invented Driver quotation, Foot not consequentialist, doctor example hedged
+con-virtue-development: removed invented Aristotle/Miskawayh quotations, corrected Farabi virtue classification, Ross/Brown translation, MacIntyre/Sherman works
+con-whistleblowing: corrected De George criteria, Bok works, hadith narrators, hypothetical case no longer called classic, De George source
+fld-applied-ethics: removed module meta sentence (facts checked, no errors found)
+fld-ethics: no factual errors found
+fld-metaethics-moral-psychology: removed module meta sentence (facts checked, no errors found)
+fld-normative-ethics: removed module meta sentence (facts checked, no errors found)
+sch-african-ethics: replaced invented "Ivie-Ivi Mitogbe Emmanuel" with Gyekye, Appiah misattribution replaced by Menkiti, fixed Mbiti quote, removed Hountondji/Metz gacaca misattributions, gacaca case reframed, constitution/Makwanyane, Ubuntu languages
+sch-bioethics-principles: Belmont principles/National Research Act, softened end-of-life fiqh claims (IIFA 1986), Three Rs (Russell & Burch), critics of principlism, Belmont source
+sch-buddhist-ethics: first sermon title corrected, Buddha dating caveat, Keown/Goodman interpretations, Shantideva date, Engaged Buddhism and Dalai Lama attribution
+sch-business-ethics: softened al-Ghazali/Mawardi attributions, removed Mawardi Hanafi contract claim, dates for Smith/Muqaddimah, Carroll pyramid, Friedman source
+sch-care-ethics-feminist: removed invented "Vera Bruening" (Fiona Robinson), corrected Gilligan/Kohlberg relationship and claims, Tronto source, softened attributed replies
+sch-confucian-ethics: Xunzi/Han/Zhu Xi dates and wording, rectification of names with Analects 13.3/12.11, removed invented tyrant example
+sch-consequentialism-utilitarianism: removed Parfit as utilitarian claim, added Sidgwick/Hooker/varieties, removed meta bullet, cleared gap, SEP citation without year
+sch-deontological-ethics-kant: corrected Ross's seven duties (added justice, self-improvement), Groundwork title, Broad term origin, Kant lying essay, other deontological views, cleared gap
+sch-engineering-ethics: removed unverifiable caliph claim, Boisjoly/Challenger facts, Ford Pinto hedged, Martin & Schinzinger, ABET/licensing claims softened, society founding dates
+sch-history-non-western-ethics: ijtihad misuse fixed, Ghazali maqasid, Jain ahimsa, Ames and Rosemont role ethics, added Fakhry and Ames sources
+sch-history-western-ethics: Aquinas/Arabic translation wording, Aristotle lying claim reframed, Kant essay, Nietzsche titles/dates, Moore wording, Hobbes/Locke works
+sch-indigenous-ethics: removed invented "Kelly Dohertie and Stephanie Eruso" (Whyte, Kimmerer), replaced unverifiable Whyte source, hadith grade caveat, Deloria publisher, Qur'an 6:165 cited
+sch-legal-ethics-profession: Freedman 1975 is a book not article; Wasserstrom/Simon works cited; Belge description softened; Brady v. Maryland 1963 added; Umar letter authenticity caveat; sources replaced (dubious editions removed); gap removed
+sch-medical-ethics: Hippocratic Oath does not contain Primum non nocere; al-Majusi title fixed (Kamil al-Sina'a al-Tibbiyya); Quinlan ruling 1976 and PVS; Tuskegee dates; IRB vs clinical ethics committees; Helsinki issuer; al-Ruhawi added; al-Shatibi date; ensoulment hedged; gap removed
+sch-medical-ethics-profession: Helsinki not an outcome of Nuremberg trial (WMA 1964); al-Razi/Ibn Sina/al-Ruhawi claims softened (earliest removed; unsupported fee claim removed); Hippocratic dating; Muslim oath claim made specific/hedged; gap removed
+sch-moral-constructivism: Rawls 'Kantian constructivism' dates to 1980 Dewey Lectures, Political Liberalism uses 'political constructivism'; Humean constructivism attributed to Street not Korsgaard; Parfit objection restated; Habermas hedged; IR-constructivism/realism conflation fixed; sources added; gap removed
+sch-moral-psychology: Greene/Haidt findings restated with hedges (personal vs impersonal dilemmas; moral dumbfounding study); MFT sixth foundation noted; Bloom/Hamlin/Wynn work cited; Haidt "decisive evidence" removed; Miskawayh date; sources added; gap removed
+sch-moral-realism: Cornell realism described correctly (non-reductive naturalism; Boyd added); Ibn Rushd claim removed; Mackie/Blackburn positions specified; dates added; publisher of al-Mughni removed; Brink source added; gap removed
+sch-moral-relativism: Rachels piece is a book chapter (1986) not essay; Harman wrongly cast as objector (now Rachels) and 1975 article added; Harman 1996 book co-author Thomson added; Benedict quotation removed; Ghazali claim hedged; FGC wording; Brown source; gap removed
+sch-political-ethics: Prince dates (1513 written, 1532 published); Ibn Taymiyya saying hedged as widely quoted; Walzer dirty hands article 1973 cited; Weber's two ethics not ranked flatly; early-laws-of-war claim softened; gap removed
+sch-research-ethics: Helsinki is WMA-only (WHO removed); Belmont 'Commission' named correctly; Beecher article title/characterization; Tuskegee wording; replication-crisis claim softened; Baghdadi publisher removed; dates added; gap removed
+sch-social-ethics: Mawardi 'social contract' reworded as contract-like imamate; al-Farabi title corrected; Durkheim anomie claim narrowed to Suicide (1897); Sandel work cited; publisher removed; gap removed
+sch-virtue-ethics-aristotle: Aristotle no longer called sole founder; Hursthouse quote converted to paraphrase; Irwin translation citation fixed; gap removed
+wrk-beyond-good-evil: Master/slave morality is in ch.9 (sec.260) not ch.5; Ubermensch belongs to Zarathustra not BGE; 'publishers refused' and 'lost readers' claims removed; Elisabeth's role specified; Freud/Foucault/Leiter claims corrected
+wrk-capability-approach-sen: Added Equality of What? (1979) and Poverty and Famines (1981); HDR attributed to UNDP/Mahbub ul Haq; entitlement wording; gap removed
+wrk-caring-noddings: Gilligan not a colleague (independent works); 'circles of care' replaced by Noddings's 'centers of care'; overclaim of founding a field softened; later-response claim softened; gap removed
+wrk-critique-practical-reason: Removed unsupported claim that book answered 'two criticisms' of Groundwork (restated as commonly read rework of Groundwork III); Hume lumped with eudaemonists removed; Hegel influence reworded
+wrk-deep-ecology: Sessions was a co-author not 'colleague agreed'; Vedanta influence replaced by Spinoza/Gandhi/Buddhism; Singer is utilitarian not rights theorist; 'equal value to rocks' qualified; ecofascism charge attributed to critics; Bookchin was critic not inspired; Whanganui origin clarified; invented reply of Naess/Sessions softened; gap removed
+wrk-environmental-ethics-rolston: Rolston's degrees corrected (theology PhD Edinburgh, not philosophy/biology); unverifiable 'first professor in the world' removed; invented deep-ecology-critique attribution to Naess removed; Hume is-ought not 'naturalistic fallacy'; invented insect Q&A reframed; gap removed
+wrk-ethics-inventing-right-wrong: Removed invented 'fictionalism-adjacent' label and unsupported 'reaction to 1970s realism revival' claim; critics' arguments restated (Dworkin 1996, Parfit 2011, Enoch companions-in-guilt); Blackburn replaces constructivism; traffic-rules analogy removed; irrelevant Garner&Rosen source replaced; gap removed
+wrk-groundwork-kant: Foot's article title corrected (Morality as a System of Hypothetical Imperatives, 1972); Religion 1793 and Constant essay title added; Rawls claim hedged; Kant good-will quotation converted to paraphrase
+wrk-moral-development-kohlberg: Gilligan was a colleague not student; trilogy claim corrected (Essays on Moral Development); Chicago sample size (about 75 boys); Stage 6 status noted; Piaget publisher fixed; gap removed
+wrk-moral-emotions-prinz: Removed invented 'unnatural revulsion' example; vmPFC claim softened; Gut Reactions dated and its theory described as perceptual; Hume treatise dated 1739-40; gap removed
+wrk-nicomachean-ethics-aristotle: Nicomachus naming origin hedged; definition of happiness paraphrased accurately; Averroes' commentary specified as middle commentary; Aquinas commentary title/date added; Anscombe citation format fixed; gap removed
+wrk-principles-biomedical-ethics: Gilligan removed as critic of principlism (care ethicists Baier/Held named); Hippocratic maxim attribution corrected; Belmont/book relation clarified; Tuskegee wording; gap removed
+wrk-stakeholder-capitalism: Benefit corporation law began in Maryland 2010 (Delaware PBC 2013), B Corp certification distinguished; Freeman 'contractual network' claim replaced by stakeholder definition; claim that Freeman endorses strong version replaced with Donaldson-Preston distinction; gap removed
+wrk-theory-of-justice-rawls: 'most important work of 20th century' softened; fair equality of opportunity added to second principle; Locke contrast reworded
+wrk-virtues-professions: Alan Gewirth (a deontologist) wrongly listed with virtue-ethics critics of codes, removed; Ibn Khaldun/Ghazali claims made precise; gap removed
 thk-habermas: removed an unverifiable death claim (March 2026) and set dates to born 1929; confirm current status before adding

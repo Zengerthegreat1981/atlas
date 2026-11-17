@@ -1,0 +1,65 @@
+{
+"root": "fld-ethics",
+"root_folder": "fields",
+"paths": [
+[
+"Start Here: Fields",
+[
+"fld-applied-ethics",
+"fld-metaethics-moral-psychology",
+"fld-normative-ethics"
+]
+],
+[
+"Schools and Approaches",
+[
+"sch-african-ethics",
+"sch-medical-ethics",
+"sch-history-western-ethics",
+"sch-moral-relativism",
+"sch-care-ethics-feminist",
+"sch-engineering-ethics",
+"sch-legal-ethics-profession",
+"sch-political-ethics",
+"sch-buddhist-ethics",
+"sch-moral-constructivism",
+"sch-history-non-western-ethics",
+"sch-research-ethics"
+]
+],
+[
+"Core Concepts",
+[
+"con-autonomy-ethics",
+"con-agent-centered-consequentialism",
+"con-act-vs-rule-utilitarianism",
+"con-evolutionary-ethics",
+"con-enlightenment-ethics",
+"con-utilitarianism",
+"con-organ-transplant-ethics",
+"con-hedonistic-vs-preference-utilitarianism",
+"con-collective-responsibility",
+"con-moral-luck-concept",
+"con-habit-character-formation",
+"con-freedom-choice-ethics"
+]
+],
+[
+"Landmark Works",
+[
+"wrk-nicomachean-ethics-aristotle",
+"wrk-groundwork-kant",
+"wrk-stakeholder-capitalism",
+"wrk-virtues-professions",
+"wrk-beyond-good-evil",
+"wrk-principles-biomedical-ethics",
+"wrk-deep-ecology",
+"wrk-theory-of-justice-rawls",
+"wrk-capability-approach-sen",
+"wrk-moral-development-kohlberg",
+"wrk-critique-practical-reason",
+"wrk-moral-emotions-prinz"
+]
+]
+]
+}

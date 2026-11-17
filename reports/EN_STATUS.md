@@ -122,3 +122,9 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
 - Scope `reports/scope/legal-theory-scope.md`: 122 entries translated by Haiku from AR assets, 4 field intros by Sonnet (`fld-legal-theory` root,
   rights & justice, legal reasoning, comparative & Islamic legal thought); all 126 fact-checked by Sonnet. Entries are legal *theory*, not legal advice.
 - Reading paths auto-generated (`scripts/scope/auto_paths.py`, grouped by type). Same caveat: machine-assisted; human (legal-expert) review required.
+
+---
+# Pass 9 — Ethics v1 (2026-11-19), Haiku translation + Sonnet fact-check
+- Scope `reports/scope/ethics-scope.md`: 123 entries translated by Haiku from AR assets (schools, concepts, works — the Arabic ethics tree has no thinker files; ethicists live in the Philosophy module),
+  4 field intros by Sonnet (`fld-ethics` root, normative, metaethics/moral psychology, applied); all 127 fact-checked by Sonnet. Note `fld-ethics-overview` (Philosophy module) remains.
+- Reading paths auto-generated. Same caveat: machine-assisted; human review required.
