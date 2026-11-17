@@ -135,3 +135,10 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
   classification & diagnosis, biological/social models); all 122 fact-checked by Sonnet with extra clinical-content rules (descriptive only, cautions added).
 - **Clinical review is mandatory before publication**: diagnostic criteria, trial results and prevalence figures were checked from model knowledge only.
 - Reading paths auto-generated.
+
+---
+# Pass 11 — Arab thought v1 (2026-11-21), Haiku translation + Sonnet fact-check
+- Scope `reports/scope/arab-thought-scope.md`: 110 entries translated by Haiku from AR assets (schools, thinkers, concepts, works),
+  3 field intros by Sonnet (`fld-arab-thought` root, Nahda and modern thought, critique of Arab reason); all 114 fact-checked by Sonnet
+  (transliteration, AH/CE dates, edition years, attributions; inconsistent dates between files resolved or softened).
+- Reading paths auto-generated. Same caveat: machine-assisted; review by specialists in Arabic intellectual history recommended.

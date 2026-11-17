@@ -1,0 +1,74 @@
+{
+"root": "fld-arab-thought",
+"root_folder": "fields",
+"paths": [
+[
+"Start Here: Fields",
+[
+"fld-critique-of-arab-reason",
+"fld-nahda-modern-arab-thought"
+]
+],
+[
+"Schools and Approaches",
+[
+"sch-islamic-ethics-political",
+"sch-arabic-linguistic-literary",
+"sch-nahda-modernization",
+"sch-contemporary-arab-movements",
+"sch-bayt-al-hikma-translation",
+"sch-medieval-islamic-philosophy",
+"sch-early-islamic-classical",
+"sch-pre-islamic-arabian",
+"sch-womens-intellectual-traditions"
+]
+],
+[
+"Key Figures",
+[
+"thk-abu-hanifa",
+"thk-zuhayr-abi-sulma",
+"thk-imru-qais",
+"thk-qasim-amin",
+"thk-hind-utba",
+"thk-hafiz",
+"thk-thabit-qurra",
+"thk-rabia-adawiyyah",
+"thk-nawal-el-saadawi",
+"thk-sibawayhi",
+"thk-rumi"
+]
+],
+[
+"Core Concepts",
+[
+"con-islamic-law-governance",
+"con-prophetic-tradition",
+"con-political-authority-islam",
+"con-rationalism-early-islam",
+"con-aristotelian-logic",
+"con-averroism-philosophy",
+"con-confrontation-western",
+"con-mystical-philosophy",
+"con-democratization-movements",
+"con-translation-methodology",
+"con-leftist-intellectualism",
+"con-globalization-identity"
+]
+],
+[
+"Landmark Works",
+[
+"wrk-governance-mawardi",
+"wrk-metaphysics-ibn-sina",
+"wrk-ihya-ulum-al-din",
+"wrk-canon-ibn-sina",
+"wrk-diwan-rumi",
+"wrk-womens-liberation-saadawi",
+"wrk-liberation-women",
+"wrk-incoherence-incoherence",
+"wrk-kitab-sibawayhi"
+]
+]
+]
+}

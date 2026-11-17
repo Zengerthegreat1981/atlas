@@ -1,10 +1,10 @@
 {
-  "total_files": 2365,
+  "total_files": 2478,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 1942,
-    "declared-gaps": 502,
+    "edge-target-by-name": 2052,
+    "declared-gaps": 514,
     "placeholder": 3,
     "short": 6,
     "duplicate-id-groups": 0
@@ -60,7 +60,7 @@
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 2359,
+    "review-candidate": 2472,
     "placeholder": 3,
     "draft-short": 3
   },
@@ -71,7 +71,7 @@
       "draft-short": 3
     },
     "arab-thought": {
-      "review-candidate": 1
+      "review-candidate": 114
     },
     "ethics": {
       "review-candidate": 127
@@ -105,8 +105,8 @@
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 2365,
-    "source nodes": 2365,
+    "data-en.json nodes": 2478,
+    "source nodes": 2478,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

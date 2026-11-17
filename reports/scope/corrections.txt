@@ -2040,4 +2040,120 @@ wrk-bipolar-disorder-research: Kraepelin term corrected to manic-depressive insa
 wrk-interpretation-dreams: 1931 preface quotation attributed correctly (preface, not Fliess letter; paraphrased); Irma dream not the opening of the book; softened Dali/Surrealism claim and print-run wording; added REM/activation-synthesis sources; removed LoC source
 wrk-rosenhan-sane: Cahalan critique now covered (gap removed); clarified diagnosis counts (all but one schizophrenia), second-experiment figures, contact-time wording; softened state-hospital closure claim; added caution
 wrk-save-normal: removed unverifiable "diagnostic hyperinflation" phrase; clarified DSM-IV date, NCS-R/ADHD wording; softened dispute causation; added caution
+con-wahdat-shuhud: related entry br-irfan-shuhudi-sirhindi had a garbled title (contained an editorial note 'إحالة، انظر sch-wahdat-alshuhud'); replaced with its readable form 'Irfan Shuhudi Sirhindi'
+con-rabia-mystic-thinker: gaps said al-Attar wrote more than two centuries after Rabi'a; corrected to more than four centuries (Rabi'a d. 801 CE, Attar d. 1221 CE; the body text already says about four centuries).
+con-mystical-philosophy: translator name "Hermann Ziai" corrected to "Hossein Ziai" (co-translator of Suhrawardi, The Philosophy of Illumination, 1999; same author as the Knowledge and Illumination entry).
+con-women-poets-preislamic: source citation title 'Hind bint 'Utba (d. 610)' changed to (d. 636); the entry's own body dates her conversion to 630 CE after Mecca's conquest and her death to c. 636 CE
+thk-rumi|source dates said "خوارزم/الأناضول"; Rumi was born in Balkh (Khorasan), so the dates line was changed to "Balkh/Anatolia" (minimal factual fix)
+wrk-kitab-sibawayhi|source said Sibawayh's contemporaries needed commentaries including al-Sirafi's (10th century CE), an anachronism; translated as "his readers themselves" (minimal fix)
+con-european-engagement: Syrian Scientific Society founding year corrected from 1857 to 1847 (founded 1847 by al-Bustani, Van Dyck and al-Yaziji)
+con-anti-colonial-intellectualism: Urabi sentence corrected (defeat at Tel el-Kebir, British occupation 1882); Merad title given in actual French form
+con-arab-feminism: AWSA founded 1982 after 1981 imprisonment (not in prison), dissolved 1991; Nazira Zein al-Din work named (1928); Mernissi works/dates fixed, Islamic-feminism attribution softened; language fixed; gap reworded; legal reform dates added
+con-arabic-grammar-philosophy: Sirafi–Matta debate redated 326 AH/937 CE (vizier Ibn al-Furat); Sirafi argument de-embellished; nazm/Jurjani gap covered; dubious sources (Gyekye, SEP, Wikipedia) removed, Mahdi 1970 and Versteegh 1977 added
+con-aristotelian-logic: Ibn al-Salah labelled Shafi'i (not Hanbali) and heading changed; Ibn al-Muqaffa' attribution qualified as traditional
+con-averroism-philosophy: Siger of Brabant gap covered; condemnations 1270 (13) and 1277 (219) specified; Islamic-world reception claim softened; vague encyclopedia/Wikipedia sources replaced by Fakhry 2001, Hasse 2016
+con-avicennism-synthesis: language set to Arabic; Flying Man–Descartes influence softened; Adamson citation corrected (OUP 2016, Philosophy in the Islamic World); Shifa' edition editors corrected; gap reworded
+con-bayt-al-hikma-movement: end of translation movement before 1258 corrected to about three centuries; "Nestorians" generalized to Syriac-speaking Christians
+con-confrontation-western: Taha Husayn "praise for al-Azhar" corrected; Shidyaq title/date softened to 1860s; Moreh translation title corrected; Abdel-Malek spelling harmonised
+con-cultural-authenticity: Laroui "historicity of reason" reworded; Adonis sentence repaired with 1974-78 date
+con-democratization-movements: thinker gap partly covered (Tahtawi, Khayr al-Din, Kawakibi; 1876/1908 constitutions) and reworded; unverifiable web-article sources removed, Hourani 1962 and Carothers 2002 added; transitology dating softened
+con-dhikr-remembrance: language set to Arabic; hadra/Mawlawi sama' distinction fixed; Junayd ecstasy attribution replaced by Qushayri; muraqaba/qurb attribution softened
+con-divine-knowledge-future: Ghaylan al-Dimashqi dating widened to early 2nd c. AH
+con-educational-reform: medical school Abu Za'bal 1827, moved to Qasr al-Ayni 1837 (not Qasr al-Ayni 1827)
+con-eloquence-bayan: Asrar al-balagha no longer credited with nazm theory (it treats imagery); structuralism anticipation softened; Sakkaki/Qazwini role in three-part division corrected; unverified publisher details removed; gap reworded
+con-epistemology-islam: language set to Arabic; bayan/irfan/burhan attributed chiefly to Bunyat al-'aql al-'arabi (1986), Takwin publisher fixed to Dar al-Tali'a
+con-essence-existence: Suhrawardi gap covered (Hikmat al-ishraq 1186); Sadrian seminary claim softened; unverifiable SEP entries replaced by Wisnovsky 2003, Rizvi 2009
+con-european-engagement: Shumayyil Darwin works corrected (1884 Buchner exposition; Falsafat al-nushu' wa-l-irtiqa' is 1910, not a translation)
+con-fana-annihilation: missing gaps field added; Abdel-Kader edition/study wording
+con-feminist-quranic-hermeneutics: removed file-process gap; unsupported Wadud-vs-Barlas contrast replaced by general statement
+con-fiqh-schools: Zahiri/Jariri gap covered (Dawud, Ibn Hazm 456/1064, Tabari 310/923); Muwatta' "first/oldest" claim softened; Shafi'i "most prominent student of Malik" softened; Britannica source removed
+con-gender-islamic-philosophy: Ibn Rushd Republic commentary account made accurate (women judged generally less capable, in degree; critique of cities of his time); unverifiable Harhash and Shihadeh sources/attribution removed, Walzer 1985 added; gap reworded
+con-globalization-identity: missing gaps field added; Amin Eurocentrism edition dating clarified; source formatting
+con-greco-arabic-synthesis: al-Kindi death date softened to "after 870 CE"; softened Active Intellect/emanation claim
+con-human-rights-islam: removed quoted Cairo Declaration phrase; Meccan/Medinan method attributed to Toward an Islamic Reformation (1990); gap reworded
+con-i'rab-syntax: fixed case rule (noun of inna, predicate of kana)
+con-ibn-arabi-unity-being: language set to Arabic; removed build-note gap; fixed term-origin (Qunawi), removed garbled "Tawfiq Barhan", Ibn al-Farid/Ibn Arabi impact line corrected; removed unverifiable SEP source, added Chodkiewicz
+con-illuminationism: tale title corrected (Red Intellect); softened seminary/Sunni-reception claims; Corbin edition citation fixed; removed unverifiable SEP source, added Walbridge-Ziai translation; gap reworded
+con-intellectual-exchange: Syriac intermediaries corrected (Qusta ibn Luqa was Melkite, not Nestorian); Sindhind story marked traditional
+con-islamic-law-governance: softened "first comprehensive" claim on Mawardi; replaced doubtful Griffel EI3 source with Hallaq 2009
+con-islamic-modernism: language set to Arabic; active_start 1870; removed build-note gap; Tafsir al-Manar unfinished
+con-jahiliyyah-cosmology: removed garbled "muhaddath"; Ibn al-Kalbi dated to c.819 CE; Zaki Pasha edition 1914; removed unverifiable Moreman/Britannica sources, added Hawting, Hoyland; gap reworded
+con-jahiliyyah-poetry: authenticity debate attributed to Margoliouth (1925) and Taha Hussein (1926); period wording fixed
+con-jihad-striving: language set to Arabic; removed build-note gap; removed unsupported Ghazali attribution and "defensive only" gloss of lesser jihad (Ibn Qayyim's Zad al-Ma'ad levels)
+con-kalam-theology: softened Hume/occasionalism claim; Ritter edition imprint corrected
+con-leftist-intellectualism: language Arabic; Jabiri not "following generation" (1935-2010), Critique dates 1984-2001; Tizini claim softened; Arab Lefts editor corrected to Laure Guirguis, 2020
+con-literary-criticism: language Arabic; removed build-note gap; Ibn al-Mu'tazz d. 908 CE; Qudama "among the first" and dating softened; Jurjani dating
+con-logical-traditions: Organon translators corrected (Ishaq ibn Hunayn, Matta); Ibn Rushd commentaries corrected (short/middle + long on Posterior Analytics), Latin-gateway claim softened; removed PhilArchive source, added Hallaq 1993
+con-maqamat-ahwal: Kalabadhi "similar order" softened; garbled "empirical description" sentence fixed
+con-maqasid-sharia: added missing gaps: [] (facts checked, no errors found)
+con-mathematics-astronomy: added missing gaps: []; Maragha foundation attributed to Hulagu with Tusi; Khayyam date made approximate
+con-medicine-advancement: language set to Arabic (facts checked)
+con-metaphor-language: removed misattributed fasahah concept; softened Jurjani "true founder" and "highest form" tamthil claims
+con-metaphysics-islam: al-Kindi death date softened to after 870 CE; removed unverified 1955 Dunya edition year
+con-mystical-philosophy: Hayy ibn Yaqzan plot detail corrected (Absal from neighbouring island); added gaps: []
+con-nahda-movement: Bulaq Press date made approximate; added gaps: []
+con-nationalism-identity: Sati' al-Husri birth year 1880 -> 1879
+con-oral-tradition-arabian: removed Wikipedia sources (added Zwettler 1978); softened Hammad compilation attribution; cleared gap
+con-nasserism-nationalism: removed placeholder gap
+con-orientalism-critique: Azm essay source corrected to Khamsin 8 (1981); Lewis review dated
+con-poetry-spirituality: Rabi'a death date marked traditional
+con-political-authority-islam: removed placeholder gap; language -> Arabic; Mawardi deposition claim and Ibn Taymiyya Qurashi claim corrected; added Shi'i imamate section covering the stated omission
+con-postcolonial-feminism: Mernissi works corrected (Harem Politics -> Veil and the Male Elite / Forgotten Queens); Ahmed's argument corrected (colonial feminism, ethical vs institutional Islam); El Saadawi Arabic original of Hidden Face of Eve fixed (1977), unsupported 1969 date removed; added Abu-Lughod 2013
+con-postcolonial-theory: Fanon heading "Decolonizing the mind" (Ngugi's phrase) corrected; softened Arabic language claim
+con-pre-islamic-ethics: removed placeholder gap; language -> Arabic; active_end 632; Izutsu publisher fixed; replaced vague EI2 source with Goldziher
+con-pre-islamic-metaphysics: language -> Arabic
+con-prophetic-tradition: added Azami/Motzki/Juynboll paragraph covering the dating gap; corrected Goldziher edition details; removed eulogy
+con-quran-tafsir: removed doubtful Abu Ubayda attribution on tafsir/ta'wil usage
+con-quranic-ethics-virtue: removed placeholder gap; language -> Arabic; Raghib dating softened; Izutsu publisher fixed
+con-rabia-mystic-thinker: removed redundant gap (body covers); fixed anachronistic "contemporary of al-Hasan al-Basri"; added earlier sources (Sulami, Abu Nu'aym); Attar gap "more than four centuries" -> "some four"
+con-rationalism-early-islam: Mu'tazila origin date made consistent; Jabiri attribution corrected (he was critical of kalam); Sharh al-Usul al-Khamsa marked attributed
+con-rhetoric-poetics: removed placeholder gap; language -> Arabic; Sakkaki's tripartite division attribution softened; Qazwini dated; added Abu Ubayda for majaz
+con-rights-justice-islam: standardized source formatting
+con-scientific-advancement: language -> Arabic
+con-secularization-debate: language -> Arabic; softened cause of Muslim Brotherhood founding
+con-semantics-meaning: Jurjani death date given in AH/CE with variant; removed unverifiable verbatim quotation (paraphrased); softened "established" ma'ani/bayan; completed Asrar edition
+con-sharia-ethical-system: Ibn Ashur 1946 edition place corrected (Tunis, not Cairo)
+con-shura-consultation: removed placeholder gap; language -> Arabic; added Umar's six-man council; replaced vague EI2 source with Black 2011
+con-spiritual-knowledge: removed non-existent separate Khatm al-Wilaya title; softened Tustari claim, Ghazali quote and Junayd attribution; fixed publisher spelling
+con-sufi-orders: clarified Abun-Nasr title citation
+con-theological-debates: corrected fifth Mu'tazili principle wording; hedged Wasil tradition and Cook's argument
+con-translation-methodology: Hubaysh spelling; removed unsupported manuscript claim; fixed terminology examples (riyada not a loanword); softened Gutas claim
+con-tribal-knowledge-systems: removed unverifiable Toral-Niehoff source; softened isnad/matn claim
+con-universals-particulars: removed process-note gap; removed unsupported Qutb al-Din al-Razi claim; corrected Aristotelian/Isagoge background; softened originality claim
+con-usul-al-fiqh: removed process-note gap; fixed Khadduri translation publication data (Johns Hopkins 1961, ITS 1987); softened Shafi'i 'first' and istihsan attribution
+con-wahdat-shuhud: softened Sirhindi characterization
+con-women-liberation: removed doubtful Abduh claim; reworded Abu-Lughod
+con-women-poets-preislamic: replaced unidentifiable al-Fari'a with al-Khirniq; hedged sons-at-Qadisiyya; replaced Encyclopedia.com source with EI2
+con-women-scholars-islamic: Asma Barlas->Asma Sayeed; fixed Nadwi title (al-Muhaddithat 2007); removed invented Umar/Amra legal-opinion claim; replaced Ibn Hajar attribution with al-Sakhawi; corrected Aisha corrections work (al-Zarkashi); softened book count
+con-womens-epistemology: removed process-note gap; softened Amra/Umar claim, dirayah, Mernissi
+ctx-arabic-self: replaced Arabic-language gaps with English; relaxed Ihya composition date (c. 1105 -> late 11th/early 12th c.)
+sch-arabic-linguistic-literary: removed process-note gap; Khalil's metres (five circles, fifteen metres); Jahiz date
+sch-bayt-al-hikma-translation: removed gap restating body; corrected Harun/Ma'mun reign dates; recast Gutas's Bayt al-Hikma thesis; Plato overstated; removed unverifiable Gutas 2005 source
+sch-contemporary-arab-movements: removed process-note gap; Woman and Sex 1969->1972; removed Bustani/Amin from Islamic modernism; Nasser presidency 1956-1970
+sch-early-islamic-classical: removed process/non-omission gaps; mihna dates (833-c.848); softened qiyas claim; Ash'ari date range
+sch-islamic-ethics-political: removed process-note gap; removed unsupported Mawardi shura/maslaha claim; Ibn al-Muqaffa' epistle title; Farabi work title (Mabadi' ara' ahl al-madina al-fadila); hedged Nasihat al-muluk attribution; Maqalat title
+sch-medieval-islamic-philosophy: removed process-note gap; softened Aquinas/Scotus transmission claim; translation period wording; Corbin translators
+sch-nahda-modernization: gap reworded/dates verified; removed doubtful publisher for Tahrir al-Mar'a; softened Said and Abduh attributions
+sch-pre-islamic-arabian: removed project-internal gap notes (gaps empty); softened 'father of Arabic poetry' and death dates
+sch-womens-intellectual-traditions: removed project-internal gap; fixed Barlas sentence; softened Rabia/Ghazali/Ibn Arabi influence claim
+thk-abu-hanifa: gap covered by Caveats removed; softened Persian-origin claim; Majalla no longer called first civil code
+thk-hafiz: dates to c.1320-1390; ghazal count ~500 (Qazvini-Ghani); fixed Timur anecdote; fixed Ibn Arabi chronology (not earlier than Qushayri); removed unsupported Arabic-translation claim; Lewisohn is editor; softened tomb history; gap removed
+thk-hind-utba: softened birth-year inference; attributed Hamza-liver polemic to later traditions; death-date uncertainty moved to Limitations; gap removed
+thk-imru-qais: softened 'founder' of ode claim; approximate-dates gap folded into Caveats; gap removed
+thk-nawal-el-saadawi: prison term corrected (about three months, released after Sadat's assassination); AWSA no longer 'first'; removed doubtful publisher and Conversation source, added A Daughter of Isis; gap removed
+thk-qasim-amin: removed unverified 1885 marriage claim; age at death corrected to 44; epithet softened; gap (Abduh role) removed as covered in body
+thk-rabia-adawiyyah: birth year marked approximate; removed duplicated Rabi'a al-Shamiyya phrase; project-internal gap removed
+thk-rumi: 'Qur'an in Persian' attributed to Jami and qualified; Fihi ma Fihi described as disciples' record of discourses; Mevlevi order credit to followers/Sultan Walad
+thk-sibawayhi: removed 'died before thirty' claim and stated disputed death date in body (gap removed); Ibn al-Sarraj (not a commentator) replaced by al-Mazini; softened 'devised' vocabulary, al-'Ayn attribution, Akhfash role; added teachers, Kisa'i debate story, phonetics section
+thk-thabit-qurra: softened work count (150+), teachers, 'four generations'; fixed Ibn al-Haytham/Biruni as later not tenth-century; Ibn Abi Usaybi'a/Qifti gap corrected to 3+ centuries; gap removed
+thk-zuhayr-abi-sulma: removed contradictory sentence on the 'eighty years' verse; softened 'earliest evidence' claim; neutral phrasing for Prophet
+wrk-canon-ibn-sina: corrected composition chronology (not 'first two decades'); softened 'experimental method' and contagion claims; Ibn Rushd Kulliyyat wording; gap removed
+wrk-diwan-rumi: language metadata Arabic->Persian; removed unsupported al-Sulami dependency claim; 'late 642 AH' fixed; gap removed
+wrk-governance-mawardi: softened 'first' systematic treatment; replaced unsupported 'apostasy' chapter claim with criminal penalties; Rida date 1922-23; rewrote unsupported Crone attribution; date-uncertainty moved to Caveats, gap removed
+wrk-ihya-ulum-al-din: language metadata English->Arabic; Minhaj al-Qasidin re-attributed to Ibn al-Jawzi's abridgement (not al-Ghazali's); softened 'greatest work after Qur'an' claim; gap removed
+wrk-incoherence-incoherence: fixed Ghazali's charges (kufr on three, bid'a on rest); corrected translation history of Tahafut al-Tahafut (Hebrew 14th c., Latin later; commentaries drove Latin reception); added edition year
+wrk-kitab-sibawayhi: removed '1000 pages' claim; softened 'first'; fixed commentary list (Zamakhshari/Ibn Ya'ish were not commentators on al-Kitab); softened deep/surface structure anachronism; al-'Ayn attribution hedged; death-date dispute moved to Caveats, gap removed
+wrk-liberation-women: removed doubtful publisher for al-Murshid al-Amin; project-internal gap removed (facts otherwise verified)
+wrk-metaphysics-ibn-sina: gap removed; Ghazali no longer said to have 'defended' Ibn Sina; Proof of the Truthful tied to Isharat too; rewrote treatise-by-treatise list conservatively (uncertain treatise numbering removed); removed empty Fazlur Rahman sentence
+wrk-womens-liberation-saadawi: removed unconfirmed publisher (Maktabat Madbuli); softened Al-Azhar ban/confiscation claim; reworded 'later studies agree' to public-health findings
 thk-habermas: removed an unverifiable death claim (March 2026) and set dates to born 1929; confirm current status before adding

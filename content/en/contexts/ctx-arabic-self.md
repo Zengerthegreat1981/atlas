@@ -15,9 +15,8 @@ related:
   - id: "con-shame-guilt", title: "Shame and Guilt", type: "مفهوم"
   - id: "con-jealousy-envy", title: "Jealousy and Envy", type: "مفهوم"
 gaps:
-  - "تم إنشاء ربط استكشافي أولي مع أربعة عناصر مشاعر (الخوف، الحزن، الخزي والذنب، الغيرة والحسد)، لكن هذا الربط لا يزال أولياً وغير مبني على مقارنة نصية دقيقة محققة — يحتاج عملاً بحثياً متخصصاً لاحقاً لتعميقه"
-  - "لا تتوفر حتى الآن نصوص أولية محققة (لا ترجمات ولا نصوص أصلية مراجعة) لأي من الغزالي أو ابن سينا أو ابن مسكويه ضمن مكتبة المصادر الحالية لهذا المشروع"
-  - "هذا المدخل تأسيسي فقط ويحتاج توسيعاً كبيراً قبل الاعتماد عليه"
+  - "Textual comparison with the four emotion entries: not yet covered"
+  - "Verified primary-text editions or translations of al-Ghazali, Ibn Sina and Miskawayh in the project source library: not yet covered"
 ---
 
 # The Self in Arabic-Islamic Intellectual Heritage
@@ -32,7 +31,7 @@ The tradition is also not a translation of modern psychology into older language
 
 ## Three Principal Voices
 
-Abu Hamid al-Ghazali (1058–1111) is the tradition's great anatomist of the emotions. In the *Ihya Ulum al-Din* (*The Revival of the Religious Sciences*, composed around 1105), he devotes whole books to anger, fear, and hope, classifying emotional states with a precision that mixes legal, theological, and psychological vocabulary. For al-Ghazali, an emotion is a state of the heart (*qalb*) with a moral direction, to be examined and disciplined.
+Abu Hamid al-Ghazali (1058–1111) is the tradition's great anatomist of the emotions. In the *Ihya Ulum al-Din* (*The Revival of the Religious Sciences*, composed in the late eleventh and early twelfth centuries), he devotes whole books to anger, fear, and hope, classifying emotional states with a precision that mixes legal, theological, and psychological vocabulary. For al-Ghazali, an emotion is a state of the heart (*qalb*) with a moral direction, to be examined and disciplined.
 
 Ibn Sina (980–1037), known in Latin as Avicenna, approaches the self from philosophy and medicine. His *Kitab al-Nafs* (*Book of the Soul*), part of the *Kitab al-Shifa* (*Book of Healing*, early eleventh century), gives a systematic theory of the soul's faculties: the senses, imagination, estimation, memory, and the rational soul. Where al-Ghazali writes as a spiritual guide, Ibn Sina writes as a theorist, asking what the soul is and how it relates to the body. His "flying man" argument claims self-awareness does not depend on the body.
 
@@ -58,7 +57,7 @@ It does not claim that this heritage anticipates existential psychology, or that
 
 ## Sources
 
-- al-Ghazali, Abu Hamid. *Ihya Ulum al-Din* (*The Revival of the Religious Sciences*). Composed c. 1105. Books on the Condemnation of Anger and on Fear and Hope.
+- al-Ghazali, Abu Hamid. *Ihya Ulum al-Din* (*The Revival of the Religious Sciences*). Composed in the late eleventh and early twelfth centuries. Books on the Condemnation of Anger and on Fear and Hope.
 - Ibn Sina. *Kitab al-Nafs* (*Book of the Soul*), in *Kitab al-Shifa* (*Book of Healing*). Early eleventh century.
 - Miskawayh, Ahmad ibn Muhammad. *Tahdhib al-Akhlaq wa-Tathir al-Araq* (*The Refinement of Character*). Eleventh century; edited by Constantine K. Zurayk. American University of Beirut, 1966.
 - Badawi, Abd al-Rahman, ed. *Mawsuat al-Falsafa* (*Encyclopedia of Philosophy*). Arab Institute for Studies and Publishing, 1984.
