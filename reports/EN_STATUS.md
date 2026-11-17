@@ -128,3 +128,10 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
 - Scope `reports/scope/ethics-scope.md`: 123 entries translated by Haiku from AR assets (schools, concepts, works — the Arabic ethics tree has no thinker files; ethicists live in the Philosophy module),
   4 field intros by Sonnet (`fld-ethics` root, normative, metaethics/moral psychology, applied); all 127 fact-checked by Sonnet. Note `fld-ethics-overview` (Philosophy module) remains.
 - Reading paths auto-generated. Same caveat: machine-assisted; human review required.
+
+---
+# Pass 10 — Psychiatry v1 (2026-11-20), Haiku translation + Sonnet fact-check
+- Scope `reports/scope/psychiatry-scope.md`: 119 entries translated by Haiku from AR assets, 3 field intros by Sonnet (`fld-psychiatry` root,
+  classification & diagnosis, biological/social models); all 122 fact-checked by Sonnet with extra clinical-content rules (descriptive only, cautions added).
+- **Clinical review is mandatory before publication**: diagnostic criteria, trial results and prevalence figures were checked from model knowledge only.
+- Reading paths auto-generated.

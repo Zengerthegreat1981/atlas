@@ -1,0 +1,57 @@
+---
+slug: "thk-arvid-carlsson"
+id: "THK-13125"
+type: "مفكر"
+part: "psychiatry"
+level: "متقدم"
+title: "Arvid Carlsson"
+en: "Arvid Carlsson"
+crumb: "Psychiatry ← Thinkers ← Arvid Carlsson"
+dates: "Uppsala, Sweden · 1923–2018"
+country: "Sweden"
+language: "Swedish, English"
+active_start: 1951
+active_end: 2018
+edges:
+- rel: "belongs_to", target: "Biological Neuroscience", target_type: "مدرسة"
+related:
+- id: "sch-neurobiology-mental-illness", title: "Biological Neuroscience", type: "مدرسة"
+gaps:
+  - "Early research at Lund University before 1959: not yet covered"
+---
+
+# Arvid Carlsson
+
+Swedish pharmacologist (1923–2018), regarded as one of the founders of modern biological neuroscience for discovering the role of **dopamine** as an independent neurotransmitter in the brain, rather than merely a chemical precursor of noradrenaline as had previously been believed. In 2000 he received the Nobel Prize in Physiology or Medicine, shared with Paul Greengard and Eric Kandel, in recognition of their discoveries concerning signal transduction in the nervous system.
+
+## Context: The Spark and Soup War
+
+Carlsson was born in Uppsala in 1923 and grew up in an academic environment; his father was a professor of history at Lund University. In the 1940s and 1950s neuroscientists were divided in what was called the "spark and soup war": one camp held that signal transmission between neurons is electrical, and another held that it is chemical. The advocates of chemical transmission in the brain prevailed, through work that included Carlsson's, which helped show that monoamines act as neurotransmitters in the brain and that drugs alter their function. Proof required that these substances be measured precisely.
+
+## Scientific Career
+
+Carlsson earned his medical doctorate from Lund University in 1951 and worked there until 1959, when he became professor of pharmacology at the University of Gothenburg, where he spent most of his research career. In the 1950s, together with colleagues including Margit Lindqvist and Tore Magnusson, he developed a sensitive method for estimating dopamine levels in brain tissue. He found that its concentration peaks in the basal ganglia, which control voluntary movement, and not in other areas as would be expected if it were merely a transient intermediate in noradrenaline synthesis. With colleagues in Sweden, including the team that developed the histofluorescence method for identifying monoamines in neurons, he helped map the pathways of dopamine, noradrenaline, and serotonin.
+
+## Discovering the Link Between Dopamine and Parkinson's Disease
+
+In animal experiments Carlsson showed that depleting dopamine with the drug reserpine causes symptoms resembling Parkinson's disease (slowness of movement and rigidity), and that giving the animals **L-DOPA**, the direct chemical precursor of dopamine, restores normal movement within minutes. He published these results in 1957, with Lindqvist and Magnusson, in *Nature*. This discovery laid the scientific foundation for treating Parkinson's disease with L-DOPA. It entered clinical use in the 1960s after trials by Oleh Hornykiewicz in Vienna and George Cotzias in the United States, and it remains the cornerstone of treatment for the disease today.
+
+## Mechanism of Antipsychotic Drugs
+
+In 1963 Carlsson, with Margit Lindqvist, published the first evidence that the older antipsychotic drugs (neuroleptics), such as chlorpromazine and haloperidol, act by **blocking dopamine receptors**. They observed that levels of dopamine metabolites rose when these drugs were given, as if the brain were compensating for the blockade by increasing activity. This finding contributed to formulating the **dopamine hypothesis of schizophrenia**, which linked overactivity of dopamine pathways in the brain to positive psychotic symptoms. Research by Seeman and Snyder in the mid-1970s, which measured drug binding to receptors directly, later confirmed the hypothesis. It became the dominant theoretical framework for developing generations of antipsychotic drugs.
+
+## From Dopamine to Serotonin and Glutamate
+
+Carlsson's research also extended to understanding antidepressants, through his clarification of the role of monoamine neurotransmitters in regulating mood and movement. In the late 1960s and early 1970s he led, with colleagues at the company Astra, the development of zimelidine, a selective serotonin reuptake inhibitor. It is generally regarded as the first SSRI to reach the market. It was withdrawn in 1983 after cases of Guillain-Barré syndrome, but it paved the way for the fluoxetine generation. In the 1990s Carlsson and Maria Carlsson proposed an imbalance between glutamate and dopamine in schizophrenia, and called for dopamine stabilizers that reduce excessive activity without fully blocking receptors. This idea influenced the rationale for partial-agonist antipsychotics such as aripiprazole.
+
+## Impact and Limits
+
+His methodology for measuring neurotransmitters with high precision was a fundamental methodological contribution. It enabled neuroscience to shift from anatomical description to a quantitatively measurable biochemical science. However, subsequent decades showed that the dopamine hypothesis alone does not explain schizophrenia: negative and cognitive symptoms do not respond well to receptor blockade, and about a third of patients remain resistant to treatment. The simplified account that attributes depression to a serotonin deficiency also finds no strong support in recent reviews, observations that led Carlsson himself to attend to glutamate. His legacy remains an example of how tracing the mechanism of action of a drug leads to an understanding of the disease, although the relationship between the two is not linear.
+
+## Sources
+
+- Carlsson, A., M. Lindqvist, and T. Magnusson. "3,4-Dihydroxyphenylalanine and 5-Hydroxytryptophan as Reserpine Antagonists." *Nature* 180 (1957): 1200.
+- Carlsson, A., and M. Lindqvist. "Effect of Chlorpromazine or Haloperidol on Formation of 3-Methoxytyramine and Normetanephrine in Mouse Brain." *Acta Pharmacologica et Toxicologica* 20, no. 2 (1963): 140–144.
+- Carlsson, A. "The Occurrence, Distribution and Physiological Role of Catecholamines in the Nervous System." *Pharmacological Reviews* 11, no. 2 (1959): 490–493.
+- Carlsson, A. "A Half-Century of Neurotransmitter Research: Impact on Neurology and Psychiatry." Nobel Lecture, 2000, in *Les Prix Nobel 2000*. Stockholm: Nobel Foundation, 2001.
+- Carlsson, Maria, and Arvid Carlsson. "Interactions between Glutamatergic and Monoaminergic Systems within the Basal Ganglia: Implications for Schizophrenia and Parkinson's Disease." *Trends in Neurosciences* 13, no. 7 (1990): 272–276.

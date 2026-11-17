@@ -1,10 +1,10 @@
 {
-  "total_files": 2243,
+  "total_files": 2365,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 1722,
-    "declared-gaps": 483,
+    "edge-target-by-name": 1942,
+    "declared-gaps": 502,
     "placeholder": 3,
     "short": 6,
     "duplicate-id-groups": 0
@@ -33,6 +33,7 @@
       "br-classical-psychoanalysis",
       "br-sociolinguistics",
       "con-act-vs-rule-utilitarianism",
+      "con-adolescent-depression",
       "con-agent-centered-duties",
       "con-ahimsa",
       "con-ahliyya-legal-capacity-usul",
@@ -41,8 +42,7 @@
       "con-ancient-ethics-greece",
       "con-animal-rights-ethics",
       "con-anti-cult-movement-response",
-      "con-anxiety-existential",
-      "con-anxiety"
+      "con-anxiety-existential"
     ],
     "placeholder": [
       "con-division-labor",
@@ -60,7 +60,7 @@
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 2237,
+    "review-candidate": 2359,
     "placeholder": 3,
     "draft-short": 3
   },
@@ -91,6 +91,9 @@
     "political-economy": {
       "review-candidate": 161
     },
+    "psychiatry": {
+      "review-candidate": 122
+    },
     "psychology": {
       "review-candidate": 309
     },
@@ -102,8 +105,8 @@
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 2243,
-    "source nodes": 2243,
+    "data-en.json nodes": 2365,
+    "source nodes": 2365,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

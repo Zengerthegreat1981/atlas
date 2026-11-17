@@ -1,0 +1,72 @@
+{
+"root": "fld-psychiatry",
+"root_folder": "fields",
+"paths": [
+[
+"Start Here: Fields",
+[
+"fld-biological-social-models",
+"fld-classification-diagnosis"
+]
+],
+[
+"Schools and Approaches",
+[
+"sch-mood-disorders",
+"sch-neurobiology-mental-illness",
+"sch-diagnostic-nosology",
+"sch-psychotic-schizophrenia",
+"sch-trauma-ptsd-studies",
+"sch-psychotherapy-foundations",
+"sch-developmental-child-psychiatry",
+"sch-anxiety-ocd-disorders",
+"sch-personality-disorders",
+"sch-forensic-psychiatry",
+"sch-cultural-psychiatry"
+]
+],
+[
+"Key Figures",
+[
+"thk-william-kraepelin",
+"thk-paul-salkovskis",
+"thk-james-garbarino",
+"thk-kurt-schneider",
+"thk-nancy-andreasen",
+"thk-laurence-kirmayer",
+"thk-theodore-millon",
+"thk-allen-frances",
+"thk-arvid-carlsson",
+"thk-stephen-stahl",
+"thk-paul-greengard",
+"thk-david-kupfer"
+]
+],
+[
+"Core Concepts",
+[
+"con-fmri-pet-findings",
+"con-psychedelic-therapy",
+"con-major-depressive-disorder",
+"con-exposure-therapy",
+"con-temperament-risk",
+"con-side-effects-management",
+"con-neurodevelopmental-adhd",
+"con-migration-mental-health",
+"con-mental-illness-non-western",
+"con-mood-stabilizers",
+"con-intergenerational-trauma",
+"con-act-acceptance"
+]
+],
+[
+"Landmark Works",
+[
+"wrk-rosenhan-sane",
+"wrk-save-normal",
+"wrk-bipolar-disorder-research",
+"wrk-interpretation-dreams"
+]
+]
+]
+}
