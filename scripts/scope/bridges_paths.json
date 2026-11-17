@@ -1,0 +1,50 @@
+{
+"root": "fld-bridges",
+"root_folder": "fields",
+"paths": [
+[
+"Start Here: Fields",
+[]
+],
+[
+"Key Figures",
+[
+"thk-roland-barthes",
+"thk-fechner",
+"thk-helmholtz",
+"thk-titchener",
+"thk-wundt",
+"thk-bachelard",
+"thk-cassirer",
+"thk-vaihinger"
+]
+],
+[
+"Core Concepts",
+[
+"con-psychophysics-fechner",
+"con-intentionality-brentano",
+"con-conscious-acts",
+"con-dasein-being-there",
+"con-pleasure",
+"con-ethics-of-interest-riba-bridge",
+"con-embodied-cognition",
+"con-emergence",
+"con-narrative-identity",
+"con-qualia",
+"con-mind-body",
+"con-fusion-horizons"
+]
+],
+[
+"Landmark Works",
+[
+"wrk-phenomenology-perception-merleau-ponty",
+"wrk-fear-of-freedom-1941",
+"wrk-essay-on-man-cassirer",
+"wrk-symbolic-forms-cassirer",
+"wrk-matter-and-memory-bergson"
+]
+]
+]
+}

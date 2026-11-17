@@ -142,3 +142,9 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
   3 field intros by Sonnet (`fld-arab-thought` root, Nahda and modern thought, critique of Arab reason); all 114 fact-checked by Sonnet
   (transliteration, AH/CE dates, edition years, attributions; inconsistent dates between files resolved or softened).
 - Reading paths auto-generated. Same caveat: machine-assisted; review by specialists in Arabic intellectual history recommended.
+
+---
+# Pass 12 — Bridges v1 (2026-11-22), Haiku translation + Sonnet fact-check
+- Scope `reports/scope/bridges-scope.md`: 107 entries translated by Haiku from AR assets (relations between psychotherapy schools, bridge concepts, thinkers,
+  works, questions), plus the root `fld-bridges`; all 108 fact-checked by Sonnet (fabricated quotations/lineages removed, comparisons not presented as proven influence).
+- Reading paths auto-generated. Same caveat: machine-assisted; human review required.
