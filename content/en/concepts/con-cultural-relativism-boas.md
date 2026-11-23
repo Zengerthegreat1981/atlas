@@ -10,10 +10,8 @@ crumb: "Anthropology ← Schools ← Cultural Relativism"
 dates: "USA · 1900s-1950s"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
-gaps:
-  - "Critiques of anti-racism stance"
-  - "Limitations in comparative analysis"
+related: []
+gaps: []
 ---
 
 # Cultural Relativism
@@ -24,7 +22,7 @@ Cultural relativism is the principle that a culture can only be understood on it
 
 Cultural relativism was forged in the early twentieth century by Franz Boas and his students at Columbia University, in deliberate opposition to the evolutionism of the nineteenth century. Boas's *The Mind of Primitive Man* (1911) argued that there was no evidence for the mental inferiority of so-called primitive peoples, and that cultural differences were the product of history, not of biology or of stages of development. His students carried the argument into ethnography: Ruth Benedict's *Patterns of Culture* (1934) showed how cultures are integrated wholes, each with its own configuration of values, and Margaret Mead's *Coming of Age in Samoa* (1928) used a Pacific society to unsettle American assumptions about adolescence and sexuality.
 
-The principle was given its classic formulation by Melville Herskovits in *Man and His Works* (1948), where he argued that judgments of right and wrong are relative to cultural context, and that no culture holds a privileged standard. Its most famous institutional expression came in 1947, when the American Anthropological Association issued its Statement on Human Rights, warning the United Nations that a universal declaration of human rights risked imposing Western values on the rest of the world. The statement was drafted by Herskovits and remains a landmark in the debate between universalism and relativism. The term "ethnocentrism" — the tendency to judge other cultures by one's own standards — had been coined earlier by William Graham Sumner in *Folkways* (1906), and relativism was, in effect, the program for overcoming it.
+The principle was given its classic formulation by Melville Herskovits in *Man and His Works* (1948), where he argued that judgments of right and wrong are relative to cultural context, and that no culture holds a privileged standard. Its most famous institutional expression came in 1947, when the American Anthropological Association issued its Statement on Human Rights, warning the United Nations that a universal declaration of human rights risked imposing Western values on the rest of the world. The statement was drafted by Herskovits and remains a landmark in the debate between universalism and relativism. The term "ethnocentrism" — the tendency to judge other cultures by one's own standards — had been popularised earlier by William Graham Sumner in *Folkways* (1906), and relativism was, in effect, the program for overcoming it.
 
 ## Key Figures
 
@@ -42,7 +40,7 @@ Cultural relativism is a method before it is a moral position. In practice it me
 
 Cultural relativism's influence is enormous and double-edged. It underwrote anthropology's anti-racism: by insisting that differences are cultural rather than biological, it gave the discipline its central weapon against scientific racism, and Boas's students were among the most prominent public critics of racial hierarchy in the early twentieth century. It shaped liberal education, multiculturalism, and the ethics of cross-cultural work in medicine, development, and law. At the same time, it has been attacked from every direction. Critics argue that relativism makes moral criticism impossible — that it forbids condemning practices such as female genital cutting or caste discrimination. Others argue that it exaggerates difference, treating cultures as sealed boxes and ignoring the shared human capacities that make understanding possible at all. Still others point out that relativism was itself a product of a particular moment — the liberal, anti-racist anthropology of early twentieth-century America — and that its claim to suspend all judgment is itself a judgment.
 
-The discipline's response has generally been to hold relativism as a methodological starting point rather than a final moral doctrine: understand first, in the culture's own terms, and then — with that understanding in hand — decide what to say. That is the position Geertz defended, and it remains the working settlement in most of the field. The gaps named in this entry's stub — the limits of relativism's anti-racism and its difficulties for comparative analysis — are still live questions, and they are the reason the principle, more than a century old, is still argued about.
+The discipline's response has generally been to hold relativism as a methodological starting point rather than a final moral doctrine: understand first, in the culture's own terms, and then — with that understanding in hand — decide what to say. That is the position Geertz defended, and it remains the working settlement in most of the field. The limits of relativism's anti-racist stance and its difficulties for cross-cultural comparison remain live questions, and they are part of the reason the principle, more than a century old, is still argued about.
 
 ## Sources
 

@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Digital citizenship and data rights"
-  - "Citizenship and statelessness"
-  - "Gendered experiences of citizenship"
+  - "Digital citizenship and data rights: not yet covered"
 ---
 
 # Citizenship: Membership, Rights, and Belonging
@@ -32,15 +30,15 @@ Anthropologists have complicated Marshall's story in two ways. First, his sequen
 
 **T. H. Marshall** (1893–1981) provided the foundational framework in *Citizenship and Social Class* (1950). He defined citizenship as a status bestowed on full members of a community, and argued that the extension of social rights tempered the inequalities of capitalism. His work made citizenship central to the sociology of the welfare state, though critics later noted its Anglocentrism and its neglect of gender and race.
 
-**Rogers Brubaker** (born 1956) showed in *Citizenship and Nationhood in France and Germany* (1992) that citizenship regimes embody different understandings of the nation. France's republican model historically offered citizenship through assimilation to a civic culture, while Germany's ethnocultural model tied membership to descent. The same legal question — who may become a citizen — thus produces sharply different answers depending on how a nation imagines itself.
+**Rogers Brubaker** (born 1956) showed in *Citizenship and Nationhood in France and Germany* (1992) that citizenship regimes embody different understandings of the nation. France's republican model historically offered citizenship through assimilation to a civic culture, while Germany's ethnocultural model tied membership to descent. The same legal question — who may become a citizen — thus produces sharply different answers according to how a nation imagines itself.
 
 **Aihwa Ong** (born 1950) examined citizenship under globalization in *Flexible Citizenship* (1999). Studying wealthy Chinese migrants, she showed how elites accumulate multiple passports and maneuver across jurisdictions, while poor migrants face detention and deportation. Citizenship, in her account, is not a single, equal status but a flexible strategy, unevenly available according to wealth, race, and geopolitical position.
 
-**Engin F. Isin** (born 1959) reframed the field in *Acts of Citizenship* (2008), arguing that citizenship is produced not only by legal status but by acts — protests, occupations, hunger strikes, cultural performances — through which people constitute themselves as citizens regardless of formal recognition. This approach foregrounds the agency of those formally excluded.
+**Engin F. Isin** reframed the field in *Acts of Citizenship* (2008), arguing that citizenship is produced not only by legal status but by acts — protests, occupations, hunger strikes, cultural performances — through which people constitute themselves as citizens regardless of formal recognition. This approach foregrounds the agency of those formally excluded.
 
 ## Ethnographic Examples
 
-Fieldwork makes the stakes of citizenship concrete. In the Dominican Republic, people of Haitian descent have faced denationalization despite being born on Dominican soil, showing how citizenship can be revoked by legal reinterpretation. In the Gulf states, large migrant worker populations build cities and sustain economies while remaining permanently excluded from citizenship, living under sponsorship systems that tie residence to employment. In Europe, second-generation children of immigrants often hold citizenship yet describe themselves as perpetual foreigners, asked where they are "really" from. Among Palestinian refugees, citizenship has been refused by host states and denied by Israel, producing generations of statelessness in which identity documents, UN registration, and memory of place carry the weight that a passport normally would.
+Fieldwork makes the stakes of citizenship concrete. In the Dominican Republic, people of Haitian descent have faced denationalization despite being born on Dominican soil, showing how citizenship can be revoked by legal reinterpretation. In the Gulf states, large migrant worker populations build cities and sustain economies while remaining permanently excluded from citizenship, living under sponsorship systems that tie residence to employment. In Europe, second-generation children of immigrants often hold citizenship yet describe themselves as perpetual foreigners, asked where they are "really" from. Among many Palestinian refugees, citizenship has been withheld or made conditional by host states, and return has been denied by Israel, so that identity documents, UN refugee registration, and memory of place carry much of the weight that a passport normally would. Such cases illustrate statelessness, which Hannah Arendt described as the loss of "the right to have rights"; the 1954 Convention relating to the Status of Stateless Persons defines a stateless person as someone not considered a national by any state under the operation of its law.
 
 Anthropologists also document how citizenship is performed and tested in mundane settings: a border interview, a welfare office queue, a school enrollment form. These encounters are where abstract law meets embodied difference — accent, dress, skin color, paperwork — and where belonging is confirmed or refused.
 

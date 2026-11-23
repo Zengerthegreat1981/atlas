@@ -4,54 +4,43 @@ id: "ANT-13345"
 type: "عمل / كتاب"
 part: anthropology
 level: "متوسط"
-title: "Kinship in the Village: F. G. Bailey's Study of Bisipara"
-en: "Kinship in the Village"
-crumb: "Anthropology ← Works ← Kinship in the Village"
-dates: "1971 · Bailey"
+title: "Caste and the Economic Frontier: F. G. Bailey's Study of Bisipara"
+en: "Caste and the Economic Frontier"
+crumb: "Anthropology ← Works ← Caste and the Economic Frontier"
+dates: "1957 · Bailey"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
 gaps:
-  []
+  - "Kinship and marriage in Bisipara: not yet covered"
 ---
 
-# Kinship in the Village: F. G. Bailey's Study of Bisipara
+# Caste and the Economic Frontier: F. G. Bailey's Study of Bisipara
 
-**Kinship in the Village** is the study of how kinship actually works in a single Indian village, as documented by the British anthropologist **F. G. Bailey** in the Oriya village of **Bisipara** in highland Orissa. Rather than treating kinship as a fixed set of rules about who counts as a relative and whom one may marry, Bailey showed that kinship in the village is a practical, flexible resource: people invoke kin ties, stretch them, or let them lapse depending on what is at stake in land, politics, and reputation. The village, in this account, is not a closed and timeless community but a field of competing interests in which kinship provides both the language of solidarity and the weapons of rivalry.
-
-Bailey did his fieldwork in Bisipara and the neighbouring settlement of Boida between 1952 and 1955, returning in 1959. The resulting monograph, *Caste and the Economic Frontier* (1957), is the core statement of the study. Bisipara, then about seven hundred people, was divided into ranked castes — Brahmin priests, Warrior landholders, herdsmen and distillers, and the landless Pan caste — alongside Kond tribal neighbours.
+*Caste and the Economic Frontier: A Village in Highland Orissa* (Manchester University Press, 1957) is the monograph in which the British anthropologist F. G. Bailey (1924-2020) described Bisipara, a village (the name is a pseudonym) in the hill country of Orissa, eastern India. The book is one of the best-known village studies of the 1950s. It examines how caste ranking, land ownership and political power interacted, and how the opening of the village economy to markets, money and the colonial administration changed them. Kinship, in the sense of who helps whom and how claims are made through relatives, appears throughout the study, but the book is not mainly a study of kinship systems.
 
 ## The Village and the Study
 
-Bailey's starting point was a puzzle. In the traditional system of Bisipara, all the land had been owned by the Warrior caste, and the division of wealth followed the division of caste. The extension of the "economic frontier" — the increasing contact of the village with towns, markets, transport, and the colonial administration — allowed land to be bought and sold. Some Warriors sold land; members of other castes bought it. Within two generations the Warriors held only about twenty-eight per cent of the land, and the relationship between caste and class became complex and unstable. Kinship had to be understood inside this moving history, not apart from it.
+Bailey carried out fieldwork in the early 1950s. Bisipara was a multi-caste village whose population included Brahmins, a Warrior (Kshatriya-status) caste of landholders, the Sundi or distillers' caste, other service and artisan castes, the Pan caste at the bottom of the ritual hierarchy, and tribal Konds living in the surrounding hills. The study combined residence, genealogies, observation of disputes and the reconstruction of land transactions over several generations.
 
-The method was the intensive single-village study, pursued through residence, genealogy, observation of disputes, and the reconstruction of land transactions over several generations. Bailey recorded who owned which plots, who married whom, who supported whom in quarrels, and who could call on whom for labour. Genealogies were not collected as abstract diagrams but as records of claims: a kinship link mattered when someone used it to demand help, to justify a marriage, or to assert a right to land. This attention to use, rather than to rule, became the study's signature.
+## Main Argument
 
-## Kinship, Caste, and the Economic Frontier
+Bailey's central question was how caste, which ranks groups ritually, related to the distribution of land and power. In the older order the Warrior caste had been the dominant landholders. With the extension of the "economic frontier", meaning the expansion of cash trade, market contact and administrative law into the area, land became something that could be bought and sold, and wealth gained through trade and the liquor business, notably by the Sundi, could be turned into land. Caste rank and economic power therefore no longer coincided as they once had. Bailey argued that the caste system could be understood in terms of political and economic relations as well as ritual rank, and that it had to be studied as it changed.
 
-The central argument is that kinship in Bisipara operates through two overlapping but distinct logics. Within the caste, kinship organises cooperation and inheritance: joint families divide, estates fragment, and brothers quarrel over partition. Between castes, kinship language is borrowed and adapted — the idiom of kinship, of elder and younger brother, of patron and client, is extended to relations that are in fact relations of economic dependence and political domination. The Pan caste stood at the bottom of this order, bound to landholders in a king-subject relationship in which ritual pollution justified material subordination.
+## Method and Later Influence
 
-Bailey showed that the jajmani system — the hereditary exchange of services between castes — was not the harmonious reciprocity of textbook accounts. Interdependence was not equality. Sanctions lay with the dominant caste: landholders could withhold land and livelihood, while dependent castes could not effectively use their supposed right to withhold service. Kinship ties that crossed village boundaries mattered too, since marriage linked Bisipara families to kin in other villages, and those wider kindreds could be mobilised in disputes or in the search for brides and grooms.
+The book is an example of intensive single-village fieldwork and of the attention to disputes, transactions and individual strategies associated with Bailey's circle at Manchester. Bailey developed these interests in *Tribe, Caste and Nation* (1960), a study of political change in highland Orissa, and in *Stratagems and Spoils* (1969), an analysis of politics as competition among rival actors. He also edited *Gifts and Poison: The Politics of Reputation* (1971), a collection on reputation and gossip in politics.
 
-A second theme is the politics of reputation: a man who could present himself as a generous kinsman and a reliable patron gained followers, while one who failed in kinship obligations lost them. Kinship, in this sense, is not only a structure of descent and alliance but a currency of political action.
+## Reception
 
-## Key Concepts
-
-Several concepts from the Bisipara study entered the wider anthropological vocabulary. The **economic frontier** names the moving boundary between the subsistence village economy and the wider market, and the study showed that this frontier reshuffles rank without abolishing it: new wealth could buy land but not ritual status. The **kindred** appears here as a practical network rather than a bounded group — relatives who can be called upon for help, with the circle widening or narrowing with circumstance. The study also distinguished between the formal rules of kinship and the **strategies** people pursue through them, a distinction Bailey later developed into the transactional analysis of *Stratagems and Spoils* (1969).
-
-## Reception and Influence
-
-*Caste and the Economic Frontier* became a landmark of the Indian village studies of the 1950s, alongside the work of Adrian Mayer, M. N. Srinivas, and André Béteille. It influenced Louis Dumont's thinking on hierarchy and helped to move Indian sociology from describing caste as a static system toward explaining mobility, power, and change. Its demonstration that the village was open to the wider economy, and that its social order rested on the coercive power of landholders rather than on reciprocity alone, became a standard reference in debates about the "little republic" image of the Indian village.
-
-The study also shaped the Manchester school's processual turn. Bailey's insistence on following disputes, transactions, and individual manoeuvres over time fed directly into the transactional analysis of the 1960s and 1970s, and into the argument that social structure should be studied as something people make and remake rather than something they merely inhabit. Later restudies of Indian villages have qualified some of Bailey's conclusions, but the Bisipara study remains a model of how a single village, studied intensively, can illuminate processes found across a whole society.
+*Caste and the Economic Frontier* is usually grouped with other village studies of its generation, such as Adrian Mayer's *Caste and Kinship in Central India* (1960) and, later, André Béteille's *Caste, Class and Power* (1965). Together they moved the study of caste away from a purely textual or ritual account toward one that attended to land, power and change. Critics of village studies as a genre have noted that a single village cannot stand for the whole of Indian society, and later restudies have qualified some conclusions.
 
 ## Sources
 
 - Bailey, F. G. *Caste and the Economic Frontier: A Village in Highland Orissa*. Manchester University Press, 1957.
 - Bailey, F. G. *Tribe, Caste, and Nation: A Study of Political Activity and Political Change in Highland Orissa*. Manchester University Press, 1960.
 - Bailey, F. G. *Stratagems and Spoils: A Social Anthropology of Politics*. Basil Blackwell, 1969.
-- Bailey, F. G. *Gifts and Poison: The Politics of Reputation*. Basil Blackwell, 1971.
+- Bailey, F. G., ed. *Gifts and Poison: The Politics of Reputation*. Basil Blackwell, 1971.
 - Mayer, Adrian C. *Caste and Kinship in Central India: A Village and Its Region*. Routledge and Kegan Paul, 1960.
 - Béteille, André. *Caste, Class, and Power: Changing Patterns of Stratification in a Tanjore Village*. University of California Press, 1965.
-- Dumont, Louis. *Homo Hierarchicus: The Caste System and Its Implications*. University of Chicago Press, 1970.

@@ -26,7 +26,7 @@ Inheritance is governed by norms that vary widely. In patrilineal systems, prope
 
 ## Origins and Development
 
-The anthropology of inheritance was founded by Jack Goody's comparative study of Africa and Eurasia. In *Death, Property and the Ancestors*, Goody showed that in many African societies, property was held by corporate kin groups and passed laterally among kin, while in Eurasia, where intensive agriculture and private property predominated, inheritance was more often a direct transfer from parent to child, with a correspondingly greater emphasis on the conjugal family, marriage strategy, and the control of women's property. In Europe, the written will, the land registry, and the probate court became technologies of inheritance. Colonialism disrupted indigenous systems, imposing European models of private property and written title, and creating conflicts between customary and statutory inheritance that persist in many postcolonial states. In the twentieth century, the rise of the welfare state and of pension systems reduced the importance of inherited land for many families, while the growth of financial wealth — houses, savings, shares — made inheritance a central mechanism in the reproduction of inequality in rich countries as well.
+The anthropology of inheritance was founded by Jack Goody's comparative study of Africa and Eurasia. In *Death, Property and the Ancestors* (1962) and later *Production and Reproduction* (1976), Goody showed that in many African societies, property was held by corporate kin groups and passed laterally among kin, while in Eurasia, where intensive agriculture and private property predominated, inheritance was more often a direct transfer from parent to child, with a correspondingly greater emphasis on the conjugal family, marriage strategy, and the control of women's property. In Europe, the written will, the land registry, and the probate court became technologies of inheritance. Colonialism disrupted indigenous systems, imposing European models of private property and written title, and creating conflicts between customary and statutory inheritance that persist in many postcolonial states. In the twentieth century, the rise of the welfare state and of pension systems reduced the importance of inherited land for many families, while the growth of financial wealth — houses, savings, shares — made inheritance a central mechanism in the reproduction of inequality in rich countries as well.
 
 ## Key Debates and Dimensions
 
@@ -40,6 +40,7 @@ Inheritance is at the centre of contemporary debates about inequality. Thomas Pi
 
 - Meyer Fortes, "The Structure of Unilineal Descent Groups," *American Anthropologist* (1953).
 - Jack Goody, *Death, Property and the Ancestors: A Study of the Mortuary Customs of the LoDagaa of West Africa* (1962).
+- Jack Goody, *Production and Reproduction: A Comparative Study of the Domestic Domain* (1976).
 - Jack Goody, *The Development of the Family and Marriage in Europe* (1983).
 - Thomas Piketty, *Capital in the Twenty-First Century* (2014).
 - Sara Berry, *No Condition Is Permanent: The Social Dynamics of Agrarian Change in Sub-Saharan Africa* (1993).

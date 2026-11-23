@@ -46,7 +46,6 @@ The public sphere is a diagnostic tool for democratic health. The decline of loc
 ## Sources
 
 - Hannah Arendt, *The Human Condition* (1958)
-- Jürgen Habermas, *The Structural Transformation of the Public Sphere* (1962)
-- Jürgen Habermas, *The Structural Transformation of the Public Sphere*, English translation (1989)
+- Jürgen Habermas, *Strukturwandel der Öffentlichkeit* (1962); English translation, *The Structural Transformation of the Public Sphere* (MIT Press, 1989)
 - Nancy Fraser, "Rethinking the Public Sphere: A Contribution to the Critique of Actually Existing Democracy" (1990)
 - Craig Calhoun (ed.), *Habermas and the Public Sphere* (1992)

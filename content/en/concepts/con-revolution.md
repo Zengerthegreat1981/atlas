@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Revolution and digital mobilization"
-  - "Failed revolutions and their aftermath"
-  - "Revolution in the Global South"
+  []
 ---
 
 # Revolution: The Overthrow of a Social Order

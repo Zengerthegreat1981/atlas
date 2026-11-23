@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Cooperative relationship between groups"
+gaps: []
 ---
 
 # Alliance

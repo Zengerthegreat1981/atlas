@@ -12,9 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related: []
 gaps:
-  - "Cyberwarfare and remote warfare"
-  - "War and gender"
-  - "War in stateless societies"
+  - "Cyberwarfare: not yet covered"
 ---
 
 # War: Organized Violence Between Political Communities
@@ -35,7 +33,7 @@ Michael Mann, in the first volume of *The Sources of Social Power* (1986), place
 
 ## Examples
 
-The effects of war reach far beyond the battlefield. The two world wars of the twentieth century transformed the role of the state in everyday life: rationing, conscription, income tax, and public health systems all expanded under the pressure of total war, and many of those expansions survived into peacetime. War also transforms gender relations, as women enter factories and armies and then face pressure to return to domestic roles when the fighting ends. And war produces its own cultures — of remembrance, of sacrifice, of veteran identity — that persist for generations after the guns fall silent.
+The effects of war reach far beyond the battlefield. The two world wars of the twentieth century transformed the role of the state in everyday life: rationing, conscription, taxation, and state economic planning all expanded under the pressure of total war, and many of those expansions survived into peacetime. War also transforms gender relations, as women enter factories and armies and then face pressure to return to domestic roles when the fighting ends. And war produces its own cultures — of remembrance, of sacrifice, of veteran identity — that persist for generations after the guns fall silent.
 
 In stateless societies, war takes different forms. Raiding, feuding, and ritual battle may be woven into the cycle of seasons and the obligations of kinship. Anthropologists have shown that such conflicts are often governed by strict rules about who may be attacked, when, and with what weapons — rules that limit killing even as they authorize it. War, in these settings, is a regulated social performance as much as it is an attempt to destroy an enemy.
 

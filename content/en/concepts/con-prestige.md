@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Social status and honor"
+  []
 ---
 
 # Prestige

@@ -26,7 +26,7 @@ Blessings take many forms. They may be invocations of divine favour, as when a r
 
 ## Origins and Development
 
-Blessing is among the oldest recorded religious practices. Ancient Near Eastern texts, the Hebrew Bible, and the Qur'an all contain blessings pronounced by patriarchs, prophets, and priests, and the Latin word *benedictio* — from which "benediction" derives — means literally "speaking well." James Frazer, writing in 1890, treated blessings and curses as examples of magical thinking, in which words were believed to carry material force. Émile Durkheim, in 1912, saw them instead as expressions of collective life: to bless was to affirm the sacred bonds that held a community together. Marcel Mauss, in his classic study of the gift published in 1925, showed that blessings often accompany gifts and exchanges, sealing obligations between giver and receiver. In the twentieth century, the anthropology of language, especially the work of J. L. Austin on speech acts, gave scholars a new vocabulary for blessing: it is a performative utterance whose success depends on the right speaker, the right words, and the right occasion — what Austin called "felicity conditions."
+Blessing is among the oldest recorded religious practices. Ancient Near Eastern texts and the Hebrew Bible record blessings pronounced by patriarchs, prophets, and priests, and blessing formulas remain central in Jewish, Christian, Islamic, and many other traditions. The Latin word *benedictio*, from which "benediction" derives, means literally "speaking well." James Frazer, writing in 1890, treated blessings and curses as examples of magical thinking, in which words were believed to carry material force. Émile Durkheim, in 1912, saw them instead as expressions of collective life: to bless was to affirm the sacred bonds that held a community together. Marcel Mauss, in his classic study of the gift published in 1925, showed that blessings often accompany gifts and exchanges, sealing obligations between giver and receiver. In the twentieth century, the philosophy of language, especially J. L. Austin's work on speech acts (*How to Do Things with Words*, 1962), gave scholars a new vocabulary for blessing: it is a performative utterance whose success depends on the right speaker, the right words, and the right occasion — what Austin called "felicity conditions."
 
 ## Key Debates
 
@@ -41,5 +41,6 @@ Blessing remains a vivid part of contemporary life. Religious leaders bless crow
 - James George Frazer, *The Golden Bough: A Study in Magic and Religion*, 1890.
 - Émile Durkheim, *The Elementary Forms of Religious Life*, 1912.
 - Marcel Mauss, *The Gift: The Form and Reason for Exchange in Archaic Societies*, 1925.
+- J. L. Austin, *How to Do Things with Words*, 1962.
 - Mary Douglas, *Purity and Danger: An Analysis of Concepts of Pollution and Taboo*, 1966.
 - Catherine Bell, *Ritual Theory, Ritual Practice*, 1992.

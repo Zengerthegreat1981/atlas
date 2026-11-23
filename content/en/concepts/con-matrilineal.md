@@ -18,7 +18,7 @@ gaps:
 
 # Matrilineal
 
-Matrilineal descent is a principle of kinship reckoning in which membership in a descent group, rights to property, and social identity are traced through the mother's line. A person's lineage and clan pass from mother to child, and the child belongs to the mother's group rather than the father's. Matrilineal systems are found in many parts of the world — among the Akan of Ghana, the Minangkabau of Sumatra, the Khasi of north-east India, the Mosuo of China, and the Trobriand Islanders of Melanesia — and they are one of the three classic unilineal principles, alongside patrilineal descent through the father and cognatic descent through both sides. Each principle produces a different map of who counts as kin, who inherits what, and who holds authority.
+Matrilineal descent is a principle of kinship reckoning in which membership in a descent group, rights to property, and social identity are traced through the mother's line. A person's lineage and clan pass from mother to child, and the child belongs to the mother's group rather than the father's. Matrilineal systems are found in many parts of the world — among the Akan of Ghana, the Minangkabau of Sumatra, the Khasi of north-east India, the Mosuo of China, and the Trobriand Islanders of Melanesia — and matrilineal descent is one of the two unilineal principles, alongside patrilineal descent through the father, and is contrasted with cognatic (bilateral) descent through both sides. Each principle produces a different map of who counts as kin, who inherits what, and who holds authority.
 
 ## Definition
 

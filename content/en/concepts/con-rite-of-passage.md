@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Rituals marking status transitions"
+  []
 ---
 
 # Rites of Passage

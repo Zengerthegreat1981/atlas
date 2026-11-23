@@ -29,7 +29,7 @@ Glocalization differs from related terms. Homogenization implies that the world 
 
 The word "glocalization" entered English from Japanese business language, where *dochakuka* described the adaptation of global products to local markets. Robertson took it up in the early 1990s, most fully in "Glocalization: Time-Space and Homogeneity-Heterogeneity" (1995), arguing that the global and the local should be understood as mutually constitutive rather than opposed. His earlier book *Globalization: Social Theory and Global Culture* (1992) had already argued that globalization involves the compression of the world and the intensification of consciousness of the world as a whole, a process that heightens, rather than diminishes, attention to local difference.
 
-Arjun Appadurai's *Modernity at Large* (1996) gave the idea an anthropological grounding, describing global cultural flows through landscapes of media, migration, technology, finance, and ideas, and showing how people in different places imagine their lives through these flows. John Tomlinson, in *Globalization and Culture* (1999), argued that globalization produces a complex connectivity in which local life is increasingly shaped by distant events, yet remains locally lived. Ritzer, in *The McDonaldization of Society* (1993), offered the contrasting image of standardisation, and later acknowledged that glocalization describes the limits and local reworking of that process.
+Arjun Appadurai's *Modernity at Large* (1996) gave the idea an anthropological grounding, describing global cultural flows through landscapes of media, migration, technology, finance, and ideas, and showing how people in different places imagine their lives through these flows. John Tomlinson, in *Globalization and Culture* (1999), argued that globalization produces a complex connectivity in which local life is increasingly shaped by distant events, yet remains locally lived. Ritzer, in *The McDonaldization of Society* (1993), offered the contrasting image of standardisation, and later, in *The Globalization of Nothing* (2004), contrasted glocalization with what he called "grobalization", the imperialistic expansion of standardised forms.
 
 ## Key Debates and Dimensions
 
@@ -50,5 +50,6 @@ Critics argue that the term can be vague, describing almost any mixture of globa
 - Robertson, Roland. *Globalization: Social Theory and Global Culture*. London: Sage, 1992.
 - Ritzer, George. *The McDonaldization of Society*. Thousand Oaks: Pine Forge Press, 1993.
 - Robertson, Roland. "Glocalization: Time-Space and Homogeneity-Heterogeneity." In *Global Modernities*, edited by Mike Featherstone, Scott Lash, and Roland Robertson. London: Sage, 1995.
+- Ritzer, George. *The Globalization of Nothing*. Thousand Oaks: Pine Forge Press, 2004.
 - Appadurai, Arjun. *Modernity at Large: Cultural Dimensions of Globalization*. Minneapolis: University of Minnesota Press, 1996.
 - Tomlinson, John. *Globalization and Culture*. Cambridge: Polity Press, 1999.

@@ -13,8 +13,7 @@ edges:
 related:
   []
 gaps:
-  - Heritage and climate change adaptation
-  - Restitution of looted heritage objects
+  []
 ---
 # Heritage: The Past in the Present
 
@@ -22,7 +21,7 @@ gaps:
 
 ## Definition and Development
 
-The modern heritage regime was created in the twentieth century. The UNESCO Convention Concerning the Protection of the World Cultural and Natural Heritage (1972) established the World Heritage List, giving international recognition to sites of "outstanding universal value" — from the pyramids of Giza to the historic centre of Rome. The Convention Concerning the Safeguarding of the Intangible Cultural Heritage (2003) extended protection to practices, expressions, and knowledge: oral traditions, performing arts, rituals, and traditional craftsmanship. Together the two conventions define the official framework within which states, experts, and international bodies decide what counts as heritage.
+The modern heritage regime was created in the twentieth century. The UNESCO Convention Concerning the Protection of the World Cultural and Natural Heritage (1972) established the World Heritage List, giving international recognition to sites of "outstanding universal value" — from the pyramids of Giza to the historic centre of Rome. The Convention for the Safeguarding of the Intangible Cultural Heritage (2003) extended protection to practices, expressions, and knowledge: oral traditions, performing arts, rituals, and traditional craftsmanship. Together the two conventions define the official framework within which states, experts, and international bodies decide what counts as heritage.
 
 David Lowenthal, in *The Past Is a Foreign Country* (1985), showed that heritage is not the past itself but a present-day attitude toward it. Every generation remakes the past in its own image, preserving what serves its needs and forgetting what does not. Nostalgia, Lowenthal argued, is a modern condition: as societies change rapidly, the past becomes a source of comfort, identity, and authenticity that the present seems to lack.
 

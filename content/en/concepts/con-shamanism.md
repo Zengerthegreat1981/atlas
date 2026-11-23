@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Spiritual practitioner with special powers"
+  []
 ---
 
 # Shamanism: The Spirit Mediator and the Anthropology of Healing
@@ -30,7 +30,7 @@ Later anthropologists questioned Eliade's universalism. The term "shaman" had be
 
 Claude Lévi-Strauss, in "The Sorcerer and His Magic" (1949), offered a strikingly social account of shamanic healing. The shaman's cure works, he argued, not through pharmacology but through a shared symbolic language: the shaman, the patient, and the audience all believe in the same cosmology of spirits and bodily forces, so the shaman's performance can reorganise the patient's experience of illness into a meaningful narrative. Healing is thus a collective act of meaning-making, and its efficacy depends on a social consensus about what spirits are and what they can do. Lévi-Strauss's essay became a founding text for the anthropology of healing and for the study of the placebo effect in cross-cultural perspective.
 
-Roberte Hamayon and others working in Siberia and Mongolia showed that shamanism is also a matter of alliance and exchange. The shaman does not command spirits so much as bargain with them: offerings are made, promises kept, and debts honoured, in a relationship modelled on human sociality. Caroline Humphrey and Urgunge Onon, in *Shamans and Elders* (1996), traced how Mongolian shamanism survived decades of socialist repression by retreating into domestic ritual and re-emerging, transformed, after 1990. Their work showed that shamanism is not a survival from the archaic past but a living practice that adapts to state power, market economies, and new forms of suffering.
+Roberte Hamayon and others working in Siberia and Mongolia showed that shamanism is also a matter of alliance and exchange. The shaman does not command spirits so much as bargain with them: offerings are made, promises kept, and debts honoured, in a relationship modelled on human sociality. Caroline Humphrey and Urgunge Onon, in *Shamans and Elders* (1996), a study of the Daur Mongols of northeastern China, examined how shamanic knowledge, authority, and experience are bound up with elders, kinship, and the state. Work of this kind shows that shamanism is not a survival from the archaic past but a living practice that adapts to state power, market economies, and new forms of suffering.
 
 ## Ethnographic Examples
 

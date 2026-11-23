@@ -32,7 +32,7 @@ The 2000s brought consolidation and expansion. *Media Worlds* (2002), edited by 
 
 Spitulnik (1993) defined the field, insisting that media anthropology must study production, circulation, and reception together, and in everyday contexts. Ginsburg (1991) made indigenous media a core concern, showing that video and film can be tools of cultural survival and political assertion. Michaels (1994) demonstrated that media use is creative and strategic, even in communities with little access to the means of production.
 
-Abu-Lughod (2005) showed how television melodrama works as a form of national pedagogy, teaching viewers how to be modern citizens, and how audiences interpret serials in ways that reflect their own lives. Larkin's work on Nigerian video films, published in *Media Worlds* (2002) and later in *Signal and Noise* (2008), showed how media infrastructures — cinemas, video parlours, piracy networks — shape cultural life. Postill (2006) connected media to the state, showing how governments use broadcasting to build nations and how citizens use it to talk back.
+Abu-Lughod (2005) showed how television melodrama works as a form of national pedagogy, teaching viewers how to be modern citizens, and how audiences interpret serials in ways that reflect their own lives. Larkin's *Signal and Noise* (2008), on Nigerian video films and their infrastructures, showed how media infrastructures — cinemas, video parlours, piracy networks — shape cultural life. Postill (2006) connected media to the state, showing how governments use broadcasting to build nations and how citizens use it to talk back.
 
 ## Method
 

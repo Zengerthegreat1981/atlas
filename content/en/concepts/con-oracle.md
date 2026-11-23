@@ -24,7 +24,7 @@ An oracle is a source of authoritative knowledge about hidden or future things, 
 
 The classic anthropological study of oracles is Edward Evans-Pritchard's *Witchcraft, Oracles and Magic among the Azande* (1937), based on fieldwork in what is now South Sudan. Evans-Pritchard showed that the Azande consulted oracles, above all the poison oracle, in which a chicken was fed a poison and its death or survival read as an answer, in almost every important decision. He argued that oracles were not irrational: within Azande beliefs about witchcraft, they were a rational way of testing suspicions, settling disputes, and deciding action. The oracle gave the Azande a procedure for reaching certainty where ordinary evidence was unavailable, and its verdicts were accepted because the procedure itself was trusted, even when individual results seemed contradictory.
 
-The comparative study of divination developed from this foundation. Geoffrey Park's "Divination and Its Social Context" (1963) argued that divination must be understood through its social setting: who consults, who interprets, and what is at stake. Philip Peek's edited volume *African Divination Systems: Ways of Knowing* (1991) gathered case studies showing that divination is a system of knowledge in its own right, with its own logic, training, and standards of evidence. Greek oracles, meanwhile, were studied by historians of religion who showed that Delphi's influence depended on the prestige of Apollo's sanctuary, the ambiguity of its pronouncements, and the political uses to which city-states put them. In ancient Greece as in Africa, the oracle's authority rested on institutions, not only on belief.
+The comparative study of divination developed from this foundation. George K. Park's "Divination and Its Social Contexts" (1963) argued that divination must be understood through its social setting: who consults, who interprets, and what is at stake. Philip Peek's edited volume *African Divination Systems: Ways of Knowing* (1991) gathered case studies showing that divination is a system of knowledge in its own right, with its own logic, training, and standards of evidence. Greek oracles, meanwhile, were studied by historians of religion who showed that Delphi's influence depended on the prestige of Apollo's sanctuary, the ambiguity of its pronouncements, and the political uses to which city-states put them. In ancient Greece as in Africa, the oracle's authority rested on institutions, not only on belief.
 
 ## Key Debates and Dimensions
 
@@ -43,7 +43,7 @@ The study of oracles has also shaped how anthropologists think about knowledge i
 ## Sources
 
 - Edward Evans-Pritchard, *Witchcraft, Oracles and Magic among the Azande* (1937)
-- Geoffrey Park, "Divination and Its Social Context", *Journal of the Royal Anthropological Institute* (1963)
+- George K. Park, "Divination and Its Social Contexts", *Journal of the Royal Anthropological Institute* (1963)
 - Philip M. Peek, editor, *African Divination Systems: Ways of Knowing* (1991)
 - Peter Winch, "Understanding a Primitive Society", *American Philosophical Quarterly* (1964)
-- Michael Shaw, "The Production of Witchcraft/Witchcraft as Production", *American Ethnologist* (1997)
+- Rosalind Shaw, "The Production of Witchcraft/Witchcraft as Production", *American Ethnologist* (1997)

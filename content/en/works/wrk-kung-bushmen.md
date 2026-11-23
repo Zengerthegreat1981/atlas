@@ -17,41 +17,40 @@ sources:
   - Lee, Richard B. "What Hunters Do for a Living." In Man the Hunter, edited by Richard Lee and Irven DeVore, Aldine, 1968.
   - Wilmsen, Edwin N., and James R. Denbow. "Paradigmatic History of San-Speaking Peoples and Current Attempts at Revision." Current Anthropology, vol. 31, no. 5, 1990.
 gaps:
-  - "Critique of Lee's idealization of pristine hunter-gatherer economy and contact history"
-  - "San perspectives on Lee's representation and colonial contexts of the research"
+  - "San perspectives on Lee's representation: not yet covered"
 ---
 
 # The !Kung San: Men, Women, and Work in a Foraging Society
 
-Richard B. Lee's *The !Kung San: Men, Women, and Work in a Foraging Society* (1979) is a landmark ethnographic study that revolutionized understanding of hunter-gatherer economies and challenged Western assumptions about scarcity and work. Based on extensive fieldwork among the !Kung San (traditionally called "Bushmen") of the Kalahari Desert in southern Africa, Lee demonstrates that foraging economies are not characterized by constant struggle for survival but by relative leisure, abundant resources, and efficient production. The !Kung work only 15-20 hours per week to meet their subsistence needs, leaving substantial time for leisure, ritual, and socializing. They have diverse resources available, low population density, and sophisticated knowledge of their environment. Lee's work contributed to Marshall Sahlins's "original affluent society" thesis and established the analytical framework for understanding that hunter-gatherers often have more leisure and security than agriculturalists. *The !Kung San* demonstrated that assumptions about "primitive" peoples struggling against nature were distorted and challenged evolutionary assumptions that progress meant increasingly intensive labor.
+Richard B. Lee's *The !Kung San: Men, Women, and Work in a Foraging Society* (1979) is a landmark ethnographic study that revolutionized understanding of hunter-gatherer economies and challenged Western assumptions about scarcity and work. Based on extensive fieldwork among the !Kung San (traditionally called "Bushmen") of the Kalahari Desert in southern Africa, Lee demonstrates that foraging economies are not characterized by constant struggle for survival but by relative leisure, abundant resources, and efficient production. In Lee's Dobe time-allocation data, subsistence work averaged roughly 12 to 19 hours a week per adult (a figure that excludes food processing and tool-making, so total work time was longer), leaving substantial time for visiting, ritual and rest. Lee's data were used by Marshall Sahlins in his "original affluent society" argument, and his work is a main source for the claim that hunter-gatherers could meet their needs with modest labour. The study challenged assumptions that foragers lived at the edge of starvation.
 
 ## Publication & Context
 
-Lee conducted fieldwork among the !Kung San between 1963-1965 and returned for additional research in subsequent years. He worked under the mentorship of Irven DeVore and became associated with the "Man the Hunter" conference (1968) that brought together anthropologists, archaeologists, and primatologists to discuss hunter-gatherer societies. Lee published several influential articles on !Kung subsistence economics through the 1960s before publishing *The !Kung San* as his comprehensive monograph in 1979.
+Lee conducted fieldwork among the !Kung San (Ju/'hoansi) of the Dobe area of northwestern Botswana from 1963 to 1965 and returned for further research in later years. He worked with Irven DeVore in the Harvard Kalahari Research Group and, with DeVore, organized the "Man the Hunter" symposium (Chicago, 1966; proceedings published 1968), which brought together anthropologists and others to discuss hunter-gatherer societies. Lee published several influential articles on !Kung subsistence economics through the 1960s before publishing *The !Kung San* as his comprehensive monograph in 1979.
 
 The work appeared during a period of growing scholarly interest in hunter-gatherer societies and in economic anthropology more broadly. The 1960s and 1970s saw renewed interest in understanding how human societies were organized before agriculture, whether for evolutionary understanding or for critiquing industrial capitalism. Lee's work contributed to showing that hunter-gatherer societies were not chaotic or poverty-stricken but often had achieved a stable balance with their environment and had more leisure than later agricultural societies.
 
-The fieldwork took place in the colonial context of southern Africa, with the !Kung living on the margins of colonial Botswana and Namibia. Lee later acknowledged the colonial context and the difficulties of understanding pre-contact !Kung society given that contact had been extensive by the 1960s.
+The fieldwork took place in the context of late colonial southern Africa, in a region where the !Kung had long been in contact with Herero and Tswana pastoralists and with the state. This raises the question, discussed below, of how far the Dobe !Kung can serve as a model of pre-contact foraging life.
 
 ## Main Arguments & Thesis
 
-Lee's central argument challenges Western stereotypes of hunter-gatherers as struggling against scarcity and subsisting through constant, exhausting labor. Drawing on detailed time-allocation studies, dietary analysis, and economic data, Lee demonstrates that the !Kung work approximately 15-20 hours per week to meet their subsistence needs. This includes foraging (collecting plant foods) and hunting, plus food processing. The remaining time is devoted to leisure, socializing, ritual, and domestic activities. This abundance of free time is enabled by the productivity of foraging—the !Kung have access to diverse plant and animal resources, and efficient foraging techniques mean that relatively small effort yields adequate nutrition.
+Lee's central argument challenges Western stereotypes of hunter-gatherers as struggling against scarcity and subsisting through constant, exhausting labor. Drawing on time-allocation studies, dietary analysis and economic data, Lee reports that the Dobe !Kung spent on average roughly 12 to 19 hours a week on foraging and hunting. Food processing, tool-making and domestic tasks add to this total, and the rest of the time goes to visiting, ritual and rest. This abundance of free time is enabled by the productivity of foraging—the !Kung have access to diverse plant and animal resources, and efficient foraging techniques mean that relatively small effort yields adequate nutrition.
 
-Lee argues that the !Kung have achieved an "affluent" economy—not through accumulation of wealth but through having modest needs and meeting them easily. This is not the poverty assumed by Western observers but rather the rational organization of work to maximize leisure. Unlike agricultural societies where intensified production is necessary to feed larger populations, or industrial societies where work expands to fill time, the !Kung have achieved a balance where adequate production permits considerable leisure.
+Following Sahlins's argument, Lee presents the !Kung economy as "affluent" in the sense that wants are modest and easily met, rather than through accumulation of wealth. This is not the poverty assumed by Western observers but rather the rational organization of work to maximize leisure. Unlike agricultural societies where intensified production is necessary to feed larger populations, or industrial societies where work expands to fill time, the !Kung have achieved a balance where adequate production permits considerable leisure.
 
-Lee also emphasizes the stability and security of !Kung subsistence. Food sources are reliable and diverse. Knowledge of the environment is detailed and sophisticated. Kinship and sharing networks distribute food widely, reducing risk of shortage. The !Kung rarely experience starvation or severe shortages. This security is enabled not by abundance of any particular resource but by low population density, diverse resources, and efficient knowledge of the environment.
+Lee also emphasizes the stability and security of !Kung subsistence. Food sources are reliable and diverse. Knowledge of the environment is detailed and sophisticated. Kinship and sharing networks distribute food widely, reducing risk of shortage. Lee reports that the mongongo nut was a dependable staple and that the Dobe !Kung in his study period were generally adequately nourished, although seasonal hunger and drought occurred.
 
 Furthermore, Lee argues that !Kung society is relatively egalitarian, with limited accumulation of wealth, modest property differences, and strong sharing obligations. This egalitarianism is linked to the foraging economy—mobility and reliance on immediate-return resources make wealth accumulation difficult and dysfunctional.
 
 ## Key Concepts Introduced
 
-**Original Affluent Society**: Lee's concept, developed with Marshall Sahlins, that hunter-gatherers achieved affluence not through production of abundance but through having low consumption demands and meeting them efficiently. This challenged evolutionary theories that portrayed abundance as a product of technological advancement.
+**Original Affluent Society**: Marshall Sahlins's thesis (presented at the "Man the Hunter" symposium and in *Stone Age Economics*, 1972), for which Lee's Dobe data were a key source, that hunter-gatherers achieve affluence through limited material wants rather than abundant production.
 
-**Work and Leisure**: Lee's detailed time-allocation data demonstrating that !Kung workers only 15-20 hours per week challenged assumptions that hunter-gatherers spent all their time in subsistence work. This reframed understanding of leisure as a human achievement rather than a luxury.
+**Work and Leisure**: Lee's time-allocation data challenged the assumption that hunter-gatherers spent all their time in subsistence work.
 
-**Immediate-Return Economy**: The concept that foraging societies obtain resources immediately for consumption rather than storing for future use (as agricultural societies do). This shapes social organization, kinship, and property concepts differently than delayed-return economies.
+**Immediate-Return Economy**: A concept later formulated by James Woodburn (not by Lee) to describe foragers who consume food soon after obtaining it and do not rely on storage. The !Kung are often cited as an example, and the concept links their egalitarian, sharing-oriented social relations with their economy.
 
-**Dietary Breadth and Diversity**: Lee's analysis showing that the !Kung exploit approximately 200 plant species and many animal species, maintaining diverse diets and reducing dependency on any single resource. This diversity provides security and stability.
+**Dietary Breadth and Diversity**: Lee documented the wide range of wild plant and animal foods used by the !Kung, with plant foods gathered mostly by women providing the larger share of the diet by weight.
 
 **Kinship and Sharing**: The emphasis that !Kung kinship is organized around sharing obligations and that distribution of food through kinship networks creates security and reduces inequality.
 
@@ -69,15 +68,15 @@ His comparative analysis places !Kung subsistence in context with other hunter-g
 
 *The !Kung San* became a foundational text for understanding hunter-gatherer economics and contributed to the "original affluent society" thesis that became influential in anthropology, environmental studies, and social criticism. The book provided empirical foundation for questioning evolutionary assumptions that portrayed hunter-gatherers as poor and that portrayed progress as requiring intensified labor.
 
-The work profoundly influenced economic anthropology and substantivist economic theory. Anthropologists studying diverse subsistence economies drew on Lee's framework for understanding how different economic systems allocate labor and resources. The concept of "original affluence" influenced scholars arguing for the superiority of foraging to agriculture and for critical perspectives on industrial capitalism.
+The work influenced economic anthropology and hunter-gatherer studies. Its data are widely cited in discussions of foraging economies, work time and sharing, and the idea of original affluence has influenced critical perspectives on modern work and consumption.
 
-The work also influenced anthropological perspectives on work and leisure, demonstrating that there is no necessary relationship between technological development and labor time. Industrial capitalist societies did not reduce work hours despite their technological capacity to do so; rather, work expanded. This observation became important for social critics questioning capitalism's organization of work.
+Sahlins and others drew on such data to argue that there is no necessary relationship between technological development and a shorter working week.
 
-The book also contributed to establishing the !Kung/San as ethnographic subjects of intense study. Subsequently, the !Kung became iconic in anthropological imagination as exemplars of the hunter-gatherer lifestyle. This later became problematic as the category "Bushmen" and "San" themselves came under critique.
+The book also helped make the !Kung/San among the most studied foraging peoples. Subsequently, the !Kung became iconic in anthropological imagination as exemplars of the hunter-gatherer lifestyle. This later became problematic as the category "Bushmen" and "San" themselves came under critique.
 
 ## Methodology & Approach
 
-Lee employed time-allocation studies, dietary analysis, economic surveys, and participant observation. He lived among !Kung communities, observed their activities, and conducted systematic recording of time allocation. He also conducted interviews about food sources, economic transactions, and kinship obligations.
+Lee employed time-allocation studies, dietary analysis, economic surveys and participant observation. He lived among !Kung communities, observed their activities, and conducted systematic recording of time allocation. He also conducted interviews about food sources, economic transactions, and kinship obligations.
 
 His analytical approach combined ethnographic description with quantitative analysis. He presented numerical data on time allocation and nutrition alongside ethnographic description of economic activities. The integration of quantitative and qualitative data was influential in demonstrating the power of combined methods.
 
@@ -87,13 +86,13 @@ The monograph is organized thematically, moving from description of the !Kung an
 
 Critics have questioned Lee's representation of !Kung economy as "pristine" or representing pre-contact patterns. The !Kung had been in contact with Bantu agriculturalists and pastoral groups for centuries. Their economy at the time of Lee's fieldwork was already influenced by contact and colonial contexts. Some scholars argue that Lee's portrayal of !Kung affluence may represent a modern situation enabled by colonial policies rather than an ancient pattern.
 
-Edwin Wilmsen and others have argued that the !Kung were not isolated foragers but were integrated into broader regional economies as hunters providing game for pastoral and agricultural groups. The !Kung economy Lee studied may have been shaped by these relationships rather than being independent.
+Edwin Wilmsen (*Land Filled with Flies*, 1989) and others argued that the San were not isolated foragers but were long integrated into regional economies and political relations, and that the image of the isolated forager is partly a product of history. Lee and other defenders replied that the Dobe area was relatively remote and that the evidence supports substantial foraging autonomy in the recent past. The debate is known as the Kalahari debate.
 
-Feminist scholars have noted that while Lee provides gender-disaggregated data, his interpretation may underestimate women's contributions to subsistence. Women provide the majority of calories through plant foraging, yet hunting (male activity) receives disproportionate attention in anthropological literature. Lee's data supports attention to women's economic contributions, but his representation may still emphasize hunting.
+Feminist scholars have noted that while Lee provides gender-disaggregated data, his interpretation may underestimate women's contributions to subsistence. Women's plant foraging provides most of the diet by weight, yet hunting has received disproportionate attention in the literature. Lee's data support attention to women's economic contributions, although critics hold that the wider literature has still emphasized hunting.
 
 Some scholars have also questioned whether the leisure Lee documents should be interpreted as affluence or as underemployment. If the !Kung have adequate resources and limited wants, do they achieve affluence? Or are they simply not utilizing resources they could theoretically exploit? The interpretation of leisure as a form of affluence rather than underemployment is contestable.
 
-Postcolonial scholars have noted that Lee's work, while sympathetic to the !Kung, participated in their representation as ethnographic subjects and contributed to stereotypes (whether positive or negative) that may not align with !Kung self-understanding.
+Critics have also noted that sympathetic portrayals of the San as ideal foragers can contribute to stereotypes that may not match San self-understanding.
 
 ## Contemporary Relevance
 
@@ -102,3 +101,11 @@ Postcolonial scholars have noted that Lee's work, while sympathetic to the !Kung
 However, contemporary readings are more critical about colonial context, contact history, and representation. Scholars use Lee's data while acknowledging that the !Kung economy he studied was not isolated from broader regional dynamics. Contemporary work also centers San perspectives more fully and attends to how anthropological representations have affected San identity and self-understanding.
 
 The work's influence on environmental and social criticism remains significant—the concept of the "original affluent society" continues to be invoked in critiques of capitalism and modernity. However, contemporary scholars nuance this concept, recognizing that pre-contact societies had their own inequalities and that affluence is contextual.
+
+## Sources
+
+- Lee, Richard B. *The !Kung San: Men, Women, and Work in a Foraging Society*. Cambridge University Press, 1979.
+- Lee, Richard B., and Irven DeVore, eds. *Man the Hunter*. Aldine, 1968.
+- Sahlins, Marshall. *Stone Age Economics*. Aldine-Atherton, 1972.
+- Wilmsen, Edwin N. *Land Filled with Flies: A Political Economy of the Kalahari*. University of Chicago Press, 1989.
+- Wilmsen, Edwin N., and James R. Denbow. "Paradigmatic History of San-Speaking Peoples and Current Attempts at Revision." *Current Anthropology* 31, no. 5 (1990).

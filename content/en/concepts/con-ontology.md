@@ -24,7 +24,7 @@ Ontology is the study of what exists — of the kinds of beings that populate th
 
 The ontological turn grew out of dissatisfaction with the classic distinction between nature and culture. For much of the twentieth century, anthropologists assumed a shared natural reality interpreted differently by different cultures. Philippe Descola, in *Beyond Nature and Culture* (2013, first published in French in 2005), argued that the nature–culture divide is itself a historically specific, Western ontology, and that other peoples organise reality differently: some treat animals as persons with social lives, others treat spirits as masters of the forest, and still others treat the world as animated by forces that cross the boundary between human and non-human entirely. Descola proposed four basic ontologies — animism, totemism, naturalism, and analogism — as a comparative framework for mapping this diversity.
 
-A parallel strand came from Amazonian ethnography. Eduardo Viveiros de Castro, in his essay "Exchanging Perspectives" (1998) and later in *Cannibal Metaphysics* (2014), developed the concept of perspectivism: for many Amazonian peoples, animals and spirits see themselves as human, and see humans as animals or spirits. What differs between species is not culture but the body — the point of view that a body affords. A jaguar sees blood as manioc beer; what humans call a mud puddle, a tapir experiences as a ceremonial house. Perspectivism thus inverts the familiar formula: one culture, many natures, rather than one nature, many cultures.
+A parallel strand came from Amazonian ethnography. Eduardo Viveiros de Castro, in his essay "Cosmological Deixis and Amerindian Perspectivism" (1998) and later in *Cannibal Metaphysics* (2014), developed the concept of perspectivism: for many Amazonian peoples, animals and spirits see themselves as human, and see humans as animals or spirits. What differs between species is not culture but the body — the point of view that a body affords. A jaguar sees blood as manioc beer; what humans call a mud puddle, a tapir experiences as a ceremonial house. Perspectivism thus inverts the familiar formula: one culture, many natures, rather than one nature, many cultures.
 
 Roy Wagner's *The Invention of Culture* (1975) anticipated this move by arguing that anthropologists do not simply describe other cultures; their concepts are themselves inventions shaped by the encounter. Marilyn Strathern's *The Gender of the Gift* (1988) similarly showed that Melanesian persons are not bounded individuals but composite beings made of relations — a conception of personhood that unsettles Western assumptions about where a person ends and the world begins.
 
@@ -46,7 +46,7 @@ The sharpest critique remains that ontology can float free of history and power.
 
 - Wagner, Roy. *The Invention of Culture*. 1975.
 - Strathern, Marilyn. *The Gender of the Gift: Problems with Women and Problems with Society in Melanesia*. 1988.
-- Viveiros de Castro, Eduardo. "Exchanging Perspectives: The Transformation of Objects into Subjects in Amerindian Ontologies." 1998.
+- Viveiros de Castro, Eduardo. "Cosmological Deixis and Amerindian Perspectivism." *Journal of the Royal Anthropological Institute* 4(3), 1998.
 - Descola, Philippe. *Beyond Nature and Culture*. 2013.
 - Viveiros de Castro, Eduardo. *Cannibal Metaphysics*. 2014.
 - Holbraad, Martin, and Morten Axel Pedersen. *The Ontological Turn: An Anthropological Exposition*. 2017.

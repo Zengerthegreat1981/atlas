@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Prohibited behaviors or objects"
+  []
 ---
 
 # Taboo

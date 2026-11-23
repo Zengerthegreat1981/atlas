@@ -32,7 +32,7 @@ Early anthropology treated possession as a survival of primitive religion or as 
 
 I. M. Lewis's *Ecstatic Religion* (1971) was a landmark. Lewis distinguished between central possession cults, in which the possessed are priests and leaders of a dominant religion, and peripheral possession cults, in which the possessed are typically marginal people — often women, the poor, or members of subordinate groups — and the spirits are outsiders to the official religion. In the zar cult of Ethiopia and Sudan, for example, women possessed by zar spirits formed their own ceremonies, demanded goods and attention, and gained a measure of relief and status. Lewis argued that peripheral possession was a form of oblique protest: a way for the powerless to make claims on the powerful without open rebellion.
 
-Later work complicated this picture. Erika Bourguignon's *Possession* (1976) surveyed possession beliefs across hundreds of societies, while Janice Boddy's *Wombs and Alien Spirits* (1989), based on fieldwork in northern Sudan, showed that zar possession was not simply a strategy or a symptom but a deeply embodied experience, tied to fertility, womanhood, and the history of slavery and displacement in the region.
+Later work complicated this picture. Erika Bourguignon's *Possession* (1976), drawing on her cross-cultural survey of altered states of consciousness, showed how widespread possession beliefs and trance are across societies, while Janice Boddy's *Wombs and Alien Spirits* (1989), based on fieldwork in northern Sudan, showed that zar possession was not simply a strategy or a symptom but a deeply embodied experience, tied to fertility, womanhood, and the history of slavery and displacement in the region.
 
 ## Key Debates and Dimensions
 
@@ -40,7 +40,7 @@ One central debate concerns the relationship between possession and mental healt
 
 A second debate concerns gender. In many societies women are far more likely than men to be possessed, and this has been explained in different ways: as a consequence of women's marginalisation, as an expression of women's religious power, or as a product of the particular stresses of marriage, childbearing, and domestic life. Boddy's work in Sudan showed that zar spirits were closely tied to women's reproductive lives and to memories of slavery, so that possession carried the weight of personal and collective history at once.
 
-A third dimension is the politics of possession. Colonial officials and missionaries often tried to suppress possession cults as superstition or disorder, while nationalist and religious reform movements have sometimes done the same. Yet possession cults have also been sites of resistance and of cultural survival: in Haiti, Vodou possession ceremonies preserved African religious traditions under slavery and colonial rule, and in Brazil, Candomble possession rituals sustain Afro-Brazilian identity to this day.
+A third dimension is the politics of possession. Colonial officials and missionaries often tried to suppress possession cults as superstition or disorder, while nationalist and religious reform movements have sometimes done the same. Yet possession cults have also been sites of resistance and of cultural survival: in Haiti, Vodou possession ceremonies preserved African religious traditions under slavery and colonial rule, and in Brazil, Candomblé possession rituals sustain Afro-Brazilian identity to this day.
 
 ## Contemporary Relevance and Critique
 

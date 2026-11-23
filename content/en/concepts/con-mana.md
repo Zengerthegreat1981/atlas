@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Supernatural force or prestige"
+  []
 ---
 
 # Mana
@@ -26,7 +26,7 @@ The term was introduced to anthropology by R. H. Codrington, an Anglican mission
 
 ## Origins and Development
 
-Codrington's account was taken up by the French sociological school. Émile Durkheim, in The Elementary Forms of Religious Life, published in 1912, treated mana — under the spelling he preferred — as the prototype of the sacred: the impersonal force that, in his theory, was really society itself, experienced by individuals as an external power. Marcel Mauss developed the idea further, arguing that mana was a category of the mind, a notion that fused the ideas of power, action, quality, and state. In Britain, R. R. Marett, in The Threshold of Religion, published in 1909, proposed that belief in mana — which he called animatism, to distinguish it from belief in spirits, or animism — preceded belief in gods and spirits in the evolution of religion. Mana thus became a cornerstone of early theories of religion, used to explain the origins of the sacred, the nature of magic, and the foundations of social authority. By the mid-twentieth century, however, the concept had fallen into disrepute as a vague catch-all, applied so widely that it seemed to explain everything and nothing.
+Codrington's account was taken up by the French sociological school. Émile Durkheim, in The Elementary Forms of Religious Life, published in 1912, treated mana as the prototype of the sacred: the impersonal force that, in his theory, was really society itself, experienced by individuals as an external power. Marcel Mauss developed the idea further, arguing that mana was a category of the mind, a notion that fused the ideas of power, action, quality, and state. In Britain, R. R. Marett, in The Threshold of Religion, published in 1909, proposed that belief in mana — which he called animatism, to distinguish it from belief in spirits, or animism — preceded belief in gods and spirits in the evolution of religion. Mana thus became a cornerstone of early theories of religion, used to explain the origins of the sacred, the nature of magic, and the foundations of social authority. By the mid-twentieth century, however, the concept had fallen into disrepute as a vague catch-all, applied so widely that it seemed to explain everything and nothing.
 
 ## Key Debates
 

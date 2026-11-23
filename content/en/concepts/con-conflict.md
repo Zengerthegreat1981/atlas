@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Disagreement with potential for violence"
+gaps: []
 ---
 
 # Conflict
@@ -26,11 +25,11 @@ Conflict is often distinguished from competition, in which rivals seek the same 
 
 ## Origins and Development
 
-Early anthropology often imagined small-scale societies as harmonious, and conflict as the intrusion of modernity. The work of Georg Simmel, whose essay on conflict was published in 1908, challenged this picture by arguing that conflict is a form of sociation — a way people relate to each other — and that it can strengthen group solidarity by clarifying boundaries. Lewis Coser developed this insight in 1956, distinguishing conflicts that concern the goals of a relationship, which can be negotiated, from conflicts that attack the relationship itself. In African ethnography, Gluckman's studies of the Zulu and the Lozi showed that rebellion and ritualised opposition could reinforce rather than destroy political authority, as when subjects ritually challenged a king whose legitimacy the ritual itself affirmed. Victor Turner's study of Ndembu village life, published in 1957, traced how recurrent disputes over succession and residence generated social dramas that revealed the underlying tensions of the community. By mid-century, anthropologists had firmly established that conflict is integral to social process, not an aberration from it.
+Early anthropology often imagined small-scale societies as harmonious, and conflict as the intrusion of modernity. The work of Georg Simmel, whose essay on conflict was published in 1908, challenged this picture by arguing that conflict is a form of sociation — a way people relate to each other — and that it can strengthen group solidarity by clarifying boundaries. Lewis Coser developed this insight in 1956, distinguishing realistic conflicts, which pursue specific goals and can be negotiated, from non-realistic conflicts, which serve mainly to release hostility, and arguing that conflict within a shared framework of values tends to renew rather than destroy a group. In African ethnography, Gluckman's essays on southern African ceremonies, collected in *Rituals of Rebellion in South-East Africa* (1954), argued that ritualised opposition among the Zulu and Swazi could reinforce rather than destroy political authority, since the ritual affirmed the legitimacy of the kingship it appeared to challenge. Victor Turner's study of Ndembu village life, published in 1957, traced how recurrent disputes over succession and residence generated social dramas that revealed the underlying tensions of the community. By mid-century, anthropologists had firmly established that conflict is integral to social process, not an aberration from it.
 
 ## Key Debates
 
-One central debate concerns the function of conflict. Functionalist approaches, following Coser and Gluckman, stress how conflict releases tension, clarifies norms, and renews institutions. Marxist approaches, by contrast, treat conflict as the engine of history: class conflict, for Ralf Dahrendorf in 1959, arises from the unequal distribution of authority in every society, not only in capitalist ones, and drives structural change. A second debate concerns violence. Is violence an escalation of conflict, or a qualitatively different phenomenon with its own logics of honour, revenge, and terror? Ethnographers of warfare, feuding, and state violence have shown that violence is often highly organised and rule-bound rather than a loss of control. A third debate concerns resolution. Some societies institutionalise mediation through chiefs, councils, or ritual specialists; others rely on avoidance, fission, or the exchange of compensation. The diversity of these mechanisms shows that there is no universal script for ending conflict — only locally meaningful ways of living with it.
+One central debate concerns the function of conflict. Functionalist approaches, following Coser and Gluckman, stress how conflict releases tension, clarifies norms, and renews institutions. Conflict-theoretical approaches, by contrast, treat conflict as an engine of change: class conflict, for Ralf Dahrendorf (writing in 1959 and critical of Marx), arises from the unequal distribution of authority in every society, not only in capitalist ones, and drives structural change. A second debate concerns violence. Is violence an escalation of conflict, or a qualitatively different phenomenon with its own logics of honour, revenge, and terror? Ethnographers of warfare, feuding, and state violence have shown that violence is often highly organised and rule-bound rather than a loss of control. A third debate concerns resolution. Some societies institutionalise mediation through chiefs, councils, or ritual specialists; others rely on avoidance, fission, or the exchange of compensation. The diversity of these mechanisms shows that there is no universal script for ending conflict — only locally meaningful ways of living with it.
 
 ## Contemporary Relevance
 
@@ -39,7 +38,7 @@ Conflict remains central to anthropology because it remains central to the world
 ## Sources
 
 - Georg Simmel, *Conflict* (1908)
-- Max Gluckman, *Custom and Conflict in Africa* (1955)
+- Max Gluckman, *Custom and Conflict in Africa* (1955); *Rituals of Rebellion in South-East Africa* (1954)
 - Lewis A. Coser, *The Functions of Social Conflict* (1956)
 - Victor Turner, *Schism and Continuity in an African Society* (1957)
 - Ralf Dahrendorf, *Class and Class Conflict in Industrial Society* (1959)

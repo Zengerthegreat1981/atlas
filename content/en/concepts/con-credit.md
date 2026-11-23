@@ -22,7 +22,7 @@ Credit systems are the social arrangements through which people lend, borrow, an
 
 ## Origins and Development
 
-Classical economics imagined that money came first and credit followed, with barter giving way to coin and coin to lending. Anthropology reversed this story. Marcel Mauss argued in *The Gift*, published in 1925, that in many societies exchange was organised not by buying and selling but by giving, receiving, and reciprocating, and that the obligation to repay a gift was the earliest form of credit. A gift created a debt that had to be honoured, and honour depended on repaying it. Credit, in this view, is older than money and more fundamental than markets.
+Classical economics imagined that money came first and credit followed, with barter giving way to coin and coin to lending. Anthropology reversed this story. Marcel Mauss argued in *The Gift*, published in 1925, that in many societies exchange was organised not by buying and selling but by giving, receiving, and reciprocating, and that gifts created obligations to reciprocate that resemble credit: a gift created a debt that had to be honoured, and honour depended on repaying it. Later writers, notably David Graeber, drew on this line of argument to claim that credit is older than coined money and more fundamental than markets.
 
 Karl Polanyi developed the argument in *The Great Transformation*, published in 1944. He showed that markets in land, labour, and money were historically recent creations, and that for most of human history economic life was embedded in social relations — in kinship, religion, and political obligation. Credit in such societies was personal: it depended on knowing the borrower, on reputation, and on the sanctions of the community. The rise of impersonal banking and state-backed money did not abolish these personal forms of credit; it layered new ones on top of them.
 
@@ -34,7 +34,7 @@ One central debate concerns the morality of debt. David Graeber argued in *Debt:
 
 A second debate concerns trust and enforcement. In formal banking, credit is secured by collateral, contracts, and courts. In informal systems, it is secured by reputation, social pressure, and the threat of exclusion. Anthropologists have shown that informal enforcement can be highly effective: a borrower who defaults may lose standing, marriage prospects, or access to future help. But it can also be harsh, with debt bondage and the seizure of children or labour as penalties. The comparison raises a question that runs through the whole anthropology of credit: whether impersonal institutions make credit fairer, or merely move its coercion out of sight.
 
-A third debate concerns the boundary between credit and gift, and between debt and obligation. When a relative lends money without interest or a deadline, is it credit or help? When a patron advances seed to a farmer, is it a loan or a claim on loyalty? Anthropologists argue that these ambiguities are not confusions to be cleared up but the point itself: credit works precisely because it can be framed in different ways, as generosity, as business, or as duty, depending on who is speaking and what is at stake.
+A third debate concerns the boundary between credit and gift, and between debt and obligation. When a relative lends money without interest or a deadline, is it credit or help? When a patron advances seed to a farmer, is it a loan or a claim on loyalty? Anthropologists argue that these ambiguities are not confusions to be cleared up but the point itself: credit works precisely because it can be framed in different ways, as generosity, as business, or as duty, according to who is speaking and what is at stake.
 
 ## Contemporary Relevance
 
@@ -42,8 +42,8 @@ Credit systems are at the centre of contemporary economic life. Microcredit prog
 
 ## Sources
 
-- Marcel Mauss, *The Gift: The Form and Reason for Exchange in Archaic Societies*, 1925.
+- Marcel Mauss, "Essai sur le don," *L'Année sociologique*, 1923-24 (published as a book in 1925); English translation, *The Gift: The Form and Reason for Exchange in Archaic Societies*.
 - Karl Polanyi, *The Great Transformation: The Political and Economic Origins of Our Time*, 1944.
 - Chris Gregory, *Gifts and Commodities*, 1982.
 - David Graeber, *Debt: The First 5,000 Years*, 2011.
-- Bill Maurer, *Mutual Life, Limited: Islamic Banking, Alternative Currencies, Islamic Finance*, 2005.
+- Bill Maurer, *Mutual Life, Limited: Islamic Banking, Alternative Currencies, Lateral Reason*, Princeton University Press, 2005.

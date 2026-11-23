@@ -40,8 +40,8 @@ Critics caution against romanticising resistance. Not all opposition to power is
 ## Sources
 
 - Antonio Gramsci — *Prison Notebooks*, 1929–1935.
-- Frantz Fanon — *The Wretched of the Earth*, Grove Press, 1961.
+- Frantz Fanon — *Les Damnés de la terre*, François Maspero, 1961 (English translation: *The Wretched of the Earth*, 1963).
 - Gene Sharp — *The Politics of Nonviolent Action*, Porter Sargent, 1973.
 - James C. Scott — *Weapons of the Weak: Everyday Forms of Peasant Resistance*, Yale University Press, 1985.
 - James C. Scott — *Domination and the Arts of Resistance*, Yale University Press, 1990.
-- Jocelyn A. Hollander and Rachel L. Einwohner — "Conceptualizing Resistance," *Annual Review of Sociology*, 2004.
+- Jocelyn A. Hollander and Rachel L. Einwohner — "Conceptualizing Resistance," *Sociological Forum* 19(4), 2004.

@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Group reputation and personal dignity"
+  []
 ---
 
 # Honor

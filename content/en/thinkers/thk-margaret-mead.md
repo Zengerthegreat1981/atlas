@@ -22,9 +22,9 @@ Margaret Mead (1901–1978) was the most famous anthropologist of the twentieth 
 
 ## Life and Career
 
-Mead was born on 16 December 1901 in Philadelphia, Pennsylvania, and grew up in a household of academics and reformers. She studied psychology at Barnard College, then moved to Columbia University, where she became a student of Franz Boas and Ruth Benedict. Boas sent her to Samoa in 1925, when she was twenty-three, to study adolescent girls — a test of whether the turmoil of adolescence was a biological universal or a product of culture.
+Mead was born on 16 December 1901 in Philadelphia, Pennsylvania, and grew up in a household of academics and reformers. She studied at Barnard College, then moved to Columbia University, where she became a student of Franz Boas and Ruth Benedict and took her doctorate in 1929. Boas sent her to Samoa in 1925, when she was twenty-three, to study adolescent girls — a test of whether the turmoil of adolescence was a biological universal or a product of culture.
 
-She conducted fieldwork in Samoa (1925–1926), in New Guinea among the Manus (1928–1929), and in the 1930s among the Arapesh, Mundugumor, and Tchambuli of New Guinea with her third husband, Gregory Bateson. She spent most of her professional life at the American Museum of Natural History in New York, where she was curator of ethnology from 1946 and a tireless builder of its Pacific collections, and she taught at Columbia. She died in New York on 15 November 1978, at the age of seventy-six.
+She conducted fieldwork in Samoa (1925–1926), in New Guinea among the Manus (1928–1929), and in the early 1930s among the Arapesh, Mundugumor, and Tchambuli of New Guinea, first with her second husband, Reo Fortune, and then with her third husband, Gregory Bateson, whom she met in the field. She spent most of her professional life at the American Museum of Natural History in New York, where she began as an assistant curator in 1926 and later became curator of ethnology, and she also taught at Columbia and Fordham. She died in New York on 15 November 1978, at the age of seventy-six.
 
 ## Key Works
 
@@ -40,7 +40,7 @@ This argument had a double edge. Scientifically, it pushed anthropology toward t
 
 ## Influence and Critique
 
-Mead's influence was enormous and double-sided. She brought anthropology to a mass audience, shaped American debates about child-rearing, sexuality, and gender, and served as an adviser to governments and international bodies on questions ranging from nutrition to the generation gap. Her insistence that gender roles are culturally variable anticipated feminist anthropology by decades, and her work on childhood socialisation remains a reference point.
+Mead served as president of the American Anthropological Association (1960) and of the American Association for the Advancement of Science (1975). Her influence was enormous and double-sided. She brought anthropology to a mass audience, shaped American debates about child-rearing, sexuality, and gender, and served as an adviser to governments and international bodies on questions ranging from nutrition to the generation gap. Her insistence that gender roles are culturally variable anticipated feminist anthropology by decades, and her work on childhood socialisation remains a reference point.
 
 The most serious challenge came after her death. In *Margaret Mead and Samoa: The Making and Unmaking of an Anthropological Myth* (1983), the New Zealand anthropologist Derek Freeman argued that her Samoan findings were wrong — that Samoan adolescence was not free of conflict, that Samoan sexuality was restrained rather than free, and that Mead had been misled by her young informants, who had joked with her. The controversy divided the discipline for years. Most anthropologists now take a middle position: Freeman overstated his case and misrepresented some of Mead's claims, but Mead's Samoan fieldwork was brief, her Samoan was limited, and her conclusions were stated more confidently than her evidence warranted.
 

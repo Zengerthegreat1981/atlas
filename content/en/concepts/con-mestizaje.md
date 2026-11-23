@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Mestizaje and genetics"
-  - "Mestizaje in the United States"
-  - "Mestizaje and indigenous resurgence"
+  []
 ---
 
 # Mestizaje: Mixing, Race, and National Identity
@@ -30,13 +28,13 @@ The most influential formulation came from Mexico. After the revolution of 1910�
 
 ## Key Theoretical Contributions
 
-**José Vasconcelos** (1882–1959) gave mestizaje its classic utopian expression in *La raza cósmica* (1925). Writing as Mexico's minister of education, he predicted that Latin America would produce a new, "cosmic race" synthesizing all the peoples of the world — a universal race superior to the racially pure nations of Europe and North America. Vasconcelos's vision was influential and deeply ambiguous: it celebrated mixture as a creative force, but it also imagined that mixture would ultimately whiten the population and dissolve indigenous distinctiveness.
+**José Vasconcelos** (1882–1959) gave mestizaje its classic utopian expression in *La raza cósmica* (1925). Writing soon after serving as Mexico's secretary of public education, he predicted that Latin America would produce a new, "cosmic race" synthesizing all the peoples of the world — a universal race superior to the racially pure nations of Europe and North America. Vasconcelos's vision was influential and deeply ambiguous: it celebrated mixture as a creative force, but it also imagined that mixture would ultimately whiten the population and dissolve indigenous distinctiveness.
 
 **Gloria Anzaldúa** (1942–2004) reclaimed mixture from below in *Borderlands/La Frontera: The New Mestiza* (1987). Writing from the US–Mexico border, she described the mestiza as a person who lives between worlds — between languages, nations, genders, and cultures — and who develops a *mestiza consciousness*, a tolerance for ambiguity and contradiction. For Anzaldúa, mestizaje is not a state project of national unity but a feminist and queer resource for survival and resistance.
 
 **Peter Wade** (born 1957) analyzed mestizaje as an ideology of race in *Race and Ethnicity in Latin America* (1997). He showed that Latin American racial thought is structured by a tension between mixture and hierarchy: mixture is celebrated, yet whiteness continues to confer privilege, and Black and indigenous people continue to face discrimination. Wade's work demonstrated that mestizaje does not dissolve race; it organizes race in a distinctive way, making discrimination harder to name because it is denied by the official story of mixture.
 
-**Marilyn Grace Miller** (born 1959) traced the idea's history across the Americas in *Rise and Fall of the Cosmic Race* (2004), showing how Vasconcelos's concept was taken up, contested, and eventually challenged by Chicano, indigenous, and Afro-Latin American movements. Her account shows that mestizaje has always been a contested term — claimed by states, intellectuals, and social movements for very different ends.
+**Marilyn Grace Miller** traced the idea's history across the Americas in *Rise and Fall of the Cosmic Race* (2004), showing how Vasconcelos's concept was taken up, contested, and eventually challenged by Chicano, indigenous, and Afro-Latin American movements. Her account shows that mestizaje has always been a contested term — claimed by states, intellectuals, and social movements for very different ends.
 
 ## Ethnographic Examples
 
@@ -46,7 +44,7 @@ Mestizaje also shapes politics. Indigenous movements in Bolivia, Ecuador, and Me
 
 ## Contemporary Debates
 
-Current scholarship debates whether mestizaje is an emancipatory idea or an ideology of erasure. Critics argue that celebrating mixture has allowed Latin American states to deny racism, since a mixed nation supposedly cannot be racist. Defenders reply that mixture is a real and valued part of people's identities, and that the problem is not mestizaje itself but the whitening hierarchy embedded in it. Genetic ancestry testing has added a new layer, as people discover mixed ancestries that complicate their identities. For anthropology, mestizaje remains a key case of how race is made — not a biological given but a historical process of mixing, classification, and national imagination.
+Current scholarship debates whether mestizaje is an emancipatory idea or an ideology of erasure. Critics argue that celebrating mixture has allowed Latin American states to deny racism, since a mixed nation supposedly cannot be racist. Defenders reply that mixture is a real and valued part of people's identities, and that the problem is not mestizaje itself but the whitening hierarchy embedded in it. Genetic ancestry testing has added a new layer, as people discover mixed ancestries that complicate their identities; such percentages describe statistical patterns in populations, and do not map neatly onto the social categories through which people are classified. Indigenous resurgence, from the 1990s onward, has made the critique of the mestizo nation a central political theme. For anthropology, mestizaje remains a key case of how race is made — not a biological given but a historical process of mixing, classification, and national imagination.
 
 ## Sources
 

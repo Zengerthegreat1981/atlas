@@ -12,13 +12,11 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - Gendered experiences of diasporic life
-  - Diaspora and digital transnationalism
+gaps: []
 ---
 # Diaspora: Dispersal, Memory, and Return
 
-A **diaspora** is a community dispersed from an original homeland across two or more foreign territories, which nevertheless maintains a shared identity, a collective memory of the homeland, and an ongoing relationship with it. The term comes from the Greek *diaspora*, meaning a scattering or sowing of seeds, and it was first applied to the Jewish dispersion after the destruction of the Temple in Jerusalem. In contemporary anthropology and sociology it has been extended to many peoples — Armenians, Africans, Palestinians, Indians, Chinese, Irish, and others — and it has become one of the central concepts for understanding migration, identity, and belonging in a globalised world.
+A **diaspora** is a community dispersed from an original homeland across two or more foreign territories, which nevertheless maintains a shared identity, a collective memory of the homeland, and an ongoing relationship with it. The term comes from the Greek *diaspora*, meaning a scattering or sowing of seeds, and it was first applied to the dispersion of Jews outside Palestine, in the Greek Septuagint and later in connection with the exile and the destruction of the Temple in Jerusalem. In contemporary anthropology and sociology it has been extended to many peoples — Armenians, Africans, Palestinians, Indians, Chinese, Irish, and others — and it has become one of the central concepts for understanding migration, identity, and belonging in a globalised world.
 
 ## Definition and Development
 
@@ -30,7 +28,7 @@ Robin Cohen, in *Global Diasporas* (1997), broadened the typology, distinguishin
 
 Avtar Brah, in *Cartographies of Diaspora* (1996), argued that diaspora is not only a condition of dispersal but a way of thinking about identity. She distinguished the "diaspora space" — the site where diasporic and non-diasporic people meet and negotiate belonging — from any simple idea of a community defined by origin. For Brah, diaspora challenges the idea that identity comes from roots in one place; it is made in routes, in movement and encounter, and it is always shaped by gender, class, and generation.
 
-James Clifford, in his essay "Diasporas" (1994), emphasised that diasporic consciousness is defined by a tension: a community is at once oriented toward a homeland and rooted in a place of residence. Diasporas, he argued, resist the nationalist demand for exclusive loyalty to one state, maintaining "practices of accommodation with, as well as resistance to, host countries and their norms." This makes diaspora a critical concept for political theory: it exposes the limits of the nation-state as the container of identity.
+James Clifford, in his essay "Diasporas" (1994), emphasised that diasporic consciousness is defined by a tension: a community is at once oriented toward a homeland and rooted in a place of residence. Diasporas, he argued, resist the nationalist demand for exclusive loyalty to one state, maintaining practices of both accommodation with, and resistance to, host countries and their norms. This makes diaspora a critical concept for political theory: it exposes the limits of the nation-state as the container of identity.
 
 ## Examples
 

@@ -11,9 +11,7 @@ dates: "USA/International · 1960s-present"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
-gaps:
-  - "Megacity studies"
-  - "Digital urban spaces"
+gaps: []
 ---
 
 # Urban Anthropology
@@ -28,7 +26,7 @@ The subfield took institutional shape in the 1960s and 1970s. Oscar Lewis's stud
 
 ## Key Figures
 
-Robert Park (1864–1944) and Louis Wirth (1897–1952) supplied the sociological foundations, even though neither was an anthropologist. Oscar Lewis (1914–1970) brought ethnographic depth to the study of urban poverty and provoked the field's fiercest debate. Ulf Hannerz (born 1942), a Swedish anthropologist, became the field's synthesizer and its leading theorist of networks, cultural complexity, and globalization. In Britain, the Manchester school — above all J. Clyde Mitchell (1918–1995) and A. L. Epstein (1924–2007) — pioneered the study of African towns and of social networks as a method. Setha Low (born 1948) reshaped the field in the 1990s by bringing space itself into focus, studying plazas, gated communities, and the politics of public space. James Holston (born 1950) showed, in his work on Brasilia, how the built form of a city embodies political utopias and produces new forms of citizenship.
+Robert Park (1864–1944) and Louis Wirth (1897–1952) supplied the sociological foundations, even though neither was an anthropologist. Oscar Lewis (1914–1970) brought ethnographic depth to the study of urban poverty and provoked the field's fiercest debate. Ulf Hannerz (born 1942), a Swedish anthropologist, became the field's synthesizer and its leading theorist of networks, cultural complexity, and globalization. In Britain, the Manchester school — above all J. Clyde Mitchell (1918–1995) and A. L. Epstein (1924–1999) — pioneered the study of African towns and of social networks as a method. Setha Low (born 1948) reshaped the field in the 1990s by bringing space itself into focus, studying plazas, gated communities, and the politics of public space. James Holston showed, in his work on Brasilia, how the built form of a city embodies political utopias and produces new forms of citizenship.
 
 ## Key Works
 
@@ -40,7 +38,9 @@ Urban anthropologists use the classic tools of ethnography — participant obser
 
 ## Influence and Debates
 
-Urban anthropology's influence is now hard to overstate, because the city has become the default human habitat: more than half the world's population lives in urban areas, and the field's questions have become anthropology's questions. Its methods — network analysis, multi-sited ethnography, the ethnography of space — have spread across the discipline. Its findings have shaped debates about poverty, migration, informality, and the politics of public space. The "culture of poverty" debate, meanwhile, left a permanent caution: Lewis's idea was taken up by policymakers to blame the poor for their poverty, a use Lewis himself deplored, and the field has been careful ever since about how its concepts travel into politics. The frontiers today are the megacity and the digital city: life in settlements of twenty million people, and how phones, platforms, and surveillance reshape urban sociality. Those are the gaps this entry's stub itself names — megacity studies and digital urban spaces — and they are where the next generation of urban ethnography is being written.
+Urban anthropology's influence is now hard to overstate, because the city has become the default human habitat: more than half the world's population lives in urban areas, and the field's questions have become anthropology's questions. Its methods — network analysis, multi-sited ethnography, the ethnography of space — have spread across the discipline. Its findings have shaped debates about poverty, migration, informality, and the politics of public space. The "culture of poverty" debate, meanwhile, left a permanent caution: Lewis's idea was taken up by policymakers to blame the poor for their poverty, a use critics argued ran counter to Lewis's own emphasis on structural causes, and the field has been careful ever since about how its concepts travel into politics. The frontiers today are the megacity and the digital city: life in settlements of twenty million people, and how phones, platforms, and surveillance reshape urban sociality.
+
+On the first, AbdouMaliq Simone's *City Life from Jakarta to Dakar* (2010) examines how residents of fast-growing cities in the Global South improvise livelihoods and collective life amid infrastructural precarity. On the second, Sarah Pink and colleagues' *Digital Ethnography: Principles and Practice* (2016) and the wider digital anthropology literature ask how phones and platforms are woven into urban routines, so that digital and physical urban space are studied together rather than apart.
 
 ## Sources
 

@@ -12,9 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Critiques of structuralism's ahistoricity"
-  - "Poststructuralist responses"
+gaps: []
 ---
 
 # Structural Anthropology
@@ -63,7 +61,7 @@ The critiques are as important as the achievements. The charge of ahistoricity i
 ## Sources
 
 - Lévi-Strauss, Claude. The Elementary Structures of Kinship. Paris: Presses Universitaires de France, 1949. English translation, Boston: Beacon Press, 1969.
-- Lévi-Strauss, Claude. Tristes Tropiques. Paris: Plon, 1955. English translation, New York: Atheneum, 1961.
+- Lévi-Strauss, Claude. Tristes Tropiques. Paris: Plon, 1955. English translation, New York: Atheneum, 1974 (an earlier translation appeared as A World on the Wane, 1961).
 - Lévi-Strauss, Claude. Structural Anthropology. Paris: Plon, 1958. English translation, New York: Basic Books, 1963.
 - Lévi-Strauss, Claude. Totemism. Paris: Presses Universitaires de France, 1962. English translation, Boston: Beacon Press, 1963.
 - Lévi-Strauss, Claude. The Savage Mind. Paris: Plon, 1962. English translation, Chicago: University of Chicago Press, 1966.

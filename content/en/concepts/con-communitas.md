@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Spontaneous community feeling"
+gaps: []
 ---
 
 # Communitas: The Shared Feeling of Being Together as Equals
@@ -30,13 +29,13 @@ Turner distinguished three kinds of communitas. Spontaneous communitas is the un
 
 Turner's contrast between structure and anti-structure became one of anthropology's most influential frameworks. Structure is the differentiated, hierarchical order of society: statuses, roles, offices, and the norms that govern them. Anti-structure is the dissolution of that order in liminality and communitas, where the normal rules are suspended and new possibilities appear. Ritual, for Turner, is the social mechanism that moves people between the two: it takes them out of structure, lets them experience communitas, and returns them to structure renewed — or sometimes, changed, carrying the insights of the liminal phase back into ordinary life. This made ritual not a conservative repetition of the past but a source of creativity and social transformation.
 
-Émile Durkheim had described something similar half a century earlier: in *The Elementary Forms of Religious Life* (1912), he wrote of "collective effervescence," the electric excitement of a crowd gathered in ritual, in which individuals feel themselves lifted out of themselves and into the group. Turner acknowledged the debt but added what Durkheim had left vague: the quality of the bond, its egalitarianism, its spontaneity, and its relationship to the passage through liminality. Later scholars, such as Terence Turner, Edith Turner, and Bjørn Thomassen, extended the analysis to pilgrimage, protest, and performance, showing communitas at work far beyond the initiation rites where Victor Turner first found it.
+Émile Durkheim had described something similar half a century earlier: in *The Elementary Forms of Religious Life* (1912), he wrote of "collective effervescence," the electric excitement of a crowd gathered in ritual, in which individuals feel themselves lifted out of themselves and into the group. Turner acknowledged the debt but added what Durkheim had left vague: the quality of the bond, its egalitarianism, its spontaneity, and its relationship to the passage through liminality. Later scholars, such as Edith Turner (in *Communitas: The Anthropology of Collective Joy*, 2012) and Bjørn Thomassen, extended the analysis to pilgrimage, protest, and performance, showing communitas at work far beyond the initiation rites where Victor Turner first found it.
 
 ## Ethnographic Examples
 
-The classic ethnographic setting of communitas is pilgrimage. Victor and Edith Turner, in *Image and Pilgrimage in Christian Culture* (1978), described pilgrims to shrines such as Lourdes and Guadalupe: people of every class and nation, stripped of their ordinary markers, walking together, sharing food and shelter, and experiencing a fellowship that the hierarchies of their home parishes denied them. The pilgrim's road is liminal space — neither home nor destination — and on it, communitas flourishes. Similar bonds appear in the Hajj, where millions of pilgrims wear identical white garments that erase distinctions of wealth and nationality, and in the great Hindu pilgrimages of India.
+The classic ethnographic setting of communitas is pilgrimage. Victor and Edith Turner, in *Image and Pilgrimage in Christian Culture* (1978), described pilgrims to shrines such as Lourdes and Guadalupe: people of every class and nation, stripped of their ordinary markers, walking together, sharing food and shelter, and experiencing a fellowship that the hierarchies of their home parishes denied them. The pilgrim's road is liminal space — neither home nor destination — and on it, communitas flourishes. Similar bonds have been described in the Hajj, where pilgrims wear simple white garments (ihram) that visually minimise distinctions of wealth and nationality, and in the great Hindu pilgrimages of India.
 
-In the Hajj, millions of pilgrims wear identical white garments that erase distinctions of wealth and nationality, and in the great Hindu pilgrimages of India the same fellowship is reported. Disaster studies describe the same phenomenon: in the aftermath of earthquakes and floods, survivors often report an extraordinary spirit of mutual help and equality that lasts until the authorities and the old hierarchies return.
+Disaster studies describe the same phenomenon: in the aftermath of earthquakes and floods, survivors often report an extraordinary spirit of mutual help and equality that lasts until the authorities and the old hierarchies return.
 
 ## Contemporary Debates
 

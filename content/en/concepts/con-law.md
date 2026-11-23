@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Formal rules enforced by authority"
+  []
 ---
 
 # Law

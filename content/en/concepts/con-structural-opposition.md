@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Binary categories organizing culture"
+  []
 ---
 
 # Structural Opposition

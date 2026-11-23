@@ -2326,4 +2326,412 @@ wrk-fear-of-freedom-1941: UK edition 1942; chapter structure corrected; Fromm-Ka
 wrk-matter-and-memory-bergson: 'second thesis' corrected (second major book); H.M. skill-learning attribution fixed (Milner/Corkin, not Scoville-Milner 1957); James/Husserl wording softened; gaps cleared
 wrk-phenomenology-perception-merleau-ponty: removed unsupported influence claims (Boss, Ramachandran/Sacks); Landes is new translation; Butler 1989 citation; Goodman edition dates; meta gaps cleared
 wrk-symbolic-forms-cassirer: removed undocumented Vygotsky link; Stern/Werner wording; Skidelsky description softened; meta gaps cleared
-thk-habermas: removed an unverifiable death claim (March 2026) and set dates to born 1929; confirm current status before adding
+con-asymmetric-alliance: source said Needham translated Levi-Strauss's book into English; he edited the 1969 English translation (translated by Bell and von Sturmer). Rendered as 'edited the English translation'.
+thk-david-schneider: "later works" bullet heading in source read "the cultural and social role of religion" though its parenthetical describes kinship and human nature; rendered heading as "Later works" (garbled heading omitted, content kept)
+thk-david-schneider: source sources list had a malformed Culture citation (nested asterisks); markup fixed, title and year kept as written
+thk-julian-steward: the body contained a repeated paragraph on the Puerto Rico project and Mintz/Wolf training; both versions kept as written (duplicate content in source, not removed)
+thk-alfred-gell: sentence "translated parts of his theory into Arabic" kept as in source; no factual change made
+con-gift-economy: Kula valuables were reversed in source (red bracelets/white necklaces); corrected to white armbands (mwali) and red necklaces (soulava)
+con-gift-economy: Sahlins reciprocity typology cited as "Age and Sentiment (1972)" in body; changed to Stone Age Economics (1972), matching the source's own sources list
+con-kinship-universals: source body dates the Passmore et al. kinship-terminology project to 2020 while its sources list gives 2021; body kept as written, flagged only
+wrk-ritual-process-turner: Quran citation (2:197) given in Arabic in source; rendered in English translation with the verse reference
+stu-malinowski-kula-ring-exchange: Kula valuables reversed in source (red armshells/white necklaces); corrected to white armshells (mwali) and red necklaces (soulava), consistent with con-gift-economy fix
+stu-malinowski-kula-ring-exchange: main_finding frontmatter kept the reversed colors in source; corrected as above
+thk-edward-sapir: source sentence naming Sapir's later students (Ruth Benedict and 'Edward Sapir the son') as continuing his culture-and-personality work is garbled; the sentence was omitted.
+thk-lewis-henry-morgan: source says Houses and House-Life of the American Aborigines (1881) 'preceded' Ancient Society (1877), which is chronologically reversed; rendered as 'another of his works' with no sequence claim.
+thk-graeber: Dawn of Everything was published about a year after Graeber's death (Sept 2020), not 'weeks after' as the Arabic says; corrected to 'about a year after his death'.
+sch-kinship-systems-comparative: Schneider's 1984 book title corrected to its actual English title 'A Critique of the Study of Kinship' (Arabic said 'نقد دراسة القرابة الأمريكية').
+stu-ochs-samoan-language-socialization: 'Western Samoa (Tonga)' corrected to 'Western Samoa'; Tonga is a different country (parenthetical removed).
+sch-cultural-ecology | source said Steward trained Harris, Wolf, Mintz at University of Illinois; they trained with him at Columbia (Steward at Columbia 1946-52, Illinois after). Rendered as Columbia and then Illinois.
+thk-eric-wolf | source said Wolf earned PhD at Columbia under Franz Boas (Boas died 1942, Wolf PhD c.1951); rendered supervisor as Julian Steward.
+con-kinship-theory | source dated Morgan's Systems of Consanguinity to 1870; the work was published by the Smithsonian in 1871; rendered as 1871 (both in body and in references).
+con-kula-exchange | source swapped colours: mwali (armshells) are white and soulava (necklaces) red; rendered with the correct colours.
+wrk-language-thought-reality-whorf | source's Arabic label for 'Standard Average European' was garbled ('الميتافيزيقا الفلاشية'); rendered using the English term given in the source, Arabic label dropped.
+wrk-precariat-standing | source's word 'الدين' in the debt passage read as debt (loans for study and housing), not religion; rendered as debt.
+br-anthropology-of-religion-subfield: Mahmood study corrected to women's mosque movement in Cairo (Politics of Piety 2005), added to Sources
+br-economic-anthropology-subfield: removed non-ROSCA term al-qard; kula is an exchange not ritual; debate dating widened; resolved gap
+br-kinship-studies-subfield: removed false claim of maternal uncle's daughter marriage preference in Arab systems; fixed Beacon translators; added Carsten source
+br-legal-anthropology-subfield: indirect rule attributed to British policy; 1980s softened; gap on classification folded into body
+br-political-anthropology-subfield: African Political Systems description fixed (no chiefdom category); Leach not a Gluckman student; dates field fixed
+br-urban-anthropology-subfield: removed Dubai as classic global city example
+con-adaptation: removed gaps already covered in body
+con-adoption: softened Yngvesson (not Swedish-only) and Weston adoption claims
+con-age-grade: removed unsupported Radcliffe-Brown Andaman/Africa attribution; softened election claim
+con-age-set: warrior period "fifteen years" softened; removed Nyakyusa as age-grade example (age-villages)
+con-alliance: gap deleted (covered)
+con-ancestor-worship: Tylor claim corrected (animism earliest; manes-worship a form), not ancestor worship earliest
+con-animism-tylor: removed meta gap note; Tylor stage labels fixed; Max Muller context moved into body; Descola ontology wording corrected
+con-animism: Descola work given as French 2005 / English 2013
+con-architecture: Durkheim-Mauss Primitive Classification (1903) and Mauss-Beuchat Inuit essay (1904-05) attributed correctly
+con-aristocracy: removed Indian caste hierarchies as aristocracy
+con-assimilation: gaps trimmed to one; Alba/Nee birth years removed; added Portes-Zhou segmented assimilation source
+con-asymmetric-alliance: Needham section rewritten (Structure and Sentiment was not a critique of Levi-Strauss; replaced with Prescription 1973); Dravidian systems marked symmetric; Kachin framing fixed; Leach 1951 added; gap reworded
+con-barter-trade: Polanyi 1957 Trade and Market in the Early Empires added for ports of trade
+con-belief-system: gaps removed (covered); Protestant Ethic (1904-05) attributed correctly rather than to Economy and Society
+con-biogenetic-versus-cultural-kinship: gap reworded
+con-blessing: Qur'an claim removed; Austin is a philosopher of language; added Austin source
+con-brideprice: Uganda 2015 ruling (Mifumi) described accurately
+con-brideservice: removed unsupported Goody land/labour claim; "every inhabited continent" softened
+con-chiefdom: Fried characterization corrected
+con-chieftaincy: African Political Systems did not include Ashanti or Great Lakes chapters; replaced with Ngwato, Bemba, Banyankole
+con-citizenship: removed unverified Isin birth year; softened Palestinian refugee claim; added statelessness note (Arendt, 1954 Convention); trimmed gaps
+con-cognatic: removed wrong claim that Tikopia were cognatic (they are patrilineal); replaced with Firth 1957 Polynesian descent groups; corrected ambilineal attribution; fixed Schneider gloss; fixed source
+con-colonialism: fixed publication details of Césaire/Memmi/Fanon sources (original vs English editions); trimmed gaps
+con-colonialism-psychology: minor wording fix on Bulhan (no factual errors found)
+con-commodification: softened 'began with Appadurai' overclaim; removed covered gap
+con-communicative-competence-hymes: replaced doubtful Kroskrity source with Hymes 1964 and Chomsky 1965; corrected Gumperz attribution
+con-communitas: removed Terence Turner misattribution, duplicated Hajj paragraph, gap
+con-conflict: corrected Coser distinction, Gluckman (Zulu/Swazi, Rituals of Rebellion), Dahrendorf not Marxist; removed gap
+con-consensus: softened Ostrom and Graeber claims; fixed Freeman dating and Clastres edition
+con-craft: corrected description of Costin's parameters
+con-credit: reattributed credit-before-money claim (Graeber not Mauss); fixed Maurer title; Mauss source
+con-creolization: gaps trimmed (no factual errors found)
+con-cultural-pluralism: fixed Taylor/Gutmann volume date (1994); softened Kallen metaphor
+con-cultural-preservation: removed doubtful 'language dies every two weeks' statistic
+con-cultural-relativism-boas: removed first-person 'stub' commentary and covered gaps; fixed empty related; softened Sumner 'coined'
+con-cultural-resistance: fixed de Certeau English edition date
+con-culture-nature: removed file-commentary sentence; Latour edition years
+con-curse: fixed Malinowski Magic Science Religion publication details, softened Douglas claim and voodoo reference
+con-custom: corrected Trobriand exchange example (yams to sister's husband), removed covered gap
+con-decolonial-data-sovereignty: clarified opening sentence; added definitions of CARE Responsibility and Ethics
+con-descent-theory: softened Radcliffe-Brown 1935 attribution; removed Ortner from Schneider critique; added Lévi-Strauss alliance sentence, Schneider/Lévi-Strauss sources; removed gap
+con-diaspora: Septuagint/exile origin of term; paraphrased Clifford quote; removed covered gaps
+con-disability-anthropology: Groce overclaim fixed; Current Anthropology 2020 title corrected; removed unverifiable Kasnitz venue; SDS date softened
+con-divination: removed Ndembu from Peek volume list
+con-divorce: Cherlin attribution (2004 deinstitutionalization) added; divorce statistic softened
+con-domestication: dog origins softened; Ingold venue added
+con-dowry: Stein journal corrected (Pacific Affairs); removed doubtful Thapan, added Srinivas; dowry law dates corrected (India 1984/1986, Pakistan 1976, Bangladesh 1980); softened medieval claim
+con-econ-anthropology-6: softened isolation-smoking health claim
+con-ecstasy: Bourguignon sample size 488
+con-endogamy: corrected Goody Eurasia/Europe argument
+con-equality: removed covered gap
+con-ethnicity: removed covered gap
+con-exchange: removed covered gap; Lévi-Strauss spelling
+con-exogamy: Nuer/Tallensi exogamy claims corrected; restricted/generalised exchange terminology; lineage exogamy definition; Rubin source details
+con-family: Collier/Rosaldo/Yanagisako date corrected to 1982 with reprint; spelling
+con-fishing: softened Pacific/trade claims
+con-genocide: R2P scope corrected; contemporary cases reworded neutrally
+con-gift: removed covered gap; Godelier translation date
+con-gift-economy: Boas/Kwakiutl, moka attribution corrected (A. Strathern), removed invented quotes, Graeber critique corrected, removed gap, sources added
+con-globalization: Robertson popularised not coined glocalization; removed covered gaps
+con-glocalization: Ritzer later work corrected (grobalization)
+con-gossip: removed unverifiable ethnographic anecdotes; removed gap
+con-healing: disease/illness/sickness attribution softened
+con-hegemony: gaps trimmed to uncovered item
+con-heritage: 2003 UNESCO convention title corrected; covered gaps removed
+con-hierarchy: covered gap removed; debate numbering fixed
+con-homeland: covered gaps removed
+con-honor: covered gap removed
+con-hunting: "man the hunter" dated to mid-20th century, not early
+con-hybridity: Modood misdescribed as anthropologist; fixed
+con-informal-economy: Chen/WIEGO working paper title corrected
+con-inheritance-property: Africa-Eurasia comparison attributed also to Goody 1976; source added
+con-inheritance: Africa-Eurasia comparison re-attributed to Goody 1976 (not the 1962 LoDagaa monograph); covered gap removed
+con-integration: gaps trimmed to uncovered item
+con-justice: covered gap removed
+con-kinship-political-economy: Mauss citation corrected (L'Annee sociologique, not PUF)
+con-kinship-theory: removed invented "Frances Bailes"; Barth source/claim corrected (Models of Social Organization); added Carsten; removed expansion-note gap; References->Sources
+con-kinship-universals: Passmore & Jordan citation corrected (2020, EHS 2:e42); Malinowski source changed to Sex and Repression (1927); editorial gap removed
+con-kinship: Morgan terminology work attributed to 1871 Systems; removed file-commentary sentence; gaps trimmed
+con-kula-exchange: gimwali corrected (barter, not secondary gifts); stray "partners" gloss removed; gap reworded
+con-law: covered gap removed
+con-leadership: Sahlins types corrected (Melanesian big-man vs Polynesian chief); Nuer "councils" replaced; Sahlins "seeds of chiefship" claim softened; Clastres translation date added
+con-levirate: Nuer levirate attributed to Kinship and Marriage among the Nuer (1951) as well; unsupported Radcliffe-Brown source replaced
+con-liberation: Freire's Pedagogy dated "written 1968; English 1970"
+con-liminality-communitas: removed "collective torture rituals" claim; corrected claim that Turner never studied pilgrimage (Image and Pilgrimage, 1978, Christian focus)
+con-liminality: deleted covered gap
+con-lineage: removed invented "firm and shareholders" analogy for Radcliffe-Brown
+con-localization: "glocalization" credited as popularised by Robertson, not coined
+con-magic-religion-frazer: third edition dates 1906-1915 and second edition 1900; gap reworded
+con-magic: Hubert and Mauss attribution/source corrected (1902-03 Esquisse; English 1972); removed invented "victim believes" triad
+con-mana: deleted covered gap; removed odd spelling remark
+con-marriage-rules: patrilateral cross-cousin preference qualified as rare
+con-matrilineal: matrilineal/patrilineal as the two unilineal principles; cognatic is not unilineal
+con-matrimonial: Leach Kachin claim tied to Political Systems of Highland Burma (1954), source added
+con-matter-out-of-place-douglas: "four jurists" replaced with accurate reference to legal schools' tahara chapters
+con-memory: Halbwachs English edition On Collective Memory is 1992 (Coser), source corrected
+con-mestizaje: gaps resolved with added genetics/indigenous resurgence sentences; removed unverified birth year for Miller; Vasconcelos role corrected
+con-metaphor: deleted covered gap
+con-metonym: removed Aristotle attribution (replaced by Quintilian), removed unverifiable Fernandez examples, ham-sandwich credited to Lakoff and Johnson 1980; deleted gap
+con-modernity: gaps reduced to digital modernity; Appadurai source added
+con-moka-hagen-exchange: removed unverifiable 3-5 year return, "big/tau" women's exchange claim, kula "decades" comparison, "three most cited" claim; added Strathern sources; gap reworded
+con-monarchy: removed irrigation-control generalisation
+con-monogamy: corrected Murdock 1949 finding wording and legal-monogamy overstatement
+con-monotheism: softened Boyer attribution
+con-music: Blacking's Venda research dated from 1950s with How Musical Is Man? (1973)
+con-myth: deleted covered gap
+con-nationalism: gaps deleted; tartans attributed to Invention of Tradition (1983)
+con-ontology: Viveiros de Castro 1998 essay retitled "Cosmological Deixis and Amerindian Perspectivism" (JRAI), not "Exchanging Perspectives"
+con-oracle: George K. Park (not Geoffrey), "Social Contexts" title; Rosalind Shaw (not Michael)
+con-oratory: Bloch 1975 reframed as edited volume; removed unsupported West African courtroom claim; Rosaldo source replaced with Ilongot oratory article (1982)
+con-patrilineal-descent: Barth Kurdistan work dated 1953, added Barth source; gap reworded
+con-peace: removed redundant gap; Aron Paix et guerre 1962 / English 1966
+con-performance: Schechner source is Essays on Performance Theory 1970-1976; social drama final phase corrected
+con-poetry: Parry/Lord attribution corrected (Lord continued Parry's work)
+con-polyandry: softened "first systematic study" and Levine claims; "largely disappeared" to "declined sharply"
+con-polygyny: softened White & Burton findings; corrected South African customary marriages act procedure
+con-polytheism: Assmann essay is 2004 in Religions of the Ancient World (not 1997 Cross festschrift)
+con-postmarital-residence: removed unsupported percentages and Divale sample size; corrected Trobriand example; fixed debate numbering
+con-potlatch: Codere vs Piddocke interpretations corrected; removed quoted "savage"; Mauss citation fixed; added Piddocke source
+con-pottery: corrected earliest pottery dates (Xianrendong/Yuchanyan, Jomon); softened Rice attribution
+con-practice-theory-anthropology: removed unsupported "cultural schemas" attribution to Ortner 1984; gap removed
+con-prayer: Mauss On Prayer publication corrected (written 1909, published later); Malinowski religion/magic account and Trobriand claims corrected
+con-prestige: removed redundant gap
+con-profane: removed wrong Ndembu residence claim, Benedict fieldwork claim, Asad death year; Turner Ritual Process dated 1969; gaps removed (covered)
+con-property: Trobriand land claim corrected; Hann attribution (edited volume); added Ostrom source; gap removed
+con-protest: removed covered gaps; opportunity-structure attribution softened; added Scott source
+con-public-sphere: merged duplicate Habermas source entries
+con-reciprocity: corrected Graeber claim; removed redundant gap
+con-reconciliation: Lederach's truth/mercy/justice/peace described as elements not levels; Hamber & Kelly title corrected
+con-redistribution: Polanyi three forms attribution corrected; redundant gap removed
+con-reputation: removed covered gap
+con-resistance-movements: Fanon source now cites Maspero 1961 French original; Hollander and Einwohner 2004 corrected to Sociological Forum
+con-revolution: removed three gaps now covered by body
+con-rite-of-passage: removed covered gap
+con-ritual: Ritual Process dated 1969; Isoma sources/page numbers fixed; Geertz Bali claims reworked (Negara); Ceylon ritual claim removed; invented Tiv iende, Thai (Rasmussen) and Ogbu/Spivak items replaced (Azande oracle, Bell, Moore and Myerhoff); gaps trimmed
+con-sacred: Durkheim translation publisher fixed; Kaaba/Black Stone fixed; Geertz Balinese temple attribution removed; Mukanda circumcision not scarification; Asad dates and overclaims softened; Somerville removed; Azande pages removed; covered gaps removed
+con-savings: Boserup claim corrected; hunter-gatherer storage nuance; 'sharing economy' term removed
+con-segmentary-lineage-system: Manchester School critique corrected (Sahlins 1961, Kuper 1982 added)
+con-sensory-anthropology: Torres Strait 1898 findings corrected; Classen Andes claim softened
+con-shamanism: Humphrey and Onon corrected to Daur Mongols of China; covered gap removed
+con-social-network: Milgram 1967 Psychology Today vol 1
+con-social-reproduction: Laslett and Brenner definition corrected; sources completed (Fraser NLR, Hochschild, Dalla Costa and James)
+con-sorcery: Cewa fieldwork location corrected (Northern Rhodesia)
+con-sororate: unsupported Westermarck, Goody and Notes and Queries claims removed
+con-spirit-possession: Bourguignon claim softened; Candomblé spelling
+con-structural-opposition: removed covered gap
+con-structural-violence-definition: cultural violence dated 1990 (not 1969), Farmer framework overclaim removed, Haiti TB claim softened, gap removed
+con-succession: Goody volume claims softened; covered gap removed
+con-symbol: mpemba white clay; invented Geertz Balinese cloth, Yasumaru, Mariz, Kratz, Spivak, Simpson claims replaced; Peirce source corrected; gaps trimmed
+con-syncretism: origin of term corrected (Plutarch, early modern); Bastide translation date; covered gap removed
+con-taboo: removed covered gap
+con-theocracy: fixed dangling closing paragraph; added Josephus source
+con-thick-description-geertz: al-Shafi'i / asbab al-nuzul parallel corrected and softened
+con-totemism: removed covered gap
+con-tradition-innovation: removed unreliable steel-axe Aboriginal example
+con-tradition: cleared gaps, added invented-tradition/new-states sentence (Ranger on colonial Africa)
+con-trance: Bourguignon possession/non-possession distinction corrected; Pentecostalism growth claim softened
+con-tribe: Morgan's stages vs Service's band-tribe-chiefdom-state sequence separated
+con-usufruct: Netting Torbel dating fixed (1972 article, 1981 book); Hann reframed as edited volume
+con-universal-particular: Herskovits 1972 posthumous; Sahlins 1993 claim corrected; Boas attribution reworded
+con-violence: cleared gaps; Fanon/Bourdieu-Passeron translation dates fixed; added Galtung 1990 source
+con-visual-art: Layton 1981/2nd ed. 1991 corrected
+con-voting: district magnitude claim softened
+con-war: gaps reduced to cyberwarfare only; wartime public health claim replaced
+con-weaving: loom/flax and Barber claims corrected
+dbt-anthropology-militarization: Project Camelot/BIA claim fixed; AAA statement and Network of Concerned Anthropologists described accurately
+dbt-care-work-value-capitalism-recognition: Folbre 2012 title/editor corrected
+dbt-development-anthropology-critique: full Ferguson title; removed invented Escobar quote; related format
+dbt-nature-culture-anthropology: Descola naturalism (physicality/interiority) corrected; gap reworded
+dbt-positionality-reflexivity-fieldwork: Malinowski camera claim corrected (diary 1967); invented example generalised; source added
+dbt-substantivism-formalism-economic-anthropology: Polanyi formal/substantive distinction attributed to 1957 essay; Godelier removed as substantivist; gaps/sources fixed
+fld-anthropology: gaps reworded; Sources added
+fld-ethnography-fieldwork-ethics: ethics codes gap covered (AAA 1971, Belmont/IRB); Sources added
+fld-kinship-exchange-economy: reproductive technologies gap covered; Sources added
+fld-power-politics-anthropology: gaps reworded; Sources added
+sch-anthropological-political-economy: gaps fixed; Annales claim and Godelier/Meillassoux fieldsites corrected
+sch-applied-anthropology-development: Scudder overstatement softened
+sch-applied-anthropology-expanded: journal history, Rylko-Bauer citation fixed; removed dubious Slyomovics/Hackenberg/birth years; gaps cleared; removed file commentary
+sch-boasian-cultural-relativism: Columbia dating softened (began teaching 1896, professor 1899); removed unsupported "medical recipes" claim
+sch-british-functionalism: removed stub-commentary phrase, emptied covered gaps, softened "finest monograph"
+sch-classical-evolutionism: removed meta/batch-note gaps
+sch-cognitive-anthropology: Hanunoo plant-category count/claim corrected and softened
+sch-cultural-ecology: added Leslie White to cover gap, softened Northwest Coast contrast, gaps emptied
+sch-descent-theory: corrected double vs bilateral descent (Forde/Yako), added Nuer ghost marriage, fixed Nuer fieldwork context, gap emptied
+sch-digital-anthropology: softened "world's first" UCL MSc claim and "six principles" detail; Why We Post nine field sites
+sch-economic-anthropology-expanded: formalist list corrected (Firth, Burling, LeClair)
+sch-ethnography-of-communication: Hymes 1962 "Ethnography of Speaking" vs 1964 article fixed; removed unsupported Bloch claim, added Bauman & Sherzer 1974; Jurjani/Sakkaki ma'ani dating and etiquette-of-debate fixed
+sch-feminist-anthropology: AFA founding year softened; gaps covered (Oyewumi, Nanda, Roscoe) and removed
+sch-kinship-systems-comparative: fixed classificatory example, descent theory attribution, Schneider dating; replaced invented "Emile Boute" with Granqvist and Murphy & Kasdan
+sch-linguistic-anthropology-expanded: gaps covered (Blom & Gumperz code-switching; Gershon, Jones et al. digital) and removed
+sch-malinowskian-functionalism: "two consecutive years" corrected; meta gap removed
+sch-manchester-school: replaced misattributed "equilibrium through conflict" quote; softened Barth/Bourdieu claim; Worsley/Turner gaps removed
+sch-medical-anthropology: SMA founding dates softened; Scheper-Hughes characterization made conservative; Good fieldwork; Global Pharmaceuticals editors fixed; gaps covered and removed
+sch-ontological-turn: jaguar/manioc beer example corrected; meta gap removed
+sch-postcolonial-critique-anthropology: Asad biography fixed (born Medina, Edinburgh/Oxford, not Chicago); Orientalism timing; Herzfeld work; removed unsupported Abu-Lughod/Hammoudi claim and meta gap
+sch-psychological-anthropology: Hsu volume dating (1961/1972); replaced misattributed "Person, Self, and Experience (1989)" with Culture Theory (1984); removed LeVine "cultural model" claim
+sch-queer-anthropology: Newton later work corrected to Cherry Grove
+sch-radcliffe-brown-structural-functionalism: joking-relationship example corrected, descent-theory attribution softened, meta gap removed
+sch-structural-violence-health: Farmer Haiti dating and Scheper-Hughes fieldwork/argument corrected
+sch-urban-anthropology-expanded: Epstein death year 1999; removed Holston birth year; Lewis claim softened; gaps covered (Simone, Pink) and removed
+sch-writing-culture-crisis: "experimental fieldwork" mistranslation fixed
+scl-aging-anthropology: AAGE name fixed; Jennie Keith unsupported France claim replaced
+scl-archaeology-anthropology: Childe is Australian-born, worked in Britain (not "in Australia")
+scl-biocultural-anthropology: fixed Baker 1966 title/editors (Baker & Weiner), 1978 volume as edited; softened Gravlee finding
+scl-childhood-anthropology: replaced Susan Blum with Ochs & Schieffelin, fixed Stephens citation, replaced dubious Boas claim
+scl-cognitive-anthropology: removed long Goodenough quotation (paraphrased)
+scl-colonial-anthropology: softened Evans-Pritchard colonial-state claim
+scl-ecological-anthropology: gaps removed (covered in body); Rappaport "first" softened; Moran 1979 publisher corrected (Duxbury)
+scl-education-anthropology: replaced doubtful 'cultural organization of participation' attribution with participation structures (Erickson, McDermott, Philips)
+scl-environmental-anthropology: commons-management claim re-attributed from Moran 1979 to McCay & Acheson 1987; source added
+scl-ethnobiology: corrected Berlin ranks (unique beginner..varietal) and Society of Ethnobiology founding year (1978; journal 1981)
+scl-ethnobotany: Botany and Chemistry of Hallucinogens 1972->1973; removed unverifiable Jenks first-thesis claim and Harshberger quotation; softened 'father' wording
+scl-ethnoecology: Toledo 1992 no longer credited with naming the field (term used by Conklin 1954)
+scl-ethnomedicine: corrected Kleinman 1980 title to Patients and Healers in the Context of Culture (text and sources)
+scl-forensic-anthropology: removed unsupported 'journal' claim, softened ABFA certification and Angel war-dead and 'first' body-farm claims
+scl-indigenous-anthropology: corrected Linda Tuhiwai Smith iwi (Ngati Awa, Ngati Porou); removed unverified birth years (Wilson, TallBear, Simpson); removed pseudo-quotation 'in his words'
+scl-kinship-anthropology: Fortes/Evans-Pritchard/Leach no longer said to be produced by alliance theory (descent-based tradition)
+scl-maritime-anthropology: Cordell 1989 publisher (Cultural Survival) and description (edited volume on sea tenure) fixed; softened Ostrom claim
+scl-media-anthropology: removed unverifiable claim that Larkin's Nigerian video chapter appeared in Media Worlds
+scl-postcolonial-anthropology: removed unverified Ferguson birth year; softened multi-sited and 'most cited' claims
+scl-postmodern-anthropology: Abu-Lughod was not a Writing Culture contributor (fixed); Tyler 'gave name' softened; removed Marcus birth year; gaps (digital, multimodal ethnography) now covered with sources, gaps emptied; removed meta reference to gaps
+scl-structural-anthropology: gaps removed (both topics covered in body); Tristes Tropiques English edition date corrected (Atheneum 1974; A World on the Wane 1961)
+scl-tourism-anthropology: softened 'founded single-handedly' and Nash 1996 imperialism attribution
+scl-visual-anthropology: To Live with Herds is about Uganda pastoralists (not Aboriginal); Chronique d'un ete placed in Paris with Morin, Les Maitres fous added for West Africa; Leviathan co-director Paravel added
+asylum-anthropology-borders: removed unverifiable Heyman citation (replaced with De Genova 2002 ARA); softened 'thousands'
+dam-displacement-anthropology: removed unsupported claim about Three Gorges ethnographic access difficulties (generalised)
+gain-of-function-ethics: ethical analysis source re-attributed to Selgelid, Sci Eng Ethics 22(4) 2016 (was NSABB 23(6) 2017); gap reworded as not yet covered; softened no-ethnography claim
+stu-african-political-systems: rewrote body; removed invented cases (forty cattle, reburial divination), wrong earth-priest term, continuous Nuer fieldwork 1930-36 claim; Web of Kinship is Fortes alone 1949 (not 1945 joint); added contributors, typology, critiques; sources replaced
+stu-african-initiation-rituals: rewrote generic templated body with real ethnographies (van Gennep, Kenyatta, Richards, Turner, Bloch, La Fontaine, Kratz); removed unverifiable Kaspin 1996 and off-topic Levine 1965 sources and invented anonymous 'examples'
+stu-argonauts-western-pacific: rewrote body; removed invented quotes/cases, fifteen-months fieldwork claim (two Trobriand stays 1915-16 and 1917-18), Solomon Sea and fifty-sixty communities, mislabeled Campbell source; fixed publisher, added Mauss, Leach and Leach, Campbell The Art of Kula
+stu-asad-morocco-fieldwork: rewrote; fieldwork was among the Kababish of Sudan (Kababish Arabs 1970), not Morocco; Asad not Palestinian-American/Oxford; Genealogies of Religion is 1993; titles/dates fixed, sources corrected
+stu-balinese-theater-geertz: Bali fieldwork 1957-58 not 1957-70; Negara is mainly historical; removed invented cremation details; Zoete & Spies publisher Faber; rewrote
+stu-boas-ethnographic-methods: Boas died 1942 not 1945; Kwakiutl Ethnography (Codere ed.); Boas not fluent in Kwak'wala; Hunt details; potlatch ban dates; rewrote
+stu-dumont-south-asian-kinship: Homo Hierarchicus is a general essay on caste (Eng. 1970), not South Indian kinship ethnography; fieldwork Pramalai Kallar 1949-50; false parallel-cousin/hypergamy claims removed; sources corrected
+stu-evans-pritchard-azande-witchcraft: fieldwork location (mainly Sudan); granary example; sorcery term removed; Winch summary; removed unsupported Muslim-jurist comparison; added 1971 Azande book
+stu-evans-pritchard-the-nuer: fieldwork 1930-36 was three short periods; publisher Clarendon; removed Tibetan and Levi-Strauss claims; Fortes relation; lineage spirit claim softened; added Sources; trimmed gaps
+stu-fortes-tallensi-descent: Fortes trained at LSE not Cambridge; Dynamics of Clanship is 1945 and Web of Kinship 1949 (not co-authored with Evans-Pritchard); removed invented case examples; rewrote with earth cult, complementary filiation
+stu-geertz-balinese-cockfight: softened teahouse anecdote, removed King Lear/Crime and Punishment attribution and 'most assigned' claim, citation details
+stu-indigenous-community-based-research: removed invented project examples and false Louis 2007 citation; added Wilson, Lassiter, Schnarch/OCAP; rewrote
+stu-interpretation-of-cultures-geertz: no Moroccan bazaar or Japanese essays in IoC; Religion of Java is 1960 Free Press; fixed fieldwork dates, culture definition, removed invented quotes and Borofsky source; rewrote
+stu-labor-migration-ethnography: removed invented case examples and wrong citations (Pribilsky, Parrenas, Gardner/Osella); rewrote with real works
+stu-leach-kachin-kinship: fieldwork 1939-40 not 1940-49; modes are gumsa/gumlao/Shan not Kachin/Shan/Lisu; extended case method not Leach's; Structural Study of Myth is 1967; rewrote around mayu-dama alliance
+stu-leach-political-systems-highlands-burma: fieldwork 1939-40, notes lost; gumsa/gumlao oscillation and Shan model; gumlao not 'rotation of office'; removed Needham source and practice-theory overclaim; added Sources section; trimmed gaps
+stu-malinowski-kula-ring-exchange: fieldwork about two years in two stays; removed false matrilineal-inheritance and 'gifa' claims; Mauss citation; added Weiner critique; fixed sources and gap
+stu-melanesian-cosmology: Wagner fieldwork Daribi (Habu 1972) and Usen Barok of New Ireland (not Rai Coast); fractal person 1991; removed invented Columbia/Fried training; rewrote
+stu-moka-exchange-strathern: Strathern trained at Cambridge not Oxford; PNG independence 1975; removed invented case examples and fictitious Almonds and Firesticks source; rewrote
+stu-nuer-evans-pritchard: Hutchinson title fixed; removed fictitious Howell & Lock source; Evans-Pritchard not Oxford chair in 1930s; pater/woman-marriage corrected; time/space analysis; rewrote
+stu-ochs-samoan-language-socialization: Ochs born 1941; fieldwork 1978-79 (Falefa); monograph is Culture and Language Development 1988; softened overgeneral claims; added Schieffelin 1986/1990; deleted gaps
+stu-potlatch-kwakwakawakw: Indian Act ban 1884/85-1951 (not 1921 amendment); Benedict not Bateson; removed invented examples and false Parmenter source; added Kan, Cole & Chaikin; rewrote
+stu-ritual-process-turner: Ritual Process is 1969 not 1967; fieldwork 1950s details; extended case method not Turner's; removed invented ritual details; mudyi symbol; rewrote
+stu-samoan-kinship-mead: fieldwork 1925-26 Manu'a (about nine months, 68 girls); Freeman/Holmes/Shankman corrections; Bishop Museum Bulletin 76; rewrote
+stu-strathern-hagen-ceremonial-exchange: removed false claim of independent women's economy and fictitious Tau/Bige; Strathern fieldwork from 1964-65; dividual origin (Marriott); deleted gaps; added Women in Between
+stu-thai-market-ethnography: removed invented ethnographic examples and irrelevant sources (Pieke, Ong, Kabeer, Morris); rewrote with Skinner, Embree, Van Esterik, Geertz
+stu-thai-spirit-possession: removed irrelevant sources (Lehman, Behrend & Luig) and invented examples; McDaniel publisher Columbia UP; added Tambiah 1970, Terwiel, Kirsch, Morris; rewrote
+stu-tonga-kinship-gifford: fieldwork 1920-21 not 1920-28; Tongan rank not simply patrilineal (fahu, mehekitanga); removed irrelevant sources (Kaeppler Hula, Nero Palau); Bulletin 61; rewrote
+stu-turner-schism-continuity: Isoma attributed to Drums of Affliction; removed Icelandic sagas claim; added Drums of Affliction source; deleted covered gaps
+stu-why-we-post-miller: nine sites in eight countries (China two sites); softened country-specific claims; Visualising Facebook is a visual analysis (Miller & Sinanan 2017), not quantitative; Tales from Facebook publisher
+stu-yanomami-ethnography-chagnon: removed fictitious Albert & Kopenawa source (now Falling Sky 2013); Neel vaccine allegation not supported; added Chagnon 1988, Ferguson 1995, AAA task force; rewrote
+thk-aihwa-ong: dates 1951 vs 1950 reconciled; removed unverifiable Hampshire/Barnard/emerita details
+thk-alessandro-duranti: removed unsupported Arab-Islamic section; fixed dean/presidency claims, Reader is 2001, textbook 1997 CUP; removed false co-founding of language socialization; added sources
+thk-alfred-gell: Simeran Gell (not Simon), removed Natalie Heller, Muria/Bastar fieldwork not Madurai, Art of Anthropology edited by Hirsch, removed unsupported Arabic-reception claims, softened founder claim
+thk-alfred-kroeber: removed Lowie as Kroeber student (Boas student), softened group count
+thk-anna-tsing: softened 'pioneer of multi-sited ethnography' (Marcus's concept), removed unsupported Friction cast details
+thk-appadurai: birth year 1949 and Bombay (body said 1956), removed USC and fabricated quotations, Worship and Conflict is a Madras temple study not pilgrimage, removed Grassroots Globalization/Ong-Nonini source, rewrote body
+thk-arnold-van-gennep: Ludwigsburg birth/Dutch father French mother, Neuchatel career, removed fabricated works (Occult Sciences in Centiury France etc.) and bogus Leach/Davies/Henricks sources, Turner 1969, Algeria fieldwork date, rewrote body
+thk-arthur-kleinman: removed attribution of structural critique to Scheper-Hughes
+thk-audrey-richards: removed unverifiable RAI presidency dates and Smuts dates; removed off-topic Gluckman source
+thk-barbara-myerhoff: death at 49, born Cleveland, PhD 1968, removed false National Book Award/Jay Ruby film/invented works (Telling Stories, Unfinished Work), publisher Dutton, rewrote body
+thk-becker: PhD at Syracuse not Columbia, removed Haring, fixed Berkeley/SFSU sequence, Becker Reader publisher
+thk-biersack: replaced fabricated works (Siyeik, Alligator's Garden, etc.) and moka/Big Man claims with verifiable works (Clio in Oceania, Papuan Borderlands, Mount Kare Python, Reimagining Political Ecology), Ipili of Enga/Porgera, removed unverifiable birth year, rewrote body
+thk-bronislaw-malinowski: Trobriand dates 1915-16/1917-18; gaps cleared (editor notes); Radcliffe-Brown not his student; removed Merton and Asad claims; softened Kula and diary wording
+thk-claude-levi-strauss: removed fabricated quotations, corrected life details (Sorbonne law/philosophy, Sao Paulo, NY, Jakobson), Mythologiques/Totemism details, gaps resolved, removed AI claim, rewrote body
+thk-clifford-geertz: Asad was not Geertz's Princeton colleague; fixed Asad citation (Man 1983); removed bogus Ortner source; Java/Morocco fieldwork dates and Sefrou; removed speculative digital-culture claims
+thk-david-schneider: birth Brooklyn/Harvard PhD 1949/Chicago from 1960 (not Berkeley to 1983); removed fabricated 1970 JRAI article and Japanese-American/Hawaiian fieldwork; added Yap, relatives in nature/law; removed colonialism claim; gaps resolved
+thk-deepak-mehta: removed unverifiable Riot Discourses, 2005 CIS article, ISERDD, fieldwork details, wrong Srikrishna injury figure; added Work Ritual Biography; removed birth year
+thk-dell-hymes: gap about Atlas node removed (editorial); SPEAKING acronym S = Setting and scene; softened ethnopoetics and critique claims; Penn deanship
+thk-edmund-leach: born Sidmouth, worked in China not Brazil; Kachin fieldwork only 1939-40 (no 1961-62 return), Ceylon 1954; Provost 1966-79; replaced invented Kachin taboo example with Animal Categories and Verbal Abuse; removed bogus Needham source
+thk-eduardo-viveiros-de-castro: gap about DR-013 removed; no longer 'principal founder' of ontological turn; Descola not influenced; Cannibal Metaphysics date/edition; removed unverifiable museum campaign claim; added Araweté book
+thk-edward-sapir: removed Hopi and Zellig Harris as Sapir students; corrected Canada/Chicago/Yale dates; birthplace Lauenburg Pomerania; removed fluff correspondence section; fixed Collected Works editor
+thk-edward-tylor: removed editorial gap; knighted 1912; adhesions example corrected; Pitt Rivers role softened; Quaker/Mexico/Anahuac details; Notes and Queries 1874 committee not sole standardizer
+thk-elinor-ochs: removed editorial Schieffelin gap and false UBC doctorate claim; added Madagascar; Handbook 2011; CELF co-founder; softened intervention-program claim
+thk-elizabeth-A-povinelli: dates 1962 (frontmatter said 1957) and American not Australian-American; removed Buffalo birth date, Watson Fellow, Trilling Award, The Inheritance, and unverified exhibition venues
+thk-eric-wolf: family route Czechoslovakia/England; Queens College; taught Chicago/Michigan/CUNY not Brandeis/Rochester/Rutgers; removed false Tzeltal/Tzotzil fieldwork; world-systems not his invention; fixed Anthropology book citation; added South Tyrol
+thk-evans-pritchard: Seligman/Malinowski LSE not Radcliffe-Brown; Oxford chair 1946-70 not Regius; knighted 1971 not 1974; Azande 1926-30; removed fabricated quotations and bogus Kuper source; gaps resolved
+thk-fei-xiaotong: added Yenching and 1938 LSE doctorate; softened 'first' claim; removed unsupported 'Jiangsu School'; gaps: removed editorial translation gap, reworded remaining gap
+thk-franz-boas: dissertation was physics at Kiel (1881) not Baffin geography; emigrated 1887, AMNH 1896; Henry Tate was Tsimshian; Hunt descent; removed fabricated quotations; term 'cultural relativism' not Boas's own; fixed Cole & Chaikin and Stocking publisher; gaps resolved
+thk-franz-steiner: removed unverified fieldwork in Ruthenia, Magdalen fellowship, Murdoch engagement claim, Treblinka detail, 2021 Adler biography; softened Taboo editor; added Eroberungen
+thk-fredrik-barth: gap removed and corrected (Barth trained at Chicago/Cambridge under Leach, not Manchester); Grahame Clark claim and Gulf/Maghreb claim removed; Kurdistan fieldwork 1951; Sohar details softened; added Baktaman and Sohar sources
+thk-gbateson: death place was San Francisco, not Santa Cruz
+thk-george-marcus: Annual Review essay is 1995 not 1989; removed non-existent Parasites and Satellites, Futures of the Ethnographic Imagination, End of the Experiment; removed fabricated quotations and Chicago post; added Writing Culture, Anthropology as Cultural Critique, Lives in Trust; added sixth 'follow the conflict'; gaps reduced to one
+thk-graeber: PhD Chicago/BA SUNY Purchase; fieldwork Betafo (Merina highlands) not Betsileo; Toward title; Soffia spelling; removed unverifiable Yale/Beggs/DeLong/Knight/99%-democracy specifics; gaps cleared
+thk-haraway: Situated Knowledges is 1988 (Feminist Studies), not 1991; Cyborg Manifesto first in Socialist Review 1985, book 1991; Colorado College/Yale PhD 1972, career path; removed unverifiable quote and fabricated lab ethnography claims; added companion species works
+thk-henrietta-moore: frontmatter dates 1954 -> 1957; removed unverifiable directorship years, visiting posts, 'first sustained attempt' claim
+thk-hortense-powdermaker: named Indianola, Mississippi and fourth fieldsite (Copper Town 1962); PhD 1928; removed doubtful Wolf source and 'months' claim
+thk-isak-dinesen: fixed farm-management dates (separation early 1920s, divorce 1925), removed unsupported Ngugi attribution and Danish-publisher-rejection claim; swapped source for Letters from Africa
+thk-james-clifford: Clifford's PhD is in history (Harvard), not anthropology; removed two invented-looking quotations, invented interview claim, wrong birthplace/schools; Scholte essay year 1972; added Person and Myth and feminist critique of Writing Culture; gaps trimmed
+thk-james-frazer: removed invented Arabic-sources section (al-Jahiz/Ibn al-Nadim) and archive/filler claims; corrected career (Liverpool chair 1908, Glasgow/Trinity), Golden Bough editions, three-stage and magic definitions; added Robertson Smith, Wittgenstein, Leach critiques and real sources
+thk-jean-john-comaroff: removed invented 'new constitutions of disorder' phrase, 'magical capitalism' label (occult economies/millennial capitalism), filler claims; named Tshidi Barolong; Law and Disorder noted as edited volume; merged duplicate sections; added real works
+thk-jomo-kenyatta: fixed imprisonment/LSE chronology, removed unsupported Mafeje link, doubtful publisher for My People of Kikuyu; added mission school and female-initiation controversy
+thk-julian-steward: removed invented 'government Anthropological Project' and Six Cultures/White-as-student claims; added PhD under Kroeber, People of Puerto Rico, levels of integration; removed file-commentary gap; trimmed duplicate paragraphs
+thk-karen-ho: frontmatter birth year conflict resolved; removed unverifiable birth date/family/adviser/AT&T figure/directorship; Disciplining Investment Bankers is in American Ethnologist not American Anthropologist
+thk-kwame-appiah: replaced wrong 'president of the MLA' with PEN American Center; added Duke, NYU 2014, PhD 1982; Color Conscious spelling; replaced unattributed 'rooted cosmopolitanism' signature phrase with cosmopolitan patriotism
+thk-latour: death 2022 reflected; not École Polytechnique (philosophy/exegesis); Salk dates; removed three invented quotations and invented 'The Trouble with Standards'; WNBM English 1993; added Reassembling the Social, science wars
+thk-laura-bohannan: frontmatter dates 1913-2010 -> 1922-2002; fixed Hamlet ghost detail (Tiv read it as omen/witch); removed unverifiable birth name, marriage date, American Anthropologist editorship, Mead attribution, death cause; Return to Laughter publisher details
+thk-leacock: removed unverified birthplace, exact PhD year, death place/age; added Teaching and Learning in City Schools; Memoir 78 citation; gaps trimmed
+thk-lewis-henry-morgan: Ely Parker did not adopt Morgan (adopted into Hawk clan 1847); added League of the Iroquois (1851); corrected Michigan ventures, NAS/AAAS membership; removed filler and file-commentary gap; added Resek source
+thk-lila-abu-lughod: removed false AAA presidency and institute chair; father is political scientist not anthropologist (mother Janet, sociologist); background Palestinian-American; speculative pre-Islamic poetry link removed; added Writing Against Culture, Nakba volume, 2002 article citation
+thk-lindatuhiwai: birth year 1957 -> 1950 (b. 1950); fixed institutional career (Auckland/Waikato) and iwi; removed invented works (Indigenous and Decolonial Futures 2019, Theorizing Indigenous Methodologies, Smith/Dewes, Todd/Smith 'Decolonial STS', Routledge 2020), invented quotations and 'decolonial washing'/'good ally' attributions; added On Tricky Ground, Tuck & Yang
+thk-lucy-mair: Native Policies in Africa is a comparison of colonial policies (not African political systems); removed Edmund Leach as seminar contemporary and 'earliest comparative framework' claim; Newnham, LSE chair 1963-68; cargo cult wording; added Witchcraft
+thk-malinowski: died at New Haven 1942 (not at LSE); fieldwork chronology (Mailu 1914-15, two Trobriand expeditions); PhD 1908 Krakow; removed two invented quotations and 'inside the skin of the native'; corrected Argonauts quotation; replaced non-existent Leach 'Essential Malinowski' with Firth Man and Culture; added Diary (1967), Young biography; gaps trimmed
+thk-marcel-mauss: education corrected (Bordeaux under Durkheim, Paris/Sanskrit); Collège de France chair 1931; Manuel d'ethnographie posthumous; Gift comparative sources and Année Sociologique n.s. citation
+thk-margaret-mead: Reo Fortune was second husband, Bateson third; museum career (assistant curator 1926, curator of ethnology later) not 'from 1946'; PhD 1929; AAA/AAAS presidencies added
+thk-marilyn-strathern: Girton not Newnham; Gender of the Gift is a re-reading of Melanesian ethnography; removed nonexistent 'After Property (2016, JRAI)' and wrong The Relation (2020) citation, invented Hagen-collaboration/sovereignty claims; added Women in Between, After Nature, Kinship Law and the Unexpected, Audit Cultures; Manchester/Cambridge/Girton dates
+thk-marshall-sahlins: frontmatter dates 1930- -> 1930-2021 (d. 2021); Moala fieldwork named; removed unsupported 'Lee acknowledged drought year' claim and exact work-hour range; added How Natives Think reply to Obeyesekere
+thk-marvin-harris: removed Arab-Islamic-heritage framing and 'juristic wisdom' claim; Yanomamo warfare account corrected (protein/population pressure, not generic population regulation); PhD 1953/Florida 1980; added Cannibals and Kings, Rise of Anthropological Theory sources
+thk-mary-douglas: rewritten; Douglas studied PPE (not zoology/maths), taught at UCL (not LSE), Evans-Pritchard is structural-functionalist; Lele are of the Kasai (invented 'Bushel', population, bride-price/menstrual/initiation claims removed); removed invented hospital/Nuer claims; added grid-group, later revision of Leviticus reading, Fardon biography; Risk and Culture subtitle 'Dangers'
+thk-max-gluckman: rewritten; he studied under Evans-Pritchard at Oxford (Rhodes Scholar), not Malinowski at LSE; parents Jewish immigrants not English; Incwala is Swazi (Kuomboka/Ncwala-as-Zulu errors removed); fieldwork Zululand 1936-38, Lozi 1939-40, RLI director 1941, Manchester 1949-71; Mitchell not student; work dates and Peace in the Feud added
+thk-meyer-fortes: education corrected (psychology at Cape Town, UCL PhD 1930; not mathematics/natural sciences); Oedipus and Job is a book; replaced invented 'psychological kinship' with axiom of amity; added Ashanti
+thk-nancy-scheper-hughes: removed unverified birthplace, 'only anthropologist at Bellagio', 'more than thirty years'; softened Organs Watch and verification wording
+thk-ming-ming-kuo: unverifiable stub; removed unverified birth year and placeholder text, recorded gap as not yet covered
+thk-paul-bohannan: removed unverified birthplace (NYC), Current Anthropology editorship and exact death date; corrected prestige/women spheres (ritual office, medicine; rights in women and dependants); softened colonial-court and Guyer claims
+thk-paul-farmer: fixed birthplace/childhood (Massachusetts, bus and boat), structural violence coined by Galtung not Farmer, PIH founders/dates (1987; Zanmi Lasante mid-1980s), softened WHO/Global Fund/Lima claims; death stated in body, gap removed
+thk-paul-rabinow: fixed publishers/titles (French Modern MIT Press; Making PCR sole author; Marking Time is 2008 Princeton, not a calendar-history book), removed Duke/Berkeley Middle East Center claims, removed invented quotations, Morocco dates softened, gaps reworded
+thk-philippe-bourgois: dates frontmatter corrected to 1956; removed unsupported claims (Central America countries, student of Eric Wolf, founding UCSF department, UCLA directorship); fixed editor order for Violence at the Urban Margins
+thk-philippe-bourgois: dates frontmatter corrected to 1956; removed unsupported claims (Central America countries, student of Eric Wolf, founding UCSF department, UCLA directorship); fixed editor order for Violence at the Urban Margins
+thk-radcliffe-brown: removed false knighthood; corrected education (Trinity, Rivers/Haddon, not physics), father detail, African Systems co-editor Forde; removed unverifiable quotations; gaps cleared (covered in body); minor softening
+thk-robert-lowie: corrected Morgan critique (unilinear stages, not 'primitive communism'); added AAA presidency 1935/AA editorship dates; removed unsupported translator claim; Steward/White
+thk-sergio-carrasco: could not identify the person; replaced templated stub with honest stub, removed birth year, gap recorded
+thk-roberto-damatta: removed unconfirmed 2022 Machado de Assis Prize and file-commentary gap; three-races fable attributed to Relativizando (1981) first; added English edition of Apinayé book (Harvard UP 1982); softened founder claim
+thk-roger-bastide: removed unconfirmed death place, initiation date and DaMatta influence; softened Islam remark
+thk-ruth-benedict: fixed entry into anthropology (1919 New School/Boas, not Columbia 1921); fixed Race: Science and Politics publisher; softened Japan-policy claims
+thk-sherry-ortner: rewritten; fixed Sherpas Through Their Rituals publisher (CUP), replaced invented/mis-titled work (NJ Turnpike) with real books (Life and Death on Mt. Everest 1999, New Jersey Dreaming 2003, Not Hollywood 2013), removed invented concepts (second-order consciousness, thick constraint) and misattributed 'studying up', corrected career (Michigan, Columbia, UCLA, not Princeton)
+thk-shulamit-reinharz: dates fixed to 1946; removed unverifiable details (education, Observing the Observer, Psychology and Community Change, Hiding in Holland 2024, staffing numbers, rank claims); added Davidman; sources trimmed
+thk-stathis-gourgouris: dates fixed to 1958; removed unverifiable biographical/award details and doubtful titles (Thinking with Balibar, Nothing Sacred); softened Dream Nation summary
+thk-talal-asad: removed false claim that Veena Das/T. N. Madan were his students; softened education and career (Edinburgh/Oxford, Hull, New School, JHU, CUNY); dates frontmatter corrected to birthplace Saudi Arabia/UK/USA rather than Palestine
+thk-terence-turner: dates fixed to 1935; removed unverifiable details (father's job, MA, cause/place of death, Wakampu, Smithsonian donation, Cornell Chronicle source); softened Video Project founding; added Anthropology Today 1992 source
+thk-ulf-hannersson: en name corrected to Ulf Hannerz; removed unverifiable honours/editorship, birthplace, Manchester-school influence; softened Cayman and correspondent-fieldwork details
+thk-victor-turner: fixed education (UCL English, not Oxford classics), wartime service, Manchester/RLI career, Chicago/Cornell/Virginia order, Ritual Process date (1969), symbol analysis (exegetical/operational/positional; sensory/ideological poles), Ndembu virilocal; removed invented terms ('deep tuning', 'semiotics from below'); added Drums of Affliction
+thk-ward-goodenough: removed unverifiable expert-testimony section, Boas award and D'Andrade/Conklin training claims; corrected AAA presidency; quote corrected; added Under Heaven's Brow and sources
+thk-zora-neale-hurston: removed tape-recorder claim and Boas-arranged fellowship claim; softened sociolinguistics claim
+wrk-african-political-systems-fortes-evans-pritchard: corrected claim that editors were Radcliffe-Brown's students (Seligman/Malinowski-trained, Radcliffe-Brown wrote Preface); removed false uniform-template claim, named chapter authors; fixed Asad citation; gaps cleared (covered)
+wrk-anthropology-now: removed unverifiable claims about Boas's response and reviewers, dropped doubtful Gordon source, gaps cleared (covered in body)
+wrk-argonauts-western-pacific-malinowski: fixed empty related field, cleared covered gap, clarified wartime circumstances of fieldwork
+wrk-coming-of-age-samoa-mead: re-targeted Hall (not Freud) as the opponent; softened Boas funding claim; added location (Ta'u), sample size, Holmes restudy, Freeman 1999; added missing ## Sources section (moved from frontmatter, fixed Holmes citation); gaps cleared (covered)
+wrk-crime-custom-savage-society-malinowski: corrected incest case (clan sister, matrilineal, not father's sister's daughter); replaced Westermarck/Frazer with Hartland as target; removed invented three-category scheme, Arab customary courts, restorative-justice and land-tenure claims; added Hartland source
+wrk-cultural-critique: corrected Pratt's contribution (not 'anti-conquest', which is Imperial Eyes), Rosaldo's 'grief' argument (Culture and Truth 1989), Marcus multi-sited attribution; contributor list adjusted
+wrk-debt-first-5000-years-graeber: removed unsupported French Revolution claim, softened national-debt and Madagascar-as-debt-study claims, replaced quoted Qur'an translation with paraphrase
+wrk-elementary-structures: corrected evidence base (Polynesia/Tupi claims replaced by Chinese, Indian, Kachin, Gilyak cases), cross-cousin example fixed, added Weil appendix and translator/editor details, added Rubin/Leach/Needham/Schneider; moved sources to ## Sources (dropped irrelevant Sahlins 1976); gaps cleared (covered)
+wrk-empire: title corrected to Empires of Time; date fixed to 1989 (first edition); removed unverifiable Nature quote, three-part structure, Aztec/Greek chapter claims, monastery-invention claim
+wrk-ethnographic-fieldwork: removed unverifiable conference venue/date, chapter count and contributor-topic claims (Malkki chapter, gay/lesbian, homeless, television), added Clifford/Kuklick chapter titles; gaps cleared (covered)
+wrk-forest-of-symbols-turner: removed unverifiable 'Shawika' section; corrected Nkang'a (blanket), sensory/ideological poles, 'first work' claim, Turner career dates; ritual list
+wrk-forest-symbols: rewritten: file described The Ritual Process (wrong title/year 1967, false Stanford directorship) under Forest of Symbols slug; now accurate Forest of Symbols entry; Ritual Process is 1969
+wrk-gender-of-the-gift-strathern: fixed Wagner/Kahn influence claim, dividual/partible attribution (Marriott), removed speculative Islamic-jurisprudence section, Ortner citation; softened critique of Western critics
+wrk-genealogies-of-religion-asad: removed Evans-Pritchard/Kordofan claim (Kababish fieldwork), Mahmood as 'student', invented Islamic jurisprudence/jihad chapter, taqwa; corrected Islam content to Rushdie/limits of criticism, Formations of the Secular
+wrk-hawaiian-kinship: replaced fabricated 'Hanson' Hawaiian kinship monograph (and Meaning in Culture/Goodenough Truk sources) with accurate entry on Hawaiian terminology (Morgan 1871), Polynesian cognatic descent (Firth, Sahlins), 'ohana/hanai
+wrk-interpretation-of-cultures-geertz: fixed 'Japanese names' (Balinese), Islam/peasant-politics essay list, definition quote, cockfight 'caste' claim, Asad article citation (Man 1983), Ryle wink attribution; gaps removed (covered in body)
+wrk-kinship-and-marriage: fixed Nuer wrongly listed as matrilineal; removed unsupported claims (primatology influence in 1967, adaptive logic, evolutionary section); LSE/Rutgers; Pelican; gaps removed (critique covered in body)
+wrk-kinship-village: retitled to Caste and the Economic Frontier (1957); removed invented details (land percentage, Boida, 1959 return, Dumont influence, kinship-centred claims, Gifts and Poison authorship fixed to edited volume)
+wrk-kung-bushmen: Kung: fixed Man the Hunter date (1966 conference), work hours (12-19 range, excludes processing), original affluent society attributed to Sahlins, immediate-return to Woodburn, removed invented '200 plant species', added Wilmsen/Kalahari debate; Sources
+wrk-language-thought-reality-whorf: Whorf: Hartford Fire Insurance, Hopi time claim restated (no tense/objectified time), Arabic-tense speculation section removed, Chomsky attribution replaced (Lenneberg/Brown, Pinker), Malotki Hopi Time, barrel example corrected
+wrk-mind-of-primitive-man-boas: Boas: Baffin Island dates, UNESCO statement wording, gap removed (covered), immigrant study date; softened Sapir-Whorf claim
+wrk-nanook-of-the-north-flaherty: Nanook: removed 'composite character' claim, fur-company blame claim, Rouch/re-enactment claim; Allakariallak death cause softened; Revillon Frères, Inukjuak; gap (commentary) removed
+wrk-negara: Negara: Religion of Java is about Java, not Bali (clarified); fieldwork dating
+wrk-patterns-of-culture-benedict: Patterns: removed false 'ethos and pathos' introduction, Freudian influence (replaced with Nietzsche/Dilthey/Spengler/Gestalt), Mead as peer (she was Benedict's student), 'Margaret Bateson', Dobu source Fortune; gaps removed (critique covered in body); Sources
+wrk-precariat-standing: Precariat: seven securities listed correctly (not eight), three factions (atavists, nostalgics, progressives), softened Bayat comparison and SOAS title
+wrk-primitive-culture-tylor: Tylor: Oxford Reader 1884/Professor 1896, softened social-Darwinism framing, removed vague UNESCO claim, savagery/barbarism terminology credited to Morgan
+wrk-primitive-society: Raw and Cooked: corrected M1 summary (bird-nester/jaguar fire, not 'boy discovers fire and honey'), honey theme assigned to vol. 2, removed invented transformation examples; gap removed (covered)
+wrk-purity-and-danger-douglas: Purity: Lele fieldwork 1949-53 Kasai; medical materialism vs Frazer; softened Lele/Leviticus social-structure generalisation; gap removed
+wrk-ritual-process-turner: Ritual Process: active_end 2100 -> 1969; removed publisher-correction note from gaps; pilgrimage not in the 1969 book (clarified); Hajj application attributed to later studies
+wrk-residence-kinship: Residence Rules: removed unverifiable claims (Polynesia evidence, Romonum 'father/children' terminology, article's 'two halves' on terminology, land/authority variables, Goodenough-Schneider 'defining controversy'); retitled to 'Residence Rules'; Truk is Micronesia only
+wrk-savage-mind: Savage Mind: removed fabricated Kuper Gifford-lectures source; raw/cooked material belongs to Mythologiques not this book; corrected bricolage (modes of thought, not peoples), added 'good to think', Sartre chapter; la pensee sauvage = wild thought; removed invented kangaroo/eagle example; first gap removed (critique covered)
+wrk-sexual-life: Sexual Life: fieldwork dates 1915-16/1917-18, softened 'first ethnography of sexuality', bukumatula described accurately, urigubu, Freud citation; gap removed
+wrk-structure-function-primitive-society-radcliffe-brown: Radcliffe-Brown: mother's brother contrast is with father (not paternal uncle), removed unsupported Levi-Strauss joking-relations claim, softened 'trained' to 'influenced', essay dates, Andaman fieldwork dates
+wrk-the-gift: The Gift: Cunnison translation 1954 (not 1950), essay dated 1923-24, gift 'mana' vs Maori hau (Best/Ranaipiri; Sahlins critique), removed ifoga (not in Mauss), removed unsupported disability-justice/open-source claims; gaps removed
+wrk-tiwi-wives: Tiwi Wives: body wrongly described Hart & Pilling and claimed eight patrilineal marriage classes/generational moieties (Tiwi descent is matrilineal, marriage by betrothal and old-men polygyny); rewritten as Goodale's Tiwi Wives (1971), removed dubious 1954 Viking Fund source
+wrk-tiwi: Tiwi: removed unverified claims (wife's mother's brother as father-in-law, song duels, three routes to a wife), added matrilineal descent, fieldwork dates 1928-29
+wrk-totemism: Totemism: replaced irrelevant Evans-Pritchard 'sacrifice among the Nuer' source (Goldenweiser, Durkheim), removed invented kangaroo/eagle clan examples, added Malinowski 'good to eat' vs 'good to think', 'totemic illusion', Ojibwa ototeman; one gap removed
+wrk-tristes-tropiques: Tristes Tropiques: removed false Goncourt win, hot/cold societies not in this book, Nambikwara writing in the sand corrected to 'writing lesson', Geertz overclaim, added Russell translation 1961
+wrk-urban-culture: Urban culture: retitled to Fox's actual book; removed unverifiable specifics (Fox's Indian city fieldwork, Hannerz ghetto/critique claims, Harvey/Castells debate framing, typology details); gaps rewritten
+wrk-womans-evolution: Woman's Evolution: file was an empty stub and misattributed to Leacock; author is Evelyn Reed (Pathfinder, 1975); written entry with Sources; Leacock's Myths of Male Dominance (1981) cited as distinct
+wrk-works-lives: fixed "four essays" (framing chapters plus four case studies), Camp Memorial Lectures, case-study order, Benedict/Lévi-Strauss characterizations, removed unsupported critique claim, cleared gaps

@@ -12,9 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Mental health perspectives from non-Western traditions"
-  - "Pharmaceutical anthropology"
+gaps: []
 ---
 
 # Medical Anthropology
@@ -27,15 +25,15 @@ Unlike biocultural anthropology, which studies the body through biological measu
 
 The field has older roots in ethnographies of shamans, herbalists, and curing rituals, but it emerged as a named subdiscipline in the United States in the 1960s. Two pressures drove its formation. First, American physicians working in international development and in the community mental health programmes created by the Community Mental Health Act of 1963 found that clinical knowledge was not enough: patients understood illness differently and organised care through family and community rather than through the clinic. Second, anthropologists argued that healing systems in Latin America, Africa, and Asia had their own logic.
 
-The Organization of Medical Anthropology was formed in 1967, became the Group for Medical Anthropology in 1968, and in 1970 became the Society for Medical Anthropology, a section of the American Anthropological Association. Its journal, Medical Anthropology Quarterly, began in 1983. Norman Scotch's 1963 review helped define the field's scope, and George Foster and Barbara Anderson's Medical Anthropology (1978) gave it its first textbook synthesis.
+Organized in the late 1960s, the Society for Medical Anthropology became a section of the American Anthropological Association in the early 1970s. Its journal, Medical Anthropology Quarterly, began in 1983. Norman Scotch's 1963 review helped define the field's scope, and George Foster and Barbara Anderson's Medical Anthropology (1978) gave it its first textbook synthesis.
 
-In the 1980s the field split into two orientations that still structure it. The interpretive approach, led by Arthur Kleinman and Byron Good, studied illness narratives and explanatory models. The critical approach, led by Merrill Singer and later Paul Farmer, argued that illness had to be explained through political economy and what Farmer called structural violence — the social arrangements that put some people in harm's way.
+In the 1980s the field split into two orientations that still structure it. The interpretive approach, led by Arthur Kleinman and Byron Good, studied illness narratives and explanatory models. The critical approach, led by Merrill Singer and later Paul Farmer, argued that illness had to be explained through political economy and what Farmer, building on Johan Galtung's term, called structural violence — the social arrangements that put some people in harm's way.
 
 ## Key Figures
 
-Arthur Kleinman, psychiatrist and anthropologist at Harvard, is the field's most influential theorist. His work in Taiwan and China showed that patients, families, and doctors hold different explanatory models of the same illness, and that failing to negotiate between them causes clinical breakdown. Byron Good extended this programme in studies of illness narratives in Iran and the United States, arguing that biomedicine itself is a cultural system, not a view from nowhere.
+Arthur Kleinman, psychiatrist and anthropologist at Harvard, is the field's most influential theorist. His work in Taiwan and China showed that patients, families, and doctors hold different explanatory models of the same illness, and that failing to negotiate between them causes clinical breakdown. Byron Good extended this programme in studies of illness narratives, including research in Iran, arguing that biomedicine itself is a cultural system, not a view from nowhere.
 
-Nancy Scheper-Hughes brought a critical and moral edge to the field. Her ethnography of a shantytown in northeast Brazil documented how mothers learned to let some infants die, not from indifference but from hunger, and she later documented the global trade in human organs. Margaret Lock showed that even death is culturally constructed: her comparison of brain death in Japan and North America revealed that what counts as a dead body depends on law, religion, and medical practice as much as on biology. Paul Farmer, physician-anthropologist and co-founder of Partners In Health, became the field's most public voice. His work in Haiti showed how tuberculosis and AIDS followed the fault lines of poverty, racism, and foreign intervention.
+Nancy Scheper-Hughes brought a critical and moral edge to the field. Her ethnography of a shantytown in northeast Brazil documented how mothers living amid chronic hunger and high infant mortality came to regard some infants as unlikely to survive and to withhold intensive care from them, and she later documented the global trade in human organs. Margaret Lock showed that even death is culturally constructed: her comparison of brain death in Japan and North America revealed that what counts as a dead body depends on law, religion, and medical practice as much as on biology. Paul Farmer, physician-anthropologist and co-founder of Partners In Health, became the field's most public voice. His work in Haiti showed how tuberculosis and AIDS followed the fault lines of poverty, racism, and foreign intervention.
 
 ## Key Works
 
@@ -58,7 +56,9 @@ Its distinctive concepts include the illness-disease distinction (disease as bio
 
 Medical anthropology has changed how health is studied and practised. Its ethnographies of clinical encounters have influenced medical education, teaching doctors to listen for patients' explanatory models. Its research on the social determinants of health underpins the argument that medicines alone cannot solve epidemics rooted in poverty, and its work on organ transplantation and end-of-life care has fed into bioethics.
 
-Two frontiers dominate current debates. The first is the anthropology of mental health: how suffering and healing are understood in non-Western traditions, and the challenge these pose to Western psychiatry's universal categories. The second is pharmaceutical anthropology: how drugs are produced, marketed, and consumed across the globe, and how pharmaceuticals have become a main way people experience modern medicine, inequality, and hope. Both are named gaps in this entry. Its lasting contribution is the insistence that no account of health is complete until it asks who suffers, who profits, and who decides what counts as care.
+Two frontiers dominate current debates. The first is the anthropology of mental health: how suffering and healing are understood in non-Western traditions, and the challenge these pose to Western psychiatry's universal categories. The second is pharmaceutical anthropology: how drugs are produced, marketed, and consumed across the globe, and how pharmaceuticals have become a main way people experience modern medicine, inequality, and hope.
+
+In the first area, Kleinman's work on neurasthenia and depression in China (*Social Origins of Distress and Disease*, 1986) argued that the same suffering can be expressed and diagnosed differently in different settings, and T. M. Luhrmann's *Of Two Minds* (2000) and *When God Talks Back* (2012) examined how psychiatric and religious frameworks shape experience in the United States. In the second, Andrew Lakoff's *Pharmaceutical Reason* (2005) and Adriana Petryna's *When Experiments Travel* (2009) follow drugs and clinical trials across borders. Its lasting contribution is the insistence that no account of health is complete until it asks who suffers, who profits, and who decides what counts as care.
 
 ## Sources
 
@@ -72,4 +72,4 @@ Two frontiers dominate current debates. The first is the anthropology of mental 
 - Good, Byron J. Medicine, Rationality, and Experience: An Anthropological Perspective. Cambridge: Cambridge University Press, 1994.
 - Farmer, Paul. Infections and Inequalities: The Modern Plagues. Berkeley: University of California Press, 1999.
 - Farmer, Paul. Pathologies of Power: Health, Human Rights, and the New War on the Poor. Berkeley: University of California Press, 2003.
-- Petryna, Adriana, and Arthur Kleinman, eds. Global Pharmaceuticals: Ethics, Markets, Practices. Durham: Duke University Press, 2006.
+- Petryna, Adriana, Andrew Lakoff, and Arthur Kleinman, eds. Global Pharmaceuticals: Ethics, Markets, Practices. Durham: Duke University Press, 2006.

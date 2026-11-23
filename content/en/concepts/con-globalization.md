@@ -12,10 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Globalization and the climate crisis"
-  - "Digital globalization and platform labour"
-  - "Deglobalization and nationalist backlash"
+gaps: []
 ---
 
 # Globalization: Flows, Connections, and Uneven Worlds
@@ -32,7 +29,7 @@ Anthropology's contribution has been to insist that globalization is not a steam
 
 **David Harvey** (born 1935) analyzed globalization as a new regime of capitalist accumulation in *The Condition of Postmodernity* (1989). He introduced the idea of time-space compression: faster transport and communication shrink the experience of distance, but they also intensify competition, accelerate fashion and finance, and disorient people whose lives are reorganized by forces they cannot see. For Harvey, globalization is driven by capital's need to overcome spatial barriers and to find new markets, labour, and resources.
 
-**Roland Robertson** (1938–2022) coined the term glocalization in *Globalization: Social Theory and Global Culture* (1992), arguing that the global and the local produce each other. Global institutions adapt to local conditions, and local cultures assert themselves on global stages; neither pole can be understood without the other. Robertson also emphasized that globalization is cultural as well as economic — a growing consciousness of the world as a single place.
+**Roland Robertson** (1938–2022) popularised the term glocalization and, in *Globalization: Social Theory and Global Culture* (1992), argued that the global and the local produce each other. Global institutions adapt to local conditions, and local cultures assert themselves on global stages; neither pole can be understood without the other. Robertson also emphasized that globalization is cultural as well as economic — a growing consciousness of the world as a single place.
 
 **Arjun Appadurai** (born 1949) mapped globalization as overlapping landscapes of flow in *Modernity at Large* (1996): ethnoscapes of moving people, mediascapes of circulating images, technoscapes of technology, financescapes of capital, and ideoscapes of political ideas. These flows move at different speeds and along different routes, and their disjunctures — the gaps between them — produce the tensions of the contemporary world. Appadurai's framework gave ethnographers a way to study globalization without reducing it to economics alone.
 

@@ -12,9 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Non-Western feminisms"
-  - "Gender diversity beyond binary"
+gaps: []
 ---
 
 # Feminist Anthropology
@@ -25,7 +23,7 @@ Feminist anthropology is the branch of anthropology that studies gender — how 
 
 Feminist anthropology emerged in the 1970s alongside the second-wave feminist movement. The decisive moment came with two volumes: Woman, Culture, and Society (1974), edited by Michelle Zimbalist Rosaldo and Louise Lamphere, and Toward an Anthropology of Women (1975), edited by Rayna Reiter. Rosaldo's lead essay proposed that the near-universal subordination of women could be explained by a structural opposition between a domestic sphere associated with women and the home and a public sphere of politics and ritual dominated by men. Sherry Ortner's essay in the same volume, "Is Female to Male as Nature is to Culture?" (1974), asked whether women's association with reproduction explained their lower status.
 
-In the 1980s the school turned from explaining universal subordination to questioning its own categories. Ethnographers showed that the public-domestic divide did not hold everywhere, that "woman" was not a unitary category, and that gender could not be separated from race, class, and colonial history. Lila Abu-Lughod's Veiled Sentiments (1986) studied Bedouin women's poetry as a language of feeling and resistance, and Marilyn Strathern's The Gender of the Gift (1988) argued that Melanesian ideas of personhood made Western feminist categories — including the very idea of "women" as a group — inapplicable. The Association for Feminist Anthropology was founded in 1988 as a section of the American Anthropological Association, giving the school institutional form.
+In the 1980s the school turned from explaining universal subordination to questioning its own categories. Ethnographers showed that the public-domestic divide did not hold everywhere, that "woman" was not a unitary category, and that gender could not be separated from race, class, and colonial history. Lila Abu-Lughod's Veiled Sentiments (1986) studied Bedouin women's poetry as a language of feeling and resistance, and Marilyn Strathern's The Gender of the Gift (1988) argued that Melanesian ideas of personhood made Western feminist categories — including the very idea of "women" as a group — inapplicable. By the end of the decade the Association for Feminist Anthropology had been organized as a section of the American Anthropological Association, giving the school institutional form.
 
 ## Key Figures
 
@@ -41,7 +39,9 @@ Feminist anthropology's method begins with who is listened to: it centres women'
 
 ## Influence and Contemporary Debates
 
-Feminist anthropology transformed the discipline: no ethnography today can ignore gender, and its questions about voice, position, and power fed directly into the postmodern critique of representation. It reshaped the study of kinship, showing that marriage and descent are political arrangements rather than natural facts; the study of religion, showing how piety and devotion are gendered practices; and the study of the state, showing how law, welfare, and medicine govern women's bodies. Its internal debates have been fierce: whether gender subordination is universal or historically specific; whether Western feminist categories can be applied cross-culturally at all; and whether the school's early focus on women left out men, masculinity, and the full range of gendered experience. Its open questions are the two noted in this entry's gaps: non-Western feminisms, and gender diversity beyond the binary.
+Feminist anthropology transformed the discipline: no ethnography today can ignore gender, and its questions about voice, position, and power fed directly into the postmodern critique of representation. It reshaped the study of kinship, showing that marriage and descent are political arrangements rather than natural facts; the study of religion, showing how piety and devotion are gendered practices; and the study of the state, showing how law, welfare, and medicine govern women's bodies. Its internal debates have been fierce: whether gender subordination is universal or historically specific; whether Western feminist categories can be applied cross-culturally at all; and whether the school's early focus on women left out men, masculinity, and the full range of gendered experience.
+
+Two further developments widened the field. First, non-Western and postcolonial feminisms challenged the assumption that Western feminist categories travel unchanged: Oyèrónkẹ́ Oyěwùmí's *The Invention of Women* (1997) argued that gender was not an organizing principle of pre-colonial Yoruba society, while Abu-Lughod and Mahmood questioned how Western feminism represents Muslim women and their agency. Second, studies of gender diversity beyond a male–female binary, such as Serena Nanda's *Neither Man nor Woman: The Hijras of India* (1990) and Will Roscoe's *Changing Ones: Third and Fourth Genders in Native North America* (1998), showed that gender categories vary across societies and fed directly into queer anthropology.
 
 ## Sources
 

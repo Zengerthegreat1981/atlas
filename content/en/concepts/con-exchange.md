@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "System of reciprocal giving"
+gaps: []
 ---
 
 # Exchange
@@ -30,7 +29,7 @@ Marcel Mauss, in *The Gift* (1925), founded the modern anthropology of exchange 
 
 The comparative study of exchange grew out of ethnography in the early twentieth century. Bronislaw Malinowski's *Argonauts of the Western Pacific* (1922) described the kula, a ceremonial exchange of shell valuables that linked the islands off Papua New Guinea in a great ring of partnerships, voyages, and obligations. Alongside the kula ran ordinary trade in food, pots, and tools, and Malinowski showed that the two were inseparable: ceremonial exchange made trade possible, and trade made ceremonial exchange worthwhile.
 
-Claude Levi-Strauss, in *The Elementary Structures of Kinship* (1949), extended the logic of exchange to marriage itself, arguing that the exchange of women between groups — through rules of exogamy and alliance — was the foundation of social life, and that the prohibition of incest was at bottom a rule about exchange. Marshall Sahlins, in *Stone Age Economics* (1972), systematised the field, arguing that the form of reciprocity — generous, balanced, or exploitative — depends on the social distance between the parties, from the open sharing of the household to the hard bargaining of trade with strangers.
+Claude Lévi-Strauss, in *The Elementary Structures of Kinship* (1949), extended the logic of exchange to marriage itself, arguing that the exchange of women between groups — through rules of exogamy and alliance — was the foundation of social life, and that the prohibition of incest was at bottom a rule about exchange. Marshall Sahlins, in *Stone Age Economics* (1972), systematised the field, arguing that the form of reciprocity — generous, balanced, or exploitative — depends on the social distance between the parties, from the open sharing of the household to the hard bargaining of trade with strangers.
 
 ## Key Debates and Dimensions
 
@@ -50,6 +49,6 @@ The critique of exchange theory has also been productive. Feminist anthropologis
 
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific*. 1922.
 - Mauss, Marcel. *The Gift: Forms and Functions of Exchange in Archaic Societies*. 1925.
-- Levi-Strauss, Claude. *The Elementary Structures of Kinship*. 1949.
+- Lévi-Strauss, Claude. *The Elementary Structures of Kinship*. 1949.
 - Sahlins, Marshall. *Stone Age Economics*. 1972.
 - Gregory, Chris. *Gifts and Commodities*. 1982.

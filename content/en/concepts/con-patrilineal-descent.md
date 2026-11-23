@@ -1,0 +1,46 @@
+---
+slug: "con-patrilineal-descent"
+id: "CON-21501"
+type: "مفهوم"
+part: "anthropology"
+level: "متقدم"
+title: "Patrilineal Descent"
+en: "Patrilineal Descent"
+crumb: "Anthropology ← Concepts ← Patrilineal Descent"
+active_start: 1940
+active_end: "مستمر"
+edges:
+- rel: "belongs_to", target: "Descent Theory", target_type: "مدرسة"
+related:
+- id: "thk-evans-pritchard", title: "E. E. Evans-Pritchard", type: "مفكر"
+- id: "con-descent-theory", title: "Descent Theory", type: "مفهوم"
+gaps:
+  - "Patrilineal descent and inheritance practice in contemporary Arab societies, including positive law and Islamic jurisprudence: not yet covered."
+---
+
+# Patrilineal Descent
+
+Patrilineal descent is the rule for determining membership in a descent group exclusively through the father's line. An individual inherits membership in the clan or lineage, and rights to land, livestock, name, and ritual status, from his father rather than his mother. This is the most common pattern worldwide among unilineal descent systems. It is the prevailing pattern in Arab tribal societies, North Africa, large parts of South Asia, and sub-Saharan Africa. It is usually (though not necessarily) associated with a pastoral or agricultural economy in which the ownership of land and livestock is dominated by men.
+
+## The Classic Model: The Nuer in Evans-Pritchard
+
+E. E. Evans-Pritchard, in *The Nuer* (1940), offered the most influential study of patrilineal descent. He showed how branching patrilineages organize the entire political life of the Nuer people in the absence of a central state, through the principle of the **segmentary lineage system**: smaller descent groups unite against a group more distantly related to them when a conflict arises, and divide again when the external danger disappears. Evans-Pritchard also documented how the idea of "common descent from a male ancestor" is used to justify political and territorial claims, even when the declared genealogies do not accurately reflect the actual biological lineage. In such cases the descent is "fictive," serving an immediate political function.
+
+## Social and Economic Functions
+
+In patrilineal systems, inheritance, affiliation, and collective responsibility (such as participation in blood money or vengeance) are determined through the male line. A woman typically moves at marriage to her husband's clan (patrilocal residence), and thus loses, in formal descent terms, full membership in her father's clan. She keeps emotional ties and specific obligations toward it, however. Meyer Fortes described this, in his study of the Tallensi of Ghana, as "complementary filiation": the bond with the mother and her relatives remains socially and emotionally significant even though it does not determine formal membership.
+
+## Parallel-Cousin Marriage and Lineage Cohesion
+
+Patrilineal descent is closely linked to the preference for **parallel-cousin marriage** (marriage to a father's brother's daughter) in many Arab and Middle Eastern societies. This pattern keeps property and women within the same patrilineal group rather than dispersing them through outside marriage. The pattern was documented by Robert Murphy and Leonard Kasdan (1959) and by Fredrik Barth in his study of the Kurds of Iraq (1953). Ernest Gellner also studied how, among the tribes of the Moroccan Atlas, patrilineal descent intersects with the segmentary tribal system to produce a flexible political order that expands and contracts according to military and economic need.
+
+## Criticism and Ethnographic Complexity
+
+Rodney Needham and Edmund Leach showed that the "pure" theoretical models of patrilineal descent rarely match actual practice. People on the ground use pragmatic flexibility in explaining their descent to serve immediate interests, such as acquiring land, avoiding an obligation, or supporting an ally. As a result, the "declared descent" becomes a tool of social negotiation rather than a literal reflection of a documented biological genealogy. David Schneider also argued that the assumption of a biological link underlying the concept of patrilineal descent may itself be a Western projection that not all cultures share.
+
+## Sources
+
+- Evans-Pritchard, E. E. *The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People*. Oxford: Clarendon Press, 1940.
+- Fortes, Meyer. *The Web of Kinship among the Tallensi*. London: Oxford University Press, 1949.
+- Barth, Fredrik. *Principles of Social Organization in Southern Kurdistan*. Oslo: Universitetets Etnografiske Museum, 1953.
+- Murphy, Robert F., and Leonard Kasdan. "The Structure of Parallel Cousin Marriage." *American Anthropologist* 61, no. 1 (1959).

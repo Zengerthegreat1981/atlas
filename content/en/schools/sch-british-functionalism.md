@@ -11,9 +11,7 @@ dates: "UK · 1920s-1970s"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
-gaps:
-  - "Malinowski's field diaries controversy"
-  - "Gender bias in early works"
+gaps: []
 ---
 
 # British Functionalism
@@ -32,7 +30,7 @@ Bronislaw Malinowski (1884–1942), a Polish scholar who became the central figu
 
 ## Key Works
 
-The canon is the set of monographs that defined the genre. Malinowski's *Argonauts of the Western Pacific* (1922) and *Crime and Custom in Savage Society* (1926) established the functional method. Radcliffe-Brown's *The Andaman Islanders* (1922) and *Structure and Function in Primitive Society* (1952) stated the structural program. Evans-Pritchard's *The Nuer* (1940) is widely regarded as the finest monograph in the tradition, and his *Witchcraft, Oracles and Magic Among the Azande* (1937) its most original. Fortes's studies of the Tallensi and Leach's *Political Systems of Highland Burma* (1954) showed the school's range — and, in Leach's case, its limits. The posthumous publication of Malinowski's field diaries as *A Diary in the Strict Sense of the Term* (1967) became a scandal in its own right: the diaries revealed the boredom, irritation, and racial attitudes that the published monographs had concealed, and they forced the discipline to confront the gap between the ethnographer's experience and the ethnographer's text.
+The canon is the set of monographs that defined the genre. Malinowski's *Argonauts of the Western Pacific* (1922) and *Crime and Custom in Savage Society* (1926) established the functional method. Radcliffe-Brown's *The Andaman Islanders* (1922) and *Structure and Function in Primitive Society* (1952) stated the structural program. Evans-Pritchard's *The Nuer* (1940) is widely regarded as one of the finest monographs in the tradition, and his *Witchcraft, Oracles and Magic Among the Azande* (1937) its most original. Fortes's studies of the Tallensi and Leach's *Political Systems of Highland Burma* (1954) showed the school's range — and, in Leach's case, its limits. The posthumous publication of Malinowski's field diaries as *A Diary in the Strict Sense of the Term* (1967) became a scandal in its own right: the diaries revealed the boredom, irritation, and racial attitudes that the published monographs had concealed, and they forced the discipline to confront the gap between the ethnographer's experience and the ethnographer's text.
 
 ## Method
 
@@ -42,7 +40,7 @@ The functionalist method was intensive, long-term fieldwork in a single society,
 
 British functionalism's influence is incalculable. It made fieldwork the discipline's defining method, the monograph its defining genre, and social structure its defining object. Its ethnographies remain primary sources for the histories of the societies they describe, and they are still read, taught, and argued with.
 
-The debates that brought the school down are also its legacy. The diaries controversy — the gap this entry's stub names — damaged the image of the detached, scientific ethnographer and helped launch the reflexive turn in anthropology. The charge of gender bias is equally live: the early functionalists studied men's politics and men's rituals, and women's lives were marginal in their monographs, a gap later feminist anthropology set out to fill. The charge of ahistoricism — that functionalism ignored colonialism, capitalism, and change — was the most damaging of all, and it is the reason the school was displaced by the historically minded anthropology of the 1970s and 1980s. What survives is the school's central question: how do the parts of a social world hold together, and what happens when they do not?
+The debates that brought the school down are also its legacy. The diaries controversy damaged the image of the detached, scientific ethnographer and helped launch the reflexive turn in anthropology. The charge of gender bias is equally live: the early functionalists studied men's politics and men's rituals, and women's lives were marginal in their monographs, a gap later feminist anthropology set out to fill. The charge of ahistoricism — that functionalism ignored colonialism, capitalism, and change — was the most damaging of all, and it is the reason the school was displaced by the historically minded anthropology of the 1970s and 1980s. What survives is the school's central question: how do the parts of a social world hold together, and what happens when they do not?
 
 ## Sources
 

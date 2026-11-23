@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Converting non-market things to commodities"
+gaps: []
 ---
 
 # Commodification
@@ -26,7 +25,7 @@ A commodity is something produced for exchange, with a value expressed in money.
 
 ## Origins and Development
 
-The idea has its roots in Karl Marx, who in *Capital* (1867) analysed the commodity as the elementary form of capitalist wealth, and showed how the commodity form conceals the social relations of labour that produced it — a process he called commodity fetishism. But the anthropological study of commodification began with Appadurai's volume in 1986, which brought together studies of how things circulate in different societies and proposed the commodity as a phase rather than a type. Kopytoff's distinction between commoditisation and singularisation became the field's central vocabulary. Margaret Jane Radin, in *Contested Commodities* (1996), developed the legal and philosophical implications: she argued that some things — bodily integrity, sexuality, reproductive capacity, personal identity — are incompletely commodified, and that treating them as ordinary commodities damages personhood. Michael Sandel, in *What Money Can't Buy* (2012), extended the argument to contemporary life, cataloguing the expansion of markets into areas once governed by other norms — paying children to read books, selling the right to pollute, buying a place in a queue — and arguing that markets do not merely allocate goods but express and promote attitudes toward them.
+The idea has its roots in Karl Marx, who in *Capital* (1867) analysed the commodity as the elementary form of capitalist wealth, and showed how the commodity form conceals the social relations of labour that produced it — a process he called commodity fetishism. But the anthropological study of commodification received a major impetus from Appadurai's 1986 volume, which brought together studies of how things circulate in different societies and proposed the commodity as a phase rather than a type. Kopytoff's distinction between commoditisation and singularisation became the field's central vocabulary. Margaret Jane Radin, in *Contested Commodities* (1996), developed the legal and philosophical implications: she argued that some things — bodily integrity, sexuality, reproductive capacity, personal identity — are incompletely commodified, and that treating them as ordinary commodities damages personhood. Michael Sandel, in *What Money Can't Buy* (2012), extended the argument to contemporary life, cataloguing the expansion of markets into areas once governed by other norms — paying children to read books, selling the right to pollute, buying a place in a queue — and arguing that markets do not merely allocate goods but express and promote attitudes toward them.
 
 ## Key Debates and Dimensions
 

@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Informal communication about others"
+gaps: []
 ---
 
 # Gossip: Talk About Others and the Work It Does
@@ -30,11 +29,11 @@ Robert Paine, in "What Is Gossip About? An Alternative Hypothesis" (1967), added
 
 Robin Dunbar, in *Grooming, Gossip, and the Evolution of Language* (1996), gave gossip an evolutionary frame. In primate groups, social bonds are maintained by grooming — time-consuming, one-to-one physical contact. As human groups grew larger, Dunbar argued, grooming could no longer do the job: language, and gossip in particular, took over as a form of "vocal grooming," allowing one person to maintain bonds with several others at once and to keep track of who was trustworthy, who had cheated, and who was allied with whom. Gossip, in this account, is not a by-product of language but one of the reasons language evolved: to manage the social world of a large group.
 
-Niko Besnier, in *Gossip and the Everyday Production of Politics* (2009), studied gossip on Nukulaelae Atoll in Tuvalu, where he showed how gossip produces political life day by day. In a small island community, where everyone knows everyone else, gossip is the medium through which reputations are made and unmade, leaders are evaluated, and conflicts are fought without open confrontation. Besnier's work showed that gossip is not merely talk about politics but politics itself — the everyday process by which power is negotiated. John Haviland, in *Gossip, Reputation, and Knowledge in Zinacantan* (1977), made a similar point in highland Mexico: gossip is a system of knowledge, a way in which a community collectively knows and judges its members, and the accuracy of gossip matters because reputations have real consequences.
+Niko Besnier, in *Gossip and the Everyday Production of Politics* (2009), studied gossip on Nukulaelae Atoll in Tuvalu, where he showed how gossip produces political life day by day. In a small island community, where everyone knows everyone else, gossip is the medium through which reputations are made and unmade, leaders are evaluated, and conflicts are fought without open confrontation. Besnier's work showed that gossip is not merely talk about politics but politics itself — the everyday process by which power is negotiated. John Haviland, in *Gossip, Reputation, and Knowledge in Zinacantan* (1977), made a similar point in highland Chiapas, Mexico: gossip is a system of knowledge, a way in which a community collectively knows and judges its members, and what is said matters because reputations have real consequences.
 
 ## Ethnographic Examples
 
-Ethnography is full of gossip in action. Among the Barotse of Zambia, Gluckman found that scandal — the public airing of gossip — was a recognised social mechanism: a chief's misdeeds, once gossiped about widely enough, would be taken up in formal proceedings. Among the Zinacantecos, Haviland showed that gossip follows the networks of kinship and compadrazgo, so that the pattern of who gossips about whom maps the pattern of social relations. In Tuvalu, Besnier recorded how gossip about a young man's behaviour could circulate for months, shaping his marriage prospects, his standing in the church, and his chances of being chosen for office.
+Ethnography is full of gossip in action. Gluckman, drawing on his work in southern Africa and on English and other cases, treated gossip and scandal as a means by which groups assert their values and exclude outsiders. Among the Tzotzil-speaking people of Zinacantan, Haviland showed that gossip is shaped by the social relations of the community and bears directly on reputation. In Tuvalu, Besnier showed how gossip, in a small face-to-face community, shapes how people's conduct and standing are judged and thereby feeds into local politics.
 
 Gossip also has its genres and its etiquette. In many societies there are recognised ways of starting gossip — a raised eyebrow, a "did you hear?", a story told as a joke — and recognised ways of denying it or passing it on without taking responsibility for it. Some gossip is praise, not blame: talk about someone's generosity or courage builds their reputation just as surely as scandal destroys it.
 

@@ -22,7 +22,7 @@ Levirate is the custom by which a widow marries a brother of her deceased husban
 
 ## Origins and Development
 
-Early anthropologists treated levirate as one of a set of marriage customs that followed from the logic of kinship. If marriage was an alliance between groups rather than a contract between individuals, then the death of a husband did not end the alliance: the group that had received the wife still owed her protection and support, and the group that had given her still expected the marriage to continue. The levirate solved the problem by substituting a new husband from the same group. E. E. Evans-Pritchard's study of the Nuer of South Sudan, published in 1940, gave the classic ethnographic account: among the Nuer, a widow was expected to marry her husband's brother, and children born of the union counted as the dead man's children, preserving his lineage.
+Early anthropologists treated levirate as one of a set of marriage customs that followed from the logic of kinship. If marriage was an alliance between groups rather than a contract between individuals, then the death of a husband did not end the alliance: the group that had received the wife still owed her protection and support, and the group that had given her still expected the marriage to continue. The levirate solved the problem by substituting a new husband from the same group. E. E. Evans-Pritchard's studies of the Nuer of South Sudan (*The Nuer*, 1940; *Kinship and Marriage among the Nuer*, 1951) gave a classic ethnographic account: among the Nuer, a widow was expected to marry her husband's brother, and children born of the union counted as the dead man's children, preserving his lineage.
 
 Claude Lévi-Strauss placed levirate within his theory of alliance in *The Elementary Structures of Kinship* (1949). For Lévi-Strauss, marriage was an exchange of women between groups, and the levirate was a mechanism for keeping that exchange in balance across generations. If a husband died childless, the alliance was threatened; the levirate restored it by providing a substitute husband from the same lineage. George Peter Murdock's comparative survey *Social Structure* (1949) recorded levirate as a widespread practice, closely associated with patrilineal descent and with brideprice, since a family that had paid for a wife expected to keep her and her children even after the husband's death.
 
@@ -46,4 +46,4 @@ Levirate remains a live issue. In parts of East and Southern Africa, customary l
 - Claude Lévi-Strauss, *The Elementary Structures of Kinship*, 1949.
 - George Peter Murdock, *Social Structure*, 1949.
 - Jack Goody, *Production and Reproduction: A Comparative Study of the Domestic Domain*, 1976.
-- A. R. Radcliffe-Brown, *Structure and Function in Primitive Society*, 1952.
+- E. E. Evans-Pritchard, *Kinship and Marriage among the Nuer*, 1951.

@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Fair resolution of disputes"
+  []
 ---
 
 # Justice

@@ -18,13 +18,13 @@ gaps:
 
 # Jomo Kenyatta
 
-Jomo Kenyatta (c. 1894–1978) occupies a unique place in the history of anthropology: he was one of the first African scholars to write an ethnography of his own people, and he later became the first president of independent Kenya. His book *Facing Mount Kenya* (1938) is both a work of anthropology and a political document — a defence of Kikuyu society written at the height of British colonial rule, by a man who would go on to lead his country to independence. Few figures in the discipline have crossed the line between the studied and the student so completely.
+Jomo Kenyatta (c. 1894–1978) occupies a unique place in the history of anthropology: he was among the first Africans to write a full ethnography of his own people, and he later became the first president of independent Kenya. His book *Facing Mount Kenya* (1938) is both a work of anthropology and a political document — a defence of Kikuyu society written at the height of British colonial rule, by a man who would go on to lead his country to independence. Few figures in the discipline have crossed the line between the studied and the student so completely.
 
 ## Life and Career
 
-Kenyatta was born Kamau wa Ngengi, probably in 1894 — the exact year was never recorded — at Ichaweri, near Gatundu in the central highlands of what is now Kenya. He grew up in a Kikuyu farming family during the early years of British colonial expansion, was educated at a Church of Scotland mission school, and worked as a carpenter, a court interpreter, and a water-meter reader in Nairobi before entering politics. He became general secretary of the Kikuyu Central Association, the organisation that campaigned against colonial land seizures, and in 1929 he travelled to London as its representative.
+Kenyatta was born Kamau wa Ngengi, probably in 1894 — the exact year was never recorded — at Ichaweri, near Gatundu in the central highlands of what is now Kenya. He grew up in a Kikuyu farming family during the early years of British colonial expansion, was educated at a Church of Scotland mission school at Thogoto, and worked as a carpenter, a court interpreter, and a water-meter reader in Nairobi before entering politics. He became general secretary of the Kikuyu Central Association, the organisation that campaigned against colonial land seizures, and in 1929 he travelled to London as its representative.
 
-He spent most of the next fifteen years in Britain, working at various jobs and studying anthropology at the London School of Economics under Bronisław Malinowski. His thesis, revised for publication, became *Facing Mount Kenya* in 1938, with an introduction by Malinowski. After returning to Kenya in 1946 he moved into full-time politics, was imprisoned by the British during the Mau Mau emergency, and on independence became Kenya's first prime minister in 1963 and its first president in 1964, serving until his death in Mombasa on 22 August 1978.
+He spent much of the next fifteen years in Britain, working at various jobs and, in the mid-1930s, studying anthropology at the London School of Economics under Bronisław Malinowski. His work, revised for publication, became *Facing Mount Kenya* in 1938, with an introduction by Malinowski. After returning to Kenya in 1946 he moved into full-time politics, was convicted and imprisoned by the British in 1953 after the Mau Mau emergency began (he was held in detention and restriction until 1961), and on independence became Kenya's first prime minister in 1963 and its first president in 1964, serving until his death in Mombasa on 22 August 1978.
 
 ## Key Works
 
@@ -38,17 +38,17 @@ The book's method was as significant as its argument. Colonial ethnography had b
 
 ## Influence and Critique
 
-*Facing Mount Kenya* is now taught as a founding text of African anthropology and of the anthropology of decolonisation. It showed that an African scholar could master the discipline's methods and turn them against the colonial order that had produced them, and it opened a path followed by a later generation of African anthropologists, among them Archie Mafeje. The book's defence of Kikuyu land rights also became a reference point in Kenyan political debate, and its account of Kikuyu society remains a key source for historians of Kenya.
+*Facing Mount Kenya* is now taught as a founding text of African anthropology and of the anthropology of decolonisation. It showed that an African scholar could master the discipline's methods and turn them against the colonial order that had produced them,, and it anticipated later arguments for African authorship of African anthropology. The book's defence of Kikuyu land rights also became a reference point in Kenyan political debate, and its account of Kikuyu society remains a key source for historians of Kenya.
 
-Critics have noted that Kenyatta's portrait of Kikuyu society is idealised: he presents a unified, harmonious culture and says little about internal inequality, conflict, or the extensive adaptations Kikuyu society had already made to European presence. The book's defensive purpose — to vindicate Kikuyu institutions against colonial attack — led him to smooth over diversity and change. Later readers have also noted the tension between the book's celebration of Kikuyu particularity and Kenyatta's later presidential rhetoric of Kenyan national unity, which sometimes sat uneasily with the ethnic loyalties his early work had defended.
+Its defence of female initiation, including the practice of clitoridectomy, has been especially controversial. Critics have also noted that Kenyatta's portrait of Kikuyu society is idealised: he presents a unified, harmonious culture and says little about internal inequality, conflict, or the extensive adaptations Kikuyu society had already made to European presence. The book's defensive purpose — to vindicate Kikuyu institutions against colonial attack — led him to smooth over diversity and change. Later readers have also noted the tension between the book's celebration of Kikuyu particularity and Kenyatta's later presidential rhetoric of Kenyan national unity, which sometimes sat uneasily with the ethnic loyalties his early work had defended.
 
 These criticisms do not diminish the book's historical importance. *Facing Mount Kenya* marks the moment when anthropological knowledge passed from an instrument of colonial rule into an instrument of national liberation, in the hands of the very people it had once described. Kenyatta's double career — anthropologist and founding president — remains almost without parallel in the history of the discipline.
 
 ## Sources
 
 - Kenyatta, Jomo. *Facing Mount Kenya: The Tribal Life of the Gikuyu*. Secker and Warburg, 1938.
-- Kenyatta, Jomo. *My People of Kikuyu and the Life of Chief Wangombe*. Lutterworth Press, 1942.
-- Malinowski, Bronisław. Introduction to *Facing Mount Kenya*, 1938.
+- Kenyatta, Jomo. *My People of Kikuyu and the Life of Chief Wangombe*. London, 1942.
+- Malinowski, Bronisław. Preface to Kenyatta, *Facing Mount Kenya*. Secker and Warburg, 1938.
 - Murray-Brown, Jeremy. *Kenyatta*. George Allen and Unwin, 1972.
 - Berman, Bruce, and John Lonsdale. *Unhappy Valley: Conflict in Kenya and Africa*. James Currey, 1992.
 - Ogot, Bethwell A., and William R. Ochieng', eds. *Decolonization and Independence in Kenya, 1940–93*. James Currey, 1995.

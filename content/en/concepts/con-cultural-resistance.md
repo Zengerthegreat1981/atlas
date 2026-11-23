@@ -42,7 +42,7 @@ Critics caution against romanticising cultural resistance — against treating e
 - Antonio Gramsci — *Prison Notebooks*, 1929–1935.
 - Stuart Hall — "Encoding and Decoding in the Television Discourse," University of Birmingham Centre for Contemporary Cultural Studies, 1973.
 - Dick Hebdige — *Subculture: The Meaning of Style*, Methuen, 1979.
-- Michel de Certeau — *The Practice of Everyday Life*, University of California Press, 1980.
+- Michel de Certeau — *The Practice of Everyday Life*, University of California Press, 1984 (French original 1980).
 - James C. Scott — *Weapons of the Weak: Everyday Forms of Peasant Resistance*, Yale University Press, 1985.
 - James C. Scott — *Domination and the Arts of Resistance*, Yale University Press, 1990.
 - Stephen Duncombe, editor — *The Cultural Resistance Reader*, Verso, 2002.

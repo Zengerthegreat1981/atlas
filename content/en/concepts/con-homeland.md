@@ -13,8 +13,7 @@ edges:
 related:
   []
 gaps:
-  - Homeland in indigenous land claims and restitution
-  - Digital homelands and virtual belonging among diasporas
+  []
 ---
 # Homeland: Territory, Memory, and Belonging
 

@@ -49,7 +49,7 @@ Critics argue that network analysis can become a purely technical exercise, prod
 
 - Moreno, Jacob L. *Who Shall Survive? A New Approach to the Problem of Human Interrelations*. Washington: Nervous and Mental Disease Publishing, 1934.
 - Barnes, John A. "Class and Committees in a Norwegian Island Parish." *Human Relations* 7, no. 1 (1954): 39–58.
-- Milgram, Stanley. "The Small World Problem." *Psychology Today* 2, no. 1 (1967): 60–67.
+- Milgram, Stanley. "The Small World Problem." *Psychology Today* 1, no. 1 (1967): 60–67.
 - Granovetter, Mark S. "The Strength of Weak Ties." *American Journal of Sociology* 78, no. 6 (1973): 1360–1380.
 - Burt, Ronald S. *Structural Holes: The Social Structure of Competition*. Cambridge: Harvard University Press, 1992.
 - Watts, Duncan J., and Steven H. Strogatz. "Collective Dynamics of 'Small-World' Networks." *Nature* 393 (1998): 440–442.

@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Mutual obligation to give and receive"
+  []
 ---
 
 # Reciprocity
@@ -38,7 +38,7 @@ Sociologist Alvin Gouldner (1960) reformulated the anthropological insight as a 
 
 ## Reciprocity Beyond the Gift
 
-Reciprocity is not confined to pre-industrial societies. It shapes modern life in less obvious forms: the expectation that a dinner invitation will be returned, the favour owed to a colleague, the tip left for a waiter, the open-source programmer contributing code in the expectation of help later. Anthropologist David Graeber (2011) argued that even money and debt are best understood against this background — that the impersonal market is a recent and unusual arrangement, and that most human exchange through history has been reciprocal rather than commercial. Digital life has made the pattern visible again: social media runs on reciprocal attention, likes exchanged for likes, and the "gift economy" of the internet echoes the kula in unexpected ways.
+Reciprocity is not confined to pre-industrial societies. It shapes modern life in less obvious forms: the expectation that a dinner invitation will be returned, the favour owed to a colleague, the tip left for a waiter, the open-source programmer contributing code in the expectation of help later. Anthropologist David Graeber (2011) argued that money and debt are best understood against a background of moral relationships, and that the familiar story of markets growing out of barter is a myth. Digital life has made the pattern visible again: social media runs on reciprocal attention, likes exchanged for likes, and the "gift economy" of the internet echoes the kula in unexpected ways.
 
 Yet reciprocity is not always benign. It can lock people into exploitative relationships, as when a powerful patron's "gifts" create debts that can never be repaid and bind the recipient into dependence. It can sustain cycles of revenge as faithfully as cycles of generosity. And its emphasis on return can make genuinely free giving — charity without expectation — hard to recognise or to trust. Understanding reciprocity therefore means seeing both its power to create society and its power to constrain it: the same obligation that makes cooperation possible can also make freedom impossible.
 

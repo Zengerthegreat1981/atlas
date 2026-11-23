@@ -18,7 +18,7 @@ gaps:
 
 # Bride Service
 
-Bride service is a form of marriage payment in which the groom works for the bride's family, typically for a set period before or after the wedding, instead of — or in addition to — transferring goods or money. Unlike brideprice, where wealth changes hands, bride service transfers labour: the young man hunts, farms, builds, or performs other work for his parents-in-law, and this labour is understood as compensation for the loss of their daughter's work and as a demonstration of his worth as a husband and provider. It is one of the most widespread forms of marriage exchange in the ethnographic record, documented among hunter-gatherers, horticulturalists, and pastoralists on every inhabited continent.
+Bride service is a form of marriage payment in which the groom works for the bride's family, typically for a set period before or after the wedding, instead of — or in addition to — transferring goods or money. Unlike brideprice, where wealth changes hands, bride service transfers labour: the young man hunts, farms, builds, or performs other work for his parents-in-law, and this labour is understood as compensation for the loss of their daughter's work and as a demonstration of his worth as a husband and provider. It is one of the most widespread forms of marriage exchange in the ethnographic record, documented among hunter-gatherers, horticulturalists, and pastoralists in many parts of the world.
 
 ## Origins and Development
 
@@ -26,7 +26,7 @@ The concept of bride service emerged from the comparative study of marriage paym
 
 Claude Lévi-Strauss placed bride service within a general theory of exchange. In *The Elementary Structures of Kinship*, published in 1949, he argued that marriage is fundamentally an exchange between groups, and that bride service, like brideprice, is one way of balancing the transfer of a woman from one group to another. Where brideprice balances the exchange with wealth, bride service balances it with labour and with the groom's temporary incorporation into his wife's group. George Peter Murdock's cross-cultural survey *Social Structure*, also published in 1949, recorded bride service as a common alternative to brideprice, particularly in societies organised around bilateral or matrilocal residence.
 
-Later work refined this picture. Jack Goody argued in *Production and Reproduction* that the form of marriage payment depends on how a society organises production and inheritance: where land is abundant and labour scarce, a groom's labour is more valuable than goods, and bride service predominates. Feminist anthropologists added a further dimension, asking what bride service means for the bride herself. Service can honour the bride's family and secure the groom's good behaviour, but it can also place the bride under the authority of her own kin rather than her husband's, shaping her bargaining position within the marriage.
+Later work refined this picture. Jack Goody argued in *Production and Reproduction* (1976) that the form of marriage payment depends on how a society organises production and inheritance. Feminist anthropologists added a further dimension, asking what bride service means for the bride herself. Service can honour the bride's family and secure the groom's good behaviour, but it can also place the bride under the authority of her own kin rather than her husband's, shaping her bargaining position within the marriage.
 
 ## Key Debates
 

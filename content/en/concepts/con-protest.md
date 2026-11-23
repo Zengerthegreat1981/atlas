@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Digital protest and online mobilization"
-  - "Protest in authoritarian states"
-  - "Everyday resistance and hidden protest"
+  []
 ---
 
 # Protest: Collective Dissent and the Claim to Be Heard
@@ -24,7 +22,7 @@ gaps:
 
 ## Definition and Development
 
-The modern study of protest began when scholars stopped treating crowds as irrational and began treating protesters as rational actors making claims. Charles Tilly, in *From Mobilization to Revolution* (1978), gave the field its classic framework. Protest, Tilly argued, is a form of collective action in which groups mobilize resources — people, money, networks, symbols — to advance shared interests against opponents. He distinguished between the repertoire of contention available in a given society — the limited set of protest forms people know how to perform — and the political opportunity structure that determines when protest is likely to succeed. A march is not a natural human reflex but a learned performance, passed down through generations of struggle.
+The modern study of protest began when scholars stopped treating crowds as irrational and began treating protesters as rational actors making claims. Charles Tilly, in *From Mobilization to Revolution* (1978), gave the field its classic framework. Protest, Tilly argued, is a form of collective action in which groups mobilize resources — people, money, networks, symbols — to advance shared interests against opponents. He distinguished between the repertoire of contention available in a given society — the limited set of protest forms people know how to perform — and the political opportunities that shape when protest is likely to succeed. A march is not a natural human reflex but a learned performance, passed down through generations of struggle.
 
 Tilly's work showed that protest is historically patterned. In eighteenth-century Europe, the dominant forms were food riots, tax rebellions, and attacks on local officials. In the nineteenth and twentieth centuries, the repertoire shifted toward strikes, demonstrations, and electoral campaigns — forms suited to national states and capitalist economies. The form of protest, in other words, tells us as much about a society as the content of its demands.
 
@@ -50,5 +48,6 @@ Current scholarship debates the effects of digital media on protest. Social medi
 
 - Jasper, James M. *The Art of Moral Protest: Culture, Biography, and Creativity in Social Movements*. University of Chicago Press, 1997.
 - McAdam, Doug. *Political Process and the Development of Black Insurgency, 1930–1970*. University of Chicago Press, 1982.
+- Scott, James C. *Weapons of the Weak: Everyday Forms of Peasant Resistance*. Yale University Press, 1985.
 - Tarrow, Sidney. *Power in Movement: Social Movements and Contentious Politics*. Cambridge University Press, 1994.
 - Tilly, Charles. *From Mobilization to Revolution*. McGraw-Hill, 1978.

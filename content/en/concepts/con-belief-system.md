@@ -11,9 +11,7 @@ dates: ""
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
-gaps:
-  - "Syncretic religions"
-  - "Contemporary spiritualities"
+gaps: []
 ---
 
 # Belief System
@@ -30,7 +28,7 @@ This distinguishes a belief system from a worldview or cosmology, which may be l
 
 The anthropology of belief systems began with attempts to explain where religion comes from. Edward Tylor, in *Primitive Culture* (1871), proposed that religion began with animism — the belief in spirits — arising from dreams and the experience of death, and that it evolved toward monotheism. Émile Durkheim rejected this individual psychology in *The Elementary Forms of Religious Life* (1912), arguing that religion is society worshipping itself: the sacred is the community's own power, projected onto totems and gods, and ritual is the mechanism by which the group re-creates its solidarity.
 
-Max Weber, in *Economy and Society* (1922), shifted the question from origins to consequences, showing how religious ethics shape economic behaviour — most famously in the link between Protestant asceticism and the spirit of capitalism. E. E. Evans-Pritchard, in his study of the Azande (1937), showed that a belief system can be entirely rational on its own terms: witchcraft beliefs explained misfortune in a way that was consistent, testable within its own framework, and socially useful, even though its premises were false by Western scientific standards. Clifford Geertz (1966) synthesised these traditions, defining religion as a system of symbols that establishes powerful moods and motivations by clothing a worldview in an aura of factuality — a definition that made the interpretation of meaning, rather than the search for origins, the central task.
+Max Weber shifted the question from origins to consequences, showing how religious ethics shape economic behaviour — most famously in *The Protestant Ethic and the Spirit of Capitalism* (1904–05), on the link between Protestant asceticism and the spirit of capitalism, and later in his sociology of religion in *Economy and Society* (1922). E. E. Evans-Pritchard, in his study of the Azande (1937), showed that a belief system can be entirely rational on its own terms: witchcraft beliefs explained misfortune in a way that was consistent, testable within its own framework, and socially useful, even though its premises were false by Western scientific standards. Clifford Geertz (1966) synthesised these traditions, defining religion as a system of symbols that establishes powerful moods and motivations by clothing a worldview in an aura of factuality — a definition that made the interpretation of meaning, rather than the search for origins, the central task.
 
 ## Syncretism and Change
 
@@ -48,7 +46,7 @@ Anthropologists debate whether these count as belief systems at all, since they 
 
 1. Tylor, Edward Burnett (1871). *Primitive Culture*. John Murray.
 2. Durkheim, Émile (1912). *The Elementary Forms of Religious Life*. (English translation, 1915.)
-3. Weber, Max (1922). *Economy and Society*. (English translation, 1968.)
+3. Weber, Max (1922). *Economy and Society*. (English translation, 1968.) See also Weber, *The Protestant Ethic and the Spirit of Capitalism* (1904–05; English translation by Talcott Parsons, 1930).
 4. Evans-Pritchard, E. E. (1937). *Witchcraft, Oracles and Magic Among the Azande*. Oxford University Press.
 5. Geertz, Clifford (1966). "Religion as a Cultural System." In *Anthropological Approaches to the Study of Religion*, edited by Michael Banton. Tavistock.
 6. Asad, Talal (1993). *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*. Johns Hopkins University Press.

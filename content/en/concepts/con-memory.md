@@ -27,7 +27,7 @@ History, in this pairing, is the disciplined, critical inquiry into the past, ai
 
 ## Origins and Development
 
-The study of collective memory begins with Maurice Halbwachs, whose *Les cadres sociaux de la mémoire* (1925; published in English as *On Collective Memory* in 1980) argued that individual remembering is always framed by social frameworks — family, religion, class — and that groups possess memories that outlive their members. Halbwachs distinguished history, which he saw as a single, detached chronology, from the multiple, living memories of groups.
+The study of collective memory begins with Maurice Halbwachs, whose *Les cadres sociaux de la mémoire* (1925; partly translated in *On Collective Memory*, 1992) argued that individual remembering is always framed by social frameworks — family, religion, class — and that groups possess memories that outlive their members. Halbwachs distinguished history, which he saw as a single, detached chronology, from the multiple, living memories of groups.
 
 The field was transformed by Pierre Nora's *Les Lieux de mémoire* (1984–1992), a vast study of French sites of memory — monuments, textbooks, festivals, landscapes — which argued that modern societies, having lost the lived environments of memory, preserve the past in symbolic sites instead. Nora's distinction between milieux de mémoire (living environments of memory) and lieux de mémoire (sites where memory has crystallised) became a central vocabulary. Jan Assmann's essay "Collective Memory and Cultural Identity" (1995) added a further distinction between communicative memory — the informal, everyday memory of recent generations — and cultural memory, the formalised, institutionalised memory of a distant past, carried by texts, rituals, and monuments.
 
@@ -47,7 +47,7 @@ Memory and history are at the centre of contemporary public life. Debates over c
 
 ## Sources
 
-- Maurice Halbwachs, *On Collective Memory* (1925)
+- Maurice Halbwachs, *Les cadres sociaux de la mémoire* (1925); English selection in *On Collective Memory*, ed. and trans. Lewis A. Coser (1992)
 - Frederic C. Bartlett, *Remembering: A Study in Experimental and Social Psychology* (1932)
 - Eric Hobsbawm and Terence Ranger (eds.), *The Invention of Tradition* (1983)
 - Pierre Nora (ed.), *Les Lieux de mémoire* (1984–1992)

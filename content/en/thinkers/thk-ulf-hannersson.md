@@ -5,7 +5,7 @@ type: "مفكر"
 part: anthropology
 level: "متوسط"
 title: "Ulf Hannerz"
-en: "Ulf Hannersson"
+en: "Ulf Hannerz"
 crumb: "Cosmopolitan Anthropology and Cultural Globalisation ← People ← Ulf Hannerz"
 dates: "Sweden · 1942-"
 edges:
@@ -22,9 +22,9 @@ Ulf Hannerz (born 1942) is a Swedish anthropologist, professor emeritus of socia
 
 ## Life and Career
 
-Hannerz was born on 9 June 1942 in Malmö, Sweden, and grew up in Stockholm. He studied at Stockholm University, where he received his doctorate in 1969 with a thesis on ghetto culture in the United States, and he was influenced early on by the Manchester school of British social anthropology and its analysis of urban social networks. He spent his career at Stockholm University, where he became professor of social anthropology, and he has taught at universities in the United States, Europe, Asia, and Australia.
+Hannerz was born in 1942 in Sweden. He studied at Stockholm University, where he received his doctorate in 1969 with a thesis based on fieldwork in a Black neighbourhood of Washington, D.C. He spent his career at Stockholm University, where he became professor of social anthropology, and he has taught at universities in the United States, Europe, Asia, and Australia.
 
-He is a member of the Royal Swedish Academy of Sciences and of the American Academy of Arts and Sciences, an honorary fellow of the Royal Anthropological Institute, and a former editor of the journal *Ethnos*. His fieldwork has taken him from a poor African-American neighbourhood in Washington, D.C., to the Cayman Islands, a small Nigerian town, and the newsrooms of Jerusalem, Tokyo, Johannesburg, Cape Town, and Hong Kong.
+He is a member of the Royal Swedish Academy of Sciences. His fieldwork has taken him from a poor African-American neighbourhood in Washington, D.C., to the Cayman Islands, a small Nigerian town, and, for his study of foreign correspondents, to news bureaus in cities such as Jerusalem, Johannesburg, and Tokyo.
 
 ## Key Works
 
@@ -36,7 +36,7 @@ His essay "Cosmopolitans and Locals in World Culture" (1990) became one of the m
 
 Hannerz's central argument is that culture should not be imagined as a set of bounded, homogeneous wholes, each belonging to a nation or a people. Instead, culture moves: it flows across borders through migration, media, trade, and communication, and it is continually recombined in new places. His concept of creolisation — borrowed from the study of Caribbean languages — describes how imported cultural forms are taken up locally, mixed with existing practices, and transformed into something new. The result is not a uniform global culture, nor a set of separate local cultures, but a continuous process of mixing and remaking.
 
-His distinction between centres and peripheries added a political dimension to the model. Global cultural centres — New York, London, Tokyo — export forms and standards on a large scale, while peripheries receive these flows and recombine them locally. But this is not a one-way transmission: local actors select, reinterpret, and resist, so that the flow is always a negotiation rather than an imposition. His study of the Cayman Islands, which transformed from a local economy based on fishing and seafaring into a major offshore financial centre, showed how a small place's identity is remade through deep integration into global networks of capital.
+His distinction between centres and peripheries added a political dimension to the model. Global cultural centres — New York, London, Tokyo — export forms and standards on a large scale, while peripheries receive these flows and recombine them locally. But this is not a one-way transmission: local actors select, reinterpret, and resist, so that the flow is always a negotiation rather than an imposition. His earlier work on the Cayman Islands, a small society that became a major offshore financial centre, illustrated how a small place is remade through integration into global networks.
 
 His work on cosmopolitanism asked what kind of person thrives in this world of flows. The cosmopolitan, in Hannerz's account, is not simply a frequent traveller but someone with a willingness to engage with the Other — an openness to cultural difference as a value in itself. The concept became central to debates about globalisation, migration, and identity.
 

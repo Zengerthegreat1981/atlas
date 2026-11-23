@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Word substituted for another related concept"
+  []
 ---
 
 # Metonym
@@ -22,11 +22,11 @@ Metonymy is the figure of thought in which one thing is referred to by the name 
 
 ## Definition
 
-The classic definition of metonymy comes from rhetoric: it is the substitution of one term for another with which it stands in a relation of contiguity. The Greek word metonymia means a change of name. Common patterns include part for whole, as in "hired hands"; whole for part, as in "America won the match"; container for contents, as in "the kettle is boiling"; place for institution, as in "Wall Street reacted"; and producer for product, as in "a Picasso". Roman Jakobson argued in 1956 that metonymy is one of the two fundamental poles of language, alongside metaphor. Where metaphor works on the axis of selection — choosing among similar terms — metonymy works on the axis of combination, linking terms that occur together. Jakobson observed that some literary styles and even some cultures favour one pole over the other: realist prose and epic poetry tend toward metonymy, while romantic poetry and symbolism tend toward metaphor. George Lakoff, in his 1987 study of categorisation, showed that metonymy is also conceptual: people use a salient part of a category to stand for the whole, as when "the ham sandwich" in a café refers to the customer who ordered it.
+The classic definition of metonymy comes from rhetoric: it is the substitution of one term for another with which it stands in a relation of contiguity. The Greek word metonymia means a change of name. Common patterns include part for whole, as in "hired hands"; whole for part, as in "America won the match"; container for contents, as in "the kettle is boiling"; place for institution, as in "Wall Street reacted"; and producer for product, as in "a Picasso". Roman Jakobson argued in 1956 that metonymy is one of the two fundamental poles of language, alongside metaphor. Where metaphor works on the axis of selection — choosing among similar terms — metonymy works on the axis of combination, linking terms that occur together. Jakobson observed that some literary styles and even some cultures favour one pole over the other: realist prose and epic poetry tend toward metonymy, while romantic poetry and symbolism tend toward metaphor. George Lakoff and Mark Johnson (1980), and later Lakoff (1987) in his study of categorisation, showed that metonymy is also conceptual: people use a salient part of a category to stand for the whole, as when "the ham sandwich" in a café refers to the customer who ordered it.
 
 ## Origins and Development
 
-Metonymy was classified by ancient rhetoricians, with Aristotle discussing it in the Rhetoric, composed around 335 BCE, as a form of figurative usage. For centuries it remained a topic of rhetoric and literary criticism, a figure to be identified and admired. The twentieth century transformed its study. Jakobson's 1956 essay made metonymy a fundamental principle of language and thought, and structuralist anthropology took up the distinction between metaphor and metonymy as a tool for analysing myth, ritual, and kinship. Cognitive linguists developed the insight further: Günter Radden and Zoltán Kövecses argued in 1999 that metonymy is a cognitive process in which one conceptual entity provides mental access to another within the same domain, and that many expressions traditionally classified as metaphors rest on metonymic foundations. James Fernandez, writing in 1986, showed that in ritual and political rhetoric, metonymic associations — a chief identified with his stool, a lineage with its ancestral shrine — carry the weight of identity and authority.
+Metonymy was classified by ancient rhetoricians; in the Latin tradition, Quintilian's *Institutio Oratoria* (late first century CE) treats it among the tropes. For centuries it remained a topic of rhetoric and literary criticism, a figure to be identified and admired. The twentieth century transformed its study. Jakobson's 1956 essay made metonymy a fundamental principle of language and thought, and structuralist anthropology took up the distinction between metaphor and metonymy as a tool for analysing myth, ritual, and kinship. Cognitive linguists developed the insight further: Günter Radden and Zoltán Kövecses argued in 1999 that metonymy is a cognitive process in which one conceptual entity provides mental access to another within the same domain, and that many expressions traditionally classified as metaphors rest on metonymic foundations. James Fernandez, writing in 1986, showed that in ritual and political rhetoric, tropes such as metonymy carry the weight of identity and authority.
 
 ## Key Debates
 
@@ -38,7 +38,8 @@ Metonymy remains a live concept because association is a basic way people make s
 
 ## Sources
 
-- Aristotle, *Rhetoric* (c. 335 BCE)
+- Quintilian, *Institutio Oratoria* (c. 95 CE)
+- George Lakoff and Mark Johnson, *Metaphors We Live By* (1980)
 - Roman Jakobson, "Two Aspects of Language and Two Types of Aphasic Disturbances" (1956)
 - James W. Fernandez, *Persuasions and Performances: The Play of Tropes in Culture* (1986)
 - George Lakoff, *Women, Fire, and Dangerous Things* (1987)

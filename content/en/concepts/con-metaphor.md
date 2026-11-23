@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Linguistic device linking concepts"
+  []
 ---
 
 # Metaphor

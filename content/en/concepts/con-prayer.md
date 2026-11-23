@@ -21,11 +21,11 @@ Prayer is communication with superhuman beings — gods, spirits, ancestors, sai
 
 ## Origins and Development
 
-The first systematic sociological study of prayer was Marcel Mauss's essay "On Prayer" (1909). Mauss defined prayer as a religious rite that is oral and bears directly on sacred things, and he traced its history from the magical formulae of archaic religion — words believed to compel results automatically — to the interior, spiritual prayer of the great world religions. For Mauss, prayer is a social fact: its forms are given by tradition, its efficacy is collective, and even the most private prayer is spoken in a language and a posture learned from others.
+The first systematic sociological study of prayer was Marcel Mauss's unfinished work "On Prayer", written in 1909 and published only later in his collected works. Mauss defined prayer as a religious rite that is oral and bears directly on sacred things, and he traced its history from the magical formulae of archaic religion — words believed to compel results automatically — to the interior, spiritual prayer of the great world religions. For Mauss, prayer is a social fact: its forms are given by tradition, its efficacy is collective, and even the most private prayer is spoken in a language and a posture learned from others.
 
 Emile Durkheim, in *The Elementary Forms of Religious Life* (1912), placed prayer at the centre of his theory of religion. Prayer, for Durkheim, is the means by which the individual enters into communion with the sacred — and the sacred, in his famous argument, is society itself, transfigured. The collective effervescence of ritual prayer binds participants into a moral community; the person who prays is strengthened not only by belief but by the social force of the congregation. Private prayer, on this account, is a residue of collective ritual, carried into solitude.
 
-Bronislaw Malinowski, in *Magic, Science and Religion* (1925), drew a different distinction. Where magic seeks to control outcomes through technique, prayer is an act of submission: the petitioner acknowledges dependence on powers beyond human control and asks rather than commands. Malinowski observed that Trobriand Islanders used magical formulae for gardening and sailing, where technique mattered, but turned to prayer and supplication where outcomes were genuinely beyond reach — before a dangerous voyage, at a deathbed. Prayer, in this view, answers to uncertainty and to the limits of human power.
+Bronislaw Malinowski, in his essay "Magic, Science and Religion" (1925), drew a different distinction. Magic, for him, is practical and technique-like: it is used where outcomes are uncertain, as among the Trobriand Islanders in gardening, fishing, and sea voyaging. Religion, by contrast, centres on the crises of life, above all death, and on ends that are valued in themselves. Prayer, as an appeal to powers beyond human control, belongs on the religious side of this contrast, and answers to the limits of human power.
 
 ## Key Debates and Dimensions
 
@@ -43,8 +43,8 @@ Prayer remains one of the most widely practised human activities. Surveys consis
 
 ## Sources
 
-- Mauss, Marcel. "On Prayer." *L'Annee Sociologique*, 1909.
+- Mauss, Marcel. *On Prayer*, edited by W. S. F. Pickering, translated by S. J. Leslie. New York: Durkheim Press/Berghahn Books, 2003 (written 1909).
 - Durkheim, Emile. *The Elementary Forms of Religious Life*. Paris: Felix Alcan, 1912.
-- Malinowski, Bronislaw. *Magic, Science and Religion and Other Essays*. New York: Doubleday, 1925.
+- Malinowski, Bronislaw. *Magic, Science and Religion and Other Essays*. Garden City, NY: Doubleday, 1954 (title essay first published 1925).
 - Geertz, Clifford. "Religion as a Cultural System." In *Anthropological Approaches to the Study of Religion*, edited by Michael Banton. London: Tavistock, 1966.
 - Asad, Talal. *Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam*. Baltimore: Johns Hopkins University Press, 1993.

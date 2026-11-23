@@ -1,18 +1,18 @@
 {
-  "total_files": 2586,
+  "total_files": 2680,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 2198,
-    "declared-gaps": 540,
-    "placeholder": 3,
-    "short": 6,
+    "edge-target-by-name": 2271,
+    "declared-gaps": 585,
+    "no-crumb": 1,
     "duplicate-id-groups": 0
   },
   "flag_examples": {
     "edge-target-by-name": [
       "axm-existence-precedes-essence->Existentialist School",
       "br-agrarian-question-political-economy->Marx's Critique of Political Economy",
+      "br-anthropology-of-religion-subfield->Symbolic & Interpretive Anthropology of Religion (Turner, Douglas, Geertz)",
       "br-arabic-dialectology->Classical Arabic Grammatical Tradition",
       "br-attachment-theory->Developmental Psychology",
       "br-british->Existentialist School",
@@ -24,8 +24,7 @@
       "br-classical-psychoanalysis->Sigmund Freud",
       "br-cliometrics-new-economic-history->New Institutional Economics",
       "br-computational-linguistics->Computational Linguistics & NLP",
-      "br-corpus-linguistics->Corpus Linguistics",
-      "br-daseins->Existentialist School"
+      "br-corpus-linguistics->Corpus Linguistics"
     ],
     "declared-gaps": [
       "br-arabic-dialectology",
@@ -44,31 +43,17 @@
       "con-anti-cult-movement-response",
       "con-anxiety-existential"
     ],
-    "placeholder": [
-      "con-division-labor",
-      "thk-abdalla-salem",
-      "thk-akira-fujii"
-    ],
-    "short": [
-      "con-division-labor",
-      "thk-abdalla-salem",
-      "thk-akira-fujii",
-      "thk-ming-ming-kuo",
-      "thk-sergio-carrasco",
-      "wrk-womans-evolution"
+    "no-crumb": [
+      "thk-marilyn-strathern"
     ]
   },
   "duplicate_ids": {},
   "status_counts": {
-    "review-candidate": 2580,
-    "placeholder": 3,
-    "draft-short": 3
+    "review-candidate": 2680
   },
   "by_module": {
     "anthropology": {
-      "review-candidate": 349,
-      "placeholder": 3,
-      "draft-short": 3
+      "review-candidate": 449
     },
     "arab-thought": {
       "review-candidate": 114
@@ -108,8 +93,8 @@
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 2586,
-    "source nodes": 2586,
+    "data-en.json nodes": 2680,
+    "source nodes": 2680,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

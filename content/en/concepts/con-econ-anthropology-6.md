@@ -41,7 +41,7 @@ A third dimension is measurement. Social capital has been measured through surve
 
 ## Contemporary Relevance and Critique
 
-Social capital is invoked in debates about inequality, health, and digital life. Research shows that people with richer networks find jobs faster, recover from illness better, and live longer, suggesting that social isolation is a health risk comparable to smoking. Policy makers have promoted volunteering, community organisations, and neighbourhood initiatives as ways to build social capital, though critics warn that such programmes can blame communities for structural problems, asking them to network their way out of poverty.
+Social capital is invoked in debates about inequality, health, and digital life. Research shows that people with richer networks find jobs faster, recover from illness better, and live longer; some meta-analyses have compared the health risk of social isolation with that of smoking. Policy makers have promoted volunteering, community organisations, and neighbourhood initiatives as ways to build social capital, though critics warn that such programmes can blame communities for structural problems, asking them to network their way out of poverty.
 
 Digital platforms have transformed social capital, enabling people to maintain large networks of weak ties and to mobilise support quickly, but also raising questions about the quality of online ties. Some argue that online networks generate bridging capital by connecting strangers across distance, while others argue that they deepen bonding capital by sorting people into like-minded groups.
 

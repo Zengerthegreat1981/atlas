@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Digital nationalism and online mobilization"
-  - "Nationalism and migration"
-  - "Postcolonial nationalisms"
+  []
 ---
 
 # Nationalism: The Nation and the Claim to a State
@@ -34,7 +32,7 @@ Early scholarship treated nations as ancient, natural communities awakening to s
 
 **Ernest Gellner** (1925–1995) offered a contrasting, materialist account in *Nations and Nationalism* (1983). For Gellner, nationalism is a functional requirement of industrial society, which needs a mobile, literate workforce sharing a standardized high culture. Nationalism, in this view, invents nations where they do not exist; it is the state and its school system that produce national homogeneity, not the other way around. Gellner thus explained why nationalism arose with industrialization rather than earlier.
 
-**Eric Hobsbawm** (1917–2012) emphasized invention and tradition. In *Nations and Nationalism since 1780* (1990), he showed how many supposedly ancient national customs — tartans, folk dances, royal ceremonies — were deliberately created in the nineteenth century to give new states a usable past. **Anthony D. Smith** (1939–2016) pushed back against the strongest constructivist claims, arguing in *National Identity* (1991) that modern nationalism builds on pre-existing ethnic cores, myths, and memories — the *ethnie* — which constrain what nationalist elites can invent.
+**Eric Hobsbawm** (1917–2012) emphasized invention and tradition. In the volume he co-edited with Terence Ranger, *The Invention of Tradition* (1983), and in *Nations and Nationalism since 1780* (1990), he showed how many supposedly ancient national customs — such as Highland tartans and royal ceremonies — were deliberately created in the nineteenth and early twentieth centuries to give new states a usable past. **Anthony D. Smith** (1939–2016) pushed back against the strongest constructivist claims, arguing in *National Identity* (1991) that modern nationalism builds on pre-existing ethnic cores, myths, and memories — the *ethnie* — which constrain what nationalist elites can invent.
 
 ## Ethnographic Examples
 

@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Shared identity based on culture, language, history"
+gaps: []
 ---
 
 # Ethnicity: Shared Identity, Boundaries, and Belonging

@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Karen Ho"
 en: "Karen Ho"
 crumb: "Anthropology ← Anthropology of Work and Industry ← Karen Ho"
-dates: "USA · 1975-"
+dates: "USA · living"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
@@ -18,21 +18,19 @@ gaps:
 
 # Karen Ho
 
-Karen Ho (born 1971) is an American anthropologist best known for turning ethnography on Wall Street itself. In her landmark study *Liquidated: An Ethnography of Wall Street* (2009), she showed how the everyday culture of investment bankers — their insecurity, their prestige hierarchies, and their faith in shareholder value — helped produce the financial crisis of 2008. Her work made the anthropology of finance a central field and demonstrated that ethnography could explain global economic events by studying the people at the top rather than only those affected by their decisions.
+Karen Ho is an American anthropologist best known for turning ethnography on Wall Street itself. In her landmark study *Liquidated: An Ethnography of Wall Street* (2009), she showed how the everyday culture of investment bankers — their insecurity, their prestige hierarchies, and their faith in shareholder value — helped produce the financial crisis of 2008. Her work made the anthropology of finance a central field and demonstrated that ethnography could explain global economic events by studying the people at the top rather than only those affected by their decisions.
 
 ## Life and Career
 
-Ho was born on 25 August 1971 and grew up outside Memphis, Tennessee, in a middle-class family; her father, an immigrant from Taiwan, was a doctor. She studied at Stanford University, where she began as a pre-medical student before falling in love with feminist studies, and earned both a bachelor's degree and a master's degree in education there. She then entered the doctoral programme in anthropology at Princeton University, where her adviser was Emily Martin.
+Ho studied at Stanford University and then entered the doctoral programme in anthropology at Princeton University.
 
-While a graduate student at Princeton in the mid-1990s, Ho became fascinated by the wave of corporate downsizing then sweeping the United States, above all the restructuring of AT&T in 1995, which cost some 40,000 people their jobs. Rather than studying the laid-off workers, she decided to study the people doing the laying off. She interviewed for jobs with the banks recruiting on Princeton's campus and took a leave from her studies in 1996 to work as an internal management consultant at Bankers Trust, later part of Deutsche Bank. She stayed for about a year, until her own work group was downsized — an experience that gave her first-hand knowledge of the insecurity she would later analyse. Returning to Princeton, she conducted more than a hundred interviews with Wall Street employees between 1998 and 1999, shadowing bankers at work and at industry gatherings, and completed her doctorate in 2003 with a dissertation on Wall Street worldviews and socio-economic transformation.
+While a graduate student at Princeton in the mid-1990s, Ho became fascinated by the wave of corporate downsizing then sweeping the United States, above all the mass layoffs at large firms such as AT&T. Rather than studying the laid-off workers, she decided to study the people doing the laying off. She interviewed for jobs with the banks recruiting on Princeton's campus and took a leave from her studies in 1996 to work as an internal management consultant at Bankers Trust, later part of Deutsche Bank. She stayed for about a year, until her own work group was downsized — an experience that gave her first-hand knowledge of the insecurity she would later analyse. Returning to Princeton, she conducted extensive interviews with Wall Street employees and observed bankers at work and at industry gatherings, and completed her doctorate in 2003 with a dissertation on Wall Street worldviews and socio-economic transformation.
 
-Ho joined the faculty of the University of Minnesota, where she became professor of anthropology and director of the College of Liberal Arts' Race, Indigeneity, Gender and Sexuality Studies Initiative.
+Ho is on the faculty of the University of Minnesota, where she teaches anthropology.
 
 ## Key Works
 
 Ho's central work is *Liquidated: An Ethnography of Wall Street* (2009), published by Duke University Press just after the global financial crisis, which gave it an unusually wide public audience. The book grew directly from her 2003 Princeton dissertation, *Liquefying Corporations and Communities: Wall Street Worldviews and Socio-Economic Transformations in the Postindustrial Economy*. An earlier article, "Situating Global Capitalisms: A View from Wall Street Investment Banks" (*Cultural Anthropology*, 2005), laid out the core argument, and "Disciplining Investment Bankers, Disciplining the Economy: Wall Street's Institutional Culture of Crisis and the Downsizing of American Corporations" (2009) extended it to the history of corporate restructuring.
-
-Ho has also written about the place of the corporation in American life and about the training of business students at elite universities.
 
 ## Main Ideas and Contributions
 
@@ -53,7 +51,7 @@ The book has been praised above all for its methodological daring: gaining susta
 - Ho, Karen. *Liquidated: An Ethnography of Wall Street*. Duke University Press, 2009.
 - Ho, Karen Zouwen. *Liquefying Corporations and Communities: Wall Street Worldviews and Socio-Economic Transformations in the Postindustrial Economy*. PhD dissertation, Princeton University, 2003.
 - Ho, Karen. "Situating Global Capitalisms: A View from Wall Street Investment Banks." *Cultural Anthropology* 20, no. 1 (2005): 68–96.
-- Ho, Karen. "Disciplining Investment Bankers, Disciplining the Economy: Wall Street's Institutional Culture of Crisis and the Downsizing of American Corporations." *American Anthropologist* 111, no. 2 (2009): 177–189.
-- Bear, Laura, Karen Ho, Anna Lowenhaupt Tsing, and Sylvia Yanagisako. "Gens: A Feminist Manifesto for the Study of Capitalism." *Theorizing the Contemporary, Cultural Anthropology*, 2015.
+- Ho, Karen. "Disciplining Investment Bankers, Disciplining the Economy: Wall Street's Institutional Culture of Crisis and the Downsizing of American Corporations." *American Ethnologist* 36, no. 2 (2009): 177–189.
+- Bear, Laura, Karen Ho, Anna Lowenhaupt Tsing, and Sylvia Yanagisako. "Gens: A Feminist Manifesto for the Study of Capitalism." *Fieldsights*, *Theorizing the Contemporary*, Cultural Anthropology Online, 2015.
 - Nash, June. *We Eat the Mines and the Mines Eat Us: Dependency and Exploitation in Bolivian Tin Mines*. Columbia University Press, 1979.
 - Zaloom, Caitlin. *Out of the Pits: Traders and Technology from Chicago to London*. University of Chicago Press, 2006.

@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Threshold state between social positions"
+  []
 ---
 
 # Liminality

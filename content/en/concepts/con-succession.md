@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Transfer of authority to next person"
+  []
 ---
 
 # Succession
@@ -26,7 +26,7 @@ Succession must be distinguished from inheritance, though the two often overlap.
 
 ## Origins and Development
 
-The comparative study of succession was founded by Jack Goody, who edited the volume *Succession to High Office* in 1966, bringing together case studies of succession among African peoples — the Lozi, the Baganda, the Nyamwezi, and the Gonja — and analysing the problem each system solves and the dilemmas it creates. Goody showed that succession systems must balance two competing needs: continuity, so that authority does not lapse, and legitimacy, so that the new holder is accepted. Systems that designate an heir in advance gain continuity but risk rivalry between holder and heir; systems that leave the choice open gain flexibility but risk conflict after the death. Max Weber's analysis of authority, published posthumously in 1922, provided the theoretical frame: succession is the problem of how charismatic authority — the personal authority of a founder or prophet — is routinised into an office that can be passed on, whether by heredity, election, or designation. E. E. Evans-Pritchard's study of the Nuer (1940) showed a society that managed without centralised succession at all: leadership was situational and segmentary, emerging in feuds and rituals rather than passing through offices. Lucy Mair's *Primitive Government* (1962) compared how different African political systems handled the transfer of power, from the highly ritualised kingship of Buganda to the acephalous politics of stateless peoples.
+An influential comparative treatment is the volume *Succession to High Office*, edited by Jack Goody (1966), which brought together case studies of succession in African and other societies and analysed the problem each system solves and the dilemmas it creates. Goody and his contributors showed that succession systems must balance two competing needs: continuity, so that authority does not lapse, and legitimacy, so that the new holder is accepted. Systems that designate an heir in advance gain continuity but risk rivalry between holder and heir; systems that leave the choice open gain flexibility but risk conflict after the death. Max Weber's analysis of authority, published posthumously in 1922, provided the theoretical frame: succession is the problem of how charismatic authority — the personal authority of a founder or prophet — is routinised into an office that can be passed on, whether by heredity, election, or designation. E. E. Evans-Pritchard's study of the Nuer (1940) showed a society that managed without centralised succession at all: leadership was situational and segmentary, emerging in feuds and rituals rather than passing through offices. Lucy Mair's *Primitive Government* (1962) compared how different African political systems handled the transfer of power, from the highly ritualised kingship of Buganda to the acephalous politics of stateless peoples.
 
 ## Key Debates and Dimensions
 

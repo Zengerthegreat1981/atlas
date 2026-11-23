@@ -17,19 +17,18 @@ related:
 sources:
   - Leach, Edmund R. Political Systems of Highland Burma: A Study of Kachin Social Structure. London School of Economics Monographs on Social Anthropology, no. 44, 1954.
   - Leach, Edmund R. Rethinking Anthropology. London School of Economics Monographs on Social Anthropology, no. 22, 1961.
-  - Needham, Rodney. "The Left Hand of the Mugwe: An Analytical Note on the Structure of Meru Symbolism." Africa, vol. 30, no. 1, 1960.
+  - Leach, Edmund R. "The Structural Implications of Matrilateral Cross-Cousin Marriage." Journal of the Royal Anthropological Institute 81, 1951.
 gaps:
-  - "Kachin responses to and critiques of Leach's representations"
-  - "Postcolonial analysis of Leach's ethnography in colonial Burma/Myanmar"
+  - "Kachin responses to and critiques of Leach's representations: not yet covered"
 ---
 
 # Political Systems of Highland Burma: A Study of Kachin Social Structure
 
-Edmund Leach's *Political Systems of Highland Burma* (1954) is a monumental ethnographic and theoretical work that challenges structural-functionalist orthodoxy by demonstrating that societies are not organized according to fixed rules but rather that people manipulate ambiguous kinship categories for political advantage. Based on fieldwork among the Kachin people of highland Burma (Myanmar) during the colonial period, Leach argues that the Kachin system involves competing status principles and models of organization—hierarchical gumsa and egalitarian gumlao systems—which people strategically adopt and manipulate depending on political circumstances. Rather than treating kinship as a set of fixed rules determining behavior, Leach emphasizes how people creatively interpret and manipulate kinship relationships to advance political and economic interests. *Political Systems of Highland Burma* revolutionized kinship and political anthropology by emphasizing practice and strategy over rules and structure, establishing the foundation for later practice theory and poststructuralist anthropology.
+Edmund Leach's *Political Systems of Highland Burma* (1954) is a monumental ethnographic and theoretical work that challenges structural-functionalist orthodoxy by demonstrating that societies are not organized according to fixed rules but rather that people manipulate ambiguous kinship categories for political advantage. Based on fieldwork among the Kachin people of highland Burma (Myanmar) during the colonial period, Leach argues that the Kachin system involves competing status principles and models of organization—hierarchical gumsa and egalitarian gumlao systems—which people strategically adopt and manipulate depending on political circumstances. Rather than treating kinship as a set of fixed rules determining behavior, Leach emphasizes how people creatively interpret and manipulate kinship relationships to advance political and economic interests. *Political Systems of Highland Burma* revolutionized kinship and political anthropology by emphasizing practice and strategy over rules and structure, and it was an important influence on later processual and transactional approaches in anthropology.
 
 ## Publication & Context
 
-Leach conducted fieldwork among the Kachin (Jingpaw-speaking peoples) of the Kachin Hills in Burma between 1938-1949, working under difficult conditions of colonial administration and Japanese occupation during World War II. His fieldwork was interrupted and fragmentary, yet extraordinarily productive intellectually. *Political Systems of Highland Burma* was published in 1954 as his major monograph and became immediately influential. The book was published by the London School of Economics as part of their prestigious monographs series, establishing Leach at the forefront of British anthropology.
+Leach carried out his main fieldwork in the Kachin Hills of northern Burma in 1939-40, shortly before the outbreak of the Second World War, and then served in Burma during the war; his field notes were lost during the Japanese invasion, and the book was written largely from memory and from the literature, including colonial records and earlier ethnographies. The Kachin (Jingpaw-speaking and related peoples) were under British colonial administration. *Political Systems of Highland Burma* was published in 1954 as his major monograph and became immediately influential. The book appeared in the London School of Economics Monographs on Social Anthropology series, and was reprinted by the Athlone Press in 1964, establishing Leach at the forefront of British anthropology.
 
 The work emerged during a period of theoretical ferment in British anthropology. Structural-functionalism, which had dominated through the work of Radcliffe-Brown and Malinowski, was facing increasing criticism for its assumption that societies are in equilibrium and that institutions function to maintain social stability. Leach's work, emphasizing dynamism, manipulation, and conflict, offered a major alternative framework. It also coincided with growing anthropological interest in Asia, which had previously been less studied than Africa or the Pacific in British anthropology.
 
@@ -37,7 +36,7 @@ The work emerged during a period of theoretical ferment in British anthropology.
 
 Leach's central argument challenges the structural-functionalist assumption that kinship rules determine behavior and that societies consist of groups organized according to explicit rules. Rather, Leach argues, kinship involves fundamentally ambiguous categories that people strategically manipulate for political purposes. The Kachin recognize two competing models of social organization—gumsa (hierarchical) and gumlao (egalitarian)—and people can emphasize either model depending on their political position and ambitions.
 
-In the gumsa system, status hierarchy is emphasized, with clear distinctions between higher and lower groups, lineage heads with inherited authority, and asymmetrical marriage exchange (wives flow "downward" to lower-status groups). In the gumlao system, egalitarianism is emphasized, with rotation of political office and symmetrical marriage exchange. Rather than these being distinct societies, Leach argues, individual Kachin communities shift between systems depending on circumstances—a young ambitious man might promote an egalitarian gumlao system to challenge the authority of his elder kinsmen; a lineage head might emphasize gumsa hierarchy to maintain authority.
+In the gumsa system, status hierarchy is emphasized, with clear distinctions between higher and lower groups, hereditary chiefs, and asymmetrical marriage alliance in which wife-giving lineages (mayu) rank above wife-taking lineages (dama). In the gumlao system, egalitarianism is emphasized: hereditary chieftainship is rejected and communities are formally composed of equal lineages. Rather than these being distinct societies, Leach argues, individual Kachin communities oscillate between them over time. Gumsa chiefs tend to claim ever more hereditary authority and to become Shan-like in their style, provoking gumlao rebellions that abolish chieftainship, and gumlao communities in turn tend to re-develop ranking and drift back toward gumsa. A third pole, the Shan model of hereditary princes (sawbwa), formed part of the wider system in which Kachin chiefs acted.
 
 Crucially, kinship categories are not fixed but ambiguous. A single relationship can be interpreted in multiple ways depending on political context. The same kinship category can be used to emphasize hierarchy or equality, depending on how it is invoked. This means that kinship is not a mechanical system determining behavior but a resource that people strategically invoke and interpret.
 
@@ -49,7 +48,7 @@ Crucially, kinship categories are not fixed but ambiguous. A single relationship
 
 **Strategic Manipulation of Kinship**: The emphasis that people actively manipulate kinship relationships and interpretations for political advantage, rather than mechanically following rules. This established the principle that kinship is practiced and negotiated rather than mechanically implemented.
 
-**Practice and Strategy**: Leach emphasizes actual practice and strategic behavior rather than abstract rules. This foundational insight influenced the development of practice theory in anthropology, which emphasizes that culture is enacted, interpreted, and strategically deployed by actors.
+**Practice and Strategy**: Leach emphasizes actual practice and strategic behavior rather than abstract rules. This emphasis anticipated later approaches that treat culture as enacted, interpreted and strategically deployed by actors.
 
 **Affinal Relations and Alliance**: Leach emphasizes marriage alliance (affinal relations) as central to political organization, extending ideas from Lévi-Strauss but emphasizing the flexibility and strategic nature of alliance.
 
@@ -59,13 +58,13 @@ Leach's argument rests on detailed genealogical and historical analysis. He prov
 
 He analyzes specific marriage exchanges, showing how the same marriages can be interpreted as establishing different kinds of relationships depending on how the relationship is invoked. He documents cases where people shift between gumsa and gumlao emphases, showing how these are flexible strategies rather than fixed structures.
 
-He also describes Kachin ritual and religious practices, including nat worship (spirit possession) and shamanic practices, showing how these are linked to political organization and status competition. Shamans and ritual specialists serve the interests of political patrons by legitimating their authority through ritual.
+He also describes Kachin ritual and religion, including sacrifices to *nat* (spirits), which he treats as linked to rank and political organization, since chiefs' status was expressed in the sacrifices they could perform.
 
-His historical analysis, drawing on oral traditions and written accounts, traces the long-term history of Kachin society through periods of domination by Shan (Thai) principalities, British colonial rule, and internal struggles for authority.
+His historical analysis, drawing on oral traditions and written accounts, traces the long-term history of Kachin society through periods of domination by Shan (Tai) principalities, British colonial rule, and internal struggles for authority.
 
 ## Impact on Anthropology
 
-*Political Systems of Highland Burma* was tremendously influential and changed the direction of kinship and political anthropology. The book established the principle that kinship cannot be understood merely as a set of mechanical rules but must be understood as a domain of strategy and practice. This foundational insight influenced development of practice theory in anthropology—the idea that actors creatively interpret and deploy cultural categories.
+*Political Systems of Highland Burma* was tremendously influential and changed the direction of kinship and political anthropology. The book established the principle that kinship cannot be understood merely as a set of mechanical rules but must be understood as a domain of strategy and practice. This insight influenced later transactional and processual approaches, including Fredrik Barth's work on political process, and the broader idea that actors interpret and deploy cultural categories strategically.
 
 The work also influenced the understanding of flexibility and variability within societies. Rather than assuming societies are organized according to a single explicit model, Leach showed that multiple models can coexist and be invoked strategically. This recognition of multiplicity and variability within societies has been tremendously influential.
 
@@ -95,4 +94,10 @@ More recent ethnographic work among the Kachin has also suggested that the degre
 
 *Political Systems of Highland Burma* remains required reading in anthropology courses on kinship and political organization. It is recognized as a foundational work in the history of anthropological theory and continues to influence how scholars understand kinship and politics.
 
-However, contemporary readings are often more critical than earlier ones. Scholars read Leach to understand the history of practice theory and the critique of structural-functionalism while being more attentive to postcolonial contexts, gender, material conditions, and the complexity of actual kinship practice. The work remains important for its emphasis on strategy and practice, but contemporary anthropologists situate this within broader frameworks attending to power, history, and structural constraints.
+However, contemporary readings are often more critical than earlier ones. Scholars read Leach to understand the history of processual approaches and the critique of structural-functionalism while being more attentive to postcolonial contexts, gender, material conditions, and the complexity of actual kinship practice. The work remains important for its emphasis on strategy and practice, but contemporary anthropologists situate this within broader frameworks attending to power, history, and structural constraints.
+
+## Sources
+
+- Leach, Edmund R. *Political Systems of Highland Burma: A Study of Kachin Social Structure*. London School of Economics Monographs on Social Anthropology, 1954 (reprinted London: Athlone Press, 1964).
+- Leach, Edmund R. *Rethinking Anthropology*. London School of Economics Monographs on Social Anthropology, no. 22, 1961.
+- Leach, Edmund R. "The Structural Implications of Matrilateral Cross-Cousin Marriage." *Journal of the Royal Anthropological Institute* 81, 1951.

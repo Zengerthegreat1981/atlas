@@ -26,7 +26,7 @@ Interest in other peoples' healing practices is as old as anthropology. Early et
 
 Ethnomedicine took shape as a named field in the 1960s and 1970s, when medical anthropology itself was being institutionalised. The Society for Medical Anthropology was founded in 1967, and ethnomedical research became one of its core strands. George Foster's influential paper "Disease Etiologies in Non-Western Medical Systems" (1976) gave the field its classic typology, distinguishing personalistic systems, in which illness is caused by an agent such as a spirit, a sorcerer, or an ancestor, from naturalistic systems, in which illness results from impersonal forces such as humoral imbalance, heat and cold, or the environment. Horacio Fabrega's *Disease and Social Behavior* (1974) offered a complementary framework, arguing that disease always has both a biological and a cultural dimension, and that the social response to sickness is as important as its physical cause.
 
-The 1980s brought the interpretive turn. Arthur Kleinman's *Patients and Healers in the Cultural Context* (1980) and *The Illness Narratives* (1988) showed that patients and doctors often inhabit different explanatory models of the same condition, and that the gap between them is itself a source of suffering. Byron Good's *Medicine, Rationality, and Experience* (1994) examined how medical knowledge is constructed in clinical practice, including in biomedicine itself, which ethnomedicine increasingly treated as one ethnomedical system among others rather than as a neutral standard.
+The 1980s brought the interpretive turn. Arthur Kleinman's *Patients and Healers in the Context of Culture* (1980) and *The Illness Narratives* (1988) showed that patients and doctors often inhabit different explanatory models of the same condition, and that the gap between them is itself a source of suffering. Byron Good's *Medicine, Rationality, and Experience* (1994) examined how medical knowledge is constructed in clinical practice, including in biomedicine itself, which ethnomedicine increasingly treated as one ethnomedical system among others rather than as a neutral standard.
 
 ## Key Figures and Works
 
@@ -53,6 +53,6 @@ The field also reshaped anthropology's own claims. By showing that biomedicine i
 - Fabrega, Horacio, Jr. (1974). *Disease and Social Behavior: An Interdisciplinary Perspective*. Cambridge, MA: MIT Press.
 - Foster, George M. (1976). "Disease Etiologies in Non-Western Medical Systems." *American Anthropologist* 78(4): 773–782.
 - Foster, George M., and Barbara Gallatin Anderson (1978). *Medical Anthropology*. New York: Wiley.
-- Kleinman, Arthur (1980). *Patients and Healers in the Cultural Context: An Exploration in Borders*. Berkeley: University of California Press.
+- Kleinman, Arthur (1980). *Patients and Healers in the Context of Culture: An Exploration of the Borderland between Anthropology, Medicine, and Psychiatry*. Berkeley: University of California Press.
 - Kleinman, Arthur (1988). *The Illness Narratives: Suffering, Healing, and the Human Condition*. New York: Basic Books.
 - Good, Byron J. (1994). *Medicine, Rationality, and Experience: An Anthropological Perspective*. Cambridge: Cambridge University Press.

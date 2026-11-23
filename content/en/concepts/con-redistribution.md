@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Centralized collection and distribution"
+  []
 ---
 
 # Redistribution
@@ -22,7 +22,7 @@ Redistribution is the movement of goods, food, and wealth through a centre: reso
 
 ## Definition
 
-The classic account comes from Karl Polanyi. In *The Great Transformation* (1944), Polanyi argued that economies are organised by three forms of integration: reciprocity, redistribution, and market exchange. Redistribution, for Polanyi, requires a centre — a chief, a temple, a palace — toward which goods move and from which they are dispensed. It is the characteristic economic form of chiefdoms and early states, where the pooling of resources makes possible large-scale projects: irrigation works, temples, armies, and craft production. In his 1957 essay "The Economy as Instituted Process," Polanyi stressed that redistribution is an instituted pattern, embedded in social and political relationships. Redistribution can take many forms. It may be a regular tribute, collected at harvest and stored against famine. It may be a feast, in which a chief displays generosity and binds followers to him. It may be a state welfare system, in which taxes are collected and benefits paid. What unites these cases is the centrality of the centre: goods do not move directly between producers and consumers, but pass through an authority that decides who gives and who receives. This gives the centre power — the power to reward and to withhold — and makes redistribution a political as much as an economic process.
+The classic account comes from Karl Polanyi. In *The Great Transformation* (1944), Polanyi argued that economies had historically been organised by principles such as reciprocity, redistribution, and householding before the rise of the self-regulating market, and in later work he named three forms of integration: reciprocity, redistribution, and market exchange. Redistribution, for Polanyi, requires a centre — a chief, a temple, a palace — toward which goods move and from which they are dispensed. It is the characteristic economic form of chiefdoms and early states, where the pooling of resources makes possible large-scale projects: irrigation works, temples, armies, and craft production. In his 1957 essay "The Economy as Instituted Process," Polanyi stressed that redistribution is an instituted pattern, embedded in social and political relationships. Redistribution can take many forms. It may be a regular tribute, collected at harvest and stored against famine. It may be a feast, in which a chief displays generosity and binds followers to him. It may be a state welfare system, in which taxes are collected and benefits paid. What unites these cases is the centrality of the centre: goods do not move directly between producers and consumers, but pass through an authority that decides who gives and who receives. This gives the centre power — the power to reward and to withhold — and makes redistribution a political as much as an economic process.
 
 ## Origins and Development
 

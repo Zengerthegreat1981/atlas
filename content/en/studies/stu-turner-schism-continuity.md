@@ -12,9 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Social drama and processual anthropology"
-  - "Ndembu ritual and village fission"
+gaps: []
 ---
 
 # Schism and Continuity in an African Society
@@ -33,13 +31,13 @@ The book's method is the extended case study, a Manchester School hallmark. Rath
 
 ## Social Drama and Ritual
 
-From these village histories Turner derived his most influential concept, the social drama. A social drama unfolds in four phases: breach of a norm, mounting crisis, redressive action, and either reintegration or schism. The model began here, in the quarrels of Mukanza village, and Turner would develop it across his later work into a general theory of social process, applied to everything from Icelandic sagas to modern theatre.
+From these village histories Turner derived his most influential concept, the social drama. A social drama unfolds in four phases: breach of a norm, mounting crisis, redressive action, and either reintegration or schism. The model began here, in the quarrels of Mukanza village, and Turner would develop it across his later work into a general theory of social process, applied by Turner to historical conflicts such as the Thomas Becket affair, and later to theatre and performance.
 
-Ritual plays a central role in the book's account of redress. Turner's analysis of the *Isoma* ritual — performed for women suffering infertility — shows ritual as a social mechanism for diagnosing and treating conflict: the ritual gathers the afflicted woman's kin, exposes hidden grudges, and forces public reconciliation. Ritual is not a static expression of structure but a process in which structure is worked out, contested, and sometimes remade. This insight would lead directly to *The Ritual Process* (1969) and to Turner's concepts of liminality and communitas.
+Ritual plays a central role in the book's account of redress. Turner's later analyses of Ndembu rituals of affliction, such as *Isoma*, which is performed for women suffering reproductive troubles (treated fully in *The Drums of Affliction*, 1968), show ritual as a social mechanism for diagnosing and treating conflict: the ritual gathers the afflicted woman's kin, brings out hidden grudges, and works toward public reconciliation. Ritual is not a static expression of structure but a process in which structure is worked out, contested, and sometimes remade. This insight would lead directly to *The Ritual Process* (1969) and to Turner's concepts of liminality and communitas.
 
 ## Reception and Influence
 
-*Schism and Continuity* was recognised immediately as a major contribution, though its dense ethnography made it demanding reading. It established Turner as the leading figure of processual anthropology and provided the empirical foundation for a generation of work on conflict, ritual, and social change. Its influence extended beyond anthropology: the social drama model was taken up in sociology, history, theatre studies, and performance studies, and Turner's later collaboration with the theatre director Richard Schechner grew directly from the ideas first worked out among the Ndembu.
+*Schism and Continuity* was recognised immediately as a major contribution, though its dense ethnography made it demanding reading. It established Turner as the leading figure of processual anthropology and provided the empirical foundation for a generation of work on conflict, ritual, and social change. Its influence extended beyond anthropology: the social drama model was taken up in sociology, history, theatre studies, and performance studies, and Turner's later collaboration with the theatre director Richard Schechner drew on the ideas first worked out among the Ndembu.
 
 Critics have noted the book's limits. Its focus on male headmen and village politics gives women's perspectives less space, and its village-centred frame says little about the colonial state, the copper mines, and the labour migration that shaped Ndembu life in the 1950s. Later scholarship has also questioned whether the fission model applies as neatly to other matrilineal societies. But the book's core achievement stands: it showed that social structure is not a thing societies have but a process they do, and that the anthropologist's task is to follow that process as it happens, quarrel by quarrel and ritual by ritual.
 
@@ -49,7 +47,8 @@ Critics have noted the book's limits. Its focus on male headmen and village poli
 - Turner, Victor W. *The Ritual Process: Structure and Anti-Structure*. Aldine Publishing, 1969.
 - Gluckman, Max. *Custom and Conflict in Africa*. Basil Blackwell, 1955.
 - Turner, Victor W. *The Forest of Symbols: Aspects of Ndembu Ritual*. Cornell University Press, 1967.
+- Turner, Victor W. *The Drums of Affliction: A Study of Religious Processes among the Ndembu of Zambia*. Clarendon Press, 1968.
 - Evens, T. M. S., and Don Handelman, eds. *The Manchester School: Practice and Ethnographic Praxis in Anthropology*. Berghahn Books, 2006.
-- Werbner, Richard P. "The Manchester School in South-Central Africa." *Annual Review of Anthropology*, 1984.
+- Werbner, Richard P. "The Manchester School in South-Central Africa." *Annual Review of Anthropology* 13, 1984.
 - Schechner, Richard. *Performance Theory*. Routledge, 1988.
 - Deflem, Mathieu. "Ritual, Anti-Structure, and Religion: A Discussion of Victor Turner's Processual Symbolic Analysis." *Journal for the Scientific Study of Religion*, 1991.

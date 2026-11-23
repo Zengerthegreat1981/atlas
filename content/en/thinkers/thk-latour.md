@@ -15,18 +15,17 @@ edges:
 related:
   - id: "thk-paul-rabinow", title: "Paul Rabinow", type: "مفكر"
 gaps:
-  - "Application in non-Western scientific contexts"
-  - "Integration with postcolonial science studies"
-  - "Engagement with indigenous knowledge systems"
+  - "Application in non-Western scientific contexts: not yet covered"
+  - "Indigenous knowledge systems: not yet covered"
 ---
 
 # Bruno Latour: Actor-Network Theory and the Anthropology of Science and Technology
 
-Bruno Latour (b. 1947) fundamentally transformed anthropology and science studies through his development of **actor-network theory** (ANT) and his ethnographic studies of science and technology. His groundbreaking ethnography *Laboratory Life: The Social Construction of Scientific Facts* (1979, with Steve Woolgar) demonstrated that scientific knowledge is produced through specific social practices, technologies, and negotiations—not through neutral observation of nature. His theoretical framework, developed across multiple works, insists that networks of human and non-human actors (machines, instruments, animals, texts) collectively produce knowledge, and that understanding any phenomenon requires tracing the associations and translations through which actors are enrolled into networks. His work challenged the notion that science represents nature directly; instead, science is a particular form of knowledge-making shaped by specific practices, instruments, and social negotiations. His approach has enabled anthropologists to study technology, medicine, climate science, and other domains where human and non-human actors collaborate in producing effects.
+Bruno Latour (1947–2022) fundamentally transformed anthropology and science studies through his development of **actor-network theory** (ANT) and his ethnographic studies of science and technology. His groundbreaking ethnography *Laboratory Life: The Social Construction of Scientific Facts* (1979, with Steve Woolgar) demonstrated that scientific knowledge is produced through specific social practices, technologies, and negotiations—not through neutral observation of nature. His theoretical framework, developed across multiple works, insists that networks of human and non-human actors (machines, instruments, animals, texts) collectively produce knowledge, and that understanding any phenomenon requires tracing the associations and translations through which actors are enrolled into networks. His work challenged the notion that science represents nature directly; instead, science is a particular form of knowledge-making shaped by specific practices, instruments, and social negotiations. His approach has enabled anthropologists to study technology, medicine, climate science, and other domains where human and non-human actors collaborate in producing effects.
 
 ## Biographical Context and Intellectual Formation
 
-Bruno Latour was born in Burgundy, France, in 1947. He studied at the École Polytechnique and spent time in the Ivory Coast conducting early fieldwork on scientific development and technology transfer. He later conducted ethnographic research in a laboratory at the Salk Institute in California with Steve Woolgar, which became the basis for *Laboratory Life*. He has held positions at the École des Mines de Paris and the Centre de Sociologie de l'Innovation, and later at Sciences Po (Paris Institute of Political Studies), where he became an influential figure in science and technology studies.
+Bruno Latour was born in Beaune, Burgundy, France, in 1947 and died in Paris in 2022. He trained in philosophy and religious studies (including exegesis) and then did early fieldwork in Côte d'Ivoire on the organisation of work and the transfer of technical expertise. In the mid-1970s he conducted ethnographic research at the Salk Institute in California, where he met Steve Woolgar; this became the basis for *Laboratory Life*. He held positions at the École des Mines de Paris, where he worked in the Centre de Sociologie de l'Innovation, and later at Sciences Po in Paris, becoming one of the most influential figures in science and technology studies.
 
 Latour's intellectual formation combined ethnographic fieldwork traditions with philosophy of science, semiotics, and pragmatism. He was influenced by Michel Serres, whose work on circulation and translation shaped his thinking. His positioning outside mainstream sociology and within science and technology studies enabled him to develop distinctive perspectives on knowledge production.
 
@@ -42,15 +41,15 @@ This methodology showed that science is not a privileged form of knowledge-makin
 
 Latour's publications established actor-network theory and anthropology of science as influential fields:
 
-- **Laboratory Life: The Social Construction of Scientific Facts** (1979, with Steve Woolgar) — His foundational ethnographic study of a neuroendocrinology laboratory, demonstrating how scientific facts are produced through specific practical arrangements, instruments, and social negotiations. Established that science is a human activity, not a transparent window onto nature.
+- **Laboratory Life: The Social Construction of Scientific Facts** (1979, with Steve Woolgar; revised 1986 as *The Construction of Scientific Facts*) — His foundational ethnographic study of a neuroendocrinology laboratory, demonstrating how scientific facts are produced through specific practical arrangements, instruments, and social negotiations. Established that science is a human activity, not a transparent window onto nature.
 
 - **Science in Action: How to Follow Scientists and Engineers through Society** (1987) — Extending ethnographic insights into a broader methodological framework for studying how science and technology shape society. Argues for following scientists and engineers, tracing how they enroll allies, translate interests, and produce effects.
 
-- **We Have Never Been Modern** (1991) — Philosophical work examining how the project of modernity depended on separating nature from culture, and arguing that hybrid networks of humans and non-humans have always constituted social reality.
+- **We Have Never Been Modern** (French 1991; English 1993) — Philosophical work examining how the project of modernity depended on separating nature from culture, and arguing that hybrid networks of humans and non-humans have always constituted social reality.
 
 - **Pandora's Hope: Essays on the Reality of Science Studies** (1999) — Collection of essays on science, technology, knowledge, and politics. Examines how scientific knowledge circulates and produces effects.
 
-- **The Trouble with Standards** (2002) — Examination of how standards, protocols, and technologies stabilize knowledge and shape practice.
+- **Reassembling the Social: An Introduction to Actor-Network-Theory** (2005) — A systematic statement of ANT and its method.
 
 These works established that studying science requires understanding the practical and social networks producing knowledge.
 
@@ -72,7 +71,7 @@ His concept of translation was particularly influential: understanding how netwo
 
 Latour's work has inspired enormous engagement but also generated significant criticism. Some argue that actor-network theory attributes too much agency to non-human objects, potentially obscuring human intentions and power. Others worry that by treating all actors symmetrically, the theory might obscure differences in power and authority.
 
-Some critics have argued that ANT can become overly abstract or technical, losing sight of actual power relations and social structures. Others note that the theory has sometimes been used to naturalize technological arrangements that might be contestable.
+Critics in the "science wars" of the 1990s accused science studies of relativism, and Latour later reflected on the limits of critique in "Why Has Critique Run Out of Steam?" (2004). Some critics have argued that ANT can become overly abstract or technical, losing sight of actual power relations and social structures. Others note that the theory has sometimes been used to naturalize technological arrangements that might be contestable.
 
 However, Latour's influence has been profound and lasting. Contemporary anthropology of science and technology, organization studies, and environmental studies all engage with frameworks he developed.
 
@@ -94,23 +93,17 @@ Contemporary applications extend his framework to digital systems, artificial in
 
 - **Laboratory Life: The Social Construction of Scientific Facts** (1979) — Foundational ethnography of scientific knowledge-production
 - **Science in Action: How to Follow Scientists and Engineers through Society** (1987) — Methodology for studying science and technology
-- **We Have Never Been Modern** (1991) — Philosophical analysis of modernity and hybrid networks
+- **We Have Never Been Modern** (French 1991; English 1993) — Philosophical analysis of modernity and hybrid networks
 - **Pandora's Hope: Essays on the Reality of Science Studies** (1999) — Essays on science, knowledge, and politics
-- **The Trouble with Standards** (2002) — Analysis of how standards stabilize knowledge and practice
-
-## Selected Quotations
-
-> "Science is not nature, but a particular way of organizing knowledge production involving humans, instruments, and other actors." — *Laboratory Life* (1979)
-
-> "To follow scientists and engineers through society is to understand how knowledge is produced and how effects are achieved." — On actor-network methodology
-
-> "Hybrids have always existed, even if modernity tried to deny them." — *We Have Never Been Modern* (1991)
+- **Reassembling the Social** (2005) — Introduction to actor-network theory
+- **Facing Gaia: Eight Lectures on the New Climatic Regime** (2017) — Late work on climate and the Earth system
 
 ## Sources
 
 - Latour, Bruno & Steve Woolgar. *Laboratory Life: The Social Construction of Scientific Facts*. Sage Publications, 1979.
 - Latour, Bruno. *Science in Action: How to Follow Scientists and Engineers through Society*. Harvard University Press, 1987.
-- Latour, Bruno. *We Have Never Been Modern*. Harvard University Press, 1993.
+- Latour, Bruno. *We Have Never Been Modern*. Translated by Catherine Porter. Harvard University Press, 1993.
 - Latour, Bruno. *Pandora's Hope: Essays on the Reality of Science Studies*. Harvard University Press, 1999.
+- Latour, Bruno. *Reassembling the Social: An Introduction to Actor-Network-Theory*. Oxford University Press, 2005.
 - Callon, Michel, John Law & Arie Rip (eds.). *Mapping the Dynamics of Science and Technology: Sociology of Science in the Real World*. Macmillan, 1986.
 

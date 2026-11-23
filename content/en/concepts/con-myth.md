@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Narrative expressing cultural truths"
+  []
 ---
 
 # Myth

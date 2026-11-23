@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Ranked ordering of social positions"
+  []
 ---
 
 # Hierarchy: The Ranking of Persons, Groups, and Things
@@ -42,7 +42,7 @@ Hierarchy is also expressed through the body. Who bows to whom, who speaks first
 
 Hierarchy is at the centre of current debates about inequality. One debate concerns whether hierarchy is natural or historical: evolutionary psychologists argue that humans have an innate tendency to form dominance hierarchies, while anthropologists point to the many societies that have lived without them and to the constant work required to maintain them.
 
-A third debate concerns the hierarchies of the present: the corporate ladder, the academic pecking order, the ranking of nations and universities by league tables. Anthropologists argue that these are not neutral measures of merit but cultural artefacts, built on particular values and serving particular interests.
+A second debate concerns the hierarchies of the present: the corporate ladder, the academic pecking order, the ranking of nations and universities by league tables. Anthropologists argue that these are not neutral measures of merit but cultural artefacts, built on particular values and serving particular interests.
 
 ## Sources
 

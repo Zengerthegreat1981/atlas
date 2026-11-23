@@ -12,8 +12,8 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
   - rel: "written_by", target: "Malinowski", target_type: "مفكر"
 related:
-gaps:
-  - "Pioneering ethnography establishing fieldwork standards"
+  []
+gaps: []
 ---
 
 # Argonauts of the Western Pacific
@@ -22,7 +22,7 @@ gaps:
 
 ## The Fieldwork and Its Method
 
-Malinowski arrived in the Trobriands as an enemy alien stranded by the outbreak of the First World War, and he turned that accident into a methodological revolution. Earlier anthropology had relied on travellers' reports, missionary accounts, and questionnaires answered by informants at a distance. Malinowski pitched his tent among the villagers of Omarakana, learned the Kiriwinian language, and stayed for years. In the book's opening chapters he sets out what became the charter of ethnographic fieldwork: the ethnographer must grasp the native's point of view, his relation to life, and his vision of his world. He distinguishes three kinds of evidence the ethnographer must gather — the organisation of the tribe and the anatomy of its culture, recorded in concrete, statistical documentation; the "imponderabilia of actual life", the small routines of daily behaviour that can only be captured by living among people; and a corpus of native statements, narratives, and magical formulae recorded in the vernacular. This threefold programme, stated in the introduction, became the template for a century of ethnographic monographs.
+Malinowski, an Austro-Hungarian subject, found himself in British-ruled Australasia when the First World War broke out, and he turned this circumstance into a methodological revolution. Earlier anthropology had relied on travellers' reports, missionary accounts, and questionnaires answered by informants at a distance. Malinowski pitched his tent among the villagers of Omarakana, learned the Kiriwinian language, and stayed for years. In the book's opening chapters he sets out what became the charter of ethnographic fieldwork: the ethnographer must grasp the native's point of view, his relation to life, and his vision of his world. He distinguishes three kinds of evidence the ethnographer must gather — the organisation of the tribe and the anatomy of its culture, recorded in concrete, statistical documentation; the "imponderabilia of actual life", the small routines of daily behaviour that can only be captured by living among people; and a corpus of native statements, narratives, and magical formulae recorded in the vernacular. This threefold programme, stated in the introduction, became the template for a century of ethnographic monographs.
 
 ## The Kula Ring
 

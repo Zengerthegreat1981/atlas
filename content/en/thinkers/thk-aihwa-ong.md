@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Aihwa Ong"
 en: "Aihwa Ong"
 crumb: "Anthropology ← Contemporary East Asian Anthropology ← Aihwa Ong"
-dates: "Singapore-USA · 1951-"
+dates: "Malaysia-USA · 1950-"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
@@ -18,13 +18,13 @@ gaps:
 
 # Aihwa Ong
 
-Aihwa Ong (born 1950) is a Malaysian-born American anthropologist and professor emerita at the University of California, Berkeley, and one of the most influential theorists of globalisation, citizenship, and neoliberalism. Across five books she combined close ethnographic fieldwork with critical theory, moving from factory women in Malaysia to transnational Chinese elites, Southeast Asian refugees in California, and the biotechnology hubs of Singapore. Her concepts of "flexible citizenship" and "neoliberalism as exception" reshaped how anthropologists, geographers, and migration scholars think about sovereignty and belonging in a globalised world.
+Aihwa Ong (born 1950) is a Malaysian-born American anthropologist at the University of California, Berkeley, and one of the most influential theorists of globalisation, citizenship, and neoliberalism. Across several books she combined close ethnographic fieldwork with critical theory, moving from factory women in Malaysia to transnational Chinese elites, Southeast Asian refugees in California, and the biotechnology hubs of Singapore. Her concepts of "flexible citizenship" and "neoliberalism as exception" reshaped how anthropologists, geographers, and migration scholars think about sovereignty and belonging in a globalised world.
 
 ## Life and Career
 
-Ong was born on 1 February 1950 in George Town, Penang, in the Federation of Malaya, to a Straits Chinese family. She moved to the United States for her higher education, receiving a bachelor's degree in anthropology from Barnard College in 1974 and a doctorate in anthropology from Columbia University in 1982. She began her teaching career as a visiting lecturer at Hampshire College from 1982 to 1984, then joined the Department of Anthropology at the University of California, Berkeley, in 1984, where she remained for her whole career, eventually holding the Robert H. Lowie Distinguished Chair in Anthropology and chairing Asian Studies. She is now professor emerita at Berkeley.
+Ong was born in 1950 in Malaysia (then the Federation of Malaya) into an ethnic Chinese family. She moved to the United States for her higher education and received her doctorate in anthropology from Columbia University. She joined the Department of Anthropology at the University of California, Berkeley, in the 1980s, where she has held the Robert H. Lowie Distinguished Chair in Anthropology.
 
-Her career unfolded alongside the transformation of Southeast Asia: the industrialisation of Malaysia, the rise of the East Asian economies, the movement of refugees after the wars in Indochina, and the emergence of Singapore and China as centres of biotechnology. Each of these changes became the subject of one of her books, and her work is unusual in the way it moves between fine-grained ethnography and large-scale theorising about global capitalism.
+Her career unfolded alongside the transformation of Southeast Asia: the industrialisation of Malaysia, the rise of the East Asian economies, the movement of refugees after the wars in Indochina, and the emergence of Singapore and China as centres of biotechnology. Each of these changes became the subject of her research, and her work is unusual in the way it moves between fine-grained ethnography and large-scale theorising about global capitalism.
 
 ## Key Works
 

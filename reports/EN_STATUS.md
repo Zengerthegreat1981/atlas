@@ -148,3 +148,9 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
 - Scope `reports/scope/bridges-scope.md`: 107 entries translated by Haiku from AR assets (relations between psychotherapy schools, bridge concepts, thinkers,
   works, questions), plus the root `fld-bridges`; all 108 fact-checked by Sonnet (fabricated quotations/lineages removed, comparisons not presented as proven influence).
 - Reading paths auto-generated. Same caveat: machine-assisted; human review required.
+
+---
+# Pass 13 — Anthropology v1 (2026-11-23), Haiku translation + Sonnet fact-check
+- Scope `reports/scope/anthropology-scope.md`: 95 entries translated by Haiku from AR assets, 4 field intros by Sonnet (`fld-anthropology` root, ethnography/fieldwork ethics, kinship/exchange/economy, power/state/politics); all 451 module files fact-checked by Sonnet (many invented citations, quotations, fieldwork details and biographies removed or rewritten; see `reports/scope/corrections.txt`).
+- Five unusable stubs (con-division-labor, thk-abdalla-salem, thk-akira-fujii, thk-ming-ming-kuo, thk-sergio-carrasco) moved to `content/en/drafts/` (not built); release check is CLEAN.
+- Reading paths auto-generated. Machine-assisted content; specialist review required.

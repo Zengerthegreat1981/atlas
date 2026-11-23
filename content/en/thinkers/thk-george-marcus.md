@@ -16,18 +16,16 @@ related:
   - id: "thk-james-clifford", title: "James Clifford", type: "مفكر"
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
 gaps:
-  - "Methodological challenges in multi-sited fieldwork"
-  - "Relationship between multi-sited and collaborative methodologies"
-  - "Application in indigenous research contexts"
+  - "Relationship between multi-sited and collaborative methodologies: not yet covered"
 ---
 
 # George Marcus: Multi-Sited Ethnography and Experimental Forms
 
-George Marcus (b. 1946) revolutionized ethnographic methodology by arguing that twentieth-century social realities could no longer be adequately studied through single-site, community-based fieldwork. His influential essay "Ethnography in/of the World System" (1989) and extended work in *Ethnography Through Thick and Thin* (1998) proposed **multi-sited ethnography** as a method for studying globally distributed phenomena—corporations, social movements, elite networks, material flows—that span multiple locations. Rather than embedding oneself in one community, multi-sited ethnographers follow connections, trace material movements, and conduct fieldwork across multiple sites linked by networks, commodities, capital, or ideas. This methodological innovation responded to transformations in late capitalism, transnational migration, and globally connected systems in which culture cannot be understood through localized study. Marcus also championed **experimental ethnography**—seeking new literary and narrative forms to represent anthropological knowledge beyond traditional monographic conventions.
+George Marcus (b. 1946) revolutionized ethnographic methodology by arguing that twentieth-century social realities could no longer be adequately studied through single-site, community-based fieldwork. His influential essay "Ethnography in/of the World System" (1995) and extended work in *Ethnography Through Thick and Thin* (1998) proposed **multi-sited ethnography** as a method for studying globally distributed phenomena—corporations, social movements, elite networks, material flows—that span multiple locations. Rather than embedding oneself in one community, multi-sited ethnographers follow connections, trace material movements, and conduct fieldwork across multiple sites linked by networks, commodities, capital, or ideas. This methodological innovation responded to transformations in late capitalism, transnational migration, and globally connected systems in which culture cannot be understood through localized study. Marcus also championed **experimental ethnography**—seeking new literary and narrative forms to represent anthropological knowledge beyond traditional monographic conventions.
 
 ## Biographical Context and Intellectual Formation
 
-George Marcus was born in New York in 1946 and received his doctorate from Harvard University. He held positions at Rice University and the University of Chicago before becoming Distinguished Professor of Anthropology at UC Irvine. His career spanned periods of significant change in anthropology—from structural-functionalist dominance through postcolonial critique to contemporary engagement with globalization and digital media. He was influenced by the "Writing Culture" movement and by questions about how anthropology could address globally interconnected phenomena in the late twentieth century.
+George Marcus received his doctorate from Harvard University in 1976. He taught at Rice University for many years, where he chaired the anthropology department, before becoming Chancellor's Professor of Anthropology at the University of California, Irvine. His career spanned periods of significant change in anthropology—from structural-functionalist dominance through postcolonial critique to contemporary engagement with globalization and digital media. He co-edited, with James Clifford, *Writing Culture: The Poetics and Politics of Ethnography* (1986) and wrote, with Michael M. J. Fischer, *Anthropology as Cultural Critique* (1986), and he was concerned with questions about how anthropology could address globally interconnected phenomena in the late twentieth century.
 
 Marcus's intellectual formation combined ethnographic tradition with critical engagement with media studies, literary theory, and science and technology studies (STS). This interdisciplinary positioning enabled him to develop methodologies responsive to the increasingly mediatized, technologically mediated character of social life. His work has consistently pushed anthropological boundaries, experimenting with new forms of representation and new sites of ethnographic study.
 
@@ -35,7 +33,7 @@ Marcus's intellectual formation combined ethnographic tradition with critical en
 
 Marcus's central methodological innovation was **multi-sited ethnography**, an approach designed to study social processes and phenomena that are distributed across multiple locations and scales. Rather than selecting one bounded community and studying it intensively, multi-sited ethnographers follow connections—tracing how people, commodities, capital, ideas, or practices move across sites and networks.
 
-His key innovations included: (1) **following the people**—tracking subjects as they move across locations and institutions; (2) **following the thing**—tracing commodities, artworks, or objects through production, circulation, and consumption; (3) **following the metaphor**—tracking how key concepts or frameworks circulate and are deployed across contexts; (4) **following the plot/story**—pursuing narratives and accounts as they circulate and are contested; (5) **following the life or biography**—examining how things, concepts, or people transform as they move through time and space.
+His key innovations included: (1) **following the people**—tracking subjects as they move across locations and institutions; (2) **following the thing**—tracing commodities, artworks, or objects through production, circulation, and consumption; (3) **following the metaphor**—tracking how key concepts or frameworks circulate and are deployed across contexts; (4) **following the plot/story**—pursuing narratives and accounts as they circulate and are contested; (5) **following the life or biography**—examining how things, concepts, or people transform as they move through time and space; and (6) **following the conflict**—tracing disputes as they extend across sites.
 
 This methodology required abandoning the notion of a bounded, localized "field." Instead, the field became a network, a trajectory, a set of connections. The ethnographer became a mobile practitioner conducting research in multiple sites, using fieldwork relations formed in one location to gain access to others, creating coherence across sites through narrative and analytical practice rather than through geographic proximity.
 
@@ -47,19 +45,21 @@ Marcus's publications established multi-sited ethnography as a central methodolo
 
 - **Ethnography Through Thick and Thin** (1998) — His most comprehensive methodological treatise, articulating multi-sited ethnography in detail, providing examples, and exploring its ethical implications and practical challenges. Argues for "thick" ethnography adapted to globally distributed phenomena.
 
-- **Ethnography in/of the World System** (1989) — Influential essay proposing multi-sited ethnography in response to late capitalism and global interconnections. Argues that ethnography must follow phenomena across multiple sites to understand contemporary social processes.
+- **Ethnography in/of the World System** (1995) — Influential essay proposing multi-sited ethnography in response to late capitalism and global interconnections. Argues that ethnography must follow phenomena across multiple sites to understand contemporary social processes.
 
-- **Parasites and Satellites in Global Systems** (1999) — Application of multi-sited methodology to understanding transnational systems and elite networks.
+- **Writing Culture: The Poetics and Politics of Ethnography** (1986, edited with James Clifford) and **Anthropology as Cultural Critique** (1986, with Michael M. J. Fischer) — Foundational texts of the critique of ethnographic representation and the call for experimental forms.
 
-- **Futures of the Ethnographic Imagination** (2009) — Extending multi-sited ethnography to emerging contexts including digital media, virtual worlds, and speculative fiction. Explores experimental forms for representing complex social phenomena.
+- **Lives in Trust: The Fortunes of Dynastic Families in Late Twentieth-Century America** (1992, with Peter Dobkin Hall) — A study of wealthy American families and their trusts, an example of ethnographic work on elites.
 
-- **The End of the Experiment: Anthropology and the Twenty-First Century** (2013) — Reflections on anthropology's future in contexts of radical uncertainty and global change. Advocates for renewed commitment to ethnographic imagination and experimental forms.
+- **Para-Sites: A Casebook against Cynical Reason** (2000, edited) — A volume of experiments with para-sites and alternative ethnographic forms.
+
+- **Fieldwork Is Not What It Used to Be: Learning Anthropology's Method in a Time of Transition** (2009, edited with James D. Faubion) — Essays on changing conditions of fieldwork.
 
 These works established multi-sited methodology as a response to social complexity and transformation.
 
 ## Fieldwork Practice: Tracing Global Connections and Networks
 
-Marcus's fieldwork practice exemplified multi-sited methodology. Rather than settling in one location, his research involved moving across sites—homes, institutions, offices, laboratories—tracing how people, ideas, and capital circulated. His work on elite families involved conducting interviews and observations with wealthy families across multiple countries and institutions, understanding their networks and investments. His work on scientists and technologists involved fieldwork in laboratories, conferences, corporate research facilities, and policy-making spaces.
+Marcus's fieldwork practice exemplified multi-sited methodology. Rather than settling in one location, his research involved moving across sites—homes, institutions, offices, laboratories—tracing how people, ideas, and capital circulated. His work on elite families involved interviews and observation of wealthy American families, their lawyers, and trust institutions, tracing the networks through which dynastic wealth is managed. He also edited volumes on the study of technoscience and of the imaginaries of contemporary institutions.
 
 This fieldwork practice required developing different research relationships at different sites, negotiating access and rapport in multiple contexts, and creating analytical coherence across dispersed locations. It demanded flexibility and responsiveness, as the ethnographer followed connections wherever they led rather than remaining anchored to a single community. It also required careful attention to how connections themselves were constructed and maintained—understanding not just what circulated but how circulation was organized and controlled.
 
@@ -93,25 +93,21 @@ Multi-sited ethnography has become central to contemporary anthropology, particu
 
 Challenges remain: How can multi-sited ethnography ensure meaningful community engagement? How can it avoid reproducing hierarchies while studying across scales? How can ethnographers maintain ethical accountability across dispersed sites? Marcus's later work has engaged with these questions, advocating for attentive, ethical, and imaginative multi-sited ethnographic practice.
 
-Contemporary applications extend Marcus's approach to digital ethnography, studying how social phenomena unfold across online and offline spaces; to studying climate change impacts across multiple sites; and to examining how global systems affect local communities. The methodology has proven adaptable and generative.
+Multi-sited methods have since been applied to migration, technology, commodity chains, and transnational institutions.
 
 ## Major Works
 
 - **Ethnography Through Thick and Thin** (1998) — Comprehensive exposition of multi-sited ethnography with examples, challenges, and ethical implications
-- **Ethnography in/of the World System** (1989) — Influential essay proposing multi-sited approach to globally distributed phenomena
-- **Futures of the Ethnographic Imagination** (2009) — Extension of multi-sited methodology to digital media and speculative contexts
-- **The End of the Experiment: Anthropology and the Twenty-First Century** (2013) — Reflections on anthropology's future and commitment to ethnographic imagination
-
-## Selected Quotations
-
-> "The multi-sited ethnographer is always on the move, following connections, tracing how phenomena circulate and connect across spaces and scales." — *Ethnography Through Thick and Thin* (1998)
-
-> "Ethnography must follow people, things, metaphors, plots, and lives across multiple sites to understand contemporary social processes." — On multi-sited methodology
+- **Ethnography in/of the World System** (1995) — Influential essay proposing multi-sited approach to globally distributed phenomena
+- **Writing Culture** (1986, co-editor) and **Anthropology as Cultural Critique** (1986, with Fischer) — Critique of ethnographic representation
+- **Lives in Trust** (1992, with Hall) — Ethnography of dynastic families
 
 ## Sources
 
 - Marcus, George E. *Ethnography Through Thick and Thin*. Princeton University Press, 1998.
 - Marcus, George E. "Ethnography in/of the World System: The Emergence of Multi-Sited Ethnography." *Annual Review of Anthropology* 24 (1995): 95-117.
-- Marcus, George E. *Futures of the Ethnographic Imagination*. University of Chicago Press, 2009.
-- Marcus, George E. *The End of the Experiment: Anthropology and the Twenty-First Century*. University of Chicago Press, 2013.
+- Clifford, James, and George E. Marcus, eds. *Writing Culture: The Poetics and Politics of Ethnography*. University of California Press, 1986.
+- Marcus, George E., and Michael M. J. Fischer. *Anthropology as Cultural Critique*. University of Chicago Press, 1986.
+- Marcus, George E., and Peter Dobkin Hall. *Lives in Trust: The Fortunes of Dynastic Families in Late Twentieth-Century America*. Westview Press, 1992.
+- Faubion, James D., and George E. Marcus, eds. *Fieldwork Is Not What It Used to Be*. Cornell University Press, 2009.
 - Falzon, Mark-Anthony (ed.). *Multi-Sited Ethnography: Theory, Praxis and Locality in Contemporary Research*. Ashgate, 2009.

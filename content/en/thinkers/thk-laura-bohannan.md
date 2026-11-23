@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Laura Bohannan"
 en: "Laura Bohannan"
 crumb: "Anthropology ← Economic Anthropology ← Laura Bohannan"
-dates: "USA · 1913-2010"
+dates: "USA · 1922–2002"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
@@ -22,15 +22,15 @@ Laura Bohannan (1922–2002) was an American cultural anthropologist whose work 
 
 ## Life and Career
 
-Bohannan was born Laura Marie Altman Smith in 1922. She studied at the University of Arizona and then at Oxford University, where she trained in the British structural-functionalist tradition under E. E. Evans-Pritchard. On 15 May 1943 she married the anthropologist Paul Bohannan; the marriage ended in divorce in 1975.
+Bohannan was born in 1922. She studied in the United States and then at Oxford University, where she trained in the British structural-functionalist tradition and worked with E. E. Evans-Pritchard. She married the anthropologist Paul Bohannan in the 1940s; the marriage later ended in divorce.
 
-From 1949 to 1953, on and off, she and Paul lived among the Tiv of central Nigeria, in the last years of British colonial rule. She concentrated on kinship, religion, and the daily life of women, while Paul studied economy and law; together they produced one of the most complete ethnographic portraits of a single African society. After the fieldwork she taught at Northwestern University, the University of Chicago, and the University of Illinois at Chicago, where she was a professor of anthropology. From 1970 to 1973 she served as editor of *American Anthropologist*, the flagship journal of the American Anthropological Association. She retired from teaching in 1990 and died of a heart attack at her home in Chicago on 19 March 2002.
+From 1949 to 1953 (in two periods), she and Paul lived among the Tiv of central Nigeria, in the last years of British colonial rule. She concentrated on kinship, religion, and the daily life of women, while Paul studied economy and law; together they contributed to one of the fullest ethnographic portraits of a single African society. After the fieldwork she taught at several American universities, including the University of Illinois at Chicago, where she was a professor of anthropology. She died on 19 March 2002.
 
 ## Key Works
 
-Her first and most personal book was *Return to Laughter: An Anthropological Novel* (1954), published under the pen name Elenore Smith Bowen. Written as a novel, it recounts her fieldwork among the Tiv — the loneliness, the illness, the misunderstandings, and her growing entanglement with Tiv ideas about witchcraft — in a voice that the ethnographic writing of the time did not allow. Margaret Mead called it the first introspective account ever published of what it is like to be a fieldworker.
+Her first and most personal book was *Return to Laughter: An Anthropological Novel* (1954), published under the pen name Elenore Smith Bowen. Written as a novel, it recounts her fieldwork among the Tiv — the loneliness, the illness, the misunderstandings, and her growing entanglement with Tiv ideas about witchcraft — in a voice that the ethnographic writing of the time did not allow.
 
-Her best-known work is the essay "Shakespeare in the Bush" (1966), first published in *Natural History* magazine. In it she describes telling the story of *Hamlet* to a group of Tiv elders, and discovering that they understood it entirely differently: Hamlet's mother's swift remarriage seemed sensible to them, since a widow should marry her husband's brother, and the ghost of Hamlet's father was no mystery, since the dead naturally appear to the living. The essay became one of the most reprinted and most taught texts in anthropology.
+Her best-known work is the essay "Shakespeare in the Bush" (1966), first published in *Natural History* magazine. In it she describes telling the story of *Hamlet* to a group of Tiv elders, and discovering that they understood it entirely differently: Hamlet's mother's swift remarriage seemed sensible to them, since a widow should marry her husband's brother, while the elders rejected the idea that a dead man could walk as a ghost, and read the apparition as an omen or as a witch's trick. The essay became one of the most reprinted and most taught texts in anthropology.
 
 Her scholarly works include *The Tiv of Central Nigeria* (1953), written with Paul Bohannan, and *Tiv Economy* (1968), also with Paul, the analytical study of the Tiv system of exchange.
 
@@ -48,12 +48,12 @@ Together, the two works show the two sides of Bohannan's contribution: the demon
 
 Her work was not without criticism. Some colleagues argued that the novelistic form of *Return to Laughter* made it impossible to verify the ethnographic details, and that the line between fact and invention was too blurred for a scientific text. Others questioned whether the Hamlet episode, as charming as it is, proves as much as is often claimed — whether a single evening's storytelling can carry the weight of a general theory of cultural difference. These objections have not diminished the work's standing; they have become part of how it is taught, as an invitation to think about the limits of ethnographic authority as well as its possibilities.
 
-Bohannan's quieter legacy lies in her collaborative work with Paul Bohannan on the Tiv, and in her editorial leadership of *American Anthropologist* in the early 1970s, a period when the discipline was rethinking its methods and its politics. She showed that anthropology could be written with literary skill and personal honesty without ceasing to be scholarship — and that a short essay, well told, can teach more than a monograph.
+Bohannan's quieter legacy lies in her collaborative work with Paul Bohannan on the Tiv. She showed that anthropology could be written with literary skill and personal honesty without ceasing to be scholarship — and that a short essay, well told, can teach more than a monograph.
 
 ## Sources
 
 - Bohannan, Laura, and Paul Bohannan. *The Tiv of Central Nigeria*. International African Institute, 1953.
-- Bowen, Elenore Smith (Laura Bohannan). *Return to Laughter: An Anthropological Novel*. Victor Gollancz, 1954; Doubleday, 1964.
+- Bowen, Elenore Smith (Laura Bohannan). *Return to Laughter: An Anthropological Novel*. Harper, 1954; Victor Gollancz, 1956; Doubleday Anchor, 1964.
 - Bohannan, Paul. *Justice and Judgment among the Tiv*. Oxford University Press, 1957.
 - Bohannan, Laura. "Shakespeare in the Bush." *Natural History* 75, August–September 1966, pp. 28–33.
 - Bohannan, Paul, and Laura Bohannan. *Tiv Economy*. Northwestern University Press, 1968.

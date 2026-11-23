@@ -22,7 +22,7 @@ Social reproduction is the process by which a society maintains and renews itsel
 
 ## Definition
 
-The term is used in two closely related senses. In the Marxist sense, it refers to the reproduction of the conditions of production themselves. Marx argued in *Capital* (1867) that capitalism must reproduce not only commodities but also labour power, the capacity of workers to work, and the social relations that keep workers dependent on wages. This includes the daily renewal of the worker's strength through food, rest, and shelter, and the generational replacement of the workforce through childbirth and child-rearing. In the second, broader sense, developed by feminist theory, social reproduction covers all the activities involved in maintaining life on a daily basis and across generations. Barbara Laslett and Johanna Brenner's widely cited definition (1989) describes it as the various kinds of work — mental, manual, and emotional — aimed at providing the care necessary to maintain existing life and to reproduce the next generation. The two senses overlap but differ in emphasis: the Marxist version stresses the reproduction of the economic system, while the feminist version stresses the reproduction of human life and relationships, much of it unpaid and performed by women.
+The term is used in two closely related senses. In the Marxist sense, it refers to the reproduction of the conditions of production themselves. Marx argued in *Capital* (1867) that capitalism must reproduce not only commodities but also labour power, the capacity of workers to work, and the social relations that keep workers dependent on wages. This includes the daily renewal of the worker's strength through food, rest, and shelter, and the generational replacement of the workforce through childbirth and child-rearing. In the second, broader sense, developed by feminist theory, social reproduction covers all the activities involved in maintaining life on a daily basis and across generations. Barbara Laslett and Johanna Brenner's widely cited account (1989) treats it as the activities, attitudes, behaviours, emotions, responsibilities, and relationships directly involved in maintaining life on a daily basis and from one generation to the next. The two senses overlap but differ in emphasis: the Marxist version stresses the reproduction of the economic system, while the feminist version stresses the reproduction of human life and relationships, much of it unpaid and performed by women.
 
 ## Origins and Development
 
@@ -41,5 +41,7 @@ Social reproduction has become a central concept for understanding the crises of
 - Marx, Karl. *Capital*, Volume 1. 1867.
 - Bourdieu, Pierre, and Jean-Claude Passeron. *Reproduction in Education, Society and Culture*. 1970.
 - Bowles, Samuel, and Herbert Gintis. *Schooling in Capitalist America*. 1976.
-- Laslett, Barbara, and Johanna Brenner. "Gender and Social Reproduction: Historical Perspectives." 1989.
-- Fraser, Nancy. "Contradictions of Capital and Care." 2016.
+- Laslett, Barbara, and Johanna Brenner. "Gender and Social Reproduction: Historical Perspectives." *Annual Review of Sociology* 15 (1989).
+- Dalla Costa, Mariarosa, and Selma James. *The Power of Women and the Subversion of the Community*. 1972.
+- Fraser, Nancy. "Contradictions of Capital and Care." *New Left Review* 100 (2016).
+- Hochschild, Arlie Russell. "Global Care Chains and Emotional Surplus Value." In *On the Edge: Living with Global Capitalism*, eds. Will Hutton and Anthony Giddens. 2000.

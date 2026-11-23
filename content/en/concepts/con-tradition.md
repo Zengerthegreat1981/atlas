@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Tradition and heritage politics"
-  - "Invented traditions in new states"
-  - "Tradition in diaspora communities"
+  []
 ---
 
 # Tradition: The Transmission of the Past into the Present
@@ -30,7 +28,7 @@ Edward Shils, in *Tradition* (1981), gave the concept its fullest treatment. Tra
 
 ## Key Theoretical Contributions
 
-Eric Hobsbawm and Terence Ranger, in *The Invention of Tradition* (1983), transformed the study of tradition by showing that many traditions are not ancient at all. The Highland kilt, the royal Christmas broadcast, the rituals of the British monarchy, the folk dances of new nations — all were invented in the nineteenth and twentieth centuries, often quite recently, and then presented as if they were old. Hobsbawm's distinction was between genuine traditions, which have a real continuity with the past, and invented traditions, which claim such a continuity in order to legitimize new institutions. His work showed that tradition is a political resource: those who can define what is traditional can define what is legitimate.
+Eric Hobsbawm and Terence Ranger, in *The Invention of Tradition* (1983), transformed the study of tradition by showing that many traditions are not ancient at all. The Highland kilt, the royal Christmas broadcast, the rituals of the British monarchy, the folk dances of new nations — all were invented in the nineteenth and twentieth centuries, often quite recently, and then presented as if they were old. Hobsbawm's distinction was between genuine traditions, which have a real continuity with the past, and invented traditions, which claim such a continuity in order to legitimize new institutions. His work showed that tradition is a political resource: those who can define what is traditional can define what is legitimate. The contributors to the volume also showed that colonial rulers and new states alike drew on invented traditions — national ceremonies, costumes, and emblems — to build legitimacy, as Ranger's chapter on colonial Africa illustrates.
 
 Anthony Giddens, in "Living in a Post-Traditional Society" (1994), argued that modern societies are becoming post-traditional: tradition no longer dictates how people live, and individuals must reflexively choose their identities, relationships, and beliefs. But Giddens insisted that this does not mean tradition disappears. Traditions persist, but they must now be justified: they survive because people choose them, not because they are unquestioned. In a post-traditional society, tradition is one option among others, and its authority depends on its ability to persuade.
 

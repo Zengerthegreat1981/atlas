@@ -11,9 +11,7 @@ dates: ""
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
-gaps:
-  - "Climate adaptation strategies"
-  - "Rapid technological change"
+gaps: []
 ---
 
 # Adaptation

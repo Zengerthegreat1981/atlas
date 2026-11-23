@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Hegemony and digital platforms"
-  - "Hegemony in postcolonial states"
-  - "Counter-hegemony and social movements"
+  - "Hegemony in postcolonial states: not yet covered"
 ---
 
 # Hegemony: Rule by Consent as Well as Coercion

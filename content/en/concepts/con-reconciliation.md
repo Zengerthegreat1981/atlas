@@ -24,7 +24,7 @@ Reconciliation is the process by which individuals, communities, or societies re
 
 Reconciliation became a central concept in the study of conflict in the late twentieth century, as civil wars, genocides, and apartheid came to an end and societies faced the question of what should happen next. South Africa's Truth and Reconciliation Commission, chaired by Archbishop Desmond Tutu in the mid-1990s, became the most famous model. Tutu argued in *No Future Without Forgiveness* (1999) that a society emerging from systematic oppression could neither ignore the past nor pursue vengeance against every perpetrator; it needed a public process in which victims could tell their stories, perpetrators could confess, and amnesty could be exchanged for truth. The South African model spread around the world, adapted in countries as different as Rwanda, Sierra Leone, and East Timor.
 
-Peace researcher John Paul Lederach gave the concept its most influential theoretical formulation in *Building Peace: Sustainable Reconciliation in Divided Societies* (1997). Lederach argued that reconciliation is not a single event but a long-term process, and that it must work simultaneously on four levels: truth, the acknowledgement of what happened; mercy, the willingness to forgive; justice, the restoration of right relationships; and peace, the rebuilding of security and interdependence. For Lederach, reconciliation is fundamentally relational: it is about transforming the relationships between enemies, not only about punishing offenders or compensating victims.
+Peace researcher John Paul Lederach gave the concept its most influential theoretical formulation in *Building Peace: Sustainable Reconciliation in Divided Societies* (1997). Lederach argued that reconciliation is not a single event but a long-term process, and that it must hold together four elements: truth, the acknowledgement of what happened; mercy, the willingness to forgive; justice, the restoration of right relationships; and peace, the rebuilding of security and interdependence. For Lederach, reconciliation is fundamentally relational: it is about transforming the relationships between enemies, not only about punishing offenders or compensating victims.
 
 ## Truth, Justice, and Forgiveness
 
@@ -48,4 +48,4 @@ Reconciliation remains a pressing concern in the twenty-first century. Post-conf
 - Martha Minow, *Between Vengeance and Forgiveness: Facing History After Genocide and Mass Violence* (1998).
 - Desmond Tutu, *No Future Without Forgiveness* (1999).
 - David Bloomfield, Teresa Barnes, and Luc Huyse, eds., *Reconciliation After Violent Conflict: A Handbook* (2003).
-- Brandon Hamber and Gráinne Kelly, "Reconciliation: A Working Definition" (2004).
+- Brandon Hamber and Grainne Kelly, "A Working Definition of Reconciliation" (Democratic Dialogue, Belfast, 2004).

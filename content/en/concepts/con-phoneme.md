@@ -12,7 +12,7 @@ crumb: "Linguistics ← Concepts ← Phoneme"
 dates: "Prague · from 1926"
 language: "Multilingual (general theoretical concept)"
 active_start: 1926
-active_end: "ongoing"
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Prague Linguistic Circle", target_type: "مدرسة"
 related:

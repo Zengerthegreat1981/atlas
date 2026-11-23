@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Assimilation and second-generation youth"
-  - "Assimilation policies in Europe"
-  - "Assimilation and religious identity"
+  - "Assimilation and religious identity: not yet covered"
 ---
 
 # Assimilation: Becoming Part of the Mainstream
@@ -34,13 +32,13 @@ That assumption was challenged as it became clear that assimilation worked very 
 
 **Milton M. Gordon** (1918–2019) refined the concept in *Assimilation in American Life* (1964), distinguishing seven stages: cultural assimilation (adopting the host culture), structural assimilation (entering its institutions and social networks), marital assimilation, identificational assimilation, and others. Gordon argued that cultural assimilation could occur without structural assimilation: a group might speak English and celebrate American holidays yet remain excluded from jobs, neighbourhoods, and friendship circles. Structural assimilation, he insisted, is the decisive stage, and it is the one that has most often been blocked.
 
-**Richard Alba** (born 1942) and **Victor Nee** (born 1945) reformulated the theory in *Remaking the American Mainstream* (2003), arguing that assimilation is not a one-way absorption but a mutual remaking: immigrants change the mainstream even as they join it. They showed that the American mainstream itself has been repeatedly redefined — by the incorporation of Catholics, Jews, and Southern Europeans — and that contemporary immigrants are reshaping it again. Their account restores agency to immigrants and treats assimilation as an open-ended process.
+**Richard Alba** and **Victor Nee** reformulated the theory in *Remaking the American Mainstream* (2003), arguing that assimilation is not a one-way absorption but a mutual remaking: immigrants change the mainstream even as they join it. They showed that the American mainstream itself has been repeatedly redefined — by the incorporation of Catholics, Jews, and Southern Europeans — and that contemporary immigrants are reshaping it again. Their account restores agency to immigrants and treats assimilation as an open-ended process.
 
 **Rogers Brubaker** (born 1956) questioned the concept itself in "The Return of Assimilation?" (2001), noting that scholars had abandoned assimilation in the 1970s and 1980s as ethnocentric, only to return to it when multiculturalism seemed to fail. Brubaker argued for a leaner use of the term — as a general, abstract process of becoming similar — stripped of its normative demand that minorities must conform, and distinguished from the specific policies that states call assimilation.
 
 ## Ethnographic Examples
 
-Fieldwork complicates any simple story of assimilation. Second-generation youth often navigate between worlds: speaking the host language at school and the heritage language at home, adopting new tastes while keeping family obligations. In France, the republican model has demanded cultural assimilation — above all secularism in public schools — while North African-origin citizens report persistent exclusion from jobs and housing. In the United States, segmented assimilation theory describes three paths: upward assimilation into the middle class, downward assimilation into marginalized urban poverty, and selective acculturation, in which immigrants preserve community ties and bilingualism as resources for advancement. Which path a group follows depends less on culture than on the resources, networks, and reception it encounters.
+Fieldwork complicates any simple story of assimilation. Second-generation youth often navigate between worlds: speaking the host language at school and the heritage language at home, adopting new tastes while keeping family obligations. In France, the republican model has demanded cultural assimilation — above all secularism in public schools — while North African-origin citizens report persistent exclusion from jobs and housing. In the United States, segmented assimilation theory (Portes and Zhou, 1993) describes three paths: upward assimilation into the middle class, downward assimilation into marginalized urban poverty, and selective acculturation, in which immigrants preserve community ties and bilingualism as resources for advancement. Which path a group follows depends less on culture than on the resources, networks, and reception it encounters.
 
 ## Contemporary Debates
 
@@ -51,4 +49,5 @@ Today, assimilation is debated against multiculturalism and integration. Critics
 - Park, Robert E., and Ernest W. Burgess. *Introduction to the Science of Sociology*. University of Chicago Press, 1921.
 - Gordon, Milton M. *Assimilation in American Life: The Role of Race, Religion, and National Origins*. Oxford University Press, 1964.
 - Alba, Richard, and Victor Nee. *Remaking the American Mainstream: Assimilation and Contemporary Immigration*. Harvard University Press, 2003.
+- Portes, Alejandro, and Min Zhou. "The New Second Generation: Segmented Assimilation and Its Variants." *Annals of the American Academy of Political and Social Science* 530 (1993): 74–96.
 - Brubaker, Rogers. "The Return of Assimilation? Changing Perspectives on Immigration and Its Sequels in France, Germany, and the United States." *Ethnic and Racial Studies* 24, no. 4 (2001): 531–548.

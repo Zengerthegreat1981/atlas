@@ -12,9 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Digital communication patterns"
-  - "Code-switching in multilingual contexts"
+gaps: []
 ---
 
 # Linguistic Anthropology
@@ -43,7 +41,9 @@ Linguistic anthropologists combine long-term ethnographic fieldwork with close a
 
 ## Influence and Contemporary Debates
 
-Linguistic anthropology reshaped anthropology's understanding of culture, showing that culture lives not only in beliefs and institutions but in the moment-by-moment work of speaking. It gave the Sapir-Whorf debate a new empirical footing: later work showed that language can shape attention, memory, and spatial reasoning without determining thought outright, a subtler relativity than Whorf's boldest claims. The field has also become a central site for the study of language endangerment and revitalization, as Indigenous communities work to reclaim languages suppressed by colonial schooling. Its open questions include the two noted in this entry's gaps: how digital communication — texting, social media, voice notes — creates new patterns of interaction and new forms of linguistic identity, and how code-switching works in multilingual contexts where speakers move between languages within a single conversation. Both extend the school's founding concern — what speaking does in the world — to the communicative conditions of the present.
+Linguistic anthropology reshaped anthropology's understanding of culture, showing that culture lives not only in beliefs and institutions but in the moment-by-moment work of speaking. It gave the Sapir-Whorf debate a new empirical footing: later work showed that language can shape attention, memory, and spatial reasoning without determining thought outright, a subtler relativity than Whorf's boldest claims. The field has also become a central site for the study of language endangerment and revitalization, as Indigenous communities work to reclaim languages suppressed by colonial schooling.
+
+Two areas show how the school's founding concern, what speaking does in the world, extends to the present. The first is code-switching, the alternation between languages or varieties within a conversation. Jan-Petter Blom and John Gumperz's study of dialect and standard in a Norwegian community (1972) showed that switches signal social meaning, such as a change of topic, relationship, or footing, rather than mere lack of competence. The second is digital communication: work on texting, social media, and messaging, for example Ilana Gershon's *The Breakup 2.0* (2010) on "media ideologies" and Jones, Chik, and Hafner's edited *Discourse and Digital Practices* (2015), asks how new media create new patterns of interaction and new forms of linguistic identity.
 
 ## Sources
 

@@ -13,8 +13,7 @@ edges:
 related:
   []
 gaps:
-  - Ethnography of everyday and intimate violence
-  - Violence in digital and online environments
+  []
 ---
 # Violence: Direct, Structural, and Cultural Forms
 
@@ -28,11 +27,11 @@ In 1990 Galtung added a third term, **cultural violence**: the symbolic systems 
 
 ## Key Contributions
 
-Frantz Fanon, in *The Wretched of the Earth* (1961), offered the most influential account of violence in anti-colonial struggle. Writing from the Algerian war of independence, Fanon argued that colonialism is itself a system of violence — the settler's violence of dispossession and humiliation — and that the violence of the colonised is a response that can restore dignity and create a new national consciousness. His argument remains controversial: critics reply that it risks romanticising violence, while defenders insist that it describes the violence already present in colonial rule.
+Frantz Fanon, in *The Wretched of the Earth* (French original 1961), offered the most influential account of violence in anti-colonial struggle. Writing from the Algerian war of independence, Fanon argued that colonialism is itself a system of violence — the settler's violence of dispossession and humiliation — and that the violence of the colonised is a response that can restore dignity and create a new national consciousness. His argument remains controversial: critics reply that it risks romanticising violence, while defenders insist that it describes the violence already present in colonial rule.
 
 Hannah Arendt, in *On Violence* (1970), drew a sharp distinction between power and violence. Power, for Arendt, rests on collective consent and disappears when people withdraw their support; violence is instrumental, a tool that appears when power is in jeopardy. Her distinction explains why even the most heavily armed regimes collapse when their subjects stop obeying, and why violence, however effective in the short term, cannot by itself create lasting legitimacy.
 
-Pierre Bourdieu added the concept of **symbolic violence**: domination exercised not through physical force but through the imposition of categories, classifications, and standards that the dominated come to accept as natural. Developed with Jean-Claude Passeron in *Reproduction in Education, Society and Culture* (1970), the idea explains how schools, for example, can reproduce class inequality while appearing neutral and meritocratic: children from privileged backgrounds find their own cultural capital recognised as talent, while others are judged deficient.
+Pierre Bourdieu added the concept of **symbolic violence**: domination exercised not through physical force but through the imposition of categories, classifications, and standards that the dominated come to accept as natural. Developed with Jean-Claude Passeron in *Reproduction in Education, Society and Culture* (French original 1970; English 1977), the idea explains how schools, for example, can reproduce class inequality while appearing neutral and meritocratic: children from privileged backgrounds find their own cultural capital recognised as talent, while others are judged deficient.
 
 ## Ethnographic Perspectives
 
@@ -49,7 +48,8 @@ Contemporary research examines violence in digital environments — harassment, 
 ## Sources
 
 - Arendt, Hannah. *On Violence*. Harcourt, Brace and World, 1970.
-- Bourdieu, Pierre, and Jean-Claude Passeron. *Reproduction in Education, Society and Culture*. Sage, 1970.
-- Fanon, Frantz. *The Wretched of the Earth*. Grove Press, 1961.
+- Bourdieu, Pierre, and Jean-Claude Passeron. *Reproduction in Education, Society and Culture*. Translated by Richard Nice. Sage, 1977. First published in French, 1970.
+- Fanon, Frantz. *The Wretched of the Earth*. Translated by Constance Farrington. Grove Press, 1963. First published in French, 1961.
+- Galtung, Johan. "Cultural Violence." *Journal of Peace Research* 27, no. 3 (1990): 291–305.
 - Galtung, Johan. "Violence, Peace, and Peace Research." *Journal of Peace Research* 6, no. 3 (1969): 167–191.
 - Scheper-Hughes, Nancy, and Philippe Bourgois, eds. *Violence in War and Peace: An Anthology*. Blackwell, 2004.

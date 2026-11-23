@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Voluntary transfer creating social bonds"
+gaps: []
 ---
 
 # Gift
@@ -42,4 +41,4 @@ The gift remains a powerful lens on contemporary life. The global rise of charit
 - Marcel Mauss, *The Gift: The Form and Reason for Exchange in Archaic Societies* (1925).
 - Marshall Sahlins, *Stone Age Economics* (1972).
 - Annette B. Weiner, *Inalienable Possessions: The Paradox of Keeping-While-Giving* (1992).
-- Maurice Godelier, *The Enigma of the Gift* (1996).
+- Maurice Godelier, *The Enigma of the Gift* (French original 1996; English translation 1999).

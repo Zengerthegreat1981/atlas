@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Settler colonialism and indigenous sovereignty"
-  - "Colonialism and the environment"
-  - "Neocolonialism and debt"
+  - "Colonialism and the environment: not yet covered"
 ---
 
 # Colonialism: Domination, Extraction, and Rule
@@ -50,7 +48,7 @@ Current scholarship debates whether colonialism is past or ongoing. Settler colo
 
 ## Sources
 
-- Césaire, Aimé. *Discourse on Colonialism*. Monthly Review Press, 1950.
-- Memmi, Albert. *The Colonizer and the Colonized*. Beacon Press, 1957.
-- Fanon, Frantz. *The Wretched of the Earth*. Grove Press, 1961.
+- Césaire, Aimé. *Discours sur le colonialisme*. Paris: Éditions Réclame, 1950; English translation, *Discourse on Colonialism*, Monthly Review Press, 1972.
+- Memmi, Albert. *Portrait du colonisé, précédé du portrait du colonisateur*. Paris: Corréa, 1957; English translation, *The Colonizer and the Colonized*, Beacon Press, 1967.
+- Fanon, Frantz. *Les damnés de la terre*. Paris: Maspero, 1961; English translation, *The Wretched of the Earth*, Grove Press, 1963.
 - Said, Edward W. *Orientalism*. Pantheon Books, 1978.

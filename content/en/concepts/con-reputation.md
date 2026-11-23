@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Public perception of character"
+  []
 ---
 
 # Reputation

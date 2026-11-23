@@ -12,8 +12,7 @@ edges:
   - rel: "belongs_to", target: "Feminist Anthropology", target_type: "مدرسة"
 related:
 gaps:
-  - "Her Marxist approach contextualization"
-  - "Application to contemporary contexts"
+  - "Application to contemporary contexts: not yet covered"
 ---
 
 # Eleanor Leacock
@@ -22,13 +21,14 @@ Eleanor Leacock (1922–1987) was an American anthropologist and one of the foun
 
 ## Life and Career
 
-Leacock was born on 2 July 1922 in Weehawken, New Jersey. She studied at Barnard College and at Columbia University, where she took her doctorate in anthropology in 1951, working under Julian Steward. Her dissertation research took her to Labrador, where she studied the Montagnais-Naskapi, an Innu people whose lives had been transformed by the fur trade. She taught at the City College of New York, where she was a professor of anthropology, and she was active in the political movements of her time — a committed Marxist and a supporter of anti-colonial struggles. She died in Hawaii on 2 April 1987, at the age of 64, while on a research trip.
+Leacock was born in 1922. She studied at Barnard College and at Columbia University, where she took her doctorate in anthropology in the early 1950s, working under Julian Steward. Her dissertation research took her to Labrador, where she studied the Montagnais-Naskapi, an Innu people whose lives had been transformed by the fur trade. She taught at the City College of New York (CUNY), where she was a professor of anthropology, and she was active in the political movements of her time — a committed Marxist and a supporter of anti-colonial struggles. She died in 1987.
 
-Her career was shaped by a double commitment: to ethnography and to political engagement. She was one of the first anthropologists to insist that the discipline must study its own society's inequalities as well as distant cultures, and she was a founding figure in the anthropology of women, organising some of the first panels and publications on gender in the American Anthropological Association.
+Her career was shaped by a double commitment: to ethnography and to political engagement. She was one of the first anthropologists to insist that the discipline must study its own society's inequalities as well as distant cultures, and she was a founding figure in the anthropology of women. Her studies of schooling in New York City, *Teaching and Learning in City Schools* (1969), reflected that commitment.
 
 ## Key Works
 
-- *The Montagnais "Hunting Territory" and the Fur Trade* (1954).
+- *The Montagnais "Hunting Territory" and the Fur Trade* (1954), American Anthropological Association Memoir 78.
+- *Teaching and Learning in City Schools: A Comparative Study* (1969).
 - *The Origin of the Family, Private Property and the State* (1972), editor's introduction and notes to the Friedrich Engels text.
 - *Myths of Male Dominance: Collected Articles on Women Cross-Culturally* (1981).
 - *Women's Work: Development and the Division of Labor by Gender* (1986), editor, with Helen Safa and others.
@@ -45,13 +45,13 @@ Leacock's Marxist approach also shaped her view of anthropology itself. She argu
 
 ## Influence and Critique
 
-Leacock's influence on feminist anthropology was foundational. She provided the historical and materialist framework within which a generation of feminist anthropologists worked, and her insistence that gender relations must be studied in their historical and economic context shaped the field's development. Her work on the Montagnais-Naskapi remains a classic of the anthropology of colonialism, and her edition of Engels is still the standard English-language text for students of Marxist feminism.
+Leacock's influence on feminist anthropology was foundational. She provided the historical and materialist framework within which a generation of feminist anthropologists worked, and her insistence that gender relations must be studied in their historical and economic context shaped the field's development. Her work on the Montagnais-Naskapi remains a classic of the anthropology of colonialism, and her edition of Engels was widely used by students of Marxist feminism.
 
 Her work has also been criticised. Some feminist anthropologists argued that her Marxist framework underestimated the autonomy of gender as a system of meaning, and that not all forms of male dominance can be reduced to class. Others questioned whether the egalitarianism she described among the Montagnais-Naskapi was as complete as she suggested, and whether her account romanticised hunter-gatherer life. Still others noted that her focus on class and colonialism left less room for the analysis of race and sexuality that later feminist anthropology would develop. These criticisms have not diminished her standing: Leacock's argument that women's subordination has a history — and therefore a future, in which it might end — remains one of the most powerful ideas in feminist anthropology, and her work continues to be read as a model of politically engaged ethnography.
 
 ## Sources
 
-- Leacock, Eleanor Burke. *The Montagnais "Hunting Territory" and the Fur Trade*. Washington, DC: American Anthropological Association, 1954.
+- Leacock, Eleanor Burke. *The Montagnais "Hunting Territory" and the Fur Trade*. American Anthropologist 56, no. 5, part 2, Memoir 78. Washington, DC: American Anthropological Association, 1954.
 - Leacock, Eleanor Burke. *Myths of Male Dominance: Collected Articles on Women Cross-Culturally*. New York: Monthly Review Press, 1981.
 - Engels, Friedrich. *The Origin of the Family, Private Property and the State*. Edited with an introduction by Eleanor Burke Leacock. New York: International Publishers, 1972.
 - Leacock, Eleanor Burke. "Women's Status in Egalitarian Society: Implications for Social Evolution." *Current Anthropology* 19, no. 2 (1978): 247–275.

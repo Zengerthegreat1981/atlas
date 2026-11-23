@@ -13,9 +13,8 @@ edges:
 related:
   []
 gaps:
-  - "Creolization and digital culture"
-  - "Creolization in the Indian Ocean"
-  - "Creolization and language policy"
+  - "Creolization and digital culture: not yet covered"
+  - "Creolization and language policy: not yet covered"
 ---
 
 # Creolization: Cultural Creation in Contact

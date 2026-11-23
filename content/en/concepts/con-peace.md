@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Absence of conflict and violence"
+  []
 ---
 
 # Peace
@@ -39,7 +39,7 @@ Peace is under pressure in the contemporary world. Interstate wars, civil confli
 ## Sources
 
 - Margaret Mead, "Warfare Is Only an Invention — Not a Biological Necessity," *Asia*, 1940.
-- Raymond Aron, *Peace and War: A Theory of International Relations*, 1962.
+- Raymond Aron, *Paix et guerre entre les nations*, 1962 (English translation *Peace and War: A Theory of International Relations*, 1966).
 - Johan Galtung, "Violence, Peace, and Peace Research," *Journal of Peace Research*, 1969.
 - Douglas P. Fry, *Beyond War: The Human Potential for Peace*, 2007.
 - Leslie E. Sponsel, "The Natural History of Peace: A Positive View of Human Nature and Its Potential," in *A Natural History of Peace*, edited by Thomas Gregor, 1996.

@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Philippe Bourgois"
 en: "Philippe Bourgois"
 crumb: "Anthropology ← Urban and Medical Anthropology ← Philippe Bourgois"
-dates: "France-USA · 1954-"
+dates: "USA · 1956-"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
@@ -22,11 +22,11 @@ Philippe Bourgois (born 1956) is an American anthropologist whose immersive ethn
 
 ## Life and Career
 
-Bourgois was born in 1956 and educated at Harvard College, where he took his BA in social studies in 1978, and at Stanford University, where he earned his PhD in anthropology in 1985. His fieldwork began in Central America in 1979, documenting revolutionary movements and political repression in Nicaragua, El Salvador, Costa Rica, and Panama, and his first book, *Ethnicity at Work* (1989), studied labour and ethnic division on a banana plantation. In the mid-1980s he moved with his family into an apartment in East Harlem, New York, and spent five years living alongside Puerto Rican crack dealers, an experience that produced *In Search of Respect* (1995). He has taught at San Francisco State University, where he chaired the anthropology department, at the University of California, San Francisco, where he founded the Department of Social Medicine, and at the University of Pennsylvania, before moving to the University of California, Los Angeles, where he is professor of anthropology and director of the Center for Social Medicine and Humanities. A student of Eric Wolf and influenced by Pierre Bourdieu and Michel Foucault, he is a leading proponent of critical medical anthropology and of what he calls public anthropology: ethnography written to intervene in public debate.
+Bourgois was born in 1956 and educated at Harvard College, where he took his BA in social studies in 1978, and at Stanford University, where he earned his PhD in anthropology in 1985. His early fieldwork was in Central America, and his first book, *Ethnicity at Work* (1989), studied labour and ethnic division on banana plantations in Costa Rica and Panama. In the mid-1980s he moved with his family into an apartment in East Harlem, New York, and spent five years living alongside Puerto Rican crack dealers, an experience that produced *In Search of Respect* (1995). He has taught at San Francisco State University, at the University of California, San Francisco (in its department of anthropology, history, and social medicine), and at the University of Pennsylvania, before moving to the University of California, Los Angeles, where he is a professor and a leading figure in its Center for Social Medicine and Humanities. Influenced by Pierre Bourdieu, Michel Foucault, and the political-economy tradition in anthropology, he is a leading proponent of critical medical anthropology and of what he calls public anthropology: ethnography written to intervene in public debate.
 
 ## Key Works
 
-*Ethnicity at Work: Divided Labor on a Central American Banana Plantation* (1989) examines how ethnicity was produced and mobilised in the labour process on a United Fruit plantation. *In Search of Respect: Selling Crack in El Barrio* (1995; second edition 2003) is his best-known book: an ethnography of crack dealers in East Harlem that won the C. Wright Mills Award in 1996 and the Margaret Mead Award in 1997. *Righteous Dopefiend* (2009), written with the photographer Jeff Schonberg, applies the same immersive method to homeless heroin injectors in San Francisco, combining text with documentary photography over more than a decade of fieldwork. He co-edited *Violence in War and Peace: An Anthology* (2004) with Nancy Scheper-Hughes, a widely used collection on the anthropology of violence, and *Violence at the Urban Margins* (2015) with Javier Auyero and Scheper-Hughes. His influential article "In Search of Horatio Alger: Culture and Ideology in the Crack Economy" appeared in *Contemporary Drug Problems* in 1989.
+*Ethnicity at Work: Divided Labor on a Central American Banana Plantation* (1989) examines how ethnicity was produced and mobilised in the labour process on banana plantations. *In Search of Respect: Selling Crack in El Barrio* (1995; second edition 2003) is his best-known book: an ethnography of crack dealers in East Harlem that won the C. Wright Mills Award in 1996 and the Margaret Mead Award in 1997. *Righteous Dopefiend* (2009), written with the photographer Jeff Schonberg, applies the same immersive method to homeless heroin injectors in San Francisco, combining text with documentary photography over more than a decade of fieldwork. He co-edited *Violence in War and Peace: An Anthology* (2004) with Nancy Scheper-Hughes, a widely used collection on the anthropology of violence, and *Violence at the Urban Margins* (2015) with Javier Auyero and Scheper-Hughes. His influential article "In Search of Horatio Alger: Culture and Ideology in the Crack Economy" appeared in *Contemporary Drug Problems* in 1989.
 
 ## Main Ideas and Contributions
 
@@ -39,9 +39,9 @@ Bourgois's influence extends across anthropology, sociology, and public health. 
 ## Sources
 
 - Bourgois, Philippe. *Ethnicity at Work: Divided Labor on a Central American Banana Plantation*. Johns Hopkins University Press, 1989.
-- Bourgois, Philippe. "In Search of Horatio Alger: Culture and Ideology in the Crack Economy." *Contemporary Drug Problems* 16, 1989.
+- Bourgois, Philippe. "In Search of Horatio Alger: Culture and Ideology in the Crack Economy." *Contemporary Drug Problems* 16(4), 1989.
 - Bourgois, Philippe. *In Search of Respect: Selling Crack in El Barrio*. Cambridge University Press, 1995.
 - Bourgois, Philippe, and Nancy Scheper-Hughes, editors. *Violence in War and Peace: An Anthology*. Blackwell, 2004.
 - Bourgois, Philippe, and Jeff Schonberg. *Righteous Dopefiend*. University of California Press, 2009.
-- Bourgois, Philippe, Javier Auyero, and Nancy Scheper-Hughes, editors. *Violence at the Urban Margins*. Oxford University Press, 2015.
+- Auyero, Javier, Philippe Bourgois, and Nancy Scheper-Hughes, editors. *Violence at the Urban Margins*. Oxford University Press, 2015.
 - Bourdieu, Pierre. *The Weight of the World: Social Suffering in Contemporary Society*. Stanford University Press, 1999.

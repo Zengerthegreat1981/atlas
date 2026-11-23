@@ -22,7 +22,7 @@ Ruth Benedict (1887–1948) was an American anthropologist, a leading student of
 
 ## Life and Career
 
-Benedict was born Ruth Fulton on 5 June 1887 in New York City. She studied English literature at Vassar College, graduating in 1909, and for a decade she taught school, married the biochemist Stanley Benedict, and wrote poetry, some of it published under the pseudonym Anne Singleton. She came to anthropology late, enrolling at Columbia in 1921 after attending lectures by Franz Boas and Elsie Clews Parsons. She completed her doctorate in 1923 with a dissertation on the guardian spirit in Native North America, published as *The Concept of the Guardian Spirit in North America* (1923).
+Benedict was born Ruth Fulton on 5 June 1887 in New York City. She studied English literature at Vassar College, graduating in 1909, and for a decade she taught school, married the biochemist Stanley Benedict, and wrote poetry, some of it published under the pseudonym Anne Singleton. She came to anthropology late, beginning in 1919 with courses at the New School for Social Research (with Elsie Clews Parsons and Alexander Goldenweiser) and then studying at Columbia under Franz Boas. She completed her doctorate in 1923 with a dissertation on the guardian spirit in Native North America, published as *The Concept of the Guardian Spirit in North America* (1923).
 
 Benedict spent her career at Columbia, where she succeeded Boas as the effective head of the anthropology department, though she was not made a full professor until 1948, the year of her death — a delay widely attributed to the gender discrimination of the period. She was partially deaf from childhood, a fact she rarely discussed, and her literary sensibility gave her anthropological writing an unusual elegance. During the Second World War she worked for the Office of War Information, studying Japanese culture from a distance because fieldwork in Japan was impossible. She was elected president of the American Anthropological Association in 1947 and died suddenly on 17 September 1948, at the age of sixty-one.
 
@@ -30,7 +30,7 @@ Benedict spent her career at Columbia, where she succeeded Boas as the effective
 
 *Patterns of Culture* (1934) is Benedict's central work. Comparing three societies — the Zuni of the American Southwest, the Dobu of Melanesia, and the Kwakiutl of the Northwest Coast — she argued that each culture selects a limited range of human possibilities and organises them around a coherent "pattern" or cultural personality. Borrowing Nietzsche's terms, she described the Zuni as Apollonian, restrained and communal, and the Kwakiutl as Dionysian, ecstatic and competitive. The book made the case that cultures are integrated wholes, not random collections of traits, and that behaviour which seems irrational in one culture may be perfectly coherent in another.
 
-*The Chrysanthemum and the Sword: Patterns of Japanese Culture* (1946) applied the same approach to Japan, drawing on texts, films, and interviews with Japanese residents in the United States. It became one of the first studies of "culture at a distance" and influenced American policy toward Japan after the surrender. Her other works include *Race: Science and Politics* (1940), a popular attack on racist science, and her early monograph on the guardian spirit (1923).
+*The Chrysanthemum and the Sword: Patterns of Japanese Culture* (1946) applied the same approach to Japan, drawing on texts, films, and interviews with Japanese residents in the United States. It became one of the first studies of "culture at a distance" and was widely read in discussions of postwar policy toward Japan. Her other works include *Race: Science and Politics* (1940), a popular critique of racist science, and her early monograph on the guardian spirit (1923).
 
 ## Main Ideas: Cultural Patterns and Relativism
 
@@ -42,7 +42,7 @@ Closely tied to this was her commitment to cultural relativism. If each culture 
 
 *Patterns of Culture* remained a standard introductory text for decades and did more than any other single book to popularise anthropology in America. Benedict trained a generation of students, most famously Margaret Mead, and her work helped establish the study of national character during and after the war, though that later programme — of which *The Chrysanthemum and the Sword* was a part — is now regarded as its weakest legacy.
 
-Critics charged that her model exaggerated the internal coherence of cultures, presenting them as seamless wholes and ignoring internal conflict, individual variation, and historical change. The Zuni, the Dobu, and the Kwakiutl, later ethnographers argued, were far more diverse and contested than her portraits allowed. Her study of Japan was criticised for relying on second-hand sources rather than fieldwork, though the conditions of war left her no alternative, and many Japanese readers later acknowledged the accuracy of much of her analysis of honour and obligation. Later feminist scholars also noted the irony that Benedict, whose work opened the study of personality and culture, was herself held back by the gendered institutions of the academy she served.
+Critics charged that her model exaggerated the internal coherence of cultures, presenting them as seamless wholes and ignoring internal conflict, individual variation, and historical change. The Zuni, the Dobu, and the Kwakiutl, later ethnographers argued, were far more diverse and contested than her portraits allowed. Her study of Japan was criticised for relying on second-hand sources rather than fieldwork, though the conditions of war left her no alternative; it was nevertheless widely read in Japan after its translation. Later feminist scholars also noted the irony that Benedict, whose work opened the study of personality and culture, was herself held back by the gendered institutions of the academy she served.
 
 Her legacy endures in the idea she stated most clearly: that human nature is not a single fixed pattern but a range of possibilities, and that each culture realises only a few of them. That insight, once radical, is now a commonplace of anthropology — which is itself a measure of her influence.
 
@@ -50,7 +50,7 @@ Her legacy endures in the idea she stated most clearly: that human nature is not
 
 - Benedict, Ruth. *The Concept of the Guardian Spirit in North America*. American Anthropological Association, 1923.
 - Benedict, Ruth. *Patterns of Culture*. Houghton Mifflin, 1934.
-- Benedict, Ruth. *Race: Science and Politics*. Macmillan, 1940.
+- Benedict, Ruth. *Race: Science and Politics*. New York: Modern Age Books, 1940.
 - Benedict, Ruth. *The Chrysanthemum and the Sword: Patterns of Japanese Culture*. Houghton Mifflin, 1946.
 - Mead, Margaret. *Ruth Benedict*. Columbia University Press, 1974.
 - Banner, Lois W. *Intertwined Lives: Margaret Mead, Ruth Benedict, and Their Circle*. Alfred A. Knopf, 2003.

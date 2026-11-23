@@ -16,9 +16,9 @@ related:
   - id: "thk-talal-asad", title: "Talal Asad", type: "مفكر"
   - id: "thk-james-clifford", title: "James Clifford", type: "مفكر"
 gaps:
-  - "Application to non-Western ethical frameworks"
-  - "Engagement with indigenous ethical systems"
-  - "Contemporary ethics in digital anthropology"
+  - "Application to non-Western ethical frameworks: not yet covered"
+  - "Engagement with indigenous ethical systems: not yet covered"
+  - "Contemporary ethics in digital anthropology: not yet covered"
 ---
 
 # Paul Rabinow: Reflexive Anthropology, Ethics, and the Study of Human Practices
@@ -27,9 +27,9 @@ Paul Rabinow (b. 1944) pioneered **reflexive anthropology**, an approach that ma
 
 ## Biographical Context and Intellectual Formation
 
-Paul Rabinow was born in Chicago and studied at Duke University and the University of Chicago, where he received his doctorate in anthropology. He was heavily influenced by Michel Foucault, whose work on genealogy, ethics, and the constitution of subjects shaped Rabinow's approach. He has held positions at the University of California, Berkeley, where he directed the Center for Middle Eastern Studies and became a leading figure in anthropological engagement with ethics, science, and the contemporary.
+Paul Rabinow, born in 1944, studied at the University of Chicago, where he received his doctorate in anthropology (he was associated with Clifford Geertz's Moroccan research). He was strongly influenced by Michel Foucault, with whom he became closely associated: he co-authored with Hubert Dreyfus *Michel Foucault: Beyond Structuralism and Hermeneutics* (1982) and edited *The Foucault Reader* (1984). Foucault's work on genealogy, ethics, and the constitution of subjects shaped Rabinow's approach. He is a professor at the University of California, Berkeley, where he founded the Anthropology of the Contemporary Research Collaboratory (ARC) and became a leading figure in anthropological engagement with ethics, science, and the contemporary.
 
-Rabinow's intellectual formation combined anthropological fieldwork with philosophical engagement with ethics, epistemology, and the question of human freedom. He studied in French intellectual traditions, which influenced his engagement with Foucault, structuralism, and poststructuralism. His interdisciplinary positioning enabled him to bring philosophical and theoretical sophistication to anthropological practice while maintaining commitment to ethnographic engagement.
+Rabinow's intellectual formation combined anthropological fieldwork with philosophical engagement with ethics, epistemology, and the question of human freedom, and his work draws on French intellectual traditions from Foucault to the history and philosophy of science.
 
 ## Methodological Innovations: Reflexive Anthropology and Ethical Anthropology
 
@@ -45,21 +45,23 @@ Rabinow's publications established reflexive and ethical anthropology as central
 
 - **Reflections on Fieldwork in Morocco** (1977) — His groundbreaking reflexive ethnographic account, foregrounding his emotional experiences, ethical dilemmas, and the formation of fieldwork relationships. Rather than presenting polished ethnographic findings, Rabinow presented the messy, uncertain reality of ethnographic work.
 
-- **Symbolic Domination: Cultural Form and Historical Change in Morocco** (1975) — Ethnographic study of Moroccan society examining symbolic systems and historical transformation.
+- **Symbolic Domination: Cultural Form and Historical Change in Morocco** (1975) — An earlier study of Moroccan society and its symbolic forms.
 
-- **French Modern: Norms and Forms of the Social Environment** (1989) — Study of French rationalism and modernization examining how people encounter rational systems and constituted as modern subjects.
+- **French Modern: Norms and Forms of the Social Environment** (1989) — A historical study of French urbanism, social planning, and the "social technicians" who sought to govern society through norms and forms of the built environment.
 
-- **Essays on the Anthropology of Reason** (1996) — Collection establishing his approach to studying human practices, reasoning, and ethical self-constitution, particularly in scientific and medical contexts.
+- **Essays on the Anthropology of Reason** (1996) — Collection of essays on the anthropology of science, biotechnology, and the human sciences, in which he develops his approach to studying practices of reason and the making of subjects.
 
-- **Making PCR: A Story of Biotechnology** (1996, with Dan Rabinow) — Ethnographic study of polymerase chain reaction (PCR) technology, examining how scientific practices are constituted and how technology transforms human capability and ethics.
+- **Making PCR: A Story of Biotechnology** (1996) — Study of the invention of the polymerase chain reaction (PCR) at the Cetus Corporation, examining how biotechnology, entrepreneurship, and scientific practice came together.
 
-- **Marking Time: The Epic Quest to Invent the Perfect Calendar** (2007) — Study of calendar history examining how humans attempt to impose rational order on time and the ethical implications of these efforts.
+- **Marking Time: On the Anthropology of the Contemporary** (2008) — Essays setting out his programme for an anthropology of the contemporary.
+
+- **Designing Human Practices: An Experiment with Synthetic Biology** (2012, with Anthony Stavrianakis) — An account of an experimental collaboration with a synthetic biology laboratory.
 
 These works established reflexive and ethical anthropology as essential approaches to anthropological practice.
 
 ## Fieldwork Practice: Morocco and Contemporary Scientific Practice
 
-Rabinow's fieldwork in Morocco (1969–1971) exemplified his reflexive approach. Rather than claiming to have achieved objective understanding through immersion and observation, Rabinow's account foregrounded the formation of fieldwork relationships, the emotions these generated, and the ethical dilemmas they raised. He discussed his frustrations, his attractions to and repulsions from research subjects, his failure to fully understand Moroccan culture, the ambivalence of fieldwork relationships. This honesty transformed how anthropologists understood fieldwork—revealing it not as a transparent means of accessing cultural knowledge but as an emotionally charged, ethically complex social relationship.
+Rabinow's fieldwork in Morocco in the late 1960s exemplified his reflexive approach. Rather than claiming to have achieved objective understanding through immersion and observation, Rabinow's account foregrounded the formation of fieldwork relationships, the emotions these generated, and the ethical dilemmas they raised. He discussed his frustrations, his attractions to and repulsions from research subjects, his failure to fully understand Moroccan culture, the ambivalence of fieldwork relationships. This honesty transformed how anthropologists understood fieldwork—revealing it not as a transparent means of accessing cultural knowledge but as an emotionally charged, ethically complex social relationship.
 
 His later work on science and technology involved fieldwork in laboratories, hospitals, and scientific institutions, studying how scientific practices are constituted, how scientists understand their work ethically, and how scientific knowledge shapes human experience. This work examined not culture in traditional sense but contemporary practices through which people engage with knowledge systems and constitute themselves as ethical subjects.
 
@@ -99,20 +101,14 @@ Questions remain about how reflexive and ethical anthropology can operate at sca
 - **French Modern: Norms and Forms of the Social Environment** (1989) — Study of rationalization and modern subjectivity
 - **Essays on the Anthropology of Reason** (1996) — Establishing approach to studying practices and ethical self-constitution
 - **Making PCR: A Story of Biotechnology** (1996) — Ethnographic study of scientific practice
-- **Marking Time: The Epic Quest to Invent the Perfect Calendar** (2007) — Study of rationalization and ethics
-
-## Selected Quotations
-
-> "Fieldwork is not a transparent means of accessing cultural knowledge but an emotionally charged, ethically complex relationship." — *Reflections on Fieldwork in Morocco* (1977)
-
-> "Anthropology should examine how people constitute themselves as ethical subjects and what anthropology can contribute to human freedom." — On ethical anthropology
-
-> "The contemporary is itself a distinctive anthropological domain, deserving serious attention to how people live now." — On anthropology of the contemporary
+- **Marking Time: On the Anthropology of the Contemporary** (2008) — Essays on the anthropology of the contemporary
 
 ## Sources
 
 - Rabinow, Paul. *Reflections on Fieldwork in Morocco*. University of California Press, 1977.
-- Rabinow, Paul. *French Modern: Norms and Forms of the Social Environment*. University of Chicago Press, 1989.
+- Rabinow, Paul. *Symbolic Domination: Cultural Form and Historical Change in Morocco*. University of Chicago Press, 1975.
+- Rabinow, Paul. *French Modern: Norms and Forms of the Social Environment*. Cambridge, MA: MIT Press, 1989.
 - Rabinow, Paul. *Essays on the Anthropology of Reason*. Princeton University Press, 1996.
-- Rabinow, Paul & Dan Rabinow. *Making PCR: A Story of Biotechnology*. University of Chicago Press, 1996.
-- Rabinow, Paul. *Marking Time: The Epic Quest to Invent the Perfect Calendar*. Basic Books, 2007.
+- Rabinow, Paul. *Making PCR: A Story of Biotechnology*. University of Chicago Press, 1996.
+- Rabinow, Paul. *Marking Time: On the Anthropology of the Contemporary*. Princeton University Press, 2008.
+- Dreyfus, Hubert L., and Paul Rabinow. *Michel Foucault: Beyond Structuralism and Hermeneutics*. University of Chicago Press, 1982.

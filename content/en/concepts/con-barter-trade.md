@@ -30,7 +30,7 @@ Such networks depend on institutions that reduce the risks of dealing with stran
 
 The study of barter trade networks begins with Bronislaw Malinowski's *Argonauts of the Western Pacific* (1922), the founding ethnography of the kula. Malinowski showed that the circulation of shell necklaces and armlets among the islands off Papua New Guinea was not mere trade: it was a ceremonial system that created fame, alliances, and political authority, and alongside it travelled ordinary barter in food, pots, and tools. Exchange, he argued, was the very fabric of social life.
 
-Karl Polanyi's *The Great Transformation* (1944) gave this insight a comparative frame. Polanyi argued that in most of human history trade was embedded in social institutions — reciprocity, redistribution, and administered ports of trade — rather than governed by price-making markets. Long-distance trade was typically the business of specialists and rulers, conducted at neutral meeting places where strangers could exchange under agreed rules. This challenged the economist's picture of trade as the natural outcome of supply and demand, and showed that barter networks were organised by politics and ritual as much as by economics.
+Karl Polanyi's *The Great Transformation* (1944), and later the volume he edited with colleagues, *Trade and Market in the Early Empires* (1957), gave this insight a comparative frame. Polanyi argued that in most of human history trade was embedded in social institutions — reciprocity, redistribution, and administered ports of trade — rather than governed by price-making markets. Long-distance trade was typically the business of specialists and rulers, conducted at neutral meeting places where strangers could exchange under agreed rules. This challenged the economist's picture of trade as the natural outcome of supply and demand, and showed that barter networks were organised by politics and ritual as much as by economics.
 
 Marshall Sahlins, in *Stone Age Economics* (1972), added that the form of exchange depends on social distance: generosity among kin, balanced reciprocity among neighbours, and hard bargaining or silent trade with strangers. Barter trade networks, on this view, are systems for managing distance — geographical, social, and moral — so that goods can cross it safely.
 
@@ -52,6 +52,7 @@ David Graeber's *Debt* (2011) gave the study of exchange networks a wider audien
 
 - Malinowski, Bronislaw. *Argonauts of the Western Pacific*. 1922.
 - Polanyi, Karl. *The Great Transformation*. 1944.
+- Polanyi, Karl, Conrad M. Arensberg, and Harry W. Pearson, eds. *Trade and Market in the Early Empires*. 1957.
 - Sahlins, Marshall. *Stone Age Economics*. 1972.
 - Humphrey, Caroline, and Stephen Hugh-Jones, eds. *Barter, Exchange and Value: An Anthropological Approach*. 1992.
 - Graeber, David. *Debt: The First 5,000 Years*. 2011.

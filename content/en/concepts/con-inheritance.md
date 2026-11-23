@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Transmission of property/status across generations"
+  []
 ---
 
 # Inheritance
@@ -26,7 +26,7 @@ Inheritance takes many forms, and the differences matter. Property inheritance c
 
 ## Origins and Development
 
-The anthropology of inheritance began with the study of kinship. Lewis Henry Morgan's work on systems of consanguinity in the nineteenth century already showed that who counts as a relative determines who can inherit. Friedrich Engels, in 1884, argued that the rise of private property transformed inheritance: once wealth could be accumulated and owned individually, controlling who inherited it — and therefore controlling marriage and descent — became central to the organisation of the family. Meyer Fortes, working among the Tallensi of Ghana in the 1940s and 1950s, showed that inheritance was not a single event but a process spread across the life cycle: sons gradually received land, houses, and ritual responsibilities as their fathers aged, so that the transfer of property was inseparable from the transfer of authority within the domestic group. Jack Goody's comparative work in the 1960s and after made inheritance a central theme of social anthropology. In *Death, Property and the Ancestors* (1962), Goody showed that among the LoDagaa of West Africa, property was held by corporate kin groups and passed laterally among kin, while in Eurasia, where intensive agriculture and private property predominated, inheritance was more often a direct transfer from parent to child, with a correspondingly greater emphasis on the conjugal family, marriage strategy, and the control of women's property.
+The anthropology of inheritance began with the study of kinship. Lewis Henry Morgan's work on systems of consanguinity in the nineteenth century already showed that who counts as a relative determines who can inherit. Friedrich Engels, in 1884, argued that the rise of private property transformed inheritance: once wealth could be accumulated and owned individually, controlling who inherited it — and therefore controlling marriage and descent — became central to the organisation of the family. Meyer Fortes, working among the Tallensi of Ghana in the 1940s and 1950s, showed that inheritance was not a single event but a process spread across the life cycle: sons gradually received land, houses, and ritual responsibilities as their fathers aged, so that the transfer of property was inseparable from the transfer of authority within the domestic group. Jack Goody's comparative work in the 1960s and after made inheritance a central theme of social anthropology. In *Death, Property and the Ancestors* (1962), Goody examined how property and funerary obligations were transmitted among the LoDagaa of West Africa, and in *Production and Reproduction* (1976) he contrasted African systems, in which property was often held by corporate kin groups and passed laterally among kin, with Eurasia, where intensive agriculture and private property predominated, inheritance was more often a direct transfer from parent to child, with a correspondingly greater emphasis on the conjugal family, marriage strategy, and the control of women's property.
 
 ## Key Debates and Dimensions
 
@@ -41,6 +41,7 @@ Inheritance is at the centre of contemporary debates about inequality. Thomas Pi
 - Friedrich Engels, *The Origin of the Family, Private Property and the State* (1884).
 - Meyer Fortes, "The Structure of Unilineal Descent Groups," *American Anthropologist* (1953).
 - Jack Goody, *Death, Property and the Ancestors: A Study of the Mortuary Customs of the LoDagaa of West Africa* (1962).
+- Jack Goody, *Production and Reproduction: A Comparative Study of the Domestic Domain* (1976).
 - Jack Goody, *The Development of the Family and Marriage in Europe* (1983).
 - Sara Berry, *No Condition Is Permanent: The Social Dynamics of Agrarian Change in Sub-Saharan Africa* (1993).
 - Thomas Piketty, *Capital in the Twenty-First Century* (2014).

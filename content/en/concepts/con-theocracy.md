@@ -42,12 +42,13 @@ A third debate turns on secularisation. Classical sociology predicted that moder
 
 ## Contemporary Relevance
 
-Theocracy remains a live category in political anthropology because it names a real and recurring configuration of power. Contemporary debates focus on three areas. First, the governance of states that formally fuse religious and political authority, notably Iran and the Vatican, and the internal tensions such fusion creates between clerical and elected institutions. Second, the use of the label in public debate: "theocratic" is frequently applied to movements and governments — from the Taliban to Christian nationalism in the United States — as a term of condemnation, and anthropologists have a role in distinguishing analytical description from polemic.
+Theocracy remains a live category in political anthropology because it names a real and recurring configuration of power. Contemporary debates focus on two areas. First, the governance of states that formally fuse religious and political authority, notably Iran and the Vatican, and the internal tensions such fusion creates between clerical and elected institutions. Second, the use of the label in public debate: "theocratic" is frequently applied to movements and governments — from the Taliban to Christian nationalism in the United States — as a term of condemnation, and anthropologists have a role in distinguishing analytical description from polemic.
 
-Theocracy is the limiting case in which that persuasion is carried out in the language of the sacred — and therefore the case that most clearly reveals how much of politics, even in secular societies, depends on belief.
+Theocracy is a limiting case in which political persuasion and obedience are carried out in the language of the sacred — and therefore a case that clearly reveals how much of politics, even in secular societies, depends on belief.
 
 ## Sources
 
+- Josephus. *Against Apion* (Contra Apionem), first century CE.
 - Durkheim, Émile. *The Elementary Forms of Religious Life*. 1912.
 - Weber, Max. *Economy and Society: An Outline of Interpretive Sociology*. 1922.
 - Geertz, Clifford. *Islam Observed: Religious Development in Morocco and Indonesia*. 1968.

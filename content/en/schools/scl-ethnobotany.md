@@ -22,15 +22,15 @@ Ethnobotany is the study of the relationships between people and plants: how pla
 
 ## History
 
-The term "ethnobotany" was coined by the American botanist John William Harshberger in 1895, in a lecture at the University of Pennsylvania, and published the following year as "The Purposes of Ethno-Botany" (1896). Harshberger defined the field as the study of plants used by "primitive and aboriginal people" and of the cultural position of the tribes that used them. Early work was largely descriptive: collectors recorded plant uses alongside specimens, and the first doctoral thesis in the field, by Albert Ernest Jenks, appeared in 1898.
+The term "ethnobotany" was coined by the American botanist John William Harshberger in 1895, in a lecture at the University of Pennsylvania, and published the following year as "The Purposes of Ethno-Botany" (1896). Harshberger defined the field as the study of plants used by aboriginal peoples and of the cultural position of the tribes that used them. Early work was largely descriptive: collectors recorded plant uses alongside specimens.
 
-The field's modern form took shape in the mid-twentieth century. Richard Evans Schultes, working in the Amazon from the 1940s onwards, documented the plant knowledge of indigenous peoples and became known as the father of ethnobotany. His work on hallucinogenic plants, including *The Botany and Chemistry of Hallucinogens* (1972, with Albert Hofmann) and *Plants of the Gods* (1979, with Hofmann), showed that indigenous classifications of psychoactive plants encoded precise pharmacological knowledge. Schultes's later *The Healing Forest* (1990, with Robert Raffauf) documented the medicinal plants of the northwest Amazon and their uses.
+The field's modern form took shape in the mid-twentieth century. Richard Evans Schultes, working in the Amazon from the 1940s onwards, documented the plant knowledge of indigenous peoples and is often called the father of modern ethnobotany. His work on hallucinogenic plants, including *The Botany and Chemistry of Hallucinogens* (1973, with Albert Hofmann) and *Plants of the Gods* (1979, with Hofmann), showed that indigenous classifications of psychoactive plants encoded precise pharmacological knowledge. Schultes's later *The Healing Forest* (1990, with Robert Raffauf) documented the medicinal plants of the northwest Amazon and their uses.
 
 The 1970s and 1980s saw ethnobotany institutionalised. Richard Ford's edited volume *The Nature and Status of Ethnobotany* (1978) reviewed the field's history and methods, and the Society for Economic Botany, founded in 1959, became its professional home. In the 1990s, William Balée's *Footprints of the Forest* (1994) showed that Amazonian forests bear the marks of centuries of indigenous management, and Michael Balick and Paul Cox's *Plants, People, and Culture* (1996) brought ethnobotany to a wide audience. C. M. Cotton's *Ethnobotany: Principles and Applications* (1996) and Miguel Alexiades's *Selected Guidelines for Ethnobotanical Research* (1996) codified the field's methods and ethics.
 
 ## Key Figures and Works
 
-Harshberger (1896) named the field and set its agenda: the study of plants in their cultural context. Schultes (1972, 1979, 1990) supplied its empirical foundation, demonstrating that indigenous plant knowledge is pharmacologically sophisticated and worthy of scientific attention. Ford (1978) organised the field's history and argued for its relevance to archaeology, ecology, and anthropology.
+Harshberger (1896) named the field and set its agenda: the study of plants in their cultural context. Schultes (1973, 1979, 1990) supplied its empirical foundation, demonstrating that indigenous plant knowledge is pharmacologically sophisticated and worthy of scientific attention. Ford (1978) organised the field's history and argued for its relevance to archaeology, ecology, and anthropology.
 
 Balée (1994) showed that the Amazonian forest is a cultural landscape, shaped by human selection and management over millennia. Balick and Cox (1996) demonstrated the field's applied importance, linking plant knowledge to drug discovery and conservation. Cotton (1996) provided the standard methodological text, covering fieldwork, specimen collection, and quantitative analysis, while Alexiades (1996) set out ethical guidelines that responded to the growing problem of biopiracy — the commercial use of indigenous knowledge without consent or compensation.
 
@@ -49,7 +49,7 @@ The field also changed how science thinks about knowledge. It demonstrated that 
 ## Sources
 
 - Harshberger, John W. (1896). "The Purposes of Ethno-Botany." *Botanical Gazette* 21(3): 146–154.
-- Schultes, Richard Evans, and Albert Hofmann (1972). *The Botany and Chemistry of Hallucinogens*. Springfield, IL: Charles C. Thomas.
+- Schultes, Richard Evans, and Albert Hofmann (1973). *The Botany and Chemistry of Hallucinogens*. Springfield, IL: Charles C. Thomas.
 - Ford, Richard I., ed. (1978). *The Nature and Status of Ethnobotany*. Ann Arbor: Museum of Anthropology, University of Michigan.
 - Schultes, Richard Evans, and Albert Hofmann (1979). *Plants of the Gods: Origins of Hallucinogenic Use*. New York: McGraw-Hill.
 - Schultes, Richard Evans, and Robert F. Raffauf (1990). *The Healing Forest: Medicinal and Toxic Plants of the Northwest Amazonia*. Portland: Dioscorides Press.

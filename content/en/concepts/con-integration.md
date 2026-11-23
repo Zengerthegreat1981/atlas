@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Integration of migrants and refugees"
-  - "Integration and social media"
-  - "Integration in divided societies"
+  - "Integration and social media: not yet covered"
 ---
 
 # Integration: Holding a Society Together

@@ -26,7 +26,7 @@ The anthropological study of polytheism began with the sociology of religion. Em
 
 Walter Burkert's *Greek Religion* (1985) gave the fullest account of a polytheistic system in practice. Greek religion, he showed, was not a theology but a set of practices: sacrifices, festivals, oracles, and the tending of sanctuaries, organised around local gods whose identities shifted from city to city. The Greek pantheon was not a fixed hierarchy but a flexible network. Burkert stressed that polytheism worked precisely because it was open: new gods could be added, old ones reinterpreted, and local traditions absorbed without breaking the system.
 
-Jan Assmann's essay "Monotheism and Polytheism" (1997) reframed the contrast between the two. He argued that the crucial difference is not the number of gods but the claim to exclusive truth: monotheism insists that only one god is true and all others false, while polytheism tolerates translation between gods, recognising the gods of others as real under different names. This tolerance, Assmann suggested, made the rise of exclusive monotheism a profound break in human history.
+Jan Assmann's essay "Monotheism and Polytheism" (2004), developing his "Mosaic distinction" from *Moses the Egyptian* (1997), reframed the contrast between the two. He argued that the crucial difference is not the number of gods but the claim to exclusive truth: monotheism insists that only one god is true and all others false, while polytheism tolerates translation between gods, recognising the gods of others as real under different names. This tolerance, Assmann suggested, made the rise of exclusive monotheism a profound break in human history.
 
 ## Key Debates and Dimensions
 
@@ -38,7 +38,7 @@ A third dimension is the political role of the gods. In Mesopotamia and Egypt, t
 
 ## Contemporary Relevance and Critique
 
-Polytheism has not disappeared. Hinduism remains the world's largest polytheistic tradition, and indigenous religions across Africa, Asia, and the Americas continue to honour many spirits and deities. In the West, modern pagan movements, from Wicca to the revival of Norse and Greek worship, have reclaimed polytheism as a living practice, often linking it to environmentalism and feminism. In practice, the lived religion of most monotheists is more plural than their theology admits.
+Polytheism has not disappeared. Hinduism remains among the world's largest polytheistic traditions, and indigenous religions across Africa, Asia, and the Americas continue to honour many spirits and deities. In the West, modern pagan movements, from Wicca to the revival of Norse and Greek worship, have reclaimed polytheism as a living practice, often linking it to environmentalism and feminism. In practice, the lived religion of most monotheists is more plural than their theology admits.
 
 The study of polytheism matters because it challenges the assumption that religion must be exclusive to be serious. Polytheistic systems show that people can hold multiple sacred allegiances, negotiate between gods, and tolerate religious difference without insisting on a single truth. In a world where religious conflict is often framed as a clash of absolutes, the polytheistic past offers a different model: one in which the sacred is many, the divine is negotiable, and the gods, like the societies that worship them, are diverse.
 
@@ -47,5 +47,5 @@ The study of polytheism matters because it challenges the assumption that religi
 - Emile Durkheim, *The Elementary Forms of Religious Life* (1912)
 - Walter Burkert, *Greek Religion: Archaic and Classical* (1985)
 - H. S. Versnel, *Inconsistencies in Greek and Roman Religion, Volume 1: Ter Unus. Isis, Dionysos, Hermes* (1990)
-- Jan Assmann, "Monotheism and Polytheism", in *Ancient Israelite Religion: Essays in Honor of Frank Moore Cross*, edited by Patrick D. Miller, Paul D. Hanson, and S. Dean McBride (1997)
+- Jan Assmann, "Monotheism and Polytheism", in *Religions of the Ancient World: A Guide*, edited by Sarah Iles Johnston (2004)
 - Robert Parker, *Polytheism and Society at Athens* (2005)

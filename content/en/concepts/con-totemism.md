@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "System relating group to spiritual ancestor"
+  []
 ---
 
 # Totemism: The Animal, the Plant, and the Social Order

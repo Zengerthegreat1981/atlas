@@ -11,9 +11,9 @@ dates: ""
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
+  []
 gaps:
-  - "Non-Western kinship systems beyond descent"
-  - "Digital kinship"
+  - "Digital kinship: not yet covered"
 ---
 
 # Kinship
@@ -26,7 +26,7 @@ Kinship is built from a small set of relationships — descent, the link between
 
 ## Origins and Development
 
-The study of kinship founded modern anthropology. Lewis Henry Morgan, in *Ancient Society* (1877), collected kinship terminologies from around the world and argued that they revealed stages in the evolution of the family, from promiscuity through group marriage to monogamy. In the twentieth century, kinship became the centre of British social anthropology. A. R. Radcliffe-Brown, in *Structure and Function in Primitive Society* (1952), treated kinship as a system of rights and duties that held society together. Claude Lévi-Strauss, in *The Elementary Structures of Kinship* (1949), argued that the fundamental fact of kinship was not descent but alliance: the exchange of women in marriage between groups created the bonds that made society possible, and the incest taboo was the rule that forced groups to exchange rather than keep their own. David Schneider's *American Kinship* (1968) turned the field in a new direction, showing that American kinship was organised around two cultural symbols — blood and love — rather than around biological facts, and arguing that anthropologists had been imposing their own folk model of kinship on other societies. In *A Critique of the Study of Kinship* (1984), Schneider argued that kinship was not a universal human reality but a cultural category invented by anthropologists, and that the study of kinship should be replaced by the study of how different peoples understand relatedness. Janet Carsten's edited volume *Cultures of Relatedness* (2000) took up this challenge, showing how relatedness is created through shared substance, shared food, shared residence, and shared experience, not only through descent and marriage.
+The study of kinship founded modern anthropology. Lewis Henry Morgan, in *Systems of Consanguinity and Affinity of the Human Family* (1871) and *Ancient Society* (1877), collected kinship terminologies from around the world and argued that they revealed stages in the evolution of the family, from promiscuity through group marriage to monogamy. In the twentieth century, kinship became the centre of British social anthropology. A. R. Radcliffe-Brown, in *Structure and Function in Primitive Society* (1952), treated kinship as a system of rights and duties that held society together. Claude Lévi-Strauss, in *The Elementary Structures of Kinship* (1949), argued that the fundamental fact of kinship was not descent but alliance: the exchange of women in marriage between groups created the bonds that made society possible, and the incest taboo was the rule that forced groups to exchange rather than keep their own. David Schneider's *American Kinship* (1968) turned the field in a new direction, showing that American kinship was organised around two cultural symbols — blood and love — rather than around biological facts, and arguing that anthropologists had been imposing their own folk model of kinship on other societies. In *A Critique of the Study of Kinship* (1984), Schneider argued that kinship was not a universal human reality but a cultural category invented by anthropologists, and that the study of kinship should be replaced by the study of how different peoples understand relatedness. Janet Carsten's edited volume *Cultures of Relatedness* (2000) took up this challenge, showing how relatedness is created through shared substance, shared food, shared residence, and shared experience, not only through descent and marriage.
 
 ## Key Debates and Dimensions
 
@@ -34,10 +34,11 @@ A central debate concerns the relationship between kinship and biology. Is kinsh
 
 ## Contemporary Relevance and Critique
 
-Kinship remains central to contemporary life, in new forms. Assisted reproduction — in vitro fertilisation, egg and sperm donation, surrogacy — has created children with multiple genetic, gestational, and social parents, and has forced courts, clinics, and families to decide who counts as a parent. Migration has created transnational families, held together by remittances, phone calls, and video links, and the stub for this entry flags digital kinship — relationships maintained and created online — as a gap for future work. Same-sex marriage and adoption have challenged the assumption that kinship requires a mother and a father. The enduring insight is that kinship is not a given but an achievement: relatedness is made, maintained, and sometimes unmade, through the daily work of living together, caring for one another, and remembering who belongs to whom.
+Kinship remains central to contemporary life, in new forms. Assisted reproduction — in vitro fertilisation, egg and sperm donation, surrogacy — has created children with multiple genetic, gestational, and social parents, and has forced courts, clinics, and families to decide who counts as a parent. Migration has created transnational families, held together by remittances, phone calls, and video links, and online communication now shapes how such ties are maintained. Same-sex marriage and adoption have challenged the assumption that kinship requires a mother and a father. The enduring insight is that kinship is not a given but an achievement: relatedness is made, maintained, and sometimes unmade, through the daily work of living together, caring for one another, and remembering who belongs to whom.
 
 ## Sources
 
+- Lewis Henry Morgan, *Systems of Consanguinity and Affinity of the Human Family* (1871).
 - Lewis Henry Morgan, *Ancient Society* (1877).
 - Claude Lévi-Strauss, *The Elementary Structures of Kinship* (1949).
 - A. R. Radcliffe-Brown, *Structure and Function in Primitive Society* (1952).

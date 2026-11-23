@@ -12,9 +12,7 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Hurston's ethnographic method and the insider-outsider debate"
-  - "Afro-Caribbean religion in anthropology"
+gaps: []
 ---
 
 # Tell My Horse: Voodoo and Life in Haiti and Jamaica
@@ -25,19 +23,19 @@ Hurston came to the Caribbean as a trained anthropologist — a student of Franz
 
 ## Structure and Content
 
-The book is divided into two parts. The first, on Jamaica, is shorter and lighter in tone: Hurston records folk tales, proverbs, songs, and customs, including extended passages on Jamaican "nine night" funeral ceremonies, obeah, and the social world of the Maroons. The second and longer part, on Haiti, is the book's core. There Hurston documents Vodou ritual in detail — the service of the lwa, the role of the houngan and mambo, the drums, dances, and sacrifices — and gives extended attention to the figure of the zombie, whom she investigated as a pharmacological as well as a religious phenomenon.
+The book is divided into two parts. The first, on Jamaica, is shorter and lighter in tone: Hurston records folk tales, proverbs, songs, and customs, including passages on Jamaican funeral customs, obeah, and the Maroons. The second and longer part, on Haiti, is the book's core. There Hurston documents Vodou ritual in detail — the service of the lwa, the role of the houngan and mambo, the drums, dances, and sacrifices — and gives extended attention to the figure of the zombie, whom she investigated as a pharmacological as well as a religious phenomenon.
 
-Hurston's Haitian chapters are organised around scenes rather than systems. She describes possession ceremonies in which participants are "mounted" by the spirits, recounts conversations with practitioners, and narrates her own initiation experiences. She also records the political context: Haiti was still living under the long shadow of the United States occupation of 1915–1934, and Hurston is attentive to how occupation, poverty, and the Haitian elite's disdain for peasant religion shaped the world she observed. Her portrait of the zombie is characteristic — she treats the belief seriously, reports a case she investigated firsthand, and leaves the question of its mechanism open, recording what she saw without reducing it to either credulity or debunking.
+Hurston's Haitian chapters are organised around scenes rather than systems. She describes possession ceremonies in which participants are "mounted" by the spirits, recounts conversations with practitioners, and narrates her own participation in ceremonies. She also records the political context: Haiti was still living under the long shadow of the United States occupation of 1915–1934, and Hurston is attentive to how occupation, poverty, and the Haitian elite's disdain for peasant religion shaped the world she observed. Her portrait of the zombie is characteristic — she treats the belief seriously, reports a case she investigated firsthand, and leaves the question of its mechanism open, recording what she saw without reducing it to either credulity or debunking.
 
 ## Method and Voice
 
 Hurston's method is participant observation in its most literal sense: she dances, sings, and takes part in ceremonies rather than watching from the edge. Her prose mixes ethnographic description, transcribed dialogue, folklore, and personal narrative, often shifting between registers within a single passage. This style was deliberate. Hurston believed that folk speech and story carried theory within them, and that translating them into academic abstraction would destroy what made them meaningful.
 
-That choice put her at odds with the anthropology of her day. Boas praised her eye for detail but urged more systematic analysis; academic reviewers found the book unsystematic, anecdotal, and too literary. Hurston, who supported her research partly through a Guggenheim Fellowship, refused to separate the writer from the ethnographer. The result is a book that reads less like a monograph than like a fieldwork memoir — and that, decades later, would be recognised as anticipating anthropology's reflexive turn by half a century.
+That choice put her at odds with the anthropology of her day. Some academic readers found the book unsystematic, anecdotal, and too literary. Hurston, whose Caribbean research was funded by a Guggenheim Fellowship, refused to separate the writer from the ethnographer. The result is a book that reads less like a monograph than like a fieldwork memoir — and that, decades later, would be recognised as anticipating anthropology's reflexive turn by half a century.
 
 ## Reception and Influence
 
-On publication, *Tell My Horse* received mixed reviews. White reviewers were often fascinated by the exotic material but sceptical of Hurston's authority; Black intellectuals of the period, including some associated with the Harlem Renaissance, worried that her focus on folk belief reinforced stereotypes. The book sold poorly, and Hurston's anthropological work was largely forgotten during her lifetime — she died in poverty in 1960, and her reputation was only revived in the 1970s, above all through Alice Walker's famous 1975 essay "In Search of Zora Neale Hurston."
+On publication, *Tell My Horse* received mixed reviews. Critics were divided over its mixture of travelogue, ethnography, and political commentary, and its treatment of Vodou and of Haitian politics drew controversy. Hurston's anthropological work was largely forgotten during her lifetime — she died in poverty in 1960, and her reputation was only revived in the 1970s, above all through Alice Walker's famous 1975 essay "In Search of Zora Neale Hurston."
 
 Since that revival, *Tell My Horse* has been reassessed as a landmark. It is now read as an early model of native anthropology, of feminist ethnography, and of writing that refuses the division between art and science. Scholars of Caribbean religion value its firsthand documentation of Vodou practice before the religion's later globalisation; historians value its portrait of Haiti under occupation; literary scholars value its demonstration that ethnography could be written as literature without ceasing to be knowledge. Hurston's zombies, once treated as sensationalism, are now studied as a serious entry point into Haitian understandings of personhood, power, and death.
 
@@ -50,6 +48,5 @@ The book's lasting significance lies in its wager: that a Black woman writing in
 - Hurston, Zora Neale. *Their Eyes Were Watching God*. J. B. Lippincott, 1937.
 - Walker, Alice. "In Search of Zora Neale Hurston." *Ms. Magazine*, 1975.
 - Boyd, Valerie. *Wrapped in Rainbows: The Life of Zora Neale Hurston*. Scribner, 2003.
-- Kaplan, Carla. *Zora Neale Hurston: A Life in Letters*. Doubleday, 2002.
+- Kaplan, Carla, ed. *Zora Neale Hurston: A Life in Letters*. New York: Doubleday, 2002.
 - Hemenway, Robert E. *Zora Neale Hurston: A Literary Biography*. University of Illinois Press, 1977.
-- Gordon, Michelle Y. "Zora Neale Hurston, Anthropology, and the African Diaspora." *Journal of Haitian Studies*, 2009.

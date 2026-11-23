@@ -28,7 +28,7 @@ Monarchy differs from chiefdom in scale and institutionalisation. Kings typicall
 
 ## Origins and Development
 
-Monarchy emerged with the first states. In ancient Egypt, Mesopotamia, and China, kingship was closely tied to the control of irrigation, the organisation of labour, and the claim to mediate between humans and gods. The pharaoh was a god on earth; the Mesopotamian king was the steward of the city god; the Chinese emperor held the Mandate of Heaven, which could be lost if he ruled badly. In each case, the king's body and the fate of the kingdom were understood as one.
+Monarchy emerged with the first states. In ancient Egypt, Mesopotamia, and China, kingship was often associated with the organisation of labour and the claim to mediate between humans and gods. The pharaoh was a god on earth; the Mesopotamian king was the steward of the city god; the Chinese emperor held the Mandate of Heaven, which could be lost if he ruled badly. In each case, the king's body and the fate of the kingdom were understood as one.
 
 In Europe, monarchy developed through feudalism into the centralised states of the early modern period. The "divine right of kings" justified absolute rule, while coronation rituals, royal progresses, and court ceremonial displayed the monarch's power to subjects. In Africa, sacred kingship took distinctive forms: among the Shilluk of the Nile, studied by Evans-Pritchard, the king embodied the spirit of the founding hero Nyikang, and his physical decline could require his ritual death. In Southeast Asia, the god-king or *devaraja* combined Hindu and Buddhist ideas of divine rule with local ancestor cults.
 

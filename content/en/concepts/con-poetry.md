@@ -21,7 +21,7 @@ Poetry is language heightened by pattern — rhythm, metre, rhyme, imagery and p
 
 ## Origins and Development
 
-The anthropological study of poetry began with oral tradition. Milman Parry's fieldwork in the 1930s among Yugoslav epic singers, published posthumously through the work of Albert Lord in *The Singer of Tales* (1960), demonstrated that long epics such as the *Iliad* could be composed in performance, without writing, using a stock of formulaic phrases fitted to the metre. Lord's account showed that oral poetry is not a failed version of written literature but a distinct technology of composition: the singer thinks in formulas, and each performance is at once traditional and new.
+The anthropological study of poetry began with oral tradition. Milman Parry's fieldwork in the 1930s among Yugoslav epic singers, continued and published by his student Albert Lord in *The Singer of Tales* (1960), demonstrated that long epics such as the *Iliad* could be composed in performance, without writing, using a stock of formulaic phrases fitted to the metre. Lord's account showed that oral poetry is not a failed version of written literature but a distinct technology of composition: the singer thinks in formulas, and each performance is at once traditional and new.
 
 Roman Jakobson, in "Linguistics and Poetics" (1960), gave the study of poetry a structural foundation. He defined the poetic function of language as the projection of the principle of equivalence from the axis of selection into the axis of combination: poetry makes pattern out of choice, so that sound and structure carry meaning alongside words. A line is poetic not because of its subject but because of how its sounds, rhythms and parallelisms are organised.
 

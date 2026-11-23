@@ -13,9 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Multiple modernities beyond the West"
-  - "Modernity and the environment"
-  - "Digital modernity"
+  - "Digital modernity: not yet covered"
 ---
 
 # Modernity: The Condition of Being Modern
@@ -48,6 +46,7 @@ Current scholarship debates whether we have entered a postmodern or late-modern 
 
 ## Sources
 
+- Appadurai, Arjun. *Modernity at Large: Cultural Dimensions of Globalization*. University of Minnesota Press, 1996.
 - Bauman, Zygmunt. *Modernity and Ambivalence*. Polity Press, 1991.
 - Giddens, Anthony. *The Consequences of Modernity*. Polity Press, 1990.
 - Habermas, Jürgen. *The Philosophical Discourse of Modernity: Twelve Lectures*. Translated by Frederick G. Lawrence. MIT Press, 1987.

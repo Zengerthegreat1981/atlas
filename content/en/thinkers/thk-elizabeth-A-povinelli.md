@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Elizabeth A. Povinelli"
 en: "Elizabeth A. Povinelli"
 crumb: "Anthropology ← Elizabeth A. Povinelli"
-dates: "Australia-USA · 1957-"
+dates: "USA · 1962-"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
@@ -18,11 +18,11 @@ gaps:
 
 # Elizabeth A. Povinelli
 
-Elizabeth A. Povinelli (born 1962) is an Australian-American anthropologist, critical theorist, and filmmaker, and Franz Boas Professor of Anthropology and Gender Studies at Columbia University. Her work, grounded in long-term collaboration with Aboriginal communities in Australia's Northern Territory, is one of the most sustained attempts to think anthropology, critical theory, and Indigenous politics together. From *The Cunning of Recognition* (2002) to *Geontologies: A Requiem to Late Liberalism* (2016), she has argued that liberal multiculturalism, for all its promises of recognition, continues the work of settler colonialism, and she has developed an "anthropology of the otherwise" — a way of thinking about worlds that refuse liberalism's terms.
+Elizabeth A. Povinelli (born 1962) is an American anthropologist, critical theorist, and filmmaker, and Franz Boas Professor of Anthropology and Gender Studies at Columbia University. Her work, grounded in long-term collaboration with Aboriginal communities in Australia's Northern Territory, is one of the most sustained attempts to think anthropology, critical theory, and Indigenous politics together. From *The Cunning of Recognition* (2002) to *Geontologies: A Requiem to Late Liberalism* (2016), she has argued that liberal multiculturalism, for all its promises of recognition, continues the work of settler colonialism, and she has developed an "anthropology of the otherwise" — a way of thinking about worlds that refuse liberalism's terms.
 
 ## Life and Career
 
-Povinelli was born on 3 February 1962 in Buffalo, New York. She studied at St John's College in Santa Fe and took her PhD in anthropology from Yale University in 1991. Before her academic career, she worked closely with the Belyuen community in the Northern Territory of Australia as a Thomas J. Watson Fellow, beginning a relationship that has lasted for decades and that underpins all her major work. She is a founding member of the Karrabing Film Collective, an Indigenous media group based in the Northern Territory whose films explore the conditions of inequality faced by Aboriginal people, and she has directed the Institute for Research on Women and Gender at Columbia and co-directed the Centre for the Study of Law and Culture. She was formerly editor of the journal *Public Culture*. Her book *Geontologies* (2016) received the Lionel Trilling Book Award in 2017.
+Povinelli was born in 1962 in the United States. She took her PhD in anthropology from Yale University in 1991. She began working with the Belyuen community in the Northern Territory of Australia early in her career, a relationship that has lasted for decades and that underpins all her major work. She is a founding member of the Karrabing Film Collective, an Indigenous media group based in the Northern Territory whose films explore the conditions of inequality faced by Aboriginal people, and she has directed the Institute for Research on Women, Gender, and Sexuality at Columbia and co-directed the Centre for the Study of Law and Culture. She has also been an editor of the journal *Public Culture*.
 
 ## Key Works
 
@@ -32,7 +32,6 @@ Povinelli was born on 3 February 1962 in Buffalo, New York. She studied at St Jo
 - *Economies of Abandonment: Social Belonging and Endurance in Late Liberalism* (2011).
 - *Geontologies: A Requiem to Late Liberalism* (2016).
 - *Between Gaia and Ground: Four Axioms of Existence and the Ancestral Catastrophe of Late Liberalism* (2021).
-- *The Inheritance* (2021), a work of creative non-fiction.
 
 ## Main Ideas and Contributions
 
@@ -44,7 +43,7 @@ In *Geontologies* (2016) she turned to the distinction between Life and Nonlife 
 
 ## Influence and Critique
 
-Povinelli's influence extends across anthropology, Indigenous studies, critical theory, and the arts. Her concept of the "cunning of recognition" has been taken up far beyond Australia, in studies of multiculturalism in Canada, the United States, and Europe, and her work on geontologies has shaped debates in the environmental humanities and in the anthropology of the Anthropocene. The Karrabing Film Collective, of which she is a member, has brought her ideas to an international audience through films that have been shown at the Tate Modern, the Museum of Modern Art, and the Venice Biennale.
+Povinelli's influence extends across anthropology, Indigenous studies, critical theory, and the arts. Her concept of the "cunning of recognition" has been taken up far beyond Australia, in studies of multiculturalism in Canada, the United States, and Europe, and her work on geontologies has shaped debates in the environmental humanities and in the anthropology of the Anthropocene. The Karrabing Film Collective, of which she is a member, has brought her ideas to an international audience through films shown at film festivals and in galleries and museums internationally.
 
 Critics have raised two main questions. Some anthropologists have asked whether her theoretical vocabulary — late liberalism, geontologies, the otherwise — risks obscuring the ethnographic detail on which it rests, and whether the people she writes about would recognise themselves in it. Others have questioned the politics of her position as a non-Indigenous scholar theorising Indigenous worlds, and whether the "anthropology of the otherwise" can avoid reproducing the very appropriation it criticises. Povinelli has responded by insisting on the collaborative character of her work — the Karrabing films are made collectively, not by her alone — and by arguing that the task of theory is not to represent others but to learn to think with them, in ways that change the thinker.
 

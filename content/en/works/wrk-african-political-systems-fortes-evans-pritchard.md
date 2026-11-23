@@ -12,22 +12,20 @@ edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
 related:
   []
-gaps:
-  - "Typologies of African political organisation"
-  - "Stateless societies and political anthropology"
+gaps: []
 ---
 
 # African Political Systems
 
 *African Political Systems* (1940), edited by Meyer Fortes and E. E. Evans-Pritchard, is the founding text of political anthropology. Published by Oxford University Press for the International African Institute, the volume asks a question that had barely been posed before: how is political order maintained in societies without states, kings, or courts? Its answer — that order can rest on kinship, age sets, and balanced opposition rather than on centralised authority — reshaped anthropology's understanding of politics and remains a reference point today.
 
-The book appeared at a moment when British social anthropology, under A. R. Radcliffe-Brown, was consolidating itself as a science of social structure. Fortes and Evans-Pritchard, both his students, applied structural-functionalism to politics. Their introduction proposes a typology that organised the field for a generation: African societies divide into Group A, states with centralised authority and administrative machinery, and Group B, stateless societies in which political relations are ordered through segmentary lineage systems and other non-centralised institutions.
+The book appeared at a moment when British social anthropology, under A. R. Radcliffe-Brown, was consolidating itself as a science of social structure. Fortes and Evans-Pritchard, both trained under Charles Seligman and Malinowski and influenced by Radcliffe-Brown (who contributed the volume's Preface), applied a structural-functionalist approach to politics. Their introduction proposes a typology that organised the field for a generation: African societies divide into Group A, states with centralised authority and administrative machinery, and Group B, stateless societies in which political relations are ordered through segmentary lineage systems and other non-centralised institutions.
 
 ## Structure and Cases
 
 The volume contains eight case studies, five of centralised systems and three of stateless ones. The Group A chapters cover the Zulu under their king, the Ngwato of Botswana, the Bemba of Zambia, the Ankole kingdom of Uganda, and the Kede of northern Nigeria. The Group B chapters cover the Logoli of Kenya, the Tallensi of Ghana — Fortes's own fieldwork — and the Nuer of South Sudan, Evans-Pritchard's classic study.
 
-Each chapter follows a common template: territory and population, the system of political offices, the mechanisms of sanction and dispute settlement, and the relationship between political and kinship organisation. The uniformity is deliberate. By holding the questions constant across cases, the editors could compare systematically and draw general conclusions — a method that set the template for comparative anthropology.
+The chapters were written by different authors (Gluckman on the Zulu, Schapera on the Ngwato, Richards on the Bemba, Oberg on Ankole, Nadel on the Kede, Wagner on the Logoli, Fortes on the Tallensi, Evans-Pritchard on the Nuer), but all address the same core questions: the system of political offices, the mechanisms of sanction and dispute settlement, and the relationship between political and kinship organisation. By holding the questions broadly constant across cases, the editors aimed at systematic comparison.
 
 The two most influential chapters are Fortes on the Tallensi and Evans-Pritchard on the Nuer. Fortes showed how the Tallensi, who had no chiefs, maintained order through the lineage system: authority rested with the elders of maximal lineages, disputes were settled by mediation, and the ritual office of the earth priest balanced the political power of lineage heads. Evans-Pritchard's Nuer chapter introduced the principle of segmentary opposition — the idea that Nuer lineages unite against outsiders at one level and divide against each other at another, so that political unity is always relative to the scale of conflict. A Nuer man, Evans-Pritchard wrote, stands with his lineage against a neighbouring lineage, and with both against a more distant one. Order emerges from this fission and fusion, not from any authority above it.
 
@@ -53,5 +51,5 @@ Even so, the book's central move has endured: the insistence that politics takes
 - Radcliffe-Brown, A. R. *Structure and Function in Primitive Society*. Free Press, 1952.
 - Mair, Lucy. *Primitive Government*. Penguin Books, 1962.
 - Middleton, John, and David Tait, eds. *Tribes Without Rulers: Studies in African Segmentary Systems*. Routledge and Kegan Paul, 1958.
-- Asad, Talal. "Anthropology and the Colonial Encounter." In *Anthropology and the Colonial Encounter*, edited by Talal Asad, 1973.
-- Kuper, Adam. *Anthropology and Anthropologists: The Modern British School*. Routledge, 1996.
+- Asad, Talal, ed. *Anthropology and the Colonial Encounter*. London: Ithaca Press, 1973.
+- Kuper, Adam. *Anthropology and Anthropologists: The Modern British School*. Routledge, 1996 (third edition).

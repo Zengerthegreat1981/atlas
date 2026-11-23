@@ -13,7 +13,7 @@ edges:
 related:
   []
 gaps:
-  - "Ownership rights over things"
+  []
 ---
 
 # Property
@@ -32,13 +32,13 @@ The modern theory of property begins with John Locke's *Second Treatise of Gover
 
 Henry Maine's *Ancient Law* (1861) offered a historical alternative, arguing that early societies knew property as a family or corporate possession, and that individual ownership developed only gradually, as societies moved "from status to contract." Lewis Henry Morgan, in *Ancient Society* (1877), linked the development of property to the development of the family and the state.
 
-In the twentieth century, ethnographers documented property systems that confounded Western assumptions. Among the Trobriand Islanders, garden land was held by matrilineal clans but worked by men who had married in; among the Nuer of Sudan, cattle were owned by individuals but loaned, inherited, and sacrificed in ways that made ownership a matter of kinship and politics. Property, it turned out, was inseparable from social organisation.
+In the twentieth century, ethnographers documented property systems that confounded Western assumptions. Among the Trobriand Islanders, garden land was held by matrilineal subclans, and men gave much of their yam harvest to their sisters' households; among the Nuer of Sudan, cattle were owned by individuals but loaned, inherited, and sacrificed in ways that made ownership a matter of kinship and politics. Property, it turned out, was inseparable from social organisation.
 
 ## Key Debates and Dimensions
 
 One major debate concerns the relationship between property and personhood. Marilyn Strathern, in *The Gender of the Gift* (1988), argued that in Melanesia people and things are not sharply separated: a gift carries part of the giver, and a person is composed of the relationships that make them. Property in such a context is not the extension of an autonomous individual over things, but a way of acting upon relationships. C. B. Macpherson, in the essays collected in *Property* (1978), made a related point from political theory: property is not a thing but a right, and rights are always social and political.
 
-A second debate concerns land. In many parts of the world, land is not owned in the Western sense at all: it is held in trust for ancestors and descendants, it cannot be sold, and its use is governed by custom. Colonial and postcolonial states have repeatedly tried to convert such systems into individual title, often with disastrous results — dispossession, conflict, and the loss of livelihoods. Chris Hann, in *Property Relations* (1998), showed that the privatisation of land in Eastern Europe after the fall of communism produced not efficiency but confusion, as people found that the new titles did not match the old webs of use and obligation.
+A second debate concerns land. In many parts of the world, land is not owned in the Western sense at all: it is held in trust for ancestors and descendants, it cannot be sold, and its use is governed by custom. Colonial and postcolonial states have repeatedly tried to convert such systems into individual title, often with disastrous results — dispossession, conflict, and the loss of livelihoods. The ethnographers in *Property Relations* (1998), edited by Chris Hann, showed that the privatisation of land in Eastern Europe after the fall of communism produced not efficiency but confusion, as people found that the new titles did not match the old webs of use and obligation.
 
 A third dimension is intellectual property. Who owns a song, a story, a seed, or a medicine? Indigenous communities have argued that their knowledge is collective property, not to be patented by corporations, and international law has begun, slowly, to recognise these claims. Property, once a question about land and cattle, is now a question about culture itself.
 
@@ -51,6 +51,7 @@ Property is at the centre of contemporary struggles: over land in Africa and Lat
 - Locke, John. *Second Treatise of Government*. 1689.
 - Maine, Henry Sumner. *Ancient Law*. 1861.
 - Morgan, Lewis Henry. *Ancient Society*. 1877.
+- Ostrom, Elinor. *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press, 1990.
 - Macpherson, C. B., ed. *Property: Mainstream and Critical Positions*. 1978.
 - Strathern, Marilyn. *The Gender of the Gift: Problems with Women and Problems with Society in Melanesia*. 1988.
 - Hann, Chris, ed. *Property Relations: Renewing the Anthropological Tradition*. 1998.
