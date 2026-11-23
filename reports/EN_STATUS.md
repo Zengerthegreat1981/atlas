@@ -154,3 +154,13 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
 - Scope `reports/scope/anthropology-scope.md`: 95 entries translated by Haiku from AR assets, 4 field intros by Sonnet (`fld-anthropology` root, ethnography/fieldwork ethics, kinship/exchange/economy, power/state/politics); all 451 module files fact-checked by Sonnet (many invented citations, quotations, fieldwork details and biographies removed or rewritten; see `reports/scope/corrections.txt`).
 - Five unusable stubs (con-division-labor, thk-abdalla-salem, thk-akira-fujii, thk-ming-ming-kuo, thk-sergio-carrasco) moved to `content/en/drafts/` (not built); release check is CLEAN.
 - Reading paths auto-generated. Machine-assisted content; specialist review required.
+
+---
+# Pass 14 — Historiography v1 IN PROGRESS (2026-11-23), Haiku translation only
+- Prepared scope (`scripts/scope/historiography_scope.py`, `reports/scope/historiography-translate.json`): 135 entries in 6 batches.
+  Batches 0-4 translated by Haiku (113 new files; EN total 200). **Not yet done:** batch 5 (22 entries: `hit5.txt`), the 3 field intros
+  (`fld-historiography`, `fld-historical-method-sources`, `fld-schools-historical-thought`), the Sonnet fact-check of all historiography files,
+  reading paths, scope doc. These 113 files are UNVERIFIED machine translations.
+- Tooling: Node 26 + Gemini CLI 0.70 (auth not set up for headless) and Antigravity `agy` 1.4.12 installed. `agy -p` works, but headless runs need
+  permission rules for shell commands (allow-rules in settings.json or `--dangerously-skip-permissions --sandbox`); pilot on batch 5 wrote no files.
+- Resume: finish batch 5 (Haiku), author field intros (Sonnet), fact-check (Sonnet, batches of ~30), `auto_paths.py historiography fld-historiography`, `write_reading_path.py`, `render_scope.py`, commit.

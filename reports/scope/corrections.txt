@@ -2735,3 +2735,24 @@ wrk-tristes-tropiques: Tristes Tropiques: removed false Goncourt win, hot/cold s
 wrk-urban-culture: Urban culture: retitled to Fox's actual book; removed unverifiable specifics (Fox's Indian city fieldwork, Hannerz ghetto/critique claims, Harvey/Castells debate framing, typology details); gaps rewritten
 wrk-womans-evolution: Woman's Evolution: file was an empty stub and misattributed to Leacock; author is Evelyn Reed (Pathfinder, 1975); written entry with Sources; Leacock's Myths of Male Dominance (1981) cited as distinct
 wrk-works-lives: fixed "four essays" (framing chapters plus four case studies), Camp Memorial Lectures, case-study order, Benedict/Lévi-Strauss characterizations, removed unsupported critique claim, cleared gaps
+thk-herodotus: Arabic 'الحيت المجنحة' (winged serpents, Histories 2.75) rendered as 'winged serpents'; source wording read as 'whale' and not carried over.
+thk-barbara-rosenwein: Arabic title 'إلى سانت پيتر إيرزي' (garbled) rendered as the book's published title 'To Be the Neighbor of Saint Peter: The Social Meaning of Cluny's Property, 909–1049' (1989).
+con-historical-objectivity: Arabic 'كوليم ديلثاي' (garbled first name) rendered as Wilhelm Dilthey.
+con-witness-testimony-antiquity: Marincola 'Authority and Tradition in Ancient Historiography' date given as 2007 in source; corrected to 1997 (Cambridge). Flagged, not changed: quoted lines attributed to Herodotus ('I saw the pyramids myself') and Thucydides ('I saw a goddess at war') are not verified verbatim quotations; kept as written with a note in the English file.
+sch-plutarch-parallel-biography: Arabic 'طرطوس' (Tartus, not a Roman-era library site) in the sentence about the libraries Plutarch consulted; the place name was dropped and the sentence kept as 'large libraries in Rome'. Flagged: 'classes literature' in the Arabic-tradition paragraph is a loose rendering of 'طبقات'.
+wrk-the-cheese-and-the-worms-ginzburg: source says Giordano Bruno was burned 'in the same year (1599) approximately'; corrected to 1600 (Bruno's execution in Rome, February 1600).
+wrk-parallel-lives-plutarch: source count '46 lives (25 pairs and 6 single lives)' is internally inconsistent; corrected to the standard count of fifty lives (23 pairs and 4 single lives).
+wrk-mahabharata-itihasa: flagged, not changed: source says the University of Chicago project ran for decades to produce a complete critical English translation; the Chicago (van Buitenen) translation was not completed, so this claim may be inaccurate and should be checked.
+thk-nicola-machiavelli: source said the first four books of the History of Florence cover up to the late 14th century; corrected to 1434, since the same source places the start of books 5-8 at 1434.
+wrk-histories-polybius: omitted the parenthetical name "Clevius" (a Roman historian who relied on Polybius) from the sentence on Polybius's influence; no such historian is identifiable, so the name appears to be garbled. The rest of the sentence is kept.
+thk-judah-halevi: poem opening addressed "يا رب" (O Lord); corrected addressee to Zion in English rendering ("Will you not ask after the way to Zion?").
+thk-jacques-le-goff: flagged, not changed: source says Le Goff co-founded Le Débat with Pierre Nora; journal is generally attributed to Nora and Marcel Gauchet (1980). Please verify.
+con-longue-duree: source "Annales" 2026 claim: David Armitage and Jo Guldi (The History Manifesto, 2014) were garbled as "جو غولدي David Armitage / جو جوين Jo Guldi"; corrected to David Armitage and Jo Guldi.
+wrk-history-and-historians-carr: en title "History and Historians (Carr)" does not match the book discussed (What Is History?, 1961); corrected English title to "What Is History? (E. H. Carr)".
+wrk-sumerian-king-list-text: source says kingship first descended on Uruk; the Sumerian King List opens with kingship in Eridu; corrected to Eridu.
+wrk-social-origins-dictatorship-democracy-moore: garbled sentence naming Theda Skocpol as one of her own fellow Harvard school members ("كتيدا سكوتشپول نفسها") omitted the self-reference; kept the rest.
+wrk-babyloniaca-berossus | source gap gave Josephus as '1 BCE'; corrected to 37-c. 100 CE (Josephus lived c. 37-100 CE)
+wrk-babyloniaca-berossus | omitted garbled lead sentence 'ضياعُ Babyloniaca حدثَ منذ الآن الرومانيّة' (no sensible meaning); heading and bullets kept
+thk-tabari-expansion | birth_year/death_year were 0 (placeholder); set to 839/923 per the body text (c. 839-923)
+thk-einhard | birth_year/death_year were 0 (placeholder); set to 775/840 per the body text (c. 775-840)
+wrk-epic-of-sundiata-griots | name spelling normalized: 'Sumagoru Konde' and 'Sumanguru Kante' unified as Sumanguru Kanté (spelling only)

@@ -11,7 +11,7 @@ EN counts come from `check_en_release.py`; AR counts are an inventory of existin
 | anthropology | 449 | 0 | 0 | 449 | 1186 | source review + close drafts |
 | linguistics | 158 | 0 | 0 | 158 | 1200 | source review + close drafts |
 | political-economy | 161 | 0 | 0 | 161 | 1101 | source review + close drafts |
-| historiography | 87 | 0 | 0 | 87 | 1007 | source review + close drafts |
+| historiography | 200 | 0 | 0 | 200 | 1007 | source review + close drafts |
 | religious-studies | 149 | 0 | 0 | 149 | 888 | source review + close drafts |
 | legal-theory | 126 | 0 | 0 | 126 | 700 | source review + close drafts |
 | ethics | 127 | 0 | 0 | 127 | 181 | source review + close drafts |
