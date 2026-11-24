@@ -1,0 +1,11 @@
+layers/0 html: 'morbid depression' -> 'gloominess' (AR الكآبة)
+layers/5 html: FACTUAL: source says four women, but layer lists five (Beauvoir, Cannon, van Deurzen, Holzhey-Kunz, Lukas); EN changed to five (AR source still says four)
+layers/12 Langle vs Frankl: awkward 'meaning that one cannot ask' -> 'that is, one cannot ask'
+layers/13 palliative row: dangling 'The former' -> 'Palliative care'
+global: 'Daseinsanalysis and Dasein' (literal of التحليل الوجودي والدازاين) -> standard 'Daseinsanalysis' (4 places)
+layers/4 chip: 'Daseinsanalysis / Dasein' -> 'Daseinsanalysis'
+pairs/7 line: AR says 'two most famous confusions' but describes one; EN -> 'A very common confusion' (fidelity to intent)
+pairs/9 same: awkward 'from Daseinsanalysis'
+gnodes/9: added content in label ('Albert Camus: The Absurd and Revolt') -> 'Camus' (AR كامو)
+gnodes/21: added content in label ('Viktor Frankl: Will to Meaning') -> 'Frankl' (AR فرانكل)
+gantt: 'Patricia Ridgway' -> 'Priscilla Ridgway' (consistent with people key; real name is Priscilla A. Ridgway)

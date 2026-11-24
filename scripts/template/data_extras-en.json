@@ -1,0 +1,3156 @@
+{
+ "entries": [
+  {
+   "label": "From Scratch",
+   "sub": "I know nothing about it",
+   "path": "Schools ← Existential School ← Start Here",
+   "why": "The default track, designed for anyone who has never read on the topic. Read the layers in sequence from the first to the tenth, and do not skip. You will emerge knowing: what it is, where it came from, what it consists of, who its figures are, where they disagree, where it stands relative to its neighbors, and whether it works.",
+   "jumps": [
+    [
+     "What It Is in the First Place",
+     "what"
+    ],
+    [
+     "They Are Four Schools, Not One",
+     "branches"
+    ],
+    [
+     "Map of People",
+     "people"
+    ]
+   ]
+  },
+  {
+   "label": "From the Person",
+   "sub": "I have read Yalom and want the rest",
+   "path": "Thinkers ← Yalom ← His Place in the Entire Tradition",
+   "why": "Yalom is the doorway through which most Arab readers enter, and it is also the doorway that most gives the misleading impression that the school is a single thing. Start with the fourth layer to see that his current is one of four, then the eighth to see who opposes him and why.",
+   "jumps": [
+    [
+     "All Thinkers (Complete Index)",
+     "all-thinkers"
+    ],
+    [
+     "The American Current to Which He Belongs",
+     "br-humanistic"
+    ],
+    [
+     "Internal Controversies",
+     "fights"
+    ],
+    [
+     "Yalom — His Entry",
+     "thk-yalom"
+    ]
+   ]
+  },
+  {
+   "label": "From Controversy",
+   "sub": "Where do they disagree?",
+   "path": "Debates ← Inside the Existential School ← Eleven Controversies",
+   "why": "The fastest way to understand any school is to see what its adherents clash over. The eighth layer presents eleven genuine, documented controversies, some of which resulted in actual institutional schisms. And from each controversy, you understand a position on the map better than you would from ten definitions.",
+   "jumps": [
+    [
+     "The Eleven Controversies",
+     "fights"
+    ],
+    [
+     "The Four Currents",
+     "branches"
+    ],
+    [
+     "The Most Famous Schism",
+     "dbt-langle-frankl"
+    ]
+   ]
+  },
+  {
+   "label": "From Practice",
+   "sub": "What does a session look like?",
+   "path": "Interventions ← Existential Practice ← What Happens in the Room",
+   "why": "The existential school is constantly accused of being eloquent talk without clinical procedure. The seventh layer answers honestly: what the therapist actually does, what they refuse to do, and why they consider this refusal a part of the therapy rather than a deficiency in it.",
+   "jumps": [
+    [
+     "What a Session Looks Like",
+     "session"
+    ],
+    [
+     "The Lexicon",
+     "lex"
+    ],
+    [
+     "Status of the Evidence",
+     "evidence"
+    ]
+   ]
+  },
+  {
+   "label": "From the Question",
+   "sub": "Is it therapy or philosophy?",
+   "path": "Questions ← What Is Psychotherapy in the First Place? ← The Case of the Existential School",
+   "why": "This is not an external question, but the central controversy within the school itself since its inception, and it remains unsettled. It is the question that determines everything that follows: Is it taught through a curriculum? Is it tested through experimentation? Is it permissible for it to have a procedure manual?",
+   "jumps": [
+    [
+     "Is It a School or an Attitude?",
+     "dbt-school-or-attitude"
+    ],
+    [
+     "The Evidence Dispute",
+     "dbt-evidence"
+    ],
+    [
+     "Core Assumptions",
+     "assump"
+    ]
+   ]
+  }
+ ],
+ "layers": [
+  {
+   "k": "what",
+   "t": "What It Is in the First Place",
+   "s": "Identity and Boundaries — And Why It Is Difficult to Define",
+   "html": "\n <div class=\"sub\">A Working Definition</div>\n <p>Existential therapy is an approach to psychological work premised on the idea that much of human suffering is not a dysfunction in one's psychological apparatus, but a natural consequence of being human: a free, responsible, mortal, and solitary being living in a world that offers no ready-made meaning. Therapy here is not the eradication of these conditions — for they cannot be eliminated — but helping the person live with them consciously rather than fleeing from them at great cost.</p>\n <div class=\"sub\">What It Is Not</div>\n <p><b>It is not a set of techniques.</b> There is no “existential protocol” in the sense that cognitive-behavioral protocols exist, and most of its practitioners consider its absence a deliberate stance rather than a deficiency.</p>\n <p><b>It is neither optimism nor pessimism.</b> It is accused of gloominess because it speaks of death and absurdity, and accused of romanticism because it speaks of freedom and authenticity. In truth, it insists on looking at the human condition as it is, encompassing both what brings joy and what brings pain.</p>\n <p><b>It is not an offshoot of the humanistic approach.</b> The two are frequently conflated, yet the difference is fundamental: the humanistic current tends toward the view that the human being is inherently good by nature and that growth is the default state; the existential view holds that the human being is capable of both good and evil, and that growth is a painful choice, not an automatic inclination.</p>\n <p><b>Nor is it a philosophy to be lectured on in the therapy room.</b> Employing philosophical terminology with someone who is suffering is one of the most common beginner mistakes in it, and its own proponents warn against doing so.</p>\n <div class=\"sub\">Why It Is Difficult to Define</div>\n <p>For three combined reasons. First, it is not a single school but at least four distinct currents that arose in different countries and languages, some of which did not read one another for decades. Second, its foundational figures were philosophers, not clinicians; consequently, what reached the clinic arrived through disparate translations and interpretations. Third, many of its proponents outright reject defining it in closed terms, regarding that as a betrayal of its spirit.</p>\n <div class=\"warnbox\"><b>The rule upon which this Atlas builds this entire unit:</b> whenever you read a sentence beginning with “Existential therapy says…”, immediately ask: <b>Which of its currents?</b> In nine out of ten cases, the statement is true of one current and false of the remaining three.</div>",
+   "n": 1
+  },
+  {
+   "k": "phil",
+   "t": "Existential Philosophy — The Origin",
+   "s": "What It Is as a Philosophy, and How It Transitioned to the Clinic Line by Line",
+   "html": "\n <p>The therapeutic school cannot be understood without understanding the philosophy from which it emerged, because nearly all of its clinical controversies are extensions of philosophical disputes that preceded them. This layer consists of two parts: first, what existential philosophy is, and second, the transmission bridge — which philosophical statement produced which practice, and what changed along the way.</p>\n\n <div class=\"sub\">First: What Is Existential Philosophy?</div>\n <p>It is neither a closed system nor an agreed-upon doctrine. Most of those classified within it rejected the label — Kierkegaard died before it existed, Heidegger denied being an existentialist, and Merleau-Ponty had reservations. The only one who embraced it explicitly and enthusiastically was Sartre. Nevertheless, a clear thread unites them.</p>\n\n <div class=\"sub\">Its Six Theses</div>\n <table>\n  <tr><th>Thesis</th><th>What It Means</th><th>Against Whom It Was Stated</th></tr>\n  <tr><td>Existence precedes essence</td><td>No predetermined human nature. The human being exists, then creates what they are.</td><td>Against essentialist philosophy, and against every classification that renders man a species with predetermined traits.</td></tr>\n  <tr><td>The concrete individual, not the species</td><td>The truth that matters is the one lived by this particular person, not what holds true for “humanity” in general.</td><td>Against Hegel and totalizing systems in which the individual is dissolved.</td></tr>\n  <tr><td>Freedom is a burden, not a gift</td><td>To be free means to bear responsibility, to choose within a situation you did not choose, and to know that no one will decide for you.</td><td>Against determinisms: biological, social, and psychological.</td></tr>\n  <tr><td>Existence is embodied, finite, and in-the-world</td><td>No isolated consciousness. You are a body in time, space, relationships, and language — all of which shape you while you shape them.</td><td>Against the Cartesian dualism between an inner mind and an external world.</td></tr>\n  <tr><td>Anxiety is disclosive, not an illness</td><td>Anxiety is what emerges when familiarity collapses and the situation is seen as it is. It is the price of awareness, not a defect in it.</td><td>Against any framework that treats anxiety as a symptom to be eliminated.</td></tr>\n  <tr><td>Meaning is not given</td><td>The world does not come furnished with meaning. The resulting void is a condition, not a pathology — and what one does with it is the question.</td><td>Against ready-made metaphysical certitudes.</td></tr>\n </table>\n\n <div class=\"sub\">Its Internal Divisions</div>\n <p><b>Theistic and atheistic.</b> Kierkegaard, Marcel, Buber, Berdyaev, and Tillich on one side; Sartre and Camus on the other. The disagreement is no minor detail: if an Absolute exists, freedom is exercised before it; if not, freedom is exercised in a vacuum. This is the very same divide that would recur later in Frankl’s dispute with the secular current.</p>\n <p><b>Phenomenological and existential.</b> Phenomenology is a method for describing experience; existentialism is a stance on existence. Most of the therapeutic school inherited both, but the currents differ in which they prioritize: the British current privileges the phenomenological method, while the American current privileges the existential stance.</p>\n <p><b>German and French.</b> The German lineage (Husserl, Heidegger, Jaspers) is ontological, methodological, and dense. The French lineage (Sartre, Beauvoir, Merleau-Ponty, Camus) is ethical, political, and literary. The therapeutic school inherited the German lineage in Europe and the French lineage more faintly — and the absence of the French lineage is one reason for the weakness of its social dimension.</p>\n\n <div class=\"sub\">What Existential Philosophy Is Not</div>\n <p>It is not pessimism — Camus concludes that Sisyphus must be imagined happy. Nor is it an invitation to chaos — on the contrary, it takes the heaviest stance on responsibility. Nor is it a denial of constraints — Heidegger's central idea is that you are thrown into a situation you did not choose. Nor is it necessarily individualistic — Beauvoir built an entire ethics on the intertwining of freedoms.</p>\n\n <div class=\"warnbox\"><b>The most famous misreading:</b> “Existentialism says you are entirely free and responsible for everything.” This is only half of the thesis; the other half — thrownness, situation, and intertwining — is what was dropped during transmission to the clinic, only to return decades later in the form of a “critique” of the school.</div>\n\n <div class=\"sub\">Second: The Transmission Bridge — From Philosophical Proposition to Practice</div>\n <p>This is the heart of this layer. Each card below presents three things: the idea in its original philosophical formulation, exactly where it emerged in psychological practice, and what shifted or was dropped during the transit. Read them in sequence — they are structured to build on one another.</p>\n <div id=\"bridge\"></div>\n <div class=\"note\">Note a recurring pattern in the third column: what is dropped in transmission is almost always <b>the constraint</b> — the theological framework in Kierkegaard, the socio-critical dimension in Nietzsche, thrownness in Heidegger, intertwining in Beauvoir, and methodological reservation in Jaspers. The therapeutic school inherited freedom and abandoned its limits. This, in our assessment, is the most precise diagnosis of its contemporary crisis.</div>",
+   "n": 2
+  },
+  {
+   "k": "roots",
+   "t": "Philosophical Roots",
+   "s": "Before It Became Therapy — Where the Ideas Came From",
+   "html": "\n <p>This is not an optional historical background. Those who do not know these roots will read the terms as slogans, and will not understand why the school's adherents disagree in the first place—because their disagreements are largely an extension of their philosophers' disagreements.</p>\n <table>\n  <tr><th>Source</th><th>What It Contributed to the School</th><th>What Remains of It in the Clinic</th></tr>\n  <tr><td><b>Kierkegaard</b><br><span class=\"pill\">19th century</span></td>\n   <td>Shifting the question from \"What is man?\" to \"How do I exist?\". Anxiety is the dizziness of freedom. Despair is a misrelation in the self's relation to itself. The concrete individual against abstract systems.</td>\n   <td>The idea that anxiety is not always an illness, and that choosing is inherently painful, not due to a flaw in the chooser.</td></tr>\n  <tr><td><b>Nietzsche</b></td>\n   <td>The death of God as a cultural condition: no meaning given from the outside. The will to power. Critique of herd morality. \"Become what you are\".</td>\n   <td>That meaning is made, not received. And the critique of compromise and conformity as forms of escape.</td></tr>\n  <tr><td><b>Husserl</b></td>\n   <td>Phenomenology as a method: the return to the things themselves, suspension of preconceived judgments, and describing experience as it is given.</td>\n   <td>Almost the entire practical method: descriptive listening instead of premature interpretation.</td></tr>\n  <tr><td><b>Heidegger</b><br><span class=\"pill\">The heaviest</span></td>\n   <td>Dasein, being-in-the-world, being-towards-death, authenticity, \"the they\", anxiety as disclosure, and everyday preoccupation as escape.</td>\n   <td>The theoretical structure for most currents—and also the greatest source of misunderstanding.</td></tr>\n  <tr><td><b>Jaspers</b></td>\n   <td>Boundary situations: death, suffering, struggle, and guilt. And the distinction between explanation and understanding in psychiatry.</td>\n   <td>The idea of \"ultimate concerns\" upon which Yalom later built.</td></tr>\n  <tr><td><b>Sartre</b></td>\n   <td>Existence precedes essence. Absolute freedom and heavy responsibility. Bad faith as an alternative to the unconscious. The project. The gaze of the Other.</td>\n   <td>The focus on responsibility and self-deception—which clearly distinguishes the American current.</td></tr>\n  <tr><td><b>Simone de Beauvoir</b><br><span class=\"pill\">Often omitted</span></td>\n   <td>The Ethics of Ambiguity: freedom is not individual but intertwined with the freedom of others. And the lived situation constrains freedom practically, not just theoretically.</td>\n   <td>The strongest internal response to the charge of individualism—yet she is omitted from most presentations of the school.</td></tr>\n  <tr><td><b>Merleau-Ponty</b></td>\n   <td>The lived body: we are not a consciousness inside a body, but conscious bodies. Perception is not representation, but engagement.</td>\n   <td>The entry point for contemporary currents into working with the body and illness.</td></tr>\n  <tr><td><b>Buber and Marcel</b></td>\n   <td>\"I-Thou\" versus \"I-It\". Presence, commitment, and hope as modes of being, not as emotions.</td>\n   <td>The concept of the therapeutic encounter, and that the relationship itself is the tool, not its container.</td></tr>\n  <tr><td><b>Tillich</b></td>\n   <td>Three modes of existential anxiety: fate and death, emptiness and meaninglessness, guilt and condemnation. And courage as an existential act.</td>\n   <td>The most important alternative to Yalom's fourfold typology.</td></tr>\n </table>\n <div class=\"note\">Notice the gap: all of these are European, and all of them—except one—are men. This is not a trivial detail: much of the critique directed at the school today begins precisely here.</div>",
+   "n": 3
+  },
+  {
+   "k": "assump",
+   "t": "Core Assumptions",
+   "s": "Model of the Human Being, Suffering, and Change",
+   "html": "\n <div class=\"sub\">Model of the Human Being</div>\n <p>Six assumptions recur across all currents despite their differences:</p>\n <table>\n  <tr><th>Assumption</th><th>What It Means in Practice</th></tr>\n  <tr><td>The human being exists before having an essence</td><td>There is no predetermined \"human nature\" against which the case is measured. The question is not \"Is he normal?\" but \"How did he become this way, and what does he want?\"</td></tr>\n  <tr><td>Existence is always being-in-a-world</td><td>There is no meaning in studying a psyche isolated from its world, relationships, body, and language. An explicit rejection of the separation between inside and outside.</td></tr>\n  <tr><td>Freedom and responsibility are inseparable</td><td>Even in the tightest circumstances, a stance remains to be taken. This is the most frequently misread point: it is not a denial of constraints, but a statement that constraints do not negate stance.</td></tr>\n  <tr><td>Existence is finite</td><td>Death, illness, and loss are not accidental occurrences, but conditions. And acknowledging the limit is what gives choice its weight.</td></tr>\n  <tr><td>Meaning is made, not received</td><td>The world does not come with ready-made meaning, and the resulting void is not an illness but a condition. From here begins the disagreement with Frankl, who sees meaning as existing to be discovered.</td></tr>\n  <tr><td>Anxiety is a condition, not a symptom</td><td>A measure of anxiety is inherent to being alive and conscious. The goal is not to reduce it to zero, but to distinguish anxiety that opens up from anxiety that paralyzes.</td></tr>\n </table>\n <div class=\"sub\">Model of Suffering</div>\n <p>Suffering within this framework is of three kinds, not one: <b>existential suffering</b>, inherent to the human condition, which is not cured but lived; <b>neurotic suffering</b>, resulting from fleeing the former at a price (denial, conformity, compulsive preoccupation, pathological attachment); and <b>suffering from a circumstance</b> that is real, material, or social. The most dangerous clinical error in the entire school is reading the third as the first.</p>\n <div class=\"sub\">Model of Change</div>\n <p>Change does not occur through correcting a thought, discharging an emotion, or interpreting a past, but rather through four intertwined pathways: <b>clarity</b> (the person seeing their situation as it is, without embellishment), <b>acknowledgment of responsibility</b> (transitioning from \"this is what happened to me\" to \"this is what I do with what happened to me\"), <b>encounter</b> (being met by another human being who is genuinely present), and <b>commitment</b> (translating clarity into action, otherwise it remains sterile insight).</p>\n <div class=\"warnbox\"><b>The most critical clinical limitation:</b> Speaking of freedom and responsibility with someone in an acute crisis, or under the weight of violence, poverty, or illness, can turn into blaming the victim for their situation. Adherents of the school themselves consider this the most dangerous possible misuse of their tools.</div>",
+   "n": 4
+  },
+  {
+   "k": "branches",
+   "t": "They Are Four Schools, Not One",
+   "s": "Major Currents — The Heart of This Unit",
+   "html": "\n <p>This is the most important layer in the unit. Recent surveys of the field almost unanimously agree on four main currents, each having its country of origin, founder, terminology, journals, and independent training institutes—and some were unaware of each other's existence for decades.</p>\n <table>\n  <tr><th>Current</th><th>Where It Originated</th><th>Its Central Question</th><th>What Distinguishes It</th></tr>\n  <tr><td><span class=\"chip link\" data-go=\"br-daseins\"><b>Daseinsanalysis</b> ←</span></td><td>Switzerland and Germany · 1920s and 1930s</td>\n   <td>How does this human being's world open up?</td><td>The closest to Heidegger, the least inclined toward technique, and the most resolutely opposed to turning existential structures into therapeutic goals.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"br-logotherapy\"><b>Logotherapy and Viennese Existential Analysis</b> ←</span></td><td>Austria · 1930s onward</td>\n   <td>What makes this life worthwhile?</td><td>The only one that posits meaning as the primary motive, the only one that opens an explicit door to the spiritual dimension, and the most prolific in producing empirical evidence.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"br-humanistic\"><b>American Humanistic-Existential</b> ←</span></td><td>United States · 1950s onward</td>\n   <td>What is this human being fleeing from?</td><td>The most globally renowned, the most teachable, the closest to a warm therapeutic relationship—and the most accused of individualism.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"br-british\"><b>British Existential-Phenomenological</b> ←</span></td><td>Britain · 1980s onward</td>\n   <td>What does this human being's world look like from the inside?</td><td>The most committed to the phenomenological method, the most resistant to technique, and considers itself a philosophical practice rather than therapy in the medical sense.</td></tr>\n </table>\n <div class=\"chips\">\n  <span class=\"chip link\" data-go=\"br-daseins\">Daseinsanalysis <span class=\"lat\">· Full Item</span></span>\n  <span class=\"chip link\" data-go=\"br-logotherapy\">Logotherapy and Existential Analysis <span class=\"lat\">· Full Item</span></span>\n  <span class=\"chip link\" data-go=\"br-humanistic\">American Humanistic-Existential <span class=\"lat\">· Full Item</span></span>\n  <span class=\"chip link\" data-go=\"br-british\">British Existential-Phenomenological <span class=\"lat\">· Full Item</span></span>\n </div>\n <div class=\"sub\">Sub-currents and Extensions</div>\n <table>\n  <tr><th>Branch</th><th>Its Position</th></tr>\n  <tr><td>Phenomenological Psychiatry</td><td>Predates the four currents and feeds into them: describing pathological experience from within rather than classifying it from the outside. It has an active contemporary revival.</td></tr>\n  <tr><td>Existential Anti-Psychiatry</td><td>A 1960s British current that linked existentialism to a radical critique of the psychiatric establishment. Its cultural impact was immense, and its scientific reputation remains contested.</td></tr>\n  <tr><td>Existential Psychoanalysis</td><td>Attempts to combine Sartre and psychoanalysis, replacing the unconscious with other concepts such as bad faith and the project.</td></tr>\n  <tr><td>Existential-Integrative</td><td>A contemporary American extension that integrates multiple levels of intervention and adds wonder and awe to the concerns.</td></tr>\n  <tr><td>Phenomenological Contextualism</td><td>A contemporary current that interprets trauma as a collapse in existential structures, not a deficit in information processing.</td></tr>\n  <tr><td>Meaning-Centered Therapy</td><td>An offshoot of Frankl in palliative care; today it is the strongest branch in the entire school in terms of evidence.</td></tr>\n  <tr><td>Second-Wave Positive Psychology</td><td>Integrates meaning and suffering together instead of focusing on positive emotions, and explicitly borrows from Frankl.</td></tr>\n </table>",
+   "n": 5
+  },
+  {
+   "k": "people",
+   "t": "Map of People",
+   "s": "Who the figures of this school are — by generation and region",
+   "html": "\n <p>This layer is written specifically to dispel the impression of \"three or four famous figures.\" Names with an independent entry are styled as clickable buttons; the rest are included so the reader knows they exist, and entries will be created for them later.</p>\n\n <div class=\"sub\">Generation Zero — The Philosophers (Not Therapists)</div>\n <div class=\"chips\">\n  <span class=\"chip link\" data-go=\"thk-kierkegaard\">Kierkegaard</span><span class=\"chip\">Nietzsche</span>\n  <span class=\"chip\">Husserl</span><span class=\"chip link\" data-go=\"thk-heidegger\">Heidegger</span>\n  <span class=\"chip link\" data-go=\"thk-jaspers\">Jaspers</span><span class=\"chip\">Sartre</span>\n  <span class=\"chip link\" data-go=\"thk-beauvoir\">Simone de Beauvoir</span><span class=\"chip\">Merleau-Ponty</span>\n  <span class=\"chip\">Martin Buber</span><span class=\"chip\">Gabriel Marcel</span><span class=\"chip\">Paul Tillich</span>\n  <span class=\"chip\">Max Scheler</span><span class=\"chip\">Ortega y Gasset</span>\n </div>\n\n <div class=\"sub\">Generation One — The European Founders</div>\n <table class=\"roster\">\n  <tr><th>Name</th><th>Country</th><th>Contribution</th></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-binswanger\">Ludwig Binswanger</span></td><td>Switzerland</td>\n   <td>The first to turn Heidegger into psychological practice. The concept of \"world-design\": each human being has a way in which their world takes shape.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-boss\">Medard Boss</span></td><td>Switzerland</td>\n   <td>Worked directly with Heidegger for years, establishing the formulation that Heidegger himself endorsed. Binswanger's intellectual rival.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-minkowski\">Eugène Minkowski</span></td><td>France</td>\n   <td>Lived time: how time collapses in depression and schizophrenia. The most rigorous early analysis of pathological experience from within.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-jaspers\">Karl Jaspers</span></td><td>Germany</td>\n   <td>Founded the phenomenological method in psychiatry, and distinguished between explaining a phenomenon and understanding it.</td></tr>\n  <tr><td>Erwin Straus</td><td>Germany</td><td>Phenomenology of sensation, movement, and upright posture.</td></tr>\n  <tr><td>Viktor von Gebsattel</td><td>Germany</td><td>Phenomenology of obsession and time.</td></tr>\n  <tr><td>Roland Kuhn</td><td>Switzerland</td><td>Combined existential analysis with pharmacological research — a rare model of boundary crossing.</td></tr>\n  <tr><td>Henri Ellenberger</td><td>Switzerland/Canada</td><td>Historian of the field, and transmitter of the European tradition into English.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-frankl\">Viktor Frankl</span></td><td>Austria</td>\n   <td>Logotherapy. The only one to build an entire system around meaning instead of anxiety.</td></tr>\n </table>\n\n <div class=\"sub\">Generation Two — Transmission into English and Expansion</div>\n <table class=\"roster\">\n  <tr><th>Name</th><th>Country</th><th>Contribution</th></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-may\">Rollo May</span></td><td>United States</td>\n   <td>Introduced the European tradition into American psychology, and distinguished normal from neurotic anxiety.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-bugental\">James Bugental</span></td><td>United States</td>\n   <td>Founder of the humanistic-existential formulation as practice: authenticity, presence, and client resistance as the focus of work.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-laing\">R. D. Laing</span></td><td>Britain</td>\n   <td>Reading psychosis as a meaningful experience in context. The school's most publicly renowned and controversial figure.</td></tr>\n  <tr><td>Aaron Esterson · David Cooper</td><td>Britain</td><td>Extension of the anti-psychiatry movement.</td></tr>\n  <tr><td>Clark Moustakas</td><td>United States</td><td>Loneliness and isolation as an independent subject, and the phenomenological research methodology.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-yalom\">Irvin Yalom</span></td><td>United States</td>\n   <td>The most famous synthesis: four ultimate concerns, and a teachable framework.</td></tr>\n </table>\n\n <div class=\"sub\">Generation Three — The Contemporaries</div>\n <table class=\"roster\">\n  <tr><th>Name</th><th>Location</th><th>Contribution</th></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-vandeurzen\">Emmy van Deurzen</span></td><td>Britain</td>\n   <td>Founder of the organized British school, and author of the four dimensions of existence as an alternative to the four concerns.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-spinelli\">Ernesto Spinelli</span></td><td>Britain</td>\n   <td>The relational-phenomenological formulation, and rejection of fixed existential structures.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-langle\">Alfried Längle</span></td><td>Austria</td>\n   <td>Developed from Frankl the system of fundamental existential motivations, then separated from him institutionally.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-holzhey\">Alice Holzhey-Kunz</span></td><td>Switzerland</td>\n   <td>\"Suffering from existence\": the psychological symptom as hypersensitivity to an existential truth, not an evasion of it.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-schneider\">Kirk Schneider</span></td><td>United States</td>\n   <td>The existential-integrative approach, and introducing awe and wonder as a central dimension.</td></tr>\n  <tr><td><span class=\"chip link\" data-go=\"thk-cooper\">Mick Cooper</span></td><td>Britain</td>\n   <td>A map of the whole field: he established \"existential therapies\" in the plural as an accepted term.</td></tr>\n  <tr><td>Robert Stolorow</td><td>United States</td><td>Phenomenological contextualism: trauma as a collapse in the lived world, not a processing deficit.</td></tr>\n  <tr><td>Betty Cannon</td><td>United States</td><td>Existential psychoanalysis on a Sartrean basis.</td></tr>\n  <tr><td>Hans Cohn · Freddie Strasser · Simon du Plock · Digby Tantam</td><td>Britain</td>\n   <td>The institutional foundation of the British school: a society, a journal, and training programs.</td></tr>\n  <tr><td>Elisabeth Lukas</td><td>Germany</td><td>The most prominent figure to continue Frankl's original line after him.</td></tr>\n  <tr><td>Paul Wong</td><td>Canada</td><td>Meaning therapy, and the second wave of positive psychology.</td></tr>\n  <tr><td>William Breitbart</td><td>United States</td><td>Meaning-centered psychotherapy — the empirically strongest branch in the entire school.</td></tr>\n </table>\n\n <div class=\"sub\">Outside the Euro-American Axis</div>\n <p>Today, associations and training programs exist in Latin America, East Asia, and Australia, and a periodic world congress brings the currents together. However, published literature in English still predominantly represents the Euro-American axis.</p>\n <div class=\"ph\">Names and programs of these regions with their sources — not yet entered. This is a genuine gap in the coverage of the field, not in this atlas alone.</div>\n <div class=\"ph\">Arab presence: are there training programs or authentic, non-translated Arabic existential literature? Not yet surveyed.</div>\n <div class=\"note\">A noteworthy observation: among roughly thirty-odd names in this layer, only five are women. This says something about both the field and how its history has been written — and the evidence and critique layer returns to this point.</div>",
+   "n": 6
+  },
+  {
+   "k": "graph",
+   "t": "Network of Relationships",
+   "s": "Who influenced whom — interactive map",
+   "html": "<div id=\"graphHost\"></div>",
+   "n": 7
+  },
+  {
+   "k": "gantt",
+   "t": "Lifespan Chart",
+   "s": "Who was contemporary with whom — chronological overlap",
+   "html": "<div id=\"ganttHost\"></div>",
+   "n": 8
+  },
+  {
+   "k": "concepts",
+   "t": "Concepts Across Thinkers",
+   "s": "The same concept according to each of them",
+   "html": "<div id=\"conHost\"></div>",
+   "n": 9
+  },
+  {
+   "k": "compare",
+   "t": "Compare Two",
+   "s": "Where they agree and where they diverge",
+   "html": "<div id=\"cmpHost\"></div>",
+   "n": 10
+  },
+  {
+   "k": "lex",
+   "t": "Glossary",
+   "s": "The terms without which you will not understand a single sentence",
+   "html": "\n <p>Most of the difficulty in existential texts lies not in their depth, but in their vocabulary. Most terms have been translated into Arabic with more than one equivalent, and some have no equivalent at all.</p>\n <table>\n  <tr><th>Term</th><th>Original</th><th>What It Actually Means</th><th>Common Misconception</th></tr>\n  <tr><td>Dasein / Being-there</td><td>Dasein</td>\n   <td>Neither \"the human being\" nor \"the self\". It is the entity for whom its very being is an issue.</td>\n   <td>Translating it as \"human existence\", thereby turning it into a name for an entity rather than a description of a way of being.</td></tr>\n  <tr><td>Being-in-the-world</td><td>In-der-Welt-sein</td>\n   <td>The human being and their world are not two things that meet, but a single structure. There is no inside and outside.</td>\n   <td>Reading it as \"the influence of the environment on the individual\"—which is the exact opposite of what is intended.</td></tr>\n  <tr><td>Authenticity</td><td>Eigentlichkeit</td>\n   <td>For one to live one's life as one's own, not the life that \"people live\". It is neither moral truthfulness nor uniqueness.</td>\n   <td>Confusing it with \"be yourself\" in its motivational sense—which is a complete trivialization.</td></tr>\n  <tr><td>\"The they\"</td><td>das Man</td>\n   <td>The anonymous agent that dictates what is done and what is said. It is not a group of people, but an impersonal mode of being.</td>\n   <td>Translating it as \"society\", turning it into a social critique rather than an ontological description.</td></tr>\n  <tr><td>Thrownness</td><td>Geworfenheit</td>\n   <td>That you find yourself in a time, body, family, and language you did not choose. The situation from which you begin and which you did not create.</td>\n   <td>Reading it as determinism—while it is only half of the picture, the other half being the project.</td></tr>\n  <tr><td>The Project</td><td>Entwurf / projet</td>\n   <td>That the human being is always directed toward a possibility, creating oneself through what one intends, not through what has already passed.</td>\n   <td>Confusing it with planning or ambition.</td></tr>\n  <tr><td>Bad Faith</td><td>Mauvaise foi</td>\n   <td>Self-deception to evade freedom: convincing oneself that one is compelled when one is not.</td>\n   <td>Translating it as \"hypocrisy\"—which is the deception of others, not of oneself.</td></tr>\n  <tr><td>Existential Anxiety</td><td>Angst</td>\n   <td>Anxiety without an object, disclosing the human condition rather than pointing to a specific danger.</td>\n   <td>Treating it as a symptom to be alleviated.</td></tr>\n  <tr><td>Boundary Situations</td><td>Grenzsituationen</td>\n   <td>Death, suffering, struggle, and guilt: situations that cannot be resolved or bypassed, but toward which a stance must be taken.</td>\n   <td>Reading them as transient crises.</td></tr>\n  <tr><td>The Four Dimensions of Existence</td><td>Umwelt · Mitwelt · Eigenwelt · Überwelt</td>\n   <td>The physical, social, personal, and spiritual dimensions—four arenas in which every human being lives simultaneously.</td>\n   <td>Confusing them with the \"four ultimate concerns\" in Yalom. They are two entirely distinct classifications from two different schools.</td></tr>\n  <tr><td>Ultimate Concerns</td><td>Ultimate concerns</td>\n   <td>Death, freedom and responsibility, existential isolation, and meaninglessness—specifically in Yalom.</td>\n   <td>Presenting them as the classification of the entire school, whereas they represent only one stream within it.</td></tr>\n  <tr><td>The Will to Meaning</td><td>Wille zum Sinn</td>\n   <td>The primary drive according to Frankl. The existential vacuum is the result of its frustration.</td>\n   <td>Confusing it with the pursuit of happiness or self-actualization.</td></tr>\n  <tr><td>The Encounter</td><td>Encounter · Begegnung</td>\n   <td>A moment in which a human being is encountered as a \"Thou\" rather than an object. In this school, it is the instrument of therapy, not merely its framework.</td>\n   <td>Confusing it with empathy or a friendly relationship.</td></tr>\n  <tr><td>Phenomenological Epoché</td><td>Epoché</td>\n   <td>Temporarily suspending what you know and expect in order to see what is actually given.</td>\n   <td>Understanding it as neutrality or as a blank slate—which is neither possible nor intended.</td></tr>\n </table>\n <div class=\"ph\">Authorized Arabic equivalents for these terms and comparisons of circulating translations have not yet been entered; this is among the primary tasks of the terminology registry.</div>",
+   "n": 11
+  },
+  {
+   "k": "session",
+   "t": "What a Session Looks Like",
+   "s": "Actual Practice — Not Slogans",
+   "html": "\n <div class=\"sub\">What the Therapist Does</div>\n <p><b>Describes before explaining.</b> The first question is not \"Why do you feel this?\" but rather \"What does this look like from the inside?\". The goal is for the person's world to appear as it is before being categorized.</p>\n <p><b>Works with the present in the room.</b> What occurs between them and the client right now is treated as a living sample of the client's way of being with others—not as a prelude to talking about the outside world.</p>\n <p><b>Investigates implicit assumptions.</b> What does this person take for granted about themselves, the world, and others without noticing? And what price do they pay for each taken-for-granted assumption?</p>\n <p><b>Confronts gently.</b> Confrontation here is not a challenge, but revealing a contradiction: \"You say you have no choice, yet at the same time you choose this every day.\"</p>\n <p><b>Stays with anxiety instead of soothing it.</b> And this is the most difficult skill, because the therapist's natural inclination is to reassure.</p>\n <p><b>Works across the four dimensions.</b> The body, work, money, and space; relationships; the relationship with oneself; and values and beliefs—rather than confining the session to the psychological interior.</p>\n <p><b>Connects insight to action.</b> An insight that is not translated into a commitment in life is considered, in this school, an elegant escape rather than a success.</p>\n <div class=\"sub\">What They Refuse to Do—And This Is Intentional</div>\n <div class=\"chips\"><span class=\"chip\">No standardized homework</span><span class=\"chip\">No schedule of measured goals</span>\n  <span class=\"chip\">No premature explanation via the past</span><span class=\"chip\">No quick reassurance</span>\n  <span class=\"chip\">No diagnosis as a working framework</span><span class=\"chip\">No philosophical lecturing</span></div>\n <div class=\"sub\">What About the Practical Framework?</div>\n <table>\n  <tr><th>Item</th><th>Status in This School</th></tr>\n  <tr><td>Duration</td><td>Usually open-ended; short-term formats exist, but they are closer to meaning-centered branches.</td></tr>\n  <tr><td>Procedural manual</td><td>Deliberately absent in both the European and British streams; partially present in meaning-centered branches, which is why they possess manuals.</td></tr>\n  <tr><td>Measurement</td><td>Traditional resistance to metrics, and a hesitant contemporary shift toward accepting them.</td></tr>\n  <tr><td>Diagnosis</td><td>Used when administratively necessary, but not taken as a framework for understanding.</td></tr>\n  <tr><td>Therapist's stance</td><td>A partner in the human condition itself, not an expert outside it. Hence the emphasis on their transparency and presence.</td></tr>\n </table>\n <div class=\"warnbox\"><b>Mandatory boundaries:</b> The existential school is not a substitute for a qualified assessment, and is not suitable on its own in acute crises or in cases requiring urgent or pharmacological intervention. Its contemporary practitioners state this explicitly. Any discussion of freedom and responsibility in a crisis situation is treated with extreme caution.</div>",
+   "n": 12
+  },
+  {
+   "k": "fights",
+   "t": "Internal Controversies",
+   "s": "Where Members of the Same House Differ — Eleven Controversies",
+   "html": "\n <p>This layer is the quickest way to understand the school. The disputes are arranged from oldest to most recent, and some ended in an actual institutional schism rather than a theoretical disagreement.</p>\n\n <div class=\"fight\"><h6>1 · Binswanger or Boss: Who understood Heidegger?</h6>\n <p class=\"who2\">Switzerland · 1940s and 1950s</p>\n <p>Binswanger was the first to apply Heidegger psychologically, but Heidegger himself considered that he had misunderstood him and turned his ontological analysis into a theory of the self. Boss worked directly with Heidegger for years and produced the formulation endorsed by the philosopher. The result: two currents within a single tradition, and a question that persists to this day — is \"productive misunderstanding\" a defect, or a prerequisite for any translation from philosophy to the clinic?</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-boss-binswanger\">Open dispute</span></div></div>\n\n <div class=\"fight\"><h6>2 · Does the unconscious exist?</h6>\n <p class=\"who2\">Across traditions</p>\n <p>Sartre explicitly rejected the unconscious, replacing it with bad faith: nothing is hidden from me; I am the one avoiding knowing. Boss rejected it because it is a theoretical construct not given in experience. Conversely, contemporary currents attempt to combine Sartre and psychoanalysis. The practical impact is significant: whoever rejects the unconscious works with what the client avoids now; whoever accepts it works with what the client does not know in the first place.</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-unconscious\">Open dispute</span></div></div>\n\n <div class=\"fight\"><h6>3 · Is meaning discovered or created?</h6>\n <p class=\"who2\">Frankl vs. the secular current</p>\n <p>Frankl argues that every situation holds an inherent meaning waiting to be discovered, and that life questions the human being, not the other way around. Secular existentialism holds that the world is silent and that meaning is constructed. This is not a linguistic dispute: whoever views meaning as discovered guides the client toward it; whoever views it as constructed rejects guidance altogether, regarding it as paternalism.</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-meaning-found\">Open dispute</span></div></div>\n\n <div class=\"fight\"><h6>4 · Längle vs. Frankl — the institutional schism</h6>\n <p class=\"who2\">Vienna · 1990s</p>\n <p>Frankl's closest student worked with him for years, then developed a system that makes emotionality and the relationship to the self a prerequisite to questioning meaning — that is, one cannot ask \"What is the meaning of my life?\" before one can be in the world, love one's life, and be oneself. Frankl saw this as a departure from the essence of his system, culminating in a complete organizational split. As a result, \"Logotherapy\" and \"Existential Analysis\" have today become two different things with separate institutions.</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-langle-frankl\">Open dispute</span></div></div>\n\n <div class=\"fight\"><h6>5 · Is psychosis a meaningful journey?</h6>\n <p class=\"who2\">Laing and the anti-psychiatry movement</p>\n <p>The proposition: psychosis may be an understandable response to an unbearable familial or social situation, rather than a mere defect. The cultural impact was immense and restored a voice to patients. The price was heavy: delaying effective treatments, burdening families with guilt without evidence, and damaging the scientific reputation across the entire school. The debate over the balance of gains and losses here remains unresolved.</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-laing\">Open dispute</span></div></div>\n\n <div class=\"fight\"><h6>6 · The British vs. Yalom: Technique or philosophy?</h6>\n <p class=\"who2\">Britain · From the 1980s</p>\n <p>The British objection to the American formulation is threefold: it turns existentialism into techniques, it is individualistic while ignoring the social context, and the \"four concerns\" are a classification imposed from outside experience. The proposed alternative: the four dimensions of existence, a descriptive phenomenological method, and the refusal of therapy manuals. The American rebuttal: without teachability, the school dies in a single generation.</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-british-yalom\">Open dispute</span></div></div>\n\n <div class=\"fight\"><h6>7 · Spinelli vs. van Deurzen: Do fixed existential structures exist?</h6>\n <p class=\"who2\">Within the British school itself</p>\n <p>Van Deurzen adopts four dimensions of existence as a general framework. Spinelli objects: any general structure imposed on experience betrays the phenomenological method itself, and what is required is staying with what emerges in the relationship here-and-now without a prior map. The dispute seems subtle, but it touches the most critical question: can there be systematic training without categorization?</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-structures\">Open dispute</span></div></div>\n\n <div class=\"fight\"><h6>8 · Is it a school or an attitude?</h6>\n <p class=\"who2\">The oldest and most recurring dispute</p>\n <p>One camp views existentialism as an \"attitude\" that can be adopted by any therapist from any school, meaning there is no sense in independent training or a separate identity. Another camp views it as a complete school with its own ontology, methodology, and training. The decision has direct practical consequences: professional recognition, funding, and a place in healthcare systems.</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-school-or-attitude\">Open dispute</span></div></div>\n\n <div class=\"fight\"><h6>9 · Should we seek empirical evidence at all?</h6>\n <p class=\"who2\">The most heated dispute today</p>\n <p>The first stance: without randomized trials, we will be excluded from healthcare and insurance systems and from university teaching, and we will die a slow death. The second stance: accepting standards designed to evaluate standardized short-term interventions means redefining our work to fit the measuring stick rather than what is real, which is another form of suicide. The third (growing) stance: we develop evaluation criteria suited to the nature of the work — qualitative research, systematic case studies, and pragmatic measures — instead of rejecting evaluation or capitulating to it.</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-evidence\">Open dispute</span></div></div>\n\n <div class=\"fight\"><h6>10 · Individualism and blindness to power</h6>\n <p class=\"who2\">Mounting internal critique</p>\n <p>The accusation: a school that speaks of freedom, choice, and responsibility while addressing an individual isolated from their class, gender, race, and material conditions. And when a client is under the weight of poverty, discrimination, or violence, the discourse shifts from liberation to blame. The response from within the school draws on Beauvoir: freedom is intertwined and constrained by situation, an insight that was present in the philosophical origin but neglected in transmission.</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-individualism\">Open dispute</span></div></div>\n\n <div class=\"fight\"><h6>11 · The spiritual and the secular</h6>\n <p class=\"who2\">Frankl and the British on one side, and the secular current on the other</p>\n <p>Frankl posits an independent spiritual dimension for the human being that cannot be reduced to the psychological and somatic; and van Deurzen includes a fourth dimension for values and beliefs. The secular current sees this as opening a door that cannot be closed. The dispute has a direct practical impact on how religion is addressed in the session — a question far weightier in the Arab context than in the context where the school originated.</p>\n <div class=\"chips\"><span class=\"chip link\" data-go=\"dbt-spiritual\">Open dispute</span></div></div>",
+   "n": 13
+  },
+  {
+   "k": "neighbours",
+   "t": "Neighbors",
+   "s": "Relationship to other schools — similarities and disputes",
+   "html": "\n <table>\n  <tr><th>Neighbor</th><th>What unites them</th><th>What divides them</th><th>Status of the relationship</th></tr>\n  <tr><td><b>Humanistic and person-centered</b></td>\n   <td>Respect for the client's experience, rejection of the medical model, and centrality of the relationship</td>\n   <td>The humanistic approach assumes an innate tendency toward growth and goodness; the existential sees human beings as capable of both good and evil, and insists on limitation, mortality, and guilt</td>\n   <td>Close kinship and perpetual confusion — the most ambiguous neighbor</td></tr>\n  <tr><td><b>Psychoanalysis</b></td>\n   <td>Attention to what the person avoids, taking suffering seriously, and depth</td>\n   <td>The existential approach rejects childhood determinism, rejects the unconscious in its Freudian formulation among many of its proponents, and rejects interpreting the present by the past</td>\n   <td>Historical separation while retaining tools</td></tr>\n  <tr><td><b>Cognitive-behavioral</b></td>\n   <td>Both are concerned with what the person does now and reject prolonged waiting</td>\n   <td>The cognitive targets \"distorted\" thoughts and measures the outcome; the existential views some of these thoughts as an accurate perception of the human condition, not a distortion</td>\n   <td>Cold historical rivalry</td></tr>\n  <tr><td><b>Acceptance and commitment and the third wave</b></td>\n   <td>Striking convergence: acceptance instead of struggle, values as a compass, self-as-context, and openness to pain rather than its elimination</td>\n   <td>The philosophical foundation is entirely different (functional contextualism vs. phenomenology), and formulation and measurement are different</td>\n   <td>The closest contemporary neighbor — and a source of embarrassment: it arrives at similar outcomes, backed by evidence</td></tr>\n  <tr><td><b>Phenomenological psychopathology</b></td>\n   <td>The same methodological root: describing pathological experience from within</td>\n   <td>The latter remains within research psychiatry and does not claim to be a therapy</td>\n   <td>A natural ally and an active contemporary revival</td></tr>\n  <tr><td><b>Family and systemic</b></td>\n   <td>Rejection of explaining the individual in isolation from their network</td>\n   <td>The systemic approach views the system as the unit of analysis; the existential stays with the person and their relationship to their world</td>\n   <td>Possible and under-utilized integration</td></tr>\n  <tr><td><b>Liberation psychology</b></td>\n   <td>Concern with meaning, human dignity, and critique of the normalization of injustice</td>\n   <td>The former begins from the collective and social structure; the latter began from the individual</td>\n   <td>An emerging dialogue — and the most significant potential response to the charge of individualism</td></tr>\n  <tr><td><b>Palliative care</b></td>\n   <td>Direct confrontation with mortality, meaning, and dignity</td>\n   <td>Palliative care is a medical field with rigorous measurement standards</td>\n   <td>The most successful practical alliance: here the school's empirically strongest branch was born</td></tr>\n </table>\n <div class=\"chips\">\n  <span class=\"chip link\" data-go=\"rel-act\">Acceptance and Commitment — the awkward neighbor</span>\n  <span class=\"chip link\" data-go=\"rel-humanistic\">Humanistic — the ambiguous kinship</span>\n  <span class=\"chip link\" data-go=\"rel-phenopath\">Phenomenological psychopathology — the ally</span>\n </div>",
+   "n": 14
+  },
+  {
+   "k": "evidence",
+   "t": "Evidence and critique",
+   "s": "Does all this work? — in numbers, not impressions",
+   "html": "\n <div class=\"sub\">The Clearest Evidence We Have</div>\n <p>The most comprehensive published meta-analysis of the efficacy of existential therapies examined twenty-one eligible randomized trials, of which fifteen studies with unique data were included, encompassing a total of 1792 participants. The result was not a single verdict on the school, but rather differentiated verdicts across its branches:</p>\n <table>\n  <tr><th>Branch</th><th>Number of Studies</th><th>Effect</th></tr>\n  <tr><td>Meaning therapies</td><td>6</td>\n   <td>Large effect on meaning in life immediately post-intervention (d=0.65) and at follow-up (d=0.57), and medium effect on psychopathology (d=0.47) and on self-efficacy (d=0.48)</td></tr>\n  <tr><td>Supportive-expressive therapy</td><td>5</td>\n   <td>Small effect on psychopathology post-therapy and at follow-up (d=0.20, then 0.18), with no significant effect on self-efficacy or physical well-being</td></tr>\n  <tr><td>Experiential-existential</td><td>2</td><td>No significant effects</td></tr>\n  <tr><td>Cognitive-existential</td><td>1</td><td>No significant effects</td></tr>\n </table>\n <p>And the conclusion of the authors themselves—a sentence that must be quoted in full, not truncated: despite the small number of studies and their low quality, certain existential therapies appear beneficial for specific groups, and the clearest support they found was for <b>structured</b> interventions that include psychoeducation, exercises, and direct, positive discussion of meaning with physically ill patients.</p>\n <div class=\"warnbox\"><b>The paradox that anyone studying this school must grasp:</b> The only branch that demonstrated clear efficacy is the <b>structured, directive, and manualized</b> branch—that is, the branch that departs from the principles of the European and British currents in their rejection of technique and directiveness. Empirical success arrived precisely where the school conceded a part of its identity. Nor is this an incidental paradox; rather, it is the core of the ninth controversy in the controversies layer.</div>\n <div class=\"sub\">Why the Evidence Is Scarce — Four Reasons, Not Just One</div>\n <p><b>A principled stance:</b> A portion of the school rejects these measurement criteria in the first place. <b>Absence of treatment manuals:</b> A non-standardized intervention cannot be tested. <b>Size of the field:</b> The number of researchers and the amount of funding are far smaller than in competing schools. <b>Nature of the outcome:</b> What the school claims to enhance—authenticity, clarity, and living responsibly—is not captured by standard measures of anxiety and depression.</p>\n <div class=\"sub\">Critique from Outside the School</div>\n <p>Vagueness of terminology and difficulty of operationalizing it · The theory’s capacity to explain every possible outcome · Heavy reliance on case studies and narrative · Difficulty of training and measurement · And clinical risk in acute cases.</p>\n <div class=\"sub\">Critique from Within It</div>\n <p>Individualism and blindness to power and class · Eurocentrism · The near-total absence of women from its written history · Disconnection between currents · And the dilution of some of its literature into watered-down motivational writing.</p>\n <div class=\"sub\">What Endures Regardless</div>\n <p>At least three things. First: that much of what is classified as illness is an understandable response to a human condition—a valid insight that preceded transdiagnostic approaches by decades. Second: that the therapeutic relationship is an active ingredient in itself—one of the most robustly supported findings in psychotherapy research generally. Third: that questions of meaning, death, and responsibility are not luxuries—a reality that has become evident in palliative care with solid evidence.</p>\n <div class=\"ph\">Arabic evidence on the efficacy of any existential intervention, or the standardization of its instruments—has not been entered, nor is its existence sufficiently established.</div>",
+   "n": 15
+  }
+ ],
+ "timeline": [
+  {
+   "yr": "1843–1849",
+   "who": "Kierkegaard",
+   "txt": "The first root: anxiety as the dizziness of freedom, and despair as a misrelation in the self's relation to itself. He was not writing psychology, but everything that came after him passes through him.",
+   "links": [
+    [
+     "thk-kierkegaard",
+     "Kierkegaard",
+     "thinker"
+    ],
+    [
+     "wrk-concept-anxiety",
+     "The Concept of Anxiety",
+     "work"
+    ],
+    [
+     "wrk-sickness-death",
+     "The Sickness unto Death",
+     "work"
+    ]
+   ]
+  },
+  {
+   "yr": "1900–1913",
+   "who": "Husserl and Jaspers — Method and Medicine",
+   "txt": "Husserl establishes phenomenology as a method, and Jaspers translates it into psychiatry, distinguishing between explaining a phenomenon and understanding it. Here was born what would become the practical method of the school.",
+   "links": [
+    [
+     "thk-jaspers",
+     "Jaspers",
+     "thinker"
+    ],
+    [
+     "thk-husserl",
+     "Husserl",
+     "thinker"
+    ],
+    [
+     "wrk-general-psychopathology",
+     "General Psychopathology",
+     "work"
+    ]
+   ]
+  },
+  {
+   "yr": "1927",
+   "who": "Heidegger — Being and Time",
+   "txt": "The text that would become the theoretical framework for most currents, and simultaneously the source of their greatest disputes.",
+   "links": [
+    [
+     "thk-heidegger",
+     "Heidegger",
+     "thinker"
+    ],
+    [
+     "wrk-being-time",
+     "Being and Time",
+     "work"
+    ]
+   ]
+  },
+  {
+   "yr": "1930s",
+   "who": "Binswanger and Minkowski — First Application",
+   "txt": "Daseinsanalysis is born in the Swiss and French clinics: the patient's world is described from within rather than classified from without.",
+   "links": [
+    [
+     "thk-binswanger",
+     "Binswanger",
+     "thinker"
+    ],
+    [
+     "thk-minkowski",
+     "Minkowski",
+     "thinker"
+    ],
+    [
+     "wrk-lived-time",
+     "Lived Time",
+     "work"
+    ],
+    [
+     "br-daseins",
+     "Daseinsanalysis",
+     "current"
+    ]
+   ]
+  },
+  {
+   "yr": "1930s",
+   "who": "Frankl — Logotherapy Begins",
+   "txt": "The Third Viennese School takes shape: after the will to pleasure and the will to power, the will to meaning.",
+   "links": [
+    [
+     "thk-frankl",
+     "Frankl",
+     "thinker"
+    ],
+    [
+     "br-logotherapy",
+     "Logotherapy",
+     "current"
+    ]
+   ]
+  },
+  {
+   "yr": "1946",
+   "who": "Frankl — Man's Search for Meaning",
+   "txt": "The book that brought the school out of specialized circles into the world, and remains its most widely circulated text.",
+   "links": [
+    [
+     "wrk-mans-search",
+     "Man's Search for Meaning",
+     "work"
+    ],
+    [
+     "thk-frankl",
+     "Frankl",
+     "thinker"
+    ]
+   ]
+  },
+  {
+   "yr": "1958",
+   "who": "May, Angel, and Ellenberger — \"Existence\"",
+   "txt": "The moment the European tradition crossed into English. Without it, the American current would not exist in the first place.",
+   "links": [
+    [
+     "thk-may",
+     "Rollo May",
+     "thinker"
+    ],
+    [
+     "wrk-existence",
+     "Existence",
+     "work"
+    ],
+    [
+     "thk-angel",
+     "Ernest Angel",
+     "thinker"
+    ],
+    [
+     "thk-ellenberger",
+     "Henri Ellenberger",
+     "thinker"
+    ]
+   ]
+  },
+  {
+   "yr": "1959–1969",
+   "who": "Zollikon Seminars — Heidegger with the Physicians",
+   "txt": "The philosopher himself sits for years with psychiatrists at Boss's invitation: the only time the originator of the idea participated in bringing it to the clinic.",
+   "links": [
+    [
+     "thk-boss",
+     "Boss",
+     "thinker"
+    ],
+    [
+     "wrk-zollikon",
+     "Zollikon Seminars",
+     "work"
+    ],
+    [
+     "dbt-boss-binswanger",
+     "The Boss-Binswanger Dispute",
+     "controversy"
+    ],
+    [
+     "thk-heidegger",
+     "Martin Heidegger",
+     "thinker"
+    ]
+   ]
+  },
+  {
+   "yr": "1960–1971",
+   "who": "Laing and the Anti-Psychiatry Movement",
+   "txt": "Reading psychosis as meaningful, alongside alternative communal experiments: the school's widest cultural impact, and the heaviest price paid by its scientific reputation.",
+   "links": [
+    [
+     "thk-laing",
+     "Laing",
+     "thinker"
+    ],
+    [
+     "wrk-divided-self",
+     "The Divided Self",
+     "work"
+    ],
+    [
+     "dbt-laing",
+     "The Psychosis Controversy",
+     "controversy"
+    ]
+   ]
+  },
+  {
+   "yr": "1965",
+   "who": "Bugental — The Search for Authenticity",
+   "txt": "The humanistic-existential formulation takes shape as a teachable practice, not as a philosophy.",
+   "links": [
+    [
+     "thk-bugental",
+     "Bugental",
+     "thinker"
+    ]
+   ]
+  },
+  {
+   "yr": "1980",
+   "who": "Yalom — Existential Psychotherapy",
+   "txt": "The most famous synthesis: four ultimate concerns. This book is what most people know of the school, yet it represents only one current within it.",
+   "links": [
+    [
+     "thk-yalom",
+     "Yalom",
+     "thinker"
+    ],
+    [
+     "wrk-existential-psychotherapy",
+     "Existential Psychotherapy",
+     "work"
+    ],
+    [
+     "br-humanistic",
+     "The American Current",
+     "current"
+    ]
+   ]
+  },
+  {
+   "yr": "1988",
+   "who": "British Institutional Founding",
+   "txt": "A society, a journal, and training programs: the British current transitions from disparate individuals into a structured school.",
+   "links": [
+    [
+     "thk-vandeurzen",
+     "van Deurzen",
+     "thinker"
+    ],
+    [
+     "br-british",
+     "The British Current",
+     "current"
+    ]
+   ]
+  },
+  {
+   "yr": "1989–1990s",
+   "who": "Spinelli and the Relational Turn",
+   "txt": "An objection from within the British school: even the four dimensions are an imposed structure. What is needed is to stay with what emerges in the relationship.",
+   "links": [
+    [
+     "thk-spinelli",
+     "Spinelli",
+     "thinker"
+    ],
+    [
+     "dbt-structures",
+     "The Structures Controversy",
+     "controversy"
+    ]
+   ]
+  },
+  {
+   "yr": "1990s",
+   "who": "Längle Splits from Frankl",
+   "txt": "The most distinct institutional schism in the history of the school, precipitated by a precise question: does meaning precede the feeling of life or follow it?",
+   "links": [
+    [
+     "thk-langle",
+     "Längle",
+     "thinker"
+    ],
+    [
+     "dbt-langle-frankl",
+     "The Schism",
+     "controversy"
+    ]
+   ]
+  },
+  {
+   "yr": "2000s",
+   "who": "Meaning-Centered Therapy",
+   "txt": "An existential offshoot enters palliative care through randomized trials, producing the clearest evidence in the history of the school.",
+   "links": [
+    [
+     "tec-meaning-centered-psychotherapy",
+     "Meaning-Centered Therapy",
+     "technique"
+    ],
+    [
+     "br-logotherapy",
+     "Meaning Branches",
+     "current"
+    ]
+   ]
+  },
+  {
+   "yr": "2003 · 2017",
+   "who": "Cooper — \"Existential Therapies\" in the Plural",
+   "txt": "The map of the field is finally drawn, and it becomes standard to speak of \"therapies\" rather than \"therapy.\" This title alone transformed how the school is taught.",
+   "links": [
+    [
+     "thk-cooper",
+     "Cooper",
+     "thinker"
+    ],
+    [
+     "wrk-existential-therapies",
+     "Existential Therapies",
+     "work"
+    ]
+   ]
+  },
+  {
+   "yr": "2015",
+   "who": "The Meta-Analysis — The Reckoning",
+   "txt": "Twenty-one randomized trials, fifteen studies, 1792 participants. The outcome: the structured, directive branch is the only one to demonstrate a clear effect—that is, the branch furthest removed from the principles of the European and British currents.",
+   "links": [
+    [
+     "dbt-evidence",
+     "The Evidence Dispute",
+     "controversy"
+    ]
+   ]
+  },
+  {
+   "yr": "2015 onward",
+   "who": "Institutional Unification and Global Expansion",
+   "txt": "World congresses bring together the four currents regularly for the first time, alongside expansion beyond the Euro-American axis—while published literature remains predominantly Western.",
+   "links": []
+  },
+  {
+   "yr": "Today",
+   "who": "Three Open Questions",
+   "txt": "Will it accept evidence standards or develop its own? Will it answer the charge of individualism by returning to Beauvoir and liberation psychology? And will it survive being dissolved into the third wave, which asserts similar things backed by evidence?",
+   "links": [
+    [
+     "dbt-evidence",
+     "The Evidence Dispute",
+     "controversy"
+    ],
+    [
+     "dbt-individualism",
+     "The Individualism Controversy",
+     "controversy"
+    ],
+    [
+     "rel-act",
+     "The Awkward Neighbor",
+     "relationship"
+    ]
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "E1",
+   "v": 1,
+   "t": "Vos, J., Craig, M., & Cooper, M. (2015). Existential therapies: A meta-analysis of their effects on psychological outcomes. <i>Journal of Consulting and Clinical Psychology</i>, 83(1), 115. — 21 randomized trials, 15 studies, 1792 participants"
+  },
+  {
+   "id": "E2",
+   "v": 1,
+   "t": "Correia, E., Cooper, M., & Berdondini, L. Existential psychotherapies: Similarities and differences among the main branches. — Classification of the four currents"
+  },
+  {
+   "id": "E3",
+   "v": 1,
+   "t": "Längle, A. (2014). From Viktor Frankl's Logotherapy to Existential Analytic Psychotherapy. — A primary source on the schism from his perspective"
+  },
+  {
+   "id": "E4",
+   "v": 1,
+   "t": "Längle, A. The Viennese School of Existential Analysis. (Routledge) — A systematic presentation of the Viennese current after Frankl"
+  },
+  {
+   "id": "E5",
+   "v": 1,
+   "t": "Viktor Frankl Institute — Logotherapy and Existential Analysis. viktorfrankl.org — The official source for defining both terms and distinguishing between them"
+  },
+  {
+   "id": "E6",
+   "v": 1,
+   "t": "Vos, J., & Vitali, D. (2018). The effects of psychological meaning-centered therapies on quality of life and psychological stress: A meta-analysis. <i>Palliative & Supportive Care</i>."
+  },
+  {
+   "id": "E7",
+   "v": 0,
+   "t": "Cooper, M. <i>Existential Therapies</i> (Sage) — The reference map of the field. Edition and year need verification"
+  },
+  {
+   "id": "E8",
+   "v": 0,
+   "t": "Yalom, I. D. (1980). <i>Existential Psychotherapy</i>. Basic Books. — Edition needs verification"
+  },
+  {
+   "id": "E9",
+   "v": 0,
+   "t": "May, R., Angel, E., & Ellenberger, H. (Eds.) (1958). <i>Existence</i>. — Citation details need verification"
+  },
+  {
+   "id": "E10",
+   "v": 0,
+   "t": "van Deurzen, E. — Works of the British school and the four dimensions of existence. Titles and dates need verification"
+  },
+  {
+   "id": "E11",
+   "v": 0,
+   "t": "Spinelli, E. — The relational-phenomenological formulation. Citation details need verification"
+  },
+  {
+   "id": "E12",
+   "v": 0,
+   "t": "Boss, M. · Binswanger, L. — Primary sources of Daseinsanalysis in German and their translations. Not entered"
+  },
+  {
+   "id": "E13",
+   "v": 0,
+   "t": "Heidegger, M. <i>Zollikoner Seminare</i> — Zollikon Seminars. Dates and edition need verification"
+  },
+  {
+   "id": "E14",
+   "v": 0,
+   "t": "Frankl, V. — Original works in German and their dates. Not entered"
+  },
+  {
+   "id": "E15",
+   "v": 0,
+   "t": "Laing, R. D. — Works and subsequent critical reviews. Not entered"
+  },
+  {
+   "id": "E16",
+   "v": 0,
+   "t": "Arabic sources: Is there an authentic Arabic existential literature, not just translations? The survey has not yet been conducted."
+  }
+ ],
+ "edges": [
+  [
+   "is_a",
+   "Family of therapeutic traditions",
+   "classification"
+  ],
+  [
+   "contains",
+   "Daseinsanalysis",
+   "current"
+  ],
+  [
+   "contains",
+   "Logotherapy and Existential Analysis",
+   "current"
+  ],
+  [
+   "contains",
+   "American Humanistic-Existential",
+   "current"
+  ],
+  [
+   "contains",
+   "British Existential-Phenomenological",
+   "current"
+  ],
+  [
+   "influenced_by",
+   "Phenomenology",
+   "philosophical method"
+  ],
+  [
+   "influenced_by",
+   "Kierkegaard, Heidegger, Jaspers, and Sartre",
+   "thinkers"
+  ],
+  [
+   "adjacent_to",
+   "Humanistic School",
+   "school"
+  ],
+  [
+   "diverged_from",
+   "Psychoanalysis",
+   "school"
+  ],
+  [
+   "converges_with",
+   "Acceptance and Commitment and the Third Wave",
+   "school"
+  ],
+  [
+   "grounded_in",
+   "Phenomenological Psychopathology",
+   "field"
+  ],
+  [
+   "applied_in",
+   "Palliative Care",
+   "domain"
+  ],
+  [
+   "explains",
+   "Death, Freedom, Isolation, and Meaninglessness",
+   "phenomena"
+  ],
+  [
+   "criticized_by",
+   "Critique of Individualism and Blindness to Power",
+   "controversy"
+  ],
+  [
+   "has_cultural_limit_in",
+   "Secular European-American Context",
+   "context"
+  ],
+  [
+   "evidence_for",
+   "The 2015 Meta-Analysis",
+   "source"
+  ]
+ ],
+ "unknowns": [
+  "Does enough unite these four currents to warrant calling them a single school, or is the unified designation itself a source of confusion?",
+  "If the only branch with clear empirical evidence is the one that has most abandoned the school's principles, what does this say about the principles themselves?",
+  "Is what the school claims to enhance—authenticity, clarity, and living responsibly—measurable in the first place? And if not, how do we know that it works?",
+  "Is the convergence with the third wave a genuine substantive convergence, or merely a similarity in language masking a fundamental divergence?",
+  "How can this school be practiced within a living religious framework rather than as a cultural background? To our knowledge, there is insufficient systematic work on this, and the gap is distinctly acute in the Arabic context."
+ ],
+ "dash": [
+  [
+   "What It Is",
+   "A family of therapeutic traditions premised on the conditions of human existence—freedom, responsibility, finitude, isolation, and meaning—as sources of suffering rather than defects to be repaired."
+  ],
+  [
+   "What It Is Not",
+   "It is not a set of techniques, nor an offshoot of the humanistic school, nor a philosophy taught in session, nor a pessimistic stance on life."
+  ],
+  [
+   "What It Is Confused With",
+   "Humanistic and person-centered approaches · Logotherapy as the entire school · Yalom as the entire tradition · \"The four concerns\" and \"the four dimensions of existence,\" two taxonomies from two schools."
+  ],
+  [
+   "What It Consists Of",
+   "Four major currents: Daseinsanalysis · branches of meaning · American humanistic-existential · British existential-phenomenological — along with sub-branches and extensions."
+  ],
+  [
+   "The Strength of What We Know",
+   "A single branch (structured meaning) has clear evidence · the remaining branches have weak or non-existent evidence · and the theoretical foundation is philosophically solid yet clinically contested."
+  ],
+  [
+   "What We Do Not Know",
+   "Five questions at the bottom of the page, the first of which is: Is what unites these currents sufficient to call them a single school in the first place?"
+  ]
+ ],
+ "lede": "It is not a single school. It is a family of at least four currents, which arose in different countries and languages, with genuine rivalries between them, some of which resulted in actual institutional schisms. What unites them is that they begin from a single question: What if much of what we call mental illness is in truth the price of being human—free, responsible, mortal, and alone in a world that gives us no ready-made meaning?",
+ "bridge": [
+  {
+   "p": "Kierkegaard",
+   "pi": "Anxiety is not fear of something. It is the \"dizziness of freedom\": what overcomes human beings when they realize that they can. It is neither a sin nor an illness, but the condition in which choice becomes possible.",
+   "c": "Rollo May",
+   "ci": "The distinction between normal anxiety inherent to existence and neurotic anxiety resulting from fleeing it. This distinction became the practical foundation for all subsequent existential practice: the goal is not to reduce anxiety to zero, but to distinguish its kind.",
+   "d": "Kierkegaard was speaking theologically about the self's relationship to the Absolute. May retained the structure and removed the theological framework—and this was the first major concession in the history of transmission."
+  },
+  {
+   "p": "Kierkegaard",
+   "pi": "Despair is not a sad feeling, but a misrelation in the self's relation to itself: wanting not to be oneself, or wanting to be another self.",
+   "c": "Alice Holzhey-Kunz",
+   "ci": "The psychological symptom is not an escape from existential truth, but an acute sensitivity to it. The patient is not blind to their situation—they see it more clearly than they can bear.",
+   "d": "A reversal of direction: for Yalom, the symptom is a defense against seeing; for Holzhey, it is the price of seeing. The same Kierkegaardian root, two opposite conclusions."
+  },
+  {
+   "p": "Nietzsche",
+   "pi": "There is no meaning given from the outside. Values are human creations, and whoever wants meaning must create it and bear the responsibility of having created it.",
+   "c": "The Secular Existential Current",
+   "ci": "Refusing to direct the client toward a ready-made meaning, and viewing direction as paternalism. The therapist accompanies the process of creation and does not point to a destination.",
+   "d": "Right here the school splits: Frankl rejects this, maintaining that meaning exists to be discovered. The entire dispute between the meaning-oriented and secular branches traces back to this Nietzschean sentence."
+  },
+  {
+   "p": "Nietzsche",
+   "pi": "Herd morality: living by the standards of the collective and calling it virtue, in order to escape the cost of being oneself.",
+   "c": "James Bugental",
+   "ci": "\"The borrowed life\": living a script one did not write. Resistance in the session is not an obstacle, but the very way a person protects themselves from seeing this.",
+   "d": "Nietzsche was attacking an entire culture. Bugental converted that critique into a clinical tool for working with an individual—a clinically useful transformation that stripped away its social critical dimension."
+  },
+  {
+   "p": "Husserl",
+   "pi": "Return to the things themselves. Bracket your judgments and theories temporarily, and describe what is given in experience as it is given before interpreting it.",
+   "c": "The Existential Method in Session",
+   "ci": "The primary practical rule: describe before you interpret. Do not assume what the symptom means. Ask \"How does this look from the inside?\" before asking \"Why does it happen?\".",
+   "d": "Husserl intended a rigorous philosophical method for grounding knowledge. In the clinic, it became a listening skill—a legitimate application, but far weaker than the original."
+  },
+  {
+   "p": "Husserl",
+   "pi": "Intentionality: consciousness is always consciousness of something. There is no self-enclosed consciousness that subsequently encounters a world; directedness toward the world is the very structure of consciousness.",
+   "c": "All Currents",
+   "ci": "Rejecting the model that posits a psyche on the inside and an environment on the outside. The client does not possess isolated \"feelings\"; rather, they are oriented toward their world in a particular way, and the problem lies in this orientation, not in an internal content.",
+   "d": "This is perhaps the philosophical concept that transitioned most intact into the clinic—because it is methodological rather than metaphysical."
+  },
+  {
+   "p": "Heidegger",
+   "pi": "Being-in-the-world: the human being and their world are not two separate entities that meet, but a unitary structure. Neither can be described without the other.",
+   "c": "Ludwig Binswanger",
+   "ci": "\"World-design\": describing the patient's world as a whole—its time, space, body, and relationships—rather than dismantling it into symptoms. Depression is not a checklist of signs, but time brought to a standstill and a future that has closed off.",
+   "d": "Heidegger saw that Binswanger turned his ontological analysis into a theory of the self—that is, returning it to what it had surpassed. This is the first documented \"productive misunderstanding\" in the school's history."
+  },
+  {
+   "p": "Heidegger",
+   "pi": "Being-towards-death: death is not an event at the end, but a present possibility that structures existence from this very moment. Confronting it is the prerequisite for authenticity.",
+   "c": "Irvin Yalom",
+   "ci": "Death as the primary ultimate concern and a foundational source of anxiety, with many symptoms functioning as defenses against it. Therapy increases awareness of death rather than soothing it.",
+   "d": "The textbook example: two opposing positions emerged from the exact same premise. Yalom turned it into an anxiety to be treated; Medard Boss rejected this very conversion, regarding it as a lapse into the everyday conception of death that Heidegger had criticized."
+  },
+  {
+   "p": "Heidegger",
+   "pi": "\"The They\" (das Man): the anonymous agent that dictates what is done and what is said. It is not a collective group of people, but an anonymous mode of being in which the individual dissolves and finds comfort.",
+   "c": "Three Places at Once",
+   "ci": "In Bugental: the borrowed life. In Yalom: fusion with the other as a defense against isolation. In van Deurzen: the social dimension as an obligatory arena of existence, not a background.",
+   "d": "Three distinct readings of a single concept, each producing a different practice. This is a model of how a school branches out from a single text."
+  },
+  {
+   "p": "Heidegger",
+   "pi": "Thrownness (Geworfenheit): that you find yourself in a time, body, family, and language you did not choose. The situation from which you begin and which you did not create—yet you remain responsible for what you do with it.",
+   "c": "Therapeutic Balance · and Critique of Individualism",
+   "ci": "The precise formulation: you are not responsible for what has happened to you, but you are responsible for your stance toward it. It is precisely this concept that is forgotten when the school is reduced to \"you are always free\".",
+   "d": "This half was neglected in the American transmission, turning discourse into a one-sided celebration of freedom. Contemporary critiques of individualism are, at their core, a demand to reclaim this forgotten half of Heidegger."
+  },
+  {
+   "p": "Jaspers",
+   "pi": "The distinction between <b>explaining</b> the phenomenon—reducing it to a cause outside it—and <b>understanding</b> it: grasping its meaning from within the subject's life and context.",
+   "c": "The Entire Clinical Method",
+   "ci": "Reading the symptom as meaningful within this person's life rather than as the product of a mechanism. This is what fundamentally separates existential practice from medical practice, not merely in style.",
+   "d": "Jaspers himself set limits: he maintained that certain phenomena—such as schizophrenia in its extreme forms—cannot be understood, but only explained. This reservation was abandoned by Laing, at an exorbitant cost."
+  },
+  {
+   "p": "Jaspers",
+   "pi": "Boundary situations: death, suffering, struggle, and guilt. Situations that can neither be resolved nor bypassed; all that is possible is to adopt a stance toward them.",
+   "c": "Irvin Yalom",
+   "ci": "\"The four ultimate concerns\": death, freedom and responsibility, isolation, and meaninglessness. A near-direct derivation from Jaspers's idea, with an altered list.",
+   "d": "Jaspers is rarely mentioned in this context, and the taxonomy is attributed to Yalom alone. This is an example of how origins are erased in popular transmission."
+  },
+  {
+   "p": "Sartre",
+   "pi": "Existence precedes essence: there is no predetermined human nature. Human beings exist first and then define their essence through what they do.",
+   "c": "Stance on Diagnosis",
+   "ci": "Refusing to let diagnosis become an identity. \"You are not your disorder\" is not an encouraging slogan, but a direct logical consequence: a classification cannot determine the essence of a being that has no predetermined essence.",
+   "d": "It made the transition relatively intact, but in popular usage turned into a pleasant slogan instead of remaining an ontological stance that carries a cost."
+  },
+  {
+   "p": "Sartre",
+   "pi": "Bad faith: nothing is hidden from me. When I say \"I cannot\" while I can, I am not ignorant—I am avoiding knowing that I know. The unconscious is an excuse, not a reality.",
+   "c": "Confrontational Style in Bugental and Yalom",
+   "ci": "Gentle confrontation: \"You say you have no choice, yet you choose this every day.\" The material is not a buried past, but an avoidance occurring right now before both parties.",
+   "d": "This is the source of the dispute over the unconscious across the entire school. Whoever accepts Sartre here operates in a manner radically different from those who retain the unconscious."
+  },
+  {
+   "p": "Sartre",
+   "pi": "The look of the Other: when the Other looks at me, I become an object in their world. Shame is the consciousness of being as the Other sees me, not as I experience myself.",
+   "c": "Working on Shame and Relationality",
+   "ci": "Reading shame as a relational structure rather than an internal affect. And in Spinelli: what happens between the two parties in the room is the material itself, not its prelude.",
+   "d": "One of the least utilized concepts in the clinic despite its potency—perhaps because Sartre frames it within a pessimistic view of relationships that is difficult to build upon therapeutically."
+  },
+  {
+   "p": "Sartre",
+   "pi": "Death is not my ownmost possibility. It is an absurd event that arrives from the outside and obliterates all my possibilities, bestowing no meaning upon my life—rather, surrendering it to the interpretations of others.",
+   "c": "Direct Objection to the Therapeutic Use of Death",
+   "ci": "Every practice premised on the idea that confronting mortality intensifies life and gives it meaning collides with this sentence. And the objection arises from within existentialism itself, not from without.",
+   "d": "This objection is omitted from most Arabic accounts of the school, making it seem as though \"existentialists\" agree that death imparts meaning—which they do not."
+  },
+  {
+   "p": "Simone de Beauvoir",
+   "pi": "Freedom is not private property. My freedom is realized through the freedom of those around me, and the lived situation—body, gender, class, and history—constrains it concretely, not just theoretically.",
+   "c": "The Internal Response to the Charge of Individualism · and the British Social Dimension",
+   "ci": "Treating the social and material context as an obligatory arena of practice, not a mere background. And recognizing that the phrase \"you still have a choice\" requires scrutiny before being said to someone under genuine distress.",
+   "d": "The most important concept lost in transmission. It was present in the philosophical source, eliminated in the passage to the American clinic, and rediscovered decades later as a \"critique\" of the school—when in reality it was a recovery of it."
+  },
+  {
+   "p": "Merleau-Ponty",
+   "pi": "The lived body: we are not a consciousness inhabiting a body. We are conscious bodies, and perception is not an internal representation, but an engagement in the world.",
+   "c": "The Physical Dimension · and Working with Illness",
+   "ci": "Incorporating the body, illness, pain, space, and money as primary arenas of existence rather than secondary appendages. This is precisely what makes existential practice viable in palliative care in particular.",
+   "d": "It was adopted very late, and remains the least utilized root despite being the most suited to medical practice."
+  },
+  {
+   "p": "Martin Buber",
+   "pi": "\"I-Thou\" versus \"I-It\". When I address you as Thou, I neither use you nor classify you, and something happens between us that does not take place inside either one of us.",
+   "c": "The Therapeutic Encounter and Therapist Presence",
+   "ci": "That the relationship itself is the instrument, not the container. And that the most vital thing the therapist does at times is to be truly present rather than performing a role. This is the backbone of practice for Bugental and Yalom.",
+   "d": "It transitioned with force and relative fidelity, but underwent dilution in popular literature until it became synonymous with \"warmth\"—which is not what it means in Buber."
+  },
+  {
+   "p": "Paul Tillich",
+   "pi": "Three types of existential anxiety: the anxiety of fate and death, the anxiety of emptiness and meaninglessness, and the anxiety of guilt and condemnation. And the anxiety of the modern age is the second.",
+   "c": "The Main Alternative to Yalom's Taxonomy",
+   "ci": "Death is one of three, not the foremost. This shifts the center of gravity in practice: from confronting mortality to confronting meaninglessness.",
+   "d": "Rollo May drew directly from Tillich and was close to him. With the fame of Yalom's fourfold taxonomy, Tillich's tripartite classification vanished from circulation, even though it is older and more rigorously grounded both theologically and philosophically."
+  }
+ ],
+ "people": [
+  [
+   "thk-confucius",
+   "Confucius"
+  ],
+  [
+   "thk-philo-alexandria",
+   "Philo of Alexandria"
+  ],
+  [
+   "thk-ge-hong",
+   "Ge Hong"
+  ],
+  [
+   "thk-chandrakirti",
+   "Chandrakirti"
+  ],
+  [
+   "thk-ibn-al-haytham",
+   "Al-Hasan Ibn al-Haytham"
+  ],
+  [
+   "thk-lu-jiuyuan",
+   "Lu Jiuyuan"
+  ],
+  [
+   "thk-duns-scotus",
+   "John Duns Scotus"
+  ],
+  [
+   "thk-vallabha",
+   "Vallabhacharya"
+  ],
+  [
+   "thk-malebranche",
+   "Nicolas Malebranche"
+  ],
+  [
+   "thk-puysgur",
+   "Marquis de Puységur"
+  ],
+  [
+   "thk-lequier",
+   "Jules Lequier"
+  ],
+  [
+   "thk-dostoevsky",
+   "Fyodor Dostoevsky"
+  ],
+  [
+   "thk-muhammad-abduh",
+   "Muhammad Abduh"
+  ],
+  [
+   "thk-shestov",
+   "Lev Shestov"
+  ],
+  [
+   "thk-scheler",
+   "Max Scheler"
+  ],
+  [
+   "thk-mbuber",
+   "Martin Buber"
+  ],
+  [
+   "thk-baynes",
+   "Helton Godwin \"Peter\" Baynes"
+  ],
+  [
+   "thk-rank",
+   "Otto Rank"
+  ],
+  [
+   "thk-xiong-shili",
+   "Xiong Shili"
+  ],
+  [
+   "thk-tillich",
+   "Paul Tillich"
+  ],
+  [
+   "thk-meharding",
+   "M. Esther Harding"
+  ],
+  [
+   "thk-klew",
+   "Kurt Lewin"
+  ],
+  [
+   "thk-straus",
+   "Erwin Straus"
+  ],
+  [
+   "thk-buhler",
+   "Charlotte Bühler"
+  ],
+  [
+   "thk-piaget",
+   "Jean Piaget"
+  ],
+  [
+   "thk-schutz",
+   "Alfred Schutz"
+  ],
+  [
+   "thk-ttarski",
+   "Alfred Tarski"
+  ],
+  [
+   "thk-trudi-schoop",
+   "Trudi Schoop"
+  ],
+  [
+   "thk-lperls",
+   "Laura Perls"
+  ],
+  [
+   "thk-blanchot",
+   "Maurice Blanchot"
+  ],
+  [
+   "thk-mou-zongsan",
+   "Mou Zongsan"
+  ],
+  [
+   "thk-mahfouz",
+   "Naguib Mahfouz"
+  ],
+  [
+   "thk-ainsworth",
+   "Mary Ainsworth"
+  ],
+  [
+   "thk-jwolpe",
+   "Joseph Wolpe"
+  ],
+  [
+   "thk-cohn",
+   "Hans W. Cohn"
+  ],
+  [
+   "thk-badawi",
+   "Abd al-Rahman Badawi"
+  ],
+  [
+   "thk-earle",
+   "William A. Earle"
+  ],
+  [
+   "thk-iprogoff",
+   "Ira Progoff"
+  ],
+  [
+   "thk-csocarides",
+   "Charles W. Socarides"
+  ],
+  [
+   "thk-jweiss",
+   "Joseph Weiss"
+  ],
+  [
+   "thk-deleuze",
+   "Gilles Deleuze"
+  ],
+  [
+   "thk-levenson",
+   "Edgar A. Levenson"
+  ],
+  [
+   "thk-rherrnstein",
+   "Richard J. Herrnstein"
+  ],
+  [
+   "thk-arango",
+   "Gonzalo Arango"
+  ],
+  [
+   "thk-irubenfeld",
+   "Ilana Rubenfeld"
+  ],
+  [
+   "thk-said",
+   "Edward W. Said"
+  ],
+  [
+   "thk-cfischer",
+   "Constance Fischer"
+  ],
+  [
+   "thk-lukas",
+   "Elisabeth Lukas"
+  ],
+  [
+   "thk-dparfit",
+   "Derek Parfit"
+  ],
+  [
+   "thk-biko",
+   "Steve Biko"
+  ],
+  [
+   "thk-louise-guerney",
+   "Louise F. Guerney"
+  ],
+  [
+   "thk-rkaes",
+   "René Kaës"
+  ],
+  [
+   "thk-mseligman",
+   "Martin Seligman"
+  ],
+  [
+   "thk-eblanche",
+   "Erna Imperatore Blanche"
+  ],
+  [
+   "thk-marymain",
+   "Mary Main"
+  ],
+  [
+   "thk-jdelozier",
+   "Judith DeLozier"
+  ],
+  [
+   "thk-jfox",
+   "John Fox"
+  ],
+  [
+   "thk-roy-baumeister",
+   "Roy Baumeister"
+  ],
+  [
+   "thk-dscharff",
+   "David Scharff"
+  ],
+  [
+   "thk-lfish",
+   "Lawrence Fischbein"
+  ],
+  [
+   "thk-rdrake",
+   "Robert E. Drake"
+  ],
+  [
+   "thk-sblumberg",
+   "Susan L. Blumberg"
+  ],
+  [
+   "thk-mohanty",
+   "Chandra Talpade Mohanty"
+  ],
+  [
+   "thk-pridgway",
+   "Priscilla A. Ridgway"
+  ],
+  [
+   "thk-mbauman",
+   "Margaret Bauman"
+  ],
+  [
+   "thk-rmdoblin",
+   "Rick Doblin"
+  ],
+  [
+   "thk-depston",
+   "David Epston"
+  ],
+  [
+   "thk-kkambon",
+   "Kobi K. Kambon"
+  ],
+  [
+   "thk-parkjongik",
+   "Park Jong-Ik"
+  ],
+  [
+   "thk-jschneider",
+   "Jakob Robert Schneider"
+  ],
+  [
+   "thk-jonathan-haidt",
+   "Jonathan Haidt"
+  ],
+  [
+   "thk-rpicard",
+   "Rosalind W. Picard"
+  ],
+  [
+   "thk-anajam",
+   "Adil Najam"
+  ],
+  [
+   "thk-sahmed",
+   "Sara Ahmed"
+  ],
+  [
+   "thk-bargdill",
+   "Richard Bargdill"
+  ],
+  [
+   "thk-george-thompson",
+   "George Thompson"
+  ],
+  [
+   "thk-alinley",
+   "Alex Linley"
+  ]
+ ],
+ "pairs": [
+  {
+   "a": "thk-heidegger",
+   "b": "thk-sartre",
+   "axis": "Death, Freedom, and the Unconscious",
+   "same": [
+    "Both proceed from the premise that the human being has no predetermined essence",
+    "Both reject explaining the present by the past alone",
+    "Both make anxiety a disclosure, not a symptom"
+   ],
+   "diff": [
+    "Heidegger: Death is my \"ownmost possibility\" and grants existence its authenticity. Sartre: Death is an external absurdity that cancels my possibilities and grants nothing",
+    "Heidegger: Freedom is an openness to possibilities within a thrown situation. Sartre: A semi-absolute freedom, and even not choosing is a choice",
+    "Heidegger: Does not engage with the concept of the unconscious at all. Sartre: Explicitly denies it and replaces it with bad faith",
+    "Heidegger is ontological, not ethical. Sartre is primarily ethical and political"
+   ],
+   "line": "From the same question about finitude emerged two sides: one makes death a source of meaning, and the other makes it a negator of meaning. And every therapeutic practice that builds on death chooses—often unconsciously—one of the two."
+  },
+  {
+   "a": "thk-sartre",
+   "b": "thk-beauvoir",
+   "axis": "The Limits of Freedom",
+   "same": [
+    "Both are French atheist existentialists",
+    "Both make freedom and responsibility the core of their project",
+    "Both reject psychological and social determinisms"
+   ],
+   "diff": [
+    "Sartre: Freedom is a semi-absolute individual structure. Beauvoir: Freedom is intertwined—my freedom is realized only through the freedom of those around me",
+    "Sartre: Circumstance is interpreted by the project I carry within it. Beauvoir: Situation (body, gender, class) constrains freedom practically, not just theoretically",
+    "Sartre remains in ontology. Beauvoir builds ethics and politics upon ontology"
+   ],
+   "line": "The difference between them is precisely the difference between a therapeutic practice that holds the individual alone responsible, and a practice that examines their situation before speaking of their choice. Fortunately, the correction came from within the house—and unfortunately, it was lost in transmission."
+  },
+  {
+   "a": "thk-sartre",
+   "b": "thk-levinas",
+   "axis": "The Other",
+   "same": [
+    "Both are French and proceed from phenomenology",
+    "Both make the relationship to the Other central, not marginal"
+   ],
+   "diff": [
+    "Sartre: The gaze of the Other objectifies me, and the relationship is a structural conflict. Levinas: The face of the Other is an ethical call that creates my humanity",
+    "Sartre: Freedom comes first, then responsibility follows. Levinas: Responsibility comes first and precedes choice",
+    "Sartre: Ontology is fundamental. Levinas: Ethics precedes ontology"
+   ],
+   "line": "The deepest reversal within the tradition: Levinas overturns the school's entire order. Had therapeutic practice been built on Levinas instead of Sartre, it would have been a completely different school—less individualistic and weightier ethically."
+  },
+  {
+   "a": "thk-kierkegaard",
+   "b": "thk-nietzsche",
+   "axis": "What Do We Do After the Collapse of Guarantees",
+   "same": [
+    "Both attack grand philosophical systems",
+    "Both make the concrete individual the center of truth",
+    "Both write in a literary, aphoristic, non-systematic style",
+    "Both view conformity as escape"
+   ],
+   "diff": [
+    "Kierkegaard: The solution is an individual leap of faith before the Absolute. Nietzsche: There is no absolute, and the solution is the creation of values",
+    "Kierkegaard: Anxiety is the dizziness of freedom before possibility. Nietzsche: Anxiety is the price of relinquishing herd guarantees",
+    "Kierkegaard writes from within Christianity against its church. Nietzsche writes from outside it against all of it"
+   ],
+   "line": "Two fathers of existentialism with contradictory answers to the same question. And this divide—believer and atheist—would recur literally a century later in Frankl's dispute with the secular current."
+  },
+  {
+   "a": "thk-frankl",
+   "b": "thk-sartre",
+   "axis": "Is Meaning Discovered or Made",
+   "same": [
+    "Both reject determinism and make choice central",
+    "Both lived through the war and wrote from within an extreme experience",
+    "Both make responsibility heavy, not a slogan"
+   ],
+   "diff": [
+    "Frankl: Meaning exists in every situation, waiting to be discovered. Sartre: The world is silent, and meaning is actively made",
+    "Frankl: The human being has an independent spiritual dimension that cannot be reduced. Sartre: There is nothing beyond concrete existence",
+    "Frankl permits therapeutic direction. Sartre considers any direction bad faith on the part of the therapist"
+   ],
+   "line": "This is the premise over which the school split institutionally. Whoever answers \"discovered\" can direct, measure, and design a program—and therefore possesses evidence. Whoever answers \"made\" rejects direction, and therefore lacks it."
+  },
+  {
+   "a": "thk-frankl",
+   "b": "thk-langle",
+   "axis": "The Order of Motivations",
+   "same": [
+    "Both are Viennese and from the same school",
+    "Both make meaning the aim of therapeutic work",
+    "Längle worked with Frankl for years and held responsibilities in his institutions"
+   ],
+   "diff": [
+    "Frankl: The will to meaning is directly the primary motivation. Längle: Three motivations precede meaning—that I can exist, that I like my life, and that I allow myself to be myself",
+    "Frankl begins with the question of meaning. Längle considers the question premature with many patients",
+    "Frankl emphasizes the spiritual dimension. Längle gives affectivity and the relationship with oneself greater weight"
+   ],
+   "line": "A dispute over sequence, not content—yet it ended in a complete institutional split. This illustrates that the fiercest disputes in this school take place between those who are closest, not those who are far apart."
+  },
+  {
+   "a": "thk-frankl",
+   "b": "thk-yalom",
+   "axis": "What Is the Core of Existence",
+   "same": [
+    "Both make confronting the conditions of existence the subject matter of therapy",
+    "Both are widely read authors outside the specialty",
+    "Both use narrative and case studies more than systematic theory"
+   ],
+   "diff": [
+    "Frankl: The core is meaning, and death merely gives life its urgency. Yalom: The core is death, and meaninglessness is the fourth concern",
+    "Frankl: Meaning is discovered, so direction is permissible. Yalom: It cannot be caught directly, but comes as a byproduct of engagement",
+    "Frankl opens a door to the spiritual dimension. Yalom is explicitly secular",
+    "Frankl produces named techniques. Yalom produces an attitude and presence"
+   ],
+   "line": "The two most famous figures in the school for the Arab reader, usually presented as though they were saying the same thing. In reality, they differ on the core focus, the nature of meaning, the permissibility of direction, and their stance toward religion."
+  },
+  {
+   "a": "thk-yalom",
+   "b": "thk-vandeurzen",
+   "axis": "Concerns or Dimensions",
+   "same": [
+    "Both offer an organized, teachable framework",
+    "Both make confronting the conditions of existence the center of the work",
+    "Both are institutionally influential in therapist training"
+   ],
+   "diff": [
+    "Yalom: Four ultimate concerns to be confronted (death, freedom, isolation, meaninglessness). Van Deurzen: Four dimensions of existence to be lived (physical, social, personal, spiritual)",
+    "Yalom: The framework is organized around what is feared. Van Deurzen: The framework is organized around all arenas of life, including money, work, and power",
+    "Yalom accepts technique and case formulation. Van Deurzen rejects technique as a betrayal of the method",
+    "Yalom is individualistic in orientation. Van Deurzen obligatorily incorporates the social dimension"
+   ],
+   "line": "A very common confusion in Arabic writing: presenting the two classifications as though they were one and the same. They are classifications from two different schools: one concerns fears, and the other concerns arenas of existence."
+  },
+  {
+   "a": "thk-yalom",
+   "b": "thk-boss",
+   "axis": "Can Existence Be Treated",
+   "same": [
+    "Both build on Heidegger",
+    "Both reject reducing the human being to their symptoms"
+   ],
+   "diff": [
+    "Yalom: Death is a repressed anxiety to be targeted therapeutically. Boss: An ontological structure to be understood, not treated",
+    "Yalom: A fourfold classification, tools, and cases. Boss: No classification, no technique, and no measured goals",
+    "Yalom reads Heidegger through American intermediaries. Boss worked directly with Heidegger for years"
+   ],
+   "line": "The clearest methodological dispute over the same text: Boss sees what Yalom does as precisely what Heidegger criticized—turning death into an everyday affair to be managed."
+  },
+  {
+   "a": "thk-binswanger",
+   "b": "thk-boss",
+   "axis": "Who Read Heidegger Correctly",
+   "same": [
+    "Both are Swiss and belong to the Daseinsanalysis current",
+    "Both describe the patient's world as a whole, not as symptoms",
+    "Both reject the unconscious in its Freudian formulation"
+   ],
+   "diff": [
+    "Binswanger: Built a theory of the self and world-design. Boss: Views this as a return to what Heidegger wanted to transcend",
+    "Binswanger: Read Heidegger from the text. Boss: Worked directly with him in seminars that spanned ten years",
+    "Binswanger is more widely disseminated in English. Boss is philosophically more precise"
+   ],
+   "line": "The foundational dispute, whose question is broader than its two parties: Is \"productive misunderstanding\" a flaw or a prerequisite for any transmission from philosophy to the clinic?"
+  },
+  {
+   "a": "thk-may",
+   "b": "thk-yalom",
+   "axis": "Breadth or Organization",
+   "same": [
+    "Both are American from the same current",
+    "Both transmitted the European tradition to a broad audience",
+    "Both make anxiety a central topic"
+   ],
+   "diff": [
+    "May: Anxiety is a confrontation with non-being in general—encompassing the loss of meaning, values, and identity. Yalom: Confines it to four concerns",
+    "May: Works on love, will, creativity, and power. Yalom: Narrows the scope to gain teachability",
+    "May is closer to Tillich theologically and philosophically. Yalom is explicitly secular"
+   ],
+   "line": "The clearest trade-off in the school's history: May is broader, deeper, and less easily transmitted; Yalom is narrower, clearer, and more widely circulated. And whoever reads Yalom alone assumes this is all there is to the American current."
+  },
+  {
+   "a": "thk-jaspers",
+   "b": "thk-laing",
+   "axis": "The Limits of Understanding",
+   "same": [
+    "Both are psychiatrists working with the phenomenological method",
+    "Both insist that the patient's speech warrants listening",
+    "Both criticize reducing the human being to a diagnosis"
+   ],
+   "diff": [
+    "Jaspers: Drew an explicit limit—some phenomena cannot be understood, only explained. Laing: Crossed that limit and read all psychosis as meaningful",
+    "Jaspers: A methodological conservative within psychiatry. Laing: A radical against the entire establishment",
+    "Jaspers remained an academic. Laing became a cultural phenomenon"
+   ],
+   "line": "The most important lesson in the school on the cost of exceeding methodological limits: the same method, a single boundary collapsed, and the result was decades of damage to the scientific reputation of the entire tradition."
+  },
+  {
+   "a": "thk-vandeurzen",
+   "b": "thk-spinelli",
+   "axis": "Do Fixed Structures Exist",
+   "same": [
+    "Both are from the British school",
+    "Both reject American technique and classification",
+    "Both consider the practice philosophical, not medical"
+   ],
+   "diff": [
+    "Van Deurzen: Four dimensions of existence exist and can be trained in. Spinelli: Any general structure imposed on experience betrays the method",
+    "Van Deurzen: Systematic training is possible and necessary. Spinelli: Every classification is a generalization that betrays this specific relationship",
+    "Van Deurzen is an institution builder. Spinelli is a perpetual dissenter, including within his own institution"
+   ],
+   "line": "The dispute that explains why two British texts from the same school seem as if they come from two different schools. Its real question: Can a method be taught without classification?"
+  },
+  {
+   "a": "thk-camus",
+   "b": "thk-frankl",
+   "axis": "The Absurd and Meaning",
+   "same": [
+    "Both confront the collapse of guarantees directly",
+    "Both reject suicide as an answer",
+    "Both write from within a harrowing historical experience"
+   ],
+   "diff": [
+    "Camus: There is no meaning, and the solution is revolt and living nevertheless. Frankl: Meaning exists even in suffering, waiting to be discovered",
+    "Camus: Any offered meaning is false comfort or \"philosophical suicide.\" Frankl: Rejecting meaning is the existential vacuum itself",
+    "Camus keeps the tension open. Frankl closes it with an answer"
+   ],
+   "line": "The most useful practical comparison in the entire school: With someone who has lost their meaning, do you accompany them in enduring the void (Camus) or guide them to an available meaning (Frankl)? The choice between them is not technical, but a stance toward the human being."
+  },
+  {
+   "a": "thk-becker",
+   "b": "thk-yalom",
+   "axis": "Culture or Clinic",
+   "same": [
+    "Both make the denial of death a primary driver",
+    "Both build on Rank and Kierkegaard",
+    "Both are widely known outside the specialty"
+   ],
+   "diff": [
+    "Becker: Analyzes all of civilization as a project of symbolic heroism. Yalom: Analyzes what an individual does in the therapy room",
+    "Becker: An anthropologist without clinical practice. Yalom: A practitioner building on his observations",
+    "Becker: His ideas were tested empirically through Terror Management Theory. Yalom: His ideas have not been tested directly"
+   ],
+   "line": "Confusing them is the most famous citation error: many cite mortality salience experiments to support Yalom, when in fact they test Becker—and the effect itself has become contested following major replication failures."
+  },
+  {
+   "a": "thk-marcel",
+   "b": "thk-sartre",
+   "axis": "Hope and Relationship",
+   "same": [
+    "Both are French and contemporaries of one another",
+    "Both proceed from concrete existence, not an abstract system",
+    "Both make the relationship to the Other a central issue"
+   ],
+   "diff": [
+    "Marcel: Mutual presence is possible and liberating. Sartre: The gaze of the Other objectifies me and the relationship is conflict",
+    "Marcel: Hope is an unconditional existential stance. Sartre: There is no place for hope in this sense",
+    "Marcel is a Catholic believer. Sartre is an avowed atheist",
+    "Marcel distinguishes the problem from the mystery. Sartre remains in the analysis of structures."
+   ],
+   "line": "If you work in the context of advanced illness or loss, this comparison is very practical: Marcel provides you with a framework for hope that does not collapse with the collapse of the outcome, while Sartre offers you nothing in this situation."
+  },
+  {
+   "a": "thk-husserl",
+   "b": "thk-heidegger",
+   "axis": "Method or Ontology",
+   "same": [
+    "Heidegger was Husserl's student and assistant",
+    "Both reject the duality between an inner mind and an outer world",
+    "Both prioritize description over explanation"
+   ],
+   "diff": [
+    "Husserl: the aim is establishing knowledge on a firm foundation. Heidegger: the aim is the question of the meaning of Being",
+    "Husserl: consciousness and its intentionality is the subject. Heidegger: Dasein and its being-in-the-world is the entry point",
+    "Husserl remains in method. Heidegger moves to ontology and considers his teacher's method still captive to the Cartesian tradition"
+   ],
+   "line": "The break between them is both personal and philosophical, and its impact in the clinic is profound: the British current inherited Husserl (method), and existential analysis inherited Heidegger (ontology) — hence their radical divergence in their stance toward classification."
+  },
+  {
+   "a": "thk-bugental",
+   "b": "thk-spinelli",
+   "axis": "Presence: Skill or Relationship",
+   "same": [
+    "Both make what happens in the room the primary material",
+    "Both reject rigid technique",
+    "Both emphasize presence"
+   ],
+   "diff": [
+    "Bugental: presence is a skill that is trained and measured in degrees. Spinelli: presence cannot be trained, but rather emerges within the relationship or does not",
+    "Bugental: accepts a working model and goals. Spinelli: rejects any predetermined goal",
+    "Bugental is a practical American. Spinelli is a British phenomenologist"
+   ],
+   "line": "The same dispute in another form: Can what is relational by nature be taught? It is the question that decides whether this school can be transmitted across generations or not."
+  },
+  {
+   "a": "thk-wong",
+   "b": "thk-frankl",
+   "axis": "After Frankl",
+   "same": [
+    "Both make meaning the central focus of therapy",
+    "Both reject the denial of suffering",
+    "Wong considers himself an explicit extension of Frankl"
+   ],
+   "diff": [
+    "Frankl: meaning is discovered in a situation. Wong: meaning is constructed through a process of acceptance, affirmation, and transformation",
+    "Frankl: a philosophical-clinical text without measurement. Wong: explicitly embraces measurement and experimentation",
+    "Frankl: the spiritual dimension is central. Wong: broadens it culturally and works on the non-Western context"
+   ],
+   "line": "A rare example of development within the tradition without a schism: Wong accepts the rules of measurement rejected by the school, thereby gaining evidence while remaining within Frankl's lineage."
+  },
+  {
+   "a": "thk-unamuno",
+   "b": "thk-kierkegaard",
+   "axis": "The Unresolved Conflict",
+   "same": [
+    "Both are believers writing against the complacency of faith",
+    "Both make the suffering individual the locus of truth",
+    "Both are literary in style and hostile to the system"
+   ],
+   "diff": [
+    "Kierkegaard: the leap of faith resolves the tension, even without a guarantee. Unamuno: the tension is unresolved and is the permanent human condition",
+    "Kierkegaard: the path is individual and inward before the Absolute. Unamuno: the path is bodily, rooted in the \"man of flesh and bone\"",
+    "Kierkegaard is a Northern Protestant. Unamuno is a Mediterranean Catholic"
+   ],
+   "line": "Unamuno is specifically useful for those who experience a faith that never settles and a doubt that brings no peace — a condition very common in the contemporary Arab context, yet scarcely represented in therapeutic literature."
+  }
+ ],
+ "groups": [
+  {
+   "g": "phil",
+   "t": "Philosophers",
+   "c": "#7F77DD"
+  },
+  {
+   "g": "dasein",
+   "t": "Daseinsanalysis",
+   "c": "#1D9E75"
+  },
+  {
+   "g": "meaning",
+   "t": "Branches of Meaning",
+   "c": "#BA7517"
+  },
+  {
+   "g": "usa",
+   "t": "American Humanistic-Existential",
+   "c": "#D85A30"
+  },
+  {
+   "g": "brit",
+   "t": "British Existential-Phenomenological",
+   "c": "#378ADD"
+  },
+  {
+   "g": "neigh",
+   "t": "Neighbors and Outside the School",
+   "c": "#888780"
+  }
+ ],
+ "gnodes": [
+  {
+   "id": "kierkegaard",
+   "l": "Søren Kierkegaard",
+   "g": "phil",
+   "k": "thk-kierkegaard"
+  },
+  {
+   "id": "nietzsche",
+   "l": "Friedrich Nietzsche",
+   "g": "phil",
+   "k": "thk-nietzsche"
+  },
+  {
+   "id": "dostoevsky",
+   "l": "Fyodor Dostoevsky",
+   "g": "phil",
+   "k": "thk-dostoevsky"
+  },
+  {
+   "id": "unamuno",
+   "l": "Miguel de Unamuno",
+   "g": "phil",
+   "k": "thk-unamuno"
+  },
+  {
+   "id": "husserl",
+   "l": "Edmund Husserl",
+   "g": "phil",
+   "k": "thk-husserl"
+  },
+  {
+   "id": "heidegger",
+   "l": "Martin Heidegger",
+   "g": "phil",
+   "k": "thk-heidegger"
+  },
+  {
+   "id": "jaspers",
+   "l": "Karl Jaspers",
+   "g": "phil",
+   "k": "thk-jaspers"
+  },
+  {
+   "id": "sartre",
+   "l": "Jean-Paul Sartre",
+   "g": "phil",
+   "k": "thk-sartre"
+  },
+  {
+   "id": "beauvoir",
+   "l": "Simone de Beauvoir",
+   "g": "phil",
+   "k": "thk-beauvoir"
+  },
+  {
+   "id": "camus",
+   "l": "Camus",
+   "g": "phil",
+   "k": "thk-camus"
+  },
+  {
+   "id": "merleau",
+   "l": "Merleau-Ponty",
+   "g": "phil"
+  },
+  {
+   "id": "marcel",
+   "l": "Gabriel Marcel",
+   "g": "phil",
+   "k": "thk-marcel"
+  },
+  {
+   "id": "buber",
+   "l": "Martin Buber",
+   "g": "phil",
+   "k": "thk-mbuber"
+  },
+  {
+   "id": "levinas",
+   "l": "Emmanuel Levinas",
+   "g": "phil",
+   "k": "thk-levinas"
+  },
+  {
+   "id": "tillich",
+   "l": "Paul Tillich",
+   "g": "phil",
+   "k": "thk-tillich"
+  },
+  {
+   "id": "binswanger",
+   "l": "Ludwig Binswanger",
+   "g": "dasein",
+   "k": "thk-binswanger"
+  },
+  {
+   "id": "boss",
+   "l": "Medard Boss",
+   "g": "dasein",
+   "k": "thk-boss"
+  },
+  {
+   "id": "minkowski",
+   "l": "Eugène Minkowski",
+   "g": "dasein",
+   "k": "thk-minkowski"
+  },
+  {
+   "id": "straus",
+   "l": "Erwin Straus",
+   "g": "dasein",
+   "k": "thk-straus"
+  },
+  {
+   "id": "gebsattel",
+   "l": "von Gebsattel",
+   "g": "dasein"
+  },
+  {
+   "id": "holzhey",
+   "l": "Alice Holzhey-Kunz",
+   "g": "dasein",
+   "k": "thk-holzhey"
+  },
+  {
+   "id": "frankl",
+   "l": "Frankl",
+   "g": "meaning",
+   "k": "thk-frankl"
+  },
+  {
+   "id": "langle",
+   "l": "Alfried Längle",
+   "g": "meaning",
+   "k": "thk-langle"
+  },
+  {
+   "id": "lukas",
+   "l": "Elisabeth Lukas",
+   "g": "meaning",
+   "k": "thk-lukas"
+  },
+  {
+   "id": "wong",
+   "l": "Paul T. P. Wong",
+   "g": "meaning",
+   "k": "thk-wong"
+  },
+  {
+   "id": "breitbart",
+   "l": "Breitbart",
+   "g": "meaning"
+  },
+  {
+   "id": "may",
+   "l": "Rollo May",
+   "g": "usa",
+   "k": "thk-may"
+  },
+  {
+   "id": "bugental",
+   "l": "James Bugental",
+   "g": "usa",
+   "k": "thk-bugental"
+  },
+  {
+   "id": "yalom",
+   "l": "Irvin D. Yalom",
+   "g": "usa",
+   "k": "thk-yalom"
+  },
+  {
+   "id": "moustakas",
+   "l": "Moustakas",
+   "g": "usa"
+  },
+  {
+   "id": "schneider",
+   "l": "Kirk Schneider",
+   "g": "usa",
+   "k": "thk-schneider"
+  },
+  {
+   "id": "becker",
+   "l": "Ernest Becker",
+   "g": "usa",
+   "k": "thk-becker"
+  },
+  {
+   "id": "vankaam",
+   "l": "Adrian van Kaam",
+   "g": "usa",
+   "k": "thk-vankaam"
+  },
+  {
+   "id": "stolorow",
+   "l": "Stolorow",
+   "g": "usa"
+  },
+  {
+   "id": "laing",
+   "l": "R. D. Laing",
+   "g": "brit",
+   "k": "thk-laing"
+  },
+  {
+   "id": "vandeurzen",
+   "l": "Emmy van Deurzen",
+   "g": "brit",
+   "k": "thk-vandeurzen"
+  },
+  {
+   "id": "spinelli",
+   "l": "Ernesto Spinelli",
+   "g": "brit",
+   "k": "thk-spinelli"
+  },
+  {
+   "id": "cooper",
+   "l": "Mick Cooper",
+   "g": "brit",
+   "k": "thk-cooper"
+  },
+  {
+   "id": "cohn",
+   "l": "Hans W. Cohn",
+   "g": "brit",
+   "k": "thk-cohn"
+  },
+  {
+   "id": "freud",
+   "l": "Freud",
+   "g": "neigh"
+  },
+  {
+   "id": "rank",
+   "l": "Otto Rank",
+   "g": "neigh",
+   "k": "thk-rank"
+  },
+  {
+   "id": "rogers",
+   "l": "Rogers",
+   "g": "neigh"
+  },
+  {
+   "id": "maslow",
+   "l": "Maslow",
+   "g": "neigh"
+  },
+  {
+   "id": "hayes",
+   "l": "Hayes · ACT",
+   "g": "neigh"
+  },
+  {
+   "id": "sassparnas",
+   "l": "Phenomenological Psychopathology",
+   "g": "neigh"
+  }
+ ],
+ "glinks": [
+  {
+   "s": "kierkegaard",
+   "t": "heidegger",
+   "r": "influenced"
+  },
+  {
+   "s": "kierkegaard",
+   "t": "jaspers",
+   "r": "influenced"
+  },
+  {
+   "s": "kierkegaard",
+   "t": "tillich",
+   "r": "influenced"
+  },
+  {
+   "s": "kierkegaard",
+   "t": "unamuno",
+   "r": "kinship"
+  },
+  {
+   "s": "kierkegaard",
+   "t": "may",
+   "r": "influenced"
+  },
+  {
+   "s": "kierkegaard",
+   "t": "holzhey",
+   "r": "influenced"
+  },
+  {
+   "s": "dostoevsky",
+   "t": "nietzsche",
+   "r": "influenced"
+  },
+  {
+   "s": "dostoevsky",
+   "t": "sartre",
+   "r": "influenced"
+  },
+  {
+   "s": "nietzsche",
+   "t": "heidegger",
+   "r": "influenced"
+  },
+  {
+   "s": "nietzsche",
+   "t": "sartre",
+   "r": "influenced"
+  },
+  {
+   "s": "nietzsche",
+   "t": "frankl",
+   "r": "rivalry"
+  },
+  {
+   "s": "husserl",
+   "t": "heidegger",
+   "r": "taught"
+  },
+  {
+   "s": "husserl",
+   "t": "jaspers",
+   "r": "influenced"
+  },
+  {
+   "s": "husserl",
+   "t": "minkowski",
+   "r": "influenced"
+  },
+  {
+   "s": "husserl",
+   "t": "vandeurzen",
+   "r": "method"
+  },
+  {
+   "s": "husserl",
+   "t": "spinelli",
+   "r": "method"
+  },
+  {
+   "s": "heidegger",
+   "t": "binswanger",
+   "r": "influenced"
+  },
+  {
+   "s": "heidegger",
+   "t": "boss",
+   "r": "worked with him"
+  },
+  {
+   "s": "heidegger",
+   "t": "sartre",
+   "r": "rivalry"
+  },
+  {
+   "s": "heidegger",
+   "t": "may",
+   "r": "influenced"
+  },
+  {
+   "s": "heidegger",
+   "t": "yalom",
+   "r": "influenced"
+  },
+  {
+   "s": "heidegger",
+   "t": "vandeurzen",
+   "r": "influenced"
+  },
+  {
+   "s": "heidegger",
+   "t": "holzhey",
+   "r": "influenced"
+  },
+  {
+   "s": "heidegger",
+   "t": "merleau",
+   "r": "influenced"
+  },
+  {
+   "s": "jaspers",
+   "t": "binswanger",
+   "r": "influenced"
+  },
+  {
+   "s": "jaspers",
+   "t": "yalom",
+   "r": "influenced"
+  },
+  {
+   "s": "jaspers",
+   "t": "laing",
+   "r": "influenced"
+  },
+  {
+   "s": "sartre",
+   "t": "beauvoir",
+   "r": "companionship and disagreement"
+  },
+  {
+   "s": "sartre",
+   "t": "camus",
+   "r": "rivalry"
+  },
+  {
+   "s": "sartre",
+   "t": "levinas",
+   "r": "rivalry"
+  },
+  {
+   "s": "sartre",
+   "t": "bugental",
+   "r": "influenced"
+  },
+  {
+   "s": "sartre",
+   "t": "laing",
+   "r": "influenced"
+  },
+  {
+   "s": "sartre",
+   "t": "stolorow",
+   "r": "influenced"
+  },
+  {
+   "s": "beauvoir",
+   "t": "vandeurzen",
+   "r": "influenced"
+  },
+  {
+   "s": "marcel",
+   "t": "buber",
+   "r": "kinship"
+  },
+  {
+   "s": "marcel",
+   "t": "sartre",
+   "r": "rivalry"
+  },
+  {
+   "s": "buber",
+   "t": "bugental",
+   "r": "influenced"
+  },
+  {
+   "s": "buber",
+   "t": "yalom",
+   "r": "influenced"
+  },
+  {
+   "s": "buber",
+   "t": "spinelli",
+   "r": "influenced"
+  },
+  {
+   "s": "tillich",
+   "t": "may",
+   "r": "influenced"
+  },
+  {
+   "s": "tillich",
+   "t": "yalom",
+   "r": "influenced"
+  },
+  {
+   "s": "merleau",
+   "t": "vandeurzen",
+   "r": "influenced"
+  },
+  {
+   "s": "merleau",
+   "t": "sassparnas",
+   "r": "influenced"
+  },
+  {
+   "s": "binswanger",
+   "t": "boss",
+   "r": "rivalry"
+  },
+  {
+   "s": "binswanger",
+   "t": "may",
+   "r": "transmitted from him"
+  },
+  {
+   "s": "minkowski",
+   "t": "binswanger",
+   "r": "kinship"
+  },
+  {
+   "s": "minkowski",
+   "t": "sassparnas",
+   "r": "influenced"
+  },
+  {
+   "s": "straus",
+   "t": "boss",
+   "r": "kinship"
+  },
+  {
+   "s": "gebsattel",
+   "t": "binswanger",
+   "r": "kinship"
+  },
+  {
+   "s": "boss",
+   "t": "holzhey",
+   "r": "extension"
+  },
+  {
+   "s": "frankl",
+   "t": "langle",
+   "r": "schism"
+  },
+  {
+   "s": "frankl",
+   "t": "lukas",
+   "r": "extension"
+  },
+  {
+   "s": "frankl",
+   "t": "wong",
+   "r": "extension"
+  },
+  {
+   "s": "frankl",
+   "t": "breitbart",
+   "r": "extension"
+  },
+  {
+   "s": "frankl",
+   "t": "yalom",
+   "r": "disagreement on focus"
+  },
+  {
+   "s": "may",
+   "t": "yalom",
+   "r": "taught"
+  },
+  {
+   "s": "may",
+   "t": "bugental",
+   "r": "companionship"
+  },
+  {
+   "s": "may",
+   "t": "schneider",
+   "r": "influenced"
+  },
+  {
+   "s": "bugental",
+   "t": "schneider",
+   "r": "taught"
+  },
+  {
+   "s": "bugental",
+   "t": "spinelli",
+   "r": "disagreement"
+  },
+  {
+   "s": "yalom",
+   "t": "vandeurzen",
+   "r": "rivalry"
+  },
+  {
+   "s": "yalom",
+   "t": "boss",
+   "r": "methodological rivalry"
+  },
+  {
+   "s": "yalom",
+   "t": "becker",
+   "r": "parallelism"
+  },
+  {
+   "s": "rank",
+   "t": "becker",
+   "r": "influenced"
+  },
+  {
+   "s": "freud",
+   "t": "binswanger",
+   "r": "friendship and disagreement"
+  },
+  {
+   "s": "freud",
+   "t": "rank",
+   "r": "taught"
+  },
+  {
+   "s": "freud",
+   "t": "sartre",
+   "r": "rejection"
+  },
+  {
+   "s": "freud",
+   "t": "frankl",
+   "r": "disagreement"
+  },
+  {
+   "s": "rogers",
+   "t": "may",
+   "r": "companionship and disagreement"
+  },
+  {
+   "s": "maslow",
+   "t": "bugental",
+   "r": "companionship"
+  },
+  {
+   "s": "vandeurzen",
+   "t": "spinelli",
+   "r": "rivalry"
+  },
+  {
+   "s": "vandeurzen",
+   "t": "cooper",
+   "r": "companionship"
+  },
+  {
+   "s": "vandeurzen",
+   "t": "cohn",
+   "r": "companionship"
+  },
+  {
+   "s": "cooper",
+   "t": "hayes",
+   "r": "comparison"
+  },
+  {
+   "s": "laing",
+   "t": "vandeurzen",
+   "r": "preceded"
+  },
+  {
+   "s": "laing",
+   "t": "sassparnas",
+   "r": "modified extension"
+  },
+  {
+   "s": "vankaam",
+   "t": "schneider",
+   "r": "kinship"
+  },
+  {
+   "s": "moustakas",
+   "t": "yalom",
+   "r": "kinship"
+  },
+  {
+   "s": "hayes",
+   "t": "yalom",
+   "r": "contemporary convergence"
+  }
+ ],
+ "gantt": [
+  {
+   "n": "Confucius",
+   "b": -532,
+   "d": -479,
+   "g": "phil",
+   "k": "thk-confucius"
+  },
+  {
+   "n": "Philo of Alexandria",
+   "b": 30,
+   "d": 50,
+   "g": "phil",
+   "k": "thk-philo-alexandria"
+  },
+  {
+   "n": "Ge Hong",
+   "b": 283,
+   "d": 343,
+   "g": "phil",
+   "k": "thk-ge-hong"
+  },
+  {
+   "n": "Chandrakirti",
+   "b": 600,
+   "d": 650,
+   "g": "phil",
+   "k": "thk-chandrakirti"
+  },
+  {
+   "n": "Al-Hasan Ibn al-Haytham",
+   "b": 965,
+   "d": 1040,
+   "g": "phil",
+   "k": "thk-ibn-al-haytham"
+  },
+  {
+   "n": "Lu Jiuyuan",
+   "b": 1139,
+   "d": 1193,
+   "g": "phil",
+   "k": "thk-lu-jiuyuan"
+  },
+  {
+   "n": "John Duns Scotus",
+   "b": 1266,
+   "d": 1308,
+   "g": "phil",
+   "k": "thk-duns-scotus"
+  },
+  {
+   "n": "Vallabhacharya",
+   "b": 1479,
+   "d": 1531,
+   "g": "phil",
+   "k": "thk-vallabha"
+  },
+  {
+   "n": "Nicolas Malebranche",
+   "b": 1638,
+   "d": 1715,
+   "g": "phil",
+   "k": "thk-malebranche"
+  },
+  {
+   "n": "Marquis de Puységur",
+   "b": 1751,
+   "d": 1825,
+   "g": "phil",
+   "k": "thk-puysgur"
+  },
+  {
+   "n": "Kierkegaard",
+   "b": 1813,
+   "d": 1855,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Jules Lequier",
+   "b": 1814,
+   "d": 1862,
+   "g": "phil",
+   "k": "thk-lequier"
+  },
+  {
+   "n": "Fyodor Dostoevsky",
+   "b": 1821,
+   "d": 1881,
+   "g": "phil",
+   "ap": false,
+   "k": "thk-dostoevsky"
+  },
+  {
+   "n": "Nietzsche",
+   "b": 1844,
+   "d": 1900,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Muhammad Abduh",
+   "b": 1849,
+   "d": 1905,
+   "g": "phil",
+   "k": "thk-muhammad-abduh"
+  },
+  {
+   "n": "Freud",
+   "b": 1856,
+   "d": 1939,
+   "g": "neigh",
+   "ap": false
+  },
+  {
+   "n": "Husserl",
+   "b": 1859,
+   "d": 1938,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Unamuno",
+   "b": 1864,
+   "d": 1936,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Lev Shestov",
+   "b": 1866,
+   "d": 1938,
+   "g": "phil",
+   "k": "thk-shestov"
+  },
+  {
+   "n": "Max Scheler",
+   "b": 1874,
+   "d": 1928,
+   "g": "phil",
+   "k": "thk-scheler"
+  },
+  {
+   "n": "Martin Buber",
+   "b": 1878,
+   "d": 1965,
+   "g": "phil",
+   "ap": false,
+   "k": "thk-mbuber"
+  },
+  {
+   "n": "Binswanger",
+   "b": 1881,
+   "d": 1966,
+   "g": "dasein",
+   "ap": false
+  },
+  {
+   "n": "Helton Godwin \"Peter\" Baynes",
+   "b": 1882,
+   "d": 1943,
+   "g": "psych",
+   "k": "thk-baynes"
+  },
+  {
+   "n": "Jaspers",
+   "b": 1883,
+   "d": 1969,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Otto Rank",
+   "b": 1884,
+   "d": 1939,
+   "g": "neigh",
+   "ap": false,
+   "k": "thk-rank"
+  },
+  {
+   "n": "Minkowski",
+   "b": 1885,
+   "d": 1972,
+   "g": "dasein",
+   "ap": false
+  },
+  {
+   "n": "Xiong Shili",
+   "b": 1885,
+   "d": 1968,
+   "g": "phil",
+   "k": "thk-xiong-shili"
+  },
+  {
+   "n": "Paul Tillich",
+   "b": 1886,
+   "d": 1965,
+   "g": "phil",
+   "ap": false,
+   "k": "thk-tillich"
+  },
+  {
+   "n": "M. Esther Harding",
+   "b": 1888,
+   "d": 1971,
+   "g": "phil",
+   "k": "thk-meharding"
+  },
+  {
+   "n": "Heidegger",
+   "b": 1889,
+   "d": 1976,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Marcel",
+   "b": 1889,
+   "d": 1973,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Kurt Lewin",
+   "b": 1890,
+   "d": 1947,
+   "g": "psych",
+   "k": "thk-klew"
+  },
+  {
+   "n": "Erwin Straus",
+   "b": 1891,
+   "d": 1975,
+   "g": "dasein",
+   "ap": true,
+   "k": "thk-straus"
+  },
+  {
+   "n": "Charlotte Bühler",
+   "b": 1893,
+   "d": 1974,
+   "g": "psych",
+   "k": "thk-buhler"
+  },
+  {
+   "n": "Jean Piaget",
+   "b": 1896,
+   "d": 1980,
+   "g": "psych",
+   "k": "thk-piaget"
+  },
+  {
+   "n": "Alfred Schutz",
+   "b": 1899,
+   "d": 1959,
+   "g": "psych",
+   "k": "thk-schutz"
+  },
+  {
+   "n": "Alfred Tarski",
+   "b": 1901,
+   "d": 1983,
+   "g": "phil",
+   "k": "thk-ttarski"
+  },
+  {
+   "n": "Rogers",
+   "b": 1902,
+   "d": 1987,
+   "g": "neigh",
+   "ap": false
+  },
+  {
+   "n": "Boss",
+   "b": 1903,
+   "d": 1990,
+   "g": "dasein",
+   "ap": false
+  },
+  {
+   "n": "Trudi Schoop",
+   "b": 1903,
+   "d": 1999,
+   "g": "phil",
+   "k": "thk-trudi-schoop"
+  },
+  {
+   "n": "Sartre",
+   "b": 1905,
+   "d": 1980,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Frankl",
+   "b": 1905,
+   "d": 1997,
+   "g": "meaning",
+   "ap": false
+  },
+  {
+   "n": "Laura Perls",
+   "b": 1905,
+   "d": 1990,
+   "g": "phil",
+   "k": "thk-lperls"
+  },
+  {
+   "n": "Levinas",
+   "b": 1906,
+   "d": 1995,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Maurice Blanchot",
+   "b": 1907,
+   "d": 2003,
+   "g": "phil",
+   "k": "thk-blanchot"
+  },
+  {
+   "n": "Beauvoir",
+   "b": 1908,
+   "d": 1986,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Merleau-Ponty",
+   "b": 1908,
+   "d": 1961,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Maslow",
+   "b": 1908,
+   "d": 1970,
+   "g": "neigh",
+   "ap": false
+  },
+  {
+   "n": "Rollo May",
+   "b": 1909,
+   "d": 1994,
+   "g": "usa",
+   "ap": false
+  },
+  {
+   "n": "Mou Zongsan",
+   "b": 1909,
+   "d": 1995,
+   "g": "phil",
+   "k": "thk-mou-zongsan"
+  },
+  {
+   "n": "Naguib Mahfouz",
+   "b": 1911,
+   "d": 2006,
+   "g": "phil",
+   "k": "thk-mahfouz"
+  },
+  {
+   "n": "Camus",
+   "b": 1913,
+   "d": 1960,
+   "g": "phil",
+   "ap": false
+  },
+  {
+   "n": "Mary Ainsworth",
+   "b": 1913,
+   "d": 1999,
+   "g": "psych",
+   "k": "thk-ainsworth"
+  },
+  {
+   "n": "Bugental",
+   "b": 1915,
+   "d": 2008,
+   "g": "usa",
+   "ap": false
+  },
+  {
+   "n": "Joseph Wolpe",
+   "b": 1915,
+   "d": 1997,
+   "g": "psych",
+   "k": "thk-jwolpe"
+  },
+  {
+   "n": "Hans W. Cohn",
+   "b": 1916,
+   "d": 2004,
+   "g": "brit",
+   "ap": true,
+   "k": "thk-cohn"
+  },
+  {
+   "n": "Abd al-Rahman Badawi",
+   "b": 1917,
+   "d": 2002,
+   "g": "phil",
+   "k": "thk-badawi"
+  },
+  {
+   "n": "William Earle",
+   "b": 1919,
+   "d": 1988,
+   "g": "phil",
+   "k": "thk-earle"
+  },
+  {
+   "n": "van Kaam",
+   "b": 1920,
+   "d": 2007,
+   "g": "usa",
+   "ap": false
+  },
+  {
+   "n": "Ira Progoff",
+   "b": 1921,
+   "d": 1998,
+   "g": "phil",
+   "k": "thk-iprogoff"
+  },
+  {
+   "n": "Charles Socarides",
+   "b": 1922,
+   "d": 2005,
+   "g": "psych",
+   "k": "thk-csocarides"
+  },
+  {
+   "n": "Moustakas",
+   "b": 1923,
+   "d": 2012,
+   "g": "usa",
+   "ap": false
+  },
+  {
+   "n": "Becker",
+   "b": 1924,
+   "d": 1974,
+   "g": "usa",
+   "ap": false
+  },
+  {
+   "n": "Joseph Weiss",
+   "b": 1924,
+   "d": 2004,
+   "g": "psych",
+   "k": "thk-jweiss"
+  },
+  {
+   "n": "Gilles Deleuze",
+   "b": 1925,
+   "d": 1995,
+   "g": "phil",
+   "k": "thk-deleuze"
+  },
+  {
+   "n": "Akinsola Akiwowo",
+   "b": 1926,
+   "d": 1990,
+   "g": "psych",
+   "ap": false
+  },
+  {
+   "n": "Laing",
+   "b": 1927,
+   "d": 1989,
+   "g": "brit",
+   "ap": false
+  },
+  {
+   "n": "Edgar Levenson",
+   "b": 1928,
+   "d": 2022,
+   "g": "phil",
+   "k": "thk-levenson"
+  },
+  {
+   "n": "Richard Herrnstein",
+   "b": 1930,
+   "d": 1994,
+   "g": "psych",
+   "k": "thk-rherrnstein"
+  },
+  {
+   "n": "Yalom",
+   "b": 1931,
+   "d": null,
+   "g": "usa",
+   "ap": false
+  },
+  {
+   "n": "Gonzalo Arango",
+   "b": 1931,
+   "d": 1976,
+   "g": "phil",
+   "k": "thk-arango"
+  },
+  {
+   "n": "Ilana Rubenfeld",
+   "b": 1933,
+   "d": 2019,
+   "g": "phil",
+   "k": "thk-irubenfeld"
+  },
+  {
+   "n": "Edward Said",
+   "b": 1935,
+   "d": 2003,
+   "g": "phil",
+   "k": "thk-said"
+  },
+  {
+   "n": "Wong",
+   "b": 1937,
+   "d": null,
+   "g": "meaning",
+   "ap": true
+  },
+  {
+   "n": "Constance Fischer",
+   "b": 1938,
+   "d": 2020,
+   "g": "psych",
+   "k": "thk-cfischer"
+  },
+  {
+   "n": "Elisabeth Lukas",
+   "b": 1942,
+   "d": null,
+   "g": "meaning",
+   "ap": true,
+   "k": "thk-lukas"
+  },
+  {
+   "n": "Stolorow",
+   "b": 1942,
+   "d": null,
+   "g": "usa",
+   "ap": true
+  },
+  {
+   "n": "Derek Parfit",
+   "b": 1942,
+   "d": 2017,
+   "g": "phil",
+   "k": "thk-dparfit"
+  },
+  {
+   "n": "Holzhey-Kunz",
+   "b": 1943,
+   "d": null,
+   "g": "dasein",
+   "ap": true
+  },
+  {
+   "n": "Steve Biko",
+   "b": 1946,
+   "d": 1977,
+   "g": "phil",
+   "k": "thk-biko"
+  },
+  {
+   "n": "Hayes · ACT",
+   "b": 1948,
+   "d": null,
+   "g": "neigh",
+   "ap": true
+  },
+  {
+   "n": "Spinelli",
+   "b": 1949,
+   "d": null,
+   "g": "brit",
+   "ap": true
+  },
+  {
+   "n": "Längle",
+   "b": 1951,
+   "d": null,
+   "g": "meaning",
+   "ap": true
+  },
+  {
+   "n": "Breitbart",
+   "b": 1951,
+   "d": null,
+   "g": "meaning",
+   "ap": true
+  },
+  {
+   "n": "van Deurzen",
+   "b": 1951,
+   "d": null,
+   "g": "brit",
+   "ap": true
+  },
+  {
+   "n": "Schneider",
+   "b": 1956,
+   "d": null,
+   "g": "usa",
+   "ap": true
+  },
+  {
+   "n": "Louise Guerney",
+   "b": 1960,
+   "d": 2015,
+   "g": "psych",
+   "k": "thk-louise-guerney"
+  },
+  {
+   "n": "Cooper",
+   "b": 1966,
+   "d": null,
+   "g": "brit",
+   "ap": true
+  },
+  {
+   "n": "René Kaës",
+   "b": 1968,
+   "d": 2026,
+   "g": "phil",
+   "k": "thk-rkaes"
+  },
+  {
+   "n": "Martin Seligman",
+   "b": 1970,
+   "d": 2020,
+   "g": "psych",
+   "k": "thk-mseligman"
+  },
+  {
+   "n": "Erna Blanche",
+   "b": 1970,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-eblanche"
+  },
+  {
+   "n": "Mary Main",
+   "b": 1973,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-marymain"
+  },
+  {
+   "n": "Judith DeLozier",
+   "b": 1975,
+   "d": 2015,
+   "g": "phil",
+   "k": "thk-jdelozier"
+  },
+  {
+   "n": "John Fox",
+   "b": 1975,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-jfox"
+  },
+  {
+   "n": "Roy Baumeister",
+   "b": 1978,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-roy-baumeister"
+  },
+  {
+   "n": "David Scharff",
+   "b": 1980,
+   "d": 2026,
+   "g": "phil",
+   "k": "thk-dscharff"
+  },
+  {
+   "n": "Lawrence Fischbein",
+   "b": 1980,
+   "d": 2026,
+   "g": "phil",
+   "k": "thk-lfish"
+  },
+  {
+   "n": "Robert Drake",
+   "b": 1980,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-rdrake"
+  },
+  {
+   "n": "Susan Blumberg",
+   "b": 1981,
+   "d": 2010,
+   "g": "psych",
+   "k": "thk-sblumberg"
+  },
+  {
+   "n": "Chandra Mohanty",
+   "b": 1984,
+   "d": 2026,
+   "g": "phil",
+   "k": "thk-mohanty"
+  },
+  {
+   "n": "Priscilla Ridgway",
+   "b": 1985,
+   "d": 2010,
+   "g": "phil",
+   "k": "thk-pridgway"
+  },
+  {
+   "n": "Margaret Bauman",
+   "b": 1985,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-mbauman"
+  },
+  {
+   "n": "Rick Doblin",
+   "b": 1986,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-rmdoblin"
+  },
+  {
+   "n": "David Epston",
+   "b": 1988,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-depston"
+  },
+  {
+   "n": "Kobi Kambon",
+   "b": 1990,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-kkambon"
+  },
+  {
+   "n": "Park Jong-Ik",
+   "b": 1990,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-parkjongik"
+  },
+  {
+   "n": "Jakob Schneider",
+   "b": 1990,
+   "d": 2020,
+   "g": "phil",
+   "k": "thk-jschneider"
+  },
+  {
+   "n": "Jonathan Haidt",
+   "b": 1992,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-jonathan-haidt"
+  },
+  {
+   "n": "Rosalind Picard",
+   "b": 1995,
+   "d": 2026,
+   "g": "phil",
+   "k": "thk-rpicard"
+  },
+  {
+   "n": "Adil Najam",
+   "b": 1996,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-anajam"
+  },
+  {
+   "n": "Sara Ahmed",
+   "b": 1998,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-sahmed"
+  },
+  {
+   "n": "Richard Bargdill",
+   "b": 2000,
+   "d": 2018,
+   "g": "psych",
+   "k": "thk-bargdill"
+  },
+  {
+   "n": "George Thompson",
+   "b": 2000,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-george-thompson"
+  },
+  {
+   "n": "Alex Linley",
+   "b": 2001,
+   "d": 2026,
+   "g": "psych",
+   "k": "thk-alinley"
+  }
+ ],
+ "threads": [
+  {
+   "era": "1855 — 1900 · After Kierkegaard and Before Phenomenology",
+   "note": "Half a century that does not appear on the conventional timeline, during which everything that followed was being prepared. Neither a school nor a coined term — but the questions were being posed in literature, philosophy, and medicine alike.",
+   "items": [
+    [
+     "Dostoevsky",
+     "1846–1881",
+     "\"Notes from Underground\" and \"The Brothers Karamazov\": the first novelistic depiction of freedom as a burden, and of the refusal of guaranteed happiness. Sartre and Camus explicitly return to him.",
+     "thk-dostoevsky"
+    ],
+    [
+     "Nietzsche",
+     "1872–1888",
+     "Diagnosis of the collapse of guarantees, critique of conformity, and the idea that values are created. The direct root of the secular branch of the school.",
+     "thk-nietzsche"
+    ],
+    [
+     "Dilthey",
+     "1883–1900",
+     "The distinction between explaining nature and understanding human life. The methodological foundation that Jaspers would build upon thirty years later.",
+     "thk-dilthey"
+    ],
+    [
+     "Brentano",
+     "1874",
+     "The reintroduction of intentionality into modern philosophy — he was Husserl's direct teacher, and without him there is no phenomenology.",
+     "thk-brentano"
+    ],
+    [
+     "William James",
+     "1890–1902",
+     "\"The Principles of Psychology\" and \"The Varieties of Religious Experience\": the first systematic psychological description of lived experience in English, and a precursor to the later reception of the European tradition in America.",
+     "thk-james"
+    ],
+    [
+     "Unamuno",
+     "1895–1913",
+     "\"The Tragic Sense of Life\": the Spanish voice that remained outside the German-French canon and was not included in the history of the school.",
+     "thk-unamuno"
+    ],
+    [
+     "Charcot and Janet",
+     "1880s",
+     "French psychiatry opens the door to studying the patient's subjective experience — the context from which Minkowski would emerge.",
+     "thk-charcot"
+    ]
+   ]
+  },
+  {
+   "era": "1913 — 1927 · Between Jaspers and Heidegger",
+   "note": "Fourteen years in which the explosion of phenomenology and its first war took place, shaping everything that would later become \"existential analysis\".",
+   "items": [
+    [
+     "Scheler",
+     "1913–1928",
+     "Phenomenology of affect and values — influenced Frankl directly, yet is almost forgotten.",
+     "thk-scheler"
+    ],
+    [
+     "Rank",
+     "1924",
+     "Life anxiety and death anxiety. The missing link between Freud, Becker, and Yalom alike.",
+     "thk-rank"
+    ],
+    [
+     "Buber",
+     "1923",
+     "\"I and Thou\": the text that would become the foundation of the concept of the therapeutic encounter thirty years later.",
+     "thk-mbuber"
+    ],
+    [
+     "World War I",
+     "1914–1918",
+     "The context that turned questions of death, absurdity, and meaning into public concerns rather than individual reflections."
+    ]
+   ]
+  },
+  {
+   "era": "1945 — 1958 · Between Europe and America",
+   "note": "Thirteen years during which the tradition existed entirely in German and French, and was virtually non-existent in English.",
+   "items": [
+    [
+     "Merleau-Ponty",
+     "1945",
+     "\"Phenomenology of Perception\": the lived body — the most suitable root for medical practice, and the slowest to reach the clinic.",
+     "thk-merleau-ponty"
+    ],
+    [
+     "Camus",
+     "1942–1951",
+     "Absurdity and rebellion: the only framework that provides a stance for those who do not accept ready-made meaning.",
+     "thk-camus"
+    ],
+    [
+     "Beauvoir",
+     "1947–1949",
+     "\"The Ethics of Ambiguity\" and \"The Second Sex\": intertwined freedom and situation — both of which were lost in transition into English.",
+     "thk-beauvoir"
+    ],
+    [
+     "Levinas",
+     "1947–1961",
+     "Ethics precedes ontology. He did not reach the clinic until half a century later, and even now, barely.",
+     "thk-levinas"
+    ]
+   ]
+  }
+ ]
+}
