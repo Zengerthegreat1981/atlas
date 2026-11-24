@@ -6,9 +6,9 @@ level: "متقدم"
 title: "Herodotus the Historian"
 en: "Herodotus the Historian"
 crumb: "Historiography ← Thinkers ← Herodotus"
-dates: "Ancient Greece · c. 484–420 BC"
+dates: "Ancient Greece · c. 484–c. 425 BC"
 active_start: -450
-active_end: -420
+active_end: -425
 country: "Greece"
 language: "Ancient Greek"
 part: "historiography"
@@ -17,51 +17,44 @@ edges:
 related:
 - id: "sch-herodotus-inquiry-method", title: "Herodotus's Method of Inquiry and Narration", type: "مدرسة"
 - id: "wrk-histories-herodotus", title: "The Histories (Herodotus)", type: "عمل"
-gaps:
-  - "His exact birth and death dates are disputed; the dates of his travels and work are not fully certain."
-  - "His geographic origin (Halicarnassus) is debated: was he Ionian or Dorian?"
+gaps: []
 ---
 
 # Herodotus the Historian
 
-**Herodotus** (c. 484–420 BC), from Halicarnassus in Asia Minor, is regarded as the **founder of history as a field of knowledge** in Western civilisation. He was not the first to record reports, but he was the first to establish a **systematic method of inquiry**: travel, direct questioning, and verification of reports.
+Herodotus of Halicarnassus (c. 484–c. 425 BC) is traditionally recognized in the Western historiographical tradition as the "father of history" (*pater historiae*), a title bestowed by Cicero (*De Legibus* 1.5). In his *Histories* (*Historiai*, literally "Inquiries"), he established a systematic practice of inquiry into past human actions, combining autopsy, oral testimony, geographical investigation, and comparative ethnography.
 
-## Commitment to Travel and Direct Testimony
+## Origins, Dating, and Cultural Milieu
 
-Herodotus did not content himself with orally transmitted traditions; he **travelled in person**: to Egypt (where he met Egyptian priests), to Babylon, and to the lands of the Persians. He recorded what he saw directly and met witnesses of the age he was writing about. This commitment to **personal presence and inquiry** distinguished him from passive transmission.
+Herodotus was born in Halicarnassus (modern Bodrum, Turkey) on the southwestern coast of Asia Minor. Halicarnassus was originally a Dorian Greek foundation (part of the Dorian Hexapolis), but it sat within the satrapy of the Achaemenid Persian Empire and possessed a mixed population of Greeks, Carians, and Persians. The names of Herodotus's immediate family—his father Lyxes and his relative, the epic poet Panyassis—indicate Carian lineage. While born into a Dorian city under Persian suzerainty, Herodotus wrote his *Histories* in the literary Ionic dialect, reflecting the intellectual preeminence of the Ionian Enlightenment.
 
-## His Life and Travels
+Scholars date his life from approximately 484 BC to around 425 BC. While precise biographical records are lacking, internal textual evidence from the *Histories*—such as references to the execution of Spartan ambassadors in 430 BC and Athenian affairs down to the early Archidamian phase of the Peloponnesian War—indicates that he was active into the late 420s BC. Political strife in Halicarnassus led to the execution of Panyassis and the exile of Herodotus to the island of Samos. He later traveled extensively across the eastern Mediterranean before joining the pan-Hellenic colony of Thurii in southern Italy (founded in 444/443 BC under Athenian auspices), where he is believed to have completed his work.
 
-In addition to Egypt, Babylon and Persia, Herodotus probably also visited the northern shores of the Black Sea (Scythia) and parts of southern Italy, where he finally settled in the Greek colony of Thurii in southern Italy, and where he probably died. These wide-ranging travels show that for him history was not a purely bookish activity but a field project requiring actual travel over vast distances by the standards of his time, which explains the accuracy of many of his geographic observations despite the lack of modern verification tools.
+## Method of Inquiry: *Autopsia*, *Akoe*, and *Gnome*
 
-## Limits and Modern Debate
+Herodotus transformed the Greek word *historie*—which previously meant "inquiry" or "investigation" in legal and philosophical contexts—into an empirical historical method resting on three epistemological pillars:
+1. ***Autopsia* (Eye-witness observation)**: Directly inspecting geographical landscapes, monuments, temples, and battlefields across Egypt, Mesopotamia, the Levant, the Black Sea (Scythia), and mainland Greece.
+2. ***Akoe* (Hearing and oral reports)**: Interviewing local informants, priests, temple guardians, and eyewitnesses.
+3. ***Gnome* (Critical judgment and inference)**: Evaluating conflicting accounts based on plausibility and internal coherence.
 
-He is criticised for accepting some reports that seem extraordinary (such as winged serpents), which made him a target of later criticism by Thucydides. Contemporary scholarship has re-evaluated him, however: he may have been more cautious than positivist assumptions suggest, and his choices reflected an understanding of a cultural context different from purely Greek perspectives.
+Herodotus recognized that reporting an account did not require endorsing its literal truth, famously formulating his methodological canon: "My duty is to report what is said, but I am not obliged to believe it all" (*Histories* 7.152). When confronted with divergent accounts—such as the various stories regarding the rise of Cyrus the Great or the cause of the Persian invasion—he frequently juxtaposed alternative traditions side by side rather than artificially harmonizing them.
 
-## Structure and Subject of His Work
+## Structure and Scope of the *Histories*
 
-The *Histories* (Historiai, i.e. "Inquiries") consists of nine books, which the Alexandrian editors later named after the nine Muses. Its central subject is the Greco-Persian Wars (499–479 BC), but Herodotus digresses freely into descriptions of the geography and customs of the peoples the Persians encountered during their expansion: Egypt (the entire second book), Scythia, Libya, and Persia itself. This makes the work closer to a comprehensive ethnographic and geographic encyclopaedia than to a narrow military narrative.
+The *Histories* was later divided by Alexandrian grammarians into nine books named after the nine Muses. While its overarching narrative arc documents the Persian Wars (499–479 BC)—culminating in the Greek victories at Marathon, Salamis, and Plataea—the work functions as an expansive ethnographic and geographical survey of the known world:
+- Book II is devoted entirely to Egypt, its geography, the inundation of the Nile, religious customs, and sacred animals.
+- Book IV examines the nomadic customs, burial rites, and ecology of the Scythians and Libyans.
+- Throughout, Herodotus displays a notable absence of ethnocentric prejudice, leading Plutarch centuries later to accuse him of being *philobarbaros* ("barbarian-lover"). In modern anthropology, this comparative openness is often described as an early form of cultural relativism, encapsulated in his citation of Pindar's dictum that "custom (*nomos*) is king of all."
 
-## His Origin and Dual Culture
+## Historiographical Legacy and Debate
 
-Halicarnassus, Herodotus's birthplace, was a Greek city within the borders of the Achaemenid Persian Empire. This made Herodotus himself descend from a frontier culture combining Greek and Persian elements. This perhaps explains his relative fairness towards the Persian viewpoint in his writing, in contrast to the Greek bias one might expect: he sometimes presents the arguments and logic of the Persians without deliberate distortion. This feature distinguishes him from many writers of his age who openly sided with the Greek victory in those wars.
+Herodotus was implicitly criticized by his younger contemporary Thucydides, who rejected Herodotus's inclusion of folk legends, divine omens, and ethnographic digressions in favor of a strictly contemporary, verified political-military narrative. For centuries, critics echoed this contrast, characterizing Herodotus as a naive storyteller (*mythologos*) and Thucydides as the true scientific historian.
 
-## The Method of Inquiry (Historia)
-
-Herodotus used the word *historie* (ἱστορία), meaning "inquiry" or "investigation" rather than "history" in the modern sense, to describe his method of gathering accounts from multiple witnesses and comparing them. He did not always decide which account was more accurate, sometimes setting conflicting reports side by side. His famous remark runs: "My duty is to report what is said, but I am not obliged to believe it all." This statement shows an early methodological awareness of the difference between reporting an account and believing it, a foundation for all later historical criticism.
-
-## Thucydides and the Succession of Method
-
-Directly after Herodotus came the historian **Thucydides**, who wrote about the Peloponnesian War and explicitly rejected his predecessor's method of accepting popular traditions and marvels. He called for a stricter history based on direct eyewitness testimony and careful verification. The contrast between the two men established a methodological dichotomy that persisted for a long time in Western thought: Herodotus, the curious and encyclopaedic "father of history", versus Thucydides, the rigorous "father of scientific history". Contemporary research, however, regards this dichotomy as an excessive simplification that does Herodotus an injustice.
-
-## His Reception in the Arab-Islamic Heritage
-
-Herodotus was known to medieval Muslim scholars in a relatively limited way compared with Aristotle and Plato. His historical works were not translated directly within the great Abbasid translation movement, which focused on philosophy, medicine and the natural sciences. Some geographic information attributed to him, however, passed indirectly through later Greek intermediaries, from whom Arab geographers such as al-Mas'udi benefited in describing the peoples of the north and Scythia.
-
-Historians of comparative historiography today note a striking methodological similarity between Herodotus's broad ethnographic curiosity in describing foreign peoples and that of later Muslim historians and travellers such as al-Mas'udi himself and Ibn Fadlan. Both mix history, geography and ethnography into a single fabric in their precise descriptions of the customs of distant peoples (the Rus and the Slavs) that they witnessed or heard about directly. Both seek to understand the cultural other on its own terms rather than judging it from a narrow, self-centred perspective, which gives both traditions a human value that goes beyond factual documentation and extends to understanding the diversity of humankind itself.
+However, twentieth-century scholarship, inaugurated by Arnaldo Momigliano and expanded by Donald Lateiner and Rosalind Thomas, fundamentally re-evaluated Herodotus. Scholars have argued that Herodotus was a sophisticated participant in the fifth-century BC intellectual revolution, anticipating modern ethnographic and oral history techniques. Herodotus was not translated during the classical Abbasid translation movement; later Muslim authors such as al-Mas'udi independently combined geography, ethnography, and history.
 
 ## Sources
 
-- Herodotus. *Histories*. Loeb Classical Library.
-- Evans, J. A. S. *Herodotus, Explorer of the Past*. 1991.
-- Momigliano, Arnaldo. "The Place of Herodotus in the History of Historiography." *History*, 1958.
+- Herodotus. *The Histories*. Translated by Aubrey de Sélincourt, revised with introduction and notes by John Marincola. Penguin Classics, 2003.
+- Momigliano, Arnaldo. "The Place of Herodotus in the History of Historiography." *History*, vol. 43, no. 147, 1958, pp. 1–13.
+- Lateiner, Donald. *The Historical Method of Herodotus*. University of Toronto Press, 1989.
+- Thomas, Rosalind. *Herodotus in Context: Ethnography, Science and the Art of Persuasion*. Cambridge University Press, 2000.

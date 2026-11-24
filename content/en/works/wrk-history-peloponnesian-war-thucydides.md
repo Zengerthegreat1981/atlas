@@ -16,37 +16,41 @@ edges:
 related:
 - id: "sch-thucydides-source-criticism", title: "Thucydides' Method of Rational Criticism and Sources", type: "مدرسة"
 - id: "thk-livy", title: "Titus Livy", type: "مفكر"
-gaps:
-  - "The work is incomplete: it ends in 411 BCE, while the war ended in 404 BCE."
+gaps: []
 ---
 
-# History of the Peloponnesian War
+# History of the Peloponnesian War (Thucydides)
 
 ## Definition
 
-**"History of the Peloponnesian War"** is a historical work in eight books, written by the Athenian historian **Thucydides** (c. 460–400 BCE) about the long war (431–404 BCE) between Athens and its allies on one side, and Sparta and its allies on the other. Thucydides lived through the war directly. He served as an Athenian military commander before being exiled after failing to defend the city of Amphipolis. He devoted his exile to collecting testimonies and writing the history of the war from both of the belligerent sides.
+The ***History of the Peloponnesian War*** (Ancient Greek: Ἱστορίαι, *Historíai*, or Συγγραφή, *Syngraphē*) is a classical historical account in eight books by the Athenian general and historian **Thucydides** (c. 460–400 BCE). Chronicling the catastrophic twenty-seven-year conflict (431–404 BCE) between the Delian League led by Athens and the Peloponnesian League led by Sparta, the work is widely regarded as a foundational work of analytical historiography and a classic of political realism.
 
-## Method and Structure
+## Structural Organization and Major Episodes
 
-The work follows a chronological sequence (year by year), dividing each year into the **summer campaigning season** and the **winter period of lower military activity**. This is a methodological innovation that made him one of the first Western historians to adopt a strict and organized chronological standard. Thucydides includes in the work **rhetorical speeches attributed** to leaders and politicians (the most famous being Pericles' funeral oration in Book Two). He himself stated that these are not verbatim transcripts, but reconstructions of what "the situation required to be said," while at the same time committing himself to a careful search for the facts themselves from eyewitnesses on both sides.
+Structured chronologically by campaigning years and divided strictly between summer and winter seasons, the work encompasses several famous narrative and philosophical episodes:
 
-## Main Features
+- **Book I (The Archaeology and Origins)**: Synthesizes early Greek development, outlines Thucydides' critical source methodology, and establishes the distinction between immediate grievances (Corcyra and Potidaea) and the truest cause (*alēthestátē próphasis*): Spartan fear of expanding Athenian naval imperialism.
+- **Books II–IV (The Archidamian War, 431–421 BCE)**: Chronicles the Spartan invasions of Attica, the democratic civic ideals articulated in Pericles' Funeral Oration, the horrifying social disintegration during the Plague of Athens (which Thucydides contracted and survived), the ethical debate over the punishment of Mytilene, the brutal civil strife (*stasis*) in Corcyra, and Athenian victory at Sphacteria.
+- **Book V (The Peace of Nicias and the Melian Dialogue)**: Examines the fragile truce of 421 BCE and culminates in the chilling philosophical confrontation between Athenian emissaries and the leaders of Melos (416 BCE), dramatizing the raw equation between imperial power and justice ("the strong do what they can and the weak suffer what they must").
+- **Books VI–VII (The Sicilian Expedition, 415–413 BCE)**: Narrates the disastrous Athenian expedition against Syracuse promoted by Alcibiades and commanded by Nicias, depicting the annihilation of Athens' expeditionary force as a tragedy of imperial hubris.
+- **Book VIII and the Incomplete Narrative**: Focuses on the Ionian War, Spartan negotiations with Persian satraps (Tissaphernes), and the anti-democratic oligarchic coup of the Four Hundred in Athens. The text breaks off abruptly in the autumn of 411 BCE following the naval battle of Cynossema. Thucydides died before completing the account down to Athens' surrender in 404 BCE; the narrative was famously resumed mid-sentence by Xenophon in the *Hellenica*, as well as by the author of the *Hellenica Oxyrhynchia*.
 
-- **Rational analysis of causes**: Thucydides rejected explaining events by divine intervention (unlike Herodotus before him), and sought **human causes**: interest, fear and honour. His famous analysis of the "true" cause of the war (the growth of Athenian power and the fear it instilled in Sparta) earned him the later title "father of scientific history."
-- **Standard of testimony and verification**: he committed himself to collecting accounts from eyewitnesses on both warring sides and comparing them. He explicitly declared in his introduction that he does not rely on the first account that reaches him, but examines it carefully.
-- **An incomplete work**: the text ends abruptly in the events of 411 BCE, seven years before the actual end of the war (404 BCE). It is believed that Thucydides' death prevented him from completing it. Later historians, most notably Xenophon in his *Hellenica*, narrated the rest of the war.
+## Methodological Innovations
 
-## Impact
+Thucydides is associated with three notable principles:
+1. **Secular and Material Causation**: He largely excluded mythological forces and divine intervention from his causal explanations, explaining events through political interest (*sympheron*), fear (*phobos*), and ambition (*time*).
+2. **Eyewitness Verification**: He subjected oral reports to rigorous cross-examination, relying on autopsy and comparing multiple independent testimonies from combatants on both sides.
+3. **Reconstructed Speeches (*Ta Deonta*)**: In Book I (1.22.1), he explicitly outlined his technique for composed speeches, explaining that while adhering as closely as possible to the general drift of what was actually said, he reconstructed what the situation required the speakers to say (*ta deonta*). These dramatic orations function as profound vehicles for ideological and strategic analysis.
 
-The work is the cornerstone of the Western tradition of "scientific history," based on rational criticism and verification of testimony rather than myth and religious explanation. It has deeply influenced modern international relations theory, especially through the concept of the "Thucydides Trap" coined by Graham Allison to describe wars arising from the rise of a competing power, as well as its continuing influence on the philosophy of history and military strategy.
+## Legacy
 
-## Limitation
-
-It is noted that Thucydides, despite his claim of impartiality, was an Athenian political and military participant who was exiled, which raises questions about his full neutrality in portraying the Athenian decisions that led to his exile. Also, the attributed speeches, despite their analytical value, are not literal historical documents in the strict modern sense.
+Thucydides' work has been a touchstone for realist thought in political science and strategy; Thomas Hobbes published an English translation made from the Greek in 1629, and modern writers such as Graham Allison invoke Thucydides in analyses of great-power rivalry.
 
 ## Sources
 
-- Thucydides, *History of the Peloponnesian War*, trans. Rex Warner (Penguin Classics, 1972).
-- W. Robert Connor, *Thucydides* (Princeton University Press, 1984).
-- Simon Hornblower, *A Commentary on Thucydides*, 3 vols. (Oxford University Press, 1991–2008).
-- Graham Allison, *Destined for War: Can America and China Escape Thucydides's Trap?* (Houghton Mifflin Harcourt, 2017).
+- Thucydides. *History of the Peloponnesian War*. 4 vols. Translated by C. F. Smith. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1919–1923.
+- Thucydides. *The Peloponnesian War*. Translated by Rex Warner, with an introduction and notes by M. I. Finley. Harmondsworth: Penguin Books, 1972.
+- Hornblower, Simon. *A Commentary on Thucydides*. 3 vols. Oxford: Oxford University Press, 1991–2008.
+- Connor, W. Robert. *Thucydides*. Princeton: Princeton University Press, 1984.
+- Kagan, Donald. *The Peloponnesian War*. New York: Viking, 2003.
+- Gomme, A. W., A. Andrewes, and K. J. Dover. *A Historical Commentary on Thucydides*. 5 vols. Oxford: Clarendon Press, 1945–1981.

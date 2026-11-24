@@ -13,61 +13,39 @@ language: "English, French"
 active_start: 1990
 active_end: "مستمر"
 edges:
-- rel: "belongs_to", target: "Transnational and Global History", target_type: "مدرسة"
-related:
-gaps:
-  - "Standalone entry, 2026-09-22: previously mentioned in `con-connected-history-subrahmanyam` without its own biography; the gap is closed here."
-  - "Not yet covered: the full scope of his work beyond connected history (the history of Indian Ocean trade, the Portuguese empire) in more detail than his specific methodological contribution."
+  - rel: "belongs_to", target: "Transnational and Global History", target_type: "مدرسة"
+related: []
+gaps: []
 ---
 
 # Sanjay Subrahmanyam
 
-## Definition
+Sanjay Subrahmanyam (born 21 May 1961) is an Indian historian of the early modern world, holding the Irving and Jean Stone Endowed Chair in Social Sciences at the University of California, Los Angeles (UCLA). A leading proponent of **Connected History** (*histoire connectée*), his scholarship has influenced global history by replacing insular regional comparisons with the study of concrete cross-cultural linkages, mobile intermediaries, and parallel imperial dynamics across early modern Eurasia and the Atlantic.
 
-Sanjay Subrahmanyam (born 1961) is an Indian historian and professor at the University of California, Los Angeles and at the Collège de France in Paris. He specializes in the history of the Indian Ocean and the early modern empires (the Safavid, Mughal, Ottoman and Portuguese), and is the founder of the concept of "Connected History," which fundamentally changed the methodology of comparative and global historical writing.
+## Academic Trajectory and Intellectual Formation
 
-## Historical Context
+Subrahmanyam received his training in economics and economic history at the Delhi School of Economics, completing his doctorate in 1987 on the trade of the Coromandel coast. His polyglot archival facility—working with primary documents in Portuguese, Spanish, Persian, Dutch, French, Tamil, and Italian—allowed him to overcome traditional linguistic boundaries separating South Asian history, European imperial studies, and the Middle East.
 
-Subrahmanyam was originally trained in economics before turning to history, which gave him a particular sensitivity to the study of trade and exchange networks across the Indian Ocean. His methodological contribution in the 1990s came within a broader context of re-evaluating traditional regional historiography, which divided the world into separate civilizational units ("the Middle East," "South Asia," "Europe") each studied in isolation from the others. Subrahmanyam saw this division as a modern, imprecise, border-based projection onto a pre-modern world that was far more interconnected.
+He held academic appointments at the Delhi School of Economics, the École des hautes études en sciences sociales (EHESS) in Paris, and the University of Oxford (holding the Chair in Indian History and Culture from 2002 to 2004). In 2004 he joined the faculty of UCLA, and from 2013 to 2021 he concurrently held the Chair in Early Modern Global History (*Histoire globale de la première modernité*) at the Collège de France.
 
-## What He Gave
+## Methodological Innovations: Connected History
 
-- **Connected History**: in his essay "Connected Histories: Notes towards a Reconfiguration of Early Modern Eurasia" (1997), he formulated a method for writing the history of two or more regions together, as causally and culturally linked at the same moment, such as Safavid Iran and Mughal India, instead of the traditional separate comparison.
-- **Critique of modern regional boundaries**: he argues that dividing history into fixed regional units ("the history of India," "the history of the Middle East") retroactively imposes modern borders on a pre-modern world that was far more entangled through commercial, diplomatic and religious networks.
-- **The history of the Portuguese empire in Asia**: numerous works that reread Portuguese expansion in the Indian Ocean within broader Asian networks, rather than as a single European event.
+Subrahmanyam articulated the concept of "Connected History" in his influential 1997 essay, "Connected Histories: Notes towards a Reconfiguration of Early Modern Eurasia":
+- **Critique of Area Studies**: Subrahmanyam criticized the post-World War II division of academic history into discrete "Area Studies" (such as South Asian Studies, Middle Eastern Studies, and European Studies). He argued that this compartmentalization retroactively projects modern nation-state and Westphalian borders onto an early modern world characterized by trans-imperial mobility and shared cosmopolitan circuits.
+- **Beyond Eurocentric World-Systems and Isolated Comparisons**: While acknowledging comparative history, Subrahmanyam pointed out that comparing two separated societies side by side often reifies cultural essentialisms. Similarly, he challenged Immanuel Wallerstein's World-Systems theory for treating western Europe as the sole dynamic center and non-European societies as passive peripheries. Connected history focuses instead on the mutual, multi-directional circulation of people, commodities, diplomatic practices, and intellectual texts.
+- **Early Modern Millenarianism**: In a celebrated demonstration of connected history, Subrahmanyam analyzed the parallel waves of apocalyptic and messianic expectations that swept across the Ottoman Empire, Safavid Iran, Mughal India, and the Iberian Peninsula around the turn of the sixteenth and seventeenth centuries (the Islamic millennium of 1000 AH / 1591–1592 CE and Christian expectations around 1600), suggesting that shared eschatological idioms circulated dynamically across religious frontiers.
 
-## Position within the Current
+## Major Empirical Fields and Collaborations
 
-Subrahmanyam is one of the leading historians of the "New Global History," and his concept has shifted the writing of comparative history toward a model more attentive to the actual interconnections between regions, instead of isolated comparison.
-
-## Major Works
-
-- "Connected Histories: Notes towards a Reconfiguration of Early Modern Eurasia" (article, 1997).
-- *The Portuguese Empire in Asia, 1500–1700* (1993).
-- *Three Ways to Be Alien: Travails and Encounters in the Early Modern World* (2011).
+- **The Portuguese Empire and the Indian Ocean**: In *The Portuguese Empire in Asia, 1500–1700* (1993) and *The Career and Legend of Vasco da Gama* (1997), Subrahmanyam reinterpreted the *Estado da Índia*, framing Portuguese expansion not as an all-powerful European imposition, but as a fragmented network that was forced to adapt to and negotiate within existing Asian maritime and trading structures.
+- **The Mughal World and Courtly Culture**: In extensive collaborations with historian Muzaffar Alam, including *Writing the Mughal World* (2012), he explored Persianate scribal cultures, diplomatic missions, and political theory in Mughal India, examining the interplay of Islamic and South Asian traditions of governance.
+- **South Indian Cultural History**: Together with David Shulman and Velcheru Narayana Rao, Subrahmanyam co-authored studies—such as *Symbols of Substance* (1992) and *Textures of Time: Writing History in South India 1600–1800* (2001)—which challenged colonial assertions that pre-colonial India lacked a sense of historical writing.
+- **Microhistory and Trans-Imperial Lives**: In works such as *Three Ways to Be Alien* (2011), he utilized biographical microhistory to examine renegades, converts, and merchant intermediaries who navigated between conflicting imperial worlds.
 
 ## Sources
 
-- Subrahmanyam, Sanjay. "Connected Histories: Notes towards a Reconfiguration of Early Modern Eurasia." *Modern Asian Studies*, vol. 31, no. 3, 1997, pp. 735–762.
-- Subrahmanyam, Sanjay. *The Portuguese Empire in Asia, 1500–1700: A Political and Economic History*. Longman, 1993.
-- Subrahmanyam, Sanjay. *Three Ways to Be Alien: Travails and Encounters in the Early Modern World*. Brandeis University Press, 2011.
-
-## Impact and Criticism
-
-The concept of connected history has deeply influenced a whole field of global and early modern historical studies, and has pushed other historians to study the actual links between regions traditionally studied in isolation, such as the Atlantic and Indian oceans. Some critics note, however, that focusing on "connection" may at times marginalize the study of the deep internal structures of each region in its own right, in favor of tracing only the cross-border links. This tension remains between connected historians and traditional regional historians.
-
-## Wider Scope of His Scholarship
-
-Subrahmanyam's scholarly output is notable for its volume and its linguistic range. He publishes in English, French and Portuguese, and is also able to work with sources in Persian, Tamil and Urdu. This enables him to write a history that crosses the traditional linguistic boundaries that usually separate historians of the "Islamic world" from historians of "Hindu South Asia." Among his most prominent contributions are his joint works with the French historian Maurice Aymard, and his long collaboration with the American scholar David Shulman on the literature and intellectual history of South India.
-
-## Institutional Standing
-
-Subrahmanyam holds the Doshi Chair in History at the University of California, Los Angeles, has won many international academic awards for his methodological pioneering, and is today one of the most cited historians of South Asia and early modern world history in international academic circles.
-
-## His Critical Style
-
-Subrahmanyam is also known for sharp critical reviews of his colleagues' works, published in leading academic journals. These reviews provoked debate within the profession about the limits of academic civility in public criticism, but they also reflected his strict commitment to the standards of historical and methodological accuracy, which he applies with equal rigor to his own work. They made him an audible voice in the major methodological debates within South Asian studies and global history, and a scholar frequently cited in any discussion of the future of comparative history in an age of globalization, as well as a methodological model for a new generation of young researchers seeking to go beyond the traditional disciplinary boundaries between Orientalism and separate regional history.
-
-## Range of His Intellectual Interests
-
-Subrahmanyam's output is not limited to connected history. It extends to studies in comparative political thought, the history of early European Orientalism, and repeated critiques of the flattening of the concept of "modernity" when it is used to describe a uniquely European experience without acknowledging parallel forms of modernity that partly arose independently in Asia itself. He approaches this position from a different angle in his critique of Dipesh Chakrabarty's critique of the European framework's dominance in writing global history.
+- Alam, Muzaffar, and Sanjay Subrahmanyam. *Writing the Mughal World: Studies on Culture and Politics*. Columbia University Press, 2012.
+- Subrahmanyam, Sanjay. "Connected Histories: Notes towards a Reconfiguration of Early Modern Eurasia." *Modern Asian Studies* 31, no. 3 (1997): 735–762.
+- Subrahmanyam, Sanjay. *Explorations in Connected History: From the Tagus to the Ganges*. Oxford University Press, 2005.
+- Subrahmanyam, Sanjay. *The Career and Legend of Vasco da Gama*. Cambridge University Press, 1997.
+- Subrahmanyam, Sanjay. *The Portuguese Empire in Asia, 1500–1700: A Political and Economic History*. Longman, 1993; 2nd ed., Wiley-Blackwell, 2012.

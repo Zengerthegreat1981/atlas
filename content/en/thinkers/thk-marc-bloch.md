@@ -9,53 +9,49 @@ en: "Marc Bloch"
 crumb: "Historiography ← Thinkers ← Marc Bloch"
 dates: "1886–1944"
 birth_country: "France"
+country: "France"
+language: "French"
 active_start: 1912
 active_end: 1944
 edges: []
-related:
+related: []
 gaps: []
 ---
 
 # Marc Bloch
 
-A great French historian and soldier (killed in the Second World War). He co-founded the **Annales School** with Lucien Febvre and focused on **developing a rigorous historical methodology**.
+Marc Léopold Benjamin Bloch (1886–1944) was a French medievalist, co-founder of the Annales School, and member of the French Resistance. His work influenced twentieth-century historical methodology by integrating social, economic, and psychological dimensions into the study of the past, challenging the narrow event-centered and diplomatic historiography of the nineteenth century.
 
-## Historical Context
+## Historical and Intellectual Context
 
-Marc Bloch was born in Lyon in 1886 into a French Jewish family of Alsatian origin. His father, Gustave Bloch, was a historian specializing in Roman history, which provided an early intellectual environment for him. He studied at the École Normale Supérieure in Paris and served as an infantry soldier in the First World War (1914–1918), where he was wounded and awarded decorations for courage. This experience left a deep mark on his later thinking about historical testimony and collective memory, and it appears in his early article "Réflexions d'un historien sur les fausses nouvelles de la guerre" (1921). He worked as a professor at the University of Strasbourg and then at the Sorbonne. In 1929, together with Lucien Febvre, he founded the journal *Annales d'histoire économique et sociale*, which became the platform of the famous Annales School, the most important revolution in French historical writing in the twentieth century.
+Marc Bloch was born in Lyon into an Alsatian Jewish academic family; his father, Gustave Bloch, was a professor of Roman history. Bloch studied at the École Normale Supérieure in Paris and served as an infantry officer in the French army during the First World War (1914–1918), where he was decorated with the Croix de Guerre. His wartime experience with trench rumors and military propaganda sparked his interest in collective psychology and the transmission of false reports, leading to his pioneering article "Réflexions d'un historien sur les fausses nouvelles de la guerre" (1921).
 
-## Major Contributions
+Appointed to the University of Strasbourg in 1919, Bloch formed a close intellectual partnership with Lucien Febvre. Together, in 1929, they founded the journal *Annales d'histoire économique et sociale*. The journal became the rallying ground for the Annales movement, advocating for an interdisciplinary "total history" that drew upon sociology, geography, and economics. In 1936, Bloch was elected to the chair of economic history at the Sorbonne.
 
-### *The Historian's Craft* (Apologie pour l'histoire ou métier d'historien)
+## Major Methodological Contributions
 
-His last, unfinished book, written during the French Resistance against the Nazis before his arrest and published posthumously in 1949. In it he explains in depth **how historical work is done**: how the historian reads sources and engages with them through his own questions, rather than waiting for them to "speak" on their own. It offers a methodological and philosophical reflection on the nature and limits of historical knowledge.
+### *The Royal Touch* (*Les Rois thaumaturges*, 1924)
+A pioneering investigation into the medieval and early modern belief that French and English kings possessed the supernatural power to heal scrofula (the "king's evil") by their physical touch. Rather than dismissing this belief as mere superstition, Bloch analyzed it as a collective representation that sustained sacred royal legitimacy, an influential text for the history of mentalities (*histoire des mentalités*).
 
-### *The Royal Touch* (Les Rois thaumaturges, 1924)
+### *French Rural History* (*Les Caractères originaux de l'histoire rurale française*, 1931)
+Bloch renewed agrarian history by employing the "regressive method"—reading history backwards from well-documented modern landscapes and cadastral surveys to reconstruct earlier medieval agrarian structures. He utilized non-textual evidence, including field systems (open fields versus enclosed *bocage*), field shapes, and agricultural technologies.
 
-A pioneering study of popular belief in France and England in the ability of kings to heal the sick by the touch of their hands. It is considered one of the first works of what would later be called the history of mentalities, as Bloch examined how collective representations and popular beliefs shaped the authority of political rule.
+### *Feudal Society* (*La Société féodale*, 2 vols., 1939–1940)
+Bloch's synthesis of the medieval European social order moved beyond legalistic definitions of feudalism. He analyzed the bonds of dependence, vassalage, fief-holding, and peasant servitude within the wider context of social structures, collective feelings, and material conditions across France, England, and Germany.
 
-### *Feudal Society* (La Société féodale, 1939–1940)
+### *The Historian's Craft* (*Apologie pour l'histoire ou métier d'historien*)
+Composed from 1941 to 1943, during the occupation and his Resistance activity, and left unfinished at his death, this book was edited and published posthumously by Lucien Febvre in 1949. Bloch described history as the science of human beings in time and argued that historical records do not speak passively on their own; rather, the historian must interrogate sources with targeted, critical questions.
 
-His largest reference work, in which he rejected **the traditional historians' focus on kings and wars**. Instead, he studied **feudalism and rural life** and the social and economic relations of ordinary people in medieval Europe, comparing France, England and Germany. He also wrote an important parallel work, *The Original Characters of French Rural History* (Les Caractères originaux de l'histoire rurale française, 1931), in which he used unwritten evidence, such as the patterns of field distribution and the shape of villages, to reconstruct the history of the French countryside. This was a methodological advance in using sources that go beyond the traditional written document.
+## Comparative Method, Wartime Resistance, and Legacy
 
-## Death and Legacy
+In his 1928 lecture "A Contribution to a Comparative History of European Societies," Bloch advocated comparative history (*histoire comparée*) as a tool to overcome parochial national frameworks. During the German occupation of France, Bloch joined the clandestine French Resistance (*Franc-Tireur*) in Lyon. Arrested by the Gestapo in March 1944 and subjected to torture, he was executed by firing squad alongside fellow resistance fighters at Saint-Didier-de-Formans on 16 June 1944.
 
-Bloch joined the French Resistance against the German occupation despite his advancing age. He was arrested by the Gestapo in 1944 and shot by firing squad near Lyon in June of that year, a few months before France was liberated. His death became a symbol of the historian's ethical commitment alongside his scientific rigor. He influenced a whole generation of historians, especially in France through the Annales School he founded with Lucien Febvre, directing them to focus on **the economy, society and culture** rather than on **politics and wars** alone. His influence extended to later Annales historians such as Fernand Braudel and Jacques Le Goff.
-
-## Comparative Method
-
-One of the most distinctive features of Bloch's method is his use of **comparative history** (histoire comparée) between different European societies. He stated this approach theoretically in his well-known lecture "For a Comparative History of European Societies" (1928). He called on historians to study similar phenomena across several national borders (such as feudalism in France, England and Germany) in order to draw general patterns and explain local differences, rather than remaining confined to the narrow national frameworks that dominated European historical writing in the nineteenth century.
-
-## Connection to the Arab-Islamic Heritage
-
-Bloch did not directly address the Arab-Islamic heritage in his available works, as his attention was focused on medieval Europe. However, his method of source criticism, his study of collective mentalities and his comparison between societies later influenced Arab historians and orientalists who studied the social and economic history of the medieval Islamic world with similar tools. His concept of "feudalism," and the question of how far it can be applied outside Europe, also provoked methodological debates among historians of Islamic societies about the suitability of European terms for describing systems of land ownership and administration in the medieval Islamic East, such as the military feudal system in Mamluk Egypt.
-
-## Criticism
-
-Some of Bloch's generalizations about European "feudalism" were later criticized by historians who saw them as simplifying the actual diversity of local systems. This criticism did not diminish his founding role in the Annales School or his profound influence in developing comparative social history as a field independent of traditional political and military history.
+Bloch's *Feudal Society* also prompted debate among historians of Islamic societies over the extent to which the European concept of feudalism could be compared to institutions such as the *iqta'* system under the Seljuk, Ayyubid, and Mamluk sultanates.
 
 ## Sources
 
-- Bloch, Marc. *The Historian's Craft*. Manchester University Press, 1954.
-- Bloch, Marc. *Feudal Society*. University of Chicago Press, 1961.
-- Bloch, Marc. *The Royal Touch: Sacred Monarchy and Scrofula in England and France*. Routledge, 1973 (trans. of *Les Rois thaumaturges*, 1924).
+- Bloch, Marc. *Feudal Society*. Translated by L. A. Manyon. 2 vols. University of Chicago Press, 1961.
+- Bloch, Marc. *French Rural History: An Essay on Its Basic Characteristics*. Translated by Janet Sondheimer. University of California Press, 1966.
+- Bloch, Marc. *The Historian's Craft*. Translated by Peter Putnam. Manchester University Press, 1954.
+- Bloch, Marc. *The Royal Touch: Sacred Monarchy and Scrofula in England and France*. Translated by J. E. Anderson. Routledge & Kegan Paul, 1973.
+- Fink, Carole. *Marc Bloch: A Life in History*. Cambridge University Press, 1989.

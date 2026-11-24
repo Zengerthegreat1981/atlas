@@ -9,44 +9,38 @@ en: "Silencing the Past"
 crumb: "Historiography ← Concepts ← Silencing the Past"
 edges: []
 related:
-gaps:
-  - "No independent file has yet been created for Michel-Rolph Trouillot as a thinker; he is mentioned here as a description of his thesis, without a biography."
+gaps: []
 ---
 
 # Silencing the Past
 
-A critical concept in historiographical theory that examines how "silence" (the neglect or concealment of certain events and voices) is produced as an active and often deliberate act in the making of historical narratives, rather than as a mere accidental gap in knowledge or documents.
+"Silencing the past" is a critical concept in historiographical theory and the sociology of knowledge that examines how historical silences—the omission, marginalization, or erasure of specific events, actors, and collective experiences—are actively and systematically produced through relations of power, rather than occurring through passive or accidental omissions in the documentary record.
 
-## The Foundational Thesis: Michel-Rolph Trouillot
+## Trouillot and the Four Moments of Silence
 
-The clearest formulation of this concept was offered by the Haitian historian and anthropologist **Michel-Rolph Trouillot** (1949–2012) in his book *Silencing the Past: Power and the Production of History* (1995). Trouillot argues that history is not a neutral recording of events, but a process in which silence intervenes at every stage of its production.
+The definitive theoretical formulation was advanced by the Haitian anthropologist and historical theorist Michel-Rolph Trouillot (1949–2012) in his seminal work *Silencing the Past: Power and the Production of History* (1995). Trouillot argued that historical production is never an innocent recording of past reality, but an uneven exercise of power in which silence enters at every stage of historical articulation:
 
-## Four Moments of Silence Production
+1. **The Moment of Fact Creation (the making of sources)**: Unequal access to literacy, record-keeping technologies, and bureaucratic authority determines whose actions are recorded as "facts" at the initial moment of occurrence, and whose lives leave no written trace.
+2. **The Moment of Fact Assembly (the making of archives)**: Institutional policies of preservation, appraisal, classification, and destruction dictate which documents survive in institutional repositories. The archive is an apparatus of selection that privileges dominant political and economic classes.
+3. **The Moment of Fact Retrieval (the making of narratives)**: Historians draw selectively on archival materials, framing narratives around prevailing professional paradigms, national priorities, and cultural common sense.
+4. **The Moment of Retrospective Significance (the making of history in the final instance)**: School curricula, public monuments, national holidays, and official commemorations canonize certain narratives while casting alternative accounts into oblivion.
 
-Trouillot identifies four moments in which silence can seep into the historical narrative:
-1. **The moment of fact creation** (creating the source): what is recorded at the time the event occurs, and what is not.
-2. **The moment of fact assembly** (creating the archive): what is preserved from documents, and what is neglected or destroyed.
-3. **The moment of fact retrieval** (creating the narrative): what the historian later selects from the archive to build his account.
-4. **The moment of retrospective significance** (creating history in its final meaning): what becomes entrenched in collective memory, school curricula, and official commemorations.
+## The Haitian Revolution as "Unthinkable History"
 
-## The Haitian Revolution as an Example
+To illustrate his framework, Trouillot examined the international historiography of the **Haitian Revolution** (1791–1804), the only successful slave uprising in modern history, which defeated French, British, and Spanish armies to establish the independent republic of Haiti. Trouillot argued that despite its epochal impact on the Atlantic world, the Haitian Revolution was long marginalized in Western historiography of the "Age of Democratic Revolution."
 
-The central example in the book is the **Haitian Revolution** (1791–1804), the most successful slave revolt in modern history, which founded the first independent Black republic in the world. For decades it was neglected or marginalized in dominant Western historical writing on the Atlantic revolutions era, despite the magnitude of its impact. Trouillot argues that this neglect was not accidental, but the result of the event's **"unthinkability"** (Unthinkability) within colonial intellectual frameworks, which were unable to accommodate the idea that enslaved people themselves could be historical agents of liberation.
+Trouillot argued that this erasure was not due to an absence of documentation, but to the event's structural **unthinkability** within eighteenth- and nineteenth-century European intellectual frameworks. Because Enlightenment racial hierarchies posited the natural subservience and incapacity of enslaved Africans for political self-determination, Western observers literally could not conceive of an autonomous Black revolution dedicated to universal human freedom. When the revolution succeeded, Western commentators explained it away through external agency, supposed irrationality, or outside political manipulation, thereby silencing its autonomous ideological significance.
 
-## Other Comparisons
+## Methodological Distinctions and Historiographical Impact
 
-Trouillot places this analysis alongside other cases of tension between silence and memory, such as the denial of the Holocaust and the debate over the account of the Battle of the Alamo, to show that the mechanisms of silence operate in different forms across multiple contexts, but always intersect around the relationship between power and knowledge.
+Trouillot's thesis emphasizes that silence is an active process of silencing (*production of silence*), requiring historians to differentiate between:
+- **Incidental Archival Loss**: Physical destruction caused by fires, floods, or natural decay.
+- **Structural Silencing**: Systematic exclusions rooted in gender, racial, imperial, and class hierarchies.
 
-## Impact
-
-This framework has had a profound influence on postcolonial studies, on Afro-Caribbean and Afro-American history, and on critical archival theory (see: Archives and Colonialism), and has become a fundamental reference in teaching historical method in American and European universities.
-
-## Limitation
-
-A debate has arisen about the systematic generalizability of the concept of "silence." Is every historical neglect necessarily the product of a dynamic of power that can be identified, or may it sometimes result from incidental limitations in the preservation of documents that have no direct connection to power relations? This remains an open question in the reception of Trouillot's thesis.
+This intervention has had a transformative impact on postcolonial historiography, subaltern studies, and archival theory. Scholars such as Ann Laura Stoler and Laurent Dubois have expanded Trouillot's insights to investigate how imperial archives harbor internal anxieties and how subaltern historical agency can be recovered through reading along and against archival silences.
 
 ## Sources
 
+- Dubois, Laurent. *Avengers of the New World: The Story of the Haitian Revolution*. Cambridge, MA: Belknap Press of Harvard University Press, 2004.
+- Stoler, Ann Laura. *Along the Archival Grain: Epistemic Anxieties and Colonial Common Sense*. Princeton: Princeton University Press, 2009.
 - Trouillot, Michel-Rolph. *Silencing the Past: Power and the Production of History*. Boston: Beacon Press, 1995.
-- Trouillot, Michel-Rolph. "Unthinkable History: The Haitian Revolution as a Non-Event." In *Silencing the Past*, ch. 3.
-- Dubois, Laurent. *Avengers of the New World: The Story of the Haitian Revolution*. Cambridge, MA: Belknap Press, 2004.

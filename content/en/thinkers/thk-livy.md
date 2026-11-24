@@ -9,41 +9,51 @@ en: "Titus Livius (Livy)"
 dates: "Padua, Italy · c. 59 BC – AD 17"
 birth_year: -59
 death_year: 17
+active_start: -29
+active_end: 17
 crumb: "Historiography ← Thinkers ← Titus Livius (Livy)"
 country: "Rome"
 edges:
-- rel: "belongs_to", target: "Ancient Biographical Historiography", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Ancient Biographical Historiography", target_type: "مدرسة"
 related:
-- id: "wrk-history-peloponnesian-war-thucydides", title: "The History of the Peloponnesian War (Thucydides)", type: "عمل"
-gaps:
-  - "Livy's date of birth is not known with absolute precision (59 BC is the most widely accepted date, with scholars differing by a year or two)."
+  - id: "wrk-history-peloponnesian-war-thucydides", title: "The History of the Peloponnesian War (Thucydides)", type: "عمل"
+gaps: []
 ---
 
 # Titus Livius (Livy)
 
-**Titus Livius** (Livy, c. 59 BC – AD 17) was a Roman historian from the city of **Padua** (Patavium) in northern Italy, and one of the greatest historians of ancient Rome. He is known for his encyclopaedic project ***From the Founding of the City*** (*Ab Urbe Condita*), which covered the whole history of Rome from the foundation myths (753 BC) to the age of Augustus, Livy's own age.
+Titus Livius, known in English as Livy (traditionally c. 59 BC – AD 17, though some modern historians argue for c. 64 BC – AD 12), was a Roman historian born in Patavium (modern Padua) in northern Italy. He was the author of the most extensive surviving narrative history of Republican Rome, *Ab Urbe Condita Libri* (*Books from the Foundation of the City*), composed over several decades during the reign of Augustus.
 
-## Main Contribution
+## Structure and Transmission of the Work
 
-Livy wrote his vast work in **142 books**, of which only **35 books** have survived complete (covering the early and middle periods). The remaining books are known only from later summaries (*Periochae*). Livy lived during the reign of **Augustus Caesar** and enjoyed a friendly relationship with him, despite his literary sympathy for the values of the old republic. He later encouraged the young **Claudius**, the future emperor, to study history and to write in it.
+Livy undertook an encyclopedic narrative tracing Rome's history from its legendary founding by Romulus (traditionally dated to 753 BC) down to the death of Drusus in 9 BC. The monumental project comprised **142 books**, likely arranged in thematic pentads and decades (groups of five and ten books). 
 
-## Method and Characteristics
+Only **35 books** survive intact:
+- **Books 1–5**: From Rome's mythical origins and the regal period through the early Republic to the Gallic sack of Rome (c. 390 BC).
+- **Books 6–10**: The Samnite Wars and Roman subjugation of central Italy down to 293 BC.
+- **Books 21–45**: The Second Punic War against Hannibal (Books 21–30) and the Macedonian and Syrian wars that established Roman dominance over the Hellenistic Mediterranean down to 167 BC (Books 31–45).
 
-- **A moral rather than purely political approach**: Unlike political historians such as Polybius, Livy approached Roman history from the perspective of **virtue and moral decline**. He held that Rome's ancient greatness resulted from the virtues of its ancestors (courage, piety and discipline), and that the crises of his own age (the civil wars) resulted from the decline of those virtues.
-- **Attributed speeches**: Like other ancient historians, Livy included rhetorical speeches attributed to historical figures. These were not verbatim documented texts but literary reconstructions of what "ought to have been said" in those situations, a common literary-historical technique among ancient historians (Thucydides before him, for example).
-- **Limited rigorous source criticism**: Compared with the standards of modern source criticism (such as Ranke's method later), Livy is regarded as less rigorous in scrutinising his sources, especially for the mythical early periods of Roman history. He is closer to **historical literature** with a moral and national purpose than to precise documentary research.
+The content of the lost 107 books is known primarily through ancient chapter summaries known as the *Periochae*, as well as excerpts and citations preserved by later authors such as Florus and Orosius.
 
-## Impact
+## Method, Rhetoric, and Exemplary History
 
-Livy's work has been the basic reference for the history of ancient Rome down to our own time. His style and moral philosophy of history influenced European historical writing until the eighteenth century, when he was regarded as a model of high Latin prose and of history as a moral teacher of generations (*historia magistra vitae*).
+Livy's approach was fundamentally literary, rhetorical, and didactic rather than archival or documentary:
+- **Exemplary and Moral Didacticism**: In the famous *Praefatio* (preface), Livy articulated his core historiographical purpose: history serves as a moral mirror. By recording clear models of ancestral virtue (*exempla* such as the self-sacrifice of Lucretia, the civic humility of Cincinnatus, or the discipline of Manlius Torquatus) and contrasting them with moral decay, history teaches the citizen and statesman what to emulate and what to shun.
+- **Attributed Speeches and Characterization**: In accordance with classical rhetorical conventions, Livy composed elaborate speeches for his historical actors. Rather than verbatim transcripts, these speeches were polished literary dramatizations designed to convey political deliberation, character psychology, and the clash of civic values.
+- **Synthesizing Earlier Annalists**: Livy worked primarily in his study, synthesizing the accounts of earlier Roman annalists—including Fabius Pictor, Calpurnius Piso, Claudius Quadrigarius, and Valerius Antias—alongside the Greek historian Polybius for Mediterranean diplomacy. While Livy occasionally noted discrepancies among his sources, he rarely engaged in systematic epigraphic or archival investigation, prioritizing moral and patriotic coherence.
 
-## Limitation
+## Political Context and Republican Sympathies
 
-The loss of more than two-thirds of the original work (107 of the 142 books) severely limits our ability to assess his full method across the later and contemporary periods of Roman history. It means that judgement of him rests mainly on the surviving books concerning the earlier and mythical periods.
+Livy composed his work during the Augustan Principate. The emperor Augustus enjoyed a cordial relationship with the historian, reportedly calling him a "Pompeian" (as Tacitus recorded in *Annals* 4.34) because of Livy's open admiration for Pompey and the institutions of the Roman Republic. Despite these republican sentiments, Livy's moral emphasis on ancestral piety (*pietas*), duty, and religious restoration closely aligned with the ideological and cultural revival promoted by Augustus.
+
+## Historiographical Legacy
+
+Livy's prose style—celebrated by Quintilian for its rich "milky abundance" (*lactea ubertas*)—made him one of the most admired prose historians of ancient Rome. During the Renaissance, his work inspired early modern republican thought, most famously through Niccolò Machiavelli's foundational political treatise, *Discorsi sopra la prima deca di Tito Livio* (*Discourses on the First Decade of Titus Livy*, 1531).
 
 ## Sources
 
-- Livy, *Ab Urbe Condita* (*History of Rome*), trans. B.O. Foster et al., Loeb Classical Library.
-- "Livy," *Encyclopaedia Britannica* (rev. ed.).
-- Ronald Syme, "Livy and Augustus," *Harvard Studies in Classical Philology* 64 (1959): 27–87.
-- Andrew Feldherr, ed., *The Cambridge Companion to the Roman Historians* (Cambridge University Press, 2009).
+- Chaplin, Jane D. *Livy's Exemplary History*. Oxford University Press, 2000.
+- Feldherr, Andrew. *Spectacle and Society in Livy's History*. University of California Press, 1998.
+- Livy. *History of Rome* (*Ab Urbe Condita*). Translated by B. O. Foster et al. Loeb Classical Library. 14 vols. Harvard University Press, 1919–1959.
+- Luce, T. J. *Livy: The Composition of His History*. Princeton University Press, 1977.
+- Syme, Ronald. "Livy and Augustus." *Harvard Studies in Classical Philology* 64 (1959): 27–87.

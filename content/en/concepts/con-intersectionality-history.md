@@ -38,7 +38,8 @@ This method has allowed historians to explain fine-grained inequalities that are
 
 ## Sources
 
-- Kimberlé Crenshaw, "Demarginalizing the Intersection of Race and Sex," *University of Chicago Legal Forum* 1989:1 (1989).
-- Kimberlé Crenshaw, "Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color," *Stanford Law Review* 43:6 (1991).
-- Patricia Hill Collins & Sirma Bilge, *Intersectionality* (Polity Press, 2016).
-- Evelyn Brooks Higginbotham, "African-American Women's History and the Metalanguage of Race," *Signs* 17:2 (1992).
+- Collins, Patricia Hill, and Sirma Bilge. *Intersectionality*. Cambridge: Polity Press, 2016.
+- Crenshaw, Kimberlé. "Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics." *University of Chicago Legal Forum* 1989, no. 1 (1989): 139–167.
+- Crenshaw, Kimberlé. "Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color." *Stanford Law Review* 43, no. 6 (1991): 1241–1299.
+- Davis, Angela Y. *Women, Race, & Class*. New York: Random House, 1981.
+- Higginbotham, Evelyn Brooks. "African-American Women's History and the Metalanguage of Race." *Signs: Journal of Women in Culture and Society* 17, no. 2 (1992): 251–274.

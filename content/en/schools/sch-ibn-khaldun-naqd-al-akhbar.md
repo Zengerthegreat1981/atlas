@@ -19,37 +19,37 @@ related:
 - id: "wrk-al-muqaddimah-ibn-khaldun", title: "The Muqaddimah: Ibn Khaldun's Introduction to the Science of Human Civilisation", type: "عمل / كتاب"
 - id: "con-asabiyyah-ibn-khaldun", title: "Asabiyyah in Ibn Khaldun", type: "مفهوم"
 - id: "sch-isnad-jarh-wa-tadil", title: "The Method of Isnad and Jarh wa-Ta'dil as Historical Criticism", type: "مدرسة"
-gaps:
-  - "This is a foundational school entry for the History and Historiography section (not a `belongs_to`; the beginning of the Arabic tradition tree)."
-  - "**Intended distinction, 2026-09-14:** this file documents Ibn Khaldun's method of criticising the **content (matn) of the historical report** — not its chain of transmission — by the criterion of civilisational impossibility. By contrast, `sch-khaldunian-ilm-al-umran`, tagged `sociology`, documents his founding of an independent social science. The two entries intersect in the person and the source (the Muqaddimah) but address two different angles: the measure of the truthfulness of a historical report here, and the founding of a social science there. The link between them through `related` is intended to prevent the reader from taking them as one and the same duplicated entry."
-  - "**Analytical note:** the description of Ibn Khaldun as 'the first to subject the historical report to an independent methodological criterion of content, separate from the chain' recurs among many modern scholars (Rosenthal, Mahdi), but it is not a consensus; earlier Arab historians (such as al-Mas'udi) practised partial rational criticism without explicitly theorising a criterion. This detail is left unresolved here."
-  - "No separate concept file has yet been created for the 'law of conformity' or 'civilisational impossibility'; it is explained within this file until the concept set for the section is written."
+gaps: []
 ---
 
 # Ibn Khaldun's Method of Historical Report Criticism (The Principle of Social Conformity)
 
-A critical method formulated by ʿAbd al-Rahman ibn Khaldun in the introduction to his book *Kitab al-ʿIbar* (1377 CE) to distinguish true historical reports from false ones. It does so not merely by examining the chain of narrators, but by presenting the **content (matn)** of the report itself to "the conditions of human society" and the laws of civilisation (*ʿumran*).
+A methodological framework formulated by ʿAbd al-Rahman ibn Khaldun (732–808 AH / 1332–1406 CE) in the *Muqaddimah* (Introduction) to his universal history, *Kitab al-ʿIbar* (completed in 779 AH / 1377 CE at Qalʿat Ibn Salama). Ibn Khaldun proposed that establishing the veracity of historical reports (*akhbar*) requires subjecting the **narrative content (*matn*)** directly to the intrinsic laws governing human association and civilization (*ʿumran*), rather than relying solely on the formal evaluation of the chain of transmission (*isnad*).
 
-## The Problem
+## The Epistemological Problem
 
-Ibn Khaldun opens the introduction with a scathing critique of the practice of historians before him: many of them "imitated those who came before them" and transmitted reports "tainted with unsoundness", because they limited themselves to judging the narrator (his probity and precision) without examining the report itself. The most famous example is the accounts of the vast number of the Children of Israel who left Egypt (some 600,000 fighters) — a figure that it is impossible for a region such as Egypt or Syria to sustain in terms of resources, armies and administration, however sound the chain of its transmitters.
+In the opening chapters of the *Muqaddimah*, Ibn Khaldun delivers a comprehensive critique of preceding Islamic and world historiography. He argues that chroniclers often accepted implausible, exaggerated, or fabricated narratives because they relied uncritically on tradition (*taqlid*) and confined their scrutiny to the personal probity and reliability of narrators (*taʿdil al-ruwah*). While biographical evaluation (*jarh wa-taʿdil*) had proven effective for authenticating legal and religious hadith, Ibn Khaldun argued that it was insufficient for historical writing: a narrator might be morally upright and intellectually competent, yet transmit an absurd or impossible account because they did not understand the structural constraints of the society described.
 
-## The Method
+As an illustrative example, Ibn Khaldun analyzes the biblical and historical traditions claiming that Moses mobilized an army of 600,000 fighters in the Sinai Peninsula. Presenting this figure to demographic, logistical, and geographical realities, he argues that the territory and resources of the region could not have sustained such numbers, and concludes that the figure is implausible regardless of the putative integrity of its transmitters.
 
-- **A criterion for the content, not only for the chain**: The report is presented to the "nature of civilisation" — is it reasonable that what the report describes could have happened, given what human society requires in terms of resources, numbers and organisation? If it is impossible, the report is rejected even if its chain is sound.
-- **The two principles by which he measures**: (1) the natures of human civilisation itself (what land and resources can sustain in terms of population density and armies), and (2) the differences in conditions between nomadism and urban civilisation, and between eras and regions — so a report about an ancient nation is not measured by the conditions of a present-day nation.
-- **The epistemic purpose**: "And who can examine and expose these reports as false except through knowledge of the natures of civilisation?" That is, critique of history requires knowledge of the conditions of human society. This very requirement is what led him to found the science of civilisation as a tool serving the craft of history, before it became in his hands a discipline in its own right.
+## The Method: The Law of Conformity (*Qanun al-Mutabaqah*)
 
-## Its Relation to the Criticism of the Chain of Transmission
+Ibn Khaldun's critical method can be summarized, in modern scholarly reconstructions, in three interconnected principles (the Arabic labels are modern glosses):
+- **Intrinsic Possibility and Impossibility (*al-Imkan wa-al-Istihalah al-Dhatiyyah*)**: Before investigating whether a reported event occurred, the historian must determine whether it is ontologically and sociologically possible within the structural nature of human civilization (*taba'i' al-ʿumran*). If an account describes conditions contrary to physical laws or civilizational logic, it must be dismissed a priori.
+- **The Law of Conformity (*Qanun al-Mutabaqah*)**: Historical truth consists in the correspondence between the narrative report (*al-khabar*) and the actual external reality of human civilization (*al-waqiʿ al-khariji*). The science of civilization (*ʿilm al-ʿumran*) was conceived precisely to supply historians with the normative principles needed to judge this conformity.
+- **Historical Change and Relativism**: Conditions, customs, and institutions change across eras and regions. A report cannot be evaluated by retrojecting the conditions of the historian's own time onto an ancient or foreign civilization.
 
-This method does not abolish the criticism of the chain (*al-jarh wa-al-ta'dil*) developed by hadith scholars centuries earlier. Instead, it adds a second layer to it: the criticism of the chain examines **who transmitted**, while Ibn Khaldun's civilisational criticism examines **what was transmitted** by a rational and social criterion. See `sch-isnad-jarh-wa-tadil` for the first method.
+## Precedents and Disciplinary Autonomy
 
-## Impact and Assessment
+While earlier Muslim scholars—including al-Jahiz (d. 255 AH / 868 CE), al-Masʿudi (d. 345 AH / 956 CE), and various Muʿtazilite theologians—had applied rationalist skepticism to specific historical anecdotes, Ibn Khaldun formalized this inquiry into an autonomous theoretical science (*ʿilm mustaqill bi-nafsihi*). He differentiated his approach from jurisprudence (*fiqh*) and theology (*kalam*), elevating history from an auxiliary craft of report compilation into a rigorous philosophical discipline examining social causality.
 
-This method has been regarded as an anticipation in the philosophy of the social sciences by several orientalists (Rosenthal, whose English translation of the Muqaddimah appeared in 1958), and it has sometimes been described as closer to the method of scientific verification than to the traditional craft of historians in his time. However, its application remained individual and did not develop into an organised methodological school taught by successive disciples.
+## Methodological Legacy and Assessment
+
+Ibn Khaldun's formulation anticipated modern historical sociology, internal source criticism, and the philosophy of history, as recognized in foundational studies by Franz Rosenthal and Muhsin Mahdi. However, in his own era and the subsequent Ottoman period, his critical methodology remained an exceptional theoretical breakthrough that was admiringly commented upon rather than institutionalized as a distinct pedagogical school of historical practice.
 
 ## Sources
 
-- Ibn Khaldun. *The Muqaddimah: An Introduction to History*. Translated by Franz Rosenthal. Princeton University Press, 1958 (rev. ed. 1967).
-- Mahdi, Muhsin. *Ibn Khaldûn's Philosophy of History: A Study in the Philosophic Foundation of the Science of Culture*. University of Chicago Press, 1964.
-- Fischel, Walter J. "Ibn Khaldūn: On the Bible, Judaism, and the Jews." In *Ignace Goldziher Memorial Volume*, 1958 (discusses his application of report criticism to the story of the Children of Israel).
+- Ibn Khaldun. *The Muqaddimah: An Introduction to History*. Translated by Franz Rosenthal, 3 vols. Pantheon Books, 1958 (Bollingen Series XLIII); 2nd ed., Princeton University Press, 1967.
+- Mahdi, Muhsin. *Ibn Khaldûn's Philosophy of History: A Study in the Philosophic Foundation of the Science of Culture*. George Allen & Unwin, 1957; repr. University of Chicago Press, 1964.
+- Cheddadi, Abdesselam. *Ibn Khaldûn: L'homme et le théoricien de la civilisation*. Gallimard, 2006.
+- Fischel, Walter J. *Ibn Khaldūn in Egypt (1382–1406): His Public and Scholarly Activities*. University of California Press, 1967.

@@ -19,18 +19,11 @@ gaps: []
 
 ## The Historical Origin of the Concept
 
-The early roots of the concept of ijma can be traced to roughly the second century AH, more than a century after the death of the Prophet Muhammad. Its consolidation as the third recognised legislative source, however, took place in the age of the Imam **al-Shafi'i** (the eighth and ninth centuries CE), after an extended debate among jurists about its nature and authority.
-
-## Three Approaches to the Study of the History of Ijma
-
-Contemporary scholars identify three competing approaches to the history of the emergence of the concept of ijma:
-- **The source-critical approach**: it questions the classical juristic narrative that particular Qur'anic verses or prophetic traditions directly founded ijma. It holds that the concept arose gradually in response to the social needs of the Muslim community, rather than as a principle explicitly stated from the outset.
-- **The phenomenological approach**: it studies how ijma was actually treated in historical legal practice, regardless of its theoretical origin.
-- **The hermeneutic-theological approach**: it traces how the jurists themselves developed a coherent theological justification for the concept over the centuries.
+The early roots of the concept of ijma can be traced to roughly the second century AH, more than a century after the death of the Prophet Muhammad. Its theoretical consolidation as the third recognised legislative source, however, took place primarily through the work of Imam Muhammad ibn Idris al-Shafi'i (150–204 AH / 767–820 CE), especially in his foundational legal treatise *al-Risala*, following extensive debates among early regional legal circles about the nature and authority of communal practice and scholarly agreement.
 
 ## Ijma as "the Authority of the Past" and as an Instrument of Tolerance
 
-One of the most important characteristics of ijma in Islamic history is that it never refers to a contemporary agreement, but always to **past consensuses**, near or distant, that were established and settled over time. It is thus part of the "traditional authority" in the sense that distinguishes the Islamic tradition. The concept played an important conciliatory function historically: by acknowledging the existence of multiple, simultaneous consensuses within different legal schools (Hanafi, Maliki, Shafi'i, Hanbali), it allowed mutual recognition of the legitimacy of these four schools despite their differences. It also facilitated the incorporation of local, non-Arab practices that entered Islam through new converts.
+One of the most important characteristics of ijma in Islamic history is that it typically refers not to a contemporary agreement, but to **past consensuses**, near or distant, that were established and settled over time. It is thus part of the "traditional authority" in the sense that distinguishes the Islamic tradition. The concept played an important conciliatory function historically: by acknowledging the existence of multiple, simultaneous consensuses within different legal schools (Hanafi, Maliki, Shafi'i, Hanbali), it allowed mutual recognition of the legitimacy of these four schools despite their differences. It also facilitated the incorporation of local, non-Arab practices that entered Islam through new converts.
 
 ## Its Impact on the Writing of Islamic History
 
@@ -42,6 +35,7 @@ Contemporary researchers continue to disagree about how far it is possible to di
 
 ## Sources
 
-- Hallaq, Wael B. "On the Authoritativeness of Sunni Consensus." *International Journal of Middle East Studies* 18(4), 1986.
-- Zysow, Aron. "Ijma." *Oxford Handbook of Islamic Law*, 2018.
-- Masud, Muhammad Khalid, et al. "Scholarly Consensus: Ijma' between Use and Misuse." *Journal of Islamic Law and Culture* 12(2), 2010.
+- al-Shafi'i, Muhammad ibn Idris. *al-Risala*. Edited by Ahmad Muhammad Shakir. Cairo: Mustafa al-Babi al-Halabi, 1940. Translated by Majid Khadduri as *Treatise on the Foundations of Islamic Jurisprudence*. Baltimore: Johns Hopkins Press, 1961.
+- Hallaq, Wael B. "On the Authoritativeness of Sunni Consensus." *International Journal of Middle East Studies* 18, no. 4 (1986): 427–454.
+- Hourani, George F. "The Basis of Authority of Consensus in Sunnite Islam." *Studia Islamica*, no. 21 (1964): 13–60.
+- Zysow, Aron. *The Economy of Certainty: An Introduction to the Typology of Islamic Legal Theory*. Atlanta: Lockwood Press, 2013.

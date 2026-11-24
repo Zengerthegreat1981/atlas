@@ -14,8 +14,7 @@ edges:
 related:
   - id: "sch-memory-history-nora-halbwachs", title: "History of Memory: Collective Memory and Lieux de Mémoire (Halbwachs, Nora)", type: "مدرسة"
   - id: "thk-pierre-nora", title: "Pierre Nora", type: "مفكر"
-gaps:
-  - "**Standalone entry, 2026-09-22:** the concept was discussed in the text of `sch-memory-history-nora-halbwachs` and `thk-pierre-nora`; this file treats it as a standalone concept."
+gaps: []
 ---
 
 # Lieu de Mémoire (Nora)
@@ -24,7 +23,7 @@ A central concept coined by the French historian Pierre Nora in his encyclopedic
 
 ## The Concept
 
-A "lieu de mémoire" (site of memory) is any material, symbolic or functional entity (a war memorial, a national flag, an anthem, a school history textbook, a museum, an annual celebration, even a word in a dictionary such as "the Republic") in which a collective memory crystallizes after its direct living connection with the past has been broken. Nora opens his project with a sharp thesis that became the most cited in the field of memory studies: "We talk so much about memory because there is so little of it left." In other words, the proliferation of deliberately erected sites of memory is precisely the symptom of the disappearance of spontaneous, living memory. This living memory, which Maurice Halbwachs (Nora's indirect intellectual mentor) called "social frameworks of memory" in *The Social Frameworks of Memory* (1925), was carried by traditional societies without any need to anchor it in objects.
+A "lieu de mémoire" (site of memory) is any material, symbolic or functional entity (a war memorial, a national flag, an anthem, a school history textbook, a museum, an annual celebration, even a word in a dictionary such as "the Republic") in which a collective memory crystallizes after its direct living connection with the past has been broken. Nora opens his project with a sharp thesis that became the most cited in the field of memory studies: that we speak so much of memory because so little of it is left. In other words, the proliferation of deliberately erected sites of memory is precisely the symptom of the disappearance of spontaneous, living memory. This living memory, which Maurice Halbwachs (an intellectual precursor of Nora) called "social frameworks of memory" in *The Social Frameworks of Memory* (1925), was carried by traditional societies without any need to anchor it in objects.
 
 ## The Decisive Distinction: Memory versus History
 
@@ -36,10 +35,12 @@ The site of memory works in two simultaneous directions. It revives a collective
 
 ## Methodological Importance and Critical Reception
 
-This concept turns "memory" itself into an object of systematic historical analysis, not merely an additional source of facts as in oral history. It is later linked to research on intergenerational memory and collective trauma. The project was criticized by historians such as Jay Wood for being confined to French national memory specifically (French monuments and symbols), while seeking outwardly to formulate a general theory. This led later researchers to test the concept outside the French context, in Arab, German and Asian history, with results of varying success.
+This concept turns "memory" itself into an object of systematic historical analysis, not merely an additional source of facts as in oral history. It is later linked to research on intergenerational memory and collective trauma. The project was criticized by some historians for being confined to French national memory specifically (French monuments and state symbols) while seeking outwardly to formulate a general theory, and for underestimating the agency of grassroots grieving communities in favor of state-curated remembrance. This led later researchers to test the concept outside the French context, in European, Middle Eastern, and Asian historiographies, with results of varying success.
 
 ## Sources
 
-- Nora, Pierre, ed. *Realms of Memory: Rethinking the French Past*. Translated by Arthur Goldhammer, 3 vols., Columbia University Press, 1996–1998.
-- Nora, Pierre. "Between Memory and History: Les Lieux de Mémoire." *Representations*, no. 26, 1989, pp. 7–24.
-- Halbwachs, Maurice. *On Collective Memory*. Translated by Lewis A. Coser, University of Chicago Press, 1992 (French original 1925).
+- Halbwachs, Maurice. *On Collective Memory*. Translated and edited by Lewis A. Coser. Chicago: University of Chicago Press, 1992.
+- Nora, Pierre. "Between Memory and History: Les Lieux de Mémoire." *Representations*, no. 26 (1989): 7–24.
+- Nora, Pierre, ed. *Realms of Memory: Rethinking the French Past*. Translated by Arthur Goldhammer. 3 vols. New York: Columbia University Press, 1996–1998.
+- Winter, Jay. *Sites of Memory, Sites of Mourning: The Great War in European Cultural History*. Cambridge: Cambridge University Press, 1995.
+- Winter, Jay, and Emmanuel Sivan, eds. *War and Remembrance in the Twentieth Century*. Cambridge: Cambridge University Press, 1999.

@@ -25,7 +25,7 @@ Traditions of source criticism have developed a set of closely related criteria 
 
 ## The Islamic Model of *al-Jarh wa-al-Ta'dil*
 
-From the second century AH onwards, Muslim hadith scholars developed a highly specialised system for assessing the credibility of the transmitters themselves rather than only the text, known as **the science of *al-jarh wa-al-ta'dil*** (criticism and validation of transmitters). The biography of each transmitter in the chain of transmission (*isnad*) is examined: is he truthful and retentive in his memory, or is he known for concealment (*tadlis*), forgetfulness, or even deliberate lying? The ranks of transmitters (trustworthy, truthful, weak, abandoned) are classified in specialised reference works such as al-Mizzi's *Tahdhib al-Kamal*, so that the credibility of the text becomes a mathematical function of the credibility of each link in its chain of transmission. This methodology was unique worldwide in its early precision, compared with the absence of any parallel system of comparable organisation in the Greek or Roman historiography of the same period.
+From the second century AH onwards, Muslim hadith scholars developed a highly specialised system for assessing the credibility of the transmitters themselves rather than only the text, known as **the science of *al-jarh wa-al-ta'dil*** (criticism and validation of transmitters). The biography of each transmitter in the chain of transmission (*isnad*) is examined: is he truthful and retentive in his memory, or is he known for concealment (*tadlis*), forgetfulness, or even deliberate lying? The ranks of transmitters (trustworthy, truthful, weak, abandoned) are classified in specialised biographical reference works such as the *Kitab al-Jarh wa'l-Ta'dil* by Ibn Abi Hatim al-Razi (240–327 AH / 854–938 CE) and al-Mizzi's (654–742 AH / 1256–1341 CE) *Tahdhib al-Kamal*, so that the credibility of the report is assessed through the documented reliability of each link in its chain of transmission. This methodology was notable in its systematic biographical apparatus, which had no closely parallel institutionalized system in classical Greco-Roman historiography.
 
 ## Credibility Is Not an Absolute Attribute but Context-Relative
 
@@ -37,5 +37,8 @@ Since the late twentieth century, postmodern historians (influenced by **Hayden 
 
 ## Sources
 
-- Ibn al-Salah. *Muqaddimat Ibn al-Salah fi 'Ulum al-Hadith*. Translated as *An Introduction to the Science of the Hadith*, Garnet Publishing, 2006.
-- Howell, Martha, and Walter Prevenier. *From Reliable Sources: An Introduction to Historical Methods*. Cornell University Press, 2001.
+- Howell, Martha, and Walter Prevenier. *From Reliable Sources: An Introduction to Historical Methods*. Ithaca: Cornell University Press, 2001.
+- Ibn Abi Hatim al-Razi, 'Abd al-Rahman. *Kitab al-Jarh wa'l-Ta'dil*. 9 vols. Hyderabad: Da'irat al-Ma'arif al-'Uthmaniyya, 1952–1953.
+- Ibn al-Salah, 'Uthman ibn 'Abd al-Rahman. *Muqaddimat Ibn al-Salah fi 'Ulum al-Hadith*. Translated by Eerik Dickinson as *An Introduction to the Science of the Hadith*. Reading: Garnet Publishing, 2006.
+- al-Mizzi, Yusuf ibn 'Abd al-Rahman. *Tahdhib al-Kamal fi Asma' al-Rijal*. Edited by Bashshar 'Awwad Ma'ruf. 35 vols. Beirut: Mu'assasat al-Risala, 1980–1992.
+- White, Hayden. *Metahistory: The Historical Imagination in Nineteenth-Century Europe*. Baltimore: Johns Hopkins University Press, 1973.

@@ -8,8 +8,8 @@ title: "Barbara Rosenwein"
 en: "Barbara Rosenwein"
 dates: "1943-"
 crumb: "Historiography ← Thinkers ← Barbara Rosenwein"
-active_start: null
-active_end: null
+active_start: 1982
+active_end: "مستمر"
 cultural_origin: null
 edges: []
 related: []
@@ -18,47 +18,61 @@ gaps: []
 
 # Barbara Rosenwein
 
-## Definition
+Barbara H. Rosenwein is an American medievalist and professor emerita of history at Loyola University Chicago whose theoretical and empirical scholarship helped establish the history of emotions as a recognized subdiscipline. By introducing the influential concept of "emotional communities" and dismantling evolutionary models of emotional development, her work transformed human affect into a dynamic, culturally situated historical subject.
 
-Barbara Rosenwein (born 1943) is an American historian specialising in medieval Europe, professor emerita at Loyola University Chicago, and one of the principal founders of the field of the **history of emotions**. This field transformed human emotions from a fixed psychological background into a changing historical subject deserving systematic, independent study.
+## Definition and Historical Significance
 
-## Historical Context
+Barbara H. Rosenwein (born 1943) began her academic career as a social and religious historian of early medieval Europe before developing new methodologies for analyzing historical affect. In her influential article "Worrying About Emotions in History" (*American Historical Review*, 2002) and her foundational monograph *Emotional Communities in the Early Middle Ages* (2006), she provided historians with an empirical framework to examine emotional expression across time.
 
-Rosenwein began her academic career studying the social and religious history of early medieval Europe, especially the history of monasteries and social relations within monastic society. In the 1990s she gradually turned to the study of emotions, after observing that earlier historians, above all Johan Huizinga in his influential book *The Autumn of the Middle Ages* (1919), had habitually described medieval people as "emotional children" living violent and unrestrained emotions compared with modern self-control. Rosenwein regarded this approach as an undocumented evolutionary projection that assumes a cumulative emotional civilising process from "primitiveness" to "modernity".
+Prior to Rosenwein's interventions, historical scholarship often treated emotions either as timeless biological constants or as the uncontrolled impulses of "primitive" societies that were only gradually tamed by modern civilization. Rosenwein challenged this teleology, arguing that emotions are socially regulated, cognitively structured, and bound to specific cultural norms within distinct social groups.
 
-## Main Ideas and Method
+## Historical Context and Early Medieval Scholarship
 
-In her seminal article "Worrying About Emotions in History" (2002) and her book *Emotions in History: Lost and Found* (2006), Rosenwein developed the concept of **"emotional communities"**: small communities (a monastery, a royal court, a craft neighbourhood) that share common norms about which emotions are valued or condemned and how they may be expressed. In this way the study moves from attempting to recover an inaccessible "inner feeling" to studying the visible cultural rules that governed emotional expression and its social interpretation within a specific context. This methodological shift made the history of emotions amenable to documented empirical research, rather than leaving it as a psychological guess about people who died centuries ago.
+Rosenwein's early scholarship focused on the social, economic, and spiritual networks of medieval monasticism, particularly the Abbey of Cluny in Burgundy. In works such as *Rhinoceros Bound: Cluny in the Tenth Century* (1982) and *To Be the Neighbor of Saint Peter: The Social Meaning of Cluny's Property, 909–1049* (1989), she analyzed monastic charters, property donations, and gift exchange to understand how religious institutions forged social bonds and resolved disputes.
+
+This rigorous engagement with monastic Latin documentation alerted Rosenwein to the sophisticated ways medieval texts deployed emotional vocabulary. Monks, bishops, and lay nobles expressed anger, grief, fraternal love, and spiritual joy according to precise, learned conventions rather than spontaneous, unreflective impulse. This discovery led her in the late 1990s to interrogate why earlier twentieth-century historians had consistently mischaracterized medieval people as emotionally volatile and childlike.
+
+## Core Theoretical Contributions: Critique of Elias and the "Civilizing Process"
+
+Rosenwein directed her critique primarily against two influential paradigms:
+1. **Johan Huizinga's *The Autumn of the Middle Ages* (1919)**: which depicted late medieval society as oscillating wildly between violent emotional extremes and morbid despair due to an alleged lack of emotional maturity.
+2. **Norbert Elias's *The Civilizing Process* (*Über den Prozeß der Zivilisation*, 1939)**: which posited a grand, linear teleology wherein European history progressed from medieval bodily license and unbridled violent passion toward increasing affective self-restraint and behavioral control in early modern court society.
+
+Rosenwein exposed the problematic assumptions of this "hydraulic model" of emotions, which treated passions as internal liquids that build up pressure and burst out unless repressed by external civilizing mechanisms. Drawing on early medieval Merovingian and Carolingian sources, Rosenwein argued that rigorous emotional regulation, self-control, and calculated public displays of affect existed centuries before the early modern court, thereby challenging Elias's evolutionary narrative.
+
+## The Concept of "Emotional Communities"
+
+To replace evolutionary models, Rosenwein formulated the concept of **"emotional communities."** She defined an emotional community as any social group—such as a monastery, a royal court, a municipal guild, a literary salon, or an extended household—that shares common systems of feeling:
+- Common valuations of specific emotions (which emotions are fostered, praised, tolerated, or condemned);
+- Shared vocabularies and gestures for expressing feeling;
+- Collective expectations regarding the appropriateness of affective responses to specific events.
+
+Crucially, Rosenwein emphasized that societies are rarely monolithic. Rather, individuals move through multiple, overlapping emotional communities simultaneously (such as a church congregation, a military retinue, and a family circle), shifting affective registers according to context. This model moved historical inquiry away from speculative psychoanalysis toward documented cultural practices and textual representations.
+
+## Engagement with Cognitive Neuroscience and Appraisal Theory
+
+In her theoretical reflections, Rosenwein engaged directly with contemporary cognitive psychology and neuroscience, rejecting both naive biological determinism and radical social constructionism. Engaging with "cognitive appraisal" approaches (associated with psychologist Richard Lazarus and philosopher Martha Nussbaum), she argued that emotions are not mere physiological reflexes, but embodied value judgments: they involve an individual's cognitive assessment of an object or event in relation to their goals and well-being. Because appraisals depend upon cultural values and beliefs, emotions are inherently historical and susceptible to empirical investigation.
 
 ## Major Works
 
-- "Worrying About Emotions in History" (article, *American Historical Review*, 2002).
-- *Emotions in History: Lost and Found* (2006).
-- *Anger's Past* (edited volume, 1998), on the history of emotion in medieval Europe.
+- *Rhinoceros Bound: Cluny in the Tenth Century* (1982).
+- *To Be the Neighbor of Saint Peter: The Social Meaning of Cluny's Property, 909–1049* (1989).
+- *Anger's Past: The Social Uses of an Emotion in the Middle Ages* (editor, 1998).
+- "Worrying about Emotions in History" (*American Historical Review*, 2002).
 - *Emotional Communities in the Early Middle Ages* (2006).
+- *Generations of Feeling: A History of Emotions, 600–1700* (2015).
+- *Love: A History in Five Fantasies* (2021).
 
-## Impact and Criticism
+## Impact and Critical Perspectives
 
-Rosenwein's work founded an entire academic field, which now has specialised journals (such as *Emotions: History, Culture, Society*) and research centres devoted to it (such as the Centre for the History of Emotions at the University of Melbourne). The concept has faced debate over the limits of its applicability to periods for which there is insufficient documentation of the inner lives of ordinary individuals, and over the relationship between the cultural construction of emotion and a shared biological basis of human emotions. That debate remains open between historians and neuroscientists.
+Rosenwein's framework catalyzed an international flourishing of the history of emotions, leading to specialized research centers (such as the ARC Centre of Excellence for the History of Emotions in Australia and the Max Planck Institute for Human Development in Berlin) and dedicated journals (*Emotions: History, Culture, Society*). 
 
-## Extension of the Method: A Critique of the "Civilising Process"
-
-Rosenwein's work is a direct critique of what has been called the "civilising process" of the sociologist Norbert Elias, who argued that European history saw a progressively increasing repression of violent and bodily emotions from the Middle Ages to modernity, in parallel with the concentration of the state and the royal court. Rosenwein considered this linear evolutionary model misleadingly simplified. Her detailed studies of monastic and medieval court sources showed that the control and regulation of emotions existed in highly developed forms already in the early Middle Ages, and did not arise exclusively with European modernity as Elias assumed. She also argued that each emotional community developed its own standards, regardless of its position on any supposed "evolutionary ladder".
-
-## Connection to Neighbouring Fields
-
-Rosenwein's work brought together the history of emotions with the history of the body and the history of monasticism. Many of her examples drew on the documents of the abbey of Cluny and the correspondence of monks in medieval France. Her work thus became a bridge between her original specialisation in medieval religious history and her later interest in emotional methodology, and it later allowed her students to apply her framework to periods and cultures far removed from medieval Europe.
-
-## Academic Career
-
-Before turning to the history of emotions, Rosenwein published influential works on medieval religious and social history, most notably *To Be the Neighbor of Saint Peter: The Social Meaning of Cluny's Property, 909–1049* (1989). She taught for decades at Loyola University Chicago, where she supervised generations of researchers who subsequently extended the history of emotions to cultures and periods well beyond her original specialisation in medieval Europe, from ancient Japan to colonial America.
-
-## Interaction with Cognitive Neuroscience
-
-In her recent work, Rosenwein sought dialogue with research in cognitive neuroscience on the shared biological basis of human emotions. She tried to strike a balance between her insistence on the cultural construction of emotional expression and her refusal to deny that there is a general biological basis for emotion, shared by all humankind regardless of era and culture. This interdisciplinary dialogue between historians and neuroscientists is still developing.
+While widely adopted, the concept of emotional communities has sparked scholarly debate. Some historians, such as William M. Reddy (who developed the concepts of "emotives" and "emotional regimes"), have questioned whether Rosenwein's model adequately accounts for state-sponsored emotional coercion or individual psychological resistance against dominant emotional norms. Others have discussed the challenge of applying the concept to non-elite subaltern groups who left few written records of their internal feelings.
 
 ## Sources
 
 - Rosenwein, Barbara H. "Worrying about Emotions in History." *American Historical Review*, vol. 107, no. 3, 2002, pp. 821–845.
 - Rosenwein, Barbara H. *Emotional Communities in the Early Middle Ages*. Cornell University Press, 2006.
-- Plamper, Jan. *The History of Emotions: An Introduction*. Oxford University Press, 2015 (discusses Rosenwein's contribution within the wider field).
+- Rosenwein, Barbara H. *Generations of Feeling: A History of Emotions, 600–1700*. Cambridge University Press, 2015.
+- Plamper, Jan. *The History of Emotions: An Introduction*. Oxford University Press, 2015.
+- Reddy, William M. *The Navigation of Feeling: A Framework for the History of Emotions*. Cambridge University Press, 2001.

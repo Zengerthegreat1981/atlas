@@ -17,26 +17,41 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Internal and External Source Criticism (General Method)", target_type: "مدرسة"
 related:
-gaps:
-  - "**Explicit distinction from African oral tradition:** `sch-african-oral-history-traditions` deals with the methodology of handling **oral traditions transmitted across generations** (genealogies, royal sequences) in societies that did not rely on written recording. This file addresses a completely different angle: **documented interviews with living contemporary witnesses** to events of the twentieth century itself (workers, survivors, migrants). It is a modern method for documenting direct individual memory, not the collective inherited oral tradition."
-  - "Separate thinker entries for the founders of the field (Allan Nevins, Paul Thompson): not yet covered. The project is mentioned here in general terms without separate documented biographies."
+gaps: []
 ---
 # Modern Oral History and Its Method
 
-A method of documenting history through **recorded interviews with living individuals who lived through an event or period themselves**, in order to capture testimonies and experiences that were never written down. It is especially important for groups (workers, women, minorities, survivors of atrocities) who rarely left a trace in the official written archive.
+A specialized historical methodology and movement that emerged in the mid-twentieth century, dedicated to **recording, preserving, and interpreting the firsthand testimonies of living participants in historical events**. Unlike traditional archival historiography, which relies predominantly on preexisting written bureaucratic documents, modern oral history creates its own primary sources through structured, audio- or video-recorded interviews. It has served as an important research approach for recovering the voices of historically marginalized groups—including industrial laborers, women, racial and ethnic minorities, and survivors of state violence—whose experiences left sparse traces in official archives.
 
-## Institutional Origins
+## Conceptual Definition: Oral History vs. Oral Tradition
 
-The American historian **Allan Nevins** is regarded as the pioneer of the institutional codification of this method: in 1948 he founded the Oral History Research Office at Columbia University to record systematic interviews with public figures. The field later developed (especially in the 1970s with the spread of portable audio recorders) to include documentation of experiences "from below": factory workers, Holocaust survivors, participants in social movements. This connects with the British "history from below" impulse (`sch-british-history-from-below`), though using a different tool (direct interview rather than the judicial archive).
+Historiographical methodology maintains a crucial distinction, developed in the work of Africanist historian **Jan Vansina** (1929–2017), between "oral tradition" and "modern oral history":
+- **Oral Tradition**: Verbal testimonies and narratives transmitted across generations by word of mouth beyond the lifetime of the original witnesses (such as dynastic genealogies, heroic epics, and folklore in non-literate societies).
+- **Oral History**: Firsthand reminiscences of living contemporaries interviewed by a researcher about events, transformations, and social conditions that the narrators directly experienced within their own lifetimes.
 
-## Method
+## Institutional Evolution: From Elite Archives to "History from Below"
 
-- **Disciplined interview protocol:** designing questions that allow the narrator to speak in their own language and order, with complete recording (no abridgement or summarising during collection) to permit later precise analysis, and documentation of the context of the interview itself (who conducted it, when, where, the narrator's circumstances).
-- **Memory as a subject, not merely a source:** a methodological awareness that the oral testimony is not a neutral recording of what "actually happened," but an interpretive construction that the narrator reshapes from their present position. This intersects with the history of collective memory (`sch-memory-history-nora-halbwachs`): a factual error in an oral narrative (an inaccurate date, a conflicting detail) may itself be a valuable clue to how the event was collectively remembered, rather than merely a deficiency to be corrected.
-- **Ethics of consent and ownership:** strict protocols (informed consent, the narrator's right to review or withdraw) developed by the field in response to the sensitivity of documenting living personal testimonies, unlike the dead archival document that has no living owner.
+The modern institutionalization of oral history occurred in two distinct phases:
+1. **The Elite Archival Phase**: In 1948, the American historian **Allan Nevins** founded the Oral History Research Office at Columbia University. Early oral history primarily conducted audio-recorded interviews with prominent political, diplomatic, and business leaders to supplement official correspondence with candid personal reflections.
+2. **The Social History Revolution ("History from Below")**: During the 1960s and 1970s, the dissemination of portable magnetic cassette recorders coincided with the rise of the New Social History, labor history, and second-wave feminism. In the United Kingdom, **Paul Thompson** helped found the Oral History Society (1973) and published *The Voice of the Past* (1978), transforming oral history into a democratic tool to document working-class communities, everyday family life, and industrial struggles.
+
+## Epistemological Maturation: Memory and Subjectivity
+
+Early practitioners defended oral history on strict positivist grounds, treating recorded interviews simply as sources of raw factual information to be cross-checked against written archives. From the late 1970s, however, the field experienced a major epistemological breakthrough pioneered by Italian scholars **Alessandro Portelli** and **Luisa Passerini**:
+- **Subjectivity as an Asset**: Portelli argued in *The Death of Luigi Trastulli and Other Stories* (1991) that oral history tells researchers not merely what happened, but what people believed happened, what they felt about it, and how they constructed its meaning.
+- **The Value of Inaccuracy**: Errors of fact, anachronisms, and narrative inversions are not simple methodological failures; they are vital diagnostic clues revealing collective trauma, ideological myth-making, and the psychological reorganization of memory across time.
+- **Intersubjectivity**: The interview is recognized not as a passive extraction of data, but as a dialogic relationship co-constructed between narrator and interviewer in a specific social context.
+
+## Ethical and Archival Protocols
+
+Because oral history involves living human subjects, the discipline developed rigorous ethical and legal standards, codified by bodies such as the Oral History Association (founded in the United States in 1966):
+- **Informed Consent and Legal Release**: Clear agreements specifying copyright, public accessibility, deeds of gift, and conditions under which interviews can be quoted.
+- **Primacy of the Recording**: The original audio or audiovisual recording—preserving vocal cadence, hesitation, laughter, and emotional tone—remains the primary historical artifact, of which the written transcript is a necessary auxiliary.
 
 ## Sources
 
 - Thompson, Paul. *The Voice of the Past: Oral History*. 3rd ed. Oxford University Press, 2000.
 - Ritchie, Donald A. *Doing Oral History: A Practical Guide*. 3rd ed. Oxford University Press, 2014.
 - Portelli, Alessandro. *The Death of Luigi Trastulli and Other Stories: Form and Meaning in Oral History*. State University of New York Press, 1991.
+- Vansina, Jan. *Oral Tradition as History*. University of Wisconsin Press, 1985.
+- Passerini, Luisa. *Fascism in Popular Memory: The Cultural Experience of the Turin Working Class*. Cambridge University Press, 1987.

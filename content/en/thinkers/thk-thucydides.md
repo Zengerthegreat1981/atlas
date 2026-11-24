@@ -6,7 +6,7 @@ level: "متقدم"
 title: "Thucydides the Rational Critic"
 en: "Thucydides the Rational Critic"
 crumb: "Historiography ← Thinkers ← Thucydides the Rational Critic"
-dates: "Ancient Greece · 460–400 BCE"
+dates: "Ancient Greece · c. 460–400 BCE"
 active_start: -430
 active_end: -400
 country: "Greece/Athens"
@@ -17,47 +17,40 @@ edges:
 related:
 - id: "sch-thucydides-source-criticism", title: "Thucydides' Method of Rational Criticism and Sources", type: "مدرسة"
 - id: "wrk-history-peloponnesian-war-thucydides", title: "History of the Peloponnesian War", type: "عمل"
-gaps:
-  - "There is ongoing debate over how far the speeches recorded in his work are faithful: are they literal transcriptions, or reconstructions?"
+gaps: []
 ---
 
 # Thucydides the Rational Critic
 
 ## Definition
 
-Thucydides (c. 460–400 BCE) was an Athenian historian, son of Olorus. Today he is regarded as the father of "scientific" or "critical" history in the Western tradition, owing to his rigorous method of verifying accounts and explaining events through rational political and economic causes, rather than attributing them to the intervention of the gods or to chance, as was common in earlier narrative traditions.
+**Thucydides** (c. 460–400 BCE), son of Olorus of the Athenian deme of Halimous, is widely recognized as a foundational figure in the development of critical and secular political historiography in the Western tradition. In his unfinished chronicle of the Peloponnesian War (431–404 BCE), Thucydides departed from the anecdotal storytelling and mythological etiology of earlier writers, establishing an analytical method grounded in firsthand observation, rigorous cross-examination of eyewitnesses, and explanations centered strictly on political, economic, and psychological forces.
 
 ## Historical Context
 
-Thucydides lived in Athens during the height and decline of its golden age. He himself took part in the Peloponnesian War (431–404 BCE) between Athens and Sparta as an Athenian military commander. In 424 BCE, however, he failed to defend the city of Amphipolis against the Spartan general Brasidas, and he was sentenced to twenty years of exile from Athens as punishment for this military failure. He used his exile to gather information from both sides of the conflict, moving between the warring camps, which gave him a unique perspective not normally available to a historian who writes from the exclusive allegiance to one side of the war.
+Thucydides lived during the zenith and catastrophic fracturing of classical Athenian imperial power. In 424 BCE, serving as an Athenian general (*strategos*), he commanded naval forces in Thrace but failed to reach the strategic colony of Amphipolis before it fell to the Spartan commander Brasidas. Exiled from Athens for twenty years following this military failure, Thucydides used his forced neutrality to travel extensively, observe operations in the Peloponnese, and interview combatants from both coalitions. His account of the conflict breaks off in mid-narrative in 411 BCE, leaving the final seven years of the war to be chronicled by later historians such as Xenophon in the *Hellenica*.
 
-## Main Ideas or Method
+## Methodological Principles and the Speeches Debate
 
-In his famous introduction, Thucydides openly criticizes earlier historians (and, implicitly, Herodotus above all) for the fact that "most people do not check the facts carefully, but accept whatever report they have heard." He himself adhered to two strict criteria: direct testimony where he was present, and cross-checking the accounts of multiple witnesses where he was not, with a preference for rationality and plausibility over strange or supernatural accounts. Thucydides also devised the technique of reconstructed speeches (such as the famous funeral oration of Pericles), which he openly acknowledges are not exact verbatim transcriptions, but logical reconstructions of what "had to be said" given the circumstances. This literary and analytical technique remains a subject of methodological debate among researchers to this day.
+In his opening archaeological and methodological chapters (Book I), Thucydides explicitly articulated his historiographical criteria:
+- **Critical Cross-Examination**: Rejecting unexamined hearsay, he demanded corroboration from multiple independent witnesses, noting that individual accounts were often distorted by bias or faulty memory.
+- **Secular Political Causation**: He identified the truest cause of the war (*alēthestátē próphasis*) not in divine retribution or fate, but in structural power dynamics: the relentless expansion of Athenian imperial hegemony and the existential fear it provoked in Sparta.
+- **The Debate over Reconstructed Speeches**: A central debate in Thucydidean scholarship concerns the historical fidelity of the more than forty formal speeches included in his work. Thucydides famously stated (1.22.1) that while keeping as close as possible to the general drift of what was actually spoken, he recorded what was required or fitting for the speakers to say given the circumstances (*ta deonta*). Scholars remain divided over whether these speeches represent authentic reconstructions based on detailed eyewitness reports or dramatic intellectual compositions designed by Thucydides to lay bare the ideological stakes, strategic dilemmas, and moral crises of the war, as seen in the Periclean Funeral Oration and the chilling realpolitik of the Melian Dialogue.
 
-## Major Works or Representatives
+## Reception and Legacy
 
-His only surviving work is the *History of the Peloponnesian War* in eight books, which stops abruptly in 411 BCE without being completed. Thucydides died before he could finish the narrative of the war up to its effective end in 404 BCE, a task completed later by other historians, such as Xenophon in the *Hellenica*. The work contains deep analyses of recurring political and social phenomena, such as the plague that struck Athens, the civil war in Corcyra, and the famous Melian Dialogue, which discusses the logic of power in relations between states with a philosophical depth that goes beyond mere historical narration.
-
-## Legacy and Criticism
-
-Thucydides is today regarded as a foundational reference for the field of international relations (especially political "realism"), thanks to his analysis of the inevitability of conflict between a rising power (Athens) and an established dominant power (Sparta). This is known today as the "Thucydides Trap" in contemporary strategic studies. Critics note, however, that his claim to complete objectivity was not free of bias: his narrative sometimes sympathizes with Pericles and sharply criticizes Athenian democratic demagoguery after Pericles' death, reflecting an implicit aristocratic political stance on the part of the historian himself, despite his repeated declarations of complete impartiality in his introduction.
+Thucydides exerted a lasting influence on Hellenistic and Roman historians, notably Polybius, Sallust, and Tacitus. In modern political science and international relations, his work is often invoked in the realist tradition, including in Graham Allison's twenty-first-century framing of the "Thucydides Trap."
 
 ## Connection to the Arab-Islamic Heritage
 
-Although the text of Thucydides did not reach Arabic in the medieval period (unlike Aristotle and Plato, which were translated extensively), his method of rational verification of accounts is sometimes compared with the method of rational scrutiny that Ibn Khaldun applied in the *Muqaddimah* to criticize historical reports that are impossible by reason or contrary to the nature of human civilization. However, Ibn Khaldun's scrutiny came through an intellectual path entirely independent of the direct classical Greek tradition, relying instead on his personal observation of the nature of human civilization in his own time.
-
-## The Thucydides Trap in Contemporary Politics
-
-The American scholar Graham Allison adopted the term "Thucydides Trap" in the 2010s to analyze contemporary Chinese–American relations, drawing on Thucydides' famous statement that "what made war inevitable was the rise of Athenian power and the fear this caused in Sparta." Allison studied sixteen historical cases similar to this from the fifteenth century to the present, and found that twelve of them had in fact ended in actual war between the rising power and the dominant power. This made the ancient Thucydidean analysis a living analytical tool in debates on foreign policy and international strategy even in the twenty-first century, a rare example of an ancient historical text remaining an effective analytical instrument in contemporary politics.
+The text of Thucydides was not translated into Arabic during the classical translation movement in Baghdad, which favored Aristotelian logic, natural philosophy, and medicine over Greek narrative historiography. Classical Muslim historiography developed its own critical methods independently, and later writers such as Ibn Khaldun (732–808 AH / 1332–1406 CE) criticized unverified reports in the *Muqaddimah*, assessing them against the nature of social organization (*'umran*); any comparison with Thucydides is a modern analogy rather than a documented influence.
 
 ## Sources
 
-- Thucydides. *History of the Peloponnesian War*. Loeb Classical Library.
-- Hornblower, Simon. *Thucydides*. Oxford, 1987.
-- Kagan, Donald. *The Peloponnesian War*. 2003.
-- Connor, W. Robert. *Thucydides*. 1984.
-- Allison, Graham. *Destined for War: Can America and China Escape Thucydides's Trap?*. 2017.
-- Finley, M. I. *Ancient History: Evidence and Models*. 1985.
-- de Ste. Croix, G. E. M. *The Origins of the Peloponnesian War*. 1972.
-- Rood, Tim. *Thucydides: Narrative and Explanation*. 1998.
+- Thucydides. *History of the Peloponnesian War*. 4 vols. Translated by C. F. Smith. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1919–1923.
+- Hornblower, Simon. *Thucydides*. London: Duckworth, 1987.
+- Kagan, Donald. *The Peloponnesian War*. New York: Viking, 2003.
+- Connor, W. Robert. *Thucydides*. Princeton: Princeton University Press, 1984.
+- Allison, Graham. *Destined for War: Can America and China Escape Thucydides's Trap?*. Boston: Houghton Mifflin Harcourt, 2017.
+- de Ste. Croix, G. E. M. *The Origins of the Peloponnesian War*. London: Duckworth, 1972.
+- Rood, Tim. *Thucydides: Narrative and Explanation*. Oxford: Clarendon Press, 1998.

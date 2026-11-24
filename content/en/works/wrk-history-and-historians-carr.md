@@ -9,46 +9,45 @@ en: "What Is History? (E. H. Carr)"
 crumb: "Historiography ← Works ← What Is History? (Carr)"
 edges: []
 related: []
-gaps:
-  - "The correct English title of the intended book is *What Is History?* (1961). Carr has no book published under the exact title 'History and Historians'; this title is probably a general reference to the subject of his well-known book. This is clarified below."
+gaps: []
 ---
 
 # What Is History? (Edward Hallett Carr)
 
 ## Definition
 
-*What Is History?* is the actual title of the best-known work on the philosophy and methodology of history by the British historian and international relations theorist **Edward Hallett Carr** (E. H. Carr, 1892–1982). Published in 1961, it is a revised collection of the George Macaulay Trevelyan lectures that Carr delivered at Cambridge University. It is among the most influential texts in the teaching of university history methodology in the Anglo-Saxon world throughout the second half of the twentieth century.
+***What Is History?*** (1961) by the British historian, diplomat, and international relations theorist **Edward Hallett Carr** (1892–1982) is one of the most widely read and debated treatises on historical methodology, causation, and objectivity written in the twentieth century. Originally delivered as the George Macaulay Trevelyan Lectures at the University of Cambridge between January and March 1961, the book mounted a vigorous challenge against traditional empiricist assumptions of historical neutrality, proposing an interactive model of historical understanding.
 
-## Historical Context
+## Historical and Intellectual Context
 
-Carr wrote the work at the height of the Cold War, shaped by his own background as a historian of the Soviet Union (he wrote a monumental fourteen-volume history of Soviet Russia) and as a former official in the British Foreign Office, which formed his realist view of both history and international relations. The book was a response to two opposing currents dominant in the philosophy of history at the time: positivist empiricism, which sees history as a neutral compilation of fixed facts (as embodied by the Victorian historian Leopold von Ranke with his famous motto *wie es eigentlich gewesen*, "as it actually happened"), and extreme relativism, which regards history as mere subjective projection whose objectivity cannot be trusted at all.
+Carr approached historiographical theory with unique practical perspectives shaped by two decades in the British Foreign Office and his monumental, multi-volume *A History of Soviet Russia* (14 volumes, 1950–1978). In the ideological atmosphere of the Cold War, Carr found himself dissatisfied with two prevalent methodological poles:
+1. **Victorian Positivism**: The empirical tradition associated with Leopold von Ranke's dictum to record the past "as it actually was" (*wie es eigentlich gewesen*) and Lord Acton's expectation of producing definitive, final history.
+2. **Subjective Relativism**: The radical idealist claim that history is entirely a subjective construct residing solely in the historian's mind.
 
-## Main Ideas and Method
+Carr sought a nuanced middle path that recognized the active interpretive role of the scholar without collapsing into arbitrary skepticism.
 
-Carr put forward an influential middle position that became a classic reference: history is "an unending dialogue between the present and the past." There are no "raw historical facts" that speak for themselves. Instead, the historian selects from a vast number of possible facts those that they regard as significant, inevitably influenced by their own perspective and their social and temporal context. Yet Carr also rejected sliding into an absolute relativism that abolishes any standard of verification. He affirmed that some historical interpretations are better documented and more logically coherent than others, and that the historian must study their "historians" (that is, the context that produced earlier interpretations) before trusting any historical narrative, including their own. The book also discusses the concept of historical causation (the multiplicity and hierarchy of causes), the role of the individual versus the great social forces, and the concept of "progress" in history.
+## Core Ideas and Arguments
 
-## Impact and Criticism
+### 1. The Interaction of Past and Present
+Carr's defining thesis is that history is "a continuous process of interaction between the historian and his facts, an unending dialogue between the present and the past." Facts do not exist in pure, uncontaminated forms waiting to be collected like pebbles. Rather, out of an infinite ocean of past occurrences, only certain events are transformed into "historical facts" through the conscious selection and framing of the historian. In Carr's famous analogy, facts are not like fish on a fishmonger's slab; they are like fish swimming in a vast ocean, and what the historian catches depends on where he fishes and what tackle he chooses.
 
-*What Is History?* became a foundational text taught in almost all university history methodology courses in the Anglo-Saxon world and in translation, and it has entered into direct and continuing dialogue with later works. Most notable is the counter-response of the British historian **Geoffrey Elton** in his book *The Practice of History* (1967), which defended a more traditional empiricist position. It also engages with a later update offered by the historian **Richard Evans** in *In Defence of History* (1997), which sought to reconcile Carr's vision with the later postmodernist challenges (Hayden White and others) that questioned the possibility of any objective historical knowledge at all.
+### 2. Situating the Historian
+Carr cautioned that objective assessment requires analyzing the observer: "Before you study the history, study the historian... Before you study the historian, study his historical and social environment." The questions historians ask and the significance they assign to past evidence are inevitably conditioned by the social, political, and material realities of their own historical epoch.
 
-## An Illustrative Example from the Book
+### 3. Hierarchy of Causes and Accidental Events
+In analyzing historical causation, Carr rejected both mechanistic fatalism and radical indeterminism. He distinguished between **rational or significant causes**—which lead to fruitful generalizations and provide lessons applicable to other times and places—and **accidental causes** (such as the traditional riddle of whether Cleopatra's nose altered Roman history, or his example of a pedestrian hit by a drunken driver). Serious history, Carr argued, prioritizes structural, systemic explanations over random coincidences.
 
-At the opening of the book, Carr cites his famous example of a man killed in a road accident after drinking in a tavern, asking: is the "real" cause the other drunk driver who struck him, the faulty brakes, or the victim's decision to walk along that road on that particular night? Carr uses this example to show that choosing the appropriate historical "cause" among multiple actual simultaneous causes is always an interpretive act performed by the historian, not the neutral extraction of a single objective truth inherent in the event itself. This summarises the essence of his thesis about the nature of historical writing.
+### 4. Progress and Teleology
+Carr defended the concept of progress in historical understanding, arguing that history moves forward as successive generations expand their horizon of human capacity and self-consciousness.
 
-## Carr's Famous Statement on Facts
+## Debates and Critical Legacy
 
-One of the most frequently quoted statements in the book is Carr's remark that historical facts are like "fish on a fishmonger's slab": facts do not speak for themselves unless the historian selects those they want, cooks them and presents them in the way they see fit. This means that reaching a "raw historical truth" independent of the human act of selection and interpretation is a methodological illusion, although this does not necessarily mean that every interpretation is equal in value or accuracy compared with others.
-
-## The Debate After Carr
-
-After Carr's death in 1982, the debate he provoked over the objectivity of history continued in new forms with the rise of postmodernism in the 1980s and 1990s (Hayden White and Michel Foucault), which pushed the question of the limits of historical knowledge to a more extreme point than Carr himself had anticipated. Carr nevertheless remained committed to the possibility of relatively objective, though not absolute, historical knowledge. This intermediate position made his book an acceptable reference across a broad range of methodological currents within the field.
-
-## Carr as a Historian of the Soviet Union
-
-Carr's monumental work on the history of the Soviet Union (1917–1929, in fourteen volumes whose composition took decades) partly explains his realist view of the nature of power and history. He was sometimes accused of excessive sympathy towards the Soviet experience, motivated by his rejection of the Western liberal idealism prevailing during the Cold War. This personal and political background is read today in light of the debates over his theoretical book, on the premise that every historian is necessarily governed by their own perspective, which shapes their interpretive choices, just as he himself argued in *What Is History?*.
+*What Is History?* triggered intense debates across international academia. The conservative Tudor historian **Geoffrey Elton** mounted a direct counter-attack in *The Practice of History* (1967), vigorously defending traditional archival empiricism, documentary autonomy, and the possibility of objective reconstruction free from contemporary ideological agendas. Decades later, **Richard J. Evans** published *In Defence of History* (1997), assessing Carr's legacy amidst the linguistic and postmodern turns of the late twentieth century. Despite continuous criticism from both orthodox empiricists and post-structuralist theorists, Carr's work remains a widely read introduction to the epistemological dilemmas of the discipline.
 
 ## Sources
 
-- Carr, E. H. *What Is History?* Macmillan, 1961 (revised edition with an introduction by Richard Evans, 2001).
-- Evans, Richard J. *In Defence of History*. Granta Books, 1997.
-- Elton, Geoffrey R. *The Practice of History*. Sydney University Press, 1967.
+- Carr, Edward Hallett. *What Is History?*. London: Macmillan, 1961; 2nd edition, edited by R. W. Davies, Harmondsworth: Penguin, 1987; 40th anniversary edition, with an introduction by Richard J. Evans, London: Palgrave, 2001.
+- Elton, Geoffrey R. *The Practice of History*. Sydney: Sydney University Press / London: Fontana, 1967.
+- Evans, Richard J. *In Defence of History*. London: Granta Books, 1997.
+- Haslam, Jonathan. *The Vices of Integrity: E. H. Carr, 1892–1982*. London: Verso, 1999.
+- Jenkins, Keith. *On "What Is History?": From Carr and Elton to Rorty and White*. London: Routledge, 1995.

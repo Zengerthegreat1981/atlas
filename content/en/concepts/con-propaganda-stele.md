@@ -24,13 +24,13 @@ The stele is a carved stone monument, usually erected at strategic locations to 
 ## Classic Examples
 
 - **The Stele of the Vultures** (c. 2450–2425 BCE): one of the oldest known historical inscriptions. It commemorates the victory of King Eannatum, ruler of Lagash, over the rival city of Umma. It shows scenes of organized combat with divine intervention, and is considered one of the oldest pictorial "historical documents" of war and royal propaganda in Sumerian art.
-- **The Stele of Sargon of Akkad**: used to legitimize the rule of Sargon, founder of the Akkadian Empire, by combining a military image (the king fighting his enemies with a mace) with divine authorization (the handing over of prisoners to the goddess Ishtar).
-- **The Stele of Esarhaddon** (king of Assyria, 7th century BCE): a clear imperial propaganda message addressed to the Assyrians and their subjects alike, stating that resistance to the empire is futile.
+- **The Stele of Sargon of Akkad**: used to legitimize the rule of Sargon, founder of the Akkadian Empire, through royal victory imagery (the surviving fragments are poorly preserved).
+- **The Stele of Esarhaddon** (king of Assyria, 7th century BCE): an Assyrian royal monument conveying imperial power to subjects and vassals.
 - **The Stele of Hammurabi** (c. 1754 BCE): combines a legal function (recording a collection of laws) with a propagandistic one (depicting Hammurabi receiving his mandate from the god Shamash). It shows how the legislative and propagandistic functions intertwine in a single royal inscription.
 
 ## Critical Reading of Propaganda Inscriptions
 
-The historical method insists on "decoding" the propaganda inscription rather than reading it literally as a neutral factual record. The royal stele describes events exclusively from the victor's perspective, inflates victories, silences defeats and complications, and deploys religious symbolism (divine mandate) to lend sacred legitimacy to temporal power. Historians of the ancient Near East, such as Mario Liverani, have therefore developed a critical method that treats the propaganda text as a "discourse" whose ideological structure is analyzed, not merely a source of factual information. This is done by comparing it with independent sources (inscriptions from the other side where they exist, and non-propagandistic administrative documents) to reach a more balanced picture.
+The historical method insists on "decoding" the propaganda inscription rather than reading it literally as a neutral factual record. The royal stele describes events largely from the victor's perspective, inflates victories, silences defeats and complications, and deploys religious symbolism (divine mandate) to lend sacred legitimacy to temporal power. Historians of the ancient Near East, such as Mario Liverani, have therefore developed a critical method that treats the propaganda text as a "discourse" whose ideological structure is analyzed, not merely a source of factual information. This is done by comparing it with independent sources (inscriptions from the other side where they exist, and non-propagandistic administrative documents) to reach a more balanced picture.
 
 ## Historical Importance
 
@@ -40,10 +40,10 @@ Despite their propagandistic character, these stelae remain an indispensable his
 
 This concept is directly related to inscriptions and material documents in general (as the stele is a special category of them with a deliberate propagandistic function), and to scribal and documentary authority (the scribes who composed these texts in the service of the court).
 
-## References
+## Sources
 
-- Liverani, M. (1973). "Memorandum on the Approach to Historiographic Texts." *Orientalia*, 42.
-- Bahrani, Z. (2008). *Rituals of War: The Body and Violence in Mesopotamia*. Zone Books.
-- Winter, I. J. (1985). "After the Battle is Over: The Stele of the Vultures." In *Studies in the History of Art*. National Gallery of Art.
-- Grayson, A. K. (1980). "Assyria and Babylonia." *Orientalia*, 49.
-- Roth, M. T. (1995). *Law Collections from Mesopotamia and Asia Minor*. Scholars Press.
+- Bahrani, Zainab. *Rituals of War: The Body and Violence in Mesopotamia*. New York: Zone Books, 2008.
+- Grayson, A. K. "Assyria and Babylonia." *Orientalia* 49, no. 2 (1980): 140–194.
+- Liverani, Mario. "Memorandum on the Approach to Historiographic Texts." *Orientalia* 42 (1973): 178–194.
+- Roth, Martha T. *Law Collections from Mesopotamia and Asia Minor*. Atlanta: Scholars Press, 1995.
+- Winter, Irene J. "After the Battle Is Over: The 'Stele of the Vultures' and the Beginning of Historical Narrative in Art of the Ancient Near East." In *Pictorial Narrative in Antiquity to the Middle Ages*, Studies in the History of Art 16: 11–32. Washington, D.C.: National Gallery of Art, 1985.

@@ -20,31 +20,41 @@ edges:
 related:
 - id: "thk-hayden-white", title: "Hayden White", type: "مفكر"
 - id: "sch-french-methodical-school", title: "The French Methodical School (Seignobos, Langlois and the Introduction to Historical Studies)", type: "مدرسة"
-gaps:
-  - "An independent entry for the thinker Hayden White (1928–2018) has not yet been created. His main thesis is described here without an independent biography documented by two sources; a file will be devoted to him in a later batch."
-  - "**Scope note:** this file has not yet been linked to narratology or general literary theory (Barthes, Genette), despite the clear methodological kinship. Linking is left to a later batch if independent narratology entries are created."
+gaps: []
 ---
 
 # The Linguistic Turn and History as Narrative (Hayden White, *Metahistory*)
 
-A radical thesis put forward by the American historian **Hayden White** in *Metahistory: The Historical Imagination in Nineteenth-Century Europe* (1973): writing history is not a neutral reflection of past events "as they happened", but a **literary constructive** process that organises raw events into a **narrative plot** (*emplotment*), resembling a literary structure more than an objective reflection.
+A transformative theoretical current in historiography and the philosophy of history, crystallized by the American cultural theorist and historian Hayden White (1928–2018) in his landmark study *Metahistory: The Historical Imagination in Nineteenth-Century Europe* (1973). The linguistic turn challenged the traditional realist assumption that historical writing functions as a transparent, objective representation of the past "as it actually happened," arguing instead that history is fundamentally a literary, discursive artifact structured by narrative conventions and figurative language.
 
-## The Thesis
+## The Structural Thesis of *Metahistory*
 
-White argues that historians — even the most committed to positivist neutrality (Ranke himself, Michelet, Tocqueville, Burckhardt) — construct their narratives, often unconsciously, by choosing between four literary plot types inherited from Aristotelian poetics: **Romance** (the triumph of the hero over the world), **Tragedy**, **Comedy**, and **Satire**. The choice of plot implicitly determines which events are highlighted or ignored, and which moral meaning is drawn out, before any claim to "scientific" objectivity is made.
+White posited that historical explanations are not deduced directly from empirical evidence; rather, historians transform raw, chronological data into a coherent and meaningful narrative through an interpretive act of **emplotment** (*mise en intrigue*). Drawing on classical poetics, formalist rhetoric, and the literary theory of Northrop Frye, White constructed a formal taxonomy of the historical imagination operating on three distinct explanatory levels:
 
-## Method
+1. **Modes of Emplotment**: The overarching narrative trajectory chosen by the historian, categorized into four archetypal literary genres:
+   - *Romance*: The triumph of human virtue and spirit over transcendent obstacles.
+   - *Tragedy*: The fateful downfall of human aspirations amidst unyielding structural limitations.
+   - *Comedy*: The provisional reconciliation of social and natural conflicts.
+   - *Satire*: The ironic realization of human inadequacy and the captive nature of human consciousness.
+2. **Modes of Formal Argument**: The philosophical framework deployed to explain causation, spanning *Formism* (individuation and vivid description), *Mechanism* (deterministic cause and effect), *Organicism* (teleological synthesis), and *Contextualism* (functional relationality).
+3. **Modes of Ideological Implication**: The ethical and political orientation latent in the narrative, ranging from Anarchism and Radicalism to Conservatism and Liberalism.
 
-- **History is a linguistic text, not a transparent window**: What structuralism and later developments in literary theory developed is applied to the writing of history — every historical narrative is necessarily shaped by rhetorical and figurative tools (metaphor, metonymy, synecdoche, irony) that are not neutral.
-- **Dismantling the fact/interpretation dichotomy**: It challenges the sharp Rankean separation between the objective "facts" and the subjective "interpretation". The narrative plot itself shapes what counts as a "fact" with significance in the first place.
-- **Not necessarily absolute relativism**: White does not deny the existence of historical facts that can be verified. He focuses on the point that **organising them into a meaningful narrative** is a literary act that cannot be reduced to a neutral description.
+Underlying these levels is a foundational "deep structure" of poetic language governed by the four master tropes of classical rhetoric: **metaphor**, **metonymy**, **synecdoche**, and **irony**. White argued that four major nineteenth-century historians (Jules Michelet, Leopold von Ranke, Alexis de Tocqueville, and Jacob Burckhardt) and four philosophers of history (G. W. F. Hegel, Karl Marx, Friedrich Nietzsche, and Benedetto Croce) each adopted specific configurations of these poetic tropes in crafting their interpretations.
 
-## Impact and Debate
+## Engagement with Narratology and Literary Theory
 
-This thesis provoked sharp debate among historians. It was accused of opening the door to a relativism that treats any historical narrative as equal to another, including Holocaust denial (an issue to be examined in section 7 of this part). Others defended it as an analytical tool that reveals hidden assumptions in historical writing without invalidating the legitimacy of empirical verification of the facts themselves.
+The linguistic turn in historiography developed in parallel with post-structuralism and continental narratology. Roland Barthes had famously argued in "The Discourse of History" (1967) and "The Reality Effect" (1968) that historical narrative creates a "reality effect" (*effet de réel*) through linguistic signs. Similarly, Gérard Genette's structural analysis of voice and narrative temporality illuminated how historical narratives organize perspective and focalization. In the wake of White's intervention, philosophers such as Frank Ankersmit (*Narrative Logic*, 1983) and Paul Ricoeur (*Time and Narrative*, 1983–1985) expanded the inquiry, arguing that historical meaning resides not in discrete facts, but in the overarching "narrative substance" that synthesizes heterogeneous occurrences into a concordant whole.
+
+## Debates, Critiques, and the Question of Relativism
+
+White's thesis provoked intense controversy within the historical profession:
+- **Charges of Radical Relativism**: Critics, including Arthur Marwick, Geoffrey Elton, and Carlo Ginzburg, argued that assimilating history into literature threatened to erase the boundary between historical fact and fiction, potentially compromising the historian's ability to refute falsehoods or political propaganda.
+- **The Limits of Representation**: The debate reached a critical juncture in the 1990s around the representation of extreme historical events, particularly the Holocaust. In the volume edited by Saul Friedländer, *Probing the Limits of Representation* (1992), White clarified that rejecting naive positivism does not mean denying historical reality; rather, it highlights that facts alone do not dictate their own narrative emplotment, underscoring the inescapable moral and political responsibility of the historian.
 
 ## Sources
 
 - White, Hayden. *Metahistory: The Historical Imagination in Nineteenth-Century Europe*. Johns Hopkins University Press, 1973.
 - White, Hayden. *The Content of the Form: Narrative Discourse and Historical Representation*. Johns Hopkins University Press, 1987.
-- Ankersmit, F. R. *Narrative Logic: A Semantic Analysis of the Historian's Language*. Martinus Nijhoff, 1983 (a parallel development of White's thesis).
+- Ankersmit, F. R. *Narrative Logic: A Semantic Analysis of the Historian's Language*. Martinus Nijhoff, 1983.
+- Ricoeur, Paul. *Time and Narrative*. Translated by Kathleen McLaughlin and David Pellauer (vols. 1–2) and Kathleen Blamey and David Pellauer (vol. 3), 3 vols. University of Chicago Press, 1984–1988.
+- Friedländer, Saul, ed. *Probing the Limits of Representation: Nazism and the "Final Solution"*. Harvard University Press, 1992.

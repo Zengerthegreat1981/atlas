@@ -14,67 +14,43 @@ cultural_origin: "greek"
 edges: []
 related:
   - id: "sch-greco-roman-historiography", title: "Greco-Roman Historians", type: "school"
-gaps:
-  - "The influence of Thucydides on Islamic source criticism requires a comparative study."
+gaps: []
 ---
 
 # Thucydides: Empiricism and Mathematical Precision in History
 
-**Thucydides** (c. 460–400 BCE), the Athenian from the deme of Alimos, raised history from a narrative art to a discipline grounded in close observation and numerical measurement. His book on the Peloponnesian War (431–404 BCE) is regarded as the first historical text to attempt to **measure military strength in numbers**, to **calculate time spans precisely**, and to **avoid superstition entirely**.
+## Definition
+
+**Thucydides** (c. 460–400 BCE), an Athenian aristocrat from the deme of Halimous and son of Olorus, is credited with developing an empirical method centered on eyewitness verification, secular political causation, and chronological precision. In his unfinished history of the Peloponnesian War (431–404 BCE), Thucydides departed from mythological traditions and the poetic licenses of earlier chroniclers, producing an analytical account intended not as ephemeral entertainment, but as an enduring possession (*ktēma es aiei*).
 
 ## Life and Context
 
-- An Athenian of noble birth, who lived in the age of Pericles and Athens' golden democracy
-- Led a military campaign during the Peloponnesian War (424 BCE) and failed to defend a city on the northern coasts
-- Was exiled from Athens for twenty years, which he spent gathering information about the war from both sides
-- Wrote the history of the war after it had ended (404 BCE), from the position of a witness who lived through its events and an exile who studied them from a distance
+- **Athenian Generalship**: In 424 BCE, Thucydides served as an elected Athenian general (*strategos*) stationed in Thrace. His failure to arrive in time to prevent the Spartan commander Brasidas from capturing the strategic colony of Amphipolis led to his exile from Athens.
+- **Twenty Years of Exile**: Exiled from 424 to 404 BCE, Thucydides gained unique access to the Peloponnesian side of the conflict. This detachment allowed him to collect eyewitness testimonies, cross-examine combatants across the warring factions, and view the war from an analytical, pan-Hellenic vantage point.
+- **Unfinished Chronicle**: His narrative breaks off abruptly in the year 411 BCE (midway through Book VIII), indicating that he died before completing the full account down to the fall of Athens in 404 BCE, an enterprise later continued by Xenophon in the *Hellenica*.
 
-## Method and Principles
+## Methodological Innovations and Empiricism
 
-### 1. The Total Elimination of Myth
-He attacks Herodotus without reservation: "Readers will find that my stories are less entertaining than those of Herodotus, but they are more truthful." Herodotus accepted any strange tale; Thucydides insists on what **can be verified personally** or from highly reliable witnesses.
+### 1. Rejection of Myth and Inherent Rationalism
+Thucydides excluded divine intervention, oracles, and mythological digressions as explanatory factors in historical development. Unlike Herodotus, whose narrative freely accommodated local legends and divine retribution (*nemesis*), Thucydides examined historical outcomes strictly through tangible human agency, military strategy, domestic politics, and psychological motivation.
 
-### 2. Numerical Measurement of Military Forces
-- He calculates the number of ships, soldiers, and provisions with specific figures
-- He does not say "a large army" but says "5,000 soldiers and 120 ships" (or similar figures)
-- This is a very early attempt at quantifying history (quantification)
+### 2. Rigorous Chronology by Winters and Summers
+Rejecting the variable and inconsistent civic calendars of Greek city-states (such as Athenian archonships or Spartan ephors), Thucydides structured his chronicle around a seasonal, annalistic framework divided strictly between summers and winters, establishing a uniform chronological grid.
 
-### 3. Precise Chronology
-He traces years, months, and seasons with precision. He dates events by "the first, second, and third year of the war" rather than by the names of the obscure Athenian magistrates (the archons).
+### 3. Structural Causation: Underlying vs. Immediate Triggers
+In Book I (1.23.6), Thucydides formulated a foundational distinction in political analysis between the immediate grievances (*aitiai*) that precipitated hostilities—such as the regional disputes involving Corcyra and Potidaea—and the truest, underlying cause (*alēthestátē próphasis*): the growth of Athenian power and the fear this instilled in Sparta.
 
-### 4. Explaining Causation through Material Human Motives
-He does not attribute the war to the will of the gods or to fate, but to **the interests of states and fear of growing power**. His opening words:
-> "Athens was growing in power, and Corinth was afraid. Fear led to war."
+### 4. The Speech Policy (*Ta Deonta*)
+Speeches make up a substantial part of Thucydides' text. Addressing their authenticity in Book I (1.22.1), he explicitly acknowledged that verbatim transcription was impossible; instead, he reconstructed speeches adhering to what seemed appropriate to the occasion (*ta deonta*), while keeping as closely as possible to the general purport of what was actually said. These speeches function as sophisticated rhetorical and analytical vehicles designed to expose the underlying motives, moral tensions, and strategic calculations of the belligerents (notably in the Periclean Funeral Oration and the Melian Dialogue).
 
-This is an explicit declaration of a **material explanation of history**, before any Marxist philosopher.
+## Note on Arabic Reception
 
-### 5. Distinguishing the Immediate Cause from the Underlying Cause
-He distinguishes between the "cause of the war" (the dispute over Corcyra) and the "true cause" (fear of Athenian power). This is a distinction that many historians did not appreciate until the eighteenth century.
-
-## Inserted Speeches
-
-His work includes direct speeches attributed to historical figures (Pericles before the Athenian people, and the Melians defending their position before the Athenians). Here arises a sharp question: are these genuine texts, or free reconstructions?
-
-Thucydides answers: "What I could recall accurately I have reported accurately; what I could not recall, I have reconstructed in a way consistent with **what ought to have been said** in those circumstances."
-
-This is a **rare admission of the limits of historical precision**: he does not claim to possess Pericles' actual words, but he tries to reconstruct the idea of his speech.
-
-## Achievements
-
-1. **Raising history to the status of a numerical science:** measuring military and economic strength with numbers
-2. **Separating causal explanation from myth:** history is the outcome of interests, fear, and reason, not the will of the gods
-3. **Chronological precision:** an organized tracking of years and months
-4. **Preserving a diplomatic archive:** texts of treaties and speeches (although he reshaped them)
-
-## Later Criticism
-
-- **Misjudgment of figures:** some of his calculations of troop numbers were probably exaggerated
-- **Invention of speeches:** the speeches he inserts are not genuine texts, although he imagined them with dramatic genius
-- **Bias against democracy:** toward the outbreak of the war, he criticizes the policy of the Athenian people (while he himself was exiled because of them)
+Thucydides' work was not translated into Arabic during the Graeco-Arabic translation movement of the Abbasid era, which focused primarily on philosophical, medical, and mathematical texts. Classical Muslim historiography developed its own critical apparatus independently, notably through *isnad* criticism and transmitter evaluation (*'ilm al-jarh wa-l-ta'dil*).
 
 ## Sources
 
-1. Finley, M. I. *The Greek Historians: The Essence of Herodotus, Thucydides, Xenophon, Polybius*. Viking Press, 1959.
-2. Immerwahr, Henry R. *Form and Thought in Herodotus*. American Philological Association, 1966.
-3. Strassler, Robert B. (ed.). *The Landmark Thucydides*. Free Press, 1996.
-4. Connor, W. Robert. *Thucydides*. Princeton University Press, 1984.
+- Thucydides. *The Peloponnesian War*. Translated by Rex Warner, with an introduction by M. I. Finley. Harmondsworth: Penguin Books, 1972.
+- Hornblower, Simon. *A Commentary on Thucydides*. 3 vols. Oxford: Oxford University Press, 1991–2008.
+- Gomme, A. W., A. Andrewes, and K. J. Dover. *A Historical Commentary on Thucydides*. 5 vols. Oxford: Clarendon Press, 1945–1981.
+- Strassler, Robert B., ed. *The Landmark Thucydides: A Comprehensive Guide to the Peloponnesian War*. New York: Free Press, 1996.
+- Connor, W. Robert. *Thucydides*. Princeton: Princeton University Press, 1984.

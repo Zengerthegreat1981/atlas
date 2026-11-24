@@ -14,30 +14,31 @@ gaps: []
 
 # Cuneiform as Medium of Mesopotamian Historiography
 
-**Cuneiform writing** (from Latin *cuneus*, "wedge") is writing **recorded by pressing a triangular reed into clay**, a medium that **radically shapes** the kind of history that **can be written**. This entry addresses a different question from the one that examines the institution of the royal archive and its political function: here the focus is on the writing medium itself, the clay and the reed, as a material condition that determines in advance the form of the possible historical text, regardless of who wrote it or why it was preserved.
+Cuneiform script—inscribed by pressing a cut reed stylus into moist alluvial clay—served for over three millennia as the primary writing technology of ancient Mesopotamia. Beyond functioning as a passive recording instrument, the physical affordances and material constraints of clay and reed fundamentally shaped the forms, duration, and structure of Mesopotamian historical consciousness and textual transmission.
 
-## Constraints of the Medium
+## Material Constraints of the Clay Tablet
 
-### Physical Effort
-Unlike papyrus and ink (which would come later), **writing on clay is laborious**: it requires precise impressing with a reed cut at a specific angle, and each impression must be decisive, since it cannot be easily erased and corrected as ink on parchment can. The surface is also physically limited: a clay tablet has a certain size that the scribe cannot exceed except by adding new, numbered and sequenced tablets. This means that cuneiform texts tend toward extreme brevity compared with the later Greek narrative tradition (Herodotus and Thucydides), since there is no room for long narrative elaboration on a medium that physically resists the stylus.
+The physical characteristics of the cuneiform tablet (*tuppu*) imposed distinct technical conditions on scribal production:
 
-### Preservation and Storage
-Clay breaks easily unless it has been deliberately or accidentally fired (which in fact preserved the library of Ashurbanipal at Nineveh), so temples and palaces kept multiple copies of important documents, and not every text was preserved by chance. This makes gaps in the chronological record common, with the records reaching us today through archaeological excavation rather than through a continuous editorial transmission as in the Islamic chain-of-transmission tradition.
+- **Labor and Immediacy**: Scribes had to impress wedge-shaped characters (*cunei*) while the clay remained pliable. Because dried clay cannot be erased or overwritten as readily as papyrus, parchment, or paper, composition demanded rigorous planning and decisive execution.
+- **Surface and Sequential Organization**: Individual tablets had physical limits on size and weight. To record extended texts, Mesopotamian scribes developed systematic organizing devices: catch-lines (*reclamantes*) linking the last line of a tablet to the first line of the next, sequence numbers, and colophons providing titles, series names, copyist identities, and quality assurances.
+- **Brevity and Standardization**: The mechanical resistance of the medium favored condensed, formulaic expression over expansive prose narrative, giving Mesopotamian historical texts an annalistic and highly stylized cadence.
 
-## Capabilities of the Medium
+## Historical Genres and Scribal Evolution
 
-Despite these constraints, cuneiform allowed linguistic complexity, from purely numerical symbols to a full language with grammatical rules (Sumerian and then Akkadian), and long records when multiple tablets were sequenced and numbered, as in the Epic of Gilgamesh, and the preservation of fine details such as royal inscriptions recording the king's campaigns year by year in a style that approaches later annalistic form.
+Cuneiform writing originated around 3300–3000 BCE in late Uruk as an administrative technology for recording goods, livestock, and labor allocations. Over successive centuries, this accounting system evolved into a sophisticated medium for literature, law, and historical memory:
 
-## Evolution of the System
+- **Year Names**: In third- and early second-millennium Sumer and Babylonia, years were identified not by abstract cardinal numbers but by significant royal deeds—the construction of a major temple canal, the dedication of a cult statue, or a decisive military campaign. These formulaic year lists served as an important chronological framework in the region.
+- **Royal Inscriptions and Victory Stelae**: From early dynastic monuments such as the Stele of the Vultures (c. 2450 BCE) to Neo-Babylonian foundation deposits, kings commemorated their legitimacy, piety, and military prowess on stone and clay cylinders, prisms, and cones buried within sacred architecture.
+- **King Lists and Chronicles**: Compositions like the *Sumerian King List*, the *Synchronistic History*, and the *Babylonian Chronicles* integrated diverse dynastic traditions into unified chronological schemes, interpreting political hegemony through theological cycles of divine favor and abandonment.
 
-Cuneiform began as a purely numerical system (symbols for grain and wealth in Uruk around 3400 BCE). Personal and place names were then added by phonetic signs, and finally it crystallized into complete religious, literary, and historical texts. This trajectory shows that "historical writing" did not begin as narrative but as administrative accounting that gradually transformed into an instrument of collective memory.
+## Archaeological Preservation versus Manuscript Transmission
 
-## The Medium's Influence on the Type of History
-
-The medium shapes the message: cuneiform produced a concise history recorded year by year without long continuous narrative, while paper and ink later produced an expanded narrative history, and the digital screen has recently produced an instant, richly hyperlinked history. This distinction shows that comparing "how history was written" across civilizations is incomplete without attention to the constraints of the material medium itself, not only to the intentions of the writer or the ideology of the authority sponsoring him.
+Unlike classical Greco-Roman or medieval Islamic historiographical traditions—which survived through continuous scribal recopying across generations on perishable papyrus, parchment, or paper—cuneiform texts survived through physical deposition. Baked clay is impervious to water and decay; even unbaked sun-dried tablets hardened and survived when royal archives (such as the library of Ashurbanipal at Nineveh, or the archives of Ebla and Mari) were destroyed by fire during warfare. Consequently, modern Mesopotamian historiography relies directly on contemporary, unmediated archaeological artifacts rather than on an unbroken manuscript tradition.
 
 ## Sources
 
-- Glassner, Jean-Jacques. *Writing, Reasoning, and the Gods*. Johns Hopkins University Press, 2010.
-- Oppenheim, A. Leo. *Ancient Mesopotamia: Portrait of a Dead Civilization*. University of Chicago Press, 1977.
-- Edzard, Dietz Otto. *Sumerian Grammar*. Brill, 2003.
+- Bottéro, Jean. *Mesopotamia: Writing, Reasoning, and the Gods*. Translated by Zainab Bahrani and Marc Van De Mieroop. Chicago: University of Chicago Press, 1992.
+- Glassner, Jean-Jacques. *Mesopotamian Chronicles*. Edited by Benjamin R. Foster. Atlanta: Society of Biblical Literature, 2004.
+- Oppenheim, A. Leo. *Ancient Mesopotamia: Portrait of a Dead Civilization*. Revised edition. Chicago: University of Chicago Press, 1977.
+- Van De Mieroop, Marc. *Cuneiform Texts and the Writing of History*. London: Routledge, 1999.

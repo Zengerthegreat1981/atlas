@@ -37,9 +37,9 @@ The concept is linked to a parallel critique of the nature of the archive itself
 
 This approach offers an alternative between two poles: the Rankean claim to a complete mirror-like objectivity on the one hand, and absolute relativism that levels all accounts regardless of evidence on the other. Acknowledging positionality does not mean abandoning standards of verification and evidence. Rather, it clarifies the framework within which such verification is practised. Some critics, however, warn that formal "positionality statements" may become an empty ritual procedure that does not actually change research methods, or may paradoxically be used as a tool to absolve the researcher from deeper scrutiny of the power structures within which they work.
 
-## References
+## Sources
 
-- Linda Alcoff, "The Problem of Speaking for Others," *Cultural Critique* 20 (1991–1992).
-- Ann Laura Stoler, *Along the Archival Grain: Epistemic Anxieties and Colonial Common Sense* (Princeton University Press, 2009).
-- Anna Sheftel and Stacey Zembrzycki (eds.), *Oral History Off the Record: Toward an Ethnography of Practice* (Palgrave Macmillan, 2013).
-- Sandra Harding, *Whose Science? Whose Knowledge? Thinking from Women's Lives* (Cornell University Press, 1991).
+- Alcoff, Linda Martín. "The Problem of Speaking for Others." *Cultural Critique*, no. 20 (1991–1992): 5–32.
+- Harding, Sandra. *Whose Science? Whose Knowledge? Thinking from Women's Lives*. Ithaca: Cornell University Press, 1991.
+- Sheftel, Anna, and Stacey Zembrzycki, eds. *Oral History Off the Record: Toward an Ethnography of Practice*. New York: Palgrave Macmillan, 2013.
+- Stoler, Ann Laura. *Along the Archival Grain: Epistemic Anxieties and Colonial Common Sense*. Princeton: Princeton University Press, 2009.

@@ -1,12 +1,21 @@
 {
-  "total_files": 2793,
+  "total_files": 2917,
   "parse_warnings": 0,
   "parse_warning_examples": [],
   "flag_counts": {
-    "edge-target-by-name": 2343,
-    "declared-gaps": 606,
+    "edge-target-by-name": 2430,
+    "pending": 63,
+    "short": 54,
+    "declared-gaps": 398,
+    "placeholder": 32,
+    "no-title": 32,
+    "part-not-explicit": 44,
+    "unclassified": 44,
+    "edge-target-slug-unresolved": 1,
+    "related-unresolved": 36,
+    "slug-mismatch": 2,
     "no-crumb": 1,
-    "duplicate-id-groups": 0
+    "duplicate-id-groups": 2
   },
   "flag_examples": {
     "edge-target-by-name": [
@@ -26,34 +35,172 @@
       "br-computational-linguistics->Computational Linguistics & NLP",
       "br-corpus-linguistics->Corpus Linguistics"
     ],
+    "pending": [
+      "br-aging-gerontology",
+      "br-black-feminist-thought",
+      "br-consumption-sociology",
+      "br-conversation-analysis",
+      "br-cyber-sociology",
+      "br-economic-sociology",
+      "br-feminist-sociology",
+      "br-institutional-sociology",
+      "br-organizational-sociology",
+      "br-political-sociology",
+      "br-public-sociology",
+      "br-sociology-of-education",
+      "br-urban-sociology",
+      "con-agency",
+      "con-content-analysis"
+    ],
+    "short": [
+      "br-aging-gerontology",
+      "br-black-feminist-thought",
+      "br-consumption-sociology",
+      "br-conversation-analysis",
+      "br-cyber-sociology",
+      "br-economic-sociology",
+      "br-feminist-sociology",
+      "br-institutional-sociology",
+      "br-organizational-sociology",
+      "br-political-sociology",
+      "br-public-sociology",
+      "br-sociology-of-education",
+      "br-urban-sociology",
+      "con-bilateral",
+      "con-content-analysis"
+    ],
     "declared-gaps": [
       "br-arabic-dialectology",
-      "br-attachment-theory",
-      "br-classical-psychoanalysis",
       "br-sociolinguistics",
       "con-act-vs-rule-utilitarianism",
       "con-adolescent-depression",
       "con-agent-centered-duties",
-      "con-ahimsa",
       "con-ahliyya-legal-capacity-usul",
-      "con-anamnesis-recollection",
-      "con-anatta-non-self-concept",
       "con-ancient-ethics-greece",
       "con-animal-rights-ethics",
       "con-anti-cult-movement-response",
-      "con-anxiety-existential"
+      "con-aphasiology-classification",
+      "con-arab-feminism",
+      "con-arab-subsidy-state-and-social-contract",
+      "con-assimilation",
+      "con-asymmetric-alliance",
+      "con-autonomy-informed-consent"
+    ],
+    "placeholder": [
+      "con-bilateral",
+      "con-rites-passage",
+      "con-shaman",
+      "con-social-capital",
+      "scl-applied-anthropology",
+      "scl-british-functionalism",
+      "scl-cultural-relativism",
+      "scl-development-anthropology",
+      "scl-digital-anthropology",
+      "scl-disability-anthropology",
+      "scl-economic-anthropology",
+      "scl-feminist-anthropology",
+      "scl-linguistic-anthropology",
+      "scl-medical-anthropology",
+      "scl-political-anthropology"
+    ],
+    "no-title": [
+      "con-bilateral",
+      "con-rites-passage",
+      "con-shaman",
+      "con-social-capital",
+      "scl-applied-anthropology",
+      "scl-british-functionalism",
+      "scl-cultural-relativism",
+      "scl-development-anthropology",
+      "scl-digital-anthropology",
+      "scl-disability-anthropology",
+      "scl-economic-anthropology",
+      "scl-feminist-anthropology",
+      "scl-linguistic-anthropology",
+      "scl-medical-anthropology",
+      "scl-political-anthropology"
+    ],
+    "part-not-explicit": [
+      "con-bilateral",
+      "con-rites-passage",
+      "con-shaman",
+      "con-social-capital",
+      "scl-applied-anthropology",
+      "scl-british-functionalism",
+      "scl-cultural-relativism",
+      "scl-development-anthropology",
+      "scl-digital-anthropology",
+      "scl-disability-anthropology",
+      "scl-economic-anthropology",
+      "scl-feminist-anthropology",
+      "scl-linguistic-anthropology",
+      "scl-medical-anthropology",
+      "scl-political-anthropology"
+    ],
+    "unclassified": [
+      "con-bilateral",
+      "con-rites-passage",
+      "con-shaman",
+      "con-social-capital",
+      "scl-applied-anthropology",
+      "scl-british-functionalism",
+      "scl-cultural-relativism",
+      "scl-development-anthropology",
+      "scl-digital-anthropology",
+      "scl-disability-anthropology",
+      "scl-economic-anthropology",
+      "scl-feminist-anthropology",
+      "scl-linguistic-anthropology",
+      "scl-medical-anthropology",
+      "scl-political-anthropology"
+    ],
+    "edge-target-slug-unresolved": [
+      "sch-annales-social-history-aggregate->historiography-section-18"
+    ],
+    "related-unresolved": [
+      "thk-arjun-appadurai->con-ethnoscapes",
+      "thk-arjun-appadurai->con-global-flows",
+      "thk-bruno-latour->con-actor-network-theory",
+      "thk-bruno-latour->con-translation-semiotics",
+      "thk-donna-haraway->con-situated-knowledge",
+      "thk-donna-haraway->con-cyborg-perspectives",
+      "thk-douglas->thk-leach",
+      "thk-douglas->con-purity-danger",
+      "thk-douglas->con-classification-systems",
+      "thk-douglas->con-symbolism-bodies",
+      "thk-geertz->con-culture-as-text",
+      "thk-geertz->con-thick-description",
+      "thk-geertz->con-symbolic-anthropology",
+      "thk-gluckman->thk-leach",
+      "thk-gluckman->con-ritual-conflict"
+    ],
+    "slug-mismatch": [
+      "thk-kimberlé-crenshaw",
+      "thk-émile-durkheim"
     ],
     "no-crumb": [
       "thk-marilyn-strathern"
     ]
   },
-  "duplicate_ids": {},
+  "duplicate_ids": {
+    "ANT-13044": [
+      "scl-historical-anthropology",
+      "thk-bruno-latour"
+    ],
+    "ANT-13043": [
+      "scl-visual-anthropology",
+      "thk-arjun-appadurai"
+    ]
+  },
   "status_counts": {
-    "review-candidate": 2793
+    "review-candidate": 2821,
+    "draft-pending": 63,
+    "placeholder": 32,
+    "draft-short": 1
   },
   "by_module": {
     "anthropology": {
-      "review-candidate": 449
+      "review-candidate": 455
     },
     "arab-thought": {
       "review-candidate": 114
@@ -65,7 +212,7 @@
       "review-candidate": 127
     },
     "historiography": {
-      "review-candidate": 200
+      "review-candidate": 227
     },
     "legal-theory": {
       "review-candidate": 126
@@ -89,12 +236,18 @@
       "review-candidate": 149
     },
     "sociology": {
-      "review-candidate": 445
+      "draft-pending": 63,
+      "review-candidate": 429
+    },
+    "unclassified": {
+      "placeholder": 32,
+      "draft-short": 1,
+      "review-candidate": 11
     }
   },
   "output_consistency": {
-    "data-en.json nodes": 2793,
-    "source nodes": 2793,
+    "data-en.json nodes": 2917,
+    "source nodes": 2917,
     "missing from output": 0,
     "stale in output (no source)": 0,
     "html lang/dir": "<html lang=\"en\" dir=\"ltr\">"

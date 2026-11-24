@@ -15,31 +15,39 @@ gaps: []
 
 # Historical Interpretation
 
-The analytical process through which the historian moves from **establishing the facts** (what actually happened, according to the available evidence) to **explaining them** (why they happened, what they mean, and how they relate to other events). This is the process that distinguishes historiography from the mere annalistic recording of facts, and at the same time it opens onto the major problems of the philosophy of history concerning the limits of the historian's objectivity.
+Historical interpretation is the analytical and synthetic process whereby the historian moves beyond establishing raw factual data to explain their causal relationships, broader significance, and ideological context. It is interpretation that transforms annals and chronicles—mere chronological enumerations of occurrences—into historical discourse, while simultaneously engaging fundamental philosophical questions concerning evidence, subjectivity, and historical truth.
 
-## The Difference between Facts and Interpretation
+## Facts versus Interpretation
 
-Philosophers of history have traditionally distinguished between two levels: the level of relatively "hard" facts (a person's date of birth, the date of a battle), which can be verified by independent evidence, and the level of interpretation, which involves linking these facts to causal relations and a broader meaning (why did the war break out? What was its long-term effect?). The first level can be resolved relatively by evidence, while the second is the domain of legitimate disagreement among historians, since historians starting from the same facts can reach divergent interpretations depending on their theoretical frameworks (Marxist, liberal, structuralist...) and their research questions.
+Historical philosophy traditionally distinguishes between two levels of inquiry:
 
-## E. H. Carr: "History as a Dialogue between the Present and the Past"
+- **Empirical Facts**: Statements regarding dates, geographical locations, participant identities, and physical occurrences that can be tested and verified by source criticism (for example, that the Battle of Waterloo was fought on June 18, 1815).
+- **Interpretive Synthesis**: Formulations that assign causal weight, motive, thematic meaning, and historical significance to those verified occurrences (for example, whether the battle resulted from tactical blunders, systemic exhaustion, or broader socio-economic shifts).
 
-The British historian E. H. Carr, in his influential book *What Is History?* (1961), put forward a central thesis: historical facts do not "speak for themselves." The historian selects them, arranges them, and gives them significance according to questions he poses from his present position. For Carr, history is "an unending dialogue between the present and the past." This does not mean, in Carr's view, that historical interpretation is purely arbitrary, but that it is subject to methodical discipline (respect for the available evidence, and susceptibility to criticism from other historians), which distinguishes it from free fabrication.
+While empirical facts can be verified or falsified by archival evidence, interpretation is the domain of legitimate debate among historians. Scholars examining the same verified evidence arrive at divergent interpretations according to their methodological paradigms (Marxist, liberal, Annaliste, gender-critical) and the specific questions they pose to the archive.
 
-## Collingwood: Reconstructing Historical Thought
+## Carr and the Hermeneutic Dialogue
 
-In *The Idea of History* (published posthumously in 1946), the British philosopher R. G. Collingwood offered a different conception: that historical interpretation rests on the historian's "re-enactment" (Re-enactment) of the mentality of historical agents and their inner reasons for acting, rather than on the application of general laws as in the natural sciences. This distinguished his view from the positivist tendency that tried to borrow the model of scientific law (as later in Carl Hempel) to explain historical events.
+In his classic work *What Is History?* (1961), E. H. Carr challenged the nineteenth-century positivist view that facts exist independently in the archive waiting to be gathered like fish on a fishmonger's slab. Carr maintained that facts do not speak for themselves; the historian selects which occurrences merit the status of "historical fact" based on contemporary significance. For Carr, history is a continuous dialogue between the historian in the present and the facts of the past.
 
-## The Postmodern Debate
+This perspective converges with modern philosophical hermeneutics:
+- **Wilhelm Dilthey**: Distinguished between natural scientific explanation (*Erklären*) based on external physical laws and human scientific understanding (*Verstehen*) based on comprehending lived inner experience.
+- **Hans-Georg Gadamer**: In *Wahrheit und Methode* (1960), Gadamer argued that historical interpretation is never an act of detached observation, but a "fusion of horizons" (*Horizontverschmelzung*) between the historical text and the interpreter's historical situation.
+- **R. G. Collingwood**: In *The Idea of History* (1946), argued that interpretation consists in re-enacting the rational thought of past actors rather than subsuming events under universal nomological laws.
 
-Historians and philosophers influenced by postmodernism (such as Hayden White and Keith Jenkins) pushed this debate further, questioning whether a strict separation between "event" and "interpretation" is possible at all. Their argument is that the historian's choice of vocabulary and narrative structure constitutes the event itself at the moment of its representation, rather than merely reflecting it. This position provoked sharp debate with empirical historians (such as Richard Evans in *In Defence of History*, 1997), who saw in it a threat to the possibility of distinguishing serious history from fabrication or the outright denial of facts (such as Holocaust denial), insisting that evidence imposes real objective limits on acceptable interpretation however many possible angles of reading there may be.
+## The Narrative Turn and Methodological Boundaries
 
-## Limits of Legitimate Interpretation
+In the late twentieth century, the "linguistic turn" advanced by theorists such as Hayden White (*Metahistory*, 1973) and Keith Jenkins radicalized this debate. They argued that historical interpretation is deeply governed by linguistic conventions, narrative modes of emplotment, and ideological orientations, blurring the line between history and literature.
 
-Methodologists distinguish between legitimate interpretive pluralism (different interpretations that all respect the available evidence but highlight different aspects or weigh different causal factors) and illegitimate distortion (an interpretation that ignores strong contrary evidence or fabricates evidence). The dividing criterion is not the absence of absolute "bias," since most contemporary philosophers of history consider complete neutrality impossible, but the extent to which the interpretation is disciplined by testability and criticism before the professional community of historians.
+Empirical and critical realist historians, notably Richard J. Evans in *In Defence of History* (1997), responded by defending the epistemological integrity of historical practice. Evans argued that while complete neutrality is impossible, the existence of archival evidence places objective limits on legitimate interpretation. Historians recognize a crucial distinction between:
+- **Legitimate Interpretive Pluralism**: Competing accounts that respect verified documentation, engage with opposing data, and offer coherent causal explanations.
+- **Illegitimate Distortion or Falsification**: Representations that suppress verified contradictory records, invent non-existent evidence, or advance demonstrably fraudulent claims (such as politically motivated negationism).
 
 ## Sources
 
 - Carr, E. H. *What Is History?* London: Macmillan, 1961.
 - Collingwood, R. G. *The Idea of History*. Oxford: Clarendon Press, 1946.
-- Hempel, Carl G. "The Function of General Laws in History." *The Journal of Philosophy* 39(2), 1942.
 - Evans, Richard J. *In Defence of History*. London: Granta Books, 1997.
+- Gadamer, Hans-Georg. *Truth and Method*. Translated by Joel Weinsheimer and Donald G. Marshall. 2nd rev. ed. New York: Crossroad, 1989.
+- Hempel, Carl G. "The Function of General Laws in History." *The Journal of Philosophy* 39, no. 2 (1942): 35–48.
+- White, Hayden. *Metahistory: The Historical Imagination in Nineteenth-Century Europe*. Baltimore: Johns Hopkins University Press, 1973.

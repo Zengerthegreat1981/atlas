@@ -1,0 +1,231 @@
+con-anachronism-history: "demonstrated" softened to "argued"; Valla dating of Donation hedged
+con-archival-methodology: Cook/Harris "initiated the archival turn" softened
+con-cuneiform-historiography-medium: removed doubtful transliteration mu-bi-ta; softened "earliest" claim
+con-document-analysis: Mabillon "established" softened
+con-documentary-evidence: "exclusive foundation" softened; direct quotation paraphrased
+con-exceptional-normal-ginzburg: "demonstrated" softened; unverifiable Muir attribution made generic
+con-eyewitness-chronicle: Ibn al-Athir "anguish-filled observations" -> reports; removed "unparalleled"
+con-forgetting-historical-silences: "demonstrated" -> argued; removed odd claims about Western explanations
+con-genealogical-legitimacy: Beaune translator corrected (Susan Ross Huston; Cheyette ed.); Umayyad/Abbasid clan descent fixed; softened overclaims
+con-historical-interpretation: "demonstrated" -> argued; Gadamer translation publisher corrected to Crossroad
+con-historical-objectivity: added Beard 1934 source cited in text
+con-historical-relativism: Collingwood publisher fixed (Clarendon); removed Elton misattribution; "coined" softened
+con-historiographical-consciousness: removed doubtful Körber Public History Weekly source
+con-iftitah-conquests-territorial: Ibn A'tham death date hedged
+con-ijma-consensus-history: removed invented "three approaches" section and doubtful Masud source; softened "never/always"
+con-imperial-ideology-history: "systematically" softened
+con-inscription-documentary-evidence: "decisive"/"indispensable" softened
+con-isnad-transmission-chain: Motzki wrongly labelled "Common Link school"; fixed
+con-khulafa-rashidun-rightly-guided: "Donner has shown" softened
+con-lieu-de-memoire-nora: direct quotation paraphrased; Halbwachs "mentor" softened; unverifiable Winter criticism made generic
+con-memory-history: Lieux de mémoire volume count fixed (seven volumes in three parts)
+con-propaganda-stele: removed unverifiable Sargon stele details (Ishtar prisoners) and Esarhaddon stele claim; softened "exclusively"
+con-social-history-definition: removed unverifiable "social nexus" quotation; softened "most influential"/"decisive" claims
+con-source-authority-credibility: softened claim about Greco-Roman historiography
+con-genealogical-legitimacy: Rosenthal Muqaddimah publisher fixed (Pantheon 1958)
+con-tarikh-general-history: removed al-Tabari from Ibn Khaldun's named targets (unverified)
+con-witness-testimony-antiquity: "hierarchy" softened; Tacitus claim removed (Livy only)
+hst-con-anachronism: "demonstrating" -> arguing; Donation dating hedged
+hst-con-ancient-historiographical-schools: peripeteia (mislabeled) -> ekplexis; removed anachronistic pragmatike historia for Thucydides; softened "strictly"
+hst-con-antiquarianism: softened "undisputed master", Varro-Augustan claim; Suetonius post corrected to imperial secretary
+hst-con-annalistic-tradition: Annales Maximi role softened
+hst-con-apocalyptic-eschatology: Orosius death date hedged (after 418); "demonstrating" softened
+hst-con-authority-authentication: "As demonstrated in Marincola" softened
+hst-con-barbarian-civilized: "has demonstrated" -> argued
+hst-con-biography-history: Suetonius "imperial archivist" corrected; "demonstrated" softened
+hst-con-cause-effect-ancient: softened Thucydides "inaugurated realpolitik", Polybius "most sophisticated", "demonstrating"
+hst-con-chronology-ancient: Timaeus "established" Olympiad reckoning softened; Parian Marble "indispensable" softened
+hst-con-civil-war: Appian "first five books" corrected (five books of the Roman History); Plato/Aristotle "codified" corrected; "demonstrated" softened
+hst-con-commerce-trade: "only occupation worthy" overclaim softened; "demonstrating" softened
+hst-con-comparative-historiography: "demonstrated" softened; Herodotus claim about Greek victory explanation made generic
+hst-con-constitution-political-history: Greek transliteration mikte politeia; "demonstrated" softened
+hst-con-corruption-decline: "the primary" -> "a primary"
+hst-con-dignitas-status: Caesar BC 1.9 Latin quotation corrected; commentarii dating softened; "extinguished" softened
+hst-con-disease-epidemic: Livy 25.26: Hippocrates was Syracusan, Himilco Carthaginian; Antonine Plague claims about Danube garrisons/Cassius Dio softened; Procopius overclaims ('paralyzed') softened; Longrigg date 1993
+hst-con-documentary-evidence: Suetonius office corrected (ab epistulis under Hadrian, not 'archivist'); Livy 8.40 on falsified funeral eulogies not 'forged inscriptions'; Thucydides 'verbatim' softened; unsupported Tacitus claim removed; Woodman publisher Croom Helm
+hst-con-ekphrasis: thorata -> thomata; Woodman publisher Croom Helm
+hst-con-empire-expansion: overclaims softened (revolutionized, decisive, 'demonstrated')
+hst-con-ethnography-classical: Megasthenes/Agatharchides did not accompany Alexander; 'pinnacle' and Tacitus' intent softened
+hst-con-ethnography-language: removed invented interpretation of 2.2 and of 2.154 temple-records claim; silent-trade description fixed; Agr. 21 paraphrase; Harrison page range dropped
+hst-con-eyewitness-participation: Thucydides exile passage is 5.26 not 1.22; Herodotus 'hierarchical' triad softened; Ammianus career corrected (Ursicinus in the East; Julian's Persian campaign)
+hst-con-fortuna-chance: Thucydides examples fixed (Pylos storm, not Naupactus winds/accidental surrender); Polybius 36.17 and Tacitus Ann. 6.22 paraphrases corrected; Woodman publisher
+hst-con-genealogy-dynasty: Muqaddimah: Rosenthal translation is Pantheon 1958, not Princeton
+hst-con-genealogy-dynasty: Suriano title corrected; Fabius Pictor/laudationes claim replaced with Livy 8.40; Baladhuri 'entirely' and Ibn Khaldun nasab overclaim softened
+hst-con-geographical-determinism: Polybius Bk 34 (fragmentary), Strabo 'indispensable', 'demonstrated' and Thucydides 'decisive' overclaims softened
+hst-con-geography-climate-culture: Muqaddimah: Rosenthal translation is Pantheon 1958, not Princeton
+hst-con-geography-climate-culture: Isaac's thesis stated as 'proto-racism' argument, not demonstrated 'environmental racism'; Airs Waters Places 'intellectual skill' is Aristotle's, removed; Pliny paraphrase softened
+hst-con-greek-roman-historiography: Marincola publisher is CUP; Greek 'no archives' claim corrected; Roman historians 'active magistrates' overgeneralization (Livy) fixed; Woodman publisher Croom Helm
+hst-con-herodotean-inquiry: Herodotus overclaims ('established empirical', 'explicit epistemology') softened; Thucydides 1.20-22 targeting Herodotus made non-assertive
+hst-con-hubris-nemesis: Muqaddimah: Rosenthal translation is Pantheon 1958, not Princeton
+hst-con-hubris-nemesis: 'sunan al-ta'rikh' is not a Quranic term (-> sunnat Allah); Nimrod not named in Quran, removed; Polybius not a 'Roman historian'; Ibn Khaldun 'decisive' softened
+hst-con-internal-consistency: Muqaddimah: Rosenthal translation is Pantheon 1958, not Princeton
+hst-con-internal-consistency: Harmodius/Aristogeiton passage corrected (Hippias was the ruling tyrant, Hipparchus killed); Polybius/Callisthenes and Ibn Khaldun Moses-army 'demonstrated' softened; Marincola publisher CUP
+hst-con-isonomia-equality: Livy/Tacitus 'aequitas' contrast was unsupported, replaced with aequa libertas (Livy 2.1); 'demonstrated' softened
+hst-con-legendary-mythological: Muqaddimah: Rosenthal translation is Pantheon 1958, not Princeton
+hst-con-legendary-mythological: garbled isra'iliyyat gloss fixed; al-Mas'udi was a transmitter of legends, not a critical evaluator; Herodotus Io/Europa passage corrected
+hst-con-libertas-freedom: Sallust did not 'demonstrate' Caesar/Pompey manipulating libertas; Tacitus superlative removed; Ash volume is 2012
+hst-con-military-history-ancient: Xenophon/Arrian/'most influential' overclaims fixed; Keegan/Hanson 'demonstrated' reframed; maghazi 'codified' softened
+hst-con-military-superiority: Muqaddimah: Rosenthal translation is Pantheon 1958, not Princeton
+hst-con-military-superiority: Plataea/Polybius 18 details fixed (Pydna not in Bk 18; sarissa 16 cubits not feet); Parker's Military Revolution is early modern, replaced with Harris 1979; Ibn Khaldun paraphrase corrected; 'pinnacle'/'decisive' removed
+hst-con-multiple-attestation: Muqaddimah: Rosenthal translation is Pantheon 1958, not Princeton
+hst-con-multiple-attestation: Arrian's rule corrected (no 'record both'; Aristobulus not a commander); invented Tacitus 'secutus plurimos auctores' formula removed; Ibn Khaldun/Ghazali attribution corrected; Marincola publisher CUP
+hst-con-narrative-techniques-ancient: Wiseman Clio's Cosmetics is 1979; Marincola publisher CUP; Woodman publisher; Calgacus speech claim softened
+hst-con-oral-tradition: Muqaddimah: Rosenthal translation is Pantheon 1958, not Princeton
+hst-con-oral-tradition: Ibn Ishaq did not record 'complete isnads' (removed); Herodotus informants phrasing fixed; Livy 8.40 attribution; overclaims softened
+hst-con-orientalism: 'demonstrated' softened
+hst-con-pax-romana: phrase immensa Romanae pacis maiestas is Pliny NH 27.3, not Velleius; Ando/Woolf (consent/integration) misgrouped with the 'unequal burden' view
+hst-con-periodization-ancient: Momigliano 1966 'Time in Ancient Historiography' is History and Theory Beiheft 6 (vol. 6), not 5(6); Augustine did not 'introduce' six ages
+hst-con-plausibility-testing: Herodotus examples corrected (he reports river-drinking without doubt); Thucydides term anthropeia physis; Polybius Phylarchus is Bk 2; Tacitus/Germanicus rumor reworded
+hst-con-precedent-authority: overclaims ('demonstrated', 'revealed', 'ex post facto') softened
+hst-con-multiple-attestation: Arrian 'established a celebrated model' softened
+hst-con-presentism: Pax Romana/Christ alignment is in Eusebius' wider works, not specifically the Ecclesiastical History
+hst-con-providential-history: Thucydides 'banishing' softened; anthropeia physis; Tacitus Hist. 1.3 attribution fixed; Orosius title form
+hst-con-regression-analysis: Hesiod Heroic age is not a decline; Aristotle claim removed; 'predominantly'/'canonical' softened
+hst-con-religious-history: Eusebius 'established' softened; documentary quotation not 'introduced' (Thucydides quotes treaties)
+hst-con-rhetoric-persuasion: opus oratorium maxime is De Legibus 1.5 not De Oratore 2.36; Dialogus views belong to speakers (Maternus)
+hst-con-selective-narrative: Luce article title corrected; Xenophon omissions reworded (Messene/Megalopolis); Plutarch/Herodotus 'Athenian sympathies' removed
+hst-con-senate-military: Scipio Africanus did not 'submit to accountability' (he refused it in 187 BCE) - removed; Marian reforms nuance
+hst-con-slavery-labor: Thucydides 7.27 does not mention Laurion miners; Silanianum is 10 CE; Wiedemann 1981 is Croom Helm
+hst-con-source-criticism-ancient: overclaims ('radically elevated', 'established the foundation') softened
+hst-con-speeches-historical-narrative: speculative 'avoiding imperial retribution' removed; overclaims softened
+hst-con-succession-dynastic-history: Fornara publisher is University of California Press, not CUP; Tacitus 'inevitably' softened
+hst-con-synchronism: 'presenting ... as providential' not in Herodotus 7.166, softened
+hst-con-textual-transmission: Livy loss-by-epitome causal claim removed; Dionysius/treaties claim removed
+hst-con-thucydidean-empiricism: overclaims softened (foundational model, 'demonstrated'); Hippocratic precision claim softened; Woodman publisher Croom Helm
+hst-con-universal-chronology: overclaims softened
+hst-con-universal-history-ancient: Trogus 'rejected Roman-centered teleology'/four-empire claim unsupported, replaced with Justin's outline
+hst-con-women-history: removed Culham entry (title/pages unverifiable)
+hst-con-virtue-historical-causation: Woodman publisher Croom Helm
+sch-annales-third-generation-mentalities: 'demonstrated' softened
+sch-babylonian-king-list-tradition: Gudea belongs to the Second Dynasty of Lagash; invented scholarly attribution of Lagash omission removed; Liverani translator is Soraia Tabatabai; Hallo & Simpson 2nd ed. 1998; Ishbi-Erra claim hedged
+sch-braudel-longue-duree: 'undisputed leader' removed; Braudel quotation wording aligned with Reynolds translation
+sch-british-marxist-historians-ep-thompson: 'demonstrated'/'pioneering'/'fundamentally' overclaims softened; 'totalitarian scholasticism' not Thompson's phrasing
+sch-cliometrics-quantitative-economic-history: 'demonstrate'/'demonstrating' softened; Phillips 'feudal' removed; 'transcontinental' corrected
+sch-critical-philosophy-of-history: 'demonstrated' softened; Danto example replaced (Waverley example unverifiable); Collingwood description corrected
+sch-environmental-history: Crosby mortality figure hedged; 'biological grist' -> 'portmanteau biota'; ASEH journal history corrected (Environmental Review 1976); Chakrabarty claim narrowed; 'demonstrated/pioneered/decisive' softened
+sch-french-methodical-school: 'first manual' overclaim removed; division of labour between Langlois/Seignobos corrected; unverifiable US adoption claim softened
+sch-greco-roman-historiography: invented 'prosopopoeia' label removed; Polybius period corrected; Shiji comparison corrected
+sch-herodotus-inquiry-method: Herodotus death c. 425 BCE (not 420); 'first' overclaims softened; Egyptian-records quotation removed; 'father of lies' not Plutarch's phrase; Stein/Fehling attribution corrected (Fehling 1971)
+sch-ibn-khaldun-naqd-al-akhbar: Rosenthal Muqaddimah publisher corrected (Pantheon 1958; Princeton 2nd ed. 1967); Mahdi 1957 Allen & Unwin added; 'pioneering/first/demonstrated/proving' softened; Moses 600,000 argument toned down
+sch-isnad-jarh-wa-tadil: dating of annalistic isnad use corrected; sweeping comparative claim softened
+sch-linguistic-turn-metahistory-white: Ricoeur translators corrected (vol. 3 Blamey & Pellauer); Barthes 'reality effect' source added (1968); 'demonstrated' softened
+sch-medieval-monastic-chronicles: Bede 'established' AD era corrected to popularized; unverifiable 'royal envoys' removed
+sch-memory-history-nora-halbwachs: 'demonstrated' softened
+sch-microstoria-italian-micro-history: 'demonstrated/pioneering' softened; evidential paradigm essay dated (1979)
+sch-national-historiography-nation-building: Whig interpretation term is Butterfield's (1931), not Macaulay's; 'demonstrated' softened; Anderson/Gellner/Hobsbawm-Ranger added to Sources (cited in text)
+sch-new-institutional-economic-history: North's institutional affiliations corrected (University of Washington, Seattle; Washington University in St. Louis); Nobel citation wording aligned; Veblen/Commons 'founded' softened; Acemoglu-Robinson 'drawing directly on' softened
+sch-objectivity-debate-carr-elton-novick: 'demonstrated' softened
+sch-oral-history-modern-method: 'indispensable/demonstrated' softened; Oral History Society date; OHA identified correctly; Vansina attribution softened
+sch-plutarch-parallel-biography: Plutarch 'libraries in Rome' claim removed; Arabic reception claims softened (unverified); Publicola description corrected; 'indispensable' softened
+sch-polybius-pragmatic-history: Polybius hostage context corrected (Pydna 168 BCE, not defeat of Achaean League); 'coined' -> 'used'; unverifiable 'Bulman' removed; 'first time/profound/four pillars' softened
+sch-rankean-historical-positivism: Burckhardt removed as Ranke 'student' (replaced by Giesebrecht); 'pioneered/demonstrated' softened
+sch-speculative-philosophy-of-history: Vico Penguin entry corrected (translation of 1744 ed., not '3rd ed. 1999'); 'prototype' softened
+sch-thucydides-source-criticism: Warner translation: Finley introduction belongs to 1972 revised edition
+hst-appian: Book list of Roman History corrected (Egyptian 18-21, Hekatontaetia, Dacian, Arabian); citizenship claim removed; Gabba 'Appian and the Roman History' (UC Press 1976) not verifiable, removed; Gowing title corrected
+hst-arrian: 'rigorous criteria'/'indispensable' softened
+hst-dio-cassius: Greek transliteration of the gold-to-iron passage removed (garbled); 'indispensable/invaluable' softened
+hst-diodorus-siculus: 'oikoumene' mistranslated as brotherhood; unverifiable 'vast libraries' softened; providence/tyche claim reworded; 'most ambitious' overclaim removed
+hst-florus: Florus's life-stage scheme corrected (adolescence = early Republic to conquest of Italy; juventus = Punic wars to Augustus); speculative source list (Lucan, Seneca the Elder) softened
+hst-herodotus: Babylon priests replaced (Egyptian priestly informants); Mesopotamia travel hedged; 'vindicated' softened
+hst-josephus: overclaims softened; commentarii claim attributed to Josephus's own statement; Loeb volume count removed (unverified)
+sch-plutarch-parallel-biography: number of surviving Parallel Lives pairs aligned with hst-plutarch (22 pairs + 4 singles)
+hst-livy: Machiavelli Discourses date corrected (published 1531); 'best medicine' paraphrase removed; 'definitive' softened
+hst-lucan: speculative source (Seneca the Elder) removed; 'indispensable/profoundly' softened
+hst-manetho: 'first indigenous writer' overclaim removed; Herodotus chronology claim corrected; archival-access claim hedged; 'demonstrate/indispensable' softened
+hst-pausanias: Wilamowitz/'desk geographer' attribution replaced (Kalkmann 1886); epigraphy overclaim, 'decisively refuted' softened
+hst-plutarch: Alexander 1 quotation turned into paraphrase (wording not exact); biography 'established' overclaim softened; consular rank attributed to Suda
+hst-polybius: Polybius death c. 118 hedged; US Constitution 'drew upon' softened; 'established standards' softened
+hst-posidonius: Posidonius sources reconstruction softened (Caesar, Sallust, Trogus claims); Sources corrected (vol. I Fragments 1972; vol. III Translation 1999)
+hst-sallust: Woodman 1988 publisher corrected to Croom Helm (and full title); 'established/pioneered monograph' softened; Hobbes claim removed; 'documented corruption' -> allegations; Posidonius influence hedged
+hst-strabo: 'indispensable/invaluable/establishing' softened; typo
+hst-tacitus: Tacitus quaestorship under Titus; 'formulated/established' overclaims softened; Mellor date corrected (2010)
+hst-thucydides: 'universally recognized father of realism', 'definitive', 'unprecedented' softened; Thucydides Trap attributed to Allison
+hst-valerius-maximus: 'premier/invaluable' softened; source list hedged
+hst-velleius-paterculus: Velleius family origin hedged (Capua unverifiable); 'indispensable/invaluable/pioneering' softened
+hst-xenophon: 'first true military memoir', Cyropaedia 'established genre', Alexander studied Anabasis claims softened; exile rescission hedged
+thk-abraham-ibn-daud: Maimonides wrongly said to flee to Castile (he went to Fez/Egypt); 'first chronicle', 'single most important', 'paved the way' softened; Zikhron Divrei Romi description corrected
+thk-ann-laura-stoler: 'demonstrated/pioneered/fundamentally reshaped' softened
+thk-arrian: Onesicritus wrongly placed in Vulgate tradition; 'indispensable/most rigorous/demonstrated' softened
+thk-barbara-rosenwein: 'pioneering/demonstrated/refuting' softened
+thk-abraham-ibn-daud: trailing clause on lack of independent evidence removed (unsupported)
+thk-berossus-historian: Berossus Books 2/3 division corrected (Book 2 to Nabonassar); 'confirmed remarkable fidelity/vindicating' softened; archive list hedged; Haubold et al. editors corrected
+thk-carl-hempel: Hempel emigration corrected (Belgium 1934, US 1937); Muhsin Mahdi attribution on covering-law comparison removed (unverifiable); 'demonstrated' softened
+thk-carlo-ginzburg: 'primary founder' softened
+thk-dobb-sweezy: 'initiated/pioneering/directly paved/definitive' softened
+thk-edward-hallett-carr: Foundations of a Planned Economy volume count corrected; 'unmatched/demonstrating' softened
+thk-einhard: active_start aligned with court service from c.791
+thk-einhard: 'earliest and most influential' softened; Jerusalem protectorate claim reworded to Einhard's report
+thk-einhard: 'paramount exemplar' softened
+thk-emmanuel-le-roy-ladurie: Languedoc study period corrected to 15th c.; 'pioneered/demonstrated' overclaims softened
+thk-eric-hobsbawm: Anderson/Gellner direct-influence claim removed; Industry and Empire publisher fixed; overclaims softened
+thk-fernand-braudel: MSH funding (Ford, not Rockefeller sole) generalised; Wallerstein 'directly inspired' softened
+thk-giambattista-vico: active_start set to 1699 (chair); 'demonstrated/established pioneer' softened
+thk-gregory-of-tours: Book I scope corrected; 'paramount/fundamentally overturned' softened
+thk-hayden-white: removed invented Cambridge-contextualism comparison section; 'primary theorist/demonstrating/broke consensus' softened
+thk-herodotus: invented Herodotus-Mas'udi/Ibn Fadlan 'direct counterpart' removed; Thucydides criticism made implicit; 'demonstrates' softened
+thk-hunayn-ibn-ishaq: removed unverifiable Cooper 2019 source; Ibn Abi Usaybi'a Brill citation corrected; pioneering/earliest/'established foundation' overclaims softened
+thk-jacques-le-goff: Geertz influence removed; 'final work/foremost/pioneering/demonstrated' softened
+thk-joan-wallach-scott: Gender and Politics of History claim about French Revolution corrected; Evidence of Experience added to Sources; 'pioneering/revolutionized/indispensable' softened
+thk-judah-halevi: invented Arabic name form fixed; Genizah/death narrative (storms, death in Egypt) removed as unverifiable; Halevi-vs-Maimonides anachronism fixed; Tisha B'Av liturgy detail corrected; 'Christian-ruled', Seville removed
+thk-leopold-von-ranke: removed unverifiable Boldt source; Burckhardt not a seminar trainee (replaced by Giesebrecht); 1827 work title fixed; overclaims softened
+thk-livy: 'historia magistra vitae' (Cicero's phrase) removed from Livy's preface; 'paramount' softened
+thk-maimonides-rambam: Epistle to Yemen persecutor corrected; Saladin court-physician claim reworded; invented 'foundational transition to critical historical reflection' removed
+thk-maimonides: Saladin court-physician claim reworded; 'first comprehensive/innovative/shaped' softened
+thk-marc-bloch: unverified 'wounded' and quoted definition removed; Islamic-feudalism sentence reworded; overclaims softened
+thk-maurice-halbwachs: removed unverifiable Anthem Companion source; 'primary founder/directly inspired' softened
+thk-natalie-zemon-davis: relocation to Canada corrected (1962, not 1971); death day removed; Finlay critique reworded; On the Lame added; pioneer/demonstrating softened
+thk-nicola-machiavelli: removed invented Machiavelli-Ibn Khaldun parallels section
+thk-peter-novick: removed invented Islamic hadith-criticism parallel section; removed unverifiable Hollinger source; Lipstadt/Wiesel attribution removed
+thk-pierre-nora: Nora death (2 June 2025) recorded; active_end set to 2025; unverifiable Pim den Boer Dutch parallel removed; 'pioneered' softened
+thk-posidonius: Caesar as 'direct' Posidonian user softened; overclaims removed; Edelstein-Kidd/Kidd volume citations corrected
+thk-reinhart-koselleck: 'principal founder/demonstrated' softened
+thk-robert-fogel: social saving figure corrected (<5% of GNP, not <3%); 'pioneered/demonstrated' softened
+thk-sanjay-subrahmanyam: unverified Dan David Prize removed; Writing the Mughal World date 2012; overclaims softened
+thk-seignobos-langlois: removed unverifiable Gérard source; 'definitive manual' and sole-foundation overclaims softened; quotation reworded
+thk-tabari-expansion: 'zenith/irreplaceable/foundational' overclaims softened; dirayah attribution to Ibn Khaldun removed; edition volume count removed
+thk-thucydides-empiricism: removed unsupported 'modern scholars frequently compare' Ibn Khaldun claim; speech share '(a fifth)' removed; overclaims softened
+thk-thucydides: Thucydides 'security dilemma' inspiration claim removed; Ibn Khaldun parallel qualified as modern analogy
+thk-william-dray: unverified Oxford supervisor (Walsh) and appointment dates removed; Ricoeur influence removed; overclaims softened
+thk-yosef-karo: removed invented Karo-Islamic ikhtilaf/Ottoman parallel; 'exhaustive historical surveys' softened
+wrk-along-the-archival-grain-stoler: unverified cross-colonial reception claim and 'demonstrating' softened
+wrk-babyloniaca-berossus: removed invented Berossus-Tabari/Mas'udi parallel section; Berossus life dates softened; Sumerian King List link qualified
+wrk-craft-of-history-bloch: unverifiable block quotations (son's question, 'text begins to speak') paraphrased; 'foundational manifesto/directly shaping' softened; Sorbonne-chair claim corrected
+wrk-epic-of-sundiata-griots: Kouroukan Fouga charter qualified as later oral tradition; archaeological 'substantiated' claim softened
+wrk-histories-herodotus: 7.152 block quotation (translator-specific wording) paraphrased; 'vindicated/Persepolis tablets' overclaim reworded
+wrk-histories-polybius: 'directly inspiring' framers/Madison claim softened; 'providential/pioneered' softened
+wrk-history-and-historians-carr: 'indispensable' softened
+wrk-history-peloponnesian-war-thucydides: 'universally celebrated/conceptual foundation' overclaims softened; Kagan removed as strategic theorist
+wrk-idea-history-collingwood: removed invented Collingwood-Ibn Khaldun comparison section; 'suppressed' manuscripts corrected; overclaims softened
+wrk-mahabharata-itihasa: Mahabharata archaeology/'consensus' overclaims qualified; stage model marked hypothetical
+wrk-montaillou-le-roy-ladurie: Boyle citation corrected (Raftis, Pathways to Medieval Peasants, 1981; not Haliczer 1987); Burke publisher corrected to Polity
+wrk-parallel-lives-plutarch: Jefferson/Hamilton claim removed; North's translation noted as from Amyot; overclaims softened
+wrk-provincializing-europe-chakrabarty: removed unsupported Chakrabarty-Ibn Khaldun/Islamic-studies reception section; overclaims softened
+wrk-social-origins-dictatorship-democracy-moore: invented Moore-Bloch/Mill methodology claim reworded as later methodologists' framing; influence list trimmed; overclaims softened
+wrk-sumerian-king-list-text: SKL dating corrected (Ur III origin per Steinkeller manuscript, Isin extension; not 'consensus Isin'); invented SKL-Tabari/Mas'udi parallel removed; Larsa claim removed
+wrk-that-noble-dream-novick: Beard 'That Noble Dream' was a 1935 essay, not the presidential address; Hexter/Hollinger forum attributions removed; 'definitive' softened
+wrk-the-cheese-and-the-worms-ginzburg: 'foundational masterpiece/demonstrated/establishing' softened
+fld-historical-method-sources: Mabillon/Langlois-Seignobos attribution reworded (De re diplomatica 1681); Collingwood anachronistically 'rejecting' Hempel 1942 fixed (now Dray drawing on Collingwood); Vansina/White/Koselleck overclaims ('established','demonstrating','indispensable') softened
+fld-schools-historical-thought: Herodotus 'histor' -> historie; Thucydides 'established ... realism' softened; Ibn Khaldun 'established/decisive', Ranke 'revolutionized/established seminar', Thompson 'pioneered', Scott/Crosby/Polybius 'demonstrated' softened
+fld-historiography: Ibn Khaldun 'founded/demonstrated/anticipating' softened; Ranke 'established', Thompson 'pioneered', Chakrabarty/Trouillot/Stoler 'demonstrated' softened
+con-chronology-ancient: archaeomagnetism claim softened
+con-intellectual-biography: removed unverifiable Monk 'This Fictitious Brother' Life Writing source; cross-cultural overclaims softened
+con-isnad-verification: Motzki 'pioneered/demonstrating' and 'foundational' softened
+con-oral-history-methods: Thompson 'The Edwardians: The Remaking of British Society'; Oral History Society/journal dating fixed; 'pioneered/foundational/indispensable/demonstrated' softened
+con-provincializing-europe-chakrabarty: invented 'China/Arab world' examples removed; Sarkar attribution removed; periodization impact overclaim softened
+con-shura-consultation-governance: invented 'minority/majority juristic consensus' binding-vs-advisory attributed to al-Mawardi reworded; Ibn Khaldun 'ceremonial shura' and Crone/Madelung attribution softened; Saqifah 'mutual consensus' softened
+con-waqf-endowment-history: unverifiable 30-50% women-founder statistics removed; asset-protection function qualified; 'most comprehensive' softened
+sch-al-tabari-islamic-historiography: 'codified/foundational/indispensable/single most valuable' softened; isnad 'unbroken' qualified; Ibn Khaldun 'diagnosed' reworded
+sch-annales-first-generation: 'revolutionized/laid the foundation/demonstrating/pioneering/foundational' softened
+sch-annales-social-history-aggregate: Le Roy Ladurie Languedoc cycle dated 15th-early 18th c (not 14th-18th); Braudel Engl. trans. 1972-73; 'pioneered/groundbreaking/demonstrate' softened
+sch-internal-external-source-criticism: Bernheim 'first comprehensive taxonomy' and 'achieved' softened; Hitler Diaries wording tightened
+sch-subaltern-studies-historiographical-critique: Guha 'demonstrated/foundational', 'pioneered', 'fundamentally transformed' softened
+thk-geoffrey-elton: invented Islamic naqd al-hadith / Bukhari / Ibn Hajar comparison removed; invented 'as they actually happened' quote removed; 'foundational/foremost/masterminded' softened
+thk-herodotus-inquiry-method: invented Islamic-historiography comparison section removed; 7.152 quotation paraphrased; opsis/gnome/akoe 'explicitly' qualified; unsupported 'Babylonian astronomical diaries' and 'Thucydides accused' removed; Thurii/Egypt dating hedged
+thk-jan-vansina: unverifiable 'Moarabi' title and 'Portuguese colonial records' removed; 'established/fundamentally transformed/directly inspiring/demonstrating/over two millennia' softened
+thk-oswald-spengler: invented Abbasid-as-Magian-autumn sentence removed; Nazi ban/surveillance and 'condemned anti-Semitism' overclaims corrected; influence claims softened
+thk-quentin-skinner: 'universally recognized/devastating/seminal/demonstrated' softened
+thk-dipesh-chakrabarty: reviewed, no change needed
+thk-robin-collingwood: Roman Inscriptions of Britain misattributed as co-authored (published 1965 with R. P. Wright) fixed; Rubicon example (not Collingwood's) replaced by Caesar's assassination; Erklaren/Verstehen labels removed; Dray 'demonstrating' softened
+wrk-complete-history-ibnatir: 'earliest surviving' Mongol account, 'indispensable', invented 'accompanied Zengid campaigns/interviewed participants' and 'foundational' softened; Mongol-lament paraphrase corrected
+wrk-les-lieux-de-memoire-nora: invented 'Comparative Relevance to Arab and Post-Colonial Historiography' (Nakba/Land Day) section removed; unverified Reims/Versailles/Joan of Arc volume assignment removed; Rethinking France clarified as separate Chicago UP partial translation; 'inaugurated memory boom' softened
+wrk-rihla-ibn-battuta: 'plagiarized/copied almost verbatim' toned to documented borrowing; 'incomparable/unique' softened; Waines publisher added (Chicago/Tauris)

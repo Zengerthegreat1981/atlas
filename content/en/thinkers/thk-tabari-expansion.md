@@ -6,8 +6,11 @@ part: "historiography"
 level: "متقدم"
 title: "Al-Tabari and Universal Chronicles"
 en: "Al-Tabari and Universal Chronicles"
+dates: "Abbasid Caliphate · 224–310 AH / 839–923 CE"
 birth_year: 839
 death_year: 923
+active_start: 839
+active_end: 923
 crumb: "Historiography ← Thinkers ← Al-Tabari and Universal Chronicles"
 edges: []
 related: []
@@ -18,41 +21,30 @@ gaps: []
 
 ## Definition
 
-**Abu Ja'far Muhammad ibn Jarir al-Tabari** (c. 839–923 CE) was a Muslim polymath from Tabaristan who combined jurisprudence, Qur'anic exegesis, and history. He is the author of the most famous and comprehensive universal history in medieval Arabic: *The History of the Prophets and Kings* (*Tarikh al-Rusul wa-l-Muluk*), commonly known as "the History of al-Tabari." It is one of the most important primary sources on the history of early Islam, the age of the Companions, the Umayyad period, and the Abbasid period up to his own time.
+**Abu Ja'far Muhammad ibn Jarir al-Tabari** (224–310 AH / 839–923 CE) was an Abbasid scholar, jurist, and Qur'anic commentator born in Amol, Tabaristan. He is celebrated as one of the leading figures of classical Islamic historiography, primarily through his monumental universal chronicle, *Tarikh al-Rusul wa-l-Muluk* (*The History of the Prophets and Kings*), commonly referred to as *Tarikh al-Tabari*. The chronicle represents one of the most extensive surviving annalistic records of early Islamic history, tracing events from creation through the pre-Islamic empires, the life of the Prophet Muhammad, the Rashidun, Umayyad, and Abbasid caliphates down to 302 AH / 915 CE.
 
 ## Historical Context
 
-Al-Tabari lived in Baghdad during the golden age of the Abbasid era, when the movements of compilation, translation, and broad scholarly classification flourished. He gathered a vast body of knowledge through his journeys to Rayy, Iraq, Syria, and Egypt to receive hadith, jurisprudence, and history from numerous teachers, before settling in Baghdad, where he devoted decades of his life to composing his massive encyclopedic works. He adopted the method of the isnad (the chain of transmitters), borrowed from the sciences of prophetic hadith, and applied it to historical narrative.
+Al-Tabari flourished during the high Abbasid era in Baghdad, a period characterized by profound intellectual synthesis, textual compilation, and the formalization of religious and historical sciences. Driven by the traditional pursuit of learning (*talab al-'ilm*), al-Tabari travelled widely across the central Islamic lands, studying under prominent authorities in Rayy, Baghdad, Basra, Kufa, Syria, and Fustat (Cairo), before settling permanently in Baghdad. There he established his own short-lived school of Islamic jurisprudence (the *Jariri* madhhab) and produced voluminous scholarship spanning Qur'anic exegesis (*tafsir*), jurisprudence (*fiqh*), and universal history.
 
-## Main Ideas or Method
+## Method and Historiographical Principles
 
-- **The History of the Prophets and Kings (The History of al-Tabari)**: A vast encyclopedic work that begins with the creation of the world and earlier prophets, then the history of the ancient Persians and Romans, then the Prophet's biography, then the Rashidun caliphate, then the Umayyad and Abbasid periods up to around 915 CE. It is arranged on the annalistic system (year by year), with a systematic chronological precision rare for its time.
-- **The method of historical isnad**: Al-Tabari transmits conflicting accounts of a single event with their complete chains of transmitters, often without deciding which is most reliable, leaving the reader the opportunity to weigh them independently. This method gives his book exceptional documentary value, since it preserves the accounts of early sources that are now lost, were it not for his transmission of them, but it sometimes makes it difficult to extract one decisive account.
-- **Comprehensive collection without exclusion**: Rather than selecting a single "satisfactory" account, al-Tabari tends to absorb as many of the available accounts as possible, even contradictory or strange ones. This reflects a documentary and preservative aim more than a decisive analytical composition in the modern sense.
-- **His parallel Qur'anic exegesis**: Al-Tabari also wrote *The Comprehensive Statement on the Interpretation of the Verses of the Qur'an* (*Jami' al-Bayan 'an Ta'wil Ay al-Qur'an*), the largest and most important exegesis based on transmitted reports (*bi-l-ma'thur*) in the Islamic tradition, using a method similar to collecting isnad-based reports from the Companions and their Successors.
+- **The Annalistic Framework (*Hawliyyat*)**: Al-Tabari organized his post-Hijra narrative year by year, establishing a chronological framework that became a standard architecture for many subsequent medieval Islamic chronicles.
+- **Application of the *Isnad* Method**: Adapting the traditional apparatus of hadith scholarship to historical narrative, al-Tabari systematically cited chains of transmission (*asānīd*, singular *isnād*) for reports. Rather than synthesizing a singular, harmonized account, he recorded multiple, frequently divergent transmissions for a given event, preserving early sources that have otherwise perished (such as works by Abu Mikhnaf, Sayf ibn 'Umar, Ibn Ishaq, and al-Mada'ini).
+- **Documentary Preservation over Subjective Harmonization**: In his famous methodological introduction, al-Tabari explicitly noted that historical knowledge of past nations relies on transmitted report (*khabar*) rather than rational deduction (*'aql*), stating that any report causing discomfort to the reader should be attributed to its transmitters rather than to the compiler.
+- **Exegetical Counterpart**: Al-Tabari's historiographical method paralleled his massive commentary on the Qur'an, *Jami' al-Bayan 'an Ta'wil Ay al-Qur'an*, which equally relied on exhaustive collections of traditional reports (*tafsir bi-l-ma'thur*).
 
-## Major Works or Representatives
+## Major Works and Reception
 
-The *History of al-Tabari* is the principal source on which nearly all later Muslim historians (Ibn al-Athir, Ibn Kathir) relied for the early period. Its complete English translation (the series published by the State University of New York between 1985 and 2007) made it a basic reference for Orientalism and modern Islamic studies worldwide.
+The *Tarikh al-Rusul wa-l-Muluk* became an important benchmark for later universal chronicles in Arabic and Persian, serving as the primary source for historians such as Miskawayh, Ibn al-Athir (*al-Kamil fi al-Tarikh*), and Ibn Kathir (*al-Bidayah wa-l-Nihayah*). It was famously adapted and summarized in Persian by Bal'ami in the tenth century. In modern scholarship, the 39-volume English translation published by the State University of New York Press (1985–2007) made the entirety of al-Tabari's historical corpus accessible to international historiographical research.
 
 ## Connection to the Arab-Islamic Heritage
 
-Al-Tabari's work represents the peak of the early Arab-Islamic historical tradition based on the method of the isnad borrowed from the sciences of hadith. It is a key link between the early oral historical transmission (*maghazi* and *siyar*) and the later written encyclopedic historiography, which reached another peak later with Ibn Khaldun in his systematic theorizing of history.
-
-## Impact and Criticism
-
-Al-Tabari's history is today regarded as the most important primary source for the history of early Islam, despite modern methodological reservations about the reliability of some very early accounts (of the age of the Prophet and the Rashidun caliphate), which were recorded more than a century and a half after the events. Modern historians therefore call for a critical reading of the isnad chains and for comparison with independent sources wherever possible.
-
-## Supplementary Notes
-
-It is estimated that al-Tabari spent decades of his life composing his history and his exegesis together, relying on a wide network of hadith and report transmitters whom he met during his many journeys across the Islamic world at the time. It is also worth noting that al-Tabari was not merely a passive transmitter of reports: he sometimes exercised implicit preference among conflicting accounts through the order in which he presented them or brief comments on them, although his general style remains more inclined toward comprehensive collection than decisive resolution. His method influenced a whole school of later Muslim historians, who later developed a more selective criticism of reports (such as Ibn Khaldun in his *Muqaddimah*, who explicitly criticized some historical reports that were statistically or logically implausible). This makes al-Tabari's history a fundamental starting point for understanding the development of Arab-Islamic historical criticism over the centuries.
-
-The sheer size of al-Tabari's history (eleven volumes in the edition prepared by Muhammad Abu al-Fadl Ibrahim) is also regarded as an indicator of the magnitude of the scholarly writing movement in Abbasid Baghdad. Its complete English translation took the work of a team of dozens of Orientalists over more than two decades, to produce it in thirty-nine volumes.
-
-Al-Tabari's method is also studied today in comparison with contemporary historical methods in other civilizations roughly contemporaneous with him, such as Chinese encyclopedic historiography, in order to highlight the similarities and differences between the great medieval traditions of historical writing and each one's position on the balance between comprehensive documentation and selective critical analysis.
+Al-Tabari's chronicle is a leading example of transmission-based (*riwāyah*) historiography in the Islamic tradition. Later scholars like Ibn Khaldun criticized the uncritical accumulation of improbable reports and called for assessing reports against the nature of human civilization (*'umran*); al-Tabari's work nonetheless remains a basic documentary source for early Islamic political history.
 
 ## Sources
 
-- al-Tabari, Muhammad ibn Jarir. *Tarikh al-Rusul wa-l-Muluk* (*The History of the Prophets and Kings*). Edited by Muhammad Abu al-Fadl Ibrahim, Cairo: Dar al-Ma'arif, 1960–1969.
-- Rosenthal, Franz, trans. *The History of al-Tabari, Volume 1: General Introduction and From the Creation to the Flood*. State University of New York Press, 1989.
-- Robinson, Chase F. *Islamic Historiography*. Cambridge University Press, 2003.
+- al-Tabari, Muhammad ibn Jarir. *Tarikh al-Rusul wa-l-Muluk*. Edited by Muhammad Abu al-Fadl Ibrahim. Cairo: Dar al-Ma'arif, 1960–1969.
+- Rosenthal, Franz, trans. *The History of al-Tabari, Volume 1: General Introduction and From the Creation to the Flood*. Albany: State University of New York Press, 1989.
+- Robinson, Chase F. *Islamic Historiography*. Cambridge: Cambridge University Press, 2003.
+- Humphreys, R. Stephen. *Islamic History: A Framework for Inquiry*. Revised edition. Princeton: Princeton University Press, 1991.

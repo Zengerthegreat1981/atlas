@@ -12,7 +12,7 @@ active_start: -60
 active_end: -30
 edges: []
 related:
-    - id: "hst-polybius", type: "مفكر"
+  - id: "hst-polybius", type: "مفكر"
   - id: "hst-con-universal-history-ancient", type: "مفكر"
   - id: "hst-con-source-criticism-ancient", type: "مفكر"
 gaps: []
@@ -20,40 +20,41 @@ gaps: []
 
 # Diodorus Siculus
 
-Diodorus Siculus undertook the most ambitious universal history of the Hellenistic period, attempting to synthesize all known history from mythological origins to his own time. His comprehensive approach preserved crucial information about periods and events otherwise poorly documented.
+Diodorus Siculus (fl. c. 60–30 BCE), a Sicilian Greek historian from Agyrium (modern Agira), authored the *Bibliotheca historica* (*Historical Library*), an ambitious universal history of the late Hellenistic world. Comprising 40 books written in Greek, his monumental work attempted to synthesize the entire human past—from mythic origins, archaic geography, and non-Greek civilizations down to Julius Caesar's campaigns in Gaul (c. 59 BCE). Conceived as an accessible compendium of world history, Diodorus's compilation preserves valuable excerpts and structural outlines of major Hellenistic and classical historians whose original works are entirely lost.
 
-## Definition and Historical Significance
+## Historical and Intellectual Context
 
-Diodorus Siculus (fl. 60-30 BCE) was a Sicilian Greek historian who undertook one of antiquity's most comprehensive histories—the Bibliotheca historica (Historical Library) in 40 books, covering from mythological times to roughly 60 BCE. His explicit intention was to provide a universal history that synthesized all known historical traditions, from Greek and Roman to Egyptian, Persian, and other cultures. Unlike Polybius's more analytical universal history, Diodorus aimed at comprehensive chronological coverage, attempting to coordinate different peoples' chronologies into a single timeline. He presented himself as a compiler and synthesizer rather than an original analyst, explicitly drawing on earlier historians while attempting to verify and harmonize their accounts.
+Diodorus lived during the turbulent collapse of the late Roman Republic. He traveled extensively through Europe, Asia Minor, and Egypt—residing for considerable time in Alexandria around 60–56 BCE during the 180th Olympiad—where he gathered literary and archival materials. 
 
-## Historical Context
+In Rome, where he resided for many years, he acquired facility in Latin and drew on the resources available there. His intellectual environment was shaped by Stoic ideas of universal kinship, which provided the philosophical rationale for uniting the diverse histories of Greeks, Romans, Egyptians, Assyrians, and Persians into a single, cohesive narrative.
 
-Diodorus lived during the late Hellenistic period as the Roman Republic was expanding into the Greek world. He traveled extensively in Europe and Asia, visiting Egypt where he observed Egyptian civilization and accessed Egyptian sources. This travel gave him direct knowledge of several regions he described, though his coverage of most areas depended on earlier written sources. The intellectual context included the Stoic and Academic philosophical traditions he had encountered, which influenced his periodization schemes and interpretation of causation.
+## Scope, Structure, and Preservation
 
-## Key Contributions and Methodology
+Diodorus divided the *Bibliotheca historica* into three grand thematic sections:
+1. **Books 1 to 6**: Mythic origins, geography, and ethnography of non-Greek and Greek cultures, treating Egypt (Book 1), Mesopotamia, India, Scythia, and Arabia (Book 2), North Africa (Book 3), and Greek mythology (Books 4–6).
+2. **Books 7 to 17**: The historical period from the Trojan War down to the death of Alexander the Great (323 BCE).
+3. **Books 18 to 40**: The Hellenistic world from the Wars of the Diadochi (Alexander's Successors) down to the outbreak of Caesar's Gallic War.
 
-Diodorus's major contribution was the attempt to create a truly universal history integrating multiple cultural traditions. His work preserved significant information from sources now lost—we know about certain Hellenistic events primarily through Diodorus's summary of earlier historians. His mythological sections, while containing fabulous elements, preserved important cultural narratives. His treatment of non-Greek peoples (Egyptians, Persians, Indians) reflected increasing awareness that universal history should include diverse cultures. His explicit acknowledgment of sources and synthesis process influenced how later historians approached compilation.
+While Books 6 to 10 and 21 to 40 survive only in fragmentary extracts preserved in Byzantine anthologies (notably the *Excerpta Constantiniana* and the *Bibliotheca* of Photius), **Books 1 to 5 and Books 11 to 20 survive intact**. Books 11 to 20 constitute our principal surviving continuous narrative for the Classical and Hellenistic Aegean: the Greco-Persian Wars from 480 BCE, the Pentekontaeteia, the Peloponnesian War, the rise of Thebes, Philip II of Macedon, and particularly the Diadoch campaigns from 323 to 302 BCE.
 
-## Theoretical Framework
+## Historiographical Method and Sources
 
-Diodorus believed history should encompass all peoples and times within a unified chronological framework. His periodization attempted to synchronize different peoples' chronologies, though he acknowledged the difficulties and inconsistencies between traditions. He accepted mythological narratives as containing kernels of truth, though he tried to rationalize miraculous elements. His view of causation mixed divine providence with human agency and natural causes. His goal was comprehensiveness and accessibility rather than analytical depth.
+Diodorus operated primarily as a synthesizer and compiler (*syngrapheus*). Rather than claiming independent archival discovery for every region, he drew directly upon the leading authorities of previous generations:
+- For Egyptian religion and history: Hecataeus of Abdera.
+- For Mesopotamian and Persian antiquities: Ctesias of Cnidus.
+- For Classical Greek and 4th-century history: Ephorus of Cyme.
+- For the Diadochi: Hieronymus of Cardia, whose lost eyewitness history of Alexander's successors survives primarily through Diodorus's Books 18–20.
+- For Hellenistic universal history and philosophy: Polybius and Posidonius of Apamea.
 
-## Examples and Case Studies
+To coordinate these disparate accounts into a unified global timeline, Diodorus constructed a synchronistic chronological apparatus matching Greek Olympiads, Athenian eponymous archons, and Roman consular lists year by year. While this scheme occasionally produced chronological misalignments when sources used different calendar systems, it established a coherent chronological framework for ancient world history.
 
-His Egyptian history synthesizes earlier Greek accounts of Egypt while attempting to harmonize Greek and Egyptian chronologies. His account of Alexander's campaigns draws on earlier historians while organizing the material chronologically. His sections on various cultures—Indian, Persian, Libyan—attempted to provide comprehensive coverage of the known world.
+## Critical Assessment and Modern Value
 
-## Contemporary Relevance
-
-Diodorus remains invaluable as a preserving source for ancient history, particularly for the Hellenistic period and events otherwise poorly documented. His attempt at universal history prefigures modern world history. His synthesis of multiple sources illustrates both the possibilities and limitations of compilation as a historical method.
-
-## Limitations and Gaps
-
-Diodorus's reliance on earlier sources meant he perpetuated their errors and limitations. His attempt to coordinate chronologies sometimes created artificial synchronisms. His critical evaluation of sources was often superficial. His mythological material is difficult to distinguish from historical information. The transmission of his text is incomplete; we possess books 1-5 and scattered sections of later books, meaning large portions are lost to us. His work must be supplemented by other sources for accurate historical understanding.
+Nineteenth-century source critics (*Quellenforschung*) often dismissed Diodorus as an uncritical copyist. However, modern scholarship—spearheaded by Kenneth Sacks and Lisa Irene Hau—has recognized Diodorus's deliberate moral, pedagogical, and stylistic agenda. He presented history as a moral enterprise in which virtue (*arete*) tends to be rewarded and impiety punished, with fortune (*tyche*) as a recurring force. Without Diodorus's compilation, modern knowledge of the 4th century BCE, the Hellenistic kingdoms, and the Sicilian slave revolts would be profoundly diminished.
 
 ## Sources
 
-- Marincola, J. (1997). Authority and Tradition in Ancient Historiography. Oxford University Press.
-- Momigliano, A. (1966). Studies in Historiography. Harper & Row.
-- Fornara, C.W. (1983). The Nature of History in Ancient Greece and Rome. University of California Press.
-- Ash, R. (Ed.). (2015). Tacitus. Oxford University Press.
-- Kraus, C.S., & Woodman, A.J. (1997). Latin Historians. Oxford University Press.
+- Diodorus Siculus. *Library of History*. Translated by C. H. Oldfather et al., 12 vols., Loeb Classical Library, Harvard University Press, 1933–1967.
+- Hau, Lisa Irene. *Moral History from Herodotus to Diodorus Siculus*. Edinburgh University Press, 2016.
+- Hornblower, Jane. *Hieronymus of Cardia*. Oxford University Press, 1981.
+- Sacks, Kenneth S. *Diodorus Siculus and the First Century*. Princeton University Press, 1990.

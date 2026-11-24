@@ -14,28 +14,41 @@ gaps: []
 
 # Historical Objectivity
 
-A concept and methodological ideal in the philosophy of history, referring to the possibility of reaching true, unbiased historical knowledge of the past "as it actually happened" (*Wie es eigentlich gewesen*, in the famous formulation of Leopold von Ranke). It is an ideal that has remained the subject of continuous debate among historians as to whether it can be realised at all.
+Historical objectivity is a central methodological ideal and epistemological debate within historiography, concerning whether, and to what degree, historians can achieve truthful, unbiased, and disinterested knowledge of the past independent of their personal, cultural, and ideological standpoints.
 
-## The Foundational Rankean Formulation
+## The Rankean Standard and Positivist Science
 
-In the nineteenth century the German historian Leopold von Ranke (1795–1886) laid the foundation of the "scientific" model of historical objectivity. He called for a rigorous critical method for primary documents, based on comparing multiple sources and verifying their authenticity, with the aim of reaching a description of the past free from the moral or ideological presuppositions that marked earlier historical writing (didactic or overtly nationalist). This model, known as "historical positivism" or the "Rankean school", became the basis on which modern academic historical research methods in archiving and textual editing were built.
+The modern professional standard of historical objectivity was formulated in the nineteenth century by the German historian Leopold von Ranke (1795–1886). In the preface to his *Geschichten der romanischen und germanischen Völker von 1494 bis 1514* (1824), Ranke famously declared that history should not judge the past or instruct the present for the benefit of future ages, but merely show "how it essentially was" (*wie es eigentlich gewesen*).
 
-## Philosophical Critique of the Possibility of Absolute Objectivity
+Ranke's model established historical research as an autonomous, scientifically rigorous academic discipline based on:
+- Disinterested critical analysis of primary archival records.
+- Suppression of moralistic preaching, partisan polemics, and teleological speculation.
+- The institutionalization of the university research seminar (*Seminar*) to train scholars in systematic document evaluation.
 
-From the late nineteenth century onwards, this ideal was subjected to growing criticism from several directions. The philosopher Wilhelm Dilthey showed that the "human sciences" (*Geisteswissenschaften*) differ structurally from the natural sciences, because they require interpretive "understanding" (*Verstehen*) of human motives rather than a purely mechanical causal explanation. Benedetto Croce and R. G. Collingwood argued that every historical writing is necessarily a contemporary reconstruction of the past from the perspective of the writer's present, as Croce's famous formulation puts it: "all history is contemporary history". In the United States, Charles Beard and Carl Becker directly questioned the "myth of objectivity" (the "noble dream"), affirming that the historian's choice of subject, sources and narrative framing inevitably involves interpretive decisions that cannot be separated from his social and political position.
+Throughout the late nineteenth and early twentieth centuries, this model was widely embraced in Europe and North America as the ideal of scientific historiography.
 
-## Objectivity against Relativism and Postmodernism
+## The Relativist Challenge: "That Noble Dream"
 
-The debate reached its peak in the late twentieth century with the rise of postmodern criticism (especially Hayden White), who regarded historical narrative as a literary-rhetorical structure imposed on the past rather than drawn from it neutrally. This raised fears that the entire field might slide into a relativism that levels all historical accounts. In response, historians such as Peter Novick, in his landmark study *That Noble Dream* (1988), produced a critical history of this very debate within the American profession. Others (such as Thomas Haskell and Richard Evans) proposed a middle position distinguishing between "naive objectivity" (a neutral mirror-like reflection of the past) and "methodological discipline" (adherence to standards of verification and evidence, while acknowledging the inevitable bias in framing and selection).
+During the interwar period, American progressive and pragmatist historians began to interrogate the premise of absolute historical objectivity. In his 1931 presidential address to the American Historical Association, Carl Becker proclaimed that historical facts cannot be separated from the observer, describing history as an act of personal memory ("Everyman His Own Historian"). In 1935, Charles A. Beard challenged the Rankean paradigm directly in his essay "That Noble Dream," arguing that no historian can completely shed their social, national, and economic conditioning. For Beard, any act of historical synthesis is an "act of faith" (as in his 1934 address "Written History as an Act of Faith") that necessarily reflects a contemporary perspective.
 
-## The Contemporary Position
+In his comprehensive study *That Noble Dream: The "Objectivity Question" and the American Historical Profession* (1988), Peter Novick traced how the ideal of objectivity shifted across the twentieth century from an unquestioned scientific dogma to a contested professional myth, destabilized by two world wars, political ideologies, and social movements.
 
-Most contemporary historians incline towards a middle position that rejects both the Rankean claim to absolute mirror-like objectivity and the extreme relativism that levels every account regardless of evidence. They accept that the historian cannot fully free himself from his position, but hold that adherence to standards of source criticism and mutual verification among pieces of evidence remains what distinguishes disciplined historical writing from propaganda or myth.
+## Postmodernism and the Defense of Methodological Objectivity
+
+In the late twentieth century, post-structuralist and postmodernist critics, notably Hayden White (*Metahistory*, 1973), mounted an epistemological challenge, arguing that historical narratives are rhetorical and aesthetic artifacts whose emplotment reflects literary genres rather than past reality.
+
+In response, historians such as Thomas L. Haskell and Richard J. Evans reformulated historical objectivity not as passive neutrality, but as **methodological discipline**:
+- **Objectivity versus Neutrality**: In "Objectivity Is Not Neutrality" (1990), Haskell argued that objectivity does not require the historian to be indifferent or value-free. Rather, it demands the intellectual capacity to detach oneself from one's preconceptions, entertain contrary arguments in their strongest form, and submit one's findings to intersubjective verification.
+- **Empirical Constraints**: In *In Defence of History* (1997), Evans maintained that while complete detachment is unattainable, the verified documentary record exerts real, non-negotiable constraints. Objective historical practice is maintained through peer critique, transparent citation, and fidelity to archival evidence.
 
 ## Sources
 
-- Leopold von Ranke, *Geschichten der romanischen und germanischen Völker von 1494 bis 1535* (1824).
-- Peter Novick, *That Noble Dream: The "Objectivity Question" and the American Historical Profession* (Cambridge University Press, 1988).
-- E. H. Carr, *What Is History?* (Macmillan, 1961).
-- Hayden White, *Metahistory: The Historical Imagination in Nineteenth-Century Europe* (Johns Hopkins University Press, 1973).
-- Richard J. Evans, *In Defence of History* (Granta Books, 1997).
+- Beard, Charles A. "That Noble Dream." *The American Historical Review* 41, no. 1 (1935): 74–87.
+- Beard, Charles A. "Written History as an Act of Faith." *The American Historical Review* 39, no. 2 (1934): 219–231.
+- Becker, Carl. "Everyman His Own Historian." *The American Historical Review* 37, no. 2 (1932): 221–236.
+- Carr, E. H. *What Is History?* London: Macmillan, 1961.
+- Evans, Richard J. *In Defence of History*. London: Granta Books, 1997.
+- Haskell, Thomas L. "Objectivity Is Not Neutrality: Rhetoric vs. Practice in Peter Novick's *That Noble Dream*." *History and Theory* 29, no. 2 (1990): 129–157.
+- Novick, Peter. *That Noble Dream: The "Objectivity Question" and the American Historical Profession*. Cambridge: Cambridge University Press, 1988.
+- Ranke, Leopold von. *Geschichten der romanischen und germanischen Völker von 1494 bis 1514*. Leipzig: Reimer, 1824.
+- White, Hayden. *Metahistory: The Historical Imagination in Nineteenth-Century Europe*. Baltimore: Johns Hopkins University Press, 1973.

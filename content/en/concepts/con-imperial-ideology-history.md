@@ -22,7 +22,7 @@ A concept in historiography that studies how empires throughout history employed
 
 ## Historical Models
 
-This phenomenon appeared across many civilisations. Roman ideology framed conquest as the spread of the *Pax Romana* and civilisation; the Chinese ideology of the "Mandate of Heaven" granted the ruling dynasty a cosmic legitimacy conditional on good governance; and the modern European colonial discourse (from the sixteenth century onward) employed the French concept of the *mission civilisatrice* and the English notion of the "white man's burden" to justify domination over Asia, Africa and the Americas as the spreading of progress and Christianity rather than as direct economic exploitation.
+This phenomenon appeared across many civilisations. Roman imperial ideology framed territorial conquest as the spread of the *Pax Romana*, law, and civic order; the Chinese ideology of the "Mandate of Heaven" (*Tianming*) granted the ruling dynasty a cosmic legitimacy conditional on virtuous governance; in the Islamic world, the Abbasids employed messianic *da'wa* narratives to legitimize the transition from Umayyad rule, while later Ottoman court historiography (through official *şehnameci* and *vakanüvis* chronicles) often cast dynastic conquest as the expansion of justice and religious protection; and modern European colonial discourse (from the sixteenth century onward) employed concepts such as the Spanish requirement of evangelization, the French *mission civilisatrice*, and the British notion of the "white man's burden" to justify imperial domination over the Americas, Asia, and Africa as the spreading of progress and civilization rather than economic subjugation.
 
 ## Tools of Imperial Discourse
 
@@ -38,7 +38,7 @@ This analysis faces the difficulty of avoiding the reduction of every imperial t
 
 ## Sources
 
-- Anthony Pagden, *Lords of All the World: Ideologies of Empire in Spain, Britain and France, c.1500–c.1800* (Yale University Press, 1995).
-- Edward Said, *Orientalism* (Pantheon Books, 1978).
-- Nicholas Dirks, *Castes of Mind: Colonialism and the Making of Modern India* (Princeton University Press, 2001).
-- David Cannadine, *Ornamentalism: How the British Saw Their Empire* (Oxford University Press, 2001).
+- Cannadine, David. *Ornamentalism: How the British Saw Their Empire*. Oxford: Oxford University Press, 2001.
+- Dirks, Nicholas B. *Castes of Mind: Colonialism and the Making of Modern India*. Princeton: Princeton University Press, 2001.
+- Pagden, Anthony. *Lords of All the World: Ideologies of Empire in Spain, Britain and France, c. 1500–c. 1800*. New Haven: Yale University Press, 1995.
+- Said, Edward W. *Orientalism*. New York: Pantheon Books, 1978.

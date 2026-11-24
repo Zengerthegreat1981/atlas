@@ -17,37 +17,36 @@ gaps: []
 
 # Selective Narrative and Historical Bias
 
-Ancient historians selected which events and perspectives to emphasize, creating bias in their accounts.
+Selective narrative and historical bias in ancient historiography describe the processes through which ancient historians selected, foregrounded, omitted, or rhetorically framed events, institutions, and individuals according to political convictions, aristocratic values, and cultural prejudices. While ancient theorists acknowledged that impartiality and truth (*aletheia* in Greek; *veritas* in Latin) were the supreme virtues of the historian, historical practice was inherently governed by strict generic selectivity and ideological agendas.
 
-## Definition and Core Concept
+## Generic Selectivity and the Erasure of Subaltern Experience
 
-No history includes everything that happened. Historians necessarily selected what to include, which created bias. Ancient historians emphasized military and political events while excluding economic and social history. They focused on elites while marginalizing lower classes. Selective narrative created systematic distortions.
+Ancient historiography was characterized by an intensely exclusive generic scope. Historical narrative (*historia*) was defined almost entirely as political, military, and diplomatic history (*res gestae*—the deeds of leaders and nations). As a consequence, ancient historians largely ignored everyday economic production, agrarian labor, domestic life, the experiences of women, and the institution of slavery, except when enslaved populations revolted or women influenced dynastic succession.
 
-## Historical Context
+This structural filter was reinforced by the aristocratic social status of ancient authors. Historians such as Thucydides, Xenophon, Polybius, Sallust, and Tacitus were senatorial magistrates, military commanders, or elite statesmen. They wrote for peers who shared their political vocabulary and class assumptions, resulting in narratives that equated the fate of a city or empire with the factional rivalries of its ruling elite.
 
-Development and context of this concept in ancient historiography.
+## Greek Practices: Omission, Partisanship, and Ancient Critique
 
-## Key Applications
+In classical Greece, narrative selection was closely examined by contemporary and later critics. Herodotus composed an expansive, pan-Mediterranean narrative of the Persian Wars, but his treatment of several Greek cities drew sharp censure in antiquity. Plutarch's polemical treatise *On the Malice of Herodotus* (*De malignitate Herodoti*) accused Herodotus of willful misrepresentation, partiality toward certain poleis, and slander against Boeotia and Corinth.
 
-How ancient historians employed this concept.
+Thucydides practiced an exceptionally disciplined and austere selectivity. In the *History of the Peloponnesian War*, Thucydides omitted virtually all references to contemporary Athenian cultural life—including the dramatic festivals of Sophocles and Euripides, the philosophical debates of Socrates, and the monumental construction of the Parthenon. These omissions were deliberate methodological choices intended to construct a pure political and military anatomy of state power.
 
-## Examples
+Xenophon's *Hellenica* provides a striking example of partisan selectivity. An outspoken admirer of Sparta and King Agesilaus II, Xenophon conspicuously suppressed or minimized momentous historical developments that embarrassed Sparta or elevated Thebes, such as the refounding of Messene and the foundation of Megalopolis, which followed Theban intervention after the Battle of Leuctra (371 BCE).
 
-Concrete examples from ancient historical works.
+## Roman Historiography: Factional Ideology and Imperial Reticence
 
-## Contemporary Relevance
+In republican and imperial Rome, historical writing was deeply partisan. Historians viewed internal political conflicts through the lens of senatorial ideology, routinely characterizing popular reform movements (*populares*) as seditious subversions of ancestral order (*mos maiorum*).
 
-Modern scholarly engagement with this concept.
+Tacitus famously declared in the opening of the *Annales* (1.1) his intention to narrate the early Principate *sine ira et studio* ("without anger or prejudice"), castigating earlier historians who wrote either out of servile adulation (*adulatio*) while an emperor lived or bitter resentment (*odium*) after his death. Nevertheless, modern scholarship has highlighted Tacitus's sophisticated narrative selectivity: through selective reporting of court rumors, ominous juxtapositions, and psychological character sketches, Tacitus constructed a profound critique of imperial autocracy that reflected senatorial disillusionment with the Principate.
 
-## Limitations and Critiques
+## Modern Historiographical Reassessment
 
-Known problems and critiques of this approach.
+Modern historiographical criticism treats narrative selectivity not merely as an error to be corrected, but as primary evidence for ancient political culture and intellectual frameworks. Critical reading of ancient texts requires reading against the narrative grain, analyzing silence and exclusion as deliberate authorial strategies that sustained ancient hierarchies and elite consensus.
 
 ## Sources
 
-- Marincola, J. (1997). Authority and Tradition in Ancient Historiography. Oxford University Press.
-- Momigliano, A. (1966). Studies in Historiography. Harper & Row.
-- Fornara, C.W. (1983). The Nature of History in Ancient Greece and Rome. University of California Press.
-- Ash, R. (Ed.). (2015). Tacitus. Oxford University Press.
-- Kraus, C.S., & Woodman, A.J. (1997). Latin Historians. Oxford University Press.
----
+- Fornara, C. W. (1983). *The Nature of History in Ancient Greece and Rome*. University of California Press.
+- Luce, T. J. (1989). "Ancient Views on the Causes of Bias in Historical Writing." *Classical Philology*, 84(1), 16–31.
+- Marincola, J. (1997). *Authority and Tradition in Ancient Historiography*. Cambridge University Press.
+- Pitcher, L. (2009). *Writing Ancient History*. I.B. Tauris.
+- Woodman, A. J. (1988). *Rhetoric in Classical Historiography: Four Studies*. Croom Helm.

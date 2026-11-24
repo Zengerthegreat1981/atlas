@@ -24,35 +24,56 @@ related:
 - id: "con-covering-law-model-hempel", title: "Covering Law Model (Hempel)", type: "مفهوم"
 - id: "sch-speculative-philosophy-of-history", title: "Speculative Philosophy of History (Vico, Hegel, Marx, Toynbee, Spengler)", type: "مدرسة"
 - id: "sch-objectivity-debate-carr-elton-novick", title: "The Question of Objectivity and Interpretation (Carr, Elton, Novick)", type: "مدرسة"
-gaps:
-  - "**No duplication, 2026-09-14:** `thk-dilthey` already exists with his full philosophical biography (hermeneutics, human sciences). This file does not repeat it, but documents specifically his position in the debate on explaining history versus understanding it (Erklären/Verstehen), a particular angle of his broader project."
-  - "**Update 2026-09-21:** `thk-robin-collingwood`, `thk-carl-hempel`, and `thk-william-dray` have been created."
-  - "**Explicitly marked distinction from the question of objectivity:** this file examines the question of the **nature of historical explanation itself** (is it a scientific causal explanation or a special interpretive understanding?), unlike the question of **objectivity and bias** treated in the next entry (Carr, Elton, Novick). The two questions are distinct, although they intersect."
+gaps: []
 ---
 
 # Critical Philosophy of History (Dilthey, Collingwood, Dray, Hempel)
 
-Unlike speculative philosophy of history, which asks "what is the meaning of history as a whole?", critical (or "analytical") philosophy of history concerns a narrower and more specific epistemological question: **What is the nature of historical explanation itself? Does it logically resemble explanation in the natural sciences, or does it differ from it fundamentally?**
+Critical (or analytical) philosophy of history is the branch of philosophical inquiry that examines the epistemological, conceptual, and logical foundations of historical knowledge. Unlike speculative philosophy of history—which seeks to uncover the grand metaphysical pattern, meaning, or teleological goal of the historical process as a whole (as in Vico, Hegel, Marx, or Toynbee)—critical philosophy of history investigates the nature of historical inquiry itself: How do historians know the past? What constitutes a valid historical explanation? Does historical understanding logically mirror explanation in the natural sciences, or does it possess an autonomous epistemology?
 
-## Dilthey: Understanding versus Explanation
+The canonical distinction between "speculative" and "critical" philosophy of history was formulated systematically by British philosopher W. H. Walsh in his foundational study, *An Introduction to Philosophy of History* (1951).
 
-In his project to establish a "critique of historical reason" (on the model of Kant's critique of pure reason), **Wilhelm Dilthey** distinguished between **causal explanation** (*Erklären*), suited to the natural sciences (where we explain a phenomenon by reducing it to a general causal law), and **interpretive understanding** (*Verstehen*), suited to the human and historical sciences (where we "understand" the act of another human being by recovering its intention and inner meaning from within, rather than reducing it to an external law).
+## Dilthey and the Hermeneutic Tradition: *Verstehen* versus *Erklären*
 
-## Collingwood and the Re-enactment of Past Thought
+In his effort to construct a "critique of historical reason" modeled after Immanuel Kant, the German philosopher Wilhelm Dilthey (1833–1911) sought to establish the philosophical autonomy of the human sciences (*Geisteswissenschaften*) against nineteenth-century positivism. In *Introduction to the Human Sciences* (*Einleitung in die Geisteswissenschaften*, 1883), Dilthey articulated a fundamental epistemological divide:
+- **Causal Explanation (*Erklären*):** Characteristic of the natural sciences, in which observable physical phenomena are explained by subsuming them under universal, deterministic causal laws.
+- **Interpretive Understanding (*Verstehen*):** Characteristic of historical and cultural sciences, in which the historian comprehends human actions from within by interpreting the inner meaning, intentionality, and lived experience (*Erlebnis*) of human agents expressed through cultural artifacts and texts.
 
-The British philosopher **R. G. Collingwood**, in *The Idea of History* (published posthumously in 1946), develops a radical thesis: understanding a historical act (such as Julius Caesar's decision to cross the Rubicon) requires the historian to **re-enact the thought that drove the agent to act** within his own mind, rather than merely describing the observable external behaviour. For Collingwood, history is not a science of external "events" but of the "ideas" lying behind them, and it is known by re-thinking those ideas (Re-enactment), not by observing them from outside.
+This hermeneutic position was supported by Southwest German Neo-Kantians Wilhelm Windelband and Heinrich Rickert, who distinguished between "nomothetic" sciences (seeking universal laws, like physics) and "idiographic" sciences (describing particular, non-repeatable historical events, like history).
 
-## Hempel's Covering-Law Model: The Positivist Reply
+## Collingwood and the Doctrine of Re-Enactment
 
-The positivist philosopher **Carl Hempel**, in his article "The Function of General Laws in History" (1942), responds with a diametrically opposite thesis: any valid historical explanation, whether we like it or not, implicitly requires a **general law** (a covering law) that links causes to effects, exactly as in natural scientific explanation. For Hempel, the apparent difference between history and physics is a difference in the clarity of the formulation of the law, not in the logic of explanation itself.
+In Britain, philosopher and historian of Roman Britain R. G. Collingwood (1889–1943) developed an idealist epistemology of historical knowledge in *The Idea of History* (published posthumously in 1946). Collingwood argued that historical events consist of two inseparable dimensions:
+1. The **outside** of an event (its observable physical manifestation, such as Caesar crossing the river Rubicon);
+2. The **inside** of an event (the thought, purpose, and deliberation of the historical agent that prompted the action).
 
-## William Dray and the Middle Position
+For Collingwood, natural scientists observe external events, but historians seek the inside of events. Because historical acts are expressions of human thought, the only way a historian can understand a past action is by **re-enacting** (*re-enactment*) the agent's thought within the historian's own critical mind. Consequently, Collingwood famously declared that "all history is the history of thought."
 
-In *Laws and Explanation in History* (1957), **William Dray** attempts an intermediate position. He rejects Hempel's strict thesis (that every historical explanation implies a general law, explicitly or implicitly), and proposes in its place "rational explanation" (Rational Explanation): explaining the action of a historical agent by showing that it was reasonable given his beliefs and goals in his context, without the need for a general law that covers every similar case.
+## The Positivist Challenge: Hempel's Covering-Law Model
+
+In 1942, the German-American logical empiricist Carl G. Hempel (1905–1997) mounted a direct challenge to the hermeneutic and idealist traditions in his landmark paper, "The Function of General Laws in History." Hempel argued that all genuine scientific explanation conforms to a single deductive logic: the Deductive-Nomological (D-N) or **Covering-Law Model**.
+
+According to Hempel, to explain any event (historical or physical) requires showing that the event's occurrence could be logically deduced from two premises:
+1. A set of specific antecedent conditions (*C₁*, *C₂*, ...);
+2. At least one universal empirical law or general regularity (*L₁*, *L₂*, ...) that connects those conditions to the observed outcome.
+
+For Hempel, historical explanations that omit explicit general laws are not a fundamentally different category of knowledge; they are merely incomplete "explanation sketches" that implicitly rely on common-sense psychological or sociological generalizations.
+
+## William Dray and Rational Explanation
+
+The covering-law model provoked widespread philosophical resistance from practicing historians and analytical philosophers. In *Laws and Explanation in History* (1957), Canadian philosopher William H. Dray (1921–2009) argued that historical explanations rarely, if ever, invoke universal deterministic laws, nor do they require them to be valid.
+
+Dray proposed the alternative concept of **"rational explanation"**: explaining a historical action involves showing that the action was appropriate, intelligible, or reasonable from the perspective of the agent, given the agent's specific beliefs, goals, and situational context. Historical understanding is therefore normative and reconstructive, demonstrating *why* an action made sense to the actor, rather than proving that the action was necessitated by a universal covering law.
+
+## Narrative and Epistemological Synthesis
+
+By the mid-1960s, philosophers such as Arthur Danto (*Analytical Philosophy of History*, 1965) shifted attention toward the logic of historical narrative. Danto argued that historical descriptions rely on "narrative sentences" that explain past events by linking them to later outcomes unavailable to the original actors themselves (e.g., "Aristarchus anticipated Copernicus"). Through these debates, critical philosophy of history argued that historical reasoning possesses its own rigorous logic, independent of both speculative metaphysics and natural-scientific reductionism.
 
 ## Sources
 
-- Dilthey, Wilhelm. *Introduction to the Human Sciences*. Translated by Ramon J. Betanzos, Wayne State University Press, 1988 (German original, *Einleitung in die Geisteswissenschaften*, 1883).
 - Collingwood, R. G. *The Idea of History*. Oxford University Press, 1946.
-- Hempel, Carl G. "The Function of General Laws in History." *The Journal of Philosophy*, vol. 39, no. 2, 1942, pp. 35–48.
+- Danto, Arthur C. *Analytical Philosophy of History*. Cambridge University Press, 1965.
+- Dilthey, Wilhelm. *Introduction to the Human Sciences*. Translated by Ramon J. Betanzos. Wayne State University Press, 1988 (German original 1883).
 - Dray, William H. *Laws and Explanation in History*. Oxford University Press, 1957.
+- Hempel, Carl G. "The Function of General Laws in History." *The Journal of Philosophy*, vol. 39, no. 2, 1942, pp. 35–48.
+- Walsh, W. H. *An Introduction to Philosophy of History*. Hutchinson's University Library, 1951.

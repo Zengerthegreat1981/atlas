@@ -19,52 +19,40 @@ related:
 - id: "sch-annales-third-generation-mentalities", title: "The Third Generation and the History of Mentalities (Le Goff, Duby, Chartier)", type: "مدرسة"
 - id: "thk-jacques-le-goff", title: "Jacques Le Goff", type: "مفكر"
 - id: "sch-microstoria-italian-micro-history", title: "Microhistory (Microstoria: Ginzburg and Levi)", type: "مدرسة"
-gaps:
-  - "His later work on climate history, *Histoire du climat depuis l'an mil* (1967), has not yet been examined in detail beyond the general mention here; it is considered an early precedent for environmental climate history."
+gaps: []
 ---
 
 # Emmanuel Le Roy Ladurie
 
-A French historian and professor at the Collège de France, who combined the quantitative demographic methods of the *Annales* school with a sensitivity to microhistory in reconstructing the entire life of a farming village.
+Emmanuel Le Roy Ladurie (1929–2023) was a French historian, professor at the Collège de France, and director of the Bibliothèque nationale de France. A prominent figure of the third generation of the *Annales* school, he synthesized the rigorous quantitative methods of economic and demographic history with the microhistorical and anthropological study of popular mentalities, and contributed to the development of historical climatology.
 
-## What He Gave
+## Major Works and Intellectual Contributions
 
-- ***Montaillou: An Occitan Village from 1294 to 1324*** *(Montaillou, 1975)*: His most famous work, which reconstructs the daily life and religious beliefs (Cathar heresy) of a small French village in the Pyrenees. It draws on the inquisition interrogation records of Jacques Fournier, Bishop of Pamiers, an exceptionally rich source for the voices of the peasants themselves, in their language and most intimate beliefs. Methodologically, the work parallels Italian microhistory (Ginzburg), although it preceded it by one year.
-- ***The Peasants of Languedoc*** *(Les Paysans de Languedoc, 1966)*: His massive doctoral thesis, which applies quantitative demographic and economic methods to the history of a French region over three centuries, combining Braudelian statistical precision with attention to the structures of everyday peasant life.
-- ***History of Climate since the Year 1000*** *(Histoire du climat depuis l'an mil, 1967)*: A pioneering work that uses unconventional evidence (grape harvest dates, glacier records) to reconstruct the European climate, an early precedent for the contemporary field of environmental climate history.
+### *The Peasants of Languedoc* (1966)
+Le Roy Ladurie's monumental doctoral thesis, *Les Paysans de Languedoc*, integrated the *longue durée* structural model of Fernand Braudel with Ernest Labrousse's serial quantitative methods. Spanning the fifteenth through the early eighteenth centuries, the study examined the demographic cycles, agricultural productivity, land-tenure patterns, and religious rebellions of rural Languedoc. Le Roy Ladurie identified a long Malthusian cycle, showing how demographic expansion repeatedly outstripped agricultural yields, leading to recurring subsistence crises and peasant uprisings.
 
-## His Place within the School
+### *Montaillou* and Anthropological Microhistory
+His international breakthrough came with *Montaillou: An Occitan Village from 1294 to 1324* (*Montaillou, village occitan de 1294 à 1324*, 1975). The book reconstructed the material, social, and spiritual life of a small Pyrenean mountain community harboring Cathar (Albigensian) heresy. Rather than relying on official theological tracts, Le Roy Ladurie drew directly on the Latin registers of the Inquisition court of Jacques Fournier, Bishop of Pamiers (later Pope Benedict XII). By mining the interrogations of local villagers, he examined peasant mentalities from within: conceptions of time, death, gender relations, witchcraft, the hearth (*domus*), and friendship. Methodologically, *Montaillou* closely converged with Italian microhistory (*microstoria*), appearing one year prior to Carlo Ginzburg's *The Cheese and the Worms*.
 
-Le Roy Ladurie is an example of the flexibility of the *Annales* approach in accommodating multiple scales, from broad quantitative demographic analysis to the intimate microhistorical reconstruction of a single village, within one coherent intellectual project.
+### Climate History
+Le Roy Ladurie helped establish the historical study of climate with *Times of Feast, Times of Famine: A History of Climate Since the Year 1000* (*Histoire du climat depuis l'an mil*, 1967). Drawing on non-traditional proxy data—including dates of vineyard grape harvests (*bans de vendange*), tree-ring records (dendrochronology), and administrative documents recording the advances and retreats of Alpine glaciers—he argued that human history unfolded against shifting climatic fluctuations. His study systematically reconstructed the Medieval Warm Period and the Little Ice Age, advocating a rigorous "history of climate without man" to establish ecological baselines before analyzing societal vulnerabilities.
+
+## Institutional Career and Methodological Debates
+
+Trained at the École Normale Supérieure, Le Roy Ladurie held the chair of History of Modern Civilization at the Collège de France (1973–1999) and served as general administrator of the Bibliothèque nationale de France (1987–1994). As co-director of the journal *Annales*, he facilitated the school's shift from macroeconomic serial history toward cultural anthropology.
+
+His use of inquisitorial records in *Montaillou* generated notable historiographical debate. Scholars such as Leonard Boyle ("Montaillou Revisited: Mentalité and Methodology", 1981) argued that Le Roy Ladurie sometimes blurred the line between the authentic voices of Occitan peasants and the structured, formulaic Latin legal transcriptions produced by Fournier's scribes under coercive judicial conditions. Nonetheless, *Montaillou* remains celebrated for showing how repressive legal archives can be creatively decoded to illuminate subaltern social mentalities.
 
 ## Major Works
 
-- *The Peasants of Languedoc* (*Les Paysans de Languedoc*, 1966).
-- *History of Climate since the Year 1000* (*Histoire du climat depuis l'an mil*, 1967).
-- *Montaillou: An Occitan Village from 1294 to 1324* (*Montaillou*, 1975).
-
-## Academic and Institutional Career
-
-Le Roy Ladurie directed the Bibliothèque nationale de France between 1987 and 1994. Alongside his long professorship at the Collège de France, where he held the chair of "History of Modern Civilisation", he became one of the most prominent historians of his generation in the French public sphere, combining rigorous academic research with writing aimed at a wide readership. In his early training he was influenced by Fernand Braudel and Ernest Labrousse, and he absorbed the tools of quantitative serial history before moving to the qualitative anthropological sensibility that characterised the third generation of the *Annales* school, alongside Jacques Le Goff.
-
-## The Method and Debate of *Montaillou*
-
-In *Montaillou*, Le Roy Ladurie drew on the inquisitorial interrogations conducted by Bishop Jacques Fournier (later Pope Benedict XII) between 1318 and 1325 against villagers suspected of Cathar heresy. He thus turned a document that was essentially repressive into an exceptional source for reconstructing the intimate life of the peasants: their sexual and family relations, their concepts of the body, death and time, and their networks of kinship and neighbourliness. This method provoked methodological debate. Historians such as Laurent criticised his use of statements originally extracted under coercion and the threat of burning, asking to what extent these testimonies reflect the real voice of the peasants rather than the expectations of the investigators themselves. Nevertheless, the work continues to be taught as a pioneering model of the creative use of a repressive judicial source for purposes opposite to its original one.
-
-## Influence and Legacy
-
-Le Roy Ladurie had a direct influence on the flourishing of "microhistory" as a global field. *Montaillou* appeared one year before Carlo Ginzburg's Italian work *The Cheese and the Worms* (*Il formaggio e i vermi*, 1976) on the heretical miller Menocchio, and the two projects converged in method (using inquisition records to reconstruct a popular mental world), despite their independent research paths. Le Roy Ladurie's legacy has also extended to the contemporary field of environmental climate history, which today draws on his pioneering method of using non-textual evidence (agricultural records, tree-ring growth) to reconstruct long-term climate history that intersects with current questions of environmental history about climate change.
-
-## Writing Style and Literary Standing
-
-Le Roy Ladurie's style is distinguished by a rare narrative power among academic historians. In *Montaillou* he transformed dry archival material (interrogation records) into a lively narrative that reconstructs peasant figures with their own voices, beliefs and fears (such as the shepherd Pierre Maury, who moved between France and Catalonia to escape persecution). This made the book one of the best-selling academic history works ever published in France. It has been translated into dozens of languages and read widely outside academic circles, which is rare for a specialised academic work of such methodological depth.
-
-## His Standing Among the *Annales* Historians
-
-Together with Jacques Le Goff, Le Roy Ladurie represents the third generation of the *Annales* school, which moved the school from its structural, quantitative focus (Braudel, Labrousse, Chaunu) towards a qualitative cultural-anthropological sensitivity. He did not completely abandon the quantitative tools he had been trained in at the start of his career, but combined the two scales within a single coherent intellectual project. This reflects the flexibility of the French school and its capacity for renewal across successive generations without a radical break from its founding heritage.
+- *The Peasants of Languedoc* (*Les Paysans de Languedoc*, 1966; English translation 1974).
+- *Times of Feast, Times of Famine: A History of Climate Since the Year 1000* (*Histoire du climat depuis l'an mil*, 1967; English translation 1971).
+- *Montaillou: The Promised Land of Error* (*Montaillou, village occitan*, 1975; English translation 1978).
+- *Carnival in Romans* (*Le Carnaval de Romans*, 1979; English translation 1979).
 
 ## Sources
 
-- Le Roy Ladurie, Emmanuel. *Montaillou: The Promised Land of Error*. Translated by Barbara Bray, George Braziller, 1978.
-- Le Roy Ladurie, Emmanuel. *Times of Feast, Times of Famine: A History of Climate Since the Year 1000*. Translated by Barbara Bray, Doubleday, 1971.
+- Le Roy Ladurie, Emmanuel. *Montaillou: The Promised Land of Error*. Translated by Barbara Bray. George Braziller, 1978.
+- Le Roy Ladurie, Emmanuel. *Times of Feast, Times of Famine: A History of Climate Since the Year 1000*. Translated by Barbara Bray. Doubleday, 1971.
+- Boyle, Leonard E. "Montaillou Revisited: Mentalité and Methodology." In J. A. Raftis, ed., *Pathways to Medieval Peasants*. Pontifical Institute of Mediaeval Studies, 1981, pp. 119–140.
 - Burke, Peter. *The French Historical Revolution: The Annales School, 1929–2014*. 2nd ed., Polity Press, 2015.

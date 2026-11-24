@@ -18,9 +18,7 @@ edges:
 - rel: "belongs_to", target: "Pragmatic History and Causal Explanation", target_type: "مدرسة"
 related:
 - id: "sch-polybius-pragmatic-history", title: "Pragmatic History and Causal Explanation", type: "مدرسة"
-gaps:
-  - "Plutarch explicitly states that he is not a historian in the precise sense, but a **writer of moral biographies**, seeking **character traits and virtue** through stories and examples. The distinction between him and 'scientific' historiography is real and historical, but his influence on later historiography was **profound**."
-  - "There is no separate entry for Plutarch apart from `thk-plutarch`."
+gaps: []
 ---
 
 # Plutarch's Parallel Lives
@@ -29,7 +27,7 @@ gaps:
 
 ## Structure and Method of the Work
 
-The *Parallel Lives* consist of some twenty-three pairs (and four single lives), in which Plutarch pairs a Greek statesman with a Roman counterpart — Alexander the Great with Julius Caesar, Demosthenes with Cicero, Theseus with Romulus. He usually concludes each pair with an explicit comparison (*synkrisis*) in which he weighs the virtues and vices of the two men. The stated purpose is not to record events for their own sake, but to draw **moral and political lessons** from the life of the individual, treating individual action as a mirror of character.
+The *Parallel Lives* consist of twenty-two surviving pairs (a twenty-third pair is lost) plus four single lives, in which Plutarch pairs a Greek statesman with a Roman counterpart — Alexander the Great with Julius Caesar, Demosthenes with Cicero, Theseus with Romulus. He usually concludes each pair with an explicit comparison (*synkrisis*) in which he weighs the virtues and vices of the two men. The stated purpose is not to record events for their own sake, but to draw **moral and political lessons** from the life of the individual, treating individual action as a mirror of character.
 
 ## Moral Biography, Not Objective History
 
@@ -41,23 +39,23 @@ Through the structure of the "parallel pair", Plutarch established an influentia
 
 ## Impact and Criticism
 
-Through its Latin translations and then its French (Jacques Amyot, sixteenth century) and English (Thomas North) versions, the *Parallel Lives* remained one of the most influential classical texts in European culture until the nineteenth century. However, modern historians caution that Plutarch's reliance on late or secondary sources at times, and his tendency to justify the moral plot at the expense of chronological precision, require a critical approach to him as a purely historical source, although he remains indispensable for understanding many figures of the classical age.
+Through its Latin translations and then its French (Jacques Amyot, sixteenth century) and English (Thomas North) versions, the *Parallel Lives* remained one of the most influential classical texts in European culture until the nineteenth century. However, modern historians caution that Plutarch's reliance on late or secondary sources at times, and his tendency to justify the moral plot at the expense of chronological precision, require a critical approach to him as a purely historical source, although he remains valuable for understanding many figures of the classical age.
 
 ## Examples from the Lives
 
-Plutarch's method is clearly visible in the pair Solon–Publicola, where he compares the Athenian lawgiver with the founder of the Roman Republic to draw lessons in legislative wisdom and the moderation of power. In the pair Demetrius–Antony, he uses the lives of two commanders who ended in defeat and decline (due to luxury and passion in the case of Antony with Cleopatra) to offer an explicit moral lesson on the dangers of losing self-control among those in power. This pattern of deliberately choosing contrasting or similar pairs reveals that Plutarch planned the structure of his work as a whole as an integrated educational project addressed to the Greco-Roman political elite of his age, rather than a mere collection of separate lives.
+Plutarch's method is clearly visible in the pair Solon–Publicola, where he compares the Athenian lawgiver with an early leader of the Roman Republic to draw lessons in legislative wisdom and the moderation of power. In the pair Demetrius–Antony, he uses the lives of two commanders who ended in defeat and decline (due to luxury and passion in the case of Antony with Cleopatra) to offer an explicit moral lesson on the dangers of losing self-control among those in power. This pattern of deliberately choosing contrasting or similar pairs reveals that Plutarch planned the structure of his work as a whole as an integrated educational project addressed to the Greco-Roman political elite of his age, rather than a mere collection of separate lives.
 
 ## Connection to the Arab-Islamic Heritage
 
-The medieval Islamic world knew Plutarch's heritage only partially, through translations of some of the *Moralia* rendered into Arabic and Syriac within the Abbasid translation movement. Some of his ethical theses resembled a parallel Arabic tradition of writing biographies and virtues (such as the lives of the caliphs in al-Tabari and Ibn al-Athir). However, Plutarch's direct influence did not reach the level it attained later in Renaissance Europe through direct Latin and French translations from the Greek.
+The medieval Islamic world knew Plutarch's heritage only partially, mainly through ethical and philosophical material transmitted in Arabic and Syriac. However, Plutarch's direct influence did not reach the level it attained later in Renaissance Europe through direct Latin and French translations from the Greek.
 
 ## Plutarch as a Source for Lost Knowledge
 
-Another value of Plutarch's work lies in its preservation of fragments and information from earlier Greek and Roman historians and sources that are now completely lost (such as parts of the works of Hellenistic historians). Plutarch was a voracious reader who consulted large libraries in Rome to gather his material. His quotations and passing citations preserve historical details that cannot be reached today by any other route. This is why historians of the classical period return to him despite their methodological reservations about the nature of his moral biographical work.
+Another value of Plutarch's work lies in its preservation of fragments and information from earlier Greek and Roman historians and sources that are now completely lost (such as parts of the works of Hellenistic historians). Plutarch read widely, drawing on Greek and Latin authors, to gather his material. His quotations and passing citations preserve historical details that cannot be reached today by any other route. This is why historians of the classical period return to him despite their methodological reservations about the nature of his moral biographical work.
 
 ## The Continuation of the Parallel Biography Tradition
 
-Plutarch's model inspired later attempts to write parallel lives in other cultures, though often indirectly and sometimes without explicit acknowledgment of his influence. An example is the tradition of comparing historical figures found in Arabic-Islamic biographical literature (*tabaqat* and *tarajim* works, such as implicit comparisons between the Rightly Guided Caliphs in biographical books), although the aims and cultural contexts of the two models differ radically. Nevertheless, Plutarch remains the foremost and most clearly influential reference in establishing the comparative biography as a complete literary genre in its own right in the Western tradition.
+Plutarch's model inspired later attempts to write parallel lives in other cultures, though any such influence is indirect and largely unestablished. Arabic-Islamic biographical literature (*tabaqat* and *tarajim* works) developed along its own lines, and the aims and cultural contexts of the two models differ radically. Nevertheless, Plutarch remains the foremost and most clearly influential reference in establishing the comparative biography as a complete literary genre in its own right in the Western tradition.
 
 ## Sources
 

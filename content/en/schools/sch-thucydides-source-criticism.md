@@ -20,46 +20,39 @@ related:
 - id: "sch-herodotus-inquiry-method", title: "Herodotus' Method of Inquiry and Narration", type: "مدرسة"
 - id: "sch-polybius-pragmatic-history", title: "Pragmatic and Universal History (Polybius)", type: "مدرسة"
 - id: "thk-thucydides", title: "Thucydides, Historian and Critic", type: "مفكر"
-gaps:
-  - "Modern criticism debates how many of the 'speeches' recorded in his work represent real statements versus good-faith reconstructions. This debate is ongoing and the precise answer has not yet been settled."
-  - "No separate entry for Thucydides exists beyond `thk-thucydides`."
+gaps: []
 ---
 
 # Thucydides' Method of Rational Criticism and Sources
 
-**Thucydides** (Θουκυδίδης, c. 460–400 BCE), the Athenian general and historian, author of the *History of the Peloponnesian War* fought between Athens and Sparta (431–404 BCE, approximately; his work breaks off in 411 BCE, incomplete), represents a sharp critical turn in Greek historiography after Herodotus. Although he acknowledged his predecessor's merit in founding the art of historical inquiry (*historia*), he implicitly criticised him, without naming him, for accepting popular and mythical accounts without sufficient rational scrutiny. He described his aim as composing a work "for all time" (*ktēma es aei*), rather than a "piece of literature for momentary competition."
+Thucydides (c. 460–c. 400 BCE), the Athenian general and historian, authored the *History of the Peloponnesian War*, recounting the protracted conflict between Athens and the Peloponnesian League led by Sparta (431–404 BCE; the narrative breaks off unfinished in 411 BCE). His work marks a major critical turn in ancient Greek historiography. While acknowledging the broad scope of his predecessor Herodotus, Thucydides rejected mythic explanations and poetic embellishment in favor of strict empirical verification, seeking to compose a work that would serve as a "possession for all time" (*ktēma es aei*) rather than an essay entered for momentary applause.
 
-## Context and Background
+## Context and Military Background
 
-Thucydides lived through the very war he recorded, and held the post of Athenian military commander (*strategos*) in 424 BCE. He was exiled after failing to defend Amphipolis against the Spartan commander Brasidas. According to his own account in the preface to his work, this allowed him to move between the two warring sides and to gather accounts from both, rather than being confined to a single perspective.
+Thucydides experienced firsthand the conflict he recorded. In 424 BCE, he served as an Athenian general (*strategos*) in Thrace. When he failed to prevent the Spartan commander Brasidas from capturing the strategic city of Amphipolis, the Athenian assembly condemned him to exile. In Book 5, chapter 26, Thucydides notes that his twenty-year exile gave him a distinct historiographical advantage: freed from partisan public responsibilities, he was able to travel freely and observe affairs among both the Athenians and the Peloponnesians, consulting informants and eyewitnesses from both sides of the war.
 
 ## Rational Method and Autopsy
 
-In his famous preface (Book 1, chapter 22), Thucydides declared his method clearly: he preferred direct testimony and personal observation to second-hand hearsay. He sought to verify events by questioning participants from both sides and comparing their accounts, and applied rational criteria to assess the plausibility of events (what could actually have happened under natural and human conditions), rejecting accounts that required direct divine intervention or extraordinary explanation. He is credited with establishing the principle of rational source criticism that distinguished history from myth and epic poetry.
+In the programmatic methodological chapter of his work (Book 1, chapter 22), Thucydides articulated principles that became foundational for historical source criticism:
 
-## Historical Speeches
+- **Empirical Rigor and Cross-Examination**: He explicitly warned against trusting the first report that comes to hand or accepting traditions without examination. He cross-examined eyewitnesses (*autoptēs*), noting that witnesses to the same events often gave divergent reports due to partisan sympathy or imperfect memory.
+- **Natural Causation**: Thucydides excluded direct divine intervention from historical explanation. Political decisions, military blunders, power dynamics, and human psychology (*physis*) accounted for events. His analysis of the underlying cause of the war (*prophasis*)—the growth of Athenian power and the fear it inspired in Sparta—remains a classic model of structural geopolitical explanation.
 
-Yet Thucydides did not always reproduce speeches verbatim. He acknowledged in his preface that he composed the speeches attributed to leaders (such as Pericles' famous funeral oration in Book 2, and the famous Melian Dialogue in Book 5) in accordance with "what was appropriate to say" under the circumstances, while committing himself, as he states, to the spirit of the actual speech as far as he could. This balance between reconstruction and accuracy remains a subject of sharp academic debate about the limits of Thucydides' "objectivity."
+## Historical Speeches and Interpretive Reconstruction
 
-## Impact and Contemporary Criticism
+One of the most debated aspects of Thucydides' methodology concerns the formal speeches delivered by political and military leaders (such as Pericles' Funeral Oration in Book 2 and the Melian Dialogue in Book 5). In Book 1, chapter 22, he openly acknowledged his practice: because it was difficult for him or his informants to recall verbatim what had been said, he composed each speech to express "what was called for" (*ta deonta*) by the respective speakers in each situation, while adhering as closely as possible to the general sense (*gnōmē*) of the words actually spoken. Modern classical scholars continue to debate the degree to which these speeches represent historical records versus rhetorical and dramatic reconstructions.
 
-Thucydides wrote about a war he directly witnessed, which gave his method special credibility for later positivist researchers and international relations scholars (the Melian Dialogue is regarded as a foundational text of the realist school in international relations). The debate over historical speeches — whether they reflect what was actually said or a good-faith reconstruction — has continued in classical studies without a definitive answer. However, this has not diminished Thucydides' standing as the actual founder of the method of rational historical criticism in the Western tradition, which was later drawn on by historians such as Polybius and Ranke.
+## The Plague of Athens: Empirical Documentation
 
-## The Plague of Athens as an Example
+Thucydides' account of the plague that struck Athens in 430 BCE (Book 2, chapters 47–54) exemplifies his empirical observation. Having contracted the illness himself and observed others suffering from it, he described its clinical symptoms with diagnostic precision, explicitly stating that he documented them so that future generations might recognize the affliction if it ever recurred. Furthermore, he analyzed the social and psychological breakdown that followed: the collapse of religious observance, contempt for civic law, and the pursuit of immediate hedonism in the face of inevitable death. This clinical analysis contrasts sharply with traditional mythic explanations that attributed epidemics to divine wrath.
 
-Thucydides' description of the plague that struck Athens in 430 BCE (Book 2) is a prominent example of his autoptic method. He himself caught the disease and survived it, so he described its symptoms with exceptional detailed precision (fever, skin ulcers, sometimes loss of memory) and its devastating social effect on the city's morals (the collapse of respect for law and religion, as people believed death was inevitable), in a descriptive style closer to modern medical documentation than to the mythical narratives that had previously dominated the explanation of epidemics (such as the wrath of the gods in the plague of Homer's *Iliad*). This passage is often cited as the peak of Thucydides' application of his rational, empirical method even to the most obscure and terrifying phenomena.
+## Historiographical Significance and Reception
 
-## Comparison with Herodotus
-
-Whereas Herodotus travelled through the known world gathering a variety of tales and marvels from Egypt, Persia and Scythia, not always subjecting their credibility to strict scrutiny, Thucydides confined himself to one war that he witnessed directly, sacrificing geographical and cultural breadth for depth of verification and precision in political and military causality. This methodological difference has led many historians of historical thought to regard Herodotus as the "father of history" in the sense of wide-ranging inquiry, and Thucydides as the founder of "scientific political history" in the sense of disciplined causal precision. Both models have continued to exert parallel influence on later Western historical writing.
-
-## Exile as a Source of Knowledge
-
-Thucydides' own exile, though personally harsh, was a methodologically decisive factor that gave him a rare advantage: twenty years of unrestricted movement without an official post enabled him to access testimony from both warring sides, rather than being limited to a single official Athenian perspective as other less independent historians were. This methodological lesson — that a marginal or exiled position may sometimes give the historian greater critical independence than a central position of power — has been invoked later in theoretical reflections on the relationship between the historian and political authority across the ages.
+Thucydides established a paradigm of contemporary, political-military history based on critical evaluation of eyewitness accounts. Later ancient historians, notably Polybius, adopted his focus on pragmatic political causation, while 19th-century positivist historians such as Leopold von Ranke celebrated him as a model of rigorous source criticism. Modern political scientists and classical scholars also view his work as a foundational text of political realism.
 
 ## Sources
 
-- Thucydides. *History of the Peloponnesian War*. Translated by Richard Crawley, 1874.
-- Hornblower, Simon. *Thucydides*. Duckworth, 1987.
-- Crane, Gregory. *Thucydides and the Ancient Simplicity: The Limits of Political Realism*. University of California Press, 1998.
 - Connor, W. Robert. *Thucydides*. Princeton University Press, 1984.
+- Crane, Gregory. *Thucydides and the Ancient Simplicity: The Limits of Political Realism*. University of California Press, 1998.
+- Hornblower, Simon. *Thucydides*. Duckworth, 1987.
+- Thucydides. *History of the Peloponnesian War*. Translated by Rex Warner, with an introduction by M. I. Finley, Penguin Books, 1954; rev. ed. with introduction by M. I. Finley, 1972.

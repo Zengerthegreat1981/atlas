@@ -1,0 +1,81 @@
+{
+"root": "fld-historiography",
+"root_folder": "fields",
+"paths": [
+[
+"Start Here: Fields",
+[
+"fld-historical-method-sources",
+"fld-schools-historical-thought"
+]
+],
+[
+"Schools and Approaches",
+[
+"sch-environmental-history",
+"sch-internal-external-source-criticism",
+"sch-herodotus-inquiry-method",
+"sch-critical-philosophy-of-history",
+"sch-subaltern-studies-historiographical-critique",
+"sch-cliometrics-quantitative-economic-history",
+"sch-polybius-pragmatic-history",
+"sch-british-marxist-historians-ep-thompson",
+"sch-speculative-philosophy-of-history",
+"sch-french-methodical-school",
+"sch-rankean-historical-positivism",
+"sch-new-institutional-economic-history"
+]
+],
+[
+"Key Figures",
+[
+"thk-carl-hempel",
+"hst-xenophon",
+"hst-polybius",
+"thk-berossus-historian",
+"hst-tacitus",
+"hst-thucydides",
+"thk-ann-laura-stoler",
+"thk-barbara-rosenwein",
+"hst-sallust",
+"thk-arrian",
+"hst-strabo",
+"hst-posidonius"
+]
+],
+[
+"Core Concepts",
+[
+"hst-con-eyewitness-participation",
+"hst-con-ethnography-language",
+"hst-con-fortuna-chance",
+"hst-con-chronology-ancient",
+"con-witness-testimony-antiquity",
+"con-tarikh-general-history",
+"hst-con-biography-history",
+"hst-con-exemplary-history",
+"hst-con-universal-history-ancient",
+"hst-con-source-criticism-ancient",
+"hst-con-ethnography-classical",
+"hst-con-universal-chronology"
+]
+],
+[
+"Landmark Works",
+[
+"wrk-rihla-ibn-battuta",
+"wrk-epic-of-sundiata-griots",
+"wrk-complete-history-ibnatir",
+"wrk-social-origins-dictatorship-democracy-moore",
+"wrk-that-noble-dream-novick",
+"wrk-les-lieux-de-memoire-nora",
+"wrk-history-peloponnesian-war-thucydides",
+"wrk-histories-polybius",
+"wrk-history-and-historians-carr",
+"wrk-histories-herodotus",
+"wrk-provincializing-europe-chakrabarty",
+"wrk-montaillou-le-roy-ladurie"
+]
+]
+]
+}

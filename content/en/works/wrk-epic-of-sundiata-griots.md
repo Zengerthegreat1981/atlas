@@ -9,81 +9,47 @@ level: "متقدم"
 title: "The Epic of Sundiata"
 en: "The Epic of Sundiata"
 crumb: "Historiography ← Works ← The Epic of Sundiata"
-date_written: -1230
-language: "Several African languages (Malinké, modern French)"
-original_language: "Malinké (preserved oral language)"
+date_written: 1235
+language: "Manding (Mandinka / Bambara), French, English"
+original_language: "Manding (preserved oral tradition)"
 estimated_words: 50000
 topics:
 - historiography
 - africa
 - oral-tradition
-related:
-gaps:
-  - "**The original text does not exist**: what we have are **modern recordings** of the epic from contemporary performers (especially Djibril Tamsir Niane in 1960)."
-  - "**The difference between performers' versions**: each griot tells it **in a slightly different way** (while preserving the essential elements), so which version is the 'original'?"
-  - "**The question of historical reliability**: archaeology confirms some facts (the existence of the Mali Empire), but personal and magical details are not documented."
+related: []
+gaps: []
 ---
 
 # The Epic of Sundiata
 
 ## Definition
 
-**The Epic of Sundiata** (*Sundiata Epic*) is one of **the greatest African oral epics**. It tells the story of **the founding of the Mali Empire** (c. 1230) through the lineage of the king Sundiata Keita and his conquests. It has been preserved and transmitted orally until today by the class of **griots** (*Griots*), professional specialists who inherit the role of memorizing and narrating the history of the peoples of Mandinka (Malinké) in West Africa.
+**The Epic of Sundiata** (or *Sunjata*) is the foundational oral heroic narrative of the Mandinka and Mande peoples of West Africa. Preserved and performed across centuries by professional hereditary bards and oral historians known as **griots** (*jaliw*, singular *jeli*), the epic recounts the thirteenth-century founding of the Mali Empire by Sundiata Keita (c. 1217–1255 CE) and his victory over the Sosso ruler Soumaoro Kanté at the Battle of Kirina (c. 1235 CE). It is among the best-known works of African oral literature and a vital locus of West African historical consciousness.
 
-## Historical Context
+## Historical and Social Context
 
-The epic recounts events that probably took place in the thirteenth century CE, when Sundiata Keita founded the Mali Empire after his victory over the sorcerer king Sumanguru Kanté at the Battle of Kirina (c. 1235 CE). Mali later became one of the greatest empires of medieval West Africa, whose trade extended across the Sahara to North Africa and the Islamic world, and reached the height of its international fame under his grandson Mansa Musa (reigned 1312–1337), whose pilgrimage to Mecca in 1324 was renowned for its legendary wealth, which affected gold prices in Cairo and the Middle East for years. The epic was never written down at the time, but remained preserved exclusively in the oral memory of the griot class. The first comprehensive academic recording of it came from the Guinean scholar Djibril Tamsir Niane, who collected it from the contemporary griot Mamadou Kouyaté in 1960 and published it in French.
+The events underlying the epic took place during the early thirteenth century in the upper Niger basin, following the disintegration of the ancient Ghana Empire (Wagadu). Sundiata Keita unified the fragmented Mandinka chiefdoms into an expansive federation that dominated trans-Saharan trade routes in gold, salt, and copper, culminating in an empire celebrated globally during the reign of Mansa Musa (r. 1312–1337 CE).
 
-## Contents
+In traditional Mande society, the preservation of communal history was entrusted to the *jeliw*—a specialized endogamous caste of oral poets, genealogists, and political counselors. Accompanying their recitations on stringed or percussive instruments such as the *kora*, *ngoni*, and *balafon*, the griots did not deliver static, memorized texts. Instead, they reconstructed dynamic verbal performances that negotiated historical memory, current lineage rivalries, and local political legitimacy. The most widely known modern transcription of the epic was compiled in 1960 by Guinean historian Djibril Tamsir Niane from the master griot Mamadou Kouyaté of Djeliba Koro. Subsequent versions, notably by the Malian bard Wa Kamissoko (published by Youssouf Tata Cissé) and Fa-Digi Sisòkò (translated by John William Johnson), have highlighted the profound textual diversity of the tradition.
 
-### Lineage and Origins
-- Sundiata's mother: **Sani Jata (Sogolon)**
-- His father: **Farafina Dinah** (Farafina Dinah) — the sixth king of Mali (the African version)
-- Magical elements: divine descent, prophecies
+## Narrative Structure and Core Themes
 
-### Military Conquests
-- **The Battle of Kirina** (c. 1235) — in which Sundiata defeated **Sumanguru Kanté**
-- Building the empire: unifying cities and tribes under one rule
+- **Lineage and Prophesied Birth**: The epic traces Sundiata's parentage to King Naré Maghann Konaté (also known as Maghan Kon Fatta) of Dakajalan and Sogolon Kédjou, the hunchbacked "buffalo woman" whose supernatural power endowed her son with extraordinary spiritual strength (*nyama*).
+- **Overcoming Adversity and Exile**: Born paralyzed, Sundiata miraculously walks using an iron rod after his mother is humiliated. Driven into exile by his jealous stepmother Sassouma Bérété to protect her son Dankaran Touman, Sundiata travels through neighboring kingdoms (including Mema), mastering statecraft and military strategy.
+- **The Battle of Kirina and Liberation**: Returning to liberate Manden from the tyrannical blacksmith-king of Sosso, Soumaoro (Sumanguru) Kanté, Sundiata discovers the sorcerer's secret vulnerability (a white rooster's spur) and decisively defeats him at Kirina in 1235 CE.
+- **The Kouroukan Fouga Charter**: Following his victory, Sundiata convened a grand assembly of clans at Kouroukan Fouga, and in later oral tradition is credited with proclaiming a charter (the *Manden Charter*) that is said to have divided societal responsibilities among clans, regulated alliances and joking relationships (*sanankuya*), and set norms for governance; its antiquity and wording rest on modern oral recitations.
 
-### Administrative System
-- Division of the empire into fiefdoms
-- Alliance arrangements with neighbouring sultans
-- Laws of justice (model: *al-Bas*, a covenant of alliance)
+## Epistemological Status and Historiographical Value
 
-## Major Works or Representatives
+The Epic of Sundiata posed critical questions for modern historiography regarding the reliability of oral traditions. Anthropologists and historians such as Jan Vansina argued that oral epics cannot be treated as literal year-by-year chronicles, as they compress chronological spans, telescope multiple historical figures into heroic archetypes, and weave mythical and folkloric motifs into genuine political memories. 
 
-The traditional griots are the keepers and transmitters of the epic. They form a hereditary social class in Mali and across West Africa in general, combining the roles of musician, narrator, oral historian, and social mediator. The most famous griot who recorded the epic from among contemporary performers was Mamadou Kouyaté, who related it to Djibril Tamsir Niane. Later, Wa Kamissoko offered another expanded version, published in collaboration with the Dutch scholar Jan Jansen.
-
-## Preservation and Transmission
-
-**The epic was never written down**; rather, it was **preserved orally** across generations by the griots:
-- Each griot **memorizes it with professional precision** (despite slight variations)
-- It is performed **with music, dance, and gestures**
-- The performance **is not documentary but theatrical**: the narrator responds to the audience's interaction
-
-## Impact and Criticism
-
-Since its written publication in the 1960s, this epic has helped restore the standing of African oral traditions as a legitimate historical source rather than mere folklore, and it influenced the emergence of the field of "African oral history" developed by historians such as Jan Vansina. The epic has also been drawn upon politically and culturally in newly independent Guinea and Mali as a symbol of post-colonial national identity. Some historians, however, have warned against confusing the contemporary symbolic value of the epic with its actual historical accuracy as a source for the thirteenth century.
-
-## Historical Value
-
-**The Epic of Sundiata** provides:
-- **A record of royal lineage**: continuous lists of rulers
-- **Information on wars and alliances**: the conflicts between the local sultan and the rising power
-- **A social system**: the division of castes and crafts (the griots themselves form a hereditary caste)
-
-But:
-- **Legendary elements** (magic, divine descent) **are mixed with facts**
-- **Chronological precision** is uncertain: the accounts **may combine events from multiple periods**
-
-## Connection to the Arab-Islamic Heritage
-
-Although the epic itself is the product of a purely local African oral tradition, the Mali Empire whose founding the epic narrates embraced Islam from the time of Sundiata himself or shortly afterward. Independent Arabic sources document aspects of this empire's history in written form, such as Ibn Battuta's journey to Mali in 1352, Ibn Khaldun's description of it in the *Muqaddimah*, and the works of North African historians such as Ibn Fadl Allah al-Umari. These parallel and complement what the oral epic preserves about the life of its first founder. This allows contemporary historians to compare the two accounts, the African oral and the Arabic written, in order to verify the elements of actual history within the legendary fabric of the epic.
+Nevertheless, external documentary records offer partial corroboration of the broad institutional framework depicted in the epic. In particular, medieval Arabic writings by North African travelers and historians—including Shihab al-Din al-'Umari (*Masalik al-Absar*), Ibn Battuta (who visited Mali in 1352–1353 CE), and Ibn Khaldun (*Kitab al-'Ibar*, which records the dynastic genealogy of the Keita kings gathered from pilgrims in Cairo)—corroborate key details of the imperial succession, administrative centers, and court ceremonial preserved in the griot accounts.
 
 ## Sources
 
-- Niane, Djibril Tamsir. *Sundiata: An Epic of Old Mali*. Translated by Stephen Buchanan. 1965.
-- Jansen, Jan, & Jansen, Esger (eds.). *The Griot's Craft: Nest of Stories*. 2000.
-- Kamissoko, Wa, & Jansen, Jan. *The Epic of Sundiata from the Archives of Griots*. 2001.
-- Ibn Battuta, Muhammad ibn Abdallah. *Tuhfat al-Nuzzar fi Gharaib al-Amsar wa-Aja'ib al-Asfar*, 14th century CE.
-- Ibn Khaldun, Abd al-Rahman. *al-Muqaddimah*, 1377.
+- Niane, Djibril Tamsir. *Sundiata: An Epic of Old Mali*. Translated by G. D. Pickett. London: Longman, 1965.
+- Johnson, John William, and Fa-Digi Sisòkò. *The Epic of Son-Jara: A West African Tradition*. Bloomington: Indiana University Press, 1992.
+- Conrad, David C. *Sunjata: A West African Epic of the Mande Peoples*. Indianapolis: Hackett Publishing, 2004.
+- Vansina, Jan. *Oral Tradition as History*. Madison: University of Wisconsin Press, 1985.
+- Levtzion, Nehemia. *Ancient Ghana and Mali*. London: Methuen, 1973.

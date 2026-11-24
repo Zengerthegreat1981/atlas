@@ -13,49 +13,71 @@ language: "German, English"
 active_start: 1942
 active_end: 1997
 edges:
-- rel: "belongs_to", target: "Critical Philosophy of History (Dilthey, Collingwood, Dray and the Covering Law Model)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Critical Philosophy of History (Dilthey, Collingwood, Dray and the Covering Law Model)", target_type: "مدرسة"
 related:
-- id: "sch-critical-philosophy-of-history", title: "Critical Philosophy of History (Dilthey, Collingwood, Dray and the Covering Law Model)", type: "مدرسة"
-- id: "thk-william-dray", title: "William Dray", type: "مفكر"
-gaps:
-  - "Not yet covered: his broader contribution to the philosophy of science within logical positivism (the verification criterion and the structure of scientific theories) beyond its specific application to historical explanation."
+  - id: "sch-critical-philosophy-of-history", title: "Critical Philosophy of History (Dilthey, Collingwood, Dray and the Covering Law Model)", type: "مدرسة"
+  - id: "thk-william-dray", title: "William Dray", type: "مفكر"
+gaps: []
 ---
 
 # Carl Hempel
 
-A German-American philosopher and one of the leading representatives of logical positivism, a professor at Princeton University. He applied his theory of scientific explanation to the question of the nature of historical explanation, provoking wide debate.
+Carl Gustav Hempel was a major German-American philosopher of science and leading figure in logical empiricism whose 1942 paper "The Function of General Laws in History" ignited the debate over the nature of historical explanation in analytic philosophy. By applying his Deductive-Nomological (Covering Law) model to history, Hempel argued that historical explanations share the identical logical structure as explanations in the natural sciences.
 
-## What He Gave
+## Definition and Historical Significance
 
-- **The Function of General Laws in History (1942, article)**: he argues that any valid historical explanation, whether we like it or not, implicitly requires a "general law" (Covering Law) linking causes to effects, just as natural scientific explanation does. For him, the apparent difference between history and physics is a difference in how clearly the law is formulated, not in the explanatory logic itself.
-- **The Covering Law Model (also known as the Deductive-Nomological Model)**: the most precise form of his thesis. Any valid scientific (or historical) explanation consists of two premises: a general law, and specific initial conditions, from which the explained outcome follows logically.
-- **His response to Collingwood and Dilthey**: Hempel explicitly rejects the idea that interpretive "understanding" (Verstehen) is a methodologically separate kind of procedure from causal scientific explanation. He considers empathetic understanding useful psychologically for discovering hypotheses, but not a logical substitute for a general law that justifies the explanation.
+Carl Gustav Hempel (1905–1997), long-time professor of philosophy at Yale and Princeton Universities, was a central architect of twentieth-century logical empiricism. In philosophy of history, he is renowned for introducing what William Dray later christened the **Covering Law Model** (or Deductive-Nomological [D-N] model). 
 
-## Position in the Current
+Hempel insisted upon the "methodological unity of science," asserting that any genuine explanation of an event—whether in physics, biology, or the human sciences—must subsume the event under universal empirical regularities (general laws). His thesis directly challenged the prevailing historicist and idealist traditions, which maintained that human history constitutes an autonomous discipline requiring empathetic reenactment (*Verstehen*) rather than scientific causal subsumption.
 
-Hempel represents the strict positivist pole in the debate over historical explanation, opposite the interpretive Collingwood. His thesis drew an intermediate response from William Dray, who rejected the necessity of a general law while retaining a rational standard for historical explanation. This triangle (Hempel against Collingwood, with Dray in the middle) formed the core of what became known as "analytic philosophy of history" in the mid-twentieth century. The debate continued for decades in Anglo-American philosophy journals before gradually fading in the face of post-structuralist shifts in the philosophy of history from the 1970s onward.
+## Historical Context and Broader Contributions to Philosophy of Science
 
-## Broader Intellectual Context
+Hempel studied mathematics, physics, and philosophy at the Universities of Göttingen, Heidelberg, and Berlin, studying under David Hilbert and Hans Reichenbach. Closely affiliated with both the Berlin Circle (Society for Empirical Philosophy) and the Vienna Circle (Rudolf Carnap and Moritz Schlick), Hempel left Nazi Germany in 1934 (first for Belgium) and emigrated to the United States in 1937.
 
-Hempel's thesis was an extension of his broader project in the philosophy of science within the Vienna Circle and logical positivism, which sought to formulate a unified standard of scientific explanation applicable to all sciences without exception (the Unity of Science). He faced a substantial objection from historians and philosophers who argued that history deals with conscious human actions that have intentions and inner meanings, not with silent natural phenomena governed by mechanical causal laws, and that reducing human action to a "general law" strips historical explanation of its distinctive epistemic character. Hempel replied that this distinction is exaggerated, since even the natural sciences formulate their laws inductively from observed regularities, and that the absence of a precise mathematical formulation of a historical law (such as the claim that "economic crises often lead to political upheaval") does not eliminate its implicit presence in any convincing historical explanation.
+Beyond historiography, Hempel made foundational contributions to general philosophy of science:
+- **Confirmation Theory and the Paradox of the Ravens (1945)**: he identified a paradox of inductive confirmation, noting that an observation of a white shoe logically confirms the universal hypothesis "all ravens are black" under standard Nicod criteria and equivalence conditions.
+- **Critique of the Verificationist Criterion of Meaning (1950)**: in "Problems and Changes in the Empiricist Criterion of Meaning," he argued that strict verifiability and falsifiability criteria inadvertently classified universal scientific laws as meaningless, prompting logical empiricism toward holism.
+- **The D-N and Inductive-Statistical (I-S) Models**: in *Aspects of Scientific Explanation* (1965), Hempel formalized the distinction between deterministic explanations based on universal laws (Deductive-Nomological) and probabilistic explanations based on statistical laws (Inductive-Statistical).
 
-## Reception and Later Criticism
+His application of these models to history in 1942 was a direct outgrowth of this broader empiricist commitment to demonstrating that all valid knowledge claims conform to shared logical standards.
 
-Despite the wide debate it provoked, Hempel's thesis received several criticisms. Patrick Gardiner and William Dray pointed out that historians rarely formulate an explicit "general law" in their writing, and are content with a convincing causal narrative without that theoretical abstraction. Others observed that many of the "laws" assumed in the social sciences are at best weak probabilistic generalizations, far from the rigor of the laws of physics from which Hempel originally drew his model. Nevertheless, the Covering Law Model remained a compulsory point of reference for every subsequent discussion of historical explanation, even among its opponents.
+## The Covering Law Model in Historical Explanation
 
-## Connection to the Arab-Islamic Heritage
+In his seminal 1942 article, "The Function of General Laws in History," Hempel argued that a valid explanation consists of:
+1. **Initial Conditions ($C_1, C_2, \dots, C_k$)**: statements describing the particular antecedent circumstances or events;
+2. **General Laws ($L_1, L_2, \dots, L_r$)**: universal empirical hypotheses asserting regular causal connections between classes of events;
+3. **The Explanandum ($E$)**: the event or phenomenon to be explained, which must follow as a logical deduction from the premises ($C$ and $L$).
 
-Hempel's debate on the "general law" in historical explanation recalls older discussions in Islamic thought about the causes of the rise and fall of states, most notably Ibn Khaldun's theory of 'asabiyya (group solidarity) and the cycle of dynasties in the *Muqaddimah* (fourteenth century). In it he formulated something resembling a repeated "general law" to explain the emergence and decline of human civilization (al-'umran) across three generations. Some philosophers of the social sciences later cited him as an early example of thinking similar to the Covering Law Model, although the conceptual tools and cultural contexts of the two thinkers differ radically. Ibn Khaldun did not seek to unify the logic of historical explanation with that of the natural sciences, as Hempel did; rather, he aimed to establish an independent discipline he called "the science of human civilization" ('ilm al-'umran), based on observing repeated historical regularities rather than on a comprehensive methodological unity among the sciences as European logical positivists conceived it centuries later.
+Hempel conceded that practicing historians rarely formulate explicit universal laws in their texts. However, he argued that this absence does not indicate a different explanatory logic. Rather, historians provide **"explanation sketches"** (*explanation sketch*): incomplete formulations that take general psychological, economic, or sociological regularities for granted. For an explanation sketch to become scientifically acceptable, its implicit empirical assumptions must be capable of being filled out into rigorous laws.
+
+Crucially, Hempel rejected the hermeneutic doctrine of *Verstehen* (empathetic understanding) championed by Wilhelm Dilthey, Wilhelm Windelband (idiographic versus nomothetic), and R. G. Collingwood. For Hempel, imaginative re-enactment of an historical actor's mental state is merely a psychological discovery heuristic; it possesses no explanatory validity unless supported by empirical laws demonstrating that individuals in such conditions regularly act in that manner.
+
+## The Debate with Dray, Gardiner, and Analytic Philosophy of History
+
+Hempel's thesis divided English-language philosophy of history for three decades. His primary critic, the Canadian philosopher William Dray (*Laws and Explanation in History*, 1957), argued that human actions are governed by conscious reasons rather than mechanical causes. Dray introduced the concept of **"rational explanation"**, asserting that historians explain an action by showing that it was appropriate or intelligible from the agent's point of view, given their beliefs and purposes, without needing to deduce it from a general law.
+
+Other philosophers, such as Patrick Gardiner (*The Nature of Historical Explanation*, 1952) and Arthur Danto (*Analytical Philosophy of History*, 1965), took intermediate positions. They acknowledged that historians rely on generalizations, but pointed out that historical regularities are porous, contextual "rules of thumb" rather than strict, exceptionless scientific laws.
+
+## Connection to Arab-Islamic Historiography
+
+Hempel's quest for regularities in human history invites comparison with classical Islamic social theory, particularly the historiographical philosophy of Ibn Khaldun (732–808 AH / 1332–1406 CE). In the *Muqaddimah*, Ibn Khaldun established *'ilm al-'umran* (the science of human social organization), arguing that historical narratives cannot be evaluated purely through chain-of-transmission (*isnad*) criticism without understanding the inherent laws of human civilization (*taba'i' al-'umran*).
+
+Ibn Khaldun formulated recurring societal laws: the cyclical rise and decline of dynasties over roughly three generations, the central cohesive role of group solidarity (*'asabiyya*), and the predictable corrupting effects of urban luxury on state vitality. 
+
+Some commentators have suggested that Ibn Khaldun anticipated the core philosophical intuition of the Covering Law Model by insisting that individual historical events must be interpreted through general structural laws of social behavior. However, their intellectual frameworks differed fundamentally: while Hempel operated within the secular, syntactic formalism of modern logical empiricism, Ibn Khaldun operated within Aristotelian natural philosophy and Islamic jurisprudence, seeking the essential nature of human civilization.
 
 ## Major Works
 
-- "The Function of General Laws in History" (article, *The Journal of Philosophy*, 1942).
-- *Aspects of Scientific Explanation* (1965).
+- "The Function of General Laws in History" (*The Journal of Philosophy*, 1942).
+- "Studies in the Logic of Confirmation" (*Mind*, 1945).
+- "Problems and Changes in the Empiricist Criterion of Meaning" (*Revue Internationale de Philosophie*, 1950).
+- *Aspects of Scientific Explanation and Other Essays in the Philosophy of Science* (1965).
 - *Philosophy of Natural Science* (1966).
 
 ## Sources
 
-- Hempel, Carl G. "The Function of General Laws in History." *The Journal of Philosophy*, vol. 39, no. 2, 1942, pp. 35–48.
-- Dray, William H. *Laws and Explanation in History*. Oxford University Press, 1957 (a direct response to Hempel).
-- Roberts, Clayton. *The Logic of Historical Explanation*. Pennsylvania State University Press, 1996.
-- Gardiner, Patrick. *The Nature of Historical Explanation*. Oxford University Press, 1952.
+- Hempel, C. G. (1942). "The Function of General Laws in History." *The Journal of Philosophy*, vol. 39, no. 2, pp. 35–48.
+- Hempel, C. G. (1965). *Aspects of Scientific Explanation and Other Essays in the Philosophy of Science*. Free Press.
+- Dray, W. H. (1957). *Laws and Explanation in History*. Oxford University Press.
+- Gardiner, P. (1952). *The Nature of Historical Explanation*. Oxford University Press.
+- Danto, A. C. (1965). *Analytical Philosophy of History*. Cambridge University Press.

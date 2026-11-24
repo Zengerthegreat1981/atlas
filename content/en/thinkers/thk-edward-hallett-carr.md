@@ -10,64 +10,56 @@ crumb: "Historiography ← Thinkers ← Edward Hallett Carr"
 dates: "Britain · 1892–1982"
 country: "Britain"
 language: "English"
-active_start: 1961
+active_start: 1939
 active_end: 1982
 edges:
 - rel: "belongs_to", target: "The Question of Objectivity and Interpretation: Carr, Elton and Novick", target_type: "مدرسة"
 related:
   - id: "sch-objectivity-debate-carr-elton-novick", title: "The Question of Objectivity and Interpretation: Carr, Elton and Novick", type: "مدرسة"
-gaps:
-  - "Not yet covered: his large work *A History of Soviet Russia* (14 volumes) in more detail than the general reference here; the focus is limited to his methodological contribution in *What Is History?*."
+gaps: []
 ---
 
 # Edward Hallett Carr
 
-## Definition
+Edward Hallett Carr (1892–1982) was a British historian, diplomat, and international relations theorist who served in the British Foreign Office, held the Woodrow Wilson Chair of International Politics at Aberystwyth, and became a fellow of Trinity College, Cambridge. He is best known for his monumental fourteen-volume *History of Soviet Russia* and for his Cambridge lectures published as *What Is History?* (1961), which sparked one of the twentieth century's most enduring debates over historical objectivity and interpretation.
 
-Edward Hallett Carr (1892–1982) was a British historian and diplomat who worked for many years in the British Foreign Office before moving into academia as a professor at the University of Cambridge. He became internationally known for his methodological lectures, which sparked wide debate about the objectivity of historical writing and the fate of the historical profession in the twentieth century.
+## Historical and Diplomatic Background
 
-## Historical Context
+Before turning to academic history, Carr spent two decades in the British diplomatic service (1916–1936), participating in the Paris Peace Conference of 1919 and serving in Riga. During the Second World War he served as assistant editor of *The Times* of London (1941–1946). In international relations theory, his book *The Twenty Years' Crisis, 1919–1939* (1939) became a foundational text of classical realism, dissecting the utopian idealism of interwar liberal internationalism. This extensive diplomatic and political experience gave Carr a pragmatic understanding of political power, ideological alignment, and institutional decision-making that profoundly shaped his historical outlook.
 
-Carr's lectures were delivered in 1961, at the height of the Cold War, at a time when the British historical profession largely clung to the model of the German historian Leopold von Ranke, which held that history could be written "as it actually happened" (*wie es eigentlich gewesen*) with complete neutral objectivity. Carr, with his background as an observer of international politics and author of the vast history of the Soviet Union, challenged this illusion radically. He drew on his own awareness that writing any contemporary political history inevitably collides with the writer's own ideological and political positions.
+## The Objectivity Debate and *What Is History?*
 
-## What He Gave
+Delivered as the G. M. Trevelyan Lectures at Cambridge in 1961, Carr's *What Is History?* launched a trenchant attack on the nineteenth-century positivist model associated with Leopold von Ranke, which claimed historians could reconstruct the past "as it actually happened" (*wie es eigentlich gewesen*) through passive, detached observation:
 
-- **What Is History? (1961)**: a series of lectures (the G. M. Trevelyan lectures at Cambridge) in which he attacked the naive Rankean illusion of absolute, neutral objectivity, offering his famous definition: history is "an unending dialogue between the present and the past."
-- **The historian's selection of facts**: he argues that the historian does not record "everything" that happened, but selects the facts of significance through questions set by the interests of the present and the historian's intellectual and social position, without sliding into absolute relativism, since some interpretations are better than others by criteria that can be rationally defended.
-- **A History of Soviet Russia (14 volumes, 1950–1978)**: a vast project spanning decades, covering the October Revolution and the establishment of the Soviet state, which provoked debate over his supposed sympathy for Bolshevism in his interpretation.
+- **The Dialogue Between Present and Past**: Carr formulated his celebrated maxim that history is "a continuous process of interaction between the historian and his facts, an unending dialogue between the present and the past."
+- **The Selection of Facts**: Carr argued that historical facts do not exist in pure form, independent of the historian who selects and interprets them. The raw data of the past become "historical facts" only through the questions, interests, and theoretical presuppositions of the historian.
+- **Rejection of Relativism**: While rejecting naive empiricism, Carr resisted complete historical relativism. He maintained that historical interpretations remain accountable to verifiable evidence, coherent causation, and progressive human purpose, famously urging readers to "study the historian before you begin to study the facts."
 
-## Position within the Current
+## *A History of Soviet Russia*
 
-Carr is regarded as the instigator of the most important debate on the objectivity of history in the twentieth century. His thesis was met with sharp rebuttal from Geoffrey Elton, and was later reframed historically by Peter Novick (*That Noble Dream*, 1988), who documented the evolution of the question within the historical profession itself.
+Carr's principal scholarly achievement was his monumental fourteen-volume *A History of Soviet Russia* (published 1950–1978), spanning the years 1917 to 1929:
+- *The Bolshevik Revolution, 1917–1923* (3 volumes, 1950–1953) analyzed the political, economic, and institutional mechanisms of early Soviet rule.
+- *The Interregnum, 1923–1924* (1 volume, 1954) examined the transition following Lenin's death.
+- *Socialism in One Country, 1924–1926* (4 volumes, 1958–1964) charted the consolidation of Stalin's programmatic shift.
+- *Foundations of a Planned Economy, 1926–1929* (3 volumes in 6 books, 1969–1978, written with R. W. Davies) documented the collectivization of agriculture and the establishment of centralized state planning.
+
+Carr's method relied heavily on official Soviet administrative decrees, legislative records, and state economic documents. He treated the Russian Revolution not primarily as an ideological aberration, but as a vast, modernizing state-building project. While criticized by cold war contemporaries such as Leonard Schapiro and Hugh Seton-Watson for viewing Soviet development predominantly from the perspective of central state institutions rather than its victims or grassroots opposition, Carr's series remains notable for its exhaustive administrative and economic documentation of the formative decade of the Soviet state.
+
+## Legacy and Scholarly Impact
+
+Carr's epistemological critique ignited widespread controversy. In *The Practice of History* (1967), Sir Geoffrey Elton attacked Carr, defending archival empiricism and asserting that rigorous documentary methods protect the past from the subjective impositions of the present. Later, American historian Peter Novick in *That Noble Dream* (1988) historicized the debate, arguing that Carr had exposed the political and professional vulnerabilities of the objectivity ideal. *What Is History?* remains a core pedagogical text across global historical methodology courses, representing the foundational mid-century bridge between classical empiricism and modern historiographical self-reflexivity.
 
 ## Major Works
 
-- *What Is History?* (1961).
-- *A History of Soviet Russia* (14 volumes, 1950–1978).
-- *The Twenty Years' Crisis, 1919–1939* (1939, in international relations).
+- *The Twenty Years' Crisis, 1919–1939: An Introduction to the Study of International Relations* (Macmillan, 1939).
+- *A History of Soviet Russia* (14 volumes, Macmillan, 1950–1978).
+- *What Is History?* (Macmillan, 1961).
+- *The Russian Revolution: From Lenin to Stalin, 1917–1929* (Macmillan, 1979).
 
 ## Sources
 
 - Carr, E. H. *What Is History?* Macmillan, 1961.
-- Jenkins, Keith, ed. *The Postmodern History Reader*. Routledge, 1997 (discusses Carr's position in the objectivity debate).
+- Elton, G. R. *The Practice of History*. Sydney University Press, 1967.
+- Haslam, Jonathan. *The Vices of Integrity: E. H. Carr, 1892–1982*. Verso, 1999.
 - Novick, Peter. *That Noble Dream: The "Objectivity Question" and the American Historical Profession*. Cambridge University Press, 1988.
-
-## Impact and Criticism
-
-Carr's thesis caused a sharp split within the British historical profession. Geoffrey Elton accused him of undermining the standards of historical rigor in favor of a dangerous relativism that makes every interpretation as acceptable as any other. Others saw in him a pioneer of a necessary critical awareness of the conditions under which historical knowledge is produced, decades ahead of the later debate over the "crisis of representation" raised by Hayden White and others. Carr's definition of history as "an unending dialogue between the present and the past" remains one of the most frequently quoted phrases in introductions to university methodology courses around the world to this day.
-
-## Additional Context: Carr and Diplomacy
-
-Before his academic turn, Carr worked for decades in the British Foreign Office and took part in many international negotiations, including the Paris Peace Conference of 1919. This direct experience of political decision-making shaped his understanding that political history is always written from a particular position and interest, not from a neutral void. This practical, non-purely academic background sets him apart from many theorists of the philosophy of history who came from purely philosophical or literary backgrounds, and it gave his critique a practical, realistic character instead of pure philosophical abstraction.
-
-## Wider Reception of His Work
-
-*What Is History?* has been translated into dozens of languages and has become one of the most taught books in introductory history curricula around the world, including Arab universities, where it is often used as a first gateway for history students to think critically about the nature of their sources and methods before moving on to more complex methodological debates such as the later debate on postmodernism.
-
-## His Wider Intellectual Career
-
-During the Second World War Carr also worked as an editor at *The Times* of London, and he wrote extensively on international relations before turning fully to Soviet history. His intellectual sympathies with the Soviet Union provoked political controversy alongside the methodological debate about his objectivity. Some critics charged that he applied his theory of the "selection of facts" to his own history in a selective way that implicitly justified Stalin's policies. This charge remains a subject of continuing debate among historians of British political thought.
-
-## Relation to a Later Generation of Historians
-
-Carr influenced a whole generation of historians of international relations and British political history. He became a model of a historian who combines practical experience in making policy with rigorous academic discipline, a rare combination that made his writings a reference studied in international relations programs as much as in history programs.
+- Evans, Richard J. *In Defence of History*. Granta Books, 1997.

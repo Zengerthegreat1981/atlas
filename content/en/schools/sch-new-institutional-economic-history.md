@@ -19,9 +19,7 @@ edges:
 related:
 - id: "sch-cliometrics-quantitative-economic-history", title: "Cliometrics and Quantitative Economic History", type: "مدرسة"
 - id: "thk-robert-fogel", title: "Robert Fogel", type: "مفكر"
-gaps:
-  - "Separate documented thinker entry for Douglass North: not yet covered. His method is described here only, and this file partly fills the gap noted in the gaps field of sch-cliometrics-quantitative-economic-history by documenting its theoretical angle, without a separate personal biography yet."
-  - "**Distinction from Cliometrics, stated explicitly:** unlike Cliometrics, which tests specific hypotheses statistically (such as the effect of railways in Fogel's work), North offers a **general theoretical framework** for explaining long-term economic change through the concept of 'institutions' (the formal and informal rules of the game: law, property rights, norms), as the deepest determinant of historical economic performance rather than technical or geographic conditions alone. This explanatory angle is broader and complements Fogel's statistical tools rather than competing with them."
+gaps: []
 ---
 # New Institutional Economic History (Douglass North)
 
@@ -31,7 +29,7 @@ A theoretical framework developed by the American economist and economic histori
 
 ## Historical Context
 
-This trend emerged at Washington University in Seattle, then at Cambridge and later at Washington University in St. Louis, where North worked throughout his academic career. He began his career as a researcher in classical economic history concerning American shipping and agriculture, before gradually shifting in the 1970s towards broader questions about the causes of "wealth and poverty among nations" throughout history. This shift came in the context of the crisis of purely technical and geographical explanations of the Industrial Revolution, and it pushed institutional economics (founded by Thorstein Veblen and John R. Commons in the early twentieth century) towards a new form more amenable to historical testing.
+This trend developed from North's work at the University of Washington in Seattle, where he taught for decades, and was carried further at Washington University in St. Louis from the 1980s. He began his career as a researcher in classical economic history concerning American shipping and agriculture, before gradually shifting in the 1970s towards broader questions about the causes of "wealth and poverty among nations" throughout history. This shift came in the context of the crisis of purely technical and geographical explanations of the Industrial Revolution, and it pushed institutional economics (associated with Thorstein Veblen and John R. Commons in the early twentieth century) towards a new form more amenable to historical testing.
 
 ## The Central Concept: Institutions as the Rules of the Game
 
@@ -47,11 +45,11 @@ In *The Rise of the Western World* (with Robert Paul Thomas, 1973) and later wor
 
 ## Methodological Importance
 
-North shared the 1993 Nobel Prize in Economics with Robert Fogel "for having renewed research in economic history by applying economic theory and quantitative methods to explain economic and institutional change." North's theoretical framework and Fogel's statistical tools represent two complementary aspects of the same shift of "quantitative history" towards greater theoretical and methodological rigour. The methodological importance of this framework lies in the fact that it provides a bridge between traditional descriptive history (which narrates "what happened") and abstract economic theory (which assumes fixed institutions), by making the "rules of the game" themselves the object of historical explanation that changes over time, rather than an external given outside the analysis.
+North shared the 1993 Nobel Prize in Economics with Robert Fogel "for having renewed research in economic history by applying economic theory and quantitative methods in order to explain economic and institutional change." North's theoretical framework and Fogel's statistical tools represent two complementary aspects of the same shift of "quantitative history" towards greater theoretical and methodological rigour. The methodological importance of this framework lies in the fact that it provides a bridge between traditional descriptive history (which narrates "what happened") and abstract economic theory (which assumes fixed institutions), by making the "rules of the game" themselves the object of historical explanation that changes over time, rather than an external given outside the analysis.
 
 ## Criticism and Later Development
 
-North's framework has faced criticism from later economic historians who regarded it at times as circular (the existence of "good institutions" is inferred from the very growth that it is supposed to explain), or as over-generalising the experience of Western Europe to the rest of the world. Daron Acemoglu and James Robinson later developed a closely related framework (in *Why Nations Fail*, 2012) distinguishing between "extractive institutions" and "inclusive institutions," drawing directly on North's basic thesis about the centrality of institutions. Meanwhile North's concepts of "path dependence" and transaction costs have remained standard tools in comparative economic history to this day.
+North's framework has faced criticism from later economic historians who regarded it at times as circular (the existence of "good institutions" is inferred from the very growth that it is supposed to explain), or as over-generalising the experience of Western Europe to the rest of the world. Daron Acemoglu and James Robinson later developed a closely related framework (in *Why Nations Fail*, 2012) distinguishing between "extractive institutions" and "inclusive institutions," in the same broad tradition of stressing the centrality of institutions. Meanwhile North's concepts of "path dependence" and transaction costs have remained standard tools in comparative economic history to this day.
 
 ## Sources
 

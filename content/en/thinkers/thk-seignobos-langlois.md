@@ -13,54 +13,39 @@ language: "French"
 active_start: 1898
 active_end: 1929
 edges:
-- rel: "belongs_to", target: "French Methodical School (Seignobos, Langlois and the Introduction to Historical Studies)", target_type: "مدرسة"
+  - rel: "belongs_to", target: "French Methodical School (Seignobos, Langlois and the Introduction to Historical Studies)", target_type: "مدرسة"
 related:
-- id: "sch-french-methodical-school", title: "French Methodical School (Seignobos, Langlois and the Introduction to Historical Studies)", type: "مدرسة"
-gaps:
-  - "The two thinkers are treated in one entry because their central historical contribution is entirely shared (their joint authorship of the single book that founded the school). Their separate individual careers (Seignobos's later activity as a radical deputy, and Langlois's archival specialization) are not covered here beyond their shared contribution."
+  - id: "sch-french-methodical-school", title: "French Methodical School (Seignobos, Langlois and the Introduction to Historical Studies)", type: "مدرسة"
+gaps: []
 ---
 
 # Charles Seignobos and Charles-Victor Langlois
 
-## Definition
+Charles-Victor Langlois (1863–1929) and Charles Seignobos (1854–1942) were French historians and professors at the Sorbonne who co-authored the influential manual of the French **Methodical School** (*l'école méthodique*), establishing the procedural rules for modern professional historical education in France during the Third Republic.
 
-Two French historians, both professors at the Sorbonne, who co-wrote the book that codified the rules of academic historical research in France for decades.
+## Historical Context and Institutional Trajectories
 
-## Historical Context
+Following the French defeat in the Franco-Prussian War of 1870, academic reformers in the French Third Republic sought to modernize university education by adapting the German seminar model developed by Leopold von Ranke. Langlois and Seignobos spearheaded this institutional professionalization:
+- **Charles-Victor Langlois**: A medievalist and paleographer trained at the École Nationale des Chartes, Langlois specialized in diplomatics and medieval French administration. From 1913 until his death in 1929, he served as Director of the National Archives of France (*Archives nationales*) and was elected to the Académie des Inscriptions et Belles-Lettres, anchoring his methodological scholarship in direct archival preservation and source publication.
+- **Charles Seignobos**: A specialist in modern European history and French political institutions, Seignobos combined rigorous university teaching at the Sorbonne with active intellectual engagement in the secular, republican movement of the Third Republic. He was an outspoken Dreyfusard, an early member of the *Ligue des droits de l'homme*, and an influential contributor to national civic education through pedagogical manuals, notably his contributions to Ernest Lavisse's multi-volume *Histoire de France contemporaine*.
 
-The two wrote in the context of the establishment of the French Third Republic's modern university system after France's defeat by Prussia in 1870. French educational reformers looked with admiration at the German academic model (especially Ranke's method and the university seminars in Germany) and sought to build a professional French counterpart. Langlois held important administrative positions in the National Archives of France, while Seignobos combined academic teaching with radical republican political activity later in his life.
+## *Introduction aux études historiques* (1898)
 
-## Main Ideas and Method
+In 1898, Langlois and Seignobos published their joint methodological treatise, *Introduction aux études historiques* (translated into English in the same year by G. G. Berry as *Introduction to the Study of History*). Conceived as a practical handbook for university students, the book codified the scientific steps required to produce reliable historical knowledge:
+- **The Primacy of the Written Document**: The authors held that history is made with documents (*L'histoire se fait avec des documents*), and the book is associated with the positivist maxim "no documents, no history." They prioritized official written records, legal charters, and diplomatic correspondence as the foundation of inquiry.
+- **External Criticism (*Critique externe*)**: The preliminary stage of research, aimed at establishing the authenticity and physical integrity of the document. This involved paleographic analysis, verification of authorship and date, detection of anachronisms or forgeries, and textual collation to establish the original text.
+- **Internal Criticism (*Critique interne*)**: Divided into hermeneutic interpretation (determining what the author meant) and critical evaluation of sincerity and accuracy. Historians were instructed to systematically assess whether the author had a personal, political, or institutional interest in distorting the truth, and whether the author was in a position to observe the events accurately.
+- **Synthetic Operations (*Opérations synthétiques*)**: The grouping of verified individual facts into a coherent chronological and thematic narrative, emphasizing political, administrative, and constitutional developments.
 
-- **Introduction to Historical Studies (Introduction aux études historiques, 1898)**: the first organized "methodological manual" for training professional historians in France. It divides the historian's work into clear successive steps: searching for documents, external criticism (the authenticity of the document), internal criticism (the credibility of its content), and final synthesis.
-- **The principle "No documents, no history" (Pas de documents, pas d'histoire)**: a strict definition of the legitimate historical source that almost limits it to the official written document (administrative, legal, diplomatic), implicitly excluding other sources such as material culture or oral testimony.
-- **Craft, not philosophy**: the book presented itself as a technical "manual of craft" rather than an intellectual doctrine, avoiding any comprehensive philosophical theory about the meaning of history. This distinguished it from the German tradition, which was more preoccupied with questions of the philosophy of history (Dilthey, Droysen).
-- **Detailed rules of external and internal criticism**: the book developed specific procedures for examining a document. External criticism involved verifying the date, handwriting, language, ink and physical material. Internal criticism involved examining the author's biases and comparing multiple accounts. These rules remained the foundation of French historians' training for decades.
+## Historiographical Criticism and Legacy
 
-## Notable Works and Representatives
+In the late 1920s and 1930s, the methodical model of Langlois and Seignobos became the prime target of the founders of the Annales School, Lucien Febvre and Marc Bloch. The Annales historians accused the methodical school of promoting a narrow, sterile *histoire événementielle* (event-based history) that subordinated historical inquiry to the passive accumulation of political documents, while ignoring economic structures, social hierarchies, collective psychology, and non-written artifacts.
 
-Seignobos also published works on the political history of modern France (*Histoire politique de l'Europe contemporaine*), while Langlois specialized more in medieval France and diplomatics (the criticism of old official documents), drawing on his position in the management of the National Archives.
-
-## Position in the Current and Its Criticism
-
-Their model dominated French academic training until the 1930s, when it faced sharp criticism from the founders of the journal *Annales* (Febvre and Bloch, 1929). These critics accused it of narrowness: restricting history to the political and diplomatic "history of events" and neglecting social and economic structures. This criticism did not eliminate the usefulness of the documentary criticism tools themselves, but it radically broadened the definition of the legitimate historical source and subject. As a result, the Annales School later became the dominant current in twentieth-century French historiography, at the expense of the narrow documentary methodology of Seignobos and Langlois.
-
-## Major Works
-
-- *Introduction to Historical Studies* (Introduction aux études historiques, co-authored, 1898).
-
-## Additional Notes
-
-It is notable that Seignobos himself, despite his explicit commitment to strict methodological neutrality in the book he co-wrote with Langlois, pursued active party politics as a radical deputy in the French parliament. This raised later questions about how fully the methodological commitment to academic neutrality can be separated in practice from a historian's personal political engagement. Langlois and Seignobos's book also became a model that was translated and taught widely outside France. Its early English translation (1898) made it a standard reference for training graduate students in history at Anglo-American universities, alongside its central position in France, although its direct influence gradually declined after the rise of the Annales School in the second half of the twentieth century.
-
-The book was later translated into other languages and influenced the formation of national schools of professional history in many countries that borrowed this French model of documentary criticism before later developing their own methods, shaped by the Annales School or by Marxist and social currents.
-
-The book itself later became the subject of historical study. Historians of ideas analyzed it as a document revealing the mentality of the founding generation of the modern French historical profession and its scientific ambitions, regardless of how well its detailed methodological recommendations withstood later developments in the field.
-
-It is also noted that the book indirectly influenced the development of university history teaching methods in the Arab world during the twentieth century, through the transfer of the French model to newly founded Arab universities, which often borrowed the structure of French academic training and its methods of training historians in basic documentary criticism before moving on to more recent methodological approaches.
+Despite these criticisms, Langlois and Seignobos's systematic codification of documentary verification, heuristics, and critical scrutiny remained an influential pedagogical baseline for training academic historians in the twentieth century.
 
 ## Sources
 
-- Langlois, Charles-Victor, and Charles Seignobos. *Introduction to the Study of History*. Translated by G. G. Berry, Duckworth, 1898.
-- Iggers, Georg G. *Historiography in the Twentieth Century: From Scientific Objectivity to the Postmodern Challenge*. Wesleyan University Press, rev. ed. 2005.
 - Carbonell, Charles-Olivier. *Histoire et historiens: Une mutation idéologique des historiens français, 1865–1885*. Privat, 1976.
+- Iggers, Georg G. *Historiography in the Twentieth Century: From Scientific Objectivity to the Postmodern Challenge*. Wesleyan University Press, rev. ed. 2005.
+- Langlois, Charles-Victor, and Charles Seignobos. *Introduction to the Study of History*. Translated by G. G. Berry. Duckworth, 1898.
+- Seignobos, Charles. *Histoire politique de l'Europe contemporaine: Évolution des partis et des formes politiques, 1814–1896*. Armand Colin, 1897.

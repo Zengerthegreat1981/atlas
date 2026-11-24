@@ -16,8 +16,7 @@ related:
 - id: "con-historical-relativism", title: "Historical Relativism", type: "مفهوم"
 - id: "con-memory-history", title: "Memory and History", type: "مفهوم"
 - id: "con-anachronism-history", title: "Anachronism", type: "مفهوم"
-gaps:
-  - "No published thinker entry on Jörn Rüsen exists in content/ar/thinkers that could be verified quickly within this task; no developed_by link was added to avoid an unconfirmed reference."
+gaps: []
 ---
 
 # Historical Consciousness
@@ -47,10 +46,9 @@ The concept is also used in a broader sense, beyond Rüsen's direct framework, t
 
 Rüsen's framework has had a strong influence on the field of "history didactics" in Germany and Europe, where it has become a tool for analysing how "historical thinking" is built in students, and how national identity interacts with school narratives of the past (particularly in the context of dealing with Nazism and the Second World War in Germany). Historical consciousness also provides a theoretical basis for understanding how collective memory is invoked and used politically, and it intersects directly with debates on memory and history.
 
-## References
+## Sources
 
-- Rüsen, J. (1983–1989). *Historische Vernunft*, *Rekonstruktion der Vergangenheit*, *Lebendige Geschichte* (the "Historical Reason" trilogy). Vandenhoeck & Ruprecht.
-- Rüsen, J. (2004). "Historical Consciousness: Narrative Structure, Moral Function, and Ontogenetic Development." In *Theorizing Historical Consciousness*. University of Toronto Press.
-- Seixas, P. (ed.) (2004). *Theorizing Historical Consciousness*. University of Toronto Press.
-- Körber, A. (2016). "Historical Consciousness, Historical Competencies – and Beyond?" *Public History Weekly*.
-- Straub, J. (ed.) (2005). *Narration, Identity, and Historical Consciousness*. Berghahn Books.
+- Rüsen, J. (1983–1989). *Grundzüge einer Historik* (trilogy comprising *Historische Vernunft*, *Rekonstruktion der Vergangenheit*, and *Lebendige Geschichte*). Göttingen: Vandenhoeck & Ruprecht.
+- Rüsen, J. (2004). "Historical Consciousness: Narrative Structure, Moral Function, and Ontogenetic Development." In *Theorizing Historical Consciousness*, edited by Peter Seixas, 63–85. Toronto: University of Toronto Press.
+- Seixas, P. (ed.) (2004). *Theorizing Historical Consciousness*. Toronto: University of Toronto Press.
+- Straub, J. (ed.) (2005). *Narration, Identity, and Historical Consciousness*. New York: Berghahn Books.

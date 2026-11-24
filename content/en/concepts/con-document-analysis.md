@@ -17,31 +17,36 @@ gaps: []
 
 # Document Analysis
 
-The basic method of source criticism in historical research: examining a document, whether official or private, printed or handwritten, to verify its authenticity first, and then to establish what can be trusted in its content second. This is done through two complementary levels of criticism developed by the European tradition of diplomatics, beginning with Jean Mabillon in the seventeenth century.
+Document analysis is the foundational method of historical source criticism, providing the systematic procedures by which historians establish the authenticity, integrity, meaning, and evidentiary value of written records. Codified through the auxiliary historical sciences—principally diplomatics, palaeography, and sigillography—document analysis operates across two interconnected levels of inquiry: external criticism (*critique externe*) and internal criticism (*critique interne*).
 
-## External Criticism
+## External Criticism (Lower Criticism)
 
-External criticism examines the document as a **physical object**: the type of paper or parchment and its source, the ink and the type and development of the script across periods (paleography), the standard formal openings and closings used by a particular chancery in a particular era, and the seals and signatures. This level aims to answer a decisive preliminary question: is this document genuinely authentic and dated to the period and issuing authority it claims, or is it later or forged? An example is Lorenzo Valla's famous exposure of the forgery of the "Donation of Constantine" through precise linguistic and historical analysis, which showed that its vocabulary was inconsistent with the Latin of the fourth century.
+External criticism investigates the document as a physical artifact to verify its provenance, date, and physical authenticity:
 
-## Internal Criticism
+- **Material Support and Media**: Analysis of paper, parchment, papyrus, watermarks, ink composition, and seals (sigillography) to verify whether the physical materials correspond to the purported period of origin.
+- **Palaeography**: The study of historical handwriting styles and scribal ductus to determine chronological and regional provenance or detect multiple scribal hands.
+- **Diplomatic Formulas**: Systematic examination of the formal structure of chancery records, including protocol (invocatio, intitulatio, inscriptio), text body (narratio, dispositio, sanctio), and eschatocol (subscriptiones, date, seal). Discrepancies in these rigid administrative formulas frequently betray spurious documents.
 
-Once material authenticity has been confirmed, this level examines the **content** of the document. Who wrote it and for what purpose? How close was its author to the recorded event (an eyewitness or someone relaying what others said)? What was his interest or possible bias in portraying the event in a particular way? Does its content agree with what other independent sources say about the same event? This level is what turns the document from a merely "old, authentic piece" into a **historical piece of evidence** that can be relied upon to a specific degree of confidence.
+A celebrated early application was Lorenzo Valla's 1440 treatise *De falso credita et ementita Constantini donatione declamatio*, which exposed the *Donation of Constantine* as an eighth-century forgery through rigorous philological analysis of Latin anachronisms and legal formulas. Later, in *De re diplomatica* (1681), the Benedictine scholar Jean Mabillon is regarded as having laid the foundations of modern diplomatics to settle disputes over monastic charters.
 
-## Classification by Nature of the Source
+## Internal Criticism (Higher Criticism)
 
-Historians generally distinguish between the **primary source** (a document contemporary with the event itself: a letter, minutes of a session, a contract) and the **secondary source** (a later analysis based on primary sources). They generally prefer the primary source wherever it is accessible, a methodological principle established by the Rankean school in the nineteenth century, because it is the closest moment of production to the recorded event, even though this proximity does not by itself guarantee its neutrality.
+Once material authenticity is verified, internal criticism interrogates the document's contents and reliability:
 
-## Document Analysis in the Digital Age
+- **Hermeneutical Interpretation**: Deciphering the literal and contextual meaning of words and idioms as understood at the time of composition.
+- **Authorial Credibility and Point of View**: Assessing the author's proximity to the events (eyewitness versus secondhand informant), institutional allegiance, personal biases, and ideological motivations.
+- **Corroboration and Cross-Examination**: Comparing the statements of the document against independent contemporary sources to identify convergences, silences, or contradictions.
 
-The digitization of archives has added a new layer to document analysis. Optical character recognition (OCR) converts document images into searchable text, but it carries recognition errors that may introduce unintended distortions into the automatically extracted text. Therefore, contemporary method requires verifying any conclusion drawn from automatically extracted text of a scanned document by returning to the image of the original document itself, rather than relying on the extracted text alone, however reliable it may appear.
+In their influential manual *Introduction aux études historiques* (1898), Charles-Victor Langlois and Charles Seignobos formulated internal criticism as a series of negative analytical operations, warning historians never to accept statements at face value without interrogating the author's good faith and accuracy.
 
-## Limitation
+## The Digital Dimension and Methodological Limits
 
-Document analysis remains a tool that produces **varying degrees of confidence**, not absolute certainty. Even a fully authentic document may reflect its author's bias or incomplete information, and a lost or destroyed document (whether deliberately or accidentally) leaves a gap that no methodological analysis can fill. This obliges the historian to always disclose the limits of what the sources actually available allow, rather than assuming the record is complete.
+In the contemporary era, mass digitization and optical character recognition (OCR) have expanded documentary access while introducing new methodological challenges. OCR errors can corrupt text strings, and digital surrogates obscure physical details such as paper texture, binding structures, and marginalia. Modern document analysis therefore requires historians to inspect high-resolution digital facsimiles alongside physical originals. Ultimately, document analysis yields probable knowledge rather than infallible truth, requiring historians to contextualize written evidence within broader societal structures.
 
 ## Sources
 
-- Mabillon, Jean. *De Re Diplomatica Libri Sex*. Paris: Louis Billaine, 1681.
-- Valla, Lorenzo. *On the Donation of Constantine*, trans. G. W. Bowersock. Cambridge, MA: Harvard University Press (I Tatti Renaissance Library), 2007.
 - Bloch, Marc. *Apologie pour l'histoire ou métier d'historien*. Paris: Armand Colin, 1949.
 - Duranti, Luciana. *Diplomatics: New Uses for an Old Science*. Lanham: Scarecrow Press, 1998.
+- Langlois, Charles-Victor, and Charles Seignobos. *Introduction aux études historiques*. Paris: Hachette, 1898.
+- Mabillon, Jean. *De Re Diplomatica Libri Sex*. Paris: Louis Billaine, 1681.
+- Valla, Lorenzo. *On the Donation of Constantine*. Translated by G. W. Bowersock. Cambridge, MA: Harvard University Press (I Tatti Renaissance Library), 2007.

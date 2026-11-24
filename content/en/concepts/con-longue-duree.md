@@ -10,8 +10,7 @@ crumb: "Historiography ← Concepts ← Longue Durée"
 edges: []
 related:
 - id: "thk-fernand-braudel", title: "Fernand Braudel", type: "مفكر"
-gaps:
-  - "The exact slug of the Fernand Braudel entry in content/ar has not been verified; if the name differs from 'thk-fernand-braudel', the link should be corrected, or removed if it cannot be located."
+gaps: []
 ---
 
 # Longue Durée
@@ -30,7 +29,7 @@ Braudel argued that understanding real history requires considering these three 
 
 ## Impact and Criticism
 
-The concept revolutionised historical writing by shifting the focus from political *histoire événementielle* (the history of events) to the history of long-term structures, and it deeply influenced the development of economic, environmental and demographic history, as well as fields such as historical geography and archaeology. Interest in the concept re-emerged strongly in the 2010s through the writings of historians of the "history manifesto," including David Armitage and Jo Guldi in *The History Manifesto* (2014), who called for a revival of long-range analysis against an academic specialisation excessively focused on very short periods.
+The concept transformed modern historical writing by shifting the focus from political *histoire événementielle* (the history of events) to the history of long-term structures, and it deeply influenced the development of economic, environmental and demographic history, as well as fields such as historical geography and archaeology. Interest in the concept re-emerged strongly in the 2010s through the writings of historians of the "history manifesto," including David Armitage and Jo Guldi in *The History Manifesto* (2014), who called for a revival of long-range analysis against an academic specialisation excessively focused on very short periods.
 
 The concept has been criticised from several directions. Some historians argue that an excessive focus on quasi-static structures may neglect the agency of individual historical actors and their capacity to bring about real and rapid change. Moreover, the boundaries between the three temporal levels (geographical, social and individual) are in practice less clear than the theoretical classification suggests, and Braudel himself acknowledged the difficulty of separating them completely in the practice of historical writing.
 

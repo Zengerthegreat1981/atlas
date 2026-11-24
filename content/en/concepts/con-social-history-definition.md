@@ -12,8 +12,7 @@ edges:
 related:
 - id: "thk-e-p-thompson", title: "E. P. Thompson", type: "مفكر"
 - id: "thk-eric-hobsbawm", title: "Eric Hobsbawm", type: "مفكر"
-gaps:
-  - "The precise distinction between 'social history' in its broad, general sense and 'history from below' as a specific current within it is a classification question on which historians themselves differ."
+gaps: []
 ---
 
 # Social History: Definition and Scope
@@ -26,11 +25,11 @@ In its broadest form, social history is defined as the study of the collective e
 
 ## Thompson's Formulation: "History from Below"
 
-The most influential formulation of this definition was made by the British historian E. P. Thompson in 1966 under the term "History from Below." It became one of the most widely used definitions of the whole field. Thompson put this method into practice in his landmark work *The Making of the English Working Class* (1963), which traced the emergence of a political class consciousness among English workers in the late eighteenth and early nineteenth centuries by reconstructing their forgotten daily experiences from neglected documents, rather than narrating decisions made about them by politicians and elites. Thompson regarded this approach as an attempt to uncover the "social nexus" through which large-scale historical change takes place, instead of assuming that change is made only from above.
+An influential formulation of this definition was made by the British historian E. P. Thompson in 1966 under the term "History from Below." It became one of the most widely used definitions of the whole field. Thompson put this method into practice in his landmark work *The Making of the English Working Class* (1963), which traced the emergence of a political class consciousness among English workers in the late eighteenth and early nineteenth centuries by reconstructing their forgotten daily experiences from neglected documents, rather than narrating decisions made about them by politicians and elites. Thompson's approach treated ordinary people as active agents of historical change rather than assuming that change is made only from above.
 
 ## From "From Above" to "From Below": The Methodological Shift
 
-Before this shift, writings classified as social history tended to study the social and economic structure "from above," as a background to major political events, or as aggregate statistics on classes and occupations without examining how individuals lived within them. Thompson's work, after the Second World War, produced a decisive methodological shift toward the "from below" approach, which was regarded as a necessary correction to the dominance of traditional "from above" historical writing, which ignored the experience of the non-elite majority as unworthy of systematic historical documentation.
+Before this shift, writings classified as social history tended to study the social and economic structure "from above," as a background to major political events, or as aggregate statistics on classes and occupations without examining how individuals lived within them. Thompson's work, among others after the Second World War, contributed to a methodological shift toward the "from below" approach, which was regarded as a necessary correction to the dominance of traditional "from above" historical writing, which ignored the experience of the non-elite majority as unworthy of systematic historical documentation.
 
 ## Methodological Tools
 
@@ -42,8 +41,8 @@ This definition raises a fundamental methodological problem: how can the "voices
 
 ## Sources
 
-- Thompson, E. P. *The Making of the English Working Class*. London: Victor Gollancz, 1963.
-- Hobsbawm, Eric J. "From Social History to the History of Society." *Daedalus* 100(1), 1971.
 - Burke, Peter. *History and Social Theory*. Cambridge: Polity Press, 1992.
-- Sharpe, Jim. "History from Below." In Peter Burke (ed.), *New Perspectives on Historical Writing*. Cambridge: Polity Press, 1991.
+- Hobsbawm, Eric J. "From Social History to the History of Society." *Daedalus* 100, no. 1 (1971): 20–45.
 - Iggers, Georg G. *Historiography in the Twentieth Century: From Scientific Objectivity to the Postmodern Challenge*. Middletown: Wesleyan University Press, 1997.
+- Sharpe, Jim. "History from Below." In *New Perspectives on Historical Writing*, edited by Peter Burke, 24–41. Cambridge: Polity Press, 1991.
+- Thompson, E. P. *The Making of the English Working Class*. London: Victor Gollancz, 1963.

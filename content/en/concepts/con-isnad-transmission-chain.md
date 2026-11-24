@@ -38,16 +38,18 @@ Modern Orientalist studies have developed a parallel method known as "Isnad-cum-
 
 ## The Isnad in Historical Writing
 
-The isnad did not remain the preserve of hadith science. It passed as a basic methodological tool into early Islamic historiography. The historical method of al-Tabari in his *History of the Prophets and Kings* (*Tarikh al-Rusul wa'l-Muluk*) is a direct extension of his scholarly identity as a hadith scholar: for each historical report he gives its full isnad, leaving the reader the task of assessing the report instead of imposing a final, definitive judgement. The historical text thus becomes a "dialogic space" in which multiple reports are presented side by side. This approach clearly distinguishes early Islamic historiography from Greco-Roman historiography, which relied on the coherent narrative of a single author without documenting the chain of transmission in the same detail.
+The isnad did not remain the preserve of hadith science. It passed as a basic methodological tool into early Islamic historiography. The historical method of Muhammad ibn Jarir al-Tabari (224–310 AH / 839–923 CE) in his *History of the Prophets and Kings* (*Tarikh al-rusul wa'l-muluk*) is a direct extension of his scholarly identity as a hadith scholar: for each historical report he gives its full isnad, leaving the reader the task of assessing the report instead of imposing a final, definitive judgement. The historical text thus becomes a "dialogic space" in which multiple reports are presented side by side. This approach clearly distinguishes early Islamic historiography from Greco-Roman historiography, which relied on the coherent narrative of a single author without documenting the chain of transmission in the same detail.
 
 ## Criticism and Limits
 
-The methodology of the isnad faces continuing debate between traditional Muslim scholars and contemporary Orientalists over its historical reliability. Some Orientalists (such as the Revisionist school of criticism) argue that isnads may have been constructed retrospectively to lend legitimacy to later reports, while other researchers (such as the "Common Link" school of Harald Motzki) defend the possibility of using the same isnad tools to date the origin of reports in a critical and relatively reliable way.
+The methodology of the isnad faces continuing debate between traditional Muslim scholars and contemporary Orientalists over its historical reliability. Some Orientalists (such as the Revisionist school of criticism) argue that isnads may have been constructed retrospectively to lend legitimacy to later reports, while other researchers (such as Harald Motzki, who employs isnad-cum-matn analysis) defend the possibility of using the same isnad tools to date the origin of reports in a critical and relatively reliable way.
 
-## References
+## Sources
 
-- Motzki, H. (2010). *Analysing Muslim Traditions: Studies in Legal, Exegetical and Maghazi Hadith*. Brill.
-- Juynboll, G. H. A. (1983). *Muslim Tradition: Studies in Chronology, Provenance and Authorship of Early Hadith*. Cambridge University Press.
-- Humphreys, R. S. (1991). *Islamic History: A Framework for Inquiry*. Princeton University Press.
-- Robinson, C. F. (2003). *Islamic Historiography*. Cambridge University Press.
-- Rosenthal, F. (1968). *A History of Muslim Historiography* (2nd ed.). Brill.
+- al-Tabari, Muhammad ibn Jarir. *Tarikh al-rusul wa'l-muluk*. Edited by Muhammad Abu al-Fadl Ibrahim. 10 vols. Cairo: Dar al-Ma'arif, 1960–1969.
+- Humphreys, R. S. *Islamic History: A Framework for Inquiry*. Princeton: Princeton University Press, 1991.
+- Juynboll, G. H. A. *Muslim Tradition: Studies in Chronology, Provenance and Authorship of Early Hadith*. Cambridge: Cambridge University Press, 1983.
+- Motzki, Harald. *Analysing Muslim Traditions: Studies in Legal, Exegetical and Maghazi Hadith*. Leiden: Brill, 2010.
+- Robinson, Chase F. *Islamic Historiography*. Cambridge: Cambridge University Press, 2003.
+- Rosenthal, Franz. *A History of Muslim Historiography*. 2nd rev. ed. Leiden: Brill, 1968.
+- Schoeler, Gregor. *The Biography of Muhammad: Nature and Authenticity*. Translated by Uwe Vagelpohl, edited by James E. Montgomery. London: Routledge, 2011.

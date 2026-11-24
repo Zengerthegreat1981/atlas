@@ -8,55 +8,42 @@ title: "Moses Maimonides: The Philosopher-Historian"
 en: "Maimonides and Philosophical Historiography"
 birth_year: 1138
 death_year: 1204
+active_start: 1168
+active_end: 1204
 crumb: "Historiography ← Thinkers ← Moses Maimonides"
 dates: "Córdoba, then Fustat (Cairo) · 1138–1204"
 country: "Al-Andalus, Egypt"
 language: "Judeo-Arabic, Hebrew"
 edges: []
 related: []
-gaps:
-  - "The exact birth year is disputed among sources (some favour 1135); 1138 is adopted as the more likely date according to most contemporary scholars."
+gaps: []
 ---
 
 # Moses Maimonides: The Philosopher-Historian
 
-Moses ben Maimon (Moshe ben Maimon, known in Hebrew by the acronym "Rambam"), a Jewish philosopher, jurist and physician, was born in Córdoba in al-Andalus in 1138. His family emigrated to escape the persecution of the Almohads, travelling through the Maghreb until they settled in Fustat (Cairo), where he worked as a physician at the court of Saladin and then of his son al-Afdal, and where he died in 1204. He is regarded as the greatest Jewish jurist and philosopher of the medieval period, and wrote most of his works in Judeo-Arabic (in Hebrew script).
+Moses ben Maimon (Moshe ben Maimon, known in Hebrew by the acronym "Rambam" and in Arabic as Musa ibn Maymun, 1138–1204 / 533–601 AH; some traditional accounts suggest 1135) was a philosopher, jurist, and physician. Born in Córdoba in al-Andalus, he and his family fled following the Almohad takeover of southern Iberia, traveling across North Africa before settling in Fustat (Old Cairo), Egypt. In Cairo he served as physician in the Ayyubid court circle (to Saladin's vizier al-Qadi al-Fadil and later Saladin's son al-Afdal), while serving as the recognized leader of the Egyptian Jewish community. Though primarily celebrated for jurisprudence and metaphysics, Maimonides also brought historical perspectives to bear on law and religion.
 
-## What He Left Behind
+## Major Works and Historiographical Dimensions
 
-### *The Guide of the Perplexed* (Dalalat al-Ha'irin / More Nevukhim)
-
-Written in Judeo-Arabic between roughly 1185 and 1190, addressed to those who had received both a religious and a philosophical education and who were troubled by what appeared to them a contradiction between the apparent sense of the sacred texts and Greco-Arabic philosophy (Aristotle in particular, mediated through al-Farabi and Ibn Sina). The book sought the **philosophical interpretation** of Biblical expressions that suggest corporeality in God (such as anger, hand, and sitting), establishing a rigorously negative theology (the doctrine of "negation" in divine attributes). It later exerted a profound influence on Thomas Aquinas and on Latin scholastic philosophy.
+### *The Guide of the Perplexed* (*Dalalat al-Ha'irin* / *Moreh Nevukhim*)
+Composed in Judeo-Arabic between 1185 and 1190, the *Guide* was addressed to students versed in both Jewish scripture and Greco-Arabic philosophy (Aristotle as mediated by al-Farabi and Ibn Sina). In Book III (chapters 29–32), Maimonides developed a historical-contextual approach to explain the rationale of biblical commandments (*ta'amei ha-mitzvot*). Studying Arabic translations of pagan Sabian treatises, including the *Nabataean Agriculture* (*al-Filaha al-Nabatiyya*), he argued that biblical sacrificial rituals were historically situated measures designed to wean the ancient Israelites away from pagan idolatry (*avodah zarah*) through pedagogical accommodation.
 
 ### *Mishneh Torah*
+Composed in Mishnaic Hebrew between 1170 and 1180, this fourteen-volume code offered a comprehensive, thematic restructuring of Jewish law (halakha). Beyond its juridical function, the work represents a significant historiographical intervention. In the historical narrative opening the *Laws of Idolatry* (*Hilkhot Avodat Kokhavim*, chapter 1), Maimonides outlined a rationalist historical etiology of religious degeneration, tracing humanity's shift from monotheism to astral idolatry in the generation of Enosh, and the subsequent recovery of monotheism through Abraham's philosophical reflection. Furthermore, the work's general introduction traces the continuous chain of oral transmission from Moses to the redactors of the Talmud, establishing an authoritative genealogy of legal authority.
 
-A vast legal compendium in Hebrew (fourteen books), composed between 1170 and 1180. It was the first systematic and comprehensive codification of the whole of Jewish law (halakha) in clear Hebrew, arranged thematically in an organised order that spares the reader from tracing the intricate disputes of the Talmud. This codifying work is itself a historical act: a re-**organisation** of an oral and argumentative tradition accumulated over centuries into a single rational structure. This led some historians of Jewish thought to read his method in the *Mishneh Torah* as a **historiographical** practice that shapes a coherent narrative of the development of the law from Moses to his own time.
+### Commentary on the Mishnah (*Kitab al-Siraj*)
+Completed around 1168 in Judeo-Arabic, this commentary clarified the foundational texts of rabbinic law. In the introduction to chapter *Helek* (Sanhedrin), Maimonides articulated his "Thirteen Principles of Faith" (*Ikkarim*), reflecting a conscious effort to establish doctrinal boundaries within Jewish history.
 
-### Commentary on the Mishnah (Kitab al-Siraj)
+## Intellectual Influence and Controversies
 
-Completed in his youth (around 1168), a systematic Arabic commentary on the Mishnah. In it he formulated his "Thirteen Principles of Faith" (Ikkarim), which became close to a concise Jewish "creed", although Judaism had no codified doctrinal tradition before him.
-
-## Legacy
-
-- **Latin scholastic philosophy**: Thomas Aquinas was directly influenced by him on questions of philosophical theology.
-- **Jewish law**: the *Mishneh Torah* remains a living halakhic authority to this day.
-- **The Maimonidean Controversy**: after his death, his philosophical writings (especially the *Guide*) provoked a sharp dispute between supporters of philosophical interpretation and its opponents, known as the "Maimonidean Controversy", which lasted for nearly a century and included the burning of some of his books in Montpellier in 1232.
-
-## Limitations
-
-- His interpretive method in the *Guide* drew accusations from opponents that he subjected the sacred text to Aristotle more than he subjected Aristotle to the text; this disagreement has never been resolved.
-- Because he wrote in Judeo-Arabic, his philosophical works reached Hebrew readers through translations (most notably that of Shmuel ibn Tibbon), some of which contain problems in rendering the Arabic philosophical terminology.
-
-## Major Works
-
-- Commentary on the Mishnah (Kitab al-Siraj), c. 1168.
-- *Mishneh Torah* (Mishneh Torah), 1170–1180.
-- *The Guide of the Perplexed* (Dalalat al-Ha'irin / More Nevukhim), c. 1190.
+- **Scholastic Philosophy**: Through early translations, notably the Latin version of the *Guide* (*Dux Neutrorum*), Maimonides influenced medieval Christian scholasticism, particularly Albertus Magnus and Thomas Aquinas, on divine attributes and the creation of the world.
+- **The Maimonidean Controversy**: His philosophical rationalism triggered prolonged controversies in southern France and northern Spain during the thirteenth century, culminating in bans and the burning of his writings at Montpellier in 1232.
+- **Translation and Reception**: Because Maimonides wrote primarily in Judeo-Arabic, his philosophical legacy in Europe depended upon Hebrew translations, particularly the rendering by Samuel ibn Tibbon, which established a new philosophical vocabulary in Hebrew.
 
 ## Sources
 
-- Maimonides. *The Guide of the Perplexed*. Translated by Shlomo Pines. Chicago: University of Chicago Press, 1963.
-- Davidson, Herbert A. *Moses Maimonides: The Man and His Works*. Oxford: Oxford University Press, 2005.
-- Seeskin, Kenneth. "Maimonides." *Stanford Encyclopedia of Philosophy*, 2006 (rev. 2023).
-- Kraemer, Joel L. *Maimonides: The Life and World of One of Civilization's Greatest Minds*. New York: Doubleday, 2008.
-- Twersky, Isadore. *Introduction to the Code of Maimonides (Mishneh Torah)*. New Haven: Yale University Press, 1980.
+- Davidson, Herbert A. *Moses Maimonides: The Man and His Works*. Oxford University Press, 2005.
+- Funkenstein, Amos. *Perceptions of Jewish History*. University of California Press, 1993.
+- Halbertal, Moshe. *Maimonides: Life and Thought*. Princeton University Press, 2013.
+- Maimonides, Moses. *The Guide of the Perplexed*. Translated by Shlomo Pines. University of Chicago Press, 1963.
+- Twersky, Isadore. *Introduction to the Code of Maimonides (Mishneh Torah)*. Yale University Press, 1980.

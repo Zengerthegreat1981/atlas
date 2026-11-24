@@ -15,8 +15,7 @@ edges:
 related:
 - id: "con-historical-relativism", title: "Historical Relativism", type: "مفهوم"
 - id: "con-historiographical-consciousness", title: "Historiographical Consciousness", type: "مفهوم"
-gaps:
-  - "Not yet covered: no published node in the Arabic thinkers folder for Pierre Nora or Maurice Halbwachs could be verified quickly within this task. No developed_by links were added, to avoid unverified references."
+gaps: []
 ---
 
 # Memory and History
@@ -43,10 +42,10 @@ The field contains a structural tension. On the one hand, collective memory offe
 
 This concept intersects with historical relativism (the idea that every account of the past, memory included, is conditioned by the position of its narrator) and with historical consciousness (the distinction societies make between their "remembered past" and their critical knowledge of their own history). It also provides a necessary background for understanding debates on transitional justice and policies for acknowledging crimes of the past.
 
-## References
+## Sources
 
-- Halbwachs, M. (1925). *Les cadres sociaux de la mémoire*. Alcan.
-- Nora, P. (dir.) (1984–1992). *Les Lieux de Mémoire*. Gallimard.
-- Nora, P. (1989). "Between Memory and History: Les Lieux de Mémoire." *Representations*, 26.
-- Portelli, A. (1991). *The Death of Luigi Trastulli and Other Stories: Form and Meaning in Oral History*. State University of New York Press.
-- Winter, J. (2006). *Remembering War: The Great War Between Memory and History*. Yale University Press.
+- Halbwachs, Maurice. *Les cadres sociaux de la mémoire*. Paris: Félix Alcan, 1925. English edition translated by Lewis A. Coser as *On Collective Memory*. Chicago: University of Chicago Press, 1992.
+- Nora, Pierre, ed. *Les Lieux de mémoire*. 3 tomes, 7 vols. Paris: Gallimard, 1984–1992.
+- Nora, Pierre. "Between Memory and History: Les Lieux de Mémoire." *Representations*, no. 26 (1989): 7–24.
+- Portelli, Alessandro. *The Death of Luigi Trastulli and Other Stories: Form and Meaning in Oral History*. Albany: State University of New York Press, 1991.
+- Winter, Jay. *Remembering War: The Great War Between Memory and History*. New Haven: Yale University Press, 2006.

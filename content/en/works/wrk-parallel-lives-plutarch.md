@@ -20,31 +20,28 @@ gaps: []
 
 # Parallel Lives (*Bioi Parallēloi*)
 
-The **greatest comparative biographical work** of the ancient world, written by the Greek writer and philosopher **Plutarch** (c. 46–120 CE) at the beginning of the second century CE (around 100–115 CE, approximately). In it he compares the lives of leading Greek and Roman statesmen and commanders, pairing each Greek figure with a Roman counterpart on the basis of similarity of character or fate.
+The *Parallel Lives* (*Bioi Parallēloi*), composed by the Greek biographer, essayist, and Middle Platonist philosopher Plutarch of Chaeronea (c. 46–119/120 CE) during the reigns of Trajan and Hadrian (c. 100–115 CE), is the best-known comparative biographical work of classical antiquity. Dedicated to his Roman patron, Quintus Sosius Senecio, the work pairs prominent Greek statesmen and military commanders with Roman counterparts sharing similar temperaments or historical destinies.
 
-## Structure
+## Structure and Comparative Method
 
-Some fifty lives survive from the work: twenty-three pairs of parallel lives and four single lives. Each pair is usually concluded with a brief comparative essay (*synkrisis*) that assesses the moral similarities and differences between the two contrasting figures — such as Alexander the Great against Julius Caesar, Demosthenes against Cicero, or Theseus against Romulus. This binary structure, closed by an explicit comparison, invites the reader to **active participation** in the moral judgement, rather than passive reception of a single continuous narrative.
+Fifty lives survive from the collection: twenty-three parallel pairs (forty-six lives) and four single, unpaired biographies (Artaxerxes II, Aratus of Sicyon, Galba, and Otho). The opening pair—Epaminondas and Scipio Africanus—has been lost. In nineteen of the surviving twenty-three pairs, the two biographies are concluded by an explicit comparative essay (*synkrisis*). These pairings juxtapose legendary founders (Theseus and Romulus), ancient lawgivers (Lycurgus and Numa Pompilius), supreme orators (Demosthenes and Cicero), and world conquerors (Alexander the Great and Julius Caesar). The formal *synkrisis* systematically balances the virtues, vices, political contexts, and ultimate fates of the two subjects, encouraging the reader to weigh moral choices rather than passively absorb a chronicle.
 
-## Moral Purpose, Not Historical Purpose
+## Biography Versus History
 
-In the preface to the *Life of Alexander*, Plutarch explicitly states that he is **not a historian in the precise sense**, and that his aim is not so much to record the great events as to extract the **virtues and vices** latent in the details of personal conduct, which often reveal character more than the great battles themselves. According to researchers, he applies the Aristotelian ethics of virtue to judging the lives of public figures, using biography as a tool for the reader's self-reflection and moral improvement rather than as a neutral historical record.
+In the famous prologue to the *Life of Alexander* (1.1–2), Plutarch explicitly delineates his genre, stating that he writes not history (*historia*), but lives (*bioi*). For Plutarch, momentous military campaigns and major geopolitical transformations do not necessarily reveal moral character (*ethos*). Instead, a casual remark, a private gesture, or a personal anecdote often discloses virtue or vice more incisively than a battle claiming tens of thousands of casualties. Grounded in Middle Platonism and Aristotelian virtue ethics, Plutarch treats human lives as ethical mirrors. His goal was moral pedagogy: presenting exemplars of civic virtue, magnanimity, and moderation (*phronēsis*), alongside cautionary portraits of unbridled ambition (*pleonexia*) and moral degeneration.
 
-## Narrative Method
+## Sources and Historical Value
 
-Plutarch combines factual narrative (drawn from many earlier historical sources, some of which are lost and survive only through his retelling) with analytical psychological digressions that explain the motives of the character. He deploys individuals as **moral actors** who are summoned to stimulate the reader's critical thinking. Plutarch does not offer ready-made rules for moral judgement; rather, he encourages the reader to draw them out independently from the details presented.
+Although Plutarch subordinated political history to moral characterization, the *Parallel Lives* remains an important historical source. Living in Boeotia while maintaining ties to the Roman elite, Plutarch drew on a wide range of earlier writings. He cites numerous of classical historians, annalists, poets, and statesmen whose original writings are otherwise lost, including Theopompus, Ephorus, Callisthenes, Hieronymus of Cardia, and early Roman annalists. While modern historians exercise methodological caution—recognizing that Plutarch occasionally compressed chronology, heightened rhetorical drama, or selected anecdotal material to reinforce moral lessons—his work remains important for modern reconstructions of classical Greek and late Republican Roman history.
 
-## Impact
+## Reception and Legacy
 
-The work established the **method of comparative biography** as an independent literary-historical genre, and profoundly influenced later Western literature and thought. It reached from Shakespeare, who drew the material of his Roman plays (*Julius Caesar*, *Antony and Cleopatra*) directly from Thomas North's English translation of the work, to Enlightenment thinkers and the American and French revolutions, whose figures drew on Plutarch's lives as models of classical republican virtue.
-
-## Limitation
-
-Because of its explicitly stated moral and didactic nature, the work is not a neutral historical source by modern standards. Plutarch sometimes selects and interprets events in ways that serve the intended moral lesson, which requires the contemporary historian to treat it cautiously as a secondary source that needs comparative verification against other sources contemporary with the events narrated.
+The *Parallel Lives* influenced early modern European literature and political thought. Jacques Amyot's French translation (1559) and Sir Thomas North's English version (1579, made from Amyot's French) provided the primary dramatic sources for William Shakespeare's Roman plays, notably *Julius Caesar*, *Antony and Cleopatra*, and *Coriolanus*. During the Enlightenment and the revolutionary eras in America and France, readers such as Jean-Jacques Rousseau drew on Plutarch's portraits of figures like Solon, Publicola, and Cato the Younger as models of civic virtue.
 
 ## Sources
 
-- Plutarch, *Parallel Lives*, trans. Bernadotte Perrin, Loeb Classical Library (Harvard University Press, 1914–1926).
-- Christopher Pelling, *Plutarch and History: Eighteen Studies* (Classical Press of Wales, 2002).
-- Timothy E. Duff, *Plutarch's Lives: Exploring Virtue and Vice* (Oxford University Press, 1999).
-- Philip A. Stadter, *Plutarch and His Roman Readers* (Oxford University Press, 2015).
+- Duff, Timothy E. *Plutarch's Lives: Exploring Virtue and Vice*. Oxford: Oxford University Press, 1999.
+- Pelling, Christopher. *Plutarch and History: Eighteen Studies*. London: The Classical Press of Wales, 2002.
+- Perrin, Bernadotte, trans. *Plutarch: Lives*. 11 vols. Loeb Classical Library. Cambridge, MA: Harvard University Press, 1914–1926.
+- Stadter, Philip A. *Plutarch and His Roman Readers*. Oxford: Oxford University Press, 2015.
+- Wardman, Alan. *Plutarch's Lives*. Berkeley: University of California Press, 1974.

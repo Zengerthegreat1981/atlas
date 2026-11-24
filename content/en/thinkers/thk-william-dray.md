@@ -17,50 +17,52 @@ edges:
 related:
 - id: "sch-critical-philosophy-of-history", title: "Critical Philosophy of History (Dilthey, Collingwood, Dray, Hempel and the Covering-Law Model)", type: "مدرسة"
 - id: "thk-carl-hempel", title: "Carl Hempel", type: "مفكر"
-gaps:
-  - "Dray's later specialized study of Collingwood's own philosophy (History as Re-enactment, 1995): not yet covered in detail beyond this general reference."
+gaps: []
 ---
+
 # William H. Dray
 
 ## Definition
 
-William H. Dray was a Canadian philosopher and professor at the University of Toronto, who put forward an intermediate position in the debate over the explanation of history, between Hempel's strict positivism and Collingwood's hermeneutics.
+**William Herbert Dray** (1921–2009) was a Canadian philosopher of history who played a central role in twentieth-century analytical debates concerning the nature of historical explanation. Dray formulated a distinctive non-positivist theory of "rational explanation," carving out an influential position between Carl G. Hempel's covering-law model and R. G. Collingwood's idealist hermeneutics.
 
-## Historical Context
+## Historical and Intellectual Context
 
-Dray wrote in the midst of a heated analytical philosophical debate in the 1950s about the nature of historical explanation. The debate was prompted by the thesis of the German-American philosopher Carl Hempel in his well-known article "The Function of General Laws in History" (1942), which applied the Covering Law Model, borrowed from the logical positivist philosophy of the natural sciences, to historical explanation. Hempel claimed that every sound historical explanation implies, explicitly or implicitly, a general law linking cause and effect. Dray, influenced by the British hermeneutic philosophy of Collingwood, held that this model distorts the actual nature of historical understanding.
+Born in Montreal, Dray studied at the University of Toronto before further study at Oxford. He held academic appointments at the University of Toronto, Trent University, and the University of Ottawa. 
 
-## Core Ideas and Method
+Dray emerged into prominence during the mid-twentieth-century debate initiated by Carl G. Hempel's seminal paper, "The Function of General Laws in History" (1942). Hempel argued that any valid historical explanation must subsume events under universal, empirical laws (the deductive-nomological or "covering-law" model) imported from the natural sciences. Drawing inspiration from Collingwood's philosophy of action and British analytical ordinary language philosophy, Dray challenged the assumption that historical understanding requires empirical generalization.
 
-- **Laws and Explanation in History (1957):** Dray rejects Hempel's strict thesis (that every historical explanation implies a general law, stated or tacit). In its place he proposes **"rational explanation"**: explaining the action of a historical agent by showing that it was reasonable given the agent's beliefs and goals in their context, without needing a general law that covers every similar case.
-- **Critique of the covering-law model:** He argues that the general laws Hempel proposes, when formulated precisely enough to be true, become trivial or circular (such as "everyone who wants something and believes that doing something will get it usually does it"), and when formulated with actual content they are false in many cases. They therefore do not serve the explanatory function claimed for them.
-- **History as disciplined re-enactment:** He later developed a sympathetic understanding of Collingwood's project (*History as Re-enactment*, 1995), arguing that "re-thinking" the ideas of historical agents is a disciplined practice open to critical evaluation, not free subjective guesswork. Dray clarifies that Collingwood did not mean a vague emotional empathy, but the reconstruction of the practical reasoning that governed a historical agent's decision, based on the available evidence about its context.
-- **The distinction between "why" and "how":** Dray distinguishes between explaining why an event occurred and explaining how it occurred in actual detail. He notes that much historical writing in fact limits itself to the second kind (a detailed, sequential narrative), without any explicit need for a general law explaining it in the sense Hempel requires.
+## Core Ideas and Historiographical Method
 
-## Key Representatives and Context
+### 1. Critique of the Covering-Law Model
+In his influential monograph *Laws and Explanation in History* (1957), Dray argued that the deductive-nomological model fundamentally misconstrues historical practice. He argued that general laws in history are either vacuously broad (and thus explanatory trivialities) or, when formulated with empirical specificity, demonstrably false.
 
-Along with Patrick Gardiner and Maurice Mandelbaum, Dray is among the most prominent British-Canadian analytical philosophers of history who developed an intermediate position between American logical positivism (Hempel) and British hermeneutics (Collingwood) in the 1950s and 1960s.
+### 2. Rational Explanation
+As an alternative to nomological subsumption, Dray proposed the concept of **rational explanation**. To explain an individual human action, a historian does not need to cite a universal law governing human behavior; rather, the historian must reconstruct the *rationale* of the action from the agent's own perspective. A rational explanation displays the action as having been appropriate, reasonable, or intelligible given the agent's specific beliefs, objectives, and perception of the situation (*calculation*).
 
-## Impact and Criticism
+### 3. Explanation of "How-Possibly"
+Dray made a key distinction between explaining "why" an event was necessary and explaining "how" it was possible (*how-possibly explanation*). Historians frequently operate not by showing why an event was inevitable under deterministic laws, but by removing perceived impediments to show how a surprising or complex outcome could have occurred.
 
-Dray is the most important intermediate voice in the debate over historical explanation between Hempel and Collingwood. He offered "rational explanation" as an alternative, which influenced later analytical philosophy of history as a compromise between legal determinism and subjective hermeneutics. His position was in turn met with criticism from defenders of Hempel, who argue that the "rationality" Dray presupposes in explaining the action of a historical agent implicitly assumes general behavioural regularities about how rational humans act, which are close to the "laws" he apparently rejects.
+## Dray's Re-evaluation of Collingwood: *History as Re-enactment* (1995)
+
+In his major later work, *History as Re-enactment: R. G. Collingwood's Idea of History* (1995), Dray provided a comprehensive philosophical defense of Collingwood's doctrine that all history is the re-enactment of past thought in the historian's mind. Addressing long-standing positivist criticisms that Collingwood's theory collapsed into subjective empathy or mystical mind-reading, Dray argued that re-enactment is a disciplined, objective, and evidentiary reconstruction of practical reasoning. By showing that historical inquiry evaluates past reasoning within the constraints of surviving documentary evidence, Dray sought to bridge the analytical and idealist traditions.
+
+## Impact and Legacy
+
+Dray's work helped shape the analytical philosophy of history as a subfield of Anglo-American philosophy. His concept of rational explanation figured in debates on practical inference and action explanation, alongside thinkers such as Patrick Gardiner, Maurice Mandelbaum, and G. H. von Wright.
 
 ## Major Works
 
-- *Laws and Explanation in History* (1957).
-- *Philosophy of History* (1964).
-- *History as Re-enactment: R. G. Collingwood's Idea of History* (1995).
-
-## Supplementary Notes
-
-Dray took part in editing influential anthologies of analytical philosophy of history texts, which helped establish this subfield as a recognized academic specialism within analytical philosophy in English-speaking universities, at a time when the philosophy of history was still treated with relative suspicion by analytical philosophers focused mainly on philosophy of language and the natural sciences. In his later writings Dray also engaged with further arguments from other Canadian and American philosophers about the relationship between historical explanation and explanation in the social sciences in general, contributing to the wider debate over whether the humanities need a methodology independent of the natural-science model (*Verstehen* versus *Erklären*) or whether they can be unified within a single logical framework, as Hempel proposed.
-
-Dray also supervised the teaching of the philosophy of history to generations of graduate students at the University of Toronto, making him a founding figure of a distinctive Canadian tradition in this philosophical subfield. His influence continued through his students, who later held academic posts at many Canadian and American universities.
-
-His contribution remains a standard reference in any contemporary university course on the philosophy of the social sciences, where his intermediate position is usually presented as a clear model of how to defend the methodological autonomy of the humanities without sliding into an absolute subjectivism that would leave historical explanation without any standard of objective critical evaluation.
+- *Laws and Explanation in History* (1957)
+- *Philosophy of History* (1964)
+- *Perspectives on History* (1980)
+- *On History and Philosophers of History* (1989)
+- *History as Re-enactment: R. G. Collingwood's Idea of History* (1995)
 
 ## Sources
 
-- Dray, William H. *Laws and Explanation in History*. Oxford University Press, 1957.
-- Dray, William H. *History as Re-enactment: R. G. Collingwood's Idea of History*. Oxford University Press, 1995.
-- Roberts, Clayton. *The Logic of Historical Explanation*. Pennsylvania State University Press, 1996.
+- Dray, William H. *Laws and Explanation in History*. Oxford: Oxford University Press, 1957.
+- Dray, William H. *Philosophy of History*. Englewood Cliffs, NJ: Prentice-Hall, 1964.
+- Dray, William H. *History as Re-enactment: R. G. Collingwood's Idea of History*. Oxford: Clarendon Press, 1995.
+- Roberts, Clayton. *The Logic of Historical Explanation*. University Park: Pennsylvania State University Press, 1996.
+- Martin, Rex. *Historical Explanation: Re-enactment and Practical Inference*. Ithaca: Cornell University Press, 1977.

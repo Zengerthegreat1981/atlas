@@ -15,27 +15,34 @@ gaps: []
 
 # Documentary Evidence as the Basis of Historical Knowledge
 
-The methodological principle that knowledge of the past is not built on inference, intuition, or oral tradition alone, but must rest on **documents contemporary with the event** that can be examined, verified, and critically assessed. This is a cornerstone on which modern academic historical writing has rested since the nineteenth century.
+Documentary evidence is the foundational epistemological principle of modern academic historiography, asserting that valid knowledge of past events cannot be established through abstract deduction, metaphysical speculation, or uncorroborated oral memory alone, but must rest on surviving contemporary documents that can be examined, authenticated, and critically evaluated.
 
-## The Rankean Origin
+## The Rankean Revolution and Primary Sources
 
-The German historian Leopold von Ranke formulated this principle in a rigorous methodological form at the beginning of the nineteenth century. He required that history be built on primary sources (*Urkunden*), meaning documents produced at the time of the event itself (diplomatic correspondence, official minutes, contemporary reports), rather than on later accounts or secondary works that might have distorted the facts or added to them. This requirement became the basis of the university research seminar (*Seminar*) that Ranke established to train historians in the direct verification of documents.
+Although early modern scholars such as Lorenzo Valla and the Maurist Benedictines (notably Jean Mabillon) developed sophisticated techniques of diplomatic criticism, the principle that documentary evidence is the foundation of scientific history was codified systematically in the nineteenth century by Leopold von Ranke. Ranke insisted that the historian must bypass later derivative narratives and rely directly on primary sources (*Urkunden*)—state papers, diplomatic dispatches, minutes of councils, and eyewitness correspondence—to reconstruct events "as they essentially were" (*wie es eigentlich gewesen*). Through the university research seminar (*Seminar*), Ranke trained generations of historians to interrogate original archival materials, establishing the archival repository as the laboratory of the historical profession.
 
-## Types of Document as Evidence
+## Typologies of Evidence
 
-In the broad historical sense, the document includes: administrative, judicial, and tax records; official and private correspondence; treaties and charters; church or religious registers (records of births, deaths, and marriages); newspapers and periodicals; and inscriptions and texts carved on hard materials. A distinction is usually made between the "document" in the strict sense (a written text produced for an administrative, legal, or recording purpose) and the "narrative source" (such as annals and biographies), which is written originally for the purpose of historical reporting. Each has a different evidentiary value.
+Historical methodology distinguishes broadly between two categories of written evidence:
 
-## External and Internal Criticism
+- **Record or Instrumental Evidence**: Non-narrative texts created in the regular course of administrative, legal, fiscal, or economic activity—such as charters, contracts, judicial rolls, parish registers, and tax assessments. Because their authors did not compose them with future readers in mind, historians often assign them high evidentiary value for reconstructing institutional structures and daily routines.
+- **Narrative Evidence**: Texts composed deliberately to record and interpret events for posterity, including chronicles, annals, memoirs, and travelogues. While invaluable for understanding ideological perspectives, narrative sources require scrutiny regarding literary conventions and authorial intent.
 
-The French methodical school (Seignobos and Langlois), in their *Introduction to the Study of History* (1898), developed a methodological classification that became a standard. **External criticism** examines the authenticity of the document itself (Is it forged? When and by whom was it actually written?), while **internal criticism** examines the credibility of its content (Was the author a direct witness? Did he have an interest in distorting events? Does its content agree with other independent documents?). Together, these two examinations form the methodological basis for turning the raw document into a reliable historical "evidence."
+In Islamic historiography, this distinction parallels the contrast between formal administrative documentation (*watha'iq*, chancery decrees, and endowment deeds or *waqfiyyat*) and narrative chronicles transmitted through chains of authorities (*akhbar* and *tarikh*).
 
-## The Limitation
+## Methodological Canonization and Critical Interrogation
 
-The Annales historians (Bloch and Febvre) later criticized the narrowness of the concept of the "document" held by Ranke and his followers, which effectively confined it to the official documents of states and governments, ignoring other sources (archaeological evidence, economic statistics, and material culture) capable of illuminating the history of societies and economies, not only diplomacy and politics. A fundamental problem also remains: every document, however "objective" it may seem, is itself a product of a context, an interest, and a power that produced it. Its critical reading therefore always requires asking: who wrote it? For whom? And for what purpose?
+In their influential manual *Introduction aux études historiques* (1898), the French methodical historians Charles-Victor Langlois and Charles Seignobos formulated the documentary axiom concisely: history is made with documents, and where there are no documents there is no history. They established a systematic protocol separating **external criticism** (verifying physical authenticity, palaeography, and provenance) from **internal criticism** (interrogating the author's credibility, bias, and context).
+
+In the twentieth century, this documentary positivism underwent significant critiques:
+
+- **The Annales Critique**: Marc Bloch and Lucien Febvre contested the Rankean fixation on official state papers. In *Apologie pour l'histoire* (1949), Bloch argued that historians must expand their concept of evidence beyond political archives to include aerial photographs, archaeological finds, tools, agricultural field patterns, and linguistic shifts.
+- **From Document to Monument**: In *L'archéologie du savoir* (1969), Michel Foucault observed that history in the twentieth century transformed its relation to sources: rather than treating documents as transparent windows through which to reconstruct past reality, historical inquiry interrogates the document itself as a "monument," analyzing the institutional rules and power relations that allowed it to be produced and preserved.
 
 ## Sources
 
-- Ranke, Leopold von. *Histories of the Latin and Teutonic Nations from 1494 to 1514*. Trans. G. R. Dennis. London: George Bell & Sons, 1909.
-- Langlois, Charles-Victor, and Charles Seignobos. *Introduction to the Study of History*. Trans. G.G. Berry. New York: Henry Holt, 1898.
 - Bloch, Marc. *Apologie pour l'histoire ou Métier d'historien*. Paris: Armand Colin, 1949.
-- Howell, Martha, and Walter Prevenier. *From Reliable Sources: An Introduction to Historical Methods*. Cornell University Press, 2001.
+- Foucault, Michel. *L'archéologie du savoir*. Paris: Gallimard, 1969.
+- Howell, Martha, and Walter Prevenier. *From Reliable Sources: An Introduction to Historical Methods*. Ithaca: Cornell University Press, 2001.
+- Langlois, Charles-Victor, and Charles Seignobos. *Introduction to the Study of History*. Translated by G. G. Berry. New York: Henry Holt, 1898.
+- Ranke, Leopold von. *Histories of the Latin and Teutonic Nations from 1494 to 1514*. Translated by G. R. Dennis. London: George Bell & Sons, 1909.

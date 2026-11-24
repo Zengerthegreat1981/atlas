@@ -164,3 +164,17 @@ Scope: `reports/scope/psychology-scope.md`, `reports/scope/philosophy-scope.md` 
 - Tooling: Node 26 + Gemini CLI 0.70 (auth not set up for headless) and Antigravity `agy` 1.4.12 installed. `agy -p` works, but headless runs need
   permission rules for shell commands (allow-rules in settings.json or `--dangerously-skip-permissions --sandbox`); pilot on batch 5 wrote no files.
 - Resume: finish batch 5 (Haiku), author field intros (Sonnet), fact-check (Sonnet, batches of ~30), `auto_paths.py historiography fld-historiography`, `write_reading_path.py`, `render_scope.py`, commit.
+
+
+---
+# Pass 14 — Historiography v1 COMPLETE (2026-11-24/25): Gemini Flash writes, Claude (Sonnet) reviews
+- Batch 5 (22 entries) translated by Gemini 3.8 Flash (from the Arabic sources, no additions); 3 field intros authored by Gemini
+  (`fld-historiography`, `fld-historical-method-sources`, `fld-schools-historical-thought`, 37 verified related ids each).
+- Fact-check pass 1 by Gemini Flash over all 227 pages (4 agents in parallel), log in `reports/scope/historiography-gemini-corrections.txt`.
+- Fact-check pass 2 by Claude Sonnet over all 227 pages (one agent at a time, five batches): ~230 corrections logged in
+  `reports/scope/historiography-claude-review.txt` (wrong publishers/translators/dates in Sources, garbled ancient-history facts,
+  invented Arab-Islamic comparisons attached to non-Islamic subjects, unverifiable quotations, overclaims, `active_end` fixes).
+- Reading paths (`scripts/scope/historiography_paths.json`, 50 linked from the root), scope doc (`reports/scope/historiography-scope.md`) and matrix regenerated.
+- Registry: 227 historiography pages, all `review-candidate`, no flags (0 declared gaps, 0 pending). Release gate: 167 blockers remain, none in historiography.
+- Open: reviews were done from model memory without web lookups; **needs specialist review** (flagged: Pierre Nora's death date, 2 June 2025, entered from memory).
+- Side effect avoided: `fix_en_labels.py` / `fix_en_related.py` also rewrite other modules' files; those changes were reverted and not committed.

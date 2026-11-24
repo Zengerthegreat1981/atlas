@@ -15,34 +15,37 @@ gaps: []
 
 # Tarikh: General History Genre in Islamic Historiography
 
-**Tarikh** (history, and also "tarikh" in Persian and Turkish) is the general Arabic term for historical writing and historical record-keeping. As a technical term, it refers to fixing time, that is, linking an event to a specific date, for the purpose of recording a stretch of the past or present within an organized chronological framework.
+***Tarikh*** (literally "dating", "fixing a time", or "era", and by extension "history" or "chronicle") is the primary Arabic term for historical writing and historiographical record-keeping across the Islamic world. Originating in administrative practices of establishing chronological eras—crystallized under the caliphate of 'Umar ibn al-Khattab with the institution of the Hijri calendar—*tarikh* evolved from mere chronological dating into an expansive genre of universal and dynastic history.
 
-## From the "Secular Origin" to Abbasid Archiving
+## Origins and Early Trajectories
 
-Scholars of the origins of this genre distinguish between two historical layers: the early **"secular tradition"** of Islamic historiography, which appeared in the form of records and annals (Proto-*Tawarikh*) of a state character, prepared at the court of the Marwanid (Umayyad) dynasty in Syria, and which formed the chronological and genealogical framework on which the broader history of the Abbasid era later relied.
+Historiographical scholarship traces the emergence of *tarikh* through distinct formative strands. Pre-Islamic Arabian traditions contributed oral genealogical lore (*ansab*) and battle narratives (*ayyam al-'arab*), which emphasized tribal valor and poetic memory without continuous chronological frameworks. With the rise of Islam, historical inquiry initially focused on sacred biography (*sirah*) and military campaigns (*maghazi*), driven by the need to document the prophetic mission and legal precedents. Concurrently, administrative record-keeping under the Umayyad caliphate in Damascus fostered state registers and proto-chronicles. During the early Abbasid period, these disparate traditions merged with translated Hellenistic, Syriac, and Persian court historiography—notably the Sasanian "Book of Kings" (*Khwaday-namag*) translated by Ibn al-Muqaffa' (d. ca. 139 AH / 756 CE)—yielding comprehensive historical compendia.
 
-## The Annalistic Structure
+## The Annalistic Method and Universal Scope
 
-The core chains of transmission (*isnad*, the chains of narrators passing on a report) in early Islamic theology and historiography alike rested on a natural chronological ordering, which made the **annalistic structure** (organizing events year by year) a suitable form for this kind of writing. The great historian **al-Tabari** (839–923 CE) arranged his vast historical material in his reference work *The History of the Prophets and Kings* annalistically, that is, chronologically, year after year, unlike the biographical arrangement (by individuals) adopted by other genres such as biographical dictionaries. Al-Tabari became known for the precision of his chronological sequence and for his strict fidelity in transmitting reports with their chains of narrators as they had reached him, even when multiple reports about the same event conflicted.
+The hallmark of classical *tarikh* as a general historical genre was its universal scope organized according to an **annalistic structure** (*hawliyyat*), segmenting events year by year. The preeminent exemplar of this tradition is Muhammad ibn Jarir al-Tabari (224–310 AH / 839–923 CE) in his monumental *Tarikh al-rusul wa-l-muluk* (*History of the Prophets and Kings*). Al-Tabari structured world history from the creation through biblical and ancient Persian kings, the life of Muhammad, and down to his own era in the fourth Hijri century.
 
-## Alternatives to the Annalistic Structure
+Al-Tabari's methodology rested on the systematic deployment of the chain of transmission (*isnad*). Borrowed from hadith scholarship, the *isnad* functioned as an evidentiary apparatus attributing each narrative unit (*khabar*) to earlier authorities. Rather than harmonizing divergent or politically contested accounts into a seamless authorial voice, al-Tabari often juxtaposed conflicting reports of the same event side by side with their respective transmission chains, leaving the critical evaluation of veracity to the learned reader.
 
-Not all works of general history adhered to the strict annalistic pattern. Some works, such as Abu Hanifa al-Dinawari's *Al-Akhbar al-Tiwal* ("The Long Reports"), abandoned chronological ordering in favor of a structure that emphasizes narrative smoothness and ease of reading, and thus belong to a type closer to traditional continuous narrative history than to the year-by-year annals.
+## Thematic and Continuous Alternatives
 
-## Reference Status
+Not all general histories adhered strictly to annalistic year-by-year division:
+- **Narrative and cultural history**: Historians such as Abu Hanifa al-Dinawari (d. 282 AH / 895 CE) in *Al-Akhbar al-tiwal* preferred a continuous narrative structure emphasizing readability and literary flow over strict annalistic interruption.
+- **Universal geographical and philosophical history**: Ahmad ibn Abi Ya'qub al-Ya'qubi (d. 284 AH / 897 CE) in *Tarikh al-Ya'qubi* and 'Ali ibn al-Husayn al-Mas'udi (d. 345 AH / 956 CE) in *Muruj al-dhahab* integrated ethnography, world geography, and cultural traditions of non-Muslim civilizations.
+- **Moral-philosophical chronicle**: Miskawayh (d. 421 AH / 1030 CE) in *Tajarib al-umam* (*The Experiences of the Nations*) organized history around practical political and moral lessons for statesmen, minimizing miraculous interventions in favor of rational human causation.
 
-Al-Tabari's history is regarded as one of the most important sources, if not the most important, for the history of early Islam, owing to its enormous size, its universal chronological scope (from creation to the author's own age), and its relatively high chain-of-transmission precision compared with his contemporaries. This made it the reference from which many later historians drew and cited directly.
+## Methodological Critical Debates
 
-## Limitation
+Classical *tarikh* faced significant methodological scrutiny from within the Islamic intellectual tradition. While annalists prioritized formal *isnad* transmission and biographical criticism of narrators (*al-jarh wa-l-ta'dil*), later critical thinkers questioned the sufficiency of external authentication alone. The North African polymath Ibn Khaldun (732–808 AH / 1332–1406 CE) in his *Muqaddimah* criticized earlier historians—including al-Mas'udi—for uncritically compiling implausible statistics, miraculous fables, and contradictory dynastic claims. Ibn Khaldun argued that external chain-of-narration criticism (*naqd al-isnad*) was insufficient without internal content criticism (*naqd al-matn*) guided by the intrinsic laws of human social organization (*'umran bashari*).
 
-As with other early Islamic historical genres, the reliability of the earliest tiers of narrators, and the time gap between the occurrence of some early events and their final recording, remain a methodological problem requiring the application of isnad-criticism tools (*jarh wa-ta'dil*) to general historical material as to other early genres of writing. In addition, the accumulation of vast bodies of reports that sometimes conflict about the same event places on the reader of this genre the task of weighing multiple accounts. Al-Tabari himself carried out this task with methodological awareness, when he set down conflicting reports side by side without always resolving them with his own opinion, leaving the final judgment to the reader.
+## Historiographical Legacy
 
-## Impact
-
-This genre formed the nucleus on which later regional and local historical works were built across the Islamic world, and its annalistic or near-annalistic model remained a reference standard for general history until the late medieval period.
+The *tarikh* model provided the foundational architecture for regional, dynastic, and urban histories across the central Islamic lands, Anatolia, Central Asia, and South Asia. Later masterworks, such as 'Izz al-Din Ibn al-Athir's (555–630 AH / 1160–1233 CE) *Al-Kamil fi al-tarikh* (*The Complete History*), synthesized al-Tabari's material into a refined universal reference that shaped medieval Muslim historical consciousness.
 
 ## Sources
 
-- al-Tabari, Muhammad ibn Jarir. *Tarikh al-Rusul wa-l-Muluk*. Edited by Muhammad Abu al-Fadl Ibrahim. Cairo: Dar al-Ma'arif, 1960–1969.
-- "Historiography iii. Early Islamic Period." *Encyclopaedia Iranica*.
-- Rosenthal, Franz. *A History of Muslim Historiography*. Leiden: Brill, 2nd rev. ed., 1968.
+- Donner, Fred M. *Narratives of Islamic Origins: The Beginnings of Islamic Historical Writing*. Princeton: Darwin Press, 1998.
+- Ibn Khaldun. *The Muqaddimah: An Introduction to History*. Translated by Franz Rosenthal. 3 vols. New York: Pantheon Books, 1958.
+- Robinson, Chase F. *Islamic Historiography*. Cambridge: Cambridge University Press, 2003.
+- Rosenthal, Franz. *A History of Muslim Historiography*. Leiden: E. J. Brill, 2nd rev. ed., 1968.
+- al-Tabari, Muhammad ibn Jarir. *The History of al-Tabari (Ta'rikh al-rusul wa'l-muluk)*. Edited by Ehsan Yarshater. 40 vols. Albany: State University of New York Press, 1985–2007.

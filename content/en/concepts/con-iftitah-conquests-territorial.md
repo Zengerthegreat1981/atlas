@@ -23,7 +23,7 @@ In this historical context, *fath* ("conquest") means the military seizure of a 
 
 ## Prominent Examples of the Genre
 
-The most famous work in this field is *Futuh al-Buldan* by Ahmad ibn Yahya al-Baladhuri (d. 279 AH), one of the most important primary sources for the history of the early Islamic conquests. It covers the conquest of Syria, Egypt, Iraq, Iran, North Africa and al-Andalus, from east to west, documents the specific terms of agreement for each region, and records the early formation of the Islamic state and its administrative organization of the conquered territories. Other works in the genre include *Futuh Misr wa-akhbaruha* by Ibn 'Abd al-Hakam, and *Futuh al-Sham*, attributed to al-Waqidi (the attribution is disputed).
+The most famous work in this field is *Futuh al-Buldan* by Ahmad ibn Yahya al-Baladhuri (d. 279 AH / 892 CE), one of the most important primary sources for the history of the early Islamic conquests. It covers the conquest of Syria, Egypt, Iraq, Iran, North Africa and al-Andalus, documents the specific terms of agreement for each region, and records the early formation of the Islamic administration in the conquered territories. Other notable works in the genre include *Futuh Misr wa-akhbaruha* by Abu al-Qasim 'Abd al-Rahman ibn 'Abd Allah ibn 'Abd al-Hakam (d. 257 AH / 871 CE), the *Kitab al-Futuh* of Ibn A'tham al-Kufi (traditionally d. c. 314 AH / 926 CE), and the later popular compilation *Futuh al-Sham*, which was pseudepigraphically attributed to Muhammad ibn 'Umar al-Waqidi (d. 207 AH / 823 CE).
 
 ## Source Value and Critical Problems
 
@@ -35,7 +35,9 @@ This genre exemplifies the intertwining of history and jurisprudence in medieval
 
 ## Sources
 
-- al-Baladhuri, Ahmad ibn Yahya. *Futuh al-Buldan*. Edited by Radwan Muhammad Radwan. Cairo: al-Maktaba al-Tijariyya al-Kubra, 1959.
+- al-Baladhuri, Ahmad ibn Yahya. *Futuh al-Buldan*. Edited by M. J. de Goeje. Leiden: E. J. Brill, 1866; reprint Cairo: al-Maktaba al-Tijariyya al-Kubra, 1959.
+- Ibn 'Abd al-Hakam, 'Abd al-Rahman. *Futuh Misr wa-akhbaruha* (The History of the Conquest of Egypt, North Africa and Spain). Edited by Charles C. Torrey. New Haven: Yale University Press, 1922.
+- Noth, Albrecht, and Lawrence I. Conrad. *The Early Arabic Historical Tradition: A Source-Critical Study*. Translated by Michael Bonner. Princeton: Darwin Press, 1994.
 - Lynch, Ryan J. *Arab Conquests and Early Islamic Historiography: The Futuh al-Buldan of al-Baladhuri*. London: I.B. Tauris, 2020.
 - Donner, Fred M. *Narratives of Islamic Origins: The Beginnings of Islamic Historical Writing*. Princeton: Darwin Press, 1998.
-- Kennedy, Hugh. *The Great Arab Conquests*. London: Weidenfeld & Nicolson, 2007.
+- Kennedy, Hugh. *The Great Arab Conquests: How the Spread of Islam Changed the World We Live In*. London: Weidenfeld & Nicolson, 2007.

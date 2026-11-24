@@ -16,27 +16,35 @@ gaps: []
 
 # Source Hierarchy and Authority
 
-The methodological principle that ranks historical sources by their relative reliability, instead of treating them all as equally weighted. A trained historian does not give the testimony of an eyewitness contemporary with an event the same trust as an account written generations later, even when the two appear similar in content.
+The methodological principle that ranks historical sources by their relative reliability, evidential directness, and critical proximity to events, rather than treating all documentary traces as equally authoritative. A critical historian does not assign identical evidential weight to an immediate, contemporary record and a retrospective account composed generations later, even when both describe the same occurrence.
 
-## The Basic Distinction: Primary versus Secondary
+## The Foundational Distinction: Primary and Secondary Sources
 
-Historians generally distinguish between the **primary source**, a trace produced at or close to the time of the event (a letter, minutes of a session, a contract, the testimony of a direct witness), and the **secondary source**, a later analysis or narrative that in turn relies on primary sources collected and analyzed earlier. The Rankean school in the nineteenth century established a clear methodological preference for the primary source wherever it can be reached, as the closest in time and logic to the recorded event, even though that closeness alone does not guarantee its accuracy or neutrality.
+Historical criticism fundamentally distinguishes between a **primary source**—a trace, artifact, or textual document produced contemporaneously with the events under examination (such as administrative dispatches, diplomatic correspondence, eyewitness memoirs, legal contracts, or inscriptions)—and a **secondary source**, which represents a later narrative, synthesis, or interpretation constructed by evaluating primary materials. While nineteenth-century positivist and historicist traditions, epitomized by Leopold von Ranke, established a methodological imperative favoring archival and primary materials as the closest empirical bedrock of historical reconstruction, subsequent methodology has emphasized that temporal proximity does not guarantee factual veracity or political impartiality.
 
-## Criteria for Ranking within the Primary Sources Themselves
+## Criteria for Internal Ranking within Primary Sources
 
-Even within the category of primary sources, historians distinguish degrees of reliability according to several criteria: **proximity to the event** (direct witness versus someone relaying a witness), **independence of the source** (does it copy another source, or does it report on its own? If several apparently different "testimonies" rely on one shared original source, they are in fact one testimony, not several independent testimonies that reinforce each other), **probability of bias or interest** (does the author have a clear interest in portraying the event in a particular way?), and **internal and external consistency** (is the source consistent with itself and with other reliable, independent sources about the same period?).
+Within the body of primary materials, historians establish hierarchies of authority using several rigorous evaluative criteria:
+- **Proximity to the event**: Distinguishing direct eyewitness testimony (*autopsia*) from mediated hearsay or second-hand transmission.
+- **Independence of witness**: Establishing whether two separate documents stem from independent observations or merely copy an identical archetype. In critical method, multiple dependent testimonies resolve into a single witness and cannot provide mutual corroboration.
+- **Vested interest and intent**: Determining whether the author or producing institution had ideological, economic, or legal motives to distort, suppress, or exaggerate particulars.
+- **Corroboration and consistency**: Assessing internal coherence across a source alongside external alignment with independent material culture, administrative records, or archaeological evidence.
 
-## Application in Several Documentary Traditions
+Historians also follow Ernst Bernheim's classical distinction between intentional traditions (*Tradition*—works composed with the deliberate intent of informing posterity, such as chronicles and memoirs) and involuntary remains (*Überreste*—unintentional survivals of human action, such as fiscal accounts, court registries, and receipts), generally according higher evidential authority to the latter for reconstructing institutional and economic realities because they lack retrospective narrative staging.
 
-A similar principle appears in different forms in several documentary traditions around the world. In Islamic hadith scholarship, reports are ranked from "sound" (sahih) to "good" (hasan) to "weak" (da'if) to "fabricated" (mawdu') according to the reliability of their chain of transmitters. In the Talmudic tradition, the reports of the earlier sages (the Tannaim) are granted relatively higher interpretive authority than those of later figures (the Amoraim). This structural convergence between independent traditions reflects a shared epistemic problem (how is the reliability of a report transmitted through multiple intermediaries assessed?), not necessarily a direct historical influence between these traditions.
+## Comparative Documentary Traditions
 
-## Limitation
+Methodological hierarchies of textual authority developed independently across major documentary traditions. In classical Islamic scholarship, hadith critics established rigorous epistemic hierarchies, classifying transmissions from rigorously verified (*sahih*) and acceptable (*hasan*) to weak (*da'if*) and forged (*mawdu'*). This evaluation operated through biographical criticism of transmitters (*'ilm al-rijal* and *al-jarh wa-l-ta'dil*) and continuous chains of transmission (*isnad*). Later theorists like Ibn Khaldun (732–808 AH / 1332–1406 CE) argued that external chain-validation must be subordinate to internal plausibility based on the laws of human society (*taba'i' al-'umran*). Similarly, early modern European diplomatics, initiated by Jean Mabillon in *De re diplomatica* (1681), formulated paleographical and diplomatic criteria to establish hierarchies of authentic versus spurious charters.
 
-"Chronological priority" does not translate automatically into "absolute reliability." An eyewitness may be strongly biased or mistaken in his observation, while a later researcher may correct information by accessing additional sources that were not available to contemporaries themselves. The ranking of sources therefore remains a guiding tool that requires careful application case by case, not a rigid mechanical rule applied without scrutiny of each source's particular context.
+## Epistemological Limits of Source Hierarchy
+
+Chronological priority is never synonymous with infallible accuracy. A direct eyewitness may be blinded by panic, limited perspective, or ideological zeal, whereas a distant, critical historian can cross-examine multiple contradictory testimonies, access confidential archives, and uncover structural patterns invisible to contemporaries. Consequently, source hierarchy functions not as an algorithmic rule, but as a critical heuristic requiring contextual evaluation of every document.
 
 ## Sources
 
+- Bernheim, Ernst. *Lehrbuch der historischen Methode und der Geschichtsphilosophie*. Leipzig: Duncker & Humblot, 1889.
 - Bloch, Marc. *Apologie pour l'histoire ou métier d'historien*. Paris: Armand Colin, 1949.
 - Howell, Martha, and Walter Prevenier. *From Reliable Sources: An Introduction to Historical Methods*. Ithaca: Cornell University Press, 2001.
-- Ranke, Leopold von. *Histories of the Latin and Teutonic Nations from 1494 to 1514*, trans. G. R. Dennis. London: George Bell & Sons, 1909.
+- Langlois, Charles-Victor, and Charles Seignobos. *Introduction aux études historiques*. Paris: Hachette, 1898.
+- Ranke, Leopold von. *Histories of the Latin and Teutonic Nations from 1494 to 1514*. Translated by G. R. Dennis. London: George Bell & Sons, 1909.
 - Brown, Jonathan A. C. *Hadith: Muhammad's Legacy in the Medieval and Modern World*. Oxford: Oneworld, 2009.

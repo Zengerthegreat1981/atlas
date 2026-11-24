@@ -7,9 +7,9 @@ level: "متقدم"
 title: "Fernand Braudel"
 en: "Fernand Braudel"
 crumb: "Historiography ← Thinkers ← Fernand Braudel"
-dates: "1902 – 1985"
+dates: "1902–1985"
 birth_country: "France"
-active_start: 1923
+active_start: 1949
 active_end: 1985
 edges: []
 related:
@@ -19,49 +19,48 @@ gaps: []
 
 # Fernand Braudel
 
-A radical French historian who developed a **new method for writing history**. He is considered, together with Lucien Febvre and Marc Bloch, a founder of the **Annales School**.
+Fernand Braudel (1902–1985) was the dominant figure of the second generation of the French *Annales* school. He profoundly restructured modern historiography by replacing traditional event-centered political history with a totalizing, multi-tiered framework emphasizing geography, economic systems, and the long term (*longue durée*).
 
-## A Three-Level Model of Time
+## Historical Context and Intellectual Formation
 
-Braudel developed **three levels of historical time**:
+Braudel was born in Luméville-en-Ornois in northeastern France and educated at the Sorbonne. Between 1923 and 1932, he taught secondary school in French Algeria (Constantine and Algiers). This decade in North Africa proved formative, giving him an enduring, panoramic awareness of the Mediterranean Sea as a unified ecological and human basin spanning Christian Southern Europe and the Islamic Maghreb and Levant. In the mid-1930s, he taught at the newly founded University of São Paulo in Brazil before returning to Paris to work under Lucien Febvre.
 
-1. **The very long term** (Structures): the geographical setting and stable economic factors (spanning centuries)
-2. **Medium-term movements** (Conjunctures): economic and social trends (spanning decades)
-3. **Short-term events**: treaties and wars (spanning days or years)
+Mobilized in 1939 and captured during the German invasion in 1940, Braudel spent five years as a prisoner of war in Mainz and Lübeck. Working largely from memory and notebooks, he drafted his massive doctoral dissertation, which he defended in 1947 and published in 1949 as *The Mediterranean and the Mediterranean World in the Age of Philip II*.
 
-This framework made **political events**, on which traditional historians focused, **less important** than the deeper **economic and social structures**.
+## The Three Tiers of Historical Time
+
+Braudel's landmark contribution was his conceptualization of historical time not as a uniform, linear flow, but as three distinct, interpenetrating temporal layers:
+
+1. **The Longue Durée (Geographical and Structural Time)**: The deepest, slowest-moving layer, spanning centuries or millennia. It encompasses the enduring relationship between human communities and their natural environment: mountains, coastlines, climate, trade winds, transport routes, and demographic inertia.
+2. **Conjonctures (Social and Cyclical Time)**: The intermediate layer, moving across decades or generations. It traces economic cycles, demographic waves, price revolutions, wages, and systemic structural changes in state administration and trade.
+3. **Événements (Eventful or Individual Time)**: The surface layer of individual actors, military battles, treaties, and diplomatic maneuvers (*l'histoire événementielle*). Braudel famously described this layer as mere "crests of foam that the tides of history carry on their strong backs," insisting that short-term events can be understood only in the context of the underlying structures.
+
+## Major Works and World-Economy Analysis
+
+Braudel's two monumental projects embody this methodology:
+
+- ***The Mediterranean and the Mediterranean World in the Age of Philip II*** (*La Méditerranée et le monde méditerranéen à l'époque de Philippe II*, 1949; rev. ed. 1966): Spanning two volumes, the study treats the entire Mediterranean basin as the primary protagonist, examining how geography, agrarian routines, shipping lines, and monetary flows shaped the grand confrontation between the Spanish Habsburgs and the Ottoman Empire up to the Battle of Lepanto (1571).
+- ***Civilization and Capitalism, 15th–18th Century*** (*Civilisation matérielle, économie et capitalisme*, 3 volumes, 1979): Analyzed the emergence of global capitalism across three hierarchical levels: material life (daily subsistence, food, tools), the market economy (local shops, fairs, regular trade), and capitalism proper (non-transparent monopolies, international merchant finance, and long-distance trade). This work formulated the concept of "world-economies" (*économies-mondes*), which influenced Immanuel Wallerstein's modern world-systems theory.
+
+## Institutional Leadership and Historiographical Legacy
+
+Following Lucien Febvre's death in 1956, Braudel assumed the leadership of the *Annales* journal and became president of the Sixth Section of the École Pratique des Hautes Études (which in 1975 became the autonomous École des Hautes Études en Sciences Sociales, EHESS). With support from American foundations, he created the Maison des Sciences de l'Homme in Paris, establishing an international institutional powerhouse for interdisciplinary historical and social scientific research.
+
+While later historians—notably the Italian microhistorians and cultural historians of the third *Annales* generation—criticized Braudel for structural determinism and for subordinating human agency to environmental constraints, his structural vision remains one of the twentieth century's most enduring historiographical paradigms.
 
 ## Major Works
 
-- *The Mediterranean and the Mediterranean World in the Age of Philip II* (1949): a vast study of the history of the Mediterranean Sea
-- *Civilization and Capitalism* (1967–1979): a comprehensive analysis of the world economy
-
-## Legacy
-
-Braudel **redefined history itself**. It is concerned not only with politics and war, but with **the economy, society and geography** that form the foundation of everything. His view changed the way history was taught in universities around the world for a generation, and it is still taught today at the opening of world history curricula.
-
-## Historical Context and Biography
-
-Braudel was born in 1902 in the Lorraine region of France and taught history in Algeria for ten years (1923–1932) before returning to France. That experience shaped his early awareness of the Mediterranean as an integrated civilizational space linking its northern and southern shores. He wrote most of his famous study of the Mediterranean from memory while a prisoner of war in German camps between 1940 and 1945, during the Second World War, with no access to libraries or archives. This explains the broad, synthetic character of the work, which reduces the detail of events in favor of the large structures.
-
-## Succession to Febvre and Leadership of the Annales
-
-After the death of Lucien Febvre in 1956, Braudel succeeded him at the head of the Annales School and became head of the Sixth Section of the École Pratique des Hautes Études in Paris (later the EHESS). There he built a large research institution that brought historians, economists, geographers and anthropologists together under one roof, funding their research through a special fund he obtained from the Rockefeller Foundation. This secured the Annales School's standing as the most influential historical school in France through the 1950s, 1960s and 1970s.
-
-## Late Work
-
-Late in his life Braudel began another ambitious project, *The Identity of France* (*L'identité de la France*), in which he sought to apply his geographical-historical method to the history of France itself. He died in 1985 before completing it, and the work was published posthumously in three unfinished volumes. This final project shows the consistency of Braudel's method throughout his career: understanding any historical entity, whether a whole sea basin or a single nation, requires first returning to its geography and deeper structures before turning to its passing political events. This explains why his influence has continued well beyond the narrow boundaries of the historical discipline, in historical sociology and human geography.
-
-## Criticism of His Method
-
-Later historians, especially in the 1980s (among them a generation of "New Annales" historians and the Italian microhistorians), criticized Braudel for overemphasizing "structures" at the expense of individual agency and political events. They argued that his three-level model of time could deprive historical actors of their presence as free agents, turning them into passive products of a geography and an economy that exceed their will. Braudel was also accused of a geographical determinism that at times recalls the ideas of the traditional French geographical school (Vidal de La Blache), by which he had been influenced early on.
-
-## Relation to the Arab-Islamic Heritage
-
-In *The Mediterranean*, Braudel devotes substantial sections to analyzing the Ottoman Empire as a central power in the Mediterranean balance of power in the age of Philip II. He argues that the conflict between Catholic Spain and the Islamic Ottoman state, which peaked in the naval Battle of Lepanto in 1571, was not merely a religious clash of civilizations but a struggle over the resources of the Mediterranean itself (grain, ships, trade routes). This reading goes beyond the common civilizational reduction to a structural analysis that places the Islamic and Christian worlds within a single economic and geographical unity that transcends religious boundaries. Historians of the Indian Ocean and of Ottoman economic history later drew on this view when they applied his three-level model to Islamic spaces beyond the Mediterranean basin itself.
+- *The Mediterranean and the Mediterranean World in the Age of Philip II* (1949; rev. ed. 1966; English translation 2 vols., 1972–1973).
+- *On History* (*Écrits sur l'histoire*, 1969; English translation 1980).
+- *Civilization and Capitalism, 15th–18th Century* (3 vols., 1979; English translation 1981–1984):
+  - Vol. 1: *The Structures of Everyday Life*.
+  - Vol. 2: *The Wheels of Commerce*.
+  - Vol. 3: *The Perspective of the World*.
+- *The Identity of France* (*L'Identité de la France*, 3 vols., published posthumously 1986).
 
 ## Sources
 
-- Braudel, Fernand. *The Mediterranean and the Mediterranean World in the Age of Philip II*. Harper & Row, 1972.
-- Braudel, Fernand. *Civilization and Capitalism, 15th–18th Century*. Harper & Row, 1979.
-- Burke, Peter. *The French Historical Revolution: The Annales School, 1929–89*. Stanford University Press, 1990.
+- Braudel, Fernand. *The Mediterranean and the Mediterranean World in the Age of Philip II*. 2 vols. Translated by Siân Reynolds. Harper & Row, 1972–1973.
+- Braudel, Fernand. *Civilization and Capitalism, 15th–18th Century*. 3 vols. Translated by Siân Reynolds. Harper & Row, 1981–1984.
+- Braudel, Fernand. "History and the Social Sciences: The Longue Durée." In *On History*, translated by Sarah Matthews. University of Chicago Press, 1980, pp. 25–54.
+- Burke, Peter. *The French Historical Revolution: The Annales School, 1929–2014*. 2nd ed. Polity Press, 2015.

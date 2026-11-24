@@ -17,53 +17,49 @@ edges:
 related:
 - id: "sch-annales-third-generation-mentalities", title: "The Third Generation and the History of Mentalities (Le Goff, Duby, Chartier)", type: "مدرسة"
 - id: "thk-emmanuel-le-roy-ladurie", title: "Emmanuel Le Roy Ladurie", type: "مفكر"
-gaps:
-  - "His presidency of the École des Hautes Études en Sciences Sociales (EHESS) and his institutional role there: not yet covered in detail beyond this general reference."
+gaps: []
 ---
+
 # Jacques Le Goff
 
-## Definition
+Jacques Le Goff (1924–2014) was a French medievalist, director of studies, and president of the École des Hautes Études en Sciences Sociales (EHESS). Alongside Georges Duby and Emmanuel Le Roy Ladurie, he was a leading figure of the third generation of the *Annales* school, helping develop historical anthropology and the history of mentalities (*histoire des mentalités*).
 
-Jacques Le Goff was a French historian, director of studies at the École des Hautes Études en Sciences Sociales (EHESS) and later its president, and one of the most prominent representatives of the third generation of the Annales School and of the history of mentalities in the Middle Ages.
+## Intellectual Formation and Institutional Leadership
 
-## What He Gave
+Educated at the École Normale Supérieure, Le Goff succeeded Fernand Braudel in 1972 as head of the Sixth Section of the École Pratique des Hautes Études. Under his leadership, the section was transformed in 1975 into an independent, prestigious graduate research institution: the École des Hautes Études en Sciences Sociales (EHESS), with Le Goff serving as its first president until 1977. 
 
-- **The Birth of Purgatory (1981):** Examines how a new theological mentality ("purgatory", as a third place between heaven and hell) took shape in the twelfth century specifically, and analyses how it was used socially (justifying prayers of the living for the dead, and extending the authority of the Church). It is a model of the history of mentalities: the study of the emergence of a new mental category and its social effects.
-- **Civilisation of the Medieval West (La Civilisation de l'Occident médiéval, 1964):** A comprehensive synthesis of the structure of society, mentality, time and work in medieval Europe, which broadened the definition of the subject of "the Middle Ages" beyond traditional political and ecclesiastical history.
-- **Must We Really Cut History into Slices? (2014):** His last work, which questions the legitimacy of the traditional chronological division (the "Middle Ages" in particular), as a modern construction retrospectively projected onto a past that did not know itself by this division. It is a direct contribution to the debate on historical periodisation.
+At the EHESS and as co-editor of the journal *Annales: Économies, Sociétés, Civilisations* (with Emmanuel Le Roy Ladurie and Marc Ferro), Le Goff steered French historiography away from macroeconomic quantitative serialism toward cultural anthropology, popular religion, and collective psychological representations. In 1978, he co-edited the landmark manifesto *La Nouvelle Histoire*, codifying the new cultural history for a global scholarly audience.
 
-## Position in the Current
+## Major Historiographical Contributions
 
-Le Goff is regarded as the bridge between the first generation of the Annales School (Bloch and Febvre) and the contemporary history of mentalities. He borrowed the tools of anthropology (Clifford Geertz) to read the Middle Ages as a culture with its own internal symbolic logic, rather than as a "dark" interval between two enlightened eras.
+### The History of Mentalities and Medieval Time
+Le Goff approached the Middle Ages not as an era of intellectual stagnation, but as a dynamic cultural system possessing its own internal symbolic coherence. In his classic 1960 essay "Merchant's Time and Church's Time in the Middle Ages" (collected in *Time, Work, and Culture in the Middle Ages*, 1977), he explored the conflict between traditional ecclesiastical time—measured by natural liturgical bells and considered God's property, which could not be sold—and the new measurable, linear time of urban merchants, measured by communal clocktowers and tied to interest, loans, and labor wages.
 
-## Key Works
+### *The Birth of Purgatory* (1981)
+In *The Birth of Purgatory* (*La Naissance du Purgatoire*), Le Goff traced the spatialization of the afterlife in the late twelfth century. He argued that purgatory as a distinct physical and theological location between heaven and hell did not exist in early Christian thought, but crystallized in urban theological centers around 1170–1200. Le Goff linked this doctrinal development to social shifts: the rise of a third social estate of urban professionals, the commodification of prayers and indulgences, and the Church's expanding juridical power over the souls of the dead.
 
-- *Civilisation of the Medieval West* (La Civilisation de l'Occident médiéval, 1964).
-- *The Birth of Purgatory* (La Naissance du Purgatoire, 1981).
-- *Must We Really Cut History into Slices?* (Faut-il vraiment découper l'histoire en tranches?, 2014).
+### Anthropological Biography: *Saint Louis* (1996)
+In his monumental biography of Louis IX of France (*Saint Louis*), Le Goff offered a model for writing biography within the structural traditions of the *Annales*. Rather than offering a traditional psychological portrait, Le Goff examined how contemporary hagiographical models and royal propaganda constructed the image of the saintly king, analyzing the cultural production of sacred monarchy in thirteenth-century Europe.
 
-## Academic and Institutional Career
+### Historical Periodization
+In a late work, *Must We Divide History into Periods?* (*Faut-il vraiment découper l'histoire en tranches?*, 2014), Le Goff challenged the traditional Renaissance-centric divide between the Middle Ages and modernity. He proposed instead a "long Middle Ages" (*un long Moyen Âge*) extending from late antiquity through the mid-eighteenth century (prior to the Industrial Revolution and the Enlightenment), arguing that traditional periodization was an artificial nineteenth-century construct.
 
-Le Goff studied at the École Normale Supérieure in Paris before joining the EHESS, where he later became director of studies and then president between 1972 and 1977, succeeding Fernand Braudel. This central institutional position enabled him to steer the third generation of the Annales School towards the history of mentalities and historical anthropology. With Pierre Nora and others, he founded the journal *Le Débat* as an intellectual platform combining academic research and public debate, in line with the model of the "public intellectual historian" that flourished in France in the late twentieth century.
+## Legacy and Scholarly Impact
 
-## Mentalities History and Its Anthropological Tools
+Le Goff brought academic history into creative dialogue with cultural anthropology (drawing on anthropologists such as Claude Lévi-Strauss) and became an influential public intellectual across Europe. While some critics argued that the concept of a uniform "collective mentality" risked obscuring sharp regional and class differences within medieval society, Le Goff's works helped reshape medieval studies, revealing the complex mental world of medieval merchants, monks, intellectuals, and commoners.
 
-Le Goff borrowed from interpretive anthropology (Clifford Geertz) and structural anthropology (Claude Lévi-Strauss) tools for analysing the Middle Ages as a cultural system with an integrated internal logic, rather than as a "backward" transitional period between the classical era and modernity, as the traditional Enlightenment narrative depicted it. He applied this approach to a range of subjects beyond official political and ecclesiastical history: concepts of time and work ("Merchant's Time and Church's Time," an influential essay published in 1960), conceptions of the body and dreams, and the symbolism of sacred kingship in his extended biography of Saint Louis (Louis IX), *Saint Louis* (1996), which combined precise historical research with anthropological analysis of the making of royal sanctity in the Middle Ages.
+## Major Works
 
-## Impact and Criticism
-
-Le Goff is among the most internationally influential historians of the Annales School and has been translated into many languages. He helped turn the history of mentalities from an experimental margin into a central field in global medieval studies. Critics, however, have observed that some of his generalisations about a single "medieval mentality" may conceal vast social and geographic diversity within medieval Europe itself (a peasant in Sicily does not necessarily share the same mentality as a monk in Flanders). This criticism led later generations of historians of mentalities to break the concept down into more specialised studies with narrower social and geographic definitions.
-
-## Relation to the Founding Legacy of the Annales School
-
-Throughout his career Le Goff took care to present himself as the direct heir of Marc Bloch and Lucien Febvre, the founders of the journal *Annales*. In his theoretical writings he insisted that the history of mentalities is not a break from the founding project but a natural continuation of it. Bloch himself, in *The Royal Touch* (Les Rois thaumaturges, 1924), studied a popular mental belief (the alleged power of kings to heal the sick by the touch of their hands) using an anthropological method that preceded the contemporary history of mentalities by decades. This led Le Goff to regard himself as completing this early line of research rather than founding an entirely new current separate from the Annales.
-
-## Style of Addressing a Broad Audience
-
-Alongside his extensive academic output, Le Goff excelled at writing works aimed at a wide public (such as his popular abridged biography of Saint Louis, interviews and articles in *Le Débat*). This made him a prominent model of the historian who combines deep academic rigour with the ability to communicate effectively with the general public, a pattern linked to the phenomenon of the "public historians" who flourished in France in the late twentieth century.
+- *Civilisation of the Medieval West* (*La Civilisation de l'Occident médiéval*, 1964; English translation 1988).
+- *Time, Work, and Culture in the Middle Ages* (*Pour un autre Moyen Âge*, 1977; English translation 1980).
+- *The Birth of Purgatory* (*La Naissance du Purgatoire*, 1981; English translation 1984).
+- *The Medieval Imagination* (*L'Imaginaire médiéval*, 1985; English translation 1988).
+- *Saint Louis* (1996; English translation 2009).
+- *Must We Divide History into Periods?* (*Faut-il vraiment découper l'histoire en tranches?*, 2014; English translation 2015).
 
 ## Sources
 
 - Le Goff, Jacques. *The Birth of Purgatory*. Translated by Arthur Goldhammer. University of Chicago Press, 1984.
+- Le Goff, Jacques. *Time, Work, and Culture in the Middle Ages*. Translated by Arthur Goldhammer. University of Chicago Press, 1980.
 - Le Goff, Jacques. *Must We Divide History into Periods?* Translated by M. B. DeBevoise. Columbia University Press, 2015.
 - Burke, Peter. *The French Historical Revolution: The Annales School, 1929–2014*. 2nd ed. Polity Press, 2015.

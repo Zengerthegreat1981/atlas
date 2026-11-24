@@ -7,9 +7,9 @@ level: "متقدم"
 title: "Eric John Ernest Hobsbawm"
 en: "Eric Hobsbawm"
 crumb: "Historiography ← Thinkers ← Eric Hobsbawm"
-dates: "1917 – 2012"
+dates: "1917–2012"
 birth_country: "Britain"
-active_start: 1945
+active_start: 1948
 active_end: 2012
 edges: []
 related:
@@ -19,37 +19,50 @@ gaps: []
 
 # Eric John Ernest Hobsbawm
 
-## Definition
+Eric John Ernest Hobsbawm (1917–2012) was a British historian and one of the preeminent practitioners of Marxist social history in the twentieth century. Long associated with Birkbeck College, University of London, and the New School for Social Research in New York, Hobsbawm transformed modern historiography through his global four-volume history of the modern world and his influential contributions to "history from below."
 
-Eric John Ernest Hobsbawm (1917–2012) was a British historian, one of the most prominent historians of the twentieth century and one of the best-known representatives of the Marxist tradition in historical writing. He became known for his four-volume series on the "ages" that narrated the modern world from the French Revolution to the end of the Cold War, and for his pioneering contribution to establishing social history "from below."
+## Historical Background and Formation
 
-## Historical Context
+Hobsbawm was born in Alexandria, Egypt, to a British father and an Austrian mother, and spent his childhood in Vienna and Berlin. Experiencing the collapse of the Weimar Republic and witnessing the rise of Adolf Hitler firsthand, he moved to London in 1933 and won a scholarship to King's College, Cambridge. He joined the Communist Party of Great Britain (CPGB) in 1936, maintaining his membership until the party's dissolution in 1991, despite the political crises that followed the 1956 Soviet invasion of Hungary.
 
-Hobsbawm was born in Alexandria to Jewish parents, one British and one Austrian. He grew up in Vienna and Berlin before the rise of Nazism led him to move to London in 1933, where he studied history at Cambridge University. He joined the Communist Party of Great Britain in 1936 and remained a member until it was dissolved in 1991, despite the crises caused by the Soviet invasions of Hungary and Czechoslovakia, which led many of his comrades to break away. Together with E. P. Thompson, Christopher Hill and Rodney Hilton, Hobsbawm formed the core of the "Communist Party Historians Group," founded in 1946, which produced the most important works of British Marxist social history in the twentieth century. This group later led to the founding of the journal *Past & Present* in 1952 as an academic platform for this current, itself influenced by the model of the French Annales School in combining social, economic and cultural history within a comprehensive view of the past, away from the narrow political history of the traditional kind.
+Between 1946 and 1956, Hobsbawm was a central member of the Communist Party Historians Group, working alongside E. P. Thompson, Christopher Hill, Rodney Hilton, and Dona Torr. This collaborative circle sought to rescue ordinary working people from the condescension of traditional political history. In 1952, members of the group helped establish the scholarly journal *Past & Present*, which became one of the world's most influential historical periodicals, fostering dialogue between Marxist analysis, the French *Annales* tradition, and the broader social sciences.
 
-## Core Ideas and Method
+## The Age Tetralogy and the Dual Revolution
 
-In his four-volume series (*The Age of Revolution*, 1789–1848; *The Age of Capital*, 1848–1875; *The Age of Empire*, 1875–1914; *The Age of Extremes*, 1914–1991), Hobsbawm developed a comprehensive narrative of modern world history that links economic and political changes to deep social structures. He rejected confining history to the story of political and diplomatic elites, and offered instead a multi-layered analysis linking the movement of world capital with the rise of labour, nationalist and mass-cultural movements at the same time. Among his most important conceptual contributions is his joint book with Terence Ranger, *The Invention of Tradition* (1983), which showed how "traditions" that appear ancient (such as British royal ceremonies or traditional Scottish dress) were relatively recent inventions serving contemporary ideological and political purposes. This opened a wide field of research into the "construction" of national identity and cultural heritage, and later became a cornerstone of comparative nationalism studies alongside the work of Benedict Anderson and Ernest Gellner on imagined communities and modern nationalism.
+Hobsbawm's masterwork is his four-volume survey of modern world history, organized around the concept of the "Dual Revolution":
+1. *The Age of Revolution: 1789–1848* (1962): Argued that the modern world was forged by two simultaneous transformations—the political upheaval of the French Revolution and the economic transformation of the British Industrial Revolution.
+2. *The Age of Capital: 1848–1875* (1975): Analyzed the worldwide triumphs of industrial capitalism, bourgeois culture, and liberal institutions following the defeat of the 1848 revolutions.
+3. *The Age of Empire: 1875–1914* (1987): Traced imperialist expansion, the growth of organized mass labor movements, and the systemic rivalries leading to the First World War.
+4. *The Age of Extremes: The Short Twentieth Century, 1914–1991* (1994): Examined the era spanning the outbreak of the First World War to the collapse of the Soviet Union, dividing the twentieth century into an "Age of Catastrophe" (1914–1945), a "Golden Age" of postwar social-democratic capitalism (1945–1973), and the "Landslide" crises that followed.
 
-Hobsbawm taught for most of his academic career at Birkbeck College, University of London, and held visiting professorships at several American universities, although his communist affiliation hindered him for years from obtaining full academic promotions in Britain during the height of the Cold War. He was also known for his prolific writing in non-academic cultural and political journals, which broadened his influence beyond specialist academic circles and made him one of the historians best able to address a wide non-specialist audience without sacrificing analytical depth.
+## Social Banditry and the Invention of Tradition
 
-## Key Works and Representatives
+In *Primitive Rebels* (1959) and *Bandits* (1969), Hobsbawm analyzed pre-modern social movements, coining the concept of "social banditry" to describe rural outlaws (such as Robin Hood figures or Mediterranean brigands) who were protected and celebrated by peasant communities as champions of traditional justice against modernizing agrarian elites.
 
-His best-known works include the four-volume "ages" series; *Primitive Rebels* (1959) on archaic forms of peasant social movements; *Bandits* (1969) on the phenomenon of "social banditry"; *The Invention of Tradition* (co-edited with Terence Ranger, 1983); and his autobiography *Interesting Times* (2002).
+In *The Invention of Tradition* (1983), co-edited with Terence Ranger, Hobsbawm advanced the argument that many cultural rituals, state pageants, and national symbols that claim ancient pedigree (such as Scottish tartan clan traditions or British royal coronation ceremonials) were deliberately invented in the late nineteenth and early twentieth centuries to foster national cohesion and legitimize political authority in an era of mass politics. The volume became an influential reference in studies of nationalism, alongside the contemporaneous work of Benedict Anderson and Ernest Gellner.
 
-## Impact and Criticism
+## Historiographical Legacy and Debate
 
-Hobsbawm is one of the most widely read and influential historians of the twentieth century. His works have been translated into dozens of languages and taught in universities around the world, and they helped shape a global understanding of the history of modernity that goes beyond narrow national narratives. However, his continuing Marxist political commitment, even after the exposure of Stalin's crimes, provoked wide controversy and sharp criticism from liberal and conservative historians, who accused him of holding to a political doctrine that historical reality had overtaken. His supporters defended his ability to separate his personal political commitment from his rigorous analytical method in historical writing, arguing that his historical works were more precise and comprehensive than any ideological bias that might affect them.
+Hobsbawm achieved rare stature as both a respected academic historian and a lucid prose stylist capable of commanding a vast international readership. While critics questioned his reluctance to repudiate Soviet Communism earlier in his career, his scholarly contributions to economic history, working-class formation, and the structural dynamics of global capitalism remain widely influential in modern historical studies.
 
-## Connection to the Arab-Islamic Heritage
+## Major Works
 
-An echo of Hobsbawm's method in *The Invention of Tradition* can be observed in contemporary historians who have studied how modern Arab states, after independence, rebuilt national heritage symbols, from popular dress to religious and national celebrations, in the service of building the modern nation-state. This is methodologically comparable to what Hobsbawm and Ranger observed in the British and European context, although the specific historical and cultural character of each context differs.
+- *Primitive Rebels: Studies in Archaic Forms of Social Movement in the 19th and 20th Centuries* (Manchester University Press, 1959).
+- *The Age of Revolution: 1789–1848* (Weidenfeld & Nicolson, 1962).
+- *Labouring Men: Studies in the History of Labour* (Weidenfeld & Nicolson, 1964).
+- *Industry and Empire: From 1750 to the Present Day* (Weidenfeld & Nicolson, 1968).
+- *Bandits* (Weidenfeld & Nicolson, 1969).
+- *The Age of Capital: 1848–1875* (Weidenfeld & Nicolson, 1975).
+- *The Invention of Tradition* (co-edited with Terence Ranger, Cambridge University Press, 1983).
+- *The Age of Empire: 1875–1914* (Weidenfeld & Nicolson, 1987).
+- *Nations and Nationalism since 1780: Programme, Myth, Reality* (Cambridge University Press, 1990).
+- *The Age of Extremes: The Short Twentieth Century, 1914–1991* (Michael Joseph, 1994).
+- *Interesting Times: A Twentieth-Century Life* (Allen Lane, 2002).
 
 ## Sources
 
+- Hobsbawm, Eric. *The Age of Revolution: 1789–1848*. Weidenfeld & Nicolson, 1962.
 - Hobsbawm, Eric. *The Age of Extremes: The Short Twentieth Century, 1914–1991*. Michael Joseph, 1994.
-- Hobsbawm, Eric. *On History*. Pantheon, 1997.
-- Hobsbawm, Eric, and Ranger, Terence (eds.). *The Invention of Tradition*. Cambridge University Press, 1983.
-- Hobsbawm, Eric. *Interesting Times: A Twentieth-Century Life*. Pantheon, 2002.
-- Hobsbawm, Eric. *Bandits*. Weidenfeld and Nicolson, 1969.
-- Hobsbawm, Eric. *Primitive Rebels: Studies in Archaic Forms of Social Movement*. Manchester University Press, 1959.
+- Hobsbawm, Eric, and Terence Ranger, eds. *The Invention of Tradition*. Cambridge University Press, 1983.
+- Evans, Richard J. *Eric Hobsbawm: A Life in History*. Oxford University Press, 2019.
+- Kaye, Harvey J. *The British Marxist Historians: An Introductory Analysis*. Polity Press, 1984.

@@ -45,7 +45,7 @@ Beyond stone and metal inscriptions, "documentary evidence" in the broader sense
 
 ## The Importance of Inscriptions for Comparative History
 
-Inscriptions have been a decisive tool for cross-checking against later literary and religious sources (for example, comparing the inscriptions of the Assyrian and Babylonian kings with the biblical texts), and they have enabled the correction or confirmation of accounts that appear only in literary sources written much later than the events they describe.
+Inscriptions have been an important tool for cross-checking against later literary and religious sources. In ancient Near Eastern studies, comparing the epigraphic annals of Assyrian and Babylonian kings with biblical narratives enables the cross-verification and chronological recalibration of historical events. Similarly, in early Islamic studies, contemporary epigraphic evidence—such as the monumental 72 AH / 691–692 CE inscription in the Dome of the Rock in Jerusalem, Umayyad milestones, and early Arabic rock inscriptions across the Syrian desert and the Hijaz—provides valuable contemporary documentary evidence that allows scholars to test and contextualize later narrative chronicles compiled in the Abbasid era.
 
 ## Connections to Other Concepts
 
@@ -53,8 +53,9 @@ This concept is directly linked to the authority of the scribe and documentarian
 
 ## Sources
 
-- Van De Mieroop, M. (1999). *Cuneiform Texts and the Writing of History*. Routledge.
-- Liverani, M. (1973). "Memorandum on the Approach to Historiographic Texts." *Orientalia*, 42.
-- Woolf, G. (1996). "Monumental Writing and the Expansion of Roman Society." *Journal of Roman Studies*, 86.
-- Millard, A. (2000). *Reading and Writing in the Time of Jesus*. Sheffield Academic Press.
-- Grayson, A. K. (1980). "Assyria and Babylonia." *Orientalia*, 49.
+- Grayson, A. K. (1980). "Assyria and Babylonia." *Orientalia* 49(2): 140–194.
+- Hoyland, Robert G. (1997). *Seeing Islam As Others Saw It: A Survey and Evaluation of Christian, Jewish and Zoroastrian Sources on Early Islam*. Princeton: Darwin Press.
+- Liverani, M. (1973). "Memorandum on the Approach to Historiographic Texts." *Orientalia* 42: 178–194.
+- Millard, A. (2000). *Reading and Writing in the Time of Jesus*. Sheffield: Sheffield Academic Press.
+- Van De Mieroop, M. (1999). *Cuneiform Texts and the Writing of History*. London: Routledge.
+- Woolf, G. (1996). "Monumental Writing and the Expansion of Roman Society." *Journal of Roman Studies* 86: 22–39.

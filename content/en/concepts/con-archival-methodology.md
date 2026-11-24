@@ -16,29 +16,35 @@ gaps: []
 
 # Archival Methodology
 
-The set of principles and procedures that historians and archivists adopt to organise historical documents, preserve them and make them accessible, and to understand the limits of what can be inferred from them in terms of knowledge. Today the archive is no longer regarded as a neutral repository of truth, but as a structure of selection and organisation that carries influential implicit decisions about what reaches us from the past and what is lost.
+Archival methodology comprises the theoretical principles, standards, and practices governing how records are identified, organized, preserved, described, and made accessible for historical research. Far from functioning as passive, neutral repositories of historical truth, modern archives are recognized as structured, power-laden institutions whose organizational systems and retention policies fundamentally shape what survives from the past and how future historians interpret it.
 
-## The Basic Principle: Respect for the Original Order
+## Core Principles: Provenance and Original Order
 
-The first methodological principle of archival science is "respect for the original order" (*respect des fonds*): documents of a particular institution or person should not be mixed with documents of another body, but preserved within their original collection (*fonds*) in the arrangement in which the producing body created them. This is because the arrangement itself, not only the content of each individual document, carries historical significance about how that body worked and the sequence of its decisions. The principle was developed by French archivists in the nineteenth century and became an accepted international standard in archive classification.
+Classical archival methodology rests on two foundational principles codified in the nineteenth century:
 
-## "The Archive Is Made, Not Merely Found"
+- **Provenance (*respect des fonds*)**: First formulated systematically in France by Natalis de Wailly in 1841, this rule dictates that documents originating from a single creator, office, or institution must not be interfiled with documents from another source. Preserving records within their distinct *fonds* ensures that their institutional origin and evidentiary integrity remain intact.
+- **Original Order (*Registraturprinzip*)**: Articulated authoritatively in the Dutch *Manual for the Arrangement and Description of Archives* (1898) by Samuel Muller, J. A. Feith, and Robert Fruin, this principle mandates that records be maintained in the internal order established by the creating body during its regular operations. The filing sequences, registers, and classification codes reflect the administrative logic and decision-making processes of the organization that produced them.
 
-One of the most important theoretical developments in this field is the argument advanced by contemporary archivists Terry Cook and Verne Harris: the archive is not the remains of the past that "survived" by pure chance, but the result of a chain of successive human decisions (What is preserved? What is destroyed? Who holds the authority to decide?) that necessarily reflect social and political power relations at the moment the archive was produced and at every later stage of its preservation. This is known as the "archival turn": the shift from treating the archive as a transparent research tool to treating it as a subject of research in itself.
+## Archival Appraisal and the Power of Selection
 
-## Practical Tools
+Archival appraisal—the process of determining which records should be retained permanently and which may be destroyed—represents one of the most consequential interventions in the historical process. In the mid-twentieth century, American archival theorist T. R. Schellenberg distinguished between the **primary values** of records (their immediate administrative, legal, and fiscal utility to the creator) and their **secondary values** (their evidential and informational value for future researchers).
 
-- **Archival appraisal**: The decision about which documents are kept permanently and which are destroyed. It is a decision with fundamental epistemic impact, because it predetermines what historians will later have available.
-- **Cataloguing and archival description**: Establishing standard criteria (such as the international standard ISAD(G)) for describing the content of each collection and its context of production, to make it easier for researchers to locate them.
-- **Reading "against the grain" of the archive**: Extracting information that the original producers of a document did not intend to record explicitly (for example, inferring the conditions of ordinary people from official tax registers that were originally produced purely for administrative purposes).
+In late twentieth-century theory, Canadian archivist Terry Cook and South African theorist Verne Harris were prominent in the "archival turn." Moving beyond bureaucratic utilitarianism, Cook developed the concept of **macroappraisal**, which assesses societal functions and governance structures rather than individual files, determining where key societal interactions occur. As Harris and Joan M. Schwartz observed, the archive is not an innocent reflection of reality but a site where memory, authority, and identity are actively contested and constructed.
 
-## Limitation
+## Analytical Techniques and Methodological Limits
 
-By its nature, the archive remains biased in favour of the bodies that possessed the institutional and material capacity to produce and preserve documents, namely states, religious institutions and major commercial enterprises. The experiences of marginalised or illiterate groups remain represented only indirectly or are entirely absent. This requires the researcher to maintain a constant critical awareness of the limits of what any archive can "say", however comprehensive it may appear.
+To interrogate archival holdings critically, historians employ several complementary techniques:
+
+- **Standardized Archival Description**: Systems such as ISAD(G) (General International Standard Archival Description) establish hierarchical metadata that trace records from the broader *fonds* down to series, files, and items, establishing institutional context.
+- **Reading Against and Along the Grain**: As Walter Benjamin, Gayatri Spivak, and Ann Laura Stoler have emphasized, official archives are structured around the gaze of dominant bureaucracies. Reading "against the grain" uncovers marginal voices, subversive actions, and social realities concealed within administrative reports, while reading "along the grain" analyzes the anxieties, categories, and epistemic conventions of the administrators themselves.
+- **Recognizing Structural Silences**: Because official archives historically privileged state bureaucracies, legal establishments, and property owners, the perspectives of illiterate populations, enslaved persons, indigenous communities, and marginalized laborers are often omitted or heavily mediated. Critical archival methodology requires historians to treat silences not merely as accidental gaps, but as systematic consequences of power relations.
 
 ## Sources
 
-- Cook, Terry. "What is Past is Prologue: A History of Archival Ideas Since 1898." *Archivaria* 43, 1997.
-- Harris, Verne. "The Archival Sliver: Power, Memory, and Archives in South Africa." *Archival Science* 2, 2002.
-- Schwartz, Joan M. & Cook, Terry. "Archives, Records, and Power: The Making of Modern Memory." *Archival Science* 2, 2002.
-- Duranti, Luciana. "The Concept of Appraisal and Archival Theory." *American Archivist* 57(2), 1994.
+- Cook, Terry. "What is Past is Prologue: A History of Archival Ideas Since 1898." *Archivaria* 43 (1997): 17–63.
+- Duranti, Luciana. "The Concept of Appraisal and Archival Theory." *The American Archivist* 57, no. 2 (1994): 328–344.
+- Harris, Verne. "The Archival Sliver: Power, Memory, and Archives in South Africa." *Archival Science* 2, no. 1–2 (2002): 63–86.
+- Muller, Samuel, J. A. Feith, and Robert Fruin. *Manual for the Arrangement and Description of Archives*. The Hague: Van Stockum, 1898.
+- Schellenberg, T. R. *Modern Archives: Principles and Techniques*. Chicago: University of Chicago Press, 1956.
+- Schwartz, Joan M., and Terry Cook. "Archives, Records, and Power: The Making of Modern Memory." *Archival Science* 2, no. 1–2 (2002): 1–19.
+- Stoler, Ann Laura. *Along the Archival Grain: Epistemic Anxieties and Colonial Common Sense*. Princeton: Princeton University Press, 2009.

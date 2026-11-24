@@ -10,55 +10,41 @@ crumb: "Historiography ← Thinkers ← Peter Novick"
 dates: "United States · 1934–2012"
 country: "United States"
 language: "English"
-active_start: 1988
+active_start: 1968
 active_end: 2012
 edges:
-- rel: "belongs_to", target: "Objectivity Debate: Carr, Elton and Novick", target_type: "مدرسة"
+  - rel: "belongs_to", target: "Objectivity Debate: Carr, Elton and Novick", target_type: "مدرسة"
 related:
-- id: "wrk-that-noble-dream-novick", title: "That Noble Dream: The \"Objectivity Question\" and the American Historical Profession", type: "عمل / كتاب"
-- id: "sch-objectivity-debate-carr-elton-novick", title: "The Question of Objectivity and Interpretation (Carr, Elton and Novick)", type: "مدرسة"
-- id: "thk-edward-hallett-carr", title: "Edward Hallett Carr", type: "مفكر"
-gaps:
-  - "His later controversial work *The Holocaust in American Life* (1999) has not yet been examined in detail beyond the general mention here; it discusses how Holocaust memory became a central theme of American Jewish identity after decades of relative marginalisation."
+  - id: "wrk-that-noble-dream-novick", title: "That Noble Dream: The \"Objectivity Question\" and the American Historical Profession", type: "عمل / كتاب"
+  - id: "sch-objectivity-debate-carr-elton-novick", title: "The Question of Objectivity and Interpretation (Carr, Elton and Novick)", type: "مدرسة"
+  - id: "thk-edward-hallett-carr", title: "Edward Hallett Carr", type: "مفكر"
+gaps: []
 ---
 
 # Peter Novick
 
-An American historian and professor at the University of Chicago, who wrote the most important historical study of the development of the idea of "objectivity" itself within the American historical profession.
+Peter Novick (1934–2012) was an American historian and professor of European and American intellectual history at the University of Chicago. He is best known for his landmark study of the historical profession, *That Noble Dream*, which traced the evolving meaning and eventual crisis of the ideal of historical "objectivity" across a century of American scholarship.
 
-## What He Gave
+## Academic Career and Trajectory
 
-- ***That Noble Dream: The "Objectivity Question" and the American Historical Profession*** *(That Noble Dream, 1988)*: A critical history of the development of the idea of "objectivity" over a full century of the American historical profession. It shows how the idea shifted from a firmly held doctrine (influenced by a simplified reading of Ranke's motto "as it actually happened") to an object of growing doubt with the rise of the linguistic turn and critical theory, without the author himself settling the debate in favour of either side.
-- **Dismantling the popular myth of Ranke**: It documents how Ranke's famous phrase was extracted from its more complex original context, and in American reception became a naive positivist creed claiming absolute neutrality, unlike Ranke's actual position.
-- ***The Holocaust in American Life*** *(1999)*: An analysis of how the Holocaust, after relative marginalisation in the first decades after the war, became a central axis of American Jewish identity and of American national memory generally from the 1970s onwards. It is a study of the politics of collective memory that intersects with Pierre Nora's project.
+Novick received his doctorate from Columbia University in 1965, specializing in modern European history. His early research examined the political purges of collaborationists in liberated France following the fall of the Vichy regime (*The Resistance versus Vichy*, 1968). In 1966, he joined the faculty of the University of Chicago, where he taught until his retirement in 1999. In the 1980s, Novick turned his analytical attention to the history of the historical discipline itself, employing a reflexive, institutional approach that historicized the epistemological assumptions of modern scholars.
 
-## Historical Context
+## Major Historiographical Contributions
 
-Novick's seminal book emerged in the context of the crisis of confidence that swept the American historical profession in the 1980s, after the rise of the linguistic turn and French critical theory (Foucault and Derrida), which radically questioned the possibility of attaining objective historical knowledge independent of the researcher's position and conceptual tools. Novick, a professor at the University of Chicago who first specialised in the history of Vichy France and the French Resistance before turning to the history of his own profession with an unprecedented depth and breadth of reflexive method, produced the first comprehensive and relatively neutral account of this debate. He traced its transformations from the founding of the American Historical Association in 1884 to the late 1980s, by examining the speeches of successive association presidents, book reviews in the major professional journals, and debates at academic conferences over a full century.
+### *That Noble Dream: The "Objectivity Question" and the American Historical Profession* (1988)
+Awarded the American Historical Association's Albert J. Beveridge Award, this work examined the concept of historical objectivity not as an eternal philosophical truth, but as a socially situated and shifting professional norm:
+- **The Rankean Myth**: Novick argued that the late nineteenth-century founders of the American Historical Association (1884), such as Herbert Baxter Adams, selectively imported Leopold von Ranke's dictum "as it actually happened" (*wie es eigentlich gewesen*). Divested of Ranke's Lutheran historicism and providentialism, the phrase was transformed in the United States into a simplistic, Baconian positivist creed that equated historical truth with the neutral accumulation of empirical facts.
+- **Generational Fractures**: Novick analyzed how this founding consensus fractured over the course of the twentieth century. The interwar historical relativism of Charles Beard and Carl Becker challenged claims to detachment; wartime mobilization during the Second World War and early Cold War temporarily re-imposed a patriotic consensus; and the social convulsions of the 1960s and 1970s—marked by the rise of the New Left, Black history, feminist historiography, and postmodern literary theory—shattered the profession into competing subdisciplines with irreconcilable narrative frameworks.
+- **Reflexive Epistemology**: Rather than taking a polemical stand between defenders of hard archival realism (such as G. R. Elton) and radical epistemological skeptics (such as Hayden White), Novick concluded that the ideal of objectivity functioned as a regulatory "noble dream" that held the profession together, even as its epistemological foundation dissolved.
 
-## Main Ideas and Method
-
-Novick developed a method he described as the "historicism" of objectivity itself. Rather than taking sides in the objectivity debate (as E. H. Carr did in *What Is History?* by questioning objectivity, or Geoffrey Elton did in *The Practice of History* by defending it), Novick chose to write a social and intellectual history of how the idea of "objectivity" was formed and fractured within the American profession over a century. He showed that it was never a fixed truth but a socially variable structure linked to specific institutional and professional interests in each era. These ranged from the founding ambition of late nineteenth-century professionals to prove the "scientific" character of history in the face of the natural sciences, through crises of neutrality during the two world wars and the Cold War, to the complete fracture of the professional consensus in the 1970s and 1980s with the emergence of women's history, radical social history, and post-structuralist criticism that rejected the very idea of a single, neutral historical narrative.
-
-## Position within the Debate
-
-Novick is the historian who documented the historicity of the objectivity debate itself (not merely one of its parties). He offered a historical perspective on the crisis (rather than a direct philosophical resolution) between the opposing positions of Carr and Elton.
-
-## Major Works
-
-- *That Noble Dream: The "Objectivity Question" and the American Historical Profession* (1988).
-- *The Holocaust in American Life* (1999).
-
-## Connection to the Arab-Islamic Heritage
-
-Novick's method in "the history of objectivity itself" opens a fruitful line of inquiry into how the criteria of "truthfulness", "precision" and "justice" were formed in the science of *al-jarh wa-al-ta'dil* (criticism and validation of transmitters) among Muslim traditionists over the centuries. These criteria were never fixed for all time but developed and changed with the differing hadith schools and historical periods. This parallels methodologically the shift in the standards of "objectivity" within the American historical profession that Novick traced over a century, although this parallel has not yet been studied in a dedicated comparative study. It could open new horizons for historians of comparative civilisations interested in the sociology of religious and historical knowledge alike.
+### *The Holocaust in American Life* (1999)
+In this provocative study of collective memory, Novick investigated how and why the Holocaust shifted from relative marginality in American public and Jewish discourse in the 1940s and 1950s to a central pillar of American national memory and Jewish identity by the 1980s:
+- **Historicizing Collective Memory**: Novick argued that the "memory boom" surrounding the Holocaust was not an immediate, spontaneous reaction to the liberation of the camps. Rather, it emerged from specific historical developments in the late 1960s and 1970s, including anxieties surrounding the Six-Day War (1967) and the Yom Kippur War (1973), the breakdown of universalist assimilationist ideals, the rise of ethnic identity politics in the United States, and the 1978 television broadcast of the miniseries *Holocaust*.
+- **Critical Reception**: The book sparked intense controversy. Scholars and community leaders debated Novick's contention that collective memory is malleable, instrumentalized, and fundamentally distinct from critical history.
 
 ## Sources
 
+- Kloppenberg, James T. "Objectivity and Historicism: A Century of American Historical Writing." *The American Historical Review* 94, no. 4 (1989): 1011–1030.
 - Novick, Peter. *That Noble Dream: The "Objectivity Question" and the American Historical Profession*. Cambridge University Press, 1988.
 - Novick, Peter. *The Holocaust in American Life*. Houghton Mifflin, 1999.
-- Iggers, Georg G. *Historiography in the Twentieth Century: From Scientific Objectivity to the Postmodern Challenge*. Wesleyan University Press, rev. ed. 2005.
-- Carr, Edward Hallett. *What Is History?*. Macmillan, 1961.
-- Elton, Geoffrey R. *The Practice of History*. Sydney University Press, 1967.
-- Novick, Peter. *Resistance versus Vichy: The Purge of Collaborators in Liberated France*. Chatto & Windus, 1968.
-- Appleby, Joyce, Hunt, Lynn, and Jacob, Margaret. *Telling the Truth about History*. W.W. Norton, 1994.
+- Novick, Peter. *The Resistance versus Vichy: The Purge of Collaborators in Liberated France*. Columbia University Press, 1968.

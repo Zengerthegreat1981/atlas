@@ -22,7 +22,7 @@ A term used by the majority of Sunni Muslims for the first four caliphs who succ
 
 ## Major Events of the Period
 
-The caliphate of Abu Bakr (11–13 AH) saw the Ridda Wars, which re-unified the Arabian Peninsula after several tribes broke their political allegiance following the Prophet's death, as well as the beginning of conquests beyond the Peninsula. The state expanded enormously under Umar ibn al-Khattab (13–23 AH), whose armies conquered the lands of the Levant, Iraq and Egypt. He also established the administrative and financial registers (*dawawin*) of the state and the Hijri calendar. The reign of Uthman ibn Affan (23–35 AH) saw continued expansion, but was marked by internal political tensions that escalated until his killing at the hands of rebels from the provinces. This event opened the door to the "Great Discord" (*al-fitna al-kubra*) under Ali ibn Abi Talib (35–40 AH), whose reign witnessed civil wars (the Battles of the Camel and Siffin) and ended with his assassination and the establishment of the Umayyad caliphate after him.
+The caliphate of Abu Bakr (11–13 AH / 632–634 CE) saw the Ridda Wars, which re-unified the Arabian Peninsula after several tribes broke their political allegiance following the Prophet's death, as well as the beginning of conquests beyond the Peninsula. The state expanded enormously under Umar ibn al-Khattab (13–23 AH / 634–644 CE), whose armies conquered the lands of the Levant, Iraq and Egypt. He also established the administrative and financial registers (*dawawin*) of the state and the Hijri calendar. The reign of Uthman ibn Affan (23–35 AH / 644–656 CE) saw continued expansion, but was marked by internal political tensions that escalated until his killing at the hands of rebels from the provinces. This event opened the door to the "Great Discord" (*al-fitna al-kubra*) under Ali ibn Abi Talib (35–40 AH / 656–661 CE), whose reign witnessed civil wars (the Battles of the Camel and Siffin) and ended with his assassination and the establishment of the Umayyad caliphate after him.
 
 ## Critical Historical Reading
 
@@ -30,11 +30,12 @@ Contemporary scholars distinguish between the ideal picture that later Sunni sou
 
 ## Historical Sources
 
-Historians reconstructing this period relied on sources written a century or more after the events, the most prominent of which are the history of al-Tabari (*Tarikh al-rusul wa'l-muluk*, History of Prophets and Kings) and the works of al-Baladhuri (*Ansab al-ashraf* and *Futuh al-buldan*). These sources sometimes show multiple editorial layers that reflect later disputes between political and religious schools more than they reflect pure facts. This calls for the modern historian (as Fred Donner has shown) to read them critically, in order to distinguish the historical layers of the narrative from the later interpretive layers.
+Historians reconstructing this period relied on sources written a century or more after the events, the most prominent of which are the history of al-Tabari (*Tarikh al-rusul wa'l-muluk*, History of Prophets and Kings) and the works of al-Baladhuri (*Ansab al-ashraf* and *Futuh al-buldan*). These sources sometimes show multiple editorial layers that reflect later disputes between political and religious schools more than they reflect pure facts. This calls for the modern historian (as Fred Donner has argued) to read them critically, in order to distinguish the historical layers of the narrative from the later interpretive layers.
 
 ## Sources
 
-- al-Tabari, *Tarikh al-rusul wa'l-muluk*, ed. Muhammad Abu al-Fadl Ibrahim, Dar al-Ma'arif, Cairo.
-- Fred M. Donner, *The Early Islamic Conquests* (Princeton University Press, 1981).
-- Wilferd Madelung, *The Succession to Muhammad: A Study of the Early Caliphate* (Cambridge University Press, 1997).
-- Hugh Kennedy, *The Prophet and the Age of the Caliphates* (Routledge, 2004).
+- al-Baladhuri, Ahmad ibn Yahya. *Ansab al-Ashraf*. Edited by Suhayl Zakkar and Riyaḑ Zirikli. 13 vols. Beirut: Dar al-Fikr, 1996.
+- al-Tabari, Muhammad ibn Jarir. *Tarikh al-rusul wa'l-muluk*. Edited by Muhammad Abu al-Fadl Ibrahim. 10 vols. Cairo: Dar al-Ma'arif, 1960–1969.
+- Donner, Fred M. *The Early Islamic Conquests*. Princeton: Princeton University Press, 1981.
+- Kennedy, Hugh. *The Prophet and the Age of the Caliphates: The Islamic Near East from the Sixth to the Eleventh Century*. 2nd ed. London: Pearson Longman, 2004.
+- Madelung, Wilferd. *The Succession to Muhammad: A Study of the Early Caliphate*. Cambridge: Cambridge University Press, 1997.
