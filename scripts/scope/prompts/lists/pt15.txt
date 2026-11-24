@@ -1,0 +1,12 @@
+sch-evolutionary-psychology|content/ar/schools/sch-evolutionary-psychology.md|content/en/schools/sch-evolutionary-psychology.md
+sch-narrative-therapy|content/ar/schools/sch-narrative-therapy.md|content/en/schools/sch-narrative-therapy.md
+thk-kohut|content/ar/thinkers/thk-kohut.md|content/en/thinkers/thk-kohut.md
+thk-kahneman|content/ar/thinkers/thk-kahneman.md|content/en/thinkers/thk-kahneman.md
+thk-fonagy|content/ar/thinkers/thk-fonagy.md|content/en/thinkers/thk-fonagy.md
+con-repression|content/ar/concepts/con-repression.md|content/en/concepts/con-repression.md
+con-mentalization|content/ar/concepts/con-mentalization.md|content/en/concepts/con-mentalization.md
+con-motivational-interviewing-oars|content/ar/concepts/con-motivational-interviewing-oars.md|content/en/concepts/con-motivational-interviewing-oars.md
+stu-harlow-rhesus-monkeys|content/ar/studies/stu-harlow-rhesus-monkeys.md|content/en/studies/stu-harlow-rhesus-monkeys.md
+ins-hamilton-hdrs|content/ar/instruments/ins-hamilton-hdrs.md|content/en/instruments/ins-hamilton-hdrs.md
+dis-ocd|content/ar/disorders/dis-ocd.md|content/en/disorders/dis-ocd.md
+wrk-ecrits|content/ar/works/wrk-ecrits.md|content/en/works/wrk-ecrits.md

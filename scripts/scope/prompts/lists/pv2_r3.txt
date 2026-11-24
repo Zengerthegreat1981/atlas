@@ -1,0 +1,706 @@
+=== content/en/fields/fld-aesthetics.md
+---
+slug: "fld-aesthetics"
+id: "PHL-30009"
+type: "مجال"
+part: philosophy
+level: "متوسط"
+title: "Aesthetics"
+en: "Aesthetics"
+crumb: "Philosophy ← Fields ← Aesthetics"
+edges: []
+related: []
+gaps: []
+---
+# Aesthetics
+
+Aesthetics is the philosophical study of beauty, art, taste and aesthetic experience. The word was given its modern sense by Alexander Gottlieb Baumgarten, who used *aesthetica* in the 1730s and 1750s for the science of sensory cognition. The field asks what makes something beautiful or artistically valuable, whether such judgements can be objective, and what art is and does. It is related to, but broader than, philosophy of art, since it also covers natural beauty and everyday experience.
+
+## What the branch asks
+
+Main questions are: What is beauty? Are aesthetic judgements merely expressions of preference or can they be correct? What is the nature of aesthetic experience and aesthetic value? What is art, and can it be defined? How do we interpret works? What is the relation between art and morality, knowledge and emotion? How do we appreciate nature? What is distinctive about specific arts such as music, literature and film?
+
+## Beauty in the ancient and medieval world
+
+Plato offered a complex view: in the *Symposium* and *Phaedrus*, beauty is a gateway toward the Form of Beauty, which the soul can ascend toward through love. In the *Republic* (Book X), he criticised imitative art as a copy of a copy, and worried about poetry's effects on character. Aristotle's *Poetics* defended tragedy as a mimesis of action that produces **catharsis**, a purging or clarification of pity and fear. Plotinus, in the *Enneads*, located beauty in the unity and radiance of the intelligible. Medieval thinkers such as Augustine and Aquinas linked beauty to proportion, integrity and clarity, and counted it among the divine perfections. Islamic aesthetics developed through calligraphy, geometric pattern, poetry theory and the philosophical work of al-Farabi and Avicenna on imagination and music. Indian aesthetics, in the *Natyashastra* attributed to Bharata, centred on *rasa*, the aesthetic "flavour" or emotional essence tasted by an audience, later developed by Abhinavagupta. Classical Chinese thought connected art with cultivation, harmony and the expression of the Dao, as in writing on music in the *Liji* and on painting by Xie He.
+
+## Taste and the modern turn
+
+Eighteenth-century British writers asked about the faculty of taste. Francis Hutcheson posited an inner sense of beauty. David Hume's essay "Of the Standard of Taste" (1757) argued that although beauty is not a property of objects alone, true judges, marked by delicate sensibility, practice and freedom from prejudice, set a standard for taste. Edmund Burke's *Philosophical Enquiry* (1757) distinguished the **beautiful** (small, smooth, pleasing) from the **sublime** (vast, terrifying yet exhilarating, grounded in danger at a safe distance).
+
+Immanuel Kant's *Critique of Judgment* (1790) is the most influential modern work. He held that a judgement of taste is based on feeling but claims universal agreement; that it is **disinterested**, not driven by desire for the object's existence; that beauty involves the "free play" of imagination and understanding; and that it displays "purposiveness without a purpose". The sublime, for Kant, arises when imagination is overwhelmed and reason asserts its own supersensible vocation. Friedrich Schiller, in *Letters on the Aesthetic Education of Man* (1795), saw art as reconciling reason and sensibility. G. W. F. Hegel's lectures on aesthetics treated art as one manifestation of Spirit, and proposed that art's highest vocation belongs to the past.
+
+## Defining art
+
+Early twentieth-century views included **formalism** (Clive Bell, Roger Fry: significant form), **expressivism** (Leo Tolstoy, R. G. Collingwood: art expresses emotion) and **imitation** theories. Arthur Danto, responding to Warhol's *Brillo Boxes* (1964), argued that what makes something art is its place in an "artworld" of theory and history. George Dickie's **institutional theory** held that art is whatever the artworld confers status upon. Wittgensteinian philosophers, like Morris Weitz in 1956, claimed that art is an open concept with only family resemblances. Others defended historical definitions (Jerrold Levinson) and cluster accounts (Berys Gaut). The debate has to account for avant-garde works, found objects and non-Western traditions, which has led some to question whether the Western category "fine art" is universal.
+
+## Interpretation, value and ethics
+
+Does the author's intention determine meaning? W. K. Wimsatt and Monroe Beardsley's "The Intentional Fallacy" (1946) said no; Roland Barthes's "The Death of the Author" (1967) went further, and intentionalists disagree. Debates also concern the **paradox of fiction** (why we respond emotionally to what we know is not real), the **paradox of tragedy** (why we enjoy painful art), and the **paradox of horror**. Whether a work's moral flaws are aesthetic flaws is disputed between autonomists, moralists and others. Hume's puzzle about whether we can appreciate works endorsing alien values remains alive. Art and knowledge are also debated: Nelson Goodman's *Languages of Art* (1968) treated art as a symbol system that advances understanding, while others doubt that art gives knowledge.
+
+## Critical and sociological approaches
+
+Pierre Bourdieu's *Distinction* (1979) argued that taste is a marker of social class. Theodor Adorno and Walter Benjamin, writing in the Frankfurt School tradition, examined mass culture and mechanical reproduction; Benjamin's essay "The Work of Art in the Age of Mechanical Reproduction" appeared in 1935-1936. Feminist, postcolonial and disability studies approaches question who determines the canon and whose perspectives count. Environmental aesthetics (Allen Carlson, Emily Brady) asks how nature should be appreciated, and everyday aesthetics (Yuriko Saito) extends attention to design and the ordinary. Recent philosophy also considers digital and algorithmic art, and generative AI.
+
+## Connections
+
+Aesthetics links to ethics (character, value), epistemology (perception, imagination), philosophy of mind (emotion, imagery), philosophy of language (metaphor, fiction) and metaphysics (the ontology of artworks, such as how a musical work differs from its performances). It interacts with art history, literary theory, musicology and psychology.
+
+## Common misunderstandings
+
+Aesthetics is not just about "beauty": it also covers the ugly, the sublime, the comic and the tragic. Saying that taste has a standard does not mean that all disagreement is error, nor does the existence of disagreement show that there is no standard. Kant's disinterestedness does not mean that art lacks feeling. And philosophical definitions of art are not tests for being good art.
+
+## Sources
+
+- Aristotle, *Poetics* (4th century BCE)
+- David Hume, "Of the Standard of Taste" (1757)
+- Edmund Burke, *A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful* (1757)
+- Immanuel Kant, *Critique of Judgment* (1790)
+- Arthur C. Danto, "The Artworld", *The Journal of Philosophy* (1964)
+- Noel Carroll, *Philosophy of Art: A Contemporary Introduction* (1999)
+=== content/en/fields/fld-epistemology.md
+---
+slug: "fld-epistemology"
+id: "PHL-30003"
+type: "مجال"
+part: philosophy
+level: "متوسط"
+title: "Epistemology"
+en: "Epistemology"
+crumb: "Philosophy ← Fields ← Epistemology"
+edges: []
+related: []
+gaps: []
+---
+# Epistemology
+
+Epistemology, from the Greek *episteme* ("knowledge"), is the philosophical study of knowledge, belief and justification. It asks what knowledge is, how we acquire it, what its sources and limits are, and whether and how we can be certain of anything. Because every inquiry makes claims to know, epistemology is a foundational branch, closely tied to logic, philosophy of science and philosophy of mind.
+
+## What the branch asks
+
+Four questions organise the field. First, **what is knowledge**, and how does it differ from mere true belief or luck? Second, **what is justification**: what makes a belief rationally held? Third, **what are the sources** of knowledge: perception, reason, memory, testimony, introspection? Fourth, **what are the limits**: can we know about the external world, other minds, the past, the future, or morality, and can we answer the skeptic?
+
+## The analysis of knowledge
+
+A traditional proposal, often traced to Plato's *Theaetetus* and *Meno*, holds that knowledge is **justified true belief**: to know that p, one must believe p, p must be true, and one's belief must be justified. In 1963, Edmund Gettier published a three-page paper presenting cases in which someone has a justified true belief that is true only by luck, and so seems not to know. A standard example involves a person who looks at a stopped clock that happens to show the right time. After Gettier, philosophers proposed fourth conditions (no false lemmas, defeasibility, a causal connection), reliability analyses, and virtue-theoretic accounts, such as those of Ernest Sosa and Linda Zagzebski, on which knowledge is true belief arising from intellectual competence. Timothy Williamson, in *Knowledge and Its Limits* (2000), argued that knowledge is a basic mental state that should not be analysed in terms of belief plus further conditions. No analysis has won general agreement.
+
+## Rationalism and empiricism
+
+Early modern debate set **rationalists**, such as Descartes, Spinoza and Leibniz, who held that reason can yield substantive knowledge independently of experience and that some ideas are innate, against **empiricists**, such as Locke, Berkeley and Hume, who held that all content derives from experience. Locke's *Essay Concerning Human Understanding* (1689) argued the mind begins as a blank slate. Hume's *Treatise of Human Nature* (1739-1740) pressed skeptical consequences about causation and induction. Immanuel Kant's *Critique of Pure Reason* (1781) proposed a synthesis: experience supplies content, but the mind contributes structuring concepts and forms of intuition, making synthetic *a priori* knowledge possible for the world as it appears to us.
+
+The distinctions between *a priori* and *a posteriori* knowledge, and between analytic and synthetic truths, remain central. W. V. O. Quine's "Two Dogmas of Empiricism" (1951) criticised the analytic-synthetic distinction, and Saul Kripke's *Naming and Necessity* (1980) separated the epistemic category of *a priori* from the metaphysical category of necessity.
+
+## Skepticism
+
+Skeptical arguments claim that we lack knowledge in some domain. Ancient Pyrrhonists, recorded by Sextus Empiricus, recommended suspending judgement, while the Academic skeptics argued that certainty is unattainable. Descartes's *Meditations* (1641) made the dream argument and the evil demon hypothesis central, though he used them to find a secure foundation. Modern versions invoke the brain-in-a-vat scenario. Responses include Moorean appeals to common sense, contextualism (the standards for "knows" shift with context), relevant-alternatives theories, and externalist replies. Whether skepticism is a serious threat or a puzzle about how our concepts work is itself debated. Many traditions have their own skeptical or sceptic-adjacent strands, such as the Indian Madhyamaka and Carvaka critiques and the Zhuangzi's perspectivalism.
+
+## Structure and sources of justification
+
+**Foundationalism** holds that justified beliefs rest on basic beliefs that need no inferential support, as in Descartes and, in different forms, in classical empiricism. **Coherentism**, associated with Laurence BonJour in some writings, holds that beliefs are justified by fitting into a coherent system. **Infinitism** accepts endless chains of reasons. This relates to the **regress problem** on which every reason seems to need another reason.
+
+**Internalism** says that what justifies a belief must be accessible to the believer's reflection. **Externalism** allows factors outside awareness to matter, such as the reliability of the belief-forming process, as in Alvin Goldman's reliabilism. Related positions include evidentialism (Richard Feldman and Earl Conee) and proper functionalism (Alvin Plantinga). Arguments from the "new evil demon" and from clairvoyance cases are standard objections on each side.
+
+## Social and formal epistemology
+
+Much knowledge comes from others, so **social epistemology** studies testimony, expertise, disagreement and group knowledge, with early influences in the work of Goldman and Steve Fuller. The epistemology of **peer disagreement** asks how to respond when equally competent people disagree. Miranda Fricker's *Epistemic Injustice* (2007) examines how prejudice can wrong people as knowers. **Formal epistemology** uses probability, notably Bayesian models of belief and evidence, and epistemic logic. Feminist, decolonial and virtue epistemologies explore the role of social position, power and character in inquiry.
+
+## Connections
+
+Epistemology intersects with philosophy of science (confirmation, evidence), philosophy of mind (perception, belief), logic (inference), metaphysics (truth, realism), and ethics (moral knowledge, epistemic duties). Cognitive science studies how belief formation actually works, and some philosophers pursue a naturalised epistemology, following Quine, that treats it as continuous with empirical psychology.
+
+## Common misunderstandings
+
+"Knowledge" does not mean certainty: most epistemologists accept fallibilism, on which we can know even though we could be wrong. Skeptical arguments are usually presented as challenges to be answered, not as endorsements. Epistemology is not simply a study of science, since it covers everyday knowledge, testimony, memory and moral or mathematical knowledge. And Gettier did not show that justified true belief is irrelevant; it showed that something more or different is needed.
+
+## Sources
+
+- Plato, *Theaetetus* (c. 369 BCE)
+- Rene Descartes, *Meditations on First Philosophy* (1641)
+- Edmund L. Gettier, "Is Justified True Belief Knowledge?", *Analysis* (1963)
+- Timothy Williamson, *Knowledge and Its Limits* (2000)
+- Miranda Fricker, *Epistemic Injustice* (2007)
+- Robert Audi, *Epistemology: A Contemporary Introduction to the Theory of Knowledge* (first edition 1998)
+=== content/en/fields/fld-ethics-overview.md
+---
+slug: "fld-ethics-overview"
+id: "PHL-30010"
+type: "مجال"
+part: philosophy
+level: "متوسط"
+title: "Ethics (Overview)"
+en: "Ethics (Overview)"
+crumb: "Philosophy ← Fields ← Ethics (Overview)"
+edges: []
+related: []
+gaps: []
+---
+# Ethics (Overview)
+
+Ethics, or moral philosophy, is the systematic study of how we ought to live: what is good and bad, right and wrong, virtuous and vicious, and what we owe to one another. This entry is a short overview within the Philosophy module. The atlas treats ethics at length in its own Ethics module, which should be consulted for detailed accounts of theories, thinkers and applied questions. It sits beside philosophy because ethics is historically one of the oldest philosophical branches, and because its questions depend on, and in turn shape, work in metaphysics, epistemology, philosophy of mind and political philosophy.
+
+## What ethics asks
+
+Ethics asks several kinds of question. How should I live, and what makes a life good? What makes actions right or wrong? What kind of person should I be? How do I weigh my interests against others'? Are there moral truths, and how could we know them? It is traditionally divided into three areas, which overlap.
+
+- **Normative ethics** develops general theories of right action and good character.
+- **Metaethics** investigates the nature, meaning and status of moral claims.
+- **Applied ethics** examines concrete issues such as medicine, war, business, animals, technology and the environment.
+
+## Normative ethics: virtue, duty, consequences
+
+Three families of theory dominate, though many philosophers combine or reject them.
+
+**Virtue ethics** gives priority to character. Aristotle's *Nicomachean Ethics* (4th century BCE) holds that the human good is *eudaimonia*, flourishing, achieved by exercising the virtues, such as courage, temperance and justice, guided by practical wisdom (*phronesis*) and understood as a mean between extremes. Confucian ethics, in the *Analects*, similarly stresses cultivating virtues such as *ren* (humaneness) and ritual propriety, and Buddhist ethics stresses compassion and the path of liberation. Modern revival came with G. E. M. Anscombe's "Modern Moral Philosophy" (1958), Philippa Foot, Alasdair MacIntyre's *After Virtue* (1981) and Rosalind Hursthouse. The standard objection is that virtue ethics gives insufficient guidance for action, and that virtues vary across cultures.
+
+**Deontology** holds that some acts are required or forbidden regardless of consequences. Immanuel Kant's *Groundwork of the Metaphysics of Morals* (1785) grounds morality in reason and the **categorical imperative**, one formulation of which commands acting only on maxims one could will as universal law, and another of which commands treating humanity never merely as a means. W. D. Ross's *The Right and the Good* (1930) proposed several irreducible *prima facie* duties. Deontology is criticised for rigidity in conflict cases, for example when lying would save a life, and for how it should settle conflicts among duties.
+
+**Consequentialism** holds that rightness depends on outcomes. Classical **utilitarianism**, advocated by Jeremy Bentham in *An Introduction to the Principles of Morals and Legislation* (1789) and John Stuart Mill in *Utilitarianism* (1863), says to maximise happiness or well-being impartially. Henry Sidgwick's *The Methods of Ethics* (1874) gave it rigorous form. Peter Singer applied it to animals and global poverty. Objections include that it may permit sacrificing individuals for aggregate benefit, that it is demanding, and that outcomes are hard to measure; rule consequentialism and prioritarian variants answer some of these.
+
+Other approaches include **contractualism** (T. M. Scanlon's *What We Owe to Each Other*, 1998), **care ethics** (Carol Gilligan, Nel Noddings), **natural law**, divine command theories and ethical particularism. Islamic ethics draws on Quranic and prophetic sources, philosophical virtue ethics (Miskawayh, al-Ghazali), and legal-theological discussion of the good. Indian traditions discuss *dharma*, karma, *ahimsa* and the aims of life. African ethics often stresses communal personhood, as in ubuntu.
+
+## Metaethics
+
+Metaethics asks what we are doing when we make moral claims. **Moral realists** hold that there are objective moral facts; **anti-realists** deny this. Prominent options include **error theory** (J. L. Mackie's *Ethics: Inventing Right and Wrong*, 1977), which says moral claims purport to be objective but are all false; **expressivism** (A. J. Ayer, Charles Stevenson, Simon Blackburn, Allan Gibbard), on which moral statements express attitudes; **constructivism** (Christine Korsgaard); and **relativism**. G. E. Moore's *Principia Ethica* (1903) argued that "good" is a simple, indefinable property and that defining it naturalistically commits the "naturalistic fallacy"; his open-question argument remains debated. David Hume's observation that one cannot straightforwardly derive "ought" from "is" frames much of the discussion. Questions about moral epistemology, moral motivation and the evolutionary origins of morality connect metaethics with psychology and biology.
+
+## Applied ethics and further debates
+
+Bioethics, environmental ethics, business ethics, ethics of war, animal ethics, and the ethics of technology and artificial intelligence apply the theories to specific cases. Experimental philosophy and moral psychology, such as Joshua Greene's work on dual-process judgement and Jonathan Haidt's social intuitionism, test claims about how moral thinking works. Free will and moral responsibility link ethics to metaphysics, while questions of justice link it to political philosophy.
+
+## Why the Ethics module is separate
+
+Ethics has a very large literature and an equally large range of applications, so the atlas gives it its own space where theories, thinkers and cases can be treated in depth. This overview exists to place ethics within philosophy and to point readers onward. Readers should consult the Ethics module for the detailed entries.
+
+## Common misunderstandings
+
+Ethics is not the same as religion or law: acts may be legal but wrong, or illegal but right, and moral philosophy can be pursued without religious premises, though religious ethics is a major tradition. Moral disagreement does not entail that relativism is true. "Utilitarian" does not mean selfish, since it counts everyone's welfare impartially. And ethical theories are not simply recipes: they are frameworks for reflection that practitioners apply with judgement.
+
+## Sources
+
+- Aristotle, *Nicomachean Ethics* (4th century BCE)
+- Immanuel Kant, *Groundwork of the Metaphysics of Morals* (1785)
+- John Stuart Mill, *Utilitarianism* (1863)
+- G. E. Moore, *Principia Ethica* (1903)
+- J. L. Mackie, *Ethics: Inventing Right and Wrong* (1977)
+- Russ Shafer-Landau, *The Fundamentals of Ethics* (first edition 2010)
+=== content/en/fields/fld-logic.md
+---
+slug: "fld-logic"
+id: "PHL-30002"
+type: "مجال"
+part: philosophy
+level: "متوسط"
+title: "Logic"
+en: "Logic"
+crumb: "Philosophy ← Fields ← Logic"
+edges: []
+related: []
+gaps: []
+---
+# Logic
+
+Logic is the study of correct reasoning. It asks what makes an argument good, what follows from what, and how the form of a statement determines which inferences are safe. It is a branch of philosophy, but also of mathematics and computer science, and its results are used far beyond philosophy.
+
+## What logic asks
+
+The central question is what it means for a conclusion to follow from premises. In a **deductive** argument, the premises are intended to guarantee the conclusion: if they are true, the conclusion cannot be false. In an **inductive** argument, the premises make the conclusion probable without guaranteeing it, as when we generalise from observed cases. A third kind, **abductive** reasoning or inference to the best explanation, selects the hypothesis that best accounts for the evidence.
+
+Two terms must be kept apart. An argument is **valid** when it is impossible for the premises to be true and the conclusion false. It is **sound** when it is valid and its premises are in fact true. A valid argument can have false premises, and an argument with true premises can be invalid. Validity concerns form and logical relation, not the truth of the content.
+
+## Main questions
+
+- What makes an inference valid, and how is validity to be defined, by truth-preservation across all interpretations or by proof?
+- Which logical constants (such as "and", "or", "not", "if... then", "all", "some") belong to logic, and how should they be understood?
+- How should conditionals and negation be treated, given that natural-language "if" behaves in puzzling ways?
+- Is there one correct logic, or several?
+- What are the limits of formal systems?
+
+## Key positions and developments
+
+**Aristotle** (384-322 BCE) founded formal logic in the *Prior Analytics*, with his theory of the syllogism, an argument pattern such as "All humans are mortal; all Greeks are humans; therefore all Greeks are mortal". The Stoics, notably Chrysippus, developed a logic of propositions, which anticipated modern propositional logic. Medieval logicians in the Latin and Islamic worlds, including Avicenna, Abelard and Ockham, refined theories of consequence, modality and reference.
+
+Indian logic developed independently in the Nyaya school, whose members analysed inference (*anumana*) using a five-part argument pattern, and in Buddhist logic, where Dignaga and Dharmakirti worked on the theory of the "reason" or mark that licenses an inference. Chinese logic was pursued by the Mohists and the School of Names, with attention to disputation and language.
+
+The modern era began with **Gottlob Frege**, whose *Begriffsschrift* (1879) introduced quantificational logic with a precise formal language. **Bertrand Russell** and **Alfred North Whitehead** produced *Principia Mathematica* (1910-1913), attempting to derive mathematics from logic. **David Hilbert** pursued formal axiomatisation, and **Kurt Godel** showed in 1931 that any consistent formal system strong enough for arithmetic contains true statements it cannot prove, and cannot prove its own consistency. Alfred Tarski gave a rigorous account of truth for formal languages, and Alonzo Church and Alan Turing demonstrated in 1936 that first-order logic is undecidable. Godel's completeness theorem (1929) shows that first-order logic proves all its valid formulas.
+
+## Formal logic and its extensions
+
+**Propositional logic** treats whole statements and the connectives joining them. **First-order (predicate) logic** adds quantifiers and predicates, and became the standard framework of mathematical logic. **Modal logic** adds operators for necessity and possibility, and has been developed with possible-worlds semantics, associated with Saul Kripke in the 1950s and 1960s. Higher-order, temporal, deontic and epistemic logics extend the toolkit.
+
+**Non-classical logics** reject some classical principles. **Intuitionistic logic**, inspired by L. E. J. Brouwer, drops the law of excluded middle because it ties truth to constructive proof. **Paraconsistent logics** allow contradictions without trivialising everything, a view defended by Graham Priest. **Many-valued** and **fuzzy** logics admit more than two truth values, and **relevance logics** require premises to be relevant to the conclusion. **Dialetheism** holds that some contradictions are true. Whether these are rivals to classical logic or tools for different purposes is a live dispute known as logical pluralism versus monism.
+
+## Fallacies
+
+A fallacy is a pattern of reasoning that seems good but is not. Formal fallacies, such as affirming the consequent ("If it rains the ground is wet; the ground is wet; so it rained"), are invalid by form. Informal fallacies depend on content or context. Examples include the *ad hominem* (attacking the arguer rather than the argument), equivocation, begging the question and the straw man. Some alleged fallacies, such as appeals to authority, are sometimes reasonable, so context matters.
+
+## Major debates and objections
+
+Disputes about the **paradoxes of material implication** concern whether the classical reading of "if" captures ordinary conditionals. The **liar paradox** and **Russell's paradox** show that naive truth and set comprehension lead to contradiction, motivating hierarchies and revisions. W. V. O. Quine argued that logic is continuous with empirical theory and that deviant logics change the subject, whereas others hold that logic is analytic or conventional. Hilary Putnam suggested that quantum mechanics might motivate revising logic, though this remains contested. The problem of **induction**, raised by David Hume, asks whether inductive reasoning can be justified without circularity.
+
+## Connections
+
+Logic underlies mathematics (set theory, proof theory, model theory, computability) and computer science (programming languages, verification, databases, artificial intelligence). In philosophy, it supports metaphysics through modality, epistemology through theories of justification and probability, and philosophy of language through formal semantics. Philosophy of science draws on probability and confirmation theory, sometimes called inductive logic.
+
+## Common misunderstandings
+
+Logic is not the same as being sensible or unemotional, and "logical" in ordinary speech often means merely "reasonable". Validity does not guarantee truth. A formal system's limits, as shown by Godel, do not show that human reasoning is irrational or that mathematics is unreliable. Finally, there is not simply one fixed logic that all reasoning must obey, though classical logic remains the default for much of mathematics and science.
+
+## Sources
+
+- Aristotle, *Prior Analytics* (c. 350 BCE)
+- Gottlob Frege, *Begriffsschrift* (1879)
+- Alfred North Whitehead and Bertrand Russell, *Principia Mathematica* (1910-1913)
+- Kurt Godel, "On Formally Undecidable Propositions of Principia Mathematica and Related Systems I" (1931)
+- Graham Priest, *An Introduction to Non-Classical Logic* (2001)
+- Patrick Hurley, *A Concise Introduction to Logic* (first edition 1982)
+=== content/en/fields/fld-metaphysics.md
+---
+slug: "fld-metaphysics"
+id: "PHL-30004"
+type: "مجال"
+part: philosophy
+level: "متوسط"
+title: "Metaphysics"
+en: "Metaphysics"
+crumb: "Philosophy ← Fields ← Metaphysics"
+edges: []
+related: []
+gaps: []
+---
+# Metaphysics
+
+Metaphysics is the branch of philosophy that investigates the most general features of reality: what exists, what kinds of things there are, and how they are related. The name comes from the title given by later editors to Aristotle's treatise placed "after the *Physics*", and Aristotle himself described the subject as the study of being *qua* being. Questions in metaphysics are not settled simply by laboratory experiment, yet they bear on how we interpret science and everyday life.
+
+## What the branch asks
+
+Metaphysics divides roughly into **ontology**, the study of what exists and what it is to exist, and the study of the fundamental structure of the world, including causation, time, space, modality and identity. Typical questions: Are there abstract objects, such as numbers? What is a substance, and what is a property? Does the future exist? What does it mean to say something could have been otherwise? What makes you the same person over time? Do we have free will?
+
+## Being and substance
+
+Aristotle's *Categories* and *Metaphysics* (4th century BCE) treat **substance** as the primary kind of being: individual things such as a particular horse or person, which are the subjects of which other things (qualities, quantities, relations) are predicated. Plato's theory of **Forms** located true reality in abstract, unchanging entities. In the medieval period, Avicenna distinguished essence from existence, and Thomas Aquinas developed a related view. Descartes took mind and matter to be two substances, Spinoza argued for a single infinite substance, and Leibniz proposed an infinity of simple substances called monads. Hume and later empiricists questioned whether we have any idea of substance beyond bundles of qualities. Indian philosophy offers rival views too, such as the Nyaya-Vaisheshika realism about substances and universals and the Buddhist doctrine that there are no enduring substances, only momentary events.
+
+## Universals and particulars
+
+The **problem of universals** asks what, if anything, makes different things alike. **Realists** hold that universals, such as redness, exist; Platonic realists say they exist independently of instances, Aristotelian realists say only in instances. **Nominalists** deny universals, holding that only particulars exist. **Trope theory** posits particular property-instances. Medieval debates between realists and nominalists, notably involving Abelard, Scotus and Ockham, anticipate contemporary arguments by D. M. Armstrong and others.
+
+## Causation
+
+Aristotle distinguished four kinds of cause (material, formal, efficient, final). David Hume, in the *Enquiry Concerning Human Understanding* (1748), argued that we observe regular succession but never a necessary connection, prompting regularity and counterfactual analyses; David Lewis's later counterfactual account is influential. Others defend causal powers or dispositions. Kant treated causality as a necessary structure of experience. Islamic thinkers such as al-Ghazali, in the *Incoherence of the Philosophers*, argued that God is the only true cause, a view often compared with occasionalism, while Ibn Rushd defended natural causation.
+
+## Time
+
+Debate about time was sharpened by J. M. E. McTaggart's 1908 argument that time is unreal. The **A-theory** takes the passage of time and a privileged present to be real; the **B-theory** holds that time consists of earlier-than and later-than relations among events, all equally real, which is often called eternalism. **Presentism** claims only the present exists. Physics, especially relativity, is often held to favour the B-theory because it denies absolute simultaneity, though the matter remains disputed.
+
+## Modality and possible worlds
+
+Metaphysicians distinguish what is actual from what is possible or necessary. Saul Kripke's *Naming and Necessity* (1980) revived the idea that some truths, for instance that water is H2O, are necessary though discovered empirically. David Lewis in *On the Plurality of Worlds* (1986) defended modal realism, the view that other possible worlds exist as concretely as ours, which most philosophers find extravagant. Rivals treat worlds as abstract representations, or reject worlds altogether.
+
+## Personal identity and free will
+
+What makes a person at one time the same as a person at another? John Locke proposed psychological continuity grounded in memory, Joseph Butler and Thomas Reid objected to circularity, and Derek Parfit in *Reasons and Persons* (1984) argued that identity is not what matters. Animalists hold that we are organisms. Buddhist thinkers deny a persisting self altogether.
+
+The **free will** debate concerns whether freedom is compatible with determinism. **Compatibilists**, such as Hume and Harry Frankfurt, say yes; **libertarians** say freedom requires indeterminism and agent causation; **hard determinists** deny freedom. Peter van Inwagen's consequence argument and Galen Strawson's basic argument are prominent challenges to freedom.
+
+## Connections and method
+
+Metaphysics supports and is challenged by philosophy of science, which asks which entities our best theories commit us to, a method defended by Quine in "On What There Is" (1948). It connects to philosophy of mind (mental causation, consciousness), logic (modal and temporal logic), philosophy of language (reference, essence), and ethics (agency and responsibility). Logical positivists such as Rudolf Carnap rejected much metaphysics as meaningless; Kant limited it to what experience can support; recent analytic work is more confident, as in naturalised and neo-Aristotelian approaches. Process, Buddhist, Daoist and African traditions offer further alternatives, such as treating events or relations as fundamental.
+
+## Common misunderstandings
+
+Metaphysics does not mean the occult or the supernatural, as bookshops sometimes suggest. It is not necessarily speculation divorced from evidence: many metaphysical views are developed with close attention to physics and logic. And disagreement does not imply that the questions are meaningless; it shows that they are difficult and that theory choice depends on weighing costs and benefits.
+
+## Sources
+
+- Aristotle, *Metaphysics* (4th century BCE)
+- David Hume, *An Enquiry Concerning Human Understanding* (1748)
+- W. V. O. Quine, "On What There Is" (1948)
+- Saul Kripke, *Naming and Necessity* (1980)
+- David Lewis, *On the Plurality of Worlds* (1986)
+- Michael J. Loux, *Metaphysics: A Contemporary Introduction* (first edition 1998)
+=== content/en/fields/fld-philosophy.md
+---
+slug: "fld-philosophy"
+id: "PHL-30001"
+type: "مجال"
+part: philosophy
+level: "متوسط"
+title: "Philosophy"
+en: "Philosophy"
+crumb: "Philosophy ← Fields ← Philosophy"
+edges: []
+related: []
+gaps: []
+---
+# Philosophy
+
+Philosophy is the disciplined, argument-based investigation of the most general questions about knowledge, reality, value, meaning and how we should live. Its name comes from the Greek *philosophia*, "love of wisdom", but there is no single agreed definition of the subject, and the question of what philosophy is belongs to philosophy itself. A workable description is that it examines questions that cannot be settled by observation or calculation alone, such as what makes a belief justified, what it is for something to exist, or what we owe to other people, and that it does so by clarifying concepts, constructing arguments and testing them against objections.
+
+## What philosophy is, and what it is not
+
+Philosophy shares methods with other fields without being reducible to any of them. Like mathematics, it values rigorous argument. Like the sciences, it often responds to empirical findings. Like literature and religion, it addresses meaning and the conduct of life. What distinguishes it is its reflexive, foundational stance: it asks what assumptions lie beneath our practices of reasoning, inquiry, morality and politics, and whether those assumptions can be defended.
+
+Historically, many subjects now independent began inside philosophy. Natural philosophy became physics and chemistry, and psychology, linguistics, economics and political science each separated from it over the past few centuries. This has led some to say that philosophy only asks questions that have not yet found a method. Others reply that the questions that remain, about justification, value and the nature of explanation, are not defects but the permanent core of the discipline.
+
+Philosophy is not the same as a worldview or a collection of opinions. Philosophers are expected to give reasons, to anticipate objections and to say what would count against their view. Nor is it the same as religion, though the two have long interacted, as in medieval philosophical theology and in the Indian and Chinese traditions, where philosophical and religious thought are closely intertwined.
+
+## Main branches
+
+- **Logic** studies correct reasoning, validity and the structure of arguments.
+- **Epistemology** studies knowledge, belief, evidence and justification.
+- **Metaphysics** studies what exists and its most general features: substance, causation, time, possibility, identity, freedom.
+- **Philosophy of mind** studies consciousness, mental states and their relation to the body and brain.
+- **Philosophy of language** studies meaning, reference and communication.
+- **Philosophy of science** studies scientific method, explanation, evidence and the status of scientific theories.
+- **Ethics** studies right and wrong, good and bad, virtue and obligation. It has its own module in the atlas, with an overview entry here.
+- **Political philosophy** studies legitimacy, justice, liberty and the proper organisation of society.
+- **Aesthetics** studies beauty, art, taste and aesthetic experience.
+
+Other areas, such as philosophy of religion, philosophy of law, philosophy of mathematics, philosophy of history and philosophy of technology, grow from the same questions applied to a specific domain. The boundaries between branches are porous: a view about meaning bears on knowledge, and a view about the self bears on ethics.
+
+## Traditions covered
+
+Philosophy is not the property of one civilisation. The atlas aims to represent several long-running traditions, each with its own texts, schools and internal debates.
+
+- **Ancient Greek and Hellenistic philosophy**: the Presocratics, Socrates, Plato (c. 428-348 BCE), Aristotle (384-322 BCE), and later Stoic, Epicurean and Skeptical schools.
+- **Medieval Latin philosophy**: thinkers such as Augustine, Anselm, Thomas Aquinas, Duns Scotus and William of Ockham, working within Christian intellectual life and drawing on Aristotle and Neoplatonism.
+- **Islamic philosophy and kalam**: figures such as al-Kindi, al-Farabi, Ibn Sina (Avicenna), al-Ghazali, Ibn Rushd (Averroes) and later Illuminationist and Transcendent traditions. This work preserved and transformed Greek thought and also reached the Latin West.
+- **Indian philosophy**: the Nyaya, Vaisheshika, Samkhya, Yoga, Mimamsa and Vedanta schools, together with Buddhist and Jain philosophy, which developed sophisticated theories of knowledge, logic, self and liberation.
+- **Chinese philosophy**: Confucianism, Daoism, Mohism and Legalism in the classical period, later Neo-Confucianism and the encounter with Buddhism.
+- **Modern European philosophy**: from Descartes and Bacon through Spinoza, Leibniz, Locke, Berkeley, Hume, Kant and German Idealism, to the nineteenth-century reactions of Kierkegaard, Marx and Nietzsche.
+- **Analytic and continental philosophy**: two broad twentieth-century currents. The analytic tradition, shaped by Frege, Russell, Moore, Wittgenstein and the logical empiricists, emphasises clarity and argument. The continental tradition, including phenomenology, existentialism, hermeneutics, critical theory and structuralism and its successors, emphasises experience, history and interpretation. The distinction is real but rough, and many thinkers cross it.
+- **African and other traditions**: ancient Egyptian and Ethiopian texts, Akan and Yoruba philosophical thought, ubuntu-centred ethics, modern African philosophy, Latin American, Indigenous and Japanese philosophy, and feminist and decolonial approaches that question the canon itself.
+
+## How the atlas is organised
+
+The Philosophy module is built from entries of several types. Field entries, like this one, introduce a branch of the subject. School and movement entries describe broad currents, thinker entries give short portraits, and concept entries explain individual ideas and arguments. Each entry carries a link list so readers can move sideways from one idea to related ones, for example from a thinker to the debates he or she shaped. Entries try to state positions as their defenders would recognise them, and to present objections alongside them.
+
+## A suggested reading path
+
+A newcomer might begin with Logic, to see how arguments are assessed, and then Epistemology and Metaphysics, which frame most later questions. Philosophy of Mind and Philosophy of Language follow naturally, with Philosophy of Science connecting them to empirical inquiry. Ethics, Political Philosophy and Aesthetics then address value. Readers interested in a particular tradition can instead follow its thinkers and schools chronologically.
+
+## Limits of this version
+
+This is a first version, and its coverage is uneven. Ancient, medieval and modern European philosophy are better represented than some of the other traditions, which reflects the sources used and not a ranking of importance. Entries are introductions, not substitutes for reading primary texts or specialist surveys. Where scholars disagree about interpretation or dating, entries should say so, and readers should treat any single summary of a major thinker as simplified.
+
+## Common misunderstandings
+
+Philosophy is often thought to consist only of unanswerable questions. In fact, philosophers have made progress in clarifying distinctions, exposing fallacies, formalising logic and refining positions, even where consensus is absent. It is also a mistake to equate it with a single school, or with Western philosophy alone. Finally, disagreement among philosophers does not show that all views are equally good: arguments can be stronger or weaker, and much philosophical work consists of showing exactly where an argument fails.
+
+## Sources
+
+- Bertrand Russell, *The Problems of Philosophy* (1912)
+- Bertrand Russell, *A History of Western Philosophy* (1945)
+- Thomas Nagel, *What Does It All Mean?* (1987)
+- Stanford Encyclopedia of Philosophy (ongoing, 1995-)
+- Jonardon Ganeri, *Philosophy in Classical India* (2001)
+- Bryan W. Van Norden, *Introduction to Classical Chinese Philosophy* (2011)
+=== content/en/fields/fld-philosophy-of-language.md
+---
+slug: "fld-philosophy-of-language"
+id: "PHL-30006"
+type: "مجال"
+part: philosophy
+level: "متوسط"
+title: "Philosophy of Language"
+en: "Philosophy of Language"
+crumb: "Philosophy ← Fields ← Philosophy of Language"
+edges: []
+related: []
+gaps: []
+---
+# Philosophy of Language
+
+Philosophy of language studies the nature of linguistic meaning, how words and sentences relate to the world and to thought, and how people use language to communicate and to act. It is distinct from linguistics, which describes the structure and variation of actual languages, though the two overlap substantially, especially in semantics and pragmatics.
+
+## What the branch asks
+
+Central questions include: What is meaning? How do names and descriptions refer to things? What makes a sentence true? How does the meaning of a whole sentence depend on its parts? What do speakers do when they speak, beyond describing? How do context and speaker intention shape what is communicated? What is the relation between language and thought, and between language and reality?
+
+## Meaning and reference
+
+A natural idea is that a word's meaning is the object it stands for. Gottlob Frege, in "On Sense and Reference" (1892), showed the problem with this view: "the morning star" and "the evening star" refer to the same planet, yet the identity statement "the morning star is the evening star" is informative. Frege distinguished **sense** (a mode of presentation) from **reference** (the object). Bertrand Russell's "On Denoting" (1905) analysed definite descriptions such as "the present King of France" as quantificational phrases, dissolving puzzles about empty names. P. F. Strawson's "On Referring" (1950) criticised this by emphasising that reference is something speakers do.
+
+In the 1970s, Saul Kripke's *Naming and Necessity* (1980, from lectures in 1970) attacked descriptivist theories of names, arguing that names are **rigid designators** that pick out the same object in all possible worlds, and proposing a **causal-historical** picture of reference in which a name's use is linked to its bearer through a chain of communication. Hilary Putnam's "The Meaning of 'Meaning'" (1975) argued that meanings are not "in the head", using the Twin Earth thought experiment. Direct reference theorists such as David Kaplan, with his work on indexicals and demonstratives ("I", "here", "now"), further developed these ideas.
+
+## Truth and compositional semantics
+
+Alfred Tarski's 1930s work on truth in formal languages inspired **truth-conditional semantics**: to know the meaning of a sentence is to know the conditions under which it is true. Donald Davidson proposed that a theory of truth for a language can serve as a theory of meaning, and he insisted on **compositionality**: the meaning of a sentence is determined by the meanings of its parts and how they are combined. Richard Montague applied formal tools from logic to natural language in the late 1960s and early 1970s, laying foundations for formal semantics. Rival views include **inferentialism**, held by Robert Brandom, on which meaning is constituted by roles in inference, and **use theories** inspired by Wittgenstein.
+
+## Wittgenstein
+
+Ludwig Wittgenstein worked in two main phases. In the *Tractatus Logico-Philosophicus* (1921), he proposed that sentences are pictures of possible facts, so that meaningful language mirrors the logical structure of the world. In the posthumous *Philosophical Investigations* (1953), he rejected this, arguing that "meaning is use", that language consists of varied "language-games" embedded in forms of life, and that there is no single essence of language. His remarks on rule-following, interpreted influentially by Kripke in *Wittgenstein on Rules and Private Language* (1982), raise the problem of what makes it the case that a speaker means one thing rather than another. His private language argument questions whether sensation words could get meaning purely from private inner reference.
+
+## Speech acts and pragmatics
+
+J. L. Austin's *How to Do Things with Words* (1962) argued that many utterances, such as promising, naming, or warning, do not merely describe but perform actions. He distinguished **locutionary**, **illocutionary** and **perlocutionary** acts. John Searle systematised the theory in *Speech Acts* (1969). H. P. Grice's work on **conversational implicature** (lectures from 1967) explained how speakers communicate more than they literally say, by relying on cooperative maxims such as being informative and relevant. Relevance theory (Dan Sperber and Deirdre Wilson, 1986) and later work on presupposition, context-sensitivity and metaphor extend this. Current debates concern how much of meaning is determined by semantics versus pragmatics, with positions including contextualism, minimalism and relativism.
+
+## Language and thought
+
+Does language shape thought? The **Sapir-Whorf hypothesis**, named for Edward Sapir and Benjamin Lee Whorf, holds in a strong form that language determines thought; strong versions are widely rejected, but weaker influences on attention and categorisation have empirical support. Noam Chomsky's generative linguistics argues for an innate language faculty, a claim contested by usage-based approaches. Jerry Fodor's language of thought hypothesis holds that thought has its own symbolic structure. W. V. O. Quine's *Word and Object* (1960) argued for the **indeterminacy of translation**: that evidence of behaviour leaves multiple incompatible translation manuals equally good.
+
+## Other topics
+
+Vagueness and the sorites paradox, metaphor, fiction and empty names, slurs and hate speech, testimony, and the philosophy of linguistics all fall under this heading. Early Indian grammarians and philosophers, including Panini, Bhartrhari and the Nyaya and Mimamsa schools, developed sophisticated theories of word, sentence meaning and linguistic authority, and Arabic grammarians and philosophers such as al-Farabi and Abd al-Qahir al-Jurjani discussed meaning and composition. Classical Chinese thinkers, including the Mohists and Gongsun Long, debated names and reality.
+
+## Connections
+
+The field overlaps with logic (formal semantics), epistemology (testimony, a priori knowledge), metaphysics (modality, essence), philosophy of mind (intentionality, thought), and ethics (the meaning of moral terms, the subject of metaethics). It also informs linguistics, cognitive science, law and computational language processing.
+
+## Common misunderstandings
+
+Philosophy of language is not a branch of grammar teaching or a guide to etymology. "Semantics" in philosophy is not the everyday sense of "mere wording": it concerns meaning itself. Wittgenstein's "meaning is use" does not mean that anything goes. And the claim that names are rigid designators does not concern spelling but modal behaviour.
+
+## Sources
+
+- Gottlob Frege, "Uber Sinn und Bedeutung" (1892)
+- Ludwig Wittgenstein, *Philosophical Investigations* (1953)
+- J. L. Austin, *How to Do Things with Words* (1962)
+- Saul Kripke, *Naming and Necessity* (1980)
+- Paul Grice, *Studies in the Way of Words* (1989)
+- Willard Van Orman Quine, *Word and Object* (1960)
+=== content/en/fields/fld-philosophy-of-mind.md
+---
+slug: "fld-philosophy-of-mind"
+id: "PHL-30005"
+type: "مجال"
+part: philosophy
+level: "متوسط"
+title: "Philosophy of Mind"
+en: "Philosophy of Mind"
+crumb: "Philosophy ← Fields ← Philosophy of Mind"
+edges: []
+related: []
+gaps: []
+---
+# Philosophy of Mind
+
+Philosophy of mind investigates the nature of mental states and processes, such as thoughts, sensations, emotions and intentions, and their relation to the body, the brain and the physical world. It asks what the mind is, how it differs from matter if it does, why there is experience at all, and how minds can be about things.
+
+## What the branch asks
+
+The central issue is the **mind-body problem**: how can conscious, meaningful mental life belong to a physical world? Allied questions include: What is consciousness? How can mental states represent or be "about" things? Can mental states cause behaviour? How do we know other minds? What is the self? Could a machine think or be conscious?
+
+## Dualism
+
+**Substance dualism** holds that mind and body are distinct kinds of thing. Its classic statement is by Rene Descartes in the *Meditations* (1641), who argued that the mind is a thinking, non-extended substance. The main objection, pressed by Princess Elisabeth of Bohemia in her correspondence with Descartes (1643), is the **interaction problem**: how can a non-physical thing causally affect a physical one? Descartes's own answers are generally considered unsatisfying. **Property dualism** holds that there is only one kind of substance but that it has both physical and irreducibly mental properties. David Chalmers, in *The Conscious Mind* (1996), defends a form of property dualism, arguing that the existence of experience is not logically entailed by physical facts. Dualist-leaning ideas appear also in Indian Samkhya, which distinguishes consciousness (*purusha*) from matter (*prakriti*), while Buddhist schools reject an enduring conscious self.
+
+## Physicalism
+
+**Physicalism** or materialism holds that everything, including the mind, is physical. **Behaviourism**, in the work of Gilbert Ryle's *The Concept of Mind* (1949), analysed mental talk as talk of dispositions to behave and criticised the "ghost in the machine". **Identity theory**, associated with U. T. Place and J. J. C. Smart in the 1950s, identifies mental states with brain states. Objections include **multiple realisability**, the thought that the same mental state could be realised in different physical systems, as argued by Hilary Putnam in the 1960s. **Eliminative materialism**, defended by Paul and Patricia Churchland, predicts that folk psychology concepts such as belief may be replaced by neuroscience.
+
+## Functionalism
+
+**Functionalism** defines mental states by their causal roles: what causes them, and what they cause in turn, in relation to other states. It allows multiple realisation and underlies much cognitive science, which models the mind as information processing. Objections include John Searle's **Chinese Room** argument (1980), which claims that running a program cannot suffice for understanding; Ned Block's China brain and absent-qualia cases; and worries that functionalism leaves out the subjective character of experience.
+
+## Consciousness
+
+Thomas Nagel's essay "What Is It Like to Be a Bat?" (1974) argued that subjective experience resists objective, third-person description. Frank Jackson's knowledge argument (1982), with the story of Mary who knows all the physical facts about colour but has never seen it, and Chalmers's **hard problem** of consciousness (1995) contrast easy problems about function with the problem of why there is experience. Physicalist responses include higher-order theories (David Rosenthal), representationalism (Michael Tye, Fred Dretske), global workspace theories (Bernard Baars and Stanislas Dehaene), and illusionism (Keith Frankish, drawing on Daniel Dennett's *Consciousness Explained*, 1991). Integrated information theory (Giulio Tononi) and panpsychism, defended in recent work by Philip Goff and Galen Strawson, are alternative or controversial views. There is no consensus.
+
+## Intentionality
+
+Franz Brentano revived the medieval idea that mental states are "directed at" objects as a mark of the mental. Theories of **mental content** try to naturalise this: causal-informational accounts (Dretske, Jerry Fodor), teleosemantic accounts (Ruth Millikan), and interpretationist accounts (Dennett, Donald Davidson). Fodor's *language of thought* hypothesis holds that thinking involves a symbolic medium. Connectionism offers a rival picture based on neural-network models. The **extended mind** thesis of Andy Clark and David Chalmers (1998) proposes that cognitive processes can extend into tools and environment. Embodied and enactive approaches likewise emphasise the role of the body.
+
+## Mental causation, other minds and the self
+
+If the physical world is causally closed, how do mental states do any causing? Donald Davidson's anomalous monism and Jaegwon Kim's exclusion argument frame this problem. The **problem of other minds** asks how we justify attributing minds to others, with answers from analogy, inference to the best explanation, and direct perception. Personal identity and the nature of the self are treated in the metaphysics entry; Hume's bundle view, Parfit's reductionism, and Buddhist no-self teachings are central comparisons.
+
+## Artificial intelligence
+
+Alan Turing's 1950 paper "Computing Machinery and Intelligence" proposed an imitation game as a test of machine intelligence. Whether current or future AI systems could understand, think or be conscious is debated: functionalists see no principled barrier to machine minds, while Searle and others argue that syntax is insufficient for semantics. Large language models have renewed interest, but the question of what evidence would settle machine consciousness is unresolved.
+
+## Connections
+
+The field draws on neuroscience, psychology, linguistics and computer science, and informs metaphysics (causation, identity), epistemology (perception, self-knowledge), philosophy of language (meaning), ethics (moral status, animal and machine minds) and philosophy of science (explanation of mental phenomena).
+
+## Common misunderstandings
+
+Dualism is not simply religious belief, and physicalism does not mean consciousness is not real, since most physicalists accept that experiences exist. The Turing test is not a definition of mind. Brain scans correlating activity with experience do not by themselves solve the mind-body problem. Finally, "consciousness" covers several things, such as wakefulness, self-awareness and phenomenal experience, which should be distinguished.
+
+## Sources
+
+- Rene Descartes, *Meditations on First Philosophy* (1641)
+- Gilbert Ryle, *The Concept of Mind* (1949)
+- Thomas Nagel, "What Is It Like to Be a Bat?", *The Philosophical Review* (1974)
+- John Searle, "Minds, Brains, and Programs", *Behavioral and Brain Sciences* (1980)
+- David Chalmers, *The Conscious Mind* (1996)
+- Jaegwon Kim, *Philosophy of Mind* (first edition 1996)
+=== content/en/fields/fld-philosophy-of-science.md
+---
+slug: "fld-philosophy-of-science"
+id: "PHL-30007"
+type: "مجال"
+part: philosophy
+level: "متوسط"
+title: "Philosophy of Science"
+en: "Philosophy of Science"
+crumb: "Philosophy ← Fields ← Philosophy of Science"
+edges: []
+related: []
+gaps: []
+---
+# Philosophy of Science
+
+Philosophy of science examines the aims, methods and foundations of scientific inquiry. It asks what distinguishes science from other kinds of belief, how evidence supports theories, what scientific explanations are, whether successful theories describe reality, and how science changes over time. It also contains specialised areas, such as philosophy of physics, biology and the social sciences.
+
+## What the branch asks
+
+Core questions are: What is science, and how is it demarcated from non-science? How can finite observations justify general laws? When is a theory confirmed or refuted? What does it mean to explain something? Do the unobservable entities posited by theories, such as electrons, really exist? Is scientific change rational and cumulative? What roles do values, society and models play?
+
+## Induction and confirmation
+
+David Hume's problem of induction, in the *Treatise* (1739-1740) and *Enquiry* (1748), asks how we can justify inferring the future from the past without circularity. The question remains a standing challenge, with responses from probabilistic, pragmatic and reliabilist perspectives. **Hypothetico-deductivism** says a theory is confirmed when its predictions come true. Carl Hempel's work in the 1940s on the **raven paradox** showed that naive confirmation theories yield odd results, and Nelson Goodman's "new riddle of induction" (1955), with the predicate "grue", showed that which generalisations are projectible needs explaining. **Bayesianism**, drawing on Thomas Bayes's theorem, treats confirmation as updating degrees of belief, and has become influential, though its use of prior probabilities is debated.
+
+## Logical positivism and falsification
+
+The **logical positivists** of the Vienna Circle, including Moritz Schlick, Rudolf Carnap and Otto Neurath, held that meaningful statements are either analytic or empirically verifiable, and treated metaphysics as meaningless. Verificationism faced serious difficulties, including that the principle itself seems unverifiable. Karl Popper, in *The Logic of Scientific Discovery* (German 1934, English 1959), proposed **falsifiability** as the criterion of science: genuine theories forbid some observable outcomes and can be refuted. He cited Einstein's relativity as a risky theory, and criticised certain applications of Freudian and Marxist theories as unfalsifiable. Critics note that theories are rarely tested in isolation, since predictions depend on auxiliary assumptions, a point developed in the **Duhem-Quine thesis**. Imre Lakatos proposed assessing progressive versus degenerating research programmes.
+
+## Paradigms and scientific change
+
+Thomas Kuhn's *The Structure of Scientific Revolutions* (1962) argued that science alternates between periods of "normal science" governed by a shared **paradigm** and revolutionary shifts when anomalies accumulate. He suggested that rival paradigms may be **incommensurable**, raising worries about relativism, which Kuhn himself resisted. Paul Feyerabend's *Against Method* (1975) argued that no single methodology fits all scientific progress, summed up in his slogan "anything goes", which was meant partly as a provocation. Larry Laudan and others have debated how to model rational progress. The sociology of scientific knowledge and later science and technology studies emphasise social factors in how knowledge is produced.
+
+## Realism and anti-realism
+
+**Scientific realists** hold that mature successful theories are approximately true and that their unobservable entities exist. The main argument is Putnam's "no miracles" argument: the empirical success of science would be miraculous if its theories were wholly false. **Anti-realists** respond with the **pessimistic meta-induction** (Laudan, 1981): many past successful theories, such as the caloric theory of heat, were later discarded. Bas van Fraassen's **constructive empiricism** in *The Scientific Image* (1980) holds that science aims only at empirical adequacy, and that belief should be limited to observable claims. **Structural realism**, proposed in John Worrall's 1989 paper, holds that what survives theory change is mathematical structure. Instrumentalism treats theories as tools for prediction, and entity realism, associated with Ian Hacking, grounds belief in the ability to manipulate entities experimentally.
+
+## Explanation
+
+Hempel and Paul Oppenheim's **deductive-nomological model** (1948) held that to explain an event is to derive it from laws and conditions. Counterexamples, such as the flagpole and its shadow, and the problem of explaining statistical events, led to causal accounts (Wesley Salmon), unificationist accounts (Philip Kitcher, Michael Friedman), mechanistic accounts (especially in biology and neuroscience) and interventionist accounts (James Woodward). Whether explanation requires causation, and whether there are non-causal explanations in mathematics and physics, remain active debates.
+
+## Special sciences, models and values
+
+Philosophy of physics examines the interpretation of quantum mechanics, spacetime in relativity, and statistical mechanics. Philosophy of biology treats natural selection, function, species and reductionism. Philosophy of the social sciences debates methodological individualism, interpretation versus causal explanation, and the status of economics. A growing literature examines **models** and idealisation, scientific **representation**, the role of simulation, and **values in science**, for example how social values may legitimately influence risk assessment. Feminist philosophy of science, notably the work of Helen Longino and Sandra Harding, analyses the role of social position and community norms in objectivity.
+
+## Connections
+
+The field draws on and informs epistemology (evidence, justification), logic and probability theory, metaphysics (laws of nature, causation, natural kinds), philosophy of mind (cognitive science) and ethics (research ethics, science policy). It also relates to the history and sociology of science. Non-Western traditions of natural inquiry, including Islamic optics and astronomy, Indian logic and medicine, and Chinese technical and cosmological thought, are part of the wider historical background.
+
+## Common misunderstandings
+
+Falsificationism is not a complete account of how science works, even for Popper's critics who value it. Kuhn did not say science is irrational. Calling something "just a theory" misunderstands the term, since scientific theories are well-supported frameworks. Finally, the fact that science is fallible and revisable does not mean that all claims are equally uncertain.
+
+## Sources
+
+- Karl Popper, *The Logic of Scientific Discovery* (1959 English edition)
+- Thomas S. Kuhn, *The Structure of Scientific Revolutions* (1962)
+- Bas C. van Fraassen, *The Scientific Image* (1980)
+- Carl G. Hempel, *Aspects of Scientific Explanation* (1965)
+- Imre Lakatos, "Falsification and the Methodology of Scientific Research Programmes" (1970)
+- James Ladyman, *Understanding Philosophy of Science* (2002)
+=== content/en/fields/fld-political-philosophy.md
+---
+slug: "fld-political-philosophy"
+id: "PHL-30008"
+type: "مجال"
+part: philosophy
+level: "متوسط"
+title: "Political Philosophy"
+en: "Political Philosophy"
+crumb: "Philosophy ← Fields ← Political Philosophy"
+edges: []
+related: []
+gaps: []
+---
+# Political Philosophy
+
+Political philosophy is the normative and conceptual study of the state, government, law, power and the organisation of social life. It asks what justifies political authority, what a just society looks like, how liberty and equality should be balanced, and what citizens and states owe to one another. It differs from political science, which describes and explains political behaviour and institutions, though the two inform each other.
+
+## What the branch asks
+
+The main questions are: Why should anyone obey the state, if at all? What makes a government legitimate? What is justice, and how should benefits and burdens be distributed? What is freedom, and when may it be limited? What rights do individuals have? What is the proper role of the community, markets, religion and culture? What do we owe to foreigners and future generations?
+
+## Ancient and medieval foundations
+
+Plato's *Republic* (c. 375 BCE) argued that a just city is ruled by philosophers and that justice in the city mirrors justice in the soul; he was sceptical of democracy. Aristotle's *Politics* classified constitutions, held that humans are by nature political animals, and favoured a mixed constitution that includes a large middle class. Roman thinkers, especially Cicero, developed natural law. Augustine's *City of God* contrasted earthly and heavenly communities, and Thomas Aquinas integrated Aristotle with Christian natural law, arguing that unjust laws lack binding force. In the Islamic world, al-Farabi's *The Virtuous City* adapted Platonic ideas, Ibn Khaldun's *Muqaddimah* (1377) analysed the rise and decline of states through group solidarity (*asabiyya*), and Ibn Rushd commented on the *Republic*. In India, the *Arthashastra*, attributed to Kautilya, treats statecraft, while Ashoka's edicts express Buddhist-inspired ideals of governance. In China, Confucius and Mencius stressed virtuous rule and the people's welfare, Mozi urged impartial concern, Xunzi emphasised ritual and education, and the Legalist Han Feizi advocated strong law and administration.
+
+## Social contract and modern liberalism
+
+Modern political thought often justifies authority by hypothetical consent. Thomas Hobbes's *Leviathan* (1651) argued that without a sovereign, life in the state of nature would be "nasty, brutish and short", so rational individuals would authorise an absolute ruler. John Locke's *Second Treatise of Government* (1689) held that people have natural rights to life, liberty and property, and that government is limited by trust and may be resisted if it violates them. Jean-Jacques Rousseau's *The Social Contract* (1762) located sovereignty in the "general will" of the people. David Hume criticised the contract as historical fiction and stressed utility and convention. Immanuel Kant grounded the state in the requirement of external freedom under law. John Stuart Mill's *On Liberty* (1859) defended the **harm principle**, that power may be used against a person's will only to prevent harm to others. Mary Wollstonecraft, in *A Vindication of the Rights of Woman* (1792), extended liberal arguments to women.
+
+## Conservative, socialist and other critiques
+
+Edmund Burke's *Reflections on the Revolution in France* (1790) defended tradition and gradual reform. G. W. F. Hegel located freedom in the ethical institutions of family, civil society and state. Karl Marx and Friedrich Engels, in the *Communist Manifesto* (1848) and Marx's *Capital* (1867), analysed capitalism as exploitative and argued for a classless society. Anarchists such as Pierre-Joseph Proudhon and Peter Kropotkin rejected the state altogether. Later critical theory, from the Frankfurt School, and Antonio Gramsci's analysis of cultural hegemony, examined ideology and domination. Hannah Arendt's *The Origins of Totalitarianism* (1951) and *The Human Condition* (1958) analysed political action and its destruction.
+
+## Contemporary debates
+
+John Rawls's *A Theory of Justice* (1971) proposed that principles of justice are those that rational people would choose behind a **veil of ignorance**, yielding equal basic liberties and an arrangement of inequalities that benefits the least advantaged (the difference principle). Robert Nozick's *Anarchy, State, and Utopia* (1974) replied with a libertarian entitlement theory defending a minimal state. Communitarians, including Michael Sandel, Alasdair MacIntyre and Charles Taylor, criticised the liberal conception of the unencumbered self. Amartya Sen's capability approach, developed with Martha Nussbaum, judges justice by what people are able to do and be. Republican theorists such as Philip Pettit define freedom as non-domination. Feminist political philosophy, as in Susan Moller Okin's *Justice, Gender, and the Family* (1989), challenges the public-private divide. Multiculturalism (Will Kymlicka), global justice (Thomas Pogge, Peter Singer), democratic theory (Jurgen Habermas's deliberative democracy), and postcolonial critiques (Frantz Fanon, Edward Said) extend the field, as do debates over race, migration, nationalism and the ethics of climate policy.
+
+## Central concepts and objections
+
+Standard disputes include **negative versus positive liberty**, a distinction made famous by Isaiah Berlin in 1958; equality of what (welfare, resources, capabilities, opportunity); whether legitimacy requires actual consent (a problem for contract theory, since few have actually consented); and whether there is a general obligation to obey the law, which philosophical anarchists such as A. John Simmons deny. Theories face objections from realism, which holds that politics is about power, with roots in Thucydides and Machiavelli's *The Prince* (1532). Rawls is challenged on whether his principles depend on a specifically Western liberal outlook, and his later *Political Liberalism* (1993) responded with the idea of an overlapping consensus.
+
+## Connections
+
+Political philosophy is closely tied to ethics (justice, rights, duty), philosophy of law, economics, history, sociology and theology. It uses metaphysics (personhood, collective agency), epistemology (public reason, expertise) and the philosophy of social science.
+
+## Common misunderstandings
+
+It is not the same as partisan politics: it asks about principles and justification, not which party to support. A social contract is usually a thought experiment, not a claimed historical event. "Liberalism" in philosophy covers a broad family of views that is not identical to the label in everyday party politics. Finally, the major traditions are not exclusively Western: Confucian, Islamic and Indian thought have rich and distinct political theories.
+
+## Sources
+
+- Plato, *Republic* (c. 375 BCE)
+- Aristotle, *Politics* (4th century BCE)
+- Thomas Hobbes, *Leviathan* (1651)
+- John Locke, *Two Treatises of Government* (1689)
+- John Rawls, *A Theory of Justice* (1971)
+- Will Kymlicka, *Contemporary Political Philosophy: An Introduction* (first edition 1990)
+=== content/en/metaphors/met-sisyphus-camus.md
+---
+slug: "met-sisyphus-camus"
+id: "MET-0001"
+type: "استعارة/مجاز مؤسِّس"
+part: philosophy
+level: "مبتدئ"
+title: "Sisyphus: The Metaphor of the Absurd and Persistent Revolt"
+en: "Sisyphus: The Metaphor of the Absurd and Persistent Revolt"
+crumb: "Existential Philosophy ← Metaphors ← Sisyphus: The Metaphor of the Absurd and Persistent Revolt"
+edges:
+  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+related:
+  - id: "con-absurd", title: "The Absurd: Collision Without Resolution", type: "مفهوم"
+  - id: "thk-camus", title: "Albert Camus: The Absurd and Revolt", type: "مفكر"
+gaps:
+  - "لم يُراجع بعد النص الأصلي الكامل لمقالة كامو 'أسطورة سيزيف' من مصدر محقق مباشر"
+---
+
+# Sisyphus: The Metaphor of the Absurd and Persistent Revolt
+
+Sisyphus is the central image of Albert Camus's essay *The Myth of Sisyphus* (*Le Mythe de Sisyphe*), published in French by Gallimard in 1942. In the essay, Camus sets out his philosophy of the absurd — and he does it not through a definition, but through a picture: a man condemned to roll a rock up a mountain for eternity, watching it roll back down every time, and walking back down to begin again. The image carries the philosophy. Without it, the argument would be thinner; with it, the argument can be felt.
+
+## The Myth
+
+In Greek myth, Sisyphus was a king of Corinth who twice cheated death — once by chaining Death himself, once by tricking his way back from the underworld. The gods punished him with a task designed to be both endless and pointless: push a huge boulder to the top of a mountain, only for it to roll back down to the foot each time he reaches the summit. Homer gives the scene briefly in Book 11 of the *Odyssey*, where Odysseus sees Sisyphus in the underworld, straining at his rock. Camus took this ancient figure and made him the emblem of the modern human condition.
+
+## Why a Metaphor, Not an Abstract Concept
+
+Camus's thesis can be stated abstractly in a single sentence: human beings long for meaning and unity, the world offers only silence, and the honest response is neither suicide nor false hope but conscious revolt. That sentence is accurate, and it is also inert. It describes a position; it does not put the reader inside it.
+
+The image of Sisyphus does what the sentence cannot. It shows a man who knows exactly what will happen — the rock will fall — and who does the work anyway, with his eyes open. The decisive moment, for Camus, is not the climb but the descent: Sisyphus walks back down the mountain towards his rock, fully aware of the futility, and in that lucid walk he is free. "The struggle itself towards the heights is enough to fill a man's heart," Camus writes. And he closes the essay with the sentence that has become its signature: "One must imagine Sisyphus happy" (*Il faut imaginer Sisyphe heureux*).
+
+That closing line carries philosophical weight that no abstract formulation holds with the same force, because it asks the reader to imagine a happiness that comes from the act itself rather than from its outcome. The metaphor keeps the thought alive in a way a definition cannot: it must be pictured, and in picturing it, the reader performs the very revolt Camus describes.
+
+## Revolt Without Escape
+
+For Camus, Sisyphus matters because he refuses every exit. He does not kill himself to end the absurdity, and he does not invent a consoling story that pretends the rock will stay at the top one day. He stays with the contradiction — the human appetite for meaning against the world's silence — and lives inside it. This is what Camus means by revolt: not a revolution that will change the world, but a daily, conscious refusal to lie about it.
+
+Camus returned to the theme in *The Rebel* (1951), where revolt becomes a shared, ethical stance rather than a solitary one. But the Sisyphus essay remains the purest statement: one man, one rock, one mountain, and a freedom that consists entirely in how he meets them.
+
+## Therapeutic Use: Re-framing Repetitive Tasks
+
+The metaphor has found a second life in therapeutic work, where it is used as a re-framing tool for people facing tasks that repeat without a final resolution: living with a chronic illness, caring for a dependent relative over many years, or doing routine work whose results are never permanent. The point of the re-frame is not to pretend the task has a hidden purpose. It is the opposite: to acknowledge openly that the task will repeat, that no final victory is coming, and to ask what stance the person can take towards it anyway — what dignity, care, or attention the doing itself can hold.
+
+Used well, the metaphor helps a person stop waiting for the rock to stay at the top and start inhabiting the walk back down. It separates the value of the effort from the permanence of its result, which is often the only honest move available when the result cannot be made permanent.
+
+## The Caution: Not a Pep Talk
+
+The metaphor must not be used as a glib pep talk. Telling someone in the middle of exhaustion, grief, or burnout to "think of yourself as Sisyphus" — without a therapeutic context, without skill, and without attention to what the person is actually carrying — is a misuse of the image. Camus's Sisyphus is not cheerful about his fate; his happiness, if it exists, is hard-won, lucid, and inseparable from his full awareness of the futility. A slogan that skips the awareness and keeps only the smile betrays the philosophy it claims to invoke.
+
+There is a further caution. Sisyphus is alone on his mountain, but most repetitive, apparently meaningless tasks in real life are social and structural: care work, underpaid labour, illness shaped by poverty or poor services. The image can tempt a therapist — or a client — into framing as a private attitude problem what is partly a problem of circumstances that need changing. The metaphor is a tool for the inner stance; it is not a substitute for changing the conditions when the conditions can be changed.
+
+## Sources
+
+- Camus, A. (1942). *Le Mythe de Sisyphe*. Éditions Gallimard.
+- Camus, A. (1955). *The Myth of Sisyphus and Other Essays* (trans. Justin O'Brien). Vintage Books.
+- Camus, A. (1951). *L'Homme révolté*. Gallimard. English edition: Camus, A. (1956). *The Rebel* (trans. Anthony Bower). Vintage Books.
+- Homer. *Odyssey*, Book 11 (c. 8th century BCE).
+- Aronson, R. (2004). *Camus and Sartre: The Story of a Friendship and the Quarrel That Ended It*. University of Chicago Press.
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

@@ -1,0 +1,12 @@
+sch-critical-psychology|content/ar/schools/sch-critical-psychology.md|content/en/schools/sch-critical-psychology.md
+sch-mbct|content/ar/schools/sch-mbct.md|content/en/schools/sch-mbct.md
+thk-lacan|content/ar/thinkers/thk-lacan.md|content/en/thinkers/thk-lacan.md
+thk-ellis|content/ar/thinkers/thk-ellis.md|content/en/thinkers/thk-ellis.md
+thk-jkabat-zinn|content/ar/thinkers/thk-jkabat-zinn.md|content/en/thinkers/thk-jkabat-zinn.md
+con-transference|content/ar/concepts/con-transference.md|content/en/concepts/con-transference.md
+con-self-efficacy|content/ar/concepts/con-self-efficacy.md|content/en/concepts/con-self-efficacy.md
+con-somatic-memory|content/ar/concepts/con-somatic-memory.md|content/en/concepts/con-somatic-memory.md
+stu-seligman-maier-learned-helplessness|content/ar/studies/stu-seligman-maier-learned-helplessness.md|content/en/studies/stu-seligman-maier-learned-helplessness.md
+ins-bdi-ii|content/ar/instruments/ins-bdi-ii.md|content/en/instruments/ins-bdi-ii.md
+dis-bipolar-i|content/ar/disorders/dis-bipolar-i.md|content/en/disorders/dis-bipolar-i.md
+wrk-flow-csikszentmihalyi|content/ar/works/wrk-flow-csikszentmihalyi.md|content/en/works/wrk-flow-csikszentmihalyi.md

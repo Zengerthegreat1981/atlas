@@ -1,0 +1,12 @@
+sch-humanistic|content/ar/schools/sch-humanistic.md|content/en/schools/sch-humanistic.md
+br-jungian|content/ar/branches/br-jungian.md|content/en/branches/br-jungian.md
+sch-polyvagal-informed-therapy|content/ar/schools/sch-polyvagal-informed-therapy.md|content/en/schools/sch-polyvagal-informed-therapy.md
+thk-jwatson|content/ar/thinkers/thk-jwatson.md|content/en/thinkers/thk-jwatson.md
+thk-gardner|content/ar/thinkers/thk-gardner.md|content/en/thinkers/thk-gardner.md
+thk-gendlin|content/ar/thinkers/thk-gendlin.md|content/en/thinkers/thk-gendlin.md
+con-working-memory-sentence-parsing|content/ar/concepts/con-working-memory-sentence-parsing.md|content/en/concepts/con-working-memory-sentence-parsing.md
+con-differentiation-self|content/ar/concepts/con-differentiation-self.md|content/en/concepts/con-differentiation-self.md
+stu-festinger-cognitive-dissonance|content/ar/studies/stu-festinger-cognitive-dissonance.md|content/en/studies/stu-festinger-cognitive-dissonance.md
+stu-werner-kauai-resilience|content/ar/studies/stu-werner-kauai-resilience.md|content/en/studies/stu-werner-kauai-resilience.md
+ins-scid-5|content/ar/instruments/ins-scid-5.md|content/en/instruments/ins-scid-5.md
+dis-acute-stress-disorder|content/ar/disorders/dis-acute-stress-disorder.md|content/en/disorders/dis-acute-stress-disorder.md

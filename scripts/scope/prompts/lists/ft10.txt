@@ -1,0 +1,17 @@
+sch-thomism|content/ar/schools/sch-thomism.md|content/en/schools/sch-thomism.md
+sch-hegelianism|content/ar/schools/sch-hegelianism.md|content/en/schools/sch-hegelianism.md
+sch-analytic-metaphysics|content/ar/schools/sch-analytic-metaphysics.md|content/en/schools/sch-analytic-metaphysics.md
+sch-transcendent-theosophy|content/ar/schools/sch-transcendent-theosophy.md|content/en/schools/sch-transcendent-theosophy.md
+sch-mohism|content/ar/schools/sch-mohism.md|content/en/schools/sch-mohism.md
+thk-heraclitus|content/ar/thinkers/thk-heraclitus.md|content/en/thinkers/thk-heraclitus.md
+thk-ibn-tufayl|content/ar/thinkers/thk-ibn-tufayl.md|content/en/thinkers/thk-ibn-tufayl.md
+thk-zhuangzi|content/ar/_merged/thk-zhuangzi.md|content/en/_merged/thk-zhuangzi.md
+thk-hegel|content/ar/thinkers/thk-hegel.md|content/en/thinkers/thk-hegel.md
+thk-jaustin|content/ar/thinkers/thk-jaustin.md|content/en/thinkers/thk-jaustin.md
+thk-merleau-ponty|content/ar/thinkers/thk-merleau-ponty.md|content/en/thinkers/thk-merleau-ponty.md
+con-epoche-suspension|content/ar/concepts/con-epoche-suspension.md|content/en/concepts/con-epoche-suspension.md
+con-falsificationism-popper|content/ar/concepts/con-falsificationism-popper.md|content/en/concepts/con-falsificationism-popper.md
+con-yin-yang|content/ar/concepts/con-yin-yang.md|content/en/concepts/con-yin-yang.md
+wrk-critique-of-practical-reason-kant|content/ar/works/wrk-critique-of-practical-reason-kant.md|content/en/works/wrk-critique-of-practical-reason-kant.md
+wrk-summa-theologiae-aquinas|content/ar/works/wrk-summa-theologiae-aquinas.md|content/en/works/wrk-summa-theologiae-aquinas.md
+dbt-qadar-free-will-in-kalam|content/ar/debates/dbt-qadar-free-will-in-kalam.md|content/en/debates/dbt-qadar-free-will-in-kalam.md

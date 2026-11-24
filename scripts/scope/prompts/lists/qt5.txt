@@ -1,0 +1,16 @@
+thk-gardner|content/ar/thinkers/thk-gardner.md|content/en/thinkers/thk-gardner.md
+thk-dsiegel|content/ar/thinkers/thk-dsiegel.md|content/en/thinkers/thk-dsiegel.md
+con-repression|content/ar/concepts/con-repression.md|content/en/concepts/con-repression.md
+con-classical-conditioning|content/ar/concepts/con-classical-conditioning.md|content/en/concepts/con-classical-conditioning.md
+con-mindfulness|content/ar/concepts/con-mindfulness.md|content/en/concepts/con-mindfulness.md
+con-intersubjectivity|content/ar/concepts/con-intersubjectivity.md|content/en/concepts/con-intersubjectivity.md
+con-motivational-interviewing-oars|content/ar/concepts/con-motivational-interviewing-oars.md|content/en/concepts/con-motivational-interviewing-oars.md
+stu-bartlett-war-of-ghosts|content/ar/studies/stu-bartlett-war-of-ghosts.md|content/en/studies/stu-bartlett-war-of-ghosts.md
+stu-rosenhan-on-being-sane|content/ar/studies/stu-rosenhan-on-being-sane.md|content/en/studies/stu-rosenhan-on-being-sane.md
+stu-sperry-gazzaniga-split-brain|content/ar/studies/stu-sperry-gazzaniga-split-brain.md|content/en/studies/stu-sperry-gazzaniga-split-brain.md
+stu-tolman-cognitive-maps|content/ar/studies/stu-tolman-cognitive-maps.md|content/en/studies/stu-tolman-cognitive-maps.md
+ins-wisc|content/ar/instruments/ins-wisc.md|content/en/instruments/ins-wisc.md
+dbt-psychology-replication-crisis|content/ar/debates/dbt-psychology-replication-crisis.md|content/en/debates/dbt-psychology-replication-crisis.md
+dis-adhd|content/ar/disorders/dis-adhd.md|content/en/disorders/dis-adhd.md
+dis-adjustment-disorders|content/ar/disorders/dis-adjustment-disorders.md|content/en/disorders/dis-adjustment-disorders.md
+wrk-beck-cognitive-therapy-depression|content/ar/works/wrk-beck-cognitive-therapy-depression.md|content/en/works/wrk-beck-cognitive-therapy-depression.md

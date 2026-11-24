@@ -1,0 +1,17 @@
+sch-atomism-greek|content/ar/schools/sch-atomism-greek.md|content/en/schools/sch-atomism-greek.md
+sch-utilitarianism|content/ar/schools/sch-utilitarianism.md|content/en/schools/sch-utilitarianism.md
+sch-deconstruction|content/ar/schools/sch-deconstruction.md|content/en/schools/sch-deconstruction.md
+sch-advaita-vedanta|content/ar/schools/sch-advaita-vedanta.md|content/en/schools/sch-advaita-vedanta.md
+sch-lixue|content/ar/schools/sch-lixue.md|content/en/schools/sch-lixue.md
+thk-epictetus|content/ar/thinkers/thk-epictetus.md|content/en/thinkers/thk-epictetus.md
+thk-mulla-sadra|content/ar/thinkers/thk-mulla-sadra.md|content/en/thinkers/thk-mulla-sadra.md
+thk-descartes|content/ar/thinkers/thk-descartes.md|content/en/thinkers/thk-descartes.md
+thk-bentham|content/ar/thinkers/thk-bentham.md|content/en/thinkers/thk-bentham.md
+thk-thomas-kuhn|content/ar/thinkers/thk-thomas-kuhn.md|content/en/thinkers/thk-thomas-kuhn.md
+thk-derrida|content/ar/thinkers/thk-derrida.md|content/en/thinkers/thk-derrida.md
+con-hermeneutic-circle|content/ar/concepts/con-hermeneutic-circle.md|content/en/concepts/con-hermeneutic-circle.md
+con-sense-vs-reference|content/ar/concepts/con-sense-vs-reference.md|content/en/concepts/con-sense-vs-reference.md
+con-absolute-spirit-hegel|content/ar/concepts/con-absolute-spirit-hegel.md|content/en/concepts/con-absolute-spirit-hegel.md
+wrk-tractatus|content/ar/works/wrk-tractatus.md|content/en/works/wrk-tractatus.md
+wrk-monadology-leibniz|content/ar/works/wrk-monadology-leibniz.md|content/en/works/wrk-monadology-leibniz.md
+dbt-rawls-nozick-justice|content/ar/debates/dbt-rawls-nozick-justice.md|content/en/debates/dbt-rawls-nozick-justice.md

@@ -1,0 +1,12 @@
+sch-developmental|content/ar/schools/sch-developmental.md|content/en/schools/sch-developmental.md
+br-attachment-theory|content/ar/branches/br-attachment-theory.md|content/en/branches/br-attachment-theory.md
+sch-istdp|content/ar/schools/sch-istdp.md|content/en/schools/sch-istdp.md
+thk-ipavlov|content/ar/thinkers/thk-ipavlov.md|content/en/thinkers/thk-ipavlov.md
+thk-gallport|content/ar/thinkers/thk-gallport.md|content/en/thinkers/thk-gallport.md
+thk-szasz|content/ar/thinkers/thk-szasz.md|content/en/thinkers/thk-szasz.md
+con-neuroplasticity|content/ar/concepts/con-neuroplasticity.md|content/en/concepts/con-neuroplasticity.md
+con-false-self-vs-true-self|content/ar/concepts/con-false-self-vs-true-self.md|content/en/concepts/con-false-self-vs-true-self.md
+stu-bartlett-war-of-ghosts|content/ar/studies/stu-bartlett-war-of-ghosts.md|content/en/studies/stu-bartlett-war-of-ghosts.md
+stu-dunedin-longitudinal-study|content/ar/studies/stu-dunedin-longitudinal-study.md|content/en/studies/stu-dunedin-longitudinal-study.md
+ins-swls|content/ar/instruments/ins-swls.md|content/en/instruments/ins-swls.md
+dis-adjustment-disorders|content/ar/disorders/dis-adjustment-disorders.md|content/en/disorders/dis-adjustment-disorders.md

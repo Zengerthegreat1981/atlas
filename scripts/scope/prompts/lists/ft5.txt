@@ -1,0 +1,17 @@
+sch-academic-skepticism|content/ar/schools/sch-academic-skepticism.md|content/en/schools/sch-academic-skepticism.md
+sch-lockeanism|content/ar/schools/sch-lockeanism.md|content/en/schools/sch-lockeanism.md
+sch-hermeneutics|content/ar/schools/sch-hermeneutics.md|content/en/schools/sch-hermeneutics.md
+sch-decolonial-philosophy|content/ar/schools/sch-decolonial-philosophy.md|content/en/schools/sch-decolonial-philosophy.md
+sch-madhyamaka|content/ar/schools/sch-madhyamaka.md|content/en/schools/sch-madhyamaka.md
+sch-egyptian-maat|content/ar/schools/sch-egyptian-maat.md|content/en/schools/sch-egyptian-maat.md
+thk-ibn-sina|content/ar/thinkers/thk-ibn-sina.md|content/en/thinkers/thk-ibn-sina.md
+thk-mahavira|content/ar/thinkers/thk-mahavira.md|content/en/thinkers/thk-mahavira.md
+thk-rousseau|content/ar/thinkers/thk-rousseau.md|content/en/thinkers/thk-rousseau.md
+thk-nishida|content/ar/thinkers/thk-nishida.md|content/en/thinkers/thk-nishida.md
+thk-rawls|content/ar/thinkers/thk-rawls.md|content/en/thinkers/thk-rawls.md
+thk-mohammed-abed-al-jabri|content/ar/thinkers/thk-mohammed-abed-al-jabri.md|content/en/thinkers/thk-mohammed-abed-al-jabri.md
+con-wahdat-al-wujud|content/ar/concepts/con-wahdat-al-wujud.md|content/en/concepts/con-wahdat-al-wujud.md
+con-ataraxia|content/ar/concepts/con-ataraxia.md|content/en/concepts/con-ataraxia.md
+wrk-apology-plato|content/ar/works/wrk-apology-plato.md|content/en/works/wrk-apology-plato.md
+wrk-the-prince-machiavelli|content/ar/works/wrk-the-prince-machiavelli.md|content/en/works/wrk-the-prince-machiavelli.md
+dbt-mind-body-dualism-vs-physicalism|content/ar/debates/dbt-mind-body-dualism-vs-physicalism.md|content/en/debates/dbt-mind-body-dualism-vs-physicalism.md

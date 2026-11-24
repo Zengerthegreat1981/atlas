@@ -1,0 +1,17 @@
+sch-aristotelianism|content/ar/schools/sch-aristotelianism.md|content/en/schools/sch-aristotelianism.md
+sch-cartesianism|content/ar/schools/sch-cartesianism.md|content/en/schools/sch-cartesianism.md
+sch-phenomenology|content/ar/schools/sch-phenomenology.md|content/en/schools/sch-phenomenology.md
+sch-rawlsianism|content/ar/schools/sch-rawlsianism.md|content/en/schools/sch-rawlsianism.md
+sch-nyaya|content/ar/schools/sch-nyaya.md|content/en/schools/sch-nyaya.md
+sch-kyoto|content/ar/schools/sch-kyoto.md|content/en/schools/sch-kyoto.md
+thk-plotinus|content/ar/thinkers/thk-plotinus.md|content/en/thinkers/thk-plotinus.md
+thk-ashari|content/ar/thinkers/thk-ashari.md|content/en/thinkers/thk-ashari.md
+thk-leibniz|content/ar/thinkers/thk-leibniz.md|content/en/thinkers/thk-leibniz.md
+thk-dewey|content/ar/thinkers/thk-dewey.md|content/en/thinkers/thk-dewey.md
+thk-nagel|content/ar/thinkers/thk-nagel.md|content/en/thinkers/thk-nagel.md
+thk-habermas|content/ar/thinkers/thk-habermas.md|content/en/thinkers/thk-habermas.md
+con-anatta-non-self-concept|content/ar/concepts/con-anatta-non-self-concept.md|content/en/concepts/con-anatta-non-self-concept.md
+con-natural-law-aquinas-concept|content/ar/concepts/con-natural-law-aquinas-concept.md|content/en/concepts/con-natural-law-aquinas-concept.md
+con-eudaimonia-wellbeing|content/ar/concepts/con-eudaimonia-wellbeing.md|content/en/concepts/con-eudaimonia-wellbeing.md
+wrk-kuhn-structure-revolutions|content/ar/works/wrk-kuhn-structure-revolutions.md|content/en/works/wrk-kuhn-structure-revolutions.md
+wrk-an-inquiry-into-the-good-nishida|content/ar/works/wrk-an-inquiry-into-the-good-nishida.md|content/en/works/wrk-an-inquiry-into-the-good-nishida.md

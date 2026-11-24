@@ -1,0 +1,5 @@
+fld-linguistics|content/en/fields/fld-linguistics.md|Linguistics|Module root: what linguistics studies, levels of analysis (phonetics, phonology, morphology, syntax, semantics, pragmatics), main schools, subfields, methods, how the atlas is organised, reading paths
+fld-phonetics-phonology|content/en/fields/fld-phonetics-phonology.md|Phonetics and Phonology|speech sounds, articulation, acoustics, phonemes, features, rules and constraints, major theories and debates
+fld-syntax-semantics|content/en/fields/fld-syntax-semantics.md|Syntax and Semantics|sentence structure, meaning composition, major frameworks (generative, categorial, constructionist), formal semantics, debates
+fld-sociolinguistics-language-variation|content/en/fields/fld-sociolinguistics-language-variation.md|Sociolinguistics and Language Variation|variation and change, dialects, multilingualism, language and identity, language policy, methods
+fld-arabic-linguistics|content/en/fields/fld-arabic-linguistics.md|Arabic Linguistics|classical grammatical tradition, modern linguistics of Arabic, diglossia and dialects, major figures and works

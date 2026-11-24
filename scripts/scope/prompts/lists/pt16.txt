@@ -1,0 +1,12 @@
+sch-emotion-psychology|content/ar/schools/sch-emotion-psychology.md|content/en/schools/sch-emotion-psychology.md
+sch-motivational-interviewing|content/ar/schools/sch-motivational-interviewing.md|content/en/schools/sch-motivational-interviewing.md
+thk-fromm|content/ar/thinkers/thk-fromm.md|content/en/thinkers/thk-fromm.md
+thk-amos-tversky|content/ar/thinkers/thk-amos-tversky.md|content/en/thinkers/thk-amos-tversky.md
+thk-stephen-porges|content/ar/thinkers/thk-stephen-porges.md|content/en/thinkers/thk-stephen-porges.md
+con-archetype|content/ar/concepts/con-archetype.md|content/en/concepts/con-archetype.md
+con-mindfulness|content/ar/concepts/con-mindfulness.md|content/en/concepts/con-mindfulness.md
+con-hypnotic-trance|content/ar/concepts/con-hypnotic-trance.md|content/en/concepts/con-hypnotic-trance.md
+stu-ainsworth-strange-situation|content/ar/studies/stu-ainsworth-strange-situation.md|content/en/studies/stu-ainsworth-strange-situation.md
+ins-neo-pi-r|content/ar/instruments/ins-neo-pi-r.md|content/en/instruments/ins-neo-pi-r.md
+dis-adhd|content/ar/disorders/dis-adhd.md|content/en/disorders/dis-adhd.md
+wrk-hayes-acceptance-commitment-therapy|content/ar/works/wrk-hayes-acceptance-commitment-therapy.md|content/en/works/wrk-hayes-acceptance-commitment-therapy.md

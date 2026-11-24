@@ -1,0 +1,12 @@
+sch-social-psychology|content/ar/schools/sch-social-psychology.md|content/en/schools/sch-social-psychology.md
+br-person-centered|content/ar/branches/br-person-centered.md|content/en/branches/br-person-centered.md
+br-structural-family|content/ar/branches/br-structural-family.md|content/en/branches/br-structural-family.md
+thk-james|content/ar/thinkers/thk-james.md|content/en/thinkers/thk-james.md
+thk-heysenck|content/ar/thinkers/thk-heysenck.md|content/en/thinkers/thk-heysenck.md
+thk-sdeshacer|content/ar/thinkers/thk-sdeshacer.md|content/en/thinkers/thk-sdeshacer.md
+con-cognitive-distortion|content/ar/concepts/con-cognitive-distortion.md|content/en/concepts/con-cognitive-distortion.md
+con-triangulation|content/ar/concepts/con-triangulation.md|content/en/concepts/con-triangulation.md
+stu-miller-magical-number-seven|content/ar/studies/stu-miller-magical-number-seven.md|content/en/studies/stu-miller-magical-number-seven.md
+stu-harvard-adult-development|content/ar/studies/stu-harvard-adult-development.md|content/en/studies/stu-harvard-adult-development.md
+ins-cattell-16pf|content/ar/instruments/ins-cattell-16pf.md|content/en/instruments/ins-cattell-16pf.md
+dis-dissociative-amnesia|content/ar/disorders/dis-dissociative-amnesia.md|content/en/disorders/dis-dissociative-amnesia.md

@@ -1,0 +1,16 @@
+thk-piaget|content/ar/thinkers/thk-piaget.md|content/en/thinkers/thk-piaget.md
+thk-stephen-porges|content/ar/thinkers/thk-stephen-porges.md|content/en/thinkers/thk-stephen-porges.md
+thk-dbaumrind|content/ar/thinkers/thk-dbaumrind.md|content/en/thinkers/thk-dbaumrind.md
+con-attachment-styles|content/ar/concepts/con-attachment-styles.md|content/en/concepts/con-attachment-styles.md
+con-self-actualization|content/ar/concepts/con-self-actualization.md|content/en/concepts/con-self-actualization.md
+con-polyvagal-theory|content/ar/concepts/con-polyvagal-theory.md|content/en/concepts/con-polyvagal-theory.md
+con-moral-development-gilligan|content/ar/concepts/con-moral-development-gilligan.md|content/en/concepts/con-moral-development-gilligan.md
+stu-stanford-prison|content/ar/studies/stu-stanford-prison.md|content/en/studies/stu-stanford-prison.md
+stu-baddeley-hitch-working-memory|content/ar/studies/stu-baddeley-hitch-working-memory.md|content/en/studies/stu-baddeley-hitch-working-memory.md
+stu-darley-latane-bystander|content/ar/studies/stu-darley-latane-bystander.md|content/en/studies/stu-darley-latane-bystander.md
+stu-wundt-leipzig-1879|content/ar/studies/stu-wundt-leipzig-1879.md|content/en/studies/stu-wundt-leipzig-1879.md
+ins-hamilton-hdrs|content/ar/instruments/ins-hamilton-hdrs.md|content/en/instruments/ins-hamilton-hdrs.md
+ins-swls|content/ar/instruments/ins-swls.md|content/en/instruments/ins-swls.md
+dis-schizophrenia|content/ar/disorders/dis-schizophrenia.md|content/en/disorders/dis-schizophrenia.md
+dis-somatic-symptom-disorder|content/ar/disorders/dis-somatic-symptom-disorder.md|content/en/disorders/dis-somatic-symptom-disorder.md
+wrk-thinking-fast-slow|content/ar/works/wrk-thinking-fast-slow.md|content/en/works/wrk-thinking-fast-slow.md

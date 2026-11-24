@@ -1,0 +1,12 @@
+sch-object-relations|content/ar/schools/sch-object-relations.md|content/en/schools/sch-object-relations.md
+sch-act|content/ar/schools/sch-act.md|content/en/schools/sch-act.md
+thk-klein|content/ar/thinkers/thk-klein.md|content/en/thinkers/thk-klein.md
+thk-ainsworth|content/ar/thinkers/thk-ainsworth.md|content/en/thinkers/thk-ainsworth.md
+thk-mbowen|content/ar/thinkers/thk-mbowen.md|content/en/thinkers/thk-mbowen.md
+thk-dbaumrind|content/ar/thinkers/thk-dbaumrind.md|content/en/thinkers/thk-dbaumrind.md
+con-social-learning|content/ar/concepts/con-social-learning.md|content/en/concepts/con-social-learning.md
+con-emotional-intelligence|content/ar/concepts/con-emotional-intelligence.md|content/en/concepts/con-emotional-intelligence.md
+stu-loftus-misinformation-effect|content/ar/studies/stu-loftus-misinformation-effect.md|content/en/studies/stu-loftus-misinformation-effect.md
+stu-tolman-cognitive-maps|content/ar/studies/stu-tolman-cognitive-maps.md|content/en/studies/stu-tolman-cognitive-maps.md
+dbt-projective-tests-validity|content/ar/debates/dbt-projective-tests-validity.md|content/en/debates/dbt-projective-tests-validity.md
+wrk-freud-interpretation-of-dreams|content/ar/works/wrk-freud-interpretation-of-dreams.md|content/en/works/wrk-freud-interpretation-of-dreams.md

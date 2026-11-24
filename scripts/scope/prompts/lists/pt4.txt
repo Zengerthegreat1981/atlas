@@ -1,0 +1,12 @@
+sch-cognitive-behavioral|content/ar/schools/sch-cognitive-behavioral.md|content/en/schools/sch-cognitive-behavioral.md
+br-classical-psychoanalysis|content/ar/branches/br-classical-psychoanalysis.md|content/en/branches/br-classical-psychoanalysis.md
+sch-rebt|content/ar/schools/sch-rebt.md|content/en/schools/sch-rebt.md
+thk-fskinner|content/ar/thinkers/thk-fskinner.md|content/en/thinkers/thk-fskinner.md
+thk-gilligan|content/ar/thinkers/thk-gilligan.md|content/en/thinkers/thk-gilligan.md
+thk-francine-shapiro|content/ar/thinkers/thk-francine-shapiro.md|content/en/thinkers/thk-francine-shapiro.md
+con-attention|content/ar/concepts/con-attention.md|content/en/concepts/con-attention.md
+con-polyvagal-theory|content/ar/concepts/con-polyvagal-theory.md|content/en/concepts/con-polyvagal-theory.md
+stu-bandura-bobo-doll|content/ar/studies/stu-bandura-bobo-doll.md|content/en/studies/stu-bandura-bobo-doll.md
+stu-sperry-gazzaniga-split-brain|content/ar/studies/stu-sperry-gazzaniga-split-brain.md|content/en/studies/stu-sperry-gazzaniga-split-brain.md
+ins-rorschach|content/ar/instruments/ins-rorschach.md|content/en/instruments/ins-rorschach.md
+dis-alcohol-use-disorder|content/ar/disorders/dis-alcohol-use-disorder.md|content/en/disorders/dis-alcohol-use-disorder.md

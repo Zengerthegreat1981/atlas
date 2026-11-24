@@ -1,0 +1,12 @@
+sch-cognitive-neuroscience|content/ar/schools/sch-cognitive-neuroscience.md|content/en/schools/sch-cognitive-neuroscience.md
+br-self-actualization-maslow|content/ar/branches/br-self-actualization-maslow.md|content/en/branches/br-self-actualization-maslow.md
+thk-jung|content/ar/thinkers/thk-jung.md|content/en/thinkers/thk-jung.md
+thk-vygotsky|content/ar/thinkers/thk-vygotsky.md|content/en/thinkers/thk-vygotsky.md
+thk-fperls|content/ar/thinkers/thk-fperls.md|content/en/thinkers/thk-fperls.md
+thk-wampold|content/ar/thinkers/thk-wampold.md|content/en/thinkers/thk-wampold.md
+con-classical-conditioning|content/ar/concepts/con-classical-conditioning.md|content/en/concepts/con-classical-conditioning.md
+con-felt-sense|content/ar/concepts/con-felt-sense.md|content/en/concepts/con-felt-sense.md
+stu-kahneman-tversky-heuristics-biases|content/ar/studies/stu-kahneman-tversky-heuristics-biases.md|content/en/studies/stu-kahneman-tversky-heuristics-biases.md
+stu-tajfel-minimal-group|content/ar/studies/stu-tajfel-minimal-group.md|content/en/studies/stu-tajfel-minimal-group.md
+dbt-psychology-replication-crisis|content/ar/debates/dbt-psychology-replication-crisis.md|content/en/debates/dbt-psychology-replication-crisis.md
+classification-icd-11|content/ar/disorders/classification-icd-11.md|content/en/disorders/classification-icd-11.md

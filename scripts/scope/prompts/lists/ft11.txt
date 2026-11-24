@@ -1,0 +1,17 @@
+sch-ockhamism|content/ar/schools/sch-ockhamism.md|content/en/schools/sch-ockhamism.md
+sch-marxism|content/ar/schools/sch-marxism.md|content/en/schools/sch-marxism.md
+sch-phil-science|content/ar/schools/sch-phil-science.md|content/en/schools/sch-phil-science.md
+sch-andalusian-philosophy|content/ar/schools/sch-andalusian-philosophy.md|content/en/schools/sch-andalusian-philosophy.md
+sch-legalism|content/ar/schools/sch-legalism.md|content/en/schools/sch-legalism.md
+thk-parmenides|content/ar/thinkers/thk-parmenides.md|content/en/thinkers/thk-parmenides.md
+thk-ibn-arabi|content/ar/thinkers/thk-ibn-arabi.md|content/en/thinkers/thk-ibn-arabi.md
+thk-zhu-xi|content/ar/thinkers/thk-zhu-xi.md|content/en/thinkers/thk-zhu-xi.md
+thk-schopenhauer|content/ar/thinkers/thk-schopenhauer.md|content/en/thinkers/thk-schopenhauer.md
+thk-wquine|content/ar/thinkers/thk-wquine.md|content/en/thinkers/thk-wquine.md
+thk-gadamer|content/ar/thinkers/thk-gadamer.md|content/en/thinkers/thk-gadamer.md
+con-cogito|content/ar/concepts/con-cogito.md|content/en/concepts/con-cogito.md
+con-hard-problem-of-consciousness|content/ar/concepts/con-hard-problem-of-consciousness.md|content/en/concepts/con-hard-problem-of-consciousness.md
+con-knowledge-by-presence-ilm-huduri|content/ar/concepts/con-knowledge-by-presence-ilm-huduri.md|content/en/concepts/con-knowledge-by-presence-ilm-huduri.md
+wrk-spinoza-ethics|content/ar/works/wrk-spinoza-ethics.md|content/en/works/wrk-spinoza-ethics.md
+wrk-on-the-genealogy-of-morals-nietzsche|content/ar/works/wrk-on-the-genealogy-of-morals-nietzsche.md|content/en/works/wrk-on-the-genealogy-of-morals-nietzsche.md
+dbt-extended-mind-clark-chalmers|content/ar/debates/dbt-extended-mind-clark-chalmers.md|content/en/debates/dbt-extended-mind-clark-chalmers.md

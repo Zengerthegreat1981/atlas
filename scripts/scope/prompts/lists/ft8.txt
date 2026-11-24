@@ -1,0 +1,17 @@
+sch-patristics|content/ar/schools/sch-patristics.md|content/en/schools/sch-patristics.md
+sch-kant-critical|content/ar/schools/sch-kant-critical.md|content/en/schools/sch-kant-critical.md
+sch-ordinary-language|content/ar/schools/sch-ordinary-language.md|content/en/schools/sch-ordinary-language.md
+sch-mutazila|content/ar/schools/sch-mutazila.md|content/en/schools/sch-mutazila.md
+sch-confucian-early|content/ar/schools/sch-confucian-early.md|content/en/schools/sch-confucian-early.md
+thk-plato|content/ar/thinkers/thk-plato.md|content/en/thinkers/thk-plato.md
+thk-al-ghazali|content/ar/thinkers/thk-al-ghazali.md|content/en/thinkers/thk-al-ghazali.md
+thk-xunzi|content/ar/thinkers/thk-xunzi.md|content/en/thinkers/thk-xunzi.md
+thk-fichte|content/ar/thinkers/thk-fichte.md|content/en/thinkers/thk-fichte.md
+thk-lwittgenstein|content/ar/thinkers/thk-lwittgenstein.md|content/en/thinkers/thk-lwittgenstein.md
+thk-sandel|content/ar/thinkers/thk-sandel.md|content/en/thinkers/thk-sandel.md
+con-dialectics|content/ar/concepts/con-dialectics.md|content/en/concepts/con-dialectics.md
+con-monad|content/ar/concepts/con-monad.md|content/en/concepts/con-monad.md
+con-ahimsa|content/ar/concepts/con-ahimsa.md|content/en/concepts/con-ahimsa.md
+wrk-meditations-on-first-philosophy-descartes|content/ar/works/wrk-meditations-on-first-philosophy-descartes.md|content/en/works/wrk-meditations-on-first-philosophy-descartes.md
+wrk-tahafut-al-falasifa-ghazali|content/ar/works/wrk-tahafut-al-falasifa-ghazali.md|content/en/works/wrk-tahafut-al-falasifa-ghazali.md
+dbt-advaita-vs-dvaita|content/ar/debates/dbt-advaita-vs-dvaita.md|content/en/debates/dbt-advaita-vs-dvaita.md

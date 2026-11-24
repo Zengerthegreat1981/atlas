@@ -1,0 +1,17 @@
+thk-sullivan|content/ar/thinkers/thk-sullivan.md|content/en/thinkers/thk-sullivan.md
+thk-sminuchin|content/ar/thinkers/thk-sminuchin.md|content/en/thinkers/thk-sminuchin.md
+thk-mwhite|content/ar/thinkers/thk-mwhite.md|content/en/thinkers/thk-mwhite.md
+con-collective-unconscious|content/ar/concepts/con-collective-unconscious.md|content/en/concepts/con-collective-unconscious.md
+con-social-learning|content/ar/concepts/con-social-learning.md|content/en/concepts/con-social-learning.md
+con-loss-aversion|content/ar/concepts/con-loss-aversion.md|content/en/concepts/con-loss-aversion.md
+con-primary-emotion|content/ar/concepts/con-primary-emotion.md|content/en/concepts/con-primary-emotion.md
+stu-asch-conformity|content/ar/studies/stu-asch-conformity.md|content/en/studies/stu-asch-conformity.md
+stu-kahneman-tversky-prospect-theory|content/ar/studies/stu-kahneman-tversky-prospect-theory.md|content/en/studies/stu-kahneman-tversky-prospect-theory.md
+stu-harlow-rhesus-monkeys|content/ar/studies/stu-harlow-rhesus-monkeys.md|content/en/studies/stu-harlow-rhesus-monkeys.md
+stu-dunedin-longitudinal-study|content/ar/studies/stu-dunedin-longitudinal-study.md|content/en/studies/stu-dunedin-longitudinal-study.md
+stu-lorenz-imprinting|content/ar/studies/stu-lorenz-imprinting.md|content/en/studies/stu-lorenz-imprinting.md
+ins-rorschach|content/ar/instruments/ins-rorschach.md|content/en/instruments/ins-rorschach.md
+dbt-projective-tests-validity|content/ar/debates/dbt-projective-tests-validity.md|content/en/debates/dbt-projective-tests-validity.md
+dis-social-anxiety-disorder|content/ar/disorders/dis-social-anxiety-disorder.md|content/en/disorders/dis-social-anxiety-disorder.md
+classification-dsm-5-tr|content/ar/disorders/classification-dsm-5-tr.md|content/en/disorders/classification-dsm-5-tr.md
+wrk-ecrits|content/ar/works/wrk-ecrits.md|content/en/works/wrk-ecrits.md

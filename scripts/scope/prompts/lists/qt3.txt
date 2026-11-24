@@ -1,0 +1,16 @@
+thk-mseligman|content/ar/thinkers/thk-mseligman.md|content/en/thinkers/thk-mseligman.md
+thk-damasio|content/ar/thinkers/thk-damasio.md|content/en/thinkers/thk-damasio.md
+con-unconscious|content/ar/concepts/con-unconscious.md|content/en/concepts/con-unconscious.md
+con-working-memory-sentence-parsing|content/ar/concepts/con-working-memory-sentence-parsing.md|content/en/concepts/con-working-memory-sentence-parsing.md
+con-self-efficacy|content/ar/concepts/con-self-efficacy.md|content/en/concepts/con-self-efficacy.md
+con-differentiation-self|content/ar/concepts/con-differentiation-self.md|content/en/concepts/con-differentiation-self.md
+con-diagnostic-reliability|content/ar/concepts/con-diagnostic-reliability.md|content/en/concepts/con-diagnostic-reliability.md
+stu-bandura-bobo-doll|content/ar/studies/stu-bandura-bobo-doll.md|content/en/studies/stu-bandura-bobo-doll.md
+stu-loftus-misinformation-effect|content/ar/studies/stu-loftus-misinformation-effect.md|content/en/studies/stu-loftus-misinformation-effect.md
+stu-kohlberg-moral-development|content/ar/studies/stu-kohlberg-moral-development.md|content/en/studies/stu-kohlberg-moral-development.md
+stu-tajfel-minimal-group|content/ar/studies/stu-tajfel-minimal-group.md|content/en/studies/stu-tajfel-minimal-group.md
+ins-neo-pi-r|content/ar/instruments/ins-neo-pi-r.md|content/en/instruments/ins-neo-pi-r.md
+ins-cattell-16pf|content/ar/instruments/ins-cattell-16pf.md|content/en/instruments/ins-cattell-16pf.md
+dis-bipolar-i|content/ar/disorders/dis-bipolar-i.md|content/en/disorders/dis-bipolar-i.md
+dis-alcohol-use-disorder|content/ar/disorders/dis-alcohol-use-disorder.md|content/en/disorders/dis-alcohol-use-disorder.md
+wrk-freud-interpretation-of-dreams|content/ar/works/wrk-freud-interpretation-of-dreams.md|content/en/works/wrk-freud-interpretation-of-dreams.md

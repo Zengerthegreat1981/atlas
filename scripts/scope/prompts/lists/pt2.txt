@@ -1,0 +1,12 @@
+sch-behaviorism|content/ar/schools/sch-behaviorism.md|content/en/schools/sch-behaviorism.md
+sch-trauma-psychology|content/ar/schools/sch-trauma-psychology.md|content/en/schools/sch-trauma-psychology.md
+sch-solution-focused|content/ar/schools/sch-solution-focused.md|content/en/schools/sch-solution-focused.md
+thk-rogers|content/ar/thinkers/thk-rogers.md|content/en/thinkers/thk-rogers.md
+thk-elizabeth-loftus|content/ar/thinkers/thk-elizabeth-loftus.md|content/en/thinkers/thk-elizabeth-loftus.md
+thk-dsiegel|content/ar/thinkers/thk-dsiegel.md|content/en/thinkers/thk-dsiegel.md
+con-attachment-styles|content/ar/concepts/con-attachment-styles.md|content/en/concepts/con-attachment-styles.md
+con-fundamental-attribution-error|content/ar/concepts/con-fundamental-attribution-error.md|content/en/concepts/con-fundamental-attribution-error.md
+stu-stanford-prison|content/ar/studies/stu-stanford-prison.md|content/en/studies/stu-stanford-prison.md
+stu-clark-doll-test|content/ar/studies/stu-clark-doll-test.md|content/en/studies/stu-clark-doll-test.md
+ins-stanford-binet|content/ar/instruments/ins-stanford-binet.md|content/en/instruments/ins-stanford-binet.md
+dis-major-neurocognitive|content/ar/disorders/dis-major-neurocognitive.md|content/en/disorders/dis-major-neurocognitive.md

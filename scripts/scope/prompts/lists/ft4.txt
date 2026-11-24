@@ -1,0 +1,17 @@
+sch-pyrrhonism|content/ar/schools/sch-pyrrhonism.md|content/en/schools/sch-pyrrhonism.md
+sch-british-empiricism|content/ar/schools/sch-british-empiricism.md|content/en/schools/sch-british-empiricism.md
+sch-existentialism-atheist|content/ar/schools/sch-existentialism-atheist.md|content/en/schools/sch-existentialism-atheist.md
+sch-postmodernism-philosophical|content/ar/schools/sch-postmodernism-philosophical.md|content/en/schools/sch-postmodernism-philosophical.md
+sch-buddhism-early|content/ar/schools/sch-buddhism-early.md|content/en/schools/sch-buddhism-early.md
+sch-african-professional-philosophy|content/ar/schools/sch-african-professional-philosophy.md|content/en/schools/sch-african-professional-philosophy.md
+thk-william-ockham|content/ar/thinkers/thk-william-ockham.md|content/en/thinkers/thk-william-ockham.md
+thk-shankara|content/ar/thinkers/thk-shankara.md|content/en/thinkers/thk-shankara.md
+thk-hume|content/ar/thinkers/thk-hume.md|content/en/thinkers/thk-hume.md
+thk-dilthey|content/ar/thinkers/thk-dilthey.md|content/en/thinkers/thk-dilthey.md
+thk-david-chalmers|content/ar/thinkers/thk-david-chalmers.md|content/en/thinkers/thk-david-chalmers.md
+thk-mbuber|content/ar/thinkers/thk-mbuber.md|content/en/thinkers/thk-mbuber.md
+con-ren|content/ar/concepts/con-ren.md|content/en/concepts/con-ren.md
+con-anamnesis-recollection|content/ar/concepts/con-anamnesis-recollection.md|content/en/concepts/con-anamnesis-recollection.md
+wrk-republic-plato|content/ar/works/wrk-republic-plato.md|content/en/works/wrk-republic-plato.md
+wrk-on-liberty-mill|content/ar/works/wrk-on-liberty-mill.md|content/en/works/wrk-on-liberty-mill.md
+wrk-al-muqaddimah-ibn-khaldun|content/ar/works/wrk-al-muqaddimah-ibn-khaldun.md|content/en/works/wrk-al-muqaddimah-ibn-khaldun.md

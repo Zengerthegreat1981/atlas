@@ -1,0 +1,12 @@
+sch-positive-psychology|content/ar/schools/sch-positive-psychology.md|content/en/schools/sch-positive-psychology.md
+br-social-learning-theory|content/ar/branches/br-social-learning-theory.md|content/en/branches/br-social-learning-theory.md
+thk-adler|content/ar/thinkers/thk-adler.md|content/en/thinkers/thk-adler.md
+thk-bowlby|content/ar/thinkers/thk-bowlby.md|content/en/thinkers/thk-bowlby.md
+thk-sminuchin|content/ar/thinkers/thk-sminuchin.md|content/en/thinkers/thk-sminuchin.md
+thk-ectolman|content/ar/thinkers/thk-ectolman.md|content/en/thinkers/thk-ectolman.md
+con-operant-conditioning|content/ar/concepts/con-operant-conditioning.md|content/en/concepts/con-operant-conditioning.md
+con-primary-emotion|content/ar/concepts/con-primary-emotion.md|content/en/concepts/con-primary-emotion.md
+stu-baddeley-hitch-working-memory|content/ar/studies/stu-baddeley-hitch-working-memory.md|content/en/studies/stu-baddeley-hitch-working-memory.md
+stu-thorndike-puzzle-box|content/ar/studies/stu-thorndike-puzzle-box.md|content/en/studies/stu-thorndike-puzzle-box.md
+dbt-nature-vs-nurture-intelligence-personality|content/ar/debates/dbt-nature-vs-nurture-intelligence-personality.md|content/en/debates/dbt-nature-vs-nurture-intelligence-personality.md
+wrk-thinking-fast-slow|content/ar/works/wrk-thinking-fast-slow.md|content/en/works/wrk-thinking-fast-slow.md

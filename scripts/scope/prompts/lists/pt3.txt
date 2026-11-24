@@ -1,0 +1,12 @@
+sch-cognitive-psychology|content/ar/schools/sch-cognitive-psychology.md|content/en/schools/sch-cognitive-psychology.md
+sch-culture-and-personality|content/ar/schools/sch-culture-and-personality.md|content/en/schools/sch-culture-and-personality.md
+sch-ipt|content/ar/schools/sch-ipt.md|content/en/schools/sch-ipt.md
+thk-maslow|content/ar/thinkers/thk-maslow.md|content/en/thinkers/thk-maslow.md
+thk-dweck|content/ar/thinkers/thk-dweck.md|content/en/thinkers/thk-dweck.md
+thk-jherman|content/ar/thinkers/thk-jherman.md|content/en/thinkers/thk-jherman.md
+con-secure-attachment|content/ar/concepts/con-secure-attachment.md|content/en/concepts/con-secure-attachment.md
+con-window-of-tolerance|content/ar/concepts/con-window-of-tolerance.md|content/en/concepts/con-window-of-tolerance.md
+stu-mischel-marshmallow-test|content/ar/studies/stu-mischel-marshmallow-test.md|content/en/studies/stu-mischel-marshmallow-test.md
+stu-scoville-milner-patient-hm|content/ar/studies/stu-scoville-milner-patient-hm.md|content/en/studies/stu-scoville-milner-patient-hm.md
+ins-mbti|content/ar/instruments/ins-mbti.md|content/en/instruments/ins-mbti.md
+dis-somatic-symptom-disorder|content/ar/disorders/dis-somatic-symptom-disorder.md|content/en/disorders/dis-somatic-symptom-disorder.md

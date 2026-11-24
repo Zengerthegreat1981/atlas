@@ -1,0 +1,17 @@
+sch-augustinianism|content/ar/schools/sch-augustinianism.md|content/en/schools/sch-augustinianism.md
+sch-pragmatism-classical|content/ar/schools/sch-pragmatism-classical.md|content/en/schools/sch-pragmatism-classical.md
+sch-post-structuralism|content/ar/schools/sch-post-structuralism.md|content/en/schools/sch-post-structuralism.md
+sch-islamic-sufism|content/ar/schools/sch-islamic-sufism.md|content/en/schools/sch-islamic-sufism.md
+sch-neoconfucianism|content/ar/schools/sch-neoconfucianism.md|content/en/schools/sch-neoconfucianism.md
+thk-epicur|content/ar/thinkers/thk-epicur.md|content/en/thinkers/thk-epicur.md
+thk-suhrawardi|content/ar/thinkers/thk-suhrawardi.md|content/en/thinkers/thk-suhrawardi.md
+thk-wang-yangming|content/ar/thinkers/thk-wang-yangming.md|content/en/thinkers/thk-wang-yangming.md
+thk-mill|content/ar/thinkers/thk-mill.md|content/en/thinkers/thk-mill.md
+thk-karl-popper|content/ar/thinkers/thk-karl-popper.md|content/en/thinkers/thk-karl-popper.md
+thk-ricoeur|content/ar/thinkers/thk-ricoeur.md|content/en/thinkers/thk-ricoeur.md
+con-res-cogitans-res-extensa|content/ar/concepts/con-res-cogitans-res-extensa.md|content/en/concepts/con-res-cogitans-res-extensa.md
+con-functionalism-mind|content/ar/concepts/con-functionalism-mind.md|content/en/concepts/con-functionalism-mind.md
+con-asalat-al-wujud-primacy-of-existence|content/ar/concepts/con-asalat-al-wujud-primacy-of-existence.md|content/en/concepts/con-asalat-al-wujud-primacy-of-existence.md
+wrk-hegel-phenomenology-spirit|content/ar/works/wrk-hegel-phenomenology-spirit.md|content/en/works/wrk-hegel-phenomenology-spirit.md
+wrk-philosophy-mirror-nature|content/ar/works/wrk-philosophy-mirror-nature.md|content/en/works/wrk-philosophy-mirror-nature.md
+dbt-liberalism-vs-communitarianism|content/ar/debates/dbt-liberalism-vs-communitarianism.md|content/en/debates/dbt-liberalism-vs-communitarianism.md

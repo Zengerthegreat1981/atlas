@@ -1,0 +1,4 @@
+fld-religious-studies|content/en/fields/fld-religious-studies.md|Religious Studies|Module root: what the academic study of religion is (and is not), approaches (historical, comparative, sociological, anthropological, psychological, phenomenological), major traditions covered, methods, how the atlas is organised, reading paths
+fld-theory-method-study-of-religion|content/en/fields/fld-theory-method-study-of-religion.md|Theory and Method in the Study of Religion|definitions of religion, insider/outsider, reductionism, phenomenology of religion, comparative method, secularization debates
+fld-ritual-myth-symbol|content/en/fields/fld-ritual-myth-symbol.md|Ritual, Myth and Symbol|theories of ritual, myth, sacred/profane, symbol, major thinkers and debates
+fld-religion-and-society|content/en/fields/fld-religion-and-society.md|Religion and Society|religion and politics, secularization, pluralism, new movements, religion and law, gender, violence and peace, debates

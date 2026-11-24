@@ -1,0 +1,450 @@
+asylum-anthropology-borders|Asylum Anthropology & Borders|دراسة
+br-anthropology-of-religion-subfield|Anthropology of Religion as a Subfield|فرع
+br-economic-anthropology-subfield|Economic Anthropology as a Subfield|فرع
+br-kinship-studies-subfield|Kinship Studies as a Subfield|فرع
+br-legal-anthropology-subfield|Legal Anthropology|فرع
+br-medical-anthropology-subfield|Medical Anthropology as a Subfield|فرع
+br-political-anthropology-subfield|Political Anthropology|مدرسة
+br-urban-anthropology-subfield|Urban Anthropology as a Subfield|فرع
+con-adaptation|Adaptation|مفهوم
+con-adoption|Adoption|مفهوم
+con-aesthetics|Aesthetics|مفهوم
+con-age-grade|Age Grades|مفهوم
+con-age-set|Age Sets|مفهوم
+con-alliance|Alliance|مفهوم
+con-ancestor-worship|Ancestor Worship|مفهوم
+con-animism-tylor|Animism (Tylorian)|مفهوم
+con-animism|Animism|مفهوم
+con-architecture|Architecture|مفهوم
+con-aristocracy|Aristocracy|مفهوم
+con-assimilation|Assimilation: Becoming Part of the Mainstream|مفهوم
+con-asymmetric-alliance|Asymmetric Alliance|مفهوم
+con-barter-trade|Barter Trade Networks|مفهوم
+con-barter|Barter|مفهوم
+con-belief-system|Belief System|مفهوم
+con-bilateral-kinship|Bilateral Kinship|مفهوم
+con-biogenetic-versus-cultural-kinship|Biogenetic versus Cultural Kinship|مفهوم
+con-blessing|Blessing|مفهوم
+con-brideprice|Brideprice|مفهوم
+con-brideservice|Bride Service|مفهوم
+con-chiefdom|Chiefdom|مفهوم
+con-chieftaincy|Chieftaincy|مفهوم
+con-citizenship|Citizenship: Membership, Rights, and Belonging|مفهوم
+con-clan|Clan|مفهوم
+con-classification|Classification Systems|مفهوم
+con-cognatic|Cognatic Descent|مفهوم
+con-colonialism-psychology|Colonial Psychology|مفهوم
+con-colonialism|Colonialism: Domination, Extraction, and Rule|مفهوم
+con-commodification|Commodification|مفهوم
+con-communicative-competence-hymes|Communicative Competence|مفهوم
+con-communitas|Communitas: The Shared Feeling of Being Together as Equals|مفهوم
+con-conflict|Conflict|مفهوم
+con-consensus|Consensus Decision-Making|مفهوم
+con-continuity-change|Continuity and Change|مفهوم
+con-cosmology|Cosmology|مفهوم
+con-craft|Craft Specialization|مفهوم
+con-credit|Credit Systems|مفهوم
+con-creolization|Creolization: Cultural Creation in Contact|مفهوم
+con-cultivation|Cultivation Practices|مفهوم
+con-cultural-capital|Cultural Capital|مفهوم
+con-cultural-heritage|Cultural Heritage|مفهوم
+con-cultural-imperialism|Cultural Imperialism|مفهوم
+con-cultural-pluralism|Cultural Pluralism|مفهوم
+con-cultural-preservation|Cultural Preservation|مفهوم
+con-cultural-relativism-boas|Cultural Relativism|مدرسة
+con-cultural-resistance|Cultural Resistance|مفهوم
+con-culture-nature|Culture-Nature Distinction|مفهوم
+con-currency|Currency Systems|مفهوم
+con-curse|Curse|مفهوم
+con-custom|Custom: The Binding Force of What Is Done|مفهوم
+con-dance|Dance|مفهوم
+con-debt|Debt and Obligation|مفهوم
+con-decolonial-data-sovereignty|Decolonial Data Sovereignty|مفهوم
+con-democracy-direct|Direct Democracy|مفهوم
+con-democracy|Democracy|مفهوم
+con-descent-theory|Descent Theory|مفهوم
+con-descent|Descent|مفهوم
+con-diaspora|Diaspora: Dispersal, Memory, and Return|مفهوم
+con-disability-anthropology|Disability Anthropology|مدرسة
+con-divination|Divination|مفهوم
+con-division-labor|Division of Labor|مفهوم
+con-divorce|Divorce|مفهوم
+con-domestication|Domestication|مفهوم
+con-dowry|Dowry|مفهوم
+con-econ-anthropology-6|Social Capital|مفهوم
+con-ecstasy|Ecstasy|مفهوم
+con-endogamy|Endogamy|مفهوم
+con-epistemology|Epistemology|مفهوم
+con-equality|Equality|مفهوم
+con-ethnicity|Ethnicity: Shared Identity, Boundaries, and Belonging|مفهوم
+con-exchange|Exchange|مفهوم
+con-exogamy|Exogamy|مفهوم
+con-family|Family|مفهوم
+con-fishing|Fishing Practices|مفهوم
+con-fostering|Child Fostering|مفهوم
+con-gender-kinship-intersection|Gender-Kinship Intersection|مفهوم
+con-genocide|Genocide|مفهوم
+con-gift-economy|Gift Economy|مفهوم
+con-gift|Gift|مفهوم
+con-globalization|Globalization: Flows, Connections, and Uneven Worlds|مفهوم
+con-glocalization|Glocalization|مفهوم
+con-gossip|Gossip: Talk About Others and the Work It Does|مفهوم
+con-healing|Healing Practices|مفهوم
+con-hegemony|Hegemony: Rule by Consent as Well as Coercion|مفهوم
+con-herbalism|Herbalism|مفهوم
+con-herding|Pastoral Herding|مفهوم
+con-heritage|Heritage: The Past in the Present|مفهوم
+con-hierarchy|Hierarchy: The Ranking of Persons, Groups, and Things|مفهوم
+con-history-collective|Collective Memory|مفهوم
+con-homeland|Homeland: Territory, Memory, and Belonging|مفهوم
+con-homogeneous-heterogeneous|Homogeneous and Heterogeneous: Sameness, Difference, and Social Life|مفهوم
+con-honor|Honor|مفهوم
+con-hunting|Hunting Practices|مفهوم
+con-hybridity|Hybridity|مفهوم
+con-identity-construction|Identity Construction|مفهوم
+con-identity-politics|Identity Politics|مفهوم
+con-imperialism|Imperialism|مفهوم
+con-informal-economy|Informal Economy|مفهوم
+con-inheritance-property|Property Inheritance|مفهوم
+con-inheritance|Inheritance|مفهوم
+con-integration|Integration: Holding a Society Together|مفهوم
+con-justice|Justice|مفهوم
+con-kinship-political-economy|Kinship and Political Economy|مفهوم
+con-kinship-theory|Kinship Theory|مفهوم
+con-kinship-universals|Kinship Universals|مفهوم
+con-kinship|Kinship|مفهوم
+con-knowledge-systems|Indigenous Knowledge|مفهوم
+con-kula-exchange|Kula Exchange|مفهوم
+con-labor-division|Labor Specialization|مفهوم
+con-land-tenure|Land Tenure|مفهوم
+con-law|Law|مفهوم
+con-leadership|Leadership|مفهوم
+con-levirate|Levirate|مفهوم
+con-liberation|Liberation Movements|مفهوم
+con-liminality-communitas|Liminality & Communitas|مفهوم
+con-liminality|Liminality|مفهوم
+con-lineage-system|Lineage System|مفهوم
+con-lineage|Lineage|مفهوم
+con-localization|Localization|مفهوم
+con-magic-religion-frazer|Magic and Religion in Frazer|مفهوم
+con-magic|Magic|مفهوم
+con-mana|Mana|مفهوم
+con-marriage-rules|Marriage Rules|مفهوم
+con-material-agency|Material Agency|مفهوم
+con-matrilineal|Matrilineal|مفهوم
+con-matrimonial|Matrimonial Alliances|مفهوم
+con-matter-out-of-place-douglas|Matter Out of Place|مفهوم
+con-memory|Memory and History|مفهوم
+con-mestizaje|Mestizaje: Mixing, Race, and National Identity|مفهوم
+con-metalwork|Metalwork|مفهوم
+con-metaphor|Metaphor|مفهوم
+con-metonym|Metonym|مفهوم
+con-modernity|Modernity: The Condition of Being Modern|مفهوم
+con-moiety|Moiety|مفهوم
+con-moka-hagen-exchange|Moka Exchange|مفهوم
+con-monarchy|Monarchy|مفهوم
+con-monogamy|Monogamy|مفهوم
+con-monotheism|Monotheism|مفهوم
+con-multiculturalism|Multiculturalism|مفهوم
+con-music|Music|مفهوم
+con-myth|Myth|مفهوم
+con-narrative|Narrative|مفهوم
+con-nationalism|Nationalism: The Nation and the Claim to a State|مفهوم
+con-neocolonialism|Neocolonialism|مفهوم
+con-ontology|Ontology|مفهوم
+con-oracle|Oracle|مفهوم
+con-oral-tradition|Oral Tradition|مفهوم
+con-oratory|Oratory and Rhetoric|مفهوم
+con-othering|Othering|مفهوم
+con-patrilineal-descent|Patrilineal Descent|مفهوم
+con-patrilineal|Patrilineal|مفهوم
+con-peace-building|Peace Building|مفهوم
+con-peace|Peace|مفهوم
+con-performance|Performance|مفهوم
+con-phratry|Phratry|مفهوم
+con-poetry|Poetry|مفهوم
+con-polyandry|Polyandry|مفهوم
+con-polygyny|Polygyny|مفهوم
+con-polytheism|Polytheism|مفهوم
+con-postmarital-residence|Postmarital Residence: Where a New Couple Goes to Live|مفهوم
+con-postmodernity|Postmodernity|مفهوم
+con-potlatch|Potlatch|مفهوم
+con-pottery|Pottery|مفهوم
+con-practice-theory-anthropology|Practice Theory|مفهوم
+con-prayer|Prayer|مفهوم
+con-prestige|Prestige|مفهوم
+con-profane|The Profane: The Ordinary and the Non-Sacred|مفهوم
+con-property|Property|مفهوم
+con-protest|Protest: Collective Dissent and the Claim to Be Heard|مفهوم
+con-public-sphere|Public Sphere|مفهوم
+con-reciprocity|Reciprocity|مفهوم
+con-reconciliation|Reconciliation|مفهوم
+con-redistribution|Redistribution|مفهوم
+con-representation|Political Representation|مفهوم
+con-reputation|Reputation|مفهوم
+con-resistance-movements|Resistance Movements|مفهوم
+con-revolution|Revolution: The Overthrow of a Social Order|مفهوم
+con-rite-of-passage|Rites of Passage|مفهوم
+con-ritual|Ritual: Structured Action and Social Meaning|مفهوم
+con-sacred|The Sacred: Separation, Prohibition, and Transformation|مفهوم
+con-sacrifice|Sacrifice|مفهوم
+con-savings|Savings and Storage|مفهوم
+con-secret-societies|Secret Societies|مفهوم
+con-segmentary-lineage-system|Segmentary Lineage System|مفهوم
+con-segregation|Segregation|مفهوم
+con-sensory-anthropology|Sensory Anthropology|مدرسة
+con-shamanism|Shamanism: The Spirit Mediator and the Anthropology of Healing|مفهوم
+con-social-movements|Social Movements|مفهوم
+con-social-network|Social Networks|مفهوم
+con-social-reproduction|Social Reproduction|مفهوم
+con-sorcery|Sorcery|مفهوم
+con-sororate|Sororate|مفهوم
+con-spirit-possession|Spirit Possession|مفهوم
+con-state|State Formation|مفهوم
+con-structural-opposition|Structural Opposition|مفهوم
+con-structural-violence-definition|Structural Violence|مفهوم
+con-succession|Succession|مفهوم
+con-symbol|Symbol: Meaning, Condensation, and Representation|مفهوم
+con-syncretism|Syncretism|مفهوم
+con-taboo|Taboo|مفهوم
+con-theocracy|Theocracy|مفهوم
+con-thick-description-geertz|Thick Description|مفهوم
+con-tool|Tool Making|مفهوم
+con-totemism|Totemism: The Animal, the Plant, and the Social Order|مفهوم
+con-trade-networks|Trade Networks|مفهوم
+con-tradition-innovation|Tradition and Innovation: How the Old Is Remade into the New|مفهوم
+con-tradition|Tradition: The Transmission of the Past into the Present|مفهوم
+con-trance|Trance|مفهوم
+con-transnationalism|Transnationalism|مفهوم
+con-tribe|Tribe|مفهوم
+con-universal-particular|Universal vs Particular|مفهوم
+con-usufruct|Usufruct Rights|مفهوم
+con-violence|Violence: Direct, Structural, and Cultural Forms|مفهوم
+con-visual-art|Visual Art|مفهوم
+con-voting|Voting Systems|مفهوم
+con-war|War: Organized Violence Between Political Communities|مفهوم
+con-wealth|Wealth|مفهوم
+con-weaving|Weaving|مفهوم
+con-witchcraft|Witchcraft|مفهوم
+con-worldview|Worldview|مفهوم
+dam-displacement-anthropology|Dam Construction & Development-Induced Displacement|دراسة
+dbt-anthropology-militarization|Anthropology & Militarization|جدال
+dbt-care-work-value-capitalism-recognition|Care Work Value in Capitalism: Recognition vs. Devaluation|جدال
+dbt-development-anthropology-critique|Critique of Development Anthropology|جدال
+dbt-nature-culture-anthropology|Nature vs. Culture|جدل
+dbt-positionality-reflexivity-fieldwork|Positionality and Reflexivity in Ethnographic Fieldwork|جدل
+dbt-substantivism-formalism-economic-anthropology|The Substantivist–Formalist Debate in Economic Anthropology|جدل
+gain-of-function-ethics|Gain-of-Function Ethics Ethnography|دراسة
+sch-anthropological-political-economy|Anthropological Political Economy|مدرسة
+sch-applied-anthropology-development|Development Anthropology|مدرسة
+sch-applied-anthropology-expanded|Applied Anthropology|مدرسة
+sch-boasian-cultural-relativism|Boasian Cultural Relativism & Historical Particularism|مدرسة
+sch-british-functionalism|British Functionalism|مدرسة
+sch-classical-evolutionism|Classical Evolutionary Anthropology|مدرسة
+sch-cognitive-anthropology|Cognitive Anthropology & Ethnoscience|مدرسة
+sch-cultural-ecology|Cultural Ecology & Neo-Evolutionism|مدرسة
+sch-descent-theory|Descent Theory|مدرسة
+sch-digital-anthropology|Digital Anthropology|مدرسة
+sch-economic-anthropology-expanded|Economic Anthropology|مدرسة
+sch-ethnography-of-communication|Ethnography of Communication|مدرسة
+sch-feminist-anthropology|Feminist Anthropology|مدرسة
+sch-kinship-systems-comparative|Comparative Kinship Systems|مدرسة
+sch-linguistic-anthropology-expanded|Linguistic Anthropology|مدرسة
+sch-malinowskian-functionalism|Malinowskian Functionalism & Participant Observation|مدرسة
+sch-manchester-school|Manchester School of Anthropology|مدرسة
+sch-medical-anthropology|Medical Anthropology|مدرسة
+sch-ontological-turn|The Ontological Turn in Anthropology|مدرسة
+sch-postcolonial-critique-anthropology|Postcolonial Critique of Anthropology|مدرسة
+sch-psychological-anthropology|Psychological Anthropology|مدرسة
+sch-queer-anthropology|Queer Anthropology|مدرسة
+sch-radcliffe-brown-structural-functionalism|Radcliffe-Brownian Structural Functionalism|مدرسة
+sch-structural-violence-health|Structural Violence & Health|مدرسة
+sch-urban-anthropology-expanded|Urban Anthropology|مدرسة
+sch-writing-culture-crisis|Writing Culture & the Crisis of Representation|مدرسة
+scl-aging-anthropology|Anthropology of Aging|مدرسة
+scl-archaeology-anthropology|Archaeology & Anthropology|مدرسة
+scl-biocultural-anthropology|Biocultural Anthropology|مدرسة
+scl-childhood-anthropology|Childhood Anthropology|مدرسة
+scl-cognitive-anthropology|Cognitive Anthropology|مدرسة
+scl-colonial-anthropology|Colonial Anthropology|مدرسة
+scl-ecological-anthropology|Ecological Anthropology|مدرسة
+scl-education-anthropology|Educational Anthropology|مدرسة
+scl-environmental-anthropology|Environmental Anthropology|مدرسة
+scl-ethnoarchaeology|Ethnoarchaeology|مدرسة
+scl-ethnoastronomy|Ethnoastronomy|مدرسة
+scl-ethnobiology|Ethnobiology|مدرسة
+scl-ethnobotany|Ethnobotany|مدرسة
+scl-ethnoecology|Ethnoecology|مدرسة
+scl-ethnomedicine|Ethnomedicine|مدرسة
+scl-foodways-anthropology|Foodways Anthropology|مدرسة
+scl-forensic-anthropology|Forensic Anthropology|مدرسة
+scl-historical-anthropology|Historical Anthropology|مدرسة
+scl-indigenous-anthropology|Indigenous Anthropology|مدرسة
+scl-internet-anthropology|Internet Anthropology|مدرسة
+scl-kinship-anthropology|Kinship Studies|مدرسة
+scl-maritime-anthropology|Maritime Anthropology|مدرسة
+scl-media-anthropology|Media Anthropology|مدرسة
+scl-migration-anthropology|Migration Anthropology|مدرسة
+scl-postcolonial-anthropology|Postcolonial Anthropology|مدرسة
+scl-postmodern-anthropology|Postmodern Anthropology|مدرسة
+scl-religious-anthropology|Religious Anthropology|مدرسة
+scl-sports-anthropology|Sports Anthropology|مدرسة
+scl-structural-anthropology|Structural Anthropology|مدرسة
+scl-tourism-anthropology|Tourism Anthropology|مدرسة
+scl-visual-anthropology|Visual Anthropology|مدرسة
+stu-african-initiation-rituals|African Initiation Rituals and Life Transitions|دراسة
+stu-african-political-systems|African Political Systems|دراسة
+stu-argonauts-western-pacific|Argonauts of the Western Pacific|دراسة
+stu-asad-morocco-fieldwork|Asad's Moroccan Fieldwork and Reflexive Anthropology|دراسة
+stu-balinese-theater-geertz|Balinese Theater and Aesthetic Performance|دراسة
+stu-boas-ethnographic-methods|Boas's Ethnographic Methods and Fieldwork Practice|دراسة
+stu-dumont-south-asian-kinship|South Asian Kinship and Hierarchy|دراسة
+stu-evans-pritchard-azande-witchcraft|Witchcraft Among the Azande|دراسة
+stu-evans-pritchard-the-nuer|The Nuer: A Description of the Modes of Livelihood and Political Institutions of a Nilotic People|عمل / كتاب
+stu-fortes-tallensi-descent|Tallensi Descent and Social Organization|دراسة
+stu-geertz-balinese-cockfight|Deep Play: Notes on the Balinese Cockfight|عمل / كتاب
+stu-indigenous-community-based-research|Indigenous Community-Based Research|دراسة
+stu-interpretation-of-cultures-geertz|The Interpretation of Cultures|دراسة
+stu-labor-migration-ethnography|Labor Migration Ethnographies|دراسة
+stu-leach-kachin-kinship|Kachin Kinship and Political Organization|دراسة
+stu-leach-political-systems-highlands-burma|Political Systems of Highland Burma: A Study of Kachin Social Structure|عمل / كتاب
+stu-malinowski-kula-ring-exchange|Argonauts of the Western Pacific: The Kula Ring|دراسة وبحث
+stu-melanesian-cosmology|Melanesian Cosmology and Exchange|دراسة
+stu-moka-exchange-strathern|Moka Exchange Among Mount Hagen Peoples|دراسة
+stu-nuer-evans-pritchard|The Nuer|دراسة
+stu-ochs-samoan-language-socialization|Language Socialization in Samoa|دراسة وبحث
+stu-potlatch-kwakwakawakw|Potlatch Among Northwest Coast Peoples|دراسة
+stu-ritual-process-turner|The Ritual Process|دراسة
+stu-samoan-kinship-mead|Samoan Kinship and Adolescence|دراسة
+stu-strathern-hagen-ceremonial-exchange|Hagen Ceremonial Exchange: Women and Men in Melanesia|دراسة وبحث
+stu-thai-market-ethnography|Thai Market Ethnography|دراسة
+stu-thai-spirit-possession|Thai Spirit Possession and Cosmology|دراسة
+stu-tonga-kinship-gifford|Tongan Kinship and Social Hierarchy|دراسة
+stu-turner-schism-continuity|Schism and Continuity in an African Society|عمل / كتاب
+stu-why-we-post-miller|Why We Post|دراسة وبحث
+stu-yanomami-ethnography-chagnon|Yanomami Ethnography and Fieldwork|دراسة
+thk-abdalla-salem|Abdalla M. Salem|مفكر
+thk-aihwa-ong|Aihwa Ong|مفكر
+thk-akira-fujii|Akira Fujii|مفكر
+thk-alessandro-duranti|Alessandro Duranti|مفكر
+thk-alfred-gell|Alfred Gell|مفكر
+thk-alfred-kroeber|Alfred L. Kroeber|مفكر
+thk-anna-tsing|Anna Lowenhaupt Tsing|مفكر
+thk-appadurai|Arjun Appadurai: Ethnography of Globalization and the Circulation of Culture|مفكر
+thk-arnold-van-gennep|Arnold van Gennep: Rites of Passage and Liminality|مفكر
+thk-arthur-kleinman|Arthur Kleinman|مفكر
+thk-audrey-richards|Audrey Richards|مفكر
+thk-barbara-myerhoff|Barbara Myerhoff: Ritual, Aging, and Self-Creation|مفكر
+thk-becker|Ernest Becker|مفكر
+thk-biersack|Aletta Biersack: Ritual, History, and Melanesian Transformation|مفكر
+thk-bronislaw-malinowski|Bronisław Malinowski|مفكر
+thk-claude-levi-strauss|Claude Lévi-Strauss: Structural Anthropology and Mythological Analysis|مفكر
+thk-clifford-geertz|Clifford Geertz: Interpretive Anthropology and Thick Description|مفكر
+thk-david-schneider|David Schneider|مفكر
+thk-deepak-mehta|Deepak Mehta|مفكر
+thk-dell-hymes|Dell Hymes|مفكر
+thk-edmund-leach|Edmund Leach: Ritual as Language and Structural Symbolism|مفكر
+thk-eduardo-viveiros-de-castro|Eduardo Viveiros de Castro|مفكر
+thk-edward-sapir|Edward Sapir|مفكر
+thk-edward-tylor|Edward Burnett Tylor|مفكر
+thk-elinor-ochs|Elinor Ochs|مفكر
+thk-elizabeth-A-povinelli|Elizabeth A. Povinelli|مفكر
+thk-eric-wolf|Eric Wolf|مفكر
+thk-evans-pritchard|E.E. Evans-Pritchard: Segmentary Systems and Nuer Ethnography|مفكر
+thk-fei-xiaotong|Fei Xiaotong|مفكر
+thk-franz-boas|Franz Boas: Founder of American Anthropology and Cultural Relativism|مفكر
+thk-franz-steiner|Franz Steiner|مفكر
+thk-fredrik-barth|Fredrik Barth|مفكر
+thk-gbateson|Gregory Bateson|مفكر
+thk-george-marcus|George Marcus: Multi-Sited Ethnography and Experimental Forms|مفكر
+thk-graeber|David Graeber|مفكر
+thk-haraway|Donna Haraway: Situated Knowledge, Cyborgs, and Response-Ability|مفكر
+thk-henrietta-moore|Henrietta Moore|مفكر
+thk-hortense-powdermaker|Hortense Powdermaker|مفكر
+thk-isak-dinesen|Isak Dinesen|مفكر
+thk-james-clifford|James Clifford: Ethnographic Authority and the Politics of Representation|مفكر
+thk-james-frazer|James George Frazer|مفكر
+thk-jean-john-comaroff|Jean Comaroff & John Comaroff|مفكر
+thk-jomo-kenyatta|Jomo Kenyatta|مفكر
+thk-julian-steward|Julian Steward|مفكر
+thk-karen-ho|Karen Ho|مفكر
+thk-kwame-appiah|Kwame Anthony Appiah|مفكر
+thk-latour|Bruno Latour: Actor-Network Theory and the Anthropology of Science and Technology|مفكر
+thk-laura-bohannan|Laura Bohannan|مفكر
+thk-leacock|Eleanor Leacock|مفكر
+thk-lewis-henry-morgan|Lewis Henry Morgan|مفكر
+thk-lila-abu-lughod|Lila Abu-Lughod|مفكر
+thk-lindatuhiwai|Linda Tuhiwai Smith: Decolonizing Methodologies and Indigenous Research|مفكر
+thk-lucy-mair|Lucy Mair|مفكر
+thk-malinowski|Bronislaw Malinowski: Founder of Modern Ethnographic Fieldwork|مفكر
+thk-marcel-mauss|Marcel Mauss|مفكر
+thk-margaret-mead|Margaret Mead|مفكر
+thk-marilyn-strathern|Marilyn Strathern|مفكر
+thk-marshall-sahlins|Marshall Sahlins|مفكر
+thk-marvin-harris|Marvin Harris|مفكر
+thk-mary-douglas|Mary Douglas: Purity, Danger, and Categorical Thought|مفكر
+thk-max-gluckman|Max Gluckman: Ritual, Conflict, and Social Drama|مفكر
+thk-meyer-fortes|Meyer Fortes|مفكر
+thk-ming-ming-kuo|Ming-ming Kuo|مفكر
+thk-nancy-scheper-hughes|Nancy Scheper-Hughes|مفكر
+thk-paul-bohannan|Paul Bohannan|مفكر
+thk-paul-farmer|Paul Farmer|مفكر
+thk-paul-rabinow|Paul Rabinow: Reflexive Anthropology, Ethics, and the Study of Human Practices|مفكر
+thk-philippe-bourgois|Philippe Bourgois|مفكر
+thk-radcliffe-brown|A.R. Radcliffe-Brown: Structural Functionalism and Comparative Method|مفكر
+thk-robert-lowie|Robert H. Lowie|مفكر
+thk-roberto-damatta|Roberto DaMatta|مفكر
+thk-roger-bastide|Roger Bastide|مفكر
+thk-ruth-benedict|Ruth Benedict|مفكر
+thk-sergio-carrasco|Sergio Carrasco|مفكر
+thk-sherry-ortner|Sherry Ortner: Practice Theory and Ritual Agency|مفكر
+thk-shulamit-reinharz|Shulamit Reinharz|مفكر
+thk-stathis-gourgouris|Stathis Gourgouris|مفكر
+thk-talal-asad|Talal Asad|مفكر
+thk-terence-turner|Terence Turner|مفكر
+thk-ulf-hannersson|Ulf Hannerz|مفكر
+thk-victor-turner|Victor Turner: Ritual, Symbol, and Social Drama|مفكر
+thk-ward-goodenough|Ward Goodenough|مفكر
+thk-william-rivers|William H. R. Rivers|مفكر
+thk-zora-neale-hurston|Zora Neale Hurston|مفكر
+wrk-african-political-systems-fortes-evans-pritchard|African Political Systems|عمل / كتاب
+wrk-anthropology-now|Tell My Horse: Voodoo and Life in Haiti and Jamaica|عمل / كتاب
+wrk-argonauts-western-pacific-malinowski|Argonauts of the Western Pacific|عمل / كتاب
+wrk-coming-of-age-samoa-mead|Coming of Age in Samoa: A Psychological Study of Primitive Youth for Western Civilisation|عمل / كتاب
+wrk-crime-custom-savage-society-malinowski|Crime and Custom in Savage Society|عمل / كتاب
+wrk-cultural-critique|Writing Culture: The Poetics and Politics of Ethnography|عمل / كتاب
+wrk-debt-first-5000-years-graeber|Debt: The First 5000 Years|عمل / كتاب
+wrk-elementary-structures|The Elementary Structures of Kinship|عمل / كتاب
+wrk-empire|Empire of Time: Calendars, Clocks and Cultures|عمل / كتاب
+wrk-ethnographic-fieldwork|Ethnographic Fieldwork: Anthropological Locations|عمل / كتاب
+wrk-forest-of-symbols-turner|The Forest of Symbols: Aspects of Ndembu Ritual|عمل / كتاب
+wrk-forest-symbols|The Ritual Process: Structure and Anti-Structure|عمل / كتاب
+wrk-gender-of-the-gift-strathern|The Gender of the Gift: Problems with Women and Problems with Society in Melanesia|عمل / كتاب
+wrk-genealogies-of-religion-asad|Genealogies of Religion|عمل / كتاب
+wrk-hawaiian-kinship|Kinship Systems of Polynesia|عمل / كتاب
+wrk-interpretation-of-cultures-geertz|The Interpretation of Cultures: Selected Essays|عمل / كتاب
+wrk-kinship-and-marriage|Kinship and Marriage: An Anthropological Perspective|عمل / كتاب
+wrk-kinship-village|Kinship in the Village: F. G. Bailey's Study of Bisipara|عمل / كتاب
+wrk-kung-bushmen|The !Kung San: Men, Women, and Work in a Foraging Society|عمل / كتاب
+wrk-language-thought-reality-whorf|Language, Thought, and Reality|عمل / كتاب
+wrk-mind-of-primitive-man-boas|The Mind of Primitive Man|عمل / كتاب
+wrk-nanook-of-the-north-flaherty|Nanook of the North|عمل / كتاب
+wrk-negara|Negara: The Theatre State in Nineteenth-Century Bali|عمل / كتاب
+wrk-patterns-of-culture-benedict|Patterns of Culture|عمل / كتاب
+wrk-precariat-standing|The Precariat: The New Dangerous Class|عمل / كتاب
+wrk-primitive-culture-tylor|Primitive Culture|عمل / كتاب
+wrk-primitive-society|The Raw and the Cooked|عمل / كتاب
+wrk-purity-and-danger-douglas|Purity and Danger|عمل / كتاب
+wrk-residence-kinship|Residence Rules and Kinship Terminology|عمل / كتاب
+wrk-ritual-process-turner|The Ritual Process: Structure and Anti-Structure|عمل
+wrk-savage-mind|The Savage Mind|عمل / كتاب
+wrk-sexual-life|The Sexual Life of Savages|عمل / كتاب
+wrk-structure-function-primitive-society-radcliffe-brown|Structure and Function in Primitive Society|عمل / كتاب
+wrk-the-gift|The Gift: Forms and Functions of Exchange in Archaic Societies|عمل / كتاب
+wrk-tiwi-wives|The Tiwi of North Australia|عمل / كتاب
+wrk-tiwi|The Tiwi of North Australia|عمل / كتاب
+wrk-totemism|Totemism|عمل / كتاب
+wrk-tristes-tropiques|Tristes Tropiques|عمل / كتاب
+wrk-urban-culture|Urban Culture: Studies of Urban Community|عمل / كتاب
+wrk-womans-evolution|Woman's Evolution|عمل / كتاب
+wrk-works-lives|Works and Lives: The Anthropologist as Author|عمل / كتاب

@@ -1,0 +1,10 @@
+fld-philosophy|content/en/fields/fld-philosophy.md|Philosophy|Module root: what philosophy is, its main branches, traditions covered, how the atlas is organised, reading path
+fld-logic|content/en/fields/fld-logic.md|Logic|deductive/inductive reasoning, validity vs soundness, formal logic, fallacies, non-classical logics, history (Aristotle to Frege to Godel), limits
+fld-epistemology|content/en/fields/fld-epistemology.md|Epistemology|knowledge, justified true belief and Gettier, rationalism/empiricism, skepticism, internalism/externalism, social epistemology
+fld-metaphysics|content/en/fields/fld-metaphysics.md|Metaphysics|being, substance, universals, causation, time, modality, personal identity, free will; debates
+fld-philosophy-of-mind|content/en/fields/fld-philosophy-of-mind.md|Philosophy of Mind|dualism, physicalism, functionalism, consciousness, intentionality, personal identity, AI
+fld-philosophy-of-language|content/en/fields/fld-philosophy-of-language.md|Philosophy of Language|meaning, reference, speech acts, Frege, Wittgenstein, Kripke, pragmatics
+fld-philosophy-of-science|content/en/fields/fld-philosophy-of-science.md|Philosophy of Science|demarcation, induction, falsification, paradigms, realism vs anti-realism, explanation
+fld-political-philosophy|content/en/fields/fld-political-philosophy.md|Political Philosophy|legitimacy, justice, liberty, social contract, major traditions
+fld-aesthetics|content/en/fields/fld-aesthetics.md|Aesthetics|beauty, the sublime, art, taste, major theories (Plato, Kant, Hume), debates
+fld-ethics-overview|content/en/fields/fld-ethics-overview.md|Ethics (Overview)|normative, meta and applied ethics; virtue, duty, consequences; pointer to the Ethics module; why it sits beside philosophy

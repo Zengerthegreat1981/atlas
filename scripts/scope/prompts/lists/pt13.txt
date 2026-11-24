@@ -1,0 +1,12 @@
+sch-cross-cultural-psychology|content/ar/schools/sch-cross-cultural-psychology.md|content/en/schools/sch-cross-cultural-psychology.md
+sch-emdr|content/ar/schools/sch-emdr.md|content/en/schools/sch-emdr.md
+thk-bion|content/ar/thinkers/thk-bion.md|content/en/thinkers/thk-bion.md
+thk-beck|content/ar/thinkers/thk-beck.md|content/en/thinkers/thk-beck.md
+thk-lstevenhayes|content/ar/thinkers/thk-lstevenhayes.md|content/en/thinkers/thk-lstevenhayes.md
+con-unconscious|content/ar/concepts/con-unconscious.md|content/en/concepts/con-unconscious.md
+con-self-actualization|content/ar/concepts/con-self-actualization.md|content/en/concepts/con-self-actualization.md
+con-diagnostic-reliability|content/ar/concepts/con-diagnostic-reliability.md|content/en/concepts/con-diagnostic-reliability.md
+stu-rosenhan-on-being-sane|content/ar/studies/stu-rosenhan-on-being-sane.md|content/en/studies/stu-rosenhan-on-being-sane.md
+stu-lorenz-imprinting|content/ar/studies/stu-lorenz-imprinting.md|content/en/studies/stu-lorenz-imprinting.md
+dis-schizophrenia|content/ar/disorders/dis-schizophrenia.md|content/en/disorders/dis-schizophrenia.md
+wrk-beck-cognitive-therapy-depression|content/ar/works/wrk-beck-cognitive-therapy-depression.md|content/en/works/wrk-beck-cognitive-therapy-depression.md

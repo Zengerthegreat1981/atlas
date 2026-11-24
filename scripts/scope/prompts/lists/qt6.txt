@@ -1,0 +1,16 @@
+thk-cialdini|content/ar/thinkers/thk-cialdini.md|content/en/thinkers/thk-cialdini.md
+thk-gendlin|content/ar/thinkers/thk-gendlin.md|content/en/thinkers/thk-gendlin.md
+con-archetype|content/ar/concepts/con-archetype.md|content/en/concepts/con-archetype.md
+con-operant-conditioning|content/ar/concepts/con-operant-conditioning.md|content/en/concepts/con-operant-conditioning.md
+con-flow|content/ar/concepts/con-flow.md|content/en/concepts/con-flow.md
+con-felt-sense|content/ar/concepts/con-felt-sense.md|content/en/concepts/con-felt-sense.md
+con-hypnotic-trance|content/ar/concepts/con-hypnotic-trance.md|content/en/concepts/con-hypnotic-trance.md
+stu-miller-magical-number-seven|content/ar/studies/stu-miller-magical-number-seven.md|content/en/studies/stu-miller-magical-number-seven.md
+stu-seligman-maier-learned-helplessness|content/ar/studies/stu-seligman-maier-learned-helplessness.md|content/en/studies/stu-seligman-maier-learned-helplessness.md
+stu-werner-kauai-resilience|content/ar/studies/stu-werner-kauai-resilience.md|content/en/studies/stu-werner-kauai-resilience.md
+stu-wertheimer-gestalt|content/ar/studies/stu-wertheimer-gestalt.md|content/en/studies/stu-wertheimer-gestalt.md
+ins-stanford-binet|content/ar/instruments/ins-stanford-binet.md|content/en/instruments/ins-stanford-binet.md
+dbt-nature-vs-nurture-intelligence-personality|content/ar/debates/dbt-nature-vs-nurture-intelligence-personality.md|content/en/debates/dbt-nature-vs-nurture-intelligence-personality.md
+dis-autism-spectrum|content/ar/disorders/dis-autism-spectrum.md|content/en/disorders/dis-autism-spectrum.md
+dis-dissociative-amnesia|content/ar/disorders/dis-dissociative-amnesia.md|content/en/disorders/dis-dissociative-amnesia.md
+wrk-flow-csikszentmihalyi|content/ar/works/wrk-flow-csikszentmihalyi.md|content/en/works/wrk-flow-csikszentmihalyi.md

@@ -1,0 +1,12 @@
+sch-analytical-psychology|content/ar/schools/sch-analytical-psychology.md|content/en/schools/sch-analytical-psychology.md
+sch-transpersonal|content/ar/schools/sch-transpersonal.md|content/en/schools/sch-transpersonal.md
+sch-gestalt-therapy|content/ar/schools/sch-gestalt-therapy.md|content/en/schools/sch-gestalt-therapy.md
+thk-erikson|content/ar/thinkers/thk-erikson.md|content/en/thinkers/thk-erikson.md
+thk-csikszentmihalyi|content/ar/thinkers/thk-csikszentmihalyi.md|content/en/thinkers/thk-csikszentmihalyi.md
+thk-panksepp|content/ar/thinkers/thk-panksepp.md|content/en/thinkers/thk-panksepp.md
+con-complex|content/ar/concepts/con-complex.md|content/en/concepts/con-complex.md
+con-loss-aversion|content/ar/concepts/con-loss-aversion.md|content/en/concepts/con-loss-aversion.md
+stu-milgram-obedience|content/ar/studies/stu-milgram-obedience.md|content/en/studies/stu-milgram-obedience.md
+stu-kohlberg-moral-development|content/ar/studies/stu-kohlberg-moral-development.md|content/en/studies/stu-kohlberg-moral-development.md
+ins-wisc|content/ar/instruments/ins-wisc.md|content/en/instruments/ins-wisc.md
+dis-social-anxiety-disorder|content/ar/disorders/dis-social-anxiety-disorder.md|content/en/disorders/dis-social-anxiety-disorder.md

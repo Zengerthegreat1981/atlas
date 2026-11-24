@@ -1,0 +1,17 @@
+sch-sophistry|content/ar/schools/sch-sophistry.md|content/en/schools/sch-sophistry.md
+sch-humeanism|content/ar/schools/sch-humeanism.md|content/en/schools/sch-humeanism.md
+sch-vienna-circle|content/ar/schools/sch-vienna-circle.md|content/en/schools/sch-vienna-circle.md
+sch-islamic-peripatetic|content/ar/schools/sch-islamic-peripatetic.md|content/en/schools/sch-islamic-peripatetic.md
+sch-yogacara|content/ar/schools/sch-yogacara.md|content/en/schools/sch-yogacara.md
+sch-zoroastrian-philosophy|content/ar/schools/sch-zoroastrian-philosophy.md|content/en/schools/sch-zoroastrian-philosophy.md
+thk-al-farabi|content/ar/thinkers/thk-al-farabi.md|content/en/thinkers/thk-al-farabi.md
+thk-confucius|content/ar/_merged/thk-confucius.md|content/en/_merged/thk-confucius.md
+thk-voltaire|content/ar/thinkers/thk-voltaire.md|content/en/thinkers/thk-voltaire.md
+thk-gfrege|content/ar/thinkers/thk-gfrege.md|content/en/thinkers/thk-gfrege.md
+thk-nozick|content/ar/thinkers/thk-nozick.md|content/en/thinkers/thk-nozick.md
+thk-arne-naess|content/ar/_merged/thk-arne-naess.md|content/en/_merged/thk-arne-naess.md
+con-universals-debate|content/ar/concepts/con-universals-debate.md|content/en/concepts/con-universals-debate.md
+con-atman-brahman-vedanta|content/ar/concepts/con-atman-brahman-vedanta.md|content/en/concepts/con-atman-brahman-vedanta.md
+wrk-nicomachean-ethics|content/ar/works/wrk-nicomachean-ethics.md|content/en/works/wrk-nicomachean-ethics.md
+wrk-daodejing|content/ar/works/wrk-daodejing.md|content/en/works/wrk-daodejing.md
+dbt-free-will-vs-determinism|content/ar/debates/dbt-free-will-vs-determinism.md|content/en/debates/dbt-free-will-vs-determinism.md

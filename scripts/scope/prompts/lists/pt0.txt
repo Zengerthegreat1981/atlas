@@ -1,0 +1,12 @@
+sch-psychoanalysis|content/ar/schools/sch-psychoanalysis.md|content/en/schools/sch-psychoanalysis.md
+sch-existential-therapy|content/ar/schools/sch-existential-therapy.md|content/en/schools/sch-existential-therapy.md
+sch-systemic-family|content/ar/schools/sch-systemic-family.md|content/en/schools/sch-systemic-family.md
+thk-sullivan|content/ar/thinkers/thk-sullivan.md|content/en/thinkers/thk-sullivan.md
+thk-mseligman|content/ar/thinkers/thk-mseligman.md|content/en/thinkers/thk-mseligman.md
+thk-damasio|content/ar/thinkers/thk-damasio.md|content/en/thinkers/thk-damasio.md
+con-collective-unconscious|content/ar/concepts/con-collective-unconscious.md|content/en/concepts/con-collective-unconscious.md
+con-flow|content/ar/concepts/con-flow.md|content/en/concepts/con-flow.md
+stu-asch-conformity|content/ar/studies/stu-asch-conformity.md|content/en/studies/stu-asch-conformity.md
+stu-darley-latane-bystander|content/ar/studies/stu-darley-latane-bystander.md|content/en/studies/stu-darley-latane-bystander.md
+ins-wais|content/ar/instruments/ins-wais.md|content/en/instruments/ins-wais.md
+dis-autism-spectrum|content/ar/disorders/dis-autism-spectrum.md|content/en/disorders/dis-autism-spectrum.md

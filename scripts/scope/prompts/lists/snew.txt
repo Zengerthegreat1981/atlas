@@ -1,0 +1,4 @@
+fld-sociology|content/en/fields/fld-sociology.md|Sociology|Module root: what sociology is, main subfields and paradigms (functionalism, conflict, interactionism), methods, how the atlas is organised, reading paths
+fld-sociological-theory|content/en/fields/fld-sociological-theory.md|Sociological Theory|classical (Marx, Durkheim, Weber, Simmel), mid-century (Parsons, Merton, Mills), interactionism, critical theory, structuration, field theory, current debates
+fld-sociological-methods|content/en/fields/fld-sociological-methods.md|Sociological Methods|survey research, experiments, ethnography, interviews, comparative-historical, network analysis, measurement, causal inference, ethics, limits
+fld-social-stratification|content/en/fields/fld-social-stratification.md|Social Stratification and Inequality|class, status, mobility, race, gender, intersectionality, measurement, major theories and debates

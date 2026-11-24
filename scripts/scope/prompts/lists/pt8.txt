@@ -1,0 +1,12 @@
+sch-biological-neuro|content/ar/schools/sch-biological-neuro.md|content/en/schools/sch-biological-neuro.md
+br-radical-behaviorism|content/ar/branches/br-radical-behaviorism.md|content/en/branches/br-radical-behaviorism.md
+thk-freud|content/ar/thinkers/thk-freud.md|content/en/thinkers/thk-freud.md
+thk-piaget|content/ar/thinkers/thk-piaget.md|content/en/thinkers/thk-piaget.md
+thk-cialdini|content/ar/thinkers/thk-cialdini.md|content/en/thinkers/thk-cialdini.md
+thk-mwhite|content/ar/thinkers/thk-mwhite.md|content/en/thinkers/thk-mwhite.md
+con-cognitive-dissonance|content/ar/concepts/con-cognitive-dissonance.md|content/en/concepts/con-cognitive-dissonance.md
+con-intersubjectivity|content/ar/concepts/con-intersubjectivity.md|content/en/concepts/con-intersubjectivity.md
+stu-kahneman-tversky-prospect-theory|content/ar/studies/stu-kahneman-tversky-prospect-theory.md|content/en/studies/stu-kahneman-tversky-prospect-theory.md
+stu-wundt-leipzig-1879|content/ar/studies/stu-wundt-leipzig-1879.md|content/en/studies/stu-wundt-leipzig-1879.md
+ins-eysenck-epq|content/ar/instruments/ins-eysenck-epq.md|content/en/instruments/ins-eysenck-epq.md
+classification-dsm-5-tr|content/ar/disorders/classification-dsm-5-tr.md|content/en/disorders/classification-dsm-5-tr.md

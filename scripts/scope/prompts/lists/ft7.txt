@@ -1,0 +1,17 @@
+sch-neoplatonism|content/ar/schools/sch-neoplatonism.md|content/en/schools/sch-neoplatonism.md
+sch-enlightenment|content/ar/schools/sch-enlightenment.md|content/en/schools/sch-enlightenment.md
+sch-logical-atomism|content/ar/schools/sch-logical-atomism.md|content/en/schools/sch-logical-atomism.md
+sch-ashariyya|content/ar/schools/sch-ashariyya.md|content/en/schools/sch-ashariyya.md
+sch-charvaka|content/ar/schools/sch-charvaka.md|content/en/schools/sch-charvaka.md
+thk-socrates|content/ar/_merged/thk-socrates.md|content/en/_merged/thk-socrates.md
+thk-al-kindi|content/ar/thinkers/thk-al-kindi.md|content/en/thinkers/thk-al-kindi.md
+thk-mencius|content/ar/thinkers/thk-mencius.md|content/en/thinkers/thk-mencius.md
+thk-kant|content/ar/thinkers/thk-kant.md|content/en/thinkers/thk-kant.md
+thk-bertrand-russell|content/ar/thinkers/thk-bertrand-russell.md|content/en/thinkers/thk-bertrand-russell.md
+thk-macintyre|content/ar/thinkers/thk-macintyre.md|content/en/thinkers/thk-macintyre.md
+thk-biko|content/ar/thinkers/thk-biko.md|content/en/thinkers/thk-biko.md
+con-hylomorphism|content/ar/concepts/con-hylomorphism.md|content/en/concepts/con-hylomorphism.md
+con-maya-vedanta|content/ar/concepts/con-maya-vedanta.md|content/en/concepts/con-maya-vedanta.md
+wrk-metaphysics-aristotle|content/ar/works/wrk-metaphysics-aristotle.md|content/en/works/wrk-metaphysics-aristotle.md
+wrk-lunyu|content/ar/works/wrk-lunyu.md|content/en/works/wrk-lunyu.md
+dbt-realism-vs-nominalism|content/ar/debates/dbt-realism-vs-nominalism.md|content/en/debates/dbt-realism-vs-nominalism.md

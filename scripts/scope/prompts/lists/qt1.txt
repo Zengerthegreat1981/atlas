@@ -1,0 +1,17 @@
+thk-jwatson|content/ar/thinkers/thk-jwatson.md|content/en/thinkers/thk-jwatson.md
+thk-mbowen|content/ar/thinkers/thk-mbowen.md|content/en/thinkers/thk-mbowen.md
+thk-ectolman|content/ar/thinkers/thk-ectolman.md|content/en/thinkers/thk-ectolman.md
+con-complex|content/ar/concepts/con-complex.md|content/en/concepts/con-complex.md
+con-latent-learning|content/ar/concepts/con-latent-learning.md|content/en/concepts/con-latent-learning.md
+con-fundamental-attribution-error|content/ar/concepts/con-fundamental-attribution-error.md|content/en/concepts/con-fundamental-attribution-error.md
+con-emotional-intelligence|content/ar/concepts/con-emotional-intelligence.md|content/en/concepts/con-emotional-intelligence.md
+stu-milgram-obedience|content/ar/studies/stu-milgram-obedience.md|content/en/studies/stu-milgram-obedience.md
+stu-kahneman-tversky-heuristics-biases|content/ar/studies/stu-kahneman-tversky-heuristics-biases.md|content/en/studies/stu-kahneman-tversky-heuristics-biases.md
+stu-ainsworth-strange-situation|content/ar/studies/stu-ainsworth-strange-situation.md|content/en/studies/stu-ainsworth-strange-situation.md
+stu-harvard-adult-development|content/ar/studies/stu-harvard-adult-development.md|content/en/studies/stu-harvard-adult-development.md
+ins-bdi-ii|content/ar/instruments/ins-bdi-ii.md|content/en/instruments/ins-bdi-ii.md
+ins-scid-5|content/ar/instruments/ins-scid-5.md|content/en/instruments/ins-scid-5.md
+dis-bpd|content/ar/disorders/dis-bpd.md|content/en/disorders/dis-bpd.md
+dis-major-neurocognitive|content/ar/disorders/dis-major-neurocognitive.md|content/en/disorders/dis-major-neurocognitive.md
+classification-icd-11|content/ar/disorders/classification-icd-11.md|content/en/disorders/classification-icd-11.md
+wrk-hayes-acceptance-commitment-therapy|content/ar/works/wrk-hayes-acceptance-commitment-therapy.md|content/en/works/wrk-hayes-acceptance-commitment-therapy.md

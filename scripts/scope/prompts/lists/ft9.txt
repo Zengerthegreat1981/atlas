@@ -1,0 +1,17 @@
+sch-scholasticism|content/ar/schools/sch-scholasticism.md|content/en/schools/sch-scholasticism.md
+sch-german-idealism|content/ar/schools/sch-german-idealism.md|content/en/schools/sch-german-idealism.md
+sch-phil-mind-analytic|content/ar/schools/sch-phil-mind-analytic.md|content/en/schools/sch-phil-mind-analytic.md
+sch-ishraqiyya|content/ar/schools/sch-ishraqiyya.md|content/en/schools/sch-ishraqiyya.md
+sch-daoism-philosophical|content/ar/schools/sch-daoism-philosophical.md|content/en/schools/sch-daoism-philosophical.md
+thk-aristotle|content/ar/_merged/thk-aristotle.md|content/en/_merged/thk-aristotle.md
+thk-ibn-rushd|content/ar/thinkers/thk-ibn-rushd.md|content/en/thinkers/thk-ibn-rushd.md
+thk-laozi|content/ar/thinkers/thk-laozi.md|content/en/thinkers/thk-laozi.md
+thk-schelling|content/ar/thinkers/thk-schelling.md|content/en/thinkers/thk-schelling.md
+thk-rcarnap|content/ar/thinkers/thk-rcarnap.md|content/en/thinkers/thk-rcarnap.md
+thk-rorty|content/ar/thinkers/thk-rorty.md|content/en/thinkers/thk-rorty.md
+con-intentionality|content/ar/concepts/con-intentionality.md|content/en/concepts/con-intentionality.md
+con-will-to-power|content/ar/concepts/con-will-to-power.md|content/en/concepts/con-will-to-power.md
+con-nirvana-extinction|content/ar/concepts/con-nirvana-extinction.md|content/en/concepts/con-nirvana-extinction.md
+wrk-critique-of-pure-reason-kant|content/ar/works/wrk-critique-of-pure-reason-kant.md|content/en/works/wrk-critique-of-pure-reason-kant.md
+wrk-al-shifa-avicenna|content/ar/works/wrk-al-shifa-avicenna.md|content/en/works/wrk-al-shifa-avicenna.md
+dbt-thomism-vs-scotism|content/ar/debates/dbt-thomism-vs-scotism.md|content/en/debates/dbt-thomism-vs-scotism.md

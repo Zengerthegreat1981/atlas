@@ -1,0 +1,12 @@
+sch-cultural-psychology|content/ar/schools/sch-cultural-psychology.md|content/en/schools/sch-cultural-psychology.md
+sch-dbt|content/ar/schools/sch-dbt.md|content/en/schools/sch-dbt.md
+thk-winnicott|content/ar/thinkers/thk-winnicott.md|content/en/thinkers/thk-winnicott.md
+thk-abandura|content/ar/thinkers/thk-abandura.md|content/en/thinkers/thk-abandura.md
+thk-mlinehan|content/ar/thinkers/thk-mlinehan.md|content/en/thinkers/thk-mlinehan.md
+thk-hillman|content/ar/thinkers/thk-hillman.md|content/en/thinkers/thk-hillman.md
+con-latent-learning|content/ar/concepts/con-latent-learning.md|content/en/concepts/con-latent-learning.md
+con-moral-development-gilligan|content/ar/concepts/con-moral-development-gilligan.md|content/en/concepts/con-moral-development-gilligan.md
+stu-pavlov-classical-conditioning|content/ar/studies/stu-pavlov-classical-conditioning.md|content/en/studies/stu-pavlov-classical-conditioning.md
+stu-wertheimer-gestalt|content/ar/studies/stu-wertheimer-gestalt.md|content/en/studies/stu-wertheimer-gestalt.md
+dis-bpd|content/ar/disorders/dis-bpd.md|content/en/disorders/dis-bpd.md
+wrk-attachment-loss-volume1|content/ar/works/wrk-attachment-loss-volume1.md|content/en/works/wrk-attachment-loss-volume1.md

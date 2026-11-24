@@ -1,0 +1,4 @@
+fld-political-economy|content/en/fields/fld-political-economy.md|Political Economy|Module root: what political economy studies, classical to contemporary schools, markets and states, money and distribution, development, methods, how the atlas is organised, reading paths
+fld-macroeconomics-money|content/en/fields/fld-macroeconomics-money.md|Macroeconomics, Money and Finance|growth, cycles, unemployment, inflation, money and banking, crises, Keynesian/monetarist/post-Keynesian debates
+fld-development-political-economy|content/en/fields/fld-development-political-economy.md|Development and the Global Economy|growth and development theories, dependency, trade, institutions, aid, resource curse, MENA political economy
+fld-labour-distribution|content/en/fields/fld-labour-distribution.md|Labour, Inequality and Distribution|value and wages, class, distribution theories, inequality evidence, taxation, welfare, debates
