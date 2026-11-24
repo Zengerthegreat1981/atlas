@@ -34,7 +34,7 @@ Central to the book is the concept of the **autotelic activity** (from the Greek
 
 ## Structure of the Work
 
-The volume is organized into ten chapters that progress from a cognitive model of consciousness and attention to the psychological conditions and domains of optimal experience. It delineates eight primary components (subsequently codified into nine dimensions in psychometric scales):
+The volume is organized into ten chapters that progress from a cognitive model of consciousness and attention to the psychological conditions and domains of optimal experience. It delineates a set of components of the flow experience (commonly summarized as eight, and codified as nine dimensions in psychometric scales):
 1. **Clear proximal goals** providing structure and direction.
 2. **Immediate and unambiguous feedback** enabling continuous behavioral adjustments.
 3. **Challenge-skill balance**, demanding full mobilization of capacities without overwhelming them.
@@ -49,7 +49,7 @@ The remaining chapters explore flow across physical exertion, intellectual inqui
 
 ## Historical Context and Empirical Foundation
 
-*Flow* represents the culmination of a fifteen-year empirical research program that began with *Beyond Boredom and Anxiety* (1975), which analyzed qualitative interviews with rock climbers, chess players, surgeons, and dancers. To test these findings in daily life, Csikszentmihalyi and colleagues developed the **Experience Sampling Method (ESM)**: participants carried electronic pagers that signaled them at random intervals during waking hours, prompting them to complete brief assessments of their ongoing activity, perceived challenge, skill level, and affective state. 
+*Flow* represents the culmination of a fifteen-year empirical research program that began with *Beyond Boredom and Anxiety* (1975), which analyzed qualitative interviews with rock climbers, chess players, and dancers. To test these findings in daily life, Csikszentmihalyi and colleagues developed the **Experience Sampling Method (ESM)**: participants carried electronic pagers that signaled them at random intervals during waking hours, prompting them to complete brief assessments of their ongoing activity, perceived challenge, skill level, and affective state. 
 
 This methodology, validated by Csikszentmihalyi and Reed Larson (1987), provided the quantitative empirical foundation of the book. Notably, studies by Csikszentmihalyi and Judith LeFevre (1989) revealed the "paradox of work": adults reported experiencing flow and high engagement far more frequently in structured work settings than during passive leisure (such as television watching), yet consistently expressed a preference to be relaxing rather than working.
 
@@ -57,7 +57,7 @@ This methodology, validated by Csikszentmihalyi and Reed Larson (1987), provided
 
 The book was instrumental in laying the groundwork for positive psychology in the 1990s and found widespread applications in education, athletic training, executive leadership, and video game design. Nonetheless, empirical and methodological critiques have highlighted several boundaries:
 - **Measurement Discrepancies**: While the ESM captures real-time flow states, later psychometric questionnaires — such as the Flow State Scale (FSS) developed by Susan A. Jackson and Herbert W. Marsh (1996) — rely on retrospective self-reports that may be influenced by recall biases.
-- **Model Nonlinearity**: The standard "channel" model assumes that equal challenge-skill matches at low levels produce flow. Subsequent studies (Moneta & Csikszentmihalyi, 1996) demonstrated that flow occurs predominantly when both challenge and skill are perceived as above average.
+- **Model Nonlinearity**: The standard "channel" model assumes that equal challenge-skill matches at low levels produce flow. Subsequent studies (Moneta & Csikszentmihalyi, 1996) reported that flow occurs predominantly when both challenge and skill are perceived as above average.
 - **Moderating Factors**: Experimental investigations by Stefan Engeser and Falko Rheinberg (2008) showed that the challenge-skill balance predicts flow only partially, and that subjective valuation, achievement motivation, and perceived task importance serve as critical moderators.
 
 ## Why It Is in the Atlas
@@ -71,4 +71,5 @@ The book was instrumental in laying the groundwork for positive psychology in th
 - Csikszentmihalyi, Mihaly, and Reed Larson. "Validity and Reliability of the Experience-Sampling Method." *Journal of Nervous and Mental Disease* 175, no. 9 (1987): 526–536.
 - Csikszentmihalyi, Mihaly, and Judith LeFevre. "Optimal Experience in Work and Leisure." *Journal of Personality and Social Psychology* 56, no. 5 (1989): 815–822.
 - Jackson, Susan A., and Herbert W. Marsh. "Development and Validation of a Scale to Measure Optimal Experience: The Flow State Scale." *Journal of Sport and Exercise Psychology* 18, no. 1 (1996): 17–35.
+- Moneta, Giovanni B., and Mihaly Csikszentmihalyi. "The Effect of Perceived Challenges and Skills on the Quality of Subjective Experience." *Journal of Personality* 64, no. 2 (1996): 275–310.
 - Engeser, Stefan, and Falko Rheinberg. "Flow, Performance and Moderators of Challenge-Skill Balance." *Motivation and Emotion* 32, no. 3 (2008): 158–172.

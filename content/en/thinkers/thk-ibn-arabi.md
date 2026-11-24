@@ -22,7 +22,7 @@ gaps: []
 ---
 # Muhyi al-Din Ibn Arabi
 
-An Andalusian mystic and philosopher, born in Murcia in 560 AH / 1165 CE, and regarded as the most influential theorist of philosophical Sufism in Islam. He was titled "the Greatest Master" (al-Shaykh al-Akbar), and he set out a complete metaphysical system around the concept of "unity of being" that exerted a deep and long-lasting influence on Islamic Sufism from al-Andalus to Persia, India, and Southeast Asia.
+An Andalusian mystic and philosopher, born in Murcia in 560 AH / 1165 CE, and regarded as a highly influential theorist of philosophical Sufism in Islam. He was titled "the Greatest Master" (al-Shaykh al-Akbar), and he set out a complete metaphysical system around the concept of "unity of being" that exerted a deep and long-lasting influence on Islamic Sufism from al-Andalus to Persia, India, and Southeast Asia.
 
 ## Biography
 

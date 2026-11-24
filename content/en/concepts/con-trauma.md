@@ -57,7 +57,7 @@ Critics note that existential interpretations of trauma may over-philosophize an
 1. van Deurzen, E., & Arnold-Baker, C. (Eds.). (2005). *Existential Perspectives on Human Issues*. Palgrave.
 2. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 3. van der Kolk, B. (2014). *The Body Keeps the Score*. Viking.
-4. Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+4. Frankl, V. E. (1959). *From Death-Camp to Existentialism*. Beacon Press. (Later editions retitled *Man's Search for Meaning*.)
 5. Janoff-Bulman, R. (1992). *Shattered Assumptions*. Free Press.
 6. Herman, J. L. (1992). *Trauma and Recovery*. Basic Books.
 7. Kalsched, D. (1996). *The Inner World of Trauma*. Routledge.

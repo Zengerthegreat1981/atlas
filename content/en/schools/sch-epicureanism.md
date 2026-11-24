@@ -26,14 +26,14 @@ A philosophical movement founded by **Epicurus** (341–270 BCE) in Athens in 30
 
 ## Context
 
-After the death of Alexander the Great (323 BCE), the Greek cities lost their political independence, and philosophies spread that promised the individual inner "tranquillity" (ἀταραξία). Epicurus was among the first to offer a "philosophical salvation" that was individual rather than collective.
+After the death of Alexander the Great (323 BCE), the Greek cities lost their political independence, and philosophies spread that promised the individual inner "tranquillity" (ἀταραξία). Epicurus offered a "philosophical salvation" that was individual rather than collective.
 
 ## Key Figures
 
 - **Epicurus** (341–270 BCE): the founder; he lived a simple life, refused to take part in politics, and said: "Live unnoticed."
 - **Metrodorus** (c. 331–278 BCE): his closest friend, who wrote "Against the Sophists."
 - **Hermarchus** (c. 325–250 BCE): succeeded Epicurus as head of the Garden.
-- **Lucretius** (c. 99–55 BCE): the greatest propagator of Epicureanism in Rome, author of "On the Nature of Things" (De Rerum Natura) in six books.
+- **Lucretius** (c. 99–55 BCE; the dates are traditional and approximate): the best-known exponent of Epicureanism in Rome, author of "On the Nature of Things" (De Rerum Natura) in six books.
 - **Philodemus of Gadara** (c. 110–40 BCE): a prominent Epicurean philosopher at Herculaneum.
 
 ## Central Concepts

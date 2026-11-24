@@ -25,7 +25,7 @@ gaps: []
 
 # Early Classical Liberalism
 
-A philosophical-political tradition that arose in **England** in the late 17th century and reached its peak in the **18th–19th centuries** in **England**, America and France. It affirms the individual's freedom in property, contract and the economy, and the limiting of the state in economic and social life. It was founded by **John Locke** (1632–1704) in the *Two Treatises* (1689), **Adam Smith** (1723–1790) in *The Wealth of Nations* (1776), **James Madison** (1751–1836) and **Alexander Hamilton** (1755–1804) in the *Federalist Papers* (1787–1788), Tocqueville (Alexis de Tocqueville, 1805–1859) in *De la Démocratie en Amérique* (1835–1840), and **John Stuart Mill** (1806–1873) in *On Liberty* (1859).
+A philosophical-political tradition that arose in **England** in the late 17th century and reached its peak in the **18th–19th centuries** in **England**, America and France. It affirms the individual's freedom in property, contract and the economy, and the limiting of the state in economic and social life. It was shaped by **John Locke** (1632–1704) in the *Two Treatises* (1689), **Adam Smith** (1723–1790) in *The Wealth of Nations* (1776), **James Madison** (1751–1836) and **Alexander Hamilton** (1755 or 1757–1804) in the *Federalist Papers* (1787–1788), Tocqueville (Alexis de Tocqueville, 1805–1859) in *De la Démocratie en Amérique* (1835–1840), and **John Stuart Mill** (1806–1873) in *On Liberty* (1859).
 
 ## Founding Context
 
@@ -41,7 +41,7 @@ In the 17th–18th centuries Europe witnessed three interlinked revolutions:
 - **John Locke** (1632–1704): the foundational philosopher of liberalism, articulating natural rights and government by consent.
 - **Adam Smith** (1723–1790): the foundational economic theorist of classical liberalism.
 - **Edmund Burke** (1729–1797): a Whig statesman and liberal conservative who defended constitutional liberty and market exchange while emphasizing tradition.
-- **Jeremy Bentham** (1748–1832): founder of utilitarianism, proposing utility as the standard for legislation.
+- **Jeremy Bentham** (1748–1832): the principal early theorist of utilitarianism, proposing utility as the standard for legislation.
 - **John Stuart Mill** (1806–1873): author of *On Liberty* (1859), championing individual autonomy and freedom of expression against social conformity.
 - **Herbert Spencer** (1820–1903): evolutionary social theorist and radical defender of laissez-faire individualism.
 
@@ -56,7 +56,7 @@ In the 17th–18th centuries Europe witnessed three interlinked revolutions:
 
 - **Thomas Jefferson** (1743–1826): author of the *Declaration of Independence* (1776).
 - **James Madison** (1751–1836): co-author of the *Federalist Papers* (1787–1788) and primary architect of the American Constitution and Bill of Rights.
-- **Alexander Hamilton** (1755–1804): co-author of the *Federalist Papers* and architect of early American fiscal institutions.
+- **Alexander Hamilton** (1755 or 1757–1804): co-author of the *Federalist Papers* and architect of early American fiscal institutions.
 - **Thomas Paine** (1737–1809): author of *Common Sense* (1776) and *The Rights of Man* (1791–1792).
 - **Benjamin Franklin** (1706–1790): diplomat, scientist, and defender of civic liberties.
 
@@ -83,7 +83,7 @@ Government is established by the consent of the governed to secure rights and ma
 
 ### 3. The Free Market and Spontaneous Order
 
-Adam Smith demonstrated in *The Wealth of Nations* (1776) how individuals pursuing their legitimate self-interest within a framework of justice are led, as if by an "invisible hand," to coordinate production and promote general prosperity more effectively than intentional government planning.
+Adam Smith argued in *The Wealth of Nations* (1776) that individuals pursuing their legitimate self-interest within a framework of justice are led, as if by an "invisible hand," to coordinate production and promote general prosperity, often more effectively than deliberate government direction.
 
 ### 4. The Division of Labor
 
@@ -103,7 +103,7 @@ Classical liberalism insists on constitutional limits to government power, prote
 
 ### 8. Civil Liberties and Toleration
 
-Classical liberals championed freedom of speech, freedom of religion and conscience, inviolability of private contracts, and free association. Mill's harm principle established that the only justification for state coercion over a sane adult is preventing harm to others.
+Classical liberals championed freedom of speech, freedom of religion and conscience, inviolability of private contracts, and free association. Mill's harm principle holds that the only justification for state coercion over a sane adult is preventing harm to others.
 
 ### 9. Utilitarian Reform
 
@@ -148,7 +148,7 @@ Bentham and James Mill grounded liberal policy in the principle of utility—see
 ## Later Influence
 
 - **In politics**: the American Revolution (1776) and the French Revolution (1789) were inspired by liberalism. The American Constitution (1787–1789) established the separation of powers, individual rights and a written constitution.
-- **In economics**: Adam Smith founded classical economic theory: the free market, the division of labor, the invisible hand. Ricardo, Malthus and Mill developed it.
+- **In economics**: Adam Smith was a founding figure of classical economic theory: the free market, the division of labor, the invisible hand. Ricardo, Malthus and Mill developed it.
 - **In law**: modern constitutional law is inspired by Montesquieu and Madison: individual rights, the separation of powers, an independent judiciary.
 - **In the 20th century**: Hayek, Friedman and the Chicago school revived classical liberalism against Keynes and the welfare state. Thatcher and Reagan drew on this thinking in their economic policies.
 - **In contemporary liberalism**: Rawls (1921–2002), in *A Theory of Justice* (1971), developed a Kantian egalitarian liberalism that gave more weight to distributive justice than classical liberalism did.

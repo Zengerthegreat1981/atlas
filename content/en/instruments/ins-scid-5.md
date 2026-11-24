@@ -42,16 +42,16 @@ The SCID-5 is structured as a hierarchical decision tree. Administration begins 
 Following this orientation, the interview proceeds through diagnostic modules using standardized skip-out logic:
 1. **Screening Probes**: Each module begins with mandatory screening questions. If the patient denies the essential primary symptoms of a disorder (e.g., neither depressed mood nor anhedonia for Major Depressive Disorder), the interviewer skips the remaining criteria for that module.
 2. **Criterion-by-Criterion Evaluation**: When screening criteria are endorsed, the interviewer probes operational requirements step-by-step.
-3. **Standardized Rating System**: Each individual criterion is coded using a three-point rating:
+3. **Standardized Rating System**: Each individual criterion is rated (in the clinician version) as:
    - `?` = Inadequate information to make a determination
-   - `-` or `1` = Absent or subthreshold
-   - `+` or `2` = Present or threshold criteria met
+   - `-` = Absent or subthreshold
+   - `+` = Present or threshold criteria met
 
 A formal diagnosis requires satisfying all mandatory symptom thresholds, duration criteria, and psychosocial impairment standards, while systematically verifying that symptoms are not attributable to substance use, medication effects, or a general medical condition.
 
 ## Psychometric Properties and Research Standing
 
-The SCID-5 serves as the criterion "gold standard" against which brief screening inventories (such as the PHQ-9, GAD-7, and BDI-II) are validated. Inter-rater reliability across trained clinicians is robust, with Cohen's kappa coefficients typically exceeding 0.80 for Major Depressive Disorder, Bipolar I Disorder, Schizophrenia, and Substance Use Disorders. Lower inter-rater agreement (kappa between 0.50 and 0.65) is observed for disorders with high symptom overlap, such as Generalized Anxiety Disorder and Somatic Symptom Disorder.
+The SCID-5 serves as the criterion "gold standard" against which brief screening inventories (such as the PHQ-9, GAD-7, and BDI-II) are validated. Inter-rater reliability across trained clinicians is robust, with agreement generally better for well-defined disorders (such as bipolar I disorder, schizophrenia, and substance use disorders) and lower for disorders with high symptom overlap, such as generalized anxiety disorder; reported kappa values vary by study and sample.
 
 ## Practical Constraints
 

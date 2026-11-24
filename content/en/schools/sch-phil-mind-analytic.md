@@ -29,7 +29,7 @@ Analytic philosophy of mind is the tendency that addressed the mind–body probl
 
 ## Logical Behaviourism
 
-Gilbert Ryle in "The Concept of Mind" (1949) attacked what he called the "ghost in the machine," that is, Descartes's conception of the mind as an independent inner theatre, and considered it a "category mistake": to speak of intelligence or belief is to speak of behavioural dispositions, not of hidden events. Wittgenstein in "Philosophical Investigations" (1953) approached the subject through the private language argument, showing that the meanings of sensation words are not determined by a private inner indication. Logical behaviourism was then weakened by objections, among them that a single mental state manifests in different behaviours depending on the other states.
+Gilbert Ryle in "The Concept of Mind" (1949) attacked what he called the "ghost in the machine," that is, Descartes's conception of the mind as an independent inner theatre, and considered it a "category mistake": to speak of intelligence or belief is to speak of behavioural dispositions, not of hidden events. Wittgenstein in "Philosophical Investigations" (1953) approached the subject through the private language argument, arguing that the meanings of sensation words are not determined by a private inner indication. Logical behaviourism was then weakened by objections, among them that a single mental state manifests in different behaviours depending on the other states.
 
 ## Identity Theory
 

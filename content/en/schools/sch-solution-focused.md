@@ -101,7 +101,7 @@ SFBT differs from cognitive behavioral therapy (CBT) in not targeting distorted 
 
 ## Evidence and Effectiveness
 
-The evidence base for SFBT consists mainly of small and moderate-sized studies. A review of controlled outcome studies (Gingerich & Eisengart, 2000) found the evidence promising but limited, and a later meta-analysis (Kim, 2008) found small positive effects on internalizing problems such as depression and anxiety, with weaker evidence for externalizing and family problems. The atlas therefore rates the evidence at the "probably efficacious" level. SFBT is used in school, child and family, and community settings, but evidence for severe disorders is limited.
+The evidence base for SFBT consists mainly of small and moderate-sized studies. A review of controlled outcome studies (Gingerich & Eisengart, 2000) found the evidence promising but limited, and a later meta-analysis (Kim, 2008) reported small positive effects across several outcome domains (including internalizing, externalizing, and family problems), while noting the limits of the available studies. The atlas therefore rates the evidence at the "probably efficacious" level. SFBT is used in school, child and family, and community settings, but evidence for severe disorders is limited.
 
 ## Critique and Limits
 
@@ -116,9 +116,9 @@ De Shazer and Berg left a deep legacy in normalizing the idea of "brief therapy"
 
 ## SFBT in Arab and Islamic Contexts
 
-SFBT has gained notable acceptance in Arab and Muslim communities, where mental health practitioners have noted strong philosophical and cultural alignments. The framework's non-pathologizing, competence-oriented posture reduces the social stigma frequently associated with traditional psychiatric diagnoses. Its future-oriented, pragmatic focus on concrete change aligns well with cultural expectations for practical guidance and family-centered problem resolution, rather than prolonged individualistic exploration of past family conflicts.
+SFBT has been discussed by some practitioners as a good cultural fit in Arab and Muslim communities. The framework's non-pathologizing, competence-oriented posture may reduce the social stigma frequently associated with traditional psychiatric diagnoses. Its future-oriented, pragmatic focus on concrete change may align with cultural expectations for practical guidance and family-centered problem resolution, rather than prolonged individualistic exploration of past family conflicts.
 
-Culturally adapted implementations typically integrate spiritual and collective dimensions. The miracle question and exception-seeking are often reframed around familial harmony, community obligations, and spiritual hope (*raja'*), drawing upon religious coping mechanisms and divine trust (*tawakkul*) as accessible client strengths. Therapists working in these settings emphasize collective agency—involving respected family members or elders where appropriate—while adapting scaling questions to track improvements in relational and spiritual well-being alongside personal functioning.
+Culturally adapted implementations may integrate spiritual and collective dimensions. The miracle question and exception-seeking can be reframed around familial harmony, community obligations, and spiritual hope (*raja'*), drawing upon religious coping mechanisms and divine trust (*tawakkul*) as accessible client strengths. Therapists working in these settings emphasize collective agency—involving respected family members or elders where appropriate—while adapting scaling questions to track improvements in relational and spiritual well-being alongside personal functioning.
 
 ## Sources
 

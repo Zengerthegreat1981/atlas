@@ -66,4 +66,3 @@ In analytic philosophy and philosophical logic, **intentionality** (with a *t*, 
 - Edmund Husserl, *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book* (Ideen I, 1913), trans. F. Kersten, Martinus Nijhoff, 1982.
 - John R. Searle, *Intentionality: An Essay in the Philosophy of Mind*, Cambridge University Press, 1983.
 - Daniel C. Dennett, *The Intentional Stance*, MIT Press, 1987.
-- Robert C. Sleigh, Jr., "Intentionality and Intensionality", *The Philosophical Review*, 77(4), 1968.

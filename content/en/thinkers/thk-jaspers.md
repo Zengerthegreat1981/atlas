@@ -21,7 +21,7 @@ gaps: []
 
 # Karl Jaspers
 
-Karl Jaspers (1883–1969) was a German psychiatrist and philosopher who established phenomenology as a foundational method in descriptive psychopathology and became one of the foremost thinkers of modern existential philosophy (*Existenzphilosophie*), though he rejected ideological labels and distanced himself from popular existentialism.
+Karl Jaspers (1883–1969) was a German psychiatrist and philosopher who introduced a phenomenological approach into descriptive psychopathology and became a leading thinker of modern existential philosophy (*Existenzphilosophie*), though he rejected ideological labels and distanced himself from popular existentialism.
 
 ## Life and Academic Career
 
@@ -31,9 +31,9 @@ His marriage to Gertrud Mayer, who was Jewish, placed him in grave danger under 
 
 ## Methodological Contribution to Psychopathology
 
-In his seminal treatise *General Psychopathology* (*Allgemeine Psychopathologie*, 1913), Jaspers revolutionized clinical psychiatry by applying Edmund Husserl's early phenomenological method and Wilhelm Dilthey's distinction between explanatory sciences (*Naturwissenschaften*) and interpretive sciences (*Geisteswissenschaften*). 
+In his seminal treatise *General Psychopathology* (*Allgemeine Psychopathologie*, 1913), Jaspers reshaped psychiatric method by applying Edmund Husserl's early phenomenological method and Wilhelm Dilthey's distinction between explanatory sciences (*Naturwissenschaften*) and interpretive sciences (*Geisteswissenschaften*). 
 
-He distinguished sharply between **explaining** (*Erklären*), which traces psychological symptoms to external somatic or neurobiological causes, and **understanding** (*Verstehen*), which grasps psychological phenomena from within through empathetic comprehension of subjective meaning. In clinical diagnosis, Jaspers established criteria distinguishing understandable reactive developments from the "un-understandable" (*unverständlich*) radical psychic alterations characteristic of schizophrenic psychosis, alongside his classic classification of primary delusions (*Wahnwahrnehmungen*) versus delusion-like ideas (*wahnhafte Ideen*).
+He distinguished sharply between **explaining** (*Erklären*), which traces psychological symptoms to external somatic or neurobiological causes, and **understanding** (*Verstehen*), which grasps psychological phenomena from within through empathetic comprehension of subjective meaning. In clinical diagnosis, Jaspers drew a distinction between understandable reactive developments from the "un-understandable" (*unverständlich*) radical psychic alterations characteristic of schizophrenic psychosis, alongside his classic classification of primary delusions (*Wahnwahrnehmungen*) versus delusion-like ideas (*wahnhafte Ideen*).
 
 ## Limit Situations and the Philosophy of Existenz
 
@@ -47,7 +47,7 @@ Following World War II, Jaspers became a moral conscience in Germany. In *The Qu
 
 ## Influence and Legacy
 
-Jaspers maintained a complex intellectual relationship with Martin Heidegger; their close philosophical alliance in the 1920s dissolved over Heidegger's support for National Socialism in 1933, leading to Jaspers's lifelong critical reflection on philosophy and political responsibility. Jaspers's clinical phenomenology laid the groundwork for Daseinsanalysis (Ludwig Binswanger, Medard Boss) and contemporary existential psychotherapy (Rollo May, Irvin Yalom).
+Jaspers maintained a complex intellectual relationship with Martin Heidegger; their close philosophical alliance in the 1920s dissolved over Heidegger's support for National Socialism in 1933, leading to Jaspers's lifelong critical reflection on philosophy and political responsibility. His phenomenological psychopathology was an important reference point for psychiatrists of the phenomenological-anthropological tradition such as Ludwig Binswanger.
 
 ## Major Works
 

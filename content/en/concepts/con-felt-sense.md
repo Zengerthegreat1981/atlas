@@ -48,7 +48,7 @@ To teach this intuitive experiential skill to clients who did not engage it spon
 
 ## Philosophical Foundations and Clinical Influence
 
-The felt sense is rooted in Gendlin's broader philosophical treatise, *Experiencing and the Creation of Meaning* (1962), and his later work, *A Process Model* (1997). In this "Philosophy of the Implicit," Gendlin challenged Cartesian dualism and traditional representational theories of mind, arguing that human experiencing is inherently interactive, bodily, and forward-moving, always containing far more implicit intricacy than existing cultural concepts can capture.
+The felt sense is rooted in Gendlin's broader philosophical treatise, *Experiencing and the Creation of Meaning* (1962), and his later work, *A Process Model* (written in the 1990s, published 2018). In this "Philosophy of the Implicit," Gendlin challenged Cartesian dualism and traditional representational theories of mind, arguing that human experiencing is inherently interactive, bodily, and forward-moving, always containing far more implicit intricacy than existing cultural concepts can capture.
 
 Gendlin's work laid the groundwork for Focusing-Oriented Psychotherapy (FOP) and significantly influenced somatic and trauma-informed therapies. Most notably, Peter Levine's Somatic Experiencing utilizes the tracking of the felt sense to renegotiate autonomic dysregulation, using bodily awareness to release trapped survival energy without overwhelming cognitive retraumatization.
 

@@ -22,9 +22,9 @@ Hans W. Cohn (1916–2004) was a German-born British psychotherapist, poet, and 
 
 ## Life, Formation, and Career
 
-Born in Breslau, Germany (now Wrocław, Poland) in 1916, Cohn grew up in a German-Jewish family. With the rise of the Nazi regime, he was forced into exile, fleeing first to Prague in 1936 and arriving in Great Britain in 1939. In Britain, he initially worked outside the academy while publishing acclaimed German-language poetry, earning recognition from figures such as Michael Hamburger for his spare, evocative verse.
+Born in Breslau, Germany (now Wrocław, Poland) in 1916, Cohn grew up in a German-Jewish family. With the rise of the Nazi regime, he was forced into exile, arriving in Great Britain in 1939. In Britain, he initially worked outside the academy while publishing acclaimed German-language poetry.
 
-Cohn subsequently pursued clinical training in London, qualifying initially within the psychodynamic tradition. However, his philosophical dissatisfaction with naturalistic and deterministic models of human suffering led him toward continental phenomenology, particularly the thought of Martin Heidegger and Martin Buber. In the late 1980s, Cohn played an instrumental role in establishing existential therapy as an independent clinical discipline in Britain. In 1988, he co-founded the Society for Existential Analysis (SEA) alongside Emmy van Deurzen and others, and he served as a senior lecturer, supervisor, and mentor at Regent's College School of Psychotherapy and Counselling (now Regent's University London). He died in London on 26 August 2004.
+Cohn subsequently pursued clinical training in London, qualifying initially within the psychodynamic tradition. However, his philosophical dissatisfaction with naturalistic and deterministic models of human suffering led him toward continental phenomenology, particularly the thought of Martin Heidegger and Martin Buber. In the late 1980s, Cohn played an instrumental role in establishing existential therapy as an independent clinical discipline in Britain. In 1988, he co-founded the Society for Existential Analysis (SEA) alongside Emmy van Deurzen and others, and he served as a senior lecturer, supervisor, and mentor at Regent's College School of Psychotherapy and Counselling (now Regent's University London). He died in London in 2004.
 
 ## Theoretical and Clinical Contribution
 
@@ -48,5 +48,4 @@ Cohn published relatively late in his life, concentrating primarily on clinical 
 - Cohn, Hans W., *Existential Thought and Therapeutic Practice: An Introduction to Existential Psychotherapy*, London: Sage, 1997.
 - Cohn, Hans W., *Heidegger and the Roots of Existential Therapy*, London: Continuum, 2002.
 - Cooper, Mick, *Existential Therapies*, London: Sage, 2003.
-- Spinelli, Ernesto, "Hans W. Cohn (1916–2004): An Appreciation," *Existential Analysis*, 16(1), 2005, pp. 2–6.
 - van Deurzen, Emmy, and Martin Adams, *Skills in Existential Counselling & Psychotherapy*, London: Sage, 2011.

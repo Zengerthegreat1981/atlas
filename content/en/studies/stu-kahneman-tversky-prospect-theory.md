@@ -34,9 +34,7 @@ Prospect theory replaces the global utility function of expected utility theory 
 
 ## Experimental Samples and Problem Structure
 
-The empirical findings reported in the 1979 *Econometrica* paper were obtained through a series of structured choice questionnaires administered to university students and faculty across several institutions (the Hebrew University of Jerusalem, the University of Stockholm, and the University of British Columbia). 
-
-Rather than exposing a single subject pool to the entire battery, Kahneman and Tversky presented distinct choice problems to separate groups of participants, with per-problem sample sizes typically ranging from 66 to 95 respondents (for example, $N = 72$ for Problems 1 and 2, $N = 95$ for Problems 3 and 4, and $N = 72$ for Problem 14). By comparing between-group responses across mirror-image pairs of gambles, the authors isolated the "reflection effect" (the systematic reversal of risk preferences when shifting from positive to negative payoffs) and demonstrated violations of expected utility axioms such as the substitution axiom (the Allais paradox).
+The empirical findings reported in the 1979 *Econometrica* paper were obtained through structured choice questionnaires given to university students and faculty (in Israel and elsewhere). Rather than exposing a single subject pool to the entire battery, Kahneman and Tversky presented distinct choice problems to separate groups of respondents, typically several dozen per problem. By comparing responses across mirror-image pairs of gambles, the authors identified the "reflection effect" (the reversal of risk preferences when shifting from positive to negative payoffs) and documented violations of expected utility axioms such as the substitution axiom (as in the Allais paradox).
 
 ## Impact on Financial Markets and Policy
 

@@ -20,7 +20,7 @@ gaps: []
 
 # Erwin Straus
 
-Erwin Straus (Frankfurt am Main, 1891 – Lexington, Kentucky, 1975) was a German-American psychiatrist, phenomenologist, and neurologist. Alongside Ludwig Binswanger, Eugène Minkowski, and Viktor Emil von Gebsattel, he was a foundational pioneer of phenomenological and anthropological psychiatry. His philosophical and clinical work centered on the lived experience of embodiment, sensory perception, and human locomotion, mounting a sustained defense of the human being against mechanistic reductionism.
+Erwin Straus (Frankfurt am Main, 1891 – Lexington, Kentucky, 1975) was a German-American psychiatrist, phenomenologist, and neurologist. Alongside Ludwig Binswanger, Eugène Minkowski, and Viktor Emil von Gebsattel, he is counted among the leading figures of phenomenological and anthropological psychiatry. His philosophical and clinical work centered on the lived experience of embodiment, sensory perception, and human locomotion, mounting a sustained defense of the human being against mechanistic reductionism.
 
 ## Life and Career
 
@@ -37,13 +37,13 @@ Straus studied medicine and philosophy in Berlin, Munich, Göttingen, and Zurich
 
 Straus's central thesis is that sensing (*Empfinden*) is not a passive reception of physiological stimuli processed by an internal mind, but an immediate, lived communication between an organism and its world. 
 
-He established the vital distinction between the "pathic" and the "gnostic" dimensions of experience:
+He drew a central distinction between the "pathic" and the "gnostic" dimensions of experience:
 - The **pathic** (*das Pathische*) represents the primordial, prereflective, affective participation in the world. It is immediate bodily resonance, dominant in rhythm, dance, music, and the lived atmosphere of landscape.
 - The **gnostic** (*das Gnostische*) represents detached, reflective, objectifying perception (*Wahrnehmen*). It measures, conceptualizes, and maps space into geographical coordinates.
 
 Straus argued that modern psychology and Cartesian epistemology mistook the secondary gnostic abstraction for original experience, thereby neglecting the pathic foundation of existence. On these grounds, he mounted a sharp critique of Pavlovian reflexology and behaviorism: conditioning treats the organism as an isolated machine responding to artificial signals, ignoring that a living being actively inhabits a meaningful perceptual environment (*Umwelt*).
 
-In "The Upright Posture," Straus demonstrated that standing upright is not merely an anatomical milestone, but an existential achievement maintained against gravity. The upright stance liberates the hands from locomotion to become instruments of exploration and creation; it raises the mouth and teeth away from direct predatory grasping, transforming the face into an organ of linguistic expression; and it opens up a panoramic visual horizon, establishing distance, objectivity, and vulnerability in the human encounter with the world.
+In "The Upright Posture," Straus argued that standing upright is not merely an anatomical milestone, but an existential achievement maintained against gravity. The upright stance liberates the hands from locomotion to become instruments of exploration and creation; it raises the mouth and teeth away from direct predatory grasping, transforming the face into an organ of linguistic expression; and it opens up a panoramic visual horizon, establishing distance, objectivity, and vulnerability in the human encounter with the world.
 
 ## Influence and Limits
 

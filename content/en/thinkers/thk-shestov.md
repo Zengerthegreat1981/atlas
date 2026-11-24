@@ -22,7 +22,7 @@ gaps: []
 
 # Lev Shestov
 
-A Russian-Jewish philosopher (born Yehuda Leyb Schwarzmann in Kiev, 1866; died in Paris, 1938), a critic of rationalism and of the claim that reason and necessity have the last word. He wrote in Russian and, after emigrating in 1920, taught at the Sorbonne and published largely in French. He was one of the first to present Kierkegaard seriously to French readers, and a major precursor of existentialism.
+A Russian-Jewish philosopher (born Yehuda Leyb Schwarzmann in Kiev, 1866; died in Paris, 1938), a critic of rationalism and of the claim that reason and necessity have the last word. He wrote in Russian and, after emigrating in 1920, taught at the Sorbonne and published largely in French. He was one of the first to present Kierkegaard seriously to French readers, and a precursor of existentialism.
 
 ## Life
 

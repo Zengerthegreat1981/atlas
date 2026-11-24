@@ -34,7 +34,7 @@ In the early third century BC Greek philosophy was passing through a transition:
 ## Key figures
 
 - **Arcesilaus** (about 316–241 BC): head of the Academy, who developed a method of refuting his opponent's arguments without a thesis of his own, and adopted "the reasonable" (εὔλογον) as the criterion of action.
-- **Carneades of Cyrene** (about 214–129 BC): the greatest figure of the Skeptical Academy, who set out the graded theory of "the persuasive" (πιθανόν). He left no books, and his pupil Clitomachus preserved his teachings.
+- **Carneades of Cyrene** (about 214–129 BC): the most prominent figure of the Skeptical Academy, who set out the graded theory of "the persuasive" (πιθανόν). He left no books, and his pupil Clitomachus preserved his teachings.
 - **Clitomachus of Carthage** (about 187–110 BC): successor of Carneades, who wrote down and systematized his doctrine.
 - **Philo of Larissa** (about 159–84 BC): the last head of the Skeptical Academy, who softened the skepticism in the "Roman Books", and was the teacher of Cicero.
 

@@ -59,14 +59,14 @@ A philosophical institution founded by Plato (c. 428–348 BCE) near the grove o
 - **Speusippus** (c. 408–339 BCE): Plato's nephew and successor, who focused on mathematics and classification.
 - **Xenocrates** (c. 396–314 BCE): a conservative Platonist who combined numbers with the Forms.
 - **Arcesilaus** (c. 316–241 BCE): turned the Academy toward skepticism.
-- **Carneades** (c. 214–129 BCE): the greatest of its skeptics.
+- **Carneades** (c. 214–129 BCE): the most prominent of its skeptics.
 
 ## Legacy
 
 - **Neoplatonism**: the Platonic inheritance passed to Plotinus and Proclus.
 - **Arabic-Islamic philosophy**: the Arabs knew Plato through translations and summaries, among them Averroes' (Ibn Rushd's) commentary on Plato's *Republic*, and al-Farabi wrote *The Philosophy of Plato, Its Parts and the Ranks of Its Parts*. The *Discourse on the Pure Good* attributed to Aristotle, derived from sources in Proclus, was translated, as was the *Theology*, which comes from Plotinus's *Enneads*. Arabic sources told the story of the transfer of philosophical teaching from Athens and Alexandria to Antioch, then Harran, then Baghdad, and connected with it is the episode of Damascius and his colleagues taking refuge at the court of Khosrow Anushirvan around 531 CE.
 - **Christian theology**: Augustine was influenced by Neoplatonism and recast much theology in Platonic concepts.
-- **The Renaissance**: Cosimo de' Medici founded the "Platonic Academy" in Florence, Ficino translated Plato into Latin (1484), and Pico della Mirandola was influenced.
+- **The Renaissance**: Cosimo de' Medici is traditionally credited with founding the "Platonic Academy" in Florence (its institutional form is debated by modern scholars), Ficino translated Plato into Latin (1484), and Pico della Mirandola was influenced.
 
 ## The Closure
 

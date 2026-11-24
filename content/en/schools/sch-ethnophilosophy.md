@@ -22,13 +22,13 @@ gaps: []
 
 # Ethnophilosophy
 
-A current in African philosophy that tried to present a "distinctive" philosophy of Africans, relying on ethnographic data: proverbs, languages, rituals, myths and tales, on the assumption that every community carries an implicit collective worldview that can be extracted and formulated as a philosophical system. The term was established, with critical intent, by the Beninese philosopher Paulin Hountondji in the 1970s (the term was also used by Marcien Towa), and then became the name of an entire school.
+A current in African philosophy that tried to present a "distinctive" philosophy of Africans, relying on ethnographic data: proverbs, languages, rituals, myths and tales, on the assumption that every community carries an implicit collective worldview that can be extracted and formulated as a philosophical system. The term was popularized, with critical intent, by the Beninese philosopher Paulin Hountondji in the 1970s (the term was also used by Marcien Towa), and then became the name of an entire school.
 
 ## Context
 
 The current began in its well-known form with:
 - **Placide Tempels (1906–1977)**: a Belgian Franciscan missionary who spent years in Katanga in the Belgian Congo, and who presented in "La philosophie bantoue" (1945, republished in French by Présence Africaine in 1949) the idea of "Vital Force" as the principle of being among the Bantu: a being is a force, everything interacts by an exchange of influence, and evil is a diminution of force. The motive was also missionary and administrative: he wanted to build a Christian order founded on understanding Africans' beliefs rather than ridiculing them.
-- **Marcel Griaule**: "Conversations with Ogotemmêli" (1948) on the Dogon of Mali, which presented a detailed cosmology based on the data of a blind elder, and which later theorists drew on.
+- **Marcel Griaule**: *Dieu d'eau* (1948; English: *Conversations with Ogotemmêli*, 1965) on the Dogon of Mali, which presented a detailed cosmology based on the data of a blind elder, and which later theorists drew on.
 
 ## Central Ideas
 
@@ -56,7 +56,7 @@ The current began in its well-known form with:
 
 ## Limits and Critique
 
-- **The critique of the professionals**: Hountondji in "African Philosophy: Myth and Reality" (1976) held that ethnophilosophy is ethnography disguised as philosophy, because it attributes a collective philosophy to a whole people without presenting individuals who discuss and argue.
+- **The critique of the professionals**: Hountondji in "African Philosophy: Myth and Reality" (French 1976; English 1983) held that ethnophilosophy is ethnography disguised as philosophy, because it attributes a collective philosophy to a whole people without presenting individuals who discuss and argue.
 - **Bodunrin's critique**: "The Question of African Philosophy" (1981) affirms that philosophy is individual critical thinking, written or open to discussion.
 - **The objection to generalization**: Africa is a continent of enormous diversity in languages and cultures, and no single philosophy can be valid for it; Wiredu also objected to projecting the categories of one language onto the whole epistemic reality.
 - **The effect of the European intermediary**: critics pointed out that Tempels and others wrote with the concepts of scholastic philosophy and imposed them on their sources, so that the echo of Aristotle and Thomas Aquinas returned in the form of a "Bantu philosophy."
@@ -73,4 +73,5 @@ Ethnophilosophy had no direct relation to the Arab world, but its discussions to
 - Hountondji, P. J. (1976/1983). *African Philosophy: Myth and Reality*. Indiana University Press.
 - p'Bitek, O. (1971). *African Religions in Western Scholarship*. East African Literature Bureau.
 - Kagame, A. (1956). *La philosophie bantu-rwandaise de l'être*. Académie royale des sciences coloniales.
+- Griaule, M. (1948). *Dieu d'eau: entretiens avec Ogotemmêli*. Éditions du Chêne.
 - Oruka, H. O. (1990). *Sage Philosophy: Indigenous Thinkers and Modern Debate on African Philosophy*. Brill.

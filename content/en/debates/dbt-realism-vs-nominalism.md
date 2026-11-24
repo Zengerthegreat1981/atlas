@@ -58,4 +58,5 @@ Peter Abelard, in his *Historia calamitatum*, recounts that he challenged his te
 - Porphyry, *Isagoge*, with Boethius's commentaries.
 - Abelard, Peter. *Historia calamitatum*, c. 1132.
 - Spade, Paul Vincent (ed.). *Five Texts on the Mediaeval Problem of Universals*. Hackett, 1994.
+- Russell, Bertrand. *The Problems of Philosophy*. Home University Library, 1912.
 - Armstrong, D. M. *Universals: An Opinionated Introduction*. Westview, 1989.

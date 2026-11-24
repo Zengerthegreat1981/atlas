@@ -64,7 +64,7 @@ Transpersonal psychology is sometimes called the "fourth force" in psychology (a
 - **Stanislav Grof** (1931-): psychedelic research, holotropic breathwork, perinatal psychology.
 - **Charles Tart** (1937-): altered states of consciousness.
 - **Ken Wilber** (1949-): the spectrum of consciousness and integral theory.
-- **Roger Walsh** (1946–) and **Frances Vaughan** (1935–2017): transpersonal theory, meditation, and clinical applications.
+- **Roger Walsh** (1946–) and **Frances Vaughan**: transpersonal theory, meditation, and clinical applications.
 - **James Fadiman** (1939–): psychedelic research and transpersonal psychology.
 
 ## Major Sub-Currents

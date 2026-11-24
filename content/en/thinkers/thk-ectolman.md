@@ -23,7 +23,7 @@ gaps: []
 
 # Edward C. Tolman
 
-Edward Chace Tolman (1886–1959) was an American psychologist and long-time professor at the University of California, Berkeley. As the founder of **purposive behaviorism** and the pioneer of the concepts of **latent learning** and **cognitive maps**, Tolman introduced cognitive constructs into experimental behaviorism, serving as a primary theoretical bridge between behaviorism and the cognitive revolution.
+Edward Chace Tolman (1886–1959) was an American psychologist and long-time professor at the University of California, Berkeley. As the developer of **purposive behaviorism** and the pioneer of the concepts of **latent learning** and **cognitive maps**, Tolman introduced cognitive constructs into experimental behaviorism, serving as a primary theoretical bridge between behaviorism and the cognitive revolution.
 
 ## What He Contributed
 
@@ -31,8 +31,6 @@ Edward Chace Tolman (1886–1959) was an American psychologist and long-time pro
 
 In his landmark treatise *Purposive Behavior in Animals and Men* (1932), Tolman challenged John B. Watson's strict mechanistic stimulus-response (S-R) behaviorism. Tolman argued that behavior cannot be understood by reducing it to muscle twitches and glandular secretions ("molecular behavior"). Instead, he insisted that psychology must study "molar behavior"—organized, goal-directed action characterized by purpose and cognitive expectations.
 
-In *Purposive Behavior in Animals and Men* (1932, p. 12), Tolman stated:
-> "Behavior as a type of commerce with the environment can occur only in a whole organism... Behavior as such is a 'molar' phenomenon, as contrasted with the 'molecular' phenomena of physics and physiology."
 
 Tolman maintained that organisms do not learn automatic, blind motor chains; rather, they form expectations regarding "what leads to what" in their environment—an S-S (stimulus-stimulus) model of learning.
 
@@ -44,7 +42,7 @@ Tolman established his theoretical positions through celebrated animal experimen
 
 ### Intervening Variables
 
-In his 1938 presidential address to the American Psychological Association ("The Determiners of Behavior at a Choice Point"), Tolman introduced the concept of **intervening variables**: unobservable, inferred internal states (such as expectations, hypotheses, and demands) that mediate between measurable independent variables (environmental stimuli, physiological deprivations) and observable dependent variables (behavioral responses). This operational methodology allowed psychologists to incorporate internal mental concepts without abandoning empirical rigor.
+In his work of the 1930s, including "The Determiners of Behavior at a Choice Point" (1938), Tolman developed the concept of **intervening variables**: unobservable, inferred internal states (such as expectations, hypotheses, and demands) that mediate between measurable independent variables (environmental stimuli, physiological deprivations) and observable dependent variables (behavioral responses). This operational methodology allowed psychologists to incorporate internal mental concepts without abandoning empirical rigor.
 
 ## Academic Freedom and the Loyalty Oath
 
@@ -56,7 +54,7 @@ Tolman's work faced substantial contemporary criticism from orthodox behaviorist
 - **Edwin Guthrie's Critique**: Guthrie (1935) famously observed that by attributing learning to inner cognitive maps and sign-gestalts without specifying precise response triggers, Tolman left his experimental rat "buried in thought" at the choice point.
 - **Skinner and Hull**: Clark Hull and B. F. Skinner criticized Tolman's constructs for lacking strict mathematical predictability or for reintroducing mentalistic fictions into a natural science of behavior.
 
-Decades later, the emergence of cognitive psychology and cognitive neuroscience fully vindicated Tolman's hypotheses. John O'Keefe and Lynn Nadel (*The Hippocampus as a Cognitive Map*, 1978) identified the neural substrate of Tolmanian spatial representations in hippocampal "place cells," a discovery for which O'Keefe shared the 2014 Nobel Prize in Physiology or Medicine with May-Britt and Edvard Moser.
+Decades later, the emergence of cognitive psychology and cognitive neuroscience gave renewed support to Tolman's hypotheses. John O'Keefe and Lynn Nadel (*The Hippocampus as a Cognitive Map*, 1978) argued that hippocampal "place cells" provide a neural basis for Tolmanian spatial representations; O'Keefe's place-cell discovery for which O'Keefe shared the 2014 Nobel Prize in Physiology or Medicine with May-Britt and Edvard Moser.
 
 ## Major Works
 

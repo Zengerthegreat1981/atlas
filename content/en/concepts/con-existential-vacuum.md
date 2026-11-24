@@ -60,7 +60,7 @@ The concept has been criticised on several fronts. First, its overlap with depre
 
 ## Sources
 
-1. Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press. (English edition of *Ein Psycholog erlebt das Konzentrationslager*, 1946.)
+1. Frankl, V. E. (1959). *From Death-Camp to Existentialism* (later retitled *Man's Search for Meaning*). Beacon Press. (English edition of *Ein Psycholog erlebt das Konzentrationslager*, 1946.)
 2. Frankl, V. E. (1969). *The Will to Meaning: Foundations and Applications of Logotherapy*. World Publishing.
 3. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 4. May, R. (1967). *Psychology and the Human Dilemma*. W. W. Norton.

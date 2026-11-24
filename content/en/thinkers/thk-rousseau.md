@@ -47,8 +47,8 @@ Rousseau stands at the edge of the Enlightenment: he shares with its philosopher
 
 ### Influence on Kierkegaard and Nietzsche
 
-Rousseau's defense of inward sincerity against social conformity deeply shaped two foundational precursors of existentialism:
-- **Søren Kierkegaard**: Kierkegaard shared Rousseau's profound suspicion of abstract philosophical systems (such as Hegelianism) and bourgeois complacency. Like Rousseau in the *Confessions*, Kierkegaard emphasized solitary inwardness, the single individual (*hiin Enkelte*), and the primacy of personal conscience, though he grounded this existential subjectivity in radical Christian faith rather than Rousseauian natural innocence.
+Rousseau's defense of inward sincerity against social conformity is often compared with, and was a point of reference for, two precursors of existentialism:
+- **Søren Kierkegaard**: Kierkegaard's emphasis on inwardness, the single individual (*den Enkelte*), and personal conscience is sometimes compared with Rousseau's in the *Confessions*, though direct influence is not well established, and Kierkegaard grounded his view in Christian faith rather than in natural innocence.
 - **Friedrich Nietzsche**: Nietzsche maintained an intensely ambivalent relationship with Rousseau. In *Twilight of the Idols* and *Daybreak*, Nietzsche fiercely attacked Rousseau's egalitarianism, moral sentimentalism, and romantic idealization of "nature," diagnosing them as the ideological root of modern democracy, socialism, and the French Revolution's *ressentiment*. Yet Nietzsche simultaneously recognized Rousseau as a formidable kindred spirit in rebelling against cultural decadence, hypocrisy, and artificial convention, acknowledging the disruptive power of his call for authentic self-overcoming.
 
 ## Limits and Critique

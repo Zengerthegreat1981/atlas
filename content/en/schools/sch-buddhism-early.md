@@ -43,7 +43,7 @@ The teachings were transmitted orally in the community of monks. The first counc
 
 ## Disciples and Community
 
-Among his direct disciples were Mahakassapa, who presided over the first council; Ananda, who memorized the discourses and, through the intercession of Prajapati, secured the admission of nuns; Sariputta, in wisdom; Moggallana, in meditative powers; Anuruddha; and Upali, who recited the Vinaya. The monks and nuns established a community (sangha) that relied on alms and wandering, then residence during the rainy season. In the third century BCE the Emperor Ashoka spread the teaching and sent missions to Sri Lanka and the northwest, which constituted the moment when Buddhism passed from a regional community to a world religion.
+Among his direct disciples were Mahakassapa, who presided over the first council; Ananda, who memorized the discourses and, through the intercession of Prajapati, secured the admission of nuns; Sariputta, in wisdom; Moggallana, in meditative powers; Anuruddha; and Upali, who recited the Vinaya. The monks and nuns established a community (sangha) that relied on alms and wandering, then residence during the rainy season. In the third century BCE the Emperor Ashoka spread the teaching and sent missions to Sri Lanka and the northwest, a step that is generally seen as important in Buddhism's spread beyond its region of origin.
 
 ## Influence and the Connection to Arab Heritage
 

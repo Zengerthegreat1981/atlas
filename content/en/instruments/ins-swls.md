@@ -44,23 +44,26 @@ Respondents rate each item on a 7-point Likert scale ranging from 1 ("strongly d
 
 ## Scoring and Interpretation
 
-Standard clinical and research benchmark bands established by William Pavot and Ed Diener (1993) categorize cumulative scores as:
-- **30–35**: Highly satisfied (individuals view life as progressing exceptionally well across major domains)
-- **25–29**: Satisfied (general contentment with most areas, with minor areas open to improvement)
-- **20–24**: Slightly satisfied / average (reflects a normative baseline score in general community samples)
-- **15–19**: Slightly dissatisfied (mild, persistent dissatisfaction with significant life areas)
-- **10–14**: Dissatisfied (substantial discontent with current life circumstances)
-- **5–9**: Extremely dissatisfied (profound distress regarding life conditions)
+Interpretive bands commonly used for the SWLS (following the guidance associated with Diener and colleagues; see also Pavot & Diener, 1993) are:
+- **31–35**: Extremely satisfied
+- **26–30**: Satisfied
+- **21–25**: Slightly satisfied
+- **20**: Neutral point
+- **15–19**: Slightly dissatisfied
+- **10–14**: Dissatisfied
+- **5–9**: Extremely dissatisfied
+
+These bands are descriptive conventions, not clinical cut-offs.
 
 ## Psychometric Properties and Arabic Standardization
 
 The SWLS exhibits high psychometric stability across diverse cultural contexts. Cronbach's alpha coefficients routinely fall between 0.85 and 0.89 in normative adult and student samples. Test-retest reliability is notable, maintaining stability coefficients of r = 0.82 over two-month intervals and r = 0.54 over four-year longitudinal follow-ups.
 
-The scale has been adapted and standardized extensively in the Arab world. Psychometric evaluations led by Ahmed Abdel-Khalek (2001, 2006) and other researchers across Egypt, Kuwait, Algeria, and Jordan verified its unidimensional factor structure through confirmatory factor analysis. The Arabic SWLS displays strong internal consistency (alphas typically between 0.79 and 0.86), high test-retest reliability, and substantial positive correlations with self-esteem, optimism, and intrinsic religiosity.
+The scale has been translated into many languages, including Arabic. Arabic versions have been used in studies in several countries; reported reliability and factor structure vary across samples, so local psychometric evidence should be checked before use.
 
 ## National Well-Being Surveys and Macro-Level Research
 
-Beyond individualized clinical and academic studies, the SWLS is routinely deployed in large-scale national and international sociological surveillance programs, including the World Values Survey (WVS), the Gallup World Poll, OECD Better Life initiatives, and the Midlife in the United States (MIDUS) study. By providing a quantifiable cognitive metric of perceived life quality, the SWLS enables economists and public policy analysts to evaluate societal flourishing and psychological health alongside traditional macroeconomic metrics such as Gross Domestic Product (GDP).
+Beyond individualized clinical and academic studies, the SWLS has been used in cohort studies and some national and international surveys (for example, the Midlife in the United States study). Many large well-being surveys, such as the World Values Survey and the Gallup World Poll, instead use single-item life-satisfaction or ladder measures. Such measures are used by researchers and policy analysts to examine well-being alongside economic indicators.
 
 ## Limitations
 
@@ -71,4 +74,3 @@ Because the SWLS measures an abstract cognitive judgment across life as a whole,
 - Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. *Journal of Personality Assessment*, 49(1), 71–75.
 - Diener, E. (1984). Subjective well-being. *Psychological Bulletin*, 95(3), 542–575.
 - Pavot, W., & Diener, E. (1993). Review of the Satisfaction with Life Scale. *Psychological Assessment*, 5(2), 164–172.
-- Abdel-Khalek, A. M. (2006). Measuring happiness with a single-item scale. *Social Behavior and Personality*, 34(2), 139–150.

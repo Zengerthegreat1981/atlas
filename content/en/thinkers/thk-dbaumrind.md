@@ -20,17 +20,17 @@ gaps: []
 
 # Diana Baumrind
 
-Diana Baumrind (1927–2018) was an American developmental and clinical psychologist, long-time research psychologist at the Institute of Human Development at the University of California, Berkeley, and the foremost researcher on parental authority and child-rearing styles.
+Diana Baumrind (1927–2018) was an American developmental and clinical psychologist, long-time research psychologist at the Institute of Human Development at the University of California, Berkeley, and a leading researcher on parental authority and child-rearing styles.
 
 ## Overview and Longitudinal Research
 
-Baumrind devoted decades to directing the Family Adaptation and Child Development Project at UC Berkeley. Through rigorous, multi-method longitudinal designs that combined structured naturalistic home observations, laboratory tasks, and clinical interviews with parents and children across developmental epochs (preschool, middle childhood, and adolescence), she examined the enduring relations between parental control, responsiveness, and child developmental outcomes.
+Baumrind devoted decades to longitudinal research on parenting and child development at UC Berkeley. Through rigorous, multi-method longitudinal designs that combined structured naturalistic home observations, laboratory tasks, and clinical interviews with parents and children across developmental epochs (preschool, middle childhood, and adolescence), she examined the enduring relations between parental control, responsiveness, and child developmental outcomes.
 
 ## Historical Context and Scientific Climate
 
 When Baumrind published her foundational study "Effects of Authoritative Parental Control on Child Behavior" in 1966, mid-century American parenting theory was polarized between psychoanalytically inspired permissiveness (popularized by Benjamin Spock) and strict, adult-centered authoritarian control. Her empirical work provided a sophisticated typology that moved beyond this simplistic dichotomy, demonstrating that high parental control does not inherently undermine child autonomy when paired with emotional warmth and reasoned communication.
 
-In addition to developmental psychology, Baumrind made a celebrated contribution to research ethics. In 1964, she published a landmark critique of Stanley Milgram's obedience experiments in the *American Psychologist*, arguing that inflicting acute emotional distress on participants and using deceptive debriefings violated ethical responsibilities and damaged public trust in psychological science.
+In addition to developmental psychology, Baumrind made a celebrated contribution to research ethics. In 1964, she published a landmark critique of Stanley Milgram's obedience experiments in the *American Psychologist*, arguing that inflicting acute emotional distress on participants and using deception violated ethical responsibilities and damaged public trust in psychological science.
 
 ## The Parenting Typology
 

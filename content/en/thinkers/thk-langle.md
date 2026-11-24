@@ -24,7 +24,7 @@ gaps: []
 
 # Alfried Längle
 
-Alfried Längle is an Austrian physician, clinical psychologist, and psychotherapist, born in Götzis on 27 March 1951. A former student and close collaborator of Viktor Frankl, Längle became the central figure in the theoretical and institutional development of modern Existential Analysis (Existenzanalyse) as an independent, comprehensive psychotherapeutic modality.
+Alfried Längle is an Austrian physician, clinical psychologist, and psychotherapist, born in Götzis on 27 March 1951. A former student and close collaborator of Viktor Frankl, Längle became a central figure in the theoretical and institutional development of modern Existential Analysis (Existenzanalyse) as an independent, comprehensive psychotherapeutic modality.
 
 ## Core Theories: The Four Fundamental Existential Motivations
 
@@ -51,13 +51,11 @@ Frankl and orthodox logotherapists (such as Elisabeth Lukas) rejected this shift
 ## Major Works
 
 - *Viktor Frankl: Ein Porträt* (1998)
-- *Sinnvoll leben: Eine praktische Anleitung der Existenzanalyse* (2000)
 - *Lehrbuch zur Existenzanalyse: Grundlagen* (2013)
-- *Existenzanalyse: Existentielle Psychotherapie* (2014)
 
 ## Sources
 
 - Längle, Alfried. *Viktor Frankl: Ein Porträt*. Munich: Piper, 1998.
 - Längle, Alfried. "The Search for Meaning in Life and the Existential Fundamental Motivations." *Existential Analysis* 14/2 (2003): 222–237.
 - Längle, Alfried. *Lehrbuch zur Existenzanalyse: Grundlagen*. Vienna: Facultas, 2013.
-- Frankl, Viktor E. *Logotherapie und Existenzanalyse: Texte aus sechs Jahrzehnten*. Weinheim: Beltz, 1994.
+- Frankl, Viktor E. *Logotherapie und Existenzanalyse: Texte aus sechs Jahrzehnten*. Weinheim: Beltz, 2002 (first published Munich: Quintessenz, 1994).

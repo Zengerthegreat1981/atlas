@@ -64,7 +64,7 @@ Pyrrho accompanied Alexander to Asia (from 334 BCE) and, according to Diogenes L
 | **Position** | Suspension of judgment on non-evident matters | Arcesilaus urged suspension; Carneades defended the persuasive (πιθανόν) as a practical guide |
 | **Inquiry** | Continues to inquire (the "skeptic" is literally an inquirer) | Holds, in Sextus's account, that nothing can be firmly apprehended |
 | **Aim** | Freedom from disturbance (ἀταραξία) | Not explicitly tranquillity |
-| **Founder** | Pyrrho (c. 360 BCE); revived by Aenesidemus | Arcesilaus (head of Plato's Academy from c. 268 BCE) |
+| **Founder** | Pyrrho (c. 360–c. 270 BCE); revived by Aenesidemus | Arcesilaus (head of Plato's Academy from c. 268 BCE) |
 | **Institution** | No continuous school until the revival | Plato's Academy (Middle and New Academy) |
 
 ## Legacy

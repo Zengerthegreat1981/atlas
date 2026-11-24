@@ -43,7 +43,7 @@ related:
   - id: "thk-mulla-sadra", title: "Mulla Sadra (Sadr al-Din Shirazi)", type: "مفكر"
   - id: "thk-buddha", title: "The Buddha (Siddhartha Gautama)", type: "مفكر"
   - id: "sch-buddhism-early", title: "Early Buddhism (Pre-sectarian)", type: "مدرسة"
-  - id: "thk-nagarjuna", title: "Nagarjuna (Founder of Madhyamaka)", type: "مفكر"
+  - id: "thk-nagarjuna", title: "Nagarjuna (Madhyamaka)", type: "مفكر"
   - id: "sch-madhyamaka", title: "Madhyamaka (Prāsaṅgika and Svātantrika)", type: "مدرسة"
   - id: "con-shunyata", title: "Śūnyatā (Emptiness / Essential Nihility)", type: "مفهوم"
   - id: "thk-shankara", title: "Shankara (Advaita Vedanta)", type: "مفكر"

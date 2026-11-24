@@ -27,7 +27,7 @@ An Islamic philosophical tradition that took Aristotle's philosophy, as read thr
 
 ## Context and Founding
 
-The tradition began in Abbasid Baghdad with the great translation movement from Greek and Syriac in the second to fourth centuries AH, carried out by translators including Hunayn ibn Ishaq (d. 260 AH) and his son Ishaq, Thabit ibn Qurra (d. 288 AH), Qusta ibn Luqa, Abu Bishr Matta ibn Yunus (d. 328 AH), and Yahya ibn 'Adi (d. 364 AH). Al-Kindi (d. c. 252 AH) was the first major Muslim philosopher; he wrote *On First Philosophy* and *Treatise on the Intellect*, and he affirmed the agreement of philosophy and religious law. Then came al-Farabi (d. 339 AH), who organized logic and the sciences and set out the political and psychological doctrine, and from him it passed to Avicenna, who established the most complete Peripatetic system.
+The tradition began in Abbasid Baghdad with the great translation movement from Greek and Syriac in the second to fourth centuries AH, carried out by translators including Hunayn ibn Ishaq (d. 260 AH) and his son Ishaq, Thabit ibn Qurra (d. 288 AH), Qusta ibn Luqa, Abu Bishr Matta ibn Yunus (d. 328 AH), and Yahya ibn 'Adi (d. 364 AH). Al-Kindi (d. c. 252 AH) is often called the first major philosopher writing in Arabic; he wrote *On First Philosophy* and *Treatise on the Intellect*, and he affirmed the agreement of philosophy and religious law. Then came al-Farabi (d. 339 AH), who organized logic and the sciences and set out the political and psychological doctrine, and from him it passed to Avicenna, who built the most elaborate Peripatetic system.
 
 ## Major Principles
 
@@ -42,7 +42,7 @@ The tradition began in Abbasid Baghdad with the great translation movement from 
 ## Major Figures
 
 - **Al-Kindi** (d. c. 252 AH): "the philosopher of the Arabs," who introduced philosophical terminology into Arabic.
-- **Al-Farabi** (d. 339 AH): "the Second Teacher," author of *Enumeration of the Sciences*, *The Opinions of the Inhabitants of the Virtuous City*, and *The Harmonization of the Opinions of the Two Sages*.
+- **Al-Farabi** (d. 339 AH): "the Second Teacher," author of *Enumeration of the Sciences*, *The Opinions of the Inhabitants of the Virtuous City*, and *The Harmonization of the Opinions of the Two Sages* (attributed to him).
 - **Avicenna** (d. 428 AH): "al-Shaykh al-Ra'is," author of *The Healing*, *The Salvation*, and *Pointers and Reminders*.
 - **Abu al-Barakat al-Baghdadi** (d. after 560 AH): author of *Al-Mu'tabar fi al-Hikma*, who criticized many of the principles of Peripateticism.
 - **Ibn Bajja** (d. 533 AH): author of *The Regime of the Solitary*.

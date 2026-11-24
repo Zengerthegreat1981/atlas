@@ -55,7 +55,7 @@ Factor analyses consistently confirm a unidimensional factor structure across di
 
 The GAD-7 is widely implemented in primary care, specialized psychiatric clinics, and medical inpatient settings. It is frequently paired with the 9-item Patient Health Questionnaire (PHQ-9) to screen simultaneously for depression and anxiety within the Primary Care Evaluation of Mental Disorders (PRIME-MD) framework. 
 
-The scale has been translated and psychometrically validated across multiple languages and cultures, including numerous Arabic adaptations in Egypt, Saudi Arabia, and the United Arab Emirates. Arabic validations have confirmed its single-factor structure, high internal consistency (alphas typically ranging from 0.86 to 0.92), and clinical utility in primary care.
+The scale has been translated and psychometrically validated across multiple languages and cultures, including Arabic adaptations; reported psychometric properties of translated versions should be checked for the specific version and population.
 
 ## Limitations and Diagnostic Caveats
 

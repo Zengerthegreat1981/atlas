@@ -20,7 +20,7 @@ gaps: []
 
 # Advaita Vedanta versus Dvaita Vedanta: Is the World Illusion or Reality?
 
-One of the great debates in Indian philosophy, between the Advaita school associated with Shankara and the Dvaita school founded by Madhva. Shankara is traditionally dated 788-820 CE, though modern scholarship generally places him in the eighth century (roughly 700-750 CE); he is credited with the summary "Brahman is real, the world is mithya (not ultimately real), the self is Brahman". Madhva is dated 1238-1317 CE by most modern scholars (the tradition gives 1199-1278 CE); he affirmed that the world is real, that differences are real and eternal, and that Vishnu is the supreme, independent reality.
+One of the great debates in Indian philosophy, between the Advaita school associated with Shankara and the Dvaita school founded by Madhva. Shankara is traditionally dated 788-820 CE, though modern scholarship generally places him in the eighth century (roughly 700-750 CE); he is credited with the summary "Brahman is real, the world is mithya (not ultimately real), the self is Brahman". Madhva is traditionally dated 1238-1317 CE (some modern scholars propose c. 1199-1278 CE); he affirmed that the world is real, that differences are real and eternal, and that Vishnu is the supreme, independent reality.
 
 ## The First Position: Advaita (Shankara)
 

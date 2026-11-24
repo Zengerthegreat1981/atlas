@@ -29,7 +29,7 @@ Christian existentialists such as Paul Tillich and Gabriel Marcel also influence
 
 ## The Secular Phenomenological Critique
 
-Conversely, the secular existential tradition, derived from Jean-Paul Sartre, Albert Camus, and Simone de Beauvoir, insists that existential analysis must operate within radical ontological finitude. In *Being and Nothingness* (1943), Sartre asserted that existence precedes essence: there is no pre-given human nature, no cosmic blueprint, and no transcendent guarantor. The human being is "condemned to be free" and must bear the agony of self-definition in an indifferent universe.
+Conversely, the secular existential tradition, derived from Jean-Paul Sartre, Albert Camus, and Simone de Beauvoir, insists that existential analysis must operate within radical ontological finitude. In *Being and Nothingness* (1943) and the lecture *Existentialism Is a Humanism* (1946), Sartre maintained that existence precedes essence: there is no pre-given human nature, no cosmic blueprint, and no transcendent guarantor. The human being is "condemned to be free" and must bear the agony of self-definition in an indifferent universe.
 
 From this perspective, introducing a spiritual dimension risks re-importing metaphysical consolations through the back door, offering therapeutic substitutes for the very illusions philosophy sought to dismantle. Methodologically, secular existentialists argue that the clinician's responsibility is to help the client confront groundlessness and responsibility directly, cautioning that spiritualized frameworks can degenerate into pastoral guidance or clinician-imposed dogmas.
 
@@ -44,9 +44,10 @@ In traditional and non-Western settings, including the Arab and Islamic world, t
 ## Sources
 
 - Frankl, Viktor E. *The Doctor and the Soul: From Psychotherapy to Logotherapy*. Translated by Richard and Clara Winston. New York: Alfred A. Knopf, 1955. (German original: *Ärztliche Seelsorge*, 1946.)
-- Frankl, Viktor E. *Man's Search for Meaning*. Boston: Beacon Press, 1959. (German original: *Ein Psychologe erlebt das Konzentrationslager*, 1946.)
+- Frankl, Viktor E. *Man's Search for Meaning*. Boston: Beacon Press, 1959. (German original: *Ein Psycholog erlebt das Konzentrationslager*, 1946.)
 - van Deurzen, Emmy. *Existential Counselling and Psychotherapy in Practice*. 3rd ed. London: SAGE Publications, 2012.
 - Tillich, Paul. *The Courage to Be*. New Haven: Yale University Press, 1952.
 - Sartre, Jean-Paul. *Being and Nothingness: An Essay on Phenomenological Ontology*. Translated by Hazel E. Barnes. New York: Philosophical Library, 1956.
+- Sartre, Jean-Paul. *Existentialism Is a Humanism*. 1946 (lecture given 1945).
 - al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din* [*The Revival of the Religious Sciences*]. 4 vols. Cairo: al-Maktaba al-Tijariyya al-Kubra, n.d.
 - Yalom, Irvin D. *Existential Psychotherapy*. New York: Basic Books, 1980.

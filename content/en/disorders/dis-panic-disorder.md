@@ -48,11 +48,11 @@ Panic disorder is of particular interest to the existential tradition because th
 
 ## Key works
 
-Clark's 1986 paper gave the field its cognitive model. Barlow's *Anxiety and Its Disorders* (2002) is the standard reference on the nature and treatment of anxiety and panic, and the Craske and Barlow manual (2007) is the standard treatment text. DSM-5-TR (2022) is the current diagnostic source.
+Clark's 1986 paper gave the field its cognitive model. Barlow's *Anxiety and Its Disorders* (2002) is a major reference on the nature and treatment of anxiety and panic, and the Craske and Barlow manual (2007) is a widely used treatment text. DSM-5-TR (2022) is the current diagnostic source.
 
 ## Epidemiological and Cultural Context
 
-Epidemiological studies from the WHO World Mental Health Survey Initiative estimate the lifetime prevalence of panic disorder at approximately 1% to 3% across diverse international settings (Kessler et al., 2006). In Arab and Middle Eastern populations, community and primary care surveys (e.g., in Saudi Arabia, Lebanon, and Egypt) report 12-month prevalence rates generally ranging between 1.5% and 2.5% (Karam et al., 2006). Clinically, panic attacks in the Arab context often present with prominent autonomic and respiratory sensations, such as choking (*al-khanaq*), acute palpitations, chest tightness, and a fear of impending cardiac death. Sufferers frequently undergo repeated emergency room visits and extensive medical workups for cardiovascular disease before the condition is recognized as panic disorder and psychiatric or psychological care is pursued.
+Epidemiological studies, including the WHO World Mental Health Surveys, estimate the lifetime prevalence of panic disorder at roughly 1% to 5% depending on the setting and study (for example, about 4.7% in the US National Comorbidity Survey Replication; Kessler et al., 2006). Regional data for Arab and Middle Eastern populations are more limited. Clinically, panic attacks in the Arab context often present with prominent autonomic and respiratory sensations, such as choking (*al-khanaq*), acute palpitations, chest tightness, and a fear of impending cardiac death. Sufferers frequently undergo repeated emergency room visits and extensive medical workups for cardiovascular disease before the condition is recognized as panic disorder and psychiatric or psychological care is pursued.
 
 ## Sources
 
@@ -61,6 +61,5 @@ Epidemiological studies from the WHO World Mental Health Survey Initiative estim
 - Barlow, David H. (2002). *Anxiety and Its Disorders: The Nature and Treatment of Anxiety and Panic*, 2nd ed. Guilford Press.
 - Clark, David M. (1986). A cognitive approach to panic. *Behaviour Research and Therapy*, 24(4), 461–470.
 - Craske, Michelle G., and Barlow, David H. (2007). *Mastery of Your Anxiety and Panic*, 4th ed. Oxford University Press.
-- Karam, E. G., et al. (2006). Lifetime prevalence of mental disorders in Lebanon: First onset, treatment, and exposure to war. *PLOS Medicine*, 3(10), e400.
 - Kessler, R. C., et al. (2006). The epidemiology of panic attacks, panic disorder, and agoraphobia in the National Comorbidity Survey Replication. *Archives of General Psychiatry*, 63(4), 415–424.
 - Klein, Donald F. (1964). Delineation of two drug-responsive anxiety syndromes. *Psychopharmacologia*, 5, 397–408.

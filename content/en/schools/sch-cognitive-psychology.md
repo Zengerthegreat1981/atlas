@@ -39,7 +39,7 @@ Cognitive psychology is the scientific study of internal mental processes, inclu
 The emergence of cognitive psychology is conventionally dated to **1956**, marked by several key intellectual milestones:
 - **George A. Miller (1920–2012)** published his seminal paper "The Magical Number Seven, Plus or Minus Two" (1956), demonstrating quantitative capacity limitations in human immediate memory and introducing the concept of cognitive *chunking*. In 1960, Miller, Eugene Galanter, and Karl Pribram published *Plans and the Structure of Behavior*, proposing the TOTE unit (Test-Operate-Test-Exit) to replace the stimulus-response reflex arc.
 - **The Dartmouth and MIT Information Symposia (1956)**: Early artificial intelligence demonstrations by Allen Newell and Herbert Simon, together with developments in Claude Shannon's mathematical theory of communication.
-- **Noam Chomsky's Linguistic Critique (1959)**: Chomsky's devastating review of B. F. Skinner's *Verbal Behavior* proved that operant conditioning cannot account for universal grammar, the poverty of the stimulus, or the generative creativity of human syntax.
+- **Noam Chomsky's Linguistic Critique (1959)**: Chomsky's influential review of B. F. Skinner's *Verbal Behavior* argued that operant conditioning cannot account for universal grammar, the poverty of the stimulus, or the generative creativity of human syntax.
 - **Institutionalization and Naming**: In 1960, Miller and Jerome Bruner founded the Harvard Center for Cognitive Studies. In 1967, **Ulric Neisser (1928–2012)** published the defining textbook *Cognitive Psychology*, synthesizing perception, attention, and memory into a cohesive discipline, though Neisser later championed ecological validity in *Cognition and Reality* (1976).
 
 ## Information Processing and Cognitive Architecture
@@ -64,7 +64,7 @@ Their development of Prospect Theory (1979) founded behavioral economics, leadin
 
 ## Reconstructive Memory and Eyewitness Testimony
 
-**Elizabeth Loftus** revolutionized memory research by demonstrating that human memory is not an accurate recording device, but an active, malleable reconstructive process. Through classic experiments (e.g., Loftus & Palmer, 1974), she identified the *misinformation effect*, proving that post-event suggestive questioning can alter eyewitness recollections of accidents and crimes, and even implant entirely false autobiographical memories. Her work transformed judicial standards regarding eyewitness reliability and recovered memory therapies.
+**Elizabeth Loftus** revolutionized memory research by demonstrating that human memory is not an accurate recording device, but an active, malleable reconstructive process. Through classic experiments (e.g., Loftus & Palmer, 1974), she identified the *misinformation effect*, showing that post-event suggestive questioning can alter eyewitness recollections of accidents and crimes, and even implant entirely false autobiographical memories. Her work has been influential in debates about eyewitness reliability and recovered memory therapies.
 
 ## Methodological Critiques and Contemporary Directions
 

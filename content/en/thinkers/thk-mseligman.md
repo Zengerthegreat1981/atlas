@@ -57,7 +57,7 @@ In *Flourish* (2011) he replaced the authentic happiness theory with a multidime
 
 Seligman also expanded positive psychology into domains of resilience and persistent effort:
 - **Post-Traumatic Growth (PTG)**: drawing on the research of Richard Tedeschi and Lawrence Calhoun, Seligman emphasized that severe adversity and trauma do not inevitably lead solely to PTSD or a mere return to baseline functioning. For many individuals, struggling with trauma can catalyze deep positive psychological change, including an intensified appreciation for life, deepened relationships, and new spiritual or existential clarity. This principle was incorporated into the Penn Resiliency Program and military resilience training.
-- **Grit**: within the Positive Psychology Center at the University of Pennsylvania, Seligman mentored and worked alongside Angela Duckworth, whose landmark research defined "grit" as passion and perseverance for long-term goals. Duckworth demonstrated that grit often predicts success in demanding domains (such as West Point military training and academic contests) more reliably than standardized measures of cognitive ability.
+- **Grit**: within the Positive Psychology Center at the University of Pennsylvania, Seligman mentored and worked alongside Angela Duckworth, whose landmark research defined "grit" as passion and perseverance for long-term goals. Duckworth and colleagues reported that grit predicted success in demanding domains (such as West Point military training and spelling bee contests), sometimes beyond what standardized measures of cognitive ability predicted; the construct's predictive value has since been debated.
 
 In 2018 he published *The Hope Circuit*, a memoir and review of his career.
 
@@ -69,7 +69,7 @@ He is linked to the legacy of Maslow and Rogers in their concern with growth and
 
 Positive psychology achieved a broad institutional presence, but it drew criticism from several directions. Becker and Marecek argued in an article in the journal Theory & Psychology in 2008 that it presents an individualistic picture of happiness and overlooks the influence of social and political conditions on well-being. Barbara Ehrenreich criticized it in *Bright-Sided* (2009) because, in her view, it places the burden on the individual and covers up structural injustice, a criticism that recurs in critical studies of happiness as a duty. On the methodological side, it emerged that a number of the results of positive interventions have small effects and that some studies were not easily reproduced.
 
-His role in the Comprehensive Soldier Fitness program, which the US Army adopted in 2009 on the basis of the Penn Resiliency Program, is also criticized, and Eidelson, Pilisuk and Soldz wrote in American Psychologist in 2011 about its dark sides, among them the lack of sufficient prior evaluation. As for the controversy over torture after 2001, the 2015 Hoffman report for the American Psychological Association showed that Seligman gave a lecture on learned helplessness at a meeting connected to the Survival, Evasion, Resistance and Escape (SERE) program in 2002; Seligman affirms that he did not know his ideas were being used in interrogation, and the matter has differing readings.
+His role in the Comprehensive Soldier Fitness program, which the US Army adopted in 2009 on the basis of the Penn Resiliency Program, is also criticized, and Eidelson, Pilisuk and Soldz wrote in American Psychologist in 2011 about its dark sides, among them the lack of sufficient prior evaluation. As for the controversy over torture after 2001, the 2015 Hoffman report for the American Psychological Association reported that Seligman gave a lecture on learned helplessness at a meeting connected to the Survival, Evasion, Resistance and Escape (SERE) program in 2002; Seligman affirms that he did not know his ideas were being used in interrogation, and the matter has differing readings.
 
 ## Sources
 
@@ -79,4 +79,7 @@ His role in the Comprehensive Soldier Fitness program, which the US Army adopted
 - Seligman, M. E. P. Flourish: A Visionary New Understanding of Happiness and Well-being. New York: Free Press, 2011.
 - Peterson, C., & Seligman, M. E. P. Character Strengths and Virtues: A Handbook and Classification. New York: Oxford University Press, 2004.
 - Maier, S. F., & Seligman, M. E. P. "Learned helplessness at fifty: Insights from neuroscience." Psychological Review, 123(4), 2016.
+- Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. Journal of Abnormal Psychology, 87(1), 49–74.
+- Ehrenreich, B. (2009). Bright-Sided: How Positive Thinking Is Undermining America. Metropolitan Books.
+- Eidelson, R., Pilisuk, M., & Soldz, S. (2011). The dark side of Comprehensive Soldier Fitness. American Psychologist, 66(7), 643–651.
 - Becker, D., & Marecek, J. "Positive psychology: History in the remaking?" Theory & Psychology, 18(5), 2008.

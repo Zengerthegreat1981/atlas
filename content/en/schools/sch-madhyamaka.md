@@ -22,7 +22,7 @@ gaps: []
 
 # Madhyamaka (Prāsaṅgika and Svātantrika)
 
-Madhyamaka ("the Middle Way doctrine") is the most important school of Mahayana Buddhist philosophy in India, founded by Nāgārjuna (c. 150–250 CE). It holds that all phenomena are "empty" (śūnyatā) of fixed inherent nature (svabhāva), and that this emptiness is not nothingness but is the very same as dependent origination (pratītyasamutpāda), so that the Middle is between affirming a permanent substance (eternalism) and denying existence altogether (annihilationism).
+Madhyamaka ("the Middle Way doctrine") is one of the two major schools of Indian Mahayana Buddhist philosophy (with Yogācāra), traditionally traced to Nāgārjuna (c. 150–250 CE). It holds that all phenomena are "empty" (śūnyatā) of fixed inherent nature (svabhāva), and that this emptiness is not nothingness but is the very same as dependent origination (pratītyasamutpāda), so that the Middle is between affirming a permanent substance (eternalism) and denying existence altogether (annihilationism).
 
 ## Origins and Context
 

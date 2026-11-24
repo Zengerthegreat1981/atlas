@@ -66,7 +66,7 @@ In clinical trials, a score of 7 or lower is widely adopted as the benchmark for
 
 Inter-rater reliability of the HDRS is generally high when administered by adequately calibrated clinicians, with intraclass correlation coefficients typically exceeding 0.85. The scale displays strong concurrent validity with other depression metrics, including the Beck Depression Inventory-II (BDI-II) and the Montgomery-Åsberg Depression Rating Scale (MADRS).
 
-In non-Western and Arab contexts, psychometric adaptations (such as validations conducted in Egypt, Saudi Arabia, and the Arabian Gulf by El-Rufaie, Absood, and colleagues) confirmed high inter-rater concordance and sensitivity to antidepressant response. However, cross-cultural studies observe that non-Western and Arab cohorts frequently endorse higher baseline somatic and hypochondriacal items relative to affective complaints, reflecting cultural idioms of distress and necessitating caution when interpreting somatic elevations.
+In non-Western and Arab contexts, Arabic versions of the scale are in use, but published validation evidence varies. Somatic items may be endorsed more prominently in some cultural settings, reflecting idioms of distress, which calls for caution when interpreting somatic elevations.
 
 ## Limitations and Contemporary Criticisms
 

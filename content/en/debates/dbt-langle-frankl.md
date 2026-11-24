@@ -52,7 +52,7 @@ Today there are two independent institutional networks, and two terms that are s
 
 ## Sources
 
-- Frankl, V. E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, Beacon Press, 1959 in its first English edition.)
+- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, Beacon Press, 1959 in its first English edition.)
 - Frankl, V. E. (1969). *The Will to Meaning: Foundations and Applications of Logotherapy*. World Publishing.
 - Frankl, V. E. (1955). *The Doctor and the Soul: From Psychotherapy to Logotherapy*. Knopf.
 - Längle, A. (2003). The method of personal existential analysis. *European Psychotherapy, 4*(1), 37–53.

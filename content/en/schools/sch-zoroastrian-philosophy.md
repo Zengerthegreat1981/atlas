@@ -8,7 +8,7 @@ title: "Zoroastrian Philosophy"
 en: "Zoroastrian Philosophy"
 crumb: "Philosophy ← Schools ← Zoroastrian Philosophy"
 dates: "Iran · from the second millennium BCE (disputed) to the present"
-country: "Iran (ancient); the Parthian and Indian communities (the Parsis)"
+country: "Iran (ancient); the Iranian and Indian (Parsi) communities"
 language: "Old Persian (Avestan), Pahlavi (Middle Persian)"
 active_start: -1500
 active_end: "مستمر"

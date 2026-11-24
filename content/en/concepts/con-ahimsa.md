@@ -52,7 +52,7 @@ Ahimsa is usually defined negatively, as the avoidance of harm, but many interpr
 
 ## Arabic and Islamic Scholarly Reception
 
-The principle of non-harm (*ahimsa*) entered classical Arabic scholarship through Abu Rayhan al-Biruni (973–ca. 1050). In his extensive study *Tahqiq ma li-l-Hind* (Critical Study of What India Says, ca. 1030), al-Biruni provided a descriptive account of Indian philosophy, detailing the metaphysical grounding of harmlessness toward living beings across Jain, Buddhist, and Hindu traditions. In modern Arabic thought, the concept was explored primarily through Mahatma Gandhi's philosophy of nonviolence (*al-la-'unf*). Egyptian intellectual Abbas Mahmud al-Aqqad published an intellectual study, *Ruh 'Azim: Mahatma Gandhi* (1952), examining *ahimsa* and *satyagraha* as ethical and political forces. Syrian Islamic thinker Jawdat Said (1931–2022) engaged with Gandhian nonviolence in works like *Madhhab Ibn Adam al-Awwal* (The Doctrine of the First Son of Adam, 1966), developing an Islamic philosophical framework of nonviolent resistance rooted in moral self-restraint.
+The principle of non-harm (*ahimsa*) entered classical Arabic scholarship through Abu Rayhan al-Biruni (973–ca. 1050). In his extensive study *Tahqiq ma li-l-Hind* (Critical Study of What India Says, ca. 1030), al-Biruni provided a descriptive account of Indian philosophy, detailing the metaphysical grounding of harmlessness toward living beings across Jain, Buddhist, and Hindu traditions. In modern Arabic thought, the concept was explored primarily through Mahatma Gandhi's philosophy of nonviolence (*al-la-'unf*). Egyptian intellectual Abbas Mahmud al-Aqqad published an intellectual study, *Ruh 'Azim: Mahatma Gandhi*, examining *ahimsa* and *satyagraha* as ethical and political forces. Syrian Islamic thinker Jawdat Said (1931–2022) engaged with Gandhian nonviolence in works like *Madhhab Ibn Adam al-Awwal* (The Doctrine of the First Son of Adam, 1966), developing an Islamic philosophical framework of nonviolent resistance rooted in moral self-restraint.
 
 ## Sources
 
@@ -61,5 +61,5 @@ The principle of non-harm (*ahimsa*) entered classical Arabic scholarship throug
 - Christopher Key Chapple, *Nonviolence to Animals, Earth, and Self in Asian Traditions*, State University of New York Press, 1993.
 - M. K. Gandhi, *An Autobiography: The Story of My Experiments with Truth*, 1927-29.
 - Abu Rayhan al-Biruni, *Tahqiq ma li-l-Hind min maqula maqbula fi al-'aql aw mardhula*, ca. 1030 (English: *Alberuni's India*, trans. Edward C. Sachau, 1888).
-- Abbas Mahmud al-Aqqad, *Ruh 'Azim: Mahatma Gandhi*, Dar al-Ma'arif, Cairo, 1952.
+- Abbas Mahmud al-Aqqad, *Ruh 'Azim: Mahatma Gandhi*, Cairo.
 - Jawdat Said, *Madhhab Ibn Adam al-Awwal: Mushkilat al-'unf fi al-'amal al-Islami*, Damascus, 1966.

@@ -40,8 +40,7 @@ In human existence, māyā manifests as *avidyā*—the cognitive misidentificat
 ## Modern Arabic-Language and Islamic Comparative Scholarship
 
 Modern Arabic-language philosophical scholarship engaged the concept of *māyā* primarily through comparative mysticism and the history of Eastern philosophy:
-- **Abu al-Ala Afifi and Comparative Mysticism**: In his landmark work *The Mystical Philosophy of Muhyid Din Ibnul Arabi* (1939) and his editorial commentaries on the *Fuṣūṣ al-Ḥikam*, Abu al-Ala Afifi examined the striking structural parallels between Advaitin *māyā* and Ibn 'Arabi's Akbarian doctrine of the cosmos as creative imagination (*khayāl*) and divine self-manifestation (*tajallī*). Afifi demonstrated that both traditions articulate a non-dual metaphysics wherein the empirical cosmos is neither absolute being (*wujūd muṭlaq*) nor absolute non-existence (*'adam maḥḍ*), but an ontologically dependent, intermediate manifestation.
-- **Abd al-Rahman Badawi and Eastern Philosophy**: In his studies on Eastern philosophies (*al-Falsafa al-Sharqiyya*), Abd al-Rahman Badawi analyzed Shankara's metaphysics, defending *māyā* against European charges of crude nihilism by comparing it to modern epistemological distinctions between phenomenon and reality.
+- **Abu al-Ala Afifi and Comparative Mysticism**: In his landmark work *The Mystical Philosophy of Muhyid Din Ibnul Arabi* (1939) and his editorial commentaries on the *Fuṣūṣ al-Ḥikam*, Abu al-Ala Afifi studied Ibn 'Arabi's doctrine of the cosmos as creative imagination (*khayāl*) and divine self-manifestation (*tajallī*), in which the empirical cosmos is neither absolute being (*wujūd muṭlaq*) nor absolute non-existence (*'adam maḥḍ*), but a dependent, intermediate manifestation. Comparative scholars have set this doctrine beside Advaitin *māyā*, though Afifi's own comparisons were chiefly with Neoplatonism and other Western and Islamic traditions.
 
 ## Comparative Philosophy
 

@@ -65,7 +65,7 @@ This entry concentrates on the philosophical dialectic between authenticity and 
 
 ## Sources
 
-- Adorno, T. W. (1973). *The Jargon of Authenticity* (K. Tardunos & E. B. Ashton, Trans.). Northwestern University Press. (Original German work published 1964).
+- Adorno, T. W. (1973). *The Jargon of Authenticity* (K. Tarnowski & F. Will, Trans.). Northwestern University Press. (Original German work published 1964).
 - Beauvoir, S. de (1948). *The Ethics of Ambiguity* (B. Frechtman, Trans.). Philosophical Library. (Original French work published 1947).
 - Bugental, J. F. T. (1987). *The Art of the Psychotherapist*. W. W. Norton.
 - Heidegger, M. (1962). *Being and Time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original German work published 1927).

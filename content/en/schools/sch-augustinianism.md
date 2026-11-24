@@ -24,7 +24,7 @@ gaps: []
 
 # Augustinianism
 
-A philosophical-theological tradition founded by **Augustine of Hippo** (354–430 CE), bishop of Hippo in North Africa. Augustine is regarded as the greatest Christian thinker in the West before Thomas Aquinas and the founder of the whole of **Latin Christian philosophy**. His Augustinianism influenced medieval philosophy (Thomism, Bonaventurianism), the Protestant Reformation (Luther and Calvin), and modern philosophy (existentialism, phenomenology). His contributions include epistemology (divine illumination), the theory of language, political theology (*The City of God*), the theory of time, the problem of evil, and the problem of freedom and grace.
+A philosophical-theological tradition founded by **Augustine of Hippo** (354–430 CE), bishop of Hippo in North Africa. Augustine is regarded as one of the most influential Christian thinkers in the West before Thomas Aquinas and as a formative figure of **Latin Christian philosophy**. His Augustinianism influenced medieval philosophy (Thomism, Bonaventurianism), the Protestant Reformation (Luther and Calvin), and modern philosophy (existentialism, phenomenology). His contributions include epistemology (divine illumination), the theory of language, political theology (*The City of God*), the theory of time, the problem of evil, and the problem of freedom and grace.
 
 ## Founding Context
 
@@ -32,7 +32,7 @@ Augustine was born in Tagaste (present-day Algeria) to a Christian mother (Monic
 
 ## Prominent Figures
 
-- **Augustine himself** (354–430): the synthesizer, who wrote more than 100 works and 600 letters.
+- **Augustine himself** (354–430): the synthesizer, who left an extensive body of treatises, letters and sermons.
 - **Ambrose** (Ambrose of Milan, c. 339–397): bishop of Milan, whose preaching and allegorical reading of scripture influenced Augustine, and who baptised him in 387.
 - **Monica** (Monica of Hippo, c. 331–387): his mother, venerated as a saint.
 - **Possidius** (bishop of Calama): Augustine's disciple and biographer (*Life of Augustine*).
@@ -97,7 +97,7 @@ The *Confessions* (Confessiones) are a self-recollection (a spiritual autobiogra
 
 ## Later Influence
 
-- **In medieval theology**: it formed the basis of all Latin theology (Thomas Aquinas, Bonaventure, Duns Scotus).
+- **In medieval theology**: it shaped much of Latin theology (Thomas Aquinas, Bonaventure, Duns Scotus).
 - **In the Protestant Reformation**: Luther and Calvin drew on it, especially on the questions of "grace" and "justification by faith."
 - **In modern philosophy**: Augustine's "if I am mistaken, I am" (*si fallor, sum*, *City of God* XI.26) was compared to Descartes's cogito by contemporaries such as Arnauld, and his analysis of time and inner experience influenced twentieth-century phenomenology (for example Heidegger and Husserl's lectures on time).
 - **In contemporary philosophy**: recent political theologians such as Eric Gregory and Charles Mathewes have returned to Augustine's account of love and the two cities.

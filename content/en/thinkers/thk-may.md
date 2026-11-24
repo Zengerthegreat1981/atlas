@@ -26,11 +26,11 @@ gaps: []
 
 # Rollo May
 
-Rollo Reese May (1909–1994) was an American psychologist and psychotherapist, the bridge who carried the European existential tradition into English and wrote the first serious American treatment of existential anxiety. Without him that tradition would have remained confined to German and French for American therapists.
+Rollo Reese May (1909–1994) was an American psychologist and psychotherapist, a leading figure in bringing the European existential tradition to American therapists and the author of an early, influential American treatment of existential anxiety.
 
 ## Life and Context
 
-May was born in Ada, Ohio, and died in Tiburon, California. He studied English literature at Oberlin College, then spent three years teaching in Greece, and in the summer of 1932 attended Alfred Adler's seminars in Vienna. Back in the United States he studied at Union Theological Seminary in New York, where Paul Tillich became his closest friend and teacher, and in 1949 earned a doctorate in clinical psychology at Columbia University; his dissertation became his first book on anxiety. Around the time he completed his doctorate he contracted tuberculosis and spent about eighteen months in a sanatorium, an experience he regarded as the start of his reflections on the fear of death. He was later associated with the William Alanson White Institute and with Saybrook Graduate School in California.
+May was born in Ada, Ohio, and died in Tiburon, California. He studied English literature at Oberlin College, then spent three years teaching in Greece, and in the summer of 1932 attended Alfred Adler's seminars in Vienna. Back in the United States he studied at Union Theological Seminary in New York, where Paul Tillich became his closest friend and teacher, and in 1949 earned a doctorate in clinical psychology at Columbia University; his dissertation became his first book on anxiety. In the 1940s he contracted tuberculosis and spent about eighteen months in a sanatorium, an experience he regarded as the start of his reflections on the fear of death. He was later associated with the William Alanson White Institute and with Saybrook Graduate School in California.
 
 ## Main Ideas
 
@@ -61,10 +61,6 @@ Anxiety, non-being, the daimonic, courage, the American humanistic current, Till
 ## Major Works
 
 The Meaning of Anxiety (1950) · Man's Search for Himself (1953) · Existence: A New Dimension in Psychiatry and Psychology (co-edited, 1958) · Love and Will (1969) · The Courage to Create (1975)
-
-## Selected Quotations
-
-"The opposite of courage in our society is not cowardice, it is conformity." — The Courage to Create, 1975
 
 ## Sources
 

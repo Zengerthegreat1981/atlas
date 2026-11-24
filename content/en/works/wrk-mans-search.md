@@ -19,7 +19,7 @@ gaps: []
 
 # Man's Search for Meaning: The Will to Meaning in the Camps
 
-*Man's Search for Meaning* (1946) by Viktor Frankl is the most widely read text of the existential tradition and the most contested inside it. First published in German in Vienna as *Ein Psycholog erlebt das Konzentrationslager* — "A Psychologist Experiences the Concentration Camp" — it is at once a memoir of the Nazi camps and the founding statement of logotherapy, Frankl's therapy of meaning. Its fame rests on the first half; its professional significance rests on the second.
+*Man's Search for Meaning* (1946) by Viktor Frankl is among the most widely read texts associated with the existential tradition, and a contested one within it. First published in German in Vienna as *Ein Psycholog erlebt das Konzentrationslager* — "A Psychologist Experiences the Concentration Camp" — it is at once a memoir of the Nazi camps and the founding statement of logotherapy, Frankl's therapy of meaning. Its fame rests on the first half; its professional significance rests on the second.
 
 ## The Thesis: The Will to Meaning
 

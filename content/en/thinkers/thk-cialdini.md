@@ -54,7 +54,7 @@ In 2004, Cialdini and Noah Goldstein published an authoritative review in the *A
 
 ## Impact and Criticism
 
-Cialdini's research has exerted a profound influence across academic psychology, marketing, organizational management, and public policy, directly informing the "nudging" and behavioral insights frameworks adopted by governments worldwide.
+Cialdini's research has exerted a profound influence across academic psychology, marketing, organizational management, and public policy, informing the "nudging" and behavioral insights frameworks adopted by governments worldwide.
 
 Criticisms of his framework focus on two primary concerns:
 - **Taxonomic versus explanatory power**: Critics argue that the six (or seven) principles represent a descriptive taxonomy of influence heuristics rather than a unified deductive theory, making it easy to invoke principles post-hoc to explain varied outcomes.

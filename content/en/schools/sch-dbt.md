@@ -31,7 +31,7 @@ gaps: []
 
 # Dialectical Behavior Therapy (DBT)
 
-Dialectical Behavior Therapy (DBT) is an intensive, evidence-based multimodal psychotherapy developed by **Marsha M. Linehan**. Originally formulated to treat chronically suicidal individuals diagnosed with borderline personality disorder (BPD), it has expanded into a premier transdiagnostic intervention for severe pervasive emotion dysregulation. DBT is grounded in dialectical philosophy, synthesizing classical cognitive-behavioral change technologies with Eastern-derived mindfulness practices and radical acceptance.
+Dialectical Behavior Therapy (DBT) is an intensive, evidence-based multimodal psychotherapy developed by **Marsha M. Linehan**. Originally formulated to treat chronically suicidal individuals diagnosed with borderline personality disorder (BPD), it has been extended to other conditions involving severe emotion dysregulation. DBT is grounded in dialectical philosophy, synthesizing classical cognitive-behavioral change technologies with Eastern-derived mindfulness practices and radical acceptance.
 
 ## Intellectual Origins and Biosocial Theory
 
@@ -64,18 +64,18 @@ Comprehensive standard DBT comprises four mandatory modalities:
 
 ## DBT Prolonged Exposure (DBT-PE) for PTSD
 
-A major breakthrough in clinical DBT was the development of the **DBT Prolonged Exposure (DBT-PE)** protocol by Melanie Harned. Historically, PTSD among individuals with BPD and chronic self-injurious behavior went untreated because standard exposure therapies were considered too destabilizing for high-risk cohorts.
+A notable development in clinical DBT was the development of the **DBT Prolonged Exposure (DBT-PE)** protocol by Melanie Harned. Historically, PTSD among individuals with BPD and chronic self-injurious behavior went untreated because standard exposure therapies were considered too destabilizing for high-risk cohorts.
 
 DBT-PE is an integrated protocol implemented in Stage 2 of treatment, following strict readiness criteria:
 - The patient must achieve Stage 1 behavioral stabilization, demonstrated by the absence of imminent suicidal behavior, past-month self-injury, or active therapy-interfering behaviors.
 - The protocol adapts Edna Foa's Prolonged Exposure framework, incorporating structured imaginal exposure to traumatic memories, in vivo exposure to avoided safe trauma cues, and cognitive processing of trauma-related emotions (such as misplaced self-blame, trauma-related guilt, and shame).
-- Randomized controlled trials (Harned et al., 2014, 2021) demonstrated that integrating DBT-PE achieves high rates of PTSD remission without triggering an increase in suicidal or self-harming behaviors, effectively dismantling the historical clinical assumption that trauma exposure is contraindicated in borderline pathology.
+- A pilot randomized controlled trial (Harned et al., 2014) found that adding DBT-PE to DBT improved PTSD outcomes without an increase in suicidal or self-harming behaviors, challenging the historical assumption that trauma exposure is unsafe in this population; evidence remains limited and the protocol requires specialist training.
 
 ## Clinical Scope and Methodological Caveats
 
 DBT has been adapted into specialized protocols: Radically Open DBT (RO-DBT, developed by Thomas Lynch for disorders of overcontrol like anorexia nervosa), DBT for Adolescents (DBT-A, incorporating multifamily skills groups), and DBT for Substance Use Disorders (DBT-SUD).
 
-Clinical caveats emphasize that DBT is an intensive, resource-heavy intervention requiring rigorous training and multidisciplinary institutional infrastructure. While meta-analyses confirm robust efficacy in reducing self-injury, psychiatric hospitalizations, and suicide attempts, scaling comprehensive DBT in low-resource public healthcare environments remains a persistent operational challenge.
+Clinical caveats emphasize that DBT is an intensive, resource-heavy intervention requiring rigorous training and multidisciplinary institutional infrastructure. While meta-analyses indicate efficacy in reducing self-injury, psychiatric hospitalizations, and suicide attempts, scaling comprehensive DBT in low-resource public healthcare environments remains a persistent operational challenge.
 
 ## Sources
 

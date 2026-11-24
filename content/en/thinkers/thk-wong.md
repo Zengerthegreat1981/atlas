@@ -53,7 +53,7 @@ To help clients navigate acute trauma and unchangeable suffering, Wong devised t
 - **E (Evaluation)**: Reviewing progress and celebrating small existential victories.
 
 ### Death Attitudes and the DAP-R
-In collaboration with Gary T. Reker and George Gesser, Wong developed the **Death Attitude Profile-Revised** (DAP-R, 1994), a standardized instrument that dismantled the simplistic view of death anxiety. The DAP-R distinguishes five distinct orientations toward death:
+In collaboration with Gary T. Reker and George Gesser, Wong developed the **Death Attitude Profile-Revised** (DAP-R, 1994), a standardized instrument that treats attitudes toward death as multidimensional rather than as fear alone. The DAP-R distinguishes five distinct orientations toward death:
 1. **Fear of Death**: Dread of pain, non-being, or the unknown.
 2. **Death Avoidance**: Refusal to think or speak about death.
 3. **Neutral Acceptance**: Perceiving death as an inevitable, natural biological fact.
@@ -62,7 +62,7 @@ In collaboration with Gary T. Reker and George Gesser, Wong developed the **Deat
 
 ## Reception and Critique
 
-Wong's integration of meaning-centered existentialism with quantitative research has been widely adopted in palliative care, oncology counseling, bereavement support, and multicultural clinical practice. His edited volume *The Human Quest for Meaning* (1998; 2nd ed. 2012) serves as a primary international reference on meaning research.
+Wong's integration of meaning-centered existentialism with quantitative research has been widely adopted in palliative care, oncology counseling, bereavement support, and multicultural clinical practice. His edited volume *The Human Quest for Meaning* (1998; 2nd ed. 2012) is a widely cited reference on meaning research.
 
 Critics have noted that the concept of "meaning" remains broad and multifaceted, raising challenges for precise construct operationalization. Others argue that his critique of early positive psychology overstated its neglect of adversity, or that his clinical models blend psychological interventions with spiritual philosophies in ways that may feel prescriptive for purely secular clients. Nonetheless, his work remains a prominent bridge between existential therapy and empirical well-being research.
 
@@ -81,4 +81,4 @@ Critics have noted that the concept of "meaning" remains broad and multifaceted,
 - Wong, P. T. P. (2011). Positive psychology 2.0: Towards a balanced interactive model of the good life. *Canadian Psychology*, 52(2), 69–81.
 - Wong, P. T. P., Reker, G. T., & Gesser, G. (1994). Death Attitude Profile-Revised: A multidimensional measure of attitudes toward death. In R. A. Neimeyer (Ed.), *Death Anxiety Handbook: Research, Instrumentation, and Application* (pp. 121–148). Taylor & Francis.
 - Wong, P. T. P., & Wong, L. C. J. (Eds.). (2006). *Handbook of Multicultural Perspectives on Stress and Coping*. Springer.
-- Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+- Frankl, V. E. (1962). *Man's Search for Meaning*. Boston: Beacon Press.

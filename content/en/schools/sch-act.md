@@ -34,7 +34,7 @@ ACT developed partly in response to perceived limitations of traditional second-
 
 ## The Founders and Early Contributors
 
-The principal architect of ACT is **Steven C. Hayes**, Foundation Professor of Psychology at the University of Nevada, Reno. Key early co-developers include **Robert D. Zettle**, who conducted the initial randomized clinical trial on comprehensive distancing for depression, and **Kirk D. Strosahl** and **Kelly G. Wilson**, co-authors of the 1999 foundational manual. In 2005, Hayes and an international group of contextual behavioral scientists founded the **Association for Contextual Behavioral Science** (ACBS) as an open, non-hierarchical scientific home for ACT and RFT.
+The principal architect of ACT is **Steven C. Hayes**, Foundation Professor of Psychology at the University of Nevada, Reno. Key early co-developers include **Robert D. Zettle**, who co-authored the early comprehensive distancing study (Zettle & Hayes, 1986), and **Kirk D. Strosahl** and **Kelly G. Wilson**, co-authors of the 1999 foundational manual. In 2005, Hayes and an international group of contextual behavioral scientists founded the **Association for Contextual Behavioral Science** (ACBS) as an open, non-hierarchical scientific home for ACT and RFT.
 
 ## Core Theoretical Frameworks
 
@@ -65,7 +65,7 @@ ACT relies heavily on experiential exercises, paradoxes, and metaphors rather th
 
 ## Third Wave Founding and Priority
 
-The emergence of the "third wave" generated historical discussion regarding priority between Steven Hayes and Marsha Linehan, the developer of Dialectical Behavior Therapy (DBT). Linehan formulated DBT in the late 1980s and published her treatment manual in 1993, incorporating mindfulness, radical acceptance, and dialectical balance to treat borderline personality disorder and chronic suicidality well before the formal 1999 ACT manual. However, it was Hayes who formally articulated the theoretical construct and historical nomenclature of the "third wave" in a 2004 article, grouping ACT, DBT, Mindfulness-Based Cognitive Therapy (MBCT), and Functional Analytic Psychotherapy (FAP) under an umbrella emphasizing context, function, and acceptance over direct cognitive modification. Rather than a conflict of clinical primacy, historical consensus treats DBT as the earliest clinically manualized third-wave therapy and ACT as the movement's primary philosophical and contextual-theoretical framer.
+The emergence of the "third wave" generated historical discussion regarding priority between Steven Hayes and Marsha Linehan, the developer of Dialectical Behavior Therapy (DBT). Linehan formulated DBT in the late 1980s and published her treatment manual in 1993, incorporating mindfulness, radical acceptance, and dialectical balance to treat borderline personality disorder and chronic suicidality well before the formal 1999 ACT manual. However, it was Hayes who formally articulated the theoretical construct and historical nomenclature of the "third wave" in a 2004 article, grouping ACT, DBT, Mindfulness-Based Cognitive Therapy (MBCT), and Functional Analytic Psychotherapy (FAP) under an umbrella emphasizing context, function, and acceptance over direct cognitive modification. Rather than a conflict of clinical primacy, DBT is commonly described as the earliest clinically manualized third-wave therapy and ACT as a primary philosophical and contextual-theoretical framer of the movement.
 
 ## Clinical Applications and Evidence Base
 

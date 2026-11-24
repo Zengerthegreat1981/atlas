@@ -27,13 +27,13 @@ gaps: []
 
 # Salvador Minuchin
 
-Salvador Minuchin (1921–2017) was an Argentine-American psychiatrist, pediatrician, and the primary developer of **Structural Family Therapy** (SFT). Widely recognized as one of the preeminent pioneers of systemic family psychotherapy, Minuchin revolutionized clinical practice by shifting focus from individual intrapsychic conflicts to the transactional patterns, boundaries, and organizational hierarchies of the family unit.
+Salvador Minuchin (1921–2017) was an Argentine-American psychiatrist, pediatrician, and the primary developer of **Structural Family Therapy** (SFT). Widely recognized as a major pioneer of systemic family psychotherapy, Minuchin helped shift clinical focus from individual intrapsychic conflicts to the transactional patterns, boundaries, and organizational hierarchies of the family unit.
 
 ## Biography and Clinical Origins
 
 Minuchin was born in San Salvador, Entre Ríos, Argentina, to a family of Ukrainian-Jewish immigrants. He earned his medical degree from the University of Córdoba and served as a physician in the Israeli army during the 1948 Arab-Israeli War. Moving to New York, he completed training in child psychiatry and psychoanalysis at the William Alanson White Institute.
 
-In the early 1960s, Minuchin worked at the Wiltwyck School for Boys, an institutional facility for delinquent youths from disadvantaged urban backgrounds. Observing that conventional psychoanalytic interpretations failed to engage impoverished, multi-problem families, Minuchin partnered with Braulio Montalvo, Bernice L. Rosman, and Florence Schumer to develop an action-oriented, direct clinical methodology. This work culminated in their pioneering book, *Families of the Slums* (1967), which demonstrated that delinquency and behavioral disruptions are rooted in systemic family disorganization rather than inherent individual defect.
+In the early 1960s, Minuchin worked at the Wiltwyck School for Boys, an institutional facility for delinquent youths from disadvantaged urban backgrounds. Observing that conventional psychoanalytic interpretations failed to engage impoverished, multi-problem families, Minuchin partnered with Braulio Montalvo, Bernice L. Rosman, and Florence Schumer to develop an action-oriented, direct clinical methodology. This work culminated in their pioneering book, *Families of the Slums* (1967), which argued that delinquency and behavioral disruptions should be understood in terms of family organization rather than individual defect alone.
 
 From 1965 to 1975, Minuchin served as director of the Philadelphia Child Guidance Clinic (PCGC), transforming it into an internationally recognized center for family therapy research and training. He later founded the Family Studies Center in New York (renamed the Minuchin Center for the Family).
 
@@ -95,4 +95,5 @@ Minuchin's therapeutic posture was direct, active, and theatrical:
 - Minuchin, S., Rosman, B. L., & Baker, L. (1978). *Psychosomatic Families: Anorexia Nervosa in Context*. Harvard University Press.
 - Minuchin, S., & Fishman, H. C. (1981). *Family Therapy Techniques*. Harvard University Press.
 - Minuchin, S., Lee, W. Y., & Simon, G. M. (1996). *Mastering Family Therapy: Journeys of Growth and Transformation*. John Wiley & Sons.
+- Luepnitz, D. A. (1988). *The Family Interpreted: Feminist Theory in Clinical Practice*. Basic Books.
 - Hare-Mustin, R. T. (1978). A feminist approach to family therapy. *Family Process*, 17(2), 181–194.

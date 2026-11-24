@@ -27,7 +27,7 @@ gaps: []
 
 # General Psychopathology (Allgemeine Psychopathologie)
 
-*Allgemeine Psychopathologie* (1913), by Karl Jaspers, is the foundational work that introduced the phenomenological method into clinical psychiatry, remaining a core reference text more than a century after its initial appearance. Jaspers published the treatise as a young physician in his early thirties working under Franz Nissl at the Heidelberg University Psychiatric Clinic, prior to his transition to academic philosophy. He expanded and refined the volume across successive editions, culminating in the monumental seventh edition of 1959. The standard English translation by J. Hoenig and Marian W. Hamilton, published in 1963, renders that expanded 1959 text. The work demonstrated that phenomenology could establish a rigorous, cumulative, and teachable methodology within clinical medicine.
+*Allgemeine Psychopathologie* (1913), by Karl Jaspers, is the foundational work that introduced the phenomenological method into clinical psychiatry, remaining a core reference text more than a century after its initial appearance. Jaspers published the treatise as a young physician in his early thirties working under Franz Nissl at the Heidelberg University Psychiatric Clinic, prior to his transition to academic philosophy. He expanded and refined the volume across successive editions, culminating in the monumental seventh edition of 1959. The standard English translation by J. Hoenig and Marian W. Hamilton, published in 1963, renders that expanded 1959 text. The work argued that phenomenology could establish a rigorous, cumulative, and teachable methodology within clinical medicine.
 
 ## Understanding and Explanation
 

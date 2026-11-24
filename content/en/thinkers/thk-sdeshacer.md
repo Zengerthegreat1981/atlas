@@ -58,7 +58,7 @@ SFBT developed precise, structured conversational interventions designed to elic
 
 ## Evidence Base and Applications
 
-Initially met with skepticism by psychodynamic and structural theorists who questioned its brevity and avoidance of deep historical analysis, SFBT gradually established a substantial empirical evidence base. Systematic reviews and meta-analyses (such as Gingerich & Eisengart, 2000; Franklin et al., 2012) demonstrated its efficacy across diverse domains, including substance misuse treatment, school-based behavioral interventions, child welfare, family crises, and brief medical social work.
+Initially met with skepticism by psychodynamic and structural theorists who questioned its brevity and avoidance of deep historical analysis, SFBT gradually established a substantial empirical evidence base. Reviews of the outcome research (such as Gingerich & Eisengart, 2000, and the handbook edited by Franklin et al., 2012) described promising but still limited evidence across several domains, including substance misuse treatment, school-based behavioral interventions, child welfare, family crises, and brief medical social work.
 
 ## Major Works
 

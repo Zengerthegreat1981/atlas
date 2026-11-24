@@ -18,7 +18,7 @@ gaps: []
 
 # Fyodor Dostoevsky
 
-A Russian novelist (1821–1881), widely regarded as one of the supreme literary and intellectual ancestors of existentialism and modern depth psychology, although he preceded 20th-century existentialism by decades and was not an academic philosopher.
+A Russian novelist (1821–1881), widely regarded as one of the major literary and intellectual precursors of existentialism and modern depth psychology, although he preceded 20th-century existentialism by decades and was not an academic philosopher.
 
 ## Life and Context
 
@@ -38,7 +38,7 @@ Dostoevsky exerted an immense influence on modern philosophy, literature, and de
 - **Jean-Paul Sartre** took as a primary axiom of existentialism the phrase often attributed to Dostoevsky—"if God does not exist, everything is permitted"—using it to illustrate radical human abandonment and responsibility.
 - **Albert Camus** extensively analyzed Kirillov's philosophical suicide in *The Myth of Sisyphus* and adapted *Demons* for the theater.
 - **Sigmund Freud** regarded the psychological dynamics of the Karamazov family as fundamental to understanding the unconscious, devoting his 1928 paper "Dostoevsky and Parricide" to analyzing the author's neurosis, guilt, and ambivalence toward authority.
-- **Mikhail Bakhtin**, in *Problems of Dostoevsky's Poetics* (1929), established that Dostoevsky invented the "polyphonic novel," wherein characters express autonomous worldviews in unmerged dialogue, resisting reduction to a single authorial doctrine.
+- **Mikhail Bakhtin**, in *Problems of Dostoevsky's Poetics* (1929), argued that Dostoevsky created the "polyphonic novel," wherein characters express autonomous worldviews in unmerged dialogue, resisting reduction to a single authorial doctrine.
 
 ## A Caveat
 

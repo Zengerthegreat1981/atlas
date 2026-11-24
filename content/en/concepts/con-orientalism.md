@@ -21,7 +21,7 @@ gaps: []
 
 # Orientalism: The Concept
 
-For Edward Said (1935–2003), Orientalism denotes not an objective, neutral academic discipline, but a Western hegemonic discourse that constructs "the Orient" as an exotic, irrational, and inferior "Other," thereby providing ideological legitimation for Western colonial domination. Said formulated the concept in his pathbreaking study *Orientalism* (1978), which inaugurated contemporary postcolonial theory. Its influential Arabic translation by Kamal Abu Deeb appeared in Beirut in 1981 under the title *al-Istishrāq: al-Ma'rifa, al-Sulṭa, al-Inshā'*.
+For Edward Said (1935–2003), Orientalism denotes not an objective, neutral academic discipline, but a Western hegemonic discourse that constructs "the Orient" as an exotic, irrational, and inferior "Other," thereby providing ideological legitimation for Western colonial domination. Said formulated the concept in his influential study *Orientalism* (1978), a foundational text of postcolonial studies. Its influential Arabic translation by Kamal Abu Deeb appeared in Beirut in 1981 under the title *al-Istishrāq: al-Ma'rifa, al-Sulṭa, al-Inshā'*.
 
 ## The Three Interconnected Dimensions
 

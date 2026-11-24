@@ -36,7 +36,7 @@ Because human thought operates relationally, individuals chronically relive past
 
 ## Structure and Core Processes
 
-The manual blends clinical philosophy with practical exercises, structured around six core processes:
+The manual blends clinical philosophy with practical exercises, structured around a treatment sequence involving processes such as the following (the later hexaflex formalizes six core processes):
 1. **Creative Hopelessness**: Helping the client recognize that experiential control strategies have functioned as the problem rather than the solution ("control is the problem").
 2. **Acceptance and Willingness**: Actively allowing private experiences to come and go without fighting or fleeing them.
 3. **Cognitive Defusion**: Techniques designed to reduce the literal, dominant grip of language (such as repeating a painful thought rapidly until it sounds like meaningless acoustic sound).

@@ -75,4 +75,4 @@ A distinctive parallel to the Illuminationist critique of Peripateticism emerged
 - Walbridge, John. *The Science of Mystic Lights: Qutb al-Din Shirazi and the Illuminationist Tradition in Islamic Philosophy*. Cambridge, MA: Harvard University Press, 1992.
 - Walbridge, John. *The Leaven of the Ancients: Suhrawardī and the Heritage of the Greeks*. Albany: State University of New York Press, 2000.
 - Corbin, Henry. *En Islam iranien: aspects spirituels et philosophiques*, tome II. Paris: Gallimard, 1971.
-- Akasoy, Anna. *Philosophy and the Islamic Tradition of Hermeticism: Ibn Sab'in's Sicilian Questions*. Leiden: Brill, 2008.
+- Akasoy, Anna. *Philosophie und Mystik in der späten Almohadenzeit: Die Sizilianischen Fragen des Ibn Sab'īn*. Leiden: Brill, 2006.

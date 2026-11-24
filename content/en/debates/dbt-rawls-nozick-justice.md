@@ -20,7 +20,7 @@ gaps: []
 
 # The Rawls-Nozick Debate: Justice as Fairness versus the Entitlement Theory
 
-The debate between John Rawls and Robert Nozick stands as the defining dispute of late twentieth-century Anglo-American political philosophy, contrasting egalitarian liberal egalitarianism ("justice as fairness") with libertarian rights theory ("the entitlement theory").
+The debate between John Rawls and Robert Nozick stands as a defining dispute of late twentieth-century Anglo-American political philosophy, contrasting egalitarian liberalism ("justice as fairness") with libertarian rights theory ("the entitlement theory").
 
 ## The First Position: Rawls and Justice as Fairness
 

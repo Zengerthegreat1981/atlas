@@ -28,7 +28,7 @@ The Myers-Briggs Type Indicator (MBTI) is a widely recognized self-report person
 
 Katharine Briggs began studying personality typology in the 1920s after reading Jung's *Psychologische Typen* (1921). During the Second World War, Isabel Briggs Myers expanded her mother's work to create a practical pencil-and-paper instrument aimed at matching civilian workers, particularly women entering the industrial workforce, with suitable occupational roles. 
 
-The first test manuals were published experimentally by the Educational Testing Service (ETS) in 1962, though ETS subsequently discontinued involvement due to concerns over psychometric validity. In 1975, publication was acquired by Consulting Psychologists Press (CPP, now The Myers-Briggs Company), which oversaw its commercial expansion into corporate consulting and human resources worldwide.
+The first test manuals were published experimentally by the Educational Testing Service (ETS) in 1962, though ETS later ceased publishing it. In 1975, publication was acquired by Consulting Psychologists Press (CPP, now The Myers-Briggs Company), which oversaw its commercial expansion into corporate consulting and human resources worldwide.
 
 ## Structure and Typological Framework
 
@@ -45,7 +45,7 @@ The combination of preferences produces 16 distinct four-letter types (e.g., INT
 The MBTI occupies a paradoxical position: it is extraordinarily popular commercially while being widely rejected as an empirical personality taxonomy by mainstream academic psychology. Major psychometric criticisms include:
 - **Bimodal Fallacy**: Trait research demonstrates that human personality characteristics are distributed continuously along a bell-shaped normal curve. The MBTI forces respondents on either side of an arbitrary median into rigid categorical types, exaggerating minor differences between individuals near the midpoint.
 - **Low Test-Retest Stability**: Longitudinal studies demonstrate that between 35% and 50% of test-takers obtain a different four-letter classification when re-tested after an interval of just five to twelve weeks.
-- **Factorial and Predictive Validity**: Independent factor analyses routinely fail to replicate the pure four-dimensional structure. Furthermore, the MBTI displays negligible incremental predictive validity for occupational success or managerial effectiveness when evaluated against the Five-Factor Model (Costa & McCrae, 1989).
+- **Factorial and Predictive Validity**: Independent factor analyses routinely fail to replicate the pure four-dimensional structure. Furthermore, analyses relating the MBTI to the Five-Factor Model (McCrae & Costa, 1989) found that its scales largely overlap with four of the Big Five dimensions (Extraversion, Openness, Agreeableness, Conscientiousness) and do not capture Neuroticism, so the type categories add little beyond continuous trait measures.
 
 While useful as an interactive team-building heuristic that promotes empathy for diverse work styles, the MBTI is unsuited for clinical diagnosis, employee selection, or high-stakes assessment.
 

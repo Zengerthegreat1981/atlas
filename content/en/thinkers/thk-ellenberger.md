@@ -28,11 +28,11 @@ During the 1930s and 1940s, Ellenberger practiced in Switzerland (notably at the
 
 ## Historiographical Significance and Major Contributions
 
-Ellenberger is recognized as the founder of modern contextual history of psychiatry rather than an existential clinician in the narrow sense. His primary contributions to this atlas encompass:
+Ellenberger is recognized as a leading figure in the modern contextual history of psychiatry rather than an existential clinician in the narrow sense. His primary contributions to this atlas encompass:
 
 ### Introducing Existential Psychiatry to English Readers
 
-Along with Rollo May and Ernest Angel, Ellenberger co-edited *Existence: A New Dimension in Psychiatry and Psychology* (1958). For this volume, Ellenberger authored two extensive introductory chapters: "A Clinical Introduction to Psychiatric Phenomenology and Existential Analysis" and a comprehensive overview of European phenomenological psychiatry. These essays introduced the theoretical concepts and clinical methodologies of Ludwig Binswanger, Eugène Minkowski, Erwin Straus, and V. E. von Gebsattel to an Anglo-American audience, providing the intellectual catalyst for American humanistic and existential psychology.
+Along with Rollo May and Ernest Angel, Ellenberger co-edited *Existence: A New Dimension in Psychiatry and Psychology* (1958). For this volume, Ellenberger contributed introductory essays, including "A Clinical Introduction to Psychiatric Phenomenology and Existential Analysis." These essays introduced the theoretical concepts and clinical methodologies of Ludwig Binswanger, Eugène Minkowski, Erwin Straus, and V. E. von Gebsattel to an Anglo-American audience, contributing to American interest in existential psychology.
 
 ### *The Discovery of the Unconscious* (1970)
 
@@ -50,7 +50,7 @@ Beyond dynamic history, Ellenberger made pioneering contributions to victimology
 
 *The Discovery of the Unconscious* set a new benchmark for primary-source documentation and archival rigor, inspiring a subsequent generation of revisionist historians—such as Frank Sulloway, Mikkel Borch-Jacobsen, and Sonu Shamdasani—who critically re-examined the "Freud legend" and restored credit to overlooked pioneers like Pierre Janet.
 
-Critics note that Ellenberger's narrative, while groundbreaking, could occasionally overstate Janet's direct influence on Freud's early formulations, and that his psychological concept of "creative illness" operates primarily as a retrospective biographical heuristic that is difficult to test or falsify empirically. Nonetheless, his erudite, multi-perspectival scholarship established the definitive history of the dynamic unconscious.
+Critics note that Ellenberger's narrative, while groundbreaking, could occasionally overstate Janet's direct influence on Freud's early formulations, and that his psychological concept of "creative illness" operates primarily as a retrospective biographical heuristic that is difficult to test or falsify empirically. Nonetheless, his erudite, multi-perspectival scholarship remains a major history of the dynamic unconscious.
 
 ## Major Works
 

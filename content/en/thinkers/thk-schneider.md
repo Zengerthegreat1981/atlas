@@ -21,11 +21,11 @@ gaps: []
 
 # Kirk Schneider
 
-Kirk J. Schneider (born 1956) is a contemporary American existential-humanistic psychologist, educator, and leading voice in the third generation of the American existential-humanistic movement. A long-time faculty member at Saybrook University and Columbia University's Teachers College, as well as a co-founder and president of the Existential-Humanistic Institute (EHI) in San Francisco, Schneider developed an integrative therapeutic framework designed to bridge deep existential-experiential philosophy with practical clinical engagement.
+Kirk J. Schneider (born 1956) is a contemporary American existential-humanistic psychologist, educator, and a prominent voice in a later generation of the American existential-humanistic movement. A long-time faculty member at Saybrook University and Columbia University's Teachers College, as well as a co-founder and president of the Existential-Humanistic Institute (EHI) in San Francisco, Schneider developed an integrative therapeutic framework designed to bridge deep existential-experiential philosophy with practical clinical engagement.
 
 ## Context and Intellectual Lineage
 
-Schneider studied under and collaborated closely with major figures of the American existential movement, including Rollo May and James Bugental. At a time when humanistic and existential approaches were increasingly marginalized by manualized cognitive-behavioral therapies and biological psychiatry, Schneider worked to articulate their rigorous clinical relevance and empirically grounded foundations. He served as editor of the *Journal of Humanistic Psychology* and co-edited, with James Bugental and J. Fraser Pierson, the definitive reference work *The Handbook of Humanistic Psychology* (2001; 2nd ed. 2015).
+Schneider studied under and collaborated closely with major figures of the American existential movement, including Rollo May and James Bugental. At a time when humanistic and existential approaches were increasingly marginalized by manualized cognitive-behavioral therapies and biological psychiatry, Schneider worked to articulate their rigorous clinical relevance and empirically grounded foundations. He served as editor of the *Journal of Humanistic Psychology* and co-edited, with James Bugental and J. Fraser Pierson, the reference work *The Handbook of Humanistic Psychology* (2001; 2nd ed. 2015).
 
 ## Core Concepts and Contributions
 
@@ -43,13 +43,7 @@ In *The Polarized Mind* (2013), Schneider extended his clinical polarity framewo
 
 ## Clinical Practice: Existential-Integrative Psychotherapy
 
-Schneider formalized his therapeutic method in *Existential-Integrative Psychotherapy* (2008) and, with Orah Krug, in *Existential-Humanistic Therapy* (2010). The model operates across four primary levels of therapeutic engagement:
-1. **Physiological/Behavioral**: Addressing immediate somatic distress and symptom stabilization.
-2. **Cognitive/Sociocultural**: Clarifying conscious beliefs, social conditioning, and systemic roles.
-3. **Experiential/Existential**: Deepening emotional presence, exploring the immediate "here-and-now" relationship, and contacting core existential anxieties (death, isolation, meaninglessness, freedom).
-4. **Transpersonal**: Opening to awe, interconnectedness, and spiritual mystery.
-
-Therapeutic presence is sustained through techniques such as the "experiential pause" (slowing down to attend to emergent bodily sensations and implicit feelings) and inviting clients to dwell at the "growing edge" of their vulnerable awareness.
+Schneider formalized his therapeutic method in *Existential-Integrative Psychotherapy* (2008) and, with Orah Krug, in *Existential-Humanistic Therapy* (2010). The approach integrates existential-humanistic attention to the client's immediate experience and presence with other therapeutic methods, and works with core existential themes such as death, isolation, meaninglessness and freedom.
 
 ## Reception and Critique
 

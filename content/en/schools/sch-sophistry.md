@@ -60,7 +60,7 @@ In *al-ʿAqāʾid al-Nasafiyya*, Najm al-Dīn al-Nasafī begins by refuting this
 
 ## Modern assessment
 
-Hegel and George Grote, followed by the mid-twentieth-century scholarship of G. B. Kerferd, substantially rehabilitated the Sophists as genuine educational innovators who first examined language, morality, and civic institutions as historical human constructs. Some modern philosophers view Protagoras as an early precursor of pragmatism and epistemological constructivism, and Thrasymachus as a pioneer of political realism. Their analytical innovations fundamentally laid the groundwork for ancient linguistics, rhetoric, and formal argumentation.
+Hegel and George Grote, followed by the mid-twentieth-century scholarship of G. B. Kerferd, substantially rehabilitated the Sophists as genuine educational innovators who first examined language, morality, and civic institutions as historical human constructs. Some modern philosophers view Protagoras as an early precursor of pragmatism and epistemological constructivism, and Thrasymachus as a pioneer of political realism. Their work contributed to the development of ancient reflection on language, rhetoric, and argumentation.
 
 ## Limits
 

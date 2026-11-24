@@ -41,8 +41,8 @@ Post-Nāgārjuna Madhyamaka divided into two major methodological branches in In
 ## Modern Arabic-Language and Comparative Scholarship
 
 Modern Arab scholarship addressed *śūnyatā* primarily through comparative mysticism and the philosophy of religion:
-- **Abu al-Ala Afifi and Abd al-Rahman Badawi**: In comparative studies on Eastern thought, Badawi clarified that *śūnyatā* is not nihilism (*al-'adamiyya*), but a critique of substantialist metaphysics (*jawhariyya*). Comparative scholars have juxtaposed Buddhist emptiness with Sufi concepts of *fanā'* (extinction of the ego) and *'adam* (ontological contingency). However, they noted a vital metaphysical distinction: in Islamic mysticism, *fanā'* dissolves phenomenal reality to affirm the transcendent, ultimate reality of God (*Allāh* as *al-Ḥaqq*), whereas Madhyamaka asserts that ultimate reality itself is devoid of substantial essence or divine substrate.
-- **Contemporary Epistemological Readings**: Modern Arab comparative philosophers (such as Ali Harb) have drawn parallels between Nāgārjuna's deconstruction of substantial essences (*dhawāt*) and postmodern deconstructive critiques of metaphysical foundationalism.
+- **Comparative studies**: Scholars of comparative religion have juxtaposed Buddhist emptiness with Sufi concepts of *fanā'* (extinction of the ego) and *'adam* (ontological contingency). They also note a vital metaphysical distinction: in Islamic mysticism, *fanā'* dissolves phenomenal reality to affirm the transcendent, ultimate reality of God (*Allāh* as *al-Ḥaqq*), whereas Madhyamaka asserts that ultimate reality itself is devoid of substantial essence or divine substrate.
+- **Contemporary Readings**: Some modern comparative philosophers have drawn parallels between Nāgārjuna's critique of substantial essences and postmodern deconstructive critiques of metaphysical foundationalism.
 
 ## Contemporary Psychological Adaptations
 

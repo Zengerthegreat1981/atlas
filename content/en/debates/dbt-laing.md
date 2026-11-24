@@ -57,5 +57,5 @@ Conversely, contemporary psychiatric and integrative approaches treat acute psyc
 - Laing, R. D., & Esterson, A. (1964). *Sanity, Madness and the Family*. Tavistock.
 - Laing, R. D. (1967). *The Politics of Experience and The Bird of Paradise*. Penguin.
 - Sass, L. A. (1992). *Madness and Modernism: Insanity in the Light of Modern Art, Literature, and Thought*. Basic Books.
-- Chapman, A. (2021). Dwelling in strangeness: Accounts of the Kingsley Hall community, London (1965–1970), established by R. D. Laing. *Journal of Medical Humanities, 42*.
+- Chapman, A. (2021). Dwelling in strangeness: Accounts of the Kingsley Hall community, London (1965–1970), established by R. D. Laing. *Journal of Medical Humanities*.
 - Cooper, D. (1967). *Psychiatry and Anti-Psychiatry*. Tavistock.

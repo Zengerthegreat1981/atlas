@@ -61,7 +61,7 @@ The terms "family therapy," "couple therapy," and "systemic therapy" overlap: "f
 
 ## Major Figures
 
-- **Gregory Bateson** (1904-1980): founder of Palo Alto, the double-bind schizophrenia project.
+- **Gregory Bateson** (1904-1980): leader of the Palo Alto schizophrenia research project that proposed the double bind.
 - **Salvador Minuchin** (1921-2017): structuralism.
 - **Murray Bowen** (1913-1990): family systems theory, differentiation.
 - **Carl Whitaker** (1912-1995): the experiential model (Existential-Experiential).

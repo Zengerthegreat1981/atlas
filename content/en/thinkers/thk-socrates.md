@@ -48,7 +48,7 @@ Socrates' influence on later philosophy was immediate. Plato was his student, an
 
 ## Criticisms and Debates
 
-Aristophanes' *Clouds* shows that some Athenians viewed him as a dangerous eccentric. Aristotle (*Metaphysics*) credits him with inductive arguments and universal definitions, but criticizes the identification of virtue with knowledge for neglecting weakness of will. Later critics, including Nietzsche, accused him of a rationalism that undervalues instinct and tragic experience. Another persistent debate is whether he had any positive doctrine or was only a questioner, and whether his "daimonion," the inner divine sign he said restrained him from certain acts, was a religious experience or a figure of speech. The justice of the verdict itself remains debated, as does the question of why he chose not to escape from prison.
+Aristophanes' *Clouds* shows that some Athenians viewed him as a dangerous eccentric. Aristotle credits him in the *Metaphysics* with inductive arguments and universal definitions, but in the *Nicomachean Ethics* criticizes the identification of virtue with knowledge for neglecting weakness of will (*akrasia*). Later critics, including Nietzsche, accused him of a rationalism that undervalues instinct and tragic experience. Another persistent debate is whether he had any positive doctrine or was only a questioner, and whether his "daimonion," the inner divine sign he said restrained him from certain acts, was a religious experience or a figure of speech. The justice of the verdict itself remains debated, as does the question of why he chose not to escape from prison.
 
 ## Sources
 

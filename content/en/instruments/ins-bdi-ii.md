@@ -45,7 +45,7 @@ In 1996, Beck, Robert A. Steer, and Gregory K. Brown published the BDI-II. This 
 
 ## Cross-Cultural Adaptation and Standardization
 
-The BDI-II has been translated into dozens of languages. In Arabic-speaking populations, psychometric adaptations by researchers such as Ahmed Abdel-Khalek and Abdel-Sattar Ibrahim demonstrated high internal consistency (alphas between 0.85 and 0.93) and strong convergent validity with clinician ratings and anxiety measures. The underlying two-factor structure has been confirmed across diverse Arabic student and clinical samples, though local normative thresholds are recommended due to cultural differences in somatic reporting.
+The BDI-II has been translated into dozens of languages. In Arabic-speaking populations, several Arabic adaptation studies have reported good internal consistency and convergent validity, although published figures vary by sample and version. Factor-analytic findings from Arabic samples are mixed, and local normative thresholds are recommended due to cultural differences in somatic reporting.
 
 ## Clinical and Research Use
 

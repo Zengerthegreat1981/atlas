@@ -22,7 +22,7 @@ Between 1942 and 1945, the Viennese psychiatrist Viktor Frankl (1905–1997) was
 
 ## What Happened, When and Where
 
-On 25 September 1942, Frankl was deported from Vienna with his wife Tilly Grosser and his parents, Gabriel and Elsa Frankl, to the Theresienstadt ghetto and camp in occupied Czechoslovakia. Archival transport lists record them on Transport IV/11, where Frankl was assigned prisoner number 661. His father died in Theresienstadt of starvation and pneumonia on 13 February 1943. On 19 October 1944, Frankl and his wife were transported to Auschwitz-Birkenau on Transport En, where they were separated on arrival; he never saw her again. His mother was murdered in the gas chambers at Auschwitz. 
+On 25 September 1942, Frankl was deported from Vienna with his wife Tilly Grosser and his parents, Gabriel and Elsa Frankl, to the Theresienstadt ghetto and camp in occupied Czechoslovakia. His father died in Theresienstadt of starvation and pneumonia on 13 February 1943. On 19 October 1944, Frankl and his wife were transported to Auschwitz-Birkenau, where they were separated on arrival; he never saw her again. His mother was murdered in the gas chambers at Auschwitz. 
 
 Frankl himself spent only a few days at Auschwitz before being selected for transfer to forced labour. Camp registers confirm his arrival at Kaufering III, a subcamp of the Dachau concentration camp system, on 25 October 1944, where he was assigned prisoner number 119104 and worked as a slave labourer for five months. In March 1945 he was transferred to the Türkheim subcamp (also in the Dachau network), where he served as an inmate physician treating fellow prisoners suffering from typhus. Türkheim was liberated by the United States Army on 27 April 1945. Meanwhile his wife Tilly had been transferred to Bergen-Belsen, where she died in 1945, and his brother Walter perished at Auschwitz. Of his immediate family, only Frankl himself and his sister Stella — who had emigrated to Australia before the deportations — survived.
 
@@ -36,13 +36,13 @@ Frankl's central observation, made while he was still a prisoner, was that the c
 
 Before his deportation, Frankl had sewn the manuscript of his first academic book, *Ärztliche Seelsorge* (*The Doctor and the Soul*), into the lining of his coat; it was confiscated on his arrival at Auschwitz and destroyed. Following his liberation and return to Vienna in the summer of 1945, Frankl learned that his wife, mother, father, and brother had all perished. Over the following months, he reconstructed *Ärztliche Seelsorge* from memory and surviving shorthand notes (published in Vienna in 1946). 
 
-In December 1945, he also dictated his personal camp memoir in nine days. It appeared anonymously in German in 1946 under the title *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager*, and was later published in English in 1959 under the title *From Death-Camp to Existentialism* (subsequently reissued worldwide as *Man's Search for Meaning*).
+In 1945, he also dictated his personal camp memoir in nine days. It appeared anonymously in German in 1946 under the title *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager*, and was later published in English in 1959 under the title *From Death-Camp to Existentialism* (subsequently reissued worldwide as *Man's Search for Meaning*).
 
 From the same experience grew logotherapy and existential analysis as an established therapeutic school: the claim that the primary human motivation is the will to meaning, that meaning can be found in creative work, in love and encounter, and in the attitude taken toward unavoidable suffering, and that the therapist's task is to help the patient discover the meaning waiting in their own situation. The Viktor Frankl Institute in Vienna, founded in 1992, later became the institutional home of this teaching.
 
 ## Archival Documentation and Historical Corroboration
 
-The chronology of Frankl's imprisonment is corroborated by primary Holocaust archival documentation preserved in the Arolsen Archives (International Center on Nazi Persecution), the Yad Vashem Central Database of Shoah Victims' Names, and the Dachau Memorial Archives. These registers record the transport lists (Transport IV/11 and Transport En), entry registers at Kaufering and Türkheim, and death registrations for his family members, establishing the documented parameters of his camp transit.
+The chronology of Frankl's imprisonment rests on Frankl's own testimony and on historical scholarship (notably Pytell's biography), which draw on Holocaust-era records such as the Arolsen Archives (International Center on Nazi Persecution), the Yad Vashem database of Shoah victims' names, and camp records for the Dachau subcamps.
 
 ## Why an Event, Not a Biography
 

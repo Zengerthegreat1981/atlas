@@ -25,7 +25,7 @@ An ancient Egyptian intellectual and ethical tradition founded on the concept of
 
 ## Historical Context
 
-The Egyptian tradition covers more than three thousand years, from the Old Kingdom (the third millennium BCE) to the Ptolemaic period. It is not classified as a "school" in the Greek sense, but it was a foundational layer of ethical and cosmic thinking in the region. The texts of the Old Kingdom, among them the "Pyramid Texts," carry the earliest mention of Ma'at as the rule of government: the king establishes Ma'at and drives out "Isfet," that is, chaos and falsehood.
+The Egyptian tradition covers more than three thousand years, from the Old Kingdom (the third millennium BCE) to the Ptolemaic period. It is not classified as a "school" in the Greek sense, but it was a foundational layer of ethical and cosmic thinking in the region. The texts of the Old Kingdom, among them the "Pyramid Texts," are an early attestation of Ma'at as a principle of government: the king establishes Ma'at and drives out "Isfet," that is, chaos and falsehood.
 
 ## Central Concepts
 

@@ -36,7 +36,7 @@ The century of the English Civil War (1642-1651), the Commonwealth, the Restorat
 - **John Locke** (1632-1704): *An Essay Concerning Human Understanding* (1689, dated 1690).
 - **George Berkeley** (1685-1753): *A Treatise Concerning the Principles of Human Knowledge* (1710) and *Three Dialogues between Hylas and Philonous* (1713); denied the existence of matter independent of mind.
 - **David Hume** (1711-1776): *A Treatise of Human Nature* (1739-1740), *An Enquiry Concerning Human Understanding* (1748).
-- **Thomas Reid** (1710-1796): *Essays on the Intellectual Powers of Man* (1785); founder of the Scottish "common sense" reply to Hume.
+- **Thomas Reid** (1710-1796): *Essays on the Intellectual Powers of Man* (1785); leading figure of the Scottish "common sense" reply to Hume.
 - **Dugald Stewart** (1753-1828): *Elements of the Philosophy of the Human Mind* (1792-1827).
 - **David Hartley** (1705-1757): *Observations on Man* (1749), an associationist psychology.
 - **Adam Smith** (1723-1790): *The Theory of Moral Sentiments* (1759), *The Wealth of Nations* (1776), part of the Scottish Enlightenment's empirical study of human nature.

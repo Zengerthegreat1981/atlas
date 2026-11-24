@@ -49,7 +49,7 @@ During the fourth and third centuries BC the followers of the school composed th
 
 ## Decline and revival
 
-Mencius criticized Mohism, saying that a love that does not distinguish between the father and the stranger is "without a father", Xunzi rejected it for its austerity, and Zhuangzi said that its doctrine is harsh on people. After the Qin unification (221 BC) and the rise of official Confucianism under the Han, the school died out as an organized movement, and of its book only a disordered text survived within the "Daoist Canon". In the late Qing, Bi Yuan, Wang Niansun and Sun Yirang (who issued an "annotation" of the book in 1894) re-edited the texts, and then Liang Qichao and Hu Shih took interest in it at the beginning of the twentieth century because Mohism represents the earliest Chinese philosophical school to present systematic logic and science.
+Mencius criticized Mohism, saying that a love that does not distinguish between the father and the stranger is "without a father", Xunzi rejected it for its austerity, and Zhuangzi said that its doctrine is harsh on people. After the Qin unification (221 BC) and the rise of official Confucianism under the Han, the school died out as an organized movement, and of its book only a disordered text survived within the "Daoist Canon". In the late Qing, Bi Yuan, Wang Niansun and Sun Yirang (who issued an "annotation" of the book in 1894) re-edited the texts, and then Liang Qichao and Hu Shih took interest in it at the beginning of the twentieth century because the Later Mohist writings contain an early Chinese body of work on logic and science.
 
 ## Comparison with the Islamic heritage
 

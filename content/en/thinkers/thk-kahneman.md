@@ -39,7 +39,7 @@ With his colleague Amos Tversky, Kahneman formed an unusual scientific partnersh
 
 ## His Place in the Movement
 
-Kahneman stands at the heart of what came to be known as the "cognitive bias revolution," and with Tversky and Thaler he is counted among the actual founders of behavioral economics. His work redrew the boundaries between psychology and economics, and opened the door to "economic psychology" as an independent academic discipline. Wider fields were also influenced by him: design, medicine, law, and public policy (applications of nudging).
+Kahneman stands at the heart of what came to be known as the "cognitive bias revolution," and with Tversky and Thaler he is counted among the key figures of behavioral economics. His work redrew the boundaries between psychology and economics, and opened the door to "economic psychology" as an independent academic discipline. Wider fields were also influenced by him: design, medicine, law, and public policy (applications of nudging).
 
 His last book, *Noise: A Flaw in Human Judgment* (2021, with Sibony and Sunstein), helped widen the scope of the problem from bias to unjustified variability in professional judgments, and with it proposed "decision hygiene" practices to reduce variability.
 
@@ -48,7 +48,7 @@ Kahneman died on 27 March 2024, leaving a founding research legacy in understand
 ## His Most Important Works
 
 - *Attention and Effort* (1973): his major early monograph synthesizing experimental research on capacity allocation and cognitive effort.
-- *Judgment Under Uncertainty: Heuristics and Biases* (1982, with Tversky and Slovic, editors): the first systematic compilation of research from the Heuristics and Biases program, and still an academic reference in cognitive psychology.
+- *Judgment Under Uncertainty: Heuristics and Biases* (1982, with Tversky and Slovic, editors): an early and influential compilation of research from the Heuristics and Biases program, and still an academic reference in cognitive psychology.
 - *Choices, Values, and Frames* (2000, with Tversky): a development of the research program to include "decision framing" and its emotional dimensions.
 - *Thinking, Fast and Slow* (2011): his best-known book for a general audience, and a comprehensive summary of a research program that lasted decades.
 - *Noise: A Flaw in Human Judgment* (2021, with Sibony and Sunstein): an expansion of the bias model to include random variability in professional judgments.
@@ -63,15 +63,13 @@ Kahneman's impact goes beyond the academy into three applied domains:
 
 ## Selected Quotations
 
-"We can be blind to the obvious, and we are also blind to our blindness." — *Thinking, Fast and Slow* (2011, p. 24)
-
-"Confidence is a feeling, which reflects the coherence of the information and the cognitive ease of processing it... You cannot help dealing with the limited information you have as if it were all there is to know." — *Thinking, Fast and Slow* (2011, p. 87)
+"We can be blind to the obvious, and we are also blind to our blindness." — *Thinking, Fast and Slow* (2011)
 
 ## Methodological Limits
 
 **First: the two systems are a metaphor, not an anatomy.** Kahneman himself acknowledges this in the book: "System 1" and "System 2" are artificial characters for convenience, not two entities in the brain. Critics hold that the metaphor is read literally in educational and managerial circulation, and that mental processing is a continuous, graded phenomenon, not a binary one.
 
-**Second: the replication crisis.** This is the heaviest limit, and Kahneman acknowledged it publicly while alive. The chapter on "priming" in *Thinking, Fast and Slow* was built on studies that did not withstand replication attempts, among them the famous study showing that reading words relating to old age slows the reader's walking. In 2012 Kahneman wrote an open letter to researchers in social priming warning them of "a train wreck looming," and in 2017 he acknowledged in a public comment that he had placed too much faith in underpowered studies in that chapter. This acknowledgment, from a scientist who had reached the standing he had, is one of the most honorable stances in the replication crisis, and the book may not be presented without mentioning it.
+**Second: the replication crisis.** This is the heaviest limit, and Kahneman acknowledged it publicly while alive. The chapter on "priming" in *Thinking, Fast and Slow* was built on studies that did not withstand replication attempts, among them the famous study showing that reading words relating to old age slows the reader's walking. In 2012 Kahneman wrote an open letter to researchers in social priming warning them of "a train wreck looming," and in 2017 he acknowledged in a public comment that he had placed too much faith in underpowered studies in that chapter. This acknowledgment, from a scientist who had reached the standing he had, is widely regarded as a notable example of scientific self-correction, and the book may not be presented without mentioning it.
 
 **Third: the limits of "bias."** **Gerd Gigerenzer** has raised a methodological objection since the 1990s: that much of what is called bias is an effect of **how the question is worded** rather than a flaw in the mind; if the same problem is presented in **natural frequencies** (one in a thousand) instead of percentages, a large part of the "errors" disappears. And that **heuristics are not deficiencies** but economical tools that work well in the environments in which they formed. The debate between the two schools has not been settled, and is among the most fertile in the field.
 

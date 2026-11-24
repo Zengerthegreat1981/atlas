@@ -54,7 +54,7 @@ A fourth infant pattern was identified and validated by Mary Main and Judith Sol
 - **Absence of a coherent strategy**: contradictory behaviors (e.g., approaching with head averted, freezing, stereotypic movements).
 - **Apparent fear** or apprehension directed at the caregiver, placing the child in a biological paradox where the source of fear is also the designated haven of safety.
 - **Etiology**: strongly associated with caregiver fright, frightening behavior, severe neglect, maltreatment, or unresolved parental trauma.
-- **Prevalence**: roughly 15% in low-risk cohorts, rising substantially (up to 70–80%) in clinical and maltreated populations.
+- **Prevalence**: roughly 15% in low-risk cohorts, rising substantially (to roughly half or more) in maltreated and other high-risk populations.
 
 ## Adult Romantic Attachment (Hazan & Shaver, 1987)
 
@@ -116,6 +116,7 @@ Attachment styles show moderate longitudinal stability across life transitions, 
 - Bartholomew, K., & Horowitz, L. M. (1991). Attachment styles among young adults: A test of a four-category model. *Journal of Personality and Social Psychology*, 61(2), 226–244.
 - Bowlby, J. (1969). *Attachment and Loss: Vol. 1. Attachment*. Basic Books.
 - Brennan, K. A., Clark, C. L., & Shaver, P. R. (1998). Self-report measurement of adult attachment: An integrative overview. In J. A. Simpson & W. S. Rholes (Eds.), *Attachment Theory and Close Relationships* (pp. 46–76). Guilford Press.
+- Fraley, R. C., & Waller, N. G. (1998). Adult attachment patterns: A test of the typological model. In J. A. Simpson & W. S. Rholes (Eds.), *Attachment Theory and Close Relationships* (pp. 77–114). Guilford Press.
 - Hazan, C., & Shaver, P. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology*, 52(3), 511–524.
 - Johnson, S. M. (2004). *The Practice of Emotionally Focused Couple Therapy: Creating Connection* (2nd ed.). Brunner-Routledge.
 - Main, M., & Solomon, J. (1986). Discovery of an insecure-disorganized/disoriented attachment pattern. In T. B. Brazelton & M. W. Yogman (Eds.), *Affective Development in Infancy* (pp. 95–124). Ablex Publishing.

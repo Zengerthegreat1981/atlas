@@ -41,7 +41,7 @@ The dominant psychological account is the cognitive model of Ehlers and Clark (2
 
 ## Treatment
 
-The treatments with the strongest evidence are trauma-focused cognitive behavioural therapies: prolonged exposure, in which the person revisits the traumatic memory in a controlled way until its power diminishes, and cognitive processing therapy, which targets the distorted beliefs about the event and its meaning. Eye movement desensitisation and reprocessing (EMDR) has comparable support. SSRIs, particularly sertraline and paroxetine, are the medications with the best evidence, though their effects are generally smaller than those of the psychological treatments. Treatment decisions belong to a clinician who has assessed the person, and they should never be undertaken without safety and support in place.
+The treatments with the strongest evidence are trauma-focused cognitive behavioural therapies: prolonged exposure, in which the person revisits the traumatic memory in a controlled way until its power diminishes, and cognitive processing therapy, which targets the distorted beliefs about the event and its meaning. Eye movement desensitisation and reprocessing (EMDR) also has substantial support. SSRIs, particularly sertraline and paroxetine, are the medications with the best evidence, though their effects are generally smaller than those of the psychological treatments. Treatment decisions belong to a clinician who has assessed the person, and they should never be undertaken without safety and support in place.
 
 ## The existential reading
 
@@ -49,7 +49,7 @@ Some existential frameworks read trauma as a collapse in the basic existential s
 
 ## Key works
 
-Herman's *Trauma and Recovery* (1992) is the founding historical and clinical text. Van der Kolk's *The Body Keeps the Score* (2014) is the standard synthesis of the neurobiology. Ehlers and Clark's 2000 paper is the key statement of the cognitive model. DSM-5-TR (2022) is the current diagnostic source.
+Herman's *Trauma and Recovery* (1992) is the founding historical and clinical text. Van der Kolk's *The Body Keeps the Score* (2014) is a widely read popular synthesis of trauma research, though some of its neurobiological claims are debated. Ehlers and Clark's 2000 paper is the key statement of the cognitive model. DSM-5-TR (2022) is the current diagnostic source.
 
 ## Sources
 

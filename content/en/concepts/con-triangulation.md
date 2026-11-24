@@ -43,7 +43,7 @@ Bowen also emphasized the multigenerational transmission of triangular patterns:
 
 ## Related Concepts
 
-- **Differentiation of Self**: The degree to which an individual can distinguish between their own emotional and intellectual functioning, and maintain personal autonomy within significant relationships. Lower differentiation correlates strongly with vulnerability to intense triangulation.
+- **Differentiation of Self**: The degree to which an individual can distinguish between their own emotional and intellectual functioning, and maintain personal autonomy within significant relationships. In Bowen theory, lower differentiation is thought to increase vulnerability to intense triangulation.
 - **The Identified Patient**: The family member whose overt symptoms express the covert distress of the wider relational system.
 - **Double Bind**: Introduced by Gregory Bateson and colleagues (1956), describing contradictory, inescapable communicative demands; while historically posited in relation to schizophrenia, it remains distinct from structural triangulation.
 
@@ -52,7 +52,7 @@ Bowen also emphasized the multigenerational transmission of triangular patterns:
 Triangulation provides clinicians with a systemic lens for understanding how individual symptoms are maintained by interpersonal contexts rather than intrapsychic pathology alone. However, several cautions apply:
 - **Causality**: Correlational observations do not definitively establish whether triangulation generates psychological symptoms or whether managing a symptomatic family member precipitates triangular dynamics.
 - **Cultural Norms**: Triadic and extended-family configurations vary substantially across cultures; patterns that appear triangulated under Western nuclear-family norms may represent healthy kinship support in collectivistic communities.
-- **Empirical Measurement**: Although widely accepted in clinical practice, triangulation has historically relied on observational and qualitative case reports, with standardized psychometric measures (such as the Coparenting and Triangulation Scale) only developing more recently.
+- **Empirical Measurement**: Although widely accepted in clinical practice, triangulation has historically relied on observational and qualitative case reports, with standardized self-report measures (for example, triangulation subscales in some child-report inventories of interparental conflict) only developing more recently.
 
 ## Sources
 

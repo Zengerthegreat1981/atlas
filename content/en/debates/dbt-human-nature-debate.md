@@ -21,7 +21,7 @@ gaps: []
 
 # The Debate on Human Nature in Early Confucianism: Mencius's Goodness against Xunzi's Badness
 
-A classic dispute in early Confucianism (third century BCE): is human nature good in its origin or inclined toward evil? The debate remains open after 23 centuries, and formed a dividing point between the "Confucianism of cultivation" (Mencius) and the "Confucianism of external training" (Xunzi). The common root of both sides is the deliberately ambiguous saying of **Confucius** in the *Analects* (論語, 17:2): "By nature people are close to one another; by practice they grow far apart" (性相近也、習相遠也), a statement that did not settle the direction, so later Confucian thinkers differed sharply in interpreting it into opposing directions.
+A classic dispute in early Confucianism (fourth to third century BCE): is human nature good in its origin or inclined toward evil? The debate remains open after 23 centuries, and formed a dividing point between the "Confucianism of cultivation" (Mencius) and the "Confucianism of external training" (Xunzi). The common root of both sides is the deliberately ambiguous saying of **Confucius** in the *Analects* (論語, 17:2): "By nature people are close to one another; by practice they grow far apart" (性相近也、習相遠也), a statement that did not settle the direction, so later Confucian thinkers differed sharply in interpreting it into opposing directions.
 
 ## The First Position: Good Nature (Mencius)
 

@@ -34,7 +34,7 @@ Robert Nozick was born in 1938 in Brooklyn, New York, studied at Columbia and th
 - **Entitlement theory**: it holds that justice in distribution rests on three principles: justice in original acquisition, justice in transfer, and the rectification of past injustice. If holdings arise in this way, then any distribution that results from them is just, whatever its patterns.
 - **The Wilt Chamberlain argument**: Nozick imagines an initial distribution satisfying any patterned principle, then millions of spectators voluntarily pay a small sum to the basketball player, so the original pattern is upset without anyone committing an injustice, an argument that liberty upsets any imposed distribution.
 - **The Lockean proviso**: Nozick accepts Locke's proviso that forbids appropriating a resource if it leads to others being harmed, but interprets it narrowly.
-- **The experience machine**: in *Anarchy, State, and Utopia* and then in *Philosophical Explanations* (1981) he poses a thought experiment in which a person is offered a connection to a machine that gives him an illusory happy life, and holds that most people's refusal of it is evidence that they want reality and not pleasure alone.
+- **The experience machine**: in *Anarchy, State, and Utopia* (and again in *The Examined Life*, 1989) he poses a thought experiment in which a person is offered a connection to a machine that gives him an illusory happy life, and holds that most people's refusal of it is evidence that they want reality and not pleasure alone.
 - **Utopia as a framework**: he ends the book by saying that the minimal state is the framework within which diverse communities arise, each of which an individual chooses to join.
 
 ## His place in the movement

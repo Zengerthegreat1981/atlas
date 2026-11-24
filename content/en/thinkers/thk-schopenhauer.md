@@ -25,7 +25,7 @@ gaps: []
 
 # Arthur Schopenhauer
 
-A German philosopher (1788–1860), author of "The World as Will and Representation," and father of modern philosophical pessimism, which paved the way for existentialism and analytical psychology. He made the "will" a hidden substance standing behind the phenomena of the world, and held that human life swings between pain and boredom, and that salvation lies in aesthetic contemplation, compassion, and asceticism. His philosophy was met with long silence in his lifetime and then with wide diffusion in the second half of the nineteenth century.
+A German philosopher (1788–1860), author of "The World as Will and Representation," and a central figure of modern philosophical pessimism, which later thinkers drew on in existentialism and in psychology. He made the "will" a hidden substance standing behind the phenomena of the world, and held that human life swings between pain and boredom, and that salvation lies in aesthetic contemplation, compassion, and asceticism. His philosophy was met with long silence in his lifetime and then with wide diffusion in the second half of the nineteenth century.
 
 ## His Life
 
@@ -43,7 +43,7 @@ Abdurrahman Badawi introduced the Arab reader to Schopenhauer in his book "Schop
 
 ## His Place in the Tradition
 
-He is regarded as the direct philosophical inspiration for Nietzsche and Freud, and as an interlocutor for later German philosophy, and as the deepest source of the themes of absurdity, suffering, and meaninglessness in literature and existential philosophy. Among the philosophers who followed Kant he is the exception who rejected the idealism of Fichte and Hegel, describing them as charlatans, offering instead a philosophy that starts from the body and pain.
+He is regarded as an important influence on Nietzsche, a thinker whose ideas Freud acknowledged as anticipating his own, and a source of themes of suffering and meaninglessness in literature and existential philosophy. Among the philosophers who followed Kant he is the exception who rejected the idealism of Fichte and Hegel, describing them as charlatans, offering instead a philosophy that starts from the body and pain.
 
 ## Limitation and Criticism
 

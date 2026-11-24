@@ -25,7 +25,7 @@ gaps: []
 
 # Mencius (Mengzi)
 
-A Confucian philosopher of the fourth century BCE, regarded as the most important of the "second sages" after Confucius, and his book *Mengzi* is one of the "Four Books" that Zhu Xi chose in the twelfth century CE as the basis of Confucian education. He developed the "theory of good nature" in the context of debate with the Mohists (who called for "impartial concern"), and with the doctrine of Yang Zhu, and then Xunzi, a later Confucian, countered him by saying that human nature is evil.
+A Confucian philosopher of the fourth century BCE, traditionally regarded as the "Second Sage" after Confucius, and his book *Mengzi* is one of the "Four Books" that Zhu Xi chose in the twelfth century CE as the basis of Confucian education. He developed the "theory of good nature" in the context of debate with the Mohists (who called for "impartial concern"), and with the doctrine of Yang Zhu, and then Xunzi, a later Confucian, countered him by saying that human nature is evil.
 
 ## His Life and Context
 

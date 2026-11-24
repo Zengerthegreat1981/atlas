@@ -28,7 +28,7 @@ MCP is a brief, theme-based intervention. The group version runs for eight weekl
 
 ## History
 
-The early work was a pilot randomised trial of the group format, published by Breitbart and colleagues in *Psycho-Oncology* in 2010, followed by a pilot randomised trial of the individual format in the *Journal of Clinical Oncology* in 2012. The decisive trial was the large randomised controlled trial of the group format, published in the *Journal of Clinical Oncology* in 2015: 253 patients with advanced cancer were randomly assigned to eight sessions of meaning-centered group psychotherapy or supportive group psychotherapy, and those receiving MCP showed significantly greater improvement in spiritual well-being and quality of life and greater reductions in anxiety and desire for hastened death at the end of treatment, with benefits at longer follow-up less consistent. Breitbart and Poppito published treatment manuals for both formats in 2014, making the intervention replicable by other teams.
+The early work was a pilot randomised trial of the group format, published by Breitbart and colleagues in *Psycho-Oncology* in 2010, followed by a pilot randomised trial of the individual format in the *Journal of Clinical Oncology* in 2012. The decisive trial was the large randomised controlled trial of the group format, published in the *Journal of Clinical Oncology* in 2015: 253 patients with advanced cancer were randomly assigned to eight sessions of meaning-centered group psychotherapy or supportive group psychotherapy, and those receiving MCP showed significantly greater improvement in spiritual well-being and quality of life and greater reductions in anxiety and desire for hastened death at the end of treatment, with benefits at longer follow-up less consistent. Breitbart and Poppito published treatment manuals for the group format (2010) and the individual format (2014), making the intervention replicable by other teams.
 
 ## How it works
 
@@ -36,7 +36,7 @@ The mechanism MCP proposes is straightforward: despair at the end of life is dri
 
 ## Key figures
 
-Frankl is the intellectual source: without *Man's Search for Meaning* (German 1946, English 1959) there is no MCP, and Breitbart has always presented the treatment as an application of logotherapy rather than a replacement for it.
+Frankl is the intellectual source: without *Man's Search for Meaning* (German 1946; English 1959 as *From Death-Camp to Existentialism*, 1962 under its current title) there is no MCP, and Breitbart has always presented the treatment as an application of logotherapy rather than a replacement for it.
 
 ## Evidence and influence
 
@@ -52,12 +52,13 @@ The structured, manualised form that makes MCP testable is also what some existe
 
 ## Key works
 
-Breitbart and Poppito's treatment manuals (2014) are the practical sources for both formats. The 2015 *Journal of Clinical Oncology* trial is the key evidence. Frankl's *Man's Search for Meaning* (German 1946, English 1959) is the theoretical source from which the whole programme derives.
+Breitbart and Poppito's treatment manuals (2010 group, 2014 individual) are the practical sources for both formats. The 2015 *Journal of Clinical Oncology* trial is the key evidence. Frankl's *Man's Search for Meaning* (German 1946; English 1959/1962) is the theoretical source from which the whole programme derives.
 
 ## Sources
 
 - Breitbart, William, et al. (2015). Meaning-centered group psychotherapy: an effective intervention for improving psychological well-being in patients with advanced cancer. *Journal of Clinical Oncology*, 33(7), 749–754.
 - Breitbart, William, et al. (2010). Meaning-centered group psychotherapy for patients with advanced cancer: a pilot randomized controlled trial. *Psycho-Oncology*, 19(1), 21–28.
 - Breitbart, William, et al. (2012). Pilot randomized controlled trial of individual meaning-centered psychotherapy for patients with advanced cancer. *Journal of Clinical Oncology*, 30(12), 1304–1309.
+- Breitbart, William, and Poppito, Shannon (2010). *Meaning-Centered Group Psychotherapy for Patients with Advanced Cancer: A Treatment Manual*. Oxford University Press.
 - Breitbart, William, and Poppito, Shannon (2014). *Individual Meaning-Centered Psychotherapy for Patients with Advanced Cancer: A Treatment Manual*. Oxford University Press.
-- Frankl, Viktor E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, 1959.)
+- Frankl, Viktor E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *From Death-Camp to Existentialism*, 1959; later *Man's Search for Meaning*, 1962.)

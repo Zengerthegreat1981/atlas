@@ -28,7 +28,7 @@ In the 1970s Gilligan worked with Lawrence Kohlberg at Harvard. Kohlberg had pre
 
 ## In a Different Voice
 
-In *In a Different Voice: Psychological Theory and Women's Development* (Harvard, 1982) she presented studies based on interviews with women facing real decisions such as abortion, and on children's responses to the "Heinz dilemma" that Kohlberg used, including the response of the girl Amy, who did not consider rights and property as the boy Jake did but rather relationships and what follows from the connection between people. Gilligan introduced the concept of the different voice: that there is a way of moral thinking that proceeds from relationship and responsibility rather than from right and rule, and that is absent from models of moral development. As she underscored in the opening pages of the book (1982, p. 2):
+In *In a Different Voice: Psychological Theory and Women's Development* (Harvard, 1982) she presented studies based on interviews with women facing real decisions such as abortion, and on children's responses to the "Heinz dilemma" that Kohlberg used, including the response of the girl Amy, who did not consider rights and property as the boy Jake did but rather relationships and what follows from the connection between people. Gilligan introduced the concept of the different voice: that there is a way of moral thinking that proceeds from relationship and responsibility rather than from right and rule, and that is absent from models of moral development. As she underscored in the opening pages of the book (1982):
 
 > "The different voice I describe is characterized not by gender, but theme. Its association with women is an empirical observation, and it is primarily through the voices of women that I have traced its development."
 
@@ -36,7 +36,7 @@ Gilligan herself repeatedly stressed that this voice is distinguished by its the
 
 ## Justice Ethics and Care Ethics
 
-She distinguished between justice ethics, which rests on individual rights, abstract principles, and impartiality, and care ethics, which rests on relationships, responsiveness to needs, and responsibility. She regarded the two voices as complementary, both of which should be present in every moral maturity. She departs from John Rawls in that she refuses to start from an abstract individual behind the veil of ignorance, and holds that the moral self exists within a network of relationships and commitments from which it cannot be abstracted.
+She distinguished between justice ethics, which rests on individual rights, abstract principles, and impartiality, and care ethics, which rests on relationships, responsiveness to needs, and responsibility. She regarded the two voices as complementary, both of which should be present in every moral maturity. Her view contrasts with approaches that start from an abstract individual, holding instead that the moral self exists within a network of relationships and commitments from which it cannot be abstracted.
 
 ## Later Works
 

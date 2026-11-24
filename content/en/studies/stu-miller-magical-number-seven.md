@@ -40,7 +40,7 @@ Miller observed that while adding independent stimulus dimensions (e.g., combini
 ### 2. Immediate Memory Span and Chunking
 In contrast to absolute judgment, which is strictly bounded by the amount of information measured in *bits*, immediate memory span is bounded by the *number of items or "chunks"*, regardless of the information content per chunk. Miller showed that whether remembering binary digits (1 bit per item), decimal digits (3.3 bits per item), letters (4.7 bits), or English words (roughly 10 bits), an individual's immediate recall span remains approximately seven items ($7 \pm 2$).
 
-To explain how the human mind circumvents this bottleneck, Miller introduced the concept of **recoding** or **chunking**: organizing separate, discrete bits of information into larger, semantically rich units. Citing Sidney Smith's (1954) memory experiments, Miller noted that when trained to recode binary digits into octal numbers, a person's immediate memory span expanded from 12 binary digits to 40 binary digits, proving that span capacity is measured in chunks rather than bits.
+To explain how the human mind circumvents this bottleneck, Miller introduced the concept of **recoding** or **chunking**: organizing separate, discrete bits of information into larger, semantically rich units. Citing Sidney Smith's (1954) memory experiments, Miller noted that when trained to recode binary digits into octal numbers, a person's immediate memory span expanded from 12 binary digits to 40 binary digits, which Miller took to show that span is limited by chunks rather than bits.
 
 ## Modern Revisions: Cowan and Baddeley
 

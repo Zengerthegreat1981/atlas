@@ -24,7 +24,7 @@ gaps: []
 
 # Abraham Maslow
 
-Abraham Harold Maslow (1908–1970) was an American psychologist, regarded as the spiritual father of the humanistic psychology movement, and the author of the "hierarchy of needs" and of the theories of self-actualization and peak experiences. He was born in Brooklyn, New York, to a Jewish family that had immigrated from Russia, and died in Menlo Park, California, after a heart attack. His contribution rests on shifting attention from the study of illness and incapacity, which predominated in the psychology of his time, to the study of mental health and the highest potentials of the human being.
+Abraham Harold Maslow (1908–1970) was an American psychologist, regarded as a leading figure of the humanistic psychology movement, and the author of the "hierarchy of needs" and of the theories of self-actualization and peak experiences. He was born in Brooklyn, New York, to a Jewish family that had immigrated from Russia, and died in Menlo Park, California, after a heart attack. His contribution rests on shifting attention from the study of illness and incapacity, which predominated in the psychology of his time, to the study of mental health and the highest potentials of the human being.
 
 ## Formation
 
@@ -56,5 +56,7 @@ Maslow influenced management, education and self-help more than he influenced em
 - Maslow, A. H. (1954). Motivation and Personality. Harper & Row.
 - Maslow, A. H. (1962). Toward a Psychology of Being. Van Nostrand.
 - Hoffman, E. (1988). The Right to Be Human: A Biography of Abraham Maslow. Jeremy P. Tarcher.
+- Wahba, M. A., & Bridwell, L. G. (1976). Maslow reconsidered: A review of research on the need hierarchy theory. Organizational Behavior and Human Performance, 15(2), 212–240.
+- Kenrick, D. T., Griskevicius, V., Neuberg, S. L., & Schaller, M. (2010). Renovating the pyramid of needs: Contemporary extensions built upon ancient foundations. Perspectives on Psychological Science, 5(3), 292–314.
 - Tay, L., & Diener, E. (2011). Needs and subjective well-being around the world. Journal of Personality and Social Psychology, 101(2), 354–365.
 - Koltko-Rivera, M. E. (2006). Rediscovering the later version of Maslow's hierarchy of needs: self-transcendence and opportunities for theory, research, and unification. Review of General Psychology, 10(4), 302–317.

@@ -20,11 +20,11 @@ gaps: []
 ---
 # The Debate over Qadar, Compulsion and Choice in Islamic Kalam
 
-The founding theological dispute over the relation of the human being to his acts: does the servant create his act himself and so deserve reward and punishment by divine justice, or is God alone the creator of every act and the servant "acquires" it without originating it? The debate arose in the second century AH (eighth century CE) and has remained a pivot of kalam to this day.
+The founding theological dispute over the relation of the human being to his acts: does the servant create his act himself and so deserve reward and punishment by divine justice, or is God alone the creator of every act and the servant "acquires" it without originating it? The debate arose in the late first and second centuries AH (late seventh and eighth centuries CE) and has remained a pivot of kalam to this day.
 
 ## Early Background: Qadariyya and Jabriyya
 
-The controversy over divine foreordination (*qadar*) and human agency emerged during the late Umayyad era. Early theologians such as Ma'bad al-Juhani (executed c. 80 AH / 699 CE) and Ghaylan al-Dimashqi (executed c. 125 AH / 743 CE) affirmed real human power over voluntary actions; their detractors labelled them the *Qadariyya* (those who assert human agency over *qadar*). In contrast, Jahm ibn Safwan (executed 128 AH / 746 CE) championed absolute determinism (*jabr*), asserting that human beings possess no genuine causal power and that acts are attributed to humans only metaphorically, just as movement is attributed to a tree swaying in the wind. The subsequent schools of the Mu'tazila and the Ash'ariyya developed structured dialectical positions between these initial poles.
+The controversy over divine foreordination (*qadar*) and human agency emerged during the late Umayyad era. Early theologians such as Ma'bad al-Juhani (executed c. 80 AH / 699 CE) and Ghaylan al-Dimashqi (executed under the caliph Hisham, r. 105–125 AH / 724–743 CE) affirmed real human power over voluntary actions; their detractors labelled them the *Qadariyya* (those who assert human agency over *qadar*). In contrast, Jahm ibn Safwan (executed 128 AH / 746 CE) championed absolute determinism (*jabr*), asserting that human beings possess no genuine causal power and that acts are attributed to humans only metaphorically, just as movement is attributed to a tree swaying in the wind. The subsequent schools of the Mu'tazila and the Ash'ariyya developed structured dialectical positions between these initial poles.
 
 ## The Position of the Mu'tazila: The Agent Creates His Acts
 
@@ -36,7 +36,7 @@ Abu al-Hasan al-Ash'ari (d. 324 AH / 935–936 CE), reacting against Mu'tazili r
 
 ## Textual Traditions and Critical Editions
 
-The core texts of this dispute were preserved in distinct textual transmissions. Al-Qadi Abd al-Jabbar's encyclopedic *al-Mughni fi abwab al-tawhid wa-l-'adl*, rediscovered in Yemen in 1951, was critically edited under the general supervision of Taha Hussein and Ibrahim Madkour and published in Cairo (al-Mu'assasa al-Misriyya al-'Amma, 1960–1969). Key volumes addressing action, justice, and responsibility include Volume 6, Part 1 (*al-Ta'dil wa-l-tajwir*, ed. Ahmad Fu'ad al-Ahwani and George Anawati, 1962), Volume 8 (*al-Makhluq*, ed. Mahmoud Muhammad Qasim, 1965), and Volume 11 (*al-Taklif*, ed. Muhammad Mustafa Hilmi, 1965).
+The core texts of this dispute were preserved in distinct textual transmissions. Al-Qadi Abd al-Jabbar's encyclopedic *al-Mughni fi abwab al-tawhid wa-l-'adl*, rediscovered in Yemen in 1951, was critically edited under the general supervision of Taha Hussein and Ibrahim Madkour and published in Cairo (al-Mu'assasa al-Misriyya al-'Amma, 1960–1969). Key volumes addressing action, justice, and responsibility include Volume 6, Part 1 (*al-Ta'dil wa-l-tajwir*, ed. Ahmad Fu'ad al-Ahwani and George Anawati, 1962), Volume 8 (*al-Makhluq*, ed. Mahmoud Muhammad Qasim, 1965), and Volume 11 (*al-Taklif*, 1965).
 
 For the Ash'ari school, Abu al-Hasan al-Ash'ari's primary polemical work, *Kitab al-Luma' fi al-radd 'ala ahl al-zaygh wa-l-bida'*, was critically edited with an English translation and analysis by Richard J. McCarthy in *The Theology of al-Ash'ari* (Beirut: Imprimerie Catholique, 1953). His traditionalist creed, *al-Ibana 'an usul al-diyana*, has seen multiple scholarly printings, notably edited by Fawqiyya Husayn Mahmud (Cairo: Dar al-Ansar, 1977).
 

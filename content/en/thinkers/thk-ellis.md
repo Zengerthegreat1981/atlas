@@ -24,19 +24,19 @@ gaps: []
 
 # Albert Ellis
 
-Albert Ellis (1913–2007) was an American psychologist, psychotherapist, and the founder of **Rational Emotive Behavior Therapy** (REBT). Generally recognized as one of the principal architects of the cognitive-behavioral revolution in psychotherapy alongside Aaron T. Beck, Ellis was the first clinician to introduce a systematic cognitive therapeutic system in the 1950s, anticipating the widespread shift away from orthodox psychoanalysis.
+Albert Ellis (1913–2007) was an American psychologist, psychotherapist, and the founder of **Rational Emotive Behavior Therapy** (REBT). Generally recognized as one of the principal architects of the cognitive-behavioral revolution in psychotherapy alongside Aaron T. Beck, Ellis was among the first clinicians to introduce a systematic cognitive therapeutic system, in the 1950s, anticipating the widespread shift away from orthodox psychoanalysis.
 
 ## Biography and Early Psychoanalytic Training
 
 Albert Ellis was born on 27 September 1913 in Pittsburgh, Pennsylvania, and grew up in New York City. His childhood was marked by severe health challenges (including repeated hospitalizations for nephritis) and parental emotional neglect. In his youth, he suffered from debilitating social and performance anxiety, particularly regarding public speaking and approaching women. He successfully overcame these phobias using self-directed behavioral exposure techniques inspired by John B. Watson, such as forcing himself to speak to one hundred women in the Bronx Botanical Garden over a single month.
 
-Ellis earned a bachelor's degree in business administration from the City College of New York in 1934 before completing his master's (1943) and doctorate (1947) in clinical psychology at Columbia University. Between 1947 and 1949, Ellis underwent formal training in classical psychoanalysis, completing three years of personal analysis and clinical supervision under Richard Hülsenbeck (Charles R. Hulbeck), a leading Zurich Dadaist who had become a Jungian-trained psychoanalyst affiliated with the Karen Horney Institute. 
+Ellis earned a bachelor's degree in business administration from the City College of New York in 1934 before completing his master's (1943) and doctorate (1947) in clinical psychology at Columbia University. Between 1947 and 1949, Ellis underwent formal training in classical psychoanalysis, completing three years of personal analysis and clinical supervision under Richard Hülsenbeck (Charles R. Hulbeck), a former Dadaist who had become a psychoanalyst. 
 
 Although Ellis practiced psychoanalysis and psychoanalytically oriented psychotherapy through the early 1950s, he became deeply dissatisfied with its clinical inefficiencies, passivity, and lack of empirical validity. He observed that even when patients achieved deep historical insight into childhood traumas, their neurotic symptoms rarely abated because their underlying, irrational belief systems in the present remained unchallenged.
 
 ## The Cognitive Turn and the Birth of REBT
 
-In 1955, Ellis made a decisive break with psychoanalysis, formulating an active-directive, philosophically grounded approach he initially named **Rational Therapy**. He presented his revolutionary framework at the 1956 American Psychological Association (APA) annual convention, subsequently publishing the foundational paper "Rational Psychotherapy" in the *Journal of General Psychology* (1958). 
+In 1955, Ellis made a decisive break with psychoanalysis, formulating an active-directive, philosophically grounded approach he initially named **Rational Therapy**. He presented his framework at the 1956 American Psychological Association (APA) annual convention, subsequently publishing the foundational paper "Rational Psychotherapy" in the *Journal of General Psychology* (1958). 
 
 In 1959, he established the Institute for Rational Living in New York City (later the Albert Ellis Institute). To emphasize the central role of emotion, he renamed the method **Rational-Emotive Therapy (RET)** in 1961, before formally adopting **Rational Emotive Behavior Therapy (REBT)** in 1993 to reflect its rigorous integration of behavioral techniques. Ellis died in New York on 24 July 2007 at the age of 93.
 
@@ -52,8 +52,7 @@ The structural core of REBT is the ABCDEF framework:
 - **E (Effective New Philosophy)**: The development of rational, functional beliefs.
 - **F (New Feelings and Behaviors)**: Healthier emotional responses (e.g., appropriate sadness instead of clinical depression; concern instead of panic).
 
-In *Reason and Emotion in Psychotherapy* (1962, p. 54), Ellis formulated his central thesis:
-> "People are not disturbed by things, but by the view which they take of them... Man is a uniquely rational, as well as uniquely irrational, animal; when he is thinking rationally and constructively, he is quite happy and effective."
+In *Reason and Emotion in Psychotherapy* (1962), Ellis set out his central thesis that emotional disturbance arises largely from irrational beliefs rather than from events themselves.
 
 ### "Musturbation" and Unconditional Acceptance
 
@@ -73,7 +72,7 @@ Ellis explicitly grounded REBT in ancient philosophy, particularly the Stoicism 
 
 ## Controversies and Critical Debates
 
-- **Homosexuality Depathologization**: In 1965, Ellis published *Homosexuality: Its Causes and Cure*, reflecting the psychiatric orthodoxy of the DSM-I era. By 1976, Ellis recognized this diagnostic error, formally retracted his stance, and became a prominent public advocate for LGBTQ+ rights and depathologization in the APA.
+- **Homosexuality Depathologization**: In 1965, Ellis published *Homosexuality: Its Causes and Cure*, reflecting the psychiatric orthodoxy of the DSM-I era. Ellis later changed his position and publicly supported the depathologization of homosexuality.
 - **Style versus Empathy**: Critics within humanistic and psychoanalytic traditions argued that Ellis's provocative, confrontational demeanor could be perceived as abrasive, insufficiently empathetic, or invalidating for fragile or traumatized patients. In response, modern REBT literature (e.g., Windy Dryden) emphasizes that disputing must always be conducted within a collaborative, deeply empathetic therapeutic alliance.
 - **Comparison with Beck's Cognitive Therapy**: While Ellis and Beck shared the insight that cognitive appraisal governs emotional distress, Beck favored "collaborative empiricism" and socratic questioning over Ellis's philosophical, direct disputation of core beliefs.
 

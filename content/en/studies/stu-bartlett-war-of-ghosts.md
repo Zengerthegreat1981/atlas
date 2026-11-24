@@ -30,9 +30,9 @@ Bartlett used two primary methods: "repeated reproduction" (the same participant
 
 ## Sample Characteristics and Participant Numbers
 
-In the classic repeated reproduction experiments described in Chapter 4 of *Remembering* (1932), Bartlett's sample consisted of 20 English participants, primarily undergraduate and graduate students at the University of Cambridge. Each participant read the 330-word North American folk tale twice through to themselves at a normal pace. The initial reproduction was written after a 15-minute delay, followed by subsequent reproductions collected after varying delays—ranging from days and weeks to several months and, in several tracked individual case histories, up to several years (with one case recalled after a decade).
+In the repeated reproduction experiments described in *Remembering* (1932), Bartlett worked with a small number of English participants, mostly university students. Each read the roughly 330-word folk tale twice at a normal pace. The first reproduction was written after a delay of about 15 minutes, and later reproductions were collected at irregular intervals, from days and weeks to months and, in some cases, years.
 
-For his serial reproduction experiments (Chapter 7), Bartlett assembled independent transmission chains comprising 5 to 10 participants per chain. Participant 1 read the original folk tale and wrote down a reproduction; Participant 2 read only Participant 1's recall and reproduced it, continuing sequentially through the chain. Rather than conducting large-scale inferential statistical tests, Bartlett treated these cohorts as qualitative case series, meticulously documenting the linguistic omissions, rationalizations, and cultural substitutions that emerged across iterations.
+In the serial reproduction experiments, the story passed along a chain of participants: the first read the original and wrote a reproduction, the second read only the first's reproduction, and so on. Bartlett did not use inferential statistics; he treated the material as qualitative case series, documenting the omissions, rationalizations, and cultural substitutions that emerged across iterations.
 
 ## Results and conclusions
 

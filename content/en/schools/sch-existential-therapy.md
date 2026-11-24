@@ -66,7 +66,7 @@ The clinical application of existentialism unfolded across several distinct inte
 - **Ludwig Binswanger** (1881–1966): the first to apply Heidegger in psychiatry.
 - **Medard Boss** (1903–1990): re-read Freud existentially.
 - **Rollo May** (1909–1994): carried existentialism to America; author of *Love and Will* and *The Discovery of Being*.
-- **Irvin Yalom** (1931–): the most influential contemporary theorist; *Existential Psychotherapy* and *Staring at the Sun*.
+- **Irvin Yalom** (1931–): a leading contemporary theorist and author of *Existential Psychotherapy* and *Staring at the Sun*.
 - **Viktor Frankl** (1905–1997): founder of logotherapy, a concentration-camp survivor, author of *Man's Search for Meaning*.
 - **Alfried Längle** (1951–): founder of "existential analysis" (Existenzanalyse) in Vienna.
 - **James Bugental** (1915–2008): pioneer of "existential-humanistic therapy" in America.
@@ -109,7 +109,7 @@ Controlled evidence is more limited than for CBT, in part because the approach r
 - May, R. (1969). *Existential Psychology* (2nd ed.). Random House.
 - Binswanger, L. (1942). *Grundformen und Erkenntnis menschlichen Daseins*. Niehans.
 - Boss, M. (1963). *Psychoanalysis and Daseinsanalysis*. Basic Books.
-- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*; English: *Man's Search for Meaning* (Beacon Press, 1959 first English edition; 1962 under this title).
+- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*; English: *From Death-Camp to Existentialism* (Beacon Press, 1959), retitled *Man's Search for Meaning* in the 1962 edition.
 - Van Deurzen, E. (2002). *Existential Counselling & Psychotherapy in Practice* (2nd ed.). Sage.
 - Vos, J., Craig, M., & Cooper, M. (2015). Existential therapies: A meta-analysis of their effects on psychological outcomes. *Journal of Consulting and Clinical Psychology*, 83(1), 115-128.
 - Bugental, J. F. T. (1965). *The Search for Authenticity*. Holt, Rinehart and Winston.

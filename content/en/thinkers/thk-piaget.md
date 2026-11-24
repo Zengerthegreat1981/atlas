@@ -30,7 +30,7 @@ gaps: []
 
 # Jean Piaget
 
-A Swiss psychologist and epistemologist (1896–1980), a pioneer of **cognitive developmental psychology** and the founder of what he called **"genetic epistemology"** (Épistémologie génétique), the study of how human knowledge originates through successive developmental stages. He is regarded as one of the most influential psychologists of the twentieth century, and his work is the reference point from which Vygotsky, Bowlby, Erikson and the contemporary school of cognitive information processing all set out.
+A Swiss psychologist and epistemologist (1896–1980), a pioneer of **cognitive developmental psychology** and the originator of what he called **"genetic epistemology"** (Épistémologie génétique), the study of how human knowledge originates through successive developmental stages. He is regarded as one of the most influential psychologists of the twentieth century, and his work has been a major reference point (supported and challenged) for later developmental psychology, including the cognitive information-processing tradition.
 
 ## Biography
 
@@ -66,11 +66,11 @@ Each stage is **qualitative**, that is, it differs in structure and not only in 
 
 ## His place in the tradition
 
-Piaget is regarded as the **father of cognitive developmental psychology**. His influence can be traced in the following:
+Piaget is regarded as a founding figure of cognitive developmental psychology. His influence can be traced in the following:
 
 - **Versus Vygotsky**: Piaget saw cognitive development as individual and structural (within the individual through interaction with physical objects), whereas Vygotsky saw it as social and cultural (between individuals through language). The debate of "individual versus social" is still central in developmental psychology.
 - **Versus Erikson**: Piaget focused on cognition, logic and qualitative stages, while Erikson focused on identity and social relationships across the whole lifespan.
-- **Versus Bowlby**: Bowlby drew on Piaget for cognitive development (especially the idea of internal working models), but he redirected attention toward the emotional system of attachment, which for Bowlby is a system independent of cognition.
+- **Versus Bowlby**: Bowlby drew on Piaget for cognitive development, but he redirected attention toward the emotional system of attachment, which for Bowlby is a system independent of cognition.
 - **Versus the behaviorists of the first half of the century**: Piaget returned cognition and representations to the center of psychology after a behaviorist dominance that had lasted for decades.
 
 ## Impact

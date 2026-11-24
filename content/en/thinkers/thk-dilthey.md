@@ -28,11 +28,11 @@ gaps: []
 
 # Wilhelm Dilthey
 
-A German philosopher, who gave the classic formulation of the distinction between the "natural sciences" (Naturwissenschaften) and the "human sciences / sciences of spirit" (Geisteswissenschaften), and the first reference for the idea that understanding the human being (Verstehen) differs radically from explaining natural phenomena.
+A German philosopher, who gave the classic formulation of the distinction between the "natural sciences" (Naturwissenschaften) and the "human sciences / sciences of spirit" (Geisteswissenschaften), and an important reference point for the idea that understanding the human being (Verstehen) differs radically from explaining natural phenomena.
 
 ## What He Contributed
 
-He argued that psychological and historical life is not grasped by mechanical causal explanation (Erklären) as in the natural sciences, but by hermeneutic understanding (Verstehen), which reconstructs meaning from within. This distinction became the cornerstone of every later phenomenological or hermeneutic method in the human sciences and psychiatry.
+He argued that psychological and historical life is not grasped by mechanical causal explanation (Erklären) as in the natural sciences, but by hermeneutic understanding (Verstehen), which reconstructs meaning from within. This distinction became an important basis for later hermeneutic and phenomenological approaches in the human sciences and psychiatry.
 
 ## His Place in the Current
 

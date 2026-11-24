@@ -60,4 +60,4 @@ However, modern scientific consensus distinguishes these cognitive processes fro
 - Freud, S. (1923). *The Ego and the Id*. In *Standard Edition* (Vol. 19, pp. 1–66). Hogarth Press.
 - Ellenberger, H. F. (1970). *The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry*. Basic Books.
 - Kihlstrom, J. F. (1987). The cognitive unconscious. *Science*, 237(4821), 1445–1452.
-- Jung, C. G. (1959). *The Archetypes and the Collective Unconscious* (R. F. C. Hull, Trans.; 2nd ed.). Princeton University Press.
+- Jung, C. G. (1968). *The Archetypes and the Collective Unconscious* (R. F. C. Hull, Trans.; 2nd ed.). Princeton University Press.

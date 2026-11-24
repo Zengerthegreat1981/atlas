@@ -41,7 +41,7 @@ Following the rise of the Nazi regime, Erikson emigrated to the United States in
 
 Erikson adapted the embryological concept of the **epigenetic principle**, asserting that human personality develops through predetermined stages: each capacity emerges at a critical optimal period within an expanding social radius, and the conflicts of earlier stages are continually reworked throughout life.
 
-In *Childhood and Society* (1950, p. 247), Erikson formulated this developmental trajectory:
+In *Childhood and Society* (1950), Erikson formulated this developmental trajectory:
 > "Human personality in principle develops according to steps predetermined in the growing person's readiness to be driven toward, to be aware of, and to interact with, a widening social radius."
 
 | Stage | Age Range | Psychosocial Crisis | Core Virtue | Significant Social Radius |
@@ -63,7 +63,7 @@ In *Identity: Youth and Crisis* (1968), Erikson established identity as an evolv
 
 Erikson extended clinical psychoanalysis to anthropological and historical research:
 - **Fieldwork with Native American Tribes**: Working with anthropologists H. Scudder Mekeel and Alfred Kroeber, Erikson conducted observational studies of child-rearing among the Sioux (Lakota) at Pine Ridge and the Yurok of Northern California, demonstrating that cultural child-rearing practices systematically channel biological drives into culturally adaptive social character traits.
-- **Founding Psychohistory**: In *Young Man Luther* (1958) and *Gandhi's Truth* (1969; awarded both the Pulitzer Prize and the National Book Award), Erikson analyzed how extraordinary individuals resolve intense personal identity crises by mobilizing historical movements that resolve shared socio-historical crises for their generation.
+- **Pioneering Psychohistory**: In *Young Man Luther* (1958) and *Gandhi's Truth* (1969; awarded both the Pulitzer Prize and the National Book Award), Erikson analyzed how extraordinary individuals resolve intense personal identity crises by mobilizing historical movements that resolve shared socio-historical crises for their generation.
 
 ## Academic Stand and Late Addendum
 

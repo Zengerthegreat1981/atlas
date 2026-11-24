@@ -21,7 +21,7 @@ gaps: []
 ---
 # Fakhr al-Din Muhammad ibn Umar al-Razi
 
-One of the greatest mutakallimun of Islam in the sixth and seventh centuries AH (the twelfth and thirteenth centuries CE), combining kalam, philosophy and Qur'anic exegesis. He was born in Rayy (Iran) and moved between Rayy, Khwarazm, Transoxiana and Herat. He died in Herat in 606 AH (1210 CE), and is styled "the Imam", "the shaykh of the mutakallimun" and "the son of the preacher of Rayy".
+A leading mutakallim of Islam in the sixth and seventh centuries AH (the twelfth and thirteenth centuries CE), combining kalam, philosophy and Qur'anic exegesis. He was born in Rayy (Iran) and moved between Rayy, Khwarazm, Transoxiana and Herat. He died in Herat in 606 AH (1210 CE), and is styled "the Imam", "the shaykh of the mutakallimun" and "the son of the preacher of Rayy".
 
 ## Biography and formation
 

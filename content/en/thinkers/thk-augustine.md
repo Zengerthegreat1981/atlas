@@ -25,7 +25,7 @@ gaps: []
 
 # Augustine of Hippo
 
-A philosopher and theologian from North Africa (Hippo Regius, present-day Annaba, Algeria), bishop of Hippo, one of the greatest thinkers of late antiquity and author of the *Confessions*.
+A philosopher and theologian from North Africa (Hippo Regius, present-day Annaba, Algeria), bishop of Hippo, a major thinker of late antiquity and author of the *Confessions*.
 
 ## What he gave
 
@@ -33,7 +33,7 @@ He is often credited with a decisive turn toward inner subjectivity and the psyc
 
 ## His place in the movement
 
-Often cited as a precursor of religious existentialism; his analyses of anxiety and time directly influenced Kierkegaard, Heidegger (who taught the phenomenology of Augustine in 1921), and Karl Jaspers.
+Often cited as a precursor of religious existentialism; his analyses of anxiety and time influenced Kierkegaard, Heidegger (who taught the phenomenology of Augustine in 1921), and Karl Jaspers.
 
 ## Limitation
 

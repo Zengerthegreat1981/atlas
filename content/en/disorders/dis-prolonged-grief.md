@@ -40,7 +40,7 @@ The mechanisms proposed for prolonged grief centre on the failure of the bereave
 
 ## Treatment
 
-The treatment with the strongest evidence is complicated grief treatment, a structured therapy developed by Katherine Shear and colleagues, which combines elements of exposure — revisiting the story of the death and the avoided reminders — with work on restoring a life and goals. Shear and colleagues' randomised trial, published in *JAMA* in 2005, found that complicated grief treatment produced substantially better outcomes than interpersonal psychotherapy in patients with complicated grief. 
+One of the best-supported treatments is complicated grief treatment, a structured therapy developed by Katherine Shear and colleagues, which combines elements of exposure — revisiting the story of the death and the avoided reminders — with work on restoring a life and goals. Shear and colleagues' randomised trial, published in *JAMA* in 2005, found that complicated grief treatment produced substantially better outcomes than interpersonal psychotherapy in patients with complicated grief. 
 
 ## The controversy
 

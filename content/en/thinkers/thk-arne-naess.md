@@ -18,7 +18,7 @@ gaps: []
 
 # Arne Naess
 
-A Norwegian philosopher (1912–2009), professor at the University of Oslo, and the founder of the "deep ecology" movement. He began as a specialist in logical empiricism, semantics and the philosophy of science, was influenced by Spinoza and Gandhi, and in 1973 introduced the distinction between "shallow" and "deep" ecology, which made him a central figure of environmental philosophy.
+A Norwegian philosopher (1912–2009), professor at the University of Oslo, and the originator of the term "deep ecology" and a leading figure of the movement. He began as a specialist in logical empiricism, semantics and the philosophy of science, was influenced by Spinoza and Gandhi, and in 1973 introduced the distinction between "shallow" and "deep" ecology, which made him a central figure of environmental philosophy.
 
 ## Life and Context
 

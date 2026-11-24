@@ -31,7 +31,7 @@ A brief text (81 chapters, about 5,000 Chinese characters) in its received form.
 
 ## Author and History: What We Do Not Know
 
-The attribution of the book to **Laozi** is traditional, its source being Sima Qian's account in the *Shiji* (c. 100 BCE), a narrative hesitant in itself that presents more than one candidate for the name. Contemporary academic estimation treats the text as an **evolving compilation of sayings** and not as the composition of one person, between the 4th and 3rd centuries BCE. Two discoveries overturned the research:
+The attribution of the book to **Laozi** is traditional, its source being Sima Qian's account in the *Shiji* (c. 100 BCE), a narrative hesitant in itself that presents more than one candidate for the name. Contemporary academic estimation treats the text as an **evolving compilation of sayings** and not as the composition of one person, between the 4th and 3rd centuries BCE. Two discoveries reshaped the research:
 
 - **The Mawangdui silk manuscripts** (tomb no. 3, Changsha, excavated 1973; two copies from the 2nd century BCE) — in which **the "De" section precedes the "Dao" section**, that is, the familiar order of the text is not original.
 - **The Guodian bamboo slips** (Jingmen, Hubei, 1993; c. 300 BCE) — the oldest witness, containing only about a third of the received text and in a different order, which favored the hypothesis of layered growth.
@@ -50,7 +50,7 @@ Two parts: **chapters 1–37 (Dao)** more abstract and cosmological, and **38–
 
 - **In China**: in the reign of Emperor Wen of Han (ruled 180–157 BCE) the "Huang-Lao" current, based on the text, became close to official orientation; and under the Tang (7th–8th centuries CE) the emperors employed it as descendants by lineage of Laozi.
 - **In the West**: James Legge in *The Texts of Taoism* (1891), Arthur Waley's *The Way and Its Power* (1934), D. C. Lau (Penguin, 1963), then Robert Henricks, who issued a translation from Mawangdui entitled *Lao-Tzu: Te-Tao Ching* (1989) and another from Guodian (Columbia UP, 2000) — that is, each wave of discovery produced a new translation. Ursula Le Guin has a literary rendering of the text (1997) that she stated is not a translation from Chinese.
-- **Criticism**: the best-known disagreement is not over the value of the text but over its unity and author — a disagreement that has in practice been decided against "Laozi as the single author" after 1973 and 1993.
+- **Criticism**: the best-known disagreement is not over the value of the text but over its unity and author — a disagreement in which most scholars now doubt "Laozi as the single author," especially after the finds of 1973 and 1993.
 
 ## Non-Action and Politics: Three Readings
 

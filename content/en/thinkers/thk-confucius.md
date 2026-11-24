@@ -18,7 +18,7 @@ gaps: []
 
 # Confucius
 
-Kong Qiu, known as Kongzi or "Master Kong" (traditionally 551–479 BCE), was a teacher and political thinker from the state of Lu in the Spring and Autumn period of Chinese history. He taught that a good society depends on the moral cultivation of individuals, on proper ritual and on responsible, humane government. His teaching became the foundation of what the West calls Confucianism, the most influential tradition in East Asian intellectual life.
+Kong Qiu, known as Kongzi or "Master Kong" (traditionally 551–479 BCE), was a teacher and political thinker from the state of Lu in the Spring and Autumn period of Chinese history. He taught that a good society depends on the moral cultivation of individuals, on proper ritual and on responsible, humane government. His teaching became the foundation of what the West calls Confucianism, a highly influential tradition in East Asian intellectual life.
 
 ## Life and Context
 

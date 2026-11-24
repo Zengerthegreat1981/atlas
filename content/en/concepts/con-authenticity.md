@@ -55,12 +55,12 @@ Clinically, the existential question in communal contexts is not "Are you reject
 ## Key Textual Locations
 
 The core theoretical formulations of authenticity appear in several foundational texts:
-- **Martin Heidegger**: *Being and Time* (1927), Division I, Chapter 4 (§§25–27 on *das Man* and everyday falling), and Division II, Chapters 1–3 (§§46–60 on being-toward-death, the call of conscience, and resoluteness).
+- **Martin Heidegger**: *Being and Time* (1927), Division I, Chapter 4 (§§25–27 on *das Man* and everyday falling), and Division II, Chapters 1–2 (§§46–60 on being-toward-death, the call of conscience, and resoluteness).
 - **Jean-Paul Sartre**: *Being and Nothingness* (1943), Part I, Chapter 2 ("Bad Faith"), and *Existentialism Is a Humanism* (1946).
-- **James F. T. Bugental**: *The Search for Existential Identity* (1976), and *The Art of the Psychotherapist* (1987), Part 3 (presence and the therapeutic encounter).
-- **Irvin D. Yalom**: *Existential Psychotherapy* (1980), Chapter 2 (death as an awakening experience) and Chapter 6 (freedom and responsibility).
-- **Emmy van Deurzen**: *Existential Counselling and Psychotherapy in Practice* (2002), Chapters 3–7 (mapping lived experience across the Umwelt, Mitwelt, Eigenwelt, and Überwelt).
-- **Ernesto Spinelli**: *Practising Existential Psychotherapy: The Relational World* (2007), Chapter 5 ("Focus on the Relational: Moving Beyond Authenticity as Internal State").
+- **James F. T. Bugental**: *The Search for Existential Identity* (1976), and *The Art of the Psychotherapist* (1987) (presence and the therapeutic encounter).
+- **Irvin D. Yalom**: *Existential Psychotherapy* (1980), the sections on death (as an awakening experience) and on freedom and responsibility.
+- **Emmy van Deurzen**: *Existential Counselling and Psychotherapy in Practice* (2002) (mapping lived experience across the Umwelt, Mitwelt, Eigenwelt, and Überwelt).
+- **Ernesto Spinelli**: *Practising Existential Psychotherapy: The Relational World* (2007), on the relational critique of authenticity as an internal state.
 
 ## Comparative Overview
 

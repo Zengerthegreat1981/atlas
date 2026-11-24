@@ -59,7 +59,7 @@ In each pair one term is treated as original and the other as derivative or supp
 
 ## Reactions and debates
 
-- **Derrida-Searle**: Derrida's "Signature Event Context" (1971) discussed J. L. Austin's theory of speech acts (*How to Do Things with Words*, 1962); John Searle replied in "Reiterating the Differences" (1977), and Derrida answered in "Limited Inc" (1977). The exchange became emblematic of the gap between continental and analytic styles of philosophy.
+- **Derrida-Searle**: Derrida's "Signature Event Context" (a 1971 lecture, published 1972) discussed J. L. Austin's theory of speech acts (*How to Do Things with Words*, 1962); John Searle replied in "Reiterating the Differences" (1977), and Derrida answered in "Limited Inc" (1977). The exchange became emblematic of the gap between continental and analytic styles of philosophy.
 - **The Yale critics**: Paul de Man (*Allegories of Reading*, 1979), J. Hillis Miller, Geoffrey Hartman and, more loosely, Harold Bloom contributed to *Deconstruction and Criticism* (1979) and made deconstruction a major force in American literary studies. Bloom's own work, such as *The Anxiety of Influence* (1973), is distinct from Derrida's.
 - **Critical theory**: unlike the Frankfurt School's critique of ideology, which exposes domination from the standpoint of emancipatory reason, deconstruction works within texts and questions the very stability of such standpoints. Habermas criticised this in *The Philosophical Discourse of Modernity* (1985), arguing that Derrida levels the distinction between philosophy and literature.
 
@@ -82,6 +82,6 @@ In each pair one term is treated as original and the other as derivative or supp
 - Derrida, Jacques. *De la grammatologie*. Minuit, 1967. English: *Of Grammatology*, trans. Gayatri Chakravorty Spivak, Johns Hopkins University Press, 1976.
 - Derrida, Jacques. *Positions*. Minuit, 1972.
 - Derrida, Jacques. *Limited Inc*. Northwestern University Press, 1988.
-- Norris, Christopher. *Deconstruction: Theory and Practice*. Routledge, 1982.
+- Norris, Christopher. *Deconstruction: Theory and Practice*. Methuen, 1982.
 - Culler, Jonathan. *On Deconstruction: Theory and Criticism after Structuralism*. Cornell University Press, 1982.
 - Habermas, Jürgen. *Der philosophische Diskurs der Moderne*. Suhrkamp, 1985. English: *The Philosophical Discourse of Modernity*. MIT Press, 1987.

@@ -53,7 +53,7 @@ However, clinical researchers urge caution regarding flow in digital environment
 
 ## Assessment and Clinical Considerations
 
-Csikszentmihalyi pioneered the **Experience Sampling Method (ESM)** to study flow in naturalistic environments by having participants complete self-report evaluations when signaled at randomized intervals throughout their daily routines. Standardized psychometric questionnaires include the **Flow State Scale** (FSS) and the **Dispositional Flow Scale** (DFS; Jackson & Marsh, 1996), which evaluate flow experiences in athletic, artistic, and educational settings.
+Csikszentmihalyi pioneered the **Experience Sampling Method (ESM)** to study flow in naturalistic environments by having participants complete self-report evaluations when signaled at randomized intervals throughout their daily routines. Standardized psychometric questionnaires include the **Flow State Scale** (FSS; Jackson & Marsh, 1996) and the **Dispositional Flow Scale** (DFS; developed by Jackson and colleagues), which evaluate flow experiences in athletic, artistic, and educational settings.
 
 In clinical and counseling practice, cultivating flow is utilized as an adjunct intervention to enhance subjective well-being, mitigate anhedonia, and foster psychological resilience. Because flow requires realistic appraisals of one's competence and disciplined engagement, it provides a functional bridge between behavioral activation and eudaimonic flourishing.
 
@@ -63,4 +63,4 @@ In clinical and counseling practice, cultivating flow is utilized as an adjunct 
 - Mihaly Csikszentmihalyi, *Flow: The Psychology of Optimal Experience*, 1990.
 - Susan A. Jackson & Herbert W. Marsh, "Development and Validation of a Scale to Measure Optimal Experience: The Flow State Scale", *Journal of Sport and Exercise Psychology*, 1996.
 - Martin E. P. Seligman & Mihaly Csikszentmihalyi, "Positive Psychology: An Introduction", *American Psychologist*, 2000.
-- Arne Dietrich, "Neurocognitive Mechanisms of the Flow State", *Cognition and Emotion*, 2004.
+- Arne Dietrich, "Neurocognitive Mechanisms Underlying the Experience of Flow", *Consciousness and Cognition*, 2004.

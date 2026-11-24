@@ -24,7 +24,7 @@ gaps: []
 ---
 # Mentalization
 
-Mentalization is the fundamental psychological capacity to perceive and interpret human behavior in terms of intentional mental states, including needs, desires, feelings, beliefs, goals, and reasons. Coined concisely by Peter Fonagy as "holding mind in mind" or "understanding misunderstanding," mentalization bridges psychoanalytic theory, cognitive developmental science, and attachment research. It forms the core operational construct of Mentalization-Based Treatment (MBT), pioneered by Peter Fonagy and Anthony Bateman.
+Mentalization is the fundamental psychological capacity to perceive and interpret human behavior in terms of intentional mental states, including needs, desires, feelings, beliefs, goals, and reasons. Often summarized by Peter Fonagy and colleagues as "holding mind in mind" or "understanding misunderstanding," mentalization bridges psychoanalytic theory, cognitive developmental science, and attachment research. It forms the core operational construct of Mentalization-Based Treatment (MBT), pioneered by Peter Fonagy and Anthony Bateman.
 
 ## Developmental Origins: Attachment and Marked Mirroring
 

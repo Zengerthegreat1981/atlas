@@ -30,7 +30,7 @@ Empirical interest grew from studies of children at risk. Norman Garmezy and oth
 
 ## Resilience Through Meaning
 
-Viktor Frankl, drawing on his experience as a concentration camp prisoner and his later clinical work, argued that the ability to find meaning in suffering helps people endure (*Man's Search for Meaning*, 1959). He observed that those who kept a sense of purpose, whether spiritual, familial or vocational, seemed better able to bear extreme conditions. This was a witness's and clinician's observation rather than a controlled study, and it should be read as such.
+Viktor Frankl, drawing on his experience as a concentration camp prisoner and his later clinical work, argued that the ability to find meaning in suffering helps people endure (*Man's Search for Meaning*, first published in English in 1959 as *From Death-Camp to Existentialism*). He observed that those who kept a sense of purpose, whether spiritual, familial or vocational, seemed better able to bear extreme conditions. This was a witness's and clinician's observation rather than a controlled study, and it should be read as such.
 
 On this view resilience is not a fixed trait but an existential practice: the repeated choice to engage with life while aware of suffering and finitude. Continuing relationships, work or creative effort after real confrontation with loss is an expression of it.
 
@@ -54,7 +54,7 @@ Critics argue that the language of resilience can place the burden on individual
 
 ## Sources
 
-1. Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+1. Frankl, V. E. (1959). *From Death-Camp to Existentialism*. Beacon Press. (Later editions retitled *Man's Search for Meaning*.)
 2. van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice*. SAGE.
 3. Yalom, I. D. (2008). *Staring at the Sun*. Jossey-Bass.
 4. May, R. (1967). *Psychology and the Human Dilemma*. Van Nostrand.

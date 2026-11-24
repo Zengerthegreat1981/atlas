@@ -50,7 +50,7 @@ Abraham Maslow (1943) introduced humanistic motivation through his hierarchy of 
 ## Neurobiology of Motivation: Wanting versus Liking
 
 Modern affective neuroscience, led by Kent Berridge and Terry Robinson (1998, 2003), dissociated the neural substrates of motivation into two distinct components:
-- **Incentive Salience ("Wanting")**: Mediated by mesolimbic dopamine projections extending from the ventral tegmental area (VTA) to the nucleus accumbens. Dopamine signals reward prediction error and energizes craving and approach behavior, but does not mediate pleasure itself.
+- **Incentive Salience ("Wanting")**: Mediated by mesolimbic dopamine projections extending from the ventral tegmental area (VTA) to the nucleus accumbens. On this account, dopamine energizes craving and approach behavior but does not mediate pleasure itself.
 - **Hedonic Impact ("Liking")**: Mediated by localized subcortical "hedonic hotspots" utilizing endogenous opioid, endocannabinoid, and GABAergic signaling within the nucleus accumbens shell and ventral pallidum.
 
 This dissociation explains how addiction and compulsive behaviors occur: individuals can experience intense compulsive "wanting" driven by sensitized dopaminergic pathways, even when the substance or activity produces diminished hedonic "liking."

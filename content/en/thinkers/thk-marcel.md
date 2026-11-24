@@ -20,7 +20,7 @@ gaps: []
 
 # Gabriel Marcel
 
-Gabriel Marcel (1889–1973) is the believing face of French existentialism, and Sartre's direct opposite on relationship and hope. A philosopher, playwright, and music critic, he refused the label "existentialist" and preferred to call his philosophy a "concrete philosophy." His thought turns on the distinction between "problem" and "mystery," and on hope, presence, and availability — ideas that speak more directly to the work of care than most of the existential canon.
+Gabriel Marcel (1889–1973) is the believing face of French existentialism, and Sartre's direct opposite on relationship and hope. A philosopher, playwright, and music critic, he refused the label "existentialist" and preferred to call his philosophy a "concrete philosophy." His thought turns on the distinction between "problem" and "mystery," and on hope, presence, and availability.
 
 ## Life and Career
 
@@ -34,7 +34,7 @@ Marcel's most important distinction is between a **problem** and a **mystery**. 
 
 ## Hope, Presence, and Availability
 
-Hope, in *Homo Viator* (1944), is neither optimism nor the expectation of a particular outcome. It is an existential stance: remaining open to what I cannot guarantee, without conditions. And it exists only in the form of "we" — it is hope with and through another, never a private possession. **Availability** (*disponibilité*) is being present to the other, listening with full attention instead of being absorbed in oneself. **Presence** (*présence*) goes beyond bodily being-there to a real sharing. These are practical concepts, immediately usable in the therapeutic relationship: the therapist's availability is not a technique but a way of being with the patient.
+Hope, in *Homo Viator* (1944), is neither optimism nor the expectation of a particular outcome. It is an existential stance: remaining open to what I cannot guarantee, without conditions. And it exists only in the form of "we" — it is hope with and through another, never a private possession. **Availability** (*disponibilité*) is being present to the other, listening with full attention instead of being absorbed in oneself. **Presence** (*présence*) goes beyond bodily being-there to a real sharing.
 
 ## Against Sartre
 
@@ -44,7 +44,7 @@ His plays are an extension of his thought, not a side interest: *Man of God* (19
 
 ## Influence and Critique
 
-Many who work in palliative care and the caring professions find in Marcel's account of hope — hope that does not depend on an outcome, and so does not collapse when the outcome fails — a useful framework for thinking about hope in advanced illness. Yet his presence in the therapeutic literature is very weak compared with his relevance, and he remains far less read than Sartre or Yalom. In the Arab world, Abd al-Rahman Badawi presented his philosophy in *Studies in Existential Philosophy* (1961), alongside Kierkegaard, Heidegger, Jaspers, and Sartre, bringing the ideas of problem and mystery and hope into Arabic philosophical discussion.
+Marcel's account of hope as an openness that does not depend on a particular outcome has been taken up by some writers in nursing and the philosophy of medicine. In the Arab world, Abd al-Rahman Badawi presented his philosophy in *Studies in Existential Philosophy* (1961), alongside Kierkegaard, Heidegger, Jaspers, and Sartre, bringing the ideas of problem and mystery and hope into Arabic philosophical discussion.
 
 The limits are real. Marcel wrote in journals and scattered reflections, not in a closed system, so it is hard to extract a precise theory from him. His philosophy is interwoven with his Catholic faith in a way that makes some of his concepts, such as ontological mystery, less available to dialogue with analytic philosophy, and his analysis of "having" is sometimes said to confuse possession with ordinary use. He is best read as a guide to reflection on encounter, illness, and bereavement, rather than as the author of a closed doctrine.
 

@@ -43,7 +43,7 @@ Freud introduces the **censor** (*Zensur*) as the dynamic boundary agent enforci
 
 ## Historical Context of Publication
 
-Freud wrote the text in Vienna during a period of intense intellectual isolation, spurred by the death of his father Jakob Freud in October 1896, his subsequent self-analysis (*Selbstanalyse*), and his intensive correspondence with the Berlin physician Wilhelm Fliess. The book initially met with widespread commercial indifference; the first print run of 600 copies took six years to sell. Only after the formation of the Wednesday Psychological Society (1902) and the internationalization of psychoanalysis did the work gain worldwide prominence.
+Freud wrote the text in Vienna during a period of intense intellectual isolation, spurred by the death of his father Jakob Freud in October 1896, his subsequent self-analysis (*Selbstanalyse*), and his intensive correspondence with the Berlin physician Wilhelm Fliess. The book initially met with widespread commercial indifference; the first print run of 600 copies reportedly took eight years to sell. Only after the formation of the Wednesday Psychological Society (1902) and the internationalization of psychoanalysis did the work gain worldwide prominence.
 
 ## Reception and Critique
 

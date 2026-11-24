@@ -21,7 +21,7 @@ gaps: []
 
 # Willard Van Orman Quine
 
-Willard Van Orman Quine (1908–2000) was an American philosopher and mathematical logician who was a central figure of twentieth-century analytic philosophy. Serving on the Harvard University faculty for over four decades, Quine transformed epistemology, ontology, and the philosophy of language. Drawing upon logical positivism, he adopted its commitment to mathematical rigor and empirical caution while systematically dismantling two of its core foundations: the analytic-synthetic distinction and verificationist reductionism. In their place, he constructed a thoroughgoing naturalism and confirmation holism.
+Willard Van Orman Quine (1908–2000) was an American philosopher and mathematical logician who was a central figure of twentieth-century analytic philosophy. Serving on the Harvard University faculty for over four decades, Quine reshaped epistemology, ontology, and the philosophy of language. Drawing upon logical positivism, he adopted its commitment to mathematical rigor and empirical caution while systematically dismantling two of its core foundations: the analytic-synthetic distinction and verificationist reductionism. In their place, he constructed a thoroughgoing naturalism and confirmation holism.
 
 ## Life and Intellectual Formation
 
@@ -42,7 +42,7 @@ In this landmark paper, Quine attacked two central dogmas of logical empiricism:
 In place of these dogmas, Quine advocated confirmation holism (the Duhem-Quine thesis): our claims about the physical world face the tribunal of sensory experience not sentence by sentence, but as a corporate body—a total "web of belief." Experiential friction occurs at the periphery of the web; when recalcitrant experiences arise, the web can be revised in numerous ways, governed by pragmatic considerations of simplicity and minimal mutilation. Consequently, no statement is immune to revision (including logic and mathematics), and no statement is completely free from empirical constraint.
 
 ### Radical Translation and the Indeterminacy of Meaning (1960)
-In *Word and Object* (1960), Quine analyzed the hypothetical scenario of "radical translation"—translating an entirely unknown language without relying on bilingual informants. He demonstrated that behavioral evidence (stimulus assent and dissent) leaves the translation manuals fundamentally underdetermined:
+In *Word and Object* (1960), Quine analyzed the hypothetical scenario of "radical translation"—translating an entirely unknown language without relying on bilingual informants. He argued that behavioral evidence (stimulus assent and dissent) leaves the translation manuals fundamentally underdetermined:
 - **Indeterminacy of translation**: Multiple incompatible translation manuals can be formulated, all conforming perfectly to the totality of native behavioral dispositions, yet translating the same utterance into non-equivalent statements.
 - **Inscrutability of reference**: When a native speaker points and says "Gavagai" upon observing a rabbit, behavioral evidence cannot decide whether the term designates the entire animal, an undetached rabbit part, or a temporal rabbit stage.
 
@@ -61,7 +61,7 @@ Quine reshaped American and European analytic philosophy, training or deeply inf
 Critics challenged several core aspects of his philosophy:
 - **Behaviorism**: Noam Chomsky and cognitive scientists argued that Quine's radical linguistic behaviorism ignored innate cognitive structures essential for language acquisition.
 - **Normativity in Epistemology**: Jaegwon Kim objected that naturalized epistemology abandons the defining philosophical task of epistemology—the normative evaluation and justification of belief—turning it into mere descriptive psychology.
-- **Modal Logic**: Saul Kripke and David Lewis demonstrated the fertility and formal coherence of modal semantics, arguing that Quine's extensionalism unnecessarily constrained philosophical analysis.
+- **Modal Logic**: Saul Kripke and David Lewis developed fertile and formally coherent modal semantics, arguing that Quine's extensionalism unnecessarily constrained philosophical analysis.
 
 ## Major Works
 

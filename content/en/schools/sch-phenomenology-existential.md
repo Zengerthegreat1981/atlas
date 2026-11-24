@@ -66,7 +66,7 @@ After 1930 Heidegger began to speak of the "turn" (Kehre): man became the site o
 ## Influence
 
 - **Existential psychotherapy**: Ludwig Binswanger and Medard Boss founded "Daseinsanalysis" on the basis of Heidegger, and Rollo May introduced the approach to the United States in "Existence" (1958).
-- **Arab thought**: Abd al-Rahman Badawi was the first to introduce existentialism in Arabic, in "Existential Time" (1943). Fathi al-Meskini translated "Being and Time" (2012), which opened a new debate about the terminology of Being in Arabic.
+- **Arab thought**: Abd al-Rahman Badawi was an early and influential introducer of existentialism in Arabic, in "Existential Time" (1943). Fathi al-Meskini translated "Being and Time" (2012), which opened a new debate about the terminology of Being in Arabic.
 - **Psychology and medicine**: the phenomenological description of the patient's experience (anxiety, depression, the ill body) became a later reference in phenomenological psychiatry and in studies of chronic illness.
 - **Social critique and feminism**: the concepts were employed in studies of gender, race and disability.
 - **Translation**: the English translation of "Being and Nothingness" appeared in 1956 and that of "Being and Time" in 1962, and the difficulty of the terminology contributed to misunderstanding.
@@ -81,7 +81,7 @@ After 1930 Heidegger began to speak of the "turn" (Kehre): man became the site o
 
 - Badawi, Abd al-Rahman. *Existential Time* (al-Zaman al-wujudi). Cairo: Maktabat al-Nahda al-Misriyya, 1943.
 - Heidegger, Martin. *Being and Time* (al-Kaynuna wa-l-zaman). Translated by Fathi al-Meskini. Beirut: Dar al-Kitab al-Jadid al-Muttahida, 2012.
-- Heidegger, Martin. *Sein und Zeit*. Halle: Niemeyer, 1927. English: *Being and Time*, trans. John Macquarrie and Edward Robinson. Oxford: Blackwell, 1962.
+- Heidegger, Martin. *Sein und Zeit*. Halle: Niemeyer, 1927. English: *Being and Time*, trans. John Macquarrie and Edward Robinson. London: SCM Press, 1962.
 - Sartre, Jean-Paul. *L'Être et le Néant*. Paris: Gallimard, 1943.
 - Merleau-Ponty, Maurice. *Phénoménologie de la perception*. Paris: Gallimard, 1945.
 - Beauvoir, Simone de. *Le Deuxième Sexe*. Paris: Gallimard, 1949.

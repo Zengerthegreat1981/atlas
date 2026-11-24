@@ -27,7 +27,7 @@ gaps: []
 
 # Suhrawardi's Philosophy of Illumination (Hikmat al-Ishraq)
 
-The text in which Shihab al-Din al-Suhrawardi (549–587 AH / 1154–1191 CE) proclaimed his Illuminationist doctrine independent of Peripateticism, and regarded as the founding work of Illuminationism in the history of Islamic philosophy. He wrote it in Aleppo late in his life, and closed it with an indication that he composed it in a short time, and in it he addresses the "seeker of truth" who has combined contemplation and research and who does not entrust wisdom to the clever alone.
+The text in which Shihab al-Din al-Suhrawardi (549–587 AH / 1154–1191 CE) proclaimed his Illuminationist doctrine independent of Peripateticism, and it is regarded as the founding work of Illuminationism in the history of Islamic philosophy. He wrote it late in his life, and closed it with an indication that he composed it in a short time, and in it he addresses the "seeker of truth" who has combined contemplation and research and who does not entrust wisdom to the clever alone.
 
 ## The Central Thesis
 

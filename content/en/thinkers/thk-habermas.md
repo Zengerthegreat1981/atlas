@@ -44,7 +44,7 @@ In recent decades Habermas worked on questions of globalization and postnational
 
 ## His Place in the Current
 
-A leading theorist of modern "deliberative democracy", and the builder of the bridge between the Frankfurt School (Adorno, Horkheimer) and contemporary analytic political philosophy. His dialogues with John Rawls, Hans-Georg Gadamer, and Michel Foucault are among the most important debates of the second half of the twentieth century. In the Arab world he is viewed as a reference in the discussion of the public sphere, modernity, and secularism; his works have been translated into Arabic in several stages, and Arab studies on modernity and communication have taken him up.
+A leading theorist of modern "deliberative democracy", and the builder of the bridge between the Frankfurt School (Adorno, Horkheimer) and contemporary analytic political philosophy. His dialogues with John Rawls, Hans-Georg Gadamer, and Michel Foucault are notable debates of the second half of the twentieth century. In the Arab world he is viewed as a reference in the discussion of the public sphere, modernity, and secularism; his works have been translated into Arabic in several stages, and Arab studies on modernity and communication have taken him up.
 
 ## Limits and Criticism
 

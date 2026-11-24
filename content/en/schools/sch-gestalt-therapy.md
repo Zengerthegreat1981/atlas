@@ -62,7 +62,7 @@ Gestalt therapy arose from the intersection of:
 - **Paul Goodman** (1911–1972): writer and social critic who wrote the core theoretical presentation of *Gestalt Therapy* (1951).
 - **Ralph Hefferline** (1910–1974): psychologist at Columbia University who developed the practical awareness exercises in the 1951 text.
 - **Isadore From** (1919–1992): co-founder of the New York Institute and a primary teacher of Gestalt theory and contact boundary analysis.
-- **Erving Polster** (1922–) and **Miriam Polster** (1918–2001): authors of *Gestalt Therapy Integrated* (1973), articulating a systematic second-generation clinical presentation.
+- **Erving Polster** (b. 1922) and **Miriam Polster** (1918–2001): authors of *Gestalt Therapy Integrated* (1973), articulating a systematic second-generation clinical presentation.
 - **Claudio Naranjo** (1932–2019): Chilean psychiatrist who combined Gestalt therapy with contemplative traditions and the Enneagram.
 - **Hans-Jürgen Walter** (1944–): founder of Gestalt Theoretical Psychotherapy (*Gestalttheoretische Psychotherapie*), preserving close fidelity to the Berlin School of Gestalt psychology.
 
@@ -113,5 +113,5 @@ In the theory of the 1951 book, the self is a process at the contact boundary be
 - Perls, F. (1947). *Ego, Hunger and Aggression: A Revision of Freud's Theory and Method*. Allen & Unwin.
 - Polster, E., & Polster, M. (1973). *Gestalt Therapy Integrated: Contours of Theory and Practice*. Brunner/Mazel.
 - Yontef, G. M. (1993). *Awareness, Dialogue, and Process: Essays on Gestalt Therapy*. Gestalt Journal Press.
-- Köhler, W. (1925). *The Mentality of Apes* (E. Winter, Trans.). Harcourt, Brace & World.
+- Köhler, W. (1925). *The Mentality of Apes* (E. Winter, Trans.). Harcourt, Brace.
 - Naranjo, C. (2000). *Gestalt Therapy: The Attitude and Practice of an Atheoretical Experientialism*. Crown House.

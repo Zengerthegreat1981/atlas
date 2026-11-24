@@ -20,7 +20,7 @@ gaps: []
 
 # Being and Nothingness: Consciousness, Freedom, and Bad Faith
 
-*Being and Nothingness* (1943) by Jean-Paul Sartre is the systematic foundation of existentialism and the direct source of three concepts that work in the consulting room every day: bad faith, the Look of the Other, and the project. Published in Paris in the middle of the German occupation, it is a work of phenomenological ontology — an attempt to describe the structures of being as they appear to consciousness — and it remains Sartre's most ambitious and most difficult book.
+*Being and Nothingness* (1943) by Jean-Paul Sartre is a founding text of French existentialism and the source of concepts later taken up in existential psychotherapy: bad faith, the Look of the Other, and the project. Published in Paris in the middle of the German occupation, it is a work of phenomenological ontology — an attempt to describe the structures of being as they appear to consciousness — and it remains one of Sartre's most ambitious and difficult books.
 
 ## The Central Claim: Consciousness Is Not a Thing but a Negation
 
@@ -40,7 +40,7 @@ Sartre disagrees with Heidegger on death, and the disagreement matters for thera
 
 ## Reception and Influence
 
-*Being and Nothingness* made Sartre the central philosopher of post-war France and shaped existential psychiatry, above all through R. D. Laing, who took the analysis of the Look and of objectification into the study of schizophrenia, and through the existential psychoanalysis sketched at the book's end. Heidegger himself disowned Sartre's reading of him in the *Letter on Humanism* (1947), insisting that Sartre had turned an analysis of Being into a metaphysics of the subject — a repudiation that marks the split between the two thinkers. The book's difficulty is legendary, and its influence has often travelled through summaries rather than readings. Its limits are real: the account of the body and of sexuality is thin, the analysis of the Other leaves little room for genuine reciprocity, and the philosophy of freedom it defends makes social and material constraint hard to theorise. Read carefully, however, it remains the sharpest available account of how people deceive themselves about their own freedom — and of why that self-deception is so hard to give up.
+*Being and Nothingness* made Sartre the central philosopher of post-war France and shaped existential psychiatry, above all through R. D. Laing, who took the analysis of the Look and of objectification into the study of schizophrenia, and through the existential psychoanalysis sketched at the book's end. Heidegger himself disowned Sartre's reading of him in the *Letter on Humanism* (1947), insisting that Sartre had turned an analysis of Being into a metaphysics of the subject — a repudiation that marks the split between the two thinkers. The book's difficulty is legendary, and its influence has often travelled through summaries rather than readings. Its limits are real: the account of the body and of sexuality is thin, the analysis of the Other leaves little room for genuine reciprocity, and the philosophy of freedom it defends makes social and material constraint hard to theorise. Read carefully, however, it remains an influential account of how people deceive themselves about their own freedom — and of why that self-deception is so hard to give up.
 
 ## Sources
 

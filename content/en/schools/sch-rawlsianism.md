@@ -24,7 +24,7 @@ gaps: []
 
 # Contemporary Political Liberalism (Rawlsianism and After)
 
-Rawlsianism is a school of political and moral philosophy founded by John Rawls (1921–2002), professor of philosophy at Harvard, in *A Theory of Justice* (1971), which revived the idea of the social contract in a Kantian form and made justice the first virtue of social institutions. It dominated Anglo-American political philosophy from the 1970s to the beginning of the twenty-first century, and provoked responses from many quarters.
+Rawlsianism is a school of political and moral philosophy centred on John Rawls (1921–2002), professor of philosophy at Harvard, and his *A Theory of Justice* (1971), which revived the idea of the social contract in a Kantian form and made justice the first virtue of social institutions. It dominated Anglo-American political philosophy from the 1970s to the beginning of the twenty-first century, and provoked responses from many quarters.
 
 ## Connection to the Islamic Tradition of Justice
 
@@ -37,7 +37,7 @@ The theory starts from a question: what principles would free and equal persons 
 - **The first principle**: each person has an equal right to the most extensive system of equal basic liberties compatible with a similar system for all.
 - **The second principle**: social and economic inequalities are arranged so that they are to the benefit of the least advantaged (the "difference principle"), and are attached to offices open to all under conditions of fair equality of opportunity.
 - **Lexical priority**: the first principle takes precedence over the second, so liberty is not sacrificed for economic gains.
-- **Primary goods**: what every rational person wants whatever his plans: rights and liberties, income and wealth, and the bases of self-respect.
+- **Primary goods**: what every rational person wants whatever his plans: rights and liberties, powers and opportunities, income and wealth, and the bases of self-respect.
 - **Reflective equilibrium**: a method that adjusts intuitions and principles to one another until they cohere.
 
 ## Political Liberalism

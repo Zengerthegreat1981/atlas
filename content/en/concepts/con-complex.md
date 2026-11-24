@@ -78,5 +78,5 @@ Contemporary Jungian psychoanalysts, notably Thomas Singer and Samuel L. Kimbles
 
 - Jacobi, J. (1959). *Complex/Archetype/Symbol in the Psychology of C. G. Jung* (R. Manheim, Trans.). Princeton University Press.
 - Jung, C. G. (1960). A review of the complex theory. In *The Structure and Dynamics of the Psyche* (Collected Works, Vol. 8, pp. 92–104, R. F. C. Hull, Trans.). Princeton University Press. (Original work published 1934).
-- Jung, C. G., & Riklin, F. (1906). *Diagnostische Assoziationsstudien: Beiträge zur experimentellen Psychopathologie*. Verlag von Johann Ambrosius Barth.
+- Jung, C. G. (Ed.). (1906). *Diagnostische Assoziationsstudien: Beiträge zur experimentellen Psychopathologie* (Vol. 1). Verlag von Johann Ambrosius Barth.
 - Singer, T., & Kimbles, S. L. (Eds.). (2004). *The Cultural Complex: Contemporary Jungian Perspectives on Psyche and Society*. Brunner-Routledge.

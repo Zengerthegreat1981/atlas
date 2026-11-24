@@ -29,7 +29,7 @@ Classical Marxism is a philosophical, economic and political movement founded by
 
 ## Intellectual Formation
 
-Marx studied law and philosophy in Bonn and Berlin and joined the "Young Hegelians," who made the Hegelian dialectic an instrument for criticizing religion and the state. He was influenced by Feuerbach in his critique of religion as man's alienation from his essence, then went beyond him in the "Theses on Feuerbach" (1845), where he said that philosophers have interpreted the world and that the point is to change it. In Paris and Brussels he met Engels, who wrote "The Condition of the Working Class in England" (1845), and they collaborated on "The German Ideology" (written 1845–1846 and published in full in 1932). After the revolutions of 1848 Marx settled in London and spent decades studying economics at the British Museum.
+Marx studied law and philosophy in Bonn and Berlin and joined the "Young Hegelians," who made the Hegelian dialectic an instrument for criticizing religion and the state. He was influenced by Feuerbach in his critique of religion as man's alienation from his essence, then went beyond him in the "Theses on Feuerbach" (1845), where he said that philosophers have interpreted the world and that the point is to change it. In Paris (1844) he began his lasting collaboration with Engels, who had written "The Condition of the Working Class in England" (1845), and they collaborated on "The German Ideology" (written 1845–1846 and published in full in 1932). After the revolutions of 1848 Marx settled in London and spent decades studying economics at the British Museum.
 
 ## Foundations
 

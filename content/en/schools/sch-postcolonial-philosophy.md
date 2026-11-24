@@ -23,7 +23,7 @@ gaps: []
 
 # Postcolonial Philosophy
 
-Postcolonial philosophy is a critical current that arose at the intersection of continental philosophy, especially poststructuralism, with the critique of colonialism. It is concerned with analyzing the continuing discursive, epistemic and psychological effects of European colonialism after the end of its direct political control, and asks how colonialism produced the image of the colonized and knowledge about them. Edward Said's *Orientalism* (1978) is regarded as the founding work of the field, and Kamal Abu Deeb translated it into Arabic (1981).
+Postcolonial philosophy is a critical current that arose at the intersection of continental philosophy, especially poststructuralism, with the critique of colonialism. It is concerned with analyzing the continuing discursive, epistemic and psychological effects of European colonialism after the end of its direct political control, and asks how colonialism produced the image of the colonized and knowledge about them. Edward Said's *Orientalism* (1978) is widely regarded as a founding text of the field, and Kamal Abu Deeb translated it into Arabic (1981).
 
 ## Cultural and Regional Strands
 

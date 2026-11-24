@@ -19,7 +19,7 @@ gaps: []
 
 # Eugène Minkowski
 
-Eugène Minkowski (1885–1972) was a Russian-born, French-based psychiatrist and one of the founders of phenomenological psychopathology. He is best known for his analysis of lived time and of the loss of "vital contact with reality" in schizophrenia, and he is less widely read in Arabic than other figures of the phenomenological and existential tradition.
+Eugène Minkowski (1885–1972) was a Russian-born, French-based psychiatrist and an early figure in phenomenological psychopathology. He is best known for his analysis of lived time and of the loss of "vital contact with reality" in schizophrenia, and he is less widely read in Arabic than other figures of the phenomenological and existential tradition.
 
 ## Life and Formation
 

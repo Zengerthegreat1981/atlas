@@ -34,7 +34,7 @@ A Copernican revolution: until then philosophers thought that **our knowledge** 
 
 ### *Groundwork of the Metaphysics of Morals* (Grundlegung zur Metaphysik der Sitten, 1785) and *Critique of Practical Reason* (Kritik der praktischen Vernunft, 1788)
 
-In the *Groundwork* (1785) Kant first formulated the best-known version of the **principle of the categorical imperative** (Kategorischer Imperativ): "Act only according to that maxim whereby you can at the same time will that it should become a universal law" (Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde). He then rebuilt the full critical foundation of ethics in the *Critique of Practical Reason* (1788), where he tied the categorical imperative to the concept of the **autonomy of the will** (Autonomie des Willens) and to the proof of freedom, immortality, and the existence of God as "postulates of practical reason" (Postulate der praktischen Vernunft), not theoretical givens. This principle **unifies** duty (Pflicht) and freedom (Freiheit).
+In the *Groundwork* (1785) Kant first formulated the best-known version of the **principle of the categorical imperative** (Kategorischer Imperativ): "Act only according to that maxim whereby you can at the same time will that it should become a universal law" (Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde). He then rebuilt the full critical foundation of ethics in the *Critique of Practical Reason* (1788), where he tied the categorical imperative to the concept of the **autonomy of the will** (Autonomie des Willens) and to freedom, immortality, and the existence of God as "postulates of practical reason" (Postulate der praktischen Vernunft), not theoretical givens. This principle **unifies** duty (Pflicht) and freedom (Freiheit).
 
 ### *Critique of the Power of Judgment* (Kritik der Urteilskraft, 1790)
 
@@ -50,7 +50,7 @@ An analysis of religion as **morality** in symbolic dress. **Radical evil** (Rad
 - **Neo-Kantianism** (Marburg, Baden): a rereading in the 19th century.
 - **20th-century philosophy**: **Husserl**, **Heidegger**, and **Carnap** were all influenced by the *Critique of Pure Reason* (or rejected it).
 - **Contemporary ethics**: the formula "an end, not a mere means" is an important philosophical source for the concept of **human dignity** in discussions of rights and of medical research ethics (informed consent), and it is regularly invoked in bioethics and in debates about artificial intelligence.
-- **Psychology**: his influence on it is indirect but deep: the idea that the mind **constructs** experience through its own categories is the philosophical grandfather of Gestalt psychology, of cognitivism, and of Piaget's constructivism; Piaget explicitly described his project as an attempt to make **Kant's categories genetic**, studied in the child's development instead of being assumed a priori.
+- **Psychology**: his influence on it is indirect but deep: the idea that the mind **constructs** experience through its own categories is an ancestor of later constructivist and cognitive approaches; Piaget's genetic epistemology is often described as studying in the child's development the categories that Kant took to be given a priori.
 
 ## Limits
 

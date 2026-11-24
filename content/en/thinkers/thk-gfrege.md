@@ -22,7 +22,7 @@ gaps: []
 
 # Gottlob Frege
 
-Gottlob Frege was a German philosopher, logician, and mathematician, born in Wismar on 8 November 1848 and died in Bad Kleinen on 26 July 1925. He is regarded as the founder of modern symbolic logic and of analytic philosophy of language, although he received only limited recognition in his lifetime. He taught at the University of Jena between 1874 and 1918, and by his work he brought about a turn in logic not seen since Aristotle.
+Gottlob Frege was a German philosopher, logician, and mathematician, born in Wismar on 8 November 1848 and died in Bad Kleinen on 26 July 1925. He is regarded as a founding figure of modern symbolic logic and of analytic philosophy of language, although he received only limited recognition in his lifetime. He taught at the University of Jena between 1874 and 1918, and by his work he brought about a fundamental transformation of logic.
 
 ## Formation and Career
 

@@ -49,7 +49,7 @@ In the eighteenth century it was read as a revolutionary text and became associa
 
 ## Arab Presence
 
-'Adil Zu'aytir rendered the book into Arabic in an early translation published in Cairo in 1945 (reprinted frequently in subsequent decades), followed by other translations. The book came to the Arab reader in the context of national liberation movements and then the debate over constitutional government, and the idea of popular sovereignty was invoked in it in the face of despotism, and some scholars compared it with the concept of bay'a and shura in Islamic thought, though the foundations differ: bay'a is a contract between ruler and ruled, while Rousseau makes the contract among individuals themselves and sovereignty belongs to the community. Constant's criticism of the transformation of freedom into permanent political participation was the subject of Arab discussions on direct and representative democracy.
+'Adil Zu'aytir produced an early Arabic translation of the book, published in Cairo in the mid-twentieth century, followed by other translations. The book came to the Arab reader in the context of national liberation movements and then the debate over constitutional government, and the idea of popular sovereignty was invoked in it in the face of despotism, and some scholars compared it with the concept of bay'a and shura in Islamic thought, though the foundations differ: bay'a is a contract between ruler and ruled, while Rousseau makes the contract among individuals themselves and sovereignty belongs to the community. Constant's criticism of the transformation of freedom into permanent political participation was the subject of Arab discussions on direct and representative democracy.
 
 ## Limits and Distinction from Other Works
 

@@ -44,9 +44,9 @@ Not all participants responded alike: through post-experiment interviews Asch no
 
 ## Conformity in Digital and Social Media Environments
 
-Modern extensions of the Asch paradigm have investigated whether social conformity persists in computer-mediated communication (CMC) and algorithmic digital ecosystems. Laboratory replications utilizing online group interfaces (e.g., Rosander & Eriksson, 2012) demonstrate that normative conformity occurs even in text-based, anonymous virtual environments, although the overall rate of yielding is often slightly lower than in face-to-face settings when participants believe their personal identities are concealed.
+Modern extensions of the Asch paradigm have investigated whether social conformity persists in computer-mediated communication (CMC) and algorithmic digital ecosystems. Laboratory studies using online group interfaces (e.g., Rosander & Eriksson, 2012) have reported that conformity can also occur in computer-mediated settings, with effects that may depend on task difficulty and participant characteristics.
 
-However, in naturalistic social media settings, conformity mechanisms are amplified through quantitative social validation cues ("likes," retweets, upvotes, and comment counts). Research on digital information cascades (e.g., Muchnik, Aral, & Taylor, 2013) reveals that prior positive social proof creates herd effects: items receiving early simulated positive ratings experience strong upward conformity cascades, significantly skewing subsequent user evaluations. Furthermore, algorithmic filtering and echo chambers intensify normative pressure by presenting curated consensus, showing that Asch's core principles of perceptual and judgmental conformity operate powerfully across digital architectures.
+However, in naturalistic social media settings, conformity mechanisms are amplified through quantitative social validation cues ("likes," retweets, upvotes, and comment counts). A randomized field experiment on an online news-aggregation site (Muchnik, Aral, & Taylor, 2013) found that an artificially assigned early positive rating increased the likelihood of later positive ratings, a herding effect, whereas early negative ratings were corrected by later users. Such findings are consistent with the broader idea that social cues shape judgments, though they are not direct replications of Asch's paradigm.
 
 ## Sources
 
@@ -54,5 +54,5 @@ However, in naturalistic social media settings, conformity mechanisms are amplif
 - Asch, S. E. (1956). "Studies of Independence and Conformity: A Minority of One Against a Unanimous Majority." *Psychological Monographs*, 70(9), 1–70.
 - Bond, R., & Smith, P. B. (1996). "Culture and Conformity: A Meta-Analysis of Studies Using Asch's (1952b, 1956) Line Judgment Task." *Psychological Bulletin*, 119(1), 111–137.
 - Deutsch, M., & Gerard, H. B. (1955). "A Study of Normative and Informational Social Influences Upon Individual Judgment." *The Journal of Abnormal and Social Psychology*, 51(3), 629–636.
-- Rosander, M., & Eriksson, O. (2012). "Conformity on the Internet—An Undercover Looking Glass." *Cyberpsychology, Behavior, and Social Networking*, 15(7), 379–387.
+- Rosander, M., & Eriksson, O. (2012). "Conformity on the Internet: The Role of Task Difficulty and Gender Differences." *Computers in Human Behavior*, 28(5), 1587–1595.
 - Muchnik, L., Aral, S., & Taylor, S. J. (2013). "Social Influence Bias: A Randomized Experiment." *Science*, 341(6146), 647–651.

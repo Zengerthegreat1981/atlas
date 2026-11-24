@@ -22,7 +22,7 @@ gaps: []
 
 # Viktor Frankl: Will to Meaning
 
-Viktor Frankl (1905–1997) was a Viennese neurologist and psychiatrist and the founder of logotherapy, an existentially oriented approach that places meaning at its center. He survived Theresienstadt, Auschwitz and two further camps. His *Man's Search for Meaning*, born from his experiences in Nazi concentration camps, has profoundly influenced existential psychology and pastoral care worldwide.
+Viktor Frankl (1905–1997) was a Viennese neurologist and psychiatrist and the founder of logotherapy, an existentially oriented approach that places meaning at its center. He survived Theresienstadt, Auschwitz and two further camps. His *Man's Search for Meaning*, born from his experiences in Nazi concentration camps, has been influential in existential psychology and pastoral care worldwide.
 
 ## Core Thesis: Will to Meaning, Not Will to Power or Pleasure
 

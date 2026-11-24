@@ -32,7 +32,7 @@ He worked as a professor at Ohio State University, the University of Chicago, an
 
 ## What He Contributed
 
-- **Non-directive therapy**: in his first book, *Counseling and Psychotherapy* (1942), he put forward the idea of **non-directive therapy**, rejecting the model of the expert therapist who interprets and directs, in favor of a therapist who accompanies the client in their discovery of themselves.
+- **Non-directive therapy**: in his first major book, *Counseling and Psychotherapy* (1942), he put forward the idea of **non-directive therapy**, rejecting the model of the expert therapist who interprets and directs, in favor of a therapist who accompanies the client in their discovery of themselves.
 - **The actualizing tendency**: in *Client-Centered Therapy* (1951) he crystallized his mature theory: that every human being has an **innate tendency toward self-actualization** (Actualizing Tendency), and that psychological growth falters when the person receives "conditional positive regard," that is, love and acceptance conditional on performance or obedience, so that a split arises between the person's real self and their self "as it ought to be."
 - **The core therapist conditions**: within the six necessary and sufficient conditions he set out in 1957, the three conditions provided by the therapist are: **congruence** or genuineness (Congruence/Authenticity), **unconditional positive regard**, and **accurate empathic understanding**. These conditions, in his view, are sufficient in themselves to bring about constructive personality change without any interpretation or analysis on the therapist's part, a thesis that constituted an explicit break with both classical psychoanalysis and behaviorism.
 - **Extension of the model to education and groups**: he later extended his model to education ("student-centered learning") and group relations ("encounter groups"), and in his book *On Becoming a Person* (1961), one of the best-selling popular psychology books, he presented his vision of the "Fully Functioning Person" as the goal of healthy psychological growth.
@@ -72,7 +72,7 @@ Rogers was among the first therapists to record therapy sessions and analyze the
 ### The Rogers–Buber Dialogue (1957)
 
 On 18 April 1957, Rogers participated in a public dialogue with philosopher Martin Buber at the University of Michigan, moderated by Maurice Friedman. The encounter highlighted a foundational disagreement regarding mutuality in psychotherapy:
-- **Buber's position**: Buber argued that while genuine empathy and helping occur in therapy, true I–Thou mutuality is structural impossible in the clinical setting. The relationship is fundamentally asymmetrical because one person comes seeking help and reveals their inner life, while the therapist remains responsible for the process and does not reciprocally reveal themselves. Buber maintained that the therapist practices "inclusion" (experiencing the event from both poles), but the patient cannot experience the therapist's pole.
+- **Buber's position**: Buber argued that while genuine empathy and helping occur in therapy, true I–Thou mutuality is structurally impossible in the clinical setting. The relationship is fundamentally asymmetrical because one person comes seeking help and reveals their inner life, while the therapist remains responsible for the process and does not reciprocally reveal themselves. Buber maintained that the therapist practices "inclusion" (experiencing the event from both poles), but the patient cannot experience the therapist's pole.
 - **Rogers's position**: Rogers countered that in the deepest moments of therapeutic connection, when defenses drop, a fully mutual, person-to-person meeting occurs in which both participants experience genuine equality and shared presence beyond their institutional roles.
 
 The Wisconsin project with hospitalized schizophrenic patients, in which Eugene Gendlin, Charles Truax, and Donald Kiesler participated, yielded mixed and inconclusive results, qualifying the claim that the three core conditions are on their own uniformly sufficient across severe psychotic conditions.
@@ -90,7 +90,7 @@ Researchers in cross-cultural psychology such as Derald Wing Sue have pointed ou
 - Rogers, Carl R. *Client-Centered Therapy: Its Current Practice, Implications, and Theory*. Boston: Houghton Mifflin, 1951.
 - Rogers, Carl R. "The Necessary and Sufficient Conditions of Therapeutic Personality Change." *Journal of Consulting Psychology* 21, no. 2 (1957): 95-103.
 - Rogers, Carl R. *On Becoming a Person: A Therapist's View of Psychotherapy*. Boston: Houghton Mifflin, 1961.
-- Kirschenbaum, Howard. *The Life and Work of Carl Rogers*. Alexandria, VA: American Counseling Association, 2007.
+- Kirschenbaum, Howard. *The Life and Work of Carl Rogers*. Alexandria, VA: American Counseling Association, 2009.
 - Rogers, Carl R., and Rosalind F. Dymond (eds.). *Psychotherapy and Personality Change*. Chicago: University of Chicago Press, 1954.
 - Rogers, Carl R., and B. F. Skinner. "Some Issues Concerning the Control of Human Behavior: A Symposium." *Science* 124 (1956): 1057-1066.
 - Anderson, Rob, and Kenneth N. Cissna. *The Martin Buber-Carl Rogers Dialogue: A New Transcript with Commentary*. Albany: State University of New York Press, 1997.

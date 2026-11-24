@@ -54,4 +54,7 @@ Functional parity alone is not enough to settle the dispute, because the opponen
 - Rupert, Robert. "Challenges to the Hypothesis of Extended Cognition." *The Journal of Philosophy* 101(8), 2004: 389–428.
 - Rowlands, Mark. *The New Science of the Mind: From Extended Mind to Embodied Phenomenology*. Cambridge, MA: MIT Press, 2010.
 - Noë, Alva. *Action in Perception*. Cambridge, MA: MIT Press, 2004.
+- Hutchins, Edwin. *Cognition in the Wild*. Cambridge, MA: MIT Press, 1995.
+- Rowlands, Mark. *The Body in Mind: Understanding Cognitive Processes*. Cambridge: Cambridge University Press, 1999.
+- Gallagher, Shaun. *How the Body Shapes the Mind*. Oxford: Oxford University Press, 2005.
 - Menary, Richard (ed.). *The Extended Mind*. Cambridge, MA: MIT Press, 2010.

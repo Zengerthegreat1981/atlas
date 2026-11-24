@@ -31,22 +31,11 @@ Baddeley and Hitch used the "dual-task paradigm": the participant is asked to pe
 
 ## The three original components of the model
 
-Contrary to the single-store prediction, the researchers found that participants could hold a moderate digit load while reasoning with little impairment, and that performance declined only gradually as the load increased toward the limit of span, which suggested a multicomponent model in place of a single store: the **Central Executive**, a limited-capacity supervisory system that allocates attention among tasks; the **Phonological Loop** (called the "articulatory loop" in the 1974 chapter), a subsystem that stores verbal information and refreshes its trace through silent internal repetition (Subvocal Rehearsal); and the **Visuospatial Sketchpad**, a subsystem for storing visual and spatial information. Later dual-task studies (for example Baddeley and colleagues, 1975) supported the view that verbal and visuospatial tasks interfere with each other less than two tasks within the same domain.
+Contrary to the single-store prediction, the researchers found that participants could hold a moderate digit load while reasoning with little impairment, and that performance declined only gradually as the load increased toward the limit of span, which suggested a multicomponent model in place of a single store: the **Central Executive**, a limited-capacity supervisory system that allocates attention among tasks; the **Phonological Loop** (called the "articulatory loop" in the 1974 chapter), a subsystem that stores verbal information and refreshes its trace through silent internal repetition (Subvocal Rehearsal); and the **Visuospatial Sketchpad**, a subsystem for storing visual and spatial information. Later dual-task studies supported the view that verbal and visuospatial tasks interfere with each other less than two tasks within the same domain.
 
-## Experimental Series and Sample Sizes (1974)
+## Experimental Series (1974)
 
-The 1974 chapter reported a cumulative sequence of ten laboratory experiments designed to test whether short-term memory acts as a unitary working memory store. In accordance with the experimental standards of British cognitive psychology at the time, all studies utilized within-subjects (repeated-measures) designs with small participant cohorts subjected to extensive counterbalanced trials:
-- **Experiment I (Reasoning and Concurrent Digit Load):** Evaluated grammatical transformation reasoning latency across memory preloads of 0 to 6 digits (*N* = 12 university students).
-- **Experiment II (Reasoning Modality):** Assessed reasoning under concurrent load comparing visual and auditory digit presentation (*N* = 16 participants).
-- **Experiments III and IV (Free Recall and Concurrent Load):** Tested immediate free recall of 16-word lists while retaining concurrent sequences of 0, 3, or 6 digits (*N* = 12 per experiment).
-- **Experiment V (Prose Comprehension):** Measured reading time and comprehension verification accuracy while holding concurrent digit sequences (*N* = 18 participants).
-- **Experiment VI (Continuous Shadowing):** Examined comprehension during continuous auditory repetition and concurrent digit shadowing (*N* = 16 participants).
-- **Experiment VII (Phonemic Similarity in Free Recall):** Investigated acoustic vs. semantic coding under articulatory suppression (*N* = 12 participants).
-- **Experiment VIII (Articulatory Suppression and Digit Span):** Measured span limits under concurrent overt vocalization across visual and auditory inputs (*N* = 20 participants).
-- **Experiment IX (Phonemic Coding in Prose Memory):** Evaluated memory for phonemically similar vs. dissimilar prose passages under articulatory suppression (*N* = 16 participants).
-- **Experiment X (Recency Effect):** Explored whether the recency effect in free recall relies on the articulatory loop (*N* = 12 participants).
-
-Across the ten experiments, sample sizes ranged strictly between 12 and 20 participants per study, demonstrating that verbal and visuospatial processing could proceed concurrently with minimal mutual interference.
+The 1974 chapter reported a series of dual-task experiments in which participants held digit sequences of varying length while performing reasoning, comprehension, or free-recall tasks. Samples were small, within-subjects designs typical of experimental cognitive psychology at the time. Across the series, concurrent loads within the span limit produced only modest impairment on the second task, which was taken as evidence against a single, undifferentiated short-term store.
 
 ## Impact on neuroscience and cognitive science and later development
 

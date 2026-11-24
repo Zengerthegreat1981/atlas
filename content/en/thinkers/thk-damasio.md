@@ -25,7 +25,7 @@ gaps: []
 
 # Antonio Damasio
 
-Antonio Damasio (born 1944) is a Portuguese-American neuroscientist, neurologist, and university professor known for his pioneering research on the neurobiology of emotion, decision-making, and consciousness. His theoretical and clinical work provides a vital bridge between cognitive neuroscience, neurology, and philosophy of mind, establishing that emotions and bodily feelings are fundamental components of rational thought.
+Antonio Damasio (born 1944) is a Portuguese-American neuroscientist, neurologist, and university professor known for his pioneering research on the neurobiology of emotion, decision-making, and consciousness. His theoretical and clinical work provides a vital bridge between cognitive neuroscience, neurology, and philosophy of mind, arguing that emotions and bodily feelings are fundamental components of rational thought.
 
 ## What He Contributed
 
@@ -63,7 +63,7 @@ Damasio maintains that phenomenal subjectivity arises directly from homeostatic 
 Damasio's theoretical contributions emerged from classical clinical neuropsychology, inferring neural functions from focal lesion deficits:
 - **Patient EVR ("Elliot")**: Investigated by Eslinger and Damasio (1985), Elliot suffered vmPFC damage following the excision of a meningioma. While achieving superior scores on standard IQ tests, executive function batteries, and moral reasoning dilemmas, he was incapable of prioritizing everyday tasks or making sound social choices due to the absence of emotional signaling.
 - **The Historical Reconstruction of Phineas Gage**: In a 1994 paper in *Science*, Hanna Damasio and Antonio Damasio used neuroimaging techniques to reconstruct the trajectory of the tamping iron through Gage's skull, confirming that bilateral damage was focused on the vmPFC.
-- **The Iowa Gambling Task (IGT)**: Developed by Antoine Bechara, Antonio Damasio, Daniel Tranel, and Hanna Damasio (1997), the IGT tested decision-making under uncertainty. Participants drew cards from four decks: two "disadvantageous" decks offering high immediate rewards but catastrophic net losses, and two "advantageous" decks offering smaller rewards but steady gains. Healthy participants began favoring advantageous decks and developed anticipatory skin conductance responses (autonomic markers) *before* consciously recognizing the underlying rule. Patients with vmPFC lesions failed to develop anticipatory somatic responses and consistently chose the losing decks.
+- **The Iowa Gambling Task (IGT)**: Developed by Antoine Bechara, Antonio Damasio, Hanna Damasio, and colleagues in the 1990s (see Bechara et al., 1997), the IGT tested decision-making under uncertainty. Participants drew cards from four decks: two "disadvantageous" decks offering high immediate rewards but catastrophic net losses, and two "advantageous" decks offering smaller rewards but steady gains. Healthy participants began favoring advantageous decks and developed anticipatory skin conductance responses (autonomic markers) *before* consciously recognizing the underlying rule. Patients with vmPFC lesions failed to develop anticipatory somatic responses and consistently chose the losing decks.
 
 ## Biography and Career
 

@@ -22,7 +22,7 @@ gaps: []
 
 # Professional/Academic African Philosophy
 
-A philosophical movement that established African philosophy as a professional academic field in African universities, with professors, journals, conferences and curricula, and which applies standards of argument and criticism to the heritage. It regards itself as a response to ethnophilosophy, which held that African philosophy is a collective worldview expressed in languages and myths, and to colonial approaches that denied the existence of an African philosophy altogether.
+A philosophical movement that helped establish African philosophy as a professional academic field in African universities, with professors, journals, conferences and curricula, and which applies standards of argument and criticism to the heritage. It regards itself as a response to ethnophilosophy, which held that African philosophy is a collective worldview expressed in languages and myths, and to colonial approaches that denied the existence of an African philosophy altogether.
 
 ## The founding controversy
 

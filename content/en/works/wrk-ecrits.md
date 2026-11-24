@@ -28,7 +28,7 @@ gaps: []
 
 ## The Central Thesis
 
-*Écrits* is not a single unified treatise but a **monumental collection of thirty-four essays, lectures, and seminar presentations** authored by Jacques Lacan over three decades (1936–1966), compiled and published in a single 900-page volume by Éditions du Seuil in Paris in 1966. 
+*Écrits* is not a single unified treatise but a **monumental collection of essays, lectures, and seminar presentations** authored by Jacques Lacan over three decades (1936–1966), compiled and published in a single 900-page volume by Éditions du Seuil in Paris in 1966. 
 
 The unifying theoretical core across these texts is Lacan's radical "return to Freud" (*retour à Freud*), reinterpreting psychoanalytic metapsychology through the conceptual tools of structural linguistics (Ferdinand de Saussure, Roman Jakobson) and structural anthropology (Claude Lévi-Strauss). Its most celebrated aphorism asserts that **"the unconscious is structured like a language"** (*l'inconscient est structuré comme un langage*). Symptoms, parapraxes, and dream imagery do not stem from biological instincts or physiological drives, but operate according to the fundamental linguistic operations of **metaphor** (which Lacan equates with Freud's *condensation*) and **metonymy** (which he equates with *displacement*). Lacan famously insists on the "primacy of the signifier" (*le primat du signifiant*) over the signified, arguing that human desire is constituted within the linguistic order of the Other (*le grand Autre*).
 
@@ -49,9 +49,9 @@ The collection appeared in November 1966 at the height of French structuralism. 
 
 ## Reception and Criticism
 
-The publication of *Écrits* was an unexpected commercial and cultural sensation in France, despite its notorious difficulty. It founded Lacanian psychoanalysis as an autonomous international movement and exerted an immense influence across literary theory, feminist philosophy, film studies, and continental philosophy. 
+The publication of *Écrits* was an unexpected commercial and cultural sensation in France, despite its notorious difficulty. It became a central text of Lacanian psychoanalysis and exerted an immense influence across literary theory, feminist philosophy, film studies, and continental philosophy. 
 
-Critical reception has focused on Lacan's obscurity and mathematical borrowings: critics like Noam Chomsky dismissed his linguistic formulations as pretentious and scientifically unsound, while Alan Sokal and Jean Bricmont criticized his use of mathematical topology. In psychoanalysis, mainstream IPA analysts criticized his clinical technique for undermining the holding environment and fostering intellectualized transference. Nonetheless, an initial partial English translation by Alan Sheridan (*Écrits: A Selection*, 1977) and the first complete English translation by Bruce Fink (2006) cemented its status as a cornerstone of modern European thought.
+Critical reception has focused on Lacan's obscurity and mathematical borrowings: critics like Noam Chomsky dismissed his linguistic formulations as pretentious and scientifically unsound, while Alan Sokal and Jean Bricmont criticized his use of mathematical topology. In psychoanalysis, mainstream IPA analysts criticized his clinical technique, notably the variable-length session. Nonetheless, an initial partial English translation by Alan Sheridan (*Écrits: A Selection*, 1977) and the first complete English translation by Bruce Fink (2006) cemented its status as a cornerstone of modern European thought.
 
 ## Why It Is Included in the Atlas
 

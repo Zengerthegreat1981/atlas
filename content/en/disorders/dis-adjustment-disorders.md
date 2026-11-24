@@ -56,11 +56,11 @@ In pediatric and adolescent populations, adjustment disorders frequently manifes
 Differential diagnosis requires careful clinical boundary demarcation:
 - **Normal (Uncomplicated) Grief**: Characterized by sadness, pangs of yearning (*pangs of grief*), and crying spells that occur primarily in waves evoked by reminders of the deceased. Self-esteem is typically preserved, positive memories can still be accessed, and the reaction is aligned with cultural and religious bereavement rituals.
 - **Adjustment Disorder**: Diagnosed only when bereavement reactions produce emotional distress or behavioral dysfunction that substantially exceeds expected cultural norms, or when the stressor is non-bereavement related.
-- **Prolonged Grief Disorder**: If intense yearning, preoccupation with the deceased, and emotional pain persist beyond 12 months in adults (or 6 months in children/adolescents under DSM-5-TR/ICD-11) accompanied by functional disability, the appropriate diagnosis is Prolonged Grief Disorder (DSM-5-TR F43.8 / ICD-11 6B42), which supersedes adjustment disorder.
+- **Prolonged Grief Disorder**: If intense yearning, preoccupation with the deceased, and emotional pain persist beyond the time thresholds (in DSM-5-TR, at least 12 months after the loss in adults and 6 months in children and adolescents; in ICD-11, at least 6 months) accompanied by functional disability, the appropriate diagnosis is Prolonged Grief Disorder (DSM-5-TR F43.8 / ICD-11 6B42), which supersedes adjustment disorder.
 
 ## Evidence-Based Clinical Management
 
-Because adjustment disorders are by definition stress-precipitated and time-limited, brief, structured psychotherapeutic interventions constitute the premier standard of care:
+Because adjustment disorders are by definition stress-precipitated and time-limited, brief, structured psychotherapeutic interventions are the usual first-line approach:
 - **Problem-Solving Therapy (PST)**: Assists clients in defining concrete problems, generating actionable coping strategies, and restoring self-efficacy.
 - **Cognitive Behavioral Therapy (CBT)**: Short-term cognitive reframing targeting catastrophizing and hopelessness, paired with pleasant activity scheduling and stress-inoculation skills.
 - **Interpersonal Psychotherapy (IPT)**: Focuses on role transitions, interpersonal disputes, and grief resolution during life changes.

@@ -24,11 +24,11 @@ gaps: []
 
 # Jaak Panksepp
 
-An Estonian-American neuroscientist (1943–2017), born in Tartu, Estonia, and raised in the United States. A professor at Bowling Green State University, he is regarded as the de facto founder of the field of **affective neuroscience** as an independent academic discipline, rather than merely an application of neuroimaging techniques to the subject of emotions. He received his doctorate from the University of Massachusetts in 1969 and spent most of his career at Bowling Green, later also holding a chair at Washington State University. He was also known for his advocacy for animal welfare and for his campaign to establish that animals have affective consciousness.
+An Estonian-American neuroscientist (1943–2017), born in Tartu, Estonia, and raised in the United States. A professor at Bowling Green State University, he is regarded as a founder of the field of **affective neuroscience** as an independent academic discipline, rather than merely an application of neuroimaging techniques to the subject of emotions. He received his doctorate from the University of Massachusetts in 1969 and spent most of his career at Bowling Green, later also holding a chair at Washington State University. He was also known for his advocacy for animal welfare and for his campaign to establish that animals have affective consciousness.
 
 ## What He Contributed
 
-- **Founding affective neuroscience as a field**: his book *Affective Neuroscience* (1998) offered the first systematic framework linking subcortical circuits, behavior, and affective experience, and became the founding reference of the discipline. Before this book, "emotions" were a subject of social and personality psychology, rarely discussed in a strict neural framework. Panksepp insisted that they are empirically measurable like perception and movement.
+- **Founding affective neuroscience as a field**: his book *Affective Neuroscience* (1998) offered an influential systematic framework linking subcortical circuits, behavior, and affective experience, and became the founding reference of the discipline. Before this book, "emotions" were a subject of social and personality psychology, rarely discussed in a strict neural framework. Panksepp insisted that they are empirically measurable like perception and movement.
 - **Seven primary affective systems** in the brain, which he describes as ancient evolutionary circuits shared among mammals:
   1. **SEEKING** (seeking/curiosity/anticipation): the mesolimbic dopamine system, linked to anticipation and reward.
   2. **RAGE** (anger): a system linked to threat and frustration, activated in situations of restraint or loss.

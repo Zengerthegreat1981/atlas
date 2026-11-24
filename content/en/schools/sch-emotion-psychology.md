@@ -48,7 +48,7 @@ Appraisal theorists argue that emotions are elicited and differentiated by cogni
 - **Magda Arnold (1960)**: introduced the concept of appraisal into modern psychology, defining emotion as the felt tendency toward an object evaluated as beneficial or away from an object evaluated as harmful.
 - **Richard Lazarus (1966, 1991)**: formulated the cognitive-motivational-relational theory of emotion. Lazarus distinguished **primary appraisal** (evaluating whether an encounter is relevant, benign-positive, or a threat/challenge to well-being) from **secondary appraisal** (evaluating coping options, controllability, and future expectations).
 - **Klaus Scherer (1984, 2001)**: proposed the **Component Process Model**, treating emotion as a dynamic, multicomponent episode comprising coordinated changes across five subsystems (cognitive evaluation, autonomic physiology, action tendencies, motor expression, and subjective feeling). In this model, appraisals proceed through sequential stimulus evaluation checks: novelty, intrinsic pleasantness, goal relevance, coping potential, and norm compatibility.
-- **The Lazarus–Zajonc Debate (1980–1984)**: Robert Zajonc argued that "preferences need no inferences," demonstrating that affective reactions (such as the mere exposure effect) can occur rapidly and pre-cognitively without conscious appraisal. Lazarus replied that cognitive evaluation—whether automatic, preconscious, or deliberate—is necessary for an emotion to occur. Contemporary affective neuroscience recognizes both rapid subcortical routes and nuanced cortical appraisal networks.
+- **The Lazarus–Zajonc Debate (1980–1984)**: Robert Zajonc argued that "preferences need no inferences," arguing that affective reactions (such as the mere exposure effect) can occur rapidly and pre-cognitively without conscious appraisal. Lazarus replied that cognitive evaluation—whether automatic, preconscious, or deliberate—is necessary for an emotion to occur. Contemporary affective neuroscience recognizes both rapid subcortical routes and nuanced cortical appraisal networks.
 
 ## The Current Dispute: Constructed Emotion
 
@@ -58,13 +58,13 @@ The critique that reopened the file, most prominently theorized by **Lisa Feldma
 - **The multiple-choice method** in Ekman's studies restricts the respondent to a list of words, so it produces the agreement it measures. Free-labeling studies, including the work with the **Himba** in Namibia, yielded much lower agreement.
 - **The alternative**: the brain categorizes raw bodily sensation (**core affect**: pleasure/pain and arousal/calm) using emotion concepts it has **learned from its culture**, and so the emotion is constructed. Emotion is thus a **category**, not a program.
 
-Proponents of basic emotions reply that the absence of a fingerprint does not negate the existence of the category, and that the cross-cultural agreement observed far exceeds chance in every case. **The matter is open**, and it is not right to present either side as settled.
+Proponents of basic emotions reply that the absence of a fingerprint does not negate the existence of the category, and that the cross-cultural agreement observed in recognition studies generally exceeds chance. **The matter is open**, and it is not right to present either side as settled.
 
 ## Limitations
 
 - **The problem of definition**: there is no agreed definition of "emotion" that separates it from mood, motive, and sensation, and this is the source of much of the disagreement.
 - **Reliance on the face**: a century of research rested on still photographs of faces posed in a laboratory, which are far removed from emotion in life.
-- **Applied warning**: **reading emotion from the face automatically, in hiring, security, or education, is an application the field does not support.** A broad review (Barrett and colleagues, 2019) concluded that inferring a person's emotional state from facial movements alone is **unreliable**, and that claims to do so automatically, as in commercial and security applications, are not adequately supported. This is among the clearest instances of the misuse of science.
+- **Applied warning**: **reading emotion from the face automatically, in hiring, security, or education, is an application the field does not support.** A broad review (Barrett and colleagues, 2019) concluded that inferring a person's emotional state from facial movements alone is **unreliable**, and that claims to do so automatically, as in commercial and security applications, are not adequately supported.
 - **Emotional intelligence**: a concept popular with the public, but its psychometric construction and how much it adds beyond personality and general ability remain the subject of continuing disagreement.
 
 ## Sources

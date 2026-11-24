@@ -40,7 +40,7 @@ In United States jurisprudence, the admissibility of expert psychological testim
 1. Has been empirically tested;
 2. Has a known potential error rate;
 3. Has been subjected to peer-reviewed publication; and
-4. Maintains operational maintenance standards.
+4. Has standards controlling its operation and is generally accepted in the relevant scientific community.
 
 Projective testimony in child custody disputes and criminal evaluations frequently faces *Daubert* challenges. While courts vary, expert testimony relying on unstandardized projective interpretation is increasingly excluded, whereas standardized R-PAS evaluations focused on empirically validated cognitive variables demonstrate greater legal durability.
 

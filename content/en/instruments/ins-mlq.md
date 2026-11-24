@@ -34,15 +34,15 @@ The MLQ exhibits robust psychometric properties across diverse populations:
 - **Internal Consistency**: Cronbach's alpha coefficients routinely range from 0.81 to 0.86 for the Presence subscale and from 0.84 to 0.88 for the Search subscale.
 - **Stability**: Test-retest reliability over one- to two-month intervals ranges between 0.70 and 0.73.
 - **Factorial Validity**: Confirmatory factor analysis robustly replicates the two-factor orthogonal model over unidimensional alternatives across clinical and non-clinical cohorts.
-- **Construct Validity**: Presence of Meaning correlates positively with life satisfaction, positive affect, optimism, and intrinsic religiosity, while correlating negatively with depression and suicidal ideation. Search for Meaning displays more complex relationships, correlating positively with rumination and neuroticism in Western individualism, but correlating positively with well-being in collectivistic cultures where exploration is culturally valued.
+- **Construct Validity**: Presence of Meaning correlates positively with life satisfaction, positive affect, optimism, and intrinsic religiosity, while correlating negatively with depression and suicidal ideation. Search for Meaning displays more complex relationships, correlating positively with rumination and neuroticism in some samples, and its relation to well-being appears to vary across cultural contexts.
 
 ## Cross-Cultural Standardization and Arabic Versions
 
-The MLQ has been adapted into numerous languages worldwide. In the Arab world, psychometric standardizations conducted by Ahmed Abdel-Khalek, David Lester, and regional researchers in Egypt, Saudi Arabia, and Palestine confirmed the two-factor structure. The Arabic adaptations demonstrated strong internal consistency (alphas > 0.80 for both subscales) and significant positive associations between Presence of Meaning, subjective well-being, and religious coping.
+The MLQ has been adapted into numerous languages worldwide. Arabic adaptations have been developed and studied in several countries; reported factor structure and reliability vary across samples, so local psychometric evidence should be checked before use.
 
 ## Clinical and Research Applications
 
-The instrument is widely utilized in logotherapy research, positive psychology, geriatric counseling, and palliative care. It enables clinicians to distinguish between four distinct existential states:
+The instrument is widely utilized in logotherapy research, positive psychology, geriatric counseling, and palliative care. Researchers sometimes combine the two subscales to describe four heuristic profiles (not diagnostic categories):
 - *Fulfilled* (High Presence, Low Search)
 - *Searching* (High Presence, High Search)
 - *Crisis / Deficit* (Low Presence, High Search)

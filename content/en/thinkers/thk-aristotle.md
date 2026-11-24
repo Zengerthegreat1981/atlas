@@ -18,7 +18,7 @@ gaps: []
 
 # Aristotle
 
-A Greek philosopher and scientist (384–322 BCE), a student of Plato and the teacher of Alexander the Great, who founded logic as a systematic discipline and wrote on metaphysics, ethics, politics, biology, physics, rhetoric and poetics. His works shaped Greek, Arabic, Latin and modern thought for many centuries, and in the Arabic tradition he was called "the First Teacher."
+A Greek philosopher and scientist (384–322 BCE), a student of Plato and the teacher of Alexander the Great, who developed logic as a systematic discipline and wrote on metaphysics, ethics, politics, biology, physics, rhetoric and poetics. His works shaped Greek, Arabic, Latin and modern thought for many centuries, and in the Arabic tradition he was called "the First Teacher."
 
 ## Life and Context
 
@@ -36,7 +36,7 @@ Aristotle was born in Stagira, in northern Greece, to Nicomachus, a physician at
 
 **Politics.** Human beings are by nature political animals, and the state exists for the good life and not mere survival. He compared constitutions, classifying them by whether the rulers govern for the common good, and favoured a mixed regime with a strong middle class.
 
-**Poetics and rhetoric.** He analysed tragedy, including plot, catharsis and imitation, and wrote the first systematic treatise on persuasion.
+**Poetics and rhetoric.** He analysed tragedy, including plot, catharsis and imitation, and wrote an early systematic treatise on persuasion.
 
 ## Major Works and Sources of Our Knowledge
 

@@ -33,7 +33,7 @@ The medieval debate originated in late antiquity with Porphyry's *Isagoge* (Intr
 
 ## The Major Philosophical Positions
 
-- **Extreme Realism (Platonic Realism / *Universalia ante rem*)**: Universals exist prior to and independent of particular physical things. For Plato, particulars imperfectly participate in transcendent transcendent Forms (*Ideai*). Augustine christianized this doctrine by locating the universal archetypes as eternal ideas in the divine intellect. In the early 12th century, William of Champeaux initially held an extreme realist view that the same essential nature is wholly present in every individual of a species (a view he later modified under Peter Abelard's critique).
+- **Extreme Realism (Platonic Realism / *Universalia ante rem*)**: Universals exist prior to and independent of particular physical things. For Plato, particulars imperfectly participate in transcendent Forms (*Ideai*). Augustine christianized this doctrine by locating the universal archetypes as eternal ideas in the divine intellect. In the early 12th century, William of Champeaux initially held an extreme realist view that the same essential nature is wholly present in every individual of a species (a view he later modified under Peter Abelard's critique).
 - **Moderate Realism (Aristotelian Realism / *Universalia in re*)**: Universals exist objectively, but only instantiated within concrete individual substances (*in re*), not in an independent transcendent realm. Thomas Aquinas synthesized this view into a threefold existence of universals:
   1. *Ante rem*: As divine exemplary ideas in God's mind prior to creation;
   2. *In re*: As common natures individualized by designated matter (*materia signata*) in physical particulars;
@@ -44,12 +44,12 @@ The medieval debate originated in late antiquity with Porphyry's *Isagoge* (Intr
 
 ## The Crucial Influence of Islamic Philosophy
 
-The scholastic debate was fundamentally transformed in the 13th century by the Latin translation of Ibn Sina's (Avicenna's) *Metaphysics* of *al-Shifā'*. In Book V, Ibn Sina introduced his celebrated tripartite analysis of quiddity or essence (*al-māhiyya*):
+The scholastic debate was fundamentally transformed from the late 12th century onward by the Latin translation of Ibn Sina's (Avicenna's) *Metaphysics* of *al-Shifā'*. In Book V, Ibn Sina introduced his celebrated tripartite analysis of quiddity or essence (*al-māhiyya*):
 1. **Quiddity in itself (*al-māhiyya bi-mā hiya hiya*)**: Considered purely in its intrinsic definition, independent of any mode of existence. As Avicenna famously wrote: "Horseness is simply horseness" (*al-farasīya bi-mā hiya farasīya fa-qaṭ*); it is in itself neither one nor many, neither universal nor particular.
 2. **Quiddity in concrete particulars (*fī al-a'yān*)**: Realized in singular things through matter and accidents.
 3. **Quiddity in the intellect (*fī al-adhhān*)**: Where universality attaches to the quiddity as an accidental property of being predicated of many.
 
-This Avicennian distinction directly provided Albert the Great, Thomas Aquinas, and Duns Scotus with the ontological vocabulary necessary to establish moderate realism and overcome early medieval impasses.
+This Avicennian distinction influenced Albert the Great, Thomas Aquinas, and Duns Scotus in developing their moderate-realist accounts.
 
 ## Sources
 

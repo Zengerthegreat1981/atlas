@@ -35,7 +35,7 @@ In the session, the work proceeds in small steps. The therapist slows the client
 
 ## Key figures
 
-Husserl provides the method; Heidegger, the ontology of being-in-the-world the clinical tradition draws on. Merleau-Ponty made the body central. Binswanger is the founder of Daseinsanalyse as a psychiatric practice: he showed that a person's world — their experience of time, space, others and their own body — could be described systematically, and that mental illness could be understood as a disturbance of that world. Boss is its most systematic clinical reformulator. Spinelli made the method teachable, and van Manen turned it toward research.
+Husserl provides the method; Heidegger, the ontology of being-in-the-world the clinical tradition draws on. Merleau-Ponty made the body central. Binswanger was a leading pioneer of Daseinsanalyse as a psychiatric practice: he showed that a person's world — their experience of time, space, others and their own body — could be described systematically, and that mental illness could be understood as a disturbance of that world. Boss is its most systematic clinical reformulator. Spinelli made the method teachable, and van Manen turned it toward research.
 
 ## Evidence and influence
 

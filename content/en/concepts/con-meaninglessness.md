@@ -27,7 +27,7 @@ Albert Camus articulated the modern philosophy of meaninglessness through the co
 ## Clinical Manifestations and Frankl's "Existential Vacuum"
 
 In clinical psychology and psychiatry, meaninglessness is recognized as a profound source of distress, distinct from traditional psychiatric disorders:
-- **The Existential Vacuum**: Viktor Frankl observed that the primary motivational force in humans is the "will to meaning" (in contrast to Freud's pleasure principle and Adler's will to power). In *Man's Search for Meaning* (1959), Frankl described the **existential vacuum**—a pervasive sense of inner emptiness, boredom, and futility that arises when traditional values and instincts no longer instruct an individual on what they must do. When unaddressed, the existential vacuum can precipitate what Frankl termed **noogenic neurosis**, a psychological crisis originating from spiritual and existential frustration rather than intrapsychic drive conflicts.
+- **The Existential Vacuum**: Viktor Frankl observed that the primary motivational force in humans is the "will to meaning" (in contrast to Freud's pleasure principle and Adler's will to power). In *Man's Search for Meaning* (first published in English in 1959 as *From Death-Camp to Existentialism*), Frankl described the **existential vacuum**—a pervasive sense of inner emptiness, boredom, and futility that arises when traditional values and instincts no longer instruct an individual on what they must do. When unaddressed, the existential vacuum can precipitate what Frankl termed **noogenic neurosis**, a psychological crisis originating from spiritual and existential frustration rather than intrapsychic drive conflicts.
 - **Cosmic versus Terrestrial Meaning**: Irvin Yalom (*Existential Psychotherapy*, 1980) made meaninglessness one of the four "ultimate concerns" of psychotherapy, alongside death, freedom, and isolation. Yalom clarified the crucial distinction between:
   - **Cosmic meaning**: An overarching, transcendent magical or religious design in which human life has an assigned role.
   - **Terrestrial (personal) meaning**: Secular, lived purpose created by the individual through engagement, loving relationships, creative work, altruism, and dedication to a cause beyond the self.
@@ -49,9 +49,9 @@ Existential therapy does not treat the experience of meaninglessness as a cognit
 ## Sources
 
 - Camus, A. (1955). *The Myth of Sisyphus and Other Essays*. Trans. J. O'Brien. Alfred A. Knopf.
-- Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+- Frankl, V. E. (1959). *From Death-Camp to Existentialism*. Beacon Press. (Later editions retitled *Man's Search for Meaning*.)
 - Frankl, V. E. (1969). *The Will to Meaning: Foundations and Applications of Logotherapy*. World Publishing Company.
-- May, R. (1967). *Psychology and the Human Dilemma*. W. W. Norton & Company.
+- May, R. (1967). *Psychology and the Human Dilemma*. D. Van Nostrand.
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 
 ## Related Concepts

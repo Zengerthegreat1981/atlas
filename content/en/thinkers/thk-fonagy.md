@@ -30,7 +30,7 @@ gaps: []
 
 # Peter Fonagy
 
-Peter Fonagy (born 1952) is a British clinical psychologist, psychoanalyst, Head of the Division of Psychology and Language Sciences at University College London (UCL), and former Chief Executive of the Anna Freud National Centre for Children and Families in London. Fonagy is the foremost theorist of **mentalization** and the co-developer of **Mentalization-Based Treatment** (MBT). His work provides a bridge between attachment theory, developmental cognitive science, and clinical psychotherapy, reformulating attachment relationships as the essential scaffold for developing social cognition and self-regulation.
+Peter Fonagy (born 1952) is a British clinical psychologist, psychoanalyst, Head of the Division of Psychology and Language Sciences at University College London (UCL), and former Chief Executive of the Anna Freud National Centre for Children and Families in London. Fonagy is a leading theorist of **mentalization** and the co-developer of **Mentalization-Based Treatment** (MBT). His work provides a bridge between attachment theory, developmental cognitive science, and clinical psychotherapy, reformulating attachment relationships as the essential scaffold for developing social cognition and self-regulation.
 
 ## What He Contributed
 
@@ -38,10 +38,9 @@ Peter Fonagy (born 1952) is a British clinical psychologist, psychoanalyst, Head
 
 Fonagy conceptualizes mentalization as the capacity to implicitly and explicitly interpret and understand the actions of oneself and others as meaningful based on underlying intentional mental states—such as needs, desires, feelings, beliefs, goals, and intentions. Rather than viewing mentalization as a cold, intellectualized "theory of mind," Fonagy frames it as a deeply affective, interpersonal capacity rooted in early caregiving interactions.
 
-In *Affect Regulation, Mentalization, and the Development of the Self* (Fonagy et al., 2002, p. 3), the authors defined this core construct:
-> "Mentalization is the process by which we realize that having a mind mediates between experiencing the world and acting in it. It is the capacity to conceive of conscious and unconscious mental states in oneself and others."
+In *Affect Regulation, Mentalization, and the Development of the Self* (Fonagy et al., 2002), the authors developed this core construct at book length.
 
-In early collaborative research (Fonagy, Steele, Steele, Moran, & Higgitt, 1991), Fonagy and colleagues demonstrated that secure parental attachment predicts the robust development of mentalizing competence in offspring, whereas attachment trauma and disorganized attachment impair the child's ability to read and regulate mental states.
+In early collaborative research (Fonagy, Steele, Steele, Moran, & Higgitt, 1991), Fonagy and colleagues reported that secure parental attachment predicts the robust development of mentalizing competence in offspring, whereas attachment trauma and disorganized attachment impair the child's ability to read and regulate mental states.
 
 ### Reflective Functioning (RF)
 
@@ -62,7 +61,7 @@ Rooted in secure attachment and "contingent ostensive cues" (signals communicati
 
 In collaboration with the psychiatrist Anthony Bateman, Fonagy developed **Mentalization-Based Treatment (MBT)**, a manualized, evidence-based psychotherapy originally designed for Borderline Personality Disorder (BPD) and subsequently adapted for adolescents (MBT-A) and eating disorders (MBT-ED):
 - **Core Therapeutic Objective**: To stabilize emotional arousal and recover reflective capacity during moments of interpersonal stress, rather than uncovering unconscious biographical trauma or applying rigid behavioral scripts.
-- **Empirical Base**: A seminal 18-month randomized controlled trial (Bateman & Fonagy, 1999) and subsequent long-term follow-up studies established that MBT produces sustained reductions in suicide attempts, self-harm, and hospitalizations in individuals diagnosed with BPD.
+- **Empirical Base**: A seminal 18-month randomized controlled trial (Bateman & Fonagy, 1999) and subsequent long-term follow-up studies reported that MBT was associated with sustained reductions in suicide attempts, self-harm, and hospitalizations in individuals diagnosed with BPD.
 
 ## Bridging Roles and Critical Evaluation
 

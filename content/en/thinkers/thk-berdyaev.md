@@ -38,7 +38,7 @@ Born in Kyiv in 1874 into an aristocratic family, he attended the Kyiv Cadet Cor
 
 ## Relation to Depth Psychology and Psychotherapy
 
-Unlike Jaspers or Binswanger, Berdyaev was neither a psychiatrist nor a clinician, yet his personalist philosophy influenced existential psychotherapy, notably through the American existential movement led by Rollo May. In *The Destiny of Man* (1931), Berdyaev engaged directly with Sigmund Freud and depth psychology, acknowledging psychoanalysis for uncovering the subconscious conflicts and neuroses born of social repression, while criticizing Freud for reducing spiritual and creative life to biological instincts. For Berdyaev, mental anguish and inner division reflect a spiritual crisis: the degradation of the person into an objectified entity. Existential psychotherapists drew upon his concepts of creative freedom (*tvorchestvo*) and the defense of the irreplaceable person against depersonalizing social mechanisms as vital resources for therapeutic integration and authentic selfhood.
+Unlike Jaspers or Binswanger, Berdyaev was neither a psychiatrist nor a clinician, yet his personalist philosophy has been drawn on by some existential and humanistic psychotherapists (Rollo May, for example, cites him in *The Courage to Create*). Berdyaev was critical of Freudian psychoanalysis for reducing spiritual and creative life to biological instincts. For Berdyaev, mental anguish and inner division reflect a spiritual crisis: the degradation of the person into an objectified entity. His concepts of creative freedom (*tvorchestvo*) and of the irreplaceable person have been taken up by some writers in this field.
 
 ## Limitation
 

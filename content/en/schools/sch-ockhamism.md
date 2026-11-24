@@ -33,7 +33,7 @@ Ockham studied and lectured at Oxford in the 1310s, commenting on Lombard's *Sen
 
 ## Leading Figures
 
-- **William of Ockham** (c. 1287-1347): the founder.
+- **William of Ockham** (c. 1287-1347): the central figure.
 - **Walter Chatton** (c. 1290-1343): Franciscan contemporary and critic of Ockham at Oxford.
 - **Adam Wodeham** (c. 1298-1358): Franciscan who first studied with Ockham and developed his own influential positions.
 - **Robert Holcot** (c. 1290-1349): Dominican theologian influenced by nominalist trends.

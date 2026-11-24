@@ -50,7 +50,7 @@ When individuals cannot tolerate the anxiety of fusion, they frequently resort t
 
 Differentiation has been operationalized in psychological research through standardized self-report instruments, notably the Differentiation of Self Inventory (DSI; Skowron & Friedlander, 1998) and its revised version (DSI-R; Skowron & Schmitt, 2003). The DSI measures four distinct subscales: Emotional Reactivity, I-Position, Emotional Cutoff, and Fusion with Others.
 
-In clinical practice, Bowenian family therapy focuses on coaching individuals to lower their emotional reactivity, define an authentic I-position, de-triangulate from family conflicts, and build direct, person-to-person relationships with members of their family of origin. Rather than prescribing behavioral techniques, the therapist maintains a differentiated, calm stance to avoid being inducted into the family's emotional system. The evidence base for Bowen-informed family therapy is modest and largely observational, supporting a cautious "probably efficacious" rating rather than a validated empirical claim.
+In clinical practice, Bowenian family therapy focuses on coaching individuals to lower their emotional reactivity, define an authentic I-position, de-triangulate from family conflicts, and build direct, person-to-person relationships with members of their family of origin. Rather than prescribing behavioral techniques, the therapist maintains a differentiated, calm stance to avoid being inducted into the family's emotional system. The evidence base for Bowen-informed family therapy is modest and largely observational, and should be treated cautiously rather than as a validated empirical claim.
 
 ## Sources
 

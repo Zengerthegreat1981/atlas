@@ -51,7 +51,7 @@ It appeared in late 1689 with the date 1690 on its title page, in four books: **
 
 ## Influence
 
-**George Berkeley** demolished the distinction between primary and secondary qualities and "abstract ideas" in the *Principles of Human Knowledge*; **David Hume** extended associative analysis to the self in *A Treatise of Human Nature*; and in **David Hartley**'s *Observations on Man* association became a complete psychological system.
+**George Berkeley** criticized the distinction between primary and secondary qualities and "abstract ideas" in the *Principles of Human Knowledge*; **David Hume** extended associative analysis to the self in *A Treatise of Human Nature*; and in **David Hartley**'s *Observations on Man* association became a complete psychological system.
 
 ## Medical and Scientific Formation
 

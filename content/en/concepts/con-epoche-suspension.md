@@ -19,7 +19,7 @@ gaps: []
 
 # Epoché (Suspension of Judgment)
 
-An epistemological and ethical concept in Greek skepticism: the voluntary abstention from issuing any categorical judgment, whether affirmation or denial, regarding what reason does not settle. It is associated with Pyrrho of Elis (c. 360–270 BCE), the founder of Pyrrhonian skepticism. Pyrrho wrote nothing, and what is known of his position comes through his pupil Timon of Phlius, Diogenes Laertius, and Sextus Empiricus (fl. late 2nd century CE), so the term may be a later codification of his stance rather than his own wording. It is presented by Sextus as the middle link in a chain: equipollence of arguments → suspension of judgment → peace of mind.
+An epistemological and ethical concept in Greek skepticism: the voluntary abstention from issuing any categorical judgment, whether affirmation or denial, regarding what reason does not settle. It is associated with Pyrrho of Elis (c. 360–270 BCE), the figure traditionally regarded as the inspiration of Pyrrhonian skepticism (the school was revived and systematised later, notably by Aenesidemus). Pyrrho wrote nothing, and what is known of his position comes through his pupil Timon of Phlius, Diogenes Laertius, and Sextus Empiricus (fl. late 2nd century CE), so the term may be a later codification of his stance rather than his own wording. It is presented by Sextus as the middle link in a chain: equipollence of arguments → suspension of judgment → peace of mind.
 
 ## The Logical Structure: From Equipollence to Tranquility
 

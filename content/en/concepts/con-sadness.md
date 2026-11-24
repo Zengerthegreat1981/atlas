@@ -48,7 +48,7 @@ In Arabic literary heritage, the elegiac genre (*ritha'*)—most famously exempl
 
 ## Sadness and Depression
 
-Sadness is a normal emotion; depression is a clinical condition. In DSM-5-TR, major depressive disorder requires, over at least two weeks, depressed mood or loss of interest or pleasure together with several other symptoms (such as sleep or appetite change, fatigue, feelings of worthlessness or excessive guilt, psychomotor agitation or retardation, difficulty concentrating, and recurrent thoughts of death), causing significant distress or impairment. Similarly, ICD-11 classifies depressive episodes (code 6A70) noting persistent depressed mood or diminished interest alongside neurovegetative changes. Sadness that is proportionate, tied to a loss, and comes in waves is not by itself a disorder, and clinical judgement is needed to tell the two apart. Anyone with persistent low mood, hopelessness or thoughts of self-harm should seek professional help.
+Sadness is a normal emotion; depression is a clinical condition. In DSM-5-TR, major depressive disorder requires, over at least two weeks, depressed mood or loss of interest or pleasure together with several other symptoms (such as sleep or appetite change, fatigue, feelings of worthlessness or excessive guilt, psychomotor agitation or retardation, difficulty concentrating, and recurrent thoughts of death), causing significant distress or impairment. Similarly, ICD-11 classifies depressive disorders (e.g., single episode depressive disorder, code 6A70) noting persistent depressed mood or diminished interest alongside neurovegetative changes. Sadness that is proportionate, tied to a loss, and comes in waves is not by itself a disorder, and clinical judgement is needed to tell the two apart. Anyone with persistent low mood, hopelessness or thoughts of self-harm should seek professional help.
 
 ## Sadness and Meaning
 
@@ -63,5 +63,5 @@ Sadness is also entangled with questions of meaning. The loss of a person can be
 - Darwin, C. (1872). *The Expression of the Emotions in Man and Animals*. John Murray.
 - Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 - Mesquita, B., & Frijda, N. H. (1992). Cultural variations in emotions: A review. *Psychological Bulletin*, 112(2), 179–204.
-- Al-Balkhi, A. Z. (934). *Masalih al-Abdan wa al-Anfus* [Sustenance for Body and Soul]. (M. Misri, Ed., 2005). Dar al-Kutub al-Ilmiyyah.
-- Al-Kindi, Y. (c. 870). *Risalah fi al-Hilah li-Daf' al-Ahzan* [The Art of Dispelling Sorrows]. (H. Ritter & R. Walzer, Eds., 1938).
+- Al-Balkhi, A. Z. (d. 934). *Masalih al-Abdan wa al-Anfus* [Sustenance of the Body and the Soul]. English translation: Badri, M. (2013). *Abu Zayd al-Balkhi's Sustenance of the Soul*. International Institute of Islamic Thought.
+- Al-Kindi, Y. (c. 870). *Risalah fi al-Hilah li-Daf' al-Ahzan* [The Art of Dispelling Sorrows]. (H. Ritter & R. Walzer, Eds., 1938). *Studi su al-Kindi II*, Atti della R. Accademia Nazionale dei Lincei.

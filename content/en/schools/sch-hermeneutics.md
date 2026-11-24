@@ -28,7 +28,7 @@ gaps: []
 
 # Philosophical Hermeneutics (Philosophische Hermeneutik)
 
-A philosophical current founded by **Hans-Georg Gadamer** (1900-2002) in *Truth and Method* (Wahrheit und Methode, 1960), aiming to transform hermeneutics from an **interpretive method for texts** into a **comprehensive philosophy of human understanding**. This school holds that understanding is not merely a cognitive act but a **way of being** (Seinsweise), and that every relation to the world is an interpretive one. This page focuses on the long history of the art of interpretation and on Gadamer's own philosophy, while the page on Critical Hermeneutics deals with the controversy over ideology and power.
+A philosophical current developed most fully by **Hans-Georg Gadamer** (1900-2002) in *Truth and Method* (Wahrheit und Methode, 1960), aiming to transform hermeneutics from an **interpretive method for texts** into a **comprehensive philosophy of human understanding**. This school holds that understanding is not merely a cognitive act but a **way of being** (Seinsweise), and that every relation to the world is an interpretive one. This page focuses on the long history of the art of interpretation and on Gadamer's own philosophy, while the page on Critical Hermeneutics deals with the controversy over ideology and power.
 
 ## Ancient Roots and Traditions of Interpretation
 
@@ -82,7 +82,7 @@ Theology and biblical interpretation after historicism, law (the judge between r
 - Ricœur, Paul. *Le conflit des interprétations*. Seuil, 1969.
 - Dilthey, Wilhelm. *Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften*. Preußische Akademie der Wissenschaften, 1910.
 - Betti, Emilio. *Die Hermeneutik als allgemeine Methodik der Geisteswissenschaften*. J.C.B. Mohr, 1962.
-- Gadamer, Hans-Georg. *Truth and Method*. 2nd rev. ed. Trans. Joel Weinsheimer and Donald G. Marshall. Continuum, 1989.
+- Gadamer, Hans-Georg. *Truth and Method*. 2nd rev. ed. Trans. Joel Weinsheimer and Donald G. Marshall. Crossroad, 1989.
 - Grondin, Jean. *Introduction to Philosophical Hermeneutics*. Yale University Press, 1994.
 - Abu Zayd, Nasr Hamid. *The Concept of the Text: A Study in the Sciences of the Qur'an*. Egyptian General Book Organization, 1990.
 - Rahman, Fazlur. *Islam and Modernity: Transformation of an Intellectual Tradition*. University of Chicago Press, 1982.

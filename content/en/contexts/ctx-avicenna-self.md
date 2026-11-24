@@ -19,7 +19,7 @@ gaps: []
 
 # Avicenna and Kitab al-Nafs
 
-Abu Ali al-Husayn ibn Abd Allah ibn Sina — known in the Latin West as Avicenna (980–1037) — composed the psychology section of his great philosophical encyclopaedia al-Shifa (The Healing) in the 1020s, during his years in Hamadan and Isfahan. The section, Kitab al-Nafs (The Book of the Soul), is the most systematic treatment of the soul produced in the Arab-Islamic tradition: a theory of the soul's powers that fuses Aristotelian philosophy with Galenic medicine and with Avicenna's own experience as the author of the Canon of Medicine. For this Atlas it matters as the model of a rigorous, methodical Arab-Islamic psychology — not scattered observations on the soul, but a complete science of it, worked out a millennium before modern psychology claimed the same ground.
+Abu Ali al-Husayn ibn Abd Allah ibn Sina — known in the Latin West as Avicenna (980–1037) — composed the psychology section of his great philosophical encyclopaedia al-Shifa (The Healing) in the 1020s, during his years in Hamadan and Isfahan. The section, Kitab al-Nafs (The Book of the Soul), is the most systematic treatment of the soul produced in the Arab-Islamic tradition: a theory of the soul's powers that fuses Aristotelian philosophy with Galenic medicine and with Avicenna's own experience as the author of the Canon of Medicine. For this Atlas it matters as the model of a rigorous, methodical Arab-Islamic psychology — not scattered observations on the soul, but a complete science of it, worked out nearly a millennium before modern psychology claimed the same ground.
 
 ## The context
 
@@ -40,7 +40,7 @@ The Arabic text of *Kitab al-Nafs* constitutes the sixth treatise (*al-Fann al-S
 2. **Treatise 2**: Analyzes the vegetative powers (*al-quwa al-nabatiyya*) and the five external senses.
 3. **Treatise 3**: Investigates the mechanics of vision and optics, systematically refuting mathematical extramission theories (*khuruj al-shu'a'*) in favor of physical intromission (*intiba'*).
 4. **Treatise 4**: Presents Avicenna's celebrated taxonomy of the internal senses (*al-hawass al-batinah*)—common sense (*al-hiss al-mushtarak*), formative imagination (*al-khayal* / *al-musawwira*), cogitative/compositive faculty (*al-mutakhayyila* / *al-mufakkira*), estimative intuition (*al-wahm*), and retentive memory (*al-hafiza* / *al-dhakira*)—mapping them to specific brain ventricles in dialogue with Galenic anatomy.
-5. **Treatise 5**: Establishes the rational soul (*al-nafs al-natiqa*), distinguishing theoretical and practical intellect, demonstrating the soul's immateriality and post-mortem incorruptibility, and analyzing intuitive prophetic intellect (*al-'aql al-qudsi*).
+5. **Treatise 5**: Establishes the rational soul (*al-nafs al-natiqa*), distinguishing theoretical and practical intellect, arguing for the soul's immateriality and post-mortem incorruptibility, and analyzing intuitive prophetic intellect (*al-'aql al-qudsi*).
 
 Critical scholarship—from Fazlur Rahman's 1959 critical edition to studies by Michael Marmura (1986), Dag Nikolaus Hasse (2000), Dimitri Gutas (2014), and Jari Kaukua (2015)—highlights how Avicenna utilized rigorous Arabic philosophical terminology to transform Peripatetic functionalism into an original substantive, self-aware psychology.
 

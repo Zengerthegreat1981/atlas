@@ -60,7 +60,7 @@ Existential writers emphasize that mature hope is not the denial of despair, but
 ## Sources
 
 - Bugental, J. F. T. (1987). *The Art of the Psychotherapist*. W. W. Norton & Company.
-- Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+- Frankl, V. E. (1959). *From Death-Camp to Existentialism* (later retitled *Man's Search for Meaning*). Beacon Press.
 - Kierkegaard, S. (1980). *The Sickness Unto Death* (H. V. Hong & E. H. Hong, Trans.). Princeton University Press. (Original Danish work published 1849).
 - May, R. (1975). *The Courage to Create*. W. W. Norton.
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

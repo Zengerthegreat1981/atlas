@@ -24,7 +24,7 @@ gaps: []
 
 # Franz Brentano
 
-A German-Austrian philosopher and psychologist (1838–1917), the direct teacher of Edmund Husserl, and the author of the formulation of "intentionality" (Intentionalität), which became the cornerstone of later phenomenology.
+A German-Austrian philosopher and psychologist (1838–1917), the direct teacher of Edmund Husserl, and the thinker who revived the scholastic notion of intentionality in modern form, a notion that became central to later phenomenology.
 
 ## His Contribution
 

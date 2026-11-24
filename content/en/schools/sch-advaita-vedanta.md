@@ -27,10 +27,10 @@ gaps: []
 
 The non-dualist Vedantic school (Non-dualism): Brahman is the only reality, the manifold world is a conditioned appearance (maya), and the individual self (atman) is identical with Brahman upon realization. It is the best-known school of Vedanta, the tradition that interprets the Upanishads, the Brahma Sutras and the Bhagavad Gita.
 
-## The Founder and the Lineage
+## Shankara and the Lineage
 
-- **Adi Shankara (Śaṅkarācārya)**: the greatest philosopher of this school; traditional accounts place him in 788–820 CE, while some contemporary scholars hold that he lived in the first half of the 8th century. He was born in Kerala and wrote commentaries on the Upanishads, the Brahma Sutras and the Gita, as well as independent works such as the *Upadesha Sahasri*. Tradition attributes to him the founding of four monasteries at Sringeri, Dwarka, Puri and Jyotirmath.
-- **Gaudapada**: the teacher of Shankara's teacher, and author of the *Mandukya Karika*, which is regarded as the earliest systematic presentation of the thesis of non-origination (ajativada).
+- **Adi Shankara (Śaṅkarācārya)**: the most prominent philosopher of this school; traditional accounts place him in 788–820 CE, while some contemporary scholars hold that he lived in the first half of the 8th century. He was born in Kerala and wrote commentaries on the Upanishads, the Brahma Sutras and the Gita, as well as independent works such as the *Upadesha Sahasri*. Tradition attributes to him the founding of four monasteries at Sringeri, Dwarka, Puri and Jyotirmath.
+- **Gaudapada**: the teacher of Shankara's teacher, and author of the *Mandukya Karika*, which is regarded as the earliest surviving systematic presentation of the thesis of non-origination (ajativada).
 
 ## Central Ideas
 
@@ -45,7 +45,7 @@ The non-dualist Vedantic school (Non-dualism): Brahman is the only reality, the 
 
 - **Suresvara and Padmapada**: the two direct disciples of Shankara.
 - **Vachaspati Mishra** (9th or 10th century): author of the *Bhamati*, a commentary on the Brahma Sutras, from which the Bhamati school derives.
-- **Prakashatman** (c. 11th–12th century): author of the *Pañcapādikā-vivaraṇa*, which founded the Vivarana school.
+- **Prakashatman** (c. 12th–13th century; dates uncertain): author of the *Pañcapādikā-vivaraṇa*, from which the Vivarana school takes its name.
 - **Vidyaranya** (14th century): the *Panchadashi*.
 - **Madhusudana Sarasvati** (16th century): the *Advaitasiddhi*, in reply to rivals.
 - **Appayya Dikshita** (16th century).
@@ -56,7 +56,7 @@ The school relies on shruti (revealed text: the Upanishads) as the source of kno
 
 ## Influence and Spread
 
-- The school became the most influential in classical Hindu thought, and Radhakrishnan and Vivekananda in the nineteenth and twentieth centuries presented it anew to the Western reader; Ramana Maharshi and his experience with "Who am I?" are associated with it.
+- The school became one of the most influential in Hindu thought, and Radhakrishnan and Vivekananda in the nineteenth and twentieth centuries presented it anew to the Western reader; Ramana Maharshi and his experience with "Who am I?" are associated with it.
 - In the late Islamic period, Dara Shikoh (1615–1659) translated the Upanishads into Persian in 1657 and wrote *Majma' al-Bahrayn* (1655) comparing the terminology of Vedanta with Islamic Sufism, and he compared "Brahman" with the Real (al-Haqq) in the unity of being. The Vedantic *Yoga Vasistha* was translated into Persian and read among the Sufis. Al-Biruni (11th century) preceded them in introducing Indian doctrines in *Tahqiq ma li-l-Hind*.
 - In Europe the Upanishads were transmitted through Anquetil-Duperron's Latin translation (1801–1802) from the Persian, which influenced Schopenhauer.
 

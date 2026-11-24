@@ -21,15 +21,15 @@ gaps: []
 ---
 # Wertheimer's Gestalt Perception Experiments: Phi Phenomenon (1912)
 
-The founding experimental investigation of the Gestalt School of psychology, conducted by Max Wertheimer at the Psychological Institute in Frankfurt am Main in 1910–1912 and published in his landmark paper "Experimentelle Studien über das Sehen von Bewegung" (1912). By demonstrating the "phi phenomenon"—apparent or illusory motion perceived between two stationary, alternating visual stimuli without any physical motion occurring—Wertheimer refuted structuralist atomism and established the core Gestalt tenet that perceptual wholes are organized dynamically and cannot be reduced to the sum of isolated sensory sensations.
+The founding experimental investigation of the Gestalt School of psychology, conducted by Max Wertheimer at the Psychological Institute in Frankfurt am Main in 1910–1912 and published in his landmark paper "Experimentelle Studien über das Sehen von Bewegung" (1912). By demonstrating the "phi phenomenon"—apparent or illusory motion perceived between two stationary, alternating visual stimuli without any physical motion occurring—Wertheimer challenged structuralist atomism and helped establish the core Gestalt tenet that perceptual wholes are organized dynamically and cannot be reduced to the sum of isolated sensory sensations.
 
 ## Context and Experimental Apparatus
 
 In the summer of 1910, during a train journey through Frankfurt, Wertheimer purchased a toy stroboscope and began contemplating why alternating static visual frames produce the compelling illusion of continuous movement. He immediately contacted Friedrich Schumann, director of the Psychological Institute at the Academy of Social and Commercial Sciences in Frankfurt (later the University of Frankfurt), who made available his specialized wheel tachistoscope and prism tachistoscope.
 
 Wertheimer's experimental apparatus projected luminous white slits of light (vertical, horizontal, or angled at varying degrees) against a dark background:
-- **Stimulus Parameters:** Two luminous rectangular slits (approximately 1 cm wide and several centimeters long) were cut into opaque diaphragms. The physical distance between the slits was varied between roughly 1 cm and several centimeters at a viewing distance of approximately 1 meter. Illumination intensity was calibrated using gas or electric lamps with precise rotating shutter wheels.
-- **Observers:** Testing was conducted with three primary trained observers: Wolfgang Köhler, Kurt Koffka, and Koffka's wife Mira Klein Koffka (with additional observations confirmed by Schumann and Wertheimer). Crucially, during early baseline sessions, Köhler and Koffka were kept naive to Wertheimer's theoretical hypotheses, serving as objective perceptual reporters.
+- **Stimulus Parameters:** Two luminous slits of light were presented in succession, with the spatial separation between them and the time interval between their onsets systematically varied.
+- **Observers:** Testing was conducted with three primary trained observers: Wolfgang Köhler, Kurt Koffka, and Koffka's wife Mira Klein Koffka (with additional observations confirmed by Schumann and Wertheimer).
 
 ## The Temporal Dynamics of Apparent Motion
 
@@ -51,7 +51,7 @@ Wertheimer argued that the perceived motion could not exist within either elemen
 
 ## Impact and Subsequent Research
 
-Following the 1912 publication, Wertheimer, Koffka, and Köhler formed the nucleus of the Berlin Gestalt School. Köhler extended Gestalt principles to problem-solving and insight in animals (*The Mentality of Apes*, 1925), while Koffka provided the standard English synthesis (*Principles of Gestalt Psychology*, 1935). Later visual psychophysics (notably Oliver Braddick's 1974 dual-process model) confirmed that apparent motion involves distinct mechanisms: a "short-range process" mediated by early retinotopic motion detectors in visual cortex (V1 and area MT/V5), and a "long-range process" involving higher-order cognitive and attentional tracking across larger spatial and temporal displacements.
+Following the 1912 publication, Wertheimer, Koffka, and Köhler formed the nucleus of the Berlin Gestalt School. Köhler extended Gestalt principles to problem-solving and insight in animals (*The Mentality of Apes*, 1925), while Koffka provided the standard English synthesis (*Principles of Gestalt Psychology*, 1935). Later visual psychophysics (notably Oliver Braddick's 1974 dual-process model) confirmed that apparent motion involves distinct mechanisms: a "short-range process" thought to rely on early low-level motion detectors, and a "long-range process" involving higher-order cognitive and attentional tracking across larger spatial and temporal displacements.
 
 ## Sources
 

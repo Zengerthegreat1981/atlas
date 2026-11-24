@@ -22,7 +22,7 @@ gaps: []
 
 # Irvin D. Yalom
 
-Irvin D. Yalom (born 1931) is the door through which most readers enter existential therapy — and the door that gives the most misleading impression that the school is one thing. An American psychiatrist, therapist, and novelist, and professor emeritus of psychiatry at Stanford University, he combined academic clinical writing with storytelling and the novel, and became more widely read than any other existential therapist. His achievement was to turn existential philosophy into a framework a working therapist can actually use.
+Irvin D. Yalom (born 1931) is the door through which most readers enter existential therapy — and the door that gives the most misleading impression that the school is one thing. An American psychiatrist, therapist, and novelist, and professor emeritus of psychiatry at Stanford University, he combined academic clinical writing with storytelling and the novel, and became one of the most widely read authors associated with existential therapy. His achievement was to turn existential philosophy into a framework a working therapist can actually use.
 
 ## Life and Career
 
@@ -46,13 +46,13 @@ Yalom reached a vast worldwide readership through clinical tales and philosophic
 
 ## Arabic Translations and Reception
 
-Several of Yalom's works have been translated into Arabic, finding an enthusiastic readership among mental health professionals, students, and literary audiences across the Arab world. Notable translations, widely circulated through publishers such as Dar Al-Tanweer and Manshurat Al-Jamal, include Khaled al-Jubaili's translations of *When Nietzsche Wept* (*Indama Baka Nitsheh*), *The Spinoza Problem* (*Mushkilat Spinoza*), and *The Schopenhauer Cure* (*Ilaj Schopenhauer*), along with editions of *Love's Executioner* (*Jallad al-Hubb*) and *The Gift of Therapy* (*Hadiyyat al-Ilaj al-Nafsi*). These translations have established Yalom as the primary entry point to existential psychotherapy within contemporary Arabic psychological literature.
+Several of Yalom's books, particularly his novels and *Love's Executioner*, have been translated into Arabic and read by both mental health professionals and general readers.
 
 ## Influence and Critique
 
 Yalom represents the American existential-humanistic tradition — which stresses ultimate concerns, personal responsibility, and the authentic relationship — distinct from the European phenomenological Daseinsanalysis of Ludwig Binswanger and Medard Boss, and from Viktor Frankl's logotherapy. Conflating his approach with existential therapy as a whole remains a frequent misunderstanding.
 
-Methodological critics argue that his four-concern schema possesses a circularity that is difficult to falsify: almost any psychological distress can be retroactively attributed to death, isolation, freedom, or meaninglessness. Furthermore, his clinical vignettes draw predominantly from educated, middle-class Western outpatients, prompting questions regarding intercultural validity. Nonetheless, his work provides a durable phenomenological taxonomy of how human beings navigate awareness of existential mortality, and his empirical systematisation of group therapy factors remains validated across international research.
+Methodological critics argue that his four-concern schema possesses a circularity that is difficult to falsify: almost any psychological distress can be retroactively attributed to death, isolation, freedom, or meaninglessness. Furthermore, his clinical vignettes draw predominantly from educated, middle-class Western outpatients, prompting questions regarding intercultural validity. Nonetheless, his work provides a durable phenomenological taxonomy of how human beings navigate awareness of existential mortality, and his empirical systematisation of group therapy factors has been widely supported in research.
 
 ## Key Works
 

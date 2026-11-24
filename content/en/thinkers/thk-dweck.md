@@ -30,7 +30,7 @@ Dweck's central contribution is the distinction between two fundamental implicit
 - **Entity Theory (Fixed Mindset)**: The belief that fundamental abilities, intelligence, and talents are static, immutable traits. Under this view, effort is interpreted as evidence of low ability, setbacks are perceived as indictments of core worth, and challenging situations represent threats to be avoided.
 - **Incremental Theory (Growth Mindset)**: The belief that intellectual and personal abilities can be cultivated and developed through effort, effective strategies, and guidance. Under this view, effort is seen as the pathway to mastery, failure is interpreted as diagnostic feedback, and challenges are actively sought out.
 
-In *Mindset: The New Psychology of Success* (2006, p. 7), Dweck articulated the transformative nature of this shift:
+In *Mindset: The New Psychology of Success* (2006), Dweck articulated the transformative nature of this shift:
 > "Why waste time proving over and over how great you are, when you could be getting better? Why hide deficiencies instead of overcoming them? Why look for friends or partners who will just shore up your self-esteem instead of ones who will also challenge you to grow? And why seek out the tried and true, instead of experiences that will stretch you? The passion for stretching yourself and sticking to it, even (or especially) when it's not going well, is the hallmark of the growth mindset."
 
 ### Origins in Learned Helplessness and Praise Experiments
@@ -50,7 +50,7 @@ Dweck introduced the pedagogical concept of "Not Yet" to reframe academic evalua
 Dweck's framework has generated extensive debate and scrutiny within contemporary educational psychology:
 - **Replication Challenges and Effect Sizes**: Large-scale randomized evaluations have reported more modest effects than early laboratory experiments suggested. A major trial in English schools (Foliano et al., 2019) with approximately 5,000 pupils found negligible effects of universal growth-mindset interventions on standardized academic attainment. Meta-analyses, such as Sisk and colleagues (2018), concluded that overall effects on academic achievement are weak.
 - **Targeted versus Universal Impact**: The pre-registered National Study of Learning Mindsets (Yeager et al., 2019), surveying over 12,000 U.S. high school students, demonstrated that short digital growth-mindset interventions produce statistically significant, meaningful gains primarily among lower-achieving students and in classroom cultures that actively encourage challenge-seeking.
-- **The "False Growth Mindset"**: Dweck addressed widespread distortions of her theory, cautioning against equate a growth mindset with mere cheerleading, blind optimism, or praising effort that yields no learning. She emphasized that genuine growth requires identifying ineffective strategies, seeking help, and adjusting learning approaches.
+- **The "False Growth Mindset"**: Dweck addressed widespread distortions of her theory, cautioning against equating a growth mindset with mere cheerleading, blind optimism, or praising effort that yields no learning. She emphasized that genuine growth requires identifying ineffective strategies, seeking help, and adjusting learning approaches.
 - **Structural Critiques**: Sociologists and educational theorists warn that framing academic disparities primarily through individual psychology risks distracting from systemic inequalities, underfunded schools, and socioeconomic barriers.
 
 ## Major Works

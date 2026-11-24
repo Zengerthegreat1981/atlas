@@ -21,7 +21,7 @@ gaps: []
 
 # Marsha M. Linehan
 
-An American clinical psychologist (born 1943 in Tulsa, Oklahoma), professor at the University of Washington in Seattle, and founder of Dialectical Behavior Therapy (DBT), a treatment originally formulated for chronically suicidal women diagnosed with borderline personality disorder. She was the first to show in a randomized controlled trial that a psychotherapy reduces self-harming behavior in this population, which is what the older formulation meant by "the first empirically supported treatment" for borderline cases. The phrase still needs qualification: it is the first treatment demonstrated by a rigorous trial for these cases, not the only proven treatment.
+An American clinical psychologist (born 1943 in Tulsa, Oklahoma), professor at the University of Washington in Seattle, and founder of Dialectical Behavior Therapy (DBT), a treatment originally formulated for chronically suicidal women diagnosed with borderline personality disorder. Her 1991 randomized controlled trial was among the first to show that a psychotherapy reduces self-harming behavior in this population. DBT is one of several treatments with trial support for these cases, not the only proven treatment.
 
 ## Biography: From Patient to Therapist
 
@@ -29,7 +29,7 @@ She studied psychology at Loyola University Chicago and received her doctorate t
 
 ## What She Gave
 
-Dialectical Behavior Therapy. She worked in the "Suicidal Behavior Clinic" at the University of Washington, and tried standard cognitive-behavioral therapy with chronically suicidal women, finding that a pure focus on change made them feel their behavior was "wrong," so they withdrew or attacked the therapist. She therefore added the principle of acceptance and validation as a counterpart to change, and from this tension formulated the dialectical framework. She published the results of the first trial in 1991 in Archives of General Psychiatry with Armstrong, Suarez, Allmon, and Heard, and presented the treatment in the book "Cognitive-Behavioral Treatment of Borderline Personality Disorder" (1993, Guilford Press). This was followed by a 2006 trial published in the same journal that compared DBT with treatment by community experts.
+Dialectical Behavior Therapy. She worked in her research clinic at the University of Washington, and tried standard cognitive-behavioral therapy with chronically suicidal women, finding that a pure focus on change made them feel their behavior was "wrong," so they withdrew or attacked the therapist. She therefore added the principle of acceptance and validation as a counterpart to change, and from this tension formulated the dialectical framework. She published the results of the first trial in 1991 in Archives of General Psychiatry with Armstrong, Suarez, Allmon, and Heard, and presented the treatment in the book "Cognitive-Behavioral Treatment of Borderline Personality Disorder" (1993, Guilford Press). This was followed by a 2006 trial published in the same journal that compared DBT with treatment by community experts.
 
 The biosocial theory. It holds that emotion-regulation disorder arises from the interaction of a high emotional sensitivity and reactivity with an "invalidating" environment that denies emotions, punishes them, or oversimplifies problems. This is the ground that gives the treatment its logic.
 
@@ -57,6 +57,8 @@ Meta-analytic reviews showed a moderate effect of DBT on self-harm and suicide, 
 
 - Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). "Cognitive-Behavioral Treatment of Chronically Parasuicidal Borderline Patients." *Archives of General Psychiatry*, 48(12), 1060–1064.
 - Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
+- Linehan, M. M., et al. (2006). "Two-year randomized controlled trial and follow-up of dialectical behavior therapy vs therapy by nonbehavioral psychologists for borderline personality disorder." *Archives of General Psychiatry*, 63(7), 757–766.
+- Kliem, S., Kröger, C., & Kosfelder, J. (2010). "Dialectical behavior therapy for borderline personality disorder: A meta-analysis using mixed-effects modeling." *Journal of Consulting and Clinical Psychology*, 78(6), 936–951.
 - McMain, S. F., et al. (2009). "A Randomized Trial of Dialectical Behavior Therapy Versus General Psychiatric Management for Borderline Personality Disorder." *American Journal of Psychiatry*, 166(12), 1365–1374.
 - Carey, B. (2011, June 23). "Expert on Mental Illness Reveals Her Own Fight." *The New York Times*.
 - Linehan, M. M. (2020). *Building a Life Worth Living: A Memoir*. Random House.

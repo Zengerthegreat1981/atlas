@@ -43,7 +43,7 @@ Al-Farabi, influenced by Plotinus through the "Theology of Aristotle", built a c
 
 ### Logic and the sciences
 
-In the "Enumeration of the Sciences" al-Farabi classified the sciences methodically (linguistics, logic, mathematics, natural science, metaphysics, politics, jurisprudence, theology), a text that later influenced the classifications of the sciences of al-Ghazali and Ibn Sina and, translated into Latin, influenced the scholastic classification of the sciences in Europe. He also wrote detailed commentaries on Aristotle's logical books ("On Interpretation", "Prior Analytics") and independent treatises such as "al-Tawti'a" as an introduction to logic, and so earned the title "the Second Teacher".
+In the "Enumeration of the Sciences" al-Farabi classified the sciences methodically (linguistics, logic, mathematics, natural science, metaphysics, politics, jurisprudence, theology), a text that, translated into Latin, influenced the scholastic classification of the sciences in Europe. He also wrote detailed commentaries on Aristotle's logical books ("On Interpretation", "Prior Analytics") and independent treatises such as "al-Tawti'a" as an introduction to logic, and so earned the title "the Second Teacher".
 
 ### Music
 

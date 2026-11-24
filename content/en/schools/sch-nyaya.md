@@ -21,7 +21,7 @@ gaps: []
 
 # Nyāya (Classical Indian Logic)
 
-Nyāya ("rule" or "method") is an "orthodox" Indian school that made the examination of the instruments of valid knowledge and the rules of debate its foundation, and joined to this a metaphysical realism affirming the existence of the external world, the individual self, and a creator God. It is regarded as the first source of logical and epistemological analysis in Indian philosophy; the other schools adopted it or debated it. It is presented here from the classical period to the eleventh century, that is, from the *Nyāya Sūtra* to Udayana, while the later technical development beginning with Gaṅgeśa belongs to Navya-Nyāya.
+Nyāya ("rule" or "method") is an "orthodox" Indian school that made the examination of the instruments of valid knowledge and the rules of debate its foundation, and joined to this a metaphysical realism affirming the existence of the external world, the individual self, and a creator God. It is a major source of logical and epistemological analysis in Indian philosophy; the other schools adopted it or debated it. It is presented here from the classical period to the eleventh century, that is, from the *Nyāya Sūtra* to Udayana, while the later technical development beginning with Gaṅgeśa belongs to Navya-Nyāya.
 
 ## Texts and Figures
 

@@ -27,7 +27,7 @@ gaps: []
 
 # Georg Wilhelm Friedrich Hegel
 
-A German philosopher (1770–1831), the greatest representative of German Idealism after Kant, Fichte and Schelling, and author of the broadest philosophical system of the modern age. He is not an existential thinker, but it is hard to understand why Kierkegaard wrote as he did without him: Hegel is the systematic philosophy against which much of early existentialism defined itself.
+A German philosopher (1770–1831), a culminating figure of German Idealism after Kant, Fichte and Schelling, and author of the broadest philosophical system of the modern age. He is not an existential thinker, but it is hard to understand why Kierkegaard wrote as he did without him: Hegel is the systematic philosophy against which much of early existentialism defined itself.
 
 ## Biography and formation
 

@@ -43,18 +43,18 @@ For al-Ghazali, the soul is not a fixed entity but a field of continuous trainin
 
 ## Critical Editions and Philological Transmission
 
-The textual transmission of the *Ihya'* has been established through critical editions, most notably the authoritative 10-volume edition published by Dar al-Minhaj (Jeddah, 2011), collated from early manuscript witnesses and incorporating Zayn al-Din al-Iraqi's classical apparatus of hadith verification (*al-Mughni 'an Haml al-Asfar*). Modern scholarship, including Frank Griffel (2009) and Kenneth Garden (2014), traces how al-Ghazali deliberately structured the forty books to synthesize Ash'arite theology, Avicennian psychology, and Sufi asceticism, providing a robust textual basis for analyzing his moral psychology.
+The *Ihya'* circulates in many editions; a widely used modern edition is the one published by Dar al-Minhaj (Jeddah, 2011), which is accompanied by Zayn al-Din al-Iraqi's hadith verification (*al-Mughni 'an Haml al-Asfar*). Modern scholarship, including Frank Griffel (2009) and Kenneth Garden (2014), discusses how the work draws on Ash'arite theology, Avicennian psychology, and Sufi asceticism.
 
 ## Affective States: Fear, Shame, and Guilt
 
 Al-Ghazali's detailed analysis of the passions connects directly with fundamental psychological affects:
 - **Fear (*khawf*)**: In Book 33 (*Kitab al-Khawf wa'l-Raja'*), al-Ghazali treats fear not as a psychological pathology or generalized anxiety, but as an affective motivator for moral vigilance. He contrasts constructive spiritual fear with paralyzing despair (*ya's*), which deadens volition and is deemed spiritually and morally destructive.
-- **Shame (*haya'*)**: Treated across several treatises (including Book 23 on the discipline of character), *haya'* is conceived as spiritual modesty and internal moral constraint born from an abiding awareness of divine witness (*muraqaba*). It functions as an active self-monitoring mechanism rather than paralyzing social inhibition or neurotic shame.
+- **Shame (*haya'*)**: Treated in several places in the *Ihya'*, *haya'* is conceived as spiritual modesty and internal moral constraint born from an abiding awareness of divine witness (*muraqaba*). It functions as an active self-monitoring mechanism rather than paralyzing social inhibition or neurotic shame.
 - **Guilt and Remorse (*nadam* / *tawba*)**: In Book 31 (*Kitab al-Tawba*), repentance is framed as an organic process requiring three consecutive elements: intellectual apprehension (*'ilm*) of wrongdoing, affective remorse or guilt (*nadam*), and purposeful behavioral resolution (*'azm*). Guilt is therefore not an end in itself or a source of chronic self-recrimination, but an indispensable functional catalyst for moral rehabilitation and psychic equilibrium.
 
 ## Reception and influence
 
-The Ihya' was received with extraordinary breadth and became one of the most widely read books of ethics in the Islamic world. Accounts report that it was burned in Cordoba around 1109 on the orders of the Almoravid authorities after objections by Maliki jurists. Frank Griffel (2009) has shown that al-Ghazali incorporated elements of Avicenna's philosophy into the theology he founded, despite his explicit criticism of the philosophers.
+The Ihya' was received with extraordinary breadth and became one of the most widely read books of ethics in the Islamic world. Accounts report that it was burned in Cordoba around 1109 on the orders of the Almoravid authorities after objections by Maliki jurists. Frank Griffel (2009) argues that al-Ghazali incorporated elements of Avicenna's philosophy into his own theology, despite his explicit criticism of the philosophers.
 
 ## A warning against projection
 
@@ -62,7 +62,7 @@ Al-Ghazali's terms must not be read as translations of modern concepts: the comm
 
 ## Key works
 
-The primary text is the Ihya' Ulum al-Din itself, best read in the Dar al-Minhaj edition of 2011. McKane's translation of the Book of Fear and Hope (1962) and T. J. Winter's translation of On Disciplining the Soul (1995) are the most useful English entry points. Griffel's Al-Ghazali's Philosophical Theology (2009) is the essential modern study of al-Ghazali's thought as a whole.
+The primary text is the Ihya' Ulum al-Din itself, available in the Dar al-Minhaj edition of 2011, among others. McKane's translation of the Book of Fear and Hope (1962) and T. J. Winter's translation of On Disciplining the Soul (1995) are the most useful English entry points. Griffel's Al-Ghazali's Philosophical Theology (2009) is the essential modern study of al-Ghazali's thought as a whole.
 
 ## Sources
 

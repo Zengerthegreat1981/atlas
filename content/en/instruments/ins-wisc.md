@@ -20,7 +20,7 @@ gaps: []
 
 # Wechsler Intelligence Scale for Children
 
-The Wechsler Intelligence Scale for Children (WISC) is the clinical gold standard for the individual assessment of cognitive functioning and intellectual ability in children and adolescents aged 6 years 0 months to 16 years 11 months.
+The Wechsler Intelligence Scale for Children (WISC) is one of the most widely used instruments for the individual assessment of cognitive functioning and intellectual ability in children and adolescents aged 6 years 0 months to 16 years 11 months.
 
 ## Structure and Psychometric Properties
 
@@ -56,7 +56,7 @@ The WISC-V is frequently evaluated alongside alternative child intelligence batt
 
 ## Arabic Standardization and Cross-Cultural Adaptation
 
-Adapting the WISC for Arabic-speaking populations required extensive psychometric localization. Initial Arabic versions were produced in Egypt by Louis Kamel Melika, Isma'il, and colleagues for the WISC and WISC-R, published through Egyptian academic houses. Subsequent standardization initiatives in Kuwait, Saudi Arabia, and Jordan established regional normative tables. Adapters substituted Western idioms and geographical knowledge in the Verbal Comprehension subtests with culturally and linguistically appropriate Arabic concepts, underscoring the ongoing clinical imperative to avoid applying North American norms to children from distinct linguistic or cultural backgrounds.
+Adapting the WISC for Arabic-speaking populations required extensive psychometric localization. Arabic adaptations of earlier Wechsler children's scales were produced in Egypt and used elsewhere in the region; culture-bound items in verbal subtests typically require modification, underscoring the ongoing clinical imperative to avoid applying North American norms to children from distinct linguistic or cultural backgrounds.
 
 ## Sources
 

@@ -19,7 +19,7 @@ gaps: []
 
 # Lived Time: Phenomenological and Psychopathological Studies
 
-*Le Temps vécu: études phénoménologiques et psychopathologiques* (1933), by the French psychiatrist Eugène Minkowski, is one of the most influential descriptions of the disturbance of time in mental illness, and a model of what phenomenology can do in the clinic. Minkowski's claim is that human beings do not live in clock time — homogeneous, measurable, divisible — but in a lived time that has direction, extension, and a rhythm of its own, changing with the person's existential state. Mental disorder, on this view, is not first a defect in an isolated function but a primary break in this living temporal structure, with the familiar symptoms appearing as secondary expressions of it. The book was published in Paris in 1933 and translated into English as *Lived Time* by Nancy Metzel in 1970. It is a founding text of French phenomenological psychopathology.
+*Le Temps vécu: études phénoménologiques et psychopathologiques* (1933), by the French psychiatrist Eugène Minkowski, is among the most influential descriptions of the disturbance of time in mental illness, and a model of what phenomenology can do in the clinic. Minkowski's claim is that human beings do not live in clock time — homogeneous, measurable, divisible — but in a lived time that has direction, extension, and a rhythm of its own, changing with the person's existential state. Mental disorder, on this view, is not first a defect in an isolated function but a primary break in this living temporal structure, with the familiar symptoms appearing as secondary expressions of it. The book was published in Paris in 1933 and translated into English as *Lived Time* by Nancy Metzel in 1970. It is a foundational text of French phenomenological psychopathology.
 
 ## The Idea: Time as the Face of Life
 
@@ -43,7 +43,7 @@ The English translation of 1970 opened the book to a wider readership, and conte
 
 ## Limits
 
-The book rests on clinical impression and philosophical description and offers no experimental measurement of lived time. Its language is Bergsonian and idiosyncratic, far from modern psychiatric terminology, and some of its concepts, such as the vital impulse, cannot be tested empirically. Generalising the thesis to all disorders goes beyond what the cases presented can support, since many symptoms show no clear link to a specific temporal disturbance. These limits do not diminish its standing as the founding text of the phenomenological study of time in mental illness — they mark the boundary between what phenomenology can describe and what it cannot prove.
+The book rests on clinical impression and philosophical description and offers no experimental measurement of lived time. Its language is Bergsonian and idiosyncratic, far from modern psychiatric terminology, and some of its concepts, such as the vital impulse, cannot be tested empirically. Generalising the thesis to all disorders goes beyond what the cases presented can support, since many symptoms show no clear link to a specific temporal disturbance. These limits do not diminish its standing as a foundational text of the phenomenological study of time in mental illness — they mark the boundary between what phenomenology can describe and what it cannot prove.
 
 ## Sources
 

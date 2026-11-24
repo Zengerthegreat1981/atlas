@@ -48,7 +48,7 @@ Hobbes was criticized because his conception of human nature is pessimistic and 
 
 ## Arabic Translations
 
-Hobbes's masterwork *Leviathan* was translated into Arabic in a complete scholarly edition by Diana Habib Harb and Bushra Sa'b, edited and introduced by Ridwan al-Sayyid as *al-Livyathan: al-Usul al-Tabi'iyya wa al-Siyasiyya li-Sultat al-Dawla* (Abu Dhabi: Kalima, 2011). While *Leviathan* has received detailed commentary and translation into Arabic, *De Cive* (*On the Citizen*) has not received an authoritative standalone unabridged translation, circulating instead through partial extracts, university curricula, and analytical monographs on modern social contract theory (such as works by Imam Abd al-Fattah Imam).
+Hobbes's masterwork *Leviathan* was translated into Arabic in a complete scholarly edition by Diana Habib Harb and Bushra Sa'b, edited and introduced by Ridwan al-Sayyid as *al-Livyathan: al-Usul al-Tabi'iyya wa al-Siyasiyya li-Sultat al-Dawla* (Abu Dhabi: Kalima, 2011).
 
 ## Major works
 

@@ -23,13 +23,13 @@ gaps: []
 
 # Zhu Xi
 
-Zhu Xi (1130–1200), courtesy name Yuanhui and style name Hui'an, was the preeminent Chinese philosopher of the Southern Song dynasty and the master synthesizer of Neo-Confucianism. He consolidated the "School of Principle" (*Lixue*), also known as the Cheng-Zhu School after the brothers Cheng Hao and Cheng Yi. Zhu Xi established the canonical status of the "Four Books" (*Sishu*), providing them with extensive commentaries that became the mandatory curriculum for the imperial civil service examinations from 1313 until 1905, thereby shaping East Asian intellectual and political life for centuries.
+Zhu Xi (1130–1200), courtesy name Yuanhui and style name Hui'an, was a leading Chinese philosopher of the Southern Song dynasty and the major synthesizer of Neo-Confucianism. He consolidated the "School of Principle" (*Lixue*), also known as the Cheng-Zhu School after the brothers Cheng Hao and Cheng Yi. Zhu Xi established the canonical status of the "Four Books" (*Sishu*), providing them with extensive commentaries that became the mandatory curriculum for the imperial civil service examinations from 1313 until 1905, thereby shaping East Asian intellectual and political life for centuries.
 
 ## Life and Career
 
 Zhu Xi was born in Youxi, Fujian province, in 1130. A precocious scholar, he passed the highest imperial examination (*jinshi*) in 1148 at the age of nineteen. Although he held several official prefectural posts—notably in Nankang and Zhangzhou, where he promoted agrarian reform, public granaries, and community compacts—he spent most of his life in scholarly retreat, teaching at academies and writing.
 
-In his early twenties, Zhu Xi turned away from his youthful interests in Chan Buddhism and Daoism to study under Li Tong (1093–1163), an intellectual descendant of Cheng Yi, who grounded him in classical Confucian metaphysics. In 1175, Zhu Xi met the idealist philosopher Lu Jiuyuan (Lu Xiangshan) at the famous Goose Lake Temple (*Ehu*) debate, mediated by Lü Zuqian; this confrontation crystallized the enduring division between the School of Principle and the School of Mind (*Xinxue*). In the same year, Zhu Xi and Lü Zuqian published *Reflections on Things at Hand* (*Jinsilu*), an anthology synthesizing the thought of Zhou Dunyi, Zhang Zai, Cheng Hao, and Cheng Yi.
+In his twenties and thirties, Zhu Xi turned away from his youthful interests in Chan Buddhism and Daoism to study under Li Tong (1093–1163), an intellectual descendant of Cheng Yi, who grounded him in classical Confucian metaphysics. In 1175, Zhu Xi met the idealist philosopher Lu Jiuyuan (Lu Xiangshan) at the famous Goose Lake Temple (*Ehu*) debate, mediated by Lü Zuqian; this confrontation crystallized the enduring division between the School of Principle and the School of Mind (*Xinxue*). In the same year, Zhu Xi and Lü Zuqian published *Reflections on Things at Hand* (*Jinsilu*), an anthology synthesizing the thought of Zhou Dunyi, Zhang Zai, Cheng Hao, and Cheng Yi.
 
 In 1179–1180, while prefect of Nankang, Zhu Xi rebuilt the White Deer Grotto Academy (*Bailudong Shuyuan*) at Mount Lu in Jiangxi, formulating academy statutes that became the institutional model for private academies across China and East Asia. In 1196, political rivals led by Han Tuozhou launched an ideological purge against Zhu Xi's faction, banning his teachings as "false learning" (*weixue*). Deprived of his titles, Zhu Xi continued teaching until his death in 1200. He was posthumously rehabilitated, receiving the posthumous title Wen (*Master of Letters*) in 1209 and Duke of Hui in 1230.
 
@@ -57,7 +57,7 @@ Zhu Xi rearranged the traditional Confucian corpus, elevating the "Four Books" a
 3. *The Mencius* (*Mengzi*) — for cultivating righteous resolve and recognizing original goodness.
 4. *The Doctrine of the Mean* (*Zhongyong*) — for comprehending cosmic harmony and metaphysical subtlety.
 
-His monumental commentary, *Sishu Zhangju Jizhu* (*Collected Commentaries on the Four Books by Chapter and Sentence*), which he edited until his deathbed, became the undisputed orthodox standard for the imperial examinations from 1313 to 1905.
+His monumental commentary, *Sishu Zhangju Jizhu* (*Collected Commentaries on the Four Books by Chapter and Sentence*), which he edited until his deathbed, became the orthodox standard for the imperial examinations from 1313 to 1905.
 
 ## Influence and Critique
 

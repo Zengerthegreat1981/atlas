@@ -85,7 +85,7 @@ This **move from Germany to America** shaped the consciousness of the generation
 
 ## Relation to Earlier Marxism
 
-The Institute's project drew on Georg Lukács's *History and Class Consciousness* (1923) and Karl Korsch, who revived the Hegelian side of Marx and developed the theory of reification. Unlike Leninist Marxism, the Frankfurt thinkers did not tie critical theory to party organization or to the expectation that the proletariat would be the agent of revolution, and they criticized Soviet Marxism; Lukács himself later attacked them as the "Grand Hotel Abyss."
+The Institute's project drew on Georg Lukács's *History and Class Consciousness* (1923) (which developed the theory of reification) and Karl Korsch, both of whom revived the Hegelian side of Marx. Unlike Leninist Marxism, the Frankfurt thinkers did not tie critical theory to party organization or to the expectation that the proletariat would be the agent of revolution, and they criticized Soviet Marxism; Lukács himself later attacked them as the "Grand Hotel Abyss."
 
 ## Limits
 

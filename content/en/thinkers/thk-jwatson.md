@@ -22,7 +22,7 @@ gaps: []
 
 # John B. Watson
 
-An American psychologist, founder of "Methodological Behaviorism" with his 1913 manifesto, and the father of academic behavioral psychology.
+An American psychologist, the psychologist who launched "Methodological Behaviorism" with his 1913 manifesto, and a leading figure in early academic behavioral psychology.
 
 ## What he contributed
 

@@ -53,7 +53,7 @@ What he offered can be summarized in the analysis of what he calls the "three-te
 
 ## The 1945 Article and the Definition of the Inner
 
-He formulated his philosophical position in his article "The Operational Analysis of Psychological Terms" (1945), in which he refused to place the inner outside science, but also refused to make it a cause: feelings and thoughts are behavior that occurs under the skin and in turn needs to be explained by a history of reinforcement, and must not be used as an explanation of overt behavior. As he later clarified in *Science and Human Behavior* (1953, p. 35):
+He formulated his philosophical position in his article "The Operational Analysis of Psychological Terms" (1945), in which he refused to place the inner outside science, but also refused to make it a cause: feelings and thoughts are behavior that occurs under the skin and in turn needs to be explained by a history of reinforcement, and must not be used as an explanation of overt behavior. As he later clarified in *Science and Human Behavior* (1953):
 
 > "The objection to inner states is not that they do not exist, but that they are not relevant in a functional analysis."
 

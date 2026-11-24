@@ -35,7 +35,7 @@ Three ideas carry the work. First, the mean: every virtue stands between two vic
 
 ## Critical Edition and Philological Lineage
 
-Constantine Zurayk established the critical Arabic edition of *Tahdhib al-Akhlaq* (American University of Beirut, 1966), establishing the text from primary codices in Istanbul (notably the Ragip Pasha manuscript) and the British Museum, which he subsequently translated as *The Refinement of Character* (1968). Philological investigations by Majid Fakhry (*Ethical Theories in Islam*, 1991), Mohammed Arkoun (1970), and Richard Walzer (1962) collated Zurayk's text against its classical Hellenic and Arabic sources. Their findings confirm that Miskawayh relied directly on Ishaq ibn Hunayn's Arabic translation of Aristotle's *Nicomachean Ethics*, the pseudo-Aristotelian *Virtues and Vices*, Galen's treatise *Peri Ethon* (On Character Traits), and Porphyry's commentary. This scholarship demonstrates how Miskawayh systematically harmonized Aristotelian teleology and Galenic faculties with Qur'anic virtues.
+Constantine Zurayk established the critical Arabic edition of *Tahdhib al-Akhlaq* (American University of Beirut, 1966), based on manuscript sources, which he subsequently translated as *The Refinement of Character* (1968). Studies by Majid Fakhry (*Ethical Theories in Islam*, 1991), Mohammed Arkoun (1970), and Richard Walzer (1962) have traced Miskawayh's Greek and Arabic sources, including the Arabic tradition of Aristotle's *Nicomachean Ethics*, the pseudo-Aristotelian *Virtues and Vices*, and Galen's ethical writings. This scholarship describes how Miskawayh harmonized Aristotelian teleology and Galenic faculties with Islamic ethical ideals.
 
 ## Difference from al-Ghazali
 

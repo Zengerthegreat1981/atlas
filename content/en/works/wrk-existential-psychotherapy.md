@@ -20,7 +20,7 @@ gaps: []
 
 # Existential Psychotherapy: The Four Ultimate Concerns
 
-*Existential Psychotherapy* (1980) by Irvin D. Yalom, published by Basic Books in New York, is the most famous book in the existential school and the one that most gives the impression that the school is a single thing. Yalom, professor of psychiatry at Stanford and already known for *The Theory and Practice of Group Psychotherapy* (1970), set out to organise an unruly European tradition into a teachable clinical framework. The result became the standard textbook of American existential therapy — and, for many readers, the whole of existential therapy.
+*Existential Psychotherapy* (1980) by Irvin D. Yalom, published by Basic Books in New York, is one of the best-known books of the existential school and has often given the impression that the school is a single thing. Yalom, professor of psychiatry at Stanford and already known for *The Theory and Practice of Group Psychotherapy* (1970), set out to organise an unruly European tradition into a teachable clinical framework. The result became the standard textbook of American existential therapy — and, for many readers, the whole of existential therapy.
 
 ## The Thesis: Four Ultimate Concerns
 
@@ -32,17 +32,17 @@ The book is divided into four parts, one per concern, and each part mixes three 
 
 ## Intellectual Sources, Declared and Undeclared
 
-The book is an American academic synthesis, not a direct continuation of any European school. Its four concerns are close to the "boundary situations" of Karl Jaspers; its analysis of death is indebted to Heidegger; its account of defences against death terror draws on Otto Rank and Ernest Becker's *The Denial of Death* (1973); and its arguments about meaninglessness invoke Epicurus. It therefore differs from Frankl's logotherapy and from the European existential analysis of Ludwig Binswanger and Medard Boss. Concepts from Yalom's later works — *Love's Executioner* (1989) or *Staring at the Sun* (2008) — should not be attributed to this book.
+The book is an American academic synthesis, not a direct continuation of any European school. Its four concerns are sometimes compared with the "boundary situations" of Karl Jaspers; its analysis of death is indebted to Heidegger; its account of defences against death terror draws on Otto Rank and Ernest Becker's *The Denial of Death* (1973); and its discussion of death invokes Epicurus. It therefore differs from Frankl's logotherapy and from the European existential analysis of Ludwig Binswanger and Medard Boss. Concepts from Yalom's later works — *Love's Executioner* (1989) or *Staring at the Sun* (2008) — should not be attributed to this book.
 
 ## Reception and Criticism
 
-Many readers count the book the most teachable reference in existential therapy, praising its organisation, its personal honesty, and its breaking of a professional silence around subjects — above all death — that had been taboo in the consulting room. The British existential school, including Emmy van Deurzen and Ernesto Spinelli, objected that Yalom reduces existentialism to four "givens" presented in a quasi-dynamic model, and neglects the phenomenological description that distinguished the European tradition. Methodologically, the book has been criticised for repeatedly moving from convincing description to causal claim without settling the question, for the difficulty of saying what could falsify its theses, and for relying on a narrow clinical sample drawn from the author's own practice. A further criticism is that it presents American existential therapy — one current among several — as though it were existential therapy as such. Read as Yalom himself suggests it be read — as an excellent phenomenological map of what people do with the conditions of their existence, not as a proven causal theory of the origins of symptoms — the book keeps its value and its honesty.
+Many readers count the book a highly teachable reference in existential therapy, praising its organisation, its personal honesty, and its breaking of a professional silence around subjects — above all death — that had been taboo in the consulting room. The British existential school, including Emmy van Deurzen and Ernesto Spinelli, objected that Yalom reduces existentialism to four "givens" presented in a quasi-dynamic model, and neglects the phenomenological description that distinguished the European tradition. Methodologically, the book has been criticised for repeatedly moving from convincing description to causal claim without settling the question, for the difficulty of saying what could falsify its theses, and for relying on a narrow clinical sample drawn from the author's own practice. A further criticism is that it presents American existential therapy — one current among several — as though it were existential therapy as such. Read as Yalom himself suggests it be read — as an excellent phenomenological map of what people do with the conditions of their existence, not as a proven causal theory of the origins of symptoms — the book keeps its value and its honesty.
 
 ## Sources
 
 - Yalom, Irvin D. *Existential Psychotherapy*. New York: Basic Books, 1980.
 - Becker, Ernest. *The Denial of Death*. New York: Free Press, 1973.
 - Yalom, Irvin D. *The Theory and Practice of Group Psychotherapy*. New York: Basic Books, 1970.
-- van Deurzen, Emmy. *Existential Counselling and Psychotherapy in Practice*. London: Sage, 1998.
+- van Deurzen, Emmy. *Existential Counselling and Psychotherapy in Practice*. 3rd ed. London: Sage, 2012.
 - Cooper, Mick. *Existential Therapies*. London: Sage, 2003.
 - Yalom, Irvin D. *Staring at the Sun: Overcoming the Terror of Death*. San Francisco: Jossey-Bass, 2008.

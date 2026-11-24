@@ -23,7 +23,7 @@ gaps: []
 
 # Jain Philosophy
 
-An ancient Indian religious and philosophical tradition that appeared in the Ganges basin in the period in which Buddhism arose, among the "Shramana" movements (ascetics who rejected the authority of the Vedas). It rests on a realist, pluralist philosophy of existence, on a distinctive logic that recognizes the many-sidedness of truth (anekantavada), and on an ethic of nonviolence (ahimsa) that reached in it a degree unmatched in the other Indian traditions. Its followers in India today number about four and a half million according to the 2011 census, with communities in Africa, North America, and Britain.
+An ancient Indian religious and philosophical tradition that appeared in the Ganges basin in the period in which Buddhism arose, among the "Shramana" movements (ascetics who rejected the authority of the Vedas). It rests on a realist, pluralist philosophy of existence, on a distinctive logic that recognizes the many-sidedness of truth (anekantavada), and on an ethic of nonviolence (ahimsa) that is pursued in it with exceptional rigor among Indian traditions. Its followers in India today number about four and a half million according to the 2011 census, with communities in Africa, North America, and Britain.
 
 ## Origins and History
 
@@ -43,11 +43,11 @@ The Jains regard themselves as followers of a succession of twenty-four "Tirthan
 The Shvetambara canon (the Agamas, in Ardhamagadhi Prakrit, including the surviving Angas) is regarded by the Digambara as lost. The Digambara instead treat as most authoritative a body of texts that includes the *Shatkhandagama*, together with the writings of Kundakunda and the *Tattvartha Sutra*.
 
 
-- **Kundakunda**: one of the greatest Digambara thinkers, author of the *Samayasara* and the *Pravacanasara*; his interpretation tends toward distinguishing the absolute from the practical standpoint.
+- **Kundakunda**: a major Digambara thinker, author of the *Samayasara* and the *Pravacanasara*; his interpretation tends toward distinguishing the absolute from the practical standpoint.
 - **Umasvati**: author of the *Tattvartha Sutra* (roughly 2nd to 5th century), the text accepted by both branches.
 - **Siddhasena Divakara**: author of the *Sanmati Tarka* on logic (roughly 5th century).
 - **Samantabhadra**: author of the *Aptamimamsa*, a critique of other views (6th century).
-- **Akalanka** (8th century): one of the greatest Digambara logicians, who debated with the Buddhists.
+- **Akalanka** (8th century): a major Digambara logician, who debated with the Buddhists.
 - **Haribhadra Suri** (8th century): one of the luminaries of the Shvetambara, author of the *Anekantajaya Pataka* and the *Shaddarshana Samuccaya*.
 - **Hemachandra** (1089–1172): a great polymath from Gujarat.
 - **Yashovijaya** (17th century): renewer of Jain logic (Navya Nyaya).

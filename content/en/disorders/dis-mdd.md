@@ -48,7 +48,7 @@ Some existential readings link an aspect of depression to the loss of meaning â€
 
 ## Key works
 
-Beck's *Depression* (1967) and *Cognitive Therapy of Depression* (1979) are the founding texts of the cognitive model and its treatment. DSM-5-TR (2022) is the current diagnostic source. Hari's *Lost Connections* (2018) is the most influential recent popular account of the social causes debate. Styron's *Darkness Visible* (1990) is the classic first-person account.
+Beck's *Depression* (1967) and *Cognitive Therapy of Depression* (1979) are the founding texts of the cognitive model and its treatment. DSM-5-TR (2022) is the current diagnostic source. Hari's *Lost Connections* (2018) is a widely read popular account of the social causes debate. Styron's *Darkness Visible* (1990) is the classic first-person account.
 
 ## Sources
 

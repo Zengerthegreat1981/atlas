@@ -72,7 +72,7 @@ Primary emotions "orient" effectively toward the need, whereas secondary emotion
 
 ## Theoretical Origins and Developmental Perspectives
 
-- **Silvan Tomkins** (1962–1991): formulated affect theory, identifying innate, biologically based primary affects (such as interest, joy, surprise, fear, anger, distress, shame, and disgust) as the primary motivational system of human beings.
+- **Silvan Tomkins** (1962–1992): formulated affect theory, identifying innate, biologically based primary affects (such as interest, joy, surprise, fear, anger, distress, shame, and disgust) as the primary motivational system of human beings.
 - **Paul Ekman** (1970s): demonstrated the cross-cultural universality of discrete facial expressions corresponding to primary basic emotions.
 - **Klaus Scherer** (1984): advanced appraisal theory, conceptualizing emotions as dynamic component processes triggered by cognitive evaluations of relevance, implications, and coping potential.
 - **Leslie Greenberg** (1990s): formalized the distinction between primary adaptive, primary maladaptive, secondary reactive, and instrumental emotions within Emotion-Focused Therapy (EFT), emphasizing their biological signaling function.
@@ -97,5 +97,5 @@ Primary emotions "orient" effectively toward the need, whereas secondary emotion
 - Greenberg, L. S. (2011). *Emotion-Focused Therapy*. American Psychological Association.
 - Tomkins, S. S. (1962-1992). *Affect Imagery Consciousness* (4 vols.). Springer.
 - Scherer, K. R. (1984). On the nature and function of emotion: A component process approach. In K. R. Scherer & P. Ekman (Eds.), *Approaches to Emotion*. Erlbaum.
-- Magai, C., & Haviland-Jones, J. (2002). *The Hidden Genius of Emotion: Lifespan Transformations of Personality*. Psychology Press.
+- Magai, C., & Haviland-Jones, J. (2002). *The Hidden Genius of Emotion: Lifespan Transformations of Personality*. Cambridge University Press.
 - Haan, N. (1977). *Coping and Defending: Processes of Self-Environment Organization*. Academic Press.

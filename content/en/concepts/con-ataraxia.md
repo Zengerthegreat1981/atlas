@@ -90,4 +90,4 @@ Comparative philosophers have noted suggestive parallels between Hellenistic tra
 - A. A. Long and D. N. Sedley, *The Hellenistic Philosophers*, Cambridge University Press, 1987.
 - Abu Hamid al-Ghazali, *Ihya' 'Ulum al-Din* [The Revival of the Religious Sciences], Book 35: *Kitab al-Tawhid wa-l-Tawakkul* (English: *Faith in Divine Unity and Trust in Divine Providence*, trans. David B. Burrell, Islamic Texts Society, 2001).
 - Thomas McEvilley, *The Shape of Ancient Thought: Comparative Studies in Greek and Indian Philosophies*, Allworth Press, 2002.
-- Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson, *Acceptance and Commitment Therapy: The Process and Practice of Mindful Change*, 2nd ed., Guilford Press, 2011.
+- Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson, *Acceptance and Commitment Therapy: The Process and Practice of Mindful Change*, 2nd ed., Guilford Press, 2012.

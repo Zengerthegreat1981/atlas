@@ -26,9 +26,9 @@ Friedrich Salomon (Fritz) Perls (1893–1970) was a German-American psychiatrist
 
 ## Biographical Trajectory and Clinical Influences
 
-Perls was born on 8 July 1893 in Berlin to an assimilated Jewish family. He served in the German army as a medical officer on the Western Front during World War I, an experience of trauma and trench warfare that deeply shaped his suspicion of dogmatic authority. He completed his medical degree at the Friedrich Wilhelm University in Berlin in 1920, specializing in neuropsychiatry.
+Perls was born on 8 July 1893 in Berlin to an assimilated Jewish family. He served in the German army as a medical officer on the Western Front during World War I, an experience of trauma and trench warfare that deeply shaped his suspicion of dogmatic authority. He completed his medical degree at the Friedrich Wilhelm University in Berlin in 1921, specializing in neuropsychiatry.
 
-In the 1920s, Perls underwent psychoanalytic training, being analyzed by Karen Horney and later in Frankfurt and Vienna by Wilhelm Reich, whose concept of "body armor" (character resistance embodied in muscular tension) profoundly influenced Perls's focus on somatic expression. While working as an assistant to neurologist Kurt Goldstein at the Frankfurt Institute for Brain Damaged Soldiers, Perls absorbed organismic theory—the view that an organism functions as an indivisible whole seeking self-regulation. There he also met psychologist Lore (Laura) Posner, whom he married in 1930.
+In the 1920s, Perls underwent psychoanalytic training, being analyzed by Karen Horney and later by Wilhelm Reich, whose concept of "body armor" (character resistance embodied in muscular tension) profoundly influenced Perls's focus on somatic expression. While working as an assistant to neurologist Kurt Goldstein at the Frankfurt Institute for Brain Damaged Soldiers, Perls absorbed organismic theory—the view that an organism functions as an indivisible whole seeking self-regulation. There he also met psychologist Lore (Laura) Posner, whom he married in 1930.
 
 Fleeing Nazi Germany in 1933, Fritz and Laura Perls escaped to the Netherlands and then relocated to Johannesburg, South Africa, in 1934, where they established the South African Institute for Psychoanalysis. During this period, Perls authored *Ego, Hunger and Aggression* (1942), his initial critique of classical Freudian instinct theory, emphasizing the oral and destructive drives essential to assimilating experience.
 
@@ -43,12 +43,12 @@ In 1952, the group established the **New York Institute for Gestalt Therapy** (N
 By the mid-1950s (around 1956–1959), sharp theoretical, clinical, and stylistic divergences fractured the founding circle:
 - **Style and Methodology**: Fritz grew impatient with the careful, relational, and intellectually demanding group seminars led by Paul Goodman, Isadore From, and Laura Perls. Fritz favored rapid, dramatic, and experiential interventions that provoked immediate awareness.
 - **Relational versus Individualist Focus**: While Laura Perls and the New York group insisted on a long-term, dialogic, and developmentally sensitive approach grounded in contact boundaries, Fritz moved toward a theatrical, self-reliant format.
-- **The Departure West**: In 1956, grappling with heart ailments and restlessness, Fritz left New York for Miami, subsequently establishing training centers in San Francisco and Cleveland, before permanently severing ties with the New York Institute. Laura Perls remained president of the NYIGT, preserving its relational and theoretical rigor, while Fritz traveled west to begin his iconic California chapter.
+- **The Departure West**: In 1956, grappling with heart ailments and restlessness, Fritz left New York for Miami, subsequently establishing training centers in San Francisco and Cleveland, before permanently severing ties with the New York Institute. Laura Perls remained in New York and continued to shape the NYIGT's relational and theoretical approach, while Fritz traveled west to begin his iconic California chapter.
 
 ## The Esalen Era and Core Conceptual Framework
 
 In 1964, Perls took up residence at the **Esalen Institute** in Big Sur, California, becoming the charismatic figurehead of the human potential movement:
-- **Here-and-Now Awareness**: Rejecting psychoanalytic archaeological excavations of the distant past, Perls insisted on immediate present-moment awareness: "Now is now. Past is memory. Future is fantasy."
+- **Here-and-Now Awareness**: Rejecting psychoanalytic archaeological excavations of the distant past, Perls insisted on immediate present-moment awareness.
 - **Figure-Ground Formation**: Adapting Berlin Gestalt psychology (Wertheimer, Köhler, Koffka) to subjective experience, the healthy individual allows urgent needs to emerge clearly as a "figure" against the "ground" of experience, resolving them through action and contact.
 - **Unfinished Business**: Unresolved emotional grievances, unexpressed grief, or blocked resentments linger as unfinished gestalts that sap vitality in the present.
 - **The Empty Chair Technique**: A celebrated dramatic intervention in which the client speaks to an empty chair representing an alienated aspect of the self (e.g., the moralistic "top dog" versus the passive-aggressive "under dog") or an external figure, fostering direct dialogic integration.

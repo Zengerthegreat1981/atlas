@@ -50,7 +50,7 @@ Manifested through behavioral performance without conscious recollection, suppor
 - **Priming**: Enhanced identification or processing of a stimulus resulting from recent prior exposure.
 - **Associative Conditioning**: Classical and operant conditioning responses.
 
-Neuropsychological investigations of patient H.M. (Henry Molaison), studied extensively by William Scoville and Brenda Milner (1957) following bilateral medial temporal lobectomy, provided decisive empirical proof for these distinctions. H.M. suffered dense anterograde amnesia for declarative facts, yet successfully acquired new motor skills on the mirror-drawing task with normal retention curves despite having no conscious memory of ever practicing them.
+Neuropsychological investigations of patient H.M. (Henry Molaison), studied extensively by William Scoville and Brenda Milner (1957) following bilateral medial temporal lobectomy, provided decisive empirical proof for these distinctions. H.M. suffered dense anterograde amnesia for declarative facts, yet successfully acquired new motor skills, as shown in later work by Milner on mirror drawing, despite having no conscious memory of ever practicing them.
 
 ## Memory as Active Reconstruction
 

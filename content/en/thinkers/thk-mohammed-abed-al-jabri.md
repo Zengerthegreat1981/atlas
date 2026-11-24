@@ -19,7 +19,7 @@ gaps: []
 ---
 # Mohammed Abed al-Jabri
 
-One of the most brilliant philosophers and critical thinkers in the contemporary Arab world; author of the huge epistemological project "Critique of Arab Reason"; he broke down the structure of Arab-Islamic culture into three fields of knowledge: "bayan" (language, jurisprudence, and kalam), "irfan" (Sufism and esotericism), and "burhan" (philosophy and the rational sciences); calling for drawing inspiration from Andalusian Averroist rationalism and founding an Arab modernity arising from an internal critique of the heritage.
+A prominent philosopher and critical thinker of the contemporary Arab world; author of the huge epistemological project "Critique of Arab Reason"; he broke down the structure of Arab-Islamic culture into three fields of knowledge: "bayan" (language, jurisprudence, and kalam), "irfan" (Sufism and esotericism), and "burhan" (philosophy and the rational sciences); calling for drawing inspiration from Andalusian Averroist rationalism and founding an Arab modernity arising from an internal critique of the heritage.
 
 ## His Life and Formation
 
@@ -27,7 +27,7 @@ Mohammed Abed al-Jabri was born on 27 December 1935 in Figuig on the Moroccan-Al
 
 ## What He Contributed
 
-- **The "Critique of Arab Reason" project**: a quartet extending over twenty years that redrew the map of contemporary Arab thought: *The Formation of Arab Reason* (1984), *The Structure of Arab Reason* (1986), *Arab Political Reason* (1990), and *Arab Ethical Reason* (2001). Its subject is not the history of ideas but the **unconscious structure** that governs their production.
+- **The "Critique of Arab Reason" project**: a quartet extending over about seventeen years that has been highly influential in contemporary Arab thought: *The Formation of Arab Reason* (1984), *The Structure of Arab Reason* (1986), *Arab Political Reason* (1990), and *Arab Ethical Reason* (2001). Its subject is not the history of ideas but the **unconscious structure** that governs their production.
 - **The three epistemic systems**: his central and most famous thesis. In his view, Arab reason is governed by **three coexisting, conflicting epistemic systems**:
   - **Bayan**: the system of language, jurisprudence, grammar, and rhetoric, based on **analogy of the unseen to the seen** and on the authority of text and word.
   - **Irfan**: the system of Sufism, esotericism, and Hermeticism, based on **unveiling** rather than demonstration, whose source — for him — is an alien, "irrational" Hermetic inheritance.
@@ -35,7 +35,7 @@ Mohammed Abed al-Jabri was born on 27 December 1935 in Figuig on the Moroccan-Al
   His thesis is that the three coexisted in **an incongruous juxtaposition** rather than in a synthesis, so that Arab reason remained "stretched" among them.
 - **East and West (Mashriq and Maghrib)**: the division that stirred the sharpest controversy. Al-Jabri holds that the **East** of the Islamic world was dominated by the bayan-irfan mixture (al-Ghazali, Ibn Sina in the "Eastern Wisdom"), while the **Maghrib and Andalusia** produced a purer demonstrative line: **Ibn Hazm** in the fundamentals, **al-Shatibi** in the objectives (maqasid), **Ibn Rushd** in philosophy, and **Ibn Khaldun** in the science of civilization. His call is that the **Averroist line** be resumed as the only rational entry to modernity.
 - **"Understanding the heritage as it understood itself," and then the break with it**: his two-part method. First, **separating the read from the reader**: that the text be read in its historical context, not by projecting our questions onto it — the "structural reading." Then, **separating the reader from the read**: that the reader regain his freedom and judge the heritage rather than being judged by it. The aim is that the heritage become an **object**, not an authority.
-- **Influence and criticism**: his project is among the most widely circulated in Arab thought and the most provocative of replies. The most important objections directed at it: that his classification is **essentialist** despite his historicist claim (it presupposes an "Arab reason" of fixed structure); that the East/West dichotomy is a **generalization unsupported by the facts** and based on selection; and that his treatment of irfan as an alien "irrational" thing is a **value judgment** and not a description. **Tayeb Tizini** replied to him from a historical-materialist position (explanation begins from the social structure and not from an independent epistemic structure), and **Georges Tarabishi**, in four volumes ("Critique of the Critique of Arab Reason"), accused him of errors of reading and of a Maghrebi bias.
+- **Influence and criticism**: his project has been widely circulated in Arab thought and has provoked many replies. The most important objections directed at it: that his classification is **essentialist** despite his historicist claim (it presupposes an "Arab reason" of fixed structure); that the East/West dichotomy is a **generalization unsupported by the facts** and based on selection; and that his treatment of irfan as an alien "irrational" thing is a **value judgment** and not a description. **Tayeb Tizini** replied to him from a historical-materialist position (explanation begins from the social structure and not from an independent epistemic structure), and **Georges Tarabishi**, in four volumes ("Critique of the Critique of Arab Reason"), accused him of errors of reading and of a Maghrebi bias.
 
 ## The Qur'an and the Final Project
 
@@ -47,7 +47,7 @@ Al-Jabri engaged in public dialogues with his contemporaries, among them a dialo
 
 ## His Place in the Tradition
 
-Mohammed Abed al-Jabri was professor of philosophy at Mohammed V University in Rabat, and one of four major figures in **contemporary Islamic critical thought** with **Arkoun**, **Hanafi**, and **Tizini** — and **al-Laroui** shares with him the Moroccan arena with a sharp methodological difference: al-Laroui holds that searching for a "structure of Arab reason" is itself a fall into the essentialism that must be overcome. He is the author of the broadest attempt to analyse the **unconscious structure of knowledge** in a particular culture — an attempt that is read today with its objections and not without them.
+Mohammed Abed al-Jabri was professor of philosophy at Mohammed V University in Rabat, and one of four major figures in **contemporary Islamic critical thought** with **Arkoun**, **Hanafi**, and **Tizini** — and **al-Laroui** shares with him the Moroccan arena with a sharp methodological difference: al-Laroui holds that searching for a "structure of Arab reason" is itself a fall into the essentialism that must be overcome. He is the author of a wide-ranging attempt to analyse the **unconscious structure of knowledge** in a particular culture — an attempt that is read today with its objections and not without them.
 
 ## Major Works
 

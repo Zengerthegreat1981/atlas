@@ -24,7 +24,7 @@ gaps: []
 
 # Harlow's Rhesus Monkey Attachment and Contact Comfort Studies
 
-Famous experimental studies on infant rhesus monkeys separated from their mothers, in which they were placed before a wire "surrogate mother" that supplied milk and another covered with soft, warm cloth without milk, revealing that the infants spent all their time with the cloth mother.
+Famous experimental studies on infant rhesus monkeys separated from their mothers, in which they were placed before a wire "surrogate mother" that supplied milk and another covered with soft, warm cloth without milk, revealing that the infants spent most of their time with the cloth mother.
 
 ## Context and Experimental Design
 
@@ -48,7 +48,7 @@ Harlow's results coincided with John Bowlby's independent research in London on 
 
 ## Neurodevelopmental Consequences of Early Deprivation
 
-Subsequent research by Harlow, Stephen Suomi, Gary Kraemer, and later developmental neurobiologists examined the enduring biological sequelae of early social and maternal deprivation in rhesus macaques. Monkeys reared in total social isolation or with surrogate mothers exhibited profound alterations in brain maturation and neuroendocrine functioning. Early social deprivation produces chronic dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis, characterized by blunted or hyperreactive cortisol responses to novel stressors. Longitudinal neurochemical assays also documented persistent deficits in central serotonergic and dopaminergic neurotransmission, correlating with stereotyped repetitive movements, hyper-aggression, self-injurious biting, and an inability to decode peer social cues. These findings demonstrated that sensory and affectional contact during early sensitive periods is required for the neurobiological organization of neural circuits regulating affect and stress tolerance.
+Subsequent research by Harlow, Stephen Suomi, Gary Kraemer, and later developmental neurobiologists examined the enduring biological sequelae of early social and maternal deprivation in rhesus macaques. Monkeys reared in total social isolation or with surrogate mothers exhibited alterations in neuroendocrine functioning. Early social deprivation has been associated with dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis, including altered cortisol responses to stressors. Later primate work also linked early deprivation to altered monoaminergic function and to stereotyped movements, heightened aggression, self-injurious behavior, and difficulty in peer social interaction. These findings are generally taken to indicate that early social contact matters for the development of systems regulating affect and stress, though the specific neurobiological mechanisms remain under study.
 
 ## Sources
 

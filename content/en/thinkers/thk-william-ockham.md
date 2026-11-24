@@ -21,7 +21,7 @@ gaps: []
 
 # William of Ockham
 
-William of Ockham (c. 1287–1347) was an English Franciscan friar, philosopher, and theologian whose rigorous nominalism and logical innovations transformed late medieval philosophy. By dismantling the intricate metaphysical apparatus of high scholasticism, Ockham laid the groundwork for the "modern way" (*via moderna*) and profoundly influenced early modern epistemological debates.
+William of Ockham (c. 1287–1347) was an English Franciscan friar, philosopher, and theologian whose rigorous nominalism and logical innovations reshaped late medieval philosophy. By criticizing the intricate metaphysical apparatus of high scholasticism, Ockham became associated with the "modern way" (*via moderna*) and profoundly influenced early modern epistemological debates.
 
 ## Life and Context
 
@@ -29,7 +29,7 @@ Ockham was born around 1287 in the village of Ockham in Surrey, England. He join
 
 In 1324, Pope John XXII summoned Ockham to the papal curia at Avignon to answer charges of heresy concerning his theological commentaries. While awaiting the findings of the examining commission, Ockham met Michael of Cesena, the Minister General of the Franciscan Order. Ockham was drawn into the fierce apostolic poverty controversy between the Franciscans and the papacy. The Franciscans held that Christ and the Apostles owned no personal or communal property, an ideal declared heretical by Pope John XXII in the bull *Cum inter nonnullos* (1323).
 
-Convinced that the pope had fallen into formal heresy, Ockham, Michael of Cesena, and several companions fled Avignon in May 1328, taking refuge in Pisa with Emperor Louis IV of Bavaria. Excommunicated by John XXII, Ockham moved to Munich under imperial protection. For the remainder of his life, he resided at the Franciscan friary in Munich, producing extensive political and ecclesiological treatises defending imperial sovereignty against papal overreach. Ockham died in Munich in 1347, likely a victim of the Black Death.
+Convinced that the pope had fallen into formal heresy, Ockham, Michael of Cesena, and several companions fled Avignon in May 1328, taking refuge in Pisa with Emperor Louis IV of Bavaria. Excommunicated by John XXII, Ockham moved to Munich under imperial protection. For the remainder of his life, he resided at the Franciscan friary in Munich, producing extensive political and ecclesiological treatises defending imperial sovereignty against papal overreach. Ockham died in Munich in 1347, possibly of the Black Death.
 
 ## Core Philosophical Contributions
 

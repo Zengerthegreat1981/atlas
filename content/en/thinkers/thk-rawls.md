@@ -25,13 +25,13 @@ gaps: []
 
 # John Rawls
 
-An American political philosopher, born in Baltimore in 1921 and died in 2002 in Massachusetts. He was a professor at Harvard University from 1962 until his retirement from teaching in 1991, and is regarded as one of the most important political philosophers of the twentieth century and the leading modern theorist of the social contract tradition.
+An American political philosopher, born in Baltimore in 1921 and died in 2002 in Massachusetts. He was a professor at Harvard University from 1962 until his retirement from teaching in 1991, and is regarded as one of the most important political philosophers of the twentieth century and a leading modern theorist of the social contract tradition.
 
 ## Origins and Formation
 
 Rawls studied at Princeton University, graduating in 1943, then served as a soldier in the Pacific during the Second World War, an experience that left a deep moral mark on him. He then returned to Princeton and obtained his doctorate in 1950 with a dissertation on the grounds of ethical knowledge, then taught at Princeton, Cornell University and the Massachusetts Institute of Technology, and moved to Harvard in 1962. In his two articles "Two Concepts of Rules" (1955) and "Justice as Fairness" (1958) the first seeds of his project appeared.
 
-Rawls did not write much before "A Theory of Justice," but he kept refining his ideas for nearly a decade, and published the book in 1971, which became the greatest event in Anglo-American political philosophy in the twentieth century, since it restored to it a standing that had weakened in the face of analytic and linguistic philosophy, and put social justice at the head of philosophical discussion.
+Rawls did not write much before "A Theory of Justice," but he kept refining his ideas for nearly a decade, and published the book in 1971, which became a landmark of Anglo-American political philosophy in the twentieth century, since it helped restore to it a standing that had weakened in the face of analytic and linguistic philosophy, and put social justice at the head of philosophical discussion.
 
 ## What He Offered
 
@@ -47,11 +47,11 @@ After the criticism of the communitarians and others, Rawls came to see that "A 
 
 ## Impact
 
-Rawls became the starting point for most contemporary political philosophy, whether by support or by opposition. His ideas contributed to the discussion about the welfare state, education, health care, justice between generations and global justice. His ideas also appeared in Arabic writings on pluralism, citizenship and the social contract, and the idea of public reason was compared with discussions of the public sphere.
+Rawls became a major reference point for contemporary political philosophy, whether by support or by opposition. His ideas contributed to the discussion about the welfare state, education, health care, justice between generations and global justice. His ideas also appeared in Arabic writings on pluralism, citizenship and the social contract, and the idea of public reason was compared with discussions of the public sphere.
 
 ## His Place in the Current
 
-Rawls established what became known as "contemporary political liberalism," and inspired an entire generation of theorists in law, ethics and public policy. His later exchanges with the communitarians (Sandel, MacIntyre, Walzer) and the libertarians (Nozick) formed an entire decade of heated debate in Anglo-American philosophy.
+Rawls is a central figure of what became known as "contemporary political liberalism," and influenced a generation of theorists in law, ethics and public policy. His later exchanges with the communitarians (Sandel, MacIntyre, Walzer) and the libertarians (Nozick) formed an entire decade of heated debate in Anglo-American philosophy.
 
 ## Limits of the Project and Its Critique
 

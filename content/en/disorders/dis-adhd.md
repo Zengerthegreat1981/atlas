@@ -48,7 +48,7 @@ ICD-11 classifies ADHD under neurodevelopmental disorders using the same three p
 
 Global epidemiological meta-analyses (Polanczyk et al., 2007, 2014) estimate the worldwide childhood prevalence of ADHD at approximately 5% to 7%, and adult prevalence at approximately 2.5%. 
 
-In the Arab world and Middle East region, systematic reviews (e.g., Alqahtani, 2010; Farah et al., 2009; Jenabi et al., 2021) report pooled pediatric prevalence rates ranging between 4% and 9%, broadly consistent with global benchmarks. Regional studies demonstrate substantial variation attributable to differing diagnostic methodologies (e.g., teacher-completed rating scales vs. structured clinical parent-child interviews) and cultural expectations surrounding child behavior. High rates of consanguinity in some regional populations and underdiagnosis among females—who more frequently present with inattentive symptoms—remain active areas of epidemiological study.
+In the Arab world and Middle East region, systematic reviews (e.g., Alqahtani, 2010; Farah et al., 2009) report pediatric prevalence rates ranging roughly between 4% and 9%, broadly consistent with global benchmarks. Regional studies demonstrate substantial variation attributable to differing diagnostic methodologies (e.g., teacher-completed rating scales vs. structured clinical parent-child interviews) and cultural expectations surrounding child behavior. High rates of consanguinity in some regional populations and underdiagnosis among females—who more frequently present with inattentive symptoms—remain active areas of epidemiological study.
 
 ## Neurobiology and Multimodal Clinical Management
 

@@ -54,12 +54,12 @@ Mindfulness translates the Pali term *sati*, which signifies lucid awareness, mi
 In the West, secular clinical applications progressed through distinct phases:
 - **1979**: Jon Kabat-Zinn founded the MBSR clinic at the University of Massachusetts Medical Center, treating chronic pain and stress-related disorders.
 - **1990s**: Jon Kabat-Zinn published *Full Catastrophe Living* (1990), popularizing mindfulness across mainstream medicine.
-- **2000s**: Zindel Segal, Mark Williams, and John Teasdale developed **Mindfulness-Based Cognitive Therapy (MBCT)**, integrating cognitive therapy with mindfulness practices to prevent major depressive relapse (Kuyken et al., 2015).
+- **1990s–2000s**: Zindel Segal, Mark Williams, and John Teasdale developed **Mindfulness-Based Cognitive Therapy (MBCT)**, integrating cognitive therapy with mindfulness practices to prevent major depressive relapse (Segal et al., 2002).
 - **Third-Wave CBT**: Steven C. Hayes incorporated mindfulness and acceptance into **Acceptance and Commitment Therapy (ACT)** through cognitive defusion, while Marsha Linehan established core mindfulness skills as the central module of **Dialectical Behavior Therapy (DBT)** to achieve emotional regulation and "Wise Mind."
 
 ## Empirical Evidence and Critical Perspectives
 
-Systematic meta-analyses (Goyal et al., 2014) indicate that mindfulness meditation programs yield moderate evidence of improvement in symptoms of anxiety and depression, with outcomes comparable to active behavioral treatments. Structural and functional neuroimaging studies report altered functional connectivity in the Default Mode Network (DMN), particularly reducing self-referential rumination in the posterior cingulate cortex and medial prefrontal cortex.
+Systematic meta-analyses (Goyal et al., 2014) indicate that mindfulness meditation programs yield moderate evidence of improvement in symptoms of anxiety and depression, but no evidence that they were superior to active treatments such as medication or other behavioral therapies. Structural and functional neuroimaging studies report altered functional connectivity in the Default Mode Network (DMN), particularly reducing self-referential rumination in the posterior cingulate cortex and medial prefrontal cortex.
 
 Despite widespread adoption, critical scholars express several concerns:
 - **"McMindfulness" and Commodification**: Ronald Purser (2019) critiqued the commercial dilution of mindfulness, arguing that stripping mindfulness of its ethical foundations turns it into a corporate stress-management technique that pacifies individuals and obscures systemic socioeconomic problems.

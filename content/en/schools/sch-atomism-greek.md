@@ -21,7 +21,7 @@ gaps: []
 ---
 # Greek Atomism
 
-A philosophical movement founded by Leucippus (mid-5th century BCE) and developed by Democritus (c. 460–370 BCE) in the city of Abdera on the coast of Thrace. It offered the first comprehensive mechanical-materialist account of the world in the history of philosophy: being consists of tiny indivisible particles (atoms) moving in the void, and all the diversity we see arises from the shapes, arrangement and position of these atoms. Epicurus (341–270 BCE) then revived it within an ethical school, Lucretius carried it into Latin, and it returned to the foreground of natural philosophy in the seventeenth century.
+A philosophical movement founded by Leucippus (mid-5th century BCE) and developed by Democritus (c. 460–370 BCE) in the city of Abdera on the coast of Thrace. It offered an early and comprehensive mechanical-materialist account of the world: being consists of tiny indivisible particles (atoms) moving in the void, and all the diversity we see arises from the shapes, arrangement and position of these atoms. Epicurus (341–270 BCE) then revived it within an ethical school, Lucretius carried it into Latin, and it returned to the foreground of natural philosophy in the seventeenth century.
 
 ## Context
 

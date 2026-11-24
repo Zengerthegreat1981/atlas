@@ -41,7 +41,7 @@ Bugental practiced long-term, depth-oriented psychotherapy. The therapist acts a
 
 ## Position, Influence, and Criticism
 
-Bugental stands as the primary technician of American existential-humanistic psychotherapy: May was its philosopher, Yalom its narrative interpreter, and Bugental its master clinician. Critics note that his intensive, open-ended model is difficult to reconcile with the modern landscape of short-term, manualized care. Furthermore, like much of the existential tradition, Bugental relied primarily on qualitative clinical observation and phenomenological reflection rather than controlled empirical trials. Nonetheless, his formulations of presence, resistance, and subjective experiencing remain foundational in contemporary relational and humanistic psychotherapy.
+Bugental is often seen as the clinical craftsman of American existential-humanistic psychotherapy, with May as its philosophical voice and Yalom as its narrative interpreter. Critics note that his intensive, open-ended model is difficult to reconcile with the modern landscape of short-term, manualized care. Furthermore, like much of the existential tradition, Bugental relied primarily on qualitative clinical observation and phenomenological reflection rather than controlled empirical trials. Nonetheless, his formulations of presence, resistance, and subjective experiencing remain foundational in contemporary relational and humanistic psychotherapy.
 
 ## Related Concepts
 

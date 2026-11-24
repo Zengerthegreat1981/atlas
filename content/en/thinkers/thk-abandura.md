@@ -23,7 +23,7 @@ gaps: []
 
 # Albert Bandura
 
-A Canadian-American psychologist (Mundare, Alberta 1925 – Stanford 2021), professor at Stanford University for many decades, and founder of "Social Learning Theory," which he later developed into "Social Cognitive Theory" (1986); he was among the most cited psychologists of the twentieth century.
+A Canadian-American psychologist (Mundare, Alberta 1925 – Stanford 2021), professor at Stanford University for many decades, and the principal developer of "Social Learning Theory," which he later developed into "Social Cognitive Theory" (1986); he was among the most cited psychologists of the twentieth century.
 
 ## Historical Context
 

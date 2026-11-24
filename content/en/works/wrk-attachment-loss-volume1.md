@@ -50,13 +50,13 @@ The volume was published in 1969 jointly by the Hogarth Press and the Institute 
 
 ## Reception and Contemporary Psychoanalytic Reactions
 
-Upon publication, the book met fierce institutional resistance within the British Psychoanalytical Society. Prominent Kleinian psychoanalysts, notably Donald Meltzer and Hanna Segal, dismissed the work as an abandonment of psychoanalysis; Meltzer remarked that Bowlby had abandoned the unconscious and the transference in favor of superficial ethology. Anna Freud similarly voiced strong objections, criticizing Bowlby for replacing dynamic drive theory and infantile fantasy with an externalized biological model borrowed from animal ethology. Donald Winnicott adopted a nuanced yet reserved position, appreciating Bowlby's clinical emphasis on real maternal care while expressing concern that substituting ethological mechanisms for dynamic fantasy diluted the core insights of psychoanalysis.
+Upon publication, the book met fierce institutional resistance within the British Psychoanalytical Society. Many analysts, including those of the Kleinian group, criticized the work as a departure from psychoanalysis. Anna Freud similarly voiced strong objections, criticizing Bowlby for replacing dynamic drive theory and infantile fantasy with an externalized biological model borrowed from animal ethology.
 
 Conversely, the work was enthusiastically received in developmental and comparative psychology because it translated clinical observations into empirically testable, evolutionarily grounded hypotheses. In the late 1960s and 1970s, **Mary Ainsworth** operationalized Bowlby's theoretical framework into the "Strange Situation" laboratory protocol and classified attachment patterns (secure, insecure-avoidant, insecure-resistant) through her field studies in Uganda (1967) and Baltimore. These empirical classifications and instruments represent Ainsworth's subsequent work, building directly on the theoretical framework established in this 1969 text.
 
 ## Why It Is Mentioned in the Atlas
 
-As the inaugural volume of attachment theory, the book revolutionized modern developmental psychology, developmental psychopathology, and clinical practice. It provided the definitive theoretical pivot from instinctual drive reduction to relational attachment systems.
+As the inaugural volume of attachment theory, the book had a major influence on developmental psychology, developmental psychopathology, and clinical practice. It marked an influential theoretical shift from drive-reduction accounts to attachment as a behavioral system.
 
 ## Sources
 

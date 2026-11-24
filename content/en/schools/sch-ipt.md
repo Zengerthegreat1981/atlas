@@ -35,7 +35,7 @@ Interpersonal Psychotherapy (IPT) is a short-term, protocol-defined psychotherap
 
 ## Historical Context and Founding
 
-IPT arose at the intersection of three currents: the tradition of brief psychoanalytic therapy (Brief Dynamic Therapy), and the effort to test psychotherapies empirically alongside antidepressant medication in the New Haven-Boston Collaborative Depression Research Project. Its theoretical roots lie in the interpersonal psychiatry of Adolf Meyer and Harry Stack Sullivan and in attachment theory (Bowlby), which supports the focus on the link between close relationships and mood. Klerman and Weissman, with colleagues including Eugene Paykel, Bruce Rounsaville, and Edith Chevron, developed a structured protocol for depression, which was later adapted for other conditions and age groups.
+IPT arose at the intersection of two currents: the tradition of brief psychoanalytic therapy (Brief Dynamic Therapy), and the effort to test psychotherapies empirically alongside antidepressant medication in the New Haven-Boston Collaborative Depression Research Project. Its theoretical roots lie in the interpersonal psychiatry of Adolf Meyer and Harry Stack Sullivan and in attachment theory (Bowlby), which supports the focus on the link between close relationships and mood. Klerman and Weissman, with colleagues including Eugene Paykel, Bruce Rounsaville, and Edith Chevron, developed a structured protocol for depression, which was later adapted for other conditions and age groups.
 
 Weissman, with John Markowitz and others, and clinicians such as Scott Stuart carried the approach forward; today training and accreditation are overseen by professional bodies such as the International Society of Interpersonal Psychotherapy.
 

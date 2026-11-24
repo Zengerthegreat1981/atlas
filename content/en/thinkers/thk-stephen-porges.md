@@ -24,7 +24,7 @@ gaps: []
 
 # Stephen W. Porges
 
-An American neuroscientist (born 1945), a Distinguished University Scientist at Indiana University and a professor of psychiatry at the University of North Carolina at Chapel Hill. He is the founder of Polyvagal Theory, which redrew the map of the autonomic nervous system and opened a new horizon for understanding the relationship between the body, social safety and emotion.
+An American neuroscientist (born 1945), a Distinguished University Scientist at Indiana University and a professor of psychiatry at the University of North Carolina at Chapel Hill. He is the originator of Polyvagal Theory, which proposes a new account of the autonomic nervous system and has shaped discussion of the relationship between the body, social safety and emotion.
 
 ## Formative context
 

@@ -43,7 +43,7 @@ Existential dialogue has little randomised trial evidence of its own, and its pr
 ## Sources
 
 - Martin Buber, *I and Thou*, 1923.
-- Viktor E. Frankl, *Ein Psycholog erlebt das Konzentrationslager*, 1946 (English: *Man's Search for Meaning*).
+- Viktor E. Frankl, *Ein Psycholog erlebt das Konzentrationslager*, 1946 (English: *From Death-Camp to Existentialism*, 1959; later *Man's Search for Meaning*, 1962).
 - Irvin D. Yalom, *Existential Psychotherapy*, 1980.
 - Emmy van Deurzen, *Existential Counselling in Practice*, 1988.
 - Mick Cooper, *Existential Therapies*, 2003.

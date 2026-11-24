@@ -22,7 +22,7 @@ gaps: []
 ---
 # Bertrand Russell
 
-A British philosopher and one of the most important founders of analytic philosophy. He co-authored "Principia Mathematica" (1910–1913) with Whitehead, and developed logical atomism in "Our Knowledge of the External World" (1914) and the lectures on "The Philosophy of Logical Atomism" (1918).
+A British philosopher and a leading founder of analytic philosophy. He co-authored "Principia Mathematica" (1910–1913) with Whitehead, and developed logical atomism in "Our Knowledge of the External World" (1914) and the lectures on "The Philosophy of Logical Atomism" (1918).
 
 ## What He Offered
 
@@ -62,7 +62,7 @@ Russell wrote works directed to the general reader on ethics, education, politic
 
 ## Impact and Reception
 
-With Frege, Moore and Wittgenstein, Russell represented the starting point of analytic philosophy. He influenced the logical positivists in Vienna and Carnap and Quine. In the Arab world he was among the most translated Western philosophers and among the most influential on the generation educated in the Egyptian universities, including Zaki Naguib Mahmoud, who moved from logical positivism to the study of the heritage.
+With Frege, Moore and Wittgenstein, Russell represented the starting point of analytic philosophy. He influenced the logical positivists in Vienna and Carnap and Quine. In the Arab world he was among the widely translated Western philosophers and an influence on the generation educated in the Egyptian universities, including Zaki Naguib Mahmoud, who moved from logical positivism to the study of the heritage.
 
 ## Limits and Critique
 

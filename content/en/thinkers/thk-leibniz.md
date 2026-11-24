@@ -59,7 +59,7 @@ Leibniz presented an integrated philosophical system in opposition to both **Car
 - **Nouveaux Essais sur l'Entendement Humain** (written 1704, and published posthumously in 1765): a chapter-by-chapter discussion of **John Locke's** *Essay Concerning Human Understanding*, and a defense of innate ideas.
 - **Essais de Théodicée** (1710): the only major book he published himself in his lifetime.
 - **Monadologie** (1714): ninety paragraphs summarizing his system; the title itself was not his own but was given by the publisher after Leibniz's death in 1720.
-- **The Leibniz–Clarke correspondence** (1715–1716): five letters with Samuel Clarke acting for Newton on absolute space, the void and the presence of God; Clarke published them after Leibniz's death in 1717.
+- **The Leibniz–Clarke correspondence** (1715–1716): five letters from each side with Samuel Clarke acting for Newton on absolute space, the void and the presence of God; Clarke published them after Leibniz's death in 1717.
 
 ## Limits
 

@@ -33,7 +33,7 @@ A pivotal classic study that identified the three major heuristics the human min
 
 ## Experimental Samples and Problem Designs
 
-Because the 1974 *Science* paper served as a theoretical synthesis of their early research program, it integrated findings across numerous discrete questionnaire studies conducted between 1971 and 1973. Rather than relying on a single uniform cohort, the authors administered brief probabilistic reasoning problems to independent samples of university students and researchers (primarily at the Hebrew University of Jerusalem and participants recruited through Oregon research institutes). Sample sizes typically ranged from 50 to 115 participants per experimental condition (for instance, 84 participants in the wheel-of-fortune anchoring experiment, and 80 to 100 participants per scenario in the base-rate and sample-size problems).
+The 1974 *Science* paper was a theoretical synthesis of the authors' earlier research program (largely published between 1971 and 1973) rather than a report of a single experiment. It drew on brief questionnaire-style probability and estimation problems given to university students and other adult samples, and illustrated each heuristic with examples such as the wheel-of-fortune anchoring problem. Participant numbers varied across the underlying studies and are not reported here.
 
 ## Significance for Cognitive Psychology
 
@@ -45,7 +45,7 @@ The availability and anchoring heuristics have been replicated consistently acro
 
 ## Historical Context and Collaboration
 
-This paper represented the culmination of collaborative work between Daniel Kahneman and Amos Tversky at the Hebrew University of Jerusalem, beginning in 1969. The paper, published in *Science* under the title "Judgment under Uncertainty: Heuristics and Biases," revolutionized behavioral economics by demonstrating that human departures from rational choice theory are systematic rather than random. Kahneman was awarded the 2002 Nobel Memorial Prize in Economic Sciences for this research (Tversky having passed away in 1996).
+This paper represented the culmination of collaborative work between Daniel Kahneman and Amos Tversky at the Hebrew University of Jerusalem, beginning in 1969. The paper, published in *Science* under the title "Judgment under Uncertainty: Heuristics and Biases," helped reshape behavioral economics by arguing that human departures from rational choice theory are systematic rather than random. Kahneman was awarded the 2002 Nobel Memorial Prize in Economic Sciences for this research (Tversky having passed away in 1996).
 
 ## Sources
 

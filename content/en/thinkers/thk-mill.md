@@ -21,7 +21,7 @@ gaps: []
 ---
 # John Stuart Mill
 
-An English philosopher and economist, the greatest theorist of classical **utilitarianism** in the 19th century. He was raised by his father **James Mill** and by **Bentham**, and began Greek at the age of three and Latin at eight. He fell into a **spiritual crisis** (1826) that reshaped his later philosophy.
+An English philosopher and economist, a leading theorist of classical **utilitarianism** in the 19th century. He was raised by his father **James Mill** and by **Bentham**, and began Greek at the age of three and Latin at eight. He fell into a **spiritual crisis** (1826) that reshaped his later philosophy.
 
 ## His Life and Formation
 
@@ -31,7 +31,7 @@ Mill was born in London on 20 May 1806 to a Scottish father, the historian and e
 
 ### *On Liberty* (1859)
 
-The most influential defense of individual liberty in modern political philosophy. Mill formulates the famous **harm principle**: "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others." Mill articulates three broad domains of liberty:
+An influential defense of individual liberty in modern political philosophy. Mill formulates the famous **harm principle**: "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others." Mill articulates three broad domains of liberty:
 - **Liberty of thought and discussion**: freedom of opinion, conscience, and public debate.
 - **Liberty of tastes and pursuits**: freedom to plan our own lives and pursue our own inclinations without societal interference, so long as our actions do not harm others.
 - **Liberty of combination (association)**: freedom to unite with other individuals for any purpose not involving harm to others.
@@ -40,17 +40,17 @@ This text remains a fundamental reference for liberal political philosophy, cons
 
 ### The 1826 Crisis and Individuality in *On Liberty*
 
-In his *Autobiography*, Mill recounts the severe mental and emotional crisis he suffered in the autumn of 1826. Having been conditioned by Benthamite associationist psychology and strict utilitarian analysis, he realized that rigorous analytic dissection had trained his intellect while leaving his emotional capacities and desires uncultivated. Reading William Wordsworth's poetry offered him therapeutic relief and demonstrated that aesthetic sensibility and feeling are essential to well-being. This realization transformed his philosophical vision, directly shaping Chapter 3 of *On Liberty* ("Of Individuality, as One of the Elements of Well-Being"). Drawing on Wilhelm von Humboldt's ideal of self-cultivation (*Bildung*), Mill argued that liberty is valuable not only as negative non-interference, but as the essential prerequisite for individual development, diversity of character, and "experiments of living" against the stultifying tyranny of social conformity.
+In his *Autobiography*, Mill recounts the severe mental and emotional crisis he suffered in the autumn of 1826. Having been conditioned by Benthamite associationist psychology and strict utilitarian analysis, he realized that rigorous analytic dissection had trained his intellect while leaving his emotional capacities and desires uncultivated. Reading William Wordsworth's poetry offered him relief and, as he saw it, showed that aesthetic sensibility and feeling are essential to well-being. This realization transformed his philosophical vision, directly shaping Chapter 3 of *On Liberty* ("Of Individuality, as One of the Elements of Well-Being"). Drawing on Wilhelm von Humboldt's ideal of self-cultivation (*Bildung*), Mill argued that liberty is valuable not only as negative non-interference, but as the essential prerequisite for individual development, diversity of character, and "experiments of living" against the stultifying tyranny of social conformity.
 
 ### *Utilitarianism* (1863)
 
-The most widely read systematic defense of utilitarian ethics. Mill introduces crucial modifications to Bentham's quantitative hedonism:
+A widely read defense of utilitarian ethics. Mill introduces crucial modifications to Bentham's quantitative hedonism:
 - **Qualitative distinctions between pleasures**: Mill famously declares, "It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied." Pleasures of the intellect, feelings, imagination, and moral sentiments are qualitatively superior to mere bodily sensations.
 - **The criterion of competent judges**: When deciding which of two pleasures is superior in quality, Mill appeals to the verdict of those who have experienced both and are competent to appreciate both.
 
 ### *The Subjection of Women* (1869)
 
-A founding text of liberal feminism, written with significant input from his wife Harriet Taylor Mill and stepdaughter Helen Taylor. Mill argued that the legal subordination of women was not only inherently unjust, but a relic of the past that impeded the moral and intellectual progress of humanity. He advocated full legal equality, equal access to education, suffrage, and unrestricted entry into professions.
+A key text of liberal feminism, written with significant input from his wife Harriet Taylor Mill and stepdaughter Helen Taylor. Mill argued that the legal subordination of women was not only inherently unjust, but a relic of the past that impeded the moral and intellectual progress of humanity. He advocated full legal equality, equal access to education, suffrage, and unrestricted entry into professions.
 
 Mill also revised editions of his *Principles of Political Economy* (1848) in light of the European revolutions of 1848, incorporating sympathetic appraisals of workers' cooperatives and profit-sharing schemes, prefiguring a form of liberal or market socialism.
 

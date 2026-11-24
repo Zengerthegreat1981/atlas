@@ -38,7 +38,7 @@ The examination is usually organised around the four existential givens as Irvin
 
 ## Lineage
 
-Kierkegaard was the first to make Socratic dialogue an existential instrument rather than a merely intellectual one: his doctrine of indirect communication holds that truth concerning existence cannot be handed over as information but must be drawn out. Viktor Frankl made Socratic dialogue a codified element of logotherapy, using it in attitude modulation and in drawing out what is meaningful for the client — the closest this school comes to a specified procedure.
+Kierkegaard was an important early figure in turning Socratic dialogue into an existential instrument rather than a merely intellectual one: his doctrine of indirect communication holds that truth concerning existence cannot be handed over as information but must be drawn out. Viktor Frankl made Socratic dialogue a codified element of logotherapy, using it in attitude modulation and in drawing out what is meaningful for the client — the closest this school comes to a specified procedure.
 
 ## Criticisms and limits
 
@@ -50,12 +50,12 @@ Socratic existential dialogue has no evidence base of its own, and that should b
 
 ## Key works
 
-Yalom's *Existential Psychotherapy* (1980) is the reference text: the four givens and the method of examining them. Frankl's *Ärztliche Seelsorge* (1946; English *The Doctor and the Soul*, 1955) and *Man's Search for Meaning* (German 1946, English 1959) set out Socratic dialogue as an element of logotherapy. Van Deurzen's *Existential Counselling and Psychotherapy in Practice* (third edition, 2012) carries the European tradition.
+Yalom's *Existential Psychotherapy* (1980) is the reference text: the four givens and the method of examining them. Frankl's *Ärztliche Seelsorge* (1946; English *The Doctor and the Soul*, 1955) and *Man's Search for Meaning* (German 1946; English 1959/1962) set out Socratic dialogue as an element of logotherapy. Van Deurzen's *Existential Counselling and Psychotherapy in Practice* (third edition, 2012) carries the European tradition.
 
 ## Sources
 
 - Yalom, Irvin D. (1980). *Existential Psychotherapy*. Basic Books.
-- Frankl, Viktor E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *Man's Search for Meaning*, 1959.)
+- Frankl, Viktor E. (1946). *Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk. (English: *From Death-Camp to Existentialism*, 1959; later *Man's Search for Meaning*, 1962.)
 - Frankl, Viktor E. (1946). *Ärztliche Seelsorge*. Franz Deuticke. (English: *The Doctor and the Soul*, 1955.)
 - Kierkegaard, Søren (1846). *Concluding Unscientific Postscript to Philosophical Fragments*. C. A. Reitzel.
 - Van Deurzen, Emmy (2012). *Existential Counselling and Psychotherapy in Practice*, 3rd ed. SAGE.

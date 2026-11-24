@@ -43,7 +43,7 @@ All the schools replied to them. The Nyāya criticized their argument against in
 
 ## Comparison with Arab-Islamic Thought
 
-There is no evidence of a relation of direct influence, but comparison reveals echoes. Islam knew the "Dahriyyun" (the materialists), whose saying the Qur'an reports: "There is nothing but our life in this world; we die and we live, and nothing destroys us except time" (al-Jathiya 24), and the "Sumaniyya," from whom the theologians reported a rejection of inference and a restriction to the senses; among the heretics (zanadiqa) of the Abbasid era were Ibn al-Rawandi and Abu Bakr al-Razi. Abdurrahman Badawi studied the "History of Atheism in Islam" (1993) and Sarah Stroumsa "Freethinkers of Medieval Islam" (1999). The similarity between the Sumaniyya and the Chārvāka in rejecting inference may go back to the structure of the sensualist position and not to a historical transmission.
+There is no evidence of a relation of direct influence, but comparison reveals echoes. Islam knew the "Dahriyyun" (the materialists), whose saying the Qur'an reports: "There is nothing but our life in this world; we die and we live, and nothing destroys us except time" (al-Jathiya 24), and the "Sumaniyya," from whom the theologians reported a rejection of inference and a restriction to the senses; among the heretics (zanadiqa) of the Abbasid era were Ibn al-Rawandi and Abu Bakr al-Razi. Abdurrahman Badawi studied the "History of Atheism in Islam" (first published 1945; reprinted 1993) and Sarah Stroumsa "Freethinkers of Medieval Islam" (1999). The similarity between the Sumaniyya and the Chārvāka in rejecting inference may go back to the structure of the sensualist position and not to a historical transmission.
 
 ## Influence
 

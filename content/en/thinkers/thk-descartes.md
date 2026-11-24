@@ -23,7 +23,7 @@ gaps: []
 ---
 # René Descartes
 
-The French philosopher, founder of modern **Continental Rationalism**, who formulated the metaphysical dualism between **mind** (Res Cogitans) and **matter** (Res Extensa), and the principle "I think, therefore I am" (Cogito, ergo sum), which became the **founding point** of all modern philosophy.
+The French philosopher, a founding figure of modern **Continental Rationalism**, who formulated the metaphysical dualism between **mind** (Res Cogitans) and **matter** (Res Extensa), and the principle "I think, therefore I am" (Cogito, ergo sum), which became a **founding point** of modern philosophy.
 
 ## What He Contributed
 

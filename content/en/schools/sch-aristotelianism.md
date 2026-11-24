@@ -36,11 +36,11 @@ A philosophical movement founded in Athens in 335 BCE when **Aristotle** (384–
 
 ## Principal Philosophers
 
-- **Aristotle** (384–322 BCE): the founder, and the greatest producer of systematic philosophy.
+- **Aristotle** (384–322 BCE): the founder of the school and a towering systematic philosopher.
 - **Theophrastus** (371–287 BCE): his student and successor, who wrote "On Plants" and "Characters" (ethical).
 - **Strato of Lampsacus** (c. 335–269 BCE): a philosopher of natural "physics," who neglected logic in favour of natural philosophy.
 - **Andronicus of Rhodes** (1st century BCE): reassembled Aristotle's texts into a single edition.
-- **Alexander of Aphrodisias** (fl. c. 200 CE): the greatest interpreter of Aristotelianism in antiquity.
+- **Alexander of Aphrodisias** (fl. c. 200 CE): the most prominent ancient commentator on Aristotle.
 
 ## Central Concepts
 
@@ -56,9 +56,9 @@ A philosophical movement founded in Athens in 335 BCE when **Aristotle** (384–
 ## Historical Impact
 
 - **Roman philosophy**: Cicero knew and drew on Aristotle's works, including his lost dialogues.
-- **Christian theology**: Augustine's (354–430) reading of Aristotelianism was modest, but Thomas Aquinas (1225–1274) re-established Aristotelianism as the foundation of a Christian theology.
+- **Christian theology**: Augustine's (354–430) reading of Aristotelianism was modest, but Thomas Aquinas (1225–1274) made Aristotelian philosophy central to a Christian theology.
 - **Arabic philosophy**: al-Kindi, al-Farabi (d. 950 CE), Ibn Sina (d. 1037 CE), Ibn Rushd (d. 1198 CE). The largest Aristotelian heritage in Arabic.
-- **Jewish theology**: Maimonides (1138–1204), whose Aristotelian reading founded a rationalist Jewish theology.
+- **Jewish theology**: Maimonides (1138–1204), whose Aristotelian reading shaped a rationalist current in Jewish theology.
 - **The European Renaissance**: the Renaissance re-read Aristotle (for example Pietro Pomponazzi, *De immortalitate animae*, 1516).
 - **The 17th century**: Francis Bacon, Galileo and Descartes were all "against Aristotle," yet all of them dealt with his legacy.
 - **Hegel**: admired Aristotle and gave him a prominent place in his *Lectures on the History of Philosophy*.

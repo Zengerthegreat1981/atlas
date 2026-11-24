@@ -24,7 +24,7 @@ gaps: []
 
 # Steven C. Hayes
 
-American psychologist (born 1948), founder of **Acceptance and Commitment Therapy** (ACT) in the 1980s, and developer of **Relational Frame Theory** (RFT), the theoretical foundation of ACT. A university professor and prolific author (dozens of books and hundreds of articles).
+American psychologist (born 1948), principal developer of **Acceptance and Commitment Therapy** (ACT) from the 1980s, and developer of **Relational Frame Theory** (RFT), the theoretical foundation of ACT. A university professor and prolific author (dozens of books and hundreds of articles).
 
 ## What he contributed
 
@@ -109,5 +109,7 @@ Hayes has said that a first panic attack in 1978 and his subsequent struggle wit
 - Hayes, S. C., Barnes-Holmes, D., & Roche, B. (Eds.). (2001). *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition*. Plenum.
 - Hayes, S. C. (2004). "Acceptance and commitment therapy, relational frame theory, and the third wave of behavioral and cognitive therapies." *Behavior Therapy*, 35(4), 639–665.
 - Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). "Acceptance and commitment therapy: Model, processes and outcomes." *Behaviour Research and Therapy*, 44(1), 1–25.
+- A-Tjak, J. G. L., et al. (2015). "A meta-analysis of the efficacy of acceptance and commitment therapy for clinically relevant mental and physical health problems." *Psychotherapy and Psychosomatics*, 84(1), 30–36.
+- Powers, M. B., Zum Vörde Sive Vörding, M. B., & Emmelkamp, P. M. G. (2009). "Acceptance and commitment therapy: A meta-analytic review." *Psychotherapy and Psychosomatics*, 78(2), 73–80.
 - Baer, R. A. (2003). "Mindfulness training as a clinical intervention: A conceptual and empirical review." *Clinical Psychology: Science and Practice*, 10(2), 125–143.
 - Hayes, S. C. (2019). *A Liberated Mind: How to Pivot Toward What Matters*. Avery.

@@ -21,13 +21,13 @@ gaps: []
 
 # John Langshaw Austin
 
-John Langshaw Austin (1911–1960) was a British philosopher of language and the foremost figure of Oxford "ordinary language philosophy." Appointed White's Professor of Moral Philosophy at the University of Oxford in 1952, Austin pioneered speech act theory and developed an exacting method of linguistic analysis that challenged logical positivism, formal semantics, and philosophical reductions of meaning to truth conditions.
+John Langshaw Austin (1911–1960) was a British philosopher of language and a leading figure of Oxford "ordinary language philosophy." Appointed White's Professor of Moral Philosophy at the University of Oxford in 1952, Austin pioneered speech act theory and developed an exacting method of linguistic analysis that challenged logical positivism, formal semantics, and philosophical reductions of meaning to truth conditions.
 
 ## Life and Academic Career
 
 Austin was born in Lancaster on 26 March 1911. He was educated at Shrewsbury School and Balliol College, Oxford, where he took First Class Honours in Classics (*Literae Humaniores*) in 1933. That same year he was elected a Fellow of All Souls College, moving to Magdalen College as Fellow and Tutor in Philosophy in 1935. 
 
-During World War II, Austin served in the British Army Intelligence Corps (MI9), rising to the rank of lieutenant colonel. He played a central role in intelligence analysis and topographical planning for the Normandy landings (D-Day), receiving the Order of the British Empire (OBE) and the French Croix de Guerre. Returning to Oxford, he became the intellectual leader of Oxford philosophy in the 1950s, famous for his rigorous "Saturday morning" discussion meetings. In 1955 he delivered the prestigious William James Lectures at Harvard University, which formed the foundation of his posthumously published masterwork *How to Do Things with Words*. Austin died of lung cancer in Oxford on 8 February 1960 at the age of forty-eight.
+During World War II, Austin served in the British Army Intelligence Corps, rising to the rank of lieutenant colonel. He worked on intelligence preparation for the Normandy landings and was awarded the OBE and the French Croix de Guerre. Returning to Oxford, he became the intellectual leader of Oxford philosophy in the 1950s, famous for his rigorous "Saturday morning" discussion meetings. In 1955 he delivered the prestigious William James Lectures at Harvard University, which formed the foundation of his posthumously published masterwork *How to Do Things with Words*. Austin died of lung cancer in Oxford on 8 February 1960 at the age of forty-eight.
 
 ## Philosophical Contributions
 
@@ -43,22 +43,22 @@ Because performatives are not truth-evaluable statements, Austin argued that the
 
 ### The Threefold Division of Speech Acts
 
-Austin subsequently demonstrated that the simple dichotomy between performative and constative dissolves upon closer inspection, because stating a fact is itself a speech act. In its place, he formulated a general theory of speech acts comprising three simultaneous dimensions:
+Austin subsequently argued that the simple dichotomy between performative and constative dissolves upon closer inspection, because stating a fact is itself a speech act. In its place, he formulated a general theory of speech acts comprising three simultaneous dimensions:
 1. **Locutionary act**: The physical and grammatical act of uttering sounds, words, and sentences with determinate meaning and reference.
 2. **Illocutionary act**: The act performed *in* saying something, bearing a conventional force (such as asserting, commanding, promising, warning, or apologizing).
 3. **Perlocutionary act**: The consequential effects produced *by* saying something on the thoughts, feelings, or actions of the audience (such as persuading, alarming, or consoling).
 
 ### Critique of Sense-Data and Ordinary Perception
 
-In *Sense and Sensibilia* (reconstructed from lectures delivered between 1947 and 1959), Austin mounted a devastating critique of the epistemological theory of sense-data advanced by A. J. Ayer and H. H. Price. Austin demonstrated that sense-data theories depend on a false dichotomy between direct perception and illusion, distorting ordinary words such as "real," "looks," and "appears." By analyzing how ordinary language actually operates in everyday contexts, Austin argued for direct realism: human beings perceive physical objects directly, not internal sensory intermediaries.
+In *Sense and Sensibilia* (reconstructed from lectures delivered between 1947 and 1959), Austin mounted a sustained critique of the epistemological theory of sense-data advanced by A. J. Ayer and H. H. Price. Austin argued that sense-data theories depend on a false dichotomy between direct perception and illusion, distorting ordinary words such as "real," "looks," and "appears." By analyzing how ordinary language actually operates in everyday contexts, His critique is often read as supporting a direct-realist view of perception, though Austin did not himself advance a positive theory.
 
 ### The Grammar of Action: "A Plea for Excuses"
 
-In his celebrated 1956 paper "A Plea for Excuses," Austin demonstrated that linguistic nuance is essential for moral philosophy. By examining the subtle differences among ways we excuse or qualify actions—distinguishing between doing something "by mistake," "by accident," "inadvertently," or "under duress"—Austin showed that ordinary language embodies distinctions refined through centuries of human practical experience, providing a far more reliable foundation for ethics than artificial philosophical abstractions.
+In his celebrated 1956 paper "A Plea for Excuses," Austin argued that linguistic nuance is essential for moral philosophy. By examining the subtle differences among ways we excuse or qualify actions—distinguishing between doing something "by mistake," "by accident," "inadvertently," or "under duress"—Austin suggested that ordinary language embodies distinctions refined through centuries of human practical experience, a resource he thought philosophy should not ignore.
 
 ## Influence and Reception
 
-Austin's work laid the foundations for modern linguistic pragmatics and revolutionized the philosophy of language. His student John Searle formalized and expanded speech act theory into a systematic taxonomy of illocutionary acts and institutional reality. H. Paul Grice developed conversational implicature alongside Austin's framework. 
+Austin's work laid the foundations for modern linguistic pragmatics and shaped the philosophy of language. His student John Searle formalized and expanded speech act theory into a systematic taxonomy of illocutionary acts and institutional reality. H. Paul Grice, an Oxford contemporary, developed the theory of conversational implicature. 
 
 Beyond analytic philosophy, Austin's concept of performativity exerted major influence across the humanities. Jacques Derrida's critical deconstruction of Austin in "Signature Event Context" (1972) provoked a fierce debate with Searle regarding intentionality and conventionality. In critical and gender theory, Judith Butler famously adapted Austinian performativity to argue that gender identity is constituted through repeated, normative performative acts rather than an essential natural essence.
 
@@ -71,7 +71,7 @@ Critics have noted that Austin's criteria for felicity remain ambiguous regardin
 - "A Plea for Excuses" (1956).
 - *Philosophical Papers*, ed. J. O. Urmson and G. J. Warnock (Oxford: Clarendon Press, 1961).
 - *Sense and Sensibilia*, ed. G. J. Warnock (Oxford: Clarendon Press, 1962).
-- *How to Do Things with Words*, ed. J. O. Urmson and Marina Sbisà (Oxford: Clarendon Press, 1962; 2nd ed. 1975).
+- *How to Do Things with Words*, ed. J. O. Urmson (Oxford: Clarendon Press, 1962; 2nd ed., ed. J. O. Urmson and Marina Sbisà, 1975).
 
 ## Sources
 
@@ -79,4 +79,4 @@ Critics have noted that Austin's criteria for felicity remain ambiguous regardin
 - Austin, J. L., *Sense and Sensibilia*, Oxford: Clarendon Press, 1962.
 - Austin, J. L., *Philosophical Papers*, ed. J. O. Urmson and G. J. Warnock, Oxford: Clarendon Press, 1961.
 - Warnock, G. J., *J. L. Austin*, London: Routledge, 1989.
-- Sbisà, Marina and Smith, J. O. (eds.), *Essays on J. L. Austin*, Oxford: Clarendon Press, 1973.
+- Berlin, Isaiah, et al., *Essays on J. L. Austin*, Oxford: Clarendon Press, 1973.

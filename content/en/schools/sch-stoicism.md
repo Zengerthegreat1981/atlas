@@ -38,7 +38,7 @@ A philosophical school founded in Athens around 300 BCE by **Zeno of Citium** (c
 
 - **Zeno of Citium** (c. 334–c. 262 BCE): founder, of Phoenician origin from Cyprus.
 - **Cleanthes** (c. 330–c. 230 BCE): successor of Zeno, author of the *Hymn to Zeus*.
-- **Chrysippus** (c. 279–c. 206 BCE): the third head of the school, its greatest systematizer and a creator of propositional logic, said to have written some 700 works, which are lost.
+- **Chrysippus** (c. 279–c. 206 BCE): the third head of the school, its most important systematizer and a major developer of propositional logic, said to have written some 700 works, which are lost.
 - **Panaetius** (c. 185–c. 110 BCE) and **Posidonius** (c. 135–c. 51 BCE): leading Middle Stoics; Posidonius is known for his scientific and historical work.
 - **Seneca** (c. 4 BCE–65 CE): Roman statesman, tutor and adviser of Nero, who was forced to take his own life; author of the *Letters to Lucilius* and philosophical essays.
 - **Epictetus** (c. 50–c. 135 CE): a former slave who taught in Nicopolis; his *Discourses* and *Handbook* were recorded by his pupil Arrian.

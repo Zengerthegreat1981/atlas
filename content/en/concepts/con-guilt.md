@@ -37,7 +37,7 @@ Primary existential literature articulates several distinct ontological and clin
 - **Paul Tillich** (*The Courage to Be*, 1952, Ch. 2): identifies the "anxiety of guilt and condemnation" as one of the three fundamental existential anxieties of human beings. It stems from the painful awareness of the chasm between what a person actually is and what they essentially were called to be.
 - **Rollo May** (*Existence*, 1958, Ch. 2): outlines three distinct forms of ontological guilt arising from the three modes of world: guilt related to *Umwelt* (separation from nature and physical reality), *Mitwelt* (failure to fully understand or meet fellow human beings), and *Eigenwelt* (the betrayal or forfeiture of one's own authentic potentialities).
 - **James F. T. Bugental** (*The Search for Authenticity*, 1965): analyzes existential guilt as the subjective distress that alerts an individual to their own inauthentic living, serving as an inner prompt to align life with genuine potential.
-- **Irvin D. Yalom** (*Existential Psychotherapy*, 1980, Ch. 6): while omitting guilt from his list of four ultimate concerns, treats it under the rubric of responsibility as self-directed existential guilt—the realization of the unlived life and the failure to actualize one's inherent possibilities.
+- **Irvin D. Yalom** (*Existential Psychotherapy*, 1980): while omitting guilt from his list of four ultimate concerns, treats it under the rubric of responsibility as self-directed existential guilt—the realization of the unlived life and the failure to actualize one's inherent possibilities.
 
 ## How It Appears in the Session
 

@@ -21,7 +21,7 @@ gaps: []
 
 # Rudolf Carnap
 
-A German-American philosopher, one of the most prominent members of the Vienna Circle, and the most important theorist of logical positivism in its methodical formulation. He was born in 1891 in Ronsdorf, Germany, and died in 1970 in Santa Monica, California. He emigrated to the United States in 1935 with the rise of Nazism, and worked as a professor at the University of Chicago from 1936 to 1952, then at the Institute for Advanced Study in Princeton (1952–54), then at the University of California, Los Angeles, from 1954 until his retirement.
+A German-American philosopher, one of the most prominent members of the Vienna Circle, and a leading theorist of logical positivism in its methodical formulation. He was born in 1891 in Ronsdorf, Germany, and died in 1970 in Santa Monica, California. He emigrated to the United States in 1935 with the rise of Nazism, and worked as a professor at the University of Chicago from 1936 to 1952, then at the Institute for Advanced Study in Princeton (1952–54), then at the University of California, Los Angeles, from 1954 until his retirement.
 
 ## Formation and Career
 
@@ -41,7 +41,7 @@ The Arab reader came to know logical positivism in the 1950s through Zaki Naguib
 
 ## Limits of the Project and Its Critique
 
-Carnap's programme faced criticism from within the analytic tradition itself. Quine, in "Two Dogmas of Empiricism" (1951), attacked the analytic-synthetic distinction on which Carnap's division between internal and external questions rests, and held that the sensory reduction Carnap sought is an illusion. Thomas Kuhn and other researchers showed that science changes through revolutions in frameworks, which Carnap's conception of a fixed language does not easily accommodate. The verification criterion itself remained exposed to unresolved difficulties, among them that general laws are never finally verified, and that the criterion does not satisfy its own condition. As for Carnap, he gradually softened the criterion to confirmability.
+Carnap's programme faced criticism from within the analytic tradition itself. Quine, in "Two Dogmas of Empiricism" (1951), attacked the analytic-synthetic distinction on which Carnap's division between internal and external questions rests, and held that the sensory reduction Carnap sought is an illusion. Thomas Kuhn and other researchers argued that science changes through revolutions in frameworks, which Carnap's conception of a fixed language does not easily accommodate. The verification criterion itself remained exposed to unresolved difficulties, among them that general laws are never finally verified, and that the criterion does not satisfy its own condition. As for Carnap, he gradually softened the criterion to confirmability.
 
 ## What He Contributed
 
@@ -60,7 +60,7 @@ Carnap's programme faced criticism from within the analytic tradition itself. Qu
 
 ## Influence
 
-Carnap is considered the most important bridge between European logical positivism and American Quinean naturalism. Quine was his friend and foremost interlocutor; he met him in Prague in 1933, and a philosophical dialogue began between them that lasted decades.
+Carnap is considered an important bridge between European logical positivism and American Quinean naturalism. Quine was his friend and a major interlocutor; he met him in Prague in 1933, and a philosophical dialogue began between them that lasted decades.
 
 ## Sources
 

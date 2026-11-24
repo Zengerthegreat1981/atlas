@@ -22,7 +22,7 @@ gaps: []
 ---
 # Melanie Klein
 
-A British psychoanalyst of Austrian origin, pioneer and founder of the "object relations" current (Object Relations Theory) and a founder of the psychoanalysis of children through play technique.
+A British psychoanalyst of Austrian origin, a pioneer of the "object relations" current (Object Relations Theory) and of the psychoanalysis of children through play technique.
 
 ## What She Contributed
 
@@ -35,7 +35,7 @@ A British psychoanalyst of Austrian origin, pioneer and founder of the "object r
 
 ## Her Place in the Current
 
-Leader of the Kleinian school in the British Psychoanalytical Society, and the most important figure to have produced a theoretical and clinical revolution parallel to Freud's in the twentieth century.
+Leader of the Kleinian school in the British Psychoanalytical Society, and a major, highly influential and controversial post-Freudian theorist.
 
 ## Limitations
 
@@ -53,7 +53,7 @@ Even so, much of her remained: the positions, projective identification, and rep
 
 ## Selected Quotation
 
-"In their play children represent symbolically phantasies, wishes and experiences. Here they are employing the same language, the same archaic, 'phylogenetically acquired' mode of expression as is familiar to us in dreams." — *The Psycho-Analysis of Children* (1932, Chapter 1)
+In *The Psycho-Analysis of Children* (1932) she argued that children's play expresses phantasies, wishes and experiences symbolically, in a mode of expression comparable to that of dreams.
 
 ## Her Most Important Works
 

@@ -21,7 +21,7 @@ gaps: []
 
 # Elizabeth F. Loftus
 
-Elizabeth F. Loftus (born 1944) is an American cognitive psychologist, Distinguished Professor at the University of California, Irvine, and the pioneering researcher on the malleability and reconstructive nature of human memory. Best known for discovering the **misinformation effect** and demonstrating the generation of rich false autobiographical memories, Loftus has exerted a profound influence on both cognitive psychology and the legal system.
+Elizabeth F. Loftus (born 1944) is an American cognitive psychologist, Distinguished Professor at the University of California, Irvine, and a leading researcher on the malleability and reconstructive nature of human memory. Best known for discovering the **misinformation effect** and demonstrating the generation of rich false autobiographical memories, Loftus has exerted a profound influence on both cognitive psychology and the legal system.
 
 ## Historical Context and Background
 
@@ -35,9 +35,7 @@ During the 1970s, the legal system routinely treated confident eyewitness accoun
 
 In a foundational 1974 study with John Palmer, Loftus demonstrated that post-event wording can systematically alter an eyewitness's memory representation. Participants viewed filmed automobile accidents and were asked: "About how fast were the cars going when they [smashed / collided / bumped / hit / contacted] each other?" Participants who received the verb "smashed" provided significantly higher speed estimates than those who received "hit." One week later, without viewing the video again, participants were asked whether they had seen broken glass (none was present in the film). Significantly more participants in the "smashed" condition falsely remembered seeing broken glass.
 
-Loftus formalized this phenomenon as the **misinformation effect**: misleading information encountered *after* an event becomes integrated into the original memory trace, leading to distorted recollection. In *Eyewitness Testimony* (1979, p. 54), she stated:
-> "During the retention interval, however, new information may be acquired that can alter or supplement the original memory representation. If this happens, what a witness subsequently reports will not be a pure reflection of the original event."
-
+Loftus formalized this phenomenon as the **misinformation effect**: misleading information encountered *after* an event becomes integrated into the original memory trace, leading to distorted recollection. 
 ### The "Lost in the Mall" Technique and False Autobiographical Memories
 
 Extending her research from modifying specific details to implanting entirely fabricated childhood autobiographical events, Loftus and Jacqueline Pickrell developed the "Lost in the Mall" paradigm in 1995. With the cooperation of participants' families, researchers presented adult subjects with four childhood stories—three genuine and one fabricated (getting lost in a shopping mall at age five, crying, and being comforted by an elderly stranger before reuniting with family). Approximately 25% of participants came to believe the fabricated event had actually occurred, with many elaborating the false memory with vivid sensory and emotional details of their own.
@@ -56,7 +54,7 @@ During the 1980s and 1990s, Loftus became a central figure in the contentious "M
 
 ## Major Works
 
-- *Eyewitness Testimony* (1979; National Book Award in Science finalist).
+- *Eyewitness Testimony* (1979).
 - *Witness for the Defense: The Accused, the Eyewitness, and the Expert Who Puts Memory on Trial* (with Katherine Ketcham, 1991).
 - *The Myth of Repressed Memory: False Memories and Allegations of Sexual Abuse* (with Katherine Ketcham, 1994).
 - "Reconstruction of automobile destruction: An example of the interaction between language and memory" (with John C. Palmer, 1974).
@@ -69,3 +67,4 @@ During the 1980s and 1990s, Loftus became a central figure in the contentious "M
 - Loftus, E. F., & Pickrell, J. E. (1995). "The formation of false memories." *Psychiatric Annals*, 25(12), 720–725.
 - Loftus, E. F. (2005). "Planting misinformation in the human mind: A 30-year investigation of the malleability of memory." *Learning & Memory*, 12(4), 361–366.
 - Pezdek, K., Finger, K., & Hodge, D. (1997). "Planting false childhood memories: The role of event plausibility." *Child Development*, 68(5), 887–895.
+- Brewin, C. R., & Andrews, B. (2017). Creating memories for false autobiographical events in childhood: A systematic review. *Applied Cognitive Psychology*, 31(1), 2–23.

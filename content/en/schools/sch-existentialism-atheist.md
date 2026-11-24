@@ -31,7 +31,7 @@ Its roots go back to Nietzsche and his proclamation of the "death of God" in *Th
 
 ## Key Figures
 
-- **Jean-Paul Sartre** (1905–1980): the founder. *Being and Nothingness* (1943), *Existentialism Is a Humanism* (1946), *Critique of Dialectical Reason* (1960); he declined the Nobel Prize in Literature in 1964.
+- **Jean-Paul Sartre** (1905–1980): the movement's leading public figure. *Being and Nothingness* (1943), *Existentialism Is a Humanism* (1946), *Critique of Dialectical Reason* (1960); he declined the Nobel Prize in Literature in 1964.
 - **Simone de Beauvoir** (1908–1986): the ethics of ambiguity and the analysis of the oppression of women. *The Ethics of Ambiguity* (1947), *The Second Sex* (1949), which contains her phrase "One is not born, but rather becomes, a woman."
 - **Maurice Merleau-Ponty** (1908–1961): the phenomenology of the body in *Phenomenology of Perception* (1945); he drew away from Sartre in the 1950s.
 - **Albert Camus** (1913–1960): *The Stranger* and *The Myth of Sisyphus* (1942), then *The Rebel* (1951); he broke with Sartre in 1952 after a controversy over *The Rebel* in *Les Temps modernes*, and he himself rejected the label of existentialist.
@@ -58,7 +58,7 @@ The two were friends from 1943-44, when Camus's *The Stranger* had drawn Sartre'
 
 ## Atheist Existentialism and Philosophical Anarchism
 
-Atheist existentialism shares significant theoretical ground with philosophical anarchism, particularly in its radical rejection of external moral authority, sovereign hierarchy, and institutional coercion. Sartre’s ontological claim that the human being is "condemned to be free" locates moral responsibility entirely in the individual agent, denying the legitimacy of state dictates, naturalized social roles, or bourgeois legalism. While Sartre engaged closely with Marxism from the 1950s onward, he consistently rejected bureaucratic party authoritarianism and Soviet statism. In his late life (notably in his 1975 interviews), Sartre explicitly characterized his political stance as libertarian and anarchist, declaring that he had always been an anarchist in his fundamental mistrust of state sovereignty and hierarchical power. Similarly, Simone de Beauvoir’s critique of patriarchal and institutional domination, and Albert Camus’s defense of non-dogmatic rebellion against state violence and ideological terror, aligned existentialist ethics closely with libertarian socialist and anarcho-syndicalist traditions.
+Atheist existentialism shares significant theoretical ground with philosophical anarchism, particularly in its radical rejection of external moral authority, sovereign hierarchy, and institutional coercion. Sartre’s ontological claim that the human being is "condemned to be free" locates moral responsibility entirely in the individual agent, denying the legitimacy of state dictates, naturalized social roles, or bourgeois legalism. While Sartre engaged closely with Marxism from the 1950s onward, he consistently rejected bureaucratic party authoritarianism and Soviet statism. In his later years (in interviews of the 1970s), Sartre described his political outlook in libertarian terms, stressing his mistrust of state power and hierarchy, though he never formulated a systematic anarchist theory. Camus's defense of limited rebellion against state violence and ideological terror is also often read as close to libertarian socialist traditions, but these affinities are interpretive and the thinkers themselves did not adopt the label of anarchism as a school.
 
 ## Arab Reception
 

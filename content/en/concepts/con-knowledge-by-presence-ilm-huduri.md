@@ -26,7 +26,7 @@ Knowledge by presence (*al-'ilm al-huduri*) is a foundational epistemological do
 
 ## Historical Foundations: Ibn Sina to Suhrawardi
 
-The conceptual groundwork was laid by Avicenna (Ibn Sina) through his celebrated "Floating Man" (*al-insan al-mu'allaq*) thought experiment in *al-Shifa': al-Nafs* (Book I, Ch. 1). Avicenna argued that an adult human created suspended in empty space, blindfolded and deprived of all tactile and sensory inputs, would nonetheless remain unquestionably aware of their own existence, demonstrating that primary self-consciousness is prior to sensory perception and independent of bodily states.
+The conceptual groundwork was laid by Avicenna (Ibn Sina) through his celebrated "Floating Man" (*al-insan al-mu'allaq*) thought experiment in *al-Shifa': al-Nafs* (Book I, Ch. 1). Avicenna argued that an adult human created suspended in empty space, blindfolded and deprived of all tactile and sensory inputs, would nonetheless remain unquestionably aware of their own existence, suggesting that primary self-consciousness is prior to sensory perception and independent of bodily states.
 
 Shihab al-Din Yahya al-Suhrawardi (1154–1191, *Shaykh al-Ishraq*) transformed this insight into a comprehensive epistemological foundation in *Hikmat al-Ishraq* (The Philosophy of Illumination, 1186). Suhrawardi launched a critique of Peripatetic Aristotelian epistemology: defining an object by essential genus and differentia (*al-hadd bi-l-jins wa-l-fasl*) produces acquired knowledge that remains circular or dependent on prior direct apprehension. He argued that the soul's knowledge of itself cannot occur via an acquired mental form; if it were a form, one would require a further act to recognize that this form belongs to oneself, triggering an infinite regress. Self-consciousness is thus an unmediated, luminous self-presence (*ishraq*). Suhrawardi extended this principle to the apprehension of incorporeal entities ("abstract lights") and first principles.
 
@@ -35,7 +35,7 @@ Shihab al-Din Yahya al-Suhrawardi (1154–1191, *Shaykh al-Ishraq*) transformed 
 Sadr al-Din Muhammad al-Shirazi (Mulla Sadra, c. 1571–1640) generalized knowledge by presence within his ontology of the primacy of existence (*asalat al-wujud*):
 1. **The Ontological Scope**: In *al-Hikma al-Muta'aliya fi al-Asfar al-'Aqliyya al-Arba'a*, Sadra posited that knowledge by presence is not confined to human self-awareness, but governs the soul's knowledge of its own imaginative and intellectual faculties, the ontological relation of causes knowing their effects, and God's omniscience regarding creation.
 2. **Epistemological Immunity to Error**: In the twentieth century, Allamah Sayyid Muhammad Husayn Tabataba'i, in *Usul al-Falsafa wa al-Manhaj al-Waqi'i* (Principles of Philosophy and the Method of Realism, 1953), utilized knowledge by presence to refute philosophical skepticism. Because knowledge by presence involves the direct presence of being rather than a representative intermediary, it is intrinsically immune to epistemic error; error arises solely when acquired knowledge and propositions are constructed to describe that presence.
-3. **Comparative Metaphysics**: Mehdi Ha'iri Yazdi, in *The Principles of Epistemology in Islamic Philosophy: Knowledge by Presence* (1992), systematized this doctrine for contemporary analytic and comparative philosophy, demonstrating its relevance to self-referential knowledge and privileged first-person access.
+3. **Comparative Metaphysics**: Mehdi Ha'iri Yazdi, in *The Principles of Epistemology in Islamic Philosophy: Knowledge by Presence* (1992), systematized this doctrine for contemporary analytic and comparative philosophy, arguing for its relevance to self-referential knowledge and privileged first-person access.
 
 ## Parallels with Phenomenological and Contemporary Thought
 
@@ -51,4 +51,4 @@ Nonetheless, significant differences remain: while phenomenology restricts its a
 - Mehdi Ha'iri Yazdi, *The Principles of Epistemology in Islamic Philosophy: Knowledge by Presence*, State University of New York Press, 1992.
 - Hossein Ziai, *Knowledge and Illumination: A Study of Suhrawardi's Hikmat al-Ishraq*, Scholars Press, 1990.
 - Ibrahim Kalin, *Knowledge in Later Islamic Philosophy: Mulla Sadra on Existence, Intellect, and Intuition*, Oxford University Press, 2010.
-- Allamah Sayyid Muhammad Husayn Tabataba'i, *Usul al-Falsafa wa al-Manhaj al-Waqi'i*, with commentary by Murtada Mutahhari, Qom: Entesharat-e Sadra, 1953.
+- Allamah Sayyid Muhammad Husayn Tabataba'i, *Usul al-Falsafa wa al-Manhaj al-Waqi'i*, with commentary by Murtada Mutahhari (Persian original first published from 1953).

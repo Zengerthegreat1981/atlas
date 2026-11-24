@@ -54,6 +54,6 @@ From a clinical diagnostic standpoint, it is critical that depressive symptoms, 
 - Butler, R. N. (1963). The life review: An interpretation of reminiscence in the aged. *Psychiatry*, 26(1), 65–76.
 - Carstensen, L. L. (1992). Social and emotional patterns in adulthood: Support for socioemotional selectivity theory. *Psychology and Aging*, 7(3), 331–338.
 - Erikson, E. H. (1950). *Childhood and Society*. W. W. Norton.
-- Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+- Frankl, V. E. (1959). *From Death-Camp to Existentialism* (later retitled *Man's Search for Meaning*). Beacon Press.
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 - Yalom, I. D. (2008). *Staring at the Sun: Overcoming the Terror of Death*. Jossey-Bass.

@@ -34,7 +34,7 @@ Yalom's eleven therapeutic factors are the standard account of how groups heal. 
 
 ## Key Figures
 
-Joseph Pratt founded the method by accident and by attention, noticing that the group did something his lectures could not. Jacob Moreno made the group a stage and a laboratory. S. H. Foulkes made it a matrix, and his group-analytic tradition remains strong in Britain and Europe. Wilfred Bion gave the field its most penetrating account of group unconscious life. Irvin Yalom gave it its textbook, its research programme, and its humane voice; the fifth edition of his book, with Molyn Leszcz (2005), remains the standard text. Gary Burlingame and his colleagues built the empirical literature, testing which factors predict outcome and which groups work for whom.
+Joseph Pratt is often counted among the method's earliest pioneers; he noticed that the group did something his lectures could not. Jacob Moreno made the group a stage and a laboratory. S. H. Foulkes made it a matrix, and his group-analytic tradition remains strong in Britain and Europe. Wilfred Bion gave the field its most penetrating account of group unconscious life. Irvin Yalom gave it its textbook, its research programme, and its humane voice; the fifth edition of his book, with Molyn Leszcz (2005), remains the standard text. Gary Burlingame and his colleagues built the empirical literature, testing which factors predict outcome and which groups work for whom.
 
 ## Evidence and Influence
 
@@ -46,6 +46,6 @@ Group therapy has a substantial research base. Meta-analyses, including Burlinga
 - S. H. Foulkes, *Introduction to Group-Analytic Psychotherapy*, 1948.
 - Wilfred R. Bion, *Experiences in Groups and Other Papers*, 1961.
 - Irvin D. Yalom, *The Theory and Practice of Group Psychotherapy*, 1970.
-- Gary M. Burlingame, Bernhard Fuhriman, and Joyce E. Mosier, "The Differential Effectiveness of Group Psychotherapy: A Meta-Analytic Perspective," *Group Dynamics: Theory, Research, and Practice*, 2003.
+- Gary M. Burlingame, Addie Fuhriman, and Joyce E. Mosier, "The Differential Effectiveness of Group Psychotherapy: A Meta-Analytic Perspective," *Group Dynamics: Theory, Research, and Practice*, 2003.
 - Irvin D. Yalom and Molyn Leszcz, *The Theory and Practice of Group Psychotherapy*, 5th ed., 2005.
 - Gerald Corey, *Theory and Practice of Group Counseling*, 9th ed., 2016.

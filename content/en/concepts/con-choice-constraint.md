@@ -63,7 +63,7 @@ Clinically, therapists must avoid using the language of "choice" in ways that bl
 ## Sources
 
 - Beauvoir, S. de (1953). *The Second Sex* (H. M. Parshley, Trans.). Alfred A. Knopf. (Original French work published 1949).
-- Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+- Frankl, V. E. (1959). *From Death-Camp to Existentialism* (later retitled *Man's Search for Meaning*). Beacon Press.
 - Heidegger, M. (1962). *Being and Time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original German work published 1927).
 - May, R. (1969). *Love and Will*. W. W. Norton.
 - Sartre, J.-P. (1956). *Being and Nothingness: An Essay on Phenomenological Ontology* (H. E. Barnes, Trans.). Philosophical Library. (Original French work published 1943).

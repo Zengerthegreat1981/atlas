@@ -26,7 +26,7 @@ gaps: []
 
 # Transcendent Theosophy (Mullā Ṣadrā)
 
-Transcendent Theosophy is a philosophical doctrine formulated by Sadr al-Din Muhammad ibn Ibrahim al-Shirazi, known as Mulla Sadra (979 or 980–1050 AH / 1571 or 1572–1640 CE), in Safavid-era Iran. It is an attempt to combine four paths into a single system: Avicennian Peripatetic philosophy, Suhrawardian illuminationist wisdom, the theoretical gnosis (irfan) associated with Ibn Arabi, and the theological and religious knowledge drawn from the Qur'an and the hadith. Sadra calls his comprehensive book *The Transcendent Theosophy in the Four Intellectual Journeys*. It is among the most influential systems in late Islamic philosophy, and it is still taught in the seminaries and universities of Iran and elsewhere.
+Transcendent Theosophy is a philosophical doctrine formulated by Sadr al-Din Muhammad ibn Ibrahim al-Shirazi, known as Mulla Sadra (979 or 980–1050 AH / 1571 or 1572–1640 CE), in Safavid-era Iran. It is an attempt to combine four paths into a single system: Avicennian Peripatetic philosophy, Suhrawardian illuminationist wisdom, the theoretical gnosis (irfan) associated with Ibn Arabi, and the theological and religious knowledge drawn from the Qur'an and the hadith. Sadra calls his comprehensive book *The Transcendent Theosophy in the Four Intellectual Journeys*. It is one of the most influential systems in late Islamic philosophy, and it is still taught in the seminaries and universities of Iran and elsewhere.
 
 ## Biography and Context
 
@@ -45,7 +45,7 @@ Mulla Sadra was born in Shiraz to a well-off family and studied in Isfahan, the 
 ## The Influence of Ibn ʿArabī and Waḥdat al-Wujūd
 
 The relationship between Mullā Ṣadrā and the mystical tradition of Ibn ʿArabī and his commentators (notably Ṣadr al-Dīn al-Qūnawī, Dāwūd al-Qayṣarī, and ʿAbd al-Razzāq al-Kāshānī) is central to Transcendent Theosophy. Ṣadrā integrated the theoretical gnosis (*ʿirfān naẓarī*) of Akbarian metaphysics into a rigorous philosophical discourse:
-- **From Gradation to Unity**: Modern commentators (such as Fazlur Rahman, Toshihiko Izutsu, and Sajjad Rizvi) observe a deliberate pedagogical progression in the *Asfār*. Ṣadrā begins by defending the systematic gradation (*tashkīk*) of multiple existents to satisfy discursive philosophical inquiry, but advances in later volumes to a unified metaphysical monism akin to Ibn ʿArabī's *waḥdat al-wujūd* (the unity of being).
+- **From Gradation to Unity**: Some modern commentators have observed a progression in the *Asfār*. Ṣadrā begins by defending the systematic gradation (*tashkīk*) of multiple existents to satisfy discursive philosophical inquiry, but advances in later volumes to a unified metaphysical monism akin to Ibn ʿArabī's *waḥdat al-wujūd* (the unity of being).
 - **Relational Existence (*wujūd rābiṭ*)**: In Ṣadrā's culminating ontology, contingent entities do not possess independent, self-standing existence that merely receives divine light; rather, they are sheer relations, dependencies, and connective manifestations (*rawābiṭ*) of the single, absolute Reality. Multiple phenomena are the epiphanies (*tajalliyāt*) and determinations (*shuʾūn*) of the divine essence, reconciling rational demonstration with unitive mystical perception.
 
 ## The Four Journeys
@@ -54,7 +54,7 @@ Sadra organizes his book on the journey of the gnostic: the journey from creatio
 
 ## The School and Its Students
 
-Among his students were Muhammad Muhsin Fayd Kashani (d. 1091 AH), who combined wisdom with hadith; Abd al-Razzaq Lahiji (d. 1072 AH), author of *Shawariq al-Ilham*; and Qadi Sa'id Qummi. It was then revived in the 13th century AH by Hadi Sabzawari (d. 1289 AH) with his *Sharh al-Manzuma*, and in the 14th century AH by Allama Muhammad Husayn Tabataba'i (1904–1981), who wrote *Bidayat al-Hikma* and *Nihayat al-Hikma* in Arabic as two textbooks, and who annotated the *Asfar* in the Beirut edition. Murtada Mutahhari, Abdullah Javadi Amoli and others studied under him. In the West, scholars came to know the school through Henry Corbin (1903–1978), then Seyyed Hossein Nasr and Fazlur Rahman.
+Among his students were Muhammad Muhsin Fayd Kashani (d. 1091 AH), who combined wisdom with hadith; Abd al-Razzaq Lahiji (d. 1072 AH), author of *Shawariq al-Ilham*; and later figures such as Qadi Sa'id Qummi belong to the same current. It was then revived in the 13th century AH by Hadi Sabzawari (d. 1289 AH) with his *Sharh al-Manzuma*, and in the 14th century AH by Allama Muhammad Husayn Tabataba'i (1904–1981), who wrote *Bidayat al-Hikma* and *Nihayat al-Hikma* in Arabic as two textbooks, and who annotated the *Asfar* in the Beirut edition. Murtada Mutahhari, Abdullah Javadi Amoli and others studied under him. In the West, scholars came to know the school through Henry Corbin (1903–1978), then Seyyed Hossein Nasr and Fazlur Rahman.
 
 ## Limits and Criticism
 

@@ -24,7 +24,7 @@ gaps: []
 
 # Charles Sanders Peirce
 
-An American philosopher, logician and mathematician, founder of pragmatism together with William James, and author of the Pragmatic Maxim, the theory of signs (semiotics) and the doctrine of continuity (synechism).
+An American philosopher, logician and mathematician, originator of pragmatism, which William James later popularized, and author of the Pragmatic Maxim, the theory of signs (semiotics) and the doctrine of continuity (synechism).
 
 ## Life and context
 
@@ -38,7 +38,7 @@ Peirce also laid the foundations of the theory of signs, regarding the sign as a
 
 In the doctrine of continuity (synechism), he held that every apparent discontinuity in facts results from neglect, and that reality is continuous, not discrete. Despite his association with pragmatism, he remained a realist on the question of universals, influenced by scholasticism in the form of Duns Scotus, and holds that generals are real and not merely names.
 
-In logic, Peirce founded what is known as the Logic of Relations in his essay "Description of a Notation for the Logic of Relatives" (1870), a work that later influenced Schröder and, through him, the development of modern logic in Peano and Russell. He also developed the system of Existential Graphs, a diagrammatic notation for logical reasoning.
+In logic, Peirce developed the logic of relations in his essay "Description of a Notation for the Logic of Relatives" (1870), a work that later influenced Schröder and, through him, the development of modern logic in Peano and Russell. He also developed the system of Existential Graphs, a diagrammatic notation for logical reasoning.
 
 ## Central ideas
 

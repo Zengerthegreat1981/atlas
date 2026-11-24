@@ -34,7 +34,7 @@ Leibniz was born in Leipzig, the son of a professor of moral philosophy, and was
 
 ## Leading Figures
 
-- **Gottfried Wilhelm Leibniz** (1646-1716): the founder.
+- **Gottfried Wilhelm Leibniz** (1646-1716): the central figure.
 - **Samuel Clarke** (1675-1729): Newton's defender in the *Leibniz-Clarke Correspondence* (1715-1716).
 - **Christian Wolff** (1679-1754): systematizer of Leibniz's rationalism in German, beginning with the *German Metaphysics* (1719); his teaching dominated German universities for decades.
 - **Christian August Crusius** (1715-1775): a Pietist critic of the Leibniz-Wolff system.

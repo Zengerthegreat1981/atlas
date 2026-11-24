@@ -26,7 +26,7 @@ British physician, psychoanalyst and philosopher (1897–1979), born in India an
 
 ## What he contributed
 
-He put forward an influential theory of thinking and of psychosis. He formulated the concept of "containment" (Container/Contained) and the mother's task of transforming raw, unprepared sensory impressions (beta elements) into elements capable of being thought and dreamed (alpha elements, through the alpha function and maternal reverie, Rêverie). He also founded the study of "group dynamics and their three basic assumptions" (dependency, fight/flight, and pairing) and the theory of transformation toward the unknown (O).
+He put forward an influential theory of thinking and of psychosis. He formulated the concept of "containment" (Container/Contained) and the mother's task of transforming raw, unprepared sensory impressions (beta elements) into elements capable of being thought and dreamed (alpha elements, through the alpha function and maternal reverie, Rêverie). He also pioneered the study of "group dynamics and their three basic assumptions" (dependency, fight/flight, and pairing) and the theory of transformation toward the unknown (O).
 
 ## His place in the movement
 

@@ -57,9 +57,9 @@ Four limitations on Lacan:
 
 ## Selected Quotations
 
-"I think where I am not, therefore I am where I do not think." — *Écrits* (1966, "The Agency of the Letter in the Unconscious", p. 515)
+"I think where I am not, therefore I am where I do not think." — *Écrits* (1966, "The Agency of the Letter in the Unconscious")
 
-"The unconscious is that chapter of my history that is marked by a blank or occupied by a lie: it is the censored chapter." — *Écrits* (1966, "The Function and Field of Speech and Language in Psychoanalysis", p. 259)
+"The unconscious is that chapter of my history that is marked by a blank or occupied by a lie: it is the censored chapter." — *Écrits* (1966, "The Function and Field of Speech and Language in Psychoanalysis")
 
 ## His most important works
 

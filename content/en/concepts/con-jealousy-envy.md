@@ -17,7 +17,7 @@ gaps: []
 ---
 # Jealousy and Envy
 
-Jealousy and envy are frequently conflated in everyday discourse, yet psychological research reveals a structural distinction in the social geometry of these emotions: the number of parties involved. Envy is fundamentally a dyadic emotion involving two entities: an individual desires a quality, possession, or achievement held by another. Jealousy is a triadic emotion involving three entities: an individual perceives a threat from a rival to an existing, valued relationship with a significant other. Formulated systematically by Richard Lazarus, this distinction explains why the two emotions generate distinct subjective experiences, behavioral reactions, and moral evaluations.
+Jealousy and envy are frequently conflated in everyday discourse, yet psychological research reveals a structural distinction in the social geometry of these emotions: the number of parties involved. Envy is fundamentally a dyadic emotion involving two entities: an individual desires a quality, possession, or achievement held by another. Jealousy is a triadic emotion involving three entities: an individual perceives a threat from a rival to an existing, valued relationship with a significant other. This distinction, drawn in appraisal-based accounts such as Lazarus's (1991), helps explain why the two emotions generate distinct subjective experiences, behavioral reactions, and moral evaluations.
 
 ## Definition and Core Concepts
 
@@ -55,6 +55,6 @@ In contemporary society, digital connectivity and social media algorithms contin
 - Shaver, P., Schwartz, J., Kirson, D., & O'Connor, C. (1987). "Emotion knowledge: Further exploration of a prototype approach". *Journal of Personality and Social Psychology*, 52(6), 1061–1086.
 - Smith, R. H., & Kim, S. H. (2007). "Comprehending envy". *Psychological Bulletin*, 133(1), 46–64.
 - van de Ven, N., Zeelenberg, M., & Pieters, R. (2009). "Leveling up and down: The experiences of benign and malicious envy". *Emotion*, 9(3), 419–429.
-- Al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din* [The Revival of the Religious Sciences]. Book XXXII: On Patience and Gratitude, and Book XXXV: On Envy.
+- Al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din* [The Revival of the Religious Sciences]. Book 25: On Condemnation of Anger, Rancor, and Envy.
 - Al-Razi, Abu Bakr. *Kitab al-Tibb al-Ruhani* [The Spiritual Physic]. Trans. A. J. Arberry as *The Spiritual Physick of Rhazes* (1950). John Murray.
-- Ibn Hazm, 'Ali ibn Ahmad. *Mudawat al-Nufus* [The Healing of Souls]. Ed. E. Renan.
+- Ibn Hazm, 'Ali ibn Ahmad. *Mudawat al-Nufus* [The Healing of Souls]. Various editions.

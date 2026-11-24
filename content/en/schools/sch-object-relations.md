@@ -51,7 +51,7 @@ Object relations theory radically transformed clinical psychoanalytic technique.
 
 ## Current Status
 
-The school remains a cornerstone of British psychoanalytic training (the Institute of Psychoanalysis in London) and directly influenced John Bowlby's attachment theory. Bowlby began his training within the Kleinian circle before diverging from it theoretically from the 1950s on, developing an attachment theory based on behavioral observation rather than purely symbolic interpretation.
+The school remains a cornerstone of British psychoanalytic training (the Institute of Psychoanalysis in London) and formed the training context of John Bowlby, whose attachment theory developed partly in reaction to it. Bowlby began his training within the Kleinian circle before diverging from it theoretically from the 1950s on, developing an attachment theory based on behavioral observation rather than purely symbolic interpretation.
 
 ## Criticism
 

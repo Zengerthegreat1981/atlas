@@ -61,7 +61,7 @@ This work culminated in formal nosological recognition in the World Health Organ
 2. **Negative self-concept:** persistent beliefs about oneself as diminished, defeated, or worthless, accompanied by profound shame, guilt, and failure.
 3. **Interpersonal difficulties:** persistent difficulties in sustaining close relationships and feeling emotional connection.
 
-In contrast, the American DSM-5-TR opted not to create a separate CPTSD diagnostic entity, instead incorporating dissociative symptoms as a PTSD subtype (PTSD with dissociative symptoms) and conceptualizing affect and interpersonal disturbances under Borderline Personality Disorder or other comorbid conditions. Clinical management of CPTSD generally emphasizes a phased, relationally anchored approach prioritizing stabilization, grounded affect regulation, and relational trust prior to trauma-narrative processing.
+In contrast, the American DSM-5-TR opted not to create a separate CPTSD diagnostic entity, instead including a dissociative subtype of PTSD; affect and interpersonal disturbances are not captured by a separate diagnosis and may be described through comorbid conditions. Clinical management of CPTSD generally emphasizes a phased, relationally anchored approach prioritizing stabilization, grounded affect regulation, and relational trust prior to trauma-narrative processing.
 
 ## Limits
 

@@ -19,7 +19,7 @@ gaps: []
 
 # Friedrich Nietzsche
 
-Friedrich Nietzsche (1844–1900) is one of the two founding fathers of existential thought, alongside Søren Kierkegaard — and his exact opposite in the answer he gives. Where Kierkegaard turned toward faith, Nietzsche diagnosed the collapse of inherited meaning and demanded that human beings create values of their own. His aphoristic, unsystematic writing has made him one of the most quoted and most contested philosophers of the modern age.
+Friedrich Nietzsche (1844–1900) is often counted, alongside Søren Kierkegaard, among the main precursors of existential thought — though he gives a very different answer. Where Kierkegaard turned toward faith, Nietzsche diagnosed the collapse of inherited meaning and demanded that human beings create values of their own. His aphoristic, unsystematic writing has made him one of the most quoted and most contested philosophers of the modern age.
 
 ## Life and Career
 
@@ -43,11 +43,11 @@ The eternal recurrence, introduced in *The Gay Science*, is a thought experiment
 
 ## Genealogy of Morals and Perspectivism
 
-In *On the Genealogy of Morals*, Nietzsche traces the history of moral values and argues that they arose from relations of power and conflict. What he calls "slave morality", built on ressentiment — the resentment of the powerless — inverted the older "master morality" that prized strength, pride and nobility, and revalued humility, pity and obedience as virtues. The method was revolutionary: values are not timeless truths but products of a history that can be investigated. His perspectivism holds that there is no knowledge without a point of view, and that a multiplicity of perspectives enriches understanding rather than abolishing truth. To "become what you are" is therefore not to discover a ready-made self but to make one.
+In *On the Genealogy of Morals*, Nietzsche traces the history of moral values and argues that they arose from relations of power and conflict. What he calls "slave morality", built on ressentiment — the resentment of the powerless — inverted the older "master morality" that prized strength, pride and nobility, and revalued humility, pity and obedience as virtues. The method was influential: values are not timeless truths but products of a history that can be investigated. His perspectivism holds that there is no knowledge without a point of view, and that a multiplicity of perspectives enriches understanding rather than abolishing truth. To "become what you are" is therefore not to discover a ready-made self but to make one.
 
 ## Influence and Critique
 
-Nietzsche's influence runs through twentieth-century philosophy, literature, psychology and political thought: existentialism, psychoanalysis, post-structuralism and modernist art all bear his mark. In the clinic his influence can be traced in the reluctance to direct a client toward a ready-made meaning and in work on unexamined values; he stands in contrast to Frankl within the existential tradition, since Frankl insists that meaning is discovered rather than created.
+Nietzsche's influence runs through twentieth-century philosophy, literature, psychology and political thought: existentialism, psychoanalysis, post-structuralism and modernist art all bear his mark. Within the existential tradition he stands in contrast to Frankl within the existential tradition, since Frankl insists that meaning is discovered rather than created.
 
 His legacy is complicated by the political misuse of his work. His sister's editing, her nationalist sympathies, and the Nazi appropriation of slogans like the Übermensch and the will to power attached his name to a politics he explicitly attacked — he denounced German nationalism and antisemitism in print. That history of distortion is displayed openly and is not used to dismiss his thought. Critics also note that his aphoristic, fragmentary style invites contradictory readings, and that his attacks on Christian and democratic morality can feed an elitism that despises the weak — a use Nietzsche himself rejected.
 

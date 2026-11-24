@@ -24,7 +24,7 @@ gaps: []
 
 # Jeremy Bentham
 
-An English philosopher and **legal reformer**, the **founder of modern utilitarianism**, who established the **greatest happiness principle** as a rule for legal, moral and political projects. His **preserved body** (the Auto-Icon) is still on display at **University College London** (UCL).
+An English philosopher and **legal reformer**, a **founding figure of modern utilitarianism**, who advanced the **greatest happiness principle** as a rule for legal, moral and political projects. His **preserved body** (the Auto-Icon) is still on display at **University College London** (UCL).
 
 ## What he contributed
 

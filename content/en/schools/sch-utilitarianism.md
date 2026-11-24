@@ -39,7 +39,7 @@ In *Utilitarianism* (published in 1861 and as a book in 1863), Mill sought to mo
 
 ## Sidgwick
 
-Sidgwick wrote *The Methods of Ethics* (1874), the most rigorous exposition of the doctrine. He grounded utilitarianism on rational axioms that make the general good an end, and concluded that practical reason is torn between two principles he could not reconcile, self-interest and the general good, which he called the "dualism of practical reason." His book remains a model of precise philosophical analysis of moral doctrines.
+Sidgwick wrote *The Methods of Ethics* (1874), a very rigorous exposition of the doctrine. He grounded utilitarianism on rational axioms that make the general good an end, and concluded that practical reason is torn between two principles he could not reconcile, self-interest and the general good, which he called the "dualism of practical reason." His book remains a model of precise philosophical analysis of moral doctrines.
 
 ## Relation to the Arab-Islamic Heritage
 

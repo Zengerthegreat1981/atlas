@@ -73,4 +73,4 @@ This entry covers the psychology and empirical research on shame and guilt. The 
 - Benedict, R. (1946). *The Chrysanthemum and the Sword: Patterns of Japanese Culture*. Houghton Mifflin.
 - Miskawayh, A. A. (c. 1000). *Tahdhib al-Akhlaq* [The Refinement of Character]. (C. Zurayk, Ed., 1966). American University of Beirut.
 - Al-Ghazali, A. H. (c. 1100). *Ihya' 'Ulum al-Din* [The Revival of the Religious Sciences]. Dar al-Minhaj.
-- Ibn Hazm, A. (c. 1040). *Al-Akhlaq wa al-Siyar* [In Pursuit of Virtue]. (E. Renan, Ed. / M. Abu Laylah, Trans., 1990). The Islamic Foundation.
+- Ibn Hazm, A. (c. 1040). *Al-Akhlaq wa al-Siyar* [In Pursuit of Virtue]. (M. Abu Laylah, Trans., 1990). Ta-Ha Publishers.

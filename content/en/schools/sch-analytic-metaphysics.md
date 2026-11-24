@@ -27,7 +27,7 @@ A philosophical movement active since the 1970s, which revived metaphysics as a 
 - **Modal metaphysics**: questions such as "Do numbers exist?" or "What are qualities?" can be examined through metaphysical necessity in Kripke's sense, with possible worlds as a tool for analyzing them.
 - **Abstract realism**: universals, natural kinds, sets and numbers exist objectively according to many adherents of the movement.
 - **The method of ontology**: Quine set the criterion of ontological commitment, "to be is to be the value of a bound variable", and the movement based its discussion on what our best theories commit us to.
-- **Priority and grounding (Grounding)**: in the last decade the concept of grounding has become central to explaining the relation between what is fundamental and what is derivative, as in Kit Fine and Jonathan Schaffer.
+- **Priority and grounding (Grounding)**: in recent years the concept of grounding has become central to explaining the relation between what is fundamental and what is derivative, as in Kit Fine and Jonathan Schaffer.
 - **Scientific realism**: it affirms that unobservable scientific entities exist and that successful theories are approximately true; this is closer to the philosophy of science but intersects with metaphysics.
 
 ## Contributions

@@ -18,7 +18,7 @@ gaps: []
 
 # Martin Buber
 
-Martin Buber (1878–1965) was a Jewish Austrian-Israeli philosopher and the founder of the philosophy of dialogue. His distinction between the "I–Thou" relation and the "I–It" relation, set out in *I and Thou* (*Ich und Du*, 1923), made him one of the closest religious voices to existentialism without ever fully belonging to it. He was not a therapist, yet his account of meeting shaped the idea of the therapeutic encounter for many existential therapists.
+Martin Buber (1878–1965) was a Jewish Austrian-Israeli philosopher and a leading figure in the philosophy of dialogue. His distinction between the "I–Thou" relation and the "I–It" relation, set out in *I and Thou* (*Ich und Du*, 1923), made him one of the closest religious voices to existentialism without ever fully belonging to it. He was not a therapist, yet his account of meeting shaped the idea of the therapeutic encounter for many existential therapists.
 
 ## Life
 
@@ -65,7 +65,7 @@ Emmanuel Levinas criticised Buber for making the relation mutual and symmetrical
 
 Buber influenced the philosophy of dialogue in Emmanuel Levinas and humanistic psychology through his famous 1957 dialogue with Carl Rogers at the University of Michigan on the nature of the therapeutic relationship.
 
-> "All real life is meeting." — *I and Thou*, 1923
+> "All actual life is encounter." — *I and Thou*, 1923 (Kaufmann translation)
 
 ## Sources
 

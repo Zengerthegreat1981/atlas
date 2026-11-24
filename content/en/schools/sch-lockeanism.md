@@ -32,7 +32,7 @@ Locke was born in Wrington, Somerset, into a Puritan-leaning family of modest ge
 
 ## Prominent Figures
 
-- **John Locke** (1632-1704): the founder.
+- **John Locke** (1632-1704): the central figure.
 - **Isaac Newton** (1642-1727): his friend and correspondent.
 - **Anthony Ashley Cooper, first Earl of Shaftesbury** (1621-1683): his patron.
 - **Damaris Cudworth Masham** (1659-1708): philosopher, daughter of Ralph Cudworth, and his close friend, in whose household he spent his last years.
@@ -109,7 +109,7 @@ Locke argues in the *Second Treatise* (chapter 5) that each person owns his own 
 ## Relation to Other Schools
 
 - **Continental rationalism**: opposed on innate ideas; Leibniz replied to Locke in the *New Essays* (written c. 1704, published 1765).
-- **British empiricism**: Locke is its founding systematic figure.
+- **British empiricism**: Locke is among its principal systematic figures.
 - **Berkeleianism**: Berkeley criticized Locke's abstract ideas and the primary/secondary quality distinction.
 - **Humeanism**: Hume took over the way of ideas but rejected Locke's notion of substance.
 - **Scottish Common Sense**: a response to the skeptical consequences drawn from the way of ideas.

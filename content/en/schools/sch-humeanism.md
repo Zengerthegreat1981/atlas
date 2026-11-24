@@ -23,7 +23,7 @@ gaps: []
 
 # Humeanism (Empirical Skepticism)
 
-A philosophical tradition deriving from **David Hume** (1711-1776), the Scottish philosopher and historian, often regarded as the greatest philosopher to write in English. Humeanism carries British empiricism to its skeptical conclusions and stands in tension with traditional metaphysics. Hume analysed causation as constant conjunction plus a habit of expectation rather than a discernible power, denied that the self is an observable substance, argued that testimony can hardly establish miracles, and criticised natural theology. He influenced Kant, utilitarianism, logical positivism, and much twentieth-century philosophy.
+A philosophical tradition deriving from **David Hume** (1711-1776), the Scottish philosopher and historian, regarded by many as the most important philosopher to write in English. Humeanism carries British empiricism to its skeptical conclusions and stands in tension with traditional metaphysics. Hume analysed causation as constant conjunction plus a habit of expectation rather than a discernible power, denied that the self is an observable substance, argued that testimony can hardly establish miracles, and criticised natural theology. He influenced Kant, utilitarianism, logical positivism, and much twentieth-century philosophy.
 
 ## Founding Context
 
@@ -31,7 +31,7 @@ Hume was born in Edinburgh into a Scottish Presbyterian family and attended the 
 
 ## Leading Figures
 
-- **David Hume** (1711-1776): the founder.
+- **David Hume** (1711-1776): the central figure.
 - **Adam Smith** (1723-1790): his close friend, whose *Theory of Moral Sentiments* (1759) develops a sympathy-based moral psychology.
 - **Adam Ferguson** (1723-1816): friend and fellow figure of the Scottish Enlightenment.
 - **Henry Home, Lord Kames** (1696-1782): judge and philosopher, an early correspondent and patron.
@@ -88,7 +88,7 @@ Moral distinctions arise from feelings of approval and disapproval. In the secon
 - *Political Discourses*, 1752.
 - *The History of England*, 1754-1762 (the first volume was titled *History of Great Britain*).
 - *The Natural History of Religion*, 1757.
-- *My Own Life*, 1776.
+- *My Own Life*, written 1776, published 1777.
 - *Dialogues concerning Natural Religion*, 1779 (posthumous).
 
 ## Hume and "Humeanism"

@@ -23,7 +23,7 @@ gaps: []
 
 # Wang Yangming (Wang Shouren)
 
-Wang Yangming (1472–1529), born Wang Shouren with the courtesy name Bo'an, was a Chinese philosopher, statesman, and military general of the Ming dynasty. Known by the literary name Yangming ("Luminous Sun") after a cave retreat near his home, he is the foremost representative of the School of Mind (*Xinxue*) in Neo-Confucianism. Wang fundamentally challenged the orthodox Cheng-Zhu School of Principle (*Lixue*) by establishing that the human heart-mind is identical with universal principle (*xin ji li*) and that moral knowledge and action are inherently unified (*zhixing heyi*).
+Wang Yangming (1472–1529), born Wang Shouren with the courtesy name Bo'an, was a Chinese philosopher, statesman, and military general of the Ming dynasty. Known by the literary name Yangming ("Luminous Sun") after a cave retreat near his home, he is the leading representative of the School of Mind (*Xinxue*) in Neo-Confucianism. Wang fundamentally challenged the orthodox Cheng-Zhu School of Principle (*Lixue*) by arguing that the human heart-mind is identical with universal principle (*xin ji li*) and that moral knowledge and action are inherently unified (*zhixing heyi*).
 
 ## Life and Career
 
@@ -56,7 +56,7 @@ Delivered in 1527 at the Tianquan Bridge to his leading disciples Qian Dehong an
 
 ## Influence and Critical Reception
 
-Wang's thought established the dominant intellectual movement of the late Ming dynasty. His disciples diversified into multiple branches: Qian Dehong represented a conservative, gradualist moralism; Wang Ji embraced an intuitive, sudden approach; and Wang Gen founded the populist Taizhou school, which preached innate sagehood to commoners and peasants. 
+Wang's thought became one of the most influential intellectual currents of the late Ming dynasty. His disciples diversified into multiple branches: Qian Dehong represented a conservative, gradualist moralism; Wang Ji embraced an intuitive, sudden approach; and Wang Gen founded the populist Taizhou school, which preached innate sagehood to commoners and peasants. 
 
 Wang's philosophy crossed into Japan as *Yōmeigaku*, inspiring samurai thinkers such as Nakae Tōju and Kumazawa Banzan, and later providing ideological impetus for nineteenth-century Meiji Restoration figures like Yoshida Shōin and Saigō Takamori. In Korea, however, Neo-Confucian scholars such as Yi Hwang (Toegye) staunchly defended Zhu Xi and rejected Wang's doctrines.
 

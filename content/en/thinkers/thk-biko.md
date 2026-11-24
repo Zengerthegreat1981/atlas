@@ -23,7 +23,7 @@ gaps: []
 ---
 # Steve Biko
 
-A South African political activist and the founder of the "Black Consciousness" movement. He was arrested in 1977 and died days later in police custody from head injuries, and his funeral and the subsequent exposure of the circumstances of his death were a turning point in the international isolation of the apartheid regime.
+A South African political activist and a founding figure of the "Black Consciousness" movement. He was arrested in 1977 and died days later in police custody from head injuries, and his funeral and the subsequent exposure of the circumstances of his death were a turning point in the international isolation of the apartheid regime.
 
 His basic thesis is psychological before it is political: that **"the most potent weapon in the hands of the oppressor is the mind of the oppressed"** — that is, apartheid does not rest on law and police alone but on the oppressed internalizing their inferiority, and liberation begins with the recovery of collective self-esteem before any political demand.
 
@@ -59,7 +59,7 @@ Biko stands at the intersection of politics and psychology, which makes him a ba
 
 ## Limits and critique
 
-Biko's texts are difficult to separate from their circumstances: they were written under censorship and banning, and some are short journalistic essays rather than methodical studies, so their theoretical precision varies. Some criticized his focus on the psychological and cultural dimension as against the class-economic structure of colonialism and capitalism, and some Marxist critics held that consciousness alone is not enough. His broad definition of "Black" also provoked controversy over the position of Coloureds and Indians, and later studies pointed to the limited place of women in the leadership of the movement. While *I Write What I Like* established Biko as a central theorist of Black existentialism and anticolonial philosophy worldwide, his writings have occasionally been overshadowed in Western academic curricula by those of Fanon and Cabral.
+Biko's texts are difficult to separate from their circumstances: they were written under censorship and banning, and some are short journalistic essays rather than methodical studies, so their theoretical precision varies. Some criticized his focus on the psychological and cultural dimension as against the class-economic structure of colonialism and capitalism, and some Marxist critics held that consciousness alone is not enough. His broad definition of "Black" also provoked controversy over the position of Coloureds and Indians, and later studies pointed to the limited place of women in the leadership of the movement. Although *I Write What I Like* made Biko a widely read theorist of Black Consciousness and anticolonial thought, his writings have occasionally been overshadowed in Western academic curricula by those of Fanon and Cabral.
 
 ## Sources
 

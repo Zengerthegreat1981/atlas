@@ -34,7 +34,7 @@ A typical session lasts forty-five to fifty minutes in a dedicated playroom. The
 
 ## Key Figures
 
-Melanie Klein established that children's play carries symbolic meaning and can be read clinically, in *The Psychoanalysis of Children* (1932). Virginia Axline gave the field its humane, non-directive charter and its most-read case study. Carl Rogers supplied the relational philosophy — unconditional positive regard, empathy, congruence — that Axline translated into work with children. Garry Landreth turned that philosophy into a teachable method, training generations of play therapists and insisting that the therapeutic relationship, not any technique, is the curative factor. Charles Schaefer, editor of the field's major handbooks, mapped the many schools of play therapy and argued for their common ground: that play heals because it lets the child act on the world in miniature.
+Melanie Klein established that children's play carries symbolic meaning and can be read clinically, in *The Psychoanalysis of Children* (1932). Virginia Axline gave the field its humane, non-directive charter and its most-read case study. Carl Rogers supplied the relational philosophy — unconditional positive regard, empathy, congruence — that Axline translated into work with children. Garry Landreth turned that philosophy into a teachable method, training generations of play therapists and insisting that the therapeutic relationship, not any technique, is the curative factor. Charles Schaefer, editor of the field's major handbooks, mapped the many schools of play therapy.
 
 ## Evidence and Influence
 

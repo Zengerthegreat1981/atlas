@@ -44,7 +44,7 @@ Items are scored on a 5-point Likert scale from "strongly disagree" (0) to "stro
 
 The NEO-PI-R exhibits outstanding psychometric properties. Internal consistency coefficients (Cronbach's alpha) for the five domain scales consistently range between 0.86 and 0.92 in normative samples. Facet reliabilities are moderate to high, typically ranging between 0.56 and 0.81.
 
-Cross-cultural factor analyses in more than fifty cultures have demonstrated universal factorial invariance. In the Arab world, psychometric standardizations conducted in Egypt, Kuwait, Saudi Arabia, and Lebanon (e.g., Al-Ansari, 2002; Abdel-Khalek, 2000) confirmed the five-factor orthogonal structure using Procrustes rotation. Domain alphas in Arabic samples generally mirror Western benchmarks (ranging from 0.80 to 0.89), demonstrating robust construct validity across cultural boundaries.
+Cross-cultural factor analyses in more than fifty cultures have supported broad cross-cultural replication of the five-factor structure. Arabic adaptations have been studied in several countries; reported factor structure and reliability vary across samples, so local psychometric evidence should be checked before use.
 
 ## Clinical and Research Applications
 

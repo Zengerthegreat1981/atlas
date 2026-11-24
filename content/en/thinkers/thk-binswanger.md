@@ -20,7 +20,7 @@ gaps: []
 
 # Ludwig Binswanger
 
-A Swiss psychiatrist (1881–1966), long-time director of the Bellevue Sanatorium in Kreuzlingen, and the founder of "existential analysis" (Daseinsanalyse). He was one of the first to apply Husserl's phenomenology and Heidegger's analysis of Dasein to psychiatric practice, and one of the first to be accused of misunderstanding Heidegger.
+A Swiss psychiatrist (1881–1966), long-time director of the Bellevue Sanatorium in Kreuzlingen, and the originator of "existential analysis" (Daseinsanalyse). He was one of the first to apply Husserl's phenomenology and Heidegger's analysis of Dasein to psychiatric practice, and one of the first to be accused of misunderstanding Heidegger.
 
 ## Life and Context
 

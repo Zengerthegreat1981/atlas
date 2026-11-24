@@ -21,7 +21,7 @@ gaps: []
 
 # Daniel J. Siegel
 
-Daniel J. Siegel (born 1957) is an American psychiatrist, Clinical Professor of Psychiatry at the UCLA School of Medicine, founding co-director of the Mindful Awareness Research Center (MARC) at UCLA, and executive director of the Mindsight Institute. He is the founder and principal architect of **interpersonal neurobiology** (IPNB), an interdisciplinary framework synthesizing clinical psychiatry, developmental psychology, neurobiology, and mindfulness practices.
+Daniel J. Siegel (born 1957) is an American psychiatrist, Clinical Professor of Psychiatry at the UCLA School of Medicine, founding co-director of the Mindful Awareness Research Center (MARC) at UCLA, and executive director of the Mindsight Institute. He is the leading developer of **interpersonal neurobiology** (IPNB), an interdisciplinary framework synthesizing clinical psychiatry, developmental psychology, neurobiology, and mindfulness practices.
 
 ## Core Conceptual Framework
 
@@ -42,7 +42,7 @@ Healthy integration flows like a river between the banks of chaos and rigidity, 
 ### Clinical and Educational Models
 
 - **The Window of Tolerance**: A concept widely adopted in trauma therapy and clinical practice describing the optimal zone of autonomic arousal in which an individual can process information, reflect, and engage socially. Intensified arousal pushes the person above the window into **hyperarousal** (anxiety, panic, rage), while severe threat or overwhelm drops the system below the window into **hypoarousal** (numbness, dissociation, dorsal vagal shutdown).
-- **Integration with Stephen Porges and Polyvagal Theory**: Siegel directly integrated Stephen Porges's Polyvagal Theory into IPNB, grounding the window of tolerance in autonomic evolutionary neurobiology. In this model, optimal social engagement corresponds to Porges's ventral vagal complex. When environmental demands exceed regulatory capacity, sympathetic mobilization drives hyperarousal, whereas life-threat triggers the phylogenetically older unmyelinated dorsal vagal system, producing immobilization and dissociative hypoarousal.
+- **Integration with Stephen Porges and Polyvagal Theory**: Siegel and many clinicians who use his framework have linked the window of tolerance to Stephen Porges's Polyvagal Theory (which is itself contested among physiologists). In that reading, optimal social engagement corresponds to Porges's ventral vagal complex. When environmental demands exceed regulatory capacity, sympathetic mobilization drives hyperarousal, whereas life-threat triggers the phylogenetically older unmyelinated dorsal vagal system, producing immobilization and dissociative hypoarousal.
 - **Mindsight**: Defined as the human capacity to perceive the internal workings of one's own mind and the minds of others with clarity, curiosity, and compassionate awareness, treating mental states as fluid processes rather than immutable realities.
 - **The Hand Model of the Brain**: A pedagogical tool mapping neuroanatomy onto a human hand: the wrist represents the spinal cord, the palm the brainstem, the thumb the limbic system, and the curled fingers the cerebral cortex. Raising the fingers illustrates "flipping one's lid"—the temporary loss of prefrontal cortical executive control over subcortical limbic reactivity under stress.
 

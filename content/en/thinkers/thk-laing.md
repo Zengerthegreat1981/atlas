@@ -22,7 +22,7 @@ gaps: []
 
 # R. D. Laing
 
-Ronald David Laing (1927–1989) was a Scottish psychiatrist, one of the foremost figures associated with existential psychiatry and the 1960s counterculture, and a polarizing presence in twentieth-century mental health. Born in Glasgow on 7 October 1927, he studied medicine at the University of Glasgow, served as a psychiatrist in the British Royal Army Medical Corps, and worked at the Glasgow Royal Mental Hospital (Gartnavel) before joining the Tavistock Clinic and the Institute of Psychoanalysis in London in 1956. He died on 23 August 1989 in Saint-Tropez, France.
+Ronald David Laing (1927–1989) was a Scottish psychiatrist, a prominent figure associated with existential psychiatry and the 1960s counterculture, and a polarizing presence in twentieth-century mental health. Born in Glasgow on 7 October 1927, he studied medicine at the University of Glasgow, served as a psychiatrist in the British Royal Army Medical Corps, and worked at the Glasgow Royal Mental Hospital (Gartnavel) before joining the Tavistock Clinic and the Institute of Psychoanalysis in London in 1956. He died on 23 August 1989 in Saint-Tropez, France.
 
 ## Core Theories and Clinical Approach
 
@@ -46,7 +46,7 @@ In *The Politics of Experience and The Bird of Paradise* (1967), Laing extended 
 
 Laing's work faced sharp criticism from biological psychiatry and clinical researchers. Critics argued that his interpersonal models lacked rigorous empirical validation, tended to unjustly blame families (particularly mothers) for severe psychiatric conditions, and risked discouraging patients from accessing proven medical and pharmacological treatments. His romanticized depictions of psychosis in the late 1960s contributed to professional marginalization within mainstream psychiatry.
 
-Nevertheless, Laing's early phenomenological descriptions of ontological insecurity remain widely respected in psychopathological phenomenology, qualitative psychiatry, and critical medical humanities. His insistence on listening to the patient's subjective narrative helped inspire modern psychiatric survivor and service-user movements, early intervention models, and Soteria-style therapeutic communities.
+Nevertheless, Laing's early phenomenological descriptions of ontological insecurity remain widely respected in psychopathological phenomenology, qualitative psychiatry, and critical medical humanities. His insistence on listening to the patient's subjective narrative is often cited as an influence on the psychiatric survivor and service-user movements and on later work on therapeutic communities.
 
 ## Major Works
 

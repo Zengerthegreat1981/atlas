@@ -31,7 +31,7 @@ Classical pragmatism is an American philosophical movement that arose in the 187
 
 ## Origins and the Metaphysical Club
 
-In 1872 the "Metaphysical Club" met in Cambridge, Massachusetts. Its members included Peirce (1839–1914), James (1842–1910), Oliver Wendell Holmes Jr., Chauncey Wright and Nicholas St. John Green. Wright, a scientist and logician influenced by Darwin, was the most important influence on the group. The first formulation came in Peirce's articles "The Fixation of Belief" and "How to Make Our Ideas Clear" (1877–1878) in *Popular Science Monthly*. The group was influenced by Darwin, British empiricism and Kant.
+In 1872 the "Metaphysical Club" met in Cambridge, Massachusetts. Its members included Peirce (1839–1914), James (1842–1910), Oliver Wendell Holmes Jr., Chauncey Wright and Nicholas St. John Green. Wright, a scientist and logician influenced by Darwin, was an important influence on the group. The first formulation came in Peirce's articles "The Fixation of Belief" and "How to Make Our Ideas Clear" (1877–1878) in *Popular Science Monthly*. The group was influenced by Darwin, British empiricism and Kant.
 
 ## Foundations
 

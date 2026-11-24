@@ -44,7 +44,7 @@ A crucial distinction in the philosophy of science separates Popper's demarcatio
 
 ## Precursors in the History of Science
 
-Historians of science frequently note methodological precursors to critical empirical testing in the Islamic golden age. In particular, al-Hasan Ibn al-Haytham (Alhazen, c. 965–1040), in his *Kitab al-Manazir* (Book of Optics) and *al-Shukuk 'ala Batlamyus* (Doubts Concerning Ptolemy), established an experimental methodology that actively tested hypotheses against empirical observation and systematically subjected previous astronomical models to critical doubt, anticipating the critical attitude championed by Popper.
+Historians of science frequently note methodological precursors to critical empirical testing in the Islamic golden age. In particular, al-Hasan Ibn al-Haytham (Alhazen, c. 965–1040), in his *Kitab al-Manazir* (Book of Optics) and *al-Shukuk 'ala Batlamyus* (Doubts Concerning Ptolemy), developed an experimental approach that tested hypotheses against observation and subjected earlier astronomical models to critical scrutiny, a critical attitude that is sometimes compared with Popper's, though the two are separated by very different conceptions of science.
 
 ## Critiques and Methodological Limits
 

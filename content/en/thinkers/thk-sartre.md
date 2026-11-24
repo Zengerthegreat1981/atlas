@@ -26,7 +26,7 @@ gaps: []
 
 # Jean-Paul Sartre
 
-Jean-Paul Sartre (1905–1980) is the leading figure of existential philosophy who embraced the name "existentialist" with enthusiasm, and the most influential — and most contested — of them all in practice. Philosopher, novelist, playwright, and critic, he wrote on phenomenology, ontology, psychoanalysis, politics, and literature, refused the Nobel Prize for Literature in 1964, and became the voice of the committed intellectual in mid-twentieth-century France. His books and plays have become part of world culture.
+Jean-Paul Sartre (1905–1980) was a leading figure of existential philosophy who embraced the name "existentialist", and one of the most influential and most contested of its representatives. Philosopher, novelist, playwright, and critic, he wrote on phenomenology, ontology, psychoanalysis, politics, and literature, refused the Nobel Prize for Literature in 1964, and became the voice of the committed intellectual in mid-twentieth-century France. His books and plays have become part of world culture.
 
 ## Life and Career
 

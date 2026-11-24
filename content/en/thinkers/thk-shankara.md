@@ -24,7 +24,7 @@ gaps: []
 
 # Shankara (Advaita Vedanta)
 
-An Indian philosopher and teacher, the greatest representative of "Advaita Vedanta" (non-dualism), and one of the most influential figures in the history of Indian thought. Hindu tradition attributes to him the founding of four major monastic seats ("mathas") at the edges of India, and the commentary on the Upanishads, the Brahma Sutras and the Bhagavad Gita, by which he made of them a single philosophical structure revolving around the idea that ultimate reality is one. He is one of the few names agreed on, by opponents of his school and by its followers alike, as a foundation that cannot be bypassed in classical Indian philosophy.
+An Indian philosopher and teacher, the best-known representative of "Advaita Vedanta" (non-dualism), and one of the most influential figures in the history of Indian thought. Hindu tradition attributes to him the founding of four major monastic seats ("mathas") at the edges of India, and the commentary on the Upanishads, the Brahma Sutras and the Bhagavad Gita, by which he made of them a single philosophical structure revolving around the idea that ultimate reality is one. He is a central reference point in classical Indian philosophy, for the followers of his school and its opponents alike.
 
 ## His life and history
 

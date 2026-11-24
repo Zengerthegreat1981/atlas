@@ -18,7 +18,7 @@ gaps: []
 
 # Simone de Beauvoir
 
-A French philosopher, novelist and essayist (1908–1986), long presented as a companion of Sartre but now widely recognised as an original thinker in her own right. Her ethics of ambiguity and her analysis of woman's situation in *The Second Sex* are among the most influential achievements of existentialist thought, and they offer the strongest reply to the common charge that the school is individualist and blind to power.
+A French philosopher, novelist and essayist (1908–1986), long presented as a companion of Sartre but now widely recognised as an original thinker in her own right. Her ethics of ambiguity and her analysis of woman's situation in *The Second Sex* are influential contributions to existentialist thought, and they offer a significant reply to the common charge that the school is individualist and blind to power.
 
 ## Life and Context
 

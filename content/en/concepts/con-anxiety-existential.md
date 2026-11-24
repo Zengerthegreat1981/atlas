@@ -55,9 +55,9 @@ May warned that modern attempts to chemically or culturally suppress all anxiety
 ## Classical Islamic Psychological and Philosophical Perspectives
 
 Centuries before European existentialism, classical Islamic scholars investigated anxiety (*al-hamm*, *al-ghamm*, *al-qalaq*) as both a somatic-cognitive state and an existential condition of human life:
-- **Abu Zayd al-Balkhi** (850–934 CE): In *Masalih al-Abdan wa al-Anfus* (Sustenance for Body and Soul), Al-Balkhi established an early cognitive framework for psychological hygiene. He differentiated bodily diseases from psychic disorders (*amrad nafsaniyya*), identifying fear, sadness, and internal obsessive apprehensions (*waswas*). Al-Balkhi prescribed internal cognitive self-dialogue (*al-tib al-ruhani*) and reality-testing strategies to de-escalate catastrophic anticipatory anxiety.
+- **Abu Zayd al-Balkhi** (850–934 CE): In *Masalih al-Abdan wa al-Anfus* (Sustenance for Body and Soul), Al-Balkhi established an early cognitive framework for psychological hygiene. He differentiated bodily diseases from psychic disorders (*amrad nafsaniyya*), identifying fear, sadness, and internal obsessive apprehensions (*waswas*). Al-Balkhi prescribed cognitive and behavioral self-regulation strategies to de-escalate anxiety and sadness.
 - **Ibn Hazm al-Andalusi** (994–1064 CE): In *Al-Akhlaq wa al-Siyar fi Mudawat al-Nufus* (Morals and Conduct in the Healing of Souls), Ibn Hazm argued that the universal common denominator behind all human striving, labor, and desire is the urge to repel anxiety (*daf' al-hamm*). He observed that whether individuals pursue wealth, fame, knowledge, or pleasure, their underlying motivation is to escape restlessness and dread. Ibn Hazm concluded that worldly pursuits merely substitute one form of anxiety for another, and that enduring relief can only be attained through dedication to transcendent, enduring values.
-- **Abu Bakr al-Razi** (Rhazes, 865–925 CE) and **Al-Kindi** (c. 801–873 CE): In works on the dispelling of sorrow (*hila li-daf' al-ahzan*), these philosophers analyzed the fear of death as the ultimate root of existential dread, arguing that mortal anxiety stems from irrational cognitive assumptions regarding nothingness and the loss of impermanent worldly possessions.
+- **Abu Bakr al-Razi** (Rhazes, 865–925 CE) and **Al-Kindi** (c. 801–873 CE): In Al-Razi's *al-Tibb al-Ruhani* (Spiritual Physick) and Al-Kindi's treatise on dispelling sorrows (*al-hila li-daf' al-ahzan*), these philosophers analyzed the fear of death as the ultimate root of existential dread, arguing that mortal anxiety stems from irrational cognitive assumptions regarding nothingness and the loss of impermanent worldly possessions.
 
 ## The Affective Neuroscience of Anxiety
 
@@ -81,7 +81,7 @@ This entry provides an interdisciplinary survey across cognitive psychology, phi
 ## Sources
 
 - Al-Balkhi, A. Z. (2013). *Sustenance for Body and Soul: Masalih al-Abdan wa al-Anfus* (M. Badri, Trans.). International Institute of Islamic Thought.
-- Ibn Hazm, A. (1990). *Al-Akhlaq wa al-Siyar fi Mudawat al-Nufus* [Morals and Conduct: On the Healing of Souls]. Dar al-Afaq al-Jadidah.
+- Ibn Hazm, A. *Al-Akhlaq wa al-Siyar fi Mudawat al-Nufus* [Morals and Conduct: On the Healing of Souls]. Various editions.
 - Kierkegaard, S. (1844). *The Concept of Anxiety* (R. Thomte, Trans., 1980). Princeton University Press.
 - Heidegger, M. (1927). *Being and Time* (J. Macquarrie & E. Robinson, Trans., 1962). Harper & Row.
 - Tillich, P. (1952). *The Courage to Be*. Yale University Press.

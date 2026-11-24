@@ -26,7 +26,7 @@ gaps: []
 ---
 # Abu Ali al-Husayn ibn Abd Allah ibn Sina
 
-A philosopher and physician, regarded as among the most influential philosophers of the Islamic world, in both East and West, and the author of the largest integrated philosophical-scientific system in the medieval Islamic heritage. He was known in Latin Europe as Avicenna, and his two encyclopedic works, *al-Shifa'* (The Cure) in philosophy and *al-Qanun fi al-Tibb* (The Canon of Medicine), had a teaching influence that lasted for centuries in the Islamic East and in the universities of Europe until the seventeenth century.
+A philosopher and physician, regarded as among the most influential philosophers of the Islamic world, in both East and West, and the author of one of the most comprehensive philosophical-scientific systems of the medieval Islamic world. He was known in Latin Europe as Avicenna, and his two encyclopedic works, *al-Shifa'* (The Cure) in philosophy and *al-Qanun fi al-Tibb* (The Canon of Medicine), had a teaching influence that lasted for centuries in the Islamic East and in the universities of Europe until the seventeenth century.
 
 ## Biography
 
@@ -56,7 +56,7 @@ Early in his career Ibn Sina exchanged scientific letters with Abu Rayhan al-Bir
 
 ## Influence
 
-Ibn Sina had a decisive influence on almost all later Islamic philosophy: al-Ghazali attacked his system in the *Incoherence of the Philosophers* but absorbed his logic and employed it in kalam; al-Suhrawardi built his illuminationist philosophy in critical dialogue with Ibn Sina's metaphysics; and Ibn Rushd in al-Andalus, while replying to al-Ghazali in the *Incoherence of the Incoherence*, criticized many of Ibn Sina's interpretations of Aristotle as a deviation from the First Teacher. In Latin Europe, *al-Shifa'* and the *Canon* together formed one of the pillars of scholastic philosophy and medicine, and Thomas Aquinas adopted his distinction between existence and essence in his own proof of the existence of God, although he differed with him on other fundamental points (such as emanation as against direct creation).
+Ibn Sina had a decisive influence on almost all later Islamic philosophy: al-Ghazali attacked his system in the *Incoherence of the Philosophers* but absorbed his logic and employed it in kalam; al-Suhrawardi built his illuminationist philosophy in critical dialogue with Ibn Sina's metaphysics; and Ibn Rushd in al-Andalus, while replying to al-Ghazali in the *Incoherence of the Incoherence*, criticized many of Ibn Sina's interpretations of Aristotle as a deviation from the First Teacher. In Latin Europe, *al-Shifa'* and the *Canon* together formed one of the pillars of scholastic philosophy and medicine, and Thomas Aquinas drew on his distinction between existence and essence, although he differed with him on other fundamental points (such as emanation as against direct creation).
 
 ## Limits
 

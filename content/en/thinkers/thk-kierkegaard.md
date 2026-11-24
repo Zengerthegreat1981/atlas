@@ -24,7 +24,7 @@ gaps: []
 
 # Søren Kierkegaard
 
-Søren Kierkegaard (1813–1855) was a Danish philosopher and theologian. He is the furthest root of this field: he did not write psychology, but without him it does not exist in its present form.
+Søren Kierkegaard (1813–1855) was a Danish philosopher and theologian. He is an early root of this field: he did not write psychology, but existential psychology draws heavily on him.
 
 ## Life and Context
 

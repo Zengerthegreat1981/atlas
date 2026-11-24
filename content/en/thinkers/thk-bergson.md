@@ -23,7 +23,7 @@ gaps: []
 
 # Henri Bergson
 
-A French philosopher, author of the most important modern philosophical distinction between time as the clock measures it and time as it is actually lived, a distinction that informed later phenomenological work on lived time in psychiatry.
+A French philosopher, author of an influential modern philosophical distinction between time as the clock measures it and time as it is actually lived, a distinction that informed later phenomenological work on lived time in psychiatry.
 
 ## What He Gave
 
@@ -49,7 +49,7 @@ Essay on the Immediate Data of Consciousness (Essai sur les données immédiates
 
 ## Biography and Career
 
-Henri Bergson was born in Paris on 18 October 1859 to a Jewish father of Polish origin, a musician, and an English mother. He entered the École Normale Supérieure and obtained the agrégation in philosophy in 1881. He taught at the lycées of Angers and Clermont-Ferrand, then in Paris, and received his doctorate in 1889 with his thesis "Essay on the Immediate Data of Consciousness" and a Latin thesis on Aristotle's concept of place. In 1900 he took the chair of Greek and Latin philosophy at the Collège de France, then, from 1904, the chair of modern philosophy, and remained there until 1921. He was elected to the Académie française in 1914 and received the Nobel Prize in Literature in 1927. His lectures at the Collège de France were a Parisian cultural event attended by a wide public. He died in Paris on 4 January 1941 under the German occupation, and historical records confirm that he renounced the honorary exemptions offered to him by the Vichy authorities, queuing in December 1940 to register as a Jew under the anti-Semitic statute in solidarity with fellow Jews, shortly before his death from bronchitis.
+Henri Bergson was born in Paris on 18 October 1859 to a Jewish father of Polish origin, a musician, and an English mother. He entered the École Normale Supérieure and obtained the agrégation in philosophy in 1881. He taught at the lycées of Angers and Clermont-Ferrand, then in Paris, and received his doctorate in 1889 with his thesis "Essay on the Immediate Data of Consciousness" and a Latin thesis on Aristotle's concept of place. In 1900 he took the chair of Greek and Latin philosophy at the Collège de France, then, from 1904, the chair of modern philosophy, and remained there until 1921. He was elected to the Académie française in 1914 and received the Nobel Prize in Literature in 1927. His lectures at the Collège de France were a Parisian cultural event attended by a wide public. He died in Paris on 4 January 1941 under the German occupation, and according to widely repeated accounts he declined the exemptions offered to him by the Vichy authorities and registered as a Jew under the anti-Semitic statute in December 1940, shortly before his death from bronchitis.
 
 ## Memory and the Body
 

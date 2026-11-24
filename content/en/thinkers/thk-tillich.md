@@ -19,13 +19,13 @@ gaps: []
 
 # Paul Tillich
 
-Paul Johannes Tillich (1886–1965) was a German-American theologian, Christian existentialist, and philosopher of religion. Alongside Søren Kierkegaard and Martin Heidegger, he was one of the foremost thinkers to investigate the ontological structure of anxiety. As one of the most influential Protestant theologians of the twentieth century, Tillich brought theological reflection into sustained dialogue with philosophy, depth psychology, and culture. His ontological analysis of anxiety and courage entered American existential psychotherapy primarily through his long friendship and intellectual collaboration with Rollo May.
+Paul Johannes Tillich (1886–1965) was a German-American theologian, Christian existentialist, and philosopher of religion. Alongside Søren Kierkegaard and Martin Heidegger, he was among the thinkers who investigated the ontological structure of anxiety. As an influential Protestant theologian of the twentieth century, Tillich brought theological reflection into sustained dialogue with philosophy, depth psychology, and culture. His ontological analysis of anxiety and courage entered American existential psychotherapy primarily through his long friendship and intellectual collaboration with Rollo May.
 
 ## Life and Career
 
 Tillich was born on August 20, 1886 in Starzeddel (now Starosiedle, Poland), in the Province of Brandenburg, Prussia, the son of a conservative Lutheran pastor. He studied theology and philosophy at the universities of Berlin, Tübingen, and Halle, earning his doctorate in philosophy at Breslau in 1910 with a dissertation on F. W. J. Schelling's philosophy of religion, followed by a licentiate in theology at Halle in 1912. 
 
-During World War I, Tillich served from 1914 to 1918 as a military chaplain in the German Imperial Army on the Western Front. Experiencing the catastrophic slaughter at the Battle of the Somme and Champagne profoundly altered his worldview, permanently shattering his trust in nineteenth-century bourgeois cultural optimism and Hegelian historical teleology. 
+During World War I, Tillich served from 1914 to 1918 as a military chaplain in the German Imperial Army on the Western Front. The slaughter he witnessed on the Western Front profoundly altered his worldview, permanently shattering his trust in nineteenth-century bourgeois cultural optimism and Hegelian historical teleology. 
 
 In the Weimar Republic, Tillich taught at Berlin (1919–1924), Marburg (1924–1925), and Dresden (1925–1929), before being appointed professor of philosophy at the University of Frankfurt in 1929. Active in the Religious Socialist movement, he published *Die sozialistische Entscheidung* (*The Socialist Decision*, 1933), a direct ideological critique of National Socialism. Following Adolf Hitler's rise to power, Tillich was suspended from Frankfurt under the Law for the Restoration of the Professional Civil Service in April 1933. At the invitation of Reinhold Niebuhr, he emigrated to the United States in late 1933, joining Union Theological Seminary in New York, where he taught until 1955. He subsequently served as University Professor at Harvard Divinity School (1955–1962) and Nuveen Professor of Theology at the University of Chicago Divinity School (1962–1965). He died in Chicago on October 22, 1965.
 
@@ -58,7 +58,7 @@ In *Systematic Theology*, Tillich formulated his "method of correlation": philos
 
 ## Influence on Existential Psychotherapy
 
-The primary bridge between Tillich's theology and clinical psychology occurred through his close friendship with Rollo May. May was Tillich's student at Union Theological Seminary and remained in lifelong dialogue with him. In *The Meaning of Anxiety* (1950; rev. ed. 1977), May drew directly upon Tillich's ontological framework to distinguish between normal anxiety (an intrinsic dimension of growth, responsibility, and freedom) and neurotic anxiety (a proportionate reaction to repressed conflict that paralyzes action). May documented this relationship in *Paulus: Reminiscences of a Friendship* (1973). Through May, Tillich's insights significantly shaped the American school of existential-humanistic psychotherapy.
+The primary bridge between Tillich's theology and clinical psychology occurred through his close friendship with Rollo May. May was Tillich's student at Union Theological Seminary and remained in lifelong dialogue with him. In *The Meaning of Anxiety* (1950; rev. ed. 1977), May drew directly upon Tillich's ontological framework to distinguish between normal anxiety (an intrinsic dimension of growth, responsibility, and freedom) and neurotic anxiety (a disproportionate reaction, tied to repressed conflict, that paralyzes action). May documented this relationship in *Paulus: Reminiscences of a Friendship* (1973). Through May, Tillich's insights significantly shaped the American school of existential-humanistic psychotherapy.
 
 ## Criticism and Reception
 

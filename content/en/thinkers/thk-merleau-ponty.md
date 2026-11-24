@@ -28,7 +28,7 @@ gaps: []
 
 # Maurice Merleau-Ponty
 
-A French philosopher, one of the pillars of phenomenology in the twentieth century, and founder of the phenomenology of the lived body (le corps vécu), the deepest theoretical influence on all later currents that work on embodiment in psychotherapy.
+A French philosopher, one of the major figures of twentieth-century phenomenology, known above all for his phenomenology of the lived body (le corps vécu), which has influenced later work on embodiment in philosophy, cognitive science and parts of psychiatry and psychology.
 
 ## His life and formation
 
@@ -38,11 +38,11 @@ From 1945 he took part with Sartre in founding the journal *Les Temps Modernes* 
 
 ## What he contributed
 
-He rejected the Cartesian separation between the body as a physical object and consciousness as a thinking subject, and presented in its place the "lived body": the body is not an instrument used by the subject but is the very way in which the subject exists in the world. Perception for him is not mental information processing but a direct bodily interaction with the situation, an idea that later influenced deeply the line of applied phenomenology in psychiatry (Weizsäcker, Gebsattel, Plügge) and the methods of descriptive phenomenological research (Giorgi, and Eckartsberg after him).
+He rejected the Cartesian separation between the body as a physical object and consciousness as a thinking subject, and presented in its place the "lived body": the body is not an instrument used by the subject but is the very way in which the subject exists in the world. Perception for him is not mental information processing but a direct bodily interaction with the situation, an idea taken up by later phenomenological approaches in psychology and psychiatry.
 
 ## His position in the tradition
 
-A colleague of Sartre's generation and intellectually close to him, but he differed with him fundamentally over freedom: for Merleau-Ponty freedom is always "embodied" and limited by the situation of the body, not an absolute freedom detached from the body as it may sometimes be understood in Sartre. He kept closer than Sartre to Husserl and Heidegger together, and had a direct critical dialogue with Lacan on the subject and the body.
+A colleague of Sartre's generation and intellectually close to him, but he differed with him fundamentally over freedom: for Merleau-Ponty freedom is always "embodied" and limited by the situation of the body, not an absolute freedom detached from the body as it may sometimes be understood in Sartre. He kept closer than Sartre to Husserl and Heidegger together, and Lacan engaged with his work on the subject and the body.
 
 ## Political philosophy and its transformations
 
@@ -62,7 +62,7 @@ Merleau-Ponty was accused of the charge that his philosophy of the body presuppo
 
 ## Restriction
 
-He is first of all an academic philosopher (not a practicing therapist), and his influence on the therapeutic existential school is indirect, through those who applied his ideas to the clinic (Weizsäcker and the Heidelberg line, and the researchers of the descriptive phenomenological method), not through a clinical practice of his own.
+He is first of all an academic philosopher (not a practicing therapist), and his influence on clinical work is indirect, through those who later applied his ideas, not through a clinical practice of his own.
 
 ## Major works
 

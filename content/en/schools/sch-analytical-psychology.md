@@ -63,6 +63,6 @@ Analytical psychology has faced significant empirical and historical critiques:
 ## Sources
 
 - Jung, C. G. (1921). *Psychologische Typen*. Rascher Verlag.
-- Jung, C. G. (1952). *Symbole der Wandlung* (4th rev. ed.). Rascher Verlag.
+- Jung, C. G. (1952). *Symbole der Wandlung* (rev. ed.). Rascher Verlag.
 - Samuels, A. (1985). *Jung and the Post-Jungians*. Routledge & Kegan Paul.
 - Shamdasani, S. (2003). *Jung and the Making of Modern Psychology: The Dream of a Science*. Cambridge University Press.

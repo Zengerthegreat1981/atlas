@@ -22,7 +22,7 @@ gaps: []
 
 # Neoplatonism
 
-Neoplatonism was the last major school of ancient Greek philosophy, founded by **Plotinus** (204/5–270 CE) in Rome and systematized by later thinkers up to **Proclus** (412–485 CE) in Athens. Its adherents regarded themselves simply as Platonists; they read Plato, with Aristotelian, Pythagorean, and Stoic elements, as a unified system in which everything derives from a single transcendent first principle. It strongly influenced Christian, Islamic, and Jewish thought, and Renaissance Platonism.
+Neoplatonism was the last major school of ancient Greek philosophy, associated above all with **Plotinus** (204/5–270 CE) in Rome and systematized by later thinkers up to **Proclus** (412–485 CE) in Athens. Its adherents regarded themselves simply as Platonists; they read Plato, with Aristotelian, Pythagorean, and Stoic elements, as a unified system in which everything derives from a single transcendent first principle. It strongly influenced Christian, Islamic, and Jewish thought, and Renaissance Platonism.
 
 ## Context
 
@@ -37,11 +37,11 @@ In the third century CE philosophy in the Greek world was dominated by Middle Pl
 
 ## Key Figures
 
-- **Plotinus** (204/5-270 CE): founder of Neoplatonism.
+- **Plotinus** (204/5-270 CE): the central founding figure of Neoplatonism.
 - **Porphyry** (c. 234-c. 305 CE): author of the *Isagoge* (an introduction to Aristotle's *Categories*), the *Life of Plotinus*, and *Against the Christians*, now surviving only in fragments.
 - **Iamblichus** (c. 245-c. 325 CE): author of *On the Mysteries* (attributed to him in the later tradition) and a major reorganizer of Platonic curricula and metaphysics, who gave theurgy an important place.
 - **Plutarch of Athens** (d. c. 432 CE) and **Syrianus** (d. c. 437 CE): heads of the Athenian school; Syrianus was Proclus's teacher.
-- **Proclus** (412-485 CE): head of the Academy at Athens and the greatest systematizer of Neoplatonism, author of the *Elements of Theology*, the *Platonic Theology*, and commentaries on the *Timaeus*, *Republic*, *Parmenides*, and other dialogues.
+- **Proclus** (412-485 CE): head of the Academy at Athens and its most comprehensive systematizer, author of the *Elements of Theology*, the *Platonic Theology*, and commentaries on the *Timaeus*, *Republic*, *Parmenides*, and other dialogues.
 - **Marinus of Neapolis**: Proclus's successor, who wrote the *Life of Proclus*.
 - **Damascius** (c. 462-after 538 CE): last head of the Athenian school, author of *Problems and Solutions concerning First Principles*.
 
@@ -63,7 +63,7 @@ The Athenian school produced a large body of commentary on Plato and Aristotle. 
 ## Relation to Christianity
 
 Neoplatonism and Christianity emerged in the same period, and their relation is complex and debated.
-- **Third century**: Eusebius reports that Origen of Alexandria studied under Ammonius Saccas, the teacher of Plotinus (some scholars distinguish a Neoplatonist Origen from the Christian one).
+- **Third century**: Eusebius, quoting Porphyry, reports that Origen studied under Ammonius Saccas, the teacher of Plotinus; scholars debate whether this is the Christian Origen or a namesake Platonist.
 - **Fourth century**: the Cappadocian Fathers and Augustine used Platonic concepts; Augustine says in the *Confessions* (book 7) that he read "books of the Platonists," which scholars identify as writings of Plotinus and Porphyry in Latin translation.
 - **Porphyry's *Against the Christians***: a critique of Christianity in fifteen books, preserved only in fragments, quoted or answered by Eusebius, Jerome, Augustine, and others.
 - **529 CE**: a decree of Justinian is traditionally linked to the closing of the Platonic school at Athens; historians debate how abruptly the teaching ended.

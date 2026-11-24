@@ -47,5 +47,5 @@ The distinction matters for a plain reason: when the two are merged, the existen
 - Irvin D. Yalom, *Existential Psychotherapy* (New York: Basic Books, 1980).
 - Rollo May, "The Problem of Evil: An Open Letter to Carl Rogers," *Journal of Humanistic Psychology* (1982).
 - Ernesto Spinelli, *The Interpreted World: An Introduction to Phenomenological Psychology* (Sage, 2nd ed., 2005).
-- Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice* (Sage, 1998).
+- Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice* (Sage, 3rd ed., 2012).
 - Kirk J. Schneider and Orah T. Krug, *Existential-Humanistic Therapy* (American Psychological Association, 2010).

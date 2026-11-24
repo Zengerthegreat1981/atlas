@@ -43,7 +43,7 @@ The French reading of the book in the 20th century (its most prominent voice bei
 
 ## Arabic Echo and Arabic Translations
 
-A complete Arabic translation was produced by Dr. Naji al-Awnali under the title *Phenomenology of Spirit* (*Fenomenolojiya al-Ruh*), published by the Arab Organization for Translation in Beirut (2006, 838 pages) with an extensive introductory study and critical notes by the translator himself, based directly on the German text. Earlier, Egyptian philosopher Imam Abd al-Fattah Imam played a central role in introducing Hegel and dialectics to contemporary Arab philosophy through *The Dialectical Method in Hegel* (Cairo, 1969) and his translations of Hegel's *Encyclopedia* volumes.
+A complete Arabic translation was produced by Dr. Naji al-Awnali under the title *Phenomenology of Spirit* (*Fenomenolojiya al-Ruh*), published by the Arab Organization for Translation in Beirut (2006) with an extensive introductory study and critical notes by the translator himself, based directly on the German text. Earlier, Egyptian philosopher Imam Abd al-Fattah Imam played a central role in introducing Hegel and dialectics to contemporary Arab philosophy through *The Dialectical Method in Hegel* (Cairo, 1969) and his translations of Hegel's *Encyclopedia* volumes.
 
 ## Limits of the Thesis
 

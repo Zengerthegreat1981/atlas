@@ -37,7 +37,7 @@ Milner's systematic investigations revealed clear functional dissociations in hu
 - **Preserved Short-Term and Working Memory:** H.M. demonstrated a normal immediate digit span and could maintain information over brief intervals through continuous verbal rehearsal.
 - **Preserved Procedural Learning:** On the mirror-drawing task, H.M. showed normal learning curves and substantial day-to-day error reduction, maintaining the learned motor skill despite having no conscious recollection of ever performing the task.
 
-These findings provided the first definitive empirical evidence separating declarative (explicit) memory—which depends critically on the medial temporal lobes—from nondeclarative (procedural or implicit) memory, which relies on alternative neural circuits such as the basal ganglia and cerebellum.
+These findings provided early and influential evidence separating declarative (explicit) memory—which depends critically on the medial temporal lobes—from nondeclarative (procedural or implicit) memory, which relies on alternative neural circuits such as the basal ganglia and cerebellum.
 
 ## Models of Medial Temporal Lobe Consolidation
 
@@ -53,5 +53,6 @@ Following Scoville and Milner's 1957 paper, Suzanne Corkin directed longitudinal
 
 - Scoville, W. B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. *Journal of Neurology, Neurosurgery, and Psychiatry*, 20(1), 11–21.
 - Corkin, S. (2013). *Permanent Present Tense: The Unforgettable Life of the Amnesic Patient, H.M.* Basic Books.
+- Squire, L. R., & Alvarez, P. (1995). Retrograde amnesia and memory consolidation: A neurobiological perspective. *Current Opinion in Neurobiology, 5*(2), 169-177.
 - Squire, L. R. (1992). Memory and the hippocampus: A synthesis from findings with rats, monkeys, and humans. *Psychological Review*, 99(2), 195–231.
 - Nadel, L., & Moscovitch, M. (1997). Memory consolidation, retrograde amnesia and the hippocampal complex. *Current Opinion in Neurobiology*, 7(2), 217–227.

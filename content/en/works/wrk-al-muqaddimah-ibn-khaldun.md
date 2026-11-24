@@ -22,9 +22,9 @@ gaps: []
 
 ## The Central Thesis
 
-*The Muqaddimah* ("The Introduction" or *Prolegomena*) by the North African historian, jurist, and statesman Abd al-Rahman ibn Muhammad ibn Khaldun (1332–1406 CE / 732–808 AH) is a seminal masterpiece that founded an autonomous discipline: the "science of human civilization and social organization" (*'ilm al-'umran al-bashari wa-l-ijtima' al-insani*). Ibn Khaldun explicitly recognized the originality of his enterprise, distinguishing it from traditional political philosophy (which is normative and speculative) and rhetoric (which seeks persuasion).
+*The Muqaddimah* ("The Introduction" or *Prolegomena*) by the North African historian, jurist, and statesman Abd al-Rahman ibn Muhammad ibn Khaldun (1332–1406 CE / 732–808 AH) is a landmark work that presents itself as founding an autonomous discipline: the "science of human civilization and social organization" (*'ilm al-'umran al-bashari wa-l-ijtima' al-insani*). Ibn Khaldun explicitly recognized the originality of his enterprise, distinguishing it from traditional political philosophy (which is normative and speculative) and rhetoric (which seeks persuasion).
 
-His fundamental methodological revolution was shifting the primary criterion of historical criticism from the reliability of the chain of transmission (*isnad*) to the internal plausibility of the historical content (*matn*). He demonstrated that transmitted historical reports must be evaluated against the "natures of civilization" (*taba'i' al-'umran*): any historical narrative that violates the intrinsic social, economic, geographical, or physical laws of human society must be rejected as false, regardless of the apparent piety or reliability of the narrators.
+A central methodological move was shifting the primary criterion of historical criticism from the reliability of the chain of transmission (*isnad*) to the internal plausibility of the historical content (*matn*). He argued that transmitted historical reports must be evaluated against the "natures of civilization" (*taba'i' al-'umran*): any historical narrative that violates the intrinsic social, economic, geographical, or physical laws of human society must be rejected as false, regardless of the apparent piety or reliability of the narrators.
 
 The foundational analytical concept of his sociological model is ***'asabiyya*** (group solidarity, tribal cohesion, or social consciousness):
 - Originating in natural kinship bonds and shared tribal allegiance, *'asabiyya* attains its purest intensity in harsh nomadic or Bedouin environments (*badawa*), where survival demands mutual defense, collective bravery, and communal solidarity.
@@ -47,13 +47,13 @@ Originally conceived as the comprehensive introduction and Book One of his monum
 
 Ibn Khaldun composed the initial draft of *The Muqaddimah* during five months of scholarly seclusion in **779 AH / 1377 CE** at the fortress of **Qal'at Ibn Salama** (near modern Frenda in western Algeria), following his withdrawal from intense political intrigues across the courts of Fez, Tlemcen, Granada, and Tunis. 
 
-After relocating to **Cairo in 784 AH / 1382 CE**, where he was appointed Chief Maliki Qadi and lecturer at al-Azhar, Ibn Khaldun spent his final decades expanding, refining, and updating the manuscript with comparative historical data from the eastern Islamic lands and the Mamluk sultanate. Because he presented several revised autograph copies to contemporary rulers (including the Merinid sultan in Fez and the Ottoman library in Istanbul), no single uniform manuscript exists, necessitating rigorous philological collation among surviving autographs.
+After relocating to **Cairo in 784 AH / 1382 CE**, where he was appointed Chief Maliki Qadi and lecturer at al-Azhar, Ibn Khaldun spent his final decades expanding, refining, and updating the manuscript with comparative historical data from the eastern Islamic lands and the Mamluk sultanate. Because he presented several revised autograph copies to contemporary rulers (including rulers in the Maghreb), no single uniform manuscript exists, so editors must collate the surviving manuscripts.
 
 ## Reception and Modern Scholarship
 
 - **Printings and Philology**: The first complete Arabic edition was published at the **Bulaq Press** in Cairo in **1857** (1274 AH). In **1858**, French orientalist **Étienne Marc Quatremère** published the scholarly Arabic text in Paris (*Prolégomènes d'Ebn-Khaldoun*), followed by **Baron de Slane's** French translation (1862–1868).
 - **The Standard English Translation**: **Franz Rosenthal's** three-volume translation, *The Muqaddimah: An Introduction to History* (Princeton / Bollingen, **1958**), remains the authoritative benchmark in Western scholarship.
-- **The Definitive Critical Edition**: The four-volume critical edition prepared by Egyptian sociologist **Ali Abd al-Wahid Wafi** (Cairo: Lajnat al-Bayan al-'Arabi, 1957–1962), based on collation of primary autograph manuscripts.
+- **A Standard Arabic Edition**: The four-volume edition prepared by Egyptian scholar **Ali Abd al-Wahid Wafi** (Cairo: Lajnat al-Bayan al-'Arabi, 1957–1962).
 - **Critical and Theoretical Readings**:
   - **Taha Hussein** evaluated the work in his 1917 Sorbonne doctoral dissertation (*La philosophie sociale d'Ibn Khaldoun*), examining whether Ibn Khaldun's thought constituted an autonomous modern sociology or an organic development of traditional Islamic jurisprudence and historiography.
   - **Sati' al-Husri** defended the systematic unity and modern relevance of Khaldunian thought in *Dirasat 'an Muqaddimat Ibn Khaldun* (1943).
@@ -65,9 +65,9 @@ After relocating to **Cairo in 784 AH / 1382 CE**, where he was appointed Chief 
 
 ## Social Psychology and Human Nature
 
-Ibn Khaldun's analysis contains pioneering psychological observations directly integrated into his historical sociology:
-- **The Psychology of the Vanquished**: One of his most celebrated sociological maxims asserts that "the vanquished always seeks to emulate the victor in dress, customs, beliefs, and way of life," attributing this to an unconscious psychological defense mechanism wherein the subjugated person attributes the conqueror's military victory to the superiority of their cultural and moral habits.
-- **Social Constructivism of Habit**: Ibn Khaldun emphasized that human nature is fundamentally malleable and shaped by institutional custom: "Man is a child of his customs and the things to which he is accustomed, not the child of his natural temperament."
+Ibn Khaldun's analysis contains psychological observations integrated into his historical sociology:
+- **The Psychology of the Vanquished**: One of his most celebrated sociological maxims holds that the vanquished tend to imitate the victor in dress, customs, and way of life, because they attribute the conqueror's success to the superiority of his ways.
+- **Social Constructivism of Habit**: Ibn Khaldun emphasized that human nature is fundamentally malleable and shaped by institutional custom: in his view, a person is largely a product of the habits and customs to which he has become accustomed rather than of his natural temperament.
 - **Collective Psychology of Crafts and Education**: He observed that the mastery of practical crafts and systematic intellectual disciplines enhances cognitive flexibility, restructuring the soul's mental habits.
 
 ## Methodological Limitations and Critique

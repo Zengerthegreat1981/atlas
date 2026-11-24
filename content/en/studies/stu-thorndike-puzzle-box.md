@@ -24,11 +24,11 @@ Pioneering experimental investigations in comparative psychology conducted by Ed
 
 ## Context and Experimental Design
 
-In the late nineteenth century, comparative psychology was dominated by anecdotal accounts (such as those of George Romanes) that routinely attributed complex anthropomorphic reasoning and human-like insight to animals. Aiming to introduce rigorous laboratory experimentation, Thorndike conducted his doctoral research under the supervision of William James and James McKeen Cattell, published in his 1898 dissertation *Animal Intelligence: An Experimental Study of the Associative Processes in Animals*.
+In the late nineteenth century, comparative psychology was dominated by anecdotal accounts (such as those of George Romanes) that routinely attributed complex anthropomorphic reasoning and human-like insight to animals. Aiming to introduce rigorous laboratory experimentation, Thorndike began his animal work under William James at Harvard and completed his doctoral research under James McKeen Cattell at Columbia, published in his 1898 dissertation *Animal Intelligence: An Experimental Study of the Associative Processes in Animals*.
 
 Thorndike constructed approximately fifteen distinct wooden puzzle boxes of varying mechanical complexity (labeled with letters such as Box A, Box B, Box C, and Box K). In the classic setup, a hungry domestic cat (Thorndike tested 13 cats in total) was placed inside the box, while a small portion of fish was positioned in plain sight just outside. To escape and access the food reward, the cat had to operate a mechanical release mechanism. 
-- In simple boxes (e.g., Box A), escape required a single action, such as depressing a foot pedal, clawing a loop of wire, or turning a wooden latch.
-- In complex boxes (e.g., Box K), escape required executing a chained sequence of three independent actions: depressing an interior treadle, pulling a hanging cord, and moving an exterior latch.
+- In simple boxes (e.g., Box A), escape required a single action, such as clawing a loop of wire or turning a latch.
+- In complex boxes (e.g., Box K), escape required a chained sequence of several independent actions.
 
 Thorndike recorded the exact latency (in seconds) from the moment the door closed until the cat successfully operated the release mechanism across successive trials, plotting time-to-escape curves over days and weeks.
 
@@ -38,7 +38,7 @@ Thorndike's quantitative learning curves demonstrated a consistent, gradual slop
 - **Absence of Sudden Insight:** When first placed in the box, cats exhibited erratic, instinctual escape behaviors—clawing the wire mesh, squeezing through narrow openings, and biting the wooden slats. Eventually, an animal triggered the release mechanism purely by accident.
 - **Incremental Improvement:** Across subsequent trials, ineffective movements were slowly extinguished, while the successful action was produced progressively earlier. Latency decreased continuously rather than precipitously, showing smooth, gradual learning curves without abrupt drops that would indicate reflective comprehension or sudden insight.
 
-From these observations, Thorndike concluded that animals learn through trial, error, and accidental success, formulating the classic **Law of Effect**:
+From these observations, Thorndike concluded that animals learn through trial, error, and accidental success, formulating what he later (1911) stated as the **Law of Effect**:
 1. Any response that produces a satisfying state of affairs in a specific situation becomes more firmly connected to that situation, increasing the probability of recurrence when the situation recurs.
 2. Conversely, any response followed by discomfort or annoyance weakens the connection, decreasing the probability of recurrence.
 

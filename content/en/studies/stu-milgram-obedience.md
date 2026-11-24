@@ -36,7 +36,7 @@ The learner was strapped into an electric chair in an adjoining room. The teache
 
 ## Results and the Baseline Condition
 
-In the 1963 baseline study ("Voice-Feedback" condition), the learner began grunting at 75 volts, explicitly complained of a heart condition at 150 volts and demanded to be released, screamed at 270 volts, and became completely unresponsive after 330 volts. Despite exhibiting extreme physical and emotional distress—trembling, sweating, stuttering, and nervous laughter—65% of participants (26 out of 40) administered the maximum shock of 450 volts. Every single participant continued past 300 volts. 
+In the baseline study reported in 1963, the learner began grunting at 75 volts, explicitly complained of a heart condition at 150 volts and demanded to be released, screamed at 270 volts, and became completely unresponsive after 330 volts. Despite exhibiting extreme physical and emotional distress—trembling, sweating, stuttering, and nervous laughter—65% of participants (26 out of 40) administered the maximum shock of 450 volts. Every single participant continued past 300 volts. 
 
 Milgram interpreted this extreme compliance through his theory of the "agentic state": individuals shift from autonomous moral agency to viewing themselves merely as instruments carrying out the wishes of a legitimate authority figure.
 
@@ -53,7 +53,7 @@ Across 18 experimental conditions involving roughly 1,000 subjects, Milgram syst
 
 Milgram's research generated intense ethical outrage regarding deception, inadequate debriefing, and severe psychological distress, directly shaping modern institutional review boards (IRBs) and ethical codes governing human experimentation. 
 
-Archival research by Gina Perry (2013), examining Milgram's original audio recordings and notes at Yale, revealed that experimenters frequently went beyond the four scripted prods, improvising coercive pressure, and that some participants suspected the deception. Nonetheless, partial replications under contemporary ethical guidelines—such as Jerry Burger's (2009) study capping shocks at 150 volts (the point at which 79% of Milgram's continuing subjects persisted to the end)—found obedience rates comparable to Milgram's baseline (70% in Burger's sample), validating the psychological durability of the authority effect.
+Archival research by Gina Perry (2013), examining Milgram's original audio recordings and notes at Yale, revealed that experimenters frequently went beyond the four scripted prods, improvising coercive pressure, and that some participants suspected the deception. Nonetheless, partial replications under contemporary ethical guidelines—such as Jerry Burger's (2009) study capping shocks at 150 volts (the point at which 79% of Milgram's continuing subjects persisted to the end)—found obedience rates not significantly lower than in Milgram's comparable condition (70% in Burger's sample), suggesting that the authority effect has persisted, though the 150-volt cutoff limits direct comparison.
 
 ## Sources
 

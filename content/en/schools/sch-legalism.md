@@ -28,7 +28,7 @@ A Chinese political-intellectual current that flourished in the fourth and third
 ## Key Figures
 
 - **Shang Yang** (c. 390–338 BCE): a minister in the state of Qin under Duke Xiao, who implemented reforms in 356 and 350 BCE, abolishing the privileges of the hereditary aristocracy, distributing ranks on the basis of military merit, making families collectively responsible for one another, and encouraging agriculture and war; the *Book of Lord Shang* is attributed to him. His opponents killed him after the death of his patron.
-- **Shen Buhai** (d. 337 BCE): a minister in the state of Han, the foremost theorist of the art of administration (shu), that is, methods of appointing and verifying officials.
+- **Shen Buhai** (d. 337 BCE): a minister in the state of Han, an influential theorist of the art of administration (shu), that is, methods of appointing and verifying officials.
 - **Shen Dao** (c. 350–275 BCE): focused on "position" (shi), that is, the power that office gives the ruler, rather than personal virtue.
 - **Han Fei** (c. 280–233 BCE): a prince of the state of Han and a student of Xunzi, author of the *Han Feizi*, in which he combined the three pillars (law, technique and power) into a system, and was influenced by Daoism in his concepts of the non-acting ruler (the chapters "Jie Lao" and "Yu Lao"). He died in a Qin prison in 233 BCE after being denounced by his fellow student Li Si.
 - **Li Si** (c. 280–208 BCE): also a student of Xunzi, he became adviser to the emperor Qin Shi Huang and prime minister, established the system of commanderies and prefectures and the standardization of writing and measures, and in 213 BCE proposed the burning of private copies of the classical books. He was executed in 208 BCE under the Second Emperor.
@@ -52,7 +52,7 @@ A Chinese political-intellectual current that flourished in the fourth and third
 
 ## Limits and Critique
 
-- Scholars such as Paul Goldin (2011) hold that the term "Legalism" is a later creation and that the texts of the figures do not form a single school, being scattered branches united only by Han Fei.
+- Scholars such as Paul Goldin (2011) hold that the term "Legalism" is a later creation and that the texts of the figures do not form a single school, being varied strands that Han Fei later synthesized.
 - Pines (2009) argued that the thought was not so much against morality as in search of a system that works regardless of the ruler's morality, and that it recognizes the power of office over individuals.
 - Its critics charged that it makes the human being an instrument of the state and lacks any mechanism for restraining the ruler himself.
 

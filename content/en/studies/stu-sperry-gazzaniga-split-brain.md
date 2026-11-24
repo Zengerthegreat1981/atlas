@@ -39,15 +39,17 @@ The experiments established functional lateralization and hemisphere-specific co
 
 Contemporary neuroimaging and behavioral investigations on callosotomy cohorts (e.g., Pinto et al., 2017; Volz & Gazzaniga, 2017) have nuanced the classic view of complete functional division. Despite the loss of the corpus callosum (which contains roughly 200 million axonal fibers), split-brain patients display unified overt behavior in everyday activities, and functional connectivity analyses reveal preserved resting-state synchrony across hemispheres.
 
-Interhemispheric integration is largely sustained through subcortical structures—including the superior colliculi, posterior and anterior commissures, thalamic nuclei, and brainstem reticular activating networks. These subcortical pathways transfer coarse attentional, spatial, and affective signals, enabling synchronized attention shifts and coordinated bilateral motor planning even when fine-grained perceptual and lexical contents remain lateralized.
+Some interhemispheric integration is thought to be sustained through subcortical structures—including the superior colliculi, posterior and anterior commissures, thalamic nuclei, and brainstem reticular activating networks. These subcortical pathways transfer coarse attentional, spatial, and affective signals, enabling synchronized attention shifts and coordinated bilateral motor planning even when fine-grained perceptual and lexical contents remain lateralized.
 
 ## Scientific Impact and Recognition
 
-For his discoveries concerning the functional specialization of the cerebral hemispheres, Roger Sperry was awarded half of the 1981 Nobel Prize in Physiology or Medicine (shared with David Hubel and Torsten Wiesel). The split-brain research conclusively established the principle of cerebral functional asymmetry. At the same time, Gazzaniga and later cognitive neuroscientists consistently cautioned against popular culture distortions that oversimplified lateralization into a rigid dichotomy of "creative right brain versus analytical left brain," emphasizing instead that healthy cognition relies on continuous, high-speed reciprocal transfer across the intact callosum.
+For his discoveries concerning the functional specialization of the cerebral hemispheres, Roger Sperry was awarded half of the 1981 Nobel Prize in Physiology or Medicine (shared with David Hubel and Torsten Wiesel). The split-brain research was central to establishing hemispheric functional asymmetry. At the same time, Gazzaniga and later cognitive neuroscientists consistently cautioned against popular culture distortions that oversimplified lateralization into a rigid dichotomy of "creative right brain versus analytical left brain," emphasizing instead that healthy cognition relies on continuous, high-speed reciprocal transfer across the intact callosum.
 
 ## Sources
 
 - Gazzaniga, M. S., Bogen, J. E., & Sperry, R. W. (1962). Some functional effects of sectioning the cerebral commissures in man. *Proceedings of the National Academy of Sciences*, 48(10), 1765–1769.
 - Sperry, R. W. (1968). Mental unity following surgical disconnection of the cerebral hemispheres. *Harvey Lectures*, 62, 293–323.
 - Gazzaniga, M. S., & LeDoux, J. E. (1978). *The Integrated Mind*. Plenum Press.
+- Pinto, Y., et al. (2017). Split brain: Divided perception but undivided consciousness. *Brain, 140*(5), 1231-1237.
+- Volz, L. J., & Gazzaniga, M. S. (2017). Interaction in isolation: 50 years of insights from split-brain research. *Brain, 140*(7), 2051-2060.
 - Gazzaniga, M. S. (2000). Cerebral specialization and interhemispheric communication: Does the corpus callosum enable the human condition? *Brain*, 123(7), 1293–1326.

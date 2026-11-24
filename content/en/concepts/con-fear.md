@@ -34,7 +34,7 @@ In contrast to basic-emotion theories, Lisa Feldman Barrett's theory of construc
 
 Classical Arab-Islamic philosophy and psychological medicine explored fear (*al-khawf*) with considerable analytic depth:
 - **Ibn Sina (Avicenna)**: In the psychological treatises of *Kitab al-Shifa'* and *Kitab al-Najat*, Ibn Sina classified fear as an emotional affection (*infi'al*) of the irascible faculty (*al-quwwa al-ghadabiyya*). He analyzed its somatic manifestation as a sudden inward retreat of innate animal heat and animal spirits (*al-ruh al-hayawani*) toward the heart, producing cutaneous pallor, physical trembling, and motor inhibition.
-- **Abu Hamid al-Ghazali**: In Book 34 of *Ihya' 'Ulum al-Din* (*Kitab al-Khawf wa-l-Raja'*), al-Ghazali defined fear as the pain and burning of the heart caused by the anticipation of expected harm. He parsed fear into three interrelated psychological components: knowledge (*'ilm*, perception of danger), affective state (*hal*, inward contraction and tremor), and action (*'amal*, behavioral flight or corrective avoidance). Al-Ghazali warned against two extremes: deficient fear (*al-khawf al-qasir*), which induces moral heedlessness and reckless exposure to danger, and excessive fear (*al-khawf al-mufrit*), which paralyzes human agency and plunges the individual into hopelessness (*qunut*).
+- **Abu Hamid al-Ghazali**: In Book 33 of *Ihya' 'Ulum al-Din* (*Kitab al-Khawf wa-l-Raja'*), al-Ghazali defined fear as the pain and burning of the heart caused by the anticipation of expected harm. He parsed fear into three interrelated psychological components: knowledge (*'ilm*, perception of danger), affective state (*hal*, inward contraction and tremor), and action (*'amal*, behavioral flight or corrective avoidance). Al-Ghazali warned against two extremes: deficient fear (*al-khawf al-qasir*), which induces moral heedlessness and reckless exposure to danger, and excessive fear (*al-khawf al-mufrit*), which paralyzes human agency and plunges the individual into hopelessness (*qunut*).
 - **Ahmad ibn Muhammad ibn Miskawayh**: In *Tahdhib al-Akhlaq*, Miskawayh addressed the fear of death (*'ilaj al-khawf min al-mawt*), arguing that irrational fear stems from epistemic confusion regarding the soul's nature and the natural inevitability of bodily dissolution.
 
 ## Psychometric Assessment
@@ -46,7 +46,7 @@ In behavioral and clinical research, specific fear responses and phobic avoidanc
 
 ## Sources
 
-- Abu Hamid al-Ghazali, *Ihya' 'Ulum al-Din*, Book 34 (*Kitab al-Khawf wa-l-Raja'*), c. 1100.
+- Abu Hamid al-Ghazali, *Ihya' 'Ulum al-Din*, Book 33 (*Kitab al-Khawf wa-l-Raja'*), c. 1100.
 - Joseph Wolpe & Peter J. Lang, "A Fear Survey Schedule for Use in Behaviour Therapy", *Behaviour Research and Therapy*, 1964.
 - Richard S. Lazarus, *Emotion and Adaptation*, 1991.
 - Jaak Panksepp, *Affective Neuroscience: The Foundations of Human and Animal Emotions*, 1998.

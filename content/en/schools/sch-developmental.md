@@ -60,9 +60,9 @@ Developmental psychology is structured around specialized subdisciplines:
 
 ### Early Infant Cognition and Specialized Pioneers
 Modern experimental paradigms revealed that infants possess sophisticated cognitive and perceptual endowments far earlier than classical theories assumed:
-- **Andrew Meltzoff**: Demonstrated neonatal facial and manual imitation in hours-old newborns (Meltzoff & Moore, 1977), proposing the "Like-Me" framework wherein infants recognize others as sentient beings like themselves, providing the foundation for social cognition and theory of mind.
-- **Patricia Kuhl**: Mapped infant phonetic learning and neural commitment, identifying *perceptual narrowing* (where infants transition from universal phonetic discriminators to culture-bound language specialists by 10–12 months) and formulating the *social gating hypothesis*, which proves that human social interaction is essential for early language acquisition.
-- **Renée Baillargeon**: Utilized the violation-of-expectation (VOE) paradigm to prove that infants possess object permanence, solidity principles, and physical reasoning as early as 3.5 to 5 months of age.
+- **Andrew Meltzoff**: Reported imitation of facial and manual gestures by very young infants (Meltzoff & Moore, 1977; the 1977 study tested infants a few weeks old, and later work extended this to newborns), proposing the "Like-Me" framework wherein infants recognize others as sentient beings like themselves, providing the foundation for social cognition and theory of mind.
+- **Patricia Kuhl**: Mapped infant phonetic learning and neural commitment, identifying *perceptual narrowing* (where infants transition from universal phonetic discriminators to culture-bound language specialists by 10–12 months) and formulating the *social gating hypothesis*, which proposes that social interaction facilitates early speech-sound learning.
+- **Renée Baillargeon**: Utilized the violation-of-expectation (VOE) paradigm to argue that infants possess early object permanence, solidity principles, and physical reasoning as early as roughly 3.5 to 5 months of age (an interpretation that remains debated).
 
 ### Psychosocial and Personality Development
 - **Erik Erikson (1902–1994)**: Formulated an epigenetic lifespan model comprising eight developmental stages, each centered on resolving a specific psychosocial crisis: *Trust vs. Mistrust* (infancy), *Autonomy vs. Shame and Doubt* (toddlerhood), *Initiative vs. Guilt* (early childhood), *Industry vs. Inferiority* (school age), *Identity vs. Role Confusion* (adolescence), *Intimacy vs. Isolation* (young adulthood), *Generativity vs. Stagnation* (middle adulthood), and *Integrity vs. Despair* (late adulthood).
@@ -72,7 +72,7 @@ Modern experimental paradigms revealed that infants possess sophisticated cognit
 - **Carol Gilligan**: Critiqued Kohlberg's justice orientation for gender bias, articulating an *ethics of care* rooted in relational responsibilities, connection, and empathy.
 
 ### Language Development
-- **Nativism vs. Social-Pragmatic Construction**: Noam Chomsky posited an innate Language Acquisition Device (LAD) and universal grammar. In contrast, Michael Tomasello's usage-based approach demonstrated that syntax is acquired through general cognitive mechanisms: intention-reading and pattern-finding in social communicative exchanges.
+- **Nativism vs. Social-Pragmatic Construction**: Noam Chomsky posited an innate Language Acquisition Device (LAD) and universal grammar. In contrast, Michael Tomasello's usage-based approach proposes that syntax is acquired through general cognitive mechanisms: intention-reading and pattern-finding in social communicative exchanges.
 
 ## Research Methodologies
 

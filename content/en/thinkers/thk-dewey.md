@@ -24,7 +24,7 @@ gaps: []
 
 # John Dewey
 
-An American philosopher, psychologist and educator, the greatest representative of **pragmatism and instrumentalism** in the twentieth century. He formulated "learning by doing", "democracy as a way of life" and "experience and knowledge".
+An American philosopher, psychologist and educator, a leading representative of **pragmatism and instrumentalism** in the twentieth century. He formulated "learning by doing", "democracy as a way of life" and "experience and knowledge".
 
 ## What He Contributed
 

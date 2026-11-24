@@ -46,7 +46,7 @@ Using biomarker data collected at ages 26, 32, and 38, Belsky and colleagues (20
 
 ## The General Psychopathology Factor (the "p" Factor)
 
-Analyzing psychiatric symptom data collected across multiple diagnostic waves from ages 11 to 38, Caspi and colleagues (2014) demonstrated that psychiatric comorbidities are best explained by a bifactor structural model. In addition to traditional sub-dimensions of internalizing (depression, anxiety) and externalizing (conduct disorder, substance abuse), they identified a single dimension of general psychopathology—termed the **"p" factor** (analogous to the *g* factor in intelligence). Higher scores on the *p* factor independently reflect greater symptom severity, chronic persistence, functional impairment, and early-childhood neurodevelopmental vulnerabilities, offering a dimensional foundation that influenced modern psychiatric frameworks such as HiTOP.
+Analyzing psychiatric symptom data collected across several adult assessment waves, Caspi and colleagues (2014) reported that a bifactor structural model fit the pattern of psychiatric comorbidity well. In addition to traditional sub-dimensions of internalizing (depression, anxiety) and externalizing (conduct disorder, substance abuse), they identified a single dimension of general psychopathology—termed the **"p" factor** (analogous to the *g* factor in intelligence). Higher *p* scores were associated with greater symptom severity, persistence, functional impairment, and earlier developmental difficulties, and the finding has informed dimensional frameworks such as HiTOP.
 
 ## Sources
 
@@ -55,5 +55,6 @@ Analyzing psychiatric symptom data collected across multiple diagnostic waves fr
 - Caspi, A., Sugden, K., Moffitt, T. E., et al. (2003). "Influence of Life Stress on Depression: Moderation by a Polymorphism in the 5-HTT Gene." *Science*, 301(5631), 386–389.
 - Caspi, A., McClay, J., Moffitt, T. E., et al. (2002). "Role of Genotype in the Cycle of Violence in Maltreated Children." *Science*, 297(5582), 851–854.
 - Moffitt, T. E. (1993). Adolescence-limited and life-course-persistent antisocial behavior: A developmental taxonomy. *Psychological Review, 100*(4), 674-701.
+- Kim-Cohen, J., Caspi, A., Taylor, A., et al. (2006). MAOA, maltreatment, and gene-environment interaction predicting children's mental health: New evidence and a meta-analysis. *Molecular Psychiatry, 11*(10), 903-913.
 - Risch, N., Herrell, R., Lehner, T., et al. (2009). Interaction between the serotonin transporter gene (5-HTTLPR), stressful life events, and risk of depression: A meta-analysis. *JAMA, 301*(23), 2462-2471.
 - Belsky, D. W., Caspi, A., Houts, R., et al. (2015). "Quantification of Biological Aging in Young Adults." *PNAS*, 112(30), E4104–E4110.

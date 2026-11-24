@@ -38,7 +38,7 @@ In the late 17th century, Europe experienced a major scientific and political tr
 ### The British and Scottish Enlightenment
 
 - **John Locke** (1632–1704): foundational philosopher of empiricism, religious toleration, and constitutional government.
-- **Isaac Newton** (1642–1727): established classical mechanics in the *Principia* (1687), becoming the methodological exemplar of empirical natural science.
+- **Isaac Newton** (1642–1727): formulated classical mechanics in the *Principia* (1687), becoming the methodological exemplar of empirical natural science.
 - **David Hume** (1711–1776): leading philosophical sceptic, empiricist, and essayist on political economy and religion.
 - **Adam Smith** (1723–1790): moral philosopher and pioneer of classical political economy.
 - **Edward Gibbon** (1737–1794): author of *The History of the Decline and Fall of the Roman Empire* (1776–1788), exemplifying secular historiography.
@@ -105,7 +105,7 @@ Science was celebrated as an engine of human emancipation and technological prog
 
 ### 8. Earthly Happiness and Utility
 
-Enlightenment morality shifted focus from otherworldly salvation to worldly flourishing (*felicitas*). Utilitarians like Cesare Beccaria and Jeremy Bentham formulated the principle of maximizing the greatest happiness for the greatest number through penal and institutional reform.
+Enlightenment morality shifted focus from otherworldly salvation to worldly flourishing (*felicitas*). Cesare Beccaria and, later, the utilitarian Jeremy Bentham pressed the principle of the greatest happiness of the greatest number in penal and institutional reform.
 
 ## Reference Works
 
@@ -151,13 +151,13 @@ Enlightenment morality shifted focus from otherworldly salvation to worldly flou
 ## Later Influence
 
 - **In politics**: directly inspired the American Declaration of Independence, the French Declaration of the Rights of Man, modern constitutional democracy, and human rights frameworks.
-- **In science and education**: institutionalized the modern research university, secular public schooling, and empirical scientific method.
+- **In science and education**: contributed to the modern research university, secular public schooling, and the institutional standing of empirical science.
 - **In theology**: sparked modern biblical criticism and liberal Protestant theology (e.g., Schleiermacher), shifting emphasis to ethical and experiential dimensions of faith.
-- **In philosophy**: stimulated Kant's critical philosophy, German idealism, utilitarianism, and 20th-century critical theory. Jürgen Habermas famously defended the Enlightenment in *The Philosophical Discourse of Modernity* (1985) as an "unfinished project" of communicative rationality.
+- **In philosophy**: stimulated Kant's critical philosophy, German idealism, utilitarianism, and 20th-century critical theory. Jürgen Habermas defended the Enlightenment as an "unfinished project" (in his 1980 lecture "Modernity: An Unfinished Project" and again in *The Philosophical Discourse of Modernity*, 1985), tying it to communicative rationality.
 
 ## Philosophical Tensions and Critiques
 
-- **Instrumental Reason and Domination**: Max Horkheimer and Theodor Adorno, in *Dialectic of Enlightenment* (1944), argued that rationalism without self-critique turns into instrumental reason, culminating in bureaucratic and technocratic domination.
+- **Instrumental Reason and Domination**: Max Horkheimer and Theodor Adorno, in *Dialectic of Enlightenment* (circulated 1944; published 1947), argued that rationalism without self-critique turns into instrumental reason, culminating in bureaucratic and technocratic domination.
 - **Critique of Universalism and Colonialism**: Postcolonial and decolonial theorists (such as Aimé Césaire and Frantz Fanon) pointed out that European Enlightenment universalism frequently coexisted with, and legitimized, imperial expansion, slavery, and racial hierarchies, despite the anti-imperialist critiques voiced by thinkers like Diderot and Herder.
 - **Romantic and Historicist Counter-Enlightenment**: Isaiah Berlin traced the "Counter-Enlightenment" back to Giambattista Vico, Johann Georg Hamann, and Herder, who challenged the universal applicability of rationalist formulas to unique historical cultures.
 - **Postmodern Critiques**: 20th-century theorists, notably Michel Foucault and Jean-François Lyotard, interrogated Enlightenment claims of neutral, objective knowledge, exposing their entanglements with regimes of power and grand metanarratives.

@@ -98,7 +98,7 @@ Existentialism was born of three legacies:
 
 ## The Question of the Name and Method
 
-The term "existentialism" (existentialisme) was not a name first given by its proponents; Gabriel Marcel used it, then the Paris press and Sartre's circle, until it stuck. Heidegger, Camus and Jaspers disowned it in different formulations. As for method, existentialist works converge on relying on the phenomenological description of lived experience (mood, shame, boredom, anxiety) and then interpreting it as possibilities of being; they sometimes adopt a literary style in the novel and the theater because abstract philosophy is not enough to express a concrete situation.
+The term "existentialism" (existentialisme) was not a name first given by its proponents; Gabriel Marcel used it, then the Paris press and Sartre's circle, until it stuck. Heidegger and Camus rejected the label, and Jaspers preferred his own term, *Existenzphilosophie*. As for method, existentialist works converge on relying on the phenomenological description of lived experience (mood, shame, boredom, anxiety) and then interpreting it as possibilities of being; they sometimes adopt a literary style in the novel and the theater because abstract philosophy is not enough to express a concrete situation.
 
 ## Existentialism and the Arab World
 

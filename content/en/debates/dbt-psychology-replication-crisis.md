@@ -26,7 +26,7 @@ A series of events between 2011 and 2015 crystallized concerns over the reproduc
 - **Methodological Demonstrations**: Joseph Simmons, Leif Nelson, and Uri Simonsohn published *False-Positive Psychology* (2011), demonstrating through simulations that common "researcher degrees of freedom"—such as undisclosed interim analyses, flexible stopping rules, opportunistic covariate selection, and selective reporting of outcomes (colloquially termed *p-hacking*)—could generate statistically significant results ($p < .05$) from purely random data more than 60% of the time.
 - **The Reproducibility Project: Psychology (2015)**: Led by Brian Nosek and the Open Science Collaboration, an international consortium conducted direct, high-powered replications of 100 empirical studies published in leading psychology journals (*Journal of Personality and Social Psychology*, *Journal of Experimental Psychology: Learning, Memory, and Cognition*, and *Psychological Science*). While 97% of original studies reported statistically significant effects, only 36% of direct replications achieved statistical significance, with replicated effect sizes roughly half the magnitude of original estimates.
 
-Subsequent large-scale initiatives (such as Many Labs projects) cast severe empirical doubt on prominent textbook phenomena, including ego depletion, unconscious behavioral priming, and expansive postural "power posing."
+Subsequent large-scale replication efforts (such as the Many Labs projects and multi-lab replications) and other failed replications cast serious doubt on several prominent phenomena, including ego depletion, some behavioral priming effects, and the physiological and behavioral effects claimed for "power posing."
 
 ## Methodological Reform vs. Context Sensitivity
 

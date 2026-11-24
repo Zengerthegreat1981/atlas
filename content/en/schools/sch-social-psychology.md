@@ -64,7 +64,7 @@ Social psychology is the scientific study of **how individuals perceive others, 
 ## Major Figures
 
 - **Norman Triplett** (1861-1934): experimental pioneer.
-- **Kurt Lewin** (1890-1947): founder of experimental social psychology.
+- **Kurt Lewin** (1890-1947): a founding figure of experimental social psychology and group dynamics.
 - **Solomon Asch** (1907-1996): group pressure.
 - **Leon Festinger** (1919-1989): cognitive dissonance.
 - **Gordon Allport** (1897-1967): personality, prejudice.

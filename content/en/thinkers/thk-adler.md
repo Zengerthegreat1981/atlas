@@ -27,7 +27,7 @@ gaps:
 
 ## Definition
 
-Alfred Adler (1870–1937) was an Austrian physician, a former president of the Vienna Psychoanalytic Society, the founder of "Individual Psychology," and a pioneer of the psychology of teleology and social interest. He was born in the Penzing suburb near Vienna to a Jewish family of grain merchants, studied medicine at the University of Vienna and graduated in 1895, practising first as an ophthalmologist and then as a general practitioner before turning to neurology and psychiatry.
+Alfred Adler (1870–1937) was an Austrian physician, a former president of the Vienna Psychoanalytic Society, the founder of "Individual Psychology," and a pioneer of the psychology of teleology and social interest. He was born in Rudolfsheim, a suburb of Vienna, to a Jewish family of grain merchants, studied medicine at the University of Vienna and graduated in 1895, practising first as an ophthalmologist and then as a general practitioner before turning to neurology and psychiatry.
 
 ## Historical Context
 

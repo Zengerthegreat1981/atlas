@@ -32,7 +32,7 @@ A fundamental misunderstanding of Jungian theory arises from conflating the unde
 - **The Archetype As Such (*Archetypus an sich*)**: An unrepresentable, empty formal structure that carries no innate imagistic content. It functions as an inherited virtual readiness or organizer of experience, analogous to the axial system of a crystal, which preforms the crystalline structure in the mother liquid without possessing a material existence of its own.
 - **The Archetypal Image**: The culturally and historically conditioned concrete manifestation of that underlying pattern. For example, while the *maternal archetype as such* is an unobservable biological-psychic readiness to relate to caregiving, the *archetypal image* manifests historically as Demeter in ancient Greece, the Virgin Mary in Christianity, or Kali in Hinduism.
 
-Jung compared this structure to **instinctual motor patterns** in ethology: just as a weaverbird possesses an innate disposition to weave a nest without prior individual instruction, the human psyche possesses an inherited disposition to construct functional representations of maternal care, paternal authority, danger, and transformation. What is inherited is the formal blueprint, never the conscious image itself.
+Jung compared this structure to **instinctual motor patterns** in ethology: just as birds possess an innate disposition to build nests without prior individual instruction, the human psyche possesses an inherited disposition to construct functional representations of maternal care, paternal authority, danger, and transformation. What is inherited is the formal blueprint, never the conscious image itself.
 
 ## Principal Archetypes and the Path of Individuation
 
@@ -61,7 +61,7 @@ In clinical practice, Jung cautioned against **inflation** (*Aufgeblasenheit*): 
 ## Scholarly Critiques and Limitations
 
 - **Lack of Genetic Evidence**: Mainstream evolutionary biology and behavioral genetics have found no empirical evidence supporting the direct inheritance of psychic symbols or innate cognitive structures in the manner originally hypothesized. Mainstream cognitive science accounts for universal themes through shared human neurobiology and ubiquitous ecological experiences (every human experiences birth, maternal care, physical vulnerability, and death).
-- **Popperian Unfalsifiability**: Karl Popper and subsequent philosophers of science criticized the archetype construct as unfalsifiable. Because any behavioral or cultural observation can be retrospectively attributed to an archetype, and no empirical condition is specified that could definitively refute its presence, it risks operating as an explanatory tautology.
+- **Unfalsifiability**: Critics working from philosophy of science (in the Popperian tradition) have argued that the archetype construct is unfalsifiable. Because any behavioral or cultural observation can be retrospectively attributed to an archetype, and no empirical condition is specified that could definitively refute its presence, it risks operating as an explanatory tautology.
 - **Ethnocentric Bias**: Anthropologists have pointed out that many archetypes proposed as universal human categories heavily reflect Greco-Roman mythology, Judeo-Christian theology, and 19th-century European cultural presuppositions.
 
 ## Sources

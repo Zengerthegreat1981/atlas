@@ -47,7 +47,7 @@ Critics caution against romanticizing crisis. Severe distress, hopelessness, tho
 
 ## Sources
 
-1. Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+1. Frankl, V. E. (1959). *From Death-Camp to Existentialism*. Beacon Press. (Later editions retitled *Man's Search for Meaning*.)
 2. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 3. May, R. (1967). *Psychology and the Human Dilemma*. Van Nostrand.
 4. van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice*. SAGE.

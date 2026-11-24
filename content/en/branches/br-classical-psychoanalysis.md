@@ -59,6 +59,6 @@ The Vienna Psychoanalytic Society was founded in 1908, growing out of informal m
 
 - Breuer, Josef, and Sigmund Freud. *Studies on Hysteria*. Franz Deuticke, 1895.
 - Freud, Sigmund. *The Interpretation of Dreams*. Franz Deuticke, 1900.
-- Freud, Sigmund. *The Ego and the Id*. Hogarth Press, 1923.
+- Freud, Sigmund. *Das Ich und das Es* (*The Ego and the Id*). Internationaler Psychoanalytischer Verlag, 1923.
 - Gay, Peter. *Freud: A Life for Our Time*. W. W. Norton, 1988.
 - Shedler, Jonathan. "The Efficacy of Psychodynamic Psychotherapy." *American Psychologist*, 65(2), 2010, pp. 98–109.

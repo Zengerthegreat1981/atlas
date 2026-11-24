@@ -24,7 +24,7 @@ gaps: []
 
 # Gilles Deleuze
 
-A prominent French philosopher, one of the giants of continental philosophy and post-structuralism in the twentieth century; he developed an ontological philosophy based on the concepts of difference, becoming and multiplicity, and with the psychoanalyst Félix Guattari co-founded schizoanalysis.
+A prominent French philosopher, a major figure of continental philosophy and post-structuralism in the twentieth century; he developed an ontological philosophy based on the concepts of difference, becoming and multiplicity, and with the psychoanalyst Félix Guattari co-founded schizoanalysis.
 
 ## What He Contributed
 
@@ -72,7 +72,7 @@ In their co-authored volumes (*Anti-Oedipus*, *Kafka: Toward a Minor Literature*
 
 ## The Body Without Organs in Somatic and Liberation Psychology
 
-Outside Deleuze and Guattari's ontological framing, the concept of the "body without organs" (BwO) has been adopted across somatic psychology, critical psychotherapy, and feminist theory. Somatic practitioners and critical theorists, including Elizabeth Grosz and Rosi Braidotti, draw on the BwO to rethink the psychosomatic body beyond anatomical functionalism and patriarchal normative codings. In trauma therapy and somatic liberation work, the BwO provides a conceptual metaphor for dismantling psychosomatic rigidity—reminiscent of Wilhelm Reich's concept of character armor—allowing the body to de-habituate conditioned neuro-affective responses and open new circuits of affective vitality and bodily potential without falling into catatonic disintegration or organ failure.
+Outside Deleuze and Guattari's ontological framing, the concept of the "body without organs" (BwO) has been taken up in feminist theory, body studies and some critical psychotherapy writing. Feminist and critical theorists, including Elizabeth Grosz and Rosi Braidotti, have drawn on the BwO to rethink the body beyond anatomical functionalism. Its use in clinical or somatic practice is largely metaphorical and is not an established therapeutic method.
 
 ## Limits and Critique
 

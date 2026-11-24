@@ -42,7 +42,7 @@ The school's works passed to China when Kumarajiva translated works attributed t
 
 ## His place in the current
 
-Nagarjuna is regarded as the "second pillar" of philosophical Buddhism (after the Buddha), and one of the greatest philosophers of Asia. His Madhyamaka doctrine later divided into two branches:
+Nagarjuna is regarded in the Mahayana tradition as the principal founder of the Madhyamaka and a major figure of Buddhist philosophy. His Madhyamaka doctrine later divided into two branches:
 - **Prāsaṅgika (the critical / refuting)**: content to expose the contradictions of opponents, without building a positive thesis (later associated with Tsongkhapa).
 - **Svātantrika (the autonomous)**: accepts building provisional positive theses for dialectical purposes (associated with Bhāvaviveka; the two labels are later, largely Tibetan, classifications).
 

@@ -28,7 +28,7 @@ gaps: []
 
 # Murray Bowen
 
-An American psychiatrist, founder of Bowen Family Systems Theory (Bowenian Therapy), and the most prominent theorist of multigenerational analysis in family therapy. His work is regarded as the bridge between individual psychoanalysis (Freud) and family systems (Bateson, von Bertalanffy).
+An American psychiatrist, founder of Bowen Family Systems Theory (Bowenian Therapy), and a leading theorist of multigenerational analysis in family therapy. His work is regarded as the bridge between individual psychoanalysis (Freud) and family systems (Bateson, von Bertalanffy).
 
 ## What he contributed
 

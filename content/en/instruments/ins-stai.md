@@ -32,11 +32,11 @@ Both subscales include reverse-coded items to counterbalance acquiescence respon
 
 First published in 1970 (Form X), the inventory was revised in 1983 as Form Y. Form Y replaced psychometrically ambiguous items to enhance discrimination between anxiety and depressive symptoms and provide cleaner factor structures.
 
-The STAI exhibits high internal consistency, with Cronbach's alpha coefficients routinely ranging from 0.86 to 0.95 for both subscales across clinical, college, and general adult populations. In accordance with theoretical expectations, test-retest reliability across multi-week intervals is substantial for Trait Anxiety (r = 0.73 to 0.86), while State Anxiety exhibits low test-retest correlations (r = 0.27 to 0.54), demonstrating sensitivity to situational fluctuations and therapeutic change.
+The STAI exhibits high internal consistency, with Cronbach's alpha coefficients routinely ranging from 0.86 to 0.95 for both subscales across clinical, college, and general adult populations. In accordance with theoretical expectations, test-retest reliability across multi-week intervals is substantial for Trait Anxiety (roughly r = 0.65 to 0.86), while State Anxiety exhibits low test-retest correlations (roughly r = 0.16 to 0.62), demonstrating sensitivity to situational fluctuations and therapeutic change.
 
 ## Cross-Cultural Adaptation and Arabic Standardization
 
-The STAI has been translated into more than sixty languages. In the Arab world, comprehensive standardization programs conducted by Ahmed Abdel-Khalek, Abdel-Sattar Ibrahim, and colleagues across Egypt, Kuwait, Saudi Arabia, and Jordan confirmed the two-dimensional state-trait structure. The Arabic adaptations demonstrated high internal consistency (alphas typically between 0.87 and 0.92) and strong concurrent validity with clinician ratings and physiological measures of autonomic arousal.
+The STAI has been translated into more than sixty languages. In the Arab world, Arabic adaptations have been developed and studied in several countries; reported reliability and factor structure vary across samples, so local psychometric evidence should be checked before use.
 
 ## Extension to Related Emotional Instruments
 
@@ -57,4 +57,3 @@ The Trait Anxiety scale shares substantial shared variance with depressive sympt
 - Spielberger, C. D. (1983). *State-Trait Anxiety Inventory for Adults: Manual, Instrument and Scoring Guide (Form Y)*. Palo Alto, CA: Consulting Psychologists Press.
 - Barnes, L. L. B., Harp, D., & Jung, W. S. (2002). Reliability generalization of scores on the Spielberger State-Trait Anxiety Inventory. *Educational and Psychological Measurement*, 62(4), 603–618.
 - Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. *Journal of Personality and Social Psychology*, 54(6), 1063–1070.
-- Abdel-Khalek, A. M. (1989). The development and validation of the Arabic State-Trait Anxiety Inventory. *Journal of the Social Sciences*, 17(1), 143–166.

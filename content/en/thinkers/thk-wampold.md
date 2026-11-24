@@ -31,7 +31,7 @@ Wampold's research addresses an enduring controversy in psychotherapy research: 
 
 In 1936, psychologist Saul Rosenzweig proposed that common therapeutic elements across diverse schools produce comparable therapeutic success, famously citing the Dodo bird from Lewis Carroll's *Alice in Wonderland*: *"Everybody has won and all must have prizes."* In the 1970s, Lester Luborsky and colleagues provided early empirical support for this "Dodo bird verdict."
 
-To test the hypothesis with modern statistical rigor, Wampold and colleagues published a landmark meta-analysis in *Psychological Bulletin* (1997). Examining direct comparisons of bona fide psychotherapies across thousands of patients, they found that differences between distinct therapeutic modalities were negligible (effect sizes typically under $d = 0.20$), supporting the conclusion that specific treatment techniques contribute minimally to overall variance in clinical outcome. Wampold synthesized these findings in *The Great Psychotherapy Debate* (2001; 2nd ed. 2015, co-authored with Zac E. Imel).
+To test the hypothesis with modern statistical rigor, Wampold and colleagues published a landmark meta-analysis in *Psychological Bulletin* (1997). Examining direct comparisons of bona fide psychotherapies across thousands of patients, they found that differences between distinct therapeutic modalities were very small, supporting the conclusion that specific treatment techniques contribute minimally to overall variance in clinical outcome. Wampold synthesized these findings in *The Great Psychotherapy Debate* (2001; 2nd ed. 2015, co-authored with Zac E. Imel).
 
 ## The Contextual Model
 
@@ -43,7 +43,7 @@ In direct opposition to the **medical model**—which conceptualizes psychothera
 
 ## The Therapist Effect
 
-A major focus of Wampold's research is the **therapist effect**. Analyzing large clinical datasets from naturalistic settings and managed care (e.g., Wampold & Brown, 2005), Wampold demonstrated that the individual therapist accounts for 5% to 9% of total outcome variance, whereas differences between specific treatment methods account for less than 1%. Highly effective therapists consistently demonstrate superior facilitative interpersonal skills (warmth, empathy, alliance-building capacity, and verbal fluency) rather than stricter adherence to manualized treatment protocols. Consequently, Wampold advocates for training focused on deliberate practice and systematic client feedback (such as Routine Outcome Monitoring) rather than brand-specific technique manualization.
+A major focus of Wampold's research is the **therapist effect**. Analyzing large clinical datasets from naturalistic settings and managed care (e.g., Wampold & Brown, 2005), Wampold reported that the individual therapist accounts for 5% to 9% of total outcome variance, whereas differences between specific treatment methods account for less than 1%. Highly effective therapists consistently demonstrate superior facilitative interpersonal skills (warmth, empathy, alliance-building capacity, and verbal fluency) rather than stricter adherence to manualized treatment protocols. Consequently, Wampold advocates for training focused on deliberate practice and systematic client feedback (such as Routine Outcome Monitoring) rather than brand-specific technique manualization.
 
 ## Critique and Controversies
 
@@ -57,7 +57,7 @@ Wampold's contextual model has sparked vigorous debate, particularly from propon
 - *The Great Psychotherapy Debate: Models, Methods, and Findings* (2001)
 - *The Great Psychotherapy Debate: The Evidence for What Makes Psychotherapy Work* (with Zac E. Imel; 2nd ed. 2015)
 - *Psychotherapy: The humanistic (and effective) treatment* (*American Psychologist*, 2007)
-- *The Cycle of Excellence: Using Deliberate Practice to Improve Supervision and Training* (with Tony Rousmaniere, Rodney K. Goodyear, & John C. Norcross, 2017)
+- *The Cycle of Excellence: Using Deliberate Practice to Improve Supervision and Training* (edited with Tony Rousmaniere, Rodney K. Goodyear, & Scott D. Miller, 2017)
 
 ## Sources
 
@@ -66,4 +66,5 @@ Wampold's contextual model has sparked vigorous debate, particularly from propon
 - Wampold, B. E., Mondin, G. W., Moody, M., Stich, F., Benson, K., & Ahn, H. (1997). A meta-analysis of outcome studies comparing bona fide psychotherapies: Empirically, "all must have prizes." *Psychological Bulletin*, 122(3), 203–215.
 - Wampold, B. E., & Brown, G. S. (2005). Estimating variability in outcomes attributable to therapists: A naturalistic study of outcomes in managed care. *Journal of Consulting and Clinical Psychology*, 73(5), 914–923.
 - Wampold, B. E. (2007). Psychotherapy: The humanistic (and effective) treatment. *American Psychologist*, 62(8), 857–873.
+- Tolin, D. F. (2010). Is cognitive-behavioral therapy more effective than other therapies? A meta-analytic review. *Clinical Psychology Review*, 30(6), 710–720.
 - Cuijpers, P., Reijnders, M., & Huibers, M. J. (2019). The role of common factors in psychotherapy outcomes. *Annual Review of Clinical Psychology*, 15, 207–231.

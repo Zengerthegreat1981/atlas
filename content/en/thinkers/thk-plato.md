@@ -23,7 +23,7 @@ gaps: []
 
 # Plato
 
-One of the greatest philosophers in human history and the founder of the Academy of Athens (the first institution of higher education in the Western world); a student of Socrates and the teacher of Aristotle; he formulated the metaphysical theory of the "Forms" and presented in his immortal dialogues (such as the Republic, Phaedo and Phaedrus) the first integrated psychological division of the human soul into three powers: the rational, the spirited and the appetitive.
+A major Greek philosopher and the founder of the Academy of Athens (an early institution of philosophical and scientific research and teaching in the West); a student of Socrates and the teacher of Aristotle; he developed the metaphysical theory of the "Forms" and presented in his dialogues (such as the Republic and the Phaedrus) an influential division of the human soul into three parts: the rational, the spirited and the appetitive.
 
 ## Presence in the Arabic heritage
 
@@ -35,7 +35,7 @@ Plato was born in Athens in 427 BC to an aristocratic family, and was preparing 
 
 ## What he contributed
 
-- **The tripartite division of the soul**: in the "Republic" (Book IV) Plato presented the first structural model of the soul in the history of thought, arguing for it by the principle of **non-contradiction**: since a person may thirst and refrain from drinking at the same time, there must be in him more than one principle of action. He therefore divided it into:
+- **The tripartite division of the soul**: in the "Republic" (Book IV) Plato presented an influential structural model of the soul, arguing for it by the principle of **non-contradiction**: since a person may thirst and refrain from drinking at the same time, there must be in him more than one principle of action. He therefore divided it into:
   - **the rational** (logistikon), which calculates, balances and considers what is best in the long run.
   - **the spirited** (thymoeides), the seat of anger, zeal, dignity and shame, the natural ally of reason if education is good.
   - **the appetitive** (epithymetikon): hunger, thirst, sex and greed.
@@ -47,7 +47,7 @@ Plato was born in Athens in 427 BC to an aristocratic family, and was preparing 
 
 ## His position in the tradition
 
-Plato is the starting point from which everything after him is measured. Aristotle, his student, replied to him by bringing the form down from the world of Forms into the interior of things; Middle and then Neoplatonism (Plotinus, Porphyry, Proclus) developed his metaphysical side into a system of emanation; and through this path he entered **Islamic philosophy** (al-Farabi in "Opinions of the People of the Virtuous City") and **Christian theology** (Augustine). In the twentieth century he remained present in psychology as the author of the first model of inner conflict between the powers of the soul.
+Plato is the starting point from which everything after him is measured. Aristotle, his student, replied to him by bringing the form down from the world of Forms into the interior of things; Middle and then Neoplatonism (Plotinus, Porphyry, Proclus) developed his metaphysical side into a system of emanation; and through this path he entered **Islamic philosophy** (al-Farabi in "Opinions of the People of the Virtuous City") and **Christian theology** (Augustine). In the twentieth century he remained present in psychology as the author of an early and influential model of inner conflict between the parts of the soul.
 
 ## Limits
 

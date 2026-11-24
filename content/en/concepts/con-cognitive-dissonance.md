@@ -41,7 +41,7 @@ Decades of subsequent social psychological research introduced important theoret
 - **Self-Consistency Theory**: Elliot Aronson (1968, 1992) argued that dissonance is not simply an intellectual contradiction between two abstract cognitions, but arises primarily when behavior violates an individual's self-concept as a moral, rational, and competent person.
 - **Self-Affirmation Theory**: Claude Steele (1988) demonstrated that individuals can eliminate the need to rationalize a dissonant behavior if they are given an opportunity to affirm an unrelated, positive dimension of their self-worth (e.g., affirming their artistic talent or core values).
 - **The "New Look" Model**: Joel Cooper and Russell Fazio (1984) proposed that dissonance arousal specifically requires that the person perceive personal responsibility for producing a foreseeable, aversive outcome.
-- **Neurocognitive Correlates**: Functional neuroimaging (fMRI) studies (van Veen et al., 2009; Harmon-Jones & Mills, 2019) reveal that cognitive dissonance evokes reliable activation in the dorsal anterior cingulate cortex (dACC)—associated with conflict detection and emotional distress—and the anterior insula, followed by recruitment of the left dorsolateral prefrontal cortex (dlPFC) as individuals implement attitude changes to resolve the conflict.
+- **Neurocognitive Correlates**: Functional neuroimaging (fMRI) studies (van Veen et al., 2009) report that dissonance-inducing attitude statements evoke activation in the dorsal anterior cingulate cortex (dACC)—associated with conflict detection—and the anterior insula, with activity in these regions predicting subsequent attitude change.
 
 ## Clinical and Applied Significance
 
@@ -58,4 +58,5 @@ The principles of cognitive dissonance have substantial applied utility across h
 - Festinger, L., & Carlsmith, J. M. (1959). Cognitive consequences of forced compliance. *Journal of Abnormal and Social Psychology*, 58(2), 203–210.
 - Festinger, L., Riecken, H. W., & Schachter, S. (1956). *When Prophecy Fails: A Social and Psychological Study of a Modern Group That Predicted the Destruction of the World*. University of Minnesota Press.
 - Harmon-Jones, E., & Mills, J. (Eds.). (2019). *Cognitive Dissonance: Reexamining a Pivotal Theory in Psychology* (2nd ed.). American Psychological Association.
+- van Veen, V., Krug, M. K., Schooler, J. W., & Carter, C. S. (2009). Neural activity predicts attitude change in cognitive dissonance. *Nature Neuroscience*, 12(11), 1469–1474.
 - Steele, C. M. (1988). The psychology of self-affirmation: Sustaining the integrity of the self. *Advances in Experimental Social Psychology*, 21, 261–302.

@@ -21,7 +21,7 @@ gaps: []
 
 # Mulla Sadra (Sadr al-Din Shirazi)
 
-The greatest Muslim philosopher of the Safavid era, and one of the greatest philosophers of Islam after Ibn Sina and Ibn Rushd. He was born in Shiraz and studied under "Mir Damad" (the master of the School of Isfahan), then withdrew for years to the village of Kahak near Qom, and afterwards returned to Shiraz to teach.
+A leading Muslim philosopher of the Safavid era and the most prominent figure of the school of Transcendent Wisdom. He was born in Shiraz and studied under "Mir Damad" (the master of the School of Isfahan), then withdrew for years to the village of Kahak near Qom, and afterwards returned to Shiraz to teach.
 
 ## Life and Formation
 
@@ -43,11 +43,11 @@ In the introduction to the "Asfar," Mulla Sadra declares that he gathers three s
 
 ## The Ideas in the Balance
 
-The affirmation of the primacy of existence is the most important thing that distinguished him from Suhrawardi, who held the primacy of quiddity, and from Ibn Sina, who made existence accidental to quiddity. He holds the gradation (tashkik) of existence, that is, that existence is a single reality with degrees of intensity and weakness, and thereby explains multiplicity without squandering unity. From substantial motion follows the view that the corporeal world originated in time, and that the soul is corporeal in origination and spiritual in subsistence, a position that contradicts the apparent view of the Peripatetics and founds his conception of bodily resurrection.
+The affirmation of the primacy of existence is the central doctrine that distinguished him from Suhrawardi, who held the primacy of quiddity, and from Ibn Sina, who made existence accidental to quiddity. He holds the gradation (tashkik) of existence, that is, that existence is a single reality with degrees of intensity and weakness, and thereby explains multiplicity without squandering unity. From substantial motion follows the view that the corporeal world originated in time, and that the soul is corporeal in origination and spiritual in subsistence, a position that contradicts the apparent view of the Peripatetics and founds his conception of bodily resurrection.
 
 ## His Place in the Current
 
-- **Founder of Transcendent Wisdom** as an independent Islamic philosophical current, the most important since Ibn Sina.
+- **Principal figure of Transcendent Wisdom** (al-Hikma al-Muta'aliya) as an independent Islamic philosophical current.
 - **His opponents**: literalist jurists in Isfahan and Shiraz in his time, who accused him of Sufism and of departing from the literal sense.
 - **Impact**: on all later Muslim philosophers (Abd al-Razzaq Lahiji, Mulla Hadi Sabzawari, Tabataba'i), and on twentieth-century Iranian religious thought (Khomeini, for example, studied and taught in the school of Transcendent Wisdom).
 
@@ -61,7 +61,7 @@ His traditional opponents criticize his mixing of philosophy with gnostic intuit
 
 ## Chronology of His Works and Late Period
 
-Scholars (such as Seyyed Hossein Nasr and Sajjad Rizvi) divide Mulla Sadra's intellectual output into three main phases: an early preparatory period of study in Isfahan under Mir Damad and Shaykh Baha'i (up to c. 1605); a prolonged middle phase of spiritual seclusion and philosophical formulation in Kahak near Qom (c. 1605–1620), during which the foundational drafts of the *Asfar* were composed; and a final mature teaching period in Shiraz at the Khan Madrasa (c. 1620 until his death in 1635/1636).
+Scholars commonly divide Mulla Sadra's life into three phases: study in Isfahan under Mir Damad and Shaykh Baha'i; a period of seclusion in Kahak near Qom; and a final period of teaching in Shiraz at the Khan Madrasa until his death in 1635/1636. The exact dates of these phases are uncertain.
 
 His late Shiraz period witnessed the completion and refinement of his masterworks and a concentrated turn toward scriptural hermeneutics:
 - **Metaphysical syntheses**: He authored mature summaries of his system, notably *Al-Shawahid al-Rububiyya* (Divine Witnesses)—composed as a definitive textbook of Transcendent Theosophy—alongside *Al-Hikma al-Arshiyya* (The Wisdom of the Throne) focusing on eschatology, and *Mafatih al-Ghayb* (Keys to the Unseen).

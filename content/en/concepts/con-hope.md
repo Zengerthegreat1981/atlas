@@ -28,11 +28,11 @@ In existential psychology and philosophy, hope is not uncritical optimism, passi
 Existential thinkers assert that authentic hope is forged directly through the honest confrontation with despair, finitude, and the threat of meaninglessness:
 - **Viktor Frankl**: In *Man's Search for Meaning* (1959), Frankl drew upon his experiences in Nazi concentration camps to illustrate that survival and psychological endurance were tied to the "will to meaning." Hope was not an illusion of guaranteed liberation; rather, it was an existential choice to preserve personal dignity, care for others, and orient oneself toward a meaningful future task or transcendent value regardless of outer degradation.
 - **Søren Kierkegaard**: In *The Sickness unto Death* (1849), Kierkegaard analyzed despair (*Fortvivlelse*) as a fundamental misrelation within the self. For Kierkegaard, overcoming despair requires moving beyond both temporal resignation and defiant self-assertion into genuine faith and hope grounded in transcendent reality.
-- **Rollo May**: In *Love and Will* (1969), May carefully distinguished between "wishing" and "willing." Wishing is passive fantasy detached from action, whereas willing is intentionality without affect. Authentic hope synthesizes both: it envisions what could be while mobilizing personal responsibility and agency to bring that vision into being.
+- **Rollo May**: In *Love and Will* (1969), May carefully distinguished between "wishing" and "willing." Wishing is imaginative, emotionally alive play with possibilities that lacks commitment, whereas willing is the organization of the self toward action. May held that each needs the other, and authentic hope synthesizes both: it envisions what could be while mobilizing personal responsibility and agency to bring that vision into being.
 
 ## The Phenomenological Perspective: Gabriel Marcel
 
-The French existential philosopher Gabriel Marcel offered a profound phenomenological analysis of hope (*espérance*) in *Homo Viator* (1945). Marcel sharply contrasted hope with desire:
+The French existential philosopher Gabriel Marcel offered a profound phenomenological analysis of hope (*espérance*) in *Homo Viator* (1944). Marcel sharply contrasted hope with desire:
 - **Desire** (*désir*) is calculative, possessive, and directed toward a specific, concrete outcome (e.g., hoping that a particular transaction succeeds).
 - **Hope** (*espérance*) is an ontological virtue rooted in communion and open availability (*disponibilité*). For Marcel, true hope is lived as an appeal: it asserts that in the very heart of trial, captivity, or darkness, there exists a transcendent dimension of reality that cannot be destroyed by death or despair.
 
@@ -56,7 +56,7 @@ In psychotherapeutic practice, the existential therapist does not offer superfic
 - Viktor E. Frankl, *Man's Search for Meaning*, 1959.
 - Rollo May, *Love and Will*, 1969.
 - Søren Kierkegaard, *The Sickness unto Death*, trans. H. V. Hong & E. H. Hong, 1980 (Danish original 1849).
-- Gabriel Marcel, *Homo Viator: Introduction to a Metaphysic of Hope*, 1951 (French original 1945).
+- Gabriel Marcel, *Homo Viator: Introduction to a Metaphysic of Hope*, 1951 (French original 1944).
 - C. R. Snyder et al., "The Will and the Ways: Development and Validation of an Individual-Differences Measure of Hope", *Journal of Personality and Social Psychology*, 1991.
 
 ## Related Concepts

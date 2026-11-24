@@ -21,7 +21,7 @@ gaps: []
 
 # Thomas Samuel Kuhn
 
-Thomas Samuel Kuhn (1922–1996) was an American historian and philosopher of science who fundamentally altered modern understandings of scientific development. His landmark work, *The Structure of Scientific Revolutions* (1962), challenged the classical view of science as a steady, cumulative accumulation of facts. Kuhn demonstrated that scientific disciplines develop through alternating phases of stable "normal science" organized around a shared "paradigm," punctuated by crises and "paradigm shifts" that radically reorganize a scientific community's conceptual framework.
+Thomas Samuel Kuhn (1922–1996) was an American historian and philosopher of science whose work strongly influenced modern understandings of scientific development. His landmark work, *The Structure of Scientific Revolutions* (1962), challenged the classical view of science as a steady, cumulative accumulation of facts. Kuhn argued that scientific disciplines develop through alternating phases of stable "normal science" organized around a shared "paradigm," punctuated by crises and "paradigm shifts" that radically reorganize a scientific community's conceptual framework.
 
 ## Key Contributions
 
@@ -33,7 +33,7 @@ Thomas Samuel Kuhn (1922–1996) was an American historian and philosopher of sc
   - The legitimate scientific problems and standards of evaluation change.
   - Scientific perception is theory-laden, functioning like a psychological gestalt switch.
   Kuhn rejected the accusation that incommensurability implied scientific irrationality; he maintained that paradigm choice is rational, guided by epistemic values rather than deductive certainty.
-- **The Role of the Scientific Community**: Kuhn highlighted the social and communal dimensions of science. The validity of a paradigm is mediated by peer consensus within a specialized community, inaugurating modern sociology of scientific knowledge and science and technology studies (STS).
+- **The Role of the Scientific Community**: Kuhn highlighted the social and communal dimensions of science. The validity of a paradigm is mediated by peer consensus within a specialized community, an idea that influenced the sociology of scientific knowledge and science and technology studies (STS).
 - **Application to the Social and Psychological Sciences**: Kuhn suggested that psychology and the social sciences often operate in a "pre-paradigm" or multi-paradigm state, characterized by competing schools that lack consensus on foundational principles and methods.
 
 ## Intellectual Context and Impact

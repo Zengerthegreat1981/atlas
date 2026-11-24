@@ -50,7 +50,7 @@ Eysenck grounded the questionnaire in a biological model of personality:
 
 ## Cross-Cultural Standardization and Arabic Versions
 
-The EPQ and EPQ-R have undergone extensive cross-cultural adaptation. In the Arab world, comprehensive standardization programs led by Ahmed Abdel-Khalek in collaboration with Hans and Sybil Eysenck established norms across Egypt, Kuwait, Saudi Arabia, Lebanon, and Sudan. Factor analyses affirmed the cross-cultural universality of the three-factor structure, showing strong factorial congruence for Extraversion, Neuroticism, and the Lie scale, while confirming the cross-cultural sensitivity and lower reliability of the Psychoticism scale.
+The EPQ and EPQ-R have undergone extensive cross-cultural adaptation. In the Arab world, Arabic versions have been studied in several countries, including cross-cultural comparisons by Ahmed Abdel-Khalek and colleagues. In cross-cultural factor comparisons generally, Extraversion and Neuroticism replicate more consistently than Psychoticism, which tends to show lower reliability.
 
 ## Criticisms and Legacy
 
@@ -60,5 +60,4 @@ The primary critique of the EPQ focuses on the Psychoticism dimension, both rega
 
 - Eysenck, H. J., & Eysenck, S. B. G. (1975). *Manual of the Eysenck Personality Questionnaire*. London: Hodder & Stoughton.
 - Eysenck, S. B. G., Eysenck, H. J., & Barrett, P. (1985). A revised version of the Psychoticism scale. *Personality and Individual Differences*, 6(1), 21–29.
-- Abdel-Khalek, A. M., & Eysenck, S. B. G. (1983). A cross-cultural study of personality: England and Egypt. *Research in Personality*, 17(1), 43–47.
 - Boyle, G. J., Matthews, G., & Saklofske, D. H. (Eds.). (2008). *The SAGE Handbook of Personality Theory and Assessment*. London: SAGE Publications.

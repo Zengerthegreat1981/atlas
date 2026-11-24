@@ -22,7 +22,7 @@ gaps: []
 
 # Gordon W. Allport
 
-An American psychologist who established the study of personality (Personality Psychology) as an independent academic field in psychology, and the author of one of the most influential books on the study of prejudice.
+An American psychologist who was a founding figure in establishing personality psychology as an academic field, and the author of one of the most influential books on the study of prejudice.
 
 ## What He Contributed
 
@@ -34,13 +34,13 @@ An American psychologist who established the study of personality (Personality P
 
 ## His Place in the Current
 
-He established the study of personality as an independent field, influenced by William Stern's "personalistic psychology" and by the German tradition of "understanding psychology" (Verstehen). Among his distinctive positions was his insistence on the **idiographic method**: that studying the single individual in his uniqueness is legitimate science and not merely a prelude to generalization, a position on which he conducted a long controversy with the dominant measurement-based psychology.
+He helped establish the study of personality as an independent field, influenced by William Stern's "personalistic psychology" and by the German tradition of "understanding psychology" (Verstehen). Among his distinctive positions was his insistence on the **idiographic method**: that studying the single individual in his uniqueness is legitimate science and not merely a prelude to generalization, a position on which he conducted a long controversy with the dominant measurement-based psychology.
 
 ## Limitation
 His trait theory drew two criticisms: that the "trait" in his work is a description rather than an explanation, naming a regularity without accounting for its cause; and that his insistence on the uniqueness of every personality makes the theory resistant to comparative measurement, which pushed later generations (Cattell, Eysenck) toward the factor-analytic path that he rejected. The "contact hypothesis" has held up empirically, but its four conditions are rarely all present together in reality, which explains the modest effect of "encounter" programs in the field.
 
 ## Note: Not to Be Confused with His Brother
-He had an older brother, **Floyd Henry Allport** (1890–1978, who died after Gordon's death), also a prominent American psychologist and a pioneer of experimental social psychology (author of *Social Psychology*, 1924). The two are entirely different in their main field of specialization despite the kinship and shared professional collegiality.
+He had an older brother, **Floyd Henry Allport** (1890–1979, who outlived Gordon), also a prominent American psychologist and a pioneer of experimental social psychology (author of *Social Psychology*, 1924). The two are entirely different in their main field of specialization despite the kinship and shared professional collegiality.
 
 ## Major Works
 

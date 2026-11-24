@@ -51,4 +51,4 @@ This dialogue is descriptive and exploratory, and it ends without a verdict. It 
 - Yalom, Irvin D. *Existential Psychotherapy*. Basic Books, 1980.
 - Luoma, Jason B., Steven C. Hayes, and Robyn D. Walser. *Learning ACT: An Acceptance and Commitment Therapy Skills-Training Manual for Therapists*. New Harbinger, 2007.
 - van Deurzen, Emmy. *Existential Counselling and Psychotherapy in Practice*. 3rd ed. SAGE, 2012.
-- Spinelli, Ernesto. *Practising Existential Therapy: The Relational World*. 2nd ed. SAGE, 2014.
+- Spinelli, Ernesto. *Practising Existential Therapy: The Relational World*. 2nd ed. SAGE, 2015.

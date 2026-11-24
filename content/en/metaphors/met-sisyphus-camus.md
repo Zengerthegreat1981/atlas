@@ -27,7 +27,7 @@ In Greek myth, Sisyphus was a king of Corinth who twice cheated death — once b
 
 Camus's thesis can be stated abstractly in a single sentence: human beings long for meaning and unity, the world offers only silence, and the honest response is neither suicide nor false hope but conscious revolt. That sentence is accurate, and it is also inert. It describes a position; it does not put the reader inside it.
 
-The image of Sisyphus does what the sentence cannot. It shows a man who knows exactly what will happen — the rock will fall — and who does the work anyway, with his eyes open. The decisive moment, for Camus, is not the climb but the descent: Sisyphus walks back down the mountain towards his rock, fully aware of the futility, and in that lucid walk he is free. "The struggle itself towards the heights is enough to fill a man's heart," Camus writes (*The Myth of Sisyphus*, Justin O'Brien trans., Vintage Books, 1991, p. 123). And he closes the essay with the sentence that has become its signature: "One must imagine Sisyphus happy" (*Il faut imaginer Sisyphe heureux*, p. 123).
+The image of Sisyphus does what the sentence cannot. It shows a man who knows exactly what will happen — the rock will fall — and who does the work anyway, with his eyes open. The decisive moment, for Camus, is not the climb but the descent: Sisyphus walks back down the mountain towards his rock, fully aware of the futility, and in that lucid walk he is free. "The struggle itself towards the heights is enough to fill a man's heart," Camus writes (*The Myth of Sisyphus*, Justin O'Brien trans.). And he closes the essay with the sentence that has become its signature: "One must imagine Sisyphus happy" (*Il faut imaginer Sisyphe heureux*).
 
 That closing line carries philosophical weight that no abstract formulation holds with the same force, because it asks the reader to imagine a happiness that comes from the act itself rather than from its outcome. The metaphor keeps the thought alive in a way a definition cannot: it must be pictured, and in picturing it, the reader performs the very revolt Camus describes.
 
@@ -52,7 +52,7 @@ There is a further caution. Sisyphus is alone on his mountain, but most repetiti
 ## Sources
 
 - Camus, A. (1942). *Le Mythe de Sisyphe*. Éditions Gallimard.
-- Camus, A. (1955). *The Myth of Sisyphus and Other Essays* (trans. Justin O'Brien). Vintage Books.
+- Camus, A. (1955). *The Myth of Sisyphus and Other Essays* (trans. Justin O'Brien). Alfred A. Knopf. (Vintage paperback reissues later.)
 - Camus, A. (1951). *L'Homme révolté*. Gallimard. English edition: Camus, A. (1956). *The Rebel* (trans. Anthony Bower). Vintage Books.
 - Homer. *Odyssey*, Book 11 (c. 8th century BCE).
 - Aronson, R. (2004). *Camus and Sartre: The Story of a Friendship and the Quarrel That Ended It*. University of Chicago Press.

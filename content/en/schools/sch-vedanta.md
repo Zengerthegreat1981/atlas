@@ -51,7 +51,7 @@ The comparison between Vedānta and Sufi pantheism (waḥdat al-wujūd) has occu
 
 ## Limits
 
-The multiplicity of schools makes the expression "Vedānta" a generalization, and the traditional chronology of the founders' lives conflicts with the findings of historical study. Modern studies often present Advaita as the center of Vedānta, which is a simplification, since the personalist schools had more followers in many regions, and still do.
+The multiplicity of schools makes the expression "Vedānta" a generalization, and the traditional chronology of the founders' lives conflicts with the findings of historical study. Modern studies often present Advaita as the center of Vedānta, which is a simplification, since the personalist schools have had large followings in many regions.
 
 ## Method: Commentary and Debate
 

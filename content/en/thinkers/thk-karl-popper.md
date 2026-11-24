@@ -21,7 +21,7 @@ gaps: []
 ---
 # Sir Karl Popper
 
-One of the most influential philosophers of science of the twentieth century and the founder of critical rationalism; he proposed a solution to the problem of distinguishing science from non-science by announcing the "criterion of falsifiability and refutation" (Falsifiability) in place of the positivist principle of verification; author of "The Open Society and Its Enemies", in which he directed a scathing critique at the totalitarianism and historical determinism of Plato, Hegel and Marx.
+One of the most influential philosophers of science of the twentieth century and the originator of critical rationalism; he proposed a solution to the problem of distinguishing science from non-science by announcing the "criterion of falsifiability and refutation" (Falsifiability) in place of the positivist principle of verification; author of "The Open Society and Its Enemies", in which he directed a scathing critique at the totalitarianism and historical determinism of Plato, Hegel and Marx.
 
 ## Biography
 
@@ -42,7 +42,7 @@ Popper is an Austrian who emigrated to New Zealand and then to the London School
 
 ## Critique of Popper and the limits of his criterion
 
-The most prominent objection to the criterion of falsification is that a theory does not face the test alone but is tested together with auxiliary hypotheses about instruments and conditions, so if the result conflicts with observation the blame can be put on another hypothesis, an idea tied to the names of Duhem and Quine. Kuhn showed that the actual history of science does not proceed by direct falsification, and Lakatos built "research programmes" to keep the spirit of Popper and go beyond the naivety of his falsificationism. Moreover, statistical statements, such as saying that the probability of an event is high, cannot be refuted by a single case. As for his reading of Plato, Hegel and Marx in "The Open Society", many historians have considered it selective, and Walter Kaufmann in his study "The Hegel Myth and Its Method" (1951) criticized his way of citing Hegel. Critics of Popper on Marxism hold that he made it at one time a refuted theory and at another a theory immunized against falsification, and that this judgment needs a distinction between Marx and his followers.
+The most prominent objection to the criterion of falsification is that a theory does not face the test alone but is tested together with auxiliary hypotheses about instruments and conditions, so if the result conflicts with observation the blame can be put on another hypothesis, an idea tied to the names of Duhem and Quine. Kuhn argued that the actual history of science does not proceed by direct falsification, and Lakatos built "research programmes" to keep the spirit of Popper and go beyond the naivety of his falsificationism. Moreover, statistical statements, such as saying that the probability of an event is high, cannot be refuted by a single case. As for his reading of Plato, Hegel and Marx in "The Open Society", many historians have considered it selective, and Walter Kaufmann in his study "The Hegel Myth and Its Method" (1951) criticized his way of citing Hegel. Critics of Popper on Marxism hold that he made it at one time a refuted theory and at another a theory immunized against falsification, and that this judgment needs a distinction between Marx and his followers.
 
 ## Major works
 

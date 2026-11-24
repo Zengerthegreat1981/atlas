@@ -51,7 +51,7 @@ Critics note that the concept is hard to define and measure, and that "alignment
 
 ## Sources
 
-1. Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+1. Frankl, V. E. (1959). *From Death-Camp to Existentialism* (later retitled *Man's Search for Meaning*). Beacon Press.
 2. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 3. van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice*. SAGE.
 4. May, R. (1969). *Love and Will*. W. W. Norton.

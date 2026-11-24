@@ -23,7 +23,7 @@ gaps: []
 
 # Thomas Aquinas
 
-Thomas Aquinas (c. 1225–1274) was an Italian Dominican friar and theologian, the most influential philosopher of Latin Scholasticism. He is called in Catholic tradition the "Angelic Doctor" (*Doctor Angelicus*) and the "Common Doctor" (*Doctor Communis*), and was canonized in 1323 and declared a Doctor of the Church in 1567.
+Thomas Aquinas (c. 1225–1274) was an Italian Dominican friar and theologian, one of the most influential philosophers of Latin Scholasticism. He is called in Catholic tradition the "Angelic Doctor" (*Doctor Angelicus*) and the "Common Doctor" (*Doctor Communis*), and was canonized in 1323 and declared a Doctor of the Church in 1567.
 
 ## Life
 
@@ -32,7 +32,7 @@ He was born at Roccasecca, in the Kingdom of Sicily, into a noble family, and wa
 ## What He Contributed
 
 - **The reconciliation of Aristotle and Christian doctrine**: working with new Latin translations of Aristotle (notably by William of Moerbeke) and drawing on Arabic and Jewish philosophers (Avicenna, Averroes, Maimonides), he reread Christian theology through Aristotelian concepts, against more strictly Augustinian approaches.
-- **The *Summa Theologiae*** (c. 1265–1273): his greatest work, a systematic exposition of God, creation, human beings, ethics, Christ and the sacraments, built from *quaestiones* with objections and replies.
+- **The *Summa Theologiae*** (c. 1265–1273): his major work, a systematic exposition of God, creation, human beings, ethics, Christ and the sacraments, built from *quaestiones* with objections and replies.
 - **The Five Ways** (*quinque viae*): five arguments for God's existence, from motion, efficient causation, contingency and necessity, degrees of perfection, and the order of nature.
 - **Natural law**: the participation of rational creatures in the eternal law of God, linking theology with an ethics of virtues and natural ends.
 - **Hylomorphism**: the human being is a unity of soul (the form of the body) and body, not a soul merely lodged in a body; the soul is subsistent and survives death.

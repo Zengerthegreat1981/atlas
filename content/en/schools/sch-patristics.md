@@ -49,7 +49,7 @@ In the first centuries the Church was sometimes persecuted (under Nero, Domitian
 ### The School of Alexandria
 
 - **Clement of Alexandria** (c. 150-c. 215 CE): author of the *Protrepticus*, *Paedagogus*, and *Stromata*, which engage Greek philosophy and Christian teaching.
-- **Origen** (c. 185-253/254 CE): the most influential Greek theologian before the fourth century, author of *On First Principles* and biblical commentaries; some of his teachings were later condemned.
+- **Origen** (c. 185-253/254 CE): a highly influential Greek theologian of the third century, author of *On First Principles* and biblical commentaries; some of his teachings were later condemned.
 
 ### The School of Antioch and Syriac Fathers
 
@@ -71,7 +71,7 @@ In the first centuries the Church was sometimes persecuted (under Nero, Domitian
 - **Cyprian** (c. 200-258 CE).
 - **Ambrose** (c. 339-397 CE).
 - **Jerome** (c. 347-420 CE).
-- **Augustine** (354-430 CE): the summit of Latin Patristics; see sch-augustinianism.
+- **Augustine** (354-430 CE): the most influential of the Latin Fathers; see sch-augustinianism.
 - **Boethius** (c. 480-524 CE): a bridge between late antique philosophy and the medieval West.
 
 ### Later Fathers (5th-8th centuries CE)

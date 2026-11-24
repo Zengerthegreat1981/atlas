@@ -25,15 +25,13 @@ American-Austrian philosopher, phenomenologist and psychotherapist (1926–2017)
 
 ## Historical context
 
-Gendlin came to psychology from philosophy and not the reverse. His doctoral dissertation (1958) at Chicago tried to answer a purely philosophical question: how does a feeling carry meaning before it is formulated in words? This is what led him to join Carl Rogers's large research project at the University of Wisconsin, which studied which elements in psychotherapy sessions actually predict its success. From analyzing recordings of thousands of sessions, Gendlin noticed that the clients who improved were distinguished less by the content of their speech than by a particular way of listening to their bodies while speaking. This empirical observation later became the codified technique of "Focusing."
+Gendlin came to psychology from philosophy and not the reverse. His doctoral dissertation (1958) at Chicago tried to answer a purely philosophical question: how does a feeling carry meaning before it is formulated in words? This is what led him to join Carl Rogers's large research project at the University of Wisconsin, which studied which elements in psychotherapy sessions actually predict its success. From analyzing recorded therapy sessions, Gendlin noticed that the clients who improved were distinguished less by the content of their speech than by a particular way of listening to their bodies while speaking. This empirical observation later became the codified technique of "Focusing."
 
 Gendlin was born in Vienna on 25 December 1926 and died in New York in 2017. After his doctorate he taught at the University of Chicago from the early 1960s until his retirement, and in 1963 he founded the journal *Psychotherapy: Theory, Research and Practice*. The Wisconsin project (Rogers, Gendlin, Kiesler and Truax) produced the book *The Therapeutic Relationship and Its Impact* (1967), which studied therapy with schizophrenic patients. In it the "Experiencing Scale" (1969) was developed to measure how far a client's speech is connected to his immediate, ongoing experience. Studies of the scale showed that those who improve in therapy speak in a groping, pausing manner that searches for a formulation of something not yet clear, and this is the empirical nucleus of the idea of the felt sense.
 
 ## Main ideas
 
-Gendlin developed an experiential approach based on "the bodily-lived Felt Sense," showing that the body carries a living, implicit knowledge of life situations that exceeds what the conscious mind can directly put into words. As he defined it in *Focusing* (1978, p. 32):
-
-> "A felt sense is not a mental experience but a physical one. A bodily awareness of a situation or person or event."
+Gendlin developed an experiential approach based on "the bodily-lived Felt Sense," showing that the body carries a living, implicit knowledge of life situations that exceeds what the conscious mind can directly put into words. In *Focusing* (1978) he describes the felt sense as a bodily awareness of a situation, person or event, rather than a purely mental experience.
 
 Psychological healing occurs when the person finds the precise words, symbols or images (the "Handle") that match this vague bodily sense, which allows him to move and open up existentially at a moment he calls the "Felt Shift." Philosophically, in *A Process Model* (written 1981, published in full 1997) he formulated a more abstract theory of "Body-Environment Interaction," in which the living body is not a biological machine separate from its meaning but is itself an implicit process of interaction with the situation that precedes mental conceptualization of it. Meaning is neither discovered ready-made nor constructed arbitrarily, but is "carried forward" (Carrying Forward) from the body's interaction with its context.
 
@@ -47,7 +45,7 @@ With regard to person-centered therapy, Gendlin helped shift the emphasis from t
 
 ## Limitations
 
-The transformation of the Focusing technique into a broad worldwide training movement (through The International Focusing Institute, which he co-founded) has led some to see it as a procedural technique of six discrete steps, detached from its foundational philosophical and phenomenological depth, which Gendlin himself intended in his more abstract and difficult philosophical writings.
+The transformation of the Focusing technique into a broad worldwide training movement (through The International Focusing Institute, which he founded) has led some to see it as a procedural technique of six discrete steps, detached from its foundational philosophical and phenomenological depth, which Gendlin himself intended in his more abstract and difficult philosophical writings.
 
 ## Notable works
 
@@ -61,4 +59,4 @@ The transformation of the Focusing technique into a broad worldwide training mov
 - Gendlin, E. T. (1978). *Focusing*. Everest House.
 - Gendlin, E. T. (1996). *Focusing-Oriented Psychotherapy: A Manual of the Experiential Method*. Guilford Press.
 - Gendlin, E. T. (1997). *A Process Model*. Spring Valley, NY: The Focusing Institute (Northwestern University Press edition 2018).
-- Hendricks, M. N. (2001). Focusing-oriented/experiential psychotherapy. In D. J. Cain & J. Seeman (eds.), *Humanistic Psychotherapies: Handbook of Research and Practice*. American Psychological Association.
+- Hendricks, M. N. (2002). Focusing-oriented/experiential psychotherapy. In D. J. Cain & J. Seeman (eds.), *Humanistic Psychotherapies: Handbook of Research and Practice*. American Psychological Association.

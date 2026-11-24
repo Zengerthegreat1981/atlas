@@ -54,7 +54,7 @@ Monads are dynamic centers of force (*vis activa*). Leibniz defines **appetition
 
 Leibniz distinguishes three principal levels of monadic development based on the clarity of their internal perceptions:
 
-1. **Bare Monads (Entelechies)**: Possess only confused, slumbering perceptions (*petites perceptions*), analogous to a person in a state of profound, dreamless sleep or stupor. Inanimate bodies, rocks, and plant organisms are aggregates of such simple entelechies.
+1. **Bare Monads (Entelechies)**: Possess only confused, slumbering perceptions (*petites perceptions*), analogous to a person in a state of profound, dreamless sleep or stupor. What appear to us as inanimate bodies are aggregates of such lowest-grade monads.
 2. **Animal Souls (*Âmes*)**: Possess perception accompanied by memory and sensory awareness, capable of heightened feeling and anticipation of experience.
 3. **Rational Minds or Spirits (*Esprits*)**: Human souls capable of **apperception** (*aperception*)—reflective self-consciousness and rational grasp of eternal, necessary truths. Minds do not merely mirror the created universe, but mirror God Himself, entering into moral community with the divine.
 
@@ -67,7 +67,7 @@ In classical Islamic thought, a distant structural parallel appears in the Ash'a
 ## Philosophical Influence and Reception
 
 - **German Idealism**: Christian Wolff systematized Leibniz's metaphysics into the dominant scholastic philosophy of 18th-century Germany. The young Immanuel Kant engaged Leibnizian monadic physics directly in his *Monadologia physica* (1756). Later, in the *Critique of Pure Reason* (1781), Kant subjected the monadology to extensive criticism in the "Amphiboly of Concepts of Reflection," arguing that Leibniz intellectualized phenomena by treating sensory representations as confused intellectual concepts.
-- **Analytic Philosophy**: Bertrand Russell's *A Critical Exposition of the Philosophy of Leibniz* (1900) revolutionized Leibniz studies by arguing that the monadology was logically derived from Leibniz's adherence to traditional subject-predicate logic (that every true proposition asserts a predicate contained within its subject). Modern modal logic and possible-worlds semantics (developed by Saul Kripke and David Lewis) draw directly on Leibniz's doctrine that God surveyed an infinity of possible worlds in the divine understanding before actualizing the best.
+- **Analytic Philosophy**: Bertrand Russell's *A Critical Exposition of the Philosophy of Leibniz* (1900) was an influential study arguing that the monadology was logically derived from Leibniz's adherence to traditional subject-predicate logic (that every true proposition asserts a predicate contained within its subject). Modern modal logic and possible-worlds semantics (developed by Saul Kripke and David Lewis) are often linked to Leibniz's doctrine that God surveyed an infinity of possible worlds in the divine understanding before actualizing the best.
 - **Process Philosophy and Continental Thought**: Alfred North Whitehead acknowledged Leibniz as a major forerunner of his process ontology of "actual entities" in *Process and Reality* (1929). Gilles Deleuze, in *The Fold: Leibniz and the Baroque* (1988), reinterpreted Leibniz's monad as an inflection point and dynamic folding of continuous matter and consciousness.
 
 ## See Also

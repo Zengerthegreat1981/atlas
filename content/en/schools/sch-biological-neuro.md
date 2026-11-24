@@ -35,7 +35,7 @@ Biological psychology (biopsychology/behavioral neuroscience) and neuropsycholog
 ## Intellectual and Historical Context
 
 The discipline crystallized through the convergence of three foundational scientific traditions:
-1. **Neurophysiology and Neuroanatomy**: The formulation of the neuron doctrine by Santiago Ramón y Cajal and Camillo Golgi (Nobel Prize, 1906), establishing that the nervous system consists of discrete, individual signaling cells.
+1. **Neurophysiology and Neuroanatomy**: The neuron doctrine, advanced chiefly by Santiago Ramón y Cajal (Cajal and Camillo Golgi shared the 1906 Nobel Prize, although Golgi opposed the doctrine), establishing that the nervous system consists of discrete, individual signaling cells.
 2. **Physiological Psychology**: Initiated by Wilhelm Wundt and Hermann von Helmholtz, applying precise laboratory instrumentation to measure sensory nerve conduction velocities and psychophysical thresholds.
 3. **Evolutionary Biology**: Darwin's evolutionary framework, which demonstrated phylogenetic continuity between non-human animals and humans, legitimizing comparative animal models of neural circuitry.
 

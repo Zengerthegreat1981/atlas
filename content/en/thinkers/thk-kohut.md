@@ -22,7 +22,7 @@ gaps: []
 
 # Heinz Kohut
 
-An Austrian-American physician and psychoanalyst, president of the American Psychoanalytic Association (1964–1965) and vice president of the International Psychoanalytical Association (1965). He was a training analyst and supervisor at the Chicago Institute for Psychoanalysis and a person of great influence in its development. He is the founding father of "self psychology."
+An Austrian-American physician and psychoanalyst, president of the American Psychoanalytic Association (1964–1965) and vice president of the International Psychoanalytical Association (1965). He was a training analyst and supervisor at the Chicago Institute for Psychoanalysis and a person of great influence in its development. He is the originator of "self psychology."
 
 ## What He Contributed
 
@@ -35,7 +35,7 @@ An Austrian-American physician and psychoanalyst, president of the American Psyc
 
 ## His Place in the Movement
 
-The founder of the **Chicago school of self psychology**, and one of the deepest shifts in psychoanalysis in the second half of the twentieth century. His emphasis on empathy and responsiveness influenced later relational and intersubjective currents in American psychoanalysis.
+The originator of the **Chicago school of self psychology**, and one of the deepest shifts in psychoanalysis in the second half of the twentieth century. His emphasis on empathy and responsiveness influenced later relational and intersubjective currents in American psychoanalysis.
 
 His position is understood through his dispute with **Otto Kernberg**, the debate that organized the field for thirty years: both worked on narcissism, and each arrived at the opposite of what the other reached. For Kohut, narcissism is a **deficit** in an early response, so its remedy is **empathy**, which allows growth to resume; for Kernberg it is a **defensive structure** against primary aggression and envy, so its remedy is **confrontation**. For Kohut aggression is **always secondary**, the product of a wound rather than an innate drive, and this is the issue on which the field split.
 
@@ -54,7 +54,7 @@ What has passed from Kohut into general practice, however, is not his theory but
 
 ## Selected Quotation
 
-"The small child expects the mirroring and admiring response of the adult to its presence and its actions; it expects the adult to be available as an idealized, omnipotent, and soothing selfobject." — *The Analysis of the Self* (1971, Chapter 2)
+In *The Analysis of the Self* (1971) he describes the young child as needing mirroring and admiring responses from caregivers, and the availability of caregivers as idealized, soothing selfobjects.
 
 ## His Most Important Works
 

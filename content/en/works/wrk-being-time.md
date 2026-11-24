@@ -20,7 +20,7 @@ gaps: []
 
 # Being and Time: Dasein, Temporality, and Being-toward-Death
 
-*Being and Time* (1927) by Martin Heidegger is the heaviest text in the philosophical background of the whole existential school — the most cited and the least read through. It is not a book about the human being but about the meaning of Being itself. The human being enters it because he is the one entity for whom his own being is a question — *Dasein*, being-there — and is therefore taken as the entry point, not the subject. The thesis is that the understanding of Being must begin not from the analysis of objects present before us but from the analysis of the structure of this questioning being, in what Heidegger calls the existential analytic of Dasein.
+*Being and Time* (1927) by Martin Heidegger is one of the most influential and demanding texts in the background of existential philosophy. It is not a book about the human being but about the meaning of Being itself. The human being enters it because he is the one entity for whom his own being is a question — *Dasein*, being-there — and is therefore taken as the entry point, not the subject. The thesis is that the understanding of Being must begin not from the analysis of objects present before us but from the analysis of the structure of this questioning being, in what Heidegger calls the existential analytic of Dasein.
 
 ## Structure: An Unfinished Project
 
@@ -32,7 +32,7 @@ Four concepts from the book do the most work in the clinic. *Being-in-the-world*
 
 ## Reception: Admiration, Critique, and the Turn
 
-The book was received from its appearance with exceptional resonance in German circles. Karl Löwith, a student of Heidegger, later described it as having overturned the philosophical climate, yet Löwith himself became one of its sharpest critics, arguing that the concepts of decision and authenticity carried a rigid subjectivism and that the absence of an ethical dimension and of relation to the Other emptied the analysis of social content. Emmanuel Levinas, who first introduced the book to French readers, later turned away from it, insisting on the priority of ethics over ontology. Theodor Adorno criticised the language of authenticity as a jargon concealing its ideological structure. Heidegger himself stopped completing the project after the *Kehre*, the turn of the 1930s, moving from the analysis of Dasein to thinking about the history of Being, as he explained in the *Letter on Humanism* (1947).
+The book was received from its appearance with exceptional resonance in German circles. Karl Löwith, a student of Heidegger, later described it as having overturned the philosophical climate, yet Löwith himself became one of its sharpest critics, arguing that the concepts of decision and authenticity carried a rigid subjectivism and that the absence of an ethical dimension and of relation to the Other emptied the analysis of social content. Emmanuel Levinas, an early interpreter of Heidegger for French readers, later turned away from it, insisting on the priority of ethics over ontology. Theodor Adorno criticised the language of authenticity as a jargon concealing its ideological structure. Heidegger himself stopped completing the project after the *Kehre*, the turn of the 1930s, moving from the analysis of Dasein to thinking about the history of Being, as he explained in the *Letter on Humanism* (1947).
 
 ## The Clinic, the Black Notebooks, and the Limits
 

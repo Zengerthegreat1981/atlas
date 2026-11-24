@@ -32,7 +32,7 @@ A leading naturalist and materialist philosopher, author of *Consciousness Expla
 
 ## His Place in the Current
 
-Dennett is a hard-line functionalist in the philosophy of mind, standing on the opposite axis from Chalmers on the question of consciousness, and alongside the Churchlands (Paul and Patricia) in naturalism though differing with them: he does not say that mental states do not exist (eliminativism), but that they are **real patterns** picked out by the intentional stance. Outside philosophy he was known as one of the "Four Horsemen" of the New Atheism, which is the most famous and least important aspect of his philosophical work.
+Dennett is a hard-line functionalist in the philosophy of mind, standing on the opposite axis from Chalmers on the question of consciousness, and alongside the Churchlands (Paul and Patricia) in naturalism though differing with them: he does not say that mental states do not exist (eliminativism), but that they are **real patterns** picked out by the intentional stance. Outside philosophy he was known as one of the "Four Horsemen" of the New Atheism, which is the most publicly visible, though not the central, aspect of his philosophical work.
 
 ## Major Works
 
@@ -54,7 +54,7 @@ Dennett developed a method he called "heterophenomenology", in which the researc
 
 ## Influence and Reception
 
-Dennett had a prominent presence in cognitive science, artificial intelligence, and evolutionary biology, and took part in collective works such as *The Mind's I* (1981) with Douglas Hofstadter. He entered wide controversies with Stephen Jay Gould over adaptationism, with John Searle over consciousness, and with Chalmers over the hard problem. His books addressed to the general public, among them *Intuition Pumps* (2013), made him one of the most influential contemporary philosophers in presenting philosophy to the general reader.
+Dennett had a prominent presence in cognitive science, artificial intelligence, and evolutionary biology, and took part in collective works such as *The Mind's I* (1981) with Douglas Hofstadter. He entered wide controversies with Stephen Jay Gould over adaptationism, with John Searle over consciousness, and with Chalmers over the hard problem. His books addressed to the general public, among them *Intuition Pumps* (2013), made him a prominent contemporary presenter of philosophy to the general reader.
 
 ## Limits and Criticism
 

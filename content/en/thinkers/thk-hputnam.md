@@ -21,7 +21,7 @@ gaps: []
 
 # Hilary Putnam
 
-An American philosopher (1926–2016), among the most versatile philosophers of the second half of the twentieth century, who contributed to the philosophy of mind, language, science, metaphysics, mathematics, logic, and ethics. He was born in Chicago and received his doctorate from the University of California, Los Angeles in 1951 under Hans Reichenbach, and taught at Princeton, MIT, and then Harvard until his retirement in 2000. He became known for himself overturning many of the major positions that he had formulated.
+An American philosopher (1926–2016), one of the most versatile philosophers of the second half of the twentieth century, who contributed to the philosophy of mind, language, science, metaphysics, mathematics, logic, and ethics. He was born in Chicago and received his doctorate from the University of California, Los Angeles in 1951 under Hans Reichenbach, and taught at Princeton, MIT, and then Harvard until his retirement in 2000. He became known for himself overturning many of the major positions that he had formulated.
 
 ## Life and Formation
 

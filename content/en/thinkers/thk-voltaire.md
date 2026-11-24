@@ -21,7 +21,7 @@ gaps: []
 
 # Voltaire
 
-Voltaire was the pen name of François-Marie Arouet (1694–1778), one of the foremost philosophers, essayists, dramatists, and polemicists of the French Enlightenment (*Lumières*). A celebrated champion of free speech, civil liberties, and religious tolerance, he waged a relentless intellectual campaign against dogmatism, religious persecution, judicial arbitrariness, and clerical fanaticism.
+Voltaire was the pen name of François-Marie Arouet (1694–1778), one of the leading philosophers, essayists, dramatists, and polemicists of the French Enlightenment (*Lumières*). A celebrated champion of free speech, civil liberties, and religious tolerance, he waged a relentless intellectual campaign against dogmatism, religious persecution, judicial arbitrariness, and clerical fanaticism.
 
 ## Life and Career
 
@@ -34,13 +34,13 @@ In 1750 Voltaire accepted the invitation of King Frederick II ("the Great") of P
 ## Major Contributions
 
 ### Defense of Tolerance and the Calas Affair
-Voltaire's moral philosophy culminated in his advocacy for legal reform and religious tolerance. Following the execution in 1762 of Jean Calas—a Protestant merchant from Toulouse falsely accused of murdering his son to prevent his conversion to Catholicism—Voltaire initiated an international campaign that achieved Calas's posthumous exoneration by the Royal Council in 1765. In his *Traité sur la tolérance* (*Treatise on Tolerance*, 1763), Voltaire denounced religious fanaticism as the most destructive disease of the human mind, adopting the battle cry *"Écrasez l'infâme"* ("Crush the infamous thing") to demand the eradication of intolerance, superstition, and ecclesiastical tyranny. He similarly intervened in the judicial vindication of Pierre-Paul Sirven and the posthumous defense of the Chevalier de La Barre.
+Voltaire's moral philosophy culminated in his advocacy for legal reform and religious tolerance. Following the execution in 1762 of Jean Calas—a Protestant merchant from Toulouse falsely accused of murdering his son to prevent his conversion to Catholicism—Voltaire initiated an international campaign that achieved Calas's posthumous exoneration by the Royal Council in 1765. In his *Traité sur la tolérance* (*Treatise on Tolerance*, 1763), Voltaire denounced religious fanaticism, and in his wider campaigning and correspondence he used the battle cry *"Écrasez l'infâme"* ("Crush the infamous thing") against the eradication of intolerance, superstition, and ecclesiastical tyranny. He similarly intervened in the judicial vindication of Pierre-Paul Sirven and the posthumous defense of the Chevalier de La Barre.
 
 ### Critique of Metaphysical Optimism and *Candide*
 In the satirical novella *Candide, ou l'Optimisme* (1759), written in the wake of the devastating 1755 Lisbon earthquake and the Seven Years' War, Voltaire dismantled Gottfried Wilhelm Leibniz's doctrine of philosophical optimism (the view that ours is the "best of all possible worlds"). Parodying Leibnizian rationalism through the character of Pangloss, Voltaire exposed the reality of human suffering and catastrophic evil, concluding with the practical moral injunction that "we must cultivate our garden" (*il faut cultiver notre jardin*)—a call to purposeful, pragmatic human labor in place of fatalistic metaphysical rationalization.
 
 ### Dissemination of Empiricism and Rational Deism
-Voltaire's *Lettres philosophiques* (1734) and *Dictionnaire philosophique* (1764) broke the dominance of Cartesian rationalist scholasticism in France by introducing Lockean sensory empiricism and Newtonian experimental method. Religiously, Voltaire was a resolute deist: he rejected revealed dogmas, miracles, and the divine right of kings, yet fiercely opposed the atheism and materialism of Baron d'Holbach and Julien Offray de La Mettrie. He argued for a supreme architect of the universe grounded in natural morality, famously writing: "If God did not exist, it would be necessary to invent him" (*Si Dieu n'existait pas, il faudrait l'inventer*).
+Voltaire's *Lettres philosophiques* (1734) helped displace Cartesian dominance in France by introducing Lockean sensory empiricism and Newtonian experimental method. Religiously, Voltaire was a resolute deist: he rejected revealed dogmas, miracles, and the divine right of kings, yet fiercely opposed the atheism and materialism of Baron d'Holbach and Julien Offray de La Mettrie. He argued for a supreme architect of the universe grounded in natural morality, famously writing: "If God did not exist, it would be necessary to invent him" (*Si Dieu n'existait pas, il faudrait l'inventer*).
 
 ## Engagement with Islamic and Eastern Civilization
 
@@ -48,7 +48,7 @@ Voltaire's engagement with Islam evolved over his lifetime:
 - In his early drama *Le fanatisme, ou Mahomet le Prophète* (1741), he used the figure of Muhammad as an allegory to critique religious deception and fanaticism, a work widely understood in France as a veiled attack on Catholic extremism.
 - In his mature historical treatise *Essai sur les mœurs et l'esprit des nations* (1756), his analysis became more historical and comparative. He recognized the cultural achievements of Islamic civilization, praising its administrative justice, astronomical science, and historical tolerance toward religious minorities in contrast to the Crusades and the European Inquisition.
 
-During the nineteenth-century Arab Renaissance (*al-Nahda*), Voltaire's works were widely read as foundational models for legal reform, free expression, and religious tolerance. Rifa'a al-Tahtawi referenced Voltaire prominently in *Takhlis al-Ibriz fi Talkhis Bariz* (1834), and later Arab reformers, including Farah Antun and Taha Hussein, drew on Voltairean critiques of clericalism.
+During the nineteenth-century Arab Renaissance (*al-Nahda*), Voltaire's works were widely read as foundational models for legal reform, free expression, and religious tolerance. Rifa'a al-Tahtawi referenced Voltaire prominently in *Takhlis al-Ibriz fi Talkhis Bariz* (1834), and later Arab writers such as Farah Antun engaged with Enlightenment critiques of clericalism.
 
 ## Critical Evaluation and Limits
 
@@ -68,7 +68,7 @@ Modern scholars have criticized anti-Semitic remarks appearing in several articl
 
 ## Sources
 
-- Voltaire (1734). *Lettres philosophiques*. Amsterdam.
+- Voltaire (1734). *Lettres philosophiques*.
 - Voltaire (1759). *Candide, ou l'Optimisme*. Geneva: Cramer.
 - Voltaire (1763). *Traité sur la tolérance*. Geneva: Cramer.
 - Voltaire (1764). *Dictionnaire philosophique portatif*. London [Geneva: Cramer].

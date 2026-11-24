@@ -31,7 +31,7 @@ gaps:
 
 # Mary Ainsworth
 
-An American psychologist, and the most important figure in giving attachment theory its empirical, measurement-based foundation. **The theory itself is John Bowlby's**, formulated in his trilogy *Attachment and Loss*; Ainsworth's distinctive share is **two longitudinal field studies**, **a laboratory measurement procedure**, and **a classification** by which differences among children are measured.
+An American psychologist, and a leading figure in giving attachment theory its empirical, measurement-based foundation. **The theory itself is John Bowlby's**, formulated in his trilogy *Attachment and Loss*; Ainsworth's distinctive share is **two longitudinal field studies**, **a laboratory measurement procedure**, and **a classification** by which differences among children are measured.
 
 ## What She Contributed
 

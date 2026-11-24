@@ -23,7 +23,7 @@ gaps: []
 
 # Ernesto Spinelli
 
-Ernesto Spinelli (born 1949) is an Italian-born British existential psychotherapist, chartered psychologist, and author. A prominent faculty member and former head of the School of Psychotherapy and Counselling at Regent's University London, Spinelli is one of the leading theorists of contemporary relational existential psychotherapy and phenomenological psychology in the United Kingdom. Within the British existential school, Spinelli has frequently occupied the role of the radical internal critic—challenging therapeutic orthodoxies and structural frameworks with the same rigorous phenomenological skepticism that existentialists historically directed against classical psychoanalysis and cognitive psychology.
+Ernesto Spinelli is an Italian-born British existential psychotherapist, chartered psychologist, and author. A longtime faculty member at Regent's University London and the Existential Academy, Spinelli is a prominent theorist of contemporary relational existential psychotherapy and phenomenological psychology in the United Kingdom. Within the British existential school, Spinelli has frequently occupied the role of the radical internal critic—challenging therapeutic orthodoxies and structural frameworks with the same rigorous phenomenological skepticism that existentialists historically directed against classical psychoanalysis and cognitive psychology.
 
 ## Context and Lineage
 
@@ -53,7 +53,7 @@ In *Practising Existential Therapy: The Relational World* (2007; 2nd ed. 2015), 
 
 ## Reception and Critique
 
-Spinelli's radical commitment to uncertainty and relational presence has exerted a profound influence on existential psychotherapy training throughout Europe and internationally. However, critics have argued that his rejection of predetermined goals, diagnostic frameworks, and manualized techniques makes empirical outcome research difficult and may leave novice practitioners without concrete clinical compasses. Spinelli maintains that standardized outcome studies, by imposing predetermined categories of distress and health, violate the phenomenological essence of the clinical encounter.
+Spinelli's radical commitment to uncertainty and relational presence has influenced existential psychotherapy training throughout Europe and internationally. However, critics have argued that his rejection of predetermined goals, diagnostic frameworks, and manualized techniques makes empirical outcome research difficult and may leave novice practitioners without concrete clinical compasses.
 
 ## Major Works
 
@@ -62,7 +62,6 @@ Spinelli's radical commitment to uncertainty and relational presence has exerted
 - *Tales of Un-knowing: Therapeutic Encounters from an Existential Perspective* (1997)
 - *The Mirror and the Hammer: Challenges to Therapeutic Orthodoxy* (2001)
 - *Practising Existential Therapy: The Relational World* (2007; 2nd ed. 2015)
-- *Questions and Answers in Existential Psychotherapy* (2015)
 
 ## Sources
 

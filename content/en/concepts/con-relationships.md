@@ -43,7 +43,7 @@ Beyond Buber, phenomenological psychiatrists expanded the structure of human rel
 - **Ludwig Binswanger's Relational Modes**: In *Grundformen und Erkenntnis menschlichen Daseins* (1942), Binswanger outlined four primary modes of existence:
   1. *The Dual Mode (Zweiheit)*: the loving encounter (*liebende Begegnung*) where two individuals transcend solitary ego boundaries to experience a shared "We" (*Wirheit*).
   2. *The Plural Mode (Vielheit)*: the formal realm of social contracts, competition, and public roles.
-  3. *The Singular Mode (Einheit)*: the solitary domain of introspection and self-knowledge.
+  3. *The Singular Mode (Einzelheit)*: the solitary domain of introspection and self-knowledge.
   4. *The Anonymous Mode*: the depersonalized absorption in mass society.
 - **Emmy van Deurzen's Mitwelt**: van Deurzen (*Existential Counselling and Psychotherapy in Practice*, 2012) identifies the *Mitwelt* (the social world) as one of the four fundamental dimensions of human existence. The social dimension is structured by persistent dialectical tensions: belonging versus isolation, competition versus cooperation, and power versus mutual recognition.
 
@@ -64,7 +64,7 @@ Authentic relationships require courage and vulnerability: the willingness to be
 - May, R. (1969). *Love and Will*. W. W. Norton & Company.
 - Binswanger, L. (1942). *Grundformen und Erkenntnis menschlichen Daseins*. Max Niehans.
 - van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice* (3rd ed.). SAGE.
-- Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+- Frankl, V. E. (1959). *From Death-Camp to Existentialism*. Beacon Press. (Later editions retitled *Man's Search for Meaning*.)
 
 ## Related Concepts
 

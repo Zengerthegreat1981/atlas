@@ -48,7 +48,7 @@ Consequences are categorized along two orthogonal dimensions: whether a stimulus
 - **Negative Punishment (Punishment by Removal)**: the removal or withdrawal of a desired appetitive stimulus following a response, reducing response frequency (e.g., time-out, loss of privileges, response cost).
 
 ### Extinction and Spontaneous Recovery
-- **Extinction**: the discontinuation of reinforcement for a previously reinforced behavior, resulting in a gradual decrease in response frequency. Extinction is typically preceded by an temporary increase in frequency, variability, and emotional intensity known as an *extinction burst*.
+- **Extinction**: the discontinuation of reinforcement for a previously reinforced behavior, resulting in a gradual decrease in response frequency. Extinction is typically preceded by a temporary increase in frequency, variability, and emotional intensity known as an *extinction burst*.
 - **Spontaneous Recovery**: the sudden reappearance of an extinguished operant response after a rest period or change in environmental context.
 
 ## Schedules of Reinforcement

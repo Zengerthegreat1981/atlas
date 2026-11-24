@@ -34,7 +34,7 @@ A systemic session looks different from individual therapy. The therapist may me
 
 ## Key Figures
 
-Bateson is the intellectual founder, though he was an anthropologist rather than a therapist. Minuchin gave the field its most practical clinical map, and his work with poor and multiproblem families showed that systemic therapy could work where individual therapy could not. Bowen brought a developmental and multigenerational perspective, and his concept of differentiation remains central. Selvini Palazzoli and the Milan team brought rigour and daring, with their hypothesising, neutrality and circularity as explicit principles. De Shazer, with Insoo Kim Berg, shifted the field toward the future: the miracle question — "if a miracle happened tonight and the problem was gone, what would be different tomorrow?" — became one of the most widely used questions in all of psychotherapy.
+Bateson is a major intellectual forerunner, though he was an anthropologist rather than a therapist. Minuchin gave the field its most practical clinical map, and his work with poor and multiproblem families showed that systemic therapy could work where individual therapy could not. Bowen brought a developmental and multigenerational perspective, and his concept of differentiation remains central. Selvini Palazzoli and the Milan team brought rigour and daring, with their hypothesising, neutrality and circularity as explicit principles. De Shazer, with Insoo Kim Berg, shifted the field toward the future: the miracle question — "if a miracle happened tonight and the problem was gone, what would be different tomorrow?" — became one of the most widely used questions in all of psychotherapy.
 
 ## Evidence and Influence
 

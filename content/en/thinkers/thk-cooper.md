@@ -17,7 +17,7 @@ gaps: []
 
 # Mick Cooper
 
-Mick Cooper (born 1964) is an internationally recognized British counselling psychologist, psychotherapist, and academic who has played a transformative role in surveying and modernizing existential and humanistic therapies. As Professor of Counselling Psychology at the University of Roehampton, Cooper provided the first comprehensive mapping of the disparate traditions comprising existential practice, establishing the convention of speaking of "existential therapies" in the plural rather than as a monolithic school.
+Mick Cooper (born 1964) is an internationally recognized British counselling psychologist, psychotherapist, and academic who has written widely on existential, humanistic and pluralistic therapies. A professor of counselling psychology, Cooper provided an influential mapping of the disparate traditions comprising existential practice, helping popularize the habit of speaking of "existential therapies" in the plural rather than as a monolithic school.
 
 ## Mapping Existential Therapies in the Plural
 
@@ -35,11 +35,11 @@ By articulating their shared foundational themes alongside their significant the
 Beyond taxonomy, Cooper has made major conceptual and clinical contributions:
 
 - **The Pluralistic Approach:** Developed collaboratively with John McLeod (*Pluralistic Counselling and Psychotherapy*, 2011), pluralism is both a philosophical stance and a practice framework. It asserts that different clients require different therapeutic methods at different times, and that therapy should be guided by open dialogue, shared decision-making, and client preferences rather than rigid adherence to a single modality.
-- **Relational Depth:** Co-authored with Dave Mearns (*Working at Relational Depth in Counselling and Psychotherapy*, 2005), this concept describes moments of profound contact, mutual transparency, and deep engagement between therapist and client, which research shows correlate strongly with positive therapeutic outcomes.
+- **Relational Depth:** Co-authored with Dave Mearns (*Working at Relational Depth in Counselling and Psychotherapy*, 2005), this concept describes moments of profound contact, mutual transparency, and deep engagement between therapist and client, which have been studied in relation to therapeutic outcomes.
 
 ## Empirical Research and Dialogue
 
-While existential therapy historically maintained an anti-empirical or suspicious stance toward quantitative measurement, Cooper has been a leading champion of evidence-informed practice within humanistic and existential modalities. In *Essential Research Findings in Counselling and Psychotherapy* (2008) and large-scale clinical trials (such as the ETHOS trial evaluating school-based humanistic counselling), he demonstrated that humanistic therapies achieve outcomes comparable to cognitive-behavioural approaches. He also co-developed the Cooper-Norcross Inventory of Preferences (C-NIP) to assess client therapy preferences systematically.
+While existential therapy historically maintained an anti-empirical or suspicious stance toward quantitative measurement, Cooper has been a leading champion of evidence-informed practice within humanistic and existential modalities. In *Essential Research Findings in Counselling and Psychotherapy* (2008) and large-scale clinical trials (such as the ETHOS trial evaluating school-based humanistic counselling), he argued from the research evidence that humanistic therapies achieve outcomes broadly comparable to other established approaches. He also co-developed the Cooper-Norcross Inventory of Preferences (C-NIP) to assess client therapy preferences systematically.
 
 ## Major Works
 

@@ -27,7 +27,7 @@ gaps: []
 
 # Kitaro Nishida
 
-A great Japanese philosopher, the founding father of the "Kyoto School of philosophy" and one of the greatest contemporary philosophers of the East, author of *An Inquiry into the Good* and originator of the "logic of place and absolute nothingness".
+A leading modern Japanese philosopher, the central founding figure of the "Kyoto School" of philosophy, author of *An Inquiry into the Good* and originator of the "logic of place and absolute nothingness".
 
 ## Biography and Formation
 
@@ -43,17 +43,17 @@ In *An Inquiry into the Good*, Nishida begins from "pure experience", that is, e
 
 ## His Place in the Current
 
-He is generally regarded as the most important modern Japanese philosopher, an inspiration for Japanese phenomenological psychiatry (Bin Kimura) and the founder of the philosophical circle known as the Kyoto School.
+He is often regarded as the most important modern Japanese philosopher, cited by some Japanese phenomenological psychiatrists such as Bin Kimura, and the central figure of the philosophical circle known as the Kyoto School.
 
 ## Reception and Criticism
 
-Nishida influenced his students Nishitani, Tanabe, and Miki, Japanese psychiatry through Bin Kimura, and Western studies of Japanese philosophy. He is usually criticized because his language is dense and closer to esoteric discourse, and because the influence of Zen leads some to see his project as more religious than philosophical. In the war years his political writings, especially a text on the "principle of the new world order" (1943), took part in the controversy over the Kyoto School's position on Japanese nationalism and imperialism, a controversy that remains open between those who read his texts as veiled opposition and those who see them as complicit.
+Nishida influenced his students Nishitani, Tanabe, and Miki, and Western studies of Japanese philosophy. He is usually criticized because his language is dense and closer to esoteric discourse, and because the influence of Zen leads some to see his project as more religious than philosophical. In the war years his political writings, especially a text on the "principle of the new world order" (1943), took part in the controversy over the Kyoto School's position on Japanese nationalism and imperialism, a controversy that remains open between those who read his texts as veiled opposition and those who see them as complicit.
 
 ## Stages of Thought and the Kyoto School
 
 Scholars divide Nishida's thought into stages: the stage of "pure experience" in *An Inquiry into the Good* (1911), then the stage of "self-consciousness" in *Intuition and Reflection in Self-Consciousness* (1917), in which he discussed Fichte and Neo-Kantianism, then the stage of "place" after 1926, in which he formulated the concept of place and its absolute nothingness, up to his writings on the philosophy of history and religion. His lifelong friend was D. T. Suzuki, who introduced Zen to the West, which helped his connection with religious and philosophical circles outside Japan.
 
-Around him in Kyoto a circle of students and colleagues formed, among them Hajime Tanabe, Keiji Nishitani, and Miki Kiyoshi, who formed what became known as the Kyoto School, the first modern Japanese philosophical school to write in a European philosophical language while starting from the heritage of East Asia.
+Around him in Kyoto a circle of students and colleagues formed, among them Hajime Tanabe, Keiji Nishitani, and Miki Kiyoshi, who formed what became known as the Kyoto School, a modern Japanese philosophical school that engaged European philosophy while drawing on the heritage of East Asia.
 
 ## Absolute Nothingness and Religion
 

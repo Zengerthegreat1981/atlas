@@ -44,6 +44,7 @@ Many prominent figures associated with the communitarian label resisted it: MacI
 
 ## Sources
 
+- Rawls, John. *A Theory of Justice*. Cambridge, MA: Harvard University Press, 1971.
 - Sandel, Michael J. *Liberalism and the Limits of Justice*. Cambridge: Cambridge University Press, 1982.
 - MacIntyre, Alasdair. *After Virtue: A Study in Moral Theory*. London: Duckworth, 1981.
 - Taylor, Charles. *Sources of the Self: The Making of the Modern Identity*. Cambridge, MA: Harvard University Press, 1989.

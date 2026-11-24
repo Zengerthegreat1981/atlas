@@ -29,7 +29,7 @@ gaps: []
 
 # Lev Vygotsky
 
-A Soviet Jewish psychologist, founder of **Sociocultural Theory** in developmental psychology, and one of the most important theorists of the relation between language and consciousness. He lived a short life (1896–1934) and left a research legacy that was not translated into English until the 1960s, which brought about a **revolution in the understanding of cognitive development**. Vygotsky is regarded as Piaget's principal "intellectual counterpart", and as the turning point from structural individualism to the sociocultural approach in the twentieth century.
+A Soviet Jewish psychologist, principal originator of **Sociocultural Theory** in developmental psychology, and one of the most important theorists of the relation between language and consciousness. He lived a short life (1896–1934) and left a research legacy that was not translated into English until the 1960s, which brought about a **revolution in the understanding of cognitive development**. Vygotsky is regarded as Piaget's principal "intellectual counterpart", and as the turning point from structural individualism to the sociocultural approach in the twentieth century.
 
 ## What He Contributed
 
@@ -96,4 +96,5 @@ The fundamental difference between Piaget and Vygotsky here: Piaget focused on *
 - Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes* (M. Cole, V. John-Steiner, S. Scribner, & E. Souberman, Eds. & Trans.). Harvard University Press.
 - Vygotsky, L. S. (1962). *Thought and Language* (E. Hanfmann & G. Vakar, Trans.). MIT Press. (Russian original: *Мышление и речь*, 1934)
 - Vygotsky, L. S. (1925/1971). *Psychology of Art* (*Психология искусства*). MIT Press.
+- Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry*, 17(2), 89–100.
 - Kozulin, A. (1990). *Vygotsky's Psychology: A Biography of Ideas*. Harvard University Press.

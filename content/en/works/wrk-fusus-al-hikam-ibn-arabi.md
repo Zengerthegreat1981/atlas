@@ -25,7 +25,7 @@ gaps: []
 
 # The Bezels of Wisdom (Fusus al-Hikam) by Muhyi al-Din Ibn Arabi
 
-A brief, extremely condensed text, the most famous thing written in theoretical gnosis and the one that has provoked the most controversy. It was written by **Muhyi al-Din Ibn Arabi** (560–638 AH / 1165–1240 CE) in Damascus late in his life, after he had composed much of the "Meccan Revelations", and among his students it is regarded as the quintessence of his doctrine.
+A brief, extremely condensed text, one of the most famous and most controversial works of theoretical Sufism. It was written by **Muhyi al-Din Ibn Arabi** (560–638 AH / 1165–1240 CE) in Damascus late in his life, after he had composed much of the "Meccan Revelations", and among his students it is regarded as the quintessence of his doctrine.
 
 ## The Central Thesis
 
@@ -49,7 +49,7 @@ As for modern printing, the best-known approved edition is the edition of **Abu 
 
 ## Reception and Criticism
 
-The book is the most divisive text of the Islamic heritage. On one side the whole **Akbarian School** was founded on it, east and west, and it entered teaching curricula in Iran, Anatolia, and India. On the other side it was **the focus of a continuous theological and juristic attack**, the most famous being Ibn Taymiyya's attack on the claim of unity of being, and al-Biqa'i's book *Tanbih al-Ghabi ila Takfir Ibn Arabi*, and the dispute continued for centuries among those who declared him an unbeliever, those who interpreted him, and those who defended him. The most disputed passages are his statement on the faith of Pharaoh in the bezel of Moses, on the worshippers of the calf in the bezel of Aaron, and on the "seal of the saints".
+The book is one of the most divisive texts of the Islamic heritage. On one side the whole **Akbarian School** was founded on it, east and west, and it entered teaching curricula in Iran, Anatolia, and India. On the other side it was **the focus of a continuous theological and juristic attack**, the most famous being Ibn Taymiyya's attack on the claim of unity of being, and al-Biqa'i's book *Tanbih al-Ghabi ila Takfir Ibn Arabi*, and the dispute continued for centuries among those who declared him an unbeliever, those who interpreted him, and those who defended him. The most disputed passages are his statement on the faith of Pharaoh in the bezel of Moses, on the worshippers of the calf in the bezel of Aaron, and on the "seal of the saints".
 
 Besides the disagreement over content, a disagreement was raised over **authenticity of attribution**: is the book as a whole by Ibn Arabi, or were additions introduced into it? Some defenders of the Shaykh went so far as to deny the attribution of particular passages to him in order to soften the sharpness of the objection. The two questions, attribution and theological judgment, remain matters of scholarly dispute. It should be noted that the phrase "unity of being" does not appear literally in the *Fusus*, but is a later designation that came onto the tongues of the school's students and its opponents, and for that reason some contemporary scholars, such as William Chittick, prefer to describe his doctrine as the self-disclosure of the One Being in countless forms.
 
@@ -59,7 +59,7 @@ In modern scholarship Abu al-Ala Afifi produced the edition of the text and the 
 
 ## Language and Editions
 
-The work was composed in Arabic, so Arabic readers read the original text directly. For decades, the standard reference edition was that of Abu al-Ala Afifi (Cairo, 1946), based on several Cairo and Istanbul manuscripts. However, subsequent scholarship highlighted that Afifi did not consult the paramount witness: the autograph/certified copy preserved in Istanbul (Evkaf Müzesi 1933), copied by Ibn Arabi's foremost disciple Sadr al-Din al-Qunawi in 630 AH and bearing collation notes and a certificate in Ibn Arabi's own hand. Later critical editions—such as that prepared by Bakri Aladdin (Damascus: Institut Français du Proche-Orient, 2018) and other scholarly collations—collated the text against this certified Konya archetype, correcting typographical and textual discrepancies found in Afifi's pioneering recension. The work is traditionally read alongside its classical commentaries.
+The work was composed in Arabic, so Arabic readers read the original text directly. For decades, the standard reference edition was that of Abu al-Ala Afifi (Cairo, 1946), based on several Cairo and Istanbul manuscripts. Later scholarship has noted that Afifi did not use some of the earliest manuscripts, notably copies associated with Sadr al-Din al-Qunawi, and later editions have collated these earlier witnesses. The work is traditionally read alongside its classical commentaries.
 
 ## Influence on Psychology and Contemporary Thought
 

@@ -55,7 +55,7 @@ Existential psychology warns against two equal and opposite reductionist hazards
 ## Sources
 
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.; DSM-5-TR). American Psychiatric Publishing.
-- Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
+- Frankl, V. E. (1959). *From Death-Camp to Existentialism* (later retitled *Man's Search for Meaning*). Beacon Press.
 - Minkowski, E. (1970). *Lived Time: Phenomenological and Psychopathological Studies* (N. Metzel, Trans.). Northwestern University Press. (Original French work published 1933).
 - Ratcliffe, M. (2015). *Experiences of Depression: A Study in Phenomenology*. Oxford University Press.
 - Solomon, A. (2001). *The Noonday Demon: An Atlas of Depression*. Scribner.

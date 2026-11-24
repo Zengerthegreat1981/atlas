@@ -29,8 +29,8 @@ The initial delay-of-gratification experiments were conducted between 1968 and 1
 
 The original published experiments evaluated specific sample cohorts:
 - **Mischel & Ebbesen (1970)**: Tested 32 preschool children (16 boys, 16 girls; age range 3 years 6 months to 5 years 6 months) across four reward-visibility conditions ($N = 8$ per condition). Children waited significantly longer when neither reward was visible (mean wait ~11 minutes) than when both rewards remained in plain view (mean wait < 1 minute).
-- **Mischel, Ebbesen, & Raskoff Zeiss (1972)**: Evaluated attentional and cognitive mechanisms. Experiment 1 tested 50 children across cognitive distraction conditions (thinking fun thoughts vs thinking about rewards), while Experiment 2 tested 32 children comparing real food rewards versus symbolic depictions (toy replicas or pictures), demonstrating that cognitive distraction facilitated delayed gratification.
-- Across the wider Bing Nursery School study series, approximately 550 to 600 children participated in diverse variations of the delay paradigm.
+- **Mischel, Ebbesen, & Raskoff Zeiss (1972)**: Evaluated attentional and cognitive mechanisms. The experiments varied what children were encouraged to think about (fun thoughts versus the rewards) and whether the rewards were real or symbolic (pictures), and showed that how children mentally represent the rewards strongly affects how long they wait.
+- Across the wider Bing Nursery School series, several hundred children took part in variations of the delay paradigm.
 
 ## Attentional Strategies and the Hot/Cool Framework
 
@@ -42,18 +42,19 @@ These observations led to Metcalfe and Mischel's (1999) **Hot/Cool System** mode
 
 ## Longitudinal Follow-Ups
 
-Decades later, Mischel, Yuichi Shoda, and Philip Peake recontacted subsets of the Bing cohort. In their 1990 follow-up of 185 adolescents (with 94 providing standardized test data), preschool delay time in specific diagnostic conditions correlated positively with higher SAT scores (differences exceeding 200 points between high and low delayers) and parental ratings of adolescent social and academic competence. Subsequent adult follow-ups (Casey et al., 2011) reported that differences in self-control persisted into middle adulthood, correlating with differences in prefrontal and striatal activation during go/no-go inhibitory tasks.
+Decades later, Mischel, Yuichi Shoda, and Philip Peake recontacted subsets of the Bing cohort. In their 1990 follow-up of adolescents from the original cohort, preschool delay time under specific diagnostic conditions correlated positively with SAT scores and with parental ratings of adolescent social and academic competence. Subsequent adult follow-ups (Casey et al., 2011) reported that differences in self-control persisted into middle adulthood, correlating with differences in prefrontal and striatal activation during go/no-go inhibitory tasks.
 
 ## Environmental Reliability and Conceptual Replications
 
 Later research critically re-evaluated whether delay time reflects innate willpower or rational adaptation to environmental trust:
 - **Environmental Reliability (Kidd, Palmeri, & Aslin, 2013)**: Tested children in reliable versus unreliable environments. Children who experienced broken promises from adults prior to the test waited on average only 3 minutes, whereas children in reliable conditions waited over 12 minutes, showing that delay choices reflect rational economic decisions based on adult trustworthiness.
-- **The Watts et al. (2018) Conceptual Replication**: Using a socioeconomically and ethnically diverse sample of more than 900 children from the NICHD Study of Early Child Care and Youth Development, Watts, Duncan, and Quan found that the correlation between preschool delay time and adolescent achievement dropped substantially once maternal education, household income, and early cognitive ability were controlled. Rather than a pure measure of self-control, performance on the marshmallow test heavily reflects socioeconomic stability and early cognitive resources.
+- **The Watts et al. (2018) Conceptual Replication**: Using a socioeconomically and ethnically diverse sample of more than 900 children from the NICHD Study of Early Child Care and Youth Development, Watts, Duncan, and Quan found that the correlation between preschool delay time and adolescent achievement dropped substantially once maternal education, household income, and early cognitive ability were controlled. This suggests that performance on the marshmallow test partly reflects socioeconomic background and early cognitive resources rather than self-control alone.
 
 ## Sources
 
 - Mischel, W., & Ebbesen, E. B. (1970). Attention in delay of gratification. *Journal of Personality and Social Psychology*, 16(2), 329-337.
 - Mischel, W., Ebbesen, E. B., & Raskoff Zeiss, A. (1972). Cognitive and attentional mechanisms in delay of gratification. *Journal of Personality and Social Psychology*, 21(2), 204-218.
+- Casey, B. J., et al. (2011). Behavioral and neural correlates of delay of gratification 40 years later. *Proceedings of the National Academy of Sciences, 108*(36), 14998-15003.
 - Shoda, Y., Mischel, W., & Peake, P. K. (1990). Predicting adolescent cognitive and self-regulatory competencies from preschool delay of gratification: Identifying diagnostic conditions. *Developmental Psychology*, 26(6), 978-986.
 - Metcalfe, J., & Mischel, W. (1999). A hot/cool-system analysis of delay of gratification: Dynamics of willpower. *Psychological Review*, 106(1), 3-19.
 - Kidd, C., Palmeri, H., & Aslin, R. N. (2013). Rational snacking: Young children's decision-making on the marshmallow task is moderated by beliefs about environmental reliability. *Cognition*, 126(1), 109-114.

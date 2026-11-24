@@ -51,13 +51,11 @@ Administration utilizes an adaptive routing procedure: the Nonverbal Object Seri
 
 The SB5 demonstrates exceptional reliability. The Full Scale IQ composite achieves an internal consistency reliability of 0.97 to 0.98, while individual factor indexes range between 0.90 and 0.92. Test-retest stability across representative samples averages approximately 0.93.
 
-The Stanford-Binet holds a central position in psychometrics across the Arab world. Initial adaptations were pioneered in Egypt by Ismail Qabbani (1938) and Louis Kamel Melika (Form L-M in the 1960s). Melika subsequently standardized the Fourth Edition. 
-
-The Fifth Edition (SB5) underwent extensive psychometric adaptation and re-standardization led by Mahmoud El-Sayed Abou-El-Niel and colleagues (2008), normed on large, nationally representative stratified samples across Egypt, Saudi Arabia, Kuwait, and the wider Arab region. Factorial analyses in Arabic cohorts confirmed the dual-track five-factor CHC structure, making the Arabic SB5 a primary diagnostic reference for determining intellectual disability, learning disorders, and giftedness.
+Arabic adaptations of earlier editions of the Stanford-Binet were produced in Egypt in the twentieth century and have been used in educational and clinical assessment in the region. Arabic versions of the Fifth Edition have also been developed; readers should consult the specific adaptation's manual for its norms, sampling, and psychometric evidence before use.
 
 ## Historical Criticisms and Ethical Legacy
 
-Early versions of the Stanford-Binet were heavily critiqued for cultural, socio-economic, and linguistic bias favoring educated Western demographics. Historically, Terman and contemporaries associated with early mental testing endorsed eugenic perspectives; early intelligence test scores were weaponized to support restrictive immigration laws and institutionalization in the early 20th century. Modern revisions (SB4 and SB5) have explicitly mitigated these biases by balancing verbal and nonverbal tracks and establishing culturally vetted item pools. Clinical diagnosis of intellectual disability requires corroborating evidence of adaptive behavioral deficits and cannot rely solely on test scores.
+Early versions of the Stanford-Binet were heavily critiqued for cultural, socio-economic, and linguistic bias favoring educated Western demographics. Historically, Terman and contemporaries associated with early mental testing endorsed eugenic perspectives; early intelligence test scores were weaponized to support restrictive immigration laws and institutionalization in the early 20th century. Modern revisions (SB4 and SB5) attempted to reduce these biases through balanced verbal and nonverbal content and bias review of items, though cultural and linguistic influences on test performance cannot be eliminated. Clinical diagnosis of intellectual disability requires corroborating evidence of adaptive behavioral deficits and cannot rely solely on test scores.
 
 ## Sources
 

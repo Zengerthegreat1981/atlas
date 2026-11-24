@@ -40,7 +40,7 @@ In contemporary psychology, the distinction between hedonic and eudaimonic well-
 
 - **Eudaimonic vs. Hedonic Well-Being**: Hedonic approaches (associated with subjective well-being research by Ed Diener and others) define well-being through high positive affect, low negative affect, and high life satisfaction. In contrast, eudaimonic approaches emphasize meaning, personal growth, self-actualization, and vital engagement.
 - **Six-Factor Psychological Well-Being**: Carol D. Ryff (1989) operationalized eudaimonic flourishing into six distinct dimensions: self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life, and personal growth.
-- **Self-Determination Theory**: Richard M. Ryan and Edward L. Deci (2000, 2001) linked eudaimonia to the fulfillment of three basic psychological needs: autonomy, competence, and relatedness.
+- **Self-Determination Theory**: Richard M. Ryan and Edward L. Deci (2001) linked eudaimonia to the fulfillment of three basic psychological needs: autonomy, competence, and relatedness.
 - **The PERMA Model**: Martin Seligman, in *Flourish* (2011), expanded authentic well-being beyond subjective happiness into five measurable pillars: Positive Emotion, Engagement, Relationships, Meaning, and Accomplishment.
 
 ## Critiques and Theoretical Limits

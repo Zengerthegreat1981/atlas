@@ -55,12 +55,12 @@ Under DSM-5-TR, symptomatic manifestations are distributed across five primary c
 - Conducting systematic risk assessments for self-harm or suicidal ideation.
 
 ### Phase 2: Evidence-Based Psychological Interventions
-- **Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)**: Randomized clinical trials (Bryant et al., 1998, 2016) establish brief trauma-focused CBT (incorporating psychoeducation, gradual imaginal and in vivo exposure, cognitive restructuring of trauma appraisals, and emotional regulation skills) as the premier evidence-based treatment for acute stress disorder, significantly reducing the subsequent incidence of chronic PTSD.
+- **Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)**: Randomized clinical trials (e.g., Bryant et al., 1998; reviewed in Bryant, 2016) support brief trauma-focused CBT (incorporating psychoeducation, gradual imaginal and in vivo exposure, cognitive restructuring of trauma appraisals, and emotional regulation skills) as the best-supported treatment for acute stress disorder, reducing the subsequent incidence of chronic PTSD.
 - **Adjunctive Distress-Tolerance and Mindfulness Strategies**: Elements from Acceptance and Commitment Therapy (ACT) and Dialectical Behavior Therapy (DBT) distress tolerance skills (e.g., sensory grounding, paced breathing, and mindful cognitive defusion) serve as practical adjuncts to manage acute physiological surges without avoiding processing.
 
 ### Phase 3: Pharmacotherapy (Adjunctive and Conservative)
 - Clinical consensus guidelines do not recommend routine pharmacotherapy as a first-line treatment for acute stress disorder.
-- **Caution Regarding Benzodiazepines**: Controlled studies and meta-analyses indicate that early administration of benzodiazepines is contraindicated; they do not prevent PTSD and may interfere with natural emotional processing and memory extinction.
+- **Caution Regarding Benzodiazepines**: Controlled studies and meta-analyses indicate that early administration of benzodiazepines is not recommended; they have not been shown to prevent PTSD and may interfere with natural emotional processing and memory extinction.
 - **Symptom-Targeted Pharmacotherapy**: Qualified physicians may consider short-term, judicious pharmacological agents primarily for severe, intractable insomnia or comorbid agitation.
 
 ### Phase 4: Long-Term Monitoring and Transition to PTSD
@@ -68,7 +68,7 @@ Under DSM-5-TR, symptomatic manifestations are distributed across five primary c
 
 ## Clinical Contraindications
 
-- **Single-Session Psychological Debriefing**: Routine mandatory critical incident stress debriefing (CISD) applied immediately after trauma is contraindicated; empirical systematic reviews (Rose et al., 2002) indicate it does not reduce PTSD incidence and may inadvertently increase psychological distress.
+- **Single-Session Psychological Debriefing**: Routine mandatory critical incident stress debriefing (CISD) applied immediately after trauma is not recommended; systematic reviews (Rose et al., 2002) found no evidence that it reduces PTSD incidence, and some trials suggested possible harm.
 - **Premature Cathartic Exposure**: Forcing an acutely traumatized individual to recount sensory trauma details before stability, safety, and emotional containment are secured risks secondary retraumatization.
 
 ## Sources

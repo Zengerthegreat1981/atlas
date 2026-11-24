@@ -25,7 +25,7 @@ gaps: []
 
 # Erich Fromm
 
-A prominent German-American psychoanalyst, social philosopher, and humanist (1900–1980), born in Frankfurt to an Orthodox Jewish family. He studied sociology at the University of Heidelberg and trained analytically at the Berlin Psychoanalytic Institute, before emigrating to the United States in 1934 to escape the rise of Nazism. He was one of the leading figures of the "Frankfurt School" of critical theory in its first phase, and the founder of a current that combined psychoanalysis with Marxist social critique and existential philosophy and humanism.
+A prominent German-American psychoanalyst, social philosopher, and humanist (1900–1980), born in Frankfurt to an Orthodox Jewish family. He studied sociology at the University of Heidelberg and trained analytically at the Berlin Psychoanalytic Institute, before emigrating to the United States in 1934 to escape the rise of Nazism. He was one of the leading figures of the "Frankfurt School" of critical theory in its first phase, and a leading exponent of a current that combined psychoanalysis with Marxist social critique and existential philosophy and humanism.
 
 ## Historical Context
 

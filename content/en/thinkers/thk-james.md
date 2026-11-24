@@ -23,7 +23,7 @@ gaps: []
 
 # William James
 
-An American philosopher and psychologist, a founder of American pragmatism and originator of the concept of the "stream of consciousness" (Stream of Consciousness), and the first to offer a systematic psychological description of lived experience in English, before any European translation of phenomenology.
+An American philosopher and psychologist, a founder of American pragmatism and originator of the concept of the "stream of consciousness" (Stream of Consciousness), and an early author of a systematic psychological description of lived experience in English, developed largely independently of European phenomenology.
 
 ## Life and Context
 
@@ -31,7 +31,7 @@ William James was born in New York on 11 January 1842 into a cultured family; hi
 
 ## What He Contributed
 
-**The Principles of Psychology (1890)**: a two-volume work that took twelve years and was published by Henry Holt. It contains the chapter "The Stream of Thought," which described consciousness as a continuous flow rather than a chain of separate elements, with "fringes" and a "specious present." As James famously wrote (1890, Vol. 1, p. 239):
+**The Principles of Psychology (1890)**: a two-volume work that took twelve years and was published by Henry Holt. It contains the chapter "The Stream of Thought," which described consciousness as a continuous flow rather than a chain of separate elements, with "fringes" and a "specious present." As James famously wrote in *The Principles of Psychology* (1890):
 
 > "Consciousness, then, does not appear to itself chopped up in bits... It is nothing jointed; it flows. A 'river' or a 'stream' are the metaphors by which it is most naturally described. In talking of it hereafter, let us call it the stream of thought, of consciousness, or of subjective life."
 
@@ -45,7 +45,7 @@ He distinguished between the acting "I" and the known "Me," which includes the m
 
 ## His Place in the Current
 
-He represents the earliest American voice that prepared the ground for receiving the European tradition (phenomenology and then existentialism) when it arrived later through the book *Existence* (May, Angel, and Ellenberger, 1958), although he preceded them by decades and never met any of the European existentialists directly. He studied extraordinary phenomena, serving as president of the Society for Psychical Research in 1894-1895 and giving the Lowell lectures on exceptional mental states in 1896, which affected the founding of the psychology of religion and abnormal psychology in America.
+He represents the earliest American voice that prepared the ground for receiving the European tradition (phenomenology and then existentialism) when it arrived later through the book *Existence* (May, Angel, and Ellenberger, 1958), although he preceded them by decades. He studied extraordinary phenomena, serving as president of the Society for Psychical Research in 1894-1895 and giving the Lowell lectures on exceptional mental states in 1896, which affected the founding of the psychology of religion and abnormal psychology in America.
 
 ## Limits and Criticism
 

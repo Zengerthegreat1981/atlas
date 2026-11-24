@@ -27,7 +27,7 @@ The establishment of the psychological laboratory by Wilhelm Wundt in 1879 at th
 
 Before 1879, questions concerning the human mind belonged almost exclusively to philosophical metaphysics or medical physiology (such as Hermann von Helmholtz's sensory physiology and Gustav Fechner's psychophysics). In his 1874 programmatic treatise *Grundzüge der physiologischen Psychologie* (*Principles of Physiological Psychology*), Wundt called for a new hybrid discipline that would apply physiological experimental techniques to investigate conscious mental processes.
 
-At Leipzig, Wundt was allocated a small storage room in the Konvikt building, which grew into the world's first formal Institute for Experimental Psychology (*Institut für experimentelle Psychologie*), officially incorporated into the university budget in 1883.
+At Leipzig, Wundt was allocated a small storage room in the Konvikt building, which grew into what is widely regarded as the first formal Institute for Experimental Psychology (*Institut für experimentelle Psychologie*), officially incorporated into the university budget in 1883.
 
 Wundt established strict methodological standards centered on:
 - **Experimental Introspection (*Experimentelle Selbstbeobachtung*):** Unlike unstructured armchair philosophizing, Wundtian introspection required trained observers to report immediate sensory experiences under precisely calibrated, repeatable physical stimulation (such as calibrated tones, flashes of light, or tactile weights).
@@ -36,8 +36,8 @@ Wundt established strict methodological standards centered on:
 
 ## Early Researchers and Doctoral Cadre
 
-During his four decades at Leipzig (1875–1917), Wundt directed an extraordinary training ground, supervising an estimated 186 doctoral dissertations (116 in psychology and 70 in philosophy). International scholars flocked to Leipzig, absorbing experimental techniques before returning to establish academic departments and laboratories worldwide:
-- **James McKeen Cattell:** Wundt's first appointed laboratory assistant (1883; PhD 1886), Cattell pioneered mental testing, individual differences, and reaction-time research in the United States at the University of Pennsylvania and Columbia University.
+During his four decades at Leipzig (1875–1917), Wundt directed an extraordinary training ground, supervising well over a hundred doctoral dissertations. International scholars flocked to Leipzig, absorbing experimental techniques before returning to establish academic departments and laboratories worldwide:
+- **James McKeen Cattell:** Wundt's first laboratory assistant (1885-86; PhD 1886), Cattell pioneered mental testing, individual differences, and reaction-time research in the United States at the University of Pennsylvania and Columbia University.
 - **Granville Stanley Hall:** Arriving in Leipzig in 1879, Hall established the first dedicated American psychological laboratory at Johns Hopkins University (1883), founded Clark University (1889), and launched the American Psychological Association (APA) in 1892.
 - **Emil Kraepelin:** A student and collaborator (MD thesis 1882), Kraepelin applied Wundt's experimental methods to psychopathology, creating the diagnostic classification system that distinguished dementia praecox (schizophrenia) from manic-depressive insanity.
 - **Edward Bradford Titchener:** A British student (PhD 1892), Titchener brought a rigid variant of Wundtian introspection to Cornell University, establishing American structuralism.

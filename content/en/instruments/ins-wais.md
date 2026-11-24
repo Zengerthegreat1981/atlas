@@ -47,7 +47,7 @@ The WAIS is utilized across neuropsychological evaluations, clinical adult psych
 
 ## Cross-Cultural and Arabic Standardization
 
-Cross-cultural application requires strict standardization because verbal subtests depend heavily on cultural and linguistic experiences. In the Arab world, adaptation projects began with Louis Kamel Melika and colleagues in Egypt, who adapted the Wechsler-Bellevue and subsequently produced standardized Arabic versions of the WAIS and WAIS-R published by the Anglo-Egyptian Bookshop. Later research produced national standardizations and norms in Jordan, Saudi Arabia, and several Arabian Gulf countries. Adapters modified culture-bound items in Information and Vocabulary while calibrating scoring rubrics to regional educational curricula.
+Cross-cultural application requires strict standardization because verbal subtests depend heavily on cultural and linguistic experiences. Arabic adaptations of Wechsler scales have been produced in the Arab world (notably in Egypt), and culture-bound items in verbal subtests typically require modification. Readers should consult the manual of the specific adaptation for its norms and psychometric evidence.
 
 ## Limitations and Criticism
 
@@ -56,6 +56,5 @@ Administration requires specialized postgraduate training and lasts between 60 a
 ## Sources
 
 - Lichtenberger, E. O., & Kaufman, A. S. (2012). *Essentials of WAIS-IV Assessment* (2nd ed.). John Wiley & Sons.
-- Melika, L. K. (1996). *Wechsler Adult Intelligence Scale - Revised: Arabic Manual and Adaptation*. Anglo-Egyptian Bookshop.
 - Wechsler, D. (1955). *Manual for the Wechsler Adult Intelligence Scale*. The Psychological Corporation.
 - Wechsler, D. (2008). *WAIS-IV Administration and Scoring Manual*. Pearson.

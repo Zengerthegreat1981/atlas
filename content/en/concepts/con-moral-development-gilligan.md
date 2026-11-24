@@ -53,7 +53,7 @@ Gilligan outlined an alternative three-level developmental trajectory for the et
 
 ## Empirical Reassessments and Influence
 
-Subsequent empirical research demonstrated that moral reasoning orientations are not rigidly segregated by biological sex. Meta-analyses by Lawrence Walker (1984, 1986) demonstrated that when educational attainment, socioeconomic status, and occupational roles are controlled, gender differences on Kohlberg's dilemmas are largely negligible. Gilligan herself later clarified that justice and care represent two universal moral frameworks accessible to both sexes, though socialization influences which orientation is emphasized.
+Subsequent empirical research demonstrated that moral reasoning orientations are not rigidly segregated by biological sex. A critical review by Lawrence Walker (1984) found that when educational attainment, socioeconomic status, and occupational roles are controlled, gender differences on Kohlberg's dilemmas are largely negligible (a conclusion later debated). Gilligan herself later clarified that justice and care represent two universal moral frameworks accessible to both sexes, though socialization influences which orientation is emphasized.
 
 The ethics of care exerted profound influence across diverse disciplines:
 - **Philosophy and Pedagogy**: Nel Noddings (*Caring*, 1984) developed care ethics into a comprehensive moral and educational philosophy, centering relational receptivity and responsiveness.

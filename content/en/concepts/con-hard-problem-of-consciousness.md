@@ -33,7 +33,7 @@ Several classic arguments substantiate the difficulty of the problem:
 - **The Philosophical Zombie Argument**: Chalmers argues that a physical replica of a human being lacking subjective experience (a philosophical zombie) is logically conceivable. If zombies are logically possible, phenomenal consciousness cannot be logically supervenient upon physical properties alone.
 - **The Explanatory Gap**: Joseph Levine (1983) argued that while scientific reductions in other fields (such as identifying heat with molecular kinetic energy) render the phenomenon fully transparent, no physical description of neural firings (e.g., C-fibers firing) explains *why* it feels like pain rather than an itch or nothing at all.
 - **The Knowledge Argument**: Frank Jackson (1982) envisioned Mary, a brilliant neuroscientist confined to a black-and-white room who knows every physical fact about color vision. When released and observing a ripe red tomato, she learns something new: what it is like to experience red (*qualia*), suggesting physicalism is incomplete.
-- **The Subjective Character of Experience**: Thomas Nagel, in "What Is It Like to Be a Bat?" (1974), established that conscious experience is tied to an irreducibly subjective, first-person point of view that cannot be captured by objective, third-person physical descriptions.
+- **The Subjective Character of Experience**: Thomas Nagel, in "What Is It Like to Be a Bat?" (1974), argued that conscious experience is tied to an irreducibly subjective, first-person point of view that cannot be captured by objective, third-person physical descriptions.
 
 ## Theoretical Responses in Contemporary Philosophy of Mind
 
@@ -49,7 +49,7 @@ Responses to the hard problem span a wide philosophical spectrum:
 ## Parallels in the Arabic-Islamic Heritage
 
 Scholars often identify intriguing parallels in classical Islamic philosophy:
-- **Avicenna's Floating Man**: In *al-Shifa': al-Nafs* (Book I, Ch. 1), Ibn Sina imagines an adult human created suspended in a void with no sensory inputs or bodily contact, who nonetheless retains an undeniable, immediate awareness of his own existence, demonstrating that self-consciousness is prior to bodily and sensory mediation.
+- **Avicenna's Floating Man**: In *al-Shifa': al-Nafs* (Book I, Ch. 1), Ibn Sina imagines an adult human created suspended in a void with no sensory inputs or bodily contact, who nonetheless retains an undeniable, immediate awareness of his own existence, suggesting that self-consciousness is prior to bodily and sensory mediation.
 - **Suhrawardi's Knowledge by Presence**: In *Hikmat al-Ishraq* (1186), Shihab al-Din al-Suhrawardi formulated "knowledge by presence" (*al-'ilm al-huduri*), where the self's knowledge of itself and its feelings occurs through unmediated, immediate presence rather than an epistemic form or representation.
 
 While these historical thinkers operated within different metaphysical frameworks, their focus on unmediated first-person awareness highlights the long-standing recognition of the irreducible nature of subjective experience.

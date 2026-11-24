@@ -54,11 +54,11 @@ Turner later expanded this model into Self-Categorization Theory (1987), elabora
 
 ## Applications to Contemporary Political Polarization
 
-In contemporary political psychology, the minimal group paradigm provides an essential framework for analyzing affective polarization (e.g., Iyengar et al., 2012, 2019; Mason, 2018). Just as adolescent boys prioritized relative point differentiation over absolute collective gains based on arbitrary artist preferences, partisan voters increasingly treat political party affiliations as primary social identities.
+In contemporary political psychology, the minimal group paradigm has been used as a framework for analyzing affective polarization (e.g., Iyengar et al., 2012, 2019; Mason, 2018). Just as adolescent boys prioritized relative point differentiation over absolute collective gains based on arbitrary artist preferences, partisan voters increasingly treat political party affiliations as primary social identities.
 
-Research demonstrates that affective polarization operates through minimal-group dynamics:
+Some research suggests that affective polarization shares features with minimal-group dynamics:
 - **Non-Ideological Hostility:** Partisans exhibit strong ingroup favoritism and negative stereotyping toward outgroup partisans even in non-political domains, including workplace hiring, consumer choices, and interpersonal relationships.
-- **Preference for Relative Advantage over Absolute Welfare:** In legislative and policy preferences, highly polarized voters often favor policies that inflict symbolic or economic costs on political opponents over compromise policies that deliver positive absolute welfare gains to all citizens, directly mirroring Tajfel's maximum differentiation strategy.
+- **Preference for Relative Advantage over Absolute Welfare:** In legislative and policy preferences, highly polarized voters often favor policies that inflict symbolic or economic costs on political opponents over compromise policies that deliver positive absolute welfare gains to all citizens, which some authors compare to Tajfel's maximum differentiation strategy.
 
 ## Methodological Critique and Replication
 
@@ -70,4 +70,6 @@ Critics initially raised methodological concerns, arguing that the artificial ma
 - Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. In W. G. Austin & S. Worchel (Eds.), *The Social Psychology of Intergroup Relations* (pp. 33–47). Brooks/Cole.
 - Turner, J. C., Hogg, M. A., Oakes, P. J., Reicher, S. D., & Wetherell, M. S. (1987). *Rediscovering the Social Group: A Self-Categorization Theory*. Basil Blackwell.
 - Mullen, B., Brown, R., & Smith, C. (1992). Ingroup bias as a function of salience, relevance, and status: An integration. *European Journal of Social Psychology*, 22(2), 103–122.
+- Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N., & Westwood, S. J. (2019). The origins and consequences of affective polarization in the United States. *Annual Review of Political Science, 22*, 129-146.
+- Mason, L. (2018). *Uncivil Agreement: How Politics Became Our Identity*. University of Chicago Press.
 - Iyengar, S., Sood, G., & Lelkes, Y. (2012). Affect, not ideology: A social identity perspective on polarization. *Public Opinion Quarterly*, 76(3), 405–431.

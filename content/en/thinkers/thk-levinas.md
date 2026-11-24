@@ -19,7 +19,7 @@ gaps: []
 
 # Emmanuel Levinas
 
-Emmanuel Levinas (1906–1995) reverses the order of the whole existential tradition: freedom does not come first — responsibility for the Other does. Where Sartre begins from the self and its liberty, Levinas begins from the face of another person, whose very presence lays a claim on me before I have chosen anything. His thought has been drawn on in the ethics of therapy and care: on this view the therapist's responsibility to the person in front of them is not a contract or a choice, but the condition of the relationship itself.
+Emmanuel Levinas (1906–1995) reverses the order of the whole existential tradition: freedom does not come first — responsibility for the Other does. Where Sartre begins from the self and its liberty, Levinas begins from the face of another person, whose very presence lays a claim on me before I have chosen anything.
 
 ## Life and Career
 
@@ -41,7 +41,7 @@ Jacques Derrida's essay "Violence and Metaphysics" (1964, reprinted in *Writing 
 
 ## Influence and Critique
 
-After *Totality and Infinity*, the idea of the face travelled far beyond phenomenology — into theology, the ethics of care, and political theory. His influence in the therapeutic literature itself remains limited, but it is growing in writing on professional ethics and the ethics of care, where his account of responsibility speaks directly to the clinician's position. Adriaan Peperzak's *To the Other* (1993) is a well-known systematic introduction in English.
+After *Totality and Infinity*, the idea of the face travelled beyond phenomenology — into theology, political theory, and writing on professional ethics and the ethics of care. Adriaan Peperzak's *To the Other* (1993) is a well-known systematic introduction in English.
 
 Levinas is not an existentialist in the school sense, and he built no normative ethics and no rules for decision: anyone asking him for a practical rule finds only a description of the structure of being claimed. He also kept the "ethical" and the "political" apart in a way that has not convinced his critics, and a 1982 radio interview in which he was asked who counts as the "Other" in the Israeli–Palestinian context remains the most cited challenge to the political application of his philosophy. His Jewish and Talmudic writings — including *Four Talmudic Readings* (1968) and *Difficult Freedom* (1963) — run alongside his philosophy, and he insisted on keeping the two discourses distinct, even as the influence of Franz Rosenzweig's *The Star of Redemption* is visible in his idea that totality breaks before what exceeds it.
 

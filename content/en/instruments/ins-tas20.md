@@ -19,7 +19,7 @@ gaps: []
 
 # Toronto Alexithymia Scale (TAS-20)
 
-The 20-item Toronto Alexithymia Scale (TAS-20) is a standardized self-report instrument designed to measure alexithymia—a personality construct characterized by difficulty identifying and describing subjective feelings, limited imaginal activity, and an externally oriented cognitive style. Developed by R. Michael Bagby, James D. A. Parker, and Graeme J. Taylor in 1994, the instrument operationalized a clinical concept originally introduced by psychotherapist Peter Sifneos in 1973 to describe psychosomatic patients who lacked words for their emotions.
+The 20-item Toronto Alexithymia Scale (TAS-20) is a standardized self-report instrument designed to measure alexithymia—a personality construct characterized by difficulty identifying and describing subjective feelings, limited imaginal activity, and an externally oriented cognitive style. Developed by R. Michael Bagby, James D. A. Parker, and Graeme J. Taylor in 1994, the instrument operationalized a clinical concept originally introduced by psychiatrist Peter Sifneos in the early 1970s to describe psychosomatic patients who lacked words for their emotions.
 
 ## Dimensional Structure and Scoring
 

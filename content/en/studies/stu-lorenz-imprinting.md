@@ -39,9 +39,9 @@ Lorenz described this rapid, irreversible form of early learning as "imprinting"
 
 ## Sample Characteristics, Ethological Methodology, and Quantitative Replications
 
-Lorenz operated within the classical naturalistic ethological tradition, which emphasized rich descriptive observation, natural habitat tracking, and longitudinal case records (such as his famous hand-reared gosling "Martina") across successive clutches of 10 to 20 eggs each breeding season, rather than reporting aggregate inferential statistics ($N$). 
+Lorenz operated within the classical naturalistic ethological tradition, which emphasized rich descriptive observation, natural habitat tracking, and longitudinal case records (such as his famous hand-reared gosling "Martina")across successive breeding seasons, rather than reporting aggregate inferential statistics ($N$). 
 
-Subsequent experimental psychologists sought to formalize and quantify Lorenz's descriptive claims in standardized laboratory environments. Eckhard Hess (1958, 1959) tested hundreds of mallard ducklings ($N > 400$) in circular runway apparatuses, systematically varying post-hatch age and effort. Hess established that the critical period for following behavior follows a bell-shaped curve peaking sharply between 13 and 16 hours after hatching, and demonstrated that physical effort expended during following deepened the attachment bond. Subsequent avian research demonstrated that the window is somewhat more flexible than originally postulated, leading modern developmentalists to prefer the term "sensitive period."
+Subsequent experimental psychologists sought to formalize and quantify Lorenz's descriptive claims in standardized laboratory environments. Eckhard Hess (1958, 1959) tested large numbers of mallard ducklings in circular runway apparatuses, systematically varying post-hatch age and effort. Hess reported that the sensitive period for following behavior peaked within roughly the first day after hatching (about 13 to 16 hours), and that physical effort expended during following deepened the attachment bond. Subsequent avian research demonstrated that the window is somewhat more flexible than originally postulated, leading modern developmentalists to prefer the term "sensitive period."
 
 ## Criticism, Ethics, and Historical Impact
 

@@ -38,7 +38,7 @@ Across normative and specialized populations, the DAP-R subscales display modera
 
 ## Cross-Cultural Standardization and Arabic Versions
 
-The DAP-R has been translated and psychometrically examined across multiple Arab cultural contexts, notably in studies evaluating oncology patients, nursing staff, and university cohorts in Egypt, Saudi Arabia, and Jordan. Validations conducted by researchers including Ahmed Abdel-Khalek and colleagues confirmed the five-factor multidimensional structure, with internal consistency coefficients (Cronbach's alpha) generally falling between 0.65 and 0.88 across subscales. Strong convergent validity was demonstrated against standardized death anxiety and death depression measures, confirming its cross-cultural utility in palliative and thanatological research.
+The DAP-R has been translated into many languages, including Arabic, and used in studies in several countries. Reported factor structure and reliability in translated versions vary across samples, so local psychometric evidence should be checked before use.
 
 ## Clinical and Research Applications
 

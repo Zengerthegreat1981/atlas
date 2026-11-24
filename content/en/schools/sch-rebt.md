@@ -26,7 +26,7 @@ gaps: []
 ---
 
 # Rational Emotive Behavior Therapy (REBT)
-The historically first cognitive-behavioral school, founded by the American psychotherapist Albert Ellis in New York in 1955, before Aaron Beck developed cognitive therapy in the 1960s and 1970s. REBT is regarded as the founding model that shifted clinical psychology from a focus on the depth analytic structure to a focus on the conscious cognitive structure, and reconnected the clinic with the ancient Stoic philosophical tradition.
+One of the earliest cognitive-behavioral schools, founded by the American psychotherapist Albert Ellis in New York in 1955, before Aaron Beck developed cognitive therapy in the 1960s and 1970s. REBT is regarded as the founding model that shifted clinical psychology from a focus on the depth analytic structure to a focus on the conscious cognitive structure, and reconnected the clinic with the ancient Stoic philosophical tradition.
 
 ## Intellectual and Historical Context
 

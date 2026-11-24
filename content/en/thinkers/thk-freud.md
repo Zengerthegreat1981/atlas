@@ -70,4 +70,4 @@ He did not describe himself as existential; his inclusion here is referential/fo
 - Karl Popper, *Conjectures and Refutations*. Routledge, 1963 — the falsifiability critique.
 - Breuer, Josef, and Freud, Sigmund. *Studien über Hysterie*. Franz Deuticke, 1895.
 - Freud, Sigmund. *Das Unbehagen in der Kultur*. Internationaler Psychoanalytischer Verlag, 1930.
-- Freud, Sigmund. *Five Lectures on Psycho-Analysis*, trans. James Strachey, 1955.
+- Freud, Sigmund. *Five Lectures on Psycho-Analysis*, trans. James Strachey, in *The Standard Edition*, vol. 11.

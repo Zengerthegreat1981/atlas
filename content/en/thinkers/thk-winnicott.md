@@ -25,7 +25,7 @@ gaps: []
 
 # Donald Winnicott
 
-Donald Woods Winnicott (1896–1971) was an English pediatrician and psychoanalyst, twice president of the British Psychoanalytical Society, and a leading intellectual architect of the **Independent Group** (Middle Group) within British psychoanalysis. A pioneer of object relations theory, Winnicott uniquely combined four decades of front-line clinical pediatrics with deep psychoanalytic inquiry, producing a distinctively warm, evocative literature focused on early maternal care, spontaneous play, and the developmental roots of creativity.
+Donald Woods Winnicott (1896–1971) was an English pediatrician and psychoanalyst, twice president of the British Psychoanalytical Society, and a leading intellectual architect of the **Independent Group** (Middle Group) within British psychoanalysis. A pioneer of object relations theory, Winnicott combined four decades of front-line clinical pediatrics with deep psychoanalytic inquiry, producing a distinctively warm, evocative literature focused on early maternal care, spontaneous play, and the developmental roots of creativity.
 
 ## Biography and Formation
 
@@ -78,4 +78,4 @@ Winnicott's poetic and intuitive style has been widely celebrated for humanizing
 - Winnicott, D. W. (1965). *The Maturational Processes and the Facilitating Environment*. Hogarth Press.
 - Winnicott, D. W. (1971). *Playing and Reality*. Tavistock Publications.
 - Rodman, F. R. (2003). *Winnicott: Life and Work*. Perseus Books.
-- Phillips, A. (1988). *Winnicott*. Harvard University Press.
+- Phillips, A. (1988). *Winnicott*. London: Fontana (Harvard University Press, 1989).

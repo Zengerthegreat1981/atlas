@@ -33,7 +33,7 @@ To study these phenomena under rigorous experimental control, Pavlov constructed
 
 Through thousands of trials, Pavlov delineated the core empirical laws governing associative learning:
 1. **Acquisition**: The gradual formation and strengthening of a conditioned response as the conditioned stimulus (CS) is repeatedly paired with the unconditioned stimulus (US).
-2. **Extinction and Spontaneous Recovery**: When the CS is repeatedly presented in the absence of the US, the conditioned response weakens and eventually ceases. However, following a rest interval, the extinguished response reappears in attenuated form (spontaneous recovery), proving that extinction is an active inhibitory process rather than permanent forgetting.
+2. **Extinction and Spontaneous Recovery**: When the CS is repeatedly presented in the absence of the US, the conditioned response weakens and eventually ceases. However, following a rest interval, the extinguished response reappears in attenuated form (spontaneous recovery), which Pavlov took to show that extinction is an active inhibitory process rather than permanent forgetting.
 3. **Generalization and Discrimination**: Dogs conditioned to a specific metronome beat or tone frequency elicited salivation to similar acoustic frequencies (stimulus generalization). When reinforcement was restricted exclusively to the original target tone, the animal learned to withhold salivation to non-reinforced frequencies (stimulus discrimination).
 4. **Higher-Order Conditioning**: A neutral stimulus paired with an established conditioned stimulus can itself acquire conditioned reflex properties, despite never having been directly paired with food.
 
@@ -47,7 +47,7 @@ Pavlov formulated a comprehensive neurophysiological theory explaining condition
 
 Contemporary behavioral science has extended Pavlovian associative principles beyond simple motor and visceral reflexes:
 - **Evaluative Conditioning**: The acquisition or alteration of affective valence toward a neutral conditioned stimulus (such as a brand, face, or abstract pattern) when paired with valenced stimuli. Unlike classical motor reflexes, evaluative conditioning demonstrates high resistance to extinction and shapes everyday human attitudes and consumer preferences (De Houwer et al., 2001).
-- **Conditioned Immunosuppression**: In landmark studies, Robert Ader and Nicholas Cohen (1975) paired a neutral taste stimulus (saccharin solution) with an immunosuppressive drug (cyclophosphamide) in rats. Subsequent exposure to saccharin alone produced significant suppression of humoral and cellular immune responses, establishing the discipline of psychoneuroimmunology by demonstrating direct neural conditioning of immune functioning.
+- **Conditioned Immunosuppression**: In landmark studies, Robert Ader and Nicholas Cohen (1975) paired a neutral taste stimulus (saccharin solution) with an immunosuppressive drug (cyclophosphamide) in rats. Subsequent exposure to saccharin alone produced significant suppression of humoral and cellular immune responses, and became an early landmark for the field of psychoneuroimmunology, showing that immune responses can be behaviorally conditioned.
 
 ## Historical Impact
 

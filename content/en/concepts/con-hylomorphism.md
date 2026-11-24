@@ -57,7 +57,7 @@ Hylomorphism was transmitted into Arabic through translations by Hunayn ibn Isha
 In the late twentieth century, philosophers revisited hylomorphism:
 - **Functionalist Readings**: Hilary Putnam and Martha Nussbaum (1992) suggested Aristotle anticipated functionalism by defining psychological states through organizational capacities rather than material constituents.
 - **Myles Burnyeat's Critique**: Burnyeat (1992) argued that Aristotelian psychology cannot be assimilated to modern functionalism because Aristotle's conception of physical matter is inextricably bound to natural teleology and perception as the literal realization of sensible form without matter.
-- **Neo-Aristotelian Metaphysics**: Contemporary philosophers, including J. L. Ackrill (1972–73), David Wiggins, and Kathrin Koslicki, have utilized hylomorphism to address problems of material constitution and biological unity without falling into reductive physicalism or Cartesian dualism.
+- **Neo-Aristotelian Metaphysics**: Contemporary philosophers, including David Wiggins and Kathrin Koslicki, have utilized hylomorphism to address problems of material constitution and biological unity without falling into reductive physicalism or Cartesian dualism. J. L. Ackrill's paper (1972–73) is a standard discussion of Aristotle's definitions of the soul.
 
 ## Sources
 

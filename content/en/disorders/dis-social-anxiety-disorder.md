@@ -115,8 +115,8 @@ ICD-11 classifies social anxiety disorder under 6B04, describing marked and exce
 
 ## Cultural and Epidemiological Context
 
-- Global epidemiological surveys indicate lifetime prevalence rates of social anxiety disorder between 2% and 12%, with Western nations typically reporting higher community rates than East Asian countries (Stein et al., 2017).
-- In Arab and Middle Eastern contexts, studies among adolescents and university students frequently report rates ranging from 9% to 15% (e.g., Al-Khathami et al., 2002).
+- Global epidemiological surveys indicate an average lifetime prevalence of social anxiety disorder of roughly 4%, with considerable variation between countries and generally higher rates in high-income Western countries than in East Asian countries (Stein et al., 2017).
+- In Arab and Middle Eastern contexts, community and student studies report widely varying rates, reflecting differences in instruments and cut-offs; regional data remain limited.
 - Culturally, normative values around modesty (*hayaa'*), respect for hierarchy, and family reputation can intersect with social anxiety: behaviors that might be viewed as avoidant in individualistic contexts may be perceived as appropriate reserve or deference in traditional settings. Consequently, diagnosis requires careful differentiation between socially sanctioned modesty and excessive fear that impairs functioning or causes severe personal distress.
 - DSM-5-TR notes culture-related presentations such as *taijin kyofusho* (in Japan and Korea), in which the fear concerns offending or embarrassing others rather than being embarrassed oneself.
 - Notions of "social face" and honor can shape how social fear is experienced and expressed.

@@ -26,7 +26,7 @@ Logotherapy was founded by the Austrian neurologist and psychiatrist Viktor Fran
 
 ## History
 
-Frankl developed his first ideas in Vienna in the 1930s, in the circle of Alfred Adler's individual psychology, from which he broke away. He survived three years in Nazi concentration camps, including Auschwitz, and after the war he published his account, *Man's Search for Meaning*, in German in 1946 and in English in 1959. The book argued that those who found some meaning amid absolute horror were better able to survive, psychologically and sometimes physically. Frankl set out the systematic theory in *The Doctor and the Soul* in 1946, published in English in 1955, and in *The Will to Meaning* in 1969. In 1975 he described the two core techniques — paradoxical intention and dereflection — in a single paper that remains the clearest statement of how logotherapy is actually practised.
+Frankl developed his first ideas in Vienna in the 1930s, in the circle of Alfred Adler's individual psychology, from which he broke away. He survived three years in Nazi concentration camps, including Auschwitz, and after the war he published his account in German in 1946 (*Ein Psycholog erlebt das Konzentrationslager*); it appeared in English in 1959 as *From Death-Camp to Existentialism* and later as *Man's Search for Meaning* (1962). The book argued that those who found some meaning amid absolute horror were better able to survive, psychologically and sometimes physically. Frankl set out the systematic theory in *The Doctor and the Soul* in 1946, published in English in 1955, and in *The Will to Meaning* in 1969. In 1975 he described the two core techniques — paradoxical intention and dereflection — in a single paper that remains the clearest statement of how logotherapy is actually practised.
 
 ## How It Works
 
@@ -46,7 +46,7 @@ Logotherapy is unusual among existential approaches in having produced testable 
 
 ## Sources
 
-- Viktor E. Frankl, *Ein Psychologe erlebt das Konzentrationslager*, 1946 (English: *Man's Search for Meaning*, 1959).
+- Viktor E. Frankl, *Ein Psychologe erlebt das Konzentrationslager*, 1946 (English: *From Death-Camp to Existentialism*, 1959; later *Man's Search for Meaning*, 1962).
 - Viktor E. Frankl, *The Doctor and the Soul: From Psychotherapy to Logotherapy*, 1955.
 - Viktor E. Frankl, *The Will to Meaning: Foundations and Applications of Logotherapy*, 1969.
 - Viktor E. Frankl, "Paradoxical Intention and Dereflection", *Psychotherapy: Theory, Research and Practice*, 1975.

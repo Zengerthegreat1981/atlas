@@ -27,7 +27,7 @@ gaps: []
 
 # Hans-Georg Gadamer
 
-Hans-Georg Gadamer was a German philosopher born in Marburg on 11 February 1900 and died in Heidelberg on 13 March 2002, at the age of one hundred and two. He was the most prominent student of Martin Heidegger, the founder of contemporary philosophical hermeneutics (interpretation theory), and the author of *Truth and Method* (*Wahrheit und Methode*, 1960), which transformed interpretation from a method for explaining texts into an ontology of human understanding.
+Hans-Georg Gadamer was a German philosopher born in Marburg on 11 February 1900 and died in Heidelberg on 13 March 2002, at the age of one hundred and two. He was a prominent student of Martin Heidegger, a leading figure of contemporary philosophical hermeneutics (interpretation theory), and the author of *Truth and Method* (*Wahrheit und Methode*, 1960), which transformed interpretation from a method for explaining texts into an ontology of human understanding.
 
 ## Biography
 

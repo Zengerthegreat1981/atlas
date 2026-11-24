@@ -1,0 +1,586 @@
+br-classical-psychoanalysis: Ego and the Id source publisher corrected (1923 German ed., not Hogarth)
+con-aging: Frankl source title/edition corrected (1959 Beacon = From Death-Camp to Existentialism)
+con-anxiety-existential: removed misattributed al-tib al-ruhani from al-Balkhi (it is al-Razi's work); fixed Razi/Kindi works; dropped unverifiable Ibn Hazm publisher/year
+con-archetype: removed unsupported weaverbird example; softened attributed Popper critique
+con-attachment-styles: softened disorganized prevalence in maltreated (70-80% -> roughly half or more); added missing Fraley & Waller 1998 source
+con-authenticity-inauthenticity: Adorno translators corrected (Tarnowski & Will, not "Tardunos & Ashton")
+con-authenticity: removed unverifiable chapter numbers/titles for Bugental, Yalom, van Deurzen, Spinelli; Heidegger Div. II chapters 1-2 for §§46-60
+con-choice-constraint: Frankl 1959 source title corrected
+con-cognitive-dissonance: fMRI claim corrected (cited an edited book as fMRI study; dropped unsupported dlPFC claim); added van Veen 2009 source
+con-depression: Frankl 1959 source title corrected
+con-collective-unconscious: softened unsourced Popper attribution
+con-complex: Diagnostische Assoziationsstudien source corrected to Jung (Ed.) vol. 1 (not Jung & Riklin as authors)
+con-despair: Frankl 1959 source title corrected
+con-differentiation-self: removed unsupported "probably efficacious" rating claim
+con-existential-crises: Frankl 1959 source title corrected
+con-existential-vacuum: Frankl 1959 source title corrected
+con-false-self-vs-true-self: removed unverifiable "Chapter 4" claim for New Seeds
+con-fear: Ihya' Fear and Hope is Book 33, not 34 (text and sources)
+con-felt-sense: A Process Model date corrected (published 2018)
+con-flow: Dietrich 2004 title/journal corrected (Consciousness and Cognition); DFS attribution fixed (not Jackson & Marsh 1996)
+con-fulfillment: Frankl 1959 source title corrected
+con-hope: Marcel Homo Viator French original is 1944; corrected garbled May wish/will description
+con-individuation: Two Essays dating clarified (CW7 is 1953; essay from 1928)
+con-jealousy-envy: Ihya' envy section is Book 25 (not Books 32/35); removed bogus "Ed. E. Renan"; softened attribution of dyadic/triadic distinction to Lazarus
+con-meaninglessness: Frankl 1959 title note
+con-meaninglessness: Frankl 1959 Beacon title corrected in Sources
+con-meaninglessness: May 1967 publisher corrected (Van Nostrand)
+con-memory-systems: H.M. skill learning attributed to later Milner work, dropped 'normal retention curves'
+con-mentalization: softened 'coined' attribution
+con-mindfulness: MBCT dating and unsourced Kuyken citation replaced
+con-mindfulness: Goyal 2014 finding restated accurately
+con-moral-development-gilligan: Walker 1986 unsupported; review not meta-analysis
+con-motivation: removed prediction-error attribution inconsistent with Berridge/Robinson view
+con-neuroplasticity: LTP/LTD: Bliss & Lømo 1973 demonstrated LTP, not LTD
+con-primary-emotion: Magai & Haviland-Jones publisher is Cambridge UP, not Psychology Press
+con-primary-emotion: date range aligned with Sources
+con-relation: Buber quote: English rendering corrected to the standard translation
+con-relation: removed doubtful Bugental quotation
+con-relation: removed unverified Yalom quotation
+con-relation: removed unverified Spinelli quotation
+con-relationships: Binswanger singular mode is Einzelheit
+con-relationships: Frankl 1959 Beacon title corrected in Sources
+con-resilience: Frankl 1959 title note
+con-resilience: Frankl 1959 Beacon title corrected in Sources
+con-responsibility: Frankl 1959 Beacon title corrected in Sources
+con-responsibility: Beauvoir Ethics of Ambiguity Part II title corrected
+con-responsibility: removed unverified chapter numbers (May)
+con-responsibility: removed unverified chapter number (van Deurzen)
+con-sadness: ICD-11 6A70 is single episode depressive disorder
+con-sadness: unverified editor/publisher for al-Balkhi replaced with Badri translation
+con-sadness: al-Kindi edition source completed
+con-shame-guilt: removed bogus 'E. Renan, Ed.' and wrong publisher for Ibn Hazm translation
+con-spiritual-crisis: Frankl 1959 Beacon title corrected in Sources
+con-time: Frankl 1959 Beacon title corrected in Sources
+con-time: Heidegger section title corrected
+con-time: removed unverified part titles (Minkowski)
+con-time: removed unverified chapter numbers (Yalom)
+con-time: removed unverified chapter number (van Deurzen)
+con-responsibility: removed unverified chapter number (Yalom)
+con-trauma: Frankl 1959 Beacon title corrected in Sources
+con-triangulation: empirical overclaim softened (theory-based)
+con-triangulation: removed doubtful 'Coparenting and Triangulation Scale'
+con-unconscious: Jung CW9i 2nd ed. is 1968
+dbt-nature-vs-nurture-intelligence-personality: Turkheimer 2003 affluent-family heritability ~.72, not 80%
+dbt-nature-vs-nurture-intelligence-personality: overclaim softened (Flynn effect)
+dbt-projective-tests-validity: Daubert factors restated
+dbt-psychology-replication-crisis: Many Labs overattribution and power-posing claim narrowed
+dia-existential-act-encounter: Spinelli 2nd ed. year
+dis-acute-stress-disorder: Bryant 2016 is a book, not an RCT
+dis-acute-stress-disorder: benzodiazepine claim softened
+dis-acute-stress-disorder: debriefing claim softened to match Cochrane review
+dis-adhd: removed unverifiable Jenabi 2021 citation; 'pooled' dropped
+dis-adjustment-disorders: ICD-11 prolonged grief threshold is 6 months, not 12
+dis-adjustment-disorders: softened 'premier standard of care'
+dis-alcohol-use-disorder: corrected global AUD prevalence figure (100-110M/2.6-5.1% was wrong; WHO ~200M+) and removed unsupported sex ratio
+dis-bipolar-i: replaced wrong Karam 2006 PLoS Med citation with Lancet 2006 national survey; removed unverifiable 0.5-1.0% range
+dis-dissociative-amnesia: removed unsourced 5-14% clinical prevalence range
+dis-gad: removed unsupported Karam 2006 attribution of 2-5% Arab prevalence and wrong PLoS Med citation
+dis-mdd: softened 'most influential' overclaim for Hari
+dis-panic-disorder: corrected lifetime prevalence (NCS-R 4.7%), removed unsupported Karam 2006 Arab rates and wrong PLoS citation, softened 'standard' claims
+dis-prolonged-grief: softened 'strongest evidence' claim
+dis-ptsd: softened 'standard synthesis' overclaim for van der Kolk and EMDR 'comparable' claim
+dis-social-anxiety-disorder: replaced wrong 2-12% prevalence with Stein 2017 ~4% average; removed unverifiable Al-Khathami 2002 9-15% claim
+ins-bdi-ii: removed unverifiable named Arabic adapters and alpha range/factor confirmation claim
+ins-death-attitude-profile: removed unverifiable Arab validation specifics (named researcher, countries, alpha range, convergent validity claims)
+ins-eysenck-epq: removed unverifiable Arab standardization claims and doubtful Abdel-Khalek & Eysenck 1983 citation
+ins-gad7: removed unverifiable Arabic validation specifics (countries, alpha range)
+ins-hamilton-hdrs: removed unverifiable named Arab validators and cohort claims
+ins-mbti: fixed misattributed McCrae & Costa 1989 finding (was claimed as predictive-validity result; it is a FFM mapping study); softened ETS discontinuation reason
+ins-mlq: removed unverifiable Arab validation claims and unsupported cultural-search-wellbeing claim; framed four profiles as heuristic
+ins-neo-pi-r: removed unverifiable Arab standardization citations (Al-Ansari 2002, Abdel-Khalek 2000) and 'universal invariance' overclaim
+ins-rorschach: softened R-Optimized description and overclaimed 'comparable to MMPI' validity statement attributed to Mihura 2013
+ins-scid-5: corrected rating scheme description (not 3-point with 1/2 codes in CV) and removed unsupported kappa figures
+ins-stai: corrected test-retest ranges, removed unverifiable Arabic standardization claims and unverifiable Abdel-Khalek 1989 citation
+ins-stanford-binet: removed unverifiable Arab adapters/dates/norming claims; softened bias-mitigation claim
+ins-swls: corrected severity bands (31-35/26-30/21-25/20 neutral...), removed unverifiable Arab validation, fixed false claim that WVS/Gallup/OECD use SWLS, removed unrelated Abdel-Khalek citation
+ins-tas20: Sifneos date/role corrected
+ins-wais: removed unverifiable Melika 1996 citation and Arab standardization specifics
+ins-wisc: removed unverifiable Arabic adapter names/standardization claims; softened 'gold standard'
+sch-act: Zettle credited with initial RCT (it was an early comparative study); softened 'historical consensus'
+sch-analytical-psychology: removed unverified edition number
+sch-biological-neuro: Golgi wrongly credited with formulating the neuron doctrine
+sch-cognitive-neuroscience: softened 'proved' (Poldrack 2006), Farah 'founded' neuroethics, 'unsurpassed'
+sch-cognitive-psychology: softened 'proved' (Chomsky), 'proving' (Loftus), and judicial-standards overclaim
+sch-critical-psychology: removed unverifiable Parker 'Psychology and Society' 1999 title
+sch-cultural-psychology: Takeo Doi birth year corrected (1920); softened 'proving/demonstrated' for Shweder/Bruner/Doi
+sch-culture-and-personality: Barnouw 1985 publisher corrected (Dorsey Press); softened overclaims
+sch-dbt: removed 'premier' and 'contraindicated' overclaims, unverified Harned 2021 RCT claim; softened PTSD remission claim
+sch-developmental: fixed Meltzoff & Moore 1977 'hours-old' claim (1977 infants were weeks old); softened Kuhl/Baillargeon/Tomasello 'prove/demonstrated' overclaims
+sch-emotion-psychology: softened Zajonc 'demonstrating', 'in every case' overclaim, removed editorial sentence
+sch-existential-therapy: clarified Frankl 1959 Beacon title (From Death-Camp to Existentialism); softened 'most influential' for Yalom
+sch-gestalt-therapy: Köhler 1925 publisher corrected (Harcourt, Brace); Polster date format
+sch-ipt: "three currents" -> "two currents" (only two listed)
+sch-motivational-interviewing: softened unverifiable Arab trial claims (HbA1c improvement, Egypt/Gulf addiction centers, "successful adaptations")
+sch-narrative-therapy: softened unverifiable Arab-context programme claims (West Bank/Gaza, country list)
+sch-object-relations: Bowlby relation to Klein reworded (not "directly influenced")
+sch-positive-psychology: removed "toxic positivity" attribution to Ehrenreich, softened Coyne/Held reception overclaims, removed misattributed "defensive pessimism"
+sch-psychoanalysis: Vertigo -> Marnie (psychoanalytic Hitchcock example); Bernays "demonstrating" -> "arguing"
+sch-rebt: "historically first" CBT school -> "one of the earliest"
+sch-social-psychology: Lewin "founder of experimental social psychology" softened
+sch-solution-focused: Kim 2008 findings stated unverifiably (internalizing vs externalizing) -> generic; softened Arab acceptance claims
+sch-systemic-family: Bateson "founder of Palo Alto" -> leader of the research project
+sch-transpersonal: removed unverified death year for Frances Vaughan
+sch-trauma-psychology: DSM-5-TR CPTSD statement (affect/interpersonal "under BPD") softened
+stu-asch-conformity: fixed Rosander & Eriksson 2012 citation (title/journal were wrong); corrected Muchnik et al. 2013 finding (positive herding only); removed overclaims on online conformity/echo chambers
+stu-baddeley-hitch-working-memory: removed unverifiable ten-experiment list with invented Ns; removed unsupported 1975 example
+stu-bandura-bobo-doll: softened Ferguson/confound overclaim ("statistical insignificance"); added Anderson et al. 2010 source cited in text
+stu-bartlett-war-of-ghosts: removed unverifiable sample size (20), chapter numbers, chain lengths, "decade" recall
+stu-breitbart-mcp-rct: Frankl 1959 title fixed (From Death-Camp to Existentialism; MSFM 1962) in text and Sources; removed invented per-trial Cohen's d values and "persist throughout remaining lives" claim; softened "elite"
+stu-clark-doll-test: Spencer "demonstrated" -> "argued", softened
+stu-dunedin-longitudinal-study: p-factor data waves "ages 11 to 38" corrected to generic; softened HiTOP claim; added Kim-Cohen 2006 source cited in text
+stu-ekman-original-facial: softened "founded the science" and "showed" overclaims
+stu-festinger-cognitive-dissonance: "demonstrated" -> "reported" for cross-cultural findings
+stu-harlow-rhesus-monkeys: "all their time" -> "most"; softened unverifiable neurochemical claims
+stu-kahneman-tversky-heuristics-biases: removed invented sample sizes/Oregon participants; softened "revolutionized...demonstrating"
+stu-kahneman-tversky-prospect-theory: removed invented institutions list and per-problem Ns
+stu-kohlberg-moral-development: removed unverified "58 boys"; Shweder "demonstrated" -> "argued"; added Jaffee & Hyde 2000 source cited in text
+stu-loftus-misinformation-effect: Loftus & Palmer "smashed" mean speed 40.5 -> 40.8 mph; removed invented 1975 sample range; "significantly below chance" reworded
+stu-lorenz-imprinting: removed invented clutch sizes and Hess N>400; softened Hess critical-period claim
+stu-milgram-obedience: baseline mislabelled "Voice-Feedback" (62.5%) vs 65% -> removed label; softened Burger "validating"
+stu-miller-magical-number-seven: "proving" softened
+stu-mischel-marshmallow-test: removed unverifiable Ns (1972 expts, 185/94, 200 SAT points, 550-600); softened Watts conclusion; added Casey 2011 source cited in text
+stu-pavlov-classical-conditioning: softened "proving"/"establishing PNI" overclaims
+stu-rosenhan-on-being-sane: fixed Phase 2 figures (41 by at least one staff member / 23 by at least one psychiatrist); softened Cahalan specifics and "revolution in nosology" overclaim
+stu-scoville-milner-patient-hm: "first definitive evidence" softened; added Squire & Alvarez 1995 source cited in text
+stu-sperry-gazzaniga-split-brain: "conclusively established" softened; added Pinto 2017 and Volz & Gazzaniga 2017 sources cited in text
+stu-stanford-prison: Maslach "visiting graduate student" corrected; Milgram N/conditions corrected to generic; softened "fundamentally dismantled/definitive/confirmed/demonstrated"
+stu-tajfel-minimal-group: softened political-polarization overclaims; added Iyengar 2019 and Mason 2018 sources cited in text
+stu-terror-management-theory: fixed contradiction (ML4 did not test the 1989 judges study); "first sustained attempt" softened
+stu-thorndike-puzzle-box: advisor chronology (James at Harvard, Cattell at Columbia); removed unverifiable box mechanism details; Law of Effect dated to 1911
+stu-tolman-cognitive-maps: removed unverifiable rat counts (36; 14/10/12); softened place-cell/"cellular confirmation" claims; added O'Keefe & Dostrovsky 1971 source
+stu-werner-kauai-resilience: follow-up age 40-44 -> 40; softened Nurse-Family Partnership/"revolutionize"/attachment claims
+stu-wertheimer-gestalt: removed unverifiable apparatus dimensions and "naive observers" claim; softened V1/MT mapping and "refuted"
+stu-wundt-leipzig-1879: removed unverifiable 186/116/70 dissertation counts; Cattell assistant date fixed (1885-86); "first formal Institute" hedged
+syn-survivor-guilt-syndrome: Frankl 1959 English edition title fixed in body (From Death-Camp to Existentialism; MSFM from 1962)
+tec-art-expression: art therapy origins dated 1940s-1950s (Kramer's work began 1950)
+tec-cognitive-reappraisal: removed misattributed Goldin 2008 social-anxiety claim
+tec-couples-dialogue: Gottman lab location claim softened; removed unverified Gurman claim
+tec-dream-analysis: Freud "founded" softened
+tec-existential-dialogue: Frankl English title/dates corrected
+tec-group-therapy: Fuhriman first name fixed; Pratt "founded" softened
+tec-logotherapy: Frankl 1959 title/1962 corrected
+tec-meaning-centered-psychotherapy: Frankl titles fixed; group manual is 2010 (added to Sources), individual 2014
+tec-paradoxical-intention: Frankl 1959 title fixed; wrong Broomfield & Espie cite corrected (J Sleep Res 14:401-407) and claim softened; "landmark RCT" softened
+tec-phenomenological-exploration: Binswanger "founder" softened
+tec-play-therapy: removed unverified Schaefer claim
+tec-socratic-existential-dialogue: Frankl 1959 title fixed; Kierkegaard "first" softened
+tec-systemic-exploration: Bateson "founder" softened
+thk-abandura: "founder" softened
+thk-adler: birthplace Rudolfsheim
+thk-ainsworth: "most important" softened
+thk-bion: "founded" softened
+thk-beck: "revolution" softened; Clark first name David A.; social anxiety model attributed to Clark & Wells (added to Sources)
+thk-angel: removed unverifiable birth/death dates, emigration route, vice-president, translator attributions and page numbers, Yalom/Bugental claim
+thk-bugental: "primary technician/master clinician" softened
+thk-carlos-castaneda: unverified claimed birth details removed; Fikes "showed" -> "argued"
+thk-cialdini: "directly informing" softened
+thk-damasio: "establishing" softened; IGT attribution corrected (1990s, not solely 1997)
+thk-dbaumrind: "foremost" softened; removed uncertain project name; "deceptive debriefings" -> deception
+thk-dsiegel: "founder" softened; polyvagal integration claim softened
+thk-dweck: removed page number; grammar
+thk-ectolman: removed unverifiable quotation with page; APA address claim fixed; "fully vindicated"/"founder" softened; O'Keefe claim worded carefully
+thk-elizabeth-loftus: removed unverifiable quotation; unverified National Book Award claim removed; added Brewin & Andrews to Sources
+thk-ellenberger: "founder"/"definitive" softened; uncertain chapter descriptions removed
+thk-ellis: removed unverifiable quotation with page; Hulbeck description and 1976 retraction claim softened; "first" softened
+thk-erikson: removed page number; "Founding" -> "Pioneering"
+thk-fonagy: removed unverifiable quotation with page; "foremost"/"demonstrated"/"established" softened
+thk-fperls: MD year 1921; Reich analysis detail and Laura Perls "president" claim softened; unverified "Now is now" quote removed
+thk-francine-shapiro: removed unverifiable quotation; overclaims softened
+thk-freud: Five Lectures translation date fixed to Standard Edition vol. 11
+thk-fromm: "founder" softened
+thk-fskinner: removed page number from quote
+thk-gallport: Floyd Allport death year 1979; "established" softened
+thk-fperls: MD year 1921; Reich analysis detail and Laura Perls "president" claim softened; unverified "Now is now" quote removed
+thk-francine-shapiro: removed unverifiable quotation; overclaims softened
+thk-freud: Five Lectures translation date fixed to Standard Edition vol. 11
+thk-fromm: "founder" softened
+thk-fskinner: removed page number from quote
+thk-gallport: Floyd Allport death year 1979; "established" softened
+thk-gardner: student of Bruner -> influenced by; 'showed' -> 'argued'
+thk-gendlin: removed page-numbered quotation; unverifiable 'thousands of sessions'; Focusing Institute 'co-founded'->'founded'; Hendricks chapter year 2001->2002
+thk-gilligan: removed page number from quote; removed unsupported Rawls attribution
+thk-heysenck: removed page-numbered quote (paraphrased); 'foremost'/'founder' softened
+thk-hillman: softened founder; removed page no.; made suicide claim non-clinical; removed doubtful dates/Spring relocation claim
+thk-ipavlov: removed page-numbered quotation
+thk-james: softened 'first' claim; removed page no.; removed unverifiable 'never met' claim
+thk-jherman: removed page number from quote
+thk-jkabat-zinn: softened 'original founder'; removed amygdala finding misattributed to Holzel 2011 (belongs to Holzel 2010 SCAN); 'demonstrated'->'reported'
+thk-jung: complex term 'coined' softened; 'first' midlife softened; German edition of Erinnerungen is 1962
+thk-jwatson: softened 'founder'/'father' overclaim
+thk-kahneman: removed page-numbered quotations (two); softened founder/first/'honorable' claims
+thk-kierkegaard: softened overclaim
+thk-klein: unverifiable quotation with chapter replaced by paraphrase; softened founder/'revolution parallel to Freud'
+thk-kohut: unverifiable quotation replaced by paraphrase; founder softened
+thk-lacan: removed unverifiable page numbers from quotes (p. 259 wrong)
+thk-lstevenhayes: founder softened; added two in-text-cited sources missing from Sources
+thk-maslow: softened 'spiritual father'; added Wahba & Bridwell 1976 and Kenrick 2010 to Sources (cited in text)
+thk-may: softened overclaims; TB timing (1940s, not at doctorate); removed unverifiable quotation
+thk-mbowen: softened 'most prominent'
+thk-mlinehan: removed 'first' RCT overclaim; invented clinic name; added 2006 and Kliem 2010 sources cited in text
+thk-mseligman: softened Duckworth 'demonstrated'/'more reliably' claim; added cited-but-missing sources (Abramson 1978, Ehrenreich, Eidelson 2011)
+thk-mwhite: removed unverifiable details of how White and Epston met/collaborated
+thk-panksepp: softened founder/'first' overclaims
+thk-piaget: softened overclaims (Vygotsky preceded; Bowlby working models not Piaget's)
+thk-rogers: 'first book' corrected to 'first major book' (1939 predates); grammar; Kirschenbaum ACA edition year
+thk-schneider: removed unverifiable 'four levels' list and invented techniques ('experiential pause', 'growing edge'); softened 'leading'/'definitive'
+thk-sdeshacer: 'demonstrated efficacy' overclaim softened; Franklin 2012 is a handbook not a meta-analysis
+thk-sminuchin: softened 'revolutionized'/'demonstrated'; added Luepnitz 1988 to Sources
+thk-spinelli: removed unverifiable birth year/post title/attributed view; dropped unverifiable work
+thk-stephen-porges: softened 'redrew the map' overclaim
+thk-sullivan: softened 'radically transformed'/'demonstrated'; May 'trained' -> 'associated' (consistent with thk-may)
+thk-vankaam: softened founder/'first program' claims; removed unverifiable 'five dimensions' enumeration
+thk-vygotsky: softened 'founder'; added Wood, Bruner & Ross 1976 (cited in text) to Sources
+thk-wampold: removed unverifiable d<0.20 figure; fixed Cycle of Excellence editors (Norcross -> Miller); added Tolin 2010 to Sources
+thk-winnicott: minor overclaim; Phillips edition detail
+thk-wong: Frankl 1959 -> 1962 (Man's Search for Meaning); softened overclaims
+thk-yalom: removed unverified Arabic translator/publisher/title specifics and 'primary entry point' claim; softened 'more widely read than any other'/'validated'
+wrk-attachment-loss-volume1: removed unverifiable attributed remarks (Meltzer/Segal/Winnicott); softened overclaims
+wrk-beck-cognitive-therapy-depression: softened 'demonstrated/established/revolutionary'
+wrk-ecrits: removed unverified count of essays and invented 'holding environment' criticism; softened
+wrk-flow-csikszentmihalyi: fixed 8 vs 9 components inconsistency; removed unsupported 'surgeons'; added Moneta & Csikszentmihalyi 1996 source
+wrk-freud-interpretation-of-dreams: 600 copies took eight (not six) years per Freud's own 1909 preface
+wrk-general-psychopathology: softened 'demonstrated'
+wrk-hayes-acceptance-commitment-therapy: clarified that creative hopelessness is not one of the six hexaflex processes
+wrk-thinking-fast-slow: softened 'definitive/demonstrates'; added Doyen et al. 2012 (cited in text) to Sources
+br-daseins: softened 'most precise description ... any psychological tradition' overclaim
+con-ahimsa: removed unverifiable year 1952 / publisher for al-Aqqad Ruh 'Azim
+con-anatta-non-self-concept: softened "demonstration/definitive refutation/demonstrating" overclaims
+con-ataraxia: ACT 2nd ed. year 2011 -> 2012
+con-epoche-suspension: "founder of Pyrrhonian skepticism" -> traditional inspiration, later revived by Aenesidemus
+con-eudaimonia-wellbeing: citation year "2000, 2001" aligned to listed source (2001)
+con-falsificationism-popper: softened Ibn al-Haytham "established experimental methodology / anticipating Popper"
+con-freedom: removed non-textual "geworfene Freiheit" phrase; Barnes translation publisher Washington Square Press -> Philosophical Library 1956; "demonstrates" softened
+con-guilt: removed unverifiable chapter number for Yalom
+con-hard-problem-of-consciousness: softened "established"/"demonstrating" (Nagel, Avicenna)
+con-hermeneutic-circle: softened "first systematized" (Ast) and "demonstrated" (al-Jurjani)
+con-hylomorphism: Ackrill (an Aristotle scholar) removed from list of neo-Aristotelian metaphysicians
+con-intentionality: removed unverifiable Sleigh source not cited in text
+con-isolation: Barnes translation publisher -> Philosophical Library 1956; "demonstrates" softened
+con-knowledge-by-presence-ilm-huduri: removed unverifiable publisher for Tabataba'i Usul al-Falsafa (Persian orig. from 1953); softened "demonstrating"
+con-lived-body: softened "demonstrated" (Husserl, Toombs)
+con-maya-vedanta: removed unverifiable Badawi claim; reworded Afifi (comparisons to Advaita were not his; "demonstrated" removed)
+con-monad: softened "revolutionized", "draw directly"; fixed claim that rocks/plants are aggregates of bare monads
+con-nirvana-extinction: removed Schopenhauer as "misreader" (he embraced nirvana), softened "demonstrated", removed claim that Arabic sources "conflated" nibbana with fana, Gita not "pre-Buddhist"
+con-orientalism: softened "inaugurated contemporary postcolonial theory"
+con-sense-vs-reference: removed Dummett/Burge attribution to third-realm reading; softened 'decisively'
+con-shunyata: removed unverifiable Badawi/Afifi and Ali Harb attributions
+con-social-contract-theory: softened "demonstrated/demonstrating" (Ibn Khaldun, Rawls, Pateman)
+con-universals-debate: Latin translation of Avicenna's Metaphysics dated to late 12th c. (not 13th); softened "directly provided"; typo
+ctx-avicenna-self: 'a millennium' vs 'nine centuries' inconsistency; softened 'demonstrating'
+ctx-ghazali: removed overclaim "authoritative critical edition/collated from early witnesses"; removed wrong Book 23 reference; "theology he founded" and "has shown" softened
+ctx-miskawayh-character: removed unverifiable manuscript details (Ragip Pasha/British Museum) and overstated "findings confirm" source list (Porphyry commentary)
+dbt-advaita-vs-dvaita: Madhva dates attribution corrected (1238-1317 is the traditional dating; 1199-1278 an alternative modern proposal)
+crt-feminist-critique-heidegger: softened "demonstrate"
+dbt-human-nature-debate: dating Mencius/Xunzi debate 'third century BCE' -> fourth to third century BCE
+dbt-extended-mind-clark-chalmers: added Hutchins, Rowlands 1999, Gallagher 2005 to Sources (cited in text)
+dbt-laing: dropped unverifiable volume number from Chapman 2021 source
+dbt-langle-frankl: corrected Frankl 1946 German title to 'Ein Psycholog erlebt das Konzentrationslager'
+dbt-liberalism-vs-communitarianism: added Rawls A Theory of Justice (1971) to Sources
+dbt-qadar-free-will-in-kalam: Ghaylan al-Dimashqi death date made a range under Hisham (724-743); debate dating widened to late 1st-2nd c. AH; removed doubtful editor for al-Mughni vol. 11
+dbt-rawls-nozick-justice: "the defining dispute" softened; fixed "egalitarian liberal egalitarianism"
+dbt-realism-vs-nominalism: added Russell 1912 to Sources (cited in text)
+dbt-spiritual: "existence precedes essence"/"condemned to be free" no longer attributed to Being and Nothingness alone (also Existentialism Is a Humanism, added to Sources); Frankl German title corrected to "Ein Psycholog"
+evt-frankl-camps: removed unverifiable transport designations/prisoner number 661 ("IV/11", "En"); softened "corroborated by archives" claim; "December 1945" dictation -> "In 1945"
+exp-frankl-lived-experience: removed unverifiable page numbers from Frankl/Nietzsche quotations; "arrested" -> "deported"; fixed 1959 English title (From Death-Camp to Existentialism)
+fld-aesthetics: 'most influential' softened; 'early twentieth-century views' (incl. Tolstoy, 1890s) -> 'influential views'
+fld-philosophy: reading path "Nagarjuna (Founder of Madhyamaka)" -> "Nagarjuna (Madhyamaka)" (overclaim)
+fld-philosophy: reading path "Nagarjuna (Founder of Madhyamaka)" -> "Nagarjuna (Madhyamaka)" (overclaim)
+met-sisyphus-camus: removed unverifiable page numbers from quotations; fixed English edition publisher (Knopf 1955, not Vintage 1955)
+rel-act: softened "without any existential inheritance / does not claim to descend" overclaim
+rel-humanistic: van Deurzen 1998 edition date wrong -> 3rd ed. 2012
+rel-phenopath: "Jaspers founded the discipline" softened to "laid the methodological foundations"
+sch-academic-skepticism: "greatest figure" -> "most prominent figure" (Carneades)
+sch-academy-platonic: "greatest of its skeptics" softened; Medici "founded Platonic Academy" qualified as traditional/debated
+sch-advaita-vedanta: heading "The Founder and the Lineage" -> "Shankara and the Lineage"; "greatest"/"most influential" softened; Prakashatman dating (c. 12th-13th, uncertain) and Vivarana school wording corrected; Gaudapada "earliest surviving"
+sch-african-professional-philosophy: "established" -> "helped establish" (overclaim)
+sch-analytic-metaphysics: "last decade" -> "recent years" (undated claim)
+sch-aristotelianism: softened "greatest producer"/"greatest interpreter"; Aquinas "re-established ... as the foundation" and Maimonides "founded rationalist Jewish theology" toned down
+sch-atomism-greek: "first comprehensive mechanical-materialist account in history of philosophy" -> "an early ..."
+sch-augustinianism: softened "greatest Christian thinker ... founder of whole of Latin Christian philosophy" and "basis of all Latin theology"; removed invented count "100 works and 600 letters"
+sch-british-empiricism: Reid "founder of Scottish common sense" -> "leading figure"
+sch-buddhism-early: Ashoka "moment Buddhism became a world religion" overclaim softened
+sch-charvaka: Badawi "History of Atheism in Islam" date clarified (1945, reprint 1993)
+sch-classical-liberalism-early: "founded by" Locke...Mill -> "shaped by"; Hamilton birth year given as 1755 or 1757; Bentham "founder of utilitarianism" softened; Smith "demonstrated"/"founded", Mill "established" softened
+sch-communitarianism: "in fact untenable" attributed to Sandel's argument; Taylor "demonstrating" -> "arguing"
+sch-daoism-philosophical: Zhuangzi dates marked traditional; 33-chapter edition = Guo Xiang not Han editors; Xuanxue/Buddhism relation fixed; softened "most prominent"
+sch-decolonial-philosophy: Bennabi 1954 title -> Vocation de l'Islam; Wynter 1928-2024; softened Fanon claim; added missing sources (Nandy, Chen, Santos)
+sch-deconstruction: Norris publisher Methuen; Signature Event Context published 1972
+sch-egyptian-maat: softened 'earliest mention' of Ma'at in Pyramid Texts
+sch-enlightenment: Habermas 'unfinished project' attribution fixed (1980 lecture); Dialectic of Enlightenment date; Beccaria/Bentham utilitarian claim and institutional overclaims softened
+sch-epicureanism: softened 'among the first'/'greatest propagator'; Lucretius dates marked approximate
+sch-ethnophilosophy: Griaule title/year corrected (Dieu d'eau 1948, Eng 1965) and added to Sources; Hountondji French/English dates; term 'established' softened
+sch-existentialism-atheist: Sartre 'founder' softened; unverifiable claim that Sartre declared himself always an anarchist in 1975 interviews replaced with hedged statement
+sch-existentialism: Jaspers' relation to label corrected
+sch-frankfurt-school: reification theory attributed to Lukacs (not Korsch)
+sch-german-idealism: late Schelling influence claim corrected (Kierkegaard/Engels/Bakunin attended 1841 lectures; Feuerbach removed)
+sch-hermeneutics: Gadamer 'founded' softened; Truth and Method 2nd rev ed publisher Crossroad 1989
+sch-humeanism: 'greatest philosopher'/'founder' softened; My Own Life dating
+sch-ishraqiyya: Akasoy source corrected (German title, Brill 2006)
+sch-islamic-peripatetic: 'first major Muslim philosopher' and 'most complete system' softened; Jam' attributed
+sch-islamic-sufism: softened Sufi-led resistance claim
+sch-jainism: softened 'unmatched' ahimsa and 'greatest' claims
+sch-kant-critical: 'demonstrated'/'established' softened
+sch-kyoto: 'first school of worldwide standing' and name attribution softened
+sch-legalism: 'foremost' Shen Buhai softened; Goldin paraphrase tightened
+sch-leibnizianism: 'founder' softened (no other errors found)
+sch-lixue: reviewed, no changes
+sch-lockeanism: 'founder' softened
+sch-logical-atomism: reviewed, no changes
+sch-madhyamaka: 'most important school/founded' softened
+sch-marxism: Marx-Engels meeting wording fixed (Paris 1844)
+sch-mohism: 'earliest school with systematic logic' softened
+sch-mutazila: reviewed, no changes
+sch-neoplatonism: 'greatest systematizer' softened; Eusebius/Porphyry on Origen/Ammonius clarified
+sch-neoconfucianism: reviewed, no changes
+sch-nyaya: 'first source' softened
+sch-ockhamism: 'founder' softened
+sch-ordinary-language: 'showed' -> 'argued'
+sch-patristics: Origen/Augustine superlatives softened
+sch-phenomenology-existential: Badawi 'first' softened; Macquarrie-Robinson publisher SCM Press 1962
+sch-phenomenology: reviewed, no changes
+sch-phil-mind-analytic: 'showing' -> 'arguing' (private language)
+sch-phil-science: Ibn al-Haytham 'established a method' softened
+sch-postcolonial-philosophy: 'founding work' softened
+sch-post-structuralism: reviewed, no changes
+sch-pragmatism-classical: Wright 'most important influence' softened
+sch-postmodernism-philosophical: reviewed, no changes
+sch-pyrrhonism: table dating clarified
+sch-rawlsianism: 'founded' softened; primary goods list completed
+sch-renaissance-humanism: reviewed, no changes
+sch-samkhya: reviewed, no changes
+sch-scholasticism: reviewed, no changes
+sch-sophistry: overclaim 'fundamentally laid the groundwork' softened
+sch-spinozism: reviewed, no changes
+sch-stoicism: 'greatest systematizer' softened
+sch-thomism: 24 theses dating (1914, reaffirmed 1916); 'most influential' softened
+sch-transcendent-theosophy: unverifiable attribution of 'pedagogical progression' to Rahman/Izutsu/Rizvi removed; Qummi not listed as direct student
+sch-ubuntu: reviewed, no changes
+sch-utilitarianism: 'most rigorous' softened
+sch-zoroastrian-philosophy: country field 'Parthian' corrected to Iranian
+sch-vedanta: softened claim on followings of personalist schools
+thk-al-farabi: removed unsupported claim of influence on al-Ghazali/Ibn Sina classification
+thk-al-kindi: removed unverified title count
+thk-al-kindi: softened Liber de causis link to Kindi circle
+thk-aquinas: overclaim softened
+thk-aquinas: overclaim softened
+thk-aristotle: overclaim softened
+thk-aristotle: overclaim softened
+thk-arne-naess: overclaim softened
+thk-augustine: overclaim softened
+thk-augustine: softened "directly"
+thk-beauvoir: overclaim softened
+thk-bentham: overclaim softened
+thk-berdyaev: removed unsupported claim of May-led influence and of specific Freud engagement in Destiny of Man
+thk-berdyaev: softened
+thk-bergson: overclaim softened
+thk-bergson: softened Vichy registration claim
+thk-bertrand-russell: overclaim softened
+thk-bertrand-russell: overclaim softened
+thk-biko: overclaim softened
+thk-biko: overclaim softened
+thk-binswanger: overclaim softened
+thk-brentano: overclaim softened
+thk-buber: overclaim softened
+thk-buber: quotation wording corrected to match cited translation
+thk-cohn: removed unverified Prague 1936 detail
+thk-cohn: removed unverified claim of Hamburger recognition
+thk-cohn: removed unverifiable exact death date
+thk-cohn: removed unverifiable source citation
+thk-confucius: overclaim softened
+thk-cooper: overclaim softened (first/transformative); removed unverified post
+thk-cooper: softened research claim
+thk-cooper: softened study claim
+thk-daniel-dennett: opinion softened
+thk-daniel-dennett: overclaim softened
+thk-deleuze: overclaim softened
+thk-deleuze: removed unsupported clinical/somatic/trauma-therapy claims
+thk-deleuze: softened
+thk-derrida: overclaim softened
+thk-derrida: "demonstrates" softened
+thk-derrida: "demonstrates" softened
+thk-derrida: softened attribution of narrative therapy to Derrida
+thk-descartes: overclaim softened
+thk-descartes: overclaim softened
+thk-dewey: overclaim softened
+thk-dilthey: overclaim softened
+thk-dilthey: overclaim softened
+thk-dostoevsky: overclaim softened
+thk-dostoevsky: "established" softened
+thk-fakhr-razi: overclaim softened
+thk-frankl: overclaim softened
+thk-gadamer: overclaim softened
+thk-gfrege: overclaim softened
+thk-gfrege: overclaim softened
+thk-habermas: overclaim softened
+thk-hegel: overclaim softened
+thk-heraclitus: overclaim softened
+thk-hobbes: removed unverifiable claim about De Cive Arabic translation
+thk-holzhey: death year 2026 unverifiable; changed to born 1943
+thk-holzhey: death year unverifiable
+thk-holzhey: overclaim softened
+thk-holzhey: removed unverifiable dissertation topic/dates/teachers
+thk-holzhey: removed unverifiable offices/dates and Binswanger edition claim
+thk-holzhey: removed unverifiable title; softened
+thk-holzhey: removed unverifiable title
+thk-holzhey: removed duplicate/doubtful German entry
+thk-hputnam: minor softening
+thk-ibn-arabi: overclaim softened
+thk-ibn-sina: softened 'largest integrated system' and Aquinas proof-of-God claim
+thk-ibn-tufayl: softened superlatives
+thk-jaspers: removed invented link to Boss/May/Yalom psychotherapy; softened 'established/revolutionized/foremost'
+thk-jaustin: fixed Essays on Austin authorship, HTDTW editors, removed MI9, softened direct-realism/overclaims
+thk-john-searle: softened 'demonstrating/refutes' to his own claims
+thk-kant: removed 'proof' of postulates; softened Piaget/Gestalt claim
+thk-karl-popper: softened 'founder', 'showed'
+thk-laing: softened influence claims (Soteria/early intervention), 'foremost'
+thk-langle: removed unverifiable works (2000, 2014); fixed Frankl Texte edition; softened 'central figure'
+thk-leibniz: clarified Clarke correspondence
+thk-levinas: removed unsupported therapy/psychotherapy influence claims
+thk-locke: softened 'demolished'
+thk-lukas: removed unverifiable Frankl praise, book/language counts, three doubtful titles, unverified move year; softened 'foremost'
+thk-marcel: removed unsupported therapy/palliative-care claims
+thk-mencius: softened superlative
+thk-merleau-ponty: removed unsupported influence on Weizsacker/Gebsattel/Plugge and 'deepest influence on psychotherapy'; softened Lacan 'direct dialogue'
+thk-mill: softened superlatives
+thk-minkowski: softened 'founder'
+thk-mohammed-abed-al-jabri: softened superlatives; quartet span 1984-2001
+thk-mulla-sadra: removed unsupported phase dates and scholar attribution; softened superlatives
+thk-nagarjuna: softened 'second pillar/greatest'
+thk-nietzsche: removed invented clinical-influence claim; softened 'founding father'
+thk-nishida: softened 'founding father/greatest/first'; removed overstated Kimura influence
+thk-nozick: experience machine attributed to ASU and Examined Life rather than Philosophical Explanations
+thk-peirce: softened 'founder together with James' and 'founded logic of relations'
+thk-plato: softened 'greatest/first/immortal' claims
+thk-rank: fixed Rank's secretary/publishing-house dates (secretary from 1906, Verlag from 1919); removed unsupported German title; softened influence/'first non-medical'/'pioneered'
+thk-rawls: softened superlatives
+thk-rcarnap: softened superlatives
+thk-ricoeur: fixed Nanterre deanship context; removed unsupported narrative-therapy influence
+thk-rorty: softened superlatives
+thk-rousseau: softened Rousseau-Kierkegaard influence claim; fixed Danish 'den Enkelte'
+thk-sartre: softened superlatives
+thk-schopenhauer: softened 'father of pessimism', 'direct inspiration for Freud'
+thk-shankara: softened superlatives
+thk-shestov: softened 'major'
+thk-socrates: corrected Aristotle attribution (Metaphysics vs Nicomachean Ethics)
+thk-straus: softened 'foundational pioneer/established/demonstrated'
+thk-suhrawardi: softened 'demonstrated'; the term 'alam al-mithal is later
+thk-thomas-kuhn: softened 'altered/demonstrated/inaugurating'
+thk-tillich: removed doubtful Somme claim; corrected May's neurotic anxiety as disproportionate; softened 'foremost'
+thk-unamuno: replaced unverifiable long quotation (Millan-Astray confrontation) with paraphrase
+thk-vandeurzen: softened overclaims
+thk-vandeurzen: removed unverifiable education/clinical specifics
+thk-vandeurzen: removed unverifiable first/Antioch/Dean claims
+thk-vandeurzen: trimmed unverified FETE claim
+thk-vandeurzen: softened invented motive
+thk-vandeurzen: removed Latin America/accreditation overclaim
+thk-voltaire: overclaim
+thk-voltaire: Écrasez l'infâme not in Traité; removed invented paraphrase
+thk-voltaire: dating/attribution slip
+thk-voltaire: unsupported Voltaire links
+thk-voltaire: unverifiable publication place
+thk-wang-yangming: overclaim
+thk-wang-yangming: overclaim
+thk-wang-yangming: overclaim
+thk-william-ockham: overclaim
+thk-william-ockham: overclaim
+thk-william-ockham: uncertain cause of death
+thk-wquine: overclaim
+thk-wquine: overclaim
+thk-wquine: overclaim
+thk-xunzi: removed unverifiable honorific
+thk-xunzi: overclaim
+thk-xunzi: overclaim
+thk-xunzi: overclaim
+thk-xunzi: removed unverifiable quotation, paraphrased
+thk-xunzi: invented psychotherapy link
+thk-xunzi: quotation paraphrased
+thk-xunzi: wording
+thk-xunzi: unsupported attribution
+thk-zhu-xi: overclaim
+thk-zhu-xi: dating slip (became Li Tong's student c. 1160)
+thk-zhu-xi: overclaim
+thk-zhuangzi: unverified term
+wrk-al-muqaddimah-ibn-khaldun: overclaim 'founded'
+wrk-al-muqaddimah-ibn-khaldun: overclaim 'founded'
+wrk-al-muqaddimah-ibn-khaldun: softened overclaim/unverifiable detail
+wrk-al-muqaddimah-ibn-khaldun: softened overclaim/unverifiable detail
+wrk-al-muqaddimah-ibn-khaldun: removed anachronistic Ottoman library in Istanbul
+wrk-al-muqaddimah-ibn-khaldun: softened overclaim/unverifiable detail
+wrk-al-muqaddimah-ibn-khaldun: softened overclaim/unverifiable detail
+wrk-al-muqaddimah-ibn-khaldun: softened overclaim/unverifiable detail
+wrk-al-muqaddimah-ibn-khaldun: removed quotation and invented 'defense mechanism'
+wrk-al-muqaddimah-ibn-khaldun: quote paraphrased
+wrk-al-shifa-avicenna: unverified preface claim
+wrk-al-shifa-avicenna: dating hedge
+wrk-al-shifa-avicenna: softened overclaim/unverifiable detail
+wrk-al-shifa-avicenna: overclaim
+wrk-al-shifa-avicenna: overclaim
+wrk-al-shifa-avicenna: attribution
+wrk-al-shifa-avicenna: softened overclaim/unverifiable detail
+wrk-al-shifa-avicenna: softened overclaim/unverifiable detail
+wrk-being-nothingness: overclaim
+wrk-being-nothingness: softened overclaim/unverifiable detail
+wrk-being-nothingness: softened overclaim/unverifiable detail
+wrk-being-time: overclaim
+wrk-being-time: overclaim 'first'
+wrk-al-shifa-avicenna: removed unsupported example
+wrk-concept-anxiety: softened overclaim/unverifiable detail
+wrk-concept-anxiety: softened overclaim/unverifiable detail
+wrk-concept-anxiety: softened overclaim/unverifiable detail
+wrk-concept-anxiety: softened overclaim/unverifiable detail
+wrk-concept-anxiety: softened overclaim/unverifiable detail
+wrk-consolation-philosophy: softened overclaim/unverifiable detail
+wrk-courage-to-be: softened overclaim/unverifiable detail
+wrk-courage-to-be: softened overclaim/unverifiable detail
+wrk-courage-to-be: softened overclaim/unverifiable detail
+wrk-courage-to-be: softened overclaim/unverifiable detail
+wrk-daodejing: softened overclaim/unverifiable detail
+wrk-daodejing: softened overclaim/unverifiable detail
+wrk-divided-self: softened overclaim/unverifiable detail
+wrk-divided-self: softened overclaim/unverifiable detail
+wrk-ethics-ambiguity: softened overclaim/unverifiable detail
+wrk-ethics-ambiguity: softened overclaim/unverifiable detail
+wrk-existence: softened overclaim/unverifiable detail
+wrk-existence: softened overclaim/unverifiable detail
+wrk-existence: softened overclaim/unverifiable detail
+wrk-existential-psychotherapy: softened overclaim/unverifiable detail
+wrk-existential-psychotherapy: softened overclaim/unverifiable detail
+wrk-existential-psychotherapy: softened overclaim/unverifiable detail
+wrk-existential-psychotherapy: wrong edition year (1998)
+wrk-existential-psychotherapy: softened overclaim/unverifiable detail
+wrk-existential-therapies: softened overclaim/unverifiable detail
+wrk-existential-therapies: unverifiable count of approaches
+wrk-existential-therapies: unverified chapter structure
+wrk-existential-therapies: softened overclaim/unverifiable detail
+wrk-existential-therapies: softened overclaim/unverifiable detail
+wrk-fusus-al-hikam-ibn-arabi: softened overclaim/unverifiable detail
+wrk-fusus-al-hikam-ibn-arabi: softened overclaim/unverifiable detail
+wrk-fusus-al-hikam-ibn-arabi: removed unverifiable manuscript shelfmark/editor/date details
+wrk-hegel-phenomenology-spirit: removed unverifiable page count
+wrk-hikmat-al-ishraq-suhrawardi: unverified place of composition
+wrk-hikmat-al-ishraq-suhrawardi: softened overclaim/unverifiable detail
+wrk-lived-time: softened overclaim/unverifiable detail
+wrk-lived-time: softened overclaim/unverifiable detail
+wrk-lived-time: softened overclaim/unverifiable detail
+wrk-mans-search: softened overclaim/unverifiable detail
+wrk-metaphysics-aristotle: Anaximander not discussed in Metaphysics A
+wrk-metaphysics-aristotle: softened overclaim/unverifiable detail
+wrk-metaphysics-aristotle: softened overclaim/unverifiable detail
+wrk-metaphysics-aristotle: softened overclaim/unverifiable detail
+wrk-on-liberty-mill: softened overclaim/unverifiable detail
+wrk-philosophical-investigations-wittgenstein: unverifiable editorial details
+wrk-republic-plato: softened overclaim/unverifiable detail
+wrk-sickness-death: softened overclaim/unverifiable detail
+wrk-sickness-death: softened overclaim/unverifiable detail
+wrk-sickness-death: softened overclaim/unverifiable detail
+wrk-sickness-death: softened overclaim/unverifiable detail
+wrk-republic-plato: softened overclaim/unverifiable detail
+wrk-spinoza-ethics: 'earliest' overclaim
+wrk-the-prince-machiavelli: attribution of Nasihat al-Muluk is disputed
+wrk-the-prince-machiavelli: softened overclaim/unverifiable detail
+wrk-the-social-contract-rousseau: unverified translation year
+wrk-tractatus: 'first' overclaim
+wrk-two-dogmas: overclaim
+wrk-zollikon: 'first' overclaim
+wrk-zollikon: softened overclaim/unverifiable detail

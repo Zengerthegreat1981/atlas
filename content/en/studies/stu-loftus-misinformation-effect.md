@@ -31,14 +31,14 @@ Following the slide presentation, participants completed a 20-question inventory
 
 ## Results and Conclusions
 
-In the 20-minute condition, participants exposed to consistent information correctly identified the original slide 75% of the time, whereas those exposed to misleading post-event information chose the correct slide only 41% of the time—performing significantly below chance. Loftus interpreted these findings as evidence for "memory overwriting" or updating: post-event information blends with and permanently alters or replaces the original memory trace.
+In the 20-minute condition, participants exposed to consistent information correctly identified the original slide 75% of the time, whereas those exposed to misleading post-event information chose the correct slide only 41% of the time—well below the consistent group. Loftus interpreted these findings as evidence for "memory overwriting" or updating: post-event information blends with, alters, or replaces the original memory trace.
 
 ## Per-Experiment Sample Sizes and Related Designs
 
 Because Loftus's research program investigated several manifestations of memory malleability, sample sizes varied across specific experiments:
-- **Loftus and Palmer (1974)**: In Experiment 1, 45 students watched seven film clips of automobile accidents and were queried with varying verbs ("smashed", "collided", "bumped", "hit", "contacted", $N = 9$ per condition); speed estimates varied from 40.5 mph ("smashed") to 31.8 mph ("contacted"). In Experiment 2, 150 participants were divided into three groups of 50 ("smashed", "hit", and control); one week later, 32% of the "smashed" group falsely remembered seeing broken glass compared to 14% of the "hit" group and 12% of controls.
+- **Loftus and Palmer (1974)**: In Experiment 1, 45 students watched seven film clips of automobile accidents and were queried with varying verbs ("smashed", "collided", "bumped", "hit", "contacted", $N = 9$ per condition); speed estimates varied from 40.8 mph ("smashed") to 31.8 mph ("contacted"). In Experiment 2, 150 participants were divided into three groups of 50 ("smashed", "hit", and control); one week later, 32% of the "smashed" group falsely remembered seeing broken glass compared to 14% of the "hit" group and 12% of controls.
 - **Loftus, Miller, and Burns (1978)**: Tested 195 university students across immediate and delayed intervals (20 minutes, 2 days, and 1 week), showing that the susceptibility to misinformation increases substantially as the original memory trace fades over time.
-- **Loftus (1975)**: Tested samples ranging between 40 and 150 students per experiment on false presuppositions regarding non-existent objects (such as barn or a baby carriage).
+- **Loftus (1975)**: Used false presuppositions in questions about non-existent objects (such as a barn) to show that leading questions can introduce false details into reports.
 
 ## Warnings and Resistance to Misinformation
 

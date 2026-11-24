@@ -57,7 +57,7 @@ In analytical psychology, the collective unconscious is the matrix within which 
 The concept has generated substantial theoretical critique:
 - **The Genetic Critique**: Early formulations were criticized for relying on Lamarckian assumptions regarding the inheritance of acquired mental experiences. Later thinkers (e.g., Anthony Stevens) recast archetypes in the language of evolutionary psychology and ethological innate releasing mechanisms, though direct neurobiological evidence for specific Jungian archetypal structures remains unproven.
 - **The Methodological Critique**: Cross-cultural parallels can often be parsimoniously explained by cultural diffusion, universal human anatomical and developmental realities (e.g., physical infancy, maternal care, mortal vulnerability), or researcher selection bias.
-- **The Unfalsifiability Critique**: Philosophers of science (notably Karl Popper) noted that the collective unconscious lacks empirical refutation criteria: because any human expression can be post-hoc mapped to an archetype, the concept resists rigorous falsification.
+- **The Unfalsifiability Critique**: Critics working from philosophy of science (in Popperian terms) have argued that the collective unconscious lacks empirical refutation criteria: because any human expression can be post-hoc mapped to an archetype, the concept resists rigorous falsification.
 
 In contemporary clinical analytical practice, the concept is valued primarily for its **heuristic and interpretive utility** in contextualizing profound symbolic material and existential transitions in psychological therapy, rather than as a verified biological dogma.
 

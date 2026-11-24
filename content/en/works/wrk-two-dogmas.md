@@ -39,7 +39,7 @@ A short, tightly built essay that proceeds in six sections: the background of an
 
 ## The Historical Context of Publication
 
-The essay was originally presented at a meeting of the American Philosophical Association in late 1950, and published in 1951 in the *Philosophical Review*. It is regarded as the first blow, from within the analytic tradition itself, that paved the way for the disintegration of logical positivism in American philosophy. The target of the critique was Carnap and his book *Meaning and Necessity* (1947) and his conception of formal languages; Quine later developed many of his ideas (such as the thesis of the indeterminacy of translation) in his book *Word and Object* (1960), a later independent work whose contents are not attributed to this essay.
+The essay was originally presented at a meeting of the American Philosophical Association in late 1950, and published in 1951 in the *Philosophical Review*. It is widely regarded as a major blow, from within the analytic tradition itself, to logical positivism. The target of the critique was Carnap and his book *Meaning and Necessity* (1947) and his conception of formal languages; Quine later developed many of his ideas (such as the thesis of the indeterminacy of translation) in his book *Word and Object* (1960), a later independent work whose contents are not attributed to this essay.
 
 ## Reception and Criticism
 
