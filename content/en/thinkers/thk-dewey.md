@@ -24,7 +24,7 @@ gaps: []
 
 # John Dewey
 
-An American philosopher, psychologist and educator, the greatest representative of **applied pragmatism** (Pragmatism Applied) in the twentieth century. He formulated "learning by doing", "democracy as a way of life" and "experience and knowledge".
+An American philosopher, psychologist and educator, the greatest representative of **pragmatism and instrumentalism** in the twentieth century. He formulated "learning by doing", "democracy as a way of life" and "experience and knowledge".
 
 ## What He Contributed
 
@@ -51,15 +51,15 @@ A critique of **fascism** and of **corrupt liberalism**: **freedom** is not only
 
 ## His Most Important Works
 
-- **The Reflex Arc Concept in Psychology** (1896): the concept of the reflex arc.
-- **School and Society** (1899): the school and society.
-- **How We Think** (1910): how we think.
-- **Democracy and Education** (1916): democracy and education.
-- **Reconstruction in Philosophy** (1920): the reconstruction of philosophy.
-- **Experience and Nature** (1925): experience and nature.
-- **The Public and Its Problems** (1927): the public and its problems.
-- **Art as Experience** (1934): art as experience.
-- **Logic: The Theory of Inquiry** (1938): logic: the theory of inquiry.
+- *The Reflex Arc Concept in Psychology* (1896): foundational paper introducing functionalism in American psychology.
+- *The School and Society* (1899): seminal lectures on progressive pedagogical reform.
+- *How We Think* (1910): examination of reflective thinking and inquiry in education.
+- *Democracy and Education* (1916): magnum opus on democratic education and social growth.
+- *Reconstruction in Philosophy* (1920): critique of traditional metaphysics and outline of pragmatic reconstruction.
+- *Experience and Nature* (1925): systematic presentation of naturalistic empirical metaphysics.
+- *The Public and Its Problems* (1927): defense of participatory democracy against technocratic elitism.
+- *Art as Experience* (1934): aesthetic theory grounded in the continuity of everyday experience.
+- *Logic: The Theory of Inquiry* (1938): formal elaboration of instrumental logic and scientific inquiry.
 
 ## Biography
 

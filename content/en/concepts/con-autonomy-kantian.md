@@ -14,7 +14,6 @@ edges:
 - rel: "belongs_to", target: "Contemporary Kantian Ethics", target_type: "مدرسة"
 related:
 - id: "thk-kant", title: "Immanuel Kant", type: "مفكر"
-gaps:
 gaps: []
 ---
 # Autonomy in Kantian Ethics

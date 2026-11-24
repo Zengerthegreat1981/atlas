@@ -2,7 +2,7 @@
 slug: "thk-rank"
 id: "THK-0321"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Otto Rank"
 en: "Otto Rank"
@@ -19,34 +19,41 @@ gaps: []
 
 # Otto Rank
 
-Otto Rank (1884–1939) was an Austrian psychoanalyst, one of Freud's closest collaborators for two decades before breaking away from him. His later work on birth, separation, anxiety and the creative will anticipates themes of existential psychotherapy, and Rollo May cited him explicitly.
+Otto Rank (1884–1939) was an Austrian psychoanalyst and philosopher of culture, one of Sigmund Freud's closest collaborators for two decades before their theoretical split. His pioneering work on the trauma of birth, the dynamics of separation, the duality of anxiety, and the creative will directly anticipated the central themes of existential psychotherapy and humanistic psychology.
 
 ## Life and Career
 
-Rank was born Otto Rosenfeld in Vienna on 22 April 1884 into a modest Jewish family and later took the surname Rank. A largely self-educated young man, he impressed Freud with a manuscript on the artist (*Der Künstler*, 1907), and Freud supported his university studies; he took a doctorate in Vienna in 1912. From 1906 he served as the paid secretary of the Vienna Psychoanalytic Society, and he directed the psychoanalytic publishing house. His early books applied psychoanalysis to myth, literature and art, notably *The Myth of the Birth of the Hero* (1909) and *The Incest Motif in Poetry and Legend* (1912). He also contributed sections on myth and legend to later editions of Freud's *The Interpretation of Dreams*.
+Rank was born Otto Rosenfeld in Vienna on 22 April 1884 into an impoverished Jewish family and later adopted the surname Rank. A largely self-educated young man, he impressed Freud with an early manuscript on the psychology of the artist (*Der Künstler*, 1907). Freud became his mentor and financed his university education at the University of Vienna, where Rank earned his doctorate in 1912 as the first non-medical psychoanalyst. From 1906 to 1924 Rank served as the salaried secretary of the Vienna Psychoanalytic Society and directed the International Psychoanalytic Publishing House (*Internationaler Psychoanalytischer Verlag*). His early works applied psychoanalytic concepts to myth, art, and literature, notably *The Myth of the Birth of the Hero* (1909), *The Incest Motif in Poetry and Legend* (1912), and *The Double* (*Der Doppelgänger*, 1914).
 
 ## The Break with Freud
 
-In *The Trauma of Birth* (1924) Rank proposed that the experience of birth and separation from the mother is the prototype of later anxiety, and he shifted the emphasis of therapy from the reconstruction of childhood sexual conflict to the present relationship and the patient's emotional experience. With Sándor Ferenczi he also wrote *The Development of Psychoanalysis* (1923), which stressed experience over interpretation. These ideas created tension within Freud's circle, and Rank's relations with Freud and the Committee deteriorated; by 1926 he had left Vienna, living afterwards in Paris and, from 1935, mainly in the United States. He died in New York on 31 October 1939.
+In *The Trauma of Birth* (*Das Trauma der Geburt*, 1924), Rank argued that the physiological and psychological experience of birth and separation from the mother is the primary prototype of human anxiety, shifting the focus of therapy from Oedipal conflicts and unconscious sexual drives to pre-Oedipal maternal bonding and the existential shock of individuation. Together with Sándor Ferenczi, Rank also co-authored *The Development of Psychoanalysis* (1924), which advocated an active, emotionally experiential technique over intellectualized reconstructions of the past. These departures provoked fierce resistance from Freud and the inner circle of the Psychoanalytic Committee. By 1926 Rank broke formally with Freud, relocated to Paris, and later settled in the United States in 1935, teaching and lecturing widely until his death in New York on 31 October 1939.
 
-## What He Gave
+## Theoretical Contributions and Existential Themes
 
-His later work, especially *Will Therapy* and *Truth and Reality* (English translations by Jessie Taft, 1936) and *Art and Artist* (1932), centres on the individual **will** as a creative and therapeutic force, on the tension between the fear of separation and the fear of union, and on the artist as a type of person who creates his own meaning. He emphasised the here-and-now relationship between therapist and patient, a stance that influenced social work (through Jessie Taft and the functional school) and, indirectly, client-centred therapy.
+Rank's mature post-Freudian philosophy, formulated in *Art and Artist* (1932) and *Will Therapy* (*Wille und Psychoanalyse*, 1926–1931; translated by Jessie Taft in 1936), articulated several concepts foundational to existential therapy:
 
-His account of existential anxiety (anxiety of birth and separation, not only Freudian sexual repression) was later taken up by Rollo May, who cited him in his writings, and by Ernest Becker in *The Denial of Death*.
+- **The Creative Will (*der schöpferische Wille*)**: In contrast to Freud's view of the ego as largely passive and defensive against instinctual drives, Rank conceived the will as a conscious, positive, and integrative guiding force. For Rank, individuals are not merely reactive creatures driven by biological determinism; they actively create their own personalities and worldviews through deliberate acts of will.
+- **Life Fear and Death Fear (*Lebensangst* and *Todesangst*)**: Rank identified two complementary existential anxieties. *Life fear* is the fear of living as an autonomous, separated individual—the anxiety of stepping into the unknown and bearing the burden of individuation. *Death fear* is the complementary fear of losing one's individuality—the terror of dissolution, absorption, and the obliteration of the unique self in the collective or in another person. Neurosis, in Rank's framework, represents a paralysis between these two poles, wherein the individual can neither embrace individuation nor surrender to connection.
+- **Therapeutic Technique and End-Setting**: In clinical practice, Rank abandoned passive, open-ended free association in favor of an active focus on the immediate, "here-and-now" (*Hier und Jetzt*) relationship between therapist and patient. He pioneered the practice of time-limited therapy with a fixed termination date, using the inevitable crisis of ending and separation as a therapeutic vehicle to mobilize the patient's will and confront their primary anxiety of autonomy.
 
-## A Caveat
+## Legacy and Influence
 
-He did not describe himself as existential (the term was not yet current in his time), and his inclusion here is based on his documented later influence, notably on May, not on a declared self-affiliation. Historians also note that his theory of the birth trauma was rejected by Freud and has little empirical support.
+Although Rank did not use the label "existentialist" during his lifetime, his impact on existential and humanistic psychology was profound. Rollo May explicitly credited Rank with introducing the decisive dimensions of will, creative decision, and separation anxiety to psychotherapy. Carl Rogers acknowledged that Rank's relational philosophy, transmitted through Jessie Taft and Frederick Allen at the Pennsylvania School of Social Work, was a decisive catalyst for the development of client-centered therapy. Furthermore, cultural anthropologist Ernest Becker built his Pulitzer Prize-winning work *The Denial of Death* (1973) directly around Rank's insights into man's hunger for heroic immortality and the existential terror of mortality.
 
 ## Key Works
 
-*The Myth of the Birth of the Hero* (1909) · *The Trauma of Birth* (1924) · *Art and Artist* (1932) · *Will Therapy* (1936) · *Beyond Psychology* (posthumous, 1941)
+- *The Myth of the Birth of the Hero* (*Der Mythus von der Geburt des Helden*, 1909)
+- *The Trauma of Birth* (*Das Trauma der Geburt*, 1924)
+- *Art and Artist: Creative Urge and Personality Development* (1932)
+- *Will Therapy and Truth and Reality* (translated by Jessie Taft, 1936)
+- *Beyond Psychology* (posthumous, 1941)
 
 ## Sources
 
-- Rank, Otto. *The Trauma of Birth*. London: Kegan Paul, 1929 (German original 1924).
-- Rank, Otto. *Will Therapy and Truth and Reality*. Translated by Jessie Taft. New York: Knopf, 1945.
-- Lieberman, E. James. *Acts of Will: The Life and Work of Otto Rank*. New York: Free Press, 1985.
-- Taft, Jessie. *Otto Rank: A Biographical Study*. New York: Julian Press, 1958.
-- Becker, Ernest. *The Denial of Death*. New York: Free Press, 1973.
+- Rank, Otto (1929). *The Trauma of Birth*. London: Kegan Paul (German original 1924).
+- Rank, Otto (1932). *Art and Artist: Creative Urge and Personality Development*. New York: Alfred A. Knopf.
+- Rank, Otto (1945). *Will Therapy and Truth and Reality*. Translated by Jessie Taft. New York: Alfred A. Knopf.
+- Lieberman, E. James (1985). *Acts of Will: The Life and Work of Otto Rank*. New York: Free Press.
+- Taft, Jessie (1958). *Otto Rank: A Biographical Study*. New York: Julian Press.
+- Becker, Ernest (1973). *The Denial of Death*. New York: Free Press.

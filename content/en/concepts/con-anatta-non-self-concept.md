@@ -14,8 +14,7 @@ edges:
 related:
 - id: "thk-buddha", title: "The Buddha (Siddhartha Gautama)", type: "مفكر"
 - id: "sch-buddhism-early", title: "Early Buddhism", type: "مدرسة"
-gaps:
-  - "Detailed development of the concept in the Abhidharma and Madhyamaka schools: not yet covered"
+gaps: []
 ---
 # Anatta and the Denial of a Fixed Self in Buddhism
 
@@ -35,6 +34,13 @@ Scholars disagree over how to read the early texts. Some hold that the Buddha de
 
 The texts of the Milinda Panha (The Questions of King Milinda) give a famous example: the sage Nagasena asks the king about the chariot in which he came, whether it is the wheels, the axle or the frame. It becomes clear that "chariot" is a conventional name applied to an assemblage of parts in a certain arrangement. Likewise "person" is a name applied to the flow of psychological and bodily parts without an independent substance. Nevertheless the school acknowledges the continuity of actions and their fruits (karma) through the chain of causes, so the moral agent remains without the need for an enduring soul.
 
+## Systematization in Abhidharma and Madhyamaka
+
+The doctrine of *anatta* underwent rigorous analytical development in the post-canonical philosophical schools:
+
+- **Abhidharma**: Classical Abhidharma traditions (both Theravada and Sarvastivada) systematized experience into momentary, irreducible constituent elements called *dharmas* (*dhammas*). While the conventional self or person (*pudgala*) was rejected as a mere conceptual designation (*prajñapti*), individual dharmas—such as momentary mental factors and sensory data—were analyzed as having their own distinct intrinsic characteristics (*svabhāva*). Continuity of memory, agency, and moral responsibility (karma) was explained not by a persisting soul, but as an unbroken causal continuum (*santāna*) of momentary dharmic events. In his *Abhidharmakośabhāṣya* (chapter 9), the philosopher Vasubandhu provided the definitive classical refutation of the personalist (*Pudgalavāda*) view, demonstrating how personal continuity functions through causal conditioning without an enduring self.
+- **Madhyamaka**: In the second century CE, Nagarjuna and the Madhyamaka school extended the analysis of non-self to its radical conclusion. Nagarjuna argued in the *Mūlamadhyamakakārikā* that if dharmas possessed independent, intrinsic nature (*svabhāva*), they could not be causally dependent or impermanent, violating the core Buddhist insight of dependent origination (*pratītyasamutpāda*). Thus, Madhyamaka asserts not only the non-self of persons (*pudgala-nairātmya*), but also the non-self or emptiness of all phenomena and dharmas (*dharma-nairātmya*). Emptiness (*śūnyatā*) is not nothingness or nihilism, but the complete absence of independent, essential existence in all entities, demonstrating that the self and all components of experience exist only dependently and conventionally.
+
 ## Comparison with the Islamic and Western Traditions
 
 Anatta stands at the opposite end from the conception of the soul in Islamic philosophy: for Ibn Sina and al-Ghazali the soul is a spiritual substance that remains after the body perishes, and it is the basis of reckoning and reward. On the other hand, what comes close to anatta in the West is the bundle theory of David Hume, who found in introspection nothing but a succession of perceptions, as well as Derek Parfit's analysis of personal identity. However, Buddhism makes this vision a path to liberation from attachment, not merely a theoretical position.
@@ -48,4 +54,6 @@ Anatta was criticized by Vedantic Hinduism, which saw in the "atman" the basis o
 - Walpola Rahula, *What the Buddha Taught*, Gordon Fraser, 1959.
 - Steven Collins, *Selfless Persons: Imagery and Thought in Theravada Buddhism*, Cambridge University Press, 1982.
 - Bhikkhu Bodhi (trans.), *The Connected Discourses of the Buddha: A Translation of the Samyutta Nikaya*, Wisdom Publications, 2000.
+- Nagarjuna, *The Fundamental Wisdom of the Middle Way: Nagarjuna's Mulamadhyamakakarika*, trans. Jay L. Garfield, Oxford University Press, 1995.
+- Vasubandhu, *Abhidharmakoshabhasyam*, 4 vols., trans. Louis de La Vallée Poussin and Leo M. Pruden, Asian Humanities Press, 1988–1990.
 - Derek Parfit, *Reasons and Persons*, Oxford University Press, 1984.

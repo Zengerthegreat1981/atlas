@@ -57,7 +57,7 @@ Dualism is not simply religious belief, and physicalism does not mean consciousn
 
 ## Sources
 
-- Rene Descartes, *Meditations on First Philosophy* (1641)
+- René Descartes, *Meditations on First Philosophy* (1641)
 - Gilbert Ryle, *The Concept of Mind* (1949)
 - Thomas Nagel, "What Is It Like to Be a Bat?", *The Philosophical Review* (1974)
 - John Searle, "Minds, Brains, and Programs", *Behavioral and Brain Sciences* (1980)

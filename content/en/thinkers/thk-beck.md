@@ -10,15 +10,14 @@ dates: "United States · 1921–2021"
 country: "United States"
 language: "English"
 active_start: 1963
-active_end: 2018
+active_end: 2021
 part: "psychology"
 edges:
 - rel: "belongs_to", target: "Cognitive-Behavioral Therapy", target_type: "مدرسة"
 related:
 - id: "sch-rebt", title: "Rational Emotive Behavior Therapy (REBT)", type: "مدرسة"
 - id: "tec-cognitive-reappraisal", title: "Cognitive Reappraisal", type: "تقنية/تدخل علاجي"
-gaps:
-  - "Beck's contributions to social anxiety and personality disorders, beyond brief mention: not yet covered"
+gaps: []
 ---
 # Aaron Temkin Beck
 
@@ -42,6 +41,12 @@ Beck is considered the historical founder of the contemporary clinical cognitive
 ## Limitations
 
 Although his contribution broadened to include personality disorders, anxiety and psychosis, his founding work remains tied to depression. His model is sometimes confused with "Interpersonal Therapy" (IPT) developed by Gerald Klerman and Myrna Weissman, which is a path independent of cognitive therapy.
+
+## Personality Disorders and Social Anxiety
+
+While Beck's earliest formulations addressed unipolar depression, he systematically expanded the cognitive model to more complex and chronic clinical presentations. In *Cognitive Therapy of Personality Disorders* (1990, co-authored with Arthur Freeman and colleagues; third edition 2015 with Denise Davis), Beck proposed that personality disorders reflect pervasive, inflexible cognitive-affective schemas rooted in evolutionary survival strategies. In this framework, personality pathology represents hyper-developed or under-developed behavioral and interpersonal strategies: for example, the avoidant profile is characterized by schemas of personal vulnerability and social defectiveness paired with protective social withdrawal, whereas the narcissistic profile relies on core beliefs of specialness and entitlement.
+
+Similarly, Beck, together with Gary Emery (*Anxiety Disorders and Phobias: A Cognitive Perspective*, 1985) and later David M. Clark (*Cognitive Therapy of Anxiety Disorders*, 2010), established the cognitive model of social anxiety disorder. This model demonstrates that individuals with social phobia hold core beliefs of inadequacy and an intense fear of negative evaluation, which trigger acute self-focused attention, distorted mental imagery of how one appears to others, and reliance on maladaptive safety behaviors (such as avoiding eye contact or over-rehearsing speech) that paradoxically perpetuate social distress.
 
 ## Historical context
 
@@ -68,5 +73,7 @@ The Beck Depression Inventory (BDI-II in its updated version) remains one of the
 - Beck, A. T. (1967). *Depression: Clinical, Experimental, and Theoretical Aspects*. Hoeber.
 - Rush, A. J., Beck, A. T., Kovacs, M., & Hollon, S. (1977). Comparative efficacy of cognitive therapy and pharmacotherapy in the treatment of depressed outpatients. *Cognitive Therapy and Research*, 1(1), 17–37.
 - Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive Therapy of Depression*. Guilford Press.
+- Beck, A. T., & Emery, G. (with Greenberg, R. L.) (1985). *Anxiety Disorders and Phobias: A Cognitive Perspective*. Basic Books.
 - Beck, A. T., Freeman, A., & Associates (1990). *Cognitive Therapy of Personality Disorders*. Guilford Press.
 - Beck, J. S. (1995). *Cognitive Therapy: Basics and Beyond*. Guilford Press.
+- Clark, D. A., & Beck, A. T. (2010). *Cognitive Therapy of Anxiety Disorders: Science and Practice*. Guilford Press.

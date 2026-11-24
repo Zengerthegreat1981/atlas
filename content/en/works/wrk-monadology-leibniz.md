@@ -28,7 +28,7 @@ gaps: []
 
 ## The Structure of the Work
 
-A short, condensed text divided into 90 consecutively numbered paragraphs (not chapters), a numbering that comes from the early editions rather than from Leibniz himself, beginning with the definition of the monad and its simplicity, moving on to the principle of the identity of indiscernibles (no two monads are identical), then perception (Perception) and appetition (Appetition) as intrinsic attributes of every monad, then the dominant central monad in every living being (the soul), and ending with pre-established harmony and the best of all possible worlds as the theological crowning of the system.
+A short, condensed text divided into 90 consecutively numbered paragraphs (not chapters), beginning with the definition of the monad and its simplicity, moving on to the principle of the identity of indiscernibles (no two monads are identical), then perception (Perception) and appetition (Appetition) as intrinsic attributes of every monad, then the dominant central monad in every living being (the soul), and ending with pre-established harmony and the best of all possible worlds as the theological crowning of the system.
 
 ## Historical Context of Publication
 

@@ -6,58 +6,80 @@ level: "متقدم"
 title: "Thomas Szasz"
 en: "Thomas Szasz"
 crumb: "Psychology ← Thinkers ← Thomas Szasz"
-dates: "America / Hungary · 1920–2012"
-active_start: 1961
-active_end: 1970
-country: "America / Hungary"
+dates: "Hungary / United States · 1920–2012"
+active_start: 1957
+active_end: 2012
+country: "United States (born in Hungary)"
 language: "English"
-part: psychology
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "Anti-Psychiatry", target_type: "تيار"
 related:
 - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
 - id: "con-freedom", title: "Freedom", type: "مفهوم"
 - id: "thk-laing", title: "R. D. Laing", type: "مفكر"
-gaps:
-  - "His liberal emphasis on individual moral responsibility deserves a critical comparison with the existential view of freedom and guilt: not yet covered."
+gaps: []
 ---
 
 # Thomas Szasz
 
-An American-Hungarian psychiatrist, psychoanalyst and writer, one of the most famous critics of classical psychiatry in the twentieth century and the author of the landmark book *The Myth of Mental Illness*.
+Thomas Stephen Szasz (1920–2012) was a Hungarian-American psychiatrist, psychoanalyst, and academic who emerged as one of the twentieth century's most radical and prominent critics of institutional psychiatry. A professor of psychiatry at the State University of New York Upstate Medical University in Syracuse, Szasz achieved international fame with *The Myth of Mental Illness* (1961), mounting a sustained legal, philosophical, and moral assault against involuntary psychiatric commitment and the medicalization of human deviance.
 
 ## Biography and Formation
 
-Thomas Stephen Szasz was born on 15 April 1920 in Budapest, emigrated to the United States in 1938, received his medical degree from the University of Cincinnati in 1944, and trained in psychoanalysis at the Chicago Institute for Psychoanalysis. He taught psychiatry at the State University of New York Medical School in Syracuse until his retirement. He died on 8 September 2012 in New York State. His thought formed at the intersection of three tributaries: the psychoanalysis he practiced for years, the classical European liberalism that sanctifies the individual's freedom and responsibility, and analytic philosophy of language, which made him sensitive to what metaphors do to ideas.
+Szasz was born on 15 April 1920 in Budapest, Hungary, into a Jewish family. He emigrated to the United States in 1938, graduated with an MD from the University of Cincinnati in 1944, and trained in psychoanalysis at the Chicago Institute for Psychoanalysis under Franz Alexander. From 1956 until his retirement, he taught psychiatry at Syracuse. He died on 8 September 2012 in Manlius, New York.
 
-## What He Contributed
+Szasz's intellectual architecture drew upon three key traditions:
+1. **Classical Liberalism and Libertarianism**: Deeply influenced by John Stuart Mill, Friedrich Hayek, and Karl Popper, Szasz viewed the sovereign individual as possessing inviolable rights to bodily self-ownership, liberty, and moral agency.
+2. **Linguistic and Analytic Philosophy**: Influenced by Gilbert Ryle and Ludwig Wittgenstein, Szasz focused on categorical errors and how metaphors are mistakenly transformed into literal physical diseases.
+3. **Contractarian Psychoanalysis**: Drawing on psychoanalysis while rejecting its deterministic drive theory, Szasz redefined the clinical relationship as a voluntary, consensual contract between autonomous adults.
 
-- **The Myth of Mental Illness**: he argued that what is called "mental illness" is not an organic disease of the brain but "problems in living" and moral and existential conflicts between the individual and his environment. He built his argument on the standard of modern medicine, which defines disease by the presence of a demonstrable organic lesion; what has no lesion, such as hysteria and schizophrenia in his view, is not a disease in the literal sense but a metaphor that turned into a medical classification. He published this first in a 1960 article and then in the book *The Myth of Mental Illness* (1961).
-- **Freedom and responsibility**: he defended individual freedom and moral responsibility firmly, and regarded compulsory psychotherapy and forced commitment as a violation of human freedom. He held that the therapeutic state puts the physician in the place of the judge and the priest, and that the insanity plea is a path to evading responsibility. He wrote on this relation in *Psychiatric Justice* and *Law, Liberty, and Psychiatry* (1963).
-- **Contract instead of coercion**: he supported a contractual therapeutic relationship between adults, in which the patient chooses and values the treatment, and he called this autonomous psychotherapy in *The Ethics of Psychoanalysis* (1965).
-- **Critique of the therapeutic state**: he elaborated his critique in *The Manufacture of Madness* (1970), in which he compared the Inquisition and witch-hunting with modern psychiatric commitment, as social mechanisms for criminalizing deviance in the name of a higher authority. His output continued with *Schizophrenia: The Sacred Symbol of Psychiatry* (1976) and *The Therapeutic State* (1984).
-- **Drugs and suicide**: he defended the adult's right to use drugs and to end his own life, and criticized the criminalization of the former and the commitment of those who contemplate the latter, in *Our Right to Drugs* (1992).
+## Core Contributions and Theses
 
-## His Place in the Current
+### The Myth of Mental Illness
+Szasz argued that modern medicine defines disease strictly by the presence of a demonstrable anatomical lesion or physicochemical pathology. Emotional distress, behavioral deviance, and bizarre beliefs have no such physical lesion; therefore, calling them "illnesses" is a literalized medical metaphor. Rather than organic diseases, these are **"problems in living"**—moral, psychosocial, and existential struggles between an individual and their social environment. If an organic cause for a psychiatric symptom is identified (such as neurosyphilis or dementia), it ceases to be a mental illness and becomes a neurological disorder.
 
-He converges with existential therapy in the radical emphasis on responsibility and personal choice and in redefining symptoms as existential stances, while differing in his classical liberal philosophical starting points. His name became associated with the anti-psychiatry movement, but he rejected that label and rejected especially the approach of R. D. Laing, in which he saw a romanticization of psychosis. In 1969 he took part in founding the Citizens Commission on Human Rights with the Church of Scientology, a collaboration that drew criticism of him even though he was not a Scientologist.
+### Critique of the "Therapeutic State"
+In *Law, Liberty, and Psychiatry* (1963) and *The Manufacture of Madness* (1970), Szasz argued that the modern state had replaced theological control with psychiatric control. In this "Therapeutic State," psychiatrists function not as healing physicians, but as agents of social policing who use psychiatric diagnoses to delegitimize dissent, disarm non-conformists, and involuntarily commit citizens without the constitutional protections guaranteed by criminal law. Szasz likewise opposed the insanity defense, arguing that treating criminals as sick rather than responsible robs them of moral dignity and replaces proportional punishment with indeterminate psychiatric confinement.
 
-## Limits and Critique
+### Autonomous Psychotherapy
+In *The Ethics of Psychoanalysis* (1965), Szasz presented his affirmative clinical model: **autonomous psychotherapy**. The therapist enters into an explicit, transparent fee-for-service contract with a voluntary adult client. The therapist never coerces, never reports to third parties, never hospitalizes, and never acts as an agent of the state or family; their sole task is to clarify choices and help the client expand their personal autonomy and ethical self-governance.
 
-- **Denial of the biological basis**: his complete denial of the biological basis of severe psychological disorders made him a subject of sharp dispute within contemporary psychiatric circles, as genetic and neural evidence has accumulated since the 1960s that schizophrenia and bipolar disorder are influenced by hereditary and brain factors, which his strict definition of disease does not address.
-- **Ignoring suffering**: critics, among them E. Fuller Torrey in *The Death of Psychiatry* (1974), held that his position leaves those with severe psychosis without treatment on the pretext of freedom, and that the families who cared for their sick bear the consequences.
-- **Definition of disease**: his restriction of disease to the organic lesion is contested, because medicine recognizes accepted functional diseases in which no structural lesion is seen.
-- **Absolute freedom**: his position ignores cases in which a person genuinely loses the capacity for free choice, which makes his dichotomy of freedom and coercion simpler than the clinical reality.
+### Bodily Autonomy, Drugs, and Suicide
+In *Our Right to Drugs* (1992) and *Fatal Freedom: The Ethics and Politics of Suicide* (1999), Szasz extended his libertarian principles to self-ownership, arguing that competent adults possess the fundamental right to consume any chemical substance and to end their own lives. He vehemently criticized the criminalization of drug use and the involuntary hospitalization of suicidal individuals as totalitarian invasions of bodily autonomy.
+
+## His Place in the Field: Szasz versus Anti-Psychiatry and Existentialism
+
+Although commonly grouped with the "anti-psychiatry" movement, Szasz emphatically repudiated the label—coined by David Cooper—as well as the philosophical stance of R. D. Laing. Szasz criticized Laing for romanticizing schizophrenia as a mystical voyage and for endorsing socialist and collectivist politics. Szasz described himself as a libertarian constitutionalist fighting for legal rights, not an anti-psychiatrist. In 1969, Szasz co-founded the Citizens Commission on Human Rights (CCHR) with the Church of Scientology to combat involuntary commitment, though he maintained he was an atheist and never adhered to Scientology doctrines.
+
+### Libertarian Responsibility versus Existential Freedom and Guilt
+Szasz's thought shares superficial common ground with existential psychotherapy (e.g., Jean-Paul Sartre, Viktor Frankl, Rollo May, and Irvin Yalom) in viewing psychological symptoms as chosen stances and insisting on individual responsibility. However, their philosophical foundations diverge sharply:
+- **Szasz's Contractarian / Libertarian Framework**: Grounded in negative liberty (freedom from state and medical coercion) and forensic moral agency. Responsibility means being legally and morally answerable for one's deliberate actions and contractual obligations. Guilt is the objective consequence of violating moral or legal rules, and the solution is ethical rectitude and contractual autonomy.
+- **The Existentialist Framework**: Grounded in ontological freedom (*Dasein* is "condemned to be free"). Existentialists recognize that human beings are thrown into situations (*facticity*) and often experience overwhelming anxiety (*Angst*). For existentialists, **existential guilt** (*Schuld*) is not primarily forensic or legal; it arises from the awareness of missed possibilities, inauthenticity, and bad faith (*mauvaise foi*). While Szasz sought to preserve legal culpability and abolish coercion, existential therapists seek to help individuals confront the tragic, agonizing conditions of existence, death, and meaninglessness.
+
+## Limitations and Critique
+
+- **Rejection of Biological Psychiatry**: Szasz's categorical assertion that psychiatric disorders cannot have biological substrates is contradicted by decades of neuroimaging, molecular genetics, and neurochemical research demonstrating neurobiological vulnerabilities in conditions like schizophrenia and bipolar I disorder.
+- **Neglect of Acute Incapacity and Suffering**: Critics such as E. Fuller Torrey (*The Death of Psychiatry*, 1974) argued that Szaszian abolitionism abandons individuals experiencing acute psychotic disorientation, whose capacity for rational decision-making is severely impaired, leaving families and communities helpless under the guise of respecting civil liberty.
+- **Narrow Pathology Criterion**: Modern philosophy of medicine contests Szasz's rigid Virchovian requirement of a gross cellular lesion, recognizing valid functional, regulatory, and systems-level pathogenetic dysfunctions.
 
 ## Major Works
 
-The Myth of Mental Illness (1961) · The Ethics of Psychoanalysis (1965) · The Manufacture of Madness (1970) · Schizophrenia: The Sacred Symbol of Psychiatry (1976) · The Therapeutic State (1984).
+- *The Myth of Mental Illness: Foundations of a Theory of Personal Conduct* (1961)
+- *Law, Liberty, and Psychiatry: An Inquiry into the Social Uses of Mental Health Practices* (1963)
+- *The Ethics of Psychoanalysis: The Theory and Method of Autonomous Psychotherapy* (1965)
+- *The Manufacture of Madness: A Comparative Study of the Inquisition and the Mental Health Movement* (1970)
+- *Ceremonial Chemistry: The Ritual Persecution of Drugs, Addicts, and Pushers* (1974)
+- *Schizophrenia: The Sacred Symbol of Psychiatry* (1976)
+- *The Therapeutic State: Psychiatry in the Mirror of Current Events* (1984)
+- *Our Right to Drugs: The Case for a Free Market* (1992)
+- *Fatal Freedom: The Ethics and Politics of Suicide* (1999)
 
 ## Sources
 
 - Szasz, T. S. (1961). *The Myth of Mental Illness: Foundations of a Theory of Personal Conduct*. Hoeber-Harper.
 - Szasz, T. S. (1965). *The Ethics of Psychoanalysis: The Theory and Method of Autonomous Psychotherapy*. Basic Books.
-- Szasz, T. S. (1970). *The Manufacture of Madness*. Harper & Row.
+- Szasz, T. S. (1970). *The Manufacture of Madness: A Comparative Study of the Inquisition and the Mental Health Movement*. Harper & Row.
 - Szasz, T. S. (1984). *The Therapeutic State: Psychiatry in the Mirror of Current Events*. Prometheus Books.
 - Torrey, E. F. (1974). *The Death of Psychiatry*. Chilton Book Company.
-- Schaler, J. A. (ed.) (2004). *Szasz Under Fire: The Psychiatric Abolitionist Faces His Critics*. Open Court.
+- Schaler, J. A. (Ed.). (2004). *Szasz Under Fire: The Psychiatric Abolitionist Faces His Critics*. Open Court.

@@ -23,8 +23,7 @@ related:
 - id: "thk-mwhite", title: "Michael White", type: "مفكر"
 - id: "sch-systemic-family", title: "Systemic and Family Therapy", type: "مدرسة"
 - id: "sch-solution-focused", title: "Solution-Focused Brief Therapy (SFBT)", type: "مدرسة"
-gaps:
-  - "Localization of narrative therapy in Arab cultures: not yet covered"
+gaps: []
 ---
 
 # Narrative Therapy
@@ -76,6 +75,14 @@ Symbolic documents given to the client on passing therapeutic stages, to serve a
 - **Eating disorders**: externalizing "anorexia" as a cultural force and exploring how the individual resists it (the Anti-Anorexia/Anti-Bulimia League, developed by Epston and colleagues).
 - **Communities**: collective narrative practices, developed through the Dulwich Centre with communities affected by trauma and injustice, including Aboriginal communities in Australia.
 
+## Localization in Arab Contexts
+
+Narrative therapy has found meaningful resonance and adaptation in Arab and Middle Eastern contexts, particularly in Palestine, Lebanon, Jordan, and among displaced refugee communities across the region:
+
+- **Collective Narrative Practices and the "Tree of Life"**: In collaboration with community mental health organizations (such as programs in the West Bank and Gaza), practitioners utilize collective methodologies—notably the "Tree of Life" (developed by Ncazelo Ncube and David Denborough) and "Team of Life"—to support children and families facing chronic sociopolitical conflict, displacement, and bereavement. These approaches enable participants to speak about trauma without being re-traumatized, grounding their identity in personal and ancestral histories of strength.
+- **Cultural Resonance with Storytelling Traditions**: Narrative therapy's collaborative ethos aligns naturally with oral narrative traditions and communal discourse in Arab societies. By externalizing problems ("the problem is the problem; the person is not the problem"), the method offers a culturally protective buffer against the pervasive stigma and family shame (*'ayb*) often attached to psychiatric diagnoses.
+- **Re-authoring Resilience and Dignity**: Rather than focusing solely on individual dysfunction, localized narrative practice conceptualizes suffering within systemic and historical realities. Re-authoring conversations connect individual hardship to cultural and collective concepts of steadfastness (*sumud*), social solidarity, and shared faith, enabling clients to construct preferred storylines of dignity and mutual care.
+
 ## Evidence Base
 
 Narrative therapy is harder to study with standard trial designs because of its emphasis on individual meaning and its suspicion of standardized measurement. The research base is therefore smaller than for manualized therapies:
@@ -90,6 +97,7 @@ Narrative therapy is harder to study with standard trial designs because of its 
 - White, M. (1995). *Re-authoring Lives: Interviews and Essays*. Dulwich Centre Publications.
 - White, M. (2007). *Maps of Narrative Practice*. Norton.
 - Freedman, J., & Combs, G. (1996). *Narrative Therapy: The Social Construction of Preferred Realities*. Norton.
+- Denborough, D. (2008). *Collective Narrative Practice: Working with Individuals, Groups, and Communities Who Have Experienced Trauma*. Dulwich Centre Publications.
 - Denborough, D. (2014). *Retelling the Stories of Our Lives: Everyday Narrative Therapy to Draw Inspiration and Transform Experience*. Norton.
 - Vromans, L. P., & Schweitzer, R. D. (2011). Narrative therapy for adults with major depressive disorder: Improved symptom and interpersonal outcomes. *Psychotherapy Research, 21*(1), 4-15.
 - Monk, G., Winslade, J., Crocket, K., & Epston, D. (Eds.). (1997). *Narrative Therapy in Practice: The Archaeology of Hope*. Jossey-Bass.

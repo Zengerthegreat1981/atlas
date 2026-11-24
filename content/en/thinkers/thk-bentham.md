@@ -24,7 +24,7 @@ gaps: []
 
 # Jeremy Bentham
 
-An English philosopher and **legal reformer**, the **founder of modern utilitarianism** (Utilitarianism), who established the **greatest happiness principle** (Greatest Happiness Principle) as a rule for legal, moral and political projects. His **preserved body** (the Auto-Icon) is still on display at **University College London** (UCL).
+An English philosopher and **legal reformer**, the **founder of modern utilitarianism**, who established the **greatest happiness principle** as a rule for legal, moral and political projects. His **preserved body** (the Auto-Icon) is still on display at **University College London** (UCL).
 
 ## What he contributed
 
@@ -38,7 +38,7 @@ Bentham's first major published work (anonymous). A critique of **William Blacks
 
 ### *Panopticon* (written 1786-1787 and published 1791)
 
-A design for a **prison** that allows the observer to see all prisoners **without being seen** — a model of **soft control**. Michel Foucault, in his book *Discipline and Punish*, which appeared after Bentham's death (1975), reread this model as a **metaphor of modern power**.
+A design for a **prison** that allows the observer to see all prisoners **without being seen** — a model of **soft control**. Michel Foucault, in his book *Discipline and Punish* (1975), reread this model as a **metaphor of modern power**.
 
 ### *Anarchical Fallacies* (written about 1795; published in French in 1816 and in English in Bowring's edition in 1843)
 
@@ -59,12 +59,13 @@ A critique of the French Declaration of the Rights of Man and of the Citizen (D�
 
 ## Major works
 
-- **Fragment on Government** (1776): *A Fragment on Government*.
-- **An Introduction to the Principles of Morals and Legislation** (1789): an introduction to morals and legislation.
-- **Panopticon** (1791): complete inspection.
-- **Traités de législation civile et pénale** (1802, edited and published in French by Étienne Dumont; later in English as *The Theory of Legislation*).
-- **The Book of Fallacies** (1824): the book of fallacies.
-- **Deontology** (published posthumously in 1834, edited by John Bowring): the science of duty.
+- *A Fragment on Government* (1776)
+- *An Introduction to the Principles of Morals and Legislation* (printed 1780, published 1789)
+- *Panopticon; or, the Inspection-House* (1791)
+- *Traités de législation civile et pénale* (1802, edited and published in French by Étienne Dumont; later translated into English as *The Theory of Legislation*)
+- *Plan of Parliamentary Reform* (1817)
+- *The Book of Fallacies* (1824)
+- *Deontology; or, The Science of Morality* (2 vols., published posthumously in 1834, edited by John Bowring)
 
 ## Sources
 
@@ -74,7 +75,7 @@ A critique of the French Declaration of the Rights of Man and of the Citizen (D�
 - Bentham, J. *Anarchical Fallacies* (written about 1795, in *The Works of Jeremy Bentham*, ed. John Bowring, 1843).
 - Bentham, J. *Plan of Parliamentary Reform* (1817).
 - Bentham, J. *Chrestomathia* (1816–1817).
-- Foucault, M. *Surveiller et punir* [Discipline and Punish], which appeared after Bentham's death (1975) — a rereading of the Panopticon.
-- Mill, J.S. *Utilitarianism* (1863) — a revision of Bentham's principle of pleasure.
+- Foucault, Michel, *Surveiller et punir: Naissance de la prison*, Paris: Gallimard, 1975 (trans. Alan Sheridan, *Discipline and Punish*, New York: Pantheon, 1977).
+- Mill, J. S., *Utilitarianism*, London: Parker, Son, and Bourn, 1863.
 - Burns, J. H. and Hart, H. L. A. (eds.), *An Introduction to the Principles of Morals and Legislation*, London: Athlone Press, 1970.
 - Schofield, Philip, *Utility and Democracy: The Political Thought of Jeremy Bentham*, Oxford: Oxford University Press, 2006.

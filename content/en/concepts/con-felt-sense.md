@@ -17,55 +17,44 @@ related:
 - id: "thk-rogers", title: "Carl Rogers", type: "مفكر"
 gaps: []
 ---
+
 # Felt Sense
 
-A pivotal concept developed by Eugene Gendlin in the context of his theory of "Focusing" and his philosophy of the implicit, describing the unspecific bodily sensation that precedes words and gives experience its implicit meaning.
+## Definition and Core Characteristics
 
-## Definition
+A felt sense is a foundational concept formulated by the philosopher and psychotherapist Eugene Gendlin. It denotes a bodily experienced, pre-verbal awareness of a situation, problem, or relationship. Unlike isolated physical sensations (such as muscle fatigue or acute localized pain) or discrete emotional labels (such as anger, joy, or grief), a felt sense encompasses the complex, unarticulated totality of an individual's lived circumstance.
 
-Gendlin defines the felt sense as:
-- **A vague bodily sense**: an unspecific feeling in the body, broader than ordinary emotions.
-- **Meaningful but unformed**: it points to something important, but has not yet crystallized into words or images.
-- **Carrying the whole situation**: it contains the entire situation with its characters, conflicts and significance.
-- **Symbolizable**: it can turn into a symbol (a word, an image, a movement) through careful checking.
+Gendlin characterized the felt sense through four essential properties:
+1. **Holistic and Bodily**: It is experienced directly in the body—frequently in the throat, chest, or stomach—as an internal somatic sensation that reflects the entirety of a person's situation.
+2. **Implicit and Unformed**: It carries intricate personal meaning that has not yet crystallized into words, concepts, or images.
+3. **Responsive to Symbolization**: When attended to with patient, non-judgmental curiosity, it can be symbolized through an accurate word, phrase, metaphor, or bodily gesture.
+4. **Subject to the "Felt Shift"**: When a symbol accurately articulates or resonates with the implicit sense, the body responds with a palpable physical release—a sigh of relief, easing of constriction, or an expansive sensation—known as a felt shift, indicating progress in the client's experiential processing.
 
-## Illustrative example
+## Emergence in Psychotherapy Research
 
-Suppose you are reading a disturbing message from an old friend. You may "feel" something in your chest or stomach:
-- "The message didn't just upset you" (the surface level).
-- "There is something that hasn't been said yet between you" (a felt sense, deeper).
+Gendlin developed the construct during the 1950s and 1960s while working as a research associate with Carl Rogers at the Counseling Center of the University of Chicago. Investigating why some clients succeeded in client-centered therapy while others remained stagnant despite years of effort, Gendlin and his colleagues examined hundreds of recorded therapy transcripts.
 
-The felt sense is that "something" that makes you know there is meaning in the message, before you can specify it in words.
+Their findings led to the development of the **Experiencing Scale** (Klein, Mathieu, Gendlin, & Kiesler, 1969), an observational rating scale measuring the degree to which a client references their ongoing, immediate internal experience. The researchers discovered that therapeutic success correlated reliably not with therapist orientation or client intellectual insight, but with the client's spontaneous habit of slowing down, checking inwardly against a vague bodily felt sense, and allowing new meanings to emerge directly from that somatic awareness.
 
-## Therapeutic importance
+## The Focusing Method
 
-In Gendlin's model, the felt sense is a central source of therapeutic change. The therapist's task is to help the client to:
-1. Notice the sense.
-2. Stay with it and check it.
-3. Find an accurate symbol for it.
-4. Test whether the symbol "resonates" with the felt sense.
+To teach this intuitive experiential skill to clients who did not engage it spontaneously, Gendlin formulated the **Focusing** technique (*Focusing*, 1978). The method outlines six systematic steps:
+1. **Clearing a space**: Setting aside current worries and creating internal distance.
+2. **Getting a felt sense**: Allowing an unformed bodily feeling of the specific issue to form.
+3. **Finding a handle**: Identifying a descriptive word, phrase, or image that captures the quality of the felt sense.
+4. **Resonating**: Checking the handle back and forth against the bodily sense until a precise fit is confirmed.
+5. **Asking**: Inquiring into the core of the felt sense ("What is the main obstacle here?").
+6. **Receiving**: Welcoming whatever insight or somatic shift occurs without premature analysis.
 
-## Difference from emotions
+## Philosophical Foundations and Clinical Influence
 
-- **Emotions**: specific and named (fear, anger, sadness).
-- **Felt sense**: unspecific, larger and deeper, and may combine multiple emotions. It is also not simply a physical sensation such as tension or a stomach ache, nor a hunch: for Gendlin it is the body's implicit sense of a whole situation, which can shift when the right words or images are found.
+The felt sense is rooted in Gendlin's broader philosophical treatise, *Experiencing and the Creation of Meaning* (1962), and his later work, *A Process Model* (1997). In this "Philosophy of the Implicit," Gendlin challenged Cartesian dualism and traditional representational theories of mind, arguing that human experiencing is inherently interactive, bodily, and forward-moving, always containing far more implicit intricacy than existing cultural concepts can capture.
 
-## Source
-
-Gendlin formulated it in his book *Experiencing and the Creation of Meaning* (1962) and presented it in detail in *Focusing* (1978; revised edition 1981).
-
-## Its emergence within Rogers's school and later development
-
-Gendlin arrived at the concept while working as a researcher on Carl Rogers's team at the Counseling Center at the University of Chicago in the 1950s, when he studied what makes client-centered therapy sessions successful, and found that clients who did well in therapy tended to refer to a vague, directly felt sense of their problem rather than only talking about it. Gendlin turned this observation into the "Focusing" technique (tec-focusing-oriented), and later generalized it into a broader philosophical theory in "Process Constructivism" (con-process-constructivism). Somatic approaches such as Peter Levine's Somatic Experiencing have also made use of the term "felt sense", though with their own emphasis on bodily sensation and trauma.
-
-## Related atlas entries
-
-Atlas entries related to this entry (from the `related` field); these are internal cross-references, not external sources:
-
-- *Focusing*
+Gendlin's work laid the groundwork for Focusing-Oriented Psychotherapy (FOP) and significantly influenced somatic and trauma-informed therapies. Most notably, Peter Levine's Somatic Experiencing utilizes the tracking of the felt sense to renegotiate autonomic dysregulation, using bodily awareness to release trapped survival energy without overwhelming cognitive retraumatization.
 
 ## Sources
 
-- Eugene T. Gendlin, *Experiencing and the Creation of Meaning*, 1962.
+- Eugene T. Gendlin, *Experiencing and the Creation of Meaning: A Philosophical and Psychological Approach to the Subjective*, 1962.
 - Eugene T. Gendlin, *Focusing*, 1978.
 - Eugene T. Gendlin, *Focusing-Oriented Psychotherapy: A Manual of the Experiential Method*, 1996.
+- Marjorie H. Klein, Philippa L. Mathieu, Eugene T. Gendlin, & Donald J. Kiesler, *The Experiencing Scale: A Research and Training Manual*, 1969.

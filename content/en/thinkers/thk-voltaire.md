@@ -18,62 +18,60 @@ related:
 - id: "thk-locke", title: "John Locke", type: "مفكر"
 gaps: []
 ---
+
 # Voltaire
 
-The pen name of François-Marie Arouet, one of the greatest philosophers and writers of the French Enlightenment, and a symbol of the intellectual struggle for freedom of thought and expression, religious tolerance, and the fight against fanaticism and obscurantism.
+Voltaire was the pen name of François-Marie Arouet (1694–1778), one of the foremost philosophers, essayists, dramatists, and polemicists of the French Enlightenment (*Lumières*). A celebrated champion of free speech, civil liberties, and religious tolerance, he waged a relentless intellectual campaign against dogmatism, religious persecution, judicial arbitrariness, and clerical fanaticism.
 
-## What He Contributed
+## Life and Career
 
-- **Defense of freedom of opinion and tolerance**: in the *Treatise on Tolerance* (1763) he established a classic thesis calling for freedom of belief and the separation of religion from inquisitions and civil persecution, affirming that religious fanaticism is the greatest disease of the human mind.
-- **Critique of naive metaphysical optimism**: in his famous philosophical tale *Candide* (1759) he attacked Leibniz's theory of the "best of all possible worlds" after the Lisbon earthquake, calling for facing the reality of human suffering through practical work ("we must cultivate our garden").
-- **Spreading enlightened empirical thought**: he carried English empirical philosophy (John Locke and Isaac Newton) to the European continent in the *Philosophical Letters* (1734), paving the way for the scientific and intellectual revolution of the Enlightenment.
-- **Rational Deism**: he called for a rational belief in the Creator as architect of the universe, grounded on morality and natural justice, stripped of superstition and priestly tyranny.
+François-Marie Arouet was born in Paris on November 21, 1694 to a prosperous notary. He was educated by the Jesuits at the Collège Louis-le-Grand, acquiring a deep knowledge of classical literature and rhetoric before abandoning legal studies for writing. Imprisoned in the Bastille in 1717 for satirical verses aimed at the Regent Philippe II of Orléans, he adopted the pen name Voltaire upon his release. Following an altercation in 1726 with the aristocrat Chevalier de Rohan-Chabot, he was briefly imprisoned again and then exiled to England (1726–1728/1729).
 
-## His Place in the Current
+In England, Voltaire studied the empirical philosophy of John Locke, the physics of Sir Isaac Newton, and the constitutional monarchical system, which contrasted sharply with French royal absolutism. Returning to France, he published his impressions in the *Lettres philosophiques* (*Philosophical Letters*, 1734). Condemned and publicly burned by the Parlement of Paris, the book forced Voltaire to flee to Cirey-sur-Blaise in Champagne, where he lived and worked with Émilie du Châtelet. Du Châtelet translated Newton's *Principia* into French, and together they popularized Newtonian physics across continental Europe (*Éléments de la philosophie de Newton*, 1738).
 
-Voltaire holds the foremost place in the European Enlightenment; his critical and satirical writings formed an intellectual spark for the French Revolution and for establishing the principles of human rights and freedom of conscience in modern human thought.
+In 1750 Voltaire accepted the invitation of King Frederick II ("the Great") of Prussia to reside at Potsdam. The relationship deteriorated over intellectual rivalries and financial disputes, culminating in Voltaire's departure in 1753. After wandering across the Rhineland and Switzerland, he settled near the French-Swiss border, purchasing the estate of Ferney in 1758/1759. From Ferney, Voltaire managed an immense international correspondence, earning the title "the Patriarch of Ferney" and transforming the village into an intellectual capital of Europe. In February 1778 he returned to Paris to attend the premiere of his tragedy *Irène*, receiving a hero's reception before dying on May 30, 1778.
 
-## Brief Biography
+## Major Contributions
 
-François-Marie Arouet was born in Paris in 1694 to a notary father, studied with the Jesuits at the Collège Louis-le-Grand, and turned to literature instead of law. He was imprisoned in the Bastille in 1717 because of a satire, and again in 1726 after a quarrel with a nobleman, and was then exiled to England until 1728, where he became acquainted with Locke and Newton, the parliamentary political system, and Shakespeare's theater. He lived for a time at Cirey with Madame du Châtelet, who translated Newton, then accepted Frederick II's invitation to Potsdam in 1750 and later fell out with him, and in 1759 settled at Ferney near the Swiss border. He returned to Paris in 1778, where he was received as a hero, and died in the same year.
+### Defense of Tolerance and the Calas Affair
+Voltaire's moral philosophy culminated in his advocacy for legal reform and religious tolerance. Following the execution in 1762 of Jean Calas—a Protestant merchant from Toulouse falsely accused of murdering his son to prevent his conversion to Catholicism—Voltaire initiated an international campaign that achieved Calas's posthumous exoneration by the Royal Council in 1765. In his *Traité sur la tolérance* (*Treatise on Tolerance*, 1763), Voltaire denounced religious fanaticism as the most destructive disease of the human mind, adopting the battle cry *"Écrasez l'infâme"* ("Crush the infamous thing") to demand the eradication of intolerance, superstition, and ecclesiastical tyranny. He similarly intervened in the judicial vindication of Pierre-Paul Sirven and the posthumous defense of the Chevalier de La Barre.
 
-## Correspondence and Intellectual Companions
+### Critique of Metaphysical Optimism and *Candide*
+In the satirical novella *Candide, ou l'Optimisme* (1759), written in the wake of the devastating 1755 Lisbon earthquake and the Seven Years' War, Voltaire dismantled Gottfried Wilhelm Leibniz's doctrine of philosophical optimism (the view that ours is the "best of all possible worlds"). Parodying Leibnizian rationalism through the character of Pangloss, Voltaire exposed the reality of human suffering and catastrophic evil, concluding with the practical moral injunction that "we must cultivate our garden" (*il faut cultiver notre jardin*)—a call to purposeful, pragmatic human labor in place of fatalistic metaphysical rationalization.
 
-Voltaire's years with Émilie du Châtelet at Cirey (1734 onward) were among his most productive in science and philosophy; she translated Newton's *Principia* into French and he wrote the popular *Elements of Newton's Philosophy* (1738). He corresponded with Frederick II of Prussia for decades, first as an admirer of the "philosopher king" and later as a disillusioned guest after the quarrel that ended his stay in Potsdam (1753).
+### Dissemination of Empiricism and Rational Deism
+Voltaire's *Lettres philosophiques* (1734) and *Dictionnaire philosophique* (1764) broke the dominance of Cartesian rationalist scholasticism in France by introducing Lockean sensory empiricism and Newtonian experimental method. Religiously, Voltaire was a resolute deist: he rejected revealed dogmas, miracles, and the divine right of kings, yet fiercely opposed the atheism and materialism of Baron d'Holbach and Julien Offray de La Mettrie. He argued for a supreme architect of the universe grounded in natural morality, famously writing: "If God did not exist, it would be necessary to invent him" (*Si Dieu n'existait pas, il faudrait l'inventer*).
 
-## The Calas Affair and Tolerance
+## Engagement with Islamic and Eastern Civilization
 
-Voltaire wrote the *Treatise on Tolerance* after the case of Jean Calas, the Protestant merchant of Toulouse who was executed in 1762 on the charge of killing his son to prevent him from converting to Catholicism; Voltaire took up his cause for years until the royal council exonerated him in 1765. This campaign made him a defender of fair justice, and he made his cry "Crush the infamy" an expression of resistance to fanaticism. In his book he does not call for the equality of religions in truth but for the prevention of coercion, and he defends tolerance on the basis of reason, social interest and human compassion.
+Voltaire's engagement with Islam evolved over his lifetime:
+- In his early drama *Le fanatisme, ou Mahomet le Prophète* (1741), he used the figure of Muhammad as an allegory to critique religious deception and fanaticism, a work widely understood in France as a veiled attack on Catholic extremism.
+- In his mature historical treatise *Essai sur les mœurs et l'esprit des nations* (1756), his analysis became more historical and comparative. He recognized the cultural achievements of Islamic civilization, praising its administrative justice, astronomical science, and historical tolerance toward religious minorities in contrast to the Crusades and the European Inquisition.
 
-## The Link to the Islamic and Arab Heritage
+During the nineteenth-century Arab Renaissance (*al-Nahda*), Voltaire's works were widely read as foundational models for legal reform, free expression, and religious tolerance. Rifa'a al-Tahtawi referenced Voltaire prominently in *Takhlis al-Ibriz fi Talkhis Bariz* (1834), and later Arab reformers, including Farah Antun and Taha Hussein, drew on Voltairean critiques of clericalism.
 
-Voltaire treated Islam in several places: in the play *Fanaticism, or Mahomet the Prophet* (1741) he presented a hostile image criticizing fanaticism and using the figure of the Prophet as an example of religious fraud, and the play stirred controversy in its day and was banned by the authorities after a few performances. In the *Essay on the Customs and the Spirit of Nations* (1756) his discourse changed, and he acknowledged the greatness of Islamic civilization and the justice of some caliphs, comparing it with the fanaticism of medieval Europe. Voltaire's ideas reached Arab intellectuals through Egypt and the Levant in the nineteenth century: Rifa'a al-Tahtawi in *Takhlis al-Ibriz* (1834) mentioned Voltaire and Rousseau as leading figures of French thought, and the writers of the Nahda after him took up the ideas of tolerance and freedom of thought tied to the French Enlightenment.
+## Critical Evaluation and Limits
 
-## Limits and Critique
+Voltaire was primarily an essayist, polemicist, and historian rather than a builder of a technical metaphysical system. His political philosophy favored enlightened absolutism rather than popular democracy, viewing a philosophically educated monarch as the most effective guarantor of social progress and education, which led to frequent clashes with Jean-Jacques Rousseau's egalitarian theory of the general will.
 
-His opponents accused him of being a satirist who does not build, and of a campaign against the Church that ended in contempt for ordinary believers. His later works were criticized for an anti-Jewish tone in some of his writings, including articles in the *Philosophical Dictionary*, which historians of the Enlightenment regard as a contradiction of his call for tolerance. In political thought he continued to prefer enlightened despotism to popular rule, did not support democracy, and mocked Rousseau's ideas about the general will. Likewise, his scientific optimism and his critique of Leibniz in *Candide* were polemical rather than a precise analysis of Leibniz's theory of evil. Nevertheless his influence in defending freedom of expression and fair trial remains a great one in modern political culture.
-
-## *Candide* and the Question of Suffering
-
-*Candide* anticipates a theme later central to existential thought: the refusal of explanations that reconcile individuals to suffering by appeal to a cosmic harmony. Voltaire's own conclusion, to "cultivate our garden", is a modest and practical answer, not an existential doctrine, and the link to later existential psychology is one of affinity of theme, not of historical influence.
-
-## Limitation
-
-Voltaire was dominated by a polemical, literary and general critical style, and he was not the author of a closed technical metaphysical system.
+Modern scholars have criticized anti-Semitic remarks appearing in several articles of the *Dictionnaire philosophique* (such as "Juifs"), noting a stark contradiction between his universal defense of civil tolerance and his prejudiced characterizations of Jewish cultural history. Nevertheless, his defense of due process, freedom of conscience, and public accountability remains an enduring milestone of modern human rights.
 
 ## Major Works
 
 - *Lettres philosophiques* (1734)
+- *Éléments de la philosophie de Newton* (1738)
+- *Zadig, ou la Destinée* (1747)
+- *Essai sur les mœurs et l'esprit des nations* (1756)
 - *Candide, ou l'Optimisme* (1759)
 - *Traité sur la tolérance* (1763)
 - *Dictionnaire philosophique* (1764)
 
 ## Sources
 
-- Voltaire, *Lettres philosophiques*, 1734.
-- Voltaire, *Candide, ou l'Optimisme*, 1759.
-- Voltaire, *Traité sur la tolérance*, 1763.
-- Voltaire, *Essai sur les mœurs et l'esprit des nations*, 1756.
-- al-Tahtawi, Rifa'a Rafi'. *Takhlis al-Ibriz fi talkhis Bariz*. Bulaq, 1834.
-- Hourani, A. (1962). *Arabic Thought in the Liberal Age 1798–1939*. Oxford University Press.
-- Pomeau, R. (1995). *Voltaire en son temps* (nouvelle éd.). Fayard.
+- Voltaire (1734). *Lettres philosophiques*. Amsterdam.
+- Voltaire (1759). *Candide, ou l'Optimisme*. Geneva: Cramer.
+- Voltaire (1763). *Traité sur la tolérance*. Geneva: Cramer.
+- Voltaire (1764). *Dictionnaire philosophique portatif*. London [Geneva: Cramer].
+- Pomeau, R. (1995). *Voltaire en son temps* (nouvelle éd., 2 vols.). Paris: Fayard.
+- Gay, P. (1988). *Voltaire's Politics: The Poet as Realist* (2nd ed.). New Haven: Yale University Press.
+- Davidson, I. (2010). *Voltaire: A Life*. New York: Pegasus Books.

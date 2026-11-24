@@ -88,4 +88,4 @@ Reliable biography is sparse. Elea was a colony founded by Phocaeans around the 
 - Guthrie, W. K. C. (1965). *A History of Greek Philosophy, Vol. 2: The Presocratic Tradition from Parmenides to Democritus*. Cambridge University Press.
 - Mourelatos, A. P. D. (1970). *The Route of Parmenides*. New Haven: Yale University Press.
 - Palmer, J. (2009). *Parmenides and Presocratic Philosophy*. Oxford University Press.
-- Palmer, John. "Parmenides." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/parmenides/
+- Palmer, John (2020). "Parmenides." *Stanford Encyclopedia of Philosophy*.

@@ -17,27 +17,43 @@ gaps: []
 
 # Mick Cooper
 
-A British counselling psychologist and academic, and the one who drew the map of the field and made it customary to say "existential therapies" in the plural rather than the singular.
+Mick Cooper (born 1964) is an internationally recognized British counselling psychologist, psychotherapist, and academic who has played a transformative role in surveying and modernizing existential and humanistic therapies. As Professor of Counselling Psychology at the University of Roehampton, Cooper provided the first comprehensive mapping of the disparate traditions comprising existential practice, establishing the convention of speaking of "existential therapies" in the plural rather than as a monolithic school.
 
-## What He Did
+## Mapping Existential Therapies in the Plural
 
-He surveyed the existential currents (the British, Daseinsanalytic, logotherapeutic and American strands) and described them in a single language, showing that what is presented as one school is a quarrelling family. His book *Existential Therapies* (2003) became a standard introduction.
+In his influential text *Existential Therapies* (2003; 2nd ed. 2016), Cooper demonstrated that what had often been treated as a uniform movement is in fact a diverse family of approaches stemming from distinct philosophical roots:
 
-## Why This Matters
+- **Daseinsanalysis:** Rooted in the phenomenology of Martin Heidegger, pioneered by Ludwig Binswanger and Medard Boss in Switzerland.
+- **Logotherapy and Existential Analysis:** Developed by Viktor Frankl and extended by Alfried Längle, emphasizing will to meaning and values.
+- **Existential-Humanistic Therapy:** The American tradition articulated by Rollo May, James Bugental, and Irvin Yalom, focusing on core existential concerns (death, freedom, isolation, meaninglessness).
+- **The British School:** Phenomenologically oriented practice associated with Emmy van Deurzen, Ernesto Spinelli, and Hans W. Cohn, emphasizing worldview exploration and relational encounter.
 
-Because most misunderstanding in this field comes from combining currents that do not agree under a single name. His work is what makes this unit writable at all.
+By articulating their shared foundational themes alongside their significant theoretical disagreements, Cooper demystified the field for students and clinicians.
 
-## His Research Contribution
+## Pluralistic Practice and Relational Depth
 
-One of the few within the school who worked on evidence seriously rather than rejecting the question. He has written on what research findings imply for practice, and has argued for a "pluralistic" approach in which different methods are matched to clients' goals and preferences. He has also written, with Dave Mearns, on "relational depth" in counselling.
+Beyond taxonomy, Cooper has made major conceptual and clinical contributions:
 
-## His Most Important Works
+- **The Pluralistic Approach:** Developed collaboratively with John McLeod (*Pluralistic Counselling and Psychotherapy*, 2011), pluralism is both a philosophical stance and a practice framework. It asserts that different clients require different therapeutic methods at different times, and that therapy should be guided by open dialogue, shared decision-making, and client preferences rather than rigid adherence to a single modality.
+- **Relational Depth:** Co-authored with Dave Mearns (*Working at Relational Depth in Counselling and Psychotherapy*, 2005), this concept describes moments of profound contact, mutual transparency, and deep engagement between therapist and client, which research shows correlate strongly with positive therapeutic outcomes.
 
-*Existential Therapies* (2003) · *Working at Relational Depth in Counselling and Psychotherapy* (with Dave Mearns, 2005) · *Essential Research Findings in Counselling and Psychotherapy: The Facts Are Friendly* (2008) · *Pluralistic Counselling and Psychotherapy* (with John McLeod, 2011) · *Existential Psychotherapy and Counselling: Contributions to a Pluralistic Practice* (2015)
+## Empirical Research and Dialogue
+
+While existential therapy historically maintained an anti-empirical or suspicious stance toward quantitative measurement, Cooper has been a leading champion of evidence-informed practice within humanistic and existential modalities. In *Essential Research Findings in Counselling and Psychotherapy* (2008) and large-scale clinical trials (such as the ETHOS trial evaluating school-based humanistic counselling), he demonstrated that humanistic therapies achieve outcomes comparable to cognitive-behavioural approaches. He also co-developed the Cooper-Norcross Inventory of Preferences (C-NIP) to assess client therapy preferences systematically.
+
+## Major Works
+
+- *Existential Therapies* (2003; 2nd ed. 2016)
+- *Working at Relational Depth in Counselling and Psychotherapy* (with Dave Mearns, 2005)
+- *Essential Research Findings in Counselling and Psychotherapy: The Facts Are Friendly* (2008)
+- *Pluralistic Counselling and Psychotherapy* (with John McLeod, 2011)
+- *Existential Psychotherapy and Counselling: Contributions to a Pluralistic Practice* (2015)
+- *Integrating Counselling and Psychotherapy: Directionality, Synergy, and Social Change* (2019)
 
 ## Sources
 
-- Cooper, Mick, *Existential Therapies*, London: Sage, 2003.
-- Mearns, Dave and Cooper, Mick, *Working at Relational Depth in Counselling and Psychotherapy*, London: Sage, 2005.
-- Cooper, Mick and McLeod, John, *Pluralistic Counselling and Psychotherapy*, London: Sage, 2011.
+- Cooper, Mick, *Existential Therapies*, London: Sage, 2003 (2nd ed. 2016).
+- Mearns, Dave, and Mick Cooper, *Working at Relational Depth in Counselling and Psychotherapy*, London: Sage, 2005.
+- Cooper, Mick, *Essential Research Findings in Counselling and Psychotherapy: The Facts Are Friendly*, London: Sage, 2008.
+- Cooper, Mick, and John McLeod, *Pluralistic Counselling and Psychotherapy*, London: Sage, 2011.
 - Cooper, Mick, *Existential Psychotherapy and Counselling: Contributions to a Pluralistic Practice*, London: Sage, 2015.

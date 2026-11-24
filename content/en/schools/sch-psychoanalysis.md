@@ -33,8 +33,7 @@ related:
 - id: "br-classical-psychoanalysis", title: "Classical Freudian Psychoanalysis", type: "تيار"
 - id: "sch-istdp", title: "Intensive Short-Term Dynamic Psychotherapy (ISTDP)", type: "مدرسة"
 - id: "br-jungian", title: "Jungian Analytical Psychology", type: "تيار"
-gaps:
-  - "Influence of psychoanalysis on literature and popular culture: not yet covered"
+gaps: []
 ---
 # Psychoanalysis
 
@@ -103,6 +102,15 @@ Psychoanalysis and psychoanalytically informed therapy are practiced today in va
 - **Trauma** (as a theoretical framework rather than a treatment for acute trauma, where analytic treatment differs).
 - **Community, educational, and cultural applications** (for example Freud's writings on culture and civilization).
 
+## Influence on Literature, Art, and Popular Culture
+
+Psychoanalysis exerted an unparalleled influence on twentieth-century intellectual life, aesthetic movements, and mass culture:
+
+- **Literature and literary theory**: Modernist literature embraced psychoanalytic interiority, stream of consciousness, and psychological complexity (James Joyce, Virginia Woolf, Franz Kafka). André Breton's *First Surrealist Manifesto* (1924) made Freudian free association and dream analysis the core foundation of Surrealism (psychic automatism). In literary criticism, Freudian models of dream-work (displacement, condensation) and the Oedipus complex were used to interpret texts (e.g., Ernest Jones's psychoanalytic analysis of *Hamlet*), later evolving into structuralist and post-structuralist psychoanalytic theory (Harold Bloom's *The Anxiety of Influence*, Jacques Lacan, and Julia Kristeva).
+- **Visual arts and cinema**: Surrealist painters (Salvador Dalí, René Magritte) visualized unconscious symbolism and the uncanny (*Das Unheimliche*). In cinema, psychoanalytic themes shaped German Expressionism and American film noir, most explicitly in Alfred Hitchcock's psychological thrillers (*Spellbound*, *Vertigo*), and gave rise to psychoanalytic film theory (notably Laura Mulvey's analysis of the gaze in cinema).
+- **Popular culture and everyday language**: Freudian vocabulary permeated common speech worldwide: concepts such as "Freudian slip" (*parapraxis*), "repression," "ego," "defense mechanism," "sublimation," and "rationalization" became ubiquitous terms for interpreting everyday behavior.
+- **Advertising and consumerism**: Sigmund Freud's nephew Edward Bernays (*Propaganda*, 1928) applied psychoanalytic insights into unconscious drives and irrational desires to corporate advertising, political public relations, and mass consumption, demonstrating that consumer choices could be steered by appealing to unconscious desires rather than rational product utility.
+
 ## Relation to Neighboring Schools
 
 - **Humanistic therapy** (Rogers): a reaction to analytic "pessimism."
@@ -122,7 +130,8 @@ Psychoanalysis and psychoanalytically informed therapy are practiced today in va
 - Freud, S. (1900). *The Interpretation of Dreams*. Standard Edition 4-5.
 - Freud, S. (1916-1917). *Introductory Lectures on Psycho-Analysis*. Standard Edition 15-16.
 - Breuer, J., & Freud, S. (1895). *Studies on Hysteria*. Standard Edition 2.
-- Mitchell, S. A., & Black, M. J. (1995). *Freud and Beyond*. Basic Books..
+- Mitchell, S. A., & Black, M. J. (1995). *Freud and Beyond: A History of Modern Psychoanalytic Thought*. Basic Books.
+- Bernays, E. (1928). *Propaganda*. Horace Liveright.
 - Laplanche, J., & Pontalis, J.-B. (1973). *The Language of Psycho-Analysis*. Hogarth Press. (French original 1967.)
 - Gay, P. (1988). *Freud: A Life for Our Time*. W. W. Norton.
 - Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. *American Psychologist, 65*(2), 98-109.

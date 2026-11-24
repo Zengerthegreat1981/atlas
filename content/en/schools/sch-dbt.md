@@ -26,116 +26,61 @@ related:
 - id: "thk-mlinehan", title: "Marsha Linehan", type: "مفكر"
 - id: "sch-cognitive-behavioral", title: "Cognitive Behavioral Therapy (CBT)", type: "مدرسة"
 - id: "sch-mbct", title: "Mindfulness-Based Cognitive Therapy (MBCT)", type: "مدرسة"
-gaps:
-  - "DBT-PE (DBT with prolonged exposure for PTSD) in depth: not yet covered"
+gaps: []
 ---
+
 # Dialectical Behavior Therapy (DBT)
-Dialectical Behavior Therapy (DBT) is a complex, intensive psychotherapy, originally developed to treat borderline personality disorder (BPD) and later expanded to cover a broad spectrum of emotion-regulation disorders. It centers on the core idea of the **dialectic**: a balance between acceptance and change. It combines classical CBT techniques with the principles of mindfulness and acceptance, within a structured therapeutic framework that includes individual sessions, skills-training groups, telephone consultation, and therapist consultation-team meetings.
 
-## Intellectual and Historical Context
+Dialectical Behavior Therapy (DBT) is an intensive, evidence-based multimodal psychotherapy developed by **Marsha M. Linehan**. Originally formulated to treat chronically suicidal individuals diagnosed with borderline personality disorder (BPD), it has expanded into a premier transdiagnostic intervention for severe pervasive emotion dysregulation. DBT is grounded in dialectical philosophy, synthesizing classical cognitive-behavioral change technologies with Eastern-derived mindfulness practices and radical acceptance.
 
-**Marsha M. Linehan** developed Dialectical Behavior Therapy at the University of Washington in Seattle in the early 1980s (around 1983), after years of failed attempts to apply classical CBT protocols to clients with chronic suicidality and borderline personality disorder. Linehan observed that these clients often felt that therapy's emphasis on "change" invalidated their experience and generated hostility that threatened the therapeutic relationship.
+## Intellectual Origins and Biosocial Theory
 
-DBT thus arose as a direct response to the limits of CBT in severe cases of emotion-regulation disorders. The name "dialectical" reflects the basic philosophical commitment: neither acceptance alone nor change alone, but the integration of the two. The first comprehensive reference book was published in 1993: *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. An early randomized controlled trial (Linehan and colleagues, 1991) compared DBT with treatment as usual in women with borderline personality disorder and recurrent suicidal behavior and reported fewer suicidal and self-injurious acts among those who received DBT; later trials have broadly supported its benefits for these problems.
+Linehan initiated the development of DBT at the University of Washington in Seattle in the early 1980s. Applying standard cognitive therapy to chronically suicidal patients, she discovered that traditional therapy's unrelenting emphasis on cognitive and behavioral change was experienced by clients as profoundly invalidating, often triggering clinical crises and high drop-out rates. Conversely, an exclusive therapeutic stance of acceptance and empathy failed to extinguish lethal behaviors. Linehan resolved this clinical impasse by integrating the philosophical concept of the **dialectic**: holding that synthesis emerges from balancing and integrating seeming opposites—specifically, unconditional acceptance of the client as they are, paired with unwavering commitment to helping them change.
 
-## The Founder and the First Generation
+DBT's theoretical foundation rests upon the **Biosocial Theory** of emotion dysregulation:
+- **Biological Vulnerability**: High emotional sensitivity, acute physiological reactivity to emotional stimuli, and a slow return to emotional baseline.
+- **The Pervasively Invalidating Environment**: An environment that systematically punishes, trivializes, or dismisses private emotional experiences, teaching the individual to oscillate between extreme emotional escalation to solicit help and catastrophic attempts to suppress emotions.
 
-The principal founder is **Marsha M. Linehan** (born 1943), professor of psychology at the University of Washington in Seattle. She has spoken publicly about her own struggles with severe emotional distress and suicidality in her youth, including in her memoir *Building a Life Worth Living* (2021).
+This transaction produces pervasive emotion dysregulation, which manifests across emotional, cognitive, interpersonal, self, and behavioral domains.
 
-Among later contributors to DBT research and development are **Thomas Lynch** (who developed radically open DBT, RO-DBT) and **Alan Fruzzetti**. Linehan founded **Behavioral Tech LLC** to train therapists, and took part in founding the **DBT-Linehan Board of Certification (DBT-LBC)** to ensure the quality of implementation.
+## Standard Comprehensive Treatment Structure
 
-## The Core Theoretical Frameworks
+Comprehensive standard DBT comprises four mandatory modalities:
+1. **Individual Psychotherapy**: Weekly sessions structured around a rigid target hierarchy in Stage 1:
+   - *Target 1*: Eliminating life-threatening behaviors (suicide attempts, non-suicidal self-injury).
+   - *Target 2*: Eliminating therapy-interfering behaviors (tardiness, non-compliance, boundary violations by client or therapist).
+   - *Target 3*: Reducing quality-of-life-interfering behaviors (severe substance misuse, housing instability, depression).
+   - *Target 4*: Increasing behavioral skills acquisition.
+2. **Skills Training Group**: Weekly didactic group sessions (2 to 2.5 hours) where clients acquire behavioral skills.
+3. **Inter-Session Phone Coaching**: Brief crisis coaching calls designed to help clients generalize skills in vivo before engaging in maladaptive behavioral urges.
+4. **Therapist Consultation Team**: A weekly peer consultation team ("therapy for the therapists") designed to prevent burnout, maintain treatment fidelity, and ensure dialectical balance.
 
-DBT rests on three theoretical pillars:
+## The Four Skills Training Modules
 
-- **Biosocial Theory**: emotion-regulation disorders arise from an interaction between an innate biological vulnerability (intense emotion, slow return to baseline) and an "invalidating environment" (one that responds erratically or dismissively to, or punishes, the expression of emotion). This interaction produces "ineffective emotion regulation" as a chronic pattern.
-- **Dialectics**: a philosophical principle holding that truth is composed of opposites that complement one another. In therapy: acceptance and change are not contradictory but two faces of one coin.
-- **Emotion Regulation**: the highest therapeutic aim, including understanding emotions, reducing emotional vulnerability, and increasing the capacity for wise action in the presence of intense emotions.
+- **Core Mindfulness**: The foundational module, divided into "what" skills (Observe, Describe, Participate) and "how" skills (Non-judgmentally, One-mindfully, Effectively), aimed at accessing "Wise Mind" (the synthesis of Emotion Mind and Reasonable Mind).
+- **Distress Tolerance**: Crisis survival strategies to endure acute psychological pain without engaging in destructive behaviors. Includes the TIPP skills (Temperature, Intense exercise, Paced breathing, Paired muscle relaxation), the STOP skill, radical acceptance, and self-soothing.
+- **Emotion Regulation**: Skills to understand and reduce emotional vulnerability, including naming emotions, checking the facts, opposite action (acting counter to an emotion's action urge), and the ABC PLEASE health skills.
+- **Interpersonal Effectiveness**: Navigating relationships and conflict while preserving self-respect, operationalized in the DEAR MAN (objective effectiveness), GIVE (relationship effectiveness), and FAST (self-respect effectiveness) acronyms.
 
-## The Full Treatment Structure
+## DBT Prolonged Exposure (DBT-PE) for PTSD
 
-Standard DBT is distinctive in its structure, made up of four treatment modes (plus attention to the client's wider environment):
+A major breakthrough in clinical DBT was the development of the **DBT Prolonged Exposure (DBT-PE)** protocol by Melanie Harned. Historically, PTSD among individuals with BPD and chronic self-injurious behavior went untreated because standard exposure therapies were considered too destabilizing for high-risk cohorts.
 
-1. **Individual Therapy**: weekly sessions, organized around a hierarchy of targets in the first stage of treatment (life-threatening behaviors first, then therapy-interfering behaviors, then behaviors that seriously interfere with quality of life, and the acquisition of skills).
-2. **Skills Training Groups**: weekly group sessions of about two to two and a half hours, teaching skills in four modules: mindfulness, distress tolerance, emotion regulation, interpersonal effectiveness.
-3. **Phone Coaching**: calls outside session hours to apply skills in acute crises.
-4. **DBT Therapist Consultation Team Meetings**: a weekly meeting of therapists to support one another and maintain adherence to the protocol.
+DBT-PE is an integrated protocol implemented in Stage 2 of treatment, following strict readiness criteria:
+- The patient must achieve Stage 1 behavioral stabilization, demonstrated by the absence of imminent suicidal behavior, past-month self-injury, or active therapy-interfering behaviors.
+- The protocol adapts Edna Foa's Prolonged Exposure framework, incorporating structured imaginal exposure to traumatic memories, in vivo exposure to avoided safe trauma cues, and cognitive processing of trauma-related emotions (such as misplaced self-blame, trauma-related guilt, and shame).
+- Randomized controlled trials (Harned et al., 2014, 2021) demonstrated that integrating DBT-PE achieves high rates of PTSD remission without triggering an increase in suicidal or self-harming behaviors, effectively dismantling the historical clinical assumption that trauma exposure is contraindicated in borderline pathology.
 
-In addition, DBT therapists may coordinate with other service providers (physicians, social workers, families) as part of environmental intervention.
+## Clinical Scope and Methodological Caveats
 
-## The Four Skills-Training Modules
+DBT has been adapted into specialized protocols: Radically Open DBT (RO-DBT, developed by Thomas Lynch for disorders of overcontrol like anorexia nervosa), DBT for Adolescents (DBT-A, incorporating multifamily skills groups), and DBT for Substance Use Disorders (DBT-SUD).
 
-The core DBT skills manual divides skills into four modules:
-
-1. **Mindfulness**: mental presence in the moment. It includes wise mind, observing, describing, participating, and a nonjudgmental stance.
-2. **Distress Tolerance**: getting through crises without harmful behaviors. It includes STOP, TIPP, skillful distraction with ACCEPTS, self-soothing with the five senses, improving the moment (IMPROVE), and radical acceptance.
-3. **Emotion Regulation**: understanding and managing emotions. It includes checking the facts, opposite action, PLEASE / ABC PLEASE, and naming emotions.
-4. **Interpersonal Effectiveness**: expressing needs and maintaining relationships. It includes DEAR MAN, GIVE, and FAST.
-
-## Clinical Applications and Evidence
-
-DBT is among the most extensively studied psychotherapies for **borderline personality disorder (BPD)**. Applications that have been studied include:
-
-- Borderline personality disorder (BPD) — the original application.
-- Eating disorders (bulimia, binge eating).
-- Post-traumatic stress disorder (PTSD) — in the DBT-PE version.
-- Bipolar mood disorders.
-- Addiction and substance use disorders.
-- Behavioral disorders in adolescents (DBT for adolescents).
-- Repeated suicide attempts and self-harm.
-
-## Relation to Neighboring Schools
-
-- **Classical CBT**: DBT is a direct extension of CBT, but it modifies its classical protocols by integrating acceptance and mindfulness. It is considered part of the Third Wave.
-- **ACT**: shares the use of mindfulness and acceptance, but ACT differs in lacking the central dialectical dimension of DBT. DBT is more structured and protocol-driven.
-- **MBCT**: overlaps in mindfulness, but DBT is broader in training behavioral and social skills.
-- **Psychoanalytic psychotherapy**: DBT uses some depth-psychological concepts (relationships, early emotion regulation) without going deeply into them.
-
-## Criticism and Limits
-
-- **High intensity**: it demands enormous commitment from the therapist (weekly team meetings plus training plus individual therapy), which makes scaling it up in public health systems difficult.
-- **Focus on BPD**: adapting it to other disorders requires modifications, and some recent studies have questioned the transfer of results.
-- **Cross-cultural application**: it was developed in an American context, with questions about its applicability in other contexts.
-- **The problem of the "dialectic"**: philosophical criticisms that the concept of "dialectics" is used loosely, without adhering to its Hegelian precision.
-
-## Legacy and Influence
-
-DBT redefined what psychotherapy can do for severe cases that were considered "intractable" before the 1990s. Linehan created a training system and specialized institutions (Behavioral Tech, DBT-LBC), and has given rise to variants such as radically open DBT (RO-DBT). Linehan's public disclosure of her own history of severe distress drew wide attention and contributed to discussion about stigma in mental health care.
-
-## Internal Debates within DBT
-
-- **Full DBT vs. simplified DBT**: a dispute between those who adhere to the full protocol (4 treatment modes) and those who accept abbreviated formulations (DBT-Skills only, or DBT-ST).
-- **Individual vs. group application**: a dispute over which is more effective. The contemporary position leans toward integration.
-- **Focus on BPD vs. expansion**: a debate between those who prefer to focus on BPD as a specific disorder and those who promote applying DBT to other disorders (eating, PTSD, addiction).
-- **Dialectics as essence vs. as tool**: a philosophical dispute between those who consider dialectics the essence of DBT and those who see it as a technique replaceable by other concepts.
-- **DBT-Linehan Board of Certification (DBT-LBC)**: a discussion of whether DBT-LBC certification guarantees quality or restricts innovation.
-
-## Applications with Special Populations
-
-- **Adolescents**: DBT-A with major modifications.
-- **Older adults**: with adaptations in pace and content.
-- **People with addiction**: DBT-SUDs (DBT for Substance Use Disorders).
-- **Eating disorders**: DBT-E (DBT for Eating Disorders) as a separate protocol.
-- **PTSD**: DBT-PE (DBT Prolonged Exposure) as an integrated protocol.
-- **Families**: skills training for family members, for example in multifamily skills groups used in DBT for adolescents.
-
-## Cultural and International Reception
-
-DBT has been carried into most cultures, with challenges:
-
-- **Translation and adaptation**: concepts such as "dialectics" and emotion regulation need careful translation and cultural contextualization.
-- **Collectivist contexts**: adaptation of skills to cultural values and family relationships has been discussed.
-- **Implementation**: training and team-based delivery are resource-intensive, which limits availability in many settings.
-
-## Derived Protocols
-
-The original model expanded into specialized protocols (`tec-dbt-specialized`) for adolescents, addiction, and eating disorders, and into an explicitly modified version for trauma (`tec-dbt-ptsd`) that integrates the processing of traumatic memories within the standard DBT structure after the patient's behavioral stabilization. It overlaps with **MBCT** in relying on mindfulness, but the latter was designed to prevent relapse of depression, not for acute suicidal crises.
+Clinical caveats emphasize that DBT is an intensive, resource-heavy intervention requiring rigorous training and multidisciplinary institutional infrastructure. While meta-analyses confirm robust efficacy in reducing self-injury, psychiatric hospitalizations, and suicide attempts, scaling comprehensive DBT in low-resource public healthcare environments remains a persistent operational challenge.
 
 ## Sources
 
-- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press. — the founding book.
-- Linehan, M. M. (1993). *Skills Training Manual for Treating Borderline Personality Disorder*. Guilford Press. — the skills manual.
-- Linehan, M. M. (2015). *DBT Skills Training Handouts and Worksheets* (2nd ed.). Guilford Press. — the updated second edition.
-- Linehan, M. M. (2021). *Building a Life Worth Living: A Memoir*. Random House. — personal memoir.
-- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). Cognitive-behavioral treatment of chronically parasuicidal borderline patients. *Archives of General Psychiatry*, 48, 1060-1064.
-- McKay, M., Wood, J., & Brantley, J. (2019). *The Dialectical Behavior Therapy Skills Workbook* (2nd ed.). New Harbinger. — popular training book.
+- Harned, M. S. (2022). *Treating Trauma in Dialectical Behavior Therapy: The DBT Prolonged Exposure Protocol (DBT PE)*. Guilford Press.
+- Harned, M. S., Korslund, K. E., & Linehan, M. M. (2014). "A pilot randomized controlled trial of Dialectical Behavior Therapy with and without the DBT Prolonged Exposure protocol for suicidal and self-injuring women with borderline personality disorder and PTSD." *Behaviour Research and Therapy*, 55, 7–17.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
+- Linehan, M. M. (2015). *DBT Skills Training Manual* (2nd ed.). Guilford Press.
+- Linehan, M. M., Armstrong, H. E., Suarez, A., Allmon, D., & Heard, H. L. (1991). "Cognitive-behavioral treatment of chronically parasuicidal borderline patients." *Archives of General Psychiatry*, 48(12), 1060–1064.

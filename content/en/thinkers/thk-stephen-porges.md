@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Stephen W. Porges"
 en: "Stephen W. Porges"
 crumb: "Psychology ← Thinkers ← Stephen W. Porges"
-dates: "United States · born 1945"
+dates: "United States · 1945–"
 country: "United States"
 language: "English"
 active_start: 1994

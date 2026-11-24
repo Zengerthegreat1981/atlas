@@ -15,8 +15,7 @@ edges:
 - rel: "belongs_to", target: "Theoretical Gnosis / Unity of Being (the Akbarian School)", target_type: "مدرسة"
 related:
 - id: "thk-ibn-arabi", title: "Muhyi al-Din ibn Arabi", type: "مفكر"
-gaps:
-  - "Detailed comparison of Ibn Arabi's own formulations with the systematizations of al-Qunawi and Ibn Sab'in: not yet covered."
+gaps: []
 ---
 
 # Wahdat al-Wujud (Unity of Being)
@@ -44,6 +43,13 @@ Ibn Arabi's expression on this point is that the world is "He and not He": it is
 - **Ibn Sina**: the theory of emanation, in which existents proceed from the Necessary Being in order.
 - **al-Suhrawardi**: the world of images and light, as a bridge between the Essence and creation.
 
+## From Ibn Arabi to al-Qunawi and Ibn Sab'in
+
+The doctrinal divergence between Ibn Arabi's original discourse and its later systematization is central to understanding the concept:
+- **Ibn Arabi's dialectic**: Ibn Arabi himself focused on the paradoxical tension between the Real (*al-Haqq*) and creation (*al-khalq*). Rather than asserting a simplistic monism, he framed creation through the notion of loci of manifestation (*mazahir*), summarized in the formula "He / not He" (*huwa la huwa*). This preserved both divine transcendence (*tanzih*) and immanence (*tashbih*).
+- **Al-Qunawi's philosophical systematization**: Sadr al-Din al-Qunawi (d. 673 AH / 1274 CE), Ibn Arabi's stepson and leading disciple, translated his master's visionary and symbolic language into a rigorous metaphysical system. Drawing on Avicennian philosophical ontology and terminology (distinguishing necessary existence, possible existence, and degrees of being), al-Qunawi and commentators in his lineage (such as al-Farghani and al-Qashani) established the standard conceptual architecture of *wahdat al-wujud*.
+- **Ibn Sab'in's absolute unity**: In contrast, Abd al-Haqq ibn Sab'in (d. 669 AH / 1270 CE) articulated a more radical, unyielding doctrine of "absolute unity" (*al-wahda al-mutlaqa*). Where al-Qunawi maintained structured degrees of reality and manifestation (*maratib al-wujud*), Ibn Sab'in rejected even the intermediate ontological standing of multiplicity, dismissing relational distinctions as illusory or conceptually redundant.
+
 ## Ibn Taymiyya's critique
 
 Ibn Taymiyya (d. 728 AH) counted this doctrine as a union between Creator and creature. His argument is that it abolishes creation as a distinct reality, and corrupts the meaning of worship, which requires a worshipper and a worshipped who are distinct, and for him it is closer to the statements of the philosophers than to the guidance of the Law. The defenders of Ibn Arabi replied on his behalf that his talk concerns degrees of manifestation, not indwelling or union, and that the legal rulings stand in his view in the world of witnessing as the standing of a truth.
@@ -63,6 +69,7 @@ Ahmad al-Sirhindi (d. 1034 AH) held that what is perceived in the station of ann
 
 - Muhyi al-Din Ibn Arabi, *Fusus al-Hikam*, ed. Abu al-Ala Afifi (Cairo: Dar Ihya' al-Kutub al-Arabiyya, 1946).
 - Muhyi al-Din Ibn Arabi, *al-Futuhat al-Makkiyya*, ed. Uthman Yahya (Cairo: General Egyptian Book Organization, 1972).
+- Sadr al-Din al-Qunawi, *Miftah al-Ghayb*, ed. Muhammad Khwajawi (Tehran: Intisharat-i Mawla, 1995).
 - William C. Chittick, *The Sufi Path of Knowledge: Ibn al-'Arabi's Metaphysics of Imagination* (Albany: State University of New York Press, 1989).
 - Alexander Knysh, *Ibn 'Arabi in the Later Islamic Tradition* (Albany: State University of New York Press, 1999).
 - Toshihiko Izutsu, *Sufism and Taoism* (Berkeley: University of California Press, 1983).

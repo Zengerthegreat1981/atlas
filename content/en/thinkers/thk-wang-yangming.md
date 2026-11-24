@@ -23,42 +23,54 @@ gaps: []
 
 # Wang Yangming (Wang Shouren)
 
-A Chinese philosopher, military commander and official of the Ming dynasty (1472–1529), whose original name was Wang Shouren (王守仁) and who is known by the title "Yangming", after a cave near his home. He is regarded as the most prominent representative of the "School of Mind" (Xinxue) in Neo-Confucianism, and he reshaped Confucian ethics around two central notions: that the mind is principle, and that knowledge and action are one.
+Wang Yangming (1472–1529), born Wang Shouren with the courtesy name Bo'an, was a Chinese philosopher, statesman, and military general of the Ming dynasty. Known by the literary name Yangming ("Luminous Sun") after a cave retreat near his home, he is the foremost representative of the School of Mind (*Xinxue*) in Neo-Confucianism. Wang fundamentally challenged the orthodox Cheng-Zhu School of Principle (*Lixue*) by establishing that the human heart-mind is identical with universal principle (*xin ji li*) and that moral knowledge and action are inherently unified (*zhixing heyi*).
 
-## His life and formation
+## Life and Career
 
-He was born in Yuyao in Zhejiang province to a family of officials; his father, Wang Hua, had gained first place in the imperial examinations. He himself obtained the "jinshi" degree in 1499. His biography tells a famous episode from his youth: he sat for seven days contemplating the bamboo in his family's garden, applying Zhu Xi's teaching on the "investigation of things" (gewu) in order to discover its principle; he arrived at nothing and fell ill, and so concluded that the method did not suit him. In 1506 he criticized the eunuch Liu Jin in a memorial and was punished with flogging and exiled to Longchang in Guizhou province, and in this hard exile there came to him in 1508 the "experience of awakening", in which he realized that "principle" is not outside the mind, and that what he needed was not to trace external things but the awakening of what was within himself.
+Wang was born in Yuyao, Zhejiang province, into an official lineage; his father, Wang Hua, had placed first in the imperial civil service examination (*zhuangyuan*). Wang earned the highest imperial degree (*jinshi*) in 1499. A famous anecdote from his youth recounts how he and a companion attempted to practice Zhu Xi's method of the "investigation of things" (*gewu*) by sitting before bamboo in the garden to comprehend its underlying principle (*li*). Falling ill after seven days of fruitless contemplation, Wang concluded that principles could not be uncovered through external intellectualization.
 
-He then rose through the ranks, led campaigns against bandits in Jiangxi, and in 1519 suppressed the rebellion of the Prince of Ning (Zhu Chenhao) in a few weeks, a victory that won him a military reputation but aroused the envy of his opponents at court. He died in 1529 on the way back from a campaign in Guangxi, and the sources report that his last words were: "My mind is bright; what more is there to say?"
+In 1506, Wang submitted a courageous memorial protesting the unlawful imprisonment of righteous officials by the corrupt court eunuch Liu Jin. For this, Wang was publicly flogged with forty strokes, demoted, and banished to Longchang in the remote mountainous region of Guizhou to serve as an outpost stationmaster. During this severe exile, he experienced his decisive spiritual awakening in 1508 (the "Longchang Enlightenment"), realizing that moral principle is not located outside the human mind, but is an innate, self-sufficient reality within human consciousness.
 
-## What he gave
+Rehabilitated after Liu Jin's fall, Wang rose through administrative and military ranks. As governor of southern Jiangxi, he suppressed long-standing bandit uprisings through disciplined military action paired with local community compacts (*xiangyue*). In 1519, he swiftly suppressed the dangerous rebellion of Zhu Chenhao, Prince of Ning, within several weeks. In 1527, he was recalled to pacify minority uprisings in Guangxi. On his return journey in early 1529, he fell mortally ill near Nan'an, Jiangxi; when his disciple asked for his final instructions, Wang famously replied: "This mind is luminous and clear; what more is there to say?"
 
-- **The unity of knowledge and action (zhixing heyi)**: he taught it from 1509, and its idea is that true moral knowledge is not separable from its enactment; whoever knows the good and does not do it has not yet truly known it. It is primarily ethical and not merely an epistemological theory, and in it is a reply to Zhu Xi's conception, which placed knowledge before action.
-- **The mind is principle (xin ji li)**: the thesis that makes the moral principle lie in the heart-mind (xin) and not in external things. With it he continued the line of Lu Jiuyuan against Zhu Xi, so that the name became the "Lu–Wang school".
-- **Innate knowing (liangzhi)**: taken from Mencius, it means the capacity of every person for direct moral discrimination. The thesis of "extending innate knowing" (zhi liangzhi) is his method of education: there is no need to gather much knowledge before acting, but this knowing is left to expand in the living situation.
-- **Cultivation through practice (shishang molian)**: education takes place in facing affairs and responsibilities, not in sitting and reading alone.
-- **The "Four-Sentence Teaching"** (1527): a late summary of his position: the mind in its substance is without good or evil, intention has good and evil in it, innate knowing distinguishes between them, and the investigation of things is doing good and removing evil. This formulation, especially the first sentence, aroused great controversy among his pupils.
+## Core Philosophical Contributions
 
-## His place in the movement
+### The Mind is Principle (*Xin ji li*)
+Following the Song philosopher Lu Jiuyuan (Lu Xiangshan), Wang rejected Zhu Xi's dualistic ontology, which separated the moral principle (*li*) inhering in external things from the physical nature (*qi*) and perceiving mind of human beings. For Wang, there are no principles outside the heart-mind (*xin wai wu li*): morality is not an external set of codes to be memorized, but the spontaneous, ontological nature of human consciousness itself.
 
-He founded a widely spread school in southern China, and among his best-known pupils were Wang Ji, Qian Dehong, and Wang Gen, founder of the Taizhou school, which took his tendency to its extreme. His ideas passed to Japan, where Nakae Toju and Kumazawa Banzan were influenced by him, and some nineteenth-century men such as Yoshida Shoin adopted from them ideas about action; in Korea Yi Hwang (Toegye) met them with open criticism. In the twentieth century Chinese reformers and leaders drew on him, and Neo-Confucian thinkers such as Tu Wei-ming re-read him.
+### The Unity of Knowledge and Action (*Zhixing heyi*)
+First formulated in 1509, Wang's most famous doctrine asserts that genuine moral knowledge is inseparable from concrete enactment. Knowledge is the beginning and motivation of action; action is the fruition and completion of knowledge. If a person claims to know filial piety but fails to act filially toward their parents, they do not truly possess knowledge of filial piety. Wang compared this to tasting: one cannot truly know the taste of food merely by hearing a description, but only by eating it.
 
-## Limits and criticism
+### Innate Moral Knowing (*Liangzhi*) and Its Extension (*Zhi liangzhi*)
+Drawing on the *Mencius*, Wang identified *liangzhi* ("innate knowing" or "pure knowing") as the direct, intuitive capacity inherent in every human being to distinguish between good and evil, right and wrong, without requiring prior calculation. In his later years, Wang summarized his entire teaching in the phrase *zhi liangzhi* ("extending innate knowing"): the spiritual and moral task of life is to allow this intuitive moral awareness to express itself freely in daily conduct without distortion by selfish desires (*renyu*).
 
-- **The charge of subjectivism and mysticism**: his opponents, among them Wang Fuzhi and later Gu Yanwu, held that putting intuition ahead of textual study led his followers to moral and intellectual laxity, and contributed to the intellectual decline that preceded the fall of the Ming.
-- **The obscurity of the first sentence**: the phrase "no good and no evil in the substance of the mind" was interpreted in different ways, some closer to Buddhism; for this reason he was accused of nearness to Chan.
-- **Limits of the "unity of knowledge and action"**: some saw it as an ethical principle that neglects empirical research and objective knowledge, because it makes knowledge the motive and not study.
-- **Documentation of his words**: most of his teachings are preserved in the "Record of Practice" (Chuanxilu) which his pupils wrote down, so the wording bears the mark of the recorders.
+### Cultivation in the Midst of Practical Affairs (*Shishang molian*)
+Wang insisted that self-cultivation must take place within the crucible of practical responsibility—governing, military command, family life, and daily crises—rather than in quietistic meditation (*jingzuo*) or detached scholastic book-learning.
 
-## Main works
+### The Four-Sentence Teaching (*Si ju jiao*)
+Delivered in 1527 at the Tianquan Bridge to his leading disciples Qian Dehong and Wang Ji, this aphorism summarizes his mature thought:
+1. Having no good and no evil is the original substance of the mind (*wu shan wu e xin zhi ti*).
+2. The presence of good and evil is the movement of intention (*you shan you e yi zhi dong*).
+3. The knowledge of good and evil is innate knowing (*zhi shan zhi e shi liangzhi*).
+4. Doing good and eliminating evil is the investigation of things (*wei shan qu e shi gewu*).
 
-- *Chuanxilu*: "Instructions for Practical Living", his pupils' collection of his sayings and letters.
-- *Wang Yangming quanshu*: the collection of his complete works.
-- *Daxue wen*: "Inquiry on the Great Learning", one of his most mature late texts.
+## Influence and Critical Reception
+
+Wang's thought established the dominant intellectual movement of the late Ming dynasty. His disciples diversified into multiple branches: Qian Dehong represented a conservative, gradualist moralism; Wang Ji embraced an intuitive, sudden approach; and Wang Gen founded the populist Taizhou school, which preached innate sagehood to commoners and peasants. 
+
+Wang's philosophy crossed into Japan as *Yōmeigaku*, inspiring samurai thinkers such as Nakae Tōju and Kumazawa Banzan, and later providing ideological impetus for nineteenth-century Meiji Restoration figures like Yoshida Shōin and Saigō Takamori. In Korea, however, Neo-Confucian scholars such as Yi Hwang (Toegye) staunchly defended Zhu Xi and rejected Wang's doctrines.
+
+Critics from the seventeenth century, notably Gu Yanwu and Wang Fuzhi, blamed the radical subjective tendencies of Wang's late followers for the intellectual neglect of statecraft and empirical study, arguing that it contributed to the collapse of the Ming dynasty. In modern scholarship, New Confucian thinkers such as Xiong Shili and Tu Weiming have revitalized Wang's philosophy as an existential humanism emphasizing moral autonomy and ethical action.
+
+## Major Works
+
+- *Chuanxilu* (*Instructions for Practical Living*), a compilation of Wang's dialogues and letters recorded by his disciples.
+- *Daxue wen* (*Inquiry on the Great Learning*), Wang's mature systematic interpretation of Confucian self-cultivation.
+- *Wang Wencheng Gong Quanshu* (*Complete Works of Wang Yangming*), gathering his official memorials, philosophical essays, and poetry.
 
 ## Sources
 
-- Wang Yangming (1963). *Instructions for Practical Living and Other Neo-Confucian Writings*, trans. Wing-tsit Chan. Columbia University Press.
-- Ivanhoe, P. J. (2002). *Ethics in the Confucian Tradition: The Thought of Mengzi and Wang Yangming*. Hackett Publishing.
-- Tu, W. (1976). *Neo-Confucian Thought in Action: Wang Yang-ming's Youth (1472–1509)*. University of California Press.
-- Ching, J. (1976). *To Acquire Wisdom: The Way of Wang Yang-ming*. Columbia University Press.
+- Wang Yangming (1963). *Instructions for Practical Living and Other Neo-Confucian Writings*. Trans. Wing-tsit Chan. New York: Columbia University Press.
+- Ivanhoe, P. J. (2002). *Ethics in the Confucian Tradition: The Thought of Mengzi and Wang Yangming*. Indianapolis: Hackett Publishing.
+- Tu, W. (1976). *Neo-Confucian Thought in Action: Wang Yang-ming's Youth (1472–1509)*. Berkeley: University of California Press.
+- Ching, J. (1976). *To Acquire Wisdom: The Way of Wang Yang-ming*. New York: Columbia University Press.

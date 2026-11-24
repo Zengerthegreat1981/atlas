@@ -43,11 +43,11 @@ The term "dialectical materialism" was not used by Marx himself; it was populari
 
 ## Religion, Colonialism and the East
 
-Marx dealt with religion in "A Contribution to the Critique of Hegel's Philosophy of Right" (1843–1844), describing it as "the sigh of the oppressed creature" and the spirit of a spiritless world, and as the "opium of the people," a phrase often cut from its context, which combines condemnation and sympathy. In 1853 he wrote articles in the "New York Tribune" on British rule in India, in which he saw it as destroying the old structures but also spreading the conditions for capitalist transformation, and he spoke of the "Asiatic mode of production." These writings have drawn later criticism, including what Edward Said said in "Orientalism" about the European view of the East, and for this reason Third World scholars re-read Marx's position on colonialism.
+Marx dealt with religion in "A Contribution to the Critique of Hegel's Philosophy of Right" (1843–1844), describing it as "the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people," a phrase often cut from its context, which combines condemnation and sympathy. In 1853 he wrote articles in the "New York Tribune" on British rule in India, in which he saw it as destroying the old structures but also spreading the conditions for capitalist transformation, and he spoke of the "Asiatic mode of production." These writings have drawn later criticism, including what Edward Said said in "Orientalism" about the European view of the East, and for this reason Third World scholars re-read Marx's position on colonialism.
 
 ## Stages of Intellectual Production
 
-Many scholars distinguish between the "young Marx" (until 1845), who is preoccupied with alienation and man, and the "mature Marx" of the "Grundrisse" (1857–1858, published 1939–1941) and "Capital." Althusser made this difference an "epistemological break," while others saw continuity between the two. After Marx's death Engels published the second (1885) and third (1894) volumes of "Capital" from his drafts, and wrote "The Origin of the Family" (1884).
+Many scholars distinguish between the "young Marx" (until 1845), who is preoccupied with alienation and man, and the "mature Marx" of the "Grundrisse" (1857–1858, published 1939–1941) and "Capital." Althusser made this difference an "epistemological break," while others saw continuity between the two. After Marx's death Engels published the second (1885) and third (1894) volumes of "Capital" from his drafts, and wrote "The Origin of the Family, Private Property and the State" (1884).
 
 ## Influence and Reception
 

@@ -21,15 +21,15 @@ Jean-Paul Sartre's best-known formula: the human being first exists, encounters 
 
 ## Why an Axiom and Not an Ordinary Debatable Concept
 
-This principle is not a conclusion inferred from testable evidence, but a philosophical starting point on which everything that follows in Sartre is built (freedom, responsibility, bad faith). If this principle is rejected, the entire philosophical edifice collapses with it, and this is what distinguishes it from a con- (concept), which can be modified or revised in part without the whole framework collapsing.
+This principle is not an empirical conclusion inferred from inductive observation, but a philosophical starting point on which everything that follows in Sartre's early thought is built (radical freedom, ontological responsibility, and bad faith). If this principle is rejected, the existentialist conception of human agency collapses with it; this distinguishes a foundational axiom from a localized concept, which can often be modified or revised without dismantling the surrounding philosophical framework.
 
-## The Difference from a Debate
+## The Distinction from a Symmetrical Debate
 
-This is not a point of disagreement between two equivalent positions (that is the role of dbt-), but the foundation on which one of the parties to the debate stands in the first place. For example, whoever rejects this axiom (such as some religious approaches that hold that the human being has an essence or purpose given in advance by the Creator) does not merely differ in the details but stands on a radically different philosophical ground from the very beginning.
+This is not merely a localized disagreement between two equivalent positions within a shared paradigm, but the foundation on which existentialist phenomenology stands. For example, positions rooted in traditional theism or essentialist metaphysics—which hold that the human being has an essence or telos given in advance by a Creator or by nature—do not merely differ on particular ethical or psychological questions; they operate from an incompatible philosophical starting point.
 
-## The Connection to the Principle of "Freedom and Responsibility"
+## The Connection to Freedom and Responsibility
 
-This axiom is the direct foundation on which the concept con-freedom, already present in this atlas, was built: since no prior essence determines the human being, he is necessarily free to define himself, and this freedom carries full responsibility.
+This axiom is the direct foundation of the existentialist understanding of freedom: since no prior essence or universal human nature determines the human being, the individual is condemned to be free to define themselves, and this freedom carries full responsibility.
 
 ## Sartre's Reasoning and Its Context
 
@@ -37,11 +37,11 @@ Sartre ties the formula to atheism: if there is no God who conceives human being
 
 ## The Question of Free Will
 
-For the philosophical debate on whether human choice is determined, see the debate entry on free will versus determinism (dbt-free-will-vs-determinism). The axiom is a premise of one side of that debate rather than a conclusion within it.
+In philosophical discussions of agency, the axiom functions as a foundational premise regarding radical human freedom rather than a deduced solution to the classical problem of causal determinism. While deterministic systems posit antecedent causes (biological, psychological, or material) that dictate human choices, Sartre's axiom posits that human consciousness (*pour-soi*) is characterized by a radical lack of determination, making freedom an inescapable ontological condition.
 
-## A Methodological Note
+## Methodological Status
 
-Documenting this principle as an axiom does not mean that the atlas adopts it as an absolute truth; rather, it records that it is an unprovable starting point specifically within the Sartrean philosophical framework, and it is presented here for understanding, not for acceptance.
+Within Sartrean existentialism, the principle operates as a foundational axiom rather than an empirical proposition. It serves as the starting point from which Sartre derives his phenomenology of consciousness, choice, anguish, and bad faith, defining the conceptual framework within which human action is interpreted.
 
 ## Sources
 

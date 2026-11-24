@@ -2,12 +2,16 @@
 slug: "thk-kierkegaard"
 id: "THK-0101"
 type: "مفكر"
-part: psychology
+part: "psychology"
 level: "متوسط"
 title: "Søren Kierkegaard"
 en: "Søren Kierkegaard"
 crumb: "Existential Psychotherapy ← People ← Søren Kierkegaard"
 dates: "Denmark · 1813–1855"
+country: "Denmark"
+language: "Danish"
+active_start: 1841
+active_end: 1855
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:

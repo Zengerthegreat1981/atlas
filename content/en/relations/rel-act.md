@@ -11,7 +11,7 @@ edges:
   - rel: "neighbour_of", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "dbt-evidence", title: "Should We Demand Empirical Evidence?", type: "جدل"
-gaps:[]
+gaps: []
 ---
 
 # ACT and the Third Wave
@@ -40,7 +40,7 @@ But there is also a genuine opportunity. The third wave needs what existential t
 
 ## Sources
 
-- Viktor E. Frankl, *Ein Psycholog erlebt das Konzentrationslager* (1946).
+- Viktor E. Frankl, *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager* (1946).
 - Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson, *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change* (Guilford Press, 1999).
 - Steven C. Hayes, Dermot Barnes-Holmes, and Bryan Roche, *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition* (Kluwer/Plenum, 2001).
 - Steven C. Hayes, Jason B. Luoma, Frank W. Bond, Akihiko Masuda, and Jason Lillis, "Acceptance and Commitment Therapy: Model, Processes and Outcomes," *Behaviour Research and Therapy* 44(1) (2006).

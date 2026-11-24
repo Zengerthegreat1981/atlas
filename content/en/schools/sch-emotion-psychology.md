@@ -27,7 +27,6 @@ related:
 - id: "stu-himba-facial", title: "The Himba Study on Categorizing Facial Expressions", type: "دراسة وبحث"
 gaps:
   - "Standalone entries for Lisa Feldman Barrett, Silvan Tomkins, Richard Lazarus, Robert Zajonc and James Russell: not yet covered"
-  - "Appraisal theory: not yet covered"
 ---
 
 # Psychology of Emotion
@@ -41,6 +40,15 @@ The field that asks: **what is an emotion?** Is it an inherited biological progr
 ## Basic Emotions
 
 The Darwinian line holds that there is a limited number of evolutionarily selected emotions, each with a facial expression and a physiology. It was formulated by **Tomkins** and supported by **Paul Ekman** through his field research, the most famous being his work among the **Fore** of New Guinea (1971), a community with little contact with Western media, where he found recognition of particular expressions. From this he formulated the **Facial Action Coding System** (FACS) and the cultural "display rules" that modify an expression rather than create it.
+
+## Appraisal Theories
+
+Appraisal theorists argue that emotions are elicited and differentiated by cognitive evaluations (appraisals) of events regarding their personal significance, well-being, and goals:
+
+- **Magda Arnold (1960)**: introduced the concept of appraisal into modern psychology, defining emotion as the felt tendency toward an object evaluated as beneficial or away from an object evaluated as harmful.
+- **Richard Lazarus (1966, 1991)**: formulated the cognitive-motivational-relational theory of emotion. Lazarus distinguished **primary appraisal** (evaluating whether an encounter is relevant, benign-positive, or a threat/challenge to well-being) from **secondary appraisal** (evaluating coping options, controllability, and future expectations).
+- **Klaus Scherer (1984, 2001)**: proposed the **Component Process Model**, treating emotion as a dynamic, multicomponent episode comprising coordinated changes across five subsystems (cognitive evaluation, autonomic physiology, action tendencies, motor expression, and subjective feeling). In this model, appraisals proceed through sequential stimulus evaluation checks: novelty, intrinsic pleasantness, goal relevance, coping potential, and norm compatibility.
+- **The Lazarus–Zajonc Debate (1980–1984)**: Robert Zajonc argued that "preferences need no inferences," demonstrating that affective reactions (such as the mere exposure effect) can occur rapidly and pre-cognitively without conscious appraisal. Lazarus replied that cognitive evaluation—whether automatic, preconscious, or deliberate—is necessary for an emotion to occur. Contemporary affective neuroscience recognizes both rapid subcortical routes and nuanced cortical appraisal networks.
 
 ## The Current Dispute: Constructed Emotion
 
@@ -66,6 +74,9 @@ Proponents of basic emotions reply that the absence of a fingerprint does not ne
 - Schachter, S. & Singer, J. "Cognitive, Social, and Physiological Determinants of Emotional State." *Psychological Review*, 69(5), 1962, 379–399.
 - Ekman, Paul & Friesen, Wallace V. "Constants Across Cultures in the Face and Emotion." *Journal of Personality and Social Psychology*, 17(2), 1971, 124–129.
 - Lazarus, Richard S. *Emotion and Adaptation*. Oxford University Press, 1991.
+- Arnold, Magda B. *Emotion and Personality* (2 vols.). Columbia University Press, 1960.
+- Scherer, Klaus R. "Appraisal Considered as a Process of Multilevel Sequential Checking." In K. R. Scherer, A. Schorr, & T. Johnstone (Eds.), *Appraisal Processes in Emotion: Theory, Methods, Research*. Oxford University Press, 2001, 92–120.
+- Zajonc, Robert B. "Feeling and Thinking: Preferences Need No Inferences." *American Psychologist*, 35(2), 1980, 151–175.
 - Barrett, Lisa Feldman. *How Emotions Are Made: The Secret Life of the Brain*. Houghton Mifflin Harcourt, 2017.
 - Gendron, M., Roberson, D., van der Vyver, J. M. & Barrett, L. F. "Perceptions of Emotion from Facial Expressions Are Not Culturally Universal." *Emotion*, 14(2), 2014, 251–262.
 - Barrett, L. F., Adolphs, R., Marsella, S., Martinez, A. M. & Pollak, S. D. "Emotional Expressions Reconsidered." *Psychological Science in the Public Interest*, 20(1), 2019, 1–68.

@@ -28,26 +28,39 @@ gaps: []
 
 ## The Central Thesis
 
-The book is not a single thesis but a **collection of articles and lectures that Lacan wrote over two decades (1936-1966)**, collected and published by Éditions du Seuil in 1966. So 1966 is the date of collection and publication, not of composition, and this is a fundamental difference and not a detail. The texts share one common thread: a reading of Freud through the tools of structural linguistics (especially Saussure) and structural anthropology (Lévi-Strauss), and its most famous thesis is that **"the unconscious is structured like a language"**, that is, that the symptoms, dreams and slips of the unconscious operate through linguistic mechanisms (metaphor and metonymy) and not through a direct biological or instinctual logic. Lacan's style in these texts is **deliberately obscure and circuitous**, and he himself admitted the difficulty of reading them. This is not an incidental flaw but part of his stance toward language and signification, so it should not be simplified into a clarity he did not intend.
+*Écrits* is not a single unified treatise but a **monumental collection of thirty-four essays, lectures, and seminar presentations** authored by Jacques Lacan over three decades (1936–1966), compiled and published in a single 900-page volume by Éditions du Seuil in Paris in 1966. 
+
+The unifying theoretical core across these texts is Lacan's radical "return to Freud" (*retour à Freud*), reinterpreting psychoanalytic metapsychology through the conceptual tools of structural linguistics (Ferdinand de Saussure, Roman Jakobson) and structural anthropology (Claude Lévi-Strauss). Its most celebrated aphorism asserts that **"the unconscious is structured like a language"** (*l'inconscient est structuré comme un langage*). Symptoms, parapraxes, and dream imagery do not stem from biological instincts or physiological drives, but operate according to the fundamental linguistic operations of **metaphor** (which Lacan equates with Freud's *condensation*) and **metonymy** (which he equates with *displacement*). Lacan famously insists on the "primacy of the signifier" (*le primat du signifiant*) over the signified, arguing that human desire is constituted within the linguistic order of the Other (*le grand Autre*).
+
+Lacan's prose style in the *Écrits* is deliberately dense, elliptical, and allusive. Far from an accidental stylistic flaw, this calculated difficulty was intended to prevent readers from consuming psychoanalytic thought as a comforting, imaginary certainty, forcing an active engagement with the gaps and obscurities inherent in language and unconscious desire.
 
 ## Structure of the Work
 
-A collection heterogeneous in time and subject, among whose most prominent texts are the article **"The Mirror Stage" (Le stade du miroir)**, first presented in 1936 and reworked and published in 1949 (the formation of the "ego" through the child's identification with his unified image in the mirror before the maturation of his actual motor capacities), the article **"The Function and Field of Speech and Language in Psychoanalysis"** (the Rome Discourse, 1953), the article **"The Instance of the Letter in the Unconscious"** (1957), which elaborates the thesis of the structural-linguistic unconscious, and the written seminar on **"The Purloined Letter"** by Edgar Allan Poe (1956/revised 1966). The conceptual triad **the Imaginary (Imaginaire) / the Symbolic (Symbolique) / the Real (Réel)** recurs across the texts as a structural framework for understanding the psyche and human experience.
+The collection gathers pivotal chronological landmarks in the development of Lacanian theory:
+- **"The Mirror Stage as Formative of the *I* Function"** (*Le stade du miroir*, first delivered at Marienbad in 1936, rewritten in 1949): Proposes that the infant (between 6 and 18 months) anticipates motor mastery by identifying with its unified reflection in the mirror. This primordial specular identification establishes the ego (*moi*) as fundamentally alienated and imaginary.
+- **"The Function and Field of Speech and Language in Psychoanalysis"** (the *Rome Discourse*, 1953): The founding manifesto of Lacanian clinical practice, contrasting "empty speech" (*parole vide*), in which the subject is trapped in the imaginary ego, with "full speech" (*parole pleine*), which articulates the unconscious truth of desire.
+- **"The Instance of the Letter in the Unconscious, or Reason Since Freud"** (1957): The formal presentation of the linguistic algorithms of metaphor and metonymy.
+- **"Seminar on 'The Purloined Letter'"** (1956): An extended reading of Edgar Allan Poe demonstrating how the course of the subject is determined by the trajectory of a signifier.
+- **"The Signification of the Phallus"** (1958) and **"Subversion of the Subject and Dialectic of Desire"** (1960): Introducing the Graph of Desire (*graphe du désir*), distinguishing need, demand, and desire, and articulating the fundamental registers: the **Imaginary** (*l'Imaginaire*), the **Symbolic** (*le Symbolique*), and the **Real** (*le Réel*).
 
 ## Historical Context of Publication
 
-The collection was published in 1966 at the height of the French structuralist wave, and coincided with the peak of Lacan's influence within the French psychoanalytic movement after his repeated splits from the official societies (his expulsion from the International Psychoanalytical Association because of his dispute over the short session). Gathering texts written for scattered occasions (lectures, journal articles, conference reports) into one volume reflects Lacan's ambition to secure his theoretical standing within a French scene saturated with structuralism.
+The collection appeared in November 1966 at the height of French structuralism. Lacan had been stripped of his status as a training analyst by the International Psychoanalytical Association (IPA) in 1963 ("the excommunication"), largely over his controversial practice of short, variable-length sessions. In response, Lacan founded the École Freudienne de Paris (EFP) in 1964 and moved his public seminar to the École Normale Supérieure (ENS) at the invitation of Louis Althusser. Publishing the *Écrits* in 1966 established Lacan alongside Lévi-Strauss, Roland Barthes, and Michel Foucault as a dominant intellectual figure of the French structuralist era.
 
 ## Reception and Criticism
 
-The book was regarded immediately upon publication as a "difficult to read" text even within specialist circles, and it requires a background in structural linguistics and philosophy to understand its terms. Nevertheless it became one of the founding texts of Lacanianism and influenced fields beyond psychoanalysis (literary criticism, feminist theory, continental philosophy). The collection was reprinted several times, and a prominent partial English translation (Écrits: A Selection) appeared before a later complete English translation.
+The publication of *Écrits* was an unexpected commercial and cultural sensation in France, despite its notorious difficulty. It founded Lacanian psychoanalysis as an autonomous international movement and exerted an immense influence across literary theory, feminist philosophy, film studies, and continental philosophy. 
+
+Critical reception has focused on Lacan's obscurity and mathematical borrowings: critics like Noam Chomsky dismissed his linguistic formulations as pretentious and scientifically unsound, while Alan Sokal and Jean Bricmont criticized his use of mathematical topology. In psychoanalysis, mainstream IPA analysts criticized his clinical technique for undermining the holding environment and fostering intellectualized transference. Nonetheless, an initial partial English translation by Alan Sheridan (*Écrits: A Selection*, 1977) and the first complete English translation by Bruce Fink (2006) cemented its status as a cornerstone of modern European thought.
 
 ## Why It Is Included in the Atlas
 
-A pivotal text for understanding how psychoanalysis after Freud reformulated itself through linguistics, and for concepts influential in theories of identity and the self (the mirror stage) that remain present in discussions of developmental psychology and self psychology.
+*Écrits* is the primary source text for structural psychoanalysis. It provides the original formulations of seminal concepts — the mirror stage, the Symbolic order, the split subject ($\$$, *sujet barré*), and the objet petit a — that reshaped the humanities and clinical theory throughout the late twentieth century.
 
 ## Sources
 
-- The original French edition: *Écrits*, Éditions du Seuil, Paris, 1966.
-- Lacan, J. (2006). *Écrits: The First Complete Edition in English* (B. Fink, Trans.). W. W. Norton.
-- Lacan, J. (1977). *Écrits: A Selection* (A. Sheridan, Trans.). Tavistock.
+- Lacan, Jacques. *Écrits*. Paris: Éditions du Seuil, 1966.
+- Lacan, Jacques. *Écrits: The First Complete Edition in English*. Translated by Bruce Fink in collaboration with Héloïse Fink and Russell Grigg. New York: W. W. Norton & Company, 2006.
+- Lacan, Jacques. *Écrits: A Selection*. Translated by Alan Sheridan. London: Tavistock Publications, 1977.
+- Evans, Dylan. *An Introductory Dictionary of Lacanian Psychoanalysis*. London: Routledge, 1996.
+- Fink, Bruce. *The Lacanian Subject: Between Language and Jouissance*. Princeton, NJ: Princeton University Press, 1995.

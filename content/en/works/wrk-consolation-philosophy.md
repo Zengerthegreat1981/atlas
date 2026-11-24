@@ -59,7 +59,7 @@ Boethius **does not mention Christ or any explicit scriptural text in the book**
 
 ## The Opening Scene and the Image of Lady Philosophy
 
-The book begins with a imprisoned poet writing elegiac verses when a majestic woman appears to him whose stature exceeds the human, and on her garment is the Greek letter Π at its bottom and Θ at its top with a ladder between them, an allusion to practical (praktike) and theoretical (theoretike) philosophy. She drives from around his bed the "Muses of poetry" who feed his illness instead of curing it, and says that his illness is forgetfulness of his truth, not merely grief over what he lost. The book made of this scene a basis for the conception of healing by dialogue: the medicine is not given until an examination of the patient has been made, and the argument is held back until he becomes ready to receive it.
+The book begins with an imprisoned poet writing elegiac verses when a majestic woman appears to him whose stature exceeds the human, and on her garment is the Greek letter Π at its bottom and Θ at its top with a ladder between them, an allusion to practical (praktike) and theoretical (theoretike) philosophy. She drives from around his bed the "Muses of poetry" who feed his illness instead of curing it, and says that his illness is forgetfulness of his truth, not merely grief over what he lost. The book made of this scene a basis for the conception of healing by dialogue: the medicine is not given until an examination of the patient has been made, and the argument is held back until he becomes ready to receive it.
 
 ## Two Definitions Inherited by the Middle Ages
 

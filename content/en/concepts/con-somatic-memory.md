@@ -27,7 +27,7 @@ This concept rests on the research of the Dutch-American psychiatrist Bessel van
 
 ## Main Ideas or Approach
 
-This framework distinguishes several forms of somatic memory: muscle memory (a clinical usage that differs from the everyday sense of practised motor skill), which is sustained tension functioning as a defensive readiness for a danger that no longer exists; visceral memory (Visceral Memory), which may appear as chronic pain not explained organically; movement memory, which is recurring defensive movements or bodily postures whose source one is unaware of; and state memory (State Memory), which is the return of a complete emotional-physiological state (such as a freeze or mobilization state) upon a stimulus reminiscent of the original trauma. Scientifically, this conception rests on a theoretical distinction between explicit memory (Explicit Memory), which is linguistic and can be consciously narrated, and implicit memory (Implicit Memory), which includes the body's habits and its unconscious movement and emotional patterns, and and which is thought to depend on partly different brain systems (for example the amygdala for conditioned fear responses) from those that support conscious narrative memory (the hippocampus and related structures). The proposed role of such systems in trauma remains an active research question.
+This framework distinguishes several forms of somatic memory: muscle memory (a clinical usage that differs from the everyday sense of practised motor skill), which is sustained tension functioning as a defensive readiness for a danger that no longer exists; visceral memory (Visceral Memory), which may appear as chronic pain not explained organically; movement memory, which is recurring defensive movements or bodily postures whose source one is unaware of; and state memory (State Memory), which is the return of a complete emotional-physiological state (such as a freeze or mobilization state) upon a stimulus reminiscent of the original trauma. Scientifically, this conception rests on a theoretical distinction between explicit memory (Explicit Memory), which is linguistic and can be consciously narrated, and implicit memory (Implicit Memory), which includes the body's habits and its unconscious movement and emotional patterns, and which is thought to depend on partly different brain systems (for example the amygdala for conditioned fear responses) from those that support conscious narrative memory (the hippocampus and related structures). The proposed role of such systems in trauma remains an active research question.
 
 ## Notable Works or Representatives
 
@@ -47,7 +47,8 @@ This framework opens an alternative explanation for bodily disorders resistant t
 
 ## Sources
 
-- van der Kolk, B. A. (1994). The body keeps the score: Memory and the evolving psychobiology of posttraumatic stress. *Harvard Review of Psychiatry*, 1(5), 253-265.
-- van der Kolk, B., *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*, 2014.
-- Ogden, P., Minton, K. & Pain, C., *Trauma and the Body: A Sensorimotor Approach to Psychotherapy*, 2006.
-- Shapiro, F., "Efficacy of the Eye Movement Desensitization Procedure in the Treatment of Traumatic Memories", *Journal of Traumatic Stress*, 1989.
+- van der Kolk, B. A. (1994). The body keeps the score: Memory and the evolving psychobiology of posttraumatic stress. *Harvard Review of Psychiatry*, 1(5), 253–265.
+- van der Kolk, B. A. (2014). *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. Viking.
+- Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the Body: A Sensorimotor Approach to Psychotherapy*. W. W. Norton & Company.
+- Shapiro, F. (1989). Efficacy of the eye movement desensitization procedure in the treatment of traumatic memories. *Journal of Traumatic Stress*, 2(2), 199–223.
+- Levine, P. A. (1997). *Waking the Tiger: Healing Trauma*. North Atlantic Books.

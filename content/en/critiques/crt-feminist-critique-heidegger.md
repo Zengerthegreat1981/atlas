@@ -11,8 +11,7 @@ edges:
   - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"
-gaps:
-  - "Wider gender-theoretic readings of Heidegger (for example Derrida's essays on Geschlecht): not yet covered."
+gaps: []
 ---
 
 # Feminist Critique of Dasein's Gender Neutrality
@@ -35,6 +34,12 @@ Irigaray is not alone. Simone de Beauvoir had already, in *The Second Sex* (1949
 
 The critics' shared move is to ask what disappears when Dasein is declared neutral. Three disappearances recur. First, the body: birth, pregnancy, and the long dependence of the infant are not part of the existential analytic, so the "thrown" human arrives in the world already adult, upright, and self-sufficient — a picture that fits one kind of bodily life better than another. Second, care: Heidegger's Being-with and his account of care (*Sorge*) are formal structures, but the concrete labour of caring for others, historically assigned to women, is never examined as a mode of Being in its own right. Third, relationality: authenticity is described as a solitary, resolute owning of one's own death, a model of independence that can make interdependence look like inauthenticity.
 
+## Deconstruction and Sexual Difference: Derrida's Geschlecht Series
+
+A central philosophical intervention addressing Dasein's alleged neutrality is Jacques Derrida's series of essays titled *Geschlecht* (notably "Geschlecht I: Sexual Difference, Ontological Difference," 1983). Derrida examines Heidegger's 1928 lecture course *The Metaphysical Foundations of Logic*, where Heidegger explicitly asserts the *Geschlechtslosigkeit* (sexlessness or neutrality) of Dasein. Heidegger insisted that this neutrality is not a privative lack or castration, but an originary ontological positivity prior to any ontic division into two sexes.
+
+Derrida's deconstructive reading questions whether this purported pre-sexual origin is coherent. By positing Dasein as prior to sexual difference, Heidegger inevitably subordinates sexual difference to ontological difference (the question of Being). In doing so, Derrida argues, the analytic of Dasein risks neutralising the very specificity of sexual difference, reproducing the traditional metaphysical gesture of treating a masculine archetype as the unmarked, universal human essence. This deconstructive critique converges with feminist phenomenology: both demonstrate that claiming neutrality before sex difference often functions as an evasion of embodiment.
+
 ## External Critique, Not Internal Debate
 
 The distinction matters for this Atlas. An internal debate (a dbt- entry) is a disagreement between positions that share the same framework — two Heideggerians arguing over how to read a passage, for example. This critique does not share the framework. It judges the framework itself, from outside, on the grounds that its starting point is not neutral ground but a position with a history. Accepting it would not revise a conclusion inside Heidegger's system; it would require rethinking the system from its foundations. Heidegger died in 1976, before Irigaray's book appeared, so the responses recorded here come from later interpreters.
@@ -51,3 +56,5 @@ The critique has a practical edge for the therapeutic school built on Heideggeri
 - Whitford, Margaret. *Luce Irigaray: Philosophy in the Feminine*. Routledge, 1991.
 - Chanter, Tina. *Ethics of Eros: Irigaray's Rewriting of the Philosophers*. Routledge, 1995.
 - Holland, Nancy J., and Patricia Huntington, eds. *Feminist Interpretations of Martin Heidegger*. Pennsylvania State University Press, 2001.
+- Derrida, J. (1983). Geschlecht I: Sexual Difference, Ontological Difference. *Research in Phenomenology*, 13, 65–83.
+- Derrida, J. (2020). *Geschlecht III: Sex, Race, Nation, Humanity*, ed. G. Bensussan et al., trans. K. Chenoweth & T. G. West. University of Chicago Press.

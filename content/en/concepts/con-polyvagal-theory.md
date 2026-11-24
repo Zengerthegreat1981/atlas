@@ -21,7 +21,7 @@ gaps: []
 
 ## Definition
 
-**Polyvagal Theory** is a theory developed by **Stephen Porges**, first presented in 1994 and published in 1995. It proposes that the autonomic nervous system supports **three hierarchically organized response systems** (social engagement, mobilization, immobilization) that correspond to perceived safety, danger and life threat. This file documents the original academic formulation of the theory; related entries cover its three states clinically and its popular formulation as the "Polyvagal Ladder" in Deb Dana's work. Its clinical elaboration is also linked to the breadth of the individual's **Window of Tolerance**.
+**Polyvagal Theory** is a neurobiological and psychological framework developed by **Stephen Porges**, first presented at the Society for Psychophysiological Research in 1994 and published in 1995. It proposes that the autonomic nervous system supports **three phylogenetically ordered response systems** (social engagement, mobilization, and immobilization) that mediate physiological states corresponding to perceived environmental safety, danger, and life threat. The original theory provides a psychophysiological model, while subsequent clinical applications—notably popularized by Deb Dana through concepts like the "Polyvagal Ladder"—adapt its hierarchy to psychotherapy, trauma processing, and the regulation of the **Window of Tolerance**.
 
 ## The vagus nerve
 
@@ -82,25 +82,21 @@ The framework has been applied in work with trauma (PTSD, complex trauma), anxie
 - Respiratory sinus arrhythmia (RSA), the variation in heart rate with breathing, is the measure most often used as an index of vagal influence on the heart, and Porges has treated it as a marker of social-engagement capacity.
 - Research on heart rate variability and psychological functioning is extensive, but whether it indexes the specific myelinated-vagus mechanism proposed by the theory is disputed.
 
-## Criticism
+## Criticism and Neuroanatomical Debates
 
-- Paul Grossman and Edwin Taylor (2007) argued that the theory's claims about the evolution and function of the myelinated vagus are inconsistent with comparative anatomical and physiological evidence. Grossman has repeated these criticisms in later work.
-- Other researchers consider the theory's core claims empirically unproven.
-- The therapeutic applications are broader than the direct evidence.
+- **Comparative Neuroanatomy**: Paul Grossman and Edwin W. Taylor (2007) published a comprehensive critique in *Biological Psychology*, arguing that the theory's central evolutionary claims contradict established comparative vertebrate anatomy and physiology. They noted that unmyelinated and myelinated vagal fibers, as well as dual vagal motor nuclei (the dorsal motor nucleus and the nucleus ambiguus), exist across non-mammalian vertebrates (including fish, amphibians, and reptiles), challenging the idea of a uniquely mammalian evolutionary innovation.
+- **Respiratory Sinus Arrhythmia (RSA)**: Grossman and Taylor also disputed the claim that RSA serves as a direct, unmediated index of mammalian social engagement or ventral vagal tone, demonstrating that RSA is substantially confounded by respiratory rate and tidal volume.
+- **Translational Gap**: Many neuroscientists caution that while the theory has gained widespread popularity in clinical trauma therapy, its physiological mechanisms are often accepted metaphorically rather than demonstrated empirically.
 
-## Legacy
+## Therapeutic Legacy
 
-- An influential framework in trauma-informed practice.
-- It has influenced body-oriented approaches such as Somatic Experiencing and Sensorimotor Psychotherapy, as well as attachment-based and family therapy.
-
-## Literature
-
-- Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation*. W. W. Norton.
-- Porges, S. W. (2017). *The Pocket Guide to the Polyvagal Theory*. W. W. Norton.
-- Dana, D. (2018). *The Polyvagal Theory in Therapy*. W. W. Norton.
+- Polyvagal theory remains an exceptionally influential conceptual model in trauma-informed care and somatic therapies.
+- It has informed body-oriented modalities such as Peter Levine's Somatic Experiencing and Pat Ogden's Sensorimotor Psychotherapy, offering a physiological language for clients to understand autonomic trauma responses (hyperarousal and hypoarousal).
 
 ## Sources
 
 - Porges, S. W. (1995). Orienting in a defensive world: Mammalian modifications of our evolutionary heritage. A Polyvagal Theory. *Psychophysiology*, 32(4), 301-318.
-- Porges, S. W. (2011). *The Polyvagal Theory*. W. W. Norton.
+- Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-regulation*. W. W. Norton.
+- Porges, S. W. (2017). *The Pocket Guide to the Polyvagal Theory: The Transformative Power of Feeling Safe*. W. W. Norton.
+- Dana, D. (2018). *The Polyvagal Theory in Therapy: Engaging the Rhythm of Regulation*. W. W. Norton.
 - Grossman, P., & Taylor, E. W. (2007). Toward understanding respiratory sinus arrhythmia: Relations to cardiac vagal tone, evolution and biobehavioral functions. *Biological Psychology*, 74(2), 263-285.

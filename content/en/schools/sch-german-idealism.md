@@ -28,8 +28,7 @@ related:
 - id: "sch-kant-critical", title: "Critical Kantianism", type: "مدرسة"
 - id: "wrk-hegel-phenomenology-spirit", title: "Phenomenology of Spirit by Georg Hegel (1807)", type: "عمل / كتاب"
 - id: "thk-schopenhauer", title: "Arthur Schopenhauer", type: "مفكر"
-gaps:
-  - "The later period (1815–1831), including Schelling's late philosophy and the rise of the Hegelian school: not yet covered"
+gaps: []
 ---
 
 # German Idealism (umbrella)
@@ -50,6 +49,10 @@ A broad philosophical umbrella extending from the "critical" Kant (1781) to the 
 - **Hölderlin, Hegel, and Schelling in Tübingen**: the three took part in the "Oldest Systematic Program of German Idealism" (c. 1796), a short text of disputed authorship that calls for an aesthetic philosophy and a religion of reason.
 - **Hegel** (1770–1831): in the *Phenomenology of Spirit* (1807) and the *Science of Logic* (1812–1816) he moves the project to an absolute doctrine that sees all reality as the expression of the Idea in necessary development.
 - **Branchings after Hegel**: the current split into right, center, and left.
+
+## The Later Period (1815–1831) and the Late Schelling
+
+Following the political settlement of 1815, German Idealism entered an institutional phase dominated by Hegel's tenure at the University of Berlin (1818–1831), where his lectures on right, history, religion, and aesthetics turned Hegelianism into Prussia's preeminent academic philosophy. Concurrently, Schelling retreated from his earlier system of identity to develop what he called "positive philosophy." Rejecting pure dialectical deduction—which he regarded as "negative philosophy" that conceptualizes possibilities without grasping factual existence—the late Schelling investigated myth, historical divine revelation, and personal freedom, arguing that reason cannot ground its own existence. This late critique, delivered in Erlangen, Munich, and eventually his famous 1841 Berlin lectures, anticipated existentialism and directly influenced Kierkegaard, Feuerbach, and Russian religious thought.
 
 ## Shared Features
 

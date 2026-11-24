@@ -32,13 +32,13 @@ A French philosopher, one of the pillars of phenomenology in the twentieth centu
 
 ## His life and formation
 
-Maurice Merleau-Ponty was born on 14 March 1908 in Rochefort-sur-Mer in western France, lost his father young, and grew up in the care of his mother in Paris. He studied at the Ecole Normale Superieure, where he met Sartre and Simone de Beauvoir, and obtained the agregation in philosophy in 1930. After teaching in secondary schools and military service in the Second World War, he published "The Structure of Behavior" in 1942, and then completed his major thesis "Phenomenology of Perception" in 1945. He had visited the Husserl Archives in Leuven in 1939 and consulted Husserl's unpublished manuscripts on the body and the lifeworld, manuscripts that influenced the formulation of his book.
+Maurice Merleau-Ponty was born on 14 March 1908 in Rochefort-sur-Mer in western France, lost his father young, and grew up in the care of his mother in Paris. He studied at the École Normale Supérieure, where he met Sartre and Simone de Beauvoir, and obtained the agrégation in philosophy in 1930. After teaching in secondary schools and military service in the Second World War, he published *The Structure of Behavior* (*La Structure du comportement*) in 1942, and then completed his major thesis *Phenomenology of Perception* (*Phénoménologie de la perception*) in 1945. He had visited the Husserl Archives in Leuven in 1939 and consulted Husserl's unpublished manuscripts on the body and the lifeworld, manuscripts that influenced the formulation of his book.
 
-From 1945 he took part with Sartre in founding the journal "Les Temps Modernes" and took charge of its political editing. He taught at the University of Lyon and then at the Sorbonne, where he held the chair of child psychology and pedagogy between 1949 and 1952, and was then elected in 1952 professor of philosophy at the College de France, the youngest to have held this chair. He died suddenly in Paris on 3 May 1961 while working on "The Visible and the Invisible".
+From 1945 he took part with Sartre in founding the journal *Les Temps Modernes* and took charge of its political editing. He taught at the University of Lyon and then at the Sorbonne, where he held the chair of child psychology and pedagogy between 1949 and 1952, and was then elected in 1952 professor of philosophy at the Collège de France, the youngest to have held this chair. He died suddenly in Paris on 3 May 1961 while working on *The Visible and the Invisible*.
 
 ## What he contributed
 
-He rejected the Cartesian separation between the body as a physical object and consciousness as a thinking subject, and presented in its place the "lived body": the body is not an instrument used by the subject but is the very way in which the subject exists in the world. Perception for him is not mental information processing but a direct bodily interaction with the situation, an idea that later influenced deeply the line of applied phenomenology in psychiatry (Weizsacker, Gebsattel, Plugge) and the methods of descriptive phenomenological research (Giorgi, and Eckartsberg after him).
+He rejected the Cartesian separation between the body as a physical object and consciousness as a thinking subject, and presented in its place the "lived body": the body is not an instrument used by the subject but is the very way in which the subject exists in the world. Perception for him is not mental information processing but a direct bodily interaction with the situation, an idea that later influenced deeply the line of applied phenomenology in psychiatry (Weizsäcker, Gebsattel, Plügge) and the methods of descriptive phenomenological research (Giorgi, and Eckartsberg after him).
 
 ## His position in the tradition
 
@@ -50,7 +50,7 @@ Merleau-Ponty's interests were not confined to perception: in "Humanism and Terr
 
 ## On perception, art and language
 
-In "Phenomenology of Perception" he starts from the view that perception is not an assembling of sensory data processed by the mind but a presence in a "field" in which the body knows the positions of things before representing them: one who walks knows the size of the door as he approaches it without calculation. He draws on pathological cases, the most important being the patient Schneider, who suffered a brain wound and so was unable to make free pointing movements and "abstract movement" while retaining his capacity for practical movement, to show that the body cannot be reduced to a mechanism. In his later writings on language and painting, such as "Eye and Mind" (1961), he made art, especially Cezanne, an example of the disclosure of the "visible" before it divides into subject and object, and spoke of the "flesh" (la chair) as a fabric shared between seer and seen.
+In "Phenomenology of Perception" he starts from the view that perception is not an assembling of sensory data processed by the mind but a presence in a "field" in which the body knows the positions of things before representing them: one who walks knows the size of the door as he approaches it without calculation. He draws on pathological cases, the most important being the patient Schneider, who suffered a brain wound and so was unable to make free pointing movements and "abstract movement" while retaining his capacity for practical movement, to show that the body cannot be reduced to a mechanism. In his later writings on language and painting, such as *Eye and Mind* (*L'Œil et l'esprit*, 1961), he made art, especially Cézanne, an example of the disclosure of the "visible" before it divides into subject and object, and spoke of the "flesh" (*la chair*) as a fabric shared between seer and seen.
 
 ## His influence and reception
 
@@ -62,7 +62,7 @@ Merleau-Ponty was accused of the charge that his philosophy of the body presuppo
 
 ## Restriction
 
-He is first of all an academic philosopher (not a practicing therapist), and his influence on the therapeutic existential school is indirect, through those who applied his ideas to the clinic (Weizsacker and the Heidelberg line, and the researchers of the descriptive phenomenological method), not through a clinical practice of his own.
+He is first of all an academic philosopher (not a practicing therapist), and his influence on the therapeutic existential school is indirect, through those who applied his ideas to the clinic (Weizsäcker and the Heidelberg line, and the researchers of the descriptive phenomenological method), not through a clinical practice of his own.
 
 ## Major works
 

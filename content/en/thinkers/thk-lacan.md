@@ -19,9 +19,7 @@ related:
 - id: "thk-sartre", title: "Jean-Paul Sartre", type: "مفكر"
 - id: "rel-psychoanalysis", title: "Psychoanalysis: Separation and Retention", type: "علاقة بين مدرستين"
 - id: "con-alienation", title: "Alienation", type: "مفهوم"
-gaps:
-  - "A sourced quotation from *Écrits* (1966): not yet covered."
-  - "Lacan's engagement with Heidegger beyond his translation of the essay on Logos: not yet covered."
+gaps: []
 ---
 # Jacques Lacan
 
@@ -40,7 +38,7 @@ A famous French psychiatrist and psychoanalyst who reread Freud structurally and
 
 ## His place in the current
 
-In his beginnings Lacan intersects with phenomenology and existentialism — he translated Heidegger's article on "Logos," and engaged with Sartre and Merleau-Ponty — then moved in a structuralist direction that makes the subject an **effect** of the symbolic order and not a source of meaning, so that he became a critical interlocutor of existentialism and not one of its members.
+In his beginnings Lacan intersected with phenomenology and existentialism. Beyond translating Heidegger's essay "Logos (Heraklit, Fragment B 50)" in 1956 for the journal *La Psychanalyse*, Lacan maintained personal contact with Heidegger, visiting him at Todtnauberg in 1955 and hosting him in France. Philosophically, Lacan appropriated several key Heideggerian themes: he drew on Heidegger's ontological difference and *Dasein* to formulate the subject's fundamental "lack-in-being" (*manque-à-être*); he transposed Heidegger's distinction between authentic speech (*Rede*) and idle chatter (*Gerede*) into his own clinical distinction between "full speech" (*parole pleine*) and "empty speech" (*parole vide*); and he linked the psychoanalytic confrontation with castration and mortality to Heidegger's being-towards-death (*Sein-zum-Tode*). However, Lacan subsequently moved in a structuralist direction that made the subject an **effect** of the symbolic order and not an existential locus of meaning, so that he became a critical interlocutor of existentialism rather than one of its members.
 
 His institutional position is the key to understanding his effect: he practiced the **variable-length session** — ending it within minutes if he judged that the moment had reached a significant juncture, instead of the standard fifty minutes. His argument was that a fixed length allows the patient to fill the time with talk that protects himself, and that the sudden cut produces an **effect** that prevents this. This was the cause of his recurring crisis with the international institution: he broke away from the Paris Society (1953), then was **struck from the list of training analysts of the International Psychoanalytical Association in 1963** — and he described that event as an "excommunication." So he founded the **École Freudienne de Paris** (1964), in which he later introduced (1967) a special qualification procedure he called **"the pass"** (la passe), then **dissolved it himself** in 1980, a year before his death, and created in its place "the Freudian Cause."
 
@@ -57,6 +55,12 @@ Four limitations on Lacan:
 
 **Fourth — evidence.** There are no controlled trials of Lacanian treatment, and it is among the therapeutic traditions most resistant to the very idea of measurement — since it holds that the criterion of "efficacy" is taken from a discourse foreign to the aim of analysis. This is an internally consistent position, and its price is this tradition's absence from every clinical guideline in the world.
 
+## Selected Quotations
+
+"I think where I am not, therefore I am where I do not think." — *Écrits* (1966, "The Agency of the Letter in the Unconscious", p. 515)
+
+"The unconscious is that chapter of my history that is marked by a blank or occupied by a lie: it is the censored chapter." — *Écrits* (1966, "The Function and Field of Speech and Language in Psychoanalysis", p. 259)
+
 ## His most important works
 
 His doctoral thesis: ***On Paranoiac Psychosis in Its Relations to the Personality*** (De la psychose paranoïaque dans ses rapports avec la personnalité, 1932) · ***Écrits*** (1966) · **The Seminar** (twenty-seven books, 1953–1980, the most famous being: Book I *Freud's Papers on Technique*, Book III *The Psychoses*, Book VII *The Ethics of Psychoanalysis*, Book X *Anxiety*, Book XI *The Four Fundamental Concepts of Psychoanalysis*, Book XVII *The Other Side of Psychoanalysis* which contains the four discourses, and Book XX *Encore*).
@@ -67,5 +71,5 @@ His doctoral thesis: ***On Paranoiac Psychosis in Its Relations to the Personali
 - Lacan, J. (1966). *Écrits*. Éditions du Seuil.
 - Lacan, J. *Le Séminaire* (27 books, ed. J.-A. Miller). Éditions du Seuil.
 - Evans, D. (1996). *An Introductory Dictionary of Lacanian Psychoanalysis*. Routledge.
+- Fink, B. (1995). *The Lacanian Subject: Between Language and Jouissance*. Princeton University Press.
 - Sokal, Alan & Bricmont, Jean. *Fashionable Nonsense: Postmodern Intellectuals' Abuse of Science*. Picador, 1998 (French edition *Impostures intellectuelles*, 1997).
-- Internet Encyclopedia of Philosophy, "Lacan, Jacques," https://iep.utm.edu/lacweb/

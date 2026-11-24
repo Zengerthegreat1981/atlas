@@ -14,8 +14,7 @@ language: "Multilingual"
 part: "psychology"
 edges: []
 related:
-gaps:
-  - "Prevalence of social anxiety disorder in Arab contexts: not yet covered."
+gaps: []
 ---
 
 # Social Anxiety Disorder
@@ -114,10 +113,12 @@ ICD-11 classifies social anxiety disorder under 6B04, describing marked and exce
 - **Substance use**: alcohol as a social sedative, use of other substances.
 - **Obsessive-compulsive disorder**: overlap in some cases.
 
-## Cultural Notes
+## Cultural and Epidemiological Context
 
-- Social anxiety differs in its manifestations across cultures, and the clinician must distinguish it from socially valued modesty or reserve.
-- DSM-5-TR notes culture-related presentations such as taijin kyofusho (in Japan and Korea), in which the fear concerns offending or embarrassing others rather than being embarrassed oneself.
+- Global epidemiological surveys indicate lifetime prevalence rates of social anxiety disorder between 2% and 12%, with Western nations typically reporting higher community rates than East Asian countries (Stein et al., 2017).
+- In Arab and Middle Eastern contexts, studies among adolescents and university students frequently report rates ranging from 9% to 15% (e.g., Al-Khathami et al., 2002).
+- Culturally, normative values around modesty (*hayaa'*), respect for hierarchy, and family reputation can intersect with social anxiety: behaviors that might be viewed as avoidant in individualistic contexts may be perceived as appropriate reserve or deference in traditional settings. Consequently, diagnosis requires careful differentiation between socially sanctioned modesty and excessive fear that impairs functioning or causes severe personal distress.
+- DSM-5-TR notes culture-related presentations such as *taijin kyofusho* (in Japan and Korea), in which the fear concerns offending or embarrassing others rather than being embarrassed oneself.
 - Notions of "social face" and honor can shape how social fear is experienced and expressed.
 - Virtual reality therapy is less available in low-resource contexts.
 
@@ -141,6 +142,7 @@ ICD-11 classifies social anxiety disorder under 6B04, describing marked and exce
 
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. APA.
 - World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
-- Heimberg, R. G., Brozovich, F. A., & Rapee, R. M. (2010). A cognitive-behavioral model of social anxiety disorder: Update and extension. In S. G. Hofmann & P. M. DiBartolo (Eds.), *Social Anxiety: Clinical, Developmental, and Social Perspectives* (2nd ed.). Academic Press.
 - Clark, D. M., & Wells, A. (1995). A cognitive model of social phobia. In R. G. Heimberg et al. (Eds.), *Social Phobia: Diagnosis, Assessment, and Treatment*. Guilford Press.
+- Heimberg, R. G., Brozovich, F. A., & Rapee, R. M. (2010). A cognitive-behavioral model of social anxiety disorder: Update and extension. In S. G. Hofmann & P. M. DiBartolo (Eds.), *Social Anxiety: Clinical, Developmental, and Social Perspectives* (2nd ed.). Academic Press.
 - Liebowitz, M. R. (1987). Social phobia. *Modern Problems of Pharmacopsychiatry*, 22, 141-173.
+- Stein, D. J., et al. (2017). The cross-national epidemiology of social anxiety disorder: Data from the World Mental Health Survey Initiative. *BMC Medicine*, 15(1), 143.

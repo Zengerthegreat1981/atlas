@@ -6,11 +6,11 @@ level: "متقدم"
 title: "Wilfred Bion"
 en: "Wilfred Bion"
 crumb: "Psychology ← Thinkers ← Wilfred Bion"
-dates: "India / Britain / America · 1897–1979"
-country: "India / Britain / America"
+dates: "India / Britain / United States · 1897–1979"
+country: "India / Britain / United States"
 language: "English"
 part: "psychology"
-active_start: 1897
+active_start: 1940
 active_end: 1979
 edges:
 - rel: "belongs_to", target: "Psychoanalysis", target_type: "مدرسة"

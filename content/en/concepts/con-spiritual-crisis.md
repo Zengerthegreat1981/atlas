@@ -20,7 +20,7 @@ A spiritual crisis is the collapse of meaning-making structures: religious faith
 
 ## Definition
 
-The term covers experiences in which a person's basic framework for understanding why life matters gives way. The trigger may be a loss, an illness, a betrayal by a community or leader, a loss of faith, or a gradual erosion. It differs from clinical depression in focus: its center is questions of meaning, truth and value, though in practice the two can occur together and cannot always be separated by the person experiencing them. In diagnostic manuals, the fourth edition of the DSM (1994) introduced a non-disorder category, "Religious or Spiritual Problem," acknowledging that such struggles can be a focus of clinical attention without being a mental disorder in themselves.
+The term covers experiences in which a person's basic framework for understanding why life matters gives way. The trigger may be a loss, an illness, a betrayal by a community or leader, a loss of faith, or a gradual erosion. It differs from clinical depression in focus: its center is questions of meaning, truth and value, though in practice the two can occur together and cannot always be separated by the person experiencing them. In diagnostic classification, DSM-IV (1994) introduced, and DSM-5-TR (2022) maintains under Other Conditions That May Be a Focus of Clinical Attention, the category "Religious or Spiritual Problem" (code V62.89 / Z65.8), formally recognizing that existential and faith struggles warrant clinical attention without constituting psychopathology in themselves.
 
 ## Origins
 
@@ -53,3 +53,5 @@ Critics caution against romanticizing crisis. Severe distress, hopelessness, tho
 4. van Deurzen, E. (2012). *Existential Counselling and Psychotherapy in Practice*. SAGE.
 5. Tillich, P. (1952). *The Courage to Be*. Yale University Press.
 6. Fowler, J. W. (1981). *Stages of Faith*. Harper & Row.
+7. Grof, S., & Grof, C. (Eds.). (1989). *Spiritual Emergency: When Personal Transformation Becomes a Crisis*. J. P. Tarcher.
+8. Pargament, K. I. (1997). *The Psychology of Religion and Coping: Theory, Research, Practice*. Guilford Press.

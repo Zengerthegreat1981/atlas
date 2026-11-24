@@ -2,7 +2,7 @@
 slug: "thk-schopenhauer"
 id: "THK-0532"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Arthur Schopenhauer"
 en: "Arthur Schopenhauer"

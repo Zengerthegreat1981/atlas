@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Meaning-Centered Psychotherapy"
 en: "Meaning-Centered Psychotherapy"
 crumb: "Existential Psychotherapy ← Techniques and Interventions ← Meaning-Centered Psychotherapy"
-dates: null
+dates: "United States · from 2000"
 active_start: 2000
 active_end: "مستمر"
 edges: []

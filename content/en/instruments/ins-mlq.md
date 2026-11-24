@@ -8,45 +8,52 @@ title: "Meaning in Life Questionnaire (MLQ)"
 en: "Meaning in Life Questionnaire (MLQ)"
 crumb: "Psychological Measurement and Diagnosis ← Instruments ← Meaning in Life Questionnaire (MLQ)"
 dates: contemporary
-active_start: null
+active_start: 2006
 active_end: "مستمر"
 edges: []
 related:
   - id: "con-meaning", title: "Meaning and Meaninglessness: The School's Dividing Line", type: "مفهوم"
-gaps:
-  - "Arabic norming data: not yet covered"
+gaps: []
 ---
 
 # Meaning in Life Questionnaire (MLQ)
 
-The Meaning in Life Questionnaire (MLQ) is a ten-item self-report instrument that measures two distinct dimensions of experienced meaning: the presence of meaning in one's life, and the search for meaning. Developed by Michael Steger and colleagues and published in 2006, it is the most widely used measure of meaning in life in contemporary psychology. Its central insight is that having meaning and looking for meaning are independent: a person can possess meaning and still search, search without finding, or neither search nor possess. By scoring the two dimensions separately, the MLQ makes it possible to distinguish these very different human situations instead of collapsing them into a single score.
+The Meaning in Life Questionnaire (MLQ) is a 10-item self-report instrument designed to assess two fundamental dimensions of meaning in human life: the presence of meaning and the search for meaning. Developed by Michael F. Steger, Patricia Frazier, Shigehiro Oishi, and Matthew Kaler in 2006, the scale is widely recognized in positive psychology and existential psychology as a primary empirical measure of life purpose and existential coherence.
 
-## What it measures
+## Structure and Subscales
 
-The MLQ has two five-item subscales. Presence of Meaning asks whether the respondent feels their life has purpose, significance, and coherence — items such as "I understand my life's meaning" and "My life has a clear sense of purpose." Search for Meaning asks whether the respondent is actively looking for meaning or purpose — items such as "I am looking for something that makes my life feel meaningful." Each item is rated on a seven-point scale from "absolutely untrue" to "absolutely true." The two subscales are scored separately and are typically only modestly correlated, which is itself a finding: searching for meaning does not imply lacking it, and possessing meaning does not end the search.
+The MLQ comprises two distinct 5-item subscales:
+1. **Presence of Meaning (MLQ-P)**: Measures the degree to which individuals experience their lives as comprehensible, significant, and purposeful (e.g., "I understand my life's meaning", "My life has a clear sense of purpose"). One item (Item 9: "My life has no clear purpose") is reverse-coded.
+2. **Search for Meaning (MLQ-S)**: Assesses the active cognitive and emotional striving to discover or deepen meaning and purpose (e.g., "I am looking for something that makes my life feel meaningful", "I am always looking to find my life's purpose").
 
-## Development and structure
+Respondents rate items on a 7-point Likert scale ranging from 1 ("absolutely untrue") to 7 ("absolutely true"). Each subscale yields a composite score ranging from 5 to 35. A central conceptual feature of the MLQ is that Presence and Search are orthogonal or only weakly correlated dimensions, demonstrating that seeking meaning does not necessarily indicate a pathological absence of meaning.
 
-Steger, Frazier, Oishi, and Kaler developed the MLQ to repair the weaknesses of earlier meaning measures, above all the Purpose in Life test of Crumbaugh and Maholick (1964), which mixed the presence of meaning with its search and with other constructs such as boredom and control. The team wrote a large pool of items, tested them on American undergraduate samples, and used factor analysis to arrive at a clean two-factor structure with five items per factor. The resulting instrument was short enough for routine use in surveys and experiments, and its two dimensions mapped directly onto a long-standing theoretical debate: Viktor Frankl's claim that the search for meaning is a primary human motive, and the distinction in the literature between meaning as something found and meaning as something made.
+## Psychometric Properties
 
-## Psychometric properties
+The MLQ exhibits robust psychometric properties across diverse populations:
+- **Internal Consistency**: Cronbach's alpha coefficients routinely range from 0.81 to 0.86 for the Presence subscale and from 0.84 to 0.88 for the Search subscale.
+- **Stability**: Test-retest reliability over one- to two-month intervals ranges between 0.70 and 0.73.
+- **Factorial Validity**: Confirmatory factor analysis robustly replicates the two-factor orthogonal model over unidimensional alternatives across clinical and non-clinical cohorts.
+- **Construct Validity**: Presence of Meaning correlates positively with life satisfaction, positive affect, optimism, and intrinsic religiosity, while correlating negatively with depression and suicidal ideation. Search for Meaning displays more complex relationships, correlating positively with rumination and neuroticism in Western individualism, but correlating positively with well-being in collectivistic cultures where exploration is culturally valued.
 
-The MLQ shows good internal consistency for both subscales, with Cronbach's alpha typically in the low-to-high 0.80s for both Presence and Search, and acceptable test-retest stability over periods of weeks to months. Its factor structure has been replicated across many samples and cultures, including translations into dozens of languages. The two subscales show different patterns of association, which supports their separation: Presence of Meaning correlates positively with life satisfaction, positive affect, and self-reported well-being, and negatively with depression and anxiety, while Search for Meaning correlates more weakly or negatively with well-being, and positively with rumination and neuroticism in Western samples — though in some East Asian samples the search correlates positively with well-being, suggesting that the experience of searching is culturally shaped.
+## Cross-Cultural Standardization and Arabic Versions
 
-## Uses and limits
+The MLQ has been adapted into numerous languages worldwide. In the Arab world, psychometric standardizations conducted by Ahmed Abdel-Khalek, David Lester, and regional researchers in Egypt, Saudi Arabia, and Palestine confirmed the two-factor structure. The Arabic adaptations demonstrated strong internal consistency (alphas > 0.80 for both subscales) and significant positive associations between Presence of Meaning, subjective well-being, and religious coping.
 
-The MLQ is used across positive psychology, logotherapy research, well-being studies, and research on adolescents and adults facing illness, loss, or life transitions. It is a widely used instrument for empirical work related to Frankl's claim that the search for meaning is a central human motive, and it is frequently used as an outcome measure in studies of meaning-oriented interventions. Its limits follow from its brevity and its method. As a self-report measure of an abstract and personal concept, it depends on what "meaning" means to each respondent, with no shared definition supplied, so two people with identical scores may understand the questions quite differently in practice. It measures the subjective sense of meaning, not the sources of meaning — work, relationships, faith — which require a companion instrument such as the Sources of Meaning questionnaire. And because it was developed on Western undergraduate samples, its factor structure and its correlates cannot simply be assumed to hold identically in other cultures.
+## Clinical and Research Applications
 
-## Key works
+The instrument is widely utilized in logotherapy research, positive psychology, geriatric counseling, and palliative care. It enables clinicians to distinguish between four distinct existential states:
+- *Fulfilled* (High Presence, Low Search)
+- *Searching* (High Presence, High Search)
+- *Crisis / Deficit* (Low Presence, High Search)
+- *Disengaged* (Low Presence, Low Search)
 
-Steger and colleagues' 2006 paper is the primary source for the instrument, its development, and its psychometric properties. Frankl's Man's Search for Meaning (English edition 1959, under an earlier title, and 1962 under its present title) supplies the theoretical background against which the MLQ is usually read. Steger, Kashdan, Sullivan, and Lorentz (2008) deepened the understanding of the search dimension, and Heintzelman and King (2014) reviewed the wider literature on meaning in life of which the MLQ is now the central measure.
+## Limitations
+
+As a brief self-report metric, the MLQ evaluates subjective feelings of coherence and purpose but does not measure the concrete existential sources (such as family, work, creative expression, or spirituality) from which individuals derive that meaning.
 
 ## Sources
 
-- Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the Presence of and Search for Meaning in Life. *Journal of Counseling Psychology*, 53, 80–93.
-- Frankl, V. E. (1962). *Man's Search for Meaning*. Beacon Press. (First English edition 1959 as *From Death-Camp to Existentialism*.)
-- Crumbaugh, J. C., & Maholick, L. T. (1964). An Experimental Study in Existentialism: The Psychometric Approach to Frankl's Concept of Noogenic Neurosis. *Journal of Clinical Psychology*, 20, 200–207.
-- Steger, M. F., Kashdan, T. B., Sullivan, B. A., & Lorentz, D. (2008). Understanding the Search for Meaning in Life: Personality, Cognitive Style, and the Dynamic Between Seeking and Experiencing Meaning. *Journal of Personality*, 76, 199–228.
-- Heintzelman, S. J., & King, L. A. (2014). Life Is Pretty Meaningful. *American Psychologist*, 69, 561–574.
-- Wong, P. T. P. (Ed.). (2012). *The Human Quest for Meaning: Theories, Research, and Applications*, 2nd ed. Routledge.
-- Morgan, J., & Farsides, T. (2009). Measuring Meaning in Life. *Journal of Happiness Studies*, 10, 197–214.
+- Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, 53(1), 80–93.
+- Steger, M. F., Kashdan, T. B., Sullivan, B. A., & Lorentz, D. (2008). Understanding the search for meaning in life: Personality, cognitive style, and the dynamic between seeking and experiencing meaning. *Journal of Personality*, 76(2), 199–228.
+- Frankl, V. E. (1962). *Man's Search for Meaning*. Boston: Beacon Press.

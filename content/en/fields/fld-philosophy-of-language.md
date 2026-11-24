@@ -55,7 +55,7 @@ Philosophy of language is not a branch of grammar teaching or a guide to etymolo
 
 ## Sources
 
-- Gottlob Frege, "Uber Sinn und Bedeutung" (1892)
+- Gottlob Frege, "Über Sinn und Bedeutung" (1892)
 - Ludwig Wittgenstein, *Philosophical Investigations* (1953)
 - J. L. Austin, *How to Do Things with Words* (1962)
 - Saul Kripke, *Naming and Necessity* (1980)

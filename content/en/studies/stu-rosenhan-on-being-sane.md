@@ -14,35 +14,51 @@ design: "Field study"
 sample_size: 8
 main_finding: "Psychiatrists failed to distinguish 8 sane pseudo-patients from real patients in 12 hospitals; all were admitted (seven with a diagnosis of schizophrenia, one with manic-depressive psychosis) for stays of 7 to 52 days, which Rosenhan took to show that psychiatric diagnosis in hospital settings is strongly shaped by context."
 replication_status: "contested"
+edges: []
 related:
-gaps:
-  - "Changes in diagnostic reliability from DSM-II to DSM-5-TR: not yet covered"
+gaps: []
 ---
-
 
 # Rosenhan's 'On Being Sane in Insane Places' Pseudo-Patient Study
 
-A landmark and much-debated field study in which 8 people without psychiatric illness gained admission to 12 psychiatric hospitals as pseudo-patients by reporting hearing voices saying a few vague words, and were admitted, mostly diagnosed with schizophrenia, without staff identifying them as impostors.
+A landmark and widely debated psychiatric field study conducted by David Rosenhan and published in *Science* in 1973, investigating whether psychiatric clinicians and hospital staff can reliably distinguish between sane individuals and individuals with severe psychiatric illness within inpatient institutional environments.
 
-## Context and experimental design
+## Context and Experimental Design
 
-Eight people without psychiatric illness (including Rosenhan himself, psychologists, a pediatrician, a psychiatrist, a painter and a housewife) presented at the admissions offices of 12 different psychiatric hospitals in 5 states, reporting that they heard an unclear voice saying words like "empty," "hollow" and "thud." Once admitted to the ward, they stopped reporting any symptoms, behaved normally, and asked to be discharged.
+The study comprised two distinct phases:
 
-## Results and conclusions
+### Phase 1: The Pseudo-Patient Admissions
+Eight sane individuals—comprising three psychologists (including Rosenhan), a pediatrician, a psychiatrist, a painter, a graduate student, and a homemaker—presented at 12 diverse public and private psychiatric hospitals across five American states. During the admissions evaluation, each pseudo-patient reported hearing an unfamiliar, same-sex voice repeating the single words "empty," "hollow," and "thud." The words were chosen specifically because they suggested existential alienation and were not recognized diagnostic markers of any established psychotic disorder. Apart from fabricating their names, occupations, and auditory symptom, all participants gave completely truthful accounts of their life histories, family dynamics, and personal backgrounds.
 
-Stays averaged about 19 days (ranging from 7 to 52), and all were discharged with a diagnosis of "schizophrenia in remission" (or equivalent). Rosenhan reported that some real patients suspected the pseudo-patients were journalists or researchers, while staff records interpreted ordinary behavior such as note-taking as symptomatic. In a second phase, a research and teaching hospital that had heard of the findings was told to expect pseudo-patients over a three-month period; staff rated 41 of 193 new admissions as probable impostors, although Rosenhan had sent no one.
+Immediately upon admission to the psychiatric wards, the pseudo-patients ceased simulating any symptoms, behaved completely normally, and cooperatively adhered to hospital routines while privately recording observational field notes.
 
-## Critique and methodological controversy
+### Phase 2: The Non-Existent Impostors
+Following intense skepticism from clinicians who claimed they would never fall for such deception, a prestigious psychiatric teaching and research hospital was informed that over the subsequent three months, one or more pseudo-patients would attempt to gain admission. Staff were instructed to rate every incoming patient on a scale assessing the likelihood of being an impostor. Out of 193 genuine patients admitted during this period, staff judged 41 patients to be pseudo-patients with high confidence, and a psychiatrist suspecting an additional 23—even though Rosenhan had sent zero pseudo-patients.
 
-The paper was highly influential, and was read as showing that psychiatric diagnosis depends heavily on observer and institutional context. Critics such as Robert Spitzer argued that the study's logic was flawed, since hospitals were not unreasonable in taking a reported symptom at face value, and later journalistic investigation (Susannah Cahalan, 2019) found inconsistencies in Rosenhan's account and records.
+## Results and Findings
 
-The study has not been replicated in its original design since its publication, for ethical and practical reasons, and its replication status is contested: Cahalan was unable to identify some of the pseudo-patients and found discrepancies between the published account and Rosenhan's notes, which casts doubt on some of the reported details. Concerns about the reliability of psychiatric diagnosis in that era were also raised independently by field trials of DSM-II-era diagnosis.
+In Phase 1, all 12 admissions were processed without a single pseudo-patient being detected by medical or nursing staff. Eleven admissions resulted in a primary diagnosis of schizophrenia, while one private hospital diagnosed manic-depressive psychosis. Lengths of hospitalization ranged from 7 to 52 days (averaging 19 days), and all pseudo-patients were eventually discharged with the clinical diagnosis of "schizophrenia in remission." 
 
-## Impact on the revision of diagnostic criteria
-The study, along with other contemporaneous criticisms of the reliability of psychiatric diagnosis, is commonly cited among the pressures that led the American Psychiatric Association to develop more explicit diagnostic criteria in the third edition of the Diagnostic and Statistical Manual (DSM-III, 1980), which replaced loosely worded, theory-laden descriptions with descriptive checklist criteria intended to raise inter-rater reliability. This approach has continued in later editions, including DSM-5-TR, and in the World Health Organization's ICD-11.
+Rosenhan noted that while professional staff failed to recognize the pseudo-patients' sanity, 35 out of 118 real psychiatric inpatients openly voiced suspicions that the pseudo-patients were journalists, researchers, or undercover investigators checking on the hospital. Furthermore, staff interpreted benign daily activities pathologically: nursing staff documented a pseudo-patient writing field notes as exhibiting "compulsive note-taking behavior," and early arrival at the cafeteria was interpreted as "oral-acquisitive syndrome."
+
+## Methodological Critique and Historical Investigations
+
+The study provoked immediate controversy. Robert Spitzer (1975, 1976) offered a trenchant critique, arguing that Rosenhan committed a fundamental category error: if a patient presents to an emergency department reporting severe hallucinations, admitting them is prudent medical practice rather than diagnostic failure. Spitzer pointed out that the discharge diagnosis of "in remission" demonstrated that clinicians recognized the patients were no longer exhibiting acute symptoms, an outcome exceptionally rare in chronic schizophrenia at the time.
+
+In 2019, investigative journalist Susannah Cahalan examined Rosenhan's surviving notes, institutional archives, and participant records in *The Great Pretender*. Cahalan uncovered substantial discrepancies between the published paper and Rosenhan's source documents: only two pseudo-patients could be verified with certainty, and Rosenhan appeared to have omitted data from an additional volunteer whose hospital experience was largely positive and who was promptly recognized as healthy, casting doubt on the empirical rigor and factual reporting of the original study.
+
+## Diagnostic Reliability and the Evolution from DSM-II to DSM-5-TR
+
+Despite methodological flaws, Rosenhan's paper catalyzed a major revolution in psychiatric nosology. At the time of the study, clinical psychiatry operated under the DSM-II (1968), which relied on unstandardized, psychoanalytically influenced diagnostic categories characterized by poor inter-rater agreement (often $\kappa < 0.50$, as documented in Spitzer and Fleiss's 1974 re-analysis). 
+
+The fallout from Rosenhan's paper accelerated the development of the DSM-III (1980), chaired by Robert Spitzer. DSM-III abandoned etiologic psychoanalytic speculations in favor of descriptive, operationalized symptom checklists with explicit inclusion, exclusion, and duration criteria, significantly elevating inter-rater reliability across clinical trials. 
+
+Subsequent editions—culminating in the DSM-5 (2013) and DSM-5-TR (2022)—refined these criteria through structured diagnostic interviews. However, DSM-5 field trials revealed that high reliability remained difficult to achieve for complex, heterogeneous disorders (such as generalized anxiety disorder or mixed personality pathology), prompting modern psychiatry to supplement categorical diagnoses with dimensional and neurodevelopmental frameworks, as reflected in the World Health Organization's ICD-11.
 
 ## Sources
-- Rosenhan, D. L., "On Being Sane in Insane Places", Science, 1973.
-- Spitzer, R. L., "On Pseudoscience in Science, Logic in Remission, and Psychiatric Diagnosis: A Critique of Rosenhan's 'On Being Sane in Insane Places'", Journal of Abnormal Psychology, 1975.
-- Spitzer, R. L., "More on Pseudoscience in Science and the Case for Psychiatric Diagnosis", Archives of General Psychiatry, 1976.
-- Cahalan, S., The Great Pretender: The Undercover Mission That Changed Our Understanding of Madness, 2019.
+
+- Rosenhan, D. L. (1973). On being sane in insane places. *Science*, 179(4070), 250-258.
+- Spitzer, R. L. (1975). On pseudoscience in science, logic in remission, and psychiatric diagnosis: A critique of Rosenhan's "On being sane in insane places". *Journal of Abnormal Psychology*, 84(5), 442-452.
+- Spitzer, R. L., & Fleiss, J. L. (1974). A re-analysis of the reliability of psychiatric diagnosis. *British Journal of Psychiatry*, 125(4), 341-347.
+- Cahalan, S. (2019). *The Great Pretender: The Undercover Mission That Changed Our Understanding of Madness*. Grand Central Publishing.
+- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.; DSM-5-TR). American Psychiatric Publishing.

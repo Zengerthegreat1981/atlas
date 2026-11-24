@@ -14,13 +14,12 @@ edges:
 related:
 - id: "sch-pyrrhonism", title: "Pyrrhonian Skepticism", type: "مدرسة"
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"
-gaps:
-  - "Historical intermediaries between ancient skeptical epoché and Husserl's phenomenological epoché: not yet covered"
+gaps: []
 ---
 
 # Epoché (Suspension of Judgment)
 
-An epistemological and ethical concept in Greek skepticism: the voluntary abstention from issuing any categorical judgment, whether affirmation or denial, regarding what reason does not settle. It is associated with Pyrrho of Elis (c. 360–270 BCE), the founder of Pyrrhonian skepticism. Pyrrho wrote nothing, and what is known of his position comes through his pupil Timon of Phlius, Diogenes Laertius and Sextus Empiricus (2nd century CE), so the term may be a later codification of his stance rather than his own wording. It is presented by Sextus as the middle link in a chain: equipollence of arguments → suspension of judgment → peace of mind.
+An epistemological and ethical concept in Greek skepticism: the voluntary abstention from issuing any categorical judgment, whether affirmation or denial, regarding what reason does not settle. It is associated with Pyrrho of Elis (c. 360–270 BCE), the founder of Pyrrhonian skepticism. Pyrrho wrote nothing, and what is known of his position comes through his pupil Timon of Phlius, Diogenes Laertius, and Sextus Empiricus (fl. late 2nd century CE), so the term may be a later codification of his stance rather than his own wording. It is presented by Sextus as the middle link in a chain: equipollence of arguments → suspension of judgment → peace of mind.
 
 ## The Logical Structure: From Equipollence to Tranquility
 
@@ -30,11 +29,19 @@ For the Pyrrhonists, epoché is not a doctrine that knowledge is impossible, sin
 2. Epoché: so long as the two sides are equal there is no way to prefer one, and judgment is suspended, not through a choice of neutrality but through the absence of anything tipping the balance.
 3. Ataraxia (ἀταραξία, freedom from disturbance): tranquility comes incidentally, not as a goal pursued. Sextus compares it to the painter Apelles, who, unable to paint the foam of a horse, angrily threw the sponge at the panel, and the foam resulted.
 
-The aim is therefore practical-ethical: deliverance from the anxiety of categorical belief, not a description of the structure of knowledge.
+The aim is therefore practical-ethical: deliverance from the anxiety of categorical belief, not a theoretical description of cognitive faculties.
 
 ## The Practical Criterion: How the Suspender Lives
 
-The Pyrrhonist faces the objection that he cannot live without judgments. His answer is that he lives by appearances (φαινόμενα) and not by judgments about them: he admits that honey appears sweet, and does not judge that it is sweet in itself. This distinction, between what appears and what is, is precisely the hinge that phenomenology picked up centuries later, though for a different purpose.
+The Pyrrhonist faces the objection that he cannot live without judgments (the *apraxia* objection). His answer is that he lives by appearances (φαινόμενα) and not by judgments about them: he admits that honey appears sweet, and does not judge that it is sweet in itself. This distinction, between what appears and what is, is precisely the hinge that phenomenology picked up centuries later, though for a different purpose.
+
+## Historical Intermediaries: From Skepticism to Phenomenology
+
+The path from ancient skeptical epoché to Husserlian phenomenology passed through several decisive historical transitions:
+
+- **Early Modern Skeptical Revival**: In the sixteenth century, the publication of the Latin translation of Sextus Empiricus by Henri Estienne (1562) triggered a major revival of Pyrrhonism. Michel de Montaigne (1533–1592) adopted epoché in his *Essais* (especially the *Apology for Raymond Sebond*, 1580), using the suspension of judgment to critique scholastic dogmatism and human intellectual arrogance.
+- **Cartesian Methodological Doubt**: René Descartes (1596–1650) transformed skepticism into an epistemological instrument in his *Meditations on First Philosophy* (1641). By deliberately withholding assent from any proposition that admitted of the slightest doubt, Descartes employed a heuristic suspension of judgment to establish an indubitable foundation for the sciences, directly prefiguring Husserl's "Cartesian way" to the phenomenological reduction.
+- **Critical Philosophy and Descriptive Psychology**: Immanuel Kant's critical turn redirected philosophy from dogmatic metaphysical assertions to examining the transcendental conditions of experience. In the late nineteenth century, Franz Brentano (1838–1917) revived descriptive psychology and intentionality, training Husserl to study mental acts and phenomena directly without relying on unexamined physicalist presuppositions.
 
 ## The Difference from the Husserlian Epoché
 
@@ -53,5 +60,8 @@ Pyrrhonian epoché is distinguished from the skepticism of the Middle Academy (A
 
 ## Sources
 
-- *Outlines of Pyrrhonism* (Πυρρώνειοι ὑποτυπώσεις), Sextus Empiricus, around the 2nd century CE. Book One: the presentation of isostheneia, epoché, and ataraxia, the ten modes, and the separation of Pyrrhonism from the Academy.
-- *Lives of Eminent Philosophers*, Diogenes Laertius, Book Nine: the principal ancient source for Pyrrho's life and positions, transmitted from Timon of Phlius because Pyrrho left no writing.
+- Sextus Empiricus, *Outlines of Pyrrhonism* (Πυρρώνειοι ὑποτυπώσεις), trans. R. G. Bury, Loeb Classical Library, Harvard University Press, 1933.
+- Diogenes Laertius, *Lives of Eminent Philosophers*, Book IX (Pyrrho), trans. R. D. Hicks, Loeb Classical Library, 1925.
+- Michel de Montaigne, *The Complete Essays*, trans. M. A. Screech, Penguin Books, 1991 (original 1580).
+- René Descartes, *Meditations on First Philosophy*, 1641, trans. John Cottingham, Cambridge University Press, 1986.
+- Edmund Husserl, *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book* (Ideen I), 1913, trans. F. Kersten, Martinus Nijhoff, 1982.

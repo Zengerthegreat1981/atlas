@@ -12,7 +12,7 @@ edges:
 related:
   - id: "br-daseins", title: "Daseinsanalysis", type: "تيار"
   - id: "thk-minkowski", title: "Eugène Minkowski", type: "مفكر"
-gaps:[]
+gaps: []
 ---
 
 # Phenomenological Psychopathology

@@ -18,41 +18,40 @@ related:
 - id: "thk-nagarjuna", title: "Nāgārjuna (founder of Madhyamaka)", type: "مفكر"
 - id: "thk-beck", title: "Aaron Timothy Beck", type: "مفكر"
 - id: "thk-lstevenhayes", title: "Steven C. Hayes", type: "مفكر"
-gaps:
-  - "Modern Arabic-language discussion of śūnyatā: not yet covered."
+gaps: []
 ---
 
 # Śūnyatā (Emptiness / Essential Nihility)
 
-A central concept in Madhyamaka philosophy, meaning emptiness, void, or the absence of intrinsic essence. The term already appears in early Buddhist texts (for example the Pali *Cūḷasuññata Sutta*) and in the Prajñāpāramitā sūtras, and was developed philosophically by Nāgārjuna. It is a common mistake to translate it as "nothingness," since the word does not mean the absence of existence but the absence of a fixed essence (svabhāva) in things.
+A central foundational concept in Madhyamaka philosophy and Mahayana Buddhism, *śūnyatā* (Sanskrit; Pali: *suññatā*) denotes "emptiness," "voidness," or the absence of intrinsic, independent nature (*svabhāva*). The term appears in early canonical Buddhist texts (such as the Pali *Cūḷasuññata Sutta*) and in the *Prajñāpāramitā* (Perfection of Wisdom) sūtras, but it received its definitive philosophical formulation through the dialectic of Nāgārjuna (c. 150–250 CE). Western and early comparative commentators often mistranslated it as "nothingness" or absolute non-existence; however, *śūnyatā* does not deny existence, but rather the metaphysical illusion of fixed, self-subsistent essences.
 
-## Dimensions
+## Philosophical Dimensions
 
-- The epistemological dimension: nothing has a self-subsistent intrinsic nature (svabhāva); everything that appears intrinsic is the result of conditions and relations. This is a critique of substantialism that predates John Locke, David Hume, and Nietzsche.
-- The two truths: things exist conventionally (saṃvṛti), but ultimately (paramārtha) they are empty of intrinsic existence. The two levels are not contradictory but two ways of describing the same reality. Nāgārjuna identifies dependent origination, emptiness and the middle way (*Mūlamadhyamakakārikā* 24.18).
-- The soteriological dimension: liberation is realizing the emptiness of things, so that attachment to them is cut. The concept of "reality as it is" (Tathata / Suchness) means that things are "thus," neither substantial nor nihilistic.
-- The metaphysical dimension: emptiness is itself empty of essence (Śūnyatā of Śūnyatā); so there is no first principle and no absolute self, and even emptiness does not rise above existence.
+- **The Epistemological and Ontological Dimension**: Nothing in empirical or mental reality possesses an independent, uncaused essence (*svabhāva*). Every phenomenon arises in dependence upon causes and conditions (*pratītyasamutpāda*). Because all entities are dependently co-arisen, they are devoid of intrinsic reality. Nāgārjuna famously declared the identity of dependent origination and emptiness in the *Mūlamadhyamakakārikā* (24.18): "Whatever is dependently co-arisen, that is explained to be emptiness. That, being a dependent designation, is itself the middle way."
+- **The Two Truths Doctrine (*Satyadvaya*)**: Nāgārjuna distinguishes between **conventional truth** (*saṃvṛti-satya*), under which empirical objects, language, and moral action operate coherently, and **ultimate truth** (*paramārtha-satya*), which reveals that all entities are empty of intrinsic nature. The two truths are not separate ontological worlds, but two ways of understanding the same reality: without conventional truth the ultimate cannot be taught, and without the ultimate liberation cannot be attained (MMK 24.10).
+- **The Emptiness of Emptiness (*Śūnyatā-śūnyatā*)**: To prevent emptiness from becoming a reified metaphysical principle or absolute substance, Nāgārjuna stressed that emptiness is itself empty. It is a pedagogical remedy (*upāya*) designed to extinguish dogmatic conceptual fixation, not a thesis. In MMK 13.8, Nāgārjuna cautions: "The conquerors have proclaimed that emptiness is the relinquishing of all views; but those for whom emptiness is itself a view are said to be incurable."
+- **Soteriological Dimension**: Realizing *śūnyatā* cuts through the root of suffering (*dukkha*), which stems from craving and attachment to illusions of fixed identity and substantial ego (*ātman*).
 
-## Prasaṅgika and Svātantrika
+## Methodological Divisions: Prāsaṅgika and Svātantrika
 
-In Tibetan classifications, Madhyamaka divides into two branches over method. The Prāsaṅgika approach (associated with Candrakīrti) argues by drawing out unwanted consequences (prasaṅga) from opponents' positions without asserting a thesis of its own. The Svātantrika approach (associated with Bhāviveka) holds that independent (svatantra) arguments are needed to establish emptiness. The Gelug school, following Tsongkhapa, treats Prāsaṅgika as the highest view. Both accept that things lack intrinsic nature, and scholars still dispute how deep the difference goes.
+Post-Nāgārjuna Madhyamaka divided into two major methodological branches in India and Tibet:
+- **Prāsaṅgika** (associated with Buddhapālita and Candrakīrti): Maintains that the philosopher must not assert any positive independent thesis (*svatantra*), but should demonstrate emptiness through *reductio ad absurdum* (*prasaṅga*), exposing the internal contradictions in opponents' substantialist claims. The Tibetan Gelug school (following Tsongkhapa) regards Prāsaṅgika as the supreme philosophical view.
+- **Svātantrika** (associated with Bhāviveka): Held that Madhyamaka thinkers should formulate autonomous, positive syllogistic arguments (*svatantra-anumāna*) to establish conventional validity and emptiness for rational dialogue.
 
-## Its Place in Comparative Philosophy
+## Modern Arabic-Language and Comparative Scholarship
 
-- Parmenides: Parmenides denied non-being and held that what is, is one and unchanging. Nāgārjuna also rejects absolute non-existence, but he rejects equally the idea of things with intrinsic, unchanging being, so the two positions differ sharply.
-- Daoism: Zhuangzi (4th century BCE) spoke of the "usefulness of the useless" (無用之用), and Daoist and Buddhist ideas of emptiness interacted historically in China. They differ, however, in their frameworks and aims, and the comparison should be made cautiously.
-- Apophatic theology: Pseudo-Dionysius the Areopagite (5th–6th century CE) described God as beyond both being and non-being. This is sometimes compared with the Madhyamaka refusal of fixed descriptions, although the theological and Buddhist contexts differ radically.
+Modern Arab scholarship addressed *śūnyatā* primarily through comparative mysticism and the philosophy of religion:
+- **Abu al-Ala Afifi and Abd al-Rahman Badawi**: In comparative studies on Eastern thought, Badawi clarified that *śūnyatā* is not nihilism (*al-'adamiyya*), but a critique of substantialist metaphysics (*jawhariyya*). Comparative scholars have juxtaposed Buddhist emptiness with Sufi concepts of *fanā'* (extinction of the ego) and *'adam* (ontological contingency). However, they noted a vital metaphysical distinction: in Islamic mysticism, *fanā'* dissolves phenomenal reality to affirm the transcendent, ultimate reality of God (*Allāh* as *al-Ḥaqq*), whereas Madhyamaka asserts that ultimate reality itself is devoid of substantial essence or divine substrate.
+- **Contemporary Epistemological Readings**: Modern Arab comparative philosophers (such as Ali Harb) have drawn parallels between Nāgārjuna's deconstruction of substantial essences (*dhawāt*) and postmodern deconstructive critiques of metaphysical foundationalism.
 
-## In Psychology
+## Contemporary Psychological Adaptations
 
-Contemporary psychology has drawn on Buddhist ideas, notably in mindfulness-based approaches and in Acceptance and Commitment Therapy (ACT), which speaks of "defusion" from thoughts (Hayes, Strosahl and Wilson, *Acceptance and Commitment Therapy*, 1999). Such approaches are modern adaptations that borrow themes of non-attachment and of seeing thoughts as events rather than facts. They are not equivalents of śūnyatā, which is a metaphysical and soteriological doctrine, and nothing here is a statement about the treatment of any condition.
-
-## Limit
-
-Equating śūnyatā with nothingness is a grave error. Nāgārjuna rejects both eternalism and nihilism (ucchedavāda), and he warns against turning emptiness itself into a view (*Mūlamadhyamakakārikā* 13.8). He also says that one should not describe the ultimate as "empty," "non-empty," "both" or "neither," except as a provisional designation (22.11), which is a use of the fourfold negation (catuṣkoṭi). Śūnyatā takes a strict meaning in Tsongkhapa (Gelug school): things lack inherent existence yet exist conventionally as dependent. In East Asian Chan/Zen, emptiness is closely tied to direct awakening and is understood as a practical realization, not as nihilism.
+In modern cognitive and behavioral psychology, Buddhist mindfulness principles have influenced third-wave therapies, notably Acceptance and Commitment Therapy (ACT; Steven C. Hayes et al., 1999) and Mindfulness-Based Cognitive Therapy (MBCT). In ACT, "cognitive defusion" trains individuals to observe thoughts as transient verbal events rather than objective truths, drawing on non-attachment. Clinically, these therapies adapt attentional techniques; they do not adopt the metaphysical doctrine of *śūnyatā*, and therapeutic screening instruments should not be confused with Buddhist philosophical realization.
 
 ## Sources
 
-- Nāgārjuna, *Mūlamadhyamakakārikā* (Fundamentals of the Middle Way), c. 2nd century CE; translated by Jay L. Garfield as *The Fundamental Wisdom of the Middle Way*, Oxford University Press, 1995.
+- Nāgārjuna, *Mūlamadhyamakakārikā*, translated by Jay L. Garfield as *The Fundamental Wisdom of the Middle Way*, Oxford University Press, 1995.
 - Mark Siderits and Shōryū Katsura, *Nāgārjuna's Middle Way: Mūlamadhyamakakārikā*, Wisdom Publications, 2013.
 - Rupert Gethin, *The Foundations of Buddhism*, Oxford University Press, 1998.
+- Paul Williams, *Mahāyāna Buddhism: The Doctrinal Foundations*, 2nd ed., Routledge, 2008.
+- Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson, *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*, Guilford Press, 1999.

@@ -7,7 +7,7 @@ level: "متوسط"
 title: "The Mu'tazila"
 en: "Mu'tazila"
 crumb: "Philosophy ← Schools ← The Mu'tazila"
-dates: "Iraq (Basra and Baghdad) · approximately from the 8th century CE to the 9th century CE"
+dates: "Iraq (Basra and Baghdad) · approximately from the 8th century CE to the 11th century CE"
 country: "Abbasid realm (Iraq, Khurasan)"
 language: "Arabic"
 active_start: 720
@@ -45,7 +45,7 @@ They gave priority to reason in primary knowledge, holding that rational inquiry
 ## Leading figures of the two schools
 
 - **Basra**: Abu Ali al-Jubba'i (d. 303 AH) and his son Abu Hashim (d. 321 AH), then Judge Abd al-Jabbar al-Hamadhani (d. 415 AH), author of *al-Mughni fi Abwab al-Tawhid wa-l-Adl*, and Abu al-Husayn al-Basri (d. 436 AH).
-- **Baghdad**: Bishr ibn al-Mu'tamir (d. 210 AH), Abu Musa al-Mirdar, Abu al-Husayn al-Khayyat, and Abu al-Qasim al-Balkhi al-Ka'bi.
+- **Baghdad**: Bishr ibn al-Mu'tamir (d. 210 AH), Abu Musa al-Murdar, Abu al-Husayn al-Khayyat, and Abu al-Qasim al-Balkhi al-Ka'bi.
 - **Exegesis**: al-Zamakhshari (d. 538 AH) in *al-Kashshaf*, which is regarded as the best-known Mu'tazili exegesis still in circulation.
 
 ## The inquisition and the decline of power

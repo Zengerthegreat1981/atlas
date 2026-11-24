@@ -20,123 +20,61 @@ gaps: []
 ---
 # Acute Stress Disorder
 
-A mental disorder that appears after exposure to a traumatic or life-threatening event (whether by direct experience, as a witness, or by learning that it occurred to a close person). It is characterized by a group of symptoms: reliving the event (flashbacks), avoidance, hypervigilance, emotional numbing, and dissociation. The disorder lasts from 3 days to one month after the event.
+Acute Stress Disorder (ASD) is a clinical syndrome that can develop following direct exposure to, witnessing, or learning of an actual or threatened traumatic event (such as death, severe injury, or sexual violence). It is characterized by severe psychological and physiological reactions spanning intrusive re-experiencing, persistent avoidance of trauma reminders, negative mood, marked hyperarousal, and dissociative symptoms. In diagnostic manuals, ASD is distinguished by strict temporal parameters: symptoms emerge within days following the traumatic exposure and persist for a minimum of 3 days up to a maximum of one month.
 
 ## Clinical Ceiling
 
-This entry, like the other entries of the type 'disorder/clinical condition' in this atlas, describes the official diagnostic category as it appears in DSM-5-TR and ICD-11 descriptively only. It offers no diagnostic assessment of any individual, and no substitute for a direct clinical assessment by a qualified specialist who verifies the criteria of duration, severity, and functional impact.
+This entry outlines the official diagnostic criteria, taxonomic distinctions, and evidence-based interventions for Acute Stress Disorder descriptively as documented in DSM-5-TR and ICD-11. It does not provide clinical evaluation for individuals, nor does it replace comprehensive psychiatric or psychological assessment by a qualified mental health professional.
 
-## Relation to the Corresponding Philosophical Concept
+## Taxonomic Distinctions: DSM-5-TR vs. ICD-11
 
-Acute stress disorder, as a diagnostic category with strict duration criteria (3 days to one month), must not be confused with 'psychological trauma' as treated in psychoanalytic accounts (con-trauma). The latter is a concept of the defensive splitting of the psyche when trauma exceeds the child ego's capacity to bear it, with no time limits or numerical symptom criteria, whereas ASD is a procedural clinical category defined by diagnostic thresholds.
+A fundamental structural divergence exists between the two major psychiatric classification systems regarding early post-traumatic reactions:
+- **DSM-5-TR (F43.0)**: Classifies Acute Stress Disorder as a formal psychiatric condition within the chapter on *Trauma- and Stressor-Related Disorders*. Diagnosis requires meeting Criterion A (traumatic exposure) and exhibiting at least 9 of 14 symptoms across five categories (intrusion, negative mood, dissociation, avoidance, and arousal) persisting between 3 days and 1 month, accompanied by significant distress or functional impairment.
+- **ICD-11 (QE84)**: Does not categorize acute reactions to trauma as a mental disorder within Chapter 06. Instead, it classifies **Acute Stress Reaction** under Chapter 24 (*Factors influencing health status or contact with health services*, code QE84). The ICD-11 conceptualizes acute stress responses as normal, transient physiological and psychological adaptations to overwhelming stress that typically subside within days, rather than an inherent psychological disorder.
 
-## Notes on the Diagnostic Criteria
+## Procedural Diagnosis vs. Psychoanalytic Trauma Concepts
 
-DSM-5-TR requires exposure to actual or threatened death, serious injury, or sexual violence (criterion A), with the presence of 9 or more of 14 symptoms drawn from five categories (intrusion, negative mood, dissociation, avoidance, and arousal). The symptoms last from 3 days to one month after the trauma. ASD is presented as an intermediate disorder between the normal stress response and PTSD.
+Acute Stress Disorder must not be conflated with psychodynamic formulations of psychological trauma (see con-trauma). Psychodynamic and existential models conceptualize trauma as an enduring rupture of the ego's defenses or a collapse of the assumptive world, operating without artificial time windows or strict symptom tallies. Conversely, ASD is a descriptive, time-limited operational construct designed specifically to identify acute impairment and individuals at elevated risk for subsequent chronic Post-Traumatic Stress Disorder (PTSD).
 
-ICD-11 does not classify "Acute stress reaction" within Chapter 6 (mental disorders) at all, but places it under code QE84 in the chapter on factors influencing health status or contact with health services, treating it as an expected response to an extreme stressor rather than as a mental disorder, unlike DSM-5-TR, which treats it as an official diagnosis (F43.0) within the chapter on Trauma- and Stressor-Related Disorders. This classificatory difference itself, and not merely a difference in time period, is the essence of the difference between the two systems here.
+## Symptom Clusters
 
-## Core Symptoms
+Under DSM-5-TR, symptomatic manifestations are distributed across five primary clusters:
+- **Intrusive Symptoms**: Involuntary, recurrent, and intrusive distressing memories, traumatic nightmares, or dissociative flashback reactions where the individual feels or acts as if the traumatic event were recurring.
+- **Negative Mood**: Persistent inability to experience positive emotions (such as happiness, satisfaction, or affection).
+- **Dissociative Symptoms**: An altered sense of the reality of one's surroundings or self (e.g., depersonalization, derealization, feeling in a daze, or time slowing) and dissociative amnesia (inability to recall important aspects of the trauma).
+- **Avoidance Symptoms**: Active, effortful avoidance of distressing memories, thoughts, feelings, or external reminders (people, places, conversations, activities) associated with the event.
+- **Arousal Symptoms**: Sleep disturbances, irritability or angry outbursts, hypervigilance, concentration difficulties, and an exaggerated startle response.
 
-- **Reliving the event (Intrusion)**: flashbacks, nightmares, intrusive thoughts about the event.
-- **Avoidance**: avoiding places, people, and situations that remind one of the event.
-- **Emotional numbing**: a feeling of emptiness, distance from others, loss of interest.
-- **Hyperarousal**: excessive vigilance, startle response, disturbed sleep, poor concentration.
-- **Dissociation**: a feeling of estrangement, loss of the sense of identity or reality.
+## Overview of Clinical Management and Prevention
 
-## Overview of Clinical Management
+### Phase 1: Psychological First Aid and Immediate Safety
+- Establishing immediate physical protection, safety, and shelter.
+- Attending to basic physiological needs and medical stabilization.
+- Delivering empathetic, non-intrusive emotional support and practical assistance.
+- Normalizing acute physiological reactions as understandable responses to overwhelming stress.
+- Conducting systematic risk assessments for self-harm or suicidal ideation.
 
-### Stage 1: Immediate Stabilization and Safety
+### Phase 2: Evidence-Based Psychological Interventions
+- **Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)**: Randomized clinical trials (Bryant et al., 1998, 2016) establish brief trauma-focused CBT (incorporating psychoeducation, gradual imaginal and in vivo exposure, cognitive restructuring of trauma appraisals, and emotional regulation skills) as the premier evidence-based treatment for acute stress disorder, significantly reducing the subsequent incidence of chronic PTSD.
+- **Adjunctive Distress-Tolerance and Mindfulness Strategies**: Elements from Acceptance and Commitment Therapy (ACT) and Dialectical Behavior Therapy (DBT) distress tolerance skills (e.g., sensory grounding, paced breathing, and mindful cognitive defusion) serve as practical adjuncts to manage acute physiological surges without avoiding processing.
 
-- Ensuring physical and psychological safety.
-- Meeting basic needs (shelter, food, rest).
-- Building a safe therapeutic relationship.
-- Assessing suicide risk.
-- Offering reassurance and normalization (the response to trauma is normal and treatable).
+### Phase 3: Pharmacotherapy (Adjunctive and Conservative)
+- Clinical consensus guidelines do not recommend routine pharmacotherapy as a first-line treatment for acute stress disorder.
+- **Caution Regarding Benzodiazepines**: Controlled studies and meta-analyses indicate that early administration of benzodiazepines is contraindicated; they do not prevent PTSD and may interfere with natural emotional processing and memory extinction.
+- **Symptom-Targeted Pharmacotherapy**: Qualified physicians may consider short-term, judicious pharmacological agents primarily for severe, intractable insomnia or comorbid agitation.
 
-### Stage 2: Early Psychological Intervention
+### Phase 4: Long-Term Monitoring and Transition to PTSD
+- Systematic reassessment is warranted when symptoms persist beyond one month from the traumatic event. If full diagnostic criteria continue to be met past the 30-day threshold, the clinical diagnosis shifts to Post-Traumatic Stress Disorder (PTSD).
 
-- **Trauma-focused cognitive behavioral therapy**: the approach with the best trial evidence for people diagnosed with ASD (Bryant and colleagues), typically combining psychoeducation, exposure, and cognitive restructuring.
-- **Other trauma-focused approaches** (for example cognitive processing therapy or EMDR) are used mainly in PTSD; their evidence specifically in ASD is more limited.
+## Clinical Contraindications
 
-### Stage 3: Medication (Limited Role)
-
-- No medication has an established role as a first-line early treatment for ASD; any prescribing is a clinical decision for a qualified clinician, aimed at accompanying conditions such as severe anxiety, depression, or insomnia.
-- Benzodiazepines are generally not recommended in the early aftermath of trauma, since some evidence suggests they may impede recovery.
-- Agents aimed at reducing memory consolidation (such as propranolol) remain investigational, with mixed results.
-
-### Stage 4: Preventing the Development of PTSD
-
-- Close monitoring of how long symptoms persist after one month from the event.
-- In trials with people meeting ASD criteria, brief trauma-focused CBT has been associated with lower rates of later PTSD than supportive counseling (Bryant et al., 1998).
-- If symptoms persist for more than a month, reassessment for PTSD is needed.
-
-## Associated Techniques by School and Stage
-
-### Cognitive Behavioral Therapy (CBT): The Accepted First Line
-
-- **Cognitive restructuring**: challenging thoughts of guilt, self-blame, and distorted risk estimation.
-- **Socratic questioning**: "What made me exposed to the trauma? Could I have prevented it?"
-- **The downward arrow technique**: exploring the core beliefs linked to the trauma.
-- **Deep breathing**: calming the nervous system.
-- **Progressive muscle relaxation**: managing physical tension.
-- **Grounding techniques**: returning to the present during flashbacks or dissociation.
-- **Mindfulness meditation**: developing nonjudgmental awareness of the body and thoughts.
-- **Self-compassion exercises**: confronting shame and guilt.
-- **Crisis survival planning**: drawing up written safety plans.
-- **Behavioral contracting**: agreements about safety and treatment.
-
-### Acceptance and Commitment Therapy (ACT): A Supportive Alternative
-
-- **Labeling thoughts**: "I notice a thought that I will be harmed again."
-- **Grounding in the five senses**: returning to the present through the senses.
-- **Radical acceptance**: accepting distress and trauma without trying to suppress them.
-
-### Dialectical Behavior Therapy (DBT): An Important First Line
-
-- **TIPP**: immediate crisis control (temperature, exercise, breathing, relaxation).
-- **Self-soothing with the five senses**: dealing with memory reliving and acute anxiety.
-- **STOP**: a crisis technique to halt impulsive behavior (such as severe avoidance or self-harm behaviors).
-- **IMPROVE**: improving distress tolerance.
-- **Coping ahead for trauma triggers**: preparing for difficult situations before they occur.
-
-## Common Comorbid Disorders
-
-- **PTSD**: the most important development; a substantial proportion of people with ASD go on to develop PTSD (reported figures vary widely across studies), although many people who develop PTSD never met ASD criteria.
-- **Depression**: common after trauma.
-- **Anxiety disorders**: GAD, phobia, panic disorder.
-- **Substance use**: as a way of coping with symptoms.
-- **Sleep disorders**: insomnia, nightmares.
-- **Dissociation and dissociative disorders**: common in ASD.
-
-## Cultural Notes
-
-- The trauma response is culturally shaped: expressions of distress may be bodily, emotional, or religious in form.
-- The concept of "collective trauma" is important in Arab contexts (wars, displacement, disasters).
-- Social and family support is an important protective factor, but it may be disrupted in displacement contexts.
-- Treatment must respect the patient's religious and cultural framework.
-
-## When to Seek Specialized Help
-
-- Severe symptoms after exposure to a traumatic event.
-- Symptoms persisting for more than 3 days.
-- Severe dissociation or recurrent flashbacks.
-- Thoughts of harming oneself or others.
-- Complete disruption of daily life.
-- Severe anxiety about returning to routine.
-
-## Limits and Risks
-
-- ASD may develop into PTSD; close monitoring is necessary.
-- Benzodiazepines in the early period are generally discouraged, since some evidence suggests they may impede recovery.
-- Single-session psychological debriefing is not recommended, as it has not been shown to prevent PTSD.
-- ASD must be distinguished from the normal stress response, and ASD from psychotic disorders.
-- In low-resource contexts, there is difficulty accessing specialized treatment.
+- **Single-Session Psychological Debriefing**: Routine mandatory critical incident stress debriefing (CISD) applied immediately after trauma is contraindicated; empirical systematic reviews (Rose et al., 2002) indicate it does not reduce PTSD incidence and may inadvertently increase psychological distress.
+- **Premature Cathartic Exposure**: Forcing an acutely traumatized individual to recount sensory trauma details before stability, safety, and emotional containment are secured risks secondary retraumatization.
 
 ## Sources
 
-- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. APA.
-- World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
+- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. American Psychiatric Association Publishing.
+- World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. World Health Organization.
 - Bryant, R. A. (2016). *Acute Stress Disorder: What It Is and How to Treat It*. Guilford Press.
-- Bryant, R. A., Friedman, M. J., Spiegel, D., Ursano, R., & Strain, J. (2011). A review of acute stress disorder in DSM-5. *Depression and Anxiety*, 28(9), 802-817.
-- Bryant, R. A., Harvey, A. G., Dang, S. T., Sackville, T., & Basten, C. (1998). Treatment of acute stress disorder: A comparison of cognitive-behavioral therapy and supportive counseling. *Journal of Consulting and Clinical Psychology*, 66(5), 862-866.
+- Bryant, R. A., Harvey, A. G., Dang, S. T., Sackville, T., & Basten, C. (1998). Treatment of acute stress disorder: A comparison of cognitive-behavioral therapy and supportive counseling. *Journal of Consulting and Clinical Psychology*, 66(5), 862–866.
+- Rose, S. C., Bisson, J., Churchill, R., & Wessely, S. (2002). Psychological debriefing for preventing post traumatic stress disorder (PTSD). *Cochrane Database of Systematic Reviews*, (2), CD000560.

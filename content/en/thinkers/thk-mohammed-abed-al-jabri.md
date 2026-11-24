@@ -14,7 +14,7 @@ active_start: 1980
 active_end: 2010
 edges:
 - rel: "belongs_to", target: "Islamic Critical Thought", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 # Mohammed Abed al-Jabri

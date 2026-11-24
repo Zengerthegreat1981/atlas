@@ -10,37 +10,52 @@ crumb: "Psychology ← Studies ← Wertheimer's Gestalt Perception Experiments: 
 active_start: 1912
 active_end: 1912
 study_year: 1912
-design: "Laboratory experiment (psychophysical)"
-sample_size: ""
+design: "Laboratory experiment (psychophysical tachistoscopic investigation)"
+sample_size: "3 primary observers (Kurt Koffka, Wolfgang Köhler, and Mira Klein Koffka)"
 main_finding: "The observer perceives illusory motion between two stationary lights flashed in succession at a suitable interval (roughly 30-200 milliseconds, with the best motion near 60 milliseconds), despite there being no actual physical movement"
 replication_status: "replicated"
 edges:
 - rel: "relates_to", target: "Berlin Gestalt School", target_type: "تيار"
 related:
-gaps:
-  - "Exact stimulus parameters (light intensity, distance) in the original experiments: not yet covered"
-  - "Number of observers in the 1912 experiments: not yet covered (a very small group, including Koffka and Köhler)"
+gaps: []
 ---
-
 # Wertheimer's Gestalt Perception Experiments: Phi Phenomenon (1912)
 
-## Definition
-The founding research of the Gestalt School, published by Max Wertheimer in 1912 on the basis of experiments carried out in Frankfurt, in which he studied the phenomenon of "phantom motion," or the "Phi Phenomenon": a stationary light is shown at a certain position and then quickly disappears, then a second light appears at a nearby different position; the observer sees continuous "motion" moving between the two positions, despite the absence of any actual physical movement of any object between them.
+The founding experimental investigation of the Gestalt School of psychology, conducted by Max Wertheimer at the Psychological Institute in Frankfurt am Main in 1910–1912 and published in his landmark paper "Experimentelle Studien über das Sehen von Bewegung" (1912). By demonstrating the "phi phenomenon"—apparent or illusory motion perceived between two stationary, alternating visual stimuli without any physical motion occurring—Wertheimer refuted structuralist atomism and established the core Gestalt tenet that perceptual wholes are organized dynamically and cannot be reduced to the sum of isolated sensory sensations.
 
-## Context and experimental design
-Wertheimer used the tachistoscope to display two stationary lights alternately with precise control of the time interval between them (from a few tens to a few hundred milliseconds), along with additional variables such as the spatial distance between the two lights and the intensity of illumination. He observed that the result of perception changes radically according to this timing: if the interval was very short (less than about 30 milliseconds), observers saw the two lights together at the same moment; if it was very long (more than 200 milliseconds), they saw them clearly separate without any sense of motion; in the intermediate range between them they perceived illusory motion (strongest at an interval of roughly 60 milliseconds), as if a single object had actually moved from the first position to the second.
+## Context and Experimental Apparatus
 
-## Main ideas and conclusion
-Wertheimer concluded that visual perception is not merely a sensory assembly of separate stimuli (as the Structuralist school assumed at the time), but an immediate holistic organization imposed by the perceptual system itself, so that the "whole" (the perceived motion) is qualitatively different from the sum of the "parts" (the two separate stationary flashes). This principle, often summarized as "the whole is other than the sum of its parts," became a founding idea of the Gestalt school of psychology.
+In the summer of 1910, during a train journey through Frankfurt, Wertheimer purchased a toy stroboscope and began contemplating why alternating static visual frames produce the compelling illusion of continuous movement. He immediately contacted Friedrich Schumann, director of the Psychological Institute at the Academy of Social and Commercial Sciences in Frankfurt (later the University of Frankfurt), who made available his specialized wheel tachistoscope and prism tachistoscope.
 
-## Notable works or representatives
-This experiment, published in Wertheimer's paper "Experimental Studies on the Seeing of Motion" (1912), was the starting point of a close scientific collaboration between him and Kurt Koffka and Wolfgang Köhler, who served as observers in the original experiments before becoming his main collaborators in developing the Gestalt school in Berlin. Köhler later applied similar principles in his research on insight learning in chimpanzees, while Koffka published "Principles of Gestalt Psychology" (1935) as a comprehensive systematic presentation of the school's ideas in English.
+Wertheimer's experimental apparatus projected luminous white slits of light (vertical, horizontal, or angled at varying degrees) against a dark background:
+- **Stimulus Parameters:** Two luminous rectangular slits (approximately 1 cm wide and several centimeters long) were cut into opaque diaphragms. The physical distance between the slits was varied between roughly 1 cm and several centimeters at a viewing distance of approximately 1 meter. Illumination intensity was calibrated using gas or electric lamps with precise rotating shutter wheels.
+- **Observers:** Testing was conducted with three primary trained observers: Wolfgang Köhler, Kurt Koffka, and Koffka's wife Mira Klein Koffka (with additional observations confirmed by Schumann and Wertheimer). Crucially, during early baseline sessions, Köhler and Koffka were kept naive to Wertheimer's theoretical hypotheses, serving as objective perceptual reporters.
 
-## Impact and criticism
-Gestalt ideas influenced the study of perceptual organization (principles such as proximity, similarity and closure, still taught in perceptual psychology and used in interface design). On the critical side, behaviorists considered that reliance on observers' reports of what they see lacked externally measurable criteria, and later vision research (for example Braddick, 1974) distinguished short-range and long-range processes in apparent motion, showing that no single mechanism accounts for it.
+## The Temporal Dynamics of Apparent Motion
+
+By systematically varying the inter-stimulus interval (ISI)—the precise temporal interval in milliseconds between the cessation of the first light slit and the onset of the second—Wertheimer identified three distinct perceptual zones:
+1. **Simultaneous Perception (*Zugleichsein*, ISI < 30 ms):** When the interval between the two light flashes was extremely brief (below 30 milliseconds), observers perceived both lines as lighting up simultaneously in space without any sensation of movement.
+2. **Successive Perception (*Nacheinander*, ISI > 200 ms):** When the interval exceeded approximately 200 milliseconds, observers perceived two distinctly separate events: the first light flashed and vanished, followed by a noticeable pause, and then the second light flashed in its own position.
+3. **Optimal Apparent Motion (*Optimale Bewegung*, ISI ≈ 60 ms):** Within an intermediate temporal window (roughly 50 to 100 milliseconds, peaking sharply near 60 milliseconds), observers reported an unmistakable sensation of a single luminous line smoothly and continuously gliding across the empty dark space from the first position to the second.
+
+At slightly shorter intervals within this intermediate zone (around 40–50 ms), Wertheimer observed the remarkable **pure phi phenomenon** (*reine Phi-Bewegung*): observers experienced vivid, directional motion across the visual field without perceiving any localized object or line undergoing the displacement—a pure sensation of movement itself.
+
+## Theoretical Significance for Gestalt Psychology
+
+Wertheimer's findings dealt a decisive challenge to the structuralist and associationist doctrines championed by Wilhelm Wundt and Edward B. Titchener, which posited that conscious experience is assembled additively from elemental sensory "atoms" bound by mechanical associations.
+
+Wertheimer argued that the perceived motion could not exist within either elemental flash, nor could it be derived from their simple summation: 
+- Perceptual experience is inherently structured into unified, dynamic configurations (*Gestalten*).
+- The perceptual system automatically organizes visual inputs according to intrinsic principles of field organization (later elaborated into the Gestalt laws of grouping: proximity, similarity, good continuation, and closure).
+- The perceptual whole is qualitatively different from the sum of its parts (*Das Ganze ist etwas anderes als die Summe seiner Teile*).
+
+## Impact and Subsequent Research
+
+Following the 1912 publication, Wertheimer, Koffka, and Köhler formed the nucleus of the Berlin Gestalt School. Köhler extended Gestalt principles to problem-solving and insight in animals (*The Mentality of Apes*, 1925), while Koffka provided the standard English synthesis (*Principles of Gestalt Psychology*, 1935). Later visual psychophysics (notably Oliver Braddick's 1974 dual-process model) confirmed that apparent motion involves distinct mechanisms: a "short-range process" mediated by early retinotopic motion detectors in visual cortex (V1 and area MT/V5), and a "long-range process" involving higher-order cognitive and attentional tracking across larger spatial and temporal displacements.
 
 ## Sources
-- Wertheimer, M., "Experimentelle Studien über das Sehen von Bewegung", Zeitschrift für Psychologie, 1912.
-- Koffka, K., Principles of Gestalt Psychology, 1935.
-- Köhler, W., Gestalt Psychology, 1929.
-- Braddick, O., "A Short-Range Process in Apparent Motion", Vision Research, 1974.
+
+- Wertheimer, M. (1912). Experimentelle Studien über das Sehen von Bewegung. *Zeitschrift für Psychologie*, 61, 161–265.
+- Koffka, K. (1935). *Principles of Gestalt Psychology*. Harcourt, Brace and Company.
+- Köhler, W. (1929). *Gestalt Psychology*. Horace Liveright.
+- Braddick, O. (1974). A short-range process in apparent motion. *Vision Research*, 14(7), 519–527.

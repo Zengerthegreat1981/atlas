@@ -19,34 +19,39 @@ related:
 - id: "con-transference", title: "Transference and Countertransference in the Therapeutic Relationship", type: "مفهوم"
 gaps: []
 ---
-
 # Intersubjectivity
 
-A central concept in intersubjective theory, referring to the "shared field" between two subjectivities, formed during the therapeutic encounter, neither preceding it nor reducible to the world of either party.
+Intersubjectivity refers to the psychological, experiential, and communicative space co-created between two subjectivities. Within psychoanalysis and developmental psychology, it designates the principle that individual minds cannot be comprehended as isolated entities; rather, psychological experience is fundamentally relational and continuously constituted within a dynamic, shared experiential field.
 
-## What the concept defines
+## Theoretical Foundations in Psychoanalysis
 
-Intersubjectivity, in the sense developed by Stolorow, Atwood and Orange, is the shared "experiential field" between therapist and patient. This field forms moment by moment, and neither party can be understood in isolation from the other. The concept rejects "ego-centeredness" in favor of "field-centeredness."
+Intersubjective systems theory in psychoanalysis was formulated by Robert D. Stolorow, George E. Atwood, and Bernard Brandchaft in the late 1970s and 1980s, later expanded with Donna Orange. Moving beyond Freud's "isolated mind" cartography and drive theory, the intersubjective perspective posits that the therapeutic encounter consists of an indissoluble psychological field formed by the intersecting subjectivities of analyst and analysand. Psychological phenomena—including transference, resistance, and emotional development—are seen not as isolated internal processes originating solely within the patient, but as emergent properties of this interactive system.
 
-## Difference from neighboring concepts
+Stolorow and Atwood conceptualize the mind through "invariants of organizing principles"—unconscious patterns that shape how a person experiences themselves and the world. These organizing principles are continually confirmed or modified within relational contexts.
 
-- **It differs from Kohut's "selfobject"**: the selfobject is a function that another person serves for the individual's sense of self, whereas intersubjectivity is a "field" that belongs to neither party alone.
-- **It differs from classical "transference"**: transference is a "projection" from past to present, whereas intersubjectivity is a "co-experience" of the present.
-- **It differs from "intersubjective relation" in Husserl**: in philosophy, intersubjectivity = awareness of the other "as a self like my self," whereas in intersubjective psychoanalysis = the shared experiential field.
+## Developmental Dimensions
 
-## Its place in the school
+Beyond clinical psychoanalysis, intersubjectivity represents a central paradigm in developmental psychology:
+- **Primary Intersubjectivity**: Pioneered by Colwyn Trevarthen, this refers to the innate, dyadic emotional communication between infant and caregiver emerging in the first months of life. It is manifested in mutual gaze, protoconversations, and rhythmic vocal and facial mimicry without reference to external objects.
+- **Secondary Intersubjectivity**: Emerging around nine to ten months of age, this involves a triadic coordination of attention between the infant, the caregiver, and an external object or event. It underpins joint attention, pointing, and social referencing.
+- **Affect Attunement**: Daniel Stern (1985) detailed how caregivers match the emotional contour, intensity, and rhythm of an infant's inner feeling states rather than merely imitating external behavior, providing the infant with the foundational experience of psychological communion.
 
-A founding concept of intersubjective theory in psychoanalysis, a link between Kohut's self psychology and phenomenological philosophy (Husserl, Heidegger). Robert Stolorow and George Atwood developed the approach from the late 1970s and early 1980s, with Bernard Brandchaft and later Donna Orange; Stolorow's later work drew explicitly on Heidegger's account of being-in-the-world.
+## Distinctions from Neighboring Concepts
 
-## The limitation
-The concept of "intersubjectivity" is sometimes vague and is used loosely in the literature. Its inclusion here is for the "narrow" analytic-phenomenological version, not for everyday usage.
+- **Distinction from Kohut's Selfobject**: In Heinz Kohut's self psychology, a selfobject is an external person experienced as serving psychological functions (such as mirroring or idealizing) that sustain the integrity of the self. Intersubjectivity, by contrast, focuses on the reciprocal, bidirectional field that encompasses both individuals simultaneously.
+- **Distinction from Classical Transference**: Classical psychoanalysis views transference as a distortion or projection of the patient's past onto a neutral analyst. Intersubjective theory treats transference as the patient's continuous organization of experience within an ongoing relationship where the analyst's subjective reactions actively influence the interaction.
+- **Distinction from Phenomenological Intersubjectivity**: In Edmund Husserl's phenomenology (notably the fifth of his *Cartesian Meditations*), intersubjectivity addresses the epistemological constitution of the objective world and the recognition of the other as an intentional *alter ego*. Psychoanalytic intersubjectivity shifts this philosophical inquiry into an empirical, clinical investigation of co-constructed emotional experience.
 
-## Impact and critique
+## Clinical Impact and Critiques
 
-Intersubjective theory influenced the redefinition of the psychoanalyst's position: he or she is no longer a "neutral observer" interpreting from the outside, but an active party in the shared experiential field, which brings the school closer to relational psychoanalysis (Relational Psychoanalysis) of Stephen Mitchell and others. Criticism was directed at the theory from within classical psychoanalysis, to the effect that it dissolves the concept of the "individual unconscious" into the shared "field," and thereby weakens the sharpness of the concept of internal conflict as Freud formulated it. Some critics also hold that the vagueness of the "field's" boundaries makes it hard to refute the theory's hypotheses empirically, unlike approaches that are more amenable to clinical examination. Nevertheless, the theory helped shift clinical attention from "what is inside the patient" to "what happens between" therapist and patient moment by moment, which later influenced other therapeutic schools that treat the therapeutic relationship as an agent of change in itself rather than merely a neutral framework for interpreting the patient's content.
+In clinical practice, intersubjective theory fundamentally transformed the posture of the therapist. The analyst is no longer conceptualized as an objective, detached interpreter of the patient's intrapsychic pathology, but as an active coparticipant who inevitably influences the emotional dynamics of the session. This stance converged with Stephen Mitchell's relational psychoanalysis.
+
+Critiques of intersubjectivity arise primarily from classical psychoanalytic theorists, who argue that overemphasizing the interactive field risks dissolving the concept of the autonomous intrapsychic unconscious and minimizing the intrapsychic conflicts, fantasies, and biological drives described by Freud. Additionally, researchers note that the construct of the "intersubjective field" can be conceptually amorphous and difficult to operationalize for controlled empirical investigation. Nonetheless, the framework remains a pillar of contemporary psychodynamic thought.
 
 ## Sources
 
-- Robert D. Stolorow, Bernard Brandchaft and George E. Atwood, *Psychoanalytic Treatment: An Intersubjective Approach*, 1987.
-- Robert D. Stolorow and George E. Atwood, *Contexts of Being: The Intersubjective Foundations of Psychological Life*, 1992.
-- Donna M. Orange, George E. Atwood and Robert D. Stolorow, *Working Intersubjectively: Contextualism in Psychoanalytic Practice*, 1997.
+- Atwood, G. E., & Stolorow, R. D. (1984). *Structures of Subjectivity: Explorations in Psychoanalytic Phenomenology*. The Analytic Press.
+- Orange, D. M., Atwood, G. E., & Stolorow, R. D. (1997). *Working Intersubjectively: Contextualism in Psychoanalytic Practice*. The Analytic Press.
+- Stern, D. N. (1985). *The Interpersonal World of the Infant: A View from Psychoanalysis and Developmental Psychology*. Basic Books.
+- Stolorow, R. D., Brandchaft, B., & Atwood, G. E. (1987). *Psychoanalytic Treatment: An Intersubjective Approach*. The Analytic Press.
+- Trevarthen, C. (1979). "Communication and cooperation in early infancy: A description of primary intersubjectivity". In M. Bullowa (Ed.), *Before Speech: The Beginning of Interpersonal Communication* (pp. 321–347). Cambridge University Press.

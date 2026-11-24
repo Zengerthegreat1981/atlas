@@ -20,33 +20,49 @@ related:
 - id: "thk-jung", title: "Carl Gustav Jung", type: "مفكر"
 - id: "br-jungian", title: "Jungian Analysis", type: "تيار"
 - id: "ins-mbti", title: "Myers-Briggs Type Indicator", type: "أداة قياس"
-gaps:
-  - "Collective unconscious and shadow as standalone entries: not yet covered"
-  - "The Zurich succession after Jung's death in 1961 (the split between 'classical' and 'developmental' orientations): not yet covered"
+gaps: []
 ---
 
 # Analytical Psychology
 
-A school founded by the Swiss psychiatrist **Carl Gustav Jung** (1875-1961) after his break with Sigmund Freud, which culminated at the Fourth Munich Psychoanalytic Congress in 1913, after which Jung resigned the presidency of the International Psychoanalytical Association (IPA), which he had held since 1910, in 1914. Jung deliberately chose the name "Analytische Psychologie" to distinguish his school from Freudian "Psychoanalyse". He rejected confining psychic motivation to sexual libido, as Freud did, and proposed instead the broader concept of "psychic energy" (Psychische Energie).
+Analytical Psychology (*Analytische Psychologie*) is the theoretical and clinical school founded by the Swiss psychiatrist **Carl Gustav Jung** (1875-1961). The school emerged following Jung's decisive intellectual break with Sigmund Freud, which crystallized after the Fourth International Psychoanalytic Congress in Munich in 1913. Jung resigned his position as editor of the *Jahrbuch* in 1913 and stepped down from the presidency of the International Psychoanalytical Association (IPA) in 1914. Jung adopted the title "Analytical Psychology" to distinguish his conceptualization of the psyche from Freudian psychoanalysis, rejecting Freud's exclusive reduction of psychic energy (*libido*) to sexual drive in favor of a generalized, undifferentiated psychic energy.
 
-## Core Assumptions
+## The Architecture of the Psyche and Core Concepts
 
-The school rests on three central concepts formulated by Jung: (1) the **collective unconscious** (Kollektives Unbewusstes), a layer of the unconscious shared among human beings, containing the **archetypes** (Archetypen) such as the Great Mother, the Shadow, and the Anima/Animus; Jung's break with Freud was precipitated by *Symbols of Transformation* (Wandlungen und Symbole der Libido, 1911-1912), which first questioned Freud's view of libido; the terms "collective unconscious" and "archetype" were developed in his later writings. (2) **Individuation**, a lifelong process of psychic integration in which the individual incorporates the contents of the unconscious into consciousness, which Jung elaborated in works such as *The Relations between the Ego and the Unconscious* (1928). (3) **Psychological types**, the dichotomy of introversion/extraversion combined with four psychological functions (thinking, feeling, intuition, sensation), which he set out in his book *Psychological Types* (Psychologische Typen, 1921). This is the theoretical basis on which the Myers-Briggs Type Indicator (MBTI) was later built by Katharine Briggs and her daughter Isabel Myers in the 1940s, without direct participation by Jung himself.
+Jung conceptualized the human psyche as a self-regulating system comprising multiple interdependent layers:
 
-## Development and Institutions
+1. **The Ego and Consciousness**: The focal center of conscious identity, volition, and adaptation to external reality.
+2. **The Personal Unconscious and Complexes**: Subconscious psychic material consisting of forgotten, repressed, or subliminally perceived experiences. These cluster around emotionally charged thematic nucleations known as *complexes* (e.g., mother complex, power complex), a formulation Jung developed during his early Word Association Experiments at the Burghölzli psychiatric hospital.
+3. **The Collective Unconscious and Archetypes**: The deepest, transpersonal substrate of the psyche, shared across the human species. It contains inherited, universal predispositions to form symbolic images and mythological motifs, designated as *archetypes* (*archetypus*). Among the major archetypes are:
+   - **The Shadow**: The repressed, disowned, or unacknowledged aspects of the personality, representing animal instincts as well as unintegrated creative potential.
+   - **The Persona**: The social facade and adaptive mask mediating between the individual ego and society.
+   - **The Anima and Animus**: The contra-sexual archetypal figures representing the internal feminine image in a man's psyche and the masculine image in a woman's psyche.
+   - **The Self**: The archetype of psychic wholeness, central organization, and the totality of the conscious and unconscious mind.
+4. **Individuation and the Transcendent Function**: The lifelong developmental teleological process whereby an individual integrates the contents of the unconscious into consciousness, reconciling psychological opposites through the *transcendent function* to realize personal wholeness.
+5. **Psychological Typology**: Set forth in *Psychologische Typen* (1921), Jung categorized personality attitudes into *Introversion* and *Extraversion*, intersected by four fundamental psychological functions: two rational judging functions (*Thinking* and *Feeling*) and two irrational perceiving functions (*Sensation* and *Intuition*). This model provided the conceptual foundation for subsequent psychometric typologies, notably the Myers-Briggs Type Indicator (MBTI).
 
-Jung founded the Analytical Psychology Club in Zurich in 1916, and the C. G. Jung Institute in Zurich was formally established in 1948 for training and research. The school expanded internationally with the founding of the International Association for Analytical Psychology (IAAP) in 1955. It later split into sub-currents, most notably **Archetypal Psychology**, developed by James Hillman in the 1970s. Hillman criticized Jung's classical tendency toward an excessive "humanization" of the psyche and called for a return to a symbolic polytheism in place of a monistic individuation.
+## Institutionalization and the Post-Jungian Succession
 
-## Current Status
+Jung helped establish the Psychological Club of Zurich in 1916, followed by the formal founding of the C. G. Jung Institute in Zurich in 1948 to oversee clinical training and research. In 1955, the International Association for Analytical Psychology (IAAP) was founded to accredit training societies worldwide.
 
-The school maintains an institutional presence through training institutes and societies affiliated with the IAAP in many countries. Its wider influence outside the clinic, in the study of comparative religion, literature, and art criticism, exceeds its direct clinical influence when compared with Freudian psychoanalysis or cognitive-behavioral approaches.
+Following Jung's death in 1961, the analytical psychology movement diversified. As analyzed by Andrew Samuels (1985), the field split into three primary post-Jungian orientations:
+- **The Classical School**: Associated with the Zurich Institute and figures such as Marie-Louise von Franz, Edward Edinger, and Gerhard Adler. It adheres closely to Jung's original texts, emphasizing archetypal symbols, individuation, and the centrality of the Self.
+- **The Developmental School**: Centered in London (represented by Michael Fordham and the Society of Analytical Psychology). It integrated Jungian concepts with British object relations theory (such as Melanie Klein and Donald Winnicott), placing clinical emphasis on childhood ego development, transference analysis, and infantile mechanisms in the analytic setting.
+- **The Archetypal School**: Initiated by James Hillman in the 1970s. Hillman rejected what he perceived as the monotheistic and spiritualizing tendencies of the Classical school, advocating a "polytheistic" psychology centered on soul-making, aesthetic imagination, and honoring autonomous mythological images (*imaginal psyche*).
 
-## Criticism
+## Clinical Methods and Dialogue
 
-The school has historically been accused of lacking empirical falsifiability in its concept of the collective unconscious, an argument advanced by psychoanalytic and empirical critics alike: there is no empirical way to test the existence of biologically inherited "archetypes" apart from their circular symbolic interpretation. Suspicion has also attached to Jung's personal relationship with the Nazi movement in the early 1930s (his presidency of the International General Medical Society for Psychotherapy from 1933 to 1940), a point of historical controversy on which historians of psychology have not reached consensus regarding his actual intentions.
+Jungian clinical practice employs dream analysis, active imagination (a method of meditating on unconscious imagery and engaging it in dialogue through writing, sculpting, or drawing), and the analysis of transference and countertransference. Rather than viewing neurotic symptoms purely mechanistically as causes from the past, Analytical Psychology interprets symptoms teleologically—asking what purpose or balance the symptom seeks to achieve for the individual's future development.
+
+## Scientific Criticism and Controversies
+
+Analytical psychology has faced significant empirical and historical critiques:
+- **Empirical Falsifiability**: Critics from mainstream experimental psychology and psychoanalysis argue that the collective unconscious and archetypal transmissions lack empirical testability, relying on post-hoc circular symbolic interpretations.
+- **Historical and Political Controversies**: Jung's tenure as president of the International General Medical Society for Psychotherapy (1933–1940) and his contemporary editorial writings in the *Zentralblatt für Psychotherapie* generated intense controversy and allegations of political accommodation during the rise of National Socialism, issues extensively addressed by historical scholarship (e.g., Shamdasani, 2003).
 
 ## Sources
 
-- Jung, C. G. *Psychologische Typen*. Rascher Verlag, 1921.
-- Jung, C. G. *Wandlungen und Symbole der Libido*. Franz Deuticke, 1912.
-- Shamdasani, Sonu. *Jung and the Making of Modern Psychology*. Cambridge University Press, 2003.
+- Jung, C. G. (1921). *Psychologische Typen*. Rascher Verlag.
+- Jung, C. G. (1952). *Symbole der Wandlung* (4th rev. ed.). Rascher Verlag.
+- Samuels, A. (1985). *Jung and the Post-Jungians*. Routledge & Kegan Paul.
+- Shamdasani, S. (2003). *Jung and the Making of Modern Psychology: The Dream of a Science*. Cambridge University Press.

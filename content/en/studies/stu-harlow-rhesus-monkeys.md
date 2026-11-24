@@ -18,8 +18,7 @@ edges: []
 related:
 - id: "sch-developmental", title: "Developmental Psychology", type: "مدرسة"
 - id: "stu-lorenz-imprinting", title: "Lorenz's Experiments on Imprinting, Early Attachment and the Critical Period", type: "دراسة وبحث"
-gaps:
-  - "Neurodevelopmental consequences of early deprivation in monkeys: not yet covered"
+gaps: []
 ---
 
 
@@ -47,8 +46,14 @@ Harry Harlow conducted his experiments at the University of Wisconsin-Madison at
 
 Harlow's results coincided with John Bowlby's independent research in London on human attachment, and gave him and later Mary Ainsworth strong animal experimental support for the idea that attachment is a primary need in itself and not a secondary result of feeding. Along with studies of institutional care and hospitalization, they added to pressure for child-care practices in hospitals and orphanages that gave more attention to warm physical contact and emotional needs.
 
+## Neurodevelopmental Consequences of Early Deprivation
+
+Subsequent research by Harlow, Stephen Suomi, Gary Kraemer, and later developmental neurobiologists examined the enduring biological sequelae of early social and maternal deprivation in rhesus macaques. Monkeys reared in total social isolation or with surrogate mothers exhibited profound alterations in brain maturation and neuroendocrine functioning. Early social deprivation produces chronic dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis, characterized by blunted or hyperreactive cortisol responses to novel stressors. Longitudinal neurochemical assays also documented persistent deficits in central serotonergic and dopaminergic neurotransmission, correlating with stereotyped repetitive movements, hyper-aggression, self-injurious biting, and an inability to decode peer social cues. These findings demonstrated that sensory and affectional contact during early sensitive periods is required for the neurobiological organization of neural circuits regulating affect and stress tolerance.
+
 ## Sources
 
 - Harlow, H. F. (1958). The nature of love. *American Psychologist, 13*(12), 673-685.
 - Harlow, H. F., & Zimmermann, R. R. (1959). Affectional responses in the infant monkey. *Science, 130*(3373), 421-432.
+- Kraemer, G. W. (1992). A psychobiological theory of attachment. *Behavioral and Brain Sciences, 15*(3), 493-511.
+- Suomi, S. J. (1997). Early determinants of behaviour: Evidence from primate studies. *British Medical Bulletin, 53*(1), 170-184.
 - Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment*. Basic Books.

@@ -9,7 +9,7 @@ en: "John Bowlby"
 crumb: "Psychology ← Thinkers ← John Bowlby"
 dates: "England · 1907–1990"
 active_start: 1944
-active_end: 1988
+active_end: 1990
 country: "United Kingdom"
 language: "English"
 register: "academic"

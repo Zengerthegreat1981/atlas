@@ -27,42 +27,66 @@ gaps: []
 
 ## The Central Thesis
 
-*The Book of Healing (Kitab al-Shifa')* is a philosophical encyclopedia written by **Ibn Sina** (980–1037) in stages, roughly between 1020 and 1027 (the dating of the individual parts is uncertain), and its thesis is that all the theoretical sciences are a single continuous system that begins from the instrument of demonstration and ends with the Necessary Being. **It is not a medical book** — medicine for Ibn Sina is in the *Canon of Medicine*, and confusing the two titles is a common error caused by "al-Shifa'" being a word apparently medical, while what is meant by it is the healing of the soul from ignorance.
+*The Book of Healing* (*Kitab al-Shifa'*, Latin: *Sufficientia*) is the monumental philosophical encyclopedia composed by the Persian polymath Abu Ali al-Husayn ibn Abd Allah ibn Sina (Avicenna, 980–1037 CE) between roughly 1020 and 1027 CE. Its fundamental thesis is that the totality of theoretical knowledge forms a unified, demonstrative continuum: starting from the formal canons of logic, passing through the observation of physical nature and the proportions of mathematics, and culminating in the metaphysical demonstration of the Necessary Existent (*Wajib al-Wujud*) and the celestial emanation of being.
+
+A common popular misconception confuses *al-Shifa'* with a medical manual due to the title's literal meaning. However, Avicenna's medical masterpiece is *The Canon of Medicine* (*al-Qanun fi al-Tibb*). As Avicenna explicitly noted in his preface, *al-Shifa'* is titled "The Healing" because it aims to heal the rational human soul from the mortal sickness of ignorance through demonstrative philosophical wisdom.
 
 ## Structure of the Work
 
-Four "sums" (*jumal*):
+The encyclopedia is organized into four expansive divisions (*jumal*), covering the full curriculum of late antique and Islamic Peripatetic (*Mashsha'i*) philosophy:
 
-1. **Logic** — nine parts in the order of the expanded Organon as received by the Peripatetics, so that it includes the *Rhetoric* and the *Poetics* alongside the *Categories*, *On Interpretation*, the *Syllogism*, *Demonstration*, *Dialectic*, and *Sophistics*, headed by the *Introduction* (Isagoge).
-2. **Natural Sciences** — eight parts: the *Physics* (natural hearing), *On the Heavens and the World*, *On Generation and Corruption*, *Actions and Passions*, *Minerals and Meteorological Phenomena*, *On the Soul*, *Plants*, *Animals*.
-3. **Mathematics** — four: geometry on the principles of Euclid, arithmetic, music, and astronomy on Ptolemy's Almagest.
-4. **Metaphysics** — ten treatises, containing the demonstration from possibility to the Necessary Being, the distinction between existence and essence, and the emanation of multiplicity from the One.
+1. **Logic (*al-Mantiq*)**: Structured into nine treatises corresponding to the late antique Alexandrian expanded Aristotelian Organon:
+   - *al-Madkhal* (Porphyry's *Isagoge*)
+   - *al-Maqulat* (Aristotle's *Categories*)
+   - *al-'Ibara* (*De Interpretatione*)
+   - *al-Qiyas* (*Prior Analytics* / The Syllogism)
+   - *al-Burhan* (*Posterior Analytics* / Demonstration)
+   - *al-Jadal* (*Topics* / Dialectic)
+   - *al-Safsata* (*Sophistical Refutations*)
+   - *al-Khitaba* (*Rhetoric*)
+   - *al-Shi'r* (*Poetics*)
+2. **Natural Philosophy / Physics (*al-Tabi'iyyat*)**: Eight treatises covering the physical cosmos:
+   - *al-Sama' al-Tabi'i* (*Physics* / General Principles of Nature)
+   - *al-Sama' wa-l-'Alam* (*On the Heavens and the World*)
+   - *al-Kawn wa-l-Fasad* (*On Generation and Corruption*)
+   - *al-Af'al wa-l-Infi'alat* (*Actions and Passions*)
+   - *al-Ma'adin wa-l-Athar al-'Ulwiyya* (*Minerals and Meteorology*)
+   - *Kitab al-Nafs* (*De Anima* / On the Soul)
+   - *al-Nabat* (*On Plants*)
+   - *al-Hayawan* (*On Animals*)
+3. **Mathematics (*al-Riyadiyyat*)**: Four parts:
+   - Geometry (an epitome and commentary on Euclid's *Elements*)
+   - Arithmetic (grounded in the Neo-Pythagorean arithmetic of Nicomachus of Gerasa)
+   - Music (mathematical acoustics and modal theory)
+   - Astronomy (based on Ptolemy's *Almagest*)
+4. **Metaphysics (*al-Ilahiyyat*)**: Ten books investigating being qua being (*al-mawjud bima huwa mawjud*), the real distinction between essence (*mahiyya*) and existence (*wujud*), the contingency of the created world, the Proof of the Sincere (*Burhan al-Siddiqin*) demonstrating God as the Necessary Being by virtue of Himself, divine providence (*'inaya*), and the celestial hierarchy of intelligences.
 
-## Historical Context: The Manuscript and the Editions
+## Historical Composition and Transmission
 
-There is no "publication context" for a work of the eleventh century, but a history of copying. *Al-Shifa'* was written during Ibn Sina's travels between Hamadan and Isfahan, and was preserved in varying copies in which the order of the parts varies. In **Toledo** in the twelfth century the translation of parts of it into Latin began: the *Natural Sciences/On the Soul* under the name *Liber de anima seu Sextus de naturalibus* by **Avendauth (Ibn Dawud)** and **Dominicus Gundissalinus**, and the Metaphysics under the name *Liber de philosophia prima*. The authoritative critical edition today is the **Cairo edition** supervised by **Ibrahim Madkour** and whose parts were produced by editors including **Georges Anawati** and **Sa'id Zayed** — and the *Metaphysics* of it was issued in **1960**. **Fazlur Rahman** produced the *Book of the Soul* in its Arabic text at Oxford in **1959**.
+Avicenna composed *al-Shifa'* in turbulent circumstances while in the service of the Kakuyid ruler Ala al-Dawla, traveling between Hamadan and Isfahan. Sections were often drafted during evenings following state duties or while in hiding during military campaigns.
 
-## Psychology: Why This Particular Book
+In twelfth-century Toledo, Spain, Archbishop Raymond sponsored the translation of key sections of *al-Shifa'* into Latin. The philosophical translation team of **Dominicus Gundissalinus** and **Avendauth** (the Jewish philosopher Abraham ibn Daud) translated the psychological book as *Liber de anima seu Sextus de naturalibus* and major parts of the Metaphysics as *Liber de philosophia prima*. These translations ignited the thirteenth-century intellectual revival in Western Europe, becoming foundational authorities for **Albertus Magnus**, **Thomas Aquinas**, and **John Duns Scotus**. In particular, the ontological distinction between essence and existence that underpins Aquinas's *De Ente et Essentia* (c. 1256) was directly adopted from Avicenna's *Ilahiyyat*.
 
-The place of *al-Shifa'* in the atlas of the soul is not its metaphysics but the *Book of the Soul* within the Natural Sciences. In it:
+## Psychological Foundation: The Internal Senses and the Flying Man
 
-- **The internal senses** are arranged and enumerated: common sense, the retentive imagination, the compositive imagination, estimation (wahm), and memory — this detailing is an Avicennian expansion on what is in Aristotle's *De Anima*, not a transmission from it.
-- **Estimation (wahm)** as an independent faculty that perceives the non-sensible "intentions" in particulars, which is the term that passed into Latin as *aestimatio*.
-- **The Flying Man**: a thought experiment in which a human being is supposed created fully formed, suspended in the air with no touch, no sight, and no contact among his limbs, who does not affirm a body for himself and yet affirms his self — an argument that self-awareness is not derived from the body. Ibn Sina repeated the same argument in *al-Isharat wa al-Tanbihat*.
+The primary psychological significance of *al-Shifa'* resides in the *Kitab al-Nafs* (Book VI of Natural Philosophy), which became the cornerstone of medieval Islamic and Latin faculty psychology:
+- **Taxonomy of the Internal Senses (*al-hawas al-batina*)**: Avicenna systematized Aristotle's scattered remarks into a coherent neuropsychological model of five distinct internal faculties located in the brain:
+  1. *Common Sense (al-hiss al-mushtarak / sensus communis)*: Integrates disparate external sensory impressions (color, sound, texture) into a unified perceptual object.
+  2. *Retentive Imagination (al-khayal / formativa)*: Stores the sensible forms received by the common sense after the external object is no longer present.
+  3. *Compositive Imagination (al-mutakhayyila / imaginatio)*: Actively combines and divides stored images (termed *al-mufakkira* or the cogitative faculty when directed by the rational intellect).
+  4. *Estimative Faculty (al-wahm / aestimatio)*: Intuitively perceives non-sensible, immaterial intentions (*ma'ani*) inhering in particulars—such as the sheep perceiving the dangerous hostility in a wolf or a mother perceiving affection in her child.
+  5. *Memory and Recollection (al-dhakira / memoria)*: Stores and retrieves the non-sensory intentions perceived by the *wahm*.
+- **The Flying Man Argument (*al-Rajul al-Mu'allaq*)**: Avicenna formulated a celebrated thought experiment to demonstrate the immateriality and self-subsistence of the soul. He asked the reader to imagine a human being created all at once in adulthood, completely formed, and suspended in an absolute void or air. The individual's eyes are covered, the limbs are separated so that they do not touch, and no sensory stimulus reaches the body. Avicenna demonstrated that even while completely deprived of bodily sensations, sensory perception, and limb awareness, this person would maintain an unmediated, immediate awareness of their own existence and selfhood (*dhatuhu*). This proved that the human soul is an immaterial substance fundamentally distinct from the physical body, anticipating René Descartes's *cogito* by six centuries.
 
-## Reception and Criticism
+## Historical Reception and Critiques
 
-- **Al-Ghazali (d. 1111)** made Ibn Sina's metaphysics the target of *The Incoherence of the Philosophers* (1095), and declared him an unbeliever on three questions, among them the eternity of the world, the denial of bodily resurrection, and God's knowledge of particulars in a universal way.
-- **Ibn Rushd (d. 1198)** replied to al-Ghazali in *The Incoherence of the Incoherence*, but at the same time he is an adversary of Ibn Sina and not an ally: he opposed the Avicennian distinction between existence and essence and counted it an imposition on Aristotle.
-- In Latin, *Avicenna* became a basic authority for **Albertus Magnus** and **Thomas Aquinas**; and the distinction between being and essence on which Aquinas built *De Ente et Essentia* (about 1256) reaches him through Ibn Sina and not through Aristotle.
-- Ibn Sina himself summarized the material of *al-Shifa'* in *al-Najat*, so that the latter became readers' entry to it.
-
-## Why It Is Included in the Atlas
-
-Because it is the first source for the classification of the internal senses and for estimation in the Arabic heritage, and because the **Flying Man** is the earliest systematic formulation of the argument of self-awareness independent of the body in this heritage, so that it is read as a precedent for questions of consciousness and the self and not merely a text in the history of philosophy.
+- **Al-Ghazali (d. 1111)** made Avicenna's metaphysics in *al-Shifa'* the primary target of his polemic *The Incoherence of the Philosophers* (*Tahafut al-Falasifa*, 1095), issuing a fatwa of heresy on three specific points: the pre-eternal existence of the world, God's knowledge of particulars only in a universal manner, and the denial of bodily resurrection in the afterlife.
+- **Averroes (Ibn Rushd, d. 1198)** in *Tahafut al-Tahafut* defended philosophy against al-Ghazali, but simultaneously criticized Avicenna for deviating from Aristotle by treating existence as an accidental property added to essence and introducing Neo-Platonic emanationist schemes into Peripatetic ontology.
+- Avicenna later produced a concise summary of *al-Shifa'* entitled *al-Najat* (*The Book of Salvation*), which served as an accessible textbook for subsequent generations of students.
 
 ## Sources
 
-- Ibn Sina, *al-Shifa': al-Ilahiyyat*, edited by **Georges Anawati and Sa'id Zayed**, supervised by **Ibrahim Madkour**, Cairo: General Organization for Government Printing Offices, 1960 — the authoritative critical edition.
-- Ibn Sīnā, *Avicenna's De Anima (Arabic Text): Being the Psychological Part of Kitāb al-Shifāʾ*, ed. **Fazlur Rahman**, London: Oxford University Press, 1959.
-- Avicenna, *The Metaphysics of The Healing*, trans. **Michael E. Marmura**, Provo: Brigham Young University Press, 2005 — an English translation facing the Arabic text.
+- Ibn Sina (1952–1983). *al-Shifa'*. General editor Ibrahim Madkour; *al-Ilahiyyat* edited by G. C. Anawati and S. Zayed (1960); *al-Mantiq* (multiple vols.). Cairo: General Organization for Government Printing Offices.
+- Ibn Sina (1959). *Avicenna's De Anima (Arabic Text): Being the Psychological Part of Kitab al-Shifa'*. Ed. Fazlur Rahman. London: Oxford University Press.
+- Avicenna (2005). *The Metaphysics of The Healing*. Trans. Michael E. Marmura. Provo: Brigham Young University Press.
+- Gutas, D. (2014). *Avicenna and the Aristotelian Tradition: Introduction to Reading Avicenna's Philosophical Works* (2nd rev. ed.). Leiden: Brill.

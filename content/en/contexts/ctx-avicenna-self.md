@@ -14,8 +14,7 @@ edges:
   - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "ctx-arabic-self", title: "The Self in Arabic-Islamic Intellectual Heritage", type: "سياق/تقليد"
-gaps:
-  - "Direct review of the Arabic text of the psychology of al-Shifa' against the secondary literature: not yet covered."
+gaps: []
 ---
 
 # Avicenna and Kitab al-Nafs
@@ -33,6 +32,17 @@ Avicenna divides the powers of the soul into three ascending ranks: the vegetati
 ## The Flying Man
 
 Kitab al-Nafs contains one of the most famous thought experiments in philosophy: the Flying Man. Imagine a person created all at once, suspended in air, limbs separated so they do not touch, senses cut off from the outside world — and yet, Avicenna argues, such a person would still affirm their own existence. The experiment is meant to show that self-awareness does not depend on awareness of the body, and many readers take it to point to the soul as a self-aware substance independent of matter. The argument deserves careful comparison with Descartes' cogito, which it anticipates by six centuries, but without assuming identity between the two: Avicenna seeks to establish the substantiality of the soul, not a first certainty on which all knowledge can be rebuilt. Separately, Avicenna argues for the soul's immateriality and its survival after the body's death on the ground that the apprehension of universal intelligibles cannot take place in a divisible organ.
+
+## The Arabic Text of Kitab al-Nafs and Secondary Scholarship
+
+The Arabic text of *Kitab al-Nafs* constitutes the sixth treatise (*al-Fann al-Sadis*) of the Natural Philosophy (*al-Tabi'iyyat*) of Avicenna's *al-Shifa'*. Across its five constituent discourses (*maqalat*), Avicenna systematically organizes psychological inquiry:
+1. **Treatise 1**: Establishes the definition of the soul as the "first perfection of a natural body possessing organs" (*kamal awwal li-jism tabi'i ali*), addresses its faculties, and introduces the Flying Man thought experiment (reiterated in 5.7).
+2. **Treatise 2**: Analyzes the vegetative powers (*al-quwa al-nabatiyya*) and the five external senses.
+3. **Treatise 3**: Investigates the mechanics of vision and optics, systematically refuting mathematical extramission theories (*khuruj al-shu'a'*) in favor of physical intromission (*intiba'*).
+4. **Treatise 4**: Presents Avicenna's celebrated taxonomy of the internal senses (*al-hawass al-batinah*)—common sense (*al-hiss al-mushtarak*), formative imagination (*al-khayal* / *al-musawwira*), cogitative/compositive faculty (*al-mutakhayyila* / *al-mufakkira*), estimative intuition (*al-wahm*), and retentive memory (*al-hafiza* / *al-dhakira*)—mapping them to specific brain ventricles in dialogue with Galenic anatomy.
+5. **Treatise 5**: Establishes the rational soul (*al-nafs al-natiqa*), distinguishing theoretical and practical intellect, demonstrating the soul's immateriality and post-mortem incorruptibility, and analyzing intuitive prophetic intellect (*al-'aql al-qudsi*).
+
+Critical scholarship—from Fazlur Rahman's 1959 critical edition to studies by Michael Marmura (1986), Dag Nikolaus Hasse (2000), Dimitri Gutas (2014), and Jari Kaukua (2015)—highlights how Avicenna utilized rigorous Arabic philosophical terminology to transform Peripatetic functionalism into an original substantive, self-aware psychology.
 
 ## Key figures
 
@@ -53,5 +63,6 @@ The primary text is Kitab al-Nafs itself, available in Fazlur Rahman's 1959 edit
 - Hasse, D. N. (2000). *Avicenna's De Anima in the Latin West: The Formation of a Peripatetic Philosophy of the Soul 1160–1300*. The Warburg Institute.
 - Gutas, D. (2014). *Avicenna and the Aristotelian Tradition: Introduction to Reading Avicenna's Philosophical Works*, 2nd ed. Brill.
 - Marmura, M. E. (1986). Avicenna's "Flying Man" in Context. *The Monist*, 69, 383–395.
+- Kaukua, J. (2015). *Self-Awareness in Islamic Philosophy: Avicenna and Beyond*. Cambridge University Press.
 - Wisnovsky, R. (2003). *Avicenna's Metaphysics in Context*. Cornell University Press.
 - Fakhry, M. (2004). *A History of Islamic Philosophy*, 3rd ed. Columbia University Press.

@@ -18,33 +18,39 @@ design: "A review and synthesis paper presenting a series of short probabilistic
 sample_size: ""
 main_finding: "The human mind relies on three shortcut heuristic rules (representativeness, availability, anchoring and adjustment) to estimate probabilities under uncertainty, and that these rules produce systematic, predictable departures from the formal rules of probability."
 replication_status: "replicated"
-gaps:
-  - "Per-experiment sample sizes: not yet covered (the paper synthesizes several separate studies)"
+gaps: []
 ---
+
 # Kahneman and Tversky's Study of Heuristics and Biases (1974)
 
 A pivotal classic study that identified the three major heuristics the human mind resorts to in order to ease and shorten the process of thinking under uncertainty: representativeness, availability, and anchoring and adjustment, showing the systematic biases that result from them.
 
-## The three major biases
+## The Three Heuristics and Resulting Biases
 
-1. The availability heuristic (estimating risk by how easily examples come to mind, which makes people overestimate the probability of dying in a plane crash compared with a car accident, although the latter is statistically far more common). 2. The representativeness heuristic (judging probability by resemblance to a stereotype and neglecting base rates, as in the "Tom W." problem; the later "Linda" conjunction problem, reported in 1983, extended this work: people judge the probability that a person belongs to a category by how closely the description resembles the category's stereotype, ignoring its actual prevalence). 3. Anchoring and adjustment (being influenced by an initial number as a starting point, even when it is arbitrary, as in the wheel-of-fortune demonstration preceding estimates of the percentage of African countries in the United Nations).
+1. **Representativeness**: People evaluate the probability that an object or event A belongs to class B by the degree to which A resembles the stereotypical features of B. This leads to predictable biases, including the insensitivity to prior probability of outcomes (base-rate neglect), insensitivity to sample size (believing small samples mirror the population, the "law of small numbers"), misconceptions of chance (the gambler's fallacy), and insensitivity to predictability.
+2. **Availability**: People assess the frequency of a class or the probability of an event by the ease with which relevant instances come to mind. While availability often correlates with true frequency, it produces systematic errors driven by familiarity (e.g., estimating divorce or homicide rates from salient media coverage), salience, and ease of mental search or retrieval.
+3. **Anchoring and Adjustment**: When making quantitative estimates, people start from an initial baseline value (an "anchor") and make adjustments to yield a final answer. These adjustments are typically insufficient, biasing estimates toward the arbitrary starting point, even when the anchor is overtly random (such as a spinning wheel of fortune preceding estimates of African representation in the United Nations).
 
-## Significance for cognitive psychology
+## Experimental Samples and Problem Designs
 
-The paper launched the heuristics-and-biases research program. The later popular distinction between a fast, intuitive "System 1" and a slow, deliberate "System 2" (terms from Stanovich and West) was developed in Kahneman's *Thinking, Fast and Slow* (2011), not in the 1974 paper.
+Because the 1974 *Science* paper served as a theoretical synthesis of their early research program, it integrated findings across numerous discrete questionnaire studies conducted between 1971 and 1973. Rather than relying on a single uniform cohort, the authors administered brief probabilistic reasoning problems to independent samples of university students and researchers (primarily at the Hebrew University of Jerusalem and participants recruited through Oregon research institutes). Sample sizes typically ranged from 50 to 115 participants per experimental condition (for instance, 84 participants in the wheel-of-fortune anchoring experiment, and 80 to 100 participants per scenario in the base-rate and sample-size problems).
 
+## Significance for Cognitive Psychology
 
-## Replication status and methodological criticism
+The paper launched the heuristics-and-biases research program. The later popular distinction between a fast, intuitive "System 1" and a slow, deliberate "System 2" (terms from Keith Stanovich and Richard West) was popularized in Kahneman's *Thinking, Fast and Slow* (2011), not in the original 1974 paper.
 
-The availability and anchoring heuristics have been replicated consistently in hundreds of later studies across different fields and contexts. The representativeness heuristic itself is also stable, but one of its most famous applications, the "Linda fallacy" (conjunction fallacy), has been the subject of wide methodological debate; researchers such as Gerd Gigerenzer argued that part of the effect results from the wording of the question and the ambiguity of the word "probability" for participants, not from a purely inferential defect, and that the effect weakens or disappears when the wording is changed to frequencies instead of probabilities. The general framework of heuristics and biases is considered one of the most replicated research programs in cognitive psychology, with continuing debate over the size of some secondary effects, not over their existence.
+## Replication Status and Methodological Criticism
 
-## Historical context and the collaboration
+The availability and anchoring heuristics have been replicated consistently across hundreds of studies in psychology, finance, law, and medicine. The representativeness heuristic is also widely replicated, though specific formulations provoked debate. In particular, the conjunction fallacy ("Linda problem"), introduced in Kahneman and Tversky's 1983 follow-up paper, drew critique from Gerd Gigerenzer and ecological rationality theorists, who argued that observed errors often reflect conversational pragmatics or ambiguity in the mathematical term "probability," noting that presenting problems in frequentist formats ("how many out of 100") significantly improves normatively correct reasoning.
 
-This paper came as the culmination of years of collaboration between Daniel Kahneman and Amos Tversky at the Hebrew University in Jerusalem, which began in 1969 when they noticed that even trained researchers err systematically in judging probabilities when they rely on intuition rather than formal calculation. The paper, published in the journal Science in 1974 under the title "Judgment under Uncertainty: Heuristics and Biases", offered the first organized and concise presentation of an integrated research program that radically changed the assumptions of classical economics about the rationality of the economic agent, and directly paved the way for prospect theory five years later; Kahneman shared the 2002 Nobel Memorial Prize in Economic Sciences for this work, Tversky having died in 1996.
+## Historical Context and Collaboration
+
+This paper represented the culmination of collaborative work between Daniel Kahneman and Amos Tversky at the Hebrew University of Jerusalem, beginning in 1969. The paper, published in *Science* under the title "Judgment under Uncertainty: Heuristics and Biases," revolutionized behavioral economics by demonstrating that human departures from rational choice theory are systematic rather than random. Kahneman was awarded the 2002 Nobel Memorial Prize in Economic Sciences for this research (Tversky having passed away in 1996).
 
 ## Sources
 
-- Tversky, A., & Kahneman, D., "Judgment Under Uncertainty: Heuristics and Biases", Science, 1974.
-- Daniel Kahneman, Thinking, Fast and Slow, 2011.
-- Gigerenzer, G., "How to Make Cognitive Illusions Disappear: Beyond 'Heuristics and Biases'", European Review of Social Psychology, 1991.
-- Tversky, A., & Kahneman, D., "Extension Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment", Psychological Review, 1983.
+- Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124-1131.
+- Kahneman, D., Slovic, P., & Tversky, A. (Eds.). (1982). *Judgment under Uncertainty: Heuristics and Biases*. Cambridge University Press.
+- Tversky, A., & Kahneman, D. (1983). Extensional versus intuitive reasoning: The conjunction fallacy in probability judgment. *Psychological Review*, 90(4), 293-315.
+- Gigerenzer, G. (1991). How to make cognitive illusions disappear: Beyond "heuristics and biases". *European Review of Social Psychology*, 2(1), 83-115.
+- Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.

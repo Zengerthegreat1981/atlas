@@ -15,8 +15,7 @@ active_end: 1679
 edges:
 - rel: "belongs_to", target: "Social Contract Theory", target_type: "مدرسة"
 related:
-gaps:
-  - "Arabic translations of Leviathan and De Cive: not yet covered"
+gaps: []
 ---
 
 # Thomas Hobbes
@@ -47,6 +46,10 @@ Hobbes is among the founders of modern philosophy, and the opposite of Descartes
 
 Hobbes was criticized because his conception of human nature is pessimistic and reflects only one kind of person, because the state of nature is a logical hypothesis and not a historical fact, and because his solution by absolute sovereignty justifies tyranny and sets no limit on the ruler's authority except the preservation of the subjects' lives. Locke objected (Second Treatise, §93) that it is foolish to guard against polecats and foxes while thinking it safe to be devoured by lions. Scholars criticized the mechanical explanation of the mind as unable to explain intentionality and meaning. Finally, his relation to religion has remained ambiguous: he is accused of atheism because of his materialism, and he affirms in Leviathan an unconventional Christian theology, so readings contend over his position.
 
+## Arabic Translations
+
+Hobbes's masterwork *Leviathan* was translated into Arabic in a complete scholarly edition by Diana Habib Harb and Bushra Sa'b, edited and introduced by Ridwan al-Sayyid as *al-Livyathan: al-Usul al-Tabi'iyya wa al-Siyasiyya li-Sultat al-Dawla* (Abu Dhabi: Kalima, 2011). While *Leviathan* has received detailed commentary and translation into Arabic, *De Cive* (*On the Citizen*) has not received an authoritative standalone unabridged translation, circulating instead through partial extracts, university curricula, and analytical monographs on modern social contract theory (such as works by Imam Abd al-Fattah Imam).
+
 ## Major works
 
 - *The Elements of Law* (1640, published in 1650 in two books: *Human Nature* and *De Corpore Politico*).
@@ -64,6 +67,7 @@ Hobbes was criticized because his conception of human nature is pessimistic and 
 ## Sources
 
 - Hobbes, Thomas, *Leviathan*, London: Andrew Crooke, 1651.
+- Hobbes, Thomas, *al-Livyathan: al-Usul al-Tabi'iyya wa al-Siyasiyya li-Sultat al-Dawla*, trans. Diana Habib Harb and Bushra Sa'b, ed. Ridwan al-Sayyid, Abu Dhabi: Kalima, 2011.
 - Hobbes, Thomas, *Leviathan*, ed. Noel Malcolm, 3 vols., Oxford: Clarendon Press, 2012.
 - Tuck, Richard, *Hobbes*, Oxford: Oxford University Press, 1989.
 - Skinner, Quentin, *Reason and Rhetoric in the Philosophy of Hobbes*, Cambridge: Cambridge University Press, 1996.

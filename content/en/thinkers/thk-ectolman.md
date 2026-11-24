@@ -10,7 +10,7 @@ dates: "United States · 1886–1959"
 country: "United States"
 language: "English"
 part: "psychology"
-active_start: 1886
+active_start: 1918
 active_end: 1959
 edges:
 - rel: "belongs_to", target: "Behaviorism", target_type: "مدرسة"
@@ -18,59 +18,58 @@ related:
 - id: "thk-fskinner", title: "B. F. Skinner", type: "مفكر"
 - id: "thk-jwatson", title: "John B. Watson", type: "مفكر"
 - id: "stu-tolman-cognitive-maps", title: "Edward Tolman's study of cognitive maps and latent learning (1948)", type: "دراسة وبحث"
-gaps:
-  - "A sourced quotation from *Purposive Behavior in Animals and Men* (1932): not yet covered."
+gaps: []
 ---
 
 # Edward C. Tolman
 
-An American psychologist at the University of California, Berkeley, founder of "Purposive Behaviorism" and of the concept of "latent learning", and one of the pioneers who paved the way for cognitive psychology.
+Edward Chace Tolman (1886–1959) was an American psychologist and long-time professor at the University of California, Berkeley. As the founder of **purposive behaviorism** and the pioneer of the concepts of **latent learning** and **cognitive maps**, Tolman introduced cognitive constructs into experimental behaviorism, serving as a primary theoretical bridge between behaviorism and the cognitive revolution.
 
-## What he contributed
+## What He Contributed
 
-In *Purposive Behavior in Animals and Men* (1932) he formulated the theory of "purposive behaviorism": all behavior is goal-directed, so an animal or a human does not learn abstract stimulus-response associations but forms expectations about outcomes. In his study of "latent learning" (1930) he showed that rats learn in a maze even without reinforcement, and that motivation alone suffices to bring this learning out in performance. In "Cognitive Maps in Rats and Men" (1948) he formulated the concept of the "cognitive map", the internal representation of the environment. He also studied the hereditary basis of intelligence in rats.
+### Purposive and Molar Behaviorism
 
-## His place in the movement
+In his landmark treatise *Purposive Behavior in Animals and Men* (1932), Tolman challenged John B. Watson's strict mechanistic stimulus-response (S-R) behaviorism. Tolman argued that behavior cannot be understood by reducing it to muscle twitches and glandular secretions ("molecular behavior"). Instead, he insisted that psychology must study "molar behavior"—organized, goal-directed action characterized by purpose and cognitive expectations.
 
-He represented a critique from within behaviorism and a bridge toward cognitive psychology; he regarded himself as an implicit dissenter from Skinner and Hull, who adopted the pure stimulus-response (S-R) model, in favor of a dual model linking stimulus to stimulus (S-S).
+In *Purposive Behavior in Animals and Men* (1932, p. 12), Tolman stated:
+> "Behavior as a type of commerce with the environment can occur only in a whole organism... Behavior as such is a 'molar' phenomenon, as contrasted with the 'molecular' phenomena of physics and physiology."
 
-## The limitation
-He was criticized by proponents of the stimulus-response model (among them Guthrie, who in 1935 complained that Tolman left his rats "buried in thought" at the choice point without explaining how they act). Skinner's 1950 paper "Are Theories of Learning Necessary?" also objected to explanations in terms of hypothetical inner states, with Tolman's and Hull's constructs among its targets. Nevertheless he later influenced cognitive psychology, after having appeared for two decades to herald the decline of behaviorism.
+Tolman maintained that organisms do not learn automatic, blind motor chains; rather, they form expectations regarding "what leads to what" in their environment—an S-S (stimulus-stimulus) model of learning.
 
-## A political stand: the loyalty oath
-In 1950 Tolman refused to sign the "Loyalty Oath" that the administration of the University of California imposed on faculty members in the atmosphere of McCarthyism, and he was dismissed from his post along with a number of colleagues; they brought a case before the California Supreme Court, which later (1952) ruled the oath unconstitutional and restored them to their positions. One of the psychology buildings at Berkeley (Tolman Hall) was later named in his honor.
+### Latent Learning and Cognitive Maps
 
-## His major works
+Tolman established his theoretical positions through celebrated animal experiments:
+- **Latent Learning**: In a classic 1930 study with C. H. Honzik, three groups of rats ran a complex maze. The first group received food reward on every trial and steadily reduced errors. The second group received no food and showed minimal improvement. The third group received no food for the first ten days, then received food on day 11. Upon receiving food, the third group's errors dropped precipitously, immediately matching the performance of the continuously rewarded group. Tolman concluded that learning occurs continuously without reinforcement; reinforcement merely provides the motivation to *perform* what has already been learned.
+- **Cognitive Maps**: In "Cognitive Maps in Rats and Men" (1948) and maze experiments with Ritchie and Kalish (1946), Tolman trained rats in spatial mazes with winding paths. When the original path was blocked and multiple radial pathways were opened, rats systematically chose the direct shortcut pointing toward the physical location of the food. Tolman concluded that the animals had acquired an internal, field-like representation of spatial relationships—a "cognitive map"—rather than a rote sequence of left-right motor turns.
 
-*Purposive Behavior* (1932) · "Cognitive Maps in Rats and Men" (1948) · "Principles of Performance" (article in Psychological Review, 1955) · *Collected Papers* (1951).
+### Intervening Variables
 
-## Cognitive maps and latent learning in detail
+In his 1938 presidential address to the American Psychological Association ("The Determiners of Behavior at a Choice Point"), Tolman introduced the concept of **intervening variables**: unobservable, inferred internal states (such as expectations, hypotheses, and demands) that mediate between measurable independent variables (environmental stimuli, physiological deprivations) and observable dependent variables (behavioral responses). This operational methodology allowed psychologists to incorporate internal mental concepts without abandoning empirical rigor.
 
-Tolman began from an objection to the stimulus-response model: a rat that learns a maze does not memorize a chain of movements but learns "where" things are. In an experiment with Ritchie and Kalish (1946) he trained rats to reach food through a winding path, then blocked the path and offered radial paths; most of them chose the path that led directly toward the location of the food, which Tolman explained by saying that the rats had formed a "map" of the place and not merely a motor habit. As for latent learning, it was the experiment with Honzik (1930): one group of rats received food every time in the maze, one group did not receive it, and one group did not receive it until after ten days. When food was offered to the third group, its errors dropped in a rapid leap to the level of the first, as though it had learned without that showing in performance. He concluded that learning and performance are different things, and that incentive affects the display of learning and not its occurrence.
+## Academic Freedom and the Loyalty Oath
 
-## Intervening variables
+In 1950, during the height of the McCarthy era, the Regents of the University of California demanded that all faculty sign a non-communist loyalty oath. Tolman led faculty resistance, refusing to sign on principles of academic freedom and civil liberties. Dismissed alongside dozens of colleagues, Tolman spearheaded legal challenges resulting in the California Supreme Court's landmark 1952 decision in *Tolman v. Underhill*, which struck down the oath and reinstated the dismissed faculty. In recognition of his intellectual and moral leadership, UC Berkeley named its education and psychology building Tolman Hall in his honor.
 
-In his 1938 paper on "the determiners of behavior at a choice point" Tolman presented the concept of "intervening variables": hypothetical factors between stimulus and response (such as expectations and drives) that are inferred from observation and tied to controllable independent variables. This represented a middle path between strict behaviorism, which rejects everything internal, and introspection. Hull, Spence, and others adopted the concept, though they differed over its content.
+## Critical Debates and Scientific Reception
 
-## Later influence
+Tolman's work faced substantial contemporary criticism from orthodox behaviorists:
+- **Edwin Guthrie's Critique**: Guthrie (1935) famously observed that by attributing learning to inner cognitive maps and sign-gestalts without specifying precise response triggers, Tolman left his experimental rat "buried in thought" at the choice point.
+- **Skinner and Hull**: Clark Hull and B. F. Skinner criticized Tolman's constructs for lacking strict mathematical predictability or for reintroducing mentalistic fictions into a natural science of behavior.
 
-Tolman's ideas remained on the margins for decades and then returned forcefully with cognitive psychology. This showed in O'Keefe and Nadel's book *The Hippocampus as a Cognitive Map* (1978), which held that the hippocampus forms a spatial representation similar to what Tolman had described, and then in the discovery of "place cells", for which O'Keefe received the 2014 Nobel Prize together with May-Britt Moser and Edvard Moser. Thus the "cognitive map" became a concept tied to modern neuroscience after having seemed in its own time a theoretical speculation.
+Decades later, the emergence of cognitive psychology and cognitive neuroscience fully vindicated Tolman's hypotheses. John O'Keefe and Lynn Nadel (*The Hippocampus as a Cognitive Map*, 1978) identified the neural substrate of Tolmanian spatial representations in hippocampal "place cells," a discovery for which O'Keefe shared the 2014 Nobel Prize in Physiology or Medicine with May-Britt and Edvard Moser.
 
-## A brief biography
+## Major Works
 
-Tolman was born in 1886 and studied at the Massachusetts Institute of Technology and then at Harvard, where he received his doctorate in 1915. He visited Giessen in Germany in 1923, where he became acquainted with Gestalt psychology, from which he drew his interest in the organized whole. He worked at the University of California, Berkeley, from 1918 until his death in 1959, and its psychology building bears his name. He wrote *Drives Toward War* (1942) on the social drives behind war, a turn toward public issues consistent with his stand on the loyalty oath.
-
-## Further limits and criticism
-
-- His concept of "expectation" remained vaguely specified, and he did not set out a mathematical formulation open to precise testing, which Hull and his supporters held against him.
-- Some researchers explained the map experiments through simpler mechanisms, such as the rats' reliance on visual cues or guiding paths, so the explanations were not settled all at once.
-- The absence of a research program continuing after his death weakened the Tolman school before neuroscientific research brought it back.
+- *Purposive Behavior in Animals and Men* (1932).
+- "Introduction and Removal of Reward, and Maze Performance in Rats" (with C. H. Honzik, 1930).
+- "The Determiners of Behavior at a Choice Point" (1938).
+- "Studies in spatial learning. I. Orientation and the short-cut" (with B. F. Ritchie and D. Kalish, 1946).
+- "Cognitive Maps in Rats and Men" (1948).
 
 ## Sources
 
 - Tolman, E. C. (1932). *Purposive Behavior in Animals and Men*. New York: Century.
-- Tolman, E. C. (1948). "Cognitive Maps in Rats and Men." *Psychological Review*, 55(4), 189–208.
-- Tolman, E. C., & Honzik, C. H. (1930). "Introduction and Removal of Reward, and Maze Performance in Rats." *University of California Publications in Psychology*, 4, 257–275.
-- Tolman, E. C. (1938). "The Determiners of Behavior at a Choice Point." *Psychological Review*, 45(1), 1–41.
-- Tolman, E. C. (1955). "Principles of Performance." *Psychological Review*, 62(5), 315–326.
+- Tolman, E. C., & Honzik, C. H. (1930). "Introduction and removal of reward, and maze performance in rats." *University of California Publications in Psychology*, 4(19), 257–275.
+- Tolman, E. C. (1938). "The determiners of behavior at a choice point." *Psychological Review*, 45(1), 1–41.
+- Tolman, E. C. (1948). "Cognitive maps in rats and men." *Psychological Review*, 55(4), 189–208.
 - O'Keefe, J., & Nadel, L. (1978). *The Hippocampus as a Cognitive Map*. Oxford: Clarendon Press.

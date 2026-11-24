@@ -7,14 +7,13 @@ level: "متوسط"
 title: "Paradoxical Intention"
 en: "Paradoxical Intention"
 crumb: "Existential Psychotherapy ← Techniques and Interventions ← Paradoxical Intention"
-dates: null
-active_start: null
+dates: "Austria · from 1939"
+active_start: 1939
 active_end: "مستمر"
 edges: []
 related:
  - id: "con-anxiety-existential", title: "Anxiety (Cognitive and Neuroscientific)", type: "مفهوم"
-gaps:
- - "Recent controlled trial evidence for the technique: not yet covered"
+gaps: []
 ---
 
 # Paradoxical Intention
@@ -43,7 +42,7 @@ The technique is not suitable for every case or every kind of anxiety, and it mu
 
 ## Evidence and influence
 
-The evidence base is thin but not empty: the Ascher and Turner insomnia study, the small studies reviewed in the insomnia literature, and a long clinical literature of case reports. The technique's influence, however, extends beyond its own trials. Its logic — that the attempt to control a symptom can maintain it — reappears in later work on ironic processes of mental control and in acceptance-based approaches, which likewise treat struggle against an experience as part of the problem. Paradoxical intention remains the most vivid single illustration of Frankl's therapeutic stance: that the patient is not the symptom, and can take a position toward it.
+While early empirical validation relied on single-case series and the landmark randomized trial by Ascher and Turner (1979) in sleep-onset insomnia, subsequent research has evaluated paradoxical intention primarily within the framework of cognitive-behavioral therapy for insomnia (CBT-I). Systematic reviews and clinical practice guidelines by the American Academy of Sleep Medicine (Morin et al., 1999, 2006; Morgenthaler et al., 2006) designate paradoxical intention as an empirically supported psychological intervention for chronic primary insomnia. By instructing patients to remain comfortably awake passively in bed and abandon the active effort to sleep, the technique directly counters performance anxiety and sleep-effort syndrome. In contemporary clinical trials, paradoxical intention is typically investigated as a module within multicomponent CBT-I rather than as an isolated monotherapy, though targeted trials (such as Broomfield and Espie, 2005) confirm that reducing sleep-related performance effort via paradoxical instructions significantly shortens sleep-onset latency and lowers pre-sleep cognitive arousal. In panic disorder and obsessive-compulsive spectrum conditions, the core mechanism of deliberate symptom provocation has largely been absorbed into modern interoceptive exposure and inhibitory learning protocols. Its wider logic—that the attempt to control a symptom can maintain it—reappears in later work on ironic processes of mental control and in acceptance-based approaches. Paradoxical intention remains the most vivid single illustration of Frankl's therapeutic stance: that the patient is not the symptom, and can take a position toward it.
 
 ## Key works
 
@@ -55,4 +54,6 @@ Frankl's *Man's Search for Meaning* (German 1946, English 1959) is the best-know
 - Frankl, Viktor E. (1960). Paradoxical Intention: A Logotherapeutic Technique. *American Journal of Psychotherapy*, 14(3), 520–535.
 - Ascher, L. Michael, and Turner, Ralph M. (1979). Paradoxical Intention and Insomnia: An Experimental Investigation. *Behaviour Research and Therapy*, 17(4), 408–411.
 - Morin, Charles M., et al. (2006). Psychological and Behavioral Treatment of Insomnia: Update of the Recent Evidence (1998–2004). *Sleep*, 29(11), 1398–1414.
+- Broomfield, N. M., and Espie, C. A. (2005). Towards a valid, reliable measure of sleep effort: The Glasgow Sleep Effort Scale (GSES) and its evaluation alongside paradoxical intention. *Sleep*, 28(8), 1007–1012.
+- Morgenthaler, T., et al. (2006). Practice parameters for the psychological and behavioral treatment of insomnia: an update. *Sleep*, 29(11), 1415–1419.
 - Frankl, Viktor E. (1946). *Ärztliche Seelsorge*. Franz Deuticke. (English: *The Doctor and the Soul*, 1955.)

@@ -2,7 +2,7 @@
 slug: "dbt-laing"
 id: "DBT-0305"
 type: "جدل"
-part: philosophy
+part: "philosophy"
 level: ""
 title: "Is Psychosis a Meaningful Journey?"
 en: "Laing and psychosis"
@@ -12,7 +12,7 @@ edges:
 related:
   - id: "thk-laing", title: "R. D. Laing", type: "مفكر"
   - id: "rel-phenopath", title: "Phenomenological Psychopathology", type: "علاقة"
-gaps:[]
+gaps: []
 ---
 
 # Is Psychosis a Meaningful Journey?
@@ -27,9 +27,7 @@ The practical conclusion followed: if breakdown is a response to a situation, th
 
 ## What was right in it
 
-Three things in the proposal have survived and become part of good practice today. First, that the treatment of patients was in many places humiliating and inhuman — the locked ward, the forced treatment, the refusal to listen — and that this was a moral scandal, not a clinical necessity. Second, that the patient's speech deserves listening rather than reduction: even speech that sounds incoherent may have an internal logic worth following. Third, that context is systematically neglected — that a person's history, family, and social world are treated as background when they may be the heart of the matter.
-
-These three have become part of good practice today.
+Three insights in the proposal have survived and influenced contemporary practice. First, that institutional treatment in mid-century psychiatric hospitals was frequently dehumanizing—characterized by forced seclusion, punitive restraint, and a pervasive refusal to listen—and that institutional reform was a moral necessity. Second, that the patient's speech deserves listening rather than diagnostic dismissal: even speech that appears disordered may contain an intelligible affective logic or personal narrative worth investigating. Third, that interpersonal and social context had been systematically neglected—treating a person's life history, familial dynamic, and social environment as mere backdrop rather than central to understanding distress.
 
 ## What was costly
 
@@ -47,9 +45,9 @@ Interpretation without limits turns against those it was made to serve. Being pa
 
 ## What follows in practice
 
-If you side with Laing, you listen to the content of psychotic experience as potentially meaningful, tied to the context of the patient's family and social life, and you postpone the quick pharmacological decision in favour of deeper understanding. This may open a real therapeutic space for some mild or borderline cases — but it is a genuine risk in acute psychosis that needs urgent medication, where delay is not neutral: it may prolong real suffering or put the patient and their family at risk.
+Adopting Laing's perspective involves listening to the content of psychotic experience as potentially meaningful and inextricably tied to the patient's familial and social world, resisting an immediate reduction to biology alone. In contemporary clinical consensus, however, postponing medical intervention in acute psychosis poses grave risks of prolonged suffering, functional deterioration, and harm.
 
-If you reject Laing — the dominant position today — you treat psychosis as a medical condition calling for pharmacological intervention first, keeping a space for phenomenological, descriptive listening to the patient's experience as a complement, not a substitute. This is safer clinically and more consistent with the evidence, but it risks losing what Laing was right about: that the patient's "incomprehensible" speech may carry an internal logic worth listening to rather than dismissing as mere "symptoms".
+Conversely, contemporary psychiatric and integrative approaches treat acute psychosis primarily with evidence-based pharmacological and psychiatric interventions, while incorporating phenomenological and relational listening to the patient's subjective experience as a vital complement rather than an alternative to medical care. This framework preserves what was valuable in Laing's critique—the recognition that psychotic utterances may carry an internal logic and experiential truth—without repeating the therapeutic neglect of acute medical needs.
 
 
 ## Sources

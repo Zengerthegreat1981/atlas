@@ -4,7 +4,7 @@ id: "SCH-0205"
 type: "مدرسة"
 part: "philosophy"
 level: "متوسط"
-title: "Mohism (Mohism / Mojia)"
+title: "Mohism (Mojia)"
 en: "Mohism (Mozi and later Logician branch)"
 crumb: "Philosophy ← Schools ← Mohism"
 dates: "China · c. 470 BC – c. 200 BC"
@@ -23,7 +23,7 @@ related:
 gaps: []
 ---
 
-# Mohism (Mohism / Mojia)
+# Mohism (Mojia)
 
 Mohism is a Chinese philosophical school founded by Mozi (Mo Di, c. 470–391 BC). It appeared in the Warring States period and was a principal adversary of Confucianism. It rests on an impartial, unbiased universal love, and on the criterion of the general benefit of the people in judging politics, ritual and war, and it is among the oldest consequentialist philosophies in history. It also had followers organized in a quasi-military fashion, and its later adherents developed inquiries in logic, optics and mechanics.
 
@@ -49,7 +49,7 @@ During the fourth and third centuries BC the followers of the school composed th
 
 ## Decline and revival
 
-Mencius criticized Mohism, saying that a love that does not distinguish between the father and the stranger is "without a father", Xunzi rejected it for its austerity, and Zhuangzi said that its doctrine is harsh on people. After the Qin unification (221 BC) and the rise of official Confucianism under the Han, the school died out as an organized movement, and of its book only a disordered text survived within the "Daoist Canon". In the late Qing, Bi Yuan, Wang Niansun and Sun Yirang (who issued an "annotation" of the book in 1894) re-edited the texts, and then Liang Qichao and Hu Shih took interest in it at the beginning of the twentieth century because it is the earliest Chinese thinker to present logic and science.
+Mencius criticized Mohism, saying that a love that does not distinguish between the father and the stranger is "without a father", Xunzi rejected it for its austerity, and Zhuangzi said that its doctrine is harsh on people. After the Qin unification (221 BC) and the rise of official Confucianism under the Han, the school died out as an organized movement, and of its book only a disordered text survived within the "Daoist Canon". In the late Qing, Bi Yuan, Wang Niansun and Sun Yirang (who issued an "annotation" of the book in 1894) re-edited the texts, and then Liang Qichao and Hu Shih took interest in it at the beginning of the twentieth century because Mohism represents the earliest Chinese philosophical school to present systematic logic and science.
 
 ## Comparison with the Islamic heritage
 

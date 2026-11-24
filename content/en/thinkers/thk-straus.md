@@ -20,29 +20,38 @@ gaps: []
 
 # Erwin Straus
 
-A German-American psychiatrist and philosopher (Frankfurt 1891 – Lexington, Kentucky, 1975), a pioneer of phenomenological psychology alongside Ludwig Binswanger and Eugène Minkowski. His work concerns the lived experience of the body, perception and movement, and he argued against treating the human being only as a physiological object.
+Erwin Straus (Frankfurt am Main, 1891 – Lexington, Kentucky, 1975) was a German-American psychiatrist, phenomenologist, and neurologist. Alongside Ludwig Binswanger, Eugène Minkowski, and Viktor Emil von Gebsattel, he was a foundational pioneer of phenomenological and anthropological psychiatry. His philosophical and clinical work centered on the lived experience of embodiment, sensory perception, and human locomotion, mounting a sustained defense of the human being against mechanistic reductionism.
 
-## Life
+## Life and Career
 
-Straus trained in medicine and neurology and practiced psychiatry in Berlin, where he also taught. As a Jew he left Germany after the Nazi seizure of power, emigrated to the United States in 1938, and held positions in the American South, including at Black Mountain College in North Carolina. He later worked at the Veterans Administration Hospital in Lexington, Kentucky, and taught at the University of Kentucky, where he remained until his death. He took part in the American reception of phenomenology and existential psychiatry and was a contributor to the movement's collected volumes.
+Straus studied medicine and philosophy in Berlin, Munich, Göttingen, and Zurich, completing his psychiatric training under Karl Bonhoeffer at the Charité in Berlin. He qualified as Privatdozent at the University of Berlin in 1927. Deprived of his academic post under National Socialist racial laws, he emigrated from Germany to the United States in 1938. After teaching at Black Mountain College in North Carolina (1938–1944), Straus moved to Kentucky, serving as Director of Professional Education and Research at the Veterans Administration Hospital in Lexington from 1946 to 1961 and as clinical professor of psychiatry at the University of Kentucky. In Lexington, he organized the influential Lexington Conferences on Pure and Applied Phenomenology during the 1960s, creating an important bridge between European phenomenology and American clinical psychology.
 
-## Main Works
+## Key Works
 
-- *Vom Sinn der Sinne* (1935; second edition 1956), translated into English as *The Primary World of Senses* (1963).
-- *Phenomenological Psychology: Selected Papers* (1966), which includes the essay on the upright posture.
+- *Geschehnis und Erlebnis* (1930), a foundational study distinguishing between causal, external occurrences (*Geschehnis*) and meaningful, biographical lived experiences (*Erlebnis*) in psychopathology.
+- *Vom Sinn der Sinne* (1935; 2nd ed. 1956), translated into English by Jacob Needleman as *The Primary World of Senses: A Vindication of Sensory Experience* (1963).
+- "The Upright Posture" (first formulated in *Die Formen des Räumlichen*, 1930; revised English version in *Psychiatric Quarterly*, 1952), his celebrated phenomenological essay on human bipedalism.
+- *Phenomenological Psychology: Selected Papers* (1966), gathering his major methodological and anthropological essays.
 
-## What He Contributed
+## Core Contributions
 
-His central claim is that sensing is not the passive registration of stimuli by a mind, as the Cartesian and the behaviorist tradition assume, but a lived communication between the sensing being and its world. He distinguished the "pathic" moment of experience (immediate, feeling, bodily participation in the world) from the "gnostic" moment (objective, reflective knowledge), and argued that science and psychology had neglected the first. Perceiving is tied to movement, and space and time are first lived in action before they are measured. He regarded the upright posture as a distinctively human way of standing over against the world, which opens a relation to horizon and distance.
+Straus's central thesis is that sensing (*Empfinden*) is not a passive reception of physiological stimuli processed by an internal mind, but an immediate, lived communication between an organism and its world. 
 
-On this basis Straus criticized the dualism of mind and body and the reduction of mental life to mechanisms, in both psychology and psychoanalysis, and he proposed that psychology should begin with the description of experience as lived. His thought runs parallel to that of Merleau-Ponty on the body, though it was developed independently and with a more explicitly psychiatric orientation than Binswanger's or Minkowski's work.
+He established the vital distinction between the "pathic" and the "gnostic" dimensions of experience:
+- The **pathic** (*das Pathische*) represents the primordial, prereflective, affective participation in the world. It is immediate bodily resonance, dominant in rhythm, dance, music, and the lived atmosphere of landscape.
+- The **gnostic** (*das Gnostische*) represents detached, reflective, objectifying perception (*Wahrnehmen*). It measures, conceptualizes, and maps space into geographical coordinates.
+
+Straus argued that modern psychology and Cartesian epistemology mistook the secondary gnostic abstraction for original experience, thereby neglecting the pathic foundation of existence. On these grounds, he mounted a sharp critique of Pavlovian reflexology and behaviorism: conditioning treats the organism as an isolated machine responding to artificial signals, ignoring that a living being actively inhabits a meaningful perceptual environment (*Umwelt*).
+
+In "The Upright Posture," Straus demonstrated that standing upright is not merely an anatomical milestone, but an existential achievement maintained against gravity. The upright stance liberates the hands from locomotion to become instruments of exploration and creation; it raises the mouth and teeth away from direct predatory grasping, transforming the face into an organ of linguistic expression; and it opens up a panoramic visual horizon, establishing distance, objectivity, and vulnerability in the human encounter with the world.
 
 ## Influence and Limits
 
-His influence runs through phenomenological psychiatry and psychology, and through later work on embodiment. Compared with Binswanger or Merleau-Ponty his writing is less widely read, and his work remains little known outside specialist circles. Critics note that his descriptions are rich but give little guidance for clinical method or empirical testing.
+Straus's thought developed parallel to Maurice Merleau-Ponty's phenomenology of the body, though formulated independently and with direct psychiatric grounding. While widely admired among phenomenologists and existential psychiatrists, Straus's writings did not produce a standardized clinical protocol or diagnostic manual, remaining a profound philosophical critique of clinical concepts rather than an empirical technique.
 
 ## Sources
 
 - Straus, E. (1935). *Vom Sinn der Sinne: Ein Beitrag zur Grundlegung der Psychologie*. Berlin: Springer.
-- Straus, E. (1963). *The Primary World of Senses: A Vindication of Sensory Experience*. New York: Free Press of Glencoe.
+- Straus, E. (1963). *The Primary World of Senses: A Vindication of Sensory Experience*. Trans. J. Needleman. New York: Free Press of Glencoe.
 - Straus, E. (1966). *Phenomenological Psychology: Selected Papers*. New York: Basic Books.
+- Spiegelberg, H. (1972). *Phenomenology in Psychology and Psychiatry: A Historical Introduction*. Evanston: Northwestern University Press.

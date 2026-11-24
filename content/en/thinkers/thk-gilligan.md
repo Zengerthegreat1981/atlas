@@ -15,8 +15,7 @@ active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Care Ethics", target_type: "مدرسة"
 related:
-gaps:
-  - "A sourced direct quotation from Gilligan's writings: not yet covered."
+gaps: []
 ---
 
 # Carol Gilligan
@@ -29,7 +28,11 @@ In the 1970s Gilligan worked with Lawrence Kohlberg at Harvard. Kohlberg had pre
 
 ## In a Different Voice
 
-In *In a Different Voice: Psychological Theory and Women's Development* (Harvard, 1982) she presented studies based on interviews with women facing real decisions such as abortion, and on children's responses to the "Heinz dilemma" that Kohlberg used, including the response of the girl Amy, who did not consider rights and property as the boy Jake did but rather relationships and what follows from the connection between people. Gilligan introduced the concept of the different voice: that there is a way of moral thinking that proceeds from relationship and responsibility rather than from right and rule, and that is absent from models of moral development. Gilligan herself repeatedly stressed that this voice is distinguished by its theme and not by the sex of its bearer, that is, it is not women's ethics, a distinction that was lost in most of what was written about her.
+In *In a Different Voice: Psychological Theory and Women's Development* (Harvard, 1982) she presented studies based on interviews with women facing real decisions such as abortion, and on children's responses to the "Heinz dilemma" that Kohlberg used, including the response of the girl Amy, who did not consider rights and property as the boy Jake did but rather relationships and what follows from the connection between people. Gilligan introduced the concept of the different voice: that there is a way of moral thinking that proceeds from relationship and responsibility rather than from right and rule, and that is absent from models of moral development. As she underscored in the opening pages of the book (1982, p. 2):
+
+> "The different voice I describe is characterized not by gender, but theme. Its association with women is an empirical observation, and it is primarily through the voices of women that I have traced its development."
+
+Gilligan herself repeatedly stressed that this voice is distinguished by its theme and not by the sex of its bearer, that is, it is not women's ethics, a distinction that was lost in most of what was written about her.
 
 ## Justice Ethics and Care Ethics
 

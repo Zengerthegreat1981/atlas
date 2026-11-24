@@ -24,44 +24,37 @@ gaps: []
 
 # The Problem of Universals (the Problem of Quiddity)
 
-One of the deepest debates in the history of Western philosophy: do "universals", such as "humanity", "whiteness" or "justice", have a real existence independent of individual things?
+One of the most enduring debates in the history of Western metaphysics and logic: do universals—such as "humanity," "whiteness," or "justice"—possess an objective, extra-mental reality independent of particular things, or are they mere concepts in the human mind, or words without external reality?
 
-The medieval form of the problem descends from Porphyry's *Isagoge* and from Boethius's commentaries on it, which raised the question whether genera and species subsist or exist only in the mind, and whether they are corporeal or incorporeal. The positions below overlap in the writings of individual thinkers, and a strict classification is itself a matter of debate.
+The medieval debate originated in late antiquity with Porphyry's *Isagoge* (Introduction to Aristotle's *Categories*), translated and commented on by Boethius in the 6th century. Boethius famously formulated three central questions:
+1. Do genera and species subsist in the nature of things, or do they exist solely in the intellect?
+2. If they subsist, are they corporeal or incorporeal?
+3. Do they subsist separated from sensible things, or are they situated within them?
 
-## The first position: extreme realism (Plato)
+## The Major Philosophical Positions
 
-- **Universals exist before things** (Universalia ante rem): "humanity" exists in the "world of Forms" (Plato), and individuals "participate" in it.
-- **Medieval representatives**: William of Champeaux (an early realist position, later modified) is the standard example. Augustine, as a Christian Platonist, located the Forms as ideas in the divine mind.
-- **Standard difficulty**: it is hard to explain how a separate universal relates to its particulars (Aristotle's "third man" objection, already raised in antiquity against Plato's Forms).
+- **Extreme Realism (Platonic Realism / *Universalia ante rem*)**: Universals exist prior to and independent of particular physical things. For Plato, particulars imperfectly participate in transcendent transcendent Forms (*Ideai*). Augustine christianized this doctrine by locating the universal archetypes as eternal ideas in the divine intellect. In the early 12th century, William of Champeaux initially held an extreme realist view that the same essential nature is wholly present in every individual of a species (a view he later modified under Peter Abelard's critique).
+- **Moderate Realism (Aristotelian Realism / *Universalia in re*)**: Universals exist objectively, but only instantiated within concrete individual substances (*in re*), not in an independent transcendent realm. Thomas Aquinas synthesized this view into a threefold existence of universals:
+  1. *Ante rem*: As divine exemplary ideas in God's mind prior to creation;
+  2. *In re*: As common natures individualized by designated matter (*materia signata*) in physical particulars;
+  3. *Post rem*: As abstracted concepts existing in the human intellect through the operation of the active intellect (*intellectus agens*).
+- **Conceptualism (*Universalia post rem*)**: Universals possess no extra-mental existence whatever; they are concepts formed by human abstraction. Peter Abelard argued that universals are neither independent physical things (*res*) nor empty vocal sounds, but meaningful linguistic expressions (*sermones*) expressing conceptual representations grounded in the real, non-universal states (*status*) of individual things.
+- **Nominalism (*Universalia sunt nomina*)**: Only individual, concrete things exist; universals are purely conventional signs or vocal utterances (*nomina*). In the early scholastic period, Roscelin of Compiègne notoriously described universals as mere "vocal breath" (*flatus vocis*). In the 14th century, William of Ockham developed a rigorous nominalism using ontological parsimony (Ockham's Razor): universals are mental signs or terms (*termini*) that naturally signify pluralities of individuals, but lack any real shared nature in reality.
+- **Scotist Realism and Haecceity**: John Duns Scotus formulated a distinctive intermediate realism: entities possess a "common nature" (*natura communis*) that is objectively real, distinct from the individualizing principle by a subtle "formal distinction" (*distinctio formalis a parte rei*). What makes an individual this singular being is its **haecceity** (*haecceitas* or "thisness").
 
-## The second position: moderate realism (Aristotle)
+## The Crucial Influence of Islamic Philosophy
 
-- **Universals exist in things** (Universalia in re): "humanity" does not exist in an independent world but in each human individual, as a shared nature.
-- **Medieval representatives**: Thomas Aquinas. In his view universals exist as ideas in God's mind (ante rem), in things as common natures (in re), and in the human intellect as abstracted concepts (post rem).
+The scholastic debate was fundamentally transformed in the 13th century by the Latin translation of Ibn Sina's (Avicenna's) *Metaphysics* of *al-Shifā'*. In Book V, Ibn Sina introduced his celebrated tripartite analysis of quiddity or essence (*al-māhiyya*):
+1. **Quiddity in itself (*al-māhiyya bi-mā hiya hiya*)**: Considered purely in its intrinsic definition, independent of any mode of existence. As Avicenna famously wrote: "Horseness is simply horseness" (*al-farasīya bi-mā hiya farasīya fa-qaṭ*); it is in itself neither one nor many, neither universal nor particular.
+2. **Quiddity in concrete particulars (*fī al-a'yān*)**: Realized in singular things through matter and accidents.
+3. **Quiddity in the intellect (*fī al-adhhān*)**: Where universality attaches to the quiddity as an accidental property of being predicated of many.
 
-## The third position: Conceptualism
-
-- **Universals exist after things, in the mind** (Universalia post rem): they are neither in the external world nor independent, but are abstracted in the mind.
-- **Representatives**: Peter Abelard is often placed here, or sometimes under a moderate nominalism. He held that universals are words ("sermones") that are predicated of many things, and he asked what in things grounds their application.
-
-## The fourth position: Nominalism
-
-- **Universals are nothing but names** (Universalia sunt nomina): "humanity" is not a real entity but a word or concept we use to gather individuals.
-- **Representatives**: Roscelin of Compiègne (known mainly through the reports of Anselm and others), and William of Ockham, who held that only individuals exist and that universals are mental terms signifying many individuals.
-- **Influence**: it is often seen as a forerunner of later empiricist and nominalist trends (Hobbes, Locke), though these thinkers differ among themselves.
-
-## A fifth position: Scotist realism
-
-John Duns Scotus proposed a different solution that is not easily classified among the four positions: he held that there are real common natures, distinguished from the individual by a "formal distinction", and that what makes an individual this individual is its "haecceity" (haecceitas). Separately, he defended the univocity of being (see con-univocity-of-being-scotus): "being" is predicated in one and the same sense of God and creatures.
-
-## Why does the debate matter?
-
-1. **Theologically**: if "perfection" is merely a name, can one speak of the real "attributes of God"? Ockham's emphasis on divine omnipotence and on the individual is often linked to the nominalist turn of the fourteenth century.
-2. **Logically and semantically**: does language reflect the structure of the world or is it a human convention? The nominalists leaned toward the second.
-3. **Scientifically**: are "natural laws" and kinds real (realist) or merely conventions (nominalist)? This debate is alive in contemporary philosophy of science and metaphysics.
+This Avicennian distinction directly provided Albert the Great, Thomas Aquinas, and Duns Scotus with the ontological vocabulary necessary to establish moderate realism and overcome early medieval impasses.
 
 ## Sources
 
-- Porphyry, *Isagoge*, trans. Edward W. Warren, Pontifical Institute of Mediaeval Studies, 1975.
-- Paul Vincent Spade (ed. and trans.), *Five Texts on the Mediaeval Problem of Universals*, Hackett, 1994.
+- Porphyry, *Isagoge*, translated by Edward W. Warren, Pontifical Institute of Mediaeval Studies, 1975.
+- Paul Vincent Spade (ed. and trans.), *Five Texts on the Mediaeval Problem of Universals: Porphyry, Boethius, Abelard, Duns Scotus, Ockham*, Hackett Publishing, 1994.
 - D. M. Armstrong, *Universals: An Opinionated Introduction*, Westview Press, 1989.
+- Alain de Libera, *La querelle des universaux: De Platon à la fin du Moyen Age*, Éditions du Seuil, 1996.
+- Avicenna (Ibn Sina), *The Metaphysics of The Healing*, translated by Michael E. Marmura, Brigham Young University Press, 2005.

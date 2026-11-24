@@ -60,11 +60,11 @@ Thomas Reid and the Scottish "common sense" philosophers criticized him for draw
 
 ## Major Works
 
-- A Treatise of Human Nature (1739–1740).
-- An Enquiry Concerning Human Understanding (1748).
-- An Enquiry Concerning the Principles of Morals (1751).
-- The Natural History of Religion (1757).
-- Dialogues Concerning Natural Religion (published posthumously in 1779).
+- *A Treatise of Human Nature* (1739–1740).
+- *An Enquiry Concerning Human Understanding* (1748).
+- *An Enquiry Concerning the Principles of Morals* (1751).
+- *The Natural History of Religion* (1757).
+- *Dialogues Concerning Natural Religion* (published posthumously in 1779).
 
 ## Sources
 

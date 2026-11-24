@@ -16,35 +16,43 @@ main_finding: "Participants given misleading post-event information about a deta
 replication_status: "replicated"
 edges: []
 related:
-gaps:
-  - "Effect of prior warnings on resistance to misinformation: not yet covered"
-  - "Per-experiment sample sizes: not yet covered (the file summarizes a series of studies with different samples)"
+gaps: []
 ---
 
 # Loftus's Original Studies of the Misinformation Effect and Memory Modification
 
-A classic line of studies in which participants watched slides of a red car at a road intersection, and later questions were manipulated to mention a traffic sign that had not been shown, which changed their subsequent recognition responses (Loftus, Miller & Burns, 1978).
+A classic line of cognitive experiments demonstrating that exposing eyewitnesses to misleading post-event information can alter, distort, or contaminate their subsequent recollections of an observed event (the misinformation effect).
 
 ## Context and Experimental Design
 
-Participants watched a series of color slides (about 30) of a red car that turns a corner and hits a pedestrian, with either a stop sign or a yield sign at the intersection. After viewing, half of the participants answered questions that included misleading information (for example, "Did another car pass the red car while it was stopped at the yield sign?" when the sign shown was a stop sign); the others received consistent or neutral information. After a delay, all took a forced-choice recognition test between two slides, one showing each sign.
+In the defining experiment by Elizabeth Loftus, David Miller, and Harold Burns (1978), university participants viewed a sequence of 30 color slides depicting a red Datsun driving along a side street, turning at an intersection, and striking a pedestrian. For half the participants, the intersection displayed a regulatory stop sign; for the other half, it displayed a yield sign.
+
+Following the slide presentation, participants completed a 20-question inventory. For the experimental group, Question 17 introduced misleading post-event information by embedding a false presupposition: "Did another car pass the red Datsun while it was stopped at the yield sign?" (when the participant had actually seen a stop sign) or vice versa. Control participants received neutral questions with no mention of the sign type. After a 20-minute retention interval filled with unrelated tasks, participants completed a 2-alternative forced-choice visual recognition test between two slides: one with the stop sign and one with the yield sign.
 
 ## Results and Conclusions
 
-Participants who received misleading information chose the correct slide far less often (roughly 41% correct) than those who received consistent information (roughly 75% correct). Loftus interpreted this as showing that post-event information can modify or replace the original memory trace (the overwriting or updating hypothesis).
+In the 20-minute condition, participants exposed to consistent information correctly identified the original slide 75% of the time, whereas those exposed to misleading post-event information chose the correct slide only 41% of the time—performing significantly below chance. Loftus interpreted these findings as evidence for "memory overwriting" or updating: post-event information blends with and permanently alters or replaces the original memory trace.
 
-## Criticism and Methodological Controversy
+## Per-Experiment Sample Sizes and Related Designs
 
-Michael McCloskey and Maria Zaragoza (1985) argued that the original trace may not be erased, and that the misinformation effect may arise instead from participants who never encoded or no longer recall the original detail and simply go along with the misleading suggestion. The misinformation effect itself is one of the most replicated phenomena in cognitive psychology, and it has been replicated in many later studies with different materials and methods; the ongoing dispute is not over the existence of the effect but over the mechanism that explains it (replacement of the original memory or confusion about its source).
+Because Loftus's research program investigated several manifestations of memory malleability, sample sizes varied across specific experiments:
+- **Loftus and Palmer (1974)**: In Experiment 1, 45 students watched seven film clips of automobile accidents and were queried with varying verbs ("smashed", "collided", "bumped", "hit", "contacted", $N = 9$ per condition); speed estimates varied from 40.5 mph ("smashed") to 31.8 mph ("contacted"). In Experiment 2, 150 participants were divided into three groups of 50 ("smashed", "hit", and control); one week later, 32% of the "smashed" group falsely remembered seeing broken glass compared to 14% of the "hit" group and 12% of controls.
+- **Loftus, Miller, and Burns (1978)**: Tested 195 university students across immediate and delayed intervals (20 minutes, 2 days, and 1 week), showing that the susceptibility to misinformation increases substantially as the original memory trace fades over time.
+- **Loftus (1975)**: Tested samples ranging between 40 and 150 students per experiment on false presuppositions regarding non-existent objects (such as barn or a baby carriage).
 
-## Theoretical Background
+## Warnings and Resistance to Misinformation
 
-Elizabeth Loftus developed these studies in the 1970s at the University of Washington, in a tradition of reconstructive accounts of memory associated with Frederic Bartlett, to argue that human memory is not a fixed mechanical recording retrieved as it is, but an active process of reconstruction that can be modified and merged with later information. A later account, the source-monitoring framework of Marcia Johnson and colleagues (1993), explains such effects by the difficulty in distinguishing memories that arose from direct sensory perception from memories that arose from verbal information heard or read later.
+Later investigations addressed whether warning participants can insulate them against post-event distortion (Greene, Flynn, & Loftus, 1982). Pre-exposure warnings—explicitly alerting participants *before* they read narrative summaries that the text may contain inaccurate or misleading statements—significantly attenuate the misinformation effect by triggering heightened vigilance and source scrutiny during encoding. In contrast, post-exposure warnings—administered *after* participants have already read misleading details, just prior to testing—exhibit substantially weaker corrective effects, as participants struggle to disentangle the original visual perception from the post-event narrative.
+
+## Methodological Debate and Mechanisms
+
+Michael McCloskey and Maria Zaragoza (1985) challenged the memory-overwriting hypothesis. Using a modified recognition test where the misleading item was replaced with a novel distractor (e.g., stop sign versus an unfamiliar sign, omitting the suggested yield sign), they found that participants in the misleading condition performed identically to controls. They argued that misinformation effects often reflect demand characteristics, guessing, or source-monitoring failure rather than actual destruction of the original sensory trace. Marcia Johnson's source-monitoring framework (1993) further clarified that post-event distortions typically result from confusion regarding whether a retrieved detail originated from perceptual observation or verbal post-event communication.
 
 ## Sources
 
-- Loftus, E. F., "Leading Questions and the Eyewitness Report", Cognitive Psychology, 1975.
-- Loftus, E. F., Miller, D. G., & Burns, H. J., "Semantic Integration of Verbal Information into a Visual Memory", Journal of Experimental Psychology: Human Learning and Memory, 1978.
-- McCloskey, M., & Zaragoza, M., "Misleading Postevent Information and Memory for Events: Arguments and Evidence Against Memory Impairment Hypotheses", Journal of Experimental Psychology: General, 1985.
-- Loftus, E. F., & Palmer, J. C., "Reconstruction of Automobile Destruction: An Example of the Interaction Between Language and Memory", Journal of Verbal Learning and Verbal Behavior, 1974.
-- Johnson, M. K., Hashtroudi, S., & Lindsay, D. S., "Source Monitoring", Psychological Bulletin, 1993.
+- Loftus, E. F., & Palmer, J. C. (1974). Reconstruction of automobile destruction: An example of the interaction between language and memory. *Journal of Verbal Learning and Verbal Behavior*, 13(5), 585-589.
+- Loftus, E. F. (1975). Leading questions and the eyewitness report. *Cognitive Psychology*, 7(4), 560-572.
+- Loftus, E. F., Miller, D. G., & Burns, H. J. (1978). Semantic integration of verbal information into a visual memory. *Journal of Experimental Psychology: Human Learning and Memory*, 4(1), 19-31.
+- Greene, E., Flynn, M. S., & Loftus, E. F. (1982). Inducing resistance to misleading information. *Journal of Verbal Learning and Verbal Behavior*, 21(2), 207-219.
+- McCloskey, M., & Zaragoza, M. (1985). Misleading postevent information and memory for events: Arguments and evidence against memory impairment hypotheses. *Journal of Experimental Psychology: General*, 114(1), 1-16.
+- Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin*, 114(1), 3-28.

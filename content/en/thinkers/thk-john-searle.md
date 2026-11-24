@@ -7,7 +7,7 @@ level: "متقدم"
 title: "John Rogers Searle"
 en: "John Rogers Searle"
 crumb: "Philosophy ← Thinkers ← John Searle"
-dates: "Denver (Colorado) / Berkeley · 1932–2025 CE"
+dates: "United States · 1932–2025"
 country: "United States"
 language: "English"
 active_start: 1969
@@ -39,12 +39,13 @@ Searle was a professor at Berkeley and was shaped by **Austin** at Oxford. He st
 
 ## Major Works
 
-- *Speech Acts* (1969).
-- *Minds, Brains, and Programs* (1980): the text of the Chinese Room.
-- *Intentionality* (1983).
+- *Speech Acts: An Essay in the Philosophy of Language* (1969).
+- "Minds, Brains, and Programs" (1980).
+- *Intentionality: An Essay in the Philosophy of Mind* (1983).
 - *The Rediscovery of the Mind* (1992).
+- *The Construction of Social Reality* (1995).
 
-## Limitation
+## Limits and Criticism
 
 - **The premise "syntax is not sufficient for semantics" is contested as assuming the conclusion**: **Dennett** (in his reply published with the 1980 text in *Behavioral and Brain Sciences*) and the **Churchlands** hold that the Chinese Room is an "intuition pump" that elicits the verdict from the smallness of the imagined scene (a man and a book) and not from a demonstration, and that the intuition changes if the system is imagined at its true size and speed.
 - **Biological naturalism is a position of double denial more than a described mechanism**: it denies dualism and reduction together, but *The Rediscovery of the Mind* (1992) offers no statement of which particular neural properties produce consciousness; this is the problem that **Chalmers** calls the "hard problem" and that Searle considers manufactured from inherited dualist vocabulary.

@@ -28,7 +28,7 @@ The British existential-phenomenological current is among the more recent curren
 
 ## The Central Question
 
-Its question is: how does this person's world look from the inside? The method is phenomenological description: bracketing what we think we know, describing what shows itself, and refusing to organise experience prematurely. The therapist does not interpret, does not diagnose in the room, and does not set goals. Instead, therapist and client together clarify the client's worldview — the assumptions, values, and tensions that structure how the person lives — and the work is the clarification itself. Suffering is read in the context of a life, not in a list of criteria,, and distress is treated as a response to the difficulty of living rather than as a medical condition.
+Its question is: how does this person's world look from the inside? The method is phenomenological description: bracketing what we think we know, describing what shows itself, and refusing to organise experience prematurely. The therapist does not interpret, does not diagnose in the room, and does not set goals. Instead, therapist and client together clarify the client's worldview — the assumptions, values, and tensions that structure how the person lives — and the work is the clarification itself. Suffering is read in the context of a life, not in a list of criteria, and distress is treated as a response to the difficulty of living rather than as a medical condition.
 
 ## The Four Dimensions of Existence
 

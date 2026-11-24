@@ -14,33 +14,48 @@ edges:
 related:
 gaps:
   - "Thinker entries for Peter Salovey and John Mayer: not yet covered"
-  - "Clinical applications of emotional intelligence training (for example in emotion regulation difficulties): not yet covered"
 ---
 
 # Emotional Intelligence: The Concept
 
 ## Definition
 
-Emotional intelligence is a psychological ability referring to an individual's skill in accurately perceiving his own emotions and those of others, understanding their meanings, regulating them and expressing them appropriately, and using this understanding to guide thought and behavior, as a set of abilities distinct from traditional cognitive intelligence (IQ).
+Emotional intelligence (EI) is a psychological construct denoting the capacity to recognize, understand, manage, and effectively utilize emotional information in oneself and others. Rather than treating affect and cognition as inherently antagonistic, EI posits that emotions provide valuable data that can inform reasoning, facilitate problem-solving, and guide adaptive behavior.
 
-## Historical context
+## Historical Context and Academic Formulation
 
-The American psychologists Peter Salovey and John D. Mayer first coined the term scientifically in 1990 in a paper published in the journal Imagination, Cognition, and Personality titled "Emotional Intelligence", presenting an academic model that classifies emotional intelligence as a measurable cognitive ability resembling the structure of traditional intelligence. But the term entered global popular awareness on a wide scale after the science journalist Daniel Goleman published the book Emotional Intelligence: Why It Can Matter More Than IQ in 1995, which broadened the concept to include personality and behavioral traits wider than the original academic model.
+The term was introduced into the peer-reviewed psychological literature by the American psychologists Peter Salovey and John D. Mayer in their 1990 article "Emotional Intelligence," published in *Imagination, Cognition and Personality*. Drawing on earlier work on social intelligence (Edward Thorndike) and multiple intelligences (Howard Gardner's interpersonal and intrapersonal intelligences), Salovey and Mayer formulated EI as a genuine cognitive ability involving the mental processing of emotional stimuli.
 
-## Two competing models
+The construct gained widespread international visibility following the publication of Daniel Goleman's best-selling 1995 book, *Emotional Intelligence: Why It Can Matter More Than IQ*. Goleman popularized the concept across business, education, and public discourse, but also significantly broadened its scope to encompass general personality traits, motivation, social competence, and character.
 
-The field distinguishes between two main models: the "Ability Model" of Salovey and Mayer, which treats emotional intelligence as a genuine intelligence measurable by objective performance instruments such as the Mayer-Salovey-Caruso Emotional Intelligence Test (MSCEIT), and the "Trait/Mixed Model" adopted by Goleman and others such as Reuven Bar-On, which combines emotional abilities with wider personality traits such as optimism and self-motivation, and is usually measured through self-report questionnaires rather than direct performance tests. This raises an ongoing methodological controversy over the overlap between this expanded model and the already-known traditional personality traits (such as extraversion and emotional stability).
+## Competing Theoretical Models
 
-## Relation to neighboring concepts
+Contemporary research distinguishes between two primary theoretical paradigms:
 
-"Alexithymia", that is, the inability to read and name one's own emotions, is put forward as a sharp clinical opposite of emotional intelligence, and this concept was originally documented in the context of psychosomatic medicine from the 1970s, years before the concept of emotional intelligence itself flourished.
+1. **The Ability Model**: Advanced by Salovey, Mayer, and David R. Caruso, this model defines EI as a set of cognitive abilities organized into a four-branch hierarchy:
+   - *Perceiving emotions*: The ability to detect emotions in faces, voices, and cultural artifacts.
+   - *Facilitating thought*: Using emotional states to prioritize thinking and enhance creativity.
+   - *Understanding emotions*: Comprehending emotional language, subtle gradations, and how emotions transition over time.
+   - *Managing emotions*: Regulating emotions in oneself and others to achieve desired outcomes.
+   The ability model is measured through objective, performance-based tests, most notably the Mayer-Salovey-Caruso Emotional Intelligence Test (MSCEIT), where responses are scored against consensus or expert criteria rather than self-evaluation.
 
-## Impact and criticism
+2. **Trait and Mixed Models**: Developed by Daniel Goleman and Reuven Bar-On (who coined the "Emotional Quotient" or EQ, operationalized via the EQ-i), and later formalized as "trait emotional intelligence" by K. V. Petrides. These models combine emotion-related self-perceptions, stress tolerance, empathy, optimism, and social competence. They are assessed primarily through self-report inventories such as the Trait Emotional Intelligence Questionnaire (TEIQue).
 
-Emotional intelligence has deeply influenced education, human resources management, and organizational leadership, while academic controversy continues over the discriminant validity of the mixed trait model, that is, the extent of its actual distinctness from already existing personality traits rather than being a renaming of them. Ability-based measures such as the MSCEIT tend to correlate only modestly with personality traits and moderately with general cognitive ability, whereas self-report measures of trait emotional intelligence overlap substantially with established personality dimensions; this difference is the main reason the two models are evaluated separately.
+## Neighboring Concepts and Discriminant Validity
+
+A persistent methodological debate surrounds the discriminant validity of EI measures. Ability-based instruments (such as the MSCEIT) correlate modestly with general cognitive ability ($g$) and show low-to-moderate overlap with standard personality traits. Conversely, self-report trait EI measures overlap substantially with the Five-Factor Model of personality, particularly showing strong negative correlations with Neuroticism and positive correlations with Extraversion, Conscientiousness, and Agreeableness.
+
+Clinically, EI is frequently contrasted with **alexithymia**—a term introduced by Peter Sifneos and John Nemiah in the early 1970s within psychosomatic medicine to describe a pronounced deficit in identifying, naming, and communicating feelings, along with an externally oriented cognitive style. Alexithymia represents a clinically significant vulnerability that mirrors severe impairments in emotional perception and labeling.
+
+## Clinical and Educational Applications
+
+In clinical settings, deficits in emotion regulation and emotional awareness are core features of various psychiatric conditions, including major depressive disorder, generalized anxiety disorder, and borderline personality disorder. Therapeutic modalities such as Dialectical Behavior Therapy (DBT, Marsha Linehan) and Emotion-Focused Therapy (EFT, Leslie Greenberg) systematically cultivate emotion recognition, distress tolerance, and adaptive cognitive reappraisal, translating core principles of emotional functioning into evidence-based clinical interventions.
+
+In education, EI research has informed Social and Emotional Learning (SEL) programs. Prominent among these is the RULER approach, developed at the Yale Center for Emotional Intelligence, which integrates structured curricula to help students and educators recognize, understand, label, express, and regulate emotions. While commercial claims that EI accounts for 80% of life success are empirically unfounded, meta-analytic findings support modest positive associations between EI and psychological well-being, prosocial interpersonal relations, and occupational performance.
 
 ## Sources
 
-- Peter Salovey & John D. Mayer, "Emotional Intelligence", Imagination, Cognition, and Personality, 1990.
-- Daniel Goleman, Emotional Intelligence: Why It Can Matter More Than IQ, 1995.
-- John D. Mayer, Peter Salovey & David R. Caruso, "Emotional Intelligence: New Ability or Eclectic Traits?", American Psychologist, 2008.
+- Peter Salovey & John D. Mayer, "Emotional Intelligence", *Imagination, Cognition, and Personality*, 1990.
+- Daniel Goleman, *Emotional Intelligence: Why It Can Matter More Than IQ*, 1995.
+- John D. Mayer, Peter Salovey & David R. Caruso, "Emotional Intelligence: New Ability or Eclectic Traits?", *American Psychologist*, 2008.
+- K. V. Petrides & Adrian Furnham, "On the Dimensional Structure of Emotional Intelligence", *Personality and Individual Differences*, 2000.

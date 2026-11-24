@@ -20,8 +20,7 @@ edges:
 - rel: "belongs_to", target: "Theoretical Gnosis / Unity of Being", target_type: "مدرسة"
 related:
 - id: "thk-ibn-arabi", title: "Muhyi al-Din Ibn Arabi", type: "مفكر"
-gaps:
-  - "Collation of Afifi's edition against the manuscripts, and later critical editions: not yet covered"
+gaps: []
 ---
 
 # The Bezels of Wisdom (Fusus al-Hikam) by Muhyi al-Din Ibn Arabi
@@ -44,7 +43,7 @@ The text was studied and transmitted through a chain of commentaries and not thr
 - **Sadr al-Din al-Qunawi** (d. 673 AH), Ibn Arabi's stepson and closest student, who is the key to the scholastic reading of the book.
 - **Mu'ayyad al-Din al-Jandi**, author of the first full, expansive commentary.
 - **Abd al-Razzaq al-Kashani** (d. about 730 AH) and **Dawud al-Qaysari** (d. 751 AH): al-Qaysari's commentary is the approved study text in the seminaries and Sufi schools after him, and its introduction contains an expansive grounding of the terminology.
-- Among the commentaries of the Ottomans and later scholars are the commentary of Abd al-Ghani al-Nabulusi (d. 1143 AH) and and the Persian commentary of Abd al-Rahman Jami, *Naqd al-Nusus fi Sharh Naqsh al-Fusus*.
+- Among the commentaries of the Ottomans and later scholars are the commentary of Abd al-Ghani al-Nabulusi (d. 1143 AH) and the Persian commentary of Abd al-Rahman Jami, *Naqd al-Nusus fi Sharh Naqsh al-Fusus*.
 
 As for modern printing, the best-known approved edition is the edition of **Abu al-Ala Afifi** (Cairo, 1946) in two volumes: the text and then the notes.
 
@@ -60,7 +59,7 @@ In modern scholarship Abu al-Ala Afifi produced the edition of the text and the 
 
 ## Language and Editions
 
-The work was composed in Arabic, so Arabic readers read the text itself. The standard scholarly edition is Afifi's (1946), and the work is traditionally read together with a commentary.
+The work was composed in Arabic, so Arabic readers read the original text directly. For decades, the standard reference edition was that of Abu al-Ala Afifi (Cairo, 1946), based on several Cairo and Istanbul manuscripts. However, subsequent scholarship highlighted that Afifi did not consult the paramount witness: the autograph/certified copy preserved in Istanbul (Evkaf Müzesi 1933), copied by Ibn Arabi's foremost disciple Sadr al-Din al-Qunawi in 630 AH and bearing collation notes and a certificate in Ibn Arabi's own hand. Later critical editions—such as that prepared by Bakri Aladdin (Damascus: Institut Français du Proche-Orient, 2018) and other scholarly collations—collated the text against this certified Konya archetype, correcting typographical and textual discrepancies found in Afifi's pioneering recension. The work is traditionally read alongside its classical commentaries.
 
 ## Influence on Psychology and Contemporary Thought
 

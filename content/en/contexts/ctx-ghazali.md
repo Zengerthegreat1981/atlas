@@ -8,15 +8,13 @@ title: "Al-Ghazali and Ihya' Ulum al-Din"
 en: "Al-Ghazali and Ihya' Ulum al-Din"
 crumb: "Arab-Islamic Heritage ← Contexts ← Al-Ghazali and Ihya' Ulum al-Din"
 dates: 1095-1111
-active_start: null
+active_start: 1095
 active_end: "مستمر"
 edges:
   - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "ctx-arabic-self", title: "The Self in Arabic-Islamic Intellectual Heritage", type: "سياق/تقليد"
-gaps:
-  - "Direct review of a critical edition of the Ihya' against the secondary literature: not yet covered."
-  - "Detailed links to specific Atlas concepts (fear, shame and guilt): not yet covered."
+gaps: []
 ---
 
 # Al-Ghazali and Ihya' Ulum al-Din
@@ -43,6 +41,17 @@ In the Book of Fear and Hope, al-Ghazali presents fear and hope as the two wings
 
 For al-Ghazali, the soul is not a fixed entity but a field of continuous training and purification: struggle against the appetites (mujahada), habit, companionship, contemplation, and self-accounting. This horizon differs fundamentally from the Western existential framework, which centres on authenticity and individual choice: where the existentialist asks whether a life is one's own, al-Ghazali asks whether a life is rightly ordered toward salvation. The difference lies more in ends than in means — the techniques of self-examination and habituation overlap considerably — but the ends should not be confused.
 
+## Critical Editions and Philological Transmission
+
+The textual transmission of the *Ihya'* has been established through critical editions, most notably the authoritative 10-volume edition published by Dar al-Minhaj (Jeddah, 2011), collated from early manuscript witnesses and incorporating Zayn al-Din al-Iraqi's classical apparatus of hadith verification (*al-Mughni 'an Haml al-Asfar*). Modern scholarship, including Frank Griffel (2009) and Kenneth Garden (2014), traces how al-Ghazali deliberately structured the forty books to synthesize Ash'arite theology, Avicennian psychology, and Sufi asceticism, providing a robust textual basis for analyzing his moral psychology.
+
+## Affective States: Fear, Shame, and Guilt
+
+Al-Ghazali's detailed analysis of the passions connects directly with fundamental psychological affects:
+- **Fear (*khawf*)**: In Book 33 (*Kitab al-Khawf wa'l-Raja'*), al-Ghazali treats fear not as a psychological pathology or generalized anxiety, but as an affective motivator for moral vigilance. He contrasts constructive spiritual fear with paralyzing despair (*ya's*), which deadens volition and is deemed spiritually and morally destructive.
+- **Shame (*haya'*)**: Treated across several treatises (including Book 23 on the discipline of character), *haya'* is conceived as spiritual modesty and internal moral constraint born from an abiding awareness of divine witness (*muraqaba*). It functions as an active self-monitoring mechanism rather than paralyzing social inhibition or neurotic shame.
+- **Guilt and Remorse (*nadam* / *tawba*)**: In Book 31 (*Kitab al-Tawba*), repentance is framed as an organic process requiring three consecutive elements: intellectual apprehension (*'ilm*) of wrongdoing, affective remorse or guilt (*nadam*), and purposeful behavioral resolution (*'azm*). Guilt is therefore not an end in itself or a source of chronic self-recrimination, but an indispensable functional catalyst for moral rehabilitation and psychic equilibrium.
+
 ## Reception and influence
 
 The Ihya' was received with extraordinary breadth and became one of the most widely read books of ethics in the Islamic world. Accounts report that it was burned in Cordoba around 1109 on the orders of the Almoravid authorities after objections by Maliki jurists. Frank Griffel (2009) has shown that al-Ghazali incorporated elements of Avicenna's philosophy into the theology he founded, despite his explicit criticism of the philosophers.
@@ -62,5 +71,6 @@ The primary text is the Ihya' Ulum al-Din itself, best read in the Dar al-Minhaj
 - McKane, W. (trans.). (1962). *Al-Ghazali's Book of Fear and Hope*. Brill.
 - Winter, T. J. (trans.). (1995). *Al-Ghazali on Disciplining the Soul and on Breaking the Two Desires*. Islamic Texts Society.
 - Griffel, F. (2009). *Al-Ghazali's Philosophical Theology*. Oxford University Press.
+- Garden, K. (2014). *The First Islamic Reviver: Abu Hamid al-Ghazali and His Revival of the Religious Sciences*. Oxford University Press.
 - Moosa, E. (2005). *Ghazali and the Poetics of Imagination*. University of North Carolina Press.
 - Smith, M. (1944). *Al-Ghazali the Mystic*. Luzac.

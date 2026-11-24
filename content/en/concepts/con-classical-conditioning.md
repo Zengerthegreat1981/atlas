@@ -8,7 +8,7 @@ en: "Classical Conditioning (Pavlovian Conditioning)"
 crumb: "Psychology ← Concepts ← Classical Conditioning"
 active_start: 1903
 active_end: "مستمر"
-part: psychology
+part: "psychology"
 edges:
 - rel: "belongs_to", target: "Cognitive-Behavioral Psychology", target_type: "مدرسة"
 related:
@@ -21,43 +21,58 @@ gaps: []
 
 # Classical Conditioning (Pavlovian Conditioning)
 
-The first foundational model of learning in psychology, discovered by Ivan Pavlov at the beginning of the twentieth century, reformulated by Watson within methodological behaviorism, and which became the neural and psychological basis of classical behavior therapy.
+Classical conditioning (also termed Pavlovian or respondent conditioning) is a foundational model of associative learning originally investigated by the Russian physiologist Ivan Pavlov at the turn of the twentieth century. It describes how an organism learns predictive relationships between environmental stimuli, leading to adaptive anticipatory physiological and emotional responses.
 
-## Definition
+## Core Definition and Basic Components
 
-Classical conditioning (also called "Pavlovian conditioning" or "conditioned learning") is a learning process in which a previously neutral stimulus (the conditioned stimulus, CS) acquires the ability to elicit a response after repeated pairing with an unconditioned stimulus (UCS) that naturally elicits an unconditioned response (UCR). After sufficient pairing, the CS alone evokes a response (now called the conditioned response, CR). Procedures differ in timing: in delay conditioning the CS begins before and overlaps with the UCS, while in trace conditioning there is a gap between CS offset and UCS onset.
+Classical conditioning occurs when an initially neutral stimulus acquires the capacity to evoke a response through repeated association with a biologically significant stimulus. The standard paradigm involves four formal components:
 
-## Basic components
+1. **Unconditioned Stimulus (UCS)**: An environmental event that reliably elicits a reflexive, unlearned physiological response without prior training (e.g., meat powder placed in a dog's mouth).
+2. **Unconditioned Response (UCR)**: The innate, unlearned reflexive reaction elicited automatically by the UCS (e.g., salivation).
+3. **Conditioned Stimulus (CS)**: A previously neutral stimulus (e.g., a metronome click or tone) that, after systematic pairing with the UCS, comes to trigger a conditioned response.
+4. **Conditioned Response (CR)**: The learned response evoked by the CS alone following acquisition (e.g., salivation in response to the tone). While the CR often resembles the UCR, it may differ in magnitude, latency, or physiological composition.
 
-1. **Unconditioned stimulus (UCS)**: A natural biological stimulus that elicits a reflexive response (such as food eliciting salivation).
-2. **Unconditioned response (UCR)**: The natural reflexive response (salivation).
-3. **Conditioned stimulus (CS)**: A stimulus that is neutral before pairing (such as the sound of a bell) and becomes able to evoke the response after repeated pairing.
-4. **Conditioned response (CR)**: The response acquired after pairing (salivation to the bell alone).
+## Temporal Paradigms and Learning Phenomena
 
-## Related phenomena
+The timing and arrangement of stimuli fundamentally govern the acquisition of the conditioned response:
+- **Delay Conditioning**: The CS onset precedes the UCS onset and remains present until the UCS is delivered. Short-delay conditioning is generally the most robust arrangement for establishing rapid associative learning.
+- **Trace Conditioning**: The CS terminates before the UCS begins, leaving a temporal gap ("trace interval") that requires memory representation and hippocampal involvement.
+- **Simultaneous Conditioning**: The CS and UCS are presented and terminated at the identical time; associative learning under this paradigm is typically weak.
+- **Backward Conditioning**: The UCS precedes the CS; this rarely establishes an excitatory CR and often results in conditioned inhibition (the CS signaling the termination or absence of the UCS).
 
-- **Extinction**: Repeatedly presenting the CS without the UCS gradually weakens the CR (but it is not permanently erased; "spontaneous recovery" is possible).
-- **Generalization**: Responding to stimuli similar to the CS (the generalization gradient).
-- **Discrimination**: Learning that only a particular CS elicits the response, with its absence for different stimuli.
-- **Reconditioning**: Restoring the conditioned response after extinction.
-- **Higher-order conditioning**: Using a strong CS as a new UCS to link a third stimulus.
+Core conditioning dynamics include:
+- **Extinction**: Repeatedly presenting the CS in the absence of the UCS gradually diminishes the frequency and magnitude of the CR. Crucially, extinction is not the unlearning or erasure of the original association, but new inhibitory learning.
+- **Spontaneous Recovery**: The sudden reappearance of an extinguished CR after a temporal delay following extinction trials.
+- **Generalization**: The elicitation of the CR by novel stimuli that share perceptual features with the original CS (displaying a generalization gradient).
+- **Discrimination**: The process of learning to respond exclusively to a specific CS while withholding responses to similar stimuli that are never reinforced with the UCS.
+- **Higher-Order Conditioning**: A procedure in which an established CS is paired with a second neutral stimulus to establish a conditioned response to the new stimulus without direct UCS pairing.
 
-## Distinction from operant conditioning
+## The Cognitive and Associative Revolution: Rescorla-Wagner Model
 
-Classical conditioning deals with **reflexive, involuntary responses** (saliva, fear, secretions, involuntary response) in which the organism is aroused passively. Operant conditioning (Skinner) deals with **voluntary behaviors** that the organism emits in response to their consequences in its environment (reinforcement and punishment). The two are complementary, not competing, but their independence is strictly conceptual in therapeutic contexts (classical treatment of anxiety is not the same as operant behavior modification).
+Early behaviorists conceptualized conditioning as a mechanical, contiguous pairing of stimuli. In the late 1960s and 1970s, cognitive formulations revolutionized this view:
+- **Contingency and Information Value**: Robert Rescorla (1968, 1988) demonstrated that contiguity alone is insufficient; conditioning depends on predictive contingency—whether the CS reliably predicts the occurrence or non-occurrence of the UCS.
+- **The Rescorla-Wagner Model (1972)**: Formulated associative learning mathematically based on "prediction error"—the difference between what is expected and what occurs. If a UCS is already fully predicted by an existing CS, no learning occurs to an added redundant stimulus, explaining Leon Kamin's (1969) famous **blocking effect**.
+- **Biological Preparedness**: John Garcia and Robert Koelling (1966) discovered the "Garcia effect" (conditioned taste aversion), demonstrating that rats innately associate taste with nausea (even across multi-hour delays), but not with auditory or visual shocks. Martin Seligman (1971) synthesized these findings into the principle of biological preparedness, proving that evolutionary selection biases which associations an organism easily forms.
 
-## Clinical importance
+## Classical versus Operant Conditioning
 
-Classical conditioning has informed, in whole or in part:
-- Systematic desensitization (Wolpe).
-- Exposure therapy for phobic disorders, panic disorders, and PTSD.
-- ERP (exposure and response prevention) for obsessive-compulsive disorder.
-- Aversion therapy, historically.
-- Understanding maladaptive adaptations such as "classical conditioning of addictive cues" (conditioned cue reactivity in addiction).
+Classical conditioning differs fundamentally from B. F. Skinner's operant (instrumental) conditioning:
+- Classical conditioning involves **involuntary, elicited responses** (autonomic, emotional, and reflexive behaviors) controlled by preceding antecedent stimuli.
+- Operant conditioning involves **voluntary, emitted behaviors** controlled and modified by their subsequent environmental consequences (reinforcement and punishment).
+
+## Clinical and Psychotherapeutic Applications
+
+Classical conditioning provides the empirical foundation for prominent behavioral and cognitive-behavioral therapies:
+- **Conditioned Emotional Reactions**: John B. Watson and Rosalie Rayner's Little Albert experiment (1920) demonstrated that phobic fear and anxiety can be established via classical conditioning.
+- **Systematic Desensitization**: Joseph Wolpe (1958) developed reciprocal inhibition, pairing hierarchical anxiety-provoking imagery with antagonistic relaxation responses.
+- **Exposure Therapies**: Prolonged exposure and Exposure with Response Prevention (ERP for OCD) rely on extinction processes. Modern clinical research (e.g., Michelle Craske, Mark Bouton) frames exposure therapy as "inhibitory learning," where treatment focuses on maximizing expectancy violation and context variability rather than mere habituation.
+- **Addiction and Cue Reactivity**: Conditioned environmental cues (paraphernalia, social contexts) elicit conditioned compensatory responses and intense craving, forming the basis for cue-exposure treatments.
 
 ## Sources
 
-- Pavlov, I. P. (1927). *Conditioned Reflexes*. Oxford University Press.
-- Watson, J. B., & Rayner, R. (1920). Conditioned emotional reactions. *Journal of Experimental Psychology, 3*(1), 1-14.
+- Bouton, M. E. (2004). Context and behavioral processes in extinction. *Learning & Memory*, 11(5), 485–494.
+- Pavlov, I. P. (1927). *Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex* (G. V. Anrep, Trans.). Oxford University Press.
+- Rescorla, R. A. (1988). Pavlovian conditioning: It's not what you think it is. *American Psychologist*, 43(3), 151–160.
+- Rescorla, R. A., & Wagner, A. R. (1972). A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement. In A. H. Black & W. F. Prokasy (Eds.), *Classical Conditioning II: Current Research and Theory* (pp. 64–99). Appleton-Century-Crofts.
+- Watson, J. B., & Rayner, R. (1920). Conditioned emotional reactions. *Journal of Experimental Psychology*, 3(1), 1–14.
 - Wolpe, J. (1958). *Psychotherapy by Reciprocal Inhibition*. Stanford University Press.
-- Rescorla, R. A. (1988). Pavlovian conditioning: It's not what you think it is. *American Psychologist, 43*(3), 151-160.

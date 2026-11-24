@@ -10,44 +10,49 @@ active_start: 1898
 active_end: 1911
 part: "psychology"
 study_year: 1898
-design: "Laboratory experiment on animals (cats) with a repeated design across successive trials"
-sample_size: null
-main_finding: "The cats' escape time from puzzle boxes decreases gradually across successive trials without a sudden leap of understanding, which supported the formulation of the 'Law of Effect'"
+design: "Laboratory experiment on animals (cats) with a repeated-measures design across successive trials"
+sample_size: "13 cats (tested across 15 distinct puzzle boxes, lettered A through Z, in the 1898 dissertation)"
+main_finding: "The cats' escape time from puzzle boxes decreases gradually across successive trials without a sudden leap of understanding, supporting the formulation of the 'Law of Effect'"
 replication_status: "replicated"
+edges: []
 related:
-gaps:
-  - "Number of cats and boxes in the 1898 dissertation: not yet covered"
+gaps: []
 ---
-
-
 # Thorndike's Puzzle Box Experiments and the Law of Effect
 
-Pioneering experiments in comparative psychology that placed cats inside wooden puzzle boxes, recording how escape time gradually decreased through trial and error and leading to the Law of Effect (formulated in Thorndike's 1911 book *Animal Intelligence*).
+Pioneering experimental investigations in comparative psychology conducted by Edward Lee Thorndike at Columbia University in the late 1890s. Using custom-built wooden puzzle boxes, Thorndike systematically investigated how animals solve practical problems, documenting gradual learning curves and establishing the empirical basis for connectionism and the "Law of Effect"—a primary precursor to B. F. Skinner's operant conditioning.
 
 ## Context and Experimental Design
 
-Thorndike designed wooden puzzle boxes whose doors opened when the animal operated a device such as pulling a string, pressing a lever or turning a latch. He placed hungry cats inside the box and put food outside it, recording the time the cat took to escape in each successive trial and plotting the resulting 'learning curves' (Learning Curves).
+In the late nineteenth century, comparative psychology was dominated by anecdotal accounts (such as those of George Romanes) that routinely attributed complex anthropomorphic reasoning and human-like insight to animals. Aiming to introduce rigorous laboratory experimentation, Thorndike conducted his doctoral research under the supervision of William James and James McKeen Cattell, published in his 1898 dissertation *Animal Intelligence: An Experimental Study of the Associative Processes in Animals*.
 
-## Results and Conclusions
+Thorndike constructed approximately fifteen distinct wooden puzzle boxes of varying mechanical complexity (labeled with letters such as Box A, Box B, Box C, and Box K). In the classic setup, a hungry domestic cat (Thorndike tested 13 cats in total) was placed inside the box, while a small portion of fish was positioned in plain sight just outside. To escape and access the food reward, the cat had to operate a mechanical release mechanism. 
+- In simple boxes (e.g., Box A), escape required a single action, such as depressing a foot pedal, clawing a loop of wire, or turning a wooden latch.
+- In complex boxes (e.g., Box K), escape required executing a chained sequence of three independent actions: depressing an interior treadle, pulling a hanging cord, and moving an exterior latch.
 
-The learning curves showed a gradual and continuous decrease in escape time, without the sudden drops that would indicate insight; Thorndike took this to mean that learning was gradual and not based on understanding of how the box worked. He concluded the 'Law of Effect' (Law of Effect): the neural connections between stimulus and response are strengthened if followed by satisfying and rewarding consequences, and weakened if followed by unpleasant consequences, laying the foundations of associationist theory.
+Thorndike recorded the exact latency (in seconds) from the moment the door closed until the cat successfully operated the release mechanism across successive trials, plotting time-to-escape curves over days and weeks.
 
-## Criticism and Methodological Controversy
+## Results and the Law of Effect
 
-Gestalt psychologists (such as Wolfgang Köhler, whose chimpanzee studies reported apparent insight) criticized the design of the boxes because the opening mechanism was hidden from the animal's view, which prevented it from perceiving the structure of the problem and favored trial-and-error behavior.
+Thorndike's quantitative learning curves demonstrated a consistent, gradual slope:
+- **Absence of Sudden Insight:** When first placed in the box, cats exhibited erratic, instinctual escape behaviors—clawing the wire mesh, squeezing through narrow openings, and biting the wooden slats. Eventually, an animal triggered the release mechanism purely by accident.
+- **Incremental Improvement:** Across subsequent trials, ineffective movements were slowly extinguished, while the successful action was produced progressively earlier. Latency decreased continuously rather than precipitously, showing smooth, gradual learning curves without abrupt drops that would indicate reflective comprehension or sudden insight.
 
-## Replication Status
+From these observations, Thorndike concluded that animals learn through trial, error, and accidental success, formulating the classic **Law of Effect**:
+1. Any response that produces a satisfying state of affairs in a specific situation becomes more firmly connected to that situation, increasing the probability of recurrence when the situation recurs.
+2. Conversely, any response followed by discomfort or annoyance weakens the connection, decreasing the probability of recurrence.
 
-The gradual learning curves and the Law of Effect have been replicated repeatedly across different animal species throughout the twentieth century, and was an important precursor of Skinner's operant conditioning; the basic result (gradual learning by trial and error under reinforcement) is considered stable, with reservations about generalizing it to all types of learning (as shown by the objections of the Gestalt psychologists and Tolman's work on latent learning).
+Thorndike framed this associative bonding as "connectionism"—the mechanical stamping-in (or stamping-out) of neural connections between sensory stimuli (S) and motor impulses (R) through consequences, without requiring conscious cognitive mediation.
 
-## Types of Boxes and Degree of Complexity
-Thorndike designed several models of boxes with opening mechanisms of varying complexity, from a single simple device to mechanisms requiring several actions. Thorndike reported that more complex mechanisms generally required more trials, and he found little evidence of a "sudden understanding" of how the mechanism worked, interpreting the slow gradual improvement as the strengthening of connections that happened to succeed.
+## Later Revisions and Methodological Debates
 
-## Later Modification of the Law of Effect
-Thorndike himself revised the Law of Effect in the early 1930s (see *The Fundamentals of Learning*, 1932) after further experiments with humans, concluding that punishment does not weaken a connection as reliably as reward strengthens it. This revision is often cited alongside Skinner's later arguments about the limited effectiveness of punishment compared with reinforcement.
+In his 1932 book *The Fundamentals of Learning*, Thorndike revised the Law of Effect following human experimental studies. He discovered an asymmetry: while reward reliably strengthens stimulus-response connections, punishment (annoyers) does not directly or predictably weaken them, but merely encourages the organism to try alternative behaviors. This empirical modification anticipated modern behavioral principles emphasizing positive reinforcement over aversive control.
+
+Thorndike's methodology drew significant criticism from Gestalt psychologists, notably Wolfgang Köhler (1925). Köhler argued that Thorndike's puzzle boxes forced trial-and-error behavior because the inner locking mechanisms were concealed behind wooden slats and out of the cat's visual field, making genuine perceptual understanding impossible. In his own ape studies in Tenerife, Köhler demonstrated that when all elements of a problem are visibly accessible, chimpanzees exhibit sudden perceptual reorganization and insight learning (*Aha-Erlebnis*). Despite these boundary conditions, Thorndike's puzzle box remains a foundation of modern behavioral science and quantitative operant methodology.
 
 ## Sources
-- Thorndike, E. L., "Animal Intelligence: An Experimental Study of the Associative Processes in Animals", Psychological Review Monograph Supplements, 1898.
-- Köhler, W., The Mentality of Apes, 1925.
-- Thorndike, E. L., *Animal Intelligence: Experimental Studies*, 1911.
-- Thorndike, E. L., *The Fundamentals of Learning*, 1932.
+
+- Thorndike, E. L. (1898). Animal intelligence: An experimental study of the associative processes in animals. *Psychological Review: Monograph Supplements*, 2(4), 1–109.
+- Thorndike, E. L. (1911). *Animal Intelligence: Experimental Studies*. The Macmillan Company.
+- Köhler, W. (1925). *The Mentality of Apes*. Harcourt, Brace & Company.
+- Thorndike, E. L. (1932). *The Fundamentals of Learning*. Teachers College, Columbia University.

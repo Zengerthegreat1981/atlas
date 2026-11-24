@@ -16,8 +16,7 @@ edges:
 - rel: "belongs_to", target: "Emotion-Focused Therapy", target_type: "مدرسة"
 - rel: "developed_by", target: "Leslie S. Greenberg", target_type: "مفكر"
 related:
-gaps:
-  - "Carol Magai and Jennifer Haan's work on emotion: not yet covered"
+gaps: []
 ---
 # Primary Adaptive Emotions
 
@@ -71,12 +70,14 @@ Primary emotions "orient" effectively toward the need, whereas secondary emotion
 - **Experiential focusing** (Experiential Focusing): attending to the body to reach the "felt sense" (Felt Sense).
 - **Experiential questions** (Process Questions): "What do you feel now in your body?", "What need stands behind this feeling?".
 
-## Theoretical Origins
+## Theoretical Origins and Developmental Perspectives
 
-- **Silvan Tomkins** (1962, 1991): the theory of the "nine basic emotions" (Nine Basic Emotions) as a biological foundation.
-- **Paul Ekman** (1970s): added the expressive-facial dimension (Facial Expression).
-- **Klaus Scherer** (1984): added the "appraisal" dimension (Appraisal): emotions arise from cognitive appraisals.
-- **Leslie Greenberg** (1990s): formulated the distinction between "primary" and "secondary" within the EFT framework, with a focus on the "orienting" function.
+- **Silvan Tomkins** (1962–1991): formulated affect theory, identifying innate, biologically based primary affects (such as interest, joy, surprise, fear, anger, distress, shame, and disgust) as the primary motivational system of human beings.
+- **Paul Ekman** (1970s): demonstrated the cross-cultural universality of discrete facial expressions corresponding to primary basic emotions.
+- **Klaus Scherer** (1984): advanced appraisal theory, conceptualizing emotions as dynamic component processes triggered by cognitive evaluations of relevance, implications, and coping potential.
+- **Leslie Greenberg** (1990s): formalized the distinction between primary adaptive, primary maladaptive, secondary reactive, and instrumental emotions within Emotion-Focused Therapy (EFT), emphasizing their biological signaling function.
+- **Carol Magai and Jeannette Haviland-Jones** (2002): developed a lifespan developmental perspective on discrete emotions in *The Hidden Genius of Emotion*, showing how primary affect systems evolve into dynamic emotion schemas, personality traits, and relational styles across adulthood and aging.
+- **Norma Haan** (1977): formulated an influential developmental model of coping and defense mechanisms, distinguishing between adaptive, flexible affective coping (which processes primary feelings directly) and rigid defensive mechanisms (which suppress or distort primary emotional experience to avoid anxiety).
 
 ## The Debate: Are Primary Emotions "Biological" or "Culturally Constructed"?
 
@@ -96,3 +97,5 @@ Primary emotions "orient" effectively toward the need, whereas secondary emotion
 - Greenberg, L. S. (2011). *Emotion-Focused Therapy*. American Psychological Association.
 - Tomkins, S. S. (1962-1992). *Affect Imagery Consciousness* (4 vols.). Springer.
 - Scherer, K. R. (1984). On the nature and function of emotion: A component process approach. In K. R. Scherer & P. Ekman (Eds.), *Approaches to Emotion*. Erlbaum.
+- Magai, C., & Haviland-Jones, J. (2002). *The Hidden Genius of Emotion: Lifespan Transformations of Personality*. Psychology Press.
+- Haan, N. (1977). *Coping and Defending: Processes of Self-Environment Organization*. Academic Press.

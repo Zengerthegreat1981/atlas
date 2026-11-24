@@ -2,12 +2,16 @@
 slug: "thk-may"
 id: "THK-0109"
 type: "مفكر"
-part: psychology
+part: "psychology"
 level: "مبتدئ"
 title: "Rollo May"
 en: "Rollo May"
 crumb: "Existential Psychotherapy ← People ← Rollo May"
-dates: "USA"
+dates: "United States · 1909–1994"
+country: "United States"
+language: "English"
+active_start: 1950
+active_end: 1994
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
@@ -34,7 +38,7 @@ May was born in Ada, Ohio, and died in Tiburon, California. He studied English l
 
 **Non-being.** For May anxiety is not primarily death anxiety but a confrontation with non-being in general, including the loss of meaning, values and identity. In *The Meaning of Anxiety* (1950) he drew on Kierkegaard, Freud, Sullivan and Goldstein.
 
-**The daimonic.** In *Love and Will* (1969) he treats love and will as paired capacities in trouble in modern culture, and introduces the "daimonic", a natural psychological energy that can destroy or create depending on whether it is integrated into the personality.
+**The daimonic.** In *Love and Will* (1969) he treats love and will as paired capacities in trouble in modern culture, and introduces the "daimonic", a natural psychological energy that can destroy or create contingent on whether it is integrated into the personality.
 
 **Creativity, power, myth.** *Power and Innocence* (1972), *The Courage to Create* (1975), *Freedom and Destiny* (1981) and *The Cry for Myth* (1991) deal with themes largely neglected by later existential clinicians.
 

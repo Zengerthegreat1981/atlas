@@ -21,56 +21,58 @@ gaps: []
 
 # William of Ockham
 
-One of the most important philosophers of the 14th century CE, and a Franciscan friar. He is known for "Ockham's Razor" (Occam's Razor): "Do not multiply entities (Entia) without necessity" (Entia non sunt multiplicanda praeter necessitatem).
+William of Ockham (c. 1287–1347) was an English Franciscan friar, philosopher, and theologian whose rigorous nominalism and logical innovations transformed late medieval philosophy. By dismantling the intricate metaphysical apparatus of high scholasticism, Ockham laid the groundwork for the "modern way" (*via moderna*) and profoundly influenced early modern epistemological debates.
 
-## What He Contributed
+## Life and Context
 
-- **Nominalism**: "universals" are not real entities but "names" (Nomina). There is no "humanity" outside individuals; rather each individual has his own "humanity". This is a rejection of Platonic realism and of moderate realism (Abelard, Aquinas).
-- **The science of logic** (Summa Logicae, c. 1323): the most outstanding work of scholastic logic after Aristotle; it redefined inference within a linguistic rather than a metaphysical framework.
-- **Theory of intuitive cognition**: direct knowledge of the singular thing is the foundation of knowledge, and universals are an "abstraction" from sense.
-- **Separating philosophy from theology**: the divine will is "absolute" and needs no "rational justification" (contrary to Thomas).
-- **Papal politics**: he called for the poverty of the Church and for the separation of temporal power from the papacy, and Pope John XXII accused him of heresy.
+Ockham was born around 1287 in the village of Ockham in Surrey, England. He joined the Order of Friars Minor (Franciscans) in London and pursued theological studies at the University of Oxford from around 1309 to 1317. Between 1317 and 1319 he lectured on the *Sentences* of Peter Lombard. However, due to administrative delays and accusations of theological unorthodoxy raised by former Oxford chancellor John Lutterell, Ockham never incepted as a regent master in theology, acquiring the enduring academic title of *Venerabilis Inceptor* ("Venerable Inceptor").
 
-## His Place in the Current
+In 1324, Pope John XXII summoned Ockham to the papal curia at Avignon to answer charges of heresy concerning his theological commentaries. While awaiting the findings of the examining commission, Ockham met Michael of Cesena, the Minister General of the Franciscan Order. Ockham was drawn into the fierce apostolic poverty controversy between the Franciscans and the papacy. The Franciscans held that Christ and the Apostles owned no personal or communal property, an ideal declared heretical by Pope John XXII in the bull *Cum inter nonnullos* (1323).
 
-- **The foremost figure of medieval nominalism**; he was followed in the "modern way" (via moderna) by supporters such as Gabriel Biel in the 15th century, and nominalism paved the way for modern empiricism (Hobbes, Locke, Berkeley).
-- **His political role**: he was summoned to Avignon in 1324 to examine his views, then in 1328 fled with Michael of Cesena to the court of Emperor Louis IV of Bavaria, against Pope John XXII; he was excommunicated and lived in Munich until his death.
-- **Contemporary influence**: he is invoked in the philosophy of language (Quine and Goodman in their nominalist tendency), and in the philosophy of logic and science for the principle of economy that has been tied to his name.
+Convinced that the pope had fallen into formal heresy, Ockham, Michael of Cesena, and several companions fled Avignon in May 1328, taking refuge in Pisa with Emperor Louis IV of Bavaria. Excommunicated by John XXII, Ockham moved to Munich under imperial protection. For the remainder of his life, he resided at the Franciscan friary in Munich, producing extensive political and ecclesiological treatises defending imperial sovereignty against papal overreach. Ockham died in Munich in 1347, likely a victim of the Black Death.
 
-## His Major Works
+## Core Philosophical Contributions
 
-- Quaestiones in Libros Physicorum (Commentary on the Physics)
-- Summa Logicae (1323)
-- Quodlibeta Septem
-- Tractatus de Praedestinatione et Praescientia
-- Dialogus (a critique of papal authority)
+### Nominalist Ontology and the Rejection of Universals
+Ockham's foundational metaphysical thesis is that only singular, individual things exist (*nihil existit nisi singulare*). He rejected both Platonic realism and moderate realism (such as that of Thomas Aquinas and John Duns Scotus), denying that "common natures" or "universals" have any extra-mental reality. Universals are not real essences shared by multiple things; they are signs (*signa*) that refer to many individuals. In Ockham's mature conceptualist view, a universal is a mental concept naturally signifying distinct particulars that resemble one another, or a conventional spoken or written term used to designate them.
 
-## His Life and Context
+### The Principle of Economy (Ockham's Razor)
+The famous formulation "entities must not be multiplied without necessity" (*Entia non sunt multiplicanda praeter necessitatem*) was popularized by seventeenth-century commentators, but Ockham consistently applied equivalent principles of methodological parsimony, stating that "plurality is not to be posited without necessity" (*Pluralitas non est ponenda sine necessitate*) and "it is futile to do with more what can be done with fewer." For Ockham, this razor was an ontological and explanatory criterion designed to eliminate superfluous metaphysical entities—such as substantial forms, real relations, and separate intelligible species—that scholastic thinkers had posited between the mind and reality.
 
-William of Ockham was born around 1287 in the village of Ockham in the county of Surrey in southern England. He entered the Franciscan order young and studied at Oxford, and between 1317 and 1319 he delivered his lectures on the *Sentences* of Peter Lombard, the work in which many of his philosophical and theological ideas appeared. He did not attain the rank of master of theology, and the title "Venerable Inceptor" (venerabilis inceptor) remained his in the tradition. Because of his views he was summoned to the court of Pope John XXII in Avignon in 1324, where a commission examined propositions from his writings; no final verdict of condemnation was issued, but he feared the outcome and fled. He then became involved in the dispute over the poverty of Christ and the apostles between the Franciscans and the pope: the Franciscan leadership under Michael of Cesena upheld the absolute poverty of Christ and the apostles as the model of Franciscan life, and John XXII declared this view heretical in the bull *Cum inter nonnullos* (1323). Ockham sided with the Franciscan position and wrote against the pope, notably in the *Work of Ninety Days* (*Opus nonaginta dierum*), and moved to Munich, where he wrote long political and ecclesiastical treatises until his death in 1347.
+### Intuitive and Abstractive Cognition
+Ockham reshaped epistemological foundations through his account of cognition:
+- **Intuitive cognition (*notitia intuitiva*)**: The immediate, direct awareness of a singular existing thing, which enables the intellect to judge with certainty that the thing exists (or does not exist). Intuitive cognition serves as the foundation for all contingent factual knowledge.
+- **Abstractive cognition (*notitia abstractiva*)**: Cognition that abstracts from actual existence or non-existence, operating with general terms, propositions, and conceptual relations regardless of whether the object is present.
 
-## The Principle of Economy (Ockham's Razor)
+### Divine Omnipotence and Voluntarism
+In theology, Ockham stressed the radical freedom and omnipotence of God. He distinguished between God's absolute power (*potentia absoluta*)—by which God can bring about any state of affairs that does not involve a logical contradiction—and God's ordained power (*potentia ordinata*)—the actual order of nature, grace, and morality that God has freely established. This voluntaristic framework severed the Thomistic link between natural reason and divine necessity, affirming that the created order is contingent rather than logically necessary.
 
-The common formulation "entities must not be multiplied without necessity" does not occur verbatim in his books, and was formulated later. What we find in him are similar phrases, among them that plurality is not to be posited without necessity, and that what can be explained by fewer principles may not be explained by more. In its original context it is a tool for criticizing scholastic metaphysics, which posits entities such as universal substantial forms, common natures and real relations between things, whereas he holds that the singular individual and individual properties suffice to explain most of what we observe.
+### Logic and Semantic Theory
+In his major logical treatise, the *Summa Logicae* (c. 1323), Ockham formulated a comprehensive semantic system. He classified terms into spoken, written, and mental words, developing an elaborate doctrine of supposition (*suppositio*):
+- *Suppositio personalis*: When a term stands for the individual entities it signifies (e.g., "human is mortal").
+- *Suppositio simplex*: When a term stands for the mental concept (e.g., "human is a species").
+- *Suppositio materialis*: When a term stands for the linguistic word itself (e.g., "'human' has two syllables").
 
-## Main Ideas
+## Political Theory and Ecclesiology
 
-- **Nominalism**: nothing exists but individual things; universals are signs in the mind or in language that signify many individuals, not common natures existing in things as Duns Scotus held, influenced by Ibn Sina on the idea of the "common nature".
-- **Intuitive and abstractive cognition**: intuitive cognition establishes the existence of the individual thing, present or absent; abstractive cognition produces general concepts without the thing's existence. With this he separated the conditions of knowing existence from the conditions of forming concepts.
-- **Absolute divine power**: he affirms that God can do whatever does not entail a contradiction, and that divine morality does not constrain his absolute power, a position that would contribute to unsettling the Thomist system.
-- **Logic**: in the *Summa Logicae* he formulated a theory of terms (signification and reference) and of inference, and regarded logic as a linguistic instrument, not a metaphysical system.
-- **Political theory**: in the *Dialogus* and the *Octo quaestiones de potestate papae* (Eight Questions on the Power of the Pope) he criticized the claim of universal papal authority, and defended the independence of temporal power and the right of the emperor and the community to litigation and resistance when the pope errs.
+During his Munich exile, Ockham authored major political works, including the *Work of Ninety Days* (*Opus nonaginta dierum*), the *Dialogus*, and the *Eight Questions on the Power of the Pope* (*Octo quaestiones de potestate papae*). He argued that temporal authority derives from God through the community and is distinct from spiritual authority, denying that the papacy possessed universal secular jurisdiction. Ockham maintained that popes and general councils could err, asserting that ultimate orthodoxy could be preserved even in a single faithful believer.
 
-## Limits and Criticism
+## Influence and Critique
 
-- **Disagreement over the interpretation of nominalism**: some scholars hold that Ockham is a "conceptualist" more than a nominalist in the strict sense, and that describing him as the founder of modernity is an exaggeration.
-- **The link to modern empiricism**: the existence of direct historical links between him and Hobbes and Locke is doubtful; similarity of theses does not mean influence.
-- **The text of the principle**: what is commonly said about "Ockham's razor" is sometimes used as a general rule preferring the simplest explanation, whereas for him it was a specific principle in ontology.
-- **The political controversy**: his positions drew criticism from Thomist theologians, who held that they dismantle the unity of reason and faith; conversely, some historians held that they paved the way for the idea of limited government.
+Ockham's nominalism gave rise to the *via moderna*, championed by fourteenth- and fifteenth-century thinkers such as Gabriel Biel and Pierre d'Ailly, helping pave the way for modern empirical science and philosophical empiricism. Critics, beginning with contemporary Thomist and Scotist scholars, charged that his denial of real universals dismantled metaphysics and endangered theological doctrines such as the sacraments. In modern philosophy, Ockham's logical semantics and ontology of singulars are regarded as precursors to early modern empiricism and twentieth-century analytic nominalism (e.g., Nelson Goodman and W. V. Quine).
+
+## Major Works
+
+- *Scriptum in librum primum Sententiarum* (*Ordinatio*, c. 1317–1319)
+- *Summa Logicae* (c. 1323)
+- *Quodlibeta Septem* (c. 1322–1324)
+- *Opus nonaginta dierum* (1332)
+- *Dialogus de potestate papae et imperatoris* (c. 1334–1346)
+- *Octo quaestiones de potestate papae* (c. 1340–1342)
 
 ## Sources
 
-- Loux, M. J. (trans., 1974). *Ockham's Theory of Terms: Part I of the Summa Logicae*. University of Notre Dame Press.
-- Adams, M. M. (1987). *William Ockham*. 2 vols. University of Notre Dame Press.
-- McGrade, A. S. (1974). *The Political Thought of William of Ockham*. Cambridge University Press.
-- Spade, P. V. (ed., 1999). *The Cambridge Companion to Ockham*. Cambridge University Press.
+- Loux, M. J. (trans., 1974). *Ockham's Theory of Terms: Part I of the Summa Logicae*. Notre Dame: University of Notre Dame Press.
+- Adams, M. M. (1987). *William Ockham* (2 vols.). Notre Dame: University of Notre Dame Press.
+- McGrade, A. S. (1974). *The Political Thought of William of Ockham*. Cambridge: Cambridge University Press.
+- Spade, P. V. (ed., 1999). *The Cambridge Companion to Ockham*. Cambridge: Cambridge University Press.

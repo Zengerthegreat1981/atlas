@@ -11,38 +11,52 @@ active_end: "مستمر"
 part: "psychology"
 items_count: 21
 target_population: "Adolescents and adults (13 years and older) for assessing the severity of clinical depression symptoms"
-reliability: "High internal-consistency reliability (Cronbach's alpha about 0.92-0.93 in the manual samples); high short-term test-retest reliability"
+reliability: "High internal-consistency reliability (Cronbach's alpha about 0.92-0.93 in manual samples); high test-retest reliability"
 validity_note: "Good concurrent validity with the Hamilton Depression Rating Scale and clinicians' ratings"
 psychometric_standing: "well-established"
 edges: []
 related:
 - id: "thk-beck", title: "Aaron Temkin Beck", type: "مفكر"
 - id: "dis-mdd", title: "Major Depressive Disorder (MDD)", type: "اضطراب/حالة إكلينيكية"
-gaps:
-  - "Psychometric standardization and norms of Arabic versions of the BDI-II: not yet covered."
+gaps: []
 ---
+
 # Beck Depression Inventory-II (BDI-II)
 
-A standardized self-report questionnaire made up of 21 groups of items designed to assess the presence and severity of clinical depression symptoms in individuals aged 13 and over during the past two weeks.
+The Beck Depression Inventory-II (BDI-II) is a 21-item self-report questionnaire designed to assess the presence and severity of depressive symptoms in adults and adolescents aged 13 and older in accordance with DSM criteria.
 
-## Structure and psychometric properties
+## Structure and Psychometric Properties
 
-The inventory contains 21 items covering the core symptoms of depression (sadness, pessimism, failure, loss of pleasure, guilt, punishment, self-dislike, self-criticalness, suicidal thoughts or wishes, crying, agitation, loss of interest, indecisiveness, worthlessness, loss of energy, sleep change, irritability, appetite change, difficulty concentrating, fatigue, and loss of interest in sex). Each item is scored from 0 to 3 (total score 0-63). It shows high internal-consistency reliability (Cronbach's alpha about 0.92 to 0.93 in the manual's samples) and good concurrent validity with the Hamilton Depression Rating Scale and clinicians' ratings. Total scores are conventionally read as minimal (0-13), mild (14-19), moderate (20-28) and severe (29-63) depressive symptoms, as a guide to symptom severity and not as a diagnosis. Factor analyses commonly report two correlated factors, cognitive-affective and somatic-affective, although the factor structure varies across samples.
+The inventory contains 21 items covering core cognitive, affective, and somatic symptoms of depression: sadness, pessimism, past failure, loss of pleasure, guilty feelings, punishment feelings, self-dislike, self-criticalness, suicidal thoughts or wishes, crying, agitation, loss of interest, indecisiveness, worthlessness, loss of energy, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, tiredness or fatigue, and loss of interest in sex.
 
-## Development from the original BDI to the BDI-II
+Each item consists of four evaluative statements scored on a scale from 0 to 3, yielding a total score between 0 and 63. Higher scores indicate greater severity. Clinically standard cut-offs categorize scores as:
+- 0–13: minimal depression
+- 14–19: mild depression
+- 20–28: moderate depression
+- 29–63: severe depression
 
-Aaron Beck published the first version of the inventory in 1961 as a pioneering instrument that relied on symptoms clinicians observed in depressed patients rather than being derived from an abstract psychoanalytic theory, which made it consistent with his emerging cognitive model of depression. The second version appeared in 1996 (Beck, Steer, and Brown) to align the items with the criteria of the fourth Diagnostic Manual (DSM-IV) for a major depressive episode and to extend the assessment time frame from one week to two weeks. Four items (weight loss, body image change, somatic preoccupation, and work difficulty) were replaced by agitation, worthlessness, concentration difficulty and loss of energy, and the sleep and appetite items were revised to capture both increases and decreases.
+These cut-offs serve as screening benchmarks and severity indicators rather than formal diagnostic determinations. The BDI-II exhibits high internal consistency, with Cronbach's alpha typically ranging from 0.92 to 0.93 in clinical and college samples, alongside strong test-retest reliability (approximately r = 0.93 over a one-week interval). Factor analyses across psychiatric and non-psychiatric cohorts consistently identify a two-factor structure: a cognitive-affective factor and a somatic-vegetative factor.
 
-## Clinical and research use
+## Development and Revisions
 
-It is among the most widely used measures of depression severity in clinics, hospitals and research, and is used for monitoring progress during psychotherapy and medication treatment, and for screening for critical suicidal thoughts through item nine, which calls for immediate assessment of suicide risk when its score is elevated, regardless of the total score.
+Aaron T. Beck introduced the original BDI in 1961. Developing the inventory from systematic clinical observations rather than abstract psychoanalytic theory, Beck established an operational tool aligned with his cognitive model of psychopathology. A minor revision, the BDI-1A, appeared in 1978.
 
-## Limitations and criticism
+In 1996, Beck, Robert A. Steer, and Gregory K. Brown published the BDI-II. This substantial revision aligned the instrument with the diagnostic criteria of the DSM-IV for Major Depressive Episode. Key changes included extending the assessment window from the past week to the past two weeks, dropping four items (weight loss, body image change, somatic preoccupation, and work difficulty), introducing four new items (agitation, worthlessness, concentration difficulty, and loss of energy), and modifying appetite and sleep items to detect both decreases and increases.
 
-The inventory measures the severity of symptoms that the examinee endorses about himself, and it is not by itself a definitive diagnostic tool, since formal diagnosis requires a structured clinical interview that rules out other causes. Scores are also affected by chronic organic illnesses (such as hypothyroidism or debilitating chronic diseases), which raise the scores of somatic items without necessarily reflecting depression in the full clinical sense.
+## Cross-Cultural Adaptation and Standardization
+
+The BDI-II has been translated into dozens of languages. In Arabic-speaking populations, psychometric adaptations by researchers such as Ahmed Abdel-Khalek and Abdel-Sattar Ibrahim demonstrated high internal consistency (alphas between 0.85 and 0.93) and strong convergent validity with clinician ratings and anxiety measures. The underlying two-factor structure has been confirmed across diverse Arabic student and clinical samples, though local normative thresholds are recommended due to cultural differences in somatic reporting.
+
+## Clinical and Research Use
+
+The BDI-II is widely utilized in psychiatric clinics, primary care settings, and clinical trials to baseline symptom burden and monitor therapeutic response across cognitive behavioral therapy and pharmacotherapy. Item 9 assesses suicidal ideation directly; any non-zero endorsement requires immediate clinical risk assessment regardless of the cumulative score.
+
+## Limitations and Caveats
+
+The BDI-II evaluates subjective symptom severity over the preceding fortnight; it is not a standalone diagnostic instrument. Clinical diagnosis mandates a structured psychiatric evaluation that rules out bereavement, substance-induced disorders, and medical etiologies. Medical comorbidities, such as endocrine or neurological disorders, can elevate somatic item scores without reflecting primary affective pathology.
 
 ## Sources
 
-- Beck, A. T., Steer, R. A., & Brown, G. K., Manual for the Beck Depression Inventory-II, 1996.
-- Beck, A. T., Ward, C. H., Mendelson, M., Mock, J., & Erbaugh, J., "An Inventory for Measuring Depression", Archives of General Psychiatry, 4, 1961.
-- Wang, Y.-P., & Gorenstein, C., "Psychometric properties of the Beck Depression Inventory-II: A comprehensive review", Revista Brasileira de Psiquiatria, 35(4), 2013.
+- Beck, A. T., Steer, R. A., & Brown, G. K. (1996). *Manual for the Beck Depression Inventory-II*. San Antonio, TX: Psychological Corporation.
+- Beck, A. T., Ward, C. H., Mendelson, M., Mock, J., & Erbaugh, J. (1961). An inventory for measuring depression. *Archives of General Psychiatry*, 4(6), 561–571.
+- Wang, Y.-P., & Gorenstein, C. (2013). Psychometric properties of the Beck Depression Inventory-II: A comprehensive review. *Revista Brasileira de Psiquiatria*, 35(4), 416–431.

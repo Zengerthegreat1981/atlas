@@ -2,7 +2,7 @@
 slug: "sch-spinozism"
 id: "SCH-0297"
 type: "مدرسة"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Spinozism"
 en: "Spinozism"

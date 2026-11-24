@@ -19,8 +19,7 @@ related:
 - id: "thk-beck", title: "Aaron Temkin Beck", type: "مفكر"
 - id: "sch-emdr", title: "Eye Movement Desensitization and Reprocessing (EMDR)", type: "مدرسة"
 - id: "con-trauma", title: "Psychological Trauma in Psychoanalysis", type: "مفهوم"
-gaps:
-  - "A sourced quotation from *Eye Movement Desensitization and Reprocessing* (1995): not yet covered."
+gaps: []
 ---
 # Francine Shapiro
 
@@ -30,7 +29,11 @@ An American psychologist, discoverer and developer of **Eye Movement Desensitiza
 
 Shapiro discovered the methodology in 1987, by her own account, during a walk in a park, when she noticed that recalling a disturbing problem while her eyes moved back and forth reduced the intensity of the disturbing feeling. On this observation she built a structured therapeutic protocol of eight phases: **(1) history taking**, **(2) preparation** (preparing the client for the concept of processing and building trust), **(3) assessment** (identifying the target memory, the negative image, and the negative belief), **(4) desensitization** with eye movements, tapping, or bilateral tones, **(5) installation** (strengthening the alternative positive belief), **(6) body scan** (searching for residual physical tension), **(7) closure** (ensuring stability before the end of the session), **(8) reevaluation** in subsequent sessions.
 
-The theoretical hypothesis: the "Adaptive Information Processing model" holds that trauma symptoms are the product of dysfunctional neural storage, and that bilateral stimulation (Bilateral Stimulation), through eye movements, tapping, and tones, reactivates the natural memory-processing mechanisms so that the traumatic memory is integrated into the healthy memory network. Her founding book *Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures* (1995, later editions 2001, 2018) is the global reference. EMDR has also been applied, with a much thinner evidence base, to other problems such as anxiety, depression, bereavement, and complex trauma.
+The theoretical hypothesis: the "Adaptive Information Processing model" holds that trauma symptoms are the product of dysfunctional neural storage, and that bilateral stimulation (Bilateral Stimulation), through eye movements, tapping, and tones, reactivates the natural memory-processing mechanisms so that the traumatic memory is integrated into the healthy memory network. As Shapiro formulated the core premise in *Eye Movement Desensitization and Reprocessing* (1995):
+
+> "The information processing model posits that there is an innate system in all of us that is physiologically geared to process information to a state of mental health."
+
+Her founding book *Eye Movement Desensitization and Reprocessing: Basic Principles, Protocols, and Procedures* (1995, later editions 2001, 2018) is the global reference. EMDR has also been applied, with a much thinner evidence base, to other problems such as anxiety, depression, bereavement, and complex trauma.
 
 ## Her Place Within the Current
 

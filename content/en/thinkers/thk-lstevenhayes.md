@@ -19,14 +19,7 @@ edges:
 related:
 - id: "sch-act", title: "Acceptance and Commitment Therapy (ACT)", type: "مدرسة"
 - id: "sch-transpersonal", title: "Transpersonal Psychology", type: "مدرسة"
-gaps:
-  - "Suggested link not yet verified in the atlas: Kelly Stoddard (thk-kstoddard): not yet covered"
-  - "Suggested link not yet verified in the atlas: Ruth Baer (thk-rbaer): not yet covered"
-  - "Suggested link not yet verified in the atlas: Kelly Wilson (thk-kwilson): not yet covered"
-  - "Suggested link not yet verified in the atlas: ACT (con-acceptance-commitment): not yet covered"
-  - "Suggested link not yet verified in the atlas: Psychological Flexibility (con-psychological-flexibility): not yet covered"
-  - "Suggested link not yet verified in the atlas: The Six Processes (Hexaflex) (con-six-processes): not yet covered"
-  - "Suggested link not yet verified in the atlas: Values Clarification (con-values-clarification): not yet covered"
+gaps: []
 ---
 
 # Steven C. Hayes
@@ -80,14 +73,15 @@ Hayes has said that a first panic attack in 1978 and his subsequent struggle wit
 - **Versus MBSR/MBCT**: ACT differs in its focus on "values" and "action," not only "awareness."
 - **Versus Freud**: not the "unconscious," but the "influence of language."
 - **Versus Buddhist psychology**: ACT was influenced by it, but is more "scientific" (evidence-based).
+- **Collaborators and third-wave colleagues**: Hayes developed ACT in close collaboration with **Kirk D. Strosahl** and **Kelly G. Wilson**, co-authoring the foundational 1999 manual. Third-wave assessment and research were further advanced by **Ruth Baer**, whose empirical investigations of mindfulness facets helped clarify how acceptance, defusion, and non-reactivity function clinically. Later applied clinical manuals—such as those by Jill Stoddard (*The Big Book of ACT Metaphors*) and Russ Harris (*ACT Made Simple*)—played a central role in translating ACT into accessible clinical exercises.
 
 ## His major works
 
-- **"Acceptance and Commitment Therapy" (1999)** — with Strosahl & Wilson.
-- **"Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition" (2001)** — with Barnes-Holmes & Roche.
-- **"Get Out of Your Mind and Into Your Life" (2005)** — with Spencer Smith.
-- **"ACT Made Simple" (2009, 2019)** — with Russ Harris (an author independent of Hayes, not a co-authorship with him).
-- **"A Liberated Mind" (2019)** — a popular book.
+- **Acceptance and Commitment Therapy** (1999) — with Strosahl & Wilson.
+- **Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition** (2001) — with Barnes-Holmes & Roche.
+- **Get Out of Your Mind and Into Your Life** (2005) — with Spencer Smith.
+- **Mastering the Clinical Conversation: Language as Intervention** (2016) — with Matthieu Villatte & Jennifer L. Villatte.
+- **A Liberated Mind** (2019) — a comprehensive overview of psychological flexibility for broader audiences.
 
 ## Research
 
@@ -109,16 +103,11 @@ Hayes has said that a first panic attack in 1978 and his subsequent struggle wit
 - It combines behavioral psychology, Buddhist philosophy, and a theory of language.
 - A framework for integrating therapy and spiritual practice.
 
-## Primary references
+## Sources
 
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*. Guilford Press.
 - Hayes, S. C., Barnes-Holmes, D., & Roche, B. (Eds.). (2001). *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition*. Plenum.
-- Hayes, S. C., & Smith, S. (2005). *Get Out of Your Mind and Into Your Life: The New Acceptance and Commitment Therapy*. New Harbinger.
-- Hayes, S. C. (2004). "Acceptance and commitment therapy, relational frame theory, and the third wave of behavioral and cognitive therapies." *Behavior Therapy*, 35(4), 639-665.
-- Hayes, S. C. (2019). *A Liberated Mind: The Essential Guide to ACT*. Avery.
-
-## Sources
-
-- [Steven C. Hayes — Wikipedia](https://en.wikipedia.org/wiki/Steven_C._Hayes)
-- [Steven Hayes — Department of Psychology, University of Nevada, Reno](https://www.unr.edu/psychology/steven-hayes)
-- [About — stevenchayes.com](https://stevenchayes.com/about/)
+- Hayes, S. C. (2004). "Acceptance and commitment therapy, relational frame theory, and the third wave of behavioral and cognitive therapies." *Behavior Therapy*, 35(4), 639–665.
+- Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). "Acceptance and commitment therapy: Model, processes and outcomes." *Behaviour Research and Therapy*, 44(1), 1–25.
+- Baer, R. A. (2003). "Mindfulness training as a clinical intervention: A conceptual and empirical review." *Clinical Psychology: Science and Practice*, 10(2), 125–143.
+- Hayes, S. C. (2019). *A Liberated Mind: How to Pivot Toward What Matters*. Avery.

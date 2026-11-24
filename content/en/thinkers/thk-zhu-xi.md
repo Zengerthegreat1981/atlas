@@ -23,53 +23,61 @@ gaps: []
 
 # Zhu Xi
 
-A Chinese Confucian philosopher, among the most prominent representatives of the "School of Principle" (Lixue, 理學) in Neo-Confucianism. He is regarded as the doctrine's greatest "theorist" and one of the most influential philosophers of China. He grouped the "Four Books" (四書 sìshū) as a set and wrote commentaries on them, together with commentaries on other classics such as the Odes and the Changes, and his Four Books commentaries became the "official version" in the imperial examination system (from 1313 CE until 1905 CE).
+Zhu Xi (1130–1200), courtesy name Yuanhui and style name Hui'an, was the preeminent Chinese philosopher of the Southern Song dynasty and the master synthesizer of Neo-Confucianism. He consolidated the "School of Principle" (*Lixue*), also known as the Cheng-Zhu School after the brothers Cheng Hao and Cheng Yi. Zhu Xi established the canonical status of the "Four Books" (*Sishu*), providing them with extensive commentaries that became the mandatory curriculum for the imperial civil service examinations from 1313 until 1905, thereby shaping East Asian intellectual and political life for centuries.
 
-## What He Offered
+## Life and Career
 
-- **"Principle" (理 lǐ)**: the cosmic principle that governs everything, which for Zhu Xi is the reason for a thing's existence and the law of what it ought to be. Principle is one in its origin, and its forms are multiple in accordance with the multiplicity of things, which is the meaning of the phrase "Principle is one and its manifestations are many." The principle in each thing is the Supreme Ultimate (Taiji) itself in its entirety, just as the moon appears whole in every body of water.
-- **"Qi" (氣 qì)**: the material energy of which sensible things are composed. Qi gathers in things and disperses, so it is changeable and varies in clarity and turbidity, while principle remains constant. By this variation he explains the differences of temperament and lot among people.
-- **"Knowledge through investigation" (格物 gégéwù)**: The phrase "investigation of things" is taken from the text of the "Great Learning" (Daxue), and he interpreted it as reaching the principle of things through study and observation, and on this basis made the reading of the classical books and reflection on events a path to moral knowledge.
-- **"Heart-mind" (心 xīn)**: for him the heart-mind combines principle and qi together, and it is what perceives nature and regulates the feelings. In the light of what appears in the "Book of Documents," he distinguishes between the "heart-mind of the Dao," which follows the moral principle, and the "heart-mind of the human," which follows inclination and bodily need, and the task of cultivation is for the first to govern the second.
-- **"The Mean" (中庸 zhōngyōng)**: Zhu Xi explained "zhong" as the state of the soul before the emotions are stirred, and "he" (harmony) as its state after the emotions appear in a moderate way, and made "yong" mean constancy and habituation in daily life.
-- **The "Four Books" (四書 sìshū)**: "Lunyu" (the Analects), "Mengzi" (the Book of Mencius), "Daxue" (the Great Learning), "Zhongyong" (the Mean and Moderation). He arranged them in an "official version" with commentaries.
+Zhu Xi was born in Youxi, Fujian province, in 1130. A precocious scholar, he passed the highest imperial examination (*jinshi*) in 1148 at the age of nineteen. Although he held several official prefectural posts—notably in Nankang and Zhangzhou, where he promoted agrarian reform, public granaries, and community compacts—he spent most of his life in scholarly retreat, teaching at academies and writing.
 
-## His Place in the Current
+In his early twenties, Zhu Xi turned away from his youthful interests in Chan Buddhism and Daoism to study under Li Tong (1093–1163), an intellectual descendant of Cheng Yi, who grounded him in classical Confucian metaphysics. In 1175, Zhu Xi met the idealist philosopher Lu Jiuyuan (Lu Xiangshan) at the famous Goose Lake Temple (*Ehu*) debate, mediated by Lü Zuqian; this confrontation crystallized the enduring division between the School of Principle and the School of Mind (*Xinxue*). In the same year, Zhu Xi and Lü Zuqian published *Reflections on Things at Hand* (*Jinsilu*), an anthology synthesizing the thought of Zhou Dunyi, Zhang Zai, Cheng Hao, and Cheng Yi.
 
-At the heart of the "School of Principle" (Lixue): he combined the thought of Zhou Dunyi, Zhang Zai, Cheng Hao and Cheng Yi into a single coherent system. From the two Cheng brothers, especially Cheng Yi, he took the priority of principle, and built upon it his theory of heart-mind and nature. He placed the "Four Books" at the head of the Confucian curriculum, and his commentaries became the authorized ones in the imperial examination system from 1313 CE.
+In 1179–1180, while prefect of Nankang, Zhu Xi rebuilt the White Deer Grotto Academy (*Bailudong Shuyuan*) at Mount Lu in Jiangxi, formulating academy statutes that became the institutional model for private academies across China and East Asia. In 1196, political rivals led by Han Tuozhou launched an ideological purge against Zhu Xi's faction, banning his teachings as "false learning" (*weixue*). Deprived of his titles, Zhu Xi continued teaching until his death in 1200. He was posthumously rehabilitated, receiving the posthumous title Wen (*Master of Letters*) in 1209 and Duke of Hui in 1230.
 
-## Limits
+## Metaphysical and Ethical Framework
 
-- The Yuan and Ming dynasties officially adopted his doctrine, but opposition remained, most notably the "School of Mind" (Xinxue) of Lu Jiuyuan and then Wang Yangming, both of them Neo-Confucian.
-- It is disputed whether some of the commentaries and sayings recorded in the "Classified Conversations of Master Zhu" are to be attributed to Zhu Xi himself, because his students recorded them from his sessions.
-- He revised his commentary on the "Four Books" until his last days, so the early versions of the commentary differ from the final form, and it is sometimes difficult to determine his final view on a particular question.
+### Principle (*Li*) and Material Force (*Qi*)
+Zhu Xi developed an integrative dual-aspect cosmology:
+- **Principle (*Li*)**: The incorporeal, metaphysical order, cosmic reason, and normative blueprint of all things. Principle is eternal, unproduced, and indestructible. It is one in its universal source, yet manifested diversely in all entities: "Principle is one, but its manifestations are many" (*li yi fen shu*). The totality of Principle is present in every singular thing, like the moon reflecting fully in every body of water.
+- **Material Force (*Qi*)**: The physical, dynamic psycho-physical matter-energy that condenses to form tangible objects and disperses upon their dissolution. While Principle provides the pattern, *qi* provides substance, extension, and movement. Zhu Xi maintained that *li* and *qi* never exist separately in actuality, but *li* is logically prior.
 
-## Most Important Works (Attributed)
+### Human Nature and the Heart-Mind
+Zhu Xi grounded Confucian anthropology in his metaphysics:
+- **Original Nature (*benran zhi xing*)**: Identical with pure Principle, innately good and endowed with the four cardinal virtues: benevolence (*ren*), righteousness (*yi*), propriety (*li*), and wisdom (*zhi*).
+- **Physical Nature (*qizhi zhi xing*)**: The nature endowed with physical *qi*. If an individual's *qi* is clear and pure, moral goodness shines forth easily; if turbid and coarse, it obstructs original nature, generating selfish desires (*renyu*) and moral error.
+- **Heart-Mind (*Xin*)**: The uniting locus of Principle and *qi*. Drawing upon the *Book of Documents*, Zhu Xi distinguished between the "Mind of Dao" (*Daoxin*), which spontaneously heeds moral principle, and the "Human Mind" (*Renxin*), which responds to bodily impulses and requires vigilant self-governance.
 
-- *Sishu Zhangju Jizhu* (四书章句集注, "Collected Commentaries on the Four Books by Chapter and Sentence").
-- *Yixue Qimeng* (易学启蒙, "Introduction to the Study of the Book of Changes").
-- *Zhuzi Yulei* (朱子语类, "Classified Conversations of Master Zhu"), a record of his sayings by his students.
+### The Investigation of Things (*Gewu*) and Cultivation
+In his commentary on the *Great Learning* (*Daxue*), Zhu Xi interpreted the phrase *gewu* ("investigation of things") as the tireless intellectual and moral inquiry into the principle inhering in all external affairs, classical texts, and natural events. This intellectual investigation must be coupled with an internal spiritual attitude of "abiding in reverence" (*juzhi yi jing*)—a quiet, focused mindfulness that maintains the uprightness of the heart-mind.
 
-## His Life
+## The Canon of the Four Books
 
-Zhu Xi was born in 1130 in Youxi in Fujian province and obtained the jinshi degree in 1148 at the age of eighteen, but spent only a short time in office, moving between honorary posts in which he drew a salary while teaching and writing. In his youth he was drawn for a time to Buddhism and Daoism, and in his early thirties he studied under Li Tong, who belonged to the line of Cheng Yi's students, and so inherited from him the system of principle. In 1175 the Goose Lake Temple meeting brought him together with Lu Jiuyuan and Lu Jiuling through the mediation of Lü Zuqian, and the dispute between the School of Principle and the School of Mind intensified. In the same year he issued with Lü Zuqian their anthology "Reflections on Things at Hand" (Jinsilu), which became an entry to Neo-Confucianism. He then restored the White Deer Grotto Academy in Jiangxi in 1179–1180 and wrote a teaching regulation for it, and it became a model for many academies. Shortly before his death in 1200, the current of his students was branded by those with influence at court as "false learning" and restrictions were issued on his doctrine, and he was rehabilitated after his death.
+Zhu Xi rearranged the traditional Confucian corpus, elevating the "Four Books" above the Five Classics as the foundational entry point for moral education:
+1. *The Great Learning* (*Daxue*) — for establishing the framework of self-cultivation and governance.
+2. *The Analects* (*Lunyu*) — for concrete moral principles and dialogue with Confucius.
+3. *The Mencius* (*Mengzi*) — for cultivating righteous resolve and recognizing original goodness.
+4. *The Doctrine of the Mean* (*Zhongyong*) — for comprehending cosmic harmony and metaphysical subtlety.
 
-## Educational Method
+His monumental commentary, *Sishu Zhangju Jizhu* (*Collected Commentaries on the Four Books by Chapter and Sentence*), which he edited until his deathbed, became the undisputed orthodox standard for the imperial examinations from 1313 to 1905.
 
-His teaching rests on the view that knowledge and action are inseparable: systematic study of the classical texts gives understanding, and self-cultivation through reverence (jing) preserves the uprightness of the heart-mind. Zhu Xi arranged the reading of the "Four Books" so that the learner begins with the Great Learning, then the Analects, then the Book of Mencius, then the Mean and Moderation. He made this a ladder through which the student passes from cultivating the self to understanding the Supreme Ultimate. He also revived family rituals in the book "Family Rituals" (Jiali), which became a common reference in China, Korea and Vietnam.
+## Influence and Critique
 
-## Influence and Reception
+Zhu Xi's Neo-Confucianism shaped intellectual life throughout East Asia:
+- In Korea, the Joseon dynasty established Cheng-Zhu Neo-Confucianism as state ideology, sparking profound philosophical debates among scholars such as Yi Hwang (Toegye) and Yi I (Yulgok).
+- In Japan, the Tokugawa shogunate established Zhu Xi's philosophy (*Shushigaku*) as the authorized doctrine under Hayashi Razan.
 
-His doctrine spread throughout East Asia: in Korea with the school of Yi Hwang (Toegye) and in Japan with the Shushigaku school in the Tokugawa period. It was the basis of official education for centuries. Wang Yangming then attacked him because he separated knowledge from action and made the investigation of the principle of external things a wearisome path, and Dai Zhen criticized him in the eighteenth century because he made principle an entity independent of qi, calling this a Buddhist and Daoist imposition on Confucianism, and holding that it can justify domination under the pretext of principle.
+Critics frequently challenged Zhu Xi's system. Wang Yangming (1472–1529) argued that searching for principle in external objects was an exhausting, alienated detour, insisting that the mind itself is principle. In the Qing dynasty, evidential scholars like Dai Zhen (1724–1777) argued that Zhu Xi's separation of principle from physical desire had imported Buddhist asceticism and Daoist quietism into Confucianism, transforming "principle" into a weapon of social repression.
 
-## Limits and Critique
+## Major Works
 
-His critics hold that the duality of principle and qi raises an old problem: how can what is abstract affect what is material? Zhu Xi tried to answer that principle does not precede qi temporally but logically, but the objection remains. His method is faulted for making the official interpretation the criterion for understanding the classical books, thereby restricting freedom of interpretation in the era of the imperial examinations. In addition, the editing of the final forms of his sayings by his students makes some of what is attributed to him unsettled.
+- *Sishu Zhangju Jizhu* (*Collected Commentaries on the Four Books by Chapter and Sentence*)
+- *Jinsilu* (*Reflections on Things at Hand*, co-compiled with Lü Zuqian, 1175)
+- *Yixue Qimeng* (*Introduction to the Study of the Book of Changes*)
+- *Zhuzi Yulei* (*Classified Conversations of Master Zhu*, compiled by disciples)
+- *Bailudong Shuyuan xuegui* (*Statutes of the White Deer Grotto Academy*)
 
 ## Sources
 
-- Chan, Wing-tsit (trans.). *A Source Book in Chinese Philosophy*. Princeton University Press, 1963.
-- Chan, Wing-tsit (trans.). *Reflections on Things at Hand: The Neo-Confucian Anthology*. Columbia University Press, 1967.
-- Gardner, Daniel K. *Zhu Xi's Reading of the Analects: Canon, Commentary, and the Classical Tradition*. Columbia University Press, 2003.
-- Tillman, Hoyt Cleveland. *Confucian Discourse and Chu Hsi's Ascendancy*. University of Hawaii Press, 1992.
-- Fung Yu-lan. *A History of Chinese Philosophy, Vol. II: The Period of Classical Learning*. Princeton University Press, 1953.
+- Chan, Wing-tsit (trans., 1963). *A Source Book in Chinese Philosophy*. Princeton: Princeton University Press.
+- Chan, Wing-tsit (trans., 1967). *Reflections on Things at Hand: The Neo-Confucian Anthology*. New York: Columbia University Press.
+- Gardner, D. K. (2003). *Zhu Xi's Reading of the Analects: Canon, Commentary, and the Classical Tradition*. New York: Columbia University Press.
+- Tillman, H. C. (1992). *Confucian Discourse and Chu Hsi's Ascendancy*. Honolulu: University of Hawaii Press.

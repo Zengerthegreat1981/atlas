@@ -29,7 +29,7 @@ gaps: []
 
 ## The Central Thesis
 
-There is only **one substance** of infinite attributes, God or Nature (*Deus sive Natura*); and everything we call things and souls is a **mode** (*modi*) of this substance, and thought and extension are two attributes of it, not two worlds. It follows that human emotion is not a flaw in nature to be condemned, but is studied as lines and surfaces are studied, and that freedom is not an escape from necessity but its **understanding**.
+There is only **one substance** of infinite attributes, God or Nature (*Deus sive Natura*); and everything we call things and souls is a **mode** (*modus*) of this substance, and thought and extension are two attributes of it, not two worlds. It follows that human emotion is not a flaw in nature to be condemned, but is studied as lines and surfaces are studied, and that freedom is not an escape from necessity but its **understanding**.
 
 ## Structure of the Work
 
@@ -50,7 +50,7 @@ Part Four then defines **bondage** as a human being's inability to govern his af
 ## Reception and Criticism
 
 - **Pierre Bayle**: devoted to Spinoza in his dictionary (1697) an article in which he described the doctrine as a most monstrous hypothesis, and made him an atheist of a new type who lives a quiet, virtuous life, so that the epithet "Spinozist" broadened to include anyone suspected of atheism.
-- **The Pantheism Controversy** (*Pantheismusstreit*): in the "Letters on the Doctrine of Spinoza" (1785) **Jacobi** related that Lessing admitted to him in a conversation that he knew no philosophy other than Spinoza's, and **Mendelssohn** replied with the book "To the Friends of Lessing" (1786), and the debate passed to the minds of Kant, Herder, and Goethe.
+- **The Pantheism Controversy** (*Pantheismusstreit*): in the *Letters on the Doctrine of Spinoza* (1785) **Jacobi** related that Lessing admitted to him in a conversation that he knew no philosophy other than Spinoza's, and **Mendelssohn** replied with the book *To the Friends of Lessing* (1786), and the debate passed to the minds of Kant, Herder, and Goethe.
 - **Hegel**, in his lectures on the history of philosophy, made Spinozism the beginning of all philosophizing, while faulting it at the same time for the finite's drowning in substance without return.
 - **The modern psychological revival**: **Antonio Damasio**, in *Looking for Spinoza: Joy, Sorrow, and the Feeling Brain* (Harcourt, 2003), read Part Three as a precedent for a neural theory of emotion — emotion is a bodily event first and feeling an idea of it — and connected that to his hypothesis of **somatic markers**; a connection that stirred controversy among specialists in Spinoza.
 
@@ -72,7 +72,7 @@ The last part presents a practical method for relieving the affect: we form a cl
 
 ## Arabic Presence
 
-Spinoza entered the Arab reader through books on the history of philosophy and Fouad Zakariyya's expositions, including a book on him published in the 1960s, and through Hassan Hanafi's translation of the "Theological-Political Treatise"; the *Ethics* was translated into Arabic by Jalal al-Din Said. Comparative studies point to links between Spinoza's concepts and the thought of Ibn Rushd and Maimonides in the debate between reason and revelation and in hermeneutic method, and these remain links of intellectual lineage and not documented citations, except for his explicit criticism of Maimonides in the "Treatise."
+Spinoza was introduced to Arabic readership through works on the history of philosophy and Fouad Zakariyya's studies, including his monograph published in the 1960s, and through Hassan Hanafi's translation of the *Theological-Political Treatise*; the *Ethics* was translated into Arabic by Jalal al-Din Said. Comparative studies point to links between Spinoza's concepts and the thought of Ibn Rushd and Maimonides in the debate between reason and revelation and in hermeneutic method, and these remain links of intellectual lineage and not documented citations, except for his explicit criticism of Maimonides in the *Theological-Political Treatise*.
 
 ## Limits of the System in Parts Three and Four
 

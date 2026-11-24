@@ -8,6 +8,10 @@ title: "Martin Heidegger"
 en: "Martin Heidegger"
 crumb: "Existential Psychotherapy ← People ← Martin Heidegger"
 dates: "Germany · 1889–1976"
+country: "Germany"
+language: "German"
+active_start: 1919
+active_end: 1976
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:

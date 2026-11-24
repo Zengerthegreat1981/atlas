@@ -2,7 +2,7 @@
 slug: "thk-dostoevsky"
 id: "THK-0312"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 level: "متوسط"
 title: "Fyodor Dostoevsky"
 en: "Fyodor Dostoevsky"
@@ -18,28 +18,37 @@ gaps: []
 
 # Fyodor Dostoevsky
 
-A Russian novelist (1821–1881), often counted as one of the literary ancestors of existentialism, although he preceded the movement by decades and was not a philosopher in the technical sense.
+A Russian novelist (1821–1881), widely regarded as one of the supreme literary and intellectual ancestors of existentialism and modern depth psychology, although he preceded 20th-century existentialism by decades and was not an academic philosopher.
 
 ## Life and Context
 
-Fyodor Mikhailovich Dostoevsky was born in Moscow on 11 November 1821 (30 October in the old style), the son of a physician at a hospital for the poor. He trained at the Military Engineering School in St Petersburg but turned to literature, and his first novel, *Poor Folk* (1846), was praised by the critic Vissarion Belinsky. In 1849 he was arrested for his involvement in the Petrashevsky circle, a group that discussed socialist ideas, and was subjected to a mock execution before his sentence was commuted to four years of hard labour in Omsk, followed by military service in Siberia. He returned to St Petersburg in 1859. The prison experience, recorded in *Notes from the House of the Dead* (1860–1862), together with his gambling debts and his turn toward Orthodox Christianity and Russian nationalism, shaped his mature work. He died in St Petersburg on 9 February 1881 (28 January, old style).
+Fyodor Mikhailovich Dostoevsky was born in Moscow on 11 November 1821 (30 October, Old Style), the son of a physician at the Mariinsky Hospital for the Poor. He trained at the Military Engineering School in St. Petersburg but soon abandoned military service for literature. His debut epistolary novel, *Poor Folk* (1846), won high praise from the influential critic Vissarion Belinsky. In 1849, Dostoevsky was arrested for participating in the Petrashevsky Circle, an intellectual group discussing utopian socialism and banned Western literature. Subjected to a harrowing mock execution before a firing squad, his death sentence was commuted at the final second to four years of penal servitude in Omsk, Siberia, followed by forced military exile. He returned to St. Petersburg in 1859. The brutal Siberian ordeal, recorded in *Notes from the House of the Dead* (1860–1862), shattered his naive early idealism, deepened his understanding of human cruelty and redemption, and catalyzed his profound turn toward Russian Orthodox spirituality and existential realism. He died in St. Petersburg on 9 February 1881 (28 January, Old Style).
 
-## Why He Is Mentioned Here
+## Key Themes and Existential Philosophy
 
-His novel *Notes from Underground* (1864) is often read as the first deep novelistic portrayal of freedom as a burden rather than a pure blessing, and a rejection of guaranteed happiness imposed from outside. Its narrator, the "underground man," argues against the rationalist and utilitarian utopias of his day, insisting that people will act against their own interest merely to assert their free will. Other novels explore the same themes: the question of moral limits in *Crime and Punishment* (1866), the logical suicide of Kirillov and the radical ideologies of *Demons* (1871–1872), and the problem of evil, suffering and faith in *The Brothers Karamazov* (1879–1880), including the chapter "The Grand Inquisitor," in which Ivan Karamazov contrasts human freedom with the human craving for security and authority.
+- **The irrationality of the human will**: In *Notes from Underground* (1864), Dostoevsky directly challenged the 19th-century faith in rational egoism, scientific determinism, and utilitarian social engineering (symbolized by Nikolay Chernyshevsky's utopian "Crystal Palace"). His unnamed Underground Man demonstrates that human beings frequently act against their own self-interest and happiness merely to affirm their autonomy and capricious free choice: man prefers to act as he chooses, not as reason and interest dictate.
+- **Nihilism, guilt, and the limits of freedom**: In *Crime and Punishment* (1866), Rodion Raskolnikov tests the radical hypothesis that extraordinary individuals stand above conventional moral law, only to suffer agonizing psychological alienation and spiritual disintegration after murdering a pawnbroker. Freedom severed from moral conscience collapses into psychic fragmentation, redeemable only through confession and voluntary suffering.
+- **The crisis of secular modernity and logical suicide**: In *Demons* (1871–1872), Dostoevsky dramatized the destructive consequences of radical ideological fanaticism and metaphysical nihilism. Characters like Kirillov embody the existential dilemma of a godless universe, deducing that if there is no God, man must establish his ultimate freedom through self-willed death ("logical suicide").
+- **The problem of evil and the Grand Inquisitor**: In his masterwork, *The Brothers Karamazov* (1879–1880), the intellectual Ivan Karamazov articulates the most formidable protest against theodicy in literature, "returning his ticket" to cosmic harmony because it rests on the unredeemed suffering of innocent children. In the celebrated chapter "The Grand Inquisitor," Dostoevsky contrasts Christ's terrifying gift of unconditioned moral freedom with humanity's chronic desire to surrender responsibility in exchange for miracle, mystery, and authority.
 
-## Reception and Influence
+## Psychological and Philosophical Influence
 
-Nietzsche read a French translation of *Notes from Underground* and called Dostoevsky the only psychologist from whom he had anything to learn. Sartre cited the line, associated with Dostoevsky, that if God did not exist everything would be permitted, as the starting point of his own reflection on freedom, and Camus discussed Kirillov in *The Myth of Sisyphus* and adapted *Demons* for the stage. Walter Kaufmann's anthology *Existentialism from Dostoevsky to Sartre* (1956) helped to fix the picture of him as a forerunner. The critic Mikhail Bakhtin, by contrast, described his novels as "polyphonic," with characters whose voices are not subordinated to the author's view, which complicates attempts to read any one character as Dostoevsky's own philosophy.
+Dostoevsky exerted an immense influence on modern philosophy, literature, and depth psychology:
+- **Friedrich Nietzsche** discovered *Notes from Underground* in French translation in 1887, famously remarking that Dostoevsky was "the only psychologist from whom I had anything to learn."
+- **Jean-Paul Sartre** took as a primary axiom of existentialism the phrase often attributed to Dostoevsky—"if God does not exist, everything is permitted"—using it to illustrate radical human abandonment and responsibility.
+- **Albert Camus** extensively analyzed Kirillov's philosophical suicide in *The Myth of Sisyphus* and adapted *Demons* for the theater.
+- **Sigmund Freud** regarded the psychological dynamics of the Karamazov family as fundamental to understanding the unconscious, devoting his 1928 paper "Dostoevsky and Parricide" to analyzing the author's neurosis, guilt, and ambivalence toward authority.
+- **Mikhail Bakhtin**, in *Problems of Dostoevsky's Poetics* (1929), established that Dostoevsky invented the "polyphonic novel," wherein characters express autonomous worldviews in unmerged dialogue, resisting reduction to a single authorial doctrine.
 
 ## A Caveat
 
-He did not describe himself as an existentialist philosopher (the term did not even exist in his time), and his inclusion here is as a literary and intellectual ancestor, not a member of a philosophical school in the strict sense. His own commitments were Christian and, in his later years, conservative, which is why existentialists read him selectively.
+Dostoevsky never systematized his thought into formal philosophy, nor did he describe himself as an existentialist (a term coined long after his death). His own worldview evolved toward Christian existential faith and conservative Slavophilism, meaning that 20th-century secular existentialists engaged his diagnoses of dread and freedom while discarding his theological convictions.
 
 ## Sources
 
-- Dostoevsky, Fyodor, *Notes from Underground*, trans. Richard Pevear and Larissa Volokhonsky, New York: Knopf, 1993.
-- Dostoevsky, Fyodor, *The Brothers Karamazov*, trans. Richard Pevear and Larissa Volokhonsky, New York: Farrar, Straus and Giroux, 1990.
-- Bakhtin, Mikhail, *Problems of Dostoevsky's Poetics*, ed. and trans. Caryl Emerson, Minneapolis: University of Minnesota Press, 1984.
-- Frank, Joseph, *Dostoevsky: A Writer in His Time*, Princeton: Princeton University Press, 2010.
-- Kaufmann, Walter (ed.), *Existentialism from Dostoevsky to Sartre*, New York: Meridian Books, 1956.
+- Dostoevsky, Fyodor. *Notes from Underground*. Translated by Richard Pevear and Larissa Volokhonsky. New York: Knopf, 1993.
+- Dostoevsky, Fyodor. *Crime and Punishment*. Translated by Richard Pevear and Larissa Volokhonsky. New York: Vintage, 1993.
+- Dostoevsky, Fyodor. *The Brothers Karamazov*. Translated by Richard Pevear and Larissa Volokhonsky. New York: Farrar, Straus and Giroux, 1990.
+- Bakhtin, Mikhail. *Problems of Dostoevsky's Poetics*. Edited and translated by Caryl Emerson. Minneapolis: University of Minnesota Press, 1984.
+- Frank, Joseph. *Dostoevsky: A Writer in His Time*. Princeton: Princeton University Press, 2010.
+- Kaufmann, Walter (ed.). *Existentialism from Dostoevsky to Sartre*. New York: Meridian Books, 1956.

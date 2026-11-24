@@ -26,7 +26,7 @@ Everyday language and psychology distinguish a spectrum of anger, from annoyance
 
 ## Origins
 
-Anger as a moral and emotional signal has a long history, from Aristotle's view that anger can be fitting when directed at the right object in the right way, to Nietzsche's analysis of *ressentiment* as a festering, reactive hostility that cannot act directly. Max Scheler later developed *ressentiment* as a sustained, unexpressed hostility. In the existential-humanistic tradition, Rollo May placed such energies within what he called the "daimonic," the natural powers of the person (anger, sex, the drive for power) that can be creative or destructive depending on whether they are integrated (*Love and Will*, 1969). In *Power and Innocence* (1972) he examined violence as arising where people feel powerless and unable to affect their world.
+Anger as a moral and emotional signal has a long history, from Aristotle's view that anger can be fitting when directed at the right object in the right way, to Nietzsche's analysis of *ressentiment* as a festering, reactive hostility that cannot act directly. Max Scheler later developed *ressentiment* as a sustained, unexpressed hostility. In the existential-humanistic tradition, Rollo May placed such energies within what he called the "daimonic," the natural powers of the person (anger, sex, the drive for power) that can be creative or destructive according to whether they are integrated (*Love and Will*, 1969). In *Power and Innocence* (1972) he examined violence as arising where people feel powerless and unable to affect their world.
 
 ## Rage as Existential Signal
 

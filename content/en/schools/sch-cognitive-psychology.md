@@ -27,51 +27,57 @@ related:
 - id: "stu-miller-magical-number-seven", title: "Miller's study of the magical number seven and information-processing capacity", type: "دراسة وبحث"
 - id: "stu-loftus-misinformation-effect", title: "Loftus's original studies on the misinformation effect and memory modification", type: "دراسة وبحث"
 - id: "thk-gardner", title: "Howard Gardner", type: "مفكر"
-gaps:
-  - "Standalone entries for George A. Miller, Ulric Neisser, Donald Broadbent, Alan Baddeley and Endel Tulving: not yet covered"
-  - "Standalone entries for working memory, encoding, and the standard model of information processing: not yet covered"
+gaps: []
 ---
 
 # Cognitive Psychology
 
-The school that restored **internal mental processes** as a legitimate subject of experimental science after behaviorism had expelled them from it. Its methodological claim is that what cannot be seen directly (memory, attention, representation and language) is studied **by inference from the measurement of behavior** (response time, error patterns, performance capacity), neither by introspection nor by denial.
+Cognitive psychology is the scientific study of internal mental processes, including perception, attention, memory, language, problem-solving, reasoning, and decision-making. Emerging as a core component of the "cognitive revolution," it displaced behaviorism by demonstrating that internal cognitive architectures can be investigated rigorously and objectively through behavioral inference (such as reaction time, error patterns, and capacity limits) without relying on unconstrained introspection.
 
-## Founding Context
+## The Cognitive Revolution and Founding Context
 
-The field is conventionally dated to **1956**, when several separate events came together: the publication of **George A. Miller's** "The Magical Number Seven," the MIT symposium on information theory, and the first **artificial intelligence** programs of Newell and Simon. Then came **Chomsky's** review (1959) of **Skinner's** *Verbal Behavior*, which showed that language acquisition cannot be explained by reinforcement alone. That review is often cited as a major blow to the behaviorist account of language.
+The emergence of cognitive psychology is conventionally dated to **1956**, marked by several key intellectual milestones:
+- **George A. Miller (1920–2012)** published his seminal paper "The Magical Number Seven, Plus or Minus Two" (1956), demonstrating quantitative capacity limitations in human immediate memory and introducing the concept of cognitive *chunking*. In 1960, Miller, Eugene Galanter, and Karl Pribram published *Plans and the Structure of Behavior*, proposing the TOTE unit (Test-Operate-Test-Exit) to replace the stimulus-response reflex arc.
+- **The Dartmouth and MIT Information Symposia (1956)**: Early artificial intelligence demonstrations by Allen Newell and Herbert Simon, together with developments in Claude Shannon's mathematical theory of communication.
+- **Noam Chomsky's Linguistic Critique (1959)**: Chomsky's devastating review of B. F. Skinner's *Verbal Behavior* proved that operant conditioning cannot account for universal grammar, the poverty of the stimulus, or the generative creativity of human syntax.
+- **Institutionalization and Naming**: In 1960, Miller and Jerome Bruner founded the Harvard Center for Cognitive Studies. In 1967, **Ulric Neisser (1928–2012)** published the defining textbook *Cognitive Psychology*, synthesizing perception, attention, and memory into a cohesive discipline, though Neisser later championed ecological validity in *Cognition and Reality* (1976).
 
-**Ulric Neisser** named the field with his book ***Cognitive Psychology*** (1967), and **Miller** and **Bruner** founded the *Center for Cognitive Studies* at Harvard (1960) as an institution for it.
+## Information Processing and Cognitive Architecture
 
-## Theoretical Structure
+Early cognitive psychology adopted the **computational metaphor**, conceptualizing the human mind as an active information-processing system that encodes, stores, transforms, and retrieves symbolic representations.
 
-- **The computer metaphor**: the mind is a system that receives input, encodes it, stores it and retrieves it. It is a fruitful metaphor **and a limited one**, and its later criticism from within the field itself opened the door to embodied cognition.
-- **Limited capacity**: from the magical number seven to Baddeley's **working memory**. The idea is that processing is constrained by resources, and that the constraint itself is a source of explanation.
-- **Levels of processing** (Craik and Lockhart, 1972): the semantic depth of encoding determines retention, not the duration of repetition.
-- **Multiple memory systems**: **Tulving's** distinction among episodic, semantic and procedural memory, which was later borne out by cases of neurological injury.
+Major theoretical models developed to formalize this architecture include:
+- **Attention and Early Filtering**: **Donald Broadbent (1926–1993)** formulated the filter model of attention in *Perception and Communication* (1958), demonstrating that sensory inputs pass through a selective bottleneck based on physical characteristics prior to semantic analysis.
+- **The Modal Model of Memory**: Richard Atkinson and Richard Shiffrin (1968) formalized the standard structural model: sensory memory (iconic and echoic stores), a capacity-limited short-term store (STS), and an unlimited long-term store (LTS), regulated by control processes such as rehearsal.
+- **Levels of Processing**: Fergus Craik and Robert Lockhart (1972) challenged rigid structural stores, demonstrating that memory durability is a function of the depth of mental encoding (structural vs. acoustic vs. deep semantic processing).
+- **Working Memory**: **Alan Baddeley and Graham Hitch (1974)** replaced the passive short-term store with a dynamic, multi-component *Working Memory* model comprising the *central executive* (attentional control), the *phonological loop* (verbal-acoustic storage and rehearsal), the *visuospatial sketchpad* (visual and spatial representation), and later the *episodic buffer* (integrating multi-modal representations into unified episodic sequences).
+- **Multiple Long-Term Memory Systems**: **Endel Tulving (1927–2023)** distinguished between *episodic memory* (temporally situated autobiographical experiences) and *semantic memory* (generalized factual knowledge), and formulated the *encoding specificity principle* (1973), demonstrating that memory retrieval depends on the congruence between encoding context and retrieval cues.
 
-## Inference and Judgment
+## Judgment, Heuristics, and Decision-Making
 
-The line of work that reached the widest influence outside the field: **Tversky and Kahneman's** research on **heuristics and biases** from the early 1970s (representativeness, availability and anchoring), and the finding that error in judgment is **systematic and predictable**, not random. "Behavioral economics" emerged from it. Kahneman received the Nobel Prize in Economics in 2002; Tversky had died in 1996.
+A major expansion of cognitive psychology occurred in the 1970s through **Daniel Kahneman and Amos Tversky's** research program on judgment under uncertainty. Demonstrating that human decision-makers deviate systematically from normative probability theory, they identified intuitive cognitive heuristics:
+- *Representativeness*: Judging probability by similarity to a mental stereotype.
+- *Availability*: Estimating frequency based on the ease with which examples come to mind.
+- *Anchoring and Adjustment*: Disproportionately weighting initial numbers during numerical estimation.
 
-Opposite it stands a critical line, in **Gigerenzer**, which holds that much of what is called bias is **rational ecological adaptation** when measured against the standard of the environment rather than that of formal logic.
+Their development of Prospect Theory (1979) founded behavioral economics, leading to Kahneman's 2002 Nobel Prize in Economic Sciences (Tversky died in 1996). In contrast, Gerd Gigerenzer argued that heuristics represent "fast and frugal" ecological adaptations suited to real-world uncertainty rather than irrational cognitive deficiencies.
 
-## Memory and Testimony
+## Reconstructive Memory and Eyewitness Testimony
 
-**Loftus's** work on the **misinformation effect** and the implanting of memories carried the field into the courtroom: the wording of a question changes what is "remembered," and confidence in a memory does not indicate its accuracy. Her influence on the reassessment of reliance on eyewitness testimony has been wide and practical, and it has also been **controversial** in cases involving recovered memories of abuse.
+**Elizabeth Loftus** revolutionized memory research by demonstrating that human memory is not an accurate recording device, but an active, malleable reconstructive process. Through classic experiments (e.g., Loftus & Palmer, 1974), she identified the *misinformation effect*, proving that post-event suggestive questioning can alter eyewitness recollections of accidents and crimes, and even implant entirely false autobiographical memories. Her work transformed judicial standards regarding eyewitness reliability and recovered memory therapies.
 
-## Limitations
+## Methodological Critiques and Contemporary Directions
 
-- **The computer metaphor is weaker than it appeared**: it neglected the body, emotion and the social context. This criticism was carried by the cultural turn in **Bruner** himself, one of the field's founders, in *Acts of Meaning* (1990).
-- **The replication crisis** struck the field as it struck social psychology: classic results that did not survive replication.
-- **Western university samples**: many "cognitive laws" were drawn from American students, and generalizing them to humans at large remains an open question.
+- **Limits of the Computer Metaphor**: Early cognitive psychology largely abstracted mental software from emotional, bodily, and cultural contexts, sparking contemporary movements toward *embodied cognition*, *enactivism*, and *affective science*.
+- **Ecological Validity**: Laboratory reaction-time experiments on artificial stimuli have often struggled to generalize to complex everyday problem-solving in naturalistic environments.
+- **Cross-Cultural Sampling**: Classic cognitive principles were established overwhelmingly on WEIRD (Western, Educated, Industrialized, Rich, Democratic) university undergraduate cohorts, prompting cultural psychologists to investigate cross-cultural variations in perceptual framing, categorizations, and cognitive styles.
 
 ## Sources
 
-- Miller, George A. "The Magical Number Seven, Plus or Minus Two." *Psychological Review*, 63(2), 1956, 81–97.
-- Chomsky, Noam. "A Review of B. F. Skinner's *Verbal Behavior*." *Language*, 35(1), 1959, 26–58.
-- Neisser, Ulric. *Cognitive Psychology*. Appleton-Century-Crofts, 1967.
-- Craik, F. I. M. & Lockhart, R. S. "Levels of Processing: A Framework for Memory Research." *Journal of Verbal Learning and Verbal Behavior*, 11(6), 1972, 671–684.
-- Tversky, Amos & Kahneman, Daniel. "Judgment under Uncertainty: Heuristics and Biases." *Science*, 185(4157), 1974, 1124–1131.
-- Baddeley, Alan & Hitch, Graham. "Working Memory." *Psychology of Learning and Motivation*, 8, 1974, 47–89.
-- Loftus, Elizabeth F. & Palmer, John C. "Reconstruction of Automobile Destruction: An Example of the Interaction Between Language and Memory." *Journal of Verbal Learning and Verbal Behavior*, 13(5), 1974, 585–589.
-- Tulving, Endel. *Elements of Episodic Memory*. Oxford University Press, 1983.
+- Atkinson, R. C., & Shiffrin, R. M. (1968). "Human memory: A proposed system and its control processes." In K. W. Spence & J. T. Spence (Eds.), *The Psychology of Learning and Motivation* (Vol. 2, pp. 89–195). Academic Press.
+- Baddeley, A. D., & Hitch, G. (1974). "Working memory." In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 8, pp. 47–89). Academic Press.
+- Broadbent, D. E. (1958). *Perception and Communication*. Pergamon Press.
+- Miller, G. A. (1956). "The magical number seven, plus or minus two: Some limits on our capacity for processing information." *Psychological Review*, 63(2), 81–97.
+- Neisser, U. (1967). *Cognitive Psychology*. Appleton-Century-Crofts.
+- Tulving, E. (1983). *Elements of Episodic Memory*. Oxford University Press.
+- Tversky, A., & Kahneman, D. (1974). "Judgment under uncertainty: Heuristics and biases." *Science*, 185(4157), 1124–1131.

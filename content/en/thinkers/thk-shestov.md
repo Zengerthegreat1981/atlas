@@ -2,12 +2,14 @@
 slug: "thk-shestov"
 id: "THK-0317"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Lev Shestov"
 en: "Lev Shestov"
 crumb: "Existential Philosophy ← People ← Lev Shestov"
 dates: "Russia/France · 1866–1938"
+country: "Russia / France"
+language: "Russian, then French"
 active_start: 1898
 active_end: 1938
 edges:

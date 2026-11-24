@@ -18,8 +18,7 @@ related:
 - id: "rel-psychoanalysis", title: "Psychoanalysis: Separation and Retention", type: "علاقة بين مدرستين"
 - id: "con-guilt", title: "Guilt", type: "مفهوم"
 - id: "con-jealousy-envy", title: "Jealousy and Envy", type: "مفهوم"
-gaps:
-  - "A sourced quotation from *The Psycho-Analysis of Children* (1932): not yet covered."
+gaps: []
 ---
 # Melanie Klein
 
@@ -51,6 +50,10 @@ There are three objections to Klein, the first of which is the strongest:
 To this may be added that her basic early material came from **the analysis of her own children** under pseudonyms, a practice that was common at the time and is in no way acceptable today, and her daughter **Melitta Schmideberg** became one of her fiercest public opponents.
 
 Even so, much of her remained: the positions, projective identification, and reparation are concepts used today in currents that accept nothing of her instinctual foundation.
+
+## Selected Quotation
+
+"In their play children represent symbolically phantasies, wishes and experiences. Here they are employing the same language, the same archaic, 'phylogenetically acquired' mode of expression as is familiar to us in dreams." — *The Psycho-Analysis of Children* (1932, Chapter 1)
 
 ## Her Most Important Works
 

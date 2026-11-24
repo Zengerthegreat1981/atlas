@@ -41,11 +41,12 @@ Epicurus makes pleasure the end of life, but he does not mean the pleasures of i
 
 ## Major Works
 
-- *Letter to Menoeceus on happiness (Letter to Menoeceus)*
-- *Principal Doctrines (Kyriai Doxai)*: forty concise maxims preserved by his disciples.
-- *Letter to Herodotus* on physics, and *Letter to Pythocles* on astronomical phenomena.
-- *On Nature (Peri physeōs)* in thirty-seven books, of which only fragments survive, from the Herculaneum papyri.
-- Of the roughly three hundred scrolls he wrote, only three letters, these Principal Doctrines and fragments have reached us, and most of what we know of him comes from Diogenes Laertius and from Lucretius's poem *On the Nature of Things*.
+- *Letter to Menoeceus* (on ethics, desire, and happiness).
+- *Principal Doctrines (Kyriai Doxai)*: forty concise maxims on ethics and tranquility preserved by Diogenes Laërtius.
+- *Letter to Herodotus* (on atomistic physics and epistemology).
+- *Letter to Pythocles* (on cosmology and meteorological phenomena).
+- *On Nature (Peri Physeos)*: foundational treatise in thirty-seven books, of which fragments survive among the Herculaneum papyri.
+- *Vatican Sayings*: collection of Epicurean aphorisms discovered in a 14th-century Vatican manuscript.
 
 ## Influence and Reception
 

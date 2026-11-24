@@ -1,0 +1,400 @@
+axm-existence-precedes-essence: removed meta/atlas commentary and internal slug references, refined philosophical framing of foundational axiom vs. empirical concept
+con-ahimsa: addressed gap on Arabic and Islamic reception of ahimsa and nonviolence (al-Biruni, al-Aqqad, Jawdat Said); added sources; cleared gaps
+con-anamnesis-recollection: addressed gap on Neoplatonic (Plotinus) and Renaissance (Ficino, Cambridge Platonists) developments; added sources; cleared gaps
+con-anatta-non-self-concept: addressed gap on Abhidharma (momentary dharmas, Vasubandhu) and Madhyamaka (Nagarjuna, emptiness) developments; added sources; cleared gaps
+con-ataraxia: addressed gaps on comparisons with Islamic tawakkul (al-Ghazali) and Buddhist upekkha/nirvana, and contemporary clinical defusion applications of epoche; removed internal reference; added sources; cleared gaps
+con-atman-brahman-vedanta: expanded incomplete fragment section into a full treatment of subject-object non-duality, superimposition (adhyasa), the three states of consciousness, and witness-consciousness (sakshin/turiya)
+con-autonomy-kantian: corrected duplicated frontmatter gaps key
+con-being-toward-death: removed internal cross-reference and meta-commentary, refined phenomenological distinction between Angst and Furcht, and clarified relations to TMT and psychometrics
+con-cogito: standardized sources by replacing web link with formal citation to Hintikka (1962) on performative cogito
+con-death: added primary-text formulations section to resolve gap (Heidegger, Sartre, Jaspers, Frankl, Yalom) and set gaps: []
+con-epoche-suspension: added historical intermediaries section (Montaigne, Descartes, Kant, Brentano) to resolve gap, expanded content to ~520 words, set gaps: [], and updated sources
+con-eudaimonia-wellbeing: expanded entry with ergon argument, external goods, theoria debate, Islamic reception, and positive psychology operationalizations; updated sources
+con-falsificationism-popper: expanded logical structure (modus tollens, corroboration, demarcation vs positivist verificationism), historical context (Duhem-Quine, Kuhn, Lakatos), and Islamic precursor; updated sources
+con-freedom: added primary-text formulations section to resolve gap (Kierkegaard, Heidegger, Sartre, Beauvoir, Frankl, May, Yalom), updated sources, set gaps: []
+con-functionalism-mind: expanded taxonomy of functionalist programs (machine, analytic, psycho-, homuncular, teleological), multiple realizability, and major objections (China brain, qualia, Chinese room, Putnam's reversal); updated sources
+con-guilt: added primary-text formulations section to resolve gap (Heidegger, Jaspers, Tillich, May, Bugental, Yalom), updated sources, set gaps: []
+con-hard-problem-of-consciousness: expanded exposition of hard vs easy problems, classic thought experiments (zombies, explanatory gap, Mary, bat), contemporary theories, and Islamic parallels; updated sources
+con-hermeneutic-circle: expanded historical progression (Ast, Schleiermacher, Dilthey, Heidegger, Gadamer), Islamic parallels (al-Jurjani, al-Shatibi), critical debates (Betti, Hirsch, Habermas), and distinction from circular fallacy; updated sources
+con-hylomorphism: expanded Aristotelian metaphysics (matter, form, privation, entelecheia, active intellect), contrast with Cartesian dualism, Islamic reception (Ibn Sina, Mulla Sadra), and contemporary revival (Putnam, Nussbaum, Burnyeat, Ackrill); updated sources
+con-intentionality: expanded structure of intentionality (Brentano's intentional inexistence, Husserl's noesis/noema and epoche, Searle's direction-of-fit, Dennett's intentional stance), distinguished from intensionality, and standardized sources without bare URLs
+con-isolation: added primary-text formulations section to resolve gap (Kierkegaard, Heidegger, Sartre, Buber, Yalom, Moustakas), updated sources, set gaps: []
+con-knowledge-by-presence-ilm-huduri: expanded epistemological distinction (husuli vs huduri), Suhrawardi's critique of definition, Sadra's ontological expansion, modern developments (Tabataba'i, al-Sadr, Yazdi), and comparisons with phenomenology; updated sources
+con-li: removed internal meta-commentary section, expanded Confucian analysis of ritual and propriety, moral cultivation, rectification of names, Xunzi's theory, distinction between ritual and principle, and modern reception; updated sources
+con-lived-body: addressed gap on bodily awareness (pre-reflective vs reflective awareness, body schema vs body image); added Gallagher (2005) reference; cleared gaps
+con-maya-vedanta: addressed gaps by adding Vācaspati Miśra's Bhāmatī vs Vivaraṇa debate and modern Arabic comparative scholarship (Afifi, Badawi); updated references; cleared gaps
+con-meaning: updated Sources with Yalom's foundational work Existential Psychotherapy (1980) for meaninglessness as an existential given; refined clinical and psychometric terminology
+con-monad: removed internal metadata commentary, refined Leibnizian reception history, and standardized scholarly sources without bare URLs
+con-natural-law-aquinas-concept: addressed gap by expanding conceptual and lexical history before (Aristotle, Stoics, Cicero, Roman law, Gratian) and after Aquinas (Salamanca, Grotius, Hobbes, Locke), expanding word count from ~315 to ~550 words; cleared gaps
+con-nirvana-extinction: addressed gap on primary sources and lexical/conceptual development (Pali nir-vā, three fires, sa-upādisesa vs an-upādisesa, Abhidhamma asaṅkhata, Mahayana apratiṣṭhita-nirvāṇa); cleared gaps
+con-orientalism: refined historical and academic reception details (Lewis debate, al-Azm, Hanafi's Occidentalism, Marchand) and standardized source entries
+con-ren: addressed gap by adding fine-grained comparison of ren with Latin humanitas (Cicero) and German Menschlichkeit / Humanität (Herder, Kant); cleared gaps
+con-res-cogitans-res-extensa: addressed gap on primary sources and lexical/conceptual development (Principia definitions of substance, attribute, and modes; Elisabeth correspondence; pineal gland in Passions); cleared gaps
+con-sense-vs-reference: addressed gap by adding comprehensive survey of rival interpretations of Frege's sense (Platonist, neo-Fregean object-dependent, descriptivist, two-dimensional semantics); cleared gaps
+con-shunyata: addressed gap by adding modern Arabic-language and comparative scholarship (Badawi, Afifi, comparisons with fanā' and anti-essentialism); cleared gaps
+con-social-contract-theory: refined historical details on classical antecedents (Epicurus, bay'a, al-Māwardī, Ibn Khaldūn), contractarian variants, and critical critiques (Pateman, Mills)
+con-thrownness: expanded entry from ~300 to ~530 words detailing Heidegger's tripartite disclosure structure (Befindlichkeit, Verstehen, Rede), das Man, anxiety, and reception in Sartre and Daseinsanalysis
+con-universals-debate: refined scholastic formulations (Boethius's questions, Scotus's haecceity) and integrated Avicenna's tripartite quiddity (al-māhiyya bi-mā hiya hiya) and its Latin reception
+con-virtue-ethics: expanded historical and contemporary coverage with Philippa Foot's naturalism, MacIntyre's social practices, VIA positive psychology details, and situationist critique
+con-wahdat-al-wujud: covered gap by adding comparative analysis of Ibn Arabi's paradoxical dialectic versus al-Qunawi's philosophical ontology and Ibn Sab'in's absolute unity; added verified sources; cleared gaps
+con-will-to-power: removed raw internal slug reference in body text; verified textual chronology, posthumous compilation history, and scholarly sources
+ctx-avicenna-self: covered gap by adding systematic textual analysis of the five treatises of the Arabic Kitab al-Nafs and modern philological scholarship; added source; cleared gaps
+ctx-ghazali: set active_start to 1095; covered gaps by adding textual analysis of Dar al-Minhaj critical edition transmission and ethical-affective analysis of fear, shame, and guilt; added source; cleared gaps
+ctx-miskawayh-character: set active_start to 980; covered gap by adding textual review of Constantine Zurayk's critical edition and classical Greek/Arabic lineage; cleared gaps
+ctx-post-war-europe: covered gap by adding specific primary historical documentation (Arendt's 1950 report, Sartre's 1945/1946 address, and Jaspers's 1945/1946 lectures); added sources; cleared gaps
+crt-feminist-critique-heidegger: covered gap by adding analysis of Jacques Derrida's Geschlecht series on Dasein's sexlessness and sexual difference; added sources; cleared gaps
+dbt-advaita-vs-dvaita: set active_start to 750; covered gap by adding scholarly analysis of Advaita ethics (Hacker on tat tvam asi, Halbfass on levels of truth and dharma, Deutsch and Rambachan); added sources; cleared gaps
+dbt-extended-mind-clark-chalmers: set active_start to 1998; covered gap by adding analysis of Mark Rowlands's vehicle externalism and enactive/4E embodied cognition; added sources; cleared gaps
+dbt-free-will-vs-determinism: expanded text from ~310 to ~550 words; covered gap on Posidonius and Middle Stoa on cosmic sympathy and moral psychology versus Chrysippus's causal determinism; added sources; cleared gaps
+dbt-human-nature-debate: clarified that Mencius and Xunzi were later successors rather than direct disciples of Confucius, and detailed the four sprouts with their corresponding cardinal virtues
+dbt-laing: removed duplicated sentence in insights section, converted instructional second-person phrasing to descriptive clinical analysis, and reinforced evidence-based medical consensus
+dbt-langle-frankl: removed duplicated practical discussion, converted second-person directives to objective clinical analysis, and clarified assessment instruments
+dbt-liberalism-vs-communitarianism: expanded entry with rigorous theoretical accounts of Rawls's original position, Sandel's unencumbered self, MacIntyre's narrative ethics, Taylor's atomism critique, and Rawls's political liberalism response
+dbt-mind-body-dualism-vs-physicalism: standardized and expanded philosophical formulations of interactionism, eliminativism, and thought experiments on qualia and property dualism
+dbt-qadar-free-will-in-kalam: resolved disclosed gap on critical editions of al-Mughni and al-Luma' with detailed archival and publication history, updated frontmatter to gaps: [], and expanded analysis of kasb and human agency
+dbt-rawls-nozick-justice: resolved sentence fragments, formalized the principles of justice as fairness and Nozick's entitlement theory, and expanded discussion of the Wilt Chamberlain thought experiment
+dbt-spiritual: removed conversational first-person commentary and second-person directives; reworked clinical practice and cross-cultural sections into objective scholarly prose examining the tension between spiritual openness and secular phenomenological neutrality
+evt-frankl-camps: incorporated archival records (Theresienstadt Transport IV/11, Auschwitz Transport En, Dachau prisoner 119104, Arolsen/Yad Vashem records), clarified distinction between reconstructed Ärztliche Seelsorge and the camp memoir dictated in 1945, and cleared gaps
+exp-frankl-lived-experience: added page-level edition citations for quoted passages (Frankl love and freedom passages, Nietzsche quote), standardized source editions, and cleared gaps
+fld-epistemology: clarified distinction between Russell's 1948 stopped-clock anticipation and Gettier's 1963 inference-from-falsehood counterexamples
+met-sisyphus-camus: supplied specific page-level citations for core quotations (Vintage ed. p. 123; Homer Odyssey Book 11 lines 593–600) and cleared gaps
+rel-psychoanalysis: corrected historical attribution regarding Viktor Frankl, specifying formation in Viennese psychiatric and psychoanalytic circles rather than the logical positivist Vienna Circle
+sch-advaita-vedanta: corrected dating of Prakashatman from 13th century to 11th–12th century and specified the foundational text as Pañcapādikā-vivaraṇa
+sch-african-professional-philosophy: updated biographical records and life dates for core figures (including Paulin Hountondji, Peter Bodunrin, and Kwame Gyekye)
+sch-charvaka: clarified attribution of early Lokayata epistemology and Jayarasi Bhatta's critique of pramanas in Tattvopaplavasimha
+sch-classical-liberalism-early: removed machine-translated pseudo-Latin headings and labels, corrected historical classification of Althusius and Grotius, and clarified institutional principles
+sch-communitarianism: removed duplicated sections on non-Western contexts and policy communitarianism, restructured major thinkers and contributions, and tightened the critique of liberalism
+sch-confucian-early: corrected machine-translated section heading regarding Islamic and Arabic cross-cultural dialogue
+sch-decolonial-philosophy: corrected life dates for Sylvia Wynter (living, born 1928, removing erroneous death year 2024) and added dates for Paulin Hountondji (1942–2024)
+sch-egyptian-maat: harmonized historical periodization in frontmatter dates and refined phrasing and section headings
+sch-enlightenment: removed pervasive machine-translation artifacts, pseudo-Latin and pseudo-German category tags, redundant parentheticals, and cleaned up English scholarly prose
+sch-existentialism-atheist: covered disclosed gap on the relationship between atheist existentialism and philosophical anarchism, clearing frontmatter gap list
+sch-existentialism: eliminated redundant treatment of Arabic reception in influence section and broadened cross-cultural scope
+sch-frankfurt-school: standardized German conceptual terminology and typography (Kulturindustrie, Dialektik der Aufklärung, Jürgen Habermas) and clarified core theoretical concepts
+sch-german-idealism: added section covering the later period (1815–1831), Hegel's Berlin dominance, and Schelling's late positive philosophy, resolving the disclosed gap
+sch-ishraqiyya: covered Ibn Sab'in's relation to Illuminationism, contrasting his radical monism with Suhrawardi's light ontology, corrected title typo for al-Mashari', and resolved gap
+sch-marxism: corrected Marx's quote on religion from Contribution to the Critique of Hegel's Philosophy of Right and completed the title of Engels's The Origin of the Family, Private Property and the State
+sch-mohism: removed redundant translation repetition in title and heading, and corrected sentence grammar regarding the early Mohist school
+sch-mutazila: updated historical periodization dates in frontmatter to the 11th century CE to align with later thinkers covered, and corrected the spelling of Baghdad theologian Abu Musa al-Murdar
+sch-neoplatonism: resolved lead sentence fragment and standardized frontmatter formatting
+sch-phenomenology: formatted unquoted frontmatter part field to standard quoted string
+sch-phil-mind-analytic: resolved disclosed gap by adding a dedicated section on the distinction and relation between analytic philosophy of mind and philosophical psychology, and cleared gaps list
+sch-phil-science: formatted unquoted frontmatter part field, resolved disclosed gap by adding a section on the relationship between philosophy of science and the history of science (HPS), and cleared gaps list
+sch-postcolonial-philosophy: addressed gaps on primary texts (Chakrabarty's Provincializing Europe) and regional-cultural strands (Afro-Caribbean, South Asian, Arab/Maghrebi); updated sources; cleared gaps
+sch-postmodernism-philosophical: updated Fredric Jameson's death date (1934–2024) and consolidated duplicate Richard Rorty entries
+sch-sophistry: standardized citations and titles; refined transliterations and clarified classical kalām categorization of skepticism and sophistry
+sch-transcendent-theosophy: addressed gap on Ibn Arabi's direct influence on Mulla Sadra and wahdat al-wujud vs. tashkik al-wujud; expanded sources; cleared gaps
+sch-ubuntu: standardized scholarly citations and publication data
+sch-utilitarianism: standardized citations and publication data; standardized title italicization across body
+trm-angst-translation: added direct comparison with Danish and German originals and resolved gap
+thk-bentham: cleaned translation artifacts, restored standard titles in major works, and corrected bibliographic entries
+thk-berdyaev: added section on relation to depth psychology and psychotherapy, resolved gap, updated sources
+thk-biko: removed machine-translation artifact regarding Arabic translation availability in critique section
+thk-buber: refined sources section with complete scholarly citations
+thk-cohn: expanded biographical and clinical sections, resolved gap on training and career, brought length to ~520 words, updated sources
+thk-cooper: expanded entry from 280 to ~530 words, removed meta-commentary on unit writability, detailed pluralistic framework and research contributions, updated works and sources
+thk-daniel-dennett: corrected living philosopher reference following 2024 death, fixed translation artifact ("on this file" -> "in this debate"), and clarified reference to Paul and Patricia Churchland
+thk-david-chalmers: corrected factual error regarding Dennett's objection (zombies as incoherent rather than coherent)
+thk-deleuze: resolved gaps by detailing Deleuze-Guattari collaborative dynamics and applications of body without organs in somatic/liberation psychology
+thk-derrida: resolved gaps by adding sections on Derrida's engagement with Freud in The Post Card and application of deconstruction in narrative therapy
+thk-dewey: removed redundant machine translation titles in works list and clarified instrumentalism phrasing
+thk-dostoevsky: expanded entry from ~330 to ~570 words with analysis of irrational will, nihilism, Grand Inquisitor, and psychological influence; standardized frontmatter part quotes
+thk-epicur: corrected duplicate title in works list and standardized corpus citations
+thk-fakhr-razi: eliminated machine translation duplicate in works list and standardized Arabic work titles and descriptors
+thk-fichte: added Der geschlossene Handelsstaat to principal works list and standardized titles
+thk-frankl: eliminated duplicated phrasing in logotherapy technique section, clarified paradoxical intention and dereflection, and ensured clinical descriptive caveats
+thk-hobbes: added section on Arabic translations of Leviathan and De Cive, resolved frontmatter gap
+thk-holzhey: expanded biographical, clinical, and conceptual coverage to ~550 words, updated dates (1943–2026), and added primary works and sources
+thk-ibn-rushd: corrected erroneous claim that Maimonides was an older contemporary uninfluenced by him, added section on textual transmission and attribution of short and middle commentaries, and resolved frontmatter gap
+thk-jaspers: expanded clinical psychopathology and existential philosophy sections to ~740 words, added missing metadata, and formatted works
+thk-jaustin: removed duplicated draft sections, expanded historical and philosophical context (WWII service, Harvard lectures, speech act taxonomy, excuses), and formatted works
+thk-laing: Expanded short entry to full length with core theories (ontological insecurity, false-self system), Kingsley Hall experiment, critiques, and updated sources.
+thk-langle: Expanded entry with details on the four fundamental existential motivations, Personal Existential Analysis, resolved gap on the theoretical and institutional split with Frankl, updated active dates.
+thk-lukas: Expanded short entry with detailed biography, Logo-Test, clinical techniques (dereflection, paradoxical intention, Socratic dialogue), resolved gap on biography and bibliography, updated active dates.
+thk-macintyre: Corrected active_end from "مستمر" to 2025 following his death in May 2025, updated death date and biography.
+thk-mahavira: Resolved gap on the transmission and translation status of the Acharanga Sutra, added details on textual history and canonical sources.
+thk-mbuber: Refined lead characterization and replaced generic encyclopedia citations with academic sources.
+thk-mill: addressed gap on the influence of the 1826 mental crisis on On Liberty (Wordsworth, Humboldtian Bildung, and individuality); removed duplicate translation artifacts and cleaned formatting; cleared gaps
+thk-mulla-sadra: addressed gap on the chronology of his late works (Shiraz period syntheses, philosophical glosses, and Tafsir/Hadith commentaries); removed duplicate source entry; cleared gaps
+thk-plotinus: cleaned machine translation artifacts in Greek quotations and Enneads title, and removed broken relative link
+thk-rank: expanded treatment of existential psychology, dual anxiety model (life fear vs. death fear), creative will, here-and-now therapy, and influence on Rogers and Becker
+thk-rawls: corrected active_end to 2002 to reflect actual death year
+thk-rcarnap: refined German technical terminology for auto-psychological basis (das Eigenpsychische) and standardized metadata
+thk-ricoeur: corrected active_end to 2005 to reflect actual death year
+thk-rorty: standardized dates header and frontmatter formatting
+thk-rousseau: addressed gap on influence on Kierkegaard and Nietzsche with a dedicated section, corrected active_start to 1750, and cleared gaps
+thk-sartre: added active lifespan dates and country/language metadata
+thk-schelling: corrected active_start to 1797 to cover early Naturphilosophie publications
+thk-shestov: added country and language metadata and standardized frontmatter formatting
+thk-socrates: added country and language metadata and standardized frontmatter formatting
+thk-straus: Expanded entry from ~330 to ~480 words, detailing biographical career, Geschehnis und Erlebnis, pathic vs gnostic distinction, critique of Pavlovian reflexology, and existential analysis of upright posture.
+thk-suhrawardi: Corrected treatise title translation Lughat-i Muran from 'The Language of the Termites' to 'The Language of the Ants', refined biographical details of execution under al-Zahir and Saladin, and clarified epistemology of knowledge by presence and critique of Peripatetic definitions.
+thk-thomas-kuhn: Removed colloquial/rhetorical translated phrases, refined description of the 1965 London Bedford College colloquium, clarified incommensurability and Margaret Masterman's critique, and completed bibliographical citations.
+thk-tillich: Refined ontological taxonomy of anxiety (fate/death, guilt/condemnation, emptiness/meaninglessness), corrected biographical details on Starzeddel, Breslau dissertation, and dismissal under the Nazi civil service laws, expanded explanation of method of correlation, and added clinical diagnostic caveats.
+thk-unamuno: Clarified historical details of the October 12, 1936 Salamanca confrontation with Millán-Astray, corrected publication history of San Manuel Bueno, mártir and Del sentimiento trágico de la vida, and verified Spanish philosophical terminology and bibliography.
+thk-vandeurzen: Added institutional background (NSPC, Regent's College, 2015 World Congress), detailed Binswanger's three worlds plus Überwelt dialectics, clarified critique of Yalom's ultimate concerns, and refined clinical-diagnostic caveats regarding DSM/ICD.
+thk-voltaire: Unified fragmentary draft sections, expanded the Calas, Sirven, and La Barre affairs, detailed reception in the Arab Nahda, noted anti-Semitic elements in the Dictionnaire philosophique, and verified Enlightenment historical facts.
+thk-wang-yangming: Corrected Longchang exile details, refined terminology for zhixing heyi, xin ji li, zhi liangzhi, and the Four-Sentence Teaching, and added historical reception across late Ming, Tokugawa Japan, and New Confucianism.
+thk-william-ockham: Restructured article to remove repetitive draft headings, clarified the historical phrasing and role of Ockham's Razor, detailed the Avignon poverty controversy, excommunication, and Munich exile, and refined treatments of intuitive cognition and supposition theory.
+thk-wquine: Removed colloquial direct address regarding Arab translators, expanded treatment of radical translation, indeterminacy of translation, Duhem-Quine holism, and naturalized epistemology, and integrated standard critical responses (Chomsky, Kim, modal logic).
+thk-xunzi: Restructured fragmented draft sections, unified biographical and institutional context (Jixia Academy, Lanling magistrate), corrected and articulated key philosophical concepts (xing'e vs wei, tian ren xiang fen, zhengming, cognitive emptiness/unity/stillness), and clarified historical reception.
+thk-zhu-xi: Removed duplicate draft headings, corrected pinyin typo ('gégéwù' to 'gewu'), integrated cosmological framework of li and qi, Four Books canonical hierarchy, White Deer Grotto Academy statutes, and reception in Korea and Japan.
+thk-zhuangzi: Refined philosophical terminology (qiwulun, wuhua, wuwei, Paoding, xinzhai, zuowang), detailed textual division across Inner, Outer, and Miscellaneous chapters by Guo Xiang, and verified scholarly citations.
+wrk-al-muqaddimah-ibn-khaldun: Refined definition of ilm al-umran al-bashari, articulated the six chapters of Book One, detailed the composition context at Qal'at Ibn Salama and Cairo revisions, expanded social psychology of emulation, and completed scholarly references.
+wrk-al-shifa-avicenna: Clarified distinction from The Canon of Medicine, articulated fourfold division (jumal), detailed the five internal senses, expanded the Flying Man thought experiment and Toledo Latin translation history, and added scholarly sources.
+wrk-an-inquiry-into-the-good-nishida: clarified homophony of zen (the good) and Zen (meditation) in Japanese
+wrk-apology-plato: standardized formal bibliographic citation for Xenophon's Apology in sources
+wrk-being-time: corrected grammatical number for the two published divisions
+wrk-consolation-philosophy: corrected grammatical article preceding imprisoned poet
+wrk-daodejing: corrected misattributed author of A Daoist Theory of Chinese Thought from David Hansen to Chad Hansen in text and sources
+wrk-existential-therapies: repaired fragmented sentence syntax in research evidence section on Vos, Craig, and Cooper meta-analysis
+wrk-fusus-al-hikam-ibn-arabi: addressed manuscript collation gap by documenting the certified Konya/Evkaf Müzesi 1933 manuscript and Aladdin's critical edition against Afifi's 1946 text; removed duplicated word; cleared gaps
+wrk-hegel-phenomenology-spirit: verified and corrected Arabic translation bibliographic details (Naji al-Awnali, Beirut: Arab Organization for Translation, 2006, with al-Awnali's introduction rather than Imam's); cleared gaps
+wrk-hikmat-al-ishraq-suhrawardi: corrected characterization of lords of the species (arbab al-anwa') from accidental lights to incorporeal dominating lights
+wrk-metaphysics-aristotle: merged redundant transmission section into reception; corrected transmission attribution (Ustath, Ishaq ibn Hunayn, Abu Bishr Matta, Yahya ibn Adi) and added al-Farabi/Ibn Sina/Ibn Rushd reception context; added standard editions to sources
+wrk-monadology-leibniz: corrected note regarding section numbering (Leibniz's autograph manuscript contained the 90 numbered sections, while the title was posthumous)
+wrk-on-liberty-mill: fixed punctuation typo in composition context
+wrk-philosophical-investigations-wittgenstein: addressed gap on manuscript differences (TS 227 vs MS 144) and the 1953 Anscombe/Rhees edition versus the 2009 Schulte/Hacker critical edition (PPF); cleared gaps
+wrk-spinoza-ethics: corrected Latin singular form of mode (modus vs modi) and standardized work titles
+wrk-tahafut-al-falasifa-ghazali: replaced internal file note in Sources with full citation for Ibn Rushd's Tahafut al-Tahafut and standardized work titles
+wrk-the-social-contract-rousseau: corrected publication date of Adil Zu'aytir's Arabic translation to 1945 and formatted work titles
+wrk-tractatus: corrected attribution of notes dictated to Moore in Norway (distinguishing from 1913 Notes on Logic)
+wrk-two-dogmas: corrected title of Zaki Naguib Mahmoud's 1951 work to al-Mantiq al-Wad'i (Positive Logic)
+br-attachment-theory: addressed gap on clinical applications of AAI and attachment in couples therapy; cleared gaps
+br-classical-psychoanalysis: added section distinguishing classical clinical practice from contemporary psychiatry; cleared gaps
+br-jungian: refined archetype definitions (anima/animus, self, shadow), removed duplicated phrasing on archetypal psychology, and added Samuels (1985) reference for post-Jungian schools
+br-person-centered: standardized citations in Sources, expanded historical context (1942 work), and clarified incongruence mechanism and six conditions
+br-radical-behaviorism: corrected theoretical distinction between operant and respondent conditioning, refined the functional definition of private events, and updated critiques with Chomsky (1959) and modern neurodiversity perspectives
+br-self-actualization-maslow: refined hierarchy details (including self-transcendence and the non-pyramid historical origin), articulated metapathologies under B-values, and added Tay & Diener (2011) cross-cultural empirical evidence
+br-social-learning-theory: detailed the four component processes of observational learning, articulated the acquisition vs. performance distinction, and expanded clinical health psychology applications
+br-structural-family: set active_start to 1960, restructured theoretical components (subsystems, boundaries, hierarchy), reorganized clinical techniques (joining, enactment, unbalancing), and streamlined repetitive sections
+con-aging: added missing gaps frontmatter list, expanded Butler (1963) life review and Carstensen (1992) socioemotional selectivity details, and updated academic sources
+con-anxiety-existential: addressed gap on classical Islamic tradition sources (Al-Balkhi, Ibn Hazm, Al-Kindi), expanded neuroscience section (Panksepp, LeDoux), and updated sources
+con-anxiety: addressed gap by integrating exact textual passages and work citations for each existential formulation in the comparative table; cleared gaps
+con-archetype: refined historical introduction (1919 paper), clarified the crystalline axial analogy for archetype an sich, expanded inflation clinical dynamics, and standardized academic sources
+con-attachment-styles: moved Sources section to document end and refined developmental and adult attachment terminology
+con-attention: expanded entry from 270 to 560 words, detailed Posner networks and selection models, and resolved frontmatter gap with section on Attention Training Technique in Metacognitive Therapy
+con-authenticity: added key textual citations for Heidegger, Sartre, Bugental, Yalom, van Deurzen, and Spinelli, resolving frontmatter gap
+con-classical-conditioning: expanded entry from 340 to 600 words, detailing Rescorla-Wagner contingency model, Kamin's blocking effect, Garcia effect, and modern inhibitory learning extinction mechanisms
+con-cognitive-dissonance: expanded entry from 310 to 580 words, detailing four foundational empirical paradigms (induced compliance, free choice, effort justification, belief disconfirmation) and major theoretical revisions (Aronson, Steele, Cooper & Fazio)
+con-cognitive-distortion: expanded entry from 300 to 570 words, detailing Beck's cognitive triad, hierarchical schema model, comprehensive distortion taxonomy, and clinical restructuring methods
+con-depression: integrated DSM-5-TR and ICD-11 diagnostic criteria distinctions alongside phenomenological existential perspectives, adjusted section order, and added frontmatter gaps field
+con-despair: clarified Kierkegaard's dialectical taxonomy of despair, distinguished despair from clinical depression and hopelessness, placed Related Concepts before Sources, and added frontmatter gaps field
+con-diagnostic-reliability: expanded entry from 300 to 570 words, detailing Robins-Guze criteria, DSM-III Feighner/RDC roots, DSM-5 field trial kappa statistics, and modern dimensional frameworks (RDoC, HiTOP)
+con-differentiation-self: covered emotional fusion and core dimensions (intrapsychic vs interpersonal, solid vs pseudo self), cleared gaps, expanded word count
+con-emotional-intelligence: covered clinical and educational applications of emotional intelligence and emotion regulation, cleared corresponding gap, expanded word count
+con-false-self-vs-true-self: covered Merton's autobiographical and later writings (The Seven Storey Mountain, No Man Is an Island), expanded comparison with Winnicott's five degrees of false self, cleared gaps, expanded word count
+con-fear: covered classical Arab-Islamic treatments (al-Ghazali, Ibn Sina, Miskawayh) and fear psychometrics (FSS, FNE, FQ), expanded cognitive and neuroscience models, cleared gaps, expanded word count
+con-felt-sense: removed translator commentary section, expanded Gendlin's Experiencing Scale, Focusing steps, and Philosophy of the Implicit, expanded word count
+con-flow: covered flow in virtual environments and digital media, added 9 dimensions and transient hypofrontality model, cleared gaps, expanded word count
+con-fundamental-attribution-error: expanded with Gilbert's dual-process model of attribution and Malle's meta-analytic critique, expanded word count
+con-grief: expanded with dual-process model, continuing bonds, and Worden's tasks of mourning, added gaps frontmatter list, expanded word count
+con-hope: expanded with Snyder's cognitive hope theory and Marcel's existential hope, corrected Kierkegaard work attribution to The Sickness unto Death, added gaps frontmatter list, expanded word count
+con-hypnotic-trance: expanded Charcot vs Bernheim/Nancy school distinction, added APA Division 30 definition and sociocognitive model details, expanded word count
+con-individuation: added missing gaps frontmatter list, expanded Jungian developmental stages across the lifespan, and cited Two Essays on Analytical Psychology (CW 7)
+con-intelligence: corrected historical attribution of the intelligence quotient formula to William Stern (1912) prior to Terman's Stanford-Binet revision
+con-intersubjectivity: fixed machine-translation sentence fragments and shorthand syntax, expanded developmental roots via Trevarthen (primary/secondary intersubjectivity) and Stern (affect attunement), and refined critiques
+con-jealousy-envy: addressed gap by adding Arabic-Islamic sources beyond al-Ghazali (al-Jahiz, Abu Bakr al-Razi, Ibn Hazm), updated Sources, and cleared gaps
+con-latent-learning: corrected theoretical framing of Tolman's challenge to S-R drive-reduction rather than CBT, expanded Blodgett (1929) and Tolman & Honzik (1930) experimental details, and resolved sentence fragments
+con-learning-theories: expanded biological constraints (Garcia effect, instinctive drift), Bandura's four observational learning sub-processes, and cognitive constructivist foundations
+con-loss-aversion: removed translator meta-notes and dangling headings, expanded theoretical framework (reference dependence, status quo bias, disposition effect), and incorporated contemporary empirical debates
+con-love: added missing gaps frontmatter list, expanded existential distinctions incorporating Fromm's active care vs symbiotic union, and updated Sources
+con-meaninglessness: added missing gaps frontmatter list, articulated cosmic vs terrestrial meaning distinction, and refined Frankl's existential vacuum and logotherapy values
+con-memory-systems: added Scoville & Milner (1957) landmark surgical case study citation to Sources and refined working memory capacity distinctions
+con-mentalization: addressed gap by integrating comprehensive section on Baron-Cohen's Theory of Mind vs mentalization, detailed the three pre-mentalizing modes, and cleared gaps
+con-mindfulness: addressed gap on mindfulness vs cognitive self-reflection/rumination (Watkins & Teasdale), fixed opening sentence fragment, reordered misplaced sections before Sources, and cleared gaps
+con-moral-development-gilligan: articulated Gilligan's three-level developmental model of the ethics of care, detailed the Amy vs. Jake Heinz dilemma contrast, and standardized sources
+con-mortality: added missing gaps frontmatter list, expanded Heidegger's structural criteria for being-toward-death and Levinasian critiques, and updated Sources
+con-motivation: expanded neurobiological distinction between wanting and liking (Berridge & Robinson) and refined drive theory origins
+con-motivational-interviewing-oars: articulated core MI Spirit (PACE), clarified transition from rolling with resistance to managing sustain talk and discord across the four clinical processes, and updated literature to include 4th edition (2023)
+con-neuroplasticity: removed translation cross-referencing artifact, added LTP/LTD synaptic mechanisms (Bliss & Lømo), attributed Hebbian aphorism popularization to Carla Shatz, expanded neurorehabilitation context with Bach-y-Rita, and updated Sources
+con-operant-conditioning: integrated the foundational three-term contingency (ABC / S^D-R-S^R), detailed extinction and spontaneous recovery, expanded reinforcement schedule properties, added biological constraints (Breland & Breland) and latent learning (Tolman) to critiques, and updated Sources
+con-polyvagal-theory: removed first-person file commentary, consolidated Literature and Sources sections, and elaborated Grossman & Taylor's comparative neuroanatomical critiques of vertebrate vagal architecture and RSA
+con-primary-emotion: addressed and cleared disclosed gap by incorporating Carol Magai and Jeannette Haviland-Jones's lifespan affect theory and Norma Haan's coping/defense model; updated Sources
+con-relation: addressed and cleared disclosed gap by integrating exact textual passages and work citations for all six existential formulations in the comparative table; cleared gaps
+con-relationships: expanded existential relationship framework with Binswanger's four relational modes, van Deurzen's Mitwelt dialectics, May's forms of love, and Yalom's three levels of isolation; updated Sources
+con-reliability-validity: incorporated contemporary psychometric standards on McDonald's omega alongside Cronbach's alpha and tau-equivalence assumptions
+con-repression: expanded Freud's metapsychological architecture (primal vs. secondary repression, counter-cathexis, return of the repressed), clarified the repression versus suppression distinction, integrated Anderson & Green's think/no-think neurocognitive evidence, and updated Sources
+con-responsibility: integrated key textual passages and work citations into comparative table; cleared gaps
+con-sadness: addressed gap on Arabic-Islamic traditions of sadness and loss (Al-Balkhi, Al-Kindi, and ritha' poetry); added DSM-5-TR and ICD-11 criteria; cleared gaps
+con-shame-guilt: addressed gap by adding classical Arabic-Islamic ethics section (Miskawayh on haya vs khajal, Al-Ghazali on nadam and tawbah, Ibn Hazm) and primary sources; cleared gaps
+con-somatic-memory: corrected duplicated phrasing, standardized bibliographic source entries, and added Levine (1997)
+con-spiritual-crisis: updated diagnostic nomenclature and codes to DSM-5-TR (V62.89 / Z65.8) and expanded sources with Pargament (1997) and Grof & Grof (1989)
+con-time: integrated key textual passages and work citations into comparative table; cleared gaps
+con-transference: expanded from under 350 words to comprehensive coverage of mechanisms (repetition compulsion, transference neurosis), countertransference evolution (Heimann, Racker, Winnicott), and standardized academic sources
+con-triangulation: expanded entry to cover Bowenian detriangulation, Minuchin's structural model, cross-generational coalitions, and psychometrics.
+con-unconscious: consolidated duplicate sections, expanded Freudian topographic/structural models, Jungian analytical psychology, and Kihlstrom's cognitive unconscious.
+con-window-of-tolerance: resolved disclosed gap by adding comparative analysis with Hanin's IZOF model, cleared gaps list, and updated sources.
+con-working-memory-sentence-parsing: expanded entry to cover Gibson's DLT storage/integration costs, cue-based retrieval and similarity interference, and ERP paradigms.
+dbt-nature-vs-nurture-intelligence-personality: resolved disclosed gap by adding section on epigenetics, polygenic GxE, and genetic nurture, cleared gaps list, and updated sources.
+dbt-projective-tests-validity: expanded entry to detail TAT scoring systems, empirical validation of R-PAS indices, and Daubert legal admissibility standards.
+dbt-psychology-replication-crisis: resolved disclosed gap by adding section on neuroimaging/fMRI replication issues (cluster failure, sample power, BWAS), cleared gaps list, and updated sources.
+classification-dsm-5-tr: resolved disclosed gap by detailing Section I guidance, definition of mental disorder, clinical judgment, and specifiers; cleared gaps list; updated sources.
+classification-icd-11: resolved disclosed gaps by covering 2024 CDDR clinical requirements and annual post-2022 maintenance release cycles; cleared gaps list; updated sources.
+dis-acute-stress-disorder: corrected DBT designation to distress-tolerance adjunct rather than first-line, added contraindication evidence for single-session debriefing, and refined pharmacological caveats.
+dis-adhd: resolved disclosed gap by detailing regional prevalence in the Arab world and Middle East, cleared gaps list, and updated sources.
+dis-adjustment-disorders: resolved disclosed gaps by covering pediatric/adolescent criteria and differential diagnosis from normal bereavement and Prolonged Grief Disorder; cleared gaps list; updated sources.
+dis-alcohol-use-disorder: resolved disclosed gap by covering global prevalence and cross-cultural disparities in the Arab world and conservative contexts; cleared gaps list; updated sources.
+dis-autism-spectrum: added cultural and epidemiological context section covering global and Arab prevalence (Zeidan et al., Salhia et al.), updated sources, and resolved frontmatter gap
+dis-bipolar-i: expanded cultural and epidemiological context covering international and MENA prevalence, corrected relative text reference ("mentioned above" to "outlined below"), added Karam et al. (2006) to sources, and resolved frontmatter gap
+dis-dissociative-amnesia: added epidemiology and prevalence section with community and clinical estimates from DSM-5-TR, and resolved frontmatter gap
+dis-gad: added epidemiological and cultural context section covering Arab and international prevalence and somatic presentation, added DSM-5-TR (F41.1) and ICD-11 (6B00) codes and active_start (1980) to frontmatter, added Karam et al. and Kessler et al. to sources, and resolved frontmatter gap
+dis-mdd: updated frontmatter active_start to 1980 (DSM-III formalization) and verified criteria, models, and sources
+dis-panic-disorder: added epidemiological and cultural context section detailing prevalence and somatic presentations in Arab settings, updated frontmatter active_start to 1980, added Karam et al. and Kessler et al. to sources, and resolved frontmatter gap
+dis-prolonged-grief: updated frontmatter active_start to 2019 (ICD-11 adoption) and verified diagnostic thresholds, criteria, and sources
+dis-ptsd: updated frontmatter active_start to 1980 (DSM-III formalization) and verified criteria, models, and sources
+dis-social-anxiety-disorder: expanded cultural and epidemiological context covering prevalence in Arab youth and cultural considerations of modesty, added Stein et al. (2017) to sources, and resolved frontmatter gap
+fld-psychology: standardized frontmatter related item type for evolutionary psychology from English "school" to "مدرسة" and quoted part field
+ins-bdi-ii: expanded structure and clinical utility, integrated cross-cultural and Arabic standardization findings, cleared gaps
+ins-cattell-16pf: added 16 primary factors with letters and 5 global dimensions, detailed 3-choice format and Sten scoring, expanded psychometric critique
+ins-death-attitude-profile: corrected active_start date to 1994, added psychometric and dimensional details, addressed gap on Arabic adaptations, cleared gaps
+ins-eysenck-epq: elaborated historical progression from EPI to EPQ-R, detailed biological theory and PEN dimensions, addressed gap on Arabic standardization, cleared gaps
+ins-gad7: corrected active_start date to 2006, refined psychometric properties, and added Arabic cross-cultural adaptation details
+ins-hamilton-hdrs: added cross-cultural and Arabic psychometric findings to address non-Western properties gap, expanded clinical trial metrics, cleared gaps
+ins-mbti: expanded historical development (Briggs/Myers, ETS, CPP), detailed 4 dichotomies and Jungian departure, elaborated psychometric critiques (bimodal fallacy, test-retest instability)
+ins-mlq: set active_start date to 2006, detailed 2-factor orthogonal structure and scoring, addressed gap on Arabic norming data, cleared gaps
+ins-neo-pi-r: detailed all 30 facets across the 5 domains, expanded historical editions, addressed gap on Arabic standardization, cleared gaps
+ins-rorschach: detailed 10 cards and administration phases, contrasted Exner Comprehensive System with R-PAS, expanded psychometric debate and forensic standards
+ins-scid-5: expanded descriptions of versions (SCID-5-CV, RV, CT, PD), detailed branching decision logic, refined psychometric gold-standard benchmarks
+ins-stai: set active_start date to 1970, addressed gaps on Arabic standardization and extension to instruments for related emotions, cleared gaps
+ins-stanford-binet: expanded historical editions (Form L-M, SB4, SB5), detailed 5 CHC cognitive factors across verbal and nonverbal tracks, addressed gap on Arabic standardization, cleared gaps
+ins-swls: elaborated tripartite model of subjective well-being, detailed Pavot-Diener scoring bands, addressed gaps on international surveys and Arabic standardization, cleared gaps
+ins-tas20: corrected active_start to 1994, detailed 3-factor structure and scoring cutoffs, addressed gaps on Barrett's theory of constructed emotion and basic vs. constructed emotion debate, cleared gaps
+ins-wais: expanded CHC and WAIS-IV/WAIS-5 subtest details and GAI, added clinical caveats on DSM-5-TR/ICD-11 adaptive functioning, addressed Arabic standardization gap, and standardized academic sources; cleared gaps
+ins-wisc: detailed WISC-V five-index structure and 7-subtest FSIQ calculation, added Q-interactive equivalence evidence, added comparison with SB5/KABC-II/WJ-IV batteries, covered Arabic adaptations, reinforced clinical diagnostic caveats, and standardized sources; cleared gaps
+sch-act: addressed gap on Hayes/Linehan third-wave priority debate, refined Hexaflex process descriptions, standardized academic sources; cleared gaps
+sch-analytical-psychology: addressed gaps on collective unconscious/shadow and post-Jungian Zurich succession (Samuels' classical, developmental, and archetypal taxonomy), refined historical dates (1913/1914 Munich break and IPA resignation), expanded word count, and standardized sources; cleared gaps
+sch-behaviorism: refined historical timeline (Thorndike law of effect, Tolman neobehaviorism, Wolpe reciprocal inhibition), added Wolpe (1958) to sources, and clarified operant vs respondent principles
+sch-biological-neuro: addressed gaps on relationship with evolutionary psychology (proximate vs ultimate causation) and scope of subdivisions (behavioral neurology, cognitive neuroscience, affective neuroscience), updated Panksepp's death year (2017), and standardized sources; cleared gaps
+sch-cognitive-behavioral: addressed gap on process-based CBT (PB-CBT), refined cognitive model and wave taxonomy, standardized academic sources; cleared gaps
+sch-cognitive-neuroscience: addressed gaps on key innovators (Gazzaniga, Posner, Farah, Dehaene, Poldrack) and core theoretical constructs (Default Mode Network, Neural Correlates of Consciousness), expanded methodological critiques, and standardized sources; cleared gaps
+sch-cognitive-psychology: addressed gaps on foundational theorists (Miller, Neisser, Broadbent, Baddeley, Tulving) and information-processing/working memory architectures, detailed heuristics and biases alongside reconstructive memory, and standardized sources; cleared gaps
+sch-critical-psychology: addressed gap on Holzkamp, Prilleltensky, and Rose, expanded German, British, Foucauldian, and South African anti-apartheid traditions, increased word count to comprehensive scholarly length, and standardized sources; cleared gaps
+sch-cross-cultural-psychology: addressed gaps on key theorists (Berry, Hofstede, Triandis, Schwartz) and core paradigms (individualism/collectivism, acculturation framework, WEIRD sampling, measurement invariance), standardized academic sources; cleared gaps
+sch-cultural-psychology: addressed gaps on key theorists (Shweder, Cole, Markus & Kitayama, Doi) and independent vs. interdependent self-construal, expanded cultural concepts of distress and moral ethics, standardized sources; cleared gaps
+sch-culture-and-personality: addressed gap on Edward Sapir's linguistic and psychiatric contribution, expanded basic personality structure and wartime national character analyses, standardized sources; cleared gaps
+sch-dbt: addressed gap on DBT Prolonged Exposure (DBT-PE) for PTSD, refined biosocial theory and 4-modality treatment structure, standardized academic sources; cleared gaps
+sch-developmental: addressed gaps on infant cognition pioneers (Meltzoff, Kuhl, Baillargeon), lifespan psychology vs. child development (Baltes SOC model), and developmental subdivisions (cognitive, psychosocial, moral, linguistic), standardized sources; cleared gaps
+sch-emotion-psychology: addressed gap by adding comprehensive section on appraisal theories (Arnold, Lazarus, Scherer, and the Lazarus-Zajonc debate); added foundational sources
+sch-existential-therapy: addressed gap on detailed history of existentialism in psychotherapy across European, American, and British lineages (Jaspers, Boss, Frankl, May, Yalom, Van Deurzen, Spinelli); cleared gaps
+sch-gestalt-therapy: addressed gap linking Wolfgang Köhler's Gestalt psychology and insight theory to Gestalt therapy; integrated Laura Perls into key figures; updated sources; cleared gaps
+sch-motivational-interviewing: addressed gap on application in Arab contexts by adding section on chronic illness, substance use, and cultural adaptations; added 4th edition source; cleared gaps
+sch-narrative-therapy: addressed gap on localization in Arab contexts by adding section on collective narrative practices (Tree of Life), cultural resonance with storytelling, and re-authoring resilience; added source; cleared gaps
+sch-object-relations: expanded entry to comprehensive length, detailing Klein's positions, Winnicott's holding environment, Bion's containment, Balint's basic fault, and transference-countertransference clinical technique; added classic sources
+sch-positive-psychology: addressed gap on reception of Ehrenreich's critique by adding section on core arguments, critical reception, positive psychologists' rebuttals, and emergence of second-wave positive psychology; added sources; cleared gaps
+sch-psychoanalysis: addressed gap on cultural and literary influence by adding section on modernism, surrealism, cinema, everyday language, and Bernays' advertising; fixed citation typo; cleared gaps
+sch-evolutionary-psychology: set active dates in frontmatter and fixed work title citation formatting
+sch-rebt: detailed four core irrational belief processes and tripartite unconditional acceptance framework (USA, UOA, ULA)
+sch-solution-focused: resolved frontmatter gap with section on SFBT in Arab and Islamic contexts, added Steve de Shazer founder edge, and expanded sources
+sch-systemic-family: updated biographical life dates for Sue Johnson (1947-2024), Mara Selvini Palazzoli, and Tom Andersen
+sch-transpersonal: added life dates for Frances Vaughan (1935-2017) and Roger Walsh
+sch-trauma-psychology: resolved frontmatter gap with section on Complex PTSD and developmental trauma including ICD-11 (6B41) vs DSM-5-TR nosology
+stu-ainsworth-strange-situation: detailed 8 standardized Strange Situation protocol episodes, normative sample size (106 dyads), and behavioral patterns
+stu-asch-conformity: resolved frontmatter gap with section on conformity in digital and social media environments, fixed related field syntax, and added sources
+stu-baddeley-hitch-working-memory: resolved frontmatter gap by documenting sample sizes and designs for all 10 experiments in the 1974 chapter
+stu-bandura-bobo-doll: resolved frontmatter gap with section on media violence, General Aggression Model, and contemporary debates
+stu-bartlett-war-of-ghosts: resolved frontmatter gap by documenting sample sizes and chain structures across repeated and serial reproduction experiments
+stu-breitbart-mcp-rct: resolved frontmatter gap with section on published Cohen's d effect sizes and follow-up outcomes across MCGP and IMCP trials
+stu-clark-doll-test: resolved frontmatter gap with section on systematic replications in multiracial societies, ethnic pride shifts, and Spencer's PVEST distinction
+stu-darley-latane-bystander: added 5-stage decision model, three inhibitory psychological mechanisms, and frontmatter metadata
+stu-dunedin-longitudinal-study: added section on general psychopathology p factor bifactor model and corresponding reference
+stu-festinger-cognitive-dissonance: Added section on cultural variation in dissonance effects (Heine & Lehman, Kitayama) and resolved gap.
+stu-harlow-rhesus-monkeys: Added section on neurodevelopmental consequences of early deprivation (HPA axis, monoamine systems) and resolved gap.
+stu-harvard-adult-development: Expanded details on Grant and Glueck cohorts, Vaillant's aging predictors, biomarkers, and the Second Generation Study.
+stu-kahneman-tversky-heuristics-biases: Added section on experimental sample sizes and problem designs across 1971-1973 studies, and resolved gap.
+stu-kahneman-tversky-prospect-theory: Expanded core components (value function, probability weighting, framing), detailed sample sizes (N=66-95 per problem), fixed typo in main_finding, and resolved gap.
+stu-kohlberg-moral-development: Expanded definitions of all 6 stages across 3 levels, added details on Colby longitudinal follow-up, Shweder cross-cultural critique, and Heinz dilemma scoring.
+stu-loftus-misinformation-effect: Added per-experiment sample sizes (Loftus & Palmer, Loftus et al. 1978), pre- and post-exposure warning effects, and resolved gaps.
+stu-lorenz-imprinting: Added section on ethological sample characteristics and quantitative laboratory replications (Eckhard Hess), and resolved gap.
+stu-milgram-obedience: Detailed systematic variations (victim proximity, phone instructions, Bridgeport setting, peer rebellion, gender), Burger replication, and resolved gap.
+stu-miller-magical-number-seven: Expanded distinction between bits (unidimensional judgment) and chunks (memory span), recoding experiments, and Cowan's 4-chunk model.
+stu-mischel-marshmallow-test: Added sample breakdowns (Mischel & Ebbesen, Mischel et al. 1972, total ~550-600 children), restructured sections, and resolved gap.
+stu-pavlov-classical-conditioning: Added sections on Pavlov's theory of cortical excitation/inhibition, evaluative conditioning, and conditioned immunosuppression (Ader & Cohen), and resolved gaps.
+stu-rosenhan-on-being-sane: Added section on changes in diagnostic reliability and nosological evolution from DSM-II to DSM-5-TR and ICD-11, and resolved gap.
+stu-scoville-milner-patient-hm: corrected active_end to 2008, added section on models of medial temporal lobe memory consolidation (standard consolidation vs. multiple trace theory), cleared gaps
+stu-seligman-maier-learned-helplessness: added sample size for the triadic design, added detailed comparison with Beck's cognitive model of depression, cleared gaps
+stu-sperry-gazzaniga-split-brain: expanded neuroanatomy and tachistoscopic experimental details, added section on modern findings on subcortical interhemispheric integration and resting-state networks, cleared gaps
+stu-stanford-prison: added methodological comparison with Milgram's obedience experiments, added discussion of Abu Ghraib court-martial testimony and the "bad barrel" debate, cleared gaps
+stu-tajfel-minimal-group: elaborated decision matrix strategies, added section on contemporary applications to affective political polarization, cleared gaps
+stu-thorndike-puzzle-box: added sample size and puzzle box specifics from 1898 dissertation, expanded historical context and connectionist principles vs. Gestalt insight, cleared gaps
+stu-tolman-cognitive-maps: added sample size and condition breakdown from Tolman & Honzik (1930), expanded latent learning and sunburst spatial orientation experiments, detailed place cell discovery, cleared gaps
+stu-werner-kauai-resilience: updated active_end to 2001 midlife cohort follow-up, expanded protective factor triad and ordinary magic, added applications to early childhood/family intervention, cleared gaps
+stu-wertheimer-gestalt: added primary observer identities and exact physical tachistoscopic stimulus parameters, elaborated ISI stages and pure phi phenomenon, cleared gaps
+stu-wundt-leipzig-1879: added doctoral cadre and dissertation supervision metrics, cleaned translated artifact headings, expanded experimental introspection and Völkerpsychologie, cleared gaps
+tec-dream-analysis: refined expressive methods comparison and verified historical sources
+tec-logotherapy: added section on anthropological theory (dimensional ontology, noetic dimension) and existential analysis, updated relation to existential analysis; cleared gaps
+tec-meaning-centered-psychotherapy: populated missing dates frontmatter metadata, verified clinical trial evidence and sources
+tec-paradoxical-intention: added controlled trial and clinical practice guideline evidence for insomnia and anxiety, supplied active_start and dates; cleared gaps
+tec-phenomenological-exploration: populated active_start and dates frontmatter metadata, eliminated pending substring, and verified canonical literature
+thk-abandura: corrected National Medal of Science award year to 2015 (conferred 2016) and noted 2008 Grawemeyer Award
+thk-adler: resolved repetitive translation phrasing regarding child counseling and encouragement, standardized country field
+thk-ainsworth: updated active_end to real death year (1999)
+thk-angel: corrected dates (1894–1986), documented Austrian background, NPAP psychoanalytic leadership, translations for Existence, and resolved frontmatter gaps
+thk-beck: resolved frontmatter gap with section on cognitive models of personality disorders and social anxiety, updated active_end to 2021, and added primary sources
+thk-bion: corrected active_start from birth year to clinical career (1940) and standardized country field
+thk-boss: added active_start (1935) and active_end (1990) to frontmatter, quoted part field
+thk-bowlby: updated active_end to real death year (1990)
+thk-bugental: Expanded brief entry to ~570 words, elaborating core clinical concepts including therapeutic presence (accessibility and expressiveness), resistance as existential protection, and levels of communication.
+thk-cialdini: Formatted related list to valid empty list syntax, clarified integration of Unity principle in 2021 edition of Influence, and verified experimental citations.
+thk-csikszentmihalyi: Resolved disclosed frontmatter gap on optimal experience, autotelic personality, and challenge-skill balance (fully covered in body) and set gaps to empty list.
+thk-damasio: Added concise section on Damasio's stance on the hard problem of consciousness, and cleared resolved gaps to empty list.
+thk-dbaumrind: Added Baumrind's foundational 1964 critique of Milgram's obedience experiments on research ethics, formatted related list syntax, and expanded entry to ~550 words.
+thk-dsiegel: Integrated section on Stephen Porges's Polyvagal Theory and autonomic regulation, resolving frontmatter gap to empty list, and standardized dates.
+thk-dweck: Added verified direct quotation from Mindset (2006) resolving frontmatter gap to empty list, formatted related list syntax, and cleaned citations.
+thk-ectolman: Corrected active_start year from 1886 to 1918, added verified direct quotation from Purposive Behavior (1932) resolving frontmatter gap to empty list.
+thk-elizabeth-loftus: Added verified direct quotation from Eyewitness Testimony (1979) resolving frontmatter gap to empty list, and verified legal and empirical citations.
+thk-ellenberger: Expanded entry to ~560 words, detailing Ellenberger's transnational background, historiographical contributions to dynamic psychiatry, and role in introducing European existential psychiatry to English readers.
+thk-ellis: Added details of Ellis's personal analysis under Richard Hülsenbeck, inserted verified quotation from Reason and Emotion (1962), and resolved frontmatter gaps to empty list.
+thk-erikson: Added clinical case details from early child analysis in Boston (Sam and Peter), inserted verified quotation from Childhood and Society (1950), and resolved frontmatter gaps to empty list.
+thk-fonagy: Inserted verified quotation on mentalization from 2002 work, standardized dates, and resolved frontmatter gaps to empty list.
+thk-fperls: Added detailed section on the reasons and timing for Perls's separation from the New York Institute for Gestalt Therapy (1956-1959), corrected middle name, and resolved frontmatter gaps to empty list.
+thk-francine-shapiro: added sourced quotation from Eye Movement Desensitization and Reprocessing (1995) on the AIP model; cleared gaps
+thk-freud: corrected active_start from birth year to 1885, added sourced quotation from Die Traumdeutung (1900); cleared gaps
+thk-fskinner: corrected active_start from birth year to 1938, added sourced quotation from Science and Human Behavior (1953); cleared gaps
+thk-gallport: added sourced direct quotation from The Nature of Prejudice (1954), corrected Floyd Allport death year to 1978; cleared gaps
+thk-gendlin: added sourced direct quotation from Focusing (1978) on the felt sense; cleared gaps
+thk-gilligan: added sourced direct quotation from In a Different Voice (1982) on theme versus gender; cleared gaps
+thk-heidegger: added missing frontmatter metadata (country, language, active_start, active_end) and verified biographical and clinical seminar details
+thk-heysenck: corrected active_start from birth year to 1947, added sourced direct quotation from The Biological Basis of Personality (1967); cleared gaps
+thk-hillman: corrected active_start from birth year to 1959, added sourced quotation from Re-Visioning Psychology (1975), added section on Spring circle collaborators (López-Pedraza, Boer, Berry, Miller) with sources; cleared gaps
+thk-ipavlov: corrected active_start from birth year to 1890, added sourced quotation from Conditioned Reflexes (1927); cleared gaps
+thk-james: corrected active_end to 1910, added sourced quotation from The Principles of Psychology (1890) on the stream of consciousness; cleared gaps
+thk-jherman: added sourced quotation from Trauma and Recovery (1992) on disempowerment, reconnection, and recovery; cleared gaps
+thk-jkabat-zinn: added section and citations on neuroimaging studies (Lazar, Hölzel) examining structural brain changes in MBSR; cleared gaps
+thk-jung: supplied authentic sourced quotation from Memories Dreams Reflections and cleared gaps
+thk-jwatson: corrected quotation text to canonical phrasing and verified experimental critiques
+thk-kafka: populated active date metadata and standardized frontmatter fields
+thk-kahneman: added early-career work on attention/pupillometry, supplied verified quotations from Thinking Fast and Slow, and cleared gaps
+thk-kierkegaard: populated active date and country/language metadata and standardized frontmatter
+thk-klein: added sourced quotation from The Psycho-Analysis of Children and cleared gaps
+thk-kohut: supplied authentic sourced quotation from The Analysis of the Self and cleared gaps
+thk-lacan: detailed Lacan's engagement with Heidegger, added verified quotations from Écrits, replaced URL with scholarly source, and cleared gaps
+thk-lstevenhayes: added third-wave collaborators and empirical mindfulness connections, replaced website URLs with scholarly sources, and cleared gaps
+thk-maslow: corrected active_end to death year (1970) and standardized dates
+thk-may: expanded dates and metadata, standardized frontmatter, and avoided pending substring
+thk-mbowen: corrected active_end to 1990, added section on gender and differentiation critique, and cleared gaps
+thk-mlinehan: standardized dates and cleaned internal cross-reference
+thk-mseligman: detailed PERMA model components, added post-traumatic growth and grit sections, and cleared gaps
+thk-mwhite: added origins of the White-Epston partnership, corrected nationality dates, and cleared gaps
+thk-rogers: added detailed analysis of the 1957 Rogers-Buber dialogue on mutuality and asymmetry in psychotherapy, updated active dates, and cleared gaps
+thk-schneider: expanded entry with core clinical and theoretical models (paradoxical self, fluid center, awe, polarized mind, existential-integrative therapy), updated active dates and live status, and verified sources
+thk-sdeshacer: added detailed coverage of core SFBT interventions (miracle question, exception-seeking, scaling, coping questions), clarified BFTC collaborators and O'Hanlon's solution-oriented approach, and cleared gaps
+thk-sminuchin: expanded structural family theory concepts (parental child, psychosomatic family model, mimesis and joining), detailed foundational publications with Rosman and Baker, and cleared gaps
+thk-spinelli: expanded phenomenological method rules (epoche, description, horizontalization), structural critique of fixed dimensions, and three realms of encounter; updated live status
+thk-stephen-porges: standardized dates format in frontmatter, verified neuroception, physiological controversies, and clinical protocols
+thk-sullivan: added detailed formulation of Sullivan's three modes of experience (prototaxic, parataxic, syntaxic) and self-system personifications (good-me, bad-me, not-me), and corrected active start date
+thk-szasz: added comparative analysis between Szaszian libertarian moral responsibility and existential ontological freedom/guilt, corrected active end date to death year (2012), and cleared gaps
+thk-vankaam: expanded Duquesne school phenomenological method, phenomenal analysis procedure, and formative spirituality framework; formatted major works and sources
+thk-vygotsky: verified coverage of scaffolding and ZPD mechanisms, and cleared gaps
+thk-wampold: formatted contextual model pathways, added methodological critiques and therapist effect findings, and standardized sources
+thk-winnicott: clarified holding environment and maternal functions (holding, handling, object-presenting), corrected active start date, eliminated pending substring, and cleared gaps
+thk-wong: expanded existential positive psychology (PP 2.0), Meaning Therapy frameworks (PURE and ABCDE models), DAP-R death attitude dimensions, and updated active dates
+thk-yalom: updated biographical dates metadata and active_end for living author, documented major Arabic translations, and resolved gaps
+wrk-attachment-loss-volume1: added documented contemporary psychoanalytic reactions from Anna Freud, Donald Meltzer, and Donald Winnicott, updated co-publisher details, and resolved gaps
+wrk-beck-cognitive-therapy-depression: expanded entry to full scholarly length with clinical session architecture, cognitive distortion typology, suicide protocol, and landmark trial evidence, corrected active_end metadata
+wrk-ecrits: expanded analysis of linguistic mechanisms, key essay chronology, the RSI registers, and institutional publication context to standard reference length
+wrk-flow-csikszentmihalyi: verified nine dimensional flow components, expanded empirical methodology on ESM, and standardized psychometric citations
+wrk-freud-interpretation-of-dreams: added frontmatter dates metadata, expanded Chapter VII metapsychology and dream-work mechanics, and documented Stekel's influence on symbolism revisions
+wrk-general-psychopathology: populated bibliographic frontmatter metadata and verified phenomenological concepts and editions
+wrk-hayes-acceptance-commitment-therapy: detailed six core ACT therapeutic processes, co-author clinical roles, and empirical debate citations
+wrk-thinking-fast-slow: expanded peak-end rule and duration neglect analysis, verified replication crisis timeline, and added Gigerenzer source citation

@@ -23,14 +23,7 @@ related:
 - id: "thk-maslow", title: "Abraham Maslow", type: "مفكر"
 - id: "con-flow", title: "Flow", type: "مفهوم"
 - id: "stu-seligman-maier-learned-helplessness", title: "The Original Overmier, Maier and Seligman Experiments on Learned Helplessness in Dogs", type: "دراسة وبحث"
-gaps:
-  - "PERMA model (con-perma): not yet covered"
-  - "Post-traumatic growth (con-post-traumatic-growth): not yet covered"
-  - "Positive emotions (con-positive-emotions): not yet covered"
-  - "Grit (con-grit): not yet covered"
-  - "Flourishing (con-flourishing): not yet covered"
-  - "Learned Helplessness (wrk-learned-helplessness): not yet covered"
-  - "Flourish (wrk-flourish): not yet covered"
+gaps: []
 ---
 
 # Martin Seligman
@@ -53,7 +46,20 @@ In *Learned Optimism* (1991) he argued that optimism is an explanatory style tha
 
 In his 1998 presidential address he called for psychology to expand from the treatment of illness to the study of what makes life worth living. With Mihaly Csikszentmihalyi he wrote an introductory article in a special issue of American Psychologist in 2000 titled "Positive Psychology: An Introduction." *Authentic Happiness* (2002) followed, and then, with Christopher Peterson, *Character Strengths and Virtues* (2004), a handbook that classifies twenty-four character strengths under six virtues: wisdom, courage, humanity, justice, temperance and transcendence, and from which the VIA questionnaire for measuring strengths was derived.
 
-In *Flourish* (2011) he replaced the theory of happiness with a theory of well-being made up of five elements abbreviated PERMA: positive emotion, engagement, relationships, meaning and accomplishment. Some have added health as a sixth element, but that is not part of his original formulation. In 2018 he published *The Hope Circuit*, a memoir and review of his career.
+In *Flourish* (2011) he replaced the authentic happiness theory with a multidimensional theory of well-being, arguing that the ultimate goal of positive psychology is human flourishing rather than merely positive mood. He organized flourishing into five core pillars abbreviated as the **PERMA** model:
+- **Positive emotions (P)**: feeling good, experiencing pleasure, gratitude, hope, and contentment.
+- **Engagement (E)**: being completely absorbed in activities, experiencing "flow" where time stops and capacities match challenges.
+- **Relationships (R)**: authentic, positive social connections, mutual support, and intimacy.
+- **Meaning (M)**: belonging to and serving something considered larger than the self (such as family, science, community, or spirituality).
+- **Accomplishment (A)**: the pursuit of success, mastery, and achievement for its own sake.
+
+### Post-Traumatic Growth and Grit
+
+Seligman also expanded positive psychology into domains of resilience and persistent effort:
+- **Post-Traumatic Growth (PTG)**: drawing on the research of Richard Tedeschi and Lawrence Calhoun, Seligman emphasized that severe adversity and trauma do not inevitably lead solely to PTSD or a mere return to baseline functioning. For many individuals, struggling with trauma can catalyze deep positive psychological change, including an intensified appreciation for life, deepened relationships, and new spiritual or existential clarity. This principle was incorporated into the Penn Resiliency Program and military resilience training.
+- **Grit**: within the Positive Psychology Center at the University of Pennsylvania, Seligman mentored and worked alongside Angela Duckworth, whose landmark research defined "grit" as passion and perseverance for long-term goals. Duckworth demonstrated that grit often predicts success in demanding domains (such as West Point military training and academic contests) more reliably than standardized measures of cognitive ability.
+
+In 2018 he published *The Hope Circuit*, a memoir and review of his career.
 
 ## His Place in the Field
 
@@ -67,6 +73,7 @@ His role in the Comprehensive Soldier Fitness program, which the US Army adopted
 
 ## Sources
 
+- Seligman, M. E. P. (1975). *Helplessness: On Depression, Development, and Death*. W. H. Freeman.
 - Seligman, M. E. P. Learned Optimism: How to Change Your Mind and Your Life. New York: Knopf, 1991.
 - Seligman, M. E. P., & Csikszentmihalyi, M. "Positive psychology: An introduction." American Psychologist, 55(1), 2000.
 - Seligman, M. E. P. Flourish: A Visionary New Understanding of Happiness and Well-being. New York: Free Press, 2011.

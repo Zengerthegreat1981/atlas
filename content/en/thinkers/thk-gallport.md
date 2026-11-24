@@ -17,8 +17,7 @@ edges:
 related:
 - id: "thk-maslow", title: "Abraham Maslow", type: "مفكر"
 - id: "thk-csikszentmihalyi", title: "Mihaly Csikszentmihalyi", type: "مفكر"
-gaps:
-  - "A sourced direct quotation from *The Nature of Prejudice* (1954): not yet covered."
+gaps: []
 ---
 
 # Gordon W. Allport
@@ -41,7 +40,7 @@ He established the study of personality as an independent field, influenced by W
 His trait theory drew two criticisms: that the "trait" in his work is a description rather than an explanation, naming a regularity without accounting for its cause; and that his insistence on the uniqueness of every personality makes the theory resistant to comparative measurement, which pushed later generations (Cattell, Eysenck) toward the factor-analytic path that he rejected. The "contact hypothesis" has held up empirically, but its four conditions are rarely all present together in reality, which explains the modest effect of "encounter" programs in the field.
 
 ## Note: Not to Be Confused with His Brother
-He had an older brother, **Floyd Henry Allport** (1890–1979, who died after Gordon's death), also a prominent American psychologist and a pioneer of experimental social psychology (author of *Social Psychology*, 1924). The two are entirely different in their main field of specialization despite the kinship and shared professional collegiality.
+He had an older brother, **Floyd Henry Allport** (1890–1978, who died after Gordon's death), also a prominent American psychologist and a pioneer of experimental social psychology (author of *Social Psychology*, 1924). The two are entirely different in their main field of specialization despite the kinship and shared professional collegiality.
 
 ## Major Works
 
@@ -57,7 +56,11 @@ Allport distinguished between common traits, which are compared across individua
 
 ## Prejudice and Its Degrees
 
-In *The Nature of Prejudice* he did not content himself with the contact hypothesis but described an escalating scale of prejudiced behavior: antilocution (hostile talk), avoidance, discrimination, physical attack, and extermination. He affirmed that the mental categorization of people into groups is a natural cognitive process, but that prejudice appears when the category turns into a rigid judgment that does not change with evidence. In his study with Ross (1967) he found that "extrinsic," instrumental religiosity is associated with prejudice more than "intrinsic" religiosity, a result that opened wide research in the psychology of religion.
+In *The Nature of Prejudice* he did not content himself with the contact hypothesis but described an escalating scale of prejudiced behavior: antilocution (hostile talk), avoidance, discrimination, physical attack, and extermination. As Allport defined prejudice in the opening chapter (1954, p. 9):
+
+> "Ethnic prejudice is an antipathy based upon a faulty and inflexible generalization. It may be felt or expressed. It may be directed toward a group as a whole, or toward an individual because he is a member of that group."
+
+He affirmed that the mental categorization of people into groups is a natural cognitive process, but that prejudice appears when the category turns into a rigid judgment that does not change with evidence. In his study with Ross (1967) he found that "extrinsic," instrumental religiosity is associated with prejudice more than "intrinsic" religiosity, a result that opened wide research in the psychology of religion.
 
 ## Further Limits and Critique
 

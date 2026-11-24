@@ -45,7 +45,7 @@ The non-dualist Vedantic school (Non-dualism): Brahman is the only reality, the 
 
 - **Suresvara and Padmapada**: the two direct disciples of Shankara.
 - **Vachaspati Mishra** (9th or 10th century): author of the *Bhamati*, a commentary on the Brahma Sutras, from which the Bhamati school derives.
-- **Prakashatman** (approximately the 13th century): author of the *Vivarana* and of the Vivarana school.
+- **Prakashatman** (c. 11th–12th century): author of the *Pañcapādikā-vivaraṇa*, which founded the Vivarana school.
 - **Vidyaranya** (14th century): the *Panchadashi*.
 - **Madhusudana Sarasvati** (16th century): the *Advaitasiddhi*, in reply to rivals.
 - **Appayya Dikshita** (16th century).

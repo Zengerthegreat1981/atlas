@@ -21,48 +21,62 @@ gaps: []
 
 # John Langshaw Austin
 
-A British philosopher of language, one of the foremost representatives of ordinary language philosophy at Oxford. He was born in 1911 and died in 1960 at the age of forty-eight, and in 1952 he was appointed to the chair of "White's Professor of Moral Philosophy" at Oxford. He spent his academic life at Oxford, and left a deep mark on the school of linguistic analysis after his death through his students and his published lectures.
+John Langshaw Austin (1911–1960) was a British philosopher of language and the foremost figure of Oxford "ordinary language philosophy." Appointed White's Professor of Moral Philosophy at the University of Oxford in 1952, Austin pioneered speech act theory and developed an exacting method of linguistic analysis that challenged logical positivism, formal semantics, and philosophical reductions of meaning to truth conditions.
 
-## What He Contributed
+## Life and Academic Career
 
-- **The distinction between the performative and the constative**: in lectures delivered at Harvard University in 1955 (later published as *How to Do Things with Words*), Austin distinguished between constative sentences, which state facts and are judged true or false, and performative sentences, which describe nothing but perform an act, such as "I promise", "I pronounce you married" and "I name you". The speaker in such cases does not report an act but performs it by the very saying.
-- **The three speech acts**: every utterance in fact involves three interwoven acts: the locutionary act, that is, uttering sounds and words with a certain meaning; the illocutionary act, that is, what we do in saying, such as promising, commanding or asking; and the perlocutionary act, that is, the effect the utterance has on the hearer, such as persuading or annoying.
-- **The "Descriptive Fallacy"**: his name for a common philosophical assumption that every sentence performs the function of description and so is true or false. His argument is that much speech is measured not by truth and falsity but by "felicity": a promise or a marriage succeeds or fails according to the conventional conditions, who says it, and in what circumstances.
-- **Critique of sense-data**: in *Sense and Sensibilia* (published posthumously in 1962 from lectures given in the late 1940s) Austin rejected the theory of sense-data, which assumes that perception is mediated by an inner object, and offered a more exact account of ordinary perception as a direct relation to things in a particular linguistic context.
-- **"Excuses"**: an influential essay titled "A Plea for Excuses" (1956) in which he analyzed how people justify their actions through excuses, and how the vocabulary of excuses reveals the distinctions among kinds of action and responsibility for it.
+Austin was born in Lancaster on 26 March 1911. He was educated at Shrewsbury School and Balliol College, Oxford, where he took First Class Honours in Classics (*Literae Humaniores*) in 1933. That same year he was elected a Fellow of All Souls College, moving to Magdalen College as Fellow and Tutor in Philosophy in 1935. 
 
-## His Place in the Current
+During World War II, Austin served in the British Army Intelligence Corps (MI9), rising to the rank of lieutenant colonel. He played a central role in intelligence analysis and topographical planning for the Normandy landings (D-Day), receiving the Order of the British Empire (OBE) and the French Croix de Guerre. Returning to Oxford, he became the intellectual leader of Oxford philosophy in the 1950s, famous for his rigorous "Saturday morning" discussion meetings. In 1955 he delivered the prestigious William James Lectures at Harvard University, which formed the foundation of his posthumously published masterwork *How to Do Things with Words*. Austin died of lung cancer in Oxford on 8 February 1960 at the age of forty-eight.
 
-Austin was part of the Oxford current that tried to move beyond logical positivism and ideal-language philosophy by returning to the actual use of words. He was not entirely against formal philosophy, but he held that philosophical problems often arise from the misuse of words, and that analyzing this use precisely resolves a part of them.
+## Philosophical Contributions
 
-Among his students and those influenced by him was John Searle, who organized speech acts into a more formal system; H. Paul Grice, a Oxford colleague, developed the related theory of "conversational maxims". His influence extended to critical theory when Judith Butler, building on Jacques Derrida's reading of Austin, used the concept of performativity to explain how words produce identity and power rather than merely describe them.
+### Performative vs. Constative Utterances
 
-## Limits
+In *How to Do Things with Words*, Austin challenged what he called the "descriptive fallacy"—the traditional philosophical assumption that the sole function of statements is to describe reality as either true or false. He identified a widespread class of utterances he termed **performatives** (such as "I take this woman to be my lawful wedded wife," "I apologize," or "I name this ship Queen Elizabeth"). Performative utterances do not describe an action or report a state of affairs; rather, uttering the words under the appropriate circumstances constitutes the performance of the act itself.
 
-Austin is criticized for giving felicity a loose definition, since it is always hard to separate the social conditions from the linguistic conditions in judging the success of a speech act. His threefold division of speech acts is also not precise enough, for illocutions and perlocutions often overlap, which led Searle to reclassify them.
+### Felicity Conditions
 
-Austin left no completed theory; much of his work was published after his death from lecture notes by his colleagues (J. O. Urmson and G. J. Warnock), and interpretations therefore differ over some details.
+Because performatives are not truth-evaluable statements, Austin argued that they are governed by **felicity conditions**. An utterance succeeds ("is felicitous") or fails ("is infelicitous") based on conventional criteria:
+- **Misfires**: The intended act is void or aborted if the required conventional procedure does not exist, or if the speaker lacks the requisite authority (e.g., an unauthorized person attempting to pronounce a marriage).
+- **Abuses**: The act is professedly performed but insincere, as when making a promise with no intention to keep it.
 
-## His Major Works
+### The Threefold Division of Speech Acts
 
-- *Philosophical Papers* (published posthumously in 1961).
-- *Sense and Sensibilia* (published posthumously in 1962).
-- *How to Do Things with Words* (1962, Harvard lectures of 1955).
-- "A Plea for Excuses" (1956, an essay in the Proceedings of the Aristotelian Society).
+Austin subsequently demonstrated that the simple dichotomy between performative and constative dissolves upon closer inspection, because stating a fact is itself a speech act. In its place, he formulated a general theory of speech acts comprising three simultaneous dimensions:
+1. **Locutionary act**: The physical and grammatical act of uttering sounds, words, and sentences with determinate meaning and reference.
+2. **Illocutionary act**: The act performed *in* saying something, bearing a conventional force (such as asserting, commanding, promising, warning, or apologizing).
+3. **Perlocutionary act**: The consequential effects produced *by* saying something on the thoughts, feelings, or actions of the audience (such as persuading, alarming, or consoling).
 
-## Influence
+### Critique of Sense-Data and Ordinary Perception
 
-Austin was a leading figure of "ordinary language philosophy" at Oxford, and his ideas had an influence on pragmatic linguistics, the philosophy of mind and literary theory. The concept of "performativity" brought about a shift in feminist and critical studies, since it became possible to analyze social identity as repeated speech acts.
+In *Sense and Sensibilia* (reconstructed from lectures delivered between 1947 and 1959), Austin mounted a devastating critique of the epistemological theory of sense-data advanced by A. J. Ayer and H. H. Price. Austin demonstrated that sense-data theories depend on a false dichotomy between direct perception and illusion, distorting ordinary words such as "real," "looks," and "appears." By analyzing how ordinary language actually operates in everyday contexts, Austin argued for direct realism: human beings perceive physical objects directly, not internal sensory intermediaries.
 
-Austin was formed at Oxford, where philosophy in the mid-20th century was preoccupied with the logical analysis of language and with the question of the relation of meaning to reference. Austin came from a position that respects linguistic precision, but he held that formal theories distance philosophy from the everyday reality of speech. For this reason he asked his students to look at words in the context of their actual use and to ask: what are we doing when we say this?
+### The Grammar of Action: "A Plea for Excuses"
 
-Austin followed a method based on tracing the fine differences between closely related words, such as the distinction among "deliberately", "intentionally" and "by mistake", showing how these differences reveal the structure of action and responsibility. He held that ordinary language carries distinctions accumulated over generations of human experience, and that it is more exact than many artificial philosophical classifications.
+In his celebrated 1956 paper "A Plea for Excuses," Austin demonstrated that linguistic nuance is essential for moral philosophy. By examining the subtle differences among ways we excuse or qualify actions—distinguishing between doing something "by mistake," "by accident," "inadvertently," or "under duress"—Austin showed that ordinary language embodies distinctions refined through centuries of human practical experience, providing a far more reliable foundation for ethics than artificial philosophical abstractions.
 
-This method is faulted for possibly contenting itself with contemporary English usage and generalizing it to all languages, and for the fine differences it observes possibly changing between cultures. Even so, his contribution in turning philosophy from a question about "truth" to a question about "use" remains one of the most important shifts of the 20th century.
+## Influence and Reception
+
+Austin's work laid the foundations for modern linguistic pragmatics and revolutionized the philosophy of language. His student John Searle formalized and expanded speech act theory into a systematic taxonomy of illocutionary acts and institutional reality. H. Paul Grice developed conversational implicature alongside Austin's framework. 
+
+Beyond analytic philosophy, Austin's concept of performativity exerted major influence across the humanities. Jacques Derrida's critical deconstruction of Austin in "Signature Event Context" (1972) provoked a fierce debate with Searle regarding intentionality and conventionality. In critical and gender theory, Judith Butler famously adapted Austinian performativity to argue that gender identity is constituted through repeated, normative performative acts rather than an essential natural essence.
+
+## Limits and Criticism
+
+Critics have noted that Austin's criteria for felicity remain ambiguous regarding where linguistic conventions end and broader sociopolitical contexts begin. His threefold classification of speech acts has also faced scrutiny, as the line between illocutionary force and perlocutionary effect can be difficult to demarcate in practice. Furthermore, critics have cautioned against linguistic parochialism, questioning whether the fine idioms of mid-century Oxford English reflect universal cognitive structures. Finally, because Austin died prematurely, his major theories were preserved primarily through posthumous reconstructions from lecture notes edited by J. O. Urmson and G. J. Warnock.
+
+## Major Works
+
+- "A Plea for Excuses" (1956).
+- *Philosophical Papers*, ed. J. O. Urmson and G. J. Warnock (Oxford: Clarendon Press, 1961).
+- *Sense and Sensibilia*, ed. G. J. Warnock (Oxford: Clarendon Press, 1962).
+- *How to Do Things with Words*, ed. J. O. Urmson and Marina Sbisà (Oxford: Clarendon Press, 1962; 2nd ed. 1975).
 
 ## Sources
 
-- Austin, J. L. (1962). *How to Do Things with Words*. Oxford: Clarendon Press.
-- Austin, J. L. (1962). *Sense and Sensibilia*. Oxford: Clarendon Press.
-- Austin, J. L. (1961). *Philosophical Papers*. Edited by J. O. Urmson and G. J. Warnock. Oxford: Clarendon Press.
-- Warnock, G. J. (1989). *J. L. Austin*. London: Routledge.
+- Austin, J. L., *How to Do Things with Words*, Oxford: Clarendon Press, 1962.
+- Austin, J. L., *Sense and Sensibilia*, Oxford: Clarendon Press, 1962.
+- Austin, J. L., *Philosophical Papers*, ed. J. O. Urmson and G. J. Warnock, Oxford: Clarendon Press, 1961.
+- Warnock, G. J., *J. L. Austin*, London: Routledge, 1989.
+- Sbisà, Marina and Smith, J. O. (eds.), *Essays on J. L. Austin*, Oxford: Clarendon Press, 1973.

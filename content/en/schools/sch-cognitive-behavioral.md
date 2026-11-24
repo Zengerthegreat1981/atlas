@@ -23,119 +23,62 @@ edges:
 related:
 - id: "dis-ptsd", title: "Post-Traumatic Stress Disorder (PTSD)", type: "اضطراب/حالة إكلينيكية"
 - id: "dis-mdd", title: "Major Depressive Disorder (MDD)", type: "اضطراب/حالة إكلينيكية"
-gaps:
-  - "Process-based CBT: not yet covered"
+gaps: []
 ---
+
 # Cognitive Behavioral Therapy (CBT)
 
-Cognitive behavioral therapy is a structured, evidence-based therapeutic framework that focuses on the reciprocal relationship among thoughts, feelings, and behavior, and works to modify maladaptive patterns in these three elements through specific techniques and structured homework assignments. It is among the most empirically studied schools of therapy and is classed within the second wave in the history of the development of cognitive-behavioral therapies.
+Cognitive Behavioral Therapy (CBT) is an empirically supported, structured psychotherapy that targets reciprocal interactions among cognitive appraisals, emotional states, behavioral patterns, and physiological responses. Anchored in the principle that psychological distress is substantially mediated by biased information processing and maladaptive behaviors, CBT employs collaborative empiricism and goal-oriented interventions to foster cognitive reframing and behavioral change. It represents the central paradigm of the "second wave" of behavior therapy and remains the most extensively researched psychotherapeutic framework internationally.
 
-## Intellectual and Historical Context
+## Intellectual and Historical Foundations
 
-CBT emerged at the intersection of three major intellectual currents during the 1950s and 1960s: behaviorism in psychology (which took shape from the 1920s with Watson and Pavlov), psychoanalysis, which dominated American clinics until the 1950s, and what became known as the "cognitive revolution" in psychology during the 1960s and 1970s. CBT did not arise from a theoretical vacuum; it was a reaction to the limits of traditional long-term psychotherapy and to the success of behavioral techniques in treating specific fears.
+CBT arose during the 1950s and 1960s from the convergence of classical behavior therapy, dissatisfaction with the unobservable constructs of psychoanalysis, and the emerging "cognitive revolution." 
 
-Aaron T. Beck, a psychiatrist at the University of Pennsylvania in Philadelphia, founded the cognitive therapy approach in the late 1950s and early 1960s and formally announced it in his book *Depression: Clinical, Experimental, and Theoretical Aspects* in 1967. Independently and at about the same time, Albert Ellis developed rational emotive behavior therapy (REBT) in New York and announced it in 1955-1956. The temporal and conceptual convergence between the two was the seed of what would later be known as unified "cognitive behavioral therapy."
+Two independent clinical innovators laid its foundations:
+- **Albert Ellis** developed Rational Psychotherapy in New York in 1955 (later renamed Rational Emotive Behavior Therapy, REBT). Ellis posited that emotional disturbances stem from irrational beliefs ($B$) about activating events ($A$), which lead to maladaptive emotional and behavioral consequences ($C$).
+- **Aaron T. Beck**, an academic psychiatrist and psychoanalyst at the University of Pennsylvania, empirically investigated Freud's retroflected anger hypothesis of depression. Finding instead systematic cognitive distortions and automatic negative thoughts regarding the self, personal world, and future (the *cognitive triad*), Beck formulated Cognitive Therapy, detailed in *Depression: Clinical, Experimental, and Theoretical Aspects* (1967) and *Cognitive Therapy of Depression* (1979).
 
-## The Founders and the First Generation
+Subsequent syntheses by Donald Meichenbaum (Cognitive Behavior Modification, 1977) and the integration of behavioral exposure protocols unified these approaches under the broad banner of Cognitive Behavioral Therapy.
 
-Beck is referred to as the "father of cognitive behavioral therapy," and Ellis as the founder of the rational-emotive current that preceded CBT and fed into it. Both were former psychoanalysts who had become frustrated with the limited results of analysis, and they turned toward modifying behavior and thinking directly, without passing through prolonged unconscious interpretations.
+## The Cognitive-Behavioral Formulation
 
-Other central figures of the founding generation include Joseph Wolpe (who developed systematic desensitization, initially in South Africa), Hans Eysenck in London (who advocated behavior therapy against psychoanalysis), and Arthur Staats in Hawaii. In Philadelphia, Beck's group (including Judith Beck later) formed the nucleus of clinical cognitive development.
+At the core of CBT is individualized case formulation based on the cognitive model:
+1. **Core Beliefs (Schemas)**: Deeply rooted, absolute, and generalized beliefs about oneself, others, and the world (e.g., "I am incompetent," "People cannot be trusted").
+2. **Intermediate Beliefs**: Conditional assumptions, rules, and attitudes that bridge core schemas and conscious thought (e.g., "If I do not succeed at everything, I am a failure").
+3. **Automatic Thoughts**: Immediate, involuntary evaluative thoughts or mental images triggered by environmental situations.
+4. **Cognitive Distortions**: Systematic cognitive processing biases, including catastrophizing, mind-reading, dichotomous (all-or-nothing) thinking, emotional reasoning, and selective abstraction.
 
-## Core Theoretical Frameworks
+Therapy operates as *collaborative empiricism*, wherein client and clinician function as investigative partners treating thoughts as testable hypotheses rather than established facts.
 
-CBT rests on three interrelated theoretical pillars:
+## Core Therapeutic Interventions
 
-- **The cognitive model**: Automatic and distorted thoughts (Automatic Thoughts) drive feelings and behavior. Cognitive distortions such as overgeneralization, all-or-nothing thinking, and jumping to conclusions are systematic patterns, not random errors.
-- **The behavioral model**: Behavior is shaped by reinforcement and punishment, and behavioral avoidance entrenches anxiety and depression. Changing behavior (through behavioral activation, exposure, and contracting) sometimes precedes changing thoughts.
-- **The formulation**: Thoughts, feelings, and behavior form a loop of mutual influence, and modifying any one element entails modifying the others. This triangular loop is the founding framework of any CBT protocol.
+- **Cognitive Restructuring**: Identifying, evaluating, and modifying maladaptive thoughts using Socratic dialogue, the downward arrow technique (uncovering underlying core beliefs), thought records, and evidence-gathering worksheets.
+- **Behavioral Activation (BA)**: Systematically scheduling mastery and pleasure activities to counteract depressive withdrawal and re-engage environmental reinforcement contingencies.
+- **Graded In Vivo and Imaginal Exposure**: Constructing fear hierarchies to facilitate habituation, inhibitory learning, and extinction of phobic avoidance without safety behaviors.
+- **Exposure and Response Prevention (ERP)**: The standard specialized intervention for obsessive-compulsive disorder.
+- **Behavioral Experiments**: Designing real-world behavioral trials to directly test the validity of catastrophic beliefs.
+- **Problem-Solving and Skills Training**: Structured problem orientation, assertiveness training, and stress inoculation training.
 
-## The Three Developmental Waves
+## The Evolution to Process-Based CBT
 
-Most reviewers agree on dividing the development of CBT into three waves:
+Historically, CBT developed across three distinct waves: the first wave centered on pure operant and classical conditioning (Watson, Skinner, Wolpe); the second wave integrated cognitive mediation and restructuring (Beck, Ellis); and the third wave emphasized contextualism, psychological flexibility, mindfulness, and radical acceptance (Linehan's DBT, Hayes's ACT, Segal, Williams, & Teasdale's MBCT).
 
-- **First wave** (1920s-1960s): Pure behavior therapy, with the experiments of Ivan Pavlov, John Watson, and B. F. Skinner, and systematic desensitization protocols for eliminating fears.
-- **Second wave** (1960s-1990s): The merging of the cognitive with the behavioral. The emergence of Beck and Ellis, culminating in unified protocols and textbooks (such as Beck's *Cognitive Therapy and the Emotional Disorders*, 1976, and *Cognitive Therapy of Depression*, 1979).
-- **Third wave** (1990s to the present): A critique of the dominance of cognitive restructuring and the emergence of schools that focus on acceptance and mindfulness rather than direct change: Acceptance and Commitment Therapy (ACT, Hayes), Dialectical Behavior Therapy (DBT, Linehan), and Mindfulness-Based Cognitive Therapy (MBCT). CBT itself can be regarded as the founder of the second wave and the mother of this third wave.
+In recent years, leading clinical theorists (including Steven C. Hayes and Stefan G. Hofmann) have introduced **Process-Based CBT (PB-CBT)**. PB-CBT shifts clinical practice away from rigid, manualized protocols tied to categorical DSM-5 and ICD-11 psychiatric diagnoses. Instead, it conceptualizes clinical intervention as targeting empirically verified biopsychosocial *processes of change* tailored to the individual across affective, cognitive, attentional, motivational, behavioral, and physiological domains within an evolutionary contextual framework.
 
-## The Main Technique Categories
+## Empirical Base and Clinical Scope
 
-CBT techniques can be grouped into the following broad categories:
+Extensive meta-analyses confirm CBT's robust efficacy across a wide spectrum of psychological conditions, including major depressive disorder, generalized anxiety disorder, panic disorder, social anxiety disorder, post-traumatic stress disorder (PTSD), bulimia nervosa, and chronic insomnia (CBT-I, established as first-line therapy). While highly effective, meta-analytic reviews (e.g., Hofmann et al., 2012) emphasize that effect sizes vary contingent upon disorder severity, therapist competence, and whether comparisons involve active psychological controls or waitlists.
 
-1. **Cognitive Restructuring**: Modifying distorted thoughts. It includes Socratic questioning, challenging cognitive distortions, identifying core beliefs, and the downward arrow technique.
-2. **Behavioral Strategies**: Modifying behavior directly. They include behavioral activation, scheduling pleasant activities, exposure, graded task assignment, and habit reversal training.
-3. **Emotion Regulation and Coping Skills**: Managing acute emotional distress. They include breathing techniques, progressive muscle relaxation, coping statements, and self-compassion exercises.
-4. **Exposure-Based Interventions**: Confronting fears in a structured way. They include systematic desensitization, live exposure with response prevention (ERP), and building a graded exposure hierarchy.
-5. **Interpersonal Skills**: Expressing needs and boundaries. They include assertiveness training, conflict resolution, and boundary setting.
-6. **Problem-Solving and Goal Setting**: A structured framework for dealing with challenges. They include problem-solving therapy and structured goal setting.
+## Criticisms and Limitations
 
-## Clinical Applications and Evidence
-
-CBT is among the psychological treatments best supported by empirical evidence. Confirmed applications include major depression, anxiety disorders (generalized anxiety, panic, social anxiety, obsessive-compulsive disorder), post-traumatic stress disorder (PTSD), eating disorders, substance addiction, and insomnia (in a dedicated version, CBT-I). A large body of outcome research and many meta-analyses support its effectiveness for these conditions (see, for example, Hofmann and colleagues, 2012), although effect sizes vary by condition and comparison treatment.
-
-## Principal Founding Publications
-
-- Beck, A. T. (1967). *Depression: Clinical, Experimental, and Theoretical Aspects*. Hoeber.
-- Beck, A. T. (1976). *Cognitive Therapy and the Emotional Disorders*. International Universities Press.
-- Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive Therapy of Depression*. Guilford Press.
-- Burns, D. D. (1980). *Feeling Good: The New Mood Therapy*. William Morrow. A widely circulated popular book.
-- Ellis, A. (1962). *Reason and Emotion in Psychotherapy*. Lyle Stuart.
-- Wolpe, J. (1958). *Psychotherapy by Reciprocal Inhibition*. Stanford University Press.
-
-## Relation to Neighboring Schools
-
-CBT intersects with several major therapeutic schools. Its relation to psychoanalysis is one of historical separation: both emerged from under the mantle of psychoanalysis in the 1950s, but in radically different ways. Its relation to humanistic therapy (Carl Rogers) is limited, with some techniques shared. Its relation to ACT and DBT is closer: they are a natural extension of CBT, but with a reordering of priorities (acceptance instead of change in ACT, dialectics in DBT). Its relation to the third wave in general (MBCT, CFT) rests on a paradigm shift.
-
-## Criticism and Limits
-
-CBT has been historically criticized from three angles:
-
-- **Cognitive depth**: It is criticized for focusing on surface thoughts and neglecting deep structures (in comparison with psychoanalysis).
-- **Mechanism versus meaning**: It concentrates on "how" distorted thoughts form more than "why," which led some existential therapists to criticize it.
-- **Cross-cultural equivalence**: It developed in a Western American context, and some of the criticism demands its cultural adaptation.
-- **Effectiveness in severe cases**: The evidence is less robust and treatment usually requires adaptation in personality disorders, psychosis, and complex trauma.
-
-## Legacy and Influence
-
-CBT's influence on the global therapeutic landscape is immense. The technical language used in training psychotherapists in most countries of the world (case formulation, identifying automatic thoughts, homework assignments) has been deeply influenced by it. Beck and his daughter Judith founded the Beck Institute in 1994. Therapists who declare themselves "cognitive-behavioral" or "integrative" make up the majority today in many countries of the world. CBT is not merely a technique but a framework for turning the relationship between therapist and client toward the present and toward measurable problems.
-
-## Internal Debates among CBT Schools
-
-The CBT family contains fundamental internal disagreements:
-
-- **Beck vs. Ellis**: A historical disagreement between Beck and Ellis over how rigorously to work on cognitive content. Beck is more reserved, and Ellis more direct (later named REBT).
-- **Cognitive perspective vs. pure behaviorism**: In the 1970s, a dispute arose between those who held that thoughts are the main target of change and those who held that behavior is the target. The contemporary position leans toward integration.
-- **Classical CBT vs. the third wave**: An ongoing debate between those who hold fast to classical cognitive restructuring and those who criticize it and turn toward acceptance and mindfulness (ACT, DBT, MBCT).
-- **Standard protocols vs. case-by-case formulation**: A debate between those who prefer manualized protocols and those who favor flexible, formulation-driven application.
-
-## Applications with Special Populations
-
-CBT has been applied successfully in diverse population contexts:
-
-- **Children and adolescents**: Adapted for younger age groups (for example, programs for childhood anxiety such as the Coping Cat program).
-- **Older adults**: With modifications (slower processing, life content).
-- **Chronic medical conditions**: CBT-I for insomnia, CBT in chronic pain, CBT in cancer.
-- **Perinatal mental health**: In postpartum depression.
-- **Digital applications**: cCBT and iCBT for anxiety and mild-to-moderate depression, with supportive evidence for several conditions.
-
-## Cultural and International Reference Points
-
-CBT has been transferred into most languages and cultures, with challenges in translating concepts:
-
-- **Translation**: Terms such as "cognitive restructuring" and "automatic thoughts" have no single settled equivalent in some languages, including Arabic, and require cultural adaptation.
-- **East Asia**: Applying CBT while respecting collectivist values raises questions about its emphasis on individual thought and autonomy.
-- **Low-resource settings**: Adapted, lay-delivered forms of CBT have been studied in a number of low- and middle-income countries.
-
-## Recommended References for In-Depth Reading
-
-- Hofmann, S. G. (2011). *An Introduction to Modern CBT: Psychological Solutions to Mental Health Problems*. Wiley.
-- Beck, J. S. (2011). *Cognitive Behavioral Therapy: Basics and Beyond* (2nd ed.). Guilford Press. An international textbook.
-- Leahy, R. L., Tirch, D. D., & Napolitano, L. A. (2011). *Emotion Regulation in Psychotherapy*. Guilford Press. Bridging the gap between CBT and the third wave.
+- **Symptom Focus vs. Etiological Depth**: Psychodynamic critics argue that CBT primarily targets superficial cognitive symptoms and immediate behaviors rather than structural personality dynamics or unconscious developmental conflicts.
+- **Rationalist Assumptions**: Critics within humanistic and third-wave traditions suggest that disputing the rationality of cognitive contents can occasionally foster invalidating therapeutic dynamics or intellectualized avoidance of primary emotional experience.
+- **Cross-Cultural Applicability**: Developed predominantly within individualistic North American and European settings emphasizing autonomy and cognitive rationality, CBT requires thoughtful cultural adaptation when applied in collectivist or socioculturally diverse contexts.
 
 ## Sources
 
 - Beck, A. T. (1976). *Cognitive Therapy and the Emotional Disorders*. International Universities Press.
 - Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive Therapy of Depression*. Guilford Press.
 - Ellis, A. (1962). *Reason and Emotion in Psychotherapy*. Lyle Stuart.
-- Dobson, K. S. (Ed.). (2010). *Handbook of Cognitive-Behavioral Therapies* (3rd ed.). Guilford Press.
-- Hofmann, S. G., Asnaani, A., Vonk, I. J. J., Sawyer, A. T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. *Cognitive Therapy and Research*, 36, 427-440.
+- Hayes, S. C., & Hofmann, S. G. (Eds.). (2018). *Process-Based CBT: The Science and Core Clinical Competencies of Cognitive Behavioral Therapy*. Context Press / New Harbinger Publications.
+- Hofmann, S. G., Asnaani, A., Vonk, I. J. J., Sawyer, A. T., & Fang, A. (2012). "The efficacy of cognitive behavioral therapy: A review of meta-analyses." *Cognitive Therapy and Research*, 36(5), 427-440.

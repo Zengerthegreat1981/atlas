@@ -20,9 +20,7 @@ related:
 - id: "thk-heidegger", title: "Martin Heidegger", type: "مفكر"
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"
 - id: "thk-lacan", title: "Jacques Lacan", type: "مفكر"
-gaps:
-  - "Derrida's relation to Freud and psychoanalysis in The Post Card: not yet covered."
-  - "Deconstruction in narrative therapy: not yet covered."
+gaps: []
 ---
 
 # Jacques Derrida
@@ -40,7 +38,7 @@ A French philosopher born in Algeria, founder of the current of Deconstruction a
 
 Derrida represents the cornerstone of the current of deconstruction and poststructuralism; philosophers of ethics and politics, feminist theory and cultural studies have drawn on his method, and some writers in psychology and narrative therapy have drawn on it in criticising closed concepts of personality and dominant narratives.
 
-## Limit
+## Limitations
 
 Derrida's thought stands at the heart of critical continental philosophy and the philosophy of language; his texts are extremely complex and terminologically abstract, and his influence on psychology is mediating and conceptual, not that of a direct clinical practitioner.
 
@@ -63,6 +61,14 @@ Derrida began with a critique of Husserl's phenomenology, translating and introd
 ## Deconstruction as Reading
 
 Derrida does not present deconstruction as a method that can be applied mechanically, but as a practice of reading that traces in the text the moments in which it works against what it declares, so that the traditional binaries such as speech/writing and nature/culture appear unable to fix themselves. He insists that deconstruction is not demolition but attention to the structure of the text that allowed it to be. He treated the question of justice as that which is not deconstructible, a question to which he devoted his lecture "Force of Law: The Mystical Foundation of Authority," delivered at the Cardozo School of Law in 1989.
+
+## Derrida, Freud, and Psychoanalysis in The Post Card
+
+In *The Post Card: From Socrates to Freud and Beyond* (1980), particularly in the central essay "Speculations—on 'Freud'", Derrida stages an intensive encounter with psychoanalysis through a deconstructive reading of Sigmund Freud's *Beyond the Pleasure Principle* (1920). Derrida analyzes the telecommunicative and epistolary structure of psychoanalytic theory—the sending, transmission, and potential derailment of messages (*envois*). He demonstrates that Freud's introduction of the death drive and the repetition compulsion (*Fort/Da*) undermines the sovereign mastery of the pleasure principle and of psychoanalytic authority itself. Derrida contends that the "postal" destination of meaning is never guaranteed; contra Jacques Lacan's assertion that "a letter always arrives at its destination," Derrida demonstrates that a letter can always be delayed, misrouted, or lost, establishing divisibility and dissemination at the core of the psychic apparatus.
+
+## Deconstruction in Narrative Therapy
+
+The principles of Derridean deconstruction have found significant clinical and methodological application within narrative therapy, particularly in the work of Michael White and David Epston. Narrative therapists utilize deconstructive questioning to unpack totalizing, "problem-saturated narratives" that constrain clients' lives. By tracing how culturally constructed binaries (such as healthy/pathological, adequate/inadequate, normal/deviant) and dominant social discourses become internalized as personal deficiencies, therapy exposes the historical contingencies and contradictions within these accounts. Deconstruction in this context serves an emancipatory therapeutic function: it denaturalizes oppressive self-descriptions, separates the person from the problem, and opens interpretive space for co-authoring alternative, preferred life narratives.
 
 ## Influence and Reception
 

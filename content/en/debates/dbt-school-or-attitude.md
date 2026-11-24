@@ -2,7 +2,7 @@
 slug: "dbt-school-or-attitude"
 id: "DBT-0308"
 type: "جدل"
-part: philosophy
+part: "philosophy"
 level: ""
 title: "School or Attitude?"
 en: "School or attitude?"
@@ -12,7 +12,7 @@ edges:
 related:
   - id: "dbt-evidence", title: "Should We Demand Empirical Evidence?", type: "جدل"
   - id: "br-british", title: "British Existential-Phenomenological", type: "تيار"
-gaps:[]
+gaps: []
 ---
 
 # School or Attitude?

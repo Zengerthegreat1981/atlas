@@ -86,7 +86,7 @@ Existentialism was born of three legacies:
 - **Literature and theater**: Sartre's *Nausea* and *No Exit*, Camus's *The Stranger* and *The Plague*, extending into the theater of the absurd in Beckett and Ionesco, although the playwrights distanced themselves from the label.
 - **Psychology**: existential therapy focused on meaning, death, freedom and isolation.
 - **Theology**: Paul Tillich and Rudolf Bultmann, who drew on Heidegger's analysis of existence.
-- **Arabic thought**: Abdel Rahman Badawi wrote *Existential Time* (1943), followed by other studies of existentialism, and existentialism entered the Arabic novel and poetry in the 1950s and 1960s in the context of literary commitment and anxiety after the Nakba.
+- **Cross-cultural reception**: existentialist themes resonated globally, sparking lively philosophical debates across Latin America, East Asia, and the Arab world regarding alienation, political commitment, and cultural authenticity.
 
 ## Limits and Critique
 

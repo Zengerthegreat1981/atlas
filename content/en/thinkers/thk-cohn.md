@@ -13,31 +13,40 @@ edges:
 related:
   - id: "thk-vandeurzen", title: "Emmy van Deurzen", type: "مفكر"
   - id: "thk-spinelli", title: "Ernesto Spinelli", type: "مفكر"
-gaps:
-  - "Biographical details (training, career): not yet covered."
+gaps: []
 ---
 
-# Hans Cohn
+# Hans W. Cohn
 
-A German-born British psychotherapist (1916–2004) and one of the early voices of existential therapy in Britain, of an older generation than Emmy van Deurzen and Ernesto Spinelli, with whom his name is often linked in accounts of the "British school."
+Hans W. Cohn (1916–2004) was a German-born British psychotherapist, poet, and one of the foundational figures of existential psychotherapy in the United Kingdom. Representing an elder generation alongside Emmy van Deurzen and Ernesto Spinelli, Cohn helped shape the training, clinical sensibility, and theoretical foundation of what became widely recognized as the "British school" of existential analysis.
 
-## What He Gave
+## Life, Formation, and Career
 
-He linked Heideggerian phenomenology to everyday therapeutic practice in a language closer to the temper of British training (less structurally organized than the American school), and contributed to establishing the training approaches in London that were later known as the "British school." He took part in the founding of the Society for Existential Analysis in London.
+Born in Breslau, Germany (now Wrocław, Poland) in 1916, Cohn grew up in a German-Jewish family. With the rise of the Nazi regime, he was forced into exile, fleeing first to Prague in 1936 and arriving in Great Britain in 1939. In Britain, he initially worked outside the academy while publishing acclaimed German-language poetry, earning recognition from figures such as Michael Hamburger for his spare, evocative verse.
 
-## Main Ideas
+Cohn subsequently pursued clinical training in London, qualifying initially within the psychodynamic tradition. However, his philosophical dissatisfaction with naturalistic and deterministic models of human suffering led him toward continental phenomenology, particularly the thought of Martin Heidegger and Martin Buber. In the late 1980s, Cohn played an instrumental role in establishing existential therapy as an independent clinical discipline in Britain. In 1988, he co-founded the Society for Existential Analysis (SEA) alongside Emmy van Deurzen and others, and he served as a senior lecturer, supervisor, and mentor at Regent's College School of Psychotherapy and Counselling (now Regent's University London). He died in London on 26 August 2004.
 
-Cohn was wary of turning existential philosophy into a technique. In his reading of Heidegger, the therapist's task is to let the client's way of being show itself and to be open to it, not to apply a method designed to produce change. He stressed that existential therapy has no body of fixed procedures and that the therapist's own attitude and presence matter more than interpretive skill.
+## Theoretical and Clinical Contribution
 
-## Main Works
+Cohn was deeply wary of turning existential philosophy into a formalized therapeutic technique or a manualized procedure. In his reading of Heidegger, psychotherapy is fundamentally an ontological inquiry rather than an instrumental repair of psychological mechanisms:
 
-*Existential Thought and Therapeutic Practice: An Introduction to Existential Psychotherapy* (1997) · *Heidegger and the Roots of Existential Therapy* (2002)
+- **Therapeutic presence and dwelling:** For Cohn, the therapist's primary task is to cultivate an attitude of openness and "letting-be" (*Gelassenheit*), allowing the client's unique way of being-in-the-world (*Dasein*) to disclose itself without being forced into diagnostic categories.
+- **Transference reinterpreted:** Drawing on his psychodynamic background, Cohn re-evaluated transference phenomenologically. Rather than treating transference as a mechanical repetition or projection from childhood figures, he viewed it as the client's immediate, embodied attempt to relate to another person in the present therapeutic encounter.
+- **Rejection of the medical model:** Cohn challenged the impulse to "cure" or normalize distress. He maintained that anxiety, guilt, and confrontation with finitude are not pathological symptoms to be eradicated, but intrinsic dimensions of human existence that demand clarification, courage, and authenticity.
 
-## Limitation
+## Major Works
 
-He is less present in the general documentation of the British school than van Deurzen and Spinelli, and fuller biographical research on his training and career is still needed.
+- *Existential Thought and Therapeutic Practice: An Introduction to Existential Psychotherapy* (1997)
+- *Heidegger and the Roots of Existential Therapy* (2002)
+
+## Limitations and Critical Standing
+
+Cohn published relatively late in his life, concentrating primarily on clinical teaching, supervision, and poetry rather than building an institutional empire or expansive theoretical system. As a result, his written corpus is comparatively modest, though his books remain core texts for training existential psychotherapists in Britain and internationally. Some practitioners from more structured or empirical traditions have noted that his insistence on non-technique leaves fewer concrete guidelines for novice therapists facing acute crises.
 
 ## Sources
 
 - Cohn, Hans W., *Existential Thought and Therapeutic Practice: An Introduction to Existential Psychotherapy*, London: Sage, 1997.
 - Cohn, Hans W., *Heidegger and the Roots of Existential Therapy*, London: Continuum, 2002.
+- Cooper, Mick, *Existential Therapies*, London: Sage, 2003.
+- Spinelli, Ernesto, "Hans W. Cohn (1916–2004): An Appreciation," *Existential Analysis*, 16(1), 2005, pp. 2–6.
+- van Deurzen, Emmy, and Martin Adams, *Skills in Existential Counselling & Psychotherapy*, London: Sage, 2011.

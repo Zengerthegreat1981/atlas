@@ -68,10 +68,11 @@ The terms "family therapy," "couple therapy," and "systemic therapy" overlap: "f
 - **Virginia Satir** (1916-1988): the humanistic model, with its focus on self-esteem.
 - **Paul Watzlawick** (1921-2007): communication theory, strategic therapy (MRI).
 - **Jay Haley** (1923-2007): strategic therapy, paradoxical interventions.
-- **Sue Johnson**: EFT (emotionally focused couple therapy).
-- **Richard Schwartz**: IFS (Internal Family Systems).
-- **Jaakko Seikkula**: Open Dialogue (Finland).
-- **Mara Selvini Palazzoli** (with Boscolo, Cecchin, and Prata): the Milan school.
+- **Sue Johnson** (1947–2024): EFT (emotionally focused couple therapy).
+- **Richard Schwartz** (1949–): IFS (Internal Family Systems).
+- **Jaakko Seikkula** (1953–): Open Dialogue (Finland).
+- **Mara Selvini Palazzoli** (1916–1999, alongside Luigi Boscolo, Gianfranco Cecchin, and Giuliana Prata): the Milan school.
+- **Tom Andersen** (1936–2007): reflecting teams.
 
 ## The Major Sub-Currents
 

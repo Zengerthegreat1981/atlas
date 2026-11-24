@@ -2,7 +2,7 @@
 slug: "con-thrownness"
 id: "CON-0417"
 type: "مفهوم"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Thrownness (Geworfenheit)"
 en: "Thrownness (Geworfenheit)"
@@ -17,26 +17,34 @@ gaps: []
 
 # Thrownness (Geworfenheit)
 
-Heidegger's concept: that the human being (Dasein) finds itself already existing in a time, body, family, language and culture it did not choose, and this pre-given situation is where every subsequent choice begins.
+In the fundamental ontology of Martin Heidegger (1889–1976), **thrownness** (*Geworfenheit*) designates the existential-ontological condition wherein human existence (*Dasein*) always already finds itself delivered over to an unchosen world. Human beings do not choose their historical era, biological endowment, native language, culture, or family; yet this pre-given, concrete situation is the inescapable horizon from which all understanding, choice, and action must proceed.
 
-## Origin in *Being and Time*
+## Ontological Formulation in *Being and Time*
 
-The term appears in Heidegger's *Being and Time* (*Sein und Zeit*, 1927), above all in the analysis of moods or attunement (Befindlichkeit, section 29) and of falling and thrownness (section 38). Dasein always finds itself in some mood, and moods disclose that it already "is" and has to be, without knowing where it came from or where it is going. Heidegger calls this bare fact of being delivered over to one's own existence the "that-it-is" of Dasein, and speaks of its being "thrown" into the world. He also describes Dasein as a "thrown projection" (geworfener Entwurf): it understands itself by projecting possibilities, but always from within a situation it has not chosen.
+Heidegger developed the concept in *Being and Time* (*Sein und Zeit*, 1927), particularly in his analysis of Dasein's disclosure (*Erschlossenheit*), which consists equiprimordially of three constitutive structures:
 
-## The Precise Meaning
+1. **Attunement / State-of-Mind (*Befindlichkeit*)**: Dasein is never a detached, neutral spectator; it is always already attuned in some mood (*Stimmung*). Moods are not subjective mental states inside a mind, but ontological disclosures of how one is faring in the world. It is precisely *Befindlichkeit* that discloses Dasein's **thrownness** (*Geworfenheit*) and **facticity** (*Faktizität*): the bare, groundless fact "that it is and has to be" (*dass es ist und zu sein hat*), even while its origin and destination remain shrouded in obscurity.
+2. **Understanding (*Verstehen*)**: Dasein understands itself by pressing forward into possibilities, projecting itself toward future goals through **projection** (*Entwurf*).
+3. **Discourse (*Rede*)**: The articulation of the intelligibility of being-in-the-world.
 
-It is not an event that happened once in the past, but a continuing structure: Dasein is always thrown into a situation it did not make, and only from it can it choose its next project. Related to thrownness is facticity (Faktizität): the fact that Dasein's existence is always concretely situated and cannot be fully mastered by its own choice. Thrownness is not a mere property of an object, since it belongs to a being for whom its own being is at issue. Heidegger connects it with anxiety, which exposes the groundlessness of Dasein's existence, and with being-towards-death, which is the ultimate limit of its possibilities.
+Heidegger crystallizes Dasein's fundamental existential structure as a **thrown projection** (*geworfener Entwurf*). Dasein is not a sovereign, self-originating creator (*causa sui*); it is a thrown entity whose projections are always bounded and conditioned by the factical situation into which it has been cast.
 
-## Relation to Freedom
+## Anxiety, Falling, and the Flight from Thrownness
 
-It clarifies the limits of the concept of freedom (con-freedom) in this Atlas: existential freedom in Heidegger is not a launch from a void, but a freedom always constrained by a situation one is already thrown into. This prevents reading existential freedom as an absolute voluntarism detached from circumstances. Sartre's notion of facticity in *Being and Nothingness* (1943) addresses a similar theme, though Sartre, unlike Heidegger, stresses radical freedom even within facticity.
+Everyday existence is characterized by what Heidegger terms **falling** (*Verfallen*):
+- **The Domain of "the They" (*das Man*)**: Confronted with the terrifying groundlessness of its thrown existence, everyday Dasein flees into the comforting conformity of public opinion, losing itself in idle talk (*Gerede*), curiosity, and social convention.
+- **Authentic Anxiety (*Angst*)**: In genuine existential anxiety—distinct from fear of a specific worldly object—the familiar significance of the everyday world collapses. The world recedes, and Dasein is brought face-to-face with its own uncanniness (*Unheimlichkeit*, literally "not-being-at-home") and its groundless thrownness.
+- **Being-toward-Death (*Sein-zum-Tode*)**: Thrownness reaches its absolute limit in mortality: death is Dasein's ownmost, non-relational, and unsurpassable possibility, completing the structural horizon of human finitude.
 
-## A Common Danger in Popular Usage
+## Existential Transformation and Psychotherapeutic Reception
 
-It is sometimes used superficially to justify inertia ("this is how I was born and I cannot change"), whereas the concept in Heidegger describes the starting point, not a final ceiling on possibility. It is also not simply a psychological claim about feeling helpless: it is a claim about the structure of human existence, and it is not offered as a clinical or therapeutic concept.
+- **Jean-Paul Sartre and Facticity**: In *Being and Nothingness* (*L'Être et le néant*, 1943), Sartre rearticulated Heidegger's thrownness through his concept of **facticity** (*facticité*)—the given facts of a person's situation (birthplace, physical body, past choices, social class). For Sartre, although consciousness (*pour-soi*) does not choose its facticity, it remains "condemned to be free" (*condamné à être libre*) because it bears complete responsibility for how it interprets, assumes, and acts upon that facticity.
+- **Existential Psychotherapy (Daseinsanalysis)**: Pioneering existential psychiatrists Ludwig Binswanger and Medard Boss integrated *Geworfenheit* into clinical understanding. In therapy, thrownness prevents vulgar voluntarism (the naive belief that one can become anything irrespective of reality) while combating fatalistic resignation. Clarifying the patient's factical limits enables authentic existential ownership (*Eigentlichkeit*) within the genuine possibilities of their historical situation.
 
 ## Sources
 
-- Martin Heidegger, *Being and Time*, trans. John Macquarrie and Edward Robinson, Harper & Row, 1962 (German original 1927).
-- Martin Heidegger, *Being and Time*, trans. Joan Stambaugh, State University of New York Press, 1996.
+- Martin Heidegger, *Being and Time*, translated by John Macquarrie and Edward Robinson, Harper & Row, 1962 (German original *Sein und Zeit*, 1927).
+- Martin Heidegger, *Being and Time*, translated by Joan Stambaugh, revised by Dennis J. Schmidt, State University of New York Press, 2010.
 - Hubert L. Dreyfus, *Being-in-the-World: A Commentary on Heidegger's Being and Time, Division I*, MIT Press, 1991.
+- Jean-Paul Sartre, *Being and Nothingness: A Phenomenological Essay on Ontology*, translated by Hazel E. Barnes, Philosophical Library, 1956.
+- Ludwig Binswanger, *Being-in-the-World: Selected Papers of Ludwig Binswanger*, translated by Jacob Needleman, Basic Books, 1963.

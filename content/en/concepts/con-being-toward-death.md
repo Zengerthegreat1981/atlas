@@ -34,15 +34,15 @@ In everyday life, Heidegger argues, people evade death by absorbing it into the 
 
 ## How It Differs from Ordinary Fear of Death
 
-It is not fear of a future event like other fears (see the entry on fear). For Heidegger, fear has a definite object in the world, whereas the anxiety connected with death has no particular object. Being-toward-death is a structure that shapes how every present moment is lived, not a feeling about an eventual end.
+It is not a fear of a future worldly event. For Heidegger, fear (*Furcht*) always has a definite, inner-worldly object that threatens from a specific direction, whereas the anxiety (*Angst*) connected with being-toward-death has no particular object; it discloses the sheer precariousness of Being-in-the-world itself. Being-toward-death is an ontological structure that shapes how every present moment is lived, not an ontic emotion about an eventual end.
 
 ## Reception and Objections
 
 Jean-Paul Sartre, in *Being and Nothingness* (1943), rejected Heidegger's idea, arguing that death is not "my ownmost possibility" but an external fact that cancels all my possibilities and so cannot give life its meaning. Emmanuel Levinas criticised the primacy of one's own death, arguing that the death of the other person is ethically more fundamental. Ernst Tugendhat and others asked whether Heidegger's account of authenticity has enough ethical content. Others question whether his analysis is a description of human existence or a normative ideal in disguise, and how far it depends on his wider ontology.
 
-## Relation to Other Concepts in the Atlas
+## Psychological and Empirical Parallels
 
-The concept has thematic links with later work on mortality, including existential psychotherapy (for example Irvin Yalom's treatment of death anxiety), and with the research tradition of terror management theory and measures such as the Death Attitude Profile-Revised. These are not applications of Heidegger: terror management theory draws mainly on Ernest Becker's *The Denial of Death* (1973), and the empirical instruments measure attitudes, not Heideggerian structures. The link is a shared theme, not a derivation.
+The concept has thematic links with subsequent clinical and psychological literature on mortality, including existential psychotherapy (notably Irvin Yalom's analysis of death anxiety) and the empirical tradition of terror management theory (TMT) alongside instruments such as the Death Attitude Profile-Revised (DAP-R). As researchers emphasize, these are not direct applications of Heideggerian ontology: terror management theory derives primarily from Ernest Becker's psychoanalytic anthropology in *The Denial of Death* (1973), while psychometric tools measure conscious cognitive and affective attitudes toward mortality rather than the ontological structure of Dasein. The connection represents a shared thematic engagement with human finitude rather than a direct methodological continuation.
 
 ## Sources
 

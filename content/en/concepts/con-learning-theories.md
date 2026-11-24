@@ -17,49 +17,54 @@ gaps: []
 ---
 # Learning Theories
 
-In psychology, learning is a relatively lasting change in behaviour or in mental representations resulting from experience. Theories of learning attempt to explain how this happens and which principles apply. The main traditions are classical conditioning, operant conditioning, observational learning and cognitive approaches. They emerged in sequence but are best seen as complementary accounts of different phenomena.
+In psychology, learning is defined as a relatively enduring change in behavior or mental representations resulting from experience. Theories of learning systematically describe the processes and principles through which organisms acquire, organize, and adapt behavior and knowledge. The major psychological paradigms—classical conditioning, operant conditioning, observational learning, and cognitive constructivism—emerged historically in succession but are understood today as complementary explanations of distinct learning phenomena.
 
-## Classical conditioning
+## Classical Conditioning
 
-Ivan Pavlov, studying digestion in dogs around the turn of the twentieth century, noticed that dogs began to salivate to cues that had come to predict food. In the classic arrangement, a neutral stimulus paired with an unconditioned stimulus comes to elicit a conditioned response. Core phenomena include acquisition, extinction, spontaneous recovery, generalisation and discrimination. John B. Watson and Rosalie Rayner's 1920 study of "Little Albert" is often cited as an example of conditioned fear, although its methods and ethics are now heavily criticised. Later work, especially by Robert Rescorla, showed that conditioning depends on the information a cue provides about an event, not mere pairing in time.
+Discovered by Russian physiologist Ivan Pavlov around the turn of the twentieth century during digestive investigations, classical (or respondent) conditioning involves the associative pairing of stimuli. When an unconditioned stimulus (UCS, such as food) that naturally elicits an unconditioned response (UCR, such as salivation) is repeatedly paired with a neutral stimulus (CS, such as a tone), the neutral stimulus becomes a conditioned stimulus capable of eliciting the conditioned response (CR). Key principles include acquisition, stimulus generalization, discrimination, extinction, and spontaneous recovery.
 
-## Operant conditioning
+John B. Watson and Rosalie Rayner demonstrated conditioned emotional responses in the 1920 "Little Albert" study, pairing a white rat with a loud noise, though the study's methodological and ethical standards are now widely criticized. Later cognitive revisions by Robert Rescorla (1988) demonstrated that classical conditioning depends on informational contingency and prediction value rather than mere temporal contiguity: the conditioned stimulus must reliably predict the arrival of the unconditioned stimulus.
 
-Edward Thorndike's law of effect held that behaviours followed by satisfying consequences become more likely. B. F. Skinner developed this into operant conditioning, in which behaviour is shaped by its consequences. Reinforcement, whether positive or negative, increases behaviour, while punishment reduces it. Schedules of reinforcement, such as fixed-ratio and variable-ratio, produce characteristic response patterns, and behaviour maintained on intermittent schedules tends to resist extinction. Applications include behaviour modification, animal training and applied behaviour analysis.
+## Operant Conditioning
 
-## Observational learning
+Originating in Edward L. Thorndike's "law of effect" (1898)—which posited that responses followed by satisfying consequences are stamped in—operant conditioning was systematically formulated by B. F. Skinner (1938). In Skinner's radical behaviorism, organisms emit operant behaviors that operate on the environment, and their future probability is shaped by their consequences:
+- **Reinforcement**: Increases the probability of a behavior, whether positive (presenting an appetitive stimulus) or negative (removing an aversive stimulus).
+- **Punishment**: Decreases the probability of a behavior, whether positive (presenting an aversive stimulus) or negative (removing a desirable stimulus).
+- **Schedules of Reinforcement**: Fixed-ratio, variable-ratio, fixed-interval, and variable-interval schedules generate distinct response rates; variable-ratio schedules yield high, steady rates exceptionally resistant to extinction.
 
-Albert Bandura argued that people learn by watching others, without direct reinforcement of their own. His Bobo doll experiments in the 1960s found that children who had seen an adult behave aggressively toward the doll often imitated that behaviour. Bandura's social learning theory, later social cognitive theory, highlights attention, retention, reproduction and motivation as processes in modelling, and gives weight to vicarious reinforcement and to self-efficacy. The studies have been criticised for their artificial setting, but the broader point that imitation and modelling shape behaviour is widely accepted.
+Applied behavior analysis (ABA), token economies, biofeedback, and exposure therapies represent direct clinical and educational applications of operant principles.
 
-## Cognitive approaches
+## Observational and Social Cognitive Learning
 
-Cognitive theorists emphasise internal mental processes. Edward Tolman's 1930s work with rats suggested that animals form cognitive maps of their environment and can learn without immediate reward, a pattern he called latent learning. Wolfgang Köhler's studies of chimpanzees described sudden problem-solving, or insight. In humans, information-processing models treat learning as encoding, organising and retrieving knowledge, and educational theorists such as Jerome Bruner and David Ausubel stressed discovery and meaningful organisation of material. Constructivist writers, including Jean Piaget and Lev Vygotsky, emphasised that learners actively build understanding, the latter highlighting social interaction.
+Albert Bandura argued that behaviorist accounts were incomplete because human learning frequently occurs vicariously without direct reinforcement or overt trial-and-error. In his famous Bobo doll experiments (1961, 1963), children exposed to aggressive adult models readily imitated novel physical and verbal aggression when given the opportunity.
 
-## Comparing the approaches
+Bandura's social learning theory—later expanded as Social Cognitive Theory (1986)—delineated four essential mediational cognitive processes governing observational learning:
+1. **Attention**: The observer must perceive and attend to the model's behavior.
+2. **Retention**: The behavior must be encoded symbolically and stored in memory.
+3. **Reproduction**: The observer must possess the physical and cognitive capability to execute the motor patterns.
+4. **Motivation**: Execution depends on perceived incentives, vicarious reinforcement, and expectations of self-efficacy.
 
-- **Behaviourist theories** focus on observable behaviour and stimulus-response relations, and they excel at explaining habits and conditioned emotional responses.
-- **Social learning** adds that models and expectations matter.
-- **Cognitive theories** explain complex learning, such as language and concept formation, by appealing to mental representations.
+## Cognitive and Constructivist Approaches
 
-The approaches differ in unit of analysis, but modern research often integrates them: conditioning is studied in terms of prediction and expectation, and neural work links reward learning to dopamine signalling of prediction errors.
+Cognitive theorists emphasize internal information processing, schema integration, and problem-solving:
+- **Purposive Behaviorism**: Edward Tolman demonstrated that organisms form "cognitive maps" through latent learning without immediate reinforcement.
+- **Insight Learning**: Wolfgang Köhler observed that chimpanzees solve novel problems through sudden cognitive restructuring ("insight") rather than blind trial and error.
+- **Information Processing Models**: Conceptualize learning as encoding, consolidating, and retrieving information within distinct memory stores (Atkinson & Shiffrin).
+- **Constructivism**: Jean Piaget emphasized that learners construct knowledge through assimilation and accommodation into cognitive schemas, whereas Lev Vygotsky's sociocultural theory highlighted the zone of proximal development (ZPD) and the mediating role of cultural tools and language in scaffolding learning.
 
-## Critiques and debates
+## Biological Constraints and Critiques
 
-- **Biological constraints.** Research on taste aversion by John Garcia, and on instinctive drift reported by Keller and Marian Breland, showed that not all stimuli and responses are equally easy to associate, contradicting the assumption of equal learnability.
-- **Language and creativity.** Noam Chomsky's 1959 review of Skinner's *Verbal Behavior* argued that reinforcement cannot account for the generative character of language. The extent to which this dismisses learning accounts is still discussed.
-- **Ethics of punishment and control.** Critics worry about manipulative uses of behaviourist methods, though supporters point to evidence of benefit in some clinical and educational contexts.
-- **Generalising from animals.** Early theories drew heavily on rats and pigeons, which limits the inference to humans.
-- **Learning styles.** A popular claim that people learn best when taught in their preferred modality has not been supported by controlled evidence.
-
-## Why it matters
-
-Learning theories underpin therapies such as exposure treatment and behaviour therapy, classroom practice, habit formation and animal training. Choosing among them depends on the question asked and the type of learning involved.
+Behaviorist assumptions that all stimuli and responses are equally associable (the "equipotentiality principle") were refuted by biological constraints on learning:
+- **Conditioned Taste Aversion (The Garcia Effect)**: John Garcia and Robert Koelling (1966) showed that rats naturally associate nausea with gustatory cues (taste) rather than auditory or visual cues, even across multi-hour delays, demonstrating evolutionary preparedness.
+- **Instinctive Drift**: Keller and Marian Breland (1961) demonstrated that operantly conditioned animal behaviors frequently break down as innate biological instincts override learned conditioning.
+- **Linguistic Generativity**: Noam Chomsky's 1959 critique of Skinner's *Verbal Behavior* argued that operant conditioning cannot account for the creative, rule-governed syntax and rapid acquisition of human language.
+- **Debunking "Learning Styles"**: Empirical reviews (Pashler et al., 2008) have found no evidence that matching educational instruction to students' self-reported "learning styles" (e.g., visual, auditory, kinesthetic) improves learning outcomes.
 
 ## Sources
 
-- Ivan Pavlov, *Conditioned Reflexes* (1927)
-- B. F. Skinner, *The Behavior of Organisms* (1938)
-- Albert Bandura, *Social Learning Theory* (1977)
-- Edward Tolman, "Cognitive maps in rats and men", *Psychological Review* (1948)
-- Noam Chomsky, review of *Verbal Behavior* by B. F. Skinner, *Language* (1959)
-- Robert Rescorla, "Pavlovian conditioning: It's not what you think it is", *American Psychologist* (1988)
+- Bandura, A. (1977). *Social Learning Theory*. Prentice-Hall.
+- Chomsky, N. (1959). "Review of B. F. Skinner's *Verbal Behavior*". *Language*, 35(1), 26–58.
+- Garcia, J., & Koelling, R. A. (1966). "Relation of cue to consequence in avoidance learning". *Psychonomic Science*, 4(3), 123–124.
+- Pavlov, I. P. (1927). *Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex*. Trans. G. V. Anrep. Oxford University Press.
+- Rescorla, R. A. (1988). "Pavlovian conditioning: It's not what you think it is". *American Psychologist*, 43(3), 151–160.
+- Skinner, B. F. (1938). *The Behavior of Organisms: An Experimental Analysis*. D. Appleton-Century Company.

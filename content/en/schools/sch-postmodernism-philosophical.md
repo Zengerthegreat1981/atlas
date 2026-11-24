@@ -40,10 +40,9 @@ The term entered Arab culture in the 1980s and 1990s through literary criticism 
 ## Major Figures
 
 - **Lyotard** (1924–1998): defined postmodernism as "incredulity toward metanarratives", that is, narratives of emancipation, progress and absolute spirit, and held that knowledge is plural in "language games" (after Wittgenstein) not governed by a single criterion. In *The Differend* (1983) he spoke of how some wrongs have no language.
-- **Fredric Jameson** (born 1934): in *Postmodernism, or, The Cultural Logic of Late Capitalism* (1991) he held that postmodernism is the cultural expression of a new economic phase, marked by the flattening of depth and by pastiche.
+- **Fredric Jameson** (1934–2024): in *Postmodernism, or, The Cultural Logic of Late Capitalism* (1991) he held that postmodernism is the cultural expression of a new economic phase, marked by the flattening of depth and by pastiche.
 - **Jean Baudrillard** (1929–2007): in *Simulacra and Simulation* (1981) he said that images and signs have detached from their referent until we arrive at the "hyperreal", in which there is no origin.
-- **Richard Rorty** (1931–2007): in *Philosophy and the Mirror of Nature* (1979) he criticized the idea that the mind is a mirror representing reality, and called for a pragmatism concerned with solidarity, although he himself sometimes rejected this label.
-- **Richard Rorty's alliance with postmodernism**: Rorty (1931–2007) accepted a measure of kinship with Lyotard and Derrida, and in *Contingency, Irony, and Solidarity* (1989) argued that vocabularies and liberal commitments are contingent historical creations, not grounded in a neutral rational foundation.
+- **Richard Rorty** (1931–2007): in *Philosophy and the Mirror of Nature* (1979) he criticized the idea that the mind is a mirror representing reality. Although sometimes ambivalent about the postmodern label, he acknowledged kinship with Lyotard and Derrida, arguing in *Contingency, Irony, and Solidarity* (1989) that language and liberal values are contingent historical creations rather than products of an objective rational foundation.
 - **Zygmunt Bauman** (1925–2017): in *Liquid Modernity* (2000) he held that identities and institutions have lost their solidity.
 - **David Harvey**: in *The Condition of Postmodernity* (1989) he linked the phenomenon to the transformations of flexible capital and the compression of time and space.
 

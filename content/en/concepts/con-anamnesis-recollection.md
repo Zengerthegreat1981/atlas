@@ -14,8 +14,7 @@ edges:
 related:
 - id: "thk-plato", title: "Plato", type: "مفكر"
 - id: "sch-academy-platonic", title: "The Platonic Academy (Old/Middle/New, Skeptical)", type: "مدرسة"
-gaps:
-  - "Later historical development of the concept (Neoplatonism, Renaissance Platonism): not yet covered"
+gaps: []
 ---
 # Recollection and the Recall of Knowledge (Anamnesis)
 
@@ -41,6 +40,12 @@ In the "Phaedo" the proof is built on our awareness of absolute equality: we see
 
 The theory of recollection was not usually adopted literally in Arabic philosophy, but related ideas appear. In Sufi literature the primordial covenant ("Am I not your Lord?", Quran 7:172) is sometimes cited to suggest that knowledge of God is a recollection of an ancient covenant. Ibn Sina (Avicenna) rejected recollection as an account of learning and explained the acquisition of intelligible forms instead through the Active Intellect, from which the prepared soul receives them. Al-Suhrawardi's Illuminationist philosophy gave a central place to the soul's direct vision of luminous realities, which some scholars compare with the Platonic Forms. These examples show that the Platonic question remained alive in different formulations.
 
+## Later Historical Trajectory: Neoplatonism and Renaissance Platonism
+
+The doctrine of recollection underwent substantial transformation in late antiquity and the Renaissance. In Neoplatonism, Plotinus (*Enneads* IV.3.25–32) reconceptualized *anamnesis* by shifting focus from past temporal lives to the soul's continuous, non-temporal relation to the intelligible realm. For Plotinus, the higher soul does not entirely descend into the material world; recollection is thus an *epistrophe*—an inward turning or reorientation of consciousness toward the eternal Forms already present within the intuitive intellect (*Nous*).
+
+During the Renaissance, Marsilio Ficino (*Theologia Platonica*, 1482) revived *anamnesis* within a Christian humanist synthesis. Ficino interpreted recollection as the awakening of innate divine notions (*notiones communes*) planted in the human soul by God, ignited through contemplation and spiritual love. In the seventeenth century, the Cambridge Platonists, notably Ralph Cudworth and Henry More, drew on this tradition to defend innate ideas and the immateriality of the soul against Thomas Hobbes's mechanistic empiricism.
+
 ## Limits and critique
 
 Aristotle rejects the assumption of prior innate knowledge and holds that the intellect is like a writing tablet on which nothing is yet written (*De Anima* III.4), with universals reached from perception by induction (*Posterior Analytics* II.19). In the modern era the empiricist philosophers (Locke) contrasted the innate with experience, while Descartes and Leibniz revived the idea in the form of innate ideas, and Chomsky returned to an aspect of it in his universal grammar. Critics object to the experiment with the boy that Socrates directs the questions in a way that makes the answer almost fed to him, and that the result does not prove a prior life of the soul but may indicate only an innate rational capacity. In the *Meno* Socrates himself says he would not insist on every detail of the argument, but is confident that believing one must inquire makes us better and more energetic.
@@ -48,5 +53,7 @@ Aristotle rejects the assumption of prior innate knowledge and holds that the in
 ## Sources
 
 - Plato, *Complete Works*, ed. John M. Cooper, Hackett Publishing, 1997 (including *Meno*, *Phaedo* and *Phaedrus*).
+- Plotinus, *The Enneads*, trans. Stephen MacKenna, Penguin Classics, 1991.
+- Marsilio Ficino, *Platonic Theology*, 6 vols., trans. Michael J. B. Allen, Harvard University Press, 2001–2006.
 - Dominic Scott, *Plato's Meno*, Cambridge University Press, 2006.
 - Gail Fine, *Plato on Knowledge and Forms: Selected Essays*, Oxford University Press, 2003.

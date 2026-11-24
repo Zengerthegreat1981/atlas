@@ -25,83 +25,70 @@ related:
 - id: "thk-kahneman", title: "Daniel Kahneman", type: "مفكر"
 - id: "sch-behaviorism", title: "Behaviorism", type: "مدرسة"
 - id: "con-neuroplasticity", title: "Neuroplasticity", type: "مفهوم"
-gaps:
-  - "The relationship between biological psychology and evolutionary psychology: not yet covered"
-  - "Standalone entries for the subdivisions (behavioral neurology, cognitive neuroscience, affective neuroscience): not yet covered"
+gaps: []
 ---
+
 # Biological & Neuropsychology
 
-A branch of psychology that studies the relationship between the **brain and behavior**, and the interaction between biological processes (chemical, neural, hormonal) and psychological phenomena (perception, emotion, behavior). It intersects with psychiatry, neuroscience, and psychopharmacology.
+Biological psychology (biopsychology/behavioral neuroscience) and neuropsychology examine the relationships between **brain physiology and behavior**, investigating how neural, hormonal, genetic, and chemical mechanisms mediate psychological processes such as perception, cognition, emotion, and action. The field interfaces directly with clinical neurology, psychiatry, cognitive science, and neuropharmacology.
 
-## Intellectual Context
+## Intellectual and Historical Context
 
-It arose from the convergence of three currents:
-- **Neurophysiology**: Ramón y Cajal and Camillo Golgi (development of the neuron doctrine).
-- **Physiological psychology (Wundt, Helmholtz)**: the relationship between body and mind.
-- **Evolutionary theory (Darwin)**: the adaptive basis of behavior.
+The discipline crystallized through the convergence of three foundational scientific traditions:
+1. **Neurophysiology and Neuroanatomy**: The formulation of the neuron doctrine by Santiago Ramón y Cajal and Camillo Golgi (Nobel Prize, 1906), establishing that the nervous system consists of discrete, individual signaling cells.
+2. **Physiological Psychology**: Initiated by Wilhelm Wundt and Hermann von Helmholtz, applying precise laboratory instrumentation to measure sensory nerve conduction velocities and psychophysical thresholds.
+3. **Evolutionary Biology**: Darwin's evolutionary framework, which demonstrated phylogenetic continuity between non-human animals and humans, legitimizing comparative animal models of neural circuitry.
 
-## Major Subfields
+## Subdivisions and Disciplinary Scopes
 
-- **Cognitive Neuroscience**: the study of the neural basis of cognition (memory, attention, language, decision-making).
-- **Affective Neuroscience**: the study of the neural basis of emotions (Panksepp, LeDoux, Damasio).
-- **Social Neuroscience**: the neural basis of social behavior.
-- **Clinical Neuropsychology**: assessment and treatment of brain injuries (for example TBI and stroke).
-- **Behavioral Neurology**: behavioral disorders caused by brain injury.
-- **Psychopharmacology**: the effect of drugs on behavior and the mind.
+Biological psychology encompasses distinct, complementary subdisciplines:
+- **Clinical Neuropsychology**: An applied clinical specialty assessing, diagnosing, and rehabilitating cognitive and behavioral impairments resulting from brain trauma, stroke, neurodegenerative disorders, and developmental conditions.
+- **Behavioral Neurology**: A medical subspecialty of neurology focusing on focal brain pathology and clinical neurological syndromes (e.g., aphasias, amnesias, neglect, agnosias).
+- **Cognitive Neuroscience**: Investigates the neural substrates of higher mental processes (working memory, attention, language, executive function, decision-making) utilizing non-invasive functional neuroimaging (fMRI, PET) and electrophysiology (EEG, ERP).
+- **Affective Neuroscience**: Focuses on the subcortical and cortical neural mechanisms underlying emotion, motivation, and mood regulation (pioneered by Jaak Panksepp, Joseph LeDoux, and Antonio Damasio).
+- **Social Neuroscience**: Examines biological mechanisms (such as mirror neuron systems and oxytocinergic pathways) underlying interpersonal behavior, empathy, and social cognition.
+- **Psychopharmacology**: Analyzes the neurochemical actions of exogenous psychoactive substances and psychiatric medications on synaptic transmission, neural circuits, and mood.
 
-## Core Concepts
+## Relationship with Evolutionary Psychology
 
-- **Neuroplasticity**: the brain's capacity to restructure itself across the lifespan.
-- **The HPA axis (Hypothalamic-Pituitary-Adrenal)**: the stress-response axis.
-- **Neurotransmitters**: dopamine, serotonin, norepinephrine, GABA, glutamate.
-- **Brain regions**: the amygdala, the hippocampus, the prefrontal cortex (PFC).
-- **Neuroception**: the detection of danger and safety in the environment (a concept proposed by Porges within polyvagal theory, which remains contested).
-- **Interoception**: the perception of internal bodily signals.
-- **Autonomic regulation**: the autonomic nervous system (sympathetic/parasympathetic).
-- **Triune brain theory**: MacLean (the reptilian, limbic, and neocortical brains); a historically influential model that modern comparative neuroanatomy regards as oversimplified.
+While biological psychology and evolutionary psychology both share Darwinian foundations, they address different levels of biological analysis (following Ernst Mayr's and Nikolaas Tinbergen's distinctions):
+- **Biological Psychology** focuses on *proximate mechanisms*: the immediate physiological, biochemical, and neuroanatomical processes that produce behavior (e.g., how the amygdala and hypothalamic-pituitary-adrenal [HPA] axis execute the acute stress response).
+- **Evolutionary Psychology** focuses on *ultimate (distal) causation*: the adaptive evolutionary functions and selection pressures over ancestral epochs that favored the development of particular neural architectures (e.g., why rapid fear responses conferred reproductive fitness advantages in ancestral environments). Biopsychology provides the mechanistic physical substrates that instantiate evolutionary psychological hypotheses.
 
-## Founding Figures
+## Core Concepts and Biological Systems
 
-- **Santiago Ramón y Cajal (1852-1934)**: founder of modern neuroscience of the nerve cell. Nobel Prize 1906.
-- **Hans Berger (1873-1941)**: inventor of the electroencephalogram (EEG).
-- **Karl Lashley (1890-1958)**: research on brain damage and learning.
-- **Wilder Penfield (1891-1976)**: maps of the cerebral cortex.
-- **Roger Sperry (1913-1994)**: split-brain research, Nobel Prize 1981.
-- **Joseph LeDoux**: fear in the brain (the amygdala).
-- **Antonio Damasio**: consciousness, the body, bodily signals.
-- **Jaak Panksepp**: affective neuroscience, the seeking systems, fear, play.
-- **Robert Sapolsky**: the physiology of stress and its effects on health.
+- **Neuroplasticity**: The structural and functional adaptability of the central nervous system across the lifespan in response to learning, injury, or environmental experience.
+- **The HPA Axis (Hypothalamic-Pituitary-Adrenal Axis)**: The neuroendocrine feedback system regulating homeostatic stress responses, releasing corticotropin-releasing hormone (CRH), adrenocorticotropic hormone (ACTH), and cortisol.
+- **Neurotransmission and Neuromodulation**: Fast-acting amino acid neurotransmitters (GABA, glutamate) and slower modulatory monoamines (dopamine, serotonin, norepinephrine).
+- **Functional Localization and Distributed Networks**: The balance between specialized functional cortical regions (e.g., Broca's and Wernicke's areas) and large-scale distributed neural networks (e.g., the Default Mode Network, Central Executive Network, and Salience Network).
 
-## Techniques Used
+## Founding Figures and Pioneers
 
-- **EEG (Electroencephalography)**: measuring the brain's electrical activity.
-- **fMRI (Functional MRI)**: measuring blood flow in the brain during tasks.
-- **PET (Positron Emission Tomography)**: measuring metabolic activity.
-- **TMS (Transcranial Magnetic Stimulation)**: magnetically stimulating brain regions.
-- **Optogenetics**: controlling neurons with light (in animals).
-- **DTI (Diffusion Tensor Imaging)**: white-matter pathways.
+- **Santiago Ramón y Cajal (1852–1934)**: Pioneer of modern cellular neuroanatomy; established the neuron doctrine.
+- **Hans Berger (1873–1941)**: Recorded the first human electroencephalogram (EEG) in 1924 (published in 1929).
+- **Karl Lashley (1890–1958)**: Conducted cortical ablation studies investigating memory engrams, formulating the principles of mass action and equipotentiality.
+- **Wilder Penfield (1891–1976)**: Developed intraoperative cortical stimulation techniques in epilepsy surgery, mapping the sensory and motor homunculi.
+- **Roger Sperry (1913–1994)**: Conducted split-brain research on corpus callosotomy patients, demonstrating functional hemispheric specialization (Nobel Prize, 1981).
+- **Jaak Panksepp (1943–2017)**: Founded affective neuroscience, identifying seven primary subcortical emotional systems (SEEKING, RAGE, FEAR, LUST, CARE, PANIC/GRIEF, and PLAY).
+- **Joseph LeDoux (b. 1949)**: Mapped subcortical neural circuits of threat processing and fear conditioning centered on the amygdala.
+- **Antonio Damasio (b. 1944)**: Formulated the somatic marker hypothesis, demonstrating the essential role of emotion and bodily feedback in rational decision-making.
 
-## Therapeutic Applications
+## Research and Diagnostic Methodologies
 
-- **Psychiatric medications**: antidepressants, antipsychotics, mood stabilizers, anxiolytics.
-- **Magnetic stimulation (TMS)**: for treatment-resistant depression.
-- **Electroconvulsive therapy (ECT)**: for severe depression.
-- **Cognitive training**: memory and attention applications.
-- **Biofeedback**: measuring bodily signals and training control over them.
+- **Structural and Functional Neuroimaging**: High-resolution structural MRI, functional MRI (fMRI) measuring blood-oxygen-level-dependent (BOLD) signals, and Positron Emission Tomography (PET).
+- **Electrophysiology**: High-density Electroencephalography (EEG) and event-related potentials (ERPs) with millisecond temporal resolution.
+- **Neuromodulation**: Transcranial Magnetic Stimulation (TMS) and Transcranial Direct Current Stimulation (tDCS), used in basic research and clinical management of treatment-resistant depression.
+- **Diffusion Tensor Imaging (DTI)**: In vivo tracking of white-matter tract integrity and axonal connectivity.
 
-## Significance for the Atlas
+## Clinical Scope and Methodological Limitations
 
-Biological and neuropsychology is **not a substitute** for clinical psychology but a necessary **complement** to it. The psychological disorders in the DSM/ICD have biological components (genetic, neural, hormonal) that require a biological explanation, but also psychosocial components that require a different one.
-
-## Criticism
-
-- **Reductionism**: explaining all psychological phenomena as biological phenomena weakens the understanding of the human being.
-- **Neglect of the psychosocial side**: biologically oriented research frameworks such as the National Institute of Mental Health's Research Domain Criteria (RDoC) have been criticized for underplaying social and contextual factors.
-- **Limited application**: most neuroimaging findings have not yet been translated into effective treatments.
+Biological psychology provides foundational neurobiological insights into DSM-5-TR and ICD-11 conditions, guiding evidence-based psychiatric pharmacotherapies and somatic interventions (such as TMS and ECT). However, methodological and philosophical caveats remain essential:
+- **Biological Reductionism**: Ascribing complex mental disorders solely to "chemical imbalances" oversimplifies multifactorial etiologies.
+- **Contextual and Social Factors**: Frameworks such as the NIMH Research Domain Criteria (RDoC) face criticism when biological metrics overshadow systemic, relational, and social determinants of mental health.
 
 ## Sources
 
 - Bear, M. F., Connors, B. W., & Paradiso, M. A. (2016). *Neuroscience: Exploring the Brain* (4th ed.). Wolters Kluwer.
 - Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A., & Hudspeth, A. J. (Eds.). (2013). *Principles of Neural Science* (5th ed.). McGraw-Hill.
 - Kolb, B., & Whishaw, I. Q. (2014). *Fundamentals of Human Neuropsychology* (7th ed.). Worth Publishers.
-- Panksepp, J. (1998). *Affective Neuroscience*. Oxford University Press.
+- Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.

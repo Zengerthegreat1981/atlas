@@ -16,8 +16,7 @@ related:
 - id: "con-memory", title: "Memory", type: "مفهوم"
 - id: "con-trauma", title: "Psychological Trauma in Psychoanalysis", type: "مفهوم"
 - id: "sch-emdr", title: "Eye Movement Desensitization and Reprocessing (EMDR)", type: "مدرسة"
-gaps:
-  - "The true prevalence of dissociative amnesia: not yet covered (reporting bias and the difficulty of distinguishing it from ordinary forgetting limit estimates)."
+gaps: []
 ---
 # Dissociative Amnesia
 
@@ -142,6 +141,10 @@ Several trauma-focused approaches (EMDR, IFS, Sensorimotor Psychotherapy, Somati
 - The therapist needs specialized training in dissociative disorders.
 - Some reported amnesia may be feigned for secondary gain (such as escaping legal responsibility).
 - Rushing recovery before the client is stable can be distressing and destabilizing.
+
+## Epidemiology and Prevalence
+
+True prevalence rates of dissociative amnesia remain difficult to establish precisely due to reporting bias, diagnostic controversies, and methodological challenges in distinguishing dissociative amnesia from ordinary forgetting, substance-induced amnesia, and neurological conditions. In community samples, DSM-5-TR cites a small U.S. study reporting a 12-month prevalence of approximately 1.8% (1.0% for males and 2.6% for females). In clinical psychiatric settings and inpatient units, prevalence estimates range higher (historically reported between 5% and 14%), particularly among populations with high exposure to acute psychological trauma, combat, or interpersonal violence. Cross-cultural epidemiological data remain limited, although presentations involving fugue states or trauma-related amnesia have been documented across diverse cultural settings.
 
 ## Sources
 

@@ -47,7 +47,7 @@ The essay provoked wide controversy in analytic philosophy. Paul Grice and Peter
 
 ## The Arabic Reading
 
-The distinction between the analytic and the synthetic entered Arabic thought first through logical positivism, as Zaki Naguib Mahmoud presented it in "Logical Positivism" (1951) as the basis for distinguishing meaningful propositions from others.
+The distinction between the analytic and the synthetic entered Arabic thought first through logical positivism, as Zaki Naguib Mahmoud presented it in *al-Mantiq al-Wad'i* (*Positive Logic*, 1951) as the basis for distinguishing meaningful propositions from others.
 
 ## Limits
 

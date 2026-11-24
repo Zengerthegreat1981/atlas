@@ -39,13 +39,11 @@ Fourteen books (designated literally by the Greek alphabet, the little alpha and
 
 There is no "publication date" in the modern sense: the text consists of internal lectures (esoteric/acroamatic) for students of the Lyceum that Aristotle did not prepare for general circulation, unlike his lost "dialogues", which were prepared for publication. According to the ancient tradition, these lectures were collected and arranged some two and a half centuries after Aristotle's death by **Andronicus of Rhodes** (c. 1st century BCE), who placed them after the books on nature (Physica) in his catalogue, so they were called "ta meta ta physika" (the things after the physical books), a library-order designation, not a philosophical title chosen by Aristotle himself, though it later came to be read mistakenly as a reference to what is beyond sensible nature. The date given for the work (330 BCE) is approximate for the period of Aristotle's teaching activity at the Lyceum (335–322 BCE), not a specific moment of composition.
 
-## Reception and Criticism
+## Reception and Arabic Transmission
 
-The work was transmitted into Arabic in the Abbasid age (the translation of Ustath, revised by Hunayn ibn Ishaq and his son Ishaq), and became the basis of the **investigation of being** in al-Farabi and Ibn Sina; Ibn Sina in particular developed his distinction between existence and essence in dialogue with the book. Ibn Rushd wrote a great commentary on it that influenced the Latin Middle Ages through Thomas Aquinas, who drew from it essential distinctions in his natural theology. The most prominent modern criticism is doubt about the unity of the work itself: Werner Jaeger (1923) showed that the different books reflect intellectual phases of Aristotle that are far apart in time and not a single completed system, which undermines earlier readings that treated the "Metaphysics" as a closed, internally consistent system.
+The work was translated into Arabic in the ninth-century translation movement: Ustath (Eustathius) produced the earliest comprehensive Arabic translation for the circle of al-Kindi, while later scholars including Ishaq ibn Hunayn, Abu Bishr Matta, and Yahya ibn Adi translated and revised specific books and associated Greek commentaries (such as those of Alexander of Aphrodisias and Themistius). This textual transmission formed the indispensable foundation for Islamic peripatetic philosophy: al-Farabi wrote his treatise on the aims of Aristotle's Metaphysics (*Fi Aghrad ma ba'd al-Tabi'ah*), which famously enabled Ibn Sina to master the work. Ibn Sina developed his foundational ontological distinction between essence and existence (*al-mahiyyah wa-al-wujud*) in creative engagement with Aristotle. In Andalusia, Ibn Rushd (Averroes) composed his celebrated Long Commentary (*al-Tafsir al-Kabir li-Ma Ba'd al-Tabi'ah*), which preserved fragments of earlier Arabic translations and directly shaped Latin scholasticism, particularly the metaphysical theology of Thomas Aquinas. 
 
-## Transmission into Arabic
-
-The work was translated into Arabic in the ninth-century translation movement (the translation attributed to Ustath, with later revisions by Ishaq ibn Hunayn and others), and these versions are the basis of its study by the Arabic philosophers.
+In twentieth-century scholarship, Werner Jaeger (1923) revolutionized Aristotelian studies by showing that the *Metaphysics* does not constitute a single, harmonized treatise written at one sitting, but rather reflects diverse developmental phases of Aristotle's thought, undermining traditional scholastic readings of the work as a monolithic system.
 
 ## Why It Is Mentioned in the Atlas
 
@@ -54,4 +52,6 @@ Because the inquiry into substance and the distinction between potentiality and 
 ## Sources
 
 - Ross, W. D. (ed.). *Aristotle's Metaphysics: A Revised Text with Introduction and Commentary*. 2 vols. Oxford: Clarendon Press, 1924 (the standard reference for textual editing).
-- Jaeger, Werner, *Aristoteles: Grundlegung einer Geschichte seiner Entwicklung*, Berlin, 1923: the study that founded the reading of the work as successive compositional layers and not a single system.
+- Jaeger, Werner. *Aristoteles: Grundlegung einer Geschichte seiner Entwicklung*. Berlin: Weidmannsche Buchhandlung, 1923.
+- Barnes, Jonathan (ed.). *The Complete Works of Aristotle: The Revised Oxford Translation*. 2 vols. Princeton: Princeton University Press, 1984.
+- Ibn Rushd (Averroes). *Tafsir Ma Ba'd al-Tabi'ah* (Grand Commentary on the Metaphysics). 3 vols. Edited by Maurice Bouyges. Beirut: Imprimerie Catholique, 1938–1952.

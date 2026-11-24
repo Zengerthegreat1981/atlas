@@ -7,7 +7,7 @@ title: "Jean-Jacques Rousseau"
 en: "Jean-Jacques Rousseau"
 crumb: "Philosophy ← Thinkers ← Jean-Jacques Rousseau"
 dates: "Switzerland / France · 1712–1778"
-active_start: 1762
+active_start: 1750
 active_end: 1778
 country: "Switzerland / France"
 language: "French"
@@ -20,8 +20,7 @@ related:
 - id: "con-freedom", title: "Freedom", type: "مفهوم"
 - id: "sch-enlightenment", title: "Enlightenment Philosophy (umbrella)", type: "مدرسة"
 - id: "thk-kant", title: "Immanuel Kant", type: "مفكر"
-gaps:
-  - "Direct influence of Rousseau on Kierkegaard and Nietzsche: not yet covered"
+gaps: []
 ---
 
 # Jean-Jacques Rousseau
@@ -45,6 +44,12 @@ In *The Social Contract* he treated the following dilemma: how can we submit to 
 ## His Place in the Tradition
 
 Rousseau stands at the edge of the Enlightenment: he shares with its philosophers the pursuit of freedom and equality and the rejection of despotism, but differs from them in their optimism about progress and the sciences. Kant was influenced by him, saying that Rousseau set him right in respect for the human being, and built on the idea of the general will his conception of the autonomous moral law. Politically, he was adopted by the Jacobins headed by Robespierre, and was read as a critic by Hegel, Marx and Hannah Arendt. In respect of Romanticism he paved the way for Wordsworth, Goethe and Schiller. His ideas entered the Arab world in the nineteenth century; Rifa'a al-Tahtawi mentioned him in *Takhlis al-Ibriz* (1834) among the writers of France, and the Nahda elite read him as the author of *The Social Contract*, and 'Adil Zu'aytir translated *The Social Contract* into Arabic in the mid-twentieth century.
+
+### Influence on Kierkegaard and Nietzsche
+
+Rousseau's defense of inward sincerity against social conformity deeply shaped two foundational precursors of existentialism:
+- **Søren Kierkegaard**: Kierkegaard shared Rousseau's profound suspicion of abstract philosophical systems (such as Hegelianism) and bourgeois complacency. Like Rousseau in the *Confessions*, Kierkegaard emphasized solitary inwardness, the single individual (*hiin Enkelte*), and the primacy of personal conscience, though he grounded this existential subjectivity in radical Christian faith rather than Rousseauian natural innocence.
+- **Friedrich Nietzsche**: Nietzsche maintained an intensely ambivalent relationship with Rousseau. In *Twilight of the Idols* and *Daybreak*, Nietzsche fiercely attacked Rousseau's egalitarianism, moral sentimentalism, and romantic idealization of "nature," diagnosing them as the ideological root of modern democracy, socialism, and the French Revolution's *ressentiment*. Yet Nietzsche simultaneously recognized Rousseau as a formidable kindred spirit in rebelling against cultural decadence, hypocrisy, and artificial convention, acknowledging the disruptive power of his call for authentic self-overcoming.
 
 ## Limits and Critique
 

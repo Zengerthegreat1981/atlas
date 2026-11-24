@@ -26,8 +26,7 @@ related:
 - id: "thk-laing", title: "R. D. Laing", type: "مفكر"
 - id: "thk-marcel", title: "Gabriel Marcel", type: "مفكر"
 - id: "wrk-sickness-death", title: "The Sickness Unto Death", type: "عمل / كتاب"
-gaps:
-  - "Detailed history of the application of existentialism to psychotherapy: not yet covered"
+gaps: []
 ---
 # Existential Psychotherapy
 
@@ -45,10 +44,13 @@ Historical experience, including the Second World War and the Holocaust, shaped 
 
 ## Historical Phases
 
-- **Phenomenological beginnings** (1920s): Ludwig Binswanger in Kreuzlingen, Switzerland, brought phenomenological method into psychiatry (from 1922), and after Heidegger's *Being and Time* (1927) developed what he called Daseinsanalysis (see *Grundformen und Erkenntnis menschlichen Daseins*, 1942).
-- **Crystallization** (1940s-1960s): Medard Boss in Zurich developed Daseinsanalysis in closer dialogue with Heidegger and reinterpreted Freudian practice in this light (*Psychoanalysis and Daseinsanalysis*, 1963).
-- **Migration to America** (1950s-1970s): Rollo May introduced it to the American public (*Existence*, 1958, with Angel and Ellenberger), and Irvin Yalom produced the first comprehensive textbook (*Existential Psychotherapy*, 1980).
-- **International expansion** (1980s-present): Viktor Frankl (logotherapy in Vienna) and Alfried Längle (existential analysis in Vienna), together with the continuing work of May, Yalom, Bugental, and others, including the British school influenced by R. D. Laing and others.
+The clinical application of existentialism unfolded across several distinct intellectual and geographic phases:
+
+- **Phenomenological psychiatric origins (1910s–1930s)**: Karl Jaspers's *General Psychopathology* (1913) first introduced Husserlian phenomenological description into psychopathology to understand subjective psychiatric experience. In Kreuzlingen, Switzerland, Ludwig Binswanger (medical director of the Bellevue Sanatorium) applied Husserl and Heidegger's *Being and Time* (1927) to psychiatry, creating *Daseinsanalyse* (*Grundformen und Erkenntnis menschlichen Daseins*, 1942) to analyze how patients construct their personal world-designs (*Weltentwurf*). In France, Eugène Minkowski investigated the phenomenology of lived time in schizophrenia and depression.
+- **Daseinsanalysis and direct dialogue with Heidegger (1940s–1960s)**: Medard Boss in Zurich developed Daseinsanalysis in direct collaboration with Martin Heidegger (who conducted the Zollikon Seminars with Boss's psychiatric circle between 1959 and 1969). Boss rejected Freudian libido theory and psychic apparatus models, arguing that psychotherapy should directly facilitate the patient's open, unconstrained Being-in-the-world (*Psychoanalysis and Daseinsanalysis*, 1963).
+- **Viennese Logotherapy (1930s–1950s)**: Viktor Frankl developed logotherapy and existential analysis (*Existenzanalyse*) as the "Third Viennese School of Psychotherapy" (after Freud and Adler). Tested and deepened through his survival of Nazi concentration camps, Frankl emphasized the primary human drive for meaning (*Wille zum Sinn*) and pioneered specific clinical techniques such as paradoxical intention and dereflection.
+- **Migration and American existential-humanistic therapy (1950s–1980s)**: Rollo May, along with Ernest Angel and Henri Ellenberger, introduced European phenomenological-existential psychiatry to the Anglophone world in the landmark anthology *Existence* (1958). May articulated anxiety not as pathology but as an inevitable confrontation with non-being and freedom (*The Meaning of Anxiety*, 1950; *Love and Will*, 1969). James Bugental formalized the therapeutic process of existential-humanistic therapy (*The Search for Authenticity*, 1965). In 1980, Irvin Yalom published the seminal textbook *Existential Psychotherapy*, organizing clinical theory systematically around four ultimate concerns (death, freedom, existential isolation, and meaninglessness).
+- **The British School and international contemporary expansion (1960s–present)**: In the United Kingdom, R. D. Laing and the Philadelphia Association (*The Divided Self*, 1960) critiqued institutional psychiatry through existential-phenomenological inquiry into psychosis. From the late 1980s onward, Emmy van Deurzen formalized structural existential psychotherapy, founding the Society for Existential Analysis (1988) and outlining existential practice across four physical, social, personal, and spiritual dimensions of world-relations (*Existential Counselling & Psychotherapy in Practice*, 1988/2002). Ernesto Spinelli articulated phenomenological-existential therapy focused on the primacy of relatedness (*The Interpreted World*, 1989). In Austria, Alfried Längle developed contemporary Existential Analysis centered on four fundamental existential motivations.
 
 ## Founding Concepts
 
@@ -102,10 +104,12 @@ Controlled evidence is more limited than for CBT, in part because the approach r
 
 ## Sources
 
-- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books. — the basic textbook reference.
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
+- May, R., Angel, E., & Ellenberger, H. F. (Eds.). (1958). *Existence: A New Dimension in Psychiatry and Psychology*. Basic Books.
 - May, R. (1969). *Existential Psychology* (2nd ed.). Random House.
 - Binswanger, L. (1942). *Grundformen und Erkenntnis menschlichen Daseins*. Niehans.
 - Boss, M. (1963). *Psychoanalysis and Daseinsanalysis*. Basic Books.
 - Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*; English: *Man's Search for Meaning* (Beacon Press, 1959 first English edition; 1962 under this title).
-- Vos, J., Craig, M., & Cooper, M. (2015). Existential therapies: A meta-analysis of their effects on psychological outcomes. *Journal of Consulting and Clinical Psychology*, 83, 115-128.
+- Van Deurzen, E. (2002). *Existential Counselling & Psychotherapy in Practice* (2nd ed.). Sage.
+- Vos, J., Craig, M., & Cooper, M. (2015). Existential therapies: A meta-analysis of their effects on psychological outcomes. *Journal of Consulting and Clinical Psychology*, 83(1), 115-128.
 - Bugental, J. F. T. (1965). *The Search for Authenticity*. Holt, Rinehart and Winston.

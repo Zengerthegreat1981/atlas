@@ -7,8 +7,8 @@ title: "Carl Rogers"
 en: "Carl Rogers"
 crumb: "Psychology ← Thinkers ← Carl Rogers"
 dates: "United States · 1902–1987"
-active_start: 1951
-active_end: 1980
+active_start: 1942
+active_end: 1987
 country: "United States"
 language: "English"
 part: "psychology"
@@ -19,8 +19,7 @@ related:
 - id: "rel-humanistic", title: "Humanistic: The Ambiguous Kinship", type: "علاقة بين مدرستين"
 - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 - id: "con-relation", title: "Relation and Encounter", type: "مفهوم"
-gaps:
-  - "A separate debate entry on the Rogers–Buber dialogue (1957): not yet covered"
+gaps: []
 ---
 
 # Carl Rogers
@@ -68,7 +67,15 @@ Carl Rogers was born on 8 January 1902 in Oak Park, Illinois, to a conservative 
 
 ## Debates and Research
 
-Rogers was among the first therapists to record therapy sessions and analyze them scientifically, and with Rosalind Dymond he produced the study *Psychotherapy and Personality Change* (1954), which used the Q-sort technique to measure change in self-image. In 1956 a debate took place between him and B. F. Skinner on the control of human behavior, published in the journal *Science*, in which Rogers defended subjective freedom against behavioral engineering. In 1957 he held a dialogue with Martin Buber at the University of Michigan, and the disagreement between the two men became clear over whether the therapeutic encounter is symmetrical between the two parties. The Wisconsin project with schizophrenic patients, in which Gendlin, Truax, and Kiesler took part with him, did not yield decisive results, and it weakened confidence that the three conditions are sufficient on their own with psychosis.
+Rogers was among the first therapists to record therapy sessions and analyze them scientifically, and with Rosalind Dymond he produced the study *Psychotherapy and Personality Change* (1954), which used the Q-sort technique to measure change in self-image. In 1956 a debate took place between him and B. F. Skinner on the control of human behavior, published in the journal *Science*, in which Rogers defended subjective freedom against behavioral engineering.
+
+### The Rogers–Buber Dialogue (1957)
+
+On 18 April 1957, Rogers participated in a public dialogue with philosopher Martin Buber at the University of Michigan, moderated by Maurice Friedman. The encounter highlighted a foundational disagreement regarding mutuality in psychotherapy:
+- **Buber's position**: Buber argued that while genuine empathy and helping occur in therapy, true I–Thou mutuality is structural impossible in the clinical setting. The relationship is fundamentally asymmetrical because one person comes seeking help and reveals their inner life, while the therapist remains responsible for the process and does not reciprocally reveal themselves. Buber maintained that the therapist practices "inclusion" (experiencing the event from both poles), but the patient cannot experience the therapist's pole.
+- **Rogers's position**: Rogers countered that in the deepest moments of therapeutic connection, when defenses drop, a fully mutual, person-to-person meeting occurs in which both participants experience genuine equality and shared presence beyond their institutional roles.
+
+The Wisconsin project with hospitalized schizophrenic patients, in which Eugene Gendlin, Charles Truax, and Donald Kiesler participated, yielded mixed and inconclusive results, qualifying the claim that the three core conditions are on their own uniformly sufficient across severe psychotic conditions.
 
 ## Arab Reception
 
@@ -86,4 +93,5 @@ Researchers in cross-cultural psychology such as Derald Wing Sue have pointed ou
 - Kirschenbaum, Howard. *The Life and Work of Carl Rogers*. Alexandria, VA: American Counseling Association, 2007.
 - Rogers, Carl R., and Rosalind F. Dymond (eds.). *Psychotherapy and Personality Change*. Chicago: University of Chicago Press, 1954.
 - Rogers, Carl R., and B. F. Skinner. "Some Issues Concerning the Control of Human Behavior: A Symposium." *Science* 124 (1956): 1057-1066.
+- Anderson, Rob, and Kenneth N. Cissna. *The Martin Buber-Carl Rogers Dialogue: A New Transcript with Commentary*. Albany: State University of New York Press, 1997.
 - Zahran, Hamed Abdel Salam. *Psychological Guidance and Counseling* (al-Tawjih wa al-Irshad al-Nafsi). Cairo: Alam al-Kutub, 1977.

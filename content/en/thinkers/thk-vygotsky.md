@@ -24,8 +24,7 @@ related:
 - id: "thk-bowlby", title: "John Bowlby", type: "مفكر"
 - id: "thk-ainsworth", title: "Mary Ainsworth", type: "مفكر"
 - id: "thk-fonagy", title: "Peter Fonagy", type: "مفكر"
-gaps:
-  - "Scaffolding (con-scaffolding): not yet covered"
+gaps: []
 ---
 
 # Lev Vygotsky

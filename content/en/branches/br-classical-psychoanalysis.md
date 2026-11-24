@@ -18,8 +18,7 @@ edges:
 related:
 - id: "thk-freud", title: "Sigmund Freud", type: "مفكر"
 - id: "thk-rank", title: "Otto Rank", type: "مفكر"
-gaps:
-  - "The distinction between classical clinical practice and contemporary psychiatry: not yet covered."
+gaps: []
 ---
 # Classical Freudian Psychoanalysis
 
@@ -31,7 +30,14 @@ Classical psychoanalysis rests on the hypothesis that human behavior, feelings, 
 
 ## Classical Clinical Practice
 
-The classical analytic session is built on the rule of free association (Free Association), in which the client lies on the couch without direct face-to-face contact with the analyst, to facilitate the emergence of unconscious material. Treatment relies on the analysis of dreams, the client's resistances, and the interpretation of the phenomena of transference (Transference) and countertransference (Countertransference), the discharge of emotional charges, and the rebuilding of insight through the ongoing process of analytic work (Working-through).
+The classical analytic session is built on the rule of free association, in which the client lies on the couch without direct face-to-face contact with the analyst, to facilitate the emergence of unconscious material. Treatment relies on the analysis of dreams, the client's resistances, and the interpretation of the phenomena of transference and countertransference, the discharge of emotional charges, and the rebuilding of insight through the ongoing process of analytic working-through.
+
+## Classical Psychoanalysis and Contemporary Psychiatry
+
+Classical psychoanalysis and contemporary mainstream psychiatry diverge fundamentally in theoretical orientation, diagnostic aims, and clinical setting:
+- **Etiological Focus vs. Syndromic Classification**: Classical analysis interprets psychological suffering through intrapsychic conflict, defensive compromise, and early childhood developmental dynamics; symptoms are regarded as meaningful symbolic expressions of repressed distress. In contrast, contemporary clinical psychiatry relies primarily on descriptive, syndromic taxonomies (such as DSM-5-TR and ICD-11) and biopsychosocial or neurochemical models, prioritizing symptom criteria over unobservable mental mechanisms.
+- **Therapeutic Objectives**: Where classical psychoanalysis aims for structural personality reorganization, depth of self-insight, and the resolution of transference neurosis, contemporary psychiatric care emphasizes symptomatic stabilization, risk management, and functional restoration.
+- **Treatment Setting and Modality**: The classical analytic format requires an intensive, long-term commitment (typically 3 to 5 weekly sessions over multiple years using the couch and non-directive free association). Contemporary psychiatry operates predominantly through short-term outpatient consultations, psychopharmacological management, and manualized, time-limited modalities (such as cognitive-behavioral therapy or brief psychodynamic therapy), reserving classical psychoanalysis as a specialized elective path.
 
 ## Its Place in the Atlas Network
 
@@ -55,3 +61,4 @@ The Vienna Psychoanalytic Society was founded in 1908, growing out of informal m
 - Freud, Sigmund. *The Interpretation of Dreams*. Franz Deuticke, 1900.
 - Freud, Sigmund. *The Ego and the Id*. Hogarth Press, 1923.
 - Gay, Peter. *Freud: A Life for Our Time*. W. W. Norton, 1988.
+- Shedler, Jonathan. "The Efficacy of Psychodynamic Psychotherapy." *American Psychologist*, 65(2), 2010, pp. 98–109.

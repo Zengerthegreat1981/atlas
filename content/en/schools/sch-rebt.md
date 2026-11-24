@@ -38,15 +38,25 @@ Ellis founded the Institute for Rational Living in New York in 1959 (later the I
 
 REBT rests on the principle that unhealthy psychological suffering does not arise from direct events (A) but from the beliefs and irrational beliefs (B) that the individual adopts about those events, which produce undesirable emotional and behavioral consequences (C). This formulation, known as the ABC model, is regarded as the cornerstone of the model, and Ellis set it out in his book *Reason and Emotion in Psychotherapy* (1962).
 
-Ellis holds that the core of psychological illness lies in "demandingness" (Demandingness), that is, turning natural desires into absolute and rigid demands. Among the most prominent irrational beliefs he identified (paraphrased):
+Ellis holds that psychological disturbance stems primarily from dogmatic "demandingness"—the cognitive transformation of preferences, wishes, and desires into absolute, rigid demands ("musts," "shoulds," and "oughts"). From demandingness, Ellis derived three major secondary irrational processes:
 
-- I must have the love and approval of every significant person in my life.
-- I must be thoroughly competent in everything I do.
-- Others must always treat me fairly and kindly.
+1. **Awfulizing / Catastrophizing:** evaluating negative events as 100% bad or worse than they should be.
+2. **Low Frustration Tolerance (LFT):** the belief that one cannot survive, tolerate, or experience any happiness under discomfort or adversity ("I-can't-stand-it-itis").
+3. **Depreciation / Global Rating:** rating the total worth of oneself, others, or life based on discrete actions or outcomes (self-downing, other-downing, or life-downing).
+
+Ellis summarized these into three core categories of absolute demands:
+- Demands toward oneself: "I must perform well and win the approval of significant others, or else I am incompetent and unworthy."
+- Demands toward others: "Others must treat me considerately, kindly, and fairly, or else they are terrible people who deserve punishment."
+- Demands toward the world or circumstances: "Conditions must be comfortable, easy, and hassle-free, or else life is unbearable."
 
 ## The Clinical Method
 
-REBT is distinguished by an active, directly didactic, and confrontational therapeutic style that relies on refutation and debate (Disputation) to challenge irrational beliefs and replace them with flexible rational beliefs. In the extended model this process is "D" (disputation), followed by "E" (an effective new philosophy) and "F" (new feelings and behaviors). The therapy aims to achieve "Unconditional Self-Acceptance" (USA), high frustration tolerance (High Frustration Tolerance, HFT), and unconditional acceptance of others and of reality. Unconditional self-acceptance means accepting oneself as a fallible human being without rating one's worth globally, in contrast to self-esteem that depends on performance or approval.
+REBT is characterized by an active-directive, educational, and philosophically grounded therapeutic style that relies on disputation (D) to challenge irrational beliefs and replace them with flexible, rational alternatives. Disputation employs logical, empirical, and functional arguments to foster an effective new cognitive philosophy (E) and new, healthy negative emotions and constructive behaviors (F). 
+
+Rather than pursuing conditional self-esteem based on achievement or social approval, REBT aims to cultivate three forms of unconditional acceptance:
+- **Unconditional Self-Acceptance (USA):** accepting oneself unconditionally as a complex, fallible human being while rating only specific actions and traits rather than one's total personhood.
+- **Unconditional Other-Acceptance (UOA):** accepting others as fallible humans while rejecting their abusive or unjust behaviors without global damnation.
+- **Unconditional Life-Acceptance (ULA):** accepting reality as it is, maintaining high frustration tolerance (HFT) even when circumstances are frustrating or difficult to change.
 
 ## The Evidence and Position in the Field of Psychotherapy
 

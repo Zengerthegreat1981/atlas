@@ -18,8 +18,7 @@ edges:
 related:
 - id: "sch-existentialism", title: "Existentialism", type: "مدرسة"
 - id: "con-will-to-power", title: "The Will to Power (Wille zur Macht)", type: "مفهوم"
-gaps:
-  - "The relation to philosophical anarchism: not yet covered"
+gaps: []
 ---
 
 # Atheist Existentialism
@@ -56,6 +55,10 @@ The two were friends from 1943-44, when Camus's *The Stranger* had drawn Sartre'
 - **Beauvoir**: she linked feminism to a structural analysis of oppression, and kept her independence from party discipline.
 - **Merleau-Ponty**: in *Humanism and Terror* (1947) he discussed the logic of revolution and violence among the Communists, then moved away from Marxism in *Adventures of the Dialectic* (1955).
 - **Camus**: he defended a revolt limited in its means that refuses killing in the name of history.
+
+## Atheist Existentialism and Philosophical Anarchism
+
+Atheist existentialism shares significant theoretical ground with philosophical anarchism, particularly in its radical rejection of external moral authority, sovereign hierarchy, and institutional coercion. Sartre’s ontological claim that the human being is "condemned to be free" locates moral responsibility entirely in the individual agent, denying the legitimacy of state dictates, naturalized social roles, or bourgeois legalism. While Sartre engaged closely with Marxism from the 1950s onward, he consistently rejected bureaucratic party authoritarianism and Soviet statism. In his late life (notably in his 1975 interviews), Sartre explicitly characterized his political stance as libertarian and anarchist, declaring that he had always been an anarchist in his fundamental mistrust of state sovereignty and hierarchical power. Similarly, Simone de Beauvoir’s critique of patriarchal and institutional domination, and Albert Camus’s defense of non-dogmatic rebellion against state violence and ideological terror, aligned existentialist ethics closely with libertarian socialist and anarcho-syndicalist traditions.
 
 ## Arab Reception
 

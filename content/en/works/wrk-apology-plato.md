@@ -56,4 +56,4 @@ The text of the *Apology* has not come down to us in a known early Arabic transl
 
 - Plato, *Apology*, in *Platonis Opera*, vol. 1, ed. John Burnet, Clarendon Press, Oxford, 1900.
 - Thomas C. Brickhouse and Nicholas D. Smith, *Socrates on Trial*, Princeton University Press, Princeton, 1989.
-- Xenophon, *Apology of Socrates to the Jury*, a contemporary comparative text presenting a different picture of Socrates' defense.
+- Xenophon. *Apology* (*Apologia Socratis*). In *Xenophon in Seven Volumes*, vol. 4, translated by O. J. Todd. Cambridge, MA: Harvard University Press, 1923.

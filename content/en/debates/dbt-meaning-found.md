@@ -2,7 +2,7 @@
 slug: "dbt-meaning-found"
 id: "DBT-0303"
 type: "جدل"
-part: philosophy
+part: "philosophy"
 level: ""
 title: "Discovered or Created?"
 en: "Discovered or created?"
@@ -13,7 +13,7 @@ related:
   - id: "br-logotherapy", title: "Logotherapy & Existential Analysis", type: "تيار"
   - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
   - id: "dbt-evidence", title: "Should We Demand Empirical Evidence?", type: "جدل"
-gaps:[]
+gaps: []
 ---
 
 # Discovered or Created?

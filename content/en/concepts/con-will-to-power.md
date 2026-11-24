@@ -54,7 +54,7 @@ Interpreters disagree about the status of the doctrine. Martin Heidegger, in his
 
 ## Critique of the Will to Power
 
-- **Schopenhauer**: the will (Wille) is a blind and irrational striving that ought to be denied (`con-will-to-live-schopenhauer`). Nietzsche was at first deeply influenced by him and later rejected his pessimism, turning the will toward affirmation and self-overcoming.
+- **Schopenhauer**: the will (Wille) is a blind and irrational striving that ought to be denied (the will to live). Nietzsche was at first deeply influenced by him and later rejected his pessimism, turning the will toward affirmation and self-overcoming.
 - **Heidegger**: sees in it the final form of the modern will to will, a critique of Nietzsche as the last metaphysician.
 - **Critics of the empirical status**: if it is meant as a universal explanation of all behaviour, it risks being unfalsifiable.
 

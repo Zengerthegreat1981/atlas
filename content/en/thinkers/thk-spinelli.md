@@ -2,12 +2,16 @@
 slug: "thk-spinelli"
 id: "THK-0114"
 type: "مفكر"
-part: psychology
+part: "psychology"
 level: "متوسط"
 title: "Ernesto Spinelli"
 en: "Ernesto Spinelli"
-crumb: "Existential Psychotherapy ← People ← Ernesto Spinelli"
-dates: "Britain"
+crumb: "Psychology ← Thinkers ← Ernesto Spinelli"
+dates: "United Kingdom / Italy · 1949–"
+country: "United Kingdom"
+language: "English"
+active_start: 1989
+active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
@@ -19,44 +23,52 @@ gaps: []
 
 # Ernesto Spinelli
 
-Ernesto Spinelli is an Italian-born British existential psychotherapist and psychologist, a leading figure of phenomenological existential therapy in Britain and long associated with Regent's University London. He is the objector from within: he objects to his colleagues with the same argument they use to object to the Americans.
+Ernesto Spinelli (born 1949) is an Italian-born British existential psychotherapist, chartered psychologist, and author. A prominent faculty member and former head of the School of Psychotherapy and Counselling at Regent's University London, Spinelli is one of the leading theorists of contemporary relational existential psychotherapy and phenomenological psychology in the United Kingdom. Within the British existential school, Spinelli has frequently occupied the role of the radical internal critic—challenging therapeutic orthodoxies and structural frameworks with the same rigorous phenomenological skepticism that existentialists historically directed against classical psychoanalysis and cognitive psychology.
 
-## Context
+## Context and Lineage
 
-Spinelli belongs to the British school of existential therapy that took shape in the 1970s and 1980s, influenced by R. D. Laing and open to phenomenological and existential philosophy (Husserl, Heidegger, Merleau-Ponty, Sartre). It occupied a middle position between the European tradition of Binswanger and Boss and the American existential therapy of May and Yalom. Spinelli worked on a bridge between the philosophical phenomenological method and clinical work, and contributed to the training of existential therapists in Britain and to the scholarly debate about the school.
+Spinelli belongs to the British existential tradition that emerged in the 1970s and 1980s under the influence of R. D. Laing, the Philadelphia Association, and continental phenomenology (Edmund Husserl, Martin Heidegger, Maurice Merleau-Ponty, and Jean-Paul Sartre). Situated between European phenomenological psychiatry (Ludwig Binswanger, Medard Boss) and the American existential-humanistic therapy of Rollo May and Irvin Yalom, Spinelli sought to ground clinical practice in a strict application of the descriptive phenomenological method.
 
-## His Thesis
+## Core Philosophical and Clinical Principles
 
-Therapy is entirely relational: what happens between the two parties here and now is the material, not a general structure that is applied. The human being is relational, not existing first and then entering relationships; the person and their world are shaped through relatedness. The therapist's task is therefore not to interpret the client or correct their thinking but to open a space in which experience can be described as it appears, to client and therapist, in the encounter itself.
+### The Relational Nature of Being
+Spinelli's foundational premise is that human existence is fundamentally and inescapably relational (*being-in-the-world-with-others*). In his view, human beings do not exist as isolated, self-contained entities that subsequently enter into relationships; rather, self and world are co-constituted continually through ongoing relational encounters. Consequently, therapy is not a procedure applied by an expert to an autonomous patient, but a lived relational encounter occurring between two experiencing persons in the "here-and-now."
 
-## The Phenomenological Method
+### The Phenomenological Method in Clinical Practice
+In *The Interpreted World* (1989), Spinelli translated philosophical phenomenology into three practical therapeutic guidelines:
+1. **The Rule of Epoché (Bracketing)**: The therapist suspends all initial preconceptions, theoretical diagnostics, and personal judgments, striving to meet the client's experience afresh.
+2. **The Rule of Description**: The therapist focuses on describing *how* experiences present themselves immediately rather than theorizing or interpreting *why* they occurred.
+3. **The Rule of Horizontalization (Equalization)**: The therapist treats all aspects of the client's initial narrative with equal potential significance, avoiding the premature hierarchical ranking of thoughts, symptoms, or sensations.
 
-In *The Interpreted World* (1989) he presents the phenomenological method as a set of rules: setting aside preconceptions (the epoché), describing before explaining, and treating all elements of experience equally rather than ranking them in advance. Each person lives in an "interpreted world" built from meanings that have settled out of the past; therapy brings this sedimentation to light, not to refute it but to show that it is not the only possible one. In *Tales of Un-knowing* (1997) he presents therapeutic encounters in a literary spirit, showing a therapist giving up the assumptions of the expert.
+In *Tales of Un-knowing* (1997), Spinelli illustrated how adopting an attitude of "un-knowing"—relinquishing the role of the knowing expert—creates the necessary clinical openness for novel meanings to emerge.
 
-## His Objection
+### Critique of Structural Models
+Spinelli famously critiqued ready-made structural maps within existential psychotherapy, including Emmy van Deurzen's influential model of the four existential dimensions (physical, social, personal, and spiritual). While acknowledging their educational utility, Spinelli argued in *The Mirror and the Hammer* (2001) that imposing universal existential themes (such as death, meaninglessness, or isolation) risks transforming descriptive phenomenology into another dogmatic theoretical structure. For Spinelli, existential therapy is defined not by fixed existential content, but by a radical, process-oriented stance of presence, descriptive inquiry, and openness to uncertainty.
 
-Even the "four dimensions of existence" is a structure imposed on experience. Emmy van Deurzen's framework in the British school, set out in *Existential Counselling in Practice* (1988), is useful for teaching, he argues, but turns phenomenology from a descriptive method into a ready-made map. Fidelity to the method means the therapist drops even existential frameworks when sitting with a person; existential therapy is distinguished not by content (death, freedom, isolation, meaning) but by a stance of attending to what appears. In *The Mirror and the Hammer* (2001) he challenged what he called therapeutic orthodoxy across schools, including the existential one.
+### Three Realms of Therapeutic Encounter
+In *Practising Existential Therapy: The Relational World* (2007; 2nd ed. 2015), Spinelli organized relational therapeutic work around three shifting foci:
+- **The I-Focus**: The client's direct, subjective exploration of their sedimented sense of self.
+- **The You-Focus**: How the client constructs, experiences, and responds to others.
+- **The We-Focus**: The immediate, lived relational dynamic unfolding between therapist and client within the consulting room.
 
-## What Follows from This
+## Reception and Critique
 
-An almost complete rejection of any classification, and of any therapeutic goal set in advance, and an emphasis on uncertainty as a professional stance rather than a deficiency. In *Practising Existential Therapy: The Relational World* (2007) he sets out the consequences for meeting the client, assessment and diagnosis, and treats therapeutic presence as an ethical act first. *Questions and Answers in Existential Psychotherapy* (2015) explains these positions directly to practitioners.
-
-## The Objection to Him
-
-That a position this extreme makes systematic training almost impossible, and turns the school into an individual art that cannot be transmitted. Critics add that the absence of any goal or criterion of assessment leaves the trainee without reference, and that dense phenomenological language puts the books at a distance from the non-specialist. Empirical evidence for existential therapy generally, and for this version in particular, is thinner than for structured therapies, and Spinelli has often rejected the logic of standardised outcome studies because it imposes a classification on the encounter in advance.
-
-## Related Concepts
-
-The British current, the dispute over structures, relatedness, the epoché, uncertainty, Hans Cohn, Emmy van Deurzen.
+Spinelli's radical commitment to uncertainty and relational presence has exerted a profound influence on existential psychotherapy training throughout Europe and internationally. However, critics have argued that his rejection of predetermined goals, diagnostic frameworks, and manualized techniques makes empirical outcome research difficult and may leave novice practitioners without concrete clinical compasses. Spinelli maintains that standardized outcome studies, by imposing predetermined categories of distress and health, violate the phenomenological essence of the clinical encounter.
 
 ## Major Works
 
-The Interpreted World: An Introduction to Phenomenological Psychology (1989) · Demystifying Therapy (1994) · Tales of Un-knowing: Therapeutic Encounters from an Existential Perspective (1997) · The Mirror and the Hammer (2001) · Practising Existential Therapy: The Relational World (2007) · Questions and Answers in Existential Psychotherapy (2015)
+- *The Interpreted World: An Introduction to Phenomenological Psychology* (1989; 2nd ed. 2005)
+- *Demystifying Therapy* (1994)
+- *Tales of Un-knowing: Therapeutic Encounters from an Existential Perspective* (1997)
+- *The Mirror and the Hammer: Challenges to Therapeutic Orthodoxy* (2001)
+- *Practising Existential Therapy: The Relational World* (2007; 2nd ed. 2015)
+- *Questions and Answers in Existential Psychotherapy* (2015)
 
 ## Sources
 
-- Spinelli, E. (1989). *The Interpreted World: An Introduction to Phenomenological Psychology*. Sage.
-- Spinelli, E. (1994). *Demystifying Therapy*. Constable.
+- Spinelli, E. (1989). *The Interpreted World: An Introduction to Phenomenological Psychology*. Sage Publications.
 - Spinelli, E. (1997). *Tales of Un-knowing: Therapeutic Encounters from an Existential Perspective*. Duckworth.
-- Spinelli, E. (2007). *Practising Existential Therapy: The Relational World*. Sage.
-- van Deurzen-Smith, E. (1988). *Existential Counselling in Practice*. Sage.
+- Spinelli, E. (2001). *The Mirror and the Hammer: Challenges to Therapeutic Orthodoxy*. Continuum.
+- Spinelli, E. (2015). *Practising Existential Therapy: The Relational World* (2nd ed.). Sage Publications.
+- van Deurzen, E. (1988). *Existential Counselling in Practice*. Sage Publications.
+- Cohn, H. W. (1997). *Existential Thought and Therapeutic Practice: An Introduction to Existential Psychotherapy*. Sage Publications.

@@ -14,36 +14,61 @@ reliability: "High internal consistency (Cronbach's alpha = 0.87) and test-retes
 validity_note: "Concurrent and construct validity documented across hundreds of studies and cultures with measures of subjective well-being and positive affect"
 psychometric_standing: "established"
 part: "psychology"
+edges: []
 related:
 - id: "stu-harvard-adult-development", title: "The Harvard Study of Adult Development and the Development of Happiness and Relationships across the Lifespan", type: "دراسة وبحث"
-gaps:
-  - "Use in national and international well-being surveys: not yet covered"
-  - "Standardization of Arabic versions: not yet covered"
+gaps: []
 ---
-
 
 # Satisfaction with Life Scale (SWLS)
 
-A brief and extremely well-known self-report questionnaire of only 5 items designed to measure an individual's global cognitive evaluation of satisfaction with the whole course of his life. It was designed by Ed Diener together with Robert Emmons, Randy Larsen and Sharon Griffin, and was published in 1985, based on samples that included university students and older adults in the United States.
+The Satisfaction with Life Scale (SWLS) is a 5-item self-report instrument designed to assess global cognitive judgments of an individual's life satisfaction. Developed by Ed Diener, Robert A. Emmons, Randy J. Larsen, and Sharon Griffin in 1985, it is one of the most widely cited and utilized psychometric measures in positive psychology and subjective well-being research.
 
-## Structure and psychometric properties
+## Theoretical Foundations and Structure
 
-The scale consists of 5 general, open statements (such as: 'In most ways my life is close to my ideal,' 'The conditions of my life are excellent,' 'I am satisfied with my life,' 'So far I have gotten the important things I want in life,' 'If I could live my life over, I would change almost nothing'). It is scored from 1 (strongly disagree) to 7 (strongly agree), with a total score of 5-35. It has excellent internal consistency reliability (alpha = 0.87) and test-retest reliability of 0.82, with construct validity supported by many studies in numerous countries.
+In his tripartite model of subjective well-being (SWB), Ed Diener conceptualized well-being as comprising three distinct components:
+1. Frequent positive affect
+2. Infrequent negative affect
+3. A global cognitive evaluation of life satisfaction
 
-## Clinical and research use
+While affective components fluctuate dynamically in response to daily events, life satisfaction represents a conscious, reflective cognitive evaluation based on the respondent's own chosen criteria.
 
-The scale is one of the most widely used measures of life satisfaction in positive psychology research and in surveys of quality of life, and it is also used as an outcome measure in intervention studies.
+The SWLS consists of five statements:
+1. "In most ways my life is close to my ideal."
+2. "The conditions of my life are excellent."
+3. "I am satisfied with my life."
+4. "So far I have gotten the important things I want in life."
+5. "If I could live my life over, I would change almost nothing."
 
-## Limitations and criticism
+Respondents rate each item on a 7-point Likert scale ranging from 1 ("strongly disagree") to 7 ("strongly agree"). The total score ranges from 5 to 35.
 
-It measures the general cognitive evaluation and does not measure momentary emotional fluctuations and daily emotions (which require supporting measures such as the PANAS), and its extreme brevity (5 items) limits its ability to distinguish subdimensions of life satisfaction. It is also criticized for relying on a global, abstract judgment ("my life" as a whole) that may be affected by the examinee's momentary mood at the time of administration more than by a stable, long-term objective evaluation, which led some researchers to prefer always combining it with complementary mood measures for precise interpretation.
+## Scoring and Interpretation
 
-## Impact and spread
+Standard clinical and research benchmark bands established by William Pavot and Ed Diener (1993) categorize cumulative scores as:
+- **30–35**: Highly satisfied (individuals view life as progressing exceptionally well across major domains)
+- **25–29**: Satisfied (general contentment with most areas, with minor areas open to improvement)
+- **20–24**: Slightly satisfied / average (reflects a normative baseline score in general community samples)
+- **15–19**: Slightly dissatisfied (mild, persistent dissatisfaction with significant life areas)
+- **10–14**: Dissatisfied (substantial discontent with current life circumstances)
+- **5–9**: Extremely dissatisfied (profound distress regarding life conditions)
 
-The scale has been translated into many languages and is among the most cited measures of subjective well-being in the scientific literature, and it is used as a complementary cognitive indicator to affect measures (such as the PANAS) within the "global subjective well-being" model in which Ed Diener distinguished between the cognitive component (general life satisfaction) and the affective component (the balance of positive and negative emotions) of happiness.
+## Psychometric Properties and Arabic Standardization
+
+The SWLS exhibits high psychometric stability across diverse cultural contexts. Cronbach's alpha coefficients routinely fall between 0.85 and 0.89 in normative adult and student samples. Test-retest reliability is notable, maintaining stability coefficients of r = 0.82 over two-month intervals and r = 0.54 over four-year longitudinal follow-ups.
+
+The scale has been adapted and standardized extensively in the Arab world. Psychometric evaluations led by Ahmed Abdel-Khalek (2001, 2006) and other researchers across Egypt, Kuwait, Algeria, and Jordan verified its unidimensional factor structure through confirmatory factor analysis. The Arabic SWLS displays strong internal consistency (alphas typically between 0.79 and 0.86), high test-retest reliability, and substantial positive correlations with self-esteem, optimism, and intrinsic religiosity.
+
+## National Well-Being Surveys and Macro-Level Research
+
+Beyond individualized clinical and academic studies, the SWLS is routinely deployed in large-scale national and international sociological surveillance programs, including the World Values Survey (WVS), the Gallup World Poll, OECD Better Life initiatives, and the Midlife in the United States (MIDUS) study. By providing a quantifiable cognitive metric of perceived life quality, the SWLS enables economists and public policy analysts to evaluate societal flourishing and psychological health alongside traditional macroeconomic metrics such as Gross Domestic Product (GDP).
+
+## Limitations
+
+Because the SWLS measures an abstract cognitive judgment across life as a whole, responses can be influenced by transient contextual factors, such as acute situational stress or weather. Additionally, its brevity precludes analyzing domain-specific satisfaction (such as career, health, or interpersonal relationships), requiring complementary domain-specific instruments when granular detail is required.
 
 ## Sources
 
-- Ed Diener, Emmons, Larsen & Griffin, "The Satisfaction with Life Scale", Journal of Personality Assessment, 49, 71-75, 1985.
-- Ed Diener, "Subjective Well-Being", Psychological Bulletin, 95, 542-575, 1984.
-- William Pavot & Ed Diener, "Review of the Satisfaction with Life Scale", Psychological Assessment, 5, 164-172, 1993.
+- Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. *Journal of Personality Assessment*, 49(1), 71–75.
+- Diener, E. (1984). Subjective well-being. *Psychological Bulletin*, 95(3), 542–575.
+- Pavot, W., & Diener, E. (1993). Review of the Satisfaction with Life Scale. *Psychological Assessment*, 5(2), 164–172.
+- Abdel-Khalek, A. M. (2006). Measuring happiness with a single-item scale. *Social Behavior and Personality*, 34(2), 139–150.

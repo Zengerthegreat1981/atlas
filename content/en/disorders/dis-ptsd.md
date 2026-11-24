@@ -8,7 +8,7 @@ title: "Post-Traumatic Stress Disorder (PTSD)"
 en: "Post-Traumatic Stress Disorder (PTSD)"
 crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Post-Traumatic Stress Disorder (PTSD)"
 dates: null
-active_start: null
+active_start: 1980
 active_end: "مستمر"
 dsm5tr_code: "F43.10"
 icd11_code: "6B40"

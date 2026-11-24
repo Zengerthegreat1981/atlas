@@ -15,8 +15,7 @@ part: "psychology"
 edges: []
 related:
 - id: "con-sadness", title: "Sadness", type: "مفهوم"
-gaps:
-  - "Prevalence rates of BD-I in the Arab region and in non-Western contexts: not yet covered."
+gaps: []
 ---
 
 # Bipolar I Disorder
@@ -48,7 +47,7 @@ ICD-11 classifies bipolar type I disorder under 6A60 (bipolar type II is 6A61) a
 
 ## The Clinical Ceiling
 
-This entry, like all entries of the type 'Disorder/Clinical Condition,' is committed to describing the diagnostic category descriptively without offering any direct diagnostic assessment to the reader or individual treatment guidance: description, not diagnosis or treatment. The treatment stages and medications mentioned above are a summary of the general literature, not a substitute for direct clinical assessment by a specialist.
+This entry, like all entries of the type 'Disorder/Clinical Condition,' is committed to describing the diagnostic category descriptively without offering any direct diagnostic assessment to the reader or individual treatment guidance: description, not diagnosis or treatment. The treatment stages and medications outlined below are a summary of the general literature, not a substitute for direct clinical assessment by a specialist.
 
 ## The Relation to the Corresponding Philosophical Concept
 
@@ -134,10 +133,11 @@ One must not confuse the manic and depressive episodes in BD-I, as diagnostic ca
 - **Personality disorders**: especially borderline personality (a known diagnostic overlap).
 - **Medical disorders**: obesity, diabetes, cardiovascular disease (partly related to lifestyle and to some long-term medications).
 
-## Cultural Notes
+## Cultural and Epidemiological Context
 
-- Reported rates of BD-I vary across cultures, which may reflect actual differences or differences in access to diagnosis.
-- In Arab contexts, many BD-I patients are interpreted as "nerves," "possession," or "the evil eye," which delays the correct diagnosis.
+- Reported rates of BD-I vary across cultures, which may reflect actual differences or differences in access to diagnosis. Epidemiological surveys from the WHO World Mental Health Survey Initiative report a pooled lifetime prevalence of BD-I of approximately 0.6% across diverse international settings (Merikangas et al., 2011).
+- In Arab and Middle Eastern populations, community surveys (e.g., Karam et al., 2006) indicate lifetime prevalence rates broadly consistent with international benchmarks (approximately 0.5% to 1.0%), though formal epidemiological studies remain relatively limited across the region.
+- In Arab contexts, acute affective episodes are frequently conceptualized through cultural idioms of distress, such as "nerves" (*a'sab*), or attributed to spiritual causes such as "possession" or "the evil eye," which may delay psychiatric evaluation.
 - The psychotic symptoms accompanying mania may be interpreted culturally as "spiritual experiences," especially in religious contexts, which impedes treatment.
 - Women are usually diagnosed with more depressive episodes than men, although BD-I is equally prevalent between the sexes.
 
@@ -164,5 +164,6 @@ One must not confuse the manic and depressive episodes in BD-I, as diagnostic ca
 - American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. APA.
 - World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
 - Goodwin, F. K., & Jamison, K. R. (2007). *Manic-Depressive Illness: Bipolar Disorders and Recurrent Depression* (2nd ed.). Oxford University Press.
+- Karam, E. G., et al. (2006). Lifetime prevalence of mental disorders in Lebanon: First onset, treatment, and exposure to war. *PLOS Medicine*, 3(10), e400.
 - Miklowitz, D. J. (2019). *The Bipolar Disorder Survival Guide* (3rd ed.). Guilford Press.
 - Merikangas, K. R., Jin, R., He, J.-P., et al. (2011). Prevalence and correlates of bipolar spectrum disorder in the World Mental Health Survey Initiative. *Archives of General Psychiatry*, 68(3), 241-251.

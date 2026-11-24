@@ -16,8 +16,7 @@ main_finding: "Those who received only one dollar for lying about the task's enj
 replication_status: "replicated"
 related:
 - id: "con-cognitive-dissonance", title: "Cognitive Dissonance", type: "مفهوم"
-gaps:
-  - "Cultural variation in dissonance effects: not yet covered"
+gaps: []
 ---
 
 
@@ -41,9 +40,15 @@ Daryl Bem (1967) opposed this interpretation with 'Self-Perception Theory,' prop
 
 Leon Festinger built the experiment on his broader theory, published in 1957 in the book *A Theory of Cognitive Dissonance*, which assumed that individuals seek a state of internal consistency between their beliefs and their behavior, and that any contradiction between them generates psychological tension that drives a change in one of the two sides, usually the belief, because the behavior has already occurred and cannot be undone. The "one dollar versus twenty dollars" experiment became the reference experimental model of cognitive dissonance, and hundreds of studies branched from it in the fields of persuasion, propaganda, consumer decisions, and the justification of difficult choices (as in studies of post-decision justification when choosing between alternatives of similar attractiveness). Despite the continuing theoretical controversy between the dissonance and self-perception explanations, later work (for example Fazio, Zanna, and Cooper, 1977) suggested that both processes can operate: self-perception when the original attitude is weak or ambiguous, and dissonance when the behavior clearly conflicts with a firmly held attitude.
 
+## Cultural Variation in Dissonance Effects
+
+Subsequent cross-cultural research examined whether the psychological discomfort of cognitive dissonance and the resulting attitude change are universal or culturally moderated. Cross-cultural psychologists (notably Steven Heine and Darrin Lehman, 1997; Shinobu Kitayama and colleagues, 2004) demonstrated that standard dissonance effects (such as the spreading of alternatives following a difficult decision) are pronounced among Western individuals with an independent self-construal, who prioritize internal consistency. In contrast, in East Asian interdependent cultural contexts, dissonance arousal depends heavily on social context and interpersonal cues. Participants in interdependent cultures show little dissonance when choices are private and autonomous, but exhibit substantial dissonance and attitude change when social observation, peer expectation, or potential interpersonal disharmony is made salient.
+
 ## Sources
 
 - Festinger, L., & Carlsmith, J. M. (1959). Cognitive consequences of forced compliance. *Journal of Abnormal and Social Psychology, 58*(2), 203-210.
 - Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
 - Bem, D. J. (1967). Self-perception: An alternative interpretation of cognitive dissonance phenomena. *Psychological Review, 74*(3), 183-200.
 - Fazio, R. H., Zanna, M. P., & Cooper, J. (1977). Dissonance and self-perception: An integrative view of each theory's proper domain of application. *Journal of Experimental Social Psychology, 13*(5), 464-479.
+- Heine, S. J., & Lehman, D. R. (1997). Culture, dissonance, and self-affirmation. *Personality and Social Psychology Bulletin, 23*(4), 389-400.
+- Kitayama, S., Snibbe, A. C., Markus, H. R., & Suzuki, T. (2004). Is there any free choice? Self and dissonance in two cultures. *Psychological Science, 15*(8), 527-533.

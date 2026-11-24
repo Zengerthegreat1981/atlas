@@ -2,7 +2,7 @@
 slug: "dbt-individualism"
 id: "DBT-0310"
 type: "جدل"
-part: philosophy
+part: "philosophy"
 level: ""
 title: "The Individualism Critique"
 en: "Individualism critique"
@@ -12,7 +12,7 @@ edges:
 related:
   - id: "thk-beauvoir", title: "Simone de Beauvoir", type: "مفكرة"
   - id: "br-british", title: "British Existential-Phenomenological", type: "تيار"
-gaps:[]
+gaps: []
 ---
 
 # The Individualism Critique

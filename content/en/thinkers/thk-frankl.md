@@ -2,7 +2,7 @@
 slug: "thk-frankl"
 id: "THK-0108"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Viktor Frankl: Will to Meaning"
 en: "Viktor Frankl"
@@ -48,12 +48,12 @@ This claim generates his most significant theological dispute with secular exist
 
 ## Signature Techniques: Paradoxical Intention and Dereflection
 
-Unlike most existential approaches, Frankl's logotherapy generated named, replicable procedures:
+Unlike most existential approaches, Frankl's logotherapy developed specific, clinically structured procedures:
 
-- **Paradoxical Intention** — Rather than fighting symptoms, one adopts them with ironic distance, which often dissolves their grip
-- **Dereflection** — Rather than obsessively analyzing one's psychological state, one redirects attention outward toward meaningful engagement
+- **Paradoxical Intention** — Rather than struggling against anticipatory anxiety or phobic symptoms, the individual intentionally confronts them with humorous or ironic detachment, reducing the self-reinforcing symptom cycle.
+- **Dereflection** — Rather than hyper-reflecting upon dysfunction or symptom mechanics (hyper-reflection), attention is redirected outward toward meaningful engagement, creative projects, or relationships.
 
-Unlike many existential approaches, logotherapy offered named, teachable procedures. This accessibility is both a strength (empirical testing is possible) and, for some critics, a liability (a risk of reductionism). These are descriptions of the approach, not instructions for self-treatment.
+This clinical structure provided logotherapy with operationalized techniques suitable for empirical study, while also drawing critique from existential purists who cautioned against procedural reductionism. These are descriptions of therapeutic modalities, not instructions for self-treatment.
 
 ## Criticisms and Tensions
 

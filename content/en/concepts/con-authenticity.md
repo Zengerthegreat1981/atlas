@@ -2,7 +2,7 @@
 slug: "con-authenticity"
 id: "CON-0407"
 type: "مفهوم"
-part: psychology
+part: "psychology"
 level: "متوسط"
 title: "Authenticity (Existentialist School View)"
 en: "Authenticity (Existentialist School View)"
@@ -13,70 +13,75 @@ related:
   - id: "con-authenticity-inauthenticity", title: "Authenticity-Inauthenticity Dialectic", type: "مفهوم"
   - id: "thk-heidegger", title: "Heidegger", type: "مفكر"
   - id: "thk-bugental", title: "Bugental", type: "مفكر"
-gaps:
-  - "Textual locations for each formulation: not yet covered"
+gaps: []
 ---
 
 # Authenticity (Existentialist School View)
 
-The most flattened concept in the school, reduced to a motivational slogan rather than a concept.
+Authenticity in existential psychotherapy is often oversimplified in popular culture as a motivational slogan—reduced to "being true to yourself" or unconstrained self-expression. In existential philosophy and clinical practice, however, authenticity is a rigorous structural concept: the process by which an individual consciously takes ownership of their existence, choices, and situated limits, rather than delegating them to anonymous collective convention.
 
-## Freeing the Concept
+## Conceptual Core
 
-Authenticity is not moral honesty, nor uniqueness, nor "be yourself." At its root it is this: that a person takes over their existence as their own, instead of living it on behalf of an anonymous someone.
+Authenticity is not moral perfection, social defiance, or essentialist uniqueness. At its foundation, it means taking up one's life as one's own responsibility (*Eigentlichkeit* / ownedness), acknowledging both the reality of one's freedom and the non-negotiable boundaries of facticity, rather than living on behalf of an unexamined, borrowed script.
 
-## Core Disagreements within the Concept
+## Core Disagreements within the School
 
-Two disagreements: is authenticity a **state that is reached** or a **continuing process**? And does a "true self" exist to be discovered at all? Van Deurzen and Spinelli deny that it does, and this undermines the common reading of the concept at its foundation.
+Two fundamental debates divide existential practitioners and theorists:
+1. **A permanent state versus an ongoing process**: Early continental formulations sometimes implied a decisive turn toward authentic resoluteness. Modern clinical existentialists, particularly James Bugental, emphasize that authenticity is a fluctuating, moment-to-moment degree of presence in the therapeutic and living situation, not a static achievement.
+2. **The existence of a "true self"**: Humanistic psychologies often presuppose an innate, positive self waiting to be discovered or self-actualized. In sharp contrast, existential authors such as Emmy van Deurzen and Ernesto Spinelli reject the notion of a reified inner core. For them, selfhood is relational, contextual, and perpetually emergent across physical, social, personal, and spiritual dimensions.
 
-## How It Appears in the Session
+## Clinical Manifestation in the Session
 
-The word is mostly not used in front of the client. The actual work: comparing what the person says matters to them with what shows in how they spend their time, money and energy. The gap between the two is the material.
+In clinical practice, the term "authenticity" is rarely invoked directly with clients, as doing so risks turning it into an external moral demand. The actual therapeutic work centers on:
+- Exploring the discrepancy between a person's professed values and the empirical realities of their calendar, finances, and relationships.
+- Noticing where the client disowns responsibility through deterministic language ("I had to," "That's just who I am").
+- Cultivating the client's courage to acknowledge genuine dilemmas where every available option carries cost and grief.
 
-## The Most Common Misunderstanding
+## Common Misunderstandings
 
-Turning it into "be yourself" or "follow your heart." The source says something far heavier: that you bear the fact that your life is your life, including what you did not choose.
+The most pervasive misconception equates authenticity with impulsive self-indulgence or dramatic life upheavals. Existential writers emphasize that authenticity carries genuine ontological weight: bearing the anxiety of non-being, accepting outcomes one did not anticipate, and owning chosen commitments even when they entail endurance and constraint.
 
-## Example and Counter-Example
+## Clinical Examples and Vignettes
 
-**Example:** A woman realizes after years that she chose her university major to please her family, not out of her own desire, and now works at living her next career decision, even if its impact is smaller, as the one who decides it, rather than as the voice she was used to silencing herself for. This is a work of authenticity in Bugental's sense: increasing presence at the moment of decision, not a radical overturning of her life.
+- **Constructive Engagement**: A professional realizes after years in corporate law that she selected her career entirely to satisfy parental expectations. Instead of making a reckless, destructive break, she deliberately examines her current agency, renegotiates her daily priorities, and accepts the financial and social trade-offs of transitioning into non-profit advocacy. In Bugental's terminology, this reflects increasing presence and intentionality at the point of choice.
+- **Counter-example (Defensive Pseudo-Authenticity)**: An individual abruptly abandons family and workplace obligations, proclaiming they are "finally being authentic" by following whim. Spinelli and van Deurzen point out that dramatic ruptures are frequently defensive flights from difficult interpersonal commitments disguised as liberation. What determines authenticity is not the radicalism of an action, but whether the person transparently acknowledges their motivations, consequences, and relational responsibilities.
 
-**Counter-example:** A person suddenly leaves a stable job and cuts off his relationship with his family and calls it "authenticity" because he "finally did what he wanted." But Spinelli and Van Deurzen reject precisely this use: there is no external standard that makes a radical break "authentic" in itself; what counts is comparing what the person says matters to them with what actually shows in their life, not the sharpness or noisiness of the act. Much of what is popularly marketed as authenticity is an escape from a difficult commitment disguised as liberation.
+## Cultural and Contextual Considerations
 
-## What Should Not Be Inferred from This Concept
+Classical European existential formulations (Heidegger, Sartre) emerged within Western individualist traditions that often frame conformity to social roles as a "fall" into anonymity. In collectivist, Arab, and traditional communal cultures, decisions are fundamentally embedded within family, kinship, and religious networks, where communal interdependence is a legitimate source of meaning, not an ontological deficiency.
 
-It **does not mean** that every abandonment of a commitment (marriage, work, family) is in itself evidence of authenticity; a break can be as inauthentic an escape as holding on can be. For Van Deurzen the criterion is the match between declared values and the lived life, not the direction of the act.
+Clinically, the existential question in communal contexts is not "Are you rejecting the group?" but rather "Are you consciously present in your commitments, whether individual or collective?" When a commitment to family or community is chosen with awareness and owned responsibility, it is fully authentic.
 
-It **also does not mean** that the therapist should encourage "authenticity" as a direct goal or use the word as a judgment on the client ("you are not authentic enough"). This turns a descriptive concept into a moral standard imposed from outside, which is exactly what Spinelli warns against, as a repetition of the error the concept aims to move beyond.
+## Key Textual Locations
 
-## The Arab and Cultural Context
+The core theoretical formulations of authenticity appear in several foundational texts:
+- **Martin Heidegger**: *Being and Time* (1927), Division I, Chapter 4 (§§25–27 on *das Man* and everyday falling), and Division II, Chapters 1–3 (§§46–60 on being-toward-death, the call of conscience, and resoluteness).
+- **Jean-Paul Sartre**: *Being and Nothingness* (1943), Part I, Chapter 2 ("Bad Faith"), and *Existentialism Is a Humanism* (1946).
+- **James F. T. Bugental**: *The Search for Existential Identity* (1976), and *The Art of the Psychotherapist* (1987), Part 3 (presence and the therapeutic encounter).
+- **Irvin D. Yalom**: *Existential Psychotherapy* (1980), Chapter 2 (death as an awakening experience) and Chapter 6 (freedom and responsibility).
+- **Emmy van Deurzen**: *Existential Counselling and Psychotherapy in Practice* (2002), Chapters 3–7 (mapping lived experience across the Umwelt, Mitwelt, Eigenwelt, and Überwelt).
+- **Ernesto Spinelli**: *Practising Existential Psychotherapy: The Relational World* (2007), Chapter 5 ("Focus on the Relational: Moving Beyond Authenticity as Internal State").
 
-The European formulations of authenticity (Heidegger, Sartre) were formed within a modern individualism that assumes the individual is the independent unit of decision, and that conforming to "the They" is a decline. In many Arab contexts the individual decision is woven structurally into a family, tribal and religious network that is not seen as a "fall" but as a source of identity and meaning legitimate in itself.
+## Comparative Overview
 
-This opens a real question: does Heidegger's rejection of "the They" apply with the same force to a society that sees the group as a value rather than a flaw? The responsible answer is neither to import the concept as it is nor to reject it, but the distinction Van Deurzen herself proposes: there is a difference between a commitment the person chooses knowingly and finds meaning in, and a commitment into which they are driven without awareness or choice, even if it looks as though they themselves chose it. The clinical question is not "do you conform to the group?" but "are you present in your decision, whether collective or individual?"
-
-Methodological note: much of the empirical literature on authenticity draws on Western individualist samples, and comparatively little work examines how the concept is lived or translated in Arab or other non-Western contexts; this is a research gap, not a marginal detail.
-
-## Comparative Table
-
-| Thinker | His exact formulation | What follows in the room | His disagreement with others |
+| Thinker | Core Formulation | Clinical Application | Critical Distinction |
 |---|---|---|---|
-| Heidegger | Authenticity is taking over one's existence. Its opposite is falling into "the They," where what is done is done and what is said is said with no agent. | The question: how much of this person's life do they live themselves, and how much does "the They" live in them? | Not a moral judgment for him; falling is a natural structure, not a fault. |
-| Sartre | Authenticity is to acknowledge my freedom and bear it instead of hiding in bad faith or in a ready-made social role. | Uncovering the roles the person wears to excuse themselves from choosing. | More moral than Heidegger. |
-| Bugental | Authenticity is a process, not a state. No one is always authentic; the matter is the amount of presence in the moment. | Working on presence within the session itself, moment by moment, not on a big life decision. | The most useful clinical formulation, and the closest to application. |
-| Yalom | Authenticity appears after confronting the ultimate concerns: whoever has faced their mortality finds it hard to go on living a borrowed life. | Using moments of awakening to bring about a review of priorities. | Makes it a result, not a direct goal. |
-| Van Deurzen | There is no "true self" to be discovered. Authenticity is a match between what you live across the four dimensions and what you say you value. | A practical comparison: your declared values against what shows in your time, money and relationships. | A direct response to the romantic reading of the concept. |
-| Spinelli | Even the concept of authenticity itself may become an imposed structure. What is required is describing what happens in the relationship, not measuring it against a standard. | Refraining from using "authentic" and "inauthentic" as a judgment in the session. | The sharpest objection to the concept from within the school. |
+| **Heidegger** | Authenticity (*Eigentlichkeit*) as owned existence; opposite is falling into *das Man* (the "They"). | Identifying how much of existence is lived deliberately versus dictated by anonymous collective habits. | Falling is an ontological structure of being-in-the-world, not a moral failure. |
+| **Sartre** | Acknowledging radical freedom; opposite is fleeing into bad faith (*mauvaise foi*). | Uncovering artificial roles and deterministic excuses used to evade choice. | Emphasizes personal lucidity, anguish (*angoisse*), and inescapable responsibility. |
+| **Bugental** | Authenticity as an ongoing process and capacity for therapeutic presence (*presence*). | Focusing on the client's moment-by-moment emotional and somatic presence in the consulting room. | Pragmatic, clinical focus on experiential immediacy rather than philosophical abstraction. |
+| **Yalom** | Authenticity provoked by confronting ultimate concerns: death, freedom, isolation, meaninglessness. | Utilizing awakening experiences (e.g., loss, illness) to reassess fundamental life priorities. | Views authenticity as the fruit of confronting existential anxiety rather than a primary technique. |
+| **van Deurzen** | Rejection of a fixed "true self"; authenticity is coherence across physical, social, personal, and spiritual dimensions. | Systematic inquiry into the alignment between professed values and practical living across world-dimensions. | Emphasizes paradox, unavoidable dilemma, and constructive engagement with limits. |
+| **Spinelli** | Critique of individualist authenticity; prioritizes relational worldview and intersubjective encounters. | Refraining from labeling clients "authentic" or "inauthentic"; attending to relational dynamics. | Relational challenge to essentialist and solitary models of selfhood. |
 
 ## Scope and Relation to Neighbouring Entries
 
-This entry presents how the existentialist school uses authenticity, including its disagreements and common misreadings. The companion entry focuses on the philosophical dialectic between authenticity and inauthenticity in Heidegger and Sartre.
+This entry examines the clinical application and internal debates surrounding authenticity in existential psychotherapy. For the technical philosophical dialectic between authenticity and inauthenticity in 20th-century phenomenology, see [[con-authenticity-inauthenticity]].
 
 ## Sources
 
-- Heidegger, M. (1927). *Being and Time*. Max Niemeyer.
-- Sartre, J.-P. (1943). *Being and Nothingness*. Gallimard.
-- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 - Bugental, J. F. T. (1987). *The Art of the Psychotherapist*. W. W. Norton.
-- van Deurzen, E. (2002). *Existential Counselling and Psychotherapy in Practice* (2nd ed.). Sage.
+- Heidegger, M. (1962). *Being and Time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row. (Original German work published 1927).
+- Sartre, J.-P. (1956). *Being and Nothingness: An Essay on Phenomenological Ontology* (H. E. Barnes, Trans.). Philosophical Library. (Original French work published 1943).
 - Spinelli, E. (2007). *Practising Existential Psychotherapy: The Relational World*. Sage.
+- van Deurzen, E. (2002). *Existential Counselling and Psychotherapy in Practice* (2nd ed.). Sage.
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

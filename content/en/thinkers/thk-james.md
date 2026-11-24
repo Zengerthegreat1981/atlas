@@ -9,7 +9,7 @@ en: "William James"
 crumb: "Psychology ← Thinkers ← William James"
 dates: "United States · 1842–1910"
 active_start: 1890
-active_end: 1907
+active_end: 1910
 country: "United States"
 language: "English"
 edges:
@@ -18,8 +18,7 @@ related:
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"
 - id: "con-time", title: "Time", type: "مفهوم"
 - id: "stu-wundt-leipzig-1879", title: "The Leipzig Laboratory 1879: The Founding of Experimental Psychology", type: "دراسة وبحث"
-gaps:
-  - "A sourced quotation from *The Principles of Psychology* (1890): not yet covered."
+gaps: []
 ---
 
 # William James
@@ -32,7 +31,11 @@ William James was born in New York on 11 January 1842 into a cultured family; hi
 
 ## What He Contributed
 
-**The Principles of Psychology (1890)**: a two-volume work that took twelve years and was published by Henry Holt. It contains the chapter "The Stream of Thought," which described consciousness as a continuous flow rather than a chain of separate elements, with "fringes" and a "specious present." He distinguished between the acting "I" and the known "Me," which includes the material, social, and spiritual selves. He also wrote an influential chapter on habit. This description is very close to Husserl's later description of the inner temporality of consciousness, and it is mentioned that Husserl read the *Principles* and appreciated its description, but the two developed their ideas largely independently.
+**The Principles of Psychology (1890)**: a two-volume work that took twelve years and was published by Henry Holt. It contains the chapter "The Stream of Thought," which described consciousness as a continuous flow rather than a chain of separate elements, with "fringes" and a "specious present." As James famously wrote (1890, Vol. 1, p. 239):
+
+> "Consciousness, then, does not appear to itself chopped up in bits... It is nothing jointed; it flows. A 'river' or a 'stream' are the metaphors by which it is most naturally described. In talking of it hereafter, let us call it the stream of thought, of consciousness, or of subjective life."
+
+He distinguished between the acting "I" and the known "Me," which includes the material, social, and spiritual selves. He also wrote an influential chapter on habit. This description is very close to Husserl's later description of the inner temporality of consciousness, and it is mentioned that Husserl read the *Principles* and appreciated its description, but the two developed their ideas largely independently.
 
 **The James-Lange theory of emotion**: James published the article "What Is an Emotion?" in the journal Mind in 1884, and the Dane Carl Lange put forward a similar conception in 1885: emotion is the perception of bodily change, not its cause, so we do not tremble because we are afraid but are afraid because we tremble. Walter Cannon criticized this theory in his article in the American Journal of Psychology in 1927 (and Philip Bard developed it), and Schachter and Singer presented the two-factor model in 1962, stressing the cognitive interpretation of arousal. Yet the question remained alive in research on bodily feedback, and in Antonio Damasio's "somatic markers."
 

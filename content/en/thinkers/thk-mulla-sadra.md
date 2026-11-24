@@ -16,8 +16,7 @@ edges:
 - rel: "belongs_to", target: "Transcendent Theosophy", target_type: "مدرسة"
 related:
 - id: "sch-transcendent-theosophy", title: "Transcendent Theosophy (Mulla Sadra)", type: "مدرسة"
-gaps:
-  - "Chronology of his late works: not yet covered"
+gaps: []
 ---
 
 # Mulla Sadra (Sadr al-Din Shirazi)
@@ -60,6 +59,15 @@ Sadrian thought was received in the religious seminaries, especially Najaf, wher
 
 His traditional opponents criticize his mixing of philosophy with gnostic intuition in a way that weakens demonstrative reasoning, and some moderns criticize him for being a closed metaphysical system that does not open onto the empirical sciences. Scholars observe that Sadrian language is dense with technical terms, so the reader needs the commentaries of Tabataba'i and Sabzawari to understand it.
 
+## Chronology of His Works and Late Period
+
+Scholars (such as Seyyed Hossein Nasr and Sajjad Rizvi) divide Mulla Sadra's intellectual output into three main phases: an early preparatory period of study in Isfahan under Mir Damad and Shaykh Baha'i (up to c. 1605); a prolonged middle phase of spiritual seclusion and philosophical formulation in Kahak near Qom (c. 1605–1620), during which the foundational drafts of the *Asfar* were composed; and a final mature teaching period in Shiraz at the Khan Madrasa (c. 1620 until his death in 1635/1636).
+
+His late Shiraz period witnessed the completion and refinement of his masterworks and a concentrated turn toward scriptural hermeneutics:
+- **Metaphysical syntheses**: He authored mature summaries of his system, notably *Al-Shawahid al-Rububiyya* (Divine Witnesses)—composed as a definitive textbook of Transcendent Theosophy—alongside *Al-Hikma al-Arshiyya* (The Wisdom of the Throne) focusing on eschatology, and *Mafatih al-Ghayb* (Keys to the Unseen).
+- **Philosophical commentaries**: During this late phase he composed detailed marginal glosses (*Hashiya*) on Suhrawardi's *Hikmat al-Ishraq* (specifically on Qutb al-Din al-Shirazi's commentary) and on the metaphysics of Ibn Sina's *Kitab al-Shifa'*.
+- **Scriptural hermeneutics and Hadith commentary**: His final years were dominated by extensive Qur'anic exegesis (*Tafsir al-Qur'an al-Karim*, including commentaries on Ayat al-Kursi, Surah Ya-Sin, and Surah al-Jumu'a) and his profound, uncompleted philosophical commentary on al-Kulayni's Shi'i hadith compendium, *Sharh Usul al-Kafi*.
+
 ## Most Important Works
 
 - The Four Intellectual Journeys (Al-Asfar al-Arba'a)
@@ -73,8 +81,7 @@ His traditional opponents criticize his mixing of philosophy with gnostic intuit
 
 ## Sources
 
-- Mulla Sadra al-Shirazi, *Al-Hikma al-Muta'aliya fi al-Asfar al-Aqliyya al-Arba'a*.
+- Mulla Sadra al-Shirazi, *Al-Hikma al-Muta'aliya fi al-Asfar al-Aqliyya al-Arba'a*, 9 vols., Dar Ihya' al-Turath al-Arabi, Beirut, 1981.
 - Fazlur Rahman, *The Philosophy of Mulla Sadra*, State University of New York Press, 1975.
-- Mulla Sadra al-Shirazi, *Al-Hikma al-Muta'aliya fi al-Asfar al-Aqliyya al-Arba'a*, Dar Ihya' al-Turath al-Arabi, Beirut, 1981.
 - Seyyed Hossein Nasr, *Sadr al-Din Shirazi and His Transcendent Theosophy*, Imperial Iranian Academy of Philosophy, 1978.
 - Sajjad Rizvi, *Mulla Sadra and Metaphysics: Modulation of Being*, Routledge, 2009.

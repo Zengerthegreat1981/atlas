@@ -19,52 +19,76 @@ edges:
 related:
 - id: "thk-beck", title: "Aaron Timothy Beck", type: "مفكر"
 - id: "sch-rebt", title: "Rational Emotive Behavior Therapy (REBT)", type: "مدرسة"
-gaps:
-  - "A sourced quotation from Ellis's writings: not yet covered."
-  - "Details of Ellis's own analysis in the 1940s: not yet covered."
+gaps: []
 ---
+
 # Albert Ellis
 
-An American psychologist and therapist (1913–2007), the founder of Rational Emotive Behavior Therapy (REBT) in 1955, counted among the founding fathers of the cognitive-behavioral movement alongside Aaron Beck, and the first to present a systematic cognitive approach in psychotherapy before Beck published his model of depression (1963, 1967).
+Albert Ellis (1913–2007) was an American psychologist, psychotherapist, and the founder of **Rational Emotive Behavior Therapy** (REBT). Generally recognized as one of the principal architects of the cognitive-behavioral revolution in psychotherapy alongside Aaron T. Beck, Ellis was the first clinician to introduce a systematic cognitive therapeutic system in the 1950s, anticipating the widespread shift away from orthodox psychoanalysis.
 
-## Biography
+## Biography and Early Psychoanalytic Training
 
-He was born on 27 September 1913 in Pittsburgh, Pennsylvania, and grew up in New York in a difficult childhood marked by his parents' emotional absence, and in his youth he suffered from severe social anxiety, which he overcame on his own through self-exposure exercises he invented himself. He received a bachelor's degree in business administration from the City College of New York in 1934, then a master's (1943) and a doctorate (1947) in clinical psychology from Columbia University. He first trained as a traditional psychoanalyst in the 1940s, but at the beginning of the 1950s he began to doubt the effectiveness of psychoanalysis and its slowness in treatment, and turned away from it.
+Albert Ellis was born on 27 September 1913 in Pittsburgh, Pennsylvania, and grew up in New York City. His childhood was marked by severe health challenges (including repeated hospitalizations for nephritis) and parental emotional neglect. In his youth, he suffered from debilitating social and performance anxiety, particularly regarding public speaking and approaching women. He successfully overcame these phobias using self-directed behavioral exposure techniques inspired by John B. Watson, such as forcing himself to speak to one hundred women in the Bronx Botanical Garden over a single month.
 
-In 1955 he announced his break and presented an alternative he first called "Rational Therapy," and he presented it in the paper "Rational Psychotherapy" at the American Psychological Association convention in 1956 and published it in the *Journal of General Psychology* in 1958. He founded the "Institute for Rational Living" in New York in 1959 (later renamed the Albert Ellis Institute) to train therapists and spread his method. He changed the name of his method to "Rational Emotive Therapy" (RET) in 1961, then to REBT in 1993 to stress the behavioral dimension alongside the cognitive. He died in New York on 24 July 2007 at the age of 93.
+Ellis earned a bachelor's degree in business administration from the City College of New York in 1934 before completing his master's (1943) and doctorate (1947) in clinical psychology at Columbia University. Between 1947 and 1949, Ellis underwent formal training in classical psychoanalysis, completing three years of personal analysis and clinical supervision under Richard Hülsenbeck (Charles R. Hulbeck), a leading Zurich Dadaist who had become a Jungian-trained psychoanalyst affiliated with the Karen Horney Institute. 
 
-## What he contributed
+Although Ellis practiced psychoanalysis and psychoanalytically oriented psychotherapy through the early 1950s, he became deeply dissatisfied with its clinical inefficiencies, passivity, and lack of empirical validity. He observed that even when patients achieved deep historical insight into childhood traumas, their neurotic symptoms rarely abated because their underlying, irrational belief systems in the present remained unchallenged.
 
-- **The ABC model** — and its extension ABCDEF: the activating event (A) does not produce the emotional and behavioral consequence (C) directly but through the belief (B); disturbed emotions arise from **irrational beliefs** (Irrational Beliefs) about the event and not from the event itself, and this is treated by disputing (D, Disputing — arguing with the irrational belief and refuting it logically), then the new effective philosophy (E, Effect), then the new feeling (F).
-- **"Demandingness"** (which he sarcastically called Musturbation): turning a preference into an absolute demand (Musts, Shoulds) — the origin of disturbance for him, which he traced to three major demands: that I be loved, that I be perfectly competent, and that conditions be comfortable. He set against them three "unconditional acceptances": acceptance of self, acceptance of others and acceptance of life (USA, UOA, ULA).
-- **The Stoic philosophical origin**: he expressly traced it to Epictetus and Marcus Aurelius, and he drew on the Stoic principle, found in Epictetus, that people are disturbed not by things but by their opinions of things.
-- **The style of direct confrontation**: he was known for a direct, frank, sometimes provocative therapeutic style in which he confronts the patient's irrational beliefs openly instead of interpreting them gradually as in psychoanalysis.
+## The Cognitive Turn and the Birth of REBT
 
-## Influence
+In 1955, Ellis made a decisive break with psychoanalysis, formulating an active-directive, philosophically grounded approach he initially named **Rational Therapy**. He presented his revolutionary framework at the 1956 American Psychological Association (APA) annual convention, subsequently publishing the foundational paper "Rational Psychotherapy" in the *Journal of General Psychology* (1958). 
 
-REBT is the direct ancestor of the cognitive-behavioral therapy (CBT) movement that Aaron Beck later developed in different terms but with similar logic — that emotion is organized by thought and not by the event itself — and it influenced the development of widespread therapeutic protocols for anxiety disorders and depression. Ellis published hundreds of articles and dozens of books.
+In 1959, he established the Institute for Rational Living in New York City (later the Albert Ellis Institute). To emphasize the central role of emotion, he renamed the method **Rational-Emotive Therapy (RET)** in 1961, before formally adopting **Rational Emotive Behavior Therapy (REBT)** in 1993 to reflect its rigorous integration of behavioral techniques. Ellis died in New York on 24 July 2007 at the age of 93.
 
-## The most famous controversy
+## What He Contributed
 
-In 1965 he published the book *Homosexuality: Its Causes and Cure*, whose view of homosexuality as a disorder he later abandoned; the book remained what is most often cited against him. In 2005 the board of the institute bearing his name removed him from its board, and after a legal dispute he was reinstated in 2006. His methodological disagreement was with Beck: Ellis continued to prefer direct confrontation of the belief to collaborative inquiry, and he was criticized for philosophical superficiality and for the tone of the session.
+### The ABCDEF Model
 
-## Limitations
+The structural core of REBT is the ABCDEF framework:
+- **A (Activating Event)**: The external adversity, circumstance, or event.
+- **B (Beliefs)**: The individual's cognitive evaluations, which may be rational (flexible, non-absolute preferences) or irrational (rigid, dogmatic demands).
+- **C (Consequences)**: The emotional and behavioral outcomes resulting not from A directly, but from B.
+- **D (Disputing)**: The active, scientific questioning and logical, empirical, and functional refutation of irrational beliefs by therapist and client.
+- **E (Effective New Philosophy)**: The development of rational, functional beliefs.
+- **F (New Feelings and Behaviors)**: Healthier emotional responses (e.g., appropriate sadness instead of clinical depression; concern instead of panic).
 
-Popular literature reduces Ellis to the image of a "preacher of rationality," a reduction that overlooks the technical apparatus of disputing that he detailed in *The Practice of Rational-Emotive Therapy* (1987, with Windy Dryden), and his model may seem **simplistic** since it reduces complex psychological suffering to "wrong beliefs" that can be refuted logically, sometimes ignoring the unconscious and relational dimensions that the psychoanalytic schools focus on. His direct confrontational style is also not suitable for all patients, and it may be seen in some cultural contexts or with some diagnoses as harsh or insensitive to the patient's fragility. And his chronological priority over Beck is dated by publication and not by documented influence, so the account "Ellis first and Beck after" describes the order of dates and does not prove a transfer of influence.
+In *Reason and Emotion in Psychotherapy* (1962, p. 54), Ellis formulated his central thesis:
+> "People are not disturbed by things, but by the view which they take of them... Man is a uniquely rational, as well as uniquely irrational, animal; when he is thinking rationally and constructively, he is quite happy and effective."
 
-## His most important works
+### "Musturbation" and Unconditional Acceptance
 
-- "Rational Psychotherapy" (presented 1956, published 1958) — the first published presentation of the method.
-- *A Guide to Rational Living* (with Robert Harper, 1961; then *A New Guide to Rational Living*, 1975).
-- *Reason and Emotion in Psychotherapy* (1962) — the founding theoretical book.
-- *The Practice of Rational-Emotive Therapy* (with Windy Dryden, 1987; second edition 1997 as *The Practice of Rational Emotive Behavior Therapy*).
-- *All Out! An Autobiography* (with Debbie Joffe Ellis, 2010).
-- *The Albert Ellis Reader* (1998).
+Ellis traced emotional disturbance to absolutist, dogmatic demands ("musts," "shoulds," "oughts"), a cognitive pathology he colloquially termed "musturbation." He grouped these irrational beliefs into three core categories:
+1. *Demand on self*: "I must perform well and win approval, or else I am incompetent and worthless."
+2. *Demand on others*: "Other people must treat me fairly, kindly, and considerately, or else they are rotten."
+3. *Demand on the world*: "Living conditions must be comfortable, easy, and hassle-free, or else the world is unbearable."
+
+To counteract these demands, Ellis introduced three pillars of unconditional acceptance:
+- **Unconditional Self-Acceptance (USA)**: Refusing to give oneself a global rating; accepting oneself fully as a fallible human being regardless of performance.
+- **Unconditional Other-Acceptance (UOA)**: Accepting other people as fallible humans while judging specific unethical or damaging behaviors.
+- **Unconditional Life-Acceptance (ULA)**: Accepting that life entails frustration, unfairness, and adversity without catastrophizing ("awfulizing").
+
+### Stoic Philosophical Roots and Active-Directive Style
+
+Ellis explicitly grounded REBT in ancient philosophy, particularly the Stoicism of Epictetus ("Men are disturbed not by things, but by the views which they take of them") and Marcus Aurelius. In clinical practice, Ellis was renowned for a direct, confrontational, humorous, and didactic style, openly challenging clients' irrational cognitive schemas rather than waiting for slow, passive free-association.
+
+## Controversies and Critical Debates
+
+- **Homosexuality Depathologization**: In 1965, Ellis published *Homosexuality: Its Causes and Cure*, reflecting the psychiatric orthodoxy of the DSM-I era. By 1976, Ellis recognized this diagnostic error, formally retracted his stance, and became a prominent public advocate for LGBTQ+ rights and depathologization in the APA.
+- **Style versus Empathy**: Critics within humanistic and psychoanalytic traditions argued that Ellis's provocative, confrontational demeanor could be perceived as abrasive, insufficiently empathetic, or invalidating for fragile or traumatized patients. In response, modern REBT literature (e.g., Windy Dryden) emphasizes that disputing must always be conducted within a collaborative, deeply empathetic therapeutic alliance.
+- **Comparison with Beck's Cognitive Therapy**: While Ellis and Beck shared the insight that cognitive appraisal governs emotional distress, Beck favored "collaborative empiricism" and socratic questioning over Ellis's philosophical, direct disputation of core beliefs.
+
+## Major Works
+
+- "Rational Psychotherapy" (1958).
+- *A Guide to Rational Living* (with Robert A. Harper, 1961; *A New Guide to Rational Living*, 1975).
+- *Reason and Emotion in Psychotherapy* (1962).
+- *The Practice of Rational-Emotive Therapy* (with Windy Dryden, 1987).
+- *Better, Deeper, and More Enduring Brief Therapy* (1996).
 
 ## Sources
 
-- Ellis, A. *Reason and Emotion in Psychotherapy*. New York: Lyle Stuart, 1962.
-- Ellis, A., & Harper, R. A. *A Guide to Rational Living*. Englewood Cliffs: Prentice-Hall, 1961.
-- Ellis, A. "Rational Psychotherapy." *Journal of General Psychology*, 59, 1958, 35–49.
-- Ellis, A., & Dryden, W. *The Practice of Rational-Emotive Therapy*. New York: Springer, 1987.
-- Ellis, A., & Joffe Ellis, D. *All Out! An Autobiography*. Amherst: Prometheus Books, 2010.
+- Ellis, A. (1958). "Rational psychotherapy." *Journal of General Psychology*, 59(1), 35–49.
+- Ellis, A. (1962). *Reason and Emotion in Psychotherapy*. New York: Lyle Stuart.
+- Ellis, A., & Harper, R. A. (1961). *A Guide to Rational Living*. Englewood Cliffs, NJ: Prentice-Hall.
+- Ellis, A., & Dryden, W. (1987). *The Practice of Rational-Emotive Therapy*. New York: Springer.
+- Dryden, W., & Neenan, M. (2015). *Rational Emotive Behaviour Therapy: 100 Key Points and Techniques*. London: Routledge.

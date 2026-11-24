@@ -2,7 +2,7 @@
 slug: "con-meaning"
 id: "CON-0405"
 type: "مفهوم"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Meaning and Meaninglessness: The School's Dividing Line"
 en: "Meaning and meaninglessness"
@@ -103,11 +103,11 @@ The clinician must first establish that this is an actual existential vacuum and
 
 The dispute between "meaning is discovered" (Frankl) and "meaning is created" (secular existentialism) presupposes that the question of meaning is open and individually negotiable. In Arab-Islamic religious contexts, the overarching meaning-system—the purpose of existence, humanity's relation to God—is often **given in advance** by religious tradition.
 
-This does not mean religious Arabs do not experience meaninglessness. Loss of personal, professional, and relational meaning is genuine even within a coherent religious framework. But it shifts the question: loss of religious meaning feels like apostasy, while loss of personal meaning within a religious frame feels like failure in one's lived expression of that religion.
+This does not mean religious individuals do not experience meaninglessness. Loss of personal, professional, and relational meaning is genuine even within a coherent religious framework. But it shifts the question: loss of religious meaning feels like crisis of faith, while loss of personal meaning within a religious frame feels like failure in one's lived expression of that religion.
 
-**Practical consequence for therapy:** Instruments associated with this tradition (e.g., the Purpose in Life test of Crumbaugh and Maholick, 1964) were developed and validated largely on Western samples. Adapting them to contexts where the meta-narrative of meaning is religiously given but personal meaning is in crisis requires additional work—work that remains limited in the Arabic-language existential therapy literature.
+**Practical consequence for therapy:** Instruments associated with this tradition (e.g., the Purpose in Life test of Crumbaugh and Maholick, 1964) were developed and validated largely on Western samples. Adapting them to contexts where the meta-narrative of meaning is religiously given but personal meaning is in crisis requires careful clinical sensitivity and contextual validation.
 
-The issue is not that non-Western clients cannot benefit from existential meaning-centered work, but that the *framework* itself reflects assumptions about individualism and the openness of meaning that don't map perfectly onto collectivist or religiously-structured contexts.
+The issue is not that non-Western clients cannot benefit from existential meaning-centered work, but that the *framework* itself reflects assumptions about individualism and the openness of meaning that don't map identically onto collectivist or religiously-structured contexts.
 
 ## Comparative Framework: How Different Schools Position Meaning
 
@@ -123,8 +123,9 @@ The issue is not that non-Western clients cannot benefit from existential meanin
 
 ## Sources
 
-- Frankl, Viktor E. *Man's Search for Meaning*. Beacon Press (first English edition 1959; German original 1946).
-- Yalom, Irvin D. *Staring at the Sun: Overcoming the Terror of Death*. Jossey-Bass, 2008.
-- Van Deurzen, Emmy. *Existential Counselling and Psychotherapy in Practice*. SAGE Publications, 2012.
-- Crumbaugh, James C., and Leonard T. Maholick. "An Experimental Study in Existentialism: The Psychometric Approach to Frankl's Concept of Noogenic Neurosis." *Journal of Clinical Psychology* 20 (1964).
-- Tillich, Paul. *The Courage to Be*. Yale University Press, 1952.
+- Viktor E. Frankl, *Man's Search for Meaning*, Beacon Press, 2006 (first English translation 1959; German original 1946).
+- Irvin D. Yalom, *Existential Psychotherapy*, Basic Books, 1980.
+- Irvin D. Yalom, *Staring at the Sun: Overcoming the Terror of Death*, Jossey-Bass, 2008.
+- Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, SAGE Publications, 2012.
+- James C. Crumbaugh and Leonard T. Maholick, "An Experimental Study in Existentialism: The Psychometric Approach to Frankl's Concept of Noogenic Neurosis", *Journal of Clinical Psychology* 20(2), 1964, pp. 200–207.
+- Paul Tillich, *The Courage to Be*, Yale University Press, 1952.

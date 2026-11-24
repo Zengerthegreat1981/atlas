@@ -20,8 +20,7 @@ related:
 - id: "thk-ibn-sina", title: "Abu Ali al-Husayn ibn Abdallah ibn Sina (Avicenna)", type: "مفكر"
 - id: "thk-al-farabi", title: "Abu Nasr Muhammad ibn Muhammad al-Farabi", type: "مفكر"
 - id: "thk-ibn-tufayl", title: "Abu Bakr Muhammad ibn Tufayl", type: "مفكر"
-gaps:
-  - "Textual attribution of some surviving short and middle commentaries: not yet covered"
+gaps: []
 ---
 # Abu al-Walid Muhammad ibn Ahmad ibn Rushd
 
@@ -55,11 +54,15 @@ Alongside his philosophical work, Ibn Rushd wrote a reference work in Maliki jur
 
 ## Influence
 
-Ibn Rushd's influence in Latin Europe was deeper than in the Islamic world after his death: the school of "Latin Averroism" arose at the University of Paris in the thirteenth century at the hands of Siger of Brabant and Boethius of Dacia, who adopted radical readings (such as the unity of the active intellect in all human beings) that provoked ecclesiastical condemnations in 1270 and 1277. Later Jewish philosophers such as Moses of Narbonne and Gersonides wrote commentaries drawing on his work; Maimonides (1138-1204) was an older contemporary and was not influenced by him. In the Islamic heritage, Ibn Rushd was regarded as the last of the great Peripatetic philosophers, since after him no Peripatetic current of the same strength appeared in the Islamic East or West, in contrast to the Illuminationist and Sufi current, which continued to flourish.
+Ibn Rushd's influence in Latin Europe was deeper than in the Islamic world after his death: the school of "Latin Averroism" arose at the University of Paris in the thirteenth century at the hands of Siger of Brabant and Boethius of Dacia, who adopted radical readings (such as the unity of the active intellect in all human beings) that provoked ecclesiastical condemnations in 1270 and 1277. Later Jewish philosophers such as Moses of Narbonne and Gersonides wrote commentaries drawing on his work. His younger Cordoban contemporary, Moses Maimonides (1138–1204), composed the *Guide of the Perplexed* largely independently, but late in life commended Ibn Rushd's commentaries in a famous 1199 letter to Samuel ibn Tibbon, recommending them as exceptionally sound guides to Aristotle. In the Islamic heritage, Ibn Rushd was regarded as the last of the great Peripatetic philosophers, since after him no Peripatetic current of the same strength appeared in the Islamic East or West, in contrast to the Illuminationist and Sufi current, which continued to flourish.
 
 ## Limits
 
 Scholars (such as Majid Fakhry) observe that Ibn Rushd's project of returning to a "pure Aristotle" against the Plotinian emanationist reading was not completely achieved, since he remained influenced by earlier interpretive frameworks (such as Alexander of Aphrodisias and Themistius) on issues such as the active intellect and its unity in all people, a matter that provoked sharp controversy because it appears to deny the individual immortality of the human soul, a position later rejected by both Thomas Aquinas in Latin and most Muslim theologians. Likewise, his defense in *Fasl al-Maqal* of the priority of rational demonstration over the textual apparent sense in cases of conflict, while restricting it with strict methodological conditions, has remained a matter of interpretive dispute: is it a defense of the independence of philosophical reason, or a conciliatory formulation that keeps the Shari'a the final arbiter over philosophy? The question has not been settled by consensus among contemporary scholars.
+
+## Textual Transmission and Attribution of the Commentaries
+
+A major area of modern scholarship concerns the textual transmission, recensions, and attribution of Ibn Rushd's short (*jawami'*, epitomes) and middle (*talkhisat*) commentaries. While he composed three distinct tiers of commentary across much of the Aristotelian corpus, a substantial portion of these writings did not survive in the original Arabic. Many middle commentaries and epitomes (especially in logic, natural philosophy, and metaphysics) were preserved solely through medieval Hebrew translations (produced by translators such as Jacob Anatoli, Moses ibn Tibbon, and Zerahiah Hen) and Renaissance Latin translations made from the Hebrew (such as those by Jacob Mantino). Furthermore, textual research by scholars such as Gerhard Endress and Charles Butterworth has shown that Ibn Rushd revised several commentaries repeatedly across his career. These multiple redactions generated textual divergences between surviving Arabic manuscripts and the Hebrew-Latin textual families, requiring philologists to reconstruct the development of his thought through comparative analysis of all surviving linguistic recensions.
 
 ## His Key Terminology
 
@@ -67,12 +70,12 @@ Ibn Rushd is known for his precise distinction among three kinds of commentary (
 
 ## His Principal Works
 
-- *Tahafut al-Tahafut* (Tahafut al-Tahafut)
-- *Fasl al-Maqal fima bayn al-Hikma wa-l-Shari'a min al-Ittisal* (Fasl al-Maqal)
-- *al-Kashf 'an Manahij al-Adilla fi 'Aqa'id al-Milla*
-- His great, middle and short commentaries on Aristotle
-- *al-Kulliyyat fi al-Tibb* (al-Kulliyyat fi al-Tibb)
-- *Bidayat al-Mujtahid wa Nihayat al-Muqtasid* (on comparative jurisprudence)
+- *Tahafut al-Tahafut* (The Incoherence of the Incoherence)
+- *Fasl al-Maqal fima bayn al-Hikma wa-l-Shari'a min al-Ittisal* (The Decisive Treatise)
+- *al-Kashf 'an Manahij al-Adilla fi 'Aqa'id al-Milla* (The Exposition of the Methods of Proof)
+- *The Great, Middle, and Short Commentaries on Aristotle*
+- *al-Kulliyyat fi al-Tibb* (Colliget / General Principles of Medicine)
+- *Bidayat al-Mujtahid wa Nihayat al-Muqtasid* (The Distinguished Jurist's Primer)
 
 ## Sources
 

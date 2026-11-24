@@ -21,8 +21,7 @@ related:
 - id: "thk-lwittgenstein", title: "Ludwig Wittgenstein", type: "مفكر"
 - id: "wrk-tractatus", title: "Tractatus Logico-Philosophicus", type: "عمل / كتاب"
 - id: "sch-ordinary-language", title: "Ordinary Language Philosophy", type: "مدرسة"
-gaps:
-  - "Differences between Wittgenstein's last manuscript versions (1945–1949) and the text edited by Anscombe and Rhees: not yet covered"
+gaps: []
 ---
 
 # Philosophical Investigations by Ludwig Wittgenstein
@@ -39,7 +38,9 @@ The book does not advance in a linear deductive order but in an intermittent dia
 
 ## Historical context of publication
 
-It was written mainly between 1936 and 1949 in Cambridge and in his Norwegian hut, and Wittgenstein did not publish it in his lifetime (he died in 1951). The preface carries the date January 1945, in which he says he decided to publish his new thoughts together with the old so that they might shed light on one another. He entrusted its publication to his students **Elizabeth Anscombe**, **Rush Rhees** and **G. H. von Wright**, and it was edited by Anscombe and Rhees and published in 1953 by Basil Blackwell with the German text and an English translation by Anscombe. The standard edition now is the revised fourth edition (2009), edited by Hacker and Schulte, in which the second part of earlier editions is retitled "Philosophy of Psychology – A Fragment". Ray Monk in his biography "The Duty of Genius" (1990) describes how Wittgenstein returned to philosophy after the years of teaching in the villages of Austria and building his sister's house in Vienna, and how he reconsidered the "Tractatus".
+It was written mainly between 1936 and 1949 in Cambridge and in his Norwegian hut, and Wittgenstein did not publish it in his lifetime (he died in 1951). The preface carries the date January 1945, in which he says he decided to publish his new thoughts together with the old so that they might shed light on one another. He entrusted his literary estate to his students **Elizabeth Anscombe**, **Rush Rhees** and **G. H. von Wright**, and it was edited by Anscombe and Rhees and published in 1953 by Basil Blackwell with the German text and an English translation by Anscombe.
+
+Subsequent editorial scholarship, culminating in the critical investigation of the Nachlass and the fourth revised edition (2009) edited by P. M. S. Hacker and Joachim Schulte, detailed the discrepancies between Wittgenstein's late manuscripts and the 1953 editio princeps. Anscombe and Rhees had assembled Part I from Wittgenstein's typescript TS 227 (dating from 1945–1946), while creating "Part II" out of a separate, unrevised manuscript (MS 144, written between 1946 and 1949) that Wittgenstein had never integrated into TS 227 nor designated as an integral second part of the *Investigations*. Schulte and Hacker restored Wittgenstein's original punctuation, corrected numbering and marginal variant readings, and retitled the material previously known as Part II as "Philosophy of Psychology – A Fragment" (PPF) to reflect its status as an autonomous, unfinished investigation. Ray Monk in his biography "The Duty of Genius" (1990) describes how Wittgenstein returned to philosophy after the years of teaching in the villages of Austria and building his sister's house in Vienna, and how he reconsidered the "Tractatus".
 
 ## Reception and critique
 

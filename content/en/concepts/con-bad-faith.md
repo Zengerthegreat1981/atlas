@@ -2,7 +2,7 @@
 slug: "con-bad-faith"
 id: "CON-0418"
 type: "مفهوم"
-part: psychology
+part: "psychology"
 level: "متوسط"
 title: "Bad Faith"
 en: "Bad Faith"
@@ -17,50 +17,56 @@ gaps: []
 
 # Bad Faith
 
-Bad faith — *mauvaise foi* — is Jean-Paul Sartre's name for the way human beings flee from their own freedom. It is the act of convincing oneself that one has no choice, that one is forced or compelled, when in fact one is choosing at every moment. The person in bad faith is not lying to someone else; they are lying to themselves, and the lie works because the liar and the lied-to are the same consciousness. For Sartre, it is not a rare moral failure but the default condition of everyday life.
+Bad faith (*mauvaise foi*) is Jean-Paul Sartre's term for the pervasive way human beings evade awareness of their own radical freedom and responsibility. It is the self-deceptive conviction that one has no choice—that one is compelled by circumstance, biology, social role, or past habit—when in fact consciousness is choosing at every moment. In bad faith, the deceiver and the deceived are one and the same consciousness, operating not through an external lie, but through a motivated misdirection of attention. For Sartre, bad faith is not a rare moral pathology, but a constant structural temptation of everyday human existence.
 
-## Sartre's Analysis
+## Sartre's Ontological Analysis
 
-The argument is set out in *Being and Nothingness* (1943). Human consciousness, for Sartre, is a nothingness — a gap, a freedom — that can never coincide with itself the way a stone does. We are what we are not, and we are not what we are: a person is always more than any fixed identity, because they can always act otherwise. To be human is to be, in Sartre's famous phrase, "condemned to be free," with no essence, no nature, and no excuse to fall back on.
+The foundational argument is presented in *Being and Nothingness* (1943). Human consciousness (*être-pour-soi* or being-for-itself) is fundamentally a "nothingness"—a nihilation or gap between what is given and what is chosen—and can never coincide with itself in the manner of an inert object (*être-en-soi* or being-in-itself). Human reality is "a being which is what it is not and which is not what it is." Because human beings have no predetermined essence, they are "condemned to be free" (*condamné à être libre*), forced to define themselves continuously through action without recourse to absolute external justifications.
 
-Bad faith is the flight from this condition, and it takes two complementary forms. In one, I treat myself as a thing, as if my character, my past, or my social role fixed me completely — "I am just a waiter," "I had no choice." In the other, I treat myself as pure, unbounded freedom, as if my situation, body, and history placed no limits on me at all. Both deny the truth: that I am always both, a situated freedom shaped by facts I did not choose, and yet free in how I respond to them.
+Bad faith arises as an escape from the anguish (*angoisse*) that accompanies this ungrounded freedom. It typically takes two complementary forms:
+1. **Collapsing transcendence into facticity**: Treating oneself as a purely determined, passive thing whose character, past, or social role dictates behavior ("I am just an angry person," "The rules left me no choice").
+2. **Severing transcendence from facticity**: Treating oneself as pure, disembodied freedom detached from physical reality, history, and the concrete consequences of past actions.
+
+Both stances evade the authentic human condition, which is situated freedom: agency operating inescapably within, and responsible to, concrete facticity.
 
 ## The Café Waiter
 
-Sartre's most famous illustration is the café waiter, who moves with exaggerated precision, balancing his tray with a dancer's care, leaning forward a little too eagerly — performing "being a waiter" as if it were a mechanical role he had been wound up to play. For Sartre, the waiter is in bad faith because he plays at being a waiter to deny that being a waiter is something he chooses, moment by moment, and could refuse. He acts as if the role were his essence, a fact of nature, rather than a project he renews every day.
+Sartre's most famous illustration is the café waiter (*le garçon de café*). The waiter walks with exaggerated precision, balances his tray with theatrical skill, bows a little too eagerly, and performs "being a waiter" like an automaton executing a script.
 
-The example is deliberately mundane, and it shows that bad faith can consist of small, daily evasions rather than great decisions. The same performance appears in the employee who insists the rules left him no choice and the partner who says "that's just how I am" when confronted with behaviour they could change.
+For Sartre, the waiter is in bad faith because he plays at being a waiter in order to persuade himself and others that his identity is a fixed thing—an essence—rather than a project he freely renews each morning and could, in principle, abandon. The example illustrates how everyday social roles can be weaponized into shields against the anxiety of personal choice. Similar performances appear when an employee claims institutional protocol leaves no moral choice, or when an individual excuses habitual mistreatment of others by declaring, "That is simply my personality."
 
 ## The Woman on the Date
 
-Sartre's second illustration is subtler. A woman on a first date knows perfectly well that her companion's compliments carry a sexual meaning, but she chooses to hear them as purely intellectual admiration, disarming each remark of its implications as it arrives. When he takes her hand, she leaves it in his — neither withdrawing it nor returning the pressure — suspended between consent and refusal. She is in bad faith not because she declines or accepts, but because she pretends not deciding is not itself a decision. The hand left motionless is a choice disguised as passivity.
+Sartre's second well-known vignette examines an ambiguous romantic encounter. A woman on a first date understands the erotic intention underlying her companion's compliments, but chooses to interpret them as purely intellectual admiration, disarming their imminent demand for a decision. When he takes her hand, she leaves it limp in his grasp—neither withdrawing it nor returning the pressure.
 
-The example has drawn criticism, but it captures how bad faith works: not a single lie but a sustained performance of not-knowing, a careful arrangement of attention so that the truth never quite comes into focus.
+She does not decide to encourage or to reject the advance; instead, she reduces her hand to a passive physical object while her consciousness floats in pure transcendence. For Sartre, leaving the hand motionless is itself an active choice disguised as passivity. The vignette illustrates how bad faith operates not through open falsehood, but through a sustained refusal to synthesize facticity and freedom.
 
-## Bad Faith and Lying
+## Bad Faith versus Ordinary Lying
 
-Sartre distinguishes bad faith from ordinary lying. The liar knows the truth and hides it from another person. In bad faith, the deceiver and the deceived are one and the same consciousness, which both knows and does not know the truth. This is the paradox that made the concept controversial: how can one consciousness both know and hide the same fact from itself? Sartre's answer is that consciousness is not a thing with fixed content but an activity that can direct its attention away from what it knows, keeping the truth at the edge of awareness rather than in its centre.
+Sartre carefully distinguishes bad faith from classical deception. In an ordinary lie, the deceiver knows the truth and conceals it from another person; the domain of truth and the domain of falsehood remain strictly separate. In bad faith, however, the deceiver and the deceived are identical within a single unitary consciousness.
 
-Simone de Beauvoir, in *The Ethics of Ambiguity* (1947), showed that bad faith is not only an individual matter: whole societies practise it, convincing themselves that oppression is natural and hierarchies inevitable. The oppressor and the oppressed alike can fall into it — the one by denying their freedom to act otherwise, the other by internalising the belief that they are nothing but their condition.
+To explain this paradox without resorting to the Freudian divided unconscious (which Sartre rejected as positing a censor that must itself practice bad faith), Sartre argued that consciousness possesses pre-reflective awareness (*conscience non-thétique*). Consciousness can deliberately redirect its focus away from threatening truths, maintaining them at the periphery of awareness while keeping reassuring rationalizations in the center.
 
-## Authenticity and the Clinical Use
+Simone de Beauvoir, in *The Ethics of Ambiguity* (1947), demonstrated that bad faith is not merely an individual psychological evasion, but an institutional and social reality. Oppressive regimes and societal structures actively promote bad faith by teaching subordinate groups that social hierarchies are natural, inevitable, and unchangeable.
 
-The opposite of bad faith, for Sartre, is authenticity: the lucid acceptance of one's freedom and responsibility, including the weight of facticity — body, past, situation — that freedom must work within. Authenticity does not mean doing whatever one pleases; it means owning one's choices rather than disowning them. In *Existentialism Is a Humanism* (1946), Sartre put it plainly: when I choose, I choose not only for myself but as an image of what a human being should be.
+## Authenticity and Psychotherapeutic Implications
 
-In existential psychotherapy, bad faith is a practical analytic tool. Irvin Yalom (1980) described how patients present their difficulties as facts of nature — "I can't help it," "my childhood made me this way" — and how therapy consists in gently restoring the sense of authorship, helping the person to see where choice remains even in a constrained life. This is not a moral judgement: the therapist helps them notice where they have quietly handed their freedom away. The goal is not to deny real constraint — illness, poverty, and oppression genuinely narrow what is possible — but to find the margin of freedom that remains.
+In existential psychotherapy, bad faith serves as a vital diagnostic and interpretive construct. Irvin Yalom (1980) observed that clients frequently frame their difficulties as unalterable external realities: "I can't help feeling this way," "My parents ruined my capacity to trust," or "I am forced to stay in this job."
 
-## Sources
-
-1. Sartre, Jean-Paul (1943). *Being and Nothingness: An Essay on Phenomenological Ontology*. (English translation, 1956.)
-2. Sartre, Jean-Paul (1946). *Existentialism Is a Humanism*. (English translation, 1948.)
-3. Beauvoir, Simone de (1947). *The Ethics of Ambiguity*. (English translation, 1948.)
-4. Catalano, Joseph S. (1974). *A Commentary on Jean-Paul Sartre's "Being and Nothingness"*. Harper & Row.
-5. Yalom, Irvin D. (1980). *Existential Psychotherapy*. Basic Books.
-6. Cox, Gary (2009). *Sartre and Fiction*. Continuum.
+The existential therapist does not deny genuine external constraints—such as systemic poverty, discrimination, severe illness, or physical trauma—which genuinely narrow the field of action. Rather, the therapeutic task is to help the individual discover the margin of freedom and authorship that remains within those constraints. By recognizing where they have surrendered their agency to avoid anxiety, clients can reclaim responsibility for how they respond to their circumstances and author their lives going forward.
 
 ## Related Concepts
 
 - [[con-freedom]]
 - [[con-responsibility]]
 - [[con-authenticity]]
-- [[con-self-deception]]
+- [[con-facticity]]
+
+## Sources
+
+- Beauvoir, S. de (1948). *The Ethics of Ambiguity* (B. Frechtman, Trans.). Philosophical Library. (Original French work published 1947).
+- Catalano, J. S. (1974). *A Commentary on Jean-Paul Sartre's "Being and Nothingness"*. Harper & Row.
+- Cox, G. (2009). *Sartre and Fiction*. Continuum.
+- Sartre, J.-P. (1948). *Existentialism Is a Humanism* (P. Mairet, Trans.). Methuen. (Original French work published 1946).
+- Sartre, J.-P. (1956). *Being and Nothingness: An Essay on Phenomenological Ontology* (H. E. Barnes, Trans.). Philosophical Library. (Original French work published 1943).
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.

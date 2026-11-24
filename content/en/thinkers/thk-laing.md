@@ -2,12 +2,16 @@
 slug: "thk-laing"
 id: "THK-0111"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 level: "متوسط"
 title: "R. D. Laing"
 en: "R. D. Laing"
 crumb: "Existential Philosophy ← People ← R. D. Laing"
 dates: "Scotland, United Kingdom · 1927–1989"
+country: "United Kingdom"
+language: "English"
+active_start: 1953
+active_end: 1989
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
@@ -18,30 +22,46 @@ gaps: []
 
 # R. D. Laing
 
-Ronald David Laing (1927-1989) was a Scottish psychiatrist, the most famous figure of the existential school to the public, and also the heaviest burden on its scientific reputation. He was born in Glasgow on 7 October 1927, studied medicine there, served as an army psychiatrist, and worked at the Tavistock Clinic in London from the later 1950s. He died on 23 August 1989.
+Ronald David Laing (1927–1989) was a Scottish psychiatrist, one of the foremost figures associated with existential psychiatry and the 1960s counterculture, and a polarizing presence in twentieth-century mental health. Born in Glasgow on 7 October 1927, he studied medicine at the University of Glasgow, served as a psychiatrist in the British Royal Army Medical Corps, and worked at the Glasgow Royal Mental Hospital (Gartnavel) before joining the Tavistock Clinic and the Institute of Psychoanalysis in London in 1956. He died on 23 August 1989 in Saint-Tropez, France.
 
-## His Thesis
+## Core Theories and Clinical Approach
 
-In *The Divided Self* (1960), drawing on Kierkegaard, Sartre and the Swiss existential psychiatry of Binswanger, he argued that the psychotic experience may be understandable if read in its personal, family and social context, and that what seems meaningless may have an inner logic. He described "ontological insecurity" as a basic condition in which a person lacks a secure sense of his own existence, and which he linked to the experience of schizophrenia.
+In his landmark first book, *The Divided Self: An Existential Study in Sanity and Madness* (1960), written largely during his clinical work at Gartnavel, Laing drew on the existential phenomenology of Søren Kierkegaard, Jean-Paul Sartre, Martin Buber, and Karl Jaspers, as well as the existential psychoanalysis of Ludwig Binswanger and Medard Boss. Laing argued that psychotic speech and behaviour are not unintelligible biological symptoms, but meaningful existential strategies adopted by individuals confronting unliveable interpersonal situations.
 
-## What He Did
+His key formulations include:
+- **Ontological Insecurity**: A basic condition in which an individual lacks a firm, taken-for-granted sense of their own reality, autonomy, and identity. Laing delineated three primary anxieties arising from this vulnerability:
+  - *Engulfment*: The terror that any reciprocal relationship will overwhelm and swallow up one's tenuous selfhood.
+  - *Implosion*: The dread that the external world will crash in and violently annihilate the inner void.
+  - *Petrification and Depersonalization*: The fear of being turned into an inert object by the gaze of others, countered by defensively treating others as lifeless objects.
+- **The False-Self System**: To shield the vulnerable "true self," the insecure person constructs a compliant, outer persona that acts in accordance with external expectations while the detached inner self retreats. When this split deepens, the inner self becomes alienated from reality, culminating in psychotic fragmentation.
+- **Interpersonal and Family Dynamics**: Influenced by Gregory Bateson's cybernetic communication theory and the "double bind" hypothesis, Laing investigated familial communication patterns in *Sanity, Madness and the Family* (1964, co-authored with Aaron Esterson). They contended that schizophrenia often represents an intelligible adaptation to contradictory, mystifying family dynamics.
 
-He gave patients back a voice at a time when they were widely treated as objects, and with the Philadelphia Association (founded 1965) he helped establish Kingsley Hall in London (1965-1970) as an alternative community to the asylums. With Aaron Esterson he published family studies in *Sanity, Madness and the Family* (1964), and in *The Politics of Experience* (1967) he extended his argument into a broader social critique. He was often called an "anti-psychiatrist", a label he himself rejected.
+## The Kingsley Hall Experiment and Radical Social Critique
 
-## What This Cost
+In 1965, Laing co-founded the Philadelphia Association with David Cooper, Aaron Esterson, and others, establishing **Kingsley Hall** in London's East End (operating from 1965 to 1970). Kingsley Hall was designed as a non-hierarchical therapeutic community where staff and residents lived together without formal doctor-patient hierarchies, physical restraints, electroconvulsive therapy, or compulsory medication. The most celebrated resident was Mary Barnes, whose guided regression and recovery were documented in *Mary Barnes: Two Accounts of a Journey Through Madness* (1971, co-authored with Joseph Berke).
 
-Critics argued that his emphasis on family and social causes lacked adequate empirical support, that it could burden families with unfounded blame, and that it risked delaying effective medical care. The association in people's minds of the whole existential school with an anti-psychiatric stance also damaged its reputation within mainstream psychiatry.
+In *The Politics of Experience and The Bird of Paradise* (1967), Laing extended his critique beyond clinical psychiatry into a broad diagnosis of modern society. He argued that normal socialization alienates human beings from their authentic experience, suggesting that some forms of madness could be viewed as natural, self-healing voyages of inner discovery rather than mere illness. Although David Cooper coined the term "anti-psychiatry," Laing himself frequently rejected the label, viewing his work as an effort to restore human dignity and intelligibility to psychiatric care.
 
-## What Remains of Him
+## Criticism and Enduring Legacy
 
-The weaker version of his proposal, that the psychotic experience has a structure that can be described from within, is alive today in psychopathological phenomenology and in qualitative research, with much more precise tools.
+Laing's work faced sharp criticism from biological psychiatry and clinical researchers. Critics argued that his interpersonal models lacked rigorous empirical validation, tended to unjustly blame families (particularly mothers) for severe psychiatric conditions, and risked discouraging patients from accessing proven medical and pharmacological treatments. His romanticized depictions of psychosis in the late 1960s contributed to professional marginalization within mainstream psychiatry.
 
-## His Major Works
+Nevertheless, Laing's early phenomenological descriptions of ontological insecurity remain widely respected in psychopathological phenomenology, qualitative psychiatry, and critical medical humanities. His insistence on listening to the patient's subjective narrative helped inspire modern psychiatric survivor and service-user movements, early intervention models, and Soteria-style therapeutic communities.
 
-*The Divided Self: An Existential Study in Sanity and Madness* (1960) · *Self and Others* (1961) · *Sanity, Madness and the Family* (with Aaron Esterson, 1964) · *The Politics of Experience* (1967) · *Knots* (1970)
+## Major Works
+
+- *The Divided Self: An Existential Study in Sanity and Madness* (1960)
+- *Self and Others* (1961; 2nd rev. ed. 1969)
+- *Sanity, Madness and the Family* (with Aaron Esterson, 1964)
+- *Interpersonal Perception* (with H. Phillipson and A. R. Lee, 1966)
+- *The Politics of Experience and The Bird of Paradise* (1967)
+- *Knots* (1970)
+- *The Politics of the Family and Other Essays* (1971)
 
 ## Sources
 
-- Laing, R. D. *The Divided Self: An Existential Study in Sanity and Madness*. London: Tavistock, 1960.
-- Laing, R. D., and A. Esterson. *Sanity, Madness and the Family*. London: Tavistock, 1964.
+- Laing, R. D. *The Divided Self: An Existential Study in Sanity and Madness*. London: Tavistock Publications, 1960.
+- Laing, R. D., and Aaron Esterson. *Sanity, Madness and the Family*. London: Tavistock Publications, 1964.
+- Laing, R. D. *The Politics of Experience and The Bird of Paradise*. Harmondsworth: Penguin Books, 1967.
 - Burston, Daniel. *The Wing of Madness: The Life and Work of R. D. Laing*. Cambridge, MA: Harvard University Press, 1996.
+- Beveridge, Allan. *Portrait of the Psychiatrist as a Young Man: The Early Writing and Work of R. D. Laing, 1927–1960*. Oxford: Oxford University Press, 2011.

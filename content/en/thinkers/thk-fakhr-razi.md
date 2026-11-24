@@ -48,14 +48,15 @@ Al-Razi contributed to transforming Ash'ari kalam from a pattern relying on trad
 
 ## Main works
 
-- The Great Exegesis (Mafatih al-Ghayb)
-- Al-Mahsul fi Usul al-Fiqh (Al-Mahsul)
-- Commentary on the Isharat (of Ibn Sina)
-- Al-Mabahith al-Mashriqiyya (Al-Mabahith al-Mashriqiyya)
-- Muhassal Afkar al-Mutaqaddimin wa-l-Muta'akhkhirin
-- Al-Ma'alim fi Usul al-Fiqh
-- Nihayat al-Uqul
-- Lawami' al-Bayyinat
+- *Mafatih al-Ghayb* (The Great Exegesis / Keys to the Unseen)
+- *Al-Mahsul fi Ilm Usul al-Fiqh* (foundational work on legal methodology)
+- *Sharh al-Isharat wa-l-Tanbihat* (philosophical commentary on Ibn Sina)
+- *Al-Mabahith al-Mashriqiyya fi Ilm al-Ilahiyyat wa-l-Tabi'iyyat* (major philosophical compendium)
+- *Al-Matalib al-Aliya min al-Ilm al-Ilahi* (late metaphysical masterwork)
+- *Muhassal Afkar al-Mutaqaddimin wa-l-Muta'akhkhirin* (survey of philosophical and theological doctrines)
+- *Al-Ma'alim fi Usul al-Din* (concise handbook of theology)
+- *Nihayat al-Uqul fi Dirayat al-Usul* (detailed theological treatise)
+- *Lawami' al-Bayyinat fi Sharh Asma' Allah Ta'ala wa-l-Sifat* (treatise on the divine names)
 
 ## His method
 

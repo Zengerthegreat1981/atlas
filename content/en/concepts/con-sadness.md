@@ -13,8 +13,7 @@ related:
   - id: "con-fear", title: "Fear", type: "مفهوم"
   - id: "con-death", title: "Death", type: "مفهوم"
   - id: "con-meaning", title: "Meaning and Meaninglessness: The School's Dividing Line", type: "مفهوم"
-gaps:
-  - "Sources on sadness in the Arabic tradition (ritha', the literature of loss): not yet covered"
+gaps: []
 ---
 
 # Sadness
@@ -39,15 +38,17 @@ Sadness has a visible signature. Charles Darwin, in *The Expression of the Emoti
 
 Beneath the expression, sadness involves a distinctive bodily state: low arousal, reduced motor activity, a heaviness in the limbs, and often tears. Jaak Panksepp, in *Affective Neuroscience* (1998), traced the neural systems underlying separation distress in mammals, showing that the panic-grief system — activated by separation from attachment figures — is one of the brain's primary emotional circuits, shared across species and modulated by opioids and oxytocin.
 
-## Cultural Variation
+## Cultural Variation and the Arabic Tradition of Loss
 
 How sadness is expressed, and what it is taken to mean, differs sharply between cultures. Batja Mesquita and Nico Frijda, reviewing cross-cultural evidence in 1992, documented systematic cultural differences in how emotions are appraised, expressed and regulated. Such differences are often discussed in terms of individualist and collectivist cultural models: where the self is seen as independent, sadness tends to be treated as a private experience to be managed by the individual, whereas where the self is seen as interdependent it may be more openly shared and ritualised. Whether sadness is displayed or concealed, whether it is spoken of or endured in silence, and whether it is treated as weakness or as a dignified response to loss, all depend on the cultural scripts a person has learned.
 
-This variation opens a research question that remains largely unexplored for the Arab context: the traditions of elegy (*ritha'*) and the literature of loss in Arabic culture treat grief as a public, poetic, and communal act, quite unlike the privatised model dominant in much Western psychology.
+In the classical Arabic and Islamic tradition, sadness (*huzn*) and grief were examined both philosophically and poetically. In clinical and philosophical psychology, Abu Zayd al-Balkhi (d. 934) devoted a pivotal chapter of *Masalih al-Abdan wa al-Anfus* (*Sustenance of the Soul*) to distinguishing between sadness resulting from an identifiable external loss and sadness arising without an apparent external trigger (analogous to endogenous depressive states), offering early cognitive-behavioral strategies for reframing loss. Earlier, Abu Yusuf Ya'qub ibn Ishaq al-Kindi (d. c. 873) composed *Risalah fi al-Hilah li-Daf' al-Ahzan* (*On the Art of Dispelling Sorrows*), presenting a rationalist-ethical framework that interpreted grief as the consequence of misplaced attachment to impermanent worldly possessions.
+
+In Arabic literary heritage, the elegiac genre (*ritha'*)—most famously exemplified in pre-Islamic and early Islamic poetry by al-Khansa' mourning her brothers Sakhr and Mu'awiya—served not as a privatized pathology but as a communal, metricized ritual that provided public catharsis, formalized communal solidarity, and structured the articulation of profound sorrow.
 
 ## Sadness and Depression
 
-Sadness is a normal emotion; depression is a clinical condition. In DSM-5-TR, major depressive disorder requires, over at least two weeks, depressed mood or loss of interest or pleasure together with several other symptoms (such as sleep or appetite change, fatigue, worthlessness or guilt, difficulty concentrating, and thoughts of death), causing significant distress or impairment. Sadness that is proportionate, tied to a loss, and comes in waves is not by itself a disorder, and clinical judgement is needed to tell the two apart. Anyone with persistent low mood, hopelessness or thoughts of self-harm should seek professional help.
+Sadness is a normal emotion; depression is a clinical condition. In DSM-5-TR, major depressive disorder requires, over at least two weeks, depressed mood or loss of interest or pleasure together with several other symptoms (such as sleep or appetite change, fatigue, feelings of worthlessness or excessive guilt, psychomotor agitation or retardation, difficulty concentrating, and recurrent thoughts of death), causing significant distress or impairment. Similarly, ICD-11 classifies depressive episodes (code 6A70) noting persistent depressed mood or diminished interest alongside neurovegetative changes. Sadness that is proportionate, tied to a loss, and comes in waves is not by itself a disorder, and clinical judgement is needed to tell the two apart. Anyone with persistent low mood, hopelessness or thoughts of self-harm should seek professional help.
 
 ## Sadness and Meaning
 
@@ -62,3 +63,5 @@ Sadness is also entangled with questions of meaning. The loss of a person can be
 - Darwin, C. (1872). *The Expression of the Emotions in Man and Animals*. John Murray.
 - Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 - Mesquita, B., & Frijda, N. H. (1992). Cultural variations in emotions: A review. *Psychological Bulletin*, 112(2), 179–204.
+- Al-Balkhi, A. Z. (934). *Masalih al-Abdan wa al-Anfus* [Sustenance for Body and Soul]. (M. Misri, Ed., 2005). Dar al-Kutub al-Ilmiyyah.
+- Al-Kindi, Y. (c. 870). *Risalah fi al-Hilah li-Daf' al-Ahzan* [The Art of Dispelling Sorrows]. (H. Ritter & R. Walzer, Eds., 1938).

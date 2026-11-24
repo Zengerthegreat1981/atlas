@@ -51,7 +51,7 @@ This **move from Germany to America** shaped the consciousness of the generation
 
 ### The second generation
 
-- **Jurgen Habermas** (b. 1929): *Knowledge and Human Interests* (1968), *Theory of Communicative Action* (1981).
+- **Jürgen Habermas** (b. 1929): *Knowledge and Human Interests* (1968), *Theory of Communicative Action* (1981).
 - **Oskar Negt** (1934–2024) and **Alexander Kluge** (b. 1932): *Öffentlichkeit und Erfahrung* (1972), on the public sphere.
 - **Claus Offe** (b. 1940): critical political sociology of the welfare state.
 
@@ -62,14 +62,14 @@ This **move from Germany to America** shaped the consciousness of the generation
 
 ## Founding concepts
 
-- **Critical theory (Kritische Theorie)**: Horkheimer distinguished it in *Traditional and Critical Theory* (1937). Theory is not a **neutral representation** of reality but an **intervention** that exposes structures of oppression.
-- **Negative dialectics (Negative Dialektik)**: for Adorno, dialectics does not arrive at a **final synthesis** but remains in the **negation** of the existing state of affairs. Against "identity" (Identität), which crushes differences.
-- **The totalizing Enlightenment (Dialektik der Aufklärung)**: the Enlightenment (modernist rationality) in its essence contains the **seeds of its own regression**: instrumental reason, domination of nature and of people, and ultimately the barbarism of fascism and anti-Semitism.
-- **The culture industry (Culture Industry)**: Adorno and Horkheimer (1944) describe how **mass culture** (Hollywood, advertising, popular music) produces **submission** in place of critical thinking.
-- **One-Dimensional Man**: Marcuse describes how **advanced capitalism** absorbs every opposition: no opposition remains, only **adaptation**.
-- **Eros and Civilization**: Marcuse links **Freud's critique of civilization** with **Marx's critique of capitalism**: the liberation of the "pleasure principle" from the repressive "reality principle".
-- **Communicative action (Kommunikatives Handeln)**: Habermas replaces "labor" with "communicative action" as the model of human practice.
-- **Recognition (Anerkennung)**: Honneth develops a "theory of recognition": identity is built through mutual recognition.
+- **Critical theory (Kritische Theorie)**: Horkheimer distinguished it in *Traditional and Critical Theory* (1937). Theory is not a neutral representation of reality but an emancipatory intervention that exposes structures of social domination.
+- **Negative dialectics (Negative Dialektik)**: for Adorno, dialectics does not arrive at an affirmative Hegelian synthesis but remains in the determinate negation of false reconciliations, resisting totalizing conceptual identity (*Identitätsdenken*) that suppresses non-identity.
+- **Dialectic of Enlightenment (Dialektik der Aufklärung)**: Horkheimer and Adorno argue that the Enlightenment project of mastering nature contains the internal tendency to revert into myth and instrumental domination, culminating in modern bureaucratic and totalitarian barbarism.
+- **The culture industry (Kulturindustrie)**: Adorno and Horkheimer (1944) describe how commodified mass culture (film, radio, commercial advertising) standardizes cultural production and cultivates ideological conformity rather than critical reflection.
+- **One-Dimensional Man**: Marcuse describes how advanced industrial capitalism absorbs opposition through technological rationalization and consumer gratification, creating a "one-dimensional" society.
+- **Eros and Civilization**: Marcuse synthesizes Freud's psychoanalytic theory with historical materialism, arguing that modern surplus-repression can be overcome to liberate human creative and erotic capacities.
+- **Communicative action (Kommunikatives Handeln)**: Habermas shifts critical theory from a paradigm of production and instrumental consciousness to one of intersubjective linguistic communication and communicative rationality.
+- **Recognition (Anerkennung)**: Honneth reformulates critical theory around moral grammar and the struggle for mutual recognition across love, legal rights, and social solidarity.
 
 ## The major debates
 

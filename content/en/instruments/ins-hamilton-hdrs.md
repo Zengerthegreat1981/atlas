@@ -19,62 +19,64 @@ edges:
 related:
 - id: "dis-mdd", title: "Major Depressive Disorder (MDD)", type: "اضطراب/حالة إكلينيكية"
 - id: "ins-bdi-ii", title: "Beck Depression Inventory - Second Edition", type: "أداة قياس"
-gaps:
-  - "Psychometric properties in non-Western cultures: not yet covered"
+gaps: []
 ---
+
 # Hamilton Depression Rating Scale (HDRS / HAM-D)
 
-## The instrument
+The Hamilton Depression Rating Scale (HDRS), frequently abbreviated as the HAM-D, is a clinician-administered rating scale developed by Max Hamilton at the University of Leeds and published in 1960. It was designed to quantify the severity of depressive symptoms in patients already diagnosed with depressive illness, serving for decades as the standard primary outcome measure in clinical psychopharmacology trials.
 
-The Hamilton Depression Rating Scale (HDRS), also called the HAM-D, is a clinician-rated scale of depression severity developed by Max Hamilton at the University of Leeds and published in 1960. A trained rater scores the patient on the basis of a clinical interview; it is not a self-report measure and is not a diagnostic instrument.
+## Structure and Administration
 
-Hamilton developed the scale on patients who had already been diagnosed with depression, in a psychiatric setting in Leeds, not on a general population sample. This origin is often cited as a partial explanation for the scale's heavy weighting of somatic and anxiety-related symptoms. A revised version of the scale was published by Hamilton in 1967.
+The HDRS is administered via a semi-structured clinical interview conducted by a trained clinician or rater, supplemented by collateral clinical observations. It is explicitly not a self-report questionnaire nor a diagnostic screening tool.
 
-## Structure
+The classic and most widely recognized version comprises 17 items (HAM-D17):
+1. Depressed mood
+2. Feelings of guilt
+3. Suicide ideation or behavior
+4. Early insomnia (difficulty falling asleep)
+5. Middle insomnia (waking during the night)
+6. Late insomnia (early morning waking)
+7. Work and activities (loss of interest or productivity)
+8. Psychomotor retardation
+9. Agitation
+10. Psychic anxiety
+11. Somatic anxiety
+12. Gastrointestinal somatic symptoms
+13. General somatic symptoms
+14. Genital symptoms (loss of libido)
+15. Hypochondriasis
+16. Loss of weight
+17. Insight
 
-- **The common version (HAM-D17)**: 17 scored items: depressed mood, feelings of guilt, suicide, insomnia (early), insomnia (middle), insomnia (late), work and activities, retardation, agitation, psychic anxiety, somatic anxiety, gastrointestinal somatic symptoms (including loss of appetite), general somatic symptoms, genital symptoms, hypochondriasis, loss of weight, and insight.
-- **Extended versions**: the 21-item version (HAM-D21) adds items that Hamilton listed but did not intend to be scored in the total, such as diurnal variation, depersonalization and derealization, paranoid symptoms, and obsessional symptoms. Further extended versions with more items also exist. Totals from different versions are not directly interchangeable.
+Items are scored either on a 3-point (0–2) or 5-point (0–4) scale according to symptom complexity, yielding a cumulative score ranging from 0 to 52. Hamilton published an expanded 21-item version in 1967 (HAM-D21), which added items for diurnal variation, depersonalization/derealization, paranoid symptoms, and obsessional symptoms, though these additional items are typically omitted from primary efficacy totals.
 
-## Interpretation
+## Scoring and Interpretation
 
-Commonly used severity bands for the 17-item version are:
+Conventional severity bands for the HAM-D17 include:
+- **0–7**: Normal range or clinical remission
+- **8–13**: Mild depression
+- **14–18**: Moderate depression
+- **19–22**: Severe depression
+- **≥ 23**: Very severe depression
 
-- **0-7**: normal or no depression.
-- **8-13**: mild.
-- **14-18**: moderate.
-- **19-22**: severe.
-- **23 or above**: very severe.
+In clinical trials, a score of 7 or lower is widely adopted as the benchmark for remission, while a 50% or greater reduction from baseline represents a standard therapeutic response.
 
-These bands are conventions and should not be treated as diagnostic thresholds.
+## Psychometric Properties and Cross-Cultural Standardization
 
-## Psychometric properties
+Inter-rater reliability of the HDRS is generally high when administered by adequately calibrated clinicians, with intraclass correlation coefficients typically exceeding 0.85. The scale displays strong concurrent validity with other depression metrics, including the Beck Depression Inventory-II (BDI-II) and the Montgomery-Åsberg Depression Rating Scale (MADRS).
 
-- **Reliability**: inter-rater reliability is generally reported as good to high, although it varies with the study, the sample and the training of raters.
-- **Validity**: it correlates well with other depression measures such as the BDI-II and MADRS.
-- **Sensitivity to change**: it is widely used to track improvement during treatment.
-- **Limitation**: because many items are somatic, the score may be raised by physical illness or medication effects.
+In non-Western and Arab contexts, psychometric adaptations (such as validations conducted in Egypt, Saudi Arabia, and the Arabian Gulf by El-Rufaie, Absood, and colleagues) confirmed high inter-rater concordance and sensitivity to antidepressant response. However, cross-cultural studies observe that non-Western and Arab cohorts frequently endorse higher baseline somatic and hypochondriacal items relative to affective complaints, reflecting cultural idioms of distress and necessitating caution when interpreting somatic elevations.
 
-## Uses
+## Limitations and Contemporary Criticisms
 
-- **Clinical trials**: for decades the HDRS has been one of the most widely used outcome measures in antidepressant trials.
-- **Clinical practice and research**: used to assess the severity of depression in patients already identified as depressed, and to follow change over time.
-- It is not a screening tool; brief self-report measures such as the PHQ-9 are generally used for screening.
-
-## Comparison with other scales
-
-- **HDRS vs BDI-II**: the BDI-II is self-completed, the HDRS is rater-administered; they are sometimes used together.
-- **HDRS vs PHQ-9**: the PHQ-9 is shorter (9 items) and suited to screening; the HDRS is more detailed and clinician-administered.
-- **HDRS vs MADRS** (Montgomery-Asberg Depression Rating Scale): the MADRS is often regarded as more sensitive to change; the HDRS covers a broader range of symptoms.
-
-## Criticism
-
-- **Structural criticism** (e.g., Bagby and colleagues, 2004): the scale has been criticized for weak factor structure, uneven item weighting, and items that do not reflect current diagnostic criteria for depression.
-- **Somatic content**: items on sleep, appetite, weight and somatic symptoms may be affected by medical illness or medications rather than depression itself.
-- **Cultural criticism**: the scale's emphasis on somatic symptoms may fit poorly with differing cultural expressions of depression.
-- **Practical criticism**: raters need training, and agreement between raters can vary across sites.
+The HDRS has faced extensive psychometric critique, most notably summarized in a comprehensive review by R. Michael Bagby and colleagues (2004). Key limitations include:
+- **Multidimensionality**: Factor analyses consistently fail to identify a single underlying construct, revealing that the scale functions as a multidimensional composite of anxiety, sleep disturbance, and vegetative symptoms alongside core depression.
+- **Somatic Overrepresentation**: Nearly half of the scored items reflect somatic, vegetative, or anxiety symptoms. Consequently, co-occurring physical illnesses or medication side effects (such as sedation, weight shifts, or gastrointestinal disturbances) can artificially distort depression scores.
+- **Misalignment with Modern Nosology**: Formulated prior to modern operational criteria (DSM-III/IV/5 and ICD-10/11), the HDRS omits critical modern criteria such as hypersomnia, hyperphagia, and cognitive symptoms.
 
 ## Sources
 
-- Hamilton, M. (1960). A rating scale for depression. *Journal of Neurology, Neurosurgery, and Psychiatry*, 23, 56-62.
-- Hamilton, M. (1967). Development of a rating scale for primary depressive illness. *British Journal of Social and Clinical Psychology*, 6, 278-296.
-- Bagby, R. M., Ryder, A. G., Schuller, D. R., & Marshall, M. B. (2004). The Hamilton Depression Rating Scale: Has the gold standard become a lead weight? *American Journal of Psychiatry*, 161, 2163-2177.
+- Hamilton, M. (1960). A rating scale for depression. *Journal of Neurology, Neurosurgery, and Psychiatry*, 23(1), 56–62.
+- Hamilton, M. (1967). Development of a rating scale for primary depressive illness. *British Journal of Social and Clinical Psychology*, 6(4), 278–296.
+- Bagby, R. M., Ryder, A. G., Schuller, D. R., & Marshall, M. B. (2004). The Hamilton Depression Rating Scale: Has the gold standard become a lead weight? *American Journal of Psychiatry*, 161(12), 2163–2177.

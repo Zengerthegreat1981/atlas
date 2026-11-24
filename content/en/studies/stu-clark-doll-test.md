@@ -17,8 +17,7 @@ replication_status: "contested"
 edges:
 - rel: "belongs_to", target: "Social Psychology", target_type: "مدرسة"
 related: []
-gaps:
-  - "Systematic replications of the doll test in multiracial societies: not yet covered"
+gaps: []
 ---
 # The Famous Kenneth and Mamie Clark Doll Test Study of Racial Identity Formation in Children
 
@@ -44,9 +43,17 @@ Kenneth Clark testified as an expert witness in one of the lower-court cases con
 
 Later versions of the test have given mixed results. A 2010 CNN report conducted with the psychologist Margaret Beale Spencer used a modified procedure (a set of cartoon figures) and found that many children, of several backgrounds, still associated lighter skin with positive attributes. Such media studies had small samples and little methodological control, so whether internalized racial bias in children has changed since the 1940s remains debated, and the replication status is therefore marked "contested."
 
+## Systematic Replications in Multiracial and Cross-Cultural Societies
+
+Subsequent decades saw extensive empirical replications across diverse multiethnic and multiracial settings, revealing that children's doll choices are shaped by evolving sociopolitical contexts and developmental processes rather than uniform internalized self-hatred. In a prominent replication conducted in Lincoln, Nebraska, Joseph Hraba and Geoffrey Grant (1970) found that Black children predominantly preferred Black dolls and assigned positive attributes to them. They attributed this reversal from the 1940s findings to the cultural impact of the Civil Rights and "Black Pride" movements, which provided positive collective racial affirmation.
+
+Cross-cultural studies in multiracial societies (such as research in the United Kingdom by Milner in 1973 with South Asian, Afro-Caribbean, and White children, and work in New Zealand and South Africa) indicated that out-group preference tended to reflect awareness of institutional hierarchy and social power differentials rather than personal identity impairment. Crucially, developmental psychologist Margaret Beale Spencer (1982, 1984) demonstrated a critical theoretical distinction: children's forced-choice doll selections measure *racial awareness and societal knowledge* (accurate perception of societal prejudices and stereotypes) rather than *personal self-esteem* or personal self-concept. When evaluated with multidimensional self-concept instruments, minority children displaying pro-white doll selections frequently maintained robust, healthy levels of personal self-worth.
+
 ## Sources
 
 - Clark, K. B., & Clark, M. P. (1947). "Racial Identification and Preference in Negro Children." In T. M. Newcomb & E. L. Hartley (Eds.), *Readings in Social Psychology*. Henry Holt.
 - Clark, K. B. (1950). *Effect of Prejudice and Discrimination on Personality Development*. Midcentury White House Conference on Children and Youth.
 - Clark, K. B. (1963). *Prejudice and Your Child* (2nd ed.). Beacon Press.
 - Brown v. Board of Education of Topeka, 347 U.S. 483 (1954).
+- Hraba, J., & Grant, G. (1970). "Black Is Beautiful: A Reexamination of Racial Preference and Identification." *Journal of Personality and Social Psychology*, 16(3), 398–402.
+- Spencer, M. B. (1984). "Black Children's Race Awareness, Racial Attitudes and Self-Concept: A Reinterpretation." *Journal of Child Psychology and Psychiatry*, 25(3), 433–441.

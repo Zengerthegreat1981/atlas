@@ -24,38 +24,46 @@ gaps: []
 
 # Intentionality (Intentionalität)
 
-Intentionality is a central concept in phenomenology (Husserl) and in contemporary philosophy of mind (Searle, Dennett). It refers to the "aboutness" or directedness of mental states: perceiving, believing, fearing and desiring are always of or about something. In the classic phenomenological formula, all consciousness is "consciousness of something" (*Bewusstsein von etwas*).
+Intentionality is a foundational concept in phenomenology and contemporary philosophy of mind. It designates the property of mental states to be directed toward, about, or of objects and states of affairs in the world. In the classic phenomenological formulation, every conscious act is essentially "consciousness of something" (*Bewusstsein von etwas*).
 
-## Origin
+## Historical Origin: Brentano's Recovery of the Concept
 
-- **Brentano** (1874): in *Psychologie vom empirischen Standpunkte* (*Psychology from an Empirical Standpoint*), Franz Brentano proposed the "intentional inexistence" of an object as the mark of mental phenomena, as opposed to physical ones: every mental phenomenon includes something as an object within itself, whether by presentation, judgement, or love and hate. He drew the vocabulary from medieval scholastic discussions of the mental or "intentional" being of objects of thought.
-- **Husserl**: in the *Logical Investigations* (1900-01, especially the Fifth Investigation) and *Ideas I* (1913), Edmund Husserl took over the notion and reworked it. He rejected the idea that the intended object exists "in" the mind as a mental content, and held that intentionality is the directedness of acts toward objects themselves, which may or may not exist. For Husserl intentionality becomes a principle of method: the phenomenological reduction (*epoché*) brackets the question of the world's existence in order to describe the structure of intentional experience.
+Franz Brentano reintroduced the concept into modern philosophy in *Psychologie vom empirischen Standpunkte* (*Psychology from an Empirical Standpoint*, 1874). Brentano sought a definitive criterion to distinguish mental phenomena from physical phenomena:
+- Physical phenomena (such as sounds, colors, or spatial extensions) do not refer beyond themselves.
+- Mental phenomena (such as perceiving, desiring, remembering, judging, or loving) invariably exhibit "intentional inexistence" (*intentionale Inexistenz*)—the characteristic inclusion of an object within the mental act itself.
 
-## Brentano and Husserl Compared
+Brentano adapted the term from medieval Scholastic philosophy (notably Thomas Aquinas and Duns Scotus), who utilized *esse intentionale* to describe the immaterial or objective presence of a known form within the intellect.
 
-For Brentano, intentionality was the criterion that separates the mental from the physical, and the basis of a descriptive psychology. Husserl distinguished his own project from psychology, treating intentionality as the structure of experience that grounds the sciences, and he enlarged the account beyond presentations to include judging, valuing and willing, as well as the role of meaning and horizon.
+## Husserl's Phenomenological Reworking
 
-## Structure in Husserl
+Edmund Husserl, a student of Brentano, radically transformed the doctrine of intentionality in *Logical Investigations* (1900–01, especially the Fifth and Sixth Investigations) and *Ideas I* (1913):
+1. **Rejection of Immanence**: Husserl rejected Brentano's suggestion that the intended object exists "inside" the mind as a psychic constituent. When one thinks of Mount Olympus or a unicorn, one does not intend a mental picture inside the head, but directs oneself toward the object itself under a particular sense (*Sinn*), regardless of whether the object physically exists.
+2. **The Phenomenological Reduction (*Epoché*)**: In *Ideas I*, Husserl suspended the "natural attitude" (the uncritical belief in the independent existence of the external world) in order to systematically analyze the essential structures of intentional acts and their objective correlates.
+3. **Noesis and Noema**: Husserl divided the intentional structure into:
+   - **Noesis**: the intending act of consciousness (e.g., perceiving, judging, recollecting).
+   - **Noema**: the ideal objective correlate or sense through which the object is meant (a topic of famous debate between Dagfinn Føllesdal's Fregean interpretation and Aron Gurwitsch's perceptual interpretation).
 
-- **Noesis**: the intending act (perceiving, remembering, imagining, desiring).
-- **Noema**: the object as intended, the sense or meaning in which the object is given in the act. Scholars disagree over how to interpret the noema (as an abstract sense, as the object itself as intended, or as a mode of presentation).
+## Contemporary Analytic Developments
 
-## Contemporary Developments and Critique
+Intentionality remains central to contemporary philosophy of mind and action:
 
-- **Searle**: in *Intentionality: An Essay in the Philosophy of Mind* (1983), he analysed intentional states by their conditions of satisfaction, direction of fit and psychological mode, and linked them to speech acts.
-- **Dennett**: in *The Intentional Stance* (1987), he treated attributions of belief and desire as a predictive strategy (an "intentional stance") adopted toward systems whose behaviour is best predicted this way, taking a more instrumentalist view of intentional states than Searle or Husserl.
-- **Foucault**: in *The Archaeology of Knowledge* (1969) he criticised the idea of a sovereign, founding subject of knowledge, which is the background of Husserlian phenomenology.
+- **John Searle**: In *Intentionality: An Essay in the Philosophy of Mind* (1983), Searle systematically analyzed intentional states in terms of:
+  - **Conditions of Satisfaction**: what must obtain in reality for a belief to be true or a desire to be fulfilled.
+  - **Direction of Fit**: mind-to-world (beliefs, which aim to match reality) versus world-to-mind (desires and intentions, which aim to alter reality).
+  - **The Network and Background**: intentional states do not function in isolation, but depend on an interconnected network of other beliefs and an unarticulated "Background" of non-representational capacities.
+- **Daniel Dennett**: In *The Intentional Stance* (1987), Dennett adopted an instrumentalist and pragmatic perspective. The "intentional stance" is an interpretive and predictive strategy that treats an entity (human, animal, or computer) as a rational agent possessing beliefs and desires, contrasted with the "physical stance" (based on physical laws) and the "design stance" (based on functional design).
 
-## Distinctions
+## Conceptual Distinction: Intentionality versus Intensionality
 
-In analytic philosophy, "intentionality" (aboutness) should be distinguished from "intensionality" with an *s*, a logical property of contexts in which substitution of co-referring terms fails. They are related but not identical, and neither means "intending" in the everyday sense of doing something on purpose.
+In analytic philosophy and philosophical logic, **intentionality** (with a *t*, directedness or aboutness) must be distinguished from **intensionality** (with an *s*):
+- Intensionality-with-an-*s* is a logical property of sentences or propositions where the principle of substitutivity of identicals (*salva veritate*) fails, or where existential generalization is invalid (referential opacity).
+- While intentional mental states are typically described by intensional sentences, they are distinct concepts. Neither should be confused with "intention" in the everyday moral sense of acting deliberately.
 
 ## Sources
 
-- Franz Brentano, *Psychologie vom empirischen Standpunkte*, Duncker and Humblot, Leipzig, 1874.
-- Edmund Husserl, *Logische Untersuchungen*, 1900-01.
-- Edmund Husserl, *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie*, vol. 1, 1913.
+- Franz Brentano, *Psychology from an Empirical Standpoint* (1874), trans. Antos C. Rancurello, D. B. Terrell, and Linda L. McAlister, Routledge, 1995.
+- Edmund Husserl, *Logical Investigations* (1900–01), 2 vols., trans. J. N. Findlay, Routledge, 2001.
+- Edmund Husserl, *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book* (Ideen I, 1913), trans. F. Kersten, Martinus Nijhoff, 1982.
 - John R. Searle, *Intentionality: An Essay in the Philosophy of Mind*, Cambridge University Press, 1983.
 - Daniel C. Dennett, *The Intentional Stance*, MIT Press, 1987.
-- "Husserl, Edmund", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/husserl/>
-- "Brentano, Franz", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/brentano/>
+- Robert C. Sleigh, Jr., "Intentionality and Intensionality", *The Philosophical Review*, 77(4), 1968.

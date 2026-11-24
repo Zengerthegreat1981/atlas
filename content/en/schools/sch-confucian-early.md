@@ -53,7 +53,7 @@ Confucius lived in the state of Lu in an age when the feudal Zhou order had coll
 
 Mozi (c. 470–391 BCE) criticized the Confucians for spending on rituals and lavish funerals and for distinguishing between kin and strangers, and he called for "impartial care" and the common benefit. The Daoists, among them Zhuangzi, attacked rigid moral standards. The Legalists said punishment and reward are more useful than virtue in governing the state. The distinction of Confucianism is that it did not offer a complete cosmic system but built its philosophy on living relationships: the family, kinship, authority and ritual. This made it adaptable to later transformations, but also exposed it to being enlisted by authority.
 
-## Influence and Relation to Arabic
+## Influence and Cross-Cultural Encounters
 
 Under the Han, Confucianism became the ideology of the state and was renewed in the Song period with Zhu Xi. The Chinese Muslims of the "Han Kitab" in the 17th and 18th centuries, among them Wang Daiyu and Liu Zhi, undertook an early and rich attempt at a dialogue of Islam with Neo-Confucianism, studied by Sachiko Murata in *Chinese Gleams of Sufi Light* (2000). Confucius's ideas became known in modern Arabic literature through translation and Orientalism.
 

@@ -40,14 +40,14 @@ The controversy began with the Belgian priest Placide Tempels's book "Bantu Phil
 
 ## Key figures
 
-- **Paulin Hountondji** (Benin): critic of ethnophilosophy and author of "African Philosophy: Myth and Reality".
+- **Paulin Hountondji** (Benin, 1942–2024): critic of ethnophilosophy and author of *African Philosophy: Myth and Reality*.
 - **Kwasi Wiredu** (Ghana, 1931–2022): worked at the University of Ghana and at the University of South Florida.
-- **Peter Bodunrin** (Nigeria): one of the founders of academic philosophy at Ibadan.
-- **Kwame Gyekye** (Ghana): wrote "An Essay on African Philosophical Thought: The Akan Conceptual Scheme" (1987).
-- **Barry Hallen** (United States): worked with the Yoruba scholar Sodipo on Yoruba philosophy.
-- **Henry Odera Oruka** (Kenya): author of "Sage Philosophy" (1990).
-- **Sophie Oluwole** (Nigeria): one of the most prominent African women philosophers, who analyzed Yoruba philosophy.
-- **Souleymane Bachir Diagne** (Senegal): wrote on Iqbal, Islam and the philosophy of science, and "The Ink of the Scholars: Reflections on Philosophy in Africa" (2016).
+- **Peter Bodunrin** (Nigeria, 1936–1997): one of the founders of academic philosophy at Ibadan.
+- **Kwame Gyekye** (Ghana, 1939–2019): wrote *An Essay on African Philosophical Thought: The Akan Conceptual Scheme* (1987).
+- **Barry Hallen** (United States, b. 1941): worked with the Yoruba scholar J. Olubi Sodipo on Yoruba epistemology.
+- **Henry Odera Oruka** (Kenya, 1944–1995): author of *Sage Philosophy* (1990).
+- **Sophie Oluwole** (Nigeria, 1935–2018): one of the most prominent African women philosophers, who analyzed Yoruba philosophy.
+- **Souleymane Bachir Diagne** (Senegal, b. 1955): wrote on Islamic thought, history of logic, and *The Ink of the Scholars: Reflections on Philosophy in Africa* (2016).
 
 ## The Islamic and Arab dimension
 

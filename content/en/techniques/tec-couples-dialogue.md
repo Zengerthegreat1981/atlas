@@ -40,7 +40,6 @@ Virginia Satir made couples work conjoint and humane, insisting that both partne
 
 Couples therapy has substantial research support. A review by Lebow and colleagues (2012) concludes that the major approaches — behavioural, emotionally focused, and integrative — produce meaningful improvements in relationship satisfaction for many couples, although a share of couples do not improve or relapse later. Its influence reaches beyond the consulting room: Gottman's research has shaped public discussion of marriage, Johnson's attachment model has reshaped how therapists understand adult love, and couples work has become a standard part of treatment for depression, addiction, and trauma, where the partner is no longer a bystander but a participant in recovery. The method's reach is also its limit: it cannot work when one partner is unwilling, when there is ongoing violence that makes the room unsafe, or when the relationship has already ended in all but name — and a good couples therapist knows when to say so.
 
-
 ## Sources
 
 - Virginia Satir, *Conjoint Family Therapy*, 1964.

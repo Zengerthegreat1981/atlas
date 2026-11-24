@@ -21,8 +21,7 @@ edges:
 - rel: "developed_by", target: "Fritz Perls", target_type: "مفكر"
 related:
 - id: "thk-fperls", title: "Fritz Perls", type: "مفكر"
-gaps:
-  - "Link to Wolfgang Köhler: not yet covered (no atlas entry for him exists yet)"
+gaps: []
 ---
 
 # Gestalt Therapy
@@ -33,10 +32,10 @@ Gestalt therapy is a **humanistic-existential therapeutic school** developed by 
 
 Gestalt therapy arose from the intersection of:
 
-- **Gestalt psychology** (Berlin School): Wertheimer, Köhler, Koffka. The principle of the whole, holistic perception, the laws of proximity, similarity, and closure.
+- **Gestalt psychology** (Berlin School): Max Wertheimer, Wolfgang Köhler, and Kurt Koffka. Fritz and Laura Perls adopted the principle of the whole, holistic perception, figure-ground differentiation, and the laws of proximity, similarity, and closure. Wolfgang Köhler's research on chimpanzee problem-solving (*The Mentality of Apes*, 1917/1925) demonstrated that learning occurs through sudden **insight** (*Aha-Erlebnis*)—the holistic restructuring of a perceptual and behavioral field—rather than mechanical trial and error. Perls adapted this concept to clinical practice: therapeutic breakthrough is an immediate, experiential restructuring of the patient's emotional and bodily field, enabling the completion of unfinished business rather than intellectualized interpretation.
 - **Phenomenology** (Husserl, Merleau-Ponty): a return to things as they are given to consciousness.
-- **Existentialism** (Heidegger, Sartre): here-and-now awareness, authenticity, responsibility.
-- **Psychoanalysis** (Freud, Reich): the language of the unconscious, the mechanism of repression, libido energy. Perls was a psychiatrist trained in psychoanalysis; among his analysts was Wilhelm Reich, whose ideas on character and bodily armor influenced him.
+- **Existentialism** (Heidegger, Sartre, Buber): here-and-now awareness, authenticity, responsibility, and the dialogic I-Thou relationship.
+- **Psychoanalysis** (Freud, Reich): the language of the unconscious, resistance, and bodily armor. Perls trained as a psychoanalyst; Wilhelm Reich's character analysis and emphasis on somatic tension directly influenced Gestalt therapy's somatic focus. Laura Perls, trained in Gestalt psychology with Wertheimer and Gelb, ensured that the experiential rigor of the Berlin School grounded the therapy.
 
 ## Historical Stages
 
@@ -58,13 +57,14 @@ Gestalt therapy arose from the intersection of:
 
 ## Key Figures
 
-- **Frederick "Fritz" Perls** (1893-1970): the principal founder, a charismatic and controversial figure; his book *Ego, Hunger and Aggression* (1942) was an earlier statement of his ideas.
-- **Paul Goodman** (1911-1972): writer and social critic who wrote much of the theoretical part of *Gestalt Therapy* (1951).
-- **Ralph Hefferline** (1910-1974): psychologist who wrote the experimental exercises of the 1951 book.
-- **Isadore From** (1919-1992): a co-founder of the New York Institute and an influential teacher of Gestalt theory.
-- **Erving Polster** (with Miriam Polster): *Gestalt Therapy Integrated* (1973), a second-generation presentation.
-- **Claudio Naranjo**: a Chilean psychiatrist who combined Gestalt with other experiential and contemplative traditions.
-- **Hans-Jürgen Walter**: developer of Gestalt theoretical psychotherapy (Gestalttheoretische Psychotherapie), a German approach drawing on Gestalt psychology.
+- **Frederick "Fritz" Perls** (1893–1970): the principal founder, a charismatic and controversial figure; author of *Ego, Hunger and Aggression* (1942/1947).
+- **Laura Perls** (1905–1990): co-founder of Gestalt therapy and the New York Institute for Gestalt Therapy; brought Gestalt perceptual psychology, existential phenomenology, and body/movement awareness into the method.
+- **Paul Goodman** (1911–1972): writer and social critic who wrote the core theoretical presentation of *Gestalt Therapy* (1951).
+- **Ralph Hefferline** (1910–1974): psychologist at Columbia University who developed the practical awareness exercises in the 1951 text.
+- **Isadore From** (1919–1992): co-founder of the New York Institute and a primary teacher of Gestalt theory and contact boundary analysis.
+- **Erving Polster** (1922–) and **Miriam Polster** (1918–2001): authors of *Gestalt Therapy Integrated* (1973), articulating a systematic second-generation clinical presentation.
+- **Claudio Naranjo** (1932–2019): Chilean psychiatrist who combined Gestalt therapy with contemplative traditions and the Enneagram.
+- **Hans-Jürgen Walter** (1944–): founder of Gestalt Theoretical Psychotherapy (*Gestalttheoretische Psychotherapie*), preserving close fidelity to the Berlin School of Gestalt psychology.
 
 ## Sub-Currents
 
@@ -109,8 +109,9 @@ In the theory of the 1951 book, the self is a process at the contact boundary be
 
 ## Sources
 
-- Perls, F., Hefferline, R. F., & Goodman, P. (1951). *Gestalt Therapy*. Julian Press.
-- Perls, F. (1947). *Ego, Hunger and Aggression*. Allen & Unwin.
-- Polster, E., & Polster, M. (1973). *Gestalt Therapy Integrated*. Brunner/Mazel.
-- Yontef, G. M. (1993). *Awareness, Dialogue, and Process*. Gestalt Journal Press.
+- Perls, F., Hefferline, R. F., & Goodman, P. (1951). *Gestalt Therapy: Excitement and Growth in the Human Personality*. Julian Press.
+- Perls, F. (1947). *Ego, Hunger and Aggression: A Revision of Freud's Theory and Method*. Allen & Unwin.
+- Polster, E., & Polster, M. (1973). *Gestalt Therapy Integrated: Contours of Theory and Practice*. Brunner/Mazel.
+- Yontef, G. M. (1993). *Awareness, Dialogue, and Process: Essays on Gestalt Therapy*. Gestalt Journal Press.
+- Köhler, W. (1925). *The Mentality of Apes* (E. Winter, Trans.). Harcourt, Brace & World.
 - Naranjo, C. (2000). *Gestalt Therapy: The Attitude and Practice of an Atheoretical Experientialism*. Crown House.

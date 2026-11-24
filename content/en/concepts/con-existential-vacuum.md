@@ -13,7 +13,7 @@ related:
   - id: "con-sadness", title: "Sadness", type: "مفهوم"
   - id: "dis-mdd", title: "Major Depressive Disorder (MDD)", type: "اضطراب/حالة إكلينيكية"
   - id: "con-meaning", title: "Meaning and Meaninglessness: The School's Dividing Line", type: "مفهوم"
-gaps:[]
+gaps: []
 ---
 
 # Existential Vacuum

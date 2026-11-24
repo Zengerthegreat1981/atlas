@@ -17,47 +17,71 @@ edges:
 - rel: "split_into", target: "Cultural Psychology", target_type: "مدرسة"
 related:
 - id: "sch-cultural-psychology", title: "Cultural Psychology", type: "مدرسة"
-gaps:
-  - "Standalone entries for John W. Berry, Geert Hofstede, Harry Triandis and Shalom Schwartz: not yet covered"
-  - "Standalone entries for individualism/collectivism, acculturation and WEIRD samples: not yet covered"
+gaps: []
 ---
 
 # Cross-Cultural Psychology
 
-The school that asks: **which of what we know about the psyche is universal, and which is local?** Its method is **comparison**: the same psychological construct is measured in several societies and the stability of the result is examined. It rests on the acknowledgment that most of what is in psychology textbooks was drawn from **Western, educated, industrialized, rich, democratic** samples — the initials now referred to as **WEIRD** — and that such a sample does not represent humankind.
+Cross-Cultural Psychology is the scientific discipline that systematically investigates how cultural factors influence human cognition, emotion, motivation, and behavior across distinct societies. Its core epistemological objective is to establish the boundaries of psychological universality versus cultural specificity: determining which psychological constructs are pan-human species characteristics and which represent localized adaptations. The field emerged out of the recognition that twentieth-century mainstream psychology was founded almost exclusively on **WEIRD** (Western, Educated, Industrialized, Rich, and Democratic) participant samples (Henrich, Heine, & Norenzayan, 2010), challenging the uncritical generalization of Anglo-American findings to humanity as a whole.
 
-## The founding distinction: emic and etic
+## Epistemological and Methodological Foundations
 
-A concept taken from linguistics (Pike) that became the hinge of the method:
+The methodology of cross-cultural psychology is anchored in several foundational conceptual distinctions:
+- **The Emic–Etic Distinction**: Derived from Kenneth Pike's linguistic distinction between phonetics (universal acoustic units) and phonemics (meaningful sound contrasts within a specific language).
+  - *Etic*: Universal, culture-general constructs and assessment tools applied across diverse societies to facilitate comparative measurement.
+  - *Emic*: Culture-specific, insider perspectives, documenting indigenous psychological constructs within their localized cultural framework (e.g., Japanese *amae*, Korean *hwa-byung*, or specific Arabic grief concepts).
+  - *The Imposed Etic*: The primary methodological hazard identified by John W. Berry, where a Western psychological construct or assessment instrument is translated without establishing cultural validity, falsely treating score differences as latent trait deficits.
+- **Methodological and Measurement Invariance**: Comparative psychological research requires empirical verification of measurement invariance (configural, metric, and scalar equivalence) using multi-group confirmatory factor analysis to ensure that psychometric instruments measure identical latent constructs with identical measurement units across cultures.
 
-- **Etic**: a category applied from **outside** the culture and presumed valid for comparison across cultures (such as "depression" in a translated scale).
-- **Emic**: a category from **inside** the culture, in its own concepts — such as Japanese **amae**, Korean **hwa-byung**, or Arabic concepts of sorrow that have no single equivalent word in English.
+## Major Theoretical Models and Core Innovators
 
-The danger of the **"imposed etic"** is the central error the field warns against: a Western scale is translated literally, differences in scores are then read as differences in the trait, when the difference lies in the meaning of the item.
+The field has been structured by several comprehensive comparative models:
 
-## What it found
+### Cultural Dimensions Theory (Geert Hofstede)
+Geert Hofstede analyzed standardized survey data from over 116,000 IBM employees across more than 40 countries between 1967 and 1973 (*Culture's Consequences*, 1980), identifying four primary cultural dimensions:
+1. *Power Distance*: The degree to which less powerful members accept and expect unequal power distribution.
+2. *Individualism vs. Collectivism*: The degree of societal interdependence, contrasting personal autonomy with in-group loyalty.
+3. *Masculinity vs. Femininity*: The distribution of emotional roles between assertive, achievement-oriented values and nurturant, relationship-oriented values.
+4. *Uncertainty Avoidance*: The extent to which a society tolerates ambiguity and unstructured situations.
+Subsequent research expanded this model to include *Long-Term vs. Short-Term Orientation* and *Indulgence vs. Restraint*.
 
-- **Individualism and collectivism**: the best-known dimension of comparison, formulated by **Hofstede** from extensive institutional data and expanded by **Triandis**. **Schwartz** reformulated the map of values on a more precise psychometric basis.
-- **Acculturation**: **Berry**'s fourfold model — integration, assimilation, separation and marginalization — according to retention of the heritage culture and engagement with the new culture. Research generally finds that **integration** is the strategy most strongly associated with psychological well-being.
-- **Limits of universality**: basic facial expressions were found stable across many cultures (Ekman) and then their stability was **contested** by studies of the Himba and others; attachment patterns were found everywhere, in differing proportions.
+### Horizontal and Vertical Dimensions (Harry Triandis)
+Harry Triandis expanded the individualism-collectivism paradigm by distinguishing between *horizontal* (emphasizing equality) and *vertical* (accepting hierarchy and status differences) orientations:
+- *Horizontal Individualism (HI)*: Valuing personal uniqueness while viewing others as social equals.
+- *Vertical Individualism (VI)*: Striving for distinctiveness through competitive achievement and status acquisition.
+- *Horizontal Collectivism (HC)*: Emphasizing common goals, interdependence, and mutual equality within the in-group.
+- *Vertical Collectivism (VC)*: Emphasizing group integrity, subordination of personal goals to authority, and sacrifice for family or nation.
+Triandis also introduced the terms *idiocentrism* and *allocentrism* to measure these tendencies at the individual psychological level.
 
-## The difference from cultural psychology
+### The Universal Structure of Human Values (Shalom Schwartz)
+Shalom Schwartz developed a rigorous psychometric model of human values (*Schwartz Value Survey* and *Portrait Values Questionnaire*), demonstrating that values across dozens of countries cluster into a universal circular circumplex along two higher-order bipolar axes:
+- *Openness to Change* (Self-Direction, Stimulation, Hedonism) vs. *Conservation* (Security, Conformity, Tradition).
+- *Self-Enhancement* (Achievement, Power) vs. *Self-Transcendence* (Benevolence, Universalism).
 
-A methodological disagreement, not a verbal one: **cross-cultural** psychology treats culture as a **variable** whose effect is measured on a psychological construct presumed universal; **cultural** psychology (Shweder, Cole) sees culture and psyche as **mutually constituted**, so that they cannot be separated in order to measure one by the other. The former is quantitative and comparative, the latter interpretive and contextual.
+### The Acculturation Framework (John W. Berry)
+John W. Berry formulated the standard bidimensional acculturation model. Rather than viewing immigrant acculturation as a unidimensional loss of heritage culture, Berry conceptualized acculturation as navigating two independent decisions: (1) Is it valuable to maintain one's cultural heritage and identity? and (2) Is it valuable to seek interethnic relationships and participate in the larger society? This yields four distinct acculturation strategies:
+- **Integration**: Maintaining heritage cultural identity while actively participating in the dominant society (empirically associated with the highest psychological and sociocultural adaptation).
+- **Assimilation**: Relinquishing heritage cultural identity in favor of exclusive absorption into the dominant culture.
+- **Separation**: Retaining heritage culture while actively avoiding participation in the larger dominant society.
+- **Marginalization**: Experiencing loss of heritage cultural identity without establishing connection to the broader society (associated with the poorest adaptation outcomes).
 
-## Limitations
+## Contrast with Cultural Psychology
 
-- **Critique of Hofstede**: his data come from employees of a single company (IBM) in the 1970s, and his unit of analysis is the nation-state — so a country with hundreds of languages is treated as a single culture. He has been criticized for producing **national stereotyping** disguised in numbers.
-- **Measurement equivalence**: comparing scores between two cultures presupposes **measurement invariance**, a condition that is rarely actually tested in the published literature.
-- **Individualism/collectivism is a loose dimension**: it has come to be charged with explaining every difference, until its discriminating power has weakened — a critique from within the field.
-- **The relation to power**: who formulates the scale and who is measured? This question is what drove the rise of **indigenous psychology** as an alternative rather than a branch.
+While sharing a focus on culture, cross-cultural psychology differs methodologically from cultural psychology:
+- **Cross-Cultural Psychology** treats culture as an *independent variable* or contextual moderator, using quantitative psychometric instruments to compare behavioral variances across societies while presuming an underlying universal human mind.
+- **Cultural Psychology** (e.g., Richard Shweder, Michael Cole) treats culture and psyche as *mutually constitutive*, rejecting the conceptual separation of culture from cognitive architecture and favoring interpretive, semiotic, and ethnographic methods.
+
+## Criticisms and Limitations
+
+- **Ecological Fallacy and National Stereotyping**: Treating nation-states as monolithic cultural units (as in Hofstede's index) risks committing the ecological fallacy, attributing national aggregates to individual citizens and ignoring vast regional, generational, and ethnic diversities within nations.
+- **Reification of Individualism/Collectivism**: Critics from within the discipline argue that the individualism/collectivism dichotomy has often been overapplied as a simplistic post-hoc explanation for any observed cross-national disparity.
+- **Coloniality and Indigenous Psychology**: Psychologists in the Global South have critiqued cross-cultural psychology for continuing to rely on Western research questions and psychometric paradigms, prompting the growth of autonomous *indigenous psychologies* (such as Filipino *Sikolohiyang Pilipino*) developed natively from local worldviews and languages.
 
 ## Sources
 
-- Berry, J. W., Poortinga, Y. H., Segall, M. H. & Dasen, P. R. *Cross-Cultural Psychology: Research and Applications*. 3rd ed., Cambridge University Press, 2011.
-- Berry, John W. "Immigration, Acculturation, and Adaptation." *Applied Psychology*, 46(1), 1997, 5–34.
-- Hofstede, Geert. *Culture's Consequences*. SAGE, 1980.
-- Triandis, Harry C. *Individualism and Collectivism*. Westview Press, 1995.
-- Schwartz, Shalom H. "Universals in the Content and Structure of Values." *Advances in Experimental Social Psychology*, 25, 1992, 1–65.
-- Henrich, J., Heine, S. J. & Norenzayan, A. "The Weirdest People in the World?" *Behavioral and Brain Sciences*, 33(2–3), 2010, 61–83.
-- McSweeney, Brendan. "Hofstede's Model of National Cultural Differences and their Consequences: A Triumph of Faith — a Failure of Analysis." *Human Relations*, 55(1), 2002, 89–118. [The methodological critique.]
+- Berry, J. W. (1997). "Immigration, acculturation, and adaptation." *Applied Psychology*, 46(1), 5–34.
+- Berry, J. W., Poortinga, Y. H., Breugelmans, S. M., Chasiotis, A., & Sam, D. L. (2011). *Cross-Cultural Psychology: Research and Applications* (3rd ed.). Cambridge University Press.
+- Henrich, J., Heine, S. J., & Norenzayan, A. (2010). "The weirdest people in the world?" *Behavioral and Brain Sciences*, 33(2–3), 61–83.
+- Hofstede, G. (1980). *Culture's Consequences: International Differences in Work-Related Values*. SAGE Publications.
+- Schwartz, S. H. (1992). "Universals in the content and structure of values: Theoretical advances and empirical tests in 20 countries." *Advances in Experimental Social Psychology*, 25, 1–65.
+- Triandis, H. C. (1995). *Individualism & Collectivism*. Westview Press.

@@ -26,8 +26,7 @@ related:
 - id: "con-flow", title: "Flow", type: "مفهوم"
 - id: "stu-clark-doll-test", title: "The famous doll test study of Kenneth and Mamie Clark on the formation of racial identity in children", type: "دراسة وبحث"
 - id: "thk-wong", title: "Paul Wong", type: "مفكر"
-gaps:
-  - "Reception of Ehrenreich's critique (supporters and opponents): not yet covered"
+gaps: []
 ---
 # Positive Psychology
 
@@ -110,6 +109,15 @@ These programs are not substitutes for evaluation and treatment of mental illnes
 - **Commercial application**: the field's ideas have been absorbed by a large self-help and wellness industry, a trend Ehrenreich criticized in *Bright-Sided* (2009).
 - **Modest and variable effects**: meta-analyses of positive psychology interventions (for example Sin & Lyubomirsky, 2009; Bolier et al., 2013) find small-to-moderate effects on well-being and smaller effects on depression, with concerns about study quality.
 
+## The Ehrenreich Critique and Its Reception
+
+In *Bright-Sided: How the Relentless Promotion of Positive Thinking Has Undermined America* (2009), investigative journalist Barbara Ehrenreich delivered a prominent critique of positive psychology and the cultural ideology of mandatory optimism:
+
+- **Core arguments of the critique**: Drawing partly on her experience as a breast cancer patient, Ehrenreich argued that the positive thinking movement promotes "toxic positivity," in which individuals are blamed for their own suffering or illness under the guise that illness reflects a failure of optimism. Economically and politically, she contended that positive psychology was co-opted by corporations and financial institutions to mask structural inequality, pacify anxious or laid-off workers, and encourage the reckless, uncritical optimism that contributed to the 2008 financial crisis.
+- **Reception by critical psychologists and sociologists**: Critics largely supported Ehrenreich's warnings. Scholars like Barbara Held pointed to the "tyranny of the positive attitude," arguing that pressuring people to feel happy stigmatizes realistic grief and legitimate anger. Clinical researchers (e.g., James Coyne) corroborated her critique regarding health psychology, demonstrating that rigorous empirical studies fail to show that positive attitude or optimism improves cancer survival rates.
+- **Counter-replies by positive psychologists**: Seligman and fellow researchers responded by distinguishing academic, empirical positive psychology from the unscientific, commercial "positive thinking" tradition of Norman Vincent Peale. They maintained that positive psychology does not advocate denial of reality, reckless optimism, or the suppression of negative emotions (recognizing realistic assessments and "defensive pessimism").
+- **Catalyst for "Second-Wave" Positive Psychology (PP 2.0)**: The debate accelerated a dialectical maturation within the field. Theorists such as Paul Wong, Tim Lomas, and Itai Ivtzan formulated "Second-Wave Positive Psychology," which moves beyond simplistic positive/negative binaries to integrate existential suffering, tragic optimism, contextual nuance, and meaning-making directly into the study of human well-being.
+
 ## Institutional and Clinical Extensions
 
 - **The US Army's Comprehensive Soldier Fitness program** (launched 2009), a large institutional application that was also controversial because of questions about evidence and about its premises.
@@ -132,4 +140,6 @@ These programs are not substitutes for evaluation and treatment of mental illnes
 - Sin, N. L., & Lyubomirsky, S. (2009). Enhancing well-being and alleviating depressive symptoms with positive psychology interventions: A practice-friendly meta-analysis. *Journal of Clinical Psychology, 65*(5), 467-487.
 - Bolier, L., et al. (2013). Positive psychology interventions: A meta-analysis of randomized controlled studies. *BMC Public Health, 13*, 119.
 - Ehrenreich, B. (2009). *Bright-Sided: How the Relentless Promotion of Positive Thinking Has Undermined America*. Metropolitan Books.
+- Held, B. S. (2002). The tyranny of the positive attitude in America: Observation and speculation. *Journal of Clinical Psychology, 58*(9), 965-991.
+- Wong, P. T. P. (2011). Positive psychology 2.0: Towards a balanced interactive model of the good life. *Canadian Psychology, 52*(2), 69-81.
 - Jahoda, M. (1958). *Current Concepts of Positive Mental Health*. Basic Books.

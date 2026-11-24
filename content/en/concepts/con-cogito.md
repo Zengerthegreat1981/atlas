@@ -73,4 +73,4 @@ The Cogito set the agenda for much of early modern philosophy, from the rational
 - René Descartes, *Principia philosophiae*, 1644.
 - Harry G. Frankfurt, *Demons, Dreamers, and Madmen: The Defense of Reason in Descartes's Meditations*, Bobbs-Merrill, 1970.
 - Bernard Williams, *Descartes: The Project of Pure Enquiry*, Penguin, 1978.
-- "Descartes, René", *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/descartes/>
+- Jaakko Hintikka, "Cogito, Ergo Sum: Inference or Performance?", *The Philosophical Review*, 71(1), 1962, pp. 3–32.

@@ -21,34 +21,33 @@ gaps: []
 
 # Social Contract Theory
 
-The idea that the legitimacy of political authority arises from an agreement, actual or hypothetical, among individuals to leave the "state of nature" for an organized society, and not from divine right or conquest. Thomas Hobbes gave it its first modern formulation in *Leviathan* (1651), where the state of nature is the "war of all against all", so individuals give up their natural right entirely to a single absolute authority (Leviathan) in order to preserve security.
+Social contract theory posits that the legitimate political authority of the state and the moral obligations of citizens derive from an implicit, explicit, or hypothetical agreement among rational individuals to transition from an anarchic "state of nature" into an organized civil commonwealth, rather than from divine right, patriarchal dominion, or brute conquest. While prefigured in classical antiquity, it received its first modern systematic formulation in Thomas Hobbes's *Leviathan* (1651).
 
-## Roots
+## Ancient and Classical Precedents
 
-The idea of agreement has older roots: in Plato's *Crito* the "laws of Athens" defend Socrates' duty to obey because he consented to live under them, and for Epicurus justice is an agreement not to harm. In the Islamic heritage the imamate was depicted as a contract based on the pledge of allegiance (*bay'a*), undertaken by the people who loose and bind (*ahl al-hall wa-l-aqd*) as in al-Mawardi's *al-Ahkam al-Sultaniyya*, and Ibn Khaldun in the *Muqaddima* dealt with people's need for the "restraining authority" (*wazi'*) that prevents some of them from others. This differs from the modern contract, since it is bound by the Shari'a, and does not rest on the idea of a state of nature and individual rights prior to society.
+The intuition that political obligation rests on consent possesses ancient roots:
+- **Classical Greece**: In Plato's *Crito*, Socrates personifies the Laws of Athens to argue that his voluntary residence in the city constituted an implicit agreement to obey its judgments. In Epicureanism, justice is explicitly defined as a reciprocal compact (*synthēkē*) not to harm or be harmed (*Principal Doctrines*, 31–33).
+- **Islamic Jurisprudential Tradition**: Medieval Islamic political thought developed the doctrine of the caliphate / imamate as a contractual covenant based upon the pledge of allegiance (*bay'a*), executed by the representatives of the community (*ahl al-ḥall wa-l-'aqd*), as detailed in al-Māwardī's *al-Aḥkām al-Sulṭāniyya*. In the *Muqaddima*, Ibn Khaldun demonstrated that social cohesion (*'aṣabiyya*) requires a "restraining authority" (*al-wāzi'*) to prevent human injustice. However, this classical Islamic covenantal framework operated strictly within the preexisting normative bounds of the *Sharī'a*, unlike the modern contractarian conception of an autonomous state of nature preceding moral law.
 
-## The disagreement among the three
+## The Tripartite Early Modern Debate
 
-- **Hobbes (1651)**: the contract is a nearly complete surrender to an absolute sovereignty that cannot be annulled; rebellion against authority is unjustified except when it fails to protect life itself.
-- **John Locke (1689, "Second Treatise of Civil Government")**: the contract is conditional, and the state of nature is not war but a state of equality governed by natural law; individuals retain rights (life, liberty and property) that authority may not violate, and their revolt against a ruler who breaches them is legitimate.
-- **Jean-Jacques Rousseau (1762, "The Social Contract")**: the contract does not create an individual sovereignty but the "general will" (Volonté Générale) to which all are subject equally, including the ruler; and true freedom is obedience to a law one has laid down for oneself as a member of the community.
+Early modern social contract theory diverged into three paradigmatic frameworks:
 
-## Political impact
+- **Thomas Hobbes (*Leviathan*, 1651)**: Conceived the state of nature as a perpetual "war of all against all" (*bellum omnium contra omnes*), driven by competition, diffidence, and vainglory, where human life is famously "solitary, poor, nasty, brutish, and short." To escape violent death, rational egoists surrender their natural right to all things unconditionally to a unitary, absolute sovereign (the Leviathan). The covenant is among the individuals themselves, not between the subjects and the sovereign; hence the sovereign cannot breach the contract, and rebellion is justified only when the sovereign fails to protect life itself.
+- **John Locke (*Second Treatise of Government*, 1689)**: Conceived the state of nature not as lawless chaos, but as a state of perfect equality governed by reason and natural law. Because the enforcement of natural law is inconvenient and insecure, individuals enter a civil contract to establish an impartial judiciary and executive to preserve their fundamental rights to "life, liberty, and estate" (property). The government holds authority merely as a fiduciary trust; if it systematically breaches these natural rights, citizens possess a legitimate "right of revolution."
+- **Jean-Jacques Rousseau (*The Social Contract*, 1762)**: Rejected Hobbes's cynicism and Locke's bourgeois individualism. For Rousseau, the contract does not surrender freedom to an external ruler, but creates a collective moral and sovereign body governed by the **General Will** (*volonté générale*). By obeying laws they prescribe for themselves, citizens attain moral and civil freedom, uniting self-interest with common good.
 
-The legitimacy of modern constitutions based on popular consent instead of the divine right of kings was built on it, and Locke's language of natural rights to life, liberty and property is widely seen as echoed in the American Declaration of Independence (1776), which speaks of "life, liberty and the pursuit of happiness". John Rawls revived the tradition in *A Theory of Justice* (1971) with the idea of the "original position" and the veil of ignorance, David Gauthier developed in *Morals by Agreement* (1986) a formulation closer to Hobbes, and Thomas Scanlon developed "contractualism" in moral theory in *What We Owe to Each Other* (1998).
+## Contemporary Revivals and Critical Assessments
 
-## Criticism
-
-- **David Hume** in "Of the Original Contract" (1748) held that there is no historical contract and that people obey out of habit and utility.
-- **Carole Pateman** in *The Sexual Contract* (1988) showed that the social contract conceals a prior contract that subjects women.
-- **Charles Mills** in *The Racial Contract* (1997) held that the historical contract was among whites and excluded others.
-- It is criticized for relying on the idea of presumed consent that no one actually gave, and on an independent individual prior to society, a conception that the communitarians reject.
+- **John Rawls and Neocontractarianism**: In *A Theory of Justice* (1971), Rawls revived contract theory by introducing the "original position" and the "veil of ignorance" (*veil of ignorance*), demonstrating that justice as fairness is the distribution of basic rights and socioeconomic goods that rational, mutually disinterested agents would choose if they knew nothing of their own class, race, gender, or natural talents. David Gauthier (*Morals by Agreement*, 1986) developed a Hobbesian rational-choice model, while T. M. Scanlon (*What We Owe to Each Other*, 1998) formulated a deontological "contractualism" based on principles that no rational person could reasonably reject.
+- **Feminist and Critical Race Critiques**: Carole Pateman (*The Sexual Contract*, 1988) demonstrated that the classical social contract was historically an agreement among men that instituted patriarchal control over women within the private sphere. Charles W. Mills (*The Racial Contract*, 1997) argued that the actual historical contract in European political modernity was a racial compact among whites, legitimizing colonial dispossession, slavery, and global racial hierarchy.
+- **Communitarian Critiques**: Thinkers such as Alasdair MacIntyre and Michael Sandel challenge the foundational premise of contractarianism—the "unencumbered self"—arguing that individuals are always already embedded in communal, historical, and ethical traditions prior to abstract rational choice.
 
 ## Sources
 
-- Thomas Hobbes, Leviathan, London, Andrew Crooke, 1651.
-- John Locke, Two Treatises of Government, London, Awnsham Churchill, 1689 (title page dated 1690).
-- Jean-Jacques Rousseau, Du contrat social, Amsterdam, Marc-Michel Rey, 1762.
-- John Rawls, A Theory of Justice, Harvard University Press, 1971.
-- Carole Pateman, The Sexual Contract, Polity Press, 1988.
-- Charles Mills, The Racial Contract, Cornell University Press, 1997.
+- Thomas Hobbes, *Leviathan*, edited by Richard Tuck, Cambridge University Press, 1996 (first published 1651).
+- John Locke, *Two Treatises of Government*, edited by Peter Laslett, Cambridge University Press, 1988 (first published 1689/1690).
+- Jean-Jacques Rousseau, *The Social Contract and Other Later Political Writings*, edited and translated by Victor Gourevitch, Cambridge University Press, 1997 (first published 1762).
+- John Rawls, *A Theory of Justice*, Harvard University Press, 1971; rev. ed. 1999.
+- Carole Pateman, *The Sexual Contract*, Stanford University Press / Polity Press, 1988.
+- Charles W. Mills, *The Racial Contract*, Cornell University Press, 1997.

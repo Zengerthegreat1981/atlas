@@ -2,7 +2,7 @@
 slug: "sch-ishraqiyya"
 id: "SCH-0151"
 type: "مدرسة"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Illuminationist Philosophy (Ishrāqiyya)"
 en: "Illuminationist Philosophy (Ishrāqiyya)"
@@ -17,8 +17,7 @@ edges: []
 related:
 - id: "sch-islamic-peripatetic", title: "Islamic Peripatetic Philosophy", type: "مدرسة"
 - id: "sch-transcendent-theosophy", title: "Transcendent Theosophy (Mulla Sadra)", type: "مدرسة"
-gaps:
-  - "Ibn Sab'in and his relation to Illuminationism: not yet covered"
+gaps: []
 ---
 
 # Illuminationist Philosophy (Ishrāqiyya)
@@ -32,7 +31,7 @@ Al-Suhrawardi was born in Suhraward near Zanjan around 549 AH / 1154 CE, studied
 ## Major Works
 
 - **The Philosophy of Illumination (Hikmat al-Ishraq)** (in Arabic): the highest-ranking work, in two parts: logic and light.
-- **Al-Talwihat, al-Lamahat, al-Muqawamat, al-Masharic, and al-Mutarahat**: books of the Peripatetic phase.
+- **Al-Talwihat, al-Lamahat, al-Muqawamat, al-Mashari', and al-Mutarahat**: books of the Peripatetic phase.
 - **Hayakil al-Nur (The Temples of Light)**: a short treatise on lights.
 - **The Tale of the Occidental Exile, The Red Intellect, The Song of Gabriel's Wing**, and others: symbolic tales in Arabic and Persian about the soul's journey from the West (the world of matter) to the East (the world of light).
 - **Al-Alwah al-Imadiyya**: a work dedicated to the Artuqid ruler Imad al-Din Qara Arslan.
@@ -59,6 +58,10 @@ Al-Suhrawardi was born in Suhraward near Zanjan around 549 AH / 1154 CE, studied
 
 The Peripatetics present rational demonstration alone as the path to knowledge, make substance and accident the structure of existence, and regard the image as subjective imagining. The Illuminationists, by contrast, combine demonstration with unveiling, make light the structure of existence and its ranks, affirm an imaginal world with an independent existence, and hold that primary knowledge is by presence and needs no definition. This difference is nevertheless not a complete break: al-Suhrawardi relies on Ibn Sina's logic and physics in many places, and the "Philosophy of Illumination" remains in dialogue with the Peripatetics throughout the text.
 
+## Ibn Sab'in and Illuminationism
+
+A distinctive parallel to the Illuminationist critique of Peripateticism emerged in the western Islamic world with the Andalusian philosopher and mystic **Abd al-Haqq Ibn Sab'in** (c. 614–669 AH / 1217–1270 CE), author of *Budd al-'Arif* and the *Sicilian Questions* (answers sent to the Hohenstaufen emperor Frederick II). Like al-Suhrawardi, Ibn Sab'in launched a radical critique of Aristotelian logic, rejecting the standard Peripatetic definition by genus and specific difference as incapable of yielding genuine knowledge of essences, and tracing true wisdom back to Hermes and an ancient lineage of divinely guided sages. However, whereas al-Suhrawardi constructed an elaborate ontology of graded lights and affirmed an independent intermediate realm of images (*'alam al-mithal*), Ibn Sab'in advanced a doctrine of radical and unqualified unity (*al-wahda al-mutlaqa*). In Ibn Sab'in's ontology, existence is strictly one and indivisible; the appearance of multiplicity, cosmic hierarchies, and graded hypostases is an illusion of the estimative faculty. While Suhrawardi's Illuminationism (*ishraq*) retained systematic philosophical architecture to lead the seeker toward direct presence (*hudur*), Ibn Sab'in's "divine wisdom" (*al-hikma al-ilahiyya*) discarded metaphysical mediation in favor of an uncompromising realization that nothing exists other than God.
+
 ## Limits and Criticism
 
 - Critics among the Peripatetics and the theologians (mutakallimun) hold that the science of lights remains closer to a metaphysical representation than to strict demonstration, and that his claim of an eternal wisdom is founded on sources that cannot be historically documented.
@@ -72,3 +75,4 @@ The Peripatetics present rational demonstration alone as the path to knowledge, 
 - Walbridge, John. *The Science of Mystic Lights: Qutb al-Din Shirazi and the Illuminationist Tradition in Islamic Philosophy*. Cambridge, MA: Harvard University Press, 1992.
 - Walbridge, John. *The Leaven of the Ancients: Suhrawardī and the Heritage of the Greeks*. Albany: State University of New York Press, 2000.
 - Corbin, Henry. *En Islam iranien: aspects spirituels et philosophiques*, tome II. Paris: Gallimard, 1971.
+- Akasoy, Anna. *Philosophy and the Islamic Tradition of Hermeticism: Ibn Sab'in's Sicilian Questions*. Leiden: Brill, 2008.

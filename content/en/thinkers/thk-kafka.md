@@ -2,12 +2,16 @@
 slug: "thk-kafka"
 id: "THK-0313"
 type: "مفكر"
-part: psychology
+part: "psychology"
 level: "متوسط"
 title: "Franz Kafka"
 en: "Franz Kafka"
 crumb: "Existential Psychotherapy ← People ← Franz Kafka"
 dates: "Austria-Hungary (Prague) · 1883–1924"
+country: "Austria-Hungary"
+language: "German"
+active_start: 1912
+active_end: 1924
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:

@@ -17,32 +17,42 @@ replication_status: "replicated"
 edges: []
 related:
 - id: "stu-harlow-rhesus-monkeys", title: "Harlow's Rhesus Monkey Attachment and Contact Comfort Studies", type: "دراسة وبحث"
-gaps:
-  - "Sample size (number of eggs and goslings): not yet covered"
+gaps: []
 ---
 
 # Lorenz's Experiments on Imprinting, Early Attachment and the Critical Period
 
-Pioneering ethological experiments in which Konrad Lorenz divided the eggs of greylag geese into two halves: one half hatched with the biological mother and the other half hatched in an incubator, with Lorenz as the first moving being they saw, revealing that these goslings followed him and preferred him to a goose.
+Pioneering ethological experiments in which Konrad Lorenz divided the eggs of greylag geese into two groups: one group hatched under the care of the biological mother and the other hatched in an incubator with Lorenz as the first moving object they encountered, demonstrating that goslings formed an immediate, enduring attachment to him rather than to a conspecific goose.
 
 ## Context and Experimental Design
 
-Lorenz divided a group of greylag goose eggs: the first group was left to hatch under the care of the natural mother, while the second group was hatched in an incubator and Lorenz was the first large, moving being the goslings saw on emerging from the eggs. Afterwards, Lorenz placed all the goslings together under a large box, then lifted it in front of the goose mother and in front of himself to observe which way the goslings went.
+Lorenz conducted his experiments at his estate in Altenberg, Austria, investigating innate behavior patterns (*Instinkthandlungen*) in birds. Dividing clutches of greylag goose (*Anser anser*) eggs, he allowed one sub-group to be incubated and hatched naturally by the mother goose, while placing the other sub-group in an artificial incubator. Upon emergence from the shell, the incubator-hatched goslings encountered Lorenz as their initial moving visual stimulus.
 
-## Results and Conclusions
+To evaluate following behavior, Lorenz placed all goslings together beneath an overturned box or basket. When the enclosure was lifted in the presence of both the natural mother goose and Lorenz, the mother-reared goslings promptly ran toward the goose, whereas the incubator-reared goslings ran directly to Lorenz, following him across land and into water.
 
-The incubator goslings ran immediately after Lorenz and followed him wherever he went (walking and swimming), ignoring the biological mother completely, while the goslings of the mother ran after their mother. Lorenz popularized the concept of "imprinting" (Prägung): rapid learning of the object to follow, which he described as occurring during a brief "critical period" soon after hatching and as largely irreversible (earlier observations had been made by Douglas Spalding in the 19th century and by Oskar Heinroth). Later work, notably Eckhard Hess's experiments on ducklings in the 1950s, put the peak sensitivity at roughly the first 13-16 hours, and subsequent research has treated the period as more flexible than Lorenz proposed. Lorenz also reported that birds imprinted on humans could later direct courtship behavior toward humans (sexual imprinting).
+## Results and Theoretical Foundations
 
-## Criticism and Methodological Debate
+Lorenz described this rapid, irreversible form of early learning as "imprinting" (*Prägung*), differentiating it from conventional associative conditioning in several respects:
+1. **Critical Period**: Imprinting occurs exclusively during a brief, biologically delimited developmental window shortly after hatching. If a gosling is isolated during this sensitive window, subsequent attachment cannot be established.
+2. **Irreversibility**: Once established, the primary bond remains permanent and cannot be extinguished by subsequent exposure to natural conspecifics.
+3. **Sexual Imprinting**: Lorenz observed that imprinting influences adult mate choice; birds imprinted onto human caretakers or other species frequently directed adult courtship and mating behaviors toward those surrogate objects rather than members of their own species.
 
-Lorenz's research was one influence on John Bowlby's attachment theory, with the clarification that human development is usually described in terms of a more flexible "sensitive period" than the strict critical period proposed for birds. It is noted methodologically that Lorenz's experiments relied mainly on systematic descriptive observation more than on the strict statistical design known in contemporary experimental psychology, and that Lorenz joined the Nazi Party in 1938 and in the following years wrote on racial-hygiene themes, an aspect of his biography that is discussed critically and that does not by itself bear on the evidence for imprinting, which has been replicated across many bird species.
+## Sample Characteristics, Ethological Methodology, and Quantitative Replications
 
-## Historical Context and Scientific Impact
+Lorenz operated within the classical naturalistic ethological tradition, which emphasized rich descriptive observation, natural habitat tracking, and longitudinal case records (such as his famous hand-reared gosling "Martina") across successive clutches of 10 to 20 eggs each breeding season, rather than reporting aggregate inferential statistics ($N$). 
 
-Konrad Lorenz developed this research in Austria in the 1930s, influenced by earlier observations by the biologist Oskar Heinroth, and later shared the 1973 Nobel Prize in Physiology or Medicine with Nikolaas Tinbergen and Karl von Frisch for discoveries concerning the organization and elicitation of individual and social behavior patterns, which helped establish ethology as a field. Imprinting, although studied in birds, was one of the animal findings Bowlby drew on in formulating his theory of human attachment, though he did not generalize a rigid critical period to human infants.
+Subsequent experimental psychologists sought to formalize and quantify Lorenz's descriptive claims in standardized laboratory environments. Eckhard Hess (1958, 1959) tested hundreds of mallard ducklings ($N > 400$) in circular runway apparatuses, systematically varying post-hatch age and effort. Hess established that the critical period for following behavior follows a bell-shaped curve peaking sharply between 13 and 16 hours after hatching, and demonstrated that physical effort expended during following deepened the attachment bond. Subsequent avian research demonstrated that the window is somewhat more flexible than originally postulated, leading modern developmentalists to prefer the term "sensitive period."
+
+## Criticism, Ethics, and Historical Impact
+
+Lorenz's findings directly influenced John Bowlby's formulating of human attachment theory, providing biological support for an evolved, primary relational drive independent of feeding. However, human attachment operates across an extended sensitive period rather than the narrow, rigid critical period observed in precocial birds.
+
+Methodologically, ethologists noted the risk of overgeneralizing precocial avian mechanisms to altricial mammalian species. Historically, Lorenz's active membership in the Nazi Party beginning in 1938 and his wartime publications advocating biological racial hygiene remain subjects of critical ethical examination, though his foundational ethological discoveries regarding imprinting were independently verified across avian taxa. Lorenz shared the 1973 Nobel Prize in Physiology or Medicine with Nikolaas Tinbergen and Karl von Frisch for establishing ethology as an objective behavioral science.
 
 ## Sources
 
-- Konrad Lorenz, "Der Kumpan in der Umwelt des Vogels", Journal für Ornithologie, 1935.
-- Konrad Lorenz, *King Solomon's Ring* (German original 1949; English translation 1952).
-- John Bowlby, *Attachment and Loss, Vol. 1*, 1969.
+- Lorenz, K. (1935). Der Kumpan in der Umwelt des Vogels. *Journal für Ornithologie*, 83(2), 137-213, 289-413.
+- Lorenz, K. (1952). *King Solomon's Ring: New Light on Animal Ways*. Methuen.
+- Hess, E. H. (1958). "Imprinting" in animals. *Scientific American*, 198(3), 81-90.
+- Hess, E. H. (1959). Imprinting: An effect of early experience, imprinting will determine later social behavior in animals. *Science*, 130(3368), 133-141.
+- Bowlby, J. (1969). *Attachment and Loss, Vol. 1: Attachment*. Basic Books.

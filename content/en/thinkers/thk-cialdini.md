@@ -14,63 +14,62 @@ active_start: 1970
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Social Psychology", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 
 # Robert B. Cialdini
 
-Professor Emeritus of Psychology at Arizona State University, widely regarded as a leading academic authority on the psychology of influence, persuasion and social compliance.
+Robert Beno Cialdini (born 1945) is Regents' Professor Emeritus of Psychology and Marketing at Arizona State University, widely regarded as a leading academic authority on the psychology of influence, persuasion, and social compliance.
 
-## What he contributed
+## What He Contributed
 
-- ***Influence* (1984)**: The book that popularised the applied field of the **psychology of persuasion**; it has sold millions of copies. His method in producing it is striking: he spent three years **undercover**, training in direct sales, fundraising, advertising and telemarketing, in order to observe what professionals actually do rather than what books say.
-- **The six principles of persuasion**: his classification, which became the standard reference:
-  - **Reciprocity**: An unsolicited gift creates a psychological debt that drives a return favor, even when what is requested is far greater.
-  - **Commitment and Consistency**: Someone who has publicly committed to a small position becomes more inclined to accept what is consistent with it later; this is the basis of the **"foot-in-the-door"** technique.
-  - **Social Proof**: Under ambiguity we infer what is right from what others do, especially those who resemble us.
-  - **Liking**: We accept requests from those we like, and liking is produced by similarity, praise, familiarity and cooperation.
-  - **Authority**: The symbols of authority (title, uniform, suit) produce compliance even without real authority.
-  - **Scarcity**: Something's value rises simply because its availability declines, and the effect of a potential **loss** is stronger than that of an equivalent gain.
-- **The seventh principle: "Unity" (2016)**: Added in *Pre-Suasion*: not mere similarity but **shared identity**, the sense on both sides of being one "we" (family, place, belonging). It is stronger than liking because it rests not on inclination but on belonging.
-- ***Pre-Suasion* (2016)**: His second thesis: the **moment before the message** may matter more than the message itself. Directing attention to something specific before the request, through a question, an image or a context, changes the response. He called this "pre-suasive attention steering."
-- **Ethical use**: He consistently distinguished between **revealing** a principle already present in the situation and using it (ethical), and **fabricating** it falsely, such as claiming a nonexistent scarcity or an artificial social proof. His argument is that deception **wins once and loses reputation forever**.
+- ***Influence* (1984)**: The book that popularized the applied field of the **psychology of persuasion**, having sold millions of copies worldwide. His methodological approach was distinctive: he spent three years conducting systematic participant observation undercover, enrolling in training programs for direct sales, fundraising, advertising, and telemarketing to observe how compliance practitioners operate in natural settings.
+- **The Six Core Principles of Persuasion**: His taxonomy, which became a foundational reference in social influence:
+  - **Reciprocity**: An unsolicited gift or favor creates a psychological obligation to repay, often prompting a concession greater than the initial favor.
+  - **Commitment and Consistency**: People who commit publicly to an initial stance or small request become significantly more inclined to accept subsequent requests consistent with it; this forms the basis of the **"foot-in-the-door"** technique.
+  - **Social Proof**: Under conditions of ambiguity or uncertainty, individuals look to the actions and behaviors of others—particularly similar peers—to determine correct conduct.
+  - **Liking**: Compliance increases substantially toward people one likes, with liking fostered by physical attractiveness, similarity, sincere praise, and collaborative contact.
+  - **Authority**: Perceived expertise or symbols of authority (titles, formal attire, institutional credentials) trigger automatic deference even in the absence of substantive justification.
+  - **Scarcity**: Opportunities and resources are valued more highly when their availability is limited or decreasing, driven by psychological reactance and loss aversion.
+- **The Seventh Principle: "Unity" (2016)**: Introduced in *Pre-Suasion* and integrated into the expanded 2021 edition of *Influence*. Unity goes beyond surface similarity to emphasize **shared identity**—the feeling that someone is "one of us" (kinship, shared group identity, common heritage). It operates through belonging rather than simple liking.
+- ***Pre-Suasion* (2016)**: Cialdini's thesis that the optimal moment for persuasion occurs *before* a request is delivered. By directing attention strategically to a specific concept, value, or association prior to making a proposal, communicators can prime receptivity—a process he termed "pre-suasive attention steering."
+- **Ethical Persuasion**: Cialdini consistently distinguished between **revealing** an existing, genuine principle in a situation (ethical influence) and **fabricating** an artificial one, such as bogus scarcity or manufactured social proof. He warned that deceptive manipulation may secure temporary compliance but inflicts permanent reputational damage.
 
-## Biography and training
+## Biography and Training
 
-Robert Beno Cialdini was born in 1945 in Milwaukee, Wisconsin, and grew up in an Italian-American environment in which, he says, he was treated as "gullible" before salespeople and attempts at persuasion. He earned his bachelor's degree from the University of Wisconsin-Milwaukee in 1967, then received his doctorate in social psychology from the University of North Carolina at Chapel Hill in 1970, and joined Arizona State University the same year, where he taught for decades and held the title of Regents' Professor. He later founded the company Influence at Work to transfer research findings to organizations. His early research was conducted in the laboratory and the field together, a methodological hallmark that distinguished him: he combined a controlled experiment in the real social context with observation of professionals.
+Robert Beno Cialdini was born on 27 April 1945 in Milwaukee, Wisconsin. He earned his bachelor's degree from the University of Wisconsin-Milwaukee in 1967 and completed his doctorate in social psychology at the University of North Carolina at Chapel Hill in 1970. He undertook postdoctoral training at Columbia University before joining the faculty at Arizona State University, where he taught for over three decades and was named Regents' Professor. He later established the consulting organization Influence at Work to translate experimental findings into institutional training.
 
-## Scientific context: from compliance to norms
+Throughout his career, Cialdini championed "full-cycle social psychology," a methodology combining controlled laboratory experiments with rigorous field observations to verify the external validity of psychological phenomena.
 
-The field in which he worked arose from postwar social psychology's interest in compliance and obedience, in figures such as Solomon Asch and Stanley Milgram, and from the emergence of questions in marketing and advertising. In this context Cialdini and his colleagues produced a series of famous field experiments in peer-reviewed journals. In 1975 he published with colleagues in the *Journal of Personality and Social Psychology* the "door-in-the-face" experiment: a person who refuses a large request becomes more likely to accept a smaller request that follows immediately. In 1978 he published with Cacioppo, Bassett and Miller a study of the "low-ball" technique in the same journal: committing to a decision before the full cost is revealed raises the likelihood of continuing with it. In 1976 he described the phenomenon of "basking in reflected glory" in three field studies of college football fans, noting that people wear the team's insignia more after its victory and use the pronoun "we" in victory and "they" in defeat.
+## Scientific Context: From Compliance to Norms
 
-Among his less famous but more enduring contributions is his research on **social norms**. In a 1990 paper with Reno and Kallgren in *JPSP* he formulated the "focus theory of normative conduct," distinguishing between the descriptive norm (what people actually do) and the injunctive norm (what is approved), and showing that the effect depends on which of them attention is focused on. A study by Schultz, Nolan, Cialdini and colleagues (*Psychological Science*, 2007) showed that messages about neighbors' energy consumption lowered consumption among households above the average but raised it among those below the average (the "boomerang" effect) unless accompanied by a sign of approval, an example of how the principle of social proof produces a counterproductive result when misused. In the hotel study (Goldstein, Cialdini and Griskevicius, *Journal of Consumer Research*, 2008), a phrase saying that most guests in the room reuse their towels raised the response rate more than the general environmental message, and the effect rose when it was stated that "guests in this very room" had done so.
+Cialdini's work emerged from post-World War II social psychological research on conformity and obedience conducted by Solomon Asch and Stanley Milgram, applying these insights to everyday interpersonal interactions and marketing. 
 
-In an authoritative review with Goldstein in 2004 in the *Annual Review of Psychology*, Cialdini summarized the literature on compliance and conformity and distinguished the three motives behind them: the desire for accuracy, for affiliation, and for maintaining a positive self-concept. In 2001 he translated the principles into the language of management in an article in the *Harvard Business Review*.
+In a classic 1975 study in the *Journal of Personality and Social Psychology* (JPSP), Cialdini and colleagues established the empirical basis of the "door-in-the-face" technique: participants who refuse an initial extreme request become significantly more likely to accept a subsequent, moderate concession. In 1978, with Cacioppo, Bassett, and Miller, he documented the "low-ball" technique: individuals who agree to an initial attractive offer remain committed even after the full hidden costs are revealed. In 1976, Cialdini investigated "basking in reflected glory" (BIRGing), showing that college students more frequently wear university apparel and use the pronoun "we" after athletic victories, distancing themselves ("they") following defeats.
 
-## Impact and criticism
+Cialdini also made enduring contributions to normative social influence. In a 1990 paper with Reno and Kallgren, he formulated the **focus theory of normative conduct**, distinguishing between *descriptive norms* (what people actually do) and *injunctive norms* (what people ought to do). The research demonstrated that norms only guide behavior when they are cognitively salient. In subsequent field experiments on household energy consumption (Schultz et al., 2007), providing normative feedback reduced consumption among high-use households but produced a "boomerang effect" among low-use households unless accompanied by an injunctive symbol of social approval. Similarly, in a well-known hotel study (Goldstein, Cialdini, & Griskevicius, 2008), towel reuse increased significantly when signs stated that a majority of guests—especially guests who stayed in that specific room—reused their towels.
 
-The book became required reading in business schools and psychology departments, and his ideas have been applied in public health policy, organ donation, tax compliance and energy conservation. Cialdini's work is closely related to the behavioural-insights policy work that followed, such as the United Kingdom's "Nudge" unit. Criticism has been directed at two aspects: first, that the six principles are a descriptive classification rather than a predictive theory, so they explain after the fact and any one of them can be invoked to explain a given result; second, that many field experiments were conducted under special conditions with modest sample sizes, and their results are hard to generalize to other cultures and situations.
+In 2004, Cialdini and Noah Goldstein published an authoritative review in the *Annual Review of Psychology*, identifying three fundamental motivations underlying compliance and conformity: the goal of accuracy, the goal of affiliation, and the goal of maintaining a positive self-concept.
 
-## Limitations
+## Impact and Criticism
 
-- Some of the foundational studies in the literature he built on, especially in **social priming**, on which part of *Pre-Suasion* relies, have not withstood replication attempts over the past decade. The original six principles are on firmer ground than the priming extensions.
-- The book is **descriptive, not normative**: it explains what works, not what it is good to do, and it has therefore been used in aggressive marketing as much as in public health.
+Cialdini's research has exerted a profound influence across academic psychology, marketing, organizational management, and public policy, directly informing the "nudging" and behavioral insights frameworks adopted by governments worldwide.
 
-## His place in the current
+Criticisms of his framework focus on two primary concerns:
+- **Taxonomic versus explanatory power**: Critics argue that the six (or seven) principles represent a descriptive taxonomy of influence heuristics rather than a unified deductive theory, making it easy to invoke principles post-hoc to explain varied outcomes.
+- **Replication and effect size in priming extensions**: While the core compliance techniques (such as reciprocity and commitment) are robustly supported, some of the subtle attention-steering and behavioral priming effects featured in *Pre-Suasion* have faced scrutiny amid the wider replication crisis in social psychology.
 
-Robert Cialdini is Professor Emeritus at Arizona State University and one of the most cited social psychologists. His place in this atlas is that he brought **experimental social psychology** into a form directly applicable in marketing, negotiation, public health and therapy alike; the mechanisms of commitment and consistency and social proof work in the therapy room as they do in the marketplace. His work intersects with **behavioral economics** (Kahneman, Thaler) in diagnosing the shortcut inferences by which the mind operates under pressure.
+## Major Works
 
-## Major works
-
-- *Influence: The Psychology of Persuasion* (1984, and expanded editions).
-- *Yes! 50 Scientifically Proven Ways to Be Persuasive* (2008).
+- *Influence: The Psychology of Persuasion* (1984; expanded ed., 2021).
+- *Yes! 50 Scientifically Proven Ways to Be Persuasive* (with Noah Goldstein and Steve Martin, 2008).
 - *Pre-Suasion: A Revolutionary Way to Influence and Persuade* (2016).
 
 ## Sources
 
-- Cialdini, R. B. *Influence: The Psychology of Persuasion*. New York: William Morrow, 1984 (expanded edition: New York: Harper Business, 2021).
-- Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L. "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique." *Journal of Personality and Social Psychology* 31, 1975.
-- Cialdini, R. B., Reno, R. R., & Kallgren, C. A. "A focus theory of normative conduct." *Journal of Personality and Social Psychology* 58, 1990.
-- Cialdini, R. B., & Goldstein, N. J. "Social influence: Compliance and conformity." *Annual Review of Psychology* 55, 2004.
-- Cialdini, R. B. *Pre-Suasion: A Revolutionary Way to Influence and Persuade*. New York: Simon & Schuster, 2016.
+- Cialdini, R. B. (1984). *Influence: The Psychology of Persuasion*. New York: William Morrow (Expanded ed.: New York: Harper Business, 2021).
+- Cialdini, R. B., Vincent, J. E., Lewis, S. K., Catalan, J., Wheeler, D., & Darby, B. L. (1975). "Reciprocal concessions procedure for inducing compliance: The door-in-the-face technique." *Journal of Personality and Social Psychology*, 31(2), 206–215.
+- Cialdini, R. B., Reno, R. R., & Kallgren, C. A. (1990). "A focus theory of normative conduct: Recycling the concept of norms to reduce littering in public places." *Journal of Personality and Social Psychology*, 58(6), 1015–1026.
+- Cialdini, R. B., & Goldstein, N. J. (2004). "Social influence: Compliance and conformity." *Annual Review of Psychology*, 55, 591–621.
+- Goldstein, N. J., Cialdini, R. B., & Griskevicius, V. (2008). "A room with a viewpoint: Using social norms to motivate environmental conservation in hotels." *Journal of Consumer Research*, 35(3), 472–482.

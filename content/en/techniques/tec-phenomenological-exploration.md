@@ -7,8 +7,8 @@ level: "متوسط"
 title: "Phenomenological Exploration"
 en: "Phenomenological Exploration"
 crumb: "Existential Psychotherapy ← Techniques and Interventions ← Phenomenological Exploration"
-dates: null
-active_start: null
+dates: "Europe · from 1900"
+active_start: 1900
 active_end: "مستمر"
 edges: []
 related:
@@ -23,7 +23,7 @@ Phenomenological exploration is a central practice of existential therapy: the c
 
 ## What it is
 
-The method behind the practice has three moves. The first is the epoché, or bracketing: suspending, as far as possible, our assumptions about what is real, what caused what, and what the experience means. The therapist brackets theory, diagnostic categories, and personal judgements in order to attend to the phenomenon as it shows itself. The second is description: staying with what appears, in its own terms, rather than replacing it with an explanation. The client's experience is the primary datum, and the therapist helps the client stay with it long enough for its structure — how it unfolds in time, where it is felt in the body — to become visible. The third is imaginative variation: changing the details of the experience in imagination to find what is essential to it and what is accidental. Interpretation is deferred, not forbidden; any interpretation must answer to the description rather than be imposed on it.
+The method behind the practice has three moves. The first is the epoché, or bracketing: setting aside, as far as possible, our assumptions about what is real, what caused what, and what the experience means. The therapist brackets theory, diagnostic categories, and personal judgements in order to attend to the phenomenon as it shows itself. The second is description: staying with what appears, in its own terms, rather than replacing it with an explanation. The client's experience is the primary datum, and the therapist helps the client stay with it long enough for its structure — how it unfolds in time, where it is felt in the body — to become visible. The third is imaginative variation: changing the details of the experience in imagination to find what is essential to it and what is accidental. Interpretation is deferred, not forbidden; any interpretation must answer to the description rather than be imposed on it.
 
 ## History
 

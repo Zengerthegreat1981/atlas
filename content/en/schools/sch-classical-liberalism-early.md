@@ -29,85 +29,85 @@ A philosophical-political tradition that arose in **England** in the late 17th c
 
 ## Founding Context
 
-In the 17th–18th centuries **Europe** witnessed three interlinked revolutions:
-- **The Scientific Revolution** (Revolutio Scientifica): Copernicus (1543), Galileo (1632), Newton (1687): nature proceeds by laws, not by continuous divine intervention.
-- **The English Revolution** (Revolutio Anglicana, 1688): a glorious agreement between king and parliament, religious toleration, the rights of parliament.
-- **The American Revolution** (Revolutio Americana, 1776) and **the French Revolution** (Revolutio Francica, 1789): the declaration of human rights, a civil state, individual freedom.
+In the 17th–18th centuries Europe witnessed three interlinked revolutions:
+- **The Scientific Revolution**: Copernicus (1543), Galileo (1632), Newton (1687): nature proceeds by regular laws rather than arbitrary intervention.
+- **The English Revolution** (1688): the Glorious Revolution established parliamentary supremacy, constitutional monarchy, and religious toleration.
+- **The American Revolution** (1776) and **the French Revolution** (1789): articulated declarations of human rights, constitutional government, and individual freedom.
 
 ## Leading Figures
 
 ### Early English Liberalism
 
-- **John Locke** (1632–1704): the philosophical "father" of liberalism.
-- **Adam Smith** (1723–1790): the economic "father" of liberalism.
-- **Edmund Burke** (1729–1797): a liberal conservative, founder of modern conservatism.
-- **Jeremy Bentham** (1748–1832): founder of utilitarianism; utility is the basis of legislation.
-- **John Stuart Mill** (1806–1873): *On Liberty* (1859), individual freedom against collective tyranny.
-- **Herbert Spencer** (1820–1903): evolutionary social theory and a strong defender of individual liberty.
+- **John Locke** (1632–1704): the foundational philosopher of liberalism, articulating natural rights and government by consent.
+- **Adam Smith** (1723–1790): the foundational economic theorist of classical liberalism.
+- **Edmund Burke** (1729–1797): a Whig statesman and liberal conservative who defended constitutional liberty and market exchange while emphasizing tradition.
+- **Jeremy Bentham** (1748–1832): founder of utilitarianism, proposing utility as the standard for legislation.
+- **John Stuart Mill** (1806–1873): author of *On Liberty* (1859), championing individual autonomy and freedom of expression against social conformity.
+- **Herbert Spencer** (1820–1903): evolutionary social theorist and radical defender of laissez-faire individualism.
 
 ### French Liberalism
 
-- **Montesquieu** (1689–1755): *De l'Esprit des Lois* (1748), the separation of powers.
-- **Voltaire** (1694–1778): freedom of speech, religious toleration.
-- **Condorcet** (1743–1794): the "progress" of humankind.
-- **Tocqueville** (1805–1859): *De la Démocratie en Amérique* (1835–1840), an analysis of democratic society and of the threats to liberty within it, such as the tyranny of the majority.
+- **Montesquieu** (1689–1755): *De l'Esprit des Lois* (1748), articulating the separation of powers.
+- **Voltaire** (1694–1778): advocate of freedom of speech, tolerance, and civil liberties.
+- **Condorcet** (1743–1794): theorist of human progress, constitutional rights, and public education.
+- **Alexis de Tocqueville** (1805–1859): *De la Démocratie en Amérique* (1835–1840), analyzing democratic egalitarianism and the dangers of the tyranny of the majority.
 
-### American Liberalism
+### American Liberalism and Constitutionalism
 
-- **Thomas Jefferson** (1743–1826): the *Declaration of Independence* (1776).
-- **James Madison** (1751–1836): the *Federalist Papers* (1787–1788), the father of the American Constitution.
-- **Alexander Hamilton** (1755–1804): the *Federalist Papers*, founder of the American bank.
-- **Thomas Paine** (1737–1809): *Common Sense* (1776), *The Rights of Man* (1791–1792).
-- **Benjamin Franklin** (1706–1790).
+- **Thomas Jefferson** (1743–1826): author of the *Declaration of Independence* (1776).
+- **James Madison** (1751–1836): co-author of the *Federalist Papers* (1787–1788) and primary architect of the American Constitution and Bill of Rights.
+- **Alexander Hamilton** (1755–1804): co-author of the *Federalist Papers* and architect of early American fiscal institutions.
+- **Thomas Paine** (1737–1809): author of *Common Sense* (1776) and *The Rights of Man* (1791–1792).
+- **Benjamin Franklin** (1706–1790): diplomat, scientist, and defender of civic liberties.
 
-### Scottish Liberalism
+### Scottish Enlightenment
 
 - **Adam Smith** (1723–1790): *The Theory of Moral Sentiments* (1759), *The Wealth of Nations* (1776).
-- **Adam Ferguson** (1723–1816): *An Essay on the History of Civil Society* (1767).
-- **David Hume** (1711–1776): influential, yet at odds with the contract.
+- **Adam Ferguson** (1723–1816): *An Essay on the History of Civil Society* (1767), emphasizing civil institutions and spontaneous order.
+- **David Hume** (1711–1776): philosophical empiricist and political essayist whose institutional analysis deeply influenced Smith and Madison.
 
-### Dutch Liberalism
+### Early Continental Precursors
 
-- **Johannes Althusius** (1557–1638): *Politica Methodice Digesta* (1603), federalism.
-- **Hugo Grotius** (1583–1645): *De Jure Belli ac Pacis* (1625), international law.
+- **Hugo Grotius** (1583–1645): Dutch jurist whose *De Jure Belli ac Pacis* (1625) laid the groundwork for modern natural rights and international law.
+- **Johannes Althusius** (1557–1638): German legal theorist whose *Politica Methodice Digesta* (1603) pioneered federalism and popular sovereignty.
 
 ## Central Concepts
 
-### 1. Individual Rights (Iura Individualia)
+### 1. Individual Rights
 
-Locke: life, liberty and property are three natural rights that the state may not violate. Mill: in matters that concern only himself, the individual is sovereign against collective pressure.
+Locke articulated life, liberty, and estate (property) as inalienable natural rights that precede political society. Mill later grounded individual liberty not on abstract natural rights but on utility in the largest sense, holding that in matters affecting only oneself, individual sovereignty is paramount.
 
-### 2. Limited Government (Gubernatio Limitata)
+### 2. Limited Government
 
-Locke: government is established by consent to protect natural rights and is limited by them. Classical liberals generally held that the state should not interfere in religion or personal life except to protect the rights of others.
+Government is established by the consent of the governed to secure rights and maintain the rule of law. Powers are strictly enumerated or circumscribed to prevent arbitrary tyranny.
 
-### 3. The Free Market (Mercatus Liber)
+### 3. The Free Market and Spontaneous Order
 
-Adam Smith in *The Wealth of Nations* (1776): the individual who pursues his own interest is "led by an invisible hand" to promote the public interest more effectively than when he intends to promote it. Competition in free markets tends to coordinate economic activity.
+Adam Smith demonstrated in *The Wealth of Nations* (1776) how individuals pursuing their legitimate self-interest within a framework of justice are led, as if by an "invisible hand," to coordinate production and promote general prosperity more effectively than intentional government planning.
 
-### 4. The Division of Labor (Divisio Laboris)
+### 4. The Division of Labor
 
-Adam Smith opens *The Wealth of Nations* with the division of labour, illustrated by the pin factory, as the main source of rising productivity. He treats exchange as grounded in a human propensity to "truck, barter and exchange."
+Smith opened *The Wealth of Nations* by analyzing the division of labour as the primary driver of economic productivity and technological progress, rooted in the human propensity to "truck, barter, and exchange."
 
-### 5. The Role of the State (Officium Civitatis)
+### 5. The Proper Scope of the State
 
-Smith favoured "the obvious and simple system of natural liberty" but assigned the state duties of defence, justice and certain public works; classical liberals differed on how far these duties extend.
+Smith advocated the "system of natural liberty" but assigned the sovereign three essential duties: national defence, the administration of justice, and the provision of public institutions and infrastructure that private enterprise cannot profitably maintain.
 
-### 6. The Separation of Powers (Distinctio Potestatum)
+### 6. The Separation of Powers
 
-Montesquieu in *De l'Esprit des Lois* (1748): three powers (legislative, executive, judicial) are not to be gathered in one hand; this is the basis of political freedom. Madison founded the American Constitution on this principle.
+Montesquieu argued in *The Spirit of the Laws* (1748) that political liberty requires the legislative, executive, and judicial powers to be checked and separated. This doctrine directly shaped the American constitutional framework designed by Madison.
 
-### 7. The Written Constitution (Constitutio Scripta)
+### 7. Constitutionalism and the Rule of Law
 
-The American founders (Madison, Hamilton and others) defended a written constitution as a way to define and limit powers and to secure rights.
+Classical liberalism insists on constitutional limits to government power, protecting individuals and minority groups from arbitrary decree and unchecked majoritarian rule.
 
-### 8. Civil Liberties
+### 8. Civil Liberties and Toleration
 
-Classical liberals defended freedom of speech, freedom of religion and toleration, security of property and freedom of contract, though they differed on their scope. Mill's *On Liberty* argued that society may interfere with an individual's conduct only to prevent harm to others.
+Classical liberals championed freedom of speech, freedom of religion and conscience, inviolability of private contracts, and free association. Mill's harm principle established that the only justification for state coercion over a sane adult is preventing harm to others.
 
-### 9. Utility (Utilitas)
+### 9. Utilitarian Reform
 
-Bentham: the greatest utility for the greatest number of people; the utilitarian principle is the basis of legislation.
+Bentham and James Mill grounded liberal policy in the principle of utility—seeking the greatest happiness of the greatest number—reforming legal and penal codes along rational, consequentialist lines.
 
 ## Reference Works
 
@@ -125,15 +125,13 @@ Bentham: the greatest utility for the greatest number of people; the utilitarian
 - **On Liberty**, Mill (1859).
 - **An Introduction to the Principles of Morals and Legislation**, Bentham (1789).
 
-## Schools of Classical Liberalism
+## Strands and Traditions
 
-- **English Liberalism** (Liberalismus Anglicus): Locke, Adam Smith, Bentham, Mill, Spencer.
-- **American Liberalism** (Liberalismus Americanus): Jefferson, Madison, Hamilton, Paine.
-- **French Liberalism** (Liberalismus Gallicus): Montesquieu, Voltaire, Condorcet, Tocqueville.
-- **Scottish Liberalism** (Liberalismus Scoticus): Adam Smith, Ferguson.
-- **Dutch Liberalism** (Liberalismus Batavus): Grotius, Althusius.
-- **Utilitarianism** (Utilitarismus): Bentham, Mill (a branch of liberalism).
-- **Economic Liberalism** (Liberalismus Oeconomicus): Adam Smith, Ricardo, Malthus.
+- **British Liberalism**: Locke, Smith, Bentham, J. S. Mill, and Spencer.
+- **American Constitutionalism**: Jefferson, Madison, Hamilton, and Paine.
+- **French Political Liberalism**: Montesquieu, Voltaire, Condorcet, Constant, and Tocqueville.
+- **The Scottish Enlightenment**: Smith, Ferguson, and Hume.
+- **Classical Political Economy**: Smith, David Ricardo, and Thomas Malthus.
 
 ## Relation to Other Schools
 

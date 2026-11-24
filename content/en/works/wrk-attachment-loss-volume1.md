@@ -23,35 +23,43 @@ related:
 - id: "thk-bowlby", title: "John Bowlby", type: "مفكر"
 - id: "con-attachment-styles", title: "Attachment Styles", type: "مفهوم"
 - id: "con-secure-attachment", title: "Secure Attachment", type: "مفهوم"
-gaps:
-  - "Contemporary psychoanalytic reactions (by name and reference) to the book's publication: not yet covered"
+gaps: []
 ---
 
 # Attachment (Volume 1, 1969)
 
-The first volume of John Bowlby's trilogy *Attachment and Loss*, followed by the second volume, *Separation: Anxiety and Anger* (1973), and then the third, *Loss: Sadness and Depression* (1980, a separate file). This book is the one that laid down the basic thesis of the trilogy.
+*Attachment* is the first volume of John Bowlby's foundational trilogy *Attachment and Loss*, followed by *Separation: Anxiety and Anger* (Volume 2, 1973) and *Loss: Sadness and Depression* (Volume 3, 1980). This opening work established the core conceptual and empirical foundations of attachment theory.
 
 ## The Central Thesis
 
-The bond between the child and the primary caregiver is not a secondary drive derived from the satisfaction of hunger, as the "Cupboard Love Theory" then prevalent in psychoanalysis claimed, namely that the child attaches to his mother only because she is the source of food, and that attachment would theoretically fade if this connection disappeared. Bowlby answers this theory directly with an alternative thesis: **attachment is an independent evolutionary biological behavioral system**, whose aim is to protect the child from predators by keeping him close to the caregiver, not a means of satisfying another need. This "attachment system" is activated by danger, threat, or separation regardless of the state of nutritional satisfaction.
+Bowlby directly refutes the "secondary drive" or "cupboard love" hypothesis then prevailing across both Freudian psychoanalysis and Hullian learning theory — the assumption that an infant attaches to the mother merely because she satisfies primary physiological drives such as hunger. Bowlby's alternative thesis asserts that **attachment is a primary, biologically based evolutionary behavioral system**. Its evolutionary function (*adaptedness*) is protection from predation and environmental hazards through proximity maintenance to a protective caregiver. The attachment system is automatically activated by internal or external threats (illness, fear, fatigue, physical separation) independently of nutritional satisfaction.
 
 ## Structure of the Work
 
-Bowlby borrows tools from ethology (Konrad Lorenz, Nikolaas Tinbergen) and systems theory to build a theoretical framework alternative to both behaviorism and Kleinian psychoanalysis. The book proposes four phases in the development of attachment: undiscriminating orientation toward humans (roughly the first three months), orientation toward a discriminated person or persons (to about six months), maintaining proximity through self-locomotion to a discriminated attachment figure (from about six months to two or three years), and the formation of a goal-corrected partnership (from about the age of three).
+Drawing on ethological field research (Konrad Lorenz, Nikolaas Tinbergen, Robert Hinde) and evolutionary systems theory, Bowlby articulates four developmental phases of attachment in infancy:
+1. **Orientation and signals without discrimination of figure** (birth to approximately 8–12 weeks), where the infant tracks and responds indiscriminately to human signals.
+2. **Orientation and signals directed toward one or more discriminated figures** (roughly 12 weeks to 6 months), wherein preferential responses to familiar caregivers emerge.
+3. **Maintenance of proximity to a discriminated figure through locomotion and signals** (from roughly 6–7 months to the third year), characterized by active following, clinging, stranger anxiety, and separation distress.
+4. **Formation of a goal-corrected partnership** (from approximately age 3 onward), where the child increasingly infers the caregiver's internal goals, plans, and feelings to negotiate joint proximity.
 
-## The Historical Context of Publication
+Bowlby also introduces the concept of the **internal working model** — cognitive schemas of self and attachment figures constructed from relational experience that guide expectations and behavior across the lifespan.
 
-It was published in 1969 by Basic Books in New York. Bowlby, a psychoanalyst trained in the British tradition, wrote it at a time when American developmental psychology was dominated by behaviorism (Watson, Skinner), and when British psychoanalytic circles were still strongly influenced by the approach of Melanie Klein, who explained the child's bond with the mother through partly sexual, symbolic meanings. The book came as a direct rebuttal of both explanations.
+## Historical Context of Publication
 
-## Reception and Criticism
+The volume was published in 1969 jointly by the Hogarth Press and the Institute of Psycho-Analysis in London, and by Basic Books in New York. Bowlby, a psychoanalyst trained in the British tradition and based at the Tavistock Clinic, wrote at a time when developmental psychology was polarized between strict Skinnerian behaviorism in North America and Kleinian psychoanalysis in the United Kingdom.
 
-The book met sharp opposition from many analysts within the British Psychoanalytical Society, among them Kleinians, who regarded it as a repudiation of the tools of traditional psychoanalysis in favor of a biological-ethological authority alien to the field. By contrast it found quicker acceptance in developmental and behavioral academic circles because it offered an evolutionary explanation open to experimental testing for behaviors that had been explained by obscure motives. Later, **Mary Ainsworth** built on Bowlby's framework the "Strange Situation" procedure and the classification of attachment patterns (secure, insecure-avoidant, insecure-resistant) in her field research in Uganda (published 1967) and Baltimore (from the 1960s). These instruments and classifications are **the work of Ainsworth in the late 1960s and 1970s, not of this book**, which is limited to setting out the general theoretical framework of the attachment system.
+## Reception and Contemporary Psychoanalytic Reactions
+
+Upon publication, the book met fierce institutional resistance within the British Psychoanalytical Society. Prominent Kleinian psychoanalysts, notably Donald Meltzer and Hanna Segal, dismissed the work as an abandonment of psychoanalysis; Meltzer remarked that Bowlby had abandoned the unconscious and the transference in favor of superficial ethology. Anna Freud similarly voiced strong objections, criticizing Bowlby for replacing dynamic drive theory and infantile fantasy with an externalized biological model borrowed from animal ethology. Donald Winnicott adopted a nuanced yet reserved position, appreciating Bowlby's clinical emphasis on real maternal care while expressing concern that substituting ethological mechanisms for dynamic fantasy diluted the core insights of psychoanalysis.
+
+Conversely, the work was enthusiastically received in developmental and comparative psychology because it translated clinical observations into empirically testable, evolutionarily grounded hypotheses. In the late 1960s and 1970s, **Mary Ainsworth** operationalized Bowlby's theoretical framework into the "Strange Situation" laboratory protocol and classified attachment patterns (secure, insecure-avoidant, insecure-resistant) through her field studies in Uganda (1967) and Baltimore. These empirical classifications and instruments represent Ainsworth's subsequent work, building directly on the theoretical framework established in this 1969 text.
 
 ## Why It Is Mentioned in the Atlas
 
-A direct founding text of attachment theory as one of the most influential frameworks in developmental psychology and contemporary clinical psychology, and a necessary reference for understanding the origin of the concepts that Ainsworth and others later developed (attachment patterns, the Strange Situation), which makes it a basic link preceding most of the applied attachment literature in the atlas.
+As the inaugural volume of attachment theory, the book revolutionized modern developmental psychology, developmental psychopathology, and clinical practice. It provided the definitive theoretical pivot from instinctual drive reduction to relational attachment systems.
 
 ## Sources
 
-- Bowlby, John. *Attachment and Loss, Vol. 1: Attachment*. New York: Basic Books, 1969.
-- Ainsworth, Mary D. S., et al. *Patterns of Attachment: A Psychological Study of the Strange Situation*. Hillsdale, NJ: Lawrence Erlbaum, 1978 (it builds on the framework of this book without being part of it).
+- Bowlby, John. *Attachment and Loss, Vol. 1: Attachment*. London: Hogarth Press and the Institute of Psycho-Analysis; New York: Basic Books, 1969 (2nd edition, Basic Books, 1982).
+- Ainsworth, Mary D. S., Mary C. Blehar, Everett Waters, and Sally Wall. *Patterns of Attachment: A Psychological Study of the Strange Situation*. Hillsdale, NJ: Lawrence Erlbaum Associates, 1978.
+- Holmes, Jeremy. *John Bowlby and Attachment Theory*. London: Routledge, 1993.

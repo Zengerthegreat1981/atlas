@@ -20,67 +20,80 @@ gaps: []
 
 # Operant Conditioning (Skinnerian Conditioning)
 
-The second foundational model of learning, formulated by B. F. Skinner in the 1930s, concerned with how voluntary behavior changes as a result of its consequences in the environment (reinforcement and punishment).
+Operant conditioning is a foundational model of associative learning, formulated by B. F. Skinner in the 1930s, that explains how voluntary (operant) behavior is modified, maintained, or extinguished by its environmental consequences.
 
 ## Definition
 
-Operant conditioning is a learning process in which "operant" behavior (behavior that operates on the environment) is shaped by the consequences that follow it: if the behavior is followed by a desired outcome (reinforcement), the likelihood of its repetition increases; if it is followed by an undesired outcome (punishment), the likelihood of its repetition decreases. Skinner called it "operant" because the behavior "operates" on the environment and produces a consequence.
+In operant conditioning, behavior that "operates" on the environment is shaped by the stimuli that follow it. If an emitted behavior is followed by a reinforcing stimulus, the future probability of that response increases; if it is followed by a punishing stimulus or extinction, the future probability decreases. Skinner distinguished operant conditioning from classical (Pavlovian) conditioning by emphasizing that the organism actively emits behaviors rather than passively eliciting automatic reflexes in response to antecedents.
 
-## Basic components
+## The Three-Term Contingency
 
-- **Operant behavior**: any voluntary behavior emitted by the organism that affects the environment.
-- **Reinforcement**: any event that increases the likelihood of the behavior's repetition. There are two kinds:
-  - **Positive reinforcement**: adding a desired stimulus after the behavior (praise, food, money).
-  - **Negative reinforcement**: removing an undesired stimulus after the behavior (taking a painkiller for a headache).
-- **Punishment**: any event that decreases the likelihood of the behavior's repetition. There are two kinds:
-  - Positive punishment (adding an undesired stimulus).
-  - Negative punishment (removing a desired stimulus).
+Skinner formalized operant conditioning through the **three-term contingency** (often abbreviated as the A-B-C model):
+1. **Antecedent (Discriminative Stimulus, $S^D$)**: the environmental context or signal present before the behavior occurs, indicating whether reinforcement is likely to be available.
+2. **Behavior (Operant Response, $R$)**: the measurable, observable action emitted by the organism.
+3. **Consequence (Reinforcing or Punishing Stimulus, $S^R$ / $S^P$)**: the environmental change immediately following the response that alters its future frequency.
 
-Negative reinforcement is not punishment: it increases behavior by removing an aversive stimulus, whereas punishment decreases behavior.
+## Reinforcement and Punishment
 
-## Schedules of reinforcement
+Consequences are categorized along two orthogonal dimensions: whether a stimulus is added or removed, and whether the future rate of behavior increases or decreases.
 
-The intervals between reinforcements are not random; Skinner and Ferster (1957) identified four basic schedules that affect the rate and durability of behavior:
-- **Fixed ratio (FR)**: reinforcement after a fixed number of responses.
-- **Variable ratio (VR)**: reinforcement after a variable number (strong effect).
-- **Fixed interval (FI)**: reinforcement after a fixed time.
-- **Variable interval (VI)**: reinforcement after a variable time (produces steady, moderate responding). Variable schedules, especially variable ratio, generally yield the greatest resistance to extinction.
+### Reinforcement (Increases Behavior)
+- **Positive Reinforcement**: the presentation of an appetitive stimulus following a response, increasing the likelihood of that behavior (e.g., praise, food, monetary reward).
+- **Negative Reinforcement**: the removal, reduction, or postponement of an aversive stimulus following a response, increasing the likelihood of that behavior (e.g., turning off a blaring alarm, taking analgesics to relieve pain, escape/avoidance learning).
+  > [!NOTE]
+  > Negative reinforcement is frequently confused with punishment; however, reinforcement *always* increases or maintains the probability of a response, whereas punishment decreases it.
 
-## Distinction from classical conditioning
+### Punishment (Decreases Behavior)
+- **Positive Punishment (Punishment by Application)**: the presentation of an aversive stimulus following a response, reducing response frequency (e.g., receiving a reprimand or a traffic fine).
+- **Negative Punishment (Punishment by Removal)**: the removal or withdrawal of a desired appetitive stimulus following a response, reducing response frequency (e.g., time-out, loss of privileges, response cost).
 
-| Dimension | Classical conditioning | Operant conditioning |
+### Extinction and Spontaneous Recovery
+- **Extinction**: the discontinuation of reinforcement for a previously reinforced behavior, resulting in a gradual decrease in response frequency. Extinction is typically preceded by an temporary increase in frequency, variability, and emotional intensity known as an *extinction burst*.
+- **Spontaneous Recovery**: the sudden reappearance of an extinguished operant response after a rest period or change in environmental context.
+
+## Schedules of Reinforcement
+
+The timing and pattern of reinforcement critically govern the rate, pattern, and durability of responding. In their comprehensive empirical work, Ferster and Skinner (1957) systematized four basic intermittent reinforcement schedules:
+- **Fixed Ratio (FR)**: reinforcement is delivered after a predetermined, fixed number of responses. Typically produces high rates of responding with a characteristic "post-reinforcement pause" immediately after reinforcement.
+- **Variable Ratio (VR)**: reinforcement is delivered after an unpredictable, varying number of responses around a specified average (e.g., slot machines). Produces high, steady response rates with exceptional resistance to extinction.
+- **Fixed Interval (FI)**: reinforcement becomes available for the first response emitted after a fixed duration of time has elapsed. Generates a characteristic "scalloped" pattern, where response rates accelerate as the end of the interval approaches.
+- **Variable Interval (VI)**: reinforcement becomes available for the first response emitted after variable time intervals around a specified average. Produces stable, moderate, and remarkably uniform rates of responding.
+
+## Distinction from Classical Conditioning
+
+| Dimension | Classical (Pavlovian) Conditioning | Operant (Skinnerian) Conditioning |
 |---|---|---|
-| Discoverer | Pavlov | Skinner |
-| Type of behavior | Reflexive (involuntary) | Voluntary |
-| Organism's control | Passive (receives) | Active (emits) |
-| Determining factor | The stimulus (before the behavior) | The consequence (after the behavior) |
-| Therapeutic application | Treatment of anxiety, exposure | Applied behavior analysis, contingency management |
+| Primary Pioneer | Ivan Pavlov | B. F. Skinner |
+| Type of Behavior | Involuntary, reflexive responses (elicited) | Voluntary, skeletal-motor actions (emitted) |
+| Organism Role | Passive recipient of paired stimuli | Active agent operating on the environment |
+| Determining Mechanism | Association between antecedent stimuli ($CS-US$) | Association between response and consequence ($R-S^R$) |
+| Extinction Process | Repeated presentation of the $CS$ without the $US$ | Emitting the operant response without subsequent reinforcement |
+| Primary Therapeutic Use | Systematic desensitization, exposure therapy | Applied behavior analysis, contingency management |
 
-## Links and context
+## Historical Context and Theoretical Antecedents
 
-- **Burrhus Frederic Skinner** formulated the concept with its full details and experiments in the 1930s.
-- **Edward Thorndike** preceded him with the Law of Effect, which prepared theoretically for the idea that behavior is shaped by its consequences.
-- **Charles Ferster** collaborated with Skinner (1957) in identifying the four basic schedules of reinforcement.
-- It stands opposite **classical conditioning** as the first foundational model of learning, and differs from it in the type of behavior and the mechanism of control.
-- **Schedules of reinforcement** branch directly from operant conditioning and determine the rate and durability of the resulting behavior.
-- The concept belongs to the heritage of **Behaviorism** as the founding school from which this model emerged before developing within cognitive-behavioral therapy.
+- **Edward Thorndike (1898, 1911)**: formulated the foundational **Law of Effect** based on puzzle-box experiments with cats, establishing that responses followed by satisfying states of affairs are stamped in, while those followed by discomfort are weakened.
+- **B. F. Skinner (1938)**: published *The Behavior of Organisms*, formally introducing the concept of the operant and distinguishing operant behavior from respondent behavior.
+- **Charles Ferster and B. F. Skinner (1957)**: mapped out the empirical properties of intermittent reinforcement schedules in *Schedules of Reinforcement*.
 
-## Critique
+## Critiques and Limitations
 
-In 1959 Noam Chomsky published a critical review of Skinner's *Verbal Behavior* (1957), arguing that reinforcement principles cannot account for the creativity of language. The exchange became a landmark in the shift from behaviorism toward cognitive psychology. Skinner, for his part, held that behavior is determined by its environmental history and rejected the notion of autonomous free will.
+- **Cognitive Critiques**: Edward Tolman demonstrated *latent learning* in rats navigating mazes without explicit reinforcement, showing that organisms acquire cognitive maps rather than mere stimulus-response chains. In 1959, linguist Noam Chomsky published a landmark review of Skinner's *Verbal Behavior* (1957), arguing that operant conditioning cannot account for the generative syntax, poverty of the stimulus, and rapid acquisition of human language.
+- **Biological Constraints on Learning**: Keller and Marian Breland (1961) documented *instinctive drift* in "The Misbehavior of Organisms," demonstrating that innate species-specific evolutionary behaviors frequently override operant conditioning contingencies.
+- **Determinism and Autonomy**: Skinner's radical behaviorist stance (elaborated in *Beyond Freedom and Dignity*, 1971) rejected autonomous agency, attributing all human action to environmental history and genetic endowment, drawing enduring ethical and philosophical debate.
 
-## Clinical importance
+## Clinical and Applied Significance
 
-Operant conditioning is the foundation of:
-- Applied behavior analysis (ABA) with autism and intellectual disability.
-- Contingency management in addiction.
-- Programmed instruction and Skinner's teaching machines.
-- Parent Management Training (PMT) with children.
-- Token economies and other behavior modification programs in institutional and classroom settings.
+Operant conditioning provides the empirical and procedural backbone for numerous applied behavioral therapies:
+- **Applied Behavior Analysis (ABA)**: comprehensive intervention programs for autism spectrum conditions and intellectual disabilities, utilizing shaping, chaining, and differential reinforcement.
+- **Contingency Management**: voucher-based reinforcement systems demonstrating robust empirical efficacy in treating substance use disorders.
+- **Parent Management Training (PMT)**: evidence-based protocols (e.g., Barkley, Patterson) teaching parents systematic reinforcement schedules to manage disruptive childhood behaviors.
+- **Token Economies**: structured reinforcement systems implemented in psychiatric inpatient facilities, rehabilitation centers, and classrooms.
 
 ## Sources
 
-- Skinner, B. F. (1938). *The Behavior of Organisms*. Appleton-Century.
+- Skinner, B. F. (1938). *The Behavior of Organisms: An Experimental Analysis*. Appleton-Century.
 - Ferster, C. B., & Skinner, B. F. (1957). *Schedules of Reinforcement*. Appleton-Century-Crofts.
-- Thorndike, E. L. (1911). *Animal Intelligence*. Macmillan.
+- Thorndike, E. L. (1911). *Animal Intelligence: Experimental Studies*. Macmillan.
 - Chomsky, N. (1959). Review of *Verbal Behavior* by B. F. Skinner. *Language*, 35(1), 26-58.
+- Breland, K., & Breland, M. (1961). The misbehavior of organisms. *American Psychologist*, 16(11), 681-684.

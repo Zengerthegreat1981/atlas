@@ -65,7 +65,7 @@ After the death of Alexander the Great (323 BCE), the Greek cities lost their po
 - **Late antiquity**: Epicureanism faded after the third century CE; the Church Fathers attacked it for denying providence and the immortality of the soul, and "Epicurean" came to mean atheist or libertine.
 - **The Renaissance**: rediscovery of Lucretius' poem (Poggio Bracciolini, 1417).
 - **The seventeenth century**: Pierre Gassendi revived Epicurean atomism in a Christianised form, and it influenced Boyle and other corpuscularians.
-- **Marx**: in his doctoral dissertation (1841), he used his critique of Epicurus as a model.
+- **Marx**: his doctoral dissertation, *The Difference Between the Democritean and Epicurean Philosophy of Nature* (1841), analyzed Epicurus's concept of the atomic swerve as an assertion of human agency and self-consciousness against Democritean determinism.
 - **Nietzsche**: wrote about Epicurus with ambivalent admiration (for example in *Daybreak* and *The Gay Science*).
 - **Recent scholarship**: Martha Nussbaum, *The Therapy of Desire* (1994), and others have renewed interest in Epicurean ethics as a form of philosophical therapy.
 

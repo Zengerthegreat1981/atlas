@@ -22,30 +22,36 @@ gaps: []
 
 # Myers-Briggs Type Indicator (MBTI)
 
-A famous self-report questionnaire developed by Katharine Briggs and her daughter Isabel Briggs Myers on the basis of Carl Gustav Jung's theory of psychological types, beginning with Briggs's work in the 1920s, the development of the first versions of the instrument in the 1940s, and its later commercial development, which classifies individuals into 16 distinct personality types based on their preferences in directing energy, gathering information, making decisions, and dealing with the outside world.
+The Myers-Briggs Type Indicator (MBTI) is a widely recognized self-report personality inventory designed to categorize individuals into 16 discrete personality types. Developed by Katharine Cook Briggs and her daughter Isabel Briggs Myers, the instrument operationalizes Carl Gustav Jung's theory of psychological types for application in vocational counseling, organizational workshops, and personal development.
 
-## Standardization
+## Historical Development
 
-The version common today (Form M) consists of 93 forced-choice binary items. The instrument has been translated into many languages. Independent evidence on its reliability and validity is limited even for the original English version, as discussed below.
+Katharine Briggs began studying personality typology in the 1920s after reading Jung's *Psychologische Typen* (1921). During the Second World War, Isabel Briggs Myers expanded her mother's work to create a practical pencil-and-paper instrument aimed at matching civilian workers, particularly women entering the industrial workforce, with suitable occupational roles. 
 
-## Structure and Psychometric Properties
+The first test manuals were published experimentally by the Educational Testing Service (ETS) in 1962, though ETS subsequently discontinued involvement due to concerns over psychometric validity. In 1975, publication was acquired by Consulting Psychologists Press (CPP, now The Myers-Briggs Company), which oversaw its commercial expansion into corporate consulting and human resources worldwide.
 
-The test classifies individuals across 4 opposing binary dimensions: (1) Extraversion (E) versus Introversion (I), (2) Sensing (S) versus Intuition (N), (3) Thinking (T) versus Feeling (F), and (4) Judging (J) versus Perceiving (P). Their intersection yields 16 coded types (such as INTJ, ENFP). Reliability studies report that a substantial share of examinees (estimates in the literature range from about a quarter to a half) receive a different type on at least one dimension when retested after a few weeks, which critics regard as weak test-retest reliability for a type classification.
+## Structure and Typological Framework
 
-## Clinical and Research Use
+The standard contemporary version (Form M) consists of 93 forced-choice dyadic items. The instrument categorizes respondents across four bipolar dimensions:
+1. **Extraversion (E) vs. Introversion (I)**: Orientation of psychic energy toward the outer social world versus the inner subjective world.
+2. **Sensing (S) vs. Intuition (N)**: Preference for gathering information through concrete sensory perception versus abstract patterns and possibilities.
+3. **Thinking (T) vs. Feeling (F)**: Preference for decision-making grounded in impersonal logic and objectivity versus subjective, value-centered considerations.
+4. **Judging (J) vs. Perceiving (P)**: Lifestyle orientation toward structured planning and closure versus open-ended adaptability.
 
-It is used heavily commercially in building work teams in companies, in non-clinical career guidance, in training workshops and leadership development, and not in the clinical diagnostic context.
+The combination of preferences produces 16 distinct four-letter types (e.g., INTJ, ENFP). The Judging-Perceiving dimension was an explicit addition by Myers and Briggs, designed to identify which of the two cognitive functions (perceiving or judging) is extraverted into the environment.
 
-## Limitations and Criticism
+## Psychometric Critiques and Scientific Standing
 
-It faces harsh academic and psychometric criticism from the scientific psychology community for limited evidence of predictive validity, and for classifying individuals into binary categories, while research indicates that scores on the underlying dimensions are distributed continuously around the middle rather than in two separate groups, as in the Big Five model. In the Big Five trait approach people are located along continuous dimensions, whereas the MBTI assigns them to one of 16 types; the Big Five is generally preferred in research. The MBTI is better regarded as a self-development tool than as a diagnostic instrument.
+The MBTI occupies a paradoxical position: it is extraordinarily popular commercially while being widely rejected as an empirical personality taxonomy by mainstream academic psychology. Major psychometric criticisms include:
+- **Bimodal Fallacy**: Trait research demonstrates that human personality characteristics are distributed continuously along a bell-shaped normal curve. The MBTI forces respondents on either side of an arbitrary median into rigid categorical types, exaggerating minor differences between individuals near the midpoint.
+- **Low Test-Retest Stability**: Longitudinal studies demonstrate that between 35% and 50% of test-takers obtain a different four-letter classification when re-tested after an interval of just five to twelve weeks.
+- **Factorial and Predictive Validity**: Independent factor analyses routinely fail to replicate the pure four-dimensional structure. Furthermore, the MBTI displays negligible incremental predictive validity for occupational success or managerial effectiveness when evaluated against the Five-Factor Model (Costa & McCrae, 1989).
 
-Despite these criticisms, the test remains among the most commercially used personality instruments in the world, with publishers reporting that it is administered to millions of people in recruitment and corporate training contexts, which reflects a wide gap between its scientific credibility and its practical popularity.
-
-Katharine Briggs and Isabel Briggs Myers were not academic psychometricians; they developed the instrument out of a personal interest in Jung's theory, a background that critics often cite in discussing its psychometric limitations compared with instruments developed from the start by academic specialists.
+While useful as an interactive team-building heuristic that promotes empathy for diverse work styles, the MBTI is unsuited for clinical diagnosis, employee selection, or high-stakes assessment.
 
 ## Sources
 
-- Myers, I.B. & McCaulley, M.H., *Manual: A Guide to the Development and Use of the Myers-Briggs Type Indicator*, Consulting Psychologists Press, 1985.
-- Pittenger, D.J., "Measuring the MBTI... and coming up short," *Journal of Career Planning and Employment*, 54(1), 48-52, 1993.
-- Jung, C.G., *Psychological Types* (German original 1921; English translation in *Collected Works*, vol. 6, Princeton University Press, 1971).
+- Myers, I. B., & McCaulley, M. H. (1985). *Manual: A Guide to the Development and Use of the Myers-Briggs Type Indicator*. Palo Alto, CA: Consulting Psychologists Press.
+- McCrae, R. R., & Costa, P. T., Jr. (1989). Reinterpreting the Myers-Briggs Type Indicator from the perspective of the five-factor model of personality. *Journal of Personality*, 57(1), 17–40.
+- Pittenger, D. J. (1993). Measuring the MBTI... and coming up short. *Journal of Career Planning and Employment*, 54(1), 48–52.
+- Jung, C. G. (1971). *Psychological Types* (Collected Works of C. G. Jung, Vol. 6). Princeton, NJ: Princeton University Press. (Original work published 1921).

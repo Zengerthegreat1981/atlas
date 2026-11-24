@@ -2,7 +2,7 @@
 slug: "sch-phenomenology"
 id: "SCH-0240"
 type: "مدرسة"
-part: philosophy
+part: "philosophy"
 level: "متوسط"
 title: "Phenomenology (Phänomenologie)"
 en: "Phenomenology"

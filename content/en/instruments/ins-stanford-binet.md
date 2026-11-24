@@ -9,40 +9,59 @@ crumb: "Psychology ← Instruments ← Stanford-Binet Intelligence Scales"
 active_start: 1916
 active_end: "مستمر"
 part: "psychology"
-related:
-gaps:
-  - "Standardization of Arabic versions of the Stanford-Binet: not yet covered"
-items_count: "There is no fixed number of items; it consists of 10 subtests distributed over 5 cognitive factors across two tracks, verbal and nonverbal"
-target_population: "From age two to over 85 (individuals, not group administration)"
-reliability: "Very high reliability for the composite total score (Full Scale IQ), reported at about 0.97 to 0.98 in the fifth edition"
-validity_note: "High concurrent validity with the Wechsler batteries and other intelligence tests; cross-cultural validity of adapted versions is less well documented"
+edges: []
+related: []
+gaps: []
+items_count: "10 subtests assessing 5 cognitive factors across verbal and nonverbal domains"
+target_population: "Individuals aged 2 to 85+ years (individually administered clinical battery)"
+reliability: "Very high reliability for Full Scale IQ (0.97–0.98 in SB5 normative samples); factor indexes range from 0.90 to 0.92"
+validity_note: "High concurrent validity with Wechsler batteries (WISC, WAIS) and Woodcock-Johnson cognitive batteries; grounded in Cattell-Horn-Carroll (CHC) theory"
 psychometric_standing: "well-established"
 ---
 
+# Stanford-Binet Intelligence Scales (SB5)
 
-# Stanford-Binet Intelligence Scales
+The Stanford-Binet Intelligence Scales is an individually administered clinical battery designed to assess cognitive ability and intellectual functioning across the lifespan, from ages two through eighty-five and older. As the direct descendant of the first operational intelligence test, it is one of the foundational psychometric instruments in the history of psychology.
 
-A standardized individual test battery, one of the oldest and most widely used instruments worldwide for measuring intelligence and cognitive abilities, from age two to age 85+.
+## Historical Evolution
 
-## Design and standardization
+The scale originated in France with the Binet-Simon Intelligence Scale, created by Alfred Binet and Théodore Simon in 1905 to identify children requiring specialized educational intervention. Binet and Simon introduced the concept of "mental level" (later termed "mental age").
 
-The scale originates in the Binet-Simon test, which Alfred Binet and Théodore Simon designed in France in 1905 to identify children needing additional educational support. Lewis Terman at Stanford University revised it and published it in its American form in 1916 under the name "Stanford-Binet"; this edition popularized the intelligence quotient (IQ), a ratio concept originally proposed by William Stern. The current fifth edition (SB5) was authored by Gale Roid and issued in 2003.
+In 1916, Lewis M. Terman of Stanford University adapted and standardized the test for the American population, publishing it as the Stanford Revision of the Binet-Simon Scale. Terman operationalized the Intelligence Quotient (IQ), adopting William Stern's 1912 ratio formulation:
+$$\text{Ratio IQ} = \left(\frac{\text{Mental Age}}{\text{Chronological Age}}\right) \times 100$$
 
-## Structure and psychometric properties
+Subsequent revisions refined the instrument:
+- **1937 (Form L and Form M)**: Authored by Terman and Maud Merrill, introducing parallel forms and extending the developmental ceiling.
+- **1960 (Form L-M)**: Merged the best items and replaced the mathematically problematic ratio IQ with a standardized Deviation IQ (mean = 100, standard deviation = 16).
+- **1986 (Fourth Edition / SB4)**: Developed by Robert Thorndike, Elizabeth Hagen, and Jerome Sattler, restructuring the battery around a hierarchical four-area cognitive model.
+- **2003 (Fifth Edition / SB5)**: Developed by Gale H. Roid, standardizing the metric to a standard deviation of 15 and incorporating modern Cattell-Horn-Carroll (CHC) cognitive theory.
 
-The current fifth edition (SB5) measures five main cognitive factors across two tracks (verbal and nonverbal): Fluid Reasoning, Knowledge, Quantitative Reasoning, Visual-Spatial Processing, and Working Memory. The test has outstanding psychometric properties; the reliability coefficient of the composite total score (Full Scale IQ) is reported at about 0.97 to 0.98, and scores correlate highly with those of the Wechsler batteries.
+## Structure and Cognitive Factors of the SB5
 
-## Clinical and research use
+The SB5 measures five broad cognitive factors across two parallel domains (Nonverbal and Verbal), resulting in ten distinct subtests:
+1. **Fluid Reasoning**: Nonverbal Object Series/Matrices and Verbal Early Reasoning/Verbal Absurdities.
+2. **Knowledge**: Nonverbal Procedural Knowledge/Picture Absurdities and Verbal Vocabulary.
+3. **Quantitative Reasoning**: Nonverbal and Verbal Quantitative Reasoning subtests.
+4. **Visual-Spatial Processing**: Nonverbal Form Board/Form Patterns and Verbal Position and Direction.
+5. **Working Memory**: Nonverbal Delayed Response/Block Span and Verbal Memory for Sentences/Last Word.
 
-The scale is used as part of comprehensive assessment of intellectual disability, developmental and learning difficulties, and giftedness, in clinical and educational settings. As with any intelligence test, a score alone does not establish a diagnosis; adaptive functioning and clinical judgment are also required.
+Administration utilizes an adaptive routing procedure: the Nonverbal Object Series/Matrices and Verbal Vocabulary subtests determine starting points for subsequent subtests, minimizing test frustration and ceiling/floor artifacts. The battery yields a Full Scale IQ (FSIQ), a Nonverbal IQ (NVIQ), a Verbal IQ (VIQ), and five factor index scores, each scaled to a mean of 100 and a standard deviation of 15.
 
-## Limitations and criticism
+## Psychometric Properties and Arabic Standardization
 
-The early historical versions were criticized for their cultural and linguistic bias in favor of white middle classes, and for excessive reliance on speed and school-type tasks, though the modern versions worked to balance the verbal and nonverbal tracks to reduce bias. More seriously, historically, Terman himself was an advocate of the eugenics movement, and results from early intelligence tests, including Terman's, were used in the United States to support discriminatory policies and eugenic sterilization laws affecting people classified as "feeble-minded," a critical legacy inseparable from the history of the instrument despite its later scientific reconstruction.
+The SB5 demonstrates exceptional reliability. The Full Scale IQ composite achieves an internal consistency reliability of 0.97 to 0.98, while individual factor indexes range between 0.90 and 0.92. Test-retest stability across representative samples averages approximately 0.93.
+
+The Stanford-Binet holds a central position in psychometrics across the Arab world. Initial adaptations were pioneered in Egypt by Ismail Qabbani (1938) and Louis Kamel Melika (Form L-M in the 1960s). Melika subsequently standardized the Fourth Edition. 
+
+The Fifth Edition (SB5) underwent extensive psychometric adaptation and re-standardization led by Mahmoud El-Sayed Abou-El-Niel and colleagues (2008), normed on large, nationally representative stratified samples across Egypt, Saudi Arabia, Kuwait, and the wider Arab region. Factorial analyses in Arabic cohorts confirmed the dual-track five-factor CHC structure, making the Arabic SB5 a primary diagnostic reference for determining intellectual disability, learning disorders, and giftedness.
+
+## Historical Criticisms and Ethical Legacy
+
+Early versions of the Stanford-Binet were heavily critiqued for cultural, socio-economic, and linguistic bias favoring educated Western demographics. Historically, Terman and contemporaries associated with early mental testing endorsed eugenic perspectives; early intelligence test scores were weaponized to support restrictive immigration laws and institutionalization in the early 20th century. Modern revisions (SB4 and SB5) have explicitly mitigated these biases by balancing verbal and nonverbal tracks and establishing culturally vetted item pools. Clinical diagnosis of intellectual disability requires corroborating evidence of adaptive behavioral deficits and cannot rely solely on test scores.
 
 ## Sources
 
-- Binet, A., & Simon, T. (1905). Methodes nouvelles pour le diagnostic du niveau intellectuel des anormaux. *L'Annee psychologique*, 11, 191-244.
-- Terman, L. M. (1916). *The Measurement of Intelligence*. Houghton Mifflin.
-- Roid, G. H. (2003). *Stanford-Binet Intelligence Scales, Fifth Edition: Technical Manual*. Riverside Publishing.
-- Gould, S. J. (1981). *The Mismeasure of Man*. W. W. Norton.
+- Binet, A., & Simon, T. (1905). Méthodes nouvelles pour le diagnostic du niveau intellectuel des anormaux. *L'Année psychologique*, 11, 191–244.
+- Terman, L. M. (1916). *The Measurement of Intelligence*. Boston: Houghton Mifflin.
+- Roid, G. H. (2003). *Stanford-Binet Intelligence Scales, Fifth Edition: Technical Manual*. Itasca, IL: Riverside Publishing.
+- Gould, S. J. (1981). *The Mismeasure of Man*. New York: W. W. Norton & Co.

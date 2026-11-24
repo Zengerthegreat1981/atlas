@@ -14,8 +14,7 @@ edges:
 related:
 - id: "thk-spinoza", title: "Baruch Spinoza", type: "مفكر"
 - id: "thk-kant", title: "Immanuel Kant", type: "مفكر"
-gaps:
-  - "The position of the later Stoics (Posidonius) on Chrysippus's formulation of fate: not yet covered here."
+gaps: []
 ---
 # The Debate of Free Will versus Determinism and Fatalism
 
@@ -23,7 +22,15 @@ The founding formulation of the oldest metaphysical and ethical debate in philos
 
 ## The Stoic origin: Chrysippus and universal fate (Heimarmene)
 
-Chrysippus of Soli (279–206 BCE), the third head of the Stoic school and the most precise theorist of its logical doctrine, defended a universal cosmic causal determinism (heimarmene): every event, including the voluntary acts of human beings, is part of a coherent chain of causes with no break. Chrysippus's original text on fate is lost; what has reached us is the report of his adversary Cicero in his work *On Fate* (De Fato, 44 BCE), supplemented by later reports such as Aulus Gellius and Alexander of Aphrodisias. Chrysippus tried to reconcile cosmic determinism with the agent's responsibility through his distinction between "perfect and principal" causes and "auxiliary and proximate" causes, illustrated by the image of a cylinder that rolls by its own shape once pushed (the agent's own constitution as the principal cause of assent, not a mere mechanical conveyor).
+Chrysippus of Soli (279–206 BCE), the third head of the Stoic school and the most precise theorist of its logical doctrine, defended a universal cosmic causal determinism (*heimarmene*): every event, including the voluntary acts of human beings, is part of a coherent chain of causes with no break. Chrysippus's original treatises on fate are lost; what has reached us is the report of his adversary Cicero in *On Fate* (*De Fato*, 44 BCE), supplemented by later testimonies in Aulus Gellius and Alexander of Aphrodisias. 
+
+Chrysippus formulated a rigorous compatibilism, distinguishing between "auxiliary and proximate" causes (*aitia prokatarktika*) and "perfect and principal" causes (*aitia autotele*). He illustrated this through the famous analogy of the rolling cylinder (reported by Cicero and Gellius): while a push provides the initial impulse, the cylinder rolls forward by virtue of its own internal shape and nature. Similarly, while external impressions (*phantasiai*) stimulate the human mind, the moral agent's assent (*synkatathesis*) depends on the internal character of the mind itself. Chrysippus also refuted the fatalist "Lazy Argument" (*argos logos*) by distinguishing between simple fate and co-fated events (*confatalia* or *synheimarmena*): recovery from an illness is not fated unconditionally, but fated together with calling a physician.
+
+## The Middle Stoa: Posidonius on Fate and Cosmic Sympathy
+
+Posidonius of Apamea (c. 135–c. 51 BCE), a leading figure of the Middle Stoa who studied under Panaetius and taught in Rhodes, adapted and modified Chrysippus's formulation of fate. While remaining committed to universal causal determinism, Posidonius integrated fate (*heimarmene*) more deeply into natural science, cosmology, and celestial physics:
+- **Cosmic sympathy (*sympatheia ton holon*)**: As recorded by Cicero in *De Divinatione* and *De Fato*, and later in Diogenes Laërtius, Posidonius conceived the cosmos as an organic continuum where terrestrial and celestial phenomena are causally interwoven. Divination is valid not because of miraculous intervention, but because signs in the cosmos are linked by natural, causal necessity to future events within this cosmic network.
+- **Revision of Chrysippus's moral psychology**: While Chrysippus maintained a strict intellectualist monism (holding that emotions are simply erroneous rational judgments), Posidonius—as reported by Galen in *De Placitis Hippocratis et Platonis*—recognized irrational, affective forces within the human soul alongside reason. Consequently, for Posidonius, moral responsibility under fate is not merely a matter of correct logical assent, but a physical and psychological struggle to discipline unruly emotional impulses in accord with the cosmic rational order (*logos*).
 
 ## The Epicurean reply: the atomic swerve (Clinamen)
 
@@ -35,8 +42,9 @@ Baruch Spinoza (1632–1677) reformulated universal determinism rationally in th
 
 ## Sources
 
-- Cicero, *De Fato*, 44 BCE (the main report of Chrysippus's position on fate).
+- Cicero, *De Fato*, 44 BCE (the main report of Chrysippus's position on fate); ed. and trans. H. Rackham, Loeb Classical Library, Harvard University Press, 1942.
 - Bobzien, Susanne. *Determinism and Freedom in Stoic Philosophy*. Oxford University Press, 1998.
+- Kidd, I. G. *Posidonius: The Commentary*. Cambridge University Press, 1988.
 - Lucretius, *De Rerum Natura*, Book II, c. 55 BCE (the fullest surviving exposition of the Epicurean atomic swerve).
-- Spinoza, *Ethics*, Part I, 1677.
-- Kant, *Critique of Practical Reason*, 1788.
+- Spinoza, *Ethics*, Part I, 1677; ed. and trans. Edwin Curley, Princeton University Press, 1985.
+- Kant, *Critique of Practical Reason*, 1788; trans. Mary Gregor, Cambridge University Press, 1997.

@@ -2,7 +2,7 @@
 slug: "dbt-realism-vs-nominalism"
 id: "DBT-0344"
 type: "جدل"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Realism versus Nominalism: Universals — Real or Just Names?"
 en: "Realism vs. Nominalism: Universals — Real or Just Names?"

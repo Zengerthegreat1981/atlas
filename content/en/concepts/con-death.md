@@ -14,8 +14,7 @@ related:
   - id: "thk-heidegger", title: "Heidegger", type: "مفكر"
   - id: "con-anxiety", title: "Anxiety", type: "مفهوم"
   - id: "con-meaning", title: "Meaning", type: "مفهوم"
-gaps:
-  - "Primary-text passages for each thinker's formulation: not yet covered"
+gaps: []
 ---
 
 # Death
@@ -29,6 +28,16 @@ Death in this school is not the biological event but awareness of mortality and 
 ## The Core Disagreements Within the Concept
 
 Three disagreements that cannot be resolved. The first: structure or event? Heidegger says structure, Sartre says an external event, and the therapeutic consequence is entirely different. The second: does it give meaning or strip it away? Heidegger, Frankl, and Yalom are on one side, Sartre on the other. The third: material for therapy or not? Yalom says yes, emphatically, and Boss says the very question is mistaken.
+
+## Primary-Text Formulations
+
+Primary sources articulate fundamentally divergent ontological and clinical accounts of mortality:
+
+- **Martin Heidegger** (*Being and Time*, 1927, §§46–53): conceptualizes death ontologically as "being-toward-death" (*Sein-zum-Tode*). Death is Dasein's ownmost (*eigenste*), non-relational (*unbezügliche*), and unsurpassable (*unüberholbare*) possibility, which individuate the self out of the inauthentic distractions of the collective "They" (*das Man*).
+- **Jean-Paul Sartre** (*Being and Nothingness*, 1943, Part IV, Ch. 1): rejects Heidegger's view, defining death as a contingent, external absurdity that destroys personal possibilities from without and delivers one's life over to the judgment of the Other, rather than providing an authentic internal closure.
+- **Karl Jaspers** (*Philosophie*, 1932, Vol. II): identifies death as one of the four inescapable "limit situations" (*Grenzsituationen*), alongside suffering, struggle, and guilt, which cannot be mastered or transcended but demand an existential stance.
+- **Viktor Frankl** (*The Doctor and the Soul*, 1946; *Man's Search for Meaning*, 1946/1959): argues that the transitoriness of human life does not negate meaning but establishes existential responsibility, preserving realized deeds and choices permanently in the "storehouse of the past."
+- **Irvin D. Yalom** (*Existential Psychotherapy*, 1980, Part I): establishes death as the first ultimate concern, proposing the clinical paradox that while the physical reality of death destroys a human being, the ongoing awareness of death can save life by catalyzing authentic living and puncturing illusions of specialness and the ultimate rescuer.
 
 ## How It Appears in the Session
 

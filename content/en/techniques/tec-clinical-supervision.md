@@ -12,7 +12,7 @@ active_start: 1976
 active_end: "مستمر"
 edges: []
 related:
-  - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
+- id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 gaps: []
 ---
 
@@ -39,7 +39,6 @@ Alfred Kadushin defined supervision's functions for social work and gave the fie
 ## Evidence and Influence
 
 The evidence for supervision is paradoxical: everyone agrees it matters, and almost no one can prove it in the way outcome research demands. Reviews find that supervision improves supervisee self-efficacy, skill, and reflective capacity, and that supervisees value it highly; but the link from supervision to client outcome is indirect, mediated by the therapist, and hard to isolate in a trial. The field has responded with competence frameworks, structured feedback, and the use of recorded sessions, all of which make supervision more observable and more accountable. Its influence is institutional rather than empirical: supervision is now a requirement of training and licensure in many jurisdictions, a condition of ethical practice, and the mechanism by which a profession polices its own quality. By contrast with psychological assessment, which evaluates the client, supervision evaluates — and develops — the therapist.
-
 
 ## Sources
 

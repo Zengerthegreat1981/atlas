@@ -8,7 +8,7 @@ en: "Paul Ricœur"
 crumb: "Philosophy ← Thinkers ← Paul Ricœur"
 dates: "France · 1913–2005"
 active_start: 1950
-active_end: 2000
+active_end: 2005
 country: "France"
 language: "French"
 part: "philosophy"

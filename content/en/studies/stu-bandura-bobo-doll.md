@@ -18,8 +18,7 @@ edges: []
 related:
 - id: "thk-abandura", title: "Albert Bandura", type: "مفكر"
 - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
-gaps:
-  - "Research on violent media and aggression in later work (for example Anderson and colleagues): not yet covered"
+gaps: []
 ---
 
 # Bandura's Bobo Doll Experiments on Observational Learning and Aggression
@@ -46,8 +45,16 @@ This experiment represented a pivotal turning point in the history of psychology
 
 In 1963 Bandura, Ross, and Ross compared a live model, a filmed human model, and a filmed cartoon-like model (a woman dressed as a cat), and found that children in all three aggressive-model conditions showed more aggression than the control group and at broadly similar levels, which raised an early and long-lasting concern about the influence of film and television violence on children.
 
+## Media Violence and Aggression in Later Research
+
+Bandura's filmed-model findings initiated decades of empirical investigation into the effects of violent media on real-world aggression. In subsequent decades, Craig A. Anderson, Brad J. Bushman, and colleagues synthesized social learning, cognitive neoassociation, and script theories into the **General Aggression Model (GAM)**. Through multiple experimental trials and extensive meta-analyses (e.g., Anderson & Bushman, 2001; Anderson et al., 2010), they reported small-to-moderate but consistent associations between exposure to media violence (television, cinema, and violent video games) and increases in aggressive thoughts, hostile affect, physiological arousal, and behavioral aggression, accompanied by decreases in empathy and prosocial behaviors.
+
+These conclusions, however, remain contested within contemporary psychology. Methodological critiques—most notably articulated by Christopher J. Ferguson and colleagues—argue that the observed effect sizes are frequently inflated by publication bias and the use of artificial laboratory measures (such as the noise blast paradigm or competitive reaction time tasks). Longitudinal investigations that control for critical confounds—including family conflict, parental warmth, peer delinquency, and trait hostility—often show that the direct causal link between media violence exposure and serious criminal or real-world violent offending diminishes toward statistical insignificance.
+
 ## Sources
 
 - Bandura, A., Ross, D., & Ross, S. A. (1961). "Transmission of Aggression Through Imitation of Aggressive Models." *Journal of Abnormal and Social Psychology*, 63(3), 575–582.
 - Bandura, A., Ross, D., & Ross, S. A. (1963). "Imitation of Film-Mediated Aggressive Models." *Journal of Abnormal and Social Psychology*, 66(1), 3–11.
 - Bandura, A. (1977). *Social Learning Theory*. Prentice-Hall.
+- Anderson, C. A., & Bushman, B. J. (2001). Effects of violent video games on aggressive behavior, aggressive cognition, aggressive affect, physiological arousal, and prosocial behavior: A meta-analytic review of the scientific literature. *Psychological Science*, 12(5), 353–359.
+- Ferguson, C. J. (2015). Do video games promote violent crime? A test of the culture-delinquency and media effects theories. *Journal of Communication*, 65(4), 646–660.

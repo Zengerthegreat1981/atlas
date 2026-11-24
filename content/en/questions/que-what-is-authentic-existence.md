@@ -56,5 +56,5 @@ Five serious answers to one question, and they do not agree even on whether auth
 - Heidegger, M. (1927). *Being and Time*.
 - Sartre, J.-P. (1943). *Being and Nothingness*.
 - Camus, A. (1942). *The Myth of Sisyphus*. Gallimard.
-- Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. English translation first published 1959 as *From Death-Camp to Existentialism*; later titled *Man's Search for Meaning* (Beacon Press, 1962 edition).
+- Frankl, V. E. (1946). *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager*. English translation first published 1959 as *From Death-Camp to Existentialism*; later titled *Man's Search for Meaning* (Beacon Press, 1962 edition).
 - Sartre, J.-P. (1946). *L'existentialisme est un humanisme*. Nagel.

@@ -24,157 +24,149 @@ gaps: []
 
 # Enlightenment Philosophy (umbrella)
 
-A dominant intellectual and cultural movement in **Europe** and America in the 17th-18th centuries CE, asserting the authority of human reason against religious authority, tradition and superstition. It includes British empiricism, continental rationalism, deism, the social contract and early liberalism. It was founded by Voltaire, Diderot, Rousseau, Montesquieu and Condorcet in France, Lessing and Kant in Germany, and Hume and Smith in Britain.
+A dominant intellectual and cultural movement in Europe and America in the 17th and 18th centuries, asserting the authority of human reason against uncritical dogmatism, superstition, and arbitrary political authority. It encompassed British empiricism, continental rationalism, deism, social contract theory, and early liberalism. Key figures include Voltaire, Denis Diderot, Jean-Jacques Rousseau, Montesquieu, and Condorcet in France; Gotthold Ephraim Lessing and Immanuel Kant in Germany; and David Hume and Adam Smith in Scotland.
 
 ## Founding Context
 
-In the late 17th century CE, **Europe** was witnessing a scientific and intellectual revolution. The "Scientific Revolution," with Copernicus (1543), Kepler (1609), Galileo (1632) and Newton (1687), founded modern science on reason and experience. The "English Revolution" (Revolutio Anglicana, 1688) established parliamentarianism and religious toleration. The French Revolution (1789) proclaimed the "rights of man" and ended the old regime; the republic followed in 1792.
+In the late 17th century, Europe experienced a major scientific and political transformation:
+- **The Scientific Revolution**: with Copernicus (1543), Kepler (1609), Galileo (1632), and Newton (1687), modern science was established on mathematical principles, systematic empirical observation, and mechanical laws.
+- **The English Revolution (1688)**: the Glorious Revolution established parliamentary supremacy, constitutional monarchy, and religious toleration.
+- **The American (1776) and French (1789) Revolutions**: proclaimed the rights of man, constitutional republicanism, and the rule of law, dismantling feudal privileges.
 
 ## Leading Figures
 
-### The British Enlightenment (Scottish Enlightenment, English)
+### The British and Scottish Enlightenment
 
-- **John Locke** (1632-1704): "inspired" the "Enlightenment" (Aufklärung).
-- **Isaac Newton** (1642-1727): a model of the scientific Enlightenment (Aufklärung).
-- **David Hume** (1711-1776): founder of empirical skepticism.
-- **Adam Smith** (1723-1790): founder of economic liberalism.
-- **Edward Gibbon** (1737-1794): "historian" of "rationalism."
-- **Thomas Paine** (1737-1809): *Common Sense* (1776), *Rights of Man* (1791-1792).
+- **John Locke** (1632–1704): foundational philosopher of empiricism, religious toleration, and constitutional government.
+- **Isaac Newton** (1642–1727): established classical mechanics in the *Principia* (1687), becoming the methodological exemplar of empirical natural science.
+- **David Hume** (1711–1776): leading philosophical sceptic, empiricist, and essayist on political economy and religion.
+- **Adam Smith** (1723–1790): moral philosopher and pioneer of classical political economy.
+- **Edward Gibbon** (1737–1794): author of *The History of the Decline and Fall of the Roman Empire* (1776–1788), exemplifying secular historiography.
+- **Thomas Paine** (1737–1809): political theorist and pamphleteer, author of *Common Sense* (1776) and *The Rights of Man* (1791–1792).
 
-### The French Enlightenment (Lumières)
+### The French Enlightenment (Les Lumières)
 
-- **Voltaire** (1694-1778): "standard-bearer" of the French "Enlightenment" (Aufklärung).
-- **Montesquieu** (1689-1755): *De l'Esprit des Lois* (1748).
-- **Denis Diderot** (1713-1784): *Encyclopédie* (1751-1772).
-- **Jean le Rond d'Alembert** (1717-1783): *Discours Préliminaire de l'Encyclopédie* (1751).
-- **Jean-Jacques Rousseau** (1712-1778): *Du Contrat Social* (1762).
-- **Paul d'Holbach** (1723-1789): *Système de la Nature* (1770).
-- **Claude Adrien Helvétius** (1715-1771): *De l'Esprit* (1758).
-- **Condorcet** (1743-1794): *Esquisse d'un Tableau Historique des Progrès de l'Esprit Humain* (1795).
+- **Voltaire** (1694–1778): satirist, philosopher, and tireless campaigner for religious tolerance, free speech, and judicial reform.
+- **Montesquieu** (1689–1755): political philosopher who systematized the separation of powers in *De l'Esprit des Lois* (1748).
+- **Denis Diderot** (1713–1784): chief editor of the monumental *Encyclopédie* (1751–1772) and materialist philosopher.
+- **Jean le Rond d'Alembert** (1717–1783): mathematician, co-editor of the *Encyclopédie*, and author of its *Discours Préliminaire* (1751).
+- **Jean-Jacques Rousseau** (1712–1778): author of *Du Contrat Social* (1762) and *Émile* (1762), developing popular sovereignty while mounting an internal critique of bourgeois civilization.
+- **Paul-Henri Thiry, Baron d'Holbach** (1723–1789): outspoken proponent of scientific materialism and atheism in *Système de la Nature* (1770).
+- **Claude Adrien Helvétius** (1715–1771): materialist and educational reformer, author of *De l'Esprit* (1758).
+- **Nicolas de Condorcet** (1743–1794): mathematician and philosopher of human progress and universal education (*Esquisse*, 1795).
 
-### The German Enlightenment (Aufklärung)
+### The German Enlightenment (Die Aufklärung)
 
-- **Samuel Pufendorf** (1632-1694): *De Iure Naturae et Gentium* (1672).
-- **Christian Wolff** (1679-1754): *Vernünftige Gedanken* (1720).
-- **Gottfried Leibniz** (1646-1716): rationalist precursor of the German Enlightenment.
-- **Gotthold Ephraim Lessing** (1729-1781): *Nathan der Weise* (1779).
-- **Christian Fürchtegott Gellert** (1715-1769): "man of letters," "moralist."
-- **Moses Mendelssohn** (1729-1786): the Haskalah and the Jewish Enlightenment (Aufklärung).
-- **Immanuel Kant** (1724-1804): *Was ist Aufklärung?* (1784).
-- **Johann Gottfried Herder** (1744-1803): a critic within the Enlightenment, whose emphasis on history and language prepared the ground for Romanticism.
+- **Gottfried Wilhelm Leibniz** (1646–1716): polymath and rationalist philosopher whose metaphysics laid the groundwork for German academic philosophy.
+- **Samuel von Pufendorf** (1632–1694): jurist who systematized modern natural law theory in *De Jure Naturae et Gentium* (1672).
+- **Christian Wolff** (1679–1754): systematic philosopher who codified Leibnizian-Wolffian scholastic rationalism.
+- **Gotthold Ephraim Lessing** (1729–1781): dramatist and critic who championed religious tolerance in *Nathan der Weise* (1779) and *Die Erziehung des Menschengeschlechts* (1780).
+- **Moses Mendelssohn** (1729–1786): leading philosopher of the Jewish Enlightenment (*Haskalah*) and defender of civil emancipation and religious freedom (*Jerusalem*, 1783).
+- **Immanuel Kant** (1724–1804): defined the era's motto in "Beantwortung der Frage: Was ist Aufklärung?" (1784) as *Sapere aude* ("dare to know"), and reconstructed metaphysics and ethics in his Critical philosophy.
+- **Johann Gottfried Herder** (1744–1803): philosopher of history, culture, and language whose historicism bridged the Enlightenment and early Romanticism.
 
-### The Dutch Enlightenment
+### The Dutch and American Enlightenment
 
-- **Baruch Spinoza** (1632-1677).
-- **Pierre Bayle** (1647-1706): *Dictionnaire Historique et Critique* (1697).
-
-### The American Enlightenment
-
-- **Thomas Jefferson** (born 1743, died 1826).
-- **Benjamin Franklin** (1706-1790).
-- **Thomas Paine** (1737-1809).
-- **John Adams** (born 1735, died 1826).
-- **James Madison** (born 1751, died 1836).
+- **Baruch Spinoza** (1632–1677): pioneer of radical biblical criticism, philosophical pantheism, and democratic political theory (*Tractatus Theologico-Politicus*, 1670).
+- **Pierre Bayle** (1647–1706): French Huguenot exile in Rotterdam whose *Dictionnaire Historique et Critique* (1697) became an arsenal of sceptical and tolerant argument.
+- **Benjamin Franklin** (1706–1790): polymath, scientist, and diplomat embodying the pragmatic civic Enlightenment.
+- **Thomas Jefferson** (1743–1826): principal author of the *Declaration of Independence* (1776) and theorist of agrarian republicanism and religious freedom.
+- **James Madison** (1751–1836): key constitutional architect, co-author of the *Federalist Papers* (1787–1788).
 
 ## Central Concepts
 
-### 1. Reason (Ratio) as the Foundation of Knowledge
+### 1. Reason as the Standard of Inquiry
 
-The Enlightenment (Aufklärung) makes reason the foundation of knowledge. It accepts neither the authority of the Church nor tradition without rational critique.
+The Enlightenment elevated autonomous human reason as the primary arbiter of truth, refusing to accept ecclesiastical authority, divine right, or unexamined tradition without critical scrutiny.
 
-### 2. Nature (Natura) and the "Return to Nature" (Rückgang zur Natur)
+### 2. Nature and Natural Order
 
-Many Enlightenment writers appealed to nature as a standard of reason and right. Rousseau, who was also a critic of the Enlightenment, argued that civilization corrupts natural goodness and demanded a return to natural simplicity.
+Enlightenment thinkers conceived nature as an intelligible system governed by uniform universal laws. While thinkers like Voltaire and the Physiocrats derived social principles from nature, Rousseau raised a critical counterpoint, arguing that artificial civilization corrupts natural moral sentiments.
 
-### 3. Progress (Progressus)
+### 3. Historical Progress
 
-The Enlightenment (Aufklärung) believes in human progress. Condorcet formulated the theory of progress in the *Esquisse* (1795): human beings inevitably advance toward perfection.
+Thinkers such as Turgot and Condorcet articulated a secular teleology of human advancement: through the spread of science, education, and commerce, humankind would progressively overcome tyranny, disease, and superstition.
 
-### 4. Toleration (Tolerantia) and Human Rights (Iura Hominis)
+### 4. Toleration and Universal Human Rights
 
-The Enlightenment (Aufklärung) demands religious toleration and intellectual freedom. Voltaire argued for toleration in the *Traité sur la tolérance* (1763), written after the judicial murder of Jean Calas.
+Enlightenment writers campaigned vigorously for freedom of conscience and the abolition of religious persecution. Voltaire's *Traité sur la tolérance* (1763) championed individual legal rights following the trial of Jean Calas.
 
-### 5. Natural Law (Ius Naturale)
+### 5. Natural Law and Rights
 
-The Enlightenment (Aufklärung) develops the theory of natural law with Pufendorf, Locke, Rousseau and Kant. Rights have their source in nature and reason, not revelation.
+Natural law theorists maintained that fundamental rights to life, liberty, and property belong to human beings by nature, discoverable through rational reflection rather than divine revelation.
 
-### 6. The Social Contract (Contractus Socialis)
+### 6. The Social Contract and Popular Sovereignty
 
-Locke (1689) and Rousseau (1762) founded the theory of the social contract: government derives from the consent of the governed.
+Locke, Rousseau, and Kant grounded political legitimacy in the agreement of free individuals. Sovereignty originates not in divine ordination but in the consent of the governed, which limits monarchical authority.
 
-### 7. Science (Scientia) and Secularism (Laicitas)
+### 7. Empirical Science and Secularization
 
-The Enlightenment (Aufklärung) sees science as the instrument of human emancipation. Historical criticism, including criticism of scripture, was a tool for understanding religion and society.
+Science was celebrated as an engine of human emancipation and technological progress. The application of rational critique extended to biblical hermeneutics, institutional religion, and feudal law.
 
-### 8. Happiness (Felicitas) and the Good (Bonum)
+### 8. Earthly Happiness and Utility
 
-The Enlightenment (Aufklärung) seeks earthly happiness for human beings, not only happiness in the afterlife. Bentham formulated the utilitarian principle: the greatest happiness of the greatest number of people.
+Enlightenment morality shifted focus from otherworldly salvation to worldly flourishing (*felicitas*). Utilitarians like Cesare Beccaria and Jeremy Bentham formulated the principle of maximizing the greatest happiness for the greatest number through penal and institutional reform.
 
 ## Reference Works
 
-- **Encyclopédie**, Diderot and d'Alembert (1751-1772).
-- **Candide**, Voltaire (1759).
-- **De l'Esprit des Lois** (The Spirit of the Laws), Montesquieu (1748).
-- **Du Contrat Social** (The Social Contract), Rousseau (1762).
-- **Émile, ou De l'Éducation** (Emile), Rousseau (1762).
-- **Beantwortung der Frage: Was ist Aufklärung?** (An Answer to the Question: What Is Enlightenment?), Kant (1784).
+- **Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers**, Diderot and d'Alembert (1751–1772).
+- **Candide, ou l'Optimisme**, Voltaire (1759).
+- **De l'Esprit des Lois**, Montesquieu (1748).
+- **Du Contrat Social**, Rousseau (1762).
+- **Émile, ou De l'Éducation**, Rousseau (1762).
+- **Beantwortung der Frage: Was ist Aufklärung?**, Kant (1784).
 - **Common Sense**, Paine (1776).
-- **The Rights of Man**, Paine (1791-1792).
+- **The Rights of Man**, Paine (1791–1792).
 - **Declaration of the Rights of Man and of the Citizen** (1789).
 - **The Wealth of Nations**, Smith (1776).
-- **A Treatise of Human Nature**, Hume (1739-1740).
+- **A Treatise of Human Nature**, Hume (1739–1740).
 - **An Enquiry Concerning Human Understanding**, Hume (1748).
 - **Two Treatises of Government**, Locke (1689).
 - **A Letter Concerning Toleration**, Locke (1689).
-- **Dictionnaire Historique et Critique** (Historical and Critical Dictionary), Bayle (1697).
-- **Dictionnaire Philosophique** (Philosophical Dictionary), Voltaire (1764).
-- **Nathan der Weise** (Nathan the Wise), Lessing (1779).
-- **Die Erziehung des Menschengeschlechts** (The Education of the Human Race), Lessing (1780).
-- **Critique of Pure Reason**, Kant (1781).
+- **Dictionnaire Historique et Critique**, Bayle (1697).
+- **Dictionnaire Philosophique**, Voltaire (1764).
+- **Nathan der Weise**, Lessing (1779).
+- **Die Erziehung des Menschengeschlechts**, Lessing (1780).
+- **Kritik der reinen Vernunft**, Kant (1781).
 
-## Schools of the Enlightenment
+## Regional Traditions
 
-- **The British Enlightenment** (Aufklärung Britannica): Locke, Newton, Hume, Smith.
-- **The French Enlightenment** (Lumières): Voltaire, Diderot, Rousseau, Montesquieu.
-- **The German Enlightenment** (Aufklärung Germanica): Lessing, Kant, Herder, Mendelssohn.
-- **The Dutch Enlightenment** (Aufklärung Batava): Spinoza, Bayle.
-- **The Italian Enlightenment** (Illuminismo): Beccaria, the Verri brothers, Genovesi.
-- **The Scottish Enlightenment**: Reid, Smith, Hume, Ferguson.
-- **The American Enlightenment**: Jefferson, Franklin, Paine.
-- **The Catholic Enlightenment**: reform movements within Catholic Europe, for example in Italy and the Habsburg lands.
+- **The French Enlightenment (Les Lumières)**: Voltaire, Diderot, Rousseau, Montesquieu, d'Holbach.
+- **The German Enlightenment (Die Aufklärung)**: Lessing, Mendelssohn, Kant, Wolff.
+- **The Scottish Enlightenment**: Hume, Smith, Ferguson, Reid.
+- **The English Enlightenment**: Locke, Newton, Gibbon, Bentham.
+- **The Italian Enlightenment (L'Illuminismo)**: Cesare Beccaria, Pietro Verri, Antonio Genovesi.
+- **The American Enlightenment**: Jefferson, Franklin, Madison, Paine.
+- **The Jewish Enlightenment (Haskalah)**: Moses Mendelssohn and circle.
 
 ## Relation to Other Schools
 
-- **Empiricism** (sch-british-empiricism): a source of the British Enlightenment (Aufklärung).
-- **Rationalism** (sch-continental-rationalism): a source of the continental Enlightenment (Aufklärung).
-- **Deism** (sch-deism): a religious extension of the Enlightenment (Aufklärung).
-- **The Social Contract** (sch-social-contract): a political theory of the Enlightenment (Aufklärung).
-- **Liberalism** (sch-classical-liberalism-early): a product of the political Enlightenment (Aufklärung).
-- **Romanticism** (Romanticismus): a reaction against the Enlightenment (Aufklärung) in the "19th century CE."
+- **British Empiricism**: furnished the epistemology and methodology for British and French thinkers.
+- **Continental Rationalism**: provided the metaphysical frameworks developed in Germany by Leibniz and Wolff.
+- **Deism**: offered a rationalist theology viewing God as the non-intervening watchmaker of an orderly cosmos.
+- **Social Contract Theory**: became the primary political philosophy of the era.
+- **Classical Liberalism**: emerged as the institutional and economic application of Enlightenment political theory.
+- **Romanticism**: arose in the late 18th and early 19th centuries as a complex reaction against Enlightenment rationalism, emphasizing sentiment, organic community, and historical particularity.
 
 ## Later Influence
 
-- **In politics**: the "American Revolution" (Revolutio Americana, 1776) and the "French Revolution" (Revolutio Francica, 1789) were inspired by the Enlightenment (Aufklärung). The "Declaration of the Rights of Man" (Declaratio Iurium Hominis, 1789) and the American Constitution were inspired by the Enlightenment (Aufklärung).
-- **In science**: Newton is a model of the scientific Enlightenment (Aufklärung). Induction and experimentation are tools of the Enlightenment (Aufklärung).
-- **In theology**: Lessing, in *Nathan der Weise* (1779), defended religious toleration. Schleiermacher (1768-1834) reworked Protestant theology in dialogue with, and partly in reaction to, the Enlightenment.
-- **In literature**: Voltaire, Rousseau, Diderot, Swift and Fielding were inspired by the Enlightenment (Aufklärung) and inspired it in turn.
-- **In contemporary philosophy**: Habermas, in *Der philosophische Diskurs der Moderne* (1985) and elsewhere, defended the Enlightenment and modernity as an unfinished project. Foucault, in his essay "Qu'est-ce que les Lumières?" (1984), saw the Enlightenment (Aufklärung) as an enduring intellectual attitude.
-- **In sociology**: Max Weber (1864-1920) analysed the rationalisation of modern life, a process with Enlightenment roots.
+- **In politics**: directly inspired the American Declaration of Independence, the French Declaration of the Rights of Man, modern constitutional democracy, and human rights frameworks.
+- **In science and education**: institutionalized the modern research university, secular public schooling, and empirical scientific method.
+- **In theology**: sparked modern biblical criticism and liberal Protestant theology (e.g., Schleiermacher), shifting emphasis to ethical and experiential dimensions of faith.
+- **In philosophy**: stimulated Kant's critical philosophy, German idealism, utilitarianism, and 20th-century critical theory. Jürgen Habermas famously defended the Enlightenment in *The Philosophical Discourse of Modernity* (1985) as an "unfinished project" of communicative rationality.
 
-## The Philosophical Impasse
+## Philosophical Tensions and Critiques
 
-- **Tension with religion**: the Enlightenment (Aufklärung) criticized the Church and institutional religion. Theology responded with Schleiermacher, "Karl Barth" and "Paul Tillich."
-- **Tension with Romanticism**: Romanticism in the "19th century CE" criticized the Enlightenment (Aufklärung) for being estranged from emotion and history. Herder and the Romantics responded.
-- **Tension with postmodernism**: "postmodernism" in the "20th century CE" criticized the Enlightenment (Aufklärung) for its rationalist rigidity. Lyotard, Foucault, Derrida and Habermas disagreed in different ways over the Enlightenment's legacy.
-- **Tension with colonialism**: the Enlightenment (Aufklärung) led to European colonialism in the "19th century CE." Césaire, Fanon and later postcolonial writers criticized Enlightenment universalism for its entanglement with colonialism and racial hierarchy, although some Enlightenment figures (for example Diderot) also criticised empire.
-- **Tension with the passions**: the Enlightenment demanded reason, but critics from Rousseau and Hume to the Frankfurt School stressed the force of emotion, and argued that instrumental reason can itself become a form of domination (Adorno and Horkheimer, *Dialectic of Enlightenment*, 1944).
-- **The contemporary legacy**: the Enlightenment (Aufklärung) still inspires democratic movements, civil rights and independent science in the contemporary world, and its critique also continues in contemporary philosophy.
+- **Instrumental Reason and Domination**: Max Horkheimer and Theodor Adorno, in *Dialectic of Enlightenment* (1944), argued that rationalism without self-critique turns into instrumental reason, culminating in bureaucratic and technocratic domination.
+- **Critique of Universalism and Colonialism**: Postcolonial and decolonial theorists (such as Aimé Césaire and Frantz Fanon) pointed out that European Enlightenment universalism frequently coexisted with, and legitimized, imperial expansion, slavery, and racial hierarchies, despite the anti-imperialist critiques voiced by thinkers like Diderot and Herder.
+- **Romantic and Historicist Counter-Enlightenment**: Isaiah Berlin traced the "Counter-Enlightenment" back to Giambattista Vico, Johann Georg Hamann, and Herder, who challenged the universal applicability of rationalist formulas to unique historical cultures.
+- **Postmodern Critiques**: 20th-century theorists, notably Michel Foucault and Jean-François Lyotard, interrogated Enlightenment claims of neutral, objective knowledge, exposing their entanglements with regimes of power and grand metanarratives.
 
 ## Sources
 
 - Kant, Immanuel. *An Answer to the Question: What is Enlightenment?* (1784).
 - Cassirer, Ernst. *The Philosophy of the Enlightenment*. Princeton University Press, 1951.
 - Israel, Jonathan. *Radical Enlightenment: Philosophy and the Making of Modernity 1650-1750*. Oxford University Press, 2001.
-- Habermas, Jürgen. *Der philosophische Diskurs der Moderne*. Suhrkamp, 1985.
-- Foucault, Michel. "Qu'est-ce que les Lumières?" (1984).
-- Adorno, Theodor W. and Max Horkheimer. *Dialektik der Aufklärung* (1944/1947).
+- Habermas, Jürgen. *The Philosophical Discourse of Modernity*. MIT Press, 1987.
+- Adorno, Theodor W. and Max Horkheimer. *Dialectic of Enlightenment*. Stanford University Press, 2002.
+- Berlin, Isaiah. *Against the Current: Essays in the History of Ideas*. Viking Press, 1980.

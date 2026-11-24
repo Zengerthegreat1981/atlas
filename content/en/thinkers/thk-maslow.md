@@ -6,9 +6,9 @@ level: "متقدم"
 title: "Abraham Maslow"
 en: "Abraham Maslow"
 crumb: "Psychology ← Thinkers ← Abraham Maslow"
-dates: "America · 1908–1970"
-active_start: 1954
-active_end: 1971
+dates: "United States · 1908–1970"
+active_start: 1943
+active_end: 1970
 country: "United States"
 language: "English"
 part: "psychology"

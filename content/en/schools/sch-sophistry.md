@@ -30,12 +30,12 @@ In Athens after the Persian Wars and the reforms of Cleisthenes (508 BC), and th
 
 ## Leading figures
 
-- Protagoras of Abdera (c. 490–420 BC): author of the famous saying that man is the measure of all things, found in his book "Truth", and an agnostic about the gods. He indicated that he taught "good judgment" in private and public affairs.
-- Gorgias of Leontini (c. 485–380 BC): an orator who came to Athens as an ambassador in 427 BC, author of the "Encomium of Helen" and of the book "On Non-Being, or On Nature", which contains three claims: nothing exists; if anything exists it cannot be known; and if it can be known it cannot be communicated to others. It is disputed whether this is serious or a rhetorical exercise.
-- Prodicus of Ceos: famed for his careful distinction between words of similar meaning.
-- Hippias of Elis: a man of wide learning, who claimed the ability to speak on any science.
-- Thrasymachus of Chalcedon: Plato has him say, in the "Republic", that justice is the interest of the stronger.
-- Antiphon: the distinction between nature (physis) and convention (nomos) is attributed to him, together with the view that many laws are shackles contrary to the interest of nature, although scholars disagree on whether he is identical with the Athenian orator Antiphon.
+- Protagoras of Abdera (c. 490–420 BC): author of the famous saying that man is the measure of all things, found in his work *Truth* (or *The Refutations*), and an agnostic about the gods in *On the Gods*. He indicated that he taught "good judgment" in private and public affairs.
+- Gorgias of Leontini (c. 485–380 BC): an orator who came to Athens as an ambassador in 427 BC, author of the *Encomium of Helen* and the treatise *On Non-Being, or On Nature*, which contains three famous claims: nothing exists; even if anything exists it cannot be known; and even if it can be known it cannot be communicated to others. Scholars debate whether this was serious philosophical nihilism or a masterly rhetorical exercise.
+- Prodicus of Ceos: famed for his careful distinctions between words of similar meaning (synonymy).
+- Hippias of Elis: a man of wide learning (polymathy), who claimed the ability to speak on any art or science.
+- Thrasymachus of Chalcedon: Plato has him argue, in Book I of the *Republic*, that justice is nothing other than the advantage of the stronger.
+- Antiphon: the distinction between nature (*physis*) and convention (*nomos*) is attributed to him, together with the view in *On Truth* that many legal conventions are artificial shackles contrary to nature, although scholars continue to debate whether he was identical with the Athenian orator Antiphon of Rhamnus.
 
 ## Central concepts
 
@@ -43,28 +43,33 @@ In Athens after the Persian Wars and the reforms of Cleisthenes (508 BC), and th
 - The power of language: Gorgias saw speech as a "mighty lord" that acts on the soul as a drug acts on the body.
 - Nature and convention: the Sophists asked whether values come from nature or from agreement, the question on which political and legal philosophy was later built.
 - The teaching of virtue: they claimed that it can be taught, and Socrates argued with them that knowledge alone is sufficient.
-- The two opposing arguments (dissoi logoi): presenting two arguments on every question.
+- The two opposing arguments (*dissoi logoi*): presenting two antithetical arguments on every question.
 
 ## Plato and Aristotle
 
-Plato portrayed the Sophist in his dialogues such as "Protagoras", "Gorgias" and "Hippias" as an opponent of Socrates, and in the "Sophist" defined him as a maker of semblances who profits from appearance. Aristotle devoted the book "Sophistical Refutations" to errors of reasoning that appear valid, and made it an appendix to the Topics. Later judgment was influenced by the position of the two, so that the sayings of the Sophists were preserved for the most part through their opponents.
+Plato portrayed the Sophist in dialogues such as *Protagoras*, *Gorgias*, and *Hippias Major* as an unprincipled rival of Socrates, and in the *Sophist* defined him as a hunter of rich youths and a merchant of deceptive semblances. Aristotle devoted *Sophistical Refutations* (*Sophistici Elenchi*) to fallacious reasoning that appears valid, treating it as an appendix to the *Topics*. Later judgment across antiquity and the Middle Ages was heavily shaped by their critique, so that the authentic writings of the Sophists were largely neglected or preserved only through polemical quotations.
 
 ## Sophistry in the Arabic heritage
 
-Arab philosophers and theologians (mutakallimun) knew sophistry through the translation of the book "Sophistica" in Aristotle's logic, and al-Farabi, Avicenna and Averroes dealt with it in their commentaries; al-Jurjani defined it in the "Definitions" as a syllogism composed of illusory premises whose aim is to mislead the opponent. But the theologians gave the word a different meaning: they came to use it of anyone who denies the realities of things, and the theologians usually divided it into three groups: the "stubborn" (inadiyya), who deny realities; the "relativists" (indiyya), who make them depend on each individual's belief; and the "agnostics" (la-adriyya), who suspend judgment about whether they are established. In "al-Aqa'id al-Nasafiyya" the reply to them is that the realities of things are established and knowledge of them is attainable. Ibn Hazm discussed the same denial in "al-Fasl". Thus the meaning of sophistry in Arabic is wider than the Greek sophistic teaching, and it expanded to include radical skepticism.
+Arab philosophers and theologians (*mutakallimūn*) encountered sophistry through the Arabic translation of Aristotle's *Sophistical Refutations* (*al-Sūfasṭāqa* in the *Organon*), commented on by al-Fārābī, Avicenna (Ibn Sīnā), and Averroes (Ibn Rushd). Al-Sharīf al-Jurjānī defined it in *al-Taʿrīfāt* as a syllogism composed of illusory premises intended to mislead an opponent. Theologians of kalām broadened the designation: they used the term *Sūfasṭāʾiyya* for anyone who denied objective reality, dividing them into three classic groups:
+1. The *ʿInādiyya* (the obstinate), who deny the objective reality of things altogether;
+2. The *ʿIndiyya* (the relativists/subjectivists), who claim that truth depends solely on each individual's belief or perspective;
+3. The *Lā-adriyyah* (the agnostics/skeptics), who suspend judgment regarding whether external reality can be known.
+
+In *al-ʿAqāʾid al-Nasafiyya*, Najm al-Dīn al-Nasafī begins by refuting this stance, asserting that "the real natures of things are firmly established, and knowledge of them is verified." Ibn Ḥazm similarly refuted radical skepticism in *al-Fiṣal fī al-milal wa-al-ahwāʾ wa-al-niḥal*. In the Arabic philosophical tradition, sophistry thus encompasses not merely rhetorical persuasion but radical epistemological skepticism.
 
 ## Modern assessment
 
-Hegel and George Grote, and then the studies of Kerferd, rehabilitated the Sophists as the first to study language and society as human products. Some saw in Protagoras a forerunner of relativism and pragmatism, and in Thrasymachus a forerunner of political realism. Their ideas contributed to the founding of rhetoric, grammar and semantics.
+Hegel and George Grote, followed by the mid-twentieth-century scholarship of G. B. Kerferd, substantially rehabilitated the Sophists as genuine educational innovators who first examined language, morality, and civic institutions as historical human constructs. Some modern philosophers view Protagoras as an early precursor of pragmatism and epistemological constructivism, and Thrasymachus as a pioneer of political realism. Their analytical innovations fundamentally laid the groundwork for ancient linguistics, rhetoric, and formal argumentation.
 
 ## Limits
 
-We possess only short fragments, and most of what we know of them is reported by their opponents, some of it satirically. The image of Protagoras in Plato must therefore be read with caution, and likewise the saying of Thrasymachus. This does not mean that every Sophist denied truth; Prodicus and Hippias did not deny its existence. Some scholars hold that the "Sophistic movement" is a grouping that owes more to Plato's portrayal than to any shared programme among its members.
+We possess only fragments of primary Sophistic writings (collected notably by Diels and Kranz in *Die Fragmente der Vorsokratiker*), and most surviving accounts derive from hostile contemporaries. The portraits of Protagoras, Gorgias, and Thrasymachus in Plato must therefore be read with hermeneutic caution. Furthermore, the Sophists held divergent epistemological and moral commitments; thinkers like Prodicus and Hippias did not advocate radical relativism. Contemporary historians emphasize that "the Sophistic movement" was a sociological professional category of traveling educators rather than a uniform philosophical sect.
 
 ## Sources
 
-- Aristotle, Mantiq Aristu (Aristotle's Logic), ed. Abd al-Rahman Badawi (Dar al-Kutub al-Misriyya, Cairo, 1952).
-- al-Sharif al-Jurjani, al-Ta'rifat (Dar al-Kutub al-Ilmiyya, Beirut, 1983).
-- G. B. Kerferd, The Sophistic Movement (Cambridge University Press, 1981).
-- W. K. C. Guthrie, A History of Greek Philosophy, vol. 3: The Fifth-Century Enlightenment (Cambridge University Press, 1969).
-- Rosamond Kent Sprague (ed.), The Older Sophists (University of South Carolina Press, 1972).
+- Aristotle. *Manṭiq Arisṭū* [Aristotle's Logic]. Edited by Abd al-Rahman Badawi. Cairo: Dar al-Kutub al-Misriyya, 1952.
+- al-Jurjānī, al-Sharīf. *Kitāb al-Taʿrīfāt*. Beirut: Dar al-Kutub al-ʿIlmiyya, 1983.
+- Kerferd, G. B. *The Sophistic Movement*. Cambridge: Cambridge University Press, 1981.
+- Guthrie, W. K. C. *A History of Greek Philosophy*, vol. 3: *The Fifth-Century Enlightenment*. Cambridge: Cambridge University Press, 1969.
+- Sprague, Rosamond Kent, ed. *The Older Sophists*. Columbia: University of South Carolina Press, 1972.

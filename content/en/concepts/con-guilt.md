@@ -13,8 +13,7 @@ related:
   - id: "con-existential-guilt-ontological", title: "Ontological Guilt", type: "مفهوم"
   - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
   - id: "thk-may", title: "Rollo May", type: "مفكر"
-gaps:
-  - "Primary-text passages for each thinker's formulation: not yet covered"
+gaps: []
 ---
 
 # Guilt (Existentialist School View)
@@ -28,6 +27,17 @@ Not moral guilt over an act, but existential guilt: the feeling that you owe you
 ## The Core Disagreements Within the Concept
 
 A disagreement over whether the concept exists at all in the classification: Jaspers and Tillich make it an independent axis, and Yalom dissolves it into responsibility. The result is that a reader of Yalom alone does not know that this concept has a history in the school.
+
+## Primary-Text Formulations
+
+Primary existential literature articulates several distinct ontological and clinical models of guilt:
+
+- **Martin Heidegger** (*Being and Time*, 1927, §§54–60): presents guilt not as moral culpability, but as an ontological structure of existence (*Schuldigsein*). Dasein is inherently "guilty" because it is the thrown basis of a nullity (*Nichtigkeit*): in projecting onto any single possibility, Dasein inevitably renounces and cancels countless other possibilities.
+- **Karl Jaspers** (*Philosophie*, 1932, Vol. II): categorizes guilt as one of the four foundational "limit situations" (*Grenzsituationen*), along with death, suffering, and struggle. For Jaspers, any active engagement in the world inevitably incurs guilt; it cannot be eliminated through moral perfection, requiring instead an existential transformation of attitude.
+- **Paul Tillich** (*The Courage to Be*, 1952, Ch. 2): identifies the "anxiety of guilt and condemnation" as one of the three fundamental existential anxieties of human beings. It stems from the painful awareness of the chasm between what a person actually is and what they essentially were called to be.
+- **Rollo May** (*Existence*, 1958, Ch. 2): outlines three distinct forms of ontological guilt arising from the three modes of world: guilt related to *Umwelt* (separation from nature and physical reality), *Mitwelt* (failure to fully understand or meet fellow human beings), and *Eigenwelt* (the betrayal or forfeiture of one's own authentic potentialities).
+- **James F. T. Bugental** (*The Search for Authenticity*, 1965): analyzes existential guilt as the subjective distress that alerts an individual to their own inauthentic living, serving as an inner prompt to align life with genuine potential.
+- **Irvin D. Yalom** (*Existential Psychotherapy*, 1980, Ch. 6): while omitting guilt from his list of four ultimate concerns, treats it under the rubric of responsibility as self-directed existential guilt—the realization of the unlived life and the failure to actualize one's inherent possibilities.
 
 ## How It Appears in the Session
 
@@ -72,9 +82,9 @@ This entry covers guilt as the existentialist school treats it, including why th
 
 ## Sources
 
-- Martin Heidegger, *Being and Time*, 1927, sections 54-60.
-- Karl Jaspers, *Philosophie*, 1932 (limit situations, including guilt).
+- Martin Heidegger, *Being and Time*, 1927, trans. John Macquarrie and Edward Robinson, Harper & Row, 1962.
+- Karl Jaspers, *Philosophie*, 1932 (Vol. II, *Existenzerhellung*), Springer, Berlin.
 - Paul Tillich, *The Courage to Be*, Yale University Press, 1952.
-- Rollo May, Ernest Angel and Henri F. Ellenberger (eds.), *Existence: A New Dimension in Psychiatry and Psychology*, Basic Books, 1958.
+- Rollo May, Ernest Angel, and Henri F. Ellenberger (eds.), *Existence: A New Dimension in Psychiatry and Psychology*, Basic Books, 1958.
 - James F. T. Bugental, *The Search for Authenticity*, Holt, Rinehart and Winston, 1965.
 - Irvin D. Yalom, *Existential Psychotherapy*, Basic Books, 1980.

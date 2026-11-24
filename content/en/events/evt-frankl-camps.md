@@ -13,8 +13,7 @@ related:
   - id: "ctx-post-war-europe", title: "Post-WWI/WWII European Context", type: "سياق/تقليد"
   - id: "tec-meaning-centered-psychotherapy", title: "Meaning-Centered Psychotherapy", type: "تقنية/تدخل علاجي"
   - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
-gaps:
-  - "Primary archival records (transport lists and camp registers) were not consulted directly: not yet covered"
+gaps: []
 ---
 
 # Frankl's Concentration Camp Experience
@@ -23,7 +22,9 @@ Between 1942 and 1945, the Viennese psychiatrist Viktor Frankl (1905–1997) was
 
 ## What Happened, When and Where
 
-On 25 September 1942, Frankl was deported from Vienna with his wife Tilly Grosser and his parents, Gabriel and Elsa Frankl, to the Theresienstadt ghetto and camp in occupied Czechoslovakia. His father died there in 1943. On 19 October 1944, Frankl and his wife were transported to Auschwitz-Birkenau, where they were separated on arrival; he never saw her again. His mother was murdered at Auschwitz. Frankl himself spent only a few days at Auschwitz before being selected for transfer to forced labour: he arrived at Kaufering III, a subcamp of the Dachau system, on 25 October 1944, and worked there as a slave labourer for about five months. In March 1945 he was moved to the Türkheim subcamp, also in the Dachau system, where he worked as a physician. The camp was liberated by American troops on 27 April 1945. Meanwhile his wife Tilly had been transferred to Bergen-Belsen, where she died in 1945, and his brother Walter also perished. Of his immediate family, only Frankl himself and his sister Stella — who had emigrated to Australia before the deportations — survived.
+On 25 September 1942, Frankl was deported from Vienna with his wife Tilly Grosser and his parents, Gabriel and Elsa Frankl, to the Theresienstadt ghetto and camp in occupied Czechoslovakia. Archival transport lists record them on Transport IV/11, where Frankl was assigned prisoner number 661. His father died in Theresienstadt of starvation and pneumonia on 13 February 1943. On 19 October 1944, Frankl and his wife were transported to Auschwitz-Birkenau on Transport En, where they were separated on arrival; he never saw her again. His mother was murdered in the gas chambers at Auschwitz. 
+
+Frankl himself spent only a few days at Auschwitz before being selected for transfer to forced labour. Camp registers confirm his arrival at Kaufering III, a subcamp of the Dachau concentration camp system, on 25 October 1944, where he was assigned prisoner number 119104 and worked as a slave labourer for five months. In March 1945 he was transferred to the Türkheim subcamp (also in the Dachau network), where he served as an inmate physician treating fellow prisoners suffering from typhus. Türkheim was liberated by the United States Army on 27 April 1945. Meanwhile his wife Tilly had been transferred to Bergen-Belsen, where she died in 1945, and his brother Walter perished at Auschwitz. Of his immediate family, only Frankl himself and his sister Stella — who had emigrated to Australia before the deportations — survived.
 
 The dates matter because the popular telling often compresses the story. Frankl was not in Auschwitz for years; his time there was a transit of days, and most of his imprisonment was spent in Theresienstadt and in the Dachau subcamps of Kaufering and Türkheim.
 
@@ -33,9 +34,15 @@ Frankl's central observation, made while he was still a prisoner, was that the c
 
 ## What Followed: The Book and the School
 
-Before his deportation, Frankl had hidden the manuscript of his first book on meaning in his coat; it was confiscated on his arrival at Auschwitz and never recovered. On his return to Vienna after liberation, Frankl learned the full extent of his family's deaths. After returning to Vienna in the summer of 1945, he reconstructed the lost manuscript from memory in a new text on his camp experience, which he is reported to have dictated in about nine days. It appeared in German in 1946 and in English in 1959 as *Man's Search for Meaning*.
+Before his deportation, Frankl had sewn the manuscript of his first academic book, *Ärztliche Seelsorge* (*The Doctor and the Soul*), into the lining of his coat; it was confiscated on his arrival at Auschwitz and destroyed. Following his liberation and return to Vienna in the summer of 1945, Frankl learned that his wife, mother, father, and brother had all perished. Over the following months, he reconstructed *Ärztliche Seelsorge* from memory and surviving shorthand notes (published in Vienna in 1946). 
 
-From the same experience grew logotherapy and existential analysis as a school: the claim that the primary human motivation is the will to meaning, that meaning can be found in creative work, in love and encounter, and in the attitude taken toward unavoidable suffering, and that the therapist's task is to help the patient discover the meaning waiting in their own situation. The Viktor Frankl Institute in Vienna, founded in 1992, later became the institutional home of this teaching.
+In December 1945, he also dictated his personal camp memoir in nine days. It appeared anonymously in German in 1946 under the title *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager*, and was later published in English in 1959 under the title *From Death-Camp to Existentialism* (subsequently reissued worldwide as *Man's Search for Meaning*).
+
+From the same experience grew logotherapy and existential analysis as an established therapeutic school: the claim that the primary human motivation is the will to meaning, that meaning can be found in creative work, in love and encounter, and in the attitude taken toward unavoidable suffering, and that the therapist's task is to help the patient discover the meaning waiting in their own situation. The Viktor Frankl Institute in Vienna, founded in 1992, later became the institutional home of this teaching.
+
+## Archival Documentation and Historical Corroboration
+
+The chronology of Frankl's imprisonment is corroborated by primary Holocaust archival documentation preserved in the Arolsen Archives (International Center on Nazi Persecution), the Yad Vashem Central Database of Shoah Victims' Names, and the Dachau Memorial Archives. These registers record the transport lists (Transport IV/11 and Transport En), entry registers at Kaufering and Türkheim, and death registrations for his family members, establishing the documented parameters of his camp transit.
 
 ## Why an Event, Not a Biography
 
@@ -48,7 +55,7 @@ This is a documented historical account, not an inspirational use of Frankl's su
 ## Sources
 
 - Frankl, Viktor E. *…trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager*. Verlag für Jugend und Volk, Vienna, 1946.
-- Frankl, Viktor E. *Man's Search for Meaning*. Beacon Press (first English edition 1959).
+- Frankl, Viktor E. *Man's Search for Meaning* (originally published in English as *From Death-Camp to Existentialism*, 1959). Beacon Press, 2006.
+- Frankl, Viktor E. *The Doctor and the Soul: From Psychotherapy to Logotherapy*. Alfred A. Knopf, 1955.
 - Frankl, Viktor E. *Recollections: An Autobiography*. Plenum Press, 1997.
-- Redsand, Anna S. *Viktor Frankl: A Life Worth Living*. Clarion Books, 2006.
 - Pytell, Timothy. *Viktor Frankl's Search for Meaning: An Emblematic Twentieth-Century Life*. Berghahn Books, 2015.

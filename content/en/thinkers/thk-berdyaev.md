@@ -13,8 +13,7 @@ edges:
 related:
   - id: "thk-marcel", title: "Gabriel Marcel", type: "مفكر"
   - id: "thk-shestov", title: "Lev Shestov", type: "مفكر"
-gaps:
-  - "Influence on psychotherapy specifically (as distinct from philosophy): not yet covered."
+gaps: []
 ---
 
 # Nikolai Berdyaev
@@ -37,6 +36,10 @@ Born in Kyiv in 1874 into an aristocratic family, he attended the Kyiv Cadet Cor
 
 *The Philosophy of Freedom* (1911) · *The Meaning of the Creative Act* (1916) · *The Meaning of History* (1923) · *Freedom and the Spirit* (1927) · *The Destiny of Man* (1931) · *Solitude and Society* (1934) · *The Origin of Russian Communism* (1937) · *Slavery and Freedom* (1939) · *The Russian Idea* (1946) · *Dream and Reality* (autobiography, posthumous, 1949)
 
+## Relation to Depth Psychology and Psychotherapy
+
+Unlike Jaspers or Binswanger, Berdyaev was neither a psychiatrist nor a clinician, yet his personalist philosophy influenced existential psychotherapy, notably through the American existential movement led by Rollo May. In *The Destiny of Man* (1931), Berdyaev engaged directly with Sigmund Freud and depth psychology, acknowledging psychoanalysis for uncovering the subconscious conflicts and neuroses born of social repression, while criticizing Freud for reducing spiritual and creative life to biological instincts. For Berdyaev, mental anguish and inner division reflect a spiritual crisis: the degradation of the person into an objectified entity. Existential psychotherapists drew upon his concepts of creative freedom (*tvorchestvo*) and the defense of the irreplaceable person against depersonalizing social mechanisms as vital resources for therapeutic integration and authentic selfhood.
+
 ## Limitation
 
 His influence on therapeutic practice, as distinct from philosophy, is not documented to the same degree as that of Tillich or Marcel in this Atlas. He wrote in an essayistic, non-systematic style, and his readings of Dostoevsky and of Russian history are interpretive rather than strictly scholarly.
@@ -47,3 +50,4 @@ His influence on therapeutic practice, as distinct from philosophy, is not docum
 - Berdyaev, Nicolas, *Slavery and Freedom*, trans. R. M. French, London: Geoffrey Bles, 1943.
 - Berdyaev, Nicolas, *Dream and Reality: An Essay in Autobiography*, trans. Katharine Lampert, London: Geoffrey Bles, 1950.
 - Spinka, Matthew, *Nicolas Berdyaev: Captive of Freedom*, Philadelphia: Westminster Press, 1950.
+- May, Rollo, *The Courage to Create*, New York: W. W. Norton & Company, 1975.

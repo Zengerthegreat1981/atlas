@@ -8,6 +8,10 @@ title: "Edmund Husserl"
 en: "Edmund Husserl"
 crumb: "Phenomenology ← People ← Edmund Husserl"
 dates: "Germany · 1859–1938"
+country: "Germany"
+language: "German"
+active_start: 1891
+active_end: 1938
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
@@ -50,7 +54,10 @@ Mainly the method, not the transcendental project. This is a legitimate use but 
 
 ## His Most Important Works
 
-*Logical Investigations* (*Logische Untersuchungen*, 1900-1901) · *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*, Book One (*Ideen I*, 1913) · *Cartesian Meditations* (first published in French in 1931, German text 1950) · *The Crisis of European Sciences and Transcendental Phenomenology* (*Die Krisis der europäischen Wissenschaften*, partly published 1936, left unfinished, full text 1954).
+- *Logical Investigations* (*Logische Untersuchungen*, 1900–1901).
+- *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*, Book One (*Ideen I*, 1913).
+- *Cartesian Meditations* (*Cartesianische Meditationen*, French 1931, German 1950).
+- *The Crisis of European Sciences and Transcendental Phenomenology* (*Die Krisis der europäischen Wissenschaften und die transzendentale Phänomenologie*, 1936/1954).
 
 ## Selected Quotations
 

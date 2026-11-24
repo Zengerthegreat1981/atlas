@@ -8,7 +8,7 @@ en: "Wilhelm Dilthey"
 crumb: "Philosophy ← Thinkers ← Wilhelm Dilthey"
 dates: "Germany · 1833–1911"
 active_start: 1883
-active_end: 1910
+active_end: 1911
 country: "Germany"
 language: "German"
 part: "philosophy"
@@ -38,13 +38,16 @@ He argued that psychological and historical life is not grasped by mechanical ca
 
 He was an older contemporary of Husserl, and his influence extended directly to Karl Jaspers (who adopted the distinction of understanding/explanation literally in *General Psychopathology*) and then to the whole line of phenomenological psychopathology that branched from Jaspers.
 
-## Limitation
+## Limitations
 
 He did not use the term "existentialism" nor practice phenomenology in the strict Husserlian sense; he is included here as a direct methodological forerunner, not a member of the school.
 
 ## Major Works
 
-*Introduction to the Human Sciences* (Einleitung in die Geisteswissenschaften, 1883) · *The Formation of the Historical World in the Human Sciences* (Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften, 1910).
+- *Introduction to the Human Sciences* (*Einleitung in die Geisteswissenschaften*, 1883)
+- *Ideas Concerning a Descriptive and Analytical Psychology* (*Ideen über eine beschreibende und zergliedernde Psychologie*, 1894)
+- *The Rise of Hermeneutics* (*Die Entstehung der Hermeneutik*, 1900)
+- *The Formation of the Historical World in the Human Sciences* (*Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften*, 1910)
 
 ## Biography
 

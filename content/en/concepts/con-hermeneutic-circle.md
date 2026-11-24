@@ -21,31 +21,42 @@ gaps: []
 
 # The Hermeneutic Circle
 
-The "hermeneutic circle" (hermeneutischer Zirkel) is a description of the circular structure of understanding: the whole is understood only from its parts, and the parts are understood only from the whole. A word in a sentence becomes clear in meaning only through the sentence, the sentence becomes clear only through the whole text, and the text becomes clear only in the context of its author and his age. The circle moves from being a methodological rule for interpreting texts to being an existential structure of human understanding, and this is the course of its development.
+The "hermeneutic circle" (*hermeneutischer Zirkel*) describes the circular, interdependent structure of human understanding: the whole can only be understood from its parts, while the parts can only be understood in reference to the whole. In textual interpretation, a single word is understood through the sentence, the sentence through the chapter, the text through the author's corpus, and the corpus within its wider historical horizon. Over its development, the circle expanded from a specialized philological rule for interpreting scripture and literature into a fundamental ontological structure of human existence.
 
-## The Historical Course
+## Historical Evolution
 
-Ancient rhetoric knew the rule before modernity; Friedrich Ast (1808) made it the basis of interpretation, and Friedrich Schleiermacher (1768–1834) formulated it in his lectures on hermeneutics (1819 onward) as a relation between part and whole and between grammatical understanding and psychological (intuitive) understanding of the author's intention. Wilhelm Dilthey developed it in the foundation of the human sciences, tying understanding to lived experience and history. Then Martin Heidegger, in *Being and Time* (1927, section 32), moved it from a method to an existential structure: understanding is always preceded by a "fore-having", a "fore-sight", and a "fore-conception", and what matters for him is "not to get out of the circle but to come into it in the right way". Hans-Georg Gadamer (1900–2002), in *Truth and Method* (1960), made it a positive movement that produces a "fusion of horizons": the reader does not read from a void but from the horizon of the "prejudices" (Vorurteile) that tradition bequeaths, and understands the text by adjusting his horizon to the horizon of the text, and reading presupposes a "fore-conception of completeness" (Vorgriff der Vollkommenheit), that is, that the text says something coherent.
+The concept evolved through several distinct phases in European philosophy:
 
-## In the Arab-Islamic Heritage
+- **Philological and Rhetorical Origins**: While anticipated in classical rhetoric, Friedrich Ast (1808) first systematized the principle that the spirit of a work is grasped through its details, and the details through the unifying spirit.
+- **Schleiermacher's Romantic Hermeneutics**: Friedrich Schleiermacher (1768–1834) integrated the circle into a universal hermeneutics in his lectures (1819 onward). He balanced "grammatical interpretation" (understanding words within linguistic structures) with "psychological" or "divinatory interpretation" (reconstructing the inner creative process of the author), emphasizing that comprehension requires an ongoing movement between individual utterances and the linguistic and psychic whole.
+- **Dilthey and the Human Sciences**: Wilhelm Dilthey (*The Formation of the Historical World in the Human Sciences*, 1910) made the hermeneutic circle the epistemological cornerstone of the *Geisteswissenschaften* (humanities and social sciences), linking parts of human expressions to the lived experience (*Erlebnis*) of historical life.
+- **Heidegger's Ontological Turn**: In *Being and Time* (1927, §32), Martin Heidegger transformed the circle from a methodological tool into an existential structure of *Dasein*. Understanding is always already conditioned by a fore-structure: "fore-having" (*Vorhabe*), "fore-sight" (*Vorsicht*), and "fore-conception" (*Vorgriff*). Heidegger insisted that the circle is not a vicious fallacy to be avoided, but the very condition of possibility for authentic understanding: what matters is "not to get out of the circle, but to come into it in the right way."
+- **Gadamer's Philosophical Hermeneutics**: Hans-Georg Gadamer (1900–2002), in *Truth and Method* (1960), refined the circle as a productive historical process. The interpreter approaches a text with inherited "prejudices" (*Vorurteile*) grounded in tradition (*Wirkungsgeschichte*). Reading involves a "fore-conception of completeness" (*Vorgriff der Vollkommenheit*)—the provisional assumption that the text conveys a coherent unity of meaning—culminating in a "fusion of horizons" (*Horizontverschmelzung*) between past text and present interpreter.
 
-The concept of the circle is not foreign to the sciences of exegesis and of legal theory. The theory of "composition" (nazm) of Abd al-Qahir al-Jurjani (d. 1078) in *Dala'il al-I'jaz* holds that a word does not convey its meaning singly but through its connection with others in a construction, so meaning belongs to the construction, not the word. For al-Shatibi (d. 1388) in *al-Muwafaqat*, understanding a particular text requires referring it back to the universals and the purposes, and in interpreting the Quran by the Quran a passage is understood in light of the whole of the Book. Nasr Hamid Abu Zayd discussed this connection in *Problems of Reading and Mechanisms of Interpretation* (1992), and Hasan Nazim and Ali Hakim Salih translated *Truth and Method* into Arabic (2007).
+## Parallels in the Arab-Islamic Hermeneutic Tradition
 
-## Criticism
+Arabic linguistic, legal, and theological sciences developed sophisticated counterparts to the hermeneutic circle:
+- **Theory of Composition (*Nazm*)**: Abd al-Qahir al-Jurjani (d. 1078) in *Dala'il al-I'jaz* (Signs of Inimitability) demonstrated that isolated words possess no poetic or semantic aesthetic in themselves; meaning emerges solely from the syntactic and structural relationships established in the constructed sentence and discourse as a whole.
+- **Legal Holism and Purposes (*Maqasid*)**: Abu Ishaq al-Shatibi (d. 1388) in *al-Muwafaqat* argued that individual legal rulings (*juz'iyyat*) can only be validly interpreted when referred back to the universal purposes and overarching intentions of the law (*kulliyyat al-shari'a*).
+- **Intra-textual Exegesis**: The classical principle of interpreting the Quran through the Quran (*tafsir al-Qur'an bi-l-Qur'an*) treats the scripture as a unified semantic whole whose passages clarify one another. In modern scholarship, Nasr Hamid Abu Zayd examined these parallels in *Problems of Reading and Mechanisms of Interpretation* (1992).
 
-Emilio Betti in *Hermeneutics as the General Methodology of the Human Sciences* (1962) and E. D. Hirsch in *Validity in Interpretation* (1967) objected that Gadamer opens the door to subjectivity, and that a distinction must be made between fixed meaning and changing significance. Jürgen Habermas criticized Gadamer in *On the Logic of the Social Sciences* (1967) because hermeneutics relies on tradition and sets up no mechanism for the critique of ideology and the systematic distortion of communication, which launched the "Gadamer-Habermas debate". Hans Albert and Karl Popper ("The Myth of the Framework", 1976) objected from the standpoint of critical rationalism to the claim that frameworks cannot be transcended.
+## Debates and Critical Assessments
 
-## The Difference from the Circular Fallacy
+Philosophical hermeneutics sparked vigorous debate:
+- **Methodological Objectivity**: Theorists such as Emilio Betti (*Die Hermeneutik als allgemeine Methodik der Geisteswissenschaften*, 1962) and E. D. Hirsch (*Validity in Interpretation*, 1967) argued that Gadamer's emphasis on tradition and the interpreter's horizon opens the door to unconstrained relativism, insisting on distinguishing an author's determinate meaning (*Sinn*) from its changing significance (*Bedeutung*).
+- **The Gadamer-Habermas Debate**: Jürgen Habermas (*On the Logic of the Social Sciences*, 1967) argued that hermeneutics remains uncritical of ideology. Because tradition may encode relations of domination and systematically distorted communication, hermeneutical understanding requires supplementation by critical social sciences and ideology critique.
+- **Critical Rationalism**: Karl Popper ("The Myth of the Framework") and Hans Albert objected to the notion that interpreters are hopelessly imprisoned within linguistic or traditional horizons, defending the possibility of rational cross-framework critique.
 
-The circle does not mean the logical circular reasoning that presupposes what is to be proved; it does not concern demonstration but the becoming of understanding: a movement that advances spirally, in which the preconception is adjusted in light of what emerges. The open question is the criterion for distinguishing between prejudices that obscure the text and prejudices that open it.
+## The Hermeneutic Circle versus Circular Fallacy
+
+The hermeneutic circle is fundamentally distinct from the formal logical fallacy of *circulus in probando* (begging the question). While logical circularity presupposes what must be proved in an argument, the hermeneutic circle describes an iterative, spiral movement of cognitive discovery: an initial pre-understanding is continually revised, enriched, and corrected as engagement with the particular details deepens.
 
 ## Sources
 
-- Hans-Georg Gadamer, *Wahrheit und Methode*, Tübingen: J. C. B. Mohr (Paul Siebeck), 1960.
-- Hans-Georg Gadamer, *Truth and Method* (al-Haqiqa wa al-Manhaj), trans. Hasan Nazim and Ali Hakim Salih, Tripoli: Dar Oya, 2007.
-- Martin Heidegger, *Sein und Zeit*, Halle: Max Niemeyer, 1927.
-- Friedrich Schleiermacher, *Hermeneutik und Kritik* (lectures from 1819; edited by Manfred Frank, Suhrkamp, 1977).
-- Wilhelm Dilthey, *Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften*, 1910.
+- Hans-Georg Gadamer, *Truth and Method* (*Wahrheit und Methode*, 1960), trans. Joel Weinsheimer and Donald G. Marshall, Continuum, 2004.
+- Martin Heidegger, *Being and Time* (*Sein und Zeit*, 1927), trans. John Macquarrie and Edward Robinson, Harper & Row, 1962.
+- Friedrich Schleiermacher, *Hermeneutics and Criticism: And Other Writings*, ed. and trans. Andrew Bowie, Cambridge University Press, 1998.
+- Wilhelm Dilthey, *The Formation of the Historical World in the Human Sciences*, ed. Rudolf A. Makkreel and Frithjof Rodi, Princeton University Press, 2002.
 - E. D. Hirsch, *Validity in Interpretation*, Yale University Press, 1967.
-- Nasr Hamid Abu Zayd, *Problems of Reading and Mechanisms of Interpretation* (Ishkaliyyat al-Qira'a wa Aliyyat al-Ta'wil), Beirut and Casablanca: al-Markaz al-Thaqafi al-Arabi, 1992.
-- Jürgen Habermas, *Zur Logik der Sozialwissenschaften*, Tübingen: Mohr, 1967.
+- Jürgen Habermas, *On the Logic of the Social Sciences*, trans. Shierry Weber Nicholsen and Jerry A. Stark, MIT Press, 1988.
+- Abd al-Qahir al-Jurjani, *Dala'il al-I'jaz*, ed. Mahmud Muhammad Shakir, Maktabat al-Khanji, Cairo, 1984.

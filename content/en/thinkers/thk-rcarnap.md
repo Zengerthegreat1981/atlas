@@ -2,7 +2,7 @@
 slug: "thk-rcarnap"
 id: "THK-1790"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Rudolf Carnap"
 en: "Rudolf Carnap"
@@ -21,7 +21,7 @@ gaps: []
 
 # Rudolf Carnap
 
-A German-American philosopher, one of the most prominent members of the Vienna Circle, and the most important theorist of logical positivism in its methodical formulation. He was born in 1891 in Ronsdorf, Germany, and died in 1970 in Santa Monica. He emigrated to the United States in 1935 with the rise of Nazism, and worked as a professor at the University of Chicago from 1936 to 1952, then at the Institute for Advanced Study in Princeton (1952–54), then at the University of California, Los Angeles, from 1954 until his retirement.
+A German-American philosopher, one of the most prominent members of the Vienna Circle, and the most important theorist of logical positivism in its methodical formulation. He was born in 1891 in Ronsdorf, Germany, and died in 1970 in Santa Monica, California. He emigrated to the United States in 1935 with the rise of Nazism, and worked as a professor at the University of Chicago from 1936 to 1952, then at the Institute for Advanced Study in Princeton (1952–54), then at the University of California, Los Angeles, from 1954 until his retirement.
 
 ## Formation and Career
 
@@ -45,7 +45,7 @@ Carnap's programme faced criticism from within the analytic tradition itself. Qu
 
 ## What He Contributed
 
-- **"The Logical Structure of the World" (Aufbau, 1928)**: a programme for reducing all cognitive concepts to basic sensory data (Eigenpsychisches).
+- **"The Logical Structure of the World" (Aufbau, 1928)**: a programme for reducing all cognitive concepts to basic sensory data (*das Eigenpsychische*).
 - **"Logical Syntax" (Logische Syntax, 1934)**: the Principle of Tolerance in constructing languages, and the rejection of justifying a single logical language as though it were correct by nature.
 - **"Logical Foundations of Probability" (1950)**: a theory of logical probability as the axis for analysing induction.
 - **"Empiricism, Semantics, and Ontology" (1950)**: in it he distinguished internal questions posed within a linguistic framework from external questions about the choice of the framework itself.

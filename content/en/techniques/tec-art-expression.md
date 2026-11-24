@@ -12,7 +12,7 @@ active_start: 1947
 active_end: "مستمر"
 edges: []
 related:
-  - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
+- id: "con-authenticity", title: "Authenticity", type: "مفهوم"
 gaps: []
 ---
 
@@ -39,7 +39,6 @@ Margaret Naumburg founded the psychodynamic strand, insisting that images speak 
 ## Evidence and Influence
 
 The evidence for art therapy is growing but uneven. Reviews find tentative support for its use with trauma, anxiety, and depression, and for its role in helping children and adults who find verbal therapy difficult; but many studies are small, and the field has struggled to standardise an intervention whose power lies partly in its openness. Its influence, however, is wide. Art-based methods are now routine in trauma treatment, in paediatric hospitals, in dementia care, in prisons, and in community work with refugees — settings where words are scarce, dangerous, or simply unavailable. The method has also shaped the wider culture of therapy: the idea that a client might draw, write, or make something in a session is no longer unusual, and many therapists who would not call themselves art therapists keep paper and pastels in the room. By contrast with dream analysis, which interprets a text the sleeping mind has already produced, art work makes a new text — an image, a figure, a page — in the waking presence of another person.
-
 
 ## Sources
 

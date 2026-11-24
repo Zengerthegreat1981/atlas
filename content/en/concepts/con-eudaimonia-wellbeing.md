@@ -22,29 +22,36 @@ gaps: []
 
 # Eudaimonia: Happiness and Human Flourishing
 
-In his *Nicomachean Ethics* (about 330 BC) Aristotle inquired into the "highest good", for the sake of which all other actions are sought, not for the sake of anything else, and he called it eudaimonia. The common translation "happiness" is partly misleading: for Aristotle eudaimonia is not a passing affective state of pleasure, but an activity (energeia): an actual practice of life in accordance with reason and virtue across a whole lifetime, since Aristotle says that "one swallow does not make a spring", so one cannot judge a person's eudaimonia from a single moment. Contemporary psychology has taken up the concept in discussions of wellbeing.
+In his *Nicomachean Ethics* (c. 330 BCE), Aristotle inquired into the "highest good" (*ariston*), for the sake of which all human actions are ultimately undertaken and which is never sought as a means to something else, calling this end *eudaimonia*. The standard English translation "happiness" is notoriously liable to mislead: for Aristotle, eudaimonia is not a transient affective state or subjective feeling of pleasure, but an ongoing activity (*energeia*) of the soul in accordance with virtue (*kat' areten*) across a complete life (*en bio teleio*). As Aristotle famously noted, "one swallow does not make a spring," meaning that a person's flourishing cannot be judged by a single moment or brief period.
 
-## Cognitive and ontological dimensions
+## Cognitive and Ontological Foundations
 
-For Aristotle eudaimonia requires the realization of the "function" (ergon) proper to the human being as a rational creature, through the activity of the soul in accordance with complete virtue, and it also presupposes a measure of external goods (health, friends, resources) that is not sufficient alone but is a necessary condition for practicing virtue in practice, which distinguishes Aristotelianism from Stoicism, which made virtue self-sufficient for happiness. In Book Ten Aristotle makes theoretical contemplation the most complete form of eudaimonia, a point of dispute among interpreters: is the end single (contemplation) or composite, including the moral virtues?
+Aristotle establishes his definition through the "ergon argument" (*Nicomachean Ethics*, Book I, Ch. 7): just as a flute-player, sculptor, or bodily organ has a distinctive function (*ergon*), human beings as such must possess a characteristic function. Because humans share vegetative and animal functions with plants and beasts, the distinctive human function is the active life of the rational part of the soul. True flourishing consists in performing this function excellently.
 
-## In the Arabic heritage
+Furthermore, Aristotle insists that eudaimonia requires a baseline of external goods (*choregia*, such as health, friends, adequate wealth, and social standing). While external goods are insufficient on their own to produce flourishing, their absence can hinder or disfigure the exercise of virtuous activity. This distinguishes Aristotelianism sharply from Stoicism, which maintained that virtue is entirely self-sufficient for happiness regardless of external catastrophe. In Book X of the *Nicomachean Ethics*, Aristotle identifies contemplative thought (*theoria*) as the highest and most complete form of eudaimonia, prompting enduring scholarly debate between "intellectualist" interpretations (which view contemplation as the sole ultimate component of flourishing) and "inclusivist" interpretations (which view eudaimonia as an integrated composite of moral virtues, friendship, and practical wisdom alongside contemplation).
 
-The concept passed into Arabic in the form of "sa'ada" (happiness). Al-Farabi, in *Tahsil al-Sa'ada* (The Attainment of Happiness), made happiness the perfection of the theoretical and practical intellect, and Miskawayh (d. 1030), in *Tahdhib al-Akhlaq* (late 10th century), made happiness the aim of moral refinement, and built in it three classes of goods: goods of the soul, of the body and external goods, a direct echo of the Aristotelian division. Al-Ghazali made true happiness the knowledge of God and nearness to him, turning the end from worldly flourishing to the hereafter.
+## In the Arabic Heritage
 
-## Clinical and contemporary use
+The concept entered the Arabic philosophical tradition primarily as *sa'ada* (felicity or flourishing). Abu Nasr al-Farabi, in *Tahsil al-Sa'ada* (The Attainment of Happiness), characterized true happiness as the perfection of both theoretical and practical intellects within an ordered political community. Ahmad ibn Muhammad Miskawayh (d. 1030), in *Tahdhib al-Akhlaq* (The Refinement of Character), placed eudaimonia at the center of moral philosophy, categorizing goods into goods of the soul, goods of the body, and external goods, closely following the Aristotelian taxonomy. Later, Abu Hamid al-Ghazali (1058–1111) reinterpreted happiness in works such as *Kimiya-yi Sa'adat* (The Alchemy of Happiness) and *Ihya' 'Ulum al-Din*, shifting the ultimate aim from worldly ethical flourishing to spiritual proximity to and experiential knowledge of God in the hereafter.
 
-Positive psychology, launched by Martin Seligman in the late 1990s, recovered the term eudaimonia to distinguish "eudaimonic well-being", based on meaning, the realization of potentials and the practice of virtue, from "hedonic well-being", based on maximizing pleasure and minimizing pain. Carol Ryff (1989) formulated the model of "psychological well-being" with six dimensions: self-acceptance, positive relations, autonomy, environmental mastery, purpose in life, and personal growth. Ryan and Deci (2001) reviewed research on the two approaches; their self-determination theory, developed from the 1980s, centres on the needs for autonomy, competence and relatedness. In *Flourish* (2011) Seligman made wellbeing five elements: positive emotion, engagement, relationships, meaning and accomplishment. This distinction reuses the Aristotelian philosophical concept in psychological measurement tools, away from its original metaphysical context.
+## Clinical and Contemporary Psychological Applications
 
-## Critiques and limits
+In contemporary psychology, the distinction between hedonic and eudaimonic well-being became prominent with the emergence of positive psychology in the late 1990s:
 
-Philosophers hold that psychological scales reduce a normative concept to a subjective questionnaire, and that Aristotle held that an individual may err in assessing his own flourishing. Others point out that the findings of positive psychology are affected by the individualistic culture of the West, and that the concept of "meaning" differs among societies. The question of the relation between flourishing and virtue, and whether a wicked person can flourish, remains open before both philosophy and science.
+- **Eudaimonic vs. Hedonic Well-Being**: Hedonic approaches (associated with subjective well-being research by Ed Diener and others) define well-being through high positive affect, low negative affect, and high life satisfaction. In contrast, eudaimonic approaches emphasize meaning, personal growth, self-actualization, and vital engagement.
+- **Six-Factor Psychological Well-Being**: Carol D. Ryff (1989) operationalized eudaimonic flourishing into six distinct dimensions: self-acceptance, positive relations with others, autonomy, environmental mastery, purpose in life, and personal growth.
+- **Self-Determination Theory**: Richard M. Ryan and Edward L. Deci (2000, 2001) linked eudaimonia to the fulfillment of three basic psychological needs: autonomy, competence, and relatedness.
+- **The PERMA Model**: Martin Seligman, in *Flourish* (2011), expanded authentic well-being beyond subjective happiness into five measurable pillars: Positive Emotion, Engagement, Relationships, Meaning, and Accomplishment.
+
+## Critiques and Theoretical Limits
+
+Philosophers and critical psychologists emphasize that modern psychometric scales risk reducing an objective, normative ethical concept into self-reported subjective satisfaction. For Aristotle, an individual could be deeply mistaken about whether their life actually exhibits eudaimonia, whereas modern questionnaires measure subjective self-appraisals. Cross-cultural researchers also observe that Western positive psychology constructs often assume an individualistic framework of self-actualization that does not map cleanly onto collectivist ethical systems, where flourishing is inextricably bound to communal duty and social harmony.
 
 ## Sources
 
-- Aristotle, *Nicomachean Ethics*, translated by Terence Irwin, Hackett Publishing, 1985.
-- Martin E. P. Seligman, *Flourish*, Free Press, 2011.
-- Al-Farabi, *Tahsil al-Sa'ada* (The Attainment of Happiness).
-- Miskawayh, *Tahdhib al-Akhlaq*; English translation: The Refinement of Character, translated by Constantine Zurayk, American University of Beirut, 1968.
-- Carol D. Ryff, "Happiness Is Everything, or Is It? Explorations on the Meaning of Psychological Well-Being", Journal of Personality and Social Psychology, vol. 57, 1989.
-- Richard M. Ryan and Edward L. Deci, "On Happiness and Human Potentials: A Review of Research on Hedonic and Eudaimonic Well-Being", Annual Review of Psychology, vol. 52, 2001.
+- Aristotle, *Nicomachean Ethics*, trans. Terence Irwin, Hackett Publishing, 1999.
+- Abu Nasr al-Farabi, *Tahsil al-Sa'ada* (The Attainment of Happiness), ed. J. Al Yasin, Dar al-Andalus, Beirut, 1981.
+- Miskawayh, *The Refinement of Character* (*Tahdhib al-Akhlaq*), trans. Constantine K. Zurayk, American University of Beirut, 1968.
+- Carol D. Ryff, "Happiness Is Everything, or Is It? Explorations on the Meaning of Psychological Well-Being", *Journal of Personality and Social Psychology*, 57(6), 1989.
+- Richard M. Ryan and Edward L. Deci, "On Happiness and Human Potentials: A Review of Research on Hedonic and Eudaimonic Well-Being", *Annual Review of Psychology*, 52, 2001.
+- Martin E. P. Seligman, *Flourish: A Visionary New Understanding of Happiness and Well-being*, Free Press, 2011.

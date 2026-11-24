@@ -2,7 +2,7 @@
 slug: "fld-psychology"
 id: "PSY-30001"
 type: "مجال"
-part: psychology
+part: "psychology"
 level: "متوسط"
 title: "Psychology"
 en: "Psychology"
@@ -19,7 +19,7 @@ related:
   - id: "sch-biological-neuro", title: "Biological & Neuropsychology", type: "مدرسة"
   - id: "sch-cognitive-neuroscience", title: "Cognitive Neuroscience", type: "مدرسة"
   - id: "sch-positive-psychology", title: "Positive Psychology", type: "مدرسة"
-  - id: "sch-evolutionary-psychology", title: "Evolutionary Psychology", type: "school"
+  - id: "sch-evolutionary-psychology", title: "Evolutionary Psychology", type: "مدرسة"
   - id: "sch-cultural-psychology", title: "Cultural Psychology", type: "مدرسة"
   - id: "sch-critical-psychology", title: "Critical Psychology", type: "مدرسة"
   - id: "thk-piaget", title: "Jean Piaget", type: "مفكر"

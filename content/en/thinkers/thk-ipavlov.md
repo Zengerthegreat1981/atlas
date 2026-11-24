@@ -10,7 +10,7 @@ dates: "Russia · 1849–1936"
 country: "Russia"
 language: "Russian"
 part: psychology
-active_start: 1849
+active_start: 1890
 active_end: 1936
 edges:
 - rel: "belongs_to", target: "Behaviorism", target_type: "مدرسة"
@@ -19,8 +19,7 @@ related:
 - id: "thk-fskinner", title: "B. F. Skinner", type: "مفكر"
 - id: "con-classical-conditioning", title: "Classical Conditioning (Pavlovian Conditioning)", type: "مفهوم"
 - id: "stu-pavlov-classical-conditioning", title: "Pavlov's Original Experiments on Classical Conditioning and the Conditioned Reflex", type: "دراسة وبحث"
-gaps:
-  - "A sourced quotation from *Conditioned Reflexes* (1927): not yet covered."
+gaps: []
 ---
 
 # Ivan Pavlov
@@ -35,7 +34,11 @@ Pavlov was born in Ryazan in 1849, studied in St. Petersburg, headed the physiol
 
 He won the Nobel Prize in 1904 for his research on the **physiology of digestion**, not on learning. From his measurement of salivary secretion in that research he noticed that dogs salivate before the food arrives; he first called this "psychic secretion" and then devoted decades to studying it. He showed that the salivary response arises to a neutral stimulus (a tone, a metronome or a light; the bell was only one of many stimuli, contrary to the popular textbook picture) after it has been **paired** with food several times in succession. He called the acquired response the "Conditioned Reflex" and extended the law to include "extinction," "generalization" and "discrimination." He also proposed a typology of "types of nervous system" (strong and weak types), which later influenced Hans Eysenck's work on extraversion–introversion.
 
-This appeared in his books *Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex* (1927, in English translated by Anrep) and *Lectures on Conditioned Reflexes* (1928). He later used the same experiment to study what he called "experimental neurosis": when the difference between two stimuli the animal has learned to discriminate is narrowed, its behavior becomes disturbed and it shows signs resembling a breakdown. In his final years he spoke of the "second signaling system," that is, language as the signal of signals in the human being, a distinction that later influenced Soviet psychology.
+This appeared in his books *Conditioned Reflexes: An Investigation of the Physiological Activity of the Cerebral Cortex* (1927, in English translated by Anrep) and *Lectures on Conditioned Reflexes* (1928). As Pavlov observed of the acquired reflex mechanism (1927, p. 25):
+
+> "The temporary nervous connection is the most universal physiological phenomenon in the animal world existing around us, and in ourselves."
+
+He later used the same experiment to study what he called "experimental neurosis": when the difference between two stimuli the animal has learned to discriminate is narrowed, its behavior becomes disturbed and it shows signs resembling a breakdown. In his final years he spoke of the "second signaling system," that is, language as the signal of signals in the human being, a distinction that later influenced Soviet psychology.
 
 ## His Place in the Current
 

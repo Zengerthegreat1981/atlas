@@ -2,7 +2,7 @@
 slug: "dbt-langle-frankl"
 id: "DBT-0304"
 type: "جدل"
-part: philosophy
+part: "philosophy"
 level: ""
 title: "Längle against Frankl: The Viennese Split"
 en: "The Viennese split"
@@ -13,7 +13,7 @@ related:
   - id: "br-logotherapy", title: "Logotherapy & Existential Analysis", type: "تيار"
   - id: "thk-frankl", title: "Viktor Frankl: Will to Meaning", type: "مفكر"
   - id: "thk-langle", title: "Alfried Längle", type: "مفكر"
-gaps:[]
+gaps: []
 ---
 
 # Längle against Frankl: The Viennese Split
@@ -32,27 +32,23 @@ Längle's objection is that this question cannot be put to someone who cannot ye
 
 The four, in Längle's order, are: being able to be in the world at all (basic trust, feeling safe enough to be here); liking one's life as it is (the experience of value); finding the right to be oneself (self-respect); and meaning — the sense that what one does fits a larger context. The first three are conditions of the fourth.
 
-## What this means in practice
+## Clinical Implications and Differences in Practice
 
-With Frankl, the therapist directs the patient towards meaning from the start: faster, more directive, suited to someone who can already act and relate but has lost their bearings. With Längle, the therapist first checks the capacity to exist, the relationship to life, and the relationship to the self — meaning comes fourth. That suits trauma and severe depression, where the question of meaning would land on unprepared ground.
+In Franklian logotherapy, clinical work typically addresses the question of meaning from the outset: the therapist guides the client toward what can be accomplished, loved, or endured with dignity. This approach is more directive and actively engages the will to meaning, proving effective for individuals experiencing existential vacuum or demoralization who retain intact emotional stability and capacity for decision-making. However, if applied prematurely to patients suffering from severe trauma or major depressive episodes, direct appeals to purpose risk being experienced as an overwhelming moral demand.
 
-They also imply different tools: instruments associated with logotherapy (such as the Purpose in Life Test and Elisabeth Lukas's Logo-Test) against Längle's Existence Scale (2003), which is built on the four fundamental motivations. A trainee's choice therefore decides which instruments they learn and in which institution they are accredited — which makes the dispute determinative of a whole professional path, not merely academic.
+In Längle's existential analysis, questions of meaning are postponed until three prior conditions are addressed: basic trust and safety in the world, affective connection to the value of life, and authentic self-acceptance. This graduated progression is tailored to severe depression, anxiety, and personality disorders, though it requires longer therapeutic engagements.
 
-## Frankl's reply
+These approaches also rely on different assessment tools: classical logotherapy utilizes instruments such as the Purpose in Life Test (Crumbaugh & Maholick, 1964) and Elisabeth Lukas's Logo-Test (1986), whereas modern existential analysis uses Längle's Existence Scale (2000/2003), structured around the four fundamental motivations.
+
+## Frankl's Counter-Position
 
 Frankl's reply, as far as it can be reconstructed — there is no published text in which he answers Längle's late formulation directly; the reply is inferred from his general position — is that this returns the system to the psychology of emotion and relationship that he set out to go beyond, and robs it of what distinguishes it. If meaning must wait on emotional conditions, then meaning is no longer the primary motivation but a by-product of feeling well, and logotherapy collapses back into the schools it defined itself against. Frankl's claim was precisely that the will to meaning operates even when the emotional conditions are poor — in the camps, in suffering — and a theory that makes meaning conditional on prior well-being gives that up.
 
 The deeper philosophical argument — whether the "four conditions" extend Frankl's theory or refute its core — is left open here; this entry covers the institutional context of the separation.
 
-## Its effect today
+## Institutional Impact Today
 
-Today there are two independent institutions, and two terms that are sometimes used as synonyms when they are not: "logotherapy" and "existential analysis". Frankl himself used both terms, but after the split they marked institutional allegiance: the Viktor Frankl Institute in Vienna (founded 1992) carries Frankl's line, the GLE carries Längle's. This is a common source of confusion, since the two terms are frequently interchanged as if they named one thing.
-
-## What follows in practice
-
-If you side with Frankl, sessions begin with the direct question of meaning — what can this person accomplish, love, or choose their stance towards right now? The intervention is faster and more directive, well suited to someone who can already act and relate but has lost their compass. The risk is putting questions of meaning to someone who has not yet settled their relationship to themselves, leaving them feeling asked for a spiritual achievement while drowning in a deeper crisis.
-
-If you side with Längle, questions of meaning are postponed, and the work begins with three earlier questions: can this person be here at all (basic security)? Do they love their life as it is (basic value)? Do they find within themselves the right to be themselves (self-respect)? This suits trauma and severe depression. The risk is prolonging the preparatory work for someone already ready for the question of meaning, turning a relatively simple process into a longer path than necessary.
+Today there are two independent institutional networks, and two terms that are sometimes erroneously conflated: "logotherapy" and "existential analysis." While Frankl originally used both designations, the schism solidified distinct institutional identities: the Viktor Frankl Institute in Vienna (established in 1992) preserves Frankl's classical logotherapy, whereas the GLE (International Society for Logotherapy and Existential Analysis) represents Längle's expanded phenomenological psychotherapy.
 
 ## Sources
 

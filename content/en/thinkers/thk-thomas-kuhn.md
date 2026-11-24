@@ -21,36 +21,41 @@ gaps: []
 
 # Thomas Samuel Kuhn
 
-An American historian and philosopher of science who caused an earthquake in the understanding of the history of the sciences; author of *The Structure of Scientific Revolutions* (1962); he overturned the idea of the continuous linear accumulation of science, showing that science passes through periods of "normal science" governed by a "paradigm", until anomalies accumulate and a "scientific revolution and paradigm shift" occurs that radically changes the scientific community's view of the world.
+Thomas Samuel Kuhn (1922–1996) was an American historian and philosopher of science who fundamentally altered modern understandings of scientific development. His landmark work, *The Structure of Scientific Revolutions* (1962), challenged the classical view of science as a steady, cumulative accumulation of facts. Kuhn demonstrated that scientific disciplines develop through alternating phases of stable "normal science" organized around a shared "paradigm," punctuated by crises and "paradigm shifts" that radically reorganize a scientific community's conceptual framework.
 
-## What He Contributed
+## Key Contributions
 
-- ***The Structure of Scientific Revolutions* (1962)**: one of the most influential books of the twentieth century beyond the bounds of its own specialty. Its thesis is that science **does not advance cumulatively** by adding facts to facts, but through a cycle: **normal science → accumulation of anomalies → crisis → revolution → new normal science**.
-- **The "paradigm"**: his central concept, which has become one of the most used and misused terms. For him — after he revised it — it is two things: a **disciplinary matrix** (what a scientific community shares of theoretical commitments, values and methods), and **exemplars**: the solved problems on which the student trains, learning from them **how to see** new problems.
-- **"Normal science" as puzzle-solving**: his description opposed to the romantic picture of the scientist. Most science is neither a search for the new nor an attempt to falsify theory — but **puzzle-solving within an accepted framework**. When an anomaly occurs it is not treated as falsification but as **a problem not yet solved**; and this is his practical objection to Popper: if scientists abandoned a theory at the first discrepancy, no science would ever have arisen.
-- **"Incommensurability"**: his gravest thesis and the one that provoked the most controversy. Successive paradigms **cannot be measured by a common ruler**: the meanings of the very terms change (mass for Newton differs from mass for Einstein), the problems counted as legitimate change, and the standards of acceptable solution change. Hence the transition between paradigms is not purely **logical deduction** but more like **a change of vision** (a gestalt switch). It was understood from this that science is irrational — which Kuhn explicitly rejected and spent his last years clarifying: change for him occurs **for good reasons**, though they are not deductively decisive.
-- **The role of the scientific community**: his sociological contribution. The criterion of a theory's soundness is not abstract correspondence but **what the specialized community accepts** after deliberation — there is no court higher than the consensus of practitioners. This opened the door to **science and technology studies** and to the sociology of scientific knowledge, although Kuhn reserved judgment on much that was built upon it.
-- **Use beyond the natural sciences**: the book became a reference in the social sciences and psychology. Kuhn himself held that **psychology and the social sciences** were still in a **"pre-paradigm"** stage: competing schools that do not agree on fundamentals, with no single paradigm within which everyone works. This is an observation that is raised again in every discussion of the unity or fragmentation of psychology.
+- ***The Structure of Scientific Revolutions* (1962)**: Originally published in the *International Encyclopedia of Unified Science*, this work became one of the most widely cited academic texts of the twentieth century. Kuhn argued that mature sciences do not advance through gradual accretion, but through a recurring historical cycle: **pre-paradigm phase → normal science → accumulation of anomalies → crisis → revolution → new normal science**.
+- **The "Paradigm"**: Kuhn's central concept, which became widespread across disciplines. Responding to criticisms of the term's ambiguity, Kuhn clarified in the 1969 Postscript that a paradigm encompasses two primary meanings: a **disciplinary matrix** (the shared theoretical commitments, epistemic values, models, and symbolic generalizations of a scientific group) and **exemplars** (concrete problem-solutions that students encounter during their training, teaching them how to perceive and solve new scientific problems).
+- **"Normal Science" as Puzzle-Solving**: In contrast to heroic or falsificationist portraits of scientific discovery, Kuhn observed that most professional scientific activity consists of puzzle-solving within an unquestioned framework. When an observational anomaly arises, scientists do not treat it as an immediate falsification of the overarching theory, but as an unsolved puzzle reflecting the investigator's lack of ingenuity. This formed his critique of Karl Popper's falsificationism: if scientists abandoned core theories at the first negative experimental result, stable scientific practice would be impossible.
+- **Incommensurability**: One of Kuhn's most debated claims. Successive paradigms cannot be compared across a neutral, common observational standard because:
+  - The meanings of theoretical terms shift across paradigms (for example, "mass" in Newtonian mechanics versus relativistic mechanics).
+  - The legitimate scientific problems and standards of evaluation change.
+  - Scientific perception is theory-laden, functioning like a psychological gestalt switch.
+  Kuhn rejected the accusation that incommensurability implied scientific irrationality; he maintained that paradigm choice is rational, guided by epistemic values rather than deductive certainty.
+- **The Role of the Scientific Community**: Kuhn highlighted the social and communal dimensions of science. The validity of a paradigm is mediated by peer consensus within a specialized community, inaugurating modern sociology of scientific knowledge and science and technology studies (STS).
+- **Application to the Social and Psychological Sciences**: Kuhn suggested that psychology and the social sciences often operate in a "pre-paradigm" or multi-paradigm state, characterized by competing schools that lack consensus on foundational principles and methods.
 
-## His Place in the Current
+## Intellectual Context and Impact
 
-Kuhn was a physicist turned historian of science, and this is the origin of his thesis: his reading of Aristotle on physics convinced him that the ancients were not wrong by the standards of their time but **saw another world**. In the philosophy of science he stands directly opposite **Popper** (their debate in London in 1965 is among the best-known debates of the field), and between them **Lakatos** tried to reconcile, while **Feyerabend** went further. His importance is that he provides a tool for understanding **how psychological schools change** not by evidence alone but by a shift in what counts as a legitimate question in the first place.
+Trained in theoretical physics at Harvard, Kuhn transitioned to the history of science after reading Aristotle's physical treatises, realizing that historical theories were not primitive errors but coherent worldviews operating under distinct premises. In philosophy of science, Kuhn stood as the primary counterpoint to Karl Popper. Their historic confrontation at the 1965 International Colloquium in the Philosophy of Science at Bedford College in London stimulated major developments, including Imre Lakatos's methodology of scientific research programmes and Paul Feyerabend's epistemological anarchism.
 
-## Limits and Critique
+## Critical Reception and Debates
 
-The most prominent thing Kuhn faced was the charge of relativism and irrationalism, and Popper, Lakatos and Scheffler wrote direct criticism of the idea that the choice of paradigm resembles a religious conversion. Critics such as Margaret Masterman pointed out that the word "paradigm" was used in his book in more than twenty senses, which forced Kuhn to revise it in the 1969 "Postscript". Historians held that the sharp separation between normal and revolutionary science does not match the history of many fields, which knew competing paradigms side by side for a long time. On the other hand, his defense of the view that scientific judgment depends on shared values such as accuracy, consistency, scope, simplicity and fruitfulness, with their weights varying among scientists, remained among the things most cited in the later discussion.
+Kuhn was widely criticized by philosophers such as Karl Popper, Imre Lakatos, and Israel Scheffler, who contended that viewing paradigm conversion as akin to a religious or gestalt conversion introduced irrationalism and relativism into science. Linguist and philosopher Margaret Masterman identified twenty-one distinct senses in which Kuhn used the term "paradigm" in his 1962 edition, prompting his systematic refinement into disciplinary matrices and exemplars. Furthermore, historians noted that many sciences exhibit competing paradigms simultaneously over extended periods, challenging the strict demarcation between normal and revolutionary science. Kuhn responded by emphasizing that theory choice relies on shared epistemic values—accuracy, consistency, broad scope, simplicity, and fruitfulness—whose relative weights vary among practitioners.
 
-## Most Important Works
+## Major Works
 
-- *The Copernican Revolution* (1957).
-- *The Structure of Scientific Revolutions* (1962, and the 1970 edition with the "Postscript").
-- *The Essential Tension* (1977).
-- *The Road Since Structure* (published posthumously in 2000).
+- *The Copernican Revolution: Planetary Astronomy in the Development of Western Thought* (1957).
+- *The Structure of Scientific Revolutions* (1962; 2nd enlarged ed. with Postscript, 1970).
+- *The Essential Tension: Selected Studies in Scientific Tradition and Change* (1977).
+- *Black-Body Theory and the Quantum Discontinuity, 1894–1912* (1978).
+- *The Road Since Structure: Philosophical Essays, 1970–1993* (published posthumously in 2000).
 
 ## Sources
 
-- Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-- Bird, A. (2018). "Thomas Kuhn." *Stanford Encyclopedia of Philosophy*.
-- Fuller, S. (2000). *Thomas Kuhn: A Philosophical History for Our Times*. University of Chicago Press.
-- Lakatos, I., & Musgrave, A. (Eds.) (1970). *Criticism and the Growth of Knowledge*. Cambridge University Press.
-- Kuhn, T. S. (1977). *The Essential Tension*. University of Chicago Press.
+- Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press.
+- Kuhn, T. S. (1977). *The Essential Tension: Selected Studies in Scientific Tradition and Change*. Chicago: University of Chicago Press.
+- Lakatos, I., & Musgrave, A. (Eds.). (1970). *Criticism and the Growth of Knowledge*. Cambridge: Cambridge University Press.
+- Bird, A. (2000). *Thomas Kuhn*. Princeton: Princeton University Press.
+- Fuller, S. (2000). *Thomas Kuhn: A Philosophical History for Our Times*. Chicago: University of Chicago Press.

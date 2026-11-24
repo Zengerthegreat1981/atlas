@@ -2,18 +2,18 @@
 slug: "syn-survivor-guilt-syndrome"
 id: "SYN-0001"
 type: "متلازمة"
-part: psychology
+part: "psychology"
 level: "متوسط"
 title: "Survivor Guilt Syndrome"
 en: "Survivor Guilt Syndrome"
 crumb: "Existential Therapy ← Syndromes ← Survivor Guilt Syndrome"
 edges:
-  - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
+- rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
 related:
-  - id: "dis-ptsd", title: "Post-Traumatic Stress Disorder (PTSD)", type: "اضطراب/حالة إكلينيكية"
-  - id: "dis-prolonged-grief", title: "Prolonged Grief Disorder", type: "اضطراب/حالة إكلينيكية"
-  - id: "evt-frankl-camps", title: "Frankl's Concentration Camp Experience", type: "حدث تاريخي"
-  - id: "exp-frankl-lived-experience", title: "Frankl's First-Person Account of Meaning in the Camp", type: "خبرة معيشة"
+- id: "dis-ptsd", title: "Post-Traumatic Stress Disorder (PTSD)", type: "اضطراب/حالة إكلينيكية"
+- id: "dis-prolonged-grief", title: "Prolonged Grief Disorder", type: "اضطراب/حالة إكلينيكية"
+- id: "evt-frankl-camps", title: "Frankl's Concentration Camp Experience", type: "حدث تاريخي"
+- id: "exp-frankl-lived-experience", title: "Frankl's First-Person Account of Meaning in the Camp", type: "خبرة معيشة"
 gaps: []
 ---
 

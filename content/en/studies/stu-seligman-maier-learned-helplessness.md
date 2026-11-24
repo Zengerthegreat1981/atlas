@@ -10,43 +10,55 @@ active_start: 1967
 active_end: 1967
 study_year: 1967
 design: "Laboratory experiment (Triadic Design)"
-sample_size: ""
+sample_size: "24 dogs (8 per group in Seligman & Maier, 1967)"
 main_finding: "Dogs exposed to inescapable electric shocks later failed to learn to escape avoidable shocks, unlike the dogs in the escape-control and the control groups."
 replication_status: "replicated"
 part: "psychology"
 related:
 - id: "thk-mseligman", title: "Martin Seligman", type: "مفكر"
 - id: "con-anxiety-existential", title: "Anxiety (Cognitive and Neural)", type: "مفهوم"
-gaps:
-  - "Comparison with Aaron Beck's cognitive model of depression: not yet covered"
-  - "Number of dogs per group: not yet covered"
+gaps: []
 ---
-
-
 # Overmier, Maier and Seligman's Original Learned Helplessness Experiments with Dogs
 
-Historic laboratory experiments using the "Triadic Design" that demonstrated that dogs exposed to inescapable electric shocks gave up passively and were unable to jump over a low barrier to escape in a later test.
+Landmark experimental investigations in comparative psychology demonstrating that exposure to uncontrollable, inescapable aversive stimuli produces profound deficits in subsequent learning, motivation, and behavioral escape. First documented in Richard Solomon's laboratory at the University of Pennsylvania by J. Bruce Overmier, Steven F. Maier, and Martin E. P. Seligman, the phenomenon was termed "learned helplessness" and became a major foundation for experimental models of affective disorders.
 
-## Context and experimental design
+## Context and Experimental Design
 
-The researchers used a controlled triadic design on 3 groups of dogs: the first group (escape control) was placed in harnesses and received electric shocks that could be stopped by pressing a panel with the nose. The second group (yoked inescapable shocks) received exactly the same shocks with the same timing and intensity but without any ability to stop them. The third group (control) was placed in the harnesses without shocks. The next day, all the dogs were placed in a "shuttlebox" where jumping over a very low barrier is enough to escape the shock entirely.
+In the mid-1960s, while studying Pavlovian fear conditioning and instrumental avoidance in dogs, Overmier and Seligman observed that animals previously subjected to inescapable shocks exhibited marked difficulty acquiring an active avoidance response in a two-way shuttlebox. To rigorously isolate the psychological variable—the uncontrollability of the stimulus rather than the physical impact of the shock itself—Seligman and Maier (1967) designed the classic "Triadic Design."
 
-## Results and conclusions
+The triadic design evaluated 24 mongrel dogs assigned equally across three groups (8 dogs per group):
+1. **Escape Group (Controllable):** Dogs were placed in a Pavlovian harness and received electric shocks that could be terminated immediately if the dog pressed a panel beside its head with its snout.
+2. **Yoked Inescapable Group (Uncontrollable):** Dogs were paired directly to partners in the escape group. They received electric shocks of identical onset, duration, and intensity, but their own behavior had zero causal effect on shock termination; shocks ended only when the paired dog in Group 1 pressed its panel.
+3. **Naive Control Group:** Dogs were placed in the harness apparatus for an equivalent duration but received no electric shocks.
 
-The dogs of the first and third groups generally learned to jump the barrier quickly. By contrast, most of the dogs of the second group (inescapable shocks) failed to escape and instead sat passively and accepted the shocks (a minority did escape). The researchers concluded the phenomenon of "Learned Helplessness": the organism learned that its outcomes are entirely independent of its actions, which leads to deficits in motivation, learning and emotion.
+Twenty-four hours following this initial training phase, all dogs were tested in a two-way shuttlebox apparatus. In this test phase, a dimming light signaled an imminent shock; dogs could avoid or terminate the shock entirely by jumping over a low barrier into the opposite compartment.
 
-## Criticism and methodological controversy
+## Results and Behavioral Findings
 
-The experiment drew harsh ethical criticism for the use of shocks on animals. Decades after the original experiment, Maier's later research (see below) indicated that passivity is the default response to prolonged uncontrollable shock, involving the dorsal raphe nucleus (DRN), and that what is actually learned is control, through the ventromedial prefrontal cortex.
+The behavioral results demonstrated sharp differences across the experimental conditions:
+- **Escape Group and Naive Controls:** Animals in both Groups 1 and 3 rapidly learned the instrumental contingency. When the warning signal appeared, they promptly leaped across the barrier to escape or avoid the electrical shock.
+- **Yoked Inescapable Group:** Six of the eight dogs in Group 2 showed marked behavioral deficits. Initially, they ran around distressfully for a brief period; however, within tens of seconds, they ceased active attempts, lay down on the electrified grid floor, and passively whimpered, enduring repeated severe shocks. Furthermore, even on rare occasions when an animal accidentally crossed the barrier, it typically failed to learn from the successful outcome on subsequent trials.
 
-## The later neural reformulation
-About fifty years after the original experiment, Steven Maier and Martin Seligman himself reformulated the model in a fundamental way (2016): instead of assuming that "helplessness" is what is learned, they proposed that helplessness and passive submission is the organism's default neurobiological response to uncontrollable shock, through activation of the dorsal raphe nucleus in the brainstem (DRN), a region rich in serotonin neurons. "Control," by contrast, is what is actually learned, through the ventromedial prefrontal cortex, which comes to inhibit the default response when the organism discovers that its actions affect outcomes. This reversal suggests that resilience reflects active learning of control and not merely the absence of helplessness.
+The authors concluded that the animals had acquired a cognitive expectation that outcomes were independent of their voluntary behavior, resulting in three distinct deficits: motivational (failure to initiate responses), cognitive (inability to perceive the contingency when responses succeeded), and emotional (severe passive distress).
 
-## Impact and clinical application
-The learned helplessness model influenced psychological theories of depression, notably Abramson, Seligman and Teasdale's 1978 reformulation for humans through the concept of attributional (explanatory) style, which linked laboratory animal research to human depression. It also informed cognitive-behavioral approaches that aim to counter perceived uncontrollability.
+## Comparison with Beck's Cognitive Model of Depression
+
+The learned helplessness paradigm served as a foundational laboratory analogue for human clinical depression. In 1978, Lyn Abramson, Seligman, and John Teasdale reformulated the human model using attribution theory, proposing that depression develops when individuals attribute uncontrollable negative events to internal ("it's my fault"), stable ("it will never change"), and global ("it ruins everything") causes.
+
+This reformulated framework shares deep thematic parallels with Aaron T. Beck's cognitive model of depression, but approaches depressive cognition from a distinct angle:
+- **Beck's Model:** Postulates that latent, maladaptive cognitive schemas (formed early in development) are activated by life stressors, giving rise to negative automatic thoughts organized around the "negative cognitive triad" (distorted, negative appraisals of the self, the world/experiences, and the future). Beck emphasizes pervasive informational and cognitive distortions (e.g., catastrophizing, selective abstraction, overgeneralization).
+- **Learned Helplessness Model:** Focuses specifically on the causal attribution of perceived uncontrollability and non-contingency between actions and outcomes. Depression arises when an individual perceives an objective or subjective loss of control and explains that loss in internal, stable, and global terms.
+
+Both frameworks converged in cognitive behavioral therapy (CBT), where interventions aim to dismantle maladaptive explanatory styles, challenge negative automatic thoughts, and restore behavioral mastery through behavioral activation and mastery tasks.
+
+## The Neural Reformulation
+
+Fifty years after the original experiments, Maier and Seligman (2016) updated the neurobiological architecture of helplessness. Animal neuroscience demonstrated that passivity following severe shock is not actively "learned"; rather, it is the mammalian brain's unlearned, default reaction to stress, mediated by intense activation of serotonergic neurons in the dorsal raphe nucleus (DRN). What organisms actually learn is *control*: detection of contingency by the ventromedial and prelimbic prefrontal cortex (vmPFC/PL) activates descending inhibitory projections to the DRN, thereby suppressing the passive stress response and generating behavioral resilience.
 
 ## Sources
-- Overmier, J. B. & Seligman, M. E. P., "Effects of Inescapable Shock upon Subsequent Escape and Avoidance Responding", Journal of Comparative and Physiological Psychology, 1967.
-- Seligman, M. E. P. & Maier, S. F., "Failure to Escape Traumatic Shock", Journal of Experimental Psychology, 1967.
-- Abramson, L. Y., Seligman, M. E. P. & Teasdale, J. D., "Learned Helplessness in Humans: Critique and Reformulation", Journal of Abnormal Psychology, 1978.
-- Maier, S. F. & Seligman, M. E. P., "Learned Helplessness at Fifty: Insights from Neuroscience", Psychological Review, 2016.
+
+- Overmier, J. B., & Seligman, M. E. P. (1967). Effects of inescapable shock upon subsequent escape and avoidance responding. *Journal of Comparative and Physiological Psychology*, 63(1), 28–33.
+- Seligman, M. E. P., & Maier, S. F. (1967). Failure to escape traumatic shock. *Journal of Experimental Psychology*, 74(1), 1–9.
+- Abramson, L. Y., Seligman, M. E. P., & Teasdale, J. D. (1978). Learned helplessness in humans: Critique and reformulation. *Journal of Abnormal Psychology*, 87(1), 49–74.
+- Maier, S. F., & Seligman, M. E. P. (2016). Learned helplessness at fifty: Insights from neuroscience. *Psychological Review*, 123(4), 349–367.

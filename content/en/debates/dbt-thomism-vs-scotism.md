@@ -2,7 +2,7 @@
 slug: "dbt-thomism-vs-scotism"
 id: "DBT-0352"
 type: "جدل"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Thomism versus Scotism: Intellect or Will?"
 en: "Thomism vs. Scotism: Intellect vs. Will"

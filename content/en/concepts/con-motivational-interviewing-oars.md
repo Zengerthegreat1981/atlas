@@ -19,69 +19,75 @@ gaps: []
 ---
 # The OARS Technique in Motivational Interviewing
 
-The four core tools of Motivational Interviewing, developed by Miller and Rollnick (first described in 1991, with revised editions in 2002 and 2013): open questions, affirmations, reflective listening, and summaries. OARS are procedural tools that operate within the broader technique of motivational interviewing (MI), and it makes no sense to use them in isolation from the spirit of motivational interviewing (MI Spirit), which frames the therapist's collaborative inner stance toward the client.
+The four core communication skills of Motivational Interviewing (MI), developed by William R. Miller and Stephen Rollnick (first described in 1991, with revised editions in 2002, 2013, and 2023): open questions, affirmations, reflective listening, and summaries. OARS represents the procedural core of MI, but these skills function effectively only when grounded in the underlying "MI Spirit"—the clinician's collaborative, person-centered stance defined by Partnership, Acceptance, Compassion, and Evocation (often abbreviated as PACE).
 
-## The four tools
+## The Four Tools
 
 ### 1. Open Questions
-- Questions that cannot be answered with "yes/no."
-- They invite the client to think and reflect.
-- Examples: "What worries you about...?" "How do you hope your life will be after...?"
-- **Versus closed questions**: "Do you drink alcohol?" is closed and less effective.
+- Questions that cannot be answered with a simple "yes" or "no" or a brief factual answer.
+- They invite the client to reflect, elaborate, and explore their personal perspectives and motivations.
+- Examples: "What worries you most about...?" "How would you like your life to look five years from now?"
+- **Contrast with closed questions**: "Do you take your medication regularly?" tends to elicit brief compliance or defensiveness, whereas "What has made it difficult to take your medication as planned?" invites exploration.
 
 ### 2. Affirmations
-- Positive acknowledgment of strengths and efforts.
-- Not exaggeration (which can sound insincere) but realistic appreciation.
-- Examples: "You are a strong-willed person." "That is a real effort in dealing with this situation."
+- Explicit acknowledgments of the client's strengths, efforts, intentions, and past successes.
+- Focuses on genuine, realistic recognition rather than empty praise or patronizing compliments.
+- Examples: "You showed considerable determination by coming today despite feeling exhausted." "It took real courage to handle that confrontation without returning to old habits."
+- Affirmations help build therapeutic rapport, support self-efficacy, and reduce defensiveness.
 
 ### 3. Reflective Listening
-- **A central tool**: repeating what the client said in the therapist's words (paraphrase) or as a question.
-- Two types:
-  - **Simple reflection**: rephrasing without adding meaning.
-  - **Complex reflection**: adding meaning or interpretation.
+- **The central skill in MI**: formulating a statement that reflects the client's underlying meaning, feeling, or dilemma, derived from Carl Rogers's person-centered therapy.
+- Reflective listening is delivered as a declarative statement rather than an inquisitive question, encouraging further exploration.
+- Clinicians distinguish between two primary levels:
+  - **Simple reflection**: restating or paraphrasing content without adding new meaning, demonstrating that the client has been heard.
+  - **Complex reflection**: reflecting unspoken emotions, underlying ambivalence, or deeper meaning.
 - **Example**:
-  - Client: "I don't know how to stop drinking."
-  - Therapist (simple reflection): "You don't know how to stop."
-  - Therapist (complex reflection): "You feel helpless about drinking."
+  - Client: "I know my drinking has caused problems at home, but having a few beers is the only way I can unwind after work."
+  - Clinician (simple reflection): "Drinking feels like your primary way to relax."
+  - Clinician (complex reflection): "You value harmony at home, but you are also worried about how you would cope with stress without alcohol."
 
 ### 4. Summaries
-- Gathering several of the client's statements on one topic.
-- They link scattered points.
-- They give the client a chance to correct.
-- **Example**: "So, what I understood is... [summary]. Is that accurate?"
+- Structured reflections that pull together several statements made by the client across a conversation.
+- Summaries help link scattered points, highlight ambivalence, demonstrate sustained listening, and transition between therapeutic tasks.
+- Clinicians use three main types:
+  - *Collecting summaries*: brief reviews during an exchange to organize thoughts.
+  - *Linking summaries*: connecting present statements to material discussed earlier (e.g., tying current distress to personal values).
+  - *Transitional summaries*: synthesizing the discussion before shifting focus to a new topic or planning.
+- Typically concluded with a check: "Is that an accurate picture, or did I miss something important?"
 
-## The basic principles of motivational interviewing
+## Evolution of MI Principles and Processes
 
-- **Express empathy**: understanding the client's perspective without judgment.
-- **Develop discrepancy**: between the client's goals and current behavior.
-- **Roll with resistance**: no arguing, but reframing.
-- **Support self-efficacy**: strengthening the client's confidence in his or her ability to change.
+In earlier formulations (Miller & Rollnick, 1991, 2002), MI was described through four general principles:
+- **Express empathy**: understanding the client's internal frame of reference without judgment.
+- **Develop discrepancy**: helping clients perceive the gap between their core values/goals and their current behavior.
+- **Roll with resistance**: avoiding confrontation and reframing reluctance collaboratively.
+- **Support self-efficacy**: fostering belief in the possibility of change.
 
-## Applying OARS
+In the third (2013) and fourth (2023) editions, Miller and Rollnick reorganized MI around **four sequential and overlapping processes**:
+1. **Engaging**: establishing a trusting, collaborative working relationship using OARS.
+2. **Focusing**: identifying and maintaining a specific direction or behavioral goal for change.
+3. **Evoking**: eliciting the client's own motivations, values, and "change talk" (arguments for change) while skillfully responding to "sustain talk" (arguments for the status quo) and relationship discord, which replaced the earlier concept of "resistance."
+4. **Planning**: formulating an actionable change plan once commitment and readiness emerge.
 
-- **Process 1, Engaging**: building the relationship, with OARS as the foundation of the dialogue.
-- **Process 2, Focusing**: defining the goal, with directed open questions.
-- **Process 3, Evoking**: drawing out "change talk" from the client.
-- **Process 4, Planning**: making a plan, summarizing the decisions.
+## Research Evidence
 
-## Research
+- **Lundahl et al. (2010)**: a meta-analysis of 119 empirical studies found that MI produced statistically significant, small-to-moderate effects across a wide range of target outcomes, including alcohol, tobacco, and illicit drug use, as well as treatment adherence and medical outcomes.
+- **Rubak et al. (2005)**: a systematic review and meta-analysis of randomized controlled trials demonstrated that MI had significant positive effects on health-related lifestyle behaviors, blood pressure, and cholesterol, outperforming standard advice-giving in roughly 75% of included trials.
+- **Cross-cultural considerations**: while the majority of trials have been conducted in Western clinical settings, adapted MI interventions have shown promise across diverse cultural groups, though culturally tailored adaptations remain an area of ongoing investigation.
 
-- **Lundahl et al. (2010)**: a meta-analysis of 119 studies found that MI produced small to moderate benefits across a range of problem areas, including substance use, with effects that varied by setting and comparison condition.
-- **Rubak et al. (2005)**: a systematic review and meta-analysis of randomized trials found that MI delivered in health-care settings was effective for several outcomes, such as body mass index and blood pressure, with mixed results for others.
-- Most research has been conducted in Western settings; effectiveness across cultures is less well studied.
+## Clinical Applications
 
-## Applications
-
-- **Addiction**: alcohol, drugs, gambling.
-- **Treatment adherence**: increasing medication adherence.
-- **Health behavior change**: diet, exercise.
-- **Diabetes, hypertension**: lifestyle change.
-- **Mental health**: increasing motivation for treatment.
+- **Substance use disorders**: alcohol, nicotine, cannabis, and opioid use reduction.
+- **Treatment adherence**: improving compliance with chronic psychiatric and medical pharmacotherapy.
+- **Chronic disease management**: lifestyle modifications for diabetes, hypertension, and cardiovascular disease.
+- **Health behavior change**: nutritional improvements, physical activity, and sleep hygiene.
+- **Dual diagnosis and psychotherapy readiness**: addressing motivational ambivalence in depression, anxiety, and eating disorders.
 
 ## Sources
 
 - Miller, W. R., & Rollnick, S. (1991). *Motivational Interviewing: Preparing People to Change Addictive Behavior*. Guilford Press.
 - Miller, W. R., & Rollnick, S. (2013). *Motivational Interviewing: Helping People Change* (3rd ed.). Guilford Press.
-- Rollnick, S., Miller, W. R., & Butler, C. C. (2008). *Motivational Interviewing in Health Care*. Guilford Press.
+- Miller, W. R., & Rollnick, S. (2023). *Motivational Interviewing: Helping People Change and Grow* (4th ed.). Guilford Press.
+- Rollnick, S., Miller, W. R., & Butler, C. C. (2008). *Motivational Interviewing in Health Care: Helping Patients Change Behavior*. Guilford Press.
 - Lundahl, B. W., Kunz, C., Brownell, C., Tollefson, D., & Burke, B. L. (2010). A meta-analysis of motivational interviewing: Twenty-five years of empirical studies. *Research on Social Work Practice*, 20(2), 137-160.
 - Rubak, S., Sandbaek, A., Lauritzen, T., & Christensen, B. (2005). Motivational interviewing: A systematic review and meta-analysis. *British Journal of General Practice*, 55(513), 305-312.

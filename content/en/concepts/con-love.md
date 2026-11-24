@@ -14,35 +14,41 @@ related:
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
   - id: "thk-buber", title: "Buber", type: "مفكر"
   - id: "thk-beauvoir", title: "de Beauvoir", type: "مفكرة"
+gaps: []
 ---
 # Love
 
-Love in existential thought is not sentimentality or possession but the paradox of recognition: the capacity to encounter another person as fully real, separate, and other, while simultaneously participating in authentic relationship. Buber's "I-Thou" dialogue captures the existential essence: love is the confirmation of the other's subjectivity across the irreducible distance between two consciousnesses.
+In existential philosophy and psychodynamic thought, love is conceptualized not as passive emotional sentimentality or possessive attachment, but as a deliberate ethical and psychological act: the capacity to encounter another human being in their complete, autonomous otherness while establishing an authentic relationship. Existential theorists strip love of romantic idealizations, framing it instead as the ongoing resolution of a fundamental paradox: how to love deeply without compromising the freedom and distinct subjectivity of either partner.
 
-## Love as Existential Act
+## Love as Dialogue and the Encounter with Otherness
 
-Existential philosophy refuses romantic illusions about love while insisting on its existential weight. Love is not fusion or the dissolution of boundaries into merger (which would annihilate otherness). It is not possession or the reduction of the beloved to an object of control or fantasy. Rather, love is the continuous choice to affirm the other's freedom, to resist the temptation to instrumentalize them, and to remain vulnerable to their otherness.
+Martin Buber formulated the philosophical foundation of existential encounter in *I and Thou* (1923). Buber distinguished between two fundamental modes of human relating:
+- **I-It (*Ich-Es*)**: An instrumental, utilitarian relation where the other is treated as an object, a category, or an instrument of satisfaction.
+- **I-Thou (*Ich-Du*)**: A mutual, reciprocal relation in which two subjects encounter each other in their entirety across the irreducible distance between two consciousnesses.
 
-Simone de Beauvoir's analysis of romantic love highlights a recurrent pattern: women especially are socialized to dissolve their subjectivity into the beloved, to live through him, to find meaning in meeting his needs. This is not love but a form of inauthenticity—a failure to sustain one's own projects, freedom, and sense of self. Authentic love, by contrast, occurs between two subjects who maintain their independence and who love each other not out of neediness or duty but out of a fundamental choice to care for the other's flourishing.
+For Buber, love does not cling to the ego; rather, love occurs *between* beings. Genuine love is the affirmation of the other's subjectivity. In clinical and existential psychotherapy, Rollo May echoed this in *Love and Will* (1969), defining love as the delightful affirmation of the existence of the other, requiring an active commitment of will rather than passive surrender to feeling. May identified four distinct forms of love: *sex* (biological drive), *eros* (the creative drive to unite and procreate), *philia* (brotherly friendship), and *agape* (unconditional, selfless care).
 
-## Love and Freedom
+## Authentic Love versus Inauthentic Fusion
 
-The existential paradox of love is that it requires freedom to be meaningful. Love that is compelled, obligatory, or performed out of social duty is not love in the existential sense. Yet paradoxically, the recognition of the other's radical freedom—the awareness that they could leave, could betray, could always choose differently—is intrinsic to authentic love. Love without risk is not love.
+A central tenet of existential psychology is that authentic love cannot exist without freedom and boundary integrity:
+- **Simone de Beauvoir's Critique**: In *The Second Sex* (1949), de Beauvoir provided a devastating analysis of the socialized pathology of romantic love (*l'amoureuse*). Under patriarchal socialization, women are conditioned to abandon their own existential projects and dissolve their autonomy into the male beloved, seeking meaning through his achievements. De Beauvoir condemned this symbiotic merger as bad faith (*mauvaise foi*). In contrast, authentic love must be founded upon mutual recognition of two independent freedoms, each supporting the other's autonomous flourishing.
+- **Erich Fromm's Mature Love**: In *The Art of Loving* (1956), Fromm differentiated mature love from infantile, symbiotic unions. Immature love operates on the principle: "I love you because I need you." Mature love operates on the principle: "I need you because I love you." For Fromm, mature love is an active power of the soul consisting of four basic elements: care, responsibility, respect, and knowledge. Respect (*respicere*, to look at) means perceiving the other as they are, allowing them to grow according to their own nature without exploitation.
 
-This creates a distinctive therapeutic posture: the existential therapist does not aim to preserve relationships at any cost but to help clients examine whether their relationships are grounded in authentic choice or in anxiety, habit, or the avoidance of freedom. Many people remain in relationships not because they love but because leaving would force them to confront their solitude and responsibility. This is not love; it is avoidance.
+## Love, Isolation, and Existential Practice
 
-## Love and Otherness
+In *Existential Psychotherapy* (1980), Irvin Yalom situated love within the confrontation with **existential isolation**. Human beings confront an unbridgeable gulf between individual consciousness and the world. When terrorized by this isolation, individuals frequently enter defensive, counterfeit relationships:
+- **Fusion and Enmeshment**: Attempting to obliterate separateness by dissolving boundaries.
+- **Instrumental Clinging**: Using the partner as a shield against loneliness or mortality.
 
-Existential writers, including May, emphasize that genuine love involves the capacity to tolerate the permanent strangeness of the other. The beloved is never fully knowable, never entirely within our control, never a perfect mirror of our desires. This opacity, far from being a tragedy, is essential to love. The moment we believe we have completely understood and captured the beloved, we have stopped loving them and begun relating to our fantasy of them.
-
-In clinical work, the distinction between love and its counterfeits becomes therapeutically crucial. Jealous possessiveness is mistaken for love. Caretaking of a dependent other is mistaken for love. The desire to be chosen is mistaken for love. True love, by existential standards, is the capacity to want the other's good even when it is not convenient for us, to remain committed to them as a subject and not an object, and to accept that loving another is a choice we must remake daily.
+Yalom emphasizes that authentic love is possible only when an individual has learned to confront and tolerate their own fundamental solitude. Two whole individuals can meet and enrich one another; two needy fragments fused together merely generate mutual constriction. In existential therapy, practitioners assist clients in identifying whether their relationships are grounded in mature choice and mutual care or in panic, dependence, and the avoidance of personal responsibility.
 
 ## Sources
 
-1. Buber, M. (1970). *I and Thou*. (W. Kaufmann, Trans.). Charles Scribner's Sons.
-2. de Beauvoir, S. (1949). *Le Deuxième Sexe*. Gallimard. (English: *The Second Sex*, trans. H. M. Parshley, 1953.)
-3. May, R. (1969). *Love and Will*. W. W. Norton & Company.
-4. Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
+- Buber, M. (1970). *I and Thou*. Trans. W. Kaufmann. Charles Scribner's Sons.
+- de Beauvoir, S. (1953). *The Second Sex*. Trans. H. M. Parshley. Alfred A. Knopf.
+- Fromm, E. (1956). *The Art of Loving*. Harper & Row.
+- May, R. (1969). *Love and Will*. W. W. Norton & Company.
+- Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 
 ## Related Concepts
 

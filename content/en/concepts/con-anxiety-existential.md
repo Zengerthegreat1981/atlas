@@ -12,56 +12,80 @@ edges:
 related:
   - id: "con-anxiety", title: "Anxiety", type: "مفهوم"
   - id: "con-fear", title: "Fear", type: "مفهوم"
-gaps:
-  - "Classical Islamic-tradition sources on this concept: not yet covered."
+gaps: []
 ---
 
 # Anxiety: Existential, Psychological and Neuroscientific Accounts
 
-Anxiety is the emotional experience of facing a threat that is uncertain, existential, and without a fixed time — a threat that may or may not arrive, and whose shape cannot yet be known. It differs from fear, which fastens on a concrete and immediate danger: a predator, a fall, an attacker. Fear has an object and a timetable; anxiety has neither. This entry treats anxiety from two converging angles — the cognitive account developed by appraisal theory, and the existential account developed by Kierkegaard, Heidegger, Tillich, and Rollo May — with the neuroscience of threat systems as a third strand.
+Anxiety is the emotional experience of facing a threat that is uncertain, existential, and temporally diffuse—a threat that may or may not materialize, and whose precise parameters remain unknown. It differs fundamentally from fear, which attaches to an immediate, identifiable, and concrete danger (such as a predator, an imminent collision, or an overt physical assault). Fear has an identifiable object and a definite timetable; anxiety has neither. This entry examines anxiety from four converging perspectives: appraisal theory in cognitive psychology, the philosophical lineage of existentialism (Kierkegaard, Heidegger, Tillich, May), classical Islamic philosophical psychology (Al-Balkhi, Ibn Hazm), and the affective neuroscience of threat processing.
 
 ## The Cognitive Definition: Uncertain Existential Threat
 
-In Richard Lazarus's appraisal theory, anxiety is the emotion that follows the appraisal of facing an uncertain, existential threat. Where fear confronts a concrete and imminent physical danger, anxiety confronts a threat whose nature, timing, and outcome are all unclear. A person who sees a car swerving toward them feels fear; a person who waits for the results of a medical test, unsure whether their life is about to change, feels anxiety.
+In Richard Lazarus's cognitive-motivational-relational theory of emotion, anxiety is elicited by the primary appraisal of facing an uncertain, existential threat. Where fear arises when physical danger is imminent and survival is immediately at stake, anxiety confronts ambiguous risks to personal identity, social standing, or physical integrity whose timing and trajectory cannot be predicted. For example, a driver reflexively braking to avoid an oncoming vehicle experiences acute fear; an individual awaiting biopsy results, uncertain whether life will irrevocably change, experiences anxiety.
 
-This vagueness is what makes anxiety so hard to resolve. Fear ends when the danger passes or the person escapes; anxiety persists because there is nothing to escape from and no moment at which safety can be declared. The anxious person scans for threats that cannot be located and rehearses futures that cannot be predicted. That combination — high arousal, no object — is the signature of anxiety.
+This ambiguity explains why anxiety is notoriously resistant to rapid behavioral resolution. Fear naturally subsides once the threat is escaped or neutralized. Anxiety persists because the individual cannot flee an unspecified future; the threat system remains chronically activated, scanning an environment devoid of concrete targets and generating anticipatory catastrophic scenarios.
 
 ## Kierkegaard: The Dizziness of Freedom
 
-The philosophical distinction between anxiety and fear originates with Søren Kierkegaard's *The Concept of Anxiety* (1844). Kierkegaard described anxiety (*Angest*) as the "dizziness of freedom": the vertigo a person feels when standing before infinite possibilities, aware that they must choose and that no choice can be undone. Fear always has a definite object; anxiety, Kierkegaard argued, has as its object nothingness itself — the openness of a future that is not yet decided.
+The foundational philosophical distinction between fear and anxiety was articulated by Søren Kierkegaard in *The Concept of Anxiety* (1844). Kierkegaard defined anxiety (*Angest*) as the "dizziness of freedom" (*Frihedens Svimlen*): the profound psychological vertigo experienced when an individual stands before open possibilities, realizing that choice is inescapable and that self-determination carries irreversible responsibility.
 
-Kierkegaard's account made anxiety the central emotion of the existential tradition. It is the feeling that accompanies the recognition that one is responsible for one's own life, that the self is not given but must be made, and that every choice closes off other lives that might have been lived.
+For Kierkegaard, fear fixates on an external object, whereas anxiety is directed toward "nothingness" (*Intet*)—the indeterminate openness of the future. Anxiety is not viewed as a psychological defect but as the ontological precondition of human spiritual awakening and genuine moral agency.
 
 ## Heidegger: Anxiety and Nothingness
 
-Martin Heidegger developed Kierkegaard's insight into an ontology in *Being and Time* (1927). For Heidegger, anxiety (*Angst*) is not one mood among others but the fundamental mood — the state of mind that discloses the truth of human existence. In everyday life, people are absorbed in their tasks, their roles, and their familiar world, and the question of what it all means never arises. Anxiety breaks that absorption: the familiar world slips away and becomes strange, things lose their taken-for-granted meaning, and the person is left facing their own being as pure possibility, stretched between birth and death.
+Martin Heidegger elevated Kierkegaard's psychological insight into an ontology in *Being and Time* (1927). For Heidegger, anxiety (*Angst*) is not merely one affective state among others, but the fundamental mood (*Grundbefindlichkeit*) that discloses the ontological nature of human existence (*Dasein*).
 
-Heidegger's famous formulation is that anxiety reveals nothingness: not an empty void but the groundlessness of existence itself. The anxious person discovers that there is no final support beneath their life that could relieve them of the task of existing. This is why anxiety, for Heidegger, is revelatory rather than merely distressing: it shows human beings what they are, beings who must project themselves into a future they cannot control.
+In daily life, individuals remain absorbed in habitual social roles and practical concerns (*das Man*), obscuring the contingent nature of existence. Anxiety shatters this everyday familiarity: the world slips away, culturally assigned meanings collapse, and the individual is confronted with pure groundlessness (*Unheimlichkeit*)—realizing that human existence is thrown into a world without external guarantees and stretched inexorably toward death (*Sein-zum-Tode*). For Heidegger, anxiety discloses the authentic reality of human finitude.
 
 ## Tillich and May: Anxiety in Psychotherapy
 
-Paul Tillich carried the existential analysis of anxiety into theology and psychotherapy in *The Courage to Be* (1952). Tillich distinguished three types of existential anxiety: the anxiety of fate and death, the anxiety of emptiness and meaninglessness, and the anxiety of guilt and condemnation. Against these he set the "courage to be" — not the absence of anxiety but the capacity to affirm one's existence in spite of it.
+Paul Tillich brought existential analysis into dialogue with theology and depth psychology in *The Courage to Be* (1952). Tillich classified existential anxiety into three distinct categories:
+1. **The anxiety of fate and death**: Confronting biological finitude and uncontrollable contingencies.
+2. **The anxiety of emptiness and meaninglessness**: Confronting the loss of an ultimate concern or purpose.
+3. **The anxiety of guilt and condemnation**: Confronting moral failure and responsibility for one's actions.
 
-Rollo May brought the same tradition into American psychotherapy in *The Meaning of Anxiety* (1950), arguing that anxiety is an inevitable and even valuable part of human growth. May distinguished normal anxiety, which is proportionate to the threat and can be faced and used creatively, from neurotic anxiety, which is disproportionate, repressed, and paralysing. His central claim was that the attempt to eliminate anxiety entirely — through conformity, distraction, or denial — produces more pathology than the anxiety itself.
+Against these anxieties, Tillich posited "the courage to be"—the capacity to affirm one's existence and meaning in spite of the reality of non-being.
 
-## The Neuroscience of Anxiety
+Rollo May introduced this perspective to American psychotherapy in *The Meaning of Anxiety* (1950). May drew a critical clinical boundary between:
+- **Normal anxiety**: Proportionate to the objective threat, conscious, manageable, and constructive for developmental growth and creativity.
+- **Neurotic anxiety**: Disproportionate to the actual threat, repressed, destructive, and accompanied by rigid psychological defenses and somatic constriction.
 
-The cognitive and existential accounts converge with a third line of evidence from affective neuroscience. Jaak Panksepp's classification of the brain's primary emotional systems, set out in *Affective Neuroscience* (1998), contains no separate system named "anxiety." Accounts differ on how anxiety relates to these systems, but it is commonly understood as being closely tied to the FEAR system — a state of heightened vigilance in the absence of a definite object. This is broadly consistent with the cognitive account: anxiety is what the threat system does when it cannot find its target. Joseph LeDoux, in *The Emotional Brain* (1996), traced the neural pathways of fear and anxiety through the amygdala, showing how the brain can generate threat responses before conscious awareness.
+May warned that modern attempts to chemically or culturally suppress all anxiety risk eliminating the very tension necessary for psychological maturity.
 
-## Anxiety, Fear, and Clinical Disorder: The Boundary
+## Classical Islamic Psychological and Philosophical Perspectives
 
-Where does anxiety as a normal human experience end and anxiety as a clinical disorder begin? This entry describes the boundary but offers no diagnostic guidance; only a qualified clinician can assess whether anxiety is a disorder. The markers used in the literature are proportionality, persistence, and impairment. Normal anxiety is proportionate to a real uncertainty, time-limited, and compatible with functioning. An anxiety disorder, by contrast, involves worry that is excessive relative to the threat, persistent across months, and impairing — interfering with work, relationships, and sleep.
+Centuries before European existentialism, classical Islamic scholars investigated anxiety (*al-hamm*, *al-ghamm*, *al-qalaq*) as both a somatic-cognitive state and an existential condition of human life:
+- **Abu Zayd al-Balkhi** (850–934 CE): In *Masalih al-Abdan wa al-Anfus* (Sustenance for Body and Soul), Al-Balkhi established an early cognitive framework for psychological hygiene. He differentiated bodily diseases from psychic disorders (*amrad nafsaniyya*), identifying fear, sadness, and internal obsessive apprehensions (*waswas*). Al-Balkhi prescribed internal cognitive self-dialogue (*al-tib al-ruhani*) and reality-testing strategies to de-escalate catastrophic anticipatory anxiety.
+- **Ibn Hazm al-Andalusi** (994–1064 CE): In *Al-Akhlaq wa al-Siyar fi Mudawat al-Nufus* (Morals and Conduct in the Healing of Souls), Ibn Hazm argued that the universal common denominator behind all human striving, labor, and desire is the urge to repel anxiety (*daf' al-hamm*). He observed that whether individuals pursue wealth, fame, knowledge, or pleasure, their underlying motivation is to escape restlessness and dread. Ibn Hazm concluded that worldly pursuits merely substitute one form of anxiety for another, and that enduring relief can only be attained through dedication to transcendent, enduring values.
+- **Abu Bakr al-Razi** (Rhazes, 865–925 CE) and **Al-Kindi** (c. 801–873 CE): In works on the dispelling of sorrow (*hila li-daf' al-ahzan*), these philosophers analyzed the fear of death as the ultimate root of existential dread, arguing that mortal anxiety stems from irrational cognitive assumptions regarding nothingness and the loss of impermanent worldly possessions.
+
+## The Affective Neuroscience of Anxiety
+
+Affective neuroscience demonstrates that the brain possesses specialized subcortical circuitry for processing environmental threats. While Jaak Panksepp's affective taxonomy (*Affective Neuroscience*, 1998) outlines a distinct subcortical FEAR circuit centered on the amygdala, periaqueductal gray (PAG), and hypothalamus, anxiety reflects a higher-order, sustained activation of the threat system in the absence of an immediate predatory stimulus.
+
+Joseph LeDoux, in *The Emotional Brain* (1996) and *Anxious* (2015), distinguished the subcortical defensive survival circuits (which trigger physiological survival responses such as heart rate deceleration/acceleration, freezing, and endocrine release) from the conscious, cortical experience of anxiety. According to LeDoux, human anxiety emerges when cortical working memory networks monitor and interpret non-conscious threat signals and bodily arousal, constructing the subjective conscious feeling of imminent peril.
+
+## Anxiety, Fear, and Clinical Disorder: The Diagnostic Boundary
+
+Where does normal existential or psychological anxiety end and clinical disorder begin? Clinical taxonomies (such as DSM-5-TR and ICD-11) rely on empirical criteria rather than metaphysical distinctions:
+- **Proportionality**: Anxiety is disordered when the intensity and scope of worry substantially exceed the objective danger or reality of the stressor.
+- **Chronicity and Persistence**: Normal anxiety is transient and context-bound; generalized anxiety disorder (GAD) requires persistent, pervasive anxiety lasting at least six months.
+- **Functional Impairment**: Pathological anxiety causes significant distress and clinically measurable impairment in occupational, academic, social, or physiological functioning (e.g., panic attacks, chronic insomnia, debilitating phobic avoidance).
+
+While existential and cognitive therapies value normal anxiety as a signal for authentic self-examination, severe anxiety disorders warrant evidence-based psychological treatment (such as cognitive-behavioral therapy) and medical evaluation.
 
 ## Scope and Relation to Neighbouring Entries
 
-This entry surveys the wider scholarship on anxiety, from Kierkegaard and Heidegger to neuroscience and the clinical boundary. For how the existentialist school itself frames and disputes the concept, see the companion entry.
+This entry provides an interdisciplinary survey across cognitive psychology, philosophy, classical Islamic ethics, and neuroscience. For a dedicated examination of how existential psychotherapy specifically conceptualizes and works with anxiety within the clinical session, see [[con-anxiety]].
 
 ## Sources
 
-- Kierkegaard, S. (1844). *The Concept of Anxiety*. Copenhagen.
-- Heidegger, M. (1927). *Being and Time*. Max Niemeyer.
-- May, R. (1950). *The Meaning of Anxiety*. Ronald Press.
+- Al-Balkhi, A. Z. (2013). *Sustenance for Body and Soul: Masalih al-Abdan wa al-Anfus* (M. Badri, Trans.). International Institute of Islamic Thought.
+- Ibn Hazm, A. (1990). *Al-Akhlaq wa al-Siyar fi Mudawat al-Nufus* [Morals and Conduct: On the Healing of Souls]. Dar al-Afaq al-Jadidah.
+- Kierkegaard, S. (1844). *The Concept of Anxiety* (R. Thomte, Trans., 1980). Princeton University Press.
+- Heidegger, M. (1927). *Being and Time* (J. Macquarrie & E. Robinson, Trans., 1962). Harper & Row.
 - Tillich, P. (1952). *The Courage to Be*. Yale University Press.
+- May, R. (1950). *The Meaning of Anxiety*. Ronald Press.
 - Lazarus, R. S. (1991). *Emotion and Adaptation*. Oxford University Press.
 - LeDoux, J. (1996). *The Emotional Brain: The Mysterious Underpinnings of Emotional Life*. Simon & Schuster.
 - Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.

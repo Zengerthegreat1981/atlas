@@ -26,7 +26,7 @@ A philosophical umbrella broader than the Latin American "Modernity/Coloniality"
 
 - **Frantz Fanon** (1925–1961): in *The Wretched of the Earth* (1961) he made colonial violence psychological and existential before it was political, and called for a liberation that does not replicate the European model.
 - **Ngũgĩ wa Thiong'o** (born 1938): in *Decolonising the Mind* (1986) he held that imposing the colonizer's language in education is a colonization of the mind, and he decided to write in Gikuyu.
-- **Kwasi Wiredu** (1931–2022) and Paulin Hountondji: called for the "conceptual decolonization" of African philosophy and for "endogenous" knowledge based on the questions of local societies.
+- **Kwasi Wiredu** (1931–2022) and **Paulin Hountondji** (1942–2024): called for the "conceptual decolonization" of African philosophy and for "endogenous" knowledge based on the questions of local societies.
 - **Mogobe Ramose**: presented "African philosophy through ubuntu" (1999) as a basis for understanding the person in relation to the other: "a human being is a human being through other human beings", or "I am because we are".
 - **Achille Mbembe**: in *On the Postcolony* (2001) he analyzes the persistence of colonial structures of rule and violence in independent states.
 - **Sabelo Ndlovu-Gatsheni**: in *Coloniality of Power in Postcolonial Africa* (2013) he describes coloniality as a continuing condition.
@@ -40,7 +40,7 @@ Modern Arab thought did not wait for this term to criticize epistemic colonialis
 - **Gandhi**: in *Hind Swaraj* (1909) he saw modern civilization itself as a disease, and called for self-sufficiency.
 - **Ashis Nandy**: in *The Intimate Enemy* (1983) he studied how the colonized internalize the logic of the colonizer.
 - **Kuan-Hsing Chen**: in *Asia as Method* (2010) he called for using Asian experiences as a reference for interpreting one another, not by comparison with the West.
-- **Sylvia Wynter** (1928–2024): in "Unsettling the Coloniality of Being/Power/Truth/Freedom" (2003) she tied modernity to the definition of the "human" in the image of the white Western man.
+- **Sylvia Wynter** (born 1928): in "Unsettling the Coloniality of Being/Power/Truth/Freedom" (2003) she tied modernity to the definition of the "human" in the image of the white Western man.
 - **Linda Tuhiwai Smith**: in *Decolonizing Methodologies* (1999) she criticized Western research on the Maori and other peoples as an extension of epistemic plunder.
 - **Boaventura de Sousa Santos**: in *Epistemologies of the South* (2014) he spoke of "epistemicide" and the need for "cognitive plurality".
 

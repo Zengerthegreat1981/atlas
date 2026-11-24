@@ -20,100 +20,59 @@ related:
 - id: "thk-jkabat-zinn", title: "Jon Kabat-Zinn", type: "مفكر"
 - id: "thk-lstevenhayes", title: "Steven C. Hayes", type: "مفكر"
 - id: "thk-mlinehan", title: "Marsha Linehan", type: "مفكر"
-gaps:
-  - "The difference between mindfulness and self-reflection in cognitive psychology: not yet covered"
+gaps: []
 ---
-
 # Mindfulness
 
-A concept that Jon Kabat-Zinn brought (through the MBSR program he began in 1979) from the Buddhist tradition into Western medicine, describing a **state of present-focused awareness**, without judgment or evaluation. It has become a cornerstone of several contemporary therapeutic schools (MBSR, MBCT, ACT, DBT).
+Mindfulness is the psychological state and practice of intentionally maintaining moment-by-moment awareness of sensations, thoughts, emotional states, and surrounding environment with an attitude of openness, curiosity, and non-judgment. Initially adapted from Buddhist contemplative traditions into secular behavioral medicine by Jon Kabat-Zinn in 1979 through the Mindfulness-Based Stress Reduction (MBSR) program, mindfulness has become a foundational component of modern clinical psychology and contemporary "third-wave" cognitive-behavioral therapies.
 
-## Definition
+## Operational Definition and Core Dimensions
 
-Mindfulness is **the awareness that arises through deliberate attention, in the present moment, without judgment** (Kabat-Zinn, 1994):
-- **Attention**: directed and deliberate.
-- **Present moment**: neither in the past nor in the future.
-- **Non-judgmental**: observing without evaluating as "good/bad."
-- **Awareness**: a wider perspective that includes thoughts, feelings and sensations.
+Jon Kabat-Zinn (1994) operationally defined mindfulness as "the awareness that arises through paying attention on purpose, in the present moment, and non-judgmentally." Psychometric and cognitive formulations identify several distinct operational facets:
+1. **Present-Moment Attention**: Deliberately anchoring attention to immediate internal and external events rather than drifting into past recollections or future anticipations.
+2. **Non-Judgmental Stance**: Refraining from evaluating sensations or thoughts as good or bad, desirable or intolerable.
+3. **Openness and Acceptance**: Allowing experiences to occur without avoidance, suppression, or compulsive striving to alter them.
+4. **Decentering (Cognitive Defusion)**: Perceiving thoughts, images, and feelings as transient psychological events in the mind rather than absolute truths, facts, or permanent aspects of the self.
 
-## Buddhist origins
+## Mindfulness versus Self-Reflection in Cognitive Psychology
 
-- **Sati**: the Pali word usually translated as mindfulness, with connotations of awareness, attention and remembering. It is taught in the Satipatthana Sutta as the "four foundations of mindfulness" (body, feelings, mind, and mental phenomena) and is one factor of the Noble Eightfold Path.
-- **Buddhist practitioners**: have cultivated mindfulness in meditation for well over two thousand years.
+A crucial distinction in cognitive clinical science concerns the difference between mindfulness and self-reflection. In cognitive psychology, self-focused attention is not a unitary phenomenon; researchers distinguish between two distinct modes of self-attention (Trapnell & Campbell, 1999; Watkins & Teasdale, 2001, 2004):
+- **Analytical, Evaluative Self-Reflection ("Thinking About")**: Involves abstract, conceptual, and teleological self-focus. When facing distress, individuals engage in analytical rumination, asking questions such as: "Why do I feel this way?", "What is wrong with my character?", and "What are the consequences of this failure?" In individuals vulnerable to depression, evaluative self-reflection activates depressive self-schemas, impairs problem-solving, and exacerbates emotional suffering.
+- **Experiential Mindful Awareness ("Direct Experiencing")**: Involves direct, concrete, sensory-perceptual monitoring of immediate present experience. Instead of constructing an evaluative narrative about the emotion, the individual attends to the bodily sensations, somatic feelings, and fleeting thoughts as they unfold from moment to moment. Experimental investigations (Watkins & Teasdale, 2004) demonstrate that experiential mindful self-focus rapidly interrupts depressive rumination and reduces overgeneral memory retrieval.
 
-## History of its arrival in the West
+## The Distinction between Mindfulness, Meditation, and Concentration
 
-- **1979**: Jon Kabat-Zinn establishes the MBSR clinic at the University of Massachusetts.
-- **1990**: the book "Full Catastrophe Living" (Kabat-Zinn).
-- **2002**: MBCT (Segal, Williams, Teasdale) for preventing depressive relapse.
-- **2010s**: wide applications (education, work, prisons).
+Contemplative psychology and cognitive science delineate clear boundaries among related attentional practices:
+- **Mindfulness (*Sati*)**: Involves open monitoring and broad attention, observing whatever physical sensation, sound, or mental content enters awareness without selection or attachment.
+- **Concentration (*Samādhi*)**: Involves focused, one-pointed attention (*śamatha*), sustaining attentional absorption on a single chosen anchor (such as the breath or a mantra) while actively inhibiting distractions.
+- **Meditation**: The overarching umbrella term encompassing diverse attentional, emotional, and contemplative training techniques, integrating both focused concentration and open mindful monitoring.
 
-## Dimensions
+## Buddhist Contemplative Roots and Western Integration
 
-1. **Present-moment attention**: focusing on what is happening now.
-2. **Observation**: observing thoughts, feelings and sensations without getting caught up in them.
-3. **Decentering**: seeing thoughts as mental events, not as "me" or "truth."
-4. **Acceptance**: accepting what is present without trying to change it.
-5. **Non-judgment**: observing without classifying as "good/bad."
-6. **Non-striving**: not trying to reach a goal, but being in the present.
+Mindfulness translates the Pali term *sati*, which signifies lucid awareness, mindfulness, and recollective presence. In classical Buddhist psychology (notably the *Satipaṭṭhāna Sutta*), mindfulness is cultivated across four foundations: contemplation of the body (*kāya*), feelings (*vedanā*), mind states (*citta*), and mental qualities (*dhamma*), serving as the seventh factor of the Noble Eightfold Path.
 
-## Mechanisms of change
+In the West, secular clinical applications progressed through distinct phases:
+- **1979**: Jon Kabat-Zinn founded the MBSR clinic at the University of Massachusetts Medical Center, treating chronic pain and stress-related disorders.
+- **1990s**: Jon Kabat-Zinn published *Full Catastrophe Living* (1990), popularizing mindfulness across mainstream medicine.
+- **2000s**: Zindel Segal, Mark Williams, and John Teasdale developed **Mindfulness-Based Cognitive Therapy (MBCT)**, integrating cognitive therapy with mindfulness practices to prevent major depressive relapse (Kuyken et al., 2015).
+- **Third-Wave CBT**: Steven C. Hayes incorporated mindfulness and acceptance into **Acceptance and Commitment Therapy (ACT)** through cognitive defusion, while Marsha Linehan established core mindfulness skills as the central module of **Dialectical Behavior Therapy (DBT)** to achieve emotional regulation and "Wise Mind."
 
-- **Cognitive decentering**: breaking the cycle of rumination.
-- **Emotion regulation**: awareness of feelings allows a conscious response instead of a reaction.
-- **Reduced self-referential activity (Default Mode Network)**: some fMRI studies of experienced meditators have reported reduced activity in the brain network associated with thinking about the self, though findings are preliminary.
-- **Enhanced psychological flexibility**: the ability to shift between mental states.
+## Empirical Evidence and Critical Perspectives
 
-## Therapeutic applications
+Systematic meta-analyses (Goyal et al., 2014) indicate that mindfulness meditation programs yield moderate evidence of improvement in symptoms of anxiety and depression, with outcomes comparable to active behavioral treatments. Structural and functional neuroimaging studies report altered functional connectivity in the Default Mode Network (DMN), particularly reducing self-referential rumination in the posterior cingulate cortex and medial prefrontal cortex.
 
-### MBSR (Mindfulness-Based Stress Reduction)
-- An 8-week program, 2-2.5 hours weekly plus a day of silence.
-- Components: body scan, sitting meditation, mindful movement (yoga), informal practice.
-
-### MBCT (Mindfulness-Based Cognitive Therapy)
-- An 8-week group program.
-- For preventing depressive relapse (Kuyken et al. 2015).
-- Combines mindfulness with cognitive therapy.
-
-### ACT (Acceptance and Commitment Therapy)
-- **Acceptance**: accepting difficult feelings.
-- **Commitment**: acting in line with values.
-- **Cognitive defusion**: seeing thoughts as thoughts, not as "facts."
-
-### DBT (Dialectical Behavior Therapy)
-- Mindfulness is one of the four core skills.
-- "Wise Mind": the balance between reason and emotion.
-
-## Research
-
-- **Goyal et al. (2014)**: a meta-analysis of 47 trials (N = 3,515) of meditation programs found moderate evidence of improvement in anxiety (effect size about 0.38) and depression (about 0.30) at eight weeks, and low evidence for pain, with little evidence of superiority over active treatments such as drugs, exercise or other behavioral therapies.
-- **Hölzel et al. (2011)**: a small imaging study reported changes in regional gray matter concentration after an 8-week MBSR course; such findings need replication.
-
-## Critique
-
-- **McMindfulness**: a critique of the spread of mindfulness as a commercial product or superficial practice, outside its philosophical context.
-- **Secularization**: converting a spiritual practice into a therapeutic technique. In its Buddhist setting sati is taught within an ethical and soteriological framework (the Eightfold Path), whereas clinical programs present mindfulness as a secular skill for stress and relapse prevention.
-- **Limited strong evidence**: most studies are small and short-term, with methodological biases.
-- **Generalizability**: many trials involve self-selected participants and may not generalize across cultures and populations.
+Despite widespread adoption, critical scholars express several concerns:
+- **"McMindfulness" and Commodification**: Ronald Purser (2019) critiqued the commercial dilution of mindfulness, arguing that stripping mindfulness of its ethical foundations turns it into a corporate stress-management technique that pacifies individuals and obscures systemic socioeconomic problems.
+- **Methodological Limitations**: Critics highlight that many early mindfulness studies suffered from small sample sizes, lack of active control comparisons, and publication bias.
+- **Adverse Effects**: High-intensity meditation practice can occasionally precipitate adverse psychological reactions, including anxiety spikes, depersonalization, or trauma re-experiencing, warranting careful screening in clinical populations.
 
 ## Sources
 
-- Kabat-Zinn, J. (1990). *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*. Delta.
-- Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). *Mindfulness-Based Cognitive Therapy for Depression*. Guilford Press.
-- Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy*. Guilford Press.
-- Goyal, M., et al. (2014). Meditation programs for psychological stress and well-being. *JAMA Internal Medicine*, 174(3), 357-368.
+- Goyal, M., et al. (2014). "Meditation programs for psychological stress and well-being: A systematic review and meta-analysis". *JAMA Internal Medicine*, 174(3), 357–368.
+- Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy: An Experiential Approach to Behavior Change*. Guilford Press.
+- Kabat-Zinn, J. (1990). *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness*. Delacorte.
 - Kabat-Zinn, J. (1994). *Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life*. Hyperion.
-- Hölzel, B. K., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
 - Purser, R. (2019). *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*. Repeater Books.
-
-## Links and context
-
-The concept is tied to its roots in **Buddhist psychology** (sch-buddhist-psychology), and to its three major therapeutic applications: **Mindfulness-Based Cognitive Therapy** (sch-mbct), **Acceptance and Commitment Therapy** (sch-act), and **Dialectical Behavior Therapy** (sch-dbt). **Jon Kabat-Zinn** (thk-jkabat-zinn) carried the practice into Western medicine through MBSR, **Zindel Segal** (thk-zsegal) developed the MBCT program, **Steven C. Hayes** (thk-lstevenhayes) founded ACT theory, which adopts mindfulness as one of its six processes, and **Marsha Linehan** (thk-mlinehan) incorporated mindfulness as a core skill in DBT. The concept is linked to its two cognitive mechanisms, **cognitive decentering** (con-cognitive-decentering) and **cognitive defusion** (con-cognitive-defusion), and intersects with the **debate over mindfulness as a therapeutic tool versus a spiritual practice** (dbt-mindfulness-clinical-vs-spiritual), which discusses the problem of secularizing a Buddhist practice.
-
-## The difference from "meditation" and "concentration"
-
-- **Mindfulness**: **open attention**, noticing **everything** that appears without selecting.
-- **Concentration** (Samādhi): **directed attention** to **a single object**.
-- **Meditation**: the comprehensive process that includes both.
-
-This is a practical distinction, not merely a verbal one: many contemporary protocols call themselves "mindfulness" while being, in technique, **concentration** on a single anchor (the breath, for example).
+- Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). *Mindfulness-Based Cognitive Therapy for Depression: A New Approach to Preventing Relapse*. Guilford Press.
+- Watkins, E., & Teasdale, J. D. (2004). "Adaptive and maladaptive self-focus in depression". *Journal of Affective Disorders*, 82(1), 1–8.

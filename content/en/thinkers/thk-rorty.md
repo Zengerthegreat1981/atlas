@@ -6,12 +6,12 @@ level: "متقدم"
 title: "Richard Rorty"
 en: "Richard Rorty"
 crumb: "Philosophy ← Thinkers ← Richard Rorty"
-dates: "America · 1931–2007"
+dates: "United States · 1931–2007"
 active_start: 1961
 active_end: 2007
 country: "United States"
 language: "English"
-part: philosophy
+part: "philosophy"
 edges:
 - rel: "belongs_to", target: "Classical Pragmatism", target_type: "مدرسة"
 related:

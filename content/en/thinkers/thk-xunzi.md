@@ -25,50 +25,58 @@ gaps: []
 
 # Xunzi (Xun Kuang)
 
-A Confucian philosopher of the third century BCE, titled the "Great Scholar" (大儒 dàrú). He lived in the late Warring States period and taught at the Jixia Academy in the state of Qi, and was then appointed magistrate of Lanling (蘭陵, in what is now southern Shandong) in the state of Chu. Han Feizi (the great synthesizer of Legalism) and Li Si (chief minister of the state of Qin) studied under him. Zhu Xi (1130–1200) placed his thought in a rank below Mencius, but his thought influenced both later Confucianism and later Legalism.
+Xunzi (c. 310 – c. 235 BCE), personal name Xun Kuang and traditionally honored as the "Great Scholar" (*Daru*), was a leading Confucian philosopher of the late Warring States period. Alongside Confucius and Mencius, he was one of the three foundational thinkers of early Confucianism. Xunzi developed an encyclopedic and naturalistic system that emphasized the necessity of ritual (*li*), social order, moral cultivation, and linguistic precision. Unlike Mencius, who held that human nature is innately good, Xunzi famously argued that human nature is fundamentally bad (*xing'e*), requiring deliberate cultural artifice and ritual practice to attain moral goodness.
 
-## What He Contributed
+## Life and Historical Context
 
-- **The inclination of nature toward evil (性恶 xìng'è)**: a human being is born with "sensory desires" (欲 yù) which, if left to themselves, collide with the interests of others. Evil is not an incidental accident but the original orientation. Human nature therefore needs external "pruning": ritual, education, custom, law.
-- **Ritual as the creator of civilization (偽 wěi)**: against "nature" (性 xìng) stands "conscious artifice" or "acquisition" (偽 wěi), that is, the conscious and deliberate practice that forms character. "The lofty way of the ancient kings", "li" (禮), "yi" (義, righteousness), law, and the arts are all of "conscious artifice", which rescues nature from itself.
-- **The separation of Heaven from the human (天人相分)**: natural phenomena are not attributed to a moral heavenly will; rain is not divine punishment and the hooting of an owl is not an omen. Heaven (天 tiān) has its natural laws and the human has his own. This position put him in radical opposition to most thinkers of his age.
-- **The perceiving heart-mind (心 xīn)**: despite the evil of nature, a human being has a "conscious heart" (the "xin") with which he can discriminate, but it does not work automatically and needs training.
+Xun Kuang was born in the northern state of Zhao around 310 BCE. During an era of relentless interstate warfare and intellectual debate, he moved among several states. He became the most prominent master at the Jixia Academy in the state of Qi, the foremost intellectual center of ancient China, where he was thrice elected as head (*jijiu*). 
 
-## His Place in the Current
+Xunzi later traveled to the southern state of Chu, where Lord Chunshen, prime minister of Chu, appointed him magistrate of Lanling (in modern southern Shandong province). Following Lord Chunshen's assassination in 238 BCE, Xunzi was dismissed from office but remained in Lanling as a private teacher until his death around 235 BCE. His two most famous students, Han Feizi and Li Si, became the leading theorists and statesmen of Legalism, the political philosophy that engineered the authoritarian unification of China under the Qin dynasty.
 
-His position on human nature philosophically opens the door to Legalism (which he outwardly rejects), but he joins it in practice in the necessity of an "ordering force". Many of the later "Four Books" (as Zhu Xi arranged them) excluded Xunzi because of his belief in natural evil. His later Confucian opponents (such as Zhu Xi) considered his position to "open the door to the Legalists" (indeed his disciples Han Feizi and Li Si are those who founded the Legalist state of Qin).
+## Core Philosophical Contributions
 
-## Limitation
+### Human Nature is Bad (*Xing'e*) and Deliberate Artifice (*Wei*)
+In his famous chapter "Human Nature is Bad" (*Xing'e*), Xunzi directly challenged Mencian moral optimism:
+- **Inborn Nature (*Xing*)**: Human beings are born with raw biological desires, sensual appetites, envy, and self-interest. Left to spontaneous expression without guidance, these drives inevitably lead to conflict, violence, and social collapse. Evil is not an external accident, but the natural outcome of unrestrained human nature.
+- **Conscious Artifice (*Wei*)**: Moral goodness (*shan*) is not an innate endowment, but the product of deliberate, conscious human effort and cultural training (*wei*). Xunzi employed physical metaphors of transformation: "A piece of wood as straight as a plumb line must be steamed and bent on a shaping frame to become a wheel; a piece of metal must be ground on a whetstone to become sharp."
 
-- His thought remained "suspect" within the official Confucian tradition, which came to favour Mencius.
-- Some material in the collection may belong to his followers rather than to him personally.
-- The text as we have it was edited by Liu Xiang in the first century BCE into thirty-two chapters. Most scholars regard the core essays, such as those on Heaven, ritual, music, the rectification of names and the nature of man, as Xunzi's own, and some later chapters as compiled by followers.
+### Ritual (*Li*) and Righteousness (*Yi*) as Social Ordering
+Because natural desires exceed available resources, human survival depends on communal division of labor and moral hierarchy. The ancient sage-kings instituted rituals (*li*) and standards of righteousness (*yi*) to regulate human desires, apportion social roles, and curb strife. For Xunzi, ritual is not empty formal ceremony; it is a profound psychotherapeutic and aesthetic mechanism that refines primitive emotions into civilized expressions of harmony, balance, and dignity.
 
-## Major Works (Attributed)
+### The Separation of Heaven and Humanity (*Tian ren xiang fen*)
+In the chapter "Discourse on Heaven" (*Tianlun*), Xunzi formulated a thoroughly naturalistic theology. Heaven (*Tian*) is not an anthropomorphic moral deity that intervenes in human affairs, rewards virtue, or punishes tyranny with omens:
+- Constellations move, seasons change, and droughts occur according to regular natural patterns, regardless of human conduct.
+- Human prosperity depends entirely on human industry, economic prudence, and righteous governance. If government is corrupt, natural disasters will cause catastrophe; if governance is sound, drought will not bring famine. 
+- Xunzi declared: "Instead of magnifying Heaven and meditating upon it, why not domesticate things and control them?"
 
-- *Xunzi* (荀子, 32 chapters, a collection of his sayings and the chapters attributed to him).
+### Epistemology and the Heart-Mind (*Xin*)
+Xunzi recognized that human nature possesses the capacity to know the Way (*Dao*). In the chapter "Dispelling Blindness" (*Jiebi*), he analyzed cognitive biases and mental fixation. The heart-mind (*xin*) directs human action and can grasp objective reality when it cultivates three epistemic qualities:
+- **Emptiness (*xu*)**: The ability to hold existing knowledge without letting it obstruct the acquisition of new insights.
+- **Unity (*yi*)**: The ability to process multiple distinct things without letting one distract from another.
+- **Stillness (*jing*)**: Emotional tranquility that prevents passions from distorting perception.
 
-## His Life
+### The Rectification of Names (*Zhengming*)
+In "On the Rectification of Names," Xunzi advanced an advanced semantic theory. Words do not possess intrinsic natural connections to objects; names are instituted by human convention (*ming wu gu yi*). The primary role of the wise ruler is to standardize terminology to prevent semantic ambiguity, enforce moral distinctions, and maintain unambiguous legal and social administration.
 
-Xunzi (荀況) was born in the state of Zhao around 310 BCE and moved among the states, teaching at the Jixia Academy in Qi, where he was among its most prominent teachers, and then went to Chu, where Prince Chunshen appointed him governor of Lanling; he stayed there until he was dismissed after the death of his patron, and died some time after 240 BCE (c. 235 BCE is a common estimate). His disciples were among the most politically influential men of their age: Han Feizi, the leading Legalist theorist, and Li Si, the minister of Qin who became the architect of the unification of China.
+## Pedagogical Method: Sagehood for the Common Person
 
-## His Intellectual Method
+Although Xunzi viewed primal human nature as selfish, he maintained absolute confidence in education: "Any person on the street can become a Yu" (referring to the legendary sage-emperor Yu the Great). Sagehood is attained through rigorous study of the classics, association with virtuous teachers, and lifelong immersion in ritual practice. While Legalists sought to enforce obedience through terror and physical punishment, Xunzi insisted that genuine statecraft rests on moral education, aesthetic elevation, and the exemplary virtue of the ruler.
 
-Xunzi was encyclopedic, dealing in his book with ethics, politics, logic, language, music, war and economics. In the chapter "On the Rectification of Names" he stressed that the ruler has a role in fixing the meanings of words so that social life and mutual understanding may be sound. In the chapter "Dispelling Blindness" (Jiebi) he discussed the causes of error in thinking, and showed that the heart-mind arrives at the Way when it is "empty", "unified" and "still", that is, open to new knowledge, undistracted and undisturbed. In the chapter "Against the Twelve Philosophers" he criticized his contemporaries, including thinkers of other schools and, from among the Confucians, Zisi and Mencius, saying that they erred in understanding the ancient belief.
+## Reception and Critical Debates
 
-## The Human Being Can Be Cultivated
+Xunzi's text was compiled into thirty-two chapters by the Han dynasty librarian Liu Xiang in the first century BCE. During the Han dynasty, Xunzi was widely revered for preserving and transmitting the Confucian classics (especially the *Odes*, *Rites*, and *Changes*).
 
-Although he said that the original nature of the human being inclines toward selfishness and competition, he did not see in that a closed fate, but held that "any person on the street can become Yu the Great" (the legendary sage ruler), if he strives in learning and cultivation. The difference between Confucianism for him and Legalism is that the Legalists rely on punishment and force alone, whereas he offers education, ritual and example, although he acknowledges a role for law. This is what makes it a mistake to count him a Legalist.
+However, during the Song dynasty Neo-Confucian renaissance, Zhu Xi and the Cheng brothers elevated Mencius into the orthodox Confucian lineage (*daotong*), establishing the "Four Books" and relegating Xunzi to a secondary, suspect status. Neo-Confucians faulted Xunzi for his pessimistic anthropology and for having taught the Legalists Han Feizi and Li Si. They argued that if human nature were completely bad, Xunzi could not explain how the original sage-kings invented morality and ritual in the first place.
 
-## Limits and Critique
+In the nineteenth and twentieth centuries, scholars such as Liang Qichao, Wang Guowei, and modern philosophers reassessed Xunzi, praising his empirical realism, linguistic sophistication, and naturalistic epistemology as a vital rationalist counterweight within Chinese philosophy.
 
-- **The link to Legalism**: he was accused of having his two disciples Han Feizi and Li Si draw their ideas from his pessimistic view; more correct is that each took one side, and Xunzi replied to bare force.
-- **Place in the tradition**: Zhu Xi's Four Books included Mencius and not Xunzi, and ranked Mencius far higher, so Xunzi remained on the margin until studies of him increased in the twentieth century.
-- **Nature and acquisition**: some commentators, foremost among them the New Confucians, hold that his claim of natural evil does not explain how the early sages who created ritual appear, since the evil person cannot be the source of virtue. This is a problem acknowledged by his students, who discuss it.
+## Major Works
+
+- *Xunzi* (荀子, 32 chapters, preserved in the standard edition established by Liu Xiang).
 
 ## Sources
 
-- Hutton, E. L. (trans., 2014). *Xunzi: The Complete Text*. Princeton University Press.
-- Hagen, K. (2007). *The Philosophy of Xunzi: A Reconstruction*. Open Court.
-- Knoblock, John (trans.). *Xunzi: A Translation and Study of the Complete Works*, 3 vols., Stanford University Press, 1988–1994.
-- Kline, T. C., and Philip J. Ivanhoe (eds.). *Virtue, Nature, and Moral Agency in the Xunzi*. Hackett, 2000.
+- Knoblock, J. (trans., 1988–1994). *Xunzi: A Translation and Study of the Complete Works* (3 vols.). Stanford: Stanford University Press.
+- Hutton, E. L. (trans., 2014). *Xunzi: The Complete Text*. Princeton: Princeton University Press.
+- Kline, T. C., & Ivanhoe, P. J. (Eds.). (2000). *Virtue, Nature, and Moral Agency in the Xunzi*. Indianapolis: Hackett Publishing.
+- Hagen, K. (2007). *The Philosophy of Xunzi: A Reconstruction*. Chicago: Open Court.

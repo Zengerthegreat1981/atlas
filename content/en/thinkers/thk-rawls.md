@@ -11,7 +11,7 @@ dates: "United States · 1921–2002"
 country: "United States"
 language: "English"
 active_start: 1958
-active_end: 2001
+active_end: 2002
 edges:
 - rel: "belongs_to", target: "Contemporary Political Liberalism (Rawlsianism and Beyond)", target_type: "مدرسة"
 related:

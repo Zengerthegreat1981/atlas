@@ -8,7 +8,7 @@ title: "Prolonged Grief Disorder"
 en: "Prolonged Grief Disorder"
 crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Prolonged Grief Disorder"
 dates: null
-active_start: null
+active_start: 2019
 active_end: "مستمر"
 dsm5tr_code: "F43.81"
 icd11_code: "6B42"

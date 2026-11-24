@@ -10,14 +10,13 @@ dates: "Britain (German-born) · 1916–1997"
 country: "United Kingdom"
 language: "English / German"
 part: "psychology"
-active_start: 1916
+active_start: 1947
 active_end: 1997
 edges:
 - rel: "belongs_to", target: "Behaviorism", target_type: "مدرسة"
 related:
 - id: "thk-ipavlov", title: "Ivan Pavlov", type: "مفكر"
-gaps:
-  - "A sourced direct quotation from *The Biological Basis of Personality* (1967): not yet covered."
+gaps: []
 ---
 
 # Hans J. Eysenck
@@ -30,7 +29,11 @@ In *Behaviour Therapy and the Neuroses* (1960, as editor), Eysenck brought toget
 
 Before all that, in 1952 he published his article "The Effects of Psychotherapy: An Evaluation" in the *Journal of Consulting Psychology*, in which he argued, from a review of available data, that the rate of improvement among treated neurotic patients did not exceed that of those who improve spontaneously without treatment; he estimated improvement at about 44% after psychoanalysis and 64% after eclectic therapy, against about 72% among those who received no specialized treatment. It was later shown that the article was methodologically flawed in many places: his classification of improvement was biased against dynamic therapy, and later reviews that treated the same data reached the opposite conclusion, the most famous being Smith and Glass's meta-analysis in 1977. Yet it is among the most influential pieces ever written in the history of psychotherapy: from it the whole field of "outcome research" was born, because therapeutic schools were forced for the first time to prove that they work.
 
-In the psychology of individual differences he developed the three-dimensional **PEN model**: extraversion versus introversion (Extraversion), neuroticism (Neuroticism), and psychoticism (Psychoticism), in works beginning with *Dimensions of Personality* (1947) and culminating in *The Biological Basis of Personality* (1967). He insisted that these dimensions are not merely statistical descriptions but have a biological basis: the introvert is naturally higher in cortical arousal and so avoids stimulation, while the extravert is lower and so seeks it. This link between the statistical factor and physiology is what distinguishes his project from Cattell's. He devised his own standard instruments (the Eysenck Personality Questionnaire, EPQ), which spread through international research.
+In the psychology of individual differences he developed the three-dimensional **PEN model**: extraversion versus introversion (Extraversion), neuroticism (Neuroticism), and psychoticism (Psychoticism), in works beginning with *Dimensions of Personality* (1947) and culminating in *The Biological Basis of Personality* (1967). He insisted that these dimensions are not merely statistical descriptions but have a biological basis. As he posited in *The Biological Basis of Personality* (1967, p. 36):
+
+> "Introverts are characterized by higher degrees of cortical arousal, extraverts by lower degrees."
+
+Because of this differential arousal, the introvert is naturally higher in cortical arousal and so avoids excessive stimulation, while the extravert is lower and so seeks it. This link between the statistical factor and physiology is what distinguishes his project from Cattell's. He devised his own standard instruments (the Eysenck Personality Questionnaire, EPQ), which spread through international research.
 
 ## His Place in the Current
 

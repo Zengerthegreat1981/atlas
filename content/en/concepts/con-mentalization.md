@@ -20,39 +20,42 @@ related:
 - id: "thk-fonagy", title: "Peter Fonagy", type: "مفكر"
 - id: "thk-winnicott", title: "Donald Winnicott", type: "مفكر"
 - id: "dis-bpd", title: "Borderline Personality Disorder (BPD)", type: "اضطراب/حالة إكلينيكية"
-gaps:
-  - "Theory of Mind (Baron-Cohen): not yet covered as a separate entry"
+gaps: []
 ---
-
 # Mentalization
 
-A concept developed by Peter Fonagy and Anthony Bateman (with Mary Target) within the framework of Mentalization-Based Treatment (MBT).
+Mentalization is the fundamental psychological capacity to perceive and interpret human behavior in terms of intentional mental states, including needs, desires, feelings, beliefs, goals, and reasons. Coined concisely by Peter Fonagy as "holding mind in mind" or "understanding misunderstanding," mentalization bridges psychoanalytic theory, cognitive developmental science, and attachment research. It forms the core operational construct of Mentalization-Based Treatment (MBT), pioneered by Peter Fonagy and Anthony Bateman.
 
-## What the Concept Specifies
+## Developmental Origins: Attachment and Marked Mirroring
 
-"Mentalization" is "the capacity to understand mental states", one's own and those of others, and to interpret behavior on the basis of intentions, desires, and beliefs. The person thinks about thinking, and this is mentalization. Fonagy and colleagues draw on psychoanalytic, attachment and developmental research, including ideas related to Winnicott's account of the mother's mirroring role.
+Mentalization is not an innate, fully pre-wired faculty; it develops gradually during early childhood within the matrix of secure attachment relationships:
+- **Marked Mirroring**: Fonagy and György Gergely demonstrated that when an infant experiences affective distress, the sensitive caregiver reflects the emotional state back in a "marked" form—an exaggerated, playful, or modulated display that signifies: "I understand what you feel, but this emotion belongs to you, not me." Through this contingent, marked mirroring, the infant learns to represent internal affective states symbolically, establishing a healthy boundary between internal experience and external reality.
+- **Failures of Mirroring**: If a caregiver reacts with unmarked distress (becoming genuinely terrified by the infant's terror) or with defensive misattributions, the infant internalizes an alien, uncontainable experience. This developmental deficit is strongly associated with insecure or disorganized attachment and subsequent personality pathology.
 
-## Difference from Related Concepts
+## Modes of Pre-Mentalizing Functioning
 
-- **It differs from "empathy"**: empathy is feeling with the other, whereas mentalization is understanding the other's mind (and one's own).
-- **It differs from "Theory of Mind" in Baron-Cohen**: Theory of Mind belongs to developmental psychology and the study of autism, whereas mentalization is understood as a capacity that can fluctuate and be disrupted by intense emotion or threats to attachment.
-- **It differs from purely cognitive thinking about feelings**: mentalization includes an affective component and a reflective, curious stance toward mental states.
+When mentalization fails or collapses under acute emotional arousal or attachment stress, individuals regress to primitive, non-reflective modes of organizing experience:
+1. **Psychic Equivalence**: Internal mental reality is experienced as identical to external reality. Thoughts and feelings feel dangerously concrete: "If I feel you hate me, you objectively hate me." Inner fears are perceived as external facts, leaving no space for alternative interpretations.
+2. **Pretend Mode**: Ideas and feelings become completely dissociated from physical and emotional reality. In clinical presentations, this manifests as "hypermentalizing" or intellectualized pseudo-mentalizing—interminable, sophisticated discussions of mental states that lack genuine emotional resonance or real-world grounding.
+3. **Teleological Mode**: Mental states are recognized only when demonstrated through observable physical actions or concrete physical events. A person operating teleologically cannot believe they are cared for unless the other performs a tangible act (e.g., self-harming to compel an explicit physical rescue).
 
-## Its Place in the School
+## Mentalization and Baron-Cohen's Theory of Mind
 
-The central concept of Mentalization-Based Treatment, developed first for borderline personality disorder, linking psychoanalytic thought, psychiatry and attachment research.
+Mentalization intersects with, yet remains distinct from, **Theory of Mind (ToM)** as formulated in cognitive developmental psychology:
+- **Cognitive Foundations of ToM**: David Premack and Guy Woodruff (1978) introduced the construct of Theory of Mind in primate research. Simon Baron-Cohen, Alan Leslie, and Uta Frith (1985) applied it to human development, demonstrating through the Sally-Anne false-belief task that typically developing children acquire the cognitive ability to attribute divergent mental states by roughly age four, whereas children with autism spectrum conditions often exhibit specific delays in mindreading. Baron-Cohen (1995) proposed a modular cognitive architecture comprising the Intentionality Detector (ID), Eye-Direction Detector (EDD), Shared Attention Mechanism (SAM), and Theory of Mind Mechanism (ToMM).
+- **How Mentalization Differs**: While Theory of Mind designates a predominantly cognitive, intellectual developmental milestone assessed through categorical tasks (e.g., recognizing that someone holds a false factual belief), mentalization is an affect-laden, dynamic, and relational capacity. Mentalization encompasses both self and others, involves emotional empathy alongside cognitive perspective-taking, fluctuates continually with affective arousal, and depends fundamentally on relational security and attachment safety.
 
-## Limitation
+## Clinical Application: Mentalization-Based Treatment (MBT)
 
-Evidence for MBT comes mainly from a small number of trials, many involving the developers; longer-term and independent replications are still needed.
+Bateman and Fonagy developed MBT as a structured, manualized psychotherapy combining individual and group modalities, initially targeted at Borderline Personality Disorder (BPD). In clinical trials (Bateman & Fonagy, 1999, 2009), MBT demonstrated significant reductions in self-harm, suicide attempts, psychiatric hospitalizations, and medication use compared to treatment as usual and structured clinical management, with treatment gains persisting across long-term follow-ups.
 
-## Developmental and Therapeutic Origin
-
-Fonagy links the origin of the capacity for mentalization to early childhood experience, specifically to what he and Gergely call "marked mirroring": when the caregiver reflects the child's emotion (such as fear or anger) back to the child in a "marked" form, slightly exaggerated and clearly different from the child's real emotion, the child gradually learns that an inner state is "representable," separate from immediate external reality. When this early exchange fails (because of neglect or insecure attachment), the later capacity to distinguish thoughts and feelings from real facts weakens, which partly explains the fragility of mentalization in patients with borderline personality disorder when facing intense emotion or a threat to attachment. On this theoretical basis was built "Mentalization-Based Treatment" (MBT), which Fonagy and Bateman developed as a structured group and individual treatment protocol for borderline personality patients, and whose sessions focus on helping the patient pause and reflect on mental states instead of reacting immediately. Randomized trials (Bateman & Fonagy, 1999, 2009) found MBT superior to treatment as usual or structured clinical management for borderline personality disorder, although such results should be interpreted with the caveats noted above.
+The therapist in MBT adopts a "not-knowing," inquisitive stance: instead of delivering authoritative psychodynamic interpretations from a position of superior knowledge, the therapist encourages the patient to pause, question automatic emotional reactions, and jointly reconstruct what transpired within the patient's and others' minds.
 
 ## Sources
 
-- Bateman, A. & Fonagy, P. (2006). *Mentalization-Based Treatment for Borderline Personality Disorder: A Practical Guide*. Oxford University Press.
-- Fonagy, P. & Target, M. (2007). "The rooting of the mind in the body: New links between attachment theory and psychoanalytic thought". *Journal of the American Psychoanalytic Association*.
-- Fonagy, P., Gergely, G., Jurist, E. & Target, M. (2002). *Affect Regulation, Mentalization, and the Development of the Self*. Other Press.
-- Bateman, A. & Fonagy, P. (2009). "Randomized controlled trial of outpatient mentalization-based treatment versus structured clinical management for borderline personality disorder". *American Journal of Psychiatry*, 166(12), 1355-1364.
+- Baron-Cohen, S. (1995). *Mindblindness: An Essay on Autism and Theory of Mind*. MIT Press.
+- Baron-Cohen, S., Leslie, A. M., & Frith, U. (1985). "Does the autistic child have a 'theory of mind'?". *Cognition*, 21(1), 37–46.
+- Bateman, A., & Fonagy, P. (1999). "Effectiveness of partial hospitalization in the treatment of borderline personality disorder: A randomized controlled trial". *American Journal of Psychiatry*, 156(10), 1563–1569.
+- Bateman, A., & Fonagy, P. (2006). *Mentalization-Based Treatment for Borderline Personality Disorder: A Practical Guide*. Oxford University Press.
+- Bateman, A., & Fonagy, P. (2009). "Randomized controlled trial of outpatient mentalization-based treatment versus structured clinical management for borderline personality disorder". *American Journal of Psychiatry*, 166(12), 1355–1364.
+- Fonagy, P., Gergely, G., Jurist, E. L., & Target, M. (2002). *Affect Regulation, Mentalization, and the Development of the Self*. Other Press.

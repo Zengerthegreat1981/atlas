@@ -22,7 +22,7 @@ gaps: []
 
 # An Inquiry into the Good by Kitarō Nishida (Zen no Kenkyū)
 
-*An Inquiry into the Good* (善の研究, Zen no Kenkyū) is the first book of the Japanese philosopher Kitarō Nishida (1870–1945), published in Tokyo in 1911 by Kōdōkan. The word "Zen" in the title means "the good" (善), not Buddhist "Zen" (禅), although the pronunciation of the two words is similar in Japanese, which confused many foreign readers; the book is a philosophical inquiry into reality, ethics and religion, even though its author was a practitioner of Zen meditation.
+*An Inquiry into the Good* (善の研究, Zen no Kenkyū) is the first book of the Japanese philosopher Kitarō Nishida (1870–1945), published in Tokyo in 1911 by Kōdōkan. The word "Zen" in the title means "the good" (善), not Buddhist "Zen" (禅), although the two words are homophones in Japanese (both pronounced *zen*), which has confused many foreign readers; the book is a philosophical inquiry into reality, ethics and religion, even though its author was a practitioner of Zen meditation.
 
 ## The Central Thesis
 

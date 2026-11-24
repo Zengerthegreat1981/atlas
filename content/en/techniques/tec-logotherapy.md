@@ -13,8 +13,7 @@ active_end: "مستمر"
 edges: []
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
-gaps:
-  - "Logotherapy as a whole school (theory of the person, existential analysis): not yet covered here"
+gaps: []
 ---
 
 # Logotherapy (Meaning-Centered)
@@ -23,7 +22,7 @@ Logotherapy is a technique built on one conviction: that the deepest human motiv
 
 ## What It Is
 
-Logotherapy was founded by the Austrian neurologist and psychiatrist Viktor Frankl (1905–1997). Its name comes from the Greek word logos, meaning sense or meaning. Frankl argued that human beings are driven by a "will to meaning", and that meaning can be found through three paths: through what we create and accomplish, through what we experience and love, and through the attitude we take toward suffering we cannot change. The technique is the practical side of that philosophy: a set of structured interventions that help a client discover or create meaning, especially in circumstances where nothing else can be changed. It is distinct from the branch of existential therapy that carries the same name: this entry treats logotherapy as a method of working, not as the whole school.
+Logotherapy was founded by the Austrian neurologist and psychiatrist Viktor Frankl (1905–1997). Its name comes from the Greek word logos, meaning sense or meaning. Frankl argued that human beings are driven by a "will to meaning", and that meaning can be found through three paths: through what we create and accomplish, through what we experience and love, and through the attitude we take toward suffering we cannot change. The technique is the practical side of that philosophy: a set of structured interventions that help a client discover or create meaning, especially in circumstances where nothing else can be changed. It is closely linked with the broader school of existential analysis: while logotherapy provides specific meaning-oriented clinical interventions, existential analysis supplies the underlying anthropological foundation.
 
 ## History
 
@@ -32,6 +31,10 @@ Frankl developed his first ideas in Vienna in the 1930s, in the circle of Alfred
 ## How It Works
 
 Paradoxical intention is the best-known logotherapeutic technique. A patient who fears something — insomnia, blushing, stammering — is asked to do deliberately what they fear: the insomniac is told to try hard to stay awake, the person who fears sweating is told to try to sweat as much as possible. The logic is that the fear is maintained by anticipatory anxiety, and that willing the feared outcome breaks the circle: once the symptom is intended rather than feared, the anxiety that feeds it collapses. Dereflection works in the opposite direction. Where a person is trapped in excessive self-observation — monitoring their own performance, their sleep, their sexual functioning — the therapist redirects attention outward, toward a task or a person beyond the self. A third element is Socratic dialogue: the therapist asks questions that help the client hear their own values and responsibilities, rather than telling them what their life should mean. A fourth, attitude modification, addresses the one freedom that remains when fate cannot be changed: the freedom to choose one's stance toward it.
+
+## Anthropological Theory and Existential Analysis
+
+Beyond its concrete clinical techniques, logotherapy is grounded in an explicit philosophical anthropology known as dimensional ontology. Frankl conceptualised the human being across three interconnected dimensions: the somatic (biological and physiological processes), the psychic (psychological drives, emotions, and conditioned habits), and the noetic or spiritual (the specifically human dimension). While somatic and psychological functioning may be constrained by illness or determinism, Frankl maintained that the noetic core—the locus of freedom, personal responsibility, value orientation, and conscience—remains intact and capable of taking a stand against adversity, a principle he termed the "defiant power of the human spirit" (*die Trotzmacht des Geistes*). Within this framework, existential analysis (*Existenzanalyse*) serves as the anthropological and diagnostic counterpart to logotherapy: whereas logotherapy provides meaning-oriented therapeutic techniques, existential analysis explores the individual's lived existence phenomenologically, clarifying how the person exercises freedom and responsibility in response to life's concrete tasks.
 
 ## Key Figures
 

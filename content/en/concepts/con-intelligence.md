@@ -16,48 +16,46 @@ gaps: []
 ---
 # Intelligence
 
-Intelligence is the capacity to learn from experience, reason, solve problems and adapt to new situations. Psychologists have studied it for over a century, and it is one of the most measured and most disputed concepts in the discipline. There is no single agreed definition; most researchers work with an operational one, namely performance on tests designed to sample reasoning and learning ability.
+Intelligence is the capacity to learn from experience, reason abstractly, solve problems, and adapt effectively to an environment. Studied empirically for well over a century, it remains one of the most thoroughly investigated and debated constructs in psychology. Because theorists disagree on whether intelligence is a unified cognitive capacity or an array of autonomous faculties, research typically relies on operational definitions linked to standardized test performance.
 
-## Spearman and the general factor
+## Spearman and the General Factor
 
-In 1904 Charles Spearman observed that scores on very different mental tasks tend to correlate positively. He proposed that this pattern reflects a general factor, later called *g*, together with factors specific to each task. The positive correlation among cognitive tests, sometimes called the positive manifold, is among the most replicated findings in psychology, and factor analysis of test batteries typically yields a general factor accounting for a substantial share of variance.
+In 1904, Charles Spearman observed that individuals who performed well on one cognitive task tended to perform well on others, regardless of the task domain. Using early factor analysis, he identified a shared underlying dimension of cognitive efficiency that he termed the general factor, or *g*, alongside specific factors (*s*) unique to particular tasks. The tendency of diverse cognitive tests to correlate positively with one another—termed the "positive manifold"—is among the most consistently replicated empirical findings in behavioral science.
 
-## Hierarchical models
+## Hierarchical and Factorial Models
 
-Later researchers argued that intelligence has more structure than a single factor. Louis Thurstone proposed several "primary mental abilities". Raymond Cattell distinguished fluid intelligence, the capacity to reason with novel problems, from crystallised intelligence, the accumulated knowledge and skill that depends on experience. John Horn extended this work, and John Carroll's 1993 survey of factor-analytic studies proposed a three-stratum model with *g* at the top, broad abilities in the middle and narrow abilities beneath. The resulting Cattell-Horn-Carroll framework is widely used in test construction and is the dominant psychometric model today.
+Subsequent psychologists argued that cognitive abilities possess greater structural complexity than a single *g* factor reveals:
+- **Louis L. Thurstone (1938)** rejected Spearman's unitary factor, proposing seven relatively independent Primary Mental Abilities: verbal comprehension, word fluency, number facility, spatial visualization, associative memory, perceptual speed, and inductive reasoning.
+- **Raymond Cattell (1963)** split general intelligence into **fluid intelligence** (*Gf*), the biological ability to solve novel problems independent of acquired knowledge, and **crystallized intelligence** (*Gc*), the store of learned cultural knowledge, language, and skills.
+- **John Horn** expanded Cattell's model by identifying additional broad cognitive factors.
+- **John B. Carroll (1993)** conducted a massive re-analysis of factor-analytic datasets, formulating the **Three-Stratum Theory**: narrow abilities at Stratum I, broad abilities (such as fluid intelligence, visual perception, and processing speed) at Stratum II, and general factor *g* at Stratum III.
+- The synthesized **Cattell-Horn-Carroll (CHC) Theory** represents the prevailing psychometric foundation for modern cognitive assessment batteries.
 
-## Measuring intelligence
+## Measuring Intelligence
 
-Alfred Binet and Théodore Simon developed the first practical test in France in 1905 to identify children needing help in school. The idea of an intelligence quotient was later developed in the English-speaking world, and Lewis Terman at Stanford revised the test as the Stanford-Binet. David Wechsler's scales for adults and children are now among the most commonly used instruments. Modern IQ scores are not ratios but deviation scores, placed on a scale with a mean of 100 and a standard deviation of 15 in the reference population.
+In 1905, Alfred Binet and Théodore Simon designed the first practical intelligence scale in France to identify schoolchildren requiring specialized educational assistance. In 1912, German psychologist William Stern formulated the concept of the "intelligence quotient" (IQ) as the ratio of mental age to chronological age multiplied by 100. Lewis Terman at Stanford University revised and standardized the scale in 1916 as the Stanford-Binet Intelligence Scales.
 
-IQ scores predict academic achievement and, more modestly, occupational performance and several life outcomes. They are also quite stable across development, although stability is not perfect and scores can change. Tests of this kind are generally reliable, but what they show about validity, and how far scores should be interpreted beyond the tested abilities, remains debated.
+David Wechsler subsequently designed alternative scales—including the Wechsler Adult Intelligence Scale (WAIS) and Wechsler Intelligence Scale for Children (WISC)—introducing the modern "deviation IQ." Rather than a ratio, deviation IQ is a standardized score based on a normal distribution curve with a population mean of 100 and a standard deviation of 15. Standardized IQ scores reliably predict academic achievement, occupational attainment, and cognitive health outcomes, though they do not measure practical common sense, creativity, or emotional wisdom.
 
-## Heritability and environment
+## Heritability and Environment
 
-Twin and adoption studies indicate that genetic differences contribute to differences in test scores within a population, and estimates of heritability tend to rise from childhood to adulthood. Heritability is a population statistic, however, and says nothing about how fixed an individual's ability is or about the causes of differences between groups. Environment matters: nutrition, schooling and early deprivation have all been linked to cognitive outcomes.
+Behavioral genetics studies—including twin and adoption designs (such as the Minnesota Twin Study)—estimate the heritability of intelligence at between 50% and 80% by adulthood. Heritability estimates increase developmentally (the "Wilson effect"), rising from around 40% in childhood to over 70% in adulthood as individuals increasingly select and shape their own environments. However, heritability is a population-level variance statistic and does not signify that individual intelligence is biologically fixed, nor does it account for differences between distinct groups. Environmental influences—including gestational nutrition, childhood lead exposure, cognitive stimulation, and schooling—profoundly shape cognitive development.
 
-## The Flynn effect
+## The Flynn Effect
 
-James Flynn documented that raw scores on intelligence tests rose substantially across much of the twentieth century in many countries, at a rate of a few points per decade. The gains are too fast to be genetic and imply that environmental factors, possibly including schooling, nutrition and changing exposure to abstract thinking, affect test performance. In some countries the gains have reportedly levelled off or reversed in recent decades. The effect shows that test scores are not simply a fixed trait and complicates comparisons across generations.
+James R. Flynn (1984, 1987) documented that raw scores on standardized intelligence tests rose steadily across the twentieth century in industrialized nations, at an average rate of roughly 3 IQ points per decade. Because the genetic composition of populations could not alter so rapidly, the Flynn effect demonstrates the powerful impact of environmental factors—such as improved public health, universal schooling, smaller family sizes, and increased exposure to abstract visual and technological environments. In several European countries, recent data indicate a leveling-off or slight reversal of these generational gains, a phenomenon termed the negative Flynn effect.
 
-## Critiques and debates
+## Critiques and Alternative Models
 
-- **Multiple intelligences.** Howard Gardner argued in 1983 for several relatively independent intelligences, such as linguistic, musical, spatial, bodily-kinaesthetic and interpersonal. The theory is popular in education, but critics note that it rests on little direct psychometric evidence and that many of the proposed abilities correlate with *g* or are better described as talents.
-- **Triarchic theory.** Robert Sternberg proposed analytical, creative and practical components of intelligence and argued that conventional tests neglect the latter two. Empirical support is contested.
-- **Emotional intelligence.** Whether skills in perceiving and managing emotion deserve the label is disputed, and the construct is treated separately.
-- **Bias and fairness.** Test scores differ among groups, and researchers disagree about the causes and about whether tests are fair. Cultural content, test anxiety, stereotype threat and unequal opportunity have all been discussed as influences. Careful work stresses that group averages cannot be applied to individuals.
-- **Misuse.** Intelligence testing has been used to justify discriminatory policies, such as immigration restrictions and eugenic measures in the early twentieth century, which is part of why the subject remains charged.
-- **Narrowness.** Critics note that tests do not capture creativity, wisdom, motivation or good judgement, all of which matter for real-world success.
-
-## Why it matters
-
-Intelligence is a central individual-difference variable in education, selection and clinical assessment. The sound approach treats IQ as a useful but limited summary of certain cognitive abilities, with real predictive value and clear limits, and as one factor among many shaping a life.
+- **Multiple Intelligences**: Howard Gardner (1983) proposed that intelligence is modular rather than unitary, positing eight distinct intelligences (including musical, spatial, bodily-kinesthetic, and interpersonal). While influential in pedagogy, the theory faces criticism from psychometricians for lacking rigorous empirical test batteries and for recasting talents as intelligences.
+- **Triarchic Theory**: Robert Sternberg (1985) conceptualized successful intelligence through analytical, creative, and practical subtheories, arguing that standard tests neglect adaptive real-world performance.
+- **Cultural and Test Fairness**: Historically, intelligence testing was occasionally misapplied to support eugenic policies, forced sterilizations, and discriminatory immigration restrictions in the early twentieth century. Modern psychometricians emphasize test bias analysis, measurement invariance, and the confounding role of stereotype threat and socioeconomic disparities in score interpretations.
 
 ## Sources
 
-- Charles Spearman, "'General Intelligence', objectively determined and measured", *American Journal of Psychology* (1904)
-- John B. Carroll, *Human Cognitive Abilities: A Survey of Factor-Analytic Studies* (1993)
-- Howard Gardner, *Frames of Mind: The Theory of Multiple Intelligences* (1983)
-- James R. Flynn, "The mean IQ of Americans: Massive gains 1932 to 1978", *Psychological Bulletin* (1984)
-- Stephen Jay Gould, *The Mismeasure of Man* (1981)
-- Ulric Neisser and colleagues, "Intelligence: Knowns and unknowns", *American Psychologist* (1996)
+- Carroll, J. B. (1993). *Human Cognitive Abilities: A Survey of Factor-Analytic Studies*. Cambridge University Press.
+- Flynn, J. R. (1984). "The mean IQ of Americans: Massive gains 1932 to 1978". *Psychological Bulletin*, 95(1), 29–51.
+- Gardner, H. (1983). *Frames of Mind: The Theory of Multiple Intelligences*. Basic Books.
+- Neisser, U., et al. (1996). "Intelligence: Knowns and unknowns". *American Psychologist*, 51(2), 77–101.
+- Spearman, C. (1904). "'General Intelligence,' objectively determined and measured". *The American Journal of Psychology*, 15(2), 201–292.
+- Sternberg, R. J. (1985). *Beyond IQ: A Triarchic Theory of Human Intelligence*. Cambridge University Press.

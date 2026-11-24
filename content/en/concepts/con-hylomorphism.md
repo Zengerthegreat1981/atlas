@@ -22,37 +22,48 @@ gaps: []
 
 # Hylomorphism: Matter and Form in Aristotle
 
-Hylomorphism is a metaphysical and natural theory formulated by Aristotle (384–322 BCE) in the *Physics* (Books I and II), the *Metaphysics* (Book Z) and *On the Soul* (*De Anima*), holding that every natural being, other than the first principle, is composed of two elements that are inseparable in reality: "hyle" (matter, which is potentiality) and "form" (shape, structure and function, which is actuality). The theory reaches its clearest form when applied to the relation between soul and body, and by it Aristotle is distinguished from Plato and from Descartes.
+Hylomorphism (from Greek *hyle*, "matter," and *morphe*, "form") is the metaphysical and physical framework formulated by Aristotle (384–322 BCE) in the *Physics* (Books I and II), the *Metaphysics* (Books VII–VIII / Zeta and Eta), and *On the Soul* (*De Anima*). The theory holds that every individual physical substance is an indissoluble composite of two intrinsic principles: matter (potentiality, *dynamis*) and form (actuality, *entelecheia* or *energeia*). Hylomorphism serves as Aristotle's unified explanation of change, generation, persistence, and the nature of living organisms.
 
-## The Reply to Plato
+## The Rebuttal of Platonic Dualism
 
-His teacher Plato had made the Forms transcendent, self-subsistent in an intelligible world, with sensible things as imperfect copies of them. Aristotle held that this transcendence explains neither change nor individual existence, for form for him is in the thing and has no separate existence. In Book I of the *Physics* he analyzes change by three principles: the subject (matter), the form, and privation (the absence of form) through which the subject passes. When a man becomes educated after having been ignorant, the subject remains and what is predicated of it changes.
+Aristotle developed hylomorphism partly to resolve difficulties in Plato's Theory of Forms. Plato posited Forms as transcendent, immutable entities existing separately from the sensible world, with physical objects participating imperfectly in them. Aristotle argued that transcendent Forms fail to explain either generation, substantial change, or individual existence. 
 
-## Applying the Theory to the Soul
+Instead, Aristotle treated form as immanent: form exists in and through physical particulars, not apart from them. In *Physics* Book I, Aristotle analyzes change through three fundamental principles:
+1. **The Substratum or Matter (*hypokeimenon* / *hyle*)**: that which persists through change.
+2. **The Form (*morphe* / *eidos*)**: the positive structure or determination acquired.
+3. **Privation (*steresis*)**: the initial absence of that specific form.
+When an uneducated person becomes educated, the underlying subject persists while passing from privation to the realization of form.
 
-In *On the Soul* (Book II, chapter 1) Aristotle defines the soul as "the first actuality of a natural organic body having life potentially" (entelecheia), so it is the form of the body and not a separate entity as in the *Phaedo*. Thus the question "how is the soul connected to the body?" is not posed in the dualist form, just as one does not ask how wax is connected to its shape. He gives the example of the eye: if the eye were an animal, sight would be its soul, and when sight leaves it, it becomes an eye in name only. Aristotle makes an exception for the "active intellect" (*De Anima* III.5), hinting that it may be separate and immortal, an obscure statement that provoked long debate among his commentators. Alexander of Aphrodisias identified it with the divine first cause, while Averroes (Ibn Rushd) took it to be a separate intellect shared by all humans.
+## Hylomorphism and the Philosophy of Mind
 
-## The Contrast with Descartes
+Aristotle's most influential application of hylomorphism occurs in his psychology. In *De Anima* (Book II, Ch. 1), Aristotle defines the soul (*psyche*) as "the first actuality (*entelecheia*) of a natural organic body having life potentially." 
 
-Descartes, in the *Meditations on First Philosophy* (1641), overturned the model: thinking substance (res cogitans) and extended substance (res extensa) are two completely independent substances, and body is defined by extension alone, so there is no need for substantial forms in nature. Thus arose the problem of interaction between the two substances, which Aristotle did not know. The outcome was the rejection of natural teleology in modern science.
+Under this definition, the soul is not a distinct substance trapped inside a bodily prison (as in Plato's *Phaedo*), but the formal, efficient, and final cause of the living organism—its organizing principle and vital capacity. Asking whether the soul and body are one is, for Aristotle, as meaningless as asking whether wax and the impression stamped upon it are one. He illustrates this with the famous analogy of the eye: if the eye were an independent animal, sight would be its soul; without sight, an eye is an eye in name only (homonymously).
 
-## Contemporary Revival
+Aristotle introduces an unresolved complexity regarding the "active intellect" (*nous poietikos*, *De Anima* Book III, Ch. 5), describing it as separable, immortal, and eternal. This provoked extensive commentary: Alexander of Aphrodisias identified it with the divine Prime Mover, whereas Averroes (Ibn Rushd) conceived it as a single, separate immaterial intellect shared by all humanity.
 
-Philosophers of mind in the twentieth century renewed interest in the theory: Hilary Putnam and Martha Nussbaum (1992) saw in hylomorphism a forerunner of functionalism, while Myles Burnyeat (1992) argued that an Aristotelian philosophy of mind is not credible as functionalism because form is bound up with a specific kind of living matter. J. L. Ackrill (1972-73) had earlier argued that Aristotle's definition of the soul avoids the Cartesian problem of how soul and body interact. Some contemporary philosophers, among them Thomists, defend contemporary versions of it to explain psychophysical unity without Cartesian dualism and without physical reductionism.
+## Contrast with Cartesian Substance Dualism
 
-## In Islamic Philosophy
+René Descartes, in his *Meditations on First Philosophy* (1641), replaced Aristotelian hylomorphism with substance dualism. Descartes defined the body as purely extended matter (*res extensa*) governed by mechanical laws, and the mind as unextended thinking substance (*res cogitans*). By stripping physical nature of substantial forms and teleology, Descartes created the modern mind-body problem: how two fundamentally different substances can causally interact, a dilemma that did not arise in Aristotle's framework of formal actuality.
 
-The works of Aristotle were translated into Arabic in the translation movement (notably by Hunayn ibn Ishaq and his son Ishaq ibn Hunayn) and used by al-Kindi's circle, and the Muslim Peripatetics adopted matter and form; the soul for Avicenna is "the first perfection of a natural organic body" in *al-Shifa': On the Soul*, together with his affirmation of the independence and survival of the soul's substance (the Floating Man), which makes his position a reconciliation between hylomorphism and immateriality. As for Mulla Sadra, he made the soul "corporeal in origination, spiritual in subsistence", that is, a form that becomes immaterial through substantial motion.
+## Islamic Reception
 
-## Criticism and the Limits of the Theory
+Hylomorphism was transmitted into Arabic through translations by Hunayn ibn Ishaq, Ishaq ibn Hunayn, and the circle of al-Kindi. Muslim Peripatetics adapted matter (*hayula*) and form (*sura*):
+- **Avicenna (Ibn Sina)**: in *al-Shifa': al-Nafs*, embraced hylomorphic biology for vegetative and animal functions, but defended the substantial independence and immortality of the rational human soul, supported by his "floating man" thought experiment.
+- **Mulla Sadra (Sadr al-Din Shirazi)**: harmonized these tensions in his Transcendent Philosophy through substantial motion (*al-haraka al-jawhariyya*), formulating the famous principle that the human soul is "corporeal in origination and spiritual in subsistence" (*jismiyyat al-huduth ruhaniyyat al-baqa'*).
 
-Critics charge hylomorphism with obscurity: what exactly is meant by form? Can forms be explained in the language of physics? Does it explain conscious experience, which is what the "hard problem" requires? On the other hand, its supporters point out that thinking of the living being as an organized whole, not as a sum of parts, is useful to biology.
+## Contemporary Revival in Philosophy of Mind and Metaphysics
+
+In the late twentieth century, philosophers revisited hylomorphism:
+- **Functionalist Readings**: Hilary Putnam and Martha Nussbaum (1992) suggested Aristotle anticipated functionalism by defining psychological states through organizational capacities rather than material constituents.
+- **Myles Burnyeat's Critique**: Burnyeat (1992) argued that Aristotelian psychology cannot be assimilated to modern functionalism because Aristotle's conception of physical matter is inextricably bound to natural teleology and perception as the literal realization of sensible form without matter.
+- **Neo-Aristotelian Metaphysics**: Contemporary philosophers, including J. L. Ackrill (1972–73), David Wiggins, and Kathrin Koslicki, have utilized hylomorphism to address problems of material constitution and biological unity without falling into reductive physicalism or Cartesian dualism.
 
 ## Sources
 
-- Aristotle, *Aristotle's Physics*, ed. W. D. Ross, Oxford: Clarendon Press, 1936.
-- Aristotle, *De Anima*, trans. R. D. Hicks, Cambridge University Press, 1907.
-- W. D. Ross, *Aristotle*, London: Methuen, 1923.
-- J. L. Ackrill, "Aristotle's Definitions of Psuche", *Proceedings of the Aristotelian Society* 73, 1972–1973.
-- Martha C. Nussbaum and Amélie O. Rorty (eds.), *Essays on Aristotle's De Anima*, Clarendon Press, 1992.
-- René Descartes, *Meditationes de prima philosophia*, Paris: Michel Soly, 1641.
+- Aristotle, *De Anima* (On the Soul), trans. with introduction and notes by C. D. C. Reeve, Hackett Publishing, 2017.
+- Aristotle, *Physics*, Books I and II, trans. William Charlton, Clarendon Press, Oxford, 1992.
+- J. L. Ackrill, "Aristotle's Definitions of Psuche", *Proceedings of the Aristotelian Society*, 73, 1972–1973.
+- Martha C. Nussbaum and Amélie Oksenberg Rorty (eds.), *Essays on Aristotle's De Anima*, Clarendon Press, Oxford, 1992.
+- Myles F. Burnyeat, "Is an Aristotelian Philosophy of Mind Still Credible?", in *Essays on Aristotle's De Anima*, Clarendon Press, 1992.
+- René Descartes, *Meditations on First Philosophy*, 1641, trans. John Cottingham, Cambridge University Press, 1986.

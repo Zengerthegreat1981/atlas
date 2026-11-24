@@ -36,9 +36,9 @@ In 1872 the "Metaphysical Club" met in Cambridge, Massachusetts. Its members inc
 ## Foundations
 
 - **The pragmatic origin in Peirce**: the meaning of a conception is the sum of the practical effects we conceive its object to have. He sees inquiry as a struggle from doubt to belief, and truth as what scientific inquiry will end up with in the long run. He formulated the form of inference he called abduction (inference to the best explanation), the doctrine of fallibilism, and the science of signs. He later called his doctrine "pragmaticism" (1905) to distinguish it from James's usage.
-- **The will to believe and pragmatism in James**: in "The Will to Believe" (1896) he defended a person's right to believe when the evidence does not settle the question and the options are live and pressing. In "Pragmatism" (1907) he made the truth of an idea lie in its "cash value", that is, what it leads to in experience, and in "The Varieties of Religious Experience" (1902) he applied the method to religion. In "The Principles of Psychology" (1890) he popularized the idea of the "stream of consciousness".
-- **Instrumentalism and empiricism in Dewey** (1859–1952): in "Experience and Nature" (1925) and "Logic: The Theory of Inquiry" (1938) he regarded ideas as tools for resolving problematic situations, and knowledge as the result of organized inquiry. In "How We Think" (1910) he set out the stages of reflective thinking: feeling a problem, defining it, proposing hypotheses, deducing their consequences, then testing them by experiment.
-- **The social self in Mead** (1863–1931): in "Mind, Self, and Society" (1934), compiled by his students after his death, the self arises from taking on the role of the "generalized other" in interaction, an approach later developed by Herbert Blumer, who coined the term "symbolic interactionism".
+- **The will to believe and pragmatism in James**: in "The Will to Believe" (1896) he defended a person's right to believe when the evidence does not settle the question and the options are live, forced, and momentous. In *Pragmatism* (1907) he made the truth of an idea lie in its "cash value", that is, what it leads to in experience, and in *The Varieties of Religious Experience* (1902) he applied the method to religion. In *The Principles of Psychology* (1890) he popularized the idea of the "stream of consciousness".
+- **Instrumentalism and empiricism in Dewey** (1859–1952): in *Experience and Nature* (1925) and *Logic: The Theory of Inquiry* (1938) he regarded ideas as tools for resolving problematic situations, and knowledge as the result of organized inquiry. In *How We Think* (1910) he set out the stages of reflective thinking: feeling a problem, defining it, proposing hypotheses, deducing their consequences, then testing them by experiment.
+- **The social self in Mead** (1863–1931): in *Mind, Self, and Society* (1934), compiled by his students after his death, the self arises from taking on the role of the "generalized other" in interaction, an approach later developed by Herbert Blumer, who coined the term "symbolic interactionism".
 
 ## Pragmatism beyond the United States
 
@@ -46,11 +46,11 @@ F. C. S. Schiller in Britain developed a related position he called "humanism" (
 
 ## Democracy and education
 
-In "Democracy and Education" (1916) Dewey held that the school is a miniature society that develops the capacity for criticism and participation, and that learning by practice and experiment is more fruitful than rote memorization. In "The Public and Its Problems" (1927) he presented democracy as a way of life and not merely a form of government. Dewey visited Turkey in 1924 and submitted a report on educational reform, and also visited China and Japan.
+In *Democracy and Education* (1916) Dewey held that the school is a miniature society that develops the capacity for criticism and participation, and that learning by practice and experiment is more fruitful than rote memorization. In *The Public and Its Problems* (1927) he presented democracy as a way of life and not merely a form of government. Dewey visited Turkey in 1924 and submitted a report on educational reform, and also visited China and Japan.
 
 ## Connection to the Arab world
 
-Matta Aqrawi and Zakariyya Mikhail translated Dewey's "Democracy and Education", which influenced the educational curricula of Egypt and other Arab countries. Muhammad Ali al-Aryan translated James's "Pragmatism". Zaki Naguib Mahmoud presented an account of American thought in "The Life of Thought in the New World" (1956). Some scholars compare Dewey's conception of experience with the discussions of action and benefit in Islamic reformist thought, without claiming direct influence.
+Matta Aqrawi and Zakariyya Mikhail translated Dewey's *Democracy and Education*, which influenced the educational curricula of Egypt and other Arab countries. Muhammad Ali al-Aryan translated James's *Pragmatism*. Zaki Naguib Mahmoud presented an account of American thought in *The Life of Thought in the New World* (1956). Some scholars compare Dewey's conception of experience with the discussions of action and benefit in Islamic reformist thought, without claiming direct influence.
 
 ## The unifying idea
 
@@ -58,7 +58,7 @@ The four share a rejection of the search for certain foundations prior to experi
 
 ## Legacy
 
-- **Neopragmatism**: revived by Richard Rorty in "Philosophy and the Mirror of Nature" (1979), by Hilary Putnam in "Reason, Truth and History" (1981), and, in different ways, by Robert Brandom and Susan Haack.
+- **Neopragmatism**: revived by Richard Rorty in *Philosophy and the Mirror of Nature* (1979), by Hilary Putnam in *Reason, Truth and History* (1981), and, in different ways, by Robert Brandom and Susan Haack.
 - **Sociology and education**: the Chicago school arose in sociology, and Dewey became a reference point in progressive education.
 - **Law**: Holmes, a member of the Metaphysical Club, is regarded as a forerunner of American "legal realism" through his view of law as a prediction of what courts will do.
 - **Semiotics**: Peirce's system of signs became the basis of modern semiotics.

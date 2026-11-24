@@ -17,8 +17,7 @@ edges:
 related:
 - id: "sch-utilitarianism", title: "Utilitarianism", type: "مدرسة"
 - id: "thk-bentham", title: "Jeremy Bentham", type: "مفكر"
-gaps:
-  - "Influence of the 1826 crisis on On Liberty: not yet covered"
+gaps: []
 ---
 # John Stuart Mill
 
@@ -30,30 +29,34 @@ Mill was born in London on 20 May 1806 to a Scottish father, the historian and e
 
 ## What He Contributed
 
-### *On Liberty* (On Liberty, 1859)
+### *On Liberty* (1859)
 
-The most influential defense of **individual liberty** in political philosophy. The **harm principle**: **power may be rightfully exercised over a member of a civilised community against his will only to prevent harm to others** (The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others). Three **classical liberties**:
-- **Liberty of opinion** (freedom of thought and conscience).
-- **Liberty of tastes** (freedom to live according to your taste).
-- **Liberty of association** (freedom of assembly for non-harmful purposes).
+The most influential defense of individual liberty in modern political philosophy. Mill formulates the famous **harm principle**: "The only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others." Mill articulates three broad domains of liberty:
+- **Liberty of thought and discussion**: freedom of opinion, conscience, and public debate.
+- **Liberty of tastes and pursuits**: freedom to plan our own lives and pursue our own inclinations without societal interference, so long as our actions do not harm others.
+- **Liberty of combination (association)**: freedom to unite with other individuals for any purpose not involving harm to others.
 
-This text became a **fundamental source** for the liberal left, **American liberalism**, and contemporary **individualist liberalism**.
+This text remains a fundamental reference for liberal political philosophy, constitutional protections of free speech, and theories of personal autonomy.
 
-### *Utilitarianism* (Utilitarianism, 1863)
+### The 1826 Crisis and Individuality in *On Liberty*
 
-The greatest systematic exposition of utilitarianism. Mill amends Bentham:
-- **A qualitative distinction** between pleasures: "It is better to be a human being dissatisfied than a pig satisfied." Pleasures of the **mind** (Intellectual Pleasures) are higher than pleasures of the **senses** (Bodily).
-- The criterion of "competent judges" (Competent Judges): those who have experienced both kinds of pleasure are the best judges of which is preferable. This is a controversial solution to the problem of "how do we compare pleasures".
+In his *Autobiography*, Mill recounts the severe mental and emotional crisis he suffered in the autumn of 1826. Having been conditioned by Benthamite associationist psychology and strict utilitarian analysis, he realized that rigorous analytic dissection had trained his intellect while leaving his emotional capacities and desires uncultivated. Reading William Wordsworth's poetry offered him therapeutic relief and demonstrated that aesthetic sensibility and feeling are essential to well-being. This realization transformed his philosophical vision, directly shaping Chapter 3 of *On Liberty* ("Of Individuality, as One of the Elements of Well-Being"). Drawing on Wilhelm von Humboldt's ideal of self-cultivation (*Bildung*), Mill argued that liberty is valuable not only as negative non-interference, but as the essential prerequisite for individual development, diversity of character, and "experiments of living" against the stultifying tyranny of social conformity.
 
-### *The Subjection of Women* (The Subjection of Women, 1869)
+### *Utilitarianism* (1863)
 
-A founding text of liberal feminism, written under the influence of his wife Harriet Taylor and her daughter Helen Taylor, in which he described the relation of the sexes under the prevailing law as subjection, not partnership. He defended the full equality of woman and man in law, education and work.
+The most widely read systematic defense of utilitarian ethics. Mill introduces crucial modifications to Bentham's quantitative hedonism:
+- **Qualitative distinctions between pleasures**: Mill famously declares, "It is better to be a human being dissatisfied than a pig satisfied; better to be Socrates dissatisfied than a fool satisfied." Pleasures of the intellect, feelings, imagination, and moral sentiments are qualitatively superior to mere bodily sensations.
+- **The criterion of competent judges**: When deciding which of two pleasures is superior in quality, Mill appeals to the verdict of those who have experienced both and are competent to appreciate both.
 
-Mill revised editions of his *Principles of Political Economy* (1848) in the light of the **European revolutions of 1848** (the "Spring of Nations"), adding in later editions a chapter on "the future of the working classes", sympathetic to the demands of the cooperative socialists despite his rejection of violent revolution.
+### *The Subjection of Women* (1869)
 
-### *Considerations on Representative Government* (Considerations on Representative Government, 1861)
+A founding text of liberal feminism, written with significant input from his wife Harriet Taylor Mill and stepdaughter Helen Taylor. Mill argued that the legal subordination of women was not only inherently unjust, but a relic of the past that impeded the moral and intellectual progress of humanity. He advocated full legal equality, equal access to education, suffrage, and unrestricted entry into professions.
 
-A theory of **representative democracy**: the "best" is the representation of everyone, not of the majority alone. **Minority rights** matter. **Proportional representation** and **plural voting** (Plural Voting): the better educated have several votes.
+Mill also revised editions of his *Principles of Political Economy* (1848) in light of the European revolutions of 1848, incorporating sympathetic appraisals of workers' cooperatives and profit-sharing schemes, prefiguring a form of liberal or market socialism.
+
+### *Considerations on Representative Government* (1861)
+
+A theory of democratic governance balancing popular participation with expert competence. Mill argued that while democracy fosters active citizenship, safeguards against majority tyranny and demagoguery are necessary. He endorsed proportional representation (supporting Thomas Hare's system) and controversially advocated plural voting, giving additional votes to citizens with higher educational or intellectual attainments to counterbalance unreflective majoritarianism.
 
 ## Reception in Arab Thought
 

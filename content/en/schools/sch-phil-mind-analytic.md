@@ -20,8 +20,7 @@ related:
 - id: "thk-nagel", title: "Thomas Nagel", type: "مفكر"
 - id: "thk-bertrand-russell", title: "Bertrand Russell", type: "مفكر"
 - id: "thk-lwittgenstein", title: "Ludwig Wittgenstein", type: "مفكر"
-gaps:
-  - "Relation of the philosophy-of-mind umbrella to philosophical psychology as an independent academic field: not yet covered."
+gaps: []
 ---
 
 # Analytic Philosophy of Mind
@@ -61,6 +60,10 @@ This philosophy became part of the cognitive sciences: the functionalists contri
 - The conceivability arguments (zombies and Mary) are still disputed: do they prove something about reality or about the limits of our conceptions?
 - Some scholars doubt the unity of the "mind" itself, and prefer to study separate capacities.
 - The discussion of consciousness still suffers from differing definitions among phenomenality, access consciousness and self-consciousness.
+
+## Philosophy of Mind and Philosophical Psychology
+
+Although contemporary discussions frequently treat philosophy of mind and philosophical psychology as interchangeable, they have distinct historical scopes and methodological emphases. Philosophical psychology historically developed from classical and scholastic analyses of the soul (*de anima*), faculties, perception, volition, and emotion. In the twentieth century, spurred by the work of G. E. M. Anscombe (*Intention*, 1957) and the later Wittgenstein, philosophical psychology investigated the conceptual grammar of agency, reasons versus causes, voluntary action, belief-desire explanations, and the passions. Analytic philosophy of mind, by contrast, developed primarily as a metaphysical and epistemological branch of post-positivist philosophy, centering upon the mind–body problem, mental ontology (physicalism, functionalism, computationalism), and the nature of mental representation and qualia. While contemporary philosophy of mind interfaces directly with cognitive neuroscience and artificial intelligence, philosophical psychology maintains strong continuity with action theory, moral psychology, and philosophical ethics.
 
 ## Sources
 

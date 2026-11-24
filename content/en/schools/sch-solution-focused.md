@@ -17,6 +17,7 @@ register: "academic"
 evidence_level: "probably-efficacious"
 edges:
 - rel: "founded_by", target: "Insoo Kim Berg", target_type: "مفكر"
+- rel: "founded_by", target: "Steve de Shazer", target_type: "مفكر"
 - rel: "belongs_to", target: "sch-systemic-family", target_type: "مدرسة"
 related:
 - id: "sch-systemic-family", title: "Systemic/Family Therapy", type: "مدرسة"
@@ -26,8 +27,7 @@ related:
 - id: "thk-beck", title: "Aaron Temkin Beck", type: "مفكر"
 - id: "thk-sdeshacer", title: "Steve de Shazer", type: "مفكر"
 - id: "sch-narrative-therapy", title: "Narrative Therapy", type: "مدرسة"
-gaps:
-  - "SFBT in Arab and Islamic contexts: not yet covered"
+gaps: []
 ---
 
 # Solution-Focused Brief Therapy (SFBT)
@@ -114,9 +114,17 @@ The evidence base for SFBT consists mainly of small and moderate-sized studies. 
 
 De Shazer and Berg left a deep legacy in normalizing the idea of "brief therapy" as an authentic approach rather than an economic expedient. Berg and de Shazer established the Brief Family Therapy Center (BFTC) in Milwaukee in 1978, and SFBT has since spread internationally. The Solution Focused Brief Therapy Association (SFBTA) is a professional organization for practitioners and researchers.
 
+## SFBT in Arab and Islamic Contexts
+
+SFBT has gained notable acceptance in Arab and Muslim communities, where mental health practitioners have noted strong philosophical and cultural alignments. The framework's non-pathologizing, competence-oriented posture reduces the social stigma frequently associated with traditional psychiatric diagnoses. Its future-oriented, pragmatic focus on concrete change aligns well with cultural expectations for practical guidance and family-centered problem resolution, rather than prolonged individualistic exploration of past family conflicts.
+
+Culturally adapted implementations typically integrate spiritual and collective dimensions. The miracle question and exception-seeking are often reframed around familial harmony, community obligations, and spiritual hope (*raja'*), drawing upon religious coping mechanisms and divine trust (*tawakkul*) as accessible client strengths. Therapists working in these settings emphasize collective agency—involving respected family members or elders where appropriate—while adapting scaling questions to track improvements in relational and spiritual well-being alongside personal functioning.
+
 ## Sources
 
 - de Shazer, S. (1985). *Keys to Solution in Brief Therapy*. Norton.
 - de Shazer, S. (1988). *Clues: Investigating Solutions in Brief Therapy*. Norton.
+- de Shazer, S., Berg, I. K., Lipchik, E., Nunnally, E., Molnar, A., Gingerich, W., & Weiner-Davis, M. (1986). Brief therapy: Focused solution development. *Family Process*, 25(2), 207–221.
 - Gingerich, W. J., & Eisengart, S. (2000). Solution-focused brief therapy: A review of the outcome research. *Family Process, 39*(4), 477–498.
 - Kim, J. S. (2008). Examining the effectiveness of solution-focused brief therapy: A meta-analysis. *Research on Social Work Practice, 18*(2), 107–116.
+- Rassool, G. H. (2016). *Islamic Counselling: An Introduction to Theory and Practice*. Routledge.

@@ -21,9 +21,11 @@ gaps: []
 
 The deepest metaphysical and spiritual concept in Indian philosophy and in non-dualist Vedānta. It holds that the 'Atman' (a person's inner self and pure consciousness) is not separate in its true essence from 'Brahman' (the supreme, absolute cosmic consciousness and being), and that ignorance of this unity, an illusory separation produced by māyā, is the source of suffering and rebirth.
 
-## Dispelling the Illusion of Separation and the Duality of Subject and Object
+## Overcoming Subject-Object Duality: Witness-Consciousness
 
-The realization of pure witness-consciousness, free of the fluctuations of the ego, the body, and thoughts.
+In Advaita epistemology and psychology, the apparent division between the experiencing subject and the external objective world is an artifact of superimposition (*adhyāsa*). The empirical ego (*ahaṃkāra*) misidentifies pure consciousness with the mind-body apparatus (*upādhis*), projecting an external world of separate, multiplicity-laden objects.
+
+To dissolve this illusion, classical Advaita analyzes experience across three states of consciousness: waking (*jāgrat*), dreaming (*svapna*), and dreamless deep sleep (*suṣupti*). As articulated in the *Māṇḍūkya Upaniṣad*, while the contents of awareness and bodily sensations appear and disappear across these states, consciousness itself persists uninterrupted as the transcendental witness (*sākṣin*). In the fourth state (*turīya*), consciousness is realized in its pristine, non-dual nature—unconditioned by mental fluctuations (*vṛttis*) or the dichotomy of knower, known, and act of knowing.
 
 ## The Root in the Upanishads
 

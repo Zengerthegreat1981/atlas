@@ -2,12 +2,14 @@
 slug: "thk-boss"
 id: "THK-0106"
 type: "مفكر"
-part: psychology
+part: "psychology"
 level: "متقدم"
 title: "Medard Boss"
 en: "Medard Boss"
 crumb: "Existential Psychotherapy ← People ← Medard Boss"
 dates: "Switzerland · 1903–1990"
+active_start: 1935
+active_end: 1990
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:

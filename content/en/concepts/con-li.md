@@ -21,37 +21,36 @@ related:
 - id: "thk-wang-yangming", title: "Wang Yangming (Wang Shouren)", type: "مفكر"
 gaps: []
 ---
+
 # Li — Ritual and Propriety
 
-A central concept in Confucianism, usually translated as "ritual," "etiquette," or "ceremony," though all three translations narrow its meaning. Li (禮) in the Confucian context is a **system of bodily and social practices** that shapes character before it regulates behaviour. Ritual is not a superficial rite, but a daily training in taking up the appropriate stance in every relationship. The concept is not unique to Confucius, since ritual practice long predates him, but it is central to the "Analects" (Lunyu), where it works hand in hand with "ren" (仁, humaneness): li is the outward form in which ren is embodied, as in the saying that to "overcome the self and return to li" is ren (Analects 12.1). It is also linked with "zhengming" (正名, rectification of names), which ties proper conduct to the roles and names a person bears.
+A foundational concept in Confucian ethical and political philosophy, *li* (禮) is conventionally translated as "ritual," "rites," "etiquette," or "propriety." However, standard translations often understate its philosophical scope. In classical Confucianism, *li* is an integrated system of embodied social practices, ceremonial forms, and moral decorum that cultivates personal character, regulates relationships, and sustains harmonious social order.
 
-## What Distinguishes It
+## Philosophical Function in the Analects
 
-- **Outward before inward**: li in the "Analects" begins from visible practice (funeral and mourning rites, greeting elders, conduct in assemblies) and is expected to become a settled disposition.
-- **It forms the self**: "One who does not understand li has no means to take a stand" (Analects 20.3). Learning here is not only an accumulation of information but the formation of a stable bearing.
-- **It regulates relationships concretely**: in the traditional five relationships (ruler–subject, father–son, husband–wife, elder–younger brother, friend–friend) there are different appropriate practices. There is no abstract, general li detached from roles.
-- **It sustains social order**: li is what holds society together by giving people shared forms of conduct and mutual deference.
+While formal sacrificial rituals predated Confucius (551–479 BCE), the *Analects* (*Lunyu*) transformed *li* from traditional aristocratic ceremonies into an ethical vehicle for moral self-cultivation:
+- **Interdependence with Ren (仁)**: *Li* operates in dynamic harmony with *ren* (humaneness or benevolence). While *ren* provides the inner moral orientation and genuine emotional sincerity, *li* supplies the objective, civilized forms through which humaneness is expressed. In a key passage, Confucius states that "to master oneself and return to ritual propriety is humaneness" (*keji fuli wei ren*, *Analects* 12.1). Without genuine feeling, ritual becomes empty posturing; without ritual, human feeling lacks civilized expression.
+- **Forming Character and Ethical Standing**: In *Analects* 20.3, Confucius remarks that "one who does not understand ritual has no means to take a stand" (*bu zhi li, wu yi li ye*). Moral education is not merely intellectual absorption of rules, but the acquisition of habituated, graceful dispositions.
+- **The Rectification of Names (*Zhengming*)**: *Li* anchors proper role-fulfillment (*Analects* 13.3). In the traditional "Five Relationships" (*wulun*—ruler and subject, father and son, husband and wife, elder and younger siblings, friend and friend), *li* specifies the reciprocal duties and mutual deference required of each role.
 
-## Difference from Similar Concepts
+## Conceptual Distinctions
 
-- It differs from law (法 fǎ) as the Legalists conceived it. Analects 2.3 contrasts guiding people by laws and punishments, so that they avoid punishment but lack shame, with guiding them by virtue and li, so that they develop a sense of shame and reform themselves.
-- It differs from mere custom (俗 sú): li is organized, learned, and consciously transmitted across generations.
-- It differs from religious ritual in much of the Abrahamic heritage: li includes sacrificial and ancestral rites, but it is also a social-ethical practice that covers everyday conduct.
+Confucian thinkers carefully contrasted *li* with other normative mechanisms:
+- **Contrast with Law (*Fa*, 法)**: In *Analects* 2.3, Confucius contrasts governance through penal law (*fa*) and punishments (*xing*) with governance through virtue (*de*) and ritual (*li*). Under coercive law, people seek merely to evade punishment and develop no sense of shame; guided by ritual, they acquire an inner moral sense and reform themselves voluntarily.
+- **Contrast with Mere Custom (*Su*, 俗)**: Unlike unconscious social habits, *li* represents an intentionally transmitted, aesthetically refined tradition endorsed by sages for ethical development.
+- **Contrast with Purely Transcendent Ritual**: Although *li* encompasses ancestral sacrifices and seasonal state rites, its primary focus remains human-centered, social, and immanent.
 
-## The Liji and Later Confucianism
+## Classical Development and Later Confucian Reception
 
-The "Liji" (Book of Rites), one of the Confucian classics, is a Han-era compilation that gathers earlier ritual materials and Confucian reflections on ritual. It treats li at length as ceremony, social regulation and moral cultivation, and so gives a fuller and more varied picture than the Analects alone.
-
-Xunzi (c. 310–c. 235 BCE) gave li a central place in his programme of education: since human nature (xing) tends toward disorder, the sages devised li to shape desires and establish social distinctions. In Neo-Confucianism, the later debate between Zhu Xi (1130–1200) and Wang Yangming (1472–1529) concerned a different word, 理 (li, "principle"), which Zhu Xi located in the structure of things and Wang located in the mind (xin 心). The two words are pronounced alike in modern Chinese but are distinct terms. In the twentieth century, thinkers such as Liang Shuming (梁漱溟), in *Eastern and Western Cultures and Their Philosophies* (1921), defended Confucian ethical life as a distinct cultural path.
-
-## Related Atlas Entries
-
-Atlas entries connected with this entry (from the `related` field) — these are internal references, not external sources:
-
-- *The Analects (Lunyu)*
+- **The Classic of Rites (*Liji*)**: Compiled in the Han dynasty from earlier Warring States materials, the *Liji* codified ritual regulations covering mourning rites, weddings, banquets, and political etiquette, presenting *li* as an all-encompassing cosmic and social pattern.
+- **Xunzi's Naturalistic Justification**: Xunzi (c. 310–c. 235 BCE) placed *li* at the core of his philosophy. Rejecting Mencius's claim that human nature is innately good, Xunzi argued that human nature (*xing*) is crude and inclined toward chaotic desires (*xing e*). The ancient sage kings instituted *li* and moral standards precisely to reshape desires, divide social roles equitably (*fen*), and prevent civil strife.
+- **Linguistic Clarification: Li (禮) vs. Li (理)**: In Neo-Confucianism, a distinct homophone became central: *li* (理, "principle" or "pattern"). In the philosophy of Zhu Xi (1130–1200) and Wang Yangming (1472–1529), 理 refers to the metaphysical pattern underlying reality and the mind, distinct from the ethical ritual forms of 禮.
+- **Modern Interpretations**: In twentieth-century scholarship, Herbert Fingarette (*Confucius: The Secular as Sacred*, 1972) offered an influential reading of *li* as performative, magical social interaction that transforms ordinary human encounters into sacred acts of mutual recognition.
 
 ## Sources
 
-- Confucius (and his disciples), *The Analects (Lunyu)*, compiled in the Warring States period; e.g. trans. D. C. Lau, Penguin, 1979.
+- Confucius, *The Analects* (*Lunyu*), trans. D. C. Lau, Penguin Books, 1979.
 - Herbert Fingarette, *Confucius: The Secular as Sacred*, Harper & Row, 1972.
 - Xunzi, *Xunzi: The Complete Text*, trans. Eric L. Hutton, Princeton University Press, 2014.
+- Benjamin I. Schwartz, *The World of Thought in Ancient China*, Harvard University Press, 1985.
+- Philip J. Ivanhoe, *Confucian Moral Self Cultivation*, Hackett Publishing, 2000.

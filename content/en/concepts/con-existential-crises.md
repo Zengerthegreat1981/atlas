@@ -11,6 +11,7 @@ edges:
   - rel: "discussed_in", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-authenticity", title: "Authenticity", type: "مفهوم"
+gaps: []
 ---
 # Existential Crises
 

@@ -7,14 +7,13 @@ level: "متقدم"
 title: "The Extended Mind Thesis: Does Cognition Extend Beyond the Skin?"
 en: "The Extended Mind Thesis: Does Cognition Extend Beyond the Skin?"
 crumb: "Philosophy ← Debates ← The Extended Mind Thesis"
-active_start: null
+active_start: 1998
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Analytic Philosophy of Mind", target_type: "مدرسة"
 related:
 - id: "thk-david-chalmers", title: "David Chalmers", type: "مفكر"
-gaps:
-  - "Later developments by Mark Rowlands and others (vehicle externalism, enactive approaches): not yet covered."
+gaps: []
 ---
 
 # The Extended Mind Thesis and Transcending the Limits of the Skull (Clark & Chalmers)
@@ -33,6 +32,12 @@ The proposal proceeds from "active externalism", an extension of Putnam's and Bu
 
 Opponents argue that there is a fundamental difference between mental states with intrinsic intentionality and external material tools that process dead symbols. Fred Adams and Kenneth Aizawa held, in their article published in *Philosophical Psychology* (2001) and their book *The Bounds of Cognition* (2008), that cognition is distinguished by the "mark of the cognitive", that is, original, not derived, intentionality, that the notebook does not possess it, and that the move from the notebook's "coupling" with the mind to its being a "constituent" of it is a fallacy. The researcher Robert Rupert added that internal memory has features (such as susceptibility to interference) that differ from an external record, so parity does not hold. Others warn of "cognitive bloat", since there is no limit to what could be counted as part of the mind. Clark replied, notably in *Supersizing the Mind* (2008), that what is required is parity of functional role, not identity of mechanism, and that the extended and biological parts may differ in their properties while still jointly constituting one cognitive system.
 
+## Later Developments: Vehicle Externalism and Enactive Cognition
+
+Subsequent philosophy of mind extended and contested the Clark-Chalmers framework in two major directions:
+- **Mark Rowlands and Vehicle Externalism**: Mark Rowlands (*The Body in Mind*, 1999; *Externalism*, 2003; *The New Science of the Mind*, 2010) systematized the distinction between "content externalism" (associated with Hilary Putnam and Tyler Burge, where semantic content depends on the external environment while the cognitive vehicle remains inside the head) and "vehicle externalism" (where the physical structures and processes that realize mental states extend into the environment). Rowlands developed an "amalgamated mind" model, arguing that cognitive processes are composed of both internal neural manipulations and external environmental manipulation of informational structures.
+- **Enactive and Embodied Critiques (4E Cognition)**: Theorists in enactive and embodied cognition—such as Alva Noë (*Action in Perception*, 2004) and Shaun Gallagher (*How the Body Shapes the Mind*, 2005)—welcomed the move beyond skull-bound cognition but criticized Clark and Chalmers' functionalism. Enactivists argue that the parity principle remains beholden to a computational and representational view of mind, treating external tools merely as supplementary memory registers. For enactivism, cognition is not the storage of representations across coupled systems, but the dynamic, bodily engagement (*sensorimotor coupling*) of an active organism with its world.
+
 ## Consequences in the Age of Artificial Intelligence
 
 The thesis redefines human identity under continuous integration with smartphones and generative algorithms, and raises ethical and legal questions: is disabling a device on which a patient depends an injury to the mind itself? Clark uses the idea in *Natural-Born Cyborgs* (2003) to say that the human being is by nature disposed to merge with his tools.
@@ -47,4 +52,6 @@ Functional parity alone is not enough to settle the dispute, because the opponen
 - Adams, Fred and Aizawa, Kenneth. *The Bounds of Cognition*. Oxford: Blackwell, 2008.
 - Clark, Andy. *Supersizing the Mind: Embodiment, Action, and Cognitive Extension*. Oxford University Press, 2008.
 - Rupert, Robert. "Challenges to the Hypothesis of Extended Cognition." *The Journal of Philosophy* 101(8), 2004: 389–428.
+- Rowlands, Mark. *The New Science of the Mind: From Extended Mind to Embodied Phenomenology*. Cambridge, MA: MIT Press, 2010.
+- Noë, Alva. *Action in Perception*. Cambridge, MA: MIT Press, 2004.
 - Menary, Richard (ed.). *The Extended Mind*. Cambridge, MA: MIT Press, 2010.

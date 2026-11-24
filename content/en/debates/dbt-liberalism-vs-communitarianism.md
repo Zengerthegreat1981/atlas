@@ -20,42 +20,34 @@ gaps: []
 
 # The Liberalism versus Communitarianism Debate
 
-The debate that shaped the last two decades of the twentieth century in Anglo-American political philosophy between the liberal "isolated self" and the communitarian "embedded self."
+The liberalism versus communitarianism debate dominated Anglo-American political and moral philosophy throughout the 1980s and 1990s. Sparked primarily by the publication of John Rawls's *A Theory of Justice* (1971), the controversy centered on the metaphysical and moral status of the self, the priority of the right over the good, and the degree to which individual identity is constituted by community membership and historical traditions.
 
-## The First Position: Liberalism (Rawls)
+## The First Position: Deontological Liberalism (Rawls)
 
-For the communitarians, the liberal self is "unencumbered": it precedes its ends and chooses them, as if it were "behind the veil of ignorance"; this is Sandel's characterization of Rawls's position, not Rawls's own phrase. The just society is the one that guarantees individual rights, not the one that expresses specific "shared values."
+In *A Theory of Justice*, John Rawls articulated a deontological framework designed to establish fair terms of social cooperation among free and equal citizens. Rawls proposed the thought experiment of the "original position," in which rational contractors choose principles of justice behind a "veil of ignorance"—deprived of knowledge concerning their social class, natural talents, historical generation, or particular conceptions of the good life.
 
-## The Second Position: Communitarianism (Sandel, MacIntyre, Taylor)
+From this impartial stance, Rawls derived two fundamental principles of justice: the greatest equal basic liberties principle and the difference principle (which permits socio-economic inequalities only if they work to the greatest benefit of the least advantaged). Central to Rawls's early model is the thesis that "the right is prior to the good": a just society does not enforce a shared substantive ideal of the good life, but instead provides a neutral institutional framework of basic liberties and resources within which individuals can freely define and pursue their own ends.
 
-The true self is "embedded": it is formed only within a "tradition," a "practice," and a "narrative." Liberal "neutrality" is an illusion that entrenches the culture of the dominant group. "Justice" is inseparable from the "common good."
+## The Second Position: Communitarian Critiques (Sandel, MacIntyre, Taylor, Walzer)
 
-## Why This Dispute Matters
+Communitarian theorists argued that liberal theory rests on an impoverished, atomistic conception of human agency. Michael Sandel, in *Liberalism and the Limits of Justice* (1982), argued that Rawls's original position presupposes an "unencumbered self"—a moral subject conceived as existing prior to, and independent of, its constitutive attachments, ends, and relationships. Sandel countered that real human selves are "embedded" in communal ties, family bonds, and cultural commitments that cannot simply be stepped back from or discarded at will.
 
-- It determined the nature of "citizenship" in pluralist societies.
-- It opened the door to Rawlsian "political liberalism" (1993) and to Taylor's "The Politics of Recognition" (1992).
-- It influenced cultural policy (protection of minorities, group rights).
+Alasdair MacIntyre, in *After Virtue* (1981), argued that modern moral discourse has fallen into incoherence because it severed virtues from the social practices and narrative unity of human life. For MacIntyre, a person can only answer the question "What am I to do?" by first answering "Of what story or stories do I find myself a part?"
 
-## Later Developments
+Charles Taylor, in "Atomism" (1979) and *Sources of the Self* (1989), challenged the liberal view that rights can be primary without an affirmative duty to sustain the communal, linguistic, and cultural conditions that make human flourishing and self-determination possible. Michael Walzer, in *Spheres of Justice* (1983), advocated for "complex equality," asserting that goods have specific social meanings within particular communities, and that justice requires distributing each good according to its culturally shared internal reasons rather than through a single, universal standard.
 
-- Rawls in "Political Liberalism" (1993) tried to absorb the critique with the theory of "overlapping consensus."
-- Nussbaum defended a "capabilities-based liberalism" as a compromise.
-- Feminism and Black feminism widened the debate beyond the individual/community duality.
+## Rawls's Reply and Later Developments
 
-## The Founding Texts
+Rawls directly addressed these criticisms in his 1985 essay "Justice as Fairness: Political not Metaphysical" and expanded his stance in *Political Liberalism* (1993). Rawls clarified that the original position is a heuristic "device of representation" rather than a metaphysical claim about the ontological independence of the soul. He argued that modern democratic societies are characterized by a permanent "fact of reasonable pluralism," making it impossible to ground justice on any single comprehensive religious, philosophical, or moral doctrine. Instead, political liberalism seeks an "overlapping consensus" among diverse reasonable doctrines, establishing justice as a freestanding political framework.
 
-The critique began early with Charles Taylor's essay "Atomism" (1979), which held that individual rights do not stand without a society that nurtures the capacities they protect. Then came MacIntyre's book "After Virtue" (1981), restoring the standing of virtues, practices, and narratives as the condition of morality, and Sandel's book "Liberalism and the Limits of Justice" (1982), which discussed the "unencumbered self" in Rawls's original position, then Michael Walzer's book "Spheres of Justice" (1983), which defended a plurality of distributive criteria according to the social meanings of each good.
-
-## Rawls's Reply and the Limits of the Label
-
-Rawls replied in his article "Justice as Fairness: Political not Metaphysical" (1985) that the original position is a device of representation, not a conception of the essence of the human being, and that its principles concern the basic structure of society, not a theory of the self. Ironically, the most prominent of those to whom this current is attributed rejected the name: MacIntyre explicitly denied being a communitarian, and Sandel preferred to describe his position as civic republicanism, while the name afterward became the title of a political movement with Amitai Etzioni in the 1990s. Critics such as Will Kymlicka and Amy Gutmann hold that the communitarians misunderstood liberalism, since liberal rights also protect the individual's freedom to revise his ends and to leave his community.
+Many prominent figures associated with the communitarian label resisted it: MacIntyre disavowed communitarianism, while Sandel emphasized civic republicanism. Liberal philosophers such as Will Kymlicka and Amy Gutmann argued that liberal rights do not presuppose atomistic isolation; rather, they provide the necessary freedom for individuals to critically reflect upon, revise, or exit communal affiliations when those traditions become oppressive.
 
 ## Sources
 
-- Sandel, Michael. Liberalism and the Limits of Justice. Cambridge: Cambridge University Press, 1982.
-- MacIntyre, Alasdair. After Virtue: A Study in Moral Theory. London: Duckworth, 1981.
-- Taylor, Charles. Sources of the Self: The Making of the Modern Identity. Cambridge, MA: Harvard University Press, 1989.
-- Walzer, Michael. Spheres of Justice. New York: Basic Books, 1983.
-- Rawls, John. "Justice as Fairness: Political not Metaphysical." Philosophy and Public Affairs 14, no. 3 (1985).
-- Gutmann, Amy. "Communitarian Critics of Liberalism." Philosophy and Public Affairs 14, no. 3 (1985).
-- Kymlicka, Will. Contemporary Political Philosophy: An Introduction. Oxford: Oxford University Press, 1990.
+- Sandel, Michael J. *Liberalism and the Limits of Justice*. Cambridge: Cambridge University Press, 1982.
+- MacIntyre, Alasdair. *After Virtue: A Study in Moral Theory*. London: Duckworth, 1981.
+- Taylor, Charles. *Sources of the Self: The Making of the Modern Identity*. Cambridge, MA: Harvard University Press, 1989.
+- Walzer, Michael. *Spheres of Justice: A Defense of Pluralism and Equality*. New York: Basic Books, 1983.
+- Rawls, John. *Political Liberalism*. New York: Columbia University Press, 1993.
+- Rawls, John. "Justice as Fairness: Political not Metaphysical." *Philosophy & Public Affairs* 14, no. 3 (1985): 223–251.
+- Kymlicka, Will. *Liberalism, Community, and Culture*. Oxford: Clarendon Press, 1989.

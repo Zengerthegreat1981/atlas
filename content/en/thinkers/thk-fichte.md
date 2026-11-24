@@ -58,8 +58,9 @@ In *The Closed Commercial State* (1800) he called for a state that regulates the
 
 - **Versuch einer Kritik aller Offenbarung** (1792): Attempt at a Critique of All Revelation.
 - **Grundlage der gesamten Wissenschaftslehre** (1794): Foundations of the Entire Science of Knowledge.
-- **Grundlage des Naturrechts** (1796-1797): Foundations of the Philosophy of Natural Right.
+- **Grundlage des Naturrechts** (1796-1797): Foundations of Natural Right.
 - **System der Sittenlehre** (1798): The System of Ethics.
+- **Der geschlossene Handelsstaat** (1800): The Closed Commercial State.
 - **Reden an die deutsche Nation** (1808): Addresses to the German Nation.
 
 ## Limits and Criticism

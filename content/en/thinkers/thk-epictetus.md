@@ -21,7 +21,7 @@ gaps: []
 ---
 # Epictetus
 
-A Stoic philosopher who spoke Greek, born a slave in Hierapolis in Phrygia and later freed; he was expelled from Rome with the other philosophers under Domitian and founded his school in Nicopolis. He did not write a single word himself; everything that remains of him is the record of his student Arrian. He shaped late Stoicism as a purely practical method, and set out the principle of the "dichotomy of control", which distinguishes what is under our direct control (our thoughts, desires, judgments, and decisions) from what we do not control (our bodies, possessions, reputation, and the events of the external world).
+An influential Stoic philosopher of the Roman imperial era who taught in Greek, born a slave in Hierapolis in Phrygia and later freed; he was expelled from Rome with the other philosophers under Domitian and founded his school in Nicopolis. He did not write a single word himself; everything that remains of him is the record of his student Arrian. He shaped late Stoicism as a purely practical method, and set out the principle of the "dichotomy of control", which distinguishes what is under our direct control (our thoughts, desires, judgments, and decisions) from what we do not control (our bodies, possessions, reputation, and the events of the external world).
 
 ## Life and Formation
 
@@ -43,7 +43,7 @@ The *Enchiridion* begins by saying that some things are "up to us" (eph' hēmin)
 
 ## Reception and Influence
 
-The emperor Marcus Aurelius admired Epictetus and mentioned him in the *Meditations*, and Simplicius commented on the Handbook in the 6th century CE; then the monasteries of the Byzantine age adopted the Handbook and reworked it in Christian versions. In the modern age he became a source for cognitive psychology: Albert Ellis, founder of rational emotive therapy, and Aaron Beck, founder of cognitive therapy, cited Epictetus's statement on opinions and their effect on emotion. James Stockdale, the American prisoner in Vietnam who had read the Handbook before his capture, applied his teachings on endurance and published his reflections in *Courage Under Fire* (1993). Michel Foucault studied him in his lectures on the "hermeneutics of the subject" (1981–1982), and Pierre Hadot saw in the Stoic training "spiritual exercises". The dichotomy of control has today become material in self-help books.
+The emperor Marcus Aurelius admired Epictetus and mentioned him in the *Meditations*, and Simplicius commented on the Handbook in the 6th century CE; then the monasteries of the Byzantine age adopted the Handbook and reworked it in Christian versions. In the modern age he became a source for cognitive psychology: Albert Ellis, founder of Rational Emotive Behavior Therapy (REBT), and Aaron Beck, founder of cognitive therapy, cited Epictetus's statement on opinions and their effect on emotion. James Stockdale, the American prisoner in Vietnam who had read the Handbook before his capture, applied his teachings on endurance and published his reflections in *Courage Under Fire* (1993). Michel Foucault studied him in his lectures on the "hermeneutics of the subject" (1981–1982), and Pierre Hadot saw in the Stoic training "spiritual exercises". The dichotomy of control has today become material in self-help books.
 
 ## Limits and Criticism
 

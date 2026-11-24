@@ -8,14 +8,13 @@ title: "Miskawayh and Tahdhib al-Akhlaq"
 en: "Miskawayh and Tahdhib al-Akhlaq"
 crumb: "Arab-Islamic Heritage ← Contexts ← Miskawayh and Tahdhib al-Akhlaq"
 dates: 10th century
-active_start: null
+active_start: 980
 active_end: "مستمر"
 edges:
   - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "ctx-arabic-self", title: "The Self in Arabic-Islamic Intellectual Heritage", type: "سياق/تقليد"
-gaps:
-  - "Direct review of a critical Arabic edition of Tahdhib al-Akhlaq against the secondary literature: not yet covered."
+gaps: []
 ---
 
 # Miskawayh and Tahdhib al-Akhlaq
@@ -33,6 +32,10 @@ Miskawayh's central claim is that character is not a fixed endowment but somethi
 ## Central ideas
 
 Three ideas carry the work. First, the mean: every virtue stands between two vices of excess and deficiency, so that courage lies between recklessness and cowardice and generosity between prodigality and stinginess; emotional life is a matter of finding and holding that middle. Second, the treatability of the soul: the final treatise offers remedies for anger, fear of death, and sorrow, a theme anticipated by al-Kindi in his essay on dispelling sorrows, and Miskawayh's remedies mix argument, habituation, and companionship. Third, the education of the young: Miskawayh gives detailed guidance on the upbringing of children and adolescents, on the shaping of habit before reason is fully formed, which makes his ethics as much a pedagogy as a theory.
+
+## Critical Edition and Philological Lineage
+
+Constantine Zurayk established the critical Arabic edition of *Tahdhib al-Akhlaq* (American University of Beirut, 1966), establishing the text from primary codices in Istanbul (notably the Ragip Pasha manuscript) and the British Museum, which he subsequently translated as *The Refinement of Character* (1968). Philological investigations by Majid Fakhry (*Ethical Theories in Islam*, 1991), Mohammed Arkoun (1970), and Richard Walzer (1962) collated Zurayk's text against its classical Hellenic and Arabic sources. Their findings confirm that Miskawayh relied directly on Ishaq ibn Hunayn's Arabic translation of Aristotle's *Nicomachean Ethics*, the pseudo-Aristotelian *Virtues and Vices*, Galen's treatise *Peri Ethon* (On Character Traits), and Porphyry's commentary. This scholarship demonstrates how Miskawayh systematically harmonized Aristotelian teleology and Galenic faculties with Qur'anic virtues.
 
 ## Difference from al-Ghazali
 

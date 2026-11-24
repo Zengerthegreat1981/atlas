@@ -11,7 +11,7 @@ edges:
   - rel: "neighbour_of", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "dbt-unconscious", title: "The Unconscious Question", type: "جدل"
-gaps:[]
+gaps: []
 ---
 
 # Psychoanalysis
@@ -32,7 +32,7 @@ The difference shows up in the question each therapy asks. Psychoanalysis asks, 
 
 ## Three Routes Out of Analysis
 
-Binswanger, a friend and correspondent of Freud for thirty years, was the first to bring Heidegger into the clinic; his *Grundformen und Erkenntnis menschlichen Daseins* (1942) replaced Freud's drive theory with an analysis of the patient's world. Boss went further: a classically trained analyst, he studied with Heidegger directly and argued, in *Psychoanalysis and Daseinsanalysis* (1963; German original 1957), that psychoanalytic concepts could be re-grounded in phenomenology rather than metapsychology. Sartre took the most philosophical route, proposing in *Being and Nothingness* (1943) an "existential psychoanalysis" that drops the unconscious and reads a life for its fundamental project. Frankl's route was the sharpest break: formed in the Vienna circle, he parted from both Freud and Adler to build a therapy around meaning rather than drives. Yalom's was the most integrative, keeping a dynamic structure while changing its contents.
+Binswanger, a friend and correspondent of Freud for thirty years, was the first to bring Heidegger into the clinic; his *Grundformen und Erkenntnis menschlichen Daseins* (1942) replaced Freud's drive theory with an analysis of the patient's world. Boss went further: a classically trained analyst, he studied with Heidegger directly and argued, in *Psychoanalysis and Daseinsanalysis* (1963; German original 1957), that psychoanalytic concepts could be re-grounded in phenomenology rather than metapsychology. Sartre took the most philosophical route, proposing in *Being and Nothingness* (1943) an "existential psychoanalysis" that drops the unconscious and reads a life for its fundamental project. Frankl's route was the sharpest break: formed in Viennese psychiatric and psychoanalytic circles, he parted from both Freud and Adler to build a therapy around meaning rather than drives. Yalom's was the most integrative, keeping a dynamic structure while changing its contents.
 
 ## Contemporary Syntheses
 

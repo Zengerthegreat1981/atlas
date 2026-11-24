@@ -19,47 +19,51 @@ gaps: []
 
 # Miguel de Unamuno
 
-Miguel de Unamuno (1864–1936) is the Mediterranean voice of this tradition, and the closest to describing inner conflict as it is lived rather than as it is analysed. His central idea, the "tragic sense of life," names a struggle that cannot be resolved: between a reason that finds no proof of immortality and a heart that cannot bear extinction. The human being lives inside this tension; there is no exit from it, only the honesty of staying in it.
+Miguel de Unamuno y Jugo (1864–1936) was a Spanish essayist, novelist, poet, and philosopher, and the leading intellectual figure of Spain's "Generation of '98." Representing a distinct Mediterranean current of existential philosophy, Unamuno articulated inner conflict as a concrete, lived experience rather than an abstract theoretical system. His central concept, the "tragic sense of life," describes an irreconcilable existential tension within human consciousness: the clash between rational intellect, which finds no rational evidence for personal immortality, and the passionate affective heart, which refuses to accept absolute annihilation.
 
 ## Life and Career
 
-Unamuno was born on 29 September 1864 in Bilbao, to a Basque merchant family, and studied philosophy and letters in Madrid, taking his doctorate in 1884. In 1891 he won the chair of Greek at the University of Salamanca, and in 1900 he became the university's rector. He spent most of his life in Salamanca, writing novels, essays, poetry, and philosophy in the same breath.
+Unamuno was born on September 29, 1864 in Bilbao, Basque Country, Spain. He studied philosophy and letters at the University of Madrid, completing his doctorate in 1884 with a thesis on the origins and prehistory of the Basque people. In 1891 he was appointed to the chair of Greek language and literature at the University of Salamanca, and in 1900 he became the university's rector, an institution with which his intellectual life was permanently identified.
 
-His public life was as combative as his thought. In 1924 the dictator Miguel Primo de Rivera exiled him to Fuerteventura for criticising the regime; Unamuno left for France and lived in Paris and Hendaye until the dictatorship fell in 1930, when he returned as rector under the Republic. In October 1936, at the start of the Spanish Civil War, he spoke in the university hall at Salamanca against General Millán Astray, reportedly declaring that force wins but does not convince ("venceréis, pero no convenceréis"; the exact words of the exchange are known from later recollections and are disputed). He was removed from his post and placed under house arrest, and died on 31 December 1936.
+A passionate and outspoken public intellectual, Unamuno repeatedly confronted Spain's political establishments. In February 1924, his fierce opposition to the military dictatorship of General Miguel Primo de Rivera led to his removal from the rectorate and exile to the island of Fuerteventura in the Canary Islands. He escaped to France, living in Paris and then Hendaye near the Spanish border until Primo de Rivera's fall in 1930. He returned to Spain in triumph and was reinstated as rector under the Second Spanish Republic in 1931.
+
+At the outbreak of the Spanish Civil War in 1936, Unamuno initially expressed ambivalence toward the Republic and cautious hope that military intervention might restore order. However, he quickly became appalled by Nationalist brutality. On October 12, 1936, during the Día de la Raza ceremony in the grand hall of the University of Salamanca, Unamuno publicly confronted Nationalist General José Millán-Astray (founder of the Spanish Legion). Rebuking the fascistic slogans, Unamuno famously declared: "You will conquer, but you will not convince. You will conquer because you possess more than enough brute force, but you will not convince, because to convince means to persuade. And in order to persuade you would need what you lack: reason and right in the struggle." Following the confrontation, Unamuno was stripped of his rectorate and confined to his home under house arrest by Francoist authorities, dying in Salamanca on December 31, 1936.
 
 ## The Tragic Sense of Life
 
-The heart of Unamuno's thought is the hunger for immortality: human beings do not only want to know, they want to go on existing, and this personal longing comes before every proof. In *The Tragic Sense of Life* (1913) he sets out a conflict that never ends, between the heart that demands survival and the reason that finds the evidence insufficient to establish it. True faith, for Unamuno, is born from this conflict and does not abolish it — it is a "believing doubt," a faith that knows no rest. From this comes his recurring word *agonía* — struggle, wrestling — which he also made the title of his book on Christianity.
+At the center of Unamuno's philosophy is the yearning for personal persistence: human beings do not merely desire abstract knowledge, but passionately demand to preserve their individual consciousness forever (*el hambre de inmortalidad*). In his chief philosophical work, *Del sentimiento trágico de la vida en los hombres y en los pueblos* (*The Tragic Sense of Life in Men and Nations*, 1912/1913), he exposed the unresolvable deadlock between rational skepticism and vital hunger. 
 
-He understood Christianity itself as a struggle lived by the individual, not a ready-made doctrine, which brought him close to Kierkegaard, whom he read in Danish after learning the language for that purpose. And he rejected the abstract human being of academic philosophy: philosophy is written about a creature without a body, without death, without fear — but the one who philosophises is a being who will die.
+Reason dictates that individual consciousness terminates at biological death; yet the affective will revolts against extinction. Genuine faith, for Unamuno, does not overcome or abolish this contradiction through comfortable dogma. Instead, authentic faith is born out of despair and doubt—a "believing doubt" (*duda creyente*) that endures continuous struggle. This dynamic is captured in his concept of *agonía* (from the Greek for contest or struggle), which he elaborated in *La agonía del cristianismo* (*The Agony of Christianity*, 1925). Like Søren Kierkegaard—whom Unamuno admired and learned Danish specifically to read in the original—Unamuno rejected the disembodied, bloodless abstractions of academic philosophy. He insisted that authentic philosophy must begin with the "man of flesh and bone" (*el hombre de carne y hueso*): the concrete individual who is born, suffers, and will die.
 
-## The Man of Flesh and Blood
+## Philosophical Fiction and the Nivola
 
-Unamuno tested his philosophy in fiction. In *Mist* (1914), the hero meets his author and protests against his fate; in *Abel Sánchez* (1917) he explores envy; in *Saint Manuel Bueno, Martyr* (written 1930, published in a magazine in 1931 and as a book in 1933) a priest serves his parish by sustaining their faith in immortality while he himself lacks it. These philosophical novels let the reader experience the question of existence rather than merely reading about it. The same concern runs through *The Life of Don Quixote and Sancho* (1905), where he reads Cervantes's knight as the model of a faith that lives by its own wager.
-
-His style is part of his method: aphoristic, rhetorical, openly contradictory. He accepted contradiction as honest, because life, for him, is truer than logical consistency.
+Unamuno treated creative literature as a primary vehicle for existential inquiry:
+- In *Niebla* (*Mist*, 1914), a novel he termed a *nivola* to signal its departure from realistic conventions, the protagonist Augusto Pérez discovers he is a fictional creation and travels to Salamanca to confront his author (Unamuno himself), fiercely protesting his creator's decision to kill him off and raising fundamental questions regarding free will and human contingency before God.
+- In *Abel Sánchez* (1917), he produced a devastating psychological dissection of destructive passion, resentment, and envy (*cainismo*).
+- In *San Manuel Bueno, mártir* (*Saint Manuel Bueno, Martyr*, 1931/1933), a saintly village priest devotes his life to sustaining his parishioners' consoling faith in eternal life while privately suffering from total despair and inability to believe in personal immortality.
+- In *Vida de Don Quijote y Sancho* (*The Life of Don Quixote and Sancho*, 1905), Unamuno interpreted Cervantes's knight as the supreme exemplar of spiritual idealism and noble madness, staking his existence on a transcendent ideal against common sense.
 
 ## Influence and Critique
 
-Traditional Catholics in Spain objected that his writings made more room for doubt than for doctrine, and *The Tragic Sense of Life* was placed on the Index of Forbidden Books in 1957. Academic philosophers, among them José Ortega y Gasset, objected that his style was rhetorical and unsystematic, never rising to a conceptual system — a charge he embraced. His political positions also shifted, from support for the Republic to hesitation and then initial support for the rising, before he turned against it, which has left his image complicated and open to interpretation.
+Unamuno's style was deliberately unsystematic, paradoxical, and rhetorical, reflecting his conviction that living experience overflows logical systems. Traditional Catholic authorities condemned his heterodoxy, placing *The Tragic Sense of Life* on the Vatican's *Index Librorum Prohibitorum* in 1957. Contemporary philosophers, including José Ortega y Gasset, questioned his resistance to rigorous conceptual systematicity.
 
-Because he stands outside the German–French canon, Unamuno is almost absent from books on existential therapy, despite being closer than most to lived experience. That is a loss for the clinic: he gives language to people living an unresolvable contradiction — between a faith that will not settle and a doubt that brings no relief — a condition extremely common and poorly represented in the literature. The limit must be stated plainly: he was a writer and philosopher, not a therapist, and any therapeutic use of his ideas is a transfer that needs to be declared as such.
+While Unamuno is rarely included in the traditional canon of existential psychotherapy, his writings provide profound descriptive insights for clinical psychology. His phenomenology of spiritual torment, acute cognitive dissonance, and the struggle to maintain personal meaning amidst radical doubt describes a common dimension of existential suffering. However, Unamuno was a philosopher and literary figure, not a clinician, and his work does not offer empirical therapeutic techniques or diagnostic procedures.
 
 ## Key Works
 
-- *The Life of Don Quixote and Sancho* (1905)
-- *The Tragic Sense of Life* (1913)
-- *Mist* (1914)
-- *Abel Sánchez* (1917)
-- *The Agony of Christianity* (1925)
-- *Saint Manuel Bueno, Martyr* (1931/1933)
+- *Vida de Don Quijote y Sancho* (*The Life of Don Quixote and Sancho*, 1905).
+- *Del sentimiento trágico de la vida en los hombres y en los pueblos* (*The Tragic Sense of Life*, 1912/1913).
+- *Niebla* (*Mist*, 1914).
+- *Abel Sánchez: Una historia de pasión* (1917).
+- *La agonía del cristianismo* (*The Agony of Christianity*, 1925).
+- *San Manuel Bueno, mártir* (*Saint Manuel Bueno, Martyr*, 1931/1933).
 
 ## Sources
 
-- Unamuno, Miguel de. *The Tragic Sense of Life in Men and Nations*. Madrid: Renacimiento, 1913.
-- Unamuno, Miguel de. *Mist*. Madrid: Renacimiento, 1914.
-- Unamuno, Miguel de. *The Agony of Christianity*. Paris: Rieder, 1925 (first published in French).
-- Unamuno, Miguel de. *Saint Manuel Bueno, Martyr*. Madrid: Espasa-Calpe, 1933.
-- Nozick, Martin. *Miguel de Unamuno: The Agony of Belief*. Princeton: Princeton University Press, 1982.
-- Rudd, Margaret Thomas. *The Lone Heretic: A Biography of Miguel de Unamuno y Jugo*. Austin: University of Texas Press, 1963.
-- Ilie, Paul. *Unamuno: An Existential View of Self and Society*. Madison: University of Wisconsin Press, 1967.
+- Unamuno, M. de (1913). *Del sentimiento trágico de la vida en los hombres y en los pueblos*. Madrid: Renacimiento.
+- Unamuno, M. de (1914). *Niebla*. Madrid: Renacimiento.
+- Unamuno, M. de (1925). *La agonía del cristianismo*. Paris: F. Rieder (first published in French as *L'Agonie du christianisme*).
+- Unamuno, M. de (1933). *San Manuel Bueno, mártir, y tres historias más*. Madrid: Espasa-Calpe.
+- Nozick, M. (1982). *Miguel de Unamuno: The Agony of Belief*. Princeton: Princeton University Press.
+- Rudd, M. T. (1963). *The Lone Heretic: A Biography of Miguel de Unamuno y Jugo*. Austin: University of Texas Press.
+- Ilie, P. (1967). *Unamuno: An Existential View of Self and Society*. Madison: University of Wisconsin Press.

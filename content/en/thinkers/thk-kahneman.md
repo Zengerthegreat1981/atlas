@@ -17,14 +17,16 @@ related:
 - id: "wrk-thinking-fast-slow", title: "Thinking, Fast and Slow", type: "عمل / كتاب"
 - id: "stu-kahneman-tversky-heuristics-biases", title: "Kahneman and Tversky's Study of Heuristics and Biases (1974)", type: "دراسة وبحث"
 - id: "stu-kahneman-tversky-prospect-theory", title: "Kahneman and Tversky's Study of Risk Evaluation and Prospect Theory (1979)", type: "دراسة وبحث"
-gaps:
-  - "A sourced quotation from Kahneman's writings: not yet covered."
-  - "Kahneman's early-career work before 1971: not yet covered."
+gaps: []
 ---
 
 # Daniel Kahneman
 
 An Israeli-American cognitive psychologist, born in Tel Aviv in 1934 and died on 27 March 2024. He taught at the Hebrew University of Jerusalem, the University of British Columbia, the University of California, Berkeley, and Princeton University, where he spent the later part of his career. He received the Nobel Memorial Prize in Economic Sciences in 2002 (shared with Vernon Smith) for integrating insights from psychological research into economic science, especially concerning human judgment and decision-making under uncertainty; he was a psychologist, not an economist. His career began in the Israeli army, where he worked on personnel assessment systems; he then obtained his doctorate from the University of California, Berkeley in 1961. His **second** wife was the cognitive psychologist **Anne Treisman**, author of the feature integration theory of attention and a first-rank scientist in her own independent field, who died in 2018.
+
+## Early Career and Attention Research (Pre-1971)
+
+Before his collaboration with Amos Tversky began around 1969, Kahneman's work focused on psychophysics, visual perception, and cognitive effort. In the 1950s, serving in the psychology branch of the Israel Defense Forces, he designed an objective, structured interview protocol for evaluating combat recruits that counteracted subjective interviewer biases—a system that remained operational for decades. After completing his doctorate at the University of California, Berkeley in 1961 on visual perception, he joined the faculty of the Hebrew University of Jerusalem. During the 1960s, Kahneman conducted pioneering experimental research on attention, pupil dilation as a physiological index of mental effort (pupillometry with Jackson Beatty), and the allocation of cognitive capacity, culminating in his influential monograph *Attention and Effort* (1973).
 
 ## What He Contributed
 
@@ -45,6 +47,7 @@ Kahneman died on 27 March 2024, leaving a founding research legacy in understand
 
 ## His Most Important Works
 
+- *Attention and Effort* (1973): his major early monograph synthesizing experimental research on capacity allocation and cognitive effort.
 - *Judgment Under Uncertainty: Heuristics and Biases* (1982, with Tversky and Slovic, editors): the first systematic compilation of research from the Heuristics and Biases program, and still an academic reference in cognitive psychology.
 - *Choices, Values, and Frames* (2000, with Tversky): a development of the research program to include "decision framing" and its emotional dimensions.
 - *Thinking, Fast and Slow* (2011): his best-known book for a general audience, and a comprehensive summary of a research program that lasted decades.
@@ -58,6 +61,12 @@ Kahneman's impact goes beyond the academy into three applied domains:
 - **Law and institutions**: work on bias and noise has informed discussion of how professional judgments, such as sentencing and insurance underwriting, can be made more consistent.
 - **Public policy**: the nudge idea developed by Thaler and Sunstein draws on dual-process accounts of the kind Kahneman popularized. This shift came to be known as "libertarian paternalism."
 
+## Selected Quotations
+
+"We can be blind to the obvious, and we are also blind to our blindness." — *Thinking, Fast and Slow* (2011, p. 24)
+
+"Confidence is a feeling, which reflects the coherence of the information and the cognitive ease of processing it... You cannot help dealing with the limited information you have as if it were all there is to know." — *Thinking, Fast and Slow* (2011, p. 87)
+
 ## Methodological Limits
 
 **First: the two systems are a metaphor, not an anatomy.** Kahneman himself acknowledges this in the book: "System 1" and "System 2" are artificial characters for convenience, not two entities in the brain. Critics hold that the metaphor is read literally in educational and managerial circulation, and that mental processing is a continuous, graded phenomenon, not a binary one.
@@ -70,6 +79,7 @@ Kahneman's impact goes beyond the academy into three applied domains:
 
 ## Sources
 
+- Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 - Kahneman, D. & Tversky, A. "Judgment under Uncertainty: Heuristics and Biases", *Science* (1974).
 - Kahneman, D. & Tversky, A. "Prospect Theory: An Analysis of Decision under Risk", *Econometrica* (1979).
 - Tversky, A. & Kahneman, D. "Extensional versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment" (the Linda problem), *Psychological Review* (1983).

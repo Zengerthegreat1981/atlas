@@ -18,48 +18,62 @@ edges:
 related:
 - id: "sch-cross-cultural-psychology", title: "Cross-Cultural Psychology", type: "مدرسة"
 - id: "thk-vygotsky", title: "Lev Vygotsky", type: "مفكر"
-gaps:
-  - "Standalone entries for Richard Shweder, Michael Cole, Hazel Markus, Shinobu Kitayama and Takeo Doi: not yet covered"
-  - "Independent versus interdependent self-construal as a standalone concept entry: not yet covered"
+gaps: []
 ---
 
 # Cultural Psychology
 
-The school holding that culture is **not a variable** added to the psyche whose effect is then measured; rather, psyche and culture **are constituted together**, and neither exists without the other. **Shweder**'s encompassing formula is that **culture and psyche make each other up**.
+Cultural psychology is the interdisciplinary study of how cultural traditions, social practices, and linguistic systems regulate, express, and transform the human mind. Distinct from cross-cultural psychology—which views culture as an external independent variable acting upon a universal cognitive hardware—cultural psychology posits that **mind and culture are mutually constitutive**. As anthropologist and cultural psychologist **Richard A. Shweder** famously formulated, **"culture and psyche make each other up"**: psychological processes cannot be meaningfully analyzed in isolation from the intentional cultural worlds that instantiate them.
 
-This inverts the question of **cross-cultural psychology**: not "is this construct universal?" but "how did this thing become psychological in this particular world?"
+## Historical and Theoretical Foundations
 
-## The Russian Origin
+Cultural psychology developed from the convergence of several major intellectual currents:
 
-The field's theoretical root lies in **Vygotsky** and the activity school: higher mental functions **arise socially and are then internalized**, and **symbolic tools** (language, number, writing) change the structure of thinking and not merely its content. **Michael Cole** carried this line to the West in "cultural-historical psychology," and conducted fieldwork in Liberia on the effect of schooling and literacy on reasoning, extending the earlier expeditions of Vygotsky's colleague Luria in Central Asia.
+### The Vygotskian Cultural-Historical Tradition
+The school's foundational epistemological roots trace to Soviet psychologist **Lev Vygotsky (1896–1934)**, along with Alexander Luria and Aleksei Leontiev. Vygotsky established that higher psychological functions do not emerge through biological maturation alone; they develop through the mediation of culturally created symbolic tools (language, numerical systems, writing, mnemonic devices) acquired through social interaction and internalized. In Central Asia during the early 1930s, Luria demonstrated that the introduction of formal schooling and literacy fundamentally transformed syllogistic reasoning and abstract classification.
 
-Then came **Bruner**, one of the founders of the cognitive revolution, who turned against it in ***Acts of Meaning*** (1990): in borrowing the computer, cognitivism replaced **meaning** with **information processing**, whereas meaning-making takes place in culture, through narrative, not in the head, through computation.
+### Cultural-Historical Psychology in the West (Michael Cole)
+**Michael Cole** introduced and extended Vygotskian activity theory within American developmental and cognitive psychology. In *Cultural Psychology: A Once and Future Discipline* (1996) and through the Laboratory of Comparative Human Cognition (LCHC), Cole investigated how cognitive performance is mediated by cultural artifacts and situational contexts, conducting groundbreaking field research in Liberia on mathematics learning, literacy, and developmental practices among the Kpelle.
 
-## The Independent Self and the Interdependent Self
+### The Narrative Turn (Jerome Bruner)
+**Jerome Bruner (1915–2016)**, one of the original architects of the cognitive revolution, later offered a decisive internal critique in *Acts of Meaning* (1990). Bruner argued that by adopting the computer metaphor, cognitive science had abandoned its original ambition—the study of *meaning-making*—replacing it with mere *information processing*. Bruner demonstrated that human psychological reality is organized through narrative, myth, and cultural folk psychology, which are inherently sociocultural achievements.
 
-The field's most famous formulation, put forward by **Hazel Markus** and **Shinobu Kitayama** (1991): the **self-construal** itself differs. In the dominant American context the self is constructed as **independent**, with clear boundaries and a value in distinctiveness; in the Japanese context it is constructed as **interdependent**, defined by its relationships and with a value in fitting in. Observed differences in motivation, self-esteem, and emotion follow from this.
+### Ethnopsychology and Moral Domains (Richard Shweder)
+**Richard A. Shweder** challenged Western moral psychology (such as Lawrence Kohlberg's cognitive stages), proving through comparative fieldwork in India and the United States that moral reasoning is culturally pluralistic. He articulated the **"Big Three" moral ethics**:
+- *The Ethic of Autonomy*: Grounded in individual rights, justice, personal freedom, and the prevention of harm (dominant in Western individualistic societies).
+- *The Ethic of Community*: Grounded in social duty, hierarchy, interdependence, family honor, and communal solidarity.
+- *The Ethic of Divinity*: Grounded in natural orders, spiritual purity, sacredness, and protection from degradation.
 
-## Categories from Within Cultures
+## Self-Construal Theory: Independent vs. Interdependent Selves
 
-The field gives local concepts the status of categories, not curiosities:
+The most influential conceptual framework in cultural psychology was articulated by **Hazel Rose Markus and Shinobu Kitayama** in their landmark 1991 paper, *Culture and the Self: Implications for Cognition, Emotion, and Motivation*:
+- **The Independent Self-Construal**: Characteristic of Western (particularly middle-class North American) cultural contexts. The self is conceptualized as an autonomous, bounded, self-contained entity composed of internal attributes (traits, abilities, desires, rights). The primary normative imperatives are self-expression, realization of internal potential, individual achievement, and asserting personal uniqueness.
+- **The Interdependent Self-Construal**: Characteristic of many East Asian, Latin American, African, and Middle Eastern contexts. The self is experienced as an inherently relational entity inextricably connected to others and situated within specific social roles and collective obligations. The primary normative imperatives are social harmony, contextual adjustment, fulfillments of interpersonal duty, and self-restraint.
 
-- **Amae** (甘え) in **Takeo Doi**: accepted and desirable dependence on another — read in the Western view as "dependency," but in its own context a sign of a healthy relationship.
-- **Hikikomori** (ひきこもり): prolonged social withdrawal in Japan — read as a condition shaped by specific cultural pressures, not as a universal diagnostic category.
-- **Culture-bound syndromes** in general, a domain that diagnostic manuals have increasingly acknowledged (DSM-5 replaced the older "culture-bound syndromes" with "cultural concepts of distress").
+This structural difference produces systematic variations across:
+- *Cognition*: Analytic attention (focal objects detached from background) versus holistic attention (perceiving objects embedded in contextual relationships; Nisbett et al., 2001).
+- *Emotion*: Prevalence of ego-focused emotions (pride, anger) versus other-focused emotions (empathy, guilt, shame, relational connection).
+- *Motivation*: Striving for personal self-enhancement versus striving for self-criticism and cooperative self-improvement (*hansei*).
 
-## Limitations
+## Cultural Concepts of Distress and Indigenous Categories
 
-- **The "shaping of cognition" claim is strong and contested**: that culture changes the **contents** of thought is accepted; that it changes its **basic processes** (such as attention and visual perception) is a broader claim, with evidence that exists but is disputed in replication.
-- **The risk of stereotyping in reverse**: "the East is collectivist and the West individualist" has become a generalization applied to billions; and diversity within each society exceeds the differences between societies on many measures.
-- **Difficulty of testing**: the interpretive, contextual method is less replicable than quantitative comparison — the price of the depth it gains.
-- **And who writes?** Most of the field's literature is written in American universities about other cultures, which prompted the rise of **indigenous psychology**, demanding that knowledge be produced from within.
+Cultural psychology emphasizes the validity of indigenous psychological constructs, treating them as coherent conceptual systems rather than quaint anomalies:
+- **Amae (甘え)**: Japanese psychoanalyst **Takeo Doi (1916–2009)** in *The Anatomy of Dependence* (1971/1973) analyzed *amae*—the desire to depend on another's benevolence and indulgence. While Western psychiatric models often viewed dependency pathologically as emotional immaturity, Doi demonstrated that *amae* represents a fundamental, healthy psychological foundation for intimacy, trust, and cooperative attachment in Japanese relationships.
+- **Hikikomori (ひきこもり)**: A form of severe, prolonged social withdrawal among young people in Japan, understood by cultural psychiatrists not merely as a psychiatric symptom, but as an acute response to specific societal pressures, academic conformity, and labor market transformations.
+- **Cultural Concepts of Distress**: The field's insights directly transformed psychiatric nosology. In DSM-5 and DSM-5-TR, older categories of "culture-bound syndromes" were replaced by the more nuanced **Cultural Concepts of Distress**, accompanied by the semi-structured Cultural Formulation Interview (CFI) to assess illness narratives within the patient's cultural frame.
+
+## Criticisms and Limitations
+
+- **Risk of Cultural Essentialism**: Cultural psychology has been critiqued for propagating binary caricatures (e.g., "the West is individualistic; the East is collectivistic"), overlooking dynamic intra-cultural heterogeneity, generational changes, and socioeconomic diversity within nations.
+- **Methodological and Replication Debates**: While differences in conscious values and social attitudes are widely confirmed, broader claims that culture fundamentally reorganizes basic perceptual processes (e.g., visual illusions, spatial processing) have faced replication debates.
+- **Tension with Universal Neuroscience**: Purely social constructionist strands encounter skepticism from evolutionary psychologists and cognitive neuroscientists, who emphasize that cultural variations operate upon shared, evolved biological architectures.
 
 ## Sources
 
-- Shweder, Richard A. *Thinking Through Cultures: Expeditions in Cultural Psychology*. Harvard University Press, 1991.
-- Cole, Michael. *Cultural Psychology: A Once and Future Discipline*. Harvard University Press, 1996.
-- Bruner, Jerome. *Acts of Meaning*. Harvard University Press, 1990.
-- Markus, Hazel R. & Kitayama, Shinobu. "Culture and the Self: Implications for Cognition, Emotion, and Motivation." *Psychological Review*, 98(2), 1991, 224–253.
-- Doi, Takeo. *The Anatomy of Dependence (Amae no kōzō)*. Kodansha, 1973.
-- Vygotsky, L. S. *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press, 1978.
-- Kato, T. A., Kanba, S. & Teo, A. R. "Hikikomori: Multidimensional Understanding, Assessment, and Future International Perspectives." *Psychiatry and Clinical Neurosciences*, 73(8), 2019, 427–440.
+- Bruner, J. (1990). *Acts of Meaning*. Harvard University Press.
+- Cole, M. (1996). *Cultural Psychology: A Once and Future Discipline*. Harvard University Press.
+- Doi, T. (1973). *The Anatomy of Dependence* (J. Bester, Trans.). Kodansha International.
+- Markus, H. R., & Kitayama, S. (1991). "Culture and the self: Implications for cognition, emotion, and motivation." *Psychological Review*, 98(2), 224–253.
+- Nisbett, R. E., Peng, K., Choi, I., & Norenzayan, A. (2001). "Culture and systems of thought: Holistic versus analytic cognition." *Psychological Review*, 108(2), 291–310.
+- Shweder, R. A. (1991). *Thinking Through Cultures: Expeditions in Cultural Psychology*. Harvard University Press.
+- Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.

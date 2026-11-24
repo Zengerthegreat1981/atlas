@@ -2,7 +2,7 @@
 slug: "sch-phil-science"
 id: "SCH-0243"
 type: "مدرسة"
-part: philosophy
+part: "philosophy"
 level: "متوسط"
 title: "Philosophy of Science (umbrella)"
 en: "Philosophy of Science (umbrella)"
@@ -17,8 +17,7 @@ edges:
 - rel: "split_into", target: "Scientific Realism", target_type: "مدرسة"
 related:
 - id: "thk-thomas-kuhn", title: "Thomas Samuel Kuhn", type: "مفكر"
-gaps:
-  - "Relation of philosophy of science to the history of science as an independent field: not yet covered."
+gaps: []
 ---
 
 # Philosophy of Science
@@ -55,6 +54,10 @@ David Bloor founded the "Strong Programme" in the sociology of scientific knowle
 - Kuhn was criticized for the vagueness of the meaning of "paradigm" and on a charge of relativism, which he later softened.
 - Social movements accuse traditional philosophy of science of neglecting the role of institutions, values, and power.
 - These inquiries do not settle the relation between philosophy of science and its history; Kuhn himself called for linking them, and the connection remained a matter of dispute.
+
+## Philosophy of Science and the History of Science
+
+The institutional and methodological relationship between the philosophy of science and the history of science underwent major transformations during the twentieth century. In the era of logical positivism and early falsificationism, philosophers sharply demarcated the rational "context of justification" from the contingent "context of discovery," treating philosophy of science as an autonomous, normative enterprise focused on logical reconstruction and confirmation theory. Following N. R. Hanson's *Patterns of Discovery* (1958) and especially Thomas Kuhn's *The Structure of Scientific Revolutions* (1962), a major "historical turn" challenged this separation, arguing that normative models must be tested against actual historical practice. Imre Lakatos famously adapted Kant's dictum: "Philosophy of science without history of science is empty; history of science without philosophy of science is blind." This led to the creation of integrated History and Philosophy of Science (HPS) academic departments. Nonetheless, tensions persist: professional historians of science tend to prioritize local context, archival contingency, and sociological detail, whereas philosophers often seek general epistemic norms, demarcation criteria, and rational reconstructions across scientific episodes.
 
 ## Sources
 

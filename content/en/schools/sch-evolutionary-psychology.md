@@ -5,7 +5,7 @@ part: psychology
 title: "Evolutionary Psychology"
 en: "Evolutionary Psychology"
 crumb: "Psychology ← Schools ← Evolutionary Psychology"
-dates: ""
+dates: "1980s to the present"
 parent: "major schools"
 edges:
 related:
@@ -28,7 +28,7 @@ Evolutionary psychology applies the principles of evolution and natural selectio
 - David Buss: sexual selection, the psychology of mating
 - Martin Daly and Margo Wilson: homicide and domestic violence from an evolutionary perspective
 - Randy Thornhill and Craig Palmer: *A Natural History of Rape* (2000) and the controversy over rape as an adaptation
-- Steven Pinker: How the Mind Works, the evolutionary synthesis
+- Steven Pinker: *How the Mind Works* (1997), the evolutionary synthesis
 
 **Contemporary (2000s to the present):**
 - Evolutionary clinical psychology: dysfunction as malfunction or by-product

@@ -22,8 +22,7 @@ edges:
 related:
 - id: "con-motivational-interviewing-oars", title: "The OARS Technique in Motivational Interviewing", type: "مفهوم"
 - id: "thk-rogers", title: "Carl Rogers", type: "مفكر"
-gaps:
-  - "Application in Arab contexts (addiction, chronic illness): not yet covered"
+gaps: []
 ---
 
 # Motivational Interviewing
@@ -100,6 +99,14 @@ Motivational interviewing has been tested in hundreds of randomized controlled t
 - **Brief therapy**: it shines in short settings (1-4 sessions), such as emergency rooms and addiction units.
 - **Heterogeneity**: effects vary with the quality of delivery, the target behavior, and the comparison condition.
 
+## Applications in Arab Contexts
+
+Motivational interviewing has increasingly been adapted and researched in Arab and Middle Eastern clinical and public health contexts, primarily in two domains:
+
+- **Chronic illness management**: In countries with high burdens of lifestyle-related metabolic diseases (such as Saudi Arabia, Egypt, Jordan, and the United Arab Emirates), MI-based counseling has been incorporated into primary care interventions for type 2 diabetes mellitus, cardiovascular risk reduction, and hypertension. Clinical trials in the region demonstrate that culturally adapted MI improves glycemic control (HbA1c levels), diet adherence, and physical activity by framing behavioral change within daily routines and family meals.
+- **Substance use and smoking cessation**: MI is utilized in regional addiction rehabilitation programs (such as specialized addiction centers in Egypt and the Gulf) and for tobacco cessation targeting both cigarette and waterpipe (shisha) smoking.
+- **Cultural adaptations**: The core Western assumptions of MI—strict individual autonomy and self-determination—require nuanced adjustments in collectivist Arab societies. Successful regional adaptations incorporate: (1) **familial involvement**, recognizing that behavioral change is often negotiated within the extended family rather than by the individual alone; (2) **religious values clarification**, linking personal motivation and health preservation to spiritual values of bodily stewardship and communal responsibility; and (3) **managing authority expectations**, actively bridging the traditional patient expectation of an authoritative, directive physician with MI's collaborative, egalitarian stance without generating client alienation.
+
 ## The Spirit of MI
 
 Motivational interviewing avoids confrontation, argument, and blaming the client, and tries to resist the "righting reflex," the urge to fix the person's problem for them. Through OARS skills, the therapist helps the client explore the discrepancy between his current actions and his deeper values and goals, and elicits "change talk" that comes from the client himself. MI shares with Carl Rogers' humanistic school the principle of client-centeredness and reflective listening, but adds a deliberate direction toward change.
@@ -114,6 +121,7 @@ Unlike contingency management, which reinforces abstinence with external materia
 - Miller, W. R., & Rollnick, S. (1991). *Motivational Interviewing: Preparing People to Change Addictive Behavior*. Guilford Press.
 - Miller, W. R., & Rollnick, S. (2002). *Motivational Interviewing: Preparing People for Change* (2nd ed.). Guilford Press.
 - Miller, W. R., & Rollnick, S. (2013). *Motivational Interviewing: Helping People Change* (3rd ed.). Guilford Press.
+- Miller, W. R., & Rollnick, S. (2023). *Motivational Interviewing: Helping People Change and Grow* (4th ed.). Guilford Press.
 - Rollnick, S., Miller, W. R., & Butler, C. C. (2008). *Motivational Interviewing in Health Care: Helping Patients Change Behavior*. Guilford Press.
 - Moyers, T. B., Manuel, J. K., & Ernst, D. (2014). *Motivational Interviewing Treatment Integrity Code (MITI 4.2.1)*. University of New Mexico.
 - Hettema, J., Steele, J., & Miller, W. R. (2005). Motivational interviewing. *Annual Review of Clinical Psychology, 1*, 91-111.

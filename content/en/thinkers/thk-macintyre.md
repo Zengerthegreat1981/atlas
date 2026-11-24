@@ -2,16 +2,16 @@
 slug: "thk-macintyre"
 id: "THK-1487"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Alasdair MacIntyre"
 en: "Alasdair MacIntyre"
 crumb: "Philosophy ← Thinkers ← Alasdair MacIntyre"
-dates: "Scotland/United States · born 1929"
+dates: "Scotland/United States · 1929–2025"
 country: "United States"
 language: "English"
-active_start: 1967
-active_end: "مستمر"
+active_start: 1953
+active_end: 2025
 edges:
 - rel: "belongs_to", target: "Communitarianism", target_type: "مدرسة"
 related:
@@ -23,52 +23,49 @@ gaps: []
 
 # Alasdair MacIntyre
 
-A Scottish-American moral and political philosopher born in 1929, and author of "After Virtue" (1981), which revived Aristotelian-Thomist ethics in confrontation with modern ethics. The "communitarian" current is attributed to him, though he himself rejected this classification.
+A Scottish-American moral and political philosopher (1929–2025), and author of *After Virtue* (1981), which revived Aristotelian-Thomist ethics in confrontation with modern moral philosophy. The "communitarian" current is frequently attributed to him, though he explicitly rejected this classification.
 
 ## Biography
 
-Alasdair MacIntyre was born in Glasgow in 1929, and studied at Queen Mary College, University of London, and then at Manchester. He began his intellectual life close to Marxism, writing "Marxism: An Interpretation" (1953) and "Marxism and Christianity" (1968), then moved away from both Marxism and liberalism. He taught at several British universities, among them Manchester, Leeds, Essex, and Oxford, and then moved to the United States in 1969, where he taught at universities including Brandeis, Boston, and Vanderbilt, and ended up at the University of Notre Dame in Indiana, entered the Catholic Church, and adopted Thomist thought.
+Alasdair Chalmers MacIntyre was born in Glasgow on 12 January 1929, and studied at Queen Mary College, University of London, and then at Manchester. He began his intellectual life close to Marxism, writing *Marxism: An Interpretation* (1953) and *Marxism and Christianity* (1968), before moving away from both Marxism and liberal theory. He taught at several British universities, among them Manchester, Leeds, Essex, and Oxford, and then relocated to the United States in 1969. There he taught at Brandeis, Boston University, Vanderbilt, and Duke, and concluded his academic career at the University of Notre Dame in Indiana, where he was appointed Rev. John A. O'Brien Senior Research Professor of Philosophy. During this later period he entered the Catholic Church and embraced Thomistic philosophy. MacIntyre died in South Bend, Indiana, on 21 May 2025 at the age of ninety-six.
 
 ## What He Contributed
 
-In "After Virtue," MacIntyre opens by imagining a world struck by a catastrophe that destroyed the natural sciences, leaving fragments of concepts without a theoretical framework. He says that contemporary moral language is in a similar situation: we are left with words such as duty, right, and utility, after they have been cut off from the historical and teleological context that gave them meaning. Emotivism, as in Stevenson and others, which holds that moral judgment is merely an expression of preference, is for him not a correct theory but an accurate description of the state of moral discourse in modernity. He held that the Enlightenment project of grounding ethics on reason alone did not succeed, and that the real choice is between Nietzsche and Aristotle.
+In *After Virtue*, MacIntyre opens with a thought experiment: a world struck by an environmental catastrophe that destroyed the natural sciences, leaving subsequent generations with fragmented terms and concepts severed from the theoretical frameworks that gave them meaning. He argues that contemporary moral discourse is in a similar state: modernity inherits vocabulary such as "duty," "right," and "utility" without the shared teleological framework that originally made moral judgments intelligible. Emotivism (as formulated by C. L. Stevenson and others)—which holds that moral evaluations are mere expressions of personal preference—is for MacIntyre not a correct philosophical theory of morality, but an accurate description of modern moral decay. He argues that the Enlightenment project of justifying morality on reason alone necessarily failed, and that the modern predicament presents a stark choice between Friedrich Nietzsche and Aristotle.
 
-In order to recover Aristotelianism, he defined virtue at three graduated levels:
+To reconstruct Aristotelian ethics, MacIntyre defines virtue through three interconnected levels:
 
-- **Practice**: a complex cooperative activity that has "internal goods" obtainable only by participating in it, such as chess, medicine, or farming, which differ from "external goods" such as money and status.
-- **The narrative unity of a life**: the human being is an agent whose identity is formed in a continuous story from birth to death, and who is asked about his actions within its framework.
-- **Tradition**: practices and narratives belong to a living tradition defined by a continuing debate about its goods.
+- **Practice**: Any coherent, complex form of socially established cooperative human activity through which "internal goods" are realized (such as chess, medicine, or farming), distinguished from "external goods" like money, fame, and status.
+- **The Narrative Unity of a Life**: The individual conceived as an agent whose moral identity unfolds in an intelligible story from birth to death, accountable to others within an ongoing narrative.
+- **Tradition**: Practices and individual narratives situated within living moral traditions defined by ongoing historical inquiry and debates over common goods.
 
-In "Whose Justice? Which Rationality?" (1988) and "Three Rival Versions of Moral Enquiry" (1990), he develops the idea of "rationality embedded in a tradition": there is no standard of reason outside traditions, and traditions are compared with one another by their ability to face their internal crises and to explain the failure of their rivals. In "Dependent Rational Animals" (1999) he adds that human vulnerability and need for others are not incidental to ethics but its foundation, so that the virtues of acknowledged dependence become part of the good life.
+In *Whose Justice? Which Rationality?* (1988) and *Three Rival Versions of Moral Enquiry* (1990), he develops the concept of "tradition-constituted rationality": reason is never abstract or tradition-neutral, and competing traditions can only be evaluated by their capacity to overcome their internal epistemological crises and explain the failures of their rivals. In *Dependent Rational Animals* (1999), he introduces biological vulnerability and dependence as foundational to human nature, arguing that virtues of acknowledged dependence are essential to flourishing.
 
 ## His Place in the Tradition
 
-MacIntyre is counted with Charles Taylor, Michael Sandel, and Michael Walzer among the most prominent names associated with what has been called "communitarianism" in the critique of liberalism, though he denied belonging to this current and criticized the modern state and capitalism together as hostile to the life of virtue. He restored, with Elizabeth Anscombe and Philippa Foot, the standing of virtue ethics within analytic philosophy.
-
-## Influence and Reception
-
-"After Virtue" was revised in a second edition (1984) with a postscript replying to critics, and a third edition (2007) with a new prologue. It became a reference in moral and political philosophy, moral theology, education, business ethics, and medicine, and greatly influenced the discussion of the meaning of "practice" in the professions.
+Along with Charles Taylor, Michael Sandel, and Michael Walzer, MacIntyre is widely associated with the communitarian critique of liberal political theory, although he rejected the communitarian label and criticized both the modern capitalist market and the bureaucratic nation-state as structurally hostile to virtue. Alongside Elizabeth Anscombe and Philippa Foot, he was instrumental in reviving virtue ethics within Anglo-American analytic philosophy.
 
 ## Practices and Institutions
 
-MacIntyre distinguishes between "practices" and the "institutions" that house them: the institution, such as a school, a company, or a hospital, is concerned with providing external goods of money, power, and status, and these same goods threaten to corrupt the internal goods of the practice. For this reason practices need the virtues of justice, courage, and truthfulness to protect them from the institution's encroachment. This idea is what made his book influential in professional ethics, management, and education, where the concept of practice is used to explain what is lost in management based on indicators alone. His concepts have entered discussions of moral education, where practice and virtue are cited to explain how one learns a profession whose internal values cannot be reduced to performance indicators.
+MacIntyre draws a sharp distinction between "practices" and the "institutions" that sustain them. While institutions (such as universities, hospitals, or corporations) are necessary to secure external resources (funds, facilities, power), their focus on external goods constantly threatens to corrupt the internal goods of the practice. Consequently, practices require the cardinal virtues of justice, courage, and truthfulness to preserve their integrity against institutional distortion. This distinction has had widespread influence in business ethics, medical ethics, and moral education.
 
 ## Limitation
 
-Liberals replied to him that he exaggerates in describing modernity as a moral collapse and ignores the gains of rights and equality, and critics held that his attachment to traditions opens the door to accepting unjust traditional systems. Others criticize the vagueness of the criterion of judgment among rival traditions, since he does not show how a dispute is settled when traditions fail to see their crises. He himself confined himself to describing the model of Thomas Aquinas as the best available tradition, not as having demonstrated it by a neutral proof.
+Liberal theorists have argued that MacIntyre overstates the moral incoherence of modernity and minimizes historical achievements in human rights and individual liberty. Other critics point to the difficulty of resolving disputes between rival traditions without an overarching neutral standard of rationality.
 
-## His Most Important Works
+## Major Works
 
-- *Marxism: An Interpretation* (1953).
-- *A Short History of Ethics* (1966).
-- *After Virtue* (1981).
-- *Whose Justice? Which Rationality?* (1988).
-- *Three Rival Versions of Moral Enquiry* (1990).
-- *Dependent Rational Animals* (1999).
+- *Marxism: An Interpretation* (1953)
+- *A Short History of Ethics* (1966)
+- *After Virtue* (1981)
+- *Whose Justice? Which Rationality?* (1988)
+- *Three Rival Versions of Moral Enquiry* (1990)
+- *Dependent Rational Animals* (1999)
+- *Ethics in the Conflicts of Modernity* (2016)
 
 ## Sources
 
-- MacIntyre, Alasdair. *After Virtue: A Study in Moral Theory*. Notre Dame: University of Notre Dame Press, 1981.
+- MacIntyre, Alasdair. *After Virtue: A Study in Moral Theory*. Notre Dame: University of Notre Dame Press, 1981; 3rd ed., 2007.
 - MacIntyre, Alasdair. *Whose Justice? Which Rationality?* Notre Dame: University of Notre Dame Press, 1988.
 - MacIntyre, Alasdair. *Dependent Rational Animals: Why Human Beings Need the Virtues*. Chicago: Open Court, 1999.
 - Knight, Kelvin (ed.). *The MacIntyre Reader*. Cambridge: Polity Press, 1998.

@@ -2,7 +2,7 @@
 slug: "thk-descartes"
 id: "THK-0916"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 level: "متوسط"
 title: "René Descartes"
 en: "René Descartes"

@@ -9,7 +9,7 @@ en: "Mary Ainsworth"
 crumb: "Psychology ← Thinkers ← Mary Ainsworth"
 dates: "United States · 1913–1999"
 active_start: 1953
-active_end: 1998
+active_end: 1999
 country: "United States"
 language: "English"
 register: "academic"

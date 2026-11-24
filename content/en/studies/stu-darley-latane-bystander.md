@@ -13,8 +13,10 @@ related:
 - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
 study_year: 1968
 design: "Laboratory experiment"
+sample_size: 72
 main_finding: "The probability and speed of a participant's intervening to help a victim decrease as the number of witnesses believed to be present increases, because of diffusion of responsibility"
 replication_status: "contested"
+edges: []
 gaps: []
 ---
 
@@ -29,7 +31,16 @@ The study drew its inspiration from the murder of Kitty Genovese in 1964. Partic
 
 ## Results and conclusions
 
-When participants believed they were the only witness, 85% sought help before the victim's "seizure" ended; with one other bystander the figure was 62%, and with four others it fell to 31%, and those who did respond took longer. The researchers attributed this to "diffusion of responsibility" and also considered fear of social evaluation and uncertainty about whether the situation was an emergency, the latter developed by Latané and Darley (1970) as pluralistic ignorance.
+When participants believed they were the sole witness, 85% reported the emergency and sought help before the seizure ended (mean latency: 52 seconds). When participants believed one other bystander was present, 62% sought help (mean latency: 93 seconds). When they believed four other bystanders were present, only 31% sought help (mean latency: 166 seconds).
+
+Latané and Darley (1970) formalized these findings into a five-step cognitive decision model of bystander intervention:
+1. **Noticing the event:** becoming aware that something unusual is occurring.
+2. **Interpreting the event as an emergency:** recognizing the situation as requiring urgent intervention.
+3. **Assuming personal responsibility:** deciding that intervention is one's personal duty rather than that of someone else.
+4. **Deciding how to help:** identifying an appropriate form of assistance (direct or indirect).
+5. **Implementing the decision:** taking concrete action despite potential costs.
+
+The authors identified three primary psychological mechanisms that impede intervention along these stages: **diffusion of responsibility** (the subjective obligation to act is divided among all present, reducing individual urgency); **pluralistic ignorance** (bystanders look to the calm exterior of others to interpret an ambiguous situation, collectively concluding no emergency exists); and **evaluation apprehension** (fear of social embarrassment or negative judgment should the intervention prove unnecessary or awkward).
 
 ## Criticism and methodological debate
 

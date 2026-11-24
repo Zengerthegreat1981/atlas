@@ -25,7 +25,7 @@ gaps: []
 
 # Martin Buber
 
-An Austrian-Palestinian-Israeli Jewish philosopher, professor at the University of Jerusalem, one of the most important religious existentialists.
+An Austrian-born Jewish philosopher and scholar, professor of social philosophy at the Hebrew University of Jerusalem, and one of the most prominent figures of twentieth-century religious existentialism and dialogical philosophy.
 
 ## His biography
 
@@ -71,9 +71,8 @@ Buber influenced the philosophy of dialogue in Emmanuel Levinas, and humanistic 
 
 ## Sources
 
-- Friedman, M. (1955). *Martin Buber: The Life of Dialogue*. University of Chicago Press.
-- Buber, M. (1947). *Between Man and Man*. Routledge & Kegan Paul.
-- Cissna, K. N. & Anderson, R. (2002). *Moments of Meeting: Buber, Rogers, and the Potential for Public Dialogue*. SUNY Press.
-- Stanford Encyclopedia of Philosophy, "Martin Buber."
-- Buber, M. *Ich und Du*. Insel Verlag, 1923 (English translation by Ronald Gregor Smith: *I and Thou*, Edinburgh: T. & T. Clark, 1937).
-- Encyclopaedia Britannica, "Martin Buber."
+- Buber, Martin. *Ich und Du*. Leipzig: Insel Verlag, 1923 (English translation by Ronald Gregor Smith: *I and Thou*, Edinburgh: T. & T. Clark, 1937).
+- Buber, Martin. *Between Man and Man*. Translated by Ronald Gregor Smith. London: Routledge & Kegan Paul, 1947.
+- Friedman, Maurice. *Martin Buber: The Life of Dialogue*. Chicago: University of Chicago Press, 1955.
+- Mendes-Flohr, Paul. *Martin Buber: A Life of Faith and Dissent*. New Haven: Yale University Press, 2019.
+- Cissna, Kenneth N., and Rob Anderson. *Moments of Meeting: Buber, Rogers, and the Potential for Public Dialogue*. Albany: State University of New York Press, 2002.

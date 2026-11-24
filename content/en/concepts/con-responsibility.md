@@ -13,8 +13,7 @@ related:
   - id: "con-freedom", title: "Freedom", type: "مفهوم"
   - id: "con-guilt", title: "Guilt", type: "مفهوم"
   - id: "thk-may", title: "Rollo May", type: "مفكر"
-gaps:
-  - "Textual locations for each formulation: not yet covered"
+gaps: []
 ---
 
 # Responsibility
@@ -57,20 +56,20 @@ There is no precise Arabic equivalent of the idea of "existential responsibility
 
 ## Comparative Table
 
-| Thinker | His exact formulation | What follows in the room | His disagreement with others |
-|---|---|---|---|
-| Sartre | Full responsibility for the meaning of the situation, not for its occurrence. I do not choose the war, but I choose what it means to me and how I exist within it. | The decisive distinction in the session: responsible for the response, not for the event. | The most extreme formulation, and it needs Beauvoirian reservation to become usable. |
-| Frankl | Responsibility is a response to a question that life poses. Life asks and the human answers with their life, not with their words. | Reversing the question in the session: instead of "what do I expect from life?" it becomes "what does life expect from me now?" | Assumes a system of meaning wider than the individual, and this is what the secular current rejects. |
-| Beauvoir | Responsibility is ethical and political: my freedom binds me to the freedom of others. Whoever ignores the situation of others is not free but heedless. | Widening the circle of the question: your responsibility for yourself, and for those who share your situation. | A direct correction of Sartre's individualism. |
-| Rollo May | Responsibility is a capacity to respond, and presupposes awareness and capacity. Where either is lacking, holding a person to account is unjust. | A practical condition: before responsibility is raised, it is checked that the person sees their situation and has a margin to act. | The most mature clinical safeguard in the school for this concept. |
-| Yalom | Avoiding responsibility is the most common defense: postponement, dependence, feigned helplessness, and attributing the decision to circumstance. And change does not begin before acknowledgment. | Spotting the forms of avoidance in the language itself, and confronting them gently. | Clinically useful, and prone to slipping into blame if the situation is neglected. |
-| Van Deurzen | Responsibility is examined across the four dimensions: what one is responsible for physically, socially, personally and in terms of values, and these differ. | Prevents generalization: a person may be responsible in one dimension and powerless in another. | The most precise practical elaboration of the concept. |
-| Heidegger | Not a moral responsibility but taking over existence: that my existence be my own existence, not the existence of "the They." | Not translated into a duty. The aim is for the person to see how much of their life they live on behalf of an anonymous someone. | The furthest of the formulations from direct therapeutic use. |
+| Thinker | Key Textual Source | His exact formulation | What follows in the room | His disagreement with others |
+|---|---|---|---|---|
+| Sartre | *L'Être et le néant* (1943), Part IV, Ch. 1 ("Being and Doing: Freedom") | Full responsibility for the meaning of the situation, not for its occurrence. I do not choose the war, but I choose what it means to me and how I exist within it. | The decisive distinction in the session: responsible for the response, not for the event. | The most extreme formulation, and it needs Beauvoirian reservation to become usable. |
+| Frankl | *Man's Search for Meaning* (1959), Part II; *The Doctor and the Soul* (1955) | Responsibility is a response to a question that life poses. Life asks and the human answers with their life, not with their words. | Reversing the question in the session: instead of "what do I expect from life?" it becomes "what does life expect from me now?" | Assumes a system of meaning wider than the individual, and this is what the secular current rejects. |
+| Beauvoir | *Pour une morale de l'ambiguïté* (1947), Part II ("Freedom and Liberation") | Responsibility is ethical and political: my freedom binds me to the freedom of others. Whoever ignores the situation of others is not free but heedless. | Widening the circle of the question: your responsibility for yourself, and for those who share your situation. | A direct correction of Sartre's individualism. |
+| Rollo May | *Freedom and Destiny* (1981), Ch. 5-7; *Love and Will* (1969) | Responsibility is a capacity to respond, and presupposes awareness and capacity. Where either is lacking, holding a person to account is unjust. | A practical condition: before responsibility is raised, it is checked that the person sees their situation and has a margin to act. | The most mature clinical safeguard in the school for this concept. |
+| Yalom | *Existential Psychotherapy* (1980), Ch. 6 ("Responsibility") | Avoiding responsibility is the most common defense: postponement, dependence, feigned helplessness, and attributing the decision to circumstance. And change does not begin before acknowledgment. | Spotting the forms of avoidance in the language itself, and confronting them gently. | Clinically useful, and prone to slipping into blame if the situation is neglected. |
+| Van Deurzen | *Existential Counselling and Psychotherapy in Practice* (2012), Ch. 5 | Responsibility is examined across the four dimensions: what one is responsible for physically, socially, personally and in terms of values, and these differ. | Prevents generalization: a person may be responsible in one dimension and powerless in another. | The most precise practical elaboration of the concept. |
+| Heidegger | *Sein und Zeit* (1927), §26-27, §54-60 | Not a moral responsibility but taking over existence: that my existence be my own existence, not the existence of "the They." | Not translated into a duty. The aim is for the person to see how much of their life they live on behalf of an anonymous someone. | The furthest of the formulations from direct therapeutic use. |
 
 ## Sources
 
-- Sartre, J.-P. (1943). *L'Etre et le neant*. Gallimard.
-- Beauvoir, S. de (1947). *Pour une morale de l'ambiguite*. Gallimard.
+- Sartre, J.-P. (1943). *L'Être et le néant*. Gallimard.
+- Beauvoir, S. de (1947). *Pour une morale de l'ambiguïté*. Gallimard.
 - Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
 - Yalom, I. D. (1980). *Existential Psychotherapy*. Basic Books.
 - May, R. (1981). *Freedom and Destiny*. W. W. Norton.

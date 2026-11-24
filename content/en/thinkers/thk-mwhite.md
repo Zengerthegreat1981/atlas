@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Michael White"
 en: "Michael White"
 crumb: "Psychology ← Thinkers ← Michael White"
-dates: "Australia/New Zealand · 1948–2008"
+dates: "Australia · 1948–2008"
 country: "Australia"
 language: "English"
 active_start: 1980
@@ -20,8 +20,7 @@ related:
 - id: "thk-may", title: "Rollo May", type: "مفكر"
 - id: "thk-yalom", title: "Irvin Yalom", type: "مفكر"
 - id: "sch-narrative-therapy", title: "Narrative Therapy", type: "مدرسة"
-gaps:
-  - "Origins of the White–Epston partnership: not yet covered"
+gaps: []
 ---
 
 # Michael White
@@ -33,6 +32,10 @@ Michael White (1948–2008) was an Australian family therapist who, with the New
 White was born in Adelaide and worked early in his career in social work and psychiatric care, then trained in family therapy. He was Australian by birth, while Epston is the New Zealander. He died in San Diego, California, in April 2008 while giving a training program, of a heart attack. He directed the Dulwich Centre and issued what are called Dulwich Centre Publications from it, and his wife Cheryl White was his partner in running the centre and publishing his work.
 
 White started from the controversy that shook systemic family therapy in the 1980s: while family therapy treated the family as a cybernetic system, White saw in the style of the neutral expert who interprets the system a degree of power no less than the power of diagnosis. At this moment he became acquainted with Bateson's work on frame and knowledge, with Bruner's work on narrative, and with Foucault, and his vision took shape.
+
+## Origins of the White–Epston Partnership
+
+The collaborative partnership between Michael White (based in Adelaide, South Australia) and David Epston (based in Auckland, New Zealand) began in the early 1980s. Meeting through regional family therapy gatherings—most notably the Australian Family Therapy Conferences—the two discovered an immediate intellectual affinity. Both were deeply dissatisfied with the dominant cybernetic, mechanistic metaphors of systems therapy, which they felt positioned the therapist as an objective technician manipulating normative family hierarchies. Despite living across the Tasman Sea, White and Epston began an intensive, cross-national collaboration conducted via exchanged audiotapes, detailed correspondence, reciprocal clinical visits, and co-led workshops. Together they developed key narrative methodologies, including externalizing conversations, therapeutic letter-writing, leagues, and certificates of accomplishment, culminating in their landmark co-authored volume *Narrative Means to Therapeutic Ends* (1990).
 
 ## Main Ideas
 

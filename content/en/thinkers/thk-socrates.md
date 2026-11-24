@@ -2,13 +2,15 @@
 slug: "thk-socrates"
 id: "THK-7073"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 register: "academic"
 level: "متقدم"
 title: "Socrates"
 en: "Socrates"
 crumb: "Philosophy ← Thinkers ← Socrates"
 dates: "Athens, ancient Greece · 470–399 BCE"
+country: "Ancient Greece (Athens)"
+language: "Ancient Greek"
 active_start: -440
 active_end: -399
 edges: []

@@ -16,37 +16,52 @@ active_end: "مستمر"
 edges:
 - rel: "grounded_in", target: "Frankfurt School", target_type: "مدرسة"
 - rel: "split_into", target: "Discursive Psychology", target_type: "تيار"
-related:
-gaps:
-  - "Standalone entries for Klaus Holzkamp, Isaac Prilleltensky and Nikolas Rose: not yet covered"
+related: []
+gaps: []
 ---
+
 # Critical Psychology
 
-A school that questions psychology itself as a **social and political institution**: who funds it, what question it makes askable, and whom it serves when it turns a person's suffering into a 'symptom' in an individual. Its central claim is that **methodological neutrality is an illusion**, and that ignoring context is not an incidental shortcoming but a function: it conceals oppression by tracing it back to a defect in the person.
+Critical psychology is an intellectual and political movement that subjects mainstream psychology to systemic critique as a **social, historical, and ideological institution**. Rather than accepting psychological theories and methods as value-free scientific discoveries, critical psychologists investigate whose interests psychological practices serve, how research agendas are funded and governed, and how psychological categories reproduce existing power relations. Its primary thesis is that **methodological neutrality is an ideological illusion**: by abstracting individuals from their material, political, and cultural realities, mainstream psychology risks individualizing systemic oppression, transforming social suffering into personal pathology or cognitive deficit.
 
-## Two independent origins
+## Independent Origins and Major Currents
 
-- **The German current** (*Kritische Psychologie*): it arose at the **Free University of Berlin** from about 1970 under **Klaus Holzkamp**, and he built it on Marx and the Soviet activity school (Vygotsky and Leontiev). Its claim is that mainstream psychology studies the individual cut off from his or her social production, and so describes the results of conditions and calls them traits. **Frigga Haug** developed from it the **method of collective memory-work** (*Erinnerungsarbeit*): knowledge about feminist experience is produced by the group's work on its memories, not by a questionnaire to be filled in.
-- **The Anglo-Saxon current**: formed in the 1980s and 1990s around **Ian Parker** (Manchester), **Dennis Fox** and **Isaac Prilleltensky**. Its tool is **discourse analysis** more than political economy, and its sources include Foucault and, in some strands, psychoanalytic theory such as Lacan's.
+Critical psychology developed through distinct geopolitical traditions:
 
-## What it critiques
+### The German Tradition (Kritische Psychologie)
+Originating amidst the student movements of the late 1960s at the Free University of Berlin, the German school of *Kritische Psychologie* was founded by **Klaus Holzkamp (1927–1995)**. In foundational works such as *Grundlegung der Psychologie* (1983), Holzkamp integrated historical materialism with Soviet cultural-historical activity theory (Lev Vygotsky and Aleksei Leontiev). He critiqued mainstream "variable psychology" for treating human behavior as mechanical, passive reactions to external stimuli. Instead, Holzkamp conceptualized humans as conscious historical agents endowed with *action potence* (*Handlungsfähigkeit*)—the capacity to act either within existing social restrictions (*restrictive action potence*) or collectively to transform these conditions (*generalized action potence*). Within this current, **Frigga Haug (b. 1937)** developed the feminist methodology of **collective memory-work** (*Erinnerungsarbeit*), analyzing how women's subjectivities and bodily socialization are constructed through collaborative reflection on autobiographical memories.
 
-- **Methodological individualism**: measuring anxiety with an individual scale in a society without job security, and then treating it in the individual.
-- **Diagnosis as an instrument of control**: the expansion of the diagnostic manual's categories is read as an expansion of professional power, not of knowledge. This is a critique that meets the **anti-psychiatry movement** and parts ways with it in that the critical psychologists do not deny suffering and do not seek to abolish the profession.
-- **Psychological testing as sorting**: the use of early intelligence tests in immigration restriction and eugenic policies, including sterilization laws, is a frequently cited example.
-- **The Western sample**: the 'human being' in the field's literature is mostly a Western university student.
+### The British and Anglophone Discursive Tradition
+In the 1980s and 1990s, an Anglophone tradition coalesced in Britain, centered around the Discourse Unit at Manchester Metropolitan University, founded by **Ian Parker (b. 1956)** and **Erica Burman**. Drawing upon Michel Foucault, post-structuralism, and radical psychoanalysis (such as Jacques Lacan), this tradition employs critical discourse analysis to deconstruct psychological rhetoric. Parker (*Psychology and Society*, 1999; *Revolution in Psychology*, 2007) analyzed how psychiatric and psychometric diagnostic categories function as regulatory regimes of social surveillance.
 
-## Limitations
+### The Sociological and Foucauldian Critique (Nikolas Rose)
+British sociologist **Nikolas Rose (b. 1947)** produced landmark analyses of the "psy-complex" (*Governing the Soul*, 1990; *Inventing Our Selves*, 1996). Drawing on Foucault's concept of *governmentality*, Rose demonstrated how twentieth-century liberal democracies govern not through overt coercion, but through psychological expertise. Mainstream psychological disciplines constructed the modern "enterprising self"—an individualized subject obligated to interpret life through self-esteem, self-actualization, autonomy, and personal responsibility, thereby depoliticizing economic insecurity.
 
-- **A scarcity of procedural alternatives**: the critique is stronger than the proposal; few of its tools have become practices that can be taught and measured. Its followers reply that demanding a 'standardized alternative' is itself part of the logic being critiqued.
-- **Difficulty of language** — especially in the German current — has limited its spread beyond its own circles.
-- **The danger of denying biology**: some of its formulations are read as denying any neural basis for disorder, which most of its theorists expressly reject, and which remains an objection to its common use.
+### Critical Community Psychology (Isaac Prilleltensky)
+In North and Latin America, **Isaac Prilleltensky (b. 1959)** pioneered critical community psychology, formulating the concept of **psychopolitical validity**. Prilleltensky argued that genuine well-being cannot be achieved through individual therapy alone without structural justice. Psychopolitical validity requires psychological research and interventions to explicitly account for political power dynamics, advocating systemic institutional change rather than victim-blaming coping strategies.
+
+### The South African Anti-Apartheid Tradition
+In South Africa, critical psychologists (such as Chabani Manganyi, Desmond Painter, and Kopano Ratele) analyzed psychology's historical complicity with racial segregation and apartheid. They documented how standardized psychometric testing was weaponized to legitimize racial inequality and developed postcolonial, liberatory alternatives centering indigenous knowledge systems.
+
+## Primary Targets of Critique
+
+- **Methodological Individualism**: Mainstream psychology's tendency to locate the etiology and treatment of distress exclusively within the individual brain or psyche, obscuring systemic determinants such as poverty, racism, and precarious labor.
+- **Psychiatric Nosology as Social Regulation**: The relentless expansion of diagnostic categories in manualized nosologies (DSM and ICD) is critiqued as medicalizing ordinary human distress and expanding the jurisdiction of professional surveillance.
+- **Psychometrics and Sorting Mechanisms**: The historical and ongoing use of standardized cognitive and personality testing to justify educational tracking, immigration restrictions, and workplace stratification.
+- **Ethnocentric and WEIRD Dominance**: The uncritical universalization of findings derived from Western, Educated, Industrialized, Rich, and Democratic undergraduate populations to all of human nature.
+
+## Criticisms and Contemporary Challenges
+
+- **Deficit of Procedural Alternatives**: Critics argue that critical psychology excels at ideological deconstruction but offers few scalable clinical protocols or validated empirical alternatives for severe psychiatric conditions. Critical theorists respond that demanding "standardized techniques" reinforces the very technocratic logic under question.
+- **Linguistic and Theoretical Inaccessibility**: Dense theoretical terminology, particularly within the German and post-structuralist strands, has occasionally isolated the movement from frontline clinicians, social workers, and activists.
+- **Risks of Biological Dismissal**: While most critical theorists acknowledge physiological vulnerability, critics express concern that extreme social determinism risks underestimating the biological and genetic components of severe neuropsychiatric conditions.
 
 ## Sources
 
-- Holzkamp, Klaus. *Grundlegung der Psychologie*. Frankfurt: Campus, 1983.
-- Haug, Frigga (ed.). *Female Sexualization: A Collective Work of Memory*. Verso, 1987.
-- Parker, Ian. *Revolution in Psychology: Alienation to Emancipation*. Pluto Press, 2007.
-- Fox, Dennis & Prilleltensky, Isaac (eds.). *Critical Psychology: An Introduction*. SAGE, 1997.
-- Teo, Thomas. *The Critique of Psychology: From Kant to Postcolonial Theory*. Springer, 2005.
-- Rose, Nikolas. *Governing the Soul: The Shaping of the Private Self*. Routledge, 1990.
+- Fox, D., Prilleltensky, I., & Austin, S. (Eds.). (2009). *Critical Psychology: An Introduction* (2nd ed.). SAGE Publications.
+- Haug, F. (Ed.). (1987). *Female Sexualization: A Collective Work of Memory*. Verso.
+- Holzkamp, K. (1983). *Grundlegung der Psychologie*. Campus Verlag.
+- Parker, I. (2007). *Revolution in Psychology: Alienation to Emancipation*. Pluto Press.
+- Prilleltensky, I. (2008). "The role of power in wellness, oppression, and liberation: The promise of psychopolitical validity." *Journal of Community Psychology*, 36(2), 116–136.
+- Rose, N. (1990). *Governing the Soul: The Shaping of the Private Self*. Routledge.
+- Teo, T. (2005). *The Critique of Psychology: From Kant to Postcolonial Theory*. Springer.

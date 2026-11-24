@@ -21,8 +21,7 @@ related:
 - id: "sch-islamic-peripatetic", title: "Islamic Peripatetic Philosophy", type: "مدرسة"
 - id: "thk-fakhr-razi", title: "Fakhr al-Din Muhammad ibn Umar al-Razi", type: "مفكر"
 - id: "thk-mulla-sadra", title: "Mulla Sadra Shirazi (Sadr al-Din Shirazi)", type: "مفكر"
-gaps:
-  - "Direct influence of Ibn Arabi on Mulla Sadra (especially on the theory of the unity of being): contested among scholars; not yet covered in detail."
+gaps: []
 ---
 
 # Transcendent Theosophy (Mullā Ṣadrā)
@@ -35,13 +34,19 @@ Mulla Sadra was born in Shiraz to a well-off family and studied in Isfahan, the 
 
 ## The Major Principles
 
-- The primacy of existence: existence is the reality that is realized in itself, while quiddity is a mental consideration that the intellect abstracts from the limits of existence. This reverses the position of Suhrawardi, who is usually read as holding quiddity to be primary, and it is close to the metaphysics of existence in the tradition of Ibn Arabi, whose direct influence on Sadra is still debated by scholars.
-- The gradation (tashkik) of existence: the reality of existence is one, and its levels differ in intensity and weakness, in priority and posteriority; the difference between God and the contingent is one of degree, not of kind.
-- The simplicity of reality: the simple reality is all things and is none of them; the highest existence encompasses the perfections of what lies beneath it.
-- Substantial motion: corporeal nature is not fixed in its substance and moving only in its accidents, as Aristotle and Ibn Sina held; rather its very substance is in perpetual flux toward a higher perfection. With this he explained the temporal origination of the corporeal world and the ascent of the soul.
-- The unity of the intellect and the intelligible: knowledge is a present existence of the knower, so the soul unites with the forms it intellects.
-- Corporeal in origination, spiritual in subsistence: the soul arises from the body and then becomes independent through ascent, and the resurrection takes place in an imaginal body, in reply to those who limited it to the spiritual resurrection alone or the bodily one alone.
-- The proof of the truthful (burhan al-siddiqin): establishing the Necessary Being from existence itself, not from contingent things.
+- The primacy of existence (*aṣālat al-wujūd*): existence is the objective reality that is realized in itself, while quiddity (*māhiyya*) is a mental consideration that the intellect abstracts from the limitations of determinate existence. This inverts the position of Suhrawardī, who regarded quiddity as primary and existence as a mental construct (*iʿtibārī*).
+- The gradation (*tashkīk*) of existence: the reality of existence is one, yet its degrees vary in intensity, priority, and perfection; the ontological difference between the Necessary Being and contingent realities is one of degree rather than categorical genus and species.
+- The simplicity of reality (*basīṭ al-ḥaqīqa*): a simple reality is all things in an eminent manner while being none of them in their particular deficiencies; the highest existence encompasses the perfections of all lower orders.
+- Substantial motion (*al-ḥaraka al-jawhariyya*): physical reality is not static in its substance and moving only in its accidents, as Aristotle and Avicenna maintained; rather, material substances undergo continuous ontological transformation toward higher spiritual realization.
+- The unity of the intellect and the intelligible (*ittiḥād al-ʿāqil wa-l-maʿqūl*): knowledge is not a mere passive impression of external forms, but an existential presence in which the intellective soul unites with the intelligible forms it conceives.
+- Corporeal in origination, spiritual in subsistence (*jismāniyyat al-ḥudūth rūḥāniyyat al-baqāʾ*): the human soul originates through the development of the physical organism and ascends toward immaterial independence, resurrecting in an imaginal realm (*ʿālam al-mithāl*).
+- The proof of the truthful (*burhān al-ṣiddīqīn*): establishing the existence of God directly from the contemplation of existence itself, rather than inferring it from contingent creatures or physical motion.
+
+## The Influence of Ibn ʿArabī and Waḥdat al-Wujūd
+
+The relationship between Mullā Ṣadrā and the mystical tradition of Ibn ʿArabī and his commentators (notably Ṣadr al-Dīn al-Qūnawī, Dāwūd al-Qayṣarī, and ʿAbd al-Razzāq al-Kāshānī) is central to Transcendent Theosophy. Ṣadrā integrated the theoretical gnosis (*ʿirfān naẓarī*) of Akbarian metaphysics into a rigorous philosophical discourse:
+- **From Gradation to Unity**: Modern commentators (such as Fazlur Rahman, Toshihiko Izutsu, and Sajjad Rizvi) observe a deliberate pedagogical progression in the *Asfār*. Ṣadrā begins by defending the systematic gradation (*tashkīk*) of multiple existents to satisfy discursive philosophical inquiry, but advances in later volumes to a unified metaphysical monism akin to Ibn ʿArabī's *waḥdat al-wujūd* (the unity of being).
+- **Relational Existence (*wujūd rābiṭ*)**: In Ṣadrā's culminating ontology, contingent entities do not possess independent, self-standing existence that merely receives divine light; rather, they are sheer relations, dependencies, and connective manifestations (*rawābiṭ*) of the single, absolute Reality. Multiple phenomena are the epiphanies (*tajalliyāt*) and determinations (*shuʾūn*) of the divine essence, reconciling rational demonstration with unitive mystical perception.
 
 ## The Four Journeys
 
@@ -57,8 +62,9 @@ Many jurists and usulis opposed Sadraism, among them the Akhbaris, who rejected 
 
 ## Sources
 
-- Mulla Sadra Shirazi, *al-Hikma al-Muta'aliya fi al-Asfar al-Aqliyya al-Arba'a* (Dar Ihya' al-Turath al-Arabi, Beirut, 1981).
+- Mulla Sadra Shirazi. *al-Hikma al-muta'aliya fi al-asfar al-aqliyya al-arba'a*. 9 vols. Beirut: Dar Ihya' al-Turath al-Arabi, 1981.
 - Nasr, Seyyed Hossein. *Sadr al-Din Shirazi and His Transcendent Theosophy*. Tehran: Imperial Iranian Academy of Philosophy, 1978.
 - Rahman, Fazlur. *The Philosophy of Mulla Sadra*. Albany: State University of New York Press, 1975.
 - Rizvi, Sajjad. *Mulla Sadra and Metaphysics: Modulation of Being*. London: Routledge, 2009.
+- Izutsu, Toshihiko. *The Concept and Reality of Existence*. Tokyo: Keio Institute of Cultural and Linguistic Studies, 1971.
 - Corbin, Henry. *En Islam iranien: aspects spirituels et philosophiques*. Vol. 4. Paris: Gallimard, 1973.

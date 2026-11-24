@@ -14,40 +14,49 @@ design: "Uncontrolled field simulation (no control group, no blinding, and direc
 sample_size: "24 male university students (chosen from volunteers who responded to an advertisement explicitly describing a 'psychological study of prison life'), randomly assigned to guards and prisoners"
 main_finding: "Zimbardo originally concluded that the power of the situational role alone produced a spontaneous escalation in the guards' cruelty and the prisoners' breakdown; later reviews (especially Le Texier 2019, drawing on the original Stanford archive) documented that Zimbardo and his assistants coached the guards on how to behave, that at least part of the prisoners' distress was a response to what they believed was expected of them, and that the sample may have been shaped by the wording of the recruitment advertisement"
 replication_status: "contested"
+edges: []
 related:
 - id: "con-responsibility", title: "Responsibility", type: "مفهوم"
-gaps:
-  - "Direct methodological comparison between the Stanford Prison Experiment and Milgram's obedience experiment (Milgram 1963) in terms of the mechanisms of experimental control and the limits of generalization: not yet covered."
-  - "The effect of the Abu Ghraib scandal (2004) in reviving the debate about the experiment and Zimbardo's testimony in defense of one of the soldiers: not yet covered."
+gaps: []
 ---
-
-
 # Stanford Prison Experiment
 
-A controversial prison simulation held in the basement of the psychology building at Stanford University in August 1971 to study psychological responses to captivity and power, through the random assignment of students as guards and prisoners.
+A highly controversial social psychological simulation conducted in the basement of Jordan Hall at Stanford University in August 1971 by Philip G. Zimbardo and colleagues. Designed to investigate psychological reactions to imprisonment and perceived institutional authority through the random assignment of healthy male undergraduates to roles as guards or prisoners, the simulation became one of the most widely cited—and subsequently heavily criticized—demonstrations in the history of psychology.
 
-## Context and experimental design
+## Context and Experimental Design
 
-Twenty-four university students, screened as psychologically and physically healthy, were chosen from volunteers who responded to a newspaper advertisement whose text explicitly mentioned a 'psychological study of prison life.' Carnahan and McFarland (2007) later found that volunteers responding to such an advertisement scored higher on aggressiveness, authoritarianism, Machiavellianism, narcissism and social dominance, and lower on empathy and altruism, than volunteers for a neutral study, which suggests that the sample may have been self-selected in ways relevant to the outcome. The volunteers were randomly divided into two groups, 'guards' and 'prisoners,' in a simulated prison environment in the basement of the Department of Psychology, with the guards dressed in uniforms and reflective sunglasses and told to maintain order without using physical violence, whereas the prisoners were referred to by numbers and made to wear smocks. There was no experimental control (no comparison group and no fixed protocol in advance), and Zimbardo himself was not a neutral observer but occupied the role of 'prison superintendent' and intervened directly in the course of events.
+In the summer of 1971, Zimbardo and his graduate assistants recruited male college students through a local newspaper advertisement offering $15 per day for participation in a "psychological study of prison life." Out of over 70 applicants, 24 physically and psychologically healthy young men with no prior criminal records were selected and randomly assigned to either the "guard" or "prisoner" condition.
 
-## Results and conclusions (Zimbardo's original account)
+The physical setting was constructed in the basement of the Stanford psychology building to simulate a realistic jail. To induce disorientation and depersonalization, prisoners were subject to mock arrests at their homes by the Palo Alto Police Department, fingerprinted, stripped, sprayed with simulated delousing fluid, and issued numbered smocks and stocking caps without underwear. Guards were dressed in khaki uniforms, carried wooden nightsticks, and wore reflective sunglasses to prevent eye contact. Crucially, the protocol lacked basic experimental controls: there was no control or comparison condition, no standardized behavioral endpoints, and Zimbardo himself actively participated as the "prison superintendent" rather than acting as a detached scientific observer.
 
-The behavior of some guards escalated quickly toward psychological humiliation, arbitrariness and maltreatment, while some prisoners showed signs of emotional breakdown and passive submission. Zimbardo was forced to stop the experiment after only 6 days instead of the proposed two weeks, and he concluded at the time that the power of the situation and social roles alone, independent of individual and moral traits, was sufficient to produce this escalation spontaneously. This is the reading that spread popularly and is traditionally taught in introductory textbooks, but it **does not reflect the current scientific understanding of the experiment** (see the next section).
+## Results and Original Conclusions
 
-## Methodological criticism and current scientific review
+The simulation was originally planned to last for two weeks. However, according to Zimbardo's original reports, interpersonal relations deteriorated rapidly: several guards engaged in arbitrary psychological abuse, humiliation, sleep disruption, and verbal degradation of the inmates, while prisoners exhibited emotional breakdowns, passive compliance, and acute distress. Zimbardo terminated the experiment prematurely after only six days, prompted by the objections of Christina Maslach, a visiting graduate student who protested the degrading conditions.
 
-The experiment underwent a radical methodological review that changed its scientific standing, most notably an archival study by the historian Thibault Le Texier, published in 2019 in the journal American Psychologist, which relied on the original Stanford archive (audio recordings and previously unpublished notes) and documented the following:
+Zimbardo concluded that situational determinants and institutional roles possessed overwhelming power to override individual moral character, turning ordinary, psychologically healthy individuals into cruel oppressors or helpless victims. This "power of the situation" narrative became standard curriculum across introductory psychology textbooks for decades.
 
-- **Explicit direction of the guards:** Zimbardo and his assistants met with the guards before the simulation began and, according to the archival record, told them how the prisoners should be treated (for example, that they should create feelings of powerlessness and arbitrariness), which suggests that the guards' behavior was not a purely spontaneous emergence from the role but was shaped by direct instructions and expectations (demand characteristics).
-- **Sample bias at recruitment:** the recruitment advertisement itself ('a study of prison life'), which Carnahan and McFarland's comparison suggested attracted volunteers with greater aggressiveness and authoritarian tendencies than a neutral advertisement for a general psychological experiment.
-- **Conscious acting rather than spontaneous breakdown:** one of the prisoners who 'broke down' emotionally (Douglas Korpi) later stated that his breakdown was at least partly a performance meant to secure his release from the experiment; other participants have also said they were consciously playing the roles expected of them.
-- **Absence of scientific control:** no control group, no blinding, no fixed protocol in advance, and the interference of Zimbardo himself as an active party (prison superintendent) instead of a neutral observer, which makes it closer to a demonstration than to a rigorous experiment that permits clean causal interpretation.
+## Methodological Comparison with Milgram's Obedience Experiments
 
-Result of these reviews: **the Stanford Prison Experiment is not regarded today as clean evidence of the 'power of the situation' independent of individual traits**, as it was popularly promoted for decades. It is a cautionary example in research methods as much as it is, if not more than it is, a reference in social psychology, and it is now usually taught together with its methodological criticism rather than in isolation from it.
+The Stanford Prison Experiment is frequently paired with Stanley Milgram's obedience experiments (1963), yet the two differ fundamentally in methodology and experimental control:
+- **Experimental Control and Protocol:** Milgram employed a strictly standardized laboratory experiment featuring scripted verbal prods, uniform confederate reactions, and a precise quantitative dependent measure (the shock generator voltage level, 15 to 450 volts). Milgram tested over 800 participants across more than twenty systematically varied conditions, isolating causal variables such as physical proximity to the learner, institutional prestige, and peer rebellion. In contrast, Zimbardo ran an uncontrolled qualitative simulation with a single cohort of 24 students, lacking comparison groups, standardized measurement, or blinded observation.
+- **Psychological Mechanisms:** While Milgram investigated compliance with explicit, authoritative commands delivered by an experimenter in a lab coat ("the experiment requires that you continue"), Zimbardo claimed that institutional cruelty emerged spontaneously from mere role adoption. However, archival evidence later confirmed that Zimbardo provided active coaching, rendering his simulation closer to obedience to demand characteristics than to spontaneous role-taking.
+
+## Methodological Criticism and Archival Revelations
+
+Subsequent critical analyses fundamentally dismantled the scientific standing of the experiment:
+- **Archival Evidence and Guard Coaching:** In a definitive archival investigation published in *American Psychologist* (2019), historian Thibault Le Texier examined the original Stanford archives (audio recordings, unpublished notes, and transcripts). The records revealed that Zimbardo and his assistant David Jaffe explicitly briefed the guards beforehand on how to treat prisoners, instructing them to strip them of individuality and create feelings of helplessness and fear.
+- **Participant Selection Bias:** Carnahan and McFarland (2007) demonstrated that the recruitment advertisement's explicit phrasing ("a psychological study of prison life") introduced self-selection bias: volunteers who responded to this specific phrasing scored significantly higher on aggressiveness, authoritarianism, and social dominance, and lower on empathy and altruism, compared to participants responding to a generic study advertisement.
+- **Demand Characteristics and Staged Reactions:** Several participants later admitted they were consciously acting out roles they believed the researchers desired. Douglas Korpi, the prisoner whose dramatic hysterical sobbing was filmed as evidence of acute emotional collapse, disclosed that his outburst was largely simulated to ensure immediate release so he could study for his Graduate Record Examinations (GRE).
+
+## The Abu Ghraib Scandal and the "Bad Barrel" Debate
+
+In 2004, the disclosure of photographs documenting torture and sexual humiliation of Iraqi detainees by American military police at the Abu Ghraib detention facility revived widespread public and scientific debate regarding the Stanford findings. Zimbardo testified as an expert witness for the defense of Staff Sergeant Ivan "Chip" Frederick at his military court-martial. Drawing upon his 1971 simulation, Zimbardo argued that Frederick was an ordinary individual corrupted by a "bad barrel"—an abusive, unregulated, and dehumanizing systemic environment—rather than a fundamentally deviant "bad apple."
+
+Zimbardo later elaborated this thesis in *The Lucifer Effect* (2007). While the Abu Ghraib parallels highlighted the corrosive influence of toxic organizational cultures, criminologists and ethicists cautioned that overextending situational determinism risks absolving perpetrators of personal, legal, and moral accountability for human rights abuses. Today, the Stanford simulation is widely understood not as a robust controlled experiment, but as a cautionary case study illustrating experimenter bias, demand characteristics, and ethical failure.
 
 ## Sources
 
-- Haney, C., Banks, W. C. & Zimbardo, P. G., "Interpersonal Dynamics in a Simulated Prison", International Journal of Criminology and Penology, 1973.
-- Zimbardo, P., The Lucifer Effect: Understanding How Good People Turn Evil, 2007.
-- Carnahan, T. & McFarland, S., "Revisiting the Stanford Prison Experiment: Could Participant Self-Selection Have Led to the Cruelty?", Personality and Social Psychology Bulletin, 2007.
-- Le Texier, T., "Debunking the Stanford Prison Experiment", American Psychologist, 2019.
+- Haney, C., Banks, W. C., & Zimbardo, P. G. (1973). Interpersonal dynamics in a simulated prison. *International Journal of Criminology and Penology*, 1(1), 69–97.
+- Zimbardo, P. (2007). *The Lucifer Effect: Understanding How Good People Turn Evil*. Random House.
+- Carnahan, T., & McFarland, S. (2007). Revisiting the Stanford Prison Experiment: Could participant self-selection have led to the cruelty? *Personality and Social Psychology Bulletin*, 33(5), 603–614.
+- Le Texier, T. (2019). Debunking the Stanford Prison Experiment. *American Psychologist*, 74(7), 823–839.

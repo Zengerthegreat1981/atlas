@@ -24,81 +24,60 @@ gaps: []
 
 # Monads
 
-A central concept in the philosophy of Gottfried Wilhelm Leibniz, from the Greek "μονάς" meaning unity. It refers to simple individual substances with no parts, "windowless" (Monadology §7: monads have no windows through which anything could enter or leave), each of which reflects the whole universe from its own particular angle.
+A central concept in the philosophy of Gottfried Wilhelm Leibniz, derived from the Greek *monas* (μονάς) meaning unity or indivisible unit. Monads are simple, immaterial, indivisible substances without parts, described by Leibniz as "windowless" (*Monadology*, §7: "The Monads have no windows, through which anything could come in or go out"). Each monad is an active, self-contained center of force that reflects or represents the entire universe from its own distinctive perspective.
 
-## Definition
+## Historical Formulation and Definition
 
-Leibniz formulated it in the "Monadology" (written in French in 1714, first published posthumously in German translation in 1720; the title is not Leibniz's own, see wrk-monadology-leibniz) and in the "Principles of Nature and Grace" (Principes de la Nature et de la Grâce, 1714). For him monads are nothing but simple substances without parts; they are the basic individual substances on which composite things rest. That they are simple means that they have no parts and do not admit of division, and that they have no windows means that they do not causally interact with other monads. Every monad is a mirror of the universe from its own angle, without losing its particularity.
+Leibniz formulated his mature doctrine of monads in two short treatises written in French in 1714: *Principles of Nature and Grace Founded on Reason* (*Principes de la Nature et de la Grâce fondés en raison*) and the work known posthumously as the *Monadology* (first published in German translation by Heinrich Köhler in 1720, and in original French by Johann Eduard Erdmann in 1840). 
 
-## Properties of Monads
+For Leibniz, because composite things exist in physical reality, there must ultimately exist simple substances that constitute them, since a composite is nothing more than an aggregate or collection of simples. Because monads are strictly simple, they have no spatial extension, shape, or physical divisibility. Consequently, they cannot begin or end naturally through alteration or assembly; they can only begin by instantaneous divine creation and end by annihilation.
 
-### Simplicity
+## Fundamental Properties of Monads
 
-A monad has no parts and does not admit of division; it is, as it were, the metaphysical atom.
+### Simplicity and Immateriality
 
-### Individuality
+Having no quantitative parts, monads are metaphysical atoms rather than material or physical atoms. Unlike Cartesian matter (*res extensa*), which is infinitely divisible, monads are true metaphysical unities.
 
-Every monad is unique and different from every other monad, according to the principle of the identity of indiscernibles (Identitas Indiscernibilium): there are no two monads that cannot be distinguished.
+### Individuality and Indiscernibility
 
-### Spontaneity
+Every monad is intrinsically unique, governed by Leibniz's **Identity of Indiscernibles** (*principium identitatis indiscernibilium*): in nature there can never be two beings that are entirely identical yet distinct, differing solely in number (*solo numero*). Each monad possesses an internal qualitative differentiation.
 
-Every monad acts from within, and is a self-originating force.
+### Perception and Perspective
 
-### Reflection
-
-Every monad reflects the universe in its own way, and perception is the representation of the universe within the monad.
+Every monad perceives or represents the entire cosmos within itself according to its own point of view. Leibniz defines **perception** (*perception*) not as conscious sensory awareness, but as the internal representation of the external manifold within a simple substance.
 
 ### Striving (Appetition)
 
-Every monad passes from perception to perception and from state to state; and appetition (Appétit) is the tendency toward this passage between states.
+Monads are dynamic centers of force (*vis activa*). Leibniz defines **appetition** (*appétit* or *appétition*) as the internal principle or tendency that drives the transition from one perception to another, propelling the monad through successive states of being.
 
-## Kinds of Monads
+## Hierarchy of Monads
 
-- Bare monads (entelechies): possessing only minute, unconscious perceptions, as in a state of dreamless stupor. Plants and stones are not themselves monads but aggregates of monads.
-- Souls: possessing more distinct perception accompanied by memory, as in animals.
-- Spirits (minds): rational souls, capable of apperception (reflective consciousness), reason and knowledge of necessary truths, as in human beings.
+Leibniz distinguishes three principal levels of monadic development based on the clarity of their internal perceptions:
 
-## Pre-Established Harmony (Harmonia Praestabilita)
+1. **Bare Monads (Entelechies)**: Possess only confused, slumbering perceptions (*petites perceptions*), analogous to a person in a state of profound, dreamless sleep or stupor. Inanimate bodies, rocks, and plant organisms are aggregates of such simple entelechies.
+2. **Animal Souls (*Âmes*)**: Possess perception accompanied by memory and sensory awareness, capable of heightened feeling and anticipation of experience.
+3. **Rational Minds or Spirits (*Esprits*)**: Human souls capable of **apperception** (*aperception*)—reflective self-consciousness and rational grasp of eternal, necessary truths. Minds do not merely mirror the created universe, but mirror God Himself, entering into moral community with the divine.
 
-God ordained in advance that the monads proceed in perfect harmony, like two identical clocks. This is the solution that Leibniz proposed for the problem of the relation of mind and body left open by Cartesian dualism, as an alternative to the occasionalism of Malebranche and others: mind and body do not interact, but each follows its own law, and God has arranged their agreement in advance.
+## Pre-Established Harmony (*Harmonia Praestabilita*)
 
-A distant parallel in Islamic kalam is the concept of the indivisible atom (con-jawhar-fard-atomic-monad), which also posits indivisible constituents of reality, though on a different logic.
+Because monads are "windowless," they cannot physically act upon or cause changes in one another; physical interaction between substances is an illusion of appearance. To resolve the mind-body problem inherited from Descartes, Leibniz proposed **pre-established harmony**: God created all monads from the beginning with such exact mutual synchronization that their internal developments correspond perfectly. Mind and body operate like two independent, flawlessly crafted clocks wound up to strike in unison forever, avoiding both Cartesian dualistic interaction and Malebranche's perpetual occasionalist miracles.
 
-## Philosophical Influence
+In classical Islamic thought, a distant structural parallel appears in the Ash'arite atomism of the indivisible part (*al-jawhar al-fard*), though Islamic atomism relies on continuous divine recreation (*khalq mustamirr*) rather than Leibnizian self-unfolding pre-established harmony.
 
-### German Idealism
+## Philosophical Influence and Reception
 
-Leibniz's thought shaped the German philosophical tradition from Wolff onward (see sch-german-idealism). The young Kant engaged monads directly in his *Monadologia physica* (1756), and the idealists after him took up Leibnizian themes of activity, perception and the individuality of substances, though not his monadology as such.
+- **German Idealism**: Christian Wolff systematized Leibniz's metaphysics into the dominant scholastic philosophy of 18th-century Germany. The young Immanuel Kant engaged Leibnizian monadic physics directly in his *Monadologia physica* (1756). Later, in the *Critique of Pure Reason* (1781), Kant subjected the monadology to extensive criticism in the "Amphiboly of Concepts of Reflection," arguing that Leibniz intellectualized phenomena by treating sensory representations as confused intellectual concepts.
+- **Analytic Philosophy**: Bertrand Russell's *A Critical Exposition of the Philosophy of Leibniz* (1900) revolutionized Leibniz studies by arguing that the monadology was logically derived from Leibniz's adherence to traditional subject-predicate logic (that every true proposition asserts a predicate contained within its subject). Modern modal logic and possible-worlds semantics (developed by Saul Kripke and David Lewis) draw directly on Leibniz's doctrine that God surveyed an infinity of possible worlds in the divine understanding before actualizing the best.
+- **Process Philosophy and Continental Thought**: Alfred North Whitehead acknowledged Leibniz as a major forerunner of his process ontology of "actual entities" in *Process and Reality* (1929). Gilles Deleuze, in *The Fold: Leibniz and the Baroque* (1988), reinterpreted Leibniz's monad as an inflection point and dynamic folding of continuous matter and consciousness.
 
-### Analytic Philosophy
+## See Also
 
-Bertrand Russell's *A Critical Exposition of the Philosophy of Leibniz* (1900) argued that Leibniz's monadism follows from his subject-predicate logic, and that a logic of relations removes the motivation for it. This became an influential reading in early analytic philosophy.
-
-### Contemporary Philosophy
-
-Leibniz's account of possible worlds and his "best of all possible worlds" thesis are a main source of modern possible-worlds metaphysics; David Lewis (see thk-dlewis), in *On the Plurality of Worlds* (1986), developed a very different, realist theory of worlds. Leibnizian ideas of perception and mind-like simples also recur in panpsychist discussions, and Whitehead's *Process and Reality* (1929) acknowledges a debt to Leibniz.
-
-## Criticism
-
-- Kant (see thk-kant): in the "Critique of Pure Reason" he criticized Leibniz in the Amphiboly of the Concepts of Reflection, and in the Paralogisms argued that the simplicity of the soul cannot be established by pure reason, which undermines inferences from thought to a simple substance.
-- Karl Popper (see thk-karl-popper): from a Popperian standpoint the monadology is metaphysical rather than empirically falsifiable, although Popper held that such metaphysical ideas can still be rationally discussed and historically fruitful.
-- Critics since Leibniz's own time (e.g. the Newtonian Samuel Clarke, with whom Leibniz corresponded, and later Kant) have objected that windowless monads make real interaction and an external world hard to explain. By contrast, Gilles Deleuze in *The Fold* (1988) reread Leibniz sympathetically.
-
-## Related Atlas Entries
-
-Atlas entries connected with this entry (from the `related` field); these are internal references, not external sources:
-
-- *The Monadology by Gottfried Leibniz*
+- *The Monadology by Gottfried Leibniz* (wrk-monadology-leibniz)
 
 ## Sources
 
-**Primary works on which the body relies:**
-
-- Gottfried Wilhelm Leibniz, *Monadology* and *Principles of Nature and Grace* (both 1714), in *Philosophical Essays*, trans. Roger Ariew and Daniel Garber, Hackett, 1989.
+- Gottfried Wilhelm Leibniz, *Philosophical Essays*, translated by Roger Ariew and Daniel Garber, Hackett Publishing, 1989.
+- Gottfried Wilhelm Leibniz, *The Monadology and Other Philosophical Writings*, translated by Robert Latta, Oxford University Press, 1898.
 - Bertrand Russell, *A Critical Exposition of the Philosophy of Leibniz*, Cambridge University Press, 1900.
-
-**Peer-reviewed reference entries:**
-
-- "Leibniz, Gottfried Wilhelm," *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/leibniz/>
-- "Lewis, David," *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/david-lewis/>
-- "Kant, Immanuel," *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/kant/>
+- Nicholas Rescher, *G. W. Leibniz's Monadology: An Edition for Students*, University of Pittsburgh Press, 1991.
+- Robert Merrihew Adams, *Leibniz: Determinist, Theist, Idealist*, Oxford University Press, 1994.

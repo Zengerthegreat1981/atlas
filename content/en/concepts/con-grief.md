@@ -13,35 +13,44 @@ related:
   - id: "con-death", title: "Death", type: "مفهوم"
   - id: "con-meaninglessness", title: "Meaninglessness", type: "مفهوم"
   - id: "thk-yalom", title: "Yalom", type: "مفكر"
+gaps: []
 ---
+
 # Grief
 
-Grief is not primarily a pathological state to be treated but a profound existential truth: we are beings capable of attachment and loss. The intensity of grief is proportional to the depth of connection. To have loved deeply is to be vulnerable to grief; to avoid grief is to avoid love.
+## Definition and the Existential Perspective
 
-## Grief as Witness to Love
+Grief is the multifaceted psychological, physiological, and behavioral response to significant loss, most acutely experienced following the death of an attached other. Rather than conceptualizing grief primarily as a pathological state or medical condition requiring a cure, the existential perspective recognizes grief as an intrinsic dimension of human finitude and relational vulnerability. To form profound emotional attachments is inevitably to risk the agony of bereavement; grief stands as direct testimony to the reality and depth of human love and meaning.
 
-The existential perspective on grief inverts the medicalization of loss prevalent in contemporary psychology. Grief is not a disorder; it is evidence of having loved. The pain of grief attests to the reality of the bond that death or separation has severed. In this sense, grief is a form of continued love—the persistence of caring for someone who is no longer present.
+## Major Theoretical Formulations
 
-This has practical implications. Rather than attempting to "resolve" or "complete" grief through stages of acceptance, the existential therapist may help the griever discover ways to carry the loss forward: to honor the relationship in memory, to internalize what the deceased or lost person meant, to allow that meaning to shape ongoing choices.
+Psychological and psychiatric understandings of grief have evolved substantially over the past century:
 
-## Uncomplicated and Complicated Grief
+1. **Freud's Psychoanalytic Formulation**: In "Mourning and Melancholia" (1917), Sigmund Freud framed mourning as the slow, painful psychic work of withdrawing libidinal investment (*decathexis*) from the lost object so that psychic energy becomes free for new attachments. Freud sharply distinguished normal mourning from melancholia (clinical depression): while mourning involves a loss of the external loved one, melancholia involves an unconscious loss within the ego itself, marked by severe self-reproach, guilt, and a collapse in self-esteem.
+2. **Stage and Task Models**: Elisabeth Kübler-Ross (*On Death and Dying*, 1969) popularized a five-stage model (denial, anger, bargaining, depression, acceptance). While widely recognized, contemporary bereavement science cautions that grief does not proceed through linear, invariant stages. J. William Worden (*Grief Counseling and Grief Therapy*, 1982/2018) reframed grief into four active, non-linear tasks:
+   - Accepting the reality of the loss.
+   - Processing the emotional and physical pain of grief.
+   - Adjusting to an environment in which the deceased is missing (external, internal, and spiritual adjustments).
+   - Finding an enduring emotional connection with the deceased while reinvesting in ongoing life.
+3. **The Dual Process Model (DPM)**: Developed by Margaret Stroebe and Henk Schut (1999), this dynamic framework posits that adaptive coping involves an ongoing **oscillation** between:
+   - *Loss-oriented coping*: Confronting the loss, yearning, crying, and dwelling on grief-related memories.
+   - *Restoration-oriented coping*: Attending to life changes, mastering new tasks, engaging distractions, and establishing new roles.
+   Mental health is supported not by remaining continuously in one orientation, but by the capacity to alternate flexibly between them.
+4. **Continuing Bonds Theory**: Dennis Klass, Phyllis Silverman, and Steven Nickman (1996) challenged the traditional view that healthy bereavement requires breaking emotional ties with the deceased. Their research demonstrated that bereaved individuals adaptively construct an enduring internal representation and ongoing relationship with the deceased that integrates meaningfully into their evolving identity.
 
-DSM-5-TR (2022) includes prolonged grief disorder, requiring persistent, impairing grief symptoms at least 12 months after the death for adults, and ICD-11 has a similar diagnosis with a 6-month threshold; such diagnoses should be made by a qualified clinician. Not all grief is existential insight, however. Grief that leads to complete withdrawal, that prevents the griever from reinvesting in life or new relationships, may be "complicated" grief—which may benefit from intervention. But the distinction between normal and complicated grief is itself existential: the question is whether the person is moving toward or away from authenticity, whether they are living or merely surviving.
+## Diagnostic Distinctions and Clinical Caveats
 
-A griever who cries, who feels the weight of absence, who misses the deceased, may be doing the existential work of grief. A griever who intellectualizes the loss, who moves quickly to "acceptance" and a return to normalcy without allowing the confrontation with mortality and finitude that the loss represents, may be defending against the existential reality.
-
-## Mortality Salience and Existential Growth
-
-Existential therapists, particularly Yalom, have observed that confrontation with grief and loss can catalyze existential growth. When a person truly allows themselves to grieve—to feel the weight of the finitude that the loss represents—they often experience a subsequent clarification of values and priorities. What mattered before may suddenly seem trivial; what was postponed may suddenly seem urgent.
-
-The therapeutic stance toward grief is therefore not to hurry the mourner toward acceptance but to allow the process of grief to unfold and to remain curious about what it is revealing. Grief, taken seriously, is a window into one's deepest commitments and values.
+Bereavement is a universal human experience and should not be pathologized. However, a minority of individuals develop persistent, disabling grief complications:
+- **Diagnostic Criteria**: The DSM-5-TR (2022) formalized **Prolonged Grief Disorder (PGD)**, characterized by persistent yearning or preoccupation with the deceased, intense emotional pain, identity disruption, and functional impairment lasting at least 12 months after the death in adults (6 months in children and adolescents). The ICD-11 includes a corresponding diagnosis with a 6-month threshold, emphasizing that symptoms must distinctly exceed expected sociocultural and religious mourning norms.
+- **Clinical Evaluation**: Formal diagnoses must be rendered cautiously by qualified mental health professionals. Existential and supportive therapies emphasize creating a compassionate, non-judgmental holding environment where the mourner can examine their mortality, clarify enduring values, and carry the memory of the loved one forward without being hurried toward artificial closure.
 
 ## Sources
 
-1. Yalom, I. D. (2008). *Staring at the Sun: Overcoming the Terror of Death*. Jossey-Bass.
-2. Frankl, V. E. (1959). *Man's Search for Meaning*. Beacon Press.
-3. Worden, J. W. (2018). *Grief Counseling and Grief Therapy: A Handbook for the Mental Health Professional* (5th ed.). Springer Publishing Company.
-4. May, R. (1969). *Love and Will*. W. W. Norton & Company.
+- Sigmund Freud, "Mourning and Melancholia", *The Standard Edition of the Complete Psychological Works of Sigmund Freud*, vol. 14, 1917.
+- Margaret Stroebe & Henk Schut, "The Dual Process Model of Coping with Bereavement: Rationale and Description", *Death Studies*, 1999.
+- Dennis Klass, Phyllis R. Silverman, & Steven L. Nickman (eds.), *Continuing Bonds: New Understandings of Grief*, 1996.
+- J. William Worden, *Grief Counseling and Grief Therapy: A Handbook for the Mental Health Professional*, 5th ed., 2018.
+- Irvin D. Yalom, *Staring at the Sun: Overcoming the Terror of Death*, 2008.
 
 ## Related Concepts
 

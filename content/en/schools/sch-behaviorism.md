@@ -35,73 +35,57 @@ gaps: []
 
 # Behaviorism
 
-Behaviorism is the **second methodological revolution** in psychology (after Wundt's experimental revolution in 1879): it turned psychology from a science that studies **consciousness** (self-reports, intuition, introspection) into a science that studies only **objectively observed behavior**. Watson (1913) formulated the "Behaviorist Manifesto": a genuinely scientific psychology must deal with measurable objective stimuli and responses (behavior), not with introspective "consciousness" and other unobservable mental states. This methodological reduction, rather than a cognitive one, is what allowed behaviorism later to expand into a **complete psychotherapy** (behavior therapy) and then to merge with cognition in the second wave (CBT).
+Behaviorism represents a profound methodological shift in psychology: it redefined psychology from the introspective study of conscious experience and mental states to the objective, experimental science of observable behavior. In his 1913 manifesto "Psychology as the Behaviorist Views It," John B. Watson argued that a genuinely objective science must discard introspection and unobservable mental states, focusing entirely on lawful relationships between environmental stimuli and behavioral responses. Over the twentieth century, this methodological orientation evolved through neobehaviorist learning theories and B. F. Skinner's radical behaviorism into clinical behavior therapy, applied behavior analysis (ABA), and eventual synthesis with cognitive constructs.
 
-## Intellectual Context
+## Intellectual and Historical Context
 
-- **Positivism** (Comte, Mach): science studies what is observable and measurable.
-- **Evolutionism** (Darwin): behavior can be explained by adaptation, not by the soul or consciousness.
-- **Physiology** (Sherrington, Pavlov): reflexes and conditioned secretion.
+Behaviorism developed at the intersection of several nineteenth- and twentieth-century intellectual currents:
+- **Positivism and Empiricism** (Auguste Comte, Ernst Mach): Science must restrict its inquiries to directly observable, publicly verifiable phenomena.
+- **Evolutionary Biology** (Charles Darwin): Establishing continuity between animal and human behavior, legitimizing comparative animal research to understand human learning.
+- **Physiology and Reflexology** (Ivan Pavlov, Vladimir Bekhterev): Demonstrating that physiological reflexes can become conditioned to arbitrary sensory stimuli through temporal contiguity.
+- **Functionalism and Comparative Psychology** (Edward L. Thorndike): Formulating the Law of Effect through puzzle-box experiments, demonstrating that behaviors followed by satisfying states are stamped in, whereas those followed by discomfort are weakened.
 
-The first lever was **Pavlov's experiments** (1897-1903) on conditioned secretion in dogs: the sound of a bell (conditioned stimulus) is paired with food (unconditioned stimulus) until the bell alone makes the dog salivate. This simple discovery paved the way for reading all human behavior as "conditioning" that can be broken down into components.
+## Historical Phases and Evolution
 
-## Historical Phases
+- **Foundational Classical Behaviorism** (1913–1930s): Initiated by John B. Watson's manifesto (1913) and his conditioning experiments (including the ethically controversial 1920 Little Albert study with Rosalie Rayner), emphasizing stimulus-response (S-R) pairings.
+- **Neobehaviorism** (1930s–1950s): Clark Hull formulated rigorous mathematical-deductive drive reduction models, while Edward C. Tolman introduced purposive behaviorism and intervening variables (cognitive maps, latent learning), demonstrating that learning can occur without immediate reinforcement.
+- **Radical Behaviorism** (1930s–1990s): B. F. Skinner rejected inner mentalistic explanations while treating private events (covert behaviors such as thinking and feeling) as behaviors subject to the same operant contingencies as overt actions (*The Behavior of Organisms*, 1938; *Science and Human Behavior*, 1953).
+- **Behavior Therapy** (1950s–1960s): Joseph Wolpe introduced systematic desensitization based on reciprocal inhibition (1958), and Hans Eysenck established behavioral clinical research in the United Kingdom.
+- **Cognitive and Social Learning Integration** (1960s–1970s): Albert Bandura demonstrated observational learning and self-efficacy (1963, 1977), bridging behavioral principles with cognitive mediational processes, while Noam Chomsky's 1959 critique of Skinner's *Verbal Behavior* accelerated the cognitive revolution.
+- **Contemporary Third Wave** (1990s–present): Acceptance and Commitment Therapy (ACT), Dialectical Behavior Therapy (DBT), and Functional Analytic Psychotherapy (FAP) incorporate mindfulness, acceptance, and relational context within an operant and contextual framework.
 
-- **Pre-behaviorism** (1870s-1910s): the psychology of consciousness (Wundt, Titchener), then functional pragmatism (James, Dewey, Angell).
-- **Founding** (1913-1930): Watson's "Behaviorist Manifesto" (1913) and the development of S-R theory.
-- **Classical methodological behaviorism** (1913-1940): Watson and his followers.
-- **Radical behaviorism** (1930s-1990s): Skinner (*The Behavior of Organisms* 1938, *Verbal Behavior* 1957), who treated private events (thoughts and feelings) as behavior to be explained rather than as causes of behavior.
-- **Neobehaviorism** (1930s-1960s): Hull (systematic learning theory) and Tolman (purposive behavior, intervening variables). Bandura's observational learning is usually classed as social learning theory, a bridge toward the cognitive approach.
-- **Cognitive reform** (1960s): Chomsky's 1959 critique of Skinner; Miller-Galanter-Pribram (*Plans and the Structure of Behavior* 1960) helped shift psychology toward the study of mental processes.
-- **Behavior therapy** (1950s-): Wolpe (*Psychotherapy by Reciprocal Inhibition* 1958), Eysenck in London.
-- **Cognitive integration** (1970s): Beck and Ellis found CBT.
-- **Third wave** (1990s-): ACT, DBT, functional contextualism.
+## Core Behavioral Principles
 
-## Founding Concepts
-
-- **Classical conditioning (Pavlov)**: pairing a conditioned stimulus with an unconditioned stimulus until it produces a conditioned response. The basis of desensitization therapy.
-- **Operant conditioning (Skinner)**: behavior is shaped by its consequences (reinforcement, punishment, extinction). The basis of contingency management, contracting, and reinforcement scheduling.
-- **Positive and negative reinforcement**: increasing the probability of a behavior.
-- **Punishment**: decreasing the probability of a behavior (ethically less used than reinforcement).
-- **Generalization, discrimination, extinction**: the basic learning processes.
-- **Schedules of reinforcement** (continuous, intermittent, fixed, variable): produce behavior patterns that resist extinction.
-- **Systematic desensitization (Wolpe)**: treating fears through successive relaxation.
-- **Exposure and response prevention (ERP)**: treatment of obsessive-compulsive disorder.
-- **Conditioning by fading** (stimulus fading, shaping): building complex behaviors gradually.
-- **Observational / social learning** (Bandura, 1963): learning by watching without direct reinforcement.
-- **Self-efficacy** (Bandura, 1977): an individual's belief in their ability to carry out a behavior.
-
-## Relation to Neighboring Schools
-
-- **Psychoanalysis**: a historical methodological antithesis; behaviorism rejects the "ego," while psychoanalysis rejects "behavior" as an independent phenomenon.
-- **CBT**: developed directly from behaviorism through the cognitive revolution (Beck, Ellis, Meichenbaum, Mahoney).
-- **Third wave**: expands behaviorism with the context of acceptance and values (ACT), or with dialectics (DBT).
-- **Humanistic therapy**: a cognitive antithesis (emphasizing subjective experience, not observed behavior).
-- **Applied behavior analysis (ABA)**: the applied branch derived from Skinner's work, used in education and in interventions for developmental conditions such as autism spectrum disorder, where it has also been the subject of ethical debate.
+- **Classical (Respondent) Conditioning**: The pairing of a conditioned stimulus (CS) with an unconditioned stimulus (US) until the CS alone elicits a conditioned response (CR).
+- **Operant Conditioning**: Learning in which the future probability of a behavior is modified by its consequences:
+  - *Positive Reinforcement*: Presenting a reinforcing stimulus following a response, increasing response rate.
+  - *Negative Reinforcement*: Terminating or avoiding an aversive stimulus following a response, increasing response rate.
+  - *Positive and Negative Punishment*: Presenting an aversive stimulus or removing an appetitive stimulus, decreasing response rate.
+  - *Extinction*: Withholding reinforcement from a previously reinforced behavior, leading to a gradual decline in rate.
+- **Schedules of Reinforcement**: Fixed-ratio, variable-ratio, fixed-interval, and variable-interval schedules that govern response acquisition, maintenance, and resistance to extinction.
+- **Stimulus Control and Discrimination**: Emitting a behavior in the presence of a discriminative stimulus ($S^D$) signaling reinforcement availability, but not in its absence ($S^{\Delta}$).
+- **Shaping and Chaining**: Reinforcing successive approximations of a desired terminal behavior.
 
 ## Clinical Applications
 
-- **Exposure therapy**: fears, phobias, PTSD (with Prolonged Exposure).
-- **ERP**: obsessive-compulsive disorder.
-- **Behavioral activation** (Martell, Jacobson): depression.
-- **Contingency management**: addiction.
-- **Social skills training**.
-- **Cognitive behavioral therapy** (CBT): all anxiety and depressive disorders.
+- **Exposure Therapy and Flooding**: Systematic exposure to phobic stimuli without avoidance, extinguishing conditioned anxiety.
+- **Exposure and Response Prevention (ERP)**: The first-line behavioral treatment for obsessive-compulsive disorder.
+- **Behavioral Activation (BA)**: Re-engaging individuals with positive environmental reinforcement schedules to treat depression.
+- **Contingency Management**: Using token economies and vouchers to reinforce abstinence in substance use treatment.
+- **Applied Behavior Analysis (ABA)**: The systematic application of operant principles to teach functional communication, social skills, and adaptive behaviors in autism spectrum conditions, accompanied in recent years by contemporary debates regarding autonomy and neurodiversity.
 
-## Critique and Limits
+## Criticisms and Limitations
 
-- **Treatment of inner experience**: critics argue that radical behaviorism, by treating thoughts and feelings only as behavior rather than causes, neglects the explanatory role of mental processes.
-- **Excessive reductionism**: it ignores meaning, contexts, narratives, and culture.
-- **Application to the complex human being**: it requires intensive modifications.
-- **Historically**: the strict stimulus-response program proved inadequate for language and complex behavior (Chomsky, 1959); Watson and Rayner's "Little Albert" experiment (1920) is ethically problematic.
+- **Neglect of Internal Cognitive Operations**: Critics argue that classical and radical behaviorism oversimplify complex internal mental operations, intentionality, and subjective phenomenology.
+- **Linguistic and Creative Limitations**: Chomsky demonstrated that human language acquisition cannot be accounted for solely by stimulus-response conditioning and reinforcement, requiring internal cognitive generative capacities.
+- **Overgeneralization from Animal Models**: Early behaviorists often assumed complete translatability of non-human animal conditioning to complex socio-cultural human behavior without accounting for symbolic and systemic mediation.
 
 ## Sources
 
-- Watson, J. B. (1913). Psychology as the Behaviorist Views It. *Psychological Review*, 20(2), 158-177.
-- Pavlov, I. P. (1927). *Conditioned Reflexes* (G. V. Anrep, Trans.). Oxford University Press.
-- Thorndike, E. L. (1911). *Animal Intelligence: Experimental Studies*. Macmillan.
-- Skinner, B. F. (1938). *The Behavior of Organisms*. Appleton-Century-Crofts.
-- Skinner, B. F. (1953). *Science and Human Behavior*. Macmillan.
 - Bandura, A. (1977). *Social Learning Theory*. Prentice Hall.
-- Rachlin, H. (1991). *Introduction to Modern Behaviorism* (3rd ed.). Freeman.
-- O'Donohue, W., & Kitchener, R. (Eds.). (1996). *The Philosophy of Psychology*. Sage.
+- Pavlov, I. P. (1927). *Conditioned Reflexes* (G. V. Anrep, Trans.). Oxford University Press.
+- Skinner, B. F. (1938). *The Behavior of Organisms: An Experimental Analysis*. Appleton-Century-Crofts.
+- Skinner, B. F. (1953). *Science and Human Behavior*. Macmillan.
+- Thorndike, E. L. (1911). *Animal Intelligence: Experimental Studies*. Macmillan.
+- Watson, J. B. (1913). "Psychology as the behaviorist views it." *Psychological Review*, 20(2), 158-177.
+- Wolpe, J. (1958). *Psychotherapy by Reciprocal Inhibition*. Stanford University Press.

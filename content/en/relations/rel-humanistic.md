@@ -11,7 +11,7 @@ edges:
   - rel: "neighbour_of", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "br-humanistic", title: "Existential-Humanistic", type: "تيار"
-gaps:[]
+gaps: []
 ---
 
 # Humanistic Psychology
@@ -24,7 +24,7 @@ Both schools grew out of dissatisfaction with the two dominant psychologies of t
 
 ## The First Difference: Human Nature
 
-The first and deepest difference concerns human nature. Carl Rogers, in *On Becoming a Person* (1961), assumes an innate actualising tendency: given empathy, genuineness, and unconditional positive regard, a person naturally grows toward health, wholeness, and goodness. The humanistic picture is optimistic at bottom: the organism knows its own direction, and the therapist's task is to remove the obstacles to its unfolding. Existential therapy rejects that assumption outright. For Rollo May, a person is capable of good and of evil, and growth is not an automatic tendency but a painful choice, made again and again against resistance. May named this darker capacity the daimonic — the elemental power that can turn creative or destructive depending on whether it is integrated — and pressed the point in his "Open Letter to Carl Rogers" (1982), arguing that a psychology without a serious account of evil cannot understand the people who actually come to therapy.
+The first and deepest difference concerns human nature. Carl Rogers, in *On Becoming a Person* (1961), assumes an innate actualising tendency: given empathy, genuineness, and unconditional positive regard, a person naturally grows toward health, wholeness, and goodness. The humanistic picture is optimistic at bottom: the organism knows its own direction, and the therapist's task is to remove the obstacles to its unfolding. Existential therapy rejects that assumption outright. For Rollo May, a person is capable of good and of evil, and growth is not an automatic tendency but a painful choice, made again and again against resistance. May named this darker capacity the daimonic — the elemental power that can turn creative or destructive according to whether it is integrated — and pressed the point in his "Open Letter to Carl Rogers" (1982), arguing that a psychology without a serious account of evil cannot understand the people who actually come to therapy.
 
 ## The Second Difference: Limits
 

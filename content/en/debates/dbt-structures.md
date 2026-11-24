@@ -2,7 +2,7 @@
 slug: "dbt-structures"
 id: "DBT-0307"
 type: "جدل"
-part: philosophy
+part: "philosophy"
 level: ""
 title: "Structures or None?"
 en: "Structures or none?"
@@ -13,7 +13,7 @@ related:
   - id: "thk-vandeurzen", title: "Emmy van Deurzen", type: "مفكرة"
   - id: "thk-spinelli", title: "Ernesto Spinelli", type: "مفكر"
   - id: "br-british", title: "British Existential-Phenomenological", type: "تيار"
-gaps:[]
+gaps: []
 ---
 
 # Structures or None?

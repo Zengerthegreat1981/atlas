@@ -10,14 +10,13 @@ dates: "Austria/Britain · 1856–1939"
 language: "German / English"
 country: "Austria / Britain"
 part: "psychology"
-active_start: 1856
+active_start: 1885
 active_end: 1939
 edges:
 - rel: "belongs_to", target: "Psychoanalysis", target_type: "مدرسة"
 related:
 - id: "thk-rank", title: "Otto Rank", type: "مفكر"
-gaps:
-  - "A sourced quotation from *The Interpretation of Dreams* (1900): not yet covered."
+gaps: []
 ---
 # Sigmund Freud
 
@@ -32,7 +31,9 @@ He founded the "Wednesday Psychological Society" in Vienna in 1902, which develo
 ## What He Contributed
 
 - **The unconscious (Unbewusste)**: he established the concept of the unconscious as an independent psychic structure open to examination, in which a large part of mental life takes place outside immediate awareness and drives behavior and symptoms without the individual's knowledge. In his first ("topographical") model, set out in the last chapter of *The Interpretation of Dreams*, the mind is divided into the conscious, the preconscious, and the unconscious; the structural model of 1923 (below) later complemented it.
-- **The interpretation of dreams**: in *The Interpretation of Dreams* (Die Traumdeutung, issued in November 1899 with a fixed publication date of 1900), which he considered his most important work, he presented a systematic interpretation of the dream through free association as the "royal road to the unconscious" and as a disguised, symbolic attempt to fulfill a repressed wish.
+- **The interpretation of dreams**: in *The Interpretation of Dreams* (*Die Traumdeutung*, issued in November 1899 with an imprint date of 1900), which he considered his most important work, he presented a systematic interpretation of dreams through free association as a disguised, symbolic attempt to fulfill a repressed wish. As he famously proclaimed in Chapter VII:
+
+  > "The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind." (*Die Traumdeutung*, 1900; Standard Edition, 5: 608)
 - **Sexual theory and developmental stages**: in *Three Essays on the Theory of Sexuality* (1905) he proposed the stages of psychosexual development (oral, anal, phallic, followed by latency and the genital stage). He had formulated the **Oedipus complex**, first in his correspondence of 1897 and then in *The Interpretation of Dreams*, as the prototype for the organization of childhood desire.
 - **Defense mechanisms and repression**: the concept of **repression** (Verdrängung) as the basic mechanism that keeps painful contents out of consciousness, and the basis for the formation of neurotic symptoms.
 - **The tripartite psychic structure**: in *The Ego and the Id* (1923) he divided the psychic apparatus into the **id** (Es, instinctual drives), the **ego** (Ich, the realistic mediator), and the **superego** (Über-Ich, conscience and internalized standards), a structural model that provided the ground on which everything after it arose, whether in the directions of schism or in the directions of integration with phenomenological and existential philosophy.

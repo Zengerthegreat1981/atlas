@@ -21,8 +21,7 @@ related:
 - id: "ins-mbti", title: "Myers-Briggs Type Indicator", type: "أداة قياس"
 - id: "con-collective-unconscious", title: "The Collective Unconscious", type: "مفهوم"
 - id: "thk-ali-shariati", title: "Ali Shariati", type: "مفكر"
-gaps:
-  - "A sourced quotation from Jung's writings: not yet covered."
+gaps: []
 ---
 # Carl Gustav Jung
 
@@ -51,6 +50,10 @@ Three limitations on Jung, of varying weight:
 **Second — his statements in the 1930s.** In 1933 Jung took over the presidency of the **General Medical Society for Psychotherapy** when its German branch came under Nazi influence, edited its journal, the *Zentralblatt für Psychotherapie*, and wrote in 1934 about differences between "Germanic" and "Jewish" psychology, including remarks about an "Aryan unconscious". These are undisputed facts. Their interpretation, however, is divided: defenders say he stayed to preserve what could be preserved and to protect Jewish colleagues, that he did in fact help some of them, and that he later acknowledged having erred; opponents say that the language itself — not the administrative position — is the problem, and that it extends a tendency in his thought that links the psyche to soil and race. Both sides rely on the same documents.
 
 **Third — his influence beyond his own safeguards.** Jung became the first authority of the literature of spiritual growth and the New Age, where he is credited with what he did not say. He himself used to warn against treating the archetypes as beings, and against replacing arduous psychological work with talk of "the spirit".
+
+## Selected Quotation
+
+"My life is a story of the self-realization of the unconscious. Everything in the unconscious seeks outward manifestation, and the personality too desires to evolve out of its unconscious conditions and to experience itself as a whole." — *Memories, Dreams, Reflections* (1961, Prologue)
 
 ## Major Works
 

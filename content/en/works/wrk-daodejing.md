@@ -58,7 +58,7 @@ Readings of "wu wei" are contested among three tendencies. The first is politica
 
 ## The Dao, Confucianism, and Zhuangzi
 
-The book takes a critical position toward Confucian virtues in chapter 18: "When the great Dao is abandoned, humaneness and righteousness appear," considering that talk of virtues is a sign of the loss of their origin. But scholars do not agree that it is hostile to Confucius himself, and some see it as a critique of the transformation of virtues into formal ritual. Zhuangzi in the fourth century BCE widened the book's metaphysical ideas and added to them the relativity of knowledge and mockery of social values, and on this basis many attribute a single current to the two, although their languages and priorities differ: the first addresses the ruler, and the second addresses the individual seeking liberation. David Hansen in *A Daoist Theory of Chinese Thought* (1992) held that the Dao in the text is not a metaphysical entity but a practical guide in conduct and governance.
+The book takes a critical position toward Confucian virtues in chapter 18: "When the great Dao is abandoned, humaneness and righteousness appear," considering that talk of virtues is a sign of the loss of their origin. But scholars do not agree that it is hostile to Confucius himself, and some see it as a critique of the transformation of virtues into formal ritual. Zhuangzi in the fourth century BCE widened the book's metaphysical ideas and added to them the relativity of knowledge and mockery of social values, and on this basis many attribute a single current to the two, although their languages and priorities differ: the first addresses the ruler, and the second addresses the individual seeking liberation. Chad Hansen in *A Daoist Theory of Chinese Thought* (1992) held that the Dao in the text is not a metaphysical entity but a practical guide in conduct and governance.
 
 ## Modern Reception and Criticism
 
@@ -71,7 +71,7 @@ The value of the book does not mean that everything attributed to it is authenti
 ## Sources
 
 - Edward Slingerland, Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China (Oxford: Oxford University Press, 2003).
-- David L. Hansen, A Daoist Theory of Chinese Thought: A Philosophical Interpretation (Oxford: Oxford University Press, 1992).
+- Chad Hansen, *A Daoist Theory of Chinese Thought: A Philosophical Interpretation* (Oxford: Oxford University Press, 1992).
 - Harold D. Roth, Original Tao: Inward Training (Nei-yeh) and the Foundations of Taoist Mysticism (New York: Columbia University Press, 1999).
 - Robert G. Henricks, Lao-Tzu: Te-Tao Ching (New York: Ballantine Books, 1989).
 - Lau, D. C. (trans.) (1963). *Tao Te Ching*. Harmondsworth: Penguin.

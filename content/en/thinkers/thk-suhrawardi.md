@@ -25,42 +25,44 @@ gaps: []
 
 # Shihab al-Din Yahya ibn Habash al-Suhrawardi
 
-An Iranian philosopher and mystic (c. 1154–1191 CE), born in Suhraward in north-western Iran, and called "Shaykh al-Ishraq" (Master of Illumination). He founded the Illuminationist (Ishraqi) school of Islamic philosophy, which combines Avicennan philosophy, Platonic and Neoplatonic motifs, Persian light-and-darkness imagery and Sufi experience. He was executed in Aleppo in 587 AH (1191 CE), at the age of about thirty-seven, on charges of heterodoxy.
+Shihab al-Din Yahya ibn Habash al-Suhrawardi (c. 1154–1191 CE), born in Suhraward in north-western Iran and known as *Shaykh al-Ishraq* ("Master of Illumination"), was the founder of the Illuminationist (*Ishraqi*) school of Islamic philosophy. His thought synthesizes Avicennian Peripatetic philosophy, Platonic and Neoplatonic metaphysics, ancient Persian light symbolism, and Sufi mystical experience. Accused of heterodoxy by local jurists, he was executed in Aleppo in 587 AH (1191 CE) at around thirty-seven years of age under the Ayyubid sultanate.
 
 ## Life
 
-He studied in Maragha (with Majd al-Din al-Jili) and in Isfahan, travelled in Anatolia and Syria, and was drawn to the practice of Sufism and to the ascetic life. In Aleppo he enjoyed the favour of the local ruler, al-Malik al-Zahir, a son of Saladin. Jurists of the city accused him of heresy, and Saladin, who ruled the Ayyubid state, ordered his death. Accounts of the details, including the manner of death, differ in the sources, and the political circumstances are only partly known. Later admirers called him "al-Maqtul" (the one killed) or "the martyr".
+Suhrawardi began his studies in Maragha under Majd al-Din al-Jili and continued in Isfahan with Zahir al-Din al-Qari. He traveled extensively throughout Anatolia and Syria, practicing ascetic disciplines and associating with Sufi masters. In 1183 he settled in Aleppo, where he gained the patronage and friendship of the young Ayyubid governor, al-Malik al-Zahir Ghazi (son of Saladin). Religious scholars and jurists in Aleppo accused him of heretical doctrines and claiming prophetic authority. Pressured by the local ulama, Saladin ordered his execution. Imprisoned in the citadel of Aleppo, Suhrawardi died in 1191 CE. In the later philosophical tradition he is often remembered as *al-Shaykh al-Maqtul* ("the Slain Master") or *al-Shahid* ("the Martyr").
 
 ## Main Works
 
-His writings are in Arabic and Persian. They include:
+Suhrawardi composed technical treatises and visionary narratives in both Arabic and Persian:
 
-- *The Philosophy of Illumination* (Hikmat al-Ishraq, c. 1186), his major work.
-- Four more technical works in the Peripatetic manner: *al-Talwihat* (The Intimations), *al-Muqawamat* (The Opposites), *al-Mutarahat* (The Conversations), and *Hayakil al-Nur* (The Temples of Light).
-- Short allegorical treatises in Arabic and Persian, among them the *Treatise of the Occidental Exile* (Qissat al-Ghurba al-Gharbiyya), *The Red Intellect* ('Aql-i Surkh), *The Chant of Gabriel's Wing* (Awaz-i Par-i Jibra'il), and *The Language of the Termites* (Lughat-i Muran). The *Simurgh's Cry* (Safir-i Simurgh) is also attributed to him.
+- *Hikmat al-Ishraq* (*The Philosophy of Illumination*, completed in 1186), his masterpiece presenting the complete Illuminationist philosophical system.
+- The Peripatetic trilogy preparing the way for Illuminationism: *al-Talwihat* (*The Intimations*), *al-Muqawamat* (*The Oppositions*), and *al-Mutarahat* (*The Conversations*), alongside the concise summary *Hayakil al-Nur* (*The Temples of Light*).
+- Visionary and allegorical narratives in Arabic and Persian, including *Qissat al-Ghurba al-Gharbiyya* (*Treatise of the Occidental Exile*), *'Aql-i Surkh* (*The Red Intellect*), *Awaz-i Par-i Jibra'il* (*The Chant of Gabriel's Wing*), *Lughat-i Muran* (*The Language of the Ants*), and *Safir-i Simurgh* (*The Simurgh's Cry*).
 
 ## What He Contributed
 
-**Light and the hierarchy of being.** For Suhrawardi reality is light in different degrees of intensity. At the summit is the "Light of Lights" (Nur al-Anwar), the self-subsistent source of all other light. From it proceed the "dominating lights" (anwar qahira), then the lights that govern bodies, including human souls, and at the bottom are the "dark substances" such as bodies. This is not a physical doctrine but a metaphysics in which the illumination of a thing is also its knowledge and its being.
+**Metaphysics of Light and the Hierarchy of Being.** Suhrawardi replaced the Aristotelian hylomorphic ontology with an ontology of light (*nur*). Reality consists entirely of light varying in degrees of intensity and luminosity. At the pinnacle is the self-subsistent "Light of Lights" (*Nur al-Anwar*), from which emanates an order of incorporeal, dominating lights (*anwar qahira*), followed by regent lights (*anwar mudabbira* or *ispahbad*) governing celestial spheres and human souls. At the lowest level are dark, non-luminous substances (*barzakh* and *ghasaq*), which constitute physical bodies. Illumination is simultaneously being and self-luminous knowledge.
 
-**Knowledge by presence.** Alongside acquired (conceptual, representational) knowledge, he stressed "knowledge by presence" (ilm huduri), in which the object is immediately present to the knower, as in self-awareness. He argued that self-knowledge cannot depend on a mental representation, since the self is already present to itself. This became a central doctrine in later Islamic philosophy.
+**Knowledge by Presence (*al-'ilm al-huduri*).** In addition to acquired, representational knowledge (*al-'ilm al-husuli*), Suhrawardi emphasized "knowledge by presence," wherein the object known is immediately and luminously present to the knower without a conceptual intermediary. He demonstrated that primary self-awareness cannot be based on a mental representation: for a subject to recognize a representation as representing itself, it must already be immediately aware of itself. This concept became a foundation of later post-Avicennian Islamic philosophy.
 
-**Critique of the Peripatetics.** He criticized Avicenna and Aristotelian logic, in particular the doctrine that things are known through definitions made of genus and specific difference, which he thought could not be completed. He proposed that real knowledge of things depends on direct vision, prepared by intellectual training and spiritual discipline.
+**Critique of Peripatetic Logic and Definition.** Suhrawardi offered a rigorous critique of the Aristotelian theory of essential definition through genus and specific difference. He argued that formulating a complete essential definition requires an exhaustive knowledge of all essential properties, which is impossible or circular. Consequently, the fundamental natures of things are grasped not by discursive abstraction, but by direct intuitive vision and intellectual illumination (*ishraq*).
 
-**The two sources of wisdom.** He held that philosophy and mystical vision must go together, and he linked his work to an ancient "eternal wisdom" which he traced through Plato, Hermes and the sages of Persia. The role of these figures, and of the Zoroastrian imagery he uses, is a symbolic claim, and modern scholars debate how historical it is.
+**The Imaginal World (*'alam al-mithal*).** Suhrawardi formally introduced an ontological intermediate realm—the *'alam al-mithal* or *mundus imaginalis*—standing between the immaterial intelligible realm and the sensible physical realm. It possesses form, extension, and color without physical matter, providing an ontological locus for visionary experience, prophetic visions, and eschatological realities.
+
+**The Ancient Wisdom (*al-hikma al-atiqa*).** Suhrawardi held that true wisdom unites discursive philosophical rigor with mystical experience. He traced this perennial wisdom through an unbroken lineage linking the ancient sages of Persia (Kayumars, Faraydun, Kai Khusraw) and Greece (Hermes, Pythagoras, Empedocles, and Plato).
 
 ## Influence
 
-Commentaries by Shams al-Din al-Shahrazuri (d. after 1288) and Qutb al-Din al-Shirazi (d. 1311) kept the school alive. Mulla Sadra (c. 1571–1636) combined Illuminationist and Avicennan ideas in his "Transcendent Theosophy", and Suhrawardi's doctrines remained part of philosophical teaching in Iran. In the twentieth century Henry Corbin presented him to Western readers as a visionary philosopher of an "imaginal world", while Hossein Ziai, John Walbridge and Seyyed Hossein Nasr gave more analytic or historical readings.
+Illuminationist philosophy was preserved and transmitted through major commentaries by Shams al-Din al-Shahrazuri (d. after 1288) and Qutb al-Din al-Shirazi (d. 1311). In Safavid Iran, Mulla Sadra (c. 1571–1636) integrated Suhrawardi's light metaphysics and knowledge by presence into his Transcendent Theosophy (*al-Hikma al-Muta'aliyya*). In the twentieth century, Henry Corbin brought Suhrawardi to Western scholarly attention as a visionary philosopher of the imaginal realm, while Hossein Ziai, John Walbridge, and Seyyed Hossein Nasr examined his epistemological and historical foundations.
 
 ## Criticism and Debate
 
-Scholars disagree on whether to call him mainly a mystic or a rigorous logician, and on how far Corbin's reading projects later concerns onto him. His use of ancient sages as authorities is regarded as partly legendary. His claim that direct vision gives knowledge is hard to test, and critics from the Peripatetic side thought that he abandoned demonstration.
+Peripatetic philosophers criticized Suhrawardi for replacing rigorous syllogistic demonstration with mystical intuition. Later scholars have debated whether Suhrawardi was primarily a rigorous analytical reformer of Avicennian logic or an esoteric mystic, and historians examine how far his attributions to ancient Persian sages reflect genuine historical transmission rather than philosophical symbolism.
 
 ## Sources
 
 - Suhrawardi (1999). *The Philosophy of Illumination*, ed. and trans. J. Walbridge and H. Ziai. Provo: Brigham Young University Press.
 - Ziai, H. (1990). *Knowledge and Illumination: A Study of Suhrawardi's Hikmat al-Ishraq*. Atlanta: Scholars Press.
 - Walbridge, J. (2001). *The Wisdom of the Mystic East: Suhrawardi and Platonic Orientalism*. Albany: SUNY Press.
-- Corbin, H. (1971-72). *En Islam iranien: aspects spirituels et philosophiques*, 4 vols. Paris: Gallimard.
+- Corbin, H. (1971–1972). *En Islam iranien: aspects spirituels et philosophiques* (4 vols.). Paris: Gallimard.
 - Nasr, S. H. (1964). *Three Muslim Sages*. Cambridge, MA: Harvard University Press.

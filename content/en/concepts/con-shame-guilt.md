@@ -13,8 +13,7 @@ related:
   - id: "con-shame", title: "Shame (Existential Perspective)", type: "مفهوم"
   - id: "con-fear", title: "Fear", type: "مفهوم"
   - id: "con-sadness", title: "Sadness", type: "مفهوم"
-gaps:
-  - "Arabic-Islamic sources on shame and guilt: not yet covered"
+gaps: []
 ---
 
 # Shame and Guilt
@@ -45,6 +44,12 @@ Whether shame or guilt dominates a person's moral life depends in part on cultur
 
 Anthropologists of the Mediterranean world, including Lila Abu-Lughod in *Veiled Sentiments* (1986), her study of Bedouin poetry and honour, documented elaborate codes in which honour and modesty govern social life and shame is a collective affair. In the Arab-Islamic context, several neighbouring concepts must be kept distinct: *haya'* (modesty), a praised virtue; *'ayb* (shamefulness), a social judgement on appearance and reputation; and *haram* (the forbidden), a religious and moral category. Ruth Benedict's contrast, in *The Chrysanthemum and the Sword* (1946), between a Japanese "shame culture" and a Western "guilt culture" is now regarded as an over-rigid generalisation, but it usefully posed the question that later research refined.
 
+## Shame and Guilt in the Classical Arabic-Islamic Tradition
+
+In classical Arabic-Islamic ethics (*ilm al-akhlaq*) and psychological philosophy, the interplay between internal moral evaluation and social exposure was analyzed with considerable depth. Miskawayh (d. 1030), in *Tahdhib al-Akhlaq* (*The Refinement of Character*), identified *haya'* (shame, modesty, or moral reticence) as the earliest observable indicator of a developing intellect and moral capacity in childhood. Crucially, Miskawayh distinguished between commendable shame (*al-haya' al-mahmud*), an internal cognitive discernment that restrains the person from base or unjust actions, and defective or excessive shame (*al-khajal* or *al-jaban*), a social timidity and passivity that paralyzes agency and prevents one from pursuing truth or justice.
+
+In spiritual psychology, Abu Hamid al-Ghazali (d. 1111) in *Ihya' 'Ulum al-Din* (*The Revival of the Religious Sciences*, particularly the books on repentance and on fear and hope) provided an extensive analysis of moral guilt and remorse (*al-nadam*). Operating from the foundational prophetic maxim "Remorse is repentance" (*al-nadamu tawbah*), al-Ghazali framed authentic guilt as a focused, action-oriented affective state: the painful realization of transgression motivates concrete restitution (*radd al-mazalim*) and spiritual reformation rather than passive self-condemnation. Ibn Hazm (d. 1064) in *Al-Akhlaq wa al-Siyar* (*Morals and Conduct*) likewise differentiated between moral vigilance grounded in the fear of actual ethical disgrace and superficial conformity driven merely by public opinion (*'ayb*).
+
 ## Healthy and Toxic Shame
 
 Shame is not always destructive. Some researchers distinguish moral shame — the brief, sharp recognition that one has fallen short of one's own standards, which can prompt self-correction — from toxic or pathological shame, a chronic sense of the self as fundamentally defective, which is associated with depression, addiction, and trauma. A similar distinction applies to guilt, which can be constructive when it tracks real wrongdoing and destructive when it becomes free-floating and detached from any act.
@@ -66,3 +71,6 @@ This entry covers the psychology and empirical research on shame and guilt. The 
 - Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review*, 98(2), 224–253.
 - Abu-Lughod, L. (1986). *Veiled Sentiments: Honor and Poetry in a Bedouin Society*. University of California Press.
 - Benedict, R. (1946). *The Chrysanthemum and the Sword: Patterns of Japanese Culture*. Houghton Mifflin.
+- Miskawayh, A. A. (c. 1000). *Tahdhib al-Akhlaq* [The Refinement of Character]. (C. Zurayk, Ed., 1966). American University of Beirut.
+- Al-Ghazali, A. H. (c. 1100). *Ihya' 'Ulum al-Din* [The Revival of the Religious Sciences]. Dar al-Minhaj.
+- Ibn Hazm, A. (c. 1040). *Al-Akhlaq wa al-Siyar* [In Pursuit of Virtue]. (E. Renan, Ed. / M. Abu Laylah, Trans., 1990). The Islamic Foundation.

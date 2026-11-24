@@ -19,9 +19,7 @@ related:
 - id: "sch-post-structuralism", title: "Post-Structuralism", type: "مدرسة"
 - id: "thk-nietzsche", title: "Friedrich Nietzsche", type: "مفكر"
 - id: "thk-spinoza", title: "Baruch Spinoza", type: "مفكر"
-gaps:
-  - "The individual contributions of Deleuze and Guattari within their jointly written works: not yet covered."
-  - "Applications of the body without organs in somatic and liberation psychology outside Deleuze's own philosophy: not yet covered."
+gaps: []
 ---
 
 # Gilles Deleuze
@@ -67,6 +65,14 @@ Deleuze published two books on cinema, *Cinema 1: The Movement-Image* (1983) and
 ## Influence and Reception
 
 Deleuze's influence spread in literature, art, cinema, architecture, feminist studies, the theory of social movements, geography and political science, and the concepts of the "rhizome" and the "line of flight" took a wide place in cultural criticism. Michael Hardt read him within the heritage of immanent ontological thinking, and Alain Badiou placed him at the center of the debate over the one and the many.
+
+## Collaborative Dynamics: Deleuze and Guattari
+
+In their co-authored volumes (*Anti-Oedipus*, *Kafka: Toward a Minor Literature*, *A Thousand Plateaus*, and *What Is Philosophy?*), Deleuze and Guattari operated through a distinct division of conceptual and experiential labor. Félix Guattari contributed direct clinical insights from his institutional psychoanalytic work at the experimental La Borde psychiatric clinic under Jean Oury, along with militant political activism and the concepts of transversality, machinic assemblages, and group fantasy. Gilles Deleuze provided the rigorous philosophical architecture, drawing upon his earlier monographs on Spinoza, Nietzsche, Hume, and Bergson to articulate an immanent ontology of difference, virtuality, and multiplicity. Rather than blending into a uniform synthesis, their partnership functioned as an assemblage ("a two-person multiplicity") where Guattari's raw clinical and political intuitions were channeled through Deleuze's concept-creating philosophical mechanics.
+
+## The Body Without Organs in Somatic and Liberation Psychology
+
+Outside Deleuze and Guattari's ontological framing, the concept of the "body without organs" (BwO) has been adopted across somatic psychology, critical psychotherapy, and feminist theory. Somatic practitioners and critical theorists, including Elizabeth Grosz and Rosi Braidotti, draw on the BwO to rethink the psychosomatic body beyond anatomical functionalism and patriarchal normative codings. In trauma therapy and somatic liberation work, the BwO provides a conceptual metaphor for dismantling psychosomatic rigidity—reminiscent of Wilhelm Reich's concept of character armor—allowing the body to de-habituate conditioned neuro-affective responses and open new circuits of affective vitality and bodily potential without falling into catatonic disintegration or organ failure.
 
 ## Limits and Critique
 

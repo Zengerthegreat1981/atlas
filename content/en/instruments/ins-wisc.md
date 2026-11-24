@@ -8,42 +8,59 @@ en: "Wechsler Intelligence Scale for Children (WISC-V)"
 crumb: "Psychology ← Instruments ← Wechsler Intelligence Scale for Children"
 active_start: 1949
 active_end: "مستمر"
-part: psychology
-items_count: "10 primary subtests, 6 secondary subtests and 5 complementary subtests in the fifth edition (WISC-V); there is no fixed number of items because it is a performance battery, not a questionnaire"
-target_population: "Children and adolescents from age 6 years to 16 years 11 months"
-reliability: "High reliability coefficients, about 0.96 for the Full Scale IQ (FSIQ) in the American standardization sample of the fifth edition, with somewhat lower values for the index scores"
-validity_note: "The five-index structure is consistent with Cattell-Horn-Carroll (CHC) cognitive theory, and the factor structure continues to be debated; concurrent validity is well documented with measures of academic achievement, but it relies mainly on American and European samples"
-psychometric_standing: "An established gold standard (well-established) clinically and in research for assessing intelligence in children"
-related:
-gaps:
-  - "Standardization of Arabic versions of the Wechsler scales for children: not yet covered"
-  - "Digital administration (Q-interactive) and its effect on assessment accuracy: not yet covered"
-  - "Comparison of the WISC-V with other developmental diagnostic batteries: not yet covered"
+part: "psychology"
+items_count: "21 subtests in the fifth edition (WISC-V): 10 primary subtests, 6 secondary subtests, and 5 complementary subtests"
+target_population: "Children and adolescents aged 6 years 0 months to 16 years 11 months"
+reliability: "High reliability coefficients, approximately 0.96 for the Full Scale IQ (FSIQ) in the standardization sample, with composite index reliabilities ranging from 0.88 to 0.94"
+validity_note: "Five-factor structure aligns with the Cattell-Horn-Carroll (CHC) model of intelligence; concurrent validity is established with academic achievement batteries and other cognitive measures"
+psychometric_standing: "well-established"
+related: []
+gaps: []
 ---
-
 
 # Wechsler Intelligence Scale for Children
 
-The standard clinical battery for assessing overall intelligence and developmental cognitive abilities in children and adolescents from age 6 years to 16 years 11 months. It was designed by David Wechsler, and its first version was published in 1949 as a children's derivative of his original scale for adults; the fifth edition (WISC-V) was issued in 2014 by Pearson.
+The Wechsler Intelligence Scale for Children (WISC) is the clinical gold standard for the individual assessment of cognitive functioning and intellectual ability in children and adolescents aged 6 years 0 months to 16 years 11 months.
 
-## Structure and psychometric properties
+## Structure and Psychometric Properties
 
-The fifth edition (WISC-V) offers five primary index scores informed by the Cattell-Horn-Carroll (CHC) model: (1) verbal comprehension, (2) visual-spatial processing, (3) fluid reasoning, (4) working memory, and (5) processing speed. The American standardization sample for the fifth edition consisted of about 2,200 children demographically representative according to American census data (by age, sex, race, parental education level, and geographic region), with a reported reliability of about 0.96 for the Full Scale IQ (FSIQ).
+First developed by David Wechsler in 1949 as an downward extension of the Wechsler-Bellevue test, the battery has undergone continuous psychometric refinement through the WISC-R (1974), WISC-III (1991), WISC-IV (2003), and the fifth edition (WISC-V, 2014) published by Pearson.
 
-## Clinical and research use
+The WISC-V structure directly reflects the Cattell-Horn-Carroll (CHC) hierarchical model of cognitive abilities. It comprises 21 subtests categorized into 10 primary subtests, 6 secondary subtests, and 5 complementary subtests. 
 
-It is used as part of comprehensive assessment of children with suspected learning difficulties, intellectual disability, attention-deficit/hyperactivity disorder, or autism spectrum disorder, and in decisions about gifted programs and individualized education plans (IEPs). Its scores inform, but do not by themselves establish, any of these diagnoses.
+The primary subtests yield five Primary Index Scales:
+1. **Verbal Comprehension Index (VCI)**: Similarities, Vocabulary (measures crystalized knowledge, verbal reasoning, and linguistic concept formation).
+2. **Visual Spatial Index (VSI)**: Block Design, Visual Puzzles (measures spatial visualization, mental rotation, and visual-motor integration).
+3. **Fluid Reasoning Index (FRI)**: Matrix Reasoning, Figure Weights (measures inductive reasoning, quantitative logic, and abstract problem-solving).
+4. **Working Memory Index (WMI)**: Digit Span, Picture Span (measures immediate mental retention, sequencing, and manipulation of auditory and visual stimuli).
+5. **Processing Speed Index (PSI)**: Coding, Symbol Search (measures perceptual discrimination speed, visual scanning, and rapid graphomotor output).
 
-## Limitations and critique
+In the WISC-V, the Full Scale IQ (FSIQ; mean = 100, standard deviation = 15) is derived from seven core subtests (Similarities, Vocabulary, Block Design, Matrix Reasoning, Figure Weights, Digit Span, and Coding) rather than the entire battery, reducing testing time. The American standardization sample included 2,200 children stratified by age, sex, race/ethnicity, parental education, and geographic region. Internal consistency for the FSIQ is approximately 0.96.
 
-The performance of some children with test anxiety or distractibility is affected in processing-speed scores, which calls for using the General Ability Index (GAI) to avoid underestimating their true intelligence. The test is also criticized for relying mainly on Western (American) norms that do not necessarily take into account the cultural and linguistic differences of children outside the original standardization environment.
+Ancillary index scales can also be calculated, including the General Ability Index (GAI), which measures intellectual capacity free from working memory and processing speed demands, and the Cognitive Proficiency Index (CPI), which specifically isolates processing efficiency.
 
-## Historical and developmental impact
+## Clinical and Educational Applications
 
-On its release in 1949, the WISC represented the first systematic extension of Wechsler's philosophy of intelligence measurement (the separation between verbal and performance scales) to the children's age group, after the Binet-Simon scales had been the globally dominant measures of children's intelligence using the single mental-age model; its successive editions (WISC, WISC-R, WISC-III, WISC-IV, WISC-V) have reflected the development of theoretical models of intelligence, from verbal and performance scales to the current five primary indices informed by Cattell-Horn-Carroll theory.
+The WISC-V is employed by school psychologists, clinical psychologists, and neuropsychologists to assess intellectual disability, identify specific learning disorders, evaluate gifted and talented placement eligibility, and inform interventions for attention-deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD). In psychiatric and diagnostic contexts, examiners adhere to conservative clinical standards: an IQ score alone never determines clinical or educational placement. Under DSM-5-TR and ICD-11 guidelines, diagnosing an intellectual disability requires concurrent clinical and standardized assessment of deficits in adaptive behavior across conceptual, social, and practical life domains.
+
+## Digital Administration (Q-interactive)
+
+Pearson introduced digital dual-tablet administration via the Q-interactive platform for WISC-V. In this format, the examiner controls administration, instructions, and scoring on one tablet while the child interacts with stimulus materials and executes nonverbal tasks on a paired tablet. Comprehensive equivalence studies (such as Daniel et al., 2014) demonstrated psychometric equivalence between digital tablet administration and traditional paper-and-pencil formats across subtests. The digital format offers benefits including automated timing, audio recording, and error-free raw-to-scaled score conversion, although examiners must carefully monitor child engagement, fine motor stylus interaction, and screen distractions.
+
+## Comparison with Other Diagnostic Batteries
+
+The WISC-V is frequently evaluated alongside alternative child intelligence batteries:
+- **Stanford-Binet Intelligence Scales (SB5)**: Offers a wider floor and ceiling, making it particularly useful for assessing severe intellectual impairment or profound giftedness.
+- **Kaufman Assessment Battery for Children (KABC-II / KABC-II NU)**: Allows interpretation through either the Luria neuropsychological model or the CHC model, offering a Nonverbal Scale designed to minimize cultural and linguistic loading for dual-language learners or children with communicative disorders.
+- **Woodcock-Johnson IV Tests of Cognitive Abilities (WJ IV COG)**: Provides extensive diagnostic differentiation of narrow CHC cognitive abilities and links directly with the WJ IV Tests of Achievement.
+
+## Arabic Standardization and Cross-Cultural Adaptation
+
+Adapting the WISC for Arabic-speaking populations required extensive psychometric localization. Initial Arabic versions were produced in Egypt by Louis Kamel Melika, Isma'il, and colleagues for the WISC and WISC-R, published through Egyptian academic houses. Subsequent standardization initiatives in Kuwait, Saudi Arabia, and Jordan established regional normative tables. Adapters substituted Western idioms and geographical knowledge in the Verbal Comprehension subtests with culturally and linguistically appropriate Arabic concepts, underscoring the ongoing clinical imperative to avoid applying North American norms to children from distinct linguistic or cultural backgrounds.
 
 ## Sources
 
-- David Wechsler, Wechsler Intelligence Scale for Children, Psychological Corporation, 1949.
-- David Wechsler, Wechsler Intelligence Scale for Children, Fifth Edition (WISC-V): Technical and Interpretive Manual, Pearson, 2014.
-- Kevin S. McGrew, "CHC theory and the human cognitive abilities project: Standing on the shoulders of the giants of psychometric intelligence research", Intelligence, 37, 1-10, 2009.
+- Daniel, M. H., Wahlstrom, D., & Zhang, O. (2014). *Equivalence of Q-interactive and paper administrations of cognitive tasks: WISC-V*. Q-interactive Technical Report 8. Pearson.
+- Flanagan, D. P., & Alfonso, V. C. (2017). *Essentials of WISC-V Assessment*. John Wiley & Sons.
+- McGrew, K. S. (2009). "CHC theory and the human cognitive abilities project: Standing on the shoulders of the giants of psychometric intelligence research." *Intelligence*, 37(1), 1-10.
+- Wechsler, D. (2014). *Wechsler Intelligence Scale for Children–Fifth Edition (WISC-V): Technical and Interpretive Manual*. Pearson.

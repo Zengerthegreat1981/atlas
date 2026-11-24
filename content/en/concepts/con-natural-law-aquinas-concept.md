@@ -2,7 +2,7 @@
 slug: "con-natural-law-aquinas-concept"
 id: "CON-1090"
 type: "مفهوم"
-part: philosophy
+part: "philosophy"
 level: "متقدم"
 title: "Natural Law and Rational Participation in Eternal Wisdom (Natural Law)"
 en: "Natural Law and Rational Participation in Eternal Wisdom"
@@ -17,37 +17,57 @@ related:
 - id: "wrk-summa-theologiae-aquinas", title: "Thomas Aquinas' Summa Theologiae", type: "عمل / كتاب"
 - id: "thk-aristotle", title: "Aristotle", type: "مفكر"
 - id: "con-natural-law-aquinas-concept", title: "Natural Law", type: "مفهوم"
-gaps:
-  - "Lexical and conceptual history of the term 'natural law' before and after Aquinas: not yet covered."
+gaps: []
 ---
 
 # Natural Law and Rational Participation in Eternal Wisdom (Natural Law)
 
-Natural law for Thomas Aquinas (1225–1274) is "the participation of the rational creature in the eternal law" (question 91, article 2), that is, human reason perceives by its innate light what accords with the ends of the human being and so inclines toward it. Its classical formulation appears in the "Summa Theologiae" (First Part of the Second Part, questions 90–97), especially question 94, which treats its content.
+For Thomas Aquinas (1225–1274), natural law (*lex naturalis*) is famously defined as "the participation of the rational creature in the eternal law" (*participatio legis aeternae in rationali creatura*, *Summa Theologiae*, Ia-IIae, q. 91, a. 2). Through the innate light of reason, human beings discern the basic ends and goods of human nature and are rationally inclined to pursue them. The classical formulation of Thomistic jurisprudence is developed in the "Treatise on Law" (*Summa Theologiae*, Ia-IIae, questions 90–108), primarily questions 90 to 97.
 
-## Structure: Four Kinds of Law
+## Conceptual and Lexical History Before Aquinas
 
-Aquinas distinguishes between the eternal law (the plan of divine providence for the universe), the natural law (the human being's participation in it through reason), the divine law (revelation, which completes reason in what exceeds its capacity), and human (positive) law. His general definition of law is "an ordinance of reason directed to the common good, made by one who has care of the community, and promulgated."
+The concept of natural law represents the synthesis of several major intellectual traditions:
 
-## The First Principle and the Natural Inclinations
+- **Aristotle**: In the *Nicomachean Ethics* (Book V.7), Aristotle distinguished between natural justice (*physikon dikaion*), which has the same validity everywhere and does not depend on human enactment, and legal or conventional justice (*nomikon dikaion*), which is determined by specific enactment.
+- **Stoicism and Cicero**: The Hellenistic Stoics conceived the universe as an ordered cosmos governed by divine, immanent Reason (*Logos*). Cicero formulated the classical Latin definition in *De Re Publica* (III.22): "True law is right reason in agreement with nature; it is of universal application, unchanging and everlasting... it is not one law at Rome and another at Athens, one now and another in the future, but one eternal and unchangeable law will be valid for all nations and all times."
+- **Roman Jurisprudence**: The jurist Ulpian, preserved in Justinian's *Digest* (1.1.1), formulated a tripartite division: *ius naturale* (that which nature has taught all animals, such as mating and rearing offspring), *ius gentium* (the law of nations common to all human beings), and *ius civile* (the civil law particular to a single polity).
+- **Medieval Canon Law**: In the 12th century, Gratian's *Decretum* (c. 1140) opened by stating that natural law is that which is contained in the Law and the Gospel, summarizing its core precept through the Golden Rule.
 
-The first principle of practical reason is: "good is to be done and pursued, and evil is to be avoided" (question 94, article 2). It is not demonstrated but is self-evident. Aquinas then specifies the content of the law according to the human being's natural inclinations: preservation of life, procreation and the raising of children, knowledge of the truth (including knowledge of God), and living in society. He distinguishes between first principles that do not change and proximate conclusions that change in rare cases, and beyond them detailed matters that are left to human law. Consequently an unjust law "does not seem to be law" (question 95, article 2), and binds conscience only to the extent that it accords with the natural law.
+## The Thomistic Architecture: Four Kinds of Law
 
-## Readings and Development
+Aquinas defines law in general as "an ordinance of reason for the common good, made by him who has care of the community, and promulgated" (q. 90, a. 4). Within his theological cosmos, he distinguishes four interconnected orders of law:
 
-Aquinas set Aristotelian teleology within a theological framework while granting reason a relatively independent authority in moral knowledge. In the twentieth century Germain Grisez (1965) reinterpreted the first principle as a practical principle not based on metaphysics, and John Finnis followed him in "Natural Law and Natural Rights" (1980), making the basic goods plural and irreducible. Anthony Lisska, for his part, reads Aquinas in an Aristotelian way that makes natural law rest on human nature.
+1. **Eternal Law (*lex aeterna*)**: The plan of divine wisdom by which God governs the entire created universe.
+2. **Natural Law (*lex naturalis*)**: The specific manner in which rational creatures participate in the eternal law through natural reason.
+3. **Divine Law (*lex divina*)**: Positive revelation (the Old and New Testaments) directing humanity toward its supernatural end (beatitude with God), which exceeds natural reason.
+4. **Human Law (*lex humana*)**: Positive civil enactments derived by human rulers from natural law, either as direct conclusions (*conclusiones*) or specific determinations (*determinationes*).
 
-## Relation to the Islamic Heritage
+## The First Principle and Natural Inclinations
 
-Aquinas benefited from Arabic philosophy in questions of being and intellect (Ibn Sina and Ibn Rushd) and from Maimonides, but he does not rely on them in natural law. The closest Islamic counterpart is the concept of fitra (Surat al-Rum: 30) and the Mu'tazili theory of rational good and evil. The difference is that the Mu'tazila do not tie the matter to a participation in the eternal law, and that the Ash'aris make good and evil a matter of revelation.
+In *Summa Theologiae*, Ia-IIae, q. 94, a. 2, Aquinas identifies the first, indemonstrable self-evident principle of practical reason: **"Good is to be done and pursued, and evil is to be avoided"** (*bonum est faciendum et prosequendum, et malum vitandum*). Practical reason naturally grasps as good those ends toward which human beings have essential natural inclinations:
 
-## Limits
+- **Self-preservation**: The inclination shared with all substances to preserve one's existence.
+- **Biological reproduction and child-rearing**: The inclination shared with other animals to mate, procreate, and educate offspring.
+- **Rational and social goods**: The inclinations unique to rational creatures to know the truth about God and to live in community with others.
 
-It is objected that the move from inclinations to obligations falls into the "is–ought" fallacy as Hume formulated it, though Aquinas' followers reply that the good is prior to the command. Scholars differ over whether the first principle derives from metaphysics or not, and over determining what counts as "natural" and what is cultural, for natural law has been used to justify conflicting positions in sexual ethics and politics.
+Aquinas distinguishes between fundamental primary principles (which are universal, immutable, and known to all) and secondary proximate conclusions (which may fail in rare circumstances through corrupt customs or distorted reasoning). Because positive human law derives its binding moral force from natural law, an unjust statute that violates natural justice is not genuine law, but an act of violence (*non lex, sed legis corruptio*, q. 95, a. 2).
+
+## Subsequent Development and Modern Secularization
+
+Following Aquinas, the natural law tradition underwent major transformations:
+- **Late Scholasticism and the School of Salamanca**: Francisco de Vitoria and Francisco Suárez (*De Legibus*, 1612) systematized Thomistic jurisprudence to address colonial expansion, international law, and human rights.
+- **Early Modern Secularization**: Hugo Grotius, in *De Jure Belli ac Pacis* (1625), articulated the transition to modern international law, declaring that natural law would retain its validity "even if we were to concede—what cannot be conceded without great wickedness—that there is no God" (*etiamsi daremus non esse Deum*).
+- **The Shift to Subjective Natural Rights**: In the philosophies of Thomas Hobbes and John Locke, objective natural law (*lex naturalis*) was reformulated into foundational, subjective individual rights (*ius naturale* to life, liberty, and estate), directly shaping modern constitutionalism.
+- **Contemporary Revival**: In the late 20th century, the "New Natural Law Theory" developed by Germain Grisez and John Finnis (*Natural Law and Natural Rights*, 1980) reformulated natural law ethics around basic, incommensurable human goods without relying on speculative metaphysics, while analytic Thomists like Anthony Lisska reconstructed Aquinas's teleological realism.
+
+## Islamic Parallels
+
+Aquinas extensively cited Ibn Sina (Avicenna), Ibn Rushd (Averroes), and Moses Maimonides in metaphysics and epistemology, though his formulation of natural law was predominantly drawn from Roman law, Aristotle, Augustine, and canon law. Within the Islamic tradition, the nearest structural counterpart is the Quranic concept of *fiṭra* (innate moral and spiritual disposition, Q. 30:30) and the Mu'tazilite doctrine of objective rational good and evil (*al-taḥsīn wa-l-taqbīḥ al-'aqlīyān*). Conversely, the Ash'arite school held that moral obligation is strictly established by divine revelation (*shar'*) rather than independent human reason.
 
 ## Sources
 
-- Thomas Aquinas — *Summa Theologica*, translated by the Fathers of the English Dominican Province. Benziger Brothers, 1947.
-- John Finnis — *Natural Law and Natural Rights*. Clarendon Press, 1980.
-- Germain Grisez — "The First Principle of Practical Reason: A Commentary on the Summa Theologiae, 1–2, Question 94, Article 2." *Natural Law Forum*, Volume 10, 1965.
-- Anthony J. Lisska — *Aquinas's Theory of Natural Law: An Analytic Reconstruction*. Clarendon Press, 1996.
+- Thomas Aquinas, *Summa Theologiae*, Latin text with English translation, Blackfriars edition, McGraw-Hill, 1964–1976.
+- John Finnis, *Natural Law and Natural Rights*, Clarendon Press / Oxford University Press, 1980; 2nd ed. 2011.
+- Anthony J. Lisska, *Aquinas's Theory of Natural Law: An Analytic Reconstruction*, Clarendon Press, 1996.
+- Heinrich Rommen, *The Natural Law: A Study in Legal and Social History and Philosophy*, translated by Thomas R. Hanley, B. Herder Book Co., 1947 (reprinted by Liberty Fund, 1998).
+- Germain Grisez, "The First Principle of Practical Reason: A Commentary on the Summa Theologiae, 1–2, Question 94, Article 2", *Natural Law Forum* 10, 1965, pp. 168–201.

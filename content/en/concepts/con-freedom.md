@@ -14,8 +14,7 @@ related:
   - id: "thk-beauvoir", title: "Beauvoir", type: "مفكرة"
   - id: "dbt-individualism", title: "The Individualism Dispute", type: "جدل"
   - id: "thk-ortega", title: "José Ortega y Gasset", type: "مفكر"
-gaps:
-  - "Primary-text references for each thinker's formulation: not yet covered"
+gaps: []
 ---
 
 # Freedom
@@ -29,6 +28,18 @@ There is no dispute that the human being is free in this school. The whole dispu
 ## The Core Disputes within the Concept
 
 Two disputes. The first: is freedom absolute? Sartre says yes, nearly; Heidegger, Beauvoir and May say it is thrown, entangled and constrained. The second: is it safe to talk about it? This is not a philosophical dispute but a clinical one: the same sentence is liberation for one person and a burden for another, and the difference lies in the person's situation, not in the wording.
+
+## Primary-Text Formulations
+
+Primary existential texts present contrasting accounts of human freedom and its limitations:
+
+- **Søren Kierkegaard** (*The Concept of Anxiety*, 1844, Ch. 2): describes freedom not as an abstract capacity for moral choice, but as the realm of pure possibility whose apprehension produces anxiety—the "dizziness of freedom" (*angest er frihedens svimmelhed*) when standing before open potentiality.
+- **Martin Heidegger** (*Being and Time*, 1927, §§38, 58): characterizes freedom as always "thrown" (*geworfene Freiheit*). Human existence (*Dasein*) never begins from an unconstrained void, but always finds itself already delivered over into a specific, unchosen historical and cultural facticity.
+- **Jean-Paul Sartre** (*Being and Nothingness*, 1943, Part IV, Ch. 1; *Existentialism Is a Humanism*, 1946): famously declares that humanity is "condemned to be free" (*condamné à être libre*). Because existence precedes essence, no external human nature or divine decree dictates values; even the refusal to choose constitutes an active choice.
+- **Simone de Beauvoir** (*The Ethics of Ambiguity*, 1947, Part I): refines Sartrean freedom into a "situated" reality. She argues that individual freedom can only will itself by willing the freedom of others, and demonstrates that social, political, and material situations can genuinely crush or confiscate agency.
+- **Viktor Frankl** (*Man's Search for Meaning*, 1946): writes from the context of concentration camps that the "last of the human freedoms" is the capacity to choose one's personal attitude and retain dignity in any set of circumstances, even when external agency is entirely removed.
+- **Rollo May** (*Freedom and Destiny*, 1981): articulates freedom as existing in dialectical tension with "destiny"—the unchosen biological, historical, and cosmic givens of life.
+- **Irvin D. Yalom** (*Existential Psychotherapy*, 1980, Part II): identifies freedom as the second ultimate concern, linking it directly to authorship of one's world and exploring how individuals evade the anxiety of responsibility through displacement, procrastination, and denial.
 
 ## How It Appears in the Session
 
@@ -72,11 +83,13 @@ This does not mean application is impossible, but it calls for caution: a religi
 
 ## Sources
 
-- Søren Kierkegaard, *The Concept of Anxiety*, 1844.
-- Martin Heidegger, *Being and Time*, 1927.
-- Jean-Paul Sartre, *Being and Nothingness*, 1943, and *Existentialism Is a Humanism*, 1946.
-- Simone de Beauvoir, *The Ethics of Ambiguity*, 1947, and *The Second Sex*, 1949.
-- Viktor E. Frankl, *Man's Search for Meaning*, 1946 (German original).
+- Søren Kierkegaard, *The Concept of Anxiety*, 1844, trans. Reidar Thomte, Princeton University Press, 1980.
+- Martin Heidegger, *Being and Time*, 1927, trans. John Macquarrie and Edward Robinson, Harper & Row, 1962.
+- Jean-Paul Sartre, *Being and Nothingness*, 1943, trans. Hazel E. Barnes, Washington Square Press, 1956.
+- Jean-Paul Sartre, *Existentialism Is a Humanism*, 1946, trans. Carol Macomber, Yale University Press, 2007.
+- Simone de Beauvoir, *The Ethics of Ambiguity*, 1947, trans. Bernard Frechtman, Citadel Press, 1948.
+- Simone de Beauvoir, *The Second Sex*, 1949, trans. Constance Borde and Sheila Malovany-Chevallier, Vintage, 2010.
+- Viktor E. Frankl, *Man's Search for Meaning*, 1946, Beacon Press, 2006.
 - Rollo May, *Freedom and Destiny*, W. W. Norton, 1981.
 - Irvin D. Yalom, *Existential Psychotherapy*, Basic Books, 1980.
 - Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, Sage, 1998.

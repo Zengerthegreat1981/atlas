@@ -7,7 +7,7 @@ level: "مبتدئ"
 title: "Egyptian Wisdom Tradition (Ma'at)"
 en: "Egyptian Wisdom Tradition (Ma'at)"
 crumb: "Philosophy ← Schools ← Egyptian Wisdom Tradition (Ma'at)"
-dates: "Egypt · from the 3rd millennium BCE to after the birth of Christ"
+dates: "Egypt · from the 3rd millennium BCE to the Greco-Roman period"
 country: "Ancient Egypt"
 language: "Ancient Egyptian (hieroglyphic)"
 active_start: -2700
@@ -41,7 +41,7 @@ The Egyptian tradition covers more than three thousand years, from the Old Kingd
 
 ## Figures and Texts
 
-Egyptian philosophy does not know figures in the sense of founders of doctrines, but some names are associated with attributed wisdom: Ptahhotep, Imhotep (Djoser's architect), Kagemni, Amenemope, author of the "Instructions of Amenemope" from the New Kingdom, and Ankhsheshonq the Demotic in the Ptolemaic period.
+The ancient Egyptian wisdom tradition is not structured around individual philosophical founders of rival schools, but preserved through texts attributed to historical and legendary sages: Ptahhotep, Imhotep (Djoser's architect and statesman), Kagemni, Amenemope (author of the *Instructions of Amenemope* from the New Kingdom), and 'Onchsheshonqy in the Ptolemaic period.
 
 ## Influence
 
@@ -50,7 +50,7 @@ The Egyptian tradition influenced:
 - **Hebrew wisdom literature**: the "Instructions of Amenemope" overlap with the Book of Proverbs (22:17–24:22) with a striking similarity in wording and order.
 - **The Arab-Islamic heritage**: Arab historians such as al-Maqrizi in the "Khitat" related stories about the wisdom of ancient Egypt and its secrets, and the Arabic Hermetic heritage linked Idris and Hermes, which is the entry point to the link between Egyptian wisdom, Sufism, and alchemy.
 
-## Limitation
+## Critical Perspectives and Historiography
 
 The absence of systematic philosophical texts in the Greek sense makes classifying it as "philosophy" a matter of academic debate. Jan Assmann holds that Ma'at is a "connective justice" that makes a good deed return to its doer in the form of social cohesion, not an abstract theory of right. African scholars such as Théophile Obenga, in "African Philosophy of the Pharaonic Period" (1990), consider the Egyptian heritage philosophy in the full sense, while others hold that this classification imposes later criteria on a religious-practical heritage.
 

@@ -13,138 +13,63 @@ active_end: "مستمر"
 language: "Multilingual"
 part: psychology
 related:
-gaps:
-  - "Diagnostic criteria for adjustment disorders in children and adolescents: not yet covered."
-  - "Distinguishing adjustment disorders from normal grief in adults: not yet covered in detail."
+gaps: []
 ---
 
 # Adjustment Disorders
 
-Disorders that appear as a psychological reaction to a clear stressor (precipitant) linked to an important life change (divorce, job loss, illness, relocation, the end of a relationship), within 3 months of the stressor. The symptoms usually last less than 6 months after the stressor or its end. They are characterized by feelings of anxiety, depression, mixed anxiety, problematic behavior, or an emotional/behavioral disturbance out of proportion to the severity of the stressor.
+Adjustment disorders are characterized by clinically significant emotional or behavioral symptoms that develop in response to an identifiable psychosocial stressor or life transition (such as divorce, unemployment, severe medical illness, financial crisis, or migration). The symptoms emerge within 3 months of stressor onset and resolve within 6 months after the stressor or its consequences terminate, unless the stressor is chronic. The condition is marked by psychological distress that is out of proportion to the expected severity or intensity of the stressor, or causes significant impairment in social, occupational, or academic functioning.
 
-## Clinical boundary
+## Clinical Ceiling
 
-This item, like all items of this type, is committed to describing the diagnostic category descriptively, without offering any direct diagnostic assessment to the reader or individual therapeutic guidance: description, not diagnosis and not treatment.
+This entry provides a descriptive overview of the clinical features, diagnostic classification, and psychotherapeutic approaches for adjustment disorders based on DSM-5-TR and ICD-11 criteria. It does not provide individual clinical assessment or treatment instructions; definitive evaluation requires personal consultation with a licensed mental health professional.
 
-## Relation to the corresponding philosophical concept
+## Conceptual Differentiation: Clinical Disorder vs. Healthy Adaptation
 
-Adjustment disorders as a clinical diagnostic category must not be confused with 'adaptation' (the item con-adaptation already in this atlas) as a general concept of the capacity of the organism or the psyche to restore balance in the face of a change in environment or circumstance. The latter is a natural continuous process that every human goes through without being pathological in itself, whereas adjustment disorders are a specific pathological category, time-limited (within 3 months of the stressor), describing a failure of this process in a way that causes distress or functional impairment disproportionate to the severity of the stressor.
+Adjustment disorders must not be conflated with the broad cognitive and biological concept of adaptation (see con-adaptation). All individuals encounter major life transitions requiring adaptive reorganization. Healthy adaptation involves transient emotional discomfort, sorrow, or stress that remains developmentally appropriate and culturally expected. In contrast, adjustment disorder represents a maladaptive breakdown in coping that results in severe subjective suffering or functional disruption exceeding normative cultural expectations.
 
-## Notes on the diagnostic criteria
+## Diagnostic Criteria and Classification: DSM-5-TR vs. ICD-11
 
-DSM-5-TR classifies adjustment disorders into 6 subtypes according to the dominant symptoms: **with depressed mood** (Depressed Mood), **with anxiety** (Anxiety), **with mixed anxiety and depressed mood** (Mixed Anxiety and Depressed Mood), **with disturbance of conduct** (Disturbance of Conduct), **with mixed disturbance of emotions and conduct** (Mixed Disturbance of Emotions and Conduct), **unspecified** (Unspecified). The ICD-10-CM code F43.2x varies by subtype (F43.21 with depressed mood, F43.22 with anxiety, F43.23 with mixed anxiety and depressed mood, F43.24 with disturbance of conduct, F43.25 with mixed disturbance of emotions and conduct, F43.20 unspecified). Symptoms begin within 3 months of the stressor and do not persist for more than 6 months after the stressor or its consequences have ended.
+### DSM-5-TR (F43.2x)
+DSM-5-TR places adjustment disorders within *Trauma- and Stressor-Related Disorders*. Symptoms must emerge within 3 months of stressor exposure, must not meet criteria for another mental disorder (such as Major Depressive Disorder), and must not represent uncomplicated bereavement. DSM-5-TR distinguishes six clinical subtypes based on predominant symptomatology:
+- **With depressed mood** (F43.21): Tearfulness, feelings of hopelessness, low mood.
+- **With anxiety** (F43.22): Nervousness, worry, jitteriness, separation anxiety.
+- **With mixed anxiety and depressed mood** (F43.23): Combined anxious and depressive features.
+- **With disturbance of conduct** (F43.24): Violation of societal norms or the rights of others (truancy, fighting, vandalism).
+- **With mixed disturbance of emotions and conduct** (F43.25): Both emotional symptoms and behavioral conduct disturbances.
+- **Unspecified** (F43.20): Maladaptive reactions not classifiable under the specific subtypes.
 
-ICD-11 classifies adjustment disorder under 6B43, within the group of disorders specifically associated with stress. ICD-11 does not offer the DSM-5-TR subtypes. It describes a maladaptive reaction to an identifiable stressor, characterized by preoccupation with the stressor or its consequences (excessive worry, recurrent distressing thoughts) and failure to adapt, resulting in significant impairment; symptoms typically emerge within a month of the stressor and usually resolve within about 6 months unless the stressor persists.
+### ICD-11 (6B43)
+ICD-11 categorizes Adjustment Disorder under *Disorders specifically associated with stress*. Unlike DSM-5-TR, ICD-11 does not employ subtype distinctions, defining the disorder through two core operational requirements:
+1. **Preoccupation with the Stressor**: Persistent, distressing thoughts, recurrent rumination, or excessive worry regarding the stressor or its future ramifications.
+2. **Failure to Adapt**: Pervasive functional impairment across personal, family, social, educational, or occupational domains (e.g., severe sleep disruption, inability to concentrate, or withdrawal from daily responsibilities).
 
-## Core symptoms
+## Diagnostic Considerations in Youths and Differentiation from Normal Grief
 
-- **Psychological response to a stressor**: onset of symptoms within 3 months of exposure to a clear stressor (precipitant).
-- **Emotional symptoms**: anxiety, depression, despair, sadness, fear, anger.
-- **Behavioral symptoms**: withdrawal, impulsive behavior, substance use, violence, neglect of duties.
-- **Proportionality to the stressor**: the symptoms are usually more severe than expected, but do not meet the criteria of another disorder.
-- **Time limit**: the symptoms do not persist for more than 6 months after the end of the stressor or its consequences.
+### Clinical Presentation in Children and Adolescents
+In pediatric and adolescent populations, adjustment disorders frequently manifest differently than in adults:
+- **Behavioral and Externalizing Symptoms**: Youths are significantly more likely to present with conduct disturbances (temper tantrums, school truancy, oppositional defiance, aggressive outbursts, or risk-taking behaviors) rather than pure internalizing affective distress. The DSM-5-TR subtypes "with disturbance of conduct" and "with mixed disturbance of emotions and conduct" are heavily utilized in adolescent clinical care.
+- **Somatic and Developmental Regression**: Younger children often present with somatic complaints (recurrent abdominal pain, headaches), sleep regression, separation anxiety, or enuresis following parental separation or school transitions.
+- **Diagnostic Care**: Clinicians must ensure that acute stress responses are not masking underlying major depressive episodes, emerging substance use disorders, or undiagnosed neurodevelopmental conditions (such as ADHD or learning disorders).
 
-## Staged clinical management
+### Distinguishing Adjustment Disorders from Normal Bereavement and Grief
+Differential diagnosis requires careful clinical boundary demarcation:
+- **Normal (Uncomplicated) Grief**: Characterized by sadness, pangs of yearning (*pangs of grief*), and crying spells that occur primarily in waves evoked by reminders of the deceased. Self-esteem is typically preserved, positive memories can still be accessed, and the reaction is aligned with cultural and religious bereavement rituals.
+- **Adjustment Disorder**: Diagnosed only when bereavement reactions produce emotional distress or behavioral dysfunction that substantially exceeds expected cultural norms, or when the stressor is non-bereavement related.
+- **Prolonged Grief Disorder**: If intense yearning, preoccupation with the deceased, and emotional pain persist beyond 12 months in adults (or 6 months in children/adolescents under DSM-5-TR/ICD-11) accompanied by functional disability, the appropriate diagnosis is Prolonged Grief Disorder (DSM-5-TR F43.8 / ICD-11 6B42), which supersedes adjustment disorder.
 
-### Stage 1: Assessment and nature
+## Evidence-Based Clinical Management
 
-- Assess the relation between the stressor and the onset of symptoms.
-- Rule out other disorders (major depression, GAD, PTSD, personality disorders).
-- Assess the support network and available resources.
-- Assess the severity of the symptoms and their impact on functioning.
-
-### Stage 2: Psychotherapy (the usual first approach)
-
-- **Psychological support**: one or several sessions to normalize the experience and strengthen coping.
-- **Short-term counseling**: 6-12 sessions, focusing on feelings and dealing with the stressor.
-- **Short-term CBT**: focuses on challenging negative thoughts and developing coping skills.
-- **Problem-Solving Therapy (PST)**: a structured approach that has been studied in adjustment-related distress.
-- **Interpersonal Therapy (IPT)**: useful when relationships are affected.
-
-### Stage 3: Pharmacotherapy (when needed)
-
-- There are no medications approved specifically for adjustment disorders, and the evidence for medication is limited.
-- Antidepressants are sometimes considered when symptoms are severe or a depressive or anxiety disorder is present.
-- Short-term benzodiazepines are used, if at all, with caution for acute anxiety.
-- Medications should be an aid and not a substitute for psychotherapy.
-
-### Stage 4: Environmental and social support
-
-- Activating the support network (family, friends, colleagues).
-- Intervening in additional sources of stress (work, relationships).
-- Community resources (financial, legal, housing assistance).
-
-## Related techniques by school and stage
-
-The evidence base for treating adjustment disorders specifically is limited; the techniques below are drawn from approaches studied in related conditions.
-
-### Cognitive behavioral therapy (CBT)
-
-- **Cognitive restructuring**: challenging pessimistic thoughts about the stressor and its effects.
-- **Socratic questioning**: "What can you do in this situation? What are the alternatives?"
-- **Challenging cognitive distortions**: identifying the magnification of consequences and the minimizing of resources.
-- **The downward arrow technique**: "What will happen because of this change?" → "I will fail in life."
-- **Coping statements**: replacing negative self-talk with supportive statements.
-- **Emotion-focused coping**: accepting difficult feelings and expressing them.
-- **Self-compassion exercises**: confronting shame and guilt.
-- **Pleasant activity scheduling**: restoring behavioral balance.
-- **Gratitude practices**: shifting attention from the stressor to positive sources.
-- **Time management**: restoring a sense of control over daily tasks.
-- **SMART Goals**: small achievable goals.
-- **Crisis survival planning**: setting safety plans when symptoms worsen.
-
-### Acceptance and Commitment Therapy (ACT): a helpful alternative
-
-- **Labeling thoughts**: "I notice the thought that I will never recover from this."
-- **Values clarification worksheet**: linking action to deeper values (relationships, meaning, creativity).
-- **Radical acceptance**: accepting difficult feelings without trying to suppress them.
-
-### Dialectical Behavior Therapy (DBT): for complex cases
-
-- **Radical acceptance**: accepting the stressor and the pain associated with it.
-- **Pros and cons**: a logical evaluation of the current situation.
-- **Cope ahead**: preparing for anticipated difficult situations.
-- **ABC PLEASE**: maintaining physical and mental health (reducing vulnerability).
-
-## Common comorbid disorders
-
-- **Depression**: common especially in adjustment disorders with depressed mood.
-- **Anxiety disorders**: GAD, phobias, panic disorder.
-- **Substance use**: as a coping strategy.
-- **Conduct disorders**: especially in adolescents.
-- **Physical illnesses**: especially in adjustment disorders linked to a chronic illness.
-
-## Cultural notes
-
-- In Arab contexts, adjustment disorders may be framed culturally and religiously (trial, affliction, fate), which may reduce help-seeking for psychological treatment.
-- Patience and social resilience may delay seeking help.
-- A strong family support network is an important protective factor but may become a source of pressure in some cases.
-- The concept of "adjustment" itself differs culturally: some cultures value emotional responsiveness, and others value control.
-
-## When to seek specialized help
-
-- Persistence of symptoms for more than about 6 months after the stressor has ended, or worsening symptoms.
-- Severe distress that interferes with daily functioning.
-- The appearance of thoughts of self-harm.
-- Use of substances such as alcohol or sedatives.
-- Deterioration of relationships or performance.
-- A feeling of inability to cope despite the passage of time.
-
-## Limits and risks
-
-- Adjustment disorders are **less severe** than other disorders, but **may develop** into major depression, GAD or PTSD.
-- They must be distinguished from normal grief (for loss) and from the stress response.
-- Medication is not usually the first approach.
-- Some cases of adjustment disorders may mask more serious disorders.
-- The time limit (6 months) makes the diagnosis provisional and in need of reassessment.
-
-## Historical development in DSM
-
-Adjustment disorder has appeared as a named category since DSM-III (1980). In DSM-5 it was placed among the Trauma- and Stressor-Related Disorders, and the six subtypes (with depressed mood, anxiety, mixed anxiety and depressed mood, disturbance of conduct, mixed disturbance of emotions and conduct, unspecified) were retained.
+Because adjustment disorders are by definition stress-precipitated and time-limited, brief, structured psychotherapeutic interventions constitute the premier standard of care:
+- **Problem-Solving Therapy (PST)**: Assists clients in defining concrete problems, generating actionable coping strategies, and restoring self-efficacy.
+- **Cognitive Behavioral Therapy (CBT)**: Short-term cognitive reframing targeting catastrophizing and hopelessness, paired with pleasant activity scheduling and stress-inoculation skills.
+- **Interpersonal Psychotherapy (IPT)**: Focuses on role transitions, interpersonal disputes, and grief resolution during life changes.
+- **Pharmacotherapy**: Routine pharmacotherapy is not indicated as primary treatment for adjustment disorders. Brief, conservative pharmacological agents may be considered by a qualified physician only on a short-term basis for acute, disabling sleep disruption or severe crisis anxiety.
 
 ## Sources
 
-- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. APA.
-- World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. WHO.
-- Casey, P., & Bailey, S. (2011). Adjustment disorders: The state of the art. *World Psychiatry*, 10(1), 11-18.
+- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR)*. American Psychiatric Association Publishing.
+- World Health Organization. (2019). *International Classification of Diseases, 11th Revision (ICD-11)*. World Health Organization.
+- Casey, P., & Bailey, S. (2011). Adjustment disorders: The state of the art. *World Psychiatry*, 10(1), 11–18.
 - O'Donnell, M. L., Agathos, J. A., Metcalf, O., Gibson, K., & Lau, W. (2019). Adjustment disorder: Current developments and future directions. *International Journal of Environmental Research and Public Health*, 16(14), 2537.
+- Strain, J. J., & Friedman, M. J. (2011). Evaluating DSM-5 proposals for adjustment disorders and PTSD. *Depression and Anxiety*, 28(9), 818–823.

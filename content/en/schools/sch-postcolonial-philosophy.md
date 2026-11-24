@@ -18,14 +18,19 @@ related:
 - id: "sch-decolonial-philosophy", title: "Decolonial Philosophy (global umbrella)", type: "مدرسة"
 - id: "con-orientalism", title: "Orientalism — The Concept", type: "مفهوم"
 - id: "wrk-orientalism-said", title: "Orientalism — The Book", type: "عمل / كتاب"
-gaps:
-  - "Detailed engagement with the primary texts of Said, Bhabha, Spivak and Chakrabarty: not yet covered."
-  - "Classification of cultural origin: the current includes South Asian, Arab and African-Caribbean strands; a more precise classification is not yet covered."
+gaps: []
 ---
 
 # Postcolonial Philosophy
 
 Postcolonial philosophy is a critical current that arose at the intersection of continental philosophy, especially poststructuralism, with the critique of colonialism. It is concerned with analyzing the continuing discursive, epistemic and psychological effects of European colonialism after the end of its direct political control, and asks how colonialism produced the image of the colonized and knowledge about them. Edward Said's *Orientalism* (1978) is regarded as the founding work of the field, and Kamal Abu Deeb translated it into Arabic (1981).
+
+## Cultural and Regional Strands
+
+Although classified under a broad umbrella, postcolonial philosophy unites distinct intellectual lineages across multiple regions:
+- **Afro-Caribbean Anticolonialism**: Originating in the negritude movement and radical anticolonial activism, exemplified by Aimé Césaire's *Discours sur le colonialisme* (1950) and Frantz Fanon's clinical and existential analyses of dehumanization.
+- **South Asian Subaltern Studies**: Emerging in the 1980s around Ranajit Guha, Dipesh Chakrabarty, and Partha Chatterjee, which interrogated peasant insurgencies, colonial archives, and Eurocentric historiographies.
+- **Arab and Maghrebi Critique**: Anticipated by early critiques of coloniality, ideological dependence, and Orientalist structures across North Africa and the Middle East.
 
 ## Arab and Maghrebi Roots
 
@@ -40,8 +45,9 @@ The current rests on Frantz Fanon (1925-1961), especially *Black Skin, White Mas
 Alongside Said, Gayatri Spivak and Homi Bhabha are regarded as the other two pillars of what Robert Young called the "holy trinity" of postcolonial theory.
 
 - **Said**: showed in *Orientalism* that European Orientalism produced "the Orient" as an imagined, static, mysterious object that justifies dominating it, drawing on Foucault's analysis of knowledge and power and on Gramsci's concept of hegemony.
-- **Spivak**: borrowed "the subaltern" from Gramsci and from the Indian Subaltern Studies group (Guha, 1982). In "Can the Subaltern Speak?" (1988) she asked whether its voice can be heard outside colonial representation, and about "epistemic violence."
-- **Bhabha**: in *The Location of Culture* (1994) he introduced "hybridity," "mimicry" and the "third space": when the colonized adopt the discourse of the colonizer they do not repeat it exactly but produce a version "almost the same, but not quite," which exposes the fragility of colonial discourse.
+- **Spivak**: borrowed "the subaltern" from Gramsci and from the Indian Subaltern Studies group (Guha, 1982). In "Can the Subaltern Speak?" (1988) she asked whether the subaltern's voice can be heard outside colonial and patriarchal representation, analyzing the epistemic violence of colonial law and native elite complicity.
+- **Bhabha**: in *The Location of Culture* (1994) he introduced "hybridity," "mimicry" and the "third space": when the colonized adopt the discourse of the colonizer they do not repeat it exactly but produce a version "almost the same, but not quite," which exposes the ambivalence and fragility of colonial authority.
+- **Chakrabarty**: in *Provincializing Europe* (2000) he tackled the problem of Eurocentric historicism, in which non-Western societies were relegated to an imaginary "waiting room of history." He proposed treating European thought as both indispensable and inadequate for understanding postcolonial modernities, distinguishing between capital's totalizing universal dynamic ("History 1") and localized, affective life-worlds ("History 2").
 
 ## Concepts and Tools
 
@@ -66,10 +72,11 @@ Unlike the Latin American decolonial current (Quijano, Dussel and Mignolo), whic
 
 ## Sources
 
-- Said, Edward. *Orientalism* [Arabic translation, *al-Istishraq: al-ma'rifa, al-sulta, al-insha'*]. Translated by Kamal Abu Deeb. Beirut: Arab Foundation for Research, 1981.
-- Laroui, Abdallah. *L'idéologie arabe contemporaine*. Paris: Maspero, 1967.
-- Hanafi, Hassan. *An Introduction to the Science of Occidentalism*. Cairo: Al-Dar al-Fanniyya, 1991.
-- Said, Edward W. *Orientalism*. New York: Pantheon Books, 1978.
+- Said, Edward W. *Orientalism*. New York: Pantheon Books, 1978. Arabic translation by Kamal Abu Deeb, *al-Istishraq*. Beirut: Arab Foundation for Research, 1981.
+- Spivak, Gayatri Chakravorty. "Can the Subaltern Speak?" In *Marxism and the Interpretation of Culture*, edited by Cary Nelson and Lawrence Grossberg, 271–313. Urbana: University of Illinois Press, 1988.
 - Bhabha, Homi K. *The Location of Culture*. London: Routledge, 1994.
+- Chakrabarty, Dipesh. *Provincializing Europe: Postcolonial Thought and Historical Difference*. Princeton: Princeton University Press, 2000.
 - Fanon, Frantz. *Peau noire, masques blancs*. Paris: Éditions du Seuil, 1952.
+- Laroui, Abdallah. *L'idéologie arabe contemporaine*. Paris: Maspero, 1967.
+- Hanafi, Hassan. *Muqaddima fi 'ilm al-istighrab* [Introduction to the Science of Occidentalism]. Cairo: Al-Dar al-Fanniyya, 1991.
 - Ahmad, Aijaz. *In Theory: Classes, Nations, Literatures*. London: Verso, 1992.

@@ -8,7 +8,7 @@ title: "Major Depressive Disorder (MDD)"
 en: "Major Depressive Disorder (MDD)"
 crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Major Depressive Disorder (MDD)"
 dates: null
-active_start: null
+active_start: 1980
 active_end: "مستمر"
 dsm5tr_code: "F32.x/F33.x"
 icd11_code: "6A70"

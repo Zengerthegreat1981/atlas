@@ -56,8 +56,9 @@ When ubuntu is compared with Western theories, a difference in starting point st
 
 ## Sources
 
-- Desmond Tutu, No Future Without Forgiveness (Doubleday, 1999).
-- Mogobe B. Ramose, African Philosophy through Ubuntu (Mond Books, 1999).
-- Thaddeus Metz, "Toward an African Moral Theory," Journal of Political Philosophy 15(3) (2007).
-- Lovemore Mbigi and Jenny Maree, Ubuntu: The Spirit of African Transformation Management (Knowledge Resources, 1995).
-- Bernard Matolino and Wenceslaus Kwindingwi, "The End of Ubuntu," South African Journal of Philosophy 32(2) (2013).
+- Tutu, Desmond. *No Future Without Forgiveness*. New York: Doubleday, 1999.
+- Ramose, Mogobe B. *African Philosophy through Ubuntu*. Harare: Mond Books, 1999.
+- Metz, Thaddeus. "Toward an African Moral Theory." *Journal of Political Philosophy* 15, no. 3 (2007): 321–341.
+- Mbigi, Lovemore, and Jenny Maree. *Ubuntu: The Spirit of African Transformation Management*. Randburg: Knowledge Resources, 1995.
+- Matolino, Bernard, and Wenceslaus Kwindingwi. "The End of Ubuntu." *South African Journal of Philosophy* 32, no. 2 (2013): 197–205.
+- Gade, Christian B. N. "What is Ubuntu? Different Interpretations among South Africans of African Descent." *South African Journal of Philosophy* 31, no. 3 (2012): 484–503.

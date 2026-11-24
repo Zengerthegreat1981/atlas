@@ -7,7 +7,7 @@ title: "Friedrich Schelling"
 en: "Friedrich Schelling"
 crumb: "Philosophy ← Thinkers ← Friedrich Schelling"
 dates: "Germany · 1775–1854"
-active_start: 1809
+active_start: 1797
 active_end: 1854
 country: "Germany"
 language: "German"

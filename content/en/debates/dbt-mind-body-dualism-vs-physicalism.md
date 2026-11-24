@@ -20,44 +20,40 @@ gaps: []
 
 ## Descartes's Dualist Proposal (1641)
 
-In "Meditations on First Philosophy" (1641), René Descartes distinguished between two radically different substances: the "thinking thing" (res cogitans), unextended and indivisible, and the "extended thing" (res extensa), bodily, measurable and divisible. Descartes argued that he can doubt the existence of his body but cannot doubt the existence of his thinking mind, and hence they are two distinct substances that interact through the pineal gland according to his hypothesis in "The Passions of the Soul" (1649).
+In *Meditations on First Philosophy* (1641), René Descartes distinguished between two radically different substances: the "thinking thing" (*res cogitans*), unextended and indivisible, and the "extended thing" (*res extensa*), spatial, measurable, and divisible. Descartes argued that he could doubt the existence of his physical body but could not doubt the existence of his thinking self; hence, mind and body are ontologically distinct substances that interact causally through the pineal gland, a hypothesis he developed in *The Passions of the Soul* (*Les Passions de l'âme*, 1649).
 
 ## Churchland's Eliminative Materialist Rebuttal (1984)
 
-In his book "Matter and Consciousness" (1984) and his later articles, Paul Churchland put forward "Eliminative Materialism": the concepts of "folk psychology," such as belief, desire and pain, are nothing but a primitive, false explanatory theory that will gradually be replaced by the precise physical vocabulary of neuroscience, just as "caloric" was replaced by the theory of molecular motion. For him there is no separate mental substance that deserves explanation in the first place, but only brain states.
+In *Matter and Consciousness* (1984) and foundational papers such as "Eliminative Materialism and the Propositional Attitudes" (1981), Paul Churchland advanced eliminative materialism: the claim that everyday "folk psychology"—the framework of beliefs, desires, intentions, and sensations—is not a smooth candidate for neurobiological reduction, but a fundamentally mistaken and stagnant theory. Just as the caloric theory of heat was replaced by molecular kinetics, and phlogiston by oxidation, Churchland argues that the propositional attitudes of folk psychology will eventually be eliminated in favor of a mature, computationally sophisticated neuroscience.
 
 ## The Deciding Test
 
-"The hard problem of consciousness and qualia" (Hard Problem of Consciousness) — that is, the explanatory gap between a complete physical description of brain activity and conscious subjective experience — remains the decisive point of disagreement; while the dualists hold that this gap indicates the impossibility of reduction, the eliminative physicalists hold that it results from a temporary conceptual shortcoming that will be solved by the advance of neuroscience, not by positing an additional substance.
+The explanatory gap and what David Chalmers termed the "hard problem of consciousness"—the challenge of explaining why and how physical brain processes give rise to subjective, qualitative inner experience (*qualia*)—remains the central fault line. While dualists maintain that the explanatory gap reflects an insurmountable ontological divide, eliminative and reductive physicalists contend that it stems from pre-scientific conceptual frameworks that ongoing neuroscientific discovery will demystify without invoking non-physical substances.
 
 ## Practical Consequences
 
-Dualists have often argued that the mind's independence from the physical secures free will and moral responsibility, while critics of eliminative materialism worry that, if there are no beliefs and desires in the folk sense, practices such as ascribing responsibility and talk therapy that works on a person's beliefs would need radical rethinking. Eliminativists such as Churchland reply that such practices could be restated in a more accurate vocabulary.
+Dualists have argued that the soul's independence from physical determinism provides the necessary foundation for free will, moral responsibility, and personal identity. Conversely, critics of eliminative materialism note that if beliefs and desires do not exist in the brain, normative practices such as legal culpability, ethical deliberation, and psychotherapies based on cognitive restructuring would require radical conceptual overhaul. Eliminativists counter that scientific revision will replace these folk frameworks with more precise, empirically sound categories of cognitive function.
 
-## Earlier Roots and the First Objections
+## Historical Roots and Elisabeth's Interaction Problem
 
-A conception of the independence of the soul from the body preceded Descartes in Arabic: Ibn Sina's "flying man" experiment in the Shifa' presupposes a soul that perceives itself without any perception of the body, a useful comparison with Descartes's argument, though it does not coincide with it in its aim. The oldest objection to Descartes's dualism came from Princess Elisabeth of Bohemia in her correspondence with him in 1643: how can an unextended substance move an extended body? Descartes offered no satisfactory answer beyond the hypothesis of the primitive union between soul and body.
+Conceptual formulations of the soul's independence from the body predate Descartes. Notably, Ibn Sina's (Avicenna) eleventh-century "floating man" (*al-insan al-mu'allaq*) thought experiment in *Kitab al-Shifa'* envisioned a human created fully formed in mid-air with sensory input blocked, demonstrating self-awareness independent of bodily perception. The most enduring philosophical objection to Cartesian interactionism was raised by Princess Elisabeth of Bohemia in her 1643 correspondence: if the soul is unextended and immaterial, by what mechanism can it make physical contact with, or transfer momentum to, an extended, physical body? Descartes offered no fully satisfying metaphysical resolution, appealing to a "primitive notion" of the union of mind and body.
 
-## Stages of Physicalism after Descartes
+## Twentieth-Century Physicalist Responses
 
-Gilbert Ryle in "The Concept of Mind" (1949) ridiculed the "ghost in the machine," and held that dualism is a category mistake. Then U. T. Place (1956) and J. J. C. Smart (1959) put forward the identity theory: mental states are brain states. Hilary Putnam (1967) replied with functionalism: a mental state is defined by its causal role, not by its matter. Churchland's eliminative materialism is considered the most radical of these formulations, but it is not physicalism as such, since most physicalists hold that beliefs and desires are real even if they are brain phenomena.
+Subsequent philosophy of mind developed successive physicalist alternatives. Gilbert Ryle, in *The Concept of Mind* (1949), rejected Cartesian substance dualism as a "category mistake" and derided it as the "dogma of the Ghost in the Machine." In the 1950s, U. T. Place (1956) and J. J. C. Smart (1959) formulated mind-brain type identity theory, proposing that mental states are strictly identical to neurophysiological states. In response to identity theory's vulnerability to multiple realizability, Hilary Putnam (1967) introduced functionalism, defining mental states by their functional and causal roles rather than their physical substrate. Eliminative materialism represents the most radical rejection of both identity theory and functionalism by dismissing mental states altogether.
 
-## Objections of the Hard Problem
+## Qualia, Thought Experiments, and Property Dualism
 
-Thomas Nagel in "What Is It Like to Be a Bat?" (1974) formulated the idea that experience has a subjective character that objective description does not grasp, Frank Jackson presented the Mary-the-scientist argument (1982), and David Chalmers gave the methodical formulation of the hard problem in "The Conscious Mind" (1996). The physicalists answer that the intuition of a gap does not prove an ontological gap, just as humanity moved from conceiving life as a special force to understanding it chemically.
-
-## Contemporary Dualism, Zombies, and the Chinese Room
-
-David Chalmers defends a naturalistic property dualism rather than Cartesian substance dualism: consciousness is a fundamental feature of the world not entailed by physical facts. His main argument appeals to the conceivability of "philosophical zombies", beings physically identical to us but lacking experience, which he takes to show that physical facts do not entail conscious facts; physicalists reply that such conceivability does not establish real possibility. A related but distinct challenge is John Searle's "Chinese Room" argument (1980), which holds that symbol manipulation alone, as in a computer program, does not suffice for understanding or intentionality, and so targets functionalist theories of mind.
+Anti-physicalist critiques re-emerged forcefully through thought experiments defending qualia. Thomas Nagel, in "What Is It Like to Be a Bat?" (1974), argued that subjective point of view cannot be captured by third-person objective science. Frank Jackson proposed the knowledge argument with Mary the color scientist (1982), arguing that physical information fails to encompass experiential knowledge. In *The Conscious Mind* (1996), David Chalmers formulated naturalistic property dualism through the conceivability of "philosophical zombies"—beings physically identical to humans but devoid of phenomenal experience. John Searle's "Chinese Room" argument (1980) independently attacked functionalist and computational theories of mind, asserting that syntactic manipulation of symbols cannot generate semantic understanding or intentionality.
 
 ## Sources
 
-- Descartes, R. Meditations on First Philosophy. 1641.
-- Descartes, R. Les Passions de l'âme. 1649.
-- Churchland, P. "Eliminative Materialism and the Propositional Attitudes." Journal of Philosophy 78, no. 2 (1981).
-- Churchland, P. Matter and Consciousness. Cambridge, MA: MIT Press, 1984.
-- Shapiro, Lisa (ed. and trans.). The Correspondence between Princess Elisabeth of Bohemia and René Descartes. Chicago: University of Chicago Press, 2007.
-- Searle, John. "Minds, Brains, and Programs." Behavioral and Brain Sciences 3, no. 3 (1980).
-- Ryle, Gilbert. The Concept of Mind. London: Hutchinson, 1949.
-- Nagel, Thomas. "What Is It Like to Be a Bat?" The Philosophical Review 83, no. 4 (1974).
-- Chalmers, David. The Conscious Mind. Oxford: Oxford University Press, 1996.
+- Descartes, René. *Meditations on First Philosophy*. 1641.
+- Descartes, René. *The Passions of the Soul* (*Les Passions de l'âme*). 1649.
+- Churchland, Paul M. "Eliminative Materialism and the Propositional Attitudes." *Journal of Philosophy* 78, no. 2 (1981): 67–90.
+- Churchland, Paul M. *Matter and Consciousness*. Cambridge, MA: MIT Press, 1984.
+- Shapiro, Lisa, ed. and trans. *The Correspondence between Princess Elisabeth of Bohemia and René Descartes*. Chicago: University of Chicago Press, 2007.
+- Searle, John R. "Minds, Brains, and Programs." *Behavioral and Brain Sciences* 3, no. 3 (1980): 417–424.
+- Ryle, Gilbert. *The Concept of Mind*. London: Hutchinson, 1949.
+- Nagel, Thomas. "What Is It Like to Be a Bat?" *The Philosophical Review* 83, no. 4 (1974): 435–450.
+- Chalmers, David J. *The Conscious Mind: In Search of a Fundamental Theory*. Oxford: Oxford University Press, 1996.

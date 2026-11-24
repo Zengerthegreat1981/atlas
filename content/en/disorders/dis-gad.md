@@ -7,16 +7,17 @@ level: "مبتدئ"
 title: "Generalized Anxiety Disorder (GAD)"
 en: "Generalized Anxiety Disorder (GAD)"
 crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Generalized Anxiety Disorder (GAD)"
+dsm5tr_code: "F41.1"
+icd11_code: "6B00"
 dates: null
-active_start: null
+active_start: 1980
 active_end: "مستمر"
 edges: []
 related:
  - id: "con-anxiety-existential", title: "Anxiety (Cognitive and Neuroscientific)", type: "مفهوم"
  - id: "con-anxiety", title: "Anxiety", type: "مفهوم"
  - id: "thk-may", title: "Rollo May", type: "مفكر"
-gaps:
-  - "Prevalence and presentation of GAD in the Arab context: not yet covered."
+gaps: []
 ---
 
 # Generalized Anxiety Disorder (GAD)
@@ -51,11 +52,17 @@ Generalised anxiety disorder as a clinical condition must not be confused with e
 
 Borkovec and colleagues' 1983 paper is an early empirical study of worry, and Borkovec, Alcaine and Behar (2004) set out the avoidance theory of worry. Stein and Sareen's 2015 review in the *New England Journal of Medicine* is the standard clinical summary. May's *The Meaning of Anxiety* (1977) is the classic existential treatment. DSM-5-TR (2022) is the current diagnostic source.
 
+## Epidemiological and Cultural Context
+
+Epidemiological surveys indicate that generalized anxiety disorder has a lifetime prevalence of approximately 3.7% to 5.7% in high-income Western countries (Kessler et al., 2005; Stein & Sareen, 2015). In the Arab world and Middle Eastern populations, epidemiological studies (such as the WHO World Mental Health Surveys in Lebanon and national surveys in the Gulf) report 12-month prevalence rates between 2% and 5% in community and primary health care settings (Karam et al., 2006). Cultural presentation in Arab contexts frequently emphasizes somatic manifestations of anxiety—such as muscle tension, gastrointestinal complaints, palpitations, and chronic headaches—rather than purely psychological worry. As a result, individuals with GAD often seek care initially in general medical or primary care clinics rather than mental health settings.
+
 ## Sources
 
 - American Psychiatric Association (1980). *Diagnostic and Statistical Manual of Mental Disorders*, 3rd ed. (DSM-III).
 - Borkovec, Thomas D., Robinson, Elwood, Pruzinsky, Thomas, and DePree, Jean A. (1983). Preliminary exploration of worry: some characteristics and processes. *Behaviour Research and Therapy*, 21(1), 9–16.
 - Borkovec, Thomas D., Alcaine, Ovsanna M., and Behar, Evelyn (2004). Avoidance theory of worry and generalized anxiety disorder. In R. G. Heimberg, C. L. Turk, and D. S. Mennin (Eds.), *Generalized Anxiety Disorder: Advances in Research and Practice*. Guilford Press.
+- Karam, E. G., et al. (2006). Lifetime prevalence of mental disorders in Lebanon: First onset, treatment, and exposure to war. *PLOS Medicine*, 3(10), e400.
+- Kessler, R. C., et al. (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. *Archives of General Psychiatry*, 62(6), 593–602.
 - May, Rollo (1977). *The Meaning of Anxiety*, rev. ed. W. W. Norton.
 - Spitzer, Robert L., et al. (2006). A brief measure for assessing generalized anxiety disorder: the GAD-7. *Archives of Internal Medicine*, 166(10), 1092–1097.
 - Stein, Murray B., and Sareen, Jitender (2015). Generalized anxiety disorder. *New England Journal of Medicine*, 373(21), 2059–2068.

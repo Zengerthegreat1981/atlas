@@ -2,7 +2,7 @@
 slug: "dbt-unconscious"
 id: "DBT-0302"
 type: "جدل"
-part: philosophy
+part: "philosophy"
 level: ""
 title: "The Unconscious Question"
 en: "The unconscious question"
@@ -12,7 +12,7 @@ edges:
 related:
   - id: "br-daseins", title: "Daseinsanalysis", type: "تيار"
   - id: "rel-psychoanalysis", title: "Psychoanalysis", type: "علاقة"
-gaps:[]
+gaps: []
 ---
 
 # The Unconscious Question

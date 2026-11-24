@@ -6,7 +6,7 @@ level: "متقدم"
 title: "Marsha M. Linehan"
 en: "Marsha M. Linehan"
 crumb: "Psychology ← Thinkers ← Marsha M. Linehan"
-dates: "United States · 1943–"
+dates: "United States · 1943–present"
 country: "United States"
 language: "English"
 active_start: 1987
@@ -39,7 +39,7 @@ Extension. The treatment expanded to include adolescents (Miller, Rathus, and Li
 
 ## Her Place in the Current
 
-She belongs to the cognitive-behavioral tradition, and stands at the heart of the "third wave" that brought mindfulness and acceptance into this tradition. In it she combines empirical rigor with concepts drawn from Zen, and she founded the company Behavioral Tech to train therapists. See also [DBT](sch-dbt).
+She belongs to the cognitive-behavioral tradition, and stands at the heart of the "third wave" that brought mindfulness and acceptance into this tradition. In it she combines empirical rigor with concepts drawn from Zen, and she founded the company Behavioral Tech to train therapists.
 
 ## Reception and Criticism
 

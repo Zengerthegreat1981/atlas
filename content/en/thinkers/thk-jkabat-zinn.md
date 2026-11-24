@@ -16,8 +16,7 @@ edges:
 - rel: "belongs_to", target: "Cognitive-Behavioral Therapy", target_type: "مدرسة"
 related:
 - id: "sch-mbct", title: "Mindfulness-Based Cognitive Therapy (MBCT)", type: "مدرسة"
-gaps:
-  - "Neuroimaging studies of mindfulness-based programs (for example by Sara Lazar's group): not yet covered."
+gaps: []
 ---
 # Jon Kabat-Zinn
 
@@ -57,6 +56,12 @@ The definition of mindfulness took its famous form in *Wherever You Go, There Yo
 
 The Center for Mindfulness in Medicine, Health Care, and Society at the University of Massachusetts was founded in 1995, after the Stress Reduction Clinic in 1979.
 
+## Neuroimaging and Structural Brain Changes
+
+Following early electroencephalographic (EEG) investigations of MBSR by Davidson and colleagues (2003), neuroimaging researchers began examining whether mindfulness meditation alters neural structure and function. A landmark cross-sectional study led by Sara Lazar and colleagues (2005) demonstrated that regular meditation practice is associated with increased cortical thickness in brain regions involved in somatosensory, interoceptive, and emotional processing, notably the prefrontal cortex and right anterior insula, with differences particularly pronounced in older participants, suggesting a potential neuroprotective buffer against age-related cortical thinning.
+
+Subsequently, a longitudinal magnetic resonance imaging (MRI) study by Britta Hölzel, Lazar, and colleagues (2011) investigated MBSR participants before and after the eight-week intervention compared with waitlist controls. The trial documented significant increases in gray matter concentration within the left hippocampus, posterior cingulate cortex, temporo-parietal junction, and cerebellum—structures implicated in memory consolidation, perspective-taking, and emotion regulation. Furthermore, reductions in perceived stress correlated with decreases in gray matter density in the right amygdala. While these findings generated substantial clinical interest, contemporary reviews (such as Van Dam et al., 2018) emphasize that neuroimaging trials in contemplative science typically feature modest sample sizes, active-control limitations, and cross-sectional confounds, warranting cautious interpretation rather than definitive mechanistic claims.
+
 ## Additional limits and criticisms
 
 Goyal and colleagues in *JAMA Internal Medicine* (2014) summarized a systematic review of meditation programs, and found moderate evidence of improvement in anxiety, depression and pain, and weak evidence for other outcomes, and not better than other active treatments. In the article by Van Dam and colleagues "Mind the Hype" (*Perspectives on Psychological Science*, 2018), problems of definition and measurement and of small-sample trials were criticized, a critique that includes even supporters of the research. Added to Purser's critique of "McMindfulness" is a critique that secularization changed the nature of the practice, which Kabat-Zinn answers by saying that the essence of Buddhism, that is, the Dharma, does not contradict the neutral formulation.
@@ -72,3 +77,5 @@ Goyal and colleagues in *JAMA Internal Medicine* (2014) summarized a systematic 
 - Goyal, M., et al. (2014). "Meditation programs for psychological stress and well-being: A systematic review and meta-analysis". *JAMA Internal Medicine*, 174(3), 357–368.
 - Van Dam, N. T., et al. (2018). "Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation". *Perspectives on Psychological Science*, 13(1), 36–61.
 - Purser, R. (2019). *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*. London: Repeater Books.
+- Lazar, S. W., et al. (2005). "Meditation experience is associated with increased cortical thickness". *NeuroReport*, 16(17), 1893–1897.
+- Hölzel, B. K., et al. (2011). "Mindfulness practice leads to increases in regional brain gray matter density". *Psychiatry Research: Neuroimaging*, 191(1), 36–43.

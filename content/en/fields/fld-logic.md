@@ -35,7 +35,7 @@ Two terms must be kept apart. An argument is **valid** when it is impossible for
 
 Indian logic developed independently in the Nyaya school, whose members analysed inference (*anumana*) using a five-part argument pattern, and in Buddhist logic, where Dignaga and Dharmakirti worked on the theory of the "reason" or mark that licenses an inference. Chinese logic was pursued by the Mohists and the School of Names, with attention to disputation and language.
 
-The modern era began with **Gottlob Frege**, whose *Begriffsschrift* (1879) introduced quantificational logic with a precise formal language. **Bertrand Russell** and **Alfred North Whitehead** produced *Principia Mathematica* (1910-1913), attempting to derive mathematics from logic. **David Hilbert** pursued formal axiomatisation, and **Kurt Godel** showed in 1931 that any consistent formal system strong enough for arithmetic contains true statements it cannot prove, and cannot prove its own consistency. Alfred Tarski gave a rigorous account of truth for formal languages, and Alonzo Church and Alan Turing demonstrated in 1936 that first-order logic is undecidable. Godel's completeness theorem (1929) shows that first-order logic proves all its valid formulas.
+The modern era began with **Gottlob Frege**, whose *Begriffsschrift* (1879) introduced quantificational logic with a precise formal language. **Bertrand Russell** and **Alfred North Whitehead** produced *Principia Mathematica* (1910-1913), attempting to derive mathematics from logic. **David Hilbert** pursued formal axiomatisation, and **Kurt Gödel** showed in 1931 that any consistent formal system strong enough for arithmetic contains true statements it cannot prove, and cannot prove its own consistency. Alfred Tarski gave a rigorous account of truth for formal languages, and Alonzo Church and Alan Turing demonstrated in 1936 that first-order logic is undecidable. Gödel's completeness theorem (1929) shows that first-order logic proves all its valid formulas.
 
 ## Formal logic and its extensions
 
@@ -64,6 +64,6 @@ Logic is not the same as being sensible or unemotional, and "logical" in ordinar
 - Aristotle, *Prior Analytics* (c. 350 BCE)
 - Gottlob Frege, *Begriffsschrift* (1879)
 - Alfred North Whitehead and Bertrand Russell, *Principia Mathematica* (1910-1913)
-- Kurt Godel, "On Formally Undecidable Propositions of Principia Mathematica and Related Systems I" (1931)
+- Kurt Gödel, "On Formally Undecidable Propositions of Principia Mathematica and Related Systems I" (1931)
 - Graham Priest, *An Introduction to Non-Classical Logic* (2001)
 - Patrick Hurley, *A Concise Introduction to Logic* (first edition 1982)

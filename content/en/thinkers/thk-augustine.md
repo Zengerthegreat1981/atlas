@@ -25,7 +25,7 @@ gaps: []
 
 # Augustine of Hippo
 
-A philosopher and theologian from North Africa (Annaba, Algeria), bishop of Hippo, one of the greatest thinkers of late antiquity and author of the *Confessions*.
+A philosopher and theologian from North Africa (Hippo Regius, present-day Annaba, Algeria), bishop of Hippo, one of the greatest thinkers of late antiquity and author of the *Confessions*.
 
 ## What he gave
 
@@ -49,7 +49,7 @@ Confessions (Confessiones, 397–400 CE) · The City of God (De Civitate Dei, 41
 
 ## Biography and formation
 
-Aurelius Augustinus was born on 13 November 354 CE in Thagaste (Souk Ahras in present-day Algeria) to a pagan father, Patricius, and a devout Christian mother, Monica. He studied grammar at Madauros and then rhetoric at Carthage, where he was influenced by Cicero's *Hortensius*, which awakened in him the love of wisdom about 373 CE. He then joined the Manichaeans for about nine years; they had promised him a rational explanation of the problem of evil, and he abandoned them after his disappointment in one of their scholars (Faustus). He worked as a professor of rhetoric in Carthage, Rome and then Milan (384 CE), where he listened to the sermons of Bishop Ambrose and read Platonic books (by Plotinus and perhaps Porphyry) through the Latin translation of Marius Victorinus, so that his idea of the soul and of God was freed from a material conception. In the summer of 386 CE, in a garden in Milan, occurred the experience he recounts in Book 8 of the *Confessions*, when he heard a voice saying "Take up and read", and was led to Paul's Letter to the Romans; he was baptized at Easter 387 CE by Ambrose.
+Aurelius Augustinus was born on 13 November 354 CE in Thagaste (Souk Ahras in present-day Algeria) to a pagan father, Patricius, and a devout Christian mother, Monica. He studied grammar at Madauros and then rhetoric at Carthage, where he was influenced by Cicero's *Hortensius*, which awakened in him the love of wisdom about 373 CE. He then joined the Manichaeans for about nine years; they had promised him a rational explanation of the problem of evil, and he abandoned them after his disappointment in one of their scholars (Faustus of Milevis). He worked as a professor of rhetoric in Carthage, Rome and then Milan (384 CE), where he listened to the sermons of Bishop Ambrose and read Platonic books (by Plotinus and perhaps Porphyry) through the Latin translation of Marius Victorinus, so that his idea of the soul and of God was freed from a material conception. In the summer of 386 CE, in a garden in Milan, occurred the experience he recounts in Book 8 of the *Confessions*, when he heard a voice saying "Take up and read", and was led to Paul's Letter to the Romans; he was baptized at Easter 387 CE by Ambrose.
 
 He then returned to Africa and lived a communal ascetic life in Thagaste, was ordained a priest at Hippo (Annaba) in 391 CE, and became bishop in 395 or 396 CE, remaining so until his death on 28 August 430 CE during the Vandals' siege of his city.
 
@@ -69,7 +69,7 @@ In *On the Trinity* (about 400–420 CE) he sought an analogy for the Trinity in
 
 Augustine was a reference point for all medieval Latin thought, from Anselm and Bonaventure to Thomas Aquinas. The Reformers, Luther and Calvin, re-read his teaching on grace. In the modern age he was read by Descartes, Pascal and Kierkegaard, then by Heidegger, who gave lectures on him in 1921; Hannah Arendt wrote her dissertation on the concept of love in him (1929), and Wittgenstein opened the *Philosophical Investigations* with a quotation from the *Confessions* on the learning of language.
 
-## Limits of criticism
+## Critique and Limitations
 
 Pelagius and his successors, among them Julian of Eclanum, criticized the doctrine of original sin because it makes a person responsible for what he did not do. Many modern scholars hold that his position toward the Donatists, when he accepted the use of official force against them, conflicts with the spirit of his discourse on love. Feminist and analytic readings criticize his position on the body and sex. His theory of time also remains psychological and does not explain physical time, which physics and philosophy after him took up.
 

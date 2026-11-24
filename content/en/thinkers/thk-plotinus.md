@@ -38,7 +38,7 @@ Plotinus studied in Alexandria for about eleven years under Ammonius Saccas, the
 
 ## What He Offered
 
-He offered a deep phenomenological and inward analysis of the movement of the human soul in the world, of the experience of **alienation from the origin** (the One), and of spiritual ascent through purification and inward contemplation, culminating in **"the flight of the alone to the Alone"** (*Flight of the Alone to the Alone*).
+He offered a deep phenomenological and inward analysis of the movement of the human soul in the world, of the experience of **alienation from the origin** (the One), and of spiritual ascent through purification and inward contemplation, culminating in **"the flight of the alone to the Alone"** (*phygē monou pros monon*).
 
 His most important theses:
 - **"The One"** (The One / To Hen): an ultimate metaphysical principle, surpassing all being and all thought.
@@ -64,7 +64,7 @@ His idealist and hierarchical metaphysical system makes him **different from con
 
 ## Most Important Works
 
-- **The Enneads** (*Enneads/The Enneads*) — a collection of 6 "Enneads" containing 54 treatises, collected and arranged by his student [Porphyry of Tyre](thk-porphyry).
+- **The Enneads** (*Enneades*) — a collection of 6 "Enneads" containing 54 treatises, collected and arranged by his student Porphyry of Tyre.
 
 ## Sources
 

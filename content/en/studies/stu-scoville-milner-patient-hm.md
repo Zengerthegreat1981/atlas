@@ -7,7 +7,7 @@ title: "Scoville & Milner Patient H.M. Case Study on Hippocampus and Memory"
 en: "Scoville & Milner Patient H.M. Case Study on Hippocampus and Memory"
 crumb: "Psychology ← Studies ← Scoville & Milner Patient H.M. Case Study on Hippocampus and Memory"
 active_start: 1957
-active_end: 1968
+active_end: 2008
 study_year: 1957
 design: "A longitudinal single-case study (N=1)"
 sample_size: "One patient (H.M. / Henry Molaison)"
@@ -17,32 +17,41 @@ part: "psychology"
 edges: []
 related:
 - id: "con-memory", title: "Memory", type: "مفهوم"
-gaps:
-  - "Models of memory consolidation in the medial temporal lobe: not yet covered"
+gaps: []
 ---
 # Scoville & Milner Patient H.M. Case Study on Hippocampus and Memory
 
-A historic case study of the patient Henry Molaison (H.M.), who underwent a bilateral surgical removal of the medial temporal lobe and hippocampus to treat epilepsy, which left him with a profound loss of the ability to form new conscious memories while his general intelligence and motor skills remained largely intact.
+A landmark neuropsychological case study of Henry Gustav Molaison (known for decades as Patient H.M.), who underwent bilateral surgical resection of the medial temporal lobe structures in 1953 to alleviate intractable epilepsy. The procedure produced profound anterograde amnesia, demonstrating that the medial temporal lobe is essential for the formation of conscious, long-term declarative memories while sparing immediate working memory, general cognitive abilities, and procedural motor learning.
 
 ## Context and Experimental Design
 
-The young H.M. underwent surgery in 1953, a bilateral removal of the hippocampus, the amygdala and neighboring regions. Brenda Milner tested him over decades with varied tasks: general intelligence measurement, immediate digit memory, and the mirror-drawing task (tracing a star while looking in a mirror) to measure sensorimotor learning across successive days, without the patient remembering that he had performed the task before.
+In September 1953, neurosurgeon William Beecher Scoville performed an experimental bilateral medial temporal lobe resection on the 27-year-old Molaison at Hartford Hospital. The surgical resection targeted the medial temporal lobes bilaterally, removing the anterior two-thirds of the hippocampus, parahippocampal gyrus, entorhinal cortex, and amygdala. Although the surgery succeeded in substantially reducing the frequency and severity of Molaison's epileptic seizures, it left him with an incapacitating memory impairment.
 
-## Results and Conclusions
+Recognizing the clinical and scientific significance of the deficit, Scoville consulted neuropsychologist Brenda Milner at the Montreal Neurological Institute. Milner began conducting extensive psychometric and experimental testing on H.M. from 1955 onward. Her testing battery included standard intelligence assessments, digit-span tests of immediate memory, verbal and visual paired-associate learning, and novel sensorimotor tasks. Most notably, Milner introduced the mirror-drawing task—in which Molaison was required to trace a five-pointed star while viewing his hand and the pencil only via a mirror reflection—administered across consecutive days without his retaining any conscious recollection of prior sessions.
 
-H.M. showed severe anterograde amnesia; he could hold information for short periods but was unable to retain new people, events or facts over time. By contrast, his performance in mirror drawing improved at an entirely normal rate and he remained skilled at the task days later although he had no memory of having practiced it. The study established the decisive neural distinction between 'declarative/explicit memory,' which depends on medial temporal lobe structures including the hippocampus, and 'procedural/implicit memory,' which depends on other brain systems (later work implicated the basal ganglia and cerebellum).
+## Results and Neuropsychological Findings
 
-## Criticism and Methodological Debate
+Milner's systematic investigations revealed clear functional dissociations in human memory:
+- **Severe Anterograde Amnesia:** H.M. was virtually incapable of forming new conscious, long-term episodic or semantic memories. He could not retain names, faces, or events for more than a few minutes once distraction intervened.
+- **Temporally Graded Retrograde Amnesia:** Memories acquired in early childhood and several years prior to the 1953 surgery remained relatively preserved, indicating that the medial temporal lobes do not serve as the permanent long-term repository for remote memories.
+- **Preserved Short-Term and Working Memory:** H.M. demonstrated a normal immediate digit span and could maintain information over brief intervals through continuous verbal rehearsal.
+- **Preserved Procedural Learning:** On the mirror-drawing task, H.M. showed normal learning curves and substantial day-to-day error reduction, maintaining the learned motor skill despite having no conscious recollection of ever performing the task.
 
-The H.M. case is a foundational reference in the neuroscience of memory, and it undermined the idea, associated with Karl Lashley, that memory is distributed equally across the cortex rather than depending on specific structures. Later work has refined the picture, for example in debates about the roles of the hippocampus in semantic and spatial memory.
+These findings provided the first definitive empirical evidence separating declarative (explicit) memory—which depends critically on the medial temporal lobes—from nondeclarative (procedural or implicit) memory, which relies on alternative neural circuits such as the basal ganglia and cerebellum.
 
-## The Role of Brenda Milner
-The Canadian neuropsychologist Brenda Milner collaborated with the surgeon William Scoville to study H.M.'s case systematically after Scoville had observed similar results (though less severe) in other patients who underwent similar operations to treat epilepsy or psychotic symptoms. Milner studied H.M. from the mid-1950s, and her papers on his preserved and impaired abilities became classics of neuropsychology; from the 1960s Suzanne Corkin continued his study for decades. Observers repeatedly noted that he did not recognize the researchers who had worked with him for years.
+## Models of Medial Temporal Lobe Consolidation
 
-## Impact
-After the death of Henry Molaison in 2008, his brain was cut into ultrathin sections in 2009 under the supervision of Jacopo Annese and digitized into an openly available atlas, and a 2014 report described the extent of the lesion in detail. The H.M. case is widely taught in cognitive psychology and neuroscience as strong evidence that the hippocampus is necessary for forming new memories but is not their final repository, since Molaison's old memories from before the surgery, remote in time, remained relatively intact.
+The preserved remote memories alongside severe anterograde amnesia in H.M. gave rise to the Standard Model of Systems Consolidation (Squire & Alvarez, 1995). Under this model, the medial temporal lobe (and hippocampus specifically) initially binds distributed neocortical features together into a coherent memory trace; through repeated reactivation and neural replay over time, direct cortico-cortical connections are established, rendering the memory trace independent of the hippocampus.
+
+Later neuropsychological and neuroimaging research challenged this view, prompting the formulation of Multiple Trace Theory (Nadel & Moscovitch, 1997) and Trace Transformation Theory. These alternative models argue that truly episodic, autobiographical memories always require the functional involvement of the hippocampus, regardless of age, with each retrieval laying down an additional hippocampal trace. Under this perspective, what becomes independent of the hippocampus over time is a decontextualized, semanticized version of the original memory rather than the rich, detailed episodic recollection.
+
+## Scientific Legacy and Later Neuroimaging
+
+Following Scoville and Milner's 1957 paper, Suzanne Corkin directed longitudinal research with Molaison at the Massachusetts Institute of Technology from 1962 until his death in December 2008 at age 82. In the 1990s, high-resolution magnetic resonance imaging (MRI) revealed that the surgical lesion was slightly less extensive than Scoville's surgical estimates: the posterior parahippocampal cortex and caudal portions of the hippocampus were partially intact, though functionally disconnected due to the complete bilateral ablation of the entorhinal cortex. Following Molaison's death, his brain was preserved and sliced into 2,401 histological sections by Jacopo Annese and colleagues at the Brain Observatory in 2009, creating a digitized histological atlas that clarified the exact microscopic boundaries of the lesion.
 
 ## Sources
-- Scoville, W. B. & Milner, B., "Loss of Recent Memory After Bilateral Hippocampal Lesions", Journal of Neurology, Neurosurgery, and Psychiatry, 1957.
-- Corkin, S., Permanent Present Tense: The Unforgettable Life of the Amnesic Patient, H.M., 2013.
-- Squire, L. R., "Memory and the Hippocampus: A Synthesis from Findings with Rats, Monkeys, and Humans", Psychological Review, 1992.
+
+- Scoville, W. B., & Milner, B. (1957). Loss of recent memory after bilateral hippocampal lesions. *Journal of Neurology, Neurosurgery, and Psychiatry*, 20(1), 11–21.
+- Corkin, S. (2013). *Permanent Present Tense: The Unforgettable Life of the Amnesic Patient, H.M.* Basic Books.
+- Squire, L. R. (1992). Memory and the hippocampus: A synthesis from findings with rats, monkeys, and humans. *Psychological Review*, 99(2), 195–231.
+- Nadel, L., & Moscovitch, M. (1997). Memory consolidation, retrograde amnesia and the hippocampal complex. *Current Opinion in Neurobiology*, 7(2), 217–227.

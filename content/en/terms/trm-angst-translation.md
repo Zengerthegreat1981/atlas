@@ -15,8 +15,7 @@ related:
   - id: "dis-gad", title: "Generalized Anxiety Disorder (GAD)", type: "اضطراب/حالة إكلينيكية"
   - id: "wrk-being-time", title: "Being and Time: Dasein, Temporality, and Being-toward-Death", type: "عمل / كتاب"
   - id: "wrk-concept-anxiety", title: "The Concept of Anxiety: Freedom, Dread, and the Possibility of Sin", type: "عمل / كتاب"
-gaps:
-  - "Direct comparison with the Danish and German originals: not yet covered; this entry relies on the standard translations and translators' discussions."
+gaps: []
 ---
 
 # Translating Angst: Anxiety, Dread, or Anguish?
@@ -40,6 +39,12 @@ That is why the English title of the book itself became a dispute. Walter Lowrie
 Heidegger's use of *Angst* in *Being and Time* (1927) is different again. For Heidegger, anxiety is a fundamental mood — a *Grundbefindlichkeit* — with no object. Where fear is always fear of something definite, anxiety is anxiety in the face of nothing in particular: what threatens is nowhere, and it is precisely this nowhere that discloses the world as a whole, and discloses *Dasein* to itself as being-in-the-world. In section 40, anxiety reveals the "nothing" and the uncanniness of existence: in anxiety, the familiar world slips away and the person is left face to face with their own finitude and their own freedom.
 
 The English translators John Macquarrie and Edward Robinson, in their 1962 translation of *Being and Time*, rendered *Angst* consistently as "anxiety". Their choice set the terms of the English-language discussion for decades, and it imported the clinical resonance Heidegger's text does not carry: a reader who knows "anxiety" as a symptom meets his most ontological mood through a word that points towards the clinic.
+
+## Direct Comparison with the Danish and German Originals
+
+In Kierkegaard's original Danish text (*Begrebet Angest*, 1844), *Angest* (spelled *angst* in modern Danish) functions both substantively and psychologically as the dialectical pivot of freedom. Kierkegaard explicitly contrasts *Angest* with *Frygt* (fear): while *Frygt* is directed toward a definite, actual object (*noget bestemt*), *Angest* is directed toward "nothing" (*Intet*)—specifically, the ambiguous possibility of being able (*Mulighedens Mulighed*). His famous characterization of anxiety as "the dizziness of freedom" (*Frihedens Svimmelhed*) captures this psychological vertigo as freedom gazes down into its own boundless possibility.
+
+In Heidegger's German text (*Sein und Zeit*, 1927, §40), the distinction between *Angst* and *Furcht* is ontological rather than merely psychological. Heidegger specifies that whereas the *Wovor* (that before which) of fear is an entity within-the-world (*innerweltliches Seiendes*), the *Wovor* of *Angst* is completely indeterminate (*völlig unbestimmt*); what threatens is "nowhere" (*nirgends*), which discloses "being-in-the-world as such" (*das In-der-Welt-sein als solches*). Furthermore, *Angst* reveals the uncanny (*das Unheimliche*, literally "not-at-home-ness") and confronts Dasein with its constitutive nullity (*Nichtigkeit*). Both original Germanic terms share an etymological kinship with narrowing and physical constriction (*Enge*), an affective dimension that Latinate renderings like "anxiety" partially obscure in favor of cognitive or medical associations.
 
 ## The contested alternatives
 

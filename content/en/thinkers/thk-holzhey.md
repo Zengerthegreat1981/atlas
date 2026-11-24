@@ -7,7 +7,11 @@ level: "متقدم"
 title: "Alice Holzhey-Kunz"
 en: "Alice Holzhey-Kunz"
 crumb: "Existential Philosophy ← People ← Alice Holzhey-Kunz"
-dates: "Switzerland"
+dates: "Switzerland · 1943–2026"
+country: "Switzerland"
+language: "German"
+active_start: 1983
+active_end: 2026
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:
@@ -17,31 +21,34 @@ gaps: []
 
 # Alice Holzhey-Kunz
 
-Alice Holzhey-Kunz is a Swiss philosopher and psychotherapist, trained in the Daseinsanalytic tradition of Zurich, and one of the best-known contemporary voices in existential analysis (Daseinsanalysis). She is associated with the effort to rethink Daseinsanalysis for present-day psychotherapy through a close reading of Heidegger and Freud.
+Alice Holzhey-Kunz (1943–2026) was a Swiss philosopher, psychoanalyst, and Daseinsanalyst. Trained in Zurich, she emerged as one of the most original contemporary voices in existential analysis (*Daseinsanalyse*). Her work represents a systematic renewal of Daseinsanalysis that synthesizes Martin Heidegger's fundamental ontology with Sigmund Freud's clinical discoveries, offering a distinct hermeneutic paradigm for understanding psychopathology.
 
-## Background
+## Background and Formation
 
-Daseinsanalysis grew out of the encounter between psychiatry and Heidegger's *Being and Time* (1927). Its Swiss line runs from Ludwig Binswanger to Medard Boss, who worked with Heidegger in the Zollikon seminars (1959-1969). Holzhey-Kunz belongs to a later generation that returns to Heidegger's analysis of existence in order to ask what it means to treat a person who suffers.
+Daseinsanalysis originated in the mid-twentieth century through the pioneering work of Swiss psychiatrists Ludwig Binswanger and Medard Boss, who applied the ontological insights of Heidegger's *Being and Time* (1927) to clinical psychiatry. Boss subsequently collaborated closely with Heidegger during the Zollikon Seminars (1959–1969). 
 
-## Her Thesis
+Holzhey-Kunz studied philosophy and history in Zurich, completing her doctorate in 1971 with a dissertation on memory and forgetting. She then completed clinical training at the Daseinsanalytic Institute in Zurich between 1971 and 1975 under Boss and his associates. From 1983, she served as co-director of the Daseinsanalytic Seminar (*Daseinsanalytisches Seminar*) in Zurich. In 1991, she co-founded and served as president of the Society for Hermeneutic Anthropology and Daseinsanalysis (*Gesellschaft für hermeneutische Anthropologie und Daseinsanalyse*), and co-edited the critical edition of Ludwig Binswanger's selected works.
 
-For Holzhey-Kunz the psychological symptom is not primarily an escape from existential truth but can be read as a hypersensitivity to it. The patient is not blind to the human condition; in some cases he perceives it more acutely than he can bear. Suffering is then understood as a form of "suffering from existing" (*Leiden am Dasein*): a reaction to the burdens that belong to being a finite, mortal, self-responsible human being, rather than only a sign of a disorder to be removed.
+## Theoretical Contributions: Suffering from Existence
 
-## Why This Matters
+While classical Daseinsanalysis sought to replace psychoanalytic concepts of the unconscious with phenomenological descriptions of openness to the world, Holzhey-Kunz argued that Binswanger and Boss had prematurely abandoned Freud's clinical acuity. She proposed a profound reinterpretation: psychological suffering (*seelisches Leiden*) is fundamentally a "suffering from existence" (*Leiden am Dasein*).
 
-The view reverses the usual direction of interpretation. Instead of "this person denies his mortality," it asks whether this person cannot help seeing it. This changes the therapist's stance: the task is first to listen for what the symptom discloses about the patient's way of existing, not to explain it away. This is a philosophical and clinical orientation, not a treatment protocol.
+In her view, psychopathological symptoms are not merely dysfunctions, biological anomalies, or defensive flights from existential truth. Instead, neurotic and melancholic patients frequently exhibit an acute hypersensitivity (*Hellhörigkeit*) to the universal, anxiety-provoking structures of the human condition—mortality, groundlessness, vulnerability, guilt, and finitude. Where ordinary individuals maintain psychological stability through everyday absorption and tacit ontic denial, the symptomatic person is confronted with disruptive ontological truths that they lack the psychological resources to endure or integrate.
 
-## Her Position
+## Clinical Hermeneutics and Emotional Truth
 
-She stands in the Swiss line of Daseinsanalysis and is notable for combining philosophical argument with clinical practice. She has engaged critically with both the Freudian tradition and with earlier versions of Daseinsanalysis, and she insists that the philosophical analysis of existence must remain tied to what patients actually say about their suffering.
+Holzhey-Kunz's framework shifts the clinical posture in existential psychotherapy. Rather than treating symptoms solely as deficits to be corrected, the therapist attends to the symptom as a distorted disclosure of existential truth (*emotionale Wahrheit*). In books such as *Das Subjekt in der Kur* (2002) and *Emotionale Wahrheit* (2020), she showed how psychoanalytic concepts like transference, resistance, and defenses can be understood as existential strategies for managing the burden of being a finite self (*Dasein*). Clinical intervention aims not at restoring a superficial illusion of invulnerability, but at helping the patient acknowledge and bear their existential situation with courage.
 
-## Her Major Works
+## Major Works
 
-- *Leiden am Dasein: Die Wiederentdeckung der Daseinsanalyse für die Psychotherapie* (Vienna: Passagen, 2014).
-- *Daseinsanalysis* (London: Free Association Books), the English-language presentation of her approach.
+- *Leiden am Dasein: Die Daseinsanalyse und das Problem der psychischen Krankheit* (Vienna: Passagen Verlag, 1994; revised edition 2014).
+- *Das Subjekt in der Kur: Über philosophische Grundlagen der Psychoanalyse* (Vienna: Passagen Verlag, 2002).
+- *Daseinsanalyse* (Vienna: Passagen Verlag, 2014; English translation by Sophie Wennerscheid, *Daseinsanalysis*, London: Free Association Books / Karnac, 2014).
+- *Emotionale Wahrheit: Freuds psychoanalytische Einsichten im Licht der Daseinsanalyse* (Vienna: Passagen Verlag, 2020).
 
 ## Sources
 
-- Holzhey-Kunz, Alice. *Leiden am Dasein: Die Wiederentdeckung der Daseinsanalyse für die Psychotherapie*. Vienna: Passagen Verlag, 2014.
-- Heidegger, Martin. *Being and Time* (*Sein und Zeit*). Halle: Max Niemeyer, 1927.
-- Boss, Medard. *Psychoanalyse und Daseinsanalytik*. Bern: Huber, 1957.
+- Holzhey-Kunz, Alice, *Daseinsanalysis*, trans. Sophie Wennerscheid, London: Free Association Books, 2014.
+- Holzhey-Kunz, Alice, *Leiden am Dasein: Die Wiederentdeckung der Daseinsanalyse für die Psychotherapie*, Vienna: Passagen Verlag, 2014.
+- Boss, Medard, *Psychoanalyse und Daseinsanalytik*, Bern: Hans Huber, 1957.
+- Heidegger, Martin, *Zollikon Seminars: Protocols—Conversations—Letters*, ed. Medard Boss, trans. Franz Mayr and Richard Askay, Evanston: Northwestern University Press, 2001.

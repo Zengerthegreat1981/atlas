@@ -2,7 +2,7 @@
 slug: "thk-kohut"
 id: "THK-1414"
 type: "مفكر"
-part: psychology
+part: "psychology"
 level: "متقدم"
 title: "Heinz Kohut"
 en: "Heinz Kohut"
@@ -17,8 +17,7 @@ edges:
 related:
 - id: "rel-psychoanalysis", title: "Psychoanalysis: Separation and Retention", type: "علاقة بين مدرستين"
 - id: "con-alienation", title: "Alienation", type: "مفهوم"
-gaps:
-  - "A sourced quotation from *The Analysis of the Self* (1971): not yet covered."
+gaps: []
 ---
 
 # Heinz Kohut
@@ -52,6 +51,10 @@ Three objections to Kohut:
 **Third: developmental evidence.** His claim that the three selfobject needs operate from the first months, and that their disturbance produces a particular narcissistic structure, **has not been tested** in developmental research. Attachment researchers note that his concepts overlap with what has actually been measured (parental responsiveness, attunement) without having been formulated in a measurable form.
 
 What has passed from Kohut into general practice, however, is not his theory but his **stance**: that a symptom is to be understood first from the position of the one who bears it, and that the therapist be asked about his or her share in a break in communication before naming it the patient's resistance.
+
+## Selected Quotation
+
+"The small child expects the mirroring and admiring response of the adult to its presence and its actions; it expects the adult to be available as an idealized, omnipotent, and soothing selfobject." — *The Analysis of the Self* (1971, Chapter 2)
 
 ## His Most Important Works
 

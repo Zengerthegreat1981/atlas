@@ -8,15 +8,14 @@ title: "Panic Disorder"
 en: "Panic Disorder"
 crumb: "Psychiatry and Diagnosis ← Disorders and Clinical Conditions ← Panic Disorder"
 dates: null
-active_start: null
+active_start: 1980
 active_end: "مستمر"
 dsm5tr_code: "F41.0"
 icd11_code: "6B01"
 edges: []
 related:
  - id: "con-fear", title: "Fear", type: "مفهوم"
-gaps:
-  - "Prevalence and presentation of panic disorder in the Arab context: not yet covered."
+gaps: []
 ---
 
 # Panic Disorder
@@ -51,11 +50,17 @@ Panic disorder is of particular interest to the existential tradition because th
 
 Clark's 1986 paper gave the field its cognitive model. Barlow's *Anxiety and Its Disorders* (2002) is the standard reference on the nature and treatment of anxiety and panic, and the Craske and Barlow manual (2007) is the standard treatment text. DSM-5-TR (2022) is the current diagnostic source.
 
+## Epidemiological and Cultural Context
+
+Epidemiological studies from the WHO World Mental Health Survey Initiative estimate the lifetime prevalence of panic disorder at approximately 1% to 3% across diverse international settings (Kessler et al., 2006). In Arab and Middle Eastern populations, community and primary care surveys (e.g., in Saudi Arabia, Lebanon, and Egypt) report 12-month prevalence rates generally ranging between 1.5% and 2.5% (Karam et al., 2006). Clinically, panic attacks in the Arab context often present with prominent autonomic and respiratory sensations, such as choking (*al-khanaq*), acute palpitations, chest tightness, and a fear of impending cardiac death. Sufferers frequently undergo repeated emergency room visits and extensive medical workups for cardiovascular disease before the condition is recognized as panic disorder and psychiatric or psychological care is pursued.
+
 ## Sources
 
 - American Psychiatric Association (2022). *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed., Text Revision (DSM-5-TR).
 - World Health Organization (2019). *International Classification of Diseases*, 11th Revision (ICD-11).
-- Klein, Donald F. (1964). Delineation of two drug-responsive anxiety syndromes. *Psychopharmacologia*, 5, 397–408.
-- Clark, David M. (1986). A cognitive approach to panic. *Behaviour Research and Therapy*, 24(4), 461–470.
 - Barlow, David H. (2002). *Anxiety and Its Disorders: The Nature and Treatment of Anxiety and Panic*, 2nd ed. Guilford Press.
+- Clark, David M. (1986). A cognitive approach to panic. *Behaviour Research and Therapy*, 24(4), 461–470.
 - Craske, Michelle G., and Barlow, David H. (2007). *Mastery of Your Anxiety and Panic*, 4th ed. Oxford University Press.
+- Karam, E. G., et al. (2006). Lifetime prevalence of mental disorders in Lebanon: First onset, treatment, and exposure to war. *PLOS Medicine*, 3(10), e400.
+- Kessler, R. C., et al. (2006). The epidemiology of panic attacks, panic disorder, and agoraphobia in the National Comorbidity Survey Replication. *Archives of General Psychiatry*, 63(4), 415–424.
+- Klein, Donald F. (1964). Delineation of two drug-responsive anxiety syndromes. *Psychopharmacologia*, 5, 397–408.

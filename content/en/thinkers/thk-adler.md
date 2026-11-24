@@ -6,8 +6,8 @@ level: "متقدم"
 title: "Alfred Adler"
 en: "Alfred Adler"
 crumb: "Psychology ← Thinkers ← Alfred Adler"
-dates: "Austria / America · 1870–1937"
-country: "Austria / America"
+dates: "Austria / United States · 1870–1937"
+country: "Austria / United States"
 language: "German / English"
 part: "psychology"
 active_start: 1902
@@ -43,8 +43,8 @@ Among his most important writings are *Study of Organ Inferiority* (Studie über
 
 ## Impact and Criticism
 
-Adler influenced the later humanistic-existential psychology, especially through Viktor Frankl (who was associated with his circle early on) and Rollo May, and to some degree Karen Horney, who adopted his critique of Freudian biological determinism and his emphasis on meaning, choice and social context. He is faulted because his focus on consciousness and social teleology led him away from exploring the depths of the dynamic unconscious as Freud did, and because some of his concepts (such as the inferiority complex) became, in popular usage, simplifications far from their original clinical precision. Adler died in May 1937 during a lecture tour in Aberdeen, Scotland. His school continues today through a network of institutes and societies of Individual Psychology spread across Europe and North America, and through its wide applications in family and educational counseling, especially through the "Parent Study Groups" developed by Rudolf Dreikurs on the basis of Adler's principles on birth order and on encouraging the child rather than praising or punishing. Adler's thought is taught today in specialized graduate programs, such as the Adler University in Chicago and Vancouver, which bears his name and continues to graduate counselors and psychotherapists according to his teleological-social model.
-Adler's works have been translated into many languages, and his legacy gave rise to a worldwide network of family counselors who apply the techniques of "encouragement" instead of "praise" and the analysis of the "hidden goals" of a child's misbehavior, tools still taught today in teacher and school-counselor training programs as a relatively simple practical alternative to the longer-term analytic techniques. His name remains, alongside Freud and Jung, one of the three great founding names in the history of early psychoanalysis.
+Adler influenced later humanistic and existential psychology, especially through Viktor Frankl (who was associated with his circle early on) and Rollo May, and to some degree Karen Horney, who adopted his critique of Freudian biological determinism and his emphasis on meaning, choice, and social context. He is faulted because his focus on consciousness and social teleology led him away from exploring the depths of the dynamic unconscious as Freud did, and because some of his concepts (such as the inferiority complex) became, in popular usage, simplifications far from their original clinical precision. Adler died in May 1937 during a lecture tour in Aberdeen, Scotland. His school continues today through a network of institutes and societies of Individual Psychology across Europe and North America, and through wide applications in family and educational counseling, especially through the "Parent Study Groups" developed by Rudolf Dreikurs on the basis of Adler's principles on birth order and mutual respect. Adler's thought is taught today in specialized graduate programs, such as Adler University in Chicago and Vancouver, which bears his name and continues to train counselors and psychotherapists according to his teleological-social model.
+Adler's works have been translated into many languages, and his legacy gave rise to an enduring network of educators and counselors who apply the analysis of the hidden goals of misbehavior and classroom encouragement strategies, tools still taught today in teacher and school-counselor training programs as practical alternatives to long-term analytic techniques. His name remains, alongside Freud and Jung, one of the three great founding names in the history of early depth psychology.
 
 ## Sources
 

@@ -72,6 +72,5 @@ Buber influenced the philosophy of dialogue in Emmanuel Levinas and humanistic p
 - Friedman, M. (1955). *Martin Buber: The Life of Dialogue*. University of Chicago Press.
 - Buber, M. (1947). *Between Man and Man*. Routledge & Kegan Paul.
 - Cissna, K. N. & Anderson, R. (2002). *Moments of Meeting: Buber, Rogers, and the Potential for Public Dialogue*. SUNY Press.
-- Stanford Encyclopedia of Philosophy, "Martin Buber."
-- Buber, M. *Ich und Du*. Insel Verlag, 1923 (English translation by Ronald Gregor Smith: *I and Thou*, Edinburgh: T. & T. Clark, 1937).
-- Encyclopaedia Britannica, "Martin Buber."
+- Scott, Sarah, "Martin Buber", *The Stanford Encyclopedia of Philosophy*, Edward N. Zalta (ed.), 2021.
+- Buber, M., *Ich und Du*, Leipzig: Insel Verlag, 1923 (trans. Walter Kaufmann, *I and Thou*, New York: Charles Scribner's Sons, 1970).

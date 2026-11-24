@@ -16,51 +16,52 @@ gaps: []
 ---
 # Memory Systems
 
-Memory is the set of processes by which experience is encoded, stored and retrieved. Cognitive psychology has long treated it not as a single faculty but as a collection of systems that differ in duration, capacity, content and neural basis. The framework of memory systems helps organise a large body of research, though researchers disagree about where the boundaries lie.
+Memory is the ensemble of neurocognitive processes through which information and experience are encoded, consolidated, stored, and retrieved. Cognitive psychology and neuroscience do not treat memory as a unitary faculty, but rather as an organized taxonomy of distinct, interacting memory systems that differ in temporal duration, storage capacity, representational format, and underlying neural circuitry.
 
-## The multi-store model
+## The Multi-Store Model
 
-In 1968 Richard Atkinson and Richard Shiffrin proposed a model in which information passes through three stores: a sensory register, a short-term store and a long-term store. Rehearsal was thought to move information into long-term memory. The model gave a clear structure and is still taught as a starting point, though later research showed it was too simple.
+Richard Atkinson and Richard Shiffrin (1968) formulated the classical "modal model" of memory, positing a structural flow of information through three discrete stores:
+1. **Sensory Memory**: A high-capacity, pre-attentive buffer that briefly preserves raw sensory impressions. George Sperling's (1960) partial-report paradigm demonstrated that visual sensory memory (**iconic memory**) persists for approximately 250 to 500 milliseconds. Ulric Neisser designated the corresponding auditory buffer as **echoic memory**, which lasts up to 3 to 4 seconds.
+2. **Short-Term Memory (STM)**: A limited-capacity store retaining conscious information for roughly 15 to 30 seconds unless actively maintained through rehearsal. George A. Miller (1956) famously estimated STM capacity at $7 \pm 2$ discrete chunks of information.
+3. **Long-Term Memory (LTM)**: An essentially limitless, durable repository where consolidated information resides across extended temporal intervals.
 
-## Sensory and short-term memory
+## Working Memory: Functional Reconceptualization
 
-Sensory memory holds a brief, detailed trace of input. George Sperling's experiments in 1960 on briefly flashed letter arrays supported the existence of a fleeting visual store, often called iconic memory, and an analogous auditory store is called echoic memory. Short-term memory holds a small amount of information for seconds. George Miller's 1956 paper suggested a limit of about seven items, plus or minus two, though later work argues that the limit on unrelated items is smaller, closer to four, and depends on chunking.
+Alan Baddeley and Graham Hitch (1974) demonstrated that short-term storage functions not merely as a passive gateway to long-term memory, but as a multicomponent **working memory** system dedicated to simultaneous maintenance and manipulation of information:
+- **Central Executive**: An attentional control system responsible for strategy selection, task switching, and inhibitory control.
+- **Phonological Loop**: Comprising an acoustic phonological store and an articulatory subvocal rehearsal mechanism for verbal material.
+- **Visuospatial Sketchpad**: Manages visual imagery and spatial coordinates.
+- **Episodic Buffer**: Added by Baddeley (2000), a limited-capacity multimodal workspace that binds information across domains and interfaces with long-term memory.
 
-## Working memory
+Nelson Cowan (2001) presented an influential alternative model, defining working memory not as separate physical stores, but as the temporarily activated subset of long-term memory currently held within the central focus of attention, estimating its capacity limit at approximately $4 \pm 1$ items when chunking and rehearsal strategies are constrained.
 
-Alan Baddeley and Graham Hitch proposed in 1974 that short-term storage is better understood as working memory, a system for holding and manipulating information during tasks such as reasoning or comprehension. Their model includes a central executive that controls attention, a phonological loop for verbal material and a visuospatial sketchpad; Baddeley later added an episodic buffer. Working memory capacity is linked to performance on many cognitive tasks. Other theorists, such as Nelson Cowan, treat working memory as the activated part of long-term memory within a limited focus of attention.
+## Taxonomy of Long-Term Memory
 
-## Long-term memory
+Cognitive neuroscience, led by Endel Tulving and Larry Squire, organizes long-term memory into two fundamental branches:
 
-Long-term memory is usually divided into declarative and non-declarative forms. Endel Tulving distinguished two kinds of declarative memory:
+### Declarative (Explicit) Memory
+Conscious recollection of facts and personal experiences, crucially dependent on the medial temporal lobes and hippocampus:
+- **Episodic Memory** (Tulving, 1972): Personally experienced events situated within a specific autobiographical spatiotemporal context ("remembering").
+- **Semantic Memory**: Decontextualized general knowledge, concepts, vocabulary, and facts about the world ("knowing").
 
-- **Episodic memory** stores personally experienced events, tied to time and place.
-- **Semantic memory** stores general knowledge and facts about the world.
+### Non-Declarative (Implicit) Memory
+Manifested through behavioral performance without conscious recollection, supported by the basal ganglia, cerebellum, and neocortex:
+- **Procedural Memory**: Motor skills, cognitive habits, and perceptual-motor routines (e.g., riding a bicycle).
+- **Priming**: Enhanced identification or processing of a stimulus resulting from recent prior exposure.
+- **Associative Conditioning**: Classical and operant conditioning responses.
 
-Non-declarative memory includes **procedural memory** for skills and habits, priming, and some forms of conditioning. Evidence from brain damage supports these divisions. The patient known as H.M., who underwent surgery removing parts of the medial temporal lobes in 1953, developed severe difficulty forming new declarative memories but could still learn motor skills, as Brenda Milner showed. Larry Squire and others built on such findings to argue for multiple systems supported by different brain structures, with the hippocampus central to declarative memory.
+Neuropsychological investigations of patient H.M. (Henry Molaison), studied extensively by William Scoville and Brenda Milner (1957) following bilateral medial temporal lobectomy, provided decisive empirical proof for these distinctions. H.M. suffered dense anterograde amnesia for declarative facts, yet successfully acquired new motor skills on the mirror-drawing task with normal retention curves despite having no conscious memory of ever practicing them.
 
-## Memory as reconstruction
+## Memory as Active Reconstruction
 
-Frederic Bartlett's 1932 study of people recalling a Native American folk story, *The War of the Ghosts*, suggested that remembering is a constructive process shaped by prior knowledge and schemas, not a replay of a stored record. Later research by Elizabeth Loftus on misleading post-event information showed that memories can be altered by suggestion, with implications for eyewitness testimony. Such work has led to the view that memory is generally functional but fallible.
-
-## Critiques and debates
-
-- **How many systems?** Some researchers argue that the division into systems is too neat and that memory phenomena are better explained by processes, such as encoding and retrieval conditions, than by separate stores. The levels-of-processing framework of Craik and Lockhart in 1972 emphasised depth of processing over structural stores.
-- **Short-term versus long-term.** The multi-store model assumed distinct stores, but evidence from amnesia and from the interaction of working memory with long-term knowledge keeps the question open.
-- **Capacity limits.** The exact size of short-term capacity depends on how an item or chunk is defined, so single-number claims should be treated cautiously.
-- **Reliability of recollection.** Debates about recovered memories, and the confidence of eyewitnesses, show that vividness and confidence do not guarantee accuracy.
-- **Laboratory validity.** Much work uses word lists and simple tasks; critics ask how far results generalise to everyday memory, such as autobiographical recall.
-- **Neural localisation.** Brain regions contribute to systems but memories are distributed, and simple one-to-one mappings are misleading.
-
-## Why it matters
-
-The distinctions matter in education, in clinical assessment of amnesia and dementia, in legal settings and in the design of tasks that respect cognitive limits. They also remind us that remembering is an active process.
+Frederic Bartlett's classic 1932 experiments using the folk tale *The War of the Ghosts* demonstrated that memory is not a veridical reproduction or static recording, but an active, imaginative reconstruction shaped by preexisting cultural schemas and expectations. Elizabeth Loftus (1974, 1979) established the **misinformation effect**, showing that introducing misleading post-event information readily alters eyewitness recollections and can implant entirely false autobiographical memories.
 
 ## Sources
 
-- Richard Atkinson and Richard Shiffrin, "Human memory: A proposed system and its control processes" (1968)
-- Alan Baddeley and Graham Hitch, "Working memory", in *The Psychology of Learning and Motivation* (1974)
-- Frederic Bartlett, *Remembering: A Study in Experimental and Social Psychology* (1932)
-- George Miller, "The magical number seven, plus or minus two", *Psychological Review* (1956)
-- Endel Tulving, "Episodic and semantic memory", in *Organization of Memory* (1972)
-- Larry Squire, "Memory systems of the brain: A brief history and current perspective", *Neurobiology of Learning and Memory* (2004)
+- Atkinson, R. C., & Shiffrin, R. M. (1968). "Human memory: A proposed system and its control processes". In K. W. Spence & J. T. Spence (Eds.), *The Psychology of Learning and Motivation* (Vol. 2, pp. 89–195). Academic Press.
+- Baddeley, A. (2000). "The episodic buffer: A new component of working memory?". *Trends in Cognitive Sciences*, 4(11), 417–423.
+- Baddeley, A. D., & Hitch, G. (1974). "Working memory". In G. H. Bower (Ed.), *The Psychology of Learning and Motivation* (Vol. 8, pp. 47–89). Academic Press.
+- Bartlett, F. C. (1932). *Remembering: An Experimental and Social Study*. Cambridge University Press.
+- Scoville, W. B., & Milner, B. (1957). "Loss of recent memory after bilateral hippocampal lesions". *Journal of Neurology, Neurosurgery, and Psychiatry*, 20(1), 11–21.
+- Squire, L. R. (2004). "Memory systems of the brain: A brief history and current perspective". *Neurobiology of Learning and Memory*, 82(3), 171–177.
+- Tulving, E. (1972). "Episodic and semantic memory". In E. Tulving & W. Donaldson (Eds.), *Organization of Memory* (pp. 381–403). Academic Press.

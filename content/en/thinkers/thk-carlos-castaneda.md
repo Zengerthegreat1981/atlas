@@ -7,13 +7,11 @@ level: "متوسط"
 title: "Carlos Castaneda"
 en: "Carlos Castaneda"
 crumb: "Popular Psychology and Toltec Wisdom ← People ← Carlos Castaneda"
-dates: "Peru-USA · 1925-1998"
+dates: "Peru / United States · 1925–1998"
 edges:
   - rel: "belongs_to", target: "Anthropology", target_type: "مجال"
-related:
-  []
-gaps:
-  []
+related: []
+gaps: []
 ---
 
 # Carlos Castaneda

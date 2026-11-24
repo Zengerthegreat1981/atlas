@@ -8,15 +8,15 @@ en: "Bartlett's 'War of the Ghosts' and Reconstructive Memory Experiments"
 crumb: "Psychology ← Studies ← Bartlett's Experiments on Remembering 'The War of the Ghosts'"
 active_start: 1932
 active_end: 1932
-part: psychology
+part: "psychology"
 study_year: 1932
 design: "Repeated case study (repeated and serial reproduction)"
+sample_size: "20 participants in repeated reproduction, plus serial reproduction chains of 5–10 participants"
 main_finding: "Memory is an active reconstruction driven by cultural schemas, not a literal recording; unfamiliar elements are dropped and replaced with culturally familiar equivalents"
 replication_status: "contested"
 related:
 - id: "thk-elizabeth-loftus", title: "Elizabeth Loftus", type: "مفكر"
-gaps:
-  - "Number of participants: not yet covered (Bartlett reported small and varying samples across his experiments)"
+gaps: []
 ---
 
 
@@ -26,7 +26,13 @@ A classic study in which English participants were asked to read a legend from N
 
 ## Context and experimental design
 
-Bartlett used two methods: "repeated reproduction" (the same participant retells the story at intervals ranging from 15 minutes to several years) and "serial reproduction" (the first participant passes the story to the second, like a whispered message). He chose a story containing magical and cultural elements foreign to English students in order to observe how they handled cognitive gaps.
+Bartlett used two primary methods: "repeated reproduction" (the same participant retells the story at intervals ranging from 15 minutes to several years) and "serial reproduction" (the first participant passes the story to the second, like a whispered message chain). He chose a story containing magical and cultural elements foreign to English students in order to observe how they handled cognitive gaps.
+
+## Sample Characteristics and Participant Numbers
+
+In the classic repeated reproduction experiments described in Chapter 4 of *Remembering* (1932), Bartlett's sample consisted of 20 English participants, primarily undergraduate and graduate students at the University of Cambridge. Each participant read the 330-word North American folk tale twice through to themselves at a normal pace. The initial reproduction was written after a 15-minute delay, followed by subsequent reproductions collected after varying delays—ranging from days and weeks to several months and, in several tracked individual case histories, up to several years (with one case recalled after a decade).
+
+For his serial reproduction experiments (Chapter 7), Bartlett assembled independent transmission chains comprising 5 to 10 participants per chain. Participant 1 read the original folk tale and wrote down a reproduction; Participant 2 read only Participant 1's recall and reproduced it, continuing sequentially through the chain. Rather than conducting large-scale inferential statistical tests, Bartlett treated these cohorts as qualitative case series, meticulously documenting the linguistic omissions, rationalizations, and cultural substitutions that emerged across iterations.
 
 ## Results and conclusions
 

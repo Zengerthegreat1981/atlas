@@ -45,8 +45,8 @@ The current began in its well-known form with:
 - **Alexis Kagame (1912–1981)**: a Rwandan priest and philosopher who worked on the Kinyarwanda language.
 - **John Mbiti (1931–2019)**: Kenyan, "African Religions and Philosophy" (1969).
 - **Janheinz Jahn (1918–1973)**: "Muntu: African Culture and the Western World" (1961; German 1958).
-- **Léopold Senghor**: poet and president of Senegal, author of Négritude, whose philosophical outlook is close to this tendency.
-- **Okot p'Bitek**: "African Religions in Western Scholarship" (1971), in which he criticized, from within East Africa, the imposition of Greek concepts on Africans.
+- **Léopold Sédar Senghor** (1906–2001): poet and first president of Senegal, co-founder of the Négritude movement, whose cultural and philosophical writings articulated an intuitive African epistemology.
+- **Okot p'Bitek** (1931–1982): Ugandan scholar and poet whose *African Religions in Western Scholarship* (1971) criticized the projection of Hellenic and Christian theological categories onto indigenous African thought.
 
 ## Impact
 

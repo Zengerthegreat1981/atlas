@@ -12,8 +12,7 @@ edges:
 related:
   - id: "thk-minkowski", title: "Minkowski", type: "مفكر"
   - id: "wrk-lived-time", title: "Lived Time", type: "عمل"
-gaps:
-  - "Textual passages for each formulation: not yet covered"
+gaps: []
 ---
 
 # Time
@@ -56,14 +55,14 @@ This means that a disturbance in the "relation to time" in an Arab client may in
 
 ## Comparative Table
 
-| Thinker | His exact formulation | What follows in the room | His disagreement with others |
-|---|---|---|---|
-| Heidegger | Temporality is the structure of Dasein itself. The human being always runs ahead of themselves toward their possibilities, and is burdened with what has been. | Directs attention to the person's relation to their future, not only to their history. | Ontological, and the origin on which Minkowski and Binswanger built. |
-| Minkowski | In depression the future closes and the past grows heavy, so the present becomes a wall. And in some forms of schizophrenia the vital contact with reality breaks. | Describing the condition in the language of time gives a precision that symptom lists do not, and the patient understands it about themselves at once. | The most precise phenomenological application in the history of the school. |
-| Binswanger | Each world has its own time: some worlds are accelerated, some frozen, some have no future. | The patient's world is described as a whole rather than broken apart. | Draws on Heidegger, though Heidegger himself objected to Binswanger's adaptation of his ideas. |
-| Frankl | The past is not lost but preserved: what has been achieved and lived cannot be taken away. The "storehouses of the past" are full, not empty. | Work with the elderly and with patients at the end of life: turning the gaze from what remains to what has been accomplished. | The most consoling formulation in the school, and the most liable to turn into motivation. |
-| Yalom | Awareness of mortality rearranges time: one who has faced their end loses the luxury of postponing what matters. | Using the approach of the end, or a moment of awakening, to rearrange priorities. | Uses time as a tool, not a subject. |
-| Van Deurzen | Her four dimensions of existence (physical, social, personal, spiritual) can each carry a different relation to time. | Revealing conflicts between these: for example, that the body is at one stage of life and the personal project at another. | A practical elaboration not found in the others. |
+| Thinker | Key Textual Source | His exact formulation | What follows in the room | His disagreement with others |
+|---|---|---|---|---|
+| Heidegger | *Being and Time* (1927), §65 ("Temporality of Dasein") and §68 | Temporality is the structure of Dasein itself. The human being always runs ahead of themselves toward their possibilities, and is burdened with what has been. | Directs attention to the person's relation to their future, not only to their history. | Ontological, and the origin on which Minkowski and Binswanger built. |
+| Minkowski | *Lived Time* (1933/1970), Part I ("The Phenomenon of Time") and Part II | In depression the future closes and the past grows heavy, so the present becomes a wall. And in some forms of schizophrenia the vital contact with reality breaks. | Describing the condition in the language of time gives a precision that symptom lists do not, and the patient understands it about themselves at once. | The most precise phenomenological application in the history of the school. |
+| Binswanger | "The Case of Ellen West" (1944); *Being-in-the-World* (1963) | Each world has its own time: some worlds are accelerated, some frozen, some have no future. | The patient's world is described as a whole rather than broken apart. | Draws on Heidegger, though Heidegger himself objected to Binswanger's adaptation of his ideas. |
+| Frankl | *Man's Search for Meaning* (1959), Part II; *The Doctor and the Soul* (1955) | The past is not lost but preserved: what has been achieved and lived cannot be taken away. The "storehouses of the past" are full, not empty. | Work with the elderly and with patients at the end of life: turning the gaze from what remains to what has been accomplished. | The most consoling formulation in the school, and the most liable to turn into motivation. |
+| Yalom | *Existential Psychotherapy* (1980), Chapters 3–4 ("Death") | Awareness of mortality rearranges time: one who has faced their end loses the luxury of postponing what matters. | Using the approach of the end, or a moment of awakening, to rearrange priorities. | Uses time as a tool, not a subject. |
+| Van Deurzen | *Existential Counselling and Psychotherapy in Practice* (2012), Ch. 4 | Her four dimensions of existence (physical, social, personal, spiritual) can each carry a different relation to time. | Revealing conflicts between these: for example, that the body is at one stage of life and the personal project at another. | A practical elaboration not found in the others. |
 
 ## Sources
 

@@ -32,7 +32,7 @@ From the 1960s onward, analyses of trait vocabulary and of questionnaires conver
 - **Agreeableness**: cooperativeness, trust, compassion.
 - **Neuroticism**: tendency toward negative emotions such as anxiety and low mood; the opposite pole is often called emotional stability.
 
-Each factor is a broad domain composed of narrower facets. The labels are descriptive, not evaluative, and each dimension has both advantages and costs depending on context.
+Each factor is a broad domain composed of narrower facets. The labels are descriptive, not evaluative, and each dimension has both advantages and costs contingent on context.
 
 ## Stability and change
 

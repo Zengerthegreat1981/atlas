@@ -14,8 +14,7 @@ edges:
   - rel: "relates_to", target: "Existentialist School", target_type: "مدرسة"
 related:
   - id: "con-meaning", title: "Meaning and Meaninglessness: The School's Dividing Line", type: "مفهوم"
-gaps:
-  - "A specific primary historical source, rather than general narrative, for finer historical details: not yet covered."
+gaps: []
 ---
 
 # Post-WWI/WWII European Context
@@ -38,6 +37,13 @@ Viktor Frankl's direct experience in four Nazi concentration camps — Theresien
 
 The context produced three ideas that run through existential therapy. First, the limit situation: there are experiences — death, guilt, suffering, chance — that cannot be solved or explained away, only faced, and therapy must learn to work with them rather than around them. Second, the collapse of inherited meaning: after the wars, meaning could no longer be received from church, nation, or tradition as a matter of course; it had to be found or made by the individual, which is why the search for meaning became the central clinical question. Third, responsibility after catastrophe: Jaspers's distinctions of guilt and Frankl's insistence that the last human freedom is the choice of one's attitude made responsibility a therapeutic category, not only a moral one.
 
+## Primary Historical Documentation
+
+Beyond retrospective memoirs and secondary narratives, primary historical sources capture the immediacy of the mid-century European crisis:
+- **Hannah Arendt's Field Report (1950)**: In "The Aftermath of Nazi Rule: Report from Germany" (published in *Commentary*, October 1950), Arendt documented firsthand the pervasive moral numbness, apathy, and psychological avoidance in post-war Germany, providing empirical specificity to the philosophical diagnoses of Jaspers and Frankl.
+- **Sartre's Public Manifesto (1945/1946)**: Jean-Paul Sartre's address *L'Existentialisme est un humanisme* (delivered in October 1945 at the Club Maintenant in Paris, published 1946) articulated directly to a disoriented post-Liberation public why radical freedom, anguish (*angoisse*), and abandonment (*délaissement*) were unavoidable ethical responsibilities in the wake of the Occupation and collaboration.
+- **Karl Jaspers's Forensic Lectures (1946)**: *Die Schuldfrage* transcribed Jaspers's 1945/1946 lectures at Heidelberg University immediately following its reopening under Allied administration, providing a precise contemporary dissection of German moral, political, and metaphysical responsibility before the verdicts of the Nuremberg trials.
+
 ## Influence
 
 The post-war context shaped existential therapy in its content and its institutions. The British school of van Deurzen and Spinelli, the Swiss Daseinsanalyse of Binswanger and Boss, and the American school of Yalom all inherit its questions, even when they answer them differently. But historians warn against reducing the century to two shocks: post-war Europe was also a time of reconstruction, welfare-state building, and a European project, and experiences differed sharply between east and west, victors and defeated, occupiers and occupied. The existential reading of the wars is therefore a partial interpretation: the philosophical roots of existential therapy predate the wars in Kierkegaard, Heidegger, and Jaspers himself. This context is historical and descriptive; it must not be used to justify or politicise any later clinical reading.
@@ -51,6 +57,8 @@ Frankl's Man's Search for Meaning (1946) and Jaspers's The Question of Guilt (19
 - Jaspers, K. (1919). *Psychologie der Weltanschauungen*. Springer.
 - Jaspers, K. (1946). *Die Schuldfrage*. Lambert Schneider.
 - Frankl, V. E. (1946). *Ein Psycholog erlebt das Konzentrationslager*. Verlag für Jugend und Volk. English ed.: *Man's Search for Meaning*. Beacon Press, 1959.
+- Arendt, H. (1950). The Aftermath of Nazi Rule: Report from Germany. *Commentary*, 10(4), 342–353.
+- Sartre, J.-P. (1946). *L'Existentialisme est un humanisme*. Nagel. English ed.: *Existentialism Is a Humanism*, trans. C. Macomber. Yale University Press, 2007.
 - Judt, T. (2005). *Postwar: A History of Europe Since 1945*. Penguin Press.
 - Mazower, M. (1998). *Dark Continent: Europe's Twentieth Century*. Alfred A. Knopf.
 - Levi, P. (1947). *Se questo è un uomo*. De Silva. English ed.: *If This Is a Man*. Orion Press, 1959.

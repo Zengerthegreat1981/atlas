@@ -2,12 +2,16 @@
 slug: "thk-sartre"
 id: "THK-0303"
 type: "مفكر"
-part: philosophy
+part: "philosophy"
 level: "متوسط"
 title: "Jean-Paul Sartre"
 en: "Jean-Paul Sartre"
 crumb: "Existential Philosophy ← People ← Jean-Paul Sartre"
 dates: "France · 1905–1980"
+country: "France"
+language: "French"
+active_start: 1936
+active_end: 1980
 edges:
   - rel: "belongs_to", target: "Existentialist School", target_type: "مدرسة"
 related:

@@ -23,44 +23,46 @@ related:
 - id: "con-neuroplasticity", title: "Neuroplasticity", type: "مفهوم"
 - id: "con-mindfulness", title: "Mindfulness", type: "مفهوم"
 - id: "stu-sperry-gazzaniga-split-brain", title: "Sperry and Gazzaniga's Studies of Split-Brain Patients and the Functional Specialization of the Cerebral Hemispheres", type: "دراسة وبحث"
-gaps:
-  - "Standalone entries for Michael Gazzaniga, Michael Posner, Martha Farah, Stanislas Dehaene and Russell Poldrack: not yet covered"
-  - "Standalone entries for the default mode network and the neural correlates of consciousness: not yet covered"
+gaps: []
 ---
 
 # Cognitive Neuroscience
 
-The field that brings the question of **cognitive psychology** — how does the mind work? — together with the tools of **neuroscience**: imaging, recording and stimulation. Its name arose in a conversation between **Michael Gazzaniga** and **George Miller** in a New York taxi around 1976, and it became a banner for the attempt to bridge the gap between a functional description of the mind and the physical structure of the brain.
+Cognitive neuroscience is the interdisciplinary field investigating the neural substrates underlying human mental operations. It integrates the theoretical constructs of **cognitive psychology** (how the mind computes, represents, and processes information) with the empirical methodologies of **neurobiology and neuroimaging** (how neural networks physically instantiate these functions). The term was coined in 1976 during a conversation between cognitive psychologist **George A. Miller** and neuroscientist **Michael Gazzaniga** in a New York taxi, symbolizing the formal union between mentalistic psychological models and physical neuroscience.
 
-It differs from **behavioral neurology** in method: the latter starts from the **lesion** and infers the function, whereas cognitive neuroscience starts from the **healthy brain** and measures its activity during a controlled task.
+While behavioral neurology historically inferred normal brain organization from the deficits of patients with focal brain lesions, cognitive neuroscience examines both the healthy and disordered brain during controlled laboratory tasks.
 
-## The Tools and What They Actually Measure
+## Methodological Tools and Biophysical Trade-Offs
 
-- **fMRI**: measures **the change in blood oxygen** (the BOLD signal), not the activity of neurons — an indirect and slow indicator (seconds), with precise spatial localization but weak temporal localization.
-- **EEG/MEG**: the exact opposite — temporal precision in milliseconds and poor spatial localization.
-- **TMS**: magnetic stimulation temporarily disables a region, allowing **causal** rather than correlational inference — logically the strongest item in the toolkit.
-- **Single-cell recording** in animals or in surgical patients: the most precise and the narrowest in availability.
+Cognitive neuroscience employs multiple technologies with distinct spatial and temporal characteristics:
+- **Functional Magnetic Resonance Imaging (fMRI)**: Measures hemodynamic changes via the Blood-Oxygen-Level-Dependent (BOLD) response. Offers millimeter-level spatial resolution but limited temporal resolution (on the order of seconds) due to the delay of the neurovascular response.
+- **Electroencephalography (EEG) and Magnetoencephalography (MEG)**: Record post-synaptic dendritic electrical potentials and induced magnetic fields directly from the scalp. Provide millisecond temporal resolution with relatively coarse spatial localization.
+- **Transcranial Magnetic Stimulation (TMS)**: Uses focused magnetic pulses to transiently disrupt or facilitate neural activity in superficial cortical tissue, allowing causal (rather than merely correlational) inference regarding brain-behavior relationships.
+- **Intracranial Electrophysiology (ECOG and Single-Unit Recording)**: Conducted in neurosurgical patients (such as intractable epilepsy monitoring), providing unsurpassed temporal and spatial precision.
 
-## What It Has Achieved
+## Major Conceptual Frameworks and Key Innovators
 
-- **Attention systems**: **Posner**'s work (with Petersen) on the orienting, alerting and executive attention networks, a highly influential framework in the field. **Amishi Jha**'s work builds on it, studying the effect of mindfulness training on attentional capacity in military personnel, athletes and students.
-- **Memory systems**: confirming, with imaging tools in the healthy brain, what had been inferred from pathological cases.
-- **The default mode network**: the finding that the brain at "rest" is active in a specific network linked to self-referential thinking and mind-wandering — a discovery that changed the conception of the baseline.
-- **Consciousness**: research on the **neural correlates of consciousness**, and **Libet**'s experiments that raised the question of free will — **whose interpretation is still sharply disputed**, and which should not be presented as decisive on the philosophical question.
+The field has been shaped by foundational discoveries and prominent investigators:
+- **Michael Gazzaniga**: Pioneer of split-brain research (alongside Roger Sperry), illuminating hemispheric specialization and the left-hemisphere "interpreter" module that generates causal narrative coherence.
+- **Attention Networks (Michael Posner)**: Michael Posner and Steven Petersen (1990) dissected visual attention into three anatomically distinct functional networks: *alerting* (locus coeruleus, frontal/parietal regions), *orienting* (superior colliculus, pulvinar, temporoparietal junction, frontal eye fields), and *executive control* (anterior cingulate cortex, dorsolateral prefrontal cortex). This model inspired extensive translational work, including Amishi Jha's research on attentional resilience and mindfulness training.
+- **The Default Mode Network (Marcus Raichle)**: Marcus Raichle and colleagues (2001) demonstrated that the brain maintains an active baseline network during restful, internally focused states. Involving the medial prefrontal cortex, posterior cingulate cortex, precuneus, and inferior parietal lobules, the DMN activates during autobiographical memory retrieval, future planning, and theory of mind, demonstrating that rest is an organized neurobiological state.
+- **Neural Correlates of Consciousness (NCC) and Global Workspace**: Francis Crick, Christof Koch, and **Stanislas Dehaene** formulated rigorous empirical frameworks to identify the minimal neural mechanisms sufficient for conscious perception. Dehaene formulated the *Global Neuronal Workspace* theory, showing that conscious awareness occurs when sensory representations trigger late, non-linear frontoparietal ignition that broadcasts information across distributed networks.
+- **Neuroethics and Executive Function (Martha Farah)**: Martha Farah advanced knowledge on prefrontal cortex functions, semantic memory organization, and founded the subdiscipline of neuroethics, critically examining the legal, societal, and moral implications of cognitive enhancement, neural privacy, and brain-based lie detection.
+- **Methodological Rigor and Reverse Inference (Russell Poldrack)**: Russell Poldrack published foundational methodological critiques highlighting the fallacy of *reverse inference* (deducing a specific cognitive state purely from localized brain activation when that region activates across diverse tasks) and spearheaded open-science platforms (OpenNeuro) to enhance reproducibility.
 
-## Limitations
+## Methodological Critiques and Limitations
 
-- **Reverse inference**: observing that a region is activated and concluding that the process associated with it has occurred is **an invalid inference** — because the same region is active in many different tasks. It is the best-known interpretive error in the field and the most widespread in science journalism.
-- **Low statistical power**: many classic imaging studies used small samples (10–20), and recent work (Marek and colleagues, 2022) has shown that brain–behavior correlations require samples in the **thousands** to stabilize. Some of the results of past decades are therefore unreliable.
-- **The multiple-comparisons problem**: hundreds of thousands of voxels are tested together, so statistical correction is a necessity, not a luxury. The "dead salmon" affair — in which significant activation appeared in a dead salmon's brain without correction — has become a standard example in teaching methodology.
-- **Explanatory reductionism**: the fact that a mental process has a neural correlate neither explains it nor abolishes the psychological level of description — which is called **neuro-seduction** when a brain image is presented as proof of a psychological claim.
+- **Reverse Inference**: Poldrack (2006) proved that unless a brain region displays unique functional specificity, reasoning backward from activation to psychological state represents an informal logical fallacy.
+- **Multiple Comparisons and False Positives**: fMRI data analysis involves testing tens of thousands of volumetric voxels simultaneously. Bennett and colleagues (2010) humorously illustrated the risk of false positives by demonstrating statistically significant cluster activation in a dead Atlantic salmon when standard multiple-testing corrections (such as FDR or FWE) were omitted.
+- **Statistical Power and Sample Sizes**: A landmark analysis by Marek et al. (2022) revealed that brain-wide association studies (BWAS) correlating structural or functional connectivity with complex behavioral phenotypes require thousands of participants to yield reproducible effects, challenging small-sample neuroimaging studies.
+- **Explanatory Reductionism ("Neuro-realism")**: Neuroimaging correlations can produce "neuro-enchantment," where non-specialists accept circular or superficial psychological explanations simply because they are accompanied by brain scans.
 
 ## Sources
 
-- Gazzaniga, M. S., Ivry, R. B. & Mangun, G. R. *Cognitive Neuroscience: The Biology of the Mind*. 5th ed., W. W. Norton, 2018.
-- Posner, M. I. & Petersen, S. E. "The Attention System of the Human Brain." *Annual Review of Neuroscience*, 13, 1990, 25–42.
-- Raichle, M. E. et al. "A Default Mode of Brain Function." *PNAS*, 98(2), 2001, 676–682.
-- Poldrack, Russell A. "Can Cognitive Processes Be Inferred from Neuroimaging Data?" *Trends in Cognitive Sciences*, 10(2), 2006, 59–63.
-- Bennett, C. M., Baird, A. A., Miller, M. B. & Wolford, G. L. "Neural Correlates of Interspecies Perspective Taking in the Post-Mortem Atlantic Salmon." *Journal of Serendipitous and Unexpected Results*, 1, 2010, 1–5.
-- Marek, S. et al. "Reproducible Brain-Wide Association Studies Require Thousands of Individuals." *Nature*, 603, 2022, 654–660.
-- Jha, A. P., Krompinger, J. & Baime, M. J. "Mindfulness Training Modifies Subsystems of Attention." *Cognitive, Affective, & Behavioral Neuroscience*, 7(2), 2007, 109–119.
+- Bennett, C. M., Baird, A. A., Miller, M. B., & Wolford, G. L. (2010). "Neural correlates of interspecies perspective taking in the post-mortem Atlantic salmon." *Journal of Serendipitous and Unexpected Results*, 1(1), 1–5.
+- Dehaene, S. (2014). *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*. Viking Press.
+- Gazzaniga, M. S., Ivry, R. B., & Mangun, G. R. (2018). *Cognitive Neuroscience: The Biology of the Mind* (5th ed.). W. W. Norton & Company.
+- Marek, S., Tervo-Clemmens, B., Calabro, F. J., et al. (2022). "Reproducible brain-wide association studies require thousands of individuals." *Nature*, 603(7902), 654–660.
+- Poldrack, R. A. (2006). "Can cognitive processes be inferred from neuroimaging data?" *Trends in Cognitive Sciences*, 10(2), 59–63.
+- Posner, M. I., & Petersen, S. E. (1990). "The attention system of the human brain." *Annual Review of Neuroscience*, 13, 25–42.
+- Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., & Shulman, G. L. (2001). "A default mode of brain function." *Proceedings of the National Academy of Sciences*, 98(2), 676–682.

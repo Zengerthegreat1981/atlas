@@ -12,8 +12,7 @@ edges:
 related:
   - id: "thk-yalom", title: "Yalom", type: "مفكر"
   - id: "con-relation", title: "Relationship and Encounter", type: "مفهوم"
-gaps:
-  - "Primary-text locations for each thinker's formulation: not yet covered"
+gaps: []
 ---
 
 # Isolation
@@ -27,6 +26,17 @@ There are three kinds that must be separated before anything else is said: perso
 ## The Core Disputes Within the Concept
 
 An explicit rivalry: Sartre against Buber. Is genuine encounter possible, or is relationship a structural conflict? The answer determines what the therapist does: if encounter is possible, the therapeutic relationship is the tool; if it is not, it is at best a temporary relief.
+
+## Primary-Text Formulations
+
+Primary existential literature articulates several distinct ontological and clinical perspectives on isolation:
+
+- **Søren Kierkegaard** (*Fear and Trembling*, 1843; *The Sickness unto Death*, 1849): depicts the single individual (*hiin Enkelte*) standing in solitary, unmediated responsibility before the Absolute, beyond the universal ethical norms of the collective.
+- **Martin Heidegger** (*Being and Time*, 1927, §§40, 53): demonstrates how fundamental anxiety (*Angst*) isolates (*vereinzelt*) Dasein from its comforting immersion in the everyday conventions of "the They" (*das Man*), forcing the individual to confront their authentic Being-in-the-world.
+- **Jean-Paul Sartre** (*Being and Nothingness*, 1943, Part III, Ch. 1): portrays human relationships as structurally conflicted. The gaze of the Other (*le regard*) objectifies consciousness, transforming subjectivity into an object for another; true union between two conscious subjects is ontologically impossible.
+- **Martin Buber** (*I and Thou*, 1923): mounts a direct theological and relational challenge to Sartrean isolation. Buber posits the dialogical *I-Thou* (*Ich-Du*) encounter as an authentic meeting in the realm of the "between" (*das Zwischen*), where isolation is transcended through mutual presence without absorption.
+- **Irvin D. Yalom** (*Existential Psychotherapy*, 1980, Part III): categorizes existential isolation as the third ultimate concern. It represents an unbridgeable gulf between the individual and the world that remains even in the most intimate relationship; Yalom analyzes pathological defenses against it, especially compulsive "fusion" (dissolving one's boundaries in another) and compulsive relating.
+- **Clark Moustakas** (*Loneliness*, 1961): provides an existential-humanistic analysis distinguishing defensive, anxious loneliness from existential loneliness, which he characterizes as an unavoidable and creatively vital condition of individual self-discovery.
 
 ## How It Appears in the Session
 
@@ -68,9 +78,10 @@ Arabic terms for loneliness and withdrawal may not distinguish existential isola
 
 ## Sources
 
-- Irvin D. Yalom, *Existential Psychotherapy*, Basic Books, 1980.
-- Martin Buber, *Ich und Du*, 1923 (English: *I and Thou*).
-- Jean-Paul Sartre, *L'Être et le néant*, 1943, Part III (on being-for-others).
-- Martin Heidegger, *Being and Time*, 1927.
+- Søren Kierkegaard, *Fear and Trembling*, 1843, trans. Howard V. Hong and Edna H. Hong, Princeton University Press, 1983.
+- Martin Heidegger, *Being and Time*, 1927, trans. John Macquarrie and Edward Robinson, Harper & Row, 1962.
+- Jean-Paul Sartre, *Being and Nothingness*, 1943, trans. Hazel E. Barnes, Washington Square Press, 1956.
+- Martin Buber, *I and Thou* (*Ich und Du*, 1923), trans. Walter Kaufmann, Charles Scribner's Sons, 1970.
 - Clark Moustakas, *Loneliness*, Prentice-Hall, 1961.
+- Irvin D. Yalom, *Existential Psychotherapy*, Basic Books, 1980.
 - Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice*, Sage, 1998.

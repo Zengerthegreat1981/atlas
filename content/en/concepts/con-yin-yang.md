@@ -11,7 +11,7 @@ active_start: -700
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Yin-Yang School", target_type: "مدرسة"
-related:
+related: []
 gaps: []
 ---
 

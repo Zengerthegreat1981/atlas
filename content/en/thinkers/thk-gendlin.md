@@ -17,8 +17,7 @@ edges:
 related:
 - id: "thk-husserl", title: "Edmund Husserl", type: "مفكر"
 - id: "br-humanistic", title: "American Humanistic-Existential Current", type: "تيار"
-gaps:
-  - "A sourced direct quotation from *Focusing* (1978): not yet covered."
+gaps: []
 ---
 # Eugene Gendlin
 
@@ -32,7 +31,11 @@ Gendlin was born in Vienna on 25 December 1926 and died in New York in 2017. Aft
 
 ## Main ideas
 
-Gendlin developed an experiential approach based on "the bodily-lived Felt Sense," showing that the body carries a living, implicit knowledge of life situations that exceeds what the conscious mind can directly put into words. Psychological healing occurs when the person finds the precise words, symbols or images (the "Handle") that match this vague bodily sense, which allows him to move and open up existentially at a moment he calls the "Felt Shift." Philosophically, in *A Process Model* (written 1981, published in full 1997) he formulated a more abstract theory of "Body-Environment Interaction," in which the living body is not a biological machine separate from its meaning but is itself an implicit process of interaction with the situation that precedes mental conceptualization of it. Meaning is neither discovered ready-made nor constructed arbitrarily, but is "carried forward" (Carrying Forward) from the body's interaction with its context.
+Gendlin developed an experiential approach based on "the bodily-lived Felt Sense," showing that the body carries a living, implicit knowledge of life situations that exceeds what the conscious mind can directly put into words. As he defined it in *Focusing* (1978, p. 32):
+
+> "A felt sense is not a mental experience but a physical one. A bodily awareness of a situation or person or event."
+
+Psychological healing occurs when the person finds the precise words, symbols or images (the "Handle") that match this vague bodily sense, which allows him to move and open up existentially at a moment he calls the "Felt Shift." Philosophically, in *A Process Model* (written 1981, published in full 1997) he formulated a more abstract theory of "Body-Environment Interaction," in which the living body is not a biological machine separate from its meaning but is itself an implicit process of interaction with the situation that precedes mental conceptualization of it. Meaning is neither discovered ready-made nor constructed arbitrarily, but is "carried forward" (Carrying Forward) from the body's interaction with its context.
 
 The Focusing process in its first formulation (1978) consists of six movements: clearing an inner space, then attending to the vague felt sense of a problem, then searching for a handle (a word or image) that matches it, then resonating between the handle and the sense to check accuracy, then the open question that invites the sense to disclose itself, and finally the friendly receiving of whatever emerges. Gendlin later added other techniques, including working with dreams through the body (*Let Your Body Interpret Your Dreams*, 1986), and the method of "Thinking at the Edge" with Mary Hendricks, to turn implicit knowledge in different fields of knowledge into new concepts. On the philosophical level, Gendlin opposes the idea that experience is raw material on which ready-made categories impose their form, and holds that experience has an "Implicit Intricacy" more detailed than any formulation, and that a new formulation changes the experience itself rather than merely describing it.
 

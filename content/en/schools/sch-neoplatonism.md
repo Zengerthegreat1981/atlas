@@ -19,9 +19,10 @@ related:
 - id: "sch-aristotelianism", title: "Peripatetic / Aristotelian School (Aristotelianism)", type: "مدرسة"
 gaps: []
 ---
+
 # Neoplatonism
 
-The last great current of ancient Greek philosophy, founded by **Plotinus** (204/5-270 CE) in Rome and systematized by later thinkers up to **Proclus** (412-485 CE) in Athens. Its adherents regarded themselves simply as Platonists; they read Plato, with Aristotelian, Pythagorean, and Stoic elements, as a unified system in which everything derives from a single transcendent first principle. It strongly influenced Christian, Islamic, and Jewish thought, and Renaissance Platonism.
+Neoplatonism was the last major school of ancient Greek philosophy, founded by **Plotinus** (204/5–270 CE) in Rome and systematized by later thinkers up to **Proclus** (412–485 CE) in Athens. Its adherents regarded themselves simply as Platonists; they read Plato, with Aristotelian, Pythagorean, and Stoic elements, as a unified system in which everything derives from a single transcendent first principle. It strongly influenced Christian, Islamic, and Jewish thought, and Renaissance Platonism.
 
 ## Context
 

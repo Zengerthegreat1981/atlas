@@ -44,9 +44,14 @@ The Dunedin study also produced some of the most famous research in psychology o
 
 Using biomarker data collected at ages 26, 32, and 38, Belsky and colleagues (2015) developed a measure of the "Pace of Aging" that combines 18 biomarkers (including cardiovascular, metabolic, kidney, lung, immune, and gum health measures) to estimate how fast a person's body is aging over time. They found that individuals of the same chronological age (38) differed considerably in their pace of aging, that faster aging was associated with poorer physical functioning and appearing older to independent raters, and that it was related to some childhood factors, which links developmental psychology with research on the biology of aging.
 
+## The General Psychopathology Factor (the "p" Factor)
+
+Analyzing psychiatric symptom data collected across multiple diagnostic waves from ages 11 to 38, Caspi and colleagues (2014) demonstrated that psychiatric comorbidities are best explained by a bifactor structural model. In addition to traditional sub-dimensions of internalizing (depression, anxiety) and externalizing (conduct disorder, substance abuse), they identified a single dimension of general psychopathology—termed the **"p" factor** (analogous to the *g* factor in intelligence). Higher scores on the *p* factor independently reflect greater symptom severity, chronic persistence, functional impairment, and early-childhood neurodevelopmental vulnerabilities, offering a dimensional foundation that influenced modern psychiatric frameworks such as HiTOP.
+
 ## Sources
 
 - Moffitt, T. E., Arseneault, L., Belsky, D., et al. (2011). "A Gradient of Childhood Self-Control Predicts Health, Wealth, and Public Safety." *PNAS*, 108(7), 2693–2698.
+- Caspi, A., Houts, R. M., Belsky, D. W., et al. (2014). The p factor: One general psychopathology factor in the structure of psychiatric disorders? *Clinical Psychological Science*, 2(2), 119–137.
 - Caspi, A., Sugden, K., Moffitt, T. E., et al. (2003). "Influence of Life Stress on Depression: Moderation by a Polymorphism in the 5-HTT Gene." *Science*, 301(5631), 386–389.
 - Caspi, A., McClay, J., Moffitt, T. E., et al. (2002). "Role of Genotype in the Cycle of Violence in Maltreated Children." *Science*, 297(5582), 851–854.
 - Moffitt, T. E. (1993). Adolescence-limited and life-course-persistent antisocial behavior: A developmental taxonomy. *Psychological Review, 100*(4), 674-701.
