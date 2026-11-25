@@ -31,7 +31,7 @@ The veil has been the subject of recurring political controversy. From the force
 
 ## Main Ideas and Method
 
-Fadwa El Guindi, in *Veil: Modesty, Privacy and Resistance* (1999), challenged readings that reduce the veil to oppression alone. Drawing on Egyptian material, she argued that many women, including educated women, adopted the veil from the 1970s as an expression of Islamic identity and cultural assertion, and she placed it within a long history of dress, modesty and privacy in Arab culture. In the same year as the title of this entry, Saba Mahmood's *Politics of Piety* (2005), an ethnography of a women's mosque movement in Cairo, questioned liberal assumptions about agency and piety in related debates. At the same time, other studies documented clear cases of family or state coercion, which confirms the multiplicity of meanings according to context, rather than the existence of one fixed meaning for the practice.
+Fadwa El Guindi, in *Veil: Modesty, Privacy and Resistance* (1999), challenged readings that reduce the veil to oppression alone. Drawing on Egyptian material, she argued that many women, including educated women, adopted the veil from the 1970s as an expression of Islamic identity and cultural assertion, and she placed it within a long history of dress, modesty and privacy in Arab culture. In 2005, Saba Mahmood's *Politics of Piety* (2005), an ethnography of a women's mosque movement in Cairo, questioned liberal assumptions about agency and piety in related debates. At the same time, other studies documented clear cases of family or state coercion, which confirms the multiplicity of meanings according to context, rather than the existence of one fixed meaning for the practice.
 
 ## Impact and Criticism
 

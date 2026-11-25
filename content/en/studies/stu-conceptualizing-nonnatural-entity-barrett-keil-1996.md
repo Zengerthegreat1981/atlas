@@ -36,10 +36,10 @@ Barrett and Keil named this gap between the professed level (theological correct
 
 ## Its Impact on Cognitive Science of Religion
 
-This study became a methodological model that other researchers in the cognitive science of religion (such as Boyer and Atran) followed to test theoretical hypotheses through controlled experimental designs (such as narrative comprehension and recall). They did so rather than relying on philosophical reflection or ethnographic description alone. The approach thus complements, rather than replaces, the long-term fieldwork approach, as in Harvey Whitehouse's work (`stu-pomio-kivung-fieldwork-whitehouse-1995`).
+This study is an early example of the experimental approach that researchers in the cognitive science of religion later used to test theoretical hypotheses through controlled experimental designs (such as narrative comprehension and recall). They did so rather than relying on philosophical reflection or ethnographic description alone. The approach thus complements, rather than replaces, the long-term fieldwork approach, as in Harvey Whitehouse's work (`stu-pomio-kivung-fieldwork-whitehouse-1995`).
 
 ## Sources
 
 - Barrett, Justin L. & Keil, Frank C. (1996). "Conceptualizing a Nonnatural Entity: Anthropomorphism in God Concepts". *Cognitive Psychology*, 31(3), 219–247. DOI: 10.1006/cogp.1996.0017.
-- Barrett, Justin L. (1998). "Cognitive Constraints on Hindu Concepts of the Divine." *Journal for the Scientific Study of Religion*, 37(4).
+- Barrett, Justin L. (1998). "Cognitive Constraints on Hindu Concepts of the Divine." *Journal for the Scientific Study of Religion*, 37(4), 608–619.
 - Barrett, Justin L. (2004). *Why Would Anyone Believe in God?*. Walnut Creek, CA: AltaMira Press.

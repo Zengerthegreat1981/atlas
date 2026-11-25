@@ -75,3 +75,7 @@ Description, self-understanding and explanation must be distinguished. A myth's 
 - Victor Turner, *The Ritual Process* (1969)
 - Catherine Bell, *Ritual Theory, Ritual Practice* (1992)
 - Claude Lévi-Strauss, *Structural Anthropology* (1958)
+- William Robertson Smith, *Lectures on the Religion of the Semites* (1889)
+- James G. Frazer, *The Golden Bough* (1890)
+- Roy A. Rappaport, *Ritual and Religion in the Making of Humanity* (1999)
+- Bruce Lincoln, *Theorizing Myth* (1999)

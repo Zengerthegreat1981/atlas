@@ -23,6 +23,7 @@ related:
 - id: "dbt-reductionism-vs-non-reductionism-religious-studies", title: "The Debate between Reductionist and Non-Reductionist Approaches in the Study of Religion", type: "جدل"
 - id: "wrk-imagining-religion-smith", title: "Imagining Religion: From Babylon to Jonestown", type: "عمل / كتاب"
 - id: "dbt-comparativism-vs-contextualism-eliade-smith", title: "The Debate between Comprehensive and Contextual Comparison: Eliade, Smith and the Method of Religious Comparison", type: "جدل"
+gaps: []
 ---
 
 # Jonathan Zittell Smith
@@ -31,7 +32,7 @@ An American historian of religions (1938–2017), professor at the University of
 
 ## *Imagining Religion: From Babylon to Jonestown* (1982)
 
-In this central work (University of Chicago Press), Smith coined his most famous formulation: "religion" is the invention of the academic scholar; it has no independent existence outside the academic study that defines it ("Religion is solely the creation of the scholar's study"). This does not deny that the practices and beliefs we call "religious" exist; it insists that grouping them together under a single umbrella called "religion" is an analytic act performed by the researcher, not a ready-made objective fact in the world. He returned to the idea in his essay "Religion, Religions, Religious" in *Critical Terms for Religious Studies* (1998), where he traced the history of the European term *religio* and its transformation into a general category.
+In this major work (University of Chicago Press), Smith put forward his best-known formulation: "religion" is the invention of the academic scholar; it has no independent existence outside the academic study that defines it ("Religion is solely the creation of the scholar's study"). This does not deny that the practices and beliefs we call "religious" exist; it insists that grouping them together under a single umbrella called "religion" is an analytic act performed by the researcher, not a ready-made objective fact in the world. He returned to the idea in his essay "Religion, Religions, Religious" in *Critical Terms for Religious Studies* (1998), where he traced the history of the European term *religio* and its transformation into a general category.
 
 ## "Religion" and religion: The Problem of the Term in Arabic
 
@@ -61,5 +62,6 @@ Smith occupies a unique position. He is not reductionist: he does not see religi
 - Smith, Jonathan Z. *To Take Place: Toward Theory in Ritual*. University of Chicago Press, 1987.
 - Smith, Jonathan Z. *Drudgery Divine: On the Comparison of Early Christianities and the Religions of Late Antiquity*. University of Chicago Press, 1990.
 - Smith, Wilfred Cantwell. *The Meaning and End of Religion*. New York: Macmillan, 1962.
+- Asad, Talal. "The Construction of Religion as an Anthropological Category." In *Genealogies of Religion*. Baltimore: Johns Hopkins University Press, 1993.
 - Masuzawa, Tomoko. *The Invention of World Religions*. University of Chicago Press, 2005.
 - Nongbri, Brent. *Before Religion: A History of a Modern Concept*. Yale University Press, 2013.

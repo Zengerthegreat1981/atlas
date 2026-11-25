@@ -30,7 +30,7 @@ An account of the direct intellectual-historical connection between William Robe
 
 ## The Durkheimian Transformation: From the Semitic Totem to the Australian Totem
 
-The decisive difference is that Durkheim did not merely transfer Smith's thesis, but rebuilt it on a different ethnographic basis. He abandoned the scattered Semitic evidence that Smith had used (which was itself subjected to later critical revisions, as the entry on Smith documents), in favor of recent Australian ethnography from his own time (the Arunta tribes), regarding it as a purer "primitive" model. According to Evans-Pritchard, in his critical review of the history of theories of primitive religion, this source substitution is what explains how a Semitic hypothesis of limited scope in Smith became, in Durkheim, a general sociological theory of the origin of both religion and society.
+The decisive difference is that Durkheim did not merely transfer Smith's thesis, but rebuilt it on a different ethnographic basis. He abandoned the scattered Semitic evidence that Smith had used (which was itself subjected to later critical revisions, as the entry on Smith documents), in favor of recent Australian ethnography from his own time (the Arunta tribes), regarding it as a purer "primitive" model. Evans-Pritchard, in his critical survey of theories of primitive religion, discusses this turn to Australian material, which is part of how a Semitic hypothesis of limited scope in Smith became, in Durkheim, a general sociological theory of the origin of both religion and society.
 
 ## Connection to the Arab-Islamic Heritage
 

@@ -75,3 +75,7 @@ Distinguish description (what groups do and believe), self-understanding (what t
 - José Casanova, *Public Religions in the Modern World* (1994)
 - Charles Taylor, *A Secular Age* (2007)
 - Eileen Barker, *The Making of a Moonie* (1984)
+- Saba Mahmood, *Politics of Piety* (2005)
+- William T. Cavanaugh, *The Myth of Religious Violence* (2009)
+- Mark Juergensmeyer, *Terror in the Mind of God* (2000)
+- Ernst Troeltsch, *The Social Teaching of the Christian Churches* (1912)

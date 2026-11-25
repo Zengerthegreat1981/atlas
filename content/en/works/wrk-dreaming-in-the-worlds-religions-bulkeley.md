@@ -23,7 +23,7 @@ gaps:
 
 # Dreaming in the World's Religions: A Comparative History
 
-A book published in 2008 by New York University Press, representing Kelly Bulkeley's broadest attempt to survey the role of dreams in the major religious traditions in comparative perspective.
+A book published in 2008 by New York University Press, Kelly Bulkeley's broad attempt to survey the role of dreams in the major religious traditions in comparative perspective.
 
 ## Historical Context
 

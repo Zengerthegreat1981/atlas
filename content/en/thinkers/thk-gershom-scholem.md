@@ -24,15 +24,15 @@ gaps:
 
 # Gershom Scholem
 
-A German-Israeli historian and philologist (Berlin 1897 – Jerusalem 1982; born Gerhard Scholem), regarded as the founder of the modern academic study of Kabbalah (Jewish mysticism). In his youth he rejected the assimilationist German-Jewish identity adopted by his parents. He emigrated to Mandate Palestine in 1923, and joined the newly founded Hebrew University of Jerusalem, where he taught from 1925 (as lecturer, later professor of Jewish mysticism) until his retirement in 1965.
+A German-Israeli historian and philologist (Berlin 1897 – Jerusalem 1982; born Gerhard Scholem), regarded as a founding figure of the modern academic study of Kabbalah (Jewish mysticism). In his youth he rejected the assimilationist German-Jewish identity adopted by his parents. He emigrated to Mandate Palestine in 1923, and joined the newly founded Hebrew University of Jerusalem, where he taught from 1925 (as lecturer, later professor of Jewish mysticism) until his retirement in 1965.
 
 ## The Scientific Project
 
-Scholem discovered and documented hundreds of Kabbalistic manuscripts, establishing an exact textual and critical history of a current that the "Science of Judaism" movement (*Wissenschaft des Judentums*) of the nineteenth century had excluded as irrational. He crowned his project with *Major Trends in Jewish Mysticism* (1941), and followed it with extended studies of Lurianic Kabbalah (sch-kabbalah-lurianic) and the Sabbatean movement of Sabbatai Ṣevi, and with his authoritative biography *Sabbatai Ṣevi: The Mystical Messiah* (1973).
+Scholem studied and documented many Kabbalistic manuscripts, establishing an exact textual and critical history of a current that the "Science of Judaism" movement (*Wissenschaft des Judentums*) of the nineteenth century had excluded as irrational. He crowned his project with *Major Trends in Jewish Mysticism* (1941), and followed it with extended studies of Lurianic Kabbalah (sch-kabbalah-lurianic) and the Sabbatean movement of Sabbatai Ṣevi, and with his major biography *Sabbatai Ṣevi: The Mystical Messiah* (1973).
 
 ## Sabbatai Ṣevi and Jewish Messianism
 
-In his other major work, *Sabbatai Ṣevi: The Mystical Messiah, 1626–1676* (1957 in Hebrew, 1973 in English), Scholem reconstructed the biography of the Ottoman Jewish messianic claimant Sabbatai Ṣevi and his messianic movement. This movement swept through wide Jewish communities in the seventeenth century, then collapsed when Sabbatai Ṣevi converted to Islam in 1666 under threat from the Ottoman sultan. Scholem argued that this movement was not merely a passing episode of collective frenzy, but a real historical activation of tensions latent within Lurianic Kabbalah itself, concerning the relationship between redemption and sin and the temporary legal dissolution of the law. This thesis paved the way for his later analysis of the most extreme case, that of Jacob Frank (thk-jacob-frank).
+In his other major work, *Sabbatai Ṣevi: The Mystical Messiah, 1626–1676* (1957 in Hebrew, 1973 in English), Scholem reconstructed the biography of the Ottoman Jewish messianic claimant Sabbatai Ṣevi and his messianic movement. This movement swept through wide Jewish communities in the seventeenth century, then collapsed when Sabbatai Ṣevi converted to Islam in 1666 under threat from the Ottoman sultan. Scholem argued that this movement was not merely a passing episode of collective frenzy, but a real historical activation of tensions latent within Lurianic Kabbalah itself, concerning the relationship between redemption and sin and the antinomian tendencies that followed the apostasy. This thesis paved the way for his later analysis of the most extreme case, that of Jacob Frank (thk-jacob-frank).
 
 ## His Relation to the "Science of Judaism" and Modern Mysticism
 
@@ -40,7 +40,7 @@ Scholem began from a sharp critique of the "Science of Judaism" movement founded
 
 ## Academic Standing
 
-Scholem trained and influenced generations of researchers at the Hebrew University. Among the scholars who built on his project is Moshe Idel (thk-moshe-idel), who studied there and later criticised several of Scholem's historical assumptions. His strict philological-historical methodology, based on the editing and dating of manuscripts, has remained the reference model for the academic study of Jewish mysticism to this day.
+Scholem trained and influenced generations of researchers at the Hebrew University. Among the scholars who built on his project is Moshe Idel (thk-moshe-idel), who studied there and later criticised several of Scholem's historical assumptions. His strict philological-historical methodology, based on the editing and dating of manuscripts, has remained highly influential in the academic study of Jewish mysticism.
 
 ## Relation to the Arab-Islamic Heritage
 
@@ -48,11 +48,11 @@ Scholem lived in Jerusalem, first in Mandate Palestine and then in Israel, for m
 
 ## Method and Wider Reception
 
-Scholem is a model of the scholar who largely established an academic field through decades of philological work on manuscripts that had not previously been systematically catalogued and dated. His influence extended beyond Jewish studies into the philosophy of history and cultural criticism generally, through his long intellectual friendship with Walter Benjamin. 
+Scholem is a model of a scholar who helped establish an academic field through decades of philological work on manuscripts that had not previously been systematically catalogued and dated. His influence extended beyond Jewish studies into the philosophy of history and cultural criticism generally, through his long intellectual friendship with Walter Benjamin. 
 
 ## Criticism
 
-Scholem's method was later criticised by Moshe Idel, a scholar of a later generation, who argued that Scholem exaggerated the portrayal of Lurianic Kabbalah as a unified historical response to the shock of the expulsion of the Jews from Spain in 1492. Idel proposed instead a more pluralistic reading of the contemporary and competing currents of Kabbalah. Despite this criticism, the rigorous philological and historical tools that Scholem established (editing manuscripts, dating them and attributing them accurately to their authors) remain the methodological foundation on which even his critics build.
+Scholem's method was later criticised by Moshe Idel, a scholar of a later generation, who argued that Scholem exaggerated the portrayal of Lurianic Kabbalah as a unified historical response to the shock of the expulsion of the Jews from Spain in 1492. Idel proposed instead a more pluralistic reading of the contemporary and competing currents of Kabbalah. Despite this criticism, the rigorous philological and historical tools that Scholem established (editing manuscripts, dating them and attributing them accurately to their authors) remain a methodological foundation for much later work, including that of his critics.
 
 ## Additional Works
 

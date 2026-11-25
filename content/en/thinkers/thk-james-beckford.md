@@ -25,7 +25,7 @@ gaps: []
 
 # James A. Beckford
 
-A British sociologist (born 1942), emeritus professor at the University of Warwick. He is one of the founding researchers in the sociology of new religious movements, alongside Eileen Barker, but with a different focus. Rather than the long-term ethnographic study of a particular membership, Beckford concentrated on analyzing the **institutional and comparative response** of states, official churches and the media to these movements across different European countries.
+A British sociologist (born 1942), emeritus professor at the University of Warwick. He is a leading researcher in the sociology of new religious movements, alongside Eileen Barker, but with a different focus. Rather than the long-term ethnographic study of a particular membership, Beckford concentrated on analyzing the **institutional and comparative response** of states, official churches and the media to these movements across different European countries.
 
 ## His Founding Study: Societal Response to the Unification Church
 
@@ -37,7 +37,7 @@ Beckford's work complements Barker's. Where Barker focused on the precise empiri
 
 ## Religion in Prison
 
-At a later stage of his career, Beckford extended his institutional interest to a very different context: how religious practice is organized inside prisons. In *Religion in Prison: Equal Rites in a Multi-Faith Society* (with Sophie Gilliat-Ray, 1998), he examined how the British prison administration negotiates the provision of religious services to prisoners of many faiths (Christianity, Islam, Hinduism, Sikhism and others). The study examines tensions between formal equality of provision and the historically privileged position of the Church of England, and it is a landmark in the study of religion in prisons.
+At a later stage of his career, Beckford extended his institutional interest to a very different context: how religious practice is organized inside prisons. In *Religion in Prison: Equal Rites in a Multi-Faith Society* (with Sophie Gilliat-Ray, 1998), he examined how the British prison administration negotiates the provision of religious services to prisoners of many faiths (Christianity, Islam, Hinduism, Sikhism and others). The study examines tensions between formal equality of provision and the historically privileged position of the Church of England, and it is an influential study of religion in prisons.
 
 ## The General Theoretical Framework
 
@@ -49,15 +49,15 @@ With Danièle Joly and Farhad Khosrokhavar, Beckford co-authored *Muslims in Pri
 
 ## Academic Standing
 
-Beckford is considered one of the most prominent contemporary British theorists of the sociology of religion. Through his long career at the University of Warwick he has influenced research on new religious movements and on religion and state in comparative European contexts.
+Beckford is considered a prominent contemporary British theorist of the sociology of religion. Through his long career at the University of Warwick he has influenced research on new religious movements and on religion and state in comparative European contexts.
 
 ## Additional Works
 
-Beckford has also written on how European states manage religious diversity, and his book *Religion and Advanced Industrial Society* (1989) is an important contribution to the sociology of religion.
+Beckford has also written on how European states manage religious diversity, and his book *Religion and Advanced Industrial Society* (1989) is a notable contribution to the sociology of religion.
 
 ## Concluding Academic Standing
 
-Beckford is a central figure in establishing the comparative sociology of religion in Europe. He has also been active in international associations for the sociology of religion.
+Beckford is a significant figure in the development of the comparative sociology of religion in Europe. He has also been active in international associations for the sociology of religion.
 
 ## Conclusion
 

@@ -26,7 +26,7 @@ gaps: []
 
 # The Academic Study of Animals and Religion: Paul Waldau and Kimberley Patton
 
-A relatively recent academic branch that arose at the intersection of Animal Studies (Human-Animal Studies) with the comparative study of religion. It examines how different religious traditions conceive the place of non-human animals, morally, ritually and symbolically, without adopting a normative theological or animal-rights position on the validity of any conclusion. The field was established academically primarily by Paul Waldau and Kimberley Patton. Waldau specializes in ethics and animal studies; Patton is a professor of the history of religions at Harvard Divinity School. Together they edited the field's foundational reference work.
+A relatively recent academic branch that arose at the intersection of Animal Studies (Human-Animal Studies) with the comparative study of religion. It examines how different religious traditions conceive the place of non-human animals, morally, ritually and symbolically, without adopting a normative theological or animal-rights position on the validity of any conclusion. Paul Waldau and Kimberley Patton are among the scholars who helped establish the field academically. Waldau specializes in ethics and animal studies; Patton is a professor of the history of religions at Harvard Divinity School. Together they edited a foundational reference volume for the field.
 
 ## Animals in the Arab-Islamic Heritage
 
@@ -44,7 +44,7 @@ This branch adheres to academic description rather than advocacy. Its subject is
 
 The field has expanded in several directions. In *The Question of the Animal and Religion* (2015), Aaron Gross applies the question of the animal's status to a specific case: Jewish ritual slaughter (kashrut) confronted with the modern food industry. This connects the field to the study of religion and food. Barbara Ambros, in *Bones of Contention: Animals and Religion in Contemporary Japan* (2012), examines the rites and memorials Japanese Buddhist institutions provide for animals, including pets, adding an ethnographic-historical approach tied to a specific cultural context. Laura Hobgood-Oster, in *Holy Dogs and Asses: Animals in the Christian Tradition* (2008), applies a feminist-historical perspective to the Christian tradition, highlighting the presence of the animal in saints' lives, art and ritual. The field thus has four axes: comparative philosophical (Waldau and Patton), applied and food-related (Gross), Japanese ethnographic (Ambros), and Christian-feminist-historical (Hobgood-Oster).
 
-The field also overlaps with religion and ecology, associated with Mary Evelyn Tucker and John Grim's Forum on Religion and Ecology at Harvard, since both widen the circle of moral concern beyond the human, although the two developed separately.
+The field also overlaps with religion and ecology, associated with Mary Evelyn Tucker and John Grim's Forum on Religion and Ecology (founded at Harvard and now based at Yale), since both widen the circle of moral concern beyond the human, although the two developed separately.
 
 ## Criticism and Limits
 
@@ -58,4 +58,5 @@ Critics argue that the field is influenced by an activist tendency that makes "t
 - Waldau, Paul & Patton, Kimberley (eds.) (2006). *A Communion of Subjects: Animals in Religion, Science, and Ethics*. Columbia University Press.
 - Ambros, Barbara (2012). *Bones of Contention: Animals and Religion in Contemporary Japan*. Honolulu: University of Hawai'i Press.
 - Hobgood-Oster, Laura (2008). *Holy Dogs and Asses: Animals in the Christian Tradition*. Urbana: University of Illinois Press.
+- Linzey, Andrew (1994). *Animal Theology*. SCM Press.
 - Gross, Aaron S. (2015). *The Question of the Animal and Religion: Theoretical Stakes, Practical Implications*. Columbia University Press.

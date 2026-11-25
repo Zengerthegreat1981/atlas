@@ -21,7 +21,7 @@ gaps:
 
 # Religion and Film: Cinema and the Re-Creation of the World
 
-S. Brent Plate's book (Wallflower Press, 2008), an influential contribution to the contemporary academic field of "religion and film."
+S. Brent Plate's book (Wallflower Press, 2008), a contribution to the contemporary academic field of "religion and film."
 
 ## Definition
 

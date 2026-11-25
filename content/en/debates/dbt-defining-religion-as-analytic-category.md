@@ -29,7 +29,7 @@ Is there actually a single "phenomenon" called "religion" that can be defined by
 
 ## Jonathan Z. Smith's Thesis: "Religion" as the Scholar's Invention
 
-The most incisive and widely cited formulation of this question came from Jonathan Z. Smith in *Imagining Religion* (1982): "There is no data for religion." That is, any ethnographic or textual observation arrives unclassified in advance as "religious." The classification itself is an analytical act that the researcher performs when he decides that this practice or that text belongs to a category called "religion," rather than discovering an objective essential boundary existing in reality, awaiting discovery.
+A widely cited formulation of this question came from Jonathan Z. Smith in *Imagining Religion* (1982): "There is no data for religion." That is, any ethnographic or textual observation arrives unclassified in advance as "religious." The classification itself is an analytical act that the researcher performs when he decides that this practice or that text belongs to a category called "religion," rather than discovering an objective essential boundary existing in reality, awaiting discovery.
 
 ## Methodological Consequences
 
@@ -49,7 +49,7 @@ Critics of the category raise a practical question: if the field abandons the te
 
 ## The Middle Response: Saler and "Family Resemblance"
 
-The anthropologist Benson Saler (`thk-benson-saler`) offered the most famous methodological response rejecting both sides of the debate in *Conceptualizing Religion* (`wrk-conceptualizing-religion-saler`, 1993). He positions himself between the complete abandonment of the term "religion" (as proposed by Wilfred Cantwell Smith) and the view that it is an arbitrary construction of the scholar. He proposes using it as a flexible analytical tool in the Wittgensteinian sense of "family resemblance": a group of phenomena sharing an interlocking network of recurring features, without a strict all-inclusive essential boundary. Saler also draws on prototype theory from cognitive psychology. According to Saler, this suffices to permit comparative work to continue without falling into the trap of assuming a fixed natural essence.
+The anthropologist Benson Saler (`thk-benson-saler`) offered a well-known methodological response that steers between both sides of the debate in *Conceptualizing Religion* (`wrk-conceptualizing-religion-saler`, 1993). He positions himself between the complete abandonment of the term "religion" (as proposed by Wilfred Cantwell Smith) and the view that it is an arbitrary construction of the scholar. He proposes using it as a flexible analytical tool in the Wittgensteinian sense of "family resemblance": a group of phenomena sharing an interlocking network of recurring features, without a strict all-inclusive essential boundary. Saler also draws on prototype theory from cognitive psychology. According to Saler, this suffices to permit comparative work to continue without falling into the trap of assuming a fixed natural essence.
 
 ## Sources
 

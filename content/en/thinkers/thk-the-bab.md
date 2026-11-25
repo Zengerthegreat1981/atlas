@@ -35,7 +35,7 @@ The Báb's claim arose from within the Shaykhi school, a Shi'i interpretive curr
 
 ## Main Ideas and Method
 
-Academic historians, especially Moojan Momen in his documentary survey of 1981, Abbas Amanat in *Resurrection and Renewal* (1989), and Denis MacEoin in his specialized studies, adopted a method that compares multiple accounts (internal Babi, contemporary Shi'i and Western diplomatic) to reconstruct a chronological sequence of events. The sequence runs from the first declaration in 1844, through the escalation of the claim and the widening of his followers, to the armed uprisings in Mazandaran, Nayriz and Zanjan, and then his public execution in Tabriz in 1850. These researchers distinguish between the successive layers of the claim: from the position of the intermediary "Báb" to the Hidden Imam; then to the claim of being the "Qa'im," the awaited Mahdi himself; and then to an independent prophetic claim carrying a new, abrogating book.
+Academic historians, especially Moojan Momen in his documentary survey of 1981, Abbas Amanat in *Resurrection and Renewal* (1989), and Denis MacEoin in his specialized studies, adopted a method that compares multiple accounts (internal Babi, contemporary Shi'i and Western diplomatic) to reconstruct a chronological sequence of events. The sequence runs from the first declaration in 1844, through the escalation of the claim and the widening of his following, to the armed conflicts in Mazandaran, Nayriz and Zanjan, and his public execution in Tabriz in 1850. These researchers distinguish between the successive layers of the claim: from the position of the intermediary "Báb" to the Hidden Imam; then to the claim of being the "Qa'im," the awaited Mahdi himself; and then to an independent prophetic claim carrying a new, abrogating book.
 
 ## His Execution and Immediate Impact
 
@@ -43,7 +43,7 @@ The Báb was publicly executed by firing squad in the square of Tabriz in 1850, 
 
 ## Major Works and Figures
 
-Among his most important writings are the Persian *Bayan* and the Arabic *Bayan*, which carry his new law and his symbolic organization of the calendar and rulings. The Bayan establishes a calendar of nineteen months of nineteen days and arranges its material in units of nineteen (each called a *vahid*), and it looks forward to the coming of "He whom God shall make manifest." Among his most prominent direct followers is Qurrat al-ʿAyn (Tahirih), a poet and preacher who became known for publicly removing her veil at the Badasht conference, announcing the separation of the Babi law from Islamic law.
+Among his principal writings are the Persian *Bayan* and the Arabic *Bayan*, which carry his new law and his symbolic organization of the calendar and rulings. The Bayan establishes a calendar of nineteen months of nineteen days and arranges its material in units of nineteen (each called a *vahid*), and it looks forward to the coming of "He whom God shall make manifest." Among his most prominent direct followers is Qurrat al-ʿAyn (Tahirih), a poet and preacher who became known for appearing unveiled at the Badasht gathering, an act associated with the Babi break with Islamic law.
 
 ## Impact and Critique
 
@@ -55,7 +55,7 @@ The Báb's claim arose entirely from within the Twelver Shi'i Iranian context an
 
 ## The Badasht Conference and the Early Schism
 
-The Badasht conference of 1848 was a turning point in the history of the movement. It brought together the leading followers of the Báb, including Qurrat al-ʿAyn and Baha'u'llah. At it, the separation of the Babi law from Islamic law was publicly declared, an irrevocable declaration that accelerated the confrontation between the movement and the Qajar state and the Shi'i religious establishment. It paved the way for the later armed uprisings that ended with the execution of the Báb himself.
+The Badasht conference of 1848 was a turning point in the history of the movement. It brought together the leading followers of the Báb, including Qurrat al-ʿAyn and Baha'u'llah. At it, the separation of the Babi law from Islamic law was publicly declared, a declaration that accelerated the confrontation between the movement and the Qajar state and the Shi'i religious establishment. It preceded the armed confrontations of 1848–1850 and the execution of the Báb himself.
 
 ## Sources
 

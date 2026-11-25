@@ -43,7 +43,7 @@ Lipner's discussion starts from the word itself. The word "Hindu" is not a Sansk
 
 ## Flood, the Body, and Tantra
 
-Alongside *An Introduction to Hinduism*, Flood wrote *The Body of Tantra: The Secret Tradition of Hindu Religion* (I.B. Tauris, 2006), *The Blackwell Companion to Hinduism* (Blackwell, 2003), and *The Truth Within: A History of Inwardness* (2013). In this work he connects textual traditions with embodied practice, combining a phenomenological approach with historical critique, and stresses the transmission of tradition through ritual and meditation.
+Alongside *An Introduction to Hinduism*, Flood wrote *The Tantric Body: The Secret Tradition of Hindu Religion* (I.B. Tauris, 2006), *The Blackwell Companion to Hinduism* (Blackwell, 2003), and *The Truth Within: A History of Inwardness* (2013). In this work he connects textual traditions with embodied practice, combining a phenomenological approach with historical critique, and stresses the transmission of tradition through ritual and meditation.
 
 ## The Debate on Interpretation and Ownership
 
@@ -51,7 +51,7 @@ In this climate, Wendy Doniger published *The Hindus: An Alternative History* (P
 
 ## Limits of the Approaches
 
-Flood's approach is criticized on the ground that, despite its reservations, it keeps Hinduism as a unity that can be taught. Lipner's critics, who support the invention thesis, argue that he underestimates the effect of colonial classification, including census categories, in fixing a common identity. Others argue that his approach still reads Indian plurality in the vocabulary of the Western "world religion." In both cases European scholarship remains dominant in the terminology. Indian voices have demanded that Indian universities become independent centers in defining their own field.
+Flood's approach is criticized on the ground that, despite its reservations, it keeps Hinduism as a unity that can be taught. Critics who support the invention thesis argue that Lipner underestimates the effect of colonial classification, including census categories, in fixing a common identity. Others argue that both approaches still read Indian plurality in the vocabulary of the Western "world religion."
 
 ## Sources
 

@@ -23,7 +23,7 @@ gaps:
 
 # Godwired: Religion, Ritual and Virtual Reality
 
-A book by Rachel Wagner, a scholar of religious studies at Ithaca College in New York, published by Routledge in 2012. It is considered an early and influential work on the relationship between ritual and digital media within religion and digital culture studies, exploring structural parallels between traditional religious ritual and digital interaction, especially video games and virtual worlds.
+A book by Rachel Wagner, a scholar of religious studies at Ithaca College in New York, published by Routledge in 2012. It is an early and widely cited work on the relationship between ritual and digital media within religion and digital culture studies, exploring structural parallels between traditional religious ritual and digital interaction, especially video games and virtual worlds.
 
 ## Definition
 

@@ -25,7 +25,7 @@ gaps: []
 
 # Henry Corbin
 
-A French philosopher and orientalist (1903–1978). He was among the first to translate Martin Heidegger into French (notably *Qu'est-ce que la métaphysique?*, 1938). His academic path then turned entirely toward Iranian Islamic philosophy under the influence of his teacher Louis Massignon (thk-louis-massignon), who introduced him to the manuscripts of Shihab al-Din al-Suhrawardi (thk-sohrevardi) during his stay at the French Institute of Turkish Studies in Istanbul (1939–1945). In 1945 he moved to Tehran, where he founded the Department of Iranology of the Franco-Iranian Institute (1946). In 1954 he succeeded Massignon as director of studies for Islam and the religions of the Arab lands at the École pratique des hautes études in Paris.
+A French philosopher and orientalist (1903–1978). He was an early translator of Martin Heidegger into French (notably *Qu'est-ce que la métaphysique?*, 1938). His academic path then turned entirely toward Iranian Islamic philosophy under the influence of his teacher Louis Massignon (thk-louis-massignon), who introduced him to the manuscripts of Shihab al-Din al-Suhrawardi (thk-sohrevardi) during his stay at the French Institute of Turkish Studies in Istanbul (1939–1945). In 1945 he moved to Tehran, where he founded the Department of Iranology of the Franco-Iranian Institute (1946). In 1954 he succeeded Massignon as director of studies for Islam and the religions of the Arab lands at the École pratique des hautes études in Paris.
 
 ## The Academic Project: "Iranian Islam"
 
@@ -37,7 +37,7 @@ Corbin developed the concept of the *mundus imaginalis* (the imaginal world) to 
 
 ## From Heidegger to Suhrawardi
 
-Corbin began his intellectual career as a translator of Martin Heidegger into French in the 1930s, which gave him precise phenomenological tools that he would later apply to reading Islamic texts. However, his encounter with the manuscripts of Suhrawardi, through the guidance of Louis Massignon, transformed his path entirely. He published the first critical edition of Suhrawardi's philosophical texts (*Opera Metaphysica et Mystica*, vol. 1, 1945), thereby founding the lifelong project of reviving Illuminationism as a contemporary academic field, after centuries of relative neglect in European orientalism. European orientalism had traditionally focused on the Peripatetic philosophy (Ibn Sina and Ibn Rushd).
+Corbin began his intellectual career as a translator of Martin Heidegger into French in the 1930s, which gave him precise phenomenological tools that he would later apply to reading Islamic texts. However, his encounter with the manuscripts of Suhrawardi, through the guidance of Louis Massignon, transformed his path entirely. He published the first critical edition of Suhrawardi's philosophical texts (*Opera Metaphysica et Mystica*, vol. 1, 1945), thereby beginning his lifelong project of reviving Illuminationism as a contemporary academic field, after centuries of relative neglect in European orientalism. European orientalism had traditionally focused on the Peripatetic philosophy (Ibn Sina and Ibn Rushd).
 
 ## "The Imaginal World" and Ibn Arabi
 
@@ -45,11 +45,11 @@ Corbin applied his central concept, the "imaginal world" (*mundus imaginalis*), 
 
 ## Standing and Reception
 
-Corbin founded the series "Bibliothèque iranienne" (with the Franco-Iranian Institute) for the critical editing of Iranian-Islamic philosophical texts. He had a profound influence on the field of French and international Iranian and Islamic studies. His method, however, remains a subject of continuing debate between those who regard it as a fruitful hermeneutic recovery of a neglected tradition and those who see in it a modern Western projection (Jungian and Heideggerian) onto classical Islamic texts with their own particular historical and theological context.
+Corbin founded the series "Bibliothèque iranienne" (with the Franco-Iranian Institute) for the critical editing of Iranian-Islamic philosophical texts. He had a significant influence on the field of French and international Iranian and Islamic studies. His method, however, remains a subject of continuing debate between those who regard it as a fruitful hermeneutic recovery of a neglected tradition and those who see in it a modern Western projection (Jungian and Heideggerian) onto classical Islamic texts with their own particular historical and theological context.
 
 ## Deep Connection to the Arab-Islamic Heritage
 
-Corbin stands out among twentieth-century orientalists for the depth of his actual engagement with the original Arabic and Persian Islamic texts, rather than with intermediary translations alone. He himself edited previously unpublished Arabic and Persian philosophical texts (such as works by Suhrawardi and Mulla Sadra Shirazi). In doing so he established a continuing French research tradition in Iranian Islamic philosophy, which has continued through his students and successors at the École pratique des hautes études. Together with Louis Massignon, Corbin is considered one of the most important French academic bridges between the Islamic philosophical and Sufi heritage and modern European thought in the twentieth century.
+Corbin is notable among twentieth-century orientalists for the depth of his actual engagement with the original Arabic and Persian Islamic texts, rather than with intermediary translations alone. He himself edited previously unpublished Arabic and Persian philosophical texts (such as works by Suhrawardi and Mulla Sadra Shirazi). In doing so he established a continuing French research tradition in Iranian Islamic philosophy, which has continued through his students and successors at the École pratique des hautes études. Together with Louis Massignon, Corbin is considered an important French academic bridge between the Islamic philosophical and Sufi heritage and modern European thought in the twentieth century.
 
 ## Institutional Legacy
 
@@ -63,5 +63,5 @@ From 1949 Corbin was a regular participant in the Eranos conferences at Ascona, 
 
 - Corbin, Henry (1971–1972). *En Islam iranien: aspects spirituels et philosophiques* (4 vols.). Paris: Gallimard.
 - Corbin, Henry (1969; French original 1958). *Creative Imagination in the Sufism of Ibn 'Arabi* (trans. Ralph Manheim). Princeton University Press.
-- Corbin, Henry (1960; French original 1954). *Avicenna and the Visionary Recital* (trans. Willard R. Trask). Princeton University Press.
+- Corbin, Henry (French original 1954). *Avicenna and the Visionary Recital* (trans. Willard R. Trask). New York: Pantheon Books (Bollingen Series), 1960.
 - Wasserstrom, Steven M. (1999). *Religion after Religion: Gershom Scholem, Mircea Eliade, and Henry Corbin at Eranos*. Princeton University Press.

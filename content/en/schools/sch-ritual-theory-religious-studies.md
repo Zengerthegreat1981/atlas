@@ -43,7 +43,7 @@ Smith put forward a central hypothesis: the oldest forms of sacrifice among the 
 
 ## Hubert and Mauss: Toward a General Theory of Sacrifice
 
-Henri Hubert and Marcel Mauss, working in the circle around Durkheim's journal *L'Année sociologique*, developed this line sociologically in *Essai sur la nature et la fonction du sacrifice* (1899, in *L'Année Sociologique*), later translated as *Sacrifice: Its Nature and Function* (translated by W. D. Halls, 1964). They drew on Vedic and Hebrew texts. They proposed a procedural model of sacrifice as a three-stage process: entry, meaning the preparation of the sacrificer and the victim; the act of sacrifice, which connects the sacred and profane worlds through a mediator, the victim that is destroyed or consecrated; and exit from the state of sanctity. This structural model later influenced Arnold van Gennep's conception of the three-phase "rites of passage" (separation, margin and incorporation), and subsequently Victor Turner's concept of "liminality."
+Henri Hubert and Marcel Mauss, working in the circle around Durkheim's journal *L'Année sociologique*, developed this line sociologically in *Essai sur la nature et la fonction du sacrifice* (1899, in *L'Année Sociologique*), later translated as *Sacrifice: Its Nature and Function* (translated by W. D. Halls, 1964). They drew on Vedic and Hebrew texts. They proposed a procedural model of sacrifice as a three-stage process: entry, meaning the preparation of the sacrificer and the victim; the act of sacrifice, which connects the sacred and profane worlds through a mediator, the victim that is destroyed or consecrated; and exit from the state of sanctity. This three-stage structure is often compared with Arnold van Gennep's three-phase "rites of passage" (separation, margin and incorporation; 1909), and with Victor Turner's later concept of "liminality."
 
 ## Methodological Impact and Contemporary Extensions
 
@@ -55,7 +55,7 @@ Smith's hypothesis about Semitic totemism did not survive ethnographic revision.
 
 ## Sources
 
-- Ibn al-Kalbi, Hisham ibn Muhammad. *Kitab al-Asnam* (c. 819 CE); translation: Faris, Nabih Amin. *The Book of Idols*. Princeton University Press, 1952.
+- Ibn al-Kalbi, Hisham ibn Muhammad. *Kitab al-Asnam* (author d. c. 819 CE); translation: Faris, Nabih Amin. *The Book of Idols*. Princeton University Press, 1952.
 - Robertson Smith, W. *Kinship and Marriage in Early Arabia*. Cambridge University Press, 1885.
 - Robertson Smith, W. *Lectures on the Religion of the Semites: The Fundamental Institutions*. London: Adam and Charles Black, 1889.
 - Hubert, H., and M. Mauss. "Essai sur la nature et la fonction du sacrifice." *L'Année Sociologique* 2 (1899): 29–138. (Trans. W. D. Halls, *Sacrifice: Its Nature and Function*, Cohen & West, 1964.)

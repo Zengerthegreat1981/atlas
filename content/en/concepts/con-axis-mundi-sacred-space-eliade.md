@@ -39,7 +39,7 @@ The Kaaba in Mecca frequently appears in comparative literature as an example of
 
 ## Jonathan Z. Smith's Critique
 
-The most important later methodological objection to Eliade's concept is Jonathan Z. Smith's critique. In *To Take Place* (1987), Smith argues that holiness is not a quality inherent in the place itself that waits to "manifest" in it (as the notion of hierophany suggests), but a relationship that the ritual act creates between people and place. A place becomes sacred because the community treats it ritually as sacred, not because a transcendent power chose it in advance. This reverses the order of causality in Eliade: the ritual makes the center, not the center calls forth the ritual.
+A prominent later methodological objection to Eliade's concept is Jonathan Z. Smith's critique. In *To Take Place* (1987), Smith argues that holiness is not a quality inherent in the place itself that waits to "manifest" in it (as the notion of hierophany suggests), but a relationship that the ritual act creates between people and place. A place becomes sacred because the community treats it ritually as sacred, not because a transcendent power chose it in advance. This reverses the order of causality in Eliade: the ritual makes the center, not the center calls forth the ritual.
 
 ## Sources
 

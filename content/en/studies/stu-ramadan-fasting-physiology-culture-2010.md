@@ -43,4 +43,4 @@ The generalization of results remains limited by variations in climate and day l
 ## Sources
 
 - Trepanowski, John F., and Richard J. Bloomer (2010). "The Impact of Religious Fasting on Human Health." *Nutrition Journal* 9:57.
-- Möller, André (2005). *Ramadan in Java: The Joy and Jihad of Ritual Fasting*. Lund: Almqvist & Wiksell International.
+- Möller, André (2005). *Ramadan in Java: The Joy and Jihad of Ritual Fasting*. Lund: Lund University.

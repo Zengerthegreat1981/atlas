@@ -25,7 +25,7 @@ gaps:
 
 # A Communion of Subjects: Animals in Religion, Science, and Ethics
 
-A reference volume edited by Paul Waldau and Kimberley Patton, published in 2006 by Columbia University Press. It is regarded as the foundational work that gave the field of "animal and religious studies" its independent academic identity.
+A reference volume edited by Paul Waldau and Kimberley Patton, published in 2006 by Columbia University Press. It is widely regarded as a foundational reference work for the field of "animals and religion" studies.
 
 ## Content and Method
 
@@ -37,11 +37,11 @@ This volume is widely cited as a reference starting point for later work in the 
 
 ## Detailed Coverage of Multiple Religions
 
-The volume devotes separate sections to each major religious tradition. A Jewish section examines the concept of *tza'ar ba'alei chayim* (the prohibition of causing animals unnecessary suffering) in Jewish law. A Christian section traces the historical debate between Thomas Aquinas, who held that humans owe no direct duties to animals, which exist for human use, and later, more sympathetic currents such as the Franciscan tradition. An Islamic section discusses the principle of kindness toward animals (*al-rifq bi-l-hayawan*) in Islamic jurisprudence, drawing on prophetic traditions and classical jurisprudence that discourage cruelty to animals. A Hindu and Buddhist section examines the principle of non-violence (*ahimsa*) and its practical applications to the relationship with animals. Further sections cover African and American Indigenous religions, which often hold a less hierarchical view of the relationship between humans and animals than the major monotheistic traditions.
+The volume includes chapters on individual religious traditions. Its treatment of Judaism touches on the concept of *tza'ar ba'alei chayim* (the prohibition of causing animals unnecessary suffering) in Jewish law. In Christian contexts, discussion of animals commonly contrasts views such as that of Thomas Aquinas, who held that humans owe no direct duties of charity to irrational creatures, with more sympathetic currents such as the Franciscan tradition. Islamic discussions of animals draw on prophetic traditions and juristic writings that discourage cruelty. Hindu and Buddhist treatments engage the principle of non-violence (*ahimsa*) and its application to animals. Indigenous traditions are often described as less hierarchical in their view of the relationship between humans and animals than some other traditions.
 
 ## The Significance of the Title: From Object to Subject
 
-The book's title points to a philosophical shift that the two editors seek to document across the religious traditions studied: the move from treating the animal as an "object," subject to human use and absolute disposal, to treating it as a "subject" with inner experience and a capacity for suffering that deserves direct moral consideration. The editors argue that this shift is not a purely secular modern innovation, as is sometimes assumed, but has early roots in several religious texts and traditions. These roots, however, have remained marginalized or historically suppressed in favor of more exploitative readings of the animal's place.
+The book's title points to a philosophical shift that the two editors seek to document across the religious traditions studied: the move from treating the animal as an "object," subject to human use and absolute disposal, to treating it as a "subject" with inner experience and a capacity for suffering that deserves direct moral consideration. The editors suggest that this shift is not a purely secular modern innovation, as is sometimes assumed, but has early roots in several religious texts and traditions. These roots, however, have remained marginalized or historically suppressed in favor of more exploitative readings of the animal's place.
 
 ## The Background of the Editors
 
@@ -49,7 +49,7 @@ Paul Waldau is a scholar of animal law and ethics and of religion, with both a l
 
 ## The Foundational Position of the Field
 
-Before this volume appeared, the study of the relationship between religion and animals was distributed among scattered articles within other fields (eco-theology, critical animal studies, comparative history of religions), without a unifying framework connecting them. This volume, with its encyclopedic size and the diversity of its specialist contributors, provided an early and influential attempt to gather these scattered threads into a single coherent academic field, known today as "Animals and Religion Studies."
+Before this volume appeared, the study of the relationship between religion and animals was distributed among scattered articles within other fields (eco-theology, critical animal studies, comparative history of religions), without a unifying framework connecting them. This volume, with its encyclopedic size and the diversity of its specialist contributors, provided an early and ambitious attempt to gather these scattered threads into a single coherent academic field, known today as "Animals and Religion Studies."
 
 ## Conclusion
 

@@ -25,7 +25,7 @@ gaps:
 
 # Comparative Study of Digital Religion and Virtual Worship
 
-A sub-field of comparative religion and media studies that examines how beliefs, rituals, communities and structures of religious authority are reshaped in digital environments, and how the line between the "in-person" and the "virtual" blurs in everyday religious practice. The field emerged in the mid-1990s under the name "cyber-religion" with the first wave of groups that moved worship onto the internet, and the term "Digital Religion" crystallized in the first decade of the 2000s with the spread of Web 2.0 and social networks.
+A sub-field of comparative religion and media studies that examines how beliefs, rituals, communities and structures of religious authority are reshaped in digital environments, and how the line between the "in-person" and the "virtual" blurs in everyday religious practice. The field emerged in the mid-1990s under the name "cyber-religion" with the first wave of groups that moved worship onto the internet, and the term "Digital Religion" crystallized in the 2000s and 2010s with the spread of Web 2.0 and social networks.
 
 ## Beginnings: From Sacred Space to Networked Religion
 
@@ -33,7 +33,7 @@ Stephen O'Leary wrote in 1996, in the *Journal of the American Academy of Religi
 
 ## Theoretical Framework: The Religious-Social Shaping of Technology
 
-In *When Religion Meets New Media* (Routledge, 2010), Campbell set out the model of the "Religious-Social Shaping of Technology", and examined how Jewish, Christian and Muslim groups negotiated their use of the internet according to their values and structures of authority. The move into the digital is analyzed across the dimensions of identity, community, authority, ritual and sacred space. In an article in *New Media & Society* (2017), she described the development of the field in three waves: descriptive, then classificatory, then theoretical. Later work stresses that many believers combine in-person and digital practices in a single religious life rather than treating them as separate spheres.
+In *When Religion Meets New Media* (Routledge, 2010), Campbell set out the model of the "Religious-Social Shaping of Technology", and examined how Jewish, Christian and Muslim groups negotiated their use of the internet according to their values and structures of authority. The move into the digital is analyzed across the dimensions of identity, community, authority, ritual and sacred space. Her survey in *New Media & Society* (2017) maps the main theoretical approaches that the field has developed. Later work stresses that many believers combine in-person and digital practices in a single religious life rather than treating them as separate spheres.
 
 ## Islam on the Network: Fatwa and Authority
 

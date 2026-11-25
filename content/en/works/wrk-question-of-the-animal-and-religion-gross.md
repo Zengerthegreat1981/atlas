@@ -42,11 +42,11 @@ Gross builds his theoretical argument through an extended applied case study con
 
 ## Principal Works and Figures
 
-Aaron S. Gross is an American scholar of religious studies and a founder of the non-profit organization Farm Forward, which works on animal welfare. His career thus combines academic research with direct applied activism. His work extends a research tradition begun by Paul Waldau and Kimberley Patton in *A Communion of Subjects: Animals in Religion, Science, and Ethics*, which provided a multi-religious foundation for the field; Gross builds a deeper analysis around a single case.
+Aaron S. Gross is an American scholar of religious studies and a co-founder of the non-profit organization Farm Forward, which works on animal welfare. His career thus combines academic research with direct applied activism. His work extends a research tradition begun by Paul Waldau and Kimberley Patton in *A Communion of Subjects: Animals in Religion, Science, and Ethics*, which provided a multi-religious foundation for the field; Gross builds a deeper analysis around a single case.
 
 ## Impact and Criticism
 
-The book is a significant contribution to establishing "animals and religion studies" as a mature subfield within religious studies, combining theoretical rigor with clear ethical commitment. Some researchers have noted that the book relies on a single specific Jewish case study (Agriprocessors) to build a general theoretical thesis, and question how far it can be generalized to other religious traditions. Nevertheless, the book's influence in stimulating broader discussions on the place of the animal in comparative theologies remains acknowledged.
+The book is a significant contribution to the growing subfield of "animals and religion studies," combining theoretical argument with clear ethical commitment. Some researchers have noted that the book relies on a single specific Jewish case study (Agriprocessors) to build a general theoretical thesis, and question how far it can be generalized to other religious traditions. Nevertheless, the book's influence in stimulating broader discussions on the place of the animal in comparative theologies remains acknowledged.
 
 ## Relation to Arab-Islamic Heritage
 

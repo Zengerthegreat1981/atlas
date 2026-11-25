@@ -42,7 +42,7 @@ This framework opens a wide field for studying sacred sound in the Arab-Islamic 
 
 ## Impact and Criticism
 
-The field has broadened comparative religious studies to include the sense of hearing alongside text, image and visual ritual. Yet it remains practically confined to a limited number of English-speaking researchers. It has not yet adequately absorbed the contributions of researchers from within the traditions studied (such as Muslim scholars of tajwid or local musicologists in India), a methodological gap that the field itself implicitly acknowledges.
+The field has broadened comparative religious studies to include the sense of hearing alongside text, image and visual ritual. Yet it remains practically confined to a limited number of English-speaking researchers. It has not yet adequately absorbed the contributions of researchers from within the traditions studied (such as Muslim scholars of tajwid or local musicologists in India), a methodological gap.
 
 ## Notable Comparative Applications
 

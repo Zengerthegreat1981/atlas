@@ -33,7 +33,7 @@ gaps:
 
 # Imagining Religion: From Babylon to Jonestown
 
-A collection of essays published by Jonathan Z. Smith in 1982, which became among the most influential works in critiquing the methodological foundations of the field of comparative religion from within. Smith opens the book with his most famous statement: that there is "no data for religion" and that religion is "solely the creation of the scholar's study." Smith does not deny the existence of the practices and beliefs that we classify as "religious." He insists, rather, that gathering them together under a single category called "religion" is a classificatory act performed by the researcher himself, not an objective ready-made truth awaiting field discovery.
+A collection of essays published by Jonathan Z. Smith in 1982, which became an influential work in critiquing the methodological foundations of the field of comparative religion from within. Smith opens the book with his most famous statement: that there is "no data for religion" and that religion is "solely the creation of the scholar's study." Smith does not deny the existence of the practices and beliefs that we classify as "religious." He insists, rather, that gathering them together under a single category called "religion" is a classificatory act performed by the researcher himself, not an objective ready-made truth awaiting field discovery.
 
 ## From Babylon to Jonestown: Widening the Scope as an Implicit Trial
 
@@ -41,19 +41,19 @@ The title of the book is itself a methodological program. The scope of the analy
 
 ## The Impact: Shifting from "What Is Religion?" to "Who Classifies and Why?"
 
-The deepest effect of the book was to transform an entire field from a sometimes naive search for the "essence" of religion into a critical questioning of the academic classificatory process itself. It asks an epistemological question (who classifies? by what criteria? in whose interest?) rather than an ontological one (what is the nature of religion?). This shift later became the focus of an ongoing methodological debate in the field of religious theory and its methods.
+A major effect of the book was to push the field from a sometimes naive search for the "essence" of religion into a critical questioning of the academic classificatory process itself. It asks an epistemological question (who classifies? by what criteria? in whose interest?) rather than an ontological one (what is the nature of religion?). This shift later became the focus of an ongoing methodological debate in the field of religious theory and its methods.
 
 ## Intellectual and Historical Context
 
-Smith wrote this work in the early 1980s, after years as a professor of the history of religions at the University of Chicago succeeding the phenomenological tradition of Mircea Eliade. He developed a critical stance different from his early teachers, influenced by the philosophy of science, linguistic analysis, and anthropological classification methods (such as the work of Émile Durkheim and Mary Douglas on social classification). The book appeared in a broader context of growing methodological skepticism in Western universities toward the major inherited analytical categories (such as "civilization," "culture," and "religion") that seemed to conceal implicit Eurocentric or Christocentric assumptions.
+Smith wrote this work in the early 1980s, after years as a professor of the history of religions at the University of Chicago, where Mircea Eliade had been a leading figure. He developed a critical stance different from that of Eliade, drawing in part on anthropological work on classification (such as that of Émile Durkheim and Marcel Mauss, and of Mary Douglas). The book appeared in a broader context of growing methodological skepticism in Western universities toward the major inherited analytical categories (such as "civilization," "culture," and "religion") that seemed to conceal implicit Eurocentric or Christocentric assumptions.
 
 ## The Jonestown Essay in Detail
 
-Smith devotes a lengthy essay to analyzing the Jonestown massacre (Guyana, November 1978), in which more than nine hundred members of the "People's Temple" movement, led by Jim Jones, died by suicide or were killed. He uses the incident as a test of his theoretical tools: can the traditional concepts of comparative religion explain a recent extreme event of this kind as well as they explain ancient religious movements or "primitive" ones? The essay is usually read as insisting that comparison needs explicit methodological justification, and that the scholar's categories should not be mistaken for the self-understanding of the people studied.
+Smith devotes an essay ("The Devil in Mr. Jones") to the Jonestown massacre (Guyana, November 1978), in which more than nine hundred members of the "People's Temple" movement, led by Jim Jones, died by suicide or were killed. He uses the incident as a test of his theoretical tools: can the traditional concepts of comparative religion explain a recent extreme event of this kind as well as they explain ancient religious movements or "primitive" ones? The essay is usually read as insisting that comparison needs explicit methodological justification, and that the scholar's categories should not be mistaken for the self-understanding of the people studied.
 
 ## Wider Impact
 
-The book has become one of the most cited works in comparative religious theory. Its opening statement about "no data for religion" influenced later generations of researchers who reformulated the question of defining religion as a question about power and classification rather than about essence. Talal Asad's *Genealogies of Religion* (1993), for example, pursues a related critique of "religion" as a universal category abstracted from its historical power context.
+The book is widely cited in comparative religious theory. Its opening statement about "no data for religion" influenced later generations of researchers who reformulated the question of defining religion as a question about power and classification rather than about essence. Talal Asad's *Genealogies of Religion* (1993), for example, pursues a related critique of "religion" as a universal category abstracted from its historical power context.
 
 ## The Style of Smith's Writing
 

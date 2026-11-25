@@ -49,5 +49,6 @@ Online fatwas are often cited in this literature (for example by Gary Bunt) as a
 ## Sources
 
 - Campbell, Heidi A. *When Religion Meets New Media*. Routledge, 2010.
+- Campbell, Heidi A. (2012). "Understanding the Relationship between Religion Online and Offline in a Networked Society." *Journal of the American Academy of Religion*, 80(1), 64-93.
 - Campbell, Heidi A. (ed.). *Digital Religion: Understanding Religious Practice in New Media Worlds*. Routledge, 2013.
 - Bunt, G. R. (2018). *Hashtag Islam: How Cyber-Islamic Environments Are Transforming Religious Authority*. University of North Carolina Press.

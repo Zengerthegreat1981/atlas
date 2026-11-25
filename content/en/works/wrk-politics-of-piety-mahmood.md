@@ -37,15 +37,15 @@ Mahmood argues that the dominant liberal feminist theoretical frameworks, which 
 
 ## Principal Works and Figures
 
-Saba Mahmood (1961–2018) was a Pakistani-American anthropologist and professor at the University of California, Berkeley. She was a leading figure in the critique of secular liberal feminism within the anthropology of religion. An important article by her in *Cultural Anthropology* in 2001 preceded the book and carried the seeds of the same argument. Her work stands in critical dialogue with Talal Asad's anthropology of the secular and of religious discipline, and with Michel Foucault.
+Saba Mahmood (1961–2018) was a Pakistani-American anthropologist and professor at the University of California, Berkeley. She was a prominent voice in the critique of secular liberal feminism within the anthropology of religion. An important article by her in *Cultural Anthropology* in 2001 preceded the book and carried the seeds of the same argument. Her work stands in critical dialogue with Talal Asad's anthropology of the secular and of religious discipline, and with Michel Foucault.
 
 ## Impact and Criticism
 
-The book has been among the most influential and debated works in the anthropology of religion and feminist theory since its publication. It challenged entrenched assumptions in Western liberal feminist thought about the inevitable link between agency and liberation from religion. Liberal feminists criticized it for the possibility that its analysis might provide a theoretical cover for justifying actual social restrictions imposed on women. Others defended it as a serious attempt to take religious agents seriously, apart from prejudging them from outside their own ethical framework.
+The book has been an influential and much-debated work in the anthropology of religion and feminist theory since its publication. It challenged entrenched assumptions in Western liberal feminist thought about the inevitable link between agency and liberation from religion. Liberal feminists criticized it for the possibility that its analysis might provide a theoretical cover for justifying actual social restrictions imposed on women. Others defended it as a serious attempt to take religious agents seriously, apart from prejudging them from outside their own ethical framework.
 
 ## Relation to Arab-Islamic Heritage
 
-Mahmood draws on the classical Islamic ethical heritage in her analysis, referring to classical writers on the cultivation of the self (such as al-Ghazali), to show that the practices of the women she studied can be understood in relation to a long Islamic ethical tradition that links repeated bodily discipline with the building of inner virtue. Mahmood sees this link as absent from modern Western theoretical frameworks, which usually separate the body and ethics sharply.
+Mahmood draws on the classical Islamic ethical heritage in her analysis, referring to classical Islamic writing on the cultivation of the self, to show that the practices of the women she studied can be understood in relation to a long Islamic ethical tradition that links repeated bodily discipline with the building of inner virtue. Mahmood sees this link as absent from modern Western theoretical frameworks, which usually separate the body and ethics sharply.
 
 ## Additional Notes on Ritual Performance
 

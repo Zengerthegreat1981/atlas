@@ -44,7 +44,7 @@ Comparative studies document non-binary gender patterns in several traditions: t
 
 ## Institutions and Journals
 
-- *Journal of Feminist Studies in Religion*, the oldest interdisciplinary feminist journal in religious studies, whose first issues appeared in 1985.
+- *Journal of Feminist Studies in Religion*, a leading feminist journal in religious studies, whose first issues appeared in 1985.
 - The "Queer Studies in Religion" unit within the American Academy of Religion (AAR), which provides an annual forum for this field.
 
 ## Limits and Critique

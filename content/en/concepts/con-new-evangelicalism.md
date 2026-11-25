@@ -34,9 +34,9 @@ Hankins, in his biography of Schaeffer, shows how Schaeffer's influence helped m
 
 New Evangelicalism faced sharp opposition from classical fundamentalist leaders, most notably Carl McIntire and Bob Jones, who regarded any dialogue with academic or ecumenical circles as a compromise of doctrinal purity and a slide toward theological liberalism. The dispute sharpened over Billy Graham's cooperation with a range of churches in his evangelistic campaigns (including mainline and Catholic churches), notably around his 1957 New York crusade, which the separatist fundamentalists rejected outright, regarding it as a betrayal of the fundamentalist principle of "separation from doctrinal error."
 
-## The Founding Role of Harold Ockenga
+## The Role of Harold Ockenga
 
-The coinage of the term "New Evangelicalism" is attributed to Harold John Ockenga, pastor of Park Street Church in Boston, first president of Fuller Theological Seminary and an early president of the National Association of Evangelicals (NAE, founded 1942); he used it in a 1947 address at Fuller. In the late 1940s he explicitly called for moving beyond the isolation of classical fundamentalism toward a positive "engagement" in American intellectual and social life, without surrendering the essence of evangelical doctrine. According to historians of the movement, this made him one of the movement's chief founders and spokesmen.
+The coinage of the term "New Evangelicalism" is attributed to Harold John Ockenga, pastor of Park Street Church in Boston, first president of Fuller Theological Seminary and an early president of the National Association of Evangelicals (NAE, founded 1942); he used it in a 1947 address at Fuller. In the late 1940s he explicitly called for moving beyond the isolation of classical fundamentalism toward a positive "engagement" in American intellectual and social life, without surrendering the essence of evangelical doctrine. According to historians of the movement, this made him one of the movement's leading figures and spokesmen.
 
 ## Sources
 

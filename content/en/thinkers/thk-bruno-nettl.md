@@ -23,15 +23,15 @@ gaps:
 
 # Bruno Nettl
 
-An American ethnomusicologist (1930-2020) born in Prague, one of the leading figures of twentieth-century ethnomusicology. Nettl did not focus exclusively on religion, but his comparative and historical framework for the study of music as a cultural practice, including music associated with ritual and communal identity, shaped the field in which the study of religious music developed.
+An American ethnomusicologist (1930-2020) born in Prague, a leading figure of twentieth-century ethnomusicology. Nettl did not focus exclusively on religion, but his comparative and historical framework for the study of music as a cultural practice, including music associated with ritual and communal identity, shaped the field in which the study of religious music developed.
 
 ## Definition
 
-Nettl is known as a principal methodological voice of modern ethnomusicology. The field examines music not only as a sound system open to formal analysis (as early European comparative musicology largely did), but as a cultural practice linked to the social, religious and ritual life of the community that produces it.
+Nettl is known as an influential methodological voice in modern ethnomusicology. The field examines music not only as a sound system open to formal analysis (as early European comparative musicology largely did), but as a cultural practice linked to the social, religious and ritual life of the community that produces it.
 
 ## Career
 
-Nettl was born in Prague in 1930, and his family emigrated to the United States in 1939 because of the Nazi occupation. He studied at Indiana University, where he took a doctorate (1953) in musicology and anthropology, and taught at Wayne State University before joining the University of Illinois at Urbana-Champaign in 1964, where he spent the rest of his career. He did fieldwork among Native American communities of the Plains (including the Blackfoot), and in Iran, where he studied Persian classical music, and also worked in India. He served as president of the Society for Ethnomusicology.
+Nettl was born in Prague in 1930, and his family emigrated to the United States in 1939 because of the Nazi occupation. He studied at Indiana University, where he took a doctorate (1953) in musicology and anthropology, and taught at Wayne State University before joining the University of Illinois at Urbana-Champaign in 1964, where he spent the rest of his career. He did fieldwork among Native American communities of the Plains (including the Blackfoot), and in Iran, where he studied Persian classical music. He served as president of the Society for Ethnomusicology.
 
 ## Principal Works
 
@@ -39,7 +39,7 @@ Nettl was born in Prague in 1930, and his family emigrated to the United States 
 
 ## Influence on the Study of Religion and Music
 
-Nettl's framework, which treats music as a cultural system and attends to the relation between music and its social contexts, offered concepts that later scholars of music and religion could use. His work belongs to a broader tradition in which ethnomusicologists such as Anthony Seeger (*Why Suya Sing*, 1987) and Steven Feld studied music and cosmology, and scholars such as Guy Beck (*Sonic Theology*, 1993) approached religious sound from the side of religious studies. Seeger and Feld were not Nettl's students in the strict sense, and their approaches developed along their own lines.
+Nettl's framework, which treats music as a cultural system and attends to the relation between music and its social contexts, offered concepts that later scholars of music and religion could use. His work belongs to a broader tradition in which ethnomusicologists such as Anthony Seeger (*Why Suya Sing*, 1987) and Steven Feld studied music and cosmology, and scholars such as Guy Beck (*Sonic Theology*, 1993) approached religious sound from the side of religious studies.
 
 ## Attention to Musical Change
 

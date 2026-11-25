@@ -40,7 +40,7 @@ The chronological ordering and evolutionary linkage proposed by Wellhausen (from
 
 ## Reception of the Hypothesis in Contemporary Judaism
 
-The hypothesis was met with almost unanimous rejection by traditional Orthodox Judaism, which adheres to the doctrine of "Torah from Heaven" (*Torah min ha-Shamayim*), according to which the five books of Moses are a single, continuous divine revelation dictated to Moses word for word. Reform and modern Conservative Jewish movements, by contrast, have adopted it to varying degrees within a broader historical-critical approach to sacred texts. This made the hypothesis a dividing line between different contemporary Jewish movements in their stance towards the critical study of the Torah.
+The hypothesis was largely rejected by traditional Orthodox Judaism, which adheres to the doctrine of "Torah from Heaven" (*Torah min ha-Shamayim*), according to which the five books of Moses are a single, continuous divine revelation dictated to Moses word for word. Reform and modern Conservative Jewish movements, by contrast, have adopted it to varying degrees within a broader historical-critical approach to sacred texts. This made the hypothesis a dividing line between different contemporary Jewish movements in their stance towards the critical study of the Torah.
 
 ## Its Impact on Comparative Islamic Studies
 

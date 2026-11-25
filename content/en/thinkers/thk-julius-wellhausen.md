@@ -25,15 +25,15 @@ gaps: []
 
 # Julius Wellhausen
 
-A German orientalist and theologian (1844–1918), he is regarded as the clearest architect of the "documentary hypothesis" on the formation of the five books of the Torah, through his pivotal work *Prolegomena zur Geschichte Israels* (*Prolegomena to the History of Israel*, 1878/1883).
+A German orientalist and theologian (1844–1918), he is regarded as the best-known formulator of the "documentary hypothesis" on the formation of the five books of the Torah, through his influential work *Prolegomena zur Geschichte Israels* (*Prolegomena to the History of Israel*, 1878/1883).
 
 ## Definition
 
-Wellhausen is the most important representative of the current of "Higher Criticism" in nineteenth-century German biblical studies. This current applies philological, historical and comparative tools to analyse the texts of the Old Testament as historical documents composed through multiple temporal layers, not as a scripture revealed in its final form all at once.
+Wellhausen is a leading representative of the current of "Higher Criticism" in nineteenth-century German biblical studies. This current applies philological, historical and comparative tools to analyse the texts of the Old Testament as historical documents composed through multiple temporal layers, not as a scripture revealed in its final form all at once.
 
 ## Historical Context
 
-Wellhausen did not invent the idea of multiple sources behind the Torah. He was preceded by researchers such as the French physician Jean Astruc in the eighteenth century, and the German Wilhelm de Wette, who isolated the book of Deuteronomy (D) and dated it separately some seven decades earlier (1805). Wellhausen's contribution lay in gathering this scattered research and formulating it into an integrated and persuasive system, which became the standard reference for the entire field within a few decades of its publication.
+Wellhausen did not invent the idea of multiple sources behind the Torah. He was preceded by researchers such as the French physician Jean Astruc in the eighteenth century, and the German Wilhelm de Wette, who isolated the book of Deuteronomy (D) and dated it separately some seven decades earlier (1805). Wellhausen's contribution lay in gathering this scattered research and formulating it into an integrated and persuasive system, which became a dominant reference point for the field within a few decades of its publication.
 
 ## Main Ideas and Method
 
@@ -45,9 +45,9 @@ Besides *Prolegomena zur Geschichte Israels* (first published in 1878 as *Geschi
 
 ## Impact and Critique
 
-Wellhausen's findings provoked wide conservative theological opposition, since they invalidate the attribution of the five books of Moses entirely to Moses himself in the traditional sense. Yet despite later revisions of their details by researchers such as Martin Noth and Gerhard von Rad, they became the compulsory starting point for every subsequent academic study of the composition of the Torah text. Wellhausen himself was forced to resign from the chair of theology at the University of Greifswald in 1882, after concluding that his critical findings conflicted with the moral and professional preparation of students for the church ministry. He then taught Semitic languages at Halle, Marburg and Göttingen (from 1892), until his death in 1918.
+Wellhausen's findings provoked wide conservative theological opposition, since they invalidate the attribution of the five books of Moses entirely to Moses himself in the traditional sense. Yet despite later revisions of their details by researchers such as Martin Noth and Gerhard von Rad, they became a standard starting point for later academic study of the composition of the Torah text. Wellhausen himself was forced to resign from the chair of theology at the University of Greifswald in 1882, citing his scruples that his critical findings conflicted with the moral and professional preparation of students for the church ministry. He then taught Semitic languages at Halle, Marburg and Göttingen (from 1892), until his death in 1918.
 
-The methodology of Wellhausen in analysing textual layers influenced other fields of comparative religious studies beyond the Torah itself: later researchers adopted his approach to dismantling historically composite texts in order to study other multi-layered religious texts in different traditions. His book on the remnants of Arab paganism also helped establish an early orientalist interest in the pre-Islamic religious history of the Arabian Peninsula, although this side of his output had less influence than his central biblical work. Wellhausen is taught today in every serious academic programme in biblical studies, even by those who reject the details of his theory, as the starting point that cannot be bypassed in any discussion of the composition of the Old Testament text.
+The methodology of Wellhausen in analysing textual layers influenced other fields of comparative religious studies beyond the Torah itself: later researchers adopted his approach to dismantling historically composite texts in order to study other multi-layered religious texts in different traditions. His book on the remnants of Arab paganism also helped establish an early orientalist interest in the pre-Islamic religious history of the Arabian Peninsula, although this side of his output had less influence than his central biblical work. Wellhausen is still widely taught in biblical studies, even by those who reject the details of his theory, as a key reference point in discussions of the composition of the Old Testament text.
 
 He later turned increasingly to Islamic and early Arab history and to the New Testament; among his works is *Das arabische Reich und sein Sturz* (1902).
 

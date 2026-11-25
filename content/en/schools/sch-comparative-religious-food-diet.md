@@ -53,11 +53,11 @@ The Islamic dietary system provides a central body of material for this field. T
 
 ## Notable Works and Contemporary Issues
 
-Contemporary researchers (as in the volume edited by Johanna Pink on Muslim consumption cultures) have discussed how the concepts of halal and kosher have, in recent decades, moved from purely consumer-oriented jurisprudential rules to a global industry with commercial certification and attestation standards, and how Muslims and Jewish immigrants in Western societies negotiate the application of these rules within modern industrial food systems that did not exist at the time of the original legislation (such as the question of mechanised slaughter and chemical additives).
+Contemporary researchers have discussed how the concepts of halal and kosher have, in recent decades, moved from purely consumer-oriented jurisprudential rules to a global industry with commercial certification and attestation standards, and how Muslims and Jewish immigrants in Western societies negotiate the application of these rules within modern industrial food systems that did not exist at the time of the original legislation (such as the question of mechanised slaughter and chemical additives). The volume edited by Johanna Pink on Muslim consumption cultures is one example for the Islamic case.
 
 ## Impact and Critique
 
-This field has shown that religious dietary rules are not merely old health regulations, as some earlier rationalist readings interpreted them (for example Maimonides' health-based explanation of the prohibition of pork in the *Guide of the Perplexed*), but an integrated symbolic system that participates in building religious identity and collective distinction. This is confirmed, for example, by the continued observance of halal and kosher even after the disappearance of the apparent health justifications assumed by some earlier commentators.
+This field has shown that religious dietary rules are not merely old health regulations, as some earlier rationalist readings interpreted them (for example Maimonides' health-based explanation of the prohibition of pork in the *Guide of the Perplexed*), but an integrated symbolic system that participates in building religious identity and collective distinction. This is illustrated, for example, by the continued observance of halal and kosher even after the disappearance of the apparent health justifications assumed by some earlier commentators.
 
 ## Fasting in Different Religions: A Deeper Comparison
 

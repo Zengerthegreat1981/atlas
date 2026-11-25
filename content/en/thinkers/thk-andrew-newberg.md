@@ -24,7 +24,7 @@ gaps: []
 
 # Andrew B. Newberg
 
-An American physician and researcher in neuroimaging, one of the pioneers of what is known as "neurotheology": the experimental study of what happens in the brain during religious practice, meditation and prayer, through functional single-photon emission computed tomography (SPECT) and related imaging techniques. He is director of research at the Marcus Institute of Integrative Health at Thomas Jefferson University in Philadelphia.
+An American physician and researcher in neuroimaging, one of the pioneers of what is known as "neurotheology": the experimental study of what happens in the brain during religious practice, meditation and prayer, through functional single-photon emission computed tomography (SPECT) and related imaging techniques. He has served as director of research at the Marcus Institute of Integrative Health at Thomas Jefferson University in Philadelphia.
 
 ## Definition
 
@@ -44,7 +44,7 @@ In his joint book with d'Aquili, *Why God Won't Go Away* (2001), the authors arg
 
 ## Impact and Critique
 
-This research program has faced a double critique. On one side, it has been accused of being unable in principle to settle the metaphysical question (does the neural activity accompanying the mystical experience produce it, accompany it, or reflect the reception of an actual transcendent reality? A question outside what neuroimaging can measure). This critique was elaborated later by researchers such as Ann Taves. On the other side, the research samples have been criticized for their very small size (a small number of highly experienced practitioners) and for the difficulty of generalizing the results to ordinary believers. The field remains to this day a living example of the limits of neural reduction in explaining religious phenomena, and of the need for a careful dialogue between the neural sciences and religious studies rather than replacing one with the other.
+This research program has faced a double critique. On one side, it has been accused of being unable in principle to settle the metaphysical question (does the neural activity accompanying the mystical experience produce it, accompany it, or reflect the reception of an actual transcendent reality? A question outside what neuroimaging can measure). Related methodological concerns about studying "special" experiences are discussed by Ann Taves. On the other side, the research samples have been criticized for their very small size (a small number of highly experienced practitioners) and for the difficulty of generalizing the results to ordinary believers. The field remains to this day a living example of the limits of neural reduction in explaining religious phenomena, and of the need for a careful dialogue between the neural sciences and religious studies rather than replacing one with the other.
 
 ## Relation to the Arab-Islamic Heritage
 
@@ -56,7 +56,7 @@ Newberg later extended his method to other practices, including a SPECT study of
 
 ## Synthetic Conclusion
 
-Newberg remains a central figure in the broader debate about the relationship between science and religion in the twenty-first century. He presents a model of a neuroscientist who seeks neither to reduce religion nor to refute it, but to understand its vital mechanisms without judging the truth of its content. This position finds acceptance among some believers and rejection from secularists and believers alike, who see in it an unresolved methodological ambiguity.
+Newberg remains a prominent figure in the broader debate about the relationship between science and religion in the twenty-first century. He presents a model of a neuroscientist who seeks neither to reduce religion nor to refute it, but to understand its vital mechanisms without judging the truth of its content. This position finds acceptance among some believers and rejection from secularists and believers alike, who see in it an unresolved methodological ambiguity.
 
 ## Sources
 

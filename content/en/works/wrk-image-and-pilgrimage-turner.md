@@ -38,7 +38,7 @@ Turner argues that the pilgrim, on his journey from home to the sacred site, pas
 
 ## Pilgrimage Across Religions
 
-Although the book focuses on Christian examples, Turner presents the thesis as a framework applicable comparatively to pilgrimage phenomena in other religions (Islamic pilgrimage to Mecca, Hindu pilgrimage to sacred places on the Ganges), although he does not elaborate these examples in the book itself as much as he elaborates the Christian ones.
+Although the book focuses on Christian examples, Turner presents the thesis as a framework applicable comparatively to pilgrimage phenomena in other religions (such as the Hajj to Mecca or Hindu pilgrimage), although the book itself concentrates on Christian examples.
 
 ## The Later Critique
 
@@ -46,19 +46,19 @@ John Eade and Michael Sallnow later criticized this thesis (1991) in their book 
 
 ## The Background of the Research Project
 
-Turner built his thesis in this book on his earlier fieldwork among the Ndembu people in Zambia, where he originally developed the concepts of liminality and communitas to describe the "threshold" stage in tribal initiation rites, drawing on Arnold van Gennep's tripartite model (separation, threshold, incorporation). This book represents an ambitious shift of these two concepts from their narrow original tribal context to a complex religious civilizational context (European Catholic Christianity). This shift raised methodological questions about how far concepts formulated to describe small homogeneous communities can be applied to pilgrims coming from highly diverse social and class backgrounds.
+Turner built his thesis in this book on his earlier fieldwork among the Ndembu people in Zambia, where he originally developed the concepts of liminality and communitas to describe the "threshold" stage in tribal initiation rites, drawing on Arnold van Gennep's tripartite model (separation, threshold, incorporation). This book represents a shift of these two concepts from their narrow original tribal context to a complex religious civilizational context (European Catholic Christianity). This shift raised methodological questions about how far concepts formulated to describe small homogeneous communities can be applied to pilgrims coming from highly diverse social and class backgrounds.
 
 ## The Main Studied Pilgrimage Sites
 
-The book reviews in detail two prominent Catholic pilgrimage sites: Lourdes in southern France (linked to Marian apparitions reported in 1858 by the young peasant girl Bernadette Soubirous), and Guadalupe in Mexico (linked to an apparition said to have occurred in 1531 to the Indigenous convert Juan Diego, which became a national Mexican symbol that transcends the boundaries of official religion).
+The book discusses several Christian pilgrimage sites, among them Lourdes in southern France (linked to Marian apparitions reported in 1858 by the young peasant girl Bernadette Soubirous) and Guadalupe in Mexico (linked to an apparition said to have occurred in 1531 to the Indigenous convert Juan Diego, which became a national Mexican symbol that transcends the boundaries of official religion).
 
 ## Impact
 
-The book helped establish the field of the anthropology of religion for pilgrimage as a social phenomenon that deserves its own systematic study, rather than being a marginal appendix to the study of small local rituals. It influenced the later comparative academic study of religious tourism and pilgrimage across multiple traditions (Christian, Islamic, Hindu and Buddhist).
+The book helped establish pilgrimage as a social phenomenon deserving systematic anthropological study, rather than a marginal appendix to the study of small local rituals. It influenced the later comparative academic study of religious tourism and pilgrimage across multiple traditions (Christian, Islamic, Hindu and Buddhist).
 
 ## The Islamic Heritage Connection
 
-Turner mentions in passing the Islamic pilgrimage to Mecca as another possible example of the dynamics of communitas. Muslim pilgrims gather from all over the earth and from all social classes, wearing a uniform garment (the *ihram*) that apparently erases class and ethnic distinctions while performing the rites. This observation meets his thesis on "communitas" in essence, although he did not devote a parallel detailed analysis to it comparable to his analysis of Lourdes and Guadalupe. Later scholars have applied or debated the idea of communitas in studies of the Hajj.
+The Islamic pilgrimage to Mecca is often discussed as another possible example of the dynamics of communitas. Muslim pilgrims gather from all over the earth and from all social classes, wearing a uniform garment (the *ihram*) that apparently erases class and ethnic distinctions while performing the rites. This observation accords with the idea of "communitas," although the book does not devote a detailed analysis to it. Later scholars have applied and debated the idea in studies of the Hajj.
 
 ## Turner's Later Work
 

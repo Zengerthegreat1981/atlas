@@ -31,7 +31,7 @@ Hubert and Mauss propose that sacrifice is a procedural mechanism that connects 
 
 ## Methodological Impact
 
-Hubert and Mauss directly drew on William Robertson Smith's analysis of Semitic sacrifice (the communal totemic feast), but they shaped from it a general procedural model not confined to any single Semitic context. It is applicable to multiple sacrificial systems (Vedic, Greek, Hebrew). This structural generalization made their work a founding reference for every later anthropological study of ritual that is concerned with the structure of ritual action more than its doctrinal content.
+Hubert and Mauss directly drew on William Robertson Smith's analysis of Semitic sacrifice (the communal sacrificial meal), but they shaped from it a general procedural model not confined to any single Semitic context. It is applicable to multiple sacrificial systems (Vedic, Greek, Hebrew). This structural generalization made their work a founding reference for every later anthropological study of ritual that is concerned with the structure of ritual action more than its doctrinal content.
 
 ## The Theological Roots Implicit in the Model
 

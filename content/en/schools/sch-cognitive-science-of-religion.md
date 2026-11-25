@@ -42,7 +42,7 @@ According to this current, religion is not an arbitrary cultural structure but a
 
 ## The Social Dimension: Costly Signalling
 
-Alongside the individual cognitive explanations of Boyer and Barrett, Scott Atran added a functional social dimension, drawing on the work of William Irons and Richard Sosis: costly signalling theory. This holds that costly religious practices (fasting, arduous rituals, taboos) are honest signals of an individual's commitment to the group, which solve the "free-rider" problem and raise cooperative trust within the group. In *In Gods We Trust* (2002), Atran connects the individual cognitive explanation with a group-level explanation of religion's survival and its cultural-evolutionary success. Ara Norenzayan extended this line in *Big Gods* (2013), linking belief in a watchful god to the expansion of large societies.
+Alongside the individual cognitive explanations of Boyer and Barrett, Scott Atran, among others, discussed a functional social dimension drawing on the work of William Irons and Richard Sosis: costly signalling theory. This holds that costly religious practices (fasting, arduous rituals, taboos) are honest signals of an individual's commitment to the group, which solve the "free-rider" problem and raise cooperative trust within the group. In *In Gods We Trust* (2002), Atran connects the individual cognitive explanation with a group-level explanation of religion's survival and its cultural-evolutionary success. Ara Norenzayan extended this line in *Big Gods* (2013), linking belief in a watchful god to the expansion of large societies.
 
 ## Whitehouse's Modes of Religiosity
 
@@ -68,6 +68,8 @@ This current is criticised from several directions:
 - Guthrie, Stewart E. (1993). *Faces in the Clouds: A New Theory of Religion*. Oxford University Press.
 - Lawson, E. Thomas, and Robert N. McCauley (1990). *Rethinking Religion: Connecting Cognition and Culture*. Cambridge University Press.
 - Barrett, Justin L. (2004). *Why Would Anyone Believe in God?*. AltaMira Press.
+- Wilson, David Sloan (2002). *Darwin's Cathedral: Evolution, Religion, and the Nature of Society*. University of Chicago Press.
+- Slone, D. Jason (2004). *Theological Incorrectness: Why Religious People Believe What They Shouldn't*. Oxford University Press.
 - Atran, Scott (2002). *In Gods We Trust: The Evolutionary Landscape of Religion*. Oxford University Press.
 - Norenzayan, Ara (2013). *Big Gods: How Religion Transformed Cooperation and Conflict*. Princeton University Press.
 - Whitehouse, Harvey (2004). *Modes of Religiosity: A Cognitive Theory of Religious Transmission*. AltaMira Press.

@@ -28,7 +28,7 @@ An edited volume co-edited by Heidi A. Campbell and Gregory Price Grieve, publis
 
 ## Definition
 
-The book brings together contributions by a number of scholars in addition to the two editors and offers one of the first broad academic surveys of how religion intersects with digital video games, a subject that had previously received limited attention within the study of religion.
+The book brings together contributions by a number of scholars in addition to the two editors and offers an early broad academic survey of how religion intersects with digital video games, a subject that had previously received limited attention within the study of religion.
 
 ## Historical Context
 
@@ -36,7 +36,7 @@ The study of religion and new digital media (digital religion) grew rapidly from
 
 ## Main Ideas and Method
 
-The volume considers how religion appears in and around games: games with explicit religious content, religious themes and myths drawn on by mainstream games, and the ways players and communities engage with games, sometimes in ways that resemble ritual or religious practice. Contributors address a range of traditions beyond Christianity; for example, Vít Šisler writes on Islamic games and Xenia Zeiler on Hindu themes in games, and Rachel Wagner also contributes. Contributors draw on methods from media studies, anthropology and religious studies.
+The volume considers how religion appears in and around games: games with explicit religious content, religious themes and myths drawn on by mainstream games, and the ways players and communities engage with games, sometimes in ways that resemble ritual or religious practice. Contributors address a range of traditions beyond Christianity; for example, Vít Šisler writes on Islamic games and Xenia Zeiler on Hindu themes in games. Contributors draw on methods from media studies, anthropology and religious studies.
 
 ## Principal Editors
 

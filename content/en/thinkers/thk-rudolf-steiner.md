@@ -43,7 +43,7 @@ Unlike Blavatsky, who leaned towards a centring on Eastern traditions, Steiner m
 
 ## Major Works and Representatives
 
-His most important works include *The Philosophy of Freedom* (1894), *Theosophie* (1904), *How to Know Higher Worlds* (serialised 1904–1905), and *An Outline of Occult Science* (1910). He also wrote esoteric plays (the Mystery Dramas) and designed the Goetheanum building in Dornach, Switzerland (the first building burned in 1922 and was replaced by a second, completed in 1928), which remains the headquarters of the Anthroposophical Society.
+His principal works include *The Philosophy of Freedom* (1894), *Theosophie* (1904), *How to Know Higher Worlds* (serialised 1904–1905), and *An Outline of Occult Science* (1910). He also wrote esoteric plays (the Mystery Dramas) and designed the Goetheanum building in Dornach, Switzerland (the first building burned in 1922 and was replaced by a second, completed in 1928), which remains the headquarters of the Anthroposophical Society.
 
 ## Impact and Criticism
 
@@ -51,10 +51,11 @@ Academic researchers study Steiner within the field of "studies of modern Wester
 
 ## Relation to the Arab-Islamic Heritage
 
-Steiner's writings contain no direct treatment of the Islamic tradition or of Arabic philosophy. His non-Western reference points were largely limited to Hinduism and Buddhism, drawn from Theosophical sources. 
+Steiner's writings contain no direct treatment of the Islamic tradition or of Arabic philosophy. His non-Western reference points were largely limited to Hinduism and Buddhism, drawn from Theosophical sources.
+
 ## Sources
 
-- Steiner, Rudolf. *Theosophy: An Introduction to the Supersensible Knowledge of the World and the Destination of Man*. 1904.
-- Steiner, Rudolf. *An Outline of Occult Science*. 1910.
+- Steiner, Rudolf. *Theosophie: Einführung in übersinnliche Welterkenntnis und Menschenbestimmung* (English: *Theosophy*). 1904.
+- Steiner, Rudolf. *Die Geheimwissenschaft im Umriss* (English: *An Outline of Occult Science*). 1910.
 - Zander, Helmut. *Anthroposophie in Deutschland: Theosophische Weltanschauung und gesellschaftliche Praxis 1884–1945*. Göttingen: Vandenhoeck & Ruprecht, 2007.
 - Zander, Helmut. *Rudolf Steiner: Die Biographie*. München: Piper, 2011.

@@ -43,4 +43,5 @@ The debate has gone beyond the purely academic into courtrooms (legal defenses t
 - Barker, E. (1984). *The Making of a Moonie: Choice or Brainwashing?*. Blackwell.
 - Richardson, J. T., & Introvigne, M. (2001). "'Brainwashing' Theories in European Parliamentary and Administrative Reports." *Journal for the Scientific Study of Religion*, 40(2), 143-168.
 - Anthony, D., & Robbins, T. (2004). "Conversion and 'Brainwashing' in New Religious Movements." In J. R. Lewis (ed.), *The Oxford Handbook of New Religious Movements*. Oxford University Press.
+- Rambo, L. R. (1993). *Understanding Religious Conversion*. Yale University Press.
 - Lifton, R. J. (1961). *Thought Reform and the Psychology of Totalism: A Study of "Brainwashing" in China*. W. W. Norton.

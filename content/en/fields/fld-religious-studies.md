@@ -241,3 +241,6 @@ Version 1 is a map, not a textbook. Coverage is uneven, with Abrahamic and some 
 - Clifford Geertz, *The Interpretation of Cultures* (1973)
 - Talal Asad, *Genealogies of Religion* (1993)
 - Mircea Eliade (ed.), *The Encyclopedia of Religion* (1987)
+- Rudolf Otto, *Das Heilige* (1917; English *The Idea of the Holy*, 1923)
+- Mircea Eliade, *The Sacred and the Profane* (German 1957; English 1959)
+- Pascal Boyer, *Religion Explained* (2001)

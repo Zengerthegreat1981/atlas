@@ -29,7 +29,7 @@ gaps: []
 
 # Scott Atran
 
-A French-American cognitive anthropologist, born in 1952, and one of the founding pioneers of the cognitive science of religion, alongside Pascal Boyer and Justin Barrett. His work combines field anthropology with evolutionary cognitive psychology. His most prominent contribution is his book *In Gods We Trust: The Evolutionary Landscape of Religion* (2002). He worked as a researcher at the French National Centre for Scientific Research (CNRS) and at the University of Michigan.
+A French-American cognitive anthropologist, born in 1952, and an early contributor to the cognitive science of religion, alongside Pascal Boyer and Justin Barrett. His work combines field anthropology with evolutionary cognitive psychology. His most prominent contribution is his book *In Gods We Trust: The Evolutionary Landscape of Religion* (2002). He worked as a researcher at the French National Centre for Scientific Research (CNRS) and at the University of Michigan.
 
 ## Definition
 
@@ -41,7 +41,7 @@ The field emerged in the 1990s in response to earlier social-functional explanat
 
 ## Main Ideas and Method
 
-Atran starts from an observation he regards as an evolutionary paradox: religious beliefs impose heavy costs on their holders, in time, rituals, sacrifices and food taboos, and they posit supernatural beings that contradict everyday empirical intuition. So how did they spread and persist through human evolution despite this apparent cost? His answer, like that of his colleagues Boyer and Barrett, is that they are a by-product of general cognitive mechanisms, such as the agency detection system and the selective memory for minimally counterintuitive concepts, rather than a direct adaptation existing for religion itself. Alongside the individual cognitive explanation, Atran highlights, drawing on the work of Irons and Sosis in evolutionary anthropology on costly signaling, the social dimension. Costly religious commitment, such as fasting, demanding rituals and economic sacrifices, works as an honest signal that is difficult to counterfeit of an individual's commitment to the group. It thereby raises the cooperative trust among members and solves the "free-rider" problem in large groups.
+Atran starts from an observation he regards as an evolutionary paradox: religious beliefs impose heavy costs on their holders, in time, rituals, sacrifices and food taboos, and they posit supernatural beings that contradict everyday empirical intuition. So how did they spread and persist through human evolution despite this apparent cost? His answer, like that of his colleagues Boyer and Barrett, is that they are a by-product of general cognitive mechanisms, such as the agency detection system and the selective memory for minimally counterintuitive concepts, rather than a direct adaptation existing for religion itself. Alongside the individual cognitive explanation, Atran highlights the social dimension, drawing on work on costly signaling by evolutionary anthropologists such as William Irons and Richard Sosis. Costly religious commitment, such as fasting, demanding rituals and economic sacrifices, works as an honest signal that is difficult to counterfeit of an individual's commitment to the group. It thereby raises the cooperative trust among members and solves the "free-rider" problem in large groups.
 
 ## Career Path
 
@@ -61,7 +61,7 @@ Atran's analytical tools, especially the theory of costly signaling, are cited i
 
 ## The Folk Classification Method and Its Effect on His Religious Theory
 
-In his early studies of folk classification, Atran relied on comparative fieldwork across many cultures, from the Amazon jungle to Western cities. He showed that humans share innate classificatory structures for living things regardless of their culture. Atran carried this same method into the study of religion. He argued that supernatural religious concepts exploit this same innate classificatory mechanism by violating its natural expectations in a limited and calculated way. This makes them more memorable and easier to transmit between individuals and generations than ordinary concepts that are fully expected, or entirely counterintuitive.
+In his early studies of folk classification, Atran relied on comparative fieldwork across many cultures, from the Amazon jungle to Western cities. He argued that humans share innate classificatory structures for living things regardless of their culture. Atran carried this same method into the study of religion. He argued that supernatural religious concepts exploit this same innate classificatory mechanism by violating its natural expectations in a limited and calculated way. This makes them more memorable and easier to transmit between individuals and generations than ordinary concepts that are fully expected, or entirely counterintuitive.
 
 ## Sources
 

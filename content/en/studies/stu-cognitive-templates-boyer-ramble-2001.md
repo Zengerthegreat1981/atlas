@@ -30,7 +30,7 @@ An experimental study published by Pascal Boyer with Charles Ramble in the journ
 
 ## The Cross-Cultural Design
 
-The two researchers tested the hypothesis in three culturally distant contexts, geographically and religiously: France (a Western secular/Catholic background), Gabon (a traditional African context, an extension of Boyer's early field experience among the Fang), and Nepal (a Himalayan context, with data gathered by Ramble, a scholar of Tibetan culture). At each site, participants were presented with lists of concepts (beings and objects) that varied in the degree to which they violated innate ontological expectations, and their recall of them was then measured.
+The two researchers tested the hypothesis in three culturally distant contexts, geographically and religiously: France (a Western secular/Catholic background), Gabon (a traditional African context, with Fang participants), and Nepal (a Himalayan context, with data gathered by Ramble, a scholar of Tibetan culture). At each site, participants were presented with lists of concepts (beings and objects) that varied in the degree to which they violated innate ontological expectations, and their recall of them was then measured.
 
 ## The Result
 
@@ -48,4 +48,4 @@ Cross-cultural experiments in cognitive psychology face the risk of imposing mat
 
 - Boyer, P. & Ramble, C. (2001). "Cognitive Templates for Religious Concepts: Cross-Cultural Evidence for Recall of Counter-Intuitive Representations." *Cognitive Science*, 25(4), 535–564. DOI: 10.1207/s15516709cog2504_2.
 - Boyer, P. (2001). *Religion Explained: The Evolutionary Origins of Religious Thought*. New York: Basic Books.
-- Barrett, Justin L., & Nyhof, Melanie. "Spreading Non-Natural Concepts." *Journal of Cognition and Culture*, 1(1), 2001.
+- Barrett, Justin L., & Nyhof, Melanie. "Spreading Non-Natural Concepts." *Journal of Cognition and Culture*, 1(1), 2001, 69–100.

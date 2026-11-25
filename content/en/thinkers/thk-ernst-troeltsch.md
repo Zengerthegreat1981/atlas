@@ -26,7 +26,7 @@ gaps: []
 
 # Ernst Troeltsch
 
-A German theologian, philosopher of religion and historian (1865–1923). He was one of the founding members of the History-of-Religions School (Religionsgeschichtliche Schule) in Göttingen, alongside Hermann Gunkel and Wilhelm Bousset, and the most prominent developer of its general philosophical thesis: that Christianity, like any other religious phenomenon, is subject to the laws of history and cultural relativity, and may not be studied in isolation from them on the pretext of an absolute divine uniqueness that exempts it from the tools of comparative historical research.
+A German theologian, philosopher of religion and historian (1865–1923). He was associated with the History-of-Religions School (Religionsgeschichtliche Schule) in Göttingen, alongside Hermann Gunkel and Wilhelm Bousset, and a leading theorist of its general philosophical outlook: that Christianity, like any other religious phenomenon, is subject to the laws of history and cultural relativity, and may not be studied in isolation from them on the pretext of an absolute divine uniqueness that exempts it from the tools of comparative historical research.
 
 ## Biography and Context
 
@@ -50,7 +50,7 @@ Troeltsch's classification invites a comparison with the Arab-Islamic heritage, 
 
 ## Impact and Critique
 
-Conservative theologians accused Troeltsch of emptying Christianity of its claim to absolute truth through comprehensive historical relativity, and Karl Barth criticized him because for Troeltsch theology follows history. On the other hand, his work was regarded as a methodological foundation for every later attempt to study the major monotheistic religions with historical-comparative tools, without the dogmatic presumption of the superiority of any one of them. This is the principle on which the whole History-of-Religions School was based. It is objected to him that his threefold classification arose from the European Christian experience and does not easily fit other traditions, and that his confidence in the superiority of European civilization remained evident.
+Conservative theologians accused Troeltsch of emptying Christianity of its claim to absolute truth through comprehensive historical relativity, and Karl Barth criticized him because for Troeltsch theology follows history. On the other hand, his work was regarded as an important methodological foundation for later attempts to study the major monotheistic religions with historical-comparative tools, without the dogmatic presumption of the superiority of any one of them, a principle central to the History-of-Religions School. It is objected to him that his threefold classification arose from the European Christian experience and does not easily fit other traditions, and that his confidence in the superiority of European civilization remained evident.
 
 ## Sources
 

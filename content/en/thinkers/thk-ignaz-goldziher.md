@@ -25,7 +25,7 @@ gaps: []
 
 # Ignaz (Yitzhaq Yehuda) Goldziher
 
-A Hungarian Jewish orientalist, regarded as a founding figure of modern academic Islamic studies in Europe and a pioneer of the philological-historical critical study of hadith and Islamic law. He studied in Budapest, Berlin and Leipzig (doctorate, 1870), and traveled to the Near East, spending time in Cairo, where he studied at al-Azhar (1873–1874), an experience rare for a European orientalist of his time.
+A Hungarian Jewish orientalist, regarded as a founding figure of modern academic Islamic studies in Europe and an early figure in the philological-historical critical study of hadith and Islamic law. He studied in Budapest, Berlin and Leipzig (doctorate, 1870), and traveled to the Near East, staying in Cairo, where he studied at al-Azhar (1873–1874), an experience rare for a European orientalist of his time.
 
 ## Academic Criticism of Hadith
 
@@ -33,15 +33,15 @@ In *Muhammedan Studies* (*Muhammedanische Studien*, 1889–1890), Goldziher appl
 
 ## His Relationship with the Internal Islamic Tradition
 
-Unlike other orientalists whose writings had a condescending tone, Goldziher was known for a clear scholarly respect for the Islamic intellectual heritage, especially jurisprudence and theology (*kalam*). He documented with precision the development of the legal schools, which made him a reference cited by Muslim and orientalist researchers alike, despite disagreement over his conclusions.
+Unlike some orientalists of his time whose writings had a condescending tone, Goldziher was known for a clear scholarly respect for the Islamic intellectual heritage, especially jurisprudence and theology (*kalam*). He documented with precision the development of the legal schools, and his work has been cited by Muslim and Western researchers alike, despite disagreement over his conclusions.
 
 ## Impact and Critique
 
-Goldziher's method deeply influenced Western Islamic studies throughout the twentieth century. Joseph Schacht later developed a related critique of hadith isnads (see below). Like European Orientalism in general, Goldziher's work was later critiqued by Edward Said and postcolonial theorists as part of a European knowledge structure that produces "the East" as an object of study from an implicit position of superiority, even though Goldziher's personal stance was relatively neutral compared with his contemporaries. He also faced counter-criticism from Muslim researchers (such as Mustafa al-Siba'i), who defended the reliability of the traditional hadith isnad system that he had questioned.
+Goldziher's method strongly influenced Western Islamic studies throughout the twentieth century. Joseph Schacht later developed a related critique of hadith isnads (see below). Like European Orientalism in general, Goldziher's work was later critiqued by Edward Said and postcolonial theorists as part of a European knowledge structure that produces "the East" as an object of study from an implicit position of superiority, even though Goldziher's personal stance was relatively neutral compared with his contemporaries. He also faced counter-criticism from Muslim researchers (such as Mustafa al-Siba'i), who defended the reliability of the traditional hadith isnad system that he had questioned.
 
 ## His Personal and Professional Life
 
-Despite his international fame, Goldziher suffered academic antisemitism in Hungary, which long delayed a full university chair commensurate with his standing. He worked as secretary of the Neolog Jewish community of Pest (from 1876) alongside his research, and was appointed professor at the University of Budapest in 1905. His diary, partly translated and discussed by Raphael Patai in *Ignaz Goldziher and His Oriental Diary* (1987), is a major source for his inner life and his experience in Cairo.
+Despite his international fame, Goldziher suffered academic antisemitism in Hungary, which long delayed a full university chair commensurate with his standing. He worked as secretary of the Neolog Jewish community of Pest (from 1876) alongside his research, and was appointed professor at the University of Budapest in 1905. His diary, partly translated and discussed by Raphael Patai in *Ignaz Goldziher and His Oriental Diary* (1987), is an important source for his inner life and his experience in Cairo.
 
 ## Theology and Jurisprudence
 
@@ -61,7 +61,7 @@ Goldziher's history of Qur'anic exegesis appeared as *Die Richtungen der islamis
 
 ## Conclusion
 
-Goldziher remains a foundational reference in Western Islamic studies, combining rigorous critical philology with scholarly respect for the tradition he studied. His theses on the origin of hadith continue to be debated by Western and Muslim scholars alike.
+Goldziher remains a major reference in Western Islamic studies, combining rigorous critical philology with scholarly respect for the tradition he studied. His theses on the origin of hadith continue to be debated by Western and Muslim scholars alike.
 
 ## Sources
 

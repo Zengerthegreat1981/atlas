@@ -29,7 +29,7 @@ gaps: []
 
 # Pascal Boyer
 
-A French cognitive anthropologist and one of the leading founders of the cognitive science of religion. He began his training as a field anthropologist, doing fieldwork in Cameroon among the Fang oral traditions. In the 1990s he shifted to the cognitive-evolutionary framework, attempting to explain why religious beliefs resemble one another across cultures that are geographically and historically distant, with no contact between them. He is a professor at Washington University in St. Louis, and his career has combined cognitive science with evolutionary anthropology.
+A French cognitive anthropologist and a leading figure in the cognitive science of religion. He began his training as a field anthropologist, doing fieldwork in Cameroon among the Fang. In the 1990s he shifted to the cognitive-evolutionary framework, attempting to explain why religious beliefs resemble one another across cultures that are geographically and historically distant, with no contact between them. He is a professor at Washington University in St. Louis, and his career has combined cognitive science with evolutionary anthropology.
 
 ## The Central Thesis: Belief as a Natural Cognitive Product
 
@@ -37,7 +37,7 @@ In his key work *Religion Explained* (2001), Boyer rejects traditional explanati
 
 ## Boyer and Ramble (2001)
 
-Boyer tested this hypothesis experimentally together with Charles Ramble, through recall experiments with participants in France, Nepal and Gabon. Participants were asked to recall concepts of varying strangeness. They reported that concepts with a small number of counterintuitive features were recalled better than wholly ordinary ones, which they interpreted as cross-cultural support for the thesis.
+Boyer tested this hypothesis experimentally together with Charles Ramble, through recall experiments with participants in France, Nepal and Gabon. Participants were asked to recall concepts of varying strangeness. The authors reported that concepts with a small number of counterintuitive features were recalled better than wholly ordinary ones, which they interpreted as cross-cultural support for the thesis.
 
 ## An Explanatory, Not Normative, Method
 
@@ -45,7 +45,7 @@ Boyer insists that his project is explanatory. It does not aim to refute or conf
 
 ## His Relation to His Colleagues in the Cognitive Science of Religion
 
-Together with Justin Barrett, Scott Atran and Harvey Whitehouse, Boyer forms the founding core of the cognitive science of religion as an academic field distinct from the traditional anthropology of religion and classical psychology of religion. Boyer's position differs from Barrett's in that he is less interested in the precise experimental details of the individual's experience of belief, and closer to a general theoretical modeling of the structure of the religious concept itself, regardless of the specific cultural context in which it arises.
+Together with Justin Barrett, Scott Atran and Harvey Whitehouse, Boyer is counted among the central figures of the cognitive science of religion as an academic field distinct from the traditional anthropology of religion and classical psychology of religion.
 
 ## His Critique of Traditional Functional Explanations of Religion
 
@@ -53,13 +53,11 @@ Boyer devotes a large part of his argument to dismantling the classical function
 
 ## His Early Field Work in Cameroon
 
-Before turning to cognitive theory, Boyer spent years in anthropological fieldwork among the Fang people of Cameroon, documenting their oral traditions and local religious rituals in a classical ethnographic manner. This direct field experience provided a rich empirical background that he later drew on in building his cognitive theory. He did not build his hypotheses from abstract theoretical reflection alone, but from direct knowledge of the complexity of actual religious beliefs as they are lived in a real society far from the Western context in which he himself grew up.
-
-## His Influence on Later Generations of Researchers
+Before turning to cognitive theory, Boyer spent years in anthropological fieldwork among the Fang people of Cameroon, studying their oral traditions and local religious practice in a classical ethnographic manner, notably in *Tradition as Truth and Communication* (1990). This fieldwork gave him an empirical background for his later cognitive theory.
 
 ## Influence
 
-Boyer's work helped establish the cognitive-explanatory approach as an alternative to functional and interpretive approaches in the study of religion.
+Boyer's work helped advance the cognitive-explanatory approach as an alternative to functional and interpretive approaches in the study of religion.
 
 ## Writing for a General Audience
 

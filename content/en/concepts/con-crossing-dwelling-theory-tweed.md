@@ -15,7 +15,7 @@ edges:
 - rel: "belongs_to", target: "Thomas A. Tweed", target_type: "مفكر"
 related:
 - id: "wrk-crossing-and-dwelling-tweed", title: "Crossing and Dwelling: A Theory of Religion", type: "عمل / كتاب"
-- id: "wrk-our-lady-of-the-exile-tweed", title: "Our Lady of the Exile: Religion and Cuban-American Culture in Miami", type: "عمل / كتاب"
+- id: "wrk-our-lady-of-the-exile-tweed", title: "Our Lady of the Exile: Diasporic Religion at a Cuban Catholic Shrine in Miami", type: "عمل / كتاب"
 gaps: []
 ---
 

@@ -35,7 +35,7 @@ In the comparative literature, the Islamic funeral is treated as a codified ritu
 
 ## From "Sequestration of Death" to "Revival of Death"
 
-Until the late 1980s, a thesis prevailed in British sociology. It was associated with Philippe Ariès and Geoffrey Gorer, and was later formulated in theoretical language by Philip Mellor and Chris Shilling (1993). It held that modernity concealed death from public life by moving it to the hospital and the morgue, and impoverished its public rituals. Tony Walter, in *The Revival of Death* (1994), argued that this thesis is partly correct in describing the mid-twentieth century, but that it overlooked a counter-revival that began in the 1970s. This included the hospice movement, the growing public discussion of loss and grief, and the emergence of a "popular science of death" in the media and culture. He proposed an alternative model for understanding the contemporary "good death", based on individual choice and social negotiation rather than on ready-made religious or medical prescriptions. His work belongs to the same current as the "continuing bonds" idea of Klass, Silverman and Nickman (1996), a critique of the Freudian model of grief, which requires severing the bond with the deceased.
+Until the late 1980s, a thesis prevailed in British sociology. It was associated with Philippe Ariès and Geoffrey Gorer, and was later formulated in theoretical language by Philip Mellor and Chris Shilling (1993). It held that modernity concealed death from public life by moving it to the hospital and the morgue, and impoverished its public rituals. Tony Walter, in *The Revival of Death* (1994), argued that this thesis is partly correct in describing the mid-twentieth century, but that it overlooked a counter-revival that began in the 1970s. This included the hospice movement, the growing public discussion of loss and grief, and a growing media and cultural presence of death and bereavement. He proposed an alternative model for understanding the contemporary "good death", based on individual choice and social negotiation rather than on ready-made religious or medical prescriptions. His work belongs to the same current as the "continuing bonds" idea of Klass, Silverman and Nickman (1996), a critique of the Freudian model of grief, which requires severing the bond with the deceased.
 
 ## Davies's Theory of Funerary Ritual
 
@@ -53,6 +53,8 @@ Critics argue that Davies tends toward a functional generalisation about "commun
 - Van Gennep, Arnold (1909). *Les rites de passage*. Paris: Nourry.
 - Parry, Jonathan P. (1994). *Death in Banaras*. Cambridge University Press.
 - Howarth, Glennys (1996). *Last Rites: The Work of the Modern Funeral Director*. Amityville: Baywood.
+- Mellor, Philip A., & Shilling, Chris (1993). "Modernity, Self-Identity and the Sequestration of Death." *Sociology* 27(3).
+- Klass, Dennis, Silverman, Phyllis R., & Nickman, Steven L. (eds.) (1996). *Continuing Bonds: New Understandings of Grief*. Taylor & Francis.
 - Davies, Douglas J. (1997). *Death, Ritual and Belief: The Rhetoric of Funerary Rites*. Cassell.
 - Walter, Tony (1994). *The Revival of Death*. Routledge.
 - Bloch, Maurice, & Parry, Jonathan (eds.) (1982). *Death and the Regeneration of Life*. Cambridge University Press.

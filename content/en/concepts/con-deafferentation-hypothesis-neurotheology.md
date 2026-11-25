@@ -45,4 +45,5 @@ Newberg and colleagues reported SPECT neuroimaging studies of Tibetan Buddhist m
 - d'Aquili, E. & Newberg, A. (1999). *The Mystical Mind: Probing the Biology of Religious Experience*. Fortress Press.
 - Newberg, A., d'Aquili, E., & Rause, V. (2001). *Why God Won't Go Away: Brain Science and the Biology of Belief*. Ballantine Books.
 - Newberg, A., Alavi, A., Baime, M., Pourdehnad, M., Santanna, J., & d'Aquili, E. (2001). "The Measurement of Regional Cerebral Blood Flow during the Complex Cognitive Task of Meditation: A Preliminary SPECT Study." *Psychiatry Research: Neuroimaging*, 106(2), 113-122.
+- Newberg, A., Pourdehnad, M., Alavi, A., & d'Aquili, E. G. (2003). "Cerebral Blood Flow during Meditative Prayer: Preliminary Findings and Methodological Issues." *Perceptual and Motor Skills*, 97(2), 625-630.
 - Newberg, Andrew & Waldman, Mark Robert. *How God Changes Your Brain: Breakthrough Findings from a Leading Neuroscientist*. Ballantine Books, 2009.

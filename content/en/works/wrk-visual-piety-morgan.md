@@ -23,7 +23,7 @@ gaps: []
 
 # Visual Piety: A History and Theory of Popular Religious Images
 
-David Morgan's first foundational book for the field of material religion studies, published in 1998 by the University of California Press. It traces the history of popular religious images in American Protestantism, particularly the widely circulated printed images of Christ produced in the twentieth century. It also proposes a theoretical framework for analyzing "looking" itself as a religious practice: how the viewing of a religious image is socially and ritually organized so that it produces an experience of piety, rather than a mere passive reception of a visual representation.
+David Morgan's early major book in the field of material religion studies, published in 1998 by the University of California Press. It traces the history of popular religious images in American Protestantism, particularly the widely circulated printed images of Christ produced in the twentieth century. It also proposes a theoretical framework for analyzing "looking" itself as a religious practice: how the viewing of a religious image is socially and ritually organized so that it produces an experience of piety, rather than a mere passive reception of a visual representation.
 
 ## The Example of Warner Sallman
 
@@ -35,7 +35,7 @@ Morgan draws on visual culture studies and reception theory to propose that "rel
 
 ## Impact
 
-The book helped shape the field of "material religion studies," which partly shifted the focus of comparative religious studies from belief and the written text toward objects, images and everyday bodily practices. It prepared the ground for Morgan's later and broader work *The Sacred Gaze* (2005), which extended the theoretical framework itself beyond the American Christian context into a comparison among multiple religious visual traditions around the world.
+The book contributed to the field of "material religion studies," which partly shifted the focus of comparative religious studies from belief and the written text toward objects, images and everyday bodily practices. It prepared the ground for Morgan's later and broader work *The Sacred Gaze* (2005), which extended the theoretical framework itself beyond the American Christian context into a comparison among multiple religious visual traditions around the world.
 
 ## Archival Sources
 
@@ -51,7 +51,7 @@ Morgan shows that the consumption of cheap printed images of Christ has historic
 
 ## Morgan's Academic Career
 
-David Morgan is a professor of religious studies at Duke University. He was one of the founders of the journal *Material Religion* (2005), a forum for research in the field this book helped to shape.
+David Morgan is a professor of religious studies at Duke University. He was a founding editor of the journal *Material Religion* (2005), a forum for research in the field this book helped to shape.
 
 ## Sources
 

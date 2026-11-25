@@ -1,0 +1,124 @@
+con-anti-cult-movement-response: Scientology litigant claim softened to lawyers linked to Scientology involved in Jason Scott litigation
+con-architectural-semiotics-sacred: grammar fix in calligraphy sentence
+con-axis-mundi-sacred-space-eliade: 'most important' critique softened to 'prominent'
+con-brainwashing-conversion-debate: added Rambo 1993 to Sources (cited in text)
+con-crossing-dwelling-theory-tweed: corrected related title of Our Lady of the Exile subtitle
+con-deafferentation-hypothesis-neurotheology: added Newberg et al. 2003 Franciscan nuns paper to Sources
+con-documentary-hypothesis-wellhausen: 'almost unanimous rejection' by Orthodox Judaism softened to 'largely rejected'
+con-dream-incubation-religious: removed unverifiable attribution of istikhara comparison to Bulkeley
+con-form-criticism-gunkel: 'founded' softened to 'pioneered'; added Dibelius 1919 to Sources
+con-networked-religion-campbell: added Campbell 2012 JAAR to Sources (cited in text)
+con-new-evangelicalism: 'chief founders' softened to 'leading figures'; heading adjusted
+con-sacrifice-theory-hubert-mauss: Robertson Smith 'communal totemic feast' corrected to 'communal sacrificial meal'
+con-tibetan-dream-yoga-milam: removed unverifiable ISBNs from Sources
+con-totemic-sacrifice-smith-durkheim-influence: softened attribution to Evans-Pritchard of source-substitution explanation
+dbt-colonial-vs-domestic-ethnography-lived-religion: added Hall 1989 Worlds of Wonder to Sources (cited in text)
+dbt-defining-religion-as-analytic-category: softened superlatives ('most incisive', 'most famous')
+dbt-comparativism-vs-contextualism-eliade-smith: checked, no change needed
+dbt-pilgrimage-communitas-vs-contestation: checked, no change needed
+dbt-reductionism-vs-non-reductionism-religious-studies: checked, no change needed
+dbt-religion-as-category-aboriginal-australia: softened attributed reasoning of Elkin and later anthropologists
+dbt-ritual-competence-vs-modes-of-religiosity: checked, no change needed
+dbt-sacred-books-of-the-east-orientalism-critique: corrected volume count wording (about fifty incl. index)
+dbt-segal-critique-campbell-monomyth-methodology: softened attribution of objections to Segal personally; revised-edition publisher given as Penguin 1990
+dbt-thick-description-vs-phenomenological-description: checked, no change needed
+fld-religion-and-society: facts checked; added Mahmood, Cavanaugh, Juergensmeyer, Troeltsch to Sources (cited in text)
+fld-religious-studies: removed stray escaped quotes in Reading Paths; added Otto, Eliade, Boyer to Sources (cited in text); facts checked
+fld-ritual-myth-symbol: facts checked; added Robertson Smith, Frazer, Rappaport, Lincoln to Sources (cited in text)
+fld-theory-method-study-of-religion: facts checked; added Smith Drudgery Divine, Masuzawa, Nongbri to Sources (cited in text)
+sch-academic-buddhist-indic-studies: softened 'unmatched', 'most important', 'widely held' (budd); reworded 'official records in monastery archives'; added Oldenberg 1881 to Sources
+sch-academic-hindu-studies-flood-lipner: corrected Flood title to The Tantric Body; removed unsupported claim about Indian voices demanding independent universities; softened critics attribution
+sch-academic-islamic-studies-orientalism-critique: Motzki heading 'statistical' corrected to 'systematic'; removed unverified claim that Nagel critiqued isnad-cum-matn and was answered by Motzki's students; softened 'methodological revolution'
+sch-academic-native-american-religious-studies: removed unverifiable Hultkrantz death year (given as born 1920); softened Gill/Deloria framing; added Hultkrantz 1981, Benedict 1923, Kehoe 2000, Vecsey 1983 to Sources
+sch-academic-study-religion-sport: fixed garbled sentence on Islamic background; softened swimming/archery education claim
+sch-animals-religion-studies-waldau-patton: corrected Forum on Religion and Ecology (now at Yale, not Harvard); softened 'established primarily by'; added Linzey 1994 to Sources
+sch-cognitive-science-of-religion: softened Atran costly-signalling attribution; added Wilson 2002 and Slone 2004 to Sources (cited in text)
+sch-comparative-religious-family-kinship: facts checked; added sentence tying Schneider 1984 (already in Sources) to the text
+sch-comparative-religious-fasting-studies: removed unverifiable '261 saints, 13th-20th c.' figure for Bell; heading 'Founders' softened to 'Founding Works'
+sch-comparative-religious-food-diet: limited Pink volume attribution to Islamic case; 'confirmed' softened to 'illustrated'
+sch-comparative-religious-gender-queer: 'oldest' feminist journal softened to 'a leading'; facts checked
+sch-comparative-religious-music-studies: removed unverifiable claim that the field acknowledges its gap; facts checked
+sch-death-ritual-religious-studies: removed unsupported 'popular science of death' phrase; added Mellor & Shilling 1993 and Klass et al. 1996 to Sources (cited in text)
+sch-ethnography-of-religion-fieldwork: softened 'founded' claims for Malinowski and Orsi
+sch-feminist-study-of-religion: softened 'no counterpart' claim about Hinduism; facts checked
+sch-food-religion-studies: heading 'Founders' softened; foot washing limited to some Christian churches (John 13)
+sch-founding-comparative-religion-science-of-religion: Tiele's Leiden chair changed from 'the first' to 'one of the earliest' (Geneva 1873 earlier); softened 'attributed primarily'
+sch-higher-criticism-biblical-studies: corrected Copenhagen School names (Lemche, Thompson); clarified Richard Simon's thesis
+sch-literature-religious-narrative: checked, no change needed
+sch-material-religion-studies: checked, no change needed
+sch-mimetic-theory-violence-sacred-religion: Schwager described as one of the COV&R founders (removed unverified 'first president' claim)
+sch-myth-theory-religious-studies: softened attribution of critique and reclassification to Segal personally
+sch-new-religious-movements-cult-debate: reworded Bahai/Babi/Ahmadiyya sentence respectfully (Bahai self-understanding as independent religion); added Bromley & Shupe 1981, Singer 1995, Lewis 2004 to Sources (cited in text)
+sch-phenomenology-of-religion-otto-eliade: reworded Schimmel claim to what she is known to treat (majesty/beauty polarity)
+sch-psychology-of-religion-james-freud-jung: 'among the earliest' softened to 'an early'; facts checked
+sch-religion-digital-technology: removed unverified 'three waves' attribution to Campbell 2017; softened date of 'Digital Religion' term
+sch-religionsgeschichtliche-schule: softened 'one of the most important sources' (Kitab al-Asnam)
+sch-ritual-theory-religious-studies: softened claim that Hubert-Mauss model 'influenced' van Gennep/Turner to 'compared with'; Ibn al-Kalbi date given as death date
+sch-shamanism-comparative-category: Core Shamanism dating softened ('1980s' -> 'from around 1980'); transliteration 'arraf
+sch-theosophical-society: removed 'landmark' overclaim, fixed Hammer citation phrasing
+stu-bursi-touch-black-stone-2022: removed unverifiable DOI
+stu-cognitive-templates-boyer-ramble-2001: removed unverified link of Gabon sample to Boyer's earlier fieldwork (his Fang fieldwork was in Cameroon); added pages to Barrett-Nyhof
+stu-conceptualizing-nonnatural-entity-barrett-keil-1996: softened claim of methodological model followed by Boyer and Atran; added pages to Barrett 1998
+stu-pomio-kivung-fieldwork-whitehouse-1995: repaired garbled sentence on ethnography-first theory; softened 'co-led' Seshat
+stu-ramadan-fasting-physiology-culture-2010: unverified publisher in Möller 2005 citation replaced with Lund University
+stu-ramadan-fasting-physiology-culture-2010: unverified publisher in Möller 2005 citation replaced with Lund University
+stu-veiling-politics-identity-2005: fixed awkward date phrasing for Mahmood 2005
+thk-ake-hultkrantz: softened 'first described' (Benedict 1923), 'first to organize', 'most important', 'indispensable', unsupported supervision claim
+thk-andrew-newberg: softened Taves attribution, present-tense post, 'central figure'
+thk-bart-ehrman: softened superlatives; added Jesus, Interrupted (2009) to Sources
+thk-bruce-lincoln: corrected narrative-type taxonomy (fable/legend/myth/history, from Theorizing Myth 1999, not the 1989 book); softened superlatives
+thk-bruno-nettl: removed unverifiable India fieldwork and student-relationship claims
+thk-catherine-bell: softened overclaims ('freed the field', 'most important', 'indispensable'); fixed stray punctuation
+thk-christopher-partridge: removed unsourced 'Partridge replied' claim; softened Hanegraaff 'founded' school; added Sylvan 2002 to Sources
+thk-eileen-barker: softened 'the leading' and field-transformation claims
+thk-ernst-troeltsch: softened 'founding member', 'most prominent', 'foundation for every later attempt' overclaims
+thk-eugene-burnouf: softened 'founder', 'first', 'two pillars', 'central figure' overclaims
+thk-gershom-scholem: softened 'founder', 'authoritative', 'reference model' overclaims; clarified garbled 'legal dissolution' as antinomian tendencies
+thk-guy-beck: softened overclaims ('moved to the core', 'principal reference')
+thk-hans-frei: softened 'decisive influence', 'founders', 'foundational'
+thk-harvey-whitehouse: softened 'founding names', 'most fruitful', 'close a gap'; removed 'armchair' characterisation
+thk-heidi-campbell: corrected 2021 'second volume' to revised second edition; softened superlatives; added Digital Judaism to Sources
+thk-helena-blavatsky: fixed claim that she remained in India to end of life (she left 1885, d. London 1891); softened 'founding figure', 'agree', 'central'; fixed stray punctuation in Sources
+thk-henry-corbin: softened 'first to translate Heidegger', 'most important', 'profound influence', 'founding'; fixed Avicenna and the Visionary Recital publisher (Pantheon/Bollingen 1960)
+thk-hermann-gunkel: softened 'founder', 'pioneer', 'profound', 'pillar', 'foundational' overclaims
+thk-ignaz-goldziher: softened overgeneralisation about orientalists and 'foundational/pioneer' claims
+thk-james-beckford: softened 'founding researchers', 'landmark', 'central figure' overclaims
+thk-jonathan-z-smith: added missing 'gaps: []' to frontmatter; added Asad 1993 (cited) to Sources; softened 'coined'
+thk-joseph-schacht: softened 'the leading', 'broadest controversy', 'authoritative', 'every serious discussion'; removed unsupported criticism of al-Azami; added Liverpool to career
+thk-julius-wellhausen: softened 'clearest architect', 'most important', 'compulsory starting point', 'every serious programme'; reworded Greifswald resignation reason
+thk-justin-barrett: softened 'pioneer(s)', 'influential', 'essence', 'helped establish' overclaims
+thk-karen-mccarthy-brown: removed unverifiable series/volume number; softened 'decisive turning point', 'landmark'; fixed duplicated wording
+thk-kelly-bulkeley: removed unverifiable birth year, 'editor of Dreaming', unsourced critic claim; softened 'founded' method and 'recur with striking consistency'
+thk-max-muller: removed claim Müller wrote Palmer Qur'an introduction (now editor of series); corrected Lang/Tylor animism attribution; softened 'founder'/'first systematic', Said attribution
+thk-mircea-eliade: corrected yoga thesis/book reference (Yoga 1936); softened 'founded academic analysis of shamanism', Chicago 'transformed', 'most influential'
+thk-moojan-momen: removed empty headings; softened 'leading', 'most important', unsourced MacEoin exchange claim
+thk-muhammad-mustafa-al-azami: softened 'most prominent'; rewrote Schacht isnad argument to avoid misattributed explanation; removed empty heading and unsupported Western-press claims
+thk-pascal-boyer: removed unsupported Barrett contrast, empty headings, 'oral traditions' detail; added Tradition as Truth and Communication (1990); softened 'founding'
+thk-paul-waldau: removed empty heading; softened 'foundational', 'leading'
+thk-robert-orsi: softened 'most important founders'; removed Tanta mulid detail and unsupported Islam claim; 'letters' not 'published letters'
+thk-rudolf-otto: corrected 'numinous' coinage (from numen, on model of omen); softened 'principal founder', Eliade 'borrowed', Islam statement
+thk-rudolf-steiner: fixed Sources formatting and added German titles; softened 'most important'
+thk-scott-atran: softened 'founding pioneers', 'showed'; named Irons and Sosis correctly
+thk-t-w-rhys-davids: standardised name to Rhys Davids; softened 'first time', 'remarkably successful', 'founding fathers'; Caroline Rhys Davids described as Pali scholar not professor
+thk-the-bab: softened Badasht 'irrevocable', uprisings timeline, Tahirih unveiling wording, 'most important'
+thk-vine-deloria-jr: removed unsupported attribution of critique to Hultkrantz; softened 'most influential', 'deeply influenced', NCAI description
+thk-william-robertson-smith: corrected Cambridge chronology (Almoner's Prof. 1883, Christ's fellow 1885, Adams Prof. 1889); removed stray concept id; softened 'founders'
+wrk-ambivalence-of-the-sacred-appleby: removed unverified Northern Ireland/Balkans examples; softened 'reference work'
+wrk-communion-of-subjects-waldau-patton: removed unverifiable chapter-by-section claims; softened 'foundational'
+wrk-crossing-and-dwelling-tweed: softened 'most important', 'deeply influenced'
+wrk-dreaming-in-the-worlds-religions-bulkeley: softened 'broadest attempt'
+wrk-godwired-wagner: softened 'early and influential'
+wrk-holy-anorexia-bell: removed Angela of Foligno from Bell's examples (unconfirmed); softened clergy-authority claim
+wrk-holy-men-hunger-artists-diamond: softened 'helped correct', source-list specificity
+wrk-image-and-pilgrimage-turner: corrected case-study claim (several sites, not two); removed unsupported Hajj/Ganges claims; softened 'ambitious'
+wrk-imagining-religion-smith: named Jonestown essay; removed unsupported influences (philosophy of science); softened 'deepest effect', 'most cited'
+wrk-mama-lola-mccarthy-brown: softened 'landmark', 'founding model', daring; removed speculative subtitle claim and kanzo detail
+wrk-our-lady-of-the-exile-tweed: removed unverifiable poem/song and keepsake details; softened 'foundational'
+wrk-playing-with-religion-in-digital-games-campbell-grieve: removed unconfirmed Wagner contribution; softened 'one of the first'
+wrk-politics-of-piety-mahmood: removed unconfirmed al-Ghazali reference; softened 'most influential', 'leading'
+wrk-question-of-the-animal-and-religion-gross: Gross described as co-founder of Farm Forward; softened 'mature subfield'
+wrk-trumpet-shall-sound-worsley: removed unconfirmed ANU post; softened 'classic'
+wrk-visual-piety-morgan: softened 'first foundational'; Material Religion 'founding editor'
+wrk-when-religion-meets-new-media-campbell: corrected 2nd ed. Digital Religion year to 2021; removed concept-id text
+wrk-jewish-dietary-laws-ancient-world-rosenblum: softened 'important contribution'
+wrk-religion-and-film-plate: softened 'influential'

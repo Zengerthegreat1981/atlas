@@ -28,7 +28,7 @@ Stanner (who himself wrote *On Aboriginal Religion*, 1959-63, and so did use the
 
 ## The Second Position: Methodological Continuity (Elkin and the Tradition after Him)
 
-By contrast, Elkin (whose *The Australian Aborigines*, 1938, was a widely read general account) and many who came after him generally relied on the analytical category "religion" (and what branches from it: ritual, kinship and totemism) as a useful comparative tool despite its shortcomings. Their reasoning was that every academic analytical category is necessarily a partial external construction, and that abandoning comparison altogether would deprive the field of its ability to engage with other religious cases, which serves the very purpose of the comparative study of religion itself.
+By contrast, A. P. Elkin (whose *The Australian Aborigines*, 1938, was a widely read general account) and many anthropologists after him continued to use the analytical category "religion" (and related terms such as ritual, kinship and totemism) as a comparative tool. A common defence of this practice is that every academic analytical category is a partial external construction, and that abandoning comparison altogether would limit the field's ability to relate Aboriginal cases to other religious traditions.
 
 ## Later Echo
 

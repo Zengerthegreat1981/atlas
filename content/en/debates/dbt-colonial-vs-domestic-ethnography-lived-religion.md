@@ -51,4 +51,5 @@ The second generation did not abolish the method of the first generation but abs
 
 - McGuire, Meredith B. (2008). *Lived Religion: Faith and Practice in Everyday Life*. Oxford University Press.
 - Orsi, Robert A. (1985). *The Madonna of 115th Street: Faith and Community in Italian Harlem, 1880–1950*. Yale University Press.
+- Hall, David D. (1989). *Worlds of Wonder, Days of Judgment: Popular Religious Belief in Early New England*. Alfred A. Knopf.
 - Hall, David D., ed. (1997). *Lived Religion in America: Toward a History of Practice*. Princeton University Press.

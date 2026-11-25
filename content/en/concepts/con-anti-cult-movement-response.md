@@ -36,7 +36,7 @@ In his comparative study of societal responses to new religious movements in Bri
 
 ## Legal Outcome
 
-Forced "deprogramming" in the United States gradually declined from the 1980s, after successful lawsuits brought by former members against those who had abducted them in order to deprogram them. The major American organization CAN (Cult Awareness Network) was dissolved in 1996 after going bankrupt following a series of lawsuits, including a large civil judgment in a deprogramming case (the Jason Scott case); Scientologists were prominent among the plaintiffs and litigants. Its name and assets were afterwards acquired by a Scientology-linked buyer. This institutional transformation is documented in the literature of the field.
+Forced "deprogramming" in the United States gradually declined from the 1980s, after successful lawsuits brought by former members against those who had abducted them in order to deprogram them. The major American organization CAN (Cult Awareness Network) was dissolved in 1996 after going bankrupt following a series of lawsuits, including a large civil judgment in a deprogramming case (the Jason Scott case); lawyers linked to the Church of Scientology were involved in the litigation. Its name and assets were afterwards acquired by a Scientology-linked buyer. This institutional transformation is documented in the literature of the field.
 
 ## Sources
 

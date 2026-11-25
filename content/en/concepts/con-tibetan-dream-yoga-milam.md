@@ -42,6 +42,6 @@ Dream yoga is usually placed within a broader set of contemplative practices kno
 
 ## Sources
 
-- Young, S. (1999). *Dreaming in the Lotus: Buddhist Dream Narrative, Imagery & Practice*. Wisdom Publications. ISBN 0861711580.
-- Wangyal Rinpoche, T. (1998). *The Tibetan Yogas of Dream and Sleep*. Snow Lion Publications. ISBN 9781559391016.
+- Young, S. (1999). *Dreaming in the Lotus: Buddhist Dream Narrative, Imagery & Practice*. Wisdom Publications.
+- Wangyal Rinpoche, T. (1998). *The Tibetan Yogas of Dream and Sleep*. Snow Lion Publications.
 - Norbu, Namkhai (1992). *Dream Yoga and the Practice of Natural Light*. Snow Lion Publications.

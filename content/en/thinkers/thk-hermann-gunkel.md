@@ -28,7 +28,7 @@ gaps: []
 
 # Hermann Gunkel
 
-A German theologian and biblical scholar, one of the founders of the "History of Religions School" (Religionsgeschichtliche Schule) at the University of Göttingen in the late nineteenth century, and the founder of the method of "form criticism" (Gattungsforschung, later Formgeschichte / form criticism) in the study of the Hebrew Bible.
+A German theologian and biblical scholar, a leading member of the "History of Religions School" (Religionsgeschichtliche Schule) at the University of Göttingen in the late nineteenth century, and the scholar most associated with the method of "form criticism" (Gattungsforschung, later Formgeschichte / form criticism) in the study of the Hebrew Bible.
 
 ## Form Criticism
 
@@ -36,11 +36,11 @@ In his commentary on Genesis (*Genesis*, 1901), Gunkel proposed that the texts o
 
 ## Comparison with the Myths of the Ancient Near East
 
-One characteristic of the German History of Religions School, of which Gunkel was a pioneer, is the comparison of the Hebrew biblical texts with the myths of the ancient Near East that had been recently discovered at the time (Babylonian and Assyrian, such as the creation epic *Enuma Elish*). In *Schöpfung und Chaos in Urzeit und Endzeit* (1895) Gunkel argued that biblical creation and eschatological imagery reflect older Near Eastern mythic traditions. The aim was to find historical influences and parallels, rather than treating the biblical texts as isolated from their broader cultural context in the ancient Near East.
+One characteristic of the German History of Religions School, of which Gunkel was an early member, is the comparison of the Hebrew biblical texts with the myths of the ancient Near East that had been recently discovered at the time (Babylonian and Assyrian, such as the creation epic *Enuma Elish*). In *Schöpfung und Chaos in Urzeit und Endzeit* (1895) Gunkel argued that biblical creation and eschatological imagery reflect older Near Eastern mythic traditions. The aim was to find historical influences and parallels, rather than treating the biblical texts as isolated from their broader cultural context in the ancient Near East.
 
 ## Impact
 
-Gunkel's method of form criticism had a profound influence on later New Testament studies (Rudolf Bultmann applied it to the Gospels) and became, alongside source criticism (Wellhausen) and later redaction criticism, one of the standard methods of academic biblical study.
+Gunkel's method of form criticism had a wide influence on later New Testament studies (Rudolf Bultmann applied it to the Gospels) and became, alongside source criticism (Wellhausen) and later redaction criticism, one of the standard methods of academic biblical study.
 
 ## Biography and Academic Career
 
@@ -48,11 +48,11 @@ Gunkel was born in Springe in the Hanover district in 1862. He studied theology 
 
 ## Interpreting the Psalms and the Method of Literary Genres
 
-Gunkel extended his method of form criticism to the book of Psalms in his work *Einleitung in die Psalmen* (completed after his death by Joachim Begrich, 1933). He classified the Psalms according to their typical literary genres (hymns of praise, individual and communal laments, thanksgiving songs, royal psalms), and identified the original ritual setting (Sitz im Leben) of each in ancient Israelite temple worship. This method became a standard reference in the study of biblical Hebrew poetry to this day.
+Gunkel extended his method of form criticism to the book of Psalms in his work *Einleitung in die Psalmen* (completed after his death by Joachim Begrich, 1933). He classified the Psalms according to their typical literary genres (hymns of praise, individual and communal laments, thanksgiving songs, royal psalms), and identified the original ritual setting (Sitz im Leben) of each in ancient Israelite temple worship. This method remains a standard reference in the study of the Psalms.
 
 ## Continuing Influence
 
-Gunkel's method passed through his students and readers into several research circles. Sigmund Mowinckel applied it to the Psalms in a Scandinavian context, and Rudolf Bultmann and Martin Dibelius applied form-critical methods to the Synoptic Gospels, treating them as collections of originally oral units (pericopes). Together with Julius Wellhausen, Gunkel is often seen as a pillar of modern German biblical criticism: Wellhausen for the written sources, Gunkel for the older oral layers beneath them.
+Gunkel's method passed through his students and readers into several research circles. Sigmund Mowinckel applied it to the Psalms in a Scandinavian context, and Rudolf Bultmann and Martin Dibelius applied form-critical methods to the Synoptic Gospels, treating them as collections of originally oral units (pericopes). Together with Julius Wellhausen, Gunkel is often seen as a major figure of modern German biblical criticism: Wellhausen for the written sources, Gunkel for the older oral layers beneath them.
 
 ## Parallels with Methods for Studying the Arabic Oral Heritage
 
@@ -60,7 +60,7 @@ Gunkel's method of tracing the oral layers that preceded writing parallels metho
 
 ## Standing in the History of Biblical Studies
 
-Gunkel, together with Wellhausen, is counted among the founders of modern critical biblical studies conducted independently of church dogmatics. His method influenced generations of Western scholars, until form criticism became a standard tool taught in biblical studies programs at universities around the world.
+Gunkel, together with Wellhausen, is counted among the leading figures of modern critical biblical studies conducted independently of church dogmatics. His method influenced generations of Western scholars, until form criticism became a standard tool taught in biblical studies programs at universities around the world.
 
 ## Additional Works
 
@@ -68,7 +68,7 @@ Gunkel's introduction to his Genesis commentary, *Die Sagen der Genesis* ("The L
 
 ## Conclusion
 
-Gunkel remains a foundational reference for form criticism in biblical studies. He gave the field a methodological tool that is still in use for analyzing ancient religious texts of predominantly oral origin.
+Gunkel remains a standard reference point for form criticism in biblical studies. He gave the field a methodological tool that is still in use for analyzing ancient religious texts of predominantly oral origin.
 
 ## Sources
 

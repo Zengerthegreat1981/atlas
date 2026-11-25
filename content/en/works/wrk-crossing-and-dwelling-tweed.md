@@ -21,7 +21,7 @@ gaps: []
 
 # Crossing and Dwelling: A Theory of Religion
 
-Thomas Tweed's most important theoretical book. Drawing on his earlier ethnographic study of the Cuban shrine in Miami (*Our Lady of the Exile*), it develops a general framework for defining religion itself. Religion is not presented as a fixed belief system bounded by institutional or geographical limits, but as moving, organic cultural **flows** across place and time. The book was published in 2006 by Harvard University Press.
+Thomas Tweed's major theoretical book. Drawing on his earlier ethnographic study of the Cuban shrine in Miami (*Our Lady of the Exile*), it develops a general framework for defining religion itself. Religion is not presented as a fixed belief system bounded by institutional or geographical limits, but as moving, organic cultural **flows** across place and time. The book was published in 2006 by Harvard University Press.
 
 ## Historical Context
 
@@ -37,7 +37,7 @@ The book builds directly on Tweed's thesis in *Our Lady of the Exile: Diasporic 
 
 ## Impact and Criticism
 
-The book deeply influenced the reformulation of the definition of religion within the academic field. It moved from fixed classificatory models (such as Ninian Smart's seven dimensions) to a dynamic model that is meant to account for movement, diaspora and transnational religiosity. Some critics noted that the metaphors of "crossing" and "dwelling", despite their literary appeal, may need more operational specification in order to serve as a criterion distinguishing religion from other culturally mobile phenomena (such as music or popular cuisine).
+The book has been influential in the reformulation of the definition of religion within the academic field. It moved from fixed classificatory models (such as Ninian Smart's seven dimensions) to a dynamic model that is meant to account for movement, diaspora and transnational religiosity. Some critics noted that the metaphors of "crossing" and "dwelling", despite their literary appeal, may need more operational specification in order to serve as a criterion distinguishing religion from other culturally mobile phenomena (such as music or popular cuisine).
 
 ## Relation to the Arab-Islamic Heritage
 

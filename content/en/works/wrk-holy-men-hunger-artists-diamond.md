@@ -28,7 +28,7 @@ A book by Eliezer Diamond, professor of Talmud and rabbinic studies at the Jewis
 
 ## Definition
 
-The book addresses a central question in the history of rabbinic Judaism: did the rabbinic sages oppose voluntary physical asceticism (including excessive fasting and sexual abstinence) as contradicting the Talmud's general appreciation of life and of lawful pleasures, or does rabbinic literature contain an internal ascetic current that was recognized, though it remained restricted by controls? Diamond surveys texts from the Mishnah, the Tosefta, and the Babylonian and Palestinian Talmuds to examine this internal ascetic current, qualifying the common image of rabbinic Judaism as a purely "worldly" religion opposed to all bodily asceticism.
+The book addresses a central question in the history of rabbinic Judaism: did the rabbinic sages oppose voluntary physical asceticism (including excessive fasting and sexual abstinence) as contradicting the Talmud's general appreciation of life and of lawful pleasures, or does rabbinic literature contain an internal ascetic current that was recognized, though it remained restricted by controls? Diamond examines rabbinic texts, including the Talmuds, to trace this internal ascetic current, qualifying the common image of rabbinic Judaism as a purely "worldly" religion opposed to all bodily asceticism.
 
 ## Historical Context
 
@@ -44,7 +44,7 @@ There is no direct historical link between the rabbinic asceticism that is the s
 
 ## Impact
 
-The book helped correct a common stereotype in comparative religious studies that used to set "worldly Judaism" against "ascetic Christianity", showing that the boundaries between these two patterns are less rigid than earlier literature had assumed. It is cited in comparative studies of fasting and asceticism.
+The book challenges a common stereotype in comparative religious studies that used to set "worldly Judaism" against "ascetic Christianity", showing that the boundaries between these two patterns are less rigid than earlier literature had assumed. It is cited in comparative studies of fasting and asceticism.
 
 ## Textual Examples Highlighted in the Book
 

@@ -31,7 +31,7 @@ The best-documented example is the tradition of *enkoimesis* in the temples of t
 
 ## Comparative Examples
 
-Kelly Bulkeley (see `thk-kelly-bulkeley`), in his comparative survey (`wrk-dreaming-in-the-worlds-religions-bulkeley`), points to ritual parallels in other traditions. Among them is the Islamic prayer of istikhara (seeking guidance), in which a person asks for divine guidance through a specific prayer before sleep, in hope of a dream that directs a particular decision. He presents it as a ritual structure functionally similar to Greek dream incubation, although its theological context differs radically.
+Kelly Bulkeley (see `thk-kelly-bulkeley`), in his comparative survey (`wrk-dreaming-in-the-worlds-religions-bulkeley`), examines dreaming and its ritual uses across many religious traditions. A parallel often drawn is the Islamic prayer of istikhara (seeking guidance), in which a person asks for divine guidance through a specific prayer before sleep, in hope of a dream that directs a particular decision. It can be compared with Greek dream incubation as a ritual structure, although its theological context differs radically.
 
 ## The Islamic Tradition: Istikhara According to Edgar
 

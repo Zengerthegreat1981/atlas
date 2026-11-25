@@ -28,7 +28,7 @@ A book by the American historian of Italy Rudolph M. Bell, published by the Univ
 
 ## Definition
 
-Bell draws on the records of Church canonisation proceedings (*processi di canonizzazione*) and on the lives of saints written in central Italy. From these he extracts statistical data on patterns of fasting and abstention from food over seven centuries. He attempts to interpret them in light of modern psychopathology, while preserving the historical religious context in which these saints lived.
+Bell draws on the records of Church canonisation proceedings (*processi di canonizzazione*) and on saints' lives from Italy. From these he extracts statistical data on patterns of fasting and abstention from food over seven centuries. He attempts to interpret them in light of modern psychopathology, while preserving the historical religious context in which these saints lived.
 
 ## Historical Context
 
@@ -44,7 +44,7 @@ Bell's "psychiatric" reading provoked wide debate among historians of religion. 
 
 ## Principal Examples Studied
 
-Alongside Catherine of Siena, Bell examines the lives of other saints, such as Angela of Foligno, Columba of Rieti and Maria Maddalena de' Pazzi. He shows how severe fasting provided these women, in a patriarchal society that deprived them of official religious authority (the priesthood), with an alternative means of acquiring spiritual prestige and social recognition. It even gave them authority over the clergymen themselves, who came seeking their counsel and visions.
+Alongside Catherine of Siena, Bell examines the lives of other saints, such as Columba of Rieti and Maria Maddalena de' Pazzi. He shows how severe fasting provided these women, in a patriarchal society that deprived them of official religious authority (the priesthood), with an alternative means of acquiring spiritual prestige and social recognition. In some cases, he suggests, it even gave them influence over clergymen who sought their counsel.
 
 ## Impact
 

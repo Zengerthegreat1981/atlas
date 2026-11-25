@@ -30,7 +30,7 @@ In *The Hero with a Thousand Faces* (1949), Joseph Campbell assumes that one psy
 
 ## Segal's Critique: Conflating Description with Explanation
 
-Robert Segal and other critics of the monomyth raise two distinct methodological objections. First, extracting narrative elements from their specific contexts (the Buddha, Moses, Odysseus) and forcing them into a single mould that ignores important differences between them. Second, and methodologically more serious, conflating **observing a superficial structural similarity** (a description) with **explaining this similarity by a single universal psychological origin** (an explanation). The critics argue that Campbell offers insufficient evidence for this leap. The observed similarities can be explained by other factors, such as historical cultural diffusion, or a general structural coincidence of narrative that does not require a unified psychological origin.
+Critics of the monomyth, Robert Segal among them, have raised two broad methodological objections. First, extracting narrative elements from their specific contexts (the Buddha, Moses, Odysseus) and forcing them into a single mould that ignores important differences between them. Second, and methodologically more serious, conflating **observing a superficial structural similarity** (a description) with **explaining this similarity by a single universal psychological origin** (an explanation). The critics argue that Campbell offers insufficient evidence for this leap. The observed similarities can be explained by other factors, such as historical cultural diffusion, or a general structural coincidence of narrative that does not require a unified psychological origin.
 
 ## Reclassification, Not Complete Rejection
 
@@ -38,10 +38,10 @@ A more moderate reading does not refute Campbell's model entirely but reclassifi
 
 ## Broader Methodological Importance
 
-Segal places this critique within a wider problem that recurs in "universalist" approaches to the study of myth and religion in general (Frazer, Eliade): the temptation to find one elegant pattern that explains everything sometimes outweighs empirical precision in respecting actual cultural and historical diversity.
+This critique can be placed within a wider problem that recurs in "universalist" approaches to the study of myth and religion in general (Frazer, Eliade): the temptation to find one elegant pattern that explains everything sometimes outweighs empirical precision in respecting actual cultural and historical diversity.
 
 ## Sources
 
-- Segal, Robert A. *Joseph Campbell: An Introduction*. Garland, 1987 (revised edition, Penguin/Meridian, 1990).
+- Segal, Robert A. *Joseph Campbell: An Introduction*. Garland, 1987 (revised edition, Penguin, 1990).
 - Campbell, Joseph (1949). *The Hero with a Thousand Faces*. Pantheon Books (Bollingen Series XVII).
 - Segal, Robert A. (1999). *Theorizing about Myth*. University of Massachusetts Press.

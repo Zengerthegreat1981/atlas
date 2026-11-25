@@ -29,7 +29,7 @@ gaps: []
 
 Food and religion studies is a subfield within comparative religious studies. It examines how dietary rules (kashrut in Judaism, halal and haram in Islam, Christian fasting, Hindu vegetarianism, and Buddhist rules of food purity) are used as mechanisms for drawing symbolic boundaries between the religious community and the outsider, and for regulating the body and spiritual discipline within the community itself. The field is not a theology of food (as in Norman Wirzba's *Food and Faith*, a reflective theological work that falls outside this scope). It is a descriptive, historical and anthropological study of the social and symbolic function of food in religious traditions.
 
-## The Founders: Freidenreich and Griffith
+## Founding Works: Freidenreich and Griffith
 
 David Freidenreich (professor of religious studies at Colby College), in *Foreigners and Their Food* (University of California Press, 2011), offers a comparative study of three monotheistic legal traditions (Judaism, Christianity and Islam). It shows how each tradition shaped food laws concerning "foreigners" (non-believers) as a tool for building a distinct collective identity, rather than as mere health or ritual rules. R. Marie Griffith (a historian of American religion), in *Born Again Bodies* (University of California Press, 2004), traces the history of diet and bodily discipline movements within evangelical American Protestantism from the nineteenth to the late twentieth century. She shows how fasting and dieting became entangled with the theology of individual salvation and moral discipline.
 
@@ -51,7 +51,7 @@ Caroline Walker Bynum, in her study of medieval women, offers an influential ana
 
 ## Food and Religious Hospitality
 
-The field also studies hospitality as a central religious virtue connected to food. The Qur'an and the Sunnah urge honoring the guest ("whoever believes in God and the Last Day, let him honor his guest"). Traditional Arab cultures preserve detailed hospitality rituals (serving coffee and dates, slaughtering for a guest) that carry religious and moral meanings beyond ordinary social generosity. Similarly, Judaism preserves the symbolic custom of *ushpizin* at the Feast of Booths, in which symbolic spiritual guests from the biblical patriarchs are hosted. Christianity preserves the custom of foot washing (following Christ at the Last Supper) as an act of hospitality and mutual service that carries deep theological meaning about humility.
+The field also studies hospitality as a central religious virtue connected to food. The Qur'an and the Sunnah urge honoring the guest ("whoever believes in God and the Last Day, let him honor his guest"). Traditional Arab cultures preserve detailed hospitality rituals (serving coffee and dates, slaughtering for a guest) that carry religious and moral meanings beyond ordinary social generosity. Similarly, Judaism preserves the symbolic custom of *ushpizin* at the Feast of Booths, in which symbolic spiritual guests from the biblical patriarchs are hosted. Some Christian churches preserve the custom of foot washing (following Christ at the Last Supper, John 13) as an act of hospitality and mutual service that carries deep theological meaning about humility.
 
 ## Sources
 

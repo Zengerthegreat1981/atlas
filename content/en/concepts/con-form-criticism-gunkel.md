@@ -24,7 +24,7 @@ gaps: []
 
 # Form Criticism (Formgeschichte)
 
-A critical method in the study of the Bible, founded by Hermann Gunkel at the beginning of the twentieth century. It extends the documentary question of "Higher Criticism" (who wrote this text, and when?) with a new question: **how was this material formed orally before it was written down?**
+A critical method in the study of the Bible, pioneered by Hermann Gunkel at the beginning of the twentieth century. It extends the documentary question of "Higher Criticism" (who wrote this text, and when?) with a new question: **how was this material formed orally before it was written down?**
 
 ## The Literary Form (Gattung) and the Life Setting (Sitz im Leben)
 
@@ -51,4 +51,5 @@ Gunkel illustrated his method by applying it to the Book of Psalms: he classifie
 - Gunkel, H. (1901). *Genesis*. Vandenhoeck & Ruprecht.
 - Nicholson, E. (1998). *The Pentateuch in the Twentieth Century: The Legacy of Julius Wellhausen*. Oxford University Press.
 - Gunkel, H., & Begrich, J. (1933). *Einleitung in die Psalmen: Die Gattungen der religiösen Lyrik Israels*. Vandenhoeck & Ruprecht.
+- Dibelius, M. (1919). *Die Formgeschichte des Evangeliums*. J. C. B. Mohr.
 - Bultmann, Rudolf. *The History of the Synoptic Tradition*. Harper & Row, 1963 (English translation; original German publication 1921).

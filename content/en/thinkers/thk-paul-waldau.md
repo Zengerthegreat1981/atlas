@@ -25,7 +25,7 @@ gaps: []
 
 # Paul Waldau
 
-An American scholar who combines legal, philosophical and religious studies training. He studied law before completing a doctorate in religion at Oxford, and is regarded as a leading figure in the field of animals and religion. He applied the concept of "speciesism", a moral-philosophical concept originally coined by the moral philosopher Richard Ryder (1970) and popularised by Peter Singer, to a comparative critical reading of Buddhist and Christian conceptions of the animal in his work *The Specter of Speciesism* (2002). He then co-edited with Kimberley Patton the foundational reference volume of the field, *A Communion of Subjects* (2006).
+An American scholar who combines legal, philosophical and religious studies training. He studied law before completing a doctorate in religion at Oxford, and is a prominent figure in the field of animals and religion. He applied the concept of "speciesism", a moral-philosophical concept originally coined by the moral philosopher Richard Ryder (1970) and popularised by Peter Singer, to a comparative critical reading of Buddhist and Christian conceptions of the animal in his work *The Specter of Speciesism* (2002). He then co-edited with Kimberley Patton a widely cited reference volume in the field, *A Communion of Subjects* (2006).
 
 ## The Specter of Speciesism
 
@@ -33,7 +33,7 @@ In this work, Waldau examines classical Buddhist and Christian texts in search o
 
 ## Methodological Contribution
 
-Waldau distinguished between an incidental treatment of animals within religious texts, as a symbol or a passing sacrifice, and a systematic academic treatment that asks: how is the boundary of the circle of moral consideration actually built in each religious tradition, and why do traditions vary in the breadth of that circle? This comparative question, which is descriptive rather than normative, is what distinguished his contribution from earlier literature, which was often either a theological defence of a given tradition's treatment of animals or a direct animal-rights critique of religions.
+Waldau distinguished between an incidental treatment of animals within religious texts, as a symbol or a passing sacrifice, and a systematic academic treatment that asks: how is the boundary of the circle of moral consideration actually built in each religious tradition, and why do traditions vary in the breadth of that circle? This comparative question, which is descriptive rather than normative, distinguishes his contribution from much earlier literature, which was often either a theological defence of a given tradition's treatment of animals or a direct animal-rights critique of religions.
 
 ## A Communion of Subjects
 
@@ -42,8 +42,6 @@ In this volume, which he edited with Kimberley Patton, Waldau gathered contribut
 ## His Legal Background and Its Influence on His Method
 
 Waldau's legal training is often noted as shaping his interest in the question "who is treated as a subject with rights or standing within a given legal, moral or religious system?" He applied this question to religious traditions, examining how each draws the boundaries of those deserving moral consideration.
-
-## Establishing Academic Programmes in Animal Studies
 
 ## His Introductory Book on Animal Studies
 

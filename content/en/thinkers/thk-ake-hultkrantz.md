@@ -40,7 +40,7 @@ From local ethnography to systematic comparison: Hultkrantz began with ethnograp
 
 ## Main Ideas and Method
 
-One of his most important methodological contributions was linking religious structure to subsistence patterns (hunting versus agriculture). He argued that the religions of hunting peoples in North America share a single deep structure: a contractual-spiritual relationship with the "masters of animals," who grant a successful hunt in exchange for the respect of particular rituals, despite the geographic and linguistic distance between these peoples. His approach is often described as an "ecological" approach to religion (he treated religions as shaped by their environmental and economic setting). He also wrote extensively on the guardian spirit complex, the widespread pattern, first described in the ethnographic literature by Ruth Benedict (1923), in which an individual, through a vision or dream, acquires a personal spirit helper; and on North American concepts of the soul, the subject of his doctoral dissertation *Conceptions of the Soul among North American Indians* (1953).
+One of his notable methodological contributions was linking religious structure to subsistence patterns (hunting versus agriculture). He argued that the religions of hunting peoples in North America share a single deep structure: a contractual-spiritual relationship with the "masters of animals," who grant a successful hunt in exchange for the respect of particular rituals, despite the geographic and linguistic distance between these peoples. His approach is often described as an "ecological" approach to religion (he treated religions as shaped by their environmental and economic setting). He also wrote extensively on the guardian spirit complex, the widespread pattern, discussed comparatively by Ruth Benedict in 1923, in which an individual, through a vision or dream, acquires a personal spirit helper; and on North American concepts of the soul, the subject of his doctoral dissertation *Conceptions of the Soul among North American Indians* (1953).
 
 ## Principal Works and Figures
 
@@ -48,9 +48,9 @@ His reference work *The Religions of the American Indians* (English translation 
 
 ## Impact and Criticism
 
-He was part of a methodological debate with Vine Deloria Jr., the Native American thinker who criticized Western scholars as "outsiders" who describe religions to which they do not belong, using concepts borrowed from European classifications. Hultkrantz represented the opposing academic position, which holds that the analytical distance of the outside researcher is a methodological necessity and not a defect to be held against them, provided it is accompanied by respect for the original sources and rigorous ethnographic precision. This debate (insider versus outsider) remains one of the most important open methodological questions in the study of Indigenous religions to this day.
+He was part of a methodological debate with Vine Deloria Jr., the Native American thinker who criticized Western scholars as "outsiders" who describe religions to which they do not belong, using concepts borrowed from European classifications. Hultkrantz represented the opposing academic position, which holds that the analytical distance of the outside researcher is a methodological necessity and not a defect to be held against them, provided it is accompanied by respect for the original sources and rigorous ethnographic precision. This debate (insider versus outsider) remains an open methodological question in the study of Indigenous religions to this day.
 
-Hultkrantz also supervised generations of Swedish and international researchers in the history of religions at Stockholm University. He was also active in the international organisation of the field, including the International Association for the History of Religions (IAHR), which made him a bridge between European and American scholarly circles.
+He taught history of religions at Stockholm University and was also active in the international organisation of the field, including the International Association for the History of Religions (IAHR), which made him a bridge between European and American scholarly circles.
 
 ## His Relation to the Comparative Study of Shamanism
 
@@ -58,7 +58,7 @@ Hultkrantz also contributed to the debates on the study of shamanism as a compar
 
 ## Synthetic Conclusion
 
-Hultkrantz remains an indispensable reference for every researcher of Native North American religions. This is not because his classificatory framework is beyond criticism, but because he was the first to organize a vast quantity of scattered ethnographic material into a comparative structure that could be debated and questioned in the first place. That step was methodologically necessary before it could be criticized or surpassed.
+Hultkrantz remains a major reference for researchers of Native North American religions. This is not because his classificatory framework is beyond criticism, but because he organized a vast quantity of scattered ethnographic material into a comparative structure that could be debated and questioned in the first place. That step was methodologically necessary before it could be criticized or surpassed.
 
 ## Sources
 

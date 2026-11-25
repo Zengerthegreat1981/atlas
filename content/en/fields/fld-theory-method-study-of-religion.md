@@ -64,3 +64,6 @@ This page sits beside Religious Studies, Ritual, Myth and Symbol, and Religion a
 - Jonathan Z. Smith, *Imagining Religion* (1982)
 - Talal Asad, *Genealogies of Religion* (1993)
 - Russell T. McCutcheon (ed.), *The Insider/Outsider Problem in the Study of Religion* (1999)
+- Jonathan Z. Smith, *Drudgery Divine* (1990)
+- Tomoko Masuzawa, *The Invention of World Religions* (2005)
+- Brent Nongbri, *Before Religion* (2013)

@@ -27,7 +27,7 @@ An American scholar of religion (died 2015), professor of sociology and anthropo
 
 ## Definition
 
-Brown marks a decisive methodological turning point in the academic study of Haitian Vodou: a shift from the distant external anthropological description represented by an earlier generation of researchers, toward an intimate ethnographic method based on a long-term relationship of friendship and trust with a single informant, the Haitian priestess Alourdes Margaux, known as "Mama Lola".
+Brown's work marks an important methodological shift in the academic study of Haitian Vodou: a shift from the distant external anthropological description represented by an earlier generation of researchers, toward an intimate ethnographic method based on a long-term relationship of friendship and trust with a single informant, the Haitian priestess Alourdes Margaux, known as "Mama Lola".
 
 ## Historical Context
 
@@ -39,16 +39,16 @@ Brown met Alourdes in 1978 during an ethnographic survey of the local Haitian im
 
 ## Key Works and Representatives
 
-This relationship produced her landmark book *Mama Lola: A Vodou Priestess in Brooklyn* (University of California Press, 1991), which traces the life of Alourdes and the women of her family across generations and presents an intimate picture of Vodou in daily life that challenges the stereotypical image prevalent in American popular culture ("black magic", voodoo dolls), highlighting the centrality of women, kinship and migration in religious practice. This contrasts with earlier survey-style ethnography such as that of the Swiss-born anthropologist Alfred Métraux, whose *Le Vaudou haïtien* (1958) gave a comprehensive description of Vodou in Haiti but not the individual life-history depth that Brown sought.
+This relationship produced her best-known book *Mama Lola: A Vodou Priestess in Brooklyn* (University of California Press, 1991), which traces the life of Alourdes and the women of her family across generations and presents an intimate picture of Vodou in daily life that challenges the stereotypical image prevalent in American popular culture ("black magic", voodoo dolls), highlighting the centrality of women, kinship and migration in religious practice. This contrasts with earlier survey-style ethnography such as that of the Swiss-born anthropologist Alfred Métraux, whose *Le Vaudou haïtien* (1958) gave a comprehensive description of Vodou in Haiti but not the individual life-history depth that Brown sought.
 
 ## Impact and Critique
 
-Brown's book became a widely taught text taught in programs of religious anthropology and gender studies, for offering an alternative model of writing religious ethnography in a narrative style close to literary biography. Some researchers criticized this intimate literary style on the grounds that it may blur the methodological boundaries between anthropological description and personal empathy, while others defended this very overlap as what gives the book its unique capacity to dismantle the colonial stereotypes about Vodou that had accumulated in the American imagination.
+Brown's book became a widely taught text in programs of religious anthropology and gender studies, for offering an alternative model of writing religious ethnography in a narrative style close to literary biography. Some researchers criticized this intimate literary style on the grounds that it may blur the methodological boundaries between anthropological description and personal empathy, while others defended this very overlap as what gives the book its unique capacity to dismantle the colonial stereotypes about Vodou prevalent in popular American portrayals.
 
 Brown stayed in contact with Alourdes's family for many years. The book's closeness to its subject raises questions about the writer's position, which Brown addressed openly by writing herself into the narrative.
 
 ## Sources
 
-- McCarthy Brown, Karen (1991). *Mama Lola: A Vodou Priestess in Brooklyn*. Berkeley: University of California Press (expanded edition 2001, in the series *Comparative Studies in Religion and Society*, vol. 4).
+- McCarthy Brown, Karen (1991). *Mama Lola: A Vodou Priestess in Brooklyn*. Berkeley: University of California Press (expanded edition 2001).
 - Métraux, Alfred (1958). *Le Vaudou Haïtien*. Paris: Gallimard.
 - Desmangles, Leslie G. (1992). *The Faces of the Gods: Vodou and Roman Catholicism in Haiti*. Chapel Hill: University of North Carolina Press.

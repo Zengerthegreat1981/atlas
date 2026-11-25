@@ -25,7 +25,7 @@ gaps: []
 
 # Eileen Barker
 
-A British sociologist (born 1938), Professor Emerita of Sociology at the London School of Economics (LSE), and the leading academic researcher in the study of new religious movements. She founded the INFORM organization (Information Network Focus on Religious Movements) in 1988 to supply the British public and government with balanced information about these movements, away from media polarization.
+A British sociologist (born 1938), Professor Emerita of Sociology at the London School of Economics (LSE), and a leading academic researcher of new religious movements. She founded the INFORM organization (Information Network Focus on Religious Movements) in 1988 to supply the British public and government with balanced information about these movements, away from media polarization.
 
 ## Historical Context
 
@@ -41,11 +41,11 @@ Alongside *The Making of a Moonie* (1984), Barker's major works include *New Rel
 
 ## Methodological Impact
 
-Her long-term empirical methodology (following individuals over time rather than relying on individual testimonies after leaving) helped transform the field of new religious movements from an area dominated by media controversy into an academic field that relies on systematic empirical evidence. Her work has been widely cited in public and policy discussion of these movements.
+Her long-term empirical methodology (following individuals over time rather than relying on individual testimonies after leaving) contributed to the development of the study of new religious movements as an academic field relying on systematic empirical evidence. Her work has been widely cited in public and policy discussion of these movements.
 
 ## The INFORM Organization
 
-Barker founded INFORM in 1988 as an independent charity, with support from the British Home Office and the mainstream Christian churches. Its purpose was to provide families, teachers, journalists and researchers with academically documented information about new religious movements, as an alternative to the biased information provided either by the movements' own proselytizing groups or by anti-cult organizations. It became a widely used reference source in this field.
+Barker founded INFORM in 1988 as an independent charity, with support from the British Home Office and the mainstream Christian churches. Its purpose was to provide families, teachers, journalists and researchers with academically documented information about new religious movements, as an alternative to the biased information provided either by the movements' own proselytizing groups or by anti-cult organizations. It has been widely used as a reference source.
 
 ## Academic Standing
 
@@ -53,7 +53,7 @@ Barker has served as president of the Society for the Scientific Study of Religi
 
 ## Conclusion
 
-Barker combined empirical sociological research with public information work. Her long-term design, following individuals over time rather than relying on retrospective testimony, became a methodological model for studying controversial movements, and her approach is generally regarded as having helped move the field from media controversy toward systematic evidence.
+Barker combined empirical sociological research with public information work. Her long-term design, following individuals over time rather than relying on retrospective testimony, has been influential as a methodological approach to studying controversial movements.
 
 ## Sources
 

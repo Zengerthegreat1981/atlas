@@ -23,11 +23,11 @@ gaps: []
 
 # Bart D. Ehrman
 
-American scholar of New Testament and early Christian studies, James A. Gray Distinguished Professor of Religious Studies at the University of North Carolina at Chapel Hill, and one of the leading authors in the academic field writing for a general readership over the past three decades. He was a student of Bruce Metzger, one of the foremost figures in New Testament textual criticism in the twentieth century, and later co-authored with him the fourth edition of *The Text of the New Testament* (2005), a standard reference work in the field.
+American scholar of New Testament and early Christian studies, James A. Gray Distinguished Professor of Religious Studies at the University of North Carolina at Chapel Hill, and a widely read author of books on the New Testament for a general readership. He was a student of Bruce Metzger, one of the foremost figures in New Testament textual criticism in the twentieth century, and later co-authored with him the fourth edition of *The Text of the New Testament* (2005), a standard reference work in the field.
 
 ## Definition
 
-Ehrman is known as one of the most prominent figures to bring the results of academic historical-critical study of the Bible, long confined to specialists in universities and theological colleges, to a broad non-specialist readership through a series of bestselling books. This made him a publicly controversial figure in contemporary American religious debate.
+Ehrman is known as a prominent figure in bringing the results of academic historical-critical study of the Bible, long confined to specialists in universities and theological colleges, to a broad non-specialist readership through a series of bestselling books. This made him a publicly controversial figure in contemporary American religious debate.
 
 ## Historical Context
 
@@ -43,7 +43,7 @@ In *Misquoting Jesus* he presents to the general public the scale of textual var
 
 ## Impact and Criticism
 
-Ehrman has been criticized from two directions: by evangelical conservatives, who argue that his conclusions undermine the reader's confidence in the reliability of the Bible more than the scientific evidence actually warrants; and by other academic scholars, who argue that his style, aimed at the general public, sometimes simplifies complex questions on which textual critics still disagree. Nevertheless, Ehrman remains one of the most influential academic voices in introducing the broad public to the tools of historical criticism applied to religious texts.
+Ehrman has been criticized from two directions: by evangelical conservatives, who argue that his conclusions undermine the reader's confidence in the reliability of the Bible more than the scientific evidence actually warrants; and by other academic scholars, who argue that his style, aimed at the general public, sometimes simplifies complex questions on which textual critics still disagree. Nevertheless, Ehrman is among the best-known academic voices introducing the broad public to the tools of historical criticism applied to religious texts.
 
 ## Public Engagement
 
@@ -59,7 +59,7 @@ Alongside his books for the general public, Ehrman has also published more techn
 
 ## Brief Summary
 
-Ehrman remains a prominent contemporary example of an academic scholar who has managed to combine scientific rigor with wide popular reach without sacrificing one for the other.
+Ehrman remains a prominent contemporary example of an academic scholar who has combined technical scholarship with wide popular reach.
 
 ## Sources
 
@@ -67,4 +67,5 @@ Ehrman remains a prominent contemporary example of an academic scholar who has m
 - Ehrman, B. D. (2011). *Forged: Writing in the Name of God—Why the Bible's Authors Are Not Who We Think They Are*. HarperOne.
 - Ehrman, B. D. (1993). *The Orthodox Corruption of Scripture: The Effect of Early Christological Controversies on the Text of the New Testament*. Oxford University Press.
 - Metzger, Bruce M., and Bart D. Ehrman (2005). *The Text of the New Testament: Its Transmission, Corruption, and Restoration*. 4th ed. Oxford University Press.
+- Ehrman, B. D. (2009). *Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)*. HarperOne.
 - Ehrman, B. D. (2003). *Lost Christianities: The Battles for Scripture and the Faiths We Never Knew*. Oxford University Press.

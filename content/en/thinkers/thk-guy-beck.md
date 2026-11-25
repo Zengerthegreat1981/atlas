@@ -27,11 +27,11 @@ An American researcher in religious studies, specializing in Hinduism and sacred
 
 ## Main Contribution
 
-In his book *Sonic Theology: Hinduism and Sacred Sound* (1993; see wrk-sonic-theology-beck), Beck puts forward a central thesis: sacred sound in Hinduism (particularly the concepts of *nada* and *mantra*, and Vedic chanting) is not merely a means of transmitting theological content, but a theological category in itself. That is, spoken or chanted sound has an existential and cosmic power independent of its verbal meaning. This thesis moved the study of religious music from the margins of descriptive ethnomusicology to the core of comparative religious studies.
+In his book *Sonic Theology: Hinduism and Sacred Sound* (1993; see wrk-sonic-theology-beck), Beck puts forward a central thesis: sacred sound in Hinduism (particularly the concepts of *nada* and *mantra*, and Vedic chanting) is not merely a means of transmitting theological content, but a theological category in itself. That is, spoken or chanted sound has an existential and cosmic power independent of its verbal meaning. This thesis helped bring the study of religious sound closer to the concerns of comparative religious studies.
 
 ## Comparative Expansion
 
-Beck later broadened his framework in an edited collective volume (2006) that compares the religious sound traditions of six major religions (Judaism, Christianity, Islam, Hinduism, Buddhism and Sikhism), thereby helping to shape a sub-field distinct from secular comparative musicology (for example the tradition of Curt Sachs) through its explicit focus on the theological and ritual function of sound rather than on musical form alone.
+Beck later broadened his framework in an edited collective volume (2006) that compares the religious sound traditions of six major religions (Judaism, Christianity, Islam, Hinduism, Buddhism and Sikhism), thereby contributing to a sub-field distinct from secular comparative musicology (for example the tradition of Curt Sachs) through its explicit focus on the theological and ritual function of sound rather than on musical form alone.
 
 ## The Hindu Roots of the Field
 
@@ -55,7 +55,7 @@ Beck also edited *Alternative Krishnas* (2005), a collection on regional and ver
 
 ## Conclusion
 
-Beck is a principal reference for the study of sacred sound in Hindu and comparative perspective, having given ritual sound a theoretical standing within religious studies.
+Beck is a frequently cited reference for the study of sacred sound in Hindu and comparative perspective, having given ritual sound a theoretical standing within religious studies.
 
 ## Sources
 

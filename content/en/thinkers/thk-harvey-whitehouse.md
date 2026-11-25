@@ -28,7 +28,7 @@ gaps: []
 
 # Harvey Whitehouse
 
-A British anthropologist and cognitive scientist, Professor of Social Anthropology at the University of Oxford, and one of the founding names of the cognitive science of religion alongside Pascal Boyer, Justin Barrett and Scott Atran. What distinguishes him from them is his reliance on direct ethnographic fieldwork (rather than theoretical armchair reflection alone) to test his hypotheses.
+A British anthropologist and cognitive scientist, Professor of Social Anthropology at the University of Oxford, and a prominent figure in the cognitive science of religion alongside Pascal Boyer, Justin Barrett and Scott Atran. What distinguishes him from them is his reliance on direct ethnographic fieldwork (alongside theoretical reflection) to test his hypotheses.
 
 ## The Theory of Modes of Religiosity
 
@@ -44,11 +44,11 @@ Whitehouse drew on his fieldwork in the late 1980s among followers of the Pomio 
 
 ## The Critique of the Theory
 
-The doctrinal/imagistic dichotomy faced methodological criticism from E. Thomas Lawson and Robert McCauley, who developed an alternative, the "Ritual Competence Theory." They argued that the decisive distinction between rituals is not their frequency or emotional intensity, but their internal attributional structure: who is presumed to be the highest agent (a god or supernatural being) in the chain of delegation of ritual action. This debate remained one of the most fruitful methodological discussions within the cognitive science of religion during the first two decades of the new millennium.
+The doctrinal/imagistic dichotomy faced methodological criticism from E. Thomas Lawson and Robert McCauley, who developed an alternative, the "Ritual Competence Theory." They argued that the decisive distinction between rituals is not their frequency or emotional intensity, but their internal attributional structure: who is presumed to be the highest agent (a god or supernatural being) in the chain of delegation of ritual action. This debate was a prominent methodological discussion within the cognitive science of religion during the first two decades of the new millennium.
 
 ## His Later Project: The Seshat Database
 
-Whitehouse later widened the scope of testing his theory through his co-founding (with Peter Turchin and Pieter François) of the "Seshat: Global History Databank" project, which collects structured data on many past societies in order to test hypotheses about the relationship between social complexity, religion and the emergence of large states. It is an ambitious extension of his original method from the individual ethnographic case to quantitative global history.
+Whitehouse later widened the scope of testing his theory through his co-founding (with Peter Turchin and Pieter François) of the "Seshat: Global History Databank" project, which collects structured data on many past societies in order to test hypotheses about the relationship between social complexity, religion and the emergence of large states. It is an extension of his original method from the individual ethnographic case to quantitative global history.
 
 ## Connection to Islamic Contexts
 
@@ -64,7 +64,7 @@ Together with Luther H. Martin, Whitehouse edited *Theorizing Religions Past: Ar
 
 ## Conclusion
 
-Whitehouse is a major figure in the contemporary cognitive science of religion. By combining long-term fieldwork with comparative quantitative theorizing, he has helped close a long-standing methodological gap between traditional anthropology and experimental cognitive science.
+Whitehouse is a major figure in the contemporary cognitive science of religion. By combining long-term fieldwork with comparative quantitative theorizing, he has helped bring traditional anthropology and experimental cognitive science into closer contact.
 
 ## Sources
 

@@ -25,7 +25,7 @@ gaps:
 
 # Moojan Momen
 
-A British historian and scholar, a leading historian of the Bábí and Bahá'í religions, who has written on their origins and development in a scholarly rather than purely devotional manner. His intellectual position combines a notable duality: he is a scholar who personally belongs to the Bahá'í community, but in his scholarly writing he adheres to the standards of critical academic history, based on the cross-checking of independent testimonies, rather than a doctrinal defence of the community's account of itself. This position resembles in many respects that of believing scholars who write to rigorous academic standards about their own religious traditions in other fields of religious studies.
+A British historian and scholar, a historian of the Bábí and Bahá'í religions, who has written on their origins and development in a scholarly rather than purely devotional manner. His intellectual position combines a notable duality: he is a scholar who personally belongs to the Bahá'í community, but in his scholarly writing he adheres to the standards of critical academic history, based on the cross-checking of independent testimonies, rather than a doctrinal defence of the community's account of itself. This position resembles in many respects that of believing scholars who write to rigorous academic standards about their own religious traditions in other fields of religious studies.
 
 ## Combining Linguistic Competence with Archival Access
 
@@ -33,7 +33,7 @@ Momen drew on his command of Persian and Arabic and on his access to a range of 
 
 ## The Bábí and Bahá'í Religions, 1844–1944
 
-His most important reference work is a documentary survey published in 1981, which gathers contemporary Western accounts (diplomatic, missionary and orientalist) of the origin and development of the movement over its first century, with editorial commentary. It is a widely used starting point for study of the movement.
+His best-known historical work is a documentary survey published in 1981, which gathers contemporary Western accounts (diplomatic, missionary and orientalist) of the origin and development of the movement over its first century, with editorial commentary. It is a widely used starting point for study of the movement.
 
 ## Later and Encyclopaedic Works
 
@@ -43,13 +43,9 @@ Alongside his foundational historical work, Momen produced broader reference wor
 
 Momen consistently distinguishes between what the official Bahá'í sources say about themselves and what the independent documents contemporary with the events reveal. This allows a critical historical examination that avoids both the trap of the internal promotional narrative and the trap of the hostile polemical rejection that dominated some earlier Shi'i and orientalist writings on the Bábí movement. This methodological distinction is what gives his work an academic credibility that goes beyond his personal denominational position.
 
-## Significance for Comparative Religious Studies
-
 ## Other Scholars in the Field
 
-Momen's position as a believing scholar raises the question of how belonging and academic objectivity can be combined. His approach differs from that of scholars such as Denis MacEoin, who studied the Bábí movement from a more externally critical position, and the two have engaged in scholarly exchange over disputed questions of early Bábí history.
-
-## Educational Impact
+Momen's position as a believing scholar raises the question of how belonging and academic objectivity can be combined. His approach differs from that of scholars such as Denis MacEoin, who studied the Bábí movement from a more externally critical position.
 
 ## The Bahá'í Administrative System
 

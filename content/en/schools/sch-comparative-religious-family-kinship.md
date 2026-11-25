@@ -54,7 +54,7 @@ Islamic jurisprudence on marriage (nikah), inheritance and clientage (wala') off
 
 ## Impact and Criticism
 
-The field helped correct the tendency of classical anthropology to separate "religion" from "kinship" as distinct domains, showing that many societies do not make this separation at all. The field has, however, been criticized for relying excessively on the British functionalist model, which presupposes a prior social harmony. It sometimes ignores the real conflicts and tensions within the religious family (such as disputes over inheritance or paternal authority), which later anthropological studies more attentive to social conflict have revealed.
+The field helped correct the tendency of classical anthropology to separate "religion" from "kinship" as distinct domains, showing that many societies do not make this separation at all. The field has, however, been criticized for relying excessively on the British functionalist model, which presupposes a prior social harmony. It sometimes ignores the real conflicts and tensions within the religious family (such as disputes over inheritance or paternal authority), which later anthropological studies more attentive to social conflict have revealed. David Schneider's *A Critique of the Study of Kinship* (1984) went further, questioning whether "kinship" is a valid cross-cultural analytic category at all, since it may project Euro-American assumptions about biology and family.
 
 ## Contemporary Extensions
 

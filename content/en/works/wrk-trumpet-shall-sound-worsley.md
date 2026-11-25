@@ -36,7 +36,7 @@ Worsley rejects the stereotyped colonial reading of these movements as "mass mad
 
 ## Impact and Critique
 
-The book became a classic reference, and later interpretations of cargo cults are commonly compared with it. Kenelm Burridge (*New Heaven, New Earth*, 1969), among others, emphasised the local moral and cosmological dimensions of the movements rather than economic grievance alone, and later anthropologists have questioned the explanatory weight of the Marxist reading while still treating its historical-social framework as an unavoidable point of reference.
+The book became an influential reference, and later interpretations of cargo cults are commonly compared with it. Kenelm Burridge (*New Heaven, New Earth*, 1969), among others, emphasised the local moral and cosmological dimensions of the movements rather than economic grievance alone, and later anthropologists have questioned the explanatory weight of the Marxist reading while still treating its historical-social framework as an unavoidable point of reference.
 
 ## The Term "Cargo Cult"
 
@@ -44,7 +44,7 @@ The term "cargo cult" arose in colonial usage and has been widely criticised as 
 
 ## Worsley's Academic Background
 
-Peter Worsley (1924–2013) was a British sociologist, politically on the left, who taught at several universities, including the Australian National University and the University of Manchester, where he became professor of sociology.
+Peter Worsley (1924–2013) was a British sociologist, politically on the left, who taught at several universities, including the University of Manchester, where he became professor of sociology.
 
 ## Later Applications of the Model
 

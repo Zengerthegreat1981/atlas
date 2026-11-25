@@ -22,7 +22,7 @@ gaps: []
 
 # Christopher H. Partridge
 
-Christopher Hugh Partridge is a British religious scholar specialising in the study of alternative spiritualities and popular religion. He is professor of religion and popular culture at Lancaster University. He is known for developing the concept of "occulture" (a term that had earlier circulated in countercultural circles) as an analytical category in his two-volume study *The Re-Enchantment of the West* (2004-2005). His work extends the project of Wouter Hanegraaff, which broadened the academic study of the New Age movement beyond its historical grounding, towards analysing the spread of esoteric and occult elements in everyday popular culture (music, cinema and the media).
+Christopher Hugh Partridge is a British religious scholar specialising in the study of alternative spiritualities and popular religion. He is professor of religion and popular culture at Lancaster University. He is known for developing the concept of "occulture" (a term that had earlier circulated in countercultural circles) as an analytical category in his two-volume study *The Re-Enchantment of the West* (2004-2005). His work builds on that of Wouter Hanegraaff, and moves from the historical study of esotericism towards analysing the spread of esoteric and occult elements in everyday popular culture (music, cinema and the media).
 
 ## Historical Context
 
@@ -38,15 +38,15 @@ Alongside *The Re-Enchantment of the West* (two volumes, 2004–2005), Partridge
 
 ## Position in the Field and Impact
 
-Partridge's work is classified as an extension of the critical academic school on the New Age movement founded by Hanegraaff. However, it shifts the focus of analysis from the historical-intellectual grounding of Western esotericism to observing its daily infiltration into contemporary popular culture, drawing on tools from the sociology of religion and popular culture studies together. The concept of occulture has had a wide influence on the study of new religions and popular culture. Related work on popular music and religion includes Robin Sylvan's *Traces of the Spirit* (2002).
+Partridge's work is classified as an extension of the critical academic study of the New Age movement and Western esotericism associated with Hanegraaff. However, it shifts the focus of analysis from the historical-intellectual grounding of Western esotericism to observing its daily infiltration into contemporary popular culture, drawing on tools from the sociology of religion and popular culture studies together. The concept of occulture has had a wide influence on the study of new religions and popular culture. Related work on popular music and religion includes Robin Sylvan's *Traces of the Spirit* (2002).
 
 ## Criticism
 
-Some colleagues have criticised the breadth of the concept of occulture, such that it is sometimes hard to distinguish its boundaries. If every cultural element carrying a passing occult sign (a song, a film, a commercial advertisement) is classified under this concept, the term may lose its precise analytical power. Partridge replied that the breadth of the concept is deliberate and methodologically necessary, because it reflects precisely the scattered and non-institutional nature of this kind of contemporary religiosity, unlike traditional religions with clear institutional boundaries.
+A frequent objection to the concept of occulture is its breadth, which can make its boundaries hard to define. If every cultural element carrying a passing occult sign (a song, a film, a commercial advertisement) is classified under this concept, the term may lose its precise analytical power. Partridge's own rationale is that the breadth of the concept reflects the scattered and non-institutional nature of this kind of contemporary religiosity, unlike traditional religions with clear institutional boundaries.
 
 ## Academic Standing
 
-Partridge teaches at Lancaster University in Britain, and his work has helped establish the study of religion and popular culture as a recognised sub-field of contemporary religious studies.
+Partridge teaches at Lancaster University in Britain, and his work has contributed to establishing the study of religion and popular culture as a recognised sub-field of contemporary religious studies.
 
 ## Closing Assessment
 
@@ -57,4 +57,5 @@ Partridge's project shifts the question from "where did these ideas come from hi
 - Partridge, Christopher (2004). *The Re-Enchantment of the West, Volume 1: Alternative Spiritualities, Sacralization, Popular Culture and Occulture*. T&T Clark International.
 - Partridge, Christopher (2005). *The Re-Enchantment of the West, Volume 2: Alternative Spiritualities, Sacralization, Popular Culture and Occulture*. T&T Clark International.
 - Partridge, Christopher (2013). *The Lyre of Orpheus: Popular Music, the Sacred, and the Profane*. Oxford University Press.
+- Sylvan, Robin (2002). *Traces of the Spirit: The Religious Dimensions of Popular Music*. New York University Press.
 - Hanegraaff, Wouter J. (1996). *New Age Religion and Western Culture*. Brill.

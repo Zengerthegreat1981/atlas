@@ -52,7 +52,7 @@ In *The Myth of the Eternal Return* (1949; English translation 1954) and *Myth a
 
 ## Segal's Methodological Critique of Campbell
 
-In *Theorizing about Myth* (1999) and *Myth: A Very Short Introduction*, Robert A. Segal directed a precise methodological critique at Campbell's model: a confusion between observing a superficial structural similarity among distant myths and explaining this similarity by a single universal Jungian psychological origin, a leap for which Campbell offers no sufficient evidence. Rather than discarding the model entirely, Segal proposes reclassifying it as a useful literary-pedagogical tool rather than a rigorous scientific theory.
+In *Theorizing about Myth* (1999) and *Myth: A Very Short Introduction*, Robert A. Segal and other critics have questioned Campbell's model: a confusion between observing a superficial structural similarity among distant myths and explaining this similarity by a single universal Jungian psychological origin, a leap for which Campbell offers no sufficient evidence. Rather than discarding the model entirely, a more moderate reading reclassifies it as a useful literary-pedagogical tool rather than a rigorous scientific theory.
 
 ## The Intersection with Sacrifice and Ritual (Girard)
 

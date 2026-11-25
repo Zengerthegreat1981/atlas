@@ -25,11 +25,11 @@ gaps: []
 
 # Heidi A. Campbell
 
-An American scholar, professor of communication at Texas A&M University and director of the Network for New Media, Religion and Digital Culture Studies. She is widely regarded as a leading figure in establishing the field of "Digital Religion Studies" as an independent research area within media and religion studies.
+An American scholar, professor of communication at Texas A&M University and director of the Network for New Media, Religion and Digital Culture Studies. She is regarded as a leading figure in developing the field of "Digital Religion Studies" as an independent research area within media and religion studies.
 
 ## From a Single Case Study to a Comparative Framework
 
-Campbell began her research with doctoral work, completed in the early 2000s, on Christian groups communicating online through email. It was later published as *Exploring Religious Community Online* (2005). She then broadened this initial interest in her pivotal book *When Religion Meets New Media* (2010), moving from the study of a single case to a comparative analytical framework across several religious traditions (Orthodox Judaism, Islam and Christianity). In this book she set out the "religious-social shaping of technology" approach; the concept of "networked religion" was developed in her later writing.
+Campbell began her research with doctoral work, completed in the early 2000s, on Christian groups communicating online through email. It was later published as *Exploring Religious Community Online* (2005). She then broadened this initial interest in her book *When Religion Meets New Media* (2010), moving from the study of a single case to a comparative analytical framework across several religious traditions (Orthodox Judaism, Islam and Christianity). In this book she set out the "religious-social shaping of technology" approach; the concept of "networked religion" was developed in her later writing.
 
 ## Method: Rejecting Technological Determinism
 
@@ -41,7 +41,7 @@ Campbell's framework (the "religious-social shaping of technology", RSST) examin
 
 ## Later Projects
 
-Campbell extended her research project by editing additional collective volumes, among them *Digital Religion: Understanding Religious Practice in New Media Worlds* (2012; a second volume, co-edited with Ruth Tsuria, appeared in 2021), which gathered contributions from multiple researchers to map the field of digital religion comprehensively. She also undertook a joint project with Gregory Grieve on religion and digital games (wrk-playing-with-religion-in-digital-games-campbell-grieve). She directs the "Network for New Media, Religion and Digital Culture Studies", an international research platform connecting scholars working in this emerging field.
+Campbell extended her research project by editing additional collective volumes, among them *Digital Religion: Understanding Religious Practice in New Media Worlds* (2012; a revised second edition, co-edited with Ruth Tsuria, appeared in 2021), which gathered contributions from multiple researchers to map the field of digital religion comprehensively. She also undertook a joint project with Gregory Grieve on religion and digital games (wrk-playing-with-religion-in-digital-games-campbell-grieve). She directs the "Network for New Media, Religion and Digital Culture Studies", an international research platform connecting scholars working in this emerging field.
 
 ## Relation to the Arab-Islamic Heritage
 
@@ -49,7 +49,7 @@ In her work, Campbell devotes direct attention to how Islamic religious authorit
 
 ## Academic Standing
 
-Campbell is a professor of communication at Texas A&M University and one of the most prominent scholars of digital religion.
+Campbell is a professor of communication at Texas A&M University and a prominent scholar of digital religion.
 
 ## Further Works
 
@@ -64,4 +64,5 @@ Campbell's work has helped make digital religion an established sub-field of med
 - Campbell, Heidi A. *Exploring Religious Community Online: We Are One in the Network*. Peter Lang, 2005.
 - Campbell, Heidi A. *When Religion Meets New Media*. Routledge, 2010.
 - Campbell, Heidi A., ed. *Digital Religion: Understanding Religious Practice in New Media Worlds*. Routledge, 2012.
+- Campbell, Heidi A., ed. *Digital Judaism: Jewish Negotiations with Digital Media and Culture*. Routledge, 2015.
 - Campbell, Heidi A., and Gregory Price Grieve, eds. *Playing with Religion in Digital Games*. Indiana University Press, 2014.

@@ -25,7 +25,7 @@ gaps: []
 
 # Bruce Lincoln
 
-An American historian of religions and professor at the University of Chicago Divinity School, where Mircea Eliade and Jonathan Z. Smith also taught. He is among the most prominent figures who have tried to move beyond the sharp polarization between Eliade's universal comparison and Smith's contextual critique. He does this not by rejecting either side entirely, but by reformulating comparison as an act conscious of its own power.
+An American historian of religions and professor at the University of Chicago Divinity School, where Mircea Eliade and Jonathan Z. Smith also taught. He is a prominent figure among those who have tried to move beyond the sharp polarization between Eliade's universal comparison and Smith's contextual critique. He does this not by rejecting either side entirely, but by reformulating comparison as an act conscious of its own power.
 
 ## Definition
 
@@ -33,7 +33,7 @@ Lincoln's intellectual project centers on one key idea: that myth, ritual and re
 
 ## The Critique of Myth as an Instrument of Power
 
-In his book *Discourse and the Construction of Society: Comparative Studies of Myth, Ritual, and Classification* (1989), Lincoln advances a central thesis: myth is not a neutral narrative of a collective belief, but an instrument of discourse used to build a society and legitimize its existing social and political arrangement, or to dismantle it. Lincoln distinguishes between types of narrative (myth, folktale, historical myth/history) according to the degree of social authority each carries for its community, rather than according to its formal content alone.
+In his book *Discourse and the Construction of Society: Comparative Studies of Myth, Ritual, and Classification* (1989), Lincoln advances a central thesis: myth is not a neutral narrative of a collective belief, but an instrument of discourse used to build a society and legitimize its existing social and political arrangement, or to dismantle it. In *Theorizing Myth* (1999) he further distinguishes types of narrative (fable, legend, myth and history) by the degree of truth-claim and social authority each carries for its audience, rather than by formal content alone.
 
 ## Between Eliade and Smith: A "Chastened" Comparison
 
@@ -45,7 +45,7 @@ In *Holy Terrors: Thinking about Religion after September 11* (2002), written di
 
 ## Impact and Criticism
 
-Lincoln's method has had a broad influence in redirecting religious studies away from a focus on abstract doctrinal content toward critical analysis of the relationship between religion, power and ideology. Critics, however, argue that excessive emphasis on the dimension of power may overlook other dimensions of religious experience (such as individual existential meaning) that are not necessarily reducible to social power relations alone.
+Lincoln's method has contributed to redirecting religious studies away from a focus on abstract doctrinal content toward critical analysis of the relationship between religion, power and ideology. Critics, however, argue that excessive emphasis on the dimension of power may overlook other dimensions of religious experience (such as individual existential meaning) that are not necessarily reducible to social power relations alone.
 
 ## His Analytical Approach to Ritual
 
@@ -53,11 +53,11 @@ Early in his career Lincoln studied initiation rites, notably women's initiation
 
 ## Concluding Synthesis
 
-Lincoln belongs to a generation of historians of religion at Chicago who inherited the broad comparative ambition of Eliade but reformulated it with more cautious critical tools. This makes him a pivotal figure for understanding how the field of the history of religions evolved from a phenomenological comparison to a critical analysis of power and discourse, without wholly abandoning the field's original comparative ambition.
+Lincoln belongs to a generation of historians of religion at Chicago who inherited the broad comparative ambition of Eliade but reformulated it with more cautious critical tools. This makes him a useful figure for understanding how the field of the history of religions evolved from a phenomenological comparison to a critical analysis of power and discourse, without wholly abandoning the field's original comparative ambition.
 
 ## Institutional Position
 
-Lincoln holds a named professorship in the history of religions at the University of Chicago Divinity School, a leading centre of the discipline. Chicago has been associated with successive methodological approaches in the field: Eliade's comparative phenomenology, Smith's contextual critique, and Lincoln's critical, power-conscious comparison.
+Lincoln holds a named professorship in the history of religions at the University of Chicago Divinity School, a major centre of the discipline. Chicago has been associated with successive methodological approaches in the field: Eliade's comparative phenomenology, Smith's contextual critique, and Lincoln's critical, power-conscious comparison.
 
 ## Reception of His Work
 
@@ -65,7 +65,7 @@ Lincoln's works have been widely discussed in religious studies, and his analyti
 
 ## Brief Summary
 
-Lincoln remains a model of a scholar able to absorb a radical methodological critique (Smith's critique) without losing his field's founding ambition of comparison across cultures.
+Lincoln is an example of a scholar able to absorb a radical methodological critique (Smith's critique) without losing his field's founding ambition of comparison across cultures.
 
 ## Sources
 

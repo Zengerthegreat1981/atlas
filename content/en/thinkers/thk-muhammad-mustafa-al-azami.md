@@ -26,11 +26,11 @@ gaps: []
 
 # Muhammad Mustafa al-Azami
 
-An Indian-Saudi scholar of hadith sciences, who obtained his doctorate from the University of Cambridge (1966) under Western orientalist supervision. He then became the most prominent Islamic academic voice opposing the critical approach of Ignaz Goldziher and Joseph Schacht to the history of hadith and Islamic jurisprudence, using their own philological tools rather than rejecting them from outside. Al-Azami was a professor at King Saud University in Riyadh for many years, and he also taught in Qatar and Mecca. He was educated in India at Deoband and then at al-Azhar, and he received the King Faisal International Prize for Islamic Studies in 1980.
+An Indian-Saudi scholar of hadith sciences, who obtained his doctorate from the University of Cambridge (1966) under Western orientalist supervision. He became a prominent Muslim academic critic of the critical approach of Ignaz Goldziher and Joseph Schacht to the history of hadith and Islamic jurisprudence, using their own philological tools rather than rejecting them from outside. Al-Azami was a professor at King Saud University in Riyadh for many years, and he also taught in Qatar and Mecca. He was educated in India at Deoband and then at al-Azhar, and he received the King Faisal International Prize for Islamic Studies in 1980.
 
 ## Critique of the Theory of "Retrospective Growth of the Isnad"
 
-Al-Azami devoted his book *On Schacht's Origins of Muhammadan Jurisprudence* (1985) to refuting Schacht's central thesis: that complete isnad chains reaching back to the Prophet emerged late and were attributed retrospectively. Relying on early manuscripts and hadith sources that he believed Schacht had not examined with sufficient care, al-Azami argued that the completion of the isnad over time is explained by improved historical documentation and the spread of the practice of recording isnads themselves, not by the invention of entirely new chains. In this way he offered an alternative explanation for the historical pattern itself that Schacht had observed, without denying its existence, but disputing its causal explanation.
+Al-Azami devoted his book *On Schacht's Origins of Muhammadan Jurisprudence* (1985) to refuting Schacht's central thesis: that complete isnad chains reaching back to the Prophet emerged late and were attributed retrospectively. Relying on early manuscripts and hadith sources that he believed Schacht had not examined with sufficient care, al-Azami argued that isnads were in use from the early period and were not a later projection backward. Schacht and his supporters, by contrast, read the same material as evidence of gradual back-projection.
 
 ## Isnad-cum-Matn Analysis and Related Work
 
@@ -42,21 +42,19 @@ In his other book, *Studies in Early Hadith Literature* (1968, based on his Camb
 
 ## His Position in the Debate
 
-Al-Azami represents what the field of Islamic studies sometimes calls the "response from within": a scholar trained academically in the very philological orientalist method, not one who rejected it from outside the field, but who deployed its tools to defend the reliability of the Islamic isnad tradition rather than dismantling it. This makes his work a living part of the Schacht debate, not merely a defensive reaction from outside the academic field, and it explains why his works continued to be cited in the Western orientalist journals to which his critique was directed.
+Al-Azami is often described as offering a "response from within": a scholar trained academically in the very philological orientalist method, not one who rejected it from outside the field, but who deployed its tools to defend the reliability of the Islamic isnad tradition rather than dismantling it. This makes his work a living part of the Schacht debate, not merely a defensive reaction from outside the academic field.
 
 ## Comparison with Other Islamic Responses to Orientalism
 
-Al-Azami shares with Mustafa al-Sibai, who preceded him with a response to Goldziher in the mid-twentieth century, one methodological strategy: confronting orientalist critique with its own philological tools, rather than relying solely on a doctrinal, rhetorical response. However, al-Azami, owing to his direct Western academic formation at Cambridge, was able to address the orientalists in their own methodological language and terminology with greater precision, and to publish his works with major Western academic presses, which broadened his influence within the very orientalist circles he criticised in a way not available to al-Sibai in his local Arab context.
+Al-Azami shares with Mustafa al-Sibai, who preceded him with a response to Goldziher in the mid-twentieth century, one methodological strategy: confronting orientalist critique with its own philological tools, rather than relying solely on a doctrinal, rhetorical response. However, al-Azami, owing to his direct Western academic formation at Cambridge, was able to address the orientalists in their own methodological language and terminology with greater precision, and to publish in English, which gave his work a readership in the very circles he criticised.
 
 ## Reception in Western Academic Circles
 
 The reception of al-Azami's works within Western orientalist circles was not unanimous. While some scholars regarded him as a serious response that deserved consideration, others remained committed to Schacht's original thesis or to modified versions of it, arguing that al-Azami had not refuted all the cases on which Schacht relied. Nevertheless, his work helped push the field toward a more precise methodological debate on how the date of the origin of hadith can be verified, a debate that continued to develop later through the work of Harald Motzki and others.
 
-## His Impact on Teaching Hadith Sciences in Saudi Universities
-
 ## His View of the Compilation of the Qur'an Compared with Hadith
 
-Al-Azami also wrote a parallel work on the history of documenting the Qur'anic text, *The History of the Qur'anic Text from Revelation to Compilation* (2003), in which he defends the accuracy of the early transmission of the Muṣḥaf, emphasising the combination of oral and written preservation. This is an apologetic-scholarly work and is regarded by many Western specialists as presenting a traditional account.
+Al-Azami also wrote a parallel work on the history of documenting the Qur'anic text, *The History of the Qur'anic Text from Revelation to Compilation* (2003), in which he defends the accuracy of the early transmission of the Muṣḥaf, emphasising the combination of oral and written preservation. Many Western specialists regard it as presenting a traditional, apologetic-scholarly account.
 
 ## Sources
 

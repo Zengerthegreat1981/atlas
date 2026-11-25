@@ -22,7 +22,7 @@ gaps: []
 
 # Helena Petrovna Blavatsky
 
-A Russian-born co-founder of the Theosophical Society (New York, 1875) with **Henry Steel Olcott**, and author of *Isis Unveiled* (1877) and *The Secret Doctrine* (1888). She is studied here as the founding figure of what scholars call "modern Western esotericism", not as a spiritual teacher whose claims are either to be believed or dismissed.
+A Russian-born co-founder of the Theosophical Society (New York, 1875) with **Henry Steel Olcott**, and author of *Isis Unveiled* (1877) and *The Secret Doctrine* (1888). She is studied here as a founding figure of what scholars call "modern Western esotericism", not as a spiritual teacher whose claims are either to be believed or dismissed.
 
 ## Main Contribution
 
@@ -42,7 +42,7 @@ In *Isis Unveiled* (1877), Blavatsky advanced a broad critique of both scientifi
 
 ## Impact on Modern Esotericism
 
-Historians of Western esotericism (Hammer, Campbell and others) agree that Blavatsky established, by fusing Asian wisdom with modern scientific terminology and the claim of "hidden masters", the discursive model that numerous esoteric movements of the twentieth century would later reproduce, up to the New Age movement of the 1970s and after.
+Historians of Western esotericism (Hammer, Campbell and others) generally hold that Blavatsky helped establish, by fusing Asian wisdom with modern scientific terminology and the claim of "hidden masters", the discursive model that numerous esoteric movements of the twentieth century would later reproduce, up to the New Age movement of the 1970s and after.
 
 ## Relation to Eastern and Islamic Heritage
 
@@ -50,19 +50,19 @@ In her writings Blavatsky made scattered references to Sufism and other Islamic 
 
 ## Contemporary Critical Reception
 
-New historians of religion continue to analyze Blavatsky's phenomenon as an early case of what is called "eclectic spirituality", which borrows elements from many traditions without deep commitment to their original context. This phenomenon recurs later in various forms in the New Age movement and beyond, which makes the study of Blavatsky an important historical entry point for understanding this broader pattern of modern religiosity.
+New historians of religion continue to analyze Blavatsky's phenomenon as an early case of what is called "eclectic spirituality", which borrows elements from many traditions without deep commitment to their original context. This phenomenon recurs later in various forms in the New Age movement and beyond, which makes the study of Blavatsky a useful historical entry point for understanding this broader pattern of modern religiosity.
 
 ## Additional Works
 
-Blavatsky also published numerous articles in the journal *The Theosophist*, which she founded in Bombay in 1879 and which was later published from Adyar, in which she explained the details of her teachings to followers and replied to her critics. It is an additional primary source documenting the development of her ideas and her responses to the continuing debate over her supernatural claims during the last years of her life in India.
+Blavatsky also published numerous articles in the journal *The Theosophist*, which she founded in Bombay in 1879 and which was later published from Adyar, in which she explained the details of her teachings to followers and replied to her critics. It is an additional primary source documenting the development of her ideas and her responses to the continuing debate over her supernatural claims during the 1880s.
 
 ## Conclusion
 
-Blavatsky remains a central figure in the history of modern esotericism. Her ideas continue to be the subject of serious academic research, despite the continuing debate over the credibility of her personal claims. She is a necessary historical reference for understanding the later development of non-institutional, eclectic modern religiosity.
+Blavatsky remains a significant figure in the history of modern esotericism. Her ideas continue to be the subject of serious academic research, despite the continuing debate over the credibility of her personal claims. She is a frequent historical reference point for understanding the later development of non-institutional, eclectic modern religiosity.
 
 ## Sources
 
-- Campbell, Bruce F. *Ancient Wisdom Revived: A History of the Theosophical Movement*. Berkeley: University of California Press, 1980..
-- Hammer, Olav. *Claiming Knowledge: Strategies of Epistemology from Theosophy to the New Age*. Leiden: Brill, 2001..
+- Campbell, Bruce F. *Ancient Wisdom Revived: A History of the Theosophical Movement*. Berkeley: University of California Press, 1980.
+- Hammer, Olav. *Claiming Knowledge: Strategies of Epistemology from Theosophy to the New Age*. Leiden: Brill, 2001.
 - Blavatsky, Helena P. *Isis Unveiled*. New York: J. W. Bouton, 1877.
 - Blavatsky, Helena P. *The Secret Doctrine: The Synthesis of Science, Religion, and Philosophy*. London: Theosophical Publishing Company, 1888.

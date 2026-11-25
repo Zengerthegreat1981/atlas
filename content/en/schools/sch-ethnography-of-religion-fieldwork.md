@@ -33,7 +33,7 @@ Modern field observation was preceded by models in the Arab heritage. Abu Rayhan
 
 ## Malinowski: Founding "Participant Observation"
 
-In his fieldwork among the Trobriand Islands (Papua New Guinea, 1915–1918), and in his book *Argonauts of the Western Pacific* (1922), Bronisław Malinowski founded the method of "participant observation": living for a long period within the studied society, mastering its language, and taking part in its daily life instead of relying on the reports of intermediaries or short visits. He applied this method to the study of magic and religious myth among the Trobrianders, affirming that religious and magical practices perform concrete psychological and social functions (relieving anxiety and maintaining group cohesion) that can be understood only through direct immersion. The publication of his personal diary in 1967 provoked debate about the gap between the ideal methodological picture and the researcher's personal experience.
+In his fieldwork among the Trobriand Islands (Papua New Guinea, 1915–1918), and in his book *Argonauts of the Western Pacific* (1922), Bronisław Malinowski is widely credited with establishing the method of "participant observation": living for a long period within the studied society, mastering its language, and taking part in its daily life instead of relying on the reports of intermediaries or short visits. He applied this method to the study of magic and religious myth among the Trobrianders, affirming that religious and magical practices perform concrete psychological and social functions (relieving anxiety and maintaining group cohesion) that can be understood only through direct immersion. The publication of his personal diary in 1967 provoked debate about the gap between the ideal methodological picture and the researcher's personal experience.
 
 ## Evans-Pritchard: The Internal Coherence of Belief
 
@@ -41,7 +41,7 @@ Edward Evans-Pritchard developed this method further in his fieldwork among the 
 
 ## Orsi: From the Distant "Other" to Nearby "Lived Religion"
 
-Robert Orsi transferred this ethnographic method, in *The Madonna of 115th Street* (1985), from the study of "other" societies distant geographically and culturally to the study of popular religious practice within contemporary Western urban societies themselves (Italian Catholic immigrants in New York), founding the method of "lived religion": a focus on the daily bodily and ritual practice of ordinary believers rather than the official doctrine of the religious institution. Nancy Ammerman and Meredith McGuire built on this in *Everyday Religion* (2007) and *Lived Religion* (2008).
+Robert Orsi transferred this ethnographic method, in *The Madonna of 115th Street* (1985), from the study of "other" societies distant geographically and culturally to the study of popular religious practice within contemporary Western urban societies themselves (Italian Catholic immigrants in New York), helping to establish the approach of "lived religion": a focus on the daily bodily and ritual practice of ordinary believers rather than the official doctrine of the religious institution. Nancy Ammerman and Meredith McGuire built on this in *Everyday Religion* (2007) and *Lived Religion* (2008).
 
 ## Hall: An Early Historical Counterpart to Vernacular Religion
 

@@ -35,5 +35,5 @@ The study is a descriptive-analytical account of a historical debate within the 
 
 ## Sources
 
-- Bursi, Adam (2022). "'You were not commanded to stroke it, but to pray nearby it': debating touch within early Islamic pilgrimage." *The Senses and Society*, 17(1). DOI: 10.1080/17458927.2021.2020604.
+- Bursi, Adam (2022). "'You were not commanded to stroke it, but to pray nearby it': debating touch within early Islamic pilgrimage." *The Senses and Society*, 17(1).
 - Coleman, Simon, and John Elsner. *Pilgrimage: Past and Present in the World Religions*. London: British Museum Press / Cambridge, MA: Harvard University Press, 1995.

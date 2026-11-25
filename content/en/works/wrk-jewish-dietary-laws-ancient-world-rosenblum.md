@@ -35,7 +35,7 @@ Rosenblum argues that Jewish dietary laws were not a fixed system from the start
 
 ## Closing Note
 
-The book remains an important contribution to showing how food rules can go beyond their direct practical function (health, hygiene) to become a complete symbolic language of identity, belonging, and collective distinction. This is a central idea in the field of food and religion studies more broadly.
+The book contributes to showing how food rules can go beyond their direct practical function (health, hygiene) to become a complete symbolic language of identity, belonging, and collective distinction. This is a central idea in the field of food and religion studies more broadly.
 
 ## Academic Reception
 

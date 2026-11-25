@@ -22,7 +22,7 @@ gaps:
 
 # The Ambivalence of the Sacred: Religion, Violence, and Reconciliation (Appleby)
 
-R. Scott Appleby's book, published in 2000 by Rowman & Littlefield in cooperation with the Carnegie Commission on Preventing Deadly Conflict, is the reference work in which he formulated the thesis of the structural "ambivalence" of religious traditions toward violence and peace.
+R. Scott Appleby's book, published in 2000 by Rowman & Littlefield in cooperation with the Carnegie Commission on Preventing Deadly Conflict, is a widely cited work in which he developed the thesis of the structural "ambivalence" of religious traditions toward violence and peace.
 
 ## Content
 
@@ -34,7 +34,7 @@ Appleby treats religion not as a single unified entity that is judged violent or
 
 ## Case Studies and the Comparative Method
 
-The book draws on case studies of conflicts around the world (for example Northern Ireland and the Balkans). It shows how religious actors played entirely contrary roles in contexts that look similar on the surface. Some fueled sectarian conflict, while others led effective initiatives for interfaith dialogue and communal reconciliation, sometimes within the same religion and the same society.
+The book draws on case studies of conflicts in several regions of the world. It shows how religious actors played quite different roles in contexts that look similar on the surface. Some fueled sectarian conflict, while others led effective initiatives for interfaith dialogue and communal reconciliation, sometimes within the same religion and the same society.
 
 ## Critique of the Two Reductive Explanations
 

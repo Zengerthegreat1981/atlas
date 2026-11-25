@@ -40,15 +40,15 @@ Thomas A. Tweed is an American researcher in religious studies who has worked in
 
 ## Impact and Critique
 
-The book is one of the early foundational works of the field of "religion, migration and transnationalism", in which other researchers such as Peggy Levitt have also worked. Many scholars praised it for combining direct field observation with deep historical analysis of the entangled religious-national symbolism, and it has become a standard reference cited in studies of Latino and Caribbean religious diaspora in North America.
+The book is an early and influential work in the field of "religion, migration and transnationalism", in which other researchers such as Peggy Levitt have also worked. Many scholars praised it for combining direct field observation with deep historical analysis of the entangled religious-national symbolism, and it has become a standard reference cited in studies of Latino and Caribbean religious diaspora in North America.
 
 ## Final Notes on Field Observation
 
-Tweed documents in detail the annual celebration of 8 September (the feast of Cuba's patroness) at the shrine, when thousands of Cuban Americans from across Florida gather, carrying images and family keepsakes from pre-revolutionary Cuba, in a scene that mixes explicit religious piety with feelings of mourning for the lost homeland and silent protest against the ruling government in Havana. Tweed observes that some of the poems and songs performed at the celebration address the patroness directly in language asking for her intercession to liberate Cuba, so that religious prayer and political supplication are interwoven in a single fabric that cannot be separated.
+Tweed discusses the annual celebration of 8 September (the feast of Cuba's patroness) at the shrine, when thousands of Cuban Americans from across Florida gather, in an event that mixes religious piety with mourning for the lost homeland and opposition to the Cuban government. Tweed shows how religious devotion and political longing for Cuba are interwoven in the celebration.
 
 ## Additional Notes on Symbolic Architecture
 
-Tweed analyzes the shrine's architecture and setting: its location on Biscayne Bay gives visitors a sea view that symbolically suggests the distance separating them from the original homeland across the sea. Tweed also documents how murals inside the shrine depict scenes from Cuban national history alongside traditional religious scenes, in a deliberate visual blend of national memory and religious doctrine that concretely embodies the book's central thesis.
+Tweed analyzes the shrine's architecture and setting: its location on Biscayne Bay gives visitors a sea view that symbolically suggests the distance separating them from the original homeland across the sea. Tweed also discusses how the shrine's mural depicts scenes from Cuban history, blending national memory with religious imagery in a way that embodies the book's central thesis.
 
 ## Additional Notes on the Concept of "Crossing and Dwelling"
 

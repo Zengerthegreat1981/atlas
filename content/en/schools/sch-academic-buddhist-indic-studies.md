@@ -30,7 +30,7 @@ A European academic field that emerged in the nineteenth century around the crit
 
 ## Burnouf: Founding Buddhist Studies
 
-Eugène Burnouf, in *Introduction to the History of Indian Buddhism* (1844) and his posthumously published translation of the Lotus Sutra (*Le Lotus de la bonne loi*, 1852), marked the founding moment of Western academic "Buddhist Studies." He relied on rare Sanskrit manuscripts from Nepal and analyzed their textual strata historically with a philological precision unmatched in Europe at the time.
+Eugène Burnouf, in *Introduction to the History of Indian Buddhism* (1844) and his posthumously published translation of the Lotus Sutra (*Le Lotus de la bonne loi*, 1852), marked the founding moment of Western academic "Buddhist Studies." He relied on rare Sanskrit manuscripts from Nepal and analyzed their textual strata historically with notable philological rigour for its time.
 
 ## Müller: Editing the Veda and the "Sacred Books of the East"
 
@@ -54,7 +54,7 @@ In the mid-twentieth century Edward Conze continued the project of translation a
 
 ## Early Arab Precedents: al-Biruni, al-Shahrastani and the Story of Bilawhar and Budhasaf
 
-Centuries before European orientalism, works on Indian religions were written in Arabic. The most important is Abu al-Rayhan al-Biruni's *Tahqiq ma li-l-Hind min maqula maqbula fi al-'aql aw mardhula* (circa 1030 CE). He wrote it after living at the Ghaznavid court, traveling to northern India, and learning Sanskrit from its scholars. In it al-Biruni summarized material from Patanjali's *Yoga Sutra* and the *Samkhya*, and included passages from the *Bhagavad Gita*. He described the doctrines of transmigration, liberation and the caste system. He presented Indian ideas in their own terms rather than in the terms of their opponents, noted that the common people of India differ from its scholars, and called for fairness in transmitting what the Indians had. Edward Sachau edited the Arabic original in 1887 and translated it into English in 1888 in London, and the book thus entered the formation of European knowledge. Al-Shahrastani (d. 548 AH / 1153 CE) addressed the doctrines of India, including those of the Buddhists and the Brahmins, in *al-Milal wa-l-nihal*. The story of the Buddha passed into Arabic in the *Book of Bilawhar and Budhasaf*, which drew on earlier Middle Iranian material and later appeared in Islamic versions, including Ibn Babawayh's *Kamal al-Din wa-tamam al-ni'ma*. The same story reached Europe, through Georgian and Greek versions, as the legend of Barlaam and Josaphat. Daniel Gimaret edited the Ismaili version (Droz, 1971). The Arabic word *budd*, meaning idol, is widely held to derive from the name of the Buddha, which suggests that Buddhist images entered Islamic discourse early as images of idols.
+Centuries before European orientalism, works on Indian religions were written in Arabic. A major example is Abu al-Rayhan al-Biruni's *Tahqiq ma li-l-Hind min maqula maqbula fi al-'aql aw mardhula* (circa 1030 CE). He wrote it after living at the Ghaznavid court, traveling to northern India, and learning Sanskrit from its scholars. In it al-Biruni summarized material from Patanjali's *Yoga Sutra* and the *Samkhya*, and included passages from the *Bhagavad Gita*. He described the doctrines of transmigration, liberation and the caste system. He presented Indian ideas in their own terms rather than in the terms of their opponents, noted that the common people of India differ from its scholars, and called for fairness in transmitting what the Indians had. Edward Sachau edited the Arabic original in 1887 and translated it into English in 1888 in London, and the book thus entered the formation of European knowledge. Al-Shahrastani (d. 548 AH / 1153 CE) addressed the doctrines of India, including those of the Buddhists and the Brahmins, in *al-Milal wa-l-nihal*. The story of the Buddha passed into Arabic in the *Book of Bilawhar and Budhasaf*, which drew on earlier Middle Iranian material and later appeared in Islamic versions, including Ibn Babawayh's *Kamal al-Din wa-tamam al-ni'ma*. The same story reached Europe, through Georgian and Greek versions, as the legend of Barlaam and Josaphat. Daniel Gimaret edited the Ismaili version (Droz, 1971). The Arabic word *budd*, meaning idol, is often held to derive from the name of the Buddha, which would suggest that Buddhist images entered Islamic discourse early as images of idols.
 
 ## From Philology to Social History
 
@@ -62,7 +62,7 @@ As the field moved in Europe into a new phase, a later generation turned to the 
 
 ## Methodological Notes
 
-This line of work shows that the textual approach produced investigations that remain indispensable, but it relied on official records held in monastery archives and gave them weight at the expense of everyday practice. Many questions therefore remained open: how a monk moves between the roles of teacher, property owner and healer, and for whom he reads and teaches the texts. Modern ethnography in Sri Lanka, Thailand and Burma has partly filled this gap. However, many traditions, such as Buddhism in Central Asia where it interacted with Islam, have remained less studied.
+This line of work shows that the textual approach produced investigations that remain indispensable, but it relied heavily on normative monastic and scholastic texts and gave them weight at the expense of everyday practice. Many questions therefore remained open: how a monk moves between the roles of teacher, property owner and healer, and for whom he reads and teaches the texts. Modern ethnography in Sri Lanka, Thailand and Burma has partly filled this gap. However, many traditions, such as Buddhism in Central Asia where it interacted with Islam, have remained less studied.
 
 ## Sources
 
@@ -73,5 +73,6 @@ This line of work shows that the textual approach produced investigations that r
 - Müller, F. Max (ed.) (1879–1910). *Sacred Books of the East* (50 vols.). Clarendon Press.
 - Lopez, Donald S. (1995). *Curators of the Buddha: The Study of Buddhism under Colonialism*. University of Chicago Press.
 - Lamotte, Étienne (1958). *Histoire du bouddhisme indien: des origines à l'ère Śaka*. Louvain: Bibliothèque du Muséon.
+- Oldenberg, Hermann (1881). *Buddha: Sein Leben, seine Lehre, seine Gemeinde*. Berlin: Hertz.
 - Schopen, Gregory (1997). *Bones, Stones, and Buddhist Monks*. Honolulu: University of Hawai'i Press.
 - Almond, Philip C. (1988). *The British Discovery of Buddhism*. Cambridge University Press.
