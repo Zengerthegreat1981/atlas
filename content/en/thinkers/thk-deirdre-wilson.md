@@ -9,7 +9,7 @@ cultural_origin: "anglo-european"
 title: "Deirdre Wilson"
 en: "Deirdre Wilson"
 crumb: "Linguistics ← Thinkers ← Deirdre Wilson"
-dates: "Britain (London) · contemporary"
+dates: "Britain · born 1941"
 country: "Britain"
 language: "English"
 active_start: 1975
@@ -18,17 +18,16 @@ edges:
 - rel: "belongs_to", target: "Relevance Theory", target_type: "مدرسة"
 related:
 - id: "thk-dan-sperber", title: "Dan Sperber", type: "مفكر"
-gaps:
-  - "Birth date: not yet covered."
+gaps: []
 ---
 
 # Deirdre Wilson
 
-A British linguist, Emeritus Professor at University College London, who co-founded **Relevance Theory** with Dan Sperber, one of the most important contemporary cognitive pragmatic frameworks.
+Deirdre Wilson (born 1941) is a British linguist and Emeritus Professor of Linguistics at University College London. She has also been a research professor at the Centre for the Study of Mind in Nature at the University of Oslo. With Dan Sperber she developed **Relevance Theory**, an influential cognitive pragmatic framework. She studied at Somerville College, Oxford, and took her doctorate at the Massachusetts Institute of Technology, where Noam Chomsky was her advisor.
 
 ## Contribution to Relevance Theory
 
-Together with Sperber, she developed a model that explains linguistic communication by a single cognitive principle: the search for relevance (the greatest cognitive effect for the least processing effort). This replaces Grice's system of social conversational rules. Their foundational book, *Relevance: Communication and Cognition*, was first published in 1986 (with a revised second edition in 1995). It proposed that linguistic comprehension is an inferential process (not a simple encoding-decoding operation), in which the addressee follows a path of least effort and stops at the first interpretation that satisfies the expectation of relevance. This replaces Paul Grice's maxims (Quantity, Quality, Relation and Manner).
+Together with Sperber, she developed a model that explains linguistic communication by a cognitive principle of relevance: positive cognitive effects balanced against processing effort. This is offered in place of Grice's system of conversational maxims. Their foundational book, *Relevance: Communication and Cognition*, was first published in 1986 (with a revised second edition in 1995). It proposed that linguistic comprehension is an inferential process (not a simple encoding-decoding operation), in which the addressee follows a path of least effort and stops at the first interpretation that satisfies the expectation of relevance. This replaces Paul Grice's maxims (Quantity, Quality, Relation and Manner).
 
 ## Applications to Metaphor and Irony
 
@@ -40,7 +39,7 @@ Within Relevance Theory, Wilson and Sperber have argued that pragmatic comprehen
 
 ## Impact
 
-Together with Sperber, she established a cognitive pragmatic framework that is among the most influential in contemporary pragmatics. It competes with the traditional Gricean school and offers a psychologically grounded alternative that can be tested experimentally. She taught and supervised researchers in pragmatics at University College London, and the theory has been developed by others in areas such as discourse analysis, literary interpretation and translation.
+With Sperber, she set out a cognitive pragmatic framework that is widely used in contemporary pragmatics. It offers a psychologically oriented alternative to classical Gricean pragmatics and has been taken up in experimental work. She taught and supervised researchers in pragmatics at University College London. Among those who developed the theory further is Robyn Carston, especially on explicature and lexical pragmatics. The framework has also been applied in discourse analysis, literary interpretation and translation.
 
 ## Critique of the Gricean System
 

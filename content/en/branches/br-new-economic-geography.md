@@ -18,7 +18,7 @@ gaps: []
 
 # New Economic Geography: Industrial Clustering and Increasing Returns in Space
 
-A current within neoclassical economics, launched by Paul Krugman with his influential 1991 article "Increasing Returns and Economic Geography." In it, Krugman reformulated an old question raised by Alfred Marshall in the nineteenth century about "industrial districts" (why particular industries cluster geographically in specific regions rather than spreading evenly across space), using rigorous modern mathematical tools amenable to quantitative modelling. For decades this question had belonged to descriptive, non-mathematical economic geography, separated from the prevailing neoclassical theories of trade and growth.
+A current within neoclassical economics, given its central model by Paul Krugman in "Increasing Returns and Economic Geography" (1991). Krugman took up a question Alfred Marshall had raised in the late nineteenth century about industrial districts: why particular industries cluster in a few places rather than spread evenly. Earlier location theory, associated with Johann Heinrich von Thünen, Alfred Weber and August Lösch, had already treated space formally, but it sat largely outside the general-equilibrium trade models then standard in economics. Krugman restated agglomeration inside that framework, with a monopolistic-competition market structure of the Dixit–Stiglitz type and transport costs that can be solved numerically.
 
 ## The clustering model: increasing returns and transport costs
 
@@ -45,3 +45,4 @@ The conclusions of the new economic geography have also been used to evaluate "r
 - Krugman, Paul. "Increasing Returns and Economic Geography." *Journal of Political Economy*, vol. 99, no. 3, 1991, pp. 483–499.
 - Krugman, Paul. *Geography and Trade*. MIT Press, 1991.
 - Fujita, Masahisa, Paul Krugman, and Anthony J. Venables. *The Spatial Economy: Cities, Regions, and International Trade*. MIT Press, 1999.
+- Dixit, Avinash K., and Joseph E. Stiglitz. "Monopolistic Competition and Optimum Product Diversity." *American Economic Review*, vol. 67, no. 3, 1977, pp. 297–308.

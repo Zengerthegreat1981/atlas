@@ -9,10 +9,10 @@ cultural_origin: "anglo-european"
 title: "Deep Structure and Surface Structure"
 en: "Deep Structure and Surface Structure"
 crumb: "Linguistics ← Concepts ← Deep Structure and Surface Structure"
-dates: "United States (MIT) · from 1957"
+dates: "United States (MIT) · 1965–1995"
 language: "English"
-active_start: 1957
-active_end: 1980
+active_start: 1965
+active_end: 1995
 edges:
 - rel: "belongs_to", target: "Generative-Transformational Grammar", target_type: "مدرسة"
 related:
@@ -23,7 +23,7 @@ gaps: []
 
 # Deep Structure and Surface Structure
 
-A central distinction in early generative grammar between two syntactic levels of the sentence. Its roots lie in the transformational analysis of *Syntactic Structures* (Chomsky, 1957), which worked with "kernel sentences" and transformations; the terms "deep structure" and "surface structure" themselves were formalized in *Aspects of the Theory of Syntax* (Chomsky, 1965):
+A distinction in early generative grammar between two syntactic levels of the sentence. *Syntactic Structures* (Chomsky, 1957) worked with kernel sentences and transformations and did not yet use these two terms. The terms deep structure and surface structure were introduced in *Aspects of the Theory of Syntax* (Chomsky, 1965):
 
 - **Deep structure**: the underlying syntactic representation that carries the basic grammatical-semantic relations among the components of the sentence (of subject, verb and object).
 - **Surface structure**: the form actually visible in the sentence after the application of **transformational rules**, such as transforming an active sentence into a passive, forming a question, or negation.
@@ -34,7 +34,7 @@ This distinction explains how two sentences that differ on the surface (such as 
 
 ## The fate of the concept
 
-This distinction was substantially modified in later stages of the theory (the Extended Standard Theory of the 1970s, and then Government and Binding theory), and deep structure as a distinct level was abandoned in the Minimalist Program of the 1990s. The account above therefore describes the original formulation of roughly 1957-1965 and is not the final formulation of generative grammar.
+Later stages changed the distinction. In the Extended Standard Theory, semantic interpretation was no longer read only from deep structure. Government and Binding theory (Chomsky 1981) kept two syntactic levels, renamed D-structure and S-structure. The Minimalist Program, as set out in Chomsky (1995), drops both as designated levels of representation. The account here is the Standard Theory formulation of 1965, not the later theory.
 
 ## Illustrative examples
 
@@ -46,11 +46,13 @@ Transformational rules were the formal mechanism linking the two levels. They ar
 
 ## The debate over the psychological reality of deep structure
 
-This distinction provoked wide experimental debate in the 1960s over whether deep structure is a "psychologically real" representation that is actually processed in the speaker's mind during the production and comprehension of sentences, or merely a convenient formal tool for describing semantic relations without claiming correspondence to actual mental processes. Psycholinguists (such as George Miller and Thomas Bever) conducted experiments measuring reaction time in understanding sentences with multiple transformations (such as negated passives), on the assumption that the more transformational steps required to return from surface to deep structure, the greater the difficulty and processing time would be (the "Derivational Theory of Complexity"). However, the results were contradictory and did not clearly support the hypothesis, which led many to question whether there is a direct correspondence between the steps of formal syntactic derivation and the actual steps of mental processing.
+The distinction prompted experiments in the 1960s on whether deep structure is a representation speakers compute, or only a descriptive device. The derivational theory of complexity predicted that sentences requiring more transformations (for example, negative passives) would take longer to process. Chronometric studies such as Miller and McKean (1964) tested relations among sentence types. Results were mixed, and later work, including critiques associated with Thomas Bever and colleagues, argued against a direct match between the number of formal transformations and the steps of comprehension.
 
 ## Sources
 
 - Chomsky, Noam (1957). *Syntactic Structures*. Mouton.
 - Chomsky, Noam (1965). *Aspects of the Theory of Syntax*. MIT Press.
+- Katz, Jerrold J.; Postal, Paul M. (1964). *An Integrated Theory of Linguistic Descriptions*. MIT Press.
+- Chomsky, Noam (1981). *Lectures on Government and Binding*. Foris.
 - Chomsky, Noam (1995). *The Minimalist Program*. MIT Press.
 - Miller, George A.; McKean, Kathryn O. (1964). "A Chronometric Study of Some Relations between Sentences." *Quarterly Journal of Experimental Psychology* 16(4), 297-308.

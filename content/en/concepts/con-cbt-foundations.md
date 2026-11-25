@@ -22,7 +22,7 @@ gaps: []
 
 A psychotherapeutic approach built on a central premise: that **disturbed emotions and behaviors** do not arise directly from the external events themselves, but from the **interpretations and thoughts** the person builds about those events. Modifying these distorted thoughts, together with modifying the behaviors associated with them, is the essence of the treatment.
 
-## The Two Founders: Ellis and Beck
+## Ellis and Beck
 
 In the mid-1950s the American psychologist **Albert Ellis** developed **rational therapy** (renamed rational emotive behavior therapy, REBT, in 1993), explicitly influenced by Stoic philosophy and citing the saying of Epictetus (in the *Enchiridion*) that people are disturbed not by things but by the views they take of them. Ellis formulated the **ABC model**: the Activating Event, the Belief about it, and the emotional and behavioral Consequence. He focused on challenging rigid **irrational beliefs** (such as "everyone must love me all the time").
 
@@ -30,7 +30,7 @@ In the 1960s the psychiatrist **Aaron Beck** independently developed **cognitive
 
 ## Merging with Behavior Therapy
 
-These two cognitive foundations were later merged with the older tradition of **behavior therapy** (based on the principles of classical and operant conditioning, with figures such as Skinner, Wolpe, and Eysenck) to form **cognitive behavioral therapy** (CBT) in its modern form. This is a structured therapeutic framework, usually time-limited, that combines **cognitive** techniques (cognitive restructuring, challenging automatic thoughts) and **behavioral** techniques (behavioral activation, gradual exposure, practical homework assignments) to address the pattern of thought and behavior together rather than either one alone.
+These cognitive methods were later combined with the older tradition of **behavior therapy**. That tradition drew on classical and operant conditioning, including B. F. Skinner's analysis of operant behavior, Joseph Wolpe's systematic desensitization, and Hans Eysenck's advocacy of behavior therapy in Britain. The combined **cognitive behavioral therapy** (CBT) is a structured, usually time-limited framework. It uses **cognitive** techniques (identifying automatic thoughts, testing them against evidence, and working with underlying schemas) and **behavioral** techniques (behavioral activation, graded exposure, and homework). A component study by Jacobson and colleagues (1996) found that the behavioral-activation portion of cognitive therapy for depression accounted for much of the acute improvement in that trial, which is one reason later protocols sometimes use behavioral activation on its own. An early randomized comparison by Rush, Beck, Kovacs, and Hollon (1977) reported greater improvement with cognitive therapy than with imipramine by the end of acute treatment in that outpatient sample. The trial was small. Later comparisons have often found smaller differences when medication is adequately delivered and when the comparison treatment is itself active.
 
 ## Structure and General Principles
 
@@ -47,3 +47,5 @@ CBT is today one of the most widely studied approaches to psychotherapy through 
 - Ellis, Albert. *Reason and Emotion in Psychotherapy*. New York: Lyle Stuart, 1962.
 - Beck, Judith S. *Cognitive Behavior Therapy: Basics and Beyond*, 3rd ed. New York: Guilford Press, 2020.
 - Hofmann, Stefan G., et al. "The Efficacy of Cognitive Behavioral Therapy: A Review of Meta-analyses." *Cognitive Therapy and Research* 36, no. 5 (2012): 427–440.
+- Rush, A. John, Aaron T. Beck, Maria Kovacs, and Steven Hollon. "Comparative Efficacy of Cognitive Therapy and Pharmacotherapy in the Treatment of Depressed Outpatients." *Cognitive Therapy and Research* 1, no. 1 (1977): 17–37.
+- Jacobson, Neil S., et al. "A Component Analysis of Cognitive-Behavioral Treatment for Depression." *Journal of Consulting and Clinical Psychology* 64, no. 2 (1996): 295–304.

@@ -19,11 +19,11 @@ gaps: []
 
 # The Semiotic Square (Greimas)
 
-The central analytical tool of Greimas's semiotics: a four-term logical structure that organizes the latent semantic relations between any two opposed concepts within a text or cultural system. It is inspired by the Aristotelian logical square of opposition.
+A four-term model in Greimassian semiotics that lays out relations among two contrary terms and their negations. The elementary structure of meaning is already a theme of *Sémantique structurale* (1966). The square itself was set out with François Rastier in "The Interaction of Semiotic Constraints" (1968). It adapts, and does not copy, the Aristotelian square of opposition.
 
 ## The Four Relations
 
-The square builds relations among four terms: the original term (S1, such as "life"), its contrary (S2, "death," a relation of contrariety), the negation of the first term (Not-S1, "non-life," a relation of logical contradiction), and the negation of the second term (Not-S2, "non-death," also a relation of contradiction). The two contraries (S1 and S2) are linked by contrariety; each term is in contradiction with its negation; and Not-S2 implies S1 while Not-S1 implies S2. They reveal the field of latent semantic possibilities, which a text may not fully exploit explicitly, but which form the implicit logical background of any conceptual binary.
+The four positions are an initial term (S1, for example "life"), its contrary (S2, "death"), and the two contradictories Not-S1 ("non-life") and Not-S2 ("non-death"). S1 and S2 are contraries; S1 contradicts Not-S1, and S2 contradicts Not-S2; Not-S1 and Not-S2 are subcontraries. In the classical square, a term entails the negation of its contrary (life entails non-death). Greimas also draws an implication the other way, from Not-S2 to S1 and from Not-S1 to S2, because he uses those arrows for narrative passage from one contrary to the other. The two directions should not be collapsed. The square is a map of positions a text may leave empty, not a proof that every binary hides all four terms.
 
 ## Going Beyond Simple Binarity
 
@@ -35,7 +35,7 @@ The semiotic square became a standard analytical tool in the analysis of narrati
 
 ## The Narrative Trajectory across the Square
 
-Greimas developed the square into a dynamic rather than merely static tool. The "narrative trajectory" of a story can be traced as a movement among the terms of the square over time. A typical path runs from S1 through Not-S1 (the negation of the initial term) to S2 (the assertion of its contrary), as when a narrative moves from one value to its opposite by way of the negation of the first. The square thus becomes a model for the movement of the plot, from initial state to final transformation.
+Greimassian narrative theory also uses the square dynamically. One operation of negation moves from S1 to Not-S1; a further operation of assertion can then move from Not-S1 to S2. A story may be described as traveling that path, from a value through its contradiction to the contrary value. That path is a use of the square. It is distinct from the canonical narrative schema (manipulation, competence, performance, and sanction), which is a separate Greimassian model and is not itself a tour of the four corners.
 
 ## Its Relationship to the Actantial Model
 

@@ -22,27 +22,27 @@ gaps: []
 ---
 # Kenneth Arrow
 
-**Kenneth Arrow** was an American economist, one of the most influential and prolific economists of the twentieth century. He is known for two pivotal contributions in this Atlas: the rigorous mathematical proof, together with Gérard Debreu, of the existence of a competitive general equilibrium, and his well-known theory of the impossibility of constructing a consistent social welfare function from individual preferences.
+**Kenneth Arrow** was an American economist. Two results carry his name through this atlas: the proof, with Gérard Debreu, that a competitive general equilibrium exists under stated conditions, and the theorem that no social welfare function can aggregate individual preferences while meeting a short list of conditions.
 
 ## Origins in New York and Rigorous Mathematical Training
 
-Arrow grew up in New York City during the Great Depression, an experience that shaped his early awareness of the fragility of unregulated markets. He then studied mathematics and statistics at Columbia University, where he was a student of the statistician Harold Hotelling. This rigorous mathematical training gave him advanced analytical tools, which he later used to address complex economic problems with a logical rigour unprecedented at the time.
+Arrow grew up in New York City during the Great Depression. He studied mathematics at the City College of New York and then mathematics and statistics at Columbia University, where Harold Hotelling was his teacher. That training supplied the tools of his later economic proofs.
 
 ## The Impossibility Theorem: The Doctoral Thesis That Shook the Field
 
-In his doctoral dissertation, and then in his book *Social Choice and Individual Values* (1951), Arrow presented a striking mathematical proof: there is no way of aggregating the preferences of individuals in a society (however large) into a single consistent social ordering that simultaneously respects a set of reasonable conditions of procedural fairness (non-dictatorship, unanimity or the Pareto principle, unrestricted domain, and independence of irrelevant alternatives), when there are at least three alternatives. This result, known as **Arrow's impossibility theorem**, shook the foundations of welfare economics as a whole and established an entirely new research field: social choice theory.
+In his doctoral dissertation, published as *Social Choice and Individual Values* (1951), Arrow proved that, with at least three alternatives and a finite number of voters, no social welfare function can turn individual preference orderings into a social ordering while satisfying unrestricted domain, the Pareto principle, independence of irrelevant alternatives, and non-dictatorship together. **Arrow's impossibility theorem** redirected welfare economics and opened the research field of social choice theory.
 
 ## The Existence Proof for General Equilibrium with Debreu
 
-Together with Gérard Debreu, Arrow published in 1954 a landmark research paper that proved mathematically, using tools from topology (fixed-point theorems), that the general equilibrium model formulated mathematically by Léon Walras in the nineteenth century has an actual solution under certain conditions. This settled the problem of "existence of equilibrium" that had remained unresolved for decades since Walras himself. This achievement is known as the **Arrow-Debreu model**, and it is considered one of the most precise mathematical achievements in the history of economics.
+With Gérard Debreu, Arrow published in 1954 a paper that uses a fixed-point theorem to prove that a Walrasian competitive economy has an equilibrium under conditions that include convex preferences and technology. That result is the **Arrow–Debreu model**. It answered the existence question Walras had left open; it did not show that any actual economy sits at such an equilibrium.
 
 ## The Two Fundamental Theorems of Welfare Economics
 
-Arrow and Debreu, working independently in 1951, also gave rigorous proofs of what are known as the "two fundamental theorems of welfare economics". The first states that any competitive equilibrium is necessarily Pareto efficient. The second states that any Pareto-efficient allocation that is desired can be reached through the competitive market mechanism, provided that the initial endowments of resources are redistributed beforehand. These two theorems linked general equilibrium theory and the concept of Pareto efficiency in a rigorous mathematical way, which became a basic normative pillar of advanced microeconomics.
+In separate 1951 papers, Arrow and Debreu also proved the two fundamental theorems of welfare economics under stated conditions (including convexity and local non-satiation). The first says that a competitive equilibrium is Pareto efficient. The second says that a Pareto-efficient allocation can be supported as a competitive equilibrium after a suitable redistribution of endowments. The theorems connect general equilibrium with Paretian welfare economics; they do not say that every real market meets the conditions.
 
 ## Broader Contributions to Information and Growth Economics
 
-Arrow's contributions went beyond general equilibrium theory into several other fields, including the economics of asymmetric information (particularly in his 1963 article on the economics of medical care) and the theory of growth through the concept of "learning by doing" (1962), which later influenced endogenous growth theory. This reflects an exceptional breadth of research interests rarely found in a single economist.
+Arrow's contributions went beyond general equilibrium theory into several other fields, including the economics of asymmetric information (particularly in his 1963 article on the economics of medical care) and the theory of growth through the concept of "learning by doing" (1962), which later influenced endogenous growth theory. The range runs from medical care to technical change.
 
 ## The Nobel Prize
 
@@ -54,7 +54,7 @@ Arrow served as an officer in the United States Army Air Forces during the Secon
 
 ## A Broad Institutional Influence on the Next Generation
 
-Arrow supervised and taught a large number of economists, several of whom went on to win Nobel Prizes. He thus served as a direct institutional link between the founding generation of mathematical general equilibrium theory in the mid-twentieth century and the generations of theoretical and applied economists who later expanded into information economics, social choice and endogenous growth. His legacy became embedded in the core of contemporary economic research across its branches, from finance to environmental economics to collective decision theory.
+Arrow supervised a number of economists who later received the Nobel Memorial Prize, among them Michael Spence and Eric Maskin. His students and his papers carried general-equilibrium and social-choice methods into information economics, finance (through contingent claims, or "Arrow securities") and environmental economics.
 
 ## Sources
 

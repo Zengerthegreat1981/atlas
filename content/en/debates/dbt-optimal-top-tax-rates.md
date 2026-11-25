@@ -8,8 +8,8 @@ title: "The Optimal Top Tax Rates Debate"
 en: "The Optimal Top Tax Rates Debate"
 crumb: "Political Economy ← Debates ← The Optimal Top Tax Rates Debate"
 economic_school: "Public finance and optimal taxation theory"
-active_start: 1974
-active_end: 2014
+active_start: 1971
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Public Finance and Optimal Taxation", target_type: "مدرسة"
 related:
@@ -22,9 +22,13 @@ gaps: []
 
 What is the highest tax rate that can be imposed on the wealthiest income bracket before tax revenues themselves begin to fall, because of reduced incentives to work, invest and report income honestly? This is the core of a long-standing economic and political debate that has swung between a well-known economic argument warning against excessive progressive taxation, and more recent empirical research suggesting that optimal rates may be much higher than was widely believed in recent decades.
 
+## From Mirrlees's optimum to a formula for the top rate
+
+The modern theory of the optimal income-tax schedule begins with James Mirrlees, "An Exploration in the Theory of Optimum Income Taxation" (*Review of Economic Studies*, 1971). The government observes income, not ability, so a more progressive schedule changes how much high-ability people choose to earn. Emmanuel Saez, "Using Elasticities to Derive Optimal Income Tax Rates" (*Review of Economic Studies*, 2001), wrote the revenue-maximizing top marginal rate in terms of the elasticity of taxable income and the shape of the top of the income distribution. Diamond and Saez (2011) is a calibration of that approach, not the start of the literature.
+
 ## The Laffer curve: a warning against excessive taxation
 
-In the 1970s the economist Arthur Laffer put forward a simple visual idea (often compared with earlier observations on the effect of heavy taxation, such as those of Ibn Khaldun in the *Muqaddimah* in the fourteenth century) that deeply influenced US tax policy under Reagan: the relationship between the tax rate and tax revenue is not linear, but takes the form of a curve that starts at zero (no tax, no revenue), rises with the tax to a maximum point, and then declines as the tax increases further (because individuals work less, invest less, move their money abroad, or evade taxes), and at a rate of 100% revenue falls back to zero because no incentive remains to do taxable work. This idea was used to justify major tax cuts for upper brackets in the 1980s, on the argument that American rates (the top federal rate was 70% before the 1981 tax cut, which lowered it to 50%, and the 1986 reform lowered it to 28%) were on the "wrong" side of the curve.
+In the 1970s Arthur Laffer popularised a simple diagram, reportedly sketched for US officials in 1974, that influenced the Reagan tax cuts. Tax revenue is zero at a rate of zero and zero at a rate of 100 percent, and positive in between, so there is some rate beyond which a further increase lowers revenue because people work less, invest less, shift income or evade tax. The shape alone does not say where current rates sit. The diagram is sometimes loosely compared with Ibn Khaldun's remarks in the *Muqaddimah* on excessively heavy taxation; that is an analogy drawn by later writers, not a shared model. In the United States the top statutory federal rate on ordinary income was 70 percent before the Economic Recovery Tax Act of 1981, which reduced it to 50 percent; a 50 percent maximum already applied to much earned income. The Tax Reform Act of 1986 set a top statutory rate of 28 percent, with a 33 percent rate where lower brackets and exemptions were phased out. Advocates treated pre-1981 rates as being past the revenue peak. That claim is an empirical assertion about elasticities, not a consequence of the diagram.
 
 ## Diamond and Saez's critique: optimal rates far higher than assumed
 
@@ -47,3 +51,5 @@ This research has fuelled actual political campaigns to raise taxes on upper bra
 - Diamond, Peter, and Emmanuel Saez. "The Case for a Progressive Tax: From Basic Research to Policy Recommendations." *Journal of Economic Perspectives*, vol. 25, no. 4, 2011, pp. 165–190.
 - Piketty, Thomas, Emmanuel Saez, and Stefanie Stantcheva. "Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities." *American Economic Journal: Economic Policy*, vol. 6, no. 1, 2014, pp. 230–271.
 - Laffer, Arthur B. "The Laffer Curve: Past, Present, and Future." Heritage Foundation Backgrounder, no. 1765, 2004.
+- Mirrlees, J. A. "An Exploration in the Theory of Optimum Income Taxation." *Review of Economic Studies*, vol. 38, no. 2, 1971, pp. 175–208.
+- Saez, Emmanuel. "Using Elasticities to Derive Optimal Income Tax Rates." *Review of Economic Studies*, vol. 68, no. 1, 2001, pp. 205–229.

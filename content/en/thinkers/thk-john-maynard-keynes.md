@@ -25,15 +25,15 @@ gaps: []
 ---
 # John Maynard Keynes
 
-**John Maynard Keynes** was a British economist regarded as one of the most influential economic thinkers of the twentieth century. His book *The General Theory of Employment, Interest and Money* (1936) marked a methodological break with the prevailing classical economics and founded an entire new field later known as modern macroeconomics. He also played a direct practical role in designing the international financial system after the Second World War.
+**John Maynard Keynes** was a British economist whose *General Theory of Employment, Interest and Money* (1936) broke with the classical presumption that market economies return on their own to full employment. That book became the reference point for what was later called modern macroeconomics. He also took a direct part in designing the international monetary system after the Second World War.
 
 ## From Cambridge to the British Treasury
 
 Keynes studied mathematics at King's College, Cambridge, before moving to economics under the influence of his teacher **Alfred Marshall**. He worked at the British Treasury during the First World War, which gave him direct experience of practical economic policy. He first gained fame with *The Economic Consequences of the Peace* (1919), in which he sharply criticized the heavy reparations imposed on Germany by the Treaty of Versailles, warning that they would sow the seeds of a later European economic and political crisis.
 
-## From a critical theory to a revolution in macroeconomics
+## From monetary theory to the *General Theory*
 
-Keynes worked throughout the 1920s to develop his ideas on money and the business cycle, publishing *A Tract on Monetary Reform* (1923) and *A Treatise on Money* (1930). The Great Depression of the 1930s, however, and the failure of classical economics to explain the persistence of mass unemployment for many years, led him to formulate a radical theoretical break in the *General Theory*. In it, the economy can settle at an equilibrium with long-lasting involuntary unemployment, and no automatic market mechanism guarantees a return to full employment. This contradicted the classical doctrine of **Say's law**, according to which supply creates its own demand.
+Keynes worked throughout the 1920s to develop his ideas on money and the business cycle, publishing *A Tract on Monetary Reform* (1923) and *A Treatise on Money* (1930). The Great Depression of the 1930s, and the failure of classical arguments to account for mass unemployment that lasted for years, led him to the break set out in the *General Theory*. In it, the economy can settle at an equilibrium with long-lasting involuntary unemployment, and no automatic market mechanism guarantees a return to full employment. This contradicted the classical doctrine of **Say's law**, according to which supply creates its own demand.
 
 ## Effective demand and liquidity preference
 
@@ -53,7 +53,7 @@ Keynes represented Britain at the **Bretton Woods conference** of 1944, which re
 
 ## Criticism from the Austrian school
 
-Keynes faced sharp counter-criticism from **Friedrich Hayek**, who saw in the prescription of intensive financial and monetary state intervention a structural threat to economic freedom. He feared that such intervention might gradually slide toward comprehensive central planning, which would threaten political freedoms themselves. Hayek's *The Road to Serfdom* (1944) developed this concern about planning more generally; Keynes wrote to Hayek privately that he agreed with much of the book while doubting that moderate intervention would lead down that road. The Keynes–Hayek debate became one of the best-known ideological polarizations in the history of modern economic thought.
+**Friedrich Hayek** criticized the case for sustained state management of investment and money, treating discretionary planning as a threat to economic and political liberty. *The Road to Serfdom* (1944) states that concern about central planning in general. Keynes wrote to Hayek in June 1944 that he was in sympathy with much of the book, while doubting that moderate public action must end in comprehensive planning. The exchange is one of the standard reference points in twentieth-century political economy.
 
 ## Early death and enduring legacy
 

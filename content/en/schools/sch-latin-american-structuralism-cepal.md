@@ -13,7 +13,7 @@ language: "Spanish"
 economic_school: "Latin American Structuralism"
 policy_orientation: "Interventionist and protectionist: import-substituting industrialization and a central state role in planning trade"
 active_start: 1949
-active_end: 1980
+active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Development Economics", target_type: "مدرسة"
 related:
@@ -30,7 +30,7 @@ gaps: []
 
 ## Challenging classical comparative advantage
 
-The CEPAL school challenged a central assumption of classical trade theory: that specialization according to comparative advantage (the periphery exporting primary commodities and importing manufactured goods from the industrial "centre") benefits both sides equally over time. Prebisch argued that this model overlooks an unequal structure in the distribution of the gains from trade between the industrial centre and the primary-exporting periphery.
+The CEPAL school challenged a central assumption of classical trade theory: that specialization according to comparative advantage (the periphery exporting primary commodities and importing manufactured goods from the industrial "centre") is mutually beneficial in a way that, over time, supports the periphery's development. Prebisch argued that this model overlooks an unequal structure in the distribution of the gains from trade between the industrial centre and the primary-exporting periphery.
 
 ## The Prebisch–Singer hypothesis: deterioration of the terms of trade
 

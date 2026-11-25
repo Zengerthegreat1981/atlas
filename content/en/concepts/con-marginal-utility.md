@@ -35,7 +35,7 @@ Economists use the concept of marginal utility to formulate a precise mathematic
 
 ## From consumption to production and distribution
 
-The concept was later extended to the factors of production themselves, not consumption alone. **John Bates Clark** developed the theory of **marginal productivity**, proposing that the wage of a worker and the profit of capital are determined by their marginal productivity in a competitive market. This made the principle of marginal utility the foundation for a comprehensive neoclassical theory of income distribution among wages, profits and rent across the economy as a whole. It remains a basic tool of introductory microeconomics.
+The concept was later extended to the factors of production themselves, not consumption alone. **John Bates Clark**, in *The Distribution of Wealth* (1899), developed the theory of **marginal productivity**, arguing that in competitive static equilibrium the wage equals the marginal product of labour and interest equals the marginal product of capital. Later neoclassical theory treated this, together with marginal utility on the demand side, as a general account of the pricing of goods and of the services of labour, capital and land. Pure profit, in that static picture, is competed away. It remains a basic tool of introductory microeconomics.
 
 ## Cardinal and ordinal utility
 
@@ -45,5 +45,6 @@ Jevons assumed that utility could be measured quantitatively and, to some extent
 
 - Jevons, William Stanley. *The Theory of Political Economy*. Macmillan, 1871.
 - Menger, Carl. *Grundsätze der Volkswirtschaftslehre*. 1871.
+- Walras, Léon. *Éléments d'économie politique pure*. 1874.
 - Clark, John Bates. *The Distribution of Wealth*. Macmillan, 1899.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.

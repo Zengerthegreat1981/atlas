@@ -24,11 +24,11 @@ gaps: []
 ---
 # Thomas Piketty
 
-**Thomas Piketty** is a French economist, professor at the Paris School of Economics and the École des hautes études en sciences sociales, and one of the most prominent contemporary voices on the economics of inequality. His reputation rests on his work compiling long-run historical tax data, which returned the global debate on the concentration of wealth to the centre of contemporary political economy.
+**Thomas Piketty** is a French economist, professor at the Paris School of Economics and the École des hautes études en sciences sociales, and a leading contemporary voice on the economics of inequality. His reputation rests on his work compiling long-run historical tax data, which returned the global debate on the concentration of wealth to the centre of contemporary political economy.
 
 ## From young mathematician to economic historian
 
-Piketty showed early talent in mathematics and obtained a doctorate from the École des hautes études en sciences sociales and the London School of Economics at the age of twenty-two, with a dissertation in pure economic theory. He later moved, after a short period in American academia during which he grew disillusioned with the dominance of abstract mathematical modelling over the great empirical questions, to a fundamentally different research project: building long-run historical tax databases that allow the evolution of the distribution of income and wealth to be measured over a century or more in several countries.
+Piketty obtained a doctorate from the École des hautes études en sciences sociales in 1993, at the age of twenty-two, with a dissertation on the theory of wealth redistribution, prepared in association with the London School of Economics. After a short appointment at the Massachusetts Institute of Technology (1993–1995), he returned to France and turned to a different project: building long-run historical tax databases that allow the evolution of the distribution of income and wealth to be measured over a century or more in several countries.
 
 ## Capital in the Twenty-First Century: a large data project
 
@@ -52,7 +52,7 @@ In his later work, most notably *Capital and Ideology* (2019), Piketty widened h
 
 ## Measuring inequality in the Arab region
 
-Together with Facundo Alvaredo and Lydia Assouad, Piketty published in 2019 a study that provided the first systematic estimate of inequality in the Middle East between 1990 and 2016, drawing on his methodology of using tax and alternative data. It concluded that the region may be among the most unequal in the world, with an explicit reservation from the researchers about the fragility of the quality of regional data available.
+With Facundo Alvaredo and Lydia Assouad he published in 2019 a study estimating inequality in the Middle East from 1990 to 2016, combining surveys, national accounts and limited tax data. Their benchmark series put the region at the high end of measured inequality, and the authors stressed how fragile the regional data are.
 
 ## A legacy of Marx without inevitable adoption
 
@@ -60,7 +60,7 @@ Piketty partly revives Karl Marx's old question about the tendency of capital to
 
 ## Broad media and political impact
 
-The echo of *Capital in the Twenty-First Century* extended beyond academic circles into a wide public debate. Despite its large size and relatively technical statistical character, it topped bestseller lists and became a frequently cited reference in public debate on inequality in many countries.
+The echo of *Capital in the Twenty-First Century* extended beyond academic circles into a wide public debate. Despite its length, the English edition reached bestseller lists and was widely cited in public debate on inequality.
 
 ## Sources
 

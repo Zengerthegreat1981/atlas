@@ -35,7 +35,7 @@ In 1955 the economist Simon Kuznets advanced an influential hypothesis that late
 
 ## Piketty's Return: Long-Run Historical Data
 
-Thomas Piketty challenged this optimism in *Capital in the Twenty-First Century* (2013), assembling historical tax data spanning more than a century in several countries. He showed that inequality had not fallen automatically under natural growth laws, as Kuznets proposed. Rather, it had declined temporarily in the mid-twentieth century because of exceptional shocks (the two world wars, the Great Depression and high post-war taxation), before rising strongly again from the 1980s onward. Piketty proposed a central explanatory law: when the rate of return on capital (r) exceeds the growth rate of the economy as a whole (g) for a long period, wealth inevitably concentrates in the hands of those who already own capital. He regarded this as historically normal rather than exceptional.
+Thomas Piketty challenged this optimism in *Capital in the Twenty-First Century* (2013), assembling historical tax data spanning more than a century in several countries. He argued that inequality had not fallen automatically under a general law of growth, as Kuznets's hypothesis suggested. In the countries he studied, it declined in the mid-twentieth century amid wars, the Great Depression and high post-war taxation, then rose again in several rich economies from about the 1980s. Piketty's central relation is that when the rate of return on capital (r) exceeds the economy's growth rate (g) for a long period, inherited wealth tends to grow faster than output and wages. He treated a gap of that kind as historically common, not as a logical necessity in every dataset. The French edition appeared in 2013 and the English translation in 2014.
 
 ## Atkinson: Early Theoretical and Methodological Foundations
 
@@ -47,11 +47,11 @@ Branko Milanovic extended the debate from the level of a single state to the wor
 
 ## A Link to Marx's Historical Critique
 
-This field partly revisits Karl Marx's old question about the falling rate of profit and the concentration of capital. It does so, however, with contemporary statistical empirical tools rather than abstract theoretical deduction. Its empirical findings do not claim that capitalist collapse is inevitable. They describe a historical distributional pattern that can be reversed politically through taxes and transfers.
+The field returns to an older question about whether capital concentrates, but it does not revive Marx's prediction of a falling rate of profit. Marx expected competitive accumulation to push the profit rate down. Piketty's claim is nearly the opposite on that point: a return that stays high relative to growth, together with inheritance, can raise wealth concentration. The empirical work describes historical patterns in tax and survey data. It does not imply that capitalist collapse is inevitable, and Piketty's own policy chapters treat taxes and transfers as able to change the distribution.
 
 ## Measuring Inequality in the Arab Region
 
-The study by Facundo Alvaredo, Lydia Assouad and Thomas Piketty (2019) provided the first published systematic estimate of inequality in the Middle East between 1990 and 2016. It drew on tax data, partial household data and alternative sources, since official income statistics in the region are among the weakest in the world. Its authors concluded that the Arab region may be among the most unequal regions in the world in income distribution, with sharp concentration in the oil-rich Gulf states in particular. The authors themselves expressed explicit methodological caution about the fragility of the available data compared with other regions.
+Facundo Alvaredo, Lydia Assouad and Thomas Piketty (2019) published a widely cited estimate of income concentration in the Middle East for 1990–2016, combining household surveys, national accounts and the limited income-tax data available (an earlier version by Alvaredo and Piketty had circulated in 2014). Their benchmark series put the region at the top of international comparisons, largely because of the gap between oil-rich and population-rich countries as well as inequality within countries. They also stressed that weak fiscal microdata likely lead them to understate inequality inside countries, so the ranking is an estimate under those assumptions, not a settled measurement.
 
 ## Divergent Policy Recommendations
 
@@ -59,7 +59,7 @@ The field's leading figures differ in their remedies despite sharing the broad e
 
 ## A Methodological Critique from Within Mainstream Economics
 
-Piketty's methodology for estimating the historical rate of return on capital has faced technical criticism from other economists. They questioned the assumption of a stable elasticity of substitution between capital and labour on which the conclusion that "r exceeds g" depends. They argue that the theoretical conclusion does not follow automatically from the data alone, without additional modelling assumptions that are open to debate. This technical disagreement is noted here without a final resolution.
+Critics have separated two claims that are sometimes run together. One is whether r has in fact exceeded g, and whether that gap, rather than politics, housing or labour-market institutions, explains the rise in top shares. Another is whether the capital share of income must rise as capital deepens, which in standard production theory requires a high elasticity of substitution between capital and labour. Matthew Rognlie and others argued that much of the recent rise in capital shares is housing, and that a high elasticity is not well supported. The disagreement is about measurement and mechanism. It is not settled by the long-run series alone.
 
 ## Sources
 
@@ -68,3 +68,4 @@ Piketty's methodology for estimating the historical rate of return on capital ha
 - Alvaredo, Facundo, Lydia Assouad, and Thomas Piketty. "Measuring Inequality in the Middle East 1990–2016: The World's Most Unequal Region?" *Review of Income and Wealth*, vol. 65, no. 4, 2019, pp. 685–711.
 - Atkinson, Anthony B. *Inequality: What Can Be Done?* Harvard University Press, 2015.
 - Milanovic, Branko. *Global Inequality: A New Approach for the Age of Globalization*. Harvard University Press, 2016.
+- Rognlie, Matthew. "Deciphering the Fall and Rise in the Net Capital Share." *Brookings Papers on Economic Activity*, Spring 2015.

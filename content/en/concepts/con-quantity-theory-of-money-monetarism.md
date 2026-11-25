@@ -20,15 +20,15 @@ gaps: []
 ---
 # Quantity Theory of Money (Monetarist Restatement)
 
-The **monetarist restatement of the quantity theory of money** is a modern reformulation presented by the economist **Milton Friedman** in 1956 of an old economic theory. Its roots go back to the Spanish School of Salamanca in the sixteenth century and then to classical economics. The theory links directly the money supply in the economy with its general price level.
+The **monetarist restatement of the quantity theory of money** is a modern reformulation presented by the economist **Milton Friedman** in 1956 of an old economic theory. Related ideas were discussed by writers of the School of Salamanca in the sixteenth century and, in a form closer to later economics, by David Hume in "Of Money" (1752). The theory links the money stock, over the long run, to the general price level.
 
 ## The Basic Equation: Money Quantity and Velocity of Circulation
 
-The theory is expressed mathematically in the "equation of exchange" (MV = PY, associated with Irving Fisher's *The Purchasing Power of Money*, 1911): the quantity of money multiplied by its velocity of circulation (the number of times each monetary unit changes hands in a given period of time) equals the price level multiplied by the volume of real output. Friedman assumed that the velocity of money is relatively stable in the long run (changing slowly and with reasonably predictable behaviour), and that real output is determined by real factors (technology, resources and employment) independent of the quantity of money. Therefore, any increase in the money supply that exceeds real output growth will be reflected almost directly in a rise in the price level.
+Irving Fisher, in *The Purchasing Power of Money* (1911), wrote the equation of exchange as MV = PT: the quantity of money multiplied by its transactions velocity equals the price level multiplied by the volume of transactions. The income form used in later macroeconomics, MV = PY, replaces transactions with real output. Friedman treated velocity as relatively stable in the long run, changing slowly and in a reasonably predictable way, and treated real output as determined by real factors such as technology, resources and employment. On those assumptions, growth of the money stock in excess of real output growth shows up mainly as a higher price level.
 
 ## Inflation as "Always and Everywhere a Monetary Phenomenon"
 
-Friedman summarised his central conclusion in his famous phrase that "inflation is always and everywhere a monetary phenomenon". This means that any sustained, long-run inflation cannot occur without a concurrent growth in the money supply exceeding the growth of output, whatever other causes may be proposed (such as rising oil prices or rising wages). Friedman held that these factors may cause temporary price increases in specific sectors, but they do not explain a general, persistent inflation across all prices without an accompanying monetary accommodation from the central bank.
+Friedman summarised the conclusion in the phrase, from his 1970 lecture *The Counter-Revolution in Monetary Theory*, that inflation is always and everywhere a monetary phenomenon, in the sense that it is produced by a faster increase in the quantity of money than in output. This means that any sustained, long-run inflation cannot occur without a concurrent growth in the money supply exceeding the growth of output, whatever other causes may be proposed (such as rising oil prices or rising wages). Friedman held that these factors may cause temporary price increases in specific sectors, but they do not explain a general, persistent inflation across all prices without an accompanying monetary accommodation from the central bank.
 
 ## The Policy Conclusion: A Monetary Rule Instead of Discretion
 
@@ -43,4 +43,6 @@ This theory found political resonance around 1979-1982, when the Federal Reserve
 - Friedman, Milton. "The Quantity Theory of Money: A Restatement." *Studies in the Quantity Theory of Money*, University of Chicago Press, 1956.
 - Friedman, Milton, and Anna Jacobson Schwartz. *A Monetary History of the United States, 1867-1960*. Princeton University Press, 1963.
 - Fisher, Irving. *The Purchasing Power of Money*. Macmillan, 1911.
+- Friedman, Milton. *The Counter-Revolution in Monetary Theory*. Institute of Economic Affairs, 1970.
+- Hume, David. "Of Money." In *Political Discourses*. 1752.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.

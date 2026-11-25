@@ -17,8 +17,7 @@ related:
 - id: "thk-milton-friedman", title: "Milton Friedman", type: "مفكر"
 - id: "thk-robert-mundell", title: "Robert Mundell", type: "مفكر"
 - id: "con-impossible-trinity", title: "Impossible Trinity", type: "مفهوم"
-gaps:
-  - "Detailed classification of intermediate regimes (crawling pegs, bands, managed floats): not yet covered"
+gaps: []
 ---
 
 # Exchange Rate Regimes
@@ -27,7 +26,11 @@ gaps:
 
 ## The spectrum from floating to pegging
 
-Under a **free float**, the exchange rate is left to be determined entirely by the forces of supply and demand in the foreign exchange market, without direct government intervention. By contrast, a **fixed peg** fixes the value of the local currency at a specified level against a reference currency (usually the dollar), and the monetary authority commits to defending this level through direct intervention in the market or through more rigid mechanisms such as a currency board. Between the two extremes lie intermediate regimes such as managed floating and target-zone arrangements.
+Under a **free float**, the exchange rate is left to be determined entirely by the forces of supply and demand in the foreign exchange market, without direct government intervention. By contrast, a **fixed peg** fixes the value of the local currency at a specified level against a reference currency (usually the dollar), and the monetary authority commits to defending this level through direct intervention in the market or through more rigid mechanisms such as a currency board. Between the two extremes lie several intermediate regimes, described below.
+
+## Intermediate regimes
+
+A **managed float** leaves the rate to the market while the central bank intervenes, without announcing a parity, to limit swings. A **crawling peg** adjusts a declared parity in small, frequent steps; John Williamson analysed this class of rule in his work on exchange-rate policy. A **band** or target zone, such as the European Exchange Rate Mechanism before 1999, commits the authority to keep the rate inside announced margins. A **currency board** is a hard peg in which the monetary base is backed by foreign reserves at a fixed rate; Hong Kong has operated one since 1983. These categories are ideal types. The International Monetary Fund's *de facto* classification, and the historical reconstruction of Reinhart and Rogoff (2004), often differ from the regime a government officially declares.
 
 ## Friedman's case for floating
 
@@ -47,6 +50,7 @@ No regime is absolutely ideal. A peg provides stability and confidence, but expo
 
 ## Sources
 
-- Friedman, Milton. "The Case for Flexible Exchange Rates." In *Essays in Positive Economics*, 1953.
+- Friedman, Milton. "The Case for Flexible Exchange Rates." In *Essays in Positive Economics*. University of Chicago Press, 1953.
+- Williamson, John. *The Exchange Rate System*. Institute for International Economics, 1983.
 - Reinhart, Carmen M., and Kenneth S. Rogoff. "The Modern History of Exchange Rate Arrangements: A Reinterpretation." *Quarterly Journal of Economics*, vol. 119, no. 1, 2004, pp. 1–48.
 - Mundell, Robert. "A Theory of Optimum Currency Areas." *American Economic Review*, vol. 51, no. 4, 1961, pp. 657–665.

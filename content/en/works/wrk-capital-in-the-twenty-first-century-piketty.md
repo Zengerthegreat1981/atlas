@@ -28,11 +28,11 @@ gaps: []
 
 The French economist **Thomas Piketty** published his book *Le Capital au XXIe siècle* in 2013; the English translation, *Capital in the Twenty-First Century*, appeared in 2014. It is a vast work based on a research project that extended over more than a decade, collecting historical tax data from several countries. The book returned the global debate on the concentration of wealth to the forefront of contemporary political economy, after decades in which the topic had received relatively little attention in mainstream economics.
 
-## A Uniquely Broad Data Project
+## A long-run data project
 
-Piketty built his book on a huge database, which he compiled with colleagues, most prominently Anthony Atkinson, from tax records in France, Britain, the United States and other countries. Some of these records extend for more than a full century. This made it possible to compare the evolution of the share of the highest income and wealth brackets in national income over long historical periods. Data of such temporal depth is rarely available.
+Piketty built the book on historical tax records for France, Britain, the United States and other countries, assembled with collaborators including Anthony Atkinson. Some series run for a century or more. They make it possible to compare the shares of top incomes and top wealth in national income over long periods.
 
-## Refuting Kuznets's Optimistic Hypothesis
+## Challenging Kuznets's hypothesis
 
 The book opens with a direct challenge to the "Kuznets curve" hypothesis, which had long been influential. That hypothesis holds that inequality rises temporarily in the early stages of industrialisation, then falls automatically as economic growth matures. Piketty shows, through his long-run data, that the decline seen in Europe and the United States in the mid-twentieth century was not the product of inevitable natural growth laws. It was the result of exceptional, non-recurring shocks: the two world wars, the Great Depression, and high post-war taxation. Inequality, he argues, has risen strongly again since the 1980s, and in the case of wealth in Europe it is moving back towards the levels of the Belle Époque at the end of the nineteenth century.
 
@@ -50,7 +50,7 @@ The book faced technical criticism from economists (for example Matthew Rognlie)
 
 ## An Exceptional Public and Academic Reception
 
-The book achieved an unusual commercial success for a large technical economic work relying mainly on lengthy statistical tables. It topped bestseller lists in several countries and provoked wide public debate that went beyond academic circles into political and journalistic discourse on the global concentration of wealth. This made it one of the most influential economics books of the second decade of the twenty-first century.
+The book sold widely for a long technical work built largely from statistical tables. It reached bestseller lists in France and the United States and prompted public debate on the concentration of wealth beyond specialist circles.
 
 ## An Unusual Literary Style for an Economic Work
 
@@ -58,7 +58,7 @@ The book combines precise statistical analysis with literary citations from nine
 
 ## Influence on the Design of Later Databases
 
-The research project behind the book led to the World Wealth and Income Database, later renamed the World Inequality Database, which is open to researchers and later expanded to cover many additional countries beyond the original focus on Europe and North America. It also supported later studies using similar methods, including one on inequality in the Middle East.
+The research project behind the book grew out of the World Top Incomes Database and continued as the World Wealth and Income Database, later presented as the World Inequality Database. The database is open to researchers and has been extended beyond the original focus on Europe and North America. Later studies using related methods include work on inequality in the Middle East.
 
 ## A Comparison with Marx's Title
 
@@ -68,4 +68,5 @@ The book bears a title that deliberately recalls Karl Marx's famous work *Capita
 
 - Piketty, Thomas. *Le Capital au XXIe siècle*. Éditions du Seuil, 2013.
 - Piketty, Thomas. *Capital in the Twenty-First Century*. Translated by Arthur Goldhammer, Harvard University Press, 2014.
+- Rognlie, Matthew. "Deciphering the Fall and Rise in the Net Capital Share: Accumulation or Scarcity?" *Brookings Papers on Economic Activity*, Spring 2015.
 - Solow, Robert M. "Thomas Piketty Is Right." *The New Republic*, 22 Apr. 2014.

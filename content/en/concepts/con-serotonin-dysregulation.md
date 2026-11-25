@@ -24,7 +24,7 @@ A term referring to the hypothesis of a dysfunction in the activity or concentra
 
 ## Origins of the Hypothesis
 
-The "monoamine hypothesis" of depression emerged in the 1960s, based on indirect clinical observations. Notably, reserpine, which depletes biogenic amines (including serotonin and noradrenaline), sometimes caused depressive symptoms in some patients. Meanwhile, drugs that increase the availability of these transmitters (such as tricyclic antidepressants and monoamine oxidase inhibitors) showed an antidepressant effect. From these observations the hypothesis was formulated that depression results from a deficit in serotonin or noradrenaline activity at synapses.
+The monoamine hypotheses of depression emerged in the 1960s from indirect clinical observations. Reserpine, which depletes biogenic amines (including serotonin and noradrenaline), was reported to cause depressive symptoms in some patients, while drugs that increase the availability of these transmitters (tricyclic antidepressants and monoamine oxidase inhibitors) had antidepressant effects. Joseph Schildkraut's 1965 review stated a catecholamine (noradrenaline) hypothesis. Alec Coppen's 1967 review stated a related indoleamine hypothesis centered on serotonin. Both treated a transmitter deficit as a working account of depression, not as a finding from direct measurement of brain levels in patients.
 
 ## Selective Serotonin Reuptake Inhibitors (SSRIs)
 
@@ -42,5 +42,6 @@ The current scientific consensus tends to regard the "chemical imbalance hypothe
 
 - Moncrieff, J., Cooper, R.E., Stockmann, T., et al. "The Serotonin Theory of Depression: A Systematic Umbrella Review of the Evidence." *Molecular Psychiatry*, 28, 3243-3256 (published online 2022; 2023 issue).
 - Schildkraut, J.J. "The Catecholamine Hypothesis of Affective Disorders: A Review of Supporting Evidence." *American Journal of Psychiatry*, 122(5), 1965.
+- Coppen, A. "The Biochemistry of Affective Disorders." *British Journal of Psychiatry*, 113, 1967.
 - Cipriani, A. et al. "Comparative Efficacy and Acceptability of 21 Antidepressant Drugs for the Acute Treatment of Adults with Major Depressive Disorder: A Systematic Review and Network Meta-Analysis." *Lancet*, 391(10128), 2018.
 - Jauhar, S., Cowen, P.J., Browning, M. "Fifty Years On: Serotonin and Depression." *Journal of Psychopharmacology*, 37(3), 2023.

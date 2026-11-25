@@ -7,13 +7,13 @@ level: "متقدم"
 title: "Paretian Welfare Economics"
 en: "Paretian Welfare Economics"
 crumb: "Political Economy ← Schools ← Paretian Welfare Economics"
-dates: "Italy, Britain and the United States · from 1906 to 1951"
+dates: "Italy, Britain and the United States · from 1906"
 country: "Italy, Britain, United States"
 language: "Italian, French, English"
 economic_school: "Paretian welfare economics"
 policy_orientation: "Evaluation of public policies by the criterion of efficiency before distribution, with externalities introduced as a justification for corrective government intervention"
 active_start: 1906
-active_end: 1951
+active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Marginal Revolution", target_type: "مدرسة"
 related:
@@ -30,7 +30,7 @@ gaps: []
 
 ## Pareto: from general equilibrium to the efficiency criterion
 
-Pareto, Walras's successor in the chair of economics at Lausanne, developed this efficiency criterion in his *Manual of Political Economy* (1906). He moved beyond the assumption of the early marginalists that utility could be measured quantitatively and summed across individuals. He settled for an ordinal ranking of each person's preferences, without comparing them with the preferences of others. This made his criterion more modest scientifically but narrower in scope: a highly unequal distribution could be Pareto-efficient as long as the position of the poor could not be improved without harming the rich. This limitation, which Pareto himself acknowledged, remained a recurring target of criticism for this framework throughout the twentieth century.
+Pareto, Walras's successor in the chair of economics at Lausanne, developed this efficiency criterion in his *Manual of Political Economy* (1906). He moved beyond the assumption of the early marginalists that utility could be measured quantitatively and summed across individuals. He settled for an ordinal ranking of each person's preferences, without comparing them with the preferences of others. This made his criterion more modest in what it claims to measure, and narrower in what it can reject: a highly unequal distribution can be Pareto-efficient if the position of the poor cannot be improved without harming the rich. That limit remained a recurring criticism of the framework throughout the twentieth century.
 
 ## Pigou: welfare economics and externalities
 
@@ -42,7 +42,7 @@ Because Pareto's strict criterion does not decide most real policies (almost eve
 
 ## Arrow: from individual efficiency to the impossibility of social choice
 
-Kenneth Arrow pushed the field a deeper step in *Social Choice and Individual Values* (1951). Rather than merely comparing two distributions, Arrow asked whether it is possible at all to construct a social welfare function that aggregates the preferences of all members of society into a consistent social ordering while respecting reasonable conditions of procedural fairness. Arrow proved mathematically that the answer is generally negative — this is **Arrow's impossibility theorem** — a result that shook the foundations of welfare economics as a whole and pushed the field later toward more modest tools, such as the narrower Pareto criterion or specialized social choice theory.
+Kenneth Arrow pushed the field a deeper step in *Social Choice and Individual Values* (1951). Rather than merely comparing two distributions, Arrow asked whether it is possible at all to construct a social welfare function that aggregates the preferences of all members of society into a consistent social ordering while respecting reasonable conditions of procedural fairness. Arrow proved that, under those conditions, no such social welfare function exists in general. This is **Arrow's impossibility theorem**. It blocked the hope of a unique, procedurally fair aggregation of individual preferences and pushed later work either toward the narrower Pareto criterion, toward relaxing one of Arrow's conditions, or toward social choice theory as a field of its own.
 
 ## From welfare economics to contemporary policy analysis
 
@@ -61,3 +61,5 @@ The influence of this framework went beyond academic circles into concrete gover
 - Pareto, Vilfredo. *Manuale di economia politica*. Società Editrice Libraria, 1906.
 - Pigou, Arthur C. *The Economics of Welfare*. Macmillan, 1920.
 - Arrow, Kenneth J. *Social Choice and Individual Values*. Wiley, 1951.
+- Kaldor, Nicholas. "Welfare Propositions of Economics and Interpersonal Comparisons of Utility." *Economic Journal*, vol. 49, no. 195, 1939, pp. 549–552.
+- Hicks, John R. "The Foundations of Welfare Economics." *Economic Journal*, vol. 49, no. 196, 1939, pp. 696–712.

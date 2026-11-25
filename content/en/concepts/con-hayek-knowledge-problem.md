@@ -34,7 +34,7 @@ Hayek distinguishes between general scientific knowledge that can be verbally st
 
 ## Prices as a solution, not merely a computational tool
 
-Hayek presents the price system of a competitive market as a practical solution to this predicament. When the price of a commodity changes in response to changed conditions anywhere, each person receives a concentrated signal sufficient to adjust his behaviour without needing to know the full reasons behind the change. This makes the market a decentralized information-processing system that outperforms any central computational apparatus, because the original problem is not computational but structural and epistemic.
+Hayek presents the price system of a competitive market as a practical solution to this predicament. When the price of a commodity changes in response to changed conditions anywhere, each person receives a concentrated signal sufficient to adjust his behaviour without needing to know the full reasons behind the change. On this account the market is a decentralized information-processing system, and the obstacle to central direction is structural and epistemic, not only a shortage of computing power.
 
 ## Impact on the socialist calculation debate
 

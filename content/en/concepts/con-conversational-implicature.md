@@ -40,11 +40,12 @@ The decisive property that distinguishes conversational implicature from logical
 
 ## Impact
 
-This framework has become a cornerstone of contemporary pragmatics. It was developed further by two main schools: the neo-Gricean approach of Stephen Levinson, which reduces Grice's maxims to a smaller number of principles (Levinson's Q, I, and M principles; Horn's Q and R principles), and relevance theory of Sperber and Wilson, which replaces all four maxims with a single cognitive principle of balance between processing effort and cognitive benefit.
+The framework was developed further along two lines. Neo-Gricean pragmatics reduces the maxims to fewer principles: Laurence Horn's Q and R principles (Horn 1984), and Stephen Levinson's Q, I, and M principles, set out fully in *Presumptive Meanings* (2000). Relevance theory (Sperber and Wilson 1986; 2nd ed. 1995) replaces the four maxims with a communicative principle of relevance, grounded in a cognitive principle: an interpretation is relevant to the extent that it yields cognitive effects for the processing effort it requires.
 
 ## Sources
 
 - Grice, H. P. (1975). "Logic and Conversation." In P. Cole & J. Morgan (Eds.), *Syntax and Semantics 3: Speech Acts*. Academic Press.
 - Levinson, S. C. (1983). *Pragmatics*. Cambridge University Press.
+- Levinson, S. C. (2000). *Presumptive Meanings: The Theory of Generalized Conversational Implicature*. MIT Press.
 - Horn, L. R. (1984). "Toward a New Taxonomy for Pragmatic Inference." In D. Schiffrin (Ed.), *Meaning, Form, and Use in Context*. Georgetown University Press.
 - Sperber, D., & Wilson, D. (1995). *Relevance: Communication and Cognition* (2nd ed.). Blackwell.

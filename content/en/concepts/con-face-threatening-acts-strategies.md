@@ -32,7 +32,7 @@ The model assumes that a speaker's choice of one of these strategies depends on 
 
 ## Positive and negative face
 
-The classification rests on the hypothesis of "face" borrowed from Erving Goffman. **Positive face** is the individual's desire to be liked, appreciated and to have their social belonging shared, while **negative face** is their desire to preserve their personal autonomy and not to have constraints imposed on them. Strategies of "positive politeness" aim to protect positive face (by displaying solidarity and friendliness), while strategies of "negative politeness" aim to protect negative face (by softening, apologizing and leaving room for refusal). Many speech acts (such as requests, criticisms, or even compliments) threaten one or both kinds of face to varying degrees, which makes politeness a compensatory mechanism that is permanently present in everyday social interaction.
+The classification adapts Erving Goffman's notion of face, the positive social value a person claims in interaction (*Interaction Ritual*, 1967, reprinting his 1955 essay "On Face-Work"). The split into two desires is Brown and Levinson's. **Positive face**, in their model, is the desire to be approved of and to have one's wants shared. **Negative face** is the desire that one's actions be unimpeded. Positive politeness attends to the first (solidarity, in-group markers). Negative politeness attends to the second (apology, hedging, conventional indirectness). Requests and orders are their standard threats to the hearer's negative face; criticism and disagreement threaten positive face. Some acts, including some compliments, can threaten either. The model treats politeness as the mitigation of those threats, not as a separate aesthetic of speech.
 
 ## Applied examples from Arabic
 
@@ -40,7 +40,7 @@ Everyday Arabic discourse shows a rich use of mitigation strategies. These inclu
 
 ## Legacy
 
-This classification provided a precise analytical tool, widely applied in the study of social interaction across languages and cultures, despite later criticism (such as Matsumoto's critique) of its claim to universality across cultures that do not adopt the individualistic concept of the self that the model implicitly assumes.
+The scheme has been widely used in cross-linguistic studies of interaction. Yoshiko Matsumoto (1988) argued that the negative-face desire for individual freedom fits Japanese politeness poorly, where discernment and the recognition of social position do much of the work that the model assigns to a speaker's calculation of imposition. The universality claimed in the 1987 book is therefore a hypothesis under dispute, not a settled result.
 
 ## Sources
 

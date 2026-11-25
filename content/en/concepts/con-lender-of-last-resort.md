@@ -36,7 +36,7 @@ This role remains a permanent source of tension between its necessity for preven
 
 ## The International Dimension
 
-The International Monetary Fund is often described as playing a role resembling an international lender of last resort, for example during the Latin American debt crisis of the 1980s. Because no global central bank exists, this raises the same debate about conditionality and moral hazard.
+The International Monetary Fund is sometimes described as resembling an international lender of last resort, for example in the Latin American debt crisis of the 1980s. The analogy is limited. The Fund does not issue a currency and lends from finite resources, usually with policy conditions. Because no global central bank exists, the same debate about conditionality and moral hazard reappears in a weaker institutional setting.
 
 ## Sources
 

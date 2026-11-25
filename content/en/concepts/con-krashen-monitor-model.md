@@ -18,7 +18,7 @@ gaps: []
 
 # The Monitor Model and Krashen's Five Hypotheses
 
-A comprehensive theoretical framework formulated by Stephen Krashen in the late 1970s and early 1980s to explain second language acquisition. It consists of five interrelated hypotheses that have deeply influenced the practical teaching of foreign languages despite the theoretical debate surrounding them.
+A framework developed by Stephen Krashen from the mid-1970s and set out as five hypotheses in *Principles and Practice in Second Language Acquisition* (1982). It has had a large influence on communicative and "natural" language teaching, and it remains theoretically disputed.
 
 ## The distinction between acquisition and learning
 
@@ -43,6 +43,7 @@ Taken together, these hypotheses had a major impact on the design of "Natural Ap
 ## Sources
 
 - Krashen, Stephen D. (1981). *Second Language Acquisition and Second Language Learning*. Pergamon Press.
+- Krashen, Stephen D. (1982). *Principles and Practice in Second Language Acquisition*. Pergamon Press.
 - Krashen, Stephen D. (1985). *The Input Hypothesis: Issues and Implications*. Longman.
 - Krashen, Stephen D.; Terrell, Tracy D. (1983). *The Natural Approach: Language Acquisition in the Classroom*. Pergamon Press.
 - McLaughlin, Barry (1978). "The Monitor Model: Some Methodological Considerations." *Language Learning* 28(2).

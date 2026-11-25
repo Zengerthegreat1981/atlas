@@ -25,7 +25,7 @@ gaps: []
 
 ## Structure of the Diagnostic Class
 
-In order of increasing severity, the spectrum includes schizotypal personality disorder (which is also classified among the personality disorders), then **delusional disorder**, then **brief psychotic disorder** (at least one day but less than one month), then **schizophreniform disorder** (one to six months), then **schizophrenia** itself (continuous signs for six months or more, including at least one month of active-phase symptoms, with at least two of the first four symptom domains listed above, one of which must be delusions, hallucinations, or disorganized speech), and **schizoaffective disorder**, in addition to substance/medication-induced psychotic disorder, psychotic disorder due to another medical condition, and catatonia.
+In order of increasing severity, the spectrum includes schizotypal personality disorder (which is also classified among the personality disorders), then **delusional disorder**, then **brief psychotic disorder** (at least one day but less than one month), then **schizophreniform disorder** (one to six months), then **schizophrenia** itself (continuous signs for six months or more, including at least one month of active-phase symptoms, with at least two of the five symptom domains listed above, one of which must be delusions, hallucinations, or disorganized speech), and **schizoaffective disorder**, in addition to substance/medication-induced psychotic disorder, psychotic disorder due to another medical condition, and catatonia.
 
 ## Changes in DSM-5
 

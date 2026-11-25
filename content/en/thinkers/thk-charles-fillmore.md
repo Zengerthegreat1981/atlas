@@ -25,7 +25,7 @@ gaps: []
 
 # Charles J. Fillmore
 
-An American linguist and one of the founders of Construction Grammar at the University of California, Berkeley, and the author of the theory of "Frame Semantics," which laid the semantic foundation for this school.
+An American linguist who, with Paul Kay and colleagues at the University of California, Berkeley, developed Construction Grammar, and the author of "Frame Semantics," which supplied much of the semantic background for that approach.
 
 ## Biography and Historical Context
 
@@ -45,7 +45,7 @@ Work on frames and on idiomatic expressions led Fillmore, together with Paul Kay
 
 ## Major Works
 
-Alongside "The Case for Case" (1968) and "Frame Semantics" (1982), Fillmore co-authored with Paul Kay and Mary Catherine O'Connor another foundational article on Construction Grammar, titled "Regularity and Idiomaticity in Grammatical Constructions: The Case of Let Alone" (1988), which analyzed the English idiomatic expression "let alone" to demonstrate that some grammatical constructions that are complex both grammatically and semantically can only be understood as integrated units of form and meaning together, not as the product of general grammatical rules applied to independent words. He also founded the FrameNet project (begun in 1997 at the International Computer Science Institute in Berkeley), a large lexical database documenting the semantic frames of English and the semantic roles associated with each word.
+Alongside "The Case for Case" (1968) and "Frame Semantics" (1982), Fillmore co-authored with Paul Kay and Mary Catherine O'Connor another foundational article on Construction Grammar, titled "Regularity and Idiomaticity in Grammatical Constructions: The Case of Let Alone" (1988), which analyzed the English idiomatic expression "let alone" and argued that some grammatical constructions that are complex both grammatically and semantically are best understood as integrated units of form and meaning, rather than as the product of general grammatical rules applied to independent words. He also founded the FrameNet project (begun in 1997 at the International Computer Science Institute in Berkeley), a large lexical database documenting the semantic frames of English and the semantic roles associated with each word.
 
 ## Impact and Critique
 

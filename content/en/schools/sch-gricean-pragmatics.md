@@ -23,7 +23,7 @@ gaps: []
 
 # Gricean Pragmatics
 
-A pragmatic current founded by the British philosopher **Herbert Paul Grice** in the William James Lectures delivered at Harvard University in 1967, whose central part was published as "Logic and Conversation" (1975). It seeks to explain how a listener derives from an utterance a meaning that goes beyond its literal sense, relying on the assumption that conversation is a cooperative, structured activity governed by implicit principles shared by speaker and listener.
+A pragmatic current developed by the British philosopher **Herbert Paul Grice** in the William James Lectures delivered at Harvard University in 1967, whose central part was published as "Logic and Conversation" (1975). It seeks to explain how a listener derives from an utterance a meaning that goes beyond its literal sense, relying on the assumption that conversation is a cooperative, structured activity governed by implicit principles shared by speaker and listener.
 
 ## The Cooperative Principle and the Conversational Maxims
 
@@ -31,11 +31,15 @@ Grice's framework rests on the **Cooperative Principle**: make your conversation
 
 ## Conventional vs. Conversational Implicature
 
-Grice distinguished between **conversational implicature**, which is tied to the context of use and is cancellable, and **conventional implicature**, which is tied to the meaning of particular words (such as "but," which carries a fixed contrastive implication regardless of context) and cannot be cancelled by context. This distinction paved the way for more precise analytical tools in later pragmatics for separating what is part of literal meaning from what is an inferential effect of context.
+Grice distinguished between **conversational implicature**, which is tied to the context of use and is cancellable, and **conventional implicature**, which is tied to the meaning of particular words (such as "but," which carries a fixed contrastive implication regardless of context) and cannot be cancelled by context. This distinction separated what he treated as part of conventional meaning from an inferential effect of the talk exchange.
+
+## Properties of conversational implicature
+
+On Grice's account, a conversational implicature is calculable from the Cooperative Principle and the maxims, cancellable without contradiction ("some, and in fact all"), and usually nondetachable, in that rewording the same content does not remove the inference. He further distinguished generalized conversational implicatures, which arise unless a special context blocks them, from particularized ones, which depend on a specific setting. Scalar cases, such as taking "some" to suggest "not all," became a standard test for the generalized class.
 
 ## Neo-Gricean Developments
 
-**Laurence Horn** developed a neo-Gricean program that reduces Grice's four maxims to two competing principles: the **Q-Principle**, which pushes toward maximal informativeness, and the **R-Principle**, which pushes toward the minimal sufficient content. Under this view, a **scalar implicature** (such as inferring "not all" from saying "some") arises chiefly from the Q-Principle, as constrained by the R-Principle. In parallel, **Stephen Levinson** formulated three neo-Gricean heuristics (the Q, I and M heuristics), elaborated in more detail and more applicable to complex syntactic phenomena, published in his landmark book *Pragmatics* (1983) and later in *Presumptive Meanings* (2000).
+**Laurence Horn** developed a neo-Gricean program that reduces Grice's four maxims to two competing principles: the **Q-Principle**, which pushes toward maximal informativeness, and the **R-Principle**, which pushes toward the minimal sufficient content. Under this view, a **scalar implicature** (such as inferring "not all" from saying "some") arises chiefly from the Q-Principle, as constrained by the R-Principle. **Stephen Levinson** surveyed Gricean pragmatics in *Pragmatics* (1983) and later set out three heuristics, Q, I, and M, in *Presumptive Meanings* (2000), extending the program to anaphora and preferred interpretations of marked forms.
 
 ## Later Extensions: Bach and Impliciture
 
@@ -50,5 +54,6 @@ Gricean pragmatics provided the reference framework from which Relevance Theory 
 - Grice, H. Paul. "Logic and Conversation." In *Syntax and Semantics 3: Speech Acts*, eds. Cole & Morgan. Academic Press, 1975.
 - Grice, H. Paul. *Studies in the Way of Words*. Harvard University Press, 1989.
 - Levinson, Stephen C. *Pragmatics*. Cambridge University Press, 1983.
+- Levinson, Stephen C. *Presumptive Meanings: The Theory of Generalized Conversational Implicature*. MIT Press, 2000.
 - Horn, Laurence R. "Toward a New Taxonomy for Pragmatic Inference: Q-Based and R-Based Implicature." In *Meaning, Form, and Use in Context*, ed. Schiffrin. Georgetown University Press, 1984.
 - Bach, Kent. "Conversational Impliciture." *Mind & Language*, 9(2), 1994.

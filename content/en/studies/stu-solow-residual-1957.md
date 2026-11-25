@@ -16,7 +16,7 @@ related:
 study_year: 1957
 design: "Quantitative accounting analysis of the contribution of factors of production (capital and labour) to the growth of US gross domestic product, using an aggregate production function, with calculation of the 'residual' not explained by the accumulation of the factors of production themselves"
 sample_size: "Annual time-series data for the US economy between 1909 and 1949"
-main_finding: "Most of the growth in output per worker in the US economy during the period studied was not explained by capital accumulation per worker alone. It was attributed instead to a 'residual' later named total factor productivity (TFP), reflecting overall technical progress."
+main_finding: "Most of the growth in gross output per man-hour in the US private non-farm economy from 1909 to 1949 was not explained by capital per man-hour. Solow attributed about seven-eighths of that growth to a residual later discussed as total factor productivity, a broad measure of technical and organisational change that also absorbs measurement error."
 replication_status: "confirmed"
 gaps: []
 ---
@@ -27,7 +27,7 @@ gaps: []
 
 ## Research design: an aggregate production function
 
-Solow used a simple aggregate production function that relates total output to the two inputs of capital and labour. He assumed perfect competition, which pays each worker according to his marginal product, and applied this framework to annual time-series data for the US economy between 1909 and 1949. His aim was to decompose the growth of output per worker into two components: the part resulting from the increase in capital available per worker, and the remaining part not explained by the accumulation of directly measurable factors of production.
+Solow used a simple aggregate production function that relates total output to capital and labour. He assumed competitive factor markets, so that each factor is paid its marginal product and income shares can stand in for output elasticities, and applied this framework to annual data for the US private non-farm economy from 1909 to 1949. His aim was to decompose the growth of output per worker into two components: the part resulting from the increase in capital available per worker, and the remaining part not explained by the accumulation of directly measurable factors of production.
 
 ## The surprising result: the dominance of the unexplained residual
 

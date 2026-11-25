@@ -23,7 +23,7 @@ gaps: []
 
 # Historical-Comparative Linguistics
 
-The oldest branch of modern scientific linguistics. It arose in the late eighteenth century from the observation of systematic similarities between geographically distant languages (Sanskrit, Greek, Latin, Persian, and the Germanic languages), and developed a rigorous method for reconstructing the origins of languages and classifying them into language families.
+An early branch of modern linguistics. It arose in the late eighteenth century from the observation of systematic similarities between geographically distant languages (Sanskrit, Greek, Latin, Persian, and the Germanic languages), and developed a method for reconstructing earlier stages of languages and classifying them into language families.
 
 ## Origins: William Jones's Hypothesis
 
@@ -43,15 +43,15 @@ In the 1860s the German linguist August Schleicher developed the most famous con
 
 ## The Neogrammarian Hypothesis
 
-The **Neogrammarian Hypothesis**, formulated by a group of young linguists at the University of Leipzig in the late 1870s (including Karl Brugmann and Hermann Osthoff, among others), was the most important later methodological development of the school. They proposed a strict principle that "sound laws admit no exceptions" (*Ausnahmslosigkeit der Lautgesetze*): any regular sound change occurring in a specific phonetic environment must affect all words meeting that environment in the language, without exception. Any apparent irregularity must then be explained by other identifiable factors, such as morphological analogy or borrowing from another language, rather than being treated as a genuinely random exception. This principle gave unprecedented scientific rigor to the method of comparative reconstruction.
+The **Neogrammarian Hypothesis**, formulated by a group of young linguists at the University of Leipzig in the late 1870s (including Karl Brugmann and Hermann Osthoff, among others), was a major later methodological development of the school. In the 1878 preface to *Morphologische Untersuchungen*, Osthoff and Brugmann argued that sound laws admit no exceptions (*Ausnahmslosigkeit der Lautgesetze*): a regular sound change in a given phonetic environment applies to all words that meet that environment. Any apparent irregularity must then be explained by other identifiable factors, such as morphological analogy or borrowing from another language, rather than being treated as a genuinely random exception. This principle gave unprecedented scientific rigor to the method of comparative reconstruction.
 
 ## The Comparative Reconstruction Method
 
-The comparative method rests on collecting **cognates**, words of presumed common origin across related languages, and systematically comparing their sounds in the same phonetic positions. From this one infers the sound laws that governed the development of each language from the presumed parent language. These laws are then applied in reverse to reconstruct an approximate form of the word or sound in the parent language itself, which is conventionally marked with an asterisk (*) to indicate that it is a reconstructed form rather than a documented historical one. **Grimm's Law**, formulated by Jacob Grimm in 1822 to describe the regular sound shifts of the stop consonants between Proto-Indo-European and the Germanic languages, is the best-known early applied example of this method. Karl Verner later developed it (1875) to explain apparent exceptions within Grimm's Law itself through an additional accentual factor, thereby affirming the Neogrammarian principle rather than refuting it.
+The comparative method rests on collecting **cognates**, words of presumed common origin across related languages, and systematically comparing their sounds in the same phonetic positions. From this one infers the sound laws that governed the development of each language from the presumed parent language. These laws are then applied in reverse to reconstruct an approximate form of the word or sound in the parent language itself, which is conventionally marked with an asterisk (*) to indicate that it is a reconstructed form rather than a documented historical one. **Grimm's Law**, formulated by Jacob Grimm in 1822 to describe the regular sound shifts of the stop consonants between Proto-Indo-European and the Germanic languages, is the best-known early applied example of this method. Karl Verner accounted for a large set of apparent exceptions within Grimm's Law by the position of the inherited accent, in "Eine Ausnahme der ersten Lautverschiebung" (1875/1877). That result was later taken to support the Neogrammarian claim that apparent exceptions have systematic explanations.
 
 ## Notable Works and Figures
 
-Alongside William Jones (the best-known early proponent of the Indo-European relationship, though not the first to notice the similarities), the German Franz Bopp (*Über das Conjugationssystem der Sanskritsprache*, 1816) and the Dane Rasmus Rask (*Undersøgelse om det gamle Nordiske eller Islandske Sprogs Oprindelse*, 1818) are regarded as the first to apply a systematic method for comparing verb conjugation and sound laws across Indo-European languages, rather than relying on general observation of similarity. The term **grammaticalization** was coined by Antoine Meillet in 1912, and was developed in the late twentieth century by scholars such as Elizabeth Traugott and Bernd Heine to study how lexical words gradually change over time into functional grammatical elements.
+Alongside William Jones (an early and widely cited proponent of the Indo-European relationship, though not the first to notice the similarities), the German Franz Bopp (*Über das Conjugationssystem der Sanskritsprache*, 1816) and the Dane Rasmus Rask (*Undersøgelse om det gamle Nordiske eller Islandske Sprogs Oprindelse*, 1818) are among the scholars who compared conjugation and sound correspondences systematically rather than by general resemblance. The term **grammaticalization** is commonly credited to Antoine Meillet (1912). In the late twentieth century Elizabeth Traugott, Bernd Heine, and others used it for the gradual change of lexical words into grammatical elements.
 
 ## Impact and Criticism
 
@@ -59,7 +59,7 @@ This method established the modern scientific classification of language familie
 
 ## Sources
 
-- Campbell, Lyle (2013). *Historical Linguistics: An Introduction* (3rd ed.). MIT Press.
+- Campbell, Lyle (2013). *Historical Linguistics: An Introduction* (3rd ed.). Edinburgh University Press.
 - Fortson, Benjamin W. IV (2010). *Indo-European Language and Culture: An Introduction* (2nd ed.). Wiley-Blackwell.
 - Grimm, Jacob (1822). *Deutsche Grammatik* (2nd ed., Vol. 1).
 - Hock, Hans Henrich (1991). *Principles of Historical Linguistics* (2nd ed.). Mouton de Gruyter.

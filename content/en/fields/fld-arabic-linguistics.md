@@ -32,9 +32,9 @@ The tradition began with practical and religious motives: to preserve the correc
 
 Arabic grammar took shape in the eighth century CE in the garrison cities of Basra and Kufa in Iraq. Tradition credits Abu al-Aswad al-Duali with early steps, such as marking vowels in the written text, though the details are legendary and historians treat them with caution.
 
-**Al-Khalil ibn Ahmad al-Farahidi** (died around 786 CE) is a founding figure. He is credited with the science of prosody (*arud*), with systematising the analysis of poetic metre, and with beginning lexicography in the *Kitab al-ʿAyn*, the first dictionary of Arabic, arranged by articulatory position of the consonants, though how much of it he completed and how much his students added is discussed by scholars.
+**Al-Khalil ibn Ahmad al-Farahidi** (died around 786 or 791 CE) is a central early figure. He is credited with the science of prosody (*ʿarud*), with systematising the analysis of poetic metre, and with beginning the *Kitab al-ʿAyn*, the earliest extensive Arabic dictionary that survives, arranged by the articulatory position of the consonants. How much of it he completed, and how much his students added, is debated.
 
-**Sibawayh** (died around 796 CE), a student of al-Khalil of Persian origin, composed *al-Kitab*, "The Book", the earliest comprehensive surviving grammar of Arabic. It covers syntax, morphology and phonology with extensive evidence, and it set the model for later work. Its terminology, its notions of government (*ʿamal*) and its treatment of analogy shaped the tradition for a thousand years.
+**Sibawayh** (died around 796 CE), a student of al-Khalil of Persian origin, composed *al-Kitab*, "The Book", the earliest comprehensive surviving grammar of Arabic. It covers syntax, morphology and phonology with extensive evidence, and it set the model for later work. Its terminology, its notions of government (*ʿamal*) and its treatment of analogy shaped the tradition for many centuries.
 
 **Basra and Kufa.** Later accounts describe two schools: the Basrans, more committed to analogy and to restricting evidence to trusted sources, and the Kufans, more tolerant of diverse reports. Modern historians, including Kees Versteegh, caution that the sharp opposition is partly a later literary construction, and that a Baghdad school later blended the two. Major later figures include al-Mubarrad, Ibn al-Sarraj, al-Zajjaji, al-Zamakhshari, Ibn Jinni, whose *al-Khasa'is* explored the principles of grammar, and Ibn Malik, whose versified *Alfiyya* became a standard teaching text. Ibn Hisham al-Ansari wrote influential works on syntax and particles, and the Andalusian tradition also contributed.
 
@@ -76,3 +76,4 @@ Classical Arabic is not simply "Arabic" as spoken today. Dialects are not corrup
 - Jonathan Owens, *The Foundations of Grammar: An Introduction to Medieval Arabic Grammatical Theory* (1988).
 - Kees Versteegh et al. (eds.), *Encyclopedia of Arabic Language and Linguistics* (2006-2009).
 - Clive Holes, *Modern Arabic: Structures, Functions, and Varieties* (1995; revised 2004).
+- John J. McCarthy, "A Prosodic Theory of Nonconcatenative Morphology," *Linguistic Inquiry* 12 (1981).

@@ -32,7 +32,7 @@ The model posits two main language centres linked by a neural bundle (the arcuat
 
 ## Historical and Classificatory Value
 
-This model was the first systematic attempt to link linguistic function to specific brain locations and to explain the diversity of aphasic symptoms through a single connectional logic. It founded a tradition that survives in clinical practice under the name "the classical classification of aphasia." Its descriptive terminology (Broca's aphasia, Wernicke's aphasia, conduction aphasia) is still used in everyday clinical communication, despite modern theories having moved beyond its details.
+This model was an early systematic attempt to link linguistic function to specific brain locations and to explain the diversity of aphasic symptoms through a single connectional logic. Earlier writers, including Jean-Baptiste Bouillaud, had already argued for a frontal seat of speech. It founded a tradition that survives in clinical practice under the name "the classical classification of aphasia." Its descriptive terminology (Broca's aphasia, Wernicke's aphasia, conduction aphasia) is still used in everyday clinical communication, despite modern theories having moved beyond its details.
 
 ## Limits of the Model
 
@@ -40,7 +40,7 @@ Twentieth-century studies, especially Norman Geschwind's research in the 1960s (
 
 ## Continuing Influence
 
-Although it has been superseded scientifically, the classical model remains the cornerstone on which all subsequent theories in neurolinguistics were built. It is also a basic teaching reference in training speech-language pathologists, language therapists and behavioural neurologists.
+Later work has revised or replaced many of its anatomical claims, but the syndrome names and the practice of relating symptom patterns to lesion sites remain part of clinical teaching in speech-language pathology and behavioural neurology.
 
 ## Sources
 

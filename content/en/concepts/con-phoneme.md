@@ -34,19 +34,19 @@ Before the concept of the phoneme, linguists struggled to understand why differe
 
 **In the 1920s and 1930s:** Trubetzkoy's work in Prague laid the foundational principles. He published *Principles of Phonology* (1939), which remains influential.
 
-**In the 1940s and 1950s:** Bloomfieldian structuralism in America developed distributional methods for identifying phonemes without recourse to meaning.
+**In the 1940s and 1950s:** American structuralists, following Bloomfield, identified phonemes by contrast and distribution. Bloomfield still used meaning (a difference of meaning shows that two sounds contrast). Later work, especially Zellig Harris, tried to reduce that appeal to meaning. It is not accurate to say that Bloomfieldian method ignored meaning.
 
-**From the 1960s onward:** Generative phonology (Chomsky and Halle, 1968) rejected the "taxonomic" phoneme as a separate level of representation in favor of underlying representations and ordered rules, and later approaches developed feature-based and constraint-based frameworks.
+**From the 1960s onward:** Generative phonology (Chomsky and Halle, *The Sound Pattern of English*, 1968) rejected an autonomous "taxonomic" phonemic level in favor of underlying representations and ordered rules. Later feature and constraint frameworks, including Optimality Theory, do not restore that level.
 
 ## Competing Conceptions of the Phoneme
 
-Schools differ on what a phoneme is. Baudouin de Courtenay and Sapir treated it as a psychological unit; Daniel Jones as a family of physically related sounds; the Prague School (Trubetzkoy, Jakobson) as a bundle of distinctive features defined by contrast. American structuralists such as Bloomfield and Harris sought to define phonemes by distribution, ideally without appeal to meaning. Generative phonology (Chomsky and Halle) dropped the autonomous phonemic level in favor of underlying representations related to surface forms by rules, and later frameworks such as Optimality Theory use ranked constraints.
+Schools differ on what a phoneme is. Jan Baudouin de Courtenay, and later Edward Sapir, treated it as a psychological unit. Daniel Jones defined it as a family of related sounds. The Prague School (Nikolai Trubetzkoy, Roman Jakobson) treated it as a bundle of distinctive features defined by contrast. Bloomfield defined it by contrastive distribution and used meaning as the test of contrast. Harris went further toward a purely distributional procedure. Generative phonology (Chomsky and Halle) dropped the autonomous phonemic level. Optimality Theory uses ranked constraints on surface forms rather than an ordered-rule derivation from a phonemic level.
 
 ## Theoretical Foundations
 
 ### The Phoneme as a Functional Unit
 
-A phoneme is defined by its capacity to distinguish meaning. In English, the sounds /p/ and /b/ are two distinct phonemes because *pat* and *bat* have different meanings. The minimal difference is /p/ versus /b/, which proves that they are distinct phonemes.
+A phoneme is identified by its capacity to distinguish meaning. In English, /p/ and /b/ contrast because *pat* and *bat* differ in meaning and in that one consonant. A minimal pair is evidence of contrast in that environment. It does not by itself describe every position in which the two sounds occur.
 
 ### Phonetic Realization and Allophones
 
@@ -54,7 +54,7 @@ Each phoneme may have multiple realizations (allophones) that differ phoneticall
 
 ### The Inventory of Phonemes
 
-Every language has a specific inventory of phonemes. English has about 24 consonant phonemes and, depending on the dialect and the analysis, roughly 14 to 20 vowel phonemes. Hawaiian has only eight consonant phonemes (13 phonemes in all, counting five vowels). Xhosa (a Bantu language) has 18 click consonants that function as phonemes.
+Every language has its own inventory, and the count depends on the analysis. A usual description of English has about twenty-four consonant phonemes. Vowel counts differ by dialect: many analyses of General American list fewer vowel phonemes than analyses of Received Pronunciation once diphthongs are included. A common analysis of Hawaiian lists eight consonants (/p, k, ʔ, h, m, n, l, w/) and five vowel qualities; other analyses also treat vowel length as phonemic, so "thirteen phonemes" is not the only defensible count. Xhosa has a large series of click consonants (dental, alveolopalatal, and lateral, each with several accompaniments). Published counts of those click phonemes differ; one comparison with Zulu's fifteen puts Xhosa at eighteen. The number should not be treated as exact.
 
 ## Core Mechanisms and Processes
 
@@ -68,12 +68,12 @@ The standard method for identifying phonemes is the minimal pair test:
 3. Conclude that the two different sounds are distinct phonemes.
 
 **English example:**
-- "heat" [hit] versus "beat" [bit] → /h/ and /b/ are distinct phonemes
-- "sheep" [ʃip] versus "cheap" [tʃip] → /ʃ/ and /tʃ/ are distinct phonemes
+- *pat* [pʰæt] versus *bat* [bæt] → /p/ and /b/ contrast
+- *sheep* [ʃiːp] versus *cheap* [tʃiːp] → /ʃ/ and /tʃ/ contrast
 
 **Arabic example:**
-- *kataba* versus *kadhaba* → /t/ and /dh/ are distinct phonemes
-- *sayf* ("sword") versus *ṣayf* ("summer") → /s/ and /ṣ/ (emphatic) are distinct phonemes
+- *kataba* "he wrote" versus *kaḏaba* "he lied" → /t/ and /ḏ/ contrast
+- *sayf* "sword" versus *ṣayf* "summer" → /s/ and emphatic /ṣ/ contrast
 
 ### Distribution of Allophones
 
@@ -94,10 +94,6 @@ After phonemes are identified, phonological rules describe how they interact and
 ### Categorical Perception
 
 Classic experiments (Liberman and colleagues, 1957, and later work on voice onset time by Lisker and Abramson) showed categorical perception: listeners classify stimuli along an acoustic continuum as one phoneme or another and discriminate poorly within a category. This is often taken as evidence for the psychological reality of phoneme categories, although the interpretation is debated.
-
-### Event-Related Potentials
-
-Studies using event-related potentials report mismatch negativity responses that tend to be larger for contrasts that are phonemic in the listener's own language, suggesting that phonemic distinctions are processed automatically.
 
 ### Infant Studies
 
@@ -145,22 +141,15 @@ Some linguists argue that the concept of the phoneme conflates distinct phenomen
 
 ### Language-Specific Definitions
 
-What counts as a phoneme is specific to each language. Hawaiian lacks word-final consonants, which changes which distinctions are phonemic.
+Whether two sounds are separate phonemes is a fact about a particular language, not about the sounds in isolation. Aspirated and unaspirated stops contrast in Thai and are allophones of one phoneme in English. Hawaiian has no word-final consonants; that fact restricts where contrasts can appear, and it does not by itself decide which consonants are phonemic.
 
-### Dynamic Phonology
+### Variation
 
-In languages undergoing rapid sound change or with variable rules, the status of a phoneme becomes blurred. In New York English, /r/ is present or absent in words such as *car*, varying in this way.
+In William Labov's studies of New York City English, consonantal /r/ in words such as *car* is present or absent according to style and social group. That is sociolinguistic variation in the realization of a category. It does not show that the phoneme, as a contrastive unit, has disappeared.
 
 ### Gradient Phonology
 
-Some phenomena (such as secondary stress) appear gradient rather than categorical, which calls into question the binary (present/absent) nature of traditional phonemes.
-
-## Future Research Directions
-
-- **Identifying the neural basis:** using advanced neuroimaging to locate the brain regions that process phonemes
-- **Computational phonology:** training deep learning models to discover phonemes from raw speech
-- **Developmental trajectories:** following children as their phoneme systems emerge
-- **Multilingual phonemics:** understanding phoneme inventories among speakers of multiple languages
+Some phonetic properties, including aspects of stress and vowel reduction, vary by degree. A phonemic analysis that allows only "present" or "absent" does not describe that gradience. The limit is a reason to separate contrastive categories from the phonetics that realize them.
 
 ## Sources
 

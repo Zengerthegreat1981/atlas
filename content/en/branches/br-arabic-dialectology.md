@@ -16,8 +16,7 @@ related:
 - id: "sch-variationist-sociolinguistics", title: "Labovian Variationist Sociolinguistics", type: "مدرسة"
 - id: "con-diglossia", title: "Diglossia", type: "مفهوم"
 - id: "thk-ibrahim-anis", title: "Ibrahim Anis", type: "مفكر"
-gaps:
-  - "Biographical entries for Western pioneers of Arabic dialectology (such as Bergsträsser and Cantineau): not yet covered"
+gaps: []
 ---
 
 # Arabic Dialectology: The Geographic Diversity of the Arabic Language
@@ -26,7 +25,7 @@ A branch of Arabic linguistics that studies the contemporary spoken dialects of 
 
 ## The Orientalist and Arab Origins of the Field
 
-Systematic documentation of modern Arabic dialects began in the late nineteenth and early twentieth centuries through European orientalists who collected oral texts and described the phonological and grammatical systems of specific dialects (such as those of the Levant, Egypt, and the Maghreb), drawing on the tools of modern descriptive linguistics rather than relying only on the norms of traditional classical grammar. This ran parallel to a growing internal Arab interest in dialects, expressed in the work of linguists such as Ibrahim Anis, who combined his training in traditional Arabic grammar with modern phonetic training to study systematically the phonetic and grammatical differences among contemporary Arabic dialects.
+Systematic documentation of modern Arabic dialects began in the late nineteenth and early twentieth centuries through European orientalists who collected oral texts and described the phonological and grammatical systems of specific dialects (such as those of the Levant, Egypt, and the Maghreb), drawing on the tools of modern descriptive linguistics rather than relying only on the norms of traditional classical grammar. Wilhelm Spitta's grammar of Cairene Arabic (1880) is an early example. Gotthelf Bergsträsser published a dialect atlas of Syria and Palestine in 1915 from fieldwork with speakers. Jean Cantineau, in the 1930s, described the dialect of Palmyra and varieties of the Syrian steppe, with close attention to phonology and morphology. This European descriptive work ran parallel to a growing Arab interest in dialects, expressed by linguists such as Ibrahim Anis, whose *Fī al-lahajāt al-ʿarabiyya* (1952) treated phonetic and grammatical differences among contemporary Arabic dialects with training in both traditional grammar and modern phonetics.
 
 ## Geographic Classification and Linguistic Criteria
 
@@ -50,7 +49,7 @@ Arabic dialects also differ in their morphology and grammar, not only in their p
 
 ## Recently Written Dialects
 
-Since the first decade of the twenty-first century, social media platforms have made available an unprecedented volume of written colloquial texts (comments, posts, and messages). Dialects have thus moved from being purely oral systems, historically without an agreed written standard, to abundant written material that allows researchers to analyze them quantitatively, using the methods of modern corpus linguistics, for the first time. Nevertheless, no agreed unified spelling standard exists for writing any of the dialects, so the same colloquial word is written in many different ways by different users, according to their individual intuition alone.
+Since the first decade of the twenty-first century, social media platforms have made available an unprecedented volume of written colloquial texts (comments, posts, and messages). Dialects have thus moved from being primarily oral systems, historically without an agreed written standard, to abundant written material that allows researchers to analyze them quantitatively with the methods of corpus linguistics. Nevertheless, no agreed unified spelling standard exists for writing any of the dialects, so the same colloquial word is written in many different ways by different users, according to their individual intuition alone.
 
 ## The Shared Colloquial and Cross-Dialect Media Comprehension
 
@@ -58,5 +57,8 @@ Researchers note the emergence of something resembling a simplified "shared coll
 
 ## Sources
 
-- Anis, Ibrahim. *Fi al-Lahajat al-Arabiyya* (On the Arabic Dialects). Cairo: Anglo-Egyptian Bookshop, first published 1946.
+- Anis, Ibrahim. *Fī al-lahajāt al-ʿarabiyya*. Cairo, 1952 edition.
 - Ferguson, Charles A. "Diglossia." *Word*, vol. 15, no. 2, 1959, pp. 325-340.
+- Bergsträsser, Gotthelf. "Sprachatlas von Syrien und Palästina." *Zeitschrift des Deutschen Palästina-Vereins*, vol. 38, 1915.
+- Cantineau, Jean. *Le dialecte arabe de Palmyre*. Beirut: Institut français de Damas, 1934.
+- Spitta, Wilhelm. *Grammatik des arabischen Vulgärdialectes von Aegypten*. Leipzig: J. C. Hinrichs, 1880.

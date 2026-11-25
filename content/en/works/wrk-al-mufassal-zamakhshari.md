@@ -9,12 +9,11 @@ cultural_origin: "other"
 title: "Al-Mufaṣṣal fī Ṣanʿat al-Iʿrāb"
 en: "Al-Mufaṣṣal fī Ṣanʿat al-Iʿrāb"
 crumb: "Linguistics ← Works ← Al-Mufaṣṣal fī Ṣanʿat al-Iʿrāb"
-dates: "Mecca and Khwarazm · 6th century AH (12th century CE)"
+dates: "Mecca · 513–515 AH / 1119–1121 CE"
 country: "Khwarazm (present-day Uzbekistan)"
 language: "Arabic"
-active_start: 1100
-active_end: 1143
-active_source: "estimate"
+active_start: 1119
+active_end: 1121
 edges:
 - rel: "belongs_to", target: "Classical Arabic Grammatical and Linguistic Tradition", target_type: "مدرسة"
 - rel: "authored_by", target: "Al-Zamakhshari", target_type: "مفكر"
@@ -24,7 +23,7 @@ gaps: []
 
 # Al-Mufaṣṣal fī Ṣanʿat al-Iʿrāb
 
-A concise classical grammatical text by Abu al-Qasim Mahmud ibn Umar al-Zamakhshari (467–538 AH / 1075–1144 CE), composed in the early sixth century AH, probably during his stay in Mecca (the exact date of composition is not firmly established). It is regarded as one of the most influential late Arabic grammatical texts and one of the most consequential in the history of grammar teaching. It received numerous commentaries, most notably the expanded commentary of Ibn Ya'ish.
+A concise classical grammatical text by Abu al-Qasim Mahmud ibn Umar al-Zamakhshari (467–538 AH / 1075–1144 CE). It is commonly dated to 513–515 AH / 1119–1121 CE, during his stay in Mecca, where he took the title Jar Allah. The work circulates under more than one title, including *al-Mufaṣṣal fī ṣanʿat al-iʿrāb* and *al-Mufaṣṣal fī ʿilm al-ʿarabiyya* (also *Kitāb al-Mufaṣṣal fī al-naḥw*). It is one of the most widely studied later Arabic grammars and received numerous commentaries, most notably the expanded commentary of Ibn Yaʿish (d. 643 AH / 1245 CE).
 
 ## Structure and Methodical Organization
 
@@ -40,7 +39,7 @@ The Mufassal belongs to a generation of grammatical texts that appeared in the f
 
 ## Commentaries on the Mufassal
 
-Because of its extreme brevity, which makes it difficult for beginners to understand without an accompanying explanation, the Mufassal received considerable attention from commentators over the following centuries. The most prominent of them by far is **Ibn Ya'ish** (d. 643 AH), with his expanded commentary *Sharh al-Mufassal*, which unpacked the concise phrases of the text, elaborated them, and discussed their grammatical causes in detail. This commentary became an independent grammatical reference in its own right, no less important than the original text, and surpassed it in circulation and in its use in later grammatical studies.
+Because of its extreme brevity, which makes it difficult for beginners to understand without an accompanying explanation, the Mufassal received considerable attention from commentators over the following centuries. The most prominent of them is Ibn Yaʿish (d. 643 AH / 1245 CE), with his expanded commentary *Sharḥ al-Mufaṣṣal*, which unpacked the concise phrases of the text, elaborated them, and discussed their grammatical causes in detail. This commentary became an independent grammatical reference in its own right and a standard companion to the text in later study.
 
 ## Its Relation to al-Zamakhshari's Broader Linguistic Project
 
@@ -62,5 +61,5 @@ The Mufassal was edited in the nineteenth century by Jens Peter Broch (Christian
 
 - Versteegh, Kees. *The Arabic Language*. Edinburgh: Edinburgh University Press, 1997.
 - Carter, Michael G. "Arabic Grammar." In *The Cambridge History of Arabic Literature*. Cambridge University Press, 1990.
-- Broch, J. P. (ed.) (1859). *Der arabische Grammatiker Zamachschari: Al-Mufassal*. Christiania.
+- Broch, J. P. (ed.) (1859). *Al-Mufaṣṣal* (2nd ed. 1879). Christiania.
 - Dayf, Shawqi. *Al-Madaris al-Nahwiyya* [The Grammatical Schools]. Cairo: Dar al-Ma'arif, 1968.

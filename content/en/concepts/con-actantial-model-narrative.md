@@ -38,7 +38,9 @@ The actantial model is often paired with Greimas's other tool, the "semiotic squ
 
 ## Impact
 
-The model has been widely used to analyze literary, cinematic, advertising and mythological narrative. It has become one of the best-known tools of structuralist semiotic analysis of narrative, and it has been influential in comparative literary criticism and media studies. It has also been used in analyzing news and political narrative to reveal the functional roles behind apparent events, and in film and drama scriptwriting to deconstruct plot structure before writing.
+The model has been widely used to analyze literary, cinematic, advertising and mythological narrative, and it has been influential in comparative literary criticism and media studies. Analysts have also applied it to news and political narrative, and to film and drama plots.
+
+Greimas later set the six actants inside a canonical narrative schema with successive phases often labeled contract, competence (or qualification), performance, and sanction. The subject is mandated to act, acquires the means to act, carries out the action, and is recognized or judged. The schema is a descriptive hypothesis about a recurrent plot pattern, not a claim that every narrative follows it.
 
 ## Critique of the Model
 

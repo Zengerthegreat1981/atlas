@@ -28,7 +28,7 @@ Kuznets based his hypothesis on an observation about the dynamics of economic tr
 
 ## An optimistic policy implication
 
-This optimistic hypothesis dominated development policy thinking for decades. It provided an implicit justification: the temporary inequality accompanying rapid industrialization is an acceptable price worth paying for a broader prosperity that will spread automatically later, without active redistributive political intervention. It was sometimes used to justify rapid industrialization policies that tolerated high temporary levels of inequality in many developing countries.
+The hypothesis influenced development commentary for decades. It offered an implicit justification: inequality during industrialization could be treated as temporary, on the expectation that later growth would narrow it without a separate redistributive policy. It was sometimes cited in support of industrialization strategies that tolerated high inequality in developing countries.
 
 ## A challenge from Piketty and Atkinson
 
@@ -36,7 +36,7 @@ This optimistic hypothesis dominated development policy thinking for decades. It
 
 ## Later use in other contexts
 
-The shape of the Kuznets curve was later borrowed in other literatures, most notably the "environmental Kuznets curve", which hypothetically describes a relationship of similar shape between income level and environmental pollution. This later use is the subject of a separate methodological debate, entirely distinct from Kuznets's original hypothesis on income distribution. It is not a direct extension of his thesis, but a formal borrowing of the curve's shape; it was popularized in the early 1990s by studies such as Grossman and Krueger's on trade and the environment.
+The shape of the Kuznets curve was later borrowed in other literatures, most notably the "environmental Kuznets curve", which hypothetically describes a relationship of similar shape between income level and environmental pollution. This later use is the subject of a separate methodological debate, entirely distinct from Kuznets's original hypothesis on income distribution. It is not a direct extension of his thesis, but a borrowing of the curve's shape. Gene Grossman and Alan Krueger examined pollution and income in work on North American trade in the early 1990s and in "Economic Growth and the Environment" (1995).
 
 ## A balanced contemporary assessment
 

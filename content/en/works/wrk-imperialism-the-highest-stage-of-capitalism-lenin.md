@@ -46,7 +46,7 @@ The work's influence went beyond the theoretical field into direct political pra
 
 ## The enduring legacy in dependency theories
 
-Together with the works of Hilferding and Luxemburg, this work formed the basis on which later generations of Global South thinkers, among them Samir Amin and Immanuel Wallerstein, built their analysis of the structural economic relationship between advanced capitalist centres and the non-industrial peripheries of the world.
+Together with the works of Hilferding and Luxemburg, the pamphlet entered the set of Marxist texts later used by writers on dependency and uneven development. Samir Amin engaged Lenin's account directly. Immanuel Wallerstein's world-systems analysis drew on a wider set of sources, including this tradition, rather than on this pamphlet alone.
 
 ## Conditions of writing during the war and censorship
 
@@ -58,7 +58,7 @@ The work carries a descriptive subtitle in Russian that can be translated as "a 
 
 ## Sources
 
-- Lenin, V. I. *Imperialism, the Highest Stage of Capitalism: A Popular Outline*. Petrograd: Zhizn' i Znanie, 1917.
+- Lenin, V. I. *Imperialism, the Highest Stage of Capitalism: A Popular Outline*. Written in Zurich, 1916; first published as a pamphlet by Parus, Petrograd, 1917.
 - Hobson, J. A. *Imperialism: A Study*. London: James Nisbet, 1902.
 - Brewer, Anthony. *Marxist Theories of Imperialism: A Critical Survey*. 2nd ed., Routledge, 1990.
 - Service, Robert. *Lenin: A Biography*. Macmillan, 2000.

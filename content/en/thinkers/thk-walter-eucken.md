@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Walter Eucken"
 en: "Walter Eucken"
 crumb: "Political Economy ← Thinkers ← Walter Eucken"
-dates: "Jena, Germany · 1891 – 1950"
+dates: "Jena and London · 1891 – 1950"
 country: "Germany"
 language: "German"
 economic_school: "Ordoliberalism"
@@ -20,7 +20,7 @@ gaps: []
 ---
 # Walter Eucken
 
-**Walter Eucken** was a German economist and founder of what became known as the "Freiburg School" and **ordoliberalism**. He developed a theoretical framework that combines the freedom of competitive markets with the necessity of a legal and institutional framework designed carefully by the state, which protects the structure of competition from internal erosion through the formation of private cartels and monopolies. In this way he distinguished himself from both classical laissez-faire liberalism and centrally planned socialism.
+**Walter Eucken** was a German economist and, with the lawyer Franz Böhm, a principal figure of the Freiburg School and of **ordoliberalism**. He developed a theoretical framework that combines the freedom of competitive markets with the necessity of a legal and institutional framework designed carefully by the state, which protects the structure of competition from internal erosion through the formation of private cartels and monopolies. In this way he distinguished himself from both classical laissez-faire liberalism and centrally planned socialism.
 
 ## Two failed experiences that drove theorizing
 
@@ -28,7 +28,7 @@ Eucken, a professor at the University of Freiburg from 1927, lived through two G
 
 ## The founding principles of the economic order
 
-In his principal work, *Die Grundlagen der Nationalökonomie* (1940), and the posthumously published *Grundsätze der Wirtschaftspolitik* (1952), Eucken set out a set of "constituent principles" that he held any competition-based economic system requires: stability of the currency's value; freedom of entry into markets without artificial barriers; private property; freedom of contract; full responsibility of individuals for the consequences of their economic decisions without repeated government bailouts that distort incentives; and sufficient stability of overall economic policy to enable long-term individual planning.
+In his principal work, *Die Grundlagen der Nationalökonomie* (1940), and the posthumously published *Grundsätze der Wirtschaftspolitik* (1952), Eucken set out "constituent principles" that he held a competitive order requires. The central one is a functioning price system under competition. With it he listed stability of the currency; open markets (freedom of entry); private property; freedom of contract; liability, meaning that decision-makers bear the losses of their choices; and a constancy of economic policy sufficient for private planning. He treated anti-monopoly policy as a separate "regulating" principle needed because competition does not maintain itself.
 
 ## Criticism of the old formal liberalism
 
@@ -40,7 +40,7 @@ Together with lawyers he worked with, such as Franz Böhm, Eucken formed a resea
 
 ## Early death before the full effect of his work
 
-Eucken died in 1950, only two years after the German currency reform of 1948, which was overseen by Ludwig Erhard and partly drew on his ideas. He therefore did not witness the fruits of what was later called the "German economic miracle" of the 1950s, although his ideas formed one of the direct theoretical foundations of these policies.
+Eucken died in London on 20 March 1950, while lecturing at the London School of Economics, less than two years after the West German currency reform of June 1948. Ludwig Erhard directed that reform and the move to a market economy in the Bizone. Ordoliberal ideas were one source of what Erhard and Alfred Müller-Armack called the social market economy. Eucken did not live to see the rapid West German growth of the 1950s.
 
 ## Lasting institutional influence
 
@@ -65,4 +65,5 @@ Eucken's influence went beyond the narrow German context to become a reference i
 ## Sources
 
 - Eucken, Walter. *Die Grundlagen der Nationalökonomie*. Gustav Fischer, 1940.
+- Eucken, Walter. *Grundsätze der Wirtschaftspolitik*. J. C. B. Mohr (Paul Siebeck), 1952.
 - Nicholls, A. J. *Freedom with Responsibility: The Social Market Economy in Germany, 1918–1963*. Oxford University Press, 1994.

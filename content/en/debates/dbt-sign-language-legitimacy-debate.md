@@ -8,7 +8,7 @@ title: "The Sign Language Legitimacy Debate: Primitive Gestures or a Complete Hu
 en: "The Sign Language Legitimacy Debate"
 crumb: "Linguistics ← Debates ← The Sign Language Legitimacy Debate"
 active_start: 1960
-active_end: 1980
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Sign Language Linguistics", target_type: "مدرسة"
 related:
@@ -21,7 +21,7 @@ gaps: []
 
 # The Sign Language Legitimacy Debate: Primitive Gestures or a Complete Human Language?
 
-A decisive historical debate in linguistics, conducted between the 1960s and the late 1970s, over whether the sign languages used by deaf people (such as American Sign Language, ASL) are human languages complete in all linguistic respects, or merely simple systems of visual gestures, or a literal "manual translation" of the surrounding spoken language without a grammatical structure of its own.
+A debate in linguistics, opened in a new form in the 1960s, over whether the sign languages used by deaf people (such as American Sign Language, ASL) are languages with their own phonology, morphology and syntax, or merely simple systems of visual gestures, or a manual rendering of the surrounding spoken language. Within linguistics the descriptive case was widely accepted by the 1980s. Arguments about education have continued.
 
 ## The prevailing view before the debate
 
@@ -29,19 +29,19 @@ Until the mid-twentieth century, a dominant educational and linguistic view rega
 
 ## The foundational research: William Stokoe
 
-The American linguist William Stokoe radically overturned this view with his systematic research beginning in 1960. He applied to American Sign Language the same analytical tools used to analyze spoken languages. He showed that each sign breaks down into smaller, systematically distinct structural units (which he called "cheremes," in parallel with the phonemes of spoken sounds), defined in his original analysis by three main parameters (handshape, location, and movement; later researchers added orientation as a fourth), and that this language has a regular grammar of its own, entirely independent of the grammar of the surrounding English, rather than being a mere manual spelling of English words.
+The American linguist William Stokoe challenged this view with systematic research beginning in 1960. He applied to American Sign Language the same analytical tools used to analyze spoken languages. He showed that each sign breaks down into smaller, systematically distinct structural units (which he called "cheremes," in parallel with the phonemes of spoken sounds), defined in his original analysis by three main parameters (handshape, location, and movement; later researchers added orientation as a fourth), and that this language has a regular grammar of its own, entirely independent of the grammar of the surrounding English, rather than being a mere manual spelling of English words.
 
-## Later decisive evidence
+## Later evidence
 
-Subsequent research strengthened this conclusion, including work by Ursula Bellugi, Edward Klima and colleagues on the structure and neural processing of sign language. Studies of deaf signers with brain damage showed that left-hemisphere lesions can produce sign aphasias resembling the aphasias of speakers, and imaging work found that signing engages left-hemisphere language regions largely similar to those used for speech, not merely general visual-spatial areas. This is strong evidence that the brain treats sign language as a complete language, not merely a general visual-motor skill.
+Subsequent research strengthened this description, including work by Ursula Bellugi, Edward Klima and colleagues on the structure and neural processing of sign language. Studies of deaf signers with brain damage showed that left-hemisphere lesions can produce sign aphasias resembling the aphasias of speakers, and imaging work found that signing engages left-hemisphere language regions largely similar to those used for speech, alongside modality-specific visuospatial demands. These results are evidence that signed languages are organized as languages in the brain, not only as general visual-motor skills.
 
 ## Resolution and educational impact
 
-This scientific shift led to a radical educational re-evaluation. Many educational and linguistic institutions gradually recognized sign language as a legitimate first language for deaf children, to be acquired early rather than delayed in favor of exclusively oral training. The effect of this shift continues to extend across deaf education policies around the world today.
+This scientific shift led to a broad educational re-evaluation. Many educational and linguistic institutions gradually recognized sign language as a legitimate first language for deaf children, to be acquired early rather than delayed in favor of exclusively oral training. The effect of this shift continues to extend across deaf education policies around the world today.
 
 ## The early academic reception of Stokoe's research
 
-Stokoe's foundational research, when first published in 1960, met with wide rejection and skepticism from many linguistic and educational circles, since the idea seemed strange against the prevailing view at the time. How could a visual-kinesic communication system have a "phonology" (a sound system in the abstract sense) similar to the systems of spoken languages, when it has no sound at all? It took roughly a decade or more of additional research (especially by Ursula Bellugi and Edward Klima at the Salk Institute in La Jolla, California, during the 1970s) before the scientific recognition of sign language as a complete language became the prevailing consensus within the linguistic field in general.
+Stokoe's 1960 monograph was slow to persuade linguists and educators. A recurring objection was that a visual-kinesic system could not have a phonology, understood as a level of contrastive form, if it had no sound. Research through the 1970s, especially by Ursula Bellugi and Edward Klima at the Salk Institute in La Jolla, made a grammatical and psycholinguistic description of ASL standard in the field. Consensus was gradual, not a single reversal.
 
 ## Further evidence from sign-language acquisition in children
 
@@ -49,16 +49,16 @@ Studies of language acquisition in deaf children born to deaf parents (who are e
 
 ## Broader impact on the classification of sign languages worldwide
 
-This scientific resolution paved the way for studying the many sign languages around the world (which are entirely independent of one another, and are not necessarily related to American Sign Language or even to the spoken language surrounding their hearing community) as natural linguistic families that deserve documentation and comparative study on a par with spoken languages. They are no longer regarded as variants of a single simplified universal gestural system, as was mistakenly assumed previously.
+That change of description opened comparative work on sign languages around the world. Many are historically unrelated to ASL and are not manual versions of the spoken language used nearby, though some sign languages are related to one another. They are not variants of one universal gestural code.
 
 ## Remnants of the debate in contemporary educational policy
 
-Despite the clear scientific resolution of this debate within linguistic circles, some of its practical effects remain present in contemporary educational discussions about the best timing and method for teaching deaf children. The question is whether the child should be exposed to sign language very early, in parallel with any attempt at oral speech (a bilingual approach), or whether learning it should be postponed until attempts at auditory training and oral speech through cochlear implantation have been exhausted. Outcomes vary between children, and the decision rests with families and qualified professionals. This discussion does not concern the legitimacy of sign language itself (which is scientifically settled), but rather the best practical educational strategy for achieving the highest possible linguistic and social outcome for each individual child.
+Linguists now treat natural sign languages as languages. Practical disagreement remains about the timing and method of teaching deaf children. The question is whether the child should be exposed to sign language very early, in parallel with any attempt at oral speech (a bilingual approach), or whether learning it should be postponed until attempts at auditory training and oral speech through cochlear implantation have been exhausted. Outcomes vary between children, and the decision rests with families and qualified professionals. This discussion does not concern the legitimacy of sign language itself (which is scientifically settled), but rather the best practical educational strategy for achieving the highest possible linguistic and social outcome for each individual child.
 
 ## Sources
 
 - Stokoe, William C. *Sign Language Structure*. Studies in Linguistics, Occasional Papers 8, 1960.
 - Klima, Edward S., and Ursula Bellugi. *The Signs of Language*. Harvard University Press, 1979.
-- Hickok, Gregory, Ursula Bellugi, and Edward S. Klima. "The Neurobiology of Signed Language and Its Implications for the Neural Basis of Language." *Nature* 381 (1996).
+- Hickok, Gregory, Ursula Bellugi, and Edward S. Klima. "The Neurobiology of Sign Language and Its Implications for the Neural Basis of Language." *Nature* 381 (1996).
 - Petitto, Laura Ann, and Paula F. Marentette. "Babbling in the Manual Mode: Evidence for the Ontogeny of Language." *Science* 251 (1991).
 - Sandler, Wendy, and Diane Lillo-Martin. *Sign Language and Linguistic Universals*. Cambridge University Press, 2006.

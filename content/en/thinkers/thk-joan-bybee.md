@@ -12,6 +12,11 @@ birth_year: 1945
 fields: ["usage-based linguistics", "phonology", "frequency effects", "grammaticalization"]
 affiliation: "University of New Mexico"
 primary_school: "sch-usage-based-grammar"
+country: "United States"
+language: "English"
+active_start: 1985
+active_end: "مستمر"
+active_source: "career"
 edges:
 - rel: "belongs_to", target: "Usage-Based Grammar", target_type: "مدرسة"
 related:
@@ -21,7 +26,7 @@ gaps: []
 
 # Joan Bybee
 
-An American linguist and Distinguished Professor Emerita in the Department of Linguistics at the University of New Mexico, and one of the leading founders of **Usage-Based Grammar** (Usage-Based Linguistics), a current holding that the structure of language (phonological, morphological, and syntactic) is not given in advance by an innate "universal grammar," but **emerges** from the actual repeated use of language and its accumulation in the speaker's mind. She served as president of the Linguistic Society of America in 2004.
+An American linguist and Distinguished Professor Emerita of Linguistics at the University of New Mexico. She is a central figure in **usage-based linguistics**, which holds that phonological, morphological and syntactic structure is not supplied ready-made by an innate universal grammar but is built up from repeated experience of language. She was president of the Linguistic Society of America in 2004.
 
 ## Contributions
 
@@ -39,7 +44,7 @@ Unlike generative linguistics (Chomsky), which separates an abstract rule system
 
 ## Impact
 
-- She helped establish **cognitive usage-based linguistics** as a complete methodological alternative to generative grammar.
+- Her work is a main reference for usage-based alternatives to generative grammar.
 - Her comparative project on grammaticalization (together with Perkins and Pagliuca) has become a standard reference in **comparative historical linguistics** and linguistic typology.
 - She influenced research on language acquisition and psycholinguistics by emphasizing the role of repetition and frequency in learning.
 
@@ -58,6 +63,7 @@ Unlike generative linguistics (Chomsky), which separates an abstract rule system
 
 ## Sources
 
+- Bybee, Joan. *Morphology: A Study of the Relation between Meaning and Form*. Amsterdam: John Benjamins, 1985.
 - Bybee, Joan, Revere Perkins, and William Pagliuca. *The Evolution of Grammar: Tense, Aspect, and Modality in the Languages of the World*. Chicago: University of Chicago Press, 1994.
 - Bybee, Joan. *Phonology and Language Use*. Cambridge: Cambridge University Press, 2001.
 - Bybee, Joan. *Language, Usage and Cognition*. Cambridge: Cambridge University Press, 2010.

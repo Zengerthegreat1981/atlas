@@ -19,8 +19,7 @@ related:
 - id: "thk-joshua-fishman", title: "Joshua Fishman", type: "مفكر"
 - id: "con-diglossia", title: "Diglossia", type: "مفهوم"
 - id: "con-code-switching-mixing", title: "Code-Switching & Code-Mixing", type: "مفهوم"
-gaps:
-  - "Detailed treatment of the variationist, language-ideology, and language-contact schools: not yet covered here (see the linked school entries)"
+gaps: []
 ---
 
 # Sociolinguistics: Language in Its Social Context
@@ -29,7 +28,7 @@ A major branch of linguistics that studies the reciprocal relationship between l
 
 ## Origins and method
 
-Although the roots of interest in language and society extend back to the study of geographical dialects in the nineteenth century, sociolinguistics as a distinct methodological field took shape in the 1960s through the work of William Labov. Labov introduced rigorous statistical and fieldwork methods, such as his well-known study of the pronunciation of postvocalic /r/ in New York City department stores (carried out in 1962 and published in 1966). This demonstrated that linguistic change is not random, but is regularly linked to measurable social variables, founding what is known as "variationist sociolinguistics." In parallel, another tradition established by Joshua Fishman focused on the "sociology of language" at the macro level: language policies, the death and revival of languages, and the broader diglossia between a "high," formal language and "low," everyday vernaculars.
+Although the roots of interest in language and society extend back to the study of geographical dialects in the nineteenth century, sociolinguistics as a distinct methodological field took shape in the 1960s through the work of William Labov. Labov introduced rigorous statistical and fieldwork methods, such as his well-known study of the pronunciation of postvocalic /r/ in New York City department stores (carried out in 1962 and published in 1966). The study treated linguistic variation as regularly linked to measurable social variables and became a founding study of what is known as "variationist sociolinguistics." The 1966 book reports stratification of a variable; Labov's argument that variation is orderly change in progress is developed more fully in his Martha's Vineyard study (1963) and in *Sociolinguistic Patterns* (1972). In parallel, another tradition established by Joshua Fishman focused on the "sociology of language" at the macro level: language policies, the death and revival of languages, and the broader diglossia between a "high," formal language and "low," everyday vernaculars.
 
 ## Central topics
 
@@ -55,6 +54,12 @@ The branch has developed precise tools for quantitative measurement of linguisti
 
 A growing strand within sociolinguistics studies how linguistic choice (a dialect, a language, or even a particular intonation) is used as a conscious or semi-conscious tool to build a specific social identity and to position oneself within a particular group. For example, an urban young person may choose a particular pronunciation to express affiliation with one social group rather than another. This goes beyond the early understanding of linguistic change as a purely passive reflection of social class, toward a more dynamic view of language as an effective instrument of identity expression and negotiation that speakers themselves actively practice, not a mechanical passive reflection of a fixed social background.
 
+## Language ideology and language contact
+
+Language-ideology research, associated with Michael Silverstein and later with Susan Gal, Judith Irvine, Kathryn Woolard, and Bambi Schieffelin, studies beliefs about what counts as correct, pure, or authentic speech, and how those beliefs organize institutions such as schools and standard-language policy. The claims are about social evaluation, not about a dialect being linguistically deficient.
+
+Contact linguistics studies what happens when speakers of different languages interact over time. Outcomes include borrowing, code-switching, pidgins, and creoles. Sarah Thomason and Terrence Kaufman (1988) distinguish change through borrowing in language maintenance from change through imperfect shift. Pidgins are languages of restricted contact use; creoles are languages that have become a community's native language. Neither process is a simple corruption of a source language.
+
 ## Gender and linguistic difference
 
 An additional line of research within this branch studies the linguistic differences associated with gender: patterns of pronunciation, vocabulary and conversational strategies that differ statistically between male and female speakers in many societies. Some early studies explained these differences as essential psychological differences between the sexes, while later studies prefer social explanations, such as the association of certain linguistic patterns with a social status that speakers seek to adopt or avoid depending on their social position and the interactional context, rather than a fixed biological difference between the sexes in itself.
@@ -65,3 +70,6 @@ An additional line of research within this branch studies the linguistic differe
 - Labov, William. *Sociolinguistic Patterns*. University of Pennsylvania Press, 1972.
 - Fishman, Joshua A. *Sociolinguistics: A Brief Introduction*. Newbury House, 1970.
 - Ferguson, Charles A. "Diglossia." *Word*, vol. 15, no. 2, 1959, pp. 325-340.
+- Labov, William. "The Social Motivation of a Sound Change." *Word*, vol. 19, no. 3, 1963, pp. 273-309.
+- Thomason, Sarah Grey, and Terrence Kaufman. *Language Contact, Creolization, and Genetic Linguistics*. University of California Press, 1988.
+- Schieffelin, Bambi B., Kathryn A. Woolard, and Paul V. Kroskrity, eds. *Language Ideologies: Practice and Theory*. Oxford University Press, 1998.

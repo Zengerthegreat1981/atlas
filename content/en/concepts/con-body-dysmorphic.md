@@ -31,7 +31,7 @@ DSM-5-TR requires: (1) preoccupation with one or more perceived defects in appea
 
 ## Key Dimensions
 
-- **The difference from normal appearance anxiety**: what distinguishes BDD clinically is not simply anxiety about appearance (which is socially common), but the intensity of the preoccupation, the amount of time it consumes (often an hour or more a day), and the real functional harm it causes.
+- **The difference from ordinary appearance concern**: what distinguishes BDD clinically is the intensity of the preoccupation, the distress or impairment it causes, and the repetitive checking, grooming, camouflaging, or comparing that follows it. Research interviews often treat preoccupation for about an hour or more a day as a marker of clinical severity. That hour is not a DSM-5-TR duration criterion.
 - **Relation to cosmetic surgery**: many people with BDD seek repeated cosmetic or dermatological procedures, and these procedures often do not relieve the preoccupation and may even make it worse. This makes psychological screening before cosmetic surgery an important preventive tool.
 - **Variable insight**: the degree to which the patient recognizes that their beliefs are unrealistic ranges from good insight to beliefs that are almost delusional in their certainty. This sometimes determines the clinical distinction between BDD and a typical delusional disorder of the somatic type.
 - **Treatment**: cognitive-behavioral therapy and serotonin reuptake inhibitor medication are the best-studied approaches; this entry is descriptive and not a treatment guide.

@@ -19,7 +19,7 @@ gaps: []
 ---
 # Modern Monetary Theory
 
-**Modern monetary theory** is a macroeconomic analytical framework that developed gradually from the mid-1990s onward, through economists associated with the post-Keynesian tradition (among the most prominent are Warren Mosler, L. Randall Wray and Stephanie Kelton). It draws on earlier intellectual roots in the ideas of Abba Lerner about "functional finance" and in Georg Friedrich Knapp's *The State Theory of Money* (1905), the source of "chartalism", to offer an alternative view of the nature of money and the real constraints on government spending.
+**Modern monetary theory** is a macroeconomic analytical framework that developed gradually from the mid-1990s onward, through economists associated with the post-Keynesian tradition (among the most prominent are Warren Mosler, L. Randall Wray and Stephanie Kelton). It draws on earlier intellectual roots in Abba Lerner's "functional finance" and in Georg Friedrich Knapp's *Staatliche Theorie des Geldes* (1905; English translation *The State Theory of Money*, 1924), a source of "chartalism", to offer an alternative view of the nature of money and the real constraints on government spending.
 
 ## Monetary sovereignty: a state does not "run out" of its currency
 
@@ -41,5 +41,5 @@ The theory provoked wide academic and political debate, especially after the 200
 
 - Wray, L. Randall. *Modern Money Theory: A Primer on Macroeconomics for Sovereign Monetary Systems*. 2nd ed., Palgrave Macmillan, 2015.
 - Kelton, Stephanie. *The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy*. PublicAffairs, 2020.
-- Knapp, Georg Friedrich. *Staatliche Theorie des Geldes*. 1905.
+- Knapp, Georg Friedrich. *Staatliche Theorie des Geldes*. Duncker & Humblot, 1905. English translation: *The State Theory of Money*. Macmillan, 1924.
 - Lerner, Abba P. "Functional Finance and the Federal Debt." *Social Research*, vol. 10, no. 1, 1943, pp. 38–51.

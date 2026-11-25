@@ -24,7 +24,7 @@ gaps: []
 ---
 # Rosa Luxemburg
 
-**Rosa Luxemburg** was a Marxist thinker and revolutionary activist of Polish-Jewish origin who moved to Germany, where she became one of the leading theorists of the German Social Democratic movement. In her principal economic work, *The Accumulation of Capital* (1913), she offered one of the most ambitious attempts within the Marxist tradition to explain imperialism theoretically.
+**Rosa Luxemburg** was a Marxist thinker and revolutionary activist of Polish-Jewish origin who moved to Germany, where she became one of the leading theorists of the German Social Democratic movement. In her principal economic work, *The Accumulation of Capital* (1913), she offered a major attempt within the Marxist tradition to explain imperialism theoretically.
 
 ## The problem she raised: how is surplus value realized?
 
@@ -36,7 +36,7 @@ In *The Accumulation of Capital*, Luxemburg offered a radical answer: capitalism
 
 ## The debate with Hilferding and Lenin
 
-Luxemburg's explanations differed from those of her contemporary Marxist theorists of imperialism. **Rudolf Hilferding** focused on the integration of banking capital with industrial capital, while **Vladimir Lenin** combined elements of both in his best-known analysis, *Imperialism, the Highest Stage of Capitalism* (1916); Hilferding's *Finance Capital* appeared in 1910. Her disagreement with Lenin was also political: in her 1904 article on organisational questions she criticised a highly centralised party, and in her manuscript on the Russian Revolution (written in 1918, published posthumously) she supported the Bolsheviks' seizure of power while criticising the suppression of democratic freedoms. Her analysis of underconsumption remained an independent contribution that deeply influenced debates on the theory of capitalist crisis throughout the twentieth century, particularly among later Marxist economists concerned with the problem of "underconsumption".
+Luxemburg's explanations differed from those of her contemporary Marxist theorists of imperialism. **Rudolf Hilferding** focused on the integration of banking capital with industrial capital, while **Vladimir Lenin**, in *Imperialism, the Highest Stage of Capitalism* (written 1916, published 1917), drew mainly on Hobson and on Hilferding's *Finance Capital* (1910), and did not accept Luxemburg's realization argument. Her disagreement with Lenin was also political: in her 1904 article on organisational questions she criticised a highly centralised party, and in her manuscript on the Russian Revolution (written in 1918, published posthumously) she supported the Bolsheviks' seizure of power while criticising the suppression of democratic freedoms. Her underconsumption argument remained a distinct contribution to later Marxist debates on crisis and imperialism.
 
 ## The revolutionary activist: from Poland to Berlin
 
@@ -48,15 +48,15 @@ Luxemburg's thesis faced systematic economic criticism from other Marxists, incl
 
 ## An exceptional academic path for a woman of her era
 
-Luxemburg received her doctorate in law and political economy from the University of Zurich in 1897, an exceptional academic achievement for a woman in that period. She had to study in Switzerland rather than in Poland or Germany because of restrictions on women's education and on left-wing political activity in her native country, which was then under Russian rule. Her doctoral dissertation dealt with industrial development in Poland, reflecting an early interest in regional economic development issues that preceded her later interest in global imperialism.
+Luxemburg received her doctorate in law and political economy from the University of Zurich in 1897, an exceptional academic achievement for a woman in that period. She studied in Switzerland rather than in Russian Poland, where universities were largely closed to women and where her socialist activity was illegal. German universities were also still largely closed to women. Her doctoral dissertation dealt with industrial development in Poland, reflecting an early interest in regional economic development issues that preceded her later interest in global imperialism.
 
 ## Parallel journalistic and educational activity
 
-Alongside her academic theoretical work, Luxemburg taught economics at the school of the German Social Democratic Party in Berlin from 1907 and a prolific writer in the German socialist press. She combined academic theoretical precision with the ability to communicate politically and directly with a broad working-class audience, a rare combination that made her an influential intellectual and political figure at once, rather than a theorist isolated from the actual workers' movement.
+Alongside her theoretical work, Luxemburg taught economics at the school of the German Social Democratic Party in Berlin from 1907 and was a prolific writer in the German socialist press. She addressed both specialist argument and a working-class readership.
 
 ## A renewed feminist and socialist legacy
 
-Feminist left movements in the late twentieth century rediscovered Luxemburg and appreciated her intellectual contribution as one of the most prominent women economists and political theorists in the history of socialist thought, at a time when women's participation in the highest academic and political fields was a very rare exception. This gave her intellectual legacy a symbolic dimension beyond the content of her specific economic theses alone.
+Later feminist and socialist writers returned to Luxemburg as a major woman theorist in a period when women were rarely admitted to university posts or party leadership. That reception is separate from the technical standing of her reproduction argument, which other Marxists continued to dispute.
 
 ## Sources
 

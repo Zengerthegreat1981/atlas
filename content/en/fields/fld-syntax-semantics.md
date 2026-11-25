@@ -72,7 +72,7 @@ Syntacticians use acceptability judgments, increasingly with controlled formal e
 
 ## Connections to other disciplines
 
-Philosophy of language and logic provide the foundations of formal semantics. Psychology examines how sentences are parsed and understood in real time, and how children acquire syntax. Computer science uses formal grammars and parsing, and the Chomsky hierarchy of formal languages (1956) links linguistics to automata theory. Large language models raise new questions about whether statistical learning can reproduce syntactic competence, and the answers are contested. Anthropology and typology supply cross-linguistic data.
+Philosophy of language and logic provide the foundations of formal semantics. Psychology examines how sentences are parsed and understood in real time, and how children acquire syntax. Computer science uses formal grammars and parsing. Chomsky's papers of 1956 and 1959 on formal grammars link linguistics to automata theory through what is now called the Chomsky hierarchy. Large language models raise new questions about whether statistical learning can reproduce syntactic competence, and the answers are contested. Anthropology and typology supply cross-linguistic data.
 
 ## Cautions
 

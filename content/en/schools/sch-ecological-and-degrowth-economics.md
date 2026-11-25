@@ -30,11 +30,11 @@ gaps: []
 
 ## Daly and the steady-state economy
 
-Herman Daly, who worked as an economist at the World Bank before becoming one of its leading critics, presented in his book *Steady-State Economics* (1977) an explicit theoretical alternative to the idea of unlimited economic growth: the **steady-state economy**, which maintains a relatively constant stock of physical capital and population, so that the rate of resource consumption and waste generation stays within the capacity of ecological systems to regenerate and absorb, rather than pursuing ever-increasing accumulation. Daly built on the entropy-based work of Nicholas Georgescu-Roegen (*The Entropy Law and the Economic Process*, 1971) and on the second law of thermodynamics, asserting that the economy is a subsystem within a larger, physically bounded ecological system, not an isolated system that can expand without accumulating environmental costs.
+Herman Daly presented in *Steady-State Economics* (1977) an explicit theoretical alternative to the idea of unlimited economic growth: the **steady-state economy**, which maintains a relatively constant stock of physical capital and population, so that the rate of resource consumption and waste generation stays within the capacity of ecological systems to regenerate and absorb, rather than pursuing ever-increasing accumulation. Daly later served as a senior economist at the World Bank (1988–1994) and criticised growth-oriented practice from inside and after he left. He built on the entropy-based work of Nicholas Georgescu-Roegen (*The Entropy Law and the Economic Process*, 1971) and on the second law of thermodynamics, asserting that the economy is a subsystem within a larger, physically bounded ecological system, not an isolated system that can expand without accumulating environmental costs.
 
 ## From stability to degrowth
 
-A more radical movement later developed under the name "degrowth", particularly in France and southern Europe. Its intellectual lineage includes Georgescu-Roegen and, in France, Serge Latouche. It goes further than Daly's call for stability, demanding the organized and deliberate contraction of the size of wealthy economies specifically — not of the whole world equally. Its argument is that continuing to pursue aggregate growth, even in economies already materially saturated, aggravates the climate crisis without improving real well-being in proportion to its environmental cost. It draws partly on empirical evidence showing that the link between rising income and reported happiness slows after a certain income threshold.
+A more radical movement later developed under the name "degrowth", particularly in France and southern Europe. Its intellectual lineage includes Georgescu-Roegen and, in France, Serge Latouche. It goes further than Daly's call for stability, demanding the organized and deliberate contraction of the size of wealthy economies specifically — not of the whole world equally. Its argument is that continuing to pursue aggregate growth, even in economies already materially saturated, aggravates the climate crisis without improving real well-being in proportion to its environmental cost. It draws partly on contested empirical claims, associated with Richard Easterlin, that average reported happiness in already rich countries does not rise in step with further income growth.
 
 ## Raworth and the doughnut economy
 
@@ -42,7 +42,7 @@ Kate Raworth, in her book *Doughnut Economics* (2017), presented a visual and co
 
 ## Ostrom and commons managed collectively
 
-Elinor Ostrom made a pivotal contribution that intersects with ecological economics. She empirically refuted the pessimistic assumption of the "tragedy of the commons" model — that any shared resource not owned privately will inevitably be overexploited — by documenting many cases around the world in which local communities succeeded in managing shared resources (fisheries, forests, irrigation systems) under self-organized rules, without full privatization or centralized government nationalization. She received the Nobel Prize in Economics for this work in 2009.
+Elinor Ostrom made a pivotal contribution that intersects with ecological economics. She challenged the claim, associated with Garrett Hardin's "tragedy of the commons" (1968), that a shared resource not owned privately will inevitably be overexploited. Her case studies documented fisheries, forests and irrigation systems in which local communities limited use under self-organized rules, without full privatization or central state control. She did not claim that such arrangements always succeed, or that private and state ownership never do. She received the Nobel Prize in Economics for this work in 2009.
 
 ## Criticism from mainstream economics
 
@@ -66,3 +66,5 @@ The International Society for Ecological Economics was founded in 1989, along wi
 - Raworth, Kate. *Doughnut Economics: Seven Ways to Think Like a 21st-Century Economist*. Chelsea Green Publishing, 2017.
 - Meadows, Donella H., et al. *The Limits to Growth*. Universe Books, 1972.
 - Ostrom, Elinor. *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press, 1990.
+- Hardin, Garrett. "The Tragedy of the Commons." *Science*, vol. 162, no. 3859, 1968, pp. 1243–1248.
+- Easterlin, Richard A. "Does Economic Growth Improve the Human Lot? Some Empirical Evidence." In *Nations and Households in Economic Growth*, edited by Paul A. David and Melvin W. Reder, Academic Press, 1974.

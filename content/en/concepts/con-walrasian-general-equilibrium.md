@@ -24,7 +24,7 @@ gaps: []
 
 ## The Origin of the Concept in Walras
 
-**Léon Walras** formulated this concept in his book *Elements of Pure Economics* (1874), presenting a system of simultaneous equations that describes how, in principle, the prices of all goods and factors of production can be determined together such that no surplus or shortage remains in any market. Walras proved an important mathematical result known by his name (Walras's law): if (n-1) of n markets are in equilibrium, then the last market is also automatically in equilibrium.
+**Léon Walras** formulated this concept in his book *Éléments d'économie politique pure* (1874; English title *Elements of Pure Economics*), presenting a system of simultaneous equations that describes how, in principle, the prices of all goods and factors of production can be determined together such that no surplus or shortage remains in any market. A result associated with him, Walras's law, follows from agents' budget constraints: if n−1 of n markets are in equilibrium, the remaining market is in equilibrium as well. The modern statement is cleaner than Walras's own exposition.
 
 ## The Walrasian Auctioneer: A Hypothetical Mechanism of Arrival
 
@@ -32,7 +32,7 @@ Walras described a process of groping (*tâtonnement*) by which equilibrium is r
 
 ## Settling the Existence Problem: Arrow and Debreu
 
-The problem of proving that this equilibrium actually exists, at reasonable positive prices, remained unresolved for decades after Walras. It was finally settled by Kenneth Arrow and Gérard Debreu in 1954, using tools from mathematical topology (fixed-point theorems). This is known as the **Arrow-Debreu model**, and it is among the most precise mathematical achievements in the history of economics.
+Whether an equilibrium exists at non-negative prices remained an open mathematical question for decades after Walras. Kenneth Arrow and Gérard Debreu answered it in 1954 for economies satisfying a stated list of assumptions (including convex preferences and technologies), using fixed-point theorems. Their framework, extended in Debreu's *Theory of Value* (1959), is known as the **Arrow–Debreu model**. Existence here means existence under those assumptions, not a claim that every real economy has such a price vector.
 
 ## The Link to Pareto Efficiency
 
@@ -46,4 +46,4 @@ The framework is mostly used as a normative tool for understanding the condition
 
 - Walras, Léon. *Éléments d'économie politique pure*. L. Corbaz, 1874.
 - Arrow, Kenneth J., and Gérard Debreu. "Existence of an Equilibrium for a Competitive Economy." *Econometrica*, vol. 22, no. 3, 1954, pp. 265-290.
-- Debreu, Gérard. *Theory of Value*. Wiley, 1959.
+- Debreu, Gérard. *Theory of Value: An Axiomatic Analysis of Economic Equilibrium*. Yale University Press, 1959.

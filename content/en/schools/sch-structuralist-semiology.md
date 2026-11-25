@@ -23,25 +23,25 @@ related:
 gaps: []
 ---
 
-# Saussurean Semiology and Its Extensions
+# Structuralist Semiology
 
-In *Course in General Linguistics* (1916, compiled by his students Charles Bally and Albert Sechehaye from lecture notes), Ferdinand de Saussure anticipated the emergence of a "science that studies the life of signs within social life," broader than linguistics itself, which he named "semiology" (Sémiologie). This anticipation was realized later when Roland Barthes extended the tools of linguistic structural analysis (signifier/signified, system/syntagm) to include non-linguistic sign systems entirely: fashion, advertising, and the rituals of everyday life.
+In the *Course in General Linguistics* (1916), compiled by Charles Bally and Albert Sechehaye from students' notes, with the collaboration of Albert Riedlinger, Ferdinand de Saussure sketched a science of "the life of signs within society," broader than linguistics, and called it semiology (*sémiologie*). Roland Barthes later extended structural analysis of the sign to fashion, advertising, and everyday objects.
 
 ## Distinction from Peircean Semiotics
 
-This school differs methodologically from the parallel semiotic current founded by the American philosopher Charles Sanders Peirce (Peircean Semiotics). While Saussurean semiology starts from the linguistic sign as a basic model against which all other sign systems are measured (a dyadic relation between signifier and signified, with an arbitrary link), Peirce's semiotics starts from a broader, more general philosophical and logical classification of the sign (a triadic relation between representamen, object, and interpretant), which does not give human language any special central status, but treats it as one case among wider types of signs (iconic, indexical, and symbolic).
+This school differs from the semiotic tradition associated with Charles Sanders Peirce. Saussurean semiology takes the linguistic sign as its model: a dyadic link of signifier and signified, treated as arbitrary. Peirce's semiotics classifies signs in a triadic relation of representamen, object, and interpretant, and treats language as one case among icons, indexes, and symbols. The two traditions were developed separately and were brought together mainly in later textbooks.
 
-## The Founding Tool: Transferring Saussure's Dichotomies to Cultural Signs
+## Transferring structural dichotomies to cultural signs
 
-In *Elements of Semiology* (1964), Barthes explicitly and systematically relied on the analytical dichotomies that Saussure formulated for the linguistic sign (signifier/signified, language/speech, system/syntagm, denotation/connotation), and extended their application to any social sign system: food, clothing, cars, and furniture. He assumed that all these systems operate with a semantic logic similar to that of natural language, even though their sensory materials (image, cloth, food) differ from linguistic sound.
+In *Éléments de sémiologie* (1964), Barthes applied Saussure's signifier and signified, langue and parole, and syntagmatic and associative relations, recast as syntagm and system, to food, clothing, cars, and furniture. Denotation and connotation, which he also uses, come from Louis Hjelmslev rather than from Saussure. Barthes treated these non-linguistic systems as organized in a way comparable to a language, while their materials (image, cloth, food) differ from speech sound.
 
 ## From Language to Contemporary Myths
 
-In *Mythologies* (1957), Barthes analyzed popular cultural phenomena (wrestling, advertising, the Citroën DS car) as modern "myths" that operate through a two-tiered semantic mechanism: a first-order semantic system (the direct literal meaning) becomes in turn the signifier of a second system (the ideological connotation), so that specific cultural and historical meanings are presented as "natural" and self-evident. This very mechanism ("mythologizing") enabled Barthes to reveal the ideological function of French mass culture in the 1950s: transforming historically and class-specific products and attitudes into what appears to be a natural, eternal given that requires no explanation or critique.
+In *Mythologies* (1957), Barthes analyzed popular cultural phenomena (wrestling, advertising, the Citroën DS car) as modern "myths" that operate through a two-tiered semantic mechanism: a first-order semantic system (the direct literal meaning) becomes in turn the signifier of a second system (the ideological connotation), so that specific cultural and historical meanings are presented as "natural" and self-evident. In that analysis, French mass culture of the 1950s presents historically specific products and attitudes as if they were natural.
 
 ## The Effect of Mythologizing on Contemporary Media
 
-Barthes's analysis of mythologizing extended well beyond 1950s France, becoming a standard analytical template that researchers in media studies use to reveal how advertising messages, public relations campaigns, and political discourse present specific ideological ideas (such as models of gender, consumption, or national identity) in the form of natural "truisms" that need no justification, thereby deliberately concealing their historical and class-based, changing character from the ordinary recipient.
+Media studies has often reused this two-level description for advertising and political imagery, in which a particular model of gender, consumption, or nation is presented as obvious. The method describes a semiotic effect. It does not by itself establish the intentions of a given advertiser or speaker.
 
 ## The Rhetoric of the Image and the System of Fashion
 
@@ -53,11 +53,11 @@ In his later works (such as *S/Z*, 1970), Barthes moved from rigorous structural
 
 ## The Student's Extension: Intertextuality in Kristeva
 
-Julia Kristeva, working in Barthes's Parisian circle in the mid-1960s, developed the concept of "intertextuality," which transferred Bakhtin's literary dialogism into a general semiological formulation: no text is produced in isolation from earlier texts, but is always an interwoven "mosaic of quotations." This is a direct extension of the project of expanding structural analysis tools beyond the single, isolated text.
+Julia Kristeva, in Barthes's Paris circle in the mid-1960s, introduced "intertextuality" in work that reworked Mikhail Bakhtin's dialogism (the essay appeared in *Sèméiôtikè*, 1969). On her account a text is built from earlier texts, which she described as a mosaic of quotations. The notion extends structural analysis beyond an isolated text.
 
 ## Impact
 
-This school extended the scope of linguistic structural analysis to cultural and media studies, became a standard tool for analyzing visual and advertising discourse, and influenced narrative theory (Todorov) and French literary criticism as a whole for decades afterward. It paved the way for post-structuralism to emerge as a critical development from within the structuralist project itself, rather than as a sudden break from it.
+The school carried structural analysis into cultural and media studies and into work on visual and advertising discourse. Tzvetan Todorov's narratology drew on the same structuralist milieu. Barthes's later essays are also a usual reference point for the shift toward post-structuralist criticism in France.
 
 ## Sources
 
@@ -66,3 +66,6 @@ This school extended the scope of linguistic structural analysis to cultural and
 - Barthes, Roland (1970). *S/Z*. Éditions du Seuil.
 - Saussure, Ferdinand de (1916/1983). *Course in General Linguistics*. Duckworth.
 - Culler, Jonathan (1975). *Structuralist Poetics: Structuralism, Linguistics and the Study of Literature*. Routledge & Kegan Paul.
+- Kristeva, Julia (1969). *Sèméiôtikè: Recherches pour une sémanalyse*. Éditions du Seuil.
+- Barthes, Roland (1964). "Rhétorique de l'image." *Communications* 4.
+- Hjelmslev, Louis (1943/1953). *Prolegomena to a Theory of Language*. Indiana University Publications in Anthropology and Linguistics.

@@ -35,7 +35,7 @@ Saussure's sign does not include the thing itself: the signified (Signifié) is 
 
 ## Value Within the System
 
-The signifier and signified do not acquire their meaning in isolation from their relation to the other elements of the linguistic system, but through a network of differences (Différences) with other elements. For example, the word "red" acquires its semantic value only by contrast with the rest of the color vocabulary in the same language, and the number of "basic" colors lexically codified can differ from one language to another, which demonstrates that the signified is structurally determined by its position within a network of relations rather than by an independent essence prior to language.
+For Saussure, neither face of the sign has its value in isolation. Value (*valeur*) comes from difference within the system. His own comparison is lexical: French *mouton* covers both the animal and the meat, whereas English divides that range between *sheep* and *mutton*. The French sign and the English signs are not equivalent items with different labels. Each has the value fixed by what stands next to it in its own language. Later work on color vocabularies is a separate research tradition and is not evidence Saussure offered.
 
 ## Impact
 

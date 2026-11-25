@@ -38,15 +38,15 @@ In his landmark book *Aspect* (1976), Comrie offered a systematic classification
 
 ## The Accessibility Hierarchy
 
-Comrie developed, with Edward Keenan, an influential typological classification of how relative clauses are formed across the world's languages. There is a regular hierarchy of grammatical roles that can be relativized (subject, then direct object, then indirect object, then oblique, then genitive, then object of comparison). If a language can form a relative clause from a role that is lower in the hierarchy, it is certain to be able to form one from every higher role. This statistical universal is methodologically parallel to Greenberg's original universals, and has become one of the most frequently cited typological findings in the history of the field.
+Comrie developed, with Edward Keenan, an influential typological classification of how relative clauses are formed across the world's languages. There is a regular hierarchy of grammatical roles that can be relativized (subject, then direct object, then indirect object, then oblique, then genitive, then object of comparison). On their formulation, if a language can form a relative clause on a role lower in the hierarchy, it can generally form one on every higher role. The hierarchy is an implicational tendency of the same broad kind as Greenberg's universals, and it has become a standard reference point in typology. Some later work has discussed apparent exceptions and the need to define the roles carefully.
 
 ## Major Works
 
-Besides *Aspect* (1976) and his reference article with Keenan (1977), Comrie published his comprehensive book *Language Universals and Linguistic Typology* (1981, revised 1989), which became a standard textbook in typology courses around the world. He also co-edited the *World Atlas of Language Structures* (WALS), whose online edition (2013) maps structural features across more than 2,600 languages, and published work on the languages of the Caucasus and of the former Soviet Union, including *The Languages of the Soviet Union* (1981).
+Besides *Aspect* (1976) and his reference article with Keenan (1977), Comrie published his comprehensive book *Language Universals and Linguistic Typology* (1981, revised 1989), which became a standard textbook in typology courses around the world. He was a co-editor of the print *World Atlas of Language Structures* (Haspelmath, Dryer, Gil and Comrie, 2005). The later online edition (Dryer and Haspelmath, 2013) maps structural features across more than 2,600 languages; Comrie wrote several of its chapters, including those on case alignment. He also published on the languages of the Caucasus and of the former Soviet Union, including *The Languages of the Soviet Union* (1981), and edited *The World's Major Languages* (1987). *Tense* (1985) complements *Aspect*.
 
 ## Impact and Criticism
 
-Comrie provided precise classificatory tools that became standard in comparative linguistics. He helped shape the *World Atlas of Language Structures*, which extended the scope of statistical universals to thousands of languages, and helped establish typological linguistics as a mature and independent empirical method that parallels, and serves as an alternative to, the innate formal hypotheses of generative grammar. Generativist and typological approaches differ on whether statistical tendencies or innate constraints best explain universals. Nonetheless, he remains one of the most influential linguists of the generation that established typological linguistics as an independent discipline.
+Comrie provided classificatory tools that became standard in comparative linguistics. As a co-editor of the 2005 *World Atlas of Language Structures*, he helped extend the mapping of structural features to a very large language sample. Typological and generativist approaches differ on whether widespread tendencies or innate constraints best explain cross-linguistic patterns. His textbooks remain widely used introductions to typology.
 
 ## Fieldwork on the Caucasian and Turkic Languages
 
@@ -54,11 +54,13 @@ Alongside his general theoretical work, Comrie conducted direct descriptive fiel
 
 ## His Style of Teaching and Reference Writing
 
-Comrie was also known for his ability to simplify complex typological concepts in clear instructional texts without sacrificing scientific precision. This made his book *Language Universals and Linguistic Typology* a standard introduction taught in graduate programs around the world for decades. He also edited other encyclopedic volumes, such as *The World's Major Languages*, which offered non-specialists a comparative overview of the world's most important languages and their basic structures.
+Comrie's textbooks set out typological distinctions in clear instructional prose. *Language Universals and Linguistic Typology* has long been used as an introduction in graduate programs. *The World's Major Languages* gives non-specialists a comparative sketch of a selection of widely spoken languages and their basic structures.
 
 ## Sources
 
 - Comrie, Bernard (1976). *Aspect: An Introduction to the Study of Verbal Aspect and Related Problems*. Cambridge University Press.
 - Comrie, Bernard (1989). *Language Universals and Linguistic Typology* (2nd ed.). University of Chicago Press.
 - Keenan, Edward L.; Comrie, Bernard (1977). "Noun Phrase Accessibility and Universal Grammar." *Linguistic Inquiry* 8(1).
+- Comrie, Bernard (1985). *Tense*. Cambridge University Press.
+- Haspelmath, Martin; Dryer, Matthew S.; Gil, David; Comrie, Bernard (eds.) (2005). *The World Atlas of Language Structures*. Oxford University Press.
 - Dryer, Matthew S.; Haspelmath, Martin (eds.) (2013). *The World Atlas of Language Structures Online*. Max Planck Institute for Evolutionary Anthropology.

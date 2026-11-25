@@ -15,8 +15,7 @@ edges:
 related:
 - id: "sch-marx-critique-of-political-economy", title: "Marx's Critique of Political Economy", type: "مدرسة"
 - id: "thk-marx", title: "Karl Marx", type: "مفكر"
-gaps:
-  - "Full technical debate over the law's mathematical validity (Okishio theorem and later responses): not yet covered"
+gaps: []
 ---
 # The Falling Rate of Profit
 
@@ -36,7 +35,7 @@ Marx himself acknowledged the existence of "counteracting factors" that may slow
 
 ## Later influence on the analysis of capitalist crisis
 
-This law became one of the most important analytical tools used by later Marxists to explain the cyclical crises of capitalism. It faced sharp technical and methodological criticism from later economists, however, including the Japanese economist Nobuo Okishio, who showed in 1961 that, if the real wage is held constant, a cost-reducing technique adopted by capitalists cannot lower the general rate of profit. This (the Okishio theorem) casts doubt on the law's inevitability without additional assumptions, such as rising real wages; defenders and critics have debated the point since. The French Regulation School later addressed the question of capitalism's stability and crises from an alternative institutional angle, relying less on this law alone.
+Later Marxian writers used the tendency in accounts of cyclical crisis. It has also met sharp technical criticism. Nobuo Okishio showed in 1961 that, if the real wage is held constant and inputs and outputs are valued simultaneously at equilibrium prices, a cost-reducing technique adopted by capitalists raises the general rate of profit. That result, the Okishio theorem, means the tendency does not follow from technical change alone. Ian Steedman, in *Marx after Sraffa* (1977), argued in a Sraffian framework that labour values are not required to determine prices and profits, and that joint production can separate surplus value from positive profits. Defenders of Marx have replied that Okishio's constant real wage and simultaneous valuation are not Marx's own assumptions; temporal single-system readings, set out for a wider audience by Andrew Kliman in *Reclaiming Marx's "Capital"* (2007), are one such reply. The mathematical status of the law remains disputed. The French Regulation School later treated stability and crisis in institutional terms and did not rest the argument on this tendency alone.
 
 ## Sources
 
@@ -44,3 +43,5 @@ This law became one of the most important analytical tools used by later Marxist
 - Mandel, Ernest. *Marxist Economic Theory*. Merlin Press, 1968 (French original 1962).
 - Foley, Duncan K. *Understanding Capital: Marx's Economic Theory*. Harvard University Press, 1986.
 - Okishio, Nobuo. "Technical Changes and the Rate of Profit." *Kobe University Economic Review*, no. 7, 1961, pp. 85–99.
+- Steedman, Ian. *Marx after Sraffa*. New Left Books, 1977.
+- Kliman, Andrew. *Reclaiming Marx's "Capital": A Refutation of the Myth of Inconsistency*. Lexington Books, 2007.

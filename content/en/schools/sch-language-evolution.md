@@ -45,7 +45,7 @@ Michael Corballis and other researchers propose that human language may have beg
 
 ## FOXP2 and the KE family
 
-The discovery of the FOXP2 gene (Lai and colleagues, 2001) provided rare genetic evidence bearing on the biology of speech and language. A British family known as the "KE family" carries a mutation in this gene associated with an inherited disorder affecting speech articulation and language across generations. This made FOXP2 the first gene shown to be causally implicated in a human speech and language disorder. Simon Fisher and colleagues studied the structure and neural function of this gene, though researchers have cautioned against the simplified interpretation of it as the single "language gene," since it participates in regulating broader neural networks that extend beyond language alone.
+The identification of a mutation in FOXP2 in the British "KE family" (Lai, Fisher, Monaco, and colleagues, 2001) provided rare genetic evidence bearing on a developmental speech and language disorder. The mutation is associated with an inherited impairment of speech articulation and of aspects of language across generations. FOXP2 is widely discussed as an early case of a gene tied to such a disorder. Simon Fisher and colleagues have studied its neural roles, while cautioning against treating it as a single "language gene," since it participates in regulating broader neural networks.
 
 ## The social grooming and gossip hypothesis
 
@@ -67,3 +67,4 @@ Tomasello's argument rests on careful experimental comparisons between young hum
 - Tomasello, Michael (2008). *Origins of Human Communication*. MIT Press.
 - Dunbar, Robin (1996). *Grooming, Gossip, and the Evolution of Language*. Harvard University Press.
 - Kirby, Simon; Cornish, Hannah; Smith, Kenny (2008). "Cumulative Cultural Evolution in the Laboratory: An Experimental Approach to the Origins of Structure in Human Language." *PNAS* 105(31).
+- Lai, Cecilia S. L.; Fisher, Simon E.; Hurst, Jane A.; Vargha-Khadem, Faraneh; Monaco, Anthony P. (2001). "A Forkhead-Domain Gene Is Mutated in a Severe Speech and Language Disorder." *Nature* 413.

@@ -24,7 +24,7 @@ gaps: []
 ---
 # Piero Sraffa
 
-**Piero Sraffa** was an Italian economist who spent most of his academic career at the University of Cambridge. He is one of the most influential economists and one of the least prolific in published output: his large intellectual reputation rests on only two main works, a major critical edition of the complete works of David Ricardo, and a short but highly influential book that reopened a fundamental debate on value and capitalist distribution theory.
+**Piero Sraffa** was an Italian economist who spent most of his academic career at the University of Cambridge. He published little, yet his reputation is large: it rests mainly on a critical edition of the works of David Ricardo and on a short book that reopened debate on value and distribution.
 
 ## From Fascist Italy to Cambridge
 
@@ -40,7 +40,7 @@ In 1960, after decades of silent reflection, Sraffa published his short book *Pr
 
 ## The Cambridge capital controversy: the decisive spark
 
-Sraffa's book provided a technical foundation for the **Cambridge capital controversy**, which Joan Robinson had opened in 1953. His analysis showed that measuring "capital" as a single homogeneous monetary quantity, independent of the interest rate that is supposed to be determined by this very quantity, involves a logical circularity. It also showed that the phenomenon of "reswitching" — in which a particular production technique may again become the most profitable at several non-adjacent levels of the interest rate — contradicts the simple neoclassical assumption of a monotonic relationship between the interest rate and the intensity of capital used.
+Sraffa's book provided a technical foundation for the **Cambridge capital controversy**, which Joan Robinson had opened in 1953. His analysis implied that measuring "capital" as a single homogeneous quantity, independent of the rate of profit, runs into circularity, because relative prices depend on distribution. Later work in that framework, summed up by Samuelson in 1966, established "reswitching": a technique can be the most profitable at more than one, non-adjacent, level of the rate of profit. That result conflicts with a simple neoclassical story in which a lower interest rate always goes with more capital-intensive methods.
 
 ## A work of limited circulation but deep influence
 

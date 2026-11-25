@@ -11,7 +11,7 @@ dates: "Europe and North America · from the 1980s to the present"
 country: "International"
 language: "English"
 active_start: 1980
-active_end: 2026
+active_end: "مستمر"
 active_source: "lifespan"
 cultural_origin: "european"
 edges: []
@@ -32,7 +32,7 @@ gaps:
 
 # Personality Disorders
 
-Personality disorders are stable, deeply rooted patterns of cognition, affect, interpersonal relationships, and impulse control. They deviate markedly from the expectations of the individual's culture, begin in adolescence or early adulthood, show relative stability over time and across situations, and cause distress or functional impairment. DSM-5-TR (2022) keeps a categorical model of ten disorders distributed across three "clusters" (A, B, C). Its Section III includes an alternative hybrid dimensional model (AMPD) that has not yet been adopted as the primary official diagnostic system. ICD-11 (in force since 2022), by contrast, made a radical shift: it replaced the discrete categorical patterns with a single severity scale for personality disorder, with optional trait qualifiers.
+Personality disorders are stable, deeply rooted patterns of cognition, affect, interpersonal relationships, and impulse control. They deviate markedly from the expectations of the individual's culture, begin in adolescence or early adulthood, show relative stability over time and across situations, and cause distress or functional impairment. DSM-5-TR (2022) keeps a categorical model of ten disorders distributed across three "clusters" (A, B, C). Its Section III includes an alternative hybrid dimensional model (AMPD) that has not yet been adopted as the primary official diagnostic system. ICD-11 (in force since 2022), by contrast, replaced the discrete categorical patterns with a single severity scale for personality disorder, with optional trait qualifiers.
 
 ## Origins and Context
 

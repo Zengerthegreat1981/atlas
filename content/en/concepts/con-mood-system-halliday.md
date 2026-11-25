@@ -28,7 +28,7 @@ The mood system analyzes the clause into two essential components that together 
 
 ## Mood types and speech functions
 
-The order and presence of the Subject and Finite are tied to the basic mood types: the **declarative** (Subject before Finite, usually used to present information), the **interrogative** (Finite before Subject, or an interrogative word, used to request information), and the **imperative** (usually without an explicit Subject and Finite, used to request an action). Halliday links these grammatical patterns directly to the basic "speech functions" (giving information, demanding information, giving goods or services, and demanding goods or services).
+The order and presence of Subject and Finite distinguish the basic mood types in English. In a **declarative**, Subject precedes Finite (*she is leaving*). In a **yes/no interrogative**, Finite precedes Subject (*is she leaving*). In a **wh-interrogative**, the wh-element is initial; if that element is the Subject, Subject still precedes Finite (*who is leaving*), and if it is not, Finite precedes Subject (*what is she reading*). An **imperative** often has no overt Subject (*leave*), and the Finite may be absent as well. These patterns are the usual realizations of the speech functions Halliday distinguishes: giving information (statement), demanding information (question), giving goods-and-services (offer), and demanding goods-and-services (command). The match is a default, not a rule. A declarative can function as a command ("You will leave now"). The rest of the clause, outside Subject and Finite, is the Residue: Predicator, Complements, and Adjuncts.
 
 ## Mood as a tool for negotiating interactional roles
 

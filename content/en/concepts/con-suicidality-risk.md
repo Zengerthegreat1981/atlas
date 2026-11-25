@@ -41,7 +41,8 @@ This entry is educational and descriptive; it is not clinical advice. Anyone in 
 
 ## Sources
 
-- Aaron T. Beck, Robert A. Steer, "Beck Hopelessness Scale," Psychological Corporation, 1988.
+- Aaron T. Beck, Arlene Weissman, David Lester, and Larry Trexler, "The Measurement of Pessimism: The Hopelessness Scale," *Journal of Consulting and Clinical Psychology* 42 (1974): 861–865.
+- Aaron T. Beck and Robert A. Steer, *Beck Hopelessness Scale* (Psychological Corporation, 1988).
 - Thomas E. Joiner, *Why People Die by Suicide*, Harvard University Press, 2005.
 - Aaron T. Beck, Maria Kovacs and Arlene Weissman, "Assessment of Suicidal Intention: The Scale for Suicide Ideation," *Journal of Consulting and Clinical Psychology* 47 (1979): 343-352.
 - Kelly Posner et al., "The Columbia–Suicide Severity Rating Scale," *American Journal of Psychiatry*, vol. 168, 2011.

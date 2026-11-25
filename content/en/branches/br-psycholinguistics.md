@@ -46,7 +46,7 @@ Much of the experimentation in this branch relies on measuring the precise time 
 
 ## First Language Acquisition: Documented Developmental Paths
 
-Tracing the stages of first language acquisition in children is one of the most fertile experimental fields in this branch. It begins with very early phonetic discrimination in infants (the ability to distinguish sounds of languages they have not yet encountered, an ability that gradually declines after the first months as it becomes specialized only for the sounds of the surrounding language). It then passes through the babbling stage and the one-word stage, and reaches the rapid vocabulary explosion around age two and multi-word combinations. These stages are documented with high precision across many languages, although the exact timing varies slightly depending on the complexity of each language's morphological and phonological system.
+Tracing the stages of first language acquisition in children is a major experimental field in this branch. It begins with very early phonetic discrimination in infants: in the first half-year many infants distinguish contrasts that are not used in the surrounding language, and by about ten to twelve months discrimination narrows toward the contrasts of that language (Werker and Tees, 1984). It then passes through the babbling stage and the one-word stage, and reaches the rapid vocabulary explosion around age two and multi-word combinations. These stages are described for many languages, although the exact timing varies with the language and with how the stages are defined.
 
 ## The Branch's Relation to General Cognitive Psychology
 
@@ -59,5 +59,6 @@ Speech errors (such as swapping the syllables of two words by mistake, or replac
 ## Sources
 
 - Harley, Trevor A. *The Psychology of Language: From Data to Theory*. 4th ed., Psychology Press, 2014.
-- Osgood, Charles E., and Thomas A. Sebeok, eds. *Psycholinguistics: A Survey of Theory and Research Problems*. Indiana University Press, 1954.
+- Osgood, Charles E., and Thomas A. Sebeok, eds. *Psycholinguistics: A Survey of Theory and Research Problems*. Baltimore: Waverly Press, 1954.
 - Miller, George A. "The Magical Number Seven, Plus or Minus Two." *Psychological Review*, vol. 63, no. 2, 1956, pp. 81-97.
+- Werker, Janet F., and Richard C. Tees. "Cross-Language Speech Perception: Evidence for Perceptual Reorganization during the First Year of Life." *Infant Behavior and Development*, vol. 7, no. 1, 1984, pp. 49-63.

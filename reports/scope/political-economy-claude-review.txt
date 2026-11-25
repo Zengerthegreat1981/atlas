@@ -1,0 +1,14 @@
+br-endogenous-growth-theory: Rebelo 1991 JPE issue no. 5 -> no. 3
+con-endogenous-money: Kaldor 'New Monetarism' page range removed (unsure)
+br-mena-political-economy: Mahdavi -> Mahdavy (author spelling, text and source)
+dbt-wealth-tax: Biden minimum-tax proposal dated to March 2022 FY2023 budget (was '2022 budget')
+sch-austrian-school-of-economics: removed doubtful 'NYU Press edition 1976' from Menger source line
+sch-marx-critique-of-political-economy: Bortkiewicz 'Wertrechnung und Preisrechnung' source dated 1906-07 (vols 23, 25), was 1907
+thk-eugen-von-bohm-bawerk: Innsbruck post dated 1881 (associate professor), was 'same year' as 1880 habilitation
+sch-public-choice-theory: Downs 1957 publisher Harper & Brothers (was Harper & Row, founded 1962)
+thk-kate-raworth: 'senior teaching fellow' at Oxford ECI softened to 'senior associate'
+thk-robert-lucas-jr: Chicago return '1974' softened to 'mid-1970s'; removed doubtful death place 'in Chicago' (died in Seattle)
+thk-vladimir-lenin: State and Revolution marked 'written 1917'; 'most of his theoretical works' in Swiss exile softened to 'much of'
+wrk-a-political-economy-of-the-middle-east-richards-waterbury: removed doubtful edition years 2007/2015 (3rd ed. is 2008); Owen-Pamuk publisher given as I. B. Tauris 1998 (Harvard UP edition is 1999)
+wrk-the-calculus-of-consent-buchanan-tullock: removed doubtful claim Tullock did not take the law degree
+wrk-the-oil-curse-ross: removed unverifiable Michigan teaching post and 'Choice Outstanding Academic Title' claim

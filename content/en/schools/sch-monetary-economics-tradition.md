@@ -7,12 +7,12 @@ level: "متقدم"
 title: "Monetary Economics Tradition"
 en: "Monetary Economics Tradition"
 crumb: "Political Economy ← Schools ← Monetary Economics Tradition"
-dates: "United States and Europe · from 1911 to the present"
-country: "United States"
+dates: "Sweden, Britain and the United States · from 1898"
+country: "Sweden, Britain, United States"
 language: "English"
 economic_school: "Monetary economics tradition"
 policy_orientation: "Quantitative analytical: linking the general price level and the nominal output to the quantity of money in circulation and its velocity of circulation, through the equation of exchange as a basic accounting framework for monetary analysis"
-active_start: 1911
+active_start: 1898
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Classical Political Economy", target_type: "مدرسة"
@@ -35,7 +35,7 @@ The Swedish economist Knut Wicksell, in *Geldzins und Güterpreise* (1898; Engli
 
 ## The Empirical Test: Friedman and Schwartz, 1963
 
-In their encyclopaedic work *A Monetary History of the United States, 1867–1960* (1963), Milton Friedman and Anna Schwartz presented the most influential empirical test of this theoretical tradition. They documented statistically how the major fluctuations in the American money supply over a full century were associated with corresponding fluctuations in economic activity and prices. They argued specifically that the Great Depression of the 1930s was sharply aggravated by a severe monetary contraction that the Federal Reserve permitted, instead of the counter-cyclical monetary expansion that was needed. This thesis later became the empirical cornerstone of the Chicago monetarist school.
+In their encyclopaedic work *A Monetary History of the United States, 1867–1960* (1963), Milton Friedman and Anna Schwartz presented an empirical test of this theoretical tradition that shaped later policy debate. They documented statistically how the major fluctuations in the American money supply over a full century were associated with corresponding fluctuations in economic activity and prices. They argued specifically that the Great Depression of the 1930s was sharply aggravated by a severe monetary contraction that the Federal Reserve permitted, instead of the counter-cyclical monetary expansion that was needed. This thesis later became the empirical cornerstone of the Chicago monetarist school.
 
 ## The Debate over Monetary Neutrality
 
@@ -47,7 +47,7 @@ The tradition faced a recurrent practical challenge when it became clear that th
 
 ## The Foundational Standing of Later Tools
 
-This tradition remains the methodological foundation on which were later built both monetarism in its specifically policy-oriented Chicago form, the Stockholm School's monetary and macroeconomic analysis, and the tools of modern econometrics for monetary time series. It is the shared historical source of most contemporary quantitative monetary analysis.
+This tradition remains the methodological foundation on which were later built both monetarism in its specifically policy-oriented Chicago form, the Stockholm School's monetary and macroeconomic analysis, and the tools of modern econometrics for monetary time series. Much later quantitative monetary analysis still uses its accounting relations, even where the behavioural assumptions have been replaced.
 
 ## The Cambridge Equation as an Alternative
 

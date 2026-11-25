@@ -39,7 +39,7 @@ The program assumes that syntactic derivations are subject to principles of comp
 
 ## The Agree operation and feature checking
 
-The program offered another computational mechanism, parallel to Merge, called "Agree." This operation checks the agreement of grammatical features (such as number, gender and person) between two syntactic elements, one of which carries an "unvalued" feature that requires a value from another element that actually carries it. In this way, agreement phenomena (such as verb agreement with its subject) are explained derivationally, without the need for an overt movement in every case.
+Later papers in the program, especially Chomsky's "Minimalist Inquiries" (2000) and "Derivation by Phase" (2001), added a second operation, "Agree." It values grammatical features (such as number, gender, and person) on one element by matching them with a valued element elsewhere. Agreement, including verb agreement with a subject, can then be derived without an overt movement in every case. The 1995 book had still relied more heavily on feature checking and Move.
 
 ## The three factors in language growth
 
@@ -47,11 +47,11 @@ Chomsky later proposed (2005) a classification of the factors contributing to th
 
 ## Rizzi's cartographic approach
 
-In contrast to the minimalist drive toward simplification, Luigi Rizzi developed the "Cartographic Approach," which subdivides the complementizer layer (CP) into a series of finely specialized functional projections, each responsible for a specific discourse feature such as topic or focus. The aim was to reconcile the minimalist orientation toward simplicity with the precision of empirical description across diverse languages. This approach is controversial within the minimalist program itself, because it appears, on the surface, to run counter to the spirit of simplification on which the program was founded.
+In contrast to the minimalist drive toward simplification, Luigi Rizzi developed the "Cartographic Approach," which subdivides the complementizer layer (CP) into a series of finely specialized functional projections, each responsible for a specific discourse feature such as topic or focus. The aim was to reconcile the minimalist orientation toward simplicity with the precision of empirical description across diverse languages. The approach is debated inside generative syntax, because a rich sequence of functional heads can look at odds with the program's drive toward fewer theoretical devices.
 
 ## Impact
 
-The program has been the dominant framework of mainstream generative research since the 1990s. It reshaped the relation between universal grammar and the "poverty of the stimulus" argument in later debates about the origin of language, and it opened the way to Phase Theory and to deep questions about which properties of language can be reduced to general computational principles that are not specific to language. The question of "how much of language is actually innate" has remained a subject of wide debate between generativists and competing functional and usage-based approaches.
+Since the 1990s the program has been a central framework in generative syntax. It narrowed the role assigned to a language-specific genetic endowment in debates that also use the poverty-of-the-stimulus argument, and it led to phase theory and to questions about which properties of language can be reduced to general computational principles. The question of "how much of language is actually innate" has remained a subject of wide debate between generativists and competing functional and usage-based approaches.
 
 ## Copy theory of movement and bare phrase structure
 
@@ -63,7 +63,10 @@ The Minimalist Program received mixed reactions within the field itself. Many ge
 
 ## Sources
 
+- Chomsky, Noam (1993). "A Minimalist Program for Linguistic Theory." In Hale, Kenneth; Keyser, Samuel Jay (eds.), *The View from Building 20*. MIT Press.
 - Chomsky, Noam (1995). *The Minimalist Program*. MIT Press.
+- Chomsky, Noam (2000). "Minimalist Inquiries: The Framework." In Martin, Roger; Michaels, David; Uriagereka, Juan (eds.), *Step by Step*. MIT Press.
+- Chomsky, Noam (2001). "Derivation by Phase." In Kenstowicz, Michael (ed.), *Ken Hale: A Life in Language*. MIT Press.
 - Hornstein, Norbert; Nunes, Jairo; Grohmann, Kleanthes K. (2005). *Understanding Minimalism*. Cambridge University Press.
 - Chomsky, Noam (2005). "Three Factors in Language Design." *Linguistic Inquiry* 36(1).
 - Rizzi, Luigi (1997). "The Fine Structure of the Left Periphery." In Haegeman, L. (ed.), *Elements of Grammar*. Kluwer.

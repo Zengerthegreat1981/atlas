@@ -9,7 +9,7 @@ en: "Rosenhan Experiment"
 dates: "1969–1972 · published 1973"
 crumb: "Psychiatry ← Concepts ← Rosenhan Experiment"
 active_start: 1973
-active_end: "مستمر"
+active_end: 1973
 language: "English"
 edges:
 - rel: "belongs_to", target: "Psychiatric Diagnostic Nosology", target_type: "مدرسة"

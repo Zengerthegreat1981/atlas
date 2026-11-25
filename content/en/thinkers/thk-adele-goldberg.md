@@ -25,7 +25,7 @@ gaps: []
 
 # Adele E. Goldberg
 
-American linguist and professor at Princeton University, and one of the leading theorists of contemporary **Construction Grammar**. She is the author of *Constructions* (1995), which formulated the most influential theoretical framework of this school and is among the most cited works in functional linguistics over the past three decades.
+American linguist and professor at Princeton University, and a leading theorist of contemporary **Construction Grammar**. She is the author of *Constructions* (1995), which set out an influential theoretical framework for the school.
 
 ## Central Thesis
 
@@ -37,7 +37,7 @@ Construction grammar intersects with usage-based grammar in rejecting a strict s
 
 ## Statistical Preemption: How Children Learn the Limits of Generalization
 
-Among Goldberg's most important later contributions is her treatment of the "No Negative Evidence Problem." If constructions are productive and can be generalized (such as extending the "subject-verb-object-second object" construction to new verbs), how does a child learn that some verbs (such as "explain" in English) do not accept this generalization, despite their semantic similarity to verbs that do, without anyone explicitly telling the child that the form is wrong? Goldberg proposed the mechanism of "statistical preemption": when a child repeatedly hears a particular verb used exclusively in an alternative construction (for example, "explain to" in place of the double-object form) in contexts where the child would have expected the other construction, this repetition itself implicitly signals that the first construction is ruled out for that specific verb, without any direct correction from adults.
+A major later contribution is her treatment of the "No Negative Evidence Problem." If constructions are productive and can be generalized (such as extending the "subject-verb-object-second object" construction to new verbs), how does a child learn that some verbs (such as "explain" in English) do not accept this generalization, despite their semantic similarity to verbs that do, without anyone explicitly telling the child that the form is wrong? Goldberg proposed the mechanism of "statistical preemption": when a child repeatedly hears a particular verb used exclusively in an alternative construction (for example, "explain to" in place of the double-object form) in contexts where the child would have expected the other construction, this repetition itself implicitly signals that the first construction is ruled out for that specific verb, without any direct correction from adults.
 
 ## Academic Training and Career
 
@@ -45,7 +45,7 @@ Goldberg completed her doctorate at the University of California, Berkeley, wher
 
 ## Impact
 
-*Constructions* (1995) became one of the most cited works in contemporary cognitive and functional linguistics, and founded an entire research current that combines theoretical analysis with empirical verification (through child language acquisition experiments and corpus studies). This distinguished her work from many other grammatical theories that were less concerned with direct behavioural testing of their claims.
+*Constructions* (1995) became a central reference in cognitive and functional linguistics and helped establish a research current that combines theoretical analysis with empirical work, including child-language experiments and corpus studies.
 
 ## The "Giving" Example and the Expansion of the Construction Network
 

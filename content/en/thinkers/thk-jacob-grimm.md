@@ -23,7 +23,7 @@ gaps: []
 
 # Jacob Grimm
 
-A German linguist, one of the founders of modern historical-comparative linguistics, and the discoverer of the systematic sound pattern that bears his name (**Grimm's Law**) in the shift of consonants between the Germanic languages and the other Indo-European languages.
+A German linguist and folklorist who formulated the systematic consonant correspondences known as **Grimm's Law**, relating Germanic to the other Indo-European languages. With Rasmus Rask and Franz Bopp, he is one of the figures associated with the early comparative study of those languages.
 
 ## Historical and Intellectual Context
 
@@ -39,11 +39,11 @@ Grimm based his formulation on earlier observations made by the Danish linguist 
 
 ## From Observation to Method
 
-This discovery demonstrated that sound change across the history of languages is not random, but follows systematic regular laws that can be stated with near-mathematical precision. This principle later became the cornerstone of the method of "comparative reconstruction" developed by the young linguists (*Junggrammatiker*) in the late nineteenth century to reconstruct the presumed forms of the Proto-Indo-European parent language from comparing its surviving descendants. Grimm himself also noticed apparent exceptions to his law for which he did not find a complete explanation during his lifetime. These exceptions were later explained by Karl Verner (1875), who linked them to the position of stress in the original Indo-European word (Verner's Law), thereby completing Grimm's work and supporting the principle, later adopted by the Neogrammarians, that apparent exceptions to sound laws should themselves be explicable by rule.
+The formulation gave strong evidence that sound change in the history of languages can follow systematic correspondences rather than proceeding at random. That principle later became central to the comparative method. The Neogrammarians (*Junggrammatiker*) in the late nineteenth century treated regular sound change as a working hypothesis when reconstructing unattested forms of Proto-Indo-European from its surviving descendants. Grimm himself also noticed apparent exceptions to his law for which he did not find a complete explanation during his lifetime. These exceptions were later explained by Karl Verner, who published the account in 1877 and linked them to the position of accent in the earlier Indo-European word (Verner's Law). The result strengthened the principle, later insisted on by the Neogrammarians, that apparent exceptions to sound laws should themselves be explicable by rule.
 
 ## Relationship to the Method of Historical Reconstruction
 
-Grimm's Law, and the method of regular sound correspondence that it established, were a necessary precondition for the development of the "comparative reconstruction" method, which Franz Bopp and August Schleicher applied, and which the young linguists later used to reconstruct hypothetical forms of the Proto-Indo-European parent language that are not directly attested in any historical text. Without a regular sound law reliably linking the sounds of a later language (such as English) to those of an older language (such as Latin or Sanskrit), it is impossible to be confident that two similar words in different languages really go back to a single common origin, rather than being an accidental resemblance or a late borrowing.
+Regular sound correspondence, of which Grimm's Law is a famous case, became part of the comparative method used to reconstruct forms of Proto-Indo-European that are not directly attested. Franz Bopp's comparative work began earlier (his *Conjugationssystem* appeared in 1816) and ran alongside Grimm's; August Schleicher later made reconstruction more explicit. Without a regular correspondence linking sounds in a later language (such as English) to sounds in an older relative (such as Latin or Sanskrit), similar words may be chance resemblances or borrowings rather than evidence of a common origin.
 
 ## Principal Works
 
@@ -52,7 +52,7 @@ Alongside *Deutsche Grammatik* (four volumes, 1819–1837), Grimm and his brothe
 
 ## Impact
 
-Grimm's work established the principle of the "regularity of sound change," which became one of the most important pillars of historical linguistics. It founded the method of comparative reconstruction that remains a standard tool in the study of language development and historical relationships, and it raised historical linguistics from individual impressionistic observation to a rigorous scientific method that could be verified and predicted. Its influence extended directly to the founding of the entire modern historical-comparative discipline.
+Grimm's consonant shift became a standard illustration of regular sound correspondence in historical linguistics. Together with the work of Rask, Bopp and later the Neogrammarians, it helped make comparative reconstruction a standard tool. The comparative discipline was not his creation alone: Rask and Bopp were already comparing Indo-European languages when the 1822 formulation appeared.
 
 ## His Work and the Movement to Collect German Folklore
 
@@ -62,4 +62,6 @@ Grimm's linguistic work cannot be entirely separated from his parallel project o
 
 - Grimm, Jacob (1819–1837). *Deutsche Grammatik*. Dieterichsche Buchhandlung.
 - Campbell, Lyle (2013). *Historical Linguistics: An Introduction* (3rd ed.). MIT Press.
-- Rask, Rasmus (1818). *Undersøgelse om det gamle Nordiske eller Islandske Sprogs Oprindelse*. Gyldendal.
+- Rask, Rasmus (1818). *Undersøgelse om det gamle Nordiske eller Islandske Sprogs Oprindelse*. Copenhagen: Gyldendal.
+- Bopp, Franz (1816). *Über das Conjugationssystem der Sanskritsprache*. Frankfurt am Main: Andreäische Buchhandlung.
+- Verner, Karl (1877). "Eine Ausnahme der ersten Lautverschiebung." *Zeitschrift für vergleichende Sprachforschung* 23: 97–130.

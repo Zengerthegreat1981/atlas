@@ -29,7 +29,7 @@ gaps: []
 
 ## Samir Amin's Development of the Thesis
 
-**Samir Amin** extended the thesis in his book *Accumulation on a World Scale* (1974), within a broader theory of "distorted development" in peripheral economies. He showed how this pattern of exchange reproduces an economic structure of dependency that always confines the peripheries to sectors with low added value, while the centre monopolises capital- and technology-intensive sectors, in a cycle that is difficult to break through free trade alone.
+**Samir Amin** extended the thesis in *Accumulation on a World Scale* (French 1970; English 1974), within a broader account of peripheral accumulation. He argued that this pattern of exchange helps reproduce a dependent structure that keeps peripheries in lower-value activities while the centre retains capital- and technology-intensive sectors, and that free trade alone does not undo that pattern.
 
 ## Its Relationship to the Prebisch-Singer Hypothesis
 

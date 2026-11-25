@@ -38,9 +38,11 @@ With the philosopher Mark Johnson, Lakoff presented the thesis of "Conceptual Me
 
 Ronald Langacker developed in parallel an alternative grammatical model, "Cognitive Grammar." It rejects the separation between lexicon and grammar, and treats all linguistic units, from the phoneme to the complete sentence, as symbols with both a phonological pole and a semantic pole. Among its central tools are **construal**, the way a speaker chooses to frame a single scene; and **profile** and **base**, respectively the highlighted part of a concept and the broader cognitive background against which it is understood.
 
-## Prototype Theory and Cognitive Semantics
+## Prototype Theory, Image Schemas and Force Dynamics
 
-Cognitive linguistics borrowed from the psychologist Eleanor Rosch the "prototype theory." This holds that categories of meaning are not sharp logical boundaries but are organized around "prototypical" examples that are more representative than others (a sparrow is closer to the prototype of "bird" than an ostrich is). The theory explained classificatory patterns that traditional formal semantics finds difficult to account for.
+Cognitive linguistics borrowed from the psychologist Eleanor Rosch the prototype theory of categories. On this account, categories are organized around more representative examples rather than by necessary and sufficient conditions: a sparrow is a better example of "bird" than an ostrich. Lakoff's *Women, Fire, and Dangerous Things* (1987) applied this idea to linguistic categories, including radial categories with a central sense and motivated extensions. Mark Johnson's *The Body in the Mind* (1987) developed **image schemas** such as container, path and force, proposed as recurring patterns of bodily experience that structure both thought and grammatical meaning.
+
+Leonard Talmy, in work collected in *Toward a Cognitive Semantics* (2000), described **force dynamics** (notions such as causing, letting, blocking and resisting) as a semantic system that shows up in verbs, prepositions and modals. He also compared how languages package motion. In his typology English is satellite-framed ("float out," manner in the verb and path in a particle), whereas Spanish more often puts the path in the verb. The typology is a tendency with known exceptions, not a strict law. 
 
 ## Influence and Extension
 
@@ -53,3 +55,4 @@ The current has expanded in many directions. Related work by **Stephen Levinson*
 - Lakoff, George. *Women, Fire, and Dangerous Things: What Categories Reveal About the Mind*. University of Chicago Press, 1987.
 - Evans, Vyvyan, & Green, Melanie. *Cognitive Linguistics: An Introduction*. Edinburgh University Press, 2006.
 - Talmy, Leonard. *Toward a Cognitive Semantics*. MIT Press, 2000.
+- Johnson, Mark. *The Body in the Mind: The Bodily Basis of Meaning, Imagination, and Reason*. University of Chicago Press, 1987.

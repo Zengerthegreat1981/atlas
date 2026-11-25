@@ -28,7 +28,7 @@ An American biochemist and pharmacologist (1912–2004), one of the founding fig
 
 ## Origins and Training
 
-Axelrod was born in the Lower East Side of New York City to a family of Jewish immigrants from Poland. He graduated from the City College of New York with a degree in biology in 1933. His financial circumstances did not allow him to study medicine, so he worked as a technician in the industrial hygiene laboratory of the New York City Department of Health, and then in the laboratory of Bernard Brodie at Goldwater Memorial Hospital (from 1949, at the National Heart Institute of the NIH). He did not earn his doctorate until 1955, which he received from George Washington University while working at the U.S. National Institutes of Health (NIH), an unusual path for a Nobel laureate.
+Axelrod was born in the Lower East Side of New York City to a family of Jewish immigrants from Poland. He graduated from the City College of New York with a degree in biology in 1933. His circumstances did not allow him to study medicine. He worked as a technician in the industrial hygiene laboratory of the New York City Department of Health, then with Bernard Brodie at Goldwater Memorial Hospital. In 1949 he followed Brodie to the National Heart Institute at the National Institutes of Health. He received a Ph.D. from George Washington University in 1955 while already on the NIH staff.
 
 ## Paracetamol and Drug Metabolism
 

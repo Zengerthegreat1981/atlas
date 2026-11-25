@@ -43,4 +43,6 @@ By the 1870s neoclassical economics (Jevons, Menger, and Walras) had replaced th
 
 - Ricardo, David. *On the Principles of Political Economy and Taxation*. John Murray, 1817.
 - Marx, Karl. *Capital: A Critique of Political Economy*. Vol. 1, 1867 (English translation, Penguin Classics, 1976).
-- Rubin, Isaak Illich. *Essays on Marx's Theory of Value*. Black Rose Books, 1972 (Russian original 1928).
+- Smith, Adam. *An Inquiry into the Nature and Causes of the Wealth of Nations*. 1776.
+- Rubin, Isaak Illich. *Essays on Marx's Theory of Value*. Black & Red, 1972 (Russian third edition, 1928).
+- Sraffa, Piero. *Production of Commodities by Means of Commodities*. Cambridge University Press, 1960.

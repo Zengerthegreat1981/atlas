@@ -19,7 +19,7 @@ gaps: []
 
 # Frequency & Entrenchment in Bybee's Work
 
-A central concept in usage-based grammar, formulated by Joan Bybee to explain how the repeated exposure to a particular word or linguistic construction leaves a cumulative trace in linguistic memory. It distinguishes between two kinds of frequency that have fundamentally different effects.
+Usage-based grammar links how often a form is experienced to how it is stored and how it changes. Ronald Langacker (*Foundations of Cognitive Grammar*, 1987) used entrenchment for the strengthening of a unit through repeated activation. Joan Bybee's work on morphology and usage ties that idea to measurable frequency, and separates two counts that do not have the same effect.
 
 ## Token frequency and type frequency
 
@@ -27,7 +27,7 @@ This framework distinguishes between "token frequency" (the number of times a pa
 
 ## Resistance of common verbs to analogical change
 
-The principle of entrenchment explains a notable phenomenon: the most common irregular verbs in a language (such as "go/went" in English) are the most resistant to shifting toward the regular standard form over time, even though simple logic might expect the opposite. This is explained by the fact that high repetition of these verbs entrenches them as independent stored units in linguistic memory, so they do not need to be derived analogically in every use, and are therefore not subject to the pressure of analogical regularization that affects less common verbs.
+Bybee describes a conserving effect of high token frequency. Very frequent irregular verbs, including highly suppletive pairs such as English *go*/*went*, tend to resist replacement by the regular pattern longer than rare irregulars. Because the irregular form is itself a stored unit, speakers need not build it by the regular rule on each use, so analogical pressure toward the regular pattern is weaker. Low-frequency irregulars are more often regularized. A second, reducing effect is also reported: high-frequency words are more prone to phonetic erosion over time. Type frequency works differently. A pattern that applies to many distinct words is more available for new ones.
 
 ## Impact
 
@@ -35,7 +35,7 @@ This framework offered a cumulative cognitive explanation of both historical lin
 
 ## Entrenchment and lexical autonomy
 
-A further important consequence of high entrenchment is that the more frequently a complex form (such as an inflected form or a noun phrase) occurs, the more independent it becomes in storage from its derivational components, to the point where speakers may lose awareness of its original derivational relation to its root (a phenomenon Bybee describes in terms of "lexical autonomy"). A word such as *bi-l-munāsaba* ("by the way") in colloquial Arabic, or similar ready-made expressions, are stored as a complete independent unit that is retrieved in one go from memory, rather than being assembled each time from their original components.
+A further important consequence of high entrenchment is that the more frequently a complex form (such as an inflected form or a noun phrase) occurs, the more independent it becomes in storage from its derivational components, to the point where speakers may lose awareness of its original derivational relation to its root (a phenomenon Bybee describes in terms of "lexical autonomy"). A high-frequency expression such as Arabic *bi-l-munāsaba* ("on this occasion," often used to mean "incidentally") can be stored and retrieved as one unit rather than assembled from its parts on every use. The example illustrates the prediction; it is not a measured result reported by Bybee.
 
 ## An application to Arabic morphology
 
@@ -43,5 +43,7 @@ Entrenchment predicts that frequent irregular forms in Arabic, such as the broke
 
 ## Sources
 
+- Langacker, Ronald W. (1987). *Foundations of Cognitive Grammar, Vol. 1: Theoretical Prerequisites*. Stanford University Press.
+- Bybee, Joan (2001). *Phonology and Language Use*. Cambridge University Press.
 - Bybee, Joan (2010). *Language, Usage and Cognition*. Cambridge University Press.
 - Bybee, Joan (2007). *Frequency of Use and the Organization of Language*. Oxford University Press.

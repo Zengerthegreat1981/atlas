@@ -23,11 +23,11 @@ gaps: []
 
 # Formal Semantics and Montague Grammar
 
-A current in linguistic semantics founded by the American philosopher and logician **Richard Montague** in the late 1960s. It applies the tools of mathematical logic and model-theoretic semantics to analyze the meaning of sentences in natural languages, with the same precision that formal languages are analyzed in logic. It starts from his well-known thesis that "there is no important theoretical difference between natural languages and the artificial languages of logicians" (*Universal Grammar*, 1970).
+A current in linguistic semantics developed by the American philosopher and logician **Richard Montague** in the late 1960s and early 1970s. It uses model-theoretic semantics to assign interpretations to fragments of natural language. In *Universal Grammar* (1970) he wrote that there is, in his opinion, "no important theoretical difference between natural languages and the artificial languages of logicians." A closely related statement opens his essay "English as a Formal Language" (1970).
 
 ## The Principle of Compositionality
 
-Montague grammar rests on the **principle of compositionality**, which Montague formalised by treating syntax and semantics as algebras related by a homomorphism. Under this principle, the meaning of any complex expression is derived automatically from the meanings of its components and the way they are syntactically combined, so that each syntactic rule corresponds to a parallel semantic interpretation rule that operates automatically. The most famous treatment of this approach was published in his article "The Proper Treatment of Quantification in Ordinary English," known by the abbreviation PTQ (1973).
+Montague grammar rests on the **principle of compositionality**, which Montague formalised by treating syntax and semantics as algebras related by a homomorphism. Under this principle, the meaning of a complex expression is a function of the meanings of its parts and of the syntactic rule that combines them, and each syntactic rule is paired with a semantic rule. The claim is about the design of the grammar, not a description of psychological processing. The most famous treatment of this approach was published in his article "The Proper Treatment of Quantification in Ordinary English," known by the abbreviation PTQ (1973).
 
 ## Intensional Logic and Possible Worlds
 
@@ -43,10 +43,11 @@ Barbara Partee developed Montague's work and made it systematically accessible t
 
 ## Impact and Relation to Pragmatics
 
-Although formal semantics is historically independent of the Chomskyan generative lineage, having arisen from the intersection of mathematical logic and analytic philosophy rather than from structural linguistics, it has become today the dominant framework for analyzing sentence meaning in academia. It has interacted with Gricean pragmatics in treating phenomena such as presupposition, focus particles and information structure, forming an interdisciplinary field between formal semantics and formal pragmatics.
+Although formal semantics is historically independent of the Chomskyan generative lineage, having arisen from the intersection of mathematical logic and analytic philosophy rather than from structural linguistics, it became a standard framework for sentence meaning in theoretical linguistics. It has interacted with Gricean pragmatics in treating phenomena such as presupposition, focus particles and information structure, forming an interdisciplinary field between formal semantics and formal pragmatics.
 
 ## Sources
 
+- Montague, Richard. "English as a Formal Language." In *Linguaggi nella società e nella tecnica*, ed. Visentini. Edizioni di Comunità, 1970.
 - Montague, Richard. "Universal Grammar." *Theoria*, 36, 1970.
 - Montague, Richard. "The Proper Treatment of Quantification in Ordinary English." In *Approaches to Natural Language*, eds. Hintikka et al. Reidel, 1973.
 - Partee, Barbara H. "Montague Grammar." In *Handbook of Logic and Language*, eds. van Benthem & ter Meulen. Elsevier, 1997.

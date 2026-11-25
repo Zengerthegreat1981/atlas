@@ -20,8 +20,7 @@ related:
 - id: "thk-al-mubarrad", title: "Al-Mubarrad", type: "مفكر"
 - id: "thk-ibn-al-anbari", title: "Abu al-Barakat Ibn al-Anbari", type: "مفكر"
 - id: "wrk-maani-al-quran-farra", title: "Ma'ani al-Qur'an (al-Farra')", type: "أثر"
-gaps:
-  - "His early upbringing in Kufa and his first teachers before al-Ru'asi: not yet covered"
+gaps: []
 ---
 
 # Al-Kisa'i
@@ -30,7 +29,7 @@ A Quran reciter and grammarian of Persian origin, born and raised in Kufa. He is
 
 ## Biography
 
-He was Abu al-Hasan Ali ibn Hamza ibn Abdullah al-Kisa'i, of Persian origin, born in Kufa or nearby around 119 AH (737 CE). He took up Quranic recitation and grammar from a group of Kufan scholars, most notably Abu Ja'far al-Ru'asi, who is regarded as the first to codify Kufan grammar. He then traveled to Basra and studied under Yunus ibn Habib al-Basri and under Khalil ibn Ahmad al-Farahidi himself, thereby combining the traditions of both schools. He joined the Abbasid court and became tutor to the sons of Harun al-Rashid, al-Amin and al-Ma'mun, which granted him considerable scholarly influence and made him a leading figure in the linguistic scene of his time. He died in 189 AH (805 CE) according to the most common report (some sources give other years, as early as 182 AH) in Rayy, on the same journey on which the jurist Muhammad ibn al-Hasan al-Shaybani died, so much so that it was said Harun al-Rashid buried a jurist and a grammarian on the same day.
+He was Abu al-Hasan Ali ibn Hamza ibn Abdullah al-Kisa'i, of Persian origin, born in Kufa or nearby around 119 AH (737 CE). He grew up in Kufa and studied Qur'an recitation with Hamza ibn Habib al-Zayyat, one of the Seven Readers, before turning to grammar. In grammar his Kufan teacher was Abu Ja'far al-Ru'asi, whom the later tradition treats as an early organizer of Kufan grammar. A common report derives his nisba from the cloak (*kisa'*) he wore in the scholarly circle. He then traveled to Basra and studied under Yunus ibn Habib and Khalil ibn Ahmad al-Farahidi, thereby combining the traditions of both schools. He joined the Abbasid court and became tutor to the sons of Harun al-Rashid, al-Amin and al-Ma'mun, which granted him considerable scholarly influence and made him a leading figure in the linguistic scene of his time. He died in 189 AH (805 CE) according to the most common report (some sources give other years, as early as 182 AH) in Rayy, on the same journey on which the jurist Muhammad ibn al-Hasan al-Shaybani died, so much so that it was said Harun al-Rashid buried a jurist and a grammarian on the same day.
 
 ## Contributions
 
@@ -56,7 +55,7 @@ His students, most notably al-Farra', inherited his position and continued to de
 
 ## Limitations
 
-The main sources on al-Kisa'i are mostly Kufan or late, and what has reached us of the details of the Zunburiyya debate and of his grammatical rulings comes largely through Kufan transmitters, or through his later Basran opponents in replying to him. No complete grammatical treatise in al-Kisa'i's own hand has reached us directly, as Sibawayh's *al-Kitab* has; his views must be extracted from later reports by writers such as al-Farra', Thalab, and Ibn al-Anbari. The account that Sibawayh left Baghdad psychologically defeated after the debate and died as a result is also doubted on historical grounds, and many modern scholars consider it a later Kufan exaggeration.
+The main sources on al-Kisa'i are mostly Kufan or late, and what has reached us of the details of the Zunburiyya debate and of his grammatical rulings comes largely through Kufan transmitters, or through his later Basran opponents in replying to him. No complete grammatical treatise in al-Kisa'i's own hand has reached us directly, as Sibawayh's *al-Kitab* has; his views must be extracted from later reports by writers such as al-Farra', Tha'lab, and Ibn al-Anbari. The account that Sibawayh left Baghdad psychologically defeated after the debate and died as a result is also doubted on historical grounds, and many modern scholars consider it a later Kufan exaggeration.
 
 ## Major Works
 

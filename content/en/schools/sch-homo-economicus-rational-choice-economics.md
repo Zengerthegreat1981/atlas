@@ -7,13 +7,13 @@ level: "متقدم"
 title: "Homo Economicus and Rational Choice Economics"
 en: "Homo Economicus and Rational Choice Economics"
 crumb: "Political Economy ← Schools ← Homo Economicus and Rational Choice Economics"
-dates: "Britain and the United States · from 1932 to 1976"
+dates: "Britain and the United States · from 1932"
 country: "Britain, United States"
 language: "English"
 economic_school: "Rational choice economics"
 policy_orientation: "Extending marginal economic logic to domains outside the traditional market, such as marriage, crime and discrimination"
 active_start: 1932
-active_end: 1976
+active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Marshallian Neoclassical Economics", target_type: "مدرسة"
 related:
@@ -26,7 +26,7 @@ gaps: []
 ---
 # Homo Economicus and Rational Choice Economics
 
-**Homo economicus** refers to the simplifying core assumption on which most neoclassical models are built: the individual is a rational agent who has stable, consistent preferences and always seeks to maximize his or her own utility at the lowest possible cost, making use of every piece of information available. This school turned that assumption from an implicit methodological premise into an explicit research program that extends the logic of marginal maximization to domains beyond the traditional market for goods and services.
+**Homo economicus** refers to the simplifying core assumption on which most neoclassical models are built: the individual has stable, consistent preferences and chooses the feasible option that maximises his or her utility. Information may be incomplete; the assumption is consistency and optimisation, not omniscience. Rational-choice research made that premise an explicit programme and extended marginal analysis beyond markets for goods and services. The programme is still the default in much of microeconomics, which is why the entry is dated as ongoing rather than as closed in 1976, the year of Gary Becker's *The Economic Approach to Human Behavior*.
 
 ## Robbins: defining economics as the science of choice
 

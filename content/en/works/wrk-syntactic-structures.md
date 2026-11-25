@@ -30,11 +30,11 @@ gaps:
 
 # Syntactic Structures
 
-The book that launched the generative grammar revolution in linguistics. Noam Chomsky published it in 1957 with Mouton in The Hague, based on his lectures at MIT.
+An early book-length statement of generative grammar. Noam Chomsky published it in 1957 with Mouton in The Hague. It grew out of his lectures at the Massachusetts Institute of Technology (MIT).
 
 ## Historical Context
 
-Chomsky wrote this work as a summary of his lecture notes for a course at the Massachusetts Institute of Technology (MIT). It was published by the Dutch press Mouton in 1957 (in the series *Janua Linguarum*), reportedly with the help of Morris Halle and after some difficulty finding a publisher. The book appeared at a time when American linguistics was dominated by the descriptive structuralist approach (as represented by Leonard Bloomfield and Zellig Harris, Chomsky's direct teacher) and by the behaviorist approach in psychology (as represented by B. F. Skinner). These viewed language as a set of habits acquired through repetition and reinforcement, describable through mechanical *discovery procedures* applied to corpora of recorded speech without prior theoretical assumptions.
+Chomsky prepared the book from notes for an MIT course. Mouton published it in 1957 in the series *Janua Linguarum* (Series Minor). Morris Halle, and through him Roman Jakobson, encouraged its publication. American linguistics at the time was shaped by post-Bloomfieldian structuralism, especially the distributional methods of Zellig S. Harris, Chomsky's teacher at the University of Pennsylvania, in the line of Leonard Bloomfield's *Language* (1933). In psychology, B. F. Skinner's behaviorism treated verbal behavior as habit shaped by reinforcement. Many structuralist programs aimed at *discovery procedures*: mechanical routines for inducing a grammar from a recorded corpus without an explicit prior theory of what grammars may look like.
 
 ## Content
 
@@ -46,7 +46,7 @@ The book introduces the concept of **kernel sentences**: simple, affirmative, ac
 
 ## Impact and Criticism
 
-The book is regarded as one of the most influential works in the history of modern linguistics. It is often seen as the spark of the "generative revolution" or the "Chomskyan revolution," which displaced American descriptive structuralism from its central position. It set off a long series of successive theoretical reformulations led by Chomsky himself: the Standard Theory of *Aspects of the Theory of Syntax* (1965), the Extended Standard Theory of the 1970s, Government and Binding Theory in the 1980s, and the Minimalist Program in the 1990s. Critics, including functional linguists such as Joan Bybee, have criticized the model for neglecting the role of usage, frequency and context in shaping linguistic structure. Nevertheless, the book remains an indispensable starting point for understanding the course of theoretical linguistics throughout the second half of the twentieth century.
+Historians of the field, notably Frederick J. Newmeyer, treat the book as a turning point in American theoretical linguistics and as the start of what is often called the generative, or Chomskyan, turn. It did not by itself remove descriptive structuralism from teaching or research. It did open a series of reformulations led by Chomsky: the Standard Theory of *Aspects of the Theory of Syntax* (1965), the Extended Standard Theory of the 1970s, Government and Binding Theory in the 1980s, and the Minimalist Program in the 1990s. Later usage-based linguists, including Joan Bybee, have argued that frequency and use shape grammatical structure in ways this early formal model set aside. The book remains a standard point of departure for the history of theoretical syntax in the second half of the twentieth century.
 
 ## An Additional Example of the Independence of Grammar from Meaning
 
@@ -54,7 +54,7 @@ Alongside the example "Colorless green ideas sleep furiously," the book offers o
 
 ## Detailed Mechanics of Transformational Rules
 
-The book explains in detail how transformational rules work through converting a basic affirmative declarative sentence (the kernel sentence) into its passive form. The process starts from a kernel structure ("John hit the ball"). A sequence of precise formal transformations is then applied: exchanging the positions of subject and object, adding the appropriate auxiliary verb, and inserting the preposition "by," to produce the passive sentence ("The ball was hit by John"). The book notes that this transformation is systematic and can be stated formally with precision, so that it can be applied mechanically to any similar basic sentence, rather than being an isolated special case that must be memorized on its own.
+The passive is one of the book's worked examples of a transformation. A kernel sentence of the form noun phrase–auxiliary–verb–noun phrase is mapped to a passive by exchanging the two noun phrases, adding a form of *be* plus the past participle, and introducing *by*. Chomsky's own illustration of the *by*-phrase is "the food was eaten by the man." The rule is stated generally, so that it applies to a class of sentences rather than to one memorized pair. Phrase-structure illustrations in the same discussion use sentences such as "The man hit the ball."
 
 ## The Book's Influence on Philosophy of Language and Cognitive Science
 
@@ -64,3 +64,5 @@ The book's influence went beyond technical linguistics to reach the philosophy o
 
 - Chomsky, Noam (1957). *Syntactic Structures*. Mouton.
 - Newmeyer, Frederick J. (1986). *Linguistic Theory in America* (2nd ed.). Academic Press.
+- Chomsky, Noam (1959). "A Review of B. F. Skinner's *Verbal Behavior*." *Language* 35.
+- Bloomfield, Leonard (1933). *Language*. Henry Holt.

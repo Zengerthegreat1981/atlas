@@ -25,7 +25,7 @@ gaps: []
 ---
 # The Wealth of Nations
 
-***The Wealth of Nations***, whose full title is *An Inquiry into the Nature and Causes of the Wealth of Nations*, is traditionally regarded as the founding starting point of modern economics as an independent field of knowledge. **Adam Smith** published it in 1776, the same year that the United States declared its independence, after years of work and travel to France, where he was influenced by the Physiocrats' discussions of economic productivity.
+*The Wealth of Nations*, whose full title is *An Inquiry into the Nature and Causes of the Wealth of Nations*, has long been treated as a founding text of modern political economy. **Adam Smith** published it in London in 1776, with W. Strahan and T. Cadell, in the same year the American colonies declared independence. Much of it was written after his stay in France, where conversation with the Physiocrats shaped parts of the argument.
 
 ## The Structure of the Book and Its Central Thesis
 
@@ -33,7 +33,7 @@ The book consists of five books that successively address the sources of product
 
 ## The Pin Factory Example
 
-Smith opens the book with his most famous example, the pin factory. A single worker who performs every step of the process alone could, Smith says, perhaps not make even twenty pins a day, whereas ten workers who divide the process into specialised steps (drawing the wire, straightening it, cutting it, pointing it, and so on) could make some 48,000 pins a day, an enormous rise in productivity per worker. Smith uses this example to demonstrate that the division of labour, not the size of land or the amount of gold hoarded, is the primary engine of the wealth of nations.
+Smith opens Book I with the pin manufacture. A worker untrained in the trade, he writes, could scarce make one pin in a day and certainly could not make twenty. In a small workshop he says he has seen, ten people, some performing two or three of about eighteen operations (drawing the wire, straightening it, cutting it, pointing it, and so on), could make upwards of 48,000 pins in a day. Smith uses the contrast to argue that the division of labour, rather than the stock of precious metal, raises the productive powers of labour. The figures are his illustration. He presents the workshop as one he has seen; later historians have traced the example in large part to French technical descriptions of pin-making that were already in print.
 
 ## The Invisible Hand and the Self-Regulating Market
 
@@ -45,19 +45,19 @@ Smith devotes a large part of the book to a systematic, detailed critique of the
 
 ## Its Founding Impact and the Link to Ricardo
 
-The book became a founding reference for later classical economists, most prominently **David Ricardo**, who developed Smith's ideas on distribution and value in a more abstract direction. Karl Marx also engaged critically with it, drawing on classical analytical tools such as the labour theory of value to reach conclusions Smith had not intended.
+The book became a principal reference for later classical economists, most prominently **David Ricardo**, who recast value and distribution in *On the Principles of Political Economy and Taxation* (1817). Karl Marx read it closely. Smith's own account of value is not a single labour theory: in Book I, chapter 6, he treats labour as the measure of value in an early state of society, and then explains natural price by wages, profit and rent once stock is accumulated and land is appropriated. Marx's labour theory of value is a later construction that uses classical language for different conclusions.
 
 ## A Possible Echo of Ibn Khaldun
 
-Some writers note a resemblance between Smith's idea of the division of labour as a source of wealth and Ibn Khaldun's discussion, four centuries earlier (the *Muqaddimah* dates from 1377), of labour and cooperation as sources of livelihood and civilisation. There is no documented evidence, however, that Smith read Ibn Khaldun, and the resemblance is a matter of interpretation.
+Some writers note a resemblance between Smith's division of labour and Ibn Khaldun's discussion, in the *Muqaddimah* (completed in 1377), of cooperation in labour as a source of livelihood. There is no documented evidence that Smith read Ibn Khaldun. The resemblance is an analogy drawn by later readers.
 
 ## The Context of Writing: Ten Years of Preparation
 
-Smith worked on the book for more than ten years. He travelled in France and Switzerland (1764–66) as tutor to the young Duke of Buccleuch, and wrote much of the book after returning to Kirkcaldy. There he met the French Physiocrats (such as François Quesnay), who influenced his view of the flow of wealth within the economy. He later disagreed with them over treating agriculture as the sole source of real wealth, and instead treated manufacturing and trade, as well as agriculture, as productive.
+Smith worked on the book for about a decade. From 1764 to 1766 he travelled in France and Switzerland as tutor to Henry Scott, third Duke of Buccleuch. In Paris he met François Quesnay and other Physiocrats. He wrote much of the book after returning to Kirkcaldy. He took from the Physiocrats an interest in the circulation of wealth, and rejected their claim that agriculture alone is productive: in his account, manufacturing and trade produce value as well.
 
 ## An Immediate Reception and Rapid Spread
 
-The book received wide intellectual and political attention on publication. Its first edition sold out within about six months, it was translated into several European languages in the following decades, and British politicians cited it in debates on trade and tax policy. This reflects how closely its ideas coincided with real economic and political changes Britain was experiencing at that time: the emerging Industrial Revolution, and the need to rethink trade policy after the loss of the American colonies.
+The book drew wide attention on publication. John Rae's *Life of Adam Smith* (1895) reports that the first edition was exhausted in six months. Translations into several European languages followed over the next decades, and British politicians cited it in debates on trade and taxation. It appeared as manufacturing was expanding in Britain and as the American war began; it was not written as a response to Britain's later recognition of American independence in 1783.
 
 ## Relation to *The Theory of Moral Sentiments*
 
@@ -70,5 +70,6 @@ Smith devoted a particularly sharp critique to the monopolies of major trading c
 ## Sources
 
 - Smith, Adam. *An Inquiry into the Nature and Causes of the Wealth of Nations*. W. Strahan and T. Cadell, 1776.
+- Rae, John. *Life of Adam Smith*. Macmillan, 1895.
 - Skinner, Andrew S. *A System of Social Science: Papers Relating to Adam Smith*. 2nd ed., Oxford University Press, 1996.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.

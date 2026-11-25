@@ -35,7 +35,7 @@ Brown and Levinson distinguish between two kinds of face possessed by every part
 
 ## Graduated Mitigation Strategies
 
-Brown and Levinson proposed a sequence of five graduated strategies for "softening" a threat, from which the speaker chooses according to the expected size of the threat. This is a function of three factors: the social distance between the interlocutors, the power difference between them, and the degree of "weightiness" of the act in that culture. The strategies range from **bald on-record directness** with no softening, to **positive politeness** (emphasizing familiarity and appreciation), to **negative politeness** (hinting, hedging, pre-emptive apology), to **off-record** intentional ambiguity, and finally complete avoidance of the act.
+Brown and Levinson proposed a sequence of five graduated strategies for "softening" a threat, from which the speaker chooses according to the expected size of the threat. This is a function of three factors: the social distance between the interlocutors, the power difference between them, and the degree of "weightiness" of the act in that culture. The strategies range from **bald on-record** speech with no redress, to **positive politeness** (claiming common ground and appreciation), to **negative politeness** (conventional indirectness, hedges, deference, and apology), to **off-record** hints and ambiguity, and finally to not performing the act. Brown and Levinson estimated the weight of a face threat from social distance, relative power, and the culturally ranked imposition of the act.
 
 ## The Universality Claim and Cultural Critique
 
@@ -47,7 +47,7 @@ Brown and Levinson argued that these strategies are **universal**, cutting acros
 
 ## Impact
 
-Despite these criticisms, the Brown and Levinson framework remained the dominant reference in the cross-linguistic study of politeness. It influenced neighboring fields such as institutional discourse analysis, foreign language teaching (where avoiding pragmatic failure is taught), and human–computer interaction in the design of socially "polite" conversational interfaces.
+Despite these criticisms, the Brown and Levinson framework long remained a central reference in cross-linguistic work on politeness. It influenced institutional discourse analysis, the teaching of pragmatic routines in additional languages, and later work on socially tuned dialogue systems.
 
 ## Sources
 
@@ -56,4 +56,6 @@ Despite these criticisms, the Brown and Levinson framework remained the dominant
 - Goffman, Erving. *Interaction Ritual: Essays on Face-to-Face Behavior*. Doubleday, 1967.
 - Leech, Geoffrey. *Principles of Pragmatics*. Longman, 1983.
 - Mills, Sara. *Gender and Politeness*. Cambridge University Press, 2003.
+- Matsumoto, Yoshiko. "Reexamination of the Universality of Face: Politeness Phenomena in Japanese." *Journal of Pragmatics* 12(4), 1988.
+- Ide, Sachiko. "Formal Forms and Discernment: Two Neglected Aspects of Universals of Linguistic Politeness." *Multilingua* 8(2–3), 1989.
 - Spencer-Oatey, Helen (ed.). *Culturally Speaking: Culture, Communication and Politeness Theory*. Continuum, 2008.

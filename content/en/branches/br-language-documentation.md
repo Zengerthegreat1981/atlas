@@ -22,7 +22,7 @@ A relatively recent branch of linguistics concerned with recording and archiving
 
 ## The alarm: Michael Krauss's assessment
 
-The article "The World's Languages in Crisis" (1992) by the linguist Michael Krauss is the turning point that launched this branch as an urgent research priority. He estimated that a vast proportion of the world's languages (as many as 90% in his most pessimistic estimate) could disappear or become moribund by the end of the 21st century, as the transmission of most languages to the next generation of children stops in many communities around the world. This estimate caused a shock within the field and prompted the major linguistic associations to issue official statements declaring a scientific and ethical "state of emergency."
+The article "The World's Languages in Crisis" (1992) by the linguist Michael Krauss is the turning point that launched this branch as an urgent research priority. He estimated that a vast proportion of the world's languages (as many as 90% in his most pessimistic estimate) could disappear or become moribund by the end of the 21st century, as the transmission of most languages to the next generation of children stops in many communities around the world. The estimate was widely discussed and helped make endangerment an urgent research priority for many linguists and for the Linguistic Society of America, which published the symposium containing Krauss's article.
 
 ## Documentation versus description
 
@@ -42,7 +42,7 @@ Comprehensive contemporary language documentation requires several integrated el
 
 ## Two successful revival cases in detail
 
-The revival of Hebrew is widely cited as the most successful in history. It transformed a religious liturgical language, written and not used as a daily mother tongue for nearly two thousand years, into a living native language of millions of speakers within roughly one generation at the end of the 19th century and the beginning of the 20th, thanks to an organized, intensive national effort strongly supported politically. The revival of Hawaiian followed a different, smaller-scale model: the "language nest" (Pūnana Leo) schools immerse very young children entirely in Hawaiian from an early age. This model has proven tangibly successful in reproducing a generation of new native Hawaiian speakers, although the effort started from a very late point (only a few thousand elderly speakers at the program's start).
+The revival of Hebrew is widely cited as an unusually far-reaching case. A language long maintained mainly in writing and liturgy, rather than as a community mother tongue, became a language of everyday use through organized efforts from the late nineteenth century, associated in particular with Eliezer Ben-Yehuda and later with the institutions of the Yishuv and the State of Israel. The number of speakers grew over several generations, not in a single one. The revival of Hawaiian followed a different, smaller-scale model. Pūnana Leo ("language nest") preschools, begun in the 1980s, immerse young children in Hawaiian. The programs have produced new speakers, starting from a point at which fluent native speakers were mostly elderly and numbered in the low thousands, with very few children acquiring the language at home.
 
 ## Long-term digital archiving standards
 

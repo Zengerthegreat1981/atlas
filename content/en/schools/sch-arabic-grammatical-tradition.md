@@ -10,11 +10,11 @@ cultural_origin: "islamic-arabic"
 title: "Classical Arabic Grammatical Tradition"
 en: "Classical Arabic Grammatical Tradition"
 crumb: "Linguistics ← Schools ← Classical Arabic Grammatical Tradition"
-dates: "Basra, Kufa and Baghdad · 8th to 13th century CE"
+dates: "Basra, Kufa and Baghdad · 8th to 14th century CE"
 country: "Iraq (Basra, Kufa, Baghdad)"
 language: "Arabic"
 active_start: 750
-active_end: 1250
+active_end: 1360
 edges: []
 related:
 - id: "thk-al-jurjani", title: "ʿAbd al-Qāhir al-Jurjānī", type: "مفكر"
@@ -31,11 +31,11 @@ The classical Arabic grammatical and linguistic tradition is a system of languag
 
 ## Origins in Basra and Kufa
 
-The founding of grammar is traditionally attributed to Abū al-Aswad al-Duʾalī in Basra, but the school proper crystallized under Khalīl ibn Aḥmad al-Farāhīdī (d. c. 170 AH / 786 CE), who is also credited with the first Arabic dictionary, *Kitāb al-ʿAyn*, and the science of prosody. Its systematic formulation was completed by his student **Sībawayh** (ʿAmr ibn ʿUthmān ibn Qanbar, d. c. 180 AH), of Persian origin, who migrated to Basra. In his book *al-Kitāb*, the first comprehensive work on Arabic grammar, morphology and some of its sounds, he produced one of the earliest systematic grammatical works in human history. The Basra school was rivaled by the **Kufan school**, which relied on hearing and poetic transmission with greater flexibility, while Basra relied on logical analogy and rigorous induction from the speech of eloquent Bedouins. Between the two schools arose a long methodological dispute over the foundations of grammatical reasoning (analogy versus hearing), known as the disputes between the Basrans and the Kufans. Modern scholars such as Versteegh note that the neat division into two rival schools was shaped by later biographical literature and should not be taken at face value.
+The founding of grammar is traditionally attributed to Abū al-Aswad al-Duʾalī in Basra, but the school proper crystallized under Khalīl ibn Aḥmad al-Farāhīdī (d. c. 170 AH / 786 CE), who is also credited with the first Arabic dictionary, *Kitāb al-ʿAyn*, and the science of prosody. Its systematic formulation was completed by his student **Sībawayh** (ʿAmr ibn ʿUthmān ibn Qanbar, d. c. 180 AH), of Persian origin, who migrated to Basra. In *al-Kitāb*, a comprehensive work on Arabic grammar, morphology and parts of its phonology, he set out the analysis that later grammarians took as their main reference. The *Aṣṭādhyāyī* of Pāṇini is an earlier systematic grammar in another tradition. The Basra school was rivaled by the **Kufan school**, which relied on hearing and poetic transmission with greater flexibility, while Basra relied on logical analogy and rigorous induction from the speech of eloquent Bedouins. Between the two schools arose a long methodological dispute over the foundations of grammatical reasoning (analogy versus hearing), known as the disputes between the Basrans and the Kufans. Modern scholars such as Versteegh note that the neat division into two rival schools was shaped by later biographical literature and should not be taken at face value.
 
 ## Method and theoretical tools
 
-Arab grammarians developed original analytical tools. The theory of the governor (*ʿāmil*) explains inflection through the effect of sentence elements on one another. Analogy (*qiyās*) extends the rule of an established case to a new case that shares its operative cause (*ʿilla*). Grammatical reasoning (*taʿlīl*) seeks logical "causes" for linguistic phenomena, reaching in some cases the level of a grammatical philosophy. **Ibn Jinnī** (d. 392 AH), in his book *al-Khaṣāʾiṣ*, founded a discipline resembling the philosophy of language: he examined the origin and nature of language and the relation between word and meaning, and proposed the idea of the "greater derivation" (*al-ishtiqāq al-akbar*), a correspondence between sounds and meanings.
+Arab grammarians developed original analytical tools. The theory of the governor (*ʿāmil*) explains inflection through the effect of sentence elements on one another. Analogy (*qiyās*) extends the rule of an established case to a new case that shares its operative cause (*ʿilla*). Grammatical reasoning (*taʿlīl*) seeks logical "causes" for linguistic phenomena, reaching in some cases the level of a grammatical philosophy. **Ibn Jinnī** (d. 392 AH / 1002 CE), in *al-Khaṣāʾiṣ*, examined the origin and nature of language and the relation between word and meaning. Among his proposals is the "greater derivation" (*al-ishtiqāq al-akbar*), a claimed correspondence between patterns of sounds and patterns of meaning.
 
 ## From grammar to rhetoric
 

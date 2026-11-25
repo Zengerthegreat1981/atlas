@@ -24,27 +24,23 @@ gaps: []
 
 # The Revival of Hawaiian through Language Immersion
 
-A successful reference case in the revival of an endangered language. By the early 1980s, only a few dozen children still spoke Hawaiian as a first language, after policy since 1896 had made English the medium of instruction in schools and effectively excluded Hawaiian. A community revival movement then began, which fundamentally changed the language's trajectory.
+A widely cited case of indigenous-language revitalization through immersion schooling. In the early 1980s, child speakers of Hawaiian as a first language were very few, concentrated largely on Niʻihau. A schools law of 1896 had made English the medium of instruction in the islands' schools, and Hawaiian-medium teaching remained legally constrained until the 1980s. A community movement then built a new path of schooling in Hawaiian.
 
-## From the School Ban to Immersion Programs
+## From the school policy to immersion
 
-After decades of exclusion of Hawaiian from schooling, community activists founded in 1983 the Pūnana Leo organization, whose first "language nest" opened in 1984. These were directly inspired by the Māori Kōhanga Reo model of New Zealand. They fully immerse infants and preschool children in Hawaiian. The programs then progressively extended to fully Hawaiian-medium primary and secondary schools (Kula Kaiapuni). This expansion was supported by a constitutional amendment in the State of Hawai'i in 1978 that made Hawaiian an official language of the state alongside English.
+The 1978 state constitution made Hawaiian an official language alongside English, before the immersion schools existed. In 1983 Hawaiian-language educators founded ʻAha Pūnana Leo. Its first language nest opened in Kekaha, Kauaʻi, in 1984, on the model of the Māori Kōhanga Reo ("language nests") in New Zealand: preschool children hear and use Hawaiian throughout the day. At the start, Hawaiian-medium instruction in schools was still restricted. In 1986 the state legislature removed the long-standing bar on teaching through Hawaiian. Hawaiian-medium public schools, Kula Kaiapuni, followed from 1987, so that children could continue beyond preschool.
 
-## Results and Challenges
+## Results and limits
 
-These programs succeeded in producing a new generation of young fluent speakers. The number of speakers, especially young speakers, has grown substantially from its low point. Even so, the field still faces structural challenges: limited opportunities to use the language outside school and home, a limited number of teachers with native-level fluency, and the continuing pressure of English dominance in the public sphere.
+The nests and Kula Kaiapuni have produced a new group of younger speakers who learned Hawaiian at school, and the count of speakers has risen from the late-twentieth-century low. Hawaiian is still endangered. Use outside school and home is limited, teachers with full fluency are few relative to demand, and English remains the language of most public life. Niʻihau and some families preserve an older home variety alongside the school language, which itself draws on older written Hawaiian and on contemporary coinage.
 
-## Impact
+## Institutions
 
-The Hawaiian experience has become a reference model cited worldwide in the literature on revitalizing endangered languages, alongside the Māori and modern Hebrew cases.
+William H. Wilson and Kauanoe Kamanā, who helped establish ʻAha Pūnana Leo, developed Hawaiian-medium programs at the University of Hawaiʻi at Hilo, including the college Ka Haka ʻUla O Keʻelikōlani and training for immersion teachers. Preschool, school, and university programs together form a path that is unusual among endangered languages. The case is discussed with Māori revitalization and, more cautiously, with modern Hebrew, whose social conditions were very different.
 
-## The Role of the University of Hawaiʻi at Hilo
+## Documentation in the revitalization literature
 
-The University of Hawaiʻi at Hilo played a central institutional role in consolidating this movement. William H. Wilson and Kauanoe Kamanā helped build university-level Hawaiian-language programs, including the Hawaiian-language college at Hilo (Ka Haka ʻUla O Keʻelikōlani) and teacher-training programs for Hawaiian-medium schools. Together with the Pūnana Leo and Kula Kaiapuni schools, these created an unusually complete pathway of Hawaiian-medium education from preschool upward.
-
-## Ken Hale's Role
-
-The linguist Ken Hale, one of the most prominent academic voices advocating the documentation and revival of endangered languages worldwide, co-edited *The Green Book of Language Revitalization in Practice*, in which the Hawaiian experience is presented alongside other indigenous revitalization efforts, linking it to the broader struggle of indigenous languages for recognition and intergenerational continuity.
+Kenneth Hale and Leanne Hinton co-edited *The Green Book of Language Revitalization in Practice* (2001). Chapters by William Wilson and Kauanoe Kamanā, and by Sam L. Noʻeau Warner, describe the Hawaiian movement beside other indigenous programs. Hale, who died in 2001, had argued in print for documenting and supporting endangered languages; the Hawaiian chapters are practitioner accounts, not a claim that academic advocacy created the schools.
 
 ## Sources
 

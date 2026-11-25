@@ -14,8 +14,7 @@ edges:
 - rel: "belongs_to", target: "Mood Disorders", target_type: "مدرسة"
 related:
 - id: "sch-mood-disorders", title: "Mood Disorders", type: "مدرسة"
-gaps:
-  - "Prevalence figures: not yet covered"
+gaps: []
 ---
 
 # Adolescent Depression
@@ -25,6 +24,10 @@ Applying the criteria of **major depressive disorder** in **DSM-5-TR** to adoles
 ## Why Irritability Rather Than Sadness?
 
 This exception reflects a clinical and developmental observation: many depressed adolescents do not report clear sadness but rather **impatience, frequent quarrels, and aggressive withdrawal**. This expression is linked to a limited capacity to verbally express complex internal emotion at this age, and to hormonal and neurodevelopmental changes accompanying puberty. Nevertheless, this depressive irritability must be distinguished from **disruptive mood dysregulation disorder**, a separate diagnosis in DSM-5-TR with recurrent severe temper outbursts and persistently irritable or angry mood between outbursts; it is diagnosed between ages 6 and 18, with onset before age 10. That diagnosis was introduced originally to restrict the excessive diagnosis of bipolar disorder in severely irritable children.
+
+## Prevalence
+
+Depression is uncommon in prepubertal children and becomes much more common after puberty. A review by Thapar, Collishaw, Pine, and Thapar (2012) put the one-year prevalence of unipolar depressive disorder at about 4–5% by the later teenage years, with the post-pubertal rise larger in girls than in boys. Estimates vary with the interview, the threshold, and the country. Symptom checklists give higher figures than full diagnostic interviews, and recent community surveys in some countries report higher past-year rates than older clinic-based studies.
 
 ## Developmental Significance
 
@@ -42,3 +45,4 @@ Clinical assessment of adolescents requires careful distinction between the norm
 - Birmaher, Boris, et al. "Practice Parameter for the Assessment and Treatment of Children and Adolescents with Depressive Disorders." *Journal of the American Academy of Child & Adolescent Psychiatry* 46, no. 11 (2007): 1503–1526.
 - Stringaris, Argyris, et al. "Irritable Mood as a Symptom of Depression in Youth: Prevalence, Developmental, and Clinical Correlates in the Great Smoky Mountains Study." *Journal of the American Academy of Child & Adolescent Psychiatry* 52, no. 8 (2013): 831–840.
 - Weersing, V. Robin, et al. "Evidence Base Update of Psychosocial Treatments for Child and Adolescent Depression." *Journal of Clinical Child & Adolescent Psychology* 46, no. 1 (2017): 11–43.
+- Thapar, Anita, Stephan Collishaw, Daniel S. Pine, and Ajay K. Thapar. "Depression in Adolescence." *The Lancet* 379, no. 9820 (2012): 1056–1067.

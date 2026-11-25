@@ -29,7 +29,7 @@ Culture-bound syndromes is a term used in comparative psychiatry for behavioral 
 
 ## History of the Concept
 
-Emil Kraepelin traveled to Java in 1904 and wrote the article "Comparative Psychiatry" in the *Zentralblatt für Nervenheilkunde und Psychiatrie*, believing that the underlying diseases were the same, with their manifestations changing according to the people. Pow Meng Yap presented an article on "mental illnesses peculiar to certain cultures" in the *Journal of Mental Science* in 1951, then in the 1960s proposed the formulation of "culture-bound reactive syndromes." Hughes and Simons compiled *The Culture-Bound Syndromes* (D. Reidel, 1985), which became a reference. The fourth edition of the diagnostic manual (DSM-IV, 1994) included an appendix titled "Culture-Bound Syndromes." DSM-5 (2013) then dropped the phrase and replaced it with "cultural concepts of distress," with three domains: cultural syndromes, cultural idioms of distress, and cultural explanations (perceived causes).
+Emil Kraepelin traveled to Java in 1904 and wrote the article "Comparative Psychiatry" in the *Zentralblatt für Nervenheilkunde und Psychiatrie*, believing that the underlying diseases were the same, with their manifestations changing according to the people. Pow Meng Yap presented an article on "mental illnesses peculiar to certain cultures" in the *Journal of Mental Science* in 1951, then in the 1960s proposed the formulation of "culture-bound reactive syndromes." Ronald C. Simons and Charles C. Hughes edited *The Culture-Bound Syndromes* (D. Reidel, 1985), which became a standard collection. The fourth edition of the diagnostic manual (DSM-IV, 1994) included an appendix titled "Culture-Bound Syndromes." DSM-5 (2013) then dropped the phrase and replaced it with "cultural concepts of distress," with three domains: cultural syndromes, cultural idioms of distress, and cultural explanations (perceived causes).
 
 ## Arab and Islamic Examples
 
@@ -46,7 +46,8 @@ The concept helps alert the clinician to the meaning of distress for the patient
 ## Sources
 
 - Yap, P. M. (1951). Mental diseases peculiar to certain cultures: a survey of comparative psychiatry. Journal of Mental Science, 97, 313–327.
-- Hughes, C. C., & Simons, R. C. (Eds.) (1985). The Culture-Bound Syndromes: Folk Illnesses of Psychiatric and Anthropological Interest. Dordrecht: D. Reidel.
+- Simons, R. C., & Hughes, C. C. (Eds.) (1985). The Culture-Bound Syndromes: Folk Illnesses of Psychiatric and Anthropological Interest. Dordrecht: D. Reidel.
+- Dols, M. W. (1992). Majnun: The Madman in Medieval Islamic Society. Oxford: Clarendon Press.
 - Boddy, J. (1989). Wombs and Alien Spirits: Women, Men, and the Zar Cult in Northern Sudan. Madison: University of Wisconsin Press.
 - Guarnaccia, P. J., & Rogler, L. H. (1999). Research on culture-bound syndromes: new directions. American Journal of Psychiatry, 156(9), 1322–1327.
 - Kleinman, A. (1988). Rethinking Psychiatry: From Cultural Category to Personal Experience. New York: Free Press.

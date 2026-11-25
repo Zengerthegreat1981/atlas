@@ -24,7 +24,7 @@ gaps: []
 
 # Aṣṭādhyāyī
 
-The oldest complete formal grammatical text known in human history. It was composed by Pāṇini in ancient India and describes the rules of the Sanskrit language in a system of some four thousand (about 3,960) concise rules arranged in logical order.
+The earliest complete formal grammar of Sanskrit that survives. It was composed by Pāṇini in ancient India and describes the language in a system of about four thousand concise rules (counts vary slightly by edition) arranged in a fixed order.
 
 ## Structure and method
 
@@ -36,7 +36,7 @@ The system works derivationally: rules are applied in sequence to basic roots an
 
 ## Historical context and author
 
-The work is attributed to the Indian grammarian Pāṇini, who is estimated to have lived in the Gandhāra region of the northwest of the Indian subcontinent (present-day Pakistan), in a period dated between the 6th and the 4th centuries BCE. His work came in the context of an ancient Indian oral tradition concerned with preserving the sacred Vedic texts literally and phonetically, without distortion, which called for the development of precise linguistic tools to regulate pronunciation, morphology and grammar. Pāṇini's work is regarded as the culmination of an earlier Indian grammatical tradition (its predecessors are evidenced by his references to earlier grammarians such as Śākaṭāyana, Āpiśali and Sphoṭāyana), but it surpassed them all in comprehensiveness, precision and symbolic concision, to the point that it became the endpoint at which the later development of classical Sanskrit itself was closed. Its rules became the standard against which the correctness of the educated elite's linguistic usage was measured throughout later centuries.
+The work is attributed to the Indian grammarian Pāṇini, associated with the Gandhāra region in the northwest of the Indian subcontinent (present-day Pakistan and neighbouring areas). His date is uncertain; many historians place him in the fifth or fourth century BCE, while earlier and later dates have also been proposed. His work belongs to an ancient Indian oral tradition concerned with preserving the Vedic texts in accurate pronunciation, which encouraged precise tools for phonetics, morphology and grammar. Pāṇini cites earlier grammarians, among them Śākaṭāyana, Āpiśali and Sphoṭāyana, so the *Aṣṭādhyāyī* stands within an existing tradition. Later Sanskrit usage continued to change, but his rules became a principal standard for educated classical Sanskrit.
 
 ## The subsequent tradition: commentary texts
 
@@ -44,15 +44,15 @@ The *Aṣṭādhyāyī* did not remain an isolated text. A system of later comme
 
 ## Original methodological tools
 
-Pāṇini devised a number of methodological tools that were centuries ahead of their time: a system of "metarules" that govern how other rules are applied, instead of describing the language directly; the principle that "a more specific rule overrides a more general one" for resolving conflicts between rules; and the concept of the "zero morpheme" for referring to morphological elements that are not pronounced but are grammatically effective, a concept with a counterpart in twentieth-century Western linguistics. His derivations also move from abstract underlying elements to surface forms, a design that modern scholars have compared with the generative distinction between underlying and surface representations.
+Pāṇini uses a number of devices that later linguists have treated as theoretically interesting: metarules (*paribhāṣā*) that govern how other rules apply; a preference for the more specific rule when rules conflict; and null replacements, elements posited in the derivation that are not pronounced (his technical operations include *lopa* and the zero substitutions *luk*, *ślu* and *lup*). These are not identical with the twentieth-century zero morpheme, but they have often been compared with it. His derivations also move from abstract elements to spoken forms, a design that modern scholars have compared with the distinction between underlying and surface representations.
 
 ## Impact
 
-This work remained the standard reference for Sanskrit grammar for more than two thousand years. Its study by European scholars from the late eighteenth century (for example H. T. Colebrooke, and later Otto Böhtlingk's edition of 1839–40) influenced the development of comparative historical linguistics and, in the twentieth century, Bloomfield's admiration for it. Noam Chomsky and others have praised the precision of Pāṇini's derivational system, and scholars have noted that its ordered, rule-based formalism anticipates ideas of modern generative grammar. Its formal character has also been compared with formal-language notations such as Backus–Naur form.
+This work remained a standard reference for Sanskrit grammar for many centuries. European study of it from the late eighteenth century (for example H. T. Colebrooke, and Otto Böhtlingk's edition of 1839–40, later revised) contributed to comparative historical linguistics. Leonard Bloomfield, in *Language* (1933), wrote of it with unusual admiration. In the twentieth century, scholars including Paul Kiparsky have compared its ordered rules with devices of generative grammar. The comparison is analogical: Pāṇini was not formulating a theory of universal grammar. Its concision has also been set beside formal notations such as Backus–Naur form.
 
 ## Relation to the Arab-Islamic heritage
 
-There was no documented direct historical contact between Pāṇini's grammatical tradition and the Arabic grammar that was later founded by Sībawayh (8th century CE) and his teachers such as Khalīl ibn Aḥmad al-Farāhīdī, since each arose in a separate civilizational context. Nevertheless, comparative scholars have noted notable methodological similarities between the two systems. Both developed a precise morphological analysis (root and affix, *dhātu* and *pratyaya*, in Pāṇini; root and morphological pattern among the Arabic grammarians). Both originally arose to protect a sacred religious text (the Veda among the Indians, and the Holy Qur'an among the Arabs) from linguistic distortion. This observation is sometimes used in the comparative history of linguistics to illustrate how the origins of the great grammatical traditions were tied to a religious, preservative motive first, before later developing into an independent scientific specialty that goes beyond its original religious purpose to encompass the description of the language as a whole, whether spoken or written, in all its everyday and literary uses.
+There is no documented direct historical contact between Pāṇini's tradition and the Arabic grammar developed by Khalīl ibn Aḥmad al-Farāhīdī, Sībawayh (d. c. 180 AH / 796 CE) and their contemporaries. Comparative scholars have nevertheless noted similarities of method. Both analyse words into smaller meaningful parts (root and affix, *dhātu* and *pratyaya*, in Pāṇini; root and pattern among the Arabic grammarians). Both traditions are closely tied to the careful transmission of a sacred corpus, the Veda in one case and the Qur'an in the other, and both also describe a much wider range of usage. The religious setting explains part of the early motive for grammatical work; it does not by itself account for the later technical systems.
 
 ## Sources
 

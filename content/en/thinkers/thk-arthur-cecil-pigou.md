@@ -23,15 +23,15 @@ gaps: []
 ---
 # Arthur Cecil Pigou
 
-**Arthur Cecil Pigou** was a British economist. He succeeded his teacher Alfred Marshall in the economics chair at the University of Cambridge, and is regarded as the actual founder of the applied field of **welfare economics**. He is also the originator of the idea of addressing environmental and social damage through corrective taxes, which later bore his name.
+**Arthur Cecil Pigou** was a British economist. He succeeded his teacher Alfred Marshall in the economics chair at the University of Cambridge, and gave early welfare economics its standard Cambridge form. The corrective tax on external damage later took his name.
 
 ## Succeeding Marshall at Cambridge
 
 Pigou was a direct student of Alfred Marshall at Cambridge. He succeeded him in the economics chair there in 1908, at the age of thirty, which made him one of the youngest holders of this prestigious academic post. He held the chair until 1943. Pigou took Marshall's partial equilibrium tools and applied them in a new direction. Rather than limiting himself to describing how prices are determined in the market, he asked how one could evaluate whether these market outcomes are socially "good" at all.
 
-## Welfare Economics: A Foundational Project
+## Welfare Economics
 
-Pigou published his reference work *The Economics of Welfare* in 1920, developing an earlier work titled *Wealth and Welfare* (1912). In it he founded an entire field that examines the relationship between national product and its distribution on one hand, and the actual welfare of society on the other. He distinguished between the "private marginal product," which an individual or firm calculates when making an economic decision, and the "social marginal product," which covers all the effects on society as a whole, including effects that do not appear in direct market calculations.
+Pigou published *The Economics of Welfare* in 1920, revising *Wealth and Welfare* (1912). The book examines how the size and distribution of the national dividend relate to economic welfare. His criterion was broadly utilitarian and cardinal. Later welfare economics, associated with Pareto and with Hicks and Kaldor, dropped interpersonal comparisons of utility and used ordinal and compensation tests instead. He distinguished between the "private marginal product," which an individual or firm calculates when making an economic decision, and the "social marginal product," which covers all the effects on society as a whole, including effects that do not appear in direct market calculations.
 
 ## The Theory of Externalities
 
@@ -47,7 +47,7 @@ In defining the concept of "economic welfare," Pigou was influenced by the Cambr
 
 ## The Debate with Keynes: The End of an Era
 
-In the 1930s Pigou engaged in an influential intellectual debate with his former student John Maynard Keynes over the causes of persistent mass unemployment during the Great Depression. Pigou held a neoclassical position: that downward wage flexibility would be theoretically sufficient to restore the economy to full employment. Keynes argued that wage rigidity and pessimistic expectations could keep the economy stuck in an equilibrium without full employment for long periods. Pigou later argued (1943) that falling prices would raise the real value of money balances and so stimulate spending, an argument now called the "Pigou effect", which Keynesians regarded as of limited practical force. The debate is regarded as one of the key turning points that moved the field from full neoclassical dominance towards the Keynesian revolution.
+In the 1930s Pigou debated John Maynard Keynes, a younger Cambridge colleague who had studied chiefly under Marshall, over the causes of persistent mass unemployment during the Great Depression. Pigou held a neoclassical position: that downward wage flexibility would be theoretically sufficient to restore the economy to full employment. Keynes argued that wage rigidity and pessimistic expectations could keep the economy stuck in an equilibrium without full employment for long periods. Pigou later argued (1943) that falling prices would raise the real value of money balances and so stimulate spending, an argument now called the "Pigou effect", which Keynesians regarded as of limited practical force. The debate is regarded as one of the key turning points that moved the field from full neoclassical dominance towards the Keynesian revolution.
 
 ## A Reserved Personality and an Austere Way of Life
 
@@ -60,5 +60,6 @@ Although the debate with Keynes dominated the later years of Pigou's academic ca
 ## Sources
 
 - Pigou, Arthur C. *The Economics of Welfare*. Macmillan, 1920.
+- Pigou, Arthur C. "The Classical Stationary State." *Economic Journal*, vol. 53, no. 212, 1943, pp. 343–351.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.
 - Screpanti, Ernesto, and Stefano Zamagni. *An Outline of the History of Economic Thought*. 2nd ed., Oxford University Press, 2005.

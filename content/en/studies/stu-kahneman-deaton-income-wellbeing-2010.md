@@ -29,13 +29,13 @@ An influential study conducted by Daniel Kahneman (winner of the Nobel Prize in 
 
 ## The Core Methodological Distinction: Life Evaluation Versus Daily Emotional Wellbeing
 
-The two researchers distinguished between two qualitatively different measures of subjective wellbeing. "Life evaluation" is a reflective, overall judgement that a person makes when asked how satisfied they are with their life as a whole. It uses the Cantril ladder from zero to ten, on which the person imagines the best and worst possible lives for themselves. "Emotional wellbeing" is an immediate daily experience of positive emotions (enjoyment, smiling, admiration) and negative emotions (worry, sadness, anger) that a person actually lives through during an ordinary day, regardless of their overall reflective judgement on their life as a whole.
+The two researchers distinguished between two qualitatively different measures of subjective wellbeing. "Life evaluation" is a reflective, overall judgement that a person makes when asked how satisfied they are with their life as a whole. It uses the Cantril ladder from zero to ten, on which the person imagines the best and worst possible lives for themselves. "Emotional wellbeing" is the report of yesterday's feelings. Kahneman and Deaton built positive affect from happiness, enjoyment, and smiling or laughter, and "blue affect" from worry and sadness. They analysed stress separately. Anger moved in a similar way but was not part of the published positive-affect average. These items record a day, not the person's summary judgement of life as a whole.
 
 ## The Core Finding: Two Different Income Paths
 
-Using Gallup Daily Poll data on a very large American sample, the researchers found that income is related to these two measures in fundamentally different ways. "Life evaluation" continues to rise with income across almost the entire sample range, with no clear sign of slowing or saturation. The very rich therefore tend to judge their lives as a whole better than middle-income earners, who in turn judge their lives better than the poor.
+The data are more than 450,000 responses to the Gallup–Healthways Well-Being Index in 2008 and 2009. Income was recorded in brackets, with the top bracket at $120,000 and above, so the study cannot describe incomes far above that top code. Life evaluation rose with log income across the brackets they observed. There was no plateau inside that range.
 
-"Daily emotional wellbeing," by contrast, rises with income up to a certain threshold, which the researchers estimated at about 75,000 dollars a year in the American context at the time. Above that level it effectively stops rising. The very rich do not appear to experience more frequent positive daily feelings, or less negative ones, than relatively high-income earners, despite their continued superiority in the overall reflective life evaluation.
+Emotional wellbeing rose with income only up to roughly $75,000 of annual household income, in the prices and American sample of those two years. Above that level, positive affect, blue affect and stress showed little further improvement. People in the top income bracket still placed themselves higher on the Cantril ladder than people near $75,000. They did not report a happier yesterday. The $75,000 figure is a feature of this sample and these questions. It is not a universal constant.
 
 ## The Proposed Explanation
 
@@ -43,7 +43,7 @@ The researchers explained this divergence as follows. High income gives a person
 
 ## Later Challenges to the Threshold
 
-The 75,000-dollar figure is specific to the American context and the 2008-2009 period and should not be applied literally to other economies or years without adjusting for cost of living and inflation. In 2021 Matthew Killingsworth, using experience-sampling data, reported that experienced wellbeing kept rising with income above that level. A 2023 adversarial collaboration by Killingsworth, Kahneman and Barbara Mellers reconciled the two findings: for most people wellbeing keeps rising with income, while for the unhappiest minority it levels off at higher incomes.
+In 2021 Matthew Killingsworth, using experience-sampling from a large smartphone study, reported that experienced well-being kept rising with income above $75,000, with no sharp kink at that level. A 2023 adversarial collaboration by Killingsworth, Kahneman and Barbara Mellers compared the two designs. Their joint reading was that, for most people, experienced well-being continues to rise with income, while among the least happy respondents the relationship flattens at higher incomes. That paper revises the claim of a general emotional plateau at $75,000. It does not retract the 2010 distinction between the Cantril ladder and yesterday's affect.
 
 ## The Impact on Wellbeing Measurement and Public Policy Debates
 

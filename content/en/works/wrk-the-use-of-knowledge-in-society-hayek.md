@@ -26,7 +26,7 @@ gaps: []
 ---
 # The Use of Knowledge in Society
 
-**Friedrich Hayek** published his pivotal article "The Use of Knowledge in Society" in 1945 in the *American Economic Review*. It is one of the most frequently cited articles in modern economics. It reformulated the central economic problem in a way that changed entire trajectories of later debate on the feasibility of central planning and on how markets work.
+**Friedrich Hayek** published "The Use of Knowledge in Society" in the *American Economic Review* in 1945 (vol. 35, no. 4, pp. 519–530). The essay is heavily cited in economics and political theory. It restates the economic problem as one of using knowledge that is dispersed among many people, and it is his best-known short statement in the socialist calculation debate.
 
 ## Redefining the economic problem
 
@@ -38,7 +38,7 @@ Hayek distinguishes between scientific knowledge, which can be gathered in books
 
 ## The price system as a communication machine
 
-Hayek presents the price system in a competitive market as an extraordinary communication mechanism that solves this dilemma. When the price of a good changes in response to changed conditions anywhere in the world, each individual receives a condensed signal (the new price figure) that is sufficient for adjusting his behaviour in a way that serves general social coordination, without needing to know the full reasons behind the price change. In Hayek's view, this makes the competitive market a remarkable mechanism for coordinating dispersed knowledge, one that a central planner could not easily replicate.
+Hayek presents the competitive price system as a way of communicating that dispersed knowledge. His example is a rise in the price of tin after a new use appears, or after a source of supply fails: users and suppliers need not know why the price moved in order to economise on tin or to look for substitutes and new sources. He argues that a central planner would have to collect the same local detail continuously, which the price conveys in compressed form. The essay compares the two procedures; it does not offer a formal proof that planning is impossible.
 
 ## The context of writing: a reply to the socialist calculation debate
 
@@ -46,11 +46,11 @@ Hayek wrote this article in the context of the socialist calculation debate, whi
 
 ## A lasting influence beyond economics
 
-The article's influence extended beyond pure economics into organization theory and discussions of decentralized coordination in complex systems. It is often regarded as an early contribution to what later became the "economics of information", a field that developed in the work of other economists with formal tools different from Hayek's descriptive style.
+The essay has been taken up in organisation theory and in arguments for decentralised coordination. It is sometimes placed among the antecedents of the economics of information. The later formal literature (for example George Stigler's "The Economics of Information," 1961) studies search and the cost of acquiring information with different tools, and it does not adopt Hayek's argument unchanged.
 
 ## A clear literary style in a technical article
 
-The article is distinguished by a clear literary style, rare in technical economic writing. It uses concrete examples (such as the worldwide change in the price of tin in response to a disaster at one of its mines) to explain a complex abstract idea. This style contributed to its wide spread beyond the narrow academic economics circles, to a broader audience interested in political philosophy and the theory of social organization in general. This contrasts with the increasingly mathematical style of much economic writing of the period.
+The essay is short and written in continuous prose, with the tin example carrying the abstract claim. It was reprinted in Hayek's *Individualism and Economic Order* (1948). Readers outside technical economics have used it in debates on planning and on spontaneous order. The tin case in the article is a rise in demand or a failure of supply in general; it is not tied to one named mining disaster.
 
 ## Later criticism and methodological objections
 
@@ -58,9 +58,11 @@ The article faced objections from later economists who considered that Hayek exa
 
 ## Its place in academic citation rankings
 
-The article is widely cited and often assigned in courses on economic systems and the history of economic thought. It is relatively short (twelve pages in the journal) compared with larger works in the history of economic thought.
+The article is often assigned in courses on economic systems and the history of economic thought. In the journal it runs from page 519 to page 530.
 
 ## Sources
 
-- Hayek, Friedrich A. "The Use of Knowledge in Society." *American Economic Review*, vol. 35, no. 4, 1945, pp. 519–530.
+- Hayek, F. A. "The Use of Knowledge in Society." *American Economic Review*, vol. 35, no. 4, 1945, pp. 519–530.
+- Hayek, F. A. *Individualism and Economic Order*. University of Chicago Press, 1948.
 - Caldwell, Bruce. *Hayek's Challenge: An Intellectual Biography of F. A. Hayek*. University of Chicago Press, 2004.
+- Stigler, George J. "The Economics of Information." *Journal of Political Economy*, vol. 69, no. 3, 1961, pp. 213–225.

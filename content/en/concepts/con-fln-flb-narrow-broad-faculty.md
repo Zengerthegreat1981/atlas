@@ -36,7 +36,7 @@ Typical examples of FLB components include auditory perception of sound frequenc
 
 ## Connection to the Debate on Linguistic Innateness
 
-The distinction intersects with the broader debate on the innateness of language (universal grammar) versus usage-based models of acquisition. While Chomsky tends to narrow what is innate and specific to language to a minimum (recursion alone), critics from the functional camp argue that even this minimum is unnecessary, and that all properties of language can be explained by the interaction of general cognitive abilities not specific to language at all.
+The distinction bears on how much of language is claimed to be innate and specific to humans. The 2002 paper offers recursion, mapped to the two interfaces, as a candidate for that narrow residue. It does not establish that nothing else is language-specific. Usage-based accounts argue that grammatical structure, including recursive combination, can be learned from use together with general cognitive capacities, so that a dedicated FLN operation is not required. That disagreement is unresolved.
 
 ## Sources
 

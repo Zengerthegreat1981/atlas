@@ -25,7 +25,7 @@ An American psychiatrist (born 1942), known for chairing the task force that pro
 
 ## Career
 
-Early in his academic career, Frances worked in academic psychiatry at Cornell University Medical College (New York), with research interests that included personality disorders and diagnostic classification, and he later became chair of the Department of Psychiatry at Duke University School of Medicine. He took part in the work on earlier diagnostic manuals. In 1987 he was appointed chair of the DSM-IV task force. At that time he sought a "diagnostic conservatism" approach, under which no change would be made to the system without accumulated empirical evidence, having concluded that the two previous editions had opened the door to a rapid expansion of the boundaries of illness. DSM-IV was published in 1994, followed by a text revision in 2000.
+Early in his academic career, Frances worked in academic psychiatry at Cornell University Medical College (New York), with research interests that included personality disorders and diagnostic classification, and he later became chair of the Department of Psychiatry at Duke University School of Medicine. He took part in the work on earlier diagnostic manuals. By 1988 he was chair of the DSM-IV task force, an appointment often dated to 1987. At that time he sought a "diagnostic conservatism" approach, under which no change would be made to the system without accumulated empirical evidence, having concluded that the two previous editions had opened the door to a rapid expansion of the boundaries of illness. DSM-IV was published in 1994, followed by a text revision in 2000.
 
 ## Contributions
 

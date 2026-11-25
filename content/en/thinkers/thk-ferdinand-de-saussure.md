@@ -25,7 +25,7 @@ gaps: []
 
 # Ferdinand de Saussure
 
-A Swiss linguist and professor at the University of Geneva, regarded as the founder of modern linguistics and structuralism. He began his scientific career as a researcher in historical comparative linguistics (his treatise on the vowel system in Indo-European languages, 1878). He then shifted, in his three Geneva lecture courses (1906–1911), to establishing a new method for studying language as a system rather than as history. This shift changed the course of linguistics as a whole in the twentieth century. It moved the field's attention away from the almost exclusive focus on the historical development of languages, which dominated the nineteenth century, toward the study of a language's internal structure as a system of synchronic relations at a single moment.
+A Swiss linguist and professor at the University of Geneva, a principal source of twentieth-century structural linguistics. He began his career in historical comparative linguistics with his treatise on the vowel system of the Indo-European languages (1878). In three lecture courses at Geneva (1906–1911) he set out a way of studying language as a system rather than only as history. That programme, published after his death, moved a large part of twentieth-century linguistics from the nineteenth-century concentration on language change toward the description of a language's internal relations at one time.
 
 ## The 1878 Treatise on Indo-European Vowels
 
@@ -57,12 +57,11 @@ Saussure systematically separated the study of language "synchronically," meanin
 
 ## Influence
 
-He is regarded as the founding father of linguistics as an independent science with its own distinctive method. He was the direct source of inspiration for the Prague Linguistic Circle (Jakobson, Trubetzkoy) in phonology, and later for French structuralism in anthropology (Lévi-Strauss), literary criticism and semiotics (Barthes). These extensions went well beyond linguistics itself. Modern comparisons (such as Abu Deeb's in 1979) have also inspired scholars to link Saussure's principle of "differential value" with the rhetorical principle of *nazm* (syntactic arrangement), older by roughly eight centuries, in the work of 'Abd al-Qahir al-Jurjani. The aim of such comparisons is to highlight the originality of classical Arabic linguistic thought, without claiming a direct historical influence between the two projects.
+He is a central figure in the emergence of structural linguistics as a general method. The Prague Linguistic Circle (including Jakobson and Trubetzkoy) drew on his distinctions in phonology, and later French structuralism took them into anthropology (Lévi-Strauss), literary criticism and semiotics (Barthes). Those extensions go well beyond linguistics. Comparisons are sometimes drawn between his principle of differential value and the much older theory of *nazm* in 'Abd al-Qahir al-Jurjani. The two projects start from different problems, and there is no historical line from one to the other.
 
 ## Sources
 
 - Culler, Jonathan (1976). *Saussure*. Fontana Modern Masters.
 - Joseph, John E. (2012). *Saussure*. Oxford University Press.
 - Saussure, Ferdinand de (1916/1983). *Course in General Linguistics* (trans. Roy Harris). Duckworth.
-- Abu Deeb, Kamal (1979). *Al-Jurjani's Theory of Poetic Imagery*. Aris & Phillips.
 - Harris, Roy (2001). *Saussure and His Interpreters*. Edinburgh University Press.

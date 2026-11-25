@@ -23,7 +23,7 @@ The **Prebisch-Singer hypothesis** is an economic thesis put forward independent
 
 ## An overturning of the classical expectation
 
-The hypothesis reversed a firmly held expectation in classical trade theory, which assumed that specialization according to comparative advantage (the peripheries exporting raw materials and importing manufactured goods) benefits both trading partners equally and gradually over time. Prebisch and Singer argued that historical experience contradicts this expectation: countries exporting primary commodities did not see a gradual improvement in their terms of trade, as classical theory predicted, but a continuing relative deterioration over the long run.
+The hypothesis ran against an expectation, associated with John Stuart Mill and other classical writers, that diminishing returns in primary production and technical progress in manufacturing would move the terms of trade in favour of primary exporters. Comparative advantage does not itself imply that the gains from trade are shared equally. Prebisch and Singer argued that the historical record for primary exporters showed a long-run deterioration in the terms of trade, rather than the improvement that line of classical reasoning had suggested.
 
 ## Two proposed explanatory mechanisms
 
@@ -45,4 +45,5 @@ The hypothesis was a starting point for more radical later developments within d
 
 - Prebisch, Raúl. *The Economic Development of Latin America and Its Principal Problems*. United Nations, 1950.
 - Grilli, Enzo R., and Maw Cheng Yang. "Primary Commodity Prices, Manufactured Goods Prices, and the Terms of Trade of Developing Countries." *World Bank Economic Review*, vol. 2, no. 1, 1988, pp. 1-47.
+- Mill, John Stuart. *Principles of Political Economy*. 1848.
 - Singer, Hans W. "The Distribution of Gains between Investing and Borrowing Countries." *American Economic Review*, vol. 40, no. 2, 1950, pp. 473–485.

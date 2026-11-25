@@ -1,0 +1,9 @@
+con-act-acceptance: removed unverifiable claim about Hayes' influences
+con-antisocial-personality: corrected AMPD impairment description (self + interpersonal functioning, not 'two of four')
+sch-diagnostic-nosology: 'ninth volume of 1927 completed with Lange' corrected to ninth edition edited by Lange after Kraepelin's death
+sch-psychotherapy-foundations: "whose patient named the method" -> Anna O. herself named it "the talking cure"
+thk-henry-steadman: The Mentally Ill in Jail year corrected 1988 -> 1989 (text and source)
+thk-judith-herman: removed unverifiable "1996 ISTSS lifetime achievement award" sentence
+thk-paul-salkovskis: al-Balkhi title spelling Maslahat -> Masalih al-Abdan wa al-Anfus
+thk-solomon-snyder: removed unverified "retired from Johns Hopkins in 2022"
+thk-stephen-stahl: removed doubtful "Ph.D. at University of Chicago" training claim; kept Northwestern medicine

@@ -44,7 +44,7 @@ Greenberg distinguished two kinds of universals. Absolute universals hold across
 
 ## From Greenberg to the major projects: WALS and beyond
 
-This current later expanded through the efforts of many researchers (Bernard Comrie, Martin Haspelmath, Matthew Dryer) into the construction of large typological databases covering many of the world's languages. The most prominent is **The World Atlas of Language Structures (WALS)**, which documents the distribution of dozens of structural features (such as the sound system, word order and case systems) across well over a thousand languages, enabling statistical testing of typological hypotheses on an unprecedented global scale.
+This current later expanded through the efforts of many researchers (Bernard Comrie, Martin Haspelmath, Matthew Dryer) into the construction of large typological databases covering many of the world's languages. A central reference is **The World Atlas of Language Structures (WALS)**. The 2013 online edition, edited by Matthew Dryer and Martin Haspelmath, maps on the order of 190 structural features (sound systems, word order, case, and others) across more than a thousand languages, so that typological hypotheses can be checked against a large comparative sample.
 
 ## Central typological phenomena: ergativity and numeral classifiers
 
@@ -56,7 +56,7 @@ Martin Haspelmath, one of the leading typologists of the newer generation, is kn
 
 ## Legacy
 
-This school founded the contemporary field of linguistic typology, nourished large documentation projects (such as the WALS atlas of the world's language structures), and influenced functional linguistics, which prefers to explain linguistic structure through factors of use and cognitive processing rather than through innate grammar alone. Typology also gave a direct impetus to intensifying field documentation of rare and endangered languages, since the loss of any language now means the loss of a typological data point that cannot be replaced in global comparative databases.
+Greenbergian typology shaped the contemporary comparative study of language universals, supported large documentation projects such as WALS, and influenced functional linguistics, which explains recurring structure through use and processing as well as through inherited grammar. Typological sampling has also been one reason for fieldwork on lesser-described languages, since a lost language is a lost point in a comparative sample.
 
 ## Sources
 

@@ -25,11 +25,11 @@ gaps: []
 
 # Michael Halliday
 
-British-Australian linguist and founder of **Systemic Functional Linguistics** (SFL), one of the most important alternative functional frameworks to generative grammar.
+A British-Australian linguist and the principal author of **systemic functional linguistics** (SFL), a functional framework developed as an alternative to generative grammar.
 
 ## Early Beginnings in Chinese Linguistics
 
-Before moving into the tradition of the London school, Halliday began his academic career by studying Chinese at Peking University (under Luo Changpei) and at Lingnan University (under Wang Li) in the late 1940s. He completed his doctorate at Cambridge in 1955 under Firth with a thesis on the Chinese version of the *Secret History of the Mongols*. This background gave him an early sensitivity to stylistic and contextual variation within a single language, which later shaped his functional and social view of language in general.
+Halliday studied Chinese at Peking University (with Luo Changpei) and at Lingnan University (with Wang Li) in the late 1940s. His 1955 Cambridge doctorate was on the Chinese version of the *Secret History of the Mongols*. Gustav Haloun, and after Haloun's death E. G. Pulleyblank, were his Cambridge supervisors; J. R. Firth supervised the linguistic side of the work from London. That training in Chinese, and Firth's contextual theory of meaning, shaped his later functional and social view of language.
 
 ## The Project
 
@@ -53,7 +53,7 @@ His student J. R. Martin later developed "Genre Theory" within the same systemic
 
 ## Impact
 
-His theory influenced applied linguistics, discourse analysis and language teaching. It became a widely used alternative framework in non-American academic circles, in place of the dominance of generative grammar. His social view of language also deeply influenced critical discourse analysis (such as the work of Norman Fairclough) and the teaching of writing and academic language worldwide.
+The theory has been used in applied linguistics, discourse analysis and language teaching, especially outside the American generative mainstream. Norman Fairclough's critical discourse analysis draws on Halliday's social account of grammar, and the systemic-functional tradition has been used in the teaching of writing.
 
 ## Register and Style-Shifting
 
@@ -65,7 +65,7 @@ After moving to Australia, Halliday's ideas deeply influenced language education
 
 ## Global Recognition and Institutional Legacy
 
-Halliday founded a global intellectual school that extended from Britain to Australia and then to China, where he received particular recognition given his early research roots there. Systemic Functional Linguistics has become one of the most widely used frameworks worldwide in language teaching and discourse analysis. It has regular international conferences and a large scholarly literature devoted to it.
+Systemic functional linguistics spread from Britain to Australia and has a substantial following in China, where Halliday's early work on Chinese is part of the reception. The framework has regular international meetings and a large literature in language teaching and discourse analysis.
 
 ## Sources
 

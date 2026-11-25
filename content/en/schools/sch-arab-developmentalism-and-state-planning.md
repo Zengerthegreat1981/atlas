@@ -20,8 +20,7 @@ related:
 - id: "sch-latin-american-structuralism-cepal", title: "Latin American Structuralism (CEPAL)", type: "مدرسة"
 - id: "sch-development-economics", title: "Development Economics", type: "مدرسة"
 - id: "con-arab-subsidy-state-and-social-contract", title: "The Subsidy State and the Arab Social Contract", type: "مفهوم"
-gaps:
-  - "Country-by-country account of nationalization in Egypt, Syria, Iraq and Algeria: not yet covered"
+gaps: []
 ---
 # Arab Developmentalism and State Planning
 
@@ -36,6 +35,20 @@ Decades before this current, Egyptian efforts were led by **Talaat Harb** (1867�
 ## The Nasserist peak: nationalization and central planning
 
 After the July 1952 Revolution, and more clearly after the nationalization of the Suez Canal in 1956 and the broad nationalizations of the early 1960s, the Egyptian state adopted a development model based on: nationalization of strategic sectors (banks, insurance, major industries, the Suez Canal); five-year central plans to direct investment; customs protection for infant industries; and an expansion of the public sector in employment and production. Prominent Egyptian economists such as Ismail Sabri Abdallah held direct posts in the central planning apparatus (the Ministry of Planning), so they were part of the planning state rather than outside commentators on it. Other economists, such as Fouad Morsi, offered a Marxist critique of the class structure of this model from a position that was broadly supportive of planning but more insistent in questioning who actually benefited from nationalization.
+
+## Nationalizations, country by country
+
+The timing and legal form differed.
+
+In Egypt, land reform began in 1952. The Suez Canal Company was nationalized in 1956. On 20 July 1961 three laws widened the public sector. Law 117 nationalized banks, insurance companies and a list of large firms in full. Law 118 required the state to take at least half the capital of a further list of companies. Law 119 capped any person's holding in specified companies at £E 10,000 and transferred the excess to the state. The public sector became a major employer. Small firms and most of agriculture stayed private, and the state issued five-year plans.
+
+In Syria, after the Ba'ath takeover of 1963, nationalization laws in 1964–1965 covered banks and large industrial and commercial firms. Further state control of industry and foreign trade followed under later Ba'ath governments. Planning was real but repeatedly interrupted by political conflict and, from the 1970s, by a selective opening to private capital.
+
+In Iraq, the Arif government nationalized banks and many large firms in 1964. The Ba'ath government completed the nationalization of the Iraq Petroleum Company in 1972, so the main export revenue passed to the state. Oil income then financed both industrial projects and a large public payroll. Manufacturing remained limited beside the hydrocarbon sector.
+
+In Algeria, independence in 1962 was followed, especially under Houari Boumediene after 1965, by state control of mines, banking and, in 1971, the French oil interests. Official strategy favoured heavy industry (steel, hydrocarbons, machinery) under state companies. Agriculture and the informal sector were never organised on the same plan.
+
+Tunisia's brief "socialist" experiment under Ahmed Ben Salah in the 1960s, built on cooperatives rather than on Egyptian-style nationalization of industry, was reversed at the end of that decade. It belongs in the comparison as a path not taken to the end, not as a copy of the Egyptian model.
 
 ## Regional diffusion
 

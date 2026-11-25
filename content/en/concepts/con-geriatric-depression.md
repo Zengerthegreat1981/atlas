@@ -31,7 +31,11 @@ The clinical presentation of depression in older adults differs from that in you
 
 ## Risk Factors and Suicide
 
-The main risk factors include female sex, chronic physical illness, disability and pain, alcohol and substance use, medical conditions and medication effects (polypharmacy), family history, social isolation, and bereavement. Suicide rates are highest in late life in many countries, particularly among older men, and older adults make fewer attempts per death than younger people, so attempts are more often fatal. Prior disclosure of intent may also be less common.
+The main risk factors include female sex, chronic physical illness, disability and pain, alcohol and substance use, medical conditions and medication effects (polypharmacy), family history, social isolation, and bereavement. In the United States, suicide mortality is highest in later life among men. Older adults make fewer attempts per death than younger people, so attempts are more often fatal. A prior statement of intent is also less consistently reported than in younger groups.
+
+## Assessment and the vascular hypothesis
+
+Because somatic symptoms of medical illness overlap with depressive symptoms, screening instruments written for older adults, notably the Geriatric Depression Scale (Yesavage et al., 1982–83), emphasize mood and cognition rather than appetite, sleep, and fatigue. George Alexopoulos and colleagues (1997) proposed a "vascular depression" hypothesis: late-onset depression accompanied by cerebrovascular risk and white-matter changes on imaging. The hypothesis remains a clinical research frame. It does not by itself separate late-life depression from early-onset depression that has persisted into old age, or from depression secondary to dementia. Executive dysfunction, psychomotor slowing, and a weaker response to some antidepressants have been described more often in this late-onset, vascular-risk group.
 
 ## Management
 
@@ -47,4 +51,5 @@ In broad terms, management of late-life depression may include antidepressant me
 - Fiske, Amy, Jerri D. Wetherell, and Margaret Gatz. "Depression in Older Adults." *Annual Review of Clinical Psychology* 5 (2009): 363–389.
 - Blazer, Dan G. "Depression in Late Life: Review and Commentary." *Journals of Gerontology: Series A* 58, no. 3 (2003): M249–M265.
 - Alexopoulos, George S. "Depression in the Elderly." *The Lancet* 365, no. 9475 (2005): 1961–1970.
-- National Institute of Mental Health, "Older Adults and Depression" (public information resource).
+- Yesavage, Jerome A., et al. "Development and Validation of a Geriatric Depression Screening Scale: A Preliminary Report." *Journal of Psychiatric Research* 17, no. 1 (1982–83): 37–49.
+- Alexopoulos, George S., et al. "'Vascular Depression' Hypothesis." *Archives of General Psychiatry* 54, no. 10 (1997): 915–922.

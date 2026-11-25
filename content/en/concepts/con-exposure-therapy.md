@@ -35,7 +35,7 @@ In 1924 Mary Cover Jones reported in *Pedagogical Seminary* the case of a young 
 
 ## Theories of Mechanism
 
-In 1986, Foa and Kozak presented the "emotional processing theory" in *Psychological Bulletin*. According to it, treatment requires activating the "fear structure" and introducing corrective information. Habituation within sessions and between sessions is considered an indicator of improvement (see the entry on Habituation through Exposure). The critique of this theory came from extinction research. With the work of Mark Bouton, it was observed that extinction is a new learning that competes with the original memory and does not erase it, so fear returns over time. On this basis, Craske and colleagues presented in *Behaviour Research and Therapy* in 2014 the "inhibitory learning" model. It holds that the aim of a session is to violate the patient's threat expectations rather than to reduce anxiety. It recommends varying stimuli and contexts and dropping safety behaviors.
+In 1986, Foa and Kozak presented the "emotional processing theory" in *Psychological Bulletin*. According to it, treatment requires activating the "fear structure" and introducing corrective information. Habituation within sessions and between sessions is considered an indicator of improvement (see the entry on Habituation through Exposure). The critique of this theory came from extinction research. Mark Bouton and others showed, in animal learning work, that extinction is a new memory that competes with the original fear memory and does not erase it, so fear can return with time, context, or reminder. On that basis, Craske and colleagues presented in *Behaviour Research and Therapy* in 2014 the "inhibitory learning" model. It holds that the aim of a session is to violate the patient's threat expectations rather than to reduce anxiety. It recommends varying stimuli and contexts and dropping safety behaviors.
 
 ## Evidence and Applications
 
@@ -60,3 +60,4 @@ Exposure is not suitable for every patient. Those with severe dissociation or ac
 - Foa, E. B., Rothbaum, B. O., Riggs, D. S., & Murdock, T. B. (1991). Treatment of posttraumatic stress disorder in rape victims. Journal of Consulting and Clinical Psychology, 59(5), 715–723.
 - Rothbaum, B. O., Hodges, L. F., Kooper, R., Opdyke, D., Williford, J. S., & North, M. (1995). Effectiveness of computer-generated (virtual reality) graded exposure in the treatment of acrophobia. *American Journal of Psychiatry*, 152(4), 626–628.
 - Craske, M. G., et al. (2014). Maximizing exposure therapy: an inhibitory learning approach. Behaviour Research and Therapy, 58, 10–23.
+- Bouton, M. E. (2004). Context and behavioral processes in extinction. *Learning & Memory*, 11, 485–494.

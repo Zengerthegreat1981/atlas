@@ -28,7 +28,7 @@ A biological hypothesis formulated by Eric Lenneberg in 1967. It holds that the 
 
 ## Evidence
 
-Lenneberg relied on several lines of evidence. Patterns of recovery from language-related brain injuries (aphasia) differ between children and adults. Language development in children with certain intellectual disabilities (such as Down syndrome) was reported to plateau around puberty. Rare cases of severe language deprivation also support the hypothesis. The case of the girl "Genie," discovered in 1970, had no linguistic exposure until the age of thirteen. After her discovery she learned a considerable vocabulary, but she showed a lasting inability to master full grammar.
+Lenneberg relied on several lines of evidence. Patterns of recovery from language-related brain injuries (aphasia) differ between children and adults. Language development in children with certain intellectual disabilities (such as Down syndrome) was reported to plateau around puberty. Rare cases of severe language deprivation have also been cited. The child known as Genie was removed from extreme isolation in 1970, at the age of thirteen, after very little ordinary linguistic interaction. Susan Curtiss's study reports that Genie acquired a substantial vocabulary, while her grammatical development remained far from that of typical native speakers. A single case, with many confounding deprivations, cannot by itself confirm a biological cutoff.
 
 ## Ongoing Debate
 
@@ -40,7 +40,7 @@ Lenneberg linked the critical period to the gradual "lateralization" of language
 
 ## Application to Second Language Acquisition
 
-Later researchers, such as Jacqueline Johnson and Elissa Newport (1989) and David Birdsong, extended testing of the hypothesis to second language learners. They found that those who begin intensive exposure to a second language before puberty tend to reach a level of proficiency, especially in pronunciation and fine grammatical intuition, that is closer to that of native speakers than those who begin after puberty. However, studies of exceptional adult learners who attained near-complete proficiency cast doubt on the existence of a strict and absolute threshold. They prompted proposals of a gradual decline in ability, rather than a single critical "window" that closes abruptly.
+Later researchers extended the question to second languages. Jacqueline Johnson and Elissa Newport (1989) tested grammaticality judgments by learners of English and reported a strong relationship between age of arrival and accuracy, with an advantage for those whose exposure began in childhood. That study measured morphosyntactic judgments, not pronunciation. David Birdsong and others have documented adult learners who reach near-native proficiency on some measures. Those results weigh against a single window that closes absolutely at puberty, and they are compatible with a gradual decline, often called a sensitive period, whose boundaries and causes remain disputed.
 
 ## Impact on Educational Policy
 

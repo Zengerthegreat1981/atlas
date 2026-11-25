@@ -35,11 +35,11 @@ Unlike Walras, who sought a mathematical model describing all markets together, 
 
 ## Elasticity: An Analytical Tool Devised by Marshall
 
-Marshall introduced the concept of **price elasticity of demand**, a quantitative tool that measures how responsive the quantity demanded of a good is to a relative change in its price. The tool made it possible to distinguish necessities with low elasticity (such as bread) from luxuries with high elasticity. It became one of the most widely used tools of microeconomics in the applied analysis of tax and trade policy until today.
+Marshall gave **price elasticity of demand** its standard form and name in the *Principles*. (Antoine Augustin Cournot had already written the responsiveness of quantity to price in mathematical terms in 1838.) The measure shows how responsive the quantity demanded of a good is to a relative change in its price. The tool made it possible to distinguish necessities with low elasticity (such as bread) from luxuries with high elasticity. It became one of the most widely used tools of microeconomics in the applied analysis of tax and trade policy until today.
 
 ## Time in Economic Analysis: The Short and Long Run
 
-One of Marshall's most important methodological contributions is his careful distinction between the **short run**, in which some factors of production (such as factories and machinery) are fixed and cannot be adjusted quickly, and the **long run**, in which all factors of production become adjustable. This temporal distinction made it possible to explain complex phenomena, such as a firm continuing to produce at a loss in the short run so long as it covers its variable costs, while it inevitably leaves the market in the long run if it fails to make sufficient profits.
+Marshall distinguished the **short run**, in which some factors of production (such as factories and machinery) are fixed and cannot be adjusted quickly, from the **long run**, in which all factors of production become adjustable. This temporal distinction made it possible to explain complex phenomena, such as a firm continuing to produce at a loss in the short run so long as it covers its variable costs, while it tends to leave the market in the long run if price stays below average cost.
 
 ## Edgeworth: Mathematical Rigour Within the Marshallian Tradition
 
@@ -69,4 +69,5 @@ Alongside his theoretical contribution, Marshall also built the institutional fr
 
 - Marshall, Alfred. *Principles of Economics*. Macmillan, 1890.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.
+- Cournot, Antoine Augustin. *Recherches sur les principes mathématiques de la théorie des richesses*. L. Hachette, 1838.
 - Screpanti, Ernesto, and Stefano Zamagni. *An Outline of the History of Economic Thought*. 2nd ed., Oxford University Press, 2005.

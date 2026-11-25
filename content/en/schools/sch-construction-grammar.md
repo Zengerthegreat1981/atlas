@@ -29,7 +29,7 @@ A linguistic theoretical framework that arose at the University of California, B
 
 ## Historical Context and Origins
 
-Construction grammar arose at the University of California, Berkeley in the late 1980s as a direct reaction to the dominance of Chomskyan generative grammar, which posited an autonomous formal grammatical component entirely independent of the lexicon, meaning and usage. Charles Fillmore, together with Paul Kay and Mary Catherine O'Connor, presented an influential case study of the English construction "Let Alone" (1988). They showed that this idiomatic construction carries complex grammatical properties and a special semantic condition of its own, which cannot be derived from general abstract grammatical rules. Rather, the construction itself must be described as a self-contained grammatico-semantic unit in the grammatical lexicon. This example paved the way for a general theory that Adele Goldberg later proposed in her dissertation and then in her book *Constructions* (1995), which established construction grammar as a complete theoretical framework.
+Construction grammar arose at the University of California, Berkeley in the late 1980s as a direct reaction to the dominance of Chomskyan generative grammar, which posited an autonomous formal grammatical component entirely independent of the lexicon, meaning and usage. Charles Fillmore, together with Paul Kay and Mary Catherine O'Connor, presented an influential case study of the English construction "Let Alone" (1988). They argued that this idiomatic construction has syntactic and semantic properties that do not follow from general rules plus the meanings of *let* and *alone*, and that the pattern itself should be listed as a form-meaning unit. Adele Goldberg then developed argument-structure constructions in her Berkeley dissertation and in *Constructions* (1995). Fillmore and Kay continued to elaborate the Berkeley framework alongside that work.
 
 ## The Central Thesis
 
@@ -49,7 +49,7 @@ Construction grammar later branched into several sub-schools. "Radical Construct
 
 ## Difference from Generative Grammar and Impact
 
-Unlike generative grammar, which posits an innate, universal grammatical structure independent of meaning and usage, construction grammar links form and meaning directly at every level. It intersects with usage-based approaches to acquisition, which see language learning as a process of gradual abstraction from concrete, repeated examples rather than as the activation of a ready-made innate structure. The framework has profoundly influenced contemporary cognitive and functional linguistics, and it provided analytical tools that computational natural language processing also adopted, through projects such as FrameNet and through the collostructional analysis of Stefan Gries and Anatol Stefanowitsch, who developed statistical methods for measuring how strongly particular words are associated with particular grammatical constructions.
+Unlike generative grammar, which posits an innate, universal grammatical structure independent of meaning and usage, construction grammar links form and meaning directly at every level. It intersects with usage-based approaches to acquisition, which see language learning as a process of gradual abstraction from concrete, repeated examples rather than as the activation of a ready-made innate structure. The framework has been widely used in cognitive and functional linguistics. FrameNet, directed by Fillmore at the International Computer Science Institute in Berkeley, classifies lexical items by the frames they evoke and has been used in natural-language processing. Anatol Stefanowitsch and Stefan Th. Gries (2003) introduced collostructional analysis, a family of statistical tests of association between words and constructions.
 
 ## Langacker's Cognitive Grammar
 
@@ -61,3 +61,4 @@ Construction grammar also intersects with "Cognitive Grammar," developed by Rona
 - Goldberg, Adele E. (2006). *Constructions at Work*. Oxford University Press.
 - Fillmore, Charles J.; Kay, Paul; O'Connor, Mary Catherine (1988). "Regularity and Idiomaticity in Grammatical Constructions: The Case of Let Alone." *Language* 64(3).
 - Croft, William (2001). *Radical Construction Grammar: Syntactic Theory in Typological Perspective*. Oxford University Press.
+- Stefanowitsch, Anatol, & Gries, Stefan Th. (2003). "Collostructions: Investigating the Interaction of Words and Constructions." *International Journal of Corpus Linguistics* 8(2).

@@ -23,7 +23,7 @@ gaps: []
 
 # Roman Jakobson
 
-A linguist born in Russia, a founding member of the Moscow Linguistic Circle (1915) and then the Prague Linguistic Circle (1926), and one of the most important linguists of the twentieth century. He emigrated to the United States in 1941 to escape the Nazi occupation of Europe, and worked at Columbia University, Harvard University, and MIT.
+A linguist born in Russia, a founding member of the Moscow Linguistic Circle (1915) and of the Prague Linguistic Circle (1926), and a central figure in twentieth-century linguistics. He reached the United States in 1941 after leaving Nazi-occupied Europe, and taught at Columbia University, Harvard University and MIT.
 
 ## Phonological Contribution
 
@@ -31,11 +31,11 @@ Building on Nikolai Trubetzkoy's phonology of oppositions, Jakobson later develo
 
 ## Transition to the United States and Its Broader Impact
 
-After his emigration, Jakobson transferred the methodology of the Prague Circle to American linguistics and influenced the generation that founded generative grammar (he was a senior colleague of the young Noam Chomsky at Harvard and MIT). He also developed a model of the functions of language in communication that goes beyond phonology to a general theory of language, and his influence extended to structural anthropology (through his collaboration with Claude Lévi-Strauss) and to linguistic poetics.
+After his emigration, Jakobson brought Prague Circle methods into American linguistics. He was a senior colleague of Noam Chomsky at Harvard and MIT while generative grammar was taking shape. He also developed a model of the functions of language in communication that goes beyond phonology to a general theory of language, and his influence extended to structural anthropology (through his collaboration with Claude Lévi-Strauss) and to linguistic poetics.
 
 ## The Six Functions of Language in Communication
 
-Jakobson developed an influential model of the functions of language in communication, in which he distinguished six functions that accompany every communicative act, each linked to one of the six elements of the communicative situation (addresser, addressee, message, context, channel, and code): the emotive function (focus on the sender and their feelings); the conative function (focus on the addressee and urging them to act); the referential function (focus on the context or the subject referred to); the poetic function (focus on the message itself as an aesthetic structure); the phatic function (keeping the communication channel open, such as through a passing greeting); and the metalingual function (focus on the linguistic code itself, such as explaining the meaning of a word). Although all functions are usually present in any utterance, one of them usually dominates according to the prevailing communicative purpose.
+Jakobson developed an influential model of the functions of language in communication, in which he distinguished six functions that accompany every communicative act, each linked to one of the six elements of the communicative situation (addresser, addressee, message, context, contact, and code): the emotive function (focus on the sender and their feelings); the conative function (focus on the addressee and urging them to act); the referential function (focus on the context or the subject referred to); the poetic function (focus on the message itself as an aesthetic structure); the phatic function (keeping the communication channel open, such as through a passing greeting); and the metalingual function (focus on the linguistic code itself, such as explaining the meaning of a word). Although all functions are usually present in any utterance, one of them usually dominates according to the prevailing communicative purpose.
 
 ## The Poetic Function and the Axes of Similarity and Contiguity
 
@@ -43,7 +43,7 @@ Jakobson linked the poetic function of language to two basic axes borrowed from 
 
 ## His Relationship to Structural Anthropology
 
-Jakobson's direct collaboration with Claude Lévi-Strauss in Paris and New York helped transfer the method of structural phonological analysis (breaking a phenomenon down into smaller, binarily opposed units) into the analysis of myths and anthropological kinship systems. He thus became one of the direct methodological bridges between structural linguistics and the broader French structuralism in the human sciences during the twentieth century.
+Jakobson's association with Claude Lévi-Strauss in New York, at the École Libre des Hautes Études in the 1940s, helped carry structural analysis by binary opposition into the study of myth and kinship. He thus became one of the direct methodological bridges between structural linguistics and the broader French structuralism in the human sciences during the twentieth century.
 
 ## The Moscow and Prague Circles: Two Successive Approaches
 
@@ -51,7 +51,7 @@ Jakobson first belonged to the Moscow Linguistic Circle (1915), which was influe
 
 ## His Relationship to Noam Chomsky and Generative Grammar
 
-During his time at Harvard University and MIT, Jakobson was a senior colleague of the young Noam Chomsky and was supportive of his early work, despite their later divergent methods (Chomsky focused on abstract syntactic structure, whereas Jakobson gave central importance to phonology and communicative functions). Jakobson is credited with an indirect but real influence in transferring the rigorous structural sensibility of the Prague Circle to the American academic environment in which the generative revolution later emerged, although its basic assumptions differed radically from Jakobson's functional-structural approach.
+At Harvard and MIT, Jakobson was a senior colleague of the young Noam Chomsky. Their later work diverged: Chomsky concentrated on abstract syntax, while Jakobson kept phonology and communicative functions at the center. Jakobson's presence helped carry Prague structural methods into the American setting in which generative grammar developed, on assumptions different from his own functional structuralism.
 
 ## The Law of Universal Phonological Acquisition in Children
 
@@ -61,5 +61,7 @@ Jakobson also made an influential contribution to child language acquisition wit
 
 - Toman, Jindřich (1995). *The Magic of a Common Language: Jakobson, Mathesius, Trubetzkoy, and the Prague Linguistic Circle*. MIT Press.
 - Jakobson, Roman (1960). "Closing Statement: Linguistics and Poetics." In Sebeok, T. A. (ed.), *Style in Language*. MIT Press.
+- Jakobson, Roman; Fant, C. Gunnar M.; Halle, Morris (1952). *Preliminaries to Speech Analysis*. MIT Acoustics Laboratory.
+- Jakobson, Roman (1941). *Kindersprache, Aphasie und allgemeine Lautgesetze*. Uppsala: Almqvist & Wiksell. English translation, *Child Language, Aphasia and Phonological Universals*. Mouton, 1968.
 - Jakobson, Roman; Halle, Morris (1956). *Fundamentals of Language*. Mouton.
 - Waugh, Linda R.; Monville-Burston, Monique (eds., 1990). *On Language: Roman Jakobson*. Harvard University Press.

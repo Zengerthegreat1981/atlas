@@ -17,37 +17,38 @@ related:
 - id: "con-diglossia", title: "Diglossia", type: "مفهوم"
 study_year: 1959
 design: "Descriptive comparative study across four language cases (Arabic, Swiss German, Haitian Creole, Greek)"
-main_finding: "A stable linguistic pattern in which a 'high' formal written variety, acquired only through formal education, coexists with a spoken 'low' variety acquired naturally at home, with a strict functional distribution and no overlap between them, rather than merely dialects of arbitrarily unequal prestige"
-replication_status: "replicated"
-gaps:
-  - "Changes in the functional distribution between Fusha and colloquial Arabic in contemporary usage, including digital media: not yet covered"
+main_finding: "A relatively stable pattern in which a high variety, learned mainly through formal education, and a low variety, acquired at home, are specialized for different functions; Ferguson distinguished this from ordinary dialect difference by a set of nine features"
+replication_status: "extended"
+gaps: []
 ---
 
 # Ferguson's Study of Diglossia (1959)
 
-The American linguist Charles Ferguson published in 1959 an article titled "Diglossia" in the journal *Word*. In it he presented a systematic descriptive analysis of a sociolinguistic phenomenon he had observed in several linguistic communities that were not historically related. He proposed the term **diglossia** to describe it precisely, distinguishing it from the mere existence of multiple dialects of unequal status.
+Charles A. Ferguson published "Diglossia" in *Word* in 1959. The article compares a sociolinguistic pattern he had observed in several communities and proposes **diglossia** as a name for it, set apart from ordinary differences of dialect prestige.
 
-## Study Method: Four Comparative Cases
+## Four cases
 
-Ferguson selected four linguistic cases that are geographically and historically distant, to build his comparative classification: Arabic (Fusha versus colloquial), Swiss German (Standard German, Hochdeutsch, versus the Swiss dialect, Schwyzertüütsch), Haitian Creole (official French versus spoken Haitian Creole), and Greek (the formal Katharevousa versus the spoken Demotic). These four cases differ in their language families, colonial histories and political circumstances. Ferguson chose them deliberately, to show that the pattern he described is a general structural-social one, not a specifically Arab or European peculiarity.
+Ferguson built the definition on four cases: Arabic (Fusha and the colloquials), Swiss German (standard German and Swiss German), Haiti (French and Haitian Creole), and Greek (Katharevousa and Demotic). The cases differ in history and in how closely the high and low varieties are related. Haitian Creole and French, in particular, are often classified as separate languages, a point later definitions had to face. Ferguson’s aim was a general description of the social arrangement.
 
-## Precise Definition of Diglossia
+## The nine features
 
-Ferguson distinguished diglossia from the mere existence of a "standard language" and "colloquial dialects" by a set of nine features: function, prestige, literary heritage, acquisition, standardization, stability, grammar, lexicon and phonology. Four of the most important are summarized here. The first is a strict functional specialization: the high variety (H) is used for sermons, formal lectures and literature, and the low variety (L) for everyday conversation and the family, with the two largely complementary in context. The second is distinct acquisition: L is acquired naturally in childhood, whereas H is acquired only through late formal schooling. The third is social prestige: H has a higher status, even though L is the actual everyday communicative language of all speakers, including the educated ones. The fourth is long-term historical stability: this distribution does not necessarily tend toward one of the two levels absorbing the other over time. Ferguson noted that diglossia may persist for many centuries. This contrasts with cases of transient dialect plurality, which usually resolve in favor of a single standardized dialect.
+He listed nine features: function, prestige, literary heritage, acquisition, standardization, stability, grammar, lexicon, and phonology. In the classic pattern, the high variety (H) is used for sermons, formal speeches, and literature, and the low variety (L) for conversation at home. L is acquired in childhood; H is learned mainly at school. H carries overt prestige, while L is the everyday language of the community, including educated speakers. Ferguson treated the arrangement as capable of lasting for centuries, while also describing ways it can change. The complementarity is a tendency, with intermediate and mixed speech, which he discussed further in later work.
 
-## Impact on Arabic Studies
+## Arabic and later revisions
 
-This study provided a conceptual framework that became a basic reference in modern Arabic linguistics for describing the relationship between Fusha (the H level used in official media, education, religious preaching and writing) and colloquial Arabic (the L level used in everyday conversation among all speakers, regardless of their educational level). It emphasized that this situation has been historically stable over a very long period. It also held that no single colloquial is expected to "win out" and become a unified standard, as happened in the development of some European national languages.
+The article became a standard reference for the relation between Fusha, used in formal writing, schooling, and much religious discourse, and colloquial Arabic in everyday speech. Ferguson did not claim that one colloquial must replace Fusha, as some European standard languages replaced rival dialects. Later descriptions treat Arabic as a continuum. El-Said Badawi’s 1973 study of Egypt distinguished several levels between Classical/Modern Standard Arabic and local colloquial, including educated spoken Arabic. In writing and broadcasting, and especially in digital media, colloquial Arabic is now used in many contexts that Ferguson’s H functions would have reserved for the high variety, while Fusha remains the norm of much formal prose. Ferguson’s own "Diglossia Revisited" (1991) returned to leakage between H and L and to change over time. In Greece, the official end of Katharevousa in 1976 is a case in which the low variety became the standard.
 
-## Later Criticism and Development: Fishman and Extension
+## Fishman’s extension
 
-The sociolinguist Joshua Fishman later expanded Ferguson's term to include cases in which the high and low levels do not coincide with a single language. In some cases they are two entirely separate languages, such as Spanish and Guaraní in Paraguay. Fishman distinguished between "diglossia" at the level of society and "bilingualism" at the level of the individual, which may intersect or diverge in a given society. This expansion sparked debate over the precision of Ferguson's original narrow definition, which was limited to variations within a single language historically.
+Joshua Fishman (1967) extended the term beyond varieties of one language to any socially compartmentalized pair, including Spanish and Guaraní in Paraguay. He separated societal diglossia from individual bilingualism: a community may have both, either, or neither. That extension is widely used and is also criticized for loosening Ferguson’s original criteria.
 
-## The Methodological Importance of the Study
+## Language planning
 
-Ferguson's study is a landmark in establishing comparative sociolinguistics. It showed that patterns of functional language distribution within a single society can be classified scientifically across the boundaries of languages and cultures. They are not isolated linguistic peculiarities that are hard to generalize. The study also opened the way to direct practical questions in language planning and education. One is which level should be taught in school. Another is how to design a literacy curriculum when the child speaks the spoken variety but learns to read in a structurally different variety. This question remains central to debates on education reform in the Arab world today.
+The article framed practical questions that remain open in Arabic education: which variety is the medium of the early grades, and how children learn to read a variety that differs in structure from the one they speak at home.
 
 ## Sources
 
-- Ferguson, Charles A. "Diglossia." *Word*, vol. 15, 1959.
-- Fishman, Joshua A. "Bilingualism With and Without Diglossia; Diglossia With and Without Bilingualism." *Journal of Social Issues*, 1967.
+- Ferguson, Charles A. "Diglossia." *Word* 15, 1959.
+- Ferguson, Charles A. "Diglossia Revisited." *Southwest Journal of Linguistics* 10, 1991.
+- Fishman, Joshua A. "Bilingualism With and Without Diglossia; Diglossia With and Without Bilingualism." *Journal of Social Issues* 23, 1967.
+- Badawi, El-Said M. *Mustawayat al-ʿarabiyya al-muʿasira fi Misr*. Dar al-Maʿarif, 1973.

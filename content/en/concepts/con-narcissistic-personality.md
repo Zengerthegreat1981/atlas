@@ -43,7 +43,7 @@ Treating narcissistic personality disorder is among the most difficult of the pe
 
 ## Limits
 
-The distinction between normal or adaptive narcissistic traits (healthy self-confidence, ambition) and an actual narcissistic personality disorder is a precise clinical question. It depends on the criteria of severity, stability and inflexibility across contexts. This makes it one of the diagnoses most debated about its boundaries. There is also ongoing debate about its subtypes (overt, grandiose narcissism versus covert, fragile narcissism), which the DSM-5 criteria set does not clearly differentiate.
+The distinction between normal or adaptive narcissistic traits (healthy self-confidence, ambition) and an actual narcissistic personality disorder is a precise clinical question. It depends on the criteria of severity, stability and inflexibility across contexts. This makes it one of the diagnoses most debated about its boundaries. There is also ongoing debate about subtypes (overt or grandiose narcissism versus covert or vulnerable narcissism), which the DSM-5 criteria set does not separate. ICD-11 does not retain narcissistic personality disorder as a discrete type. It rates personality disorder by severity and by trait domains.
 
 This entry is educational and does not constitute clinical advice.
 

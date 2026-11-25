@@ -22,7 +22,7 @@ gaps: []
 
 # Morphology of the Folktale
 
-The foundational work of Vladimir Propp (1928). In it he analysed one hundred Russian wonder tales (fairy tales) and concluded that their surface diversity (different characters and events) conceals a deep narrative structure common to all of them.
+The principal narrative study by Vladimir Propp, published in Russian in 1928 as *Morfologiya skazki*. In it he analysed one hundred Russian wonder tales and argued that their surface diversity conceals a shared sequence of narrative functions.
 
 ## Fixed Narrative Functions
 
@@ -50,7 +50,7 @@ Although the work remained relatively unknown outside Russia for decades, its En
 
 ## Late Reception and Translation
 
-The work remained almost entirely unknown outside the Soviet Union for three decades after its original publication in 1928. This was partly due to the barrier of the Russian language and partly to the relative academic isolation between the West and the Soviet Union in that period. The situation changed only with its translation into English in 1958 by Laurence Scott, which came with an important critical introduction. The translation made the work available to Western structuralists (Lévi-Strauss, who published a critique of Propp in 1960, and Greimas and Bremond among others), and it influenced them deeply during the 1960s, at a time when French structuralism itself was rising to dominance in the human sciences.
+The book was little read outside the Russian-speaking world for about three decades after 1928, both because it was in Russian and because scholarly contact with the Soviet Union was limited. Laurence Scott's English translation (1958; Indiana University Research Center in Anthropology, Folklore, and Linguistics, with a preface by Svatava Pirkova-Jakobson) made it available to Western readers. Claude Lévi-Strauss published a critique in 1960 ("La structure et la forme"). A. J. Greimas and Claude Bremond were among the narratologists who drew on it in the 1960s.
 
 ## Applications Beyond Russian Folklore
 

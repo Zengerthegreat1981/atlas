@@ -29,7 +29,7 @@ The concept emerged as a critique of the classical variationist sociolinguistics
 
 ## Eckert's Study at Belten High
 
-Eckert applied this framework in her extended ethnographic study of adolescents in an American suburb (*Jocks and Burnouts*, 1989; and later *Linguistic Variation as Social Practice*, 2000). She showed that two socially distinct groups within the same high school, the "Jocks," oriented toward the institution of the school, and the "Burnouts," closer to street culture outside it, developed distinct phonetic patterns (such as their differing participation in the Northern Cities Vowel Shift). These patterns cannot be explained by social class alone, but by daily practice and local belonging within the group.
+Eckert developed the framework in long-term ethnography of a suburban Detroit high school she called Belten High. *Jocks and Burnouts* (1989) describes two local categories: Jocks, oriented to school institutions, and Burnouts, oriented to urban working-class networks outside school. Her phonological studies of the same speakers, brought together in *Linguistic Variation as Social Practice* (2000), report different participation in the Northern Cities Vowel Shift. She argues that the vowel patterns track local practice and category membership, not social class as a single demographic label.
 
 ## The Local Construction of Social Meaning
 
@@ -41,6 +41,7 @@ The concept reshaped language and gender studies in particular. It shifted the q
 
 ## Sources
 
+- Eckert, P. (1989). *Jocks and Burnouts: Social Categories and Identity in the High School*. Teachers College Press.
 - Eckert, P., & McConnell-Ginet, S. (1992). "Think Practically and Look Locally: Language and Gender as Community-Based Practice." *Annual Review of Anthropology*, 21, 461-490.
 - Eckert, P. (2000). *Linguistic Variation as Social Practice*. Blackwell.
 - Lave, J., & Wenger, E. (1991). *Situated Learning: Legitimate Peripheral Participation*. Cambridge University Press.

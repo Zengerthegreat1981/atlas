@@ -86,7 +86,7 @@ Common treatments include psychotherapies such as cognitive-behavioural therapy,
 
 ## Critiques
 
-Psychiatry has attracted serious criticism, and the atlas treats it as part of the subject. Thomas Szasz argued in *The Myth of Mental Illness* (1961) that mental illness is a metaphor and that psychiatry confuses problems in living with disease. R. D. Laing, Michel Foucault in *Madness and Civilization* (1961) and Erving Goffman in *Asylums* (1961) examined power, labelling and institutions. David Rosenhan's 1973 paper "On Being Sane in Insane Places" was influential, though its methods have since been questioned. Other critiques concern pharmaceutical industry influence, expansion of diagnostic boundaries, coercion in treatment, cultural bias, and the neglect of social causes. Defenders reply that mental disorders cause real suffering, that effective help exists, and that rejecting classification entirely would leave people without care. Many contributors to the debate hold positions between the extremes.
+Psychiatry has attracted serious criticism, and the atlas treats it as part of the subject. Thomas Szasz argued in *The Myth of Mental Illness* (1961) that mental illness is a metaphor and that psychiatry confuses problems in living with disease. R. D. Laing, Michel Foucault in *Histoire de la folie* (1961; abridged in English as *Madness and Civilization*, 1965), and Erving Goffman in *Asylums* (1961) examined power, labelling and institutions. David Rosenhan's 1973 paper "On Being Sane in Insane Places" was influential, though its methods have since been questioned. Other critiques concern pharmaceutical industry influence, expansion of diagnostic boundaries, coercion in treatment, cultural bias, and the neglect of social causes. Defenders reply that mental disorders cause real suffering, that effective help exists, and that rejecting classification entirely would leave people without care. Many contributors to the debate hold positions between the extremes.
 
 ## Relation to the Psychology module
 
@@ -162,4 +162,4 @@ Diagnostic categories are conventions. They are useful for communication, resear
 - American Psychiatric Association, *Diagnostic and Statistical Manual of Mental Disorders*, fifth edition (2013)
 - World Health Organization, *International Classification of Diseases, Eleventh Revision* (2019)
 - Thomas Szasz, *The Myth of Mental Illness* (1961)
-- Michel Foucault, *Madness and Civilization* (1961)
+- Michel Foucault, *Histoire de la folie à l'âge classique* (1961); abridged English edition, *Madness and Civilization* (1965)

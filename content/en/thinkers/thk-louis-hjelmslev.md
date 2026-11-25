@@ -23,7 +23,7 @@ gaps: []
 
 # Louis Hjelmslev
 
-A Danish linguist, founder of the Copenhagen Linguistic Circle and of the doctrine of **Glossematics**, one of the most abstract and formal attempts to develop Saussurean structuralism.
+A Danish linguist, co-founder of the Copenhagen Linguistic Circle and author of the doctrine of **glossematics**, one of the most abstract attempts to develop Saussurean structuralism as a formal theory.
 
 ## The Project
 
@@ -47,15 +47,15 @@ Hjelmslev also distinguished between "denotative semiotics" (the basic linguisti
 
 ## Key Works
 
-Alongside *Prolegomena to a Theory of Language*, Hjelmslev published, in collaboration with his colleague Hans Jørgen Uldall, a concise methodological work entitled *Outline of Glossematics*. It presented a more technical and condensed account of the doctrine's formal tools, aimed chiefly at specialists who wished to apply the method rigorously in formal terms, rather than at the general theoretical reading provided by his first and most famous book.
+His own general statement is *Omkring sprogteoriens grundlæggelse* (1943), translated by Francis J. Whitfield as *Prolegomena to a Theory of Language* (revised English edition, 1961). With Hans Jørgen Uldall he planned a more technical *Outline of Glossematics*. Only Part I, *General Theory*, appeared, under Uldall's name, in 1957 in the *Travaux du Cercle Linguistique de Copenhague*; the planned second part did not appear.
 
-## Founding the Copenhagen Circle
+## The Copenhagen Circle
 
-Hjelmslev founded the Copenhagen Linguistic Circle (Cercle Linguistique de Copenhague) in 1931, together with other Danish colleagues, on the model of the contemporary Prague and Moscow circles, and chaired it for many years. The circle was an important research centre for the development of glossematics, and it published the doctrine through specialized journals and publications (such as the series *Travaux du Cercle Linguistique de Copenhague*). Nevertheless, the circle's direct international influence remained narrower than that of the Prague circle, which was far better known worldwide.
+Hjelmslev and Viggo Brøndal founded the Copenhagen Linguistic Circle (*Cercle linguistique de Copenhague*) in 1931, on the model of the Prague Linguistic Circle. Hjelmslev chaired it for many years. The circle published the series *Travaux du Cercle Linguistique de Copenhague*, a main outlet for glossematics. Its international audience stayed narrower than that of the Prague Circle.
 
 ## Early Training
 
-Hjelmslev studied comparative linguistics in Copenhagen and spent time in Prague and in Paris, where he attended the lectures of Antoine Meillet. This exposed him early to the various currents of European structural linguistics before he developed his own distinctive project of formal abstraction. He later held the chair of comparative linguistics at the University of Copenhagen and remained there until his retirement, developing the glossematic project alongside his regular academic teaching in historical and comparative linguistics.
+Hjelmslev studied comparative linguistics in Copenhagen, including under Holger Pedersen, and in Paris attended the lectures of Antoine Meillet. He later held the chair of comparative linguistics at the University of Copenhagen, teaching historical linguistics while developing glossematics.
 
 ## Reception of His Thought outside Denmark
 
@@ -63,5 +63,6 @@ Despite the difficulty of his highly abstract linguistic theses, which limited t
 
 ## Sources
 
-- Hjelmslev, Louis (1943/1961 English trans. Francis J. Whitfield). *Prolegomena to a Theory of Language*. University of Wisconsin Press.
-- Siertsema, Bertha (1965). *A Study of Glossematics: Critical Survey of Its Fundamental Concepts* (2nd ed.). Martinus Nijhoff.
+- Hjelmslev, Louis (1943). *Omkring sprogteoriens grundlæggelse*. Copenhagen: Ejnar Munksgaard. English translation by Francis J. Whitfield, *Prolegomena to a Theory of Language*, revised edition, Madison: University of Wisconsin Press, 1961.
+- Uldall, H. J. (1957). *Outline of Glossematics, Part I: General Theory*. Copenhagen: Nordisk Sprog- og Kulturforlag (*Travaux du Cercle Linguistique de Copenhague* 10.1).
+- Siertsema, Bertha (1965). *A Study of Glossematics: Critical Survey of Its Fundamental Concepts* (2nd ed.). The Hague: Martinus Nijhoff.

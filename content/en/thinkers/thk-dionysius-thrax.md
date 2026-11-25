@@ -22,7 +22,7 @@ gaps: []
 
 # Dionysius Thrax
 
-A Greek grammarian (c. 170-c. 90 BCE), a pupil of Aristarchus of Samothrace who worked in Alexandria and later taught on Rhodes, to whom the authorship of *Téchnē Grammatikḗ* ("The Art of Grammar") is attributed. It is the first systematic Greek grammar known to have been written down, and it established a classificatory framework that remained dominant in the description of European languages for more than two thousand years.
+A Greek grammarian (c. 170–c. 90 BCE), a pupil of Aristarchus of Samothrace who worked in Alexandria and later taught on Rhodes. Tradition attributes to him *Téchnē Grammatikḗ* ("The Art of Grammar"), the earliest extant systematic Greek grammar. The attribution of the whole text is disputed, but the classification it contains shaped European school grammar for many centuries.
 
 ## The classification of the eight parts of speech
 
@@ -50,7 +50,7 @@ Historians of linguistics sometimes note a structural resemblance between Dionys
 
 ## His place in the history of linguistics as an academic field
 
-Dionysius holds an introductory place in all books on the history of Western linguistics. His work is often regarded as the formal starting point of the tradition of systematic, written school grammar (in contrast to the more scattered linguistic observations of the Greek philosophers, such as Plato and Aristotle). It is taught regularly in introductory university courses on the history of linguistics as evidence of the earliest systematic attempt to describe the structure of a human language in an explicit and organized grammatical way.
+Histories of Western linguistics regularly begin the story of school grammar with the *Téchnē*. The work stands apart from the more scattered linguistic remarks of Plato and Aristotle because it sets out an explicit classification for teaching. Because much of the transmitted text may be later than Dionysius himself, it is safer to treat the *Téchnē* as the earliest surviving handbook of this kind than as a work whose every section can be dated to the second century BCE.
 
 ## Detailed morphological classification
 

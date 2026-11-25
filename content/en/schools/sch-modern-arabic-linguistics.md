@@ -9,10 +9,10 @@ cultural_origin: "other"
 title: "Modern Arabic Linguistics"
 en: "Modern Arabic Linguistics"
 crumb: "Linguistics ← Schools ← Modern Arabic Linguistics"
-dates: "Egypt · 1947 to present"
+dates: "Egypt · 1950 to present"
 country: "Egypt, Arab world"
 language: "Arabic"
-active_start: 1947
+active_start: 1950
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
@@ -45,11 +45,11 @@ Ahmad Mukhtar Omar extended this current into Arabic semantics in his reference 
 
 ## Abdessalam al-Messaddi and Mazen al-Waer: Critical Reception of Western Linguistics
 
-The Tunisian Abdessalam al-Messaddi made a notable effort, in *Linguistics and Its Epistemological Foundations*, to present Western linguistic schools (structuralism and generative grammar) to Arab readers, alongside a critical examination of their philosophical foundations and of how well they suit the study of Arabic in particular. The Syrian linguist Mazen al-Waer likewise wrote works introducing modern linguistic methods and applying them to Arabic.
+The Tunisian Abdessalam al-Masaddi (often spelled Messaddi), in *Al-Lisaniyyat wa-ususuhu al-ma'rifiyya* (*Linguistics and Its Epistemological Foundations*, 1986), presented structuralism and generative grammar to Arabic readers and examined their philosophical assumptions and their fit with Arabic. The Syrian linguist Mazen al-Waer published introductions to modern linguistic method and studies that apply it to Arabic; specific titles vary across editions and are not listed here.
 
 ## Connection to the Arab-Islamic Heritage
 
-This current differs from many attempts to modernize other disciplines in that it did not break with the classical Arabic grammatical heritage (the grammar of Sibawayh, Ibn Jinni and al-Khalil ibn Ahmad). It treated that heritage as a store of knowledge carrying the seeds of modern descriptive and linguistic insights. Examples include al-Khalil's early recognition of the morphological root system, and Ibn Jinni's view in *al-Khasa'is* on the relationship between word and meaning. Tammam Hassan and his peers therefore undertook a critical revival of this heritage with modern tools, rather than a blind importation cut off from the Arabic context.
+Much of this current kept the classical grammatical heritage in view, including Sibawayh, al-Khalil ibn Ahmad, and Ibn Jinni, rather than setting it aside. Al-Khalil's *Kitab al-Ayn* organizes the lexicon by roots, and Ibn Jinni's *al-Khasa'is* discusses the relation of expression and meaning. Tammam Hassan and others reread those discussions with twentieth-century descriptive tools. The continuity is not uniform: individual scholars differ in how far they retain traditional grammatical analogy.
 
 ## The Question of Diglossia and Contemporary Codification
 
@@ -57,7 +57,7 @@ The phenomenon of diglossia between Fusha (the language of writing, education an
 
 ## Impact
 
-This current established a modern Arab academic tradition in linguistics that continues to this day. It influenced the curricula for teaching Arabic language and its sciences in Arab universities throughout the second half of the twentieth century and beyond, and it prepared later generations of Arab linguists to apply more recent computational and generative tools to the study of Arabic without breaking with the descriptive and critical foundation laid by these founding figures.
+The current shaped linguistics curricula in many Arab universities in the second half of the twentieth century. Later computational and generative work on Arabic often still cites this descriptive and critical layer, including Anis and Hassan, alongside newer frameworks.
 
 ## Relationship with Arab Language Academies
 
@@ -65,9 +65,10 @@ This academic current also interacted with official institutions such as the Aca
 
 ## Sources
 
-- Anis, Ibrahim (1947). *Linguistic Sounds*. Anglo-Egyptian Bookshop.
-- Anis, Ibrahim (1946). *On Arabic Dialects* (*Fī al-lahajāt al-ʿarabiyya*). Cairo.
+- Anis, Ibrahim. *Al-Aswat al-lughawiyya* (Linguistic Sounds). Cairo: Maktabat al-Anglo al-Misriyya (several editions).
+- Anis, Ibrahim (1952). *Fi al-lahajat al-arabiyya* (On Arabic Dialects). Lajnat al-Bayan al-Arabi.
 - Ferguson, Charles A. (1959). "Diglossia." *Word* 15(2).
-- Hassan, Tammam (1973). *The Arabic Language: Its Meaning and Structure*. Egyptian General Book Organization.
-- Omar, Ahmad Mukhtar (1982). *Semantics*. ʿAlam al-Kutub.
-- Bishr, Kamal (1997). *Sociolinguistics: An Introduction*. Dar Gharib.
+- Hassan, Tammam (1973). *Al-Lugha al-arabiyya: ma'naha wa-mabnaha* (The Arabic Language: Its Meaning and Structure). Egyptian General Book Organization.
+- Omar, Ahmad Mukhtar (1982). *Ilm al-dalala* (Semantics). Alam al-Kutub.
+- Bishr, Kamal. *Ilm al-lugha al-ijtima'i: madkhal* (Sociolinguistics: An Introduction). Dar Gharib.
+- al-Masaddi, Abdessalam (1986). *Al-Lisaniyyat wa-ususuhu al-ma'rifiyya* (Linguistics and Its Epistemological Foundations). Al-Dar al-Tunisiyya li-l-Nashr.

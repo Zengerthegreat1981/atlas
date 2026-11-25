@@ -7,9 +7,9 @@ level: "متقدم"
 title: "Dissociation & Trauma"
 en: "Dissociation & Trauma"
 crumb: "Psychiatry ← Concepts ← Dissociation & Trauma"
-active_start: 1980
+active_start: 1889
 active_end: "مستمر"
-language: "Arabic, English"
+language: "English"
 edges:
 - rel: "belongs_to", target: "Trauma and PTSD Studies", target_type: "مدرسة"
 related:
@@ -21,9 +21,13 @@ gaps: []
 
 **Dissociation** is a partial or complete disruption of the normal integration of consciousness, memory, identity, and sensory perception of the environment or of the body. It appears especially as a psychological response to acute or chronic **psychological trauma**, particularly in early childhood.
 
-## Dissociation as a Defense Mechanism Against Trauma
+## Earlier Formulations
 
-Clinically, dissociation is understood as an automatic adaptive mechanism in the face of an overwhelming threat that cannot be escaped or confronted in practice ("freeze," as opposed to "fight or flight"). Consciousness separates from a painful experience that cannot be absorbed in the moment. This produces symptoms such as **depersonalization** (a feeling of detachment from oneself or one's body, as if observed from outside) and **derealization** (a feeling that the surroundings are unreal or hazy), or gaps in memory: **dissociative amnesia** for traumatic events.
+Pierre Janet used *désagrégation* for a splitting of mental functions and set out the idea in *L'automatisme psychologique* (1889), linking it to trauma and to narrowed consciousness. Early twentieth-century psychiatry often folded such states into hysteria. DSM-III (1980) separated a group of dissociative disorders from conversion and from the older hysteria category. The trauma link was debated again in the 1990s, when some clinicians treated dissociation as almost always the product of severe early abuse and others warned that suggestion, media models, and expectation could shape reported symptoms. Both the trauma association and the risk of iatrogenic elaboration remain part of the literature.
+
+## Dissociation as a Response to Trauma
+
+Clinically, dissociation is often described as an automatic response when a threat cannot be escaped or mastered. It is sometimes compared with a "freeze" response, but it is not the same thing as tonic immobility. Consciousness, memory, or the sense of the body fails to stay integrated with an experience that cannot be absorbed at the time. This produces symptoms such as **depersonalization** (a feeling of detachment from oneself or one's body, as if observed from outside) and **derealization** (a feeling that the surroundings are unreal or hazy), or gaps in memory: **dissociative amnesia** for traumatic events.
 
 ## The Dissociative Subtype of PTSD
 
@@ -41,6 +45,7 @@ Clinicians have argued that recognizing the dissociative pattern may call for ad
 
 ## Sources
 
+- Janet, Pierre. *L'automatisme psychologique*. Paris: Félix Alcan, 1889.
 - American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed., text rev. (DSM-5-TR). Washington, DC: APA Publishing, 2022.
 - Lanius, Ruth A., et al. "Emotion Modulation in PTSD: Clinical and Neurobiological Evidence for a Dissociative Subtype." *American Journal of Psychiatry* 167, no. 6 (2010): 640–647.
 - van der Kolk, Bessel A. *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. New York: Viking, 2014.

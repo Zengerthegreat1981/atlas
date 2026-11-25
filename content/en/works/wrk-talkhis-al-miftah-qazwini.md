@@ -9,10 +9,10 @@ cultural_origin: "other"
 title: "Talkhis al-Miftah"
 en: "Talkhis al-Miftah"
 crumb: "Linguistics ← Works ← Talkhis al-Miftah"
-dates: "Damascus/Egypt · 8th century AH"
+dates: "Damascus and Cairo · 666–739 AH / 1268–1338"
 country: "Greater Syria, Egypt"
 language: "Arabic"
-active_start: 1300
+active_start: 1268
 active_end: 1338
 edges:
 - rel: "belongs_to", target: "Arabic Rhetorical Sciences", target_type: "مدرسة"
@@ -25,7 +25,7 @@ gaps:
 
 # Talkhis al-Miftah
 
-A systematic summary of the rhetorical section (the sciences of semantics, expression, and embellishment) of the book *Miftah al-Ulum* (The Key to the Sciences) by Abu Ya'qub al-Sakkaki, composed by al-Khatib al-Qazwini in the early eighth century AH, which became the most famous instructional text in the history of Arabic rhetoric.
+A systematic summary of the rhetorical section of *Miftah al-Ulum* (The Key to the Sciences) by Abu Ya'qub al-Sakkaki (d. 626 AH / 1229). Al-Khatib al-Qazwini composed it in the eighth century AH (the fourteenth century CE). It became a standard teaching text of Arabic rhetoric (*balagha*).
 
 ## Method of Summarization
 
@@ -37,11 +37,11 @@ The book's extreme brevity created a constant need for explanatory commentaries.
 
 ## The Author and the Context of Composition
 
-Al-Khatib al-Qazwini, Jalal al-Din Muhammad ibn Abd al-Rahman (666–739 AH), held the office of chief judge in Damascus and then in Egypt during the Mamluk period, and became known by the title "al-Khatib" for his position as preacher at the Umayyad Mosque in Damascus. Alongside *Talkhis al-Miftah*, he composed a broader work, *al-Idah fi Ulum al-Balagha* (The Clarification of the Sciences of Rhetoric), which explained and expanded his own summary, thus providing students with two complete versions: an abridged one for memorization and initial instruction, and an expanded one for advanced study.
+Al-Khatib al-Qazwini, Jalal al-Din Muhammad ibn Abd al-Rahman (666–739 AH / 1268–1338), was preacher (*khatib*) at the Umayyad Mosque in Damascus, the source of his title, and later chief judge in Damascus and then in Egypt under the Mamluks. Beside the *Talkhis* he wrote *al-Idah fi Ulum al-Balagha* (The Clarification of the Sciences of Rhetoric), which explains and expands the summary: a short text for memorization and a longer one for further study.
 
 ## The Tripartite Scientific Structure
 
-The book's content is distributed across three rhetorical sciences. Al-Sakkaki's *Miftah al-Ulum* systematized *ma'ani* and *bayan* (with *badi'* treated more briefly as an appendix), and al-Qazwini gave the three-part division its standard form: the science of *ma'ani* (the conformity of speech to the requirements of the situation, including the topics of concision, elaboration, restriction, and the separation and connection of clauses), the science of *bayan* (the ways of expressing a single meaning in multiple forms, such as simile, metaphor, and metonymy), and the science of *badi'* (the verbal and semantic embellishments that enhance speech, such as paronomasia and antithesis). This tripartite division, which al-Qazwini practically established in his concise and widely circulated book, became the standard framework for teaching Arabic rhetoric.
+The book's content is distributed across three rhetorical sciences. Al-Sakkaki's *Miftah al-Ulum* systematized *ma'ani* and *bayan* (with *badi'* treated more briefly as an appendix), and al-Qazwini gave the three-part division its standard form: the science of *ma'ani* (the conformity of speech to the requirements of the situation, including the topics of concision, elaboration, restriction, and the separation and connection of clauses), the science of *bayan* (the ways of expressing a single meaning in multiple forms, such as simile, metaphor, and metonymy), and the science of *badi'* (the verbal and semantic embellishments that enhance speech, such as paronomasia and antithesis). Through this short, widely copied book, that three-part division became the usual framework of later Arabic rhetorical teaching.
 
 ## Its Relation to the Work of Abd al-Qahir al-Jurjani
 
@@ -53,7 +53,7 @@ The book and its commentaries long served as the standard rhetoric text in tradi
 
 ## Continued Circulation in Contemporary Arab Education
 
-*Talkhis al-Miftah* and its commentaries (especially al-Taftazani's *al-Mutawwal* and *al-Mukhtasar*) have long been studied in traditional institutions such as al-Azhar, and in some modern faculties of Sharia and Arabic language, as the traditional gateway to the study of the sciences of *ma'ani*, *bayan*, and *badi'* before moving on to the direct study of applied rhetorical texts (such as the rhetorical inimitability of the Quran). This makes it one of the longest-lived Arabic instructional texts.
+*Talkhis al-Miftah* and its commentaries (especially al-Taftazani's *al-Mutawwal* and *al-Mukhtasar*) have long been studied in traditional institutions such as al-Azhar, and in some modern faculties of Sharia and Arabic language, as the traditional gateway to the study of the sciences of *ma'ani*, *bayan*, and *badi'* before moving on to the direct study of applied rhetorical texts (such as the rhetorical inimitability of the Quran). The text has therefore remained in use for centuries in that curriculum.
 
 ## Al-Qazwini as a Judge and His Relation to the Mamluk Context
 

@@ -25,7 +25,7 @@ gaps: []
 
 ## Definition
 
-Family systems therapy is a group of approaches holding that an individual's psychological problem arises and persists within the system of family relationships, and that change is achieved by modifying patterns of interaction rather than by treating the "patient" alone. In psychiatry it is defined as therapy for the family as a unit, based on the general systems theory formulated by Ludwig von Bertalanffy (*General System Theory*, Braziller, 1968).
+Family systems therapy is a group of approaches holding that an individual's psychological problem arises and persists within the system of family relationships, and that change is achieved by modifying patterns of interaction rather than by treating the "patient" alone. In psychiatry it treats the family as a unit of intervention. Practitioners later drew explicitly on general systems theory, as set out by Ludwig von Bertalanffy (*General System Theory*, Braziller, 1968).
 
 ## Origins
 
@@ -33,11 +33,11 @@ The movement emerged in the United States in the 1950s from research on families
 
 ## Clinical Evidence
 
-Leff and Vaughn, in *Expressed Emotion in Families* (Guilford, 1985), demonstrated that high "expressed emotion" among relatives (criticism, hostility, and over-involvement) predicts relapse in schizophrenia. This is the basis for psychoeducational interventions for families that reduce relapse. Carr reviewed the evidence base for family therapy in child-focused problems in the *Journal of Family Therapy* in 2014, showing its effectiveness in conduct problems, addiction, and eating disorders, especially anorexia nervosa in adolescents (the Maudsley model).
+Leff and Vaughn, in *Expressed Emotion in Families* (Guilford, 1985), synthesized evidence that high "expressed emotion" among relatives (criticism, hostility, and emotional over-involvement) predicts relapse in schizophrenia. This is the basis for psychoeducational interventions for families that reduce relapse. Carr reviewed the evidence base for family therapy in child-focused problems in the *Journal of Family Therapy* in 2014, showing its effectiveness in conduct problems, addiction, and eating disorders, especially anorexia nervosa in adolescents (the Maudsley model).
 
 ## The Arab Family
 
-Sociological accounts such as Hisham Sharabi's *Neopatriarchy* (Oxford University Press, 1988) and Halim Barakat's *The Arab World* (University of California Press, 1993) describe the importance of the patriarchal extended family in Arab societies, which suggests that family therapy may need adapting. Authority may rest with the father or grandfather, and differentiation from the family may be read as disobedience, though families vary widely. Marwan Dwairy, in *Counseling and Psychotherapy with Arabs and Muslims* (Teachers College Press, 2006), presents a culturally sensitive approach to family therapy that balances collectivism and individualism, including involvement of elders where appropriate. Islamic thought gives the family a central place, so the "family" may be a resource for healing more than a problem (see the entries on family structure and the family projection process).
+Sociological accounts such as Hisham Sharabi's *Neopatriarchy* (Oxford University Press, 1988) and Halim Barakat's *The Arab World* (University of California Press, 1993) describe the importance of the patriarchal extended family in Arab societies, which suggests that family therapy may need adapting. Authority may rest with the father or grandfather, and differentiation from the family may be read as disobedience, though families vary widely. Marwan Dwairy, in *Counseling and Psychotherapy with Arabs and Muslims* (Teachers College Press, 2006), presents a culturally sensitive approach to family therapy that balances collectivism and individualism, including involvement of elders where appropriate. In many Arab settings the extended family is also the main source of care, so clinicians cannot assume that greater separation from the family is the therapeutic goal (see the entries on family structure and the family projection process).
 
 ## Criticism
 
@@ -54,3 +54,7 @@ The approach has been criticized for blaming families in conditions with a clear
 - Leff, J., & Vaughn, C. (1985). Expressed Emotion in Families. New York: Guilford Press.
 - Dwairy, M. (2006). Counseling and Psychotherapy with Arabs and Muslims: A Culturally Sensitive Approach. New York: Teachers College Press.
 - Carr, A. (2014). The evidence base for family therapy and systemic interventions for child-focused problems. Journal of Family Therapy, 36(2), 107–157.
+- von Bertalanffy, L. (1968). *General System Theory: Foundations, Development, Applications*. New York: George Braziller.
+- Selvini Palazzoli, M., Boscolo, L., Cecchin, G., & Prata, G. (1978). *Paradox and Counterparadox*. New York: Jason Aronson.
+- Sharabi, H. (1988). *Neopatriarchy: A Theory of Distorted Change in Arab Society*. New York: Oxford University Press.
+- Barakat, H. (1993). *The Arab World: Society, Culture, and State*. Berkeley: University of California Press.

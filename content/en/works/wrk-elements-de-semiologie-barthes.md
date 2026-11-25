@@ -48,7 +48,7 @@ This work came between *Mythologies* (1957, early journalistic analyses of Frenc
 
 ## Impact
 
-This work is one of the most important foundational texts in turning semiology from a theoretical expectation in Saussure into an actually organized analytical method, and it paved the way for Barthes's later applications in *Mythologies*, *The Fashion System*, and *S/Z*.
+The essay is a principal early statement of structuralist semiology as a working method, taking up the general science of signs that Saussure had only sketched. It looks back to the cultural analyses of *Mythologies* (1957) and forward to *The Fashion System* (1967) and, later, *S/Z* (1970).
 
 ## Reception in Linguistics Versus Literary Criticism
 
@@ -68,5 +68,5 @@ The work is still widely used as an introductory text in semiotics and cultural 
 
 ## Sources
 
-- Barthes, Roland (1964). "Éléments de sémiologie." *Communications* 4(1).
+- Barthes, Roland (1964). "Éléments de sémiologie." *Communications* 4.
 - Barthes, Roland (1967, English trans. Annette Lavers and Colin Smith). *Elements of Semiology*. Jonathan Cape.

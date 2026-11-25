@@ -24,7 +24,7 @@ gaps: []
 ---
 # Joseph Schumpeter
 
-**Joseph Schumpeter** was an Austrian-American economist and one of the most original political economists of the twentieth century. He offered an alternative vision of the nature of capitalism that highlights innovation and entrepreneurship as the central engine of economic change, in contrast to the prevailing emphasis at the time on static equilibrium or the management of aggregate demand.
+**Joseph Schumpeter** was an Austrian-American economist who treated innovation and entrepreneurship as the source of capitalist change, against accounts centred on static equilibrium or on the management of aggregate demand.
 
 ## From the Austrian Ministry of Finance to Harvard
 
@@ -56,7 +56,7 @@ Schumpeter was known for a flamboyant personality. He lived in the long shadow o
 
 ## A Long-Term Historical View of Capitalism
 
-Schumpeter also distinguished himself by insisting on analysing capitalism over a long historical horizon spanning decades and centuries, rather than through a short-term macroeconomic analysis focused on the fluctuations of a year or two, as Keynesian economics did. This led him to consider questions about the fate of the capitalist system as a whole as a civilisation, not merely the management of its short-term economic cycle. This is a relatively rare perspective among twentieth-century economists, most of whom focused on short-term analytical tools.
+Schumpeter also distinguished himself by insisting on analysing capitalism over a long historical horizon spanning decades and centuries, rather than through a short-term macroeconomic analysis focused on the fluctuations of a year or two, as Keynesian economics did. This led him to consider questions about the fate of the capitalist system as a whole as a civilisation, not merely the management of its short-term economic cycle. Few of his contemporaries organised their main work on that long historical scale.
 
 ## Sources
 

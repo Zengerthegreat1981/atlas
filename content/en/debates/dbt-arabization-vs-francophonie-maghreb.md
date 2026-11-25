@@ -26,7 +26,7 @@ After its independence in 1962, Algeria adopted a comprehensive and relatively d
 
 ## The Case for Full Arabization
 
-Proponents of this position argue that the continued dominance of French in vital sectors (scientific higher education, the economy and the administrative elite) preserves an inherited linguistic class structure from the colonial era. The best economic and social opportunities go to those who already master French (often the children of wealthy or urban families), while Arabic-only speakers are denied equal opportunities. This is sometimes described in postcolonial literature as a form of "linguistic colonialism" that persists after the direct political colonialism has ended.
+Proponents of this position argue that the continued dominance of French in vital sectors (scientific higher education, the economy and the administrative elite) preserves an inherited linguistic class structure from the colonial era. The best economic and social opportunities go to those who already master French (often the children of wealthy or urban families), while Arabic-only speakers are denied equal opportunities. Some postcolonial writing treats this pattern as a continuation of colonial linguistic hierarchy after direct political rule has ended.
 
 ## The Case for Keeping French
 
@@ -42,7 +42,7 @@ The debate has not been resolved in any of the three countries. Arabization has 
 
 ## Differences Among the Three States
 
-The intensity and impact of Arabization policy varied among the three Maghreb states. Algeria, which underwent longer and deeper direct French colonial rule (from 1830, and legally treated as part of France itself rather than as a protectorate), adopted a more decisive Arabization after independence, later given legislative form in the 1991 Arabization law. This was sometimes accompanied by sharp social tensions between a generation educated in French and a later generation whose education was fully Arabized. Tunisia (a French protectorate from 1881) and Morocco (from 1912), which were under the protectorate system rather than direct annexation, chose a gradual path that left a wider space for French in higher education and the economy.
+The intensity and impact of Arabization policy varied among the three Maghreb states. Algeria, which underwent longer and deeper direct French colonial rule from 1830, and whose northern territories were organized as French departments rather than as a protectorate, adopted a more far-reaching Arabization after independence, later given legislative form in the 1991 law on the generalization of the use of Arabic. This was sometimes accompanied by sharp social tensions between a generation educated in French and a later generation whose education was fully Arabized. Tunisia (a French protectorate from 1881) and Morocco (from 1912), which were under the protectorate system rather than direct annexation, chose a gradual path that left a wider space for French in higher education and the economy.
 
 ## Social and Class Consequences
 

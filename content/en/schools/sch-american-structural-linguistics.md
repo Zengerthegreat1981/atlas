@@ -24,11 +24,11 @@ gaps: []
 
 # American Structural Linguistics
 
-A linguistic current that dominated American universities from the 1920s to the 1950s, shaped by Edward Sapir and Leonard Bloomfield and developed by Zellig Harris toward greater formal rigor. It differs from the European Prague Circle in adopting a strict **behaviorist** method that rejects appeal to mental concepts not directly observable.
+A linguistic current that was dominant in many American university departments from the 1920s to the 1950s, shaped by Franz Boas, Edward Sapir and Leonard Bloomfield and developed by Zellig Harris toward greater formal rigor. The Bloomfieldian line, unlike Sapir's more mentalist descriptivism and unlike much of the Prague Circle, adopted a **behaviorist** orientation that avoided appeal to mental concepts not directly observable.
 
 ## Historical Context: Field Description of Native American Languages
 
-American structural linguistics arose from a practical context fundamentally different from its European counterpart: the urgent need to document the languages of the Indigenous peoples of North America, which were disappearing quickly and had no written or grammatical tradition to draw on (unlike Latin, Greek and their European relatives). This situation led Franz Boas (linguist and anthropologist) and then his student Edward Sapir to develop field descriptive methods fully independent of the traditional Latin grammatical templates. In doing so they established a central principle that still guides descriptive linguistics: every language must be described according to its own internal structure, not by imposing ready-made grammatical categories from another language onto it (the equality of all languages as objects of description is a founding principle).
+American structural linguistics arose from a practical context fundamentally different from its European counterpart: the urgent need to document the languages of the Indigenous peoples of North America, which were disappearing quickly and had no written or grammatical tradition to draw on (unlike Latin, Greek and their European relatives). This situation led Franz Boas (linguist and anthropologist) and then his student Edward Sapir to develop field descriptive methods fully independent of the traditional Latin grammatical templates. In doing so they stated a principle that still guides descriptive linguistics: every language is to be described according to its own internal structure, not by imposing ready-made grammatical categories from another language onto it.
 
 ## Bloomfield and the Behaviorist Foundation
 
@@ -36,15 +36,15 @@ In his landmark book *Language* (1933), Leonard Bloomfield gave the most systema
 
 ## Method: Distributional Analysis
 
-It describes the structure of a language on the basis of the **distribution** of its elements — where a linguistic element can appear in context and where it cannot — through strict discovery procedures (such as the substitution and segmentation tests) that proceed bottom-up from sound to morphology to syntax, without prior assumptions about meaning. Zellig Harris developed this method to the highest degree of formal rigor in *Methods in Structural Linguistics* (1951), while Charles Hockett contributed influential methodological classifications, notably the Item-and-Arrangement and Item-and-Process models of grammatical description (1954), alongside the Word-and-Paradigm model, and later the "design features" of human language.
+It describes the structure of a language on the basis of the **distribution** of its elements — where a linguistic element can appear in context and where it cannot — through strict discovery procedures (such as the substitution and segmentation tests) that proceed bottom-up from sound to morphology to syntax, without prior assumptions about meaning. Zellig Harris set out the method at length in *Methods in Structural Linguistics* (1951). Charles Hockett's "Two Models of Grammatical Description" (1954) contrasted Item-and-Arrangement and Item-and-Process models and set them beside the older Word-and-Paradigm model. He later proposed a list of "design features" of human language (1960).
 
 ## Emic and Etic: A Shared Methodological Tool
 
-Among the most important methodological tools developed by this current (especially by Kenneth Pike) is the distinction between the "emic" level, namely the structure that speakers themselves functionally distinguish within their language's system, and the "etic" level, namely the general raw physical description that is comparable across all languages before one determines which differences are functional within a particular language. The distinction later passed into anthropology and the social sciences more broadly.
+A methodological distinction developed in this current, especially by Kenneth Pike, is that between the "emic" level, namely the structure that speakers themselves functionally distinguish within their language's system, and the "etic" level, namely the general raw physical description that is comparable across all languages before one determines which differences are functional within a particular language. The distinction later passed into anthropology and the social sciences more broadly.
 
 ## The Break With It
 
-This method became the methodological opponent from which Noam Chomsky (Zellig Harris's own student) launched his critique in 1957. His argument was that purely distributional procedures do not explain the speaker's capacity to produce and understand sentences never heard before (linguistic creativity), and cannot be acquired from limited linguistic input without an innate mental structure. This critique launched the revolution of generative grammar and ended the dominance of American structuralism in the universities, although many of its descriptive tools (such as Bloomfield's immediate constituent analysis) remained part of linguistics' core conceptual apparatus to this day.
+Noam Chomsky, who had studied with Zellig Harris, made this method a principal target from *Syntactic Structures* (1957) onward. That book argued that a grammar should explicitly generate the sentences of a language, including sentences never heard before, and that bottom-up discovery procedures were not an adequate theory of grammar. The stronger claim that acquisition from limited input requires an innate grammatical endowment was developed more fully in his 1959 review of Skinner and in later work. Over the 1960s, generative grammar displaced American structuralism in many departments. Descriptive tools from the earlier school, including immediate-constituent analysis, remained in use.
 
 ## Field Linguistics and the Documentation of Endangered Languages
 
@@ -62,6 +62,8 @@ Despite the decline of its institutional dominance after 1957, the school left a
 
 - Bloomfield, Leonard (1933). *Language*. Henry Holt and Company.
 - Harris, Zellig S. (1951). *Methods in Structural Linguistics*. University of Chicago Press.
+- Hockett, Charles F. (1954). "Two Models of Grammatical Description." *Word* 10.
 - Hockett, Charles F. (1958). *A Course in Modern Linguistics*. Macmillan.
+- Hockett, Charles F. (1960). "The Origin of Speech." *Scientific American* 203(3).
 - Joos, Martin (ed., 1957). *Readings in Linguistics I*. University of Chicago Press.
 - Sapir, Edward (1921). *Language: An Introduction to the Study of Speech*. Harcourt, Brace and Company.

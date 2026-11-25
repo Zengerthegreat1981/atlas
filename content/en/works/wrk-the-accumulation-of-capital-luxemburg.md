@@ -26,7 +26,7 @@ gaps: []
 ---
 # The Accumulation of Capital
 
-**Rosa Luxemburg** published her book *The Accumulation of Capital: A Contribution to the Economic Explanation of Imperialism* in 1913. It is her longest and most theoretically ambitious economic work. In it she sought to fill what she saw as an unresolved gap in Karl Marx's analysis of capital accumulation in Volume II of *Capital*.
+**Rosa Luxemburg** published *Die Akkumulation des Kapitals: Ein Beitrag zur ökonomischen Erklärung des Imperialismus* in 1913. The usual English title is *The Accumulation of Capital*. It is her main work of economic theory. She argued that Volume II of Marx's *Capital* left an unresolved problem in the analysis of accumulation.
 
 ## The problem that drove the book: how is surplus value actually realized?
 

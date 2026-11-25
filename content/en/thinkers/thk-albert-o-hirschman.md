@@ -27,7 +27,7 @@ gaps: []
 
 ## From Escaping the Nazis to American Academia
 
-Hirschman left Germany in 1933 as a teenager after the Nazis came to power. He studied in Paris, at the London School of Economics, and in Trieste, Italy (doctorate, 1938), and fought on the Republican side in the Spanish Civil War. In 1940-41 he helped Varian Fry's Emergency Rescue Committee in Marseille get refugees out of Vichy France. He then settled in the United States, served in the US Army, worked on post-war European reconstruction at the Federal Reserve Board, and in the 1950s worked in Colombia as a financial adviser to the government and then as a private consultant. This direct field experience formed the basis of his foundational book in development economics.
+Hirschman left Germany in 1933 as a teenager after the Nazis came to power. He studied in Paris, at the London School of Economics, and in Trieste, Italy (doctorate, 1938), and fought on the Republican side in the Spanish Civil War. In 1940-41 he helped Varian Fry's Emergency Rescue Committee in Marseille get refugees out of Vichy France. He then settled in the United States, served in the US Army, worked on post-war European reconstruction at the Federal Reserve Board, and in the 1950s worked in Colombia as a financial adviser to the government and then as a private consultant. This field experience shaped *The Strategy of Economic Development* (1958).
 
 ## Unbalanced Growth: An Alternative to the Idea of Comprehensive Balance
 
@@ -51,7 +51,7 @@ Today Hirschman is a reference point that extends beyond development economics i
 
 ## Intellectual Relations with His Generation of Development Pioneers
 
-Hirschman's work intersected with that of his fellow founders of development economics, though he differed from them methodologically. Gunnar Myrdal proposed a general framework of circular cumulative causation that perpetuates underdevelopment, and W. Arthur Lewis proposed a relatively simple mathematical model of labour transfer between the two sectors. Hirschman remained closer to a contextual approach that warns against imposing a single general model on highly diverse development realities. This was an explicit methodological disagreement within the founding generation of the field itself, over how far development theory can be generalised.
+Hirschman's work intersected with that of other early development economists, though he differed from them methodologically. Gunnar Myrdal proposed a general framework of circular cumulative causation that perpetuates underdevelopment, and W. Arthur Lewis proposed a relatively simple mathematical model of labour transfer between the two sectors. Hirschman remained closer to a contextual approach that warns against imposing a single general model on highly diverse development realities. This was an explicit methodological disagreement within the founding generation of the field itself, over how far development theory can be generalised.
 
 ## Late Years and Self-Criticism
 

@@ -35,11 +35,11 @@ Glossematics represented a very high degree of formal abstraction in structural 
 
 ## A Cross-Linguistic Illustration
 
-Hjelmslev illustrates how content is formed by comparing how different languages divide the same continuous color spectrum (the unformed purport or matter) into color categories that differ in number and boundaries (the form of content specific to each language); he draws on Welsh color terms for this purpose. Some languages distinguish blue and green with two separate words, while others unite them under a single word. This shows that the form of content is a conventional structure that each language imposes in its own way on a single shared continuum.
+In *Prolegomena to a Theory of Language* Hjelmslev illustrates form of content with zones of purport that languages divide differently. A standard comparison is the area covered, in different partitions, by German *Baum*, *Holz*, and *Wald* and by French *arbre*, *bois*, and *forêt*: the languages do not match word for word, because each imposes its own network of content-form on a comparable zone of purport. The same point applies to other continua, including color vocabulary. The form is the network of relations; the substance is whatever manifests it in a given use.
 
 ## Influence on French Semiotics
 
-Greimas, Roland Barthes, and other pioneers of French structural semiotics adopted Hjelmslev's terminological apparatus (form/substance, expression/content) as a basis for analyzing literary and cultural texts that extend beyond natural language alone. They treated it as a neutral formal framework suitable for describing any signifying system, from myth, to the narrative of the novel, to diet as a cultural code.
+Roland Barthes, in *Éléments de sémiologie* (1964), and A. J. Greimas took over the expression/content and form/substance distinctions for semiotic analysis beyond the sentence. Barthes used the apparatus for cultural codes, including food and clothing. Greimas and Courtés's *Sémiotique* (1979) lists the terms as part of a narrative and discursive metalanguage. The extension is an application of Hjelmslev's vocabulary, not a result proved inside glossematics.
 
 ## His Relationship to Saussure's Original Dichotomy
 
@@ -48,5 +48,6 @@ Hjelmslev replaced the Saussurean terms signifier/signified with expression/cont
 ## Sources
 
 - Hjelmslev, Louis (1943/1961). *Prolegomena to a Theory of Language* (trans. Francis J. Whitfield). University of Wisconsin Press.
+- Barthes, Roland (1964). "Éléments de sémiologie." *Communications*, 4, 91-135.
 - Siertsema, Bertha (1955). *A Study of Glossematics*. Martinus Nijhoff.
 - Greimas, Algirdas J.; Courtés, Joseph (1979). *Sémiotique: Dictionnaire raisonné de la théorie du langage*. Hachette.

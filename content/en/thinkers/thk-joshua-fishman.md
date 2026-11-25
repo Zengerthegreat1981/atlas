@@ -25,7 +25,7 @@ gaps: []
 
 # Joshua Fishman
 
-An American sociolinguist who established the field of "sociology of language" as an independent discipline, expanded Ferguson's concept of diglossia, and developed an influential theory for reversing the decline of languages.
+An American sociolinguist who did much to define the "sociology of language" as a field of its own, extended Charles Ferguson's concept of diglossia, and proposed a scale for describing and responding to language shift.
 
 ## Expanding Diglossia: Language Domains
 
@@ -37,7 +37,7 @@ In his landmark work *Reversing Language Shift* (1991), Fishman developed the "G
 
 ## Sociology of Language as an Independent Field
 
-Fishman argued that studying language in its social context deserves a distinct intellectual field of its own, not merely a subfield of linguistics or sociology, focusing on questions such as: who speaks which language, with whom, when, and for what purpose? He formulated this question in his influential article on bilingualism and diglossia (1967), showing that these two concepts (individual bilingualism and societal diglossia) are analytically independent: a community may be bilingual without organized functional diglossia (a chaotic distribution), or may have organized functional diglossia without wide individual bilingualism (a limited elite that masters only the high variety).
+Fishman argued that the social distribution of language deserved study as its own field, not only as a subfield of linguistics or of sociology. In "Who Speaks What Language to Whom and When?" (1965) he organized bilingual language choice by domains such as home, school, work and religion. In a separate 1967 article he treated individual bilingualism and societal diglossia as analytically independent: a community may be bilingual without a stable functional split, or it may keep a high and a low variety while only a limited group controls the high variety.
 
 ## His Role in Jewish and Global Language Policy
 
@@ -45,7 +45,7 @@ Fishman devoted a large part of his work to studying the revival of Modern Hebre
 
 ## Impact
 
-Fishman founded the *International Journal of the Sociology of Language* (from 1974), and his work has been widely drawn on in discussions of reviving endangered languages, linking theoretical linguistic analysis with direct applied intervention.
+Fishman founded and edited the *International Journal of the Sociology of Language* (from 1974). His scale and domain model have been widely used in discussions of language shift and revitalization.
 
 ## Criticism of GIDS and Its Development
 
@@ -53,17 +53,20 @@ Fishman's Graded Intergenerational Disruption Scale was criticized by later rese
 
 ## Fishman as a Bridge Between Theory and Public Policy
 
-Fishman was distinguished by his rare ability to combine academic theoretical rigor with direct engagement in the formulation of actual public policies: his concepts (such as domains and the graded scale) have been widely used in designing and evaluating language revitalization efforts.
+His concepts of domains and of graded disruption have been used in designing and evaluating language-revitalization efforts, so that the same vocabulary appears in academic description and in applied policy.
 
-## Prolific Scholarship
+## Scholarship
 
-Over his long career, Fishman published dozens of books and hundreds of scholarly articles, and edited a series of encyclopedic reference volumes (such as the *Handbook of Language and Ethnic Identity*), making him among the most prolific sociolinguists of the twentieth century.
+He published many books and articles and edited reference collections, including the *Handbook of Language and Ethnic Identity* (1999). Yiddish and Hebrew remained recurrent case studies inside that larger comparative project.
 
 ## Personal Linguistic Background
 
-Fishman was born in Philadelphia into a Jewish family with Yiddish-speaking roots. This personal linguistic background shaped his early interest in the fate of threatened minority languages within larger immigrant communities, and was reflected in his choice to devote much of his early research to studying the status of Yiddish and Hebrew in American Jewish communities specifically, before expanding his theoretical frameworks to include other language situations around the world with which he had no direct personal connection.
+Fishman was born in Philadelphia into a Jewish family with Yiddish-speaking roots. This personal linguistic background shaped his early interest in the fate of threatened minority languages within larger immigrant communities, and was reflected in his choice to devote much of his early research to studying the status of Yiddish and Hebrew in American Jewish communities specifically, before expanding his theoretical frameworks to include other language situations around the world.
 
 ## Sources
 
-- Fishman, Joshua A. (1967). "Bilingualism With and Without Diglossia; Diglossia With and Without Bilingualism." *Journal of Social Issues* 23(2).
-- Fishman, Joshua A. (1991). *Reversing Language Shift*. Multilingual Matters.
+- Fishman, Joshua A. (1965). "Who Speaks What Language to Whom and When?" *La Linguistique* 1(2): 67–88.
+- Fishman, Joshua A. (1967). "Bilingualism With and Without Diglossia; Diglossia With and Without Bilingualism." *Journal of Social Issues* 23(2): 29–38.
+- Fishman, Joshua A. (1991). *Reversing Language Shift: Theoretical and Empirical Foundations of Assistance to Threatened Languages*. Clevedon: Multilingual Matters.
+- Fishman, Joshua A. (ed.) (1999). *Handbook of Language and Ethnic Identity*. New York: Oxford University Press.
+- Lewis, M. Paul; Simons, Gary F. (2010). "Assessing Endangerment: Expanding Fishman's GIDS." *Revue Roumaine de Linguistique* 55(2): 103–120.

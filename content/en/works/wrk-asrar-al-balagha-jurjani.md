@@ -20,7 +20,7 @@ gaps: []
 
 # Asrar al-Balagha (The Secrets of Eloquence)
 
-The second foundational work of Abd al-Qahir al-Jurjani, complementing his *Dala'il al-I'jaz*. Whereas the latter is concerned mainly with the theory of grammatical composition (*nazm*, later the science of meanings), *Asrar al-Balagha* elaborates the forms of figurative expression (simile, metaphor and metonymy). This is the material that later became the core of the "science of figurative expression" (*ʿilm al-bayan*) in al-Sakkaki's work.
+A major work of Abd al-Qahir al-Jurjani, read together with his *Dala'il al-I'jaz*. The relative order of the two books is not securely known. *Dala'il al-I'jaz* is concerned mainly with grammatical composition (*naẓm*, later absorbed into the science of meanings), while *Asrar al-Balagha* elaborates figurative expression (simile, metaphor and metonymy). That material later became a core of the "science of figurative expression" (*ʿilm al-bayān*) as organized by al-Sakkaki.
 
 ## Context of Composition and al-Jurjani's Life
 
@@ -55,4 +55,4 @@ Together with *Dala'il al-I'jaz*, this book formed the theoretical basis on whic
 - al-Jurjani, Abd al-Qahir (5th century AH). *Asrar al-Balagha*. Edited by Hellmut Ritter, Istanbul, 1954; also edited by Mahmud Muhammad Shakir (Cairo/Jeddah).
 - Ritter, Hellmut (1959). *Die Geheimnisse der Wortkunst* (German translation of *Asrar al-Balagha*). Wiesbaden: Steiner.
 - Abu Deeb, Kamal (1979). *Al-Jurjani's Theory of Poetic Imagery*. Aris & Phillips.
-- Daif, Shawqi. *Rhetoric: Development and History*. 1965.
+- Dayf, Shawqi (1965). *Al-Balagha: tatawwur wa-tarikh*. Cairo: Dar al-Ma'arif.

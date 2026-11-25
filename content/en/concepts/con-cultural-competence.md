@@ -31,7 +31,7 @@ Cultural competence in psychiatry is the ability of the physician and the instit
 
 ## An Ethical Origin in the Arab Medical Heritage
 
-Medieval Arab medicine cared about the ethics of dealing with the patient. The most famous text on this is *Adab al-Tabib* (The Physician's Ethics) by Ishaq ibn Ali al-Ruhawi (ninth century), which Myron Levey translated and studied in *Transactions of the American Philosophical Society* in 1967. These works emphasize the physician's patience with the patient and attention to his condition, status, and creed. In the tenth century, Abu Bakr al-Razi wrote *Man la yahduruhu al-tabib* for travelers, the poor, and those who had no physician at hand, that is, a treatment suited to people's circumstances and the resources available to them. These are not "cultural competence" in the modern sense, but they show that sensitivity to the patient's context is an old professional value.
+Medieval Arab medicine cared about the ethics of dealing with the patient. A well-known text on this is *Adab al-Tabib* (The Physician's Ethics) by Ishaq ibn Ali al-Ruhawi (ninth century), which Myron Levey translated and studied in *Transactions of the American Philosophical Society* in 1967. These works emphasize the physician's patience with the patient and attention to his condition, status, and creed. In the tenth century, Abu Bakr al-Razi wrote *Man la yahduruhu al-tabib* for travelers, the poor, and those who had no physician at hand, that is, a treatment suited to people's circumstances and the resources available to them. These are not "cultural competence" in the modern sense, but they show that sensitivity to the patient's context is an old professional value.
 
 ## Modern Formulation
 
@@ -53,6 +53,7 @@ Short training courses do not guarantee a change in practice, and there is no st
 
 - Levey, M. (1967). Medical ethics of medieval Islam with special reference to al-Ruhawi's Practical Ethics of the Physician. Transactions of the American Philosophical Society, 57(3).
 - Kleinman, A., Eisenberg, L., & Good, B. (1978). Culture, illness, and care: clinical lessons from anthropologic and cross-cultural research. Annals of Internal Medicine, 88(2), 251–258.
+- Cross, T. L., Bazron, B. J., Dennis, K. W., & Isaacs, M. R. (1989). Towards a Culturally Competent System of Care. Washington, DC: Georgetown University Child Development Center.
 - Sue, D. W. (1998). In search of cultural competence in psychotherapy and counseling. American Psychologist, 53(4), 440–448.
 - Tervalon, M., & Murray-García, J. (1998). Cultural humility versus cultural competence. Journal of Health Care for the Poor and Underserved, 9(2), 117–125.
 - Kirmayer, L. J. (2012). Rethinking cultural competence. Transcultural Psychiatry, 49(2), 149–164.

@@ -27,7 +27,7 @@ gaps: []
 ---
 # The General Theory of Employment, Interest and Money
 
-**John Maynard Keynes** published *The General Theory of Employment, Interest and Money* in 1936. It is regarded as a watershed in the history of modern economics: it established macroeconomics in its contemporary sense, and overturned central assumptions of the classical economics that had governed economic thinking for more than a century.
+**John Maynard Keynes** published *The General Theory of Employment, Interest and Money* with Macmillan in London in February 1936 (a Harcourt, Brace edition followed in the United States). It is widely treated as a founding text of modern macroeconomics and as a sustained challenge to the classical assumption that market economies tend, of themselves, toward full employment.
 
 ## Context of composition: the Great Depression and the failure of existing remedies
 
@@ -55,11 +55,11 @@ The book became known for the difficulty of its style and the obscurity of some 
 
 ## Enduring impact on the entire field
 
-Historians of economic thought widely regard this book as one of the most influential books in the history of the social sciences in the twentieth century. It established an entire subfield (macroeconomics), and directly influenced the design of the institutions of the post-war international economic system (Bretton Woods), in whose formulation Keynes himself took part. This legacy later faced serious theoretical challenges from monetarism and the new classical school, especially from the 1970s.
+Historians of economic thought treat the book as one of the most influential works in twentieth-century economics. It gave macroeconomics a distinctive agenda: the determination of aggregate output and employment. Keynes led the British delegation at the Bretton Woods conference of 1944; the IMF and World Bank that emerged were a compromise between his proposals and the American plan associated with Harry Dexter White, so the institutions are not a straightforward application of the *General Theory*. The Keynesian consensus in policy later faced serious challenges from monetarism and the new classical school, especially from the 1970s.
 
 ## Divided reception on publication
 
-On publication the book received a divided academic reception. Some young economists at Cambridge welcomed it with immediate enthusiasm as a genuine revolution, while established economists, including some of Keynes's older contemporaries, expressed scepticism about how new or correct his propositions were. This early reception dispute reflects the scale of the methodological break the book represented relative to the expectations of the field at the time.
+On publication the book received a divided academic reception. Younger economists associated with Cambridge, including Richard Kahn and Joan Robinson, took it up quickly, while several established economists doubted how new or how secure its propositions were. A. C. Pigou, whose *Theory of Unemployment* (1933) Keynes had criticised, later engaged the argument at length. Early reviews already disagreed about whether the break with "classical" theory was as sharp as the preface claimed.
 
 ## New terms that entered economic language
 

@@ -43,9 +43,9 @@ The 2014 study is correlational at the level of areas, so it does not by itself 
 
 ## Impact on policy and subsequent research
 
-The study laid the foundation for the long-term Opportunity Insights research project, which has continued to develop detailed maps of social mobility and to track local policy experiments, such as subsidized housing programmes that help families move to neighbourhoods with better opportunities. The aim is to test the direct causal effect of changing the local environment on children's future. These detailed maps have provided an important reference tool for local and national policymakers in designing geographically targeted interventions to improve opportunities for upward social mobility.
+The 2014 paper was the centrepiece of what was then called the Equality of Opportunity Project. That project was later renamed Opportunity Insights. Subsequent work has kept producing local mobility statistics and has studied housing programmes that move families, including a reanalysis of Moving to Opportunity. The 2014 maps are descriptive. They are widely used in policy discussion. They do not by themselves show which local policy would raise mobility.
 
 ## Sources
 
 - Chetty, Raj, Nathaniel Hendren, Patrick Kline, and Emmanuel Saez. "Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States." *The Quarterly Journal of Economics*, vol. 129, no. 4, 2014, pp. 1553–1623.
-- Chetty, Raj, and Nathaniel Hendren. "The Impacts of Neighborhoods on Intergenerational Mobility." *The Quarterly Journal of Economics*, vol. 133, no. 3, 2018, pp. 1107–1162.
+- Chetty, Raj, and Nathaniel Hendren. "The Impacts of Neighborhoods on Intergenerational Mobility I: Childhood Exposure Effects." *The Quarterly Journal of Economics*, vol. 133, no. 3, 2018, pp. 1107–1162.

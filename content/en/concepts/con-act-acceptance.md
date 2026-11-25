@@ -42,7 +42,7 @@ Hayes and colleagues published in *Behaviour Research and Therapy* in 2006 a rev
 
 ## Relation to the Arab-Islamic Heritage
 
-The theory does not historically derive from the Islamic heritage, and Hayes was not influenced by it, but the comparison can enrich understanding if it is treated as an analytical comparison rather than an intellectual lineage. Contentment with divine decree (*al-ridha bi-al-qada'*) and patience in the face of affliction, both present in the moral literature of al-Ghazali in *Ihya' 'ulum al-din*, resemble "acceptance" in that both require steadfastness in the face of pain without denying it. However, they rest on a teleological metaphysics, whereas acceptance in ACT is presented as a neutral behavioral tool with respect to belief. In this context one may consider the concept of tawakkul in psychology (see the entry on tawakkul), with the same caution.
+The theory does not historically derive from the Islamic heritage, but the comparison can enrich understanding if it is treated as an analytical comparison rather than an intellectual lineage. Contentment with divine decree (*al-ridha bi-al-qada'*) and patience in the face of affliction, both present in the moral literature of al-Ghazali in *Ihya' 'ulum al-din*, resemble "acceptance" in that both require steadfastness in the face of pain without denying it. However, they rest on a teleological metaphysics, whereas acceptance in ACT is presented as a neutral behavioral tool with respect to belief. In this context one may consider the concept of tawakkul in psychology (see the entry on tawakkul), with the same caution.
 
 ## Limits of the Model
 
@@ -56,4 +56,5 @@ Critics argue that some of its concepts, such as "self as context," are difficul
 - Hayes, S. C., Luoma, J. B., Bond, F. W., Masuda, A., & Lillis, J. (2006). Acceptance and commitment therapy: model, processes and outcomes. Behaviour Research and Therapy, 44(1), 1–25.
 - Bach, P., & Hayes, S. C. (2002). The use of acceptance and commitment therapy to prevent the rehospitalization of psychotic patients: a randomized controlled trial. Journal of Consulting and Clinical Psychology, 70(5), 1129–1139.
 - A-Tjak, J. G. L., et al. (2015). A meta-analysis of the efficacy of acceptance and commitment therapy for clinically relevant mental and physical health problems. Psychotherapy and Psychosomatics, 84(1), 30–36.
-- Hayes, S. C., Wilson, K. G., Gifford, E. V., Follette, V. M., & Strosahl, K. (1996). Experiential avoidance and behavioral disorders. Journal of Consulting and Clinical Psychology, 64(6), 1152–1168.
+- Hayes, S. C., Wilson, K. G., Gifford, E. V., Follette, V. M., & Strosahl, K. (1996). Experiential avoidance and behavioral disorders: a functional dimensional approach to diagnosis and treatment. Journal of Consulting and Clinical Psychology, 64(6), 1152–1168.
+- Hayes, S. C., Barnes-Holmes, D., & Roche, B. (Eds.). (2001). Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition. New York: Kluwer Academic/Plenum.

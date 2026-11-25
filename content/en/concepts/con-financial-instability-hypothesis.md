@@ -36,7 +36,7 @@ From this analysis Minsky concludes that an active and continuous role is needed
 
 ## Revival after the 2008 crisis
 
-For decades after its formulation this hypothesis remained relatively marginal in mainstream academic economics, which was dominated by the assumption that financial markets are efficient. The global financial crisis of 2008, which arose from a mortgage bubble driven by credit expansion and rising financial fragility over several years, appeared to be an almost literal embodiment of Minsky's scenario. This revived broad academic and media interest in the hypothesis, and the term "Minsky moment", coined by the investment manager Paul McCulley in 1998 (in the context of the Russian crisis), came into wide use to describe the sudden collapse of a financial system that had appeared stable for a long time. Minsky himself, who died in 1996, did not use the phrase.
+For decades after its formulation this hypothesis remained relatively marginal in mainstream academic economics, which was dominated by the assumption that financial markets are efficient. The global financial crisis of 2008, which followed years of mortgage credit expansion and rising leverage, was widely read as fitting Minsky's sequence of hedge, speculative and Ponzi positions. This revived broad academic and media interest in the hypothesis, and the term "Minsky moment", coined by the investment manager Paul McCulley in 1998 (in the context of the Russian crisis), came into wide use to describe the sudden collapse of a financial system that had appeared stable for a long time. Minsky himself, who died in 1996, did not use the phrase.
 
 ## Sources
 

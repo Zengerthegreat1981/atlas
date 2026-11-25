@@ -21,7 +21,7 @@ gaps: []
 
 ## Definition
 
-**Treatment-resistant mood disorders**, most prominently **treatment-resistant depression** (TRD), describe major depressive episodes or other mood disorders that do not respond sufficiently after at least two antidepressant trials from two different drug classes. The trials must be at an adequate dose and for an adequate duration (usually four to eight weeks), with actual adherence to treatment. Definitions vary, and estimates of the proportion of people with major depressive disorder who meet a treatment-resistance definition are commonly put at around a third, depending on the criteria used.
+**Treatment-resistant mood disorders**, most prominently **treatment-resistant depression** (TRD), describe major depressive episodes or other mood disorders that do not respond sufficiently after at least two antidepressant trials from two different drug classes. The trials must be at an adequate dose and for an adequate duration (usually four to eight weeks), with actual adherence to treatment. Definitions vary, and estimates of the proportion of people with major depressive disorder who meet a treatment-resistance definition are commonly put at around a third, and the figure changes with the criteria used.
 
 ## Staging Models
 
@@ -36,7 +36,7 @@ Several models have been developed to classify the degree of treatment resistanc
 
 ## Impact
 
-The development of staging models and treatment-resistance criteria has helped standardize the language of clinical research and the design of comparative trials, such as the ketamine versus ECT trials. The approval of nasal esketamine opened a new chapter in psychiatric pharmacology, after decades of relative stagnation in discovering antidepressants with an entirely new mechanism of action (NMDA receptors instead of the traditional serotonin and norepinephrine pathways).
+Staging models gave trials a shared way to describe how many treatments had already failed. In 2019 the US Food and Drug Administration approved nasal esketamine, used with an oral antidepressant, for treatment-resistant depression. Unlike most earlier antidepressants, its principal proposed action is on glutamatergic (NMDA) signaling. Longer-term benefit, and how it compares with other options, remain matters of study.
 
 ## Limits
 
@@ -46,7 +46,7 @@ This entry is educational and descriptive; it is not clinical advice.
 
 ## Sources
 
-- Abdelmalik Fekadu et al., "A Multidimensional Tool to Quantify Treatment Resistance in Depression: The Maudsley Staging Method," *Journal of Clinical Psychiatry* 70, no. 2 (2009): 177-184.
+- Abebaw Fekadu et al., "A Multidimensional Tool to Quantify Treatment Resistance in Depression: The Maudsley Staging Method," *Journal of Clinical Psychiatry* 70, no. 2 (2009): 177-184.
 - A. John Rush et al., "Acute and Longer-Term Outcomes in Depressed Outpatients Requiring One or Several Treatment Steps: A STAR*D Report," *American Journal of Psychiatry* 163 (2006): 1905-1917.
 - Amit Anand et al., "Ketamine versus ECT for Nonpsychotic Treatment-Resistant Major Depression," *New England Journal of Medicine* 388 (2023): 2315-2325.
 - U.S. Food and Drug Administration, approval notice for esketamine (Spravato), 2019.

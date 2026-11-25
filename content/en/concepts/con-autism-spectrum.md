@@ -57,3 +57,6 @@ The expansion of diagnosis and the rising prevalence reported by the US Centers 
 - Baron-Cohen, S., Leslie, A. M., & Frith, U. (1985). Does the autistic child have a theory of mind? Cognition, 21(1), 37–46.
 - Bailey, A., et al. (1995). Autism as a strongly genetic disorder: evidence from a British twin study. Psychological Medicine, 25(1), 63–77.
 - Sheffer, E. (2018). Asperger's Children: The Origins of Autism in Nazi Vienna. New York: W. W. Norton.
+- Asperger, H. (1944). Die „Autistischen Psychopathen“ im Kindesalter. Archiv für Psychiatrie und Nervenkrankheiten, 117, 76–136.
+- Wing, L., & Gould, J. (1979). Severe impairments of social interaction and associated abnormalities in children: epidemiology and classification. Journal of Autism and Developmental Disorders, 9(1), 11–29.
+- Wakefield, A. J., et al. (1998). Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children. The Lancet, 351, 637–641. Retracted 2010.

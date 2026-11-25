@@ -32,7 +32,7 @@ The book seeks to draw out modern descriptive insights that were already latent 
 
 ## The Intellectual Context of the Author
 
-Tammam Hassan wrote this work after spending years studying Western linguistics in Britain, where he was influenced by the London school of J. R. Firth and its emphasis on context. He returned to Egypt with an ambitious intellectual project: that modern Arabic language study should be neither a mechanical importation of Western terminology (as some of his predecessors had done), nor a closed repetition of the grammatical heritage without renewal. Rather, it should be a critical rereading that draws from the genius of the early grammarians (especially Sibawayh) analytical insights that are consistent with the best achievements of contemporary linguistics.
+Tammam Hassan wrote this work after spending years studying Western linguistics in Britain, where he was influenced by the London school of J. R. Firth and its emphasis on context. He returned to Egypt with an ambitious intellectual project: that modern Arabic language study should be neither a mechanical importation of Western terminology (as some of his predecessors had done), nor a closed repetition of the grammatical heritage without renewal. Rather, it should be a critical rereading that draws from the early grammarians (especially Sibawayh) analytical distinctions that can be restated with the tools of contemporary linguistics.
 
 ## Structure and Topics of the Book
 
@@ -42,9 +42,13 @@ In its successive sections, the book treats topics including the nature of the A
 
 In the book Hassan develops a central concept: the "indicators" (*qara'in*), the linguistic and contextual signs that work together (such as morphological form, position in the sentence, linking particles, and semantic and situational indicators) to indicate the grammatical and semantic meaning of a construction together. This is an attempt at a methodical characterization of how multiple elements interact to produce meaning, rather than relying on a single isolated morphological rule. Hassan distinguishes between verbal indicators (such as inflection, word order, form, agreement and linking) and semantic indicators (such as predication and relation). The notion may owe something to Firth's emphasis on context, but it is developed to suit the structure of the Arabic sentence and the multiplicity of its means of signaling meaning (inflection, word order, particles).
 
+## Parts of speech
+
+A widely discussed proposal in the book replaces the traditional three classes (noun, verb and particle) with seven, assigned by function in context: the noun, the adjective, the verb, the pronoun, the adverbial (*ẓarf*), the *khalīfa* (a class that includes items such as the so-called names of verbs), and the particle (*adāt*). Class membership is read from a bundle of formal and semantic indicators, in line with the *qarāʾin* account, rather than from inflection alone. Later writers have debated both the inventory and how far it can be reconciled with Sibawayh's three-way division.
+
 ## Impact
 
-The book became a widely cited reference in modern Arabic linguistics, and influenced generations of researchers who sought to develop an authentic Arab methodology for studying language that combines the depth of the grammatical heritage with the precision of modern linguistic tools. Together with Hassan's *al-Usul* (an epistemological study of the foundations of Arabic linguistic thought), it is often cited as a foundation of the modern effort to root Arabic language study in its heritage without a break from it.
+The book became a widely cited reference in modern Arabic linguistics, and influenced generations of researchers who sought to develop an authentic Arab methodology for studying language that combines the depth of the grammatical heritage with the precision of modern linguistic tools. Together with Hassan's *al-Usul* (an epistemological study of Arab linguistic thought), it is often cited as a foundation of the modern effort to root Arabic language study in its heritage without a break from it.
 
 ## His Relationship to the London School of Firth
 
@@ -61,5 +65,5 @@ The idea can be illustrated by a sentence in which two nouns lack visible case e
 ## Sources
 
 - Hassan, Tammam (1973). *Al-Lugha al-Arabiyya Ma'naha wa Mabnaha*. Cairo: Egyptian General Book Organization.
-- Hassan, Tammam (1981). *Al-Usul: Dirasa Ibistimulujiyya li-Usul al-Fikr al-Lughawi al-Arabi*. Cairo: Egyptian General Book Organization.
+- Hassan, Tammam (1981). *Al-Usul: Dirasa ibistimulujiyya lil-fikr al-lughawi 'ind al-'arab: al-nahw, fiqh al-lugha, al-balagha*. Cairo.
 - Bohas, Georges; Guillaume, Jean-Patrick; Kouloughli, Djamel Eddine (1990). *The Arabic Linguistic Tradition*. Routledge.

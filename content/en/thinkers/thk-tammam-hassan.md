@@ -34,7 +34,7 @@ Tammam Hassan was born in 1918 in Egypt. He studied at Dar al-Ulum in Cairo and 
 
 ## Intellectual Context
 
-Hassan worked during a period of intense debate among Arabic linguists between advocates of "renewing Arabic grammar," who called for abolishing or radically simplifying inflection (i'rab) along the lines of proposals by Ibrahim Mustafa and Shawqi Daif, and traditionalists who upheld the classical grammar recorded by Sibawayh, al-Khalil ibn Ahmad and Ibn Jinni. Hassan took an original middle position. He rejected the claim that Arabic grammar should be replaced entirely with imported Western models, and at the same time rejected a literal defence of the formulations of later grammarians without critical scrutiny. Instead, he sought to extract the descriptive logic latent in the grammatical heritage itself and to restate it in modern linguistic concepts.
+Hassan worked during a debate among Arabic linguists between advocates of renewing grammar and defenders of the classical tradition of Sibawayh, al-Khalil ibn Ahmad and Ibn Jinni. Ibrahim Mustafa, in *Iḥyāʾ al-naḥw* (1937), and later Shawqi Dayf, in *Tajdīd al-naḥw*, proposed substantial changes in how iʿrāb and the teaching of grammar were conceived. Hassan did not argue for replacing Arabic grammar with an imported model, and he did not treat later school formulations as beyond criticism. He tried to restate what he took to be the descriptive logic of the heritage in modern linguistic terms.
 
 ## Method of Linguistic Research (1955)
 
@@ -50,7 +50,7 @@ In his central book *Al-Lugha al-Arabiya: Ma'naha wa Mabnaha* (*The Arabic Langu
 
 ## Al-Usul: An Epistemological Study (1981)
 
-In his book *Al-Usul: Dirasa Ibistimulujiyya li-Usul al-Fikr al-Lughawi al-Arabi* (*Al-Usul: An Epistemological Study of the Foundations of Arabic Linguistic Thought*, 1981), Hassan moved from applied grammatical analysis to a deeper methodological examination of the history of Arabic linguistic thought itself. He asked how the early Arab grammarians, jurists, rhetoricians and philologists built their linguistic knowledge, and what epistemological foundations (analogy, transmitted usage, induction, and the causes of grammar) they relied on to justify their rulings. The book sought to ground Arabic linguistic study as an intellectual tradition with its own coherent internal logic, rather than a loose set of rules laid down arbitrarily by the early scholars. It linked the science of legal theory (usul al-fiqh) with the science of grammar in a single methodological unity that characterized classical Arab-Islamic thought.
+In his book *Al-Usul: Dirasa Ibistimulujiyya lil-Fikr al-Lughawi ʿind al-ʿArab: al-Nahw, Fiqh al-Lugha, al-Balagha* (*Al-Usul: An Epistemological Study of Arab Linguistic Thought: Grammar, Philology, Rhetoric*, 1981), Hassan moved from applied grammatical analysis to a deeper methodological examination of the history of Arabic linguistic thought itself. He asked how the early Arab grammarians, jurists, rhetoricians and philologists built their linguistic knowledge, and what epistemological foundations (analogy, transmitted usage, induction, and the causes of grammar) they relied on to justify their rulings. The book sought to ground Arabic linguistic study as an intellectual tradition with its own coherent internal logic, rather than a loose set of rules laid down arbitrarily by the early scholars. It linked the science of legal theory (usul al-fiqh) with the science of grammar in a single methodological unity that characterized classical Arab-Islamic thought.
 
 ## Impact and Criticism
 
@@ -60,5 +60,5 @@ Tammam Hassan had a profound influence on the renewal of academic Arabic grammat
 
 - Hassan, Tammam (1955). *Manahij al-Bahth fi al-Lugha* [*Methods of Linguistic Research*]. Anglo-Egyptian Bookshop.
 - Hassan, Tammam (1973). *Al-Lugha al-Arabiya: Ma'naha wa Mabnaha* [*The Arabic Language: Its Meaning and Structure*]. Egyptian General Book Organization.
-- Hassan, Tammam (1981). *Al-Usul: Dirasa Ibistimulujiyya li-Usul al-Fikr al-Lughawi al-Arabi* [*Al-Usul: An Epistemological Study of the Foundations of Arabic Linguistic Thought*]. Egyptian General Book Organization.
+- Hassan, Tammam (1981). *Al-Usul: Dirasa Ibistimulujiyya lil-Fikr al-Lughawi ʿind al-ʿArab: al-Nahw, Fiqh al-Lugha, al-Balagha* [*Al-Usul: An Epistemological Study of Arab Linguistic Thought*]. Egyptian General Book Organization.
 - Daif, Shawqi (1982). *Tajdid al-Nahw* [*Renewing Grammar*]. Dar al-Ma'arif.

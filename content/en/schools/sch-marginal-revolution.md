@@ -28,7 +28,7 @@ gaps: []
 ---
 # Marginal Revolution
 
-**The marginal revolution** (anticipated in part by Hermann Heinrich Gossen in 1854) is the label historians of economic thought give to a radical methodological shift that took place between 1871 and 1874, when three economists — the Englishman **William Stanley Jevons**, the Austrian **Carl Menger**, and the French-born **Léon Walras**, who lived in Switzerland — published entirely independent works that share one central idea: the value of a good is not determined by the quantity of labour needed to produce it, as the classical economists held, but by the **marginal utility** that the last additional unit yields to the consumer.
+**The marginal revolution** (anticipated in part by Hermann Heinrich Gossen in 1854) is the label historians of economic thought give to a radical methodological shift that took place between 1871 and 1874, when three economists — the Englishman **William Stanley Jevons**, the Austrian **Carl Menger**, and the French-born **Léon Walras**, who worked in Switzerland — published works, developed largely independently of one another, that share one central idea: the value of a good is not determined by the quantity of labour needed to produce it, as the classical economists held, but by the **marginal utility** that the last additional unit yields to the consumer.
 
 ## From the value of labour to marginal utility
 
@@ -62,4 +62,5 @@ The marginal revolution required mathematical tools that had not been central to
 
 - Jevons, William Stanley. *The Theory of Political Economy*. Macmillan, 1871.
 - Menger, Carl. *Grundsätze der Volkswirtschaftslehre*. Wilhelm Braumüller, 1871.
+- Walras, Léon. *Éléments d'économie politique pure*. L. Corbaz, 1874–1877 (later editions through 1926).
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.

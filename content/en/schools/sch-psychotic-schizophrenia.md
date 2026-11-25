@@ -11,7 +11,7 @@ dates: "Europe and North America · from 1899 to the present"
 country: "International"
 language: "German, English"
 active_start: 1899
-active_end: 2026
+active_end: "مستمر"
 active_source: "lifespan"
 cultural_origin: "european"
 edges: []
@@ -35,7 +35,7 @@ This category groups together disorders whose core is loss of contact with reali
 
 ## Origins and Context
 
-Emil Kraepelin, in his *Psychiatry: A Textbook for Students and Physicians* (editions from 1883 to 1927; the sixth edition of 1899 set out the dementia praecox concept), formulated the concept of *dementia praecox*, grouping under it several psychotic conditions (catatonia, paranoid schizophrenia, hebephrenia) on the basis of their progressively deteriorating course and early onset. This contrasted with "manic-depressive insanity," which has a periodic course that can improve. The Swiss physician Eugen Bleuler opposed the inevitability of this deterioration. He proposed the term "schizophrenia" (*Schizophrenie*, from the Greek for "split mind") in 1908 and set out the concept in his 1911 monograph, focusing on the "fundamental symptoms" (association, affect, ambivalence, autism) rather than on the course alone. Kurt Schneider, from the late 1930s, added the concept of "first-rank symptoms" (such as hearing voices that comment on the patient's actions or converse among themselves, or feeling that thoughts are withdrawn or broadcast) as practical criteria to assist differential diagnosis, although it was later shown that these symptoms are not specific to schizophrenia to the degree Schneider originally assumed.
+Emil Kraepelin, in his *Psychiatry: A Textbook for Students and Physicians* (editions from 1883 to 1927; the sixth edition of 1899 set out the dementia praecox concept), formulated the concept of *dementia praecox*, grouping under it hebephrenia, catatonia, and dementia paranoides on the basis of what he took to be a deteriorating course and an early onset. This contrasted with "manic-depressive insanity," which has a periodic course that can improve. The Swiss physician Eugen Bleuler opposed the inevitability of this deterioration. He proposed the term "schizophrenia" (*Schizophrenie*, from the Greek for "split mind") in 1908 and set out the concept in his 1911 monograph, focusing on the "fundamental symptoms" (association, affect, ambivalence, autism) rather than on the course alone. Kurt Schneider, from the late 1930s, added the concept of "first-rank symptoms" (such as hearing voices that comment on the patient's actions or converse among themselves, or feeling that thoughts are withdrawn or broadcast) as practical criteria to assist differential diagnosis, although it was later shown that these symptoms are not specific to schizophrenia to the degree Schneider originally assumed.
 
 ## Diagnostic Foundations
 

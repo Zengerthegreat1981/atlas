@@ -24,13 +24,13 @@ gaps: []
 
 # Systemic Functional Linguistics (SFL)
 
-A functional theoretical framework founded by Michael Halliday from the 1960s onward. It describes the structure of language in terms of its social communicative functions, rather than formulating it through abstract syntactic rules detached from context.
+A functional framework developed by Michael Halliday from the 1960s onward. It describes linguistic structure through social communicative functions, rather than through syntactic rules stated apart from context.
 
 ## The Three Metafunctions
 
 The framework assumes that every linguistic utterance simultaneously fulfills three functions:
 
-- **The ideational function**: representing experience and cognitive content (who does what to whom, and why).
+- **The ideational metafunction**: representing experience (the experiential component: who does what to whom) and logical relations between clauses. Halliday's mature grammar treats these as two parts of one metafunction.
 - **The interpersonal function**: building the relationship between the speaker and the addressee (a question, a command, an expression of attitude).
 - **The textual function**: organizing discourse into a coherent, interconnected whole (theme and rheme, textual linking).
 
@@ -40,19 +40,19 @@ This framework analyzes language as a **system network of choices**. At each poi
 
 ## Historical Context and the Roots of the London School
 
-The roots of this framework go back to the London linguistic school founded by John Rupert Firth in the 1940s and 1950s. Firth emphasized studying language "in context" (Context of Situation), influenced in turn by the anthropologist Bronisław Malinowski. Halliday studied under Firth, and then developed a more organized and comprehensive framework, beginning with his doctoral dissertation on the Chinese text of the *Secret History of the Mongols* and his subsequent work, notably the 1961 article "Categories of the Theory of Grammar". He also drew on concepts from the Prague functional school (such as the thematic division of the sentence by Daneš and Mathesius) in formulating the theme system.
+The framework grows out of the London School associated with J. R. Firth in the 1940s and 1950s. Firth insisted on studying language in a context of situation, a notion he took from Bronisław Malinowski. Halliday studied with Firth. His 1955 Cambridge dissertation analyzed the Chinese *Secret History of the Mongols*, and his 1961 article "Categories of the Theory of Grammar" set out the scale-and-category grammar from which systemic grammar later developed. The theme system also draws on Prague School work on theme and rheme, especially Vilém Mathesius and František Daneš.
 
 ## Genre Theory and Appraisal
 
-J. R. Martin and his colleagues in Australia developed influential extensions of this framework, the most notable being "Genre Theory." It describes how standard social text types (such as narrative, laboratory report and persuasive argument) are realized through recurring typical stage structures. This theory had a deep influence on writing-instruction curricula in Australian schools and across the English-speaking world. Martin, with Peter White, also developed "Appraisal Theory" to analyze how language expresses attitude, emotional and moral evaluation within texts.
+J. R. Martin and colleagues in Australia extended the framework in genre theory, which describes recurrent staging in social text types such as narrative, experimental report, and argument. That work was taken up in literacy teaching in Australian schools and elsewhere. With Peter R. R. White, Martin also developed appraisal theory, set out in *The Language of Evaluation* (2005), for attitude, graduation, and engagement in texts.
 
 ## Textual Cohesion Devices
 
-In *Cohesion in English* (1976), Halliday, together with Ruqaiya Hasan, presented an influential classification of five main devices that create textual cohesion: reference, ellipsis, substitution, conjunction, and lexical cohesion (such as synonymy and repetition). This framework has become a standard tool for analyzing the coherence of texts across multiple languages, including comparative studies of cohesion mechanisms in Arabic texts compared with English.
+In *Cohesion in English* (1976), Halliday and Ruqaiya Hasan classified five resources of cohesion: reference, substitution, ellipsis, conjunction, and lexical cohesion (including repetition and synonymy). They treated cohesion as a linguistic property of a text. Coherence, in the sense of a reader's sense that a text hangs together, is a wider notion and is not identical with those five devices. The classification has been applied in comparative studies, including work on Arabic and English.
 
 ## Impact
 
-The framework has become a standard reference in applied linguistics, discourse analysis, second language teaching and academic writing, and genre studies. This is especially true outside the United States, where the dominance of generative grammar has been less entrenched. It also deeply influenced critical discourse analysis, through researchers such as Norman Fairclough, who borrowed its tools to analyze the relationship between language, power and ideology.
+The framework is a standard reference in applied linguistics, discourse analysis, additional-language teaching, academic writing, and genre studies, especially outside the generative mainstream in the United States. Norman Fairclough's critical discourse analysis draws on systemic grammar in relating wording to power and ideology.
 
 ## The Transitivity and Mood Systems
 
@@ -68,7 +68,9 @@ The tools of systemic functional linguistics have been applied to the analysis o
 
 ## Sources
 
+- Halliday, M. A. K. (1961). "Categories of the Theory of Grammar." *Word* 17(3).
 - Halliday, M. A. K. (1985). *An Introduction to Functional Grammar*. Edward Arnold.
 - Halliday, M. A. K.; Matthiessen, Christian M. I. M. (2014). *Halliday's Introduction to Functional Grammar* (4th ed.). Routledge.
 - Halliday, M. A. K.; Hasan, Ruqaiya (1976). *Cohesion in English*. Longman.
 - Martin, J. R.; Rose, David (2008). *Genre Relations: Mapping Culture*. Equinox.
+- Martin, J. R.; White, Peter R. R. (2005). *The Language of Evaluation: Appraisal in English*. Palgrave Macmillan.

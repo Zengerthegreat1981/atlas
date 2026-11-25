@@ -51,6 +51,7 @@ In practice it is difficult to distinguish a side effect from symptoms of the il
 
 ## Sources
 
+- American Diabetes Association, American Psychiatric Association, American Association of Clinical Endocrinologists, and North American Association for the Study of Obesity. (2004). Consensus development conference on antipsychotic drugs and obesity and diabetes. Diabetes Care, 27(2), 596–601.
 - De Hert, M., et al. (2011). Physical illness in patients with severe mental disorders. I. Prevalence, impact of medications and disparities in health care. World Psychiatry, 10(1), 52–77.
 - Correll, C. U., et al. (2009). Cardiometabolic risk of second-generation antipsychotic medications during first-time use in children and adolescents. JAMA, 302(16), 1765–1773.
 - Alvir, J. M. J., et al. (1993). Clozapine-induced agranulocytosis: incidence and risk factors in the United States. New England Journal of Medicine, 329(3), 162–167.

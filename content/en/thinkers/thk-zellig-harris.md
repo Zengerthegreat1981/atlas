@@ -30,7 +30,7 @@ American linguist, the most prominent representative of American distributional 
 
 ## Operator Grammar
 
-In his later work, Harris developed an ambitious theory of "Operator Grammar." In it he attempted to derive the grammatical structure of an entire language from a small set of primitive "operators" and their dependency relations on their "arguments." This went beyond even the concept of transformation he had developed earlier. His aim was a highly economical theory in which sentence structure is built from a few primitive dependency relations, with minimal reliance on traditional grammatical categories. It is set out in *Mathematical Structures of Language* (1968) and *A Theory of Language and Information* (1991).
+In his later work, Harris developed operator grammar. Sentence structure is built from a small set of operators and their arguments, with reductions that yield the shorter forms of ordinary speech. *Mathematical Structures of Language* (1968) is an earlier mathematical presentation. The operator grammar of English is set out in *A Grammar of English on Mathematical Principles* (1982) and *A Theory of Language and Information* (1991).
 
 ## Strict Distributional Analysis
 
@@ -50,7 +50,7 @@ Alongside his grammatical work, Harris founded the field of "discourse analysis"
 
 ## Harris's Relation to Chomsky and the Methodological Break
 
-Harris supervised Chomsky's training at the University of Pennsylvania and transmitted to him the method of strict distributional analysis and the concept of transformation. Chomsky later broke radically from his mentor's commitment to pure empirical descriptivism, which refused any reliance on intuition about meaning or deep structure. He adopted instead a rationalist, innatist conception of language that posits a deep grammatical structure residing in the mind. Many historians of linguistics regard this shift as central to the "generative revolution" and as a break with the distributional structuralism that Harris embodied.
+Harris supervised Chomsky's training at the University of Pennsylvania and transmitted to him the method of strict distributional analysis and the concept of transformation. Chomsky later broke radically from his mentor's commitment to pure empirical descriptivism, which refused any reliance on intuition about meaning or deep structure. He adopted instead a rationalist, innatist conception of language that posits a deep grammatical structure residing in the mind. Historians of linguistics treat that shift as a break with the distributional structuralism Harris practiced.
 
 ## Impact
 
@@ -60,5 +60,7 @@ Harris is a pivotal historical link between American structuralism and the gener
 
 - Harris, Zellig S. (1951). *Methods in Structural Linguistics*. University of Chicago Press.
 - Harris, Zellig S. (1952). "Discourse Analysis." *Language* 28(1).
+- Harris, Zellig S. (1968). *Mathematical Structures of Language*. Wiley.
+- Harris, Zellig S. (1982). *A Grammar of English on Mathematical Principles*. Wiley.
 - Harris, Zellig S. (1991). *A Theory of Language and Information: A Mathematical Approach*. Oxford University Press (Clarendon Press).
 - Harris, Zellig S. (1957). "Co-occurrence and Transformation in Linguistic Structure." *Language* 33(3).

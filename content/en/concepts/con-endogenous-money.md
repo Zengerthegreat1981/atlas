@@ -8,7 +8,7 @@ title: "Endogenous Money"
 en: "Endogenous Money"
 crumb: "Political Economy ← Concepts ← Endogenous Money"
 economic_school: "Post-Keynesian economics"
-active_start: 1976
+active_start: 1970
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Post-Keynesian Economics", target_type: "مدرسة"
@@ -23,7 +23,7 @@ The theory of **endogenous money** offers a view of money supply that differs fr
 
 ## Origins among post-Keynesian economists
 
-Nicholas Kaldor developed this idea in his critiques of monetarist theory in the 1970s and early 1980s (collected in *The Scourge of Monetarism*, 1982). Basil Moore later crystallized it in his book *Horizontalists and Verticalists: The Macroeconomics of Credit Money* (1988), arguing that commercial banks first extend loans in response to profitable credit demand and then seek the reserves they need (from the central bank or the interbank market). Since the central bank is in practice obliged to supply these reserves to preserve the stability of the payments system, the money supply is effectively determined by the demand for credit, not by an independent decision of the monetary authority.
+Nicholas Kaldor set out the argument against monetarism in "The New Monetarism" (*Lloyds Bank Review*, 1970) and in essays collected in *The Scourge of Monetarism* (1982). Basil Moore later crystallized it in his book *Horizontalists and Verticalists: The Macroeconomics of Credit Money* (1988), arguing that commercial banks first extend loans in response to profitable credit demand and then seek the reserves they need (from the central bank or the interbank market). Since the central bank is in practice obliged to supply these reserves to preserve the stability of the payments system, the money supply is effectively determined by the demand for credit, not by an independent decision of the monetary authority.
 
 ## The confrontation with the quantity theory
 
@@ -43,6 +43,7 @@ Basil Moore coined the labels "horizontalists" and "verticalists". Horizontalist
 
 ## Sources
 
+- Kaldor, Nicholas. "The New Monetarism." *Lloyds Bank Review*, no. 97, 1970.
 - Kaldor, Nicholas. *The Scourge of Monetarism*. Oxford University Press, 1982.
 - Moore, Basil J. *Horizontalists and Verticalists: The Macroeconomics of Credit Money*. Cambridge University Press, 1988.
 - McLeay, Michael, Amar Radia, and Ryland Thomas. "Money Creation in the Modern Economy." *Bank of England Quarterly Bulletin*, vol. 54, no. 1, 2014, pp. 14–27.

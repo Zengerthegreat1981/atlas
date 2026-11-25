@@ -25,15 +25,15 @@ gaps: []
 
 # Labovian Variationist Sociolinguistics
 
-A current in sociolinguistics founded by **William Labov** in 1963 that turned the study of language variety from impressionistic description into a rigorous quantitative method. It collected extensive field data from natural speech and statistically correlated the frequency of specific linguistic variables with social variables (such as class, age, gender and ethnicity). It demonstrated that linguistic variation within a single community is not random or "corruption" but a structured system that can be predicted.
+A current in sociolinguistics developed in the work of **William Labov** from the early 1960s. It studies language variety with quantitative methods: field recordings of speech are coded for linguistic variables, and the frequency of variants is related to social categories such as class, age, gender, and ethnicity, and to style. On this view, variation within a community is patterned, and that patterning is evidence about change in progress.
 
 ## The Martha's Vineyard Study
 
-In his first pioneering study on Martha's Vineyard island (fieldwork 1961, published 1963), Labov observed that the island's year-round residents pronounced certain diphthongs (as in *price* and *mouth*) with a higher degree of centralization than summer tourists did. This centralization was highest among local fishermen in early middle age, who used it unconsciously to distinguish their identity from seasonal newcomers and as a marker of authentic island belonging, rather than for purely phonetic reasons.
+In his Martha's Vineyard study (fieldwork 1961, published in 1963 as "The Social Motivation of a Sound Change"), Labov found that year-round residents centralized the diphthongs in *price* and *mouth* more than summer visitors did. Centralization was strongest among local fishermen in early middle age and among speakers oriented toward traditional island life. Labov interpreted the pattern as a social marker of local belonging in the face of seasonal newcomers.
 
 ## The New York City Department Store Study
 
-In his most famous study (fieldwork 1962, published 1966), Labov tested the pronunciation of post-vocalic /r/ in three New York department stores of differing social standing (Saks Fifth Avenue, Macy's and S. Klein). He asked staff spontaneously where a department was located, such as "Fourth Floor," and then elicited repeated, emphatic responses. He found that the rate of /r/ pronunciation rose with the store's prestige and with the degree of conscious emphasis in speech. This showed that the **linguistic variable** (the alternative phonetic forms of a single linguistic unit) carries a social symbolic value independent of its semantic meaning.
+In the New York City department-store study (fieldwork 1962, published in 1966), Labov elicited postvocalic /r/ in three stores of different standing (Saks Fifth Avenue, Macy's, and S. Klein) by asking staff for a department on the "fourth floor," then prompting a careful repetition. The rate of pronounced /r/ was higher in the higher-status store and higher in the careful repetition than in the first answer. The **linguistic variable** — alternate forms of one linguistic unit — thus patterned with social setting and with attention to speech.
 
 ## Overt and Covert Prestige
 
@@ -49,7 +49,7 @@ Labov also showed that an individual does not use a single fixed linguistic form
 
 ## Methodological Impact
 
-The school also helped standardize research instruments in sociolinguistics, such as the sociolinguistic interview and the quantification of variables. (The Matched-Guise Technique for measuring attitudes toward dialects, devised by Wallace Lambert and colleagues around 1960, is a complementary method not originated by this school.) The Labovian methodology has remained the reference standard for any field study of language variation and change to this day.
+The approach helped standardize instruments such as the sociolinguistic interview and the counting of variants across styles. The matched-guise technique for language attitudes, introduced by Wallace Lambert and colleagues in 1960, is a related method developed outside this school. Labovian quantitative fieldwork remains a standard design for studies of variation and change.
 
 ## Sources
 

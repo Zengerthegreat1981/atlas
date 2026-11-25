@@ -32,19 +32,19 @@ The field emerged in the 1950s alongside the development of automata theory and 
 
 ## The Machine Translation Crisis and the ALPAC Report
 
-The report of the American "ALPAC" committee in 1966 was a decisive turning point in the history of the field. It concluded that early machine translation, based on simple direct rules, had not achieved sufficient practical progress relative to its cost. This led to an almost complete halt in funding for machine translation research in the United States for many years, and pushed researchers to redirect the field toward more modest and attainable problems (such as partial morphological and syntactic analysis) before returning later to the ambition of full translation with more mature tools.
+The report of the US Automatic Language Processing Advisory Committee (ALPAC) in 1966 judged that early machine translation had not produced results proportionate to its cost. US government funding for machine translation then fell sharply. Work did not stop everywhere: research continued in Europe and in some American laboratories, and many projects turned to narrower tasks such as morphological analysis and parsing before statistical methods brought full translation back to the center of the field.
 
 ## The Statistical Turn
 
 From the late 1980s, and especially in the 1990s, the field shifted to statistical and machine learning approaches that extract their patterns from large annotated text corpora rather than from fully hand-written rules, methodologically intersecting with corpus linguistics. Among the key tools of this period were probabilistic "n-gram" models for predicting successive words, and Hidden Markov Models (HMM) for tasks such as part-of-speech tagging and speech recognition. These tools were developed by researchers such as Frederick Jelinek at IBM laboratories, drawing on signal-processing methods originally applied to automatic speech recognition.
 
-## The Representational Revolution: From Vectors to Neural Networks
+## From Count Vectors to Neural Networks
 
-Building on earlier work such as latent semantic analysis (1990), the 2000s and 2010s saw the rise of "distributional semantics," based on the premise that a word's meaning can be approximated statistically from the contexts in which it repeatedly appears in large texts. This culminated in algorithms that represent words as dense numerical vectors (such as Word2Vec, developed by Tomas Mikolov and colleagues in 2013). The approach later evolved into "contextualized" representations such as ELMo and BERT (both 2018), which produce a different representation of the same word depending on its actual sentence context, rather than a single fixed representation as in the previous generation.
+Distributional semantics treats a word's meaning as recoverable, in part, from the contexts in which it occurs. Latent semantic analysis (Deerwester and colleagues, 1990) was an early matrix-based version. In 2013 Tomas Mikolov and colleagues released word2vec, which learns dense vectors from prediction. ELMo (Peters and colleagues, NAACL 2018) and BERT (Devlin and colleagues, preprint 2018, NAACL 2019) then produced contextual representations: the vector for a word depends on the sentence in which it appears. BERT is a Transformer encoder trained with a masked-word objective; it is not itself a generative chatbot.
 
 ## The Transformer Architecture and Large Language Models
 
-The "Transformer" architecture, introduced by Google researchers in 2017 on the basis of the "attention" mechanism, brought a radical change that made it possible to train large language models on vast quantities of text with unprecedented computational efficiency. It led directly to the emergence of today's large language models (such as the GPT series and BERT and its successors), which revived older theoretical debates about the nature of language acquisition and linguistic innateness from an entirely new computational angle.
+The Transformer architecture, introduced by Vaswani and colleagues in 2017, relies on attention so that each token can be related directly to others in the sequence. Subsequent large language models, including BERT and the GPT series (the latter from OpenAI, beginning with Radford and colleagues in 2018), use this architecture or close variants. Their fluency has renewed debate about what statistical learning implies for theories of acquisition. Success at prediction is not, by itself, evidence for or against an innate grammar.
 
 ## The Relationship to Linguistic Theory
 
@@ -60,7 +60,12 @@ Automatic processing of Arabic has faced particular challenges that have attract
 
 ## Sources
 
-- Jurafsky, Daniel; Martin, James H. (2023). *Speech and Language Processing* (3rd ed. draft). Pearson.
+- Jurafsky, Daniel, & Martin, James H. *Speech and Language Processing* (2nd ed.). Prentice Hall, 2008.
 - Manning, Christopher D.; Schütze, Hinrich (1999). *Foundations of Statistical Natural Language Processing*. MIT Press.
 - Pierce, John R.; et al. (1966). *Language and Machines: Computers in Translation and Linguistics* (the ALPAC report). National Academy of Sciences.
 - Vaswani, Ashish; et al. (2017). "Attention Is All You Need." *Advances in Neural Information Processing Systems* 30.
+- Deerwester, Scott; Dumais, Susan T.; Furnas, George W.; Landauer, Thomas K.; Harshman, Richard (1990). "Indexing by Latent Semantic Analysis." *Journal of the American Society for Information Science* 41(6).
+- Mikolov, Tomas; Chen, Kai; Corrado, Greg; Dean, Jeffrey (2013). "Efficient Estimation of Word Representations in Vector Space." arXiv:1301.3781.
+- Devlin, Jacob; Chang, Ming-Wei; Lee, Kenton; Toutanova, Kristina (2019). "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." *Proceedings of NAACL-HLT*.
+- Peters, Matthew E.; et al. (2018). "Deep Contextualized Word Representations." *Proceedings of NAACL-HLT*.
+- Radford, Alec; Narasimhan, Karthik; Salimans, Tim; Sutskever, Ilya (2018). "Improving Language Understanding by Generative Pre-Training." OpenAI technical report.

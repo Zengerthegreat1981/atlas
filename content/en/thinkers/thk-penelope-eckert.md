@@ -12,6 +12,8 @@ birth_year: 1942
 fields: ["sociolinguistics", "gender and language", "adolescent speech communities"]
 affiliation: "Stanford University"
 primary_school: "sch-variationist-sociolinguistics"
+active_start: 1978
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Variationist Sociolinguistics", target_type: "مدرسة"
 related: []
@@ -20,7 +22,7 @@ gaps: []
 
 # Penelope Eckert
 
-American sociolinguist, professor emerita at Stanford University, and one of the most prominent names in contemporary **variationist sociolinguistics**. She reshaped the field by introducing the concept of the **community of practice** and by shifting the focus from a static statistical relation between linguistic variables and given social categories (such as class or gender) to the study of how speakers build effective **social meaning** through their speech style.
+American sociolinguist (born 1942), Albert Ray Lang Professor emerita at Stanford University, and a central figure in contemporary **variationist sociolinguistics**. She pressed the field to treat the **community of practice** as a unit of analysis and to study how speakers build **social meaning** through style, rather than only correlating variables with fixed categories such as class or gender.
 
 ## Her Contributions
 
@@ -30,7 +32,7 @@ An extensive ethnographic-linguistic study at a high school in the suburbs of De
 
 ### The Concept of "Community of Practice"
 
-Eckert, together with Sally McConnell-Ginet, borrowed the concept of "community of practice" from social learning theory (Étienne Wenger and Jean Lave) and developed it into an analytical tool for sociolinguistics. A social group is defined here neither by abstract shared characteristics (such as gender or class) nor merely by physical proximity, but by its members' actual shared practice, from which distinctive linguistic and stylistic norms of the group arise. This framework became essential to the study of language and gender after their joint article "Think Practically and Look Locally" (1992).
+Eckert, together with Sally McConnell-Ginet, took the concept of "community of practice" from the social theory of learning developed by Jean Lave and Étienne Wenger and adapted it for sociolinguistics. A social group is defined here neither by abstract shared characteristics (such as gender or class) nor merely by physical proximity, but by its members' actual shared practice, from which distinctive linguistic and stylistic norms of the group arise. This framework became essential to the study of language and gender after their joint article "Think Practically and Look Locally" (1992).
 
 ### Linguistic Style as the Construction of Social Meaning (Third Wave Sociolinguistics)
 
@@ -40,7 +42,7 @@ In *Linguistic Variation as Social Practice* (2000) and *Meaning and Linguistic 
 
 - Her concept of "community of practice" redefined the basic unit of analysis in sociolinguistics, moving it away from rigid demographic categories.
 - The "third wave" she led influenced a whole generation of contemporary sociolinguistic studies of identity and style.
-- She is among the key founding figures of the field of **language and gender**, together with McConnell-Ginet.
+- With McConnell-Ginet she became a central author in **language and gender**, especially through the community-of-practice approach and their textbook *Language and Gender* (2003).
 
 ## Limitations
 

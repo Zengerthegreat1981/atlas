@@ -28,7 +28,7 @@ Keynesian economists, notably **Paul Samuelson** and **Robert Solow** (1960), wh
 
 ## Friedman's critique: no stable trade-off in the long run
 
-In his famous address to the American Economic Association in 1967, **Milton Friedman** mounted a decisive critique of this interpretation and proposed the concept of the **natural rate of unemployment**. Any attempt to push unemployment below this rate through deliberate inflation succeeds only temporarily, because workers initially mistake higher nominal wages for higher real wages. Edmund Phelps reached a similar conclusion independently. Over time, however, their inflation expectations adjust to the new reality, and they demand higher nominal wages reflecting the expected inflation. Unemployment then returns to its natural rate, but at a permanently higher inflation level on which the economy has settled. The conclusion is that there is no stable trade-off between inflation and unemployment, except in the very short run, before expectations adjust.
+In his presidential address to the American Economic Association in December 1967, published in 1968, **Milton Friedman** criticised this interpretation and proposed the concept of the **natural rate of unemployment**. Any attempt to push unemployment below this rate through deliberate inflation succeeds only temporarily, because workers initially mistake higher nominal wages for higher real wages. Edmund Phelps reached a similar conclusion independently, in work published in 1967 and 1968. Over time, however, their inflation expectations adjust to the new reality, and they demand higher nominal wages reflecting the expected inflation. Unemployment then returns to its natural rate, but at a permanently higher inflation level on which the economy has settled. The conclusion is that there is no stable trade-off between inflation and unemployment, except in the very short run, before expectations adjust.
 
 ## The harsh empirical test: stagflation in the 1970s
 
@@ -43,4 +43,6 @@ This critique led to the development of the **expectations-augmented Phillips cu
 - Phillips, A. W. "The Relation between Unemployment and the Rate of Change of Money Wage Rates in the United Kingdom, 1861–1957." *Economica*, vol. 25, no. 100, 1958, pp. 283–299.
 - Friedman, Milton. "The Role of Monetary Policy." *The American Economic Review*, vol. 58, no. 1, 1968, pp. 1–17.
 - Samuelson, Paul A., and Robert M. Solow. "Analytical Aspects of Anti-Inflation Policy." *American Economic Review*, vol. 50, no. 2, 1960, pp. 177-194.
+- Phelps, Edmund S. "Phillips Curves, Expectations of Inflation and Optimal Unemployment over Time." *Economica*, vol. 34, no. 135, 1967, pp. 254–281.
+- Phelps, Edmund S. "Money-Wage Dynamics and Labor-Market Equilibrium." *Journal of Political Economy*, vol. 76, no. 4, part 2, 1968, pp. 678–711.
 - Snowdon, Brian, and Howard R. Vane. *Modern Macroeconomics: Its Origins, Development and Current State*. Edward Elgar, 2005.

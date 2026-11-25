@@ -19,7 +19,7 @@ gaps: []
 
 # Merge
 
-The only basic derivational operation in the Minimalist Program, formulated by Chomsky (1995) to replace the multiple phrase-structure and transformational rule systems that characterized earlier phases of generative grammar. Merge takes two syntactic elements (two words, a word and a phrase, or two phrases) and combines them into one larger syntactic unit, without either of them losing its internal identity.
+A basic structure-building operation of the Minimalist Program. In *The Minimalist Program* (1995), Chomsky defined Merge as the operation that takes two syntactic objects and combines them into one larger object, replacing the phrase-structure rules of earlier generative grammar. In that 1995 system, displacement was still handled by a separate operation, Move. From about 2001–2004 he treated Move as a subcase of Merge.
 
 ## Simplicity and Recursion
 
@@ -27,7 +27,7 @@ Merge can be applied recursively to its own output without any theoretical limit
 
 ## External and Internal Merge
 
-The framework distinguishes between "External Merge," which combines two elements that were not previously part of the same structure (generating a new structure), and "Internal Merge," which takes an element already present within the derived structure and merges it again at a different, higher position in the structure. This reinterprets the grammatical phenomenon of "movement" (such as the movement of a question phrase to the front of its clause) as a special application of Merge itself, rather than as a separate mechanism as in Government and Binding theory.
+Later work distinguishes "External Merge," which combines two objects that are not already in the same structure, from "Internal Merge," which takes an object already inside a structure and merges it again in a higher position (Chomsky, "Beyond Explanatory Adequacy," written around 2001 and published in 2004; the distinction is also used in "Derivation by Phase," 2001). Question-word displacement, for example, is then a case of Internal Merge rather than a separate transformation of the kind assumed in Government and Binding theory. On the copy theory of movement, associated with the early Minimalist Program, the remerged element leaves a copy in its earlier position; which copy is pronounced is a matter for the sound interface.
 
 ## Binary Merge and the Asymmetry Requirement
 
@@ -40,4 +40,5 @@ Merge is not applied at random: it is governed by principles of derivational eco
 ## Sources
 
 - Chomsky, Noam (1995). *The Minimalist Program*. MIT Press.
-- Chomsky, Noam (2001). "Derivation by Phase." In Kenstowicz, M. (ed.), *Ken Hale: A Life in Language*. MIT Press.
+- Chomsky, Noam (2001). "Derivation by Phase." In Michael Kenstowicz (ed.), *Ken Hale: A Life in Language*. MIT Press.
+- Chomsky, Noam (2004). "Beyond Explanatory Adequacy." In Adriana Belletti (ed.), *Structures and Beyond*. Oxford University Press.

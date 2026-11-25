@@ -18,8 +18,7 @@ edges:
 - rel: "evolved_from", target: "Development Economics", target_type: "مدرسة"
 related:
 - id: "dbt-developmental-state-industrial-policy", title: "Developmental State and Industrial Policy", type: "جدل"
-gaps: 
-  - "The East Asian model in Gulf industrialization debates: not yet covered"
+gaps: []
 ---
 # East Asian Developmental State
 
@@ -27,7 +26,7 @@ The American scholar Chalmers Johnson coined the concept of the "developmental s
 
 ## The Ministry of International Trade and Industry
 
-Johnson studied in particular the role of Japan's Ministry of International Trade and Industry (MITI) in guiding large private firms toward specific industrial sectors. It did so mainly through non-coercive instruments: subsidized credit, temporary tariff protection, and investment coordination among competitors, rather than through direct state ownership of the means of production. This model allowed Japan to move from light industry to heavy industry and then to high technology within a few decades, at exceptional rates of growth.
+Johnson studied in particular the role of Japan's Ministry of International Trade and Industry (MITI) in guiding large private firms toward specific industrial sectors. The instruments were subsidized credit, control of foreign exchange and technology imports, temporary tariff protection and investment coordination among competitors, rather than wholesale state ownership of industry. Firms often could not treat this "administrative guidance" as optional, because access to credit and licences depended on it. On Johnson's account, the pattern helped Japan move from light industry toward heavy industry and then toward more technology-intensive sectors. Later historians have disputed how far MITI led the private firms and how far it ratified investments firms already wanted.
 
 ## South Korea and Taiwan: repetition with variation
 
@@ -53,6 +52,10 @@ The model became a key reference in the industrial policy debates of developing 
 
 The model is still invoked today in industrial policy debates in advanced countries themselves, with renewed interest in strategic government intervention in sectors such as semiconductors and renewable energy. This reflects a recurring cycle of rediscovering the lessons of the Asian developmental state whenever confidence wanes in the ability of free markets alone to achieve long-term industrial and strategic goals.
 
+## Gulf comparisons
+
+Policy debates in the oil-exporting Gulf states sometimes cite Japan, South Korea or Taiwan as a model for diversification. The institutional parallel is limited. Gulf public sectors, soft credit and industrial zones sit on hydrocarbon rents rather than on a fiscal system that must extract revenue from a competitive export sector. Work on the Gulf political economy, including Steffen Hertog's studies of Saudi bureaucracy and state-business relations, argues that rentier revenues weaken the export-performance discipline that Amsden and Wade treated as central in Korea and Taiwan, and that bureaucratic capacity is strong in some agencies and weak in others. Naming a pilot ministry after MITI does not reproduce the fiscal and political conditions those authors described.
+
 ## The problem of generalizing a unique historical condition
 
 Comparative scholars point out that the success of the Asian model was also linked to unique historical conditions that are hard to repeat: earlier radical land reforms that distributed land with relative fairness and reduced the influence of large landowners opposed to industrialization; generous American strategic support in the context of the Cold War; and relative social homogeneity that facilitated building a national consensus around the priority of industrial growth. The comparative literature consistently warns that simply copying institutional tools (a directive industry ministry, subsidized credit) is not sufficient to reproduce the same result in a historically and socially very different context.
@@ -63,3 +66,4 @@ Comparative scholars point out that the success of the Asian model was also link
 - Evans, Peter. *Embedded Autonomy: States and Industrial Transformation*. Princeton University Press, 1995.
 - Wade, Robert. *Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization*. Princeton University Press, 1990.
 - Amsden, Alice H. *Asia's Next Giant: South Korea and Late Industrialization*. Oxford University Press, 1989.
+- Hertog, Steffen. *Princes, Brokers, and Bureaucrats: Oil and the State in Saudi Arabia*. Cornell University Press, 2010.

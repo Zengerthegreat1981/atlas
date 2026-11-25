@@ -13,7 +13,7 @@ dates: "Cairo · 7th–8th century AH (13th–14th century CE)"
 country: "Egypt"
 language: "Arabic"
 active_start: 1280
-active_end: 1311
+active_end: 1290
 active_source: "estimate"
 edges:
 - rel: "belongs_to", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
@@ -24,7 +24,7 @@ gaps: []
 
 # Lisān al-ʿArab
 
-A comprehensive encyclopedic traditional Arabic dictionary by Ibn Manzur (Muhammad ibn Mukarram, 630–711 AH / 1232–1311 CE), completed in the late seventh century AH. It is considered the largest comprehensive classical Arabic dictionary in common use. Its author compiled the material of five major earlier Arabic dictionaries into a single comprehensive work.
+A comprehensive encyclopedic Arabic dictionary by Ibn Manẓūr (Muḥammad ibn Mukarram, 630–711 AH / 1232–1311 or 1312 CE). It is generally said to have been completed in 689 AH / 1290 CE. It is the best-known large classical Arabic dictionary in common use. *Tāj al-ʿarūs* of Murtaḍā al-Zabīdī is larger. Ibn Manẓūr compiled the work mainly from five earlier lexical sources.
 
 ## The Five Sources of Compilation
 
@@ -36,7 +36,7 @@ Ibn Manzur arranged his material according to the "rhyme" system (qawafi), that 
 
 ## Size and Comprehensiveness
 
-*Lisān al-ʿArab* occupies some fifteen to twenty volumes depending on the edition (fifteen in the Dar Sadir edition), making it the largest comprehensive classical Arabic dictionary in terms of the material gathered. It does not limit itself to the direct lexical meaning of a word. It cites abundant poetic, Qur'anic and hadith evidence for each usage, alongside scattered grammatical, morphological and dialectal issues that it mentions in the context of explaining roots.
+Printed length depends on the edition. The Bulaq edition (1300–1308 AH / 1883–1890 CE) is in twenty volumes; the Beirut Dār Ṣādir edition (1955–1956) is in fifteen. The dictionary does not limit itself to a single gloss. It cites poetic, Qur'anic and hadith evidence, and it often includes grammatical, morphological and dialectal remarks under the root.
 
 ## The Archival Value of the Traditional Arabic Dictionary
 
@@ -52,7 +52,7 @@ The great value of *Lisān al-ʿArab* lies in having preserved an enormous body 
 
 ## Ibn Manzur's Motives for Compilation
 
-Ibn Manzur lived in the seventh and eighth centuries AH in Mamluk Egypt. This was a period that witnessed great interest in preserving the classical Arabic scientific heritage through comprehensive encyclopedic works, whether in language (such as *Lisān al-ʿArab*) or in history and literature (such as the works of al-Nuwayri and, later, al-Qalqashandi). His explicit desire to preserve the material of the five earlier dictionaries, which faced the danger of disappearance or dispersal, drove him to gather them into a single accessible work. This ensured that later generations could continue to reach this accumulated linguistic wealth.
+Ibn Manẓūr lived in the seventh and eighth centuries AH. He worked in Mamluk Egypt and as a judge in Tripoli, and he died in Cairo. The period produced large encyclopedic compilations in several fields, among them al-Nuwayrī's historical encyclopedia and, later, al-Qalqashandī's chancery manual. In the introduction to the *Lisān*, Ibn Manẓūr presents the book as a gathering of earlier dictionaries into one work, so that their material would remain accessible.
 
 ## Method of Transmission and Attribution Between Sources
 
@@ -68,5 +68,5 @@ In the twelfth century AH, al-Sayyid Murtada al-Zabidi (d. 1205 AH / 1791 CE) co
 
 ## Sources
 
-- Ibn Manzur, Muhammad ibn Mukarram. *Lisan al-Arab*. Beirut: Dar Sadir, 1994 (15 volumes, third edition).
+- Ibn Manzur, Muhammad ibn Mukarram. *Lisan al-Arab*. Beirut: Dar Sadir, 1955–1956 (15 volumes). Bulaq: al-Matba'a al-Kubra al-Amiriyya, 1883–1890 (20 volumes).
 - Haywood, John A. *Arabic Lexicography: Its History and Its Place in the General History of Lexicography*. Leiden: Brill, 1965.

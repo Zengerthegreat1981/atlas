@@ -21,7 +21,7 @@ gaps: []
 ---
 # Gary Becker
 
-**Gary Becker** was an American economist who worked as a professor at the University of Chicago. He is the economist who most extended the logic of marginal maximization and rational choice into fields that had traditionally belonged to sociology and law, from racial discrimination to crime, marriage and addiction. He was awarded the Nobel Memorial Prize in Economic Sciences in 1992 "for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour".
+**Gary Becker** was an American economist and a long-serving professor at the University of Chicago. He applied marginal analysis and rational choice to subjects that had usually been left to sociology and law, including racial discrimination, crime, marriage and addiction. He was awarded the Nobel Memorial Prize in Economic Sciences in 1992 "for having extended the domain of microeconomic analysis to a wide range of human behaviour and interaction, including nonmarket behaviour".
 
 ## The doctoral dissertation: racial discrimination as an economic question
 
@@ -37,11 +37,11 @@ Becker extended his logic to family relationships in his articles on the theory 
 
 ## Human capital theory
 
-Becker made a foundational contribution to developing the concept of **human capital**, notably in *Human Capital* (1964), building on earlier work by Theodore Schultz and Jacob Mincer. He held that spending on education and training is a rational economic investment, in which the individual compares the present cost (tuition fees and the income lost during study) with the expected future return (the higher income expected later), just as an investor evaluates a conventional physical investment project. This framework became fundamental in the economics of education and in human development policy around the world.
+Becker developed the concept of **human capital** in *Human Capital* (1964), building on earlier work by Theodore Schultz and Jacob Mincer. He held that spending on education and training is a rational economic investment, in which the individual compares the present cost (tuition fees and the income lost during study) with the expected future return (the higher income expected later), just as an investor evaluates a conventional physical investment project. This framework became fundamental in the economics of education and in human development policy around the world.
 
 ## Continuity with Robbins's definition
 
-Becker's project represents the most consistent and ambitious application of Lionel Robbins's definition of economics as the "science of choice", independent of the specific subject of that choice. As long as a decision involves scarce resources (time, money, effort) and multiple competing ends, Becker argued that the tools of marginal economic analysis are applicable to it in principle, whether the matter is buying a car or choosing the number of children in a family.
+Becker's project is a sustained application of Lionel Robbins's definition of economics as the science of choice, independent of the particular subject of that choice. As long as a decision involves scarce resources (time, money, effort) and multiple competing ends, Becker argued that the tools of marginal economic analysis are applicable to it in principle, whether the matter is buying a car or choosing the number of children in a family.
 
 ## "Economic imperialism": assessment and critique
 

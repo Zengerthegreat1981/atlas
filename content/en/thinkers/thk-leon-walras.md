@@ -12,7 +12,7 @@ country: "France, Switzerland"
 language: "French"
 economic_school: "General equilibrium theory"
 active_start: 1874
-active_end: 1900
+active_end: 1910
 edges:
 - rel: "belongs_to", target: "General Equilibrium Theory", target_type: "مدرسة"
 related:
@@ -23,7 +23,7 @@ gaps: []
 ---
 # Léon Walras
 
-**Léon Walras** was a French economist, one of the three pioneers of the marginal revolution, and the founder of **general equilibrium theory**. That theory describes how prices and quantities are determined in all markets of the economy together, within a single integrated mathematical system. This contrasts with the analyses of Jevons and Menger, which were limited mainly to a single market or to the behaviour of the individual consumer.
+**Léon Walras** was a French economist, one of the three principal figures of the marginal revolution, with William Stanley Jevons and Carl Menger, and the main architect of **general equilibrium theory**. That theory describes how prices and quantities in all markets are determined together in one system of equations. Jevons and Menger concentrated on the individual and on single markets.
 
 ## An Uncertain Path Before Academic Stability
 
@@ -31,7 +31,7 @@ Walras's early career was far from clear. After studying engineering at the Éco
 
 ## The Simultaneous Equation System of General Equilibrium
 
-Walras published his reference work *Elements of Pure Economics* in two parts (1874 and 1877). It presents a mathematical model that describes an entire economy through a system of simultaneous equations: the supply and demand for each good and the supply and demand for each factor of production, all linked so that a change in one price affects all the other prices across the economy. This ambition to build a comprehensive, integrated model distinguished Walras fundamentally from Jevons and Menger, who restricted themselves to analysing the decisions of the individual consumer or a single market.
+Walras published his reference work *Elements of Pure Economics* in two parts (1874 and 1877). It presents a mathematical model that describes an entire economy through a system of simultaneous equations: the supply and demand for each good and the supply and demand for each factor of production, all linked so that a change in one price affects all the other prices across the economy. The aim of a single model of the whole economy set him apart from Jevons and Menger.
 
 ## The Walrasian Auctioneer: An Imaginary Solution to the Problem of Disequilibrium
 
@@ -47,11 +47,11 @@ Contrary to the stereotype of mathematical economics as necessarily politically 
 
 ## Lack of Recognition in His Lifetime and Later Revival
 
-Walras's work did not receive the broad recognition it deserved during his lifetime. It remained confined to the relatively isolated French-speaking Swiss academic circles, far from the more influential British and German academic centres of the time. Full attention to his model was revived only in the twentieth century. The economist Joseph Schumpeter regarded him as the greatest theoretical economist of all time. Earlier work by Abraham Wald in the 1930s, and then Kenneth Arrow and Gérard Debreu in 1954, built on his framework to provide rigorous mathematical proofs of the existence of general equilibrium, securing Walras's central and lasting place in contemporary mathematical economics.
+During his lifetime the *Éléments* circulated mainly in French-speaking circles and was little used in Britain or Germany. In the twentieth century Joseph Schumpeter ranked Walras as the greatest of pure theorists, a judgement rather than a settled fact. Abraham Wald in the 1930s, and Kenneth Arrow and Gérard Debreu in 1954, supplied existence proofs that Walras's counting of equations had not provided.
 
 ## His Relationship to Pareto and the Legacy of the Lausanne School
 
-Walras was succeeded in the Lausanne chair in 1893 by Vilfredo Pareto. Pareto developed Walras's mathematical tools toward a new criterion of economic efficiency, one that moved beyond the assumption that utility can be measured quantitatively and summed across individuals, an assumption Walras had partly retained in his initial formulation. The intellectual line shared by Walras and Pareto is known as the **Lausanne School**. Historians of economic thought use the term for the Swiss mathematical tradition from which both modern general equilibrium theory and Paretian welfare economics emerged from the same trunk.
+Vilfredo Pareto succeeded Walras in the Lausanne chair in 1893. Pareto replaced Walras's cardinal and interpersonally summed utility with an ordinal criterion of efficiency. Historians call the line from Walras to Pareto the **Lausanne School**, the source of both modern general-equilibrium theory and Paretian welfare economics.
 
 ## A Strictly Mathematical Abstraction
 

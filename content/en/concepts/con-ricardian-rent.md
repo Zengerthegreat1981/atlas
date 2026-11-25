@@ -19,7 +19,7 @@ gaps: []
 ---
 # Ricardian Rent
 
-**Ricardian rent** is a theory developed by **David Ricardo** in *On the Principles of Political Economy and Taxation* (1817) to explain how the rental income earned by owners of agricultural land arises. It was formulated in the context of the sharp political debate over the protectionist British Corn Laws, and similar ideas were put forward at about the same time by Malthus, Edward West and Robert Torrens.
+**Ricardian rent** is a theory developed by **David Ricardo** in *On the Principles of Political Economy and Taxation* (1817) to explain how the rental income earned by owners of agricultural land arises. It was formulated in the debate over the British Corn Laws. Essays of 1815 by Thomas Robert Malthus, Edward West and Robert Torrens had already set out closely related theories of differential rent; Ricardo's *Principles* gave the argument its best-known form.
 
 ## The Basic Mechanism: Marginal Land and Differential Surplus
 
@@ -31,7 +31,7 @@ Ricardo reached an important theoretical conclusion that ran against the common 
 
 ## The Political Use: Opposition to the Corn Laws
 
-Ricardo used this theory as a direct political argument in the debate over the Corn Laws. Protecting domestic grain prices from cheap foreign competition forces society to continue cultivating less fertile land, which raises the rent earned by owners of fertile land at the expense of the profits of industrial capitalists (who pay higher wages to cover a dearer cost of living) and the wages of the workers themselves. In Ricardo's analysis, commercial protection thus becomes a redistribution of income in favour of the landowning class at the expense of the rest of society.
+Ricardo used this theory as a direct political argument in the debate over the Corn Laws. Protecting domestic grain prices from cheaper imports, on his account, forces cultivation onto poorer land. Rent on better land rises. Money wages rise because the cost of the workers' subsistence rises, while the real wage stays near the subsistence level his theory assumed. The residual that is squeezed is profit. Protection, in this analysis, redistributes income toward landlords and away from capitalists.
 
 ## Its Extended Influence on the Theory of Marginal Value
 
@@ -45,3 +45,4 @@ In later neoclassical economics, "economic rent" came to mean any payment to a f
 
 - Ricardo, David. *On the Principles of Political Economy and Taxation*. John Murray, 1817.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.
+- George, Henry. *Progress and Poverty*. 1879.

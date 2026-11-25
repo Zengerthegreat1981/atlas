@@ -28,7 +28,7 @@ gaps: []
 
 # Arabic Rhetorical Sciences: Meaning, Figurative Expression and Embellishment
 
-A classical Arabic body of knowledge that studies and systematically classifies the modes of eloquent linguistic expression. It was founded on ʿAbd al-Qāhir al-Jurjānī's theory of *naẓm* (composition), was systematised by al-Sakkākī, and was set out as a three-branch educational system by al-Qazwīnī.
+A classical Arabic body of knowledge that studies and systematically classifies the modes of eloquent linguistic expression. Its central theory of *naẓm* (composition) was set out by ʿAbd al-Qāhir al-Jurjānī, systematised by al-Sakkākī, and taught as a three-branch curriculum through al-Qazwīnī.
 
 ## From intuition to codification
 
@@ -40,7 +40,7 @@ These sciences began from the analytical vision of ʿAbd al-Qāhir al-Jurjānī 
 
 ## Al-Jurjānī's theory of naẓm in more detail
 
-More than a century before al-Sakkākī, ʿAbd al-Qāhir al-Jurjānī (d. 471 AH) established in *Dalāʾil al-Iʿjāz* a thesis that was revolutionary for its time: the rhetorical inimitability of the Holy Qur'an, and the eloquence of speech in general, lie not in choosing beautiful words in themselves (as some earlier rhetoricians did, focusing on the "eloquence of the single word"), but in *naẓm*, meaning the way words are composed and arranged according to the requirements of precise grammatical meanings (such as fronting and postponement, definiteness and indefiniteness, separation and conjunction, and patterns of emphasis), so that the grammatical meaning itself, rather than the isolated word, becomes the source of rhetorical beauty. This view linked rhetoric to grammar organically in an unprecedented way. Scholars such as Margaret Larkin and Kamal Abu Deeb have studied his theory in relation to modern discussions of the link between grammatical structure and meaning, while cautioning against assimilating it to modern theories.
+More than a century before al-Sakkākī, ʿAbd al-Qāhir al-Jurjānī (d. 471 AH / 1078 CE, though 474 AH is also reported) argued in *Dalāʾil al-Iʿjāz* that the rhetorical inimitability of the Qur'an, and eloquence more generally, lie not in the beauty of isolated words but in *naẓm*: the arrangement of words according to grammatical meanings such as fronting and postponement, definiteness and indefiniteness, separation and conjunction, and emphasis. On this account, rhetorical effect comes from grammatical relations among words. Scholars such as Margaret Larkin and Kamal Abu Deeb have studied the theory in relation to later discussions of structure and meaning, while warning against reading it as a modern semantic theory.
 
 ## Ibn al-Athīr and the competition between two schools
 

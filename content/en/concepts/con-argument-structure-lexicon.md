@@ -38,7 +38,7 @@ The importance of this concept appears clearly in the study of "alternations." A
 
 ## Argument Structure in Arabic
 
-Traditional Arabic grammar, through the notion of transitivity and intransitivity (*ta'addi* and *luzum*), offers an early distinction that parallels modern argument structure. The intransitive verb is satisfied with a single subject, whereas the transitive verb requires one or more objects. Arab grammarians classified transitive verbs into those that take one object and those that take two (such as verbs of "considering" and their sisters, *zanna* and its counterparts). They followed a logic close to the modern idea of lexical "arguments," although the theoretical frameworks used differ radically.
+Traditional Arabic grammar, through the notion of transitivity and intransitivity (*ta'addi* and *luzum*), offers an early distinction that parallels modern argument structure. The intransitive verb is satisfied with a single subject, whereas the transitive verb requires one or more objects. Arab grammarians classified transitive verbs into those that take one object and those that take two (such as verbs of "considering" and their sisters, *zanna* and its counterparts). The classification records how many dependents a verb requires. It is not a theory of thematic roles or of a universal argument hierarchy, and it should not be read as an early statement of LFG or HPSG.
 
 ## Sources
 

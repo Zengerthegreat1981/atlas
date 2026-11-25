@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Neoclassical-Keynesian Synthesis"
 en: "Neoclassical-Keynesian Synthesis"
 crumb: "Political Economy ← Schools ← Neoclassical-Keynesian Synthesis"
-dates: "Britain and America · from 1937 to around 1970"
+dates: "Britain and America · from 1937 to the mid-1970s"
 country: "Britain, United States"
 language: "English"
 economic_school: "Neoclassical-Keynesian synthesis"
@@ -37,7 +37,7 @@ The American economist Paul Samuelson carried this project further in his influe
 
 ## The Phillips curve: a trade-off that seemed stable
 
-The 1958 finding of the economist A. W. Phillips, who showed a historical inverse relationship between the rate of inflation and the rate of unemployment in Britain, reinforced this synthesis with an attractive practical tool for policymakers: a point on the **Phillips curve** could be chosen between a higher rate of inflation and a lower rate of unemployment, or the reverse. For a time this seemed to resolve the problem of macroeconomic management through a single, simple trade-off instrument.
+In 1958 A. W. Phillips reported a historical inverse relationship, for Britain from 1861 to 1957, between unemployment and the rate of change of money wages, not of prices. Paul Samuelson and Robert Solow, in 1960, recast that scatter as a menu between price inflation and unemployment for the United States. Policymakers were then offered a point on the **Phillips curve**: a higher rate of inflation against a lower rate of unemployment, or the reverse. For a time this seemed to resolve macroeconomic management through a single trade-off. The step from wage change to price inflation was an addition to Phillips's article, and it is the step that later failed.
 
 ## Academic and political dominance
 
@@ -57,11 +57,13 @@ The synthesis went beyond the boundaries of the university into the decision-mak
 
 ## The spread of the synthesis into global curricula
 
-The synthesis spread through translations of Samuelson's textbook into dozens of languages and its adoption in universities around the world, from Japan to Latin America. It thereby became the almost sole reference framework through which a whole generation of economics students learned the basics of macroeconomics, before curricula diversified and introduced alternative theoretical approaches in response to the rise of monetarism and the New Classical school.
+The synthesis spread through translations of Samuelson's textbook into dozens of languages and its adoption in universities around the world, from Japan to Latin America. For many students outside the specialist journals it was the main framework through which macroeconomics was learned, before curricula widened in response to monetarism and the New Classical school.
 
 ## Sources
 
 - Hicks, John R. "Mr. Keynes and the 'Classics': A Suggested Interpretation." *Econometrica*, vol. 5, no. 2, 1937, pp. 147–159.
 - Samuelson, Paul A. *Economics: An Introductory Analysis*. McGraw-Hill, 1948.
+- Samuelson, Paul A. *Foundations of Economic Analysis*. Harvard University Press, 1947.
+- Samuelson, Paul A., and Robert M. Solow. "Analytical Aspects of Anti-Inflation Policy." *American Economic Review*, vol. 50, no. 2, 1960, pp. 177–194.
 - Phillips, A. W. "The Relation between Unemployment and the Rate of Change of Money Wage Rates in the United Kingdom, 1861-1957." *Economica* 25(100), 1958.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.

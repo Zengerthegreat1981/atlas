@@ -57,3 +57,6 @@ The results depend on longitudinal studies, which are difficult to conduct, and 
 - Kessler, R. C., et al. (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Archives of General Psychiatry, 62(6), 593–602.
 - Moffitt, T. E. (1993). Adolescence-limited and life-course-persistent antisocial behavior: a developmental taxonomy. Psychological Review, 100(4), 674–701.
 - Weinberger, D. R. (1987). Implications of normal brain development for the pathogenesis of schizophrenia. Archives of General Psychiatry, 44(7), 660–669.
+- Murray, R. M., & Lewis, S. W. (1987). Is schizophrenia a neurodevelopmental disorder? British Medical Journal, 295, 681–682.
+- Caspi, A., et al. (2003). Influence of life stress on depression: moderation by a polymorphism in the 5-HTT gene. Science, 301(5631), 386–389.
+- Caspi, A., et al. (2014). The p factor: one general psychopathology factor in the structure of psychiatric disorders. Clinical Psychological Science, 2(2), 119–137.

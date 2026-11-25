@@ -24,7 +24,7 @@ gaps: []
 
 ## Simultaneous Origins with Chamberlin and Robinson
 
-The concept was published almost simultaneously in 1933 in two independent works: **Edward Chamberlin** in *The Theory of Monopolistic Competition*, and **Joan Robinson** in *The Economics of Imperfect Competition*. The two works filled a gap in neoclassical analysis, which had been restricted to two sharply opposed extremes (perfect competition or pure monopoly). Most real markets, such as restaurants, retail shops and clothing, lie in the middle ground between them.
+Two related but not identical theories appeared independently in 1933. **Edward Chamberlin**, in *The Theory of Monopolistic Competition*, analysed many sellers of differentiated products and gave the structure its usual name. **Joan Robinson**, in *The Economics of Imperfect Competition*, analysed markets in which firms face downward-sloping demand, including cases of monopsony, under the broader heading of imperfect competition. Both moved neoclassical price theory beyond the textbook poles of perfect competition and pure monopoly. Many ordinary markets, such as restaurants, retail shops and clothing, sit between those poles.
 
 ## The Long-Run Equilibrium Mechanism
 

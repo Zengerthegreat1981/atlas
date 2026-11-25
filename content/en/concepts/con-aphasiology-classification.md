@@ -13,8 +13,7 @@ edges:
 - rel: "belongs_to", target: "Classical Neurolinguistics", target_type: "مدرسة"
 related:
 - id: "con-broca-wernicke-lichtheim-model", title: "Broca-Wernicke-Lichtheim Model", type: "مفهوم"
-gaps:
-  - "Detailed clinical descriptions of the individual aphasia syndromes: not yet covered here"
+gaps: []
 ---
 
 # Aphasiology & Aphasia Classification
@@ -25,7 +24,7 @@ Aphasia classification is the clinical-linguistic system that classifies disorde
 
 ## Classificatory Principle
 
-The classical classification rests on the intersection of three performance axes: spoken fluency (intact or impaired), auditory comprehension (intact or impaired), and verbal repetition (intact or impaired). From the intersection of these axes, specific syndromes are derived. Broca's aphasia involves impaired fluency, relatively intact comprehension, and impaired repetition. Wernicke's aphasia involves apparently fluent speech with verbal jargon, impaired comprehension, and impaired repetition. Conduction aphasia involves relatively intact fluency and comprehension with a severe deficit in direct repetition. Global aphasia disrupts all axes. The transcortical aphasias (motor, sensory, and mixed), in which repetition is relatively preserved, are further categories in the Boston-style scheme. Anomic or nominal aphasia is a selective deficit in naming objects, with all other axes intact.
+The classical classification rests on the intersection of three performance axes: spoken fluency (intact or impaired), auditory comprehension (intact or impaired), and verbal repetition (intact or impaired). From the intersection of these axes, specific syndromes are derived. Broca's aphasia involves impaired fluency, relatively intact comprehension, and impaired repetition. Wernicke's aphasia involves apparently fluent speech with verbal jargon, impaired comprehension, and impaired repetition. Conduction aphasia involves relatively intact fluency and comprehension with a severe deficit in direct repetition. Global aphasia disrupts all axes. The transcortical aphasias (motor, sensory, and mixed), in which repetition is relatively preserved, are further categories in the Boston-style scheme. Anomic or nominal aphasia is a selective deficit in naming, with fluency, comprehension, and repetition relatively spared. In clinical use these labels are profiles, not pure types. Broca's aphasia often includes agrammatism: short utterances with few function words and simplified verb inflection, alongside effortful articulation. Wernicke's aphasia often includes empty circumlocution, semantic or phonemic paraphasias, and poor awareness of the deficit. Conduction aphasia is marked by phonemic paraphasias that worsen on repetition, with relatively spared comprehension of ordinary conversation. Global aphasia combines severely limited output with severely limited comprehension. Transcortical motor aphasia resembles Broca's aphasia but repetition is spared; transcortical sensory aphasia resembles Wernicke's aphasia but repetition, including of sentences the person does not understand, is relatively spared. Anomia may occur alone or remain after other syndromes have improved.
 
 ## Anatomical Basis and Contemporary Critique
 
@@ -41,3 +40,4 @@ The classical classification remains a standard communicative tool among physici
 - Dronkers, N. F., Wilkins, D. P., Van Valin, R. D., Redfern, B. B., & Jaeger, J. J. (2004). "Lesion analysis of the brain areas involved in language comprehension." *Cognition*, 92(1-2), 145-177.
 - Hickok, G., & Poeppel, D. (2007). "The cortical organization of speech processing." *Nature Reviews Neuroscience*, 8(5), 393-402.
 - Benson, D. F., & Ardila, A. (1996). *Aphasia: A Clinical Perspective*. Oxford University Press.
+- Kertesz, Andrew. *The Western Aphasia Battery*. Grune & Stratton, 1982.

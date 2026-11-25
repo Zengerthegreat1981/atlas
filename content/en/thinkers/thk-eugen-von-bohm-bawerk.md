@@ -27,7 +27,7 @@ gaps: []
 
 ## Academic and political career
 
-Böhm-Bawerk combined an academic career, as professor at the University of Innsbruck (from 1881) and later at the University of Vienna (from 1904), with a senior career in the Austrian civil service. He served three times as Austrian Minister of Finance (1895, 1896–1897 and 1900–1904), applying conservative fiscal policies reflecting his commitment to balanced budgets and the gold standard. He resigned from his last term in 1904 amid disputes over rising military spending, which he regarded as a threat to the state's financial stability.
+Böhm-Bawerk combined an academic career with senior service in the Austrian finance ministry. He habilitated in Vienna in 1880, became an associate professor at Innsbruck in 1881 (ordinary professor from 1884), and returned to a professorship at Vienna in 1904. He served three times as Austrian Minister of Finance (June–October 1895, November 1897–March 1898, and January 1900–1904). In office he defended balanced budgets and the gold standard, and he resigned in 1904 when higher military spending threatened the budget.
 
 ## The theory of capital and interest
 

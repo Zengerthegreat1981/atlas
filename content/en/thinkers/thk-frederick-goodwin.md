@@ -29,7 +29,7 @@ The earliest descriptions of periodic depression and mania in the medical tradit
 
 ## Professional Career
 
-Goodwin held senior research posts at the National Institute of Mental Health (NIMH), including scientific director in the 1980s, where he led clinical research on affective illnesses. From 1988 he headed the Alcohol, Drug Abuse, and Mental Health Administration (ADAMHA). In February 1992, his remarks before the National Advisory Mental Health Council about violence in urban neighborhoods, in which he likened it to the behavior of male monkeys in the wild, sparked a wide political controversy in which critics accused him of racism. He stepped down from the administration and moved to the directorship of the NIMH, which he held until 1994. He later served as clinical professor of psychiatry at George Washington University Medical Center, where he directed the Center for Neuroscience, Medical Progress, and Society, and hosted the radio program *The Infinite Mind* in the United States.
+Goodwin held senior research posts at the National Institute of Mental Health (NIMH), including director of intramural research, where he led clinical work on affective illnesses. He then headed the Alcohol, Drug Abuse, and Mental Health Administration (ADAMHA). In February 1992, remarks to the National Advisory Mental Health Council compared violence in poor urban neighborhoods with the behavior of male monkeys in the wild. Critics called the comparison racist. He left the ADAMHA post and served as director of the NIMH from 1992 until 1994. He later served as clinical professor of psychiatry at George Washington University Medical Center, where he directed the Center for Neuroscience, Medical Progress, and Society, and hosted the radio program *The Infinite Mind* in the United States.
 
 ## Contributions
 
@@ -39,7 +39,7 @@ Together with Kay Redfield Jamison, he wrote *Manic-Depressive Illness* (Oxford 
 
 ### Lithium Research and Suicide Prevention
 
-In 1969, Goodwin, Murphy, and Bunney published in the *Archives of General Psychiatry* a controlled longitudinal study of lithium in mania and depression, which was among the early controlled studies of lithium in the United States. In 2003 he led a large study of more than twenty thousand patients with bipolar disorder in an American health system, which found that the risk of suicide was higher (about 2.7-fold for suicide deaths) during treatment with divalproex than during treatment with lithium, a finding often cited in support of lithium's anti-suicidal effect.
+In 1969, Goodwin, Murphy, and Bunney published in the *Archives of General Psychiatry* a controlled longitudinal study of lithium in mania and depression, which was among the early controlled studies of lithium in the United States. In 2003 he was the lead author of a retrospective cohort study of about 21,000 patients treated for bipolar disorder in two large integrated health plans. After adjustment, the risk of suicide death during divalproex treatment was about 2.7 times the risk during lithium treatment, and nonfatal attempts were also more common on divalproex. The finding is often cited in discussions of lithium and suicide. The study was observational.
 
 ### Contribution to Psychopharmacology
 
@@ -51,7 +51,7 @@ The reference work Goodwin wrote with Jamison forms the foundation on which the 
 
 ## Limits and Criticism
 
-His public statements in 1992 about possible biological links between violence and behavior sparked a wide political controversy. Critics argued that they used a biological claim to explain a social phenomenon linked to poverty and discrimination, and linked them to what became known as the "violence initiative," which met with wide opposition. In 2008, a United States Senate investigation led by Senator Chuck Grassley revealed that Goodwin had received large sums from pharmaceutical companies for lectures, while his radio program presented information on depression treatment without sufficient disclosure. This case is cited in discussions of conflicts of interest in psychiatry. It should also be noted that the 2003 lithium and divalproex study was observational rather than a randomized trial, so it cannot rule out differences between the patients in the two groups.
+His public statements in 1992 about possible biological links between violence and behavior sparked a wide political controversy. Critics argued that they used a biological claim to explain a social phenomenon linked to poverty and discrimination, and linked them to what became known as the "violence initiative," which met with wide opposition. In 2008, a United States Senate investigation led by Senator Chuck Grassley revealed that Goodwin had received large sums from pharmaceutical companies for lectures, while his radio program presented information on depression treatment without sufficient disclosure. This case is cited in discussions of conflicts of interest in psychiatry. The 2003 comparison of lithium and divalproex was not a randomized trial, so differences between the patients who received each drug cannot be ruled out. The project was funded by a company that marketed a lithium preparation, which belongs in any reading of the result.
 
 ## Sources
 

@@ -27,7 +27,7 @@ gaps: []
 ---
 # Keynesian Economics
 
-**Keynesian economics** is a school of political economy founded on the ideas of the British economist **John Maynard Keynes**, above all in his pivotal book *The General Theory of Employment, Interest and Money* (1936). It rests on a premise that was revolutionary for its time: the economy can settle at an equilibrium marked by long-lasting **involuntary unemployment**, without market forces automatically pushing it toward full employment. State intervention through fiscal and monetary policy is therefore not a departure from efficiency but, at times, a necessary condition for achieving it.
+**Keynesian economics** is a school of political economy founded on the ideas of the British economist **John Maynard Keynes**, above all in his pivotal book *The General Theory of Employment, Interest and Money* (1936). It rests on a premise that broke with the teaching then dominant in Britain: the economy can settle at an equilibrium marked by long-lasting **involuntary unemployment**, without market forces automatically pushing it toward full employment. State intervention through fiscal and monetary policy is therefore not a departure from efficiency but, at times, a necessary condition for achieving it.
 
 ## The Context of Birth: The Great Depression and the Failure of Classical Theory
 
@@ -47,7 +47,7 @@ Keynes also developed an alternative theory of how the interest rate is determin
 
 ## Academic Reception and Global Spread
 
-Keynesian ideas spread rapidly through American and British universities after the war and became the dominant framework for teaching macroeconomics until the mid-1970s. John Hicks then developed the IS-LM model as a simplified mathematical formulation of Keynes's original ideas, and Paul Samuelson expanded it into the "neoclassical-Keynesian synthesis" that came to dominate the textbooks.
+Keynesian ideas spread rapidly through American and British universities after the war and became the dominant framework for teaching macroeconomics until the mid-1970s. The main teaching device was already in place before the war: in 1937 John Hicks set out the IS-LM diagram as a simplified reading of Keynes's argument. Paul Samuelson then built that reading into the "neoclassical-Keynesian synthesis" that came to dominate the textbooks. The synthesis is treated in its own entry.
 
 ## The Crisis and the Challenge: Stagflation in the 1970s
 

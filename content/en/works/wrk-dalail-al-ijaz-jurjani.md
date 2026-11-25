@@ -22,7 +22,7 @@ gaps: []
 
 ## Definition
 
-*Dalāʾil al-Iʿjāz* is the most important foundational work of ʿAbd al-Qahir al-Jurjani (died 471 AH / 1078 CE; some sources give 474 AH). In it he set out his theory of "nazm" (composition, syntactic arrangement) in detail. He showed that the rhetorical inimitability of the Qur'an lies not in its individual words taken alone, but in the particular grammatical way they are composed. This composition achieves a complete correspondence between the arrangement of words and the arrangement of meanings in the mind. Together with his other book, *Asrār al-Balāgha* (The Secrets of Eloquence), this work is regarded as the cornerstone on which the systematic later science of Arabic rhetoric was built.
+*Dalāʾil al-Iʿjāz* ("The Proofs of Inimitability") is a principal work of ʿAbd al-Qāhir al-Jurjānī (died 471 AH / 1078 CE; some sources give 474 AH). In it he set out his theory of *naẓm* (composition, syntactic arrangement). He argued that the rhetorical inimitability of the Qur'an lies not in its individual words taken alone, but in the grammatical way they are composed, so that the arrangement of words answers to the arrangement of meanings. Together with *Asrār al-Balāgha* (The Secrets of Eloquence), the book is a main source for the later systematic teaching of Arabic rhetoric. The relative order of the two books is uncertain.
 
 ## Historical Context
 
@@ -44,11 +44,11 @@ Al-Jurjani applied this theory to explain the inimitability of the Qur'an, that 
 
 ## Impact and Criticism
 
-This book laid the theoretical foundation on which all subsequent Arabic rhetorical sciences were built, especially the science of meanings. It became a founding reference for every later Arab theory in stylistics and in Qur'anic inimitability. The modern revival of interest in the theory of nazm is associated with Muhammad Abduh (d. 1905), who promoted the study of the book, and with later scholars. Some of them, such as Amin al-Khuli and Tammam Hassan, saw in it an early anticipation of modern structural linguistic ideas. These scholars emphasized that meaning is a function of the syntactic relations among elements, not a property inherent in each element alone. Others warned against exaggerating this parallel between two historically and methodologically very distant contexts.
+The book strongly shaped the later science of meanings (*ʿilm al-maʿānī*). It has remained a basic reference for Arabic stylistics and for discussions of Qur'anic inimitability. Modern interest in *naẓm* owes much to Muḥammad ʿAbduh (d. 1905), who taught the book; Rashīd Riḍā published an edition that records notes from that teaching. Later writers, including Amīn al-Khūlī and Tammām Ḥassān, compared al-Jurjānī's claim that meaning depends on syntactic relations with ideas in modern structural linguistics. Others have warned against treating that comparison as a historical identity between two distant projects.
 
 ## The Arab-Islamic Heritage Connection
 
-This book essentially represents the peak of an authentic Arab-Islamic contribution to the theory of language and meaning. The theory of nazm arose entirely from within the Arab-Islamic tradition, in response to a theological question, namely the inimitability of the Qur'an. It was not borrowed from a foreign heritage. The book has remained strongly present in modern studies on the relationship between language and revelation, and it has influenced contemporary thinkers concerned with issues of Qur'anic inimitability and interpretation. It is also a basic reference for anyone who studies modern Arabic stylistic theory as a methodological extension of al-Jurjani's project of linking rhetorical beauty to the syntactic structure of language rather than to its superficial verbal ornament.
+The theory of *naẓm* was developed inside the Arabic tradition, in response to the theological question of the Qur'an's inimitability. There is no good evidence that al-Jurjānī borrowed the theory from a non-Arabic source. The book remains a standard reference in studies of language and revelation and in modern Arabic stylistics that link rhetorical effect to syntactic structure rather than to ornamental wording alone.
 
 ## Sources
 

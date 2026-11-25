@@ -8,7 +8,7 @@ title: "Political Economy of the Middle East and North Africa: The Authoritarian
 en: "Political Economy of the Middle East and North Africa"
 crumb: "Political Economy ← Branches ← Political Economy of the Middle East and North Africa"
 economic_school: "Rentier state theory"
-active_start: 1987
+active_start: 1970
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Rentier State Theory", target_type: "مدرسة"
@@ -23,7 +23,7 @@ The **political economy of the Middle East and North Africa** is a distinct rese
 
 ## The Intellectual Origin: The Rentier State Literature
 
-The concept of the "rentier state" was introduced by Hossein Mahdavi in 1970 in a study of Iran. The current's founding roots lie in the 1987 volume *The Rentier State*, edited by the Egyptian economist Hazem Beblawi and the Italian political economist Giacomo Luciani, whose contributors developed a central hypothesis. Beblawi defined a rentier state as one in which rents are external, accrue to the government and are the dominant source of its income; Luciani developed the link to representation and the "allocation state". When the state's income depends mainly on external rent (oil revenues sold abroad) rather than on taxes levied on its locally productive citizens, the structural need for representative accountability weakens. The logic is "no taxation without representation," and so, conversely, there is little need for genuine representation where there is no taxation. A political relationship arises that differs fundamentally from that of states with a tax-based economy. The state distributes rent (government jobs, subsidies, free services) in exchange for popular acceptance of the absence of effective political accountability. This is often called the "rentier social contract." Its generalisation across very different states (oil and non-oil, monarchic and republican) is itself debated, and no single pattern explains all cases equally.
+The concept of the "rentier state" was introduced by Hossein Mahdavy in 1970 in a study of Iran. The current's founding roots lie in the 1987 volume *The Rentier State*, edited by the Egyptian economist Hazem Beblawi and the Italian political economist Giacomo Luciani, whose contributors developed a central hypothesis. Beblawi defined a rentier state as one in which rents are external, accrue to the government and are the dominant source of its income; Luciani developed the link to representation and the "allocation state". When the state's income depends mainly on external rent (oil revenues sold abroad) rather than on taxes levied on its locally productive citizens, the structural need for representative accountability weakens. The logic is "no taxation without representation," and so, conversely, there is little need for genuine representation where there is no taxation. A political relationship arises that differs fundamentally from that of states with a tax-based economy. The state distributes rent (government jobs, subsidies, free services) in exchange for popular acceptance of the absence of effective political accountability. This is often called the "rentier social contract." Its generalisation across very different states (oil and non-oil, monarchic and republican) is itself debated, and no single pattern explains all cases equally.
 
 ## Extending the Model to Non-Oil States
 
@@ -31,7 +31,7 @@ Later work, including the textbook of Alan Richards and John Waterbury, extended
 
 ## The "Authoritarian Resilience" Argument After the 2011 Uprisings
 
-This current renewed itself strongly after the Arab uprisings of 2011, when researchers tried to explain why some regimes, particularly the oil-rich Gulf monarchies, withstood the wave of protests more easily than non-oil republics such as Tunisia and Egypt. Gulf states introduced large additional social spending packages immediately. Saudi Arabia, for example, announced social spending packages in 2011 that were widely reported at roughly 130 billion dollars in total, made possible by its ample financial reserves. This confirmed the logic of "buying loyalty with rent." Non-oil republics, by contrast, lacked a comparable financial margin to absorb popular anger economically. Rent alone does not account for the outcomes, however: the regimes in Tunisia and Egypt fell, while Syria and Yemen slid into prolonged civil conflict.
+This current renewed itself strongly after the Arab uprisings of 2011, when researchers tried to explain why some regimes, particularly the oil-rich Gulf monarchies, withstood the wave of protests more easily than non-oil republics such as Tunisia and Egypt. Gulf states introduced large additional social spending packages immediately. Saudi Arabia announced successive packages in early 2011, financed from oil revenue, which many observers read as an attempt to shore up loyalty with public spending. Non-oil republics, by contrast, lacked a comparable financial margin to absorb popular anger economically. Rent alone does not account for the outcomes, however: the regimes in Tunisia and Egypt fell, while Syria and Yemen slid into prolonged civil conflict.
 
 ## A Critique of Excessive Rentier Determinism
 
@@ -61,5 +61,5 @@ This current draws on deliberate comparisons with other regions that have seen s
 
 - Beblawi, Hazem, and Giacomo Luciani, editors. *The Rentier State*. Croom Helm, 1987.
 - Richards, Alan, and John Waterbury. *A Political Economy of the Middle East*. 3rd ed., Westview Press, 2008.
-- Mahdavi, Hossein. "The Patterns and Problems of Economic Development in Rentier States: The Case of Iran." In *Studies in the Economic History of the Middle East*, edited by M. A. Cook, Oxford University Press, 1970.
+- Mahdavy, Hossein. "The Patterns and Problems of Economic Development in Rentier States: The Case of Iran." In *Studies in the Economic History of the Middle East*, edited by M. A. Cook, Oxford University Press, 1970.
 - Ross, Michael L. "Does Oil Hinder Democracy?" *World Politics*, vol. 53, no. 3, 2001, pp. 325–361.

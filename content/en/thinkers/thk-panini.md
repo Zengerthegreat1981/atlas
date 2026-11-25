@@ -26,11 +26,11 @@ gaps: []
 
 ## Definition
 
-Pāṇini was an ancient Indian grammarian, author of the *Aṣṭādhyāyī* ("the one with eight chapters"), the earliest complete formal grammatical system known in human history, more than two thousand years earlier than modern generative grammar. His work is a unique achievement in the history of human thought for its formal precision and symbolic economy. It has been described as the first system that, in its logical rigor, approaches modern mathematical systems centuries before they appeared.
+Pāṇini was an ancient Indian grammarian, author of the *Aṣṭādhyāyī* ("eight chapters"), the earliest surviving complete formal grammar of a language. It long predates modern generative grammar. Its economy of rules and its symbolic notation are the features for which later linguists have studied it.
 
 ## Historical Context
 
-Pāṇini most likely lived in the region of Gandhara (northwest of the Indian subcontinent, in present-day Pakistan). Researchers' estimates place the period somewhere between the sixth and fourth centuries BCE. His work was the culmination of a long tradition of phonetic and grammatical study of Vedic Sanskrit, which needed precise control to preserve the sacred religious texts (the Veda) from distortion through exact oral transmission from generation to generation. This path was preceded by the scholars of Vedic phonetics who wrote the treatises known as "Prātiśākhya." It was followed by great commentators such as Kātyāyana, who wrote critical notes (Vārttikas) on his rules, and Patañjali, who composed the *Mahābhāṣya*, the most comprehensive commentary on his work.
+Tradition places Pāṇini at Śalātura in Gandhāra (the northwest of the subcontinent, in present-day Pakistan). The usual scholarly range is the fifth or fourth century BCE; the exact century is not settled. The frontmatter dates are that estimate, not a documented lifespan. His work was the culmination of a long tradition of phonetic and grammatical study of Vedic Sanskrit, which needed precise control to preserve the sacred religious texts (the Veda) from distortion through exact oral transmission from generation to generation. This path was preceded by the scholars of Vedic phonetics who wrote the treatises known as "Prātiśākhya." It was followed by great commentators such as Kātyāyana, who wrote critical notes (Vārttikas) on his rules, and Patañjali, who composed the *Mahābhāṣya*, the most comprehensive commentary on his work.
 
 ## Main Ideas and Method
 
@@ -38,11 +38,11 @@ Pāṇini described the rules of the Sanskrit language in about four thousand ru
 
 ## Key Works and Figures
 
-His only surviving work is the *Aṣṭādhyāyī*, composed of eight chapters (Adhyāya), each containing four sections. Kātyāyana later commented on his work in the *Vārttikas*, and Patañjali in the *Mahābhāṣya*. Together with him they are traditionally known as the "Three Sages" (Trimuni) who founded classical Sanskrit grammatical science. Pāṇini distinguished precisely between the root and the morphological affixes and their various grammatical functions. This morphological analysis was far more explicit than anything in the Western tradition until the nineteenth century.
+His only surviving work is the *Aṣṭādhyāyī*, composed of eight chapters (Adhyāya), each containing four sections. Kātyāyana later commented on his work in the *Vārttikas*, and Patañjali in the *Mahābhāṣya*. With him they are traditionally called the three sages (*trimuni*) of classical Sanskrit grammar. Pāṇini separates roots from affixes and states the conditions under which affixes apply. Historians of linguistics often contrast that explicit morphology with the much later development of comparable analysis in Europe.
 
 ## Impact and Criticism
 
-Pāṇini's grammar became known to European scholars in the late eighteenth and early nineteenth centuries (it was edited by Otto Böhtlingk in 1839–40), at a time when William Jones (1786) had drawn attention to the kinship between Sanskrit, Greek and Latin and Franz Bopp was founding comparative Indo-European grammar. The Indian grammatical tradition influenced the descriptive practice of nineteenth-century Indo-European linguistics. His method was later cited as a prominent historical precedent for modern generative formalism. Leonard Bloomfield praised the *Aṣṭādhyāyī* highly, and Chomsky and others have pointed to its formal affinities with modern generative formalism. Specialists such as Paul Kiparsky have studied how its rule-ordering conventions work. The text is nevertheless extremely dense, and its rules are normally interpreted with the help of the commentarial tradition.
+European Sanskritists used the *Aṣṭādhyāyī* from the early nineteenth century. Otto Böhtlingk published an edition in 1839–40, in the decades after William Jones's 1786 statement of kinship among Sanskrit, Greek and Latin and during Franz Bopp's comparative work. Leonard Bloomfield wrote of the grammar with high regard. Paul Kiparsky and others have studied its rule ordering. Comparisons with generative formalism are modern analogies; they are not evidence that Pāṇini anticipated generative theory. The sūtras are extremely dense and are normally read with the commentarial tradition.
 
 ## Relation to the Arabic-Islamic Tradition
 

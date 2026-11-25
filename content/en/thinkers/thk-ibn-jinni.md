@@ -23,7 +23,7 @@ gaps: []
 
 # Abū al-Fatḥ ʿUthmān ibn Jinnī
 
-An Arab grammarian and linguist of Byzantine (Roman) origin, born in Mosul, who spent most of his scholarly life in Baghdad. He is regarded as the most important student of Abū ʿAlī al-Fārisī (he attended his lessons for decades), and as one of the foremost theorists of the foundations of analogy and hearing in Arabic grammar. In his book *al-Khaṣāʾiṣ* he was also among the first to present a theoretical account of the origin and emergence of language in the Arab heritage.
+An Arab grammarian and linguist of Byzantine (Roman) origin, born in Mosul, who spent most of his scholarly life in Baghdad. He is the best-known student of Abū ʿAlī al-Fārisī, whose lessons he attended for many years, and a major theorist of analogy (*qiyās*) and attested usage (*samāʿ*) in Arabic grammar. In *al-Khaṣāʾiṣ* he also set out a sustained discussion of the origin of language within the Arabic tradition.
 
 ## Biography
 
@@ -51,7 +51,7 @@ One of Ibn Jinnī's most debated ideas is his view that there is a non-arbitrary
 
 ## Legacy
 
-Ibn Jinnī is among the first in the Arab heritage to offer something close to an organized "philosophy of language," moving beyond describing phenomena to questioning their foundations. This is why modern historians of linguistics (such as Kees Versteegh, Georges Bohas and Djamel Eddine Kouloughli, and Yasir Suleiman) read *al-Khaṣāʾiṣ* as a foundational text in the theory of medieval Arabic language, and as a recurring point of comparison with modern linguistic questions (the relation between sound and meaning, and whether language is natural or conventional). His commentary on the *Dīwān* of al-Mutanabbī remained an essential reference in literary study, and his phonetic investigations in *Sirr Ṣināʿat al-Iʿrāb* remained a standard reference for scholars of Arabic morphology and inflection.
+Ibn Jinnī is one of the medieval Arabic authors who moved from describing grammatical facts to asking about their foundations, in something close to a philosophy of language. This is why modern historians of linguistics (such as Kees Versteegh, Georges Bohas and Djamel Eddine Kouloughli, and Yasir Suleiman) read *al-Khaṣāʾiṣ* as a foundational text in the theory of medieval Arabic language, and as a recurring point of comparison with modern linguistic questions (the relation between sound and meaning, and whether language is natural or conventional). His commentary on the *Dīwān* of al-Mutanabbī remained an essential reference in literary study, and his phonetic investigations in *Sirr Ṣināʿat al-Iʿrāb* remained a standard reference for scholars of Arabic morphology and inflection.
 
 Finally, Ibn Jinnī's reliance, like almost all grammarians of his time, on the verses of pre-Islamic and early Islamic poetry as "eloquent" evidence places his linguistic material within a literary register of selected eloquent usage. It does not represent the actual variety of language use in Arab societies at that time. This limitation is shared by all traditional Arabic grammar and is not unique to Ibn Jinnī, but it remains relevant when assessing how far his claims about the "nature" of the Arabic language can be generalized.
 
@@ -59,7 +59,7 @@ Finally, Ibn Jinnī's reliance, like almost all grammarians of his time, on the 
 
 It is worth distinguishing Ibn Jinnī the literary commentator, who explained poets such as al-Mutanabbī, from Ibn Jinnī the theorist, who sometimes tried to apply general philosophical conceptions of language to partial grammatical facts without always maintaining a strict distinction between the two levels. This overlap between a refined literary sensibility and abstract linguistic theorizing is what gives *al-Khaṣāʾiṣ* its richness, but it also makes it sometimes difficult to derive one coherent theoretical system from it apart from its scattered partial contexts across its chapters.
 
-The thesis of the "greater derivation" remained more intuitive than systematically demonstrated. Ibn Jinnī himself acknowledges that it is not a consistent rule, and later grammarians criticized it as a selective induction that does not hold up against many counterexamples. Likewise, the term "origin of language" for him remained closer to an inherited theological question (divine revelation or convention) than to an empirical investigation, given the absence of any means of historical verification available to him. He based most of his linguistic material on the texts of pre-Islamic and early Islamic poetry as "eloquent" without systematically addressing the actual dialectal variation among the Arab tribes.
+The thesis of the "greater derivation" remained more intuitive than systematically shown. Ibn Jinnī does not present it as a rule without exceptions, and later grammarians treated it as a selective induction open to counterexamples. Likewise, the term "origin of language" for him remained closer to an inherited theological question (divine revelation or convention) than to an empirical investigation, given the absence of any means of historical verification available to him. He based most of his linguistic material on the texts of pre-Islamic and early Islamic poetry as "eloquent" without systematically addressing the actual dialectal variation among the Arab tribes.
 
 ### Al-Munṣif and the morphological heritage
 

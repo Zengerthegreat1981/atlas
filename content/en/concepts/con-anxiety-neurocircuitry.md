@@ -35,7 +35,7 @@ This neural framework provides a biological basis for understanding how **exposu
 
 ## Limits
 
-Most of the evidence for this model comes from animal studies (especially rodents) of Pavlovian fear conditioning. Its direct translation to the cognitive and social complexity of human anxiety disorders (such as social anxiety, or chronic generalized anxiety not linked to a specific stimulus) remains a subject of debate and methodological caution.
+Most of the evidence for this model comes from animal studies (especially rodents) of Pavlovian threat conditioning. LeDoux has argued that these circuits are better described as systems for detecting and responding to threat, and that equating their activity with the conscious feeling of fear goes beyond what the animal experiments show (LeDoux, 2014). Translation to the cognitive and social complexity of human anxiety disorders (such as social anxiety, or chronic generalized anxiety not linked to a specific stimulus) remains a subject of debate and methodological caution. The Etkin and Wager meta-analysis also found the prefrontal pattern more consistent in posttraumatic stress disorder than across every anxiety diagnosis.
 
 ## Sources
 
@@ -43,3 +43,4 @@ Most of the evidence for this model comes from animal studies (especially rodent
 - LeDoux, Joseph E. "Emotion Circuits in the Brain." *Annual Review of Neuroscience* 23 (2000): 155–184.
 - Milad, Mohammed R., and Gregory J. Quirk. "Fear Extinction as a Model for Translational Neuroscience: Ten Years of Progress." *Annual Review of Psychology* 63 (2012): 129–151.
 - Etkin, Amit, and Tor D. Wager. "Functional Neuroimaging of Anxiety: A Meta-Analysis of Emotional Processing in PTSD, Social Anxiety Disorder, and Specific Phobia." *American Journal of Psychiatry* 164, no. 10 (2007): 1476–1488.
+- LeDoux, Joseph E. "Coming to Terms with Fear." *Proceedings of the National Academy of Sciences* 111, no. 8 (2014): 2871–2878.

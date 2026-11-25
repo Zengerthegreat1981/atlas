@@ -30,7 +30,7 @@ gaps: []
 
 # Generative-Transformational Grammar
 
-A methodological revolution in linguistics launched by Noam Chomsky with his book *Syntactic Structures* (1957), which overturned the foundations of behaviorist American structuralism and turned linguistics into a branch of the cognitive sciences.
+A research program in syntax begun by Noam Chomsky in *Syntactic Structures* (1957). It rejected the behaviorist and discovery-procedure goals of much post-Bloomfieldian American linguistics and treated a grammar as a formal theory of a speaker's knowledge of language. Over the next decade it became a major part of the emerging cognitive sciences.
 
 ## Break with Distributionalism
 
@@ -48,7 +48,7 @@ Generative grammar has not remained a single fixed framework since 1957. It has 
 
 ## First Language Acquisition: A Rapid Innate Explanation
 
-Chomsky based his argument partly on the observation that children acquire the grammar of their mother tongue extremely quickly and in a regular sequence across very different cultures, despite differences in the linguistic input they actually receive (which Chomsky characterised as limited and often fragmentary, a characterisation that critics dispute). He took this as evidence of a pre-programmed innate capacity that constrains the grammatical hypotheses a child automatically entertains, rather than learning each grammatical rule from scratch through induction from input alone.
+Chomsky based his argument partly on the observation that children acquire the grammar of their mother tongue extremely quickly and in a regular sequence across very different cultures, despite differences in the linguistic input they actually receive (which Chomsky characterised as limited and often fragmentary, a characterisation that critics dispute). He treated this pattern as support for an innate capacity that limits the grammars a child entertains. Usage-based researchers dispute both the description of the input as too poor to support learning and the inference to a dedicated innate grammar.
 
 ## Method: Linguistic Intuition as Data
 
@@ -56,11 +56,11 @@ Unlike distributional structuralism, which refused to rely on speakers' intuitio
 
 ## The First Break: Criticism of Skinner
 
-Chomsky's critical review (1959) of B. F. Skinner's *Verbal Behavior* (1957) was a founding moment, comparable in importance to *Syntactic Structures* itself. In it Chomsky attacked Skinner's attempt to explain language acquisition through the principles of pure behavioral conditioning (reinforcement of correct responses and extinction of incorrect ones), showing that this framework is entirely incapable of explaining a child's ability to produce an infinite number of sentences that never received direct reinforcement. The critique was regarded as a decisive blow to behaviorism in psycholinguistics, and it laid the groundwork for the broader Cognitive Revolution, which extended beyond linguistics to psychology as a whole.
+Chomsky's review (1959) of B. F. Skinner's *Verbal Behavior* (1957) argued that reinforcement and extinction do not explain how a child produces and understands sentences that were never specifically trained. The review became a standard reference in the move away from behaviorist accounts of language. Historians disagree about how far it, by itself, redirected psychology; behaviorist research continued, and the broader shift in psychology had several sources.
 
 ## Impact and Limits of the Claim
 
-This school reshaped theoretical linguistics and the cognitive sciences together, and it established modern psycholinguistics by focusing on the latent mental processes behind production and comprehension. However, the hypothesis of universal grammar and innateness has remained, and still remains, an open scientific debate that has not been settled against competing usage-based and functional schools (such as the usage-based grammar of Bybee and Tomasello). These schools hold that language acquisition can be explained by general learning mechanisms that are not specialized for language, without assuming a specialized innate grammatical structure in advance.
+The program has been central to theoretical syntax since the 1960s and has influenced work on language in psychology. It did not by itself create psycholinguistics, which already had experimental traditions, but it set many of the questions those experiments later asked. However, the hypothesis of universal grammar and innateness has remained, and still remains, an open scientific debate that has not been settled against competing usage-based and functional schools (such as the usage-based grammar of Bybee and Tomasello). These schools hold that language acquisition can be explained by general learning mechanisms that are not specialized for language, without assuming a specialized innate grammatical structure in advance.
 
 ## Philosophical Background
 

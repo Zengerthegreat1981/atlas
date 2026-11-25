@@ -24,7 +24,7 @@ A concept referring to the possibility of living a satisfying and meaningful lif
 
 ## Origins of the Recovery Model
 
-The rehabilitation psychologist William Anthony, director of the Boston Center for Psychiatric Rehabilitation, developed one of the most influential definitions in 1993. He described recovery as "a unique, deeply personal process of changing one's attitudes, values, feelings, goals, skills and/or roles ... a way of living a satisfying, hopeful and contributing life, even with limitations caused by illness." This definition shifted the focus from "healing symptoms" alone to building a meaningful life. It became the foundation of the **Recovery Movement**, which was later adopted by mental health policies in the United States, the United Kingdom, and Australia.
+The rehabilitation psychologist William Anthony, director of the Boston Center for Psychiatric Rehabilitation, developed one of the most influential definitions in 1993. He described recovery as "a deeply personal, unique process of changing one's attitudes, values, feelings, goals, skills, and/or roles" and as "a way of living a satisfying, hopeful, and contributing life even with limitations caused by illness." This definition shifted the focus from "healing symptoms" alone to building a meaningful life. It became the foundation of the **Recovery Movement**, which was later adopted by mental health policies in the United States, the United Kingdom, and Australia.
 
 ## Empirical Evidence
 

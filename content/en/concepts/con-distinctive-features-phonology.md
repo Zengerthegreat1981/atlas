@@ -32,7 +32,7 @@ The origin of the idea goes back to Nikolai Trubetzkoy and the Prague Linguistic
 - **Major class features**: such as [consonantal] and [sonorant], the latter distinguishing sounds produced with spontaneous voicing (vowels, nasals and liquids) from obstruents such as plosives and fricatives.
 - **Place of articulation features**: such as [labial], [coronal/dental], [dorsal/velar], which describe the location of the obstruction in the vocal tract.
 - **Manner of articulation features**: such as [nasal], [continuant], which distinguishes sounds with a continuous airflow (fricatives and vowels) from plosives, and [strident], for high-energy fricatives.
-- **Laryngeal features**: such as [voice], which is marked by the vibration of the vocal folds, and [spread glottis], associated with breathiness (aspiration).
+- **Laryngeal features**: [voice], the vibration of the vocal folds, is part of the Jakobson–Halle and SPE inventories. Later laryngeal theory adds features such as [spread glottis], used for aspiration, which is not a label of the 1952 inventory.
 
 ## Function in phonological theory
 

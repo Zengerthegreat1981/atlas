@@ -26,7 +26,7 @@ gaps: []
 ---
 # Capitalism, Socialism and Democracy
 
-**Joseph Schumpeter** published his book *Capitalism, Socialism and Democracy* in 1942 while he was a professor at Harvard University, where he had settled after leaving Europe in the early 1930s. In it he put forward his most famous and most debated thesis: that capitalism, despite its unprecedented historical economic achievement, carries within it the seeds of its own civilizational erosion.
+**Joseph Schumpeter** published *Capitalism, Socialism and Democracy* in 1942 while he was a professor at Harvard University, where he had settled after leaving Europe for Harvard in 1932. The book argues that capitalism, despite a large historical rise in living standards, tends to undermine the social conditions that sustain it.
 
 ## An unexpected defence of the capitalist achievement
 
@@ -34,7 +34,7 @@ The book opens with an explicit defence of capitalism's historical performance, 
 
 ## Creative destruction: the essence of capitalist dynamism
 
-The book develops the concept of **"creative destruction"**, which describes the essence of capitalism as a "perennial gale" of successive waves of radical technical and organizational innovation (the railway, electricity, mass production) that completely destroy existing industries, skills and firms as much as they create new ones. Schumpeter argues that analysing capitalist competition through a static instantaneous price moment (as in the model of perfect competition) overlooks this more important dynamic: even the **temporary monopoly** produced by a successful innovation is not necessarily an obstacle to efficiency in the long run, because it is itself the incentive that drives other competitors to invest in an innovation that later overturns that monopoly.
+The book develops **"creative destruction"**. Schumpeter describes capitalism as a "perennial gale" of technical and organizational innovation (the railway, electricity, mass production) that destroys existing industries, skills and firms as it creates new ones. He argues that a static picture of price competition, as in the model of perfect competition, misses this process. A **temporary monopoly** from a successful innovation can be the reward that induces further innovation, which may later overturn that monopoly.
 
 ## Will capitalism collapse from its own success?
 
@@ -46,7 +46,7 @@ The book also makes an influential contribution to the theory of political democ
 
 ## Impact and reception
 
-This book remains one of Schumpeter's most influential and widely read works to this day. It is the source of the concept of "creative destruction", which has become a common term even outside academic economics, and an inspiration for the later field of evolutionary economics, developed formally by Nelson and Winter.
+The book remains widely read. It is the usual source for the phrase "creative destruction", which spread beyond academic economics, and a point of departure for later evolutionary economics, developed formally by Nelson and Winter. Schumpeter had used related ideas in earlier work; this book states them for a broad audience.
 
 ## The context of writing: Europe under the totalitarian threat
 

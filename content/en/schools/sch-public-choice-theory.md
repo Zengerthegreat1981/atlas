@@ -60,11 +60,14 @@ The field was institutionally centred on what became known as the "Virginia Scho
 
 ## Practical influence on policy design
 
-The school's influence extended beyond academic circles into the design of actual institutions. Its ideas inspired practical proposals for reforming public budgeting (constitutional balanced-budget rules in several American states) and justified regulatory reforms aimed at reducing opportunities for rent-seeking by simplifying customs and licensing systems. This makes it one of the branches of political economy theory that has moved most directly from academic theory into direct political application.
+The school's influence extended beyond academic circles into arguments about institutional design. Many American states already had balanced-budget rules, some dating from the nineteenth century. Public-choice writing later supplied a theoretical case for keeping such rules hard to amend, and for narrowing licences and trade barriers that create rents. William Niskanen's *Bureaucracy and Representative Government* (1971) added a model in which bureaus seek larger budgets. How far these ideas changed policy, as distinct from how they were used in policy argument, remains disputed.
 
 ## Sources
 
 - Buchanan, James M., and Gordon Tullock. *The Calculus of Consent: Logical Foundations of Constitutional Democracy*. University of Michigan Press, 1962.
 - Olson, Mancur. *The Logic of Collective Action: Public Goods and the Theory of Groups*. Harvard University Press, 1965.
 - Tullock, Gordon. "The Welfare Costs of Tariffs, Monopolies, and Theft." *Western Economic Journal* 5(3), 1967.
+- Downs, Anthony. *An Economic Theory of Democracy*. Harper & Brothers, 1957.
+- Krueger, Anne O. "The Political Economy of the Rent-Seeking Society." *American Economic Review* 64(3), 1974.
+- Niskanen, William A. *Bureaucracy and Representative Government*. Aldine-Atherton, 1971.
 - Mueller, Dennis C. *Public Choice III*. Cambridge University Press, 2003.

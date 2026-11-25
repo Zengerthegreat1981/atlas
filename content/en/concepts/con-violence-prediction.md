@@ -33,7 +33,7 @@ Early studies (in the 1970s) were highly skeptical of psychiatrists' ability to 
 
 ## Scientific Evidence
 
-Systematic reviews have shown that tools such as the HCR-20 have predictive ability that is statistically meaningful and clearly superior to unstructured clinical judgment. However, the predictive ability of any tool remains probabilistic rather than deterministic, and always produces a proportion of false positives (classifying as high risk a person who will in fact not commit violence) and false negatives.
+Systematic reviews find that instruments such as the HCR-20 predict later violence better than chance, with modest accuracy, and that structured methods generally outperform unaided clinical impression. Head-to-head comparisons do not show one instrument to be clearly better than the others (Singh, Grann and Fazel, 2011). Any score remains probabilistic. Tools produce false positives (rating as higher risk a person who does not later act violently) and false negatives.
 
 ## Applications and Debate
 

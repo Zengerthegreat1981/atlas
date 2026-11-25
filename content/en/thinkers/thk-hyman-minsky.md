@@ -27,7 +27,7 @@ gaps: []
 
 ## Intellectual formation: from Keynes to Schumpeter
 
-Minsky studied mathematics at the University of Chicago and then took his doctorate at Harvard University (1954), where his teachers included **Joseph Schumpeter** and **Wassily Leontief**. He was deeply influenced by a reading of Keynes's *General Theory* that focused on its less famous chapters concerning finance, speculation and decisions under uncertainty, rather than on the simplified tools of demand management that became widespread in the neoclassical–Keynesian synthesis dominant in academia.
+Minsky studied mathematics at the University of Chicago and took his doctorate at Harvard in 1954. Joseph Schumpeter supervised the dissertation until his death in 1950; Wassily Leontief was also among Minsky's teachers. He was deeply influenced by a reading of Keynes's *General Theory* that focused on its less famous chapters concerning finance, speculation and decisions under uncertainty, rather than on the simplified tools of demand management that became widespread in the neoclassical–Keynesian synthesis dominant in academia.
 
 ## The financial instability hypothesis
 
@@ -35,7 +35,7 @@ Minsky developed his best-known contribution, the **financial instability hypoth
 
 ## Stability is destabilizing
 
-Minsky formulated a famous principle: "stability is destabilizing". The longer apparent financial calm lasts, the more financial institutions and borrowers relax their assessment of risk. This makes financial crises an internal outcome of the dynamics of financial capitalism itself, not merely accidental external shocks. This conclusion fundamentally contradicts the assumption of efficient markets prevailing in traditional financial economics.
+Minsky summed up the hypothesis in the line that stability is destabilizing. The longer apparent financial calm lasts, the more institutions and borrowers relax their assessment of risk. Crises are then an outcome of the dynamics of financial capitalism, not only of outside shocks. That conclusion conflicts with models that treat financial markets as efficient and stabilizing.
 
 ## Stabilizing an unstable economy: practical recommendations
 
@@ -62,4 +62,4 @@ After 2008, Minsky's name went beyond academic economics into financial practice
 - Minsky, Hyman P. *Stabilizing an Unstable Economy*. Yale University Press, 1986.
 - Minsky, Hyman P. "The Financial Instability Hypothesis." Levy Economics Institute Working Paper No. 74, 1992.
 - Minsky, Hyman P. *John Maynard Keynes*. Columbia University Press, 1975.
-- Wray, L. Randall. *Why Minsky Matters: An Introduction to the Work of a Maverick Economist*. Princeton University Press, 2015.
+- Wray, L. Randall. *Why Minsky Matters: An Introduction to the Work of a Maverick Economist*. Princeton University Press, 2016.

@@ -67,7 +67,7 @@ His book circulated, despite the upheavals of the Mongol conquest, through copie
 
 - ***Miftah al-Ulum***: an encyclopedia of morphology, syntax, the sciences of meanings and figurative expression, with material on logic and prosody.
 
-The name of al-Sakkaki is also associated with a debate over the attribution of certain grammatical and morphological issues in the first section of the *Miftah al-Ulum*, for which he relied on a concentrated summary of earlier grammatical tradition (Sibawayh, al-Zamakhshari and others) more than on original contributions. The historical value of the book therefore lies chiefly in its innovative rhetorical section, in the way it organized the material, rather than in its grammatical content, which was already in circulation before him.
+In the first sections of the *Miftah al-Ulum* he relied largely on earlier grammatical tradition more than on original contributions. The historical value of the book therefore lies chiefly in its innovative rhetorical section, in the way it organized the material, rather than in its grammatical content, which was already in circulation before him.
 
 It should be noted that al-Sakkaki was not the first to attempt to organize the sciences of rhetoric into two or more parts. Partial attempts were made earlier, for example by Fakhr al-Din al-Razi in *Nihayat al-Ijaz*. But the *Miftah al-Ulum* was distinguished by its comprehensiveness and methodological rigor, to the extent that it surpassed its predecessors in circulation and school adoption, becoming in practice the "standard summary" against which other contemporary or later attempts were measured.
 

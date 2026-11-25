@@ -11,7 +11,7 @@ dates: "Europe and North America · from the 1960s to the present"
 country: "International"
 language: "English"
 active_start: 1980
-active_end: 2026
+active_end: "مستمر"
 active_source: "lifespan"
 cultural_origin: "european"
 edges: []
@@ -54,7 +54,7 @@ Early diagnostic systems (DSM-I and DSM-II) classified anxiety and OCD under "ne
 
 ## Key Figures and Contributions
 
-David Clark developed an influential cognitive model of panic disorder, explaining it through the catastrophic misinterpretation of normal bodily sensations. His work extended to a cognitive model of social anxiety disorder in collaboration with Adrian Wells. Paul Salkovskis developed a cognitive model of OCD that focuses on misinterpreting inflated responsibility for intrusive thoughts, which provided the theoretical cognitive basis for exposure and response prevention (ERP), whose behavioral origins Victor Meyer had established as early as 1966. David Barlow, in *Anxiety and Its Disorders*, presented an integrative model of the biological and psychological vulnerabilities shared among anxiety disorders, which later contributed to developing the "unified protocol" for treatment across diagnoses.
+David Clark developed an influential cognitive model of panic disorder, explaining it through the catastrophic misinterpretation of normal bodily sensations. His work extended to a cognitive model of social anxiety disorder in collaboration with Adrian Wells. Paul Salkovskis developed a cognitive model of OCD that focuses on misinterpreting inflated responsibility for intrusive thoughts, which supplied a cognitive account of exposure and response prevention (ERP). Victor Meyer had described a behavioural form of that method in 1966. David Barlow, in *Anxiety and Its Disorders*, presented an integrative model of the biological and psychological vulnerabilities shared among anxiety disorders, which later contributed to developing the "unified protocol" for treatment across diagnoses.
 
 ## Limits
 

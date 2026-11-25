@@ -9,7 +9,7 @@ en: "Competency Evaluation"
 crumb: "Psychiatry ← Concepts ← Competency Evaluation"
 active_start: 1960
 active_end: "مستمر"
-language: "Arabic, English"
+language: "English"
 edges:
 - rel: "belongs_to", target: "Forensic Psychiatry", target_type: "مدرسة"
 related:
@@ -48,5 +48,5 @@ A defendant assessed as not competent is usually not tried immediately. Instead,
 
 - *Dusky v. United States*, 362 U.S. 402 (1960).
 - Mossman, Douglas, et al. "AAPL Practice Guideline for the Forensic Psychiatric Evaluation of Competence to Stand Trial." *Journal of the American Academy of Psychiatry and the Law* 35, no. 4, Supplement (2007): S3–S72.
-- Melton, Gary B., et al. *Psychological Evaluations for the Courts: A Handbook for Mental Health Professionals and Lawyers*, 4th ed. New York: Guilford Press, 2018.
+- Melton, Gary B., et al. *Psychological Evaluations for the Courts: A Handbook for Mental Health Professionals and Lawyers*, 4th ed. New York: Guilford Press, 2017.
 - Poythress, Norman, et al. *Professional Manual for the MacArthur Competence Assessment Tool-Criminal Adjudication*. Odessa, FL: Psychological Assessment Resources, 1999.

@@ -21,17 +21,17 @@ gaps: []
 
 # Nancy Andreasen
 
-An American psychiatrist and researcher, born in 1938 in Lincoln, Nebraska. She holds a doctorate in English literature (specializing in the Renaissance) before turning to the study of medicine and specializing in psychiatry. She holds the Andrew H. Woods Chair of Psychiatry at the University of Iowa College of Medicine, and is one of the world's leading researchers on the neurobiological basis of schizophrenia.
+An American psychiatrist and neuroscientist, born 11 November 1938 in Lincoln, Nebraska. She holds the Andrew H. Woods Chair of Psychiatry at the University of Iowa Carver College of Medicine. Her research concerns the clinical description and brain imaging of schizophrenia.
 
 ## From Literature to Psychiatry
 
-Andreasen studied English literature at the University of Nebraska, specializing in Renaissance poetry and literature, and taught it at the University of Iowa before deciding in the late 1960s to study medicine, earning her medical degree from Iowa in 1970. This literary dimension remained present in her work: she was concerned with describing patients' subjective experiences precisely, and with the relationship between disordered language and disordered thought. In 1984 she published *The Broken Brain*, which called for viewing mental illnesses as brain diseases and helped change the outlook of the public and of physicians after decades in which analytic explanations had prevailed. In the 1980s she also moved from descriptive phenomenology toward quantitative tools and imaging.
+Andreasen took a B.A. at the University of Nebraska (1958), an M.A. at Radcliffe College (1959), and a Ph.D. in English at Nebraska (1963), with a specialty in the poetry of John Donne. She published *John Donne: Conservative Revolutionary* (1967) and taught Renaissance literature at the University of Iowa before entering medicine there. She received her M.D. in 1970 and completed psychiatry residency in 1973. The literary training remained visible in her attention to patients' own descriptions and to disordered language. In 1979 she published the Scale for the Assessment of Thought, Language, and Communication. In 1984 *The Broken Brain: The Biological Revolution in Psychiatry* argued that major mental illnesses should be studied as brain diseases, at a time when psychodynamic accounts still dominated much teaching. Through the 1980s she moved from descriptive phenomenology to quantitative scales and imaging.
 
 ## Her Contributions
 
 ### Scales for the Positive and Negative Symptoms of Schizophrenia
 
-In the early 1980s Andreasen developed two widely used instruments for measuring the symptoms of schizophrenia: the **Scale for the Assessment of Negative Symptoms (SANS)** in 1983, and the **Scale for the Assessment of Positive Symptoms (SAPS)** in 1984. This established the clinical distinction between "positive symptoms" (such as hallucinations and delusions) and "negative symptoms" (such as flattened affect and social withdrawal), a distinction that remains a cornerstone of diagnosis and clinical research on schizophrenia. Earlier, in 1979, she had published the Scale for the Assessment of Thought, Language, and Communication to measure formal thought disorder. Together these instruments completed a toolkit for describing the two main dimensions of schizophrenia, psychotic symptoms and negative symptoms, along with a third dimension, disorganization of thought.
+In a 1982 paper she set out a definition and reliability study of negative symptoms, issued as the **Scale for the Assessment of Negative Symptoms (SANS)**; the **Scale for the Assessment of Positive Symptoms (SAPS)** followed in 1984. The scales made operational a distinction, already discussed by earlier clinicians, between "positive symptoms" (hallucinations, delusions) and "negative symptoms" (flattened affect, poverty of speech, avolition, social withdrawal). With the 1979 thought-disorder scale they gave research a way to score psychotic symptoms, negative symptoms, and disorganization separately. Later factor studies found that some SANS items overlap and that negative symptoms themselves split into diminished expression and diminished motivation, which newer scales try to separate.
 
 ### Pioneering Neuroimaging in Schizophrenia
 
@@ -43,7 +43,7 @@ In 1987 she published in the *American Journal of Psychiatry* a study of writers
 
 ### Scientific Honors and Editorship
 
-Andreasen received the **National Medal of Science** of the United States (2000) in recognition of her contributions to research on schizophrenia and neuroimaging, and is a member of the National Academy of Medicine. She served as editor of the *American Journal of Psychiatry* between 1993 and 2005, and took part in the work on the fourth edition of the diagnostic manual (DSM-IV), including its schizophrenia work group.
+Andreasen received the United States **National Medal of Science** in 2000 for work joining behavioral research, neuroscience, and imaging. She is a member of the National Academy of Medicine. She was editor-in-chief of the *American Journal of Psychiatry* from 1993 through 2005 and took part in the DSM-IV schizophrenia work group. A later general account of imaging and plasticity appeared as *Brave New Brain* (2001).
 
 ## Impact
 

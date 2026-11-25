@@ -25,30 +25,26 @@ gaps: []
 
 # The Revival of Modern Hebrew
 
-The revival of modern Hebrew is the best-documented and most frequently cited case of a language's transition from the status of a "written liturgical/literary language" that no one speaks as a daily mother tongue, to a living mother tongue acquired naturally by children. This makes it a central reference case in language revitalization studies. This entry is limited to the linguistic description of the process and does not evaluate the broader political context.
+The return of Hebrew to use as a mother tongue is a central case in the study of language revitalization. For centuries Hebrew had been a language of prayer, scholarship, and correspondence, while Jewish communities spoke other languages at home. Children again acquired it as a first language in Palestine in the late nineteenth and early twentieth centuries. This entry describes that linguistic history and does not assess the political history around it.
 
-## The Situation Before the Revival
+## Before the spoken revival
 
-For centuries Hebrew was the language of prayer, religious texts, and Jewish literature, while Jews in their daily lives spoke other languages (such as Yiddish, Judeo-Arabic, or other local languages). It was thus in a situation resembling Church Latin in medieval Europe: a culturally living written language, but without native speakers who transmit it to children as a first language.
+Medieval and early modern Hebrew remained in active written and liturgical use, and in some learned oral use, across the Jewish diaspora. Everyday speech was Yiddish, Ladino, Judeo-Arabic, and other local languages. The comparison often drawn with Church Latin is only partial: Hebrew had a large reading public and a continuous tradition of new writing, including the Haskalah (Jewish Enlightenment) literature of the nineteenth century, which already expanded prose beyond the liturgy. What was missing was intergenerational transmission as a home language.
 
-## The Role of Eliezer Ben-Yehuda
+## Ben-Yehuda, schools, and the language committee
 
-The founding impetus for reviving Hebrew as a spoken everyday language is attributed to Eliezer Ben-Yehuda in the late nineteenth century. He called for its use in the home and in education, and contributed to expanding its modern vocabulary (by coining new words for concepts that did not exist in classical Hebrew). The language committee he helped found in 1890 (Va'ad HaLashon) was a precursor of the Academy of the Hebrew Language (established 1953). Hebrew had also remained in written use for centuries, which made its revival as a spoken language possible.
+Eliezer Ben-Yehuda, who settled in Jerusalem in 1881, argued for Hebrew as the spoken language of the home and the school and coined many modern words. His own household is often cited as an early Hebrew-speaking home, and his newspaper work publicized the project. He was not the only agent. Teachers in Jewish schools in Palestine shifted instruction toward Hebrew in the following decades. In 1890 he took part in founding Vaʻad ha-Lashon, the language committee that preceded the Academy of the Hebrew Language (1953). A public dispute in 1913 over whether the Technion in Haifa would teach in German or in Hebrew ended in favor of Hebrew and is a usual marker of the language's institutional strength. In 1922 the British Mandate listed Hebrew among the official languages of Palestine.
 
-## The Theoretical Importance for Linguistics
+## Immigration and transmission
 
-This case is cited in the literature on "reversing language shift" by Joshua Fishman as evidence that the extinction of a language as a transmitted daily language is not necessarily final and irreversible. It nonetheless remains an exceptional and rarely occurring case, owing to the convergence of unique factors: intensive institutional support, the immigration of large groups lacking another shared language, and the deep cultural and religious symbolism of Hebrew itself.
+Jewish immigration from Eastern Europe, North Africa, and the Middle East brought communities whose home languages — Yiddish, Judeo-Arabic, Ladino, and others — were not shared. Many adults knew some Hebrew from study and prayer. Schools in which Hebrew was the medium gave children a setting in which it became a first language, which is the point at which linguists treat the revival as socially established. Joshua Fishman used the case in *Reversing Language Shift* (1991) as a rare instance in which a language that had ceased to be anyone's mother tongue was again transmitted to children. He also treated the conditions — ideology, institutions, and a population in need of a common spoken language — as unusual, so the case is a poor template for communities that still have elderly speakers but lack those conditions.
 
-## The Effect of Immigration and Diversity of Source Dialects
+## Is the result classical Hebrew?
 
-The flow of Jewish immigration waves to Palestine (especially from Eastern Europe, North Africa, and the Middle East) accelerated the process of adoption. The linguistically diverse immigrant communities (Yiddish, Judeo-Arabic, Ladino, and other European languages) often lacked a shared everyday language other than the Hebrew that many of them knew from religious texts and prayer. The new generations found in Hebrew-speaking schools a natural environment for acquiring Hebrew as a real mother tongue, not merely as a late-acquired second language.
-
-## The Linguistic Debate over the Authenticity of Modern Hebrew
-
-The revival of Hebrew sparked a purely linguistic academic debate about the nature of the resulting language. Some linguists (such as Ghil'ad Zuckermann) hold that modern Hebrew, although its vocabulary and writing system are essentially Hebrew, carries deep structural and phonological influences from Yiddish and other European languages that were the first languages of the founding generation itself. In their view, this makes it a hybrid language closer to a linguistic "blend" than to a pure revival of classical ancient Hebrew. This position remains a subject of ongoing academic debate.
+Ghilʻad Zuckermann argues that Israeli Hebrew, despite its Hebrew lexicon and script, shows deep phonological and grammatical effects of Yiddish and other European languages spoken by the founding generations, and he has called the result a hybrid, "Israeli." Other descriptions treat modern Hebrew as a continuation of Hebrew with ordinary contact influence. The disagreement is about how to weigh substrate effects against the deliberate return to Hebrew morphology and the classical written norm. Both sides agree that the spoken language is not identical with Biblical Hebrew.
 
 ## Sources
 
-- Fishman, Joshua A. (1991). *Reversing Language Shift*. Multilingual Matters.
 - Fellman, Jack (1973). *The Revival of a Classical Tongue: Eliezer Ben Yehuda and the Modern Hebrew Language*. Mouton.
-- Zuckermann, Ghil'ad (2003). *Language Contact and Lexical Enrichment in Israeli Hebrew*. Palgrave Macmillan.
+- Fishman, Joshua A. (1991). *Reversing Language Shift*. Multilingual Matters.
+- Zuckermann, Ghilʻad (2003). *Language Contact and Lexical Enrichment in Israeli Hebrew*. Palgrave Macmillan.

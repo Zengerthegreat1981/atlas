@@ -26,7 +26,7 @@ gaps:
 ---
 # An Evolutionary Theory of Economic Change
 
-**Richard Nelson** and **Sidney Winter** published their joint book *An Evolutionary Theory of Economic Change* in 1982, after more than a decade of research collaboration between them. In it they offered the most comprehensive systematic formulation, up to that time, of what became known as "evolutionary economics". They revived Joseph Schumpeter's insight into innovation as the driver of economic change, but within a formal framework that offers an alternative to the standard neoclassical model of firm equilibrium.
+**Richard Nelson** and **Sidney Winter** published their joint book *An Evolutionary Theory of Economic Change* in 1982, after about a decade of research collaboration. In it they set out a systematic account of what became known as evolutionary economics. They took up Joseph Schumpeter's emphasis on innovation as a driver of economic change, and set it in a formal framework offered as an alternative to the standard neoclassical model of firm equilibrium.
 
 ## Critiquing the Assumption of Maximal Rationality of the Firm
 
@@ -44,9 +44,9 @@ The authors adopt an additional explicit biological analogy. **Innovation** aris
 
 The book introduced an important methodological innovation: the use of **computer simulation models** to trace how an entire industry evolves over time as multiple firms interact, each carrying different routines and differing capacities for innovation and imitation. The simulations, including growth models of Schumpeterian competition, showed that aggregate patterns such as productivity growth, together with persistent differences among firms, can emerge from this evolutionary dynamic without assuming that firms or markets are always in equilibrium.
 
-## A Founding Impact for an Entire Research Field
+## Impact on research on innovation
 
-The book became a founding reference for research in the economics of innovation, technological change and growth. Its influence extended into strategic management, notably in the literature on "dynamic capabilities", and into the study of "national innovation systems", which Nelson later developed as editor of a comparative volume across countries (1993).
+The book became a principal reference for research in the economics of innovation, technological change and growth. Its influence extended into strategic management, notably in the literature on "dynamic capabilities", and into the study of "national innovation systems", which Nelson later developed as editor of a comparative volume (1993).
 
 ## The Fruit of a Multi-Year Research Collaboration
 
@@ -56,12 +56,14 @@ The book was the culmination of a collaboration between Nelson and Winter that b
 
 On its appearance the book received a mixed reception within the mainstream academic economics of the time. Researchers interested in technical change and innovation welcomed it as a major contribution. Economists more committed to the standard neoclassical model were sceptical of abandoning the assumption of full rationality, arguing that the standard model, despite its simplifications, remains a useful predictive tool in many contexts.
 
-## A Foundational Text for an Academic Field
+## A reference point for a research field
 
-The book contributed to the growth of an identifiable research field that later acquired its own journals (such as the *Journal of Evolutionary Economics*, founded in 1991) and scholarly associations, including the International Schumpeter Society.
+The book contributed to a research field that acquired its own journal, the *Journal of Evolutionary Economics* (founded in 1991), and scholarly associations, including the International Schumpeter Society (founded in 1986).
 
 ## Sources
 
 - Nelson, Richard R., and Sidney G. Winter. *An Evolutionary Theory of Economic Change*. Belknap Press of Harvard University Press, 1982.
 - Schumpeter, Joseph A. *The Theory of Economic Development*. Translated by Redvers Opie, Harvard University Press, 1934 (German original 1911).
-- Simon, Herbert A. "A Behavioral Model of Rational Choice." *The Quarterly Journal of Economics*, vol. 69, no. 1, 1955, pp. 99-118.
+- Cyert, Richard M., and James G. March. *A Behavioral Theory of the Firm*. Prentice-Hall, 1963.
+- Nelson, Richard R., editor. *National Innovation Systems: A Comparative Analysis*. Oxford University Press, 1993.
+- Simon, Herbert A. "A Behavioral Model of Rational Choice." *The Quarterly Journal of Economics*, vol. 69, no. 1, 1955, pp. 99–118.

@@ -7,9 +7,9 @@ level: "متقدم"
 title: "Jonas R. Rappeport"
 en: "Jonas R. Rappeport"
 crumb: "Psychiatry ← Thinkers ← Jonas R. Rappeport"
-dates: "Baltimore, United States · 20th century"
+dates: "Baltimore, United States · d. 2020"
 active_start: 1957
-active_end: 1999
+active_end: 2020
 country: "United States"
 language: "English"
 edges:
@@ -17,12 +17,12 @@ edges:
 related:
 - id: "sch-forensic-psychiatry", title: "Forensic Psychiatry", type: "مدرسة"
 gaps:
-  - "Birth and death dates: not yet covered"
+  - "Exact birth date: not yet covered"
 ---
 
 # Jonas R. Rappeport
 
-An American psychiatrist regarded as one of the **founding fathers of modern forensic psychiatry** in the United States. He was born and raised in Baltimore and studied at the University of Maryland until he graduated from its School of Medicine in 1952. He was influenced early in his career by **Manfred Guttmacher**, the prominent forensic psychiatrist who directed the medical office of the Supreme Bench of Baltimore.
+An American psychiatrist (died 8 September 2020, aged 95) who organized forensic psychiatry as a professional field in the United States. He was born and raised in Baltimore and graduated from the University of Maryland School of Medicine in 1952. An exact birth date is not fixed in the sources used here. Early in his career he worked with **Manfred Guttmacher**, who directed the medical office of the Supreme Bench of Baltimore. Rappeport later became chief medical officer for the Circuit Court for Baltimore City. He retired from forensic practice in 1999 and continued to teach in the Maryland fellowship.
 
 ## Background: Criminal Responsibility in Islamic Tradition and Anglo-American Law
 
@@ -38,17 +38,17 @@ Rappeport was a principal founder of the **American Academy of Psychiatry and th
 
 Rappeport edited the book *The Clinical Evaluation of the Dangerousness of the Mentally Ill*, published in 1967 by Charles C. Thomas. It is one of the early works that brought together the experience of the Baltimore forensic clinic in estimating risk. The subject remained a focus of discussion afterward, including the studies of Henry Steadman and colleagues on risk assessment.
 
-### Founding the First Specialized Fellowship
+### An Early Specialized Fellowship
 
-Rappeport helped found the **University of Maryland fellowship in forensic psychiatry**, one of the early specialized training programs in this field in the United States, and taught many later forensic psychiatrists.
+In 1968 Rappeport obtained funding for a forensic fellow at the University of Maryland. The program is one of the oldest specialized forensic psychiatry fellowships in the United States. By his retirement he had trained several dozen fellows, and he continued to teach after 1999.
 
-### Notable Forensic Evaluations
+### Notable Forensic Consultations
 
-Over a long career Rappeport is reported to have evaluated defendants in several prominent American cases with a political character, among them **Arthur Bremer**, who shot Alabama governor George Wallace in 1972, and **Sara Jane Moore**, who attempted to assassinate President Gerald Ford in 1975. The related case of **John Hinckley Jr.**, who shot President Ronald Reagan in 1981 and was acquitted by reason of insanity in 1982 (a federal jury verdict), shows how the matter went beyond the individual case: the verdict provoked widespread anger that led to the federal Insanity Defense Reform Act of 1984, which placed the burden of proving insanity on the defendant and narrowed the standard. Many states made similar changes.
+He was a consultant in several politically prominent cases, including **Arthur Bremer**, who shot Alabama governor George Wallace in 1972, **Sara Jane Moore**, who attempted to assassinate President Gerald Ford in 1975, and the case of **John Hinckley Jr.**, who shot President Ronald Reagan in 1981 and was acquitted by reason of insanity in 1982. The Hinckley verdict produced widespread anger and the federal Insanity Defense Reform Act of 1984, which placed the burden of proving insanity on the defendant and narrowed the standard. Many states made similar changes. Henry Steadman and colleagues later studied those statutory changes.
 
 ## Impact
 
-- He is credited with **raising the status of forensic psychiatry** from a judicial sideline to an officially recognized medical specialty in the United States.
+- The academy, the Maryland fellowship, and the examination work of court clinics were part of the process by which forensic psychiatry later gained recognition as a psychiatric subspecialty in the United States. Rappeport was a principal organizer of that infrastructure. The American Psychiatric Association gave him the Isaac Ray Award in 1984. AAPL named a resident fellowship after him in 1985.
 - The Maryland fellowship was one of the early models for forensic training programs at other American universities.
 
 ## Limits and Criticism

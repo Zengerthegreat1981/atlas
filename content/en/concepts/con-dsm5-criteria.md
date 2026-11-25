@@ -21,7 +21,7 @@ gaps: []
 
 ## Definition
 
-The **Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition** (DSM-5) is the reference classification manual issued by the **American Psychiatric Association** (APA) for diagnosing mental disorders in the United States and, to a large extent, worldwide. DSM-5 was published in 2013, after preparatory work that began in 2000 and the appointment of an official task force in 2007 that oversaw thirteen work groups. Its text revision, **DSM-5-TR**, was issued in 2022 with updated descriptive text, some revised criteria, and new diagnoses, and involved a large group of expert reviewers.
+The **Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition** (DSM-5) is the classification manual issued by the **American Psychiatric Association** (APA). It is the main diagnostic reference in United States clinical practice and in much English-language research; most countries use the World Health Organization's International Classification of Diseases for official health statistics. DSM-5 was published in 2013. A research-planning process was underway by the early 2000s (Kupfer, First, and Regier, 2002), and an official task force, chaired by David J. Kupfer, oversaw thirteen work groups. Its text revision, **DSM-5-TR**, was issued in 2022 with updated descriptive text, some revised criteria, and new diagnoses, and involved a large group of expert reviewers.
 
 ## Historical Context
 
@@ -39,6 +39,6 @@ The manual's history goes back to its first edition in 1952. But **DSM-III** (19
 ## Sources
 
 - American Psychiatric Association, *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed., Text Revision (DSM-5-TR) (APA Publishing, 2022).
-- American Psychiatric Association, "History of the DSM," psychiatry.org.
+- Kupfer, David J., Michael B. First, and Darrel A. Regier, eds. *A Research Agenda for DSM-V*. Washington, DC: American Psychiatric Association, 2002.
 - Regier, Darrel A., et al. "DSM-5 Field Trials in the United States and Canada, Part II: Test-Retest Reliability of Selected Categorical Diagnoses." *American Journal of Psychiatry* 170, no. 1 (2013): 59–70.
 - World Health Organization, *ICD-11 for Mortality and Morbidity Statistics* (2022 release), for comparison.

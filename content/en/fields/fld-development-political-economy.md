@@ -34,7 +34,7 @@ Development political economy asks why countries differ so greatly in income and
 
 **Structuralism and dependency.** Raúl Prebisch and Hans Singer argued that the terms of trade for primary exports tend to deteriorate, supporting import-substituting industrialisation. Dependency theorists, including Fernando Henrique Cardoso and Enzo Faletto (*Dependency and Development in Latin America*, Spanish original 1969, English edition 1979), André Gunder Frank, and world-systems analysis (Immanuel Wallerstein), stressed centre-periphery structures. Cardoso and Faletto emphasised that dependency allowed varied outcomes, not stagnation alone.
 
-**Neoclassical and market-oriented views.** Solow's growth model (1956) framed capital accumulation and convergence. Critics of import substitution, such as Anne Krueger on rent seeking and Jagdish Bhagwati and Ian Little, argued for openness. The "Washington Consensus" (a term coined by John Williamson in 1989) summarised a package of market-oriented reforms; its meaning and the extent to which institutions actually applied it are contested.
+**Neoclassical and market-oriented views.** Solow's growth model (1956) separates capital accumulation from technical progress and yields convergence only conditional on shared parameters such as saving and population growth, not an unconditional catch-up of poor countries. Critics of import substitution, including Anne Krueger on rent-seeking and Jagdish Bhagwati and I. M. D. Little, argued for openness. The "Washington Consensus", a label John Williamson used in 1989 for a list of reforms he associated with Washington institutions, summarised a market-oriented package. What the list contained, and how far those institutions applied it, is contested.
 
 **Developmental-state literature.** Chalmers Johnson's *MITI and the Japanese Miracle* (1982), Alice Amsden's *Asia's Next Giant* (1989) and Robert Wade's *Governing the Market* (1990) argued that state guidance of credit and trade contributed to East Asian growth. Opponents, including the World Bank's *The East Asian Miracle* (1993), gave greater weight to macroeconomic stability and human capital, with partial acknowledgement of selective interventions.
 
@@ -72,3 +72,8 @@ Development is not a single ladder every country climbs in order. Empirical clai
 - Dani Rodrik, *One Economics, Many Recipes* (2007)
 - Abhijit V. Banerjee and Esther Duflo, *Poor Economics* (2011)
 - Albert O. Hirschman, *The Strategy of Economic Development* (1958)
+- Chalmers Johnson, *MITI and the Japanese Miracle* (1982)
+- Fernando Henrique Cardoso and Enzo Faletto, *Dependency and Development in Latin America* (English edition, 1979)
+- Jeffrey D. Sachs, *The End of Poverty* (2005)
+- William Easterly, *The White Man's Burden* (2006)
+- Hazem Beblawi and Giacomo Luciani, eds., *The Rentier State* (1987)

@@ -22,11 +22,15 @@ Morphosyntactic systems that mark the grammatical role of a noun within a senten
 
 ## The common basic cases
 
-Among the most common cases across the world's languages: the **nominative** (for the subject), the **accusative** (for the direct object), the **genitive** (for possession or the genitive relation), and the **dative** (for the recipient or indirect object). Some languages (such as Finnish and Hungarian) have a dozen or more cases, many of them specialized for location and direction, while other languages (such as Modern English and Chinese) have no visible case system on nouns at all, relying entirely on word order and prepositions.
+Labels that recur in descriptions of accusative languages include the **nominative** (typically the subject), the **accusative** (typically the direct object), the **genitive** (possession and related relations), and the **dative** (recipient or indirect object). Finnish and Hungarian each have more than a dozen cases in standard descriptions, many of them locative and directional. Modern English has almost no case inflection on nouns; the genitive clitic and a closed set of pronouns (*I*/*me*, *she*/*her*) still distinguish case. Mandarin generally does not inflect nouns for case and signals grammatical relations by word order and prepositions.
 
 ## The Arabic inflectional system
 
-Classical Arabic has a three-way case system for nouns, long analyzed in detail by the Arabic grammatical tradition: the nominative (*rafʿ*, subject), the accusative (*naṣb*, direct object and other functions), and the genitive (*jarr*, the genitive relation and the position after prepositions). It is accompanied by a developed internal theory (the governor and the implied) that explains how the case is determined even when the vowel is not pronounced.
+Classical Arabic nouns, in the standard description, distinguish three cases: *rafʿ* (nominative), *naṣb* (accusative), and *jarr* (genitive, including the form after a preposition). *Rafʿ* is not limited to subjects, and *naṣb* is not limited to direct objects. Sībawayhi's *Al-Kitāb* (8th century) already analyzes these endings through the *ʿāmil*, the governor that is said to assign the case. Later grammarians, including Ibn Hishām in *Mughnī al-labīb*, discuss *taqdīr*, the positing of an ending when pronunciation does not show it, as in pause. That is a theory of governors and of unpronounced endings, not a claim that every noun in speech bears an audible vowel.
+
+## Alignment
+
+Case marking is also described by alignment, the pattern that groups the subject of an intransitive verb (S), the subject of a transitive verb (A), and the transitive object (O). In nominative–accusative alignment, S and A share a case and O is different. In ergative–absolutive alignment, S and O share a case (absolutive) and A is marked ergative. Many languages split the pattern by tense, aspect, or the kind of nominal. Hindi–Urdu, for example, uses an ergative marker on many transitive agents in perfective clauses and not as a uniform rule for every clause. These patterns are descriptive generalizations in typology (Comrie 1989; Blake 2001), not a claim that every language belongs to only one type.
 
 ## Functional value
 
@@ -38,10 +42,11 @@ Some languages display "differential object/subject marking": the direct object 
 
 ## Historical loss of case
 
-The histories of many languages show a gradual erosion of case systems over time (as in the shift from Old English, rich in cases, to Modern English, which has almost none). This is usually accompanied by an increasing rigidity of word order to compensate for the loss of clarity in grammatical roles. This is a recurring developmental pattern noted by historical linguists across several language families.
+Old English distinguished nominative, accusative, genitive, and dative, with remnants of an instrumental, on nouns as well as pronouns. Modern English has lost most of the nominal distinctions. In that history, loss of case distinctions and a more fixed clause order co-occur. Similar losses are described in other families. The co-occurrence is a recurring historical pattern, not a law that every loss of case produces one word order.
 
 ## Sources
 
 - Blake, Barry J. (2001). *Case* (2nd ed.). Cambridge University Press.
 - Comrie, Bernard (1989). *Language Universals and Linguistic Typology* (2nd ed.). University of Chicago Press.
-- Ibn Hisham, Jamal al-Din (14th century). *Mughni al-Labib*.
+- Sībawayhi (d. c. 796). *Al-Kitāb*. Edited by Hartwig Derenbourg, 1881–1889.
+- Ibn Hishām, Jamāl al-Dīn (d. 1360). *Mughnī al-labīb ʿan kutub al-aʿārīb*.

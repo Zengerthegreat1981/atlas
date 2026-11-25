@@ -40,7 +40,7 @@ Early research by Bialystok promoted the idea of a "bilingual cognitive advantag
 
 ## Associated lexical representation models
 
-The field is linked to models that explain how the two languages are managed in lexical memory. The most prominent are the "Revised Hierarchical Model" of Judith Kroll and Erika Stewart, which describes how the links between second-language vocabulary and its concepts develop as proficiency grows, and the "Bilingual Interactive Activation Plus Model" (BIA+) of Ton Dijkstra and Walter van Heuven, which describes how the words of the two languages compete for recognition during reading and listening.
+The field is linked to models of how the two languages are represented and accessed. The Revised Hierarchical Model of Judith Kroll and Erika Stewart (1994) describes how links between second-language words and concepts change with proficiency. The Bilingual Interactive Activation Plus model (BIA+) of Ton Dijkstra and Walter van Heuven (2002) describes competition between the two languages during word recognition. Both are models of processing, not direct evidence for an executive-control advantage.
 
 ## Moderating factors
 
@@ -53,3 +53,4 @@ Researchers emphasize that the effect of bilingualism on executive control is no
 - Green, David W., & Abutalebi, Jubin. "Language Control in Bilinguals: The Adaptive Control Hypothesis." *Journal of Cognitive Psychology*, 25(5), 2013.
 - de Bruin, Angela, Treccani, Barbara, & Della Sala, Sergio. "Cognitive Advantage in Bilingualism: An Example of Publication Bias?" *Psychological Science*, 26(1), 2015.
 - Kroll, Judith F., & Stewart, Erika. "Category Interference in Translation and Picture Naming." *Journal of Memory and Language*, 33(2), 1994.
+- Dijkstra, Ton, & van Heuven, Walter J. B. "The Architecture of the Bilingual Word Recognition System: From Identification to Decision." *Bilingualism: Language and Cognition*, 5(3), 2002.

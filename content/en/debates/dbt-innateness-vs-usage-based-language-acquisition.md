@@ -41,6 +41,16 @@ The nativist argument rests mainly on the observation that children derive compl
 
 Both sides have offered evidence from computational modelling. Connectionist researchers developed neural network models that learn grammatical patterns (such as the English past tense, in the model of Rumelhart and McClelland, 1986) from statistical input, without explicitly programmed rules. This is presented as supporting evidence for the usage-based position. Critics such as Pinker and Prince (1988) replied that these models failed to account for important properties of human performance, such as how children handle regular and irregular forms.
 
+## What each side treats as the crucial evidence
+
+Nativists often point to structure-dependent generalizations. A familiar illustration, used by Chomsky, is that English speakers form questions by moving an auxiliary in a way that respects clause structure, not by a simple count of words from the left, even though everyday speech rarely supplies the crucial examples or explicit correction. They also point to similarities across unrelated languages and to the speed with which children go beyond the particular sentences they have heard.
+
+Usage-based researchers answer with the detail of child-directed speech and with item-based learning. Tomasello's work on early syntax argues that children first learn verbs one by one, in "verb islands," and only later generalize across them. Bybee's work on morphology and phonology treats frequency of use as a force that shapes storage, reduction and productivity. On this view, what looks like an abstract rule can be a generalization over stored exemplars.
+
+## Recursion and the scope of the dispute
+
+Hauser, Chomsky and Fitch (2002) proposed a narrow language faculty whose distinctive component is recursion. Daniel Everett's description of Pirahã was offered against that proposal. The grammatical facts, and whether the language lacks recursion, remain contested; Nevins, Pesetsky and Rodrigues (2009) argued that the published evidence does not establish the absence of recursive structure. The exchange shows how a claim about one language is asked to bear on a claim about innate architecture, and why both the fieldwork and the theoretical inference stay under dispute.
+
 ## Sources
 
 - Chomsky, Noam (1959). "A Review of B. F. Skinner's Verbal Behavior." *Language*, 35(1), 26-58.
@@ -48,3 +58,6 @@ Both sides have offered evidence from computational modelling. Connectionist res
 - Pinker, Steven; Prince, Alan (1988). "On Language and Connectionism: Analysis of a Parallel Distributed Processing Model of Language Acquisition." *Cognition* 28.
 - Everett, Daniel L. (2005). "Cultural Constraints on Grammar and Cognition in Pirahã." *Current Anthropology* 46(4).
 - Pinker, Steven (1994). *The Language Instinct*. William Morrow.
+- Rumelhart, David E., and James L. McClelland. "On Learning the Past Tenses of English Verbs." In *Parallel Distributed Processing*, vol. 2, edited by James L. McClelland, David E. Rumelhart, and the PDP Research Group. MIT Press, 1986.
+- Hauser, Marc D., Noam Chomsky, and W. Tecumseh Fitch. "The Faculty of Language: What Is It, Who Has It, and How Did It Evolve?" *Science* 298 (2002).
+- Nevins, Andrew, David Pesetsky, and Cilene Rodrigues. "Pirahã Exceptionality: A Reassessment." *Language* 85 (2009).

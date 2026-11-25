@@ -35,7 +35,7 @@ Lexical-Functional Grammar represents a sentence through two parallel representa
 
 ## Lexical mapping theory
 
-One of Bresnan's most important contributions is the "Lexical Mapping Theory," a formal framework that explains how thematic roles (such as agent and patient) are linked to grammatical functions (subject and object) through general principles that systematically govern this mapping. It explains phenomena such as the passive voice (in which the patient role is mapped to the subject function rather than the object) through general morpho-syntactic rules instead of movement transformations.
+A further contribution is Lexical Mapping Theory, a formal framework that explains how thematic roles (such as agent and patient) are linked to grammatical functions (subject and object) through general principles that systematically govern this mapping. It explains phenomena such as the passive voice (in which the patient role is mapped to the subject function rather than the object) through general morpho-syntactic rules instead of movement transformations.
 
 ## Computational linguistics and the move to Stanford
 
@@ -43,11 +43,11 @@ Bresnan, who earned her doctorate at MIT in 1972, later moved to Stanford Univer
 
 ## Fieldwork on Bantu languages
 
-Bresnan carried out fieldwork on several African Bantu languages (such as Chichewa), using their structural diversity (especially their complex verbal agreement systems and flexible word order) to test the generalizations of Lexical-Functional Grammar on languages that are typologically distant from English. She showed that the framework makes it possible to describe these phenomena without assuming movement transformations that are difficult to justify in these languages.
+Bresnan worked on Bantu languages, especially Chichewa (with Sam Mchombo), using agreement and relatively free word order to test Lexical-Functional Grammar on languages typologically distant from English. Those analyses describe the phenomena through lexical information and functional structure rather than through movement transformations.
 
 ## Impact
 
-Bresnan's work offered a rigorous formal alternative to transformational generativism. It had a deep impact on computational linguistics because of how easily it could be applied directly, and on the study of non-European languages (such as the Bantu languages on which she worked in the field). Together with Ronald Kaplan, she founded a complete research school that remains active worldwide today.
+With Ronald Kaplan she developed Lexical-Functional Grammar as a formal alternative to transformational accounts of grammatical relations. The framework has been used in computational parsing (including the ParGram project) and in descriptions of languages outside Europe. An international LFG conference still meets.
 
 ## Glue semantics and the integration of grammar with meaning
 

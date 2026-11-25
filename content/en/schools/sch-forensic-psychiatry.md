@@ -11,7 +11,7 @@ dates: "North America and Europe · from the 1960s to the present"
 country: "United States, United Kingdom"
 language: "English"
 active_start: 1962
-active_end: 2026
+active_end: "مستمر"
 active_source: "lifespan"
 cultural_origin: "western"
 edges: []
@@ -25,8 +25,7 @@ related:
 - id: "thk-james-garbarino", title: "James Garbarino", type: "مفكر"
 - id: "thk-jonas-rappeport", title: "Jonas Rappeport", type: "مفكر"
 - id: "dis-schizophrenia", title: "Schizophrenia", type: "اضطراب/حالة إكلينيكية"
-gaps:
-  - "Accuracy of risk assessment tools across legal contexts: not yet covered"
+gaps: []
 ---
 
 # Forensic Psychiatry
@@ -35,7 +34,7 @@ Forensic psychiatry is an applied branch of psychiatry that operates at the inte
 
 ## Origins and Context
 
-Forensic psychiatry differs from general clinical psychiatry in its dual position. The forensic expert serves a judicial process that seeks legal truth, not a conventional therapeutic relationship between doctor and patient, and this imposes particular ethical and methodological limits. The American Academy of Psychiatry and the Law (AAPL) was founded in the United States in 1969 as a specialized professional society, and forensic psychiatry later became a subspecialty with formal certification through the American Board of Psychiatry and Neurology (ABPN) in the 1990s, after decades of informal practice. Jonas Rappeport, one of the founders of the AAPL, helped establish the training and professional practice frameworks for this specialty during its formative stage.
+Forensic psychiatry differs from general clinical psychiatry in its dual position. The forensic expert serves a judicial process that seeks legal truth, not a conventional therapeutic relationship between doctor and patient, and this imposes particular ethical and methodological limits. The American Academy of Psychiatry and the Law (AAPL) was founded in the United States in 1969 as a specialized professional society, and forensic psychiatry later became a subspecialty with formal certification through the American Board of Psychiatry and Neurology (ABPN) in the 1990s, after decades of informal practice. Jonas Rappeport, the academy's first president, helped set its early training and practice frameworks.
 
 Structured risk assessment tools developed from the 1980s onward as a more objective alternative to unstructured clinical prediction, which early studies (including the review by John Monahan) showed to have limited predictive accuracy. Henry Steadman led extensive field research on violence and mental illness, most notably the MacArthur Violence Risk Assessment Study, which he co-led with John Monahan and others. That study re-examined the actual relationship between psychiatric diagnosis and violent behavior, moving away from exaggerated common assumptions.
 
@@ -49,7 +48,11 @@ Structured risk assessment tools developed from the 1980s onward as a more objec
 
 ## Contributions and Key Figures
 
-James Garbarino focused his research on violence among juveniles and the developmental factors leading to it, contributing to a deeper understanding of the developmental context of serious aggressive behavior in minors within judicial settings. Henry Steadman, through his long-term field research, provided empirical evidence that reshaped policies on linking mental illness with violence, emphasizing that other factors (such as substance use and personal history) are more predictive than psychiatric diagnosis alone.
+James Garbarino studied violence among juveniles and the developmental conditions associated with it. That work is often cited when courts and clinicians discuss serious aggression by minors. Henry Steadman, through long-term field research, supplied evidence that informed debates about linking mental illness with violence. That work emphasized that other factors, such as substance use and personal history, predict violence more strongly than psychiatric diagnosis alone.
+
+## Accuracy of structured risk tools
+
+Unstructured clinical judgment of dangerousness is weak, as Monahan argued in 1981. Later instruments, including structured professional-judgment tools such as the HCR-20 and the methods used in the MacArthur study, do better than chance when groups are compared. A 2011 systematic review by Singh, Grann and Fazel found that commonly used tools have only modest accuracy and generate many false-positive predictions. Performance also changes with the legal setting, the base rate of violence, and whether the tool was developed in a similar population. A score is not a finding about what a particular person will do.
 
 ## Limitations
 
@@ -65,3 +68,4 @@ This entry describes mainly United States and United Kingdom practice; legal sta
 - Richard Rogers & Daniel W. Shuman, *Fundamentals of Forensic Practice: Mental Health and Criminal Law* (New York: Springer, 2005).
 - Paul S. Appelbaum, "A Theory of Ethics for Forensic Psychiatry," *Journal of the American Academy of Psychiatry and the Law*, vol. 25, no. 3 (1997), pp. 233–247.
 - Dusky v. United States, 362 U.S. 402 (1960).
+- Singh, Jeremy P., Martin Grann, and Seena Fazel. "A Comparative Study of Violence Risk Assessment Tools: A Systematic Review and Metaregression Analysis of 68 Studies Involving 25,980 Participants." *Clinical Psychology Review* 31 (2011): 499–513.

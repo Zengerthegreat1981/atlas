@@ -25,7 +25,7 @@ gaps: []
 
 # The Case of Genie: Severe Language Deprivation and the Critical Period
 
-An American girl (given the pseudonym "Genie" to protect her identity) was discovered in Los Angeles in 1970. From about twenty months of age until her discovery at thirteen, she had been subjected to severe isolation and neglect, including an almost complete deprivation of any human linguistic interaction. This made her case the rarest, if tragic, natural test of the critical period hypothesis for language acquisition.
+An American girl, given the pseudonym "Genie," was discovered in Los Angeles in November 1970, aged thirteen. From about twenty months of age she had been kept in severe isolation, with almost no ordinary linguistic interaction. The case is often discussed, with strong caveats, in relation to Eric Lenneberg's critical-period hypothesis (1967).
 
 ## Learning after discovery
 
@@ -33,15 +33,15 @@ After her discovery, Genie underwent intensive rehabilitation and organized lang
 
 ## Significance for the critical period
 
-The case of Genie was used as supporting evidence for Lenneberg's (1967) hypothesis. Her ability to acquire vocabulary (a lexical function), despite having passed the assumed critical period, contrasted with her very limited command of grammar (a syntactic function). It was suggested that these two results could be explained by different components of language (vocabulary versus grammar) being subject to different neural maturation schedules, and that grammar in particular is the most constrained by the critical period.
+Curtiss and colleagues related the case to Lenneberg's (1967) hypothesis that first-language acquisition is biologically favored before puberty. Genie learned a substantial vocabulary after discovery, while her command of English grammar — word order beyond short strings, inflection, and questions — stayed limited. One reading is that vocabulary and grammar are not constrained in the same way. That reading is an interpretation of a single case.
 
 ## Methodological limits
 
-Genie's case remains a single, complex individual case, complicated by factors other than linguistic deprivation alone (severe physical and psychological abuse, malnutrition, and possibly cognitive impairments predating the isolation itself). This makes drawing decisive conclusions about the critical period from a single case of this kind a matter of methodological caution, although the literature continues to cite it as the clearest available field (rather than experimental) evidence.
+The case is a single life history, confounded by physical abuse, malnutrition, and possible cognitive impairments that may have preceded the isolation. Those factors block any direct inference from Genie's language to the critical period alone. The records are still cited because so few children have been found after a deprivation of this length.
 
 ## Comparison with other cases
 
-Genie's case is usually compared with historical cases of similar kind, most notably "Victor of Aveyron" (the wild child found in France in the late 18th century and studied by the physician Itard), and the case of "Isabelle" (an American girl who was isolated with her deaf mother and then acquired language remarkably quickly after her discovery at the age of six, that is, within the assumed critical period). The comparison between Isabelle, who acquired full language, and Genie, who never mastered grammar, highlights the age at which intervention begins as a possible decisive factor in the explanation.
+Discussions often compare Genie with Victor of Aveyron, found in France around 1800 and taught by Jean Marc Gaspard Itard, and with Isabelle, an American girl isolated with her deaf mother and studied by Marie K. Mason after discovery in 1938 at about six and a half. Isabelle, still within the age range Lenneberg later emphasized, went on to acquire English rapidly. Genie, found at thirteen, did not develop comparable grammar. Age of first exposure is one candidate explanation; it is not isolated from the other harms in Genie's case.
 
 ## Impact on the debate over language innateness
 
@@ -49,13 +49,16 @@ Genie's case was also cited in the debate over linguistic innateness. Her failur
 
 ## The fate of Genie and the end of the study
 
-Federal funding for Genie's research program ended in 1974. She was later moved between her mother's care and several foster homes, and her speech and wellbeing deteriorated in some of these placements. This prevented a long-term follow-up study at the scientific precision that would have been required, and added a further layer of methodological limits on generalizing the results drawn from her case.
+Support for the research program ended in the mid-1970s. Genie later moved between her mother's care and foster placements, and her speech declined in some of them. Long-term linguistic follow-up of the kind the early project envisaged was not carried out.
 
 ## Ethical controversy
 
-The case also raised lasting ethical questions. Accounts such as Rymer's describe tension between the researchers' scientific interests and Genie's welfare, and disputes among the people involved over her care and the conduct of the research; a lawsuit brought on her behalf in the late 1970s was settled. This entry documents the case and its linguistic significance without adjudicating these disputes.
+The case raised lasting ethical questions. Rymer's account describes conflict between research aims and Genie's care, and disputes among the adults responsible for her. This entry does not try to settle those disputes.
 
 ## Sources
 
+- Lenneberg, Eric H. (1967). *Biological Foundations of Language*. Wiley.
+- Fromkin, Victoria; Krashen, Stephen; Curtiss, Susan; Rigler, David; Rigler, Marilyn (1974). "The Development of Language in Genie: A Case of Language Acquisition beyond the 'Critical Period'." *Brain and Language* 1.
 - Curtiss, Susan (1977). *Genie: A Psycholinguistic Study of a Modern-Day "Wild Child"*. Academic Press.
+- Mason, Marie K. (1942). "Learning to Speak after Six and One-Half Years of Silence." *Journal of Speech Disorders* 7.
 - Rymer, Russ (1993). *Genie: A Scientific Tragedy*. HarperCollins.

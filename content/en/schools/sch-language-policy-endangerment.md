@@ -49,7 +49,7 @@ The language revitalization movement has developed several practical approaches.
 
 ## The Case of Hebrew Revival: A Rare Exception
 
-Modern Hebrew is widely cited as the most striking historically documented case of a language that had completely ceased to be a daily spoken mother tongue (Hebrew remained for centuries a language of liturgy and religious writing only) and became once again a living mother tongue for millions of speakers. This was achieved through the efforts of Eliezer Ben-Yehuda and the Hebrew Language Committee (founded 1890) in the late nineteenth and early twentieth centuries, combined with a large-scale national-settlement project that provided the exceptional social and political conditions necessary for this rare revival.
+Modern Hebrew is widely cited as a rare documented case in which a language that had long ceased to be a community's everyday mother tongue, remaining chiefly a language of liturgy and writing, again became a mother tongue for a large population. Eliezer Ben-Yehuda and the Hebrew Language Committee (Va'ad ha-Lashon, founded in 1890) promoted that shift in the late nineteenth and early twentieth centuries, within a much wider settlement and institutional project.
 
 ## Linguistic Landscape and the Measurement of Public Vitality
 
@@ -67,3 +67,4 @@ This branch is closely linked to the methodology of field recording and language
 - Gippert, Jost; Himmelmann, Nikolaus P.; Mosel, Ulrike (eds.) (2006). *Essentials of Language Documentation*. Mouton de Gruyter.
 - Himmelmann, Nikolaus P. (1998). "Documentary and Descriptive Linguistics." *Linguistics* 36(1).
 - Landry, Rodrigue; Bourhis, Richard Y. (1997). "Linguistic Landscape and Ethnolinguistic Vitality." *Journal of Language and Social Psychology* 16(1).
+- Shohamy, Elana (2006). *Language Policy: Hidden Agendas and New Approaches*. Routledge.

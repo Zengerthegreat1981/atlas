@@ -22,7 +22,7 @@ gaps: []
 
 # Head-Driven Phrase Structure Grammar
 
-The foundational work of the HPSG framework, written by Carl Pollard and Ivan Sag (1994). It presents a complete formal statement of a non-transformational grammatical theory that represents all linguistic information (phonological, syntactic and semantic) in single unified feature structures called "signs."
+The standard 1994 statement of Head-Driven Phrase Structure Grammar (HPSG), by Carl Pollard and Ivan A. Sag. It presents a full formal version of a non-transformational theory that represents phonological, syntactic and semantic information in unified feature structures called signs.
 
 ## The Formal Apparatus: Type Hierarchy and Feature Structures
 
@@ -34,7 +34,7 @@ The framework holds that every grammatical phrase is "head-driven": the head wor
 
 ## Historical Context of Composition
 
-The framework arose in the late 1970s and 1980s as a reaction to the complexity of the transformational machinery in Chomskyan generative grammar. Pollard and Sag, influenced by non-transformational traditions such as Generalized Phrase Structure Grammar (Gazdar and colleagues), categorial grammar, and the Lexical-Functional Grammar (LFG) of Bresnan and Kaplan, sought to build a fully "declarative" grammatical theory. Such a theory describes well-formed sentences through fixed constraints that are satisfied all at once, rather than through sequential derivational operations that convert one structure into another. A precursor, Pollard and Sag's *Information-Based Syntax and Semantics, Vol. 1* (1987), preceded the book. The framework was then restated and revised in the 1994 volume, which became its standard reference.
+HPSG took shape in the mid-1980s, in a broader turn away from the complexity of transformational grammar. Pollard and Sag drew on non-transformational work including Generalized Phrase Structure Grammar (Gerald Gazdar and colleagues), categorial grammar, and the Lexical-Functional Grammar of Joan Bresnan and Ronald Kaplan. They aimed at a declarative theory: well-formed sentences satisfy constraints together, rather than being produced by ordered transformations that convert one structure into another. Pollard and Sag's *Information-Based Syntax and Semantics*, volume 1 (1987), was the immediate precursor. A planned second volume did not appear. The 1994 book revised the framework and became its usual reference.
 
 ## Unified Representation of Linguistic Information
 
@@ -50,7 +50,7 @@ The book became the founding reference for the HPSG framework, which gained wide
 
 ## Relation to the Arabic Grammatical Tradition
 
-There is no direct historical link between HPSG and traditional Arabic grammar. However, some contemporary computational linguists have applied the framework to describe complex Arabic grammatical phenomena, such as agreement, flexible word order and case marking. They drew on the flexibility of unified feature structures in handling the rich morphology of Standard Arabic compared with English. These attempts showed that the framework can be adapted to languages whose morpho-syntactic structure is far removed from English, the language on which it was originally modelled. Such work is cited as evidence for the framework's cross-linguistic applicability.
+There is no historical link between HPSG and traditional Arabic grammar. Computational linguists have since written HPSG fragments for Standard Arabic, including treatments of agreement, case and relatively free word order, using typed feature structures to carry morphological information that English expresses more sparsely. Arabic was not part of the 1994 book's empirical base. Later grammars of other languages are the evidence usually cited for the framework's cross-linguistic use.
 
 ## Sources
 

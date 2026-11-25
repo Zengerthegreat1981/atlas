@@ -35,10 +35,13 @@ This law faced an early objection from **Thomas Robert Malthus**, who warned of 
 
 ## The Keynesian challenge
 
-This law remained a dominant reference in classical and neoclassical economics for a century and a half, until **John Maynard Keynes**, in *The General Theory of Employment, Interest and Money* (1936), made the refutation of this law the very foundation of his entire theoretical revolution. Keynes showed that saving and investment need not automatically equalize at the level of full employment of resources, and that an entire economy can settle at an equilibrium marked by a general surplus of supply and chronic unemployment. This is precisely the opposite of what Say's law had excluded from the outset.
+John Stuart Mill restated the doctrine in *Principles of Political Economy* (1848): commodities are paid for with commodities, so a general excess supply of all goods at once is not the ordinary case. Mill still allowed that a temporary rise in the demand for money can coincide with unsold goods and commercial distress.
+
+**John Maynard Keynes**, in *The General Theory of Employment, Interest and Money* (1936), treated the rejection of Say's law, in the sense that supply creates its own demand, as a starting point of his theory of employment. He argued that decisions to save and decisions to invest are made by different people, and that they need not match at a level of output that fully employs the labour force. The economy can then settle where aggregate demand is short of what full employment would require. The phrase "Say's law" itself became standard largely through Keynes's usage.
 
 ## Sources
 
 - Say, Jean-Baptiste. *Traité d'économie politique*. 1803 (English translation: *A Treatise on Political Economy*, 1821).
 - Keynes, John Maynard. *The General Theory of Employment, Interest and Money*. Macmillan, 1936.
+- Mill, John Stuart. *Principles of Political Economy*. 1848.
 - Sowell, Thomas. *Say's Law: An Historical Analysis*. Princeton University Press, 1972.

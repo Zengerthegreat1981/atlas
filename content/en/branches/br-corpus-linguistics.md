@@ -24,7 +24,7 @@ A methodological branch that studies language by analyzing large collections of 
 
 ## From structuralism to computing
 
-The roots of this branch go back to the American structuralist tradition in the mid-20th century, when Zellig Harris proposed formal "discovery procedures" for extracting grammatical structure directly from a limited set of actually recorded texts, without recourse to a prior intuitive judgment. But the field did not take shape as an independent, extensible method until the rise of computing, beginning with the Brown Corpus (compiled in 1961 and released in 1964), one of the first computer-readable corpora, containing a million words of written American English. It made possible, for the first time, automatic statistical analysis of patterns of actual use on a scale that was not possible by hand.
+The roots of this branch go back to the American structuralist tradition in the mid-20th century, when Zellig Harris proposed formal "discovery procedures" for extracting grammatical structure directly from a limited set of actually recorded texts, without recourse to a prior intuitive judgment. The field took a more explicitly corpus-based form with large collections of running text. Randolph Quirk's Survey of English Usage began in 1959 as a structured collection of British English. The Brown Corpus, compiled in 1961 by W. Nelson Francis and Henry Kučera and made available in machine-readable form in 1964, contains about one million words of written American English and supported automatic counts of usage on a scale that hand analysis could not match.
 
 ## Method: frequency and statistical significance
 
@@ -48,11 +48,11 @@ Most modern corpora undergo a preliminary automatic processing called "tagging,"
 
 ## Applied uses for lexicography and dictionaries
 
-Corpus linguistics has revolutionized modern dictionary-making. Instead of the traditional lexicographer relying on personal intuition and limited reading to determine a word's meanings and common uses, it is now possible to extract every actual context in which a given word occurs across millions of sentences, and to arrange them statistically by the frequency of each meaning and usage. The result is a more precise and realistic dictionary reflecting the actual contemporary use of the language, not just the individual impression of the lexicographer, however experienced.
+Corpus linguistics has changed modern dictionary-making. Instead of the traditional lexicographer relying on personal intuition and limited reading to determine a word's meanings and common uses, it is now possible to extract every actual context in which a given word occurs across millions of sentences, and to arrange them statistically by the frequency of each meaning and usage. The result is a more precise and realistic dictionary reflecting the actual contemporary use of the language, not just the individual impression of the lexicographer, however experienced.
 
 ## Replicability and independent verification
 
-One of the most important methodological virtues of this branch is that its results can be replicated and independently verified by other researchers. Any second researcher can access the same corpus and rerun the same statistical analysis to check the validity of the announced result, unlike an individual intuitive judgment, which is harder to verify independently with the same quantitative precision.
+A methodological feature of this branch is that many of its results can be replicated and independently verified by other researchers. Any second researcher can access the same corpus and rerun the same statistical analysis to check the validity of the announced result, unlike an individual intuitive judgment, which is harder to verify independently with the same quantitative precision.
 
 ## Sources
 

@@ -23,7 +23,7 @@ gaps: []
 ---
 # Governing the Commons
 
-**Elinor Ostrom** published *Governing the Commons: The Evolution of Institutions for Collective Action* in 1990. The book laid the theoretical and empirical foundation of the **Bloomington School** in the study of common-pool resources, and it was a central work behind the award of the Nobel Memorial Prize in Economic Sciences to Ostrom in 2009 (shared with Oliver Williamson).
+**Elinor Ostrom** published *Governing the Commons: The Evolution of Institutions for Collective Action* in 1990. The book is a central text of the **Bloomington School** on common-pool resources. It was among the works associated with the award of the Nobel Memorial Prize in Economic Sciences to Ostrom in 2009, shared with Oliver Williamson.
 
 ## A question that seemed theoretically settled
 
@@ -39,11 +39,11 @@ From this comparison Ostrom derived a set of **"design principles"** that she fo
 
 ## A third alternative between state and market
 
-She also noted that Hardin's model fits open-access resources rather than resources governed by an established community. Ostrom concluded that the assumed dichotomy between "government nationalization" and "individual privatization" does not cover all the solutions possible in theory and in practice. There exist self-organized local institutions which, where these principles are present, can manage a common resource with a stability that equals or sometimes exceeds solutions imposed centrally from outside the local community directly concerned with the resource.
+She also noted that Hardin's model fits open-access resources rather than resources governed by an established community. Ostrom concluded that the assumed dichotomy between state control and individual private property does not cover all observed arrangements. Where the design principles are present, self-organized local institutions can manage a common-pool resource over long periods. She did not claim that they always outperform state or private arrangements.
 
 ## Impact and reception
 
-The book transformed the study of natural resource management across several fields, including environmental economics, political science and applied anthropology. Its influence later extended into debates on the management of digital and global climate commons. It was among the works cited in the Nobel Committee's recognition of her research in 2009.
+The book became a standard reference in environmental economics, political science and related fields. Later writers have used its ideas in debates on digital commons and on the climate. It was among the works associated with the Nobel recognition of her research in 2009.
 
 ## Methodological rigour in case selection
 

@@ -25,7 +25,7 @@ gaps: []
 
 # Gilles Fauconnier
 
-A French cognitive linguist who, together with Mark Turner, founded the theory of **conceptual blending**, a framework that explains how the human mind builds new meanings by combining multiple conceptual structures within a single mental "space."
+A French cognitive linguist who, with Mark Turner, developed the theory of **conceptual blending** (conceptual integration): a framework for how speakers build new meanings by combining partial conceptual structures.
 
 ## Mental spaces
 
@@ -45,7 +45,7 @@ Fauconnier and Turner identified three mental operations that explain how the bl
 
 ## Academic career between France and America
 
-Fauconnier began his academic career in France and later became a professor of cognitive science at the University of California, San Diego, where he was a leading figure in the cognitive linguistics movement alongside Ronald Langacker and in dialogue with George Lakoff, Leonard Talmy and others. He died in 2021, after a research career of several decades developing the theory of mental spaces and conceptual blending.
+Fauconnier began his academic career in France and later became a professor of cognitive science at the University of California, San Diego, working in cognitive linguistics alongside figures such as Ronald Langacker, George Lakoff and Leonard Talmy. He died in 2021.
 
 ## An additional example: blending imaginary races
 

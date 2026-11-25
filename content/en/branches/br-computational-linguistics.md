@@ -37,9 +37,9 @@ Alongside engineering applications, the branch developed basic formal tools for 
 
 The branch closely intersects with corpus linguistics: large digital text corpora provide the raw material on which all modern computational models are trained, while computational linguistics in turn provides automated tools (such as part-of-speech tagging and automatic grammatical parsing) used to analyze those same corpora.
 
-## The Transformer Architecture and the Final Turning Point
+## The Transformer Architecture
 
-The publication of the "Transformer" architecture in 2017 marked a decisive turning point within this branch. This architecture replaced the sequential mechanism that processed a sentence word by word in strict order with an "Attention" mechanism that allows the model to link any word in a sentence directly to any other word regardless of the distance between them. This shift enabled the training of much larger models with far higher computational efficiency, and directly paved the way for the emergence of today's large language models, capable of generating long, coherent texts and performing a wide range of language tasks without specialized training for each task.
+The "Transformer" architecture, introduced by Vaswani and colleagues in 2017, replaced recurrent sequential processing with self-attention, which relates any token in a sequence to any other regardless of distance. The design scaled more readily than earlier recurrent encoder-decoder models and became the basis of subsequent large language models used for generation, translation, and other tasks.
 
 ## Computational Processing of Arabic: Special Challenges
 
@@ -55,6 +55,6 @@ The branch systematically distinguishes between computational "understanding" ta
 
 ## Sources
 
-- Jurafsky, Dan, and James H. Martin. *Speech and Language Processing*. 2nd ed., Pearson, 2009.
+- Jurafsky, Daniel, and James H. Martin. *Speech and Language Processing*. 2nd ed., Pearson, 2008.
 - Vaswani, Ashish, et al. "Attention Is All You Need." *Advances in Neural Information Processing Systems* 30, 2017.
 - Hutchins, W. John. *Machine Translation: Past, Present, Future*. Ellis Horwood, 1986.

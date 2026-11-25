@@ -22,7 +22,7 @@ gaps: []
 ---
 # Alexander Chayanov
 
-**Alexander Vasilievich Chayanov** was a Russian-Soviet agricultural economist who is regarded as the founder of a distinctive theory of the independent peasant economy. He saw the family farm as an economic unit with its own internal logic, not necessarily subject to the conventional calculations of capitalist profit. This theory was rediscovered and widely adopted in development economics and economic anthropology in the second half of the twentieth century. Chayanov himself paid with his life for the conflict between his ideas and Stalin's policy of forced collectivisation.
+**Alexander Vasilievich Chayanov** was a Russian-Soviet agricultural economist who set out a distinctive theory of the independent peasant economy. He saw the family farm as an economic unit with its own internal logic, not necessarily subject to the conventional calculations of capitalist profit. This theory was rediscovered and widely adopted in development economics and economic anthropology in the second half of the twentieth century. Chayanov himself paid with his life for the conflict between his ideas and Stalin's policy of forced collectivisation.
 
 ## An Agrarian World in the Service of the Russian Peasant
 

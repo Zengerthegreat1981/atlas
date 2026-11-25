@@ -28,7 +28,7 @@ gaps: []
 
 # Abd al-Qahir al-Jurjani
 
-A grammarian and rhetorician of Persian origin who wrote in Arabic, from the city of Jurjan (Gurgan), south of the Caspian Sea. He is regarded as the author of the most influential systematic Arabic theory of the rhetorical inimitability (*i'jaz*) of the Qur'an and of the mechanisms of metaphor and simile, through two pivotal books: *Dala'il al-I'jaz* and *Asrar al-Balagha*. Little is known of his practical life, but his theoretical legacy transformed the entire course of the Arabic rhetorical tradition after him.
+A grammarian and rhetorician of Persian origin who wrote in Arabic, from the city of Jurjan (Gurgan), southeast of the Caspian Sea. He wrote a highly influential Arabic account of the rhetorical inimitability (*i'jaz*) of the Qur'an and of metaphor and simile, in two major books: *Dala'il al-I'jaz* and *Asrar al-Balagha*. Little is known of his life, but his theoretical work strongly shaped the later Arabic rhetorical tradition.
 
 ## Biography
 
@@ -74,7 +74,6 @@ Several comparative scholars, Arab and Western, have pointed out the closeness o
 - **Asrar al-Balagha**: the theory of simile, metaphor, figurative language and imagination.
 - **al-'Awamil al-Mi'a**: a concise treatise on grammatical governors (*'awamil*), traditionally used in elementary grammar instruction.
 - **al-Jumal**: a short treatise on grammar.
-- Shorter grammatical epistles and articles addressing specific questions of inflection and morphology, some of which are preserved within later collections.
 
 ## Sources
 

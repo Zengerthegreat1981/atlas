@@ -28,7 +28,7 @@ In 1978 the American economist **Charles Kindleberger**, professor of economics 
 
 ## The Theoretical Framework: Minsky's Model of Financial Instability
 
-Kindleberger builds his broad historical analysis on a theoretical framework drawn from the economist Hyman Minsky, supplemented by ideas from monetary economists. Minsky's model describes how the financial cycle passes through successive phases. In the stylised sequence Kindleberger uses, an external "displacement" creates new profit opportunities, such as a technological innovation or a new trade opening. This is followed by a boom fed by credit expansion, then speculative "euphoria," in which investors act as if high prices will continue. Later come "financial distress" and profit-taking, as some investors begin to liquidate. Finally a "panic" and a sharp collapse in prices occur, as many rush to sell their assets at the same time.
+Kindleberger builds the historical narrative on a model of financial instability drawn from Hyman Minsky, and on the lender-of-last-resort doctrine associated with Walter Bagehot. In the sequence Kindleberger uses, an external "displacement" creates new profit opportunities, such as a technical innovation or the opening of a new market. Credit expansion feeds a boom, then speculative "euphoria." "Financial distress" and profit-taking follow, as some investors sell. A "panic" can then produce a sharp fall in prices as many try to sell at once.
 
 ## The Recurrence of Patterns Across Centuries of Financial History
 
@@ -44,7 +44,7 @@ Kindleberger devotes an important analysis to the role of the "lender of last re
 
 ## Repeated Republication and Renewed Relevance
 
-The book was republished in successive editions, with the economist Robert Aliber as co-author and later sole reviser (from the fourth edition, 2000, and continuing after Kindleberger's death in 2003). The updates added analysis of later financial crises such as the Asian crisis of 1997 and the global financial crisis of 2008. Each new wave of financial crises brought new readers who found Kindleberger's historical framework remarkably relevant for understanding the new crisis. This made the book a classic reference, rediscovered periodically after almost every major financial crisis since its first publication roughly half a century ago.
+The book was reissued in several editions. Kindleberger revised it through the fourth edition (2000). Robert Aliber appears as co-author of the fifth edition (2005), prepared after Kindleberger's death in 2003, and revised later editions. Those updates discuss later crises, including the Asian crisis of 1997 and, in editions after 2008, the global financial crisis. The book is often reread when a new crisis occurs.
 
 ## Kindleberger's Practical Career Before Academia
 
@@ -57,5 +57,6 @@ Kindleberger's historical analysis, although it did not use advanced mathematica
 ## Sources
 
 - Kindleberger, Charles P. *Manias, Panics, and Crashes: A History of Financial Crises*. Basic Books, 1978.
-- Minsky, Hyman P. "The Financial Instability Hypothesis." Levy Economics Institute Working Paper No. 74, 1992.
+- Kindleberger, Charles P., and Robert Z. Aliber. *Manias, Panics, and Crashes: A History of Financial Crises*. 5th ed., Palgrave Macmillan, 2005.
+- Bagehot, Walter. *Lombard Street: A Description of the Money Market*. Henry S. King, 1873.
 - Minsky, Hyman P. *Stabilizing an Unstable Economy*. Yale University Press, 1986.

@@ -26,11 +26,11 @@ gaps: []
 ---
 # Ludwig von Mises
 
-**Ludwig von Mises** was an Austrian economist regarded as the central figure of the second generation of the Austrian school. He is known for his early and radical critique of the possibility of a centrally planned socialist economy, for his theory of money and the business cycle, and for a distinctive philosophical methodology, which he called "praxeology," for the study of economic human action.
+**Ludwig von Mises** was an Austrian economist and a central figure of the Austrian school in the generation after Eugen von Böhm-Bawerk. He is known for his early and radical critique of the possibility of a centrally planned socialist economy, for his theory of money and the business cycle, and for a distinctive philosophical methodology, which he called "praxeology," for the study of economic human action.
 
 ## From Vienna to Geneva and New York
 
-Mises was born in the city of Lemberg (now Lviv) in 1881. He studied at the University of Vienna, where he was influenced by the writings of Carl Menger, the founder of the school, and by Böhm-Bawerk's seminar. In the 1920s and early 1930s he ran a private seminar in Vienna whose participants included Friedrich Hayek, Gottfried Haberler, Fritz Machlup and Oskar Morgenstern. He left Austria for Geneva in 1934, as the political situation worsened, and then emigrated to the United States in 1940. There he was a visiting professor at New York University from 1945 to 1969 without a regular salaried chair, relying partly on support from private foundations and institutions that backed his ideas.
+Mises was born in the city of Lemberg (now Lviv) in 1881. He studied at the University of Vienna, where he was influenced by the writings of Carl Menger and by Böhm-Bawerk's seminar. In the 1920s and early 1930s he ran a private seminar in Vienna whose participants included Friedrich Hayek, Gottfried Haberler, Fritz Machlup and Oskar Morgenstern. He left Austria for Geneva in 1934, as the political situation worsened, and then emigrated to the United States in 1940. There he was a visiting professor at New York University from 1945 to 1969 without a regular salaried chair, relying partly on support from private foundations and institutions that backed his ideas.
 
 ## Monetary and Credit Theory
 
@@ -68,4 +68,5 @@ Mises's argument about the impossibility of central economic calculation was rev
 
 - Mises, Ludwig von. *Human Action: A Treatise on Economics*. Yale University Press, 1949.
 - Mises, Ludwig von. *The Theory of Money and Credit*. Translated by H. E. Batson, Jonathan Cape, 1934 (German original 1912).
+- Mises, Ludwig von. "Economic Calculation in the Socialist Commonwealth." In *Collectivist Economic Planning*, edited by F. A. Hayek, Routledge, 1935 (German original 1920).
 - Hülsmann, Jörg Guido. *Mises: The Last Knight of Liberalism*. Ludwig von Mises Institute, 2007.

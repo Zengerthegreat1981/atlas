@@ -28,7 +28,7 @@ Stokoe analyzed each sign into three simultaneous minimal parameters that make u
 
 ## The Structural Parallel with the Phoneme
 
-This analysis directly parallels the analysis of the phoneme into distinctive features in spoken language. Just as the phonemes /b/ and /p/ are distinguished by a single minimal sound feature (voicing), two signs in sign language are sometimes distinguished by only one small parameter (such as changing the handshape alone while keeping the movement and location constant). This is decisive evidence that sign language has a real, structurally organized phonological level, not merely free, unconstrained gestures.
+This analysis directly parallels the analysis of the phoneme into distinctive features in spoken language. Just as the phonemes /b/ and /p/ are distinguished by a single minimal sound feature (voicing), two signs in sign language are sometimes distinguished by only one small parameter (such as changing the handshape alone while keeping the movement and location constant). Minimal pairs of this kind are treated as evidence that a sign language has a structured sublexical level, analogous to phonology, rather than only holistic gestures.
 
 ## Impact
 
@@ -36,7 +36,7 @@ This analysis founded the field of sign phonology as an independent branch paral
 
 ## The Written Notation System
 
-Stokoe also developed an original written notation system (known today by his name, Stokoe Notation) for representing these parameters symbolically on paper. This made it possible for the first time to write down American Sign Language signs with structural precision, rather than only rough kinesthetic description. This achievement paved the way for the creation of the first systematic linguistic dictionary of American Sign Language (*A Dictionary of American Sign Language on Linguistic Principles*, 1965, co-authored with Dorothy Casterline and Carl Croneberg).
+Stokoe also developed an original written notation system (known today by his name, Stokoe Notation) for representing these parameters symbolically on paper. The notation recorded handshape, location, and movement with explicit symbols rather than only a prose description of the gesture. With Dorothy Casterline and Carl Croneberg he used it in *A Dictionary of American Sign Language on Linguistic Principles* (1965). Stokoe's term "chereme" was later largely abandoned; sign-language linguists now usually speak of phonological parameters, while keeping the analytical claim that signs have a sublexical structure.
 
 ## Academic Resistance and Later Recognition
 

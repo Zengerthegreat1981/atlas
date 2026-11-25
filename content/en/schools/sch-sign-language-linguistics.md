@@ -28,13 +28,13 @@ gaps: []
 
 A branch of linguistics that studies natural sign languages (such as American Sign Language, ASL) as complete human languages, with their own independent phonological, morphological, and syntactic systems, rather than as manual translations of the surrounding spoken language.
 
-## The Founding Discovery
+## Stokoe's 1960 analysis
 
-Before the 1960s, sign languages were commonly treated as primitive visual gestures rather than languages in the full linguistic sense. Beginning with William Stokoe's 1960 monograph *Sign Language Structure*, linguistic research demonstrated that American Sign Language possesses a sub-morphemic phonological structure (signs composed of minimal parameters such as handshape, movement, and location, in parallel to phonemes in spoken language), and an independent grammatical structure that includes spatial morphology and directional verb agreement with no direct counterpart in spoken language.
+Before the 1960s, sign languages were commonly treated as primitive visual gestures rather than languages in the full linguistic sense. William Stokoe's 1960 monograph *Sign Language Structure* argued that American Sign Language has a sub-morphemic structure: signs composed of a limited set of handshapes, locations (what he called tabulae or "tabs"), and movements ("sigs"). Later description added grammatical uses of space and directional verb agreement that have no direct counterpart in the surrounding spoken language. Subsequent research has treated that analysis as evidence that ASL is organized as a language, not as a manual code for English.
 
 ## Theoretical Significance
 
-This discovery provided decisive evidence that the human capacity for language is independent of the auditory-vocal medium specifically: a natural language can be realized in a visual-manual medium with the same degree of structural organization. This fed later debates about the nature of the universal language faculty and its modality flexibility.
+The description of natural sign languages is a main body of evidence that a human language can be realized in a visual-manual medium, with phonological and grammatical organization, and is not tied to the auditory-vocal channel alone. That evidence enters later debates about how modality-flexible the language faculty is.
 
 ## Cherology: Sub-Morphemic Phonetic Parameters
 
@@ -46,7 +46,7 @@ Sign language is not confined to the manual component: facial expressions, eyebr
 
 ## Acquisition and Emergence of Sign Language
 
-The study of sign language acquisition in deaf children has provided important evidence that the stages of linguistic development (including a manual babbling stage) closely parallel the stages of spoken language acquisition in time, further supporting the independence of the language faculty from the medium. Ann Senghas's studies of the emergence of Nicaraguan Sign Language (when deaf children were brought together in a single school for the first time in the 1980s, with no pre-existing shared sign language) provided rare, live evidence that a language with a complete grammatical structure can emerge spontaneously within one or two generations through interaction among the children themselves, independently of any ready-made adult linguistic model. In a similar context, Susan Goldin-Meadow documented the phenomenon of "Home Sign": spontaneously organized gestural systems invented by deaf children isolated from any community sign language, which show some initial grammatical regularity despite the absence of any external adult model to imitate.
+Studies of deaf children acquiring a sign language report developmental stages, including manual babbling (Petitto and Marentette, 1991), on a timetable comparable to spoken-language milestones. Ann Senghas and colleagues studied Nicaraguan Sign Language, which took shape after deaf children were brought together in schools in Managua from the late 1970s and 1980s without a shared conventional sign language. Cohort comparisons (Senghas and Coppola, 2001) report that later cohorts use more consistent spatial devices than the first cohort, evidence that grammatical structure can increase across generations of child learners. Susan Goldin-Meadow documented "home sign": gesture systems created by deaf children who lack a community sign language. Those systems show some regular ordering and combinatorial structure, and they are not full community languages.
 
 ## Bimodal Bilingualism
 
@@ -54,13 +54,18 @@ The study of bimodal bilinguals (people who know both a sign language and a spok
 
 ## Williams Syndrome and Evidence of Cognitive-Linguistic Dissociation
 
-Ursula Bellugi also provided important evidence from the study of Williams syndrome (a rare genetic disorder accompanied by intellectual disability alongside comparatively strong verbal abilities, though its language profile is not fully intact), documenting the possibility of dissociating linguistic ability from general intelligence in both directions (as also shown by opposite cases of Specific Language Impairment with normal general intelligence). This is an independent neuropsychological finding that strengthens the hypothesis that the "language faculty" is neurologically independent of other general cognitive abilities, the same theoretical thesis supported by sign language research from a quite different angle (the independence of language from the spoken medium).
+Ursula Bellugi and colleagues also described Williams syndrome, a rare genetic condition with intellectual disability and relatively spared vocabulary and grammar, though the language profile is not intact. They contrasted it with specific language impairment, in which language can be impaired while nonverbal intelligence is in the typical range. The contrast has been cited in arguments that language and general intelligence can dissociate. Later work has qualified both profiles, so the dissociation is partial rather than a clean separation of a language faculty from the rest of cognition. Sign-language research bears on a different question, the independence of language from the vocal medium, and the two arguments should not be collapsed.
 
 ## Impact
 
-Sign language linguistics established a complete research field that changed how theoretical linguistics conceives of the nature of "language" itself. It influenced educational policies for deaf people (the shift from historical models of linguistic suppression that imposed "oralism" exclusively to recognizing sign language as a full cultural and linguistic right), and provided invaluable comparative material for testing the universality of general theoretical hypotheses in linguistics across two radically different modalities.
+Sign language linguistics is now a research field in its own right. It has been used in arguments for recognizing sign languages in deaf education, against policies that allowed only speech, and it supplies comparative evidence for testing grammatical claims in a second modality.
 
 ## Sources
 
+- Stokoe, William C. (1960). *Sign Language Structure: An Outline of the Visual Communication Systems of the American Deaf*. Studies in Linguistics, Occasional Papers 8. University of Buffalo.
+- Battison, Robbin (1978). *Lexical Borrowing in American Sign Language*. Linstok Press.
 - Klima, Edward; Bellugi, Ursula (1979). *The Signs of Language*. Harvard University Press.
+- Petitto, Laura Ann; Marentette, Paula F. (1991). "Babbling in the Manual Mode: Evidence for the Ontogeny of Language." *Science* 251.
+- Senghas, Ann; Coppola, Marie (2001). "Children Creating Language: How Nicaraguan Sign Language Acquired a Spatial Grammar." *Psychological Science* 12(4).
+- Goldin-Meadow, Susan (2003). *The Resilience of Language*. Psychology Press.
 - Sandler, Wendy; Lillo-Martin, Diane (2006). *Sign Language and Linguistic Universals*. Cambridge University Press.

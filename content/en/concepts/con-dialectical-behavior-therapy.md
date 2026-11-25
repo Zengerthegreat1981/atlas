@@ -9,7 +9,7 @@ en: "Dialectical Behavior Therapy"
 crumb: "Psychiatry ← Concepts ← Dialectical Behavior Therapy"
 active_start: 1993
 active_end: "مستمر"
-language: "Arabic, English"
+language: "English"
 edges:
 - rel: "belongs_to", target: "Personality Disorders", target_type: "مدرسة"
 related:

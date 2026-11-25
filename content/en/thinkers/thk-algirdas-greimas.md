@@ -26,7 +26,7 @@ gaps: []
 
 # Algirdas Julien Greimas
 
-A French linguist and semiotician of Lithuanian origin, who founded the Paris school of structural semiotics and developed formal tools for analyzing the structure of meaning in narrative and discourse.
+A French linguist and semiotician of Lithuanian origin, the central figure of what became known as the Paris school of structural semiotics. He developed formal tools for analyzing the structure of meaning in narrative and discourse.
 
 ## Structural Semantics
 
@@ -42,11 +42,11 @@ Greimas also developed a general "narrative grammar" that describes the fixed st
 
 ## Modal Semiotics and the Narrative Program
 
-Later, Greimas and his Paris school (including Joseph Courtés and Jacques Fontanille) developed what he called "modal semiotics," which analyzes the "narrative program" of a subject through four basic modalities that govern its actions: will (the subject wanting to do something), ability (being able to do it), knowledge (knowing how to do it), and obligation (being obliged to do it). This analysis is accompanied by the concept of "isotopy," which describes the repetition of shared semantic features across an entire text, ensuring its overall semantic coherence and allowing the correct interpretive level of reading to be identified when possible ambiguity arises.
+Later, Greimas, with Joseph Courtés and other members of the Paris school, developed what he called "modal semiotics," which analyzes the "narrative program" of a subject through four basic modalities that govern its actions: will (the subject wanting to do something), ability (being able to do it), knowledge (knowing how to do it), and obligation (being obliged to do it). With Jacques Fontanille he later extended this line of work to the semiotics of passions (*Sémiotique des passions*, 1991). This analysis is accompanied by the concept of "isotopy," which describes the repetition of shared semantic features across an entire text, ensuring its overall semantic coherence and allowing the correct interpretive level of reading to be identified when possible ambiguity arises.
 
 ## The Paris School of Semiotics
 
-Greimas founded what became known as the "Paris School" of structural semiotics, which developed an extensive methodological project aimed at building a general "grammar of meaning" extending beyond the application to literary narrative alone, to the analysis of legal, religious, advertising, and visual discourse alike. Together with Joseph Courtés, Greimas compiled a systematic encyclopedic glossary for this project titled *Semiotics: A Reasoned Dictionary of the Theory of Language* (Sémiotique: Dictionnaire raisonné de la théorie du langage, 1979), which documented the basic concepts of Greimassian semiotics with strict terminological precision.
+Around his seminar grew what became known as the "Paris School" of structural semiotics, an extensive methodological project aimed at a general "grammar of meaning" extending beyond literary narrative to the analysis of legal, religious, advertising, and visual discourse. Together with Joseph Courtés, Greimas compiled a systematic encyclopedic glossary for this project titled *Semiotics: A Reasoned Dictionary of the Theory of Language* (Sémiotique: Dictionnaire raisonné de la théorie du langage, 1979), which documented the basic concepts of Greimassian semiotics with strict terminological precision.
 
 ## Personal Trajectory and Intellectual Movement
 
@@ -69,3 +69,4 @@ The dissemination of Greimas's work in the English-speaking world lagged behind 
 - Greimas, Algirdas Julien (1966). *Sémantique structurale*. Larousse.
 - Greimas, Algirdas Julien (1983). *Du sens II*. Éditions du Seuil.
 - Greimas, Algirdas Julien; Courtés, Joseph (1979). *Sémiotique: Dictionnaire raisonné de la théorie du langage*. Hachette.
+- Greimas, Algirdas Julien; Fontanille, Jacques (1991). *Sémiotique des passions: Des états de choses aux états d'âme*. Éditions du Seuil.

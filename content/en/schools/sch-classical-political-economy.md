@@ -26,7 +26,7 @@ gaps: []
 ---
 # Classical Political Economy
 
-**Classical political economy** is the label historians of economic thought apply to the foundational school that established economics as a systematic discipline independent of ethics and general public policy. It ran from the publication of **Adam Smith**'s *The Wealth of Nations* in 1776 until the late nineteenth century, when the Marginal Revolution began replacing its methods. Its founders — Smith, Ricardo, Say, Malthus and later John Stuart Mill — shared one central question: **what determines the wealth of nations and its growth, and how is that wealth distributed among the three great classes: landowners, owners of capital, and workers?**
+**Classical political economy** is the label historians of economic thought apply to the school that gave the study of wealth, growth and distribution a connected theoretical form. It ran from the publication of **Adam Smith**'s *The Wealth of Nations* in 1776 until the late nineteenth century, when the Marginal Revolution began replacing its theory of value. Smith, Ricardo, Say, Malthus and later John Stuart Mill did not separate the subject from moral and political questions; Smith held a chair of moral philosophy, and Mill's *Principles of Political Economy* (1848) still treated distribution as open to institutional choice. They shared one central question: **what determines the wealth of nations and its growth, and how is that wealth distributed among the three great classes: landowners, owners of capital, and workers?**
 
 ## From mercantilism to an independent science
 
@@ -42,7 +42,7 @@ In *The Wealth of Nations*, Smith introduced the image of the **invisible hand**
 
 ## An early Arab parallel: Ibn Khaldun and the division of labour
 
-Some historians of economic thought have noted a resemblance between Smith's idea of the division of labour as a source of wealth and what **Ibn Khaldun** put forward in the *Muqaddimah* (8th century AH): that human labour is the actual source of gain and of civilization (*ʿumrān*), and that individuals cooperating on specialized functions raise their combined output above what each would produce working alone. This resemblance is usually cited as an independent intellectual precedent rather than as a direct, documented influence on Smith, since there is no documented evidence that Smith read the *Muqaddimah*.
+Some historians of economic thought have noted a resemblance between Smith's idea of the division of labour as a source of wealth and what **Ibn Khaldun** put forward in the *Muqaddimah* (1377): that human labour is the actual source of gain and of civilization (*ʿumrān*), and that individuals cooperating on specialized functions raise their combined output above what each would produce working alone. This resemblance is usually cited as an independent intellectual precedent rather than as a direct, documented influence on Smith, since there is no documented evidence that Smith read the *Muqaddimah*.
 
 ## Decline before the Marginal Revolution
 
@@ -50,7 +50,7 @@ By 1870, Jevons, Menger and Walras had begun replacing the concept of labour val
 
 ## Methodology: natural laws and economic liberty
 
-Thinkers of this school shared a deep methodological assumption, partly inherited from the French Physiocrats: that the economy is governed by **natural laws** similar to the laws of physics, discoverable through observation and logical inference, and that the best economic policy is the one that lets these natural laws operate with the least possible direct government intervention. This is the principle of *laissez-faire* ("let it be, let it pass"). Although Smith did not invent the phrase in its literal form, it became a shorthand for the general spirit of the entire school.
+Thinkers of this school shared a deep methodological assumption, partly inherited from the French Physiocrats: that the economy is governed by **natural laws** similar to the laws of physics, discoverable through observation and logical inference, and that the best economic policy is the one that lets these natural laws operate with the least possible direct government intervention. This is the principle of *laissez-faire* (from the French *laissez faire, laissez passer*, "let do, let pass"), a phrase associated with the Physiocrats, not coined by Smith. It became a shorthand for one strand of the school, though members differed on how far it should go: Malthus defended the Corn Laws for part of his career, and Mill accepted a wider list of exceptions than the popular slogan suggests.
 
 ## The role of the state in classical thought: not a complete withdrawal
 

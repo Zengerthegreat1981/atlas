@@ -43,7 +43,7 @@ Acquisition passes through successive stages that have been documented in detail
 
 ## Berko's Wug Test and Overregularization
 
-Jean Berko Gleason provided a pivotal experimental demonstration (the Wug Test, 1958) that children do not memorize words mechanically but instead derive productive morphological rules. When children were shown a picture of a single imaginary creature called a "wug" and then asked to complete "these are two...", most answered "wugs," although they had never heard this word before. A related phenomenon is **overregularization**, in which children apply the regular rule to irregular verbs after learning the rule (saying "goed" instead of "went"), even though they had pronounced these verbs correctly at an earlier stage as stored words. This pattern became a central battleground between rule-based symbolic models and statistical connectionist models (the past-tense network of Rumelhart and McClelland, 1986, and the critique by Pinker and Prince, 1988).
+Jean Berko (later Gleason) reported an experiment, the wug test (1958), taken as evidence that children can apply morphological patterns to new words rather than only repeating forms they have heard. When children were shown a picture of a single imaginary creature called a "wug" and then asked to complete "these are two...", most answered "wugs," although they had never heard this word before. A related phenomenon is **overregularization**, in which children apply the regular rule to irregular verbs after learning the rule (saying "goed" instead of "went"), even though they had pronounced these verbs correctly at an earlier stage as stored words. This pattern became a central battleground between rule-based symbolic models and statistical connectionist models (the past-tense network of Rumelhart and McClelland, 1986, and the critique by Pinker and Prince, 1988).
 
 ## Child-Directed Speech
 
@@ -51,15 +51,15 @@ The nature of the speech that adults direct to children (child-directed speech, 
 
 ## Impact
 
-This branch established an active research field that brings together linguistics, developmental psychology, and neuroscience. It remains a central arena for the innateness-versus-usage debate in explaining the unique linguistic capacity of humans. Exceptional testimonies, such as Helen Keller's experience at the water pump (her sudden grasp of linguistic symbolism in 1887, shortly before her seventh birthday, despite the loss of hearing and sight in infancy), have also enriched the discussion of the decisive moment in acquiring the principle of linguistic symbolism itself.
+The field brings together linguistics, developmental psychology and neuroscience, and it remains a main setting for the innateness-versus-usage debate. Helen Keller's later memoir describes a moment at a water pump in 1887, when she was six, at which she connected the finger-spelled word with water. That episode is an autobiographical report of one deaf-blind child's education with Anne Sullivan, not experimental evidence about a single decisive step in acquiring symbolism.
 
 ## The Development of Sound and Morphology
 
-Phonological acquisition begins before birth in practice: research by Anthony DeCasper, Jacques Mehler and others indicates that newborns prefer their mother's voice and the rhythm of the language heard in the womb over other sounds. Morphologically, children follow a regular path in acquiring grammatical affixes (such as the plural and past tense in English), in a nearly fixed order. Roger Brown documented this order in his landmark longitudinal study of three children (Adam, Eve, and Sarah), proposing that this order reflects an underlying shared semantic and grammatical complexity regardless of individual differences between children.
+Phonological acquisition begins before birth in practice: research by Anthony DeCasper, Jacques Mehler and others indicates that newborns prefer their mother's voice and the rhythm of the language heard in the womb over other sounds. For English grammatical morphology, Roger Brown's longitudinal study of three children, Adam, Eve and Sarah, reported a similar order of acquisition for fourteen morphemes, which he related to semantic and formal complexity. The order is a finding about those English morphemes, not a universal sequence of affixes.
 
 ## Catherine Snow and the Social Interaction in Acquisition
 
-In contrast to the generative focus on innate structure, Catherine Snow emphasized the social interactive role in acquisition. She showed how adults gradually adjust their child-directed speech according to the child's actual level of linguistic development, in what resembles the "scaffolding" described by Jerome Bruner, which supports the child's progress step by step, rather than a passive, fixed-difficulty linguistic input.
+In contrast to the generative focus on innate structure, Catherine Snow emphasized the social interactive role in acquisition. She described how adults adjust child-directed speech as the child's language changes. Jerome Bruner called a related kind of supported interaction "scaffolding." The extent to which this input is necessary, and how much structure the child brings, remains disputed.
 
 ## Sources
 
@@ -69,3 +69,5 @@ In contrast to the generative focus on innate structure, Catherine Snow emphasiz
 - Curtiss, Susan (1977). *Genie: A Psycholinguistic Study of a Modern-Day "Wild Child"*. Academic Press.
 - Brown, Roger (1973). *A First Language: The Early Stages*. Harvard University Press.
 - Snow, Catherine E.; Ferguson, Charles A. (eds.) (1977). *Talking to Children: Language Input and Acquisition*. Cambridge University Press.
+- Rumelhart, David E., & McClelland, James L. (1986). "On Learning the Past Tenses of English Verbs." In *Parallel Distributed Processing*, vol. 2. MIT Press.
+- Pinker, Steven, & Prince, Alan (1988). "On Language and Connectionism: Analysis of a Parallel Distributed Processing Model of Language Acquisition." *Cognition* 28.

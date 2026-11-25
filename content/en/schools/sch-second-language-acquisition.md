@@ -9,10 +9,10 @@ cultural_origin: "anglo-european"
 title: "Second Language Acquisition & Critical Period"
 en: "Second Language Acquisition & Critical Period"
 crumb: "Linguistics ← Schools ← Second Language Acquisition & Critical Period"
-dates: "United States · from 1977 to the present"
-country: "United States"
+dates: "United States and Britain · from 1967 to the present"
+country: "United States, Britain"
 language: "English"
-active_start: 1977
+active_start: 1967
 active_end: "مستمر"
 edges:
 - rel: "evolved_from", target: "First Language Acquisition", target_type: "مدرسة"
@@ -24,7 +24,7 @@ gaps: []
 
 # Second Language Acquisition & Critical Period
 
-A branch of linguistics that studies how learners (children or adults) acquire an additional language after their first language, and whether there is a limited age window (an extension of Lenneberg's critical period hypothesis) beyond which it becomes difficult to attain proficiency resembling that of a native speaker. The field emerged as an independent specialization distinct from general applied linguistics in the late 1970s, influenced by the methodologies of cognitive psychology alongside theoretical linguistics. It has since become one of the most productive branches of applied linguistics, with direct applications in designing language teaching curricula and training teachers around the world.
+A branch of linguistics that studies how learners (children or adults) acquire an additional language after their first language, and whether there is a limited age window (an extension of Lenneberg's critical period hypothesis) beyond which it becomes difficult to attain proficiency resembling that of a native speaker. Work that treats learners' developing systems as an object of linguistics, rather than only as faulty target language, is often traced to S. Pit Corder's "The Significance of Learners' Errors" (1967) and to Larry Selinker's "Interlanguage" (1972). The field draws on cognitive psychology as well as theoretical linguistics, and its findings are used in curriculum design and teacher education.
 
 ## From First to Second Language
 
@@ -32,7 +32,7 @@ The field borrowed a conceptual framework from studies of first language acquisi
 
 ## Krashen's Input Theory
 
-Stephen Krashen offered the most influential theoretical framework in the field: a learner acquires a second language through exposure to comprehensible input slightly beyond their current level, not through explicit training in rules alone.
+Stephen Krashen offered a widely used, and widely contested, account: a learner acquires a second language through comprehensible input slightly beyond the current level (often written *i* + 1), not through explicit rule teaching alone. He set this out across several hypotheses, including the acquisition–learning distinction and the Monitor, in work collected in *Second Language Acquisition and Second Language Learning* (1981) and *Principles and Practice in Second Language Acquisition* (1982).
 
 ## The Critical Period Debate in Second Language
 
@@ -40,29 +40,39 @@ Unlike the broader consensus on the existence of a critical period for first lan
 
 ## Selinker's Interlanguage
 
-Larry Selinker (1972, in the article "Interlanguage") introduced the concept of "Interlanguage": a linguistic system in its own right that the learner builds during a transitional stage, neither a merely incomplete version of the target language nor a simple continuation of the learner's first language, but a system with its own internal rules that can be analyzed independently in linguistic terms. Selinker observed the phenomenon of "Fossilization": some aspects of this interlanguage stop developing toward the correct form of the target language despite continued exposure and practice, remaining fixed in the adult learner indefinitely.
+Larry Selinker (1972) introduced "interlanguage": a linguistic system in its own right, neither a merely incomplete copy of the target language nor a simple continuation of the first language. He also used "fossilization" for aspects of that system that stop changing toward the target despite continued exposure. Later work has treated fossilization as a hypothesis about stabilization, not as a fact observed in every adult learner.
 
 ## Long's Interaction Hypothesis and Swain's Output Hypothesis
 
-Michael Long developed Krashen's input hypothesis by proposing that communicative interaction itself, not merely passive exposure to input, is what actually drives acquisition: "Negotiation of Meaning" between the learner and their interlocutors (requesting clarification and reformulation) allows the input to be modified until it becomes comprehensible and assimilable. Merrill Swain later added the "Output Hypothesis," emphasizing that actually producing language (not only receiving it) forces the learner to notice and address gaps in their grammatical knowledge, something that listening alone does not achieve.
+Michael Long revised the input account by arguing that interaction, not only passive exposure, promotes acquisition. In negotiation of meaning, clarification and reformulation can make input comprehensible (Long's statements of the interaction hypothesis run from the early 1980s through his 1996 handbook chapter). Merrill Swain's output hypothesis (1985) adds that producing language pushes learners to notice gaps that listening alone need not reveal.
 
 ## Other Complementary Hypotheses
 
-Richard Schmidt added the "Noticing Hypothesis," which requires conscious awareness of a particular linguistic feature in the input as a necessary condition for acquiring it. Manfred Pienemann proposed "Processability Theory" to explain why second language learners pass through a relatively fixed developmental sequence of grammatical stages regardless of their first language or teaching method. Elaine Horwitz also addressed an important affective dimension with the concept of "Foreign Language Anxiety," which explains large individual variation in the speed of acquisition and level of performance that purely cognitive factors alone do not account for.
+Richard Schmidt's noticing hypothesis (1990) treats conscious registration of a form in the input as a condition on its acquisition. Manfred Pienemann's processability theory (set out as a book in 1998, after earlier studies of developmental sequences) explains why learners often pass through similar grammatical stages, limited by what the current processor can handle, across different first languages and teaching methods. Elaine Horwitz, Michael Horwitz, and Jo Ann Cope (1986) described foreign-language classroom anxiety as one affective source of individual differences that a purely cognitive account does not cover.
 
 ## Impact
 
-Together, these frameworks formed a complete research field integrating cognitive, social, and affective dimensions to explain the wide variation in the success of second language learners. They directly influenced the design of modern language curricula based on Communicative Language Teaching rather than abstract grammatical memorization, and the question of the critical period and its precise limits has remained an active research topic to the present day.
+These frameworks treat cognitive, social, and affective factors together in explaining why additional-language outcomes vary so widely. They informed communicative language teaching, which gives classroom time to meaningful use as well as to grammar. The scope of any critical period for a second language remains disputed.
 
 ## The Role of the First Language and Interference
 
-"Language Transfer" (or "L1 Interference") is among the oldest concepts in the field. It describes how the learner's first-language patterns (phonological, grammatical, and lexical) affect their production in the second language, either positively (facilitation where the two languages' structures are similar) or negatively (systematic, recurring errors where they differ). This interference is clearly observed among learners of Arabic as a second language, or learners of foreign languages who are native Arabic speakers, where distinctive Arabic phonological and grammatical patterns (such as the absence of certain consonant sounds in the target language, or the transfer of agreement structures) carry over into their second-language production in a systematic, partly predictable way.
+"Language Transfer" (or "L1 Interference") is among the oldest concepts in the field. It describes how the learner's first-language patterns (phonological, grammatical, and lexical) affect their production in the second language, either positively (facilitation where the two languages' structures are similar) or negatively (systematic, recurring errors where they differ). Transfer is well described for Arabic. Learners of Arabic may carry over consonant contrasts and agreement patterns from their first language, and Arabic speakers of languages such as English often substitute for consonants that Arabic lacks, including /p/ and /v/.
 
 ## Error Analysis Methodology
 
-The field developed an independent methodology for analyzing learners' errors ("Error Analysis"), as an alternative to the older "Contrastive Analysis," which assumed that all of a learner's errors could be predicted merely by comparing the structure of their first language with that of the target language. Actual error analysis showed that many learner errors do not stem from first-language interference; rather, they are "Developmental Errors" similar to those children make when acquiring their first language. This strengthened the hypothesis that second language acquisition follows universal developmental paths that are partly shared regardless of the learner's first language, an idea later developed in work such as Pienemann's processability theory.
+Error analysis, associated with Corder (1967), was offered as an alternative to contrastive analysis in the sense of Lado's *Linguistics Across Cultures* (1957), which expected learner difficulty to follow chiefly from differences between the first language and the target. Error-analysis studies found many errors that do not match first-language patterns and that resemble developmental patterns in child language. That evidence is one reason researchers look for shared developmental paths, a line later continued in processability theory. The claim is partial: transfer remains well attested, especially in phonology.
 
 ## Sources
 
+- Corder, S. Pit (1967). "The Significance of Learners' Errors." *International Review of Applied Linguistics* 5(4).
+- Lenneberg, Eric H. (1967). *Biological Foundations of Language*. John Wiley.
+- Lado, Robert (1957). *Linguistics Across Cultures*. University of Michigan Press.
+- Selinker, Larry (1972). "Interlanguage." *International Review of Applied Linguistics* 10(3).
 - Krashen, Stephen D. (1981). *Second Language Acquisition and Second Language Learning*. Pergamon Press.
+- Krashen, Stephen D. (1982). *Principles and Practice in Second Language Acquisition*. Pergamon Press.
+- Swain, Merrill (1985). "Communicative Competence: Some Roles of Comprehensible Input and Comprehensible Output in Its Development." In Gass, Susan M.; Madden, Carolyn G. (eds.), *Input in Second Language Acquisition*. Newbury House.
+- Long, Michael H. (1996). "The Role of the Linguistic Environment in Second Language Acquisition." In Ritchie, William C.; Bhatia, Tej K. (eds.), *Handbook of Second Language Acquisition*. Academic Press.
+- Schmidt, Richard W. (1990). "The Role of Consciousness in Second Language Learning." *Applied Linguistics* 11(2).
+- Horwitz, Elaine K.; Horwitz, Michael B.; Cope, Jo Ann (1986). "Foreign Language Classroom Anxiety." *The Modern Language Journal* 70(2).
+- Pienemann, Manfred (1998). *Language Processing and Second Language Development: Processability Theory*. John Benjamins.
 - Birdsong, David (ed.) (1999). *Second Language Acquisition and the Critical Period Hypothesis*. Lawrence Erlbaum.

@@ -26,11 +26,11 @@ Among the classic examples: the development of the English motion verb "go" from
 
 ## Directionality and gradualness
 
-Researchers observe that grammaticalization paths generally move in one irreversible direction (from the specific lexical to the abstract grammatical; the reverse rarely occurs), and advance gradually through a series of intermediate stages that can be observed across the different periods of a language's history, rather than through a sudden leap.
+The usual direction is from a concrete lexical item to a more abstract grammatical marker, through intermediate stages that can be followed in the historical record rather than in a single leap. Reversals are uncommon. They are discussed below under degrammaticalization, so the direction is a strong tendency, not an exceptionless law.
 
 ## Intersection with usage-based grammar
 
-Researchers such as Bybee and Traugott argue that the mechanism of historical grammaticalization shares common principles with usage-based grammar (repeated use leads to entrenchment and gradual abstraction). This links linguistic change across generations to the mechanisms of individual language acquisition and production.
+The term *grammaticalization* (French *grammaticalisation*) was used in this sense by Antoine Meillet in 1912. Later researchers, including Joan Bybee and Elizabeth Traugott, argue that the historical process shares principles with usage-based grammar: repeated use leads to entrenchment, phonetic reduction, and gradual abstraction. This links change across generations to mechanisms of language use. The strong claim that the path is irreversible has been qualified; a small set of proposed reversals ("degrammaticalization") is discussed in the literature, while the lexical-to-grammatical direction remains the overwhelmingly common pattern.
 
 ## Hopper's diagnostic principles
 
@@ -42,6 +42,7 @@ Similar grammaticalization paths can be observed in Arabic. A well-known case is
 
 ## Sources
 
-- Hopper, Paul J.; Traugott, Elizabeth Closs (1993). *Grammaticalization*. Cambridge University Press.
+- Meillet, Antoine (1912). "L'évolution des formes grammaticales." *Scientia* 12.
+- Bybee, Joan L.; Perkins, Revere; Pagliuca, William (1994). *The Evolution of Grammar: Tense, Aspect, and Modality in the Languages of the World*. University of Chicago Press.
+- Hopper, Paul J.; Traugott, Elizabeth Closs (2003). *Grammaticalization* (2nd ed.). Cambridge University Press.
 - Heine, Bernd; Kuteva, Tania (2002). *World Lexicon of Grammaticalization*. Cambridge University Press.
-- Lehmann, Christian (1985). "Grammaticalization: Synchronic Variation and Diachronic Change." *Lingua e Stile* 20(3).

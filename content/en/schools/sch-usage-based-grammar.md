@@ -42,7 +42,7 @@ This framework provided empirical explanations for morphological and grammatical
 
 ## Historical Context
 
-This framework took shape in the mid-1980s, in a broader context of rebellion against the dominance of Chomskyan generative grammar and the hypothesis of an innate universal grammar. It developed roughly in the same period as the emergence of cognitive linguistics (Ronald Langacker, George Lakoff); the term "usage-based" itself is associated with Langacker's work of the late 1980s. The American linguist Paul Hopper played an early role with his influential article "Emergent Grammar" (1987), which put forward a central idea: grammar is not a fixed, fully complete system that is used. Rather, grammar is itself "emergent," constantly arising from repeated processes of usage, and it never settles into a final, complete stability. Joan Bybee then presented the most detailed and coherent theoretical formulation of this direction, through a series of works running from *Morphology* (1985) to *Language, Usage and Cognition* (2010), relying on intensive phonological and morphological evidence.
+The approach took shape in the mid-1980s alongside early cognitive linguistics (Ronald Langacker, George Lakoff) and in argument with generative grammar's innate universal grammar. The label "usage-based" is associated with Langacker, including his 1988 paper "A Usage-Based Model." Paul Hopper's "Emergent Grammar" (Berkeley Linguistics Society, 1987) treated grammar as something continually shaped in discourse, open to further change. Joan Bybee developed a detailed phonological and morphological version of the approach, from *Morphology: A Study of the Relation between Meaning and Form* (1985) to *Language, Usage and Cognition* (2010).
 
 ## Main Ideas and Method
 
@@ -54,7 +54,7 @@ This framework meets directly the position of Michael Tomasello on language acqu
 
 ## Key Works and Figures
 
-The founding figures include Joan Bybee (the main theoretical reference), Paul Hopper (the concept of emergent grammar), Talmy Givón (early functional studies linking discourse and grammar), Michael Tomasello (usage-based acquisition), and Adele Goldberg (construction grammar and the concept of "statistical preemption"). Nick Ellis developed an account based on associative learning and chunking of linguistic input, drawing on Zipf's law of the uneven frequency distribution of words in any natural language.
+Central contributors include Joan Bybee, Paul Hopper (emergent grammar), Talmy Givón (links between discourse and grammar), Michael Tomasello (usage-based acquisition), and Adele Goldberg (construction grammar and statistical preemption, the idea that frequent competing forms block an alternative). Nick Ellis developed an account of second-language learning based on associative learning and chunking, drawing on the uneven, Zipfian frequency distribution of words.
 
 ## Impact and Criticism
 
@@ -64,5 +64,6 @@ This framework provided detailed empirical explanations for precise morphologica
 
 - Bybee, Joan (2010). *Language, Usage and Cognition*. Cambridge University Press.
 - Tomasello, Michael (2003). *Constructing a Language: A Usage-Based Theory of Language Acquisition*. Harvard University Press.
-- Hopper, Paul J. (1987). "Emergent Grammar." *Berkeley Linguistics Society* 13.
+- Langacker, Ronald W. (1988). "A Usage-Based Model." In Brygida Rudzka-Ostyn (ed.), *Topics in Cognitive Linguistics*. John Benjamins.
+- Hopper, Paul J. (1987). "Emergent Grammar." *Proceedings of the Berkeley Linguistics Society* 13.
 - Goldberg, Adele E. (2006). *Constructions at Work: The Nature of Generalization in Language*. Oxford University Press.

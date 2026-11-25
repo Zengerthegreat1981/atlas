@@ -24,33 +24,31 @@ gaps: []
 
 # The Nim Chimpsky Study: Do Apes Acquire Language?
 
-A research project conducted by the psychologist Herbert Terrace in the 1970s. In it he attempted to teach American Sign Language (ASL) to a chimpanzee named "Nim Chimpsky," a wry allusion to Noam Chomsky. It is one of the best-known attempts to test the capacity of non-human primates to acquire human language.
+A project directed by the psychologist Herbert S. Terrace in which a chimpanzee, Nim Chimpsky — the name alludes to Noam Chomsky — was taught signs based on American Sign Language. Nim was born in 1973. The Columbia University project ran through the mid-1970s, and Terrace's book and the *Science* paper both appeared in 1979. The study is a major negative result in the ape-language experiments of that period.
 
-## Initial Promising Results
+## Early reports
 
-In the first years, it appeared that Nim was acquiring many signs and combining them into sequences of several signs. This aroused initial enthusiasm that primates might possess a linguistic capacity closer to that of humans than had previously been assumed.
+Nim learned a large set of signs and produced sequences of more than one sign. Early descriptions of those sequences were easy to read as the start of syntax, in the climate created by Washoe and other signing apes.
 
-## The Decisive Reanalysis
+## Video reanalysis
 
-On close analysis of video recordings of Nim's interactions with his trainers, Terrace discovered a decisive pattern. Nim's sign sequences that were counted as "sentences" were mostly immediate imitations of the signs his trainers had just produced, rather than independent spontaneous production. His utterances showed no growth in length or grammatical complexity over time, unlike the pattern expected in children's acquisition of human language. Nor did they show evidence of understanding the real grammatical structure of "subject-verb-object."
+Terrace, Petitto, Sanders, and Bever analyzed videotapes of Nim with his teachers (*Science*, 1979). Much of what had been transcribed as Nim's signing was prompted, interrupted, or partly imitative of signs the teacher had just offered. Mean length of Nim's utterances did not show the steady rise seen in children's early word combinations, and the sequences did not support a stable subject–verb–object grammar. Longer strings were often repetitions and recombinations of a few high-frequency signs, many of them requests.
 
-## Project Methodology and Conditions
+## Conditions of the project
 
-Nim, studied in a project at Columbia University, was raised in his early years in a household setting in New York. He interacted with many successive trainers (several dozen) over the course of the project, rather than with one constant trainer. Terrace later identified this as one of the reasons for Nim's heavy reliance on immediate imitation. The frequent change of trainers reduced the opportunities to build a stable, spontaneous communicative interaction that could develop genuine linguistic initiative, unlike a child's continuous interaction with a limited number of caregivers.
+Nim first lived in a New York household and later in a university-related setting. A large number of teachers and volunteers worked with him in succession. Terrace treated that turnover as one reason Nim watched his partner's hands so closely: the next sign was often predictable from the teacher's behavior and from routines of reward. The project therefore did not resemble a child's long relationship with a few caregivers, and it also did not resemble fluent ASL as used in a Deaf community. The input was a teaching register of signs.
 
-## Conclusion
+## Conclusion and the earlier ape projects
 
-Terrace (1979) concluded that Nim had not acquired language in the precise grammatical sense. Instead, he had learned a system of conditioned responses reinforced by rewards, imitating his trainers without genuine syntactic understanding. This result cast serious doubt on the claims of similar earlier projects, such as Allen and Beatrix Gardner's work with the chimpanzee Washoe (begun in 1966), and provoked a sharp methodological debate about the criteria for proving genuine linguistic ability.
+Terrace concluded that Nim had learned a set of reinforced gestures, not a human grammar. He extended the doubt to reports from R. Allen Gardner and Beatrix T. Gardner's Washoe project, begun in 1966, and to related ape studies, arguing that transcripts without the teacher's signs had overstated novelty and structure. The Gardners and others replied that Nim's classroom-like drills were a poor test, and that Washoe's home rearing and later multi-chimpanzee projects were different in kind. The exchange fixed a methodological demand that is still cited: counts of animal sequences have to include the human prompt.
 
-## Theoretical Significance
+## Kanzi
 
-The study has been widely cited in debates over whether full syntactic human language is truly unique to humans. It intersects with the debate over the origin and evolution of language.
-
-## Comparison with Later Projects
-
-Terrace's results prompted later comparisons with the "Kanzi" project. Kanzi, a bonobo studied by Sue Savage-Rumbaugh using a lexigram board (not sign language), reportedly showed a relatively greater capacity for spontaneous language comprehension without intensive direct training. The Kanzi results, which are themselves debated, kept the scientific debate open over whether Terrace's methodology itself (not only Nim's individual abilities) limited the results, or whether the limits are genuinely biological and specific to chimpanzees as a species.
+Later work with the bonobo Kanzi, by E. Sue Savage-Rumbaugh and colleagues, changed the terms of the comparison. Kanzi used a board of lexigrams and was reported to understand a substantial amount of spoken English, including some word-order contrasts, with less drill than Nim had received. Those comprehension results are published and still debated, both as to scoring and as to how far they resemble child syntax. They show that Terrace's conclusion about Nim does not automatically settle every ape, and they do not restore the claim that Nim's multi-sign strings were sentences.
 
 ## Sources
 
+- Gardner, R. Allen; Gardner, Beatrix T. (1969). "Teaching Sign Language to a Chimpanzee." *Science* 165.
 - Terrace, Herbert S. (1979). *Nim: A Chimpanzee Who Learned Sign Language*. Knopf.
-- Terrace, Herbert S. et al. (1979). "Can an Ape Create a Sentence?" *Science* 206(4421).
+- Terrace, Herbert S.; Petitto, Laura A.; Sanders, Richard J.; Bever, Thomas G. (1979). "Can an Ape Create a Sentence?" *Science* 206.
+- Savage-Rumbaugh, E. Sue; Murphy, Jeannine; Sevcik, Rose A.; Brakke, Karen E.; Williams, Shelly L.; Rumbaugh, Duane M. (1993). *Language Comprehension in Ape and Child*. University of Chicago Press. Monographs of the Society for Research in Child Development.

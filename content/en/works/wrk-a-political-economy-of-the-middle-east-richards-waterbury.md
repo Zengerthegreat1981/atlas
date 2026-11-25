@@ -22,7 +22,7 @@ gaps:
 ---
 # A Political Economy of the Middle East
 
-The economist Alan Richards and the political scientist John Waterbury published this book in 1990 (with later revised editions, including 1996 and 2008). It became one of the most widely used university textbooks for teaching the comparative political economy of the Middle East, combining economic analysis with a political science framework that explains the relationship between the state and social classes in the region.
+The economist Alan Richards and the political scientist John Waterbury published this book in 1990. They revised it in 1996 and again in a later third edition. A fourth edition added Melani Cammett and Ishac Diwan as co-authors. The book became a standard university text for the comparative political economy of the Middle East, combining economic analysis with a political science framework that explains the relationship between the state and social classes in the region.
 
 ## The central analytical framework: state, class and development
 
@@ -46,7 +46,7 @@ The authors adopt a comparative approach that studies multiple cases (including 
 
 ## Updates across successive editions
 
-Later editions updated the empirical material to reflect developments such as the wave of privatization and economic reform in the 1990s, while retaining the basic analytical framework of state, class and development.
+The 1996 and later editions updated the empirical material to reflect developments such as privatization and economic reform in the 1990s, while retaining the analytical framework of state, class and development. The fourth edition, revised with Cammett and Diwan, extended the coverage to later changes, including the political economy of the Gulf and the aftermath of the Arab uprisings.
 
 ## Its academic standing
 
@@ -64,4 +64,4 @@ The book pays particular attention to explaining the wide diversity of Arab poli
 
 - Richards, Alan, and John Waterbury. *A Political Economy of the Middle East: State, Class, and Economic Development*. Westview Press, 1990.
 - Beblawi, Hazem, and Giacomo Luciani (eds.). *The Rentier State*. Croom Helm, 1987.
-- Owen, Roger, and Şevket Pamuk. *A History of Middle East Economies in the Twentieth Century*. Harvard University Press, 1998.
+- Owen, Roger, and Şevket Pamuk. *A History of Middle East Economies in the Twentieth Century*. I. B. Tauris, 1998.

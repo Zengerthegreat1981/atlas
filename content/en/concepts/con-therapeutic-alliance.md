@@ -44,6 +44,7 @@ The debate continues over the **direction of the causal relationship**. Does a s
 ## Sources
 
 - Edward S. Bordin, "The Generalizability of the Psychoanalytic Concept of the Working Alliance," *Psychotherapy: Theory, Research & Practice* 16, no. 3 (1979): 252-260.
-- Adam O. Horvath and B. D. Greenberg, *The Working Alliance: Theory, Research, and Practice* (Wiley, 1994).
+- Adam O. Horvath and Leslie S. Greenberg, "Development and Validation of the Working Alliance Inventory," *Journal of Counseling Psychology* 36, no. 2 (1989): 223–233.
+- Adam O. Horvath and Leslie S. Greenberg, eds., *The Working Alliance: Theory, Research, and Practice* (Wiley, 1994).
 - Bruce E. Wampold and Zac E. Imel, *The Great Psychotherapy Debate: The Evidence for What Makes Psychotherapy Work*, 2nd ed. (Routledge, 2015).
 - Christoph Flückiger et al., "The Alliance in Adult Psychotherapy: A Meta-Analytic Synthesis," *Psychotherapy* 55, no. 4 (2018): 316-340.

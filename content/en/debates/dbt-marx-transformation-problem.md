@@ -9,7 +9,7 @@ en: "Marx's Transformation Problem"
 crumb: "Political Economy ← Debates ← Marx's Transformation Problem"
 economic_school: "Marx's critique of political economy"
 active_start: 1894
-active_end: 1990
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Marx's Critique of Political Economy", target_type: "مدرسة"
 related:
@@ -25,7 +25,7 @@ The transformation problem is a central technical difficulty in Marxist economic
 
 ## The original problem: a contradiction between the first and third volumes?
 
-In the first volume of *Capital*, Marx assumed that commodities are exchanged (roughly) according to their value, as determined by the quantity of socially necessary abstract labour needed to produce them. In the third volume, however, he recognized that this assumption does not hold if the "organic composition of capital" (the ratio of constant capital, meaning machines and materials, to variable capital, meaning wages) differs between sectors. A sector relying more heavily on living labour (with relatively higher variable capital) would produce a larger surplus value relative to its total capital according to pure value theory. This would mean a higher rate of profit in that sector compared with another sector relying mainly on machines. This contradicts the reality of capitalist competition, which tends, as Marx himself observed, to adjust actual prices so that the rate of profit is roughly equalized across all sectors (production prices). Marx proposed a computational "transformation" mechanism to explain how values turn into equal-profit production prices. But the solution he presented in the third volume was partial: he transformed the capital inputs into production prices, yet left the inputs (the original production costs) calculated in values rather than in the production prices themselves. This was later regarded as an internal logical inconsistency.
+In the first volume of *Capital*, Marx assumed that commodities are exchanged (roughly) according to their value, as determined by the quantity of socially necessary abstract labour needed to produce them. In the third volume, however, he recognized that this assumption does not hold if the "organic composition of capital" (the ratio of constant capital, meaning machines and materials, to variable capital, meaning wages) differs between sectors. A sector relying more heavily on living labour (with relatively higher variable capital) would produce a larger surplus value relative to its total capital according to pure value theory. This would mean a higher rate of profit in that sector compared with another sector relying mainly on machines. This contradicts the reality of capitalist competition, which tends, as Marx himself observed, to adjust actual prices so that the rate of profit is roughly equalized across all sectors (production prices). Marx proposed a numerical transformation from values to prices of production that equalise the rate of profit. The procedure in Volume III is incomplete on its own terms: outputs are rewritten as prices of production, but the constant and variable capital that enter as costs are still reckoned in labour values rather than in those same prices. Later critics treated that asymmetry as an internal inconsistency.
 
 ## The critique of Bortkiewicz and Sweezy: mathematical inconsistency
 
@@ -41,7 +41,7 @@ A number of contemporary Marxist economists (such as Andrew Kliman and Alan Free
 
 ## The broader significance: does the edifice of the labour theory of value stand?
 
-The importance of this debate goes beyond purely mathematical detail. Its resolution (or lack of resolution) touches the foundation of the central Marxist claim that capitalist profit derives specifically from the exploitation of labour through surplus value, and from no other source. If the labour theory of value is mathematically "redundant", as Sraffa's supporters claim, the concept of exploitation could be reformulated without passing through it, as John Roemer did in later "analytical Marxism". Traditional Marxists, by contrast, insist that the value of labour is not merely a computational tool but an essential explanation of the nature of capitalist social relations, which cannot be dispensed with without losing the essence of the entire critical theory.
+The importance of this debate goes beyond purely mathematical detail. Its resolution (or lack of resolution) touches the foundation of the central Marxist claim that capitalist profit derives specifically from the exploitation of labour through surplus value, and from no other source. If the labour theory of value is mathematically "redundant", as Sraffa's supporters claim, the concept of exploitation could be reformulated without passing through it, as John Roemer did in later "analytical Marxism". Traditional Marxists, by contrast, argue that labour values are not merely a computational step but part of an account of capitalist social relations, and that dropping them changes the theory rather than simplifying it.
 
 ## Connection to the Cambridge capital controversy
 

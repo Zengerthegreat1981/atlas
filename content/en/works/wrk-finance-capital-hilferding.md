@@ -25,7 +25,7 @@ gaps: []
 ---
 # Finance Capital
 
-**Rudolf Hilferding** published his book *Finance Capital: A Study of the Latest Phase of Capitalist Development* in 1910. It is regarded as one of the three founding pillars of the classical Marxist theories of imperialism, alongside the later works of Rosa Luxemburg and Lenin.
+**Rudolf Hilferding** published *Das Finanzkapital* in Vienna in 1910. The English title is *Finance Capital: A Study of the Latest Phase of Capitalist Development*. With the later books of Rosa Luxemburg and Lenin, it is a standard reference for classical Marxist discussions of imperialism.
 
 ## An empirical observation that began the analysis: the fusion of banks and industry
 
@@ -65,10 +65,10 @@ The term "finance capital" coined by Hilferding is still used today in contempor
 
 ## An internal debate on the fate of free competition
 
-The book raises a central theoretical question that has remained a subject of continuing debate among economists since: does the rise of monopolistic finance capital represent a permanent end to the classical phase of free competition described by Smith and Ricardo, or merely a transitory phase in which new forms of competition may return? Hilferding himself drew the conclusion that capitalism was moving towards "organised" capitalism, and later writers have disagreed about how far this prediction held. The question remains open in the subsequent literature.
+The book asks whether monopolistic finance capital ends the competitive phase described by Smith and Ricardo, or whether new forms of competition can return. In *Finance Capital* Hilferding describes a tendency toward cartels and a closer tie between banks, industry and the state. His later formula of "organised capitalism" belongs mainly to writings and speeches of the 1920s, and later writers have disagreed about how far either claim held.
 
 ## Sources
 
-- Hilferding, Rudolf. *Finance Capital: A Study of the Latest Phase of Capitalist Development*. Edited by Tom Bottomore, Routledge & Kegan Paul, 1981 (German original 1910).
+- Hilferding, Rudolf. *Finance Capital: A Study of the Latest Phase of Capitalist Development*. Translated by Morris Watnick and Sam Gordon, edited by Tom Bottomore, Routledge & Kegan Paul, 1981 (German original, Vienna, 1910).
 - Lenin, V. I. *Imperialism, the Highest Stage of Capitalism: A Popular Outline*. Written 1916; first published Petrograd, 1917.
 - Brewer, Anthony. *Marxist Theories of Imperialism: A Critical Survey*. 2nd ed., Routledge, 1990.

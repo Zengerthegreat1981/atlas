@@ -12,7 +12,7 @@ country: "Soviet Union (Russia)"
 language: "Russian"
 economic_school: "Study of Long Economic Cycles"
 active_start: 1922
-active_end: 1930
+active_end: 1938
 edges:
 - rel: "belongs_to", target: "Schumpeterian Evolutionary Economics", target_type: "مدرسة"
 related:
@@ -38,15 +38,15 @@ Kondratiev's thesis drew particular attention from Joseph Schumpeter, who later 
 
 ## Collision with Stalinist orthodoxy
 
-Kondratiev's theses stood in fundamental conflict with the official Stalinist line, which imposed strict central planning and regarded cyclical analysis of capitalism, with its implicit suggestion of an internal periodicity of the capitalist system instead of its continuous inevitable collapse, as an ideological heresy at odds with the official Marxist-Leninist doctrine of the final and irrepeatable crisis of capitalism. Kondratiev was arrested in 1930 in a broad repressive campaign against independent economists and technical experts, and was falsely charged with leading a nonexistent "Toiling Peasants' Party" hostile to the regime. He was sentenced to eight years' imprisonment in 1932, and was retried and shot in 1938 during the Great Purge. He was posthumously rehabilitated in 1987, during the perestroika period.
+Kondratiev's theses conflicted with the Stalinist line. Official doctrine treated capitalism as heading toward a final crisis, and treated the idea of recurring long cycles as a political deviation. He was also critical of forced collectivisation. He was arrested in 1930, charged with leading a nonexistent "Labour Peasant Party" (also called the Working Peasants' Party), and sentenced to eight years. Accounts date the sentence to 1931 or 1932. He was shot on 17 September 1938 during the Great Purge. Rehabilitation came in stages: a 1963 decision concerned the 1938 verdict, and the 1932 case was cleared in 1987.
 
 ## Reception and later influence
 
-Kondratiev's cycles became a fundamental analytical tool in evolutionary economics and comparative economic history. Contemporary economists use them to explain major waves of technological innovation and their relationship to deep periodic financial crises, although many mainstream economists question the statistical robustness of regular cycles of such fixed length. Kondratiev's tragic fate remains a prominent symbol of the plight of independent economic thinkers under totalitarian regimes that cannot tolerate scientific analysis contradicting their official doctrine, however precise its statistical and methodological rigour.
+Kondratiev's cycles became a recurring reference in evolutionary economics and comparative economic history. Some economists in the Schumpeterian tradition still use long waves to discuss clusters of innovation. Many others doubt that the statistics support regular cycles of fixed length. His arrest and execution are also part of the record of the suppression of independent economists in the Stalin period.
 
-## Pioneering statistical methodology
+## Statistical method
 
-Kondratiev's work was distinguished by a statistical methodological rigour unusual for his time. He did not merely present general observations about economic periodicity; he built his analysis on a systematic mathematical treatment of long time series covering multiple indicators, such as prices, wages, interest rates, and coal and pig-iron production, over more than a century in several European and American economies. He tried to separate the long-term trend from short cycles, using smoothing methods that were relatively advanced by the standards of his era. Many later economists have questioned whether the statistical evidence supports regular cycles of fixed length.
+Kondratiev's work was distinguished by a statistical care unusual for his time. He did not merely present general observations about economic periodicity; he built his analysis on a systematic mathematical treatment of long time series covering multiple indicators, such as prices, wages, interest rates, and coal and pig-iron production, over more than a century in several European and American economies. He tried to separate the long-term trend from short cycles, using smoothing methods that were relatively advanced by the standards of his era. Many later economists have questioned whether the statistical evidence supports regular cycles of fixed length.
 
 ## Sources
 

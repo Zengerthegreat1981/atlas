@@ -28,15 +28,15 @@ gaps: []
 
 ## The deductive method: from Smith to Ricardo
 
-Unlike Smith's narrative style, rich in historical and institutional detail, Ricardo adopted an abstract deductive method in this book. He began from explicit simplifying assumptions, such as the fixed quantity of land suitable for cultivation and the diminishing marginal fertility of that land. He then deduced from them a chain of strict logical conclusions about the distribution of income among the three great classes: landlords, capitalists and workers.
+Unlike Smith's narrative style, rich in historical and institutional detail, Ricardo adopted a more abstract deductive method in this book. He began from simplifying assumptions, including a limited supply of land of differing fertility and diminishing returns as cultivation extends to poorer land. From these he drew conclusions about the distribution of income among landlords, capitalists and workers.
 
 ## The theory of differential rent
 
 Ricardo devoted a central chapter to the theory of **rent**, which he developed in the context of the sharp political debate over the protectionist **Corn Laws** in Britain. When farmers were forced to cultivate less fertile marginal land to meet growing demand for food, landowners of the most fertile land earned a **differential rent** equal to the difference between the productivity of their land and that of the least productive marginal land, without any additional effort on their part. Ricardo used this theory as a direct political argument against the Corn Laws: protecting domestic grain prices raised landlords' rents at the expense of the profits of industrial capitalists and the wages of workers alike.
 
-## Comparative advantage: the most famous chapter in the history of economics
+## Comparative advantage
 
-The book includes the chapter that is among the most influential single chapters in the history of economic thought: the chapter on "Foreign Trade", in which Ricardo presented the argument for **comparative advantage**. Through his famous example of the trade in wine and cloth between Portugal and England, he demonstrated that specialization and free exchange benefit both countries, even if one of them is more efficient at producing every good in absolute terms. Each country benefits by specializing in the good in which it has a relatively lower opportunity cost compared with the other country.
+The chapter "On Foreign Trade" presents the argument for **comparative advantage**. Using trade in wine and cloth between Portugal and England, Ricardo argued that specialization and exchange can benefit both countries even when one of them can produce every good with less labour. Each country specializes in the good in which its labour cost is comparatively lower. The numerical example is a theoretical illustration, not a record of actual trade flows.
 
 ## The theory of value: the attempt and its internal tensions
 
@@ -60,7 +60,7 @@ Despite the relatively abstract and dense style of the book, compared with the s
 
 ## Political advocacy of free trade in Parliament
 
-Ricardo did not confine himself to publishing his ideas academically. He defended them directly as a member of the British House of Commons after being elected in 1819. He used the arguments of his book on rent and free trade in actual parliamentary debates on trade and tax policy. This made him one of the early economists to take part directly in parliamentary debate on trade and tax policy, including the Corn Laws and tariffs.
+Ricardo did not confine himself to publishing his ideas academically. He defended them directly as a member of the British House of Commons after being elected in 1819. He used the arguments of his book on rent and free trade in actual parliamentary debates on trade and tax policy. He used those arguments in parliamentary debate on trade and taxation, including the Corn Laws. The Corn Laws themselves were repealed only in 1846, long after his death in 1823.
 
 ## Sources
 

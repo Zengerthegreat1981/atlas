@@ -11,7 +11,7 @@ dates: "Europe and North America · from the late 19th century to the present"
 country: "International"
 language: "English, German"
 active_start: 1899
-active_end: 2026
+active_end: "مستمر"
 active_source: "lifespan"
 cultural_origin: "european"
 edges: []

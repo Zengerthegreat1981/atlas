@@ -51,4 +51,4 @@ Frances's position is sometimes criticized for not offering a clear alternative 
 - Allen Frances, *Saving Normal: An Insider's Revolt Against Out-of-Control Psychiatric Diagnosis, DSM-5, Big Pharma, and the Medicalization of Ordinary Life* (William Morrow, 2013).
 - Allen Frances, "A Warning Sign on the Road to DSM-V: Beware of Its Unintended Consequences," *Psychiatric Times* (June 2009).
 - American Psychiatric Association, *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed. (DSM-5) (APA Publishing, 2013).
-- Frances, A. "Diagnosis Creep and Overdiagnosis," in *Saving Normal* (see above), and Frances's later articles in *BMJ* (2013) and *Psychiatric Times* on DSM-5 diagnostic thresholds.
+- Allen Frances, "The New Crisis of Confidence in Psychiatric Diagnosis," *Annals of Internal Medicine* 159, no. 3 (2013): 221–222.

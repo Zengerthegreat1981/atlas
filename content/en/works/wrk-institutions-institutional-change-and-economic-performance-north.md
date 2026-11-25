@@ -23,7 +23,7 @@ gaps: []
 ---
 # Institutions, Institutional Change and Economic Performance
 
-**Douglass North** published his book *Institutions, Institutional Change and Economic Performance* in 1990. In it he offered the most comprehensive theoretical formulation of his intellectual project: extending institutional analysis, which Coase and Williamson had applied mainly at the level of the individual firm, to explain long-run differences in economic performance between entire nations.
+**Douglass North** published *Institutions, Institutional Change and Economic Performance* in 1990. The book states his project of extending institutional analysis, which Coase and Williamson had applied mainly to the firm and the transaction, to long-run differences in economic performance among nations.
 
 ## Institutions as the Rules of the Game
 
@@ -31,7 +31,7 @@ The book opens with an influential general definition: **"institutions" are the 
 
 ## Why Do Economies Not Converge Automatically?
 
-North confronts a central question that standard neoclassical growth theory answered simply: if markets are free and technical knowledge is globally available, why do poor economies not converge automatically toward the income levels of rich countries? North argues that the answer lies in the quality of institutions, especially the extent to which they effectively protect property rights and reduce transaction costs in the wider market, rather than the mere formal existence of a market. He treats institutions as a decisive variable missing from much traditional analysis. Poor institutions (corruption, arbitrary expropriation, weak judicial enforcement) keep many economies stuck below their optimal level, despite the theoretical availability of resources and technical knowledge.
+North confronts a central question that standard neoclassical growth theory answered simply: if markets are free and technical knowledge is globally available, why do poor economies not converge automatically toward the income levels of rich countries? North argues that the answer lies in the quality of institutions, especially the extent to which they effectively protect property rights and reduce transaction costs in the wider market, rather than the mere formal existence of a market. He treats institutions as a variable missing from much neoclassical growth analysis. In his account, corruption, arbitrary expropriation and weak enforcement of contracts help explain why many economies perform poorly even when resources and technical knowledge are available.
 
 ## Case Study: The Glorious Revolution and British Growth
 

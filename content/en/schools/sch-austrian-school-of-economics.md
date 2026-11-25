@@ -36,7 +36,7 @@ Menger founded the school with his book *Principles of Economics* (1871), which 
 
 ## Böhm-Bawerk and Wieser: a second generation of foundations
 
-Eugen von Böhm-Bawerk developed a theory of capital and interest that ties the rate of interest to individuals' preference for present over future consumption, while Friedrich von Wieser formulated the concept of "opportunity cost" and developed neoclassical distribution analysis. Together with Menger, these two form what is known as the "first generation" that established the school theoretically before it moved into more heated political battles with the next generation.
+Eugen von Böhm-Bawerk developed a theory of capital and interest in which the productivity of more roundabout methods of production and a preference for present over future goods both enter the explanation of interest. Friedrich von Wieser developed the idea later called opportunity cost and a theory of imputation for factor incomes. In the usual periodisation Menger is the first generation and Wieser and Böhm-Bawerk the second, before Mises and Hayek carried the arguments into debates over socialism and the business cycle.
 
 ## Mises and Hayek: from Vienna to the Anglo-Saxon world
 
@@ -52,7 +52,7 @@ The school suffered relative marginalization in Anglo-Saxon academic circles aft
 
 ## Revival in the 1970s
 
-The school saw a notable revival in the 1970s, crowned by Hayek's receipt of the Nobel Prize in Economics in 1974, and the emergence of a new generation of economists, most prominently Israel Kirzner and Murray Rothbard, who developed two distinct branches: an academic branch closer to the mainstream, focused on entrepreneurship and the discovery of information (Kirzner), and a radical political branch that combines economic analysis with an extreme liberal philosophy rejecting almost any government intervention (Rothbard).
+The school saw a notable revival in the 1970s, marked by Hayek's share of the 1974 Nobel Prize in Economics (with Gunnar Myrdal) and by a new generation, most prominently Israel Kirzner and Murray Rothbard. Kirzner developed an academic branch, closer to the mainstream, focused on entrepreneurship and the discovery of information. Rothbard developed a radical political branch that joined the economic analysis to a libertarian argument for what he called anarcho-capitalism, rejecting almost any government role in the economy.
 
 ## Subjective method and real time
 
@@ -64,7 +64,7 @@ Leading economists have criticized the school for rejecting empirical testing an
 
 ## Influence on policy and beyond academia
 
-The school's influence went beyond narrow academic circles into political think tanks such as the Mont Pèlerin Society, founded by Hayek in 1947. Its ideas played a role in shaping the arguments against central planning in post-war debates, including debates in the post-Cold War period about the transition economies of Eastern Europe.
+The school's influence went beyond narrow academic circles into political associations such as the Mont Pèlerin Society, which Hayek convened in 1947. Its ideas played a role in shaping the arguments against central planning in post-war debates, including debates in the post-Cold War period about the transition economies of Eastern Europe.
 
 ## Internal variation on the state and politics
 
@@ -72,7 +72,7 @@ Although the school's leading figures shared a rejection of central planning, th
 
 ## Sources
 
-- Menger, Carl. *Grundsätze der Volkswirthschaftslehre* (Principles of Economics). 1871 (English translation, 1950; New York University Press edition, 1976).
+- Menger, Carl. *Grundsätze der Volkswirthschaftslehre* (Principles of Economics). 1871 (English translation, 1950).
 - Mises, Ludwig von. *Human Action: A Treatise on Economics*. Yale University Press, 1949.
 - Hayek, Friedrich A. "The Use of Knowledge in Society." *American Economic Review*, vol. 35, no. 4, 1945, pp. 519–530.
 - Vaughn, Karen I. *Austrian Economics in America: The Migration of a Tradition*. Cambridge University Press, 1994.

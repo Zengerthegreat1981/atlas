@@ -34,7 +34,7 @@ Research points to a central role for a neural circuit linking the **orbitofront
 
 ## Treatment
 
-- **Cognitive-behavioral therapy (CBT)**: specifically the technique of **exposure and response prevention** (ERP), in which the patient is gradually exposed to triggers of obsessions while actively refraining from the usual compulsive behavior, leading to gradual **desensitization**. ERP is the first-line treatment recommended by most clinical guidelines. In a randomized trial, exposure and ritual prevention, clomipramine, and their combination were each superior to placebo (Foa and colleagues, 2005).
+- **Cognitive-behavioral therapy (CBT)**: specifically the technique of **exposure and response prevention** (ERP), in which the patient is gradually exposed to triggers of obsessions while actively refraining from the usual compulsive behavior, so that the feared outcome does not occur and anxiety typically lessens. ERP is the first-line treatment recommended by most clinical guidelines. In a randomized trial, exposure and ritual prevention, clomipramine, and their combination were each superior to placebo (Foa and colleagues, 2005).
 - **Drug treatment**: **selective serotonin reuptake inhibitors (SSRIs)** are used, with the evidence base showing benefit over placebo. The US Food and Drug Administration has approved five drugs for OCD in adults: sertraline, fluoxetine, fluvoxamine, paroxetine, and clomipramine (a tricyclic antidepressant with a strong serotonergic effect).
 - **Severe cases**: At a high level of severity (commonly rated with the clinician-administered Yale-Brown Obsessive Compulsive Scale, Y-BOCS, 10 items, total 0-40), clinicians often consider combining medication and behavioral therapy.
 

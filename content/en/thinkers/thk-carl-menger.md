@@ -12,7 +12,7 @@ country: "Austria"
 language: "German"
 economic_school: "Marginal revolution"
 active_start: 1871
-active_end: 1889
+active_end: 1903
 edges:
 - rel: "belongs_to", target: "Marginal Revolution", target_type: "مدرسة"
 related:
@@ -27,7 +27,7 @@ gaps: []
 
 ## From economic journalism to a university chair
 
-In his youth Menger worked as a journalist, including reporting on markets for the *Wiener Zeitung*. This hands-on experience with actual pricing in markets led him to doubt the capacity of the classical labour theory of value to explain how prices are formed day to day. He published his founding book, *Principles of Economics*, in 1871, and then obtained a professorship at the University of Vienna (extraordinary professor in 1873, full professor in 1879). In the late 1870s he tutored the Habsburg Crown Prince Rudolf, an indication of the standing he reached in official Austrian circles.
+In his youth Menger worked as a journalist, including reporting on markets for the *Wiener Zeitung*. This hands-on experience with actual pricing in markets led him to doubt the capacity of the classical labour theory of value to explain how prices are formed day to day. He published his founding book, *Principles of Economics*, in 1871, and then obtained a professorship at the University of Vienna (extraordinary professor in 1873, full professor in 1879). From 1876 to 1878 he tutored Crown Prince Rudolf in political economy and statistics and travelled with him in Europe and Britain. The association continued until Rudolf's death in 1889. Menger retired from his Vienna chair in 1903.
 
 ## The subjective theory of value
 
@@ -56,5 +56,6 @@ Historians of economic thought generally regard the three works of Jevons (1871)
 ## Sources
 
 - Menger, Carl. *Grundsätze der Volkswirtschaftslehre*. Wilhelm Braumüller, 1871.
+- Menger, Carl. "On the Origin of Money." *Economic Journal*, vol. 2, no. 6, 1892, pp. 239–255.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.
 - Screpanti, Ernesto, and Stefano Zamagni. *An Outline of the History of Economic Thought*. 2nd ed., Oxford University Press, 2005.

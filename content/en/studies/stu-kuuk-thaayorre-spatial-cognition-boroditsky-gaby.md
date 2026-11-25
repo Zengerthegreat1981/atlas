@@ -22,29 +22,26 @@ gaps: []
 
 # Boroditsky & Gaby's Kuuk Thaayorre Study
 
-An experimental field study conducted by Lera Boroditsky and Alice Gaby with speakers of Kuuk Thaayorre, the language of the Indigenous people of the Cape York Peninsula in Australia. This language uses absolute (cardinal) spatial directions (north, south, east, west) rather than relative directions (right, left) to describe space in daily life.
+A field experiment by Lera Boroditsky and Alice Gaby (2010) with speakers of Kuuk Thaayorre in Pormpuraaw, on Cape York Peninsula, Australia. Kuuk Thaayorre is described as using absolute (cardinal) directions in everyday spatial reference, where English would use left and right.
 
-## Experimental design
+## Design
 
-The two researchers asked speakers of Kuuk Thaayorre to arrange a series of pictures representing a temporal sequence (such as successive images of a person growing older) on the ground in front of them. They compared the arrangement with that of speakers of languages that use relative directions, such as English (written left to right) and Hebrew (written right to left); the pictures showed, for example, a man at different ages or a growing crocodile.
+Participants arranged pictures of a temporal sequence — a man at different ages, a crocodile growing, a banana being eaten — on the ground. Each person was tested facing different cardinal directions. The comparison group was English-speaking Americans. Hebrew speakers are not participants in this paper. A separate study the same year, Fuhrman and Boroditsky (2010), found that English speakers arranged time from left to right and Hebrew speakers from right to left, in line with writing direction. Boroditsky has used that contrast when presenting the Pormpuraaw result to wider audiences.
 
 ## Result
 
-English speakers arranged the pictures in time consistently from left to right (influenced by the direction of writing). Kuuk Thaayorre speakers, by contrast, arranged them with remarkable consistency from east to west, regardless of the direction the participant was actually facing when seated. (If the participant faced south, they arranged the pictures from their left to their right; if they faced north, they arranged them from their right to their left.) This suggests they maintained constant awareness of absolute geographical directions even in a task that apparently has no connection to navigation.
+American participants tended to order earlier-to-later from left to right. Pormpuraaw participants tended to order time from east to west. Facing south, that axis runs left to right; facing north, it runs right to left; facing east, toward the body; facing west, away from the body. The paper reports that people were not told which way they were facing. The authors interpret the layouts as evidence that these participants kept track of cardinal direction during a task that does not ask about navigation.
 
-## Theoretical significance
+## Kuuk Thaayorre and absolute frames
 
-This result was presented as evidence that the obligatory linguistic habit (using absolute directions in every everyday conversation) may be linked to the development of an exceptional non-linguistic cognitive ability (constant awareness of absolute geographic direction), extending beyond speech to organize basic spatial perception itself.
+Kuuk Thaayorre, a Paman language of the Pormpuraaw community, belongs to a set of Australian and other languages in which an absolute frame of reference is routine. Speakers locate objects by compass direction, including on the body, so that an ant might be described as on a north or south leg. Stephen Levinson (2003) had already argued, especially from Guugu Yimithirr, that obligatory absolute reference co-occurs with skill at tracking direction in non-linguistic tasks. The 2010 study extends that line of work from space to representations of time. Absolute reference is a community practice learned in childhood; it is not confined to Kuuk Thaayorre, and not every speaker of every such language has been tested.
 
-## The context of Kuuk Thaayorre
+## Linguistic relativity
 
-Kuuk Thaayorre, spoken in the Pormpuraaw community in northern Australia, uses absolute directions obligatorily in almost every spatial description, instead of the relative expressions familiar in languages such as English and Arabic. A speaker says, for example, "There is an ant on your southwest leg" rather than "on your right leg." This requires its speakers to maintain constant geographic orientation from childhood, unlike speakers of relative-system languages, who usually do not need to know the north and south directions in their daily lives.
-
-## The study's importance in the debate on linguistic relativity
-
-The study acquired particular importance in the contemporary debate on the hypothesis of linguistic relativity (Sapir–Whorf). It was presented as controlled experimental evidence that obligatory grammatical differences between languages can coincide with measurable non-linguistic cognitive differences. This contrasts with more cautious positions, which hold that such evidence, however striking, is not enough to prove that language "shapes" thought in a strong sense, and may merely reflect a shared cultural-environmental association between language and everyday navigational practice.
+The paper is cited in debates on linguistic relativity associated with Sapir and Whorf. It reports a non-linguistic difference that lines up with a difference in spatial language. It does not isolate language from the rest of life in Pormpuraaw: the same environment that maintains cardinal talk also gives people reason to know where east is. A cautious reading is that language, daily practice, and the card arrangements travel together. The authors' stronger wording, that conceptions of time can differ sharply across cultures, is their interpretation of the layouts.
 
 ## Sources
 
 - Boroditsky, Lera; Gaby, Alice (2010). "Remembrances of Times East: Absolute Spatial Representations of Time in an Australian Aboriginal Community." *Psychological Science* 21(11).
+- Fuhrman, Orly; Boroditsky, Lera (2010). "Cross-Cultural Differences in Mental Representations of Time: Evidence from an Implicit Nonlinguistic Task." *Cognitive Science* 34.
 - Levinson, Stephen C. (2003). *Space in Language and Cognition: Explorations in Cognitive Diversity*. Cambridge University Press.

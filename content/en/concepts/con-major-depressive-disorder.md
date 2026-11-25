@@ -9,7 +9,7 @@ en: "Major Depressive Disorder"
 crumb: "Psychiatry ← Concepts ← Major Depressive Disorder"
 active_start: null
 active_end: "مستمر"
-language: "Arabic, English"
+language: "English"
 edges:
 - rel: "belongs_to", target: "Mood Disorders", target_type: "مدرسة"
 - rel: "relates_to", target: "Depression Subtypes", target_type: "مفهوم"
@@ -38,7 +38,7 @@ Arab-Islamic civilization knew the disease as "melancholia" (*al-malikhuliya*), 
 
 ## The Modern Concept Takes Shape
 
-Kraepelin described depression as part of "manic-depressive insanity" (sixth edition of his textbook, 1899), distinguishing it from dementia praecox. Feighner and colleagues in *Archives of General Psychiatry* in 1972 proposed explicit research diagnostic criteria (the "Feighner criteria"), and the third edition of the diagnostic manual (DSM-III, 1980), developed under Robert Spitzer, introduced the category "major depressive disorder." Aaron Beck presented the cognitive framework in *Depression* (Harper & Row, 1967). Brown and Harris, in *Social Origins of Depression* (Tavistock, 1978), showed the role of severe life events and social isolation among women in London. A meta-analysis of twin studies by Sullivan, Neale and Kendler in the *American Journal of Psychiatry* in 2000 estimated the heritability of the disorder at around 37%. The National Comorbidity Survey Replication (Kessler and colleagues, *JAMA*, 2003) estimated a lifetime prevalence of major depressive disorder in the United States of about 16%.
+Kraepelin described depression as part of "manic-depressive insanity" (sixth edition of his textbook, 1899), distinguishing it from dementia praecox. Feighner and colleagues in *Archives of General Psychiatry* in 1972 proposed explicit research diagnostic criteria (the "Feighner criteria"), and the third edition of the diagnostic manual (DSM-III, 1980), developed under Robert Spitzer, introduced the category "major depressive disorder." Aaron Beck presented the cognitive framework in *Depression* (Harper & Row, 1967). Brown and Harris, in *Social Origins of Depression* (Tavistock, 1978), reported that severe life events and lack of a confiding relationship were associated with depression among women in Camberwell, London. A meta-analysis of twin studies by Sullivan, Neale and Kendler in the *American Journal of Psychiatry* in 2000 estimated the heritability of the disorder at around 37%. The National Comorbidity Survey Replication (Kessler and colleagues, *JAMA*, 2003) estimated a lifetime prevalence of major depressive disorder in the United States of about 16%.
 
 ## Treatment
 

@@ -19,8 +19,7 @@ edges:
 related:
 - id: "sch-latin-american-structuralism-cepal", title: "Latin American Structuralism: CEPAL (ECLAC)", type: "مدرسة"
 - id: "thk-samir-amin", title: "Samir Amin", type: "مفكر"
-gaps: 
-  - "Detailed treatment of the realist, liberal and structuralist sub-schools: not yet covered"
+gaps: []
 ---
 # International Political Economy
 
@@ -28,15 +27,23 @@ gaps:
 
 ## Susan Strange and Structural Power
 
-The British researcher Susan Strange made one of the field's most important contributions with the concept of **"structural power"**: the capacity to shape the frameworks that define other actors' economic choices in the first place (the systems of finance, security, knowledge and production), rather than merely the direct "behavioural" power to compel another party to take a particular action. This distinction helped explain how major states maintain deep economic influence even when their visible military or diplomatic power declines.
+The British scholar Susan Strange set out the concept of **"structural power"** in *States and Markets*: the capacity to shape the frameworks that define other actors' economic choices (the systems of security, production, finance and knowledge), as distinct from direct "relational" power to compel another party to take a particular action. The distinction was used to explain how a state can retain economic influence even when its visible military or diplomatic position weakens.
 
-## The Three Traditional Schools of the Field
+## Realist, liberal and structuralist currents
 
-The field is traditionally divided into three competing currents. The realist current sees the nation-state as the central actor, which harnesses the economy in the service of its security and strategic interests. The liberal current sees trade and economic integration as a mutual interest that reduces the likelihood of conflict between states. The structuralist current, influenced by Marxism and dependency theory, sees the international economic system as a hierarchical structure that reproduces inequality between a dominant industrial core and peripheral producers of raw materials.
+Textbooks still organise the field around three currents, with the warning that working scholars often cross them.
 
-## Bretton Woods and Its Collapse: A Founding Moment
+The **realist** (or state-centred) current treats the state as the principal actor and wealth as an instrument of power and security. Robert Gilpin's *The Political Economy of International Relations* (1987) is a standard statement: open trade and stable money depend on a political order, and shifts in state power change the rules of the international economy. A related claim, hegemonic stability, associated with Charles Kindleberger and developed by Gilpin and others, holds that an open world economy is more likely when one leading state is willing to bear the costs of maintaining it. Realists expect conflict over relative gains, not only over absolute gains from trade.
 
-The collapse of the Bretton Woods fixed-exchange-rate system in 1971, when the United States unilaterally cancelled the link between the dollar and gold, was a founding moment for the field. It showed clearly that the rules of the international monetary system, which seemed to be neutral technical arrangements, were in fact a sovereign political decision serving the interests of the state dominating the system. This lesson became a cornerstone of later analysis in international political economy.
+The **liberal** current treats households, firms and states as actors who can gain jointly from exchange, and it treats international institutions as devices that reduce uncertainty. Robert Keohane and Joseph Nye's *Power and Interdependence* (1977) argued that multiple channels of contact, the absence of a fixed hierarchy between military and economic issues, and the declining usefulness of force among interdependent states change how power works. Keohane's later institutional work argued that regimes can persist after the hegemony that helped create them, because they lower the costs of making and monitoring agreements. This current does not claim that integration abolishes conflict; it claims that institutions and expected mutual gains change its form.
+
+The **structuralist** current, drawing on Marxian political economy, Latin American dependency writing and world-systems analysis, treats the world economy as a hierarchy between an industrial core and a raw-material periphery. On this view, specialisation and the rules of trade, finance and investment reproduce unequal gains rather than close the gap. Samir Amin, André Gunder Frank and Immanuel Wallerstein are the names most often cited. The current overlaps with the CEPAL structuralism treated in a separate entry, but it is more sceptical that a change of national trade policy is enough.
+
+Strange's structural power does not sit neatly inside any one of the three: it shares the realist attention to power and the structuralist attention to enduring frameworks, while refusing to treat states as the only actors that matter.
+
+## Bretton Woods and its collapse
+
+The unravelling of the Bretton Woods fixed-exchange-rate system in 1971, when the United States suspended the convertibility of the dollar into gold, was a formative episode for the field. It made it harder to treat the rules of the international monetary system as neutral technical arrangements: the suspension was a decision of the state at the centre of the system, taken for its own payments position. Later work in the field has repeatedly returned to that episode.
 
 ## Complex Interdependence and Global Governance
 
@@ -68,3 +75,5 @@ The field is distinguished by its ability to combine several levels of analysis 
 - Gilpin, Robert. *The Political Economy of International Relations*. Princeton University Press, 1987.
 - Keohane, Robert O., and Joseph S. Nye. *Power and Interdependence*. 2nd ed., Scott, Foresman, 1989.
 - Stiglitz, Joseph E. *Globalization and Its Discontents*. W. W. Norton, 2002.
+- Keohane, Robert O. *After Hegemony: Cooperation and Discord in the World Political Economy*. Princeton University Press, 1984.
+- Kindleberger, Charles P. *The World in Depression, 1929–1939*. University of California Press, 1973.

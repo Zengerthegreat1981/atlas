@@ -38,7 +38,7 @@ In *A Monetary History of the United States, 1867–1960* (1963), written with t
 
 ## The long-run Phillips curve: no permanent trade-off
 
-Friedman mounted a decisive critique of the traditional Keynesian **Phillips curve** in his presidential address to the American Economic Association (December 1967, published 1968), independently of Edmund Phelps's similar argument, proposing the concept of the **natural rate of unemployment**. Any attempt to push unemployment below this rate through deliberate inflation succeeds only temporarily: individuals' expectations then adjust to the higher inflation, and unemployment returns to its natural rate with permanently higher inflation. In other words, there is no stable trade-off between inflation and unemployment in the long run. These expectations were borne out in practice by the stagflation that followed the oil shock of 1973, which greatly strengthened the credibility of monetarism.
+Friedman mounted a decisive critique of the traditional Keynesian **Phillips curve** in his presidential address to the American Economic Association (December 1967, published 1968), independently of Edmund Phelps's similar argument, proposing the concept of the **natural rate of unemployment**. Any attempt to push unemployment below this rate through deliberate inflation succeeds only temporarily: individuals' expectations then adjust to the higher inflation, and unemployment returns to its natural rate with permanently higher inflation. In other words, there is no stable trade-off between inflation and unemployment in the long run. The stagflation that followed the oil shock of 1973 was widely taken as consistent with that critique of a stable Phillips curve. The oil shock was also a supply shock, so the episode did not isolate the expectations mechanism by itself, but it did strengthen monetarism's standing against the textbook trade-off.
 
 ## A fixed monetary rule instead of discretion
 
@@ -50,7 +50,7 @@ Monetarism was institutionally linked to a broader tradition in the economics de
 
 ## Political influence: Thatcher and Reagan
 
-Monetarist ideas found direct political resonance in the policies of **Margaret Thatcher** in Britain and **Ronald Reagan** in the United States in the early 1980s. Policymakers adopted targeting of money-supply growth as a key tool for curbing the high inflation inherited from the 1970s. This practical experience faced technical difficulties, however, which later led to a relaxation of literal reliance on monetary targets in favor of direct inflation targeting.
+Monetarist ideas found direct political resonance in the early 1980s. In Britain, Margaret Thatcher's government wrote money-supply targets into the Medium Term Financial Strategy (1980). In the United States, the Federal Reserve under Paul Volcker, appointed in 1979 and continued under Ronald Reagan, shifted operating procedures toward tighter control of monetary aggregates in October 1979. The Reagan administration's fiscal programme, built on tax cuts and a larger deficit, was not itself a monetarist rule. The money-target experiments ran into technical difficulties, as the relationship between the targeted aggregates and nominal income proved unstable, and later practice moved toward direct inflation targeting.
 
 ## Central bank independence: a lasting institutional demand
 

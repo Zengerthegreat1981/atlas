@@ -23,7 +23,7 @@ gaps: []
 ---
 # James M. Buchanan
 
-**James M. Buchanan** was an American economist and a co-founder, together with Gordon Tullock, of the field of public choice theory. He was awarded the Nobel Prize in Economics in 1986 for "his development of the contractual and constitutional bases for the theory of economic and political decision-making." He is regarded as the founding figure of what became known as the "Virginia school" of economic policy analysis.
+**James M. Buchanan** was an American economist and a co-founder, together with Gordon Tullock, of the field of public choice theory. He was awarded the Nobel Prize in Economics in 1986 for "his development of the contractual and constitutional bases for the theory of economic and political decision-making." He is the central figure of what became known as the Virginia school of political economy.
 
 ## From a Tennessee farm to Chicago
 
@@ -39,7 +39,7 @@ In 1962 Buchanan and Gordon Tullock published their founding book *The Calculus 
 
 ## Constitutional economics
 
-Buchanan later developed what he called "constitutional economics": an approach that focuses analysis on the level of higher constitutional rules (rather than day-to-day individual policies), as the most suitable level for restraining the tendency of political actors to expand public spending and chronic budget deficits. His other major works include *The Limits of Liberty* (1975). He proposed permanent constitutional constraints (such as balanced-budget rules) that a transient political majority would find difficult to amend easily to serve short-term interests.
+Buchanan later developed what he called "constitutional economics": an approach that focuses analysis on the level of higher constitutional rules (rather than day-to-day individual policies), as the level at which to restrain the tendency of political actors to expand public spending and chronic budget deficits. His other major works include *The Limits of Liberty* (1975). He proposed permanent constitutional constraints (such as balanced-budget rules) that a transient political majority would find difficult to amend easily to serve short-term interests.
 
 ## Critique of chronic deficits in democracies
 
@@ -47,15 +47,15 @@ With Richard Wagner, Buchanan presented in *Democracy in Deficit* (1977) an expl
 
 ## Nobel Prize and late recognition
 
-Buchanan received the Nobel Prize in Economics in 1986, a high academic recognition that came after decades of work on the relative margins of the dominant mainstream economics. This reflects the gradual path that the public choice field took from academic marginality in the 1960s to full institutional recognition by the 1980s.
+Buchanan received the Nobel Memorial Prize in Economic Sciences in 1986, after decades in which public choice sat outside the centre of mainstream economics. By the 1980s the field was widely taught and cited.
 
 ## Contractarian philosophy and methodological individualism
 
-In his political analysis Buchanan drew on a contractarian philosophy partly inspired by the tradition of the philosophical social contract, but differing from it by focusing on the practical question: which constitutional arrangements could rational individuals agree to behind a partial "veil of ignorance" about their precise future interests. In this respect his analysis is methodologically close, in some aspects, to John Rawls's philosophy, despite a deep political difference between the two over the desired outcomes of this hypothetical constitutional contract.
+Buchanan's political analysis is contractarian. He asked which constitutional rules rational individuals could agree to when they are uncertain about their future positions. Commentators often compare that device with John Rawls's veil of ignorance. The two projects differ sharply in the distributive outcomes they defend.
 
 ## Move to George Mason
 
-Buchanan moved with his research centre from Virginia Polytechnic Institute to George Mason University in 1983. The university later became one of the leading academic centres worldwide for the study of Austrian economics and public choice theory together, bringing two distinct intellectual traditions (Austrian and Virginian) under one institutional umbrella that shaped later generations of American liberal economists.
+Buchanan moved with his research centre from Virginia Polytechnic Institute to George Mason University in 1983. George Mason thereafter housed both public-choice research and a substantial Austrian-economics group, two traditions that remained distinct.
 
 ## Criticism from outside the tradition
 

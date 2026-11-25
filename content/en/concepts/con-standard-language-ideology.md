@@ -20,7 +20,7 @@ gaps: []
 
 # Standard Language Ideology
 
-A concept associated especially with the linguists James Milroy and Lesley Milroy (and developed also by Rosina Lippi-Green) to describe the implicit system of beliefs that assumes a single "correct," "pure" or "ideal" linguistic form of a language (such as "Standard English" or *fusha*, the standard written Arabic), while other linguistic varieties (regional or social dialects) are classified as deviations or errors from this presumed standard.
+A concept used to describe the implicit system of beliefs that assumes a single "correct," "pure" or "ideal" linguistic form of a language (such as "Standard English" or *fusha*, the standard written Arabic), while other linguistic varieties (regional or social dialects) are classified as deviations or errors from this presumed standard. James Milroy and Lesley Milroy analysed this ideology of the standard in *Authority in Language* (1985). Rosina Lippi-Green gave the label "standard language ideology" wide currency in *English with an Accent* (1997), especially in relation to accent discrimination in the United States.
 
 ## The Nature of the Social Construction
 

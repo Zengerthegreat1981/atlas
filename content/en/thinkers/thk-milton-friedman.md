@@ -25,11 +25,11 @@ gaps: []
 ---
 # Milton Friedman
 
-**Milton Friedman** was an American economist at the University of Chicago. He is the most prominent representative of the monetarist school and one of the most influential economists in global economic policy during the second half of the twentieth century. He was awarded the Nobel Memorial Prize in Economic Sciences in 1976 and was a leading advocate of free markets and limited state intervention in the economy.
+**Milton Friedman** was an American economist at the University of Chicago. He was a central exponent of monetarism and a widely influential voice in economic policy during the second half of the twentieth century. He was awarded the Nobel Memorial Prize in Economic Sciences in 1976 and was a leading advocate of free markets and limited state intervention in the economy.
 
 ## From New York to Chicago
 
-Friedman grew up in New York in a modest family of Jewish immigrants from Carpathian Ruthenia (now in Ukraine). He studied mathematics and economics at Rutgers University, took a master's degree at the University of Chicago and a doctorate at Columbia University (1946), and joined the University of Chicago faculty in 1946, where he became a leading professor and the intellectual leader of what became known as the "Chicago School" of economics. That school combined rigorous empirical methodology with a principled defence of the efficiency of free markets compared with direct government regulation.
+Friedman grew up in New York in a modest family of Jewish immigrants from Carpathian Ruthenia (now in Ukraine). He studied mathematics and economics at Rutgers University, took a master's degree at the University of Chicago and a doctorate at Columbia University (1946), and joined the University of Chicago faculty in 1946, where he became a leading figure of the postwar "Chicago school" of economics. That school combined empirical work with a defence of competitive markets against much direct government regulation. The Chicago tradition itself was older, associated earlier with Frank Knight, Jacob Viner and Henry Simons.
 
 ## The quantity theory of money: a modern revival
 
@@ -49,7 +49,7 @@ Friedman went beyond purely technical economics to a broader philosophical defen
 
 ## The Nobel Prize and direct political influence
 
-Friedman received the Nobel Prize in 1976, cited "for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy". His consumption work includes *A Theory of the Consumption Function* (1957), which set out the permanent income hypothesis. His ideas became a direct political reference point during the tenures of Margaret Thatcher in Britain and Ronald Reagan in the United States in the early 1980s. Central banks in the United States and Britain experimented with targeting the growth of the money supply to curb the high inflation of the late 1970s, alongside general policies to liberalize markets, cut taxes and reduce government regulation.
+Friedman received the Nobel Prize in 1976, cited "for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy". His consumption work includes *A Theory of the Consumption Function* (1957), which set out the permanent income hypothesis. His ideas were an important reference for policymakers around Margaret Thatcher in Britain and Ronald Reagan in the United States in the early 1980s. Central banks in the United States and Britain experimented with targeting the growth of the money supply to curb the high inflation of the late 1970s, alongside general policies to liberalize markets, cut taxes and reduce government regulation.
 
 ## Controversial international advisory work
 

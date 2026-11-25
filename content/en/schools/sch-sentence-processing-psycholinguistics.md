@@ -26,7 +26,7 @@ A branch of psycholinguistics that studies how the reader or listener builds a g
 
 ## Garden-path sentences and Frazier's staged model
 
-**Lyn Frazier** made use of the phenomenon of **garden-path sentences**: grammatically correct sentences that carry a temporary structural ambiguity leading the reader to a wrong interpretation that must later be revised. An example is the famous English sentence "The horse raced past the barn fell" (popularized by Thomas Bever in 1970). She used such sentences as evidence that the grammatical processor builds a single initial analysis immediately, rather than waiting to resolve the ambiguity. Together with Janet Fodor, Frazier proposed a "staged" (serial) model based on two guiding principles: **Minimal Attachment**, which prefers to build the simplest possible syntactic tree first, and **Late Closure**, which prefers to attach a new element to the phrase currently being analyzed rather than opening a new phrase.
+**Lyn Frazier** made use of **garden-path sentences**: grammatical sentences whose temporary ambiguity leads the reader to an analysis that must later be revised. A standard example is "The horse raced past the barn fell," discussed by Thomas Bever (1970). Such sentences were used as evidence that the parser commits to an initial analysis rather than waiting until the sentence is complete. Frazier and Janet Dean Fodor (1978) proposed a two-stage serial parser (the "sausage machine"). Frazier's garden-path theory, tested with Keith Rayner (1982), states two structural preferences: **Minimal Attachment**, which builds the simpler phrase marker first, and **Late Closure**, which attaches new material to the phrase currently open.
 
 ## The lexicalist constraint-based model
 
@@ -38,20 +38,25 @@ A branch of psycholinguistics that studies how the reader or listener builds a g
 
 ## The visual world paradigm
 
-**Michael Tanenhaus** and colleagues (building on earlier work by Roger Cooper in 1974) developed the "visual world paradigm," an experimental method that tracks the eye movements of a participant among the elements of a visual scene while they listen to a spoken sentence. It reveals the moment at which visual contextual information is used to resolve grammatical ambiguity, with fine-grained temporal resolution, providing strong evidence that language processing interacts with non-linguistic information.
+**Michael Tanenhaus** and colleagues (building on earlier work by Roger Cooper in 1974) developed the "visual world paradigm," an experimental method that tracks the eye movements of a participant among the elements of a visual scene while they listen to a spoken sentence. It times the moment at which information in the visual scene is used to resolve a temporary ambiguity, and it is widely cited as evidence that comprehension can use non-linguistic context as speech unfolds. The method builds on Roger Cooper's 1974 finding that eye fixations are guided by the unfolding sentence.
 
 ## Speech production: Levelt's model
 
-In parallel with research on comprehension, **Willem Levelt** developed a staged model of speech production that separates conceptualization (deciding what to say), formulation (selecting words and grammatical structure) and articulation. He based this partly on the analysis of speech errors (slips of the tongue) collected by **Victoria Fromkin**, as evidence for the reality of these separate cognitive stages.
+In parallel with research on comprehension, **Willem Levelt** developed a staged model of speech production that separates conceptualization (deciding what to say), formulation (selecting words and grammatical structure) and articulation. His account drew partly on research on speech errors (slips of the tongue), including collections edited by **Victoria Fromkin**, as evidence for separate processing stages.
 
 ## Impact and neural extension
 
-Later, **Gregory Hickok** and **David Poeppel** proposed the "Dual-Stream Model" of the neural organization of speech and language processing, one influential attempt to connect psycholinguistic findings to specific brain networks. This complements the time-based behavioral approach with evidence from brain imaging, extending this field from purely cognitive psycholinguistics toward contemporary neurolinguistics.
+**Gregory Hickok** and **David Poeppel** proposed a dual-stream model of speech processing (set out across papers culminating in their 2007 review): a ventral stream mapping sound to meaning and a dorsal stream mapping sound to articulatory networks. The model is one attempt to relate psycholinguistic distinctions to cortical pathways. It does not replace the timed behavioral evidence from reading and eye tracking.
 
 ## Sources
 
+- Bever, Thomas G. (1970). "The Cognitive Basis for Linguistic Structures." In Hayes, John R. (ed.), *Cognition and the Development of Language*. John Wiley.
+- Frazier, Lyn; Fodor, Janet Dean (1978). "The Sausage Machine: A New Two-Stage Parsing Model." *Cognition* 6(4).
 - Frazier, Lyn, & Rayner, Keith. "Making and Correcting Errors During Sentence Comprehension." *Cognitive Psychology*, 14(2), 1982.
+- Cooper, Roger M. (1974). "The Control of Eye Fixation by the Meaning of Spoken Language." *Cognitive Psychology* 6(1).
 - MacDonald, Maryellen C., Pearlmutter, Neal J., & Seidenberg, Mark S. "The Lexical Nature of Syntactic Ambiguity Resolution." *Psychological Review*, 101(4), 1994.
 - Ferreira, Fernanda, & Patson, Nikole D. "The 'Good Enough' Approach to Language Comprehension." *Language and Linguistics Compass*, 1(1–2), 2007.
 - Tanenhaus, Michael K., et al. "Integration of Visual and Linguistic Information in Spoken Language Comprehension." *Science*, 268(5217), 1995.
 - Levelt, Willem J. M. *Speaking: From Intention to Articulation*. MIT Press, 1989.
+- Fromkin, Victoria A. (ed.) (1973). *Speech Errors as Linguistic Evidence*. Mouton.
+- Hickok, Gregory; Poeppel, David (2007). "The Cortical Organization of Speech Processing." *Nature Reviews Neuroscience* 8.

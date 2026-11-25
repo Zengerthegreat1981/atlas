@@ -26,7 +26,7 @@ gaps: []
 ---
 # A Monetary History of the United States, 1867-1960
 
-In 1963 **Milton Friedman**, in collaboration with the economist **Anna Jacobson Schwartz**, published their monumental book *A Monetary History of the United States, 1867-1960*. It is an encyclopaedic empirical work that documents the development of American monetary policy over nearly a full century, and is regarded as one of the most important works that established the empirical foundation of the monetarist school in macroeconomics.
+In 1963 **Milton Friedman**, in collaboration with the economist **Anna Jacobson Schwartz**, published *A Monetary History of the United States, 1867-1960*. It is a long empirical study of American monetary policy over nearly a century, and a principal source for the empirical claims of the monetarist school in macroeconomics.
 
 ## A Historical-Statistical Methodology
 
@@ -38,7 +38,7 @@ The book devotes a highly influential central chapter to reinterpreting the Grea
 
 ## Empirical Evidence on the Monetary-Cyclical Relationship
 
-The book presents a long series of detailed historical evidence that the major fluctuations in American economic activity over several decades (from the panic of 1893 through the panic of 1907 to the Great Depression) were associated with earlier or simultaneous changes in the money supply. The authors relied on detailed statistical data that they collected themselves from scattered banking and government archival sources. It was a pioneering systematic effort in quantitative monetary history.
+The book presents a long series of detailed historical evidence that the major fluctuations in American economic activity over several decades (from the panic of 1893 through the panic of 1907 to the Great Depression) were associated with earlier or simultaneous changes in the money supply. The authors relied on detailed statistical data that they assembled from banking and government sources. The book was an early large-scale exercise in quantitative monetary history.
 
 ## The Direct Theoretical and Political Impact
 
@@ -59,5 +59,6 @@ The book grew out of a long research programme on money and business cycles at t
 ## Sources
 
 - Friedman, Milton, and Anna Jacobson Schwartz. *A Monetary History of the United States, 1867-1960*. Princeton University Press, 1963.
+- Temin, Peter. *Did Monetary Forces Cause the Great Depression?* W. W. Norton, 1976.
+- Eichengreen, Barry. *Golden Fetters: The Gold Standard and the Great Depression, 1919–1939*. Oxford University Press, 1992.
 - Bernanke, Ben S. *Essays on the Great Depression*. Princeton University Press, 2000.
-- Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.

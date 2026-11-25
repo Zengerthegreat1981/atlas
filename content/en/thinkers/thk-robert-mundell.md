@@ -12,7 +12,7 @@ country: "Canada"
 language: "English"
 economic_school: "Open-economy macroeconomics / optimum currency areas"
 active_start: 1957
-active_end: 2010
+active_end: 2021
 edges:
 - rel: "belongs_to", target: "Neoclassical-Keynesian Synthesis", target_type: "مدرسة"
 related:
@@ -21,7 +21,7 @@ gaps: []
 ---
 # Robert Mundell
 
-**Robert Mundell** was a Canadian economist, awarded the Nobel Prize in Economics in 1999 for his analysis of monetary and fiscal policy under different exchange-rate regimes and for his analysis of optimum currency areas. He is sometimes nicknamed the "father of the euro", in recognition of the influence of his early theory of optimum currency areas on the design of the European monetary union.
+**Robert Mundell** was a Canadian economist, awarded the Nobel Prize in Economics in 1999 for his analysis of monetary and fiscal policy under different exchange-rate regimes and for his analysis of optimum currency areas. Journalists sometimes called him the "father of the euro", because his theory of optimum currency areas was used in debates on European monetary union. The euro's design drew on many other sources, and Mundell was a supporter of the project rather than its author.
 
 ## Academic path
 
@@ -29,23 +29,23 @@ Mundell studied at the University of British Columbia, then obtained his doctora
 
 ## The Mundell–Fleming model
 
-In the early 1960s, working in parallel with the economist Marcus Fleming (Fleming 1962; Mundell 1963), Mundell developed a central model known as the "Mundell–Fleming model", which extends the traditional Keynesian macroeconomic model (IS-LM) to an economy open to international trade and cross-border capital movement. The model yields an important result later known as the "impossible trinity" in international macroeconomics: no country can simultaneously achieve three goals — full freedom of international capital movement, a fixed exchange rate, and full independence of domestic monetary policy. It must give up at least one of these three goals. This framework became fundamental to the analysis of monetary policy choices for any economy open to the world.
+In the early 1960s, working in parallel with the economist Marcus Fleming (Fleming 1962; Mundell 1963), Mundell developed a central model known as the "Mundell–Fleming model", which extends the traditional Keynesian macroeconomic model (IS-LM) to an economy open to international trade and cross-border capital movement. The model implies a result later called the "impossible trinity" (or trilemma): a country cannot at once have free capital movement, a fixed exchange rate, and an independent monetary policy. It must give up at least one. The trilemma became a standard way of stating policy choices in open economies. The label itself was popularised later; Mundell's 1963 paper states the underlying policy conflict.
 
 ## Optimum currency areas: 1961
 
-In his pivotal article "A Theory of Optimum Currency Areas" (1961), Mundell presented an analytical framework for identifying the conditions under which it is economically beneficial for a group of countries or regions to abandon their separate currencies and adopt a common single currency. The most important condition Mundell stressed is a high degree of mobility of factors of production (especially labour) between those regions; later writers added criteria such as openness (McKinnon, 1963), diversification of production (Kenen, 1969) and fiscal transfers to compensate regions hit by asymmetric shocks. This theory became the principal intellectual reference later used in the academic debate on the viability and design of the European monetary union (the euro), and subsequently in discussing its weaknesses during the euro-area sovereign debt crisis that began in 2010, when critics pointed to limited labour mobility between member states and the absence of a substantial central fiscal transfer mechanism for handling asymmetric shocks.
+In his pivotal article "A Theory of Optimum Currency Areas" (1961), Mundell presented an analytical framework for identifying the conditions under which it is economically beneficial for a group of countries or regions to abandon their separate currencies and adopt a common single currency. The condition Mundell stressed is a high degree of mobility of factors of production, especially labour, between those regions. Later writers added criteria such as openness (Ronald McKinnon, 1963), diversification of production (Peter Kenen, 1969) and fiscal transfers that compensate regions hit by asymmetric shocks. The theory was a main reference in academic debate on European monetary union, and again during the euro-area sovereign debt crisis that began in 2010, when critics pointed to limited labour mobility between member states and the lack of a large central fiscal mechanism for asymmetric shocks.
 
 ## Support for supply-side economics
 
-In the 1970s, Mundell became one of the most prominent academic advocates of what became known as "supply-side economics", emphasizing the importance of cutting high marginal tax rates to stimulate investment, work and production. His ideas helped shape part of American tax policy under President Ronald Reagan in the early 1980s. This phase of his career, however, is less scientifically settled and more controversial than his more technical contributions to international macroeconomics.
+In the 1970s Mundell argued for what came to be called "supply-side economics", stressing cuts in high marginal tax rates to encourage work and investment. With Arthur Laffer and others, he was cited by advocates of the Reagan tax cuts of the early 1980s. That policy role is more disputed than his technical work on international macroeconomics.
 
 ## Nobel Prize and recognition
 
-Mundell was awarded the Nobel Prize in Economics in 1999 "for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas". The timing coincided with the official launch of the single European currency that same year, which reinforced his popular nickname "father of the euro", although the euro's design drew on many sources beyond his theory, and Mundell himself was a supporter of the project.
+Mundell was awarded the Nobel Prize in Economics in 1999 "for his analysis of monetary and fiscal policy under different exchange rate regimes and his analysis of optimum currency areas". The award came in the year the euro was launched for accounting purposes (notes and coins followed in 2002), which reinforced the popular nickname. Mundell died in 2021 at his home in Monteriggioni, near Siena.
 
 ## A provocative personality and a controversial style
 
-Mundell was known for a sometimes provocative public personality and an unconventional lecturing style. He spent much of his later life in Italy near Siena, where he hosted international economic conferences, and he died there in 2021. Despite the controversy surrounding some of his later political positions, there is broad consensus among economists that his theoretical contributions to international macroeconomics — the Mundell–Fleming model and the theory of optimum currency areas in particular — remain among the most enduring contributions to international macroeconomics.
+Mundell was known for an unconventional lecturing style. He spent much of his later life at his villa near Siena, where he hosted conferences. His Mundell–Fleming model and the theory of optimum currency areas remain standard references in international macroeconomics, even where his later policy views are disputed.
 
 ## Sources
 

@@ -28,8 +28,7 @@ related:
 - id: "con-falling-rate-of-profit", title: "The Falling Rate of Profit", type: "مفهوم"
 - id: "thk-david-ricardo", title: "David Ricardo", type: "مفكر"
 - id: "wrk-al-muqaddimah-ibn-khaldun", title: "The Muqaddimah of Ibn Khaldun", type: "عمل / كتاب"
-gaps: 
-  - "Detailed treatment of the transformation problem and the Cambridge capital controversy: not yet covered"
+gaps: []
 ---
 # Marx's Critique of Political Economy
 
@@ -41,7 +40,7 @@ Marx regarded Ricardo as the most profound and original representative of classi
 
 ## From Surplus Value to Accumulation and Crisis
 
-On this foundation Marx built a dynamic analysis of capitalism that the relatively static classical economics lacked: **the law of the tendency of the rate of profit to fall**. Competition drives capitalists to replace living labour with machines continually in pursuit of a competitive advantage. But this very substitution shrinks the share of living labour, the sole source of surplus value for Marx, in the total capital invested. Over time it presses down the overall rate of profit, producing recurrent crises rather than a stable equilibrium.
+On this foundation Marx built a dynamic analysis of capitalism that the relatively static classical economics lacked: **the law of the tendency of the rate of profit to fall**, set out in the third volume. Competition drives capitalists to replace living labour with machines in pursuit of a temporary advantage. On Marx's reasoning, that substitution raises the organic composition of capital: it shrinks the share of living labour, which he treats as the sole source of surplus value, in the capital advanced. He describes a downward pressure on the rate of profit, not a prediction that the rate falls in every period: the same chapters list counteracting causes, including cheaper means of production, foreign trade and a higher intensity of exploitation. Whether the tendency dominates those causes is a standing dispute.
 
 ## Primitive Accumulation: How Capitalism Began
 
@@ -53,7 +52,7 @@ It is important to note that Marx's critique was not a complete rejection of cla
 
 ## A Khaldunian Echo in the Labour Theory of Value
 
-Some comparative scholars note a resemblance between Marx's idea of labour as the source of value and what Ibn Khaldun put forward in the *Muqaddimah*: that human labour is the source of gain and that accumulated wealth is itself rooted in earlier labour. This resemblance is usually presented in the literature on the history of economic thought as a parallel intellectual precedence, not as a documented direct historical influence.
+Ibn Khaldun's *Muqaddimah* treats human labour as a source of gain and treats accumulated wealth as the product of earlier effort. That is a broad resemblance to the idea that labour matters for wealth. It is not Marx's theory of exchange value and surplus value, and there is no documented line of influence from the *Muqaddimah* to *Capital*.
 
 ## The Structure of the Full Project: Three Volumes, One Question
 
@@ -63,12 +62,24 @@ Marx planned *Capital* as a multi-part project, of which he himself completed on
 
 Marx carefully distinguishes between the "scientific" classical political economy of Smith and Ricardo, which he respected for its analytical seriousness despite disagreeing with it, and what he called "vulgar economy" (Vulgar Economy), which flourished after Ricardo. Marx held that vulgar economy abandoned analytical seriousness in favour of direct ideological justification of existing capitalist relations. It was content to describe surface phenomena, such as market prices, without seeking to uncover the deeper structural relations behind them. This distinction makes clear that Marx's critique targets a particular apologetic methodology, not all classical economic thought.
 
-## The Dialectical Method of Presentation
+## The transformation problem
 
-In presenting *Capital*, Marx adopted a method that set out the economic categories (the commodity, money, capital) in a progressive logical-historical order. He started from the simplest form of economic relation (the exchange of two commodities) and proceeded gradually to the most complex forms (the full circuit of productive capital). This reflects his methodological debt to Hegel's philosophical dialectic, though Marx transformed it from an analysis of abstract ideas into an analysis of actual material social relations.
+Volume 3 moves from values to **prices of production**: a price made up of cost plus a share of the total surplus value proportional to the capital advanced, so that rates of profit can be equalised across branches with different ratios of labour to means of production. In the numerical illustrations Engels published, Marx transforms the outputs into prices of production while still entering the inputs at their values. Ladislaus von Bortkiewicz, in 1907, set out a simultaneous solution in which inputs and outputs are transformed together, under restrictive assumptions about the structure of production. Later work, including Francis Seton's multi-sector treatment (1957) and the "New Interpretation" associated with Duncan Foley and Gérard Duménil in the 1980s, disagrees about what must be preserved. Marx had wanted both equalities: total price equal to total value, and total profit equal to total surplus value. In the usual formalisations both cannot hold at once except in special cases. The controversy is about the consistency of the value accounting, not a finding that profit has some source other than the one Marx proposed.
+
+## The Cambridge capital controversy
+
+A separate dispute, the **Cambridge capital controversy** of the 1950s and 1960s, bears on the same terrain from the other side. Joan Robinson, in "The Production Function and the Theory of Capital" (1953), and Piero Sraffa, in *Production of Commodities by Means of Commodities* (1960), asked whether "capital" can be measured as a quantity independent of the rate of profit and the wage. Reswitching examples show that a technique can be the cost-minimising choice at both a high and a low rate of profit, with another technique chosen in between. There is then no general, monotonic relation between the rate of profit and the capital intensity of production. Paul Samuelson's "A Summing Up" (1966) accepted that the parable of an aggregate production function does not hold in general. The result undercuts textbook stories in which the interest rate is the marginal product of a quantity of capital fixed before distribution is known. It does not, by itself, establish Marx's tendency of the rate of profit to fall. The two arguments are often run together, and they should be kept apart.
+
+## The dialectical method of presentation
+
+In *Capital*, Marx sets out the economic categories (the commodity, money, capital) from simpler forms to more complex ones, beginning with the exchange of two commodities and moving toward the circuit of productive capital. How far that order is also a historical sequence is disputed: Friedrich Engels read it as logical and historical together, while many later scholars treat the order as conceptual. Marx noted his debt to Hegel's dialectic and described it as limited to the mode of presentation; the object of the argument is social relations of production, not the self-movement of abstract ideas.
 
 ## Sources
 
 - Marx, Karl. *Capital: A Critique of Political Economy*. Vol. 1, 1867 (English translation, Penguin Classics, 1976).
-- Rubin, Isaak Illich. *Essays on Marx's Theory of Value*. Black Rose Books, 1972 (Russian original 1928).
-- Mandel, Ernest. *Marxist Economic Theory*. Merlin Press, 1968 (French original 1962).
+- Rubin, Isaak Illich. *Essays on Marx's Theory of Value*. Black & Red, 1972 (Russian third edition, 1928).
+- Sraffa, Piero. *Production of Commodities by Means of Commodities*. Cambridge University Press, 1960.
+- Robinson, Joan. "The Production Function and the Theory of Capital." *Review of Economic Studies*, vol. 21, no. 2, 1953, pp. 81–106.
+- Samuelson, Paul A. "A Summing-Up." *Quarterly Journal of Economics*, vol. 80, no. 4, 1966, pp. 568–583.
+- Bortkiewicz, Ladislaus von. "Wertrechnung und Preisrechnung im Marxschen System." *Archiv für Sozialwissenschaft und Sozialpolitik*, vols. 23 and 25, 1906–1907.
+- Seton, Francis. "The 'Transformation Problem'." *Review of Economic Studies*, vol. 24, no. 3, 1957, pp. 149–160.

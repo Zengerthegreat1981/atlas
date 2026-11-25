@@ -22,7 +22,7 @@ gaps:
 ---
 # Effective Demand
 
-**Effective demand** is a central concept in Keynesian economics, formulated by **John Maynard Keynes** in his book *The General Theory of Employment, Interest and Money* (1936). It refers to the total spending that entrepreneurs expect to receive from the sale of output (consumption and investment, and in later formulations government spending and net exports), which determines the level of output and employment they choose to offer, as distinct from a mere desire to buy that is not backed by purchasing power. The term had been used earlier by Thomas Malthus, and Michał Kalecki reached similar conclusions independently.
+**Effective demand** is a central concept in Keynesian economics, formulated by **John Maynard Keynes** in his book *The General Theory of Employment, Interest and Money* (1936). It refers to the total spending that entrepreneurs expect to receive from the sale of output (consumption and investment, and in later formulations government spending and net exports), which determines the level of output and employment they choose to offer, as distinct from a mere desire to buy that is not backed by purchasing power. Adam Smith had already distinguished "effectual demand" (desire backed by purchasing power) from absolute desire in *The Wealth of Nations* (1776). Thomas Malthus used that idea against Say's law in *Principles of Political Economy* (1820). Michał Kalecki reached conclusions close to Keynes's independently, in Polish work of the early 1930s.
 
 ## A refutation of Say's law
 
@@ -42,5 +42,8 @@ The concept of effective demand has remained the core of the interpretive disput
 
 ## Sources
 
+- Smith, Adam. *An Inquiry into the Nature and Causes of the Wealth of Nations*. 1776.
+- Malthus, Thomas Robert. *Principles of Political Economy*. 1820.
 - Keynes, John Maynard. *The General Theory of Employment, Interest and Money*. Macmillan, 1936.
+- Hicks, J. R. "Mr. Keynes and the 'Classics': A Suggested Interpretation." *Econometrica*, vol. 5, no. 2, 1937, pp. 147–159.
 - Blaug, Mark. *Economic Theory in Retrospect*. 5th ed., Cambridge University Press, 1997.

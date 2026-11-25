@@ -9,7 +9,7 @@ en: "Intergenerational Trauma Transmission"
 crumb: "Psychiatry ← Concepts ← Intergenerational Trauma Transmission"
 active_start: 1966
 active_end: "مستمر"
-language: "Arabic"
+language: "English"
 edges:
 - rel: "belongs_to", target: "Trauma and PTSD Studies", target_type: "مدرسة"
 related:
@@ -27,7 +27,7 @@ The concept of "intergenerational trauma" entered the psychiatric literature thr
 
 ## Psychological and Social Mechanisms
 
-The transmission is partly explained by well-documented psychosocial mechanisms: parenting patterns shaped by over-protectiveness or emotional detachment in survivor parents; family silence surrounding the details of the trauma, which creates a void filled with undefined anxiety in the children (what Marianne Hirsch called "postmemory"); the implicit transfer of ways of dealing with threat and of viewing the world as necessarily dangerous; and the partial, unconscious identification of children with their parents' suffering.
+The transmission is partly explained by well-documented psychosocial mechanisms: parenting patterns shaped by over-protectiveness or emotional detachment in survivor parents; family silence surrounding the details of the trauma; and what Marianne Hirsch called "postmemory," the second generation's relationship to events they did not live through, mediated by stories, images, and family behavior; the implicit transfer of ways of dealing with threat and of viewing the world as necessarily dangerous; and the partial, unconscious identification of children with their parents' suffering.
 
 ## Emerging Epigenetic Evidence
 

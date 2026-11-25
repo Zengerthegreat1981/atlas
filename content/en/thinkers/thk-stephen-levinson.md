@@ -25,11 +25,11 @@ gaps: []
 
 # Stephen Levinson
 
-British anthropological linguist (Max Planck Institute for Psycholinguistics), one of the leading contemporary researchers on the relationship between language and cognition. He is also one of the founders of politeness theory, together with Penelope Brown.
+British anthropological linguist (Max Planck Institute for Psycholinguistics), one of the leading contemporary researchers on the relationship between language and cognition. With Penelope Brown he co-authored the 1978 essay and 1987 book that set the standard face-based account of linguistic politeness.
 
 ## Absolute Spatial Orientations
 
-Levinson led a large comparative research project on how different languages represent space. He showed that speakers of languages that use an "absolute" directional system (north, south, east, west, as in the Australian language Guugu Yimithirr), rather than the "relative" system (right and left) prevalent in languages such as English, develop different spatial cognitive abilities. These abilities are measurable even in non-linguistic tasks. This is one of the strongest contemporary experimental pieces of evidence supporting a "weak" version of the linguistic relativity hypothesis.
+Levinson led a large comparative research project on how different languages represent space. Speakers of languages that use an absolute directional system (cardinal directions, as in the Australian language Guugu Yimithirr), rather than a relative system such as right and left in English, performed differently on some non-linguistic spatial tasks. Levinson and colleagues have treated those results as evidence for a limited form of linguistic relativity. The experiments have been debated, both in their design and in how far they generalize.
 
 ## Politeness Theory
 
@@ -49,11 +49,11 @@ Levinson played an active role in reviving the scientific debate on the "linguis
 
 ## Max Planck Institute and the Language Diversity Project
 
-Levinson was a founding director of the Max Planck Institute for Psycholinguistics' language and cognition research in Nijmegen, the Netherlands (the group began as Cognitive Anthropology and was later the Language and Cognition department). It became one of the most important centers of comparative field research. Its researchers conducted long-term fieldwork on little-documented languages in Australia, Papua New Guinea (for example Rossel Island) and Latin America. They gathered experimental data using standardized methodology, which allows comparisons across cultures that are otherwise difficult to access.
+Levinson headed the Max Planck Cognitive Anthropology Research Group in Nijmegen and later became a director of the Max Planck Institute for Psycholinguistics. The group, later the Language and Cognition department, ran long-term fieldwork on little-documented languages, including Australia, Rossel Island in Papua New Guinea, and Latin America, and used shared elicitation tasks so that results could be compared.
 
 ## Awards and Academic Recognition
 
-Levinson received wide academic recognition that reflects the breadth of his impact across several fields. He was elected a Fellow of the British Academy and received other honors for his contributions to linking linguistics with cognitive psychology and anthropology. This recognition reflects the interdisciplinary character that has marked his research career, from his early work in pragmatics to his later projects in comparative linguistic diversity.
+His career runs from Cambridge linguistics and the pragmatics textbook of 1983 to the comparative work on diversity at Nijmegen.
 
 ## Collaboration with Penelope Brown
 

@@ -37,7 +37,7 @@ Critics such as Tomasello argue that estimates of the input's "poverty" are stat
 
 ## Additional Examples of the Argument
 
-Besides question formation, the early understanding of subtle grammatical phenomena has also been cited. Examples include the constraints on pronoun binding (Binding Principles): the child's early knowledge that a pronoun cannot refer to a noun phrase in the same clause in certain configurations, despite the scarcity of negative evidence that could teach this constraint directly from heard usage. Defenders of the argument contend that this pattern recurs across multiple independent grammatical phenomena, which strengthens the conclusion that a general innate constraint exists rather than an isolated coincidence in each case.
+Other constructions have been offered as further cases, but they do not all behave like auxiliary inversion. Constraints on pronoun interpretation are a useful caution. Children are often reported to know early that a reflexive such as *himself* must find its antecedent nearby, while knowledge that a plain pronoun such as *him* cannot take a local antecedent (Principle B of the binding theory) is delayed well into the early school years (the "Delay of Principle B"). A poverty-of-the-stimulus argument cannot simply list every adult constraint as something children know before the input could teach it. Defenders of the argument therefore rest it on cases, such as structure-dependent inversion, where early adult-like behavior and thin input are both claimed.
 
 ## Contemporary Statistical Responses
 
@@ -49,3 +49,4 @@ Geoffrey Pullum and Barbara Scholz (2002) examined several classic poverty-of-th
 - Crain, Stephen; Nakayama, Mineharu (1987). "Structure Dependence in Grammar Formation." *Language* 63(3).
 - Pullum, Geoffrey K.; Scholz, Barbara C. (2002). "Empirical Assessment of Stimulus Poverty Arguments." *The Linguistic Review* 19(1-2).
 - Legate, Julie Anne; Yang, Charles D. (2002). "Empirical Re-Assessment of Stimulus Poverty Arguments." *The Linguistic Review* 19(1-2).
+- Chien, Yu-Chin; Wexler, Kenneth (1990). "Children's Knowledge of Locality Conditions in Binding as Evidence for the Modularity of Syntax and Pragmatics." *Language Acquisition* 1(3).

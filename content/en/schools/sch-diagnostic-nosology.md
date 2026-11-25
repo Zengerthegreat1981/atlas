@@ -11,7 +11,7 @@ dates: "Europe and North America · from the late 19th century to the present"
 country: "Germany, United States, WHO member states"
 language: "German, English"
 active_start: 1899
-active_end: 2026
+active_end: "مستمر"
 active_source: "lifespan"
 cultural_origin: "european"
 edges: []
@@ -39,7 +39,7 @@ Psychiatric nosology is the field that classifies mental disorders and systemati
 
 ## Origins and Context
 
-In his textbook *Psychiatrie: Ein Lehrbuch*, which went through nine editions between 1883 and 1927 (the eighth, in 1909-1915, is the best known), the German physician Emil Kraepelin laid the modern foundation of psychiatric classification. He distinguished "manic-depressive insanity" from "dementia praecox" (the conceptual precursor of schizophrenia), relying on the course of the illness and its long-term outcome rather than on momentary symptoms alone. This descriptive method, based on systematic clinical observation, became the model on which the later official classification systems were built.
+In his textbook *Psychiatrie: Ein Lehrbuch*, issued in successive editions from 1883 (the eighth, of 1909–1915, is the best known; a ninth edition of 1927 was edited by Johannes Lange after Kraepelin's death), the German physician Emil Kraepelin set out the classification that later manuals took as a model. He distinguished "manic-depressive insanity" from "dementia praecox" (the conceptual precursor of schizophrenia), relying on the course of the illness and its long-term outcome rather than on momentary symptoms alone. This descriptive method, based on systematic clinical observation, became the model on which the later official classification systems were built.
 
 The American Psychiatric Association published its first Diagnostic and Statistical Manual (DSM-I) in 1952, influenced by psychoanalysis and by the concept of "reaction" formulated by Adolf Meyer. DSM-II followed in 1968. The decisive shift came with DSM-III in 1980 under the leadership of Robert Spitzer, which replaced the psychoanalytic framework with specific descriptive diagnostic criteria (checklist criteria), free as far as possible of causal assumptions, in an effort to raise diagnostic reliability among clinicians. DSM-III-R (1987), DSM-IV (1994, with Allen Frances chairing the task force) and DSM-IV-TR (2000) followed, then DSM-5 in 2013, and its revised version DSM-5-TR in 2022. DSM-5-TR introduced limited textual and criterial updates without a major structural change in most categories, along with a new diagnosis: Prolonged Grief Disorder.
 

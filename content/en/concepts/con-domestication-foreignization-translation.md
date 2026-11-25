@@ -26,23 +26,24 @@ Venuti argued that Anglo-American publishing culture has historically strongly f
 
 ## Relationship to Earlier Dichotomies
 
-This dichotomy intersects with Eugene Nida's distinction between "formal equivalence" and "dynamic equivalence" (dynamic equivalence being closer to domestication), and with Antoine Berman's "test of the foreign" (which is philosophically closer to the foreignizing position, though against a hermeneutic German background rather than a post-structuralist one).
+The pair is often set beside Eugene Nida's formal equivalence and dynamic equivalence (*Toward a Science of Translating*, 1964). Dynamic equivalence seeks a similar response in the receptor, which overlaps with domestication, but Nida's criterion is communicative effect, not Venuti's account of fluency and cultural dominance. Antoine Berman's *L'épreuve de l'étranger* (1984) analyzes tendencies that deform the foreignness of the source and is closer to a foreignizing ethic, from a hermeneutic tradition rather than from Venuti's later historical argument.
 
 ## The Origin of the Distinction in Schleiermacher
 
-In his famous lecture "On the Different Methods of Translating" (1813), Friedrich Schleiermacher (delivered in 1813, published in 1838) distinguished between two paths open to the translator: either leave the writer in peace as much as possible and move the reader toward him (roughly what would later be called foreignization), or leave the reader in peace and move the writer toward him (domestication). Schleiermacher held that mixing the two methods within a single translation produces a failed hybrid text, and he himself preferred the first method as more enriching for the target language and its culture.
+In the lecture "On the Different Methods of Translating," delivered in 1813 and published in his collected works in 1838, Friedrich Schleiermacher described two paths. Either the translator leaves the writer in place, as far as possible, and moves the reader toward the writer, or the translator leaves the reader in place and moves the writer toward the reader. Venuti later aligned the first path with foreignization and the second with domestication. Schleiermacher argued against combining the two methods in one translation, and he preferred moving the reader toward the writer.
 
 ## Applied Examples
 
-Domestication is evident in a translation that replaces foreign food names or proverbs with familiar local equivalents for the reader (such as translating an English proverb with a synonymous Arabic proverb). Foreignization is evident in retaining the foreign name or the strange sentence structure with an explanatory note, even if this initially confuses the reader. Venuti holds that serious literary translation should prefer the second option, in order to preserve the "trace of the foreign" and not domesticate it completely.
+Domestication is evident in a translation that replaces foreign food names or proverbs with familiar local equivalents for the reader (such as translating an English proverb with a synonymous Arabic proverb). Foreignization is evident in retaining the foreign name or the strange sentence structure with an explanatory note, even if this initially confuses the reader. In *The Translator's Invisibility* Venuti argues for foreignizing choices in literary translation into English, as a way of keeping the source text's difference visible.
 
 ## Critique of the Dichotomy
 
-The rigidity of this dichotomy has been criticized as an oversimplification. Critics (such as Maria Tymoczko) argue that every actual translation mixes the two strategies to varying degrees depending on the text, the context and the target audience, and that complete domestication or complete foreignization is rarely achieved in practice in a single text.
+The dichotomy is a pole, not a description of most whole texts. A translation can domesticate some names, customs, or idioms and foreignize syntax or culturally specific terms in the same work. Maria Tymoczko (2000) criticized Venuti's account of translation as political engagement; that article does not itself demonstrate that the two strategies never co-occur. Later discussion has treated a pure choice of one strategy for an entire text as rare.
 
 ## Sources
 
 - Venuti, Lawrence (1995). *The Translator's Invisibility: A History of Translation*. Routledge.
+- Nida, Eugene A. (1964). *Toward a Science of Translating*. Brill.
 - Schleiermacher, Friedrich (1813/2004). "On the Different Methods of Translating." In Venuti, L. (ed.), *The Translation Studies Reader*. Routledge.
 - Tymoczko, Maria (2000). "Translation and Political Engagement." *The Translator* 6(1), 23-47.
 - Berman, Antoine (1984). *L'épreuve de l'étranger*. Gallimard.

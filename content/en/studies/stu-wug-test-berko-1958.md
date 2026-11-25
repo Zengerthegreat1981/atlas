@@ -23,34 +23,26 @@ gaps: []
 
 # The Wug Test
 
-A highly influential experimental study conducted by Jean Berko (1958). In it she designed invented words and creatures that do not exist in the language (such as "wug") to test children's ability to generalize the rules of English morphology (such as the plural and past tense) to entirely new words they had never heard before.
+Jean Berko's 1958 experiment, "The Child's Learning of English Morphology" (*Word*), asked whether English-speaking children can apply morphological patterns to words they have never heard. The nonce creature "wug" gave the study its usual name.
 
 ## Method
 
-Pre-school and first-grade children (roughly four to seven years old) were shown pictures of imaginary creatures with invented names, and they were asked to complete sentences that required applying particular morphological rules (such as the plural, the past tense of a verb, or the possessive) to these new words.
+Preschool and first-grade children, about four to seven years old, saw pictures of unfamiliar creatures, actions, and objects. The experimenter supplied a frame: "This is a wug. Now there is another one. There are two of them. There are two ___." Parallel items elicited the past tense, the possessive, comparatives and superlatives, and agentive *-er*. Because the stems were invented, a correct form could not have been memorized as a whole word.
 
-## The decisive result
+## What the children produced
 
-The children demonstrated a systematic ability to apply the correct morphological rules to invented words they had not heard before (producing "wugs" as the plural of "wug"). This shows that they had extracted an abstract morphological rule that could be generalized from their exposure to the language, rather than memorizing each form word by word from the speech they heard.
+Children commonly answered "wugs." They also added regular past-tense forms to nonce verbs such as "rick" ("ricked"). Performance was better on the plural and past allomorphs /s/ and /z/, and on /t/ and /d/, than on the syllabic forms /ɪz/ and /ɪd/, which are less frequent in the language. Berko concluded that children had a productive system sensitive to the final sound of the stem, and that this system was still incomplete in the early school years. The result argues against an account in which every inflected form is stored separately and never built. It does not, by itself, decide whether the system is a symbolic rule or a graded generalization over known words. Later connectionist and exemplar models have been built precisely to produce wug-like behavior from stored items.
 
-## Components of the test
+## What the test contained
 
-The test material covered several morphological elements beyond the simple noun plural: the past tense of regular verbs (inventing a verb such as "to rick" to test the production of "ricked"), the possessive, the comparative and superlative of adjectives, and even derivational composition (such as adding a suffix to form an agent noun from an invented verb). The children's ability to choose the appropriate morphological suffix phonologically was also tested (for example, adding /s/, /z/ or /ɪz/ to form the plural according to the final sound of the word). This showed a fine phonological sensitivity in children that goes beyond simple memorization, although children were less successful with the less common /ɪz/ forms than with /s/ and /z/.
+Noun plurals were only one block. The materials also varied the phonology of the stem so that the three English plural (and past) endings could be scored separately, and they included compounds and derivational items on which children were less consistent than on the regular plural. Errors were orderly: children rarely attached an ending that English phonology disallows in that position. Adults tested with the same items were near ceiling on the regular patterns, which located the children's gaps in learning rather than in the test.
 
-## Methodological and theoretical importance
+## Later use
 
-This study provided early and strong experimental evidence supporting rule-based hypotheses in language acquisition (rather than pure memorization). It became a widely used methodology for studying the acquisition of morphology in children and has inspired nonword-based assessments in clinical research.
-
-## The methodological legacy: derived wug tests
-
-The methodology of the "invented word" became a standard tool, from which similar tests were repeated and derived across dozens of languages to study morphological acquisition in comparison between languages of different structure (such as morphologically rich languages like Finnish and Turkish, compared with English). Variants of the task have also been used in research on children with language impairment, in which difficulty in applying morphological rules to invented words has been reported; such tasks are research and assessment aids, not diagnoses in themselves.
-
-## Jean Berko Gleason and her later career
-
-Jean Berko (who was later known as Jean Berko Gleason after her marriage) carried out this study as part of her doctoral work at Harvard University, where Roger Brown was an influential mentor. She continued afterward in a broad research career in language acquisition and developmental psycholinguistics at Boston University. However, the wug test in particular remained her most famous contribution and the most cited in the history of the field, for its elegant methodological simplicity and the strength of the evidence it provided in favor of the rule-based explanation of language acquisition.
+Nonce-word elicitation became a standard method in morphological acquisition, in English and in other languages, including languages whose inflection is richer than English. Clinical research has used wug-style tasks with children who have developmental language disorder; difficulty with nonce inflection is one research marker among others, not a diagnosis. Jean Berko Gleason carried out the study as doctoral work at Harvard in the research setting associated with Roger Brown, and later taught at Boston University. The 1958 paper remains the citation for the original pictures, items, and age comparisons.
 
 ## Sources
 
-- Berko, Jean (1958). "The Child's Learning of English Morphology." *Word* 14(2-3).
-- Berko Gleason, Jean; Bernstein Ratner, Nan (eds.) (2012). *The Development of Language* (8th ed.). Pearson.
+- Berko, Jean (1958). "The Child's Learning of English Morphology." *Word* 14.
+- Berko Gleason, Jean; Bernstein Ratner, Nan (eds.) (2013). *The Development of Language* (8th ed.). Pearson.
 - Clark, Eve V. (2009). *First Language Acquisition* (2nd ed.). Cambridge University Press.

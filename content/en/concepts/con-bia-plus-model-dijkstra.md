@@ -29,7 +29,7 @@ Like the BIA model, BIA+ represents word recognition through a network of interc
 
 ## The Addition to the Original Model: The Decision System
 
-The essential difference between BIA and BIA+ is the separation of the recognition system from the decision (task) system. In the original BIA, the linguistic context directly affected recognition itself. BIA+, by contrast, assumes that lexical recognition is an automatic process not susceptible to influence by context or task, while the influence of context and task falls on a separate, later system that decides the response. This explains why non-selective activation remains present even when the participant already knows the language of the target word.
+The essential difference between BIA and BIA+ is the separation of the word-identification system from the task/decision system. In the 2002 model, language nodes no longer inhibit words of the non-target language from the top down, as they could in BIA. Non-linguistic context, such as the task instruction or the composition of the stimulus list, is assigned to the decision system. Linguistic context, such as a sentence, may affect identification through semantic and syntactic pre-activation, but it does not by itself switch off the non-target language. The model thereby expects non-selective activation even when the participant knows which language the target word belongs to.
 
 ## Experimental Evidence
 
@@ -37,11 +37,12 @@ The model is based on the results of lexical decision tasks and eye-movement tra
 
 ## Impact and Extensions
 
-BIA+ has become one of the most influential models in the psychology of language for bilingualism. It later prompted more dynamic computational extensions, such as the Multilink model (Dijkstra et al., 2019), and it provided a theoretical background for research on code-switching and code-mixing, since it explains the continuous readiness of the lexical system for both languages during speaking and comprehension.
+BIA+ has become a standard reference model in the psycholinguistics of bilingual visual word recognition. It later prompted more dynamic computational extensions, such as the Multilink model (Dijkstra et al., 2019), and it provided a theoretical background for research on code-switching and code-mixing, since it explains the continuous readiness of the lexical system for both languages during speaking and comprehension.
 
 ## Sources
 
 - Dijkstra, T., & van Heuven, W. J. B. (2002). "The architecture of the bilingual word recognition system: From identification to decision." *Bilingualism: Language and Cognition*, 5(3), 175-197.
 - Dijkstra, T., & van Heuven, W. J. B. (1998). "The BIA model and bilingual word recognition." In J. Grainger & A. M. Jacobs (Eds.), *Localist Connectionist Approaches to Human Cognition*. Erlbaum.
+- Van Heuven, W. J. B., Dijkstra, T., & Grainger, J. (1998). "Orthographic neighborhood effects in bilingual word recognition." *Journal of Memory and Language*, 39(3), 458-483.
 - Dijkstra, T., et al. (2019). "Multilink: A computational model for bilingual word recognition and word translation." *Bilingualism: Language and Cognition*, 22(4), 657-679.
 - Kroll, J. F., & Tokowicz, N. (2005). "Models of bilingual representation." In J. F. Kroll & A. M. B. de Groot (Eds.), *Handbook of Bilingualism: Psycholinguistic Approaches*. Oxford University Press.

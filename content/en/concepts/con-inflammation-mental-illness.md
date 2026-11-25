@@ -9,7 +9,7 @@ en: "Inflammation and Mental Illness"
 crumb: "Psychiatry ← Concepts ← Inflammation and Mental Illness"
 active_start: 1990
 active_end: "مستمر"
-language: "Arabic"
+language: "English"
 edges:
 - rel: "belongs_to", target: "Biological Neuroscience", target_type: "مدرسة"
 related:

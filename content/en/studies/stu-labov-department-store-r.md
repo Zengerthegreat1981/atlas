@@ -25,31 +25,31 @@ gaps: []
 
 # Labov's Department Store Study
 
-A field study conducted by William Labov (fieldwork in 1962, published in 1966) in three New York City department stores of differing social standing (the upscale Saks, the mid-range Macy's and the cheaper Klein's). It tested the hypothesis that the pronunciation of /r/ at the end of a syllable (postvocalic /r/, as in "fourth floor") correlates with social class.
+A rapid anonymous survey by William Labov (fieldwork 1962, published in *The Social Stratification of English in New York City*, 1966) in three Manhattan department stores: Saks Fifth Avenue, Macy's, and S. Klein. The hypothesis was that postvocalic /r/, as in "fourth floor," would pattern with the social range of the store.
 
 ## Method
 
-Posing as customers, the researchers prompted store employees to say "fourth floor" by asking where a department was located, a department they knew to be on the fourth floor. They then asked the staff to repeat the answer with emphasis in order to elicit a more conscious pronunciation, and recorded whether /r/ was present or absent each time. The sample consisted of store employees rather than customers, a deliberate simplification that held the setting constant.
+Interviewers posing as customers asked employees for a department they knew to be on the fourth floor, then said "Excuse me?" to elicit a more careful repetition. Each token of "fourth" and "floor" was scored for presence or absence of constricted /r/. The 264 speakers were employees. The store, the floor within the store, and casual versus careful style were the comparisons Labov reported.
 
 ## Findings
 
-A regular pattern emerged. The pronunciation of /r/ (the socially prestigious form in New York at that time) was most frequent among Saks employees (the highest status store), followed by Macy's, and then Klein's (the lowest). The use of /r/ also tended to be higher in the emphatic repetition than in the first spontaneous pronunciation, which is evidence of an implicit social awareness of this sound's prestige.
+Pronounced /r/, which Labov treated as the incoming prestige form in New York at the time, was most frequent at Saks, intermediate at Macy's, and least frequent at S. Klein. It was also more frequent in the careful repetition than in the first answer, and more frequent among employees on higher floors in Saks. Labov read the style difference as evidence that speakers oriented to a shared norm even when their casual speech did not meet it.
 
 ## Background to the Hypothesis: The History of /r/ in New York
 
-Postvocalic /r/ was not always socially prestigious in New York. Until the mid-twentieth century, the omission of this sound (as in non-rhotic British English) was the prestigious pattern associated with the upper classes, shaped by the model of elite British pronunciation. After World War II, however, social evaluation gradually reversed: pronouncing /r/ (associated with general, non-regional American pronunciation) became the new prestigious form, while omitting it became a marker of humble class origin or a narrow local identity. Labov designed his study to test this reversal in the social value of the variable in a precise quantitative way.
+Labov's broader New York study argued that r-lessness, long associated with an older prestige pattern influenced by British models, was losing that status after the Second World War, while constricted /r/, associated with a general American norm, was gaining it. The department-store survey was a quick test of that social distribution, later set beside longer sociolinguistic interviews in the 1966 book.
 
 ## Using Stores as an Alternative Independent Variable
 
-Labov devised an elegant methodological solution to the problem of reaching a sample representative of different social classes without individually questioning hundreds of people about their income or education. He assumed that store employees reflect, by the nature of their work and its requirements, a social stratum close to that of the store's customers and to the store's perceived status in the city's collective imagination. Saks was assumed to target upper-class customers, Macy's the middle class, and Klein's the working class. He therefore used the store itself as a relatively reliable indirect indicator (proxy) of social class, yielding a large sample of 264 respondents at relatively limited cost and effort.
+Labov used the store as a proxy for social stratification so that he would not have to ask strangers for income or schooling. Saks stood in for the upper range of the market, Macy's for a middle range, and S. Klein for a lower-priced range. Employees are not a random sample of customers, and job, age, and ethnicity also varied. The design's claim is narrower: in one speech act, held roughly constant, /r/ still differentiated the three workplaces. The count of 264 is the employee sample reported for the survey.
 
 ## Design Precision: Casual versus Emphatic Speech
 
-One of the most ingenious elements of the experimental design was asking the respondent to repeat the phrase with emphasis ("Excuse me?"). This produced speech that was more conscious and self-monitored, as the respondent faced greater pressure to attend to their public linguistic image. The results showed that the rate of /r/ pronunciation generally rose in emphatic, monitored speech compared with the first casual pronunciation. Labov interpreted this as evidence that speakers share a shared social norm about which sound is "more correct" or more refined, even among those who do not produce it in their own unmonitored casual speech.
+The repeated "Excuse me?" moved the same speaker from a first, relatively casual answer to a more monitored one. The rise in /r/ on the repetition is the study's style result. In Labov's terms, casual speech and careful speech are different styles along a dimension of attention, and the careful style is where the prestige variant is expected to increase if speakers share an overt norm.
 
 ## Impact
 
-It is among the first studies to demonstrate empirically that phonetic linguistic change is regularly tied to social structure in a quantitatively measurable way, rather than being random or purely individual. It provided a methodological foundation for the variationist branch of sociolinguistics. Its design (rapid, covert elicitation of samples of natural speech without the subject's full awareness of being studied) became a reference model for dozens of later studies around the world, despite the ethical debate it later raised about the limits of informed consent in this kind of covert field research.
+The survey is a founding example of quantitative variationist method: a phonetic variable counted across speakers and styles and aligned with a social scale. Later work has repeated rapid anonymous surveys in other cities. The method is covert, in that employees were not told they were being studied, and it is now also discussed as a problem of consent. Labov republished the New York study, with new commentary, in a second edition (Cambridge University Press, 2006).
 
 ## Sources
 

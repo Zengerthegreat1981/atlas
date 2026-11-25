@@ -43,15 +43,15 @@ Paul Rosenstein-Rodan's "big push" argument and Ragnar Nurkse's analysis of vici
 
 ## From Comprehensive Planning to Partial Experimentation
 
-By the 1980s, the prescriptions of central planning and directed industrialisation had lost credibility, as many import-substitution programmes faltered and external debt mounted in Latin America and Africa. This opened the way for a market-oriented critique (earlier voiced by Peter Bauer, Deepak Lal and Anne Krueger, and later by William Easterly) that accused foreign aid and central planning of entrenching rent-seeking and dependence rather than solving the problem of development, and that called for more modest, market-based solutions. Abhijit Banerjee and Esther Duflo developed a markedly different methodology in response. Instead of the broad theoretical debate over "what causes development," they tested specific, partial policies (incentives for immunisation, school attendance and similar partial interventions) using randomised controlled trials borrowed from clinical medicine. They received the Nobel Prize in Economics in 2019 for this work.
+By the 1980s, the prescriptions of central planning and directed industrialisation had lost credibility, as many import-substitution programmes faltered and external debt mounted in Latin America and Africa. This opened the way for a market-oriented critique (earlier voiced by Peter Bauer, Deepak Lal and Anne Krueger, and later by William Easterly) that accused foreign aid and central planning of entrenching rent-seeking and dependence rather than solving the problem of development, and that called for more modest, market-based solutions. Abhijit Banerjee and Esther Duflo developed a markedly different methodology in response, in a line of field experiments also associated with Michael Kremer. Instead of the broad theoretical debate over "what causes development," they tested specific, partial policies (incentives for immunisation, school attendance and similar partial interventions) using randomised controlled trials borrowed from clinical medicine. Banerjee, Duflo and Kremer received the Nobel Prize in Economics in 2019 for the experimental approach to alleviating global poverty.
 
 ## Amartya Sen and the Broadening of the Meaning of Development
 
-Amartya Sen's work marked a profound conceptual shift within the field. Instead of measuring development by growth in gross domestic product alone, Sen proposed understanding development as the expansion of the real freedoms people enjoy to live the life they have reason to value. This "capability approach," which he later developed with Martha Nussbaum, influenced the design of the United Nations Human Development Index, developed from 1990 under Mahbub ul Haq.
+Amartya Sen's work marked a profound conceptual shift within the field. Instead of measuring development by growth in gross domestic product alone, Sen proposed understanding development as the expansion of the real freedoms people enjoy to live the life they have reason to value. This capability approach influenced the design of the United Nations Human Development Index, developed from 1990 under Mahbub ul Haq, with Sen among the early collaborators. Martha Nussbaum later set out a related but distinct list of central capabilities; it is not a joint theory with Sen's.
 
 ## Arab Applications and Debates
 
-The United Nations Development Programme, in its series of Arab Human Development Reports (beginning in 2002), drew on frameworks close to Sen's approach. It focused on three "gaps" in the Arab region (freedom, the empowerment of women and knowledge) as structural obstacles to development that go beyond a mere shortage of physical capital.
+The United Nations Development Programme, in its series of Arab Human Development Reports (beginning in 2002), drew on frameworks close to Sen's approach. The 2002 report focused on three "deficits" in the Arab region (freedom, the empowerment of women and knowledge) as obstacles to development that go beyond a shortage of physical capital. Later reports in the series shifted topic, and the deficit framing was debated by regional specialists.
 
 ## The Aid Effectiveness Debate
 
@@ -72,3 +72,4 @@ The field faced two distinct critiques. The first came from within the Latin Ame
 - Sen, Amartya. *Development as Freedom*. Oxford University Press, 1999.
 - Lewis, W. Arthur. "Economic Development with Unlimited Supplies of Labour." *The Manchester School*, vol. 22, no. 2, 1954, pp. 139–191.
 - United Nations Development Programme. *Arab Human Development Report 2002: Creating Opportunities for Future Generations*. UNDP, 2002.
+- Nussbaum, Martha C. *Creating Capabilities: The Human Development Approach*. Harvard University Press, 2011.

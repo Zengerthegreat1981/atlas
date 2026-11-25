@@ -41,7 +41,7 @@ In an article published in 1966 in the *Quarterly Journal of Economics*, Paul Sa
 
 ## A Lasting Impact and an Inconclusive Outcome
 
-The debate effectively ended without a complete academic resolution satisfying both sides. British economists regarded it as a decisive logical victory undermining the legitimacy of neoclassical distribution theory. Most of the mainstream academic economy continued to use simplified neoclassical growth and distribution models in practice, treating the mathematical problem as a rare special case with little empirical occurrence that did not require abandoning the general framework. Today the debate is a key reference in teaching the history of economic thought, and it is cited as an example of how a purely technical mathematical disagreement can carry deep ideological and political implications.
+The debate effectively ended without a complete academic resolution satisfying both sides. British economists regarded it as a decisive logical victory undermining the legitimacy of neoclassical distribution theory. Most of mainstream academic economics continued to use simplified neoclassical growth and distribution models in practice, treating the mathematical problem as a rare special case with little empirical occurrence that did not require abandoning the general framework. Today the debate is a key reference in teaching the history of economic thought, and it is cited as an example of how a purely technical mathematical disagreement can carry deep ideological and political implications.
 
 ## Ideological Dimensions Behind the Technical Mathematics
 

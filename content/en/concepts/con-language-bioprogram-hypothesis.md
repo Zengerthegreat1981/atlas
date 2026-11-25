@@ -24,7 +24,7 @@ A hypothesis formulated by Derek Bickerton (1981, 1984) to explain a striking ph
 
 ## The Proposed Mechanism
 
-Bickerton assumes that children who acquire a pidgin (a linguistic system poor in grammatical input) as a first language do not merely transmit it as it is. Instead they "fill in" its grammatical gaps automatically with a hypothetical innate grammatical program (a *bioprogram*) that is biologically shared by all humans. According to him, this explains the cross-linguistic grammatical resemblance among creole languages despite the radically different source languages.
+Bickerton argued that children who grow up with a pidgin as their main linguistic input do not simply reproduce that pidgin. They expand it, he claimed, by an innate *bioprogram*. In *Roots of Language* (1981) and the 1984 *Behavioral and Brain Sciences* target article, the features he treated as diagnostic were especially the preverbal markers of tense, mood, and aspect: an anterior tense, an irrealis mood, and a nonpunctual aspect, in that order before the verb. He took the recurrence of this pattern in creoles with different lexifiers as the reason to prefer a bioprogram over transfer from the source languages. The claim is about a specific set of features, not about creoles being identical in every part of the grammar.
 
 ## The Main Criticism
 

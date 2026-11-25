@@ -54,7 +54,9 @@ Individual prediction is weak. Most inhibited children do not develop pathologic
 
 ## Sources
 
+- Thomas, A., Chess, S., Birch, H. G., Hertzig, M. E., & Korn, S. (1963). Behavioral Individuality in Early Childhood. New York: New York University Press.
 - Thomas, A., & Chess, S. (1977). Temperament and Development. New York: Brunner/Mazel.
+- Caspi, A., & Silva, P. A. (1995). Temperamental qualities at age three predict personality traits in young adulthood: Longitudinal evidence from a birth cohort. Child Development, 66(2), 486–498.
 - Kagan, J., Reznick, J. S., & Snidman, N. (1988). Biological bases of childhood shyness. Science, 240(4849), 167–171.
 - Hirshfeld, D. R., et al. (1992). Stable behavioral inhibition and its association with anxiety disorder. Journal of the American Academy of Child and Adolescent Psychiatry, 31(1), 103–111.
 - Caspi, A., Moffitt, T. E., Newman, D. L., & Silva, P. A. (1996). Behavioral observations at age 3 years predict adult psychiatric disorders. Archives of General Psychiatry, 53(11), 1033–1039.

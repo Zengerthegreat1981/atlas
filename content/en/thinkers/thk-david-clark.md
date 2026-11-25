@@ -16,17 +16,16 @@ edges:
 - rel: "belongs_to", target: "Anxiety and Obsessive-Compulsive Spectrum Disorders", target_type: "مدرسة"
 related:
 - id: "sch-anxiety-ocd-disorders", title: "Anxiety and Obsessive-Compulsive Spectrum Disorders", type: "مدرسة"
-gaps:
-  - "Birth date and early education: not yet covered"
+gaps: []
 ---
 
 # David M. Clark
 
-A British psychologist and Professor of Experimental Psychology at the University of Oxford, and one of the world's leading researchers on cognitive behavioral therapy for anxiety disorders. He is known as the principal developer of influential cognitive treatment models for panic attacks, social phobia, posttraumatic stress disorder, and health anxiety (illness anxiety).
+A British clinical psychologist (born 20 August 1954 in Darlington) and emeritus professor of experimental psychology at the University of Oxford. He developed cognitive treatment models for panic attacks, social phobia, posttraumatic stress disorder, and health anxiety that have been widely tested and adopted in clinical guidelines.
 
 ## Career
 
-Clark began his research at Oxford in the 1980s as part of a group that included Paul Salkovskis and Michael Gelder. He later held a chair at the Institute of Psychiatry (King's College London) before returning to Oxford. He served as the national clinical adviser for psychological therapies at the UK Department of Health and was among the architects of the **Improving Access to Psychological Therapies (IAPT)** program, a national British initiative launched in 2008 to provide evidence-based psychological treatments through the National Health Service (NHS). Together with the economist Richard Layard, he set out the economic case for the program, presented in the 2014 book *Thrive*.
+Clark studied experimental psychology at Oxford (M.A., Lincoln College) and trained in clinical psychology at the Institute of Psychiatry in London (M.Phil., 1979), then completed a D.Phil. at Oxford in 1983. He began as a university lecturer in the Oxford department of psychiatry, in a group that included Michael Gelder, Paul Salkovskis, and, later, Anke Ehlers, at a time when Aaron T. Beck was a regular visitor. In 2000 he became professor of psychology at the Institute of Psychiatry, King's College London, and with Ehlers and Salkovskis founded the Centre for Anxiety Disorders and Trauma at the Maudsley Hospital. He returned to a chair at Oxford in 2011. From the start of the **Improving Access to Psychological Therapies (IAPT)** programme he has been national clinical adviser to the Department of Health and NHS England. The programme, developed with the economist Richard Layard and launched in England in 2008, trains therapists to deliver evidence-based psychological treatments in the National Health Service and publishes session-by-session outcomes. Layard and Clark set out the case in *Thrive* (2014).
 
 ## Contributions
 
@@ -44,7 +43,7 @@ With Anke Ehlers, Clark proposed in 2000 the cognitive model of posttraumatic st
 
 ### Brief Cognitive Therapy and the IAPT Program
 
-Clark contributed to developing brief and effective versions of cognitive therapy for panic attacks and social anxiety, and led the scientific and policy effort to widen national access to cognitive behavioral therapies, which influenced similar models in other countries. In 2011 he published an account of implementing National Institute for Health and Care Excellence (NICE) guidelines in the IAPT program.
+Clark contributed to developing brief and effective versions of cognitive therapy for panic attacks and social anxiety, and led the scientific and policy effort to widen national access to cognitive behavioral therapies, which influenced similar models in other countries. In 2011 he published an account of implementing National Institute for Health and Clinical Excellence (NICE) guidelines in the IAPT programme. The institute was later renamed the National Institute for Health and Care Excellence.
 
 ## Honors
 

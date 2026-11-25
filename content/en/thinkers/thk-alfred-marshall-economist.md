@@ -23,7 +23,7 @@ gaps: []
 ---
 # Alfred Marshall
 
-**Alfred Marshall** was a British economist who is regarded as the effective founder of neoclassical economics in its conciliatory British form, and the author of *Principles of Economics* (1890), which remained the standard textbook for teaching economics in English-speaking universities for more than forty years.
+**Alfred Marshall** was a British economist who consolidated neoclassical economics in its Cambridge form. His *Principles of Economics* (1890) was the standard English-language textbook for a generation, through a final edition in 1920 and into the interwar years.
 
 ## From Mathematics to Applied Economics
 

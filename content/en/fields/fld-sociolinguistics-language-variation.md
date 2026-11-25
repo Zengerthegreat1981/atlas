@@ -50,7 +50,7 @@ Why do people speak differently, and what do those differences signal? How do ne
 
 **Where is the boundary between languages and dialects?** The old saying that a language is a dialect with an army and a navy, popularised by Max Weinreich, points to the role of politics. Mutual intelligibility is gradient and does not settle the matter, and linguists distinguish languages and varieties on mixed grounds.
 
-**Deficit or difference.** In the 1960s Basil Bernstein's contrast of elaborated and restricted codes was criticised by Labov, whose "The Logic of Nonstandard English" (1969) argued that nonstandard varieties are as logical and complex as standard ones. The deficit view has been widely rejected in linguistics, though debates continue over education and standard varieties.
+**Deficit or difference.** In the 1960s Basil Bernstein's contrast of elaborated and restricted codes was criticised by Labov. "The Logic of Nonstandard English" (1969; reprinted in *Language in the Inner City*, 1972) argued that nonstandard varieties are as rule-governed and expressive as standard ones. The deficit view has little support in linguistics, though debates continue over schooling in standard varieties.
 
 **Creole exceptionalism.** Some claim that creoles are structurally simple or unusual, as John McWhorter argues, while others, such as Michel DeGraff, reject that view as unsupported.
 
@@ -71,6 +71,7 @@ Variation is not error, and nonstandard speech is not lazy speech. Correlations 
 ## Sources
 
 - William Labov, *The Social Stratification of English in New York City* (1966).
+- William Labov, *Language in the Inner City: Studies in the Black English Vernacular* (1972).
 - Peter Trudgill, *Sociolinguistics: An Introduction to Language and Society* (1974; later editions).
 - Ronald Wardhaugh, *An Introduction to Sociolinguistics* (1986; later editions).
 - Penelope Eckert and John Rickford (eds.), *Style and Sociolinguistic Variation* (2001).

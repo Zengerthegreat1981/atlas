@@ -38,15 +38,15 @@ Priscian composed his work at the beginning of the 6th century CE in Constantino
 
 ## Method of citing literary texts
 
-Priscian followed a careful citation method, drawing thousands of illustrative examples from the works of the great classical Latin writers, above all Vergil, Cicero, Terence and Horace. This makes his work also a rich textual source that preserved fragments of Latin literary works that are lost or survive only incompletely in other sources. This intensive citation method distinguished it from simpler educational grammatical works contemporary with or earlier than it, and made it at once a grammatical reference and a vast anthology of classical Latin literature.
+Priscian cites a very large number of examples from classical Latin writers, above all Vergil, Cicero, Terence and Horace. The work is therefore also a textual source for passages that are lost or incomplete elsewhere. This density of quotation sets it apart from shorter teaching grammars such as Donatus's, and makes it both a grammar and a large anthology of classical Latin.
 
 ## Long-term impact
 
-This work became the most comprehensive and authoritative Latin grammatical reference throughout the entire European Middle Ages. Medieval grammarians, the Modistae, in the 13th and 14th centuries, used it as a textual basis for building their philosophical interpretations of the structure of language and the theory of "modes of signifying" (*modi significandi*). It continued to be taught and commented on in European universities until the late Middle Ages. Hundreds of medieval manuscripts survive, reflecting the centrality of the work in the European educational curriculum for many centuries.
+This work became the fullest Latin grammatical reference in wide use through the European Middle Ages. The speculative grammarians known as the Modistae, in the thirteenth and fourteenth centuries, took it as a textual basis for their theory of "modes of signifying" (*modi significandi*). It continued to be taught and commented on in European schools and universities into the later Middle Ages. A large number of medieval manuscripts survive.
 
 ## Comparison with the contemporary Arabic grammatical tradition
 
-Comparative scholars note that Priscian's work preceded by roughly two centuries the work of Sībawayh (died c. 180 AH / 796 CE). The two traditions remained independent of each other, though both developed systematic accounts of how words combine in sentences according to regular rules. The conceptual tools differed fundamentally between the two schools: Sībawayh relied on the concept of governor and governed (*ʿāmil* and *maʿmūl*), unlike the Greco-Latin syntactic framework, which was based on the parts of speech and the morphological accidents of the individual word first.
+Comparative scholars note that Priscian's work preceded by nearly three centuries the work of Sībawayh (died c. 180 AH / 796 CE). The two traditions remained independent of each other, though both developed systematic accounts of how words combine in sentences according to regular rules. The conceptual tools differed fundamentally between the two schools: Sībawayh relied on the concept of governor and governed (*ʿāmil* and *maʿmūl*), unlike the Greco-Latin syntactic framework, which was based on the parts of speech and the morphological accidents of the individual word first.
 
 ## Sources
 

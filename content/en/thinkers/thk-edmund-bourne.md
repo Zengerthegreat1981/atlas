@@ -17,16 +17,16 @@ edges:
 related:
 - id: "sch-anxiety-ocd-disorders", title: "Anxiety Disorders and the OCD Spectrum", type: "مدرسة"
 gaps:
-  - "Birth date and academic background: not yet covered"
+  - "Birth date and details of academic training: not yet covered"
 ---
 
 # Edmund Bourne
 
-American psychotherapist and author specializing in the treatment of anxiety disorders. He is known for writing *The Anxiety and Phobia Workbook*, a widely used self-help book for anxiety since its first edition in 1990.
+American psychologist and author specializing in the treatment of anxiety disorders. He holds a Ph.D. and for many years directed the Anxiety Treatment Center in San Jose and Santa Rosa, California. He is known for *The Anxiety and Phobia Workbook*, a self-help book first published in 1990 and still in print in revised editions.
 
 ## Professional Career
 
-Bourne served as director of the Anxiety Treatment Center in San Jose and Santa Rosa, California, where he specialized in treating anxiety disorders and related problems, including panic disorder, agoraphobia, generalized anxiety, obsessive-compulsive disorder, and post-traumatic stress disorder. In the same field he wrote other works on fear and phobias, including *Beyond Anxiety and Phobia* (2001) and *Healing Fear* (1998). He later turned to writing about cultural transformation and consciousness in *The Global Shift* (2008). All of these were published by New Harbinger Publications.
+At the Anxiety Treatment Center he worked with panic disorder, agoraphobia, generalized anxiety, obsessive-compulsive disorder, and post-traumatic stress disorder. Related books include *Healing Fear* (1998) and *Beyond Anxiety and Phobia* (2001), both from New Harbinger Publications, which also published the workbook. In *Global Shift: How a New Worldview Is Transforming Humanity* (2008) he turned to cultural change and consciousness. Later anxiety titles include *Natural Relief for Anxiety* (2004) and *Coping with Anxiety*. A public birth date and a documented account of his university training are not available here.
 
 ## The Scientific Context: How the Book Came About
 
@@ -42,7 +42,7 @@ Unlike many self-help books, Bourne's work combines an explanation of the physio
 
 ## Evidence on the Effectiveness of Self-Help
 
-Research supports the general aspect of this approach without proving the effectiveness of any particular book. Gould and Clum found in a 1993 meta-analysis that book-guided self-help achieves a greater effect than no treatment, and in some anxiety disorders approaches direct treatment. A review by Lewis, Pearce, and Bisson, published in the *British Journal of Psychiatry* in 2012, concluded that self-help interventions based on CBT are effective and less costly, and that their effectiveness increases when they are accompanied by brief support from a specialist.
+Research supports guided self-help as a class of intervention. It does not establish the effect of any one book. Gould and Clum's 1993 meta-analysis found that self-help treatments outperformed no treatment across several problems. A systematic review by Catrin Lewis, Jennifer Pearce, and Jonathan I. Bisson in the *British Journal of Psychiatry* (2012) found that self-help for anxiety disorders beat waiting-list control, especially for social phobia and panic disorder, while therapist-delivered treatment retained an advantage, and that guidance and multimedia or web-based formats improved results.
 
 ## Limits and Criticism
 
@@ -55,4 +55,4 @@ The book relies on self-help, so it does not suit severe cases, cases accompanie
 - Beck, Aaron T., and Gary Emery. *Anxiety Disorders and Phobias: A Cognitive Perspective*. New York: Basic Books, 1985.
 - Marks, Isaac M. *Fears, Phobias, and Rituals: Panic, Anxiety, and Their Disorders*. New York: Oxford University Press, 1987.
 - Gould, Robert A., and George A. Clum. "A Meta-Analysis of Self-Help Treatment Approaches." *Clinical Psychology Review* 13, no. 2 (1993): 169–186.
-- Lewis, Cathryn, Julia Pearce, and Jonathan I. Bisson. "Efficacy, Cost-Effectiveness and Acceptability of Self-Help Interventions for Anxiety Disorders: Systematic Review." *British Journal of Psychiatry* 200, no. 1 (2012): 15–21.
+- Lewis, Catrin, Jennifer Pearce, and Jonathan I. Bisson. "Efficacy, Cost-Effectiveness and Acceptability of Self-Help Interventions for Anxiety Disorders: Systematic Review." *British Journal of Psychiatry* 200, no. 1 (2012): 15–21.

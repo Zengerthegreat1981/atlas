@@ -25,11 +25,11 @@ gaps: []
 ---
 # Joan Robinson
 
-**Joan Violet Robinson** was a British economist from the University of Cambridge, and one of the leading founding figures of the post-Keynesian school. She is one of the most influential economists of the twentieth century, although she never received the Nobel Prize. Her work combined early contributions to the theory of imperfect competition with her later sharp critique of the simplification of Keynes's ideas in the prevailing neoclassical synthesis.
+**Joan Violet Robinson** was a British economist at the University of Cambridge and a leading figure in post-Keynesian economics. She never received the Nobel Memorial Prize. Her work combined an early theory of imperfect competition with a later critique of the way the neoclassical synthesis simplified Keynes.
 
 ## Imperfect competition: an early neoclassical contribution
 
-In her first book, *The Economics of Imperfect Competition* (1933), Robinson presented a new analytical framework for studying markets that are neither fully competitive nor pure monopolies, but combine elements of both — the situation of most real markets. She developed analytical tools (the marginal revenue curve under monopolistic competition) that remain a core part of standard microeconomics today, although this early work stayed within the traditional neoclassical framework that she later criticized sharply.
+In her first book, *The Economics of Imperfect Competition* (1933), Robinson presented a new analytical framework for studying markets that are neither fully competitive nor pure monopolies, but combine elements of both — the situation of most real markets. She developed the marginal-revenue analysis of imperfect competition, tools that remain part of standard microeconomics. This early work stayed inside the neoclassical framework she later criticized. Edward Chamberlin's *Theory of Monopolistic Competition* (1933) treated a related market structure under a different name and model.
 
 ## A close colleague of Keynes
 
@@ -53,7 +53,7 @@ Robinson showed interest in the experiments in economic planning in China and No
 
 ## A founding legacy of post-Keynesian economics
 
-Historians of economic thought regard her as one of the most important actual founders of the post-Keynesian school, because she combined high technical command of neoclassical tools with a radical critique of their basic assumptions. This rare combination made her critique more influential than criticism from outsiders less familiar with the details of the model being criticized.
+Historians of economic thought treat her as a principal architect of post-Keynesian economics, because she combined technical command of neoclassical tools with a critique of their assumptions. That combination gave her criticism a different force from objections made by writers less familiar with the models.
 
 ## No Nobel Prize
 

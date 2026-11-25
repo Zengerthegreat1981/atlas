@@ -40,11 +40,11 @@ The book also discusses the limits of the effectiveness of zakat as an instrumen
 
 ## The debate over the authenticity of the Islamic model
 
-The book faces objections from Islamic economists such as Muhammad Anas Zarqa and Monzer Kahf, who argue that the actual distribution of risk in partnership and profit-sharing contracts (unlike murabaha specifically) differs fundamentally from an interest-based loan, in that the financier bears a real share of the risk of the project's failure. They contend that Kuran's critique, although partly valid as to the predominance of murabaha in actual banking practice, does not invalidate the original theoretical distinction of Islamic finance as formulated in its foundational literature.
+Islamic economists have objected that partnership and profit-sharing contracts, unlike murabaha, assign the financier a share of losses if a project fails, and that this differs from an interest-bearing loan. Writers associated with that reply include Monzer Kahf and Muhammad Anas Zarqa. On this view, Kuran's point about the predominance of murabaha in banking practice does not remove the distinction drawn in the theoretical literature on Islamic finance.
 
 ## Impact
 
-This book is among the most influential and controversial critical works on contemporary Islamic economics. It is widely cited, whether as a critique or as a target of reply, in discussions of the distinctiveness of the Islamic economic model.
+The book is a widely cited critique of contemporary Islamic economics, and a frequent target of replies, in discussions of whether Islamic economic doctrine is distinct from conventional economics.
 
 ## The context of authorship: the rise of political Islam
 

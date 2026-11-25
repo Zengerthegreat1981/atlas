@@ -9,11 +9,11 @@ cultural_origin: "anglo-european"
 title: "William Labov"
 en: "William Labov"
 crumb: "Linguistics ← Thinkers ← William Labov"
-dates: "United States · 1927–2024"
+dates: "United States · b. 1927"
 country: "United States"
 language: "English"
 active_start: 1963
-active_end: 2024
+active_end: مستمر
 edges:
 - rel: "belongs_to", target: "Variationist Sociolinguistics", target_type: "مدرسة"
 related:
@@ -25,11 +25,11 @@ gaps: []
 
 # William Labov
 
-An American linguist (1927–2024), professor at the University of Pennsylvania for most of his academic career, and a founder of variationist sociolinguistics as an independent, systematic quantitative field. His research fundamentally changed how linguistic diversity within a single society is studied.
+An American linguist (born 1927), professor at the University of Pennsylvania for most of his academic career, and the principal architect of variationist sociolinguistics as a quantitative field. His research changed how linguistic diversity within a single speech community is studied.
 
 ## Biography
 
-Labov began his research career with his pioneering study on Martha's Vineyard island (fieldwork 1961, published 1963), conducted as a student of Uriel Weinreich at Columbia University. He observed that year-round residents exaggerated the "centralization" of the pronunciation of certain diphthongs as an identity marker distinguishing themselves from summer tourists. In doing so he demonstrated systematically that phonetic variation within a single speech community carries structured symbolic social meaning rather than being random. He extended this method in his doctoral dissertation (Columbia, 1964), later published as *The Social Stratification of English in New York City* (1966), which included his most famous study: measuring the rate of pronunciation of the /r/ sound after a vowel among employees of three New York department stores of differing social standing. He found a direct statistical relationship between the store's status and the rate of pronouncing this sound, thereby establishing the concept of the **linguistic variable** as the basic measurement tool of the new field.
+Labov began his research career with his pioneering study on Martha's Vineyard island (fieldwork 1961, published 1963), conducted as a student of Uriel Weinreich at Columbia University. He observed that year-round residents exaggerated the "centralization" of the pronunciation of certain diphthongs as an identity marker distinguishing themselves from summer tourists. The study treated phonetic variation inside one speech community as socially patterned rather than random. He extended this method in his doctoral dissertation (Columbia, 1964), later published as *The Social Stratification of English in New York City* (1966), which included his most famous study: measuring the rate of pronunciation of the /r/ sound after a vowel among employees of three New York department stores of differing social standing. He found a direct statistical relationship between the store's status and the rate of pronouncing this sound, thereby establishing the concept of the **linguistic variable** as the basic measurement tool of the new field.
 
 ## His Contributions
 

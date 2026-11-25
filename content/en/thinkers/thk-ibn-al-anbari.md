@@ -26,7 +26,7 @@ gaps: []
 
 # Abu al-Barakat Ibn al-Anbari
 
-An Iraqi grammarian and linguist from the late period of the flourishing of Arabic grammar in Baghdad, known for his book *al-Insaf fi Masa'il al-Khilaf bayn al-Nahwiyyin al-Basriyyin wa al-Kufiyyin* (Justice in the Points of Disagreement between the Basran and Kufan Grammarians). After centuries of debate between the two schools, this book became the classical reference to which the disagreement between the Basran and Kufan schools of Arabic grammar is reduced.
+An Iraqi grammarian of Abbasid Baghdad, known for *al-Inṣāf fī masāʾil al-khilāf bayn al-naḥwiyyīn al-Baṣriyyīn wa-l-Kūfiyyīn*, a digest of disputed questions between the Basran and Kufan grammatical traditions.
 
 ## Biography
 
@@ -44,11 +44,11 @@ By gathering the scattered sayings of both camps from earlier works (such as the
 
 ## Legacy
 
-*Al-Insaf* has long been read in the study of Arabic grammar and is studied as a methodological introduction to understanding the logic of grammatical argument among the Arabs, not merely for memorizing rules. It has been relied upon extensively in Western and modern Arab studies of the history of Arabic grammar and the origins of the Basran and Kufan schools, and today it is the primary source to which researchers refer when discussing any disputed question between the two schools.
+*Al-Inṣāf* is read as a guide to how medieval Arabic grammarians argued, not only as a list of rules. Modern historians of Arabic grammar use it constantly for the Basran–Kufan disputes. For many Kufan positions whose original books are lost, it is a principal surviving report, filtered through Ibn al-Anbari's own arrangement and preferences.
 
 ### The method of grammatical argument
 
-*Al-Insaf* presents each question with a fixed method: Ibn al-Anbari first states the opinion and arguments of the Basrans, then the opinion and arguments of the Kufans, then the objections each side raises against the other, and finally he prefers one of the two opinions or reconciles them. This fixed four-part structure (opinion, argument, objection, preference) made the book a model imitated in the literature of "grammatical dispute" (a distinct literary genre in the Arabic heritage, with parallels in jurisprudence and the principles of religion). Ibn al-Anbari was not the first to write about the disagreement between the two schools, but his book is the most fully developed dialectical treatment of it, presenting both opinions while stating his own preference.
+*Al-Insaf* presents each question with a fixed method: Ibn al-Anbari first states the opinion and arguments of the Basrans, then the opinion and arguments of the Kufans, then the objections each side raises against the other, and finally he prefers one of the two opinions or reconciles them. This fixed four-part structure (opinion, argument, objection, preference) made the book a model imitated in the literature of "grammatical dispute" (a distinct literary genre in the Arabic heritage, with parallels in jurisprudence and the principles of religion). Earlier writers had already discussed disagreements between the two schools. *Al-Inṣāf* sets both opinions out at length and then states a preference.
 
 ## Limitations
 
@@ -65,6 +65,6 @@ The book presents the disagreement in a sharp binary form (Basrans versus Kufans
 
 - Ibn al-Anbari, Abu al-Barakat Abd al-Rahman. *Al-Insaf fi Masa'il al-Khilaf bayn al-Nahwiyyin al-Basriyyin wa al-Kufiyyin*. Edited by Muhammad Muhyi al-Din Abd al-Hamid. Cairo, several editions.
 - Ibn al-Anbari, Abu al-Barakat Abd al-Rahman. *Nuzhat al-Alibba' fi Tabaqat al-Udaba'*. Edited by Ibrahim al-Samarra'i. Zarqa: Maktabat al-Manar, 1985.
-- Versteegh, Kees. *The Arabic Linguistic Tradition*. London: Routledge, 1997.
+- Versteegh, Kees. *Landmarks in Linguistic Thought III: The Arabic Linguistic Tradition*. London: Routledge, 1997.
 - Baalbaki, Ramzi. *The Legacy of the Kitāb: Sībawayhi's Analytical Methods within the Arabic Grammatical Tradition*. Leiden: Brill, 2008.
 - Bernards, Monique. *Changing Traditions: Al-Mubarrad's Refutation of Sībawayh and the Subsequent Reception of the Kitāb*. Leiden: Brill, 1997.

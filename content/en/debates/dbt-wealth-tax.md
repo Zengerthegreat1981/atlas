@@ -9,13 +9,14 @@ en: "The Wealth Tax Debate"
 crumb: "Political Economy ← Debates ← The Wealth Tax Debate"
 economic_school: "Economics of inequality"
 active_start: 2014
-active_end: 2022
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Economics of Inequality", target_type: "مدرسة"
 related:
 - id: "thk-thomas-piketty", title: "Thomas Piketty", type: "مفكر"
 - id: "con-r-greater-than-g-piketty", title: "The r > g Law", type: "مفهوم"
 - id: "dbt-optimal-top-tax-rates", title: "Debate: Optimal Top Tax Rates", type: "جدل"
+gaps: []
 ---
 
 # The Wealth Tax Debate
@@ -28,7 +29,7 @@ Piketty drew on his central observation that the return on capital (r) has histo
 
 ## Criticism of Practical Feasibility: Difficult Valuation and Likely Flight
 
-The proposal faced serious practical objections from economists, including Lawrence Summers and Natasha Sarin. In an influential article in 2019 they argued that valuing illiquid assets every year (such as private companies, art and unique real estate) is very difficult in practice and administratively costly. They pointed out that earlier European experiments with wealth taxes (in France, Sweden, Germany and others) yielded modest revenue and were vulnerable to evasion through emigration or legal restructuring of assets. Most of these countries abandoned them over the past decades; the number of OECD countries levying a net wealth tax fell sharply after 1990. France replaced its general wealth tax (the ISF) in 2017 with a tax on real estate wealth only (the IFI), a reform defended as a response to capital flight and weak yield and criticised as a gift to the wealthy.
+The proposal faced serious practical objections from economists, including Lawrence Summers and Natasha Sarin. In an influential article in 2019 they argued that valuing illiquid assets every year (such as private companies, art and unique real estate) is very difficult in practice and administratively costly. They pointed out that earlier European experiments with wealth taxes (in France, Sweden, Germany and others) yielded modest revenue and were vulnerable to evasion through emigration or legal restructuring of assets. Most of these countries abandoned them over the past decades; the number of OECD countries levying a net wealth tax fell sharply after 1990. France replaced the impôt de solidarité sur la fortune with a tax on real-estate wealth only, the impôt sur la fortune immobilière, announced in 2017 and in force from 2018. The government defended the change as a response to capital flight and a weak yield; critics called it a concession to the wealthy. Germany's wealth tax had been suspended after a 1995 Federal Constitutional Court ruling (the tax was not collected from 1997), and Sweden abolished its wealth tax in 2007. Those are specific legal histories, not a single experiment with one design.
 
 ## The Defence: Evasion Can Be Blocked by Proper Design
 
@@ -36,7 +37,7 @@ Emmanuel Saez and Gabriel Zucman, the principal economic advisers to the Warren 
 
 ## A Practical Alternative: A Tax on Unrealised Gains for Billionaires
 
-Given the general practical difficulties of a comprehensive wealth tax, later political debate moved toward a narrower formula. It targets only a very small top group, billionaires, who are counted in the hundreds rather than the millions, which makes valuation and enforcement relatively easier. The formula proposes an annual tax on the increase in value of their publicly traded assets (such as shares in their companies), even before those assets are actually sold. This addresses a known problem: many technology wealth holders borrow against shares whose value keeps rising, without ever selling them, and so avoid the conventional income tax on realised capital gains indefinitely. A version of this approach appeared in the Biden administration's 2022 budget proposal for a minimum tax on very wealthy households, which counted unrealised gains, and in a related proposal by Senator Ron Wyden; neither was enacted.
+Given the general practical difficulties of a comprehensive wealth tax, later political debate moved toward a narrower formula. It targets only a very small top group, billionaires, who are counted in the hundreds rather than the millions, which makes valuation and enforcement relatively easier. The formula proposes an annual tax on the increase in value of their publicly traded assets (such as shares in their companies), even before those assets are actually sold. This addresses a known problem: many technology wealth holders borrow against shares whose value keeps rising, without ever selling them, and so avoid the conventional income tax on realised capital gains indefinitely. A version of this approach appeared in the Biden administration's budget proposal of March 2022 (fiscal year 2023) for a minimum tax on very wealthy households, which counted unrealised gains, and in a related proposal by Senator Ron Wyden; neither was enacted.
 
 ## The Current Position
 

@@ -15,8 +15,7 @@ edges:
 related:
 - id: "sch-personality-disorders", title: "Personality Disorders", type: "مدرسة"
 - id: "con-dialectical-behavior-therapy", title: "Dialectical Behavior Therapy", type: "مفهوم"
-gaps:
-  - "Prevalence figures: not yet covered"
+gaps: []
 ---
 
 # Borderline Personality Disorder
@@ -28,6 +27,10 @@ A personality disorder classified in **DSM-5-TR** within "Cluster B" (dramatic, 
 DSM-5-TR requires **at least five of nine criteria** for the diagnosis: (1) frantic efforts to avoid real or imagined abandonment; (2) a pattern of unstable and intense relationships alternating between extreme idealization and complete devaluation ("splitting"); (3) marked and persistent identity disturbance in self-image; (4) impulsivity in at least two potentially self-damaging areas (spending, sex, substance use, reckless driving, binge eating); (5) recurrent suicidal behavior or self-harm (threats, gestures, or actual acts); (6) marked affective instability due to intense mood reactivity; (7) chronic feelings of emptiness; (8) intense inappropriate anger or difficulty controlling anger; (9) transient stress-related paranoid ideation or severe dissociative symptoms.
 
 ICD-11 corresponds to this diagnosis through the "borderline pattern" as a specifier that is added to the general diagnosis of "personality disorder" within the dimensional model it adopts, rather than as a separate diagnostic category as in the DSM.
+
+## Prevalence
+
+Community estimates differ with the interview used. Several European studies have reported a prevalence near 1%. A large US household survey, the Wave 2 National Epidemiologic Survey on Alcohol and Related Conditions, reported a lifetime prevalence of DSM-IV borderline personality disorder of 5.9% (Grant et al., 2008), a figure some methodologists regard as high. Rates in psychiatric clinics and inpatient units are substantially higher than in the community. The diagnosis is made more often in women in clinical samples; community surveys show a smaller sex difference. The course is often more favorable than older teaching suggested: longitudinal studies led by Mary Zanarini and by John Gunderson found that many patients no longer meet full criteria after several years, even though functional impairment can persist.
 
 ## Course and Causes
 
@@ -49,3 +52,7 @@ The name itself ("borderline," from Adolph Stern's 1938 description of a "border
 - World Health Organization. *ICD-11*, "Personality Disorder and Related Traits," 6D10–6D11.
 - Linehan, Marsha M. *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. New York: Guilford Press, 1993.
 - Gunderson, John G., and Paul S. Links. *Borderline Personality Disorder: A Clinical Guide*, 2nd ed. Washington, DC: American Psychiatric Publishing, 2008.
+- Grant, Bridget F., et al. "Prevalence, Correlates, Disability, and Comorbidity of DSM-IV Borderline Personality Disorder: Results from the Wave 2 National Epidemiologic Survey on Alcohol and Related Conditions." *Journal of Clinical Psychiatry* 69, no. 4 (2008): 533–545.
+- Stern, Adolph. "Psychoanalytic Investigation of and Therapy in the Border Line Group of Neuroses." *Psychoanalytic Quarterly* 7 (1938): 467–489.
+- Zanarini, Mary C., et al. "The McLean Study of Adult Development (MSAD): Overview and Implications of the First Six Years of Prospective Follow-Up." *Journal of Personality Disorders* 19, no. 5 (2005): 505–523.
+- Gunderson, John G., et al. "Ten-Year Course of Borderline Personality Disorder: Psychopathology and Function from the Collaborative Longitudinal Personality Disorders Study." *Archives of General Psychiatry* 68, no. 8 (2011): 827–837.

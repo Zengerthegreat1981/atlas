@@ -8,7 +8,7 @@ title: "Consumer Surplus"
 en: "Consumer Surplus"
 crumb: "Political Economy ← Concepts ← Consumer Surplus"
 economic_school: "Marshallian neoclassical economics"
-active_start: 1890
+active_start: 1844
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Marshallian Neoclassical Economics", target_type: "مدرسة"
@@ -32,7 +32,7 @@ This concept has become an essential tool in the cost-benefit analysis of govern
 
 ## The Connection to Welfare Economics
 
-Arthur Cecil Pigou, Marshall's direct student, worked in the same Marshallian tradition of welfare analysis in *The Economics of Welfare* (1920), in which the gap between private and social costs and benefits is central. Together these two measures allow the calculation of the full net effect of any policy or intervention on the welfare of both sides of the market, consumers and producers, rather than limiting the calculation to its effect on only one of them.
+Arthur Cecil Pigou, who studied under Marshall, used this Marshallian apparatus in *The Economics of Welfare* (1920). His central question was the gap between private and social net products, including external costs and benefits that market prices omit. Consumer surplus is one way to represent the private side of that comparison. It does not by itself measure the producer's gain or the external effect.
 
 ## Producer Surplus: The Mirror Image
 
@@ -40,7 +40,7 @@ A similar concept on the supply side mirrors consumer surplus: **producer surplu
 
 ## An Approximate Value, Not a Precise Absolute Measure
 
-Consumer surplus remains an approximate monetary measure of utility, not an exact absolute measure of happiness or of complete subjective well-being. It implicitly assumes that the marginal utility of income is roughly constant, so that a unit of money is worth the same at different income levels. This simplifying assumption may not hold precisely for goods that take a large share of income. John Hicks later developed the exact measures of compensating and equivalent variation, and Robert Willig (1976) showed that for goods with small income effects the Marshallian measure is a close approximation. Nonetheless it remains the most widely used practical tool in applied economic analysis of policies in many parts of the world, from evaluating public infrastructure projects to analysing the effects of customs duties on domestic consumers.
+Consumer surplus remains an approximate monetary measure of utility, not an exact absolute measure of happiness or of complete subjective well-being. It implicitly assumes that the marginal utility of income is roughly constant, so that a unit of money is worth the same at different income levels. This simplifying assumption may not hold precisely for goods that take a large share of income. John Hicks later developed the exact measures of compensating and equivalent variation, and Robert Willig (1976) showed that for goods with small income effects the Marshallian measure is a close approximation. It remains a standard practical tool in applied policy analysis, from public works to the effect of a tariff on domestic buyers. A tax that raises price reduces consumer surplus by more than the revenue collected when output falls; the gap, together with the loss of producer surplus, is the usual textbook measure of deadweight loss under the partial-equilibrium assumptions Marshall used.
 
 ## Sources
 

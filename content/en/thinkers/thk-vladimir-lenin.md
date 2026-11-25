@@ -40,7 +40,7 @@ Lenin wrote this pamphlet during the First World War, and he used his theoretica
 
 ## From theory to power: the October Revolution
 
-Lenin's influence went beyond the theoretical field into direct historical change. He led the Bolshevik Party to seize power in Russia in October 1917, founding the first state whose government officially declared its commitment to Marxism. This gave his economic analysis of imperialism enormous political and ideological weight in national liberation and revolutionary movements throughout the twentieth century, particularly in anti-colonial movements in Asia, Africa and Latin America.
+Lenin's influence went beyond the theoretical field into direct historical change. He led the Bolsheviks' seizure of power in Russia in October 1917 (November in the Gregorian calendar). The Soviet government officially committed itself to Marxism, and that political success gave his pamphlet on imperialism wide authority in twentieth-century communist and many anti-colonial movements in Asia, Africa and Latin America.
 
 ## The lasting influence on dependency theory
 
@@ -48,11 +48,11 @@ Lenin's analysis, together with the work of Luxemburg and Hilferding, formed the
 
 ## From exile to leadership of the revolution
 
-Lenin wrote most of his theoretical works, including the pamphlet on imperialism, during long periods of political exile in Switzerland and other places in Europe, fleeing tsarist persecution of his revolutionary activity. During these years he combined intensive economic and philosophical reading, including a deep study of Hegel's dialectic, with the practical political organization of the Bolshevik Party. This explains the dual character of his writings, which combine theoretical analysis with direct political guidance.
+Lenin wrote much of his theoretical work, including the pamphlet on imperialism, during long periods of political exile in Switzerland and other places in Europe, fleeing tsarist persecution of his revolutionary activity. In Swiss exile during the war he read widely in economics and, in 1914–1915, filled notebooks on Hegel. He also directed Bolshevik organisation from abroad. The imperialism pamphlet is a political outline, not a treatise on the scale of Hilferding's *Finance Capital*.
 
 ## Other influential theoretical works
 
-Besides the pamphlet on imperialism, Lenin produced other theoretical works that were influential in the history of socialist thought. The most notable are *What Is to Be Done?* (1902) on the organization of a revolutionary party, and *The State and Revolution* (1917) on the nature of state power after the socialist revolution. These works show that his interest in imperialism and political economy was part of a wider intellectual and political project encompassing revolutionary organization and the state, not an economic interest isolated from his other political ideas.
+Besides the pamphlet on imperialism, Lenin produced other theoretical works that were influential in the history of socialist thought. Among them are *What Is to Be Done?* (1902), on party organisation, and *The State and Revolution* (written 1917), on state power. The *Development of Capitalism in Russia* (1899) is his main empirical study of the Russian economy and is separate from the later imperialism pamphlet. These works show that his interest in imperialism and political economy was part of a wider intellectual and political project encompassing revolutionary organization and the state, not an economic interest isolated from his other political ideas.
 
 ## Later critical assessment of the economic analysis
 
@@ -66,4 +66,5 @@ Lenin's thesis went beyond the Russian context in which it was written to become
 
 - Lenin, V. I. *Imperialism, the Highest Stage of Capitalism: A Popular Outline*. Written 1916; first published Petrograd, 1917.
 - Brewer, Anthony. *Marxist Theories of Imperialism: A Critical Survey*. 2nd ed., Routledge, 1990.
+- Hobson, J. A. *Imperialism: A Study*. James Nisbet, 1902.
 - Service, Robert. *Lenin: A Biography*. Macmillan, 2000.

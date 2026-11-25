@@ -12,7 +12,7 @@ crumb: "Linguistics ← Thinkers ← Ibrahim Anis"
 dates: "Egypt · 1906–1977"
 country: "Egypt"
 language: "Arabic"
-active_start: 1947
+active_start: 1941
 active_end: 1977
 active_source: "lifespan"
 edges:
@@ -29,15 +29,15 @@ An Egyptian linguist and one of the pioneers who introduced modern phonetics int
 
 ## The phonetics of Arabic speech sounds
 
-In his book *al-Aswat al-Lughawiyya* (1947), Ibrahim Anis applied the tools of modern phonetics (the classification of sounds by their places and manners of articulation with physiological precision) to describe the Arabic sound system. He went beyond the traditional phonetic description of the early scholars of recitation (*tajwid*) and grammar, such as Sibawayh and al-Khalil, without neglecting their contributions. Instead, he compared their descriptions with modern phonetic knowledge.
+In *al-Aswat al-Lughawiyya*, Ibrahim Anis applied the tools of modern phonetics (the classification of sounds by place and manner of articulation) to the Arabic sound system. He went beyond the traditional phonetic description of the early scholars of recitation (*tajwid*) and grammar, such as Sibawayh and al-Khalil, without neglecting their contributions. Instead, he compared their descriptions with modern phonetic knowledge.
 
 ## The study of Arabic dialects
 
-Anis also devoted attention to the scientific, descriptive study of contemporary Arabic dialects, in his book *Fi al-Lahajat al-Arabiyya* (1952). He departed from the traditional normative stance that treats dialects as a deviation from Standard Arabic, and instead studied them as linguistic systems in their own right, deserving neutral scientific description. In this book he classified the phonetic and morphological differences among contemporary Arabic dialects (such as the differing pronunciations of *qaf* and *jim* across different Arab regions) in a systematic geographical and linguistic manner. He proposed that these differences are the product of regular natural phonetic development governed by sound laws that can be studied scientifically, just as sound changes in any other language are studied, rather than "linguistic corruption" as was common in the normative attitude prevalent before him.
+Anis also treated contemporary Arabic dialects descriptively in *Fi al-Lahajat al-Arabiyya*. He did not treat dialects only as a deviation from Standard Arabic. He described them as linguistic systems, including phonetic and morphological differences such as the varying pronunciations of *qāf* and *jīm* across regions, and treated many of those differences as historical sound change rather than as simple "corruption."
 
 ## His method: comparing heritage and modernity
 
-Anis had a rare balanced methodological stance among his generation. He did not reject the heritage of the Arab grammarians and early linguists (such as Sibawayh in *al-Kitab* and Ibn Jinni in *Sirr Sina'at al-I'rab*) as an antiquated tradition that modern science had surpassed. Rather, he studied it critically, appreciating the precision of their phonetic observations (such as al-Khalil ibn Ahmad's description of the articulation points of letters), and compared them methodologically with the findings of modern physiological phonetics. In many cases he showed the accuracy of early Arabic observation despite its lack of modern technical tools.
+Anis read the early grammarians critically rather than setting them aside. He compared phonetic observations in Sībawayh's *al-Kitāb* and Ibn Jinnī's *Sirr Ṣināʿat al-Iʿrāb*, including al-Khalīl's account of places of articulation, with the categories of modern articulatory phonetics, and often found the older descriptions precise even without instrumental methods.
 
 ## Disputed questions of Arabic phonetics
 
@@ -53,7 +53,7 @@ Alongside his phonetic and dialectal work, Anis contributed to studies in Arabic
 
 ## Institutional standing
 
-Anis was a member of the Arabic Language Academy in Cairo and held academic posts at Cairo University, where he taught Arabic language and linguistics and helped establish the modern study of phonetics in Arab universities.
+Anis was elected to the Arabic Language Academy in Cairo in 1961. He had studied at Dār al-ʿUlūm, then at the University of London (doctorate 1941), and later taught Arabic linguistics in Cairo, where descriptive phonetics entered the university curriculum.
 
 ## His place among the pioneers of Arabic linguistics of his generation
 
@@ -65,6 +65,7 @@ Anis took part in twentieth-century Arab debates on renewing the study of Arabic
 
 ## Sources
 
-- Anis, Ibrahim (1947). *al-Aswat al-Lughawiyya* (Speech Sounds). Cairo: Anglo-Egyptian Bookshop.
-- Anis, Ibrahim (1952). *Fi al-Lahajat al-Arabiyya* (On Arabic Dialects). Cairo.
-- Anis, Ibrahim (1952). *Musiqa al-Shi'r* (The Music of Poetry). Cairo.
+- Anis, Ibrahim. *al-Aswat al-Lughawiyya* (Speech Sounds). Cairo: Maktabat al-Anglo al-Misriyya (a commonly cited edition is 1961).
+- Anis, Ibrahim. *Fi al-Lahajat al-Arabiyya* (On Arabic Dialects). Cairo: Maktabat al-Anglo al-Misriyya.
+- Anis, Ibrahim (1952). *Musiqa al-Shi'r* (The Music of Poetry). Cairo: Maktabat al-Anglo al-Misriyya.
+- Anis, Ibrahim. *Dalalat al-Alfaz* (The Semantics of Words). Cairo: Maktabat al-Anglo al-Misriyya.

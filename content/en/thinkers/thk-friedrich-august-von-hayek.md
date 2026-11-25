@@ -26,15 +26,15 @@ gaps: []
 ---
 # Friedrich August von Hayek
 
-**Friedrich August von Hayek** was an economist and political philosopher, born in Austria, and one of the most influential thinkers of the twentieth century in liberal political economy. He was awarded the Nobel Prize in Economics in 1974 (jointly with Gunnar Myrdal) for his work on monetary theory and economic fluctuations, and for his pioneering analysis of the interrelation of economic, social and institutional phenomena.
+**Friedrich August von Hayek** was an economist and political philosopher, born in Austria, whose work shaped liberal political economy in the twentieth century. He was awarded the Nobel Memorial Prize in Economic Sciences in 1974, jointly with Gunnar Myrdal, for work on monetary theory and economic fluctuations and for analysis of the interdependence of economic, social and institutional phenomena.
 
 ## From Vienna to London
 
-Hayek was born in Vienna in 1899, where he studied law and economics under Friedrich von Wieser, and joined the intellectual circle around Ludwig von Mises. In 1931 he moved to the London School of Economics at the invitation of Lionel Robbins, where he conducted sharp theoretical debates with John Maynard Keynes on monetary theory and the business cycle. He later moved to the United States (University of Chicago, 1950), then to West Germany (University of Freiburg, 1962) and Salzburg (1969).
+Hayek was born in Vienna in 1899, where he studied law and economics under Friedrich von Wieser, and joined the intellectual circle around Ludwig von Mises. In 1931 he moved to the London School of Economics at the invitation of Lionel Robbins, where he debated monetary theory and the business cycle with John Maynard Keynes. In 1950 he joined the University of Chicago's Committee on Social Thought (not its economics department). He then held chairs at the University of Freiburg (1962) and the University of Salzburg (1969).
 
 ## The Austrian Theory of the Business Cycle
 
-In his early work (*Prices and Production*, 1931, based on his LSE lectures), Hayek developed a theory of the business cycle that links unsustainable investment booms and subsequent crises to artificial credit expansion. Banks create this expansion by lowering the interest rate without genuine backing from voluntary saving. This distorts relative price signals between the different stages of production and inevitably leads to a painful correction later.
+In *Prices and Production* (1931), based on his LSE lectures, Hayek set out a theory of the business cycle that links unsustainable investment booms and later crises to credit expansion. On this account, banks lower the market rate of interest below the rate that would equate saving and investment. Relative prices between stages of production are then distorted, and the boom ends in a costly correction.
 
 ## The Debate with Keynes
 
@@ -46,7 +46,7 @@ In 1944 Hayek published his best-known book for a general audience, *The Road to
 
 ## The Knowledge Problem and the Spontaneous Order
 
-In his essay *The Use of Knowledge in Society* (1945), Hayek presented his most influential thesis: the central economic problem is coordinating knowledge dispersed among millions of individuals, which cannot be gathered into a single central planning apparatus. The price system in a competitive market is a unique mechanism for transmitting these signals, without the need for any individual to know the whole picture. He later developed this into a general theory of the "spontaneous order" in the emergence of social institutions.
+In his essay "The Use of Knowledge in Society" (1945), Hayek argued that the central economic problem is coordinating knowledge dispersed among many individuals, knowledge that cannot be gathered in full by a central planning board. Competitive prices, on this view, transmit local signals so that no one person need know the whole picture. He later developed the argument into a broader account of "spontaneous order" in the emergence of social institutions.
 
 ## The Socialist Calculation Debate
 
@@ -58,7 +58,7 @@ In *The Constitution of Liberty* (1960) and the series *Law, Legislation and Lib
 
 ## Founding the Mont Pelerin Society
 
-In 1947 Hayek founded the **Mont Pelerin Society**, an intellectual forum that brought together liberal economists and philosophers from various traditions around a shared diagnosis: that classical liberalism had failed to develop a sufficiently positive institutional framework. This made him a central figure in reviving liberal economic thought worldwide after decades of Keynesian consensus.
+In 1947 Hayek convened the **Mont Pelerin Society**, a forum of liberal economists and philosophers concerned with the decline of liberal institutions and the growth of discretionary state power. The society became an important network for that revival of liberal political economy.
 
 ## Final Years and an Evolving Legacy
 

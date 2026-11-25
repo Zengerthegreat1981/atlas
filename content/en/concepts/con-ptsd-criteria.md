@@ -30,6 +30,8 @@ In addition to the criterion of exposure to a traumatic event (actual or threate
 - **Criterion D (negative alterations in cognition and mood)**: at least two of seven: inability to remember important aspects of the event, persistent negative beliefs about oneself or the world, distorted blame of oneself, persistent negative emotional state, loss of interest in previously important activities, feeling detached from others, and persistent inability to experience positive emotions.
 - **Criterion E (alterations in arousal and reactivity)**: at least two of six: irritability and anger outbursts, reckless or self-destructive behavior, hypervigilance, exaggerated startle response, difficulty concentrating, and sleep disturbance.
 
+Two further requirements apply. The disturbance must last more than one month (Criterion F) and cause clinically significant distress or impairment (Criterion G), and it must not be attributable to a substance or another medical condition (Criterion H). The same lettering is used in DSM-5-TR.
+
 ## Difference from DSM-IV
 
 The fourth manual divided the symptoms of the disorder into only three groups (re-experiencing, avoidance/emotional numbing, and hyperarousal). The fifth manual separated the old "avoidance/numbing" group into two independent groups (avoidance, and negative alterations in cognition and mood). It also added a dissociative subtype (persistent depersonalization or derealization), a delayed-expression specifier, and a separate set of criteria for children aged six and younger. DSM-5-TR (2022) retained the structure with minor text revisions.

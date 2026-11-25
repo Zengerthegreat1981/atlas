@@ -21,7 +21,7 @@ gaps: []
 
 # David Kupfer
 
-An American psychiatrist (born 1941) and distinguished emeritus professor in the Department of Psychiatry at the University of Pittsburgh. He trained at Yale and the National Institute of Mental Health (NIMH) before joining the University of Pittsburgh. He chaired its Department of Psychiatry from 1983 to 2009, in association with the Western Psychiatric Institute and Clinic (WPIC), which became one of the leading university psychiatric research centers in the United States.
+An American psychiatrist (born 14 February 1941) and Thomas Detre Professor of Psychiatry at the University of Pittsburgh. He earned his B.A. and M.D. at Yale, trained at Yale–New Haven Hospital and the National Institute of Mental Health (NIMH), and joined the Yale faculty before moving to Pittsburgh in 1973 as associate professor and director of research and research training at the Western Psychiatric Institute and Clinic (WPIC). He chaired the Department of Psychiatry from 1983 to 2009. During those years WPIC became one of the largest university psychiatric research centers in the United States, measured by federal research funding and publication. He was elected to the Institute of Medicine (now the National Academy of Medicine) in 1990 and was founding president of the International Society for Bipolar Disorders.
 
 ## Contributions
 

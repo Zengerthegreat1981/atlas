@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Mercantilism and Cameralism"
 en: "Mercantilism and Cameralism"
 crumb: "Political Economy ← Schools ← Mercantilism and Cameralism"
-dates: "England, France, the German and Austrian lands · c. 1500–1750"
+dates: "England, France, the German and Austrian lands · c. 1500–1776"
 country: "England, France, the German states and Austria"
 language: "English, French, German"
 economic_school: "Mercantilism"
@@ -44,11 +44,11 @@ Mercantilist states did not confine themselves to regulating domestic trade; the
 
 ## Cameralism and population statistics
 
-A distinctive feature of German-Austrian cameralism was its early interest in population as a source of the state's wealth rather than a burden on it. Justi and his contemporaries linked population density to the productive and military strength of the state, and proposed policies to encourage immigration and organize crafts so as to maximize the productive employment of the population. This approach is sometimes read as an early precursor of economic demography (political arithmetic), which William Petty developed in England at roughly the same time, in parallel.
+A distinctive feature of German-Austrian cameralism was its early interest in population as a source of the state's wealth rather than a burden on it. Justi and his contemporaries linked population density to the productive and military strength of the state, and proposed policies to encourage immigration and organize crafts so as to maximize the productive employment of the population. The interest in population as a fiscal and military resource has a parallel in English political arithmetic, which William Petty developed in the later seventeenth century, well before Justi's textbooks.
 
 ## The fallacy of bullion accumulation
 
-The central theoretical weakness that classical economics later attacked in mercantilism is its confusion of **money** with **wealth**: accumulating gold and silver does not in itself increase a nation's real productive capacity (land, labour, physical capital). It may raise domestic prices without adding real value if it is not matched by a corresponding expansion of production. This observation was later developed into the quantity theory of money, which the Spanish School of Salamanca had in fact anticipated by more than a century. This confusion between a precious metal and real wealth is what historians of economic thought sometimes call "the mercantilist illusion".
+The central theoretical weakness that classical economics later attacked in mercantilism is the confusion of **money** with **wealth**: accumulating gold and silver does not in itself increase a nation's real productive capacity (land, labour, physical capital). A larger stock of money may raise domestic prices if it is not matched by a larger volume of goods. That price effect is a different claim from the identification of wealth with bullion. Writers of the School of Salamanca, notably Martín de Azpilcueta in 1556, and Jean Bodin in 1568, had already linked the influx of American silver to rising European prices, an early form of the quantity theory. Adam Smith's point in 1776 was the further one that treasure is not itself the wealth of a nation. Historians sometimes call the identification of the two "the mercantilist illusion," while noting, as the section on Mun does, that the balance-of-trade writers were already more careful than a simple bullionist doctrine.
 
 ## Sources
 

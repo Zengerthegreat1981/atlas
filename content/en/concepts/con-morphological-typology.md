@@ -20,7 +20,7 @@ gaps: []
 
 # Morphological Typology
 
-The oldest typological classification of languages, dating back to the early nineteenth century (the Schlegel brothers, then Wilhelm von Humboldt and August Schleicher). It classifies languages according to the way their words are built from morphological units (morphemes), not according to their historical kinship.
+A classification of languages by how words are built from morphemes, rather than by historical kinship. Friedrich Schlegel (1808) contrasted inflectional languages with the rest; August Wilhelm Schlegel (1818) distinguished isolating, agglutinative, and inflectional types; Wilhelm von Humboldt added an incorporating type, continued in later work as polysynthesis. August Schleicher reused the types as stages on an evolutionary scale. That ranking is no longer accepted. The labels survive as descriptive poles.
 
 ## Isolating (analytic) languages
 
@@ -36,7 +36,7 @@ The words of these languages (such as Latin, Russian and, partly, Arabic) merge 
 
 ## Polysynthetic languages
 
-The words of these languages (many Indigenous languages of North America, and some languages of the Caucasus) allow the construction of a single, highly complex word that carries the meaning of an almost complete sentence, by combining a verb root with the subject, the object and numerous additional grammatical elements within one long morphological unit.
+In these languages a single word can carry much of what other languages express as a clause, by combining a verb root with subject and object markers and other grammatical material. Textbook cases include Inuktitut and Mohawk, and, in the Caucasus, Northwest Caucasian languages such as Abkhaz. "Polysynthetic" is not a single structural type: how much material is inside the verb differs from language to language.
 
 ## A descriptive, non-exclusive value
 

@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Childhood Anxiety & Depression"
 en: "Childhood Anxiety & Depression"
 crumb: "Psychiatry ← Concepts ← Childhood Anxiety & Depression"
-active_start: 1920
+active_start: 1909
 active_end: "مستمر"
 language: "English"
 edges:
@@ -41,7 +41,7 @@ Jerome Kagan and colleagues described "behavioral inhibition" in *Science* in 19
 
 ## Treatment
 
-Philip Kendall developed the "Coping Cat" program in cognitive behavioral therapy for children and published his controlled trial in *Journal of Consulting and Clinical Psychology* in 1994. In the large CAMS study, published by Walkup and colleagues in *New England Journal of Medicine* in 2008, in children aged 7 to 17, cognitive behavioral therapy and sertraline each achieved better improvement than placebo, and the combination had the highest response rate (about 81%). For adolescent depression, the TADS study in *JAMA* in 2004 showed that the combination of fluoxetine and cognitive behavioral therapy was better than either alone. The boxed warning issued in the United States in 2004 about suicidal thinking in young people taking antidepressants, however, called for close monitoring (see the entry on Serotonin Reuptake Inhibitors).
+Philip Kendall developed the "Coping Cat" program in cognitive behavioral therapy for children and published his controlled trial in *Journal of Consulting and Clinical Psychology* in 1994. In the large CAMS study, published by Walkup and colleagues in *New England Journal of Medicine* in 2008, in children aged 7 to 17, cognitive behavioral therapy and sertraline each achieved better improvement than placebo, and the combination had a higher response rate than either treatment alone. For adolescent depression, the Treatment for Adolescents with Depression Study (TADS), published by March and colleagues in *JAMA* in 2004, found that the combination of fluoxetine and cognitive behavioral therapy outperformed either treatment alone on the primary outcome. The boxed warning issued in the United States in 2004 about suicidal thinking in young people taking antidepressants, however, called for close monitoring (see the entry on Serotonin Reuptake Inhibitors).
 
 ## Physical Symptoms and Cultural Context
 
@@ -59,4 +59,5 @@ The distinction between normal developmental anxiety and pathological anxiety de
 - Kagan, J., Reznick, J. S., & Snidman, N. (1988). Biological bases of childhood shyness. Science, 240(4849), 167–171.
 - Kendall, P. C. (1994). Treating anxiety disorders in children: results of a randomized clinical trial. Journal of Consulting and Clinical Psychology, 62(1), 100–110.
 - Walkup, J. T., et al. (2008). Cognitive behavioral therapy, sertraline, or a combination in childhood anxiety. New England Journal of Medicine, 359(26), 2753–2766.
+- March, J., et al. (2004). Fluoxetine, cognitive-behavioral therapy, and their combination for adolescents with depression: Treatment for Adolescents with Depression Study (TADS) randomized controlled trial. JAMA, 292(7), 807–820.
 - Beesdo, K., Knappe, S., & Pine, D. S. (2009). Anxiety and anxiety disorders in children and adolescents: developmental issues and implications for DSM-V. Psychiatric Clinics of North America, 32(3), 483–524.

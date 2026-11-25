@@ -12,7 +12,7 @@ en: "Al-Jurjani's Theory of Nazm (Syntactic Ordering)"
 crumb: "Linguistics ← Concepts ← Al-Jurjani's Theory of Nazm (Syntactic Ordering)"
 dates: "11th century CE"
 language: "Arabic"
-active_start: 1030
+active_start: 1078
 active_end: 1078
 edges:
 - rel: "belongs_to", target: "Classical Arabic Grammatical Tradition", target_type: "مدرسة"
@@ -25,7 +25,7 @@ gaps: []
 
 # Al-Jurjani's Theory of Nazm
 
-A semantic and rhetorical thesis put forward by Abd al-Qahir al-Jurjani (d. 471 AH) in *Dala'il al-I'jaz* (*The Proofs of Inimitability*) and *Asrar al-Balagha* (*The Secrets of Eloquence*), holding that **the eloquence and inimitability of speech lie not in individual words, but in *nazm*** — the manner in which words are arranged and linked to one another according to the meanings of grammar (*maʿani al-nahw*).
+A semantic and rhetorical thesis put forward by ʿAbd al-Qahir al-Jurjani, who died in Jurjan in 471 AH / 1078 CE (a minority report gives 474/1081). His year of birth is not recorded in the early biographical notices. The theory of *nazm* is developed in *Dalāʾil al-iʿjāz* (*The Proofs of Inimitability*). *Asrār al-balāgha* (*The Secrets of Eloquence*) is the companion work on poetic imagery, simile, and metaphor. The claim of *nazm* is that **eloquence lies not in individual words, but in the way words are arranged according to the meanings of grammar (*maʿānī al-naḥw*)**.
 
 ## Content
 
@@ -41,7 +41,7 @@ The thesis of *nazm* originally arose as an answer to a specific theological que
 
 ## Its Place in the History of Linguistic Thought
 
-This thesis was put forward more than eight centuries before Ferdinand de Saussure and his principle of the differential value of the linguistic sign (that the value of a sign is determined by its relation to other signs in the system, not by itself). Modern studies (such as Kamal Abu Deeb, 1979, who read al-Jurjani in light of structuralist theory) have noted points of convergence between the two theses, with a necessary methodological caveat: al-Jurjani was addressing the question of the Quranic inimitability and literary eloquence specifically, not a general theory of the linguistic sign or of human language as Saussure did. The similarity in principle therefore does not mean that the two projects or their aims are identical.
+Some modern readers have compared *nazm* with Ferdinand de Saussure's account of linguistic value, on which a sign has its value through relations inside a system. The comparison is limited. Al-Jurjani was explaining Quranic *iʿjāz* and literary eloquence. He was not stating a general theory of the linguistic sign, and *Dalāʾil al-iʿjāz* does not anticipate the *Cours de linguistique générale*. Margaret Larkin (1995) reads the same theory as a theology of meaning tied to that religious question.
 
 ## Sources
 

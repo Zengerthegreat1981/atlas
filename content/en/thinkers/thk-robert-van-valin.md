@@ -39,7 +39,7 @@ Role and Reference Grammar represents the clause through a general layered struc
 
 ## Macroroles and Semantic Roles
 
-Among Van Valin's most important innovations is the notion of two "macroroles," Actor and Undergoer. These are overarching generalizations that dispense with the detailed lists of semantic roles (agent, recipient, and so on) used in other frameworks. The grammatical role, such as subject or direct object, is derived from the position of the participant on the "Actor-Undergoer Hierarchy," rather than being imposed by an independent syntactic rule. Semantics is thus linked to syntax directly through what Van Valin calls the "Linking Algorithm," which operates in both directions: from semantics to syntax in language production, and from syntax to semantics in comprehension.
+A central device in the framework is the pair of macroroles, Actor and Undergoer. These generalize over finer semantic roles (agent, patient, recipient and the like), which the theory still recognizes along a continuum. Grammatical functions are linked to the position of a participant on the Actor–Undergoer Hierarchy. Van Valin states the mapping in a Linking Algorithm that runs in both directions: from semantics to syntax in production, and from syntax to semantics in comprehension.
 
 ## Pragmatic Structure and Focus
 
@@ -59,7 +59,7 @@ The framework offered a competing functional-typological alternative to generati
 
 ## Comparison with Competing Frameworks
 
-Role and Reference Grammar differs from Chomskyan generative grammar in rejecting the idea of "autonomous syntax." Van Valin holds that syntactic representation derives from the direct interaction between semantics and pragmatics, rather than being independent of them. It also differs from Construction Grammar in retaining a general representational level for semantic roles and layered structure, rather than treating each linguistic construction as a completely independent unit. This gives it greater explanatory power over cross-linguistic generalizations, while remaining sensitive to fine-grained linguistic variation.
+Role and Reference Grammar differs from Chomskyan generative grammar in rejecting the idea of "autonomous syntax." Van Valin holds that syntactic representation derives from the direct interaction between semantics and pragmatics, rather than being independent of them. It also differs from Construction Grammar in keeping a general representation of semantic roles and layered clause structure, rather than taking each construction as an independent unit. That choice is meant to state cross-linguistic generalizations while still registering language-particular variation.
 
 ## Sources
 

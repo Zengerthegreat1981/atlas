@@ -26,11 +26,11 @@ gaps: []
 
 # John Sinclair
 
-A British linguist, a pioneer of computational corpus linguistics, and the leader of the COBUILD project, which produced the first major English dictionary compiled from the analysis of a large text corpus rather than primarily from the intuition of the lexicographer.
+A British linguist and a central figure in computational corpus linguistics. He led the COBUILD project at the University of Birmingham, which produced a major English dictionary compiled chiefly from corpus evidence rather than from the lexicographer's intuition alone.
 
 ## The COBUILD Project
 
-At the University of Birmingham, Sinclair led the "Bank of English" project, a large computerized corpus of real English texts, and used it primarily to build the Collins COBUILD dictionary (1987), the first major dictionary to base its entries and examples on evidence of actual usage.
+At the University of Birmingham he directed the corpus built for COBUILD (later expanded and known as the Bank of English). The *Collins COBUILD English Language Dictionary* (1987) drew its entries and examples from that record of actual usage. The Bank of English name belongs to the later, larger corpus, not only to the collection used for the 1987 dictionary.
 
 ## The Idiom Principle
 
@@ -46,7 +46,7 @@ Sinclair belonged to the British tradition of J. R. Firth (the "London School") 
 
 ## Impact
 
-Sinclair's work established the field of corpus linguistics as a quantitative empirical method, as an alternative to relying on the speaker's intuition alone. It has profoundly influenced computational lexicography and the teaching of English as a foreign language: dictionaries and English-as-a-foreign-language courses (such as the Collins COBUILD series itself) are now built on evidence from large real corpora rather than on invented illustrative sentences. His approach has also extended into contemporary computational natural language processing, which relies fundamentally on analyzing large textual data.
+Sinclair's work helped make corpus linguistics a quantitative method alongside, and often against, reliance on speaker intuition alone. It shaped lexicography and the teaching of English as a foreign language: the COBUILD series, and many later dictionaries and courses, take examples from real corpora rather than only from invented sentences. Later natural-language processing also depends on large text collections, a line of work that shares his emphasis on attested use.
 
 ## The Idiom Principle and Its Effect on Language Teaching
 
@@ -58,7 +58,7 @@ In the later part of his career, Sinclair formulated a general methodological pr
 
 ## Institutional Legacy
 
-Sinclair held the chair of Modern English Language at the University of Birmingham and founded the COBUILD research group there, whose corpus work continued after his death in 2007.
+Sinclair held the chair of Modern English Language at the University of Birmingham and directed the COBUILD research unit there. Corpus work associated with that project continued after his death in 2007.
 
 ## Sources
 

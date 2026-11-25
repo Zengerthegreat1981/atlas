@@ -34,7 +34,7 @@ The Polish economist Oskar Lange offered an influential theoretical reply to thi
 
 ## The Practical Gaps: Chronic Shortages and Low Quality
 
-The actual implementation of Soviet planning suffered from chronic structural problems documented by later economists and historians. These included recurrent shortages of basic consumer goods alongside surpluses of other unwanted goods; a tendency among factory managers to meet the plan's quantitative targets at the expense of real product quality; and difficulty coordinating thousands of interlinked products across a vast national economy without a decentralised price mechanism to transmit information automatically. Many economists later interpreted these problems as the practical realisation of Mises and Hayek's earlier theoretical warning.
+The actual implementation of Soviet planning suffered from chronic structural problems documented by later economists and historians. These included recurrent shortages of basic consumer goods alongside surpluses of other unwanted goods; a tendency among factory managers to meet the plan's quantitative targets at the expense of real product quality; and difficulty coordinating thousands of interlinked products across a vast national economy without a decentralised price mechanism to transmit information automatically. Some economists later read these problems as evidence for the Mises–Hayek warning. Others traced them to bureaucratic incentives, political priorities, and the particular Soviet command system, which is not the same as every conceivable form of public ownership.
 
 ## Rapid Industrialisation and Human Costs
 
@@ -50,7 +50,7 @@ The Soviet model served as a direct reference for other central planning experim
 
 ## Lessons After the Collapse
 
-The collapse of the Soviet Union in 1991 reopened the socialist calculation debate with new force. Many economists regarded it as belated empirical confirmation of Mises and Hayek's early warning that rational calculation is impossible without free market prices. Other researchers stressed that the model's failure was partly due to political and bureaucratic factors (the absence of democracy and accountability) rather than to a purely economic impossibility. This debate remains present in the historiography of comparative political economy to this day.
+The collapse of the Soviet Union in 1991 reopened the socialist calculation debate. Some economists treated the collapse as support for the Mises–Hayek claim that rational calculation is impossible without market prices for factors of production. Others stressed political and bureaucratic factors, including the absence of open political accountability, and pointed to market-socialist proposals that were never the system the USSR actually ran. The historical record shows that this command economy ended. It does not by itself settle every theoretical question about public ownership.
 
 ## The Informal Parallel Economy
 
@@ -58,6 +58,7 @@ Alongside the official planned economy there developed a large informal parallel
 
 ## Sources
 
+- Mises, Ludwig von. "Economic Calculation in the Socialist Commonwealth." 1920. English text in Friedrich A. Hayek (ed.), *Collectivist Economic Planning*. Routledge, 1935.
 - Nove, Alec. *The Soviet Economic System*. 3rd ed., Allen and Unwin, 1986.
 - Lange, Oskar, and Fred M. Taylor. *On the Economic Theory of Socialism*. University of Minnesota Press, 1938.
 - Gregory, Paul R., and Robert C. Stuart. *Russian and Soviet Economic Performance and Structure*. 7th ed., Addison-Wesley, 2001.

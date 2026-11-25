@@ -31,7 +31,7 @@ Anxiolytics are drugs that relieve tension and acute anxiety. The best known are
 
 ## History of Discovery
 
-Benzodiazepines superseded barbiturates, which are dangerous in overdose and quick to cause addiction. Leo Sternbach, a chemist at Hoffmann-La Roche, synthesized a series of compounds in 1955. In 1957 a compound from the series that had been neglected was re-tested and found to have a sedative property, becoming chlordiazepoxide (Librium), which was marketed in 1960, followed by diazepam in 1963. The drugs gained enormous popularity in the 1960s and 1970s, and diazepam became one of the most prescribed drugs in the world. In *The Age of Anxiety* (Basic Books, 2009), Andrea Tone recounts how these drugs created a therapeutic culture for the anxiety of modern life, and how they became associated with the image of the "little helper" for mothers. In 1977, Möhler and Okada demonstrated the benzodiazepine receptor in the brain in *Science*.
+Benzodiazepines superseded barbiturates, which are dangerous in overdose and quick to cause addiction. Leo Sternbach, a chemist at Hoffmann-La Roche, synthesized a series of compounds in 1955. In 1957 a compound from the series that had been neglected was re-tested and found to have a sedative property, becoming chlordiazepoxide (Librium), which was marketed in 1960, followed by diazepam in 1963. The drugs gained enormous popularity in the 1960s and 1970s, and diazepam became one of the most prescribed drugs in the world. In *The Age of Anxiety* (Basic Books, 2009), Andrea Tone recounts how these drugs created a therapeutic culture for the anxiety of modern life, and how they became associated with the image of the "little helper" for mothers. In 1977, Möhler and Okada reported high-affinity benzodiazepine binding sites in *Science*. In the same year Braestrup and Squires reported specific benzodiazepine binding in rat brain, an independent line of evidence for a recognition site on the GABA-A receptor complex.
 
 ## Effectiveness and Risks
 
@@ -53,3 +53,4 @@ The drug does not treat the causes of anxiety, and its effect is temporary. The 
 - Möhler, H., & Okada, T. (1977). Benzodiazepine receptor: demonstration in the central nervous system. Science, 198(4319), 849–851.
 - Lader, M. (2011). Benzodiazepines revisited: will we ever learn? Addiction, 106(12), 2086–2109.
 - Ashton, H. (2005). The diagnosis and management of benzodiazepine dependence. Current Opinion in Psychiatry, 18(3), 249–255.
+- Braestrup, C., & Squires, R. F. (1977). Specific benzodiazepine receptors in rat brain characterized by high-affinity (3H)diazepam binding. Proceedings of the National Academy of Sciences, 74(9), 3805–3809.

@@ -26,7 +26,7 @@ gaps: []
 ---
 # The Calculus of Consent
 
-In 1962 **James Buchanan** and **Gordon Tullock** published their foundational book *The Calculus of Consent: Logical Foundations of Constitutional Democracy*. It is widely regarded as a founding work of public choice theory. It applied the tools of economic analysis to a question that was not traditionally studied with these tools: which constitutional rules for collective decision-making are best from the standpoint of the rational self-interest of the individuals who take part in them?
+In 1962 **James Buchanan** and **Gordon Tullock** published *The Calculus of Consent: Logical Foundations of Constitutional Democracy* (University of Michigan Press). It is widely treated as a central early work of public choice theory, alongside earlier contributions such as Duncan Black’s work on committees and Anthony Downs’s *An Economic Theory of Democracy* (1957). It applies economic reasoning to a question those tools had not usually addressed: which constitutional rules for collective decision-making rational, self-interested individuals would agree to.
 
 ## A Question About Rules Rather Than Policies
 
@@ -34,7 +34,7 @@ The book draws a clear methodological distinction between two levels of politica
 
 ## Decision-Making Costs and External Costs
 
-The book offers a central analytical framework: every rule for collective decision-making involves a trade-off between two kinds of cost. "Decision-making costs" are the time and effort required to reach agreement, which rise as the rule approaches full unanimity (which requires persuading everyone). "External costs" are the harm a collective decision may impose on the minority opposed to it, which rise as the rule moves away from unanimity towards a simple majority that imposes its will easily on a wide minority. Rational individuals, behind a "veil of uncertainty" about their precise future interests, seek to choose a rule that balances these two types of cost according to the nature of the decision at hand.
+The book offers a central analytical framework: every rule for collective decision-making involves a trade-off between two kinds of cost. "Decision-making costs" are the time and effort required to reach agreement, which rise as the rule approaches full unanimity (which requires persuading everyone). "External costs" are the harm a collective decision may impose on the minority opposed to it, which rise as the rule moves away from unanimity towards a simple majority that imposes its will easily on a wide minority. Rational individuals, uncertain about their own future positions, are pictured as choosing a rule that balances these two types of cost according to the nature of the decision at hand. (The later phrase "veil of uncertainty" belongs to Buchanan’s subsequent constitutional political economy, and is not the book’s own label.)
 
 ## Unanimity as an Ideal Theoretical Standard
 
@@ -50,7 +50,7 @@ The book rests on a "normative contractarian" methodology: it does not only desc
 
 ## A Founding Impact on an Entire Research Field
 
-The book effectively founded the field of public choice theory as a distinct academic specialisation. The field later developed its own research centres (the Center for Study of Public Choice, associated with Buchanan and Tullock at Virginia Polytechnic Institute and later at George Mason University) and journals such as *Public Choice*. Buchanan received the Nobel Memorial Prize in Economic Sciences in 1986 for his development of the contractual and constitutional bases of economic and political decision-making; this book is central to that work.
+The book helped establish public choice as a distinct research programme. Buchanan and Tullock were later associated with the Center for Study of Public Choice, first at Virginia Polytechnic Institute and, from 1983, at George Mason University. The journal *Public Choice* grew out of *Papers on Non-Market Decision Making* (from 1966). Buchanan received the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel in 1986 for his development of the contractual and constitutional bases of economic and political decision-making; this book is a central part of that work. Logrolling, the exchange of votes across issues, is another major theme: under less-than-unanimity rules, vote trading can let minorities protect intense preferences, and it can also produce inefficient packages of spending.
 
 ## An Implicit Critique of Traditional Welfare Economics
 
@@ -58,7 +58,7 @@ The book is associated with a critique of traditional welfare economics, which o
 
 ## A Collaboration Between Two Complementary Backgrounds
 
-The book combined two complementary academic backgrounds: Buchanan's background as an economist and Tullock's earlier training in law and service as a diplomat, which brought a different perspective on constitutional and political institutions. The result combines economic reasoning with attention to constitutional and institutional detail.
+The collaboration joined two backgrounds. Buchanan was trained as an economist (Chicago PhD, 1948). Tullock studied law at the University of Chicago and then served in the U.S. Foreign Service. The book joins individualist economic reasoning to questions of voting rules, representation and federalism.
 
 ## Its Standing in the Teaching of Political Science and Economics
 

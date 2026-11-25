@@ -18,12 +18,15 @@ edges:
 related:
 - id: "sch-rentier-state-theory", title: "Rentier State Theory", type: "مدرسة"
 - id: "dbt-dutch-disease-and-resource-curse", title: "Dutch Disease and the Resource Curse", type: "جدل"
-gaps:
-  - "Biographical entry for Michael L. Ross: not yet covered"
+gaps: []
 ---
 # The Oil Curse: How Petroleum Wealth Shapes the Development of Nations
 
-The American political scientist Michael Ross published this book in 2012 in an attempt to offer a comprehensive and statistically updated synthesis of the literature on the "resource curse," which he and other researchers had built up over the previous two decades. It draws on cross-national quantitative data covering many oil-exporting countries over several decades.
+The American political scientist Michael L. Ross published this book with Princeton University Press in 2012. It is a quantitative synthesis of research on the "resource curse," including his own work over the previous decade. It draws on cross-national data on oil-exporting countries over several decades.
+
+## The author
+
+Ross took his PhD in politics at Princeton University and later joined the political science department at the University of California, Los Angeles, where he has also been affiliated with the Institute of the Environment and Sustainability. Before *The Oil Curse* he was known for "Does Oil Hinder Democracy?" (*World Politics*, 2001) and for "Oil, Islam, and Women" (*American Political Science Review*, 2008), which received the Heinz Eulau Award. The book extends those articles on regime type and on women's employment. He is a living scholar; this entry is about the book.
 
 ## The Decisive Distinction: Institutions and Income at the Time Oil Arrives
 
@@ -47,11 +50,11 @@ Ross devotes concluding chapters to discussing policy tools that might ease the 
 
 ## Academic Reception and Methodological Criticism
 
-The book was widely praised as a comprehensive synthesis of the resource curse literature. Some researchers have nonetheless continued to question the causal foundation of certain statistical correlations it presents. They argue that deeper historical and institutional factors (such as the legacy of colonialism and the quality of institutions before oil was discovered) may explain a large part of the observed "curse" more than oil itself as an independent variable.
+The book was widely reviewed as a synthesis of the resource-curse literature. The causal claims remain disputed. A prominent statistical challenge is Stephen Haber and Victor Menaldo's "Do Natural Resources Fuel Authoritarianism?" (*American Political Science Review*, 2011), which argues that, once country-specific histories are taken into account, oil wealth is not systematically associated with less democracy. Ross's book, and later replies, defend a qualified oil-and-autocracy link, especially where oil arrives in poor countries. The disagreement is about identification in cross-national data, not about whether particular oil states have been authoritarian.
 
 ## Its Place in the Resource Curse Literature
 
-The book is widely read as a leading reference on the relationship between oil and political authoritarianism. It is often taught alongside the classical rentier state literature (such as Beblawi and Luciani's *The Rentier State*, 1987), of which it is in part a quantitative continuation.
+The book is widely assigned on the relationship between oil and political regimes. It is often taught alongside the rentier-state literature (such as Hazem Beblawi and Giacomo Luciani's edited volume *The Rentier State*, 1987). It differs from that literature in method: cross-national statistics and explicit mechanisms, rather than comparative case interpretation alone.
 
 ## The Connection to the Broader Dutch Disease and Resource Curse Debate
 
@@ -61,3 +64,5 @@ Ross's analysis intersects with the broader economic debate over the "Dutch dise
 
 - Ross, Michael L. *The Oil Curse: How Petroleum Wealth Shapes the Development of Nations*. Princeton University Press, 2012.
 - Ross, Michael L. "Does Oil Hinder Democracy?" *World Politics*, vol. 53, no. 3, 2001, pp. 325–361.
+- Ross, Michael L. "Oil, Islam, and Women." *American Political Science Review*, vol. 102, no. 1, 2008, pp. 107–123.
+- Haber, Stephen, and Victor Menaldo. "Do Natural Resources Fuel Authoritarianism? A Reappraisal of the Resource Curse." *American Political Science Review*, vol. 105, no. 1, 2011, pp. 1–26.

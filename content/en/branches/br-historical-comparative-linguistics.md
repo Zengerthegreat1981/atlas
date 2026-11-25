@@ -20,11 +20,11 @@ gaps: []
 
 # Historical and Comparative Linguistics: Tracing the Ancestry of Languages
 
-A branch that studies how languages change over time, and how historical kinship between different languages can be demonstrated through systematic comparison of their sounds, vocabulary and grammatical structures. It assumes that languages that are close today may have branched off from a common ancestral language (a proto-language), which no longer survives as a directly attested text but can be reconstructed by inference.
+A branch that studies how languages change over time, and how historical kinship between different languages can be argued through systematic comparison of their sounds, vocabulary and grammatical structures. It assumes that languages that are close today may have branched off from a common ancestral language (a proto-language), which no longer survives as a directly attested text but can be reconstructed by inference.
 
 ## Starting Point: William Jones's 1786 Discourse
 
-The discourse delivered by the British orientalist William Jones before the Asiatic Society in Calcutta in 1786 is traditionally regarded as the starting point of this branch. Jones observed a systematic structural resemblance among Sanskrit, Greek and Latin that could not be explained by chance. He proposed that they had all descended from a "common source, which perhaps no longer exists." This proposal later paved the way for establishing the Indo-European language family, the first language family whose kinship was demonstrated through an organized method.
+The discourse delivered by the British orientalist William Jones before the Asiatic Society in Calcutta in 1786 is traditionally regarded as the starting point of this branch. Jones observed a systematic structural resemblance among Sanskrit, Greek and Latin that he judged could not be explained by chance. He proposed that the three had sprung from a common source which perhaps no longer existed. That suggestion became a reference point for later work that established the Indo-European family by the comparative method.
 
 ## The Comparative Method and Reconstruction
 
@@ -44,7 +44,7 @@ Historical linguistics remains a living field. Its methods are used to date the 
 
 ## Regular Sound Change
 
-Among the branch's most important achievements is the discovery that sound change over time does not occur randomly. It proceeds according to nearly regular sound "laws" that apply to every word containing the same sound in the same phonetic environment, within the same language and period. The best-known example is "Grimm's law," which describes a regular shift in a series of consonants between Proto-Indo-European and the early Germanic languages. This regularity allows the historical linguist to predict word forms in one language from their counterparts in a sister language. It also provides a strict criterion for distinguishing resemblance that reflects true historical kinship from resemblance that is accidental or the product of later borrowing.
+A central result of the branch is that sound change over time is not treated as random. In the Neogrammarian formulation it proceeds by regular sound laws that apply to every word containing the same sound in the same phonetic environment, within the same language and period, with later work allowing analogy, borrowing, and lexical diffusion as further factors. A standard example is Grimm's law, which describes a regular shift in a series of consonants between Proto-Indo-European and the early Germanic languages. This regularity allows the historical linguist to predict word forms in one language from their counterparts in a sister language. It also provides a strict criterion for distinguishing resemblance that reflects true historical kinship from resemblance that is accidental or the product of later borrowing.
 
 ## Internal Reconstruction versus the Comparative Method
 

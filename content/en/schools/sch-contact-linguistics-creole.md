@@ -29,7 +29,7 @@ A branch of linguistics that studies languages arising from intensive contact be
 
 ## From Pidgin to Creole
 
-A **pidgin** is a simplified communication language with limited vocabulary and grammar, which arises when speakers of several languages need limited practical communication (such as trade) without any of them being a native language for anyone. When a generation of children acquires this pidgin as its first language, it automatically expands and grammatically enriches it into a complete, stable linguistic system called a **creole** — a process known as "creolization."
+A **pidgin** is a simplified communication language with limited vocabulary and grammar, which arises when speakers of several languages need limited practical communication (such as trade) without any of them being a native language for anyone. On the classical account, when a generation of children acquires a pidgin as a first language, the language expands into a **creole**. That abrupt scenario is disputed. Expanded pidgins, gradual nativization and ordinary language change have all been proposed as routes to the languages called creoles.
 
 ## The Bioprogram Hypothesis
 
@@ -49,11 +49,11 @@ In many societies, creoles do not remain an isolated system; they continue to be
 
 ## Critique of Creole Exceptionalism
 
-Michel DeGraff sharply criticized what he called "creole exceptionalism" (Creole Exceptionalism): the implicit assumption, rooted in his account in a colonial tradition, that creole languages are grammatically simpler or less developed than other "natural" languages. He showed that they are subject to the same mechanisms of linguistic change that apply to any other human language, without any need for special exceptional explanations.
+Michel DeGraff has criticized "creole exceptionalism": the assumption, which he traces in part to colonial description, that creoles are grammatically simpler or less developed than other languages, or that they require a special theory of origin. He argues that they change by the same kinds of processes as other languages. The argument is widely discussed and not universally accepted.
 
 ## Impact
 
-The study of contact languages has provided living evidence of how quickly complete new linguistic systems can arise within one or two generations (as in the case of Tok Pisin studied by Peter Mühlhäusler). It has influenced debates on language acquisition and innateness, and our understanding of linguistic diversity in post-colonial societies. Its tools have also extended to the study of "mixed languages" (Mixed Languages) of bilingual origin, documented by researchers such as Peter Bakker and Yaron Matras.
+Contact languages have been cited, still controversially, as cases in which a new community language can stabilize over a small number of generations. Peter Mühlhäusler's history of Tok Pisin is a standard reference for one such development, from a nineteenth-century Pacific pidgin to a language of Papua New Guinea with millions of users, most of them second-language speakers. It has influenced debates on language acquisition and innateness, and our understanding of linguistic diversity in post-colonial societies. Its tools have also extended to the study of "mixed languages" (Mixed Languages) of bilingual origin, documented by researchers such as Peter Bakker and Yaron Matras.
 
 ## Lexical Borrowing and Mixed Languages
 
@@ -61,7 +61,7 @@ Contact linguistics also intersects with the study of "lexical borrowing" (Lexic
 
 ## Tok Pisin: A Model Case Study
 
-Tok Pisin, one of the official languages of Papua New Guinea and its main lingua franca, is among the most thoroughly documented cases of creolization in the literature. Peter Mühlhäusler traced its stages of development from a simple nineteenth-century trade pidgin to a complete creole language spoken today by millions of people as a first or second language, with careful documentation of each stage of its grammatical and lexical expansion across successive generations of speakers. This made it a reference model against which many of the competing theoretical hypotheses on the mechanisms of creole origin are tested.
+Tok Pisin, one of the official languages of Papua New Guinea and its main lingua franca, is among the most thoroughly documented cases of creolization in the literature. Peter Mühlhäusler traced its development from a nineteenth-century trade pidgin to a language now used by millions of people in Papua New Guinea, mostly as a second language, with a smaller number of first-language speakers. The record is detailed enough that competing accounts of creolization regularly use it, without agreeing on which account it supports.
 
 ## Sources
 
@@ -69,4 +69,5 @@ Tok Pisin, one of the official languages of Papua New Guinea and its main lingua
 - Holm, John (2000). *An Introduction to Pidgins and Creoles*. Cambridge University Press.
 - Mufwene, Salikoko S. (2001). *The Ecology of Language Evolution*. Cambridge University Press.
 - DeGraff, Michel (2005). "Linguists' Most Dangerous Myth: The Fallacy of Creole Exceptionalism." *Language in Society* 34(4).
-- Mühlhäusler, Peter (1997). *Pidgin and Creole Linguistics*. University of Westminster Press.
+- Mühlhäusler, Peter (1997). *Pidgin and Creole Linguistics* (expanded ed.). University of Westminster Press.
+- Weinreich, Uriel (1953). *Languages in Contact*. Linguistic Circle of New York.

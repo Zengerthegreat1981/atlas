@@ -23,7 +23,7 @@ An analytical mechanism formulated by Roland Barthes in *Mythologies* (1957) to 
 
 ## The Two Semantic Levels
 
-Barthes distinguishes between two overlapping semantic systems: the "language system" (Language), the ordinary relation between signifier and signified that produces a direct, literal meaning (for example, the image of an African soldier saluting the French flag); and "myth" (Myth), a second-order semantic system that takes the complete sign of the first system (signifier and signified together) and uses it in turn as a new signifier for a broader ideological signified (such as "the French Empire is just and beloved by its subjects").
+Barthes distinguishes two overlapping systems. The first is ordinary language: a signifier and a signified yield a literal sign. His example in "Myth Today" is a *Paris-Match* cover showing a young Black soldier in French uniform saluting the flag. Myth is a second-order system that takes that whole sign and uses it as a new signifier for a further signified, in this case an image of French imperial harmony.
 
 ## The Naturalization of Ideology
 
@@ -33,9 +33,9 @@ The basic function of myth for Barthes is "transforming history into nature." Id
 
 Barthes applied this analysis to a variety of popular cultural phenomena (professional wrestling, soap-powder and detergent advertising, and the launch of a new Citroën car), showing how these ordinary popular phenomena carry implicit ideological layers about social class, nationality, and gender that usually pass without conscious notice by the average consumer.
 
-## The Empty Signifier and the Mythical Concept
+## Form, Fullness, and Distortion
 
-Barthes points out that the signifier in the mythical system has a seemingly contradictory dual property: on the one hand it is "full" of its original literal meaning from the first linguistic system (the actual image of the soldier), and on the other it is "empty," or temporarily suspended, in favor of the new mythical concept that takes it over (the idea of empire). Barthes calls this relation "distortion": the first literal meaning is not entirely canceled but remains present as a foundation that gives the myth its apparently "natural" credibility, while being exploited to carry a completely different ideological meaning.
+In "Myth Today," the mythical signifier (the *form*) is described as both full and empty. It is full of the first-order meaning (the photograph of the soldier) and emptied enough for a new concept (imperial harmony) to occupy it. Barthes calls the relation *distortion*: the literal meaning is not cancelled. It stays in view and lends the myth an appearance of naturalness while carrying another ideological meaning. The later technical term "empty signifier" belongs to other theorists and is not Barthes's name for this form.
 
 ## Form, Concept and Signification
 

@@ -18,14 +18,14 @@ related:
 study_year: 2015
 design: "A randomized controlled trial (RCT) at the neighbourhood level: branches of a microfinance institution were randomly expanded into half of the selected neighbourhoods, and results were compared with control neighbourhoods where microfinance was not introduced during the same period"
 sample_size: "104 slums in Hyderabad, India; thousands of households surveyed at baseline (2005) and in follow-up waves roughly 15-18 months and about three years after the new branches opened"
-main_finding: "The introduction of microfinance led to a modest increase in starting small businesses and purchasing productive assets among households that already owned a business, but with no tangible effect on broader well-being indicators (household consumption, education, women's empowerment) on average across the full sample over the time horizon studied."
+main_finding: "In the Hyderabad trial, group-lending microcredit raised take-up and increased investment and profits of pre-existing businesses, with no significant average effect on total consumption, health, education or women's empowerment. After control neighbourhoods later received credit, few differences remained."
 replication_status: "replicated"
 gaps: []
 ---
 
 # Banerjee & Duflo's Hyderabad Microfinance RCT (2015)
 
-A randomized controlled trial conducted by Abhijit Banerjee, Esther Duflo and their colleagues in the Indian city of Hyderabad to test the actual causal effect of introducing microfinance services (small loans to the poor without traditional collateral) on living standards and entrepreneurship. It was one of the first large systematic field experiments to apply the logic of the randomized medical trial to a widely adopted development policy.
+A randomized controlled trial by Abhijit Banerjee, Esther Duflo, Rachel Glennerster and Cynthia Kinnan tested the effect of introducing group-lending microcredit in Hyderabad. The published paper is "The Miracle of Microfinance? Evidence from a Randomized Evaluation" (*American Economic Journal: Applied Economics*, 2015). It was one of a small group of field experiments that applied randomized assignment to a widely promoted development policy. Earlier randomized studies in development, including work associated with Michael Kremer, had already used the same logic on other interventions.
 
 ## Context: the rise of microfinance as a popular development tool
 
@@ -33,11 +33,11 @@ Microfinance gained enormous popularity as a development instrument following th
 
 ## Experimental design: randomized expansion of branches
 
-The researchers took advantage of a decision by an Indian microfinance institution (Spandana) to expand into poor neighbourhoods of Hyderabad. Working with it, they designed a randomized expansion: of 104 eligible neighbourhoods (slums), 52 were randomly selected to receive microfinance services first, while the other 52 served as a "control group" (in which the lender was not yet operating during the study period). This design allowed a relatively clean comparison between neighbourhoods similar in almost every respect except the availability of microfinance, across a baseline survey and two follow-up waves (about 15-18 months and about three years after branch openings) to measure short- and medium-term effects.
+In 2005 Spandana, then a fast-growing Indian microfinance lender, planned to open branches in poor neighbourhoods of Hyderabad, capital of Andhra Pradesh. Of 104 eligible neighbourhoods, 52 were randomly selected for a branch at the start. The other 52 were a comparison group in which Spandana did not open during the first phase. Households were surveyed at baseline and again about 15 to 18 months after the branches opened. A later wave, about two to three years on, is also reported in the 2015 paper. By then Spandana had entered the comparison neighbourhoods as well, so the second wave compares earlier and longer access with later access. It is not a comparison of credit against a group that never received it.
 
-## Findings: modest and uneven gains rather than a fundamental transformation
+## Findings: modest and uneven gains
 
-The study reached a conclusion more modest than the broad popular hopes placed in microfinance. The rate of starting new small businesses and purchasing productive assets (such as sewing machines or stocks of goods) rose, especially among households that already owned a business or had a high propensity to start one before the trial; business profits rose for existing business owners. However, no tangible improvement was recorded on average across the full sample in broader indicators, such as total household consumption, children's school enrolment, or indicators of women's empowerment within the household, over the time horizon the study covered.
+Take-up of microcredit was about 8.4 percentage points higher in the neighbourhoods assigned a branch. Investment in small businesses rose, and profits of businesses that already existed increased. New businesses also appeared, but the paper reports that the median new business in treated areas was less profitable. Total household consumption did not rise by a statistically significant amount. Spending on durable goods rose, and spending on what the authors call temptation goods fell. The study found no significant changes in health, education or women's empowerment. In the later wave, after comparison areas also had access, very few significant differences remained. The authors do not claim that every household was unaffected. The average effects on consumption and empowerment were small and imprecisely estimated relative to the hopes often attached to microcredit.
 
 ## Broader significance: from slogans to precise measurement
 

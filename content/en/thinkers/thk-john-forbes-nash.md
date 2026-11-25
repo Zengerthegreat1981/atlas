@@ -10,7 +10,7 @@ crumb: "Political Economy ← Thinkers ← John Forbes Nash Jr."
 dates: "Bluefield, West Virginia · 1928–2015"
 country: "United States"
 language: "English"
-economic_school: "Game theory / general equilibrium theory"
+economic_school: "Game theory"
 active_start: 1950
 active_end: 2015
 edges:
@@ -21,11 +21,11 @@ gaps: []
 ---
 # John Forbes Nash Jr.
 
-**John Forbes Nash Jr.** was an American mathematician and economist, awarded the Nobel Prize in Economics in 1994 for his foundational contribution to non-cooperative game theory. He is known for the concept of the "Nash equilibrium," which has become one of the most important analytical tools in modern microeconomics. He also gained wide recognition beyond specialist circles after his personal biography, including his long struggle with schizophrenia, was turned into the film *A Beautiful Mind* (2001).
+**John Forbes Nash Jr.** was an American mathematician whose work on non-cooperative games became part of modern economics. He shared the Nobel Memorial Prize in Economic Sciences in 1994 for that contribution. The Nash equilibrium is a standard tool in microeconomics. His life, including a long illness diagnosed as schizophrenia, became widely known through Sylvia Nasar's biography and the film *A Beautiful Mind* (2001).
 
 ## Early Academic Path
 
-Nash studied at the Carnegie Institute of Technology (now Carnegie Mellon University), then obtained his doctorate from Princeton University in 1950. His dissertation, "Non-Cooperative Games", was only 27 pages long and laid the foundation of the Nash equilibrium concept. He then taught at the Massachusetts Institute of Technology and consulted for the RAND Corporation, before the onset of paranoid schizophrenia in 1959. This disrupted his active research career for decades afterwards.
+Nash studied at the Carnegie Institute of Technology (now Carnegie Mellon University), then obtained his doctorate from Princeton University in 1950. His dissertation, "Non-Cooperative Games", was very short and set out the Nash equilibrium. He then taught at the Massachusetts Institute of Technology and consulted for the RAND Corporation, before the onset of paranoid schizophrenia in 1959. This disrupted his active research career for decades afterwards.
 
 ## Nash Equilibrium: 1950
 
@@ -33,7 +33,7 @@ In his doctoral dissertation Nash presented a general concept of equilibrium in 
 
 ## A Central Impact on Modern Microeconomics
 
-The concept of Nash equilibrium became a cornerstone in analysing strategic interaction in modern economics. It is used to model oligopolistic competition among a small number of firms, to analyse auctions, and to study bargaining. More precise concepts were later built upon it, such as the "subgame perfect equilibrium," developed by Reinhard Selten to handle games played sequentially over time. This made game theory a complete mathematical field, on which a large part of advanced microeconomics and mechanism design now rests.
+The concept of Nash equilibrium became a cornerstone in analysing strategic interaction in modern economics. It is used to model oligopolistic competition among a small number of firms, to analyse auctions, and to study bargaining. More precise concepts were later built upon it, such as the "subgame perfect equilibrium," developed by Reinhard Selten to handle games played sequentially over time. Game theory thereafter became a standard part of advanced microeconomics and of mechanism design.
 
 ## Years of Illness and Partial Recovery
 
@@ -49,7 +49,7 @@ Before Nash's work, classical game theory was limited mainly to strictly competi
 
 ## A Legacy That Extends Beyond Economics
 
-The impact of the Nash equilibrium concept extended beyond economics. In evolutionary biology it was used to explain the stability of certain behavioural strategies among living organisms, through the concept of the "evolutionarily stable strategy" developed by John Maynard Smith. In political science it has been applied to the analysis of international negotiation and arms races, and in computer science to designing algorithms for allocating network resources. This makes Nash's contribution one of the most interdisciplinary mathematical concepts of the twentieth century.
+The impact of the Nash equilibrium concept extended beyond economics. In evolutionary biology it was used to explain the stability of certain behavioural strategies among living organisms, through the concept of the "evolutionarily stable strategy" developed by John Maynard Smith. In political science it has been applied to the analysis of international negotiation and arms races, and in computer science to designing algorithms for allocating network resources. The equilibrium concept thus travelled well beyond economics.
 
 ## Sources
 

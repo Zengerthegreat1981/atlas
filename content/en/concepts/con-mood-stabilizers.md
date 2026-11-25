@@ -27,7 +27,7 @@ gaps: []
 
 ## Definition
 
-Mood stabilizers are medications used to treat manic episodes and to prevent the fluctuations of bipolar disorder. The most important is lithium; others include anticonvulsants such as valproate, carbamazepine, and lamotrigine, as well as some antipsychotics. There is no precise definition of the class: it is a clinical designation for a drug that treats the manic or depressive pole and prevents relapse without switching the patient to the opposite pole.
+Mood stabilizers are medications used to treat manic episodes and to prevent the fluctuations of bipolar disorder. Lithium is the reference drug in the class. Others include anticonvulsants such as valproate, carbamazepine, and lamotrigine, and some antipsychotics used in mania or maintenance. There is no precise definition of the class: it is a clinical designation for a drug that treats the manic or depressive pole and prevents relapse without switching the patient to the opposite pole.
 
 ## Discovery of Lithium
 
@@ -47,7 +47,7 @@ These medications emerged from twentieth-century laboratories and clinics rather
 
 ## Limits
 
-Responses vary: a large proportion of patients do not improve with lithium alone, and some reject it because of its severe effects. Abrupt discontinuation of lithium has been associated with an increased risk of relapse and suicidal behavior.
+Responses vary: a large proportion of patients do not improve with lithium alone, and some reject it because of its severe effects. Abrupt discontinuation of lithium has been associated with an increased risk of early relapse.
 
 This entry is educational and does not constitute clinical or prescribing advice.
 
@@ -59,3 +59,4 @@ This entry is educational and does not constitute clinical or prescribing advice
 - Geddes, J. R., Burgess, S., Hawton, K., Jamison, K., & Goodwin, G. M. (2004). Long-term lithium therapy for bipolar disorder: systematic review and meta-analysis of randomized controlled trials. American Journal of Psychiatry, 161(2), 217–222.
 - Cipriani, A., et al. (2013). Lithium in the prevention of suicide in mood disorders: updated systematic review and meta-analysis. BMJ, 346, f3646.
 - Goodwin, F. K., & Jamison, K. R. (2007). Manic-Depressive Illness: Bipolar Disorders and Recurrent Depression (2nd ed.). New York: Oxford University Press.
+- BALANCE investigators and collaborators. (2010). Lithium plus valproate combination therapy versus monotherapy for relapse prevention in bipolar I disorder (BALANCE): a randomised open-label trial. The Lancet, 375(9712), 385–395.

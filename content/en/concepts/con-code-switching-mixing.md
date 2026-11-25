@@ -21,11 +21,11 @@ gaps: []
 
 ## Definition
 
-Code-switching is the alternation by a speaker between two or more languages (or two dialects) within the same conversation, or even within the same sentence, while the term code-mixing (Code-Mixing) is sometimes reserved for switching that occurs within the boundaries of a single sentence (intrasentential). Research by John Gumperz since the 1960s established that this phenomenon is not a defect or a sign of linguistic deficiency, but a socially and grammatically organized behavior that serves specific communicative functions: signaling identity, regulating social distance, quoting, or emphasizing.
+Code-switching is the alternation by a speaker between two or more languages, or two dialects, within the same conversation or even within the same sentence. The term code-mixing is sometimes reserved for switching inside a single sentence (intrasentential switching); usage of the two terms is not consistent across authors. Work associated with John Gumperz, including the study of social meaning in bilingual speech with Jan-Petter Blom (1972) and *Discourse Strategies* (1982), treated the phenomenon as socially and grammatically organized behavior rather than as a defect or a sign of incomplete competence. Speakers use it for communicative work such as signaling identity, regulating social distance, quoting, and emphasis.
 
 ## Grammatical Constraints
 
-In her landmark study of Spanish-English bilinguals (1980), Shana Poplack showed that switching does not occur randomly but is subject to structural constraints. The most prominent is the Equivalence Constraint: switching occurs at points where the surface structures of the two languages correspond grammatically, so a switch between a verb and its object is not expected if their order differs between the two languages. She also proposed the Free Morpheme Constraint, which prevents switching within a single word between a stem and a suffix from two grammatically different and incompatible languages.
+In a study of Puerto Rican Spanish–English bilinguals in New York (1980), Shana Poplack argued that switching is structurally patterned. She proposed an equivalence constraint: switches tend to occur where the surface word orders of the two languages correspond, so that the order of constituents on either side of the switch does not violate either grammar. She also proposed a free-morpheme constraint: a switch is not made between a bound morpheme and a lexical stem unless that morpheme has been phonologically integrated into the language of the stem. Both proposals have been widely discussed and widely challenged; later work has offered many counterexamples, and there is no consensus that they hold for all bilingual communities.
 
 ## The Matrix Language Frame Model of Myers-Scotton
 
@@ -37,11 +37,12 @@ According to Gumperz's analysis of Contextualization Cues, code-switching serves
 
 ## Related Concepts
 
-Code-switching intersects with diglossia (a fixed functional distribution between a high variety and a colloquial variety). It differs from the concept of Translanguaging in Ofelia García's work, which rejects the distinction between "two separate languages" to begin with, and describes linguistic practice as a single integrated system in the bilingual individual. It also draws theoretically on lexical processing models such as the BIA+ model, which explains the simultaneous activation of both languages during word recognition in comprehension.
+Code-switching intersects with diglossia, a relatively stable functional distribution between a high variety and a low variety. It is distinct from translanguaging in Ofelia García's work, which resists treating the bilingual's languages as two bounded codes and describes practice as drawing on one repertoire. Models of bilingual word recognition, such as the BIA+ model, address a different question: how both languages can be active during comprehension of a word. They are sometimes discussed together with code-switching, but they do not state the grammatical constraints on where a switch may occur.
 
 ## Sources
 
-- Poplack, S. (1980). "Sometimes I'll start a sentence in Spanish y termino en español." *Linguistics*, 18(7-8), 581-618.
+- Blom, J.-P., & Gumperz, J. J. (1972). "Social Meaning in Linguistic Structure: Code-Switching in Norway." In J. J. Gumperz & D. Hymes (Eds.), *Directions in Sociolinguistics*. Holt, Rinehart and Winston.
+- Poplack, S. (1980). "Sometimes I'll start a sentence in Spanish y termino en español: Toward a Typology of Code-Switching." *Linguistics*, 18(7-8), 581-618.
 - Myers-Scotton, C. (1993). *Duelling Languages: Grammatical Structure in Codeswitching*. Oxford University Press.
 - Gumperz, J. J. (1982). *Discourse Strategies*. Cambridge University Press.
 - García, O., & Wei, L. (2014). *Translanguaging: Language, Bilingualism and Education*. Palgrave Macmillan.

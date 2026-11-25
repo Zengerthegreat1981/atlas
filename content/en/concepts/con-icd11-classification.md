@@ -19,11 +19,11 @@ gaps: []
 
 # ICD-11 Classification
 
-The eleventh revision of the **International Classification of Diseases** issued by the World Health Organization. It was adopted by the World Health Assembly in 2019, came into formal effect on 1 January 2022, and includes a dedicated chapter on "Mental, Behavioural or Neurodevelopmental Disorders," the international counterpart of the American DSM-5.
+The eleventh revision of the **International Classification of Diseases**, issued by the World Health Organization. The World Health Assembly adopted it in 2019. It came into effect for international mortality reporting on 1 January 2022. Countries introduce it for morbidity coding on their own timetables. It includes a chapter on mental, behavioural or neurodevelopmental disorders, the main international counterpart of the American DSM-5 and DSM-5-TR.
 
 ## General Structure
 
-ICD-11 expands from the 22 chapters of the previous edition (ICD-10) to 26 chapters, in addition to the "Functioning Assessment" supplementary section (V) and the extension codes (X), in an effort to provide more precise and detailed coverage of health and mental conditions.
+ICD-11 expands from the 22 chapters of ICD-10 to 26 chapters, plus a supplementary section for functioning assessment (V) and extension codes (X) used in postcoordination. New or relocated chapters include immune-system diseases, sleep–wake disorders, conditions related to sexual health, and a supplementary chapter on traditional medicine. Coding can add detail with stem codes and extension codes rather than by multiplying precomposed categories.
 
 ## Notable Changes in the Classification of Mental Disorders
 
@@ -35,7 +35,7 @@ ICD-11 expands from the 22 chapters of the previous edition (ICD-10) to 26 chapt
 
 ## The General Philosophy of the Classification
 
-Despite substantial changes in specific categories, ICD-11, like its predecessor, remains essentially a **categorical** classification that relies on reported or clinically observed symptoms. It takes limited steps toward **dimensionality** in some categories (such as personality disorders), but it is not a full shift to the comprehensive dimensional model called for by some researchers.
+Despite substantial changes in specific categories, ICD-11, like its predecessor, remains essentially a **categorical** classification that relies on reported or clinically observed symptoms. It takes limited steps toward **dimensionality** in some categories (such as personality disorders), but it is not a full shift to the comprehensive dimensional model called for by some researchers. In 2024 WHO published the *Clinical Descriptions and Diagnostic Requirements* (CDDR) for the mental, behavioural and neurodevelopmental disorders chapter. That manual gives the clinical guidance used with the statistical codes and replaces the earlier draft clinical descriptions and diagnostic guidelines.
 
 ## Limits
 
@@ -45,6 +45,7 @@ Despite substantial changes in specific categories, ICD-11, like its predecessor
 ## Sources
 
 - World Health Organization. *ICD-11: International Classification of Diseases, 11th Revision*. Geneva: WHO, 2019/2022.
+- World Health Organization. *Clinical Descriptions and Diagnostic Requirements for ICD-11 Mental, Behavioural and Neurodevelopmental Disorders*. Geneva: WHO, 2024.
 - Gaebel, Wolfgang, Jutta Stricker, and Anne Kerst. "Changes from ICD-10 to ICD-11 and Future Directions in Psychiatric Classification." *Dialogues in Clinical Neuroscience* 22, no. 1 (2020): 7–15.
 - Reed, Geoffrey M., et al. "Innovations and Changes in the ICD-11 Classification of Mental, Behavioural and Neurodevelopmental Disorders." *World Psychiatry* 18, no. 1 (2019): 3–19.
 - Tyrer, Peter, Geoffrey M. Reed, and Mike J. Crawford. "Classification, Assessment, Prevalence, and Effect of Personality Disorder." *The Lancet* 385, no. 9969 (2015): 717–726.

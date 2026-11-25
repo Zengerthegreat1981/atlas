@@ -22,7 +22,7 @@ gaps: []
 ---
 # Thomas Robert Malthus
 
-**Thomas Robert Malthus** was an Anglican clergyman and British economist. He later held what is generally regarded as the first professorship in political economy in Britain (at the East India Company's college at Haileybury). He became known for a single thesis that changed the course of both economic and biological thought: that population growth by its nature outstrips the capacity of the land to feed its inhabitants.
+**Thomas Robert Malthus** was an Anglican clergyman and British economist. He later held what is generally regarded as the first professorship in political economy in Britain (at the East India Company's college at Haileybury). He became known for the thesis that population growth tends to outstrip the capacity of the land to feed its inhabitants, a claim that later readers, including Charles Darwin, took up outside economics.
 
 ## The Intellectual Motive: A Reply to the Idealists
 
@@ -30,7 +30,7 @@ Malthus wrote *An Essay on the Principle of Population* (1798) originally as a d
 
 ## Positive and Preventive Checks
 
-Malthus distinguished between two kinds of "checks" that restore the balance between population and resources. **Positive checks** (famine, disease and war) raise the death rate directly. **Preventive checks** (delaying marriage and moral restraint in procreation) lower the birth rate voluntarily. Malthus, given his religious background, preferred moral preventive checks to coercive positive ones. Yet he remained pessimistic about societies' capacity to adopt voluntary restraint sufficient to avoid the harsh positive checks.
+Malthus distinguished checks that restore a balance between population and resources. **Positive checks** (famine, disease and war) raise the death rate. **Preventive checks** lower the birth rate. In the 1798 essay the preventive check is largely "vice"; from the much enlarged second edition of 1803 he added "moral restraint" (delay of marriage, with chastity) and presented it as the check he preferred. He remained doubtful that it would be practised widely enough to avoid the positive checks.
 
 ## Opposition to the Poor Laws
 
@@ -44,13 +44,13 @@ Malthus was bound to David Ricardo by a long personal friendship marked by a dee
 
 Among the most notable paradoxes in the history of ideas is that **Charles Darwin** explicitly acknowledged his direct debt to reading Malthus's essay when formulating the idea of **natural selection**. The idea is that living organisms reproduce faster than their resources can sustain, creating a "struggle for existence" in which the lineages most suited to their environment prevail. This metaphor was transferred directly from Malthus's population logic into the field of biology.
 
-## A Pioneering Academic Chair
+## The Haileybury chair
 
-In 1805 Malthus became professor of modern history and political economy at the East India College in Haileybury, which the British East India Company established to train its future administrative officials before sending them to work in colonised India. This appointment is generally regarded as the first academic post in political economy in Britain, which made Malthus an institutional pioneer in teaching the field academically, independently of his direct theoretical impact on the principle of population.
+In 1805 Malthus was appointed professor of history and political economy at the East India College, Haileybury, which the East India Company set up to train its administrators. The college began teaching in 1806. The chair is widely treated as the first professorship of political economy in Britain. Earlier Scottish lecture courses, such as Dugald Stewart's in Edinburgh, were not chairs of that title.
 
 ## Later Interest in the Problem of Effective Demand
 
-Alongside his famous population theory, Malthus developed in his later book *Principles of Political Economy* (1820) an early interest in the question of effective aggregate demand. He warned, contrary to Ricardo's and Say's optimism about the law of markets, of the possibility of a general glut in production if saving exceeded actual investment. This aspect of his thought attracted renewed interest in the twentieth century, when some economists, including John Maynard Keynes himself, regarded it as an early theoretical anticipation of Keynes's own ideas on effective demand, although Malthus never developed the idea with the analytical rigour that Keynes later applied to it.
+Alongside his famous population theory, Malthus developed in his later book *Principles of Political Economy* (1820) an early interest in the question of effective aggregate demand. He warned, contrary to Ricardo's and Say's optimism about the law of markets, of the possibility of a general glut in production if saving exceeded actual investment. In the twentieth century John Maynard Keynes, in essays and in the *General Theory*, treated Malthus's discussion of gluts as an early argument about effective demand. Malthus did not set the argument out in the formal terms Keynes later used, and historians disagree about how close the two theories are.
 
 ## A Harsh and Enduring Popular Reception
 
@@ -60,4 +60,5 @@ Malthus suffered from a negative popular image that persisted for decades after 
 
 - Malthus, Thomas Robert. *An Essay on the Principle of Population*. J. Johnson, 1798.
 - Winch, Donald. *Malthus*. Oxford University Press, 1987.
+- Malthus, Thomas Robert. *Principles of Political Economy*. John Murray, 1820.
 - James, Patricia. *Population Malthus: His Life and Times*. Routledge & Kegan Paul, 1979.

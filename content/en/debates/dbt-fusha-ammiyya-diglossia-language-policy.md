@@ -24,7 +24,7 @@ A linguistic, political and educational debate that has continued since the late
 
 ## The origin of the debate: Orientalist proposals and early reform
 
-From the late 19th century and the early 20th century, European Orientalists and reformers made explicit proposals for adopting Egyptian colloquial as the basis for writing and literature. Wilhelm Spitta published a grammar of Egyptian colloquial in 1880, and the engineer William Willcocks argued in 1893 that Egyptian colloquial should replace the classical language in writing. They argued that the wide gap between written Fuṣḥā and the everyday spoken colloquial slows the eradication of illiteracy and makes primary education difficult for children who effectively learn a "foreign language" within their schools. These proposals met with broad rejection from the intellectuals of the Nahda (Arab Renaissance), who saw in Fuṣḥā the bond of cultural, religious and national unity among the Arab countries and the means of connecting with the Islamic and literary heritage spanning centuries.
+From the late 19th century, European scholars described Egyptian colloquial in detail, and some reformers proposed it as a basis for writing. Wilhelm Spitta's grammar of Egyptian colloquial appeared in 1880 as a description, not as a language-policy programme. The engineer William Willcocks argued in a lecture of 1893 that Egyptian colloquial should replace the classical language in writing. They argued that the wide gap between written Fuṣḥā and the everyday spoken colloquial slows the eradication of illiteracy and makes primary education difficult for children who effectively learn a "foreign language" within their schools. These proposals met with broad rejection from the intellectuals of the Nahda (Arab Renaissance), who saw in Fuṣḥā the bond of cultural, religious and national unity among the Arab countries and the means of connecting with the Islamic and literary heritage spanning centuries.
 
 ## The two sides of the contemporary debate
 
@@ -49,11 +49,11 @@ This debate often cites the experiences of other countries that faced a similar 
 
 ## The impact of social media on the debate
 
-Social media platforms have reshaped the field of this debate in practice since the first decade of the 21st century. They provided, for the first time, a wide space for everyday colloquial writing on an unprecedented mass scale (comments, posts and messages). Many users now write in colloquial directly in contexts where colloquial was not traditionally written (such as public political debate). Some linguistic researchers see this as a new "written" diglossia that did not previously exist, when colloquial writing was limited to theatrical dialogue and popular song. Meanwhile, formal, journalistic and academic writing remains almost exclusively Fuṣḥā at present.
+Social media platforms have reshaped this debate in practice since the first decade of the 21st century. They greatly widened everyday colloquial writing (comments, posts and messages), beyond older written uses such as dialogue in theatre, fiction and song. Many users now write in colloquial directly in contexts where colloquial was not traditionally written (such as public political debate). Some researchers treat this mass colloquial writing as an extension of diglossia into new written domains. Formal, journalistic and academic writing remains largely Fuṣḥā.
 
 ## Sources
 
 - Ferguson, Charles A. "Diglossia." *Word*, vol. 15, no. 2, 1959, pp. 325-340.
-- Maamouri, Mohamed. *Language Education and Human Development: Arabic Diglossia and Its Impact on the Quality of Education in the Arab Region*. Discussion paper, 1998.
+- Maamouri, Mohamed. *Language Education and Human Development: Arabic Diglossia and Its Impact on the Quality of Education in the Arab Region*. Discussion paper prepared for the World Bank Mediterranean Development Forum, 1998.
 - Badawi, El-Said. *Mustawayat al-ʿArabiyya al-muʿasira fi Miṣr*. Dar al-Maʿarif, 1973.
 - Holes, Clive. *Modern Arabic: Structures, Functions, and Varieties*. Georgetown University Press, 2004.

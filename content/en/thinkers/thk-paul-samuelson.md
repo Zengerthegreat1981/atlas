@@ -24,7 +24,7 @@ gaps: []
 ---
 # Paul Samuelson
 
-**Paul Anthony Samuelson** was an American economist regarded as one of the most influential figures in shaping modern academic economics through his rigorous mathematical style. He was the first American to win the Nobel Prize in Economics, in 1970, and is the author of the most famous textbook in the history of the discipline, in which he set out the formulation of the "neoclassical-Keynesian synthesis" that dominated the teaching of economics for decades.
+**Paul Anthony Samuelson** was an American economist regarded as one of the most influential figures in shaping modern academic economics through his rigorous mathematical style. He was the first American to receive the Nobel Memorial Prize in Economic Sciences, in 1970, and the author of *Economics*, a textbook used very widely for decades, in which he set out a formulation of the "neoclassical-Keynesian synthesis".
 
 ## From Harvard to MIT
 
@@ -36,7 +36,7 @@ In 1947 Samuelson published *Foundations of Economic Analysis*, based on the doc
 
 ## The neoclassical-Keynesian synthesis in a textbook
 
-In 1948 Samuelson published his textbook *Economics*, which became the best-selling reference textbook in the history of economics teaching. It sold millions of copies and was taught to generations of students around the world. In this book Samuelson set out the formulation of the "neoclassical-Keynesian synthesis", in which Keynes's tools for managing aggregate demand in the short run apply when unemployment and excess productive capacity exist, while neoclassical principles of efficiency regain their force as the economy approaches full employment.
+In 1948 Samuelson published his textbook *Economics*. It sold in very large numbers and was taught to generations of students. In this book Samuelson set out the formulation of the "neoclassical-Keynesian synthesis", in which Keynes's tools for managing aggregate demand in the short run apply when unemployment and excess productive capacity exist, while neoclassical principles of efficiency regain their force as the economy approaches full employment.
 
 ## The Cambridge capital controversy
 
@@ -48,15 +48,15 @@ Samuelson received the Nobel Memorial Prize in Economic Sciences in 1970 "for th
 
 ## His relationship with monetarism and mutual critique
 
-Samuelson engaged in an extended critical dialogue with Milton Friedman about the effectiveness of Keynesian fiscal policy versus monetarist monetary policy. Samuelson defended the continued usefulness of managing aggregate demand with fiscal tools alongside monetary ones. Friedman argued that the traditional Phillips curve offered no stable trade-off, a view that gained support after the stagflation of the 1970s. This disagreement represents one of the most important intellectual axes in the history of twentieth-century macroeconomics.
+Samuelson engaged in an extended critical dialogue with Milton Friedman about the effectiveness of Keynesian fiscal policy versus monetarist monetary policy. Samuelson defended the continued usefulness of managing aggregate demand with fiscal tools alongside monetary ones. Friedman argued that the traditional Phillips curve offered no stable trade-off, a view that gained support after the stagflation of the 1970s. This disagreement was a major axis of twentieth-century macroeconomics.
 
 ## An extended academic family
 
-Samuelson was the uncle of the economist Lawrence Summers, who later served as United States Treasury Secretary and as president of Harvard University. Summers's father, the economist Robert Summers, was Samuelson's brother-in-law.
+Samuelson was the uncle of the economist Lawrence Summers, who later served as United States Treasury Secretary and as president of Harvard University. Lawrence's father, the economist Robert Summers, was Samuelson's brother (born Robert Samuelson; he took the surname Summers). Lawrence's mother, Anita Summers, was the sister of Kenneth Arrow.
 
 ## A press column that shaped public opinion
 
-Samuelson wrote a regular economics column in *Newsweek* from 1966 for many years, alternating with Milton Friedman, who wrote a column expressing the opposing monetarist view. This journalistic arrangement allowed the American public to follow one of the most important theoretical economic disputes of the twentieth century, in a relatively simplified language, every week. It made specialist academic debate part of the general economic conversation accessible to non-specialists in that era, at a time when specialist economic journalism was far less widespread than it is today. The columns appeared in the late 1960s and 1970s.
+Samuelson wrote a regular economics column in *Newsweek* from 1966 for many years, alternating with Milton Friedman, who wrote a column expressing the opposing monetarist view. This arrangement let a general readership follow the dispute between Keynesian and monetarist views in relatively plain language. It made specialist academic debate part of the general economic conversation accessible to non-specialists in that era, at a time when specialist economic journalism was far less widespread than it is today. The columns appeared in the late 1960s and 1970s.
 
 ## Sources
 

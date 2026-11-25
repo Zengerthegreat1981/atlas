@@ -1,0 +1,105 @@
+con-act-acceptance: added the 2001 relational frame theory volume to Sources and restored the 1996 experiential-avoidance article subtitle
+con-adolescent-depression: added a prevalence section from Thapar et al. 2012 and cleared the prevalence gap
+con-antidepressants-ssri: corrected Bryan Molloy’s name; qualified the Cipriani 2018 ranking; dated the Moncrieff review to Molecular Psychiatry 2023; added Schildkraut 1965
+con-antipsychotics-mechanisms: repaired the Carlsson and Lindqvist sentence; changed US clozapine from “reintroduced” to 1989 approval; aligned the 2000 Nobel wording; added the Kane 1988 trial to Sources
+con-antisocial-personality: added Cleckley, Robins, and the DSM-III behavioral criteria; replaced the Merck Manual citation
+con-anxiety-neurocircuitry: added LeDoux’s 2014 distinction between threat circuitry and the feeling of fear
+con-anxiolytics-benzodiazepines: replaced “demonstrated” for the 1977 binding-site papers and added Braestrup and Squires
+con-attachment-theory: corrected the Harlow and Romanian-adoptee wording; added Bowlby 1951, Main and Solomon 1986, the ERA monograph, and Ibn al-Jazzar to Sources
+con-autism-spectrum: added Asperger 1944, Wing and Gould 1979, and the retracted Wakefield et al. 1998 paper to Sources
+con-bipolar-spectrum: aligned hypomania with DSM marked-impairment wording; added NCS-R prevalence and cleared the gap
+con-body-dysmorphic: stated that the one-hour preoccupation marker is a research convention, not a DSM-5-TR criterion
+con-borderline-personality: added community prevalence and the Zanarini and Gunderson course findings; cleared the prevalence gap
+con-cbt-foundations: dropped the “two founders” label; added the 1977 Rush trial and the 1996 Jacobson component analysis
+con-childhood-anxiety: active_start set to 1909 (Little Hans); dropped the rounded CAMS response percentage; added the 2004 TADS citation named in the text.
+con-competency-evaluation: language set to English; Melton et al. 4th edition dated 2017.
+con-cultural-competence: softened the claim about al-Ruhawi; added Cross et al. 1989, cited in the body.
+con-culture-bound-syndromes: corrected editors to Simons and Hughes; added Dols 1992, cited in the body.
+con-depression-subtypes: language set to English; added history, latitude-dependent prevalence limits, and the four-week peripartum window; removed the prevalence gap; added Lewy et al. 1987.
+con-developmental-trajectories: added Murray and Lewis 1987 and Caspi et al. 2003 and 2014, all cited in the body.
+con-diagnostic-comorbidity: added Boyd et al. 1984 and Kessler et al. 2005 and a note that pair-wise rates are method-dependent; left the specific-rate gap.
+con-diagnostic-criteria-evolution: language set to English; softened "revolution" and category-count claims; fixed the Kawa and Giordano citation; added Feighner 1972 and the 1978 Research Diagnostic Criteria.
+con-dialectical-behavior-therapy: language set to English.
+con-dimensional-diagnosis: completed the Verheul 2005 citation; clarified that personality difficulty is not a disorder diagnosis.
+con-dissociation-trauma: active_start set to 1889; language set to English; added Janet and separated dissociation from tonic immobility.
+con-dopamine-hypothesis: softened the "final" framing; added Seeman et al. 1976 and Creese, Burt, and Snyder 1976.
+con-dopamine-psychosis: language set to English; named Carlsson and Lindqvist 1963; removed the one-in-four treatment-resistance figure; added Carlsson and Lindqvist 1963 and Davis et al. 1991.
+con-dsm5-criteria: limited worldwide-use claim; dated the task force to the early-2000s research agenda (Kupfer, First, and Regier 2002) and replaced the vague psychiatry.org source
+con-epigenetic-mental-illness: marked SLC6A4 methylation findings as inconsistent; tied FKBP5 to the Klengel et al. 2013 report already in Sources
+con-ethnopsychiatry: replaced the over-specific Porot 1918 paraphrase with what that article actually claims
+con-exposure-therapy: removed duplicated Bouton wording; added Bouton 2004 to Sources
+con-family-systems-therapy: stopped dating systems theory as the 1950s basis; softened "demonstrated" for expressed emotion; added Bertalanffy, Milan team, Sharabi, and Barakat to Sources; dropped the claim that Islamic thought makes the family a healing resource
+con-fmri-pet-findings: set active_start to 1975; removed a dangling cross-reference; limited the "no approved imaging test" claim; added Wong 1986, Farde 1988, and Hariri 2002
+con-gaba-glutamate: corrected the claim that ketamine was developed from the glutamate hypothesis
+con-gad-generalized: softened the amygdala-hyperactivity claim
+con-geriatric-depression: narrowed the suicide claim to the United States; added GDS and the vascular-depression hypothesis with Yesavage and Alexopoulos
+con-healing-traditions: softened blanket claims about bimaristan music therapy and routine collaboration with healers
+con-humanistic-therapy: removed "founding father"; stated Rogers's six conditions accurately; cited Motivation and Personality (1954)
+con-icd11-classification: clarified 2022 mortality vs national morbidity rollout; chapter structure; added 2024 WHO CDDR
+con-inflammation-mental-illness: language tag set to English; clinical claims left as published associations
+con-intergenerational-trauma: language tag set to English; Hirsch postmemory defined as second-generation relation to events not lived through
+con-major-depressive-disorder: language tag set to English; Brown and Harris restated as an association in the Camberwell study
+con-mental-health-human-rights: Rosenhan 1973 marked as historically influential but empirically insecure after later investigation; Cahalan 2019 added
+con-mental-health-stigma: Dardas and Simmons 2015 described as a concept analysis of published literature, not a field survey
+con-mental-illness-non-western: Watters 2010 marked as journalistic synthesis drawing on Sing Lee, not primary epidemiology
+con-migration-mental-health: language tag set to English; Berry integration claim qualified; Fazel and Steel findings aligned with the papers
+con-mood-stabilizers: dropped "most important"; removed unsecured suicide claim for abrupt lithium stop; BALANCE 2010 added to Sources
+con-narcissistic-personality: noted ICD-11 has no discrete narcissistic type
+con-neurodevelopmental-adhd: Bradley site corrected to East Providence; Volkow finding restated as receptor/transporter availability; Sonuga-Barke 2003 sourced
+con-neurodiversity-framework: Singer attribution qualified with mid-1990s collective use of "neurological diversity" (Botha et al. 2024)
+con-involuntary-commitment: checked; no substantive error requiring rewrite
+con-mentalization-therapy: checked; trial dates, books, and claims left standing
+con-ocd-disorder: replaced "desensitization" with the exposure-and-response-prevention account (feared outcome does not occur; anxiety lessens)
+con-personality-disorder-treatment: separated Bateman and Fonagy 2008 eight-year partial-hospital follow-up from the 2009 18-month outpatient trial versus structured clinical management; added the 2008 paper to Sources
+con-positive-negative-symptoms: tied Crow's type I/II proposal to the 1980 British Medical Journal paper and replaced the mismatched British Journal of Psychiatry citation
+con-prodromal-early-intervention: corrected TIPS sites (early detection in Rogaland; comparison in Oslo and Roskilde) and limited the symptom claim to later reports from that project
+con-psychedelic-therapy: moved the fourteen-month psilocybin ratings from the 2006 paper to Griffiths and colleagues 2008 and added that source
+con-psychotic-recovery: aligned Anthony's 1993 recovery wording with the published sentence
+con-psychotic-spectrum: corrected DSM-5 schizophrenia criterion A to two of five domains, not two of the first four
+con-ptsd-criteria: added DSM-5/DSM-5-TR criteria F (duration), G (impairment), and H (substance or medical exclusion)
+con-risk-assessment-dangerousness: attributed the Baxstrom cohort follow-up to Steadman and limited Monahan to the later reviews
+con-rosenhan-experiment: set active_end to 1973 for the completed study
+con-save-normal: replaced an untraceable "Diagnosis Creep" chapter citation with Frances's 2013 Annals of Internal Medicine article
+con-serotonin-dysregulation: separated Schildkraut's 1965 catecholamine hypothesis from Coppen's 1967 serotonin (indoleamine) review and added Coppen to Sources
+con-side-effects-management: added the 2004 ADA/APA consensus statement already cited in the metabolic-monitoring paragraph
+con-suicidality-risk: added the 1974 Hopelessness Scale paper that the text dates to 1974; the 1988 manual remains listed separately
+con-temperament-risk: added the 1963 Thomas–Chess volume and the 1995 Caspi and Silva paper, both already cited in the text
+con-therapeutic-alliance: corrected Horvath's coauthor from "B. D. Greenberg" to Leslie S. Greenberg and added the 1989 Working Alliance Inventory paper
+con-treatment-resistant-mood: corrected the Maudsley model's author from Abdelmalik Fekadu to Abebaw Fekadu; removed the substring "pending" inside "depending"; softened the esketamine impact claim to the 2019 FDA approval and its glutamate-related action
+con-treatment-resistant: replaced "effectiveness was confirmed" for ECT with the UK ECT Review Group's 2003 report of benefit
+con-violence-prediction: revised the HCR-20 claim so accuracy is described as modest and better than chance, matching Singh, Grann and Fazel (2011), rather than as clearly superior
+fld-psychiatry: dated Foucault's Histoire de la folie to 1961 and the English abridgement Madness and Civilization to 1965
+sch-anxiety-ocd-disorders: set active_end to مستمر; credited Meyer 1966 as describing a behavioural form of ERP rather than establishing its cognitive basis
+sch-cultural-psychiatry: replaced the gloss "matrices of social distress" with Nichter's idioms of distress and added his 1981 paper; softened Kleinman's rank
+sch-developmental-child-psychiatry: added Kanner's 1930 Johns Hopkins clinic, the 1935 textbook, and the 1953 academy, and cleared that gap; noted that Mahler's "normal autism" phase was later abandoned; softened founder and demonstration claims
+sch-diagnostic-nosology: set active_end to مستمر; noted that the 1927 ninth edition was completed with Johannes Lange; dropped the "foundation" overclaim
+sch-forensic-psychiatry: set active_end to مستمر; added a section on modest accuracy of structured risk tools (Monahan 1981; Singh, Grann and Fazel 2011) and cleared that gap; corrected Rappeport to first AAPL president; softened Steadman and Garbarino impact claims
+sch-mood-disorders: set active_end to مستمر; left subtype prevalence uncovered
+sch-neurobiology-mental-illness: removed the claim that fluoxetine was the first SSRI; distinguished zimelidine (early 1980s, withdrawn) from fluoxetine (US approval 1987); aligned the Moncrieff review with online 2022 and journal 2023
+sch-personality-disorders: set active_end to مستمر; softened the ICD-11 wording; left prevalence by type uncovered
+sch-psychotherapy-foundations: stopped attributing music therapy in bimaristans specifically to Dols; removed the substring in "depending"
+sch-psychotic-schizophrenia: set active_end to مستمر; replaced anachronistic "paranoid schizophrenia" in Kraepelin's 1899 grouping with dementia paranoides; left subtype prevalence uncovered
+sch-trauma-ptsd-studies: added the DSM-5/DSM-5-TR four-cluster PTSD structure and the DSM-5-TR source
+thk-aaron-beck: replaced the 2005-only schizophrenia citation with the 2005 review plus the 2009 Beck, Rector, Stolar and Grant book; softened founder language
+thk-allen-frances: dated the DSM-IV task-force chair to being in post by 1988, often given as 1987
+thk-arvid-carlsson: removed Lund-research gap; corrected L-DOPA clinical sequence (Ehringer, Birkmayer, Cotzias); softened dopamine-hypothesis and zimelidine claims; named Falck–Hillarp fluorescence work
+thk-david-clark: added birth (1954, Darlington) and Oxford/IoP training; updated chair and IAPT adviser role; NICE name for the 2011 paper; cleared gaps
+thk-david-kupfer: corrected Yale training, 1973 move, Thomas Detre chair, 1990 Institute of Medicine election, founding role in the International Society for Bipolar Disorders
+thk-edmund-bourne: corrected Lewis, Pearce, and Bisson 2012 review (names and findings); limited New Harbinger claim; noted Ph.D. and later titles; birth date and training details left as a gap
+thk-frederick-goodwin: corrected NIMH/ADAMHA sequence and 1992 remarks; specified two health plans, ~21,000 patients, and adjusted 2.7 hazard for suicide death; noted Solvay funding and non-randomized design
+thk-henry-steadman: added Boston College and UNC Ph.D. (1971), posts, and 2017 retirement; removed unverified Guttmacher Award; fixed jail-services citation; exact birth year left as a gap
+thk-jonas-rappeport: death 8 September 2020 (age 95) and active_end 2020; fellowship dated 1968 and not called the first; consultations include Hinckley; Isaac Ray Award 1984; exact birth date left as a gap
+thk-judith-herman: removed unverified 1968 M.D. year and Boston University residency; added birth, parents, and Cambridge Hospital; added limits on complex PTSD, stage model, and memory debates
+thk-julius-axelrod: clarified Goldwater, 1949 move to the National Heart Institute, and 1955 Ph.D.
+thk-laurence-kirmayer: added birth, McGill/UC Davis training, James McGill chair, and editor emeritus status; coauthor corrected to Daina Crafa and the 2014 paper added to Sources
+thk-nancy-andreasen: added Nebraska Ph.D. 1963, Radcliffe M.A., Donne book, M.D. 1970, residency 1973; aligned SANS/SAPS dates with the 1982 paper; noted Brave New Brain (2001)
+thk-paul-greengard: corrected Geigy, Einstein/Yale overlap and postdoctoral years; softened the claim that he ended electrical models of transmission; distinguished his phosphorylation work from the prior discovery of protein kinase A
+thk-paul-salkovskis: added documented training and posts (Maudsley 1979, Oxford 1985, PhD Reading 1990, King's 2000–2010, Bath, return to Oxford 2018); left birth date as an open gap
+thk-solomon-snyder: corrected residency/faculty dates, 2022 retirement and Lasker co-recipients; kept Pert's exclusion from the 1978 award; removed "founders" and "most cited"; noted nitric oxide synthase naming and National Medal of Science 2005
+thk-stephen-stahl: added birth year and degrees; dated Prescriber's Guide from 2005 and CNS Spectrums role as editor then emeritus; separated humoral pharmacy from 1950s psychopharmacology
+thk-theodore-millon: birthplace reconciled as New York City/Brooklyn; PhD topic and 1954 kept; Personality and Psychopathology dated 1996; DSM role and "founding father" wording narrowed; duplicate disclaimer removed; noted Journal of Personality Disorders and ISSPD
+thk-william-kraepelin: eighth edition was the last in his lifetime, ninth posthumous 1927; dementia praecox dated to 1893/1896 as well as 1899; Java paper title and colonial setting; eugenics wording limited to pre-1926 texts; dropped "first systematic classification"
+wrk-bipolar-disorder-research: NIMH directorship dated 1992–1994; Angst 1966 title corrected; Grassley 2008 payments tied to The Infinite Mind rather than the book; Arabic sources no longer described as a bipolar diagnosis
+wrk-interpretation-dreams: imprint Leipzig and Vienna, November 1899/1900; Strachey Standard Edition dated 1953 (Brill 1913 noted); id/ego/superego moved to 1923; secondary revision, day residues and later editions added; royal-road sentence aligned with Freud's wording
+wrk-rosenhan-sane: 6.8 minutes limited to psychiatrists, psychologists, residents and physicians; deinstitutionalization dated to policy already under way in 1963; individual pseudopatient charts left uncovered because they were not published
+wrk-save-normal: CDC ADHD figure qualified as parent-reported lifetime diagnosis; "most important" wording removed; Kessler, DSM-5 proposals and sources retained

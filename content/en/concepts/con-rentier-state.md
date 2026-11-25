@@ -28,7 +28,7 @@ The term goes back to Hossein Mahdavy's 1970 study of Iran, and was developed by
 
 ## The Political Effect: Loss of Incentive for Tax Accountability
 
-The concept builds a core political argument drawn from a historical comparison with Europe. When a state needs its citizens' taxes to finance itself, it is obliged to negotiate with them over political representation in return for that revenue. This historically explains the gradual emergence of European representative institutions. A rentier state, however, does not need its citizens' taxes. It therefore loses this structural incentive toward accountability, and an alternative distributive relationship arises between the state and its society, one that is not negotiated.
+The concept uses a contrast, drawn in this literature, with a stylised European fiscal history. Where a state must bargain with taxpayers for revenue, the argument goes, representation can be the price of taxation. A rentier state that receives external rent does not depend on that bargain. The literature then expects a distributive relationship, through employment, subsidies and services, with a weaker fiscal motive for accountability. The European contrast is a model used by the theory, not a full account of how representative institutions arose.
 
 ## Degrees of Rentierism: From Full to Semi-Rentier
 

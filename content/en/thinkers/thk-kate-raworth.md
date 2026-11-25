@@ -10,7 +10,7 @@ crumb: "Political Economy ← Thinkers ← Kate Raworth"
 dates: "Britain · born 1970"
 country: "United Kingdom"
 language: "English"
-economic_school: "Ecological economics and degrowth"
+economic_school: "Ecological economics"
 active_start: 2012
 active_end: "مستمر"
 edges:
@@ -23,11 +23,11 @@ gaps: []
 ---
 # Kate Raworth
 
-**Kate Raworth** is a British economist, a senior associate at the Environmental Change Institute of the University of Oxford and a visiting professor in practice at the London School of Economics. She is known for developing the "doughnut economics" model, which seeks to offer a new visual and conceptual framework for defining what she calls a "safe and just space" for human economic activity.
+**Kate Raworth** is a British economist, a senior associate of the Environmental Change Institute at the University of Oxford and professor of practice at the Amsterdam University of Applied Sciences. She is known for the "doughnut" model, a diagram of what she calls a safe and just space for economic activity.
 
 ## From field work to economic theory
 
-Raworth worked for several years on poverty and global development for the international charity Oxfam, where she published the 2012 discussion paper "A Safe and Just Space for Humanity" that first set out the doughnut, before moving to academic research at Oxford. This field background in global poverty gave her an early interest in questions of social justice, alongside her later interest in environmental limits. Together these formed the central duality of her later intellectual model.
+Before the book, Raworth worked on human development at the United Nations Development Programme and then for about a decade as a researcher at Oxfam. The 2012 Oxfam discussion paper "A Safe and Just Space for Humanity" first drew the doughnut. That sequence joined a concern with poverty to a concern with environmental limits, the two boundaries of the later model.
 
 ## The doughnut model: two boundaries, not one
 
@@ -43,7 +43,7 @@ Raworth explicitly builds on an older intellectual tradition in ecological econo
 
 ## Practical civic applications
 
-The impact of Raworth's model went beyond academic circles into concrete policy applications. The city of Amsterdam adopted the "doughnut" as a guiding framework for its post-pandemic recovery policy in 2020, and other cities have used it as well. This makes Raworth a relatively unusual case of an economist whose ideas moved quickly from a book into applied public policy.
+The model has been taken up outside universities. In 2020 the City of Amsterdam published a "city doughnut", prepared with Raworth's Doughnut Economics Action Lab, as a framework for post-pandemic recovery planning. Other municipalities have commissioned similar portraits. The status of these documents is strategic guidance, not a binding economic plan.
 
 ## Criticism of her model
 
@@ -51,7 +51,7 @@ Raworth's model has faced criticism from economists who argue that its attractiv
 
 ## A balanced position on degrowth
 
-Raworth describes herself as "agnostic" about growth, taking a position between the more radical "degrowth" current and the traditional defence of continuous growth. She holds that the right question is not "Should the economy grow or not?" but rather "Should growth in gross domestic product remain a goal in itself at all?". She proposes that rich societies in particular should abandon their "addiction to growth" as the sole measure of success, while poorer economies still need genuine growth to raise basic living standards. This distinction places her closer to Herman Daly's reconciling position than to the more abstract calls for comprehensive economic contraction.
+Raworth describes herself as "agnostic" about growth, taking a position between the more radical "degrowth" current and the traditional defence of continuous growth. She holds that the right question is not "Should the economy grow or not?" but rather "Should growth in gross domestic product remain a goal in itself at all?". She proposes that rich societies in particular should abandon their "addiction to growth" as the sole measure of success, while poorer economies still need genuine growth to raise basic living standards. The distinction is closer to Herman Daly's steady-state position than to programmes that call for a general contraction of output.
 
 ## Broad media and educational impact
 

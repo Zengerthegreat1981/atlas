@@ -23,19 +23,19 @@ gaps: []
 ---
 # John Hicks
 
-**John Richard Hicks** was a British economist regarded as one of the most influential figures in shaping modern mathematical macroeconomics and microeconomics. He was awarded the Nobel Memorial Prize in Economic Sciences in 1972, shared with Kenneth Arrow, for "their pioneering contributions to general economic equilibrium theory and welfare theory". He is also the author of the model that turned the complex ideas of John Maynard Keynes into a simple formal form that dominated economics teaching for decades.
+**John Richard Hicks** was a British economist whose formal models became standard in microeconomics and macroeconomics. He shared the Nobel Memorial Prize in Economic Sciences in 1972 with Kenneth Arrow for contributions to general equilibrium theory and welfare theory. He also recast parts of John Maynard Keynes's *General Theory* in a diagram that dominated macroeconomics teaching for decades.
 
 ## From a study of labour to macroeconomic theory
 
-Hicks began his academic career at the London School of Economics, where he wrote *The Theory of Wages* (1932), introducing the elasticity of substitution. He then moved to Cambridge and later to Manchester, and finished his career at Oxford. There he wrote his most famous article in 1937, "Mr. Keynes and the 'Classics': A Suggested Interpretation", which offered a simplified mathematical explanation of Keynes's argument in the *General Theory* only one year after its publication.
+Hicks began his academic career at the London School of Economics, where *The Theory of Wages* (1932) introduced the elasticity of substitution. He then lectured at Cambridge (1935–1938) and held a chair at Manchester (1938–1946) before moving to Oxford in 1946, where he remained. While at Cambridge he wrote "Mr. Keynes and the 'Classics': A Suggested Interpretation" (*Econometrica*, 1937), a simplified account of the *General Theory* a year after it appeared.
 
 ## The IS-LM model
 
-In that article Hicks converted Keynes's prose argument into a diagrammatic model of two curves. The **IS curve** represents equilibrium points in the goods market, where investment equals saving. The **LM curve** represents equilibrium points in the money market, where the demand for liquidity equals the supply of money. Their intersection determines the level of aggregate income and the interest rate at the same time. This model became the standard teaching language of Keynesian macroeconomics for decades. Alvin Hansen and Paul Samuelson developed it further within what came to be called the neoclassical-Keynesian synthesis.
+In that article Hicks converted Keynes's prose into a diagram of two curves. The **IS** curve is the goods-market equilibrium, where investment equals saving. The second curve, which Hicks labelled **LL**, is money-market equilibrium, where liquidity preference equals the money supply. Their intersection determines income and the interest rate together. Alvin Hansen later restated the diagram as **IS–LM**, and that version, extended by Paul Samuelson and others, became the teaching language of the neoclassical–Keynesian synthesis.
 
 ## Value and Capital: unifying demand theory
 
-In his most important book, *Value and Capital* (1939), Hicks presented a comprehensive methodological reformulation of demand theory and general equilibrium using more rigorous mathematical tools, including indifference curves (developed earlier with R. G. D. Allen in 1934) and the analysis of substitution and income effects. He moved beyond the assumption that utility is measurable, on which the early marginal economists had relied. In doing so he laid a solid mathematical foundation for modern consumer theory, which is still taught in its basic form today.
+In *Value and Capital* (1939), Hicks presented a comprehensive methodological reformulation of demand theory and general equilibrium using more rigorous mathematical tools, including indifference curves (developed earlier with R. G. D. Allen in 1934) and the analysis of substitution and income effects. He dropped the assumption that utility is cardinally measurable, on which earlier marginalists had often relied, and restated consumer theory in ordinal terms that textbooks still use.
 
 ## A later shift toward dynamics and history
 
@@ -47,11 +47,11 @@ Hicks received the Nobel Prize in Economics in 1972 for his contributions to gen
 
 ## Lasting influence on teaching and economic theory
 
-Hicks is among the most influential economists in shaping the modern mathematical style of teaching both microeconomics and macroeconomics. He combined rigorous analytical precision with a rare ability to simplify complex ideas, such as those of Keynes, into clear teaching models. This made his work a basic reference in university economics curricula around the world for decades after its original publication.
+Hicks did much to fix the mathematical style in which both microeconomics and macroeconomics were taught. His simplifications of Keynes and of demand theory remained standard references in university courses for decades.
 
 ## Intellectual self-renewal
 
-Hicks's intellectual career shows a rare readiness to revise his own ideas openly. Having early on offered an analytical tool that simplified Keynes's thought to a degree many considered a flattening, he later returned to criticize the limits of that same simplification. This intellectual humility earned his work respect even from economists who disagreed with some of his early conclusions. It also lent his model additional credibility as a teaching tool that was aware of its own limits.
+Hicks's intellectual career shows a rare readiness to revise his own ideas openly. Having offered a diagram that many readers took to flatten Keynes, he later criticized the limits of that simplification. Economists who rejected parts of the early model still treated the later self-criticism as part of the record.
 
 ## Personal and academic partnership
 
@@ -61,4 +61,4 @@ Hicks married the economist **Ursula Webb** (Ursula Hicks), who specialized in p
 
 - Hicks, John R. "Mr. Keynes and the 'Classics': A Suggested Interpretation." *Econometrica*, vol. 5, no. 2, 1937, pp. 147–159.
 - Hicks, John R. *Value and Capital*. Oxford University Press, 1939.
-- Blaug, Mark. *Great Economists Since Keynes*. Cambridge University Press, 1985.
+- Blaug, Mark. *Great Economists since Keynes*. Wheatsheaf Books, 1985.

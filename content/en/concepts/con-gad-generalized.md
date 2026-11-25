@@ -31,7 +31,7 @@ Generalized anxiety disorder is distinguished from other anxiety disorders (such
 
 ## Causes
 
-The evidence points to an interaction of several factors. Biological factors include genetic predisposition, dysregulation of neurotransmitters such as serotonin and noradrenaline, and hyperactivity in brain regions linked to threat processing, such as the amygdala. Cognitive-behavioral factors include catastrophic thinking patterns, attentional bias toward threatening information, and repeated avoidance and reassurance behaviors that keep anxiety going instead of resolving it. Environmental factors include early childhood experiences of instability or overprotection.
+The evidence points to an interaction of several factors. Biological factors discussed in the literature include genetic predisposition and altered monoamine function (serotonin and noradrenaline). Reports of amygdala and other threat-circuit differences are mixed and do not amount to a diagnostic marker. Cognitive-behavioral factors include catastrophic thinking patterns, attentional bias toward threatening information, and repeated avoidance and reassurance behaviors that keep anxiety going instead of resolving it. Environmental factors include early childhood experiences of instability or overprotection.
 
 ## Treatment
 

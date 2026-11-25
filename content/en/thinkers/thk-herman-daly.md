@@ -10,7 +10,7 @@ crumb: "Political Economy ← Thinkers ← Herman Daly"
 dates: "United States · 1938 – 2022"
 country: "United States"
 language: "English"
-economic_school: "Ecological economics and degrowth"
+economic_school: "Ecological economics"
 active_start: 1968
 active_end: 2022
 edges:
@@ -23,7 +23,7 @@ gaps: []
 ---
 # Herman Daly
 
-**Herman Daly** is an American economist. He taught at Louisiana State University, worked as a senior economist in the environment department of the World Bank (1988–1994), and then became a professor at the University of Maryland. He is regarded as one of the founding fathers of the contemporary field of ecological economics, and is known for his radical critique of the assumption that unlimited economic growth is a valid policy goal with no physical constraint.
+**Herman Daly** was an American economist. He taught at Louisiana State University, worked as a senior economist in the environment department of the World Bank (1988–1994), and then became a professor at the University of Maryland's School of Public Policy. He was a leading figure in ecological economics and a persistent critic of treating unlimited economic growth as a policy goal without physical constraint.
 
 ## From Inside the World Bank to a Critic of Growth
 
@@ -35,7 +35,7 @@ In his book *Steady-State Economics* (1977), Daly presented an explicit alternat
 
 ## The Second Law of Thermodynamics as the Basis of Analysis
 
-Daly grounded his position in the second law of thermodynamics (entropy). Drawing on the work of his teacher, the Romanian-born economist Nicholas Georgescu-Roegen, he showed that every economic activity transforms matter and energy of low entropy (relatively ordered natural resources) into matter and energy of high entropy (waste and dissipated heat). This process is physically irreversible under the laws of nature themselves, regardless of how advanced the technology used for this transformation is.
+Daly grounded his position in the second law of thermodynamics (entropy). Drawing on Nicholas Georgescu-Roegen, under whom he studied at Vanderbilt University, he argued that economic activity transforms low-entropy matter and energy (ordered natural resources) into high-entropy waste and dissipated heat. That transformation is physically irreversible, whatever the technology used.
 
 ## Critique of the Idea of "Decoupling" Growth from Resource Use
 
@@ -49,9 +49,9 @@ Daly carefully distinguished conceptually between "growth" (a quantitative incre
 
 Daly's work laid the intellectual groundwork for the later European degrowth movement, though it differed from it in emphasis. Daly preferred "steady state" (stabilisation of size at a certain level) to explicit "degrowth" (deliberate contraction). He held that the most suitable goal is to reach a sustainable level and then stabilise there, not to continue deliberate contraction indefinitely. This is a subtle but important distinction between his current and the more radical degrowth current.
 
-## Founder of a New Academic Platform
+## An academic platform for ecological economics
 
-In 1989 Daly helped found the International Society for Ecological Economics and its peer-reviewed journal, *Ecological Economics*. With the theologian John B. Cobb Jr. he also wrote *For the Common Good* (1989), which proposed an Index of Sustainable Economic Welfare as an alternative to GDP. This provided an independent academic platform that distinguished the field from the mainstream environmental economics, which treats the environment primarily as a source of external distortions that can be corrected through pricing within the standard neoclassical framework, without questioning the assumption of continuous growth itself, which Daly rejects radically.
+In 1989 Daly was among the founders of the International Society for Ecological Economics. The society's journal, *Ecological Economics*, began the same year, with Robert Costanza as its first editor. With the theologian John B. Cobb Jr. he also wrote *For the Common Good* (1989), which proposed an Index of Sustainable Economic Welfare as an alternative to GDP. This provided an independent academic platform that distinguished the field from the mainstream environmental economics, which treats the environment primarily as a source of external distortions that can be corrected through pricing within the standard neoclassical framework, without questioning the assumption of continuous growth itself, which Daly rejected.
 
 ## Critique of International Development Institutions
 

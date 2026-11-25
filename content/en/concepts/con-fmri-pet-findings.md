@@ -7,7 +7,7 @@ level: "متقدم"
 title: "fMRI & PET Scan Findings"
 en: "fMRI & PET Scan Findings"
 crumb: "Psychiatry ← Concepts ← fMRI & PET Scan Findings"
-active_start: 1990
+active_start: 1975
 active_end: "مستمر"
 language: "English"
 edges:
@@ -32,7 +32,7 @@ Functional neuroimaging, whose most important techniques are functional magnetic
 
 ## Technical Origins
 
-Seiji Ogawa and colleagues described blood-oxygenation-level-dependent (BOLD) contrast in the *Proceedings of the National Academy of Sciences* in 1990, which led to human fMRI in the early 1990s, a technique that involves no ionizing radiation and offers better spatial resolution than PET. PET was developed in the 1970s by Michael Phelps, Edward Hoffman, and others. A study by Wong and colleagues in *Science* in 1986 reported elevated D2 receptor binding by PET in patients with schizophrenia who had not received medication, a finding that was not consistently replicated. PET studies from the late 1980s (Farde and colleagues) went on to measure how much of the D2 receptor a given antipsychotic occupies (see the entry on Antipsychotic Mechanisms).
+Seiji Ogawa and colleagues described blood-oxygenation-level-dependent (BOLD) contrast in the *Proceedings of the National Academy of Sciences* in 1990, which led to human fMRI in the early 1990s, a technique that involves no ionizing radiation and offers better spatial resolution than PET. PET was developed in the 1970s by Michael Phelps, Edward Hoffman, and others. A study by Wong and colleagues in *Science* in 1986 reported elevated D2 receptor binding by PET in patients with schizophrenia who had not received medication, a finding that was not consistently replicated. PET studies from the late 1980s (Farde and colleagues) went on to measure how much of the D2 receptor a given antipsychotic occupies.
 
 ## Key Findings
 
@@ -44,7 +44,7 @@ The field has faced strong criticism. In *Perspectives on Psychological Science*
 
 ## Clinical Use and Its Limits
 
-To date, there are no imaging tests approved for diagnosing a psychiatric disorder in routine practice. Imaging's role is limited to ruling out organic causes. Activity varies between individuals, and medications, smoking, sleep, and movement all affect the signal. A mental illness cannot be reduced to colored images. A statistical result at the level of groups does not automatically become a criterion at the level of the individual. The tendency of brain images to lend exaggerated authority to claims in media and in courtrooms is also criticized.
+No fMRI or receptor-PET measure is an established routine test for diagnosing the major psychiatric syndromes. Structural and molecular imaging is used to evaluate some neurocognitive disorders, including Alzheimer's disease, and to exclude neurological disease. Activity varies between individuals, and medications, smoking, sleep, and movement all affect the signal. A mental illness cannot be reduced to colored images. A statistical result at the level of groups does not automatically become a criterion at the level of the individual. The tendency of brain images to lend exaggerated authority to claims in media and in courtrooms is also criticized.
 
 ## Sources
 
@@ -56,3 +56,6 @@ To date, there are no imaging tests approved for diagnosing a psychiatric disord
 - Vul, E., Harris, C., Winkielman, P., & Pashler, H. (2009). Puzzlingly high correlations in fMRI studies of emotion, personality, and social cognition. Perspectives on Psychological Science, 4(3), 274–290.
 - Eklund, A., Nichols, T. E., & Knutsson, H. (2016). Cluster failure: why fMRI inferences for spatial extent have inflated false-positive rates. *Proceedings of the National Academy of Sciences*, 113(28), 7900–7905.
 - Marek, S., et al. (2022). Reproducible brain-wide association studies require thousands of individuals. Nature, 603, 654–660.
+- Wong, D. F., et al. (1986). Positron emission tomography reveals elevated D2 dopamine receptors in drug-naive schizophrenics. *Science*, 234, 1558–1563.
+- Farde, L., Wiesel, F. A., Halldin, C., & Sedvall, G. (1988). Central D2-dopamine receptor occupancy in schizophrenic patients treated with antipsychotic drugs. *Archives of General Psychiatry*, 45, 71–76.
+- Hariri, A. R., et al. (2002). Serotonin transporter genetic variation and the response of the human amygdala. *Science*, 297, 400–403.

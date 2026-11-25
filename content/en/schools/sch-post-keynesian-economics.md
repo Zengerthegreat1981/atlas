@@ -40,11 +40,11 @@ The Polish economist Michał Kalecki developed results similar to Keynes's on ef
 
 ## Hyman Minsky: Structural Financial Instability
 
-Hyman Minsky made one of the school's most important original contributions: the **financial instability hypothesis**. It holds that long periods of economic stability generate their own rising financial fragility. As the apparent stability persists, borrowers and lenders gradually accept higher risks, until the financial structure reaches a critical point at which a relatively small shock causes it to collapse. The idea was widely rediscovered after the global financial crisis of 2008.
+Hyman Minsky's main original contribution was the **financial instability hypothesis**. It holds that long periods of economic stability generate their own rising financial fragility. As the apparent stability persists, borrowers and lenders gradually accept higher risks, until the financial structure reaches a critical point at which a relatively small shock causes it to collapse. The idea was widely rediscovered after the global financial crisis of 2008.
 
 ## The Cambridge Capital Controversy
 
-Joan Robinson, Piero Sraffa (whose *Production of Commodities by Means of Commodities*, 1960, was a key text) and Nicholas Kaldor formed the British wing of the **Cambridge capital controversy** against economists at the Massachusetts Institute of Technology (Paul Samuelson and Robert Solow). They criticized the neoclassical concept of "capital" as a single homogeneous quantity that can be measured independently of the prices of distribution. Their argument was that this concept logically undermines the marginal productivity theory of capital, on which the entire neoclassical theory of distribution is built.
+Joan Robinson, Piero Sraffa (whose *Production of Commodities by Means of Commodities*, 1960, was a key text) and Nicholas Kaldor formed the British wing of the **Cambridge capital controversy** against economists at the Massachusetts Institute of Technology (Paul Samuelson and Robert Solow). They criticized the neoclassical concept of "capital" as a single homogeneous quantity that can be measured independently of the prices of distribution. Their argument was that this concept undermines the marginal productivity theory of capital used in neoclassical accounts of distribution. The controversy did not produce a single agreed winner, but it forced mainstream theory to state its capital assumptions more carefully.
 
 ## Growth and Distribution in Kaldor and Robinson
 

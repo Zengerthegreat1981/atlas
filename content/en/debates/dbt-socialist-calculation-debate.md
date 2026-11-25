@@ -30,7 +30,7 @@ Ludwig Mises ignited the debate with his article "Economic Calculation in the So
 
 ## Lange's response: accounting prices and market simulation
 
-Oskar Lange offered the most famous socialist response to Mises's argument in his pivotal essay "On the Economic Theory of Socialism" (1936–1937). He proposed that a central planning board could set hypothetical accounting prices (shadow prices) for the means of production, and then direct the managers of public enterprises to act as if these prices were real, adjusting them gradually through trial and error in response to actual surpluses or shortages of quantities supplied and demanded, exactly as the hypothetical "auctioneer" in Léon Walras's model of general equilibrium does. Abba Lerner shared in developing similar arguments with Lange, adding details on how the correct marginal prices of factors of production could be determined in a planned economy.
+Oskar Lange offered the best-known socialist response in "On the Economic Theory of Socialism" (1936–1937). A central planning board would announce accounting prices for the means of production and instruct managers of public enterprises to minimise cost and equate price to marginal cost, while the board adjusted those prices by trial and error when goods were in surplus or shortage. The procedure is the Walrasian tâtonnement, applied to a public economy. Abba Lerner was not the co-author of that essay. In articles of the 1930s and in *The Economics of Control* (1944) he developed the related rule that each output should be priced at marginal cost. Fred M. Taylor's 1929 American Economic Association address had already sketched a trial-and-error price board.
 
 ## Hayek's response: the problem of knowledge, not calculation
 
@@ -50,11 +50,16 @@ This debate was invoked again in analysing the actual difficulties of central pl
 
 ## Influence on the design of later socialist economic reforms
 
-The debate was invoked again in discussions of reform in some socialist economies during the 1960s and 1970s, when Yugoslavia and Hungary attempted to introduce elements of market mechanisms and administrative decentralization within a general framework of public ownership of the means of production. These attempts were sometimes regarded as partial applications of Lange's early theoretical ideas on iterative accounting prices, although the actual historical and political contexts differed substantially from the abstract model he proposed in the 1930s.
+Market-socialist reforms were later discussed against this background. Yugoslavia's workers' self-management, developed from the 1950s, and Hungary's New Economic Mechanism of 1968 introduced market elements under public ownership. They were not implementations of Lange's 1936–37 model. Hungarian reformers knew the Lange–Hayek literature; Yugoslav self-management had a different political origin. In both cases prices, soft budget constraints and party control diverged from the textbook trial-and-error board.
 
 ## Sources
 
-- Mises, Ludwig von. "Die Wirtschaftsrechnung im sozialistischen Gemeinwesen." *Archiv für Sozialwissenschaften*, vol. 47, 1920, pp. 86–121.
+- Barone, Enrico. "Il ministro della produzione nello stato collettivista." *Giornale degli Economisti*, 1908.
+- Mises, Ludwig von. "Die Wirtschaftsrechnung im sozialistischen Gemeinwesen." *Archiv für Sozialwissenschaften und Sozialpolitik*, vol. 47, 1920, pp. 86–121.
+- Taylor, Fred M. "The Guidance of Production in a Socialist State." *American Economic Review*, vol. 19, no. 1, 1929, pp. 1–8.
 - Lange, Oskar. "On the Economic Theory of Socialism." *Review of Economic Studies*, vol. 4, no. 1–2, 1936–1937, pp. 53–71, 123–142.
+- Hayek, Friedrich A., ed. *Collectivist Economic Planning*. Routledge, 1935.
+- Hayek, Friedrich A. "Socialist Calculation: The Competitive 'Solution'." *Economica*, n.s., vol. 7, no. 26, 1940, pp. 125–149.
 - Hayek, Friedrich A. "The Use of Knowledge in Society." *American Economic Review*, vol. 35, no. 4, 1945, pp. 519–530.
+- Lerner, Abba P. *The Economics of Control*. Macmillan, 1944.
 - Lavoie, Don. *Rivalry and Central Planning: The Socialist Calculation Debate Reconsidered*. Cambridge University Press, 1985.

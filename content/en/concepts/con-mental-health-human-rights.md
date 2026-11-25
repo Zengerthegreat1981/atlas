@@ -34,7 +34,7 @@ Islamic jurisprudence treated madness as a condition affecting legal capacity. T
 
 ## Modern Reform and Critique of the Institution
 
-It is said that Philippe Pinel unchained the inmates at Bicêtre in Paris in 1793, a story that became heavily mythologized (the hospital superintendent Jean-Baptiste Pussin had already begun to reduce the use of chains). Michel Foucault re-read the history in *Histoire de la folie* (Plon, 1961) as a history of "great confinement" of deviants, a reading that has been debated and corrected historically. Thomas Szasz, in *The Myth of Mental Illness* (Hoeber-Harper, 1961), argued that "mental illness" is a metaphor that justifies coercion. Erving Goffman analyzed "total institutions" in *Asylums* (1961). Rosenhan's study in *Science* in 1973 caused a stir when healthy volunteers who feigned auditory hallucinations were admitted to psychiatric hospitals and, once admitted, were not identified as healthy by staff. The study has been criticized on methodological grounds, but it highlighted institutional risks.
+It is said that Philippe Pinel unchained the inmates at Bicêtre in Paris in 1793, a story that became heavily mythologized (the hospital superintendent Jean-Baptiste Pussin had already begun to reduce the use of chains). Michel Foucault re-read the history in *Histoire de la folie* (Plon, 1961) as a history of "great confinement" of deviants, a reading that has been debated and corrected historically. Thomas Szasz, in *The Myth of Mental Illness* (Hoeber-Harper, 1961), argued that "mental illness" is a metaphor that justifies coercion. Erving Goffman analyzed "total institutions" in *Asylums* (1961). Rosenhan's report in *Science* in 1973 described healthy volunteers who feigned auditory hallucinations, were admitted to psychiatric hospitals, and were not identified as healthy by staff. The report influenced public debate about institutional practice. Its methods were criticized at the time, and later historical investigation, including Susannah Cahalan's *The Great Pretender* (2019), has raised serious doubts about how the study was conducted and reported. It is a weak basis for empirical claims.
 
 ## International Standards
 
@@ -56,4 +56,5 @@ The risk of applying the principle of autonomy excessively is discussed, when a 
 - Goffman, E. (1961). *Asylums: Essays on the Social Situation of Mental Patients and Other Inmates*. New York: Doubleday.
 - United Nations (2006). *Convention on the Rights of Persons with Disabilities*, Articles 12 and 14.
 - Rosenhan, D. L. (1973). On being sane in insane places. *Science*, 179(4070), 250–258.
+- Cahalan, S. (2019). *The Great Pretender*. New York: Grand Central Publishing.
 - Drew, N., et al. (2011). Human rights violations of people with mental and psychosocial disabilities: an unresolved global crisis. *The Lancet*, 378(9803), 1664–1675.

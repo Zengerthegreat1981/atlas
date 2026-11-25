@@ -27,11 +27,11 @@ gaps: []
 
 ## Definition
 
-Penelope Brown is an American linguistic anthropologist who worked for many years as a researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, the Netherlands. Together with Stephen Levinson, she is regarded as the founder of the reference "Politeness Theory" in pragmatics, one of the most widely used theoretical frameworks for studying how speakers manage their social relationships through language.
+Penelope Brown is an American linguistic anthropologist who worked for many years as a researcher at the Max Planck Institute for Psycholinguistics in Nijmegen, the Netherlands. Together with Stephen C. Levinson, she set out the account of linguistic politeness that became a standard reference in pragmatics for studying how speakers manage social relationships through language.
 
 ## Historical context
 
-In developing her theory, Brown drew on direct anthropological fieldwork she conducted on **Tzeltal** (a Mayan language spoken in the Mexican state of Chiapas). She studied in detail the ways of addressing, politeness, apology and requesting in a local non-Western community, in parallel with similar studies conducted by Levinson. Their central joint work was first published as an article in 1978, then in expanded book form in 1987 under the title *Politeness: Some Universals in Language Usage*, which became one of the most cited works in the history of pragmatics.
+In developing the theory, Brown drew on anthropological fieldwork on **Tzeltal** (a Mayan language spoken in the Mexican state of Chiapas). She studied address, politeness, apology and requesting in a local community, while Levinson drew on Tamil material from South India; English supplied a third comparison. Their joint essay appeared in 1978, then in book form in 1987 as *Politeness: Some Universals in Language Usage*, which has been cited very widely in pragmatics.
 
 ## Main ideas and method
 
@@ -39,7 +39,7 @@ The Brown and Levinson theory is built on borrowing the concept of "face" from t
 
 ## Research on language acquisition and spatial cognition
 
-Besides politeness theory, Brown is known for influential research in the field of cross-cultural first language acquisition. She studied how Tzeltal children acquire their ability to use strategies of softening and politeness in their early years, showing that this acquisition begins at an earlier age and in a more complex manner than earlier studies, which were based primarily on English, had assumed. She also participated in large comparative research projects conducted at the Max Planck Institute on how different languages encode space and direction (such as using absolute coordinates like "north" and "south" versus relative coordinates like "right" and "left"). This research showed that Tzeltal, like other non-Western languages, relies heavily on an absolute coordinate system tied to local terrain, which sparked wide debate about the relationship between language and spatial cognition (the Sapir–Whorf hypothesis in its contemporary form).
+Besides politeness theory, Brown published research on cross-cultural first-language acquisition, including how Tzeltal children come to use mitigation and politeness. That work widened a literature that had been centered largely on English. She also took part in comparative projects at the Max Planck Institute on how languages encode space and direction. Tzeltal, on her and her colleagues' description, makes heavy use of an absolute frame tied to local terrain (roughly uphill, downhill and across), rather than the relative left/right system familiar from English. That contrast fed a wider debate on language and spatial cognition, a contemporary form of the questions associated with Sapir and Whorf.
 
 ## Major works
 
@@ -51,7 +51,7 @@ Brown continued her research activity at the Max Planck Institute for decades af
 
 ## Impact and critique
 
-The Brown and Levinson theory had an enormous influence on pragmatics and sociolinguistics, and became the starting point for dozens of studies on politeness in different languages and cultures. In contrast, it has been criticized by researchers such as Yoshiko Matsumoto (1988) and Sachiko Ide (1989), who argued that the claim of the universality of the individual "face" concept does not adequately account for cultures such as Japanese, in which the management of social relationships rests on collective and hierarchical concepts that differ fundamentally from the implicit Western individualism of the original model. Helen Spencer-Oatey later proposed an alternative framework, "rapport management" (2000), partly in response to such criticisms. Despite these criticisms, the Brown and Levinson theory remains the basic reference framework for the study of linguistic politeness to this day.
+The Brown and Levinson theory had a wide influence on pragmatics and sociolinguistics and became a starting point for many studies of politeness in different languages. It has been criticized by researchers such as Yoshiko Matsumoto (1988) and Sachiko Ide (1989), who argued that a universal individual "face," understood in broadly Western terms, fits poorly with Japanese, where social relationships are managed through discernment and hierarchy. Helen Spencer-Oatey later proposed "rapport management" (2000) partly in response to such criticisms. The 1978/1987 model remains a standard reference, read alongside those critiques.
 
 ## Sources
 

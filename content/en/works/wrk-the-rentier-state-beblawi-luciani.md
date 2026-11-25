@@ -19,12 +19,11 @@ edges:
 - rel: "belongs_to", target: "Rentier State Theory", target_type: "مدرسة"
 related:
 - id: "sch-rentier-state-theory", title: "Rentier State Theory", type: "مدرسة"
-gaps:
-  - "Chapters by contributors other than the two editors: not yet covered"
+gaps: []
 ---
 # The Rentier State
 
-An edited collective volume published in 1987 under the supervision of **Hazem el-Beblawi** and **Giacomo Luciani**, which is regarded as a foundational text of the literature on **rentier state theory** in comparative political economy. The idea of the rentier state itself goes back to Hossein Mahdavy's 1970 study of Iran, which the volume develops. It gathers chapters by multiple researchers examining a variety of Arab and Gulf cases within one shared analytical framework.
+*The Rentier State* (Croom Helm, 1987) is an edited volume by **Hazem el-Beblawi** and **Giacomo Luciani**. It is Volume II of *Nation, State and Integration in the Arab World*, a project of the Istituto Affari Internazionali. It is a standard reference for **rentier state theory** in the comparative political economy of the Middle East. The term itself comes from Hossein Mahdavy's 1970 essay on Iran, which the volume develops for Arab cases and, in one chapter, for Pahlavi Iran.
 
 ## The foundational definition of the rentier state
 
@@ -32,15 +31,15 @@ In his chapter "The Rentier State in the Arab World," El-Beblawi offers a defini
 
 ## The central political thesis: the absence of tax accountability
 
-The book builds a core political argument drawn from an implicit comparison with the emergence of the modern state in Europe. If the historical need of European states to collect taxes from their citizens obliged them to negotiate with those citizens over political representation in return for that taxation (which gradually explains the emergence of parliaments and democratic accountability), then the rentier state, which does not need its citizens' taxes to finance itself, lacks this structural impetus toward accountability. An alternative distributive relationship emerges: the state distributes the rent through public employment, subsidies and free services, and society receives without a tax channel that compels the government to consult it on public spending priorities.
+The volume's political argument uses a stylised contrast with European state-building. Where rulers who needed taxes had reason to bargain with those they taxed, a state financed by external rent is said to lack that fiscal pressure toward representation. The relationship that replaces it is distributive: the state spends rent through public employment, subsidies and services, and much of society is linked to the budget as beneficiary rather than as taxpayer. The editors present this as a structural tendency, not as a claim that every rentier state has the same political history.
 
-## The multiple case studies
+## Chapters beyond the two editors
 
-The book includes chapters on various Arab cases, including oil-producing Gulf states as the clearest examples of rentier states and countries such as Egypt, whose income depends partly on external rents such as Suez Canal fees, remittances and aid without being oil economies in the full sense. It also considers how rent dependence relates to the development of representative political institutions.
+The contents are not limited to the two definitional essays. Thomas Stauffer writes on measuring income in Arab states. Mahmoud Abdel-Fadil examines the macroeconomics of oil-rentier states in the Arab region. Michel Chatelus discusses policy attitudes toward industry and services. Hamid Ait Amara treats the state, social classes and agricultural policy. Dirk Vandewalle compares state-building in Algeria and Libya. Fathallah Oulalou and Larbi Jaidi survey fiscal resources and budgets in Algeria, Morocco, Tunisia, Libya and Mauritania. Hesham Garaibeh compares government income and taxation in Jordan, Egypt and Kuwait. Afsaneh Najmabadi writes on depoliticisation in Pahlavi Iran. Beblawi's own chapter already treats Egypt as a partial, or "semi-rentier," case, in which fees such as Suez Canal dues, remittances and aid matter alongside domestic taxation.
 
 ## Allocation states and production states
 
-In his chapter "Allocation vs. Production States," Luciani distinguishes between **allocation states**, whose revenue comes mainly from external rent and which therefore spend (allocate) that income to society, and **production states**, which depend on taxing domestic economic activity. He argues that this difference in how the state is financed shapes the relationship between state and society, including the prospects for democracy.
+In "Allocation vs. Production States: A Theoretical Framework," Luciani distinguishes **allocation states**, whose revenue comes mainly from external rent and which distribute that income, from **production states**, which depend on taxing domestic activity. He argues that this difference in finance shapes state–society relations, including the limited pressure for democracy where the state can spend without taxing.
 
 ## Impact
 
@@ -48,7 +47,7 @@ The book is among the most cited works in studies of the political economy of th
 
 ## The structure of the book and its collective editing
 
-The editors brought together contributions from researchers of different backgrounds (economists, political scientists and regional specialists) around a shared analytical framework, which gave the edited volume more theoretical coherence than is usual for such collections.
+The editors, an economist and a political economist, assembled economists and regional specialists around the fiscal basis of the state. The chapters do not all use the same method: some are theoretical, some compare budgets, and Najmabadi's is a historical study of Iran.
 
 ## Reception in academic circles
 
@@ -56,7 +55,7 @@ On its publication the book was widely taken up as offering a theoretical framew
 
 ## Renewed interest after later oil price shocks
 
-Researchers have repeatedly returned to the framework of this book when oil markets have fluctuated sharply, for example after the fall in oil prices in 2014 and the Gulf diversification plans that followed, using its concepts to assess whether rent-dependent states are really moving away from allocation towards production.
+Later work has reused the allocation/production contrast when oil prices have fallen, including after 2014, to ask whether Gulf and other rent-dependent governments were shifting state revenue toward domestic production. The 1987 volume itself does not analyse those later programmes.
 
 ## Its place in comparative political economy teaching
 

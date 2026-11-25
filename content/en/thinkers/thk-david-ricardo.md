@@ -23,7 +23,7 @@ gaps: []
 ---
 # David Ricardo
 
-**David Ricardo** was a British economist of Sephardic Jewish origin. He combined great financial success in the London bond market, which allowed him to retire early and devote himself fully to theoretical research, with being one of the most methodologically rigorous and logically abstract minds of classical political economy. Historians of economic thought regard him as the actual founder of the deductive style of economic analysis that would dominate the discipline down to the present day.
+**David Ricardo** was a British economist of Sephardic Jewish origin. He combined great financial success in the London bond market, which allowed him to retire early and devote himself fully to theoretical research, with being one of the most methodologically rigorous and logically abstract minds of classical political economy. With James Mill's encouragement he pushed classical political economy toward a spare deductive style that later theorists treated as a model.
 
 ## From Reader of Smith to Theoretical Rival
 
@@ -35,7 +35,7 @@ Ricardo contributed profoundly to the political debate of his time over the **Co
 
 ## Comparative Advantage: His Most Distinctive Contribution
 
-In *Principles*, Ricardo presented an argument that has remained among the most enduring ideas in economics: **comparative advantage**. Through his famous example of trade in wine and cloth between Portugal and England, he demonstrated mathematically that specialisation and free exchange benefit both countries, even if one of them is more productive in every good in absolute terms, provided that each country specialises in what it has a relatively lower opportunity cost of producing.
+In *Principles*, Ricardo presented an argument that has remained among the most enduring ideas in economics: **comparative advantage**. Through a numerical example of trade in wine and cloth between Portugal and England, he argued that specialisation and free exchange can benefit both countries even when one is more productive in every good in absolute terms, if each specialises in the good it produces at lower opportunity cost.
 
 ## Parliamentary Service and Direct Political Influence
 

@@ -9,7 +9,7 @@ en: "Efficient Market Hypothesis vs. Behavioral Finance"
 crumb: "Political Economy ← Debates ← Efficient Market Hypothesis vs. Behavioral Finance"
 economic_school: "Homo economicus and rational choice economics"
 active_start: 1978
-active_end: 2020
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Homo Economicus and Rational Choice Economics", target_type: "مدرسة"
 related:
@@ -28,7 +28,7 @@ Eugene Fama gave the efficient market hypothesis its canonical statement in his 
 
 ## The Behavioural Finance Critique: Systematic Collective Biases
 
-Robert Shiller, Richard Thaler and others, drawing on the heuristics-and-biases research and prospect theory (1979) of Daniel Kahneman and Amos Tversky in cognitive psychology, developed a methodological critique of the efficient market hypothesis that founded the field of "behavioural finance." They argued that real investors are not fully rational. Instead, they are subject to systematic and recurrent psychological biases (overconfidence, confirmation bias, herd behaviour, loss aversion). They further argued that these biases are not necessarily eliminated by statistically aggregating large numbers of investors, because they may be correlated and shared among them (such as waves of collective optimism or panic). As a result, they are reflected in market prices themselves rather than being corrected automatically by arbitrage. Robert Shiller showed in particular that (in 1981) that the actual volatility of stock prices is much greater than subsequent changes in dividends can explain under a simple present-value model. He interpreted this as the presence of a "speculative" or "bubble" component in prices that does not reflect purely economic fundamentals.
+Robert Shiller, Richard Thaler and others, drawing on the heuristics-and-biases research and prospect theory (1979) of Daniel Kahneman and Amos Tversky in cognitive psychology, developed a methodological critique of the efficient market hypothesis that founded the field of "behavioural finance." They argued that real investors are not fully rational. Instead, they are subject to systematic and recurrent psychological biases (overconfidence, confirmation bias, herd behaviour, loss aversion). They further argued that these biases are not necessarily eliminated by statistically aggregating large numbers of investors, because they may be correlated and shared among them (such as waves of collective optimism or panic). As a result, they are reflected in market prices themselves rather than being corrected automatically by arbitrage. Robert Shiller argued in 1981 that stock-price volatility is much greater than subsequent changes in dividends can justify under a simple present-value model with a constant discount rate. He read the excess volatility as evidence of a speculative component in prices. The result depends on that model of discount rates; defenders of efficiency replied that changing risk premia can rationalise large price movements.
 
 ## Financial Bubbles as a Testing Ground
 
@@ -36,7 +36,7 @@ Recurrent financial bubbles throughout history (the railway bubble of the ninete
 
 ## The Controversial Shared Nobel Prize of 2013
 
-The 2013 Nobel Prize in Economics caused widespread surprise when it was shared among Eugene Fama (a leading founder of the efficient market hypothesis), Robert Shiller (a leading critic of this hypothesis from the perspective of behavioural finance) and Lars Peter Hansen in the same year. This was widely interpreted as an acknowledgement by the Nobel committee that both positions contain an important partial truth. Fama's efficiency holds in the short term and for relatively easily accessible information (it is hard to predict daily price movements), while Shiller's observations about prolonged price deviations from fundamentals hold over longer horizons (a partial predictability of market returns over years, linked to initial valuation levels).
+The 2013 Sveriges Riksbank Prize in Economic Sciences was shared by Eugene Fama, a leading exponent of the efficient-market hypothesis, Robert Shiller, a leading critic of it, and Lars Peter Hansen. The citation was for empirical analysis of asset prices, not an official verdict that the two theories are equally true. Commentary often read the shared prize that way. A common working compromise, which neither author fully accepts as a settlement, is that near-term price changes are hard to forecast from public information, while valuation ratios have some association with subsequent multi-year returns.
 
 ## Regulatory and Practical Implications
 

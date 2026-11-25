@@ -23,7 +23,7 @@ gaps: []
 
 # Dan Sperber
 
-A French scholar in cognitive anthropology, philosophy, and pragmatic linguistics, born in 1942, and a researcher at the Institut Jean Nicod in Paris (CNRS) and at Central European University. He is best known for co-founding, with the British linguist Deirdre Wilson, "Relevance Theory," one of the most influential pragmatic frameworks after Gricean pragmatics itself.
+A French scholar in cognitive anthropology, philosophy, and pragmatic linguistics, born in 1942, and a researcher at the Institut Jean Nicod in Paris (CNRS) and at Central European University. He is best known for developing, with the British linguist Deirdre Wilson, "Relevance Theory," an influential pragmatic framework that followed Gricean pragmatics.
 
 ## From Anthropology to Pragmatics
 
@@ -31,7 +31,7 @@ Sperber began his career as an anthropologist, with fieldwork among the Dorze of
 
 ## Relevance Theory
 
-In their landmark book *Relevance: Communication and Cognition* (1986, revised 1995), Sperber and Wilson developed a cognitive alternative to Grice's four conversational maxims. Instead of positing multiple cooperative principles that the speaker must obey, they proposed two principles of relevance: a cognitive principle (human cognition tends to maximize relevance) and a communicative principle (every act of ostensive communication carries a presumption of its own optimal relevance), i.e. that what is said is worth the processing effort it requires, balancing the new cognitive effect against the cost of the inferential effort needed to understand it. In this way, relevance theory replaced Grice's maxims with a general cognitive account of inferential comprehension.
+In their book *Relevance: Communication and Cognition* (1986, revised 1995), Sperber and Wilson developed a cognitive account of utterance interpretation as an alternative to treating communication as a matter of following Grice's conversational maxims one by one. On the developed form of the theory there are two principles of relevance. The cognitive principle says that human cognition tends to be geared to the maximization of relevance. The communicative principle says that every act of ostensive communication carries a presumption of its own optimal relevance: the utterance is relevant enough to be worth the addressee's processing effort, and it is the most relevant one compatible with the speaker's abilities and preferences. An input is relevant when it yields positive cognitive effects (for example by strengthening, revising or adding assumptions) for a reasonable cost in effort. Comprehension, on this view, is inferential. The addressee follows a path of least effort and stops at the first interpretation that satisfies the expectation of relevance. The 1986 book stated the programme; the split between the cognitive and communicative principles was set out more explicitly in the 1995 edition and in later papers.
 
 ## Epidemiology of Representations
 
@@ -46,4 +46,4 @@ Relevance theory has had a wide influence on contemporary pragmatics, and resear
 - Sperber, Dan, & Wilson, Deirdre. *Relevance: Communication and Cognition*. Blackwell, 1986 (2nd ed. 1995).
 - Sperber, Dan. *Rethinking Symbolism*. Cambridge University Press, 1975.
 - Sperber, Dan. *Explaining Culture: A Naturalistic Approach*. Blackwell, 1996.
-- Sperber, Dan, & Mercier, Hugo. *The Enigma of Reason*. Harvard University Press, 2017.
+- Mercier, Hugo, & Sperber, Dan. *The Enigma of Reason*. Harvard University Press, 2017.

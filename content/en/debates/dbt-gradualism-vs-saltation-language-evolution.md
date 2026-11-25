@@ -22,7 +22,7 @@ A theoretical debate in the science of language evolution about the time-scale o
 
 ## The Gradualist Position
 
-Proponents of this position argue that human language evolved through a series of accumulating transitional stages, beginning with limited primitive gestural or vocal communication systems (partially resembling the communication systems of some higher primates), passing through lexical systems without complex grammar (resembling what is known as "proto-language"), and gradually arriving at the full recursive grammar that characterizes all modern human languages. This position rests on the general principle of evolutionary continuity in biology, and on studies of partial symbolic abilities in some trained higher primates, as a possible indicator of a transitional stage similar to what human ancestors went through.
+Proponents of this position argue that human language evolved through a series of accumulating transitional stages, beginning with limited primitive gestural or vocal communication systems (partially resembling the communication systems of some higher primates), passing through lexical systems without complex grammar (resembling what is known as "proto-language"), and gradually arriving at the recursive grammatical systems found in languages documented today. Whether recursion is a property of every language is itself disputed. This position rests on the general principle of evolutionary continuity in biology, and on studies of partial symbolic abilities in some trained higher primates, as a possible indicator of a transitional stage similar to what human ancestors went through.
 
 ## The Saltationist Position
 
@@ -34,7 +34,7 @@ This debate faces a fundamental methodological obstacle: the absence of any dire
 
 ## Evidence from Creole Studies and Emerging Sign Language
 
-Bickerton drew a large part of his argument from the study of Hawaiian Creole. He observed that the children of immigrant laborers who had been exposed only to "pidgin" (a simplified commercial language lacking a stable, regular grammar) developed among themselves, within a single generation, a full creole language with a regular and recursive grammar that was not present in their original linguistic input. This trend was later reinforced by the study of the emergence of Nicaraguan Sign Language, where researchers observed that deaf children isolated from any prior organized sign language gradually developed, across successive generations of students in a single school, a sign system of increasing grammatical complexity. Studies by Ann Senghas and colleagues found that later cohorts of signers made more use of discrete, combinatorial structure (for example, segmenting and sequencing the manner and path of motion) than the first cohort. This is a rare case in which the emergence of language can be observed directly and in a quasi-experimental manner.
+Bickerton drew a large part of his argument from Hawaiian Creole. He claimed that children of immigrant labourers, exposed mainly to pidgin, produced within a generation a creole with regular grammar absent from that input, and he treated this as evidence for an innate bioprogram. Later historical work on Hawaiian has disputed how sudden and how independent of input that expansion was. A separate and better documented case is Nicaraguan Sign Language. Deaf children who entered schools without a shared conventional sign language developed, across successive cohorts, a sign system of increasing structure. Ann Senghas and colleagues reported that later cohorts segmented and sequenced components of motion, such as manner and path, more than the first cohort. The case shows structure emerging in a new language; it does not by itself decide between a single mutation and gradual cultural evolution.
 
 ## The Use of Computational Simulation Models
 
@@ -54,3 +54,5 @@ Both sides also draw on evidence from the fossil anatomy of human ancestors. Deb
 - Berwick, Robert C., and Noam Chomsky. *Why Only Us: Language and Evolution*. MIT Press, 2016.
 - Kirby, Simon. "Learning, Bottlenecks and the Evolution of Recursive Syntax." In Briscoe, Ted, ed., *Linguistic Evolution through Language Acquisition*. Cambridge University Press, 2002.
 - Pinker, Steven, and Paul Bloom. "Natural Language and Natural Selection." *Behavioral and Brain Sciences*, vol. 13, no. 4, 1990, pp. 707-727.
+- Fitch, W. Tecumseh, and David Reby. "The Descended Larynx Is Not Uniquely Human." *Proceedings of the Royal Society B* 268 (2001).
+- Senghas, Ann, Sotaro Kita, and Aslı Özyürek. "Children Creating Core Properties of Language: Evidence from an Emerging Sign Language in Nicaragua." *Science* 305 (2004).

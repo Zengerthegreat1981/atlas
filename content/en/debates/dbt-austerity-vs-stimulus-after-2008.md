@@ -9,15 +9,14 @@ en: "Austerity vs. Stimulus after 2008"
 crumb: "Political Economy ← Debates ← Austerity vs. Stimulus after 2008"
 economic_school: "Keynesian economics"
 active_start: 2009
-active_end: 2015
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Keynesian Economics", target_type: "مدرسة"
 related:
 - id: "thk-john-maynard-keynes", title: "John Maynard Keynes", type: "مفكر"
 - id: "stu-reinhart-rogoff-growth-in-a-time-of-debt-2010", title: "Reinhart and Rogoff on Growth in a Time of Debt (2010)", type: "دراسة وبحث"
 - id: "stu-herndon-ash-pollin-replication-2013", title: "Herndon, Ash and Pollin's Replication Study (2013)", type: "دراسة وبحث"
-gaps:
-  - "Quantitative outcomes for Greece, Egypt and Tunisia under IMF-linked programmes: not yet covered"
+gaps: []
 ---
 
 # Austerity vs. Stimulus after 2008
@@ -34,11 +33,11 @@ Advocates of austerity, including European Union policymakers and the UK governm
 
 ## The Herndon–Ash–Pollin study and the undermining of the statistical basis of austerity
 
-One of the most prominent statistical references of the austerity argument was seriously shaken in 2013. While attempting to replicate the results of the Reinhart and Rogoff study for a graduate course, **Thomas Herndon** (with **Michael Ash** and **Robert Pollin**) found errors in the original Excel spreadsheet, including the unintended exclusion of data for several countries from an averaging formula, together with questionable data selection and weighting. Reinhart and Rogoff acknowledged the coding error but defended the broader finding that high debt is associated with lower growth. They showed that correcting these errors reveals a much weaker and less sharply discontinuous relationship between debt level and growth than the original study claimed. This provoked wide media and academic controversy about how far influential policy arguments relied on a result that did not withstand re-examination, although the causal direction between debt and growth was disputed in any case.
+One of the most prominent statistical references of the austerity argument was seriously shaken in 2013. While attempting to replicate the results of the Reinhart and Rogoff study for a graduate course, **Thomas Herndon** (with **Michael Ash** and **Robert Pollin**) found errors in the original Excel spreadsheet, including the unintended exclusion of data for several countries from an averaging formula, together with questionable data selection and weighting. Their correction, published in the *Cambridge Journal of Economics* in 2014, produced a much weaker and less sharply discontinuous relationship between debt and growth than the figure that had circulated in policy debate. Reinhart and Rogoff acknowledged the coding error but maintained that high debt was still associated with lower average growth. The episode provoked wide controversy about the use of that result in fiscal argument. The causal direction between debt and growth was disputed in any case.
 
 ## The Arab dimension: Egypt, Tunisia and IMF programmes
 
-A number of Arab economies, particularly Egypt and Tunisia after the revolutions of 2011, experienced a local version of the same debate. Their governments negotiated loan programmes with the International Monetary Fund (Tunisia in 2013, Egypt in 2016 after earlier talks stalled) that included reductions in energy and food subsidies and control of the budget deficit. This came at a time when both economies faced severe social and political pressures arising from the political transition and the disruption of economic activity after the revolution. This coincidence prompted a local debate about the same tension that governs the global debate: should the decline in economic activity be addressed through fiscal discipline that satisfies international creditors and reassures markets, or by preserving social spending and subsidies at a politically and socially highly sensitive moment?
+A number of Arab economies, particularly Egypt and Tunisia after the revolutions of 2011, experienced a local version of the same debate. Tunisia agreed an IMF Stand-By Arrangement in 2013 and an Extended Fund Facility in 2016; growth stayed weak and public debt rose. Egypt, after talks stalled, agreed an Extended Fund Facility of about 12 billion dollars in November 2016, floated the pound and cut energy subsidies in stages. Inflation rose sharply in 2017 (consumer-price inflation moved above 30 percent), while growth later recovered and the social cost of the subsidy cuts remained politically contested. In Greece, the euro-area and IMF programmes of 2010, 2012 and 2015 combined large fiscal tightening with official lending. Real GDP fell by about a quarter from 2008 to 2013, and the unemployment rate rose above 25 percent. Those outcomes did not by themselves settle the multiplier debate: programme design, the exchange-rate regime, banking crises and external adjustment differed across the three cases. They did show that front-loaded consolidation in a deep slump can coincide with large output losses, which is the point Blanchard and Leigh stressed for European forecasts.
 
 ## A question not resolved in theory
 
@@ -46,7 +45,7 @@ The debate has not been settled academically by full consensus. Later reviews, i
 
 ## Its significance as a reproduction of the 1930s debate
 
-This debate is a direct contemporary restatement of the disagreement between Keynes and Hayek in the 1930s. The same tension appears between active government stimulus to fill a demand gap, and fiscal discipline that fears the aggravation of imbalances if government intervention continues. It has been re-expressed in the language of contemporary fiscal policy and its statistical tools, rather than in the language of the original Austrian business cycle theory.
+The dispute reused an older tension between supporting demand in a slump and restraining public debt. It is sometimes narrated as a replay of Keynes versus Hayek. The parallel is only partial. Keynes's *General Theory* (1936) argued for public spending when private demand fails. Hayek's 1930s argument, in *Prices and Production* (1931) and related essays, concerned credit expansion and the structure of production, not the post-2008 case for fiscal consolidation built on sovereign spreads, expansionary austerity and the Reinhart–Rogoff threshold. The later debate was conducted mainly in the language of multipliers, debt sustainability and market access.
 
 ## Sources
 
@@ -55,3 +54,6 @@ This debate is a direct contemporary restatement of the disagreement between Key
 - Krugman, Paul. *End This Depression Now!* W. W. Norton, 2012.
 - Blanchard, Olivier, and Daniel Leigh. "Growth Forecast Errors and Fiscal Multipliers." *American Economic Review*, vol. 103, no. 3, 2013, pp. 117-120.
 - Alesina, Alberto, and Silvia Ardagna. "Large Changes in Fiscal Policy: Taxes versus Spending." *Tax Policy and the Economy*, vol. 24, 2010, pp. 35–68.
+- Giavazzi, Francesco, and Marco Pagano. "Can Severe Fiscal Contractions Be Expansionary? Tales of Two Small European Countries." *NBER Macroeconomics Annual*, vol. 5, 1990, pp. 75–111.
+- Keynes, John Maynard. *The General Theory of Employment, Interest and Money*. Macmillan, 1936.
+- Hayek, Friedrich A. *Prices and Production*. Routledge, 1931.

@@ -34,7 +34,7 @@ Michael Silverstein, Judith Irvine, and Susan Gal developed analytical tools for
 
 ## Historical Context
 
-The study of language ideology took shape as an independent analytical framework in American linguistic anthropology from the mid-1970s, influenced by Michael Silverstein's theoretical contributions on the "indexical" functions of language. That is, language signs not only convey purely conceptual meaning but also point (usually implicitly) to social contexts, identities, and relations of power. These efforts culminated in the reference review article by Kathryn Woolard and Bambi Schieffelin (1994) in the *Annual Review of Anthropology*, which established the field as a coherent and unified research framework.
+The study of language ideology took shape as an independent analytical framework in American linguistic anthropology from the mid-1970s, influenced by Michael Silverstein's theoretical contributions on the "indexical" functions of language. That is, language signs not only convey purely conceptual meaning but also point (usually implicitly) to social contexts, identities, and relations of power. These lines of work were drawn together in the review article by Kathryn Woolard and Bambi Schieffelin (1994) in the *Annual Review of Anthropology*, which treated language ideology as a connected research program.
 
 ## Silverstein's Indexical Order
 
@@ -50,7 +50,7 @@ In her fieldwork on language policy in Catalonia, Kathryn Woolard developed an i
 
 ## Mock Spanish and Covert Racism in Hill
 
-Jane Hill studied the phenomenon of "Mock Spanish" in American English, in which Anglo-American speakers use mock-Spanish phrases in a spirit of humor (such as "no problemo"). She showed how this seemingly playful practice conceals covert linguistic racism: the white speaker is allowed to play humorously with Spanish without social penalty, while actual Latino speakers are penalized for their real accent as a sign of deficiency rather than a source of humor.
+Jane Hill studied "Mock Spanish" in American English, in which Anglo-American speakers use mock-Spanish phrases in a joking register (such as "no problemo"). She argued that the practice can carry a covert racial evaluation: the white speaker borrows a comic Spanish without social penalty, while Latino speakers may be judged for a real accent.
 
 ## The Multiplicity of Ideologies in Kroskrity
 
@@ -66,3 +66,4 @@ This field links purely structural linguistic analysis with the analysis of powe
 - Woolard, Kathryn A.; Schieffelin, Bambi B. (1994). "Language Ideology." *Annual Review of Anthropology* 23.
 - Irvine, Judith T.; Gal, Susan (2000). "Language Ideology and Linguistic Differentiation." In Kroskrity, P. V. (ed.), *Regimes of Language*. School of American Research Press.
 - Hill, Jane H. (2008). *The Everyday Language of White Racism*. Wiley-Blackwell.
+- Kroskrity, Paul V. (ed.) (2000). *Regimes of Language: Ideologies, Polities, and Identities*. School of American Research Press.

@@ -43,7 +43,7 @@ Many societies explain psychological disturbance through spirits, sorcery, the e
 
 ## Trauma and Critique
 
-Derek Summerfield, in the *BMJ* in 2001, wrote a critique of exporting the diagnosis of post-traumatic stress disorder to war zones, warning against converting collective suffering into an individual illness. Ethan Watters, in *Crazy Like Us* (Free Press, 2010), showed how exporting Western categories may change the patterns of illness themselves, as in the spread of anorexia nervosa in Hong Kong. On the other hand, denying the existence of severe psychotic or depressive disorders in non-Western societies on the grounds of "cultural difference" deprives patients of care.
+Derek Summerfield, in the *BMJ* in 2001, wrote a critique of exporting the diagnosis of post-traumatic stress disorder to war zones, warning against converting collective suffering into an individual illness. Ethan Watters, in *Crazy Like Us* (Free Press, 2010), argued, drawing on clinicians such as Sing Lee, that exporting Western categories can change how distress is expressed, using the changing presentation of anorexia nervosa in Hong Kong as an example. The book is journalistic synthesis, not a primary epidemiological study. On the other hand, denying the existence of severe psychotic or depressive disorders in non-Western societies on the grounds of "cultural difference" deprives patients of care.
 
 ## Limits
 

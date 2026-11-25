@@ -12,6 +12,8 @@ crumb: "Linguistics ← Works ← The Way We Think"
 dates: "2002"
 country: "United States"
 language: "English"
+active_start: 2002
+active_end: 2002
 edges:
 - rel: "belongs_to", target: "Mental Spaces & Conceptual Blending", target_type: "مدرسة"
 related:
@@ -23,15 +25,15 @@ gaps: []
 
 ## Definition
 
-*The Way We Think: Conceptual Blending and the Mind's Hidden Complexities* is the comprehensive reference work in which the French linguist Gilles Fauconnier and the American cognitive scientist Mark Turner presented, in 2002, the mature and complete formulation of the theory of conceptual blending. They extended Fauconnier's earlier theory of mental spaces into a general framework for the whole of human cognition, rather than a linguistic tool of limited scope.
+*The Way We Think: Conceptual Blending and the Mind's Hidden Complexities* (Basic Books, 2002) is the book in which the French linguist Gilles Fauconnier and the American cognitive scientist Mark Turner set out conceptual blending at book length. They extend Fauconnier's theory of mental spaces from a model of meaning construction in language toward a general account of human cognition.
 
 ## Historical Context
 
-The two authors built on Fauconnier's earlier work in *Mental Spaces* (1985), in which he developed a model for representing how speakers construct temporary cognitive structures (mental spaces) during linguistic comprehension and reasoning, especially in contexts of counterfactual assumption and conditional reasoning. Fauconnier and Turner began their collaboration in the early 1990s and published a series of joint articles in which they gradually developed the blending model. They then brought this cumulative work together in a comprehensive book in 2002, which represents the peak of this joint research project.
+The two authors built on Fauconnier's earlier work in *Mental Spaces* (1985), in which he developed a model for representing how speakers construct temporary cognitive structures (mental spaces) during linguistic comprehension and reasoning, especially in contexts of counterfactual assumption and conditional reasoning. Fauconnier and Turner began their collaboration in the early 1990s and published a series of joint articles in which they gradually developed the blending model. They gathered that work in the 2002 book. Both continued to write on blending afterward.
 
 ## Central Ideas and Method
 
-The authors developed the "four-space blending network," which consists of two input spaces carrying two different cognitive structures; a generic space representing the abstract common structure between them; and a blended space in which selected elements from the two input spaces are projected together to produce a new structure with emergent properties that do not exist in either original space alone. The book presents this model with hundreds of diverse examples, from everyday language to mathematics, humor, art, and counterfactual reasoning, illustrating how conceptual blending explains phenomena as varied as familiar metaphors, jokes, mathematical examples, and even logical argument and innovative scientific thinking. The ambition of this work goes beyond purely linguistic analysis to a thesis about human cognition in general: conceptual blending is presented as a basic and comprehensive cognitive operation underlying all forms of human creativity, figurative thinking, and reasoning. The work also presented a set of "optimality principles" governing successful blending, including integration (the blend should be a tightly integrated scene), topology, web (maintaining the connections between the blend and the inputs), unpacking, good reason and relevance, which help explain why some blending operations succeed in producing coherent meaning while others fail.
+The authors developed the "four-space blending network," which consists of two input spaces carrying two different cognitive structures; a generic space representing the abstract common structure between them; and a blended space in which selected elements from the two input spaces are projected together to produce a new structure with emergent properties that do not exist in either original space alone. The book illustrates the model with examples from everyday language, mathematics, humor, art, and counterfactual reasoning, including familiar metaphors, jokes, and cases of argument and scientific imagination. Its claim reaches beyond linguistic analysis: conceptual blending is offered as a basic cognitive operation in creativity, figurative thought, and reasoning. The authors also discuss governing principles of successful blends, developed from their earlier papers: integration (the blend should form a coherent scene), topology, web (links between the blend and the inputs are maintained), unpacking, and good reason. These principles are meant to distinguish blends that cohere from projections that do not.
 
 ## The Relationship of Blending to Conceptual Metaphor
 
@@ -41,13 +43,13 @@ The authors clearly distinguished their model from the model of "conceptual meta
 
 This work was preceded by Fauconnier's *Mental Spaces* (1985), which laid the first theoretical foundation. The two authors also jointly published several introductory articles throughout the 1990s, in journals specialized in cognitive science, in which they gradually developed the concept of the blending network before its final formulation in this book.
 
-## Illustrative Example: The "Digital Buddhist Monk"
+## Illustrative examples
 
-The authors cite a variety of examples to illustrate the mechanism of blending. One is the "Buddhist monk" riddle: a monk climbs a mountain path one morning and descends it by the same path another day; the question is whether there is a spot he occupies at the same time on both days. Blending the two journeys into a single scene of two monks walking toward each other makes the answer evident (yes). Another is the metaphorical insult "this surgeon is a butcher," where the blend carries the incompetence that is in neither input.
+One case is the Buddhist monk riddle: a monk climbs a mountain path one day and descends it on a later day; is there a point on the path that he occupies at the same time of day on both journeys? Running the two journeys together as one scene, in which a climber meets a descender, makes a positive answer easy to see. Another is the insult "This surgeon is a butcher," in which the blend supports a judgment of incompetence that is not a property of either input taken alone.
 
 ## Impact and Criticism
 
-This work became the standard foundational reference for the theory of conceptual blending in its mature form, and profoundly influenced fields beyond linguistics, including literary studies, the history of science, the theory of creativity, and the analysis of political and advertising discourse. The framework has been criticized by some researchers (for example Raymond Gibbs), who regard the blending model as methodologically loose and hard to disprove empirically compared with more rigorous information-processing models, since it can be applied retrospectively to almost any creative phenomenon without precisely testable predictions in advance. Nevertheless, this book established conceptual blending as a standard analytical tool for studying how the human mind continually builds new meanings.
+The book is the usual full-length reference for conceptual blending, and it has been taken up in literary studies, history of science, creativity research, and the analysis of political and advertising discourse. Raymond W. Gibbs, Jr. (2000) did not reject the model. He argued that, if blending is to count as a psychological theory, its users must take falsification, alternative hypotheses, and levels of representation seriously, because an unconstrained network can be fitted to a phenomenon after the fact. The 2002 book remains the main statement against which those methodological questions are posed.
 
 ## Sources
 

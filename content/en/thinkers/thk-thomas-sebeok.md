@@ -28,7 +28,7 @@ A Hungarian-born American linguist and semiotician who coined the term "zoosemio
 
 ## From Human Semiotics to Biosemiotics
 
-Sebeok drew on Peircean semiotics and on the Tartu-Moscow school (especially Yuri Lotman), and extended them to cover non-linguistic communication: chemical signals between cells, the dance language of honeybees, and the warning calls of animals. All of these are semiotic phenomena in the precise technical sense (relations between a sign, an object, and an interpretant), not mere metaphors for "language" in the narrow human sense.
+Sebeok drew on Peircean semiotics and on the Tartu-Moscow school (especially Yuri Lotman), and extended them to cover non-linguistic communication: chemical signals between cells, the dance language of honeybees, and the warning calls of animals. On his Peircean account, these are semiotic relations among a sign, an object and an interpretant, not metaphors for language in the narrow human sense.
 
 ## Zoosemiotics
 
@@ -52,7 +52,7 @@ Sebeok helped found and lead influential international semiotic journals and ass
 
 ## Biosemiotics as an Interdisciplinary Framework
 
-Through the concept of "biosemiotics," Sebeok sought to build a methodological bridge between the humanities (linguistics, anthropology, literary criticism) and the natural sciences (biology, neuroscience, ethology). He argued that the notion of "meaning" or "significance" is not the exclusive preserve of human culture, but a deeper biological phenomenon extending to all forms of life capable of interpreting signals from their environment (even a single cell interprets chemical signals and responds to them in a way that can be precisely described semiotically). This unifying ambition made Sebeok a rare bridging figure who could speak the language of both the humanistic and the natural academic camps at once, something rare among his contemporaries, who were usually specialists in only one side.
+Through the concept of "biosemiotics," Sebeok sought to build a methodological bridge between the humanities (linguistics, anthropology, literary criticism) and the natural sciences (biology, neuroscience, ethology). He argued that the notion of "meaning" or "significance" is not the exclusive preserve of human culture, but a deeper biological phenomenon extending to all forms of life capable of interpreting signals from their environment (even a single cell interprets chemical signals and responds to them in a way that can be precisely described semiotically). That programme made him a link between humanistic semiotics and biology and ethology.
 
 ## The Debate over Animal "Language"
 

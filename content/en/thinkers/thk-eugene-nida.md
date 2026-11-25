@@ -23,7 +23,7 @@ gaps: []
 
 # Eugene Nida
 
-American linguist who founded modern translation theory through his long work translating the Bible into hundreds of languages, and who formulated an influential theoretical distinction between two kinds of translation strategy.
+American linguist whose long work on Bible translation, as a linguistic consultant rather than as the translator of each version himself, led him to formulate an influential distinction between two kinds of translation strategy.
 
 ## Formal Equivalence and Dynamic Equivalence
 
@@ -35,7 +35,7 @@ Nida developed this framework from his extensive practical experience in transla
 
 ## Impact
 
-Nida's distinction has deeply influenced translation studies and has provoked later debates about domestication and foreignization in literary translation. The distinction between formal and dynamic equivalence has become part of the basic vocabulary for teaching literary, technical and legal translation alike. Its analytical framework has been used in developing academic translator-training programs around the world, including contemporary Arabic-English translation programs. Nida is today recognized as one of the founding fathers of "Translation Studies" as an independent academic field, alongside figures such as James Holmes, who proposed the name of the field itself in the 1970s. Many later theoretical frameworks, such as skopos theory and the theory of domestication and foreignization, developed critical positions toward his original dichotomy. Nonetheless, the distinction remains the historical starting point against which every later development in translation theory is measured.
+Nida's distinction has had a wide influence on translation studies and has provoked later debates about domestication and foreignization in literary translation. Formal and dynamic equivalence became part of the vocabulary used in teaching literary, technical and legal translation. James Holmes's 1972 paper "The Name and Nature of Translation Studies" is the usual reference for the naming of the academic field; Nida's 1960s books are among the earlier linguistic contributions to it. Later frameworks, including skopos theory and Venuti's account of domestication and foreignization, took critical positions toward his dichotomy. The distinction remains a standard point of departure in histories of the field.
 
 ## Work at the American Bible Society
 
@@ -43,7 +43,7 @@ Nida worked for decades as chief linguistic consultant at the American Bible Soc
 
 ## Componential Analysis of Meaning
 
-Nida developed a systematic analytic tool he called "componential analysis." It breaks the lexical meaning of a word into a bundle of distinct minimal semantic features. For example, the word "spinster" can be analyzed into the features +human, +female, +adult, -married. The tool helped translators determine which precise semantic features must be preserved in translation into a language that may lack an exactly matching word, and which can be sacrificed without substantially harming the intended meaning.
+Nida applied componential analysis, a method already used in anthropological semantics, to translation. It breaks the lexical meaning of a word into a bundle of semantic features. A familiar textbook illustration is that a word such as "bachelor" may be described by features such as human, male, adult and unmarried. The tool was meant to help translators see which features had to be kept when the target language had no exact match, and which could be left aside.
 
 ## Later Critique of Dynamic Equivalence
 
@@ -59,9 +59,10 @@ Nida also developed the concept of "equivalent response" (later "functional equi
 
 ## Applying His Principles to Legal and Technical Translation
 
-Although the original context of Nida's work was purely religious, later translators applied the two principles of formal and dynamic equivalence to fields far removed from religious texts. Legal translation tends by its nature toward literal formal equivalence to preserve binding legal precision. Marketing and advertising translation tends toward dynamic equivalence to ensure a similarly persuasive impact on the target audience. This demonstrates the flexibility of his classificatory framework and its applicability beyond the religious context from which it originally arose.
+Although the original context of Nida's work was purely religious, later translators applied the two principles of formal and dynamic equivalence to fields far removed from religious texts. Legal translation tends by its nature toward literal formal equivalence to preserve binding legal precision. Marketing and advertising translation tends toward dynamic equivalence to ensure a similarly persuasive impact on the target audience. Later practice has used the same pair of terms well outside religious translation.
 
 ## Sources
 
 - Nida, Eugene A. (1964). *Toward a Science of Translating*. Brill.
 - Nida, Eugene A.; Taber, Charles R. (1969). *The Theory and Practice of Translation*. Brill.
+- Holmes, James S. (1972/1988). "The Name and Nature of Translation Studies." In *Translated! Papers on Literary Translation and Translation Studies*. Rodopi.

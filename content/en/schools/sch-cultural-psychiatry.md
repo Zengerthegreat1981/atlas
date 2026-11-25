@@ -29,12 +29,12 @@ The roots of the field go back to colonial ethnographic psychiatry in the early 
 
 - **Explanatory Models**: every patient and practitioner holds a particular cultural explanatory model of the cause of illness, its course, and the appropriate treatment. The physician should elicit this model explicitly rather than assume it.
 - **Social Suffering and Social Forms of Pain**: Kleinman, together with his wife Joan Kleinman, formulated an account of how social structures (poverty, political violence, migration) mediate the experience of psychological and physical suffering. This is most evident in his work on China during the Cultural Revolution.
-- **Idioms of Distress** (matrices of social distress): local cultural expressions of psychological distress that do not directly match Western diagnostic categories, such as "nervous weakness" (*shenjing shuairuo*) in China, or attribution of distress to jinn in some Arab and Islamic contexts. These must be understood in their own context rather than mechanically translated into a biomedical classification.
+- **Idioms of distress**: a term associated with Mark Nichter for local cultural expressions of psychological distress that do not map directly onto Western diagnostic categories. Examples discussed in this literature include "nervous weakness" (*shenjing shuairuo*) in China, and attribution of distress to jinn in some Arab and Islamic contexts. These must be understood in their own context rather than mechanically translated into a biomedical classification.
 - **Critique of Cross-Cultural Diagnostic Reduction**: challenging the idea that conditions such as depression appear in the same form everywhere. In many cultures, psychological distress is expressed through physical symptoms (somatization) more than through direct emotional expression.
 
 ## Key Figures
 
-- **Arthur Kleinman**: the most prominent theorist of the field, author of *Patients and Healers in the Context of Culture* (1980) and *The Illness Narratives* (1988).
+- **Arthur Kleinman**: a leading theorist of the field, author of *Patients and Healers in the Context of Culture* (1980) and *The Illness Narratives* (1988).
 - **Roland Littlewood**: a British psychiatrist and anthropologist who worked on race, migration, and mental health in Britain. With Maurice Lipsedge, he criticized ethnic biases in psychiatric diagnosis.
 - **Byron Good**: together with Kleinman, developed the approach of "meaning-centered medical anthropology," and analyzed illness meanings in Iran, including "heart distress," as a test case for the meaning-centered approach.
 - **The American Psychiatric Association's DSM work on culture**: DSM-IV (1994) introduced the Outline for Cultural Formulation and a glossary of culture-bound syndromes. DSM-5 (2013) replaced the glossary with "cultural concepts of distress" and added the Cultural Formulation Interview (CFI), a 16-question semi-structured interview with supplementary modules and an informant version, retained in DSM-5-TR (2022).
@@ -56,3 +56,4 @@ Cultural psychiatry has acquired particular importance in the study of disorders
 - Good, Byron J. *Medicine, Rationality, and Experience: An Anthropological Perspective*. Cambridge: Cambridge University Press, 1994.
 - American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders*, 5th ed. (DSM-5), "Cultural Formulation Interview". Washington, DC: APA, 2013; and DSM-5-TR, 2022.
 - Kleinman, Arthur. "Depression, Somatization and the 'New Cross-Cultural Psychiatry'." *Social Science & Medicine* 11 (1977): 3-10.
+- Nichter, Mark. "Idioms of Distress: Alternatives in the Expression of Psychosocial Distress: A Case Study from South India." *Culture, Medicine and Psychiatry* 5 (1981): 379–408.

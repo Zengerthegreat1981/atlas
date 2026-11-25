@@ -32,7 +32,7 @@ gaps: []
 
 ## Effectiveness of Treatments
 
-Randomized trials support several of these approaches. In a Dutch trial, Giesen-Bloo and colleagues (2006) compared schema therapy with transference-focused psychotherapy and reported greater improvement with schema therapy. Bateman and Fonagy (2009) reported that MBT was superior to structured clinical management over eight years of follow-up in an outpatient comparison. DBT has been tested in multiple trials since Linehan and colleagues' 1991 study. Direct head-to-head comparisons are few, and differences between specific psychotherapies are generally modest and uncertain, so choice often depends on availability, patient preference, and clinical characteristics.
+Randomized trials support several of these approaches. In a Dutch trial, Giesen-Bloo and colleagues (2006) compared schema therapy with transference-focused psychotherapy and reported greater improvement with schema therapy. Bateman and Fonagy (2008) reported that advantages of mentalization-based partial hospitalization over treatment as usual were still present at eight-year follow-up. A separate outpatient trial (Bateman and Fonagy, 2009) compared MBT with structured clinical management over 18 months and found greater improvement with MBT. DBT has been tested in multiple trials since Linehan and colleagues' 1991 study. Direct head-to-head comparisons are few, and differences between specific psychotherapies are generally modest and uncertain, so choice often depends on availability, patient preference, and clinical characteristics.
 
 ## Impact
 
@@ -50,5 +50,6 @@ This entry is educational and does not constitute clinical advice.
 - Anthony Bateman and Peter Fonagy, *Mentalization-Based Treatment for Personality Disorders: A Practical Guide* (Oxford University Press, 2016).
 - Jeffrey E. Young, Janet S. Klosko, and Marjorie E. Weishaar, *Schema Therapy: A Practitioner's Guide* (Guilford Press, 2003).
 - Giesen-Bloo, J., et al. (2006). Outpatient psychotherapy for borderline personality disorder: randomized trial of schema-focused therapy vs transference-focused psychotherapy. *Archives of General Psychiatry*, 63(6), 649-658.
+- Bateman, A., & Fonagy, P. (2008). 8-year follow-up of patients treated for borderline personality disorder: mentalization-based treatment versus treatment as usual. *American Journal of Psychiatry*, 165(5), 631-638.
 - Bateman, A., & Fonagy, P. (2009). Randomized controlled trial of outpatient mentalization-based treatment versus structured clinical management for borderline personality disorder. *American Journal of Psychiatry*, 166(12), 1355-1364.
 - Linehan, M. M., et al. (1991). Cognitive-behavioral treatment of chronic parasuicidal borderline patients. *Archives of General Psychiatry*, 48(12), 1060-1064.

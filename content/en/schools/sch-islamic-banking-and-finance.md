@@ -18,8 +18,7 @@ edges:
 - rel: "evolved_from", target: "Modern Islamic Economics", target_type: "مدرسة"
 related:
 - id: "sch-modern-islamic-economics", title: "Modern Islamic Economics", type: "مدرسة"
-gaps: 
-  - "Further Islamic financing contracts (such as ijara muntahia bittamleek and istisna'): not yet covered"
+gaps: []
 ---
 # Islamic Banking and Finance
 
@@ -27,7 +26,7 @@ gaps:
 
 ## The Pioneering Experiment: The Mit Ghamr Local Savings Bank
 
-**Ahmad al-Najjar** (1931–1996) is regarded as the first practical pioneer of this school. In 1963 he founded the Mit Ghamr Local Savings Bank in the city of Mit Ghamr in Egypt, the first documented modern Islamic banking experiment. It was modelled on German cooperative savings banks, but with forms compatible with the prohibition of riba. It offered Egyptian farmers savings and small-scale financing services based on profit sharing instead of fixed interest. The experiment was closed after a few years for administrative and political reasons, but it established a practical model that was later resumed on a wider scale.
+**Ahmad al-Najjar** (d. 1996) is widely credited with the first sustained modern experiment in this field. In 1963 he founded the Mit Ghamr savings bank in the Egyptian town of Mit Ghamr. It is often counted as the first modern interest-free savings institution. It was modelled on German cooperative savings banks, but with forms compatible with the prohibition of riba. It offered Egyptian farmers savings and small-scale financing services based on profit sharing instead of fixed interest. The experiment was closed after a few years for administrative and political reasons, but it established a practical model that was later resumed on a wider scale.
 
 ## Institutional Expansion from the 1970s
 
@@ -41,7 +40,15 @@ Islamic banking rests on a set of contractual forms that replace the loan bearin
 - **Mudaraba**: a partnership in which one party provides the capital and the other provides the labour. Profit is divided at an agreed ratio, while the capital provider alone bears the financial loss.
 - **Musharaka**: a partnership in which both parties contribute capital and labour, sharing profit and loss according to each party's share.
 
-These forms seek to move the financing relationship from a creditor-debtor relation with guaranteed return to a partnership in the actual risk of investment.
+These forms seek to move the financing relationship from a creditor-debtor relation with a contractually fixed return to a partnership in the actual risk of investment. In practice, murabaha has accounted for a much larger share of bank assets than the partnership contracts.
+
+## Ijara ending in ownership, and istisna
+
+Two further contracts extended the same repertoire beyond trade credit and partnership.
+
+**Ijara** is a lease: the bank buys an asset and rents it to the client for an agreed period. In **ijara muntahia bittamleek** (a lease ending in ownership, also called ijara wa iqtina), the contract is written so that ownership passes to the client at the end, usually by a separate gift or sale. The bank, as owner during the lease, is in principle responsible for ownership risks that a conventional lender does not bear. Critics note that when maintenance, insurance and residual-value risk are shifted back to the client by side agreements, the cash flows can resemble those of a conventional finance lease.
+
+**Istisna** is a contract of commissioned manufacture. One party orders an asset that does not yet exist (a building, a ship, a piece of equipment) and payment may be made in stages or deferred. Islamic banks often use a parallel istisna: the bank commissions a manufacturer and, in a separate contract, is itself commissioned by the client. The form is used in construction and project finance. It is distinct from salam, a forward purchase in which the full price is paid at the outset for a fungible good delivered later. As with murabaha, the economic result can be a deferred obligation that looks like a loan, which is why jurists insist on separate contracts, a specified asset and genuine transfer of risk at each step.
 
 ## Later Instruments: Sukuk and Takaful
 

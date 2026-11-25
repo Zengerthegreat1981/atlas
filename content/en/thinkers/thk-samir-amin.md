@@ -25,11 +25,11 @@ gaps: []
 ---
 # Samir Amin
 
-**Samir Amin** was a prominent Egyptian economist and one of the most influential Marxist political economists in the Global South throughout the second half of the twentieth century. He developed an original analysis of the economic relationship between the advanced capitalist centres and the underdeveloped peripheries of the world. He continued and developed the heritage of classical Marxist theories of imperialism from a standpoint of thought belonging to the Global South itself, rather than to the centres of European capitalism.
+**Samir Amin** was an Egyptian economist and a leading Marxist political economist writing from the Global South in the second half of the twentieth century. He developed an original analysis of the economic relationship between the advanced capitalist centres and the underdeveloped peripheries of the world. He continued and developed the heritage of classical Marxist theories of imperialism from a standpoint of thought belonging to the Global South itself, rather than to the centres of European capitalism.
 
 ## Unequal Exchange: Renewing the Theory of Imperialism
 
-Amin developed the concept of **unequal exchange** (*échange inégal*), building on earlier analyses (including the work of Arghiri Emmanuel). He showed that international trade between the advanced capitalist centres and the peripheries of the Global South is not an equal exchange between equal partners, as classical comparative-advantage theory assumes. It is instead a structural mechanism through which value produced in the peripheries (where wages are far lower relative to labour productivity) is transferred to the centres. This reproduces the gap of underdevelopment structurally, rather than overcoming it through integration into the world market.
+Amin developed the concept of **unequal exchange** (*échange inégal*), building on earlier analyses (including the work of Arghiri Emmanuel). He argued that trade between the advanced capitalist centres and the peripheries of the Global South is not the equal exchange assumed by textbook comparative advantage. On his account, value produced in the peripheries, where wages are low relative to productivity, is transferred to the centres. This reproduces the gap of underdevelopment structurally, rather than overcoming it through integration into the world market.
 
 ## Accumulation on a World Scale
 
@@ -39,13 +39,13 @@ In his pivotal work *Accumulation on a World Scale* (1970), Amin extended Lenin'
 
 Amin's analysis intersected deeply with **Immanuel Wallerstein's** analysis of a single capitalist world system divided into a core, a periphery and semi-peripheries, and with the Latin American **dependency school** developed by thinkers such as André Gunder Frank. Amin nonetheless retained terminology and theoretical emphases of his own, grounded in a Marxist analysis of the transfer of surplus value across borders rather than in Wallerstein's broader structural framework.
 
-## From Egyptian Economics to Global Intellectual Leadership
+## From Cairo and Paris to Dakar
 
-After studying in Cairo and Paris, Amin worked in economic posts in Egypt and as an adviser in Mali, before settling for many years in Dakar, Senegal, where he directed the African Institute for Economic Development and Planning (IDEP) and later helped found the Third World Forum, a network that sought to develop an independent economic thought from the perspective of the Global South itself, away from the domination of economic theories issued exclusively from the centres of advanced capitalism. This stance made him a reference figure in global left movements opposing neoliberal globalisation until his death in 2018.
+After studying in Cairo and Paris, Amin worked in economic posts in Egypt and as an adviser in Mali, before settling for many years in Dakar, Senegal, where he directed the African Institute for Economic Development and Planning (IDEP) and later helped found the Third World Forum, a network that sought to develop an independent economic thought from the perspective of the Global South itself, away from the domination of economic theories issued exclusively from the centres of advanced capitalism. He remained active in networks critical of neoliberal globalisation until his death in Paris in 2018.
 
 ## Intellectual Formation Between Cairo and Paris
 
-Amin was born in Cairo to an Egyptian father and a French mother. He studied secondary school in Port Said before moving to Paris to study political science, statistics and economics, where he obtained his doctorate in economics in 1957 with a dissertation that addressed the structural causes of economic underdevelopment, a theme that remained central to his whole subsequent intellectual career. This dual formation combined an Egyptian Arab background with an elite French academic training, which gave him a unique intellectual position for dialogue both with the European Marxist intellectual tradition and with the direct political experience of countries of the Global South.
+Amin was born in Cairo to an Egyptian father and a French mother. He studied secondary school in Port Said before moving to Paris to study political science, statistics and economics, where he obtained his doctorate in economics in 1957 with a dissertation that addressed the structural causes of economic underdevelopment, a theme that remained central to his whole subsequent intellectual career. That formation joined an Egyptian background to French academic training, and he wrote mainly in French for both European Marxist debates and audiences in Africa and the Arab world.
 
 ## A Critique of the Prevailing "Stage" Theory of Development
 
@@ -53,7 +53,7 @@ Amin levelled a sharp critique at the prevailing theories of economic developmen
 
 ## A Political Position: Delinking as an Alternative Strategy
 
-Consistent with his structural analysis, Amin proposed the strategy of **"delinking"** (French *déconnexion*) as a practical political alternative for countries of the South: a temporary reduction of dependent integration into the capitalist world market in favour of building a relatively independent national or regional productive capacity, before re-entering international trade from a position of greater negotiating strength. This position provoked wide debate among development economists about its practical viability, compared with the export-oriented industrialisation strategies adopted with relative success by other Asian countries in the following decades.
+Consistent with his structural analysis, Amin proposed the strategy of **"delinking"** (French *déconnexion*) as a practical political alternative for countries of the South: a temporary reduction of dependent integration into the capitalist world market in favour of building a relatively independent national or regional productive capacity, before re-entering international trade from a position of greater negotiating strength. This position provoked wide debate among development economists about its practical viability, compared with the export-oriented industrialisation followed by several East Asian economies in the following decades.
 
 ## Sources
 

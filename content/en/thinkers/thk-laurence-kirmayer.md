@@ -21,11 +21,11 @@ gaps: []
 
 # Laurence Kirmayer
 
-A Canadian psychiatrist who works at McGill University in Montreal and is one of the leading names in contemporary **cultural psychiatry**. He directs the Culture and Mental Health Research Unit at the Jewish General Hospital, edits the journal *Transcultural Psychiatry*, and combines clinical practice with medical anthropology and philosophy in studying how psychological suffering is shaped, expressed and treated within cultural contexts.
+A Canadian psychiatrist (born 23 October 1952 in Montreal) and Distinguished James McGill Professor of Psychiatry. He directs the Division of Social and Transcultural Psychiatry at McGill University and the Culture and Mental Health Research Unit at the Jewish General Hospital. He long edited the journal *Transcultural Psychiatry* and is now its editor-in-chief emeritus. His work joins clinical practice, medical anthropology, and philosophy of psychiatry in studying how psychological suffering is shaped, expressed, and treated in cultural context. He studied psychology and medicine at McGill, completed psychiatry residency at the University of California, Davis, and in 1991 founded the annual McGill Summer Program in Social and Cultural Psychiatry.
 
 ## Central Idea: Culture as Part of the Structure, Not a Layer on Top
 
-Kirmayer starts from the premise that culture is not a dependent variable added to a ready-made biological model. Rather, it is a framework that produces meaning, experience and the body together. He therefore criticizes the model that treats symptoms as universal content that people wear in a cultural garment, and proposes instead a view in which the interaction of brain, body, meaning and social context forms a single loop. He developed this view in the article "What Kind of Science for Psychiatry?" (with Daniel Crafa, *Frontiers in Human Neuroscience*, 2014), in which he called for multiple kinds of knowledge that go beyond neural reductionism.
+Kirmayer starts from the premise that culture is not a dependent variable added to a ready-made biological model. Rather, it is a framework that produces meaning, experience and the body together. He therefore criticizes the model that treats symptoms as universal content that people wear in a cultural garment, and proposes instead a view in which the interaction of brain, body, meaning and social context forms a single loop. He developed this view in "What Kind of Science for Psychiatry?" (with Daina Crafa, *Frontiers in Human Neuroscience*, 2014), a critique of the National Institute of Mental Health Research Domain Criteria as a complete model of mental disorder. The article argues for several kinds of evidence, including social process, rather than neural explanation alone.
 
 ## Somatization and Idioms of Distress
 
@@ -56,3 +56,4 @@ Critics from the biological-neural current argue that emphasizing culture may ob
 - Kirmayer, Laurence J., Jaswant Guzder, and Cécile Rousseau, eds. *Cultural Consultation: Encountering the Other in Mental Health Care*. New York: Springer, 2014.
 - Kirmayer, Laurence J., Joseph P. Gone, and Joshua Moses. "Rethinking Historical Trauma." *Transcultural Psychiatry* 51, no. 3 (2014): 299–319.
 - Kirmayer, Laurence J., and Duncan Pedersen. "Toward a New Architecture for Global Mental Health." *Transcultural Psychiatry* 51, no. 6 (2014): 759–776.
+- Kirmayer, Laurence J., and Daina Crafa. "What Kind of Science for Psychiatry?" *Frontiers in Human Neuroscience* 8 (2014): 435.

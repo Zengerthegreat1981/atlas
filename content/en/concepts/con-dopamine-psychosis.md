@@ -9,7 +9,7 @@ en: "Dopamine Hypothesis of Psychosis"
 crumb: "Psychiatry ← Concepts ← Dopamine Hypothesis of Psychosis"
 active_start: 1963
 active_end: "مستمر"
-language: "Arabic, English"
+language: "English"
 edges:
 - rel: "belongs_to", target: "Psychotic Disorders and Schizophrenia", target_type: "مدرسة"
 related:
@@ -23,7 +23,7 @@ One of the oldest and most enduring neurobiological hypotheses for explaining **
 
 ## Origins: From Pharmacological Observation to Hypothesis
 
-The hypothesis arose in the 1960s from two complementary clinical observations. First, the early effective antipsychotic drugs (such as chlorpromazine and haloperidol) were found to act by blocking **D2 dopamine receptors**. Second, drugs that increase dopaminergic activity (such as amphetamine) can produce schizophrenia-like psychotic symptoms in healthy people, or worsen symptoms in patients with schizophrenia. From this link the **first version** of the hypothesis (Version I) was formulated: a general dopaminergic excess responsible for psychosis.
+The hypothesis arose from two complementary observations. In 1963 Arvid Carlsson and Margit Lindqvist reported that chlorpromazine and haloperidol increased the metabolites of dopamine and noradrenaline in mouse brain, which they read as a compensatory response to blocked catecholamine receptors. In the mid-1970s, receptor-binding studies tied clinical antipsychotic potency to affinity for D2 receptors. Separately, drugs that increase dopaminergic activity (such as amphetamine) can produce schizophrenia-like psychotic symptoms in healthy people, or worsen symptoms in patients with schizophrenia. From this link the **first version** of the hypothesis (Version I) was formulated: a general dopaminergic excess responsible for psychosis.
 
 ## Evolution of the Hypothesis Through Three Versions
 
@@ -33,13 +33,15 @@ In 2009, **Oliver Howes** and **Shitij Kapur** presented the **third version** (
 
 ## Therapeutic Importance and Limits
 
-The hypothesis remains the basis for the action of nearly all long-established antipsychotic drugs, which block D2 receptors or (like aripiprazole) act as partial agonists there. A muscarinic-receptor drug approved in the United States in 2024 for schizophrenia shows that other mechanisms can also work. The hypothesis does not explain every aspect of schizophrenia. A substantial minority of patients (commonly estimated at roughly one in four) show limited response to dopamine-blocking antipsychotic drugs (**treatment-resistant schizophrenia**), and the hypothesis alone does not explain negative and cognitive symptoms to the same extent that it explains positive symptoms. This has led contemporary research to explore parallel roles for other neurotransmitters (such as glutamate acting through NMDA receptors) for a broader explanation of psychosis.
+The hypothesis remains the basis for the action of nearly all long-established antipsychotic drugs, which block D2 receptors or (like aripiprazole) act as partial agonists there. A muscarinic-receptor drug approved in the United States in 2024 for schizophrenia shows that other mechanisms can also work. The hypothesis does not explain every aspect of schizophrenia. A substantial minority of patients show limited response to dopamine-blocking antipsychotic drugs (**treatment-resistant schizophrenia**), and the hypothesis alone does not explain negative and cognitive symptoms to the same extent that it explains positive symptoms. This has led contemporary research to explore parallel roles for other neurotransmitters (such as glutamate acting through NMDA receptors) for a broader explanation of psychosis.
 
 *This entry is educational and is not clinical advice.*
 
 ## Sources
 
 - Howes, Oliver D., and Shitij Kapur. "The Dopamine Hypothesis of Schizophrenia: Version III—The Final Common Pathway." *Schizophrenia Bulletin* 35, no. 3 (2009): 549–562.
+- Carlsson, Arvid, and Margit Lindqvist. "Effect of Chlorpromazine or Haloperidol on Formation of 3-Methoxytyramine and Normetanephrine in Mouse Brain." *Acta Pharmacologica et Toxicologica* 20 (1963): 140–144.
+- Davis, Kenneth L., et al. "Dopamine in Schizophrenia: A Review and Reconceptualization." *American Journal of Psychiatry* 148, no. 11 (1991): 1474–1486.
 - Carlsson, Arvid. "The Current Status of the Dopamine Hypothesis of Schizophrenia." *Neuropsychopharmacology* 1, no. 3 (1988): 179–186.
 - Howes, Oliver D., et al. "The Nature of Dopamine Dysfunction in Schizophrenia and What This Means for Treatment." *Archives of General Psychiatry* 69, no. 8 (2012): 776–786.
 - Kapur, Shitij. "Psychosis as a State of Aberrant Salience: A Framework Linking Biology, Phenomenology, and Pharmacology in Schizophrenia." *American Journal of Psychiatry* 160, no. 1 (2003): 13–23.

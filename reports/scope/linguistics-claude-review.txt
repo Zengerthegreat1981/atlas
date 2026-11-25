@@ -1,0 +1,21 @@
+br-arabic-dialectology: Anis source - removed unverifiable publisher (Lajnat al-Bayan al-Arabi), kept Cairo 1952 edition
+br-psycholinguistics: Osgood & Sebeok 1954 publisher corrected (Indiana UP -> Waverly Press, Baltimore)
+con-nazm-theory-jurjani: softened attribution of Saussure comparison to Abu Deeb (1979)
+dbt-corpus-vs-introspection-linguistic-evidence: Fillmore 'coined' armchair-linguistics contrast softened to 'drew a well-known contrast'
+sch-modern-arabic-linguistics: Anis Al-Aswat al-lughawiyya source - removed unverifiable year 1950 and publisher, replaced with Maktabat al-Anglo al-Misriyya (several editions)
+sch-sentence-processing-psycholinguistics: softened Levelt/Fromkin speech-error attribution
+stu-kuhl-native-language-magnet-1991: removed unverified "four experiments"; monkeys not tested with head-turn
+stu-tok-pisin-creolization: removed duplicate Sources section
+stu-wug-test-berko-1958: removed duplicate Sources section
+thk-al-sakkaki: removed vague unsourced "attribution debate" claim
+thk-christian-matthiessen: removed unverifiable head-of-department and named Chinese universities
+thk-dan-sperber: fixed author order of The Enigma of Reason (Mercier & Sperber)
+thk-joshua-fishman: removed unsupported claim of no personal connection to other languages
+thk-louis-hjelmslev: removed unverifiable claim that Hjelmslev signed the Outline preface
+thk-priscian: replaced unsupported manuscript counts (Hertz guess/handlist) with general statement
+thk-sibawayh: dates c. 760 -> c. 765 CE to match c. 148 AH
+thk-stephen-levinson: removed invented Berlin 1989-91 group location, 2017 emeritus date, Levelt founding claim, and unverified 1988 FBA year
+thk-tammam-hassan: corrected subtitle of Al-Usul (1981) in text and Sources
+wrk-al-lugha-al-arabiya-manaha-wa-mabnaha-hassan: corrected subtitle of Al-Usul in Sources/Impact
+wrk-institutiones-grammaticae-priscian: 'roughly two centuries' before Sibawayh -> 'nearly three centuries'
+wrk-theses-1929-prague-circle: fixed French spelling Théses -> Thèses in Sources

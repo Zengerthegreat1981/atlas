@@ -96,7 +96,7 @@ The levels interact. Morphology and syntax overlap in languages with rich inflec
 
 **Structuralism** took shape in the early twentieth century. Ferdinand de Saussure's posthumous *Course in General Linguistics* (1916), compiled by his students, treated language as a system of signs defined by their relations to one another, and separated *langue*, the shared system, from *parole*, individual speech. Leonard Bloomfield's *Language* (1933) developed a rigorous American descriptive tradition, and the Prague School advanced the study of phonological oppositions and information structure.
 
-**Generative linguistics** began with Noam Chomsky's *Syntactic Structures* (1957) and *Aspects of the Theory of Syntax* (1965). It treats language as a knowledge system in the individual mind, argues that its acquisition is guided by innate constraints, and uses formal rule systems to model it. Later frameworks include Government and Binding, the Principles and Parameters approach and the Minimalist Program. Optimality Theory, introduced by Prince and Smolensky in the 1990s, transformed phonology.
+**Generative linguistics** began with Noam Chomsky's *Syntactic Structures* (1957) and *Aspects of the Theory of Syntax* (1965). It treats language as a knowledge system in the individual mind, argues that its acquisition is guided by innate constraints, and uses formal rule systems to model it. Later frameworks include Government and Binding, the Principles and Parameters approach and the Minimalist Program. Optimality Theory, introduced by Prince and Smolensky in a widely circulated manuscript of 1993 and published as a book in 2004, became a major framework in phonology.
 
 **Functional approaches** explain linguistic structure by reference to communication. The Prague School, Michael Halliday's systemic functional linguistics and the typological work of Joseph Greenberg, Talmy Givón and others hold that grammar is shaped by what speakers do with it.
 
@@ -140,9 +140,9 @@ Linguistics meets psychology in the study of acquisition and processing, philoso
 
 Several misunderstandings recur. Languages are not primitive or advanced; all are fully capable of expressing the needs of their speakers. Dialects are not corrupted forms of a standard. Grammar rules in linguistics describe patterns, not commands. The claim that language shapes thought, often associated with Sapir and Whorf, exists in strong and weak forms, and the strong form is widely rejected. Statements about universals must be tested against the world's roughly seven thousand languages, most of which are under-described.
 
-## Limits of this version
+## Scope of the module
 
-This first version is selective. Coverage of formal frameworks, signed languages, creoles, language contact, historical reconstruction and many regional traditions is thin or absent, and some subfields are only touched on. Readers should treat entries as orienting introductions and consult the sources for depth.
+Coverage of formal frameworks, signed languages, creoles, language contact, historical reconstruction and many regional traditions is selective, and some subfields are only touched on. The entries are orienting introductions. The sources listed with each entry are the place to go for detail.
 
 ## Reading Paths
 

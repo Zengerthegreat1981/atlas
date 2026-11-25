@@ -1,0 +1,156 @@
+br-arabic-dialectology: Anis book dated 1952 (Lajnat al-Bayan al-Arabi), not 1946 Anglo-Egyptian; added Spitta, Bergsträsser 1915, and Cantineau 1934; removed pioneer gap; dropped "for the first time".
+br-computational-linguistics: Softened Transformer claims; Jurafsky and Martin 2nd ed. dated 2008.
+br-corpus-linguistics: Tied active start to Quirk's Survey of English Usage (1959); Brown Corpus attributed to Francis and Kučera; removed "revolutionized" and "for the first time".
+br-historical-comparative-linguistics: Jones 1786 paraphrased without a shortened quotation; dropped "first" family claim; Neogrammarian regularity qualified by analogy, borrowing, and lexical diffusion.
+br-language-documentation: Softened Krauss's aftermath and the Hebrew and Hawaiian revival claims (Ben-Yehuda; Pūnana Leo; speaker growth over generations).
+br-neurolinguistics: Genie case marked as disputed; sign-language lateralization tied to Poizner, Klima, and Bellugi.
+br-psycholinguistics: Infant speech-perception window corrected to Werker and Tees 1984 and that source added.
+br-sociolinguistics: Separated the 1966 /r/ study from the 1963 Vineyard change study; added language ideology and contact (Thomason and Kaufman 1988; Schieffelin, Woolard, and Kroskrity 1998); cleared the gap.
+con-actantial-model-narrative: Removed "best-known"; added Greimas's canonical narrative schema as a hypothesis.
+con-aphasiology-classification: Added clinical profiles of the main syndromes and Kertesz's Western Aphasia Battery (1982); cleared the gap.
+con-argument-structure-lexicon: Limited the comparison with Arabic taʿaddī and luzūm so it is not read as an early LFG or HPSG.
+con-bia-plus-model-dijkstra: Corrected BIA+ so task context affects the decision system while sentence context can affect identification; added the 1998 Journal of Memory and Language neighborhood paper.
+con-broca-wernicke-lichtheim-model: Dropped "first" and "cornerstone"; noted Bouillaud's earlier frontal-localization claim.
+con-cherology-sign-parameters-stokoe: Softened the phonology claim; noted that "chereme" was later dropped; removed "for the first time" for the 1965 dictionary.
+con-code-switching-mixing: Poplack 1980 constraints recast as contested proposals; Gumperz tied to Blom & Gumperz 1972 and Discourse Strategies; BIA+ separated from grammatical constraints; Blom & Gumperz added to sources.
+con-communities-of-practice-sociolinguistics: Jocks and Burnouts 1989 limited to the ethnography; Northern Cities Shift tied to the phonological studies in Eckert 2000; 1989 book added to sources.
+con-conversational-implicature: Q/I/M principles dated to Levinson 2000; relevance theory stated as communicative principle plus cognitive grounding; Presumptive Meanings added.
+con-critical-period-hypothesis: Genie described as extreme deprivation at age 13, not zero input, and as a single confounded case; Johnson & Newport 1989 limited to grammaticality judgments; sensitive-period wording softened.
+con-deep-surface-structure: terms dated to Aspects 1965, not Syntactic Structures; active span set to 1965–1995 (D-/S-structure kept in GB, dropped in the Minimalist Program); Miller & McKean separated from Bever's critique; Katz & Postal 1964 and Chomsky 1981 added.
+con-diglossia: Ferguson's nine features corrected (functional leakage; H phonology as subsystem or parasystem); Fishman 1967 extension beyond related varieties made explicit.
+con-distinctive-features-phonology: [spread glottis] marked as later laryngeal theory, not a 1952 Jakobson–Fant–Halle feature.
+con-distributional-semantics-word-embeddings: king–queen analogy attributed to Mikolov, Yih & Zweig 2013 and hedged; "revolutionized" removed; ELMo 2018 and BERT 2019 sources added.
+con-domestication-foreignization-translation: Nida's dynamic equivalence distinguished from Venuti; Schleiermacher 1813/1838 paraphrase de-quoted; Tymoczko 2000 no longer credited with the mixing critique; Nida 1964 added.
+con-face-threatening-acts-strategies: positive and negative face attributed to Brown & Levinson, with Goffman 1955/1967 as the source of face; Matsumoto 1988 critique specified.
+con-fln-flb-narrow-broad-faculty: recursion stated as the 2002 candidate for FLN, not as Chomsky's settled inventory; usage-based objection hedged as unresolved.
+con-form-substance-expression-content-hjelmslev: Welsh color-term claim replaced by Hjelmslev's Baum/Holz/Wald and arbre/bois/forêt comparison; Barthes 1964 and Greimas & Courtés 1979 applications narrowed; Barthes 1964 added.
+con-frequency-entrenchment-bybee: entrenchment credited to Langacker 1987 and frequency effects to Bybee; conserving versus reducing effects distinguished; Arabic examples marked as illustrations; Langacker 1987 and Bybee 2001 added.
+con-grammatical-case-systems: English and Mandarin case statements narrowed; Arabic cases and ʿāmil/taqdīr corrected; nominative–accusative versus ergative–absolutive alignment added; Sībawayhi (Derenbourg 1881–1889) added; Ibn Hishām title and death date corrected.
+con-grammaticalization: named Meillet 1912 for the term; qualified irreversibility with degrammaticalization; replaced Lehmann 1985 with Meillet 1912 and Bybee, Perkins & Pagliuca 1994, and updated Hopper & Traugott to the 2003 second edition
+con-krashen-monitor-model: dated the five hypotheses to Krashen 1982 Principles and Practice and added that book to Sources
+con-language-bioprogram-hypothesis: specified Bickerton's anterior/irrealis/nonpunctual claims instead of a general "basic features" resemblance
+con-macrorole-actor-undergoer-rrg: separated morphological ergativity (Basque, Dyirbal) from syntactic ergativity (Dyirbal as the usual pivot case)
+con-merge-operation-minimalism: Merge in Chomsky 1995 kept distinct from Move; External/Internal Merge dated to 2001–2004 and Chomsky 2004 added to Sources
+con-mood-system-halliday: corrected wh-interrogative order (Subject–Finite when the wh-element is Subject) and named Residue elements
+con-morphological-typology: dated the Schlegel and Humboldt classifications and noted that Schleicher's evolutionary ranking is rejected; narrowed polysynthesis examples to Inuktitut, Mohawk, and Northwest Caucasian
+con-myth-second-order-signification-barthes: tied the example to the Paris-Match cover in "Myth Today"; removed the anachronistic label "empty signifier"
+con-nazm-theory-jurjani: restricted nazm to Dala'il al-I'jaz and Asrar to imagery; birth year unrecorded so unsupported active_start 1030 replaced by the only secure year 1078; dropped the claim that nazm anticipates Saussure
+con-phoneme: Bloomfield did use meaning for contrast (Harris minimized it); corrected IPA of the English pairs; qualified Hawaiian and Xhosa inventory counts; removed unsourced ERP claims and the speculative future-research list; recast New York /r/ as Labovian variation
+con-poverty-of-the-stimulus-universal-grammar: replaced the claim of early Principle B knowledge with the Delay of Principle B and added Chien & Wexler 1990
+con-semiotic-square-greimas: dated the square to Greimas & Rastier 1968; separated classical entailment from Greimas's narrative implication; separated the square path from the canonical narrative schema
+con-signifier-signified: replaced the color-term "demonstration" with Saussure's mouton/sheep/mutton value example
+con-standard-language-ideology: attributed the label to Lippi-Green 1997 and the analysis of standardization to the Milroys 1985, instead of treating the Milroys as the main source of the name
+dbt-arabization-vs-francophonie-maghreb: removed the unattributed phrase "linguistic colonialism"; corrected Algeria's legal status to northern departments and named the 1991 Arabic-generalization law
+dbt-corpus-vs-introspection-linguistic-evidence: fixed "negative data" wording; limited the Sprouse and Almeida replication claim to the samples tested and dropped the 95–98 percent figure; added Harris, Gibson and Fedorenko, and BLiMP to Sources
+dbt-documentation-vs-revitalization-endangered-languages: qualified Hebrew and Hawaiian (Pūnana Leo, 1983) as special cases rather than proof that full revival is generally achievable; softened the "most important" claim
+dbt-fusha-ammiyya-diglossia-language-policy: separated Spitta 1880 (description) from Willcocks 1893 (advocacy); removed the claim that social media created colloquial writing for the first time; identified Maamouri 1998 as a World Bank forum paper
+dbt-gradualism-vs-saltation-language-evolution: marked Bickerton's Hawaiian Creole account as disputed; corrected the Nicaraguan Sign Language summary to Senghas, Kita and Özyürek 2004; added Fitch and Reby 2001 to Sources
+dbt-innateness-vs-usage-based-language-acquisition: added structure dependence, verb islands, frequency, Hauser–Chomsky–Fitch 2002 and the Nevins–Pesetsky–Rodrigues 2009 reply; sourced Rumelhart and McClelland 1986
+dbt-lexical-modernization-tawlid-vs-purism-arabic-academies: stopped presenting Anis as a spokesman for borrowing; removed Rabat from the list of academies; corrected tilfaz versus television loans; fixed Hamzaoui's 1965 title; dropped the "thousands per year" figure
+dbt-sign-language-legitimacy-debate: set active_end to مستمر because educational policy is still contested; removed overclaims of a single decisive reversal; corrected the Hickok, Bellugi and Klima 1996 title; noted that sign languages are not all unrelated
+fld-arabic-linguistics: softened "first dictionary" and "a thousand years"; gave al-Khalil's death as c. 786 or 791; added McCarthy 1981 to Sources
+fld-linguistics: dated Optimality Theory to the 1993 manuscript and 2004 book; removed the draft note "this first version"
+fld-phonetics-phonology: corrected the 1888 alphabet as predating the name International Phonetic Association; replaced the claim that Optimality Theory "solved" rule ordering
+fld-sociolinguistics-language-variation: tied Labov's 1969 paper to its 1972 reprint in Language in the Inner City and added that book to Sources
+fld-syntax-semantics: dated the Chomsky hierarchy to the 1956 and 1959 papers rather than to 1956 alone
+sch-american-structural-linguistics: limited behaviorism to the Bloomfieldian line (Sapir was not a behaviorist); dated Hockett 1954/1960 accurately; moved the innateness argument from Syntactic Structures (1957) to the 1959 Skinner review and later work; dropped the claim that 1957 ended structuralism at once
+sch-arabic-grammatical-tradition: extended the school through Ibn Hishām (active_end 1360); removed the claim that al-Kitāb is among the earliest systematic grammars (Pāṇini is earlier); softened Ibn Jinnī from founder of a discipline to author of al-Khaṣāʾiṣ
+sch-arabic-rhetorical-sciences: removed "revolutionary" and "unprecedented" for al-Jurjānī's naẓm; kept the 471/474 AH death-date uncertainty
+sch-bilingualism-cognitive-control: added the BIA+ source (Dijkstra & van Heuven 2002) and stated that lexical models are not evidence of an executive advantage
+sch-classical-neurolinguistics: set active_end to 1990 to match the imaging-era close stated in the body; noted Bouillaud before Broca; corrected Wernicke's title capitalization; added Hickok & Poeppel 2007
+sch-cognitive-linguistics: added image schemas (Johnson 1987) and Talmy's force dynamics; corrected English as satellite-framed, not verb-framed
+sch-computational-linguistics-nlp: softened the ALPAC "halt" claim; separated Google's Transformer from OpenAI's GPT; replaced the unpublished "2023 Pearson" citation with Jurafsky & Martin 2008; added LSA, word2vec, ELMo, BERT and GPT-1 sources
+sch-construction-grammar: treated the let-alone paper as an argument, not a proof, and Goldberg 1995 as a development beside Fillmore and Kay; added Stefanowitsch & Gries 2003
+sch-contact-linguistics-creole: marked abrupt creolization and "one or two generations" as disputed; corrected Tok Pisin's speaker base (mostly L2); softened DeGraff from "showed" to "argues"; added Weinreich 1953
+sch-corpus-linguistics: corrected COBUILD 1987 (corpus-based dictionary, not the first use of a corpus; early corpus was the COBUILD corpus, not yet the Bank of English); attributed semantic prosody to Louw 1993; added Francis & Kučera 1967
+sch-first-language-acquisition: limited Brown's morpheme order to English; treated the wug test as evidence rather than a demonstration; recast the Helen Keller pump story as memoir, not an experiment; added Rumelhart & McClelland 1986 and Pinker & Prince 1988
+sch-formal-semantics-montague-grammar: attributed the natural/formal-language thesis to both "English as a Formal Language" and Universal Grammar (1970); dropped "dominant framework" and the psychological reading of compositionality
+sch-generative-grammar: removed "revolution," "overturned," "decisive blow" and the claim that the school founded psycholinguistics; noted that historians dispute the effect of the Skinner review
+sch-generative-phonology: credited Halle with Chomsky for SPE; traced binary features to Jakobson, Fant & Halle 1952 rather than to Trubetzkoy; corrected place-feature classes (labial, coronal, dorsal); added Blevins 2004 as a competing account
+sch-gricean-pragmatics: removed "founded"; placed Levinson's Q/I/M heuristics in Presumptive Meanings (2000), not Pragmatics (1983); added cancellability and generalized/particularized implicature; added Levinson 2000 to Sources
+sch-historical-comparative-linguistics: softened priority claims; dated the Neogrammarian statement to Osthoff and Brugmann 1878; corrected Verner's Law as prior support rather than a confirmation of that statement; Campbell 2013 cited as Edinburgh University Press; Meillet credited for grammaticalization rather than asserted as sole coiner
+sch-language-evolution: softened the FOXP2 "first language gene" claim and named Lai, Fisher, Monaco et al. 2001; added that Nature paper to Sources
+sch-language-ideology: softened Woolard and Schieffelin 1994 from "established the field" to a synthesizing review; recast Hill's Mock Spanish as her argument; added Kroskrity 2000 to Sources
+sch-language-policy-endangerment: softened the Hebrew-revival claim (not a total cessation, not "the most striking"); named Va'ad ha-Lashon 1890; added Shohamy 2006, cited in the text
+sch-linguistic-typology: corrected WALS to about 190 features in the 2013 Dryer and Haspelmath edition; removed the claim that the school "founded" typology
+sch-minimalist-program: dated Agree to Chomsky 2000 and 2001 rather than the 1995 book; softened dominance and cartography claims; added the 1993, 2000, and 2001 papers to Sources
+sch-modern-arabic-linguistics: active_start moved from 1947 to 1950; Anis Al-Aswat al-lughawiyya dated 1950 (Nahdat Misr), not 1947 Anglo-Egyptian; Fi al-lahajat dated 1952, not 1946; dropped an uncertain year for Bishr; added al-Masaddi 1986; limited heritage-continuity and "established the tradition" claims
+sch-politeness-theory: moved hinting from negative politeness to off-record; stated the weightiness factors as distance, power, and imposition; softened "dominant"; added Matsumoto 1988 and Ide 1989
+sch-second-language-acquisition: active_start moved from 1977 to 1967 (Corder); added Corder, Lenneberg, Lado, Selinker, Swain, Long, Schmidt, Horwitz, Pienemann, and Krashen 1982; corrected Arabic transfer (Arabic lacks /p/ and /v/); fossilization stated as Selinker's hypothesis
+sch-sentence-processing-psycholinguistics: separated Frazier and Fodor 1978 (sausage machine) from Minimal Attachment and Late Closure (Frazier and Rayner 1982); specified Hickok and Poeppel 2007 dorsal/ventral streams; added Bever, Fodor, Cooper, Fromkin, and Hickok and Poeppel to Sources
+sch-sign-language-linguistics: Stokoe 1960 stated as an argument, with tab/dez/sig, not as a demonstration of full spatial grammar; NSL limited to Senghas and Coppola 2001 cohort findings; home sign distinguished from a community language; Williams syndrome dissociation qualified; added Stokoe, Battison, Petitto and Marentette, Senghas and Coppola, and Goldin-Meadow
+sch-structuralist-semiology: fixed the Saussure wording to "within society" and named Riedlinger; removed denotation/connotation from Saussure's dichotomies (Hjelmslev); dropped "deliberate" concealment; added Kristeva 1969, Barthes 1964 image essay, and Hjelmslev
+sch-systemic-functional-linguistics: ideational metafunction split into experiential and logical; cohesion distinguished from coherence; Halliday 1961 and Martin and White 2005 added; "founded" removed for Halliday and Firth
+sch-usage-based-grammar: softened anti-generative framing and "most detailed" claim; dated "usage-based" to Langacker 1988 and named Bybee 1985 in full; "founding figures" recast as contributors; Langacker 1988 added to Sources
+sch-variationist-sociolinguistics: removed "founded" and "demonstrated"; Vineyard and department-store results stated as Labov's findings; matched guise fixed to Lambert et al. 1960; "reference standard" softened
+stu-ferguson-diglossia-1959: removed "no overlap" and the expectation that no colloquial can become standard; noted mixed speech, Badawi 1973, Ferguson 1991, Greek 1976, and digital colloquial writing; gap cleared; Fishman kept at 1967
+stu-genie-wild-child-critical-period-case: removed "rarest" and "clearest" evidence; funding dated to the mid-1970s and the lawsuit claim dropped; Victor dated around 1800; Isabelle tied to Mason 1942; Lenneberg 1967 and Fromkin et al. 1974 added to Sources
+stu-hawaiian-language-revival: "few dozen" and "successful" softened; 1896 school policy, 1978 official status, 1984 Kekaha nest, and 1986 repeal ordered correctly; Hale's role limited to the 2001 Green Book
+stu-hebrew-language-revival: dropped "best-documented" superlative; Hebrew's continued written use and the partial Latin analogy stated; added schools, the 1913 Technion dispute, and 1922 official status beside Ben-Yehuda; Zuckermann's hybrid claim left as a debate
+stu-kuhl-native-language-magnet-1991: sample_size 64 removed (it was the number of vowel variants); Werker and Tees placed in 1984, before Kuhl; magnet mechanism marked contested (Lotto, Kluender, and Holt 1998); distributional learning (Maye, Werker, and Gerken 2002) added; gap cleared
+stu-kuuk-thaayorre-spatial-cognition-boroditsky-gaby: Hebrew comparison removed from the 2010 experiment and assigned to Fuhrman and Boroditsky 2010; east-to-west layouts stated for all four facings; language-causes-cognition claim softened; ant-on-the-leg example no longer a fake quotation
+stu-labov-department-store-r: store named S. Klein; 264 kept as the employee sample; Saks floor difference and the "Excuse me?" prompt specified; "among the first to demonstrate" removed; covert-survey consent noted
+stu-marthas-vineyard-centralization-labov: active years set to 1961–1963; Weinreich named as teacher; about 69 speakers, Chilmark, and ages 31–45 specified; apparent time described as an inference; 1994 Internal Factors dropped from Sources as unused
+stu-nicaraguan-sign-language-emergence-senghas: removed "from zero"; home sign and peer cohorts distinguished; 2001 spatial agreement and 2004 manner/path findings separated; poverty-of-the-stimulus reading marked as contested; Kegl, Senghas, and Coppola 1999 and Goldin-Meadow 2003 added
+stu-nim-chimpsky-ape-language-terrace: "several dozen" trainers softened; video analysis credited to Terrace, Petitto, Sanders, and Bever 1979; imitation claim not given a fake percentage; Kanzi limited to published comprehension results; Gardner and Gardner 1969 and Savage-Rumbaugh et al. 1993 added
+stu-tok-pisin-creolization: active_end set to مستمر and active_start to 1880 as a late-nineteenth-century marker; Bislama and Pijin distinguished; "extreme" simplification and "every stage" removed; ol, -im, bai, pinis, and yumi/mipela given as standard examples; expanded pidgin versus urban creole varieties distinguished
+stu-wug-test-berko-1958: "most cited in the history of the field" removed; /ɪz/ and /ɪd/ difficulty and incomplete learning stated as Berko's result; rule-only reading qualified against later exemplar models; clinical use called a research marker; Brown described as the research setting, not asserted as formal advisor
+thk-adele-goldberg: Softened claims that Constructions was the most influential and most cited framework and that it founded a research current.
+thk-al-jurjani: Corrected Gurgan to southeast of the Caspian; softened "most influential" and "transformed the entire course"; removed an unconfirmable list of shorter epistles.
+thk-al-kisai: Covered early Kufa study with Hamza al-Zayyat before al-Ru'asi and cleared that gap; corrected Thalab to Tha'lab.
+thk-al-mubarrad: Removed the unsupported 245 AH / "one year later" timing of the move from al-Mutawakkil's court; softened "most important" for al-Muqtadab. Quotation gap kept.
+thk-algirdas-greimas: Softened "founded" the Paris school; separated Fontanille's 1991 passions book from the earlier modal semiotics and added that source.
+thk-bernard-comrie: Accessibility hierarchy stated as a tendency, not a certainty; WALS 2005 co-editor distinguished from the 2013 Dryer/Haspelmath online edition; added Tense and the 2005 WALS to Sources.
+thk-charles-fillmore: Construction Grammar credited jointly with Kay; "let alone" no longer said to demonstrate a unique analysis.
+thk-christian-matthiessen: Birth 1956 and career updated (Lund, Macquarie 2002–2008, PolyU 2008–2021, later posts in China); added rank/metafunctions and the Mann–Thompson RST collaboration with its source.
+thk-dan-sperber: Softened "most influential"; stated that the cognitive/communicative split is explicit from the 1995 edition, and expanded the ostensive-inferential account.
+thk-deirdre-wilson: Birth year 1941 added and the gap removed; Oxford, MIT (Chomsky), Oslo CSMN, and Carston's later work added; superlatives softened.
+thk-dionysius-thrax: Dropped "first grammar" and "formal starting point"; the Techne is the earliest extant handbook, with authorship of the whole text left open.
+thk-eugene-nida: Removed "founded modern translation theory" and "hundreds of languages"; componential analysis treated as applied, not invented; Holmes 1972 added for the name of the field.
+thk-ferdinand-de-saussure: Removed "founder of modern linguistics" and "founding father of linguistics as a science"; dropped the unsupported Abu Deeb 1979 link between valeur and nazm.
+thk-gilles-fauconnier: softened “founded” blending; kept Mental Spaces (MIT Press, 1985) and the 1998/2002 Turner works
+thk-ibn-al-anbari: softened claims that al-Insaf is the sole reduction of the Basran–Kufan dispute; Versteegh 1997 cited by its full title
+thk-ibn-jinni: dropped “most important” / “among the first”; greater derivation no longer said to be a confession he himself made
+thk-ibrahim-anis: removed unverified 1947/1952 dates for al-Aswat and Fi al-Lahajat; active_start set to the 1941 London doctorate; Academy election 1961; Dalalat al-Alfaz added to Sources
+thk-jacob-grimm: Verner dated 1877 not 1875; Bopp 1816 no longer placed after Grimm’s Law; dropped the claim that Grimm founded the whole comparative discipline
+thk-joan-bresnan: Chichewa work attributed with Mchombo; “showed” replaced by a description of the LFG analysis; LFG school claim narrowed
+thk-joan-bybee: living scholar given active_end مستمر; “leading founders” softened; Morphology (1985) added to Sources
+thk-john-sinclair: COBUILD 1987 separated from the later Bank of English name; “first dictionary” and “established the field” softened
+thk-joshua-fishman: 1965 domain paper separated from the 1967 bilingualism/diglossia paper; page-free “hundreds of articles” claim removed; Lewis & Simons 2010 added
+thk-leonard-bloomfield: no longer “the founder,” and no longer said to reject meaning; Weiss named; 1914 book and Chomsky 1957/1959 added to Sources
+thk-louis-hjelmslev: Circle co-founded with Brøndal (1931), not on a Moscow model; Outline of Glossematics (1957) credited to Uldall, not as Hjelmslev’s book; Prague study visit removed
+thk-michael-halliday: Cambridge PhD supervisors corrected (Haloun, then Pulleyblank; Firth for linguistics); “most important” / global-founder wording softened
+thk-michael-tomasello: living scholar given active_end مستمر; shared intentionality marked as his argument; First Verbs (1992) added
+thk-panini: date range aligned to fifth/fourth century BCE; “first/earliest in human history” and a direct Chomsky-influence claim removed
+thk-penelope-brown: dropped "founder" and "most cited"; Tzeltal space specified as terrain-absolute, not cardinal; child-acquisition claim softened; Matsumoto/Ide critique kept
+thk-penelope-eckert: added active_start 1978 and active_end مستمر; Lave & Wenger order corrected; dropped "founding figure" of language and gender; title aligned to Albert Ray Lang Professor emerita
+thk-priscian: English title set to Institutes of Grammar; manuscript count corrected to a handlist of just over 500 against Hertz's guess of about 1000; "most influential" softened
+thk-robert-van-valin: macroroles described as generalizations over thematic roles, not a replacement of them; comparative claim against Construction Grammar softened
+thk-roman-jakobson: communicative factor "channel" corrected to Jakobson's "contact"; Lévi-Strauss link placed in New York; Preliminaries (1952) and Kindersprache (1941) added to Sources
+thk-sibawayh: al-Kitab described as earliest surviving comprehensive grammar, not the first ever; al-Ayn attribution shared with al-Layth; Kitab is not the foundation of the Kufa school; al-Zubaydi and Ibn Khallikan added to Sources
+thk-stephen-levinson: spatial-relativity results stated as debated evidence; MPI role corrected (Cognitive Anthropology group from 1989; director 1994–2017, emeritus), not founding director of the institute; FBA 1988 only
+thk-tammam-hassan: Ibrahim Mustafa and Shawqi Dayf described as revising iʿrāb and pedagogy, not as abolishing inflection
+thk-thomas-sebeok: animal and cellular signals marked as his Peircean claim; bridging rhetoric trimmed
+thk-william-labov: "demonstrated" replaced with a description of the Martha's Vineyard argument; "founder" softened to principal architect (death year 2024 already correct)
+thk-william-stokoe: "founder/first/world's only/decisive/undisputed" softened; Gallaudet described as the principal US deaf college; neural work dated to Bellugi & Klima 1979 and later
+thk-zellig-harris: operator grammar dated to 1982 and 1991; 1968 Mathematical Structures no longer treated as that grammar; both books added to Sources
+wrk-al-insaf-masail-al-khilaf-ibn-al-anbari: argument order corrected to Kufan then Basran; Lumaʿ al-adilla no longer called the first usul al-nahw (Ibn al-Sarraj and Ibn Jinni earlier)
+wrk-al-kitab-sibawayh: chapter count tied to later editorial division; phonetics no longer "the earliest" against al-Ayn; lost earlier Basran grammars noted; al-Khalil not flatly called author of al-Ayn
+wrk-al-lugha-al-arabiya-manaha-wa-mabnaha-hassan: added Hassan’s seven parts of speech; dropped an unverified publisher for al-Usul; softened the claim about Sibawayh’s “genius”.
+wrk-al-mufassal-zamakhshari: dated the book to 1119–1121 and recorded both Arabic titles; corrected Ibn Ya‘ish’s death and the Broch citation; removed the claim that the commentary outcirculated the text.
+wrk-ashtadhyayi: removed “oldest in human history”, the closed-Sanskrit claim, and the overstated Chomsky link; described Panini’s null replacements accurately; softened the Arabic-grammar comparison.
+wrk-asrar-al-balagha-jurjani: dropped the unsupported claim that this book is the second of the pair; cited Shawqi Dayf by the Arabic title.
+wrk-constructing-a-language-tomasello: softened “most detailed” and the wording that generative theory “demonstrates” innateness.
+wrk-cours-de-linguistique-generale: covered the 1985 Qarmadi–Shawish–Ajina Arabic translation and removed that gap; fixed the Engler/Écrits sentence; softened “founding work”.
+wrk-dalail-al-ijaz-jurjani: softened “most important” and “showed”; noted Abduh/Rida rather than a vague modern revival; removed the claim of a total break with foreign sources as an absolute.
+wrk-elements-de-semiologie-barthes: corrected the claim that the 1964 essay prepared Mythologies (1957); fixed the Communications citation.
+wrk-head-driven-phrase-structure-grammar-pollard-sag: dated HPSG to the mid-1980s and noted that volume 2 of the 1987 book never appeared; narrowed the Arabic-application claim.
+wrk-institutiones-grammaticae-priscian: removed the unsupported count of “thousands” of quotations and “hundreds” of manuscripts.
+wrk-lisan-al-arab-ibn-manzur: set completion at 1290; stated that Taj al-arus is larger; corrected the Dar Sadir edition to 1955–56 and the Bulaq edition to 1883–90; adjusted the biography.
+wrk-maani-al-quran-farra: corrected the Kufan term sarf; separated the dictation of the book from the tutoring of al-Ma’mun’s sons; fixed the Fihrist citation; softened the Basra–Kufa moral.
+wrk-morphology-of-the-folktale-propp: gave the Russian title; named Pirkova-Jakobson’s preface and Lévi-Strauss’s 1960 essay; softened “foundational” and “almost entirely unknown”.
+wrk-sound-pattern-of-english-chomsky-halle: softened “revolution” and “most important” centre; corrected Goldsmith’s publication sequence; Arabic-translation gap kept.
+wrk-syntactic-structures: softened the “revolution” framing; set the structuralist context as post-Bloomfieldian (Harris, Bloomfield 1933); replaced the invented passive pair with Chomsky’s “the food was eaten by the man”; recast Bybee as a later usage-based critic; added the 1959 Skinner review and Bloomfield 1933 to Sources. Arabic-translation gap kept.
+wrk-talkhis-al-miftah-qazwini: dated the author 666–739 AH / 1268–1338 and set active_start to 1268; softened “most famous” and “established”; English-translation gap kept.
+wrk-the-way-we-think-fauconnier-turner: added active_start/active_end 2002; removed the unverifiable “hundreds” and the claim that 2002 was the final peak; corrected the Gibbs 2000 citation to a call for falsifiability; renamed the mislabeled “Digital Buddhist Monk” example.
+wrk-theses-1929-prague-circle: dated the congress 6–13 October 1929; dropped the anachronistic Copenhagen contrast and the claim that the Theses were individually signed; qualified the literary-language and Arabic-diglossia comparisons; added Ferguson 1959, which the text now cites.

@@ -26,17 +26,17 @@ gaps:
 
 # Abu al-Abbas al-Mubarrad
 
-A grammarian, philologist and man of letters of the Basran school, one of the last great imams of the Basran grammatical tradition, author of *al-Muqtadab*, one of the most important works of Arabic grammar after Sibawayh's *al-Kitab*, and the famous rival of Abu al-Abbas Thaʿlab in the assemblies of Baghdad.
+A grammarian, philologist and man of letters of the Basran school, one of the last great imams of the Basran grammatical tradition, author of *al-Muqtadab*, a major work of Arabic grammar after Sibawayh's *al-Kitab*, and the famous rival of Abu al-Abbas Thaʿlab in the assemblies of Baghdad.
 
 ## Biography
 
-His name was Abu al-Abbas Muhammad ibn Yazid al-Mubarrad. He was born in Basra in 210 AH (c. 825 CE), where he studied the sciences of grammar and philology under its leading scholars, most notably al-Mazini and al-Jarmi, from whom he inherited the tradition of Sibawayh and al-Akhfash, which connected directly back to the circle of al-Khalil ibn Ahmad. He was summoned to Samarra to serve at the court of the Abbasid caliph al-Mutawakkil in 245 AH (860 CE). When al-Mutawakkil was killed a year later, al-Mubarrad moved to Baghdad, where he spent most of his subsequent life as a teacher and author. There he presided over the assemblies of grammar and literature as a rival to Thaʿlab, the leader of the Kufans in the capital, so that the two leading schools came together in Baghdad. He died in Baghdad in 286 AH (or 285 AH), about 898 CE.
+His name was Abu al-Abbas Muhammad ibn Yazid al-Mubarrad. He was born in Basra in 210 AH (c. 825 CE), where he studied the sciences of grammar and philology under its leading scholars, most notably al-Mazini and al-Jarmi, from whom he inherited the tradition of Sibawayh and al-Akhfash, which connected directly back to the circle of al-Khalil ibn Ahmad. He was summoned to Samarra to serve at the court of the Abbasid caliph al-Mutawakkil. After al-Mutawakkil was killed in 247 AH (861 CE), al-Mubarrad moved to Baghdad, where he spent most of his subsequent life as a teacher and author. There he presided over the assemblies of grammar and literature as a rival to Thaʿlab, the leader of the Kufans in the capital, so that the two leading schools came together in Baghdad. He died in Baghdad in 286 AH (or 285 AH), about 898 CE.
 
 ## His Contributions
 
 ### *al-Muqtadab*
 
-His major grammatical work, and one of the most important Arabic grammar books after Sibawayh's *al-Kitab*. It builds on Sibawayh's material but is an independent, systematically organized treatment with al-Mubarrad's own judgments; he also criticized some of Sibawayh's positions in a separate refutation (the subject of Bernards's study). The book arranges the chapters of Arabic grammar in a more methodical order than *al-Kitab* does, which made it a widely used educational reference among later students. *al-Muqtadab* was widely influential on later Basran grammarians such as Ibn al-Sarraj.
+His major grammatical work, and a principal Arabic grammar after Sibawayh's *al-Kitab*. It builds on Sibawayh's material but is an independent, systematically organized treatment with al-Mubarrad's own judgments; he also criticized some of Sibawayh's positions in a separate refutation (the subject of Bernards's study). The book arranges the chapters of Arabic grammar in a more methodical order than *al-Kitab* does, which made it a widely used educational reference among later students. *al-Muqtadab* was widely influential on later Basran grammarians such as Ibn al-Sarraj.
 
 ### *al-Kamil fi al-Lugha wa-l-Adab* (*The Complete Work on Language and Literature*)
 

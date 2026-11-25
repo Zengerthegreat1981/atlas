@@ -30,7 +30,7 @@ The central puzzle is that speech is physically continuous and variable, yet spe
 
 ## Phonetics
 
-**Articulatory phonetics** classifies sounds by how they are produced: the place of articulation (lips, alveolar ridge, palate, velum, uvula, pharynx, glottis), the manner (stop, fricative, nasal, approximant, trill) and voicing. Vowels are described by tongue height, backness and lip rounding. The International Phonetic Alphabet, first published in 1888 by the International Phonetic Association and revised since, provides a standard notation. Arabic is a useful case, with its pharyngeal and uvular consonants, emphatic (pharyngealised) consonants and contrast of short and long vowels.
+**Articulatory phonetics** classifies sounds by how they are produced: the place of articulation (lips, alveolar ridge, palate, velum, uvula, pharynx, glottis), the manner (stop, fricative, nasal, approximant, trill) and voicing. Vowels are described by tongue height, backness and lip rounding. The International Phonetic Alphabet, first set out in 1888 and maintained, under that later name, by the International Phonetic Association, provides a standard notation. It has been revised several times. Arabic is a useful case, with its pharyngeal and uvular consonants, emphatic (pharyngealised) consonants and contrast of short and long vowels.
 
 **Acoustic phonetics** analyses the speech signal: frequency, intensity and duration, with spectrograms showing formants, which characterise vowels, and bursts and noise, which characterise consonants. Gunnar Fant's *Acoustic Theory of Speech Production* (1960) established the source-filter model, in which the vocal folds provide a source and the vocal tract acts as a filter.
 
@@ -54,7 +54,7 @@ The central puzzle is that speech is physically continuous and variable, yet spe
 
 **How abstract should representations be?** Rule-based generative accounts posit underlying forms that never surface, which critics regard as too abstract and insufficiently constrained by evidence. Usage-based approaches reply with concrete stored experience, and critics of that view ask how it handles productive generalisation.
 
-**Rules or constraints?** Optimality Theory solved some problems of rule ordering, but critics note that it has difficulty with opaque interactions, in which a pattern is obscured by later processes, and has led to many variants addressing this.
+**Rules or constraints?** Optimality Theory was offered as a way around some problems of rule ordering. Critics note that it has difficulty with opaque interactions, in which a pattern is obscured by another process, and later work has proposed many variants to address this.
 
 **Phonetics and phonology: separate or continuous?** Traditional views treat phonology as discrete and symbolic, and phonetics as gradient and physical, with a translation step between them. Laboratory phonology, a movement active since the 1980s, argues for closer integration and finds gradient effects inside what looked like categorical patterns.
 

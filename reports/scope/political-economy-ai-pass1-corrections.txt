@@ -1,0 +1,151 @@
+br-agrarian-question-political-economy: Lenin 1899 described as rural class differentiation; "kulak" marked as a later label
+br-cliometrics-new-economic-history: 1957 sessions placed at Williamstown; first Purdue conference dated December 1960; Reiter named for the term; Nobel citation corrected; North described as a principal, not founding, NIE figure
+br-endogenous-growth-theory: Solow steady state corrected (zero per-worker growth only without technical change); 2018 prize split between Romer (innovation) and Nordhaus (climate); Solow 1956 and Rebelo 1991 added
+br-georgism-land-value-tax: Magie's 1904 Landlord's Game and the 1935 Parker Brothers game distinguished without the claim that Monopoly glorified monopoly
+br-market-socialism: Hayek 1940 title corrected to "Socialist Calculation: The Competitive 'Solution'" and added to Sources
+br-mena-political-economy: active_start moved from 1987 to Mahdavi 1970; unverified Saudi "130 billion" figure removed
+br-monopoly-capital-school: Marx's price-taking case restated; economic surplus described as wider than surplus value, not a replacement of it
+br-new-economic-geography: von Thünen, Weber and Lösch acknowledged; Dixit–Stiglitz 1977 added as the market structure Krugman used
+br-real-business-cycle-theory: Kydland and Prescott 1982 called the main statement rather than a sole founding; micro labour-supply elasticity objection added
+br-sraffian-neo-ricardian-economics: Robinson 1953–54 placed before Sraffa 1960; capital-theory inconsistency attributed to the critics; Robinson article added
+con-arab-subsidy-state-and-social-contract: concise Egypt, Syria, Jordan and Algeria subsidy record added; gap removed; Waterbury 1983 added
+con-austrian-business-cycle-theory: 1912 book separated from the fuller later cycle argument; Myrdal named as 1974 co-laureate; Friedman 1993 added
+con-big-push-and-unbalanced-growth: Rosenstein-Rodan 1943 tied to Eastern and South-Eastern Europe; unsupported claims that each strategy "succeeded" in a type of country removed
+con-consumer-surplus: active_start set to Dupuit 1844; Pigou linked to private versus social net product rather than to producer surplus; partial-equilibrium deadweight loss stated
+con-creative-destruction: dropped the claim that Sombart used Schumpeter's phrase; softened overstatements about destruction and the term's reach
+con-degrowth: dated the term to the early 1970s (active_start 1972); added the post-2008 social movement and Latouche; cleared the movement gap
+con-effective-demand: traced effectual demand to Smith (1776) and Malthus (1820); added Smith, Malthus and Hicks 1937 to Sources; left the partial-equilibrium gap
+con-endogenous-money: set active_start to 1970 and cited Kaldor's "The New Monetarism"
+con-exchange-rate-regimes: added intermediate regimes (managed float, crawl, band, currency board) and Williamson 1983; cleared that gap; named Friedman's publisher
+con-falling-rate-of-profit: replaced the priority claim with Okishio, Steedman 1977 and Kliman 2007; cleared the technical-debate gap
+con-financial-instability-hypothesis: softened the claim that 2008 literally embodied the hypothesis
+con-hayek-knowledge-problem: stated the advantage of the price system as Hayek's argument, not as a settled fact
+con-impossible-trinity: fixed the pronoun so the interest-rate result is Mundell's; corrected the euro-area trilemma corner
+con-inflation: tied Friedman's dictum to the 1970 Counter-Revolution lecture rather than to an undated slogan
+con-kuznets-curve: softened the claim that the curve dominated policy; aligned the environmental curve with Grossman and Krueger's 1990s papers
+con-labour-theory-of-value: corrected Rubin to Black & Red, 1972; added Smith and Sraffa, both discussed in the entry
+con-phillips-curve: dated Friedman's address to December 1967 (published 1968); added Phelps 1967 and 1968 sources; dropped "decisive"
+con-modern-monetary-theory: Knapp's 1905 title is the German Staatliche Theorie des Geldes; English translation 1924, publisher named
+con-monopolistic-competition: Chamberlin's monopolistic competition and Robinson's imperfect competition distinguished rather than treated as one concept
+con-marginal-utility: Clark's marginal productivity applies to wages and interest, not "profit of capital"; Walras 1874 added to sources
+con-prebisch-singer-hypothesis: classical claim corrected (Mill on terms of trade, not equal gains); Mill 1848 added to sources
+con-quantity-theory-of-money-monetarism: Fisher's equation is MV=PT, not MV=PY; Hume 1752 and Friedman's 1970 lecture cited for the inflation sentence
+con-r-greater-than-g-piketty: r>g no longer said to raise capital's share automatically; Belle Époque replaces "golden age"; wealth-tax claim attributed without "only instrument"
+con-lender-of-last-resort: IMF analogy limited (no currency issue, finite resources, conditionality)
+con-rentier-state: European representation contrast marked as the theory's stylised model, not a historical explanation
+con-ricardian-rent: 1815 essays of Malthus, West and Torrens noted; corn-law effect corrected (money wages up, real wages near subsistence, profits squeezed); George 1879 added
+con-says-law-of-markets: Mill's 1848 restatement added; Keynes no longer said to have founded a "revolution" by "showing" the opposite
+con-sovereign-debt-and-default: domestic-currency debt included; defaults dated centuries before the 1981 Eaton-Gersovitz paper; foreign-currency wording narrowed
+con-steady-state-economy: thermodynamic limit attributed to Daly and Georgescu-Roegen and left contested; ISEE link softened; Mill 1848 and Raworth 2017 added
+con-unequal-exchange: Amin "showed" a necessary confinement of the periphery softened to his 1970/1974 argument
+con-walrasian-general-equilibrium: Walras's law no longer described as his proof; Arrow–Debreu existence tied to stated assumptions; Debreu 1959 publisher corrected to Yale University Press
+dbt-austerity-vs-stimulus-after-2008: active_end set to ongoing; Herndon–Ash–Pollin, not Reinhart–Rogoff, credited with the weaker debt–growth result; Greece, Tunisia and Egypt programme outcomes added and the gap removed; Keynes–Hayek replay claim narrowed; Giavazzi–Pagano and the 1930s books added to sources
+dbt-cambridge-capital-controversy: "mainstream academic economy" corrected to mainstream academic economics
+dbt-developmental-state-industrial-policy: active_end set to ongoing; Gulf and Egyptian industrial record stated without a fake success rate and the gap removed; CHIPS Act and IRA dated 2022
+dbt-dutch-disease-and-resource-curse: active_end set to ongoing; Groningen 1959 replaces a North Sea discovery; Sachs–Warner sample corrected to 1971–89; Angola no longer treated as proof that resources cause civil war
+dbt-efficient-markets-vs-behavioral-finance: active_end set to ongoing; broken Shiller 1981 sentence fixed and the constant-discount-rate premise stated; 2013 prize citation corrected
+dbt-foreign-aid-effectiveness-sachs-easterly: Marshall Plan no longer treated as the start of the same aid model Easterly says failed
+dbt-marx-transformation-problem: active_end set to ongoing; Marx's procedure corrected (outputs transformed, input costs left in values); "value of labour" replaced with labour values
+dbt-optimal-top-tax-rates: active years set to 1971 and ongoing; Mirrlees 1971 and Saez 2001 added; US statutory rates distinguished from the earned-income maximum and the 1986 bubble rate; Ibn Khaldun link marked as a later analogy
+dbt-socialist-calculation-debate: Lerner separated from Lange's essay; Taylor 1929 and Lerner 1944 stated; Yugoslavia and Hungary no longer called applications of Lange; missing sources added
+dbt-wealth-tax: active_end set to ongoing; gaps: [] added; French ISF/IFI dated 2017/2018; German 1995 ruling and Swedish abolition in 2007 added
+fld-development-political-economy: Solow convergence stated as conditional; Little's initials corrected; Williamson 1989 phrased as his label; main cited books added to sources
+fld-labour-distribution: checked; names, dates and sources stood up, no substantive change
+fld-macroeconomics-money: checked; schools, dates and crisis citations stood up, no substantive change
+fld-political-economy: checked; strand summaries and dates stood up, no substantive change
+sch-arab-developmentalism-and-state-planning: added a sourced country-by-country account of nationalization (Egypt 1952/1956/1961 Laws 117–119, Syria 1964–65, Iraq 1964 and 1972, Algeria 1962–71, Tunisia under Ben Salah) and cleared the gap
+sch-austrian-school-of-economics: corrected the generation count (Menger first; Wieser and Böhm-Bawerk second); noted Hayek's 1974 prize was shared with Myrdal; Mont Pèlerin convened by Hayek rather than founded by him alone; Böhm-Bawerk's interest theory includes roundabout production
+sch-classical-political-economy: removed the claim that the school separated economics from ethics; dated the Muqaddimah to 1377; corrected the laissez-faire gloss and noted Malthus and Mill as exceptions
+sch-classical-theories-of-imperialism: checked; Luxemburg 1913, Hilferding 1910, Lenin 1916/17, Hobson 1902 and the editions stood up, no substantive change
+sch-development-economics: Nobel 2019 shared with Michael Kremer; Nussbaum's capability list distinguished from Sen's; Arab Human Development Report 2002 "deficits" wording restored
+sch-east-asian-developmental-state: MITI guidance described as backed by credit and licensing, not as mainly non-coercive; added a Gulf comparison via Hertog 2010 and cleared the gap
+sch-ecological-and-degrowth-economics: Daly's World Bank years placed after Steady-State Economics (1988–1994); Ostrom challenged Hardin rather than refuted the commons claim; Easterlin claim marked as contested
+sch-economics-of-inequality: separated Piketty's r>g from Marx's falling rate of profit; dropped "inevitably" and the "law" wording; Alvaredo–Assouad–Piketty 2019 no longer called the first estimate; substitution-elasticity critique distinguished from r>g and tied to Rognlie
+sch-general-equilibrium-theory: active_end set to ongoing; auctioneer labelled as a later reading of tâtonnement; equilibrium prices non-negative; Debreu 1959 publisher corrected to Yale; added a fixed-point section and cleared the gap
+sch-german-historical-school-economics: Verein für Socialpolitik dated to 1873 and distinguished from Bismarck's motives; Weber described as critic of Schmoller as well as heir; List's argument no longer "the most important"
+sch-homo-economicus-rational-choice-economics: active_end set to ongoing (1976 is Becker's book, not the close of the programme); utility maximisation no longer mixed with cost minimisation or full information
+sch-international-political-economy: expanded the realist, liberal and structuralist currents (Gilpin, hegemonic stability, Keohane, dependency/world-systems) and cleared the gap; Strange's contrast corrected to relational versus structural power; Bretton Woods no longer called a founding moment; added Keohane 1984 and Kindleberger 1973
+sch-islamic-banking-and-finance: dropped the uncertain 1931 birth year for Ahmad al-Najjar; covered ijara muntahia bittamleek and istisna and cleared the gap; noted murabaha's practical predominance
+sch-keynesian-economics: removed "revolutionary"; placed Hicks's IS-LM in 1937, before the postwar textbook spread
+sch-latin-american-structuralism-cepal: active_end set to ongoing because CEPAL and neostructuralism continue; comparative advantage no longer said to promise equal gains
+sch-marginal-revolution: the three 1871–74 books described as largely independent rather than entirely so; Walras, Éléments (Corbaz, 1874–1877) added to sources
+sch-marshallian-neoclassical-economics: elasticity credited to Marshall's standard form, with Cournot 1838 noted; long-run exit no longer called inevitable
+sch-marx-critique-of-political-economy: falling profit rate stated as a tendency with counteracting causes; added the transformation problem (Bortkiewicz, Seton) and the Cambridge capital controversy (Robinson, Sraffa, Samuelson) and cleared the gap; Ibn Khaldun parallel limited to a resemblance, not a labour theory of value; Rubin publisher corrected to Black & Red, 1972; presentation no longer called a settled logical-historical order
+sch-mercantilism-and-cameralism: dates aligned to c. 1500–1776; Petty's political arithmetic placed in the later seventeenth century, before Justi; Salamanca quantity theory separated from Smith's money-versus-wealth argument
+sch-modern-islamic-economics: al-Sadr no longer called the theoretical founder; IRTI dated to 1981, distinct from the Islamic Development Bank (1975)
+sch-monetarism-chicago-school: 1970s stagflation no longer treated as a clean confirmation of the expectations mechanism; Volcker's 1979 procedures and Thatcher's 1980 money targets distinguished from Reagan's fiscal programme
+sch-monetary-economics-tradition: active_start moved from 1911 to 1898 to include Wicksell; country line widened beyond the United States; "most influential" and "most contemporary analysis" softened
+sch-neoclassical-keynesian-synthesis: Phillips 1958 restored as a wage-change relation; the price-inflation menu attributed to Samuelson and Solow 1960; dates extended to the mid-1970s; Foundations (1947) added
+sch-new-institutional-economics: Coase 1960 stated as the zero-transaction-cost bargaining result, with the positive-cost case distinguished; the name "Coase theorem" left with Stigler
+sch-paretian-welfare-economics: active_end set to ongoing; removed the claim that Pareto himself flagged the equity limit of his criterion; Arrow's result no longer said to have shaken the field; Kaldor 1939 and Hicks 1939 added
+sch-post-keynesian-economics: softened the claim that the Cambridge critique undoes the whole neoclassical theory of distribution; Minsky no longer called the school's most important contribution
+sch-public-choice-theory: balanced-budget rules no longer treated as inventions of the school; added Niskanen 1971; Downs 1957 and Krueger 1974 added to sources because the text cites them
+sch-rentier-state-theory: Mahdavy 1970 placed before the 1973 oil shock; Luciani's allocation state versus production state added; "rentier autonomy" dropped as a label; stagflation separated from the rentier mechanism
+sch-schumpeterian-evolutionary-economics: English Theory of Economic Development (1934) tied to the revised 1926 German text, not the 1911 wording; Nelson–Winter described as simulation of routines rather than full optimization
+sch-soviet-planning-economics: collapse no longer treated as a proof that calculation without market prices is impossible; Mises 1920/1935 added to sources
+stu-acemoglu-johnson-robinson-colonial-origins-2001: Albouy's point that 36 of 64 mortality rates were assigned from other countries; Glaeser et al. 2004 human-capital critique; AJR 2012 reply added
+stu-akerlof-market-for-lemons-1970: dropped the claim that the paper founded information economics; microfinance removed as if it were in the 1970 article; Rothschild–Stiglitz 1976 and Stiglitz–Weiss 1981 added; replication_status set to mixed
+stu-banerjee-duflo-microfinance-hyderabad-2015: second wave corrected (comparison areas later received Spandana credit); 8.4 point take-up, pre-existing business profits, durables and temptation goods aligned with the 2015 paper
+stu-chetty-intergenerational-mobility-2014: Equality of Opportunity Project named before the later Opportunity Insights rename; 2018 Chetty–Hendren title corrected to the childhood-exposure paper
+stu-easterlin-paradox-1974: cross-country leg of the paradox restored; Bhutan and the doughnut decoupled from the 1974 chapter; Easterlin et al. 2010 reply added; missing stop after Abramovitz fixed
+stu-herndon-ash-pollin-replication-2013: spreadsheet error separated from selective years and weighting (about 0.3 points versus the full move from −0.1 to 2.2); postwar exclusions corrected to Australia, Canada and New Zealand, not Belgium
+stu-kahneman-deaton-income-wellbeing-2010: positive affect corrected to happiness, enjoyment and smiling, not admiration; $75,000 limited to the 2008–09 Gallup brackets; 2023 collaboration stated as revising a general emotional plateau
+stu-leontief-paradox-1953: capital-per-worker gap stated as about 30 percent; Leamer 1980 added as a critique of the test under unbalanced trade; gravity model and new trade theory removed as if they were answers to the paradox
+stu-piketty-saez-top-incomes-2003: postwar top incomes distinguished as wage and business income rather than the earlier capital-income peak; Kuznets 1953 and Goldin–Margo 1992 added; World Top Incomes Database distinguished from the later World Inequality Database
+stu-solow-residual-1957: aligned the 1909–1949 result with Solow’s per man-hour accounting and competitive factor shares, not a per-worker wage story
+thk-carl-menger: active_end set to 1903 (retirement); Rudolf tutorship dated 1876–1878; 1892 Economic Journal essay added to Sources
+thk-eugen-von-bohm-bawerk: Innsbruck appointment corrected to 1880 (ordinary professor 1884); finance-ministry terms corrected to 1895, 1897–1898 and 1900–1904
+thk-arthur-cecil-pigou: dropped “founder” and the claim that Keynes was his student; distinguished cardinal Pigouvian welfare from later Paretian tests; added the 1943 Pigou-effect article
+thk-alfred-marshall-economist: replaced “effective founder” with his role consolidating Cambridge neoclassical economics; textbook span tied to the 1920 edition and interwar use
+thk-david-ricardo: dropped “founder of the deductive style”; comparative advantage described as a numerical example, not a mathematical demonstration
+thk-alexander-chayanov: replaced “founder” with authorship of the peasant-economy theory
+thk-daron-acemoglu: dated Introduction to Modern Economic Growth to 2009 and listed it in Sources
+thk-albert-o-hirschman: removed “foundational”/“founders” wording for the 1958 book and his development-economics contemporaries
+thk-friedrich-august-von-hayek: Chicago post specified as Committee on Social Thought; business-cycle and Mont Pelerin claims softened; superlatives removed
+thk-gary-becker: dropped "most extended" and "foundational" human-capital wording; Robbins application no longer called the most ambitious
+thk-herman-daly: past tense after 2022 death; school label limited to ecological economics; Georgescu-Roegen link and ISEE role (with Costanza as first editor) corrected
+thk-hyman-minsky: Schumpeter supervision dated to 1950; Wray citation year set to 2016; "stability is destabilizing" no longer treated as a formal slogan against efficient markets
+thk-james-m-buchanan: "veil of ignorance" attributed to commentators' comparison with Rawls, not to Buchanan's own term; GMU described as housing both traditions, not merging them
+thk-joan-robinson: imperfect competition distinguished from Chamberlin's monopolistic competition (1933); "founder" wording removed
+thk-john-forbes-nash: school set to game theory; unverified "27 pages" removed; interdisciplinary superlatives cut
+thk-john-hicks: 1937 paper placed at Cambridge, not Oxford; IS-LL distinguished from Hansen's later IS-LM; Blaug 1985 publisher corrected to Wheatsheaf
+thk-john-maynard-keynes: "founded macroeconomics" and "revolution" removed; June 1944 letter to Hayek stated without an invented quotation
+thk-joseph-schumpeter: "most original" removed; long-run historical emphasis no longer called unique among all contemporaries
+thk-joseph-stiglitz: asymmetric-information result limited to standard neoclassical assumptions; Washington Consensus described as the package as applied, not a single imposed list
+thk-kate-raworth: false LSE visiting professorship replaced with Oxford ECI and Amsterdam AUAS; UNDP and Oxfam sequence restored; Amsterdam 2020 doughnut described as planning guidance
+thk-kenneth-arrow: City College then Columbia; impossibility and welfare theorems restated with their actual conditions; Arrow-Debreu existence not treated as a description of real economies
+thk-leon-walras: active_end set to 1910; "founder" and "recognition it deserved" removed; Schumpeter's "greatest theorist" marked as his judgement
+thk-ludwig-von-mises: Corrected generation (after Böhm-Bawerk, not the second generation); dropped "founder" for Menger; added the 1920 calculation essay to Sources.
+thk-milton-friedman: Softened "most prominent" and sole leadership of the Chicago school; noted Knight, Viner and Simons; hedged Thatcher/Reagan influence.
+thk-nikolai-kondratiev: active_end 1930 to 1938; Labour Peasant Party name; sentence dated 1931/32; execution 17 September 1938; rehabilitation 1963 and 1987; softened cycle and statistical claims.
+thk-paul-samuelson: Softened textbook and debate superlatives; Robert Summers was Samuelson's brother, not brother-in-law; noted Anita Summers and Kenneth Arrow.
+thk-piero-sraffa: Softened influence claims; reswitching attributed to later work in Sraffa's framework, not stated as a result proved in the 1960 book alone.
+thk-robert-lucas-jr: Death place Chicago, not Seattle; Carnegie Mellon 1963 and return to Chicago 1974; shared credit for new classical school; softened revolution/earthquake language; divorce clause dated 1988 and late 1995.
+thk-robert-mundell: active_end 2010 to 2021; death at Monteriggioni; euro nickname hedged; trilemma label dated as later; supply-side role tied to Laffer and disputed.
+thk-rosa-luxemburg: Lenin drew on Hobson and Hilferding, not on Luxemburg's realization thesis; grammar fix; Zurich study reasons; softened prominence claims.
+thk-samir-amin: "Showed" changed to "argued"; softened leadership and uniqueness claims; death in Paris noted.
+thk-thomas-piketty: Doctorate 1993 and MIT 1993–1995; dropped "first" for the Middle East inequality study; bestseller claim limited to the English edition.
+thk-thomas-robert-malthus: Moral restraint dated to the 1803 edition; Haileybury teaching from 1806; Keynes link hedged; Principles (1820) added to Sources.
+thk-vladimir-lenin: Dropped "first Marxist state"; Gregorian calendar note; added Development of Capitalism in Russia (1899) and Hobson 1902; Hegel notebooks dated 1914–1915.
+thk-w-arthur-lewis: active_end 1979 to 1991; softened "founding father"; noted his criticism of some state-led industrialisation, including in Ghana; added The Theory of Economic Growth (1955).
+thk-walter-eucken: Death in London, 20 March 1950; shared credit with Böhm; constituent versus regulating principles; social market economy also linked to Müller-Armack; Grundsätze (1952) added to Sources.
+wrk-a-monetary-history-of-the-united-states: softened “most important”/“pioneering”; replaced Blaug with Temin 1976 and Eichengreen 1992, which the text cites
+wrk-a-political-economy-of-the-middle-east-richards-waterbury: third edition is 2007, not 2008; noted the 2015 edition with Cammett and Diwan
+wrk-an-evolutionary-theory-of-economic-change-nelson-winter: collaboration about a decade, not “most comprehensive”/founding claims; ISS dated 1986; added Cyert and March 1963 and Nelson 1993
+wrk-capital-in-the-twenty-first-century-piketty: Kuznets claim softened from “refuting”; bestseller and database names corrected (World Top Incomes Database / World Inequality Database); added Rognlie 2015
+wrk-capitalism-socialism-and-democracy-schumpeter: Harvard move dated 1932; dropped “most famous” thesis and the claim that this book alone originates the idea
+wrk-finance-capital-hilferding: “organised capitalism” placed in the 1920s, not in the 1910 book; English translation credited to Watnick and Gordon, edited by Bottomore
+wrk-governing-the-commons-ostrom: removed the claim that local institutions equal or exceed state or private solutions
+wrk-imperialism-the-highest-stage-of-capitalism-lenin: 1917 imprint corrected from Zhizn' i Znanie to Parus; Wallerstein no longer said to rest on this pamphlet alone
+wrk-institutions-institutional-change-and-economic-performance-north: dropped “most comprehensive” and “optimal level”
+wrk-islam-and-mammon-kuran: dropped “most influential”; Kahf and Zarqa named as writers in the reply tradition, not as verified reviewers of this book
+wrk-manias-panics-and-crashes-kindleberger: Aliber from the fifth edition (2005), not the fourth (2000); Bagehot added; 1992 Minsky working paper removed as a source for the 1978 book
+wrk-principles-of-political-economy-and-taxation-ricardo: comparative-advantage example marked as theoretical; “marginal fertility” wording corrected; Corn Law repeal dated 1846
+wrk-the-accumulation-of-capital-luxemburg: German title supplied; “longest and most ambitious” removed
+wrk-the-calculus-of-consent-buchanan-tullock: Softened "founding" claims; placed the book beside Black and Downs; replaced anachronistic "veil of uncertainty" with the book's uncertainty premise; corrected Tullock's legal study and Foreign Service career; dated the public-choice centre's move to George Mason (1983) and the journal's origin in Papers on Non-Market Decision Making (1966); stated the 1986 prize citation and added logrolling.
+wrk-the-general-theory-of-employment-interest-and-money: Named Macmillan (February 1936) and the US Harcourt, Brace edition; softened claims that the book founded macroeconomics and designed Bretton Woods, noting the Keynes–White compromise; replaced the vague reception paragraph with Kahn, Robinson and Pigou's Theory of Unemployment (1933).
+wrk-the-oil-curse-ross: Added a sourced biographical sketch of Ross (Princeton PhD, Michigan, UCLA; 2001 and 2008 articles; Heinz Eulau Award) and cleared the biography gap; named Haber and Menaldo 2011 as the main statistical challenge; corrected the relation to Beblawi and Luciani as method rather than a simple continuation; added those sources.
+wrk-the-rentier-state-beblawi-luciani: Identified the book as Croom Helm 1987, IAI volume II; replaced the vague case-study paragraph with the actual chapter authors and topics (Stauffer, Abdel-Fadil, Chatelus, Ait Amara, Vandewalle, Oulalou and Jaidi, Garaibeh, Najmabadi) and cleared that gap; gave Luciani's chapter its full title; framed the European taxation contrast as the volume's argument; limited post-2014 comment to later reuse of the framework.
+wrk-the-theory-of-economic-development-schumpeter: Named Duncker & Humblot 1911 and the full English subtitle; stated that "creative destruction" is from the 1942 book; corrected the circular-flow claim (no entrepreneurial profit; interest zero on his account); documented the 1926 cuts (chapter 7 dropped, chapters 2 and 6 rewritten) from Schumpeter's preface and cleared the editions gap; dated the Biedermann Bank failure (1924) and the Harvard move (1932).
+wrk-the-use-of-knowledge-in-society-hayek: Softened citation and influence claims; corrected the tin example to Hayek's actual alternatives (new use or loss of a source), not a named mine disaster; noted the 1948 reprint in Individualism and Economic Order; distinguished the essay from Stigler's 1961 economics of information and added both sources.
+wrk-the-wealth-of-nations-smith: Softened the "founding" claim; corrected the pin figures to Smith's wording (scarce one pin, certainly not twenty; upwards of 48,000); moved the meeting with Quesnay to Paris, 1764–66, not Kirkcaldy; qualified Smith's value theory against a single labour theory; removed the false link between the 1776 publication and the later loss of the American colonies; attributed the six-month sale report to Rae's Life (1895) and added that source.

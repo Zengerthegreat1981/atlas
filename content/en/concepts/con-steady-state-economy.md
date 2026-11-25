@@ -24,7 +24,7 @@ gaps: []
 
 ## A Physical Basis: Thermodynamics
 
-The concept rests on the second law of thermodynamics (entropy). Every economic activity converts low-entropy natural resources into high-entropy waste and dissipated heat, a process that is physically irreversible. Daly concludes from this that the economy is a subsystem within a larger, physically bounded ecological system. Continuous material growth without end therefore inevitably collides with hard limits, however advanced the technology used in this conversion process.
+The concept rests on the second law of thermodynamics (entropy). Every economic activity converts low-entropy natural resources into high-entropy waste and dissipated heat, a process that is physically irreversible. From this, Daly and Nicholas Georgescu-Roegen treat the economy as a subsystem of a larger ecological system that is finite in its sources of low-entropy matter and energy. On their view, endless growth of physical throughput runs into those limits. How far substitution and technical change can loosen the constraint is disputed in the later growth-and-environment literature; the steady-state argument does not treat the dispute as closed.
 
 ## The Stability Criterion: Balance with Carrying Capacity
 
@@ -44,9 +44,11 @@ Daly proposed specific mechanisms for achieving this stability. Among them are a
 
 ## A Lasting Influence on Later Ecological Economics
 
-The concept paved the way for the founding of the International Society for Ecological Economics in 1989. It later influenced works such as Kate Raworth's "doughnut economics" model, which builds on the basic idea of physical limits on economic activity and adds to it an explicit social dimension concerning ensuring a minimum level of human well-being for all.
+The steady-state argument was one reference point for the International Society for Ecological Economics, founded in 1989. Kate Raworth's *Doughnut Economics* (2017) later combined a similar idea of an outer ecological ceiling with an inner social foundation, a minimum of well-being that the economy should meet.
 
 ## Sources
 
 - Daly, Herman E. *Steady-State Economics*. W.H. Freeman, 1977.
 - Georgescu-Roegen, Nicholas. *The Entropy Law and the Economic Process*. Harvard University Press, 1971.
+- Mill, John Stuart. *Principles of Political Economy*. 1848.
+- Raworth, Kate. *Doughnut Economics*. Random House, 2017.

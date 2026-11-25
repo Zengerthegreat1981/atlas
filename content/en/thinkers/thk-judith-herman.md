@@ -25,7 +25,7 @@ An American psychiatrist (1942–), professor of psychiatry at Harvard Medical S
 
 ## Academic Career
 
-Herman received her bachelor's degree from Radcliffe College and her medical degree from Harvard Medical School in 1968, and completed her psychiatric training at Boston University Medical Center. Her career combined clinical practice with feminist political commitment. In the 1970s she began her influential research on incest.
+Herman was born in New York City on 31 March 1942. Her father, Naphtali Lewis, was a classicist, and her mother, Helen Block Lewis, was a psychologist and psychoanalyst. Herman attended Radcliffe College and Harvard Medical School and joined the Department of Psychiatry at Cambridge Hospital, a Harvard teaching hospital now part of Cambridge Health Alliance. Her career combined clinical practice with feminist political commitment. In the 1970s she began research on incest, working from interviews with survivors rather than from offender-centered case reports.
 
 ## "Father-Daughter Incest" (1981)
 
@@ -38,11 +38,13 @@ Her most famous and influential work is *Trauma and Recovery: The Aftermath of V
 1. **The unity of trauma across contexts**: Herman brought together literature that had previously been separate, on the trauma of combat veterans (especially after the Vietnam War) and the trauma of victims of domestic and sexual violence. She argued that the psychological mechanisms of trauma are similar regardless of whether the source is a battlefield or a family home.
 2. **Complex Post-Traumatic Stress Disorder (Complex PTSD)**: Herman proposed an expanded concept of trauma resulting from prolonged and repeated exposure (such as captivity and chronic domestic abuse). It goes beyond standard PTSD symptoms to include deep disturbances in emotional regulation, self-concept, and relationships with others. The concept later fed into the inclusion of "complex post-traumatic stress disorder" (code 6B41) in the ICD-11, which the World Health Assembly approved in 2019 and which entered into force in 2022; DSM-5-TR does not list it as a separate diagnosis.
 
-Herman also formulated a **three-stage model of recovery**: (1) establishing safety, (2) remembrance and mourning, and (3) reconnection with ordinary life. This model remains an influential reference in trauma-informed clinical training, although it is a descriptive framework and this entry is not clinical advice.
+Herman also formulated a **three-stage model of recovery**: (1) establishing safety, (2) remembrance and mourning, and (3) reconnection with ordinary life. She described single-incident events as one pattern of trauma and prolonged, repeated trauma, such as captivity or chronic abuse, as another. The stages are a clinical and teaching framework, not a manualized protocol with a fixed session count. This entry is not clinical advice.
 
-## Recognition and Impact
+She has remained on the Harvard faculty and has continued to teach in the Victims of Violence Program.
 
-Her book is among the most cited works in the field of trauma studies, and it helped reshape the clinical and political understanding of sexual and domestic violence as a matter of public health rather than a purely private issue.
+## Recognition and Limits
+
+*Trauma and Recovery* is among the most cited books in trauma studies. It argued that sexual and domestic violence belong in the same public-health and human-rights frame as the trauma of war. The argument has limits that Herman's own later writing and the wider field have had to face. Complex PTSD is a diagnosis in ICD-11 and is not a separate disorder in DSM-5-TR, so clinicians using the American manual still code prolonged trauma under PTSD, personality disorder, or other categories. The three stages describe a common sequence. They do not specify which exposure technique, medication, or social intervention produces change, and trials of trauma-focused therapies have generally tested more structured protocols. Critics of the "unity of trauma" claim argue that combat, torture, incest, and single assaults differ in social meaning even when some symptoms overlap. The 1990s debate over recovered memory also surrounded this literature: Herman defended the credibility of many delayed disclosures of abuse, while courts and researchers continued to dispute how memory for repeated childhood trauma should be evaluated. Cultural psychiatry has added that idioms of distress and family responses to violence are not the same across societies, a point only sketched in the 1992 book.
 
 ## Sources
 

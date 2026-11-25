@@ -9,11 +9,11 @@ cultural_origin: "anglo-european"
 title: "Classical Neurolinguistics"
 en: "Classical Neurolinguistics"
 crumb: "Linguistics ← Schools ← Classical Neurolinguistics"
-dates: "France, Germany · 1861 to around 1970"
+dates: "France, Germany, United States · 1861 to about 1990"
 country: "France, Germany"
 language: "French, German"
 active_start: 1861
-active_end: 1970
+active_end: 1990
 edges: []
 related:
 - id: "con-broca-wernicke-lichtheim-model", title: "The Broca–Wernicke–Lichtheim Model", type: "مفهوم"
@@ -23,15 +23,15 @@ gaps: []
 
 # Classical Neurolinguistics
 
-A foundational research current in the study of the relationship between the brain and language. It arose from French and German clinical neurology in the nineteenth century and continued until the late 1960s, relying on the method of **lesion studies**: linking the site of brain damage, usually identified by anatomy after death, with the kind of language impairment the patient had experienced during life. This current laid the foundation on which modern neurolinguistic sciences were later built.
+A clinical research current on the relation between brain injury and language. It arose in French and German neurology in the nineteenth century and, after a mid-twentieth-century revival, remained a standard teaching model into the early years of functional brain imaging. Its method was the **lesion study**: linking the site of damage, often identified at autopsy, with the language impairment observed in life.
 
 ## Broca's Discovery: Localizing Language
 
-The tradition began in 1861, when the French surgeon **Paul Broca** presented the case of his famous patient, nicknamed "Tan," who lost the ability to speak fluently while his comprehension remained relatively intact. Anatomical examination after the patient's death revealed damage in the left frontal lobe, the area later named after Broca (Broca's area). This case, together with Broca's further cases, provided influential anatomical evidence that language functions are **localized** in specific regions of the brain rather than distributed evenly across it, thereby establishing the science of functional localization.
+The tradition began in 1861, when the French surgeon **Paul Broca** presented the case of his famous patient, nicknamed "Tan," who lost the ability to speak fluently while his comprehension remained relatively intact. Anatomical examination after the patient's death revealed damage in the left frontal lobe, the area later named after Broca (Broca's area). This case, together with Broca's further cases, was influential anatomical evidence that at least some language functions are **localized**. Earlier clinicians, including Jean-Baptiste Bouillaud, had already argued for a frontal speech center; Broca's autopsy evidence made that claim much harder to dismiss. Localization remained contested, and later work showed that the classical areas are not single-function centers.
 
 ## Wernicke's Discovery: Receptive Aphasia
 
-Thirteen years after Broca, in 1874, the German physician **Carl Wernicke** described in his book *Der Aphasische Symptomencomplex* an opposite pattern of aphasia. Patients spoke with apparent fluency, but their speech was devoid of meaning, and they showed a severe impairment in understanding speech. He linked this to damage in the posterior part of the left temporal lobe (Wernicke's area). Wernicke proposed that language relies on a network of interconnected specialized regions rather than on a single center, which paved the way for the idea of "disconnection syndromes" between specialized brain regions.
+Thirteen years after Broca, in 1874, the German physician **Carl Wernicke** described in *Der aphasische Symptomencomplex* an opposite pattern of aphasia. Patients spoke with apparent fluency, but their speech was devoid of meaning, and they showed a severe impairment in understanding speech. He linked this to damage in the posterior part of the left temporal lobe (Wernicke's area). Wernicke proposed that language relies on a network of interconnected specialized regions rather than on a single center, which paved the way for the idea of "disconnection syndromes" between specialized brain regions.
 
 ## The Lichtheim Model and the Associationist Formulation
 
@@ -48,7 +48,8 @@ Recent research, such as the dual-stream model of Hickok and Poeppel, has shown 
 ## Sources
 
 - Broca, Paul. "Remarques sur le siège de la faculté du langage articulé." *Bulletin de la Société Anatomique*, 6, 1861.
-- Wernicke, Carl. *Der Aphasische Symptomencomplex*. Cohn & Weigert, 1874.
+- Wernicke, Carl. *Der aphasische Symptomencomplex*. Cohn & Weigert, 1874.
 - Lichtheim, Ludwig. "On Aphasia." *Brain*, 7(4), 1885.
 - Geschwind, Norman. "Disconnexion Syndromes in Animals and Man." *Brain*, 88(2–3), 1965.
 - Goodglass, Harold. *Understanding Aphasia*. Academic Press, 1993.
+- Hickok, Gregory, & Poeppel, David. "The Cortical Organization of Speech Processing." *Nature Reviews Neuroscience*, 8, 2007.

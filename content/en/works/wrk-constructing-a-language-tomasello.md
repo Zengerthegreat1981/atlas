@@ -26,7 +26,7 @@ gaps: []
 
 # Constructing a Language: A Usage-Based Theory of Language Acquisition
 
-A landmark work by Michael Tomasello (2003), developmental psychologist and researcher in developmental language sciences at the Max Planck Institute for Evolutionary Anthropology in Leipzig. It presents the most detailed account of his usage-based alternative to the generative innate universal grammar hypothesis for explaining how children acquire their first language. The account rests on decades of his direct experimental research on the development of language and social cognition in young children.
+A major work by Michael Tomasello (2003), a developmental psychologist then at the Max Planck Institute for Evolutionary Anthropology in Leipzig. It sets out his usage-based alternative to theories of innate universal grammar as an account of how children acquire a first language. The argument draws on his experimental and observational research on language and social cognition in young children.
 
 ## The Central Argument: Generalization from Specific Examples
 
@@ -46,7 +46,7 @@ Tomasello details the stages of language acquisition based on detailed longitudi
 
 ## Critique of the Poverty of the Stimulus Argument
 
-The book directly confronts the "poverty of the stimulus" argument on which generative theorists rely to demonstrate linguistic innateness. That argument holds that the speech children hear is logically insufficient to derive the complex grammatical rules they actually acquire, and therefore that prior innate grammatical knowledge must be presumed. Tomasello replies that this argument underestimates the richness of the actual linguistic input directed at the child (child-directed speech) and its enormous daily repetition, and ignores the capacity of general cognitive mechanisms (such as statistical analogy and categorization over examples) to extract complex grammatical generalizations from this rich input without any specialized innate grammatical content.
+The book directly confronts the "poverty of the stimulus" argument used by many generative theorists in favour of linguistic innateness. That argument holds that the speech children hear is insufficient for them to arrive at the grammatical knowledge they show, and therefore that some grammatical knowledge is innate. Tomasello replies that this argument underestimates the richness of the actual linguistic input directed at the child (child-directed speech) and its enormous daily repetition, and ignores the capacity of general cognitive mechanisms (such as statistical analogy and categorization over examples) to extract complex grammatical generalizations from this rich input without any specialized innate grammatical content.
 
 ## Impact and Position in the Debate
 

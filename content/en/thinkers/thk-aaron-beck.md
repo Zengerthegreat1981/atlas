@@ -21,7 +21,7 @@ gaps: []
 
 # Aaron Beck
 
-American psychiatrist (born in Providence, Rhode Island, 1921; died 2021), professor emeritus in the Department of Psychiatry at the University of Pennsylvania, widely regarded as the founder of **cognitive therapy** and one of the figures who most shaped the course of psychotherapy in the second half of the twentieth century. He graduated from Brown University and then from Yale Medical School, and began his training as a psychoanalyst before gradually moving away from Freudian assumptions.
+American psychiatrist (born in Providence, Rhode Island, 1921; died 2021), professor emeritus in the Department of Psychiatry at the University of Pennsylvania, widely regarded as the originator of **cognitive therapy**, and a figure who strongly shaped psychotherapy in the second half of the twentieth century. He graduated from Brown University and then from Yale Medical School, and began his training as a psychoanalyst before gradually moving away from Freudian assumptions.
 
 ## What He Contributed
 
@@ -39,11 +39,11 @@ Beck did not stop at formulating a theoretical model; he built organized therape
 
 ### Extending the Model to Other Disorders
 
-Beck later extended the application of his cognitive model to anxiety, personality disorders, schizophrenia, and suicidal tendencies. He developed, with colleagues, complementary measures such as the Beck Hopelessness Scale (1974) and the Scale for Suicide Ideation (1979), the Beck Anxiety Inventory (1988), and, with Emery and Greenberg, a cognitive account of anxiety in *Anxiety Disorders and Phobias* (1985). With Arthur Freeman he applied the model to personality disorders (1990), and with Neil Rector to schizophrenia (2005). These instruments are screening and monitoring aids, not diagnostic tests.
+Beck later extended the application of his cognitive model to anxiety, personality disorders, schizophrenia, and suicidal tendencies. He developed, with colleagues, complementary measures such as the Beck Hopelessness Scale (1974) and the Scale for Suicide Ideation (1979), the Beck Anxiety Inventory (1988), and, with Emery and Greenberg, a cognitive account of anxiety in *Anxiety Disorders and Phobias* (1985). With Arthur Freeman he applied the model to personality disorders (1990). With Neil Rector he published a 2005 review of cognitive approaches to schizophrenia, and with Rector, Neal Stolar, and Paul Grant the book *Schizophrenia: Cognitive Theory, Research, and Therapy* (2009). The symptom scales are screening and monitoring aids, not diagnostic tests.
 
 ## Impact
 
-Aaron Beck, together with Albert Ellis (founder of rational emotive behavior therapy), is regarded as the founding father of the cognitive therapy tradition. He received major honours for his work, including the Lasker-DeBakey Clinical Medical Research Award (2006). He died on 1 November 2021, aged 100.
+Aaron Beck, together with Albert Ellis, who developed rational emotive therapy, is a central figure in the cognitive therapy tradition. He received major honours for his work, including the Lasker-DeBakey Clinical Medical Research Award (2006). He died on 1 November 2021, aged 100.
 
 ## Debates
 
@@ -56,3 +56,4 @@ Critics have questioned how much of the benefit of cognitive therapy is due to c
 - Aaron T. Beck, *Depression: Clinical, Experimental, and Theoretical Aspects*, Harper & Row, 1967.
 - Aaron T. Beck, *Cognitive Therapy and the Emotional Disorders*, International Universities Press, 1976.
 - Marjorie E. Weishaar, *Aaron T. Beck*, Sage, 1993.
+- Aaron T. Beck, Neil A. Rector, Neal Stolar, and Paul Grant, *Schizophrenia: Cognitive Theory, Research, and Therapy*, Guilford Press, 2009.

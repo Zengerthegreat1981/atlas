@@ -24,11 +24,11 @@ gaps: []
 
 # Generative Phonology
 
-A current in phonology that emerged within the generative program founded by Noam Chomsky. It took full theoretical shape in Chomsky and Morris Halle's landmark book *The Sound Pattern of English* (commonly abbreviated SPE, 1968). That book moved the study of linguistic sound from the structural descriptive approach (as in the Prague Linguistic Circle) to the formulation of explicit **derivational rules** that convert an underlying representation into a surface, pronounced representation through an ordered sequence of rules.
+A current in phonology within the generative program, given its classic statement in Noam Chomsky and Morris Halle's *The Sound Pattern of English* (SPE, 1968). The book states explicit **derivational rules** that map an underlying representation to a pronounced surface form by an ordered sequence of rules. It was a break with the mainly taxonomic phonemics of American structuralism. Prague School phonology had already used abstract oppositions and, in Jakobson's work, features.
 
 ## Distinctive Features and Rule-Based Derivation
 
-The generative model inherited the notion of **distinctive features** from the Prague Circle (Jakobson and Trubetzkoy), but reformulated them in binary (+/-) terms amenable to formal treatment, treating each phoneme as a bundle of such features (such as [±voiced], [±nasal], [±high]). The SPE mechanism derives the pronounced form from the underlying representation through context-sensitive rewrite rules (A → B / X_Y), applied in a strictly linear order, so that the output of each rule becomes the input of the next.
+SPE uses **distinctive features** in a binary (+/−) system developed from the work of Roman Jakobson, Gunnar Fant and Halle (*Preliminaries to Speech Analysis*, 1952). Nikolai Trubetzkoy's oppositions were not uniformly binary. In SPE a segment is a bundle of features such as [±voiced], [±nasal] and [±high]. The SPE mechanism derives the pronounced form from the underlying representation through context-sensitive rewrite rules (A → B / X_Y), applied in a strictly linear order, so that the output of each rule becomes the input of the next.
 
 ## Autosegmental Phonology by Goldsmith
 
@@ -36,7 +36,7 @@ The study of tone languages (such as many African languages) revealed the shortc
 
 ## Feature Geometry and Underspecification
 
-**George Clements** later developed "feature geometry," which arranges distinctive features in a hierarchical tree with intermediate nodes (such as the place-of-articulation node that groups lip, alveolar, and palatal features), so that groups of features spread together as a single unit. Associated with this development is the concept of **underspecification**, advanced by Diana Archangeli and Donca Steriade, which holds that some feature values are left unspecified in the underlying representation and derived later by default rules.
+**George N. Clements** developed a version of feature geometry in which features hang from class nodes, including a place node that groups labial, coronal and dorsal features, so that a class of features can spread together. Related hierarchical proposals were made by others, including Elizabeth Sagey. Associated with this development is the concept of **underspecification**, advanced by Diana Archangeli and Donca Steriade, which holds that some feature values are left unspecified in the underlying representation and derived later by default rules.
 
 ## The Shift to Optimality Theory
 
@@ -44,7 +44,7 @@ The study of tone languages (such as many African languages) revealed the shortc
 
 ## Lasting Impact
 
-The legacy of SPE remained present even after Optimality Theory emerged, as most later frameworks adopted the notion of distinctive features and underlying representation. Meanwhile, work such as Elisabeth Selkirk's on prosodic structure extended the generative framework, while critics such as Juliette Blevins, in her "Evolutionary Phonology," have argued that many sound patterns are better explained by the history of sound change than by synchronic grammar.
+The legacy of SPE remained present even after Optimality Theory emerged, as most later frameworks adopted the notion of distinctive features and underlying representation. Elisabeth Selkirk's work on the prosodic hierarchy extended generative phonology above the segment. Juliette Blevins's *Evolutionary Phonology* (2004) argues that many recurrent sound patterns are better explained as the outcome of sound change than as constraints in a synchronic grammar. That historical account is a competitor to, not a replacement adopted by, the generative tradition.
 
 ## Sources
 
@@ -53,3 +53,5 @@ The legacy of SPE remained present even after Optimality Theory emerged, as most
 - Clements, George N. "The Geometry of Phonological Features." *Phonology Yearbook*, 2, 1985.
 - Prince, Alan, & Smolensky, Paul. *Optimality Theory: Constraint Interaction in Generative Grammar*. Blackwell, 2004 (circulated 1993).
 - Kenstowicz, Michael. *Phonology in Generative Grammar*. Blackwell, 1994.
+- Jakobson, Roman, Fant, C. Gunnar M., & Halle, Morris. *Preliminaries to Speech Analysis*. MIT Press, 1952.
+- Blevins, Juliette. *Evolutionary Phonology*. Cambridge University Press, 2004.

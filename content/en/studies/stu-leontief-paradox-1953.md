@@ -12,7 +12,7 @@ active_start: 1951
 active_end: 1953
 edges:
 - rel: "belongs_to", target: "Marshallian Neoclassical Economics", target_type: "مدرسة"
-related:
+related: []
 study_year: 1953
 design: "Empirical analysis of the structure of US foreign trade using input-output tables, to test the predictions of the Heckscher–Ohlin theory of international trade"
 sample_size: "US foreign trade data and input-output tables for 1947"
@@ -31,17 +31,18 @@ Leontief used the input-output tables he had developed to analyse the US economy
 
 ## The result contrary to theoretical expectation
 
-The Heckscher–Ohlin theory, then the prevailing theoretical foundation for explaining patterns of international trade, predicted that a country relatively abundant in capital (such as the United States after the Second World War) should export goods that use capital intensively and import goods that use labour intensively from partners less abundant in capital. Leontief's calculations showed exactly the reverse: US import-competing production was roughly 30 percent more capital-intensive than US exports. This was a shocking result for most trade economists at the time.
+The Heckscher–Ohlin theory predicted that a country relatively abundant in capital, as the United States was after the Second World War, would export capital-intensive goods and import labour-intensive goods. Leontief's 1947 figures went the other way. Capital per worker in import-competing production was on the order of $18,000, against about $14,000 in export production, roughly 30 percent higher. The result was unexpected. It was a comparison of factor ratios in two baskets of goods, not a full test of whether the United States was a net exporter of capital services.
 
 ## Competing explanations
 
-Economists proposed several competing explanations for the paradox, without a full resolution. One is that US labour is more skilled and productive than labour elsewhere in the world, so that one unit of American labour is equivalent to several units of foreign labour (Leontief's own suggestion was that American workers were about three times as productive). Exports are then effectively intensive in "human capital" rather than in simple raw labour. Another is that US tariffs protected domestic labour-intensive sectors, distorting the actual pattern of trade away from the theoretical "free" pattern. A third is methodological objections concerning the aggregation of raw sectors into a simplified two-way classification that does not reflect the actual complexity of the production structure.
+Leontief's own suggestion was that American labour was more productive than foreign labour, perhaps several times more productive, so that exports were intensive in effective labour or in skill. Later work treated skill as human capital (a third factor) rather than as a simple multiplier on raw labour. Tariffs that protected labour-intensive industries were another candidate, because they would change the import basket the statistician observes. Input-output aggregation can also blur products that use capital and labour in very different ways.
 
-## Methodological impact on trade theory
+Edward Leamer (1980) argued that Leontief's comparison is not the right test when trade is unbalanced. In 1947 the United States had a large export surplus, so it could be a net exporter of both capital and labour services. Leamer showed that, on a corrected comparison of net exports with consumption, the 1947 data reveal the United States as capital-abundant. The paradox in Leontief's original ratio is then partly a property of the test. It reappears in some later US data under other methods, and multi-country tests of the Heckscher–Ohlin–Vanek equations (including Daniel Trefler's work on "missing trade") still find that factor endowments explain less of the factor content of trade than the simplest model predicts. Technology differences and trade costs matter as well.
 
-The paradox prompted deep theoretical revisions of the Heckscher–Ohlin model. These included extending it to include multiple factors of production (human capital, physical capital and natural resources) rather than only two. They also formed part of the background to later approaches that go beyond factor endowments alone, such as technology-gap and product-cycle explanations, the gravity model of bilateral trade, and the "new trade theory" of the late 1970s and 1980s, which stresses economies of scale and product differentiation. No single explanation has won full consensus.
+The paradox is one reason trade theory moved beyond two factors. It is not the origin of the gravity equation, which predates these revisions, and it is not the same problem as the new trade theory of scale economies and intra-industry trade.
 
 ## Sources
 
 - Leontief, Wassily. "Domestic Production and Foreign Trade: The American Capital Position Re-Examined." *Proceedings of the American Philosophical Society*, vol. 97, no. 4, 1953, pp. 332–349.
-- Deardorff, Alan V. "Testing Trade Theories and Predicting Trade Flows." *Handbook of International Economics*, vol. 1, 1984, pp. 467–517.
+- Leamer, Edward E. "The Leontief Paradox, Reconsidered." *Journal of Political Economy*, vol. 88, no. 3, 1980, pp. 495–503.
+- Deardorff, Alan V. "Testing Trade Theories and Predicting Trade Flows." In *Handbook of International Economics*, vol. 1, edited by Ronald W. Jones and Peter B. Kenen, North-Holland, 1984, pp. 467–517.

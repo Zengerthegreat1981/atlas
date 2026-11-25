@@ -32,20 +32,23 @@ In 2013 Tomas Mikolov and colleagues at Google introduced the Word2Vec algorithm
 
 ## Geometric Properties of the Semantic Space
 
-These representations revealed striking mathematical properties. Semantic relations between words are reflected in vector arithmetic. Subtracting the vector for "man" from the vector for "king" and adding the vector for "woman" yields a vector close to "queen." This suggests that the learned vector space captures some analogical relations without explicit guidance, relying only on patterns of contextual distribution in the corpus, although such analogy results are approximate and not uniformly reliable.
+Mikolov, Yih, and Zweig (2013) reported that some semantic relations appear as roughly regular offsets in this space. A much-cited case is that the vector for "king," minus "man," plus "woman," falls near "queen." The result is approximate: many analogies fail, and the offset method is a probe of the space rather than a definition of meaning.
 
 ## The Fundamental Limitation: Static Representation
 
-The fundamental weakness of these early representations is that they are static. Each word receives one fixed vector, regardless of its intended meaning in a particular use. They cannot distinguish between "bank" in the sense of a financial institution and "bank" in the sense of a riverbank. This limitation led to the emergence of contextual vector representations such as ELMo and BERT, which derive a different vector for each actual occurrence of a word according to its specific sentence.
+These early representations are static. Each word type receives one vector, so they do not separate "bank" as a financial institution from "bank" as the side of a river. Contextual models assign a vector to each token in its sentence. ELMo (Peters et al. 2018) derives token representations from a bidirectional language model. BERT (Devlin et al. 2019) derives them from a Transformer pretrained with a masked-word objective.
 
 ## Impact
 
-Distributional semantics revolutionized computational natural language processing. It replaced the discrete, symbolic representation of words (such as one-hot encoding) with a dense geometric space that captures semantic similarity automatically. It became an important foundation for subsequent language-processing architectures, including contextual models and large language models, which learn their representations from distributional patterns in text.
+Distributional vectors changed much of computational language processing by replacing sparse symbolic encodings, such as one-hot vectors, with dense vectors in which distributional similarity is geometric. Contextual models and later large language models still learn representations from patterns of co-occurrence in text, although a token vector is no longer a single stored word type.
 
 ## Sources
 
 - Firth, J. R. (1957). "A Synopsis of Linguistic Theory 1930-1955." In *Studies in Linguistic Analysis*. Blackwell.
 - Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). "Efficient Estimation of Word Representations in Vector Space." *arXiv:1301.3781*.
-- Pennington, J., Socher, R., & Manning, C. D. (2014). "GloVe: Global Vectors for Word Representation." *Proceedings of EMNLP 2014*.
+- Mikolov, T., Yih, W.-t., & Zweig, G. (2013). "Linguistic Regularities in Continuous Space Word Representations." *Proceedings of NAACL-HLT 2013*, 746-751.
+- Pennington, J., Socher, R., & Manning, C. D. (2014). "GloVe: Global Vectors for Word Representation." *Proceedings of EMNLP 2014*, 1532-1543.
+- Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). "Deep Contextualized Word Representations." *Proceedings of NAACL-HLT 2018*, 2227-2237.
+- Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." *Proceedings of NAACL-HLT 2019*, 4171-4186.
 - Deerwester, S., Dumais, S. T., Furnas, G. W., Landauer, T. K., & Harshman, R. (1990). "Indexing by Latent Semantic Analysis." *Journal of the American Society for Information Science*, 41(6), 391-407.
 - Harris, Z. S. (1954). "Distributional Structure." *Word*, 10(2-3), 146-162.

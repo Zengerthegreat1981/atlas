@@ -7,8 +7,13 @@ level: "متقدم"
 title: "Michael Tomasello"
 en: "Michael Tomasello"
 crumb: "Linguistics ← Thinkers ← Michael Tomasello"
-dates: "· 1950–present"
+dates: "United States · born 1950"
+country: "United States"
+language: "English"
 birth_year: 1950
+active_start: 1992
+active_end: "مستمر"
+active_source: "career"
 fields: ["usage-based linguistics", "child development", "construction grammar", "shared intentionality", "primate cognition"]
 affiliation: "Duke University; formerly Max Planck Institute for Evolutionary Anthropology"
 primary_school: "sch-usage-based-grammar"
@@ -21,13 +26,13 @@ gaps: []
 
 # Michael Tomasello
 
-An American evolutionary, comparative, and developmental psychologist and linguist, professor at Duke University, who previously served as co-director of the Max Planck Institute for Evolutionary Anthropology in Leipzig. He is one of the most influential developmental and comparative psychologists of his generation, known for his research comparing the cognition of children and great apes, and for his theory of **shared intentionality** as the decisive cognitive difference between humans and other primates.
+An American developmental and comparative psychologist, professor at Duke University, and formerly co-director of the Max Planck Institute for Evolutionary Anthropology in Leipzig. He is known for experiments comparing young children with great apes, and for the theory of **shared intentionality**, which he argues is a central cognitive difference between humans and other primates.
 
 ## What He Contributed
 
 ### The Theory of Shared Intentionality
 
-Through decades of comparative experiments on infants and young children on the one hand, and on chimpanzees and bonobos on the other, Tomasello developed the thesis that humans uniquely possess the capacity for **shared intentionality**: cooperating in a collective activity with shared goals and intentions that both parties are aware of, and in which each knows that the other is aware of it too. He showed that this capacity develops in two developmental stages: **joint intentionality** around the ninth month of age, and then **collective intentionality** around the third year. This capacity opens the way for language, social norms, and institutions, abilities that are absent or very weak in non-human great apes despite their high individual intelligence.
+From comparative experiments with infants and young children, and with chimpanzees and bonobos, Tomasello argues that humans have a distinctive capacity for **shared intentionality**: joint activity in which the participants share a goal and each knows that the other shares it. On his account the capacity develops in two broad stages, **joint intentionality** from around the ninth month and **collective intentionality** around the third year. He treats that capacity as a basis for language, norms and institutions, and as weak or absent in other great apes despite their individual intelligence. The claim is his interpretation of the experimental record, not an uncontested finding.
 
 ### Usage-Based Grammar and Language Development in Children
 
@@ -50,6 +55,7 @@ In *The Cultural Origins of Human Cognition* (1999), he advanced the hypothesis 
 
 ## Major Works
 
+- *First Verbs: A Case Study of Early Grammatical Development* (1992).
 - *The Cultural Origins of Human Cognition* (1999).
 - *Constructing a Language: A Usage-Based Theory of Language Acquisition* (2003).
 - *A Natural History of Human Thinking* (2014).
@@ -57,7 +63,9 @@ In *The Cultural Origins of Human Cognition* (1999), he advanced the hypothesis 
 
 ## Sources
 
+- Tomasello, Michael. *First Verbs: A Case Study of Early Grammatical Development*. Cambridge: Cambridge University Press, 1992.
 - Tomasello, Michael. *The Cultural Origins of Human Cognition*. Cambridge, MA: Harvard University Press, 1999.
 - Tomasello, Michael. *Constructing a Language: A Usage-Based Theory of Language Acquisition*. Cambridge, MA: Harvard University Press, 2003.
 - Tomasello, Michael, et al. "Understanding and Sharing Intentions: The Origins of Cultural Cognition." *Behavioral and Brain Sciences* 28, no. 5 (2005): 675–691.
 - Tomasello, Michael. *A Natural History of Human Thinking*. Cambridge, MA: Harvard University Press, 2014.
+- Tomasello, Michael. *Becoming Human: A Theory of Ontogeny*. Cambridge, MA: Harvard University Press, 2019.

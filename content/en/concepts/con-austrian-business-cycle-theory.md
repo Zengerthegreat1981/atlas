@@ -21,7 +21,7 @@ gaps: []
 ---
 # Austrian Business Cycle Theory
 
-**Austrian business cycle theory** is a theoretical framework developed by **Ludwig von Mises** in *The Theory of Money and Credit* (1912), drawing on Knut Wicksell's distinction between the natural and the market rate of interest and on Eugen von Böhm-Bawerk's theory of capital, and elaborated later by **Friedrich Hayek** in *Monetary Theory and the Trade Cycle* (1929) and *Prices and Production* (1931). Hayek shared the 1974 Nobel Memorial Prize in part for this work on money and economic fluctuations. It links the causes of unsustainable investment booms and the economic crises that follow them to an artificial credit expansion created by banks through lowering the interest rate, without a real basis in the genuine voluntary saving of individuals.
+**Austrian business cycle theory** is a theoretical framework whose monetary setting was laid out by **Ludwig von Mises** in *The Theory of Money and Credit* (1912; *Theorie des Geldes und der Umlaufsmittel*), drawing on Knut Wicksell's distinction between the natural and the market rate of interest and on Eugen von Böhm-Bawerk's theory of capital. Mises stated the cycle argument more fully in later essays, and **Friedrich Hayek** elaborated it in *Monetary Theory and the Trade Cycle* (1929; English 1933) and *Prices and Production* (1931). Hayek shared the 1974 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel with Gunnar Myrdal for work on money, economic fluctuations, and the interdependence of economic and institutional phenomena. It links the causes of unsustainable investment booms and the economic crises that follow them to an artificial credit expansion created by banks through lowering the interest rate, without a real basis in the genuine voluntary saving of individuals.
 
 ## Interest as a signal of real saving
 
@@ -33,7 +33,7 @@ Entrepreneurs respond to this misleading signal by embarking on long-term invest
 
 ## The inevitable correction: depression
 
-When it eventually becomes clear that real saving was not sufficient to complete all these ambitious investment projects, many firms are forced to halt unfinished projects or liquidate them at a loss. A painful correction, a depression, then occurs that re-aligns the structure of actual production with consumers' real preferences for saving and consumption. Austrians hold that this correction is necessary and beneficial despite its pain, because it removes accumulated economic distortions. They argue that trying to avoid it through further credit expansion, as Keynesian policies recommend, postpones the problem and magnifies it rather than solving it.
+When it eventually becomes clear that real saving was not sufficient to complete all these ambitious investment projects, many firms are forced to halt unfinished projects or liquidate them at a loss. A painful correction, a depression, then occurs that re-aligns the structure of actual production with consumers' real preferences for saving and consumption. Austrians hold that liquidating the unsustainable projects is a necessary correction, because it removes the misallocation, even though the process is painful. They argue that trying to avoid it through further credit expansion, as Keynesian policies recommend, postpones the problem and magnifies it rather than solving it.
 
 ## A confrontation with Keynesian theory
 
@@ -48,3 +48,4 @@ Many mainstream economists, including Milton Friedman, who was himself close to 
 - Mises, Ludwig von. *The Theory of Money and Credit*. Jonathan Cape, 1934 (English translation of the German original *Theorie des Geldes und der Umlaufsmittel*, 1912).
 - Hayek, Friedrich A. *Monetary Theory and the Trade Cycle*. Jonathan Cape, 1933 (German original 1929).
 - Hayek, Friedrich A. *Prices and Production*. George Routledge & Sons, 1931.
+- Friedman, Milton. "The 'Plucking Model' of Business Fluctuations Revisited." *Economic Inquiry*, vol. 31, no. 2, 1993, pp. 171–177.

@@ -29,7 +29,7 @@ In his book *The End of Poverty* (2005), Jeffrey Sachs argued that the world's p
 
 ## Easterly's position: a repeated historical failure
 
-William Easterly argues that this idea has repeatedly failed empirically despite being applied in various forms for decades since the Marshall Plan and attempts to generalize it to countries of the South. He warns that massive aid not carefully targeted may reinforce corruption and weaken the accountability of local governments to their citizens if they come to depend more on external donors than on local taxpayers. He criticises what he sees as excessive confidence that a single comprehensive solution imposed from above can dismantle a complex, multidimensional problem such as poverty.
+William Easterly argues that large, centrally designed aid programmes have a weak record in low-income countries, and that the Marshall Plan is a poor analogy: it supported the reconstruction of already industrial economies in Western Europe, not a blueprint for initiating development. He warns that large, poorly targeted aid may reinforce corruption and weaken the accountability of governments to their own taxpayers if finance depends more on donors than on domestic revenue. He criticises confidence that one comprehensive plan, imposed from above, can dismantle a problem as multidimensional as poverty.
 
 ## Planners versus searchers
 

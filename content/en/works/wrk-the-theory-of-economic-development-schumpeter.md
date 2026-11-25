@@ -22,16 +22,15 @@ related:
 - id: "sch-schumpeterian-evolutionary-economics", title: "Schumpeterian Evolutionary Economics", type: "مدرسة"
 - id: "wrk-capitalism-socialism-and-democracy-schumpeter", title: "Capitalism, Socialism and Democracy", type: "عمل / كتاب"
 - id: "con-creative-destruction", title: "Creative Destruction", type: "مفهوم"
-gaps:
-  - "Differences between the German editions (1911, 1926): not yet covered"
+gaps: []
 ---
 # The Theory of Economic Development
 
-**Joseph Schumpeter** published the German-language work *The Theory of Economic Development* (*Theorie der wirtschaftlichen Entwicklung*) in 1911, while still in his late twenties. In it he presented his early and foundational vision of the central role of the entrepreneur and innovation in the engine of economic growth. The book was translated into English in 1934 (from the revised second German edition of 1926) and became one of the most influential texts in the history of economic thought on innovation.
+**Joseph Schumpeter** published *Theorie der wirtschaftlichen Entwicklung* in 1911 (Duncker & Humblot), when he was 28. The book sets out his early account of the entrepreneur and of innovation as the source of economic change from within capitalism. The English translation by Redvers Opie, *The Theory of Economic Development: An Inquiry into Profits, Capital, Credit, Interest, and the Business Cycle* (Harvard University Press, 1934), follows the revised second German edition of 1926. The phrase "creative destruction" belongs to his later *Capitalism, Socialism and Democracy* (1942), not to this book, though the process of innovation and imitation is already its subject.
 
 ## Distinguishing the circular flow from development
 
-Schumpeter opens the book with a fundamental distinction between two radically different states of the economy. The first is the **circular flow**, a hypothetical state in which the economy repeats itself year after year without any essential change in methods or products. In it, profits and wages merely equal actual production costs, with no real surplus. The second is genuine **development** (*Entwicklung*), a radical break from this repetitive path that arises from within the economy, not from occasional external shocks.
+Schumpeter distinguishes two states of the economy. The **circular flow** is a hypothetical routine in which methods and products repeat and there is no entrepreneurial profit; on his account the rate of interest is also zero in that state, because interest is paid out of the profit of innovation. **Development** (*Entwicklung*) is a break in that routine which arises from within the economy, not from an outside shock such as a war or a harvest failure.
 
 ## The entrepreneur and the five new combinations
 
@@ -45,24 +44,29 @@ Schumpeter gives an important analysis of the role of **bank credit**. Because t
 
 Schumpeter links this analysis to an explanation of the business cycle itself. The appearance of a successful innovation gives the pioneering entrepreneur a temporary exceptional profit, the **entrepreneurial profit**, before competitors notice it and imitate it in growing numbers. A wave of broad economic prosperity then arises, accompanied by credit expansion. Eventually this accumulating imitation erodes the original exceptional profit and the economy moves into a phase of readjustment and recession toward a new circular flow at a higher level, preparing the ground for a further cycle that begins from another innovation.
 
-## Foundational impact on a whole field
+## Place in later research
 
-This book is a foundational work for economic studies of innovation and entrepreneurship and a major inspiration for later growth theory and "evolutionary economics", developed formally by **Richard Nelson** and **Sidney Winter**, which shares the central intuition that innovation, not static equilibrium, drives economic change.
+The book is a standard point of departure for studies of innovation and entrepreneurship. **Richard Nelson** and **Sidney Winter**'s *An Evolutionary Theory of Economic Change* (1982) takes up the idea that change comes from innovation and from selection among firm routines, rather than from a continuous shift of a static equilibrium. Their formal apparatus is their own.
 
-## A young text by an author not yet at maturity
+## The German editions of 1911 and 1926
 
-Schumpeter wrote this work while still in his late twenties, with a clear youthful intellectual enthusiasm in its style. He later gained practical experience (as Austrian finance minister in 1919 and as a banker in the early 1920s) before moving to Harvard in 1932; his more mature vision appeared in *Capitalism, Socialism and Democracy* (1942). The early book is comparatively more optimistic about the future of individual entrepreneurship than the tone of civilizational anxiety that marked his later American work on the long-run fate of capitalism.
+Schumpeter's preface to the English edition states that the book first appeared in the autumn of 1911, that some of the ideas go back to 1907–09, and that for the second edition (1926) he dropped the seventh chapter, rewrote the second and the sixth, and shortened other passages. The omitted chapter had carried the argument beyond the economy into politics and culture. The third German edition reprinted the second, and Opie's translation was made from that revised text, so English readers do not have the 1911 chapter 7. Schumpeter described the changes as mainly expository.
+
+## Later career and the 1942 book
+
+After 1911 Schumpeter was briefly Austrian finance minister in 1919 and then a private banker (the Biedermann Bank, which failed in 1924). He moved to Harvard in 1932. *Capitalism, Socialism and Democracy* (1942) asks whether capitalism can survive its own success, a question this earlier book does not put in that form. The 1911/1926 theory is about how development occurs, not about an inevitable decline of the entrepreneurial function.
 
 ## Delayed global circulation
 
-The work circulated mainly in German-speaking circles for more than two decades. Its English translation in 1934, appearing after Schumpeter had moved to Harvard, enabled its wider diffusion among English-speaking economists.
+The work circulated mainly in German for more than two decades. The 1934 translation, after Schumpeter had moved to Harvard, carried it to English-speaking economists. Opie notes that the English text is shorter than the 1911 original chiefly because of the omitted last chapter.
 
-## An enduring foundational question
+## Innovation and formal models
 
-The book poses a question that remained open for decades within academic economics: can the discontinuous and intermittent phenomenon of innovation be incorporated into a consistent mathematical model without losing its essential dynamic, non-equilibrium character? Nelson and Winter's model of routines and selection (1982) is one influential attempt at an answer. The early book remains a foundational reference from which the field drew inspiration.
+The book left a question that later theorists took up: how to represent discontinuous innovation without reducing it to a smooth adjustment of equilibrium. Nelson and Winter's model of routines and selection (1982) is one influential attempt. The 1934 text remains the usual citation for Schumpeter's early theory; claims about the 1911 wording need the German first edition.
 
 ## Sources
 
-- Schumpeter, Joseph A. *The Theory of Economic Development*. Translated by Redvers Opie, Harvard University Press, 1934 (German original: *Theorie der wirtschaftlichen Entwicklung*, 1911).
+- Schumpeter, Joseph A. *Theorie der wirtschaftlichen Entwicklung*. Duncker & Humblot, 1911. 2nd ed., 1926.
+- Schumpeter, Joseph A. *The Theory of Economic Development: An Inquiry into Profits, Capital, Credit, Interest, and the Business Cycle*. Translated by Redvers Opie, Harvard University Press, 1934.
 - McCraw, Thomas K. *Prophet of Innovation: Joseph Schumpeter and Creative Destruction*. Belknap Press of Harvard University Press, 2007.
 - Schumpeter, Joseph A. *Capitalism, Socialism and Democracy*. Harper & Brothers, 1942.

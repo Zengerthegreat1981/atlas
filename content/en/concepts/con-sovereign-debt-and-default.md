@@ -19,7 +19,7 @@ gaps: []
 
 # Sovereign Debt and Default
 
-**Sovereign debt** is debt issued or borrowed by a national government, either domestically or from external creditors, usually in a foreign currency. **Sovereign default** is the failure of that government to meet its contractual obligations to the holders of its bonds, whether by delaying payment, reducing its value, or refusing it altogether.
+**Sovereign debt** is debt owed by a national government, whether issued at home in domestic currency or borrowed abroad, often in a foreign currency. **Sovereign default** is a failure to meet the contractual payments, by delay, by a reduction in the amount or interest due, or by an outright repudiation. Defaults of this kind long predate modern theory: Carmen Reinhart and Kenneth Rogoff document repeated sovereign defaults over several centuries. The 1981 paper discussed below is a landmark in the recent economics of why such lending occurs at all.
 
 ## The peculiarity of sovereign debt: the absence of coercive enforcement
 

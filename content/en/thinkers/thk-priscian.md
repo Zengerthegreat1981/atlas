@@ -24,7 +24,7 @@ gaps: []
 
 # Priscian
 
-A Latin grammarian of North African origin who worked as a teacher in Constantinople in the late Roman period. He is known for writing *Institutiones Grammaticae* ("Foundations of Grammar"), the most extensive and comprehensive Latin grammar written in antiquity, and the most influential throughout the entire European Middle Ages.
+A Latin grammarian of North African origin who taught in Constantinople in the early sixth century. He is known for the *Institutiones Grammaticae* ("Institutes of Grammar"), the fullest systematic Latin grammar to survive from antiquity and a principal authority for Latin teaching through the European Middle Ages.
 
 ## Transmitting the Greek tradition into Latin
 
@@ -36,11 +36,11 @@ Priscian lived in the late Roman period, at a time when the political center of 
 
 ## Structure and content of the work
 
-His book *Institutiones Grammaticae* ("Foundations of Grammar") consists of eighteen books. The first sixteen deal in detail with sounds, syllables and the parts of speech (the noun, the verb, the participle, and others) and their morphological inflections, while the last two (sometimes known as *Priscianus Minor*) are devoted to the study of syntax, using a methodology derived directly from Apollonius Dyscolus. The work is notable for the abundance of examples quoted from classical Latin literature, from Vergil, Cicero, Terence and others, which made it also an important indirect source for preserving Latin literary quotations from antiquity.
+His book *Institutiones Grammaticae* ("Institutes of Grammar") consists of eighteen books. The first sixteen deal in detail with sounds, syllables and the parts of speech (the noun, the verb, the participle, and others) and their morphological inflections, while the last two (sometimes known as *Priscianus Minor*) are devoted to the study of syntax, using a methodology derived directly from Apollonius Dyscolus. The work is notable for the abundance of examples quoted from classical Latin literature, from Vergil, Cicero, Terence and others, which made it also an important indirect source for preserving Latin literary quotations from antiquity.
 
 ## The standard reference for a thousand years
 
-Priscian's book became the standard text for teaching Latin grammar in European schools and monasteries throughout the Middle Ages. It formed the textual basis on which the Modistae later built their philosophical reflections on the relation between grammar, logic and being. They took his text as a basis for commentary and gloss, not for criticism or replacement. The book was copied thousands of times in European monasteries during the Middle Ages, and it is among the most widely copied and circulated non-religious texts of that era: several hundred manuscripts survive today (by common estimates close to a thousand).
+Priscian's book became the standard text for teaching Latin grammar in European schools and monasteries throughout the Middle Ages. It formed the textual basis on which the Modistae later built their philosophical reflections on the relation between grammar, logic and being. They took his text as a basis for commentary and gloss, not for criticism or replacement. It was copied widely in medieval schools and monasteries. Several hundred manuscripts survive, many of them partial copies containing either books 1–16 or books 17–18.
 
 ## Relation to the comparative linguistic tradition
 

@@ -6,7 +6,7 @@
     "edge-target-by-name": 2430,
     "pending": 63,
     "short": 54,
-    "declared-gaps": 390,
+    "declared-gaps": 359,
     "placeholder": 32,
     "no-title": 32,
     "part-not-explicit": 44,
@@ -70,21 +70,21 @@
       "con-content-analysis"
     ],
     "declared-gaps": [
-      "br-arabic-dialectology",
-      "br-sociolinguistics",
       "con-act-vs-rule-utilitarianism",
-      "con-adolescent-depression",
       "con-agent-centered-duties",
       "con-ahliyya-legal-capacity-usul",
       "con-ancient-ethics-greece",
       "con-animal-rights-ethics",
       "con-anti-cult-movement-response",
-      "con-aphasiology-classification",
-      "con-arab-subsidy-state-and-social-contract",
       "con-assimilation",
       "con-asymmetric-alliance",
       "con-autonomy-informed-consent",
-      "con-axis-mundi-sacred-space-eliade"
+      "con-axis-mundi-sacred-space-eliade",
+      "con-beneficence-nonmaleficence",
+      "con-biocentrism",
+      "con-biogenetic-versus-cultural-kinship",
+      "con-business-virtue",
+      "con-caring-relationships"
     ],
     "placeholder": [
       "con-bilateral",

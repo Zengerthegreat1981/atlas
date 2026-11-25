@@ -26,7 +26,7 @@ gaps: []
 
 ## Monetary and structural explanations
 
-**Milton Friedman** led the monetary explanation, summarised in his well-known dictum that "inflation is always and everywhere a monetary phenomenon" (stated in the 1960s and 1970s): it arises when the money supply grows faster than real output, so that excess money chases a limited quantity of goods and their prices rise. Other explanations stand alongside this: demand-pull inflation, where aggregate demand exceeds maximum productive capacity; cost-push inflation, where rising input prices (wages or energy) are passed on to the consumer; and structural inflation linked to supply bottlenecks or market monopolies.
+**Milton Friedman** led the monetary explanation. In *The Counter-Revolution in Monetary Theory* (1970), restating a formulation he had used in lectures in the 1960s, he wrote that inflation is always and everywhere a monetary phenomenon, in the sense that it is produced by a faster rise in the quantity of money than in output. On this view, excess money growth raises the general price level. Other explanations stand alongside this: demand-pull inflation, where aggregate demand exceeds maximum productive capacity; cost-push inflation, where rising input prices (wages or energy) are passed on to the consumer; and structural inflation linked to supply bottlenecks or market monopolies.
 
 ## Measurement and the expectations loop
 

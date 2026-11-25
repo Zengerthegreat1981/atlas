@@ -50,7 +50,7 @@ Acemoglu was awarded the Nobel Prize in Economics in 2024, shared with Johnson a
 
 ## Prolific research and broad influence
 
-Acemoglu is among the most published and most cited economists of his generation. His research output is large and covers diverse topics, from democracy and political transition to economic networks and the diffusion of information. He is also the author of an authoritative graduate textbook on economic growth, *Introduction to Modern Economic Growth*, which is taught in doctoral programmes around the world. Across his career he has combined the mathematical rigour of theoretical modelling with a deep interest in the great institutional and historical questions about why wealth and power are distributed unequally across the world.
+Acemoglu is among the most published and most cited economists of his generation. His research output is large and covers diverse topics, from democracy and political transition to economic networks and the diffusion of information. He is also the author of the graduate textbook *Introduction to Modern Economic Growth* (Princeton University Press, 2009), widely used in doctoral courses. Across his career he has combined the mathematical rigour of theoretical modelling with a deep interest in the great institutional and historical questions about why wealth and power are distributed unequally across the world.
 
 ## His place in the field of institutional economics
 
@@ -60,4 +60,5 @@ Acemoglu's work builds on an older tradition in institutional economics develope
 
 - Acemoglu, Daron, Simon Johnson, and James A. Robinson. "The Colonial Origins of Comparative Development: An Empirical Investigation." *American Economic Review*, vol. 91, no. 5, 2001, pp. 1369–1401.
 - Acemoglu, Daron, and James A. Robinson. *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. Crown Publishers, 2012.
+- Acemoglu, Daron. *Introduction to Modern Economic Growth*. Princeton University Press, 2009.
 - The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2024. Nobel Prize Official Press Release, 2024.

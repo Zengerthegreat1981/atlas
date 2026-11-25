@@ -9,13 +9,12 @@ en: "The Developmental State and Industrial Policy Debate"
 crumb: "Political Economy ← Debates ← The Developmental State and Industrial Policy Debate"
 economic_school: "Development economics"
 active_start: 1982
-active_end: 2020
+active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Development Economics", target_type: "مدرسة"
 related:
 - id: "dbt-dutch-disease-and-resource-curse", title: "Dutch Disease and the Resource Curse", type: "جدل"
-gaps:
-  - "Evidence on the success rates of Gulf and Egyptian industrial policy: not yet covered"
+gaps: []
 ---
 
 # The Developmental State and Industrial Policy Debate
@@ -36,11 +35,11 @@ Advocates of the developmental state replied that comparing East Asia with Latin
 
 ## The Arab Dimension: Directed Industrialisation in the Gulf and Egypt
 
-Several Arab economies have witnessed local versions of this debate. Gulf states (especially Saudi Arabia and the UAE) sought to diversify their economies away from dependence on oil through direct government investment and sovereign wealth funds directed towards selected industrial sectors (petrochemicals, aluminium and, later, technology and renewable energy). Meanwhile Egypt, at various stages, tried state-directed industrialisation policies (since the Nasserist era of nationalisation), and later gradual economic opening. These form an ongoing local debate about the optimal balance between the state's direction of strategic industrial investment and leaving the market mechanism to allocate resources by itself.
+Several Arab economies have witnessed local versions of this debate. There is no agreed numerical success rate. Gulf states, especially Saudi Arabia and the UAE, have used public investment and state-linked firms to build energy-intensive industry where cheap feedstock is an advantage. Saudi Basic Industries Corporation (SABIC), established in 1976, became a major petrochemical producer; large aluminium smelters in the Gulf similarly rest on low-cost energy. Diversification into technology and tradable manufactures has been slower, and programmes such as Saudi Vision 2030 (announced in 2016) are still in progress. Egypt's state-led industrialisation after the nationalisations of the late 1950s and early 1960s created public firms in steel, textiles and consumer goods. Many depended on protection and later restructuring. The *infitah* opening from 1974 shifted policy toward private and foreign capital without producing an East Asian-style export discipline. The useful comparison is therefore sector by sector and institution by institution, not a single verdict that Arab industrial policy succeeded or failed.
 
 ## The Return of Interest in Industrial Policy After 2010
 
-The past decade has witnessed a notable revival of interest in industrial policy even in the advanced economies themselves. This has been driven by national security concerns about sensitive supply chains (particularly semiconductors), strategic competition with China, and the urgent need to accelerate the clean energy transition. This was reflected in major American industrial legislation (the CHIPS and Science Act and the Inflation Reduction Act). This has reopened the same old debate about the conditions for the success and the limits of government industrial intervention, in a new geopolitical and economic context.
+The past decade has witnessed a notable revival of interest in industrial policy even in the advanced economies themselves. This has been driven by national security concerns about sensitive supply chains (particularly semiconductors), strategic competition with China, and the urgent need to accelerate the clean energy transition. This was reflected in major American legislation in 2022 (the CHIPS and Science Act and the Inflation Reduction Act). This has reopened the same old debate about the conditions for the success and the limits of government industrial intervention, in a new geopolitical and economic context.
 
 ## Its Implication: Not a General Theoretical Resolution but Institutional Conditions
 

@@ -21,9 +21,9 @@ gaps: []
 
 A psychotherapeutic current that emerged in the United States and Europe in the middle of the twentieth century, historically known as the **"Third Force"** in psychology, in contrast to Freudian psychoanalysis (the First Force) and behaviorism (the Second Force). Its leading figures share an emphasis on **human agency**, the innate human capacity for growth and self-actualization, and a rejection of reducing the person to unconscious conflictual drives or mechanical conditioned responses.
 
-## Founders: Rogers and Maslow
+## Rogers and Maslow
 
-**Abraham Maslow** is regarded as the founding father of humanistic psychology, especially through his hierarchical theory of human motivation ("Maslow's hierarchy of needs"), which culminates in the **need for self-actualization** as the highest psychological goal of the person. The most influential therapeutic application of this current, however, came through **Carl Rogers** and his method of **person-centered therapy** (also known as client-centered therapy). It rests on three core therapeutic conditions that the therapist must provide: **accurate empathy**, **unconditional positive regard**, and **congruence** (genuineness). Rogers held that these conditions are sufficient in themselves to release the client's innate capacity for self-direction and psychological growth.
+**Abraham Maslow** was a leading organizer of humanistic psychology. His hierarchy of needs, set out in papers from 1943 and in *Motivation and Personality* (1954), places **self-actualization** at the top of a motivational scheme. The most influential therapeutic application came through **Carl Rogers** and **person-centered therapy** (also called client-centered therapy). In 1957 Rogers argued that six conditions were necessary and sufficient for personality change. The three that the therapist must provide are **accurate empathy**, **unconditional positive regard**, and **congruence** (genuineness). The others concern a relationship and a client who is incongruent and in contact with the therapist.
 
 ## The Existential Dimension: Rollo May
 
@@ -50,6 +50,7 @@ The humanistic-existential current has been subject to a methodological critique
 - Carl R. Rogers, *Client-Centered Therapy: Its Current Practice, Implications, and Theory* (Houghton Mifflin, 1951).
 - Carl R. Rogers, "The Necessary and Sufficient Conditions of Therapeutic Personality Change," *Journal of Consulting Psychology* 21, no. 2 (1957): 95–103.
 - Robert Elliott, Leslie S. Greenberg, Jeanne Watson, Ladislav Timulak, and Elizabeth Freire, "Research on Humanistic-Experiential Psychotherapies," in *Bergin and Garfield's Handbook of Psychotherapy and Behavior Change*, 6th ed., ed. Michael J. Lambert (Wiley, 2013).
+- Abraham H. Maslow, *Motivation and Personality* (Harper & Row, 1954).
 - Abraham H. Maslow, *Toward a Psychology of Being*, 2nd ed. (Van Nostrand Reinhold, 1968).
 - Rollo May, Ernest Angel, and Henri F. Ellenberger (eds.), *Existence: A New Dimension in Psychiatry and Psychology* (Basic Books, 1958).
 - Irvin D. Yalom, *Existential Psychotherapy* (Basic Books, 1980).

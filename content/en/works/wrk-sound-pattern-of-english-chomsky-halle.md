@@ -27,7 +27,7 @@ gaps:
 
 ## Definition
 
-*The Sound Pattern of English* (often abbreviated SPE) is a reference work by Noam Chomsky and Morris Halle, published in 1968. It established the classical framework of generative phonology and dominated theoretical phonological research for decades. Together with *Syntactic Structures* (1957) and *Aspects of the Theory of Syntax* (1965), it is one of the pillars of the generative revolution in American linguistics.
+*The Sound Pattern of English* (often abbreviated SPE) is a reference work by Noam Chomsky and Morris Halle, published in 1968 by Harper & Row. It set out the classical model of generative phonology, which remained the usual framework of theoretical phonology into the 1980s. Together with *Syntactic Structures* (1957) and *Aspects of the Theory of Syntax* (1965), it is one of the main books of early generative linguistics.
 
 ## Historical Context
 
@@ -39,7 +39,7 @@ The book offers a comprehensive analysis of the sound system of English by posit
 
 ## Major Works and Representatives
 
-The book is the principal work of Chomsky and Halle on phonology. It is usually read alongside Halle's other contributions to the theory of distinctive features (with Jakobson and Fant in the 1950s), and alongside later works that developed the derivational framework, such as John Goldsmith's autosegmental phonology (1976) and the metrical phonology of Liberman and Prince (1977) in the 1970s and 1980s, which attempted to address shortcomings of the original SPE model without abandoning its derivational core.
+The book is the principal joint work of Chomsky and Halle on phonology. It is usually read with the earlier theory of distinctive features in Roman Jakobson, Gunnar Fant and Halle, *Preliminaries to Speech Analysis* (1952), and with later revisions of the derivational programme. John Goldsmith's autosegmental phonology (dissertation 1976; published 1979) and the metrical phonology of Mark Liberman and Alan Prince (1977) addressed limitations of the SPE model, especially its treatment of tone and stress, while keeping a derivational orientation.
 
 ## Impact and Criticism
 
@@ -55,7 +55,7 @@ The book's concluding chapter discussed broader philosophical questions about th
 
 ## The Book's Place in the Careers of Its Authors
 
-The book appeared at the height of the collaboration between Chomsky and Halle at MIT, where together they established a linguistics program that became one of the most important centers of linguistic research worldwide. The book was the culmination of a decade of research collaboration between them that extended from the 1950s. Halle himself was among the first to apply the concepts of distinctive features to the analysis of Russian and English phonology before joining Chomsky in formulating the complete generative framework presented in this book.
+The book appeared during the collaboration of Chomsky and Halle at MIT, where the linguistics programme became a major centre of generative research. It sums up joint work that had run through the late 1950s and the 1960s. Halle had already used distinctive features in the analysis of Russian and English, with Jakobson and Fant, before the full derivational model of this book.
 
 ## Sources
 
