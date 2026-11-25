@@ -117,10 +117,12 @@ These are descriptive categories rather than recommendations.
 ## Sources
 
 - Bateson, G., Jackson, D. D., Haley, J., & Weakland, J. (1956). Toward a theory of schizophrenia. *Behavioral Science*, 1, 251-264.
+- Minuchin, S., Montalvo, B., Guerney, B., Rosman, B., & Schumer, F. (1967). *Families of the Slums*. Basic Books.
 - Ackerman, N. W. (1958). *The Psychodynamics of Family Life*. Basic Books.
 - Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 - Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 - Dicks, H. V. (1967). *Marital Tensions*. Routledge & Kegan Paul.
 - Boszormenyi-Nagy, I., & Spark, G. (1973). *Invisible Loyalties*. Harper & Row.
 - Scharff, D. E., & Scharff, J. S. (1987). *Object Relations Family Therapy*. Jason Aronson.
+- Pincus, L., & Dare, C. (1978). *Secrets in the Family*. Faber & Faber.
 - Aichhorn, A. (1925). *Verwahrloste Jugend*. Internationaler Psychoanalytischer Verlag.

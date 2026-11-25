@@ -35,10 +35,15 @@ Comparative law in its modern sense began at the International Congress of Compa
 
 ## Limits of the Comparison
 
-The most important criticism is that the Western concept of "law" versus "religion" is projected onto traditions that do not separate the two. In India, Donald Davis, in *The Spirit of Hindu Law* (2010), argues that Hindu law has an indigenous history as a tradition of *dharmashastra* learning and practice, while the colonial administration, beginning with projects such as the *Code of Gentoo Laws* (1776), recast those texts as a judicial code and so shaped the modern concept of "Hindu law." Comparison also overlooks contexts: Islamic jurisprudence was for much of its history the work of jurists largely independent of the state, whereas canon law was developed within a hierarchical church institution. Finally, the comparison should not be understood as a matter of similarity: in many cases it is a structural difference calling for caution.
+A central criticism is that the Western concept of "law" versus "religion" is projected onto traditions that do not separate the two. In India, Donald Davis, in *The Spirit of Hindu Law* (2010), argues that Hindu law has an indigenous history as a tradition of *dharmashastra* learning and practice, while the colonial administration, beginning with projects such as the *Code of Gentoo Laws* (1776), recast those texts as a judicial code and so shaped the modern concept of "Hindu law." Comparison also overlooks contexts: Islamic jurisprudence was for much of its history the work of jurists largely independent of the state, whereas canon law was developed within a hierarchical church institution. Finally, the comparison should not be understood as a matter of similarity: in many cases it is a structural difference calling for caution.
 
 ## Sources
 
+- Maine, Henry Sumner. *Ancient Law*. London: John Murray, 1861.
+- Ibn Rushd (Averroes). *Bidayat al-mujtahid wa-nihayat al-muqtasid* (late twelfth century).
+- al-Biruni. *Tahqiq ma li-l-Hind* (*Verifying What Is Said of India*), c. 1030.
+- al-Shahrastani. *al-Milal wa-l-nihal* (*The Book of Religions and Sects*), c. 1127.
+- Halhed, Nathaniel Brassey (trans.). *A Code of Gentoo Laws*. London, 1776.
 - Hallaq, Wael B. *Sharia: Theory, Practice, Transformations*. Cambridge: Cambridge University Press, 2009.
 - Schacht, Joseph. *An Introduction to Islamic Law*. Oxford: Clarendon Press, 1964.
 - Glenn, H. Patrick. *Legal Traditions of the World*. 4th ed. Oxford: Oxford University Press, 2010.

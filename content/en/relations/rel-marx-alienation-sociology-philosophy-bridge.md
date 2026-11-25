@@ -53,6 +53,10 @@ Philosophical alienation remains burdened by the hypothesis of a free "human ess
 
 - Marx, Karl. *Economic and Philosophic Manuscripts of 1844*. Written 1844; first published in 1932 (in the Marx-Engels Gesamtausgabe, MEGA).
 - Marx, Karl, and Friedrich Engels. *Manifest der Kommunistischen Partei* (*The Communist Manifesto*). London, 1848.
+- Marx, Karl. *Das Kapital*, vol. 1. Meissner, 1867.
+- Lukács, Georg. *Geschichte und Klassenbewußtsein*. Malik, 1923.
+- Althusser, Louis. *Pour Marx*. Maspero, 1965.
+- Fromm, Erich. *Marx's Concept of Man*. Frederick Ungar, 1961.
 - Ollman, Bertell. *Alienation: Marx's Conception of Man in Capitalist Society*. Cambridge University Press, 1971.
 - Seeman, Melvin. "On the Meaning of Alienation." *American Sociological Review* 24(6), 1959.
 - Blauner, Robert. *Alienation and Freedom: The Factory Worker and His Industry*. University of Chicago Press, 1964.

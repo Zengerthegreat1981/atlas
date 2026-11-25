@@ -45,8 +45,11 @@ Subsequent data open a gap between the two concepts. Gina Perry, in *Behind the 
 
 - Weber, Max. *Wirtschaft und Gesellschaft: Grundriss der verstehenden Soziologie*. Mohr Siebeck, 1922.
 - Weber, Max. *Politik als Beruf*. Duncker & Humblot, 1919.
-- Milgram, Stanley. "Behavioral Study of Obedience." *Journal of Abnormal and Social Psychology*, 1963.
+- Milgram, Stanley. "Behavioral Study of Obedience." *Journal of Abnormal and Social Psychology* 67(4), 1963.
+- Arendt, Hannah. *Eichmann in Jerusalem: A Report on the Banality of Evil*. Viking Press, 1963.
 - Milgram, Stanley. *Obedience to Authority: An Experimental View*. Harper & Row, 1974.
 - Bauman, Zygmunt. *Modernity and the Holocaust*. Polity Press, 1989.
+- Perry, Gina. *Behind the Shock Machine: The Untold Story of the Notorious Milgram Psychology Experiments*. The New Press, 2013.
+- Haslam, S. Alexander, and Stephen D. Reicher. "Contesting the 'Nature' of Conformity: What Milgram and Zimbardo's Studies Really Show." *PLoS Biology* 10(11), 2012.
 - Burger, Jerry M. "Replicating Milgram: Would People Still Obey Today?" *American Psychologist*, 2009.
 - Ibn Khaldun. *The Muqaddimah: An Introduction to History*. Translated by Franz Rosenthal. Pantheon Books, 1958.

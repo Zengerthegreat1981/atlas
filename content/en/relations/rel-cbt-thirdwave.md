@@ -47,7 +47,7 @@ The contrast is a matter of emphasis. Beck's model also includes distancing from
 
 ## Lineage and Development
 
-- Ellis (*Reason and Emotion in Psychotherapy*, 1962) and Beck (1976) founded the cognitive tradition; Bandura's social learning theory (1977) is a parallel cognitive-behavioral source rather than a link in the same chain.
+- Ellis (*Reason and Emotion in Psychotherapy*, 1962) and Beck (1976) were central figures in the cognitive tradition; Bandura's social learning theory (1977) is a parallel cognitive-behavioral source rather than a link in the same chain.
 - Lazarus's multimodal therapy (BASIC-ID) was a technically eclectic behavioral development of the 1970s and 1980s.
 - Mahoney and others advanced a constructivist cognitive therapy from the 1970s onward.
 - Kabat-Zinn began Mindfulness-Based Stress Reduction at the University of Massachusetts Medical Center in 1979, drawing on Buddhist meditation practice in a secular medical program. MBCT adapted MBSR together with cognitive therapy components.
@@ -71,7 +71,7 @@ Critics from Buddhist traditions argue that secular mindfulness loses its ethica
 
 - Hayes presents ACT as part of the continuing development of behavioral and cognitive therapy.
 - Others, including some cognitive-behavioral researchers, question whether the third wave is distinct in theory or in outcomes.
-- Linehan founded DBT within the CBT framework and added substantial new elements.
+- Linehan developed DBT within the CBT framework and added substantial new elements.
 - Kabat-Zinn positions MBSR as a mindfulness program, not as psychotherapy.
 
 ## Bridges Between the Traditions
@@ -101,4 +101,7 @@ Atlas entries related to this one (from the `related` field), which are internal
 - Marsha M. Linehan, *Cognitive-Behavioral Treatment of Borderline Personality Disorder* (1993).
 - Zindel V. Segal, J. Mark G. Williams, and John D. Teasdale, *Mindfulness-Based Cognitive Therapy for Depression* (2002).
 - Stefan G. Hofmann and Gordon J. G. Asmundson, "Acceptance and mindfulness-based therapy: New wave or old hat?", *Clinical Psychology Review* (2008).
+- Steven C. Hayes, "Acceptance and Commitment Therapy, Relational Frame Theory, and the Third Wave of Behavioral and Cognitive Therapies," *Behavior Therapy* 35(4), 2004.
+- Steven C. Hayes and Stefan G. Hofmann, *Process-Based CBT*, New Harbinger, 2018.
+- Albert Ellis, *Reason and Emotion in Psychotherapy*, Lyle Stuart, 1962.
 - Willem Kuyken et al., "Efficacy of mindfulness-based cognitive therapy in prevention of depressive relapse," *JAMA Psychiatry* (2016).

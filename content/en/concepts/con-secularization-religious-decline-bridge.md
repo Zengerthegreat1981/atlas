@@ -25,11 +25,11 @@ The theoretical origin of this concept goes back to **Max Weber** and his notion
 
 ## The Classical Theory of Secularization
 
-The sociologist **Peter Berger** formulated, in the 1960s, an influential definition of secularization as "the process by which sectors of society and culture are withdrawn from the control of religious institutions and symbols." He introduced the concept of **"plausibility structures"** to explain how the persistence of religious belief depends on groups, rituals, and shared practices that make a particular religious conception seem socially plausible. When these supporting social structures dissolve, belief weakens with them. The British sociologist **Steve Bruce** later developed this framework into a multidimensional account linking the decline of religion to processes of **institutional differentiation**, **rationalization**, and **pluralism**, and to changes in how religion is transmitted across generations.
+The sociologist **Peter Berger** formulated, in the 1960s, an influential definition of secularization as "the process by which sectors of society and culture are removed from the domination of religious institutions and symbols." He introduced the concept of **"plausibility structures"** to explain how the persistence of religious belief depends on groups, rituals, and shared practices that make a particular religious conception seem socially plausible. When these supporting social structures dissolve, belief weakens with them. The British sociologist **Steve Bruce** later developed this framework into a multidimensional account linking the decline of religion to processes of **institutional differentiation**, **rationalization**, and **pluralism**, and to changes in how religion is transmitted across generations.
 
 ## Critical Revision
 
-Berger himself later retreated (from the late 1990s, notably in *The Desecularization of the World*, 1999) from generalizing the classical theory of secularization. He proposed that what characterizes modernity is not necessarily the **decline** of religious belief but its growing **pluralism**. He cited statistical data showing continued high religious vitality in large parts of the world (the United States, Africa, Latin America) despite rapid economic modernization, contrary to what the classical theory predicted.
+Berger himself later retreated (from the late 1990s, notably in *The Desecularization of the World*, 1999) from generalizing the classical theory of secularization. He proposed that what characterizes modernity is not necessarily the **decline** of religious belief but its growing **pluralism**. He pointed to evidence of continued high religious vitality in large parts of the world (such as the United States, Africa and Latin America) despite rapid economic modernization, contrary to what the classical theory predicted.
 
 ## Divergent Statistical Evidence
 
@@ -53,3 +53,5 @@ The debate remains open over the universality of the secularization thesis. Is i
 - Steve Bruce, *God Is Dead: Secularization in the West* (Blackwell, 2002).
 - José Casanova, *Public Religions in the Modern World* (University of Chicago Press, 1994).
 - Grace Davie, *Religion in Britain since 1945: Believing without Belonging* (Blackwell, 1994).
+- Peter L. Berger (ed.), *The Desecularization of the World: Resurgent Religion and World Politics* (Eerdmans, 1999).
+- Max Weber, "Wissenschaft als Beruf" (1917/1919), on the disenchantment of the world.

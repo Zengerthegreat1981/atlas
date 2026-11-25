@@ -1,0 +1,83 @@
+con-body-schema: active_start 1935 -> 1911 (Head and Holmes)
+con-comparative-religious-law-bridge: "most important criticism" softened; added Maine, Ibn Rushd, al-Biruni, al-Shahrastani, Halhed to Sources (cited in text)
+con-conscious-acts: secondary-awareness argument is in Book II of the 1874 work, not an appendix
+con-dasein-being-there: softened claim that Binswanger "named" Daseinsanalysis in the 1942 book
+con-debt-financial-stress-psychology-bridge: active_start 2004 -> 1977 (earliest cited source, Myers)
+con-divine-being-metaphysics-bridge: "most precise" softened; Asfar "completed" -> "composed"; added Avicenna, al-Ghazali, Maimonides, Heidegger, Kant to Sources
+con-embodied-cognition: added Sacks and Ramachandran to Sources (cited in text)
+con-emergence: "most precise" softened; added Mill, Lewes, Alexander to Sources
+con-ethics-of-interest-riba-bridge: replaced unsupported assertion about Aristotle not being a source for Islamic jurists with "no documented use"
+con-fusion-horizons: removed vague meta-sentence about a related atlas entry
+con-intentionality-brentano: removed unsourced "later interpretive gloss" sentence on object kinds; added Husserl Ideas I to Sources
+con-ipseity: added White and Epston to Sources (cited in text)
+con-moral-conscience-legal-philosophy-bridge: added Thoreau and al-Ghazali Ihya' to Sources (cited in text)
+con-narrative-identity: added Schauer, Neuner and Elbert (NET) to Sources
+con-phenomenology: "founded by Husserl" -> "initiated by Husserl"
+con-pleasure: active_start 1920 -> 1911 (Freud's pleasure principle); added Freud 1911, Bentham, Mill, Aristotle, Lembke to Sources
+con-praxis: added Gramsci Prison Notebooks and Lyotard to Sources
+con-psychophysics-fechner: "the founder" -> "a principal founder"
+con-qualia: active_start 1982 -> 1974 (Nagel's "What Is It Like to Be a Bat?")
+con-religious-punishment-moral-law-bridge: "decisive distinction" softened; added al-Ghazali, al-Shatibi, al-Mawardi, Nietzsche to Sources
+con-religious-transformation-history-bridge: "foremost reader" softened; added Weber to Sources
+con-revelation-knowledge-epistemology-bridge: removed unsupported blind-man analogy attributed to al-Ghazali; removed unverified Rahman work reference; "the atlas" -> "this entry"; added Kant to Sources
+con-sacred-space-anthropology-bridge: removed unsourced "jurists' statement" clause
+con-sacred-time-historical-periods-bridge: added Hubert and Mauss to Sources (cited in text)
+con-secularism-law-religion-bridge: "decisive debate" softened; removed "mentioned in the atlas" meta phrase; added Hallaq 2013 to Sources
+con-secularization-religious-decline-bridge: corrected Berger's definition wording ("removed from the domination of"); removed unsupported "statistical data" claim; added Berger 1999 and Weber to Sources
+con-shamanism-healing-anthropology-bridge: added Harner to Sources
+que-what-is-consciousness: Mulla Sadra death date given as c. 1635-1640
+que-what-is-forgiveness: Nietzsche ressentiment claim tied to first essay and reworded; added Augustine and al-Ghazali to Sources
+que-what-is-language: Ibn Jinni 'anticipates' softened to 'resembles'; added Tractatus, Lenneberg, Whorf, Turing, al-Suyuti to Sources
+que-what-is-love: Schopenhauer chapter/volume wording fixed; Ibn Hazm Platonic wording softened; added Plato, Aristotle, Augustine, Schopenhauer to Sources
+rel-aristotle-positive-psychology: added Aristotle and Seligman 2002 to Sources (cited in text)
+rel-behaviorism-cognitive: added Bandura 1977 paper, Miller 1956, Broadbent 1958, Hull 1943 to Sources (cited in text)
+rel-bourdieu-habitus-sociology-philosophy-bridge: Ibn Khaldun 'anticipated' softened; added Jenkins 1992 to Sources
+rel-buber-i-thou-humanistic-counseling: 'founder' of client-centered therapy softened; added Friedman 1985 to Sources
+rel-buddhism-thirdwave: added Kuyken 2015 (Lancet) and Purser 2019 to Sources (cited in text)
+rel-cbt-thirdwave: 'founded' softened for Ellis/Beck and Linehan; added Hayes 2004, Hayes and Hofmann 2018, Ellis 1962 to Sources
+rel-confucian-self-cultivation-family-systems: added al-Ghazali to Sources (cited in text)
+rel-damasio-spinoza-somatic-markers-neuroscience: added Eslinger and Damasio 1985 to Sources (cited in text)
+rel-daoism-systemic: qualified claim that Bateson's ideas shaped all listed approaches (Bowen largely independent)
+rel-durkheim-suicide-sociology-vs-shneidman-psychache-psychology-bridge: psychache attributed to Suicide as Psychache (1993) and Suicidal Mind (1996) rather than Definition of Suicide (1985); added 1993 book to Sources
+rel-foucault-power-knowledge-discipline-sociology-philosophy-bridge: added Said, Fraser, Habermas, Mathiesen to Sources (cited in text)
+rel-goffman-stigma-total-institutions-sociology-psychology-bridge: 'much of what is read as symptom' softened to 'some'; added Barton, Wing and Brown, Scheff to Sources
+rel-hegelianism-psychoanalysis: claim that Freud did not read Hegel reworded to 'no evidence he read Hegel closely'; added Marcuse 1941 and Deleuze/Guattari 1972 to Sources
+rel-humanistic-positive: added Seligman 2002, Peterson/Seligman 2004, Deci/Ryan 1985 to Sources (cited in text)
+rel-hume-bundle-self-dissociation: added Parfit 1984, Putnam 1989, Sass/Parnas 2003 to Sources (cited in text)
+rel-hypnosis-psychoanalysis: active_start null replaced with 1885 (Freud at the Salpetriere); added Janet 1889 and Bernheim 1886 to Sources
+rel-integrative-cbt-common-factors: added Norcross and Goldfried 1992 to Sources (cited in text)
+rel-integrative-humanistic-common-factors: 'founded' client-centered therapy softened to 'developed'; added Lambert 1992, Norcross/Lambert 2019, Rosenzweig 1936 to Sources
+rel-integrative-psychoanalysis-common-factors: added Zetzel 1956, Greenson 1965, Balint 1968, Kohut 1971, Luborsky 1984 to Sources (cited in text)
+rel-kant-cognitive-schemas: added Head and Holmes 1911, Piaget 1936, Friston 2010 to Sources (cited in text)
+rel-kierkegaardianism-nietzscheanism-existential-therapy: Twilight of the Idols dated written 1888/published 1889; Frankl English 1959 title corrected (From Death-Camp to Existentialism); added Spinelli 1989 to Sources
+rel-marx-alienation-sociology-philosophy-bridge: added Capital 1867, Lukacs 1923, Althusser 1965, Fromm 1961 to Sources (cited in text)
+rel-mead-symbolic-interactionism-sociology-philosophy-bridge: removed unsupported Ibn Khaldun-Mead comparison; added Stryker 1980, Habermas 1981 to Sources
+rel-phenomenology-existential-therapy: Frankl 1946 German title/1959 English edition stated correctly
+rel-post-structuralism-antipsychiatry: added Goffman 1961, Ingleby (ed.) 1980/81, Butler 1997 to Sources (cited in text)
+rel-postmodern-systemic: added Bateson et al. 1956, Bowen 1978, Lyotard 1979, Mahoney 1991, Neimeyer/Mahoney 1995 to Sources (cited in text)
+rel-pragmatism-humanistic: removed unverifiable claim that Rogers 'cited James little'; added Rogers 1969, Rorty 1979, Maslow 1962 to Sources
+rel-psychedelic-transpersonal: added Welwood 1984 to Sources (cited in text)
+rel-psychoanalysis-behaviorism: added Freud Project (1895) and Hayes et al. 2001 RFT to Sources (cited in text)
+rel-psychoanalysis-cbt: 'two main founders' of CBT softened to 'two of its principal originators'; added J. Beck 1995, Linehan 1993, Segal et al. 2002 to Sources
+rel-psychoanalysis-humanistic: added Hartmann 1939, Erikson 1950, Greenberg et al. 1993, Horvath and Symonds 1991, Fluckiger et al. 2018 to Sources (cited in text)
+rel-psychoanalysis-jungian: Psychological Types described as 'a major work after the break' rather than 'first major independent work'
+rel-psychoanalysis-somatic: corrected claim that Lowen and Pierrakos were both Reich's pupils (only Lowen trained with Reich)
+rel-stoicism-cbt: added Irvine 2008 and Pigliucci 2017 to Sources (cited in text)
+rel-systemic-behavioral: added Wolpe 1958, Eysenck 1960, Minuchin et al. 1967, Stuart 1969, Liberman 1970, Miller et al. 2007 to Sources (cited in text)
+rel-systemic-psychoanalysis: added Minuchin et al. 1967 and Pincus/Dare 1978 to Sources (cited in text)
+rel-szasz-existential-freedom-guilt: added Szasz 1965/2009 and Sartre 1943/1946 to Sources (cited in text)
+rel-transpersonal-humanistic: added Ross et al. 2016 to Sources (cited in text)
+rel-trauma-psychoanalysis: added Ferenczi 1933, Grinker/Spiegel 1945, Bergmann/Jucovy 1982, Foa/Kozak 1986, Loftus/Pickrell 1995 to Sources (cited in text)
+rel-trauma-somatic: added Dana 2018 to Sources (cited in text)
+rel-weber-bureaucracy-sociology-milgram-agentic-state-psychology-bridge: added Arendt 1963, Perry 2013, Haslam/Reicher 2012 to Sources (cited in text); Milgram 1963 volume added
+thk-bachelard: Lecourt title corrected to 'Bachelard ou le jour et la nuit'
+thk-fechner: 'actual founder' of quantitative experimental psychology softened to 'pioneer'; 'most important work' softened to 'best-known'
+thk-cassirer: added Substanzbegriff und Funktionsbegriff (1910) to Sources (cited in text)
+thk-helmholtz: removed unverifiable helmholtz.de URL from Sources; 'founded experimental neurophysiology' softened
+thk-roland-barthes: removed incorrect 'Battle of Jutland' for father's death (1916 naval engagement); removed comparative influence overclaim
+thk-titchener: added Lectures on the Experimental Psychology of the Thought-Processes (1909) to Sources (cited in text)
+thk-vaihinger: added Lange 1866, Adler 1912, Ogden's Bentham 1932 to Sources (cited in text)
+wrk-essay-on-man-cassirer: added Language and Myth (Langer trans., 1946) to Sources (cited in text)
+wrk-fear-of-freedom-1941: Adorno essay title/dating corrected (Revisionist Psychoanalysis, written mid-1940s; publication year removed); added Marcuse 1955 to Sources
+wrk-phenomenology-perception-merleau-ponty: unverifiable 'Merleau-Ponty did not know' Ibn Tufayl softened to 'no evidence'; 'most important' alternative softened; added Noe 2004 and Butler 1989 to Sources
+wrk-symbolic-forms-cassirer: noted animal symbolicum formula is from Essay on Man (1944), not the trilogy; Marburg-school wording corrected (Cassirer was at Hamburg)

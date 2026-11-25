@@ -89,4 +89,8 @@ The label "revolution" itself is contested by historians, some of whom see a mor
 - Miller, George A., Eugene Galanter, and Karl H. Pribram. *Plans and the Structure of Behavior*. Holt, 1960.
 - Neisser, Ulric. *Cognitive Psychology*. Appleton-Century-Crofts, 1967.
 - Bandura, Albert. *Social Learning Theory*. Prentice-Hall, 1977.
+- Bandura, Albert. "Self-Efficacy: Toward a Unifying Theory of Behavioral Change." *Psychological Review* 84(2), 1977.
+- Miller, George A. "The Magical Number Seven, Plus or Minus Two." *Psychological Review* 63, 1956.
+- Broadbent, Donald E. *Perception and Communication*. Pergamon, 1958.
+- Hull, Clark L. *Principles of Behavior*. Appleton-Century, 1943.
 - Beck, Aaron T. *Cognitive Therapy and the Emotional Disorders*. International Universities Press, 1976.

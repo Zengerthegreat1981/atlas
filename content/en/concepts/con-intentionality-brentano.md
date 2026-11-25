@@ -44,8 +44,6 @@ Brentano distinguished three classes of mental phenomena, each characterized by 
 2. **Judgments (*Urteile*)**: accepting or rejecting what is presented.
 3. **Phenomena of love and hate (*Gemütsbewegungen*)**: taking an attitude of favor or disfavor toward an object, including feeling, desire and will.
 
-Each of the three can be directed toward different kinds of object: perception toward things, judgment toward states of affairs, and emotion toward objects viewed as good or bad. This is a later interpretive gloss rather than Brentano's own list.
-
 ## Intentionality in Later Philosophy
 
 1. **Phenomenology**: Edmund Husserl, a pupil of Brentano, adopted and transformed the doctrine in the *Logical Investigations* (1900-01) and *Ideas I* (1913), making the analysis of intentional structure (the act, its content or "sense," and its object) the central task of phenomenology. Husserl, Scheler, Heidegger and Merleau-Ponty each developed the idea differently.
@@ -71,6 +69,7 @@ The concept connects philosophy and psychology: it is a philosophical thesis abo
 
 - Franz Brentano, *Psychology from an Empirical Standpoint* (*Psychologie vom empirischen Standpunkte*), 1874; English trans. A. C. Rancurello, D. B. Terrell and L. L. McAlister, London: Routledge, 1995.
 - Edmund Husserl, *Logical Investigations* (*Logische Untersuchungen*), 1900-01.
+- Edmund Husserl, *Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie*, Book 1 (*Ideas I*), 1913.
 - Jean-Paul Sartre, "Intentionality: A Fundamental Idea of Husserl's Phenomenology," 1939.
 - Roderick M. Chisholm, *Perceiving: A Philosophical Study*, Ithaca: Cornell University Press, 1957.
 - John R. Searle, *Intentionality: An Essay in the Philosophy of Mind*, Cambridge: Cambridge University Press, 1983.

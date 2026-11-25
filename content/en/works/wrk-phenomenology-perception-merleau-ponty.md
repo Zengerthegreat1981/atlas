@@ -49,7 +49,7 @@ The book was published in 1945 by **Gallimard** (Paris), in the same year Merlea
 
 ## Comparative Roots in Arab Philosophy
 
-Medieval Arab philosophy offers a picture close to the idea of "bodily knowledge that precedes thought." In the story of *Ḥayy ibn Yaqẓān* by Ibn Tufayl (12th century), a human being grows up on an island without instruction and builds his knowledge step by step, from sensory perception and experimentation with his body and hands, and then toward rational contemplation. Lenn Goodman translated this story into English (1972; University of Chicago Press edition, 2009). Merleau-Ponty did not know this text, and he does not assume the ascending rational stages that Ibn Tufayl presupposes, so the connection is comparative and interpretive. Ibn al-Haytham's analysis of visual perception as a composite judgment is also relevant to the topic.
+Medieval Arab philosophy offers a picture close to the idea of "bodily knowledge that precedes thought." In the story of *Ḥayy ibn Yaqẓān* by Ibn Tufayl (12th century), a human being grows up on an island without instruction and builds his knowledge step by step, from sensory perception and experimentation with his body and hands, and then toward rational contemplation. Lenn Goodman translated this story into English (1972; University of Chicago Press edition, 2009). There is no evidence that Merleau-Ponty knew this text, and he does not assume the ascending rational stages that Ibn Tufayl presupposes, so the connection is comparative and interpretive. Ibn al-Haytham's analysis of visual perception as a composite judgment is also relevant to the topic.
 
 ## Reception and Critique
 
@@ -61,7 +61,7 @@ Iris Marion Young, in *Throwing Like a Girl*, argued that the "body" in Merleau-
 
 ## The Importance for the Philosophical-Psychological Bridge
 
-The book offers the most important philosophical alternative to the Cartesian dualism (mind/body) with which contemporary psychology still wrestles implicitly: the idea that perception, knowledge, and identity are **embodied**, not abstract, and that the body is not a tool used by a separate "I" but a existential condition of all experience. This philosophical foundation stands behind contemporary currents in somatic therapy, embodied cognitive psychology, and cognitive neuroscience, even if Merleau-Ponty was not always their direct technical source but often their philosophical background.
+The book offers a major philosophical alternative to the Cartesian dualism (mind/body) with which contemporary psychology still wrestles implicitly: the idea that perception, knowledge, and identity are **embodied**, not abstract, and that the body is not a tool used by a separate "I" but a existential condition of all experience. This philosophical foundation stands behind contemporary currents in somatic therapy, embodied cognitive psychology, and cognitive neuroscience, even if Merleau-Ponty was not always their direct technical source but often their philosophical background.
 
 ## Sources
 
@@ -69,4 +69,6 @@ The book offers the most important philosophical alternative to the Cartesian du
 - Merleau-Ponty, M. *Phenomenology of Perception*. Trans. Colin Smith. London: Routledge & Kegan Paul, 1962 (followed by a new translation by Donald Landes, Routledge, 2012).
 - Varela, Francisco J., Evan Thompson, and Eleanor Rosch. *The Embodied Mind*. Cambridge, MA: MIT Press, 1991.
 - Young, Iris Marion. *Throwing Like a Girl and Other Essays in Feminist Philosophy and Social Theory*. Bloomington: Indiana University Press, 1990.
+- Noë, Alva. *Action in Perception*. Cambridge, MA: MIT Press, 2004.
+- Butler, Judith. "Sexual Ideology and Phenomenological Description: A Feminist Critique of Merleau-Ponty's *Phenomenology of Perception*." In *The Thinking Muse*, edited by Jeffner Allen and Iris Marion Young. Bloomington: Indiana University Press, 1989.
 - Goodman, Lenn E., trans. *Hayy ibn Yaqzan: A Philosophical Tale* (Ibn Tufayl). Chicago: University of Chicago Press, 2009.

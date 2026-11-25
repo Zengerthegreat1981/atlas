@@ -128,10 +128,16 @@ Contemporary family therapy draws structural and pattern ideas from the systems 
 ## Sources
 
 - Bateson, G., Jackson, D. D., Haley, J., & Weakland, J. (1956). Toward a theory of schizophrenia. *Behavioral Science*, 1, 251-264.
+- Wolpe, J. (1958). *Psychotherapy by Reciprocal Inhibition*. Stanford University Press.
+- Eysenck, H. J. (Ed.) (1960). *Behaviour Therapy and the Neuroses*. Pergamon.
+- Minuchin, S., Montalvo, B., Guerney, B., Rosman, B., & Schumer, F. (1967). *Families of the Slums*. Basic Books.
 - Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 - Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 - Alexander, J. F., & Parsons, B. V. (1973). Short-term behavioral intervention with delinquent families. *Journal of Abnormal Psychology*, 81, 219-225.
+- Stuart, R. B. (1969). Operant-interpersonal treatment for marital discord. *Journal of Consulting and Clinical Psychology*, 33, 675-682.
+- Liberman, R. (1970). Behavioral approaches to family and couple therapy. *American Journal of Orthopsychiatry*, 40, 106-118.
 - Jacobson, N. S., & Margolin, G. (1979). *Marital Therapy*. Brunner/Mazel.
 - Patterson, G. R. (1982). *Coercive Family Process*. Castalia.
 - Henggeler, S. W., et al. (1998). *Multisystemic Treatment of Antisocial Behavior in Children and Adolescents*. Guilford Press.
+- Miller, A. L., Rathus, J. H., & Linehan, M. M. (2007). *Dialectical Behavior Therapy with Suicidal Adolescents*. Guilford Press.
 - McFarlane, W. R., et al. (1995). Multiple-family groups and psychoeducation in the treatment of schizophrenia. *Archives of General Psychiatry*, 52, 679-687.

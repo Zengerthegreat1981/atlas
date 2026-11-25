@@ -127,5 +127,6 @@ Somatic Experiencing (SE), developed by Peter A. Levine from the 1970s, is the b
 - Andersen, T. E., et al. (2017). A randomized controlled trial of brief Somatic Experiencing for chronic low back pain and comorbid post-traumatic stress disorder symptoms. *European Journal of Psychotraumatology*, 8, 1331108.
 - van der Kolk, B. A., et al. (2014). Yoga as an adjunctive treatment for posttraumatic stress disorder: A randomized controlled trial. *Journal of Clinical Psychiatry*, 75, e559-e565.
 - Siegel, D. J. (1999). *The Developing Mind*. Guilford Press.
+- Dana, D. (2018). *The Polyvagal Theory in Therapy*. Norton.
 - Damasio, A. (1994). *Descartes' Error*. Putnam.
 - Shapiro, F. (1989). Efficacy of the eye movement desensitization procedure in the treatment of traumatic memories. *Journal of Traumatic Stress*, 2, 199-223.

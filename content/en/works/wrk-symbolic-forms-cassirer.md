@@ -26,7 +26,7 @@ gaps: []
 
 ## The central thesis
 
-The human being is not essentially "the rational animal" (*animal rationale*) but **the "symbolizing animal"** (*animal symbolicum*): he does not confront reality directly but through a network of symbolic systems (language, myth, religion, art, science, history), and each of these does not **reflect** a ready-made reality but **shapes** a particular reality of its own, with its own logic and internal standard. "Truth" in language is not of the same kind as "truth" in mathematics or myth. This is the foundation on which Cassirer built his new Kantian project: transforming Kant's question about the conditions for the possibility of scientific knowledge into a broader question about the conditions for the possibility of every form of building human meaning. In this way he moves from the "Copernican revolution" in knowledge in Kant to a revolution in the understanding of culture: symbolic forms are "organs" with which the spirit makes its objects.
+The human being is not essentially "the rational animal" (*animal rationale*) but **the "symbolizing animal"** (*animal symbolicum*, a formula Cassirer states explicitly only in *An Essay on Man*, 1944, though it summarizes the trilogy): he does not confront reality directly but through a network of symbolic systems (language, myth, religion, art, science, history), and each of these does not **reflect** a ready-made reality but **shapes** a particular reality of its own, with its own logic and internal standard. "Truth" in language is not of the same kind as "truth" in mathematics or myth. This is the foundation on which Cassirer built his new Kantian project: transforming Kant's question about the conditions for the possibility of scientific knowledge into a broader question about the conditions for the possibility of every form of building human meaning. In this way he moves from the "Copernican revolution" in knowledge in Kant to a revolution in the understanding of culture: symbolic forms are "organs" with which the spirit makes its objects.
 
 ## Structure of the work
 
@@ -39,7 +39,7 @@ There is no single publication year for the work as a whole; the trilogy is a pr
 
 ## Historical context of publication
 
-Cassirer wrote the trilogy as a member of the **Marburg school** of neo-Kantianism, alongside Hermann Cohen and Paul Natorp. Its three volumes appeared between 1923 and 1929 in Weimar Germany, a period of German intellectual flourishing before the rise of Nazism, which later forced Cassirer, as a Jew, to emigrate from Germany in 1933. The idea of the book originated in Hamburg, where he benefited from the library of Aby Warburg (*Kulturwissenschaftliche Bibliothek Warburg*), which gathered material on myth, art, and religion, and where he was in contact with the Hamburg psychologists Wilhelm Stern and Heinz Werner.
+Cassirer wrote the trilogy as a thinker formed in the **Marburg school** of neo-Kantianism, alongside Hermann Cohen and Paul Natorp. Its three volumes appeared between 1923 and 1929 in Weimar Germany, a period of German intellectual flourishing before the rise of Nazism, which later forced Cassirer, as a Jew, to emigrate from Germany in 1933. The idea of the book originated in Hamburg, where he benefited from the library of Aby Warburg (*Kulturwissenschaftliche Bibliothek Warburg*), which gathered material on myth, art, and religion, and where he was in contact with the Hamburg psychologists Wilhelm Stern and Heinz Werner.
 
 ## Comparison with the Arab heritage on language and logic
 

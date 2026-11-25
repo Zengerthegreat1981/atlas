@@ -40,3 +40,4 @@ The claim that "shamanism is a system of knowledge and healing" faces reservatio
 - Vincent Crapanzano, *The Hamadsha: A Study in Moroccan Ethnopsychiatry*, University of California Press, 1973.
 - Janice Boddy, *Wombs and Alien Spirits: Women, Men, and the Zar Cult in Northern Sudan*, University of Wisconsin Press, 1989.
 - Michael Taussig, *Shamanism, Colonialism, and the Wild Man: A Study in Terror and Healing*, University of Chicago Press, 1987.
+- Michael Harner, *The Way of the Shaman*, San Francisco: Harper & Row, 1980.

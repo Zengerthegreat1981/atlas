@@ -28,7 +28,7 @@ In *Suicide: A Study in Sociology* (1897), Durkheim gathered statistics from acr
 
 ## The psychological angle: Shneidman
 
-Edwin Shneidman, one of the founders of suicidology in the United States, built his theory on the idea of "psychache": an unbearable inner pain resulting from the frustration of vital psychological needs, such as belonging, achievement, and autonomy. He presented the idea in *Definition of Suicide* (1985) and in *The Suicidal Mind* (1996). For him, suicide is not an escape from life but an escape from pain. It occurs when pain reaches a level beyond what the individual can bear, and vision narrows until only one exit remains. The therapist's goal is to relieve the pain or raise the capacity to bear it.
+Edwin Shneidman, one of the founders of suicidology in the United States, built his theory on the idea of "psychache": an unbearable inner pain resulting from the frustration of vital psychological needs, such as belonging, achievement, and autonomy. He developed the idea in *Suicide as Psychache* (1993) and *The Suicidal Mind* (1996); his earlier *Definition of Suicide* (1985) set out his general account of suicide. For him, suicide is not an escape from life but an escape from pain. It occurs when pain reaches a level beyond what the individual can bear, and vision narrows until only one exit remains. The therapist's goal is to relieve the pain or raise the capacity to bear it.
 
 ## Two levels of explanation, not two competing positions
 
@@ -46,5 +46,6 @@ Durkheim has been subject to methodological criticisms: his reliance on incomple
 
 - Durkheim, Émile. *Le suicide: Étude de sociologie*. Félix Alcan, 1897.
 - Shneidman, Edwin S. *Definition of Suicide*. John Wiley & Sons, 1985.
+- Shneidman, Edwin S. *Suicide as Psychache: A Clinical Approach to Self-Destructive Behavior*. Jason Aronson, 1993.
 - Shneidman, Edwin S. *The Suicidal Mind*. Oxford University Press, 1996.
 - Joiner, Thomas. *Why People Die by Suicide*. Harvard University Press, 2005.

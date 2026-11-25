@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Pleasure"
 en: "Pleasure"
 crumb: "Bridges ← Concepts ← Pleasure"
-active_start: 1920
+active_start: 1911
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Classical Psychoanalysis", target_type: "تيار"
@@ -56,3 +56,8 @@ Pleasure suffers from the difficulty of subjective measurement, and from the fac
 - Olds, James, and Peter Milner. "Positive Reinforcement Produced by Electrical Stimulation of Septal Area." *Journal of Comparative and Physiological Psychology* 47 (1954).
 - Brickman, Philip, and Donald T. Campbell. "Hedonic Relativism and Planning the Good Society." In *Adaptation-Level Theory*, ed. M. H. Appley. New York: Academic Press, 1971.
 - Brickman, Philip, Dan Coates, and Ronnie Janoff-Bulman. "Lottery Winners and Accident Victims." *Journal of Personality and Social Psychology* 36 (1978).
+- Freud, Sigmund. "Formulierungen über die zwei Prinzipien des psychischen Geschehens," 1911.
+- Bentham, Jeremy. *An Introduction to the Principles of Morals and Legislation*, 1789.
+- Mill, John Stuart. *Utilitarianism*, 1861.
+- Aristotle. *Nicomachean Ethics*, Book X.
+- Lembke, Anna. *Dopamine Nation*. New York: Dutton, 2021.

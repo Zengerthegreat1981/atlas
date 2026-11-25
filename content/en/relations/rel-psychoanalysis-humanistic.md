@@ -104,6 +104,11 @@ Their work is often described as a bridge, but direct influence on Rogers and Ma
 - Rogers, C. R. (1942). *Counseling and Psychotherapy*. Houghton Mifflin.
 - Rogers, C. R. (1951). *Client-Centered Therapy*. Houghton Mifflin.
 - Fromm, E. (1941). *Escape from Freedom*. Farrar & Rinehart.
+- Hartmann, H. (1939). *Ich-Psychologie und Anpassungsproblem*. Internationaler Psychoanalytischer Verlag.
+- Erikson, E. H. (1950). *Childhood and Society*. Norton.
+- Greenberg, L. S., Rice, L. N., & Elliott, R. (1993). *Facilitating Emotional Change: The Moment-by-Moment Process*. Guilford Press.
+- Horvath, A. O., & Symonds, B. D. (1991). Relation between working alliance and outcome in psychotherapy: A meta-analysis. *Journal of Counseling Psychology*, 38, 139-149.
+- Flückiger, C., Del Re, A. C., Wampold, B. E., & Horvath, A. O. (2018). The alliance in adult psychotherapy: A meta-analytic synthesis. *Psychotherapy*, 55, 316-340.
 - Gendlin, E. T. (1978). *Focusing*. Everest House.
 - Deci, E. L., & Ryan, R. M. (1985). *Intrinsic Motivation and Self-Determination in Human Behavior*. Plenum.
 - Miller, W. R., & Rollnick, S. (1991). *Motivational Interviewing*. Guilford Press.

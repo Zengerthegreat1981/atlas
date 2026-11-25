@@ -7,7 +7,7 @@ level: "متوسط"
 title: "Hypnosis and Psychoanalysis: Historical Divergence"
 en: "Hypnosis and Psychoanalysis: Historical Divergence"
 crumb: "Bridges ← Relations ← Hypnosis and Psychoanalysis: Historical Divergence"
-active_start: null
+active_start: 1885
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Clinical Hypnotherapy", target_type: "تيار"
@@ -49,5 +49,7 @@ Defenders of the separation say that it gave analysis a rigorous method founded 
 - Ellenberger, Henri F. *The Discovery of the Unconscious*. Basic Books, 1970.
 - Gauld, Alan. *A History of Hypnotism*. Cambridge University Press, 1992.
 - Hilgard, Ernest R. *Divided Consciousness: Multiple Controls in Human Thought and Action*. John Wiley & Sons, 1977.
+- Janet, Pierre. *L'automatisme psychologique*. Félix Alcan, 1889.
+- Bernheim, Hippolyte. *De la suggestion et de ses applications à la thérapeutique*. Paris, 1886.
 - Kirsch, Irving, Guy Montgomery, and Guy Sapirstein. "Hypnosis as an Adjunct to Cognitive-Behavioral Psychotherapy: A Meta-Analysis." *Journal of Consulting and Clinical Psychology* 63(2), 1995.
 - Montgomery, Guy H., Katherine N. DuHamel, and William H. Redd. "A Meta-Analysis of Hypnotically Induced Analgesia." *International Journal of Clinical and Experimental Hypnosis* 48(2), 2000.

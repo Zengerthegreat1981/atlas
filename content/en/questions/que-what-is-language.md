@@ -26,7 +26,7 @@ A central question in philosophy, linguistics, and psychology: is language a sys
 
 ## Ibn Jinni's definition and the origin of language among the Arabs
 
-Ibn Jinni (d. 1002) defined language in *al-Khasa'is* as "sounds by which each people expresses its purposes," a definition that combines sound, expression, society, and the communicative aim in a single phrase, and that anticipates many modern definitions. Scholars disputed the origin of language between the view of *tawqif* (revelation), namely that God taught Adam the names (Al-Baqara, 31), which is the view of Ibn Faris in *al-Sahibi*, and the view of *istilah* (convention), namely that people agreed upon words. Ibn Jinni wavered between the two positions and allowed that its origin might be inspiration or convention. Ibn Khaldun, in the *Muqaddima*, treated language as a craft-like "faculty" (*malaka*) in the tongue, acquired through practice and hearing, just as crafts are acquired, a conception that brings it close to psychology's interest in acquisition. As-Suyuti gathered many of these discussions in *al-Muzhir*.
+Ibn Jinni (d. 1002) defined language in *al-Khasa'is* as "sounds by which each people expresses its purposes," a definition that combines sound, expression, society, and the communicative aim in a single phrase, and that resembles many modern definitions. Scholars disputed the origin of language between the view of *tawqif* (revelation), namely that God taught Adam the names (Al-Baqara, 31), which is the view of Ibn Faris in *al-Sahibi*, and the view of *istilah* (convention), namely that people agreed upon words. Ibn Jinni wavered between the two positions and allowed that its origin might be inspiration or convention. Ibn Khaldun, in the *Muqaddima*, treated language as a craft-like "faculty" (*malaka*) in the tongue, acquired through practice and hearing, just as crafts are acquired, a conception that brings it close to psychology's interest in acquisition. As-Suyuti gathered many of these discussions in *al-Muzhir*.
 
 ## Modern dialogues
 
@@ -53,4 +53,9 @@ Each approach captures only one aspect: Saussure does not explain creativity, Ch
 - Noam Chomsky, *Aspects of the Theory of Syntax*, MIT Press, 1965.
 - Ludwig Wittgenstein, *Philosophische Untersuchungen*, Blackwell, 1953.
 - Wilhelm von Humboldt, *Über die Verschiedenheit des menschlichen Sprachbaues*, Berlin: Königliche Akademie der Wissenschaften, 1836.
+- Ludwig Wittgenstein, *Tractatus Logico-Philosophicus*, 1921 (English edition 1922).
+- Eric H. Lenneberg, *Biological Foundations of Language*, Wiley, 1967.
+- Benjamin Lee Whorf, *Language, Thought, and Reality*, ed. John B. Carroll, MIT Press, 1956.
+- Alan M. Turing, "Computing Machinery and Intelligence," *Mind* 59, 1950.
+- Jalal al-Din al-Suyuti, *al-Muzhir fi 'Ulum al-Lugha*.
 - Steven Pinker, *The Language Instinct*, William Morrow, 1994.

@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Body Schema: The Unconscious System of Movement and Posture"
 en: "Body Schema: The Unconscious System of Movement and Posture"
 crumb: "Bridges ← Concepts ← Body Schema: The Unconscious System of Movement and Posture"
-active_start: 1935
+active_start: 1911
 active_end: "مستمر"
 edges:
 - rel: "belongs_to", target: "Somatic Phenomenology", target_type: "مدرسة"

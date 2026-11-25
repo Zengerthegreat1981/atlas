@@ -57,3 +57,5 @@ Critics argue that the concept of "embodiment" is loose and used in various sens
 - Gallagher, Shaun. *How the Body Shapes the Mind*. Oxford: Oxford University Press, 2005.
 - Lakoff, George, and Mark Johnson. *Metaphors We Live By*. Chicago: University of Chicago Press, 1980.
 - Clark, Andy, and David Chalmers. "The Extended Mind." *Analysis* 58, no. 1 (1998).
+- Sacks, Oliver. *The Man Who Mistook His Wife for a Hat*. London: Duckworth, 1985.
+- Ramachandran, V. S., and Sandra Blakeslee. *Phantoms in the Brain*. New York: William Morrow, 1998.

@@ -69,8 +69,10 @@ This entry compares clinical programmes with Buddhist sources; it does not estab
 - Jon Kabat-Zinn, *Full Catastrophe Living*, Delacorte, 1990.
 - Jon Kabat-Zinn, "Mindfulness-Based Interventions in Context: Past, Present, and Future," *Clinical Psychology: Science and Practice* 10(2), 2003.
 - Zindel V. Segal, J. Mark G. Williams, and John D. Teasdale, *Mindfulness-Based Cognitive Therapy for Depression*, Guilford Press, 2002.
+- Willem Kuyken et al., "Antidepressant Medication versus Mindfulness-Based Cognitive Therapy to Prevent Depressive Relapse (PREVENT)," *The Lancet* 386, 2015.
 - Willem Kuyken et al., "Efficacy of Mindfulness-Based Cognitive Therapy in Prevention of Depressive Relapse: An Individual Patient Data Meta-analysis from Randomized Trials," *JAMA Psychiatry* 73(6), 2016.
 - Steven C. Hayes, Kirk D. Strosahl, and Kelly G. Wilson, *Acceptance and Commitment Therapy*, Guilford Press, 1999.
 - Marsha M. Linehan, *Cognitive-Behavioral Treatment of Borderline Personality Disorder*, Guilford Press, 1993.
 - Robert H. Sharf, "Is Mindfulness Buddhist? (And Why It Matters)," *Transcultural Psychiatry* 52(4), 2015.
+- Ronald E. Purser, *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*, Repeater Books, 2019.
 - Nicholas T. Van Dam et al., "Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation," *Perspectives on Psychological Science* 13(1), 2018.

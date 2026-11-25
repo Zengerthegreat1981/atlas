@@ -41,7 +41,7 @@ The concept is central to **philosophical hermeneutics**, as Gadamer developed i
 
 ## The Difference from Neighbouring Concepts
 
-The fusion of horizons differs from **perspective taking** in cognitive and social psychology, which is a measurable process of inferring another's viewpoint, whereas the fusion of horizons is a philosophical description of the structure of understanding. It also differs from **multiculturalism** as a political stance: Gadamer is concerned with the conditions of understanding, not with identity politics. A related entry in the atlas deals with the concept from a purely philosophical standpoint.
+The fusion of horizons differs from **perspective taking** in cognitive and social psychology, which is a measurable process of inferring another's viewpoint, whereas the fusion of horizons is a philosophical description of the structure of understanding. It also differs from **multiculturalism** as a political stance: Gadamer is concerned with the conditions of understanding, not with identity politics.
 
 ## Sources
 

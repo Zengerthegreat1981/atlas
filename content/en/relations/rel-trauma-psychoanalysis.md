@@ -138,7 +138,12 @@ Psychological trauma stands at the origin of psychoanalysis. In the 1880s and 18
 - Janet, P. (1889). *L'automatisme psychologique*. Alcan.
 - Breuer, J., & Freud, S. (1895). *Studien über Hysterie*. Deuticke.
 - Freud, S. (1920). *Jenseits des Lustprinzips*.
+- Ferenczi, S. (1933). Sprachverwirrung zwischen den Erwachsenen und dem Kind. *Internationale Zeitschrift für Psychoanalyse*, 19, 5-15 (read 1932).
 - Kardiner, A. (1941). *The Traumatic Neuroses of War*. Hoeber.
+- Grinker, R. R., & Spiegel, J. P. (1945). *Men Under Stress*. Blakiston.
+- Bergmann, M. S., & Jucovy, M. E. (Eds.) (1982). *Generations of the Holocaust*. Basic Books.
+- Foa, E. B., & Kozak, M. J. (1986). Emotional processing of fear: Exposure to corrective information. *Psychological Bulletin*, 99, 20-35.
+- Loftus, E. F., & Pickrell, J. E. (1995). The formation of false memories. *Psychiatric Annals*, 25, 720-725.
 - Masson, J. M. (1984). *The Assault on Truth: Freud's Suppression of the Seduction Theory*. Farrar, Straus and Giroux.
 - Herman, J. L. (1992). *Trauma and Recovery*. Basic Books.
 - Resick, P. A., & Schnicke, M. K. (1992). Cognitive processing therapy for sexual assault victims. *Journal of Consulting and Clinical Psychology*, 60, 748-756.

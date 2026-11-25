@@ -39,7 +39,7 @@ Fechner studied medicine at Leipzig, graduating in 1822, then worked as a lectur
 
 ### 1. Elements of Psychophysics (Elemente der Psychophysik, 1860)
 
-His most important work. The fundamental idea is said to have occurred to him on the morning of 22 October 1850, a date that Edwin Boring, in *A History of Experimental Psychology* (1929), made a symbolic birth date for the field. In it he built on Weber's law and formulated the logarithmic law of sensation, and the later power law offered an alternative:
+His best-known work. The fundamental idea is said to have occurred to him on the morning of 22 October 1850, a date that Edwin Boring, in *A History of Experimental Psychology* (1929), made a symbolic birth date for the field. In it he built on Weber's law and formulated the logarithmic law of sensation, and the later power law offered an alternative:
 
 - **Weber's Law**: the ratio between the just-noticeable difference and the strength of the stimulus is constant.
   ΔI/I = k
@@ -63,7 +63,7 @@ From about 1839 to 1843 Fechner went through a severe illness (usually described
 
 ### On psychology
 
-- Fechner is regarded as the **actual founder of the quantitative experimental method in psychology**, roughly two decades before Wundt's Leipzig laboratory (1879). Wundt drew on the *Elements* in his *Principles of Physiological Psychology* (1873-74), while disagreeing with him over interpretation. Historians still debate how priority in founding experimental psychology should be divided between the two.
+- Fechner is regarded as a **pioneer of the quantitative experimental method in psychology**, roughly two decades before Wundt's Leipzig laboratory (1879). Wundt drew on the *Elements* in his *Principles of Physiological Psychology* (1873-74), while disagreeing with him over interpretation. Historians still debate how priority in founding experimental psychology should be divided between the two.
 - Freud borrowed from Fechner the principle of the tendency toward constancy in *Beyond the Pleasure Principle* (1920), and in *The Interpretation of Dreams* (1900) cited Fechner's suggestion that the scene of dreams is "another scene" than that of waking ideation.
 - He paved the way for measuring **sensation, perception, and memory** as quantities that can be tested, and Ebbinghaus, who acknowledged the influence of Fechner's *Elements*, applied this quantitative approach to memory (1885).
 - William James wrote a chapter on Fechner in *A Pluralistic Universe* (1909), "Concerning Fechner," and admired his conception of a wider consciousness.

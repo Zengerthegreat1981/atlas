@@ -142,4 +142,5 @@ Transpersonal psychology emerged in the late 1960s as an extension of humanistic
 - Wilber, K. (1977). *The Spectrum of Consciousness*. Quest Books.
 - Wilber, K. (1995). *Sex, Ecology, Spirituality*. Shambhala.
 - Ferrer, J. N. (2002). *Revisioning Transpersonal Theory*. SUNY Press.
+- Ross, S., et al. (2016). Rapid and sustained symptom reduction following psilocybin treatment for anxiety and depression in patients with life-threatening cancer. *Journal of Psychopharmacology*, 30, 1165-1180.
 - Griffiths, R. R., et al. (2016). Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer. *Journal of Psychopharmacology*, 30, 1181-1197.

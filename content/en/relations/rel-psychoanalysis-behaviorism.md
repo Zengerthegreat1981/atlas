@@ -97,6 +97,7 @@ By the 1980s the two traditions were less often treated as opposed camps and mor
 ## Sources
 
 - Watson, J. B. (1913). Psychology as the Behaviorist Views It. *Psychological Review*, 20, 158-177.
+- Freud, S. (1950 [written 1895]). Project for a Scientific Psychology. *Standard Edition*, vol. 1.
 - Freud, S. (1917). A Difficulty in the Path of Psycho-Analysis. *Imago*, 5.
 - MacCorquodale, K., & Meehl, P. E. (1948). On a distinction between hypothetical constructs and intervening variables. *Psychological Review*, 55, 95-107.
 - Dollard, J., & Miller, N. E. (1950). *Personality and Psychotherapy*. McGraw-Hill.
@@ -105,4 +106,5 @@ By the 1980s the two traditions were less often treated as opposed camps and mor
 - Skinner, B. F. (1971). *Beyond Freedom and Dignity*. Knopf.
 - Beck, A. T. (1976). *Cognitive Therapy and the Emotional Disorders*. International Universities Press.
 - Bandura, A. (1977). *Social Learning Theory*. Prentice Hall.
+- Hayes, S. C., Barnes-Holmes, D., & Roche, B. (Eds.) (2001). *Relational Frame Theory: A Post-Skinnerian Account of Human Language and Cognition*. Kluwer/Plenum.
 - Wampold, B. E. (2001). *The Great Psychotherapy Debate*. Erlbaum.

@@ -24,7 +24,7 @@ George Herbert Mead (1863–1931) published no book during his lifetime and did 
 
 ## Philosophical Roots
 
-Mead belongs to classical American pragmatism, which holds that thought is a tool for solving problems of action rather than a mirror of reality. He criticized the dualism between mind and body, and between the individual and society, making mind a social process that arises from the exchange of gestures. In Islamic philosophy there is a distant connection, sometimes mentioned, between the idea of the emergence of the self within civilization (*al-'umrān*) in Ibn Khaldun and Mead's idea. However, there is no evidence of influence, nor of Mead's knowledge of this, so the connection remains a comparison of interpretive character and nothing more.
+Mead belongs to classical American pragmatism, which holds that thought is a tool for solving problems of action rather than a mirror of reality. He criticized the dualism between mind and body, and between the individual and society, making mind a social process that arises from the exchange of gestures.
 
 ## Mead's Central Concepts
 
@@ -47,4 +47,6 @@ The sociological perspective derived from Mead is criticized for ignoring power 
 - Mead, George Herbert. *Mind, Self, and Society: From the Standpoint of a Social Behaviorist*. Edited by Charles W. Morris. University of Chicago Press, 1934.
 - Blumer, Herbert. *Symbolic Interactionism: Perspective and Method*. Prentice-Hall, 1969.
 - Goffman, Erving. *The Presentation of Self in Everyday Life*. Doubleday, 1959.
+- Stryker, Sheldon. *Symbolic Interactionism: A Social Structural Version*. Benjamin/Cummings, 1980.
+- Habermas, Jürgen. *Theorie des kommunikativen Handelns*. Suhrkamp, 1981.
 - Joas, Hans. *G. H. Mead: A Contemporary Re-examination of His Thought*. Polity Press, 1985.

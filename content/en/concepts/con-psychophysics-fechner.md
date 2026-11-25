@@ -98,7 +98,7 @@ Psychophysics connects a philosophical question (how matter and experience are r
 
 ## Legacy
 
-- Fechner is regarded as the founder of **psychophysics** and a forerunner of experimental psychology; Wundt's laboratory (1879) institutionalized the experimental program.
+- Fechner is regarded as a principal founder of **psychophysics** and a forerunner of experimental psychology; Wundt's laboratory (1879) institutionalized the experimental program.
 - Psychophysical methods and scaling influenced later psychological measurement, including the study of attitudes and preferences (for example Thurstone's scaling work in the 1920s).
 - Weber's and Fechner's laws are still used as first approximations in sensory science.
 

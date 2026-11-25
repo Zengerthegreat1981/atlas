@@ -43,3 +43,5 @@ Praxis differs from **theoretical contemplation** (*theoria*), because it involv
 - "Marx, Karl" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/marx/>
 - "Arendt, Hannah" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/arendt/>
 - "Gramsci, Antonio" — *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/gramsci/>
+- Antonio Gramsci, *Quaderni del carcere* (*Prison Notebooks*), written 1929-35.
+- Jean-François Lyotard, *La Condition postmoderne*, Paris: Minuit, 1979.

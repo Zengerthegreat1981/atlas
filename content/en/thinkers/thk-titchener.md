@@ -84,6 +84,7 @@ Titchener stands on the bridge because he:
 
 - Titchener, E. B. (1898). "The Postulates of a Structural Psychology." *Philosophical Review*, 7(5).
 - Titchener, E. B. (1909). *A Text-Book of Psychology*. Macmillan.
+- Titchener, E. B. (1909). *Lectures on the Experimental Psychology of the Thought-Processes*. Macmillan.
 - Titchener, E. B. (1901-1905). *Experimental Psychology: A Manual of Laboratory Practice*. Macmillan.
 - Boring, E. G. (1950). *A History of Experimental Psychology* (2nd ed.). Appleton-Century-Crofts. (Documents his academic career and his battle with James.)
 - Danziger, Kurt. (1990). *Constructing the Subject: Historical Origins of Psychological Research*. Cambridge University Press.

@@ -56,7 +56,7 @@ This theory became a central foundation for **contemporary visual perception** a
 
 ### 3. Measuring the Speed of Nerve Conduction
 
-In 1850, Helmholtz measured the conduction velocity in the **motor nerve of a frog** using a graphic-recording method for very short time intervals (fractions of a thousandth of a second), and found it to be about **27 metres per second**, a figure much lower than had been assumed (his teacher Johannes Müller had believed the speed to be nearly instantaneous and impossible to measure). This measurement refuted the idea that nerve conduction was "instantaneous" through the action of a "vital force," and founded experimental **neurophysiology**.
+In 1850, Helmholtz measured the conduction velocity in the **motor nerve of a frog** using a graphic-recording method for very short time intervals (fractions of a thousandth of a second), and found it to be about **27 metres per second**, a figure much lower than had been assumed (his teacher Johannes Müller had believed the speed to be nearly instantaneous and impossible to measure). This measurement refuted the idea that nerve conduction was "instantaneous" through the action of a "vital force," and became a landmark in experimental **neurophysiology**.
 
 ### 4. The Philosophy of Geometry
 
@@ -85,13 +85,12 @@ Critics, notably within the phenomenological tradition, have treated the Helmhol
 
 - The **Helmholtz Association** (Helmholtz-Gemeinschaft / Helmholtz Association), the largest grouping of scientific research centres in Germany today, is named after him. It was founded a century after his death, in 1995, as a tribute to his legacy, and not founded by him.
 - He became professor of physiology at Heidelberg in 1858, professor of physics at Berlin in 1871, and first president of the Physikalisch-Technische Reichsanstalt in 1888.
-- He is regarded as one of the most prominent founders of experimental neurophysiology and physiological psychology, alongside his central contributions to classical physics.
+- He is regarded as one of the founders of experimental neurophysiology and physiological psychology, alongside his central contributions to classical physics.
 
 ## Sources
 
 - [Hermann von Helmholtz — Encyclopædia Britannica](https://www.britannica.com/biography/Hermann-von-Helmholtz)
 - [Hermann von Helmholtz — Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/hermann-helmholtz/)
-- [Hermann von Helmholtz — Helmholtz Association (institutional history)](https://www.helmholtz.de/en/about-us/who-we-are/history/hermann-von-helmholtz/)
 - Koenigsberger, Leo. *Hermann von Helmholtz*. Braunschweig: Vieweg, 1902-1903.
 - Cahan, David (ed.). *Hermann von Helmholtz and the Foundations of Nineteenth-Century Science*. Berkeley: University of California Press, 1993.
 - Helmholtz, Hermann von. *Handbuch der physiologischen Optik*. Leipzig: Voss, 1856-1867.

@@ -48,6 +48,7 @@ No strong quantitative studies yet test the effectiveness of systemic family the
 
 - Murray Bowen, *Family Therapy in Clinical Practice*, Jason Aronson, 1978.
 - Michael E. Kerr and Murray Bowen, *Family Evaluation: An Approach Based on Bowen Theory*, W. W. Norton, 1988.
+- Abu Hamid al-Ghazali, *Ihya' 'Ulum al-Din*.
 - Tu Wei-ming, *Confucian Thought: Selfhood as Creative Transformation*, State University of New York Press, 1985.
 - James Legge (trans.), *The Great Learning*, in *The Chinese Classics*, volume 1, Clarendon Press, Oxford, 1893.
 - Takeo Tamura and Anna Lau, "Connectedness versus Separateness: Applicability of Family Therapy to Japanese Families," *Family Process* 31(4), 1992.

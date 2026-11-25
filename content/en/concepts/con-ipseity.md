@@ -47,3 +47,4 @@ Ricoeur's ipseity differs from **personal identity** as sameness (*idem*): ipsei
 - Derek Parfit, *Reasons and Persons*, Oxford: Oxford University Press, 1984.
 - John Locke, *An Essay Concerning Human Understanding*, II.xxvii (1694 edition).
 - Dan Zahavi, *Subjectivity and Selfhood*, Cambridge, MA: MIT Press, 2005.
+- Michael White and David Epston, *Narrative Means to Therapeutic Ends*, New York: Norton, 1990.

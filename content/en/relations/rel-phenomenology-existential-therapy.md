@@ -64,7 +64,7 @@ In *Sein und Zeit* (1927), Martin Heidegger (1889-1976), once Husserl's assistan
 
 ## Viktor Frankl
 
-**Viktor Frankl** (1905-1997) developed logotherapy and existential analysis, centered on the will to meaning, and described his experiences in the camps in *Man's Search for Meaning* (1946 German; 1959 English). His intellectual sources include Scheler and the existential-phenomenological tradition, but he was not a student of Jaspers, and his school differs from Binswanger's and Boss's Daseinsanalysis.
+**Viktor Frankl** (1905-1997) developed logotherapy and existential analysis, centered on the will to meaning, and described his experiences in the camps in *Ein Psychologe erlebt das Konzentrationslager* (1946; English 1959, later retitled *Man's Search for Meaning*). His intellectual sources include Scheler and the existential-phenomenological tradition, but he was not a student of Jaspers, and his school differs from Binswanger's and Boss's Daseinsanalysis.
 
 ## Irvin Yalom
 

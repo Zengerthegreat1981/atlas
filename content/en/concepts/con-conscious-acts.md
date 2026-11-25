@@ -54,7 +54,7 @@ Acts of taking an attitude of liking or disliking toward an object, including fe
 
 ## The Unconscious According to Brentano
 
-Brentano rejected the existence of unconscious mental phenomena. In an appendix to the 1874 work he argued that every mental act is accompanied by a secondary, incidental awareness of itself (a view usually presented as avoiding an infinite regress of further acts). Alleged unconscious mental states are then to be understood either as physiological processes, which are not mental phenomena, or as conscious phenomena of which one is not explicitly aware.
+Brentano rejected the existence of unconscious mental phenomena. In the 1874 work (Book II) he argued that every mental act is accompanied by a secondary, incidental awareness of itself (a view usually presented as avoiding an infinite regress of further acts). Alleged unconscious mental states are then to be understood either as physiological processes, which are not mental phenomena, or as conscious phenomena of which one is not explicitly aware.
 
 ## Descriptive Psychology
 

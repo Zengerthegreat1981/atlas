@@ -45,7 +45,7 @@ Wilhelm Reich (1897-1957) was a prominent and gifted member of the second genera
 
 ## Legacy of Reich's Somatic Ideas
 
-- **Alexander Lowen** (1910-2008) and **John Pierrakos** (1921-2001): founded bioenergetic analysis (the Institute for Bioenergetic Analysis, 1956); Pierrakos later developed Core Energetics. Both were trained by Reich.
+- **Alexander Lowen** (1910-2008) and **John Pierrakos** (1921-2001): co-founded bioenergetic analysis (the Institute for Bioenergetic Analysis, 1956); Pierrakos later developed Core Energetics. Lowen trained with Reich; Pierrakos worked with Lowen and was a patient and colleague in that circle rather than a direct pupil of Reich.
 - **Other extensions:** Stanley Keleman's formative psychology, David Boadella's biosynthesis, and Charles Kelley's Radix are among the lines of body-oriented psychotherapy derived from Reichian ideas.
 - These schools vary widely in how far they retain Reich's energy concepts.
 
@@ -89,7 +89,7 @@ Reich was not the only analyst to attend to the body. Freud's early work on conv
 ## Chain of Influence
 
 - **Freud to Reich:** Reich was a student and colleague before breaking away.
-- **Reich to Lowen and Pierrakos:** direct pupils who developed bioenergetics and core energetics.
+- **Reich to Lowen and Pierrakos:** Lowen was Reich's pupil; he and Pierrakos developed bioenergetics, and Pierrakos later core energetics.
 - **Reich to Levine:** not a documented descent; SE developed from other sources and distances itself from orgone theory.
 - **Levine and Gendlin to Ogden and others:** body-centered methods influenced later psychodynamic and trauma therapies.
 

@@ -50,3 +50,4 @@ Ricœur's narrative identity belongs to philosophical hermeneutics: interpretati
 - Michael White and David Epston, *Narrative Means to Therapeutic Ends*, New York: Norton, 1990.
 - Galen Strawson, "Against Narrativity," *Ratio* 17(4), 2004.
 - "Ricoeur, Paul," *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/ricoeur/>
+- Maggie Schauer, Frank Neuner and Thomas Elbert, *Narrative Exposure Therapy: A Short-Term Intervention for Traumatic Stress Disorders after War, Terror, or Torture*, Göttingen: Hogrefe, 2005.

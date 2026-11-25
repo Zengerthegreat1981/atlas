@@ -91,4 +91,7 @@ Both currents have been criticized for romanticizing madness, for lacking clinic
 - David Cooper, *Psychiatry and Anti-Psychiatry* (Tavistock, 1967).
 - Franco Basaglia (ed.), *L'istituzione negata* (Einaudi, 1968).
 - Nick Crossley, *Contesting Psychiatry: Social Movements in Mental Health* (Routledge, 2006).
+- Erving Goffman, *Asylums* (Doubleday, 1961).
+- David Ingleby (ed.), *Critical Psychiatry: The Politics of Mental Health* (Pantheon, 1980; Penguin, 1981).
+- Judith Butler, *The Psychic Life of Power* (Stanford University Press, 1997).
 - Nikolas Rose, *Governing the Soul* (Routledge, 1990).

@@ -29,7 +29,7 @@ Arabic distinguishes between closely related terms. *'Afw* is the waiver of the 
 
 ## The Western Philosophical Tradition
 
-David Konstan, in *Before Forgiveness* (2010), argues that forgiveness as a virtue involving the abandonment of resentment in exchange for repentance was not known in that sense to the Greeks and Romans, but emerged within the biblical tradition. In Augustine's *Confessions* (c. 400), forgiveness is a divine gift that does not originate in the self. In Nietzsche's *On the Genealogy of Morals* (1887), the matter takes two forms: resentment (*ressentiment*) that disguises itself as forgiveness is a repressed revenge, whereas mercy (*Gnade*) is a privilege of the powerful who rise above the law (second essay, section 10), so forgiveness is not for him an absolute weakness. In Derrida's essays on forgiveness (published in French in the late 1990s and in English as *On Cosmopolitanism and Forgiveness*, 2001), true forgiveness concerns what is unforgivable: if we forgive only what is forgivable, that is a calculation, not forgiveness; it is thus both impossible and necessary. In Paul Ricoeur's *Memory, History, Forgetting* (2000), forgiveness is the liberation of the agent from the weight of their act, not the erasure of the act; it is a reconciled memory, not forgetting.
+David Konstan, in *Before Forgiveness* (2010), argues that forgiveness as a virtue involving the abandonment of resentment in exchange for repentance was not known in that sense to the Greeks and Romans, but emerged within the biblical tradition. In Augustine's *Confessions* (c. 400), forgiveness is a divine gift that does not originate in the self. In Nietzsche's *On the Genealogy of Morals* (1887), the matter takes two forms: *ressentiment* (first essay) is a repressed, spiritualised revenge, whereas mercy (*Gnade*) is a privilege of the powerful who rise above the law (second essay, section 10), so forgiveness is not for him an absolute weakness. In Derrida's essays on forgiveness (published in French in the late 1990s and in English as *On Cosmopolitanism and Forgiveness*, 2001), true forgiveness concerns what is unforgivable: if we forgive only what is forgivable, that is a calculation, not forgiveness; it is thus both impossible and necessary. In Paul Ricoeur's *Memory, History, Forgetting* (2000), forgiveness is the liberation of the agent from the weight of their act, not the erasure of the act; it is a reconciled memory, not forgetting.
 
 ## Psychology
 
@@ -48,6 +48,8 @@ Most psychological models of forgiveness were built on Western samples and indiv
 - David Konstan, *Before Forgiveness: The Origins of a Moral Idea*, Cambridge University Press, 2010.
 - Paul Ricoeur, *La mémoire, l'histoire, l'oubli*, Paris: Éditions du Seuil, 2000.
 - Jacques Derrida, *On Cosmopolitanism and Forgiveness*, Routledge, 2001.
+- Augustine, *Confessions* (c. 397-400).
+- Abu Hamid al-Ghazali, *Ihya' 'Ulum al-Din*.
 - Friedrich Nietzsche, *Zur Genealogie der Moral*, Leipzig: C. G. Naumann, 1887.
 - Robert D. Enright and Richard P. Fitzgibbons, *Helping Clients Forgive: An Empirical Guide for Resolving Anger and Restoring Hope*, American Psychological Association, 2000.
 - Michael E. McCullough, Everett L. Worthington Jr., and Kenneth C. Rachal, "Interpersonal Forgiveness in Close Relationships," *Journal of Personality and Social Psychology* 73(2), 1997.

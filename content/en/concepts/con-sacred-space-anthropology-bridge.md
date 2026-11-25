@@ -33,7 +33,7 @@ Many studies affirm that sacred places become arenas of identity conflict: Jerus
 
 ## Limits of the Approach
 
-The three approaches assume that sacred place has a single structure, although the boundaries of the sacred differ between Islam, which relies on the *qibla* and ritual boundary; Christianity, which sanctifies the altar and the church; and Hinduism, which sanctifies rivers and mountains. Some studies also overlook the ability of believers themselves to distinguish between the sanctity of a place and the sanctity of God, as in the jurists' statement that the sanctuary is not worshipped. Finally, the study of place requires field and archaeological data that is not always available.
+The three approaches assume that sacred place has a single structure, although the boundaries of the sacred differ between Islam, which relies on the *qibla* and ritual boundary; Christianity, which sanctifies the altar and the church; and Hinduism, which sanctifies rivers and mountains. Some studies also overlook the ability of believers themselves to distinguish between the sanctity of a place and the sanctity of God. Finally, the study of place requires field and archaeological data that is not always available.
 
 ## Sources
 

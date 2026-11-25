@@ -74,6 +74,7 @@ The history is intertwined, but not all PAT researchers adopt transpersonal fram
 
 - Albert Hofmann, *LSD: My Problem Child* (1979/1980).
 - Stanislav Grof, *Realms of the Human Unconscious* (Viking, 1975) and *LSD Psychotherapy* (Hunter House, 1980).
+- John Welwood, "Principles of Inner Work: Psychological and Spiritual," *Journal of Transpersonal Psychology* 16(1) (1984).
 - Roland R. Griffiths et al., "Psilocybin Can Occasion Mystical-Type Experiences Having Substantial and Sustained Personal Meaning and Spiritual Significance," *Psychopharmacology* 187 (2006).
 - Roland R. Griffiths et al., "Psilocybin Produces Substantial and Sustained Decreases in Depression and Anxiety in Patients with Life-Threatening Cancer," *Journal of Psychopharmacology* 30(12) (2016).
 - Stephen Ross et al., "Rapid and Sustained Symptom Reduction Following Psilocybin Treatment for Anxiety and Depression in Patients with Life-Threatening Cancer," *Journal of Psychopharmacology* 30(12) (2016).

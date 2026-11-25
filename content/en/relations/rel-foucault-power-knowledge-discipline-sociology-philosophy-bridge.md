@@ -43,5 +43,9 @@ Nancy Fraser (1981) criticized Foucault for offering no normative basis that jus
 - Mitchell, Timothy. *Colonising Egypt*. Cambridge University Press, 1988 (University of California Press, 1991).
 - Foucault, Michel. *Surveiller et punir: Naissance de la prison*. Éditions Gallimard, 1975.
 - Foucault, Michel. *L'archéologie du savoir*. Éditions Gallimard, 1969.
+- Said, Edward W. *Orientalism*. Pantheon, 1978.
+- Fraser, Nancy. "Foucault on Modern Power: Empirical Insights and Normative Confusions." *Praxis International* 1(3), 1981.
+- Habermas, Jürgen. *Der philosophische Diskurs der Moderne*. Suhrkamp, 1985.
+- Mathiesen, Thomas. "The Viewer Society: Michel Foucault's 'Panopticon' Revisited." *Theoretical Criminology* 1(2), 1997.
 - Garland, David. *Punishment and Modern Society: A Study in Social Theory*. University of Chicago Press, 1990.
 - Haggerty, Kevin D., and Richard V. Ericson. "The Surveillant Assemblage." *British Journal of Sociology* 51(4), 2000.

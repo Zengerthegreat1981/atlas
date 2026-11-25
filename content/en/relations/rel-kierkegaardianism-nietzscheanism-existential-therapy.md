@@ -42,7 +42,7 @@ Existential psychotherapy draws, in different ways and to different degrees, on 
 - **The death of God** (*The Gay Science*, 1882): a diagnosis of the collapse of the shared metaphysical and religious foundations of European values, not a celebration.
 - **Will to power**, **self-overcoming**, and the revaluation of values (*Zarathustra*, *Beyond Good and Evil*, *On the Genealogy of Morality*).
 - **Eternal recurrence**: a test of one's affirmation of life.
-- **Perspectivism** and the critique of the "true world" (the Twilight of the Idols, 1888, recounts "how the true world became a fable").
+- **Perspectivism** and the critique of the "true world" (*Twilight of the Idols*, written 1888 and published 1889, recounts "how the true world became a fable").
 
 ## Karl Jaspers as an Intermediary
 
@@ -54,7 +54,7 @@ Karl Jaspers (1883-1969), who trained as a psychiatrist (*General Psychopatholog
 Adler (1870-1937) broke with Freud in 1911. Some commentators see echoes of Nietzsche's will to power in Adler's early notions of striving for power and superiority, but Adler's own debt is debated and later replaced by emphasis on social interest (*Gemeinschaftsgefühl*).
 
 ### Viktor Frankl
-Frankl (1905-1997), founder of logotherapy and existential analysis, described the "will to meaning" in contrast to Freud's will to pleasure and Adler's will to power. He survived the Nazi camps and published *Ein Psychologe erlebt das Konzentrationslager* in 1946 (English: *Man's Search for Meaning*, 1959). Frankl drew on the existential-philosophical tradition (including Kierkegaard, Scheler, Heidegger, and Nietzsche, whose maxim about having a "why" to live he often quoted), but he was not a student of Jaspers. His own concept of "noogenic neurosis" arises from meaninglessness.
+Frankl (1905-1997), founder of logotherapy and existential analysis, described the "will to meaning" in contrast to Freud's will to pleasure and Adler's will to power. He survived the Nazi camps and published *Ein Psychologe erlebt das Konzentrationslager* in 1946 (English: *From Death-Camp to Existentialism*, 1959; later retitled *Man's Search for Meaning*). Frankl drew on the existential-philosophical tradition (including Kierkegaard, Scheler, Heidegger, and Nietzsche, whose maxim about having a "why" to live he often quoted), but he was not a student of Jaspers. His own concept of "noogenic neurosis" arises from meaninglessness.
 
 ### Binswanger and Boss
 Binswanger and Boss drew chiefly on Husserl and Heidegger (see the related entry on Daseinsanalysis).
@@ -96,10 +96,11 @@ Atlas entries connected to this entry (from the `related` field): these are inte
 - Søren Kierkegaard, *The Sickness Unto Death* (1849).
 - Friedrich Nietzsche, *The Gay Science* (1882).
 - Karl Jaspers, *Allgemeine Psychopathologie* (1913).
-- Viktor E. Frankl, *Man's Search for Meaning* (Beacon Press, 1959; German 1946).
+- Viktor E. Frankl, *Man's Search for Meaning* (Beacon Press; first English edition 1959 as *From Death-Camp to Existentialism*; German 1946).
 - Rollo May, *The Meaning of Anxiety* (Ronald Press, 1950).
 - Rollo May, Ernest Angel, and Henri F. Ellenberger (eds.), *Existence* (Basic Books, 1958).
 - Irvin D. Yalom, *Existential Psychotherapy* (Basic Books, 1980).
 - Emmy van Deurzen, *Existential Counselling and Psychotherapy in Practice* (Sage, 1997; later editions).
+- Ernesto Spinelli, *The Interpreted World: An Introduction to Phenomenological Psychology* (Sage, 1989).
 - Mick Cooper, *Existential Therapies* (Sage, 2003).
 - "Jaspers, Karl," *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/jaspers/>

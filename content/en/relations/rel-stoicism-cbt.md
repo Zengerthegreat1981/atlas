@@ -99,4 +99,6 @@ The relation is best described as acknowledged inspiration with substantial tran
 - Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive Therapy of Depression*. Guilford Press.
 - Nussbaum, M. (1994). *The Therapy of Desire*. Princeton University Press.
 - Sellars, J. (2006). *Stoicism*. Acumen.
+- Irvine, W. B. (2008). *A Guide to the Good Life: The Ancient Art of Stoic Joy*. Oxford University Press.
+- Pigliucci, M. (2017). *How to Be a Stoic*. Basic Books.
 - Robertson, D. (2010). *The Philosophy of Cognitive-Behavioural Therapy*. Karnac.

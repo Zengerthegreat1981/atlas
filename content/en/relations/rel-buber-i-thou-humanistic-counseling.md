@@ -23,7 +23,7 @@ In *I and Thou* (*Ich und Du*, 1923), Martin Buber set out a fundamental distinc
 
 ## The Dialogue with Rogers
 
-Buber met Carl Rogers, founder of client-centered therapy, in a public dialogue at the University of Michigan in Ann Arbor in April 1957, moderated by Maurice Friedman. The text was later published within Friedman's book *The Knowledge of Man* (1965). Buber's essay "Distance and Relation," on the I-Thou relation and its bearing on psychotherapy, had appeared in the journal *Psychiatry* in 1957. This encounter is among the most famous dialogues between a philosopher and a therapist.
+Buber met Carl Rogers, the originator of client-centered therapy, in a public dialogue at the University of Michigan in Ann Arbor in April 1957, moderated by Maurice Friedman. The text was later published within Friedman's book *The Knowledge of Man* (1965). Buber's essay "Distance and Relation," on the I-Thou relation and its bearing on psychotherapy, had appeared in the journal *Psychiatry* in 1957. This encounter is among the most famous dialogues between a philosopher and a therapist.
 
 ## Philosophical Roots and Psychological Application
 
@@ -45,4 +45,5 @@ Rogers's and Buber's descriptions of the subject differ. Buber starts from an on
 - Carl R. Rogers, "The Necessary and Sufficient Conditions of Therapeutic Personality Change," *Journal of Consulting Psychology* 21(2), 1957.
 - Carl Rogers and Martin Buber dialogue, reprinted in Howard Kirschenbaum and Valerie L. Henderson (eds.), *Carl Rogers: Dialogues*, Houghton Mifflin, 1989.
 - Martin Buber, "Distance and Relation," *Psychiatry* 20(2), 1957.
+- Maurice Friedman, *The Healing Dialogue in Psychotherapy*, Jason Aronson, 1985.
 - John C. Norcross (ed.), *Psychotherapy Relationships That Work*, Oxford University Press, 2002.

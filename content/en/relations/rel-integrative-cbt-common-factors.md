@@ -89,6 +89,7 @@ Evidence on relative efficacy differs by disorder (for example, strong support f
 - Saul Rosenzweig, "Some Implicit Common Factors in Diverse Methods of Psychotherapy," *American Journal of Orthopsychiatry* 6(3) (1936).
 - Lester Luborsky, Barton Singer, and Lise Luborsky, "Comparative Studies of Psychotherapies: Is It True That 'Everyone Has Won and All Must Have Prizes'?", *Archives of General Psychiatry* 32 (1975).
 - Michael J. Lambert, "Implications of Outcome Research for Psychotherapy Integration," in J. C. Norcross and M. R. Goldfried (eds.), *Handbook of Psychotherapy Integration* (Basic Books, 1992).
+- John C. Norcross and Marvin R. Goldfried (eds.), *Handbook of Psychotherapy Integration* (Basic Books, 1992).
 - Bruce E. Wampold, *The Great Psychotherapy Debate* (Erlbaum, 2001); Wampold and Zac E. Imel, 2nd ed. (Routledge, 2015).
 - David F. Tolin, "Is Cognitive-Behavioral Therapy More Effective Than Other Therapies? A Meta-Analytic Review," *Clinical Psychology Review* 30(6) (2010).
 - Christoph Flückiger et al., "The Alliance in Adult Psychotherapy: A Meta-Analytic Synthesis," *Psychotherapy* 55(4) (2018).

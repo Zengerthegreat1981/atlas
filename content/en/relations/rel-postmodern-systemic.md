@@ -87,6 +87,11 @@ Many family therapists integrate systemic and narrative or collaborative element
 
 - Michael White and David Epston, *Narrative Means to Therapeutic Ends* (Norton, 1990).
 - Michael White, *Maps of Narrative Practice* (Norton, 2007).
+- Gregory Bateson, Don D. Jackson, Jay Haley, and John Weakland, "Toward a Theory of Schizophrenia," *Behavioral Science* 1(4) (1956).
+- Murray Bowen, *Family Therapy in Clinical Practice* (Jason Aronson, 1978).
+- Jean-François Lyotard, *La condition postmoderne* (Minuit, 1979).
+- Michael J. Mahoney, *Human Change Processes* (Basic Books, 1991).
+- Robert A. Neimeyer and Michael J. Mahoney (eds.), *Constructivism in Psychotherapy* (American Psychological Association, 1995).
 - Salvador Minuchin, *Families and Family Therapy* (Harvard University Press, 1974).
 - Mara Selvini Palazzoli et al., *Paradox and Counterparadox* (Jason Aronson, 1978).
 - Kenneth J. Gergen, "The Social Constructionist Movement in Modern Psychology," *American Psychologist* 40(3) (1985).

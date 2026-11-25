@@ -27,7 +27,7 @@ The Arabic heritage did not know the term "emergence," but it knew the idea in t
 
 ## Modern Formulation
 
-George Henry Lewes took the term "emergent" in *Problems of Life and Mind* (1875) to distinguish it from the "resultant," which can be calculated. Samuel Alexander, in *Space, Time, and Deity* (1920), added that the philosopher must accept emergent qualities with "natural piety" as raw empirical facts. Lloyd Morgan wrote *Emergent Evolution* (1923). Then C. D. Broad, in *The Mind and Its Place in Nature* (1925), offered the most precise philosophical analysis of the question: he distinguished "pure mechanism," which calculates everything from the parts, from "emergentism," which admits laws that cannot be derived from the laws of the lower level. He illustrated this with the properties of silver chloride, which cannot be extracted from the properties of silver and chlorine. In psychology, the Gestalt school (Koffka, Köhler and Wertheimer, building on Christian von Ehrenfels) argued that wholes have properties not found in their parts.
+George Henry Lewes took the term "emergent" in *Problems of Life and Mind* (1875) to distinguish it from the "resultant," which can be calculated. Samuel Alexander, in *Space, Time, and Deity* (1920), added that the philosopher must accept emergent qualities with "natural piety" as raw empirical facts. Lloyd Morgan wrote *Emergent Evolution* (1923). Then C. D. Broad, in *The Mind and Its Place in Nature* (1925), offered an influential philosophical analysis of the question: he distinguished "pure mechanism," which calculates everything from the parts, from "emergentism," which admits laws that cannot be derived from the laws of the lower level. He illustrated this with the properties of silver chloride, which cannot be extracted from the properties of silver and chlorine. In psychology, the Gestalt school (Koffka, Köhler and Wertheimer, building on Christian von Ehrenfels) argued that wholes have properties not found in their parts.
 
 ## Contemporary Debate
 
@@ -53,3 +53,6 @@ Critics argue that the word "emergent" may be a name for our ignorance rather th
 - Holland, John H. *Emergence: From Chaos to Order*. Reading, MA: Addison-Wesley, 1998.
 - Clayton, Philip, and Paul Davies, eds. *The Re-Emergence of Emergence*. Oxford: Oxford University Press, 2006.
 - Thompson, Evan. *Mind in Life*. Cambridge, MA: Harvard University Press, 2007.
+- Mill, John Stuart. *A System of Logic*. London: John W. Parker, 1843.
+- Lewes, George Henry. *Problems of Life and Mind*, vol. 2. London: Trübner, 1875.
+- Alexander, Samuel. *Space, Time, and Deity*. London: Macmillan, 1920.

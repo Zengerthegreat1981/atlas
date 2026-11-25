@@ -75,5 +75,8 @@ Neither field is monolithic. Positive psychology includes qualitative and humani
 - Abraham H. Maslow, *Toward a Psychology of Being* (Van Nostrand, 1962).
 - Martin E. P. Seligman and Mihaly Csikszentmihalyi, "Positive Psychology: An Introduction," *American Psychologist* 55(1) (2000).
 - Arthur C. Bohart and Thomas Greening, "Humanistic Psychology and Positive Psychology," *American Psychologist* 56(1) (2001).
+- Martin E. P. Seligman, *Authentic Happiness* (Free Press, 2002).
+- Christopher Peterson and Martin E. P. Seligman, *Character Strengths and Virtues* (Oxford University Press / American Psychological Association, 2004).
+- Edward L. Deci and Richard M. Ryan, *Intrinsic Motivation and Self-Determination in Human Behavior* (Plenum, 1985).
 - Martin E. P. Seligman, *Flourish* (Free Press, 2011).
 - Mihaly Csikszentmihalyi, *Flow: The Psychology of Optimal Experience* (Harper and Row, 1990).

@@ -38,7 +38,7 @@ Hegel's concept of negativity (*Negativität*) intersects with repression: both 
 
 ## Limits of the Bridge
 
-Freud did not read Hegel and was not influenced by him, and he claimed ignorance of philosophy. The bridge is therefore Lacanian-French, not Freudian. Kojève's own reading also calls for caution: it is a selective reading that ignores Hegel's logic, religion, and the state. In *Anti-Oedipus* (1972), Deleuze and Guattari objected to the Hegelian-Oedipal analysis that reduces desire to lack, and they formulated a productive desire. In the clinic, Hegel provides no technique; his influence lies primarily in the conception of the self and of recognition, not in procedures. The closest example is the conception of the therapeutic relationship as mutual recognition in Jessica Benjamin and Axel Honneth.
+There is no evidence that Freud read Hegel closely or was shaped by him, and he repeatedly distanced himself from philosophy. The bridge is therefore Lacanian-French, not Freudian. Kojève's own reading also calls for caution: it is a selective reading that ignores Hegel's logic, religion, and the state. In *Anti-Oedipus* (1972), Deleuze and Guattari objected to the Hegelian-Oedipal analysis that reduces desire to lack, and they formulated a productive desire. In the clinic, Hegel provides no technique; his influence lies primarily in the conception of the self and of recognition, not in procedures. The closest example is the conception of the therapeutic relationship as mutual recognition in Jessica Benjamin and Axel Honneth.
 
 ## Sources
 
@@ -46,5 +46,7 @@ Freud did not read Hegel and was not influenced by him, and he claimed ignorance
 - Hyppolite, Jean. *Genèse et structure de la Phénoménologie de l'esprit de Hegel*. Aubier, 1946.
 - Lacan, Jacques. *Écrits*. Éditions du Seuil, 1966.
 - Žižek, Slavoj. *The Sublime Object of Ideology*. Verso, 1989.
+- Marcuse, Herbert. *Reason and Revolution*. Oxford University Press, 1941.
+- Deleuze, Gilles, and Félix Guattari. *L'Anti-Œdipe*. Éditions de Minuit, 1972.
 - Benjamin, Jessica. *The Bonds of Love*. Pantheon, 1988.
 - Honneth, Axel. *Kampf um Anerkennung* (*The Struggle for Recognition*). Suhrkamp, 1992.

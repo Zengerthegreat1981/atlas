@@ -44,3 +44,5 @@ Religious conscience has a subjective character that the court can verify only t
 - Rawls, John. *A Theory of Justice*. Cambridge, MA: Harvard University Press, 1971.
 - Hart, H. L. A. "Positivism and the Separation of Law and Morals." *Harvard Law Review* 71 (1958).
 - Fuller, Lon L. "Positivism and Fidelity to Law: A Reply to Professor Hart." *Harvard Law Review* 71 (1958).
+- Thoreau, Henry David. "Resistance to Civil Government." In *Aesthetic Papers*, 1849.
+- al-Ghazali. *Ihya' 'Ulum al-Din*.

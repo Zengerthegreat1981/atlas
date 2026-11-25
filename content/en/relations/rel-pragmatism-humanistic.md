@@ -23,7 +23,7 @@ gaps: []
 
 # American Pragmatism and Humanistic Psychology: From William James to Rogers
 
-American pragmatism and humanistic psychology share an emphasis on experience, practical consequences, democratic values, and the person as an active agent. The connections are partly documented and partly thematic. For Dewey's influence on Carl Rogers there is biographical evidence. For William James's influence on Rogers there is not: Rogers cited James little, and the link is a comparison made by later commentators. Maslow's debt to James is more often noted in connection with peak and mystical experience. The relationship is therefore a combination of documented influences and parallels, not a single lineage.
+American pragmatism and humanistic psychology share an emphasis on experience, practical consequences, democratic values, and the person as an active agent. The connections are partly documented and partly thematic. For Dewey's influence on Carl Rogers there is biographical evidence. For William James's influence on Rogers there is no comparable documentation; the link is a comparison made by later commentators. Maslow's debt to James is more often noted in connection with peak and mystical experience. The relationship is therefore a combination of documented influences and parallels, not a single lineage.
 
 ## The Philosophical Context: Pragmatism
 
@@ -96,7 +96,9 @@ The comparison risks reading later humanistic ideas into James and Dewey. Pragma
 - Charles S. Peirce, "How to Make Our Ideas Clear," *Popular Science Monthly* 12 (1878).
 - James R. Angell, "The Province of Functional Psychology," *Psychological Review* 14(2) (1907).
 - Carl R. Rogers, *Client-Centered Therapy* (Houghton Mifflin, 1951) and *On Becoming a Person* (Houghton Mifflin, 1961).
+- Carl R. Rogers, *Freedom to Learn* (Charles E. Merrill, 1969).
+- Richard Rorty, *Philosophy and the Mirror of Nature* (Princeton University Press, 1979).
 - Howard Kirschenbaum, *On Becoming Carl Rogers* (Delacorte Press, 1979).
-- Abraham H. Maslow, *Motivation and Personality* (Harper, 1954) and *Religions, Values, and Peak-Experiences* (Ohio State University Press, 1964).
+- Abraham H. Maslow, *Motivation and Personality* (Harper, 1954) *Toward a Psychology of Being* (Van Nostrand, 1962), and *Religions, Values, and Peak-Experiences* (Ohio State University Press, 1964).
 - Eugene Taylor, *William James on Consciousness Beyond the Margin* (Princeton University Press, 1996).
 - Cornel West, *The American Evasion of Philosophy* (University of Wisconsin Press, 1989).

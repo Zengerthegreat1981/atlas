@@ -74,6 +74,11 @@ Equating transference with alliance blurs a real theoretical distinction. Moreov
 - Sigmund Freud, "The Dynamics of Transference" (1912), *Standard Edition* vol. 12.
 - Josef Breuer and Sigmund Freud, *Studies on Hysteria* (1895).
 - Edward S. Bordin, "The Generalizability of the Psychoanalytic Concept of the Working Alliance," *Psychotherapy: Theory, Research and Practice* 16(3) (1979).
+- Elizabeth R. Zetzel, "Current Concepts of Transference," *International Journal of Psychoanalysis* 37 (1956).
+- Ralph R. Greenson, "The Working Alliance and the Transference Neurosis," *Psychoanalytic Quarterly* 34 (1965).
+- Michael Balint, *The Basic Fault* (Tavistock, 1968).
+- Heinz Kohut, *The Analysis of the Self* (International Universities Press, 1971).
+- Lester Luborsky, *Principles of Psychoanalytic Psychotherapy: A Manual for Supportive-Expressive Treatment* (Basic Books, 1984).
 - Merton M. Gill, *Analysis of Transference*, vol. 1 (International Universities Press, 1982).
 - Stephen A. Mitchell, *Relational Concepts in Psychoanalysis* (Harvard University Press, 1988).
 - Jay R. Greenberg and Stephen A. Mitchell, *Object Relations in Psychoanalytic Theory* (Harvard University Press, 1983).

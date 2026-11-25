@@ -46,6 +46,8 @@ The first limit is that Aristotelian eudaimonia is objective: a person is flouri
 - Carol D. Ryff, "Happiness Is Everything, or Is It? Explorations on the Meaning of Psychological Well-Being," *Journal of Personality and Social Psychology* 57(6), 1989.
 - Alan S. Waterman, "Two Conceptions of Happiness," *Journal of Personality and Social Psychology* 64(4), 1993.
 - Richard M. Ryan and Edward L. Deci, "On Happiness and Human Potentials," *Annual Review of Psychology* 52, 2001.
+- Aristotle, *Nicomachean Ethics*.
+- Martin E. P. Seligman, *Authentic Happiness*, Free Press, 2002.
 - Martin E. P. Seligman, *Flourish*, Free Press, 2011.
 - Christopher Peterson and Martin E. P. Seligman, *Character Strengths and Virtues: A Handbook and Classification*, Oxford University Press / American Psychological Association, 2004.
 - Nancy L. Sin and Sonja Lyubomirsky, "Enhancing Well-Being and Alleviating Depressive Symptoms with Positive Psychology Interventions: A Practice-Friendly Meta-Analysis," *Journal of Clinical Psychology* 65(5), 2009.

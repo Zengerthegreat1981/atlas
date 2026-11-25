@@ -42,6 +42,9 @@ The difference is fundamental. Hume describes the experience of every human bein
 
 - Marmura, Michael E. "Avicenna's 'Flying Man' in Context." *The Monist* 69(3), 1986.
 - Hume, David. *A Treatise of Human Nature*. John Noon, 1739.
+- Parfit, Derek. *Reasons and Persons*. Oxford University Press, 1984.
+- Putnam, Frank W. *Diagnosis and Treatment of Multiple Personality Disorder*. Guilford Press, 1989.
+- Sass, Louis A., and Josef Parnas. "Schizophrenia, Consciousness, and the Self." *Schizophrenia Bulletin* 29(3), 2003.
 - Sierra, Mauricio. *Depersonalization: A New Look at a Neglected Syndrome*. Cambridge University Press, 2009.
 - Zahavi, Dan. *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press, 2005.
 - Hacking, Ian. *Rewriting the Soul: Multiple Personality and the Sciences of Memory*. Princeton University Press, 1995.

@@ -26,7 +26,7 @@ The common factors perspective can be read as an empirical successor to ideas th
 
 ## Starting Point: Rogers
 
-- **Carl Rogers** (1902-1987) founded client-centered therapy in *Counseling and Psychotherapy* (1942) and elaborated it in *Client-Centered Therapy* (1951).
+- **Carl Rogers** (1902-1987) developed client-centered therapy in *Counseling and Psychotherapy* (1942) and elaborated it in *Client-Centered Therapy* (1951).
 - In "The Necessary and Sufficient Conditions of Therapeutic Personality Change" (*Journal of Consulting Psychology*, 1957), Rogers proposed six conditions: (1) two persons in psychological contact; (2) the client is in a state of incongruence; (3) the therapist is congruent (genuine) in the relationship; (4) the therapist experiences unconditional positive regard for the client; (5) the therapist experiences an empathic understanding of the client's frame of reference and communicates it; (6) the client perceives, at least minimally, the therapist's empathy and regard.
 - Rogers held these conditions to be necessary and sufficient. This remains a strong and contested claim.
 
@@ -88,6 +88,9 @@ Humanistic psychology provides a long-standing clinical and theoretical vocabula
 - Charles B. Truax and Robert R. Carkhuff, *Toward Effective Counseling and Psychotherapy* (Aldine, 1967).
 - Jerome D. Frank, *Persuasion and Healing* (Johns Hopkins University Press, 1961).
 - Bruce E. Wampold, *The Great Psychotherapy Debate* (Erlbaum, 2001); Wampold and Imel (Routledge, 2015).
+- Michael J. Lambert, "Implications of Outcome Research for Psychotherapy Integration," in J. C. Norcross and M. R. Goldfried (eds.), *Handbook of Psychotherapy Integration* (Basic Books, 1992).
+- John C. Norcross and Michael J. Lambert (eds.), *Psychotherapy Relationships That Work*, 3rd ed. (Oxford University Press, 2019).
+- Saul Rosenzweig, "Some Implicit Common Factors in Diverse Methods of Psychotherapy," *American Journal of Orthopsychiatry* 6(3) (1936).
 - Robert Elliott, Arthur C. Bohart, Jeanne C. Watson, and Leslie S. Greenberg, "Empathy," *Psychotherapy* 48(1) (2011).
 - Robert Elliott, Leslie S. Greenberg, Jeanne Watson, Ladislav Timulak, and Elizabeth Freire, "Research on Humanistic-Experiential Psychotherapies," in M. J. Lambert (ed.), *Bergin and Garfield's Handbook of Psychotherapy and Behavior Change*, 6th ed. (Wiley, 2013).
 - Mick Cooper and John McLeod, "Person-Centered Therapy: A Pluralistic Perspective," *Person-Centered and Experiential Psychotherapies* 10(3) (2011).

@@ -7,7 +7,7 @@ level: "متوسط"
 title: "The Psychology of Debt and Financial Stress"
 en: "The Psychology of Debt and Financial Stress"
 crumb: "Bridges ← Concepts ← The Psychology of Debt and Financial Stress"
-active_start: 2004
+active_start: 1977
 active_end: "مستمر"
 edges:
 - rel: "relates_to", target: "Debt Overhang", target_type: "مفهوم"

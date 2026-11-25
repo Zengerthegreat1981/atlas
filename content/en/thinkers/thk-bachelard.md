@@ -62,5 +62,5 @@ Ghalib Halasa translated *The Poetics of Space* into Arabic, and it became one o
 - Gaston Bachelard, *Le Nouvel Esprit scientifique*, Paris: Alcan, 1934.
 - Gaston Bachelard, *La Poétique de l'espace*, Paris: PUF, 1957.
 - Gaston Bachelard, *Jamaliyat al-Makan* [*The Poetics of Space*], translated by Ghalib Halasa, Beirut: Al-Mu'assasa al-Jami'iya li-l-Dirasat wa-l-Nashr (year of edition not verified).
-- Dominique Lecourt, *Bachelard, le jour et la nuit*, Paris: Grasset, 1974.
+- Dominique Lecourt, *Bachelard ou le jour et la nuit*, Paris: Grasset, 1974.
 - Mary Tiles, *Bachelard: Science and Objectivity*, Cambridge: Cambridge University Press, 1984.

@@ -86,7 +86,7 @@ The correspondence is available in *The Freud/Jung Letters*, edited by William M
 
 - **IAAP** (International Association for Analytical Psychology), founded in 1955, is the main international body of Jungian analysts.
 - **IPA** remains the international body of Freudian and post-Freudian psychoanalysis. The two organizations have separate training standards.
-- Jung's *Psychological Types* (1921) was his first major independent theoretical work after the break; his *Red Book* (*Liber Novus*) was published only in 2009.
+- Jung's *Psychological Types* (1921) was a major theoretical work published after the break; his *Red Book* (*Liber Novus*) was published only in 2009.
 
 ## Dialogue in the Clinic Today
 

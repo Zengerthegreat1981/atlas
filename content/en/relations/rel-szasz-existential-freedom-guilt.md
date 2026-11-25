@@ -56,6 +56,10 @@ Against Szasz's thesis stands the fact that severe disorders such as schizophren
 
 - Szasz, Thomas S. *The Myth of Mental Illness: Foundations of a Theory of Personal Conduct*. Hoeber-Harper, 1961.
 - Szasz, Thomas S. *Law, Liberty, and Psychiatry*. Macmillan, 1963.
+- Szasz, Thomas S. *Psychiatric Justice*. Macmillan, 1965.
+- Szasz, Thomas S. *Antipsychiatry: Quackery Squared*. Syracuse University Press, 2009.
+- Sartre, Jean-Paul. *L'Être et le néant*. Gallimard, 1943.
+- Sartre, Jean-Paul. *L'existentialisme est un humanisme*. Nagel, 1946.
 - Heidegger, Martin. *Sein und Zeit*. Max Niemeyer, 1927.
 - Laing, R. D. *The Divided Self*. Tavistock Publications, 1960.
 - Yalom, Irvin D. *Existential Psychotherapy*. Basic Books, 1980.

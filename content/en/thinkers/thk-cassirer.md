@@ -64,6 +64,7 @@ In the third volume of *The Philosophy of Symbolic Forms*, Cassirer drew on the 
 - Cassirer, Ernst. *Die Philosophie der symbolischen Formen*. 3 vols. Berlin: Bruno Cassirer, 1923–1929.
 - Cassirer, Ernst. *An Essay on Man: An Introduction to a Philosophy of Human Culture*. New Haven: Yale University Press, 1944.
 - Cassirer, Ernst. *The Myth of the State*. New Haven: Yale University Press, 1946.
+- Cassirer, Ernst. *Substanzbegriff und Funktionsbegriff*. Berlin: Bruno Cassirer, 1910.
 - Werner, Heinz, and Bernard Kaplan. *Symbol Formation*. New York: Wiley, 1963.
 - Krois, John Michael. *Cassirer: Symbolic Forms and History*. New Haven: Yale University Press, 1987.
 - Gordon, Peter E. *Continental Divide: Heidegger, Cassirer, Davos*. Cambridge, MA: Harvard University Press, 2010.

@@ -24,7 +24,7 @@ gaps:
 ---
 # Psychoanalysis and CBT: From Reaction to Hybrid
 
-Cognitive-behavioral therapy (CBT) is a twentieth-century rival of psychoanalysis of a distinctive kind. Its two main founders, Albert Ellis and Aaron T. Beck, were trained in psychoanalysis and left it, carrying with them an interest in how beliefs and meanings shape emotion. Later developments, including the "third wave" therapies and psychodynamic work that borrows CBT's empirical habits, have blurred the boundary again.
+Cognitive-behavioral therapy (CBT) is a twentieth-century rival of psychoanalysis of a distinctive kind. Two of its principal originators, Albert Ellis and Aaron T. Beck, were trained in psychoanalysis and left it, carrying with them an interest in how beliefs and meanings shape emotion. Later developments, including the "third wave" therapies and psychodynamic work that borrows CBT's empirical habits, have blurred the boundary again.
 
 ## The Starting Point: Ellis and Beck Began Inside Psychoanalysis
 
@@ -98,4 +98,7 @@ Paul Wachtel's *Psychoanalysis and Behavior Therapy: Toward an Integration* (197
 - Wachtel, P. L. (1977). *Psychoanalysis and Behavior Therapy: Toward an Integration*. Basic Books.
 - Salkovskis, P. M. (1991). The importance of behaviour in the maintenance of anxiety and panic: A cognitive account. *Behavioural Psychotherapy*, 19, 6-19.
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitment Therapy*. Guilford Press.
+- Beck, J. S. (1995). *Cognitive Therapy: Basics and Beyond*. Guilford Press.
+- Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
+- Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). *Mindfulness-Based Cognitive Therapy for Depression*. Guilford Press.
 - Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). *Schema Therapy: A Practitioner's Guide*. Guilford Press.

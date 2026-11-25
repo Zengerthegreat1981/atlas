@@ -17,7 +17,7 @@ gaps: []
 
 ## Ibn Khaldun and the Cycle of Civilisation and Mission
 
-In the Arab heritage, Ibn Khaldun was the foremost reader of religious transformation in the light of historical movement. In the *Muqaddimah* (1377) he holds that religious mission is renewed at the margins of nomadic civilisation, where group solidarity (*'asabiyyah*) is strong; it founds a state, then its zeal wanes through luxury within roughly three generations, and the turn of another mission comes. Thus the historical presence of religion in his account takes the form of cycles, and adapts to the level of civilisation. Later historians of the spread of Islam have approached the question quantitatively: Richard Bulliet, in *Conversion to Islam in the Medieval Period* (1979), showed that conversion to Islam in Iran, Egypt, Iraq and Spain followed a bell-shaped curve extending over centuries, in that about half the population of Iran had converted by around the third century AH, and he relied on an analysis of the names in biographical dictionaries. His findings tell against the image of a sudden conversion by the sword.
+In the Arab heritage, Ibn Khaldun was an influential reader of religious transformation in the light of historical movement. In the *Muqaddimah* (1377) he holds that religious mission is renewed at the margins of nomadic civilisation, where group solidarity (*'asabiyyah*) is strong; it founds a state, then its zeal wanes through luxury within roughly three generations, and the turn of another mission comes. Thus the historical presence of religion in his account takes the form of cycles, and adapts to the level of civilisation. Later historians of the spread of Islam have approached the question quantitatively: Richard Bulliet, in *Conversion to Islam in the Medieval Period* (1979), showed that conversion to Islam in Iran, Egypt, Iraq and Spain followed a bell-shaped curve extending over centuries, in that about half the population of Iran had converted by around the third century AH, and he relied on an analysis of the names in biographical dictionaries. His findings tell against the image of a sudden conversion by the sword.
 
 ## The Axial Age and Structural Transformation
 
@@ -39,3 +39,4 @@ Comparative history of conversion is open to risks. The model of the Axial Age i
 - Nehemia Levtzion (ed.), *Conversion to Islam*, Holmes and Meier, 1979.
 - Karl Jaspers, *Vom Ursprung und Ziel der Geschichte*, Zürich: Artemis, 1949.
 - Robert N. Bellah, *Religion in Human Evolution: From the Paleolithic to the Axial Age*, Harvard University Press, 2011.
+- Max Weber, *Wirtschaft und Gesellschaft*, Tübingen: Mohr, 1922 (on the routinization of charisma).

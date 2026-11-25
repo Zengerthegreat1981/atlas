@@ -36,7 +36,7 @@ The *Daodejing* (道德经), attributed to Laozi (traditionally dated to the 6th
 
 ## The Systemic Origin
 
-**Gregory Bateson** (1904-1980), in *Naven* (1936) and *Steps to an Ecology of Mind* (1972), contributed ideas that became central to systemic therapy: mind and communication as patterns within larger systems, information as "a difference that makes a difference," and (with Jackson, Haley, and Weakland, 1956) the **double bind**, a communicative pattern involving contradictory messages at different levels. These ideas shaped:
+**Gregory Bateson** (1904-1980), in *Naven* (1936) and *Steps to an Ecology of Mind* (1972), contributed ideas that became central to systemic therapy: mind and communication as patterns within larger systems, information as "a difference that makes a difference," and (with Jackson, Haley, and Weakland, 1956) the **double bind**, a communicative pattern involving contradictory messages at different levels. These ideas shaped, to differing degrees, several later approaches (Bowen developed his own theory largely independently of Bateson):
 
 - **The Mental Research Institute (Palo Alto)** (Watzlawick and others): brief and strategic therapy.
 - **Salvador Minuchin:** structural family therapy (boundaries, subsystems).

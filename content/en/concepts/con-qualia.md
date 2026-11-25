@@ -7,7 +7,7 @@ level: "متقدم"
 title: "Qualia: The 'What-It-Is-Likeness' of Experience"
 en: "Qualia: The 'What-It-Is-Likeness' of Experience"
 crumb: "Bridges ← Concepts ← Qualia: The 'What-It-Is-Likeness' of Experience"
-active_start: 1982
+active_start: 1974
 active_end: "مستمر"
 edges:
   - rel: "belongs_to", target: "Analytic Philosophy of Mind (umbrella)", target_type: "مدرسة"

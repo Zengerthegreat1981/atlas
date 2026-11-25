@@ -49,6 +49,9 @@ Statements that Kant is the "explicit philosophical foundation" of schema theory
 - Sabra, A. I., trans. *The Optics of Ibn al-Haytham, Books I–III: On Direct Vision*. Warburg Institute, 1989.
 - Kant, Immanuel. *Kritik der reinen Vernunft*. Johann Friedrich Hartknoch, 1781.
 - Bartlett, Frederic C. *Remembering: A Study in Experimental and Social Psychology*. Cambridge University Press, 1932.
+- Head, Henry, and Gordon Holmes. "Sensory Disturbances from Cerebral Lesions." *Brain* 34 (1911).
+- Piaget, Jean. *La naissance de l'intelligence chez l'enfant*. Delachaux et Niestlé, 1936 (English: *The Origins of Intelligence in Children*, 1952).
+- Friston, Karl. "The Free-Energy Principle: A Unified Brain Theory?" *Nature Reviews Neuroscience* 11 (2010).
 - Rumelhart, David E. "Schemata: The Building Blocks of Cognition." In *Theoretical Issues in Reading Comprehension*, edited by Rand J. Spiro et al. Lawrence Erlbaum, 1980.
 - Clark, Andy. "Whatever Next? Predictive Brains, Situated Agents, and the Future of Cognitive Science." *Behavioral and Brain Sciences*, 2013.
 - Beck, Aaron T. *Depression: Clinical, Experimental, and Theoretical Aspects*. Harper & Row, 1967.

@@ -27,7 +27,7 @@ Between 1955 and 1956, Goffman carried out fieldwork at St. Elizabeths Hospital 
 
 ## The Impact on Psychology and Psychiatry
 
-Goffman's thesis was that much of what is read as a symptom of illness is the effect of confinement itself. Russell Barton had preceded him with *Institutional Neurosis* (1959), and then the study by Wing and Brown, *Institutionalism and Schizophrenia* (1970), confirmed that negative symptoms are linked to the poverty of the institutional environment. After Goffman, a movement to discharge patients from the asylums spread; examples include the Kennedy Community Mental Health Act (1963) in America and the Basaglia Law (1978) in Italy. His idea of stigma became the source of later theories: Thomas Scheff's labelling theory (1966), Bruce Link and colleagues' modified labelling theory (1989), and Link and Phelan's definition of stigma (2001) as the convergence of labelling, stereotyping, separation, loss of status and discrimination within a context of power. From social stigma was born the concept of "self-stigma," associated with Corrigan.
+Goffman's thesis was that some of what is read as a symptom of illness is the effect of confinement itself. Russell Barton had preceded him with *Institutional Neurosis* (1959), and then the study by Wing and Brown, *Institutionalism and Schizophrenia* (1970), confirmed that negative symptoms are linked to the poverty of the institutional environment. After Goffman, a movement to discharge patients from the asylums spread; examples include the Kennedy Community Mental Health Act (1963) in America and the Basaglia Law (1978) in Italy. His idea of stigma became the source of later theories: Thomas Scheff's labelling theory (1966), Bruce Link and colleagues' modified labelling theory (1989), and Link and Phelan's definition of stigma (2001) as the convergence of labelling, stereotyping, separation, loss of status and discrimination within a context of power. From social stigma was born the concept of "self-stigma," associated with Corrigan.
 
 ## A Comparison with the Medieval Arab Hospital
 
@@ -42,4 +42,7 @@ Goffman did not write as a psychologist, and his method is descriptive, based on
 - Dols, Michael W. "The Origins of the Islamic Hospital: Myth and Reality." *Bulletin of the History of Medicine*, 1987.
 - Goffman, Erving. *Asylums: Essays on the Social Situation of Mental Patients and Other Inmates*. Anchor Books, 1961.
 - Goffman, Erving. *Stigma: Notes on the Management of Spoiled Identity*. Prentice-Hall, 1963.
+- Barton, Russell. *Institutional Neurosis*. John Wright, 1959.
+- Wing, John K., and George W. Brown. *Institutionalism and Schizophrenia*. Cambridge University Press, 1970.
+- Scheff, Thomas J. *Being Mentally Ill: A Sociological Theory*. Aldine, 1966.
 - Link, Bruce G., and Jo C. Phelan. "Conceptualizing Stigma." *Annual Review of Sociology* 27, 2001.

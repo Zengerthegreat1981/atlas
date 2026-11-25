@@ -21,7 +21,7 @@ In the Islamic tradition, punishment is not understood as pure retaliation, but 
 
 ## Theoretical Questions: Religion as a Source of Moral Law
 
-When this domain is read through the lens of sociology, Émile Durkheim's analysis in *The Division of Labour in Society* (1893) stands out: penal law in homogeneous societies expresses the collective conscience, and punishment is a collective emotional reaction to the violation of the sacred before it is a calculation of deterrence. Nietzsche, in *On the Genealogy of Morals* (1887), traces the notion of guilt (*Schuld*) to the debtor-creditor relation, and sees religious punishment as the transformation of external pain into a tormenting internal conscience. Against them, Paul Ricœur, in *The Symbolism of Evil* (1960), offers a phenomenological reading of defilement, sin, and guilt as layers of symbolic experience that precede legislation. H. L. A. Hart, in *Punishment and Responsibility* (1968), adds the decisive distinction between justifying a system of punishment and distributing it, a distinction useful for examining any religious system of retribution.
+When this domain is read through the lens of sociology, Émile Durkheim's analysis in *The Division of Labour in Society* (1893) stands out: penal law in homogeneous societies expresses the collective conscience, and punishment is a collective emotional reaction to the violation of the sacred before it is a calculation of deterrence. Nietzsche, in *On the Genealogy of Morals* (1887), traces the notion of guilt (*Schuld*) to the debtor-creditor relation, and sees religious punishment as the transformation of external pain into a tormenting internal conscience. Against them, Paul Ricœur, in *The Symbolism of Evil* (1960), offers a phenomenological reading of defilement, sin, and guilt as layers of symbolic experience that precede legislation. H. L. A. Hart, in *Punishment and Responsibility* (1968), adds a key distinction between justifying a system of punishment and distributing it, a distinction useful for examining any religious system of retribution.
 
 ## Points of Convergence and Divergence
 
@@ -38,3 +38,7 @@ Comparing religious punishment with moral law faces two dangers. The first is pr
 - Émile Durkheim, *De la division du travail social*, Paris: Félix Alcan, 1893.
 - Paul Ricœur, *Finitude et culpabilité: II. La symbolique du mal*, Paris: Aubier, 1960.
 - H. L. A. Hart, *Punishment and Responsibility: Essays in the Philosophy of Law*, Oxford University Press, 1968.
+- al-Ghazali, *al-Mustasfa min 'ilm al-usul*.
+- al-Shatibi, *al-Muwafaqat fi usul al-shari'a*.
+- al-Mawardi, *al-Ahkam al-sultaniyya*.
+- Friedrich Nietzsche, *Zur Genealogie der Moral*, 1887.

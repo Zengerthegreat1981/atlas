@@ -42,6 +42,7 @@ The somatic marker hypothesis is disputed. Dunn, Dalgleish, and Lawrence (2006),
 - Baruch Spinoza, *Ethica ordine geometrico demonstrata*, in *Opera posthuma*, Amsterdam, 1677.
 - Antonio R. Damasio, *Descartes' Error: Emotion, Reason, and the Human Brain*, G. P. Putnam's Sons, 1994.
 - Antonio Damasio, *Looking for Spinoza: Joy, Sorrow, and the Feeling Brain*, Harcourt, 2003.
+- Paul J. Eslinger and Antonio R. Damasio, "Severe Disturbance of Higher Cognition after Bilateral Frontal Lobe Ablation: Patient EVR," *Neurology* 35(12), 1985.
 - Antoine Bechara, Antonio R. Damasio, Hanna Damasio, and Steven W. Anderson, "Insensitivity to Future Consequences Following Damage to Human Prefrontal Cortex," *Cognition* 50, 1994.
 - Barnaby D. Dunn, Tim Dalgleish, and Andrew D. Lawrence, "The Somatic Marker Hypothesis: A Critical Evaluation," *Neuroscience and Biobehavioral Reviews* 30(2), 2006.
 - Tiago V. Maia and James L. McClelland, "A Reexamination of the Evidence for the Somatic Marker Hypothesis," *Proceedings of the National Academy of Sciences* 101(45), 2004.

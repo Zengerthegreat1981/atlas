@@ -42,3 +42,4 @@ The comparison raises difficulties. Eliade's division between cyclical and linea
 - Fernand Braudel, "Histoire et sciences sociales: la longue durée," *Annales: Économies, Sociétés, Civilisations* 13(4), 1958.
 - Jan Assmann, *Das kulturelle Gedächtnis*, C. H. Beck, 1992.
 - Reinhart Koselleck, *Vergangene Zukunft: Zur Semantik geschichtlicher Zeiten*, Suhrkamp, 1979.
+- Henri Hubert and Marcel Mauss, *Mélanges d'histoire des religions*, Paris: Félix Alcan, 1909.

@@ -23,7 +23,7 @@ The concept of **habitus** in Pierre Bourdieu is a model case of a concept born 
 
 ## The Origin in the Islamic Heritage: Malaka and Custom
 
-In Arabic, Ibn Khaldun anticipated a very close idea. In the *Muqaddimah* (1377) he used the concept of *malaka* ("faculty" or "acquired disposition"), a firmly established quality of the soul that forms through repetition of an act until it becomes like a second nature, and on this basis he spoke of the faculty of language, the faculty of craft, and the faculty of knowledge. A line often quoted from the *Muqaddimah* expresses a close idea: that the human being is the child of his customs and habits more than of his nature and temperament. In addition, Bourdieu conducted his earliest studies in Algeria, including studies of Kabyle Amazigh society and of workers, and there he formulated his ideas about deeply rooted dispositions confronting the market economy. There is no published evidence that Bourdieu was influenced by Ibn Khaldun. The kinship between the two concepts is one of structure, not of historical lineage.
+In Arabic, Ibn Khaldun described a comparable idea. In the *Muqaddimah* (1377) he used the concept of *malaka* ("faculty" or "acquired disposition"), a firmly established quality of the soul that forms through repetition of an act until it becomes like a second nature, and on this basis he spoke of the faculty of language, the faculty of craft, and the faculty of knowledge. A line often quoted from the *Muqaddimah* expresses a close idea: that the human being is the child of his customs and habits more than of his nature and temperament. In addition, Bourdieu conducted his earliest studies in Algeria, including studies of Kabyle Amazigh society and of workers, and there he formulated his ideas about deeply rooted dispositions confronting the market economy. There is no published evidence that Bourdieu was influenced by Ibn Khaldun. The kinship between the two concepts is one of structure, not of historical lineage.
 
 ## The Two Angles
 
@@ -44,4 +44,5 @@ Critics, among them Richard Jenkins in *Pierre Bourdieu* (1992), argue that the 
 - Pierre Bourdieu, *La Distinction: critique sociale du jugement*, Paris: Les Éditions de Minuit, 1979.
 - Pierre Bourdieu, *Le sens pratique*, Paris: Les Éditions de Minuit, 1980.
 - Pierre Bourdieu and Loïc Wacquant, *An Invitation to Reflexive Sociology*, University of Chicago Press, 1992.
+- Richard Jenkins, *Pierre Bourdieu*, Routledge, 1992.
 - Bernard Lahire, *L'homme pluriel: les ressorts de l'action*, Paris: Nathan, 1998.

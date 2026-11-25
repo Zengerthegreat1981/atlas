@@ -59,6 +59,9 @@ It is held against Vaihinger that the criterion of usefulness is vague: what is 
 ## Sources
 
 - Vaihinger, Hans. *Die Philosophie des Als Ob*. Berlin: Reuther & Reichard, 1911; English translation: C. K. Ogden, *The Philosophy of "As If"*, Kegan Paul, 1924.
+- Lange, Friedrich Albert. *Geschichte des Materialismus*. Iserlohn: Baedeker, 1866.
+- Adler, Alfred. *Über den nervösen Charakter*. Wiesbaden: Bergmann, 1912.
+- Ogden, C. K., ed. *Bentham's Theory of Fictions*. Kegan Paul, 1932.
 - Mahdi, Muhsin. *Alfarabi and the Foundation of Islamic Political Philosophy*. University of Chicago Press, 2001.
 - Ansbacher, Heinz L., and Rowena R. Ansbacher, eds. *The Individual Psychology of Alfred Adler*. Basic Books, 1956.
 - Kelly, George A. *The Psychology of Personal Constructs*. W. W. Norton, 1955.

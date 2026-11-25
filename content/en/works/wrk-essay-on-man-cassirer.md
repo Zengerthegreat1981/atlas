@@ -55,6 +55,7 @@ The book is the easiest English-language entry into Cassirer's project in the ph
 
 - Cassirer, Ernst. *An Essay on Man: An Introduction to a Philosophy of Human Culture*. New Haven: Yale University Press, 1944.
 - Langer, Susanne K. *Philosophy in a New Key: A Study in the Symbolism of Reason, Rite, and Art*. Cambridge, MA: Harvard University Press, 1942.
+- Cassirer, Ernst. *Language and Myth*. Translated by Susanne K. Langer. New York: Harper, 1946.
 - Skidelsky, Edward. *Ernst Cassirer: The Last Philosopher of Culture*. Princeton: Princeton University Press, 2008.
 - Deacon, Terrence W. *The Symbolic Species: The Co-evolution of Language and the Brain*. New York: W. W. Norton, 1997.
 - Tomasello, Michael. *Origins of Human Communication*. Cambridge, MA: MIT Press, 2008.

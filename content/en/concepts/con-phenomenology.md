@@ -23,7 +23,7 @@ gaps: []
 ---
 # Phenomenology: The Science of Describing Phenomena as Given
 
-A philosophical movement founded by Edmund Husserl in *Logische Untersuchungen* (1900–01) and developed in *Ideen zu einer reinen Phänomenologie* (1913). It is concerned with the precise description of phenomena as they appear to consciousness, prior to any causal interpretation, scientific explanation, or metaphysical judgment. Its basic method is the "return to the things themselves" (zu den Sachen selbst): suspending preconceived judgments in order to arrive at what is "given" directly in experience.
+A philosophical movement initiated by Edmund Husserl in *Logische Untersuchungen* (1900–01) and developed in *Ideen zu einer reinen Phänomenologie* (1913). It is concerned with the precise description of phenomena as they appear to consciousness, prior to any causal interpretation, scientific explanation, or metaphysical judgment. Its basic method is the "return to the things themselves" (zu den Sachen selbst): suspending preconceived judgments in order to arrive at what is "given" directly in experience.
 
 ## The Philosophical Meaning
 
